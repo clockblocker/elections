@@ -43,14 +43,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 52,
-      "Гаев Денис Владимирович": 3,
-      "Зайцев Сергей Михайлович": 3,
-      "Ривкин Феликс Моисеевич": 5,
-      "Сизов Денис Васильевич": 10,
-      "Скоморохова Римма Вениаминовна": 11,
-      "Черешнев Валерий Александрович": 22,
-      "Шабанов Владимир Геннадьевич": 5
+      "gas:candidate-vibid:4664011175274": 52,
+      "gas:candidate-vibid:4664011175458": 3,
+      "gas:candidate-vibid:4664011156129": 3,
+      "gas:candidate-vibid:4664011175435": 5,
+      "gas:candidate-vibid:4664011155903": 10,
+      "gas:candidate-vibid:4664011175362": 11,
+      "gas:candidate-vibid:4664011175537": 22,
+      "gas:candidate-vibid:4664011175296": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732911&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732911&type=464",
@@ -101,14 +101,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 528,
-      "Гаев Денис Владимирович": 45,
-      "Зайцев Сергей Михайлович": 48,
-      "Ривкин Феликс Моисеевич": 28,
-      "Сизов Денис Васильевич": 112,
-      "Скоморохова Римма Вениаминовна": 146,
-      "Черешнев Валерий Александрович": 153,
-      "Шабанов Владимир Геннадьевич": 66
+      "gas:candidate-vibid:4664011175274": 528,
+      "gas:candidate-vibid:4664011175458": 45,
+      "gas:candidate-vibid:4664011156129": 48,
+      "gas:candidate-vibid:4664011175435": 28,
+      "gas:candidate-vibid:4664011155903": 112,
+      "gas:candidate-vibid:4664011175362": 146,
+      "gas:candidate-vibid:4664011175537": 153,
+      "gas:candidate-vibid:4664011175296": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732911&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732911&type=464",
@@ -159,14 +159,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 562,
-      "Гаев Денис Владимирович": 48,
-      "Зайцев Сергей Михайлович": 43,
-      "Ривкин Феликс Моисеевич": 33,
-      "Сизов Денис Васильевич": 140,
-      "Скоморохова Римма Вениаминовна": 101,
-      "Черешнев Валерий Александрович": 126,
-      "Шабанов Владимир Геннадьевич": 84
+      "gas:candidate-vibid:4664011175274": 562,
+      "gas:candidate-vibid:4664011175458": 48,
+      "gas:candidate-vibid:4664011156129": 43,
+      "gas:candidate-vibid:4664011175435": 33,
+      "gas:candidate-vibid:4664011155903": 140,
+      "gas:candidate-vibid:4664011175362": 101,
+      "gas:candidate-vibid:4664011175537": 126,
+      "gas:candidate-vibid:4664011175296": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732911&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732911&type=464",
@@ -217,14 +217,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 94,
-      "Гаев Денис Владимирович": 24,
-      "Зайцев Сергей Михайлович": 6,
-      "Ривкин Феликс Моисеевич": 20,
-      "Сизов Денис Васильевич": 20,
-      "Скоморохова Римма Вениаминовна": 37,
-      "Черешнев Валерий Александрович": 50,
-      "Шабанов Владимир Геннадьевич": 20
+      "gas:candidate-vibid:4664011175274": 94,
+      "gas:candidate-vibid:4664011175458": 24,
+      "gas:candidate-vibid:4664011156129": 6,
+      "gas:candidate-vibid:4664011175435": 20,
+      "gas:candidate-vibid:4664011155903": 20,
+      "gas:candidate-vibid:4664011175362": 37,
+      "gas:candidate-vibid:4664011175537": 50,
+      "gas:candidate-vibid:4664011175296": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732911&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732911&type=464",
@@ -275,14 +275,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 166,
-      "Гаев Денис Владимирович": 40,
-      "Зайцев Сергей Михайлович": 13,
-      "Ривкин Феликс Моисеевич": 52,
-      "Сизов Денис Васильевич": 31,
-      "Скоморохова Римма Вениаминовна": 59,
-      "Черешнев Валерий Александрович": 69,
-      "Шабанов Владимир Геннадьевич": 42
+      "gas:candidate-vibid:4664011175274": 166,
+      "gas:candidate-vibid:4664011175458": 40,
+      "gas:candidate-vibid:4664011156129": 13,
+      "gas:candidate-vibid:4664011175435": 52,
+      "gas:candidate-vibid:4664011155903": 31,
+      "gas:candidate-vibid:4664011175362": 59,
+      "gas:candidate-vibid:4664011175537": 69,
+      "gas:candidate-vibid:4664011175296": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732911&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732911&type=464",
@@ -333,14 +333,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 278,
-      "Гаев Денис Владимирович": 50,
-      "Зайцев Сергей Михайлович": 24,
-      "Ривкин Феликс Моисеевич": 80,
-      "Сизов Денис Васильевич": 58,
-      "Скоморохова Римма Вениаминовна": 89,
-      "Черешнев Валерий Александрович": 117,
-      "Шабанов Владимир Геннадьевич": 61
+      "gas:candidate-vibid:4664011175274": 278,
+      "gas:candidate-vibid:4664011175458": 50,
+      "gas:candidate-vibid:4664011156129": 24,
+      "gas:candidate-vibid:4664011175435": 80,
+      "gas:candidate-vibid:4664011155903": 58,
+      "gas:candidate-vibid:4664011175362": 89,
+      "gas:candidate-vibid:4664011175537": 117,
+      "gas:candidate-vibid:4664011175296": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732911&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732911&type=464",
@@ -391,14 +391,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 146,
-      "Гаев Денис Владимирович": 36,
-      "Зайцев Сергей Михайлович": 15,
-      "Ривкин Феликс Моисеевич": 37,
-      "Сизов Денис Васильевич": 41,
-      "Скоморохова Римма Вениаминовна": 60,
-      "Черешнев Валерий Александрович": 91,
-      "Шабанов Владимир Геннадьевич": 27
+      "gas:candidate-vibid:4664011175274": 146,
+      "gas:candidate-vibid:4664011175458": 36,
+      "gas:candidate-vibid:4664011156129": 15,
+      "gas:candidate-vibid:4664011175435": 37,
+      "gas:candidate-vibid:4664011155903": 41,
+      "gas:candidate-vibid:4664011175362": 60,
+      "gas:candidate-vibid:4664011175537": 91,
+      "gas:candidate-vibid:4664011175296": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732911&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732911&type=464",
@@ -449,14 +449,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 135,
-      "Гаев Денис Владимирович": 16,
-      "Зайцев Сергей Михайлович": 12,
-      "Ривкин Феликс Моисеевич": 9,
-      "Сизов Денис Васильевич": 30,
-      "Скоморохова Римма Вениаминовна": 40,
-      "Черешнев Валерий Александрович": 59,
-      "Шабанов Владимир Геннадьевич": 19
+      "gas:candidate-vibid:4664011175274": 135,
+      "gas:candidate-vibid:4664011175458": 16,
+      "gas:candidate-vibid:4664011156129": 12,
+      "gas:candidate-vibid:4664011175435": 9,
+      "gas:candidate-vibid:4664011155903": 30,
+      "gas:candidate-vibid:4664011175362": 40,
+      "gas:candidate-vibid:4664011175537": 59,
+      "gas:candidate-vibid:4664011175296": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732911&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732911&type=464",
@@ -507,14 +507,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 436,
-      "Гаев Денис Владимирович": 74,
-      "Зайцев Сергей Михайлович": 24,
-      "Ривкин Феликс Моисеевич": 146,
-      "Сизов Денис Васильевич": 70,
-      "Скоморохова Римма Вениаминовна": 127,
-      "Черешнев Валерий Александрович": 185,
-      "Шабанов Владимир Геннадьевич": 82
+      "gas:candidate-vibid:4664011175274": 436,
+      "gas:candidate-vibid:4664011175458": 74,
+      "gas:candidate-vibid:4664011156129": 24,
+      "gas:candidate-vibid:4664011175435": 146,
+      "gas:candidate-vibid:4664011155903": 70,
+      "gas:candidate-vibid:4664011175362": 127,
+      "gas:candidate-vibid:4664011175537": 185,
+      "gas:candidate-vibid:4664011175296": 82
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732911&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732911&type=464",
@@ -565,14 +565,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 69,
-      "Гаев Денис Владимирович": 17,
-      "Зайцев Сергей Михайлович": 2,
-      "Ривкин Феликс Моисеевич": 23,
-      "Сизов Денис Васильевич": 13,
-      "Скоморохова Римма Вениаминовна": 14,
-      "Черешнев Валерий Александрович": 26,
-      "Шабанов Владимир Геннадьевич": 13
+      "gas:candidate-vibid:4664011175274": 69,
+      "gas:candidate-vibid:4664011175458": 17,
+      "gas:candidate-vibid:4664011156129": 2,
+      "gas:candidate-vibid:4664011175435": 23,
+      "gas:candidate-vibid:4664011155903": 13,
+      "gas:candidate-vibid:4664011175362": 14,
+      "gas:candidate-vibid:4664011175537": 26,
+      "gas:candidate-vibid:4664011175296": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732911&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732911&type=464",
@@ -623,14 +623,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 182,
-      "Гаев Денис Владимирович": 41,
-      "Зайцев Сергей Михайлович": 11,
-      "Ривкин Феликс Моисеевич": 41,
-      "Сизов Денис Васильевич": 56,
-      "Скоморохова Римма Вениаминовна": 52,
-      "Черешнев Валерий Александрович": 82,
-      "Шабанов Владимир Геннадьевич": 22
+      "gas:candidate-vibid:4664011175274": 182,
+      "gas:candidate-vibid:4664011175458": 41,
+      "gas:candidate-vibid:4664011156129": 11,
+      "gas:candidate-vibid:4664011175435": 41,
+      "gas:candidate-vibid:4664011155903": 56,
+      "gas:candidate-vibid:4664011175362": 52,
+      "gas:candidate-vibid:4664011175537": 82,
+      "gas:candidate-vibid:4664011175296": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732911&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732911&type=464",
@@ -681,14 +681,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 328,
-      "Гаев Денис Владимирович": 55,
-      "Зайцев Сергей Михайлович": 25,
-      "Ривкин Феликс Моисеевич": 89,
-      "Сизов Денис Васильевич": 68,
-      "Скоморохова Римма Вениаминовна": 109,
-      "Черешнев Валерий Александрович": 184,
-      "Шабанов Владимир Геннадьевич": 67
+      "gas:candidate-vibid:4664011175274": 328,
+      "gas:candidate-vibid:4664011175458": 55,
+      "gas:candidate-vibid:4664011156129": 25,
+      "gas:candidate-vibid:4664011175435": 89,
+      "gas:candidate-vibid:4664011155903": 68,
+      "gas:candidate-vibid:4664011175362": 109,
+      "gas:candidate-vibid:4664011175537": 184,
+      "gas:candidate-vibid:4664011175296": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732911&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732911&type=464",
@@ -739,14 +739,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 283,
-      "Гаев Денис Владимирович": 40,
-      "Зайцев Сергей Михайлович": 14,
-      "Ривкин Феликс Моисеевич": 49,
-      "Сизов Денис Васильевич": 68,
-      "Скоморохова Римма Вениаминовна": 86,
-      "Черешнев Валерий Александрович": 146,
-      "Шабанов Владимир Геннадьевич": 54
+      "gas:candidate-vibid:4664011175274": 283,
+      "gas:candidate-vibid:4664011175458": 40,
+      "gas:candidate-vibid:4664011156129": 14,
+      "gas:candidate-vibid:4664011175435": 49,
+      "gas:candidate-vibid:4664011155903": 68,
+      "gas:candidate-vibid:4664011175362": 86,
+      "gas:candidate-vibid:4664011175537": 146,
+      "gas:candidate-vibid:4664011175296": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732911&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732911&type=464",
@@ -797,14 +797,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 49,
-      "Гаев Денис Владимирович": 14,
-      "Зайцев Сергей Михайлович": 4,
-      "Ривкин Феликс Моисеевич": 7,
-      "Сизов Денис Васильевич": 25,
-      "Скоморохова Римма Вениаминовна": 15,
-      "Черешнев Валерий Александрович": 44,
-      "Шабанов Владимир Геннадьевич": 6
+      "gas:candidate-vibid:4664011175274": 49,
+      "gas:candidate-vibid:4664011175458": 14,
+      "gas:candidate-vibid:4664011156129": 4,
+      "gas:candidate-vibid:4664011175435": 7,
+      "gas:candidate-vibid:4664011155903": 25,
+      "gas:candidate-vibid:4664011175362": 15,
+      "gas:candidate-vibid:4664011175537": 44,
+      "gas:candidate-vibid:4664011175296": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732911&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732911&type=464",
@@ -855,14 +855,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 228,
-      "Гаев Денис Владимирович": 23,
-      "Зайцев Сергей Михайлович": 22,
-      "Ривкин Феликс Моисеевич": 35,
-      "Сизов Денис Васильевич": 59,
-      "Скоморохова Римма Вениаминовна": 71,
-      "Черешнев Валерий Александрович": 152,
-      "Шабанов Владимир Геннадьевич": 52
+      "gas:candidate-vibid:4664011175274": 228,
+      "gas:candidate-vibid:4664011175458": 23,
+      "gas:candidate-vibid:4664011156129": 22,
+      "gas:candidate-vibid:4664011175435": 35,
+      "gas:candidate-vibid:4664011155903": 59,
+      "gas:candidate-vibid:4664011175362": 71,
+      "gas:candidate-vibid:4664011175537": 152,
+      "gas:candidate-vibid:4664011175296": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732911&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732911&type=464",
@@ -913,14 +913,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 227,
-      "Гаев Денис Владимирович": 43,
-      "Зайцев Сергей Михайлович": 14,
-      "Ривкин Феликс Моисеевич": 67,
-      "Сизов Денис Васильевич": 64,
-      "Скоморохова Римма Вениаминовна": 76,
-      "Черешнев Валерий Александрович": 140,
-      "Шабанов Владимир Геннадьевич": 32
+      "gas:candidate-vibid:4664011175274": 227,
+      "gas:candidate-vibid:4664011175458": 43,
+      "gas:candidate-vibid:4664011156129": 14,
+      "gas:candidate-vibid:4664011175435": 67,
+      "gas:candidate-vibid:4664011155903": 64,
+      "gas:candidate-vibid:4664011175362": 76,
+      "gas:candidate-vibid:4664011175537": 140,
+      "gas:candidate-vibid:4664011175296": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732911&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732911&type=464",
@@ -971,14 +971,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 178,
-      "Гаев Денис Владимирович": 25,
-      "Зайцев Сергей Михайлович": 15,
-      "Ривкин Феликс Моисеевич": 24,
-      "Сизов Денис Васильевич": 37,
-      "Скоморохова Римма Вениаминовна": 55,
-      "Черешнев Валерий Александрович": 108,
-      "Шабанов Владимир Геннадьевич": 17
+      "gas:candidate-vibid:4664011175274": 178,
+      "gas:candidate-vibid:4664011175458": 25,
+      "gas:candidate-vibid:4664011156129": 15,
+      "gas:candidate-vibid:4664011175435": 24,
+      "gas:candidate-vibid:4664011155903": 37,
+      "gas:candidate-vibid:4664011175362": 55,
+      "gas:candidate-vibid:4664011175537": 108,
+      "gas:candidate-vibid:4664011175296": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732911&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732911&type=464",
@@ -1029,14 +1029,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 90,
-      "Гаев Денис Владимирович": 16,
-      "Зайцев Сергей Михайлович": 4,
-      "Ривкин Феликс Моисеевич": 28,
-      "Сизов Денис Васильевич": 14,
-      "Скоморохова Римма Вениаминовна": 23,
-      "Черешнев Валерий Александрович": 68,
-      "Шабанов Владимир Геннадьевич": 9
+      "gas:candidate-vibid:4664011175274": 90,
+      "gas:candidate-vibid:4664011175458": 16,
+      "gas:candidate-vibid:4664011156129": 4,
+      "gas:candidate-vibid:4664011175435": 28,
+      "gas:candidate-vibid:4664011155903": 14,
+      "gas:candidate-vibid:4664011175362": 23,
+      "gas:candidate-vibid:4664011175537": 68,
+      "gas:candidate-vibid:4664011175296": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732911&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732911&type=464",
@@ -1087,14 +1087,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 190,
-      "Гаев Денис Владимирович": 22,
-      "Зайцев Сергей Михайлович": 18,
-      "Ривкин Феликс Моисеевич": 36,
-      "Сизов Денис Васильевич": 40,
-      "Скоморохова Римма Вениаминовна": 67,
-      "Черешнев Валерий Александрович": 113,
-      "Шабанов Владимир Геннадьевич": 21
+      "gas:candidate-vibid:4664011175274": 190,
+      "gas:candidate-vibid:4664011175458": 22,
+      "gas:candidate-vibid:4664011156129": 18,
+      "gas:candidate-vibid:4664011175435": 36,
+      "gas:candidate-vibid:4664011155903": 40,
+      "gas:candidate-vibid:4664011175362": 67,
+      "gas:candidate-vibid:4664011175537": 113,
+      "gas:candidate-vibid:4664011175296": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732911&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732911&type=464",
@@ -1145,14 +1145,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 315,
-      "Гаев Денис Владимирович": 46,
-      "Зайцев Сергей Михайлович": 26,
-      "Ривкин Феликс Моисеевич": 49,
-      "Сизов Денис Васильевич": 93,
-      "Скоморохова Римма Вениаминовна": 120,
-      "Черешнев Валерий Александрович": 184,
-      "Шабанов Владимир Геннадьевич": 60
+      "gas:candidate-vibid:4664011175274": 315,
+      "gas:candidate-vibid:4664011175458": 46,
+      "gas:candidate-vibid:4664011156129": 26,
+      "gas:candidate-vibid:4664011175435": 49,
+      "gas:candidate-vibid:4664011155903": 93,
+      "gas:candidate-vibid:4664011175362": 120,
+      "gas:candidate-vibid:4664011175537": 184,
+      "gas:candidate-vibid:4664011175296": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732911&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732911&type=464",
@@ -1203,14 +1203,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 248,
-      "Гаев Денис Владимирович": 29,
-      "Зайцев Сергей Михайлович": 25,
-      "Ривкин Феликс Моисеевич": 36,
-      "Сизов Денис Васильевич": 65,
-      "Скоморохова Римма Вениаминовна": 81,
-      "Черешнев Валерий Александрович": 198,
-      "Шабанов Владимир Геннадьевич": 41
+      "gas:candidate-vibid:4664011175274": 248,
+      "gas:candidate-vibid:4664011175458": 29,
+      "gas:candidate-vibid:4664011156129": 25,
+      "gas:candidate-vibid:4664011175435": 36,
+      "gas:candidate-vibid:4664011155903": 65,
+      "gas:candidate-vibid:4664011175362": 81,
+      "gas:candidate-vibid:4664011175537": 198,
+      "gas:candidate-vibid:4664011175296": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732911&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732911&type=464",
@@ -1261,14 +1261,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 371,
-      "Гаев Денис Владимирович": 64,
-      "Зайцев Сергей Михайлович": 35,
-      "Ривкин Феликс Моисеевич": 94,
-      "Сизов Денис Васильевич": 100,
-      "Скоморохова Римма Вениаминовна": 116,
-      "Черешнев Валерий Александрович": 217,
-      "Шабанов Владимир Геннадьевич": 71
+      "gas:candidate-vibid:4664011175274": 371,
+      "gas:candidate-vibid:4664011175458": 64,
+      "gas:candidate-vibid:4664011156129": 35,
+      "gas:candidate-vibid:4664011175435": 94,
+      "gas:candidate-vibid:4664011155903": 100,
+      "gas:candidate-vibid:4664011175362": 116,
+      "gas:candidate-vibid:4664011175537": 217,
+      "gas:candidate-vibid:4664011175296": 71
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732911&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732911&type=464",
@@ -1319,14 +1319,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 212,
-      "Гаев Денис Владимирович": 36,
-      "Зайцев Сергей Михайлович": 25,
-      "Ривкин Феликс Моисеевич": 48,
-      "Сизов Денис Васильевич": 56,
-      "Скоморохова Римма Вениаминовна": 65,
-      "Черешнев Валерий Александрович": 141,
-      "Шабанов Владимир Геннадьевич": 35
+      "gas:candidate-vibid:4664011175274": 212,
+      "gas:candidate-vibid:4664011175458": 36,
+      "gas:candidate-vibid:4664011156129": 25,
+      "gas:candidate-vibid:4664011175435": 48,
+      "gas:candidate-vibid:4664011155903": 56,
+      "gas:candidate-vibid:4664011175362": 65,
+      "gas:candidate-vibid:4664011175537": 141,
+      "gas:candidate-vibid:4664011175296": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732911&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732911&type=464",
@@ -1377,14 +1377,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 358,
-      "Гаев Денис Владимирович": 65,
-      "Зайцев Сергей Михайлович": 35,
-      "Ривкин Феликс Моисеевич": 45,
-      "Сизов Денис Васильевич": 62,
-      "Скоморохова Римма Вениаминовна": 102,
-      "Черешнев Валерий Александрович": 201,
-      "Шабанов Владимир Геннадьевич": 39
+      "gas:candidate-vibid:4664011175274": 358,
+      "gas:candidate-vibid:4664011175458": 65,
+      "gas:candidate-vibid:4664011156129": 35,
+      "gas:candidate-vibid:4664011175435": 45,
+      "gas:candidate-vibid:4664011155903": 62,
+      "gas:candidate-vibid:4664011175362": 102,
+      "gas:candidate-vibid:4664011175537": 201,
+      "gas:candidate-vibid:4664011175296": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732911&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732911&type=464",
@@ -1435,14 +1435,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 203,
-      "Гаев Денис Владимирович": 23,
-      "Зайцев Сергей Михайлович": 13,
-      "Ривкин Феликс Моисеевич": 23,
-      "Сизов Денис Васильевич": 64,
-      "Скоморохова Римма Вениаминовна": 68,
-      "Черешнев Валерий Александрович": 129,
-      "Шабанов Владимир Геннадьевич": 32
+      "gas:candidate-vibid:4664011175274": 203,
+      "gas:candidate-vibid:4664011175458": 23,
+      "gas:candidate-vibid:4664011156129": 13,
+      "gas:candidate-vibid:4664011175435": 23,
+      "gas:candidate-vibid:4664011155903": 64,
+      "gas:candidate-vibid:4664011175362": 68,
+      "gas:candidate-vibid:4664011175537": 129,
+      "gas:candidate-vibid:4664011175296": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732911&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732911&type=464",
@@ -1493,14 +1493,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 209,
-      "Гаев Денис Владимирович": 20,
-      "Зайцев Сергей Михайлович": 24,
-      "Ривкин Феликс Моисеевич": 32,
-      "Сизов Денис Васильевич": 73,
-      "Скоморохова Римма Вениаминовна": 81,
-      "Черешнев Валерий Александрович": 131,
-      "Шабанов Владимир Геннадьевич": 20
+      "gas:candidate-vibid:4664011175274": 209,
+      "gas:candidate-vibid:4664011175458": 20,
+      "gas:candidate-vibid:4664011156129": 24,
+      "gas:candidate-vibid:4664011175435": 32,
+      "gas:candidate-vibid:4664011155903": 73,
+      "gas:candidate-vibid:4664011175362": 81,
+      "gas:candidate-vibid:4664011175537": 131,
+      "gas:candidate-vibid:4664011175296": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732911&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732911&type=464",
@@ -1551,14 +1551,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 422,
-      "Гаев Денис Владимирович": 61,
-      "Зайцев Сергей Михайлович": 40,
-      "Ривкин Феликс Моисеевич": 79,
-      "Сизов Денис Васильевич": 121,
-      "Скоморохова Римма Вениаминовна": 129,
-      "Черешнев Валерий Александрович": 226,
-      "Шабанов Владимир Геннадьевич": 74
+      "gas:candidate-vibid:4664011175274": 422,
+      "gas:candidate-vibid:4664011175458": 61,
+      "gas:candidate-vibid:4664011156129": 40,
+      "gas:candidate-vibid:4664011175435": 79,
+      "gas:candidate-vibid:4664011155903": 121,
+      "gas:candidate-vibid:4664011175362": 129,
+      "gas:candidate-vibid:4664011175537": 226,
+      "gas:candidate-vibid:4664011175296": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732911&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732911&type=464",
@@ -1609,14 +1609,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 209,
-      "Гаев Денис Владимирович": 23,
-      "Зайцев Сергей Михайлович": 17,
-      "Ривкин Феликс Моисеевич": 33,
-      "Сизов Денис Васильевич": 51,
-      "Скоморохова Римма Вениаминовна": 59,
-      "Черешнев Валерий Александрович": 130,
-      "Шабанов Владимир Геннадьевич": 24
+      "gas:candidate-vibid:4664011175274": 209,
+      "gas:candidate-vibid:4664011175458": 23,
+      "gas:candidate-vibid:4664011156129": 17,
+      "gas:candidate-vibid:4664011175435": 33,
+      "gas:candidate-vibid:4664011155903": 51,
+      "gas:candidate-vibid:4664011175362": 59,
+      "gas:candidate-vibid:4664011175537": 130,
+      "gas:candidate-vibid:4664011175296": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732911&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732911&type=464",
@@ -1667,14 +1667,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 125,
-      "Гаев Денис Владимирович": 7,
-      "Зайцев Сергей Михайлович": 10,
-      "Ривкин Феликс Моисеевич": 18,
-      "Сизов Денис Васильевич": 26,
-      "Скоморохова Римма Вениаминовна": 49,
-      "Черешнев Валерий Александрович": 68,
-      "Шабанов Владимир Геннадьевич": 14
+      "gas:candidate-vibid:4664011175274": 125,
+      "gas:candidate-vibid:4664011175458": 7,
+      "gas:candidate-vibid:4664011156129": 10,
+      "gas:candidate-vibid:4664011175435": 18,
+      "gas:candidate-vibid:4664011155903": 26,
+      "gas:candidate-vibid:4664011175362": 49,
+      "gas:candidate-vibid:4664011175537": 68,
+      "gas:candidate-vibid:4664011175296": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732911&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732911&type=464",
@@ -1725,14 +1725,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 376,
-      "Гаев Денис Владимирович": 64,
-      "Зайцев Сергей Михайлович": 22,
-      "Ривкин Феликс Моисеевич": 63,
-      "Сизов Денис Васильевич": 94,
-      "Скоморохова Римма Вениаминовна": 120,
-      "Черешнев Валерий Александрович": 202,
-      "Шабанов Владимир Геннадьевич": 74
+      "gas:candidate-vibid:4664011175274": 376,
+      "gas:candidate-vibid:4664011175458": 64,
+      "gas:candidate-vibid:4664011156129": 22,
+      "gas:candidate-vibid:4664011175435": 63,
+      "gas:candidate-vibid:4664011155903": 94,
+      "gas:candidate-vibid:4664011175362": 120,
+      "gas:candidate-vibid:4664011175537": 202,
+      "gas:candidate-vibid:4664011175296": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732911&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732911&type=464",
@@ -1783,14 +1783,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 220,
-      "Гаев Денис Владимирович": 22,
-      "Зайцев Сергей Михайлович": 13,
-      "Ривкин Феликс Моисеевич": 40,
-      "Сизов Денис Васильевич": 57,
-      "Скоморохова Римма Вениаминовна": 50,
-      "Черешнев Валерий Александрович": 103,
-      "Шабанов Владимир Геннадьевич": 32
+      "gas:candidate-vibid:4664011175274": 220,
+      "gas:candidate-vibid:4664011175458": 22,
+      "gas:candidate-vibid:4664011156129": 13,
+      "gas:candidate-vibid:4664011175435": 40,
+      "gas:candidate-vibid:4664011155903": 57,
+      "gas:candidate-vibid:4664011175362": 50,
+      "gas:candidate-vibid:4664011175537": 103,
+      "gas:candidate-vibid:4664011175296": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732911&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732911&type=464",
@@ -1841,14 +1841,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 206,
-      "Гаев Денис Владимирович": 20,
-      "Зайцев Сергей Михайлович": 14,
-      "Ривкин Феликс Моисеевич": 29,
-      "Сизов Денис Васильевич": 67,
-      "Скоморохова Римма Вениаминовна": 77,
-      "Черешнев Валерий Александрович": 182,
-      "Шабанов Владимир Геннадьевич": 30
+      "gas:candidate-vibid:4664011175274": 206,
+      "gas:candidate-vibid:4664011175458": 20,
+      "gas:candidate-vibid:4664011156129": 14,
+      "gas:candidate-vibid:4664011175435": 29,
+      "gas:candidate-vibid:4664011155903": 67,
+      "gas:candidate-vibid:4664011175362": 77,
+      "gas:candidate-vibid:4664011175537": 182,
+      "gas:candidate-vibid:4664011175296": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732911&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732911&type=464",
@@ -1899,14 +1899,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 329,
-      "Гаев Денис Владимирович": 43,
-      "Зайцев Сергей Михайлович": 31,
-      "Ривкин Феликс Моисеевич": 62,
-      "Сизов Денис Васильевич": 61,
-      "Скоморохова Римма Вениаминовна": 97,
-      "Черешнев Валерий Александрович": 217,
-      "Шабанов Владимир Геннадьевич": 33
+      "gas:candidate-vibid:4664011175274": 329,
+      "gas:candidate-vibid:4664011175458": 43,
+      "gas:candidate-vibid:4664011156129": 31,
+      "gas:candidate-vibid:4664011175435": 62,
+      "gas:candidate-vibid:4664011155903": 61,
+      "gas:candidate-vibid:4664011175362": 97,
+      "gas:candidate-vibid:4664011175537": 217,
+      "gas:candidate-vibid:4664011175296": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732911&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732911&type=464",
@@ -1957,14 +1957,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 324,
-      "Гаев Денис Владимирович": 43,
-      "Зайцев Сергей Михайлович": 30,
-      "Ривкин Феликс Моисеевич": 50,
-      "Сизов Денис Васильевич": 87,
-      "Скоморохова Римма Вениаминовна": 90,
-      "Черешнев Валерий Александрович": 227,
-      "Шабанов Владимир Геннадьевич": 44
+      "gas:candidate-vibid:4664011175274": 324,
+      "gas:candidate-vibid:4664011175458": 43,
+      "gas:candidate-vibid:4664011156129": 30,
+      "gas:candidate-vibid:4664011175435": 50,
+      "gas:candidate-vibid:4664011155903": 87,
+      "gas:candidate-vibid:4664011175362": 90,
+      "gas:candidate-vibid:4664011175537": 227,
+      "gas:candidate-vibid:4664011175296": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732911&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732911&type=464",
@@ -2015,14 +2015,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 257,
-      "Гаев Денис Владимирович": 39,
-      "Зайцев Сергей Михайлович": 25,
-      "Ривкин Феликс Моисеевич": 51,
-      "Сизов Денис Васильевич": 39,
-      "Скоморохова Римма Вениаминовна": 79,
-      "Черешнев Валерий Александрович": 196,
-      "Шабанов Владимир Геннадьевич": 25
+      "gas:candidate-vibid:4664011175274": 257,
+      "gas:candidate-vibid:4664011175458": 39,
+      "gas:candidate-vibid:4664011156129": 25,
+      "gas:candidate-vibid:4664011175435": 51,
+      "gas:candidate-vibid:4664011155903": 39,
+      "gas:candidate-vibid:4664011175362": 79,
+      "gas:candidate-vibid:4664011175537": 196,
+      "gas:candidate-vibid:4664011175296": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732911&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732911&type=464",
@@ -2073,14 +2073,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 252,
-      "Гаев Денис Владимирович": 36,
-      "Зайцев Сергей Михайлович": 26,
-      "Ривкин Феликс Моисеевич": 53,
-      "Сизов Денис Васильевич": 49,
-      "Скоморохова Римма Вениаминовна": 71,
-      "Черешнев Валерий Александрович": 120,
-      "Шабанов Владимир Геннадьевич": 39
+      "gas:candidate-vibid:4664011175274": 252,
+      "gas:candidate-vibid:4664011175458": 36,
+      "gas:candidate-vibid:4664011156129": 26,
+      "gas:candidate-vibid:4664011175435": 53,
+      "gas:candidate-vibid:4664011155903": 49,
+      "gas:candidate-vibid:4664011175362": 71,
+      "gas:candidate-vibid:4664011175537": 120,
+      "gas:candidate-vibid:4664011175296": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732911&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732911&type=464",
@@ -2131,14 +2131,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 256,
-      "Гаев Денис Владимирович": 44,
-      "Зайцев Сергей Михайлович": 15,
-      "Ривкин Феликс Моисеевич": 57,
-      "Сизов Денис Васильевич": 83,
-      "Скоморохова Римма Вениаминовна": 81,
-      "Черешнев Валерий Александрович": 116,
-      "Шабанов Владимир Геннадьевич": 43
+      "gas:candidate-vibid:4664011175274": 256,
+      "gas:candidate-vibid:4664011175458": 44,
+      "gas:candidate-vibid:4664011156129": 15,
+      "gas:candidate-vibid:4664011175435": 57,
+      "gas:candidate-vibid:4664011155903": 83,
+      "gas:candidate-vibid:4664011175362": 81,
+      "gas:candidate-vibid:4664011175537": 116,
+      "gas:candidate-vibid:4664011175296": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732911&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732911&type=464",
@@ -2189,14 +2189,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 335,
-      "Гаев Денис Владимирович": 31,
-      "Зайцев Сергей Михайлович": 31,
-      "Ривкин Феликс Моисеевич": 41,
-      "Сизов Денис Васильевич": 66,
-      "Скоморохова Римма Вениаминовна": 91,
-      "Черешнев Валерий Александрович": 220,
-      "Шабанов Владимир Геннадьевич": 55
+      "gas:candidate-vibid:4664011175274": 335,
+      "gas:candidate-vibid:4664011175458": 31,
+      "gas:candidate-vibid:4664011156129": 31,
+      "gas:candidate-vibid:4664011175435": 41,
+      "gas:candidate-vibid:4664011155903": 66,
+      "gas:candidate-vibid:4664011175362": 91,
+      "gas:candidate-vibid:4664011175537": 220,
+      "gas:candidate-vibid:4664011175296": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732911&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732911&type=464",
@@ -2247,14 +2247,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 321,
-      "Гаев Денис Владимирович": 43,
-      "Зайцев Сергей Михайлович": 20,
-      "Ривкин Феликс Моисеевич": 52,
-      "Сизов Денис Васильевич": 80,
-      "Скоморохова Римма Вениаминовна": 88,
-      "Черешнев Валерий Александрович": 194,
-      "Шабанов Владимир Геннадьевич": 35
+      "gas:candidate-vibid:4664011175274": 321,
+      "gas:candidate-vibid:4664011175458": 43,
+      "gas:candidate-vibid:4664011156129": 20,
+      "gas:candidate-vibid:4664011175435": 52,
+      "gas:candidate-vibid:4664011155903": 80,
+      "gas:candidate-vibid:4664011175362": 88,
+      "gas:candidate-vibid:4664011175537": 194,
+      "gas:candidate-vibid:4664011175296": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732911&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732911&type=464",
@@ -2305,14 +2305,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 306,
-      "Гаев Денис Владимирович": 32,
-      "Зайцев Сергей Михайлович": 28,
-      "Ривкин Феликс Моисеевич": 52,
-      "Сизов Денис Васильевич": 72,
-      "Скоморохова Римма Вениаминовна": 76,
-      "Черешнев Валерий Александрович": 181,
-      "Шабанов Владимир Геннадьевич": 34
+      "gas:candidate-vibid:4664011175274": 306,
+      "gas:candidate-vibid:4664011175458": 32,
+      "gas:candidate-vibid:4664011156129": 28,
+      "gas:candidate-vibid:4664011175435": 52,
+      "gas:candidate-vibid:4664011155903": 72,
+      "gas:candidate-vibid:4664011175362": 76,
+      "gas:candidate-vibid:4664011175537": 181,
+      "gas:candidate-vibid:4664011175296": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732911&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732911&type=464",
@@ -2363,14 +2363,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 399,
-      "Гаев Денис Владимирович": 48,
-      "Зайцев Сергей Михайлович": 28,
-      "Ривкин Феликс Моисеевич": 48,
-      "Сизов Денис Васильевич": 78,
-      "Скоморохова Римма Вениаминовна": 98,
-      "Черешнев Валерий Александрович": 235,
-      "Шабанов Владимир Геннадьевич": 43
+      "gas:candidate-vibid:4664011175274": 399,
+      "gas:candidate-vibid:4664011175458": 48,
+      "gas:candidate-vibid:4664011156129": 28,
+      "gas:candidate-vibid:4664011175435": 48,
+      "gas:candidate-vibid:4664011155903": 78,
+      "gas:candidate-vibid:4664011175362": 98,
+      "gas:candidate-vibid:4664011175537": 235,
+      "gas:candidate-vibid:4664011175296": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732911&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732911&type=464",
@@ -2421,14 +2421,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 266,
-      "Гаев Денис Владимирович": 33,
-      "Зайцев Сергей Михайлович": 16,
-      "Ривкин Феликс Моисеевич": 37,
-      "Сизов Денис Васильевич": 73,
-      "Скоморохова Римма Вениаминовна": 72,
-      "Черешнев Валерий Александрович": 233,
-      "Шабанов Владимир Геннадьевич": 25
+      "gas:candidate-vibid:4664011175274": 266,
+      "gas:candidate-vibid:4664011175458": 33,
+      "gas:candidate-vibid:4664011156129": 16,
+      "gas:candidate-vibid:4664011175435": 37,
+      "gas:candidate-vibid:4664011155903": 73,
+      "gas:candidate-vibid:4664011175362": 72,
+      "gas:candidate-vibid:4664011175537": 233,
+      "gas:candidate-vibid:4664011175296": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732911&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732911&type=464",
@@ -2479,14 +2479,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 315,
-      "Гаев Денис Владимирович": 35,
-      "Зайцев Сергей Михайлович": 19,
-      "Ривкин Феликс Моисеевич": 30,
-      "Сизов Денис Васильевич": 74,
-      "Скоморохова Римма Вениаминовна": 89,
-      "Черешнев Валерий Александрович": 195,
-      "Шабанов Владимир Геннадьевич": 54
+      "gas:candidate-vibid:4664011175274": 315,
+      "gas:candidate-vibid:4664011175458": 35,
+      "gas:candidate-vibid:4664011156129": 19,
+      "gas:candidate-vibid:4664011175435": 30,
+      "gas:candidate-vibid:4664011155903": 74,
+      "gas:candidate-vibid:4664011175362": 89,
+      "gas:candidate-vibid:4664011175537": 195,
+      "gas:candidate-vibid:4664011175296": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732911&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732911&type=464",
@@ -2537,14 +2537,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 300,
-      "Гаев Денис Владимирович": 27,
-      "Зайцев Сергей Михайлович": 19,
-      "Ривкин Феликс Моисеевич": 37,
-      "Сизов Денис Васильевич": 73,
-      "Скоморохова Римма Вениаминовна": 88,
-      "Черешнев Валерий Александрович": 187,
-      "Шабанов Владимир Геннадьевич": 42
+      "gas:candidate-vibid:4664011175274": 300,
+      "gas:candidate-vibid:4664011175458": 27,
+      "gas:candidate-vibid:4664011156129": 19,
+      "gas:candidate-vibid:4664011175435": 37,
+      "gas:candidate-vibid:4664011155903": 73,
+      "gas:candidate-vibid:4664011175362": 88,
+      "gas:candidate-vibid:4664011175537": 187,
+      "gas:candidate-vibid:4664011175296": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732911&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732911&type=464",
@@ -2595,14 +2595,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 300,
-      "Гаев Денис Владимирович": 38,
-      "Зайцев Сергей Михайлович": 18,
-      "Ривкин Феликс Моисеевич": 37,
-      "Сизов Денис Васильевич": 76,
-      "Скоморохова Римма Вениаминовна": 90,
-      "Черешнев Валерий Александрович": 202,
-      "Шабанов Владимир Геннадьевич": 26
+      "gas:candidate-vibid:4664011175274": 300,
+      "gas:candidate-vibid:4664011175458": 38,
+      "gas:candidate-vibid:4664011156129": 18,
+      "gas:candidate-vibid:4664011175435": 37,
+      "gas:candidate-vibid:4664011155903": 76,
+      "gas:candidate-vibid:4664011175362": 90,
+      "gas:candidate-vibid:4664011175537": 202,
+      "gas:candidate-vibid:4664011175296": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732911&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732911&type=464",
@@ -2653,14 +2653,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 293,
-      "Гаев Денис Владимирович": 39,
-      "Зайцев Сергей Михайлович": 21,
-      "Ривкин Феликс Моисеевич": 30,
-      "Сизов Денис Васильевич": 70,
-      "Скоморохова Римма Вениаминовна": 74,
-      "Черешнев Валерий Александрович": 127,
-      "Шабанов Владимир Геннадьевич": 41
+      "gas:candidate-vibid:4664011175274": 293,
+      "gas:candidate-vibid:4664011175458": 39,
+      "gas:candidate-vibid:4664011156129": 21,
+      "gas:candidate-vibid:4664011175435": 30,
+      "gas:candidate-vibid:4664011155903": 70,
+      "gas:candidate-vibid:4664011175362": 74,
+      "gas:candidate-vibid:4664011175537": 127,
+      "gas:candidate-vibid:4664011175296": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732911&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732911&type=464",
@@ -2711,14 +2711,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 268,
-      "Гаев Денис Владимирович": 26,
-      "Зайцев Сергей Михайлович": 23,
-      "Ривкин Феликс Моисеевич": 38,
-      "Сизов Денис Васильевич": 72,
-      "Скоморохова Римма Вениаминовна": 93,
-      "Черешнев Валерий Александрович": 219,
-      "Шабанов Владимир Геннадьевич": 41
+      "gas:candidate-vibid:4664011175274": 268,
+      "gas:candidate-vibid:4664011175458": 26,
+      "gas:candidate-vibid:4664011156129": 23,
+      "gas:candidate-vibid:4664011175435": 38,
+      "gas:candidate-vibid:4664011155903": 72,
+      "gas:candidate-vibid:4664011175362": 93,
+      "gas:candidate-vibid:4664011175537": 219,
+      "gas:candidate-vibid:4664011175296": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732911&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732911&type=464",
@@ -2769,14 +2769,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 304,
-      "Гаев Денис Владимирович": 35,
-      "Зайцев Сергей Михайлович": 22,
-      "Ривкин Феликс Моисеевич": 36,
-      "Сизов Денис Васильевич": 81,
-      "Скоморохова Римма Вениаминовна": 86,
-      "Черешнев Валерий Александрович": 183,
-      "Шабанов Владимир Геннадьевич": 37
+      "gas:candidate-vibid:4664011175274": 304,
+      "gas:candidate-vibid:4664011175458": 35,
+      "gas:candidate-vibid:4664011156129": 22,
+      "gas:candidate-vibid:4664011175435": 36,
+      "gas:candidate-vibid:4664011155903": 81,
+      "gas:candidate-vibid:4664011175362": 86,
+      "gas:candidate-vibid:4664011175537": 183,
+      "gas:candidate-vibid:4664011175296": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732911&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732911&type=464",
@@ -2827,14 +2827,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 222,
-      "Гаев Денис Владимирович": 25,
-      "Зайцев Сергей Михайлович": 13,
-      "Ривкин Феликс Моисеевич": 26,
-      "Сизов Денис Васильевич": 62,
-      "Скоморохова Римма Вениаминовна": 67,
-      "Черешнев Валерий Александрович": 188,
-      "Шабанов Владимир Геннадьевич": 28
+      "gas:candidate-vibid:4664011175274": 222,
+      "gas:candidate-vibid:4664011175458": 25,
+      "gas:candidate-vibid:4664011156129": 13,
+      "gas:candidate-vibid:4664011175435": 26,
+      "gas:candidate-vibid:4664011155903": 62,
+      "gas:candidate-vibid:4664011175362": 67,
+      "gas:candidate-vibid:4664011175537": 188,
+      "gas:candidate-vibid:4664011175296": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732911&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732911&type=464",
@@ -2885,14 +2885,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 315,
-      "Гаев Денис Владимирович": 28,
-      "Зайцев Сергей Михайлович": 20,
-      "Ривкин Феликс Моисеевич": 45,
-      "Сизов Денис Васильевич": 76,
-      "Скоморохова Римма Вениаминовна": 68,
-      "Черешнев Валерий Александрович": 227,
-      "Шабанов Владимир Геннадьевич": 39
+      "gas:candidate-vibid:4664011175274": 315,
+      "gas:candidate-vibid:4664011175458": 28,
+      "gas:candidate-vibid:4664011156129": 20,
+      "gas:candidate-vibid:4664011175435": 45,
+      "gas:candidate-vibid:4664011155903": 76,
+      "gas:candidate-vibid:4664011175362": 68,
+      "gas:candidate-vibid:4664011175537": 227,
+      "gas:candidate-vibid:4664011175296": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732911&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732911&type=464",
@@ -2943,14 +2943,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 320,
-      "Гаев Денис Владимирович": 34,
-      "Зайцев Сергей Михайлович": 23,
-      "Ривкин Феликс Моисеевич": 33,
-      "Сизов Денис Васильевич": 53,
-      "Скоморохова Римма Вениаминовна": 84,
-      "Черешнев Валерий Александрович": 189,
-      "Шабанов Владимир Геннадьевич": 35
+      "gas:candidate-vibid:4664011175274": 320,
+      "gas:candidate-vibid:4664011175458": 34,
+      "gas:candidate-vibid:4664011156129": 23,
+      "gas:candidate-vibid:4664011175435": 33,
+      "gas:candidate-vibid:4664011155903": 53,
+      "gas:candidate-vibid:4664011175362": 84,
+      "gas:candidate-vibid:4664011175537": 189,
+      "gas:candidate-vibid:4664011175296": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732911&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732911&type=464",
@@ -3001,14 +3001,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 330,
-      "Гаев Денис Владимирович": 31,
-      "Зайцев Сергей Михайлович": 25,
-      "Ривкин Феликс Моисеевич": 36,
-      "Сизов Денис Васильевич": 93,
-      "Скоморохова Римма Вениаминовна": 75,
-      "Черешнев Валерий Александрович": 219,
-      "Шабанов Владимир Геннадьевич": 38
+      "gas:candidate-vibid:4664011175274": 330,
+      "gas:candidate-vibid:4664011175458": 31,
+      "gas:candidate-vibid:4664011156129": 25,
+      "gas:candidate-vibid:4664011175435": 36,
+      "gas:candidate-vibid:4664011155903": 93,
+      "gas:candidate-vibid:4664011175362": 75,
+      "gas:candidate-vibid:4664011175537": 219,
+      "gas:candidate-vibid:4664011175296": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732911&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732911&type=464",
@@ -3059,14 +3059,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 301,
-      "Гаев Денис Владимирович": 27,
-      "Зайцев Сергей Михайлович": 23,
-      "Ривкин Феликс Моисеевич": 41,
-      "Сизов Денис Васильевич": 77,
-      "Скоморохова Римма Вениаминовна": 66,
-      "Черешнев Валерий Александрович": 224,
-      "Шабанов Владимир Геннадьевич": 24
+      "gas:candidate-vibid:4664011175274": 301,
+      "gas:candidate-vibid:4664011175458": 27,
+      "gas:candidate-vibid:4664011156129": 23,
+      "gas:candidate-vibid:4664011175435": 41,
+      "gas:candidate-vibid:4664011155903": 77,
+      "gas:candidate-vibid:4664011175362": 66,
+      "gas:candidate-vibid:4664011175537": 224,
+      "gas:candidate-vibid:4664011175296": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732911&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732911&type=464",
@@ -3117,14 +3117,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 276,
-      "Гаев Денис Владимирович": 27,
-      "Зайцев Сергей Михайлович": 11,
-      "Ривкин Феликс Моисеевич": 33,
-      "Сизов Денис Васильевич": 76,
-      "Скоморохова Римма Вениаминовна": 70,
-      "Черешнев Валерий Александрович": 172,
-      "Шабанов Владимир Геннадьевич": 32
+      "gas:candidate-vibid:4664011175274": 276,
+      "gas:candidate-vibid:4664011175458": 27,
+      "gas:candidate-vibid:4664011156129": 11,
+      "gas:candidate-vibid:4664011175435": 33,
+      "gas:candidate-vibid:4664011155903": 76,
+      "gas:candidate-vibid:4664011175362": 70,
+      "gas:candidate-vibid:4664011175537": 172,
+      "gas:candidate-vibid:4664011175296": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732911&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732911&type=464",
@@ -3175,14 +3175,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 251,
-      "Гаев Денис Владимирович": 33,
-      "Зайцев Сергей Михайлович": 22,
-      "Ривкин Феликс Моисеевич": 31,
-      "Сизов Денис Васильевич": 65,
-      "Скоморохова Римма Вениаминовна": 76,
-      "Черешнев Валерий Александрович": 162,
-      "Шабанов Владимир Геннадьевич": 34
+      "gas:candidate-vibid:4664011175274": 251,
+      "gas:candidate-vibid:4664011175458": 33,
+      "gas:candidate-vibid:4664011156129": 22,
+      "gas:candidate-vibid:4664011175435": 31,
+      "gas:candidate-vibid:4664011155903": 65,
+      "gas:candidate-vibid:4664011175362": 76,
+      "gas:candidate-vibid:4664011175537": 162,
+      "gas:candidate-vibid:4664011175296": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732911&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732911&type=464",
@@ -3233,14 +3233,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 302,
-      "Гаев Денис Владимирович": 23,
-      "Зайцев Сергей Михайлович": 17,
-      "Ривкин Феликс Моисеевич": 26,
-      "Сизов Денис Васильевич": 64,
-      "Скоморохова Римма Вениаминовна": 76,
-      "Черешнев Валерий Александрович": 187,
-      "Шабанов Владимир Геннадьевич": 33
+      "gas:candidate-vibid:4664011175274": 302,
+      "gas:candidate-vibid:4664011175458": 23,
+      "gas:candidate-vibid:4664011156129": 17,
+      "gas:candidate-vibid:4664011175435": 26,
+      "gas:candidate-vibid:4664011155903": 64,
+      "gas:candidate-vibid:4664011175362": 76,
+      "gas:candidate-vibid:4664011175537": 187,
+      "gas:candidate-vibid:4664011175296": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732911&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732911&type=464",
@@ -3291,14 +3291,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 349,
-      "Гаев Денис Владимирович": 42,
-      "Зайцев Сергей Михайлович": 17,
-      "Ривкин Феликс Моисеевич": 48,
-      "Сизов Денис Васильевич": 111,
-      "Скоморохова Римма Вениаминовна": 83,
-      "Черешнев Валерий Александрович": 231,
-      "Шабанов Владимир Геннадьевич": 45
+      "gas:candidate-vibid:4664011175274": 349,
+      "gas:candidate-vibid:4664011175458": 42,
+      "gas:candidate-vibid:4664011156129": 17,
+      "gas:candidate-vibid:4664011175435": 48,
+      "gas:candidate-vibid:4664011155903": 111,
+      "gas:candidate-vibid:4664011175362": 83,
+      "gas:candidate-vibid:4664011175537": 231,
+      "gas:candidate-vibid:4664011175296": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732911&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732911&type=464",
@@ -3349,14 +3349,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 407,
-      "Гаев Денис Владимирович": 39,
-      "Зайцев Сергей Михайлович": 30,
-      "Ривкин Феликс Моисеевич": 46,
-      "Сизов Денис Васильевич": 92,
-      "Скоморохова Римма Вениаминовна": 84,
-      "Черешнев Валерий Александрович": 234,
-      "Шабанов Владимир Геннадьевич": 39
+      "gas:candidate-vibid:4664011175274": 407,
+      "gas:candidate-vibid:4664011175458": 39,
+      "gas:candidate-vibid:4664011156129": 30,
+      "gas:candidate-vibid:4664011175435": 46,
+      "gas:candidate-vibid:4664011155903": 92,
+      "gas:candidate-vibid:4664011175362": 84,
+      "gas:candidate-vibid:4664011175537": 234,
+      "gas:candidate-vibid:4664011175296": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732911&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732911&type=464",
@@ -3407,14 +3407,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 377,
-      "Гаев Денис Владимирович": 47,
-      "Зайцев Сергей Михайлович": 32,
-      "Ривкин Феликс Моисеевич": 41,
-      "Сизов Денис Васильевич": 95,
-      "Скоморохова Римма Вениаминовна": 106,
-      "Черешнев Валерий Александрович": 235,
-      "Шабанов Владимир Геннадьевич": 51
+      "gas:candidate-vibid:4664011175274": 377,
+      "gas:candidate-vibid:4664011175458": 47,
+      "gas:candidate-vibid:4664011156129": 32,
+      "gas:candidate-vibid:4664011175435": 41,
+      "gas:candidate-vibid:4664011155903": 95,
+      "gas:candidate-vibid:4664011175362": 106,
+      "gas:candidate-vibid:4664011175537": 235,
+      "gas:candidate-vibid:4664011175296": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732911&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732911&type=464",
@@ -3465,14 +3465,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 433,
-      "Гаев Денис Владимирович": 64,
-      "Зайцев Сергей Михайлович": 29,
-      "Ривкин Феликс Моисеевич": 56,
-      "Сизов Денис Васильевич": 97,
-      "Скоморохова Римма Вениаминовна": 131,
-      "Черешнев Валерий Александрович": 266,
-      "Шабанов Владимир Геннадьевич": 49
+      "gas:candidate-vibid:4664011175274": 433,
+      "gas:candidate-vibid:4664011175458": 64,
+      "gas:candidate-vibid:4664011156129": 29,
+      "gas:candidate-vibid:4664011175435": 56,
+      "gas:candidate-vibid:4664011155903": 97,
+      "gas:candidate-vibid:4664011175362": 131,
+      "gas:candidate-vibid:4664011175537": 266,
+      "gas:candidate-vibid:4664011175296": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732911&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732911&type=464",
@@ -3523,14 +3523,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 388,
-      "Гаев Денис Владимирович": 42,
-      "Зайцев Сергей Михайлович": 22,
-      "Ривкин Феликс Моисеевич": 51,
-      "Сизов Денис Васильевич": 92,
-      "Скоморохова Римма Вениаминовна": 84,
-      "Черешнев Валерий Александрович": 186,
-      "Шабанов Владимир Геннадьевич": 56
+      "gas:candidate-vibid:4664011175274": 388,
+      "gas:candidate-vibid:4664011175458": 42,
+      "gas:candidate-vibid:4664011156129": 22,
+      "gas:candidate-vibid:4664011175435": 51,
+      "gas:candidate-vibid:4664011155903": 92,
+      "gas:candidate-vibid:4664011175362": 84,
+      "gas:candidate-vibid:4664011175537": 186,
+      "gas:candidate-vibid:4664011175296": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732911&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732911&type=464",
@@ -3581,14 +3581,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 333,
-      "Гаев Денис Владимирович": 50,
-      "Зайцев Сергей Михайлович": 24,
-      "Ривкин Феликс Моисеевич": 36,
-      "Сизов Денис Васильевич": 91,
-      "Скоморохова Римма Вениаминовна": 91,
-      "Черешнев Валерий Александрович": 197,
-      "Шабанов Владимир Геннадьевич": 46
+      "gas:candidate-vibid:4664011175274": 333,
+      "gas:candidate-vibid:4664011175458": 50,
+      "gas:candidate-vibid:4664011156129": 24,
+      "gas:candidate-vibid:4664011175435": 36,
+      "gas:candidate-vibid:4664011155903": 91,
+      "gas:candidate-vibid:4664011175362": 91,
+      "gas:candidate-vibid:4664011175537": 197,
+      "gas:candidate-vibid:4664011175296": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732911&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732911&type=464",
@@ -3639,14 +3639,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 293,
-      "Гаев Денис Владимирович": 50,
-      "Зайцев Сергей Михайлович": 32,
-      "Ривкин Феликс Моисеевич": 50,
-      "Сизов Денис Васильевич": 77,
-      "Скоморохова Римма Вениаминовна": 99,
-      "Черешнев Валерий Александрович": 185,
-      "Шабанов Владимир Геннадьевич": 39
+      "gas:candidate-vibid:4664011175274": 293,
+      "gas:candidate-vibid:4664011175458": 50,
+      "gas:candidate-vibid:4664011156129": 32,
+      "gas:candidate-vibid:4664011175435": 50,
+      "gas:candidate-vibid:4664011155903": 77,
+      "gas:candidate-vibid:4664011175362": 99,
+      "gas:candidate-vibid:4664011175537": 185,
+      "gas:candidate-vibid:4664011175296": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732911&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732911&type=464",
@@ -3697,14 +3697,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 287,
-      "Гаев Денис Владимирович": 41,
-      "Зайцев Сергей Михайлович": 21,
-      "Ривкин Феликс Моисеевич": 45,
-      "Сизов Денис Васильевич": 98,
-      "Скоморохова Римма Вениаминовна": 80,
-      "Черешнев Валерий Александрович": 159,
-      "Шабанов Владимир Геннадьевич": 49
+      "gas:candidate-vibid:4664011175274": 287,
+      "gas:candidate-vibid:4664011175458": 41,
+      "gas:candidate-vibid:4664011156129": 21,
+      "gas:candidate-vibid:4664011175435": 45,
+      "gas:candidate-vibid:4664011155903": 98,
+      "gas:candidate-vibid:4664011175362": 80,
+      "gas:candidate-vibid:4664011175537": 159,
+      "gas:candidate-vibid:4664011175296": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732911&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732911&type=464",
@@ -3755,14 +3755,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 367,
-      "Гаев Денис Владимирович": 47,
-      "Зайцев Сергей Михайлович": 23,
-      "Ривкин Феликс Моисеевич": 61,
-      "Сизов Денис Васильевич": 117,
-      "Скоморохова Римма Вениаминовна": 81,
-      "Черешнев Валерий Александрович": 252,
-      "Шабанов Владимир Геннадьевич": 39
+      "gas:candidate-vibid:4664011175274": 367,
+      "gas:candidate-vibid:4664011175458": 47,
+      "gas:candidate-vibid:4664011156129": 23,
+      "gas:candidate-vibid:4664011175435": 61,
+      "gas:candidate-vibid:4664011155903": 117,
+      "gas:candidate-vibid:4664011175362": 81,
+      "gas:candidate-vibid:4664011175537": 252,
+      "gas:candidate-vibid:4664011175296": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732911&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732911&type=464",
@@ -3813,14 +3813,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 349,
-      "Гаев Денис Владимирович": 69,
-      "Зайцев Сергей Михайлович": 21,
-      "Ривкин Феликс Моисеевич": 68,
-      "Сизов Денис Васильевич": 111,
-      "Скоморохова Римма Вениаминовна": 132,
-      "Черешнев Валерий Александрович": 274,
-      "Шабанов Владимир Геннадьевич": 58
+      "gas:candidate-vibid:4664011175274": 349,
+      "gas:candidate-vibid:4664011175458": 69,
+      "gas:candidate-vibid:4664011156129": 21,
+      "gas:candidate-vibid:4664011175435": 68,
+      "gas:candidate-vibid:4664011155903": 111,
+      "gas:candidate-vibid:4664011175362": 132,
+      "gas:candidate-vibid:4664011175537": 274,
+      "gas:candidate-vibid:4664011175296": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732911&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732911&type=464",
@@ -3871,14 +3871,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 206,
-      "Гаев Денис Владимирович": 20,
-      "Зайцев Сергей Михайлович": 24,
-      "Ривкин Феликс Моисеевич": 13,
-      "Сизов Денис Васильевич": 74,
-      "Скоморохова Римма Вениаминовна": 65,
-      "Черешнев Валерий Александрович": 154,
-      "Шабанов Владимир Геннадьевич": 24
+      "gas:candidate-vibid:4664011175274": 206,
+      "gas:candidate-vibid:4664011175458": 20,
+      "gas:candidate-vibid:4664011156129": 24,
+      "gas:candidate-vibid:4664011175435": 13,
+      "gas:candidate-vibid:4664011155903": 74,
+      "gas:candidate-vibid:4664011175362": 65,
+      "gas:candidate-vibid:4664011175537": 154,
+      "gas:candidate-vibid:4664011175296": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732911&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732911&type=464",
@@ -3929,14 +3929,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 218,
-      "Гаев Денис Владимирович": 21,
-      "Зайцев Сергей Михайлович": 28,
-      "Ривкин Феликс Моисеевич": 15,
-      "Сизов Денис Васильевич": 66,
-      "Скоморохова Римма Вениаминовна": 51,
-      "Черешнев Валерий Александрович": 113,
-      "Шабанов Владимир Геннадьевич": 30
+      "gas:candidate-vibid:4664011175274": 218,
+      "gas:candidate-vibid:4664011175458": 21,
+      "gas:candidate-vibid:4664011156129": 28,
+      "gas:candidate-vibid:4664011175435": 15,
+      "gas:candidate-vibid:4664011155903": 66,
+      "gas:candidate-vibid:4664011175362": 51,
+      "gas:candidate-vibid:4664011175537": 113,
+      "gas:candidate-vibid:4664011175296": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732911&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732911&type=464",
@@ -3987,14 +3987,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 256,
-      "Гаев Денис Владимирович": 34,
-      "Зайцев Сергей Михайлович": 26,
-      "Ривкин Феликс Моисеевич": 35,
-      "Сизов Денис Васильевич": 65,
-      "Скоморохова Римма Вениаминовна": 68,
-      "Черешнев Валерий Александрович": 85,
-      "Шабанов Владимир Геннадьевич": 29
+      "gas:candidate-vibid:4664011175274": 256,
+      "gas:candidate-vibid:4664011175458": 34,
+      "gas:candidate-vibid:4664011156129": 26,
+      "gas:candidate-vibid:4664011175435": 35,
+      "gas:candidate-vibid:4664011155903": 65,
+      "gas:candidate-vibid:4664011175362": 68,
+      "gas:candidate-vibid:4664011175537": 85,
+      "gas:candidate-vibid:4664011175296": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732911&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732911&type=464",
@@ -4045,14 +4045,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 6,
-      "Гаев Денис Владимирович": 0,
-      "Зайцев Сергей Михайлович": 2,
-      "Ривкин Феликс Моисеевич": 2,
-      "Сизов Денис Васильевич": 2,
-      "Скоморохова Римма Вениаминовна": 3,
-      "Черешнев Валерий Александрович": 0,
-      "Шабанов Владимир Геннадьевич": 2
+      "gas:candidate-vibid:4664011175274": 6,
+      "gas:candidate-vibid:4664011175458": 0,
+      "gas:candidate-vibid:4664011156129": 2,
+      "gas:candidate-vibid:4664011175435": 2,
+      "gas:candidate-vibid:4664011155903": 2,
+      "gas:candidate-vibid:4664011175362": 3,
+      "gas:candidate-vibid:4664011175537": 0,
+      "gas:candidate-vibid:4664011175296": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732911&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732911&type=464",
@@ -4103,14 +4103,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 10,
-      "Гаев Денис Владимирович": 1,
-      "Зайцев Сергей Михайлович": 0,
-      "Ривкин Феликс Моисеевич": 0,
-      "Сизов Денис Васильевич": 1,
-      "Скоморохова Римма Вениаминовна": 0,
-      "Черешнев Валерий Александрович": 2,
-      "Шабанов Владимир Геннадьевич": 1
+      "gas:candidate-vibid:4664011175274": 10,
+      "gas:candidate-vibid:4664011175458": 1,
+      "gas:candidate-vibid:4664011156129": 0,
+      "gas:candidate-vibid:4664011175435": 0,
+      "gas:candidate-vibid:4664011155903": 1,
+      "gas:candidate-vibid:4664011175362": 0,
+      "gas:candidate-vibid:4664011175537": 2,
+      "gas:candidate-vibid:4664011175296": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732911&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732911&type=464",
@@ -4161,14 +4161,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 55,
-      "Гаев Денис Владимирович": 3,
-      "Зайцев Сергей Михайлович": 3,
-      "Ривкин Феликс Моисеевич": 4,
-      "Сизов Денис Васильевич": 8,
-      "Скоморохова Римма Вениаминовна": 7,
-      "Черешнев Валерий Александрович": 25,
-      "Шабанов Владимир Геннадьевич": 5
+      "gas:candidate-vibid:4664011175274": 55,
+      "gas:candidate-vibid:4664011175458": 3,
+      "gas:candidate-vibid:4664011156129": 3,
+      "gas:candidate-vibid:4664011175435": 4,
+      "gas:candidate-vibid:4664011155903": 8,
+      "gas:candidate-vibid:4664011175362": 7,
+      "gas:candidate-vibid:4664011175537": 25,
+      "gas:candidate-vibid:4664011175296": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732911&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732911&type=464",
@@ -4219,14 +4219,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 50,
-      "Гаев Денис Владимирович": 7,
-      "Зайцев Сергей Михайлович": 5,
-      "Ривкин Феликс Моисеевич": 2,
-      "Сизов Денис Васильевич": 13,
-      "Скоморохова Римма Вениаминовна": 12,
-      "Черешнев Валерий Александрович": 10,
-      "Шабанов Владимир Геннадьевич": 6
+      "gas:candidate-vibid:4664011175274": 50,
+      "gas:candidate-vibid:4664011175458": 7,
+      "gas:candidate-vibid:4664011156129": 5,
+      "gas:candidate-vibid:4664011175435": 2,
+      "gas:candidate-vibid:4664011155903": 13,
+      "gas:candidate-vibid:4664011175362": 12,
+      "gas:candidate-vibid:4664011175537": 10,
+      "gas:candidate-vibid:4664011175296": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732911&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732911&type=464",
@@ -4277,14 +4277,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 1,
-      "Гаев Денис Владимирович": 0,
-      "Зайцев Сергей Михайлович": 0,
-      "Ривкин Феликс Моисеевич": 0,
-      "Сизов Денис Васильевич": 0,
-      "Скоморохова Римма Вениаминовна": 1,
-      "Черешнев Валерий Александрович": 2,
-      "Шабанов Владимир Геннадьевич": 0
+      "gas:candidate-vibid:4664011175274": 1,
+      "gas:candidate-vibid:4664011175458": 0,
+      "gas:candidate-vibid:4664011156129": 0,
+      "gas:candidate-vibid:4664011175435": 0,
+      "gas:candidate-vibid:4664011155903": 0,
+      "gas:candidate-vibid:4664011175362": 1,
+      "gas:candidate-vibid:4664011175537": 2,
+      "gas:candidate-vibid:4664011175296": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732911&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732911&type=464",
@@ -4335,14 +4335,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 450,
-      "Гаев Денис Владимирович": 26,
-      "Зайцев Сергей Михайлович": 26,
-      "Ривкин Феликс Моисеевич": 29,
-      "Сизов Денис Васильевич": 90,
-      "Скоморохова Римма Вениаминовна": 107,
-      "Черешнев Валерий Александрович": 120,
-      "Шабанов Владимир Геннадьевич": 56
+      "gas:candidate-vibid:4664011175274": 450,
+      "gas:candidate-vibid:4664011175458": 26,
+      "gas:candidate-vibid:4664011156129": 26,
+      "gas:candidate-vibid:4664011175435": 29,
+      "gas:candidate-vibid:4664011155903": 90,
+      "gas:candidate-vibid:4664011175362": 107,
+      "gas:candidate-vibid:4664011175537": 120,
+      "gas:candidate-vibid:4664011175296": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732911&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732911&type=464",
@@ -4393,14 +4393,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 605,
-      "Гаев Денис Владимирович": 31,
-      "Зайцев Сергей Михайлович": 35,
-      "Ривкин Феликс Моисеевич": 42,
-      "Сизов Денис Васильевич": 142,
-      "Скоморохова Римма Вениаминовна": 123,
-      "Черешнев Валерий Александрович": 154,
-      "Шабанов Владимир Геннадьевич": 61
+      "gas:candidate-vibid:4664011175274": 605,
+      "gas:candidate-vibid:4664011175458": 31,
+      "gas:candidate-vibid:4664011156129": 35,
+      "gas:candidate-vibid:4664011175435": 42,
+      "gas:candidate-vibid:4664011155903": 142,
+      "gas:candidate-vibid:4664011175362": 123,
+      "gas:candidate-vibid:4664011175537": 154,
+      "gas:candidate-vibid:4664011175296": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732911&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732911&type=464",
@@ -4451,14 +4451,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 346,
-      "Гаев Денис Владимирович": 59,
-      "Зайцев Сергей Михайлович": 21,
-      "Ривкин Феликс Моисеевич": 72,
-      "Сизов Денис Васильевич": 70,
-      "Скоморохова Римма Вениаминовна": 96,
-      "Черешнев Валерий Александрович": 176,
-      "Шабанов Владимир Геннадьевич": 52
+      "gas:candidate-vibid:4664011175274": 346,
+      "gas:candidate-vibid:4664011175458": 59,
+      "gas:candidate-vibid:4664011156129": 21,
+      "gas:candidate-vibid:4664011175435": 72,
+      "gas:candidate-vibid:4664011155903": 70,
+      "gas:candidate-vibid:4664011175362": 96,
+      "gas:candidate-vibid:4664011175537": 176,
+      "gas:candidate-vibid:4664011175296": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732911&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732911&type=464",
@@ -4509,14 +4509,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 148,
-      "Гаев Денис Владимирович": 10,
-      "Зайцев Сергей Михайлович": 11,
-      "Ривкин Феликс Моисеевич": 13,
-      "Сизов Денис Васильевич": 30,
-      "Скоморохова Римма Вениаминовна": 23,
-      "Черешнев Валерий Александрович": 29,
-      "Шабанов Владимир Геннадьевич": 9
+      "gas:candidate-vibid:4664011175274": 148,
+      "gas:candidate-vibid:4664011175458": 10,
+      "gas:candidate-vibid:4664011156129": 11,
+      "gas:candidate-vibid:4664011175435": 13,
+      "gas:candidate-vibid:4664011155903": 30,
+      "gas:candidate-vibid:4664011175362": 23,
+      "gas:candidate-vibid:4664011175537": 29,
+      "gas:candidate-vibid:4664011175296": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732911&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732911&type=464",
@@ -4567,14 +4567,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 369,
-      "Гаев Денис Владимирович": 26,
-      "Зайцев Сергей Михайлович": 20,
-      "Ривкин Феликс Моисеевич": 37,
-      "Сизов Денис Васильевич": 90,
-      "Скоморохова Римма Вениаминовна": 84,
-      "Черешнев Валерий Александрович": 127,
-      "Шабанов Владимир Геннадьевич": 44
+      "gas:candidate-vibid:4664011175274": 369,
+      "gas:candidate-vibid:4664011175458": 26,
+      "gas:candidate-vibid:4664011156129": 20,
+      "gas:candidate-vibid:4664011175435": 37,
+      "gas:candidate-vibid:4664011155903": 90,
+      "gas:candidate-vibid:4664011175362": 84,
+      "gas:candidate-vibid:4664011175537": 127,
+      "gas:candidate-vibid:4664011175296": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732911&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732911&type=464",
@@ -4625,14 +4625,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 353,
-      "Гаев Денис Владимирович": 17,
-      "Зайцев Сергей Михайлович": 17,
-      "Ривкин Феликс Моисеевич": 27,
-      "Сизов Денис Васильевич": 59,
-      "Скоморохова Римма Вениаминовна": 97,
-      "Черешнев Валерий Александрович": 84,
-      "Шабанов Владимир Геннадьевич": 18
+      "gas:candidate-vibid:4664011175274": 353,
+      "gas:candidate-vibid:4664011175458": 17,
+      "gas:candidate-vibid:4664011156129": 17,
+      "gas:candidate-vibid:4664011175435": 27,
+      "gas:candidate-vibid:4664011155903": 59,
+      "gas:candidate-vibid:4664011175362": 97,
+      "gas:candidate-vibid:4664011175537": 84,
+      "gas:candidate-vibid:4664011175296": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732912&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732912&type=464",
@@ -4683,14 +4683,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 313,
-      "Гаев Денис Владимирович": 15,
-      "Зайцев Сергей Михайлович": 18,
-      "Ривкин Феликс Моисеевич": 23,
-      "Сизов Денис Васильевич": 45,
-      "Скоморохова Римма Вениаминовна": 79,
-      "Черешнев Валерий Александрович": 131,
-      "Шабанов Владимир Геннадьевич": 28
+      "gas:candidate-vibid:4664011175274": 313,
+      "gas:candidate-vibid:4664011175458": 15,
+      "gas:candidate-vibid:4664011156129": 18,
+      "gas:candidate-vibid:4664011175435": 23,
+      "gas:candidate-vibid:4664011155903": 45,
+      "gas:candidate-vibid:4664011175362": 79,
+      "gas:candidate-vibid:4664011175537": 131,
+      "gas:candidate-vibid:4664011175296": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732912&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732912&type=464",
@@ -4741,14 +4741,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 8,
-      "Гаев Денис Владимирович": 0,
-      "Зайцев Сергей Михайлович": 1,
-      "Ривкин Феликс Моисеевич": 0,
-      "Сизов Денис Васильевич": 2,
-      "Скоморохова Римма Вениаминовна": 1,
-      "Черешнев Валерий Александрович": 1,
-      "Шабанов Владимир Геннадьевич": 0
+      "gas:candidate-vibid:4664011175274": 8,
+      "gas:candidate-vibid:4664011175458": 0,
+      "gas:candidate-vibid:4664011156129": 1,
+      "gas:candidate-vibid:4664011175435": 0,
+      "gas:candidate-vibid:4664011155903": 2,
+      "gas:candidate-vibid:4664011175362": 1,
+      "gas:candidate-vibid:4664011175537": 1,
+      "gas:candidate-vibid:4664011175296": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732912&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732912&type=464",
@@ -4799,14 +4799,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 235,
-      "Гаев Денис Владимирович": 18,
-      "Зайцев Сергей Михайлович": 15,
-      "Ривкин Феликс Моисеевич": 9,
-      "Сизов Денис Васильевич": 31,
-      "Скоморохова Римма Вениаминовна": 54,
-      "Черешнев Валерий Александрович": 77,
-      "Шабанов Владимир Геннадьевич": 22
+      "gas:candidate-vibid:4664011175274": 235,
+      "gas:candidate-vibid:4664011175458": 18,
+      "gas:candidate-vibid:4664011156129": 15,
+      "gas:candidate-vibid:4664011175435": 9,
+      "gas:candidate-vibid:4664011155903": 31,
+      "gas:candidate-vibid:4664011175362": 54,
+      "gas:candidate-vibid:4664011175537": 77,
+      "gas:candidate-vibid:4664011175296": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732912&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732912&type=464",
@@ -4857,14 +4857,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 365,
-      "Гаев Денис Владимирович": 33,
-      "Зайцев Сергей Михайлович": 12,
-      "Ривкин Феликс Моисеевич": 27,
-      "Сизов Денис Васильевич": 76,
-      "Скоморохова Римма Вениаминовна": 98,
-      "Черешнев Валерий Александрович": 155,
-      "Шабанов Владимир Геннадьевич": 34
+      "gas:candidate-vibid:4664011175274": 365,
+      "gas:candidate-vibid:4664011175458": 33,
+      "gas:candidate-vibid:4664011156129": 12,
+      "gas:candidate-vibid:4664011175435": 27,
+      "gas:candidate-vibid:4664011155903": 76,
+      "gas:candidate-vibid:4664011175362": 98,
+      "gas:candidate-vibid:4664011175537": 155,
+      "gas:candidate-vibid:4664011175296": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732912&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732912&type=464",
@@ -4915,14 +4915,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 273,
-      "Гаев Денис Владимирович": 19,
-      "Зайцев Сергей Михайлович": 10,
-      "Ривкин Феликс Моисеевич": 15,
-      "Сизов Денис Васильевич": 56,
-      "Скоморохова Римма Вениаминовна": 88,
-      "Черешнев Валерий Александрович": 113,
-      "Шабанов Владимир Геннадьевич": 22
+      "gas:candidate-vibid:4664011175274": 273,
+      "gas:candidate-vibid:4664011175458": 19,
+      "gas:candidate-vibid:4664011156129": 10,
+      "gas:candidate-vibid:4664011175435": 15,
+      "gas:candidate-vibid:4664011155903": 56,
+      "gas:candidate-vibid:4664011175362": 88,
+      "gas:candidate-vibid:4664011175537": 113,
+      "gas:candidate-vibid:4664011175296": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732912&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732912&type=464",
@@ -4973,14 +4973,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 299,
-      "Гаев Денис Владимирович": 8,
-      "Зайцев Сергей Михайлович": 6,
-      "Ривкин Феликс Моисеевич": 18,
-      "Сизов Денис Васильевич": 44,
-      "Скоморохова Римма Вениаминовна": 56,
-      "Черешнев Валерий Александрович": 91,
-      "Шабанов Владимир Геннадьевич": 16
+      "gas:candidate-vibid:4664011175274": 299,
+      "gas:candidate-vibid:4664011175458": 8,
+      "gas:candidate-vibid:4664011156129": 6,
+      "gas:candidate-vibid:4664011175435": 18,
+      "gas:candidate-vibid:4664011155903": 44,
+      "gas:candidate-vibid:4664011175362": 56,
+      "gas:candidate-vibid:4664011175537": 91,
+      "gas:candidate-vibid:4664011175296": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732912&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732912&type=464",
@@ -5031,14 +5031,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 210,
-      "Гаев Денис Владимирович": 31,
-      "Зайцев Сергей Михайлович": 21,
-      "Ривкин Феликс Моисеевич": 41,
-      "Сизов Денис Васильевич": 43,
-      "Скоморохова Римма Вениаминовна": 87,
-      "Черешнев Валерий Александрович": 94,
-      "Шабанов Владимир Геннадьевич": 32
+      "gas:candidate-vibid:4664011175274": 210,
+      "gas:candidate-vibid:4664011175458": 31,
+      "gas:candidate-vibid:4664011156129": 21,
+      "gas:candidate-vibid:4664011175435": 41,
+      "gas:candidate-vibid:4664011155903": 43,
+      "gas:candidate-vibid:4664011175362": 87,
+      "gas:candidate-vibid:4664011175537": 94,
+      "gas:candidate-vibid:4664011175296": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732912&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732912&type=464",
@@ -5089,14 +5089,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 399,
-      "Гаев Денис Владимирович": 12,
-      "Зайцев Сергей Михайлович": 22,
-      "Ривкин Феликс Моисеевич": 7,
-      "Сизов Денис Васильевич": 21,
-      "Скоморохова Римма Вениаминовна": 18,
-      "Черешнев Валерий Александрович": 51,
-      "Шабанов Владимир Геннадьевич": 7
+      "gas:candidate-vibid:4664011175274": 399,
+      "gas:candidate-vibid:4664011175458": 12,
+      "gas:candidate-vibid:4664011156129": 22,
+      "gas:candidate-vibid:4664011175435": 7,
+      "gas:candidate-vibid:4664011155903": 21,
+      "gas:candidate-vibid:4664011175362": 18,
+      "gas:candidate-vibid:4664011175537": 51,
+      "gas:candidate-vibid:4664011175296": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732912&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732912&type=464",
@@ -5147,14 +5147,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 253,
-      "Гаев Денис Владимирович": 19,
-      "Зайцев Сергей Михайлович": 17,
-      "Ривкин Феликс Моисеевич": 21,
-      "Сизов Денис Васильевич": 51,
-      "Скоморохова Римма Вениаминовна": 67,
-      "Черешнев Валерий Александрович": 128,
-      "Шабанов Владимир Геннадьевич": 22
+      "gas:candidate-vibid:4664011175274": 253,
+      "gas:candidate-vibid:4664011175458": 19,
+      "gas:candidate-vibid:4664011156129": 17,
+      "gas:candidate-vibid:4664011175435": 21,
+      "gas:candidate-vibid:4664011155903": 51,
+      "gas:candidate-vibid:4664011175362": 67,
+      "gas:candidate-vibid:4664011175537": 128,
+      "gas:candidate-vibid:4664011175296": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732912&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732912&type=464",
@@ -5205,14 +5205,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 214,
-      "Гаев Денис Владимирович": 16,
-      "Зайцев Сергей Михайлович": 16,
-      "Ривкин Феликс Моисеевич": 55,
-      "Сизов Денис Васильевич": 50,
-      "Скоморохова Римма Вениаминовна": 63,
-      "Черешнев Валерий Александрович": 89,
-      "Шабанов Владимир Геннадьевич": 26
+      "gas:candidate-vibid:4664011175274": 214,
+      "gas:candidate-vibid:4664011175458": 16,
+      "gas:candidate-vibid:4664011156129": 16,
+      "gas:candidate-vibid:4664011175435": 55,
+      "gas:candidate-vibid:4664011155903": 50,
+      "gas:candidate-vibid:4664011175362": 63,
+      "gas:candidate-vibid:4664011175537": 89,
+      "gas:candidate-vibid:4664011175296": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732912&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732912&type=464",
@@ -5263,14 +5263,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 172,
-      "Гаев Денис Владимирович": 22,
-      "Зайцев Сергей Михайлович": 11,
-      "Ривкин Феликс Моисеевич": 21,
-      "Сизов Денис Васильевич": 47,
-      "Скоморохова Римма Вениаминовна": 66,
-      "Черешнев Валерий Александрович": 108,
-      "Шабанов Владимир Геннадьевич": 27
+      "gas:candidate-vibid:4664011175274": 172,
+      "gas:candidate-vibid:4664011175458": 22,
+      "gas:candidate-vibid:4664011156129": 11,
+      "gas:candidate-vibid:4664011175435": 21,
+      "gas:candidate-vibid:4664011155903": 47,
+      "gas:candidate-vibid:4664011175362": 66,
+      "gas:candidate-vibid:4664011175537": 108,
+      "gas:candidate-vibid:4664011175296": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732912&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732912&type=464",
@@ -5321,14 +5321,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 193,
-      "Гаев Денис Владимирович": 28,
-      "Зайцев Сергей Михайлович": 13,
-      "Ривкин Феликс Моисеевич": 38,
-      "Сизов Денис Васильевич": 52,
-      "Скоморохова Римма Вениаминовна": 83,
-      "Черешнев Валерий Александрович": 109,
-      "Шабанов Владимир Геннадьевич": 28
+      "gas:candidate-vibid:4664011175274": 193,
+      "gas:candidate-vibid:4664011175458": 28,
+      "gas:candidate-vibid:4664011156129": 13,
+      "gas:candidate-vibid:4664011175435": 38,
+      "gas:candidate-vibid:4664011155903": 52,
+      "gas:candidate-vibid:4664011175362": 83,
+      "gas:candidate-vibid:4664011175537": 109,
+      "gas:candidate-vibid:4664011175296": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732912&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732912&type=464",
@@ -5379,14 +5379,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 206,
-      "Гаев Денис Владимирович": 30,
-      "Зайцев Сергей Михайлович": 19,
-      "Ривкин Феликс Моисеевич": 36,
-      "Сизов Денис Васильевич": 63,
-      "Скоморохова Римма Вениаминовна": 70,
-      "Черешнев Валерий Александрович": 110,
-      "Шабанов Владимир Геннадьевич": 18
+      "gas:candidate-vibid:4664011175274": 206,
+      "gas:candidate-vibid:4664011175458": 30,
+      "gas:candidate-vibid:4664011156129": 19,
+      "gas:candidate-vibid:4664011175435": 36,
+      "gas:candidate-vibid:4664011155903": 63,
+      "gas:candidate-vibid:4664011175362": 70,
+      "gas:candidate-vibid:4664011175537": 110,
+      "gas:candidate-vibid:4664011175296": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732912&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732912&type=464",
@@ -5437,14 +5437,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 157,
-      "Гаев Денис Владимирович": 22,
-      "Зайцев Сергей Михайлович": 11,
-      "Ривкин Феликс Моисеевич": 36,
-      "Сизов Денис Васильевич": 42,
-      "Скоморохова Римма Вениаминовна": 70,
-      "Черешнев Валерий Александрович": 80,
-      "Шабанов Владимир Геннадьевич": 39
+      "gas:candidate-vibid:4664011175274": 157,
+      "gas:candidate-vibid:4664011175458": 22,
+      "gas:candidate-vibid:4664011156129": 11,
+      "gas:candidate-vibid:4664011175435": 36,
+      "gas:candidate-vibid:4664011155903": 42,
+      "gas:candidate-vibid:4664011175362": 70,
+      "gas:candidate-vibid:4664011175537": 80,
+      "gas:candidate-vibid:4664011175296": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732912&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732912&type=464",
@@ -5495,14 +5495,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 216,
-      "Гаев Денис Владимирович": 36,
-      "Зайцев Сергей Михайлович": 16,
-      "Ривкин Феликс Моисеевич": 41,
-      "Сизов Денис Васильевич": 57,
-      "Скоморохова Римма Вениаминовна": 89,
-      "Черешнев Валерий Александрович": 97,
-      "Шабанов Владимир Геннадьевич": 27
+      "gas:candidate-vibid:4664011175274": 216,
+      "gas:candidate-vibid:4664011175458": 36,
+      "gas:candidate-vibid:4664011156129": 16,
+      "gas:candidate-vibid:4664011175435": 41,
+      "gas:candidate-vibid:4664011155903": 57,
+      "gas:candidate-vibid:4664011175362": 89,
+      "gas:candidate-vibid:4664011175537": 97,
+      "gas:candidate-vibid:4664011175296": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732912&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732912&type=464",
@@ -5553,14 +5553,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 303,
-      "Гаев Денис Владимирович": 48,
-      "Зайцев Сергей Михайлович": 13,
-      "Ривкин Феликс Моисеевич": 91,
-      "Сизов Денис Васильевич": 56,
-      "Скоморохова Римма Вениаминовна": 95,
-      "Черешнев Валерий Александрович": 182,
-      "Шабанов Владимир Геннадьевич": 44
+      "gas:candidate-vibid:4664011175274": 303,
+      "gas:candidate-vibid:4664011175458": 48,
+      "gas:candidate-vibid:4664011156129": 13,
+      "gas:candidate-vibid:4664011175435": 91,
+      "gas:candidate-vibid:4664011155903": 56,
+      "gas:candidate-vibid:4664011175362": 95,
+      "gas:candidate-vibid:4664011175537": 182,
+      "gas:candidate-vibid:4664011175296": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732912&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732912&type=464",
@@ -5611,14 +5611,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 301,
-      "Гаев Денис Владимирович": 48,
-      "Зайцев Сергей Михайлович": 24,
-      "Ривкин Феликс Моисеевич": 64,
-      "Сизов Денис Васильевич": 55,
-      "Скоморохова Римма Вениаминовна": 117,
-      "Черешнев Валерий Александрович": 128,
-      "Шабанов Владимир Геннадьевич": 56
+      "gas:candidate-vibid:4664011175274": 301,
+      "gas:candidate-vibid:4664011175458": 48,
+      "gas:candidate-vibid:4664011156129": 24,
+      "gas:candidate-vibid:4664011175435": 64,
+      "gas:candidate-vibid:4664011155903": 55,
+      "gas:candidate-vibid:4664011175362": 117,
+      "gas:candidate-vibid:4664011175537": 128,
+      "gas:candidate-vibid:4664011175296": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732912&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732912&type=464",
@@ -5669,14 +5669,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 211,
-      "Гаев Денис Владимирович": 37,
-      "Зайцев Сергей Михайлович": 14,
-      "Ривкин Феликс Моисеевич": 45,
-      "Сизов Денис Васильевич": 42,
-      "Скоморохова Римма Вениаминовна": 86,
-      "Черешнев Валерий Александрович": 100,
-      "Шабанов Владимир Геннадьевич": 26
+      "gas:candidate-vibid:4664011175274": 211,
+      "gas:candidate-vibid:4664011175458": 37,
+      "gas:candidate-vibid:4664011156129": 14,
+      "gas:candidate-vibid:4664011175435": 45,
+      "gas:candidate-vibid:4664011155903": 42,
+      "gas:candidate-vibid:4664011175362": 86,
+      "gas:candidate-vibid:4664011175537": 100,
+      "gas:candidate-vibid:4664011175296": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732912&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732912&type=464",
@@ -5727,14 +5727,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 225,
-      "Гаев Денис Владимирович": 23,
-      "Зайцев Сергей Михайлович": 21,
-      "Ривкин Феликс Моисеевич": 23,
-      "Сизов Денис Васильевич": 44,
-      "Скоморохова Римма Вениаминовна": 59,
-      "Черешнев Валерий Александрович": 90,
-      "Шабанов Владимир Геннадьевич": 23
+      "gas:candidate-vibid:4664011175274": 225,
+      "gas:candidate-vibid:4664011175458": 23,
+      "gas:candidate-vibid:4664011156129": 21,
+      "gas:candidate-vibid:4664011175435": 23,
+      "gas:candidate-vibid:4664011155903": 44,
+      "gas:candidate-vibid:4664011175362": 59,
+      "gas:candidate-vibid:4664011175537": 90,
+      "gas:candidate-vibid:4664011175296": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732912&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732912&type=464",
@@ -5785,14 +5785,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 257,
-      "Гаев Денис Владимирович": 24,
-      "Зайцев Сергей Михайлович": 22,
-      "Ривкин Феликс Моисеевич": 47,
-      "Сизов Денис Васильевич": 44,
-      "Скоморохова Римма Вениаминовна": 102,
-      "Черешнев Валерий Александрович": 131,
-      "Шабанов Владимир Геннадьевич": 31
+      "gas:candidate-vibid:4664011175274": 257,
+      "gas:candidate-vibid:4664011175458": 24,
+      "gas:candidate-vibid:4664011156129": 22,
+      "gas:candidate-vibid:4664011175435": 47,
+      "gas:candidate-vibid:4664011155903": 44,
+      "gas:candidate-vibid:4664011175362": 102,
+      "gas:candidate-vibid:4664011175537": 131,
+      "gas:candidate-vibid:4664011175296": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732912&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732912&type=464",
@@ -5843,14 +5843,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 207,
-      "Гаев Денис Владимирович": 25,
-      "Зайцев Сергей Михайлович": 11,
-      "Ривкин Феликс Моисеевич": 41,
-      "Сизов Денис Васильевич": 27,
-      "Скоморохова Римма Вениаминовна": 68,
-      "Черешнев Валерий Александрович": 85,
-      "Шабанов Владимир Геннадьевич": 17
+      "gas:candidate-vibid:4664011175274": 207,
+      "gas:candidate-vibid:4664011175458": 25,
+      "gas:candidate-vibid:4664011156129": 11,
+      "gas:candidate-vibid:4664011175435": 41,
+      "gas:candidate-vibid:4664011155903": 27,
+      "gas:candidate-vibid:4664011175362": 68,
+      "gas:candidate-vibid:4664011175537": 85,
+      "gas:candidate-vibid:4664011175296": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732912&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732912&type=464",
@@ -5901,14 +5901,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 337,
-      "Гаев Денис Владимирович": 37,
-      "Зайцев Сергей Михайлович": 14,
-      "Ривкин Феликс Моисеевич": 23,
-      "Сизов Денис Васильевич": 58,
-      "Скоморохова Римма Вениаминовна": 109,
-      "Черешнев Валерий Александрович": 148,
-      "Шабанов Владимир Геннадьевич": 37
+      "gas:candidate-vibid:4664011175274": 337,
+      "gas:candidate-vibid:4664011175458": 37,
+      "gas:candidate-vibid:4664011156129": 14,
+      "gas:candidate-vibid:4664011175435": 23,
+      "gas:candidate-vibid:4664011155903": 58,
+      "gas:candidate-vibid:4664011175362": 109,
+      "gas:candidate-vibid:4664011175537": 148,
+      "gas:candidate-vibid:4664011175296": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732912&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732912&type=464",
@@ -5959,14 +5959,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 238,
-      "Гаев Денис Владимирович": 33,
-      "Зайцев Сергей Михайлович": 18,
-      "Ривкин Феликс Моисеевич": 39,
-      "Сизов Денис Васильевич": 49,
-      "Скоморохова Римма Вениаминовна": 81,
-      "Черешнев Валерий Александрович": 125,
-      "Шабанов Владимир Геннадьевич": 27
+      "gas:candidate-vibid:4664011175274": 238,
+      "gas:candidate-vibid:4664011175458": 33,
+      "gas:candidate-vibid:4664011156129": 18,
+      "gas:candidate-vibid:4664011175435": 39,
+      "gas:candidate-vibid:4664011155903": 49,
+      "gas:candidate-vibid:4664011175362": 81,
+      "gas:candidate-vibid:4664011175537": 125,
+      "gas:candidate-vibid:4664011175296": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732912&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732912&type=464",
@@ -6017,14 +6017,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 126,
-      "Гаев Денис Владимирович": 13,
-      "Зайцев Сергей Михайлович": 13,
-      "Ривкин Феликс Моисеевич": 19,
-      "Сизов Денис Васильевич": 30,
-      "Скоморохова Римма Вениаминовна": 51,
-      "Черешнев Валерий Александрович": 84,
-      "Шабанов Владимир Геннадьевич": 23
+      "gas:candidate-vibid:4664011175274": 126,
+      "gas:candidate-vibid:4664011175458": 13,
+      "gas:candidate-vibid:4664011156129": 13,
+      "gas:candidate-vibid:4664011175435": 19,
+      "gas:candidate-vibid:4664011155903": 30,
+      "gas:candidate-vibid:4664011175362": 51,
+      "gas:candidate-vibid:4664011175537": 84,
+      "gas:candidate-vibid:4664011175296": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732912&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732912&type=464",
@@ -6075,14 +6075,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 30,
-      "Гаев Денис Владимирович": 1,
-      "Зайцев Сергей Михайлович": 4,
-      "Ривкин Феликс Моисеевич": 1,
-      "Сизов Денис Васильевич": 13,
-      "Скоморохова Римма Вениаминовна": 11,
-      "Черешнев Валерий Александрович": 13,
-      "Шабанов Владимир Геннадьевич": 3
+      "gas:candidate-vibid:4664011175274": 30,
+      "gas:candidate-vibid:4664011175458": 1,
+      "gas:candidate-vibid:4664011156129": 4,
+      "gas:candidate-vibid:4664011175435": 1,
+      "gas:candidate-vibid:4664011155903": 13,
+      "gas:candidate-vibid:4664011175362": 11,
+      "gas:candidate-vibid:4664011175537": 13,
+      "gas:candidate-vibid:4664011175296": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732912&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732912&type=464",
@@ -6133,14 +6133,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 221,
-      "Гаев Денис Владимирович": 14,
-      "Зайцев Сергей Михайлович": 18,
-      "Ривкин Феликс Моисеевич": 12,
-      "Сизов Денис Васильевич": 54,
-      "Скоморохова Римма Вениаминовна": 49,
-      "Черешнев Валерий Александрович": 56,
-      "Шабанов Владимир Геннадьевич": 16
+      "gas:candidate-vibid:4664011175274": 221,
+      "gas:candidate-vibid:4664011175458": 14,
+      "gas:candidate-vibid:4664011156129": 18,
+      "gas:candidate-vibid:4664011175435": 12,
+      "gas:candidate-vibid:4664011155903": 54,
+      "gas:candidate-vibid:4664011175362": 49,
+      "gas:candidate-vibid:4664011175537": 56,
+      "gas:candidate-vibid:4664011175296": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732912&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732912&type=464",
@@ -6191,14 +6191,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 219,
-      "Гаев Денис Владимирович": 22,
-      "Зайцев Сергей Михайлович": 23,
-      "Ривкин Феликс Моисеевич": 10,
-      "Сизов Денис Васильевич": 62,
-      "Скоморохова Римма Вениаминовна": 73,
-      "Черешнев Валерий Александрович": 79,
-      "Шабанов Владимир Геннадьевич": 18
+      "gas:candidate-vibid:4664011175274": 219,
+      "gas:candidate-vibid:4664011175458": 22,
+      "gas:candidate-vibid:4664011156129": 23,
+      "gas:candidate-vibid:4664011175435": 10,
+      "gas:candidate-vibid:4664011155903": 62,
+      "gas:candidate-vibid:4664011175362": 73,
+      "gas:candidate-vibid:4664011175537": 79,
+      "gas:candidate-vibid:4664011175296": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732912&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732912&type=464",
@@ -6249,14 +6249,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 238,
-      "Гаев Денис Владимирович": 13,
-      "Зайцев Сергей Михайлович": 23,
-      "Ривкин Феликс Моисеевич": 14,
-      "Сизов Денис Васильевич": 46,
-      "Скоморохова Римма Вениаминовна": 48,
-      "Черешнев Валерий Александрович": 78,
-      "Шабанов Владимир Геннадьевич": 22
+      "gas:candidate-vibid:4664011175274": 238,
+      "gas:candidate-vibid:4664011175458": 13,
+      "gas:candidate-vibid:4664011156129": 23,
+      "gas:candidate-vibid:4664011175435": 14,
+      "gas:candidate-vibid:4664011155903": 46,
+      "gas:candidate-vibid:4664011175362": 48,
+      "gas:candidate-vibid:4664011175537": 78,
+      "gas:candidate-vibid:4664011175296": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732912&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732912&type=464",
@@ -6307,14 +6307,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 296,
-      "Гаев Денис Владимирович": 16,
-      "Зайцев Сергей Михайлович": 24,
-      "Ривкин Феликс Моисеевич": 19,
-      "Сизов Денис Васильевич": 79,
-      "Скоморохова Римма Вениаминовна": 98,
-      "Черешнев Валерий Александрович": 108,
-      "Шабанов Владимир Геннадьевич": 35
+      "gas:candidate-vibid:4664011175274": 296,
+      "gas:candidate-vibid:4664011175458": 16,
+      "gas:candidate-vibid:4664011156129": 24,
+      "gas:candidate-vibid:4664011175435": 19,
+      "gas:candidate-vibid:4664011155903": 79,
+      "gas:candidate-vibid:4664011175362": 98,
+      "gas:candidate-vibid:4664011175537": 108,
+      "gas:candidate-vibid:4664011175296": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732912&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732912&type=464",
@@ -6365,14 +6365,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 290,
-      "Гаев Денис Владимирович": 22,
-      "Зайцев Сергей Михайлович": 20,
-      "Ривкин Феликс Моисеевич": 23,
-      "Сизов Денис Васильевич": 47,
-      "Скоморохова Римма Вениаминовна": 85,
-      "Черешнев Валерий Александрович": 124,
-      "Шабанов Владимир Геннадьевич": 14
+      "gas:candidate-vibid:4664011175274": 290,
+      "gas:candidate-vibid:4664011175458": 22,
+      "gas:candidate-vibid:4664011156129": 20,
+      "gas:candidate-vibid:4664011175435": 23,
+      "gas:candidate-vibid:4664011155903": 47,
+      "gas:candidate-vibid:4664011175362": 85,
+      "gas:candidate-vibid:4664011175537": 124,
+      "gas:candidate-vibid:4664011175296": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732912&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732912&type=464",
@@ -6423,14 +6423,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 316,
-      "Гаев Денис Владимирович": 22,
-      "Зайцев Сергей Михайлович": 30,
-      "Ривкин Феликс Моисеевич": 15,
-      "Сизов Денис Васильевич": 62,
-      "Скоморохова Римма Вениаминовна": 96,
-      "Черешнев Валерий Александрович": 115,
-      "Шабанов Владимир Геннадьевич": 20
+      "gas:candidate-vibid:4664011175274": 316,
+      "gas:candidate-vibid:4664011175458": 22,
+      "gas:candidate-vibid:4664011156129": 30,
+      "gas:candidate-vibid:4664011175435": 15,
+      "gas:candidate-vibid:4664011155903": 62,
+      "gas:candidate-vibid:4664011175362": 96,
+      "gas:candidate-vibid:4664011175537": 115,
+      "gas:candidate-vibid:4664011175296": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732912&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732912&type=464",
@@ -6481,14 +6481,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 332,
-      "Гаев Денис Владимирович": 24,
-      "Зайцев Сергей Михайлович": 15,
-      "Ривкин Феликс Моисеевич": 19,
-      "Сизов Денис Васильевич": 56,
-      "Скоморохова Римма Вениаминовна": 75,
-      "Черешнев Валерий Александрович": 136,
-      "Шабанов Владимир Геннадьевич": 30
+      "gas:candidate-vibid:4664011175274": 332,
+      "gas:candidate-vibid:4664011175458": 24,
+      "gas:candidate-vibid:4664011156129": 15,
+      "gas:candidate-vibid:4664011175435": 19,
+      "gas:candidate-vibid:4664011155903": 56,
+      "gas:candidate-vibid:4664011175362": 75,
+      "gas:candidate-vibid:4664011175537": 136,
+      "gas:candidate-vibid:4664011175296": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732912&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732912&type=464",
@@ -6539,14 +6539,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 294,
-      "Гаев Денис Владимирович": 20,
-      "Зайцев Сергей Михайлович": 24,
-      "Ривкин Феликс Моисеевич": 19,
-      "Сизов Денис Васильевич": 61,
-      "Скоморохова Римма Вениаминовна": 81,
-      "Черешнев Валерий Александрович": 146,
-      "Шабанов Владимир Геннадьевич": 18
+      "gas:candidate-vibid:4664011175274": 294,
+      "gas:candidate-vibid:4664011175458": 20,
+      "gas:candidate-vibid:4664011156129": 24,
+      "gas:candidate-vibid:4664011175435": 19,
+      "gas:candidate-vibid:4664011155903": 61,
+      "gas:candidate-vibid:4664011175362": 81,
+      "gas:candidate-vibid:4664011175537": 146,
+      "gas:candidate-vibid:4664011175296": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732912&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732912&type=464",
@@ -6597,14 +6597,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 393,
-      "Гаев Денис Владимирович": 30,
-      "Зайцев Сергей Михайлович": 30,
-      "Ривкин Феликс Моисеевич": 24,
-      "Сизов Денис Васильевич": 76,
-      "Скоморохова Римма Вениаминовна": 94,
-      "Черешнев Валерий Александрович": 158,
-      "Шабанов Владимир Геннадьевич": 38
+      "gas:candidate-vibid:4664011175274": 393,
+      "gas:candidate-vibid:4664011175458": 30,
+      "gas:candidate-vibid:4664011156129": 30,
+      "gas:candidate-vibid:4664011175435": 24,
+      "gas:candidate-vibid:4664011155903": 76,
+      "gas:candidate-vibid:4664011175362": 94,
+      "gas:candidate-vibid:4664011175537": 158,
+      "gas:candidate-vibid:4664011175296": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732912&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732912&type=464",
@@ -6655,14 +6655,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 344,
-      "Гаев Денис Владимирович": 25,
-      "Зайцев Сергей Михайлович": 17,
-      "Ривкин Феликс Моисеевич": 35,
-      "Сизов Денис Васильевич": 82,
-      "Скоморохова Римма Вениаминовна": 70,
-      "Черешнев Валерий Александрович": 143,
-      "Шабанов Владимир Геннадьевич": 20
+      "gas:candidate-vibid:4664011175274": 344,
+      "gas:candidate-vibid:4664011175458": 25,
+      "gas:candidate-vibid:4664011156129": 17,
+      "gas:candidate-vibid:4664011175435": 35,
+      "gas:candidate-vibid:4664011155903": 82,
+      "gas:candidate-vibid:4664011175362": 70,
+      "gas:candidate-vibid:4664011175537": 143,
+      "gas:candidate-vibid:4664011175296": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732912&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732912&type=464",
@@ -6713,14 +6713,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 416,
-      "Гаев Денис Владимирович": 21,
-      "Зайцев Сергей Михайлович": 31,
-      "Ривкин Феликс Моисеевич": 28,
-      "Сизов Денис Васильевич": 87,
-      "Скоморохова Римма Вениаминовна": 97,
-      "Черешнев Валерий Александрович": 160,
-      "Шабанов Владимир Геннадьевич": 27
+      "gas:candidate-vibid:4664011175274": 416,
+      "gas:candidate-vibid:4664011175458": 21,
+      "gas:candidate-vibid:4664011156129": 31,
+      "gas:candidate-vibid:4664011175435": 28,
+      "gas:candidate-vibid:4664011155903": 87,
+      "gas:candidate-vibid:4664011175362": 97,
+      "gas:candidate-vibid:4664011175537": 160,
+      "gas:candidate-vibid:4664011175296": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732912&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732912&type=464",
@@ -6771,14 +6771,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 335,
-      "Гаев Денис Владимирович": 25,
-      "Зайцев Сергей Михайлович": 26,
-      "Ривкин Феликс Моисеевич": 20,
-      "Сизов Денис Васильевич": 70,
-      "Скоморохова Римма Вениаминовна": 70,
-      "Черешнев Валерий Александрович": 133,
-      "Шабанов Владимир Геннадьевич": 19
+      "gas:candidate-vibid:4664011175274": 335,
+      "gas:candidate-vibid:4664011175458": 25,
+      "gas:candidate-vibid:4664011156129": 26,
+      "gas:candidate-vibid:4664011175435": 20,
+      "gas:candidate-vibid:4664011155903": 70,
+      "gas:candidate-vibid:4664011175362": 70,
+      "gas:candidate-vibid:4664011175537": 133,
+      "gas:candidate-vibid:4664011175296": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732912&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732912&type=464",
@@ -6829,14 +6829,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 368,
-      "Гаев Денис Владимирович": 40,
-      "Зайцев Сергей Михайлович": 18,
-      "Ривкин Феликс Моисеевич": 27,
-      "Сизов Денис Васильевич": 79,
-      "Скоморохова Римма Вениаминовна": 108,
-      "Черешнев Валерий Александрович": 131,
-      "Шабанов Владимир Геннадьевич": 31
+      "gas:candidate-vibid:4664011175274": 368,
+      "gas:candidate-vibid:4664011175458": 40,
+      "gas:candidate-vibid:4664011156129": 18,
+      "gas:candidate-vibid:4664011175435": 27,
+      "gas:candidate-vibid:4664011155903": 79,
+      "gas:candidate-vibid:4664011175362": 108,
+      "gas:candidate-vibid:4664011175537": 131,
+      "gas:candidate-vibid:4664011175296": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732912&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732912&type=464",
@@ -6887,14 +6887,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 356,
-      "Гаев Денис Владимирович": 29,
-      "Зайцев Сергей Михайлович": 28,
-      "Ривкин Феликс Моисеевич": 22,
-      "Сизов Денис Васильевич": 75,
-      "Скоморохова Римма Вениаминовна": 96,
-      "Черешнев Валерий Александрович": 140,
-      "Шабанов Владимир Геннадьевич": 59
+      "gas:candidate-vibid:4664011175274": 356,
+      "gas:candidate-vibid:4664011175458": 29,
+      "gas:candidate-vibid:4664011156129": 28,
+      "gas:candidate-vibid:4664011175435": 22,
+      "gas:candidate-vibid:4664011155903": 75,
+      "gas:candidate-vibid:4664011175362": 96,
+      "gas:candidate-vibid:4664011175537": 140,
+      "gas:candidate-vibid:4664011175296": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732912&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732912&type=464",
@@ -6945,14 +6945,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 430,
-      "Гаев Денис Владимирович": 39,
-      "Зайцев Сергей Михайлович": 74,
-      "Ривкин Феликс Моисеевич": 36,
-      "Сизов Денис Васильевич": 148,
-      "Скоморохова Римма Вениаминовна": 72,
-      "Черешнев Валерий Александрович": 89,
-      "Шабанов Владимир Геннадьевич": 37
+      "gas:candidate-vibid:4664011175274": 430,
+      "gas:candidate-vibid:4664011175458": 39,
+      "gas:candidate-vibid:4664011156129": 74,
+      "gas:candidate-vibid:4664011175435": 36,
+      "gas:candidate-vibid:4664011155903": 148,
+      "gas:candidate-vibid:4664011175362": 72,
+      "gas:candidate-vibid:4664011175537": 89,
+      "gas:candidate-vibid:4664011175296": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732912&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732912&type=464",
@@ -7003,14 +7003,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 293,
-      "Гаев Денис Владимирович": 13,
-      "Зайцев Сергей Михайлович": 22,
-      "Ривкин Феликс Моисеевич": 16,
-      "Сизов Денис Васильевич": 34,
-      "Скоморохова Римма Вениаминовна": 59,
-      "Черешнев Валерий Александрович": 102,
-      "Шабанов Владимир Геннадьевич": 23
+      "gas:candidate-vibid:4664011175274": 293,
+      "gas:candidate-vibid:4664011175458": 13,
+      "gas:candidate-vibid:4664011156129": 22,
+      "gas:candidate-vibid:4664011175435": 16,
+      "gas:candidate-vibid:4664011155903": 34,
+      "gas:candidate-vibid:4664011175362": 59,
+      "gas:candidate-vibid:4664011175537": 102,
+      "gas:candidate-vibid:4664011175296": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732912&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732912&type=464",
@@ -7061,14 +7061,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 366,
-      "Гаев Денис Владимирович": 21,
-      "Зайцев Сергей Михайлович": 25,
-      "Ривкин Феликс Моисеевич": 20,
-      "Сизов Денис Васильевич": 65,
-      "Скоморохова Римма Вениаминовна": 93,
-      "Черешнев Валерий Александрович": 155,
-      "Шабанов Владимир Геннадьевич": 29
+      "gas:candidate-vibid:4664011175274": 366,
+      "gas:candidate-vibid:4664011175458": 21,
+      "gas:candidate-vibid:4664011156129": 25,
+      "gas:candidate-vibid:4664011175435": 20,
+      "gas:candidate-vibid:4664011155903": 65,
+      "gas:candidate-vibid:4664011175362": 93,
+      "gas:candidate-vibid:4664011175537": 155,
+      "gas:candidate-vibid:4664011175296": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732912&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732912&type=464",
@@ -7119,14 +7119,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 331,
-      "Гаев Денис Владимирович": 23,
-      "Зайцев Сергей Михайлович": 25,
-      "Ривкин Феликс Моисеевич": 30,
-      "Сизов Денис Васильевич": 64,
-      "Скоморохова Римма Вениаминовна": 90,
-      "Черешнев Валерий Александрович": 112,
-      "Шабанов Владимир Геннадьевич": 26
+      "gas:candidate-vibid:4664011175274": 331,
+      "gas:candidate-vibid:4664011175458": 23,
+      "gas:candidate-vibid:4664011156129": 25,
+      "gas:candidate-vibid:4664011175435": 30,
+      "gas:candidate-vibid:4664011155903": 64,
+      "gas:candidate-vibid:4664011175362": 90,
+      "gas:candidate-vibid:4664011175537": 112,
+      "gas:candidate-vibid:4664011175296": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732912&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732912&type=464",
@@ -7177,14 +7177,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 323,
-      "Гаев Денис Владимирович": 15,
-      "Зайцев Сергей Михайлович": 19,
-      "Ривкин Феликс Моисеевич": 15,
-      "Сизов Денис Васильевич": 43,
-      "Скоморохова Римма Вениаминовна": 73,
-      "Черешнев Валерий Александрович": 97,
-      "Шабанов Владимир Геннадьевич": 12
+      "gas:candidate-vibid:4664011175274": 323,
+      "gas:candidate-vibid:4664011175458": 15,
+      "gas:candidate-vibid:4664011156129": 19,
+      "gas:candidate-vibid:4664011175435": 15,
+      "gas:candidate-vibid:4664011155903": 43,
+      "gas:candidate-vibid:4664011175362": 73,
+      "gas:candidate-vibid:4664011175537": 97,
+      "gas:candidate-vibid:4664011175296": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732912&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732912&type=464",
@@ -7235,14 +7235,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 349,
-      "Гаев Денис Владимирович": 21,
-      "Зайцев Сергей Михайлович": 23,
-      "Ривкин Феликс Моисеевич": 20,
-      "Сизов Денис Васильевич": 63,
-      "Скоморохова Римма Вениаминовна": 63,
-      "Черешнев Валерий Александрович": 90,
-      "Шабанов Владимир Геннадьевич": 26
+      "gas:candidate-vibid:4664011175274": 349,
+      "gas:candidate-vibid:4664011175458": 21,
+      "gas:candidate-vibid:4664011156129": 23,
+      "gas:candidate-vibid:4664011175435": 20,
+      "gas:candidate-vibid:4664011155903": 63,
+      "gas:candidate-vibid:4664011175362": 63,
+      "gas:candidate-vibid:4664011175537": 90,
+      "gas:candidate-vibid:4664011175296": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732912&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732912&type=464",
@@ -7293,14 +7293,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 371,
-      "Гаев Денис Владимирович": 19,
-      "Зайцев Сергей Михайлович": 11,
-      "Ривкин Феликс Моисеевич": 14,
-      "Сизов Денис Васильевич": 52,
-      "Скоморохова Римма Вениаминовна": 70,
-      "Черешнев Валерий Александрович": 110,
-      "Шабанов Владимир Геннадьевич": 20
+      "gas:candidate-vibid:4664011175274": 371,
+      "gas:candidate-vibid:4664011175458": 19,
+      "gas:candidate-vibid:4664011156129": 11,
+      "gas:candidate-vibid:4664011175435": 14,
+      "gas:candidate-vibid:4664011155903": 52,
+      "gas:candidate-vibid:4664011175362": 70,
+      "gas:candidate-vibid:4664011175537": 110,
+      "gas:candidate-vibid:4664011175296": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732912&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732912&type=464",
@@ -7351,14 +7351,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 275,
-      "Гаев Денис Владимирович": 17,
-      "Зайцев Сергей Михайлович": 9,
-      "Ривкин Феликс Моисеевич": 8,
-      "Сизов Денис Васильевич": 46,
-      "Скоморохова Римма Вениаминовна": 44,
-      "Черешнев Валерий Александрович": 100,
-      "Шабанов Владимир Геннадьевич": 13
+      "gas:candidate-vibid:4664011175274": 275,
+      "gas:candidate-vibid:4664011175458": 17,
+      "gas:candidate-vibid:4664011156129": 9,
+      "gas:candidate-vibid:4664011175435": 8,
+      "gas:candidate-vibid:4664011155903": 46,
+      "gas:candidate-vibid:4664011175362": 44,
+      "gas:candidate-vibid:4664011175537": 100,
+      "gas:candidate-vibid:4664011175296": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732912&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732912&type=464",
@@ -7409,14 +7409,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 374,
-      "Гаев Денис Владимирович": 17,
-      "Зайцев Сергей Михайлович": 29,
-      "Ривкин Феликс Моисеевич": 20,
-      "Сизов Денис Васильевич": 58,
-      "Скоморохова Римма Вениаминовна": 80,
-      "Черешнев Валерий Александрович": 103,
-      "Шабанов Владимир Геннадьевич": 27
+      "gas:candidate-vibid:4664011175274": 374,
+      "gas:candidate-vibid:4664011175458": 17,
+      "gas:candidate-vibid:4664011156129": 29,
+      "gas:candidate-vibid:4664011175435": 20,
+      "gas:candidate-vibid:4664011155903": 58,
+      "gas:candidate-vibid:4664011175362": 80,
+      "gas:candidate-vibid:4664011175537": 103,
+      "gas:candidate-vibid:4664011175296": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732912&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732912&type=464",
@@ -7467,14 +7467,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 268,
-      "Гаев Денис Владимирович": 15,
-      "Зайцев Сергей Михайлович": 11,
-      "Ривкин Феликс Моисеевич": 19,
-      "Сизов Денис Васильевич": 48,
-      "Скоморохова Римма Вениаминовна": 67,
-      "Черешнев Валерий Александрович": 60,
-      "Шабанов Владимир Геннадьевич": 8
+      "gas:candidate-vibid:4664011175274": 268,
+      "gas:candidate-vibid:4664011175458": 15,
+      "gas:candidate-vibid:4664011156129": 11,
+      "gas:candidate-vibid:4664011175435": 19,
+      "gas:candidate-vibid:4664011155903": 48,
+      "gas:candidate-vibid:4664011175362": 67,
+      "gas:candidate-vibid:4664011175537": 60,
+      "gas:candidate-vibid:4664011175296": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732912&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732912&type=464",
@@ -7525,14 +7525,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 336,
-      "Гаев Денис Владимирович": 11,
-      "Зайцев Сергей Михайлович": 24,
-      "Ривкин Феликс Моисеевич": 9,
-      "Сизов Денис Васильевич": 58,
-      "Скоморохова Римма Вениаминовна": 76,
-      "Черешнев Валерий Александрович": 106,
-      "Шабанов Владимир Геннадьевич": 21
+      "gas:candidate-vibid:4664011175274": 336,
+      "gas:candidate-vibid:4664011175458": 11,
+      "gas:candidate-vibid:4664011156129": 24,
+      "gas:candidate-vibid:4664011175435": 9,
+      "gas:candidate-vibid:4664011155903": 58,
+      "gas:candidate-vibid:4664011175362": 76,
+      "gas:candidate-vibid:4664011175537": 106,
+      "gas:candidate-vibid:4664011175296": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732912&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732912&type=464",
@@ -7583,14 +7583,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 253,
-      "Гаев Денис Владимирович": 24,
-      "Зайцев Сергей Михайлович": 18,
-      "Ривкин Феликс Моисеевич": 17,
-      "Сизов Денис Васильевич": 45,
-      "Скоморохова Римма Вениаминовна": 51,
-      "Черешнев Валерий Александрович": 74,
-      "Шабанов Владимир Геннадьевич": 24
+      "gas:candidate-vibid:4664011175274": 253,
+      "gas:candidate-vibid:4664011175458": 24,
+      "gas:candidate-vibid:4664011156129": 18,
+      "gas:candidate-vibid:4664011175435": 17,
+      "gas:candidate-vibid:4664011155903": 45,
+      "gas:candidate-vibid:4664011175362": 51,
+      "gas:candidate-vibid:4664011175537": 74,
+      "gas:candidate-vibid:4664011175296": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732912&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732912&type=464",
@@ -7641,14 +7641,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 368,
-      "Гаев Денис Владимирович": 24,
-      "Зайцев Сергей Михайлович": 16,
-      "Ривкин Феликс Моисеевич": 22,
-      "Сизов Денис Васильевич": 75,
-      "Скоморохова Римма Вениаминовна": 96,
-      "Черешнев Валерий Александрович": 107,
-      "Шабанов Владимир Геннадьевич": 24
+      "gas:candidate-vibid:4664011175274": 368,
+      "gas:candidate-vibid:4664011175458": 24,
+      "gas:candidate-vibid:4664011156129": 16,
+      "gas:candidate-vibid:4664011175435": 22,
+      "gas:candidate-vibid:4664011155903": 75,
+      "gas:candidate-vibid:4664011175362": 96,
+      "gas:candidate-vibid:4664011175537": 107,
+      "gas:candidate-vibid:4664011175296": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732912&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732912&type=464",
@@ -7699,14 +7699,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 356,
-      "Гаев Денис Владимирович": 13,
-      "Зайцев Сергей Михайлович": 23,
-      "Ривкин Феликс Моисеевич": 16,
-      "Сизов Денис Васильевич": 49,
-      "Скоморохова Римма Вениаминовна": 78,
-      "Черешнев Валерий Александрович": 103,
-      "Шабанов Владимир Геннадьевич": 23
+      "gas:candidate-vibid:4664011175274": 356,
+      "gas:candidate-vibid:4664011175458": 13,
+      "gas:candidate-vibid:4664011156129": 23,
+      "gas:candidate-vibid:4664011175435": 16,
+      "gas:candidate-vibid:4664011155903": 49,
+      "gas:candidate-vibid:4664011175362": 78,
+      "gas:candidate-vibid:4664011175537": 103,
+      "gas:candidate-vibid:4664011175296": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732912&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732912&type=464",
@@ -7757,14 +7757,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 346,
-      "Гаев Денис Владимирович": 21,
-      "Зайцев Сергей Михайлович": 21,
-      "Ривкин Феликс Моисеевич": 5,
-      "Сизов Денис Васильевич": 62,
-      "Скоморохова Римма Вениаминовна": 68,
-      "Черешнев Валерий Александрович": 136,
-      "Шабанов Владимир Геннадьевич": 37
+      "gas:candidate-vibid:4664011175274": 346,
+      "gas:candidate-vibid:4664011175458": 21,
+      "gas:candidate-vibid:4664011156129": 21,
+      "gas:candidate-vibid:4664011175435": 5,
+      "gas:candidate-vibid:4664011155903": 62,
+      "gas:candidate-vibid:4664011175362": 68,
+      "gas:candidate-vibid:4664011175537": 136,
+      "gas:candidate-vibid:4664011175296": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732912&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732912&type=464",
@@ -7815,14 +7815,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 392,
-      "Гаев Денис Владимирович": 28,
-      "Зайцев Сергей Михайлович": 19,
-      "Ривкин Феликс Моисеевич": 8,
-      "Сизов Денис Васильевич": 40,
-      "Скоморохова Римма Вениаминовна": 40,
-      "Черешнев Валерий Александрович": 144,
-      "Шабанов Владимир Геннадьевич": 22
+      "gas:candidate-vibid:4664011175274": 392,
+      "gas:candidate-vibid:4664011175458": 28,
+      "gas:candidate-vibid:4664011156129": 19,
+      "gas:candidate-vibid:4664011175435": 8,
+      "gas:candidate-vibid:4664011155903": 40,
+      "gas:candidate-vibid:4664011175362": 40,
+      "gas:candidate-vibid:4664011175537": 144,
+      "gas:candidate-vibid:4664011175296": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732912&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732912&type=464",
@@ -7873,14 +7873,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 420,
-      "Гаев Денис Владимирович": 23,
-      "Зайцев Сергей Михайлович": 23,
-      "Ривкин Феликс Моисеевич": 9,
-      "Сизов Денис Васильевич": 53,
-      "Скоморохова Римма Вениаминовна": 108,
-      "Черешнев Валерий Александрович": 128,
-      "Шабанов Владимир Геннадьевич": 40
+      "gas:candidate-vibid:4664011175274": 420,
+      "gas:candidate-vibid:4664011175458": 23,
+      "gas:candidate-vibid:4664011156129": 23,
+      "gas:candidate-vibid:4664011175435": 9,
+      "gas:candidate-vibid:4664011155903": 53,
+      "gas:candidate-vibid:4664011175362": 108,
+      "gas:candidate-vibid:4664011175537": 128,
+      "gas:candidate-vibid:4664011175296": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732912&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732912&type=464",
@@ -7931,14 +7931,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 292,
-      "Гаев Денис Владимирович": 20,
-      "Зайцев Сергей Михайлович": 12,
-      "Ривкин Феликс Моисеевич": 13,
-      "Сизов Денис Васильевич": 42,
-      "Скоморохова Римма Вениаминовна": 76,
-      "Черешнев Валерий Александрович": 97,
-      "Шабанов Владимир Геннадьевич": 20
+      "gas:candidate-vibid:4664011175274": 292,
+      "gas:candidate-vibid:4664011175458": 20,
+      "gas:candidate-vibid:4664011156129": 12,
+      "gas:candidate-vibid:4664011175435": 13,
+      "gas:candidate-vibid:4664011155903": 42,
+      "gas:candidate-vibid:4664011175362": 76,
+      "gas:candidate-vibid:4664011175537": 97,
+      "gas:candidate-vibid:4664011175296": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732912&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732912&type=464",
@@ -7989,14 +7989,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 393,
-      "Гаев Денис Владимирович": 25,
-      "Зайцев Сергей Михайлович": 17,
-      "Ривкин Феликс Моисеевич": 15,
-      "Сизов Денис Васильевич": 80,
-      "Скоморохова Римма Вениаминовна": 73,
-      "Черешнев Валерий Александрович": 137,
-      "Шабанов Владимир Геннадьевич": 25
+      "gas:candidate-vibid:4664011175274": 393,
+      "gas:candidate-vibid:4664011175458": 25,
+      "gas:candidate-vibid:4664011156129": 17,
+      "gas:candidate-vibid:4664011175435": 15,
+      "gas:candidate-vibid:4664011155903": 80,
+      "gas:candidate-vibid:4664011175362": 73,
+      "gas:candidate-vibid:4664011175537": 137,
+      "gas:candidate-vibid:4664011175296": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732912&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732912&type=464",
@@ -8047,14 +8047,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 401,
-      "Гаев Денис Владимирович": 22,
-      "Зайцев Сергей Михайлович": 17,
-      "Ривкин Феликс Моисеевич": 24,
-      "Сизов Денис Васильевич": 50,
-      "Скоморохова Римма Вениаминовна": 97,
-      "Черешнев Валерий Александрович": 110,
-      "Шабанов Владимир Геннадьевич": 30
+      "gas:candidate-vibid:4664011175274": 401,
+      "gas:candidate-vibid:4664011175458": 22,
+      "gas:candidate-vibid:4664011156129": 17,
+      "gas:candidate-vibid:4664011175435": 24,
+      "gas:candidate-vibid:4664011155903": 50,
+      "gas:candidate-vibid:4664011175362": 97,
+      "gas:candidate-vibid:4664011175537": 110,
+      "gas:candidate-vibid:4664011175296": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732912&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732912&type=464",
@@ -8105,14 +8105,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 507,
-      "Гаев Денис Владимирович": 18,
-      "Зайцев Сергей Михайлович": 22,
-      "Ривкин Феликс Моисеевич": 23,
-      "Сизов Денис Васильевич": 68,
-      "Скоморохова Римма Вениаминовна": 66,
-      "Черешнев Валерий Александрович": 81,
-      "Шабанов Владимир Геннадьевич": 44
+      "gas:candidate-vibid:4664011175274": 507,
+      "gas:candidate-vibid:4664011175458": 18,
+      "gas:candidate-vibid:4664011156129": 22,
+      "gas:candidate-vibid:4664011175435": 23,
+      "gas:candidate-vibid:4664011155903": 68,
+      "gas:candidate-vibid:4664011175362": 66,
+      "gas:candidate-vibid:4664011175537": 81,
+      "gas:candidate-vibid:4664011175296": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732912&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732912&type=464",
@@ -8163,14 +8163,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 71,
-      "Гаев Денис Владимирович": 0,
-      "Зайцев Сергей Михайлович": 3,
-      "Ривкин Феликс Моисеевич": 3,
-      "Сизов Денис Васильевич": 14,
-      "Скоморохова Римма Вениаминовна": 14,
-      "Черешнев Валерий Александрович": 12,
-      "Шабанов Владимир Геннадьевич": 6
+      "gas:candidate-vibid:4664011175274": 71,
+      "gas:candidate-vibid:4664011175458": 0,
+      "gas:candidate-vibid:4664011156129": 3,
+      "gas:candidate-vibid:4664011175435": 3,
+      "gas:candidate-vibid:4664011155903": 14,
+      "gas:candidate-vibid:4664011175362": 14,
+      "gas:candidate-vibid:4664011175537": 12,
+      "gas:candidate-vibid:4664011175296": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732912&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732912&type=464",
@@ -8221,14 +8221,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 134,
-      "Гаев Денис Владимирович": 11,
-      "Зайцев Сергей Михайлович": 10,
-      "Ривкин Феликс Моисеевич": 18,
-      "Сизов Денис Васильевич": 26,
-      "Скоморохова Римма Вениаминовна": 33,
-      "Черешнев Валерий Александрович": 35,
-      "Шабанов Владимир Геннадьевич": 19
+      "gas:candidate-vibid:4664011175274": 134,
+      "gas:candidate-vibid:4664011175458": 11,
+      "gas:candidate-vibid:4664011156129": 10,
+      "gas:candidate-vibid:4664011175435": 18,
+      "gas:candidate-vibid:4664011155903": 26,
+      "gas:candidate-vibid:4664011175362": 33,
+      "gas:candidate-vibid:4664011175537": 35,
+      "gas:candidate-vibid:4664011175296": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732912&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732912&type=464",
@@ -8279,14 +8279,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 141,
-      "Гаев Денис Владимирович": 11,
-      "Зайцев Сергей Михайлович": 15,
-      "Ривкин Феликс Моисеевич": 4,
-      "Сизов Денис Васильевич": 42,
-      "Скоморохова Римма Вениаминовна": 44,
-      "Черешнев Валерий Александрович": 34,
-      "Шабанов Владимир Геннадьевич": 12
+      "gas:candidate-vibid:4664011175274": 141,
+      "gas:candidate-vibid:4664011175458": 11,
+      "gas:candidate-vibid:4664011156129": 15,
+      "gas:candidate-vibid:4664011175435": 4,
+      "gas:candidate-vibid:4664011155903": 42,
+      "gas:candidate-vibid:4664011175362": 44,
+      "gas:candidate-vibid:4664011175537": 34,
+      "gas:candidate-vibid:4664011175296": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732912&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732912&type=464",
@@ -8337,14 +8337,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 262,
-      "Гаев Денис Владимирович": 33,
-      "Зайцев Сергей Михайлович": 22,
-      "Ривкин Феликс Моисеевич": 12,
-      "Сизов Денис Васильевич": 66,
-      "Скоморохова Римма Вениаминовна": 89,
-      "Черешнев Валерий Александрович": 69,
-      "Шабанов Владимир Геннадьевич": 31
+      "gas:candidate-vibid:4664011175274": 262,
+      "gas:candidate-vibid:4664011175458": 33,
+      "gas:candidate-vibid:4664011156129": 22,
+      "gas:candidate-vibid:4664011175435": 12,
+      "gas:candidate-vibid:4664011155903": 66,
+      "gas:candidate-vibid:4664011175362": 89,
+      "gas:candidate-vibid:4664011175537": 69,
+      "gas:candidate-vibid:4664011175296": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732912&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732912&type=464",
@@ -8395,14 +8395,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 401,
-      "Гаев Денис Владимирович": 19,
-      "Зайцев Сергей Михайлович": 13,
-      "Ривкин Феликс Моисеевич": 14,
-      "Сизов Денис Васильевич": 53,
-      "Скоморохова Римма Вениаминовна": 73,
-      "Черешнев Валерий Александрович": 137,
-      "Шабанов Владимир Геннадьевич": 23
+      "gas:candidate-vibid:4664011175274": 401,
+      "gas:candidate-vibid:4664011175458": 19,
+      "gas:candidate-vibid:4664011156129": 13,
+      "gas:candidate-vibid:4664011175435": 14,
+      "gas:candidate-vibid:4664011155903": 53,
+      "gas:candidate-vibid:4664011175362": 73,
+      "gas:candidate-vibid:4664011175537": 137,
+      "gas:candidate-vibid:4664011175296": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732912&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732912&type=464",
@@ -8453,14 +8453,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 41,
-      "Гаев Денис Владимирович": 2,
-      "Зайцев Сергей Михайлович": 5,
-      "Ривкин Феликс Моисеевич": 0,
-      "Сизов Денис Васильевич": 4,
-      "Скоморохова Римма Вениаминовна": 8,
-      "Черешнев Валерий Александрович": 12,
-      "Шабанов Владимир Геннадьевич": 3
+      "gas:candidate-vibid:4664011175274": 41,
+      "gas:candidate-vibid:4664011175458": 2,
+      "gas:candidate-vibid:4664011156129": 5,
+      "gas:candidate-vibid:4664011175435": 0,
+      "gas:candidate-vibid:4664011155903": 4,
+      "gas:candidate-vibid:4664011175362": 8,
+      "gas:candidate-vibid:4664011175537": 12,
+      "gas:candidate-vibid:4664011175296": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732912&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732912&type=464",
@@ -8511,14 +8511,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 149,
-      "Гаев Денис Владимирович": 14,
-      "Зайцев Сергей Михайлович": 19,
-      "Ривкин Феликс Моисеевич": 13,
-      "Сизов Денис Васильевич": 17,
-      "Скоморохова Римма Вениаминовна": 25,
-      "Черешнев Валерий Александрович": 24,
-      "Шабанов Владимир Геннадьевич": 8
+      "gas:candidate-vibid:4664011175274": 149,
+      "gas:candidate-vibid:4664011175458": 14,
+      "gas:candidate-vibid:4664011156129": 19,
+      "gas:candidate-vibid:4664011175435": 13,
+      "gas:candidate-vibid:4664011155903": 17,
+      "gas:candidate-vibid:4664011175362": 25,
+      "gas:candidate-vibid:4664011175537": 24,
+      "gas:candidate-vibid:4664011175296": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732912&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732912&type=464",
@@ -8569,14 +8569,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 176,
-      "Гаев Денис Владимирович": 35,
-      "Зайцев Сергей Михайлович": 18,
-      "Ривкин Феликс Моисеевич": 38,
-      "Сизов Денис Васильевич": 35,
-      "Скоморохова Римма Вениаминовна": 68,
-      "Черешнев Валерий Александрович": 104,
-      "Шабанов Владимир Геннадьевич": 32
+      "gas:candidate-vibid:4664011175274": 176,
+      "gas:candidate-vibid:4664011175458": 35,
+      "gas:candidate-vibid:4664011156129": 18,
+      "gas:candidate-vibid:4664011175435": 38,
+      "gas:candidate-vibid:4664011155903": 35,
+      "gas:candidate-vibid:4664011175362": 68,
+      "gas:candidate-vibid:4664011175537": 104,
+      "gas:candidate-vibid:4664011175296": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732912&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732912&type=464",
@@ -8627,14 +8627,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 288,
-      "Гаев Денис Владимирович": 13,
-      "Зайцев Сергей Михайлович": 19,
-      "Ривкин Феликс Моисеевич": 20,
-      "Сизов Денис Васильевич": 32,
-      "Скоморохова Римма Вениаминовна": 64,
-      "Черешнев Валерий Александрович": 107,
-      "Шабанов Владимир Геннадьевич": 21
+      "gas:candidate-vibid:4664011175274": 288,
+      "gas:candidate-vibid:4664011175458": 13,
+      "gas:candidate-vibid:4664011156129": 19,
+      "gas:candidate-vibid:4664011175435": 20,
+      "gas:candidate-vibid:4664011155903": 32,
+      "gas:candidate-vibid:4664011175362": 64,
+      "gas:candidate-vibid:4664011175537": 107,
+      "gas:candidate-vibid:4664011175296": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732912&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732912&type=464",
@@ -8685,14 +8685,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 133,
-      "Гаев Денис Владимирович": 25,
-      "Зайцев Сергей Михайлович": 19,
-      "Ривкин Феликс Моисеевич": 53,
-      "Сизов Денис Васильевич": 34,
-      "Скоморохова Римма Вениаминовна": 43,
-      "Черешнев Валерий Александрович": 84,
-      "Шабанов Владимир Геннадьевич": 43
+      "gas:candidate-vibid:4664011175274": 133,
+      "gas:candidate-vibid:4664011175458": 25,
+      "gas:candidate-vibid:4664011156129": 19,
+      "gas:candidate-vibid:4664011175435": 53,
+      "gas:candidate-vibid:4664011155903": 34,
+      "gas:candidate-vibid:4664011175362": 43,
+      "gas:candidate-vibid:4664011175537": 84,
+      "gas:candidate-vibid:4664011175296": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732913&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732913&type=464",
@@ -8743,14 +8743,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 265,
-      "Гаев Денис Владимирович": 55,
-      "Зайцев Сергей Михайлович": 22,
-      "Ривкин Феликс Моисеевич": 68,
-      "Сизов Денис Васильевич": 41,
-      "Скоморохова Римма Вениаминовна": 101,
-      "Черешнев Валерий Александрович": 175,
-      "Шабанов Владимир Геннадьевич": 61
+      "gas:candidate-vibid:4664011175274": 265,
+      "gas:candidate-vibid:4664011175458": 55,
+      "gas:candidate-vibid:4664011156129": 22,
+      "gas:candidate-vibid:4664011175435": 68,
+      "gas:candidate-vibid:4664011155903": 41,
+      "gas:candidate-vibid:4664011175362": 101,
+      "gas:candidate-vibid:4664011175537": 175,
+      "gas:candidate-vibid:4664011175296": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732913&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732913&type=464",
@@ -8801,14 +8801,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 350,
-      "Гаев Денис Владимирович": 64,
-      "Зайцев Сергей Михайлович": 17,
-      "Ривкин Феликс Моисеевич": 81,
-      "Сизов Денис Васильевич": 64,
-      "Скоморохова Римма Вениаминовна": 139,
-      "Черешнев Валерий Александрович": 192,
-      "Шабанов Владимир Геннадьевич": 79
+      "gas:candidate-vibid:4664011175274": 350,
+      "gas:candidate-vibid:4664011175458": 64,
+      "gas:candidate-vibid:4664011156129": 17,
+      "gas:candidate-vibid:4664011175435": 81,
+      "gas:candidate-vibid:4664011155903": 64,
+      "gas:candidate-vibid:4664011175362": 139,
+      "gas:candidate-vibid:4664011175537": 192,
+      "gas:candidate-vibid:4664011175296": 79
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732913&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732913&type=464",
@@ -8859,14 +8859,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 201,
-      "Гаев Денис Владимирович": 45,
-      "Зайцев Сергей Михайлович": 17,
-      "Ривкин Феликс Моисеевич": 58,
-      "Сизов Денис Васильевич": 59,
-      "Скоморохова Римма Вениаминовна": 62,
-      "Черешнев Валерий Александрович": 124,
-      "Шабанов Владимир Геннадьевич": 47
+      "gas:candidate-vibid:4664011175274": 201,
+      "gas:candidate-vibid:4664011175458": 45,
+      "gas:candidate-vibid:4664011156129": 17,
+      "gas:candidate-vibid:4664011175435": 58,
+      "gas:candidate-vibid:4664011155903": 59,
+      "gas:candidate-vibid:4664011175362": 62,
+      "gas:candidate-vibid:4664011175537": 124,
+      "gas:candidate-vibid:4664011175296": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732913&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732913&type=464",
@@ -8917,14 +8917,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 312,
-      "Гаев Денис Владимирович": 51,
-      "Зайцев Сергей Михайлович": 18,
-      "Ривкин Феликс Моисеевич": 53,
-      "Сизов Денис Васильевич": 75,
-      "Скоморохова Римма Вениаминовна": 117,
-      "Черешнев Валерий Александрович": 173,
-      "Шабанов Владимир Геннадьевич": 49
+      "gas:candidate-vibid:4664011175274": 312,
+      "gas:candidate-vibid:4664011175458": 51,
+      "gas:candidate-vibid:4664011156129": 18,
+      "gas:candidate-vibid:4664011175435": 53,
+      "gas:candidate-vibid:4664011155903": 75,
+      "gas:candidate-vibid:4664011175362": 117,
+      "gas:candidate-vibid:4664011175537": 173,
+      "gas:candidate-vibid:4664011175296": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732913&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732913&type=464",
@@ -8975,14 +8975,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 427,
-      "Гаев Денис Владимирович": 76,
-      "Зайцев Сергей Михайлович": 15,
-      "Ривкин Феликс Моисеевич": 84,
-      "Сизов Денис Васильевич": 76,
-      "Скоморохова Римма Вениаминовна": 97,
-      "Черешнев Валерий Александрович": 213,
-      "Шабанов Владимир Геннадьевич": 78
+      "gas:candidate-vibid:4664011175274": 427,
+      "gas:candidate-vibid:4664011175458": 76,
+      "gas:candidate-vibid:4664011156129": 15,
+      "gas:candidate-vibid:4664011175435": 84,
+      "gas:candidate-vibid:4664011155903": 76,
+      "gas:candidate-vibid:4664011175362": 97,
+      "gas:candidate-vibid:4664011175537": 213,
+      "gas:candidate-vibid:4664011175296": 78
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732913&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732913&type=464",
@@ -9033,14 +9033,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 260,
-      "Гаев Денис Владимирович": 52,
-      "Зайцев Сергей Михайлович": 21,
-      "Ривкин Феликс Моисеевич": 53,
-      "Сизов Денис Васильевич": 63,
-      "Скоморохова Римма Вениаминовна": 73,
-      "Черешнев Валерий Александрович": 93,
-      "Шабанов Владимир Геннадьевич": 46
+      "gas:candidate-vibid:4664011175274": 260,
+      "gas:candidate-vibid:4664011175458": 52,
+      "gas:candidate-vibid:4664011156129": 21,
+      "gas:candidate-vibid:4664011175435": 53,
+      "gas:candidate-vibid:4664011155903": 63,
+      "gas:candidate-vibid:4664011175362": 73,
+      "gas:candidate-vibid:4664011175537": 93,
+      "gas:candidate-vibid:4664011175296": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732913&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732913&type=464",
@@ -9091,14 +9091,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 277,
-      "Гаев Денис Владимирович": 38,
-      "Зайцев Сергей Михайлович": 18,
-      "Ривкин Феликс Моисеевич": 50,
-      "Сизов Денис Васильевич": 63,
-      "Скоморохова Римма Вениаминовна": 71,
-      "Черешнев Валерий Александрович": 182,
-      "Шабанов Владимир Геннадьевич": 45
+      "gas:candidate-vibid:4664011175274": 277,
+      "gas:candidate-vibid:4664011175458": 38,
+      "gas:candidate-vibid:4664011156129": 18,
+      "gas:candidate-vibid:4664011175435": 50,
+      "gas:candidate-vibid:4664011155903": 63,
+      "gas:candidate-vibid:4664011175362": 71,
+      "gas:candidate-vibid:4664011175537": 182,
+      "gas:candidate-vibid:4664011175296": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732913&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732913&type=464",
@@ -9149,14 +9149,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 350,
-      "Гаев Денис Владимирович": 47,
-      "Зайцев Сергей Михайлович": 23,
-      "Ривкин Феликс Моисеевич": 50,
-      "Сизов Денис Васильевич": 90,
-      "Скоморохова Римма Вениаминовна": 98,
-      "Черешнев Валерий Александрович": 180,
-      "Шабанов Владимир Геннадьевич": 48
+      "gas:candidate-vibid:4664011175274": 350,
+      "gas:candidate-vibid:4664011175458": 47,
+      "gas:candidate-vibid:4664011156129": 23,
+      "gas:candidate-vibid:4664011175435": 50,
+      "gas:candidate-vibid:4664011155903": 90,
+      "gas:candidate-vibid:4664011175362": 98,
+      "gas:candidate-vibid:4664011175537": 180,
+      "gas:candidate-vibid:4664011175296": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732913&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732913&type=464",
@@ -9207,14 +9207,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 388,
-      "Гаев Денис Владимирович": 41,
-      "Зайцев Сергей Михайлович": 25,
-      "Ривкин Феликс Моисеевич": 40,
-      "Сизов Денис Васильевич": 104,
-      "Скоморохова Римма Вениаминовна": 90,
-      "Черешнев Валерий Александрович": 185,
-      "Шабанов Владимир Геннадьевич": 54
+      "gas:candidate-vibid:4664011175274": 388,
+      "gas:candidate-vibid:4664011175458": 41,
+      "gas:candidate-vibid:4664011156129": 25,
+      "gas:candidate-vibid:4664011175435": 40,
+      "gas:candidate-vibid:4664011155903": 104,
+      "gas:candidate-vibid:4664011175362": 90,
+      "gas:candidate-vibid:4664011175537": 185,
+      "gas:candidate-vibid:4664011175296": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732913&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732913&type=464",
@@ -9265,14 +9265,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 333,
-      "Гаев Денис Владимирович": 38,
-      "Зайцев Сергей Михайлович": 26,
-      "Ривкин Феликс Моисеевич": 43,
-      "Сизов Денис Васильевич": 84,
-      "Скоморохова Римма Вениаминовна": 96,
-      "Черешнев Валерий Александрович": 186,
-      "Шабанов Владимир Геннадьевич": 44
+      "gas:candidate-vibid:4664011175274": 333,
+      "gas:candidate-vibid:4664011175458": 38,
+      "gas:candidate-vibid:4664011156129": 26,
+      "gas:candidate-vibid:4664011175435": 43,
+      "gas:candidate-vibid:4664011155903": 84,
+      "gas:candidate-vibid:4664011175362": 96,
+      "gas:candidate-vibid:4664011175537": 186,
+      "gas:candidate-vibid:4664011175296": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732913&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732913&type=464",
@@ -9323,14 +9323,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 432,
-      "Гаев Денис Владимирович": 33,
-      "Зайцев Сергей Михайлович": 33,
-      "Ривкин Феликс Моисеевич": 43,
-      "Сизов Денис Васильевич": 121,
-      "Скоморохова Римма Вениаминовна": 82,
-      "Черешнев Валерий Александрович": 198,
-      "Шабанов Владимир Геннадьевич": 61
+      "gas:candidate-vibid:4664011175274": 432,
+      "gas:candidate-vibid:4664011175458": 33,
+      "gas:candidate-vibid:4664011156129": 33,
+      "gas:candidate-vibid:4664011175435": 43,
+      "gas:candidate-vibid:4664011155903": 121,
+      "gas:candidate-vibid:4664011175362": 82,
+      "gas:candidate-vibid:4664011175537": 198,
+      "gas:candidate-vibid:4664011175296": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732913&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732913&type=464",
@@ -9381,14 +9381,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 396,
-      "Гаев Денис Владимирович": 45,
-      "Зайцев Сергей Михайлович": 25,
-      "Ривкин Феликс Моисеевич": 57,
-      "Сизов Денис Васильевич": 93,
-      "Скоморохова Римма Вениаминовна": 106,
-      "Черешнев Валерий Александрович": 196,
-      "Шабанов Владимир Геннадьевич": 51
+      "gas:candidate-vibid:4664011175274": 396,
+      "gas:candidate-vibid:4664011175458": 45,
+      "gas:candidate-vibid:4664011156129": 25,
+      "gas:candidate-vibid:4664011175435": 57,
+      "gas:candidate-vibid:4664011155903": 93,
+      "gas:candidate-vibid:4664011175362": 106,
+      "gas:candidate-vibid:4664011175537": 196,
+      "gas:candidate-vibid:4664011175296": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732913&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732913&type=464",
@@ -9439,14 +9439,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 344,
-      "Гаев Денис Владимирович": 40,
-      "Зайцев Сергей Михайлович": 30,
-      "Ривкин Феликс Моисеевич": 51,
-      "Сизов Денис Васильевич": 82,
-      "Скоморохова Римма Вениаминовна": 109,
-      "Черешнев Валерий Александрович": 234,
-      "Шабанов Владимир Геннадьевич": 60
+      "gas:candidate-vibid:4664011175274": 344,
+      "gas:candidate-vibid:4664011175458": 40,
+      "gas:candidate-vibid:4664011156129": 30,
+      "gas:candidate-vibid:4664011175435": 51,
+      "gas:candidate-vibid:4664011155903": 82,
+      "gas:candidate-vibid:4664011175362": 109,
+      "gas:candidate-vibid:4664011175537": 234,
+      "gas:candidate-vibid:4664011175296": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732913&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732913&type=464",
@@ -9497,14 +9497,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 129,
-      "Гаев Денис Владимирович": 11,
-      "Зайцев Сергей Михайлович": 17,
-      "Ривкин Феликс Моисеевич": 11,
-      "Сизов Денис Васильевич": 42,
-      "Скоморохова Римма Вениаминовна": 51,
-      "Черешнев Валерий Александрович": 53,
-      "Шабанов Владимир Геннадьевич": 14
+      "gas:candidate-vibid:4664011175274": 129,
+      "gas:candidate-vibid:4664011175458": 11,
+      "gas:candidate-vibid:4664011156129": 17,
+      "gas:candidate-vibid:4664011175435": 11,
+      "gas:candidate-vibid:4664011155903": 42,
+      "gas:candidate-vibid:4664011175362": 51,
+      "gas:candidate-vibid:4664011175537": 53,
+      "gas:candidate-vibid:4664011175296": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732913&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732913&type=464",
@@ -9555,14 +9555,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 146,
-      "Гаев Денис Владимирович": 27,
-      "Зайцев Сергей Михайлович": 15,
-      "Ривкин Феликс Моисеевич": 37,
-      "Сизов Денис Васильевич": 35,
-      "Скоморохова Римма Вениаминовна": 49,
-      "Черешнев Валерий Александрович": 53,
-      "Шабанов Владимир Геннадьевич": 13
+      "gas:candidate-vibid:4664011175274": 146,
+      "gas:candidate-vibid:4664011175458": 27,
+      "gas:candidate-vibid:4664011156129": 15,
+      "gas:candidate-vibid:4664011175435": 37,
+      "gas:candidate-vibid:4664011155903": 35,
+      "gas:candidate-vibid:4664011175362": 49,
+      "gas:candidate-vibid:4664011175537": 53,
+      "gas:candidate-vibid:4664011175296": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732913&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732913&type=464",
@@ -9613,14 +9613,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 314,
-      "Гаев Денис Владимирович": 28,
-      "Зайцев Сергей Михайлович": 37,
-      "Ривкин Феликс Моисеевич": 77,
-      "Сизов Денис Васильевич": 81,
-      "Скоморохова Римма Вениаминовна": 106,
-      "Черешнев Валерий Александрович": 176,
-      "Шабанов Владимир Геннадьевич": 63
+      "gas:candidate-vibid:4664011175274": 314,
+      "gas:candidate-vibid:4664011175458": 28,
+      "gas:candidate-vibid:4664011156129": 37,
+      "gas:candidate-vibid:4664011175435": 77,
+      "gas:candidate-vibid:4664011155903": 81,
+      "gas:candidate-vibid:4664011175362": 106,
+      "gas:candidate-vibid:4664011175537": 176,
+      "gas:candidate-vibid:4664011175296": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732913&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732913&type=464",
@@ -9671,14 +9671,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 285,
-      "Гаев Денис Владимирович": 49,
-      "Зайцев Сергей Михайлович": 17,
-      "Ривкин Феликс Моисеевич": 37,
-      "Сизов Денис Васильевич": 91,
-      "Скоморохова Римма Вениаминовна": 87,
-      "Черешнев Валерий Александрович": 176,
-      "Шабанов Владимир Геннадьевич": 38
+      "gas:candidate-vibid:4664011175274": 285,
+      "gas:candidate-vibid:4664011175458": 49,
+      "gas:candidate-vibid:4664011156129": 17,
+      "gas:candidate-vibid:4664011175435": 37,
+      "gas:candidate-vibid:4664011155903": 91,
+      "gas:candidate-vibid:4664011175362": 87,
+      "gas:candidate-vibid:4664011175537": 176,
+      "gas:candidate-vibid:4664011175296": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732913&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732913&type=464",
@@ -9729,14 +9729,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 250,
-      "Гаев Денис Владимирович": 34,
-      "Зайцев Сергей Михайлович": 17,
-      "Ривкин Феликс Моисеевич": 32,
-      "Сизов Денис Васильевич": 80,
-      "Скоморохова Римма Вениаминовна": 79,
-      "Черешнев Валерий Александрович": 113,
-      "Шабанов Владимир Геннадьевич": 39
+      "gas:candidate-vibid:4664011175274": 250,
+      "gas:candidate-vibid:4664011175458": 34,
+      "gas:candidate-vibid:4664011156129": 17,
+      "gas:candidate-vibid:4664011175435": 32,
+      "gas:candidate-vibid:4664011155903": 80,
+      "gas:candidate-vibid:4664011175362": 79,
+      "gas:candidate-vibid:4664011175537": 113,
+      "gas:candidate-vibid:4664011175296": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732913&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732913&type=464",
@@ -9787,14 +9787,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 309,
-      "Гаев Денис Владимирович": 34,
-      "Зайцев Сергей Михайлович": 20,
-      "Ривкин Феликс Моисеевич": 28,
-      "Сизов Денис Васильевич": 50,
-      "Скоморохова Римма Вениаминовна": 75,
-      "Черешнев Валерий Александрович": 151,
-      "Шабанов Владимир Геннадьевич": 43
+      "gas:candidate-vibid:4664011175274": 309,
+      "gas:candidate-vibid:4664011175458": 34,
+      "gas:candidate-vibid:4664011156129": 20,
+      "gas:candidate-vibid:4664011175435": 28,
+      "gas:candidate-vibid:4664011155903": 50,
+      "gas:candidate-vibid:4664011175362": 75,
+      "gas:candidate-vibid:4664011175537": 151,
+      "gas:candidate-vibid:4664011175296": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732913&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732913&type=464",
@@ -9845,14 +9845,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 256,
-      "Гаев Денис Владимирович": 37,
-      "Зайцев Сергей Михайлович": 23,
-      "Ривкин Феликс Моисеевич": 34,
-      "Сизов Денис Васильевич": 81,
-      "Скоморохова Римма Вениаминовна": 79,
-      "Черешнев Валерий Александрович": 194,
-      "Шабанов Владимир Геннадьевич": 40
+      "gas:candidate-vibid:4664011175274": 256,
+      "gas:candidate-vibid:4664011175458": 37,
+      "gas:candidate-vibid:4664011156129": 23,
+      "gas:candidate-vibid:4664011175435": 34,
+      "gas:candidate-vibid:4664011155903": 81,
+      "gas:candidate-vibid:4664011175362": 79,
+      "gas:candidate-vibid:4664011175537": 194,
+      "gas:candidate-vibid:4664011175296": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732913&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732913&type=464",
@@ -9903,14 +9903,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 217,
-      "Гаев Денис Владимирович": 38,
-      "Зайцев Сергей Михайлович": 17,
-      "Ривкин Феликс Моисеевич": 29,
-      "Сизов Денис Васильевич": 75,
-      "Скоморохова Римма Вениаминовна": 68,
-      "Черешнев Валерий Александрович": 175,
-      "Шабанов Владимир Геннадьевич": 40
+      "gas:candidate-vibid:4664011175274": 217,
+      "gas:candidate-vibid:4664011175458": 38,
+      "gas:candidate-vibid:4664011156129": 17,
+      "gas:candidate-vibid:4664011175435": 29,
+      "gas:candidate-vibid:4664011155903": 75,
+      "gas:candidate-vibid:4664011175362": 68,
+      "gas:candidate-vibid:4664011175537": 175,
+      "gas:candidate-vibid:4664011175296": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732913&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732913&type=464",
@@ -9961,14 +9961,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 242,
-      "Гаев Денис Владимирович": 36,
-      "Зайцев Сергей Михайлович": 20,
-      "Ривкин Феликс Моисеевич": 42,
-      "Сизов Денис Васильевич": 81,
-      "Скоморохова Римма Вениаминовна": 95,
-      "Черешнев Валерий Александрович": 180,
-      "Шабанов Владимир Геннадьевич": 26
+      "gas:candidate-vibid:4664011175274": 242,
+      "gas:candidate-vibid:4664011175458": 36,
+      "gas:candidate-vibid:4664011156129": 20,
+      "gas:candidate-vibid:4664011175435": 42,
+      "gas:candidate-vibid:4664011155903": 81,
+      "gas:candidate-vibid:4664011175362": 95,
+      "gas:candidate-vibid:4664011175537": 180,
+      "gas:candidate-vibid:4664011175296": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732913&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732913&type=464",
@@ -10019,14 +10019,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 252,
-      "Гаев Денис Владимирович": 34,
-      "Зайцев Сергей Михайлович": 19,
-      "Ривкин Феликс Моисеевич": 27,
-      "Сизов Денис Васильевич": 47,
-      "Скоморохова Римма Вениаминовна": 76,
-      "Черешнев Валерий Александрович": 146,
-      "Шабанов Владимир Геннадьевич": 39
+      "gas:candidate-vibid:4664011175274": 252,
+      "gas:candidate-vibid:4664011175458": 34,
+      "gas:candidate-vibid:4664011156129": 19,
+      "gas:candidate-vibid:4664011175435": 27,
+      "gas:candidate-vibid:4664011155903": 47,
+      "gas:candidate-vibid:4664011175362": 76,
+      "gas:candidate-vibid:4664011175537": 146,
+      "gas:candidate-vibid:4664011175296": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732913&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732913&type=464",
@@ -10077,14 +10077,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 197,
-      "Гаев Денис Владимирович": 21,
-      "Зайцев Сергей Михайлович": 13,
-      "Ривкин Феликс Моисеевич": 12,
-      "Сизов Денис Васильевич": 36,
-      "Скоморохова Римма Вениаминовна": 51,
-      "Черешнев Валерий Александрович": 77,
-      "Шабанов Владимир Геннадьевич": 18
+      "gas:candidate-vibid:4664011175274": 197,
+      "gas:candidate-vibid:4664011175458": 21,
+      "gas:candidate-vibid:4664011156129": 13,
+      "gas:candidate-vibid:4664011175435": 12,
+      "gas:candidate-vibid:4664011155903": 36,
+      "gas:candidate-vibid:4664011175362": 51,
+      "gas:candidate-vibid:4664011175537": 77,
+      "gas:candidate-vibid:4664011175296": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732913&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732913&type=464",
@@ -10135,14 +10135,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 323,
-      "Гаев Денис Владимирович": 47,
-      "Зайцев Сергей Михайлович": 33,
-      "Ривкин Феликс Моисеевич": 49,
-      "Сизов Денис Васильевич": 63,
-      "Скоморохова Римма Вениаминовна": 105,
-      "Черешнев Валерий Александрович": 136,
-      "Шабанов Владимир Геннадьевич": 57
+      "gas:candidate-vibid:4664011175274": 323,
+      "gas:candidate-vibid:4664011175458": 47,
+      "gas:candidate-vibid:4664011156129": 33,
+      "gas:candidate-vibid:4664011175435": 49,
+      "gas:candidate-vibid:4664011155903": 63,
+      "gas:candidate-vibid:4664011175362": 105,
+      "gas:candidate-vibid:4664011175537": 136,
+      "gas:candidate-vibid:4664011175296": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732913&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732913&type=464",
@@ -10193,14 +10193,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 324,
-      "Гаев Денис Владимирович": 58,
-      "Зайцев Сергей Михайлович": 22,
-      "Ривкин Феликс Моисеевич": 78,
-      "Сизов Денис Васильевич": 64,
-      "Скоморохова Римма Вениаминовна": 72,
-      "Черешнев Валерий Александрович": 115,
-      "Шабанов Владимир Геннадьевич": 70
+      "gas:candidate-vibid:4664011175274": 324,
+      "gas:candidate-vibid:4664011175458": 58,
+      "gas:candidate-vibid:4664011156129": 22,
+      "gas:candidate-vibid:4664011175435": 78,
+      "gas:candidate-vibid:4664011155903": 64,
+      "gas:candidate-vibid:4664011175362": 72,
+      "gas:candidate-vibid:4664011175537": 115,
+      "gas:candidate-vibid:4664011175296": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732913&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732913&type=464",
@@ -10251,14 +10251,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 343,
-      "Гаев Денис Владимирович": 61,
-      "Зайцев Сергей Михайлович": 17,
-      "Ривкин Феликс Моисеевич": 60,
-      "Сизов Денис Васильевич": 74,
-      "Скоморохова Римма Вениаминовна": 82,
-      "Черешнев Валерий Александрович": 137,
-      "Шабанов Владимир Геннадьевич": 54
+      "gas:candidate-vibid:4664011175274": 343,
+      "gas:candidate-vibid:4664011175458": 61,
+      "gas:candidate-vibid:4664011156129": 17,
+      "gas:candidate-vibid:4664011175435": 60,
+      "gas:candidate-vibid:4664011155903": 74,
+      "gas:candidate-vibid:4664011175362": 82,
+      "gas:candidate-vibid:4664011175537": 137,
+      "gas:candidate-vibid:4664011175296": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732913&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732913&type=464",
@@ -10309,14 +10309,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 379,
-      "Гаев Денис Владимирович": 61,
-      "Зайцев Сергей Михайлович": 35,
-      "Ривкин Феликс Моисеевич": 32,
-      "Сизов Денис Васильевич": 85,
-      "Скоморохова Римма Вениаминовна": 107,
-      "Черешнев Валерий Александрович": 232,
-      "Шабанов Владимир Геннадьевич": 72
+      "gas:candidate-vibid:4664011175274": 379,
+      "gas:candidate-vibid:4664011175458": 61,
+      "gas:candidate-vibid:4664011156129": 35,
+      "gas:candidate-vibid:4664011175435": 32,
+      "gas:candidate-vibid:4664011155903": 85,
+      "gas:candidate-vibid:4664011175362": 107,
+      "gas:candidate-vibid:4664011175537": 232,
+      "gas:candidate-vibid:4664011175296": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732913&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732913&type=464",
@@ -10367,14 +10367,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 365,
-      "Гаев Денис Владимирович": 55,
-      "Зайцев Сергей Михайлович": 24,
-      "Ривкин Феликс Моисеевич": 54,
-      "Сизов Денис Васильевич": 71,
-      "Скоморохова Римма Вениаминовна": 141,
-      "Черешнев Валерий Александрович": 217,
-      "Шабанов Владимир Геннадьевич": 65
+      "gas:candidate-vibid:4664011175274": 365,
+      "gas:candidate-vibid:4664011175458": 55,
+      "gas:candidate-vibid:4664011156129": 24,
+      "gas:candidate-vibid:4664011175435": 54,
+      "gas:candidate-vibid:4664011155903": 71,
+      "gas:candidate-vibid:4664011175362": 141,
+      "gas:candidate-vibid:4664011175537": 217,
+      "gas:candidate-vibid:4664011175296": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732913&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732913&type=464",
@@ -10425,14 +10425,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 322,
-      "Гаев Денис Владимирович": 48,
-      "Зайцев Сергей Михайлович": 20,
-      "Ривкин Феликс Моисеевич": 37,
-      "Сизов Денис Васильевич": 105,
-      "Скоморохова Римма Вениаминовна": 113,
-      "Черешнев Валерий Александрович": 224,
-      "Шабанов Владимир Геннадьевич": 42
+      "gas:candidate-vibid:4664011175274": 322,
+      "gas:candidate-vibid:4664011175458": 48,
+      "gas:candidate-vibid:4664011156129": 20,
+      "gas:candidate-vibid:4664011175435": 37,
+      "gas:candidate-vibid:4664011155903": 105,
+      "gas:candidate-vibid:4664011175362": 113,
+      "gas:candidate-vibid:4664011175537": 224,
+      "gas:candidate-vibid:4664011175296": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732913&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732913&type=464",
@@ -10483,14 +10483,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 370,
-      "Гаев Денис Владимирович": 38,
-      "Зайцев Сергей Михайлович": 25,
-      "Ривкин Феликс Моисеевич": 39,
-      "Сизов Денис Васильевич": 84,
-      "Скоморохова Римма Вениаминовна": 101,
-      "Черешнев Валерий Александрович": 192,
-      "Шабанов Владимир Геннадьевич": 50
+      "gas:candidate-vibid:4664011175274": 370,
+      "gas:candidate-vibid:4664011175458": 38,
+      "gas:candidate-vibid:4664011156129": 25,
+      "gas:candidate-vibid:4664011175435": 39,
+      "gas:candidate-vibid:4664011155903": 84,
+      "gas:candidate-vibid:4664011175362": 101,
+      "gas:candidate-vibid:4664011175537": 192,
+      "gas:candidate-vibid:4664011175296": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732913&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732913&type=464",
@@ -10541,14 +10541,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 313,
-      "Гаев Денис Владимирович": 28,
-      "Зайцев Сергей Михайлович": 36,
-      "Ривкин Феликс Моисеевич": 49,
-      "Сизов Денис Васильевич": 74,
-      "Скоморохова Римма Вениаминовна": 97,
-      "Черешнев Валерий Александрович": 147,
-      "Шабанов Владимир Геннадьевич": 34
+      "gas:candidate-vibid:4664011175274": 313,
+      "gas:candidate-vibid:4664011175458": 28,
+      "gas:candidate-vibid:4664011156129": 36,
+      "gas:candidate-vibid:4664011175435": 49,
+      "gas:candidate-vibid:4664011155903": 74,
+      "gas:candidate-vibid:4664011175362": 97,
+      "gas:candidate-vibid:4664011175537": 147,
+      "gas:candidate-vibid:4664011175296": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732913&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732913&type=464",
@@ -10599,14 +10599,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 369,
-      "Гаев Денис Владимирович": 46,
-      "Зайцев Сергей Михайлович": 24,
-      "Ривкин Феликс Моисеевич": 37,
-      "Сизов Денис Васильевич": 81,
-      "Скоморохова Римма Вениаминовна": 118,
-      "Черешнев Валерий Александрович": 205,
-      "Шабанов Владимир Геннадьевич": 40
+      "gas:candidate-vibid:4664011175274": 369,
+      "gas:candidate-vibid:4664011175458": 46,
+      "gas:candidate-vibid:4664011156129": 24,
+      "gas:candidate-vibid:4664011175435": 37,
+      "gas:candidate-vibid:4664011155903": 81,
+      "gas:candidate-vibid:4664011175362": 118,
+      "gas:candidate-vibid:4664011175537": 205,
+      "gas:candidate-vibid:4664011175296": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732913&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732913&type=464",
@@ -10657,14 +10657,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 362,
-      "Гаев Денис Владимирович": 50,
-      "Зайцев Сергей Михайлович": 38,
-      "Ривкин Феликс Моисеевич": 49,
-      "Сизов Денис Васильевич": 76,
-      "Скоморохова Римма Вениаминовна": 112,
-      "Черешнев Валерий Александрович": 219,
-      "Шабанов Владимир Геннадьевич": 60
+      "gas:candidate-vibid:4664011175274": 362,
+      "gas:candidate-vibid:4664011175458": 50,
+      "gas:candidate-vibid:4664011156129": 38,
+      "gas:candidate-vibid:4664011175435": 49,
+      "gas:candidate-vibid:4664011155903": 76,
+      "gas:candidate-vibid:4664011175362": 112,
+      "gas:candidate-vibid:4664011175537": 219,
+      "gas:candidate-vibid:4664011175296": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732913&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732913&type=464",
@@ -10715,14 +10715,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 223,
-      "Гаев Денис Владимирович": 24,
-      "Зайцев Сергей Михайлович": 33,
-      "Ривкин Феликс Моисеевич": 35,
-      "Сизов Денис Васильевич": 52,
-      "Скоморохова Римма Вениаминовна": 94,
-      "Черешнев Валерий Александрович": 201,
-      "Шабанов Владимир Геннадьевич": 36
+      "gas:candidate-vibid:4664011175274": 223,
+      "gas:candidate-vibid:4664011175458": 24,
+      "gas:candidate-vibid:4664011156129": 33,
+      "gas:candidate-vibid:4664011175435": 35,
+      "gas:candidate-vibid:4664011155903": 52,
+      "gas:candidate-vibid:4664011175362": 94,
+      "gas:candidate-vibid:4664011175537": 201,
+      "gas:candidate-vibid:4664011175296": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732913&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732913&type=464",
@@ -10773,14 +10773,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 204,
-      "Гаев Денис Владимирович": 33,
-      "Зайцев Сергей Михайлович": 18,
-      "Ривкин Феликс Моисеевич": 46,
-      "Сизов Денис Васильевич": 63,
-      "Скоморохова Римма Вениаминовна": 63,
-      "Черешнев Валерий Александрович": 112,
-      "Шабанов Владимир Геннадьевич": 28
+      "gas:candidate-vibid:4664011175274": 204,
+      "gas:candidate-vibid:4664011175458": 33,
+      "gas:candidate-vibid:4664011156129": 18,
+      "gas:candidate-vibid:4664011175435": 46,
+      "gas:candidate-vibid:4664011155903": 63,
+      "gas:candidate-vibid:4664011175362": 63,
+      "gas:candidate-vibid:4664011175537": 112,
+      "gas:candidate-vibid:4664011175296": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732913&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732913&type=464",
@@ -10831,14 +10831,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 317,
-      "Гаев Денис Владимирович": 50,
-      "Зайцев Сергей Михайлович": 28,
-      "Ривкин Феликс Моисеевич": 46,
-      "Сизов Денис Васильевич": 83,
-      "Скоморохова Римма Вениаминовна": 76,
-      "Черешнев Валерий Александрович": 220,
-      "Шабанов Владимир Геннадьевич": 39
+      "gas:candidate-vibid:4664011175274": 317,
+      "gas:candidate-vibid:4664011175458": 50,
+      "gas:candidate-vibid:4664011156129": 28,
+      "gas:candidate-vibid:4664011175435": 46,
+      "gas:candidate-vibid:4664011155903": 83,
+      "gas:candidate-vibid:4664011175362": 76,
+      "gas:candidate-vibid:4664011175537": 220,
+      "gas:candidate-vibid:4664011175296": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732913&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732913&type=464",
@@ -10889,14 +10889,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 154,
-      "Гаев Денис Владимирович": 14,
-      "Зайцев Сергей Михайлович": 15,
-      "Ривкин Феликс Моисеевич": 11,
-      "Сизов Денис Васильевич": 33,
-      "Скоморохова Римма Вениаминовна": 38,
-      "Черешнев Валерий Александрович": 72,
-      "Шабанов Владимир Геннадьевич": 20
+      "gas:candidate-vibid:4664011175274": 154,
+      "gas:candidate-vibid:4664011175458": 14,
+      "gas:candidate-vibid:4664011156129": 15,
+      "gas:candidate-vibid:4664011175435": 11,
+      "gas:candidate-vibid:4664011155903": 33,
+      "gas:candidate-vibid:4664011175362": 38,
+      "gas:candidate-vibid:4664011175537": 72,
+      "gas:candidate-vibid:4664011175296": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732913&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732913&type=464",
@@ -10947,14 +10947,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 281,
-      "Гаев Денис Владимирович": 38,
-      "Зайцев Сергей Михайлович": 13,
-      "Ривкин Феликс Моисеевич": 40,
-      "Сизов Денис Васильевич": 75,
-      "Скоморохова Римма Вениаминовна": 102,
-      "Черешнев Валерий Александрович": 174,
-      "Шабанов Владимир Геннадьевич": 45
+      "gas:candidate-vibid:4664011175274": 281,
+      "gas:candidate-vibid:4664011175458": 38,
+      "gas:candidate-vibid:4664011156129": 13,
+      "gas:candidate-vibid:4664011175435": 40,
+      "gas:candidate-vibid:4664011155903": 75,
+      "gas:candidate-vibid:4664011175362": 102,
+      "gas:candidate-vibid:4664011175537": 174,
+      "gas:candidate-vibid:4664011175296": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732913&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732913&type=464",
@@ -11005,14 +11005,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 308,
-      "Гаев Денис Владимирович": 49,
-      "Зайцев Сергей Михайлович": 26,
-      "Ривкин Феликс Моисеевич": 45,
-      "Сизов Денис Васильевич": 67,
-      "Скоморохова Римма Вениаминовна": 84,
-      "Черешнев Валерий Александрович": 180,
-      "Шабанов Владимир Геннадьевич": 49
+      "gas:candidate-vibid:4664011175274": 308,
+      "gas:candidate-vibid:4664011175458": 49,
+      "gas:candidate-vibid:4664011156129": 26,
+      "gas:candidate-vibid:4664011175435": 45,
+      "gas:candidate-vibid:4664011155903": 67,
+      "gas:candidate-vibid:4664011175362": 84,
+      "gas:candidate-vibid:4664011175537": 180,
+      "gas:candidate-vibid:4664011175296": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732913&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732913&type=464",
@@ -11063,14 +11063,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 301,
-      "Гаев Денис Владимирович": 49,
-      "Зайцев Сергей Михайлович": 32,
-      "Ривкин Феликс Моисеевич": 67,
-      "Сизов Денис Васильевич": 93,
-      "Скоморохова Римма Вениаминовна": 88,
-      "Черешнев Валерий Александрович": 216,
-      "Шабанов Владимир Геннадьевич": 59
+      "gas:candidate-vibid:4664011175274": 301,
+      "gas:candidate-vibid:4664011175458": 49,
+      "gas:candidate-vibid:4664011156129": 32,
+      "gas:candidate-vibid:4664011175435": 67,
+      "gas:candidate-vibid:4664011155903": 93,
+      "gas:candidate-vibid:4664011175362": 88,
+      "gas:candidate-vibid:4664011175537": 216,
+      "gas:candidate-vibid:4664011175296": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732913&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732913&type=464",
@@ -11121,14 +11121,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 205,
-      "Гаев Денис Владимирович": 28,
-      "Зайцев Сергей Михайлович": 19,
-      "Ривкин Феликс Моисеевич": 20,
-      "Сизов Денис Васильевич": 57,
-      "Скоморохова Римма Вениаминовна": 74,
-      "Черешнев Валерий Александрович": 160,
-      "Шабанов Владимир Геннадьевич": 20
+      "gas:candidate-vibid:4664011175274": 205,
+      "gas:candidate-vibid:4664011175458": 28,
+      "gas:candidate-vibid:4664011156129": 19,
+      "gas:candidate-vibid:4664011175435": 20,
+      "gas:candidate-vibid:4664011155903": 57,
+      "gas:candidate-vibid:4664011175362": 74,
+      "gas:candidate-vibid:4664011175537": 160,
+      "gas:candidate-vibid:4664011175296": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732913&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732913&type=464",
@@ -11179,14 +11179,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 230,
-      "Гаев Денис Владимирович": 22,
-      "Зайцев Сергей Михайлович": 19,
-      "Ривкин Феликс Моисеевич": 41,
-      "Сизов Денис Васильевич": 68,
-      "Скоморохова Римма Вениаминовна": 68,
-      "Черешнев Валерий Александрович": 162,
-      "Шабанов Владимир Геннадьевич": 48
+      "gas:candidate-vibid:4664011175274": 230,
+      "gas:candidate-vibid:4664011175458": 22,
+      "gas:candidate-vibid:4664011156129": 19,
+      "gas:candidate-vibid:4664011175435": 41,
+      "gas:candidate-vibid:4664011155903": 68,
+      "gas:candidate-vibid:4664011175362": 68,
+      "gas:candidate-vibid:4664011175537": 162,
+      "gas:candidate-vibid:4664011175296": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732913&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732913&type=464",
@@ -11237,14 +11237,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 258,
-      "Гаев Денис Владимирович": 43,
-      "Зайцев Сергей Михайлович": 19,
-      "Ривкин Феликс Моисеевич": 45,
-      "Сизов Денис Васильевич": 76,
-      "Скоморохова Римма Вениаминовна": 73,
-      "Черешнев Валерий Александрович": 186,
-      "Шабанов Владимир Геннадьевич": 38
+      "gas:candidate-vibid:4664011175274": 258,
+      "gas:candidate-vibid:4664011175458": 43,
+      "gas:candidate-vibid:4664011156129": 19,
+      "gas:candidate-vibid:4664011175435": 45,
+      "gas:candidate-vibid:4664011155903": 76,
+      "gas:candidate-vibid:4664011175362": 73,
+      "gas:candidate-vibid:4664011175537": 186,
+      "gas:candidate-vibid:4664011175296": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732913&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732913&type=464",
@@ -11295,14 +11295,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 202,
-      "Гаев Денис Владимирович": 29,
-      "Зайцев Сергей Михайлович": 31,
-      "Ривкин Феликс Моисеевич": 29,
-      "Сизов Денис Васильевич": 73,
-      "Скоморохова Римма Вениаминовна": 79,
-      "Черешнев Валерий Александрович": 147,
-      "Шабанов Владимир Геннадьевич": 28
+      "gas:candidate-vibid:4664011175274": 202,
+      "gas:candidate-vibid:4664011175458": 29,
+      "gas:candidate-vibid:4664011156129": 31,
+      "gas:candidate-vibid:4664011175435": 29,
+      "gas:candidate-vibid:4664011155903": 73,
+      "gas:candidate-vibid:4664011175362": 79,
+      "gas:candidate-vibid:4664011175537": 147,
+      "gas:candidate-vibid:4664011175296": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732913&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732913&type=464",
@@ -11353,14 +11353,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 302,
-      "Гаев Денис Владимирович": 30,
-      "Зайцев Сергей Михайлович": 13,
-      "Ривкин Феликс Моисеевич": 46,
-      "Сизов Денис Васильевич": 69,
-      "Скоморохова Римма Вениаминовна": 90,
-      "Черешнев Валерий Александрович": 246,
-      "Шабанов Владимир Геннадьевич": 46
+      "gas:candidate-vibid:4664011175274": 302,
+      "gas:candidate-vibid:4664011175458": 30,
+      "gas:candidate-vibid:4664011156129": 13,
+      "gas:candidate-vibid:4664011175435": 46,
+      "gas:candidate-vibid:4664011155903": 69,
+      "gas:candidate-vibid:4664011175362": 90,
+      "gas:candidate-vibid:4664011175537": 246,
+      "gas:candidate-vibid:4664011175296": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732913&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732913&type=464",
@@ -11411,14 +11411,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 529,
-      "Гаев Денис Владимирович": 54,
-      "Зайцев Сергей Михайлович": 24,
-      "Ривкин Феликс Моисеевич": 60,
-      "Сизов Денис Васильевич": 114,
-      "Скоморохова Римма Вениаминовна": 107,
-      "Черешнев Валерий Александрович": 173,
-      "Шабанов Владимир Геннадьевич": 56
+      "gas:candidate-vibid:4664011175274": 529,
+      "gas:candidate-vibid:4664011175458": 54,
+      "gas:candidate-vibid:4664011156129": 24,
+      "gas:candidate-vibid:4664011175435": 60,
+      "gas:candidate-vibid:4664011155903": 114,
+      "gas:candidate-vibid:4664011175362": 107,
+      "gas:candidate-vibid:4664011175537": 173,
+      "gas:candidate-vibid:4664011175296": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732913&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732913&type=464",
@@ -11469,14 +11469,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 323,
-      "Гаев Денис Владимирович": 38,
-      "Зайцев Сергей Михайлович": 20,
-      "Ривкин Феликс Моисеевич": 55,
-      "Сизов Денис Васильевич": 93,
-      "Скоморохова Римма Вениаминовна": 122,
-      "Черешнев Валерий Александрович": 209,
-      "Шабанов Владимир Геннадьевич": 40
+      "gas:candidate-vibid:4664011175274": 323,
+      "gas:candidate-vibid:4664011175458": 38,
+      "gas:candidate-vibid:4664011156129": 20,
+      "gas:candidate-vibid:4664011175435": 55,
+      "gas:candidate-vibid:4664011155903": 93,
+      "gas:candidate-vibid:4664011175362": 122,
+      "gas:candidate-vibid:4664011175537": 209,
+      "gas:candidate-vibid:4664011175296": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732913&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732913&type=464",
@@ -11527,14 +11527,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 268,
-      "Гаев Денис Владимирович": 33,
-      "Зайцев Сергей Михайлович": 24,
-      "Ривкин Феликс Моисеевич": 44,
-      "Сизов Денис Васильевич": 60,
-      "Скоморохова Римма Вениаминовна": 102,
-      "Черешнев Валерий Александрович": 167,
-      "Шабанов Владимир Геннадьевич": 37
+      "gas:candidate-vibid:4664011175274": 268,
+      "gas:candidate-vibid:4664011175458": 33,
+      "gas:candidate-vibid:4664011156129": 24,
+      "gas:candidate-vibid:4664011175435": 44,
+      "gas:candidate-vibid:4664011155903": 60,
+      "gas:candidate-vibid:4664011175362": 102,
+      "gas:candidate-vibid:4664011175537": 167,
+      "gas:candidate-vibid:4664011175296": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732913&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732913&type=464",
@@ -11585,14 +11585,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 129,
-      "Гаев Денис Владимирович": 18,
-      "Зайцев Сергей Михайлович": 16,
-      "Ривкин Феликс Моисеевич": 10,
-      "Сизов Денис Васильевич": 51,
-      "Скоморохова Римма Вениаминовна": 44,
-      "Черешнев Валерий Александрович": 76,
-      "Шабанов Владимир Геннадьевич": 18
+      "gas:candidate-vibid:4664011175274": 129,
+      "gas:candidate-vibid:4664011175458": 18,
+      "gas:candidate-vibid:4664011156129": 16,
+      "gas:candidate-vibid:4664011175435": 10,
+      "gas:candidate-vibid:4664011155903": 51,
+      "gas:candidate-vibid:4664011175362": 44,
+      "gas:candidate-vibid:4664011175537": 76,
+      "gas:candidate-vibid:4664011175296": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732913&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732913&type=464",
@@ -11643,14 +11643,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 233,
-      "Гаев Денис Владимирович": 24,
-      "Зайцев Сергей Михайлович": 17,
-      "Ривкин Феликс Моисеевич": 30,
-      "Сизов Денис Васильевич": 60,
-      "Скоморохова Римма Вениаминовна": 52,
-      "Черешнев Валерий Александрович": 139,
-      "Шабанов Владимир Геннадьевич": 27
+      "gas:candidate-vibid:4664011175274": 233,
+      "gas:candidate-vibid:4664011175458": 24,
+      "gas:candidate-vibid:4664011156129": 17,
+      "gas:candidate-vibid:4664011175435": 30,
+      "gas:candidate-vibid:4664011155903": 60,
+      "gas:candidate-vibid:4664011175362": 52,
+      "gas:candidate-vibid:4664011175537": 139,
+      "gas:candidate-vibid:4664011175296": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732913&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732913&type=464",
@@ -11701,14 +11701,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 295,
-      "Гаев Денис Владимирович": 33,
-      "Зайцев Сергей Михайлович": 28,
-      "Ривкин Феликс Моисеевич": 48,
-      "Сизов Денис Васильевич": 70,
-      "Скоморохова Римма Вениаминовна": 66,
-      "Черешнев Валерий Александрович": 116,
-      "Шабанов Владимир Геннадьевич": 44
+      "gas:candidate-vibid:4664011175274": 295,
+      "gas:candidate-vibid:4664011175458": 33,
+      "gas:candidate-vibid:4664011156129": 28,
+      "gas:candidate-vibid:4664011175435": 48,
+      "gas:candidate-vibid:4664011155903": 70,
+      "gas:candidate-vibid:4664011175362": 66,
+      "gas:candidate-vibid:4664011175537": 116,
+      "gas:candidate-vibid:4664011175296": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732913&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732913&type=464",
@@ -11759,14 +11759,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 418,
-      "Гаев Денис Владимирович": 58,
-      "Зайцев Сергей Михайлович": 20,
-      "Ривкин Феликс Моисеевич": 55,
-      "Сизов Денис Васильевич": 89,
-      "Скоморохова Римма Вениаминовна": 122,
-      "Черешнев Валерий Александрович": 162,
-      "Шабанов Владимир Геннадьевич": 58
+      "gas:candidate-vibid:4664011175274": 418,
+      "gas:candidate-vibid:4664011175458": 58,
+      "gas:candidate-vibid:4664011156129": 20,
+      "gas:candidate-vibid:4664011175435": 55,
+      "gas:candidate-vibid:4664011155903": 89,
+      "gas:candidate-vibid:4664011175362": 122,
+      "gas:candidate-vibid:4664011175537": 162,
+      "gas:candidate-vibid:4664011175296": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732913&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732913&type=464",
@@ -11817,14 +11817,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 294,
-      "Гаев Денис Владимирович": 45,
-      "Зайцев Сергей Михайлович": 30,
-      "Ривкин Феликс Моисеевич": 40,
-      "Сизов Денис Васильевич": 84,
-      "Скоморохова Римма Вениаминовна": 105,
-      "Черешнев Валерий Александрович": 182,
-      "Шабанов Владимир Геннадьевич": 54
+      "gas:candidate-vibid:4664011175274": 294,
+      "gas:candidate-vibid:4664011175458": 45,
+      "gas:candidate-vibid:4664011156129": 30,
+      "gas:candidate-vibid:4664011175435": 40,
+      "gas:candidate-vibid:4664011155903": 84,
+      "gas:candidate-vibid:4664011175362": 105,
+      "gas:candidate-vibid:4664011175537": 182,
+      "gas:candidate-vibid:4664011175296": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732913&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732913&type=464",
@@ -11875,14 +11875,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 404,
-      "Гаев Денис Владимирович": 56,
-      "Зайцев Сергей Михайлович": 16,
-      "Ривкин Феликс Моисеевич": 51,
-      "Сизов Денис Васильевич": 102,
-      "Скоморохова Римма Вениаминовна": 124,
-      "Черешнев Валерий Александрович": 193,
-      "Шабанов Владимир Геннадьевич": 46
+      "gas:candidate-vibid:4664011175274": 404,
+      "gas:candidate-vibid:4664011175458": 56,
+      "gas:candidate-vibid:4664011156129": 16,
+      "gas:candidate-vibid:4664011175435": 51,
+      "gas:candidate-vibid:4664011155903": 102,
+      "gas:candidate-vibid:4664011175362": 124,
+      "gas:candidate-vibid:4664011175537": 193,
+      "gas:candidate-vibid:4664011175296": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732913&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732913&type=464",
@@ -11933,14 +11933,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 354,
-      "Гаев Денис Владимирович": 47,
-      "Зайцев Сергей Михайлович": 33,
-      "Ривкин Феликс Моисеевич": 68,
-      "Сизов Денис Васильевич": 123,
-      "Скоморохова Римма Вениаминовна": 106,
-      "Черешнев Валерий Александрович": 240,
-      "Шабанов Владимир Геннадьевич": 63
+      "gas:candidate-vibid:4664011175274": 354,
+      "gas:candidate-vibid:4664011175458": 47,
+      "gas:candidate-vibid:4664011156129": 33,
+      "gas:candidate-vibid:4664011175435": 68,
+      "gas:candidate-vibid:4664011155903": 123,
+      "gas:candidate-vibid:4664011175362": 106,
+      "gas:candidate-vibid:4664011175537": 240,
+      "gas:candidate-vibid:4664011175296": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732913&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732913&type=464",
@@ -11991,14 +11991,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 247,
-      "Гаев Денис Владимирович": 27,
-      "Зайцев Сергей Михайлович": 37,
-      "Ривкин Феликс Моисеевич": 19,
-      "Сизов Денис Васильевич": 63,
-      "Скоморохова Римма Вениаминовна": 50,
-      "Черешнев Валерий Александрович": 139,
-      "Шабанов Владимир Геннадьевич": 31
+      "gas:candidate-vibid:4664011175274": 247,
+      "gas:candidate-vibid:4664011175458": 27,
+      "gas:candidate-vibid:4664011156129": 37,
+      "gas:candidate-vibid:4664011175435": 19,
+      "gas:candidate-vibid:4664011155903": 63,
+      "gas:candidate-vibid:4664011175362": 50,
+      "gas:candidate-vibid:4664011175537": 139,
+      "gas:candidate-vibid:4664011175296": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732913&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732913&type=464",
@@ -12049,14 +12049,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 272,
-      "Гаев Денис Владимирович": 32,
-      "Зайцев Сергей Михайлович": 25,
-      "Ривкин Феликс Моисеевич": 34,
-      "Сизов Денис Васильевич": 85,
-      "Скоморохова Римма Вениаминовна": 118,
-      "Черешнев Валерий Александрович": 197,
-      "Шабанов Владимир Геннадьевич": 29
+      "gas:candidate-vibid:4664011175274": 272,
+      "gas:candidate-vibid:4664011175458": 32,
+      "gas:candidate-vibid:4664011156129": 25,
+      "gas:candidate-vibid:4664011175435": 34,
+      "gas:candidate-vibid:4664011155903": 85,
+      "gas:candidate-vibid:4664011175362": 118,
+      "gas:candidate-vibid:4664011175537": 197,
+      "gas:candidate-vibid:4664011175296": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732913&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732913&type=464",
@@ -12107,14 +12107,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 418,
-      "Гаев Денис Владимирович": 44,
-      "Зайцев Сергей Михайлович": 24,
-      "Ривкин Феликс Моисеевич": 44,
-      "Сизов Денис Васильевич": 92,
-      "Скоморохова Римма Вениаминовна": 101,
-      "Черешнев Валерий Александрович": 171,
-      "Шабанов Владимир Геннадьевич": 36
+      "gas:candidate-vibid:4664011175274": 418,
+      "gas:candidate-vibid:4664011175458": 44,
+      "gas:candidate-vibid:4664011156129": 24,
+      "gas:candidate-vibid:4664011175435": 44,
+      "gas:candidate-vibid:4664011155903": 92,
+      "gas:candidate-vibid:4664011175362": 101,
+      "gas:candidate-vibid:4664011175537": 171,
+      "gas:candidate-vibid:4664011175296": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732913&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732913&type=464",
@@ -12165,14 +12165,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 366,
-      "Гаев Денис Владимирович": 38,
-      "Зайцев Сергей Михайлович": 25,
-      "Ривкин Феликс Моисеевич": 19,
-      "Сизов Денис Васильевич": 69,
-      "Скоморохова Римма Вениаминовна": 105,
-      "Черешнев Валерий Александрович": 170,
-      "Шабанов Владимир Геннадьевич": 48
+      "gas:candidate-vibid:4664011175274": 366,
+      "gas:candidate-vibid:4664011175458": 38,
+      "gas:candidate-vibid:4664011156129": 25,
+      "gas:candidate-vibid:4664011175435": 19,
+      "gas:candidate-vibid:4664011155903": 69,
+      "gas:candidate-vibid:4664011175362": 105,
+      "gas:candidate-vibid:4664011175537": 170,
+      "gas:candidate-vibid:4664011175296": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732913&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732913&type=464",
@@ -12223,14 +12223,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 324,
-      "Гаев Денис Владимирович": 44,
-      "Зайцев Сергей Михайлович": 30,
-      "Ривкин Феликс Моисеевич": 43,
-      "Сизов Денис Васильевич": 103,
-      "Скоморохова Римма Вениаминовна": 124,
-      "Черешнев Валерий Александрович": 185,
-      "Шабанов Владимир Геннадьевич": 66
+      "gas:candidate-vibid:4664011175274": 324,
+      "gas:candidate-vibid:4664011175458": 44,
+      "gas:candidate-vibid:4664011156129": 30,
+      "gas:candidate-vibid:4664011175435": 43,
+      "gas:candidate-vibid:4664011155903": 103,
+      "gas:candidate-vibid:4664011175362": 124,
+      "gas:candidate-vibid:4664011175537": 185,
+      "gas:candidate-vibid:4664011175296": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732913&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732913&type=464",
@@ -12281,14 +12281,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 270,
-      "Гаев Денис Владимирович": 25,
-      "Зайцев Сергей Михайлович": 18,
-      "Ривкин Феликс Моисеевич": 23,
-      "Сизов Денис Васильевич": 66,
-      "Скоморохова Римма Вениаминовна": 95,
-      "Черешнев Валерий Александрович": 154,
-      "Шабанов Владимир Геннадьевич": 34
+      "gas:candidate-vibid:4664011175274": 270,
+      "gas:candidate-vibid:4664011175458": 25,
+      "gas:candidate-vibid:4664011156129": 18,
+      "gas:candidate-vibid:4664011175435": 23,
+      "gas:candidate-vibid:4664011155903": 66,
+      "gas:candidate-vibid:4664011175362": 95,
+      "gas:candidate-vibid:4664011175537": 154,
+      "gas:candidate-vibid:4664011175296": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732913&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732913&type=464",
@@ -12339,14 +12339,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 362,
-      "Гаев Денис Владимирович": 28,
-      "Зайцев Сергей Михайлович": 27,
-      "Ривкин Феликс Моисеевич": 39,
-      "Сизов Денис Васильевич": 73,
-      "Скоморохова Римма Вениаминовна": 122,
-      "Черешнев Валерий Александрович": 159,
-      "Шабанов Владимир Геннадьевич": 46
+      "gas:candidate-vibid:4664011175274": 362,
+      "gas:candidate-vibid:4664011175458": 28,
+      "gas:candidate-vibid:4664011156129": 27,
+      "gas:candidate-vibid:4664011175435": 39,
+      "gas:candidate-vibid:4664011155903": 73,
+      "gas:candidate-vibid:4664011175362": 122,
+      "gas:candidate-vibid:4664011175537": 159,
+      "gas:candidate-vibid:4664011175296": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732913&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732913&type=464",
@@ -12397,14 +12397,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 316,
-      "Гаев Денис Владимирович": 33,
-      "Зайцев Сергей Михайлович": 28,
-      "Ривкин Феликс Моисеевич": 27,
-      "Сизов Денис Васильевич": 88,
-      "Скоморохова Римма Вениаминовна": 134,
-      "Черешнев Валерий Александрович": 187,
-      "Шабанов Владимир Геннадьевич": 39
+      "gas:candidate-vibid:4664011175274": 316,
+      "gas:candidate-vibid:4664011175458": 33,
+      "gas:candidate-vibid:4664011156129": 28,
+      "gas:candidate-vibid:4664011175435": 27,
+      "gas:candidate-vibid:4664011155903": 88,
+      "gas:candidate-vibid:4664011175362": 134,
+      "gas:candidate-vibid:4664011175537": 187,
+      "gas:candidate-vibid:4664011175296": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732913&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732913&type=464",
@@ -12455,14 +12455,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 309,
-      "Гаев Денис Владимирович": 34,
-      "Зайцев Сергей Михайлович": 27,
-      "Ривкин Феликс Моисеевич": 31,
-      "Сизов Денис Васильевич": 72,
-      "Скоморохова Римма Вениаминовна": 102,
-      "Черешнев Валерий Александрович": 193,
-      "Шабанов Владимир Геннадьевич": 30
+      "gas:candidate-vibid:4664011175274": 309,
+      "gas:candidate-vibid:4664011175458": 34,
+      "gas:candidate-vibid:4664011156129": 27,
+      "gas:candidate-vibid:4664011175435": 31,
+      "gas:candidate-vibid:4664011155903": 72,
+      "gas:candidate-vibid:4664011175362": 102,
+      "gas:candidate-vibid:4664011175537": 193,
+      "gas:candidate-vibid:4664011175296": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732913&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732913&type=464",
@@ -12513,14 +12513,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 325,
-      "Гаев Денис Владимирович": 44,
-      "Зайцев Сергей Михайлович": 31,
-      "Ривкин Феликс Моисеевич": 43,
-      "Сизов Денис Васильевич": 114,
-      "Скоморохова Римма Вениаминовна": 84,
-      "Черешнев Валерий Александрович": 103,
-      "Шабанов Владимир Геннадьевич": 48
+      "gas:candidate-vibid:4664011175274": 325,
+      "gas:candidate-vibid:4664011175458": 44,
+      "gas:candidate-vibid:4664011156129": 31,
+      "gas:candidate-vibid:4664011175435": 43,
+      "gas:candidate-vibid:4664011155903": 114,
+      "gas:candidate-vibid:4664011175362": 84,
+      "gas:candidate-vibid:4664011175537": 103,
+      "gas:candidate-vibid:4664011175296": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732913&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732913&type=464",
@@ -12571,14 +12571,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 79,
-      "Гаев Денис Владимирович": 2,
-      "Зайцев Сергей Михайлович": 6,
-      "Ривкин Феликс Моисеевич": 3,
-      "Сизов Денис Васильевич": 17,
-      "Скоморохова Римма Вениаминовна": 15,
-      "Черешнев Валерий Александрович": 14,
-      "Шабанов Владимир Геннадьевич": 16
+      "gas:candidate-vibid:4664011175274": 79,
+      "gas:candidate-vibid:4664011175458": 2,
+      "gas:candidate-vibid:4664011156129": 6,
+      "gas:candidate-vibid:4664011175435": 3,
+      "gas:candidate-vibid:4664011155903": 17,
+      "gas:candidate-vibid:4664011175362": 15,
+      "gas:candidate-vibid:4664011175537": 14,
+      "gas:candidate-vibid:4664011175296": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732913&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732913&type=464",
@@ -12629,14 +12629,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 178,
-      "Гаев Денис Владимирович": 47,
-      "Зайцев Сергей Михайлович": 12,
-      "Ривкин Феликс Моисеевич": 42,
-      "Сизов Денис Васильевич": 45,
-      "Скоморохова Римма Вениаминовна": 40,
-      "Черешнев Валерий Александрович": 49,
-      "Шабанов Владимир Геннадьевич": 40
+      "gas:candidate-vibid:4664011175274": 178,
+      "gas:candidate-vibid:4664011175458": 47,
+      "gas:candidate-vibid:4664011156129": 12,
+      "gas:candidate-vibid:4664011175435": 42,
+      "gas:candidate-vibid:4664011155903": 45,
+      "gas:candidate-vibid:4664011175362": 40,
+      "gas:candidate-vibid:4664011175537": 49,
+      "gas:candidate-vibid:4664011175296": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732913&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732913&type=464",
@@ -12687,14 +12687,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 111,
-      "Гаев Денис Владимирович": 8,
-      "Зайцев Сергей Михайлович": 9,
-      "Ривкин Феликс Моисеевич": 13,
-      "Сизов Денис Васильевич": 26,
-      "Скоморохова Римма Вениаминовна": 30,
-      "Черешнев Валерий Александрович": 26,
-      "Шабанов Владимир Геннадьевич": 12
+      "gas:candidate-vibid:4664011175274": 111,
+      "gas:candidate-vibid:4664011175458": 8,
+      "gas:candidate-vibid:4664011156129": 9,
+      "gas:candidate-vibid:4664011175435": 13,
+      "gas:candidate-vibid:4664011155903": 26,
+      "gas:candidate-vibid:4664011175362": 30,
+      "gas:candidate-vibid:4664011175537": 26,
+      "gas:candidate-vibid:4664011175296": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732913&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732913&type=464",
@@ -12745,14 +12745,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 22,
-      "Гаев Денис Владимирович": 7,
-      "Зайцев Сергей Михайлович": 2,
-      "Ривкин Феликс Моисеевич": 2,
-      "Сизов Денис Васильевич": 7,
-      "Скоморохова Римма Вениаминовна": 6,
-      "Черешнев Валерий Александрович": 13,
-      "Шабанов Владимир Геннадьевич": 0
+      "gas:candidate-vibid:4664011175274": 22,
+      "gas:candidate-vibid:4664011175458": 7,
+      "gas:candidate-vibid:4664011156129": 2,
+      "gas:candidate-vibid:4664011175435": 2,
+      "gas:candidate-vibid:4664011155903": 7,
+      "gas:candidate-vibid:4664011175362": 6,
+      "gas:candidate-vibid:4664011175537": 13,
+      "gas:candidate-vibid:4664011175296": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732913&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732913&type=464",
@@ -12803,14 +12803,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 17,
-      "Гаев Денис Владимирович": 0,
-      "Зайцев Сергей Михайлович": 3,
-      "Ривкин Феликс Моисеевич": 0,
-      "Сизов Денис Васильевич": 8,
-      "Скоморохова Римма Вениаминовна": 3,
-      "Черешнев Валерий Александрович": 9,
-      "Шабанов Владимир Геннадьевич": 3
+      "gas:candidate-vibid:4664011175274": 17,
+      "gas:candidate-vibid:4664011175458": 0,
+      "gas:candidate-vibid:4664011156129": 3,
+      "gas:candidate-vibid:4664011175435": 0,
+      "gas:candidate-vibid:4664011155903": 8,
+      "gas:candidate-vibid:4664011175362": 3,
+      "gas:candidate-vibid:4664011175537": 9,
+      "gas:candidate-vibid:4664011175296": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732913&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732913&type=464",
@@ -12861,14 +12861,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 74,
-      "Гаев Денис Владимирович": 7,
-      "Зайцев Сергей Михайлович": 3,
-      "Ривкин Феликс Моисеевич": 3,
-      "Сизов Денис Васильевич": 19,
-      "Скоморохова Римма Вениаминовна": 18,
-      "Черешнев Валерий Александрович": 28,
-      "Шабанов Владимир Геннадьевич": 3
+      "gas:candidate-vibid:4664011175274": 74,
+      "gas:candidate-vibid:4664011175458": 7,
+      "gas:candidate-vibid:4664011156129": 3,
+      "gas:candidate-vibid:4664011175435": 3,
+      "gas:candidate-vibid:4664011155903": 19,
+      "gas:candidate-vibid:4664011175362": 18,
+      "gas:candidate-vibid:4664011175537": 28,
+      "gas:candidate-vibid:4664011175296": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732913&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732913&type=464",
@@ -12919,14 +12919,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 434,
-      "Гаев Денис Владимирович": 62,
-      "Зайцев Сергей Михайлович": 41,
-      "Ривкин Феликс Моисеевич": 63,
-      "Сизов Денис Васильевич": 131,
-      "Скоморохова Римма Вениаминовна": 78,
-      "Черешнев Валерий Александрович": 169,
-      "Шабанов Владимир Геннадьевич": 52
+      "gas:candidate-vibid:4664011175274": 434,
+      "gas:candidate-vibid:4664011175458": 62,
+      "gas:candidate-vibid:4664011156129": 41,
+      "gas:candidate-vibid:4664011175435": 63,
+      "gas:candidate-vibid:4664011155903": 131,
+      "gas:candidate-vibid:4664011175362": 78,
+      "gas:candidate-vibid:4664011175537": 169,
+      "gas:candidate-vibid:4664011175296": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732913&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732913&type=464",
@@ -12977,14 +12977,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 304,
-      "Гаев Денис Владимирович": 43,
-      "Зайцев Сергей Михайлович": 24,
-      "Ривкин Феликс Моисеевич": 38,
-      "Сизов Денис Васильевич": 108,
-      "Скоморохова Римма Вениаминовна": 71,
-      "Черешнев Валерий Александрович": 150,
-      "Шабанов Владимир Геннадьевич": 46
+      "gas:candidate-vibid:4664011175274": 304,
+      "gas:candidate-vibid:4664011175458": 43,
+      "gas:candidate-vibid:4664011156129": 24,
+      "gas:candidate-vibid:4664011175435": 38,
+      "gas:candidate-vibid:4664011155903": 108,
+      "gas:candidate-vibid:4664011175362": 71,
+      "gas:candidate-vibid:4664011175537": 150,
+      "gas:candidate-vibid:4664011175296": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732913&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732913&type=464",
@@ -13035,14 +13035,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 15,
-      "Гаев Денис Владимирович": 0,
-      "Зайцев Сергей Михайлович": 1,
-      "Ривкин Феликс Моисеевич": 3,
-      "Сизов Денис Васильевич": 10,
-      "Скоморохова Римма Вениаминовна": 3,
-      "Черешнев Валерий Александрович": 10,
-      "Шабанов Владимир Геннадьевич": 0
+      "gas:candidate-vibid:4664011175274": 15,
+      "gas:candidate-vibid:4664011175458": 0,
+      "gas:candidate-vibid:4664011156129": 1,
+      "gas:candidate-vibid:4664011175435": 3,
+      "gas:candidate-vibid:4664011155903": 10,
+      "gas:candidate-vibid:4664011175362": 3,
+      "gas:candidate-vibid:4664011175537": 10,
+      "gas:candidate-vibid:4664011175296": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732913&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732913&type=464",
@@ -13093,14 +13093,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 30,
-      "Гаев Денис Владимирович": 5,
-      "Зайцев Сергей Михайлович": 3,
-      "Ривкин Феликс Моисеевич": 1,
-      "Сизов Денис Васильевич": 22,
-      "Скоморохова Римма Вениаминовна": 4,
-      "Черешнев Валерий Александрович": 4,
-      "Шабанов Владимир Геннадьевич": 2
+      "gas:candidate-vibid:4664011175274": 30,
+      "gas:candidate-vibid:4664011175458": 5,
+      "gas:candidate-vibid:4664011156129": 3,
+      "gas:candidate-vibid:4664011175435": 1,
+      "gas:candidate-vibid:4664011155903": 22,
+      "gas:candidate-vibid:4664011175362": 4,
+      "gas:candidate-vibid:4664011175537": 4,
+      "gas:candidate-vibid:4664011175296": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732913&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732913&type=464",
@@ -13151,14 +13151,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 33,
-      "Гаев Денис Владимирович": 4,
-      "Зайцев Сергей Михайлович": 4,
-      "Ривкин Феликс Моисеевич": 9,
-      "Сизов Денис Васильевич": 27,
-      "Скоморохова Римма Вениаминовна": 8,
-      "Черешнев Валерий Александрович": 7,
-      "Шабанов Владимир Геннадьевич": 5
+      "gas:candidate-vibid:4664011175274": 33,
+      "gas:candidate-vibid:4664011175458": 4,
+      "gas:candidate-vibid:4664011156129": 4,
+      "gas:candidate-vibid:4664011175435": 9,
+      "gas:candidate-vibid:4664011155903": 27,
+      "gas:candidate-vibid:4664011175362": 8,
+      "gas:candidate-vibid:4664011175537": 7,
+      "gas:candidate-vibid:4664011175296": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732913&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732913&type=464",
@@ -13209,14 +13209,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 203,
-      "Гаев Денис Владимирович": 29,
-      "Зайцев Сергей Михайлович": 16,
-      "Ривкин Феликс Моисеевич": 43,
-      "Сизов Денис Васильевич": 62,
-      "Скоморохова Римма Вениаминовна": 67,
-      "Черешнев Валерий Александрович": 69,
-      "Шабанов Владимир Геннадьевич": 36
+      "gas:candidate-vibid:4664011175274": 203,
+      "gas:candidate-vibid:4664011175458": 29,
+      "gas:candidate-vibid:4664011156129": 16,
+      "gas:candidate-vibid:4664011175435": 43,
+      "gas:candidate-vibid:4664011155903": 62,
+      "gas:candidate-vibid:4664011175362": 67,
+      "gas:candidate-vibid:4664011175537": 69,
+      "gas:candidate-vibid:4664011175296": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732913&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732913&type=464",
@@ -13267,14 +13267,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 335,
-      "Гаев Денис Владимирович": 44,
-      "Зайцев Сергей Михайлович": 25,
-      "Ривкин Феликс Моисеевич": 71,
-      "Сизов Денис Васильевич": 90,
-      "Скоморохова Римма Вениаминовна": 135,
-      "Черешнев Валерий Александрович": 179,
-      "Шабанов Владимир Геннадьевич": 41
+      "gas:candidate-vibid:4664011175274": 335,
+      "gas:candidate-vibid:4664011175458": 44,
+      "gas:candidate-vibid:4664011156129": 25,
+      "gas:candidate-vibid:4664011175435": 71,
+      "gas:candidate-vibid:4664011155903": 90,
+      "gas:candidate-vibid:4664011175362": 135,
+      "gas:candidate-vibid:4664011175537": 179,
+      "gas:candidate-vibid:4664011175296": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732913&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732913&type=464",
@@ -13325,14 +13325,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 264,
-      "Гаев Денис Владимирович": 24,
-      "Зайцев Сергей Михайлович": 32,
-      "Ривкин Феликс Моисеевич": 24,
-      "Сизов Денис Васильевич": 56,
-      "Скоморохова Римма Вениаминовна": 65,
-      "Черешнев Валерий Александрович": 125,
-      "Шабанов Владимир Геннадьевич": 47
+      "gas:candidate-vibid:4664011175274": 264,
+      "gas:candidate-vibid:4664011175458": 24,
+      "gas:candidate-vibid:4664011156129": 32,
+      "gas:candidate-vibid:4664011175435": 24,
+      "gas:candidate-vibid:4664011155903": 56,
+      "gas:candidate-vibid:4664011175362": 65,
+      "gas:candidate-vibid:4664011175537": 125,
+      "gas:candidate-vibid:4664011175296": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732913&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732913&type=464",
@@ -13383,14 +13383,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 460,
-      "Гаев Денис Владимирович": 80,
-      "Зайцев Сергей Михайлович": 35,
-      "Ривкин Феликс Моисеевич": 46,
-      "Сизов Денис Васильевич": 151,
-      "Скоморохова Римма Вениаминовна": 105,
-      "Черешнев Валерий Александрович": 184,
-      "Шабанов Владимир Геннадьевич": 54
+      "gas:candidate-vibid:4664011175274": 460,
+      "gas:candidate-vibid:4664011175458": 80,
+      "gas:candidate-vibid:4664011156129": 35,
+      "gas:candidate-vibid:4664011175435": 46,
+      "gas:candidate-vibid:4664011155903": 151,
+      "gas:candidate-vibid:4664011175362": 105,
+      "gas:candidate-vibid:4664011175537": 184,
+      "gas:candidate-vibid:4664011175296": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732913&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732913&type=464",
@@ -13441,14 +13441,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 485,
-      "Гаев Денис Владимирович": 72,
-      "Зайцев Сергей Михайлович": 31,
-      "Ривкин Феликс Моисеевич": 71,
-      "Сизов Денис Васильевич": 99,
-      "Скоморохова Римма Вениаминовна": 110,
-      "Черешнев Валерий Александрович": 169,
-      "Шабанов Владимир Геннадьевич": 57
+      "gas:candidate-vibid:4664011175274": 485,
+      "gas:candidate-vibid:4664011175458": 72,
+      "gas:candidate-vibid:4664011156129": 31,
+      "gas:candidate-vibid:4664011175435": 71,
+      "gas:candidate-vibid:4664011155903": 99,
+      "gas:candidate-vibid:4664011175362": 110,
+      "gas:candidate-vibid:4664011175537": 169,
+      "gas:candidate-vibid:4664011175296": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732913&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732913&type=464",
@@ -13499,14 +13499,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 230,
-      "Гаев Денис Владимирович": 47,
-      "Зайцев Сергей Михайлович": 39,
-      "Ривкин Феликс Моисеевич": 22,
-      "Сизов Денис Васильевич": 77,
-      "Скоморохова Римма Вениаминовна": 100,
-      "Черешнев Валерий Александрович": 153,
-      "Шабанов Владимир Геннадьевич": 27
+      "gas:candidate-vibid:4664011175274": 230,
+      "gas:candidate-vibid:4664011175458": 47,
+      "gas:candidate-vibid:4664011156129": 39,
+      "gas:candidate-vibid:4664011175435": 22,
+      "gas:candidate-vibid:4664011155903": 77,
+      "gas:candidate-vibid:4664011175362": 100,
+      "gas:candidate-vibid:4664011175537": 153,
+      "gas:candidate-vibid:4664011175296": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732914&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732914&type=464",
@@ -13557,14 +13557,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 275,
-      "Гаев Денис Владимирович": 32,
-      "Зайцев Сергей Михайлович": 44,
-      "Ривкин Феликс Моисеевич": 18,
-      "Сизов Денис Васильевич": 98,
-      "Скоморохова Римма Вениаминовна": 90,
-      "Черешнев Валерий Александрович": 192,
-      "Шабанов Владимир Геннадьевич": 32
+      "gas:candidate-vibid:4664011175274": 275,
+      "gas:candidate-vibid:4664011175458": 32,
+      "gas:candidate-vibid:4664011156129": 44,
+      "gas:candidate-vibid:4664011175435": 18,
+      "gas:candidate-vibid:4664011155903": 98,
+      "gas:candidate-vibid:4664011175362": 90,
+      "gas:candidate-vibid:4664011175537": 192,
+      "gas:candidate-vibid:4664011175296": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732914&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732914&type=464",
@@ -13615,14 +13615,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 241,
-      "Гаев Денис Владимирович": 32,
-      "Зайцев Сергей Михайлович": 31,
-      "Ривкин Феликс Моисеевич": 20,
-      "Сизов Денис Васильевич": 82,
-      "Скоморохова Римма Вениаминовна": 73,
-      "Черешнев Валерий Александрович": 181,
-      "Шабанов Владимир Геннадьевич": 30
+      "gas:candidate-vibid:4664011175274": 241,
+      "gas:candidate-vibid:4664011175458": 32,
+      "gas:candidate-vibid:4664011156129": 31,
+      "gas:candidate-vibid:4664011175435": 20,
+      "gas:candidate-vibid:4664011155903": 82,
+      "gas:candidate-vibid:4664011175362": 73,
+      "gas:candidate-vibid:4664011175537": 181,
+      "gas:candidate-vibid:4664011175296": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732914&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732914&type=464",
@@ -13673,14 +13673,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 281,
-      "Гаев Денис Владимирович": 26,
-      "Зайцев Сергей Михайлович": 47,
-      "Ривкин Феликс Моисеевич": 15,
-      "Сизов Денис Васильевич": 76,
-      "Скоморохова Римма Вениаминовна": 110,
-      "Черешнев Валерий Александрович": 217,
-      "Шабанов Владимир Геннадьевич": 28
+      "gas:candidate-vibid:4664011175274": 281,
+      "gas:candidate-vibid:4664011175458": 26,
+      "gas:candidate-vibid:4664011156129": 47,
+      "gas:candidate-vibid:4664011175435": 15,
+      "gas:candidate-vibid:4664011155903": 76,
+      "gas:candidate-vibid:4664011175362": 110,
+      "gas:candidate-vibid:4664011175537": 217,
+      "gas:candidate-vibid:4664011175296": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732914&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732914&type=464",
@@ -13731,14 +13731,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 335,
-      "Гаев Денис Владимирович": 34,
-      "Зайцев Сергей Михайлович": 36,
-      "Ривкин Феликс Моисеевич": 27,
-      "Сизов Денис Васильевич": 86,
-      "Скоморохова Римма Вениаминовна": 91,
-      "Черешнев Валерий Александрович": 259,
-      "Шабанов Владимир Геннадьевич": 35
+      "gas:candidate-vibid:4664011175274": 335,
+      "gas:candidate-vibid:4664011175458": 34,
+      "gas:candidate-vibid:4664011156129": 36,
+      "gas:candidate-vibid:4664011175435": 27,
+      "gas:candidate-vibid:4664011155903": 86,
+      "gas:candidate-vibid:4664011175362": 91,
+      "gas:candidate-vibid:4664011175537": 259,
+      "gas:candidate-vibid:4664011175296": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732914&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732914&type=464",
@@ -13789,14 +13789,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 156,
-      "Гаев Денис Владимирович": 19,
-      "Зайцев Сергей Михайлович": 23,
-      "Ривкин Феликс Моисеевич": 5,
-      "Сизов Денис Васильевич": 40,
-      "Скоморохова Римма Вениаминовна": 39,
-      "Черешнев Валерий Александрович": 102,
-      "Шабанов Владимир Геннадьевич": 8
+      "gas:candidate-vibid:4664011175274": 156,
+      "gas:candidate-vibid:4664011175458": 19,
+      "gas:candidate-vibid:4664011156129": 23,
+      "gas:candidate-vibid:4664011175435": 5,
+      "gas:candidate-vibid:4664011155903": 40,
+      "gas:candidate-vibid:4664011175362": 39,
+      "gas:candidate-vibid:4664011175537": 102,
+      "gas:candidate-vibid:4664011175296": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732914&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732914&type=464",
@@ -13847,14 +13847,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 361,
-      "Гаев Денис Владимирович": 46,
-      "Зайцев Сергей Михайлович": 47,
-      "Ривкин Феликс Моисеевич": 29,
-      "Сизов Денис Васильевич": 120,
-      "Скоморохова Римма Вениаминовна": 79,
-      "Черешнев Валерий Александрович": 246,
-      "Шабанов Владимир Геннадьевич": 45
+      "gas:candidate-vibid:4664011175274": 361,
+      "gas:candidate-vibid:4664011175458": 46,
+      "gas:candidate-vibid:4664011156129": 47,
+      "gas:candidate-vibid:4664011175435": 29,
+      "gas:candidate-vibid:4664011155903": 120,
+      "gas:candidate-vibid:4664011175362": 79,
+      "gas:candidate-vibid:4664011175537": 246,
+      "gas:candidate-vibid:4664011175296": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732914&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732914&type=464",
@@ -13905,14 +13905,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 269,
-      "Гаев Денис Владимирович": 29,
-      "Зайцев Сергей Михайлович": 37,
-      "Ривкин Феликс Моисеевич": 12,
-      "Сизов Денис Васильевич": 83,
-      "Скоморохова Римма Вениаминовна": 68,
-      "Черешнев Валерий Александрович": 153,
-      "Шабанов Владимир Геннадьевич": 24
+      "gas:candidate-vibid:4664011175274": 269,
+      "gas:candidate-vibid:4664011175458": 29,
+      "gas:candidate-vibid:4664011156129": 37,
+      "gas:candidate-vibid:4664011175435": 12,
+      "gas:candidate-vibid:4664011155903": 83,
+      "gas:candidate-vibid:4664011175362": 68,
+      "gas:candidate-vibid:4664011175537": 153,
+      "gas:candidate-vibid:4664011175296": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732914&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732914&type=464",
@@ -13963,14 +13963,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 298,
-      "Гаев Денис Владимирович": 33,
-      "Зайцев Сергей Михайлович": 31,
-      "Ривкин Феликс Моисеевич": 17,
-      "Сизов Денис Васильевич": 79,
-      "Скоморохова Римма Вениаминовна": 101,
-      "Черешнев Валерий Александрович": 167,
-      "Шабанов Владимир Геннадьевич": 28
+      "gas:candidate-vibid:4664011175274": 298,
+      "gas:candidate-vibid:4664011175458": 33,
+      "gas:candidate-vibid:4664011156129": 31,
+      "gas:candidate-vibid:4664011175435": 17,
+      "gas:candidate-vibid:4664011155903": 79,
+      "gas:candidate-vibid:4664011175362": 101,
+      "gas:candidate-vibid:4664011175537": 167,
+      "gas:candidate-vibid:4664011175296": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732914&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732914&type=464",
@@ -14021,14 +14021,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 582,
-      "Гаев Денис Владимирович": 39,
-      "Зайцев Сергей Михайлович": 34,
-      "Ривкин Феликс Моисеевич": 35,
-      "Сизов Денис Васильевич": 127,
-      "Скоморохова Римма Вениаминовна": 103,
-      "Черешнев Валерий Александрович": 190,
-      "Шабанов Владимир Геннадьевич": 33
+      "gas:candidate-vibid:4664011175274": 582,
+      "gas:candidate-vibid:4664011175458": 39,
+      "gas:candidate-vibid:4664011156129": 34,
+      "gas:candidate-vibid:4664011175435": 35,
+      "gas:candidate-vibid:4664011155903": 127,
+      "gas:candidate-vibid:4664011175362": 103,
+      "gas:candidate-vibid:4664011175537": 190,
+      "gas:candidate-vibid:4664011175296": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732915&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732915&type=464",
@@ -14079,14 +14079,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 526,
-      "Гаев Денис Владимирович": 30,
-      "Зайцев Сергей Михайлович": 36,
-      "Ривкин Феликс Моисеевич": 22,
-      "Сизов Денис Васильевич": 115,
-      "Скоморохова Римма Вениаминовна": 105,
-      "Черешнев Валерий Александрович": 184,
-      "Шабанов Владимир Геннадьевич": 30
+      "gas:candidate-vibid:4664011175274": 526,
+      "gas:candidate-vibid:4664011175458": 30,
+      "gas:candidate-vibid:4664011156129": 36,
+      "gas:candidate-vibid:4664011175435": 22,
+      "gas:candidate-vibid:4664011155903": 115,
+      "gas:candidate-vibid:4664011175362": 105,
+      "gas:candidate-vibid:4664011175537": 184,
+      "gas:candidate-vibid:4664011175296": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732915&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732915&type=464",
@@ -14137,14 +14137,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 228,
-      "Гаев Денис Владимирович": 28,
-      "Зайцев Сергей Михайлович": 33,
-      "Ривкин Феликс Моисеевич": 26,
-      "Сизов Денис Васильевич": 71,
-      "Скоморохова Римма Вениаминовна": 73,
-      "Черешнев Валерий Александрович": 73,
-      "Шабанов Владимир Геннадьевич": 32
+      "gas:candidate-vibid:4664011175274": 228,
+      "gas:candidate-vibid:4664011175458": 28,
+      "gas:candidate-vibid:4664011156129": 33,
+      "gas:candidate-vibid:4664011175435": 26,
+      "gas:candidate-vibid:4664011155903": 71,
+      "gas:candidate-vibid:4664011175362": 73,
+      "gas:candidate-vibid:4664011175537": 73,
+      "gas:candidate-vibid:4664011175296": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732915&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732915&type=464",
@@ -14195,14 +14195,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 330,
-      "Гаев Денис Владимирович": 21,
-      "Зайцев Сергей Михайлович": 39,
-      "Ривкин Феликс Моисеевич": 26,
-      "Сизов Денис Васильевич": 80,
-      "Скоморохова Римма Вениаминовна": 91,
-      "Черешнев Валерий Александрович": 149,
-      "Шабанов Владимир Геннадьевич": 37
+      "gas:candidate-vibid:4664011175274": 330,
+      "gas:candidate-vibid:4664011175458": 21,
+      "gas:candidate-vibid:4664011156129": 39,
+      "gas:candidate-vibid:4664011175435": 26,
+      "gas:candidate-vibid:4664011155903": 80,
+      "gas:candidate-vibid:4664011175362": 91,
+      "gas:candidate-vibid:4664011175537": 149,
+      "gas:candidate-vibid:4664011175296": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732915&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732915&type=464",
@@ -14253,14 +14253,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 273,
-      "Гаев Денис Владимирович": 23,
-      "Зайцев Сергей Михайлович": 29,
-      "Ривкин Феликс Моисеевич": 12,
-      "Сизов Денис Васильевич": 52,
-      "Скоморохова Римма Вениаминовна": 50,
-      "Черешнев Валерий Александрович": 164,
-      "Шабанов Владимир Геннадьевич": 29
+      "gas:candidate-vibid:4664011175274": 273,
+      "gas:candidate-vibid:4664011175458": 23,
+      "gas:candidate-vibid:4664011156129": 29,
+      "gas:candidate-vibid:4664011175435": 12,
+      "gas:candidate-vibid:4664011155903": 52,
+      "gas:candidate-vibid:4664011175362": 50,
+      "gas:candidate-vibid:4664011175537": 164,
+      "gas:candidate-vibid:4664011175296": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732915&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732915&type=464",
@@ -14311,14 +14311,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 458,
-      "Гаев Денис Владимирович": 40,
-      "Зайцев Сергей Михайлович": 42,
-      "Ривкин Феликс Моисеевич": 22,
-      "Сизов Денис Васильевич": 97,
-      "Скоморохова Римма Вениаминовна": 118,
-      "Черешнев Валерий Александрович": 225,
-      "Шабанов Владимир Геннадьевич": 59
+      "gas:candidate-vibid:4664011175274": 458,
+      "gas:candidate-vibid:4664011175458": 40,
+      "gas:candidate-vibid:4664011156129": 42,
+      "gas:candidate-vibid:4664011175435": 22,
+      "gas:candidate-vibid:4664011155903": 97,
+      "gas:candidate-vibid:4664011175362": 118,
+      "gas:candidate-vibid:4664011175537": 225,
+      "gas:candidate-vibid:4664011175296": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732915&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732915&type=464",
@@ -14369,14 +14369,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 438,
-      "Гаев Денис Владимирович": 34,
-      "Зайцев Сергей Михайлович": 39,
-      "Ривкин Феликс Моисеевич": 26,
-      "Сизов Денис Васильевич": 128,
-      "Скоморохова Римма Вениаминовна": 124,
-      "Черешнев Валерий Александрович": 208,
-      "Шабанов Владимир Геннадьевич": 40
+      "gas:candidate-vibid:4664011175274": 438,
+      "gas:candidate-vibid:4664011175458": 34,
+      "gas:candidate-vibid:4664011156129": 39,
+      "gas:candidate-vibid:4664011175435": 26,
+      "gas:candidate-vibid:4664011155903": 128,
+      "gas:candidate-vibid:4664011175362": 124,
+      "gas:candidate-vibid:4664011175537": 208,
+      "gas:candidate-vibid:4664011175296": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732915&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732915&type=464",
@@ -14427,14 +14427,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 382,
-      "Гаев Денис Владимирович": 51,
-      "Зайцев Сергей Михайлович": 21,
-      "Ривкин Феликс Моисеевич": 27,
-      "Сизов Денис Васильевич": 99,
-      "Скоморохова Римма Вениаминовна": 108,
-      "Черешнев Валерий Александрович": 158,
-      "Шабанов Владимир Геннадьевич": 44
+      "gas:candidate-vibid:4664011175274": 382,
+      "gas:candidate-vibid:4664011175458": 51,
+      "gas:candidate-vibid:4664011156129": 21,
+      "gas:candidate-vibid:4664011175435": 27,
+      "gas:candidate-vibid:4664011155903": 99,
+      "gas:candidate-vibid:4664011175362": 108,
+      "gas:candidate-vibid:4664011175537": 158,
+      "gas:candidate-vibid:4664011175296": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732915&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732915&type=464",
@@ -14485,14 +14485,14 @@ export const duma_2016_uik_463_region_66_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 180,
-      "Гаев Денис Владимирович": 12,
-      "Зайцев Сергей Михайлович": 19,
-      "Ривкин Феликс Моисеевич": 13,
-      "Сизов Денис Васильевич": 38,
-      "Скоморохова Римма Вениаминовна": 45,
-      "Черешнев Валерий Александрович": 90,
-      "Шабанов Владимир Геннадьевич": 17
+      "gas:candidate-vibid:4664011175274": 180,
+      "gas:candidate-vibid:4664011175458": 12,
+      "gas:candidate-vibid:4664011156129": 19,
+      "gas:candidate-vibid:4664011175435": 13,
+      "gas:candidate-vibid:4664011155903": 38,
+      "gas:candidate-vibid:4664011175362": 45,
+      "gas:candidate-vibid:4664011175537": 90,
+      "gas:candidate-vibid:4664011175296": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732915&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732915&type=464",

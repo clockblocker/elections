@@ -11,6 +11,9 @@ export const duma_2021_tic_233_region_53 = [
     "ballot": "party",
     "tikTvd": "2532000940820",
     "tikName": "Демянская",
+    "regionCode": "53",
+    "regionTvd": "100100225883612",
+    "regionName": "Новгородская область",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 10058,
@@ -80,6 +83,9 @@ export const duma_2021_tic_233_region_53 = [
     "ballot": "party",
     "tikTvd": "2532000940821",
     "tikName": "Маловишерская",
+    "regionCode": "53",
+    "regionTvd": "100100225883612",
+    "regionName": "Новгородская область",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 13253,
@@ -150,6 +156,9 @@ export const duma_2021_tic_233_region_53 = [
     "ballot": "party",
     "tikTvd": "2532000940822",
     "tikName": "Валдайская",
+    "regionCode": "53",
+    "regionTvd": "100100225883612",
+    "regionName": "Новгородская область",
     "uikCount": 27,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 19481,
@@ -227,6 +236,9 @@ export const duma_2021_tic_233_region_53 = [
     "ballot": "party",
     "tikTvd": "2532000940823",
     "tikName": "Пестовская",
+    "regionCode": "53",
+    "regionTvd": "100100225883612",
+    "regionName": "Новгородская область",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 15587,
@@ -302,6 +314,9 @@ export const duma_2021_tic_233_region_53 = [
     "ballot": "party",
     "tikTvd": "2532000940824",
     "tikName": "Новгородская",
+    "regionCode": "53",
+    "regionTvd": "100100225883612",
+    "regionName": "Новгородская область",
     "uikCount": 41,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 48183,
@@ -393,6 +408,9 @@ export const duma_2021_tic_233_region_53 = [
     "ballot": "party",
     "tikTvd": "2532000940825",
     "tikName": "Чудовская",
+    "regionCode": "53",
+    "regionTvd": "100100225883612",
+    "regionName": "Новгородская область",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 16977,
@@ -462,6 +480,9 @@ export const duma_2021_tic_233_region_53 = [
     "ballot": "party",
     "tikTvd": "2532000940826",
     "tikName": "Хвойнинская",
+    "regionCode": "53",
+    "regionTvd": "100100225883612",
+    "regionName": "Новгородская область",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 10643,
@@ -530,6 +551,9 @@ export const duma_2021_tic_233_region_53 = [
     "ballot": "party",
     "tikTvd": "2532000940827",
     "tikName": "Мошенская",
+    "regionCode": "53",
+    "regionTvd": "100100225883612",
+    "regionName": "Новгородская область",
     "uikCount": 15,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 4820,
@@ -595,6 +619,9 @@ export const duma_2021_tic_233_region_53 = [
     "ballot": "party",
     "tikTvd": "2532000940828",
     "tikName": "Солецкая",
+    "regionCode": "53",
+    "regionTvd": "100100225883612",
+    "regionName": "Новгородская область",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 10030,
@@ -664,6 +691,9 @@ export const duma_2021_tic_233_region_53 = [
     "ballot": "party",
     "tikTvd": "2532000940829",
     "tikName": "Старорусская",
+    "regionCode": "53",
+    "regionTvd": "100100225883612",
+    "regionName": "Новгородская область",
     "uikCount": 43,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 34070,
@@ -757,6 +787,9 @@ export const duma_2021_tic_233_region_53 = [
     "ballot": "party",
     "tikTvd": "2532000940830",
     "tikName": "Любытинская",
+    "regionCode": "53",
+    "regionTvd": "100100225883612",
+    "regionName": "Новгородская область",
     "uikCount": 16,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 6893,
@@ -823,6 +856,9 @@ export const duma_2021_tic_233_region_53 = [
     "ballot": "party",
     "tikTvd": "2532000940831",
     "tikName": "Волотовская",
+    "regionCode": "53",
+    "regionTvd": "100100225883612",
+    "regionName": "Новгородская область",
     "uikCount": 8,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 3376,
@@ -881,6 +917,9 @@ export const duma_2021_tic_233_region_53 = [
     "ballot": "party",
     "tikTvd": "2532000940832",
     "tikName": "Парфинская",
+    "regionCode": "53",
+    "regionTvd": "100100225883612",
+    "regionName": "Новгородская область",
     "uikCount": 15,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 9369,
@@ -946,6 +985,9 @@ export const duma_2021_tic_233_region_53 = [
     "ballot": "party",
     "tikTvd": "2532000940833",
     "tikName": "Поддорская",
+    "regionCode": "53",
+    "regionTvd": "100100225883612",
+    "regionName": "Новгородская область",
     "uikCount": 10,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 3035,
@@ -1006,6 +1048,9 @@ export const duma_2021_tic_233_region_53 = [
     "ballot": "party",
     "tikTvd": "2532000940834",
     "tikName": "Маревская",
+    "regionCode": "53",
+    "regionTvd": "100100225883612",
+    "regionName": "Новгородская область",
     "uikCount": 9,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 3177,
@@ -1065,6 +1110,9 @@ export const duma_2021_tic_233_region_53 = [
     "ballot": "party",
     "tikTvd": "2532000940835",
     "tikName": "Окуловская",
+    "regionCode": "53",
+    "regionTvd": "100100225883612",
+    "regionName": "Новгородская область",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 19522,
@@ -1143,6 +1191,9 @@ export const duma_2021_tic_233_region_53 = [
     "ballot": "party",
     "tikTvd": "2532000940836",
     "tikName": "Шимская",
+    "regionCode": "53",
+    "regionTvd": "100100225883612",
+    "regionName": "Новгородская область",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 8356,
@@ -1211,6 +1262,9 @@ export const duma_2021_tic_233_region_53 = [
     "ballot": "party",
     "tikTvd": "2532000940837",
     "tikName": "Батецкая",
+    "regionCode": "53",
+    "regionTvd": "100100225883612",
+    "regionName": "Новгородская область",
     "uikCount": 10,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 4428,
@@ -1271,6 +1325,9 @@ export const duma_2021_tic_233_region_53 = [
     "ballot": "party",
     "tikTvd": "2532000940838",
     "tikName": "Холмская",
+    "regionCode": "53",
+    "regionTvd": "100100225883612",
+    "regionName": "Новгородская область",
     "uikCount": 13,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 4217,
@@ -1334,6 +1391,9 @@ export const duma_2021_tic_233_region_53 = [
     "ballot": "party",
     "tikTvd": "2532000940839",
     "tikName": "Боровичcкая",
+    "regionCode": "53",
+    "regionTvd": "100100225883612",
+    "regionName": "Новгородская область",
     "uikCount": 55,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 52788,
@@ -1439,6 +1499,9 @@ export const duma_2021_tic_233_region_53 = [
     "ballot": "party",
     "tikTvd": "2532000940840",
     "tikName": "Новгородcкая городская",
+    "regionCode": "53",
+    "regionTvd": "100100225883612",
+    "regionName": "Новгородская область",
     "uikCount": 94,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 174614,
@@ -1583,6 +1646,9 @@ export const duma_2021_tic_233_region_53 = [
     "ballot": "party",
     "tikTvd": "2532000940841",
     "tikName": "Крестецкая",
+    "regionCode": "53",
+    "regionTvd": "100100225883612",
+    "regionName": "Новгородская область",
     "uikCount": 14,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 10071,

@@ -63,8 +63,12 @@ type UikProtocolBase = Readonly<{
   level: "uik";
   uikNumber: number;
   uikTvd: string;
+  uikName: string;
   tikTvd: string;
   tikName: string;
+  regionCode: string;
+  regionTvd: string;
+  regionName: string;
   accounting: VoteMap;
   votes: VoteMap;
   source: ProtocolSource;
@@ -88,6 +92,9 @@ type TicProtocolBase = Readonly<{
   level: "tic";
   tikTvd: string;
   tikName: string;
+  regionCode: string;
+  regionTvd: string;
+  regionName: string;
   uikCount: number;
   accounting: VoteMap;
   votes: VoteMap;

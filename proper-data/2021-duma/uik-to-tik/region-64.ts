@@ -8,10884 +8,29024 @@ export const duma_2021_uik_to_tik_region_64 = [
     "uikNumber": 1,
     "uikTvd": "4644033346286",
     "tikTvd": "26420001727949",
-    "tikName": "Саратов, Волжская"
+    "tikName": "Саратов, Волжская",
+    "uikName": "УИК №1",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 4,
     "uikTvd": "4644033346287",
     "tikTvd": "26420001727949",
-    "tikName": "Саратов, Волжская"
+    "tikName": "Саратов, Волжская",
+    "uikName": "УИК №4",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 5,
     "uikTvd": "4644033346288",
     "tikTvd": "26420001727949",
-    "tikName": "Саратов, Волжская"
+    "tikName": "Саратов, Волжская",
+    "uikName": "УИК №5",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 6,
     "uikTvd": "4644033346289",
     "tikTvd": "26420001727949",
-    "tikName": "Саратов, Волжская"
+    "tikName": "Саратов, Волжская",
+    "uikName": "УИК №6",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 7,
     "uikTvd": "4644033346290",
     "tikTvd": "26420001727949",
-    "tikName": "Саратов, Волжская"
+    "tikName": "Саратов, Волжская",
+    "uikName": "УИК №7",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 8,
     "uikTvd": "4644033346291",
     "tikTvd": "26420001727949",
-    "tikName": "Саратов, Волжская"
+    "tikName": "Саратов, Волжская",
+    "uikName": "УИК №8",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 9,
     "uikTvd": "4644033346292",
     "tikTvd": "26420001727949",
-    "tikName": "Саратов, Волжская"
+    "tikName": "Саратов, Волжская",
+    "uikName": "УИК №9",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 10,
     "uikTvd": "4644033346293",
     "tikTvd": "26420001727949",
-    "tikName": "Саратов, Волжская"
+    "tikName": "Саратов, Волжская",
+    "uikName": "УИК №10",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 11,
     "uikTvd": "4644033346294",
     "tikTvd": "26420001727949",
-    "tikName": "Саратов, Волжская"
+    "tikName": "Саратов, Волжская",
+    "uikName": "УИК №11",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 12,
     "uikTvd": "4644033346295",
     "tikTvd": "26420001727949",
-    "tikName": "Саратов, Волжская"
+    "tikName": "Саратов, Волжская",
+    "uikName": "УИК №12",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 13,
     "uikTvd": "4644033346296",
     "tikTvd": "26420001727949",
-    "tikName": "Саратов, Волжская"
+    "tikName": "Саратов, Волжская",
+    "uikName": "УИК №13",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 14,
     "uikTvd": "4644033346297",
     "tikTvd": "26420001727949",
-    "tikName": "Саратов, Волжская"
+    "tikName": "Саратов, Волжская",
+    "uikName": "УИК №14",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 15,
     "uikTvd": "4644033346298",
     "tikTvd": "26420001727949",
-    "tikName": "Саратов, Волжская"
+    "tikName": "Саратов, Волжская",
+    "uikName": "УИК №15",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 16,
     "uikTvd": "4644033346299",
     "tikTvd": "26420001727949",
-    "tikName": "Саратов, Волжская"
+    "tikName": "Саратов, Волжская",
+    "uikName": "УИК №16",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 17,
     "uikTvd": "4644033346300",
     "tikTvd": "26420001727949",
-    "tikName": "Саратов, Волжская"
+    "tikName": "Саратов, Волжская",
+    "uikName": "УИК №17",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 18,
     "uikTvd": "4644033346301",
     "tikTvd": "26420001727949",
-    "tikName": "Саратов, Волжская"
+    "tikName": "Саратов, Волжская",
+    "uikName": "УИК №18",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 19,
     "uikTvd": "4644033346302",
     "tikTvd": "26420001727949",
-    "tikName": "Саратов, Волжская"
+    "tikName": "Саратов, Волжская",
+    "uikName": "УИК №19",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 20,
     "uikTvd": "4644033346303",
     "tikTvd": "26420001727949",
-    "tikName": "Саратов, Волжская"
+    "tikName": "Саратов, Волжская",
+    "uikName": "УИК №20",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 21,
     "uikTvd": "4644033346304",
     "tikTvd": "26420001727949",
-    "tikName": "Саратов, Волжская"
+    "tikName": "Саратов, Волжская",
+    "uikName": "УИК №21",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 22,
     "uikTvd": "4644033346305",
     "tikTvd": "26420001727949",
-    "tikName": "Саратов, Волжская"
+    "tikName": "Саратов, Волжская",
+    "uikName": "УИК №22",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 23,
     "uikTvd": "4644033346306",
     "tikTvd": "26420001727949",
-    "tikName": "Саратов, Волжская"
+    "tikName": "Саратов, Волжская",
+    "uikName": "УИК №23",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 24,
     "uikTvd": "4644033346307",
     "tikTvd": "26420001727949",
-    "tikName": "Саратов, Волжская"
+    "tikName": "Саратов, Волжская",
+    "uikName": "УИК №24",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 25,
     "uikTvd": "4644033346308",
     "tikTvd": "26420001727949",
-    "tikName": "Саратов, Волжская"
+    "tikName": "Саратов, Волжская",
+    "uikName": "УИК №25",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 26,
     "uikTvd": "4644033346309",
     "tikTvd": "26420001727949",
-    "tikName": "Саратов, Волжская"
+    "tikName": "Саратов, Волжская",
+    "uikName": "УИК №26",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 27,
     "uikTvd": "4644033346310",
     "tikTvd": "26420001727949",
-    "tikName": "Саратов, Волжская"
+    "tikName": "Саратов, Волжская",
+    "uikName": "УИК №27",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 28,
     "uikTvd": "4644033346311",
     "tikTvd": "26420001727949",
-    "tikName": "Саратов, Волжская"
+    "tikName": "Саратов, Волжская",
+    "uikName": "УИК №28",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 29,
     "uikTvd": "4644033346312",
     "tikTvd": "26420001727949",
-    "tikName": "Саратов, Волжская"
+    "tikName": "Саратов, Волжская",
+    "uikName": "УИК №29",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 30,
     "uikTvd": "4644033346313",
     "tikTvd": "26420001727949",
-    "tikName": "Саратов, Волжская"
+    "tikName": "Саратов, Волжская",
+    "uikName": "УИК №30",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 31,
     "uikTvd": "4644033350168",
     "tikTvd": "26420001727949",
-    "tikName": "Саратов, Волжская"
+    "tikName": "Саратов, Волжская",
+    "uikName": "УИК №31",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 32,
     "uikTvd": "4644033346315",
     "tikTvd": "26420001727949",
-    "tikName": "Саратов, Волжская"
+    "tikName": "Саратов, Волжская",
+    "uikName": "УИК №32",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 33,
     "uikTvd": "4644033346316",
     "tikTvd": "26420001727949",
-    "tikName": "Саратов, Волжская"
+    "tikName": "Саратов, Волжская",
+    "uikName": "УИК №33",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 34,
     "uikTvd": "4644033346317",
     "tikTvd": "26420001727949",
-    "tikName": "Саратов, Волжская"
+    "tikName": "Саратов, Волжская",
+    "uikName": "УИК №34",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 35,
     "uikTvd": "4644033346318",
     "tikTvd": "26420001727949",
-    "tikName": "Саратов, Волжская"
+    "tikName": "Саратов, Волжская",
+    "uikName": "УИК №35",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 36,
     "uikTvd": "4644033346319",
     "tikTvd": "26420001727949",
-    "tikName": "Саратов, Волжская"
+    "tikName": "Саратов, Волжская",
+    "uikName": "УИК №36",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 37,
     "uikTvd": "4644033346320",
     "tikTvd": "26420001727949",
-    "tikName": "Саратов, Волжская"
+    "tikName": "Саратов, Волжская",
+    "uikName": "УИК №37",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 38,
     "uikTvd": "4644033346321",
     "tikTvd": "26420001727949",
-    "tikName": "Саратов, Волжская"
+    "tikName": "Саратов, Волжская",
+    "uikName": "УИК №38",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 39,
     "uikTvd": "4644033346322",
     "tikTvd": "26420001727949",
-    "tikName": "Саратов, Волжская"
+    "tikName": "Саратов, Волжская",
+    "uikName": "УИК №39",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 40,
     "uikTvd": "4644033346323",
     "tikTvd": "26420001727949",
-    "tikName": "Саратов, Волжская"
+    "tikName": "Саратов, Волжская",
+    "uikName": "УИК №40",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 41,
     "uikTvd": "4644033346324",
     "tikTvd": "26420001727949",
-    "tikName": "Саратов, Волжская"
+    "tikName": "Саратов, Волжская",
+    "uikName": "УИК №41",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 42,
     "uikTvd": "4644033346325",
     "tikTvd": "26420001727949",
-    "tikName": "Саратов, Волжская"
+    "tikName": "Саратов, Волжская",
+    "uikName": "УИК №42",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 43,
     "uikTvd": "4644033350169",
     "tikTvd": "26420001727949",
-    "tikName": "Саратов, Волжская"
+    "tikName": "Саратов, Волжская",
+    "uikName": "УИК №43",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 44,
     "uikTvd": "4644033350170",
     "tikTvd": "26420001727949",
-    "tikName": "Саратов, Волжская"
+    "tikName": "Саратов, Волжская",
+    "uikName": "УИК №44",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 45,
     "uikTvd": "4644034493308",
     "tikTvd": "26420001727963",
-    "tikName": "Саратов, Заводская"
+    "tikName": "Саратов, Заводская",
+    "uikName": "УИК №45",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 46,
     "uikTvd": "4644034493310",
     "tikTvd": "26420001727963",
-    "tikName": "Саратов, Заводская"
+    "tikName": "Саратов, Заводская",
+    "uikName": "УИК №46",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 47,
     "uikTvd": "4644034493312",
     "tikTvd": "26420001727963",
-    "tikName": "Саратов, Заводская"
+    "tikName": "Саратов, Заводская",
+    "uikName": "УИК №47",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 48,
     "uikTvd": "4644034493315",
     "tikTvd": "26420001727963",
-    "tikName": "Саратов, Заводская"
+    "tikName": "Саратов, Заводская",
+    "uikName": "УИК №48",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 49,
     "uikTvd": "4644034502428",
     "tikTvd": "26420001727963",
-    "tikName": "Саратов, Заводская"
+    "tikName": "Саратов, Заводская",
+    "uikName": "УИК №49",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 50,
     "uikTvd": "4644034493317",
     "tikTvd": "26420001727963",
-    "tikName": "Саратов, Заводская"
+    "tikName": "Саратов, Заводская",
+    "uikName": "УИК №50",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 51,
     "uikTvd": "4644034493319",
     "tikTvd": "26420001727963",
-    "tikName": "Саратов, Заводская"
+    "tikName": "Саратов, Заводская",
+    "uikName": "УИК №51",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 52,
     "uikTvd": "4644034493322",
     "tikTvd": "26420001727963",
-    "tikName": "Саратов, Заводская"
+    "tikName": "Саратов, Заводская",
+    "uikName": "УИК №52",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 53,
     "uikTvd": "4644034494239",
     "tikTvd": "26420001727963",
-    "tikName": "Саратов, Заводская"
+    "tikName": "Саратов, Заводская",
+    "uikName": "УИК №53",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 54,
     "uikTvd": "4644034494241",
     "tikTvd": "26420001727963",
-    "tikName": "Саратов, Заводская"
+    "tikName": "Саратов, Заводская",
+    "uikName": "УИК №54",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 55,
     "uikTvd": "4644034502430",
     "tikTvd": "26420001727963",
-    "tikName": "Саратов, Заводская"
+    "tikName": "Саратов, Заводская",
+    "uikName": "УИК №55",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 56,
     "uikTvd": "4644034494243",
     "tikTvd": "26420001727963",
-    "tikName": "Саратов, Заводская"
+    "tikName": "Саратов, Заводская",
+    "uikName": "УИК №56",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 57,
     "uikTvd": "4644034494245",
     "tikTvd": "26420001727963",
-    "tikName": "Саратов, Заводская"
+    "tikName": "Саратов, Заводская",
+    "uikName": "УИК №57",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 58,
     "uikTvd": "4644034494247",
     "tikTvd": "26420001727963",
-    "tikName": "Саратов, Заводская"
+    "tikName": "Саратов, Заводская",
+    "uikName": "УИК №58",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 59,
     "uikTvd": "4644034494249",
     "tikTvd": "26420001727963",
-    "tikName": "Саратов, Заводская"
+    "tikName": "Саратов, Заводская",
+    "uikName": "УИК №59",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 60,
     "uikTvd": "4644034494251",
     "tikTvd": "26420001727963",
-    "tikName": "Саратов, Заводская"
+    "tikName": "Саратов, Заводская",
+    "uikName": "УИК №60",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 61,
     "uikTvd": "4644034502432",
     "tikTvd": "26420001727963",
-    "tikName": "Саратов, Заводская"
+    "tikName": "Саратов, Заводская",
+    "uikName": "УИК №61",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 62,
     "uikTvd": "4644034494253",
     "tikTvd": "26420001727963",
-    "tikName": "Саратов, Заводская"
+    "tikName": "Саратов, Заводская",
+    "uikName": "УИК №62",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 63,
     "uikTvd": "4644034494255",
     "tikTvd": "26420001727963",
-    "tikName": "Саратов, Заводская"
+    "tikName": "Саратов, Заводская",
+    "uikName": "УИК №63",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 64,
     "uikTvd": "4644034494257",
     "tikTvd": "26420001727963",
-    "tikName": "Саратов, Заводская"
+    "tikName": "Саратов, Заводская",
+    "uikName": "УИК №64",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 65,
     "uikTvd": "4644034494259",
     "tikTvd": "26420001727963",
-    "tikName": "Саратов, Заводская"
+    "tikName": "Саратов, Заводская",
+    "uikName": "УИК №65",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 66,
     "uikTvd": "4644034494261",
     "tikTvd": "26420001727963",
-    "tikName": "Саратов, Заводская"
+    "tikName": "Саратов, Заводская",
+    "uikName": "УИК №66",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 67,
     "uikTvd": "4644034494263",
     "tikTvd": "26420001727963",
-    "tikName": "Саратов, Заводская"
+    "tikName": "Саратов, Заводская",
+    "uikName": "УИК №67",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 68,
     "uikTvd": "4644034494265",
     "tikTvd": "26420001727963",
-    "tikName": "Саратов, Заводская"
+    "tikName": "Саратов, Заводская",
+    "uikName": "УИК №68",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 69,
     "uikTvd": "4644034494267",
     "tikTvd": "26420001727963",
-    "tikName": "Саратов, Заводская"
+    "tikName": "Саратов, Заводская",
+    "uikName": "УИК №69",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 70,
     "uikTvd": "4644034494269",
     "tikTvd": "26420001727963",
-    "tikName": "Саратов, Заводская"
+    "tikName": "Саратов, Заводская",
+    "uikName": "УИК №70",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 71,
     "uikTvd": "4644034494271",
     "tikTvd": "26420001727963",
-    "tikName": "Саратов, Заводская"
+    "tikName": "Саратов, Заводская",
+    "uikName": "УИК №71",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 72,
     "uikTvd": "4644034494273",
     "tikTvd": "26420001727963",
-    "tikName": "Саратов, Заводская"
+    "tikName": "Саратов, Заводская",
+    "uikName": "УИК №72",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 73,
     "uikTvd": "4644034494275",
     "tikTvd": "26420001727963",
-    "tikName": "Саратов, Заводская"
+    "tikName": "Саратов, Заводская",
+    "uikName": "УИК №73",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 74,
     "uikTvd": "4644034494277",
     "tikTvd": "26420001727963",
-    "tikName": "Саратов, Заводская"
+    "tikName": "Саратов, Заводская",
+    "uikName": "УИК №74",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 75,
     "uikTvd": "4644034494279",
     "tikTvd": "26420001727963",
-    "tikName": "Саратов, Заводская"
+    "tikName": "Саратов, Заводская",
+    "uikName": "УИК №75",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 76,
     "uikTvd": "4644034494281",
     "tikTvd": "26420001727963",
-    "tikName": "Саратов, Заводская"
+    "tikName": "Саратов, Заводская",
+    "uikName": "УИК №76",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 77,
     "uikTvd": "4644034494283",
     "tikTvd": "26420001727963",
-    "tikName": "Саратов, Заводская"
+    "tikName": "Саратов, Заводская",
+    "uikName": "УИК №77",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 78,
     "uikTvd": "4644034494285",
     "tikTvd": "26420001727963",
-    "tikName": "Саратов, Заводская"
+    "tikName": "Саратов, Заводская",
+    "uikName": "УИК №78",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 79,
     "uikTvd": "4644034494287",
     "tikTvd": "26420001727963",
-    "tikName": "Саратов, Заводская"
+    "tikName": "Саратов, Заводская",
+    "uikName": "УИК №79",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 80,
     "uikTvd": "4644034494289",
     "tikTvd": "26420001727963",
-    "tikName": "Саратов, Заводская"
+    "tikName": "Саратов, Заводская",
+    "uikName": "УИК №80",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 81,
     "uikTvd": "4644034494291",
     "tikTvd": "26420001727963",
-    "tikName": "Саратов, Заводская"
+    "tikName": "Саратов, Заводская",
+    "uikName": "УИК №81",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 82,
     "uikTvd": "4644034494293",
     "tikTvd": "26420001727963",
-    "tikName": "Саратов, Заводская"
+    "tikName": "Саратов, Заводская",
+    "uikName": "УИК №82",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 83,
     "uikTvd": "4644034494295",
     "tikTvd": "26420001727963",
-    "tikName": "Саратов, Заводская"
+    "tikName": "Саратов, Заводская",
+    "uikName": "УИК №83",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 84,
     "uikTvd": "4644034494297",
     "tikTvd": "26420001727963",
-    "tikName": "Саратов, Заводская"
+    "tikName": "Саратов, Заводская",
+    "uikName": "УИК №84",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 85,
     "uikTvd": "4644034494299",
     "tikTvd": "26420001727963",
-    "tikName": "Саратов, Заводская"
+    "tikName": "Саратов, Заводская",
+    "uikName": "УИК №85",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 86,
     "uikTvd": "4644034494301",
     "tikTvd": "26420001727963",
-    "tikName": "Саратов, Заводская"
+    "tikName": "Саратов, Заводская",
+    "uikName": "УИК №86",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 87,
     "uikTvd": "4644034494303",
     "tikTvd": "26420001727963",
-    "tikName": "Саратов, Заводская"
+    "tikName": "Саратов, Заводская",
+    "uikName": "УИК №87",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 88,
     "uikTvd": "4644034494305",
     "tikTvd": "26420001727963",
-    "tikName": "Саратов, Заводская"
+    "tikName": "Саратов, Заводская",
+    "uikName": "УИК №88",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 89,
     "uikTvd": "4644034494307",
     "tikTvd": "26420001727963",
-    "tikName": "Саратов, Заводская"
+    "tikName": "Саратов, Заводская",
+    "uikName": "УИК №89",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 90,
     "uikTvd": "4644034494309",
     "tikTvd": "26420001727963",
-    "tikName": "Саратов, Заводская"
+    "tikName": "Саратов, Заводская",
+    "uikName": "УИК №90",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 91,
     "uikTvd": "4644034494311",
     "tikTvd": "26420001727963",
-    "tikName": "Саратов, Заводская"
+    "tikName": "Саратов, Заводская",
+    "uikName": "УИК №91",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 92,
     "uikTvd": "4644034502434",
     "tikTvd": "26420001727963",
-    "tikName": "Саратов, Заводская"
+    "tikName": "Саратов, Заводская",
+    "uikName": "УИК №92",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 93,
     "uikTvd": "4644034502436",
     "tikTvd": "26420001727963",
-    "tikName": "Саратов, Заводская"
+    "tikName": "Саратов, Заводская",
+    "uikName": "УИК №93",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 94,
     "uikTvd": "4644034494314",
     "tikTvd": "26420001727963",
-    "tikName": "Саратов, Заводская"
+    "tikName": "Саратов, Заводская",
+    "uikName": "УИК №94",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 95,
     "uikTvd": "4644034494316",
     "tikTvd": "26420001727963",
-    "tikName": "Саратов, Заводская"
+    "tikName": "Саратов, Заводская",
+    "uikName": "УИК №95",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 96,
     "uikTvd": "4644034494318",
     "tikTvd": "26420001727963",
-    "tikName": "Саратов, Заводская"
+    "tikName": "Саратов, Заводская",
+    "uikName": "УИК №96",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 97,
     "uikTvd": "4644034494320",
     "tikTvd": "26420001727963",
-    "tikName": "Саратов, Заводская"
+    "tikName": "Саратов, Заводская",
+    "uikName": "УИК №97",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 98,
     "uikTvd": "4644034494322",
     "tikTvd": "26420001727963",
-    "tikName": "Саратов, Заводская"
+    "tikName": "Саратов, Заводская",
+    "uikName": "УИК №98",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 99,
     "uikTvd": "4644034494324",
     "tikTvd": "26420001727963",
-    "tikName": "Саратов, Заводская"
+    "tikName": "Саратов, Заводская",
+    "uikName": "УИК №99",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 100,
     "uikTvd": "4644034494326",
     "tikTvd": "26420001727963",
-    "tikName": "Саратов, Заводская"
+    "tikName": "Саратов, Заводская",
+    "uikName": "УИК №100",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 101,
     "uikTvd": "4644034502441",
     "tikTvd": "26420001727963",
-    "tikName": "Саратов, Заводская"
+    "tikName": "Саратов, Заводская",
+    "uikName": "УИК №101",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 102,
     "uikTvd": "4644034494328",
     "tikTvd": "26420001727963",
-    "tikName": "Саратов, Заводская"
+    "tikName": "Саратов, Заводская",
+    "uikName": "УИК №102",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 103,
     "uikTvd": "4644034494330",
     "tikTvd": "26420001727963",
-    "tikName": "Саратов, Заводская"
+    "tikName": "Саратов, Заводская",
+    "uikName": "УИК №103",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 104,
     "uikTvd": "4644034494332",
     "tikTvd": "26420001727963",
-    "tikName": "Саратов, Заводская"
+    "tikName": "Саратов, Заводская",
+    "uikName": "УИК №104",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 105,
     "uikTvd": "4644034494334",
     "tikTvd": "26420001727963",
-    "tikName": "Саратов, Заводская"
+    "tikName": "Саратов, Заводская",
+    "uikName": "УИК №105",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 106,
     "uikTvd": "4644034494336",
     "tikTvd": "26420001727963",
-    "tikName": "Саратов, Заводская"
+    "tikName": "Саратов, Заводская",
+    "uikName": "УИК №106",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 107,
     "uikTvd": "4644034494338",
     "tikTvd": "26420001727963",
-    "tikName": "Саратов, Заводская"
+    "tikName": "Саратов, Заводская",
+    "uikName": "УИК №107",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 108,
     "uikTvd": "4644034494340",
     "tikTvd": "26420001727963",
-    "tikName": "Саратов, Заводская"
+    "tikName": "Саратов, Заводская",
+    "uikName": "УИК №108",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 109,
     "uikTvd": "4644034494342",
     "tikTvd": "26420001727963",
-    "tikName": "Саратов, Заводская"
+    "tikName": "Саратов, Заводская",
+    "uikName": "УИК №109",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 110,
     "uikTvd": "4644034494344",
     "tikTvd": "26420001727963",
-    "tikName": "Саратов, Заводская"
+    "tikName": "Саратов, Заводская",
+    "uikName": "УИК №110",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 111,
     "uikTvd": "4644034494346",
     "tikTvd": "26420001727963",
-    "tikName": "Саратов, Заводская"
+    "tikName": "Саратов, Заводская",
+    "uikName": "УИК №111",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 112,
     "uikTvd": "4644034494348",
     "tikTvd": "26420001727963",
-    "tikName": "Саратов, Заводская"
+    "tikName": "Саратов, Заводская",
+    "uikName": "УИК №112",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 113,
     "uikTvd": "4644034494350",
     "tikTvd": "26420001727963",
-    "tikName": "Саратов, Заводская"
+    "tikName": "Саратов, Заводская",
+    "uikName": "УИК №113",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 114,
     "uikTvd": "4644034494352",
     "tikTvd": "26420001727963",
-    "tikName": "Саратов, Заводская"
+    "tikName": "Саратов, Заводская",
+    "uikName": "УИК №114",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 115,
     "uikTvd": "4644034494354",
     "tikTvd": "26420001727963",
-    "tikName": "Саратов, Заводская"
+    "tikName": "Саратов, Заводская",
+    "uikName": "УИК №115",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 116,
     "uikTvd": "4644035533390",
     "tikTvd": "26420001727941",
-    "tikName": "Саратов, Кировская"
+    "tikName": "Саратов, Кировская",
+    "uikName": "УИК №116",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 117,
     "uikTvd": "4644035533391",
     "tikTvd": "26420001727941",
-    "tikName": "Саратов, Кировская"
+    "tikName": "Саратов, Кировская",
+    "uikName": "УИК №117",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 118,
     "uikTvd": "4644035533392",
     "tikTvd": "26420001727941",
-    "tikName": "Саратов, Кировская"
+    "tikName": "Саратов, Кировская",
+    "uikName": "УИК №118",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 120,
     "uikTvd": "4644035533393",
     "tikTvd": "26420001727941",
-    "tikName": "Саратов, Кировская"
+    "tikName": "Саратов, Кировская",
+    "uikName": "УИК №120",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 121,
     "uikTvd": "4644035533394",
     "tikTvd": "26420001727941",
-    "tikName": "Саратов, Кировская"
+    "tikName": "Саратов, Кировская",
+    "uikName": "УИК №121",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 122,
     "uikTvd": "4644035533395",
     "tikTvd": "26420001727941",
-    "tikName": "Саратов, Кировская"
+    "tikName": "Саратов, Кировская",
+    "uikName": "УИК №122",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 123,
     "uikTvd": "4644035533396",
     "tikTvd": "26420001727941",
-    "tikName": "Саратов, Кировская"
+    "tikName": "Саратов, Кировская",
+    "uikName": "УИК №123",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 124,
     "uikTvd": "4644035533397",
     "tikTvd": "26420001727941",
-    "tikName": "Саратов, Кировская"
+    "tikName": "Саратов, Кировская",
+    "uikName": "УИК №124",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 125,
     "uikTvd": "4644035533398",
     "tikTvd": "26420001727941",
-    "tikName": "Саратов, Кировская"
+    "tikName": "Саратов, Кировская",
+    "uikName": "УИК №125",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 126,
     "uikTvd": "4644035533399",
     "tikTvd": "26420001727941",
-    "tikName": "Саратов, Кировская"
+    "tikName": "Саратов, Кировская",
+    "uikName": "УИК №126",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 127,
     "uikTvd": "4644035533400",
     "tikTvd": "26420001727941",
-    "tikName": "Саратов, Кировская"
+    "tikName": "Саратов, Кировская",
+    "uikName": "УИК №127",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 128,
     "uikTvd": "4644035533401",
     "tikTvd": "26420001727941",
-    "tikName": "Саратов, Кировская"
+    "tikName": "Саратов, Кировская",
+    "uikName": "УИК №128",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 129,
     "uikTvd": "4644035533402",
     "tikTvd": "26420001727941",
-    "tikName": "Саратов, Кировская"
+    "tikName": "Саратов, Кировская",
+    "uikName": "УИК №129",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 130,
     "uikTvd": "4644035533403",
     "tikTvd": "26420001727941",
-    "tikName": "Саратов, Кировская"
+    "tikName": "Саратов, Кировская",
+    "uikName": "УИК №130",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 131,
     "uikTvd": "4644035533404",
     "tikTvd": "26420001727941",
-    "tikName": "Саратов, Кировская"
+    "tikName": "Саратов, Кировская",
+    "uikName": "УИК №131",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 132,
     "uikTvd": "4644035533405",
     "tikTvd": "26420001727941",
-    "tikName": "Саратов, Кировская"
+    "tikName": "Саратов, Кировская",
+    "uikName": "УИК №132",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 134,
     "uikTvd": "4644035533406",
     "tikTvd": "26420001727941",
-    "tikName": "Саратов, Кировская"
+    "tikName": "Саратов, Кировская",
+    "uikName": "УИК №134",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 135,
     "uikTvd": "4644035533407",
     "tikTvd": "26420001727941",
-    "tikName": "Саратов, Кировская"
+    "tikName": "Саратов, Кировская",
+    "uikName": "УИК №135",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 136,
     "uikTvd": "4644035533408",
     "tikTvd": "26420001727941",
-    "tikName": "Саратов, Кировская"
+    "tikName": "Саратов, Кировская",
+    "uikName": "УИК №136",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 137,
     "uikTvd": "4644035533409",
     "tikTvd": "26420001727941",
-    "tikName": "Саратов, Кировская"
+    "tikName": "Саратов, Кировская",
+    "uikName": "УИК №137",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 138,
     "uikTvd": "4644035533410",
     "tikTvd": "26420001727941",
-    "tikName": "Саратов, Кировская"
+    "tikName": "Саратов, Кировская",
+    "uikName": "УИК №138",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 139,
     "uikTvd": "4644035533411",
     "tikTvd": "26420001727941",
-    "tikName": "Саратов, Кировская"
+    "tikName": "Саратов, Кировская",
+    "uikName": "УИК №139",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 140,
     "uikTvd": "4644035533412",
     "tikTvd": "26420001727941",
-    "tikName": "Саратов, Кировская"
+    "tikName": "Саратов, Кировская",
+    "uikName": "УИК №140",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 141,
     "uikTvd": "4644035533413",
     "tikTvd": "26420001727941",
-    "tikName": "Саратов, Кировская"
+    "tikName": "Саратов, Кировская",
+    "uikName": "УИК №141",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 142,
     "uikTvd": "4644035533414",
     "tikTvd": "26420001727941",
-    "tikName": "Саратов, Кировская"
+    "tikName": "Саратов, Кировская",
+    "uikName": "УИК №142",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 143,
     "uikTvd": "4644035533415",
     "tikTvd": "26420001727941",
-    "tikName": "Саратов, Кировская"
+    "tikName": "Саратов, Кировская",
+    "uikName": "УИК №143",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 144,
     "uikTvd": "4644035533416",
     "tikTvd": "26420001727941",
-    "tikName": "Саратов, Кировская"
+    "tikName": "Саратов, Кировская",
+    "uikName": "УИК №144",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 145,
     "uikTvd": "4644035533417",
     "tikTvd": "26420001727941",
-    "tikName": "Саратов, Кировская"
+    "tikName": "Саратов, Кировская",
+    "uikName": "УИК №145",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 146,
     "uikTvd": "4644035533418",
     "tikTvd": "26420001727941",
-    "tikName": "Саратов, Кировская"
+    "tikName": "Саратов, Кировская",
+    "uikName": "УИК №146",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 147,
     "uikTvd": "4644035533419",
     "tikTvd": "26420001727941",
-    "tikName": "Саратов, Кировская"
+    "tikName": "Саратов, Кировская",
+    "uikName": "УИК №147",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 148,
     "uikTvd": "4644035533420",
     "tikTvd": "26420001727941",
-    "tikName": "Саратов, Кировская"
+    "tikName": "Саратов, Кировская",
+    "uikName": "УИК №148",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 149,
     "uikTvd": "4644035533421",
     "tikTvd": "26420001727941",
-    "tikName": "Саратов, Кировская"
+    "tikName": "Саратов, Кировская",
+    "uikName": "УИК №149",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 150,
     "uikTvd": "4644035533422",
     "tikTvd": "26420001727941",
-    "tikName": "Саратов, Кировская"
+    "tikName": "Саратов, Кировская",
+    "uikName": "УИК №150",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 151,
     "uikTvd": "4644035533423",
     "tikTvd": "26420001727941",
-    "tikName": "Саратов, Кировская"
+    "tikName": "Саратов, Кировская",
+    "uikName": "УИК №151",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 152,
     "uikTvd": "4644035533424",
     "tikTvd": "26420001727941",
-    "tikName": "Саратов, Кировская"
+    "tikName": "Саратов, Кировская",
+    "uikName": "УИК №152",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 153,
     "uikTvd": "4644035533425",
     "tikTvd": "26420001727941",
-    "tikName": "Саратов, Кировская"
+    "tikName": "Саратов, Кировская",
+    "uikName": "УИК №153",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 154,
     "uikTvd": "4644035533426",
     "tikTvd": "26420001727941",
-    "tikName": "Саратов, Кировская"
+    "tikName": "Саратов, Кировская",
+    "uikName": "УИК №154",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 155,
     "uikTvd": "4644035533427",
     "tikTvd": "26420001727941",
-    "tikName": "Саратов, Кировская"
+    "tikName": "Саратов, Кировская",
+    "uikName": "УИК №155",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 156,
     "uikTvd": "4644035533428",
     "tikTvd": "26420001727941",
-    "tikName": "Саратов, Кировская"
+    "tikName": "Саратов, Кировская",
+    "uikName": "УИК №156",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 157,
     "uikTvd": "4644035533429",
     "tikTvd": "26420001727941",
-    "tikName": "Саратов, Кировская"
+    "tikName": "Саратов, Кировская",
+    "uikName": "УИК №157",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 158,
     "uikTvd": "4644035533430",
     "tikTvd": "26420001727941",
-    "tikName": "Саратов, Кировская"
+    "tikName": "Саратов, Кировская",
+    "uikName": "УИК №158",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 159,
     "uikTvd": "4644035533431",
     "tikTvd": "26420001727941",
-    "tikName": "Саратов, Кировская"
+    "tikName": "Саратов, Кировская",
+    "uikName": "УИК №159",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 160,
     "uikTvd": "4644035533432",
     "tikTvd": "26420001727941",
-    "tikName": "Саратов, Кировская"
+    "tikName": "Саратов, Кировская",
+    "uikName": "УИК №160",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 161,
     "uikTvd": "4644035539007",
     "tikTvd": "26420001727941",
-    "tikName": "Саратов, Кировская"
+    "tikName": "Саратов, Кировская",
+    "uikName": "УИК №161",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 162,
     "uikTvd": "4644035533434",
     "tikTvd": "26420001727941",
-    "tikName": "Саратов, Кировская"
+    "tikName": "Саратов, Кировская",
+    "uikName": "УИК №162",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 163,
     "uikTvd": "4644035533435",
     "tikTvd": "26420001727941",
-    "tikName": "Саратов, Кировская"
+    "tikName": "Саратов, Кировская",
+    "uikName": "УИК №163",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 164,
     "uikTvd": "4644035533436",
     "tikTvd": "26420001727941",
-    "tikName": "Саратов, Кировская"
+    "tikName": "Саратов, Кировская",
+    "uikName": "УИК №164",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 165,
     "uikTvd": "4644035533437",
     "tikTvd": "26420001727941",
-    "tikName": "Саратов, Кировская"
+    "tikName": "Саратов, Кировская",
+    "uikName": "УИК №165",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 166,
     "uikTvd": "4644035533438",
     "tikTvd": "26420001727941",
-    "tikName": "Саратов, Кировская"
+    "tikName": "Саратов, Кировская",
+    "uikName": "УИК №166",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 167,
     "uikTvd": "4644035533439",
     "tikTvd": "26420001727941",
-    "tikName": "Саратов, Кировская"
+    "tikName": "Саратов, Кировская",
+    "uikName": "УИК №167",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 168,
     "uikTvd": "4644035533440",
     "tikTvd": "26420001727941",
-    "tikName": "Саратов, Кировская"
+    "tikName": "Саратов, Кировская",
+    "uikName": "УИК №168",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 169,
     "uikTvd": "4644035533441",
     "tikTvd": "26420001727941",
-    "tikName": "Саратов, Кировская"
+    "tikName": "Саратов, Кировская",
+    "uikName": "УИК №169",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 170,
     "uikTvd": "4644035533442",
     "tikTvd": "26420001727941",
-    "tikName": "Саратов, Кировская"
+    "tikName": "Саратов, Кировская",
+    "uikName": "УИК №170",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 171,
     "uikTvd": "4644035533443",
     "tikTvd": "26420001727941",
-    "tikName": "Саратов, Кировская"
+    "tikName": "Саратов, Кировская",
+    "uikName": "УИК №171",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 172,
     "uikTvd": "4644035533444",
     "tikTvd": "26420001727941",
-    "tikName": "Саратов, Кировская"
+    "tikName": "Саратов, Кировская",
+    "uikName": "УИК №172",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 173,
     "uikTvd": "4644035533445",
     "tikTvd": "26420001727941",
-    "tikName": "Саратов, Кировская"
+    "tikName": "Саратов, Кировская",
+    "uikName": "УИК №173",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 174,
     "uikTvd": "4644035533446",
     "tikTvd": "26420001727941",
-    "tikName": "Саратов, Кировская"
+    "tikName": "Саратов, Кировская",
+    "uikName": "УИК №174",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 175,
     "uikTvd": "4644035533447",
     "tikTvd": "26420001727941",
-    "tikName": "Саратов, Кировская"
+    "tikName": "Саратов, Кировская",
+    "uikName": "УИК №175",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 176,
     "uikTvd": "4644035533448",
     "tikTvd": "26420001727941",
-    "tikName": "Саратов, Кировская"
+    "tikName": "Саратов, Кировская",
+    "uikName": "УИК №176",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 177,
     "uikTvd": "4644036518518",
     "tikTvd": "26420001727940",
-    "tikName": "Саратов, Ленинская"
+    "tikName": "Саратов, Ленинская",
+    "uikName": "УИК №177",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 178,
     "uikTvd": "4644036518519",
     "tikTvd": "26420001727940",
-    "tikName": "Саратов, Ленинская"
+    "tikName": "Саратов, Ленинская",
+    "uikName": "УИК №178",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 179,
     "uikTvd": "4644036518520",
     "tikTvd": "26420001727940",
-    "tikName": "Саратов, Ленинская"
+    "tikName": "Саратов, Ленинская",
+    "uikName": "УИК №179",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 180,
     "uikTvd": "4644036518521",
     "tikTvd": "26420001727940",
-    "tikName": "Саратов, Ленинская"
+    "tikName": "Саратов, Ленинская",
+    "uikName": "УИК №180",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 181,
     "uikTvd": "4644036518522",
     "tikTvd": "26420001727940",
-    "tikName": "Саратов, Ленинская"
+    "tikName": "Саратов, Ленинская",
+    "uikName": "УИК №181",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 182,
     "uikTvd": "4644036518523",
     "tikTvd": "26420001727940",
-    "tikName": "Саратов, Ленинская"
+    "tikName": "Саратов, Ленинская",
+    "uikName": "УИК №182",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 183,
     "uikTvd": "4644036518524",
     "tikTvd": "26420001727940",
-    "tikName": "Саратов, Ленинская"
+    "tikName": "Саратов, Ленинская",
+    "uikName": "УИК №183",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 184,
     "uikTvd": "4644036518525",
     "tikTvd": "26420001727940",
-    "tikName": "Саратов, Ленинская"
+    "tikName": "Саратов, Ленинская",
+    "uikName": "УИК №184",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 185,
     "uikTvd": "4644036518526",
     "tikTvd": "26420001727940",
-    "tikName": "Саратов, Ленинская"
+    "tikName": "Саратов, Ленинская",
+    "uikName": "УИК №185",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 186,
     "uikTvd": "4644036518527",
     "tikTvd": "26420001727940",
-    "tikName": "Саратов, Ленинская"
+    "tikName": "Саратов, Ленинская",
+    "uikName": "УИК №186",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 187,
     "uikTvd": "4644036518528",
     "tikTvd": "26420001727940",
-    "tikName": "Саратов, Ленинская"
+    "tikName": "Саратов, Ленинская",
+    "uikName": "УИК №187",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 188,
     "uikTvd": "4644036518529",
     "tikTvd": "26420001727940",
-    "tikName": "Саратов, Ленинская"
+    "tikName": "Саратов, Ленинская",
+    "uikName": "УИК №188",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 189,
     "uikTvd": "4644036518530",
     "tikTvd": "26420001727940",
-    "tikName": "Саратов, Ленинская"
+    "tikName": "Саратов, Ленинская",
+    "uikName": "УИК №189",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 190,
     "uikTvd": "4644036518531",
     "tikTvd": "26420001727940",
-    "tikName": "Саратов, Ленинская"
+    "tikName": "Саратов, Ленинская",
+    "uikName": "УИК №190",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 191,
     "uikTvd": "4644036518532",
     "tikTvd": "26420001727940",
-    "tikName": "Саратов, Ленинская"
+    "tikName": "Саратов, Ленинская",
+    "uikName": "УИК №191",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 192,
     "uikTvd": "4644036518533",
     "tikTvd": "26420001727940",
-    "tikName": "Саратов, Ленинская"
+    "tikName": "Саратов, Ленинская",
+    "uikName": "УИК №192",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 193,
     "uikTvd": "4644036518534",
     "tikTvd": "26420001727940",
-    "tikName": "Саратов, Ленинская"
+    "tikName": "Саратов, Ленинская",
+    "uikName": "УИК №193",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 194,
     "uikTvd": "4644036518535",
     "tikTvd": "26420001727940",
-    "tikName": "Саратов, Ленинская"
+    "tikName": "Саратов, Ленинская",
+    "uikName": "УИК №194",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 195,
     "uikTvd": "4644036518536",
     "tikTvd": "26420001727940",
-    "tikName": "Саратов, Ленинская"
+    "tikName": "Саратов, Ленинская",
+    "uikName": "УИК №195",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 196,
     "uikTvd": "4644036522686",
     "tikTvd": "26420001727940",
-    "tikName": "Саратов, Ленинская"
+    "tikName": "Саратов, Ленинская",
+    "uikName": "УИК №196",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 197,
     "uikTvd": "4644036518538",
     "tikTvd": "26420001727940",
-    "tikName": "Саратов, Ленинская"
+    "tikName": "Саратов, Ленинская",
+    "uikName": "УИК №197",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 198,
     "uikTvd": "4644036518539",
     "tikTvd": "26420001727940",
-    "tikName": "Саратов, Ленинская"
+    "tikName": "Саратов, Ленинская",
+    "uikName": "УИК №198",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 199,
     "uikTvd": "4644036518540",
     "tikTvd": "26420001727940",
-    "tikName": "Саратов, Ленинская"
+    "tikName": "Саратов, Ленинская",
+    "uikName": "УИК №199",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 200,
     "uikTvd": "4644036518541",
     "tikTvd": "26420001727940",
-    "tikName": "Саратов, Ленинская"
+    "tikName": "Саратов, Ленинская",
+    "uikName": "УИК №200",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 201,
     "uikTvd": "4644036518542",
     "tikTvd": "26420001727940",
-    "tikName": "Саратов, Ленинская"
+    "tikName": "Саратов, Ленинская",
+    "uikName": "УИК №201",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 202,
     "uikTvd": "4644036518543",
     "tikTvd": "26420001727940",
-    "tikName": "Саратов, Ленинская"
+    "tikName": "Саратов, Ленинская",
+    "uikName": "УИК №202",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 203,
     "uikTvd": "4644036518544",
     "tikTvd": "26420001727940",
-    "tikName": "Саратов, Ленинская"
+    "tikName": "Саратов, Ленинская",
+    "uikName": "УИК №203",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 204,
     "uikTvd": "4644036518545",
     "tikTvd": "26420001727940",
-    "tikName": "Саратов, Ленинская"
+    "tikName": "Саратов, Ленинская",
+    "uikName": "УИК №204",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 205,
     "uikTvd": "4644036518546",
     "tikTvd": "26420001727940",
-    "tikName": "Саратов, Ленинская"
+    "tikName": "Саратов, Ленинская",
+    "uikName": "УИК №205",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 206,
     "uikTvd": "4644036518547",
     "tikTvd": "26420001727940",
-    "tikName": "Саратов, Ленинская"
+    "tikName": "Саратов, Ленинская",
+    "uikName": "УИК №206",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 207,
     "uikTvd": "4644036518548",
     "tikTvd": "26420001727940",
-    "tikName": "Саратов, Ленинская"
+    "tikName": "Саратов, Ленинская",
+    "uikName": "УИК №207",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 208,
     "uikTvd": "4644036518549",
     "tikTvd": "26420001727940",
-    "tikName": "Саратов, Ленинская"
+    "tikName": "Саратов, Ленинская",
+    "uikName": "УИК №208",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 209,
     "uikTvd": "4644036518550",
     "tikTvd": "26420001727940",
-    "tikName": "Саратов, Ленинская"
+    "tikName": "Саратов, Ленинская",
+    "uikName": "УИК №209",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 210,
     "uikTvd": "4644036518551",
     "tikTvd": "26420001727940",
-    "tikName": "Саратов, Ленинская"
+    "tikName": "Саратов, Ленинская",
+    "uikName": "УИК №210",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 211,
     "uikTvd": "4644036518552",
     "tikTvd": "26420001727940",
-    "tikName": "Саратов, Ленинская"
+    "tikName": "Саратов, Ленинская",
+    "uikName": "УИК №211",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 212,
     "uikTvd": "4644036518553",
     "tikTvd": "26420001727940",
-    "tikName": "Саратов, Ленинская"
+    "tikName": "Саратов, Ленинская",
+    "uikName": "УИК №212",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 213,
     "uikTvd": "4644036518554",
     "tikTvd": "26420001727940",
-    "tikName": "Саратов, Ленинская"
+    "tikName": "Саратов, Ленинская",
+    "uikName": "УИК №213",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 214,
     "uikTvd": "4644036518555",
     "tikTvd": "26420001727940",
-    "tikName": "Саратов, Ленинская"
+    "tikName": "Саратов, Ленинская",
+    "uikName": "УИК №214",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 215,
     "uikTvd": "4644036518556",
     "tikTvd": "26420001727940",
-    "tikName": "Саратов, Ленинская"
+    "tikName": "Саратов, Ленинская",
+    "uikName": "УИК №215",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 216,
     "uikTvd": "4644036522687",
     "tikTvd": "26420001727940",
-    "tikName": "Саратов, Ленинская"
+    "tikName": "Саратов, Ленинская",
+    "uikName": "УИК №216",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 217,
     "uikTvd": "4644036518558",
     "tikTvd": "26420001727940",
-    "tikName": "Саратов, Ленинская"
+    "tikName": "Саратов, Ленинская",
+    "uikName": "УИК №217",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 218,
     "uikTvd": "4644036518559",
     "tikTvd": "26420001727940",
-    "tikName": "Саратов, Ленинская"
+    "tikName": "Саратов, Ленинская",
+    "uikName": "УИК №218",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 219,
     "uikTvd": "4644036518560",
     "tikTvd": "26420001727940",
-    "tikName": "Саратов, Ленинская"
+    "tikName": "Саратов, Ленинская",
+    "uikName": "УИК №219",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 220,
     "uikTvd": "4644036518561",
     "tikTvd": "26420001727940",
-    "tikName": "Саратов, Ленинская"
+    "tikName": "Саратов, Ленинская",
+    "uikName": "УИК №220",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 221,
     "uikTvd": "4644036518562",
     "tikTvd": "26420001727940",
-    "tikName": "Саратов, Ленинская"
+    "tikName": "Саратов, Ленинская",
+    "uikName": "УИК №221",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 222,
     "uikTvd": "4644036518563",
     "tikTvd": "26420001727940",
-    "tikName": "Саратов, Ленинская"
+    "tikName": "Саратов, Ленинская",
+    "uikName": "УИК №222",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 223,
     "uikTvd": "4644036518564",
     "tikTvd": "26420001727940",
-    "tikName": "Саратов, Ленинская"
+    "tikName": "Саратов, Ленинская",
+    "uikName": "УИК №223",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 224,
     "uikTvd": "4644036518565",
     "tikTvd": "26420001727940",
-    "tikName": "Саратов, Ленинская"
+    "tikName": "Саратов, Ленинская",
+    "uikName": "УИК №224",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 225,
     "uikTvd": "4644036518566",
     "tikTvd": "26420001727940",
-    "tikName": "Саратов, Ленинская"
+    "tikName": "Саратов, Ленинская",
+    "uikName": "УИК №225",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 226,
     "uikTvd": "4644036518567",
     "tikTvd": "26420001727940",
-    "tikName": "Саратов, Ленинская"
+    "tikName": "Саратов, Ленинская",
+    "uikName": "УИК №226",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 227,
     "uikTvd": "4644036518568",
     "tikTvd": "26420001727940",
-    "tikName": "Саратов, Ленинская"
+    "tikName": "Саратов, Ленинская",
+    "uikName": "УИК №227",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 228,
     "uikTvd": "4644036518569",
     "tikTvd": "26420001727940",
-    "tikName": "Саратов, Ленинская"
+    "tikName": "Саратов, Ленинская",
+    "uikName": "УИК №228",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 229,
     "uikTvd": "4644036518570",
     "tikTvd": "26420001727940",
-    "tikName": "Саратов, Ленинская"
+    "tikName": "Саратов, Ленинская",
+    "uikName": "УИК №229",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 230,
     "uikTvd": "4644036518571",
     "tikTvd": "26420001727940",
-    "tikName": "Саратов, Ленинская"
+    "tikName": "Саратов, Ленинская",
+    "uikName": "УИК №230",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 231,
     "uikTvd": "4644036518572",
     "tikTvd": "26420001727940",
-    "tikName": "Саратов, Ленинская"
+    "tikName": "Саратов, Ленинская",
+    "uikName": "УИК №231",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 232,
     "uikTvd": "4644036518573",
     "tikTvd": "26420001727940",
-    "tikName": "Саратов, Ленинская"
+    "tikName": "Саратов, Ленинская",
+    "uikName": "УИК №232",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 233,
     "uikTvd": "4644036518574",
     "tikTvd": "26420001727940",
-    "tikName": "Саратов, Ленинская"
+    "tikName": "Саратов, Ленинская",
+    "uikName": "УИК №233",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 234,
     "uikTvd": "4644036518575",
     "tikTvd": "26420001727940",
-    "tikName": "Саратов, Ленинская"
+    "tikName": "Саратов, Ленинская",
+    "uikName": "УИК №234",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 235,
     "uikTvd": "4644036518576",
     "tikTvd": "26420001727940",
-    "tikName": "Саратов, Ленинская"
+    "tikName": "Саратов, Ленинская",
+    "uikName": "УИК №235",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 236,
     "uikTvd": "4644036518577",
     "tikTvd": "26420001727940",
-    "tikName": "Саратов, Ленинская"
+    "tikName": "Саратов, Ленинская",
+    "uikName": "УИК №236",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 237,
     "uikTvd": "4644036518578",
     "tikTvd": "26420001727940",
-    "tikName": "Саратов, Ленинская"
+    "tikName": "Саратов, Ленинская",
+    "uikName": "УИК №237",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 238,
     "uikTvd": "4644036518579",
     "tikTvd": "26420001727940",
-    "tikName": "Саратов, Ленинская"
+    "tikName": "Саратов, Ленинская",
+    "uikName": "УИК №238",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 239,
     "uikTvd": "4644036518580",
     "tikTvd": "26420001727940",
-    "tikName": "Саратов, Ленинская"
+    "tikName": "Саратов, Ленинская",
+    "uikName": "УИК №239",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 240,
     "uikTvd": "4644036518581",
     "tikTvd": "26420001727940",
-    "tikName": "Саратов, Ленинская"
+    "tikName": "Саратов, Ленинская",
+    "uikName": "УИК №240",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 241,
     "uikTvd": "4644036518582",
     "tikTvd": "26420001727940",
-    "tikName": "Саратов, Ленинская"
+    "tikName": "Саратов, Ленинская",
+    "uikName": "УИК №241",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 242,
     "uikTvd": "4644036518583",
     "tikTvd": "26420001727940",
-    "tikName": "Саратов, Ленинская"
+    "tikName": "Саратов, Ленинская",
+    "uikName": "УИК №242",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 243,
     "uikTvd": "4644036518584",
     "tikTvd": "26420001727940",
-    "tikName": "Саратов, Ленинская"
+    "tikName": "Саратов, Ленинская",
+    "uikName": "УИК №243",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 244,
     "uikTvd": "4644036518585",
     "tikTvd": "26420001727940",
-    "tikName": "Саратов, Ленинская"
+    "tikName": "Саратов, Ленинская",
+    "uikName": "УИК №244",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 245,
     "uikTvd": "4644036518586",
     "tikTvd": "26420001727940",
-    "tikName": "Саратов, Ленинская"
+    "tikName": "Саратов, Ленинская",
+    "uikName": "УИК №245",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 246,
     "uikTvd": "4644036518587",
     "tikTvd": "26420001727940",
-    "tikName": "Саратов, Ленинская"
+    "tikName": "Саратов, Ленинская",
+    "uikName": "УИК №246",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 247,
     "uikTvd": "4644036518588",
     "tikTvd": "26420001727940",
-    "tikName": "Саратов, Ленинская"
+    "tikName": "Саратов, Ленинская",
+    "uikName": "УИК №247",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 248,
     "uikTvd": "4644036518589",
     "tikTvd": "26420001727940",
-    "tikName": "Саратов, Ленинская"
+    "tikName": "Саратов, Ленинская",
+    "uikName": "УИК №248",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 249,
     "uikTvd": "4644036518590",
     "tikTvd": "26420001727940",
-    "tikName": "Саратов, Ленинская"
+    "tikName": "Саратов, Ленинская",
+    "uikName": "УИК №249",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 251,
     "uikTvd": "4644036518591",
     "tikTvd": "26420001727940",
-    "tikName": "Саратов, Ленинская"
+    "tikName": "Саратов, Ленинская",
+    "uikName": "УИК №251",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 252,
     "uikTvd": "4644036518592",
     "tikTvd": "26420001727940",
-    "tikName": "Саратов, Ленинская"
+    "tikName": "Саратов, Ленинская",
+    "uikName": "УИК №252",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 253,
     "uikTvd": "4644036518593",
     "tikTvd": "26420001727940",
-    "tikName": "Саратов, Ленинская"
+    "tikName": "Саратов, Ленинская",
+    "uikName": "УИК №253",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 254,
     "uikTvd": "4644036518594",
     "tikTvd": "26420001727940",
-    "tikName": "Саратов, Ленинская"
+    "tikName": "Саратов, Ленинская",
+    "uikName": "УИК №254",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 255,
     "uikTvd": "4644036518595",
     "tikTvd": "26420001727940",
-    "tikName": "Саратов, Ленинская"
+    "tikName": "Саратов, Ленинская",
+    "uikName": "УИК №255",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 256,
     "uikTvd": "4644036518596",
     "tikTvd": "26420001727940",
-    "tikName": "Саратов, Ленинская"
+    "tikName": "Саратов, Ленинская",
+    "uikName": "УИК №256",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 257,
     "uikTvd": "4644036518597",
     "tikTvd": "26420001727940",
-    "tikName": "Саратов, Ленинская"
+    "tikName": "Саратов, Ленинская",
+    "uikName": "УИК №257",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 258,
     "uikTvd": "4644036518598",
     "tikTvd": "26420001727940",
-    "tikName": "Саратов, Ленинская"
+    "tikName": "Саратов, Ленинская",
+    "uikName": "УИК №258",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 259,
     "uikTvd": "4644036518599",
     "tikTvd": "26420001727940",
-    "tikName": "Саратов, Ленинская"
+    "tikName": "Саратов, Ленинская",
+    "uikName": "УИК №259",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 260,
     "uikTvd": "4644036518600",
     "tikTvd": "26420001727940",
-    "tikName": "Саратов, Ленинская"
+    "tikName": "Саратов, Ленинская",
+    "uikName": "УИК №260",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 261,
     "uikTvd": "4644036518601",
     "tikTvd": "26420001727940",
-    "tikName": "Саратов, Ленинская"
+    "tikName": "Саратов, Ленинская",
+    "uikName": "УИК №261",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 262,
     "uikTvd": "4644036518602",
     "tikTvd": "26420001727940",
-    "tikName": "Саратов, Ленинская"
+    "tikName": "Саратов, Ленинская",
+    "uikName": "УИК №262",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 263,
     "uikTvd": "4644036518603",
     "tikTvd": "26420001727940",
-    "tikName": "Саратов, Ленинская"
+    "tikName": "Саратов, Ленинская",
+    "uikName": "УИК №263",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 264,
     "uikTvd": "4644036518604",
     "tikTvd": "26420001727940",
-    "tikName": "Саратов, Ленинская"
+    "tikName": "Саратов, Ленинская",
+    "uikName": "УИК №264",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 265,
     "uikTvd": "4644036518605",
     "tikTvd": "26420001727940",
-    "tikName": "Саратов, Ленинская"
+    "tikName": "Саратов, Ленинская",
+    "uikName": "УИК №265",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 266,
     "uikTvd": "4644036518606",
     "tikTvd": "26420001727940",
-    "tikName": "Саратов, Ленинская"
+    "tikName": "Саратов, Ленинская",
+    "uikName": "УИК №266",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 267,
     "uikTvd": "4644036518607",
     "tikTvd": "26420001727940",
-    "tikName": "Саратов, Ленинская"
+    "tikName": "Саратов, Ленинская",
+    "uikName": "УИК №267",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 268,
     "uikTvd": "4644036518608",
     "tikTvd": "26420001727940",
-    "tikName": "Саратов, Ленинская"
+    "tikName": "Саратов, Ленинская",
+    "uikName": "УИК №268",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 269,
     "uikTvd": "4644036518609",
     "tikTvd": "26420001727940",
-    "tikName": "Саратов, Ленинская"
+    "tikName": "Саратов, Ленинская",
+    "uikName": "УИК №269",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 270,
     "uikTvd": "4644036518610",
     "tikTvd": "26420001727940",
-    "tikName": "Саратов, Ленинская"
+    "tikName": "Саратов, Ленинская",
+    "uikName": "УИК №270",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 271,
     "uikTvd": "4644036518611",
     "tikTvd": "26420001727940",
-    "tikName": "Саратов, Ленинская"
+    "tikName": "Саратов, Ленинская",
+    "uikName": "УИК №271",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 272,
     "uikTvd": "4644036518612",
     "tikTvd": "26420001727940",
-    "tikName": "Саратов, Ленинская"
+    "tikName": "Саратов, Ленинская",
+    "uikName": "УИК №272",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 273,
     "uikTvd": "4644036518613",
     "tikTvd": "26420001727940",
-    "tikName": "Саратов, Ленинская"
+    "tikName": "Саратов, Ленинская",
+    "uikName": "УИК №273",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 274,
     "uikTvd": "4644036518614",
     "tikTvd": "26420001727940",
-    "tikName": "Саратов, Ленинская"
+    "tikName": "Саратов, Ленинская",
+    "uikName": "УИК №274",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 275,
     "uikTvd": "4644036518615",
     "tikTvd": "26420001727940",
-    "tikName": "Саратов, Ленинская"
+    "tikName": "Саратов, Ленинская",
+    "uikName": "УИК №275",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 276,
     "uikTvd": "4644036518616",
     "tikTvd": "26420001727940",
-    "tikName": "Саратов, Ленинская"
+    "tikName": "Саратов, Ленинская",
+    "uikName": "УИК №276",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 277,
     "uikTvd": "4644036518617",
     "tikTvd": "26420001727940",
-    "tikName": "Саратов, Ленинская"
+    "tikName": "Саратов, Ленинская",
+    "uikName": "УИК №277",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 278,
     "uikTvd": "4644036518618",
     "tikTvd": "26420001727940",
-    "tikName": "Саратов, Ленинская"
+    "tikName": "Саратов, Ленинская",
+    "uikName": "УИК №278",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 279,
     "uikTvd": "4644036518619",
     "tikTvd": "26420001727940",
-    "tikName": "Саратов, Ленинская"
+    "tikName": "Саратов, Ленинская",
+    "uikName": "УИК №279",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 280,
     "uikTvd": "4644036518620",
     "tikTvd": "26420001727940",
-    "tikName": "Саратов, Ленинская"
+    "tikName": "Саратов, Ленинская",
+    "uikName": "УИК №280",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 281,
     "uikTvd": "4644036518621",
     "tikTvd": "26420001727940",
-    "tikName": "Саратов, Ленинская"
+    "tikName": "Саратов, Ленинская",
+    "uikName": "УИК №281",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 282,
     "uikTvd": "4644036518622",
     "tikTvd": "26420001727940",
-    "tikName": "Саратов, Ленинская"
+    "tikName": "Саратов, Ленинская",
+    "uikName": "УИК №282",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 283,
     "uikTvd": "4644036518623",
     "tikTvd": "26420001727940",
-    "tikName": "Саратов, Ленинская"
+    "tikName": "Саратов, Ленинская",
+    "uikName": "УИК №283",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 284,
     "uikTvd": "4644036518624",
     "tikTvd": "26420001727940",
-    "tikName": "Саратов, Ленинская"
+    "tikName": "Саратов, Ленинская",
+    "uikName": "УИК №284",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 285,
     "uikTvd": "4644036518625",
     "tikTvd": "26420001727940",
-    "tikName": "Саратов, Ленинская"
+    "tikName": "Саратов, Ленинская",
+    "uikName": "УИК №285",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 286,
     "uikTvd": "4644036518626",
     "tikTvd": "26420001727940",
-    "tikName": "Саратов, Ленинская"
+    "tikName": "Саратов, Ленинская",
+    "uikName": "УИК №286",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 287,
     "uikTvd": "4644036518627",
     "tikTvd": "26420001727940",
-    "tikName": "Саратов, Ленинская"
+    "tikName": "Саратов, Ленинская",
+    "uikName": "УИК №287",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 288,
     "uikTvd": "4644036518628",
     "tikTvd": "26420001727940",
-    "tikName": "Саратов, Ленинская"
+    "tikName": "Саратов, Ленинская",
+    "uikName": "УИК №288",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 289,
     "uikTvd": "4644036518629",
     "tikTvd": "26420001727940",
-    "tikName": "Саратов, Ленинская"
+    "tikName": "Саратов, Ленинская",
+    "uikName": "УИК №289",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 290,
     "uikTvd": "4644036518630",
     "tikTvd": "26420001727940",
-    "tikName": "Саратов, Ленинская"
+    "tikName": "Саратов, Ленинская",
+    "uikName": "УИК №290",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 291,
     "uikTvd": "4644036518631",
     "tikTvd": "26420001727940",
-    "tikName": "Саратов, Ленинская"
+    "tikName": "Саратов, Ленинская",
+    "uikName": "УИК №291",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 292,
     "uikTvd": "4644037353862",
     "tikTvd": "26420001727977",
-    "tikName": "Саратов, Октябрьская"
+    "tikName": "Саратов, Октябрьская",
+    "uikName": "УИК №292",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 293,
     "uikTvd": "4644037353863",
     "tikTvd": "26420001727977",
-    "tikName": "Саратов, Октябрьская"
+    "tikName": "Саратов, Октябрьская",
+    "uikName": "УИК №293",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 294,
     "uikTvd": "4644037353864",
     "tikTvd": "26420001727977",
-    "tikName": "Саратов, Октябрьская"
+    "tikName": "Саратов, Октябрьская",
+    "uikName": "УИК №294",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 295,
     "uikTvd": "4644037353865",
     "tikTvd": "26420001727977",
-    "tikName": "Саратов, Октябрьская"
+    "tikName": "Саратов, Октябрьская",
+    "uikName": "УИК №295",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 296,
     "uikTvd": "4644037353866",
     "tikTvd": "26420001727977",
-    "tikName": "Саратов, Октябрьская"
+    "tikName": "Саратов, Октябрьская",
+    "uikName": "УИК №296",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 297,
     "uikTvd": "4644037353867",
     "tikTvd": "26420001727977",
-    "tikName": "Саратов, Октябрьская"
+    "tikName": "Саратов, Октябрьская",
+    "uikName": "УИК №297",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 298,
     "uikTvd": "4644037356009",
     "tikTvd": "26420001727977",
-    "tikName": "Саратов, Октябрьская"
+    "tikName": "Саратов, Октябрьская",
+    "uikName": "УИК №298",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 299,
     "uikTvd": "4644037356010",
     "tikTvd": "26420001727977",
-    "tikName": "Саратов, Октябрьская"
+    "tikName": "Саратов, Октябрьская",
+    "uikName": "УИК №299",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 300,
     "uikTvd": "4644037353868",
     "tikTvd": "26420001727977",
-    "tikName": "Саратов, Октябрьская"
+    "tikName": "Саратов, Октябрьская",
+    "uikName": "УИК №300",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 301,
     "uikTvd": "4644037353869",
     "tikTvd": "26420001727977",
-    "tikName": "Саратов, Октябрьская"
+    "tikName": "Саратов, Октябрьская",
+    "uikName": "УИК №301",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 302,
     "uikTvd": "4644037353870",
     "tikTvd": "26420001727977",
-    "tikName": "Саратов, Октябрьская"
+    "tikName": "Саратов, Октябрьская",
+    "uikName": "УИК №302",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 303,
     "uikTvd": "4644037353871",
     "tikTvd": "26420001727977",
-    "tikName": "Саратов, Октябрьская"
+    "tikName": "Саратов, Октябрьская",
+    "uikName": "УИК №303",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 304,
     "uikTvd": "4644037353872",
     "tikTvd": "26420001727977",
-    "tikName": "Саратов, Октябрьская"
+    "tikName": "Саратов, Октябрьская",
+    "uikName": "УИК №304",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 305,
     "uikTvd": "4644037353873",
     "tikTvd": "26420001727977",
-    "tikName": "Саратов, Октябрьская"
+    "tikName": "Саратов, Октябрьская",
+    "uikName": "УИК №305",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 306,
     "uikTvd": "4644037353874",
     "tikTvd": "26420001727977",
-    "tikName": "Саратов, Октябрьская"
+    "tikName": "Саратов, Октябрьская",
+    "uikName": "УИК №306",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 307,
     "uikTvd": "4644037353875",
     "tikTvd": "26420001727977",
-    "tikName": "Саратов, Октябрьская"
+    "tikName": "Саратов, Октябрьская",
+    "uikName": "УИК №307",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 308,
     "uikTvd": "4644037353876",
     "tikTvd": "26420001727977",
-    "tikName": "Саратов, Октябрьская"
+    "tikName": "Саратов, Октябрьская",
+    "uikName": "УИК №308",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 309,
     "uikTvd": "4644037353877",
     "tikTvd": "26420001727977",
-    "tikName": "Саратов, Октябрьская"
+    "tikName": "Саратов, Октябрьская",
+    "uikName": "УИК №309",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 310,
     "uikTvd": "4644037353878",
     "tikTvd": "26420001727977",
-    "tikName": "Саратов, Октябрьская"
+    "tikName": "Саратов, Октябрьская",
+    "uikName": "УИК №310",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 311,
     "uikTvd": "4644037353879",
     "tikTvd": "26420001727977",
-    "tikName": "Саратов, Октябрьская"
+    "tikName": "Саратов, Октябрьская",
+    "uikName": "УИК №311",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 312,
     "uikTvd": "4644037353880",
     "tikTvd": "26420001727977",
-    "tikName": "Саратов, Октябрьская"
+    "tikName": "Саратов, Октябрьская",
+    "uikName": "УИК №312",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 313,
     "uikTvd": "4644037353881",
     "tikTvd": "26420001727977",
-    "tikName": "Саратов, Октябрьская"
+    "tikName": "Саратов, Октябрьская",
+    "uikName": "УИК №313",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 314,
     "uikTvd": "4644037353882",
     "tikTvd": "26420001727977",
-    "tikName": "Саратов, Октябрьская"
+    "tikName": "Саратов, Октябрьская",
+    "uikName": "УИК №314",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 315,
     "uikTvd": "4644037353883",
     "tikTvd": "26420001727977",
-    "tikName": "Саратов, Октябрьская"
+    "tikName": "Саратов, Октябрьская",
+    "uikName": "УИК №315",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 316,
     "uikTvd": "4644037353884",
     "tikTvd": "26420001727977",
-    "tikName": "Саратов, Октябрьская"
+    "tikName": "Саратов, Октябрьская",
+    "uikName": "УИК №316",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 317,
     "uikTvd": "4644037353885",
     "tikTvd": "26420001727977",
-    "tikName": "Саратов, Октябрьская"
+    "tikName": "Саратов, Октябрьская",
+    "uikName": "УИК №317",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 318,
     "uikTvd": "4644037353886",
     "tikTvd": "26420001727977",
-    "tikName": "Саратов, Октябрьская"
+    "tikName": "Саратов, Октябрьская",
+    "uikName": "УИК №318",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 319,
     "uikTvd": "4644037353887",
     "tikTvd": "26420001727977",
-    "tikName": "Саратов, Октябрьская"
+    "tikName": "Саратов, Октябрьская",
+    "uikName": "УИК №319",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 320,
     "uikTvd": "4644037353888",
     "tikTvd": "26420001727977",
-    "tikName": "Саратов, Октябрьская"
+    "tikName": "Саратов, Октябрьская",
+    "uikName": "УИК №320",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 321,
     "uikTvd": "4644037353889",
     "tikTvd": "26420001727977",
-    "tikName": "Саратов, Октябрьская"
+    "tikName": "Саратов, Октябрьская",
+    "uikName": "УИК №321",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 322,
     "uikTvd": "4644037353890",
     "tikTvd": "26420001727977",
-    "tikName": "Саратов, Октябрьская"
+    "tikName": "Саратов, Октябрьская",
+    "uikName": "УИК №322",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 323,
     "uikTvd": "4644037353891",
     "tikTvd": "26420001727977",
-    "tikName": "Саратов, Октябрьская"
+    "tikName": "Саратов, Октябрьская",
+    "uikName": "УИК №323",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 324,
     "uikTvd": "4644037353892",
     "tikTvd": "26420001727977",
-    "tikName": "Саратов, Октябрьская"
+    "tikName": "Саратов, Октябрьская",
+    "uikName": "УИК №324",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 325,
     "uikTvd": "4644037353893",
     "tikTvd": "26420001727977",
-    "tikName": "Саратов, Октябрьская"
+    "tikName": "Саратов, Октябрьская",
+    "uikName": "УИК №325",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 326,
     "uikTvd": "4644037353894",
     "tikTvd": "26420001727977",
-    "tikName": "Саратов, Октябрьская"
+    "tikName": "Саратов, Октябрьская",
+    "uikName": "УИК №326",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 327,
     "uikTvd": "4644037353895",
     "tikTvd": "26420001727977",
-    "tikName": "Саратов, Октябрьская"
+    "tikName": "Саратов, Октябрьская",
+    "uikName": "УИК №327",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 328,
     "uikTvd": "4644037353896",
     "tikTvd": "26420001727977",
-    "tikName": "Саратов, Октябрьская"
+    "tikName": "Саратов, Октябрьская",
+    "uikName": "УИК №328",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 329,
     "uikTvd": "4644037353897",
     "tikTvd": "26420001727977",
-    "tikName": "Саратов, Октябрьская"
+    "tikName": "Саратов, Октябрьская",
+    "uikName": "УИК №329",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 330,
     "uikTvd": "4644037353898",
     "tikTvd": "26420001727977",
-    "tikName": "Саратов, Октябрьская"
+    "tikName": "Саратов, Октябрьская",
+    "uikName": "УИК №330",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 331,
     "uikTvd": "4644037356011",
     "tikTvd": "26420001727977",
-    "tikName": "Саратов, Октябрьская"
+    "tikName": "Саратов, Октябрьская",
+    "uikName": "УИК №331",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 332,
     "uikTvd": "4644037356012",
     "tikTvd": "26420001727977",
-    "tikName": "Саратов, Октябрьская"
+    "tikName": "Саратов, Октябрьская",
+    "uikName": "УИК №332",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 333,
     "uikTvd": "4644037356013",
     "tikTvd": "26420001727977",
-    "tikName": "Саратов, Октябрьская"
+    "tikName": "Саратов, Октябрьская",
+    "uikName": "УИК №333",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 334,
     "uikTvd": "4644037356014",
     "tikTvd": "26420001727977",
-    "tikName": "Саратов, Октябрьская"
+    "tikName": "Саратов, Октябрьская",
+    "uikName": "УИК №334",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 335,
     "uikTvd": "4644037356015",
     "tikTvd": "26420001727977",
-    "tikName": "Саратов, Октябрьская"
+    "tikName": "Саратов, Октябрьская",
+    "uikName": "УИК №335",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 336,
     "uikTvd": "4644037356016",
     "tikTvd": "26420001727977",
-    "tikName": "Саратов, Октябрьская"
+    "tikName": "Саратов, Октябрьская",
+    "uikName": "УИК №336",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 337,
     "uikTvd": "4644037356017",
     "tikTvd": "26420001727977",
-    "tikName": "Саратов, Октябрьская"
+    "tikName": "Саратов, Октябрьская",
+    "uikName": "УИК №337",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 338,
     "uikTvd": "4644037356018",
     "tikTvd": "26420001727977",
-    "tikName": "Саратов, Октябрьская"
+    "tikName": "Саратов, Октябрьская",
+    "uikName": "УИК №338",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 339,
     "uikTvd": "4644037353899",
     "tikTvd": "26420001727977",
-    "tikName": "Саратов, Октябрьская"
+    "tikName": "Саратов, Октябрьская",
+    "uikName": "УИК №339",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 340,
     "uikTvd": "4644037353900",
     "tikTvd": "26420001727977",
-    "tikName": "Саратов, Октябрьская"
+    "tikName": "Саратов, Октябрьская",
+    "uikName": "УИК №340",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 341,
     "uikTvd": "4644037353901",
     "tikTvd": "26420001727977",
-    "tikName": "Саратов, Октябрьская"
+    "tikName": "Саратов, Октябрьская",
+    "uikName": "УИК №341",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 342,
     "uikTvd": "4644037353902",
     "tikTvd": "26420001727977",
-    "tikName": "Саратов, Октябрьская"
+    "tikName": "Саратов, Октябрьская",
+    "uikName": "УИК №342",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 343,
     "uikTvd": "4644037353903",
     "tikTvd": "26420001727977",
-    "tikName": "Саратов, Октябрьская"
+    "tikName": "Саратов, Октябрьская",
+    "uikName": "УИК №343",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 344,
     "uikTvd": "4644037353904",
     "tikTvd": "26420001727977",
-    "tikName": "Саратов, Октябрьская"
+    "tikName": "Саратов, Октябрьская",
+    "uikName": "УИК №344",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 345,
     "uikTvd": "4644037353905",
     "tikTvd": "26420001727977",
-    "tikName": "Саратов, Октябрьская"
+    "tikName": "Саратов, Октябрьская",
+    "uikName": "УИК №345",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 346,
     "uikTvd": "4644038269582",
     "tikTvd": "26420001727939",
-    "tikName": "Саратов, Фрунзенская"
+    "tikName": "Саратов, Фрунзенская",
+    "uikName": "УИК №346",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 348,
     "uikTvd": "4644038269583",
     "tikTvd": "26420001727939",
-    "tikName": "Саратов, Фрунзенская"
+    "tikName": "Саратов, Фрунзенская",
+    "uikName": "УИК №348",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 349,
     "uikTvd": "4644038269584",
     "tikTvd": "26420001727939",
-    "tikName": "Саратов, Фрунзенская"
+    "tikName": "Саратов, Фрунзенская",
+    "uikName": "УИК №349",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 350,
     "uikTvd": "4644038269585",
     "tikTvd": "26420001727939",
-    "tikName": "Саратов, Фрунзенская"
+    "tikName": "Саратов, Фрунзенская",
+    "uikName": "УИК №350",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 351,
     "uikTvd": "4644038269586",
     "tikTvd": "26420001727939",
-    "tikName": "Саратов, Фрунзенская"
+    "tikName": "Саратов, Фрунзенская",
+    "uikName": "УИК №351",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 352,
     "uikTvd": "4644038269587",
     "tikTvd": "26420001727939",
-    "tikName": "Саратов, Фрунзенская"
+    "tikName": "Саратов, Фрунзенская",
+    "uikName": "УИК №352",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 353,
     "uikTvd": "4644038269588",
     "tikTvd": "26420001727939",
-    "tikName": "Саратов, Фрунзенская"
+    "tikName": "Саратов, Фрунзенская",
+    "uikName": "УИК №353",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 354,
     "uikTvd": "4644038269589",
     "tikTvd": "26420001727939",
-    "tikName": "Саратов, Фрунзенская"
+    "tikName": "Саратов, Фрунзенская",
+    "uikName": "УИК №354",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 355,
     "uikTvd": "4644038269590",
     "tikTvd": "26420001727939",
-    "tikName": "Саратов, Фрунзенская"
+    "tikName": "Саратов, Фрунзенская",
+    "uikName": "УИК №355",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 356,
     "uikTvd": "4644038269591",
     "tikTvd": "26420001727939",
-    "tikName": "Саратов, Фрунзенская"
+    "tikName": "Саратов, Фрунзенская",
+    "uikName": "УИК №356",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 357,
     "uikTvd": "4644038269592",
     "tikTvd": "26420001727939",
-    "tikName": "Саратов, Фрунзенская"
+    "tikName": "Саратов, Фрунзенская",
+    "uikName": "УИК №357",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 358,
     "uikTvd": "4644038269593",
     "tikTvd": "26420001727939",
-    "tikName": "Саратов, Фрунзенская"
+    "tikName": "Саратов, Фрунзенская",
+    "uikName": "УИК №358",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 359,
     "uikTvd": "4644038269594",
     "tikTvd": "26420001727939",
-    "tikName": "Саратов, Фрунзенская"
+    "tikName": "Саратов, Фрунзенская",
+    "uikName": "УИК №359",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 361,
     "uikTvd": "4644038269595",
     "tikTvd": "26420001727939",
-    "tikName": "Саратов, Фрунзенская"
+    "tikName": "Саратов, Фрунзенская",
+    "uikName": "УИК №361",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 362,
     "uikTvd": "4644038269596",
     "tikTvd": "26420001727939",
-    "tikName": "Саратов, Фрунзенская"
+    "tikName": "Саратов, Фрунзенская",
+    "uikName": "УИК №362",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 363,
     "uikTvd": "4644038269597",
     "tikTvd": "26420001727939",
-    "tikName": "Саратов, Фрунзенская"
+    "tikName": "Саратов, Фрунзенская",
+    "uikName": "УИК №363",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 364,
     "uikTvd": "4644038269598",
     "tikTvd": "26420001727939",
-    "tikName": "Саратов, Фрунзенская"
+    "tikName": "Саратов, Фрунзенская",
+    "uikName": "УИК №364",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 365,
     "uikTvd": "4644038269599",
     "tikTvd": "26420001727939",
-    "tikName": "Саратов, Фрунзенская"
+    "tikName": "Саратов, Фрунзенская",
+    "uikName": "УИК №365",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 366,
     "uikTvd": "4644038270738",
     "tikTvd": "26420001727939",
-    "tikName": "Саратов, Фрунзенская"
+    "tikName": "Саратов, Фрунзенская",
+    "uikName": "УИК №366",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 367,
     "uikTvd": "4644038269600",
     "tikTvd": "26420001727939",
-    "tikName": "Саратов, Фрунзенская"
+    "tikName": "Саратов, Фрунзенская",
+    "uikName": "УИК №367",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 368,
     "uikTvd": "4644038269601",
     "tikTvd": "26420001727939",
-    "tikName": "Саратов, Фрунзенская"
+    "tikName": "Саратов, Фрунзенская",
+    "uikName": "УИК №368",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 369,
     "uikTvd": "4644038269602",
     "tikTvd": "26420001727939",
-    "tikName": "Саратов, Фрунзенская"
+    "tikName": "Саратов, Фрунзенская",
+    "uikName": "УИК №369",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 370,
     "uikTvd": "4644038269603",
     "tikTvd": "26420001727939",
-    "tikName": "Саратов, Фрунзенская"
+    "tikName": "Саратов, Фрунзенская",
+    "uikName": "УИК №370",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 371,
     "uikTvd": "4644001288728",
     "tikTvd": "26420001727983",
-    "tikName": "Александрово-Гайская"
+    "tikName": "Александрово-Гайская",
+    "uikName": "УИК №371",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 372,
     "uikTvd": "4644001288729",
     "tikTvd": "26420001727983",
-    "tikName": "Александрово-Гайская"
+    "tikName": "Александрово-Гайская",
+    "uikName": "УИК №372",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 373,
     "uikTvd": "4644001288730",
     "tikTvd": "26420001727983",
-    "tikName": "Александрово-Гайская"
+    "tikName": "Александрово-Гайская",
+    "uikName": "УИК №373",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 374,
     "uikTvd": "4644001288731",
     "tikTvd": "26420001727983",
-    "tikName": "Александрово-Гайская"
+    "tikName": "Александрово-Гайская",
+    "uikName": "УИК №374",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 375,
     "uikTvd": "4644001288732",
     "tikTvd": "26420001727983",
-    "tikName": "Александрово-Гайская"
+    "tikName": "Александрово-Гайская",
+    "uikName": "УИК №375",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 376,
     "uikTvd": "4644001288733",
     "tikTvd": "26420001727983",
-    "tikName": "Александрово-Гайская"
+    "tikName": "Александрово-Гайская",
+    "uikName": "УИК №376",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 377,
     "uikTvd": "4644001288734",
     "tikTvd": "26420001727983",
-    "tikName": "Александрово-Гайская"
+    "tikName": "Александрово-Гайская",
+    "uikName": "УИК №377",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 378,
     "uikTvd": "4644001288735",
     "tikTvd": "26420001727983",
-    "tikName": "Александрово-Гайская"
+    "tikName": "Александрово-Гайская",
+    "uikName": "УИК №378",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 379,
     "uikTvd": "4644001288736",
     "tikTvd": "26420001727983",
-    "tikName": "Александрово-Гайская"
+    "tikName": "Александрово-Гайская",
+    "uikName": "УИК №379",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 380,
     "uikTvd": "4644001288737",
     "tikTvd": "26420001727983",
-    "tikName": "Александрово-Гайская"
+    "tikName": "Александрово-Гайская",
+    "uikName": "УИК №380",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 381,
     "uikTvd": "4644001288738",
     "tikTvd": "26420001727983",
-    "tikName": "Александрово-Гайская"
+    "tikName": "Александрово-Гайская",
+    "uikName": "УИК №381",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 382,
     "uikTvd": "4644001288739",
     "tikTvd": "26420001727983",
-    "tikName": "Александрово-Гайская"
+    "tikName": "Александрово-Гайская",
+    "uikName": "УИК №382",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 383,
     "uikTvd": "4644001288740",
     "tikTvd": "26420001727983",
-    "tikName": "Александрово-Гайская"
+    "tikName": "Александрово-Гайская",
+    "uikName": "УИК №383",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 384,
     "uikTvd": "4644001288741",
     "tikTvd": "26420001727983",
-    "tikName": "Александрово-Гайская"
+    "tikName": "Александрово-Гайская",
+    "uikName": "УИК №384",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 385,
     "uikTvd": "4644001288742",
     "tikTvd": "26420001727983",
-    "tikName": "Александрово-Гайская"
+    "tikName": "Александрово-Гайская",
+    "uikName": "УИК №385",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 386,
     "uikTvd": "4644001288743",
     "tikTvd": "26420001727983",
-    "tikName": "Александрово-Гайская"
+    "tikName": "Александрово-Гайская",
+    "uikName": "УИК №386",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 389,
     "uikTvd": "4644001288744",
     "tikTvd": "26420001727983",
-    "tikName": "Александрово-Гайская"
+    "tikName": "Александрово-Гайская",
+    "uikName": "УИК №389",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 390,
     "uikTvd": "4644001288745",
     "tikTvd": "26420001727983",
-    "tikName": "Александрово-Гайская"
+    "tikName": "Александрово-Гайская",
+    "uikName": "УИК №390",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 391,
     "uikTvd": "4644001288746",
     "tikTvd": "26420001727983",
-    "tikName": "Александрово-Гайская"
+    "tikName": "Александрово-Гайская",
+    "uikName": "УИК №391",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 392,
     "uikTvd": "4644001288747",
     "tikTvd": "26420001727983",
-    "tikName": "Александрово-Гайская"
+    "tikName": "Александрово-Гайская",
+    "uikName": "УИК №392",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 393,
     "uikTvd": "4644002246099",
     "tikTvd": "26420001727973",
-    "tikName": "Аркадакская"
+    "tikName": "Аркадакская",
+    "uikName": "УИК №393",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 394,
     "uikTvd": "4644002246100",
     "tikTvd": "26420001727973",
-    "tikName": "Аркадакская"
+    "tikName": "Аркадакская",
+    "uikName": "УИК №394",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 395,
     "uikTvd": "4644002246101",
     "tikTvd": "26420001727973",
-    "tikName": "Аркадакская"
+    "tikName": "Аркадакская",
+    "uikName": "УИК №395",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 396,
     "uikTvd": "4644002246102",
     "tikTvd": "26420001727973",
-    "tikName": "Аркадакская"
+    "tikName": "Аркадакская",
+    "uikName": "УИК №396",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 397,
     "uikTvd": "4644002246103",
     "tikTvd": "26420001727973",
-    "tikName": "Аркадакская"
+    "tikName": "Аркадакская",
+    "uikName": "УИК №397",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 398,
     "uikTvd": "4644002246104",
     "tikTvd": "26420001727973",
-    "tikName": "Аркадакская"
+    "tikName": "Аркадакская",
+    "uikName": "УИК №398",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 399,
     "uikTvd": "4644002246105",
     "tikTvd": "26420001727973",
-    "tikName": "Аркадакская"
+    "tikName": "Аркадакская",
+    "uikName": "УИК №399",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 400,
     "uikTvd": "4644002246106",
     "tikTvd": "26420001727973",
-    "tikName": "Аркадакская"
+    "tikName": "Аркадакская",
+    "uikName": "УИК №400",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 401,
     "uikTvd": "4644002246107",
     "tikTvd": "26420001727973",
-    "tikName": "Аркадакская"
+    "tikName": "Аркадакская",
+    "uikName": "УИК №401",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 402,
     "uikTvd": "4644002246108",
     "tikTvd": "26420001727973",
-    "tikName": "Аркадакская"
+    "tikName": "Аркадакская",
+    "uikName": "УИК №402",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 403,
     "uikTvd": "4644002246109",
     "tikTvd": "26420001727973",
-    "tikName": "Аркадакская"
+    "tikName": "Аркадакская",
+    "uikName": "УИК №403",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 405,
     "uikTvd": "4644002246110",
     "tikTvd": "26420001727973",
-    "tikName": "Аркадакская"
+    "tikName": "Аркадакская",
+    "uikName": "УИК №405",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 406,
     "uikTvd": "4644002246111",
     "tikTvd": "26420001727973",
-    "tikName": "Аркадакская"
+    "tikName": "Аркадакская",
+    "uikName": "УИК №406",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 407,
     "uikTvd": "4644002246112",
     "tikTvd": "26420001727973",
-    "tikName": "Аркадакская"
+    "tikName": "Аркадакская",
+    "uikName": "УИК №407",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 408,
     "uikTvd": "4644002246113",
     "tikTvd": "26420001727973",
-    "tikName": "Аркадакская"
+    "tikName": "Аркадакская",
+    "uikName": "УИК №408",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 409,
     "uikTvd": "4644002246114",
     "tikTvd": "26420001727973",
-    "tikName": "Аркадакская"
+    "tikName": "Аркадакская",
+    "uikName": "УИК №409",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 410,
     "uikTvd": "4644002246115",
     "tikTvd": "26420001727973",
-    "tikName": "Аркадакская"
+    "tikName": "Аркадакская",
+    "uikName": "УИК №410",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 411,
     "uikTvd": "4644002246116",
     "tikTvd": "26420001727973",
-    "tikName": "Аркадакская"
+    "tikName": "Аркадакская",
+    "uikName": "УИК №411",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 412,
     "uikTvd": "4644002246117",
     "tikTvd": "26420001727973",
-    "tikName": "Аркадакская"
+    "tikName": "Аркадакская",
+    "uikName": "УИК №412",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 413,
     "uikTvd": "4644002246118",
     "tikTvd": "26420001727973",
-    "tikName": "Аркадакская"
+    "tikName": "Аркадакская",
+    "uikName": "УИК №413",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 414,
     "uikTvd": "4644002246119",
     "tikTvd": "26420001727973",
-    "tikName": "Аркадакская"
+    "tikName": "Аркадакская",
+    "uikName": "УИК №414",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 415,
     "uikTvd": "4644002246120",
     "tikTvd": "26420001727973",
-    "tikName": "Аркадакская"
+    "tikName": "Аркадакская",
+    "uikName": "УИК №415",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 416,
     "uikTvd": "4644002246121",
     "tikTvd": "26420001727973",
-    "tikName": "Аркадакская"
+    "tikName": "Аркадакская",
+    "uikName": "УИК №416",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 417,
     "uikTvd": "4644002246122",
     "tikTvd": "26420001727973",
-    "tikName": "Аркадакская"
+    "tikName": "Аркадакская",
+    "uikName": "УИК №417",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 419,
     "uikTvd": "4644002246123",
     "tikTvd": "26420001727973",
-    "tikName": "Аркадакская"
+    "tikName": "Аркадакская",
+    "uikName": "УИК №419",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 420,
     "uikTvd": "4644002246124",
     "tikTvd": "26420001727973",
-    "tikName": "Аркадакская"
+    "tikName": "Аркадакская",
+    "uikName": "УИК №420",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 421,
     "uikTvd": "4644002246125",
     "tikTvd": "26420001727973",
-    "tikName": "Аркадакская"
+    "tikName": "Аркадакская",
+    "uikName": "УИК №421",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 422,
     "uikTvd": "4644002246126",
     "tikTvd": "26420001727973",
-    "tikName": "Аркадакская"
+    "tikName": "Аркадакская",
+    "uikName": "УИК №422",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 423,
     "uikTvd": "4644002246127",
     "tikTvd": "26420001727973",
-    "tikName": "Аркадакская"
+    "tikName": "Аркадакская",
+    "uikName": "УИК №423",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 424,
     "uikTvd": "4644002246128",
     "tikTvd": "26420001727973",
-    "tikName": "Аркадакская"
+    "tikName": "Аркадакская",
+    "uikName": "УИК №424",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 425,
     "uikTvd": "4644003290686",
     "tikTvd": "26420001727972",
-    "tikName": "Аткарская"
+    "tikName": "Аткарская",
+    "uikName": "УИК №425",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 426,
     "uikTvd": "4644003290687",
     "tikTvd": "26420001727972",
-    "tikName": "Аткарская"
+    "tikName": "Аткарская",
+    "uikName": "УИК №426",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 427,
     "uikTvd": "4644003290688",
     "tikTvd": "26420001727972",
-    "tikName": "Аткарская"
+    "tikName": "Аткарская",
+    "uikName": "УИК №427",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 428,
     "uikTvd": "4644003290689",
     "tikTvd": "26420001727972",
-    "tikName": "Аткарская"
+    "tikName": "Аткарская",
+    "uikName": "УИК №428",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 429,
     "uikTvd": "4644003290690",
     "tikTvd": "26420001727972",
-    "tikName": "Аткарская"
+    "tikName": "Аткарская",
+    "uikName": "УИК №429",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 430,
     "uikTvd": "4644003290691",
     "tikTvd": "26420001727972",
-    "tikName": "Аткарская"
+    "tikName": "Аткарская",
+    "uikName": "УИК №430",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 431,
     "uikTvd": "4644003290692",
     "tikTvd": "26420001727972",
-    "tikName": "Аткарская"
+    "tikName": "Аткарская",
+    "uikName": "УИК №431",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 432,
     "uikTvd": "4644003290693",
     "tikTvd": "26420001727972",
-    "tikName": "Аткарская"
+    "tikName": "Аткарская",
+    "uikName": "УИК №432",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 433,
     "uikTvd": "4644003290694",
     "tikTvd": "26420001727972",
-    "tikName": "Аткарская"
+    "tikName": "Аткарская",
+    "uikName": "УИК №433",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 434,
     "uikTvd": "4644003290695",
     "tikTvd": "26420001727972",
-    "tikName": "Аткарская"
+    "tikName": "Аткарская",
+    "uikName": "УИК №434",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 435,
     "uikTvd": "4644003290696",
     "tikTvd": "26420001727972",
-    "tikName": "Аткарская"
+    "tikName": "Аткарская",
+    "uikName": "УИК №435",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 436,
     "uikTvd": "4644003290697",
     "tikTvd": "26420001727972",
-    "tikName": "Аткарская"
+    "tikName": "Аткарская",
+    "uikName": "УИК №436",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 437,
     "uikTvd": "4644003290698",
     "tikTvd": "26420001727972",
-    "tikName": "Аткарская"
+    "tikName": "Аткарская",
+    "uikName": "УИК №437",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 438,
     "uikTvd": "4644003290699",
     "tikTvd": "26420001727972",
-    "tikName": "Аткарская"
+    "tikName": "Аткарская",
+    "uikName": "УИК №438",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 439,
     "uikTvd": "4644003290700",
     "tikTvd": "26420001727972",
-    "tikName": "Аткарская"
+    "tikName": "Аткарская",
+    "uikName": "УИК №439",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 440,
     "uikTvd": "4644003290701",
     "tikTvd": "26420001727972",
-    "tikName": "Аткарская"
+    "tikName": "Аткарская",
+    "uikName": "УИК №440",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 441,
     "uikTvd": "4644003290702",
     "tikTvd": "26420001727972",
-    "tikName": "Аткарская"
+    "tikName": "Аткарская",
+    "uikName": "УИК №441",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 442,
     "uikTvd": "4644003290703",
     "tikTvd": "26420001727972",
-    "tikName": "Аткарская"
+    "tikName": "Аткарская",
+    "uikName": "УИК №442",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 443,
     "uikTvd": "4644003290704",
     "tikTvd": "26420001727972",
-    "tikName": "Аткарская"
+    "tikName": "Аткарская",
+    "uikName": "УИК №443",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 444,
     "uikTvd": "4644003290705",
     "tikTvd": "26420001727972",
-    "tikName": "Аткарская"
+    "tikName": "Аткарская",
+    "uikName": "УИК №444",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 445,
     "uikTvd": "4644003290706",
     "tikTvd": "26420001727972",
-    "tikName": "Аткарская"
+    "tikName": "Аткарская",
+    "uikName": "УИК №445",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 446,
     "uikTvd": "4644003290707",
     "tikTvd": "26420001727972",
-    "tikName": "Аткарская"
+    "tikName": "Аткарская",
+    "uikName": "УИК №446",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 447,
     "uikTvd": "4644003290708",
     "tikTvd": "26420001727972",
-    "tikName": "Аткарская"
+    "tikName": "Аткарская",
+    "uikName": "УИК №447",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 448,
     "uikTvd": "4644003290709",
     "tikTvd": "26420001727972",
-    "tikName": "Аткарская"
+    "tikName": "Аткарская",
+    "uikName": "УИК №448",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 449,
     "uikTvd": "4644003290710",
     "tikTvd": "26420001727972",
-    "tikName": "Аткарская"
+    "tikName": "Аткарская",
+    "uikName": "УИК №449",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 450,
     "uikTvd": "4644003290711",
     "tikTvd": "26420001727972",
-    "tikName": "Аткарская"
+    "tikName": "Аткарская",
+    "uikName": "УИК №450",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 451,
     "uikTvd": "4644003290712",
     "tikTvd": "26420001727972",
-    "tikName": "Аткарская"
+    "tikName": "Аткарская",
+    "uikName": "УИК №451",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 452,
     "uikTvd": "4644003290713",
     "tikTvd": "26420001727972",
-    "tikName": "Аткарская"
+    "tikName": "Аткарская",
+    "uikName": "УИК №452",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 453,
     "uikTvd": "4644003290714",
     "tikTvd": "26420001727972",
-    "tikName": "Аткарская"
+    "tikName": "Аткарская",
+    "uikName": "УИК №453",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 454,
     "uikTvd": "4644003290715",
     "tikTvd": "26420001727972",
-    "tikName": "Аткарская"
+    "tikName": "Аткарская",
+    "uikName": "УИК №454",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 455,
     "uikTvd": "4644003290716",
     "tikTvd": "26420001727972",
-    "tikName": "Аткарская"
+    "tikName": "Аткарская",
+    "uikName": "УИК №455",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 456,
     "uikTvd": "4644003290717",
     "tikTvd": "26420001727972",
-    "tikName": "Аткарская"
+    "tikName": "Аткарская",
+    "uikName": "УИК №456",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 457,
     "uikTvd": "4644003290718",
     "tikTvd": "26420001727972",
-    "tikName": "Аткарская"
+    "tikName": "Аткарская",
+    "uikName": "УИК №457",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 458,
     "uikTvd": "4644003290719",
     "tikTvd": "26420001727972",
-    "tikName": "Аткарская"
+    "tikName": "Аткарская",
+    "uikName": "УИК №458",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 459,
     "uikTvd": "4644003290720",
     "tikTvd": "26420001727972",
-    "tikName": "Аткарская"
+    "tikName": "Аткарская",
+    "uikName": "УИК №459",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 460,
     "uikTvd": "4644003290721",
     "tikTvd": "26420001727972",
-    "tikName": "Аткарская"
+    "tikName": "Аткарская",
+    "uikName": "УИК №460",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 461,
     "uikTvd": "4644003290722",
     "tikTvd": "26420001727972",
-    "tikName": "Аткарская"
+    "tikName": "Аткарская",
+    "uikName": "УИК №461",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 462,
     "uikTvd": "4644003290723",
     "tikTvd": "26420001727972",
-    "tikName": "Аткарская"
+    "tikName": "Аткарская",
+    "uikName": "УИК №462",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 463,
     "uikTvd": "4644003290724",
     "tikTvd": "26420001727972",
-    "tikName": "Аткарская"
+    "tikName": "Аткарская",
+    "uikName": "УИК №463",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 464,
     "uikTvd": "4644004244862",
     "tikTvd": "26420001727945",
-    "tikName": "Базарно-Карабулакская"
+    "tikName": "Базарно-Карабулакская",
+    "uikName": "УИК №464",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 465,
     "uikTvd": "4644004244864",
     "tikTvd": "26420001727945",
-    "tikName": "Базарно-Карабулакская"
+    "tikName": "Базарно-Карабулакская",
+    "uikName": "УИК №465",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 466,
     "uikTvd": "4644004244865",
     "tikTvd": "26420001727945",
-    "tikName": "Базарно-Карабулакская"
+    "tikName": "Базарно-Карабулакская",
+    "uikName": "УИК №466",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 467,
     "uikTvd": "4644004244866",
     "tikTvd": "26420001727945",
-    "tikName": "Базарно-Карабулакская"
+    "tikName": "Базарно-Карабулакская",
+    "uikName": "УИК №467",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 468,
     "uikTvd": "4644004244867",
     "tikTvd": "26420001727945",
-    "tikName": "Базарно-Карабулакская"
+    "tikName": "Базарно-Карабулакская",
+    "uikName": "УИК №468",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 469,
     "uikTvd": "4644004244868",
     "tikTvd": "26420001727945",
-    "tikName": "Базарно-Карабулакская"
+    "tikName": "Базарно-Карабулакская",
+    "uikName": "УИК №469",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 470,
     "uikTvd": "4644004244869",
     "tikTvd": "26420001727945",
-    "tikName": "Базарно-Карабулакская"
+    "tikName": "Базарно-Карабулакская",
+    "uikName": "УИК №470",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 471,
     "uikTvd": "4644004244870",
     "tikTvd": "26420001727945",
-    "tikName": "Базарно-Карабулакская"
+    "tikName": "Базарно-Карабулакская",
+    "uikName": "УИК №471",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 472,
     "uikTvd": "4644004244871",
     "tikTvd": "26420001727945",
-    "tikName": "Базарно-Карабулакская"
+    "tikName": "Базарно-Карабулакская",
+    "uikName": "УИК №472",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 473,
     "uikTvd": "4644004244872",
     "tikTvd": "26420001727945",
-    "tikName": "Базарно-Карабулакская"
+    "tikName": "Базарно-Карабулакская",
+    "uikName": "УИК №473",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 474,
     "uikTvd": "4644004244873",
     "tikTvd": "26420001727945",
-    "tikName": "Базарно-Карабулакская"
+    "tikName": "Базарно-Карабулакская",
+    "uikName": "УИК №474",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 475,
     "uikTvd": "4644004244874",
     "tikTvd": "26420001727945",
-    "tikName": "Базарно-Карабулакская"
+    "tikName": "Базарно-Карабулакская",
+    "uikName": "УИК №475",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 476,
     "uikTvd": "4644004244875",
     "tikTvd": "26420001727945",
-    "tikName": "Базарно-Карабулакская"
+    "tikName": "Базарно-Карабулакская",
+    "uikName": "УИК №476",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 477,
     "uikTvd": "4644004244876",
     "tikTvd": "26420001727945",
-    "tikName": "Базарно-Карабулакская"
+    "tikName": "Базарно-Карабулакская",
+    "uikName": "УИК №477",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 478,
     "uikTvd": "4644004244877",
     "tikTvd": "26420001727945",
-    "tikName": "Базарно-Карабулакская"
+    "tikName": "Базарно-Карабулакская",
+    "uikName": "УИК №478",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 479,
     "uikTvd": "4644004244878",
     "tikTvd": "26420001727945",
-    "tikName": "Базарно-Карабулакская"
+    "tikName": "Базарно-Карабулакская",
+    "uikName": "УИК №479",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 480,
     "uikTvd": "4644004244879",
     "tikTvd": "26420001727945",
-    "tikName": "Базарно-Карабулакская"
+    "tikName": "Базарно-Карабулакская",
+    "uikName": "УИК №480",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 481,
     "uikTvd": "4644004244880",
     "tikTvd": "26420001727945",
-    "tikName": "Базарно-Карабулакская"
+    "tikName": "Базарно-Карабулакская",
+    "uikName": "УИК №481",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 482,
     "uikTvd": "4644004244881",
     "tikTvd": "26420001727945",
-    "tikName": "Базарно-Карабулакская"
+    "tikName": "Базарно-Карабулакская",
+    "uikName": "УИК №482",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 483,
     "uikTvd": "4644004244882",
     "tikTvd": "26420001727945",
-    "tikName": "Базарно-Карабулакская"
+    "tikName": "Базарно-Карабулакская",
+    "uikName": "УИК №483",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 484,
     "uikTvd": "4644004244883",
     "tikTvd": "26420001727945",
-    "tikName": "Базарно-Карабулакская"
+    "tikName": "Базарно-Карабулакская",
+    "uikName": "УИК №484",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 485,
     "uikTvd": "4644004244884",
     "tikTvd": "26420001727945",
-    "tikName": "Базарно-Карабулакская"
+    "tikName": "Базарно-Карабулакская",
+    "uikName": "УИК №485",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 486,
     "uikTvd": "4644004244885",
     "tikTvd": "26420001727945",
-    "tikName": "Базарно-Карабулакская"
+    "tikName": "Базарно-Карабулакская",
+    "uikName": "УИК №486",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 487,
     "uikTvd": "4644004244886",
     "tikTvd": "26420001727945",
-    "tikName": "Базарно-Карабулакская"
+    "tikName": "Базарно-Карабулакская",
+    "uikName": "УИК №487",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 488,
     "uikTvd": "4644004244887",
     "tikTvd": "26420001727945",
-    "tikName": "Базарно-Карабулакская"
+    "tikName": "Базарно-Карабулакская",
+    "uikName": "УИК №488",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 489,
     "uikTvd": "4644004244888",
     "tikTvd": "26420001727945",
-    "tikName": "Базарно-Карабулакская"
+    "tikName": "Базарно-Карабулакская",
+    "uikName": "УИК №489",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 490,
     "uikTvd": "4644004244889",
     "tikTvd": "26420001727945",
-    "tikName": "Базарно-Карабулакская"
+    "tikName": "Базарно-Карабулакская",
+    "uikName": "УИК №490",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 491,
     "uikTvd": "4644004244890",
     "tikTvd": "26420001727945",
-    "tikName": "Базарно-Карабулакская"
+    "tikName": "Базарно-Карабулакская",
+    "uikName": "УИК №491",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 492,
     "uikTvd": "4644004244891",
     "tikTvd": "26420001727945",
-    "tikName": "Базарно-Карабулакская"
+    "tikName": "Базарно-Карабулакская",
+    "uikName": "УИК №492",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 493,
     "uikTvd": "4644004244892",
     "tikTvd": "26420001727945",
-    "tikName": "Базарно-Карабулакская"
+    "tikName": "Базарно-Карабулакская",
+    "uikName": "УИК №493",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 494,
     "uikTvd": "4644005576061",
     "tikTvd": "26420001727960",
-    "tikName": "Балаковская"
+    "tikName": "Балаковская",
+    "uikName": "УИК №494",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 495,
     "uikTvd": "4644005576062",
     "tikTvd": "26420001727960",
-    "tikName": "Балаковская"
+    "tikName": "Балаковская",
+    "uikName": "УИК №495",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 496,
     "uikTvd": "4644005576063",
     "tikTvd": "26420001727960",
-    "tikName": "Балаковская"
+    "tikName": "Балаковская",
+    "uikName": "УИК №496",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 497,
     "uikTvd": "4644005576064",
     "tikTvd": "26420001727960",
-    "tikName": "Балаковская"
+    "tikName": "Балаковская",
+    "uikName": "УИК №497",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 498,
     "uikTvd": "4644005576065",
     "tikTvd": "26420001727960",
-    "tikName": "Балаковская"
+    "tikName": "Балаковская",
+    "uikName": "УИК №498",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 499,
     "uikTvd": "4644005576066",
     "tikTvd": "26420001727960",
-    "tikName": "Балаковская"
+    "tikName": "Балаковская",
+    "uikName": "УИК №499",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 500,
     "uikTvd": "4644005576067",
     "tikTvd": "26420001727960",
-    "tikName": "Балаковская"
+    "tikName": "Балаковская",
+    "uikName": "УИК №500",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 501,
     "uikTvd": "4644005576068",
     "tikTvd": "26420001727960",
-    "tikName": "Балаковская"
+    "tikName": "Балаковская",
+    "uikName": "УИК №501",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 502,
     "uikTvd": "4644005576069",
     "tikTvd": "26420001727960",
-    "tikName": "Балаковская"
+    "tikName": "Балаковская",
+    "uikName": "УИК №502",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 503,
     "uikTvd": "4644005576070",
     "tikTvd": "26420001727960",
-    "tikName": "Балаковская"
+    "tikName": "Балаковская",
+    "uikName": "УИК №503",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 504,
     "uikTvd": "4644005576071",
     "tikTvd": "26420001727960",
-    "tikName": "Балаковская"
+    "tikName": "Балаковская",
+    "uikName": "УИК №504",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 505,
     "uikTvd": "4644005576072",
     "tikTvd": "26420001727960",
-    "tikName": "Балаковская"
+    "tikName": "Балаковская",
+    "uikName": "УИК №505",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 506,
     "uikTvd": "4644005576073",
     "tikTvd": "26420001727960",
-    "tikName": "Балаковская"
+    "tikName": "Балаковская",
+    "uikName": "УИК №506",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 507,
     "uikTvd": "4644005576074",
     "tikTvd": "26420001727960",
-    "tikName": "Балаковская"
+    "tikName": "Балаковская",
+    "uikName": "УИК №507",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 508,
     "uikTvd": "4644005576075",
     "tikTvd": "26420001727960",
-    "tikName": "Балаковская"
+    "tikName": "Балаковская",
+    "uikName": "УИК №508",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 509,
     "uikTvd": "4644005576076",
     "tikTvd": "26420001727960",
-    "tikName": "Балаковская"
+    "tikName": "Балаковская",
+    "uikName": "УИК №509",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 510,
     "uikTvd": "4644005576077",
     "tikTvd": "26420001727960",
-    "tikName": "Балаковская"
+    "tikName": "Балаковская",
+    "uikName": "УИК №510",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 511,
     "uikTvd": "4644005576078",
     "tikTvd": "26420001727960",
-    "tikName": "Балаковская"
+    "tikName": "Балаковская",
+    "uikName": "УИК №511",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 512,
     "uikTvd": "4644005576079",
     "tikTvd": "26420001727960",
-    "tikName": "Балаковская"
+    "tikName": "Балаковская",
+    "uikName": "УИК №512",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 513,
     "uikTvd": "4644005576080",
     "tikTvd": "26420001727960",
-    "tikName": "Балаковская"
+    "tikName": "Балаковская",
+    "uikName": "УИК №513",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 514,
     "uikTvd": "4644005576081",
     "tikTvd": "26420001727960",
-    "tikName": "Балаковская"
+    "tikName": "Балаковская",
+    "uikName": "УИК №514",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 515,
     "uikTvd": "4644005576082",
     "tikTvd": "26420001727960",
-    "tikName": "Балаковская"
+    "tikName": "Балаковская",
+    "uikName": "УИК №515",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 516,
     "uikTvd": "4644005576083",
     "tikTvd": "26420001727960",
-    "tikName": "Балаковская"
+    "tikName": "Балаковская",
+    "uikName": "УИК №516",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 517,
     "uikTvd": "4644005576084",
     "tikTvd": "26420001727960",
-    "tikName": "Балаковская"
+    "tikName": "Балаковская",
+    "uikName": "УИК №517",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 518,
     "uikTvd": "4644005576085",
     "tikTvd": "26420001727960",
-    "tikName": "Балаковская"
+    "tikName": "Балаковская",
+    "uikName": "УИК №518",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 519,
     "uikTvd": "4644005576086",
     "tikTvd": "26420001727960",
-    "tikName": "Балаковская"
+    "tikName": "Балаковская",
+    "uikName": "УИК №519",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 520,
     "uikTvd": "4644005576087",
     "tikTvd": "26420001727960",
-    "tikName": "Балаковская"
+    "tikName": "Балаковская",
+    "uikName": "УИК №520",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 521,
     "uikTvd": "4644005576088",
     "tikTvd": "26420001727960",
-    "tikName": "Балаковская"
+    "tikName": "Балаковская",
+    "uikName": "УИК №521",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 522,
     "uikTvd": "4644005576089",
     "tikTvd": "26420001727960",
-    "tikName": "Балаковская"
+    "tikName": "Балаковская",
+    "uikName": "УИК №522",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 523,
     "uikTvd": "4644005576090",
     "tikTvd": "26420001727960",
-    "tikName": "Балаковская"
+    "tikName": "Балаковская",
+    "uikName": "УИК №523",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 524,
     "uikTvd": "4644005576091",
     "tikTvd": "26420001727960",
-    "tikName": "Балаковская"
+    "tikName": "Балаковская",
+    "uikName": "УИК №524",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 525,
     "uikTvd": "4644005576092",
     "tikTvd": "26420001727960",
-    "tikName": "Балаковская"
+    "tikName": "Балаковская",
+    "uikName": "УИК №525",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 526,
     "uikTvd": "4644005576093",
     "tikTvd": "26420001727960",
-    "tikName": "Балаковская"
+    "tikName": "Балаковская",
+    "uikName": "УИК №526",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 527,
     "uikTvd": "4644005576094",
     "tikTvd": "26420001727960",
-    "tikName": "Балаковская"
+    "tikName": "Балаковская",
+    "uikName": "УИК №527",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 528,
     "uikTvd": "4644005576095",
     "tikTvd": "26420001727960",
-    "tikName": "Балаковская"
+    "tikName": "Балаковская",
+    "uikName": "УИК №528",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 529,
     "uikTvd": "4644005576096",
     "tikTvd": "26420001727960",
-    "tikName": "Балаковская"
+    "tikName": "Балаковская",
+    "uikName": "УИК №529",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 530,
     "uikTvd": "4644005576097",
     "tikTvd": "26420001727960",
-    "tikName": "Балаковская"
+    "tikName": "Балаковская",
+    "uikName": "УИК №530",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 531,
     "uikTvd": "4644005576098",
     "tikTvd": "26420001727960",
-    "tikName": "Балаковская"
+    "tikName": "Балаковская",
+    "uikName": "УИК №531",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 532,
     "uikTvd": "4644005576099",
     "tikTvd": "26420001727960",
-    "tikName": "Балаковская"
+    "tikName": "Балаковская",
+    "uikName": "УИК №532",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 533,
     "uikTvd": "4644005576100",
     "tikTvd": "26420001727960",
-    "tikName": "Балаковская"
+    "tikName": "Балаковская",
+    "uikName": "УИК №533",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 534,
     "uikTvd": "4644005576101",
     "tikTvd": "26420001727960",
-    "tikName": "Балаковская"
+    "tikName": "Балаковская",
+    "uikName": "УИК №534",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 535,
     "uikTvd": "4644005576102",
     "tikTvd": "26420001727960",
-    "tikName": "Балаковская"
+    "tikName": "Балаковская",
+    "uikName": "УИК №535",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 536,
     "uikTvd": "4644005576103",
     "tikTvd": "26420001727960",
-    "tikName": "Балаковская"
+    "tikName": "Балаковская",
+    "uikName": "УИК №536",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 537,
     "uikTvd": "4644005576104",
     "tikTvd": "26420001727960",
-    "tikName": "Балаковская"
+    "tikName": "Балаковская",
+    "uikName": "УИК №537",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 538,
     "uikTvd": "4644005576105",
     "tikTvd": "26420001727960",
-    "tikName": "Балаковская"
+    "tikName": "Балаковская",
+    "uikName": "УИК №538",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 539,
     "uikTvd": "4644005576106",
     "tikTvd": "26420001727960",
-    "tikName": "Балаковская"
+    "tikName": "Балаковская",
+    "uikName": "УИК №539",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 540,
     "uikTvd": "4644005576107",
     "tikTvd": "26420001727960",
-    "tikName": "Балаковская"
+    "tikName": "Балаковская",
+    "uikName": "УИК №540",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 541,
     "uikTvd": "4644005576108",
     "tikTvd": "26420001727960",
-    "tikName": "Балаковская"
+    "tikName": "Балаковская",
+    "uikName": "УИК №541",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 542,
     "uikTvd": "4644005576109",
     "tikTvd": "26420001727960",
-    "tikName": "Балаковская"
+    "tikName": "Балаковская",
+    "uikName": "УИК №542",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 543,
     "uikTvd": "4644005576110",
     "tikTvd": "26420001727960",
-    "tikName": "Балаковская"
+    "tikName": "Балаковская",
+    "uikName": "УИК №543",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 544,
     "uikTvd": "4644005576111",
     "tikTvd": "26420001727960",
-    "tikName": "Балаковская"
+    "tikName": "Балаковская",
+    "uikName": "УИК №544",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 545,
     "uikTvd": "4644005576112",
     "tikTvd": "26420001727960",
-    "tikName": "Балаковская"
+    "tikName": "Балаковская",
+    "uikName": "УИК №545",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 546,
     "uikTvd": "4644005576113",
     "tikTvd": "26420001727960",
-    "tikName": "Балаковская"
+    "tikName": "Балаковская",
+    "uikName": "УИК №546",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 547,
     "uikTvd": "4644005576114",
     "tikTvd": "26420001727960",
-    "tikName": "Балаковская"
+    "tikName": "Балаковская",
+    "uikName": "УИК №547",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 548,
     "uikTvd": "4644005576115",
     "tikTvd": "26420001727960",
-    "tikName": "Балаковская"
+    "tikName": "Балаковская",
+    "uikName": "УИК №548",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 549,
     "uikTvd": "4644005576116",
     "tikTvd": "26420001727960",
-    "tikName": "Балаковская"
+    "tikName": "Балаковская",
+    "uikName": "УИК №549",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 550,
     "uikTvd": "4644005576117",
     "tikTvd": "26420001727960",
-    "tikName": "Балаковская"
+    "tikName": "Балаковская",
+    "uikName": "УИК №550",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 551,
     "uikTvd": "4644005576118",
     "tikTvd": "26420001727960",
-    "tikName": "Балаковская"
+    "tikName": "Балаковская",
+    "uikName": "УИК №551",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 552,
     "uikTvd": "4644005576119",
     "tikTvd": "26420001727960",
-    "tikName": "Балаковская"
+    "tikName": "Балаковская",
+    "uikName": "УИК №552",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 553,
     "uikTvd": "4644005576120",
     "tikTvd": "26420001727960",
-    "tikName": "Балаковская"
+    "tikName": "Балаковская",
+    "uikName": "УИК №553",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 554,
     "uikTvd": "4644005576121",
     "tikTvd": "26420001727960",
-    "tikName": "Балаковская"
+    "tikName": "Балаковская",
+    "uikName": "УИК №554",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 555,
     "uikTvd": "4644005576122",
     "tikTvd": "26420001727960",
-    "tikName": "Балаковская"
+    "tikName": "Балаковская",
+    "uikName": "УИК №555",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 556,
     "uikTvd": "4644005576123",
     "tikTvd": "26420001727960",
-    "tikName": "Балаковская"
+    "tikName": "Балаковская",
+    "uikName": "УИК №556",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 557,
     "uikTvd": "4644005576124",
     "tikTvd": "26420001727960",
-    "tikName": "Балаковская"
+    "tikName": "Балаковская",
+    "uikName": "УИК №557",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 558,
     "uikTvd": "4644005576125",
     "tikTvd": "26420001727960",
-    "tikName": "Балаковская"
+    "tikName": "Балаковская",
+    "uikName": "УИК №558",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 559,
     "uikTvd": "4644005576126",
     "tikTvd": "26420001727960",
-    "tikName": "Балаковская"
+    "tikName": "Балаковская",
+    "uikName": "УИК №559",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 560,
     "uikTvd": "4644005576127",
     "tikTvd": "26420001727960",
-    "tikName": "Балаковская"
+    "tikName": "Балаковская",
+    "uikName": "УИК №560",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 561,
     "uikTvd": "4644005576128",
     "tikTvd": "26420001727960",
-    "tikName": "Балаковская"
+    "tikName": "Балаковская",
+    "uikName": "УИК №561",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 562,
     "uikTvd": "4644005576129",
     "tikTvd": "26420001727960",
-    "tikName": "Балаковская"
+    "tikName": "Балаковская",
+    "uikName": "УИК №562",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 563,
     "uikTvd": "4644005576130",
     "tikTvd": "26420001727960",
-    "tikName": "Балаковская"
+    "tikName": "Балаковская",
+    "uikName": "УИК №563",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 564,
     "uikTvd": "4644005576131",
     "tikTvd": "26420001727960",
-    "tikName": "Балаковская"
+    "tikName": "Балаковская",
+    "uikName": "УИК №564",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 565,
     "uikTvd": "4644005576132",
     "tikTvd": "26420001727960",
-    "tikName": "Балаковская"
+    "tikName": "Балаковская",
+    "uikName": "УИК №565",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 566,
     "uikTvd": "4644005576133",
     "tikTvd": "26420001727960",
-    "tikName": "Балаковская"
+    "tikName": "Балаковская",
+    "uikName": "УИК №566",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 567,
     "uikTvd": "4644005576134",
     "tikTvd": "26420001727960",
-    "tikName": "Балаковская"
+    "tikName": "Балаковская",
+    "uikName": "УИК №567",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 568,
     "uikTvd": "4644005576135",
     "tikTvd": "26420001727960",
-    "tikName": "Балаковская"
+    "tikName": "Балаковская",
+    "uikName": "УИК №568",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 569,
     "uikTvd": "4644005576136",
     "tikTvd": "26420001727960",
-    "tikName": "Балаковская"
+    "tikName": "Балаковская",
+    "uikName": "УИК №569",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 570,
     "uikTvd": "4644005576137",
     "tikTvd": "26420001727960",
-    "tikName": "Балаковская"
+    "tikName": "Балаковская",
+    "uikName": "УИК №570",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 571,
     "uikTvd": "4644005576138",
     "tikTvd": "26420001727960",
-    "tikName": "Балаковская"
+    "tikName": "Балаковская",
+    "uikName": "УИК №571",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 572,
     "uikTvd": "4644005576139",
     "tikTvd": "26420001727960",
-    "tikName": "Балаковская"
+    "tikName": "Балаковская",
+    "uikName": "УИК №572",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 573,
     "uikTvd": "4644005576140",
     "tikTvd": "26420001727960",
-    "tikName": "Балаковская"
+    "tikName": "Балаковская",
+    "uikName": "УИК №573",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 576,
     "uikTvd": "4644005576141",
     "tikTvd": "26420001727960",
-    "tikName": "Балаковская"
+    "tikName": "Балаковская",
+    "uikName": "УИК №576",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 577,
     "uikTvd": "4644005576142",
     "tikTvd": "26420001727960",
-    "tikName": "Балаковская"
+    "tikName": "Балаковская",
+    "uikName": "УИК №577",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 578,
     "uikTvd": "4644005576143",
     "tikTvd": "26420001727960",
-    "tikName": "Балаковская"
+    "tikName": "Балаковская",
+    "uikName": "УИК №578",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 579,
     "uikTvd": "4644005576144",
     "tikTvd": "26420001727960",
-    "tikName": "Балаковская"
+    "tikName": "Балаковская",
+    "uikName": "УИК №579",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 580,
     "uikTvd": "4644005576145",
     "tikTvd": "26420001727960",
-    "tikName": "Балаковская"
+    "tikName": "Балаковская",
+    "uikName": "УИК №580",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 581,
     "uikTvd": "4644005576146",
     "tikTvd": "26420001727960",
-    "tikName": "Балаковская"
+    "tikName": "Балаковская",
+    "uikName": "УИК №581",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 582,
     "uikTvd": "4644005576147",
     "tikTvd": "26420001727960",
-    "tikName": "Балаковская"
+    "tikName": "Балаковская",
+    "uikName": "УИК №582",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 583,
     "uikTvd": "4644005576148",
     "tikTvd": "26420001727960",
-    "tikName": "Балаковская"
+    "tikName": "Балаковская",
+    "uikName": "УИК №583",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 584,
     "uikTvd": "4644005576149",
     "tikTvd": "26420001727960",
-    "tikName": "Балаковская"
+    "tikName": "Балаковская",
+    "uikName": "УИК №584",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 586,
     "uikTvd": "4644005576150",
     "tikTvd": "26420001727960",
-    "tikName": "Балаковская"
+    "tikName": "Балаковская",
+    "uikName": "УИК №586",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 587,
     "uikTvd": "4644005576151",
     "tikTvd": "26420001727960",
-    "tikName": "Балаковская"
+    "tikName": "Балаковская",
+    "uikName": "УИК №587",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 588,
     "uikTvd": "4644005576152",
     "tikTvd": "26420001727960",
-    "tikName": "Балаковская"
+    "tikName": "Балаковская",
+    "uikName": "УИК №588",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 589,
     "uikTvd": "4644005576153",
     "tikTvd": "26420001727960",
-    "tikName": "Балаковская"
+    "tikName": "Балаковская",
+    "uikName": "УИК №589",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 590,
     "uikTvd": "4644005576154",
     "tikTvd": "26420001727960",
-    "tikName": "Балаковская"
+    "tikName": "Балаковская",
+    "uikName": "УИК №590",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 591,
     "uikTvd": "4644005576155",
     "tikTvd": "26420001727960",
-    "tikName": "Балаковская"
+    "tikName": "Балаковская",
+    "uikName": "УИК №591",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 593,
     "uikTvd": "4644005576156",
     "tikTvd": "26420001727960",
-    "tikName": "Балаковская"
+    "tikName": "Балаковская",
+    "uikName": "УИК №593",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 594,
     "uikTvd": "4644005576157",
     "tikTvd": "26420001727960",
-    "tikName": "Балаковская"
+    "tikName": "Балаковская",
+    "uikName": "УИК №594",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 595,
     "uikTvd": "4644005576158",
     "tikTvd": "26420001727960",
-    "tikName": "Балаковская"
+    "tikName": "Балаковская",
+    "uikName": "УИК №595",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 596,
     "uikTvd": "4644006484826",
     "tikTvd": "26420001727971",
-    "tikName": "Балашовская"
+    "tikName": "Балашовская",
+    "uikName": "УИК №596",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 597,
     "uikTvd": "4644006484827",
     "tikTvd": "26420001727971",
-    "tikName": "Балашовская"
+    "tikName": "Балашовская",
+    "uikName": "УИК №597",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 598,
     "uikTvd": "4644006484828",
     "tikTvd": "26420001727971",
-    "tikName": "Балашовская"
+    "tikName": "Балашовская",
+    "uikName": "УИК №598",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 599,
     "uikTvd": "4644006484829",
     "tikTvd": "26420001727971",
-    "tikName": "Балашовская"
+    "tikName": "Балашовская",
+    "uikName": "УИК №599",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 600,
     "uikTvd": "4644006484830",
     "tikTvd": "26420001727971",
-    "tikName": "Балашовская"
+    "tikName": "Балашовская",
+    "uikName": "УИК №600",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 601,
     "uikTvd": "4644006484831",
     "tikTvd": "26420001727971",
-    "tikName": "Балашовская"
+    "tikName": "Балашовская",
+    "uikName": "УИК №601",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 602,
     "uikTvd": "4644006484832",
     "tikTvd": "26420001727971",
-    "tikName": "Балашовская"
+    "tikName": "Балашовская",
+    "uikName": "УИК №602",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 603,
     "uikTvd": "4644006484833",
     "tikTvd": "26420001727971",
-    "tikName": "Балашовская"
+    "tikName": "Балашовская",
+    "uikName": "УИК №603",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 604,
     "uikTvd": "4644006484834",
     "tikTvd": "26420001727971",
-    "tikName": "Балашовская"
+    "tikName": "Балашовская",
+    "uikName": "УИК №604",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 605,
     "uikTvd": "4644006484835",
     "tikTvd": "26420001727971",
-    "tikName": "Балашовская"
+    "tikName": "Балашовская",
+    "uikName": "УИК №605",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 606,
     "uikTvd": "4644006484836",
     "tikTvd": "26420001727971",
-    "tikName": "Балашовская"
+    "tikName": "Балашовская",
+    "uikName": "УИК №606",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 607,
     "uikTvd": "4644006484837",
     "tikTvd": "26420001727971",
-    "tikName": "Балашовская"
+    "tikName": "Балашовская",
+    "uikName": "УИК №607",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 608,
     "uikTvd": "4644006484838",
     "tikTvd": "26420001727971",
-    "tikName": "Балашовская"
+    "tikName": "Балашовская",
+    "uikName": "УИК №608",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 609,
     "uikTvd": "4644006484839",
     "tikTvd": "26420001727971",
-    "tikName": "Балашовская"
+    "tikName": "Балашовская",
+    "uikName": "УИК №609",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 610,
     "uikTvd": "4644006484840",
     "tikTvd": "26420001727971",
-    "tikName": "Балашовская"
+    "tikName": "Балашовская",
+    "uikName": "УИК №610",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 611,
     "uikTvd": "4644006484841",
     "tikTvd": "26420001727971",
-    "tikName": "Балашовская"
+    "tikName": "Балашовская",
+    "uikName": "УИК №611",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 612,
     "uikTvd": "4644006484842",
     "tikTvd": "26420001727971",
-    "tikName": "Балашовская"
+    "tikName": "Балашовская",
+    "uikName": "УИК №612",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 613,
     "uikTvd": "4644006484843",
     "tikTvd": "26420001727971",
-    "tikName": "Балашовская"
+    "tikName": "Балашовская",
+    "uikName": "УИК №613",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 614,
     "uikTvd": "4644006484844",
     "tikTvd": "26420001727971",
-    "tikName": "Балашовская"
+    "tikName": "Балашовская",
+    "uikName": "УИК №614",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 615,
     "uikTvd": "4644006484845",
     "tikTvd": "26420001727971",
-    "tikName": "Балашовская"
+    "tikName": "Балашовская",
+    "uikName": "УИК №615",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 616,
     "uikTvd": "4644006484846",
     "tikTvd": "26420001727971",
-    "tikName": "Балашовская"
+    "tikName": "Балашовская",
+    "uikName": "УИК №616",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 617,
     "uikTvd": "4644006484847",
     "tikTvd": "26420001727971",
-    "tikName": "Балашовская"
+    "tikName": "Балашовская",
+    "uikName": "УИК №617",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 618,
     "uikTvd": "4644006484848",
     "tikTvd": "26420001727971",
-    "tikName": "Балашовская"
+    "tikName": "Балашовская",
+    "uikName": "УИК №618",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 619,
     "uikTvd": "4644006484849",
     "tikTvd": "26420001727971",
-    "tikName": "Балашовская"
+    "tikName": "Балашовская",
+    "uikName": "УИК №619",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 620,
     "uikTvd": "4644006484850",
     "tikTvd": "26420001727971",
-    "tikName": "Балашовская"
+    "tikName": "Балашовская",
+    "uikName": "УИК №620",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 621,
     "uikTvd": "4644006484851",
     "tikTvd": "26420001727971",
-    "tikName": "Балашовская"
+    "tikName": "Балашовская",
+    "uikName": "УИК №621",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 622,
     "uikTvd": "4644006484852",
     "tikTvd": "26420001727971",
-    "tikName": "Балашовская"
+    "tikName": "Балашовская",
+    "uikName": "УИК №622",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 623,
     "uikTvd": "4644006484853",
     "tikTvd": "26420001727971",
-    "tikName": "Балашовская"
+    "tikName": "Балашовская",
+    "uikName": "УИК №623",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 624,
     "uikTvd": "4644006484854",
     "tikTvd": "26420001727971",
-    "tikName": "Балашовская"
+    "tikName": "Балашовская",
+    "uikName": "УИК №624",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 625,
     "uikTvd": "4644006484855",
     "tikTvd": "26420001727971",
-    "tikName": "Балашовская"
+    "tikName": "Балашовская",
+    "uikName": "УИК №625",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 626,
     "uikTvd": "4644006484856",
     "tikTvd": "26420001727971",
-    "tikName": "Балашовская"
+    "tikName": "Балашовская",
+    "uikName": "УИК №626",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 627,
     "uikTvd": "4644006484857",
     "tikTvd": "26420001727971",
-    "tikName": "Балашовская"
+    "tikName": "Балашовская",
+    "uikName": "УИК №627",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 628,
     "uikTvd": "4644006484858",
     "tikTvd": "26420001727971",
-    "tikName": "Балашовская"
+    "tikName": "Балашовская",
+    "uikName": "УИК №628",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 629,
     "uikTvd": "4644006484859",
     "tikTvd": "26420001727971",
-    "tikName": "Балашовская"
+    "tikName": "Балашовская",
+    "uikName": "УИК №629",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 630,
     "uikTvd": "4644006484860",
     "tikTvd": "26420001727971",
-    "tikName": "Балашовская"
+    "tikName": "Балашовская",
+    "uikName": "УИК №630",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 631,
     "uikTvd": "4644006484861",
     "tikTvd": "26420001727971",
-    "tikName": "Балашовская"
+    "tikName": "Балашовская",
+    "uikName": "УИК №631",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 632,
     "uikTvd": "4644006484862",
     "tikTvd": "26420001727971",
-    "tikName": "Балашовская"
+    "tikName": "Балашовская",
+    "uikName": "УИК №632",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 633,
     "uikTvd": "4644006484863",
     "tikTvd": "26420001727971",
-    "tikName": "Балашовская"
+    "tikName": "Балашовская",
+    "uikName": "УИК №633",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 634,
     "uikTvd": "4644006484864",
     "tikTvd": "26420001727971",
-    "tikName": "Балашовская"
+    "tikName": "Балашовская",
+    "uikName": "УИК №634",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 635,
     "uikTvd": "4644006484865",
     "tikTvd": "26420001727971",
-    "tikName": "Балашовская"
+    "tikName": "Балашовская",
+    "uikName": "УИК №635",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 636,
     "uikTvd": "4644006484866",
     "tikTvd": "26420001727971",
-    "tikName": "Балашовская"
+    "tikName": "Балашовская",
+    "uikName": "УИК №636",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 637,
     "uikTvd": "4644006484867",
     "tikTvd": "26420001727971",
-    "tikName": "Балашовская"
+    "tikName": "Балашовская",
+    "uikName": "УИК №637",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 638,
     "uikTvd": "4644006484868",
     "tikTvd": "26420001727971",
-    "tikName": "Балашовская"
+    "tikName": "Балашовская",
+    "uikName": "УИК №638",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 639,
     "uikTvd": "4644006484869",
     "tikTvd": "26420001727971",
-    "tikName": "Балашовская"
+    "tikName": "Балашовская",
+    "uikName": "УИК №639",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 640,
     "uikTvd": "4644006484870",
     "tikTvd": "26420001727971",
-    "tikName": "Балашовская"
+    "tikName": "Балашовская",
+    "uikName": "УИК №640",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 641,
     "uikTvd": "4644006484871",
     "tikTvd": "26420001727971",
-    "tikName": "Балашовская"
+    "tikName": "Балашовская",
+    "uikName": "УИК №641",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 642,
     "uikTvd": "4644006484872",
     "tikTvd": "26420001727971",
-    "tikName": "Балашовская"
+    "tikName": "Балашовская",
+    "uikName": "УИК №642",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 643,
     "uikTvd": "4644006484873",
     "tikTvd": "26420001727971",
-    "tikName": "Балашовская"
+    "tikName": "Балашовская",
+    "uikName": "УИК №643",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 644,
     "uikTvd": "4644006484874",
     "tikTvd": "26420001727971",
-    "tikName": "Балашовская"
+    "tikName": "Балашовская",
+    "uikName": "УИК №644",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 645,
     "uikTvd": "4644006484875",
     "tikTvd": "26420001727971",
-    "tikName": "Балашовская"
+    "tikName": "Балашовская",
+    "uikName": "УИК №645",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 646,
     "uikTvd": "4644006484876",
     "tikTvd": "26420001727971",
-    "tikName": "Балашовская"
+    "tikName": "Балашовская",
+    "uikName": "УИК №646",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 647,
     "uikTvd": "4644006484877",
     "tikTvd": "26420001727971",
-    "tikName": "Балашовская"
+    "tikName": "Балашовская",
+    "uikName": "УИК №647",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 648,
     "uikTvd": "4644006484878",
     "tikTvd": "26420001727971",
-    "tikName": "Балашовская"
+    "tikName": "Балашовская",
+    "uikName": "УИК №648",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 649,
     "uikTvd": "4644006484879",
     "tikTvd": "26420001727971",
-    "tikName": "Балашовская"
+    "tikName": "Балашовская",
+    "uikName": "УИК №649",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 650,
     "uikTvd": "4644006484880",
     "tikTvd": "26420001727971",
-    "tikName": "Балашовская"
+    "tikName": "Балашовская",
+    "uikName": "УИК №650",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 651,
     "uikTvd": "4644006484881",
     "tikTvd": "26420001727971",
-    "tikName": "Балашовская"
+    "tikName": "Балашовская",
+    "uikName": "УИК №651",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 652,
     "uikTvd": "4644006484882",
     "tikTvd": "26420001727971",
-    "tikName": "Балашовская"
+    "tikName": "Балашовская",
+    "uikName": "УИК №652",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 653,
     "uikTvd": "4644006484883",
     "tikTvd": "26420001727971",
-    "tikName": "Балашовская"
+    "tikName": "Балашовская",
+    "uikName": "УИК №653",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 654,
     "uikTvd": "4644006484884",
     "tikTvd": "26420001727971",
-    "tikName": "Балашовская"
+    "tikName": "Балашовская",
+    "uikName": "УИК №654",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 655,
     "uikTvd": "4644006484885",
     "tikTvd": "26420001727971",
-    "tikName": "Балашовская"
+    "tikName": "Балашовская",
+    "uikName": "УИК №655",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 656,
     "uikTvd": "4644006484886",
     "tikTvd": "26420001727971",
-    "tikName": "Балашовская"
+    "tikName": "Балашовская",
+    "uikName": "УИК №656",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 657,
     "uikTvd": "4644006484887",
     "tikTvd": "26420001727971",
-    "tikName": "Балашовская"
+    "tikName": "Балашовская",
+    "uikName": "УИК №657",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 658,
     "uikTvd": "4644006484888",
     "tikTvd": "26420001727971",
-    "tikName": "Балашовская"
+    "tikName": "Балашовская",
+    "uikName": "УИК №658",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 659,
     "uikTvd": "4644006484889",
     "tikTvd": "26420001727971",
-    "tikName": "Балашовская"
+    "tikName": "Балашовская",
+    "uikName": "УИК №659",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 660,
     "uikTvd": "4644006484890",
     "tikTvd": "26420001727971",
-    "tikName": "Балашовская"
+    "tikName": "Балашовская",
+    "uikName": "УИК №660",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 661,
     "uikTvd": "4644006484891",
     "tikTvd": "26420001727971",
-    "tikName": "Балашовская"
+    "tikName": "Балашовская",
+    "uikName": "УИК №661",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 662,
     "uikTvd": "4644006484892",
     "tikTvd": "26420001727971",
-    "tikName": "Балашовская"
+    "tikName": "Балашовская",
+    "uikName": "УИК №662",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 663,
     "uikTvd": "4644006484893",
     "tikTvd": "26420001727971",
-    "tikName": "Балашовская"
+    "tikName": "Балашовская",
+    "uikName": "УИК №663",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 664,
     "uikTvd": "4644006484894",
     "tikTvd": "26420001727971",
-    "tikName": "Балашовская"
+    "tikName": "Балашовская",
+    "uikName": "УИК №664",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 665,
     "uikTvd": "4644006484895",
     "tikTvd": "26420001727971",
-    "tikName": "Балашовская"
+    "tikName": "Балашовская",
+    "uikName": "УИК №665",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 666,
     "uikTvd": "4644006484896",
     "tikTvd": "26420001727971",
-    "tikName": "Балашовская"
+    "tikName": "Балашовская",
+    "uikName": "УИК №666",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 667,
     "uikTvd": "4644006484897",
     "tikTvd": "26420001727971",
-    "tikName": "Балашовская"
+    "tikName": "Балашовская",
+    "uikName": "УИК №667",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 668,
     "uikTvd": "4644006484898",
     "tikTvd": "26420001727971",
-    "tikName": "Балашовская"
+    "tikName": "Балашовская",
+    "uikName": "УИК №668",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 669,
     "uikTvd": "4644006484899",
     "tikTvd": "26420001727971",
-    "tikName": "Балашовская"
+    "tikName": "Балашовская",
+    "uikName": "УИК №669",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 670,
     "uikTvd": "4644006484900",
     "tikTvd": "26420001727971",
-    "tikName": "Балашовская"
+    "tikName": "Балашовская",
+    "uikName": "УИК №670",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 671,
     "uikTvd": "4644006484901",
     "tikTvd": "26420001727971",
-    "tikName": "Балашовская"
+    "tikName": "Балашовская",
+    "uikName": "УИК №671",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 672,
     "uikTvd": "4644006484902",
     "tikTvd": "26420001727971",
-    "tikName": "Балашовская"
+    "tikName": "Балашовская",
+    "uikName": "УИК №672",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 673,
     "uikTvd": "4644006484903",
     "tikTvd": "26420001727971",
-    "tikName": "Балашовская"
+    "tikName": "Балашовская",
+    "uikName": "УИК №673",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 674,
     "uikTvd": "4644006484904",
     "tikTvd": "26420001727971",
-    "tikName": "Балашовская"
+    "tikName": "Балашовская",
+    "uikName": "УИК №674",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 675,
     "uikTvd": "4644006484905",
     "tikTvd": "26420001727971",
-    "tikName": "Балашовская"
+    "tikName": "Балашовская",
+    "uikName": "УИК №675",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 676,
     "uikTvd": "4644006484906",
     "tikTvd": "26420001727971",
-    "tikName": "Балашовская"
+    "tikName": "Балашовская",
+    "uikName": "УИК №676",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 677,
     "uikTvd": "4644006484907",
     "tikTvd": "26420001727971",
-    "tikName": "Балашовская"
+    "tikName": "Балашовская",
+    "uikName": "УИК №677",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 678,
     "uikTvd": "4644006484908",
     "tikTvd": "26420001727971",
-    "tikName": "Балашовская"
+    "tikName": "Балашовская",
+    "uikName": "УИК №678",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 679,
     "uikTvd": "4644006484909",
     "tikTvd": "26420001727971",
-    "tikName": "Балашовская"
+    "tikName": "Балашовская",
+    "uikName": "УИК №679",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 680,
     "uikTvd": "4644006484910",
     "tikTvd": "26420001727971",
-    "tikName": "Балашовская"
+    "tikName": "Балашовская",
+    "uikName": "УИК №680",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 681,
     "uikTvd": "4644008184002",
     "tikTvd": "26420001727944",
-    "tikName": "Балтайская"
+    "tikName": "Балтайская",
+    "uikName": "УИК №681",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 682,
     "uikTvd": "4644008184003",
     "tikTvd": "26420001727944",
-    "tikName": "Балтайская"
+    "tikName": "Балтайская",
+    "uikName": "УИК №682",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 686,
     "uikTvd": "4644008184004",
     "tikTvd": "26420001727944",
-    "tikName": "Балтайская"
+    "tikName": "Балтайская",
+    "uikName": "УИК №686",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 687,
     "uikTvd": "4644008184005",
     "tikTvd": "26420001727944",
-    "tikName": "Балтайская"
+    "tikName": "Балтайская",
+    "uikName": "УИК №687",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 690,
     "uikTvd": "4644008184006",
     "tikTvd": "26420001727944",
-    "tikName": "Балтайская"
+    "tikName": "Балтайская",
+    "uikName": "УИК №690",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 691,
     "uikTvd": "4644008184007",
     "tikTvd": "26420001727944",
-    "tikName": "Балтайская"
+    "tikName": "Балтайская",
+    "uikName": "УИК №691",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 694,
     "uikTvd": "4644008184008",
     "tikTvd": "26420001727944",
-    "tikName": "Балтайская"
+    "tikName": "Балтайская",
+    "uikName": "УИК №694",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 695,
     "uikTvd": "4644008184009",
     "tikTvd": "26420001727944",
-    "tikName": "Балтайская"
+    "tikName": "Балтайская",
+    "uikName": "УИК №695",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 696,
     "uikTvd": "4644008184010",
     "tikTvd": "26420001727944",
-    "tikName": "Балтайская"
+    "tikName": "Балтайская",
+    "uikName": "УИК №696",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 697,
     "uikTvd": "4644008184011",
     "tikTvd": "26420001727944",
-    "tikName": "Балтайская"
+    "tikName": "Балтайская",
+    "uikName": "УИК №697",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 698,
     "uikTvd": "4644008184012",
     "tikTvd": "26420001727944",
-    "tikName": "Балтайская"
+    "tikName": "Балтайская",
+    "uikName": "УИК №698",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 700,
     "uikTvd": "4644008184013",
     "tikTvd": "26420001727944",
-    "tikName": "Балтайская"
+    "tikName": "Балтайская",
+    "uikName": "УИК №700",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 702,
     "uikTvd": "4644009393290",
     "tikTvd": "26420001727959",
-    "tikName": "Вольская"
+    "tikName": "Вольская",
+    "uikName": "УИК №702",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 703,
     "uikTvd": "4644009393291",
     "tikTvd": "26420001727959",
-    "tikName": "Вольская"
+    "tikName": "Вольская",
+    "uikName": "УИК №703",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 704,
     "uikTvd": "4644009393292",
     "tikTvd": "26420001727959",
-    "tikName": "Вольская"
+    "tikName": "Вольская",
+    "uikName": "УИК №704",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 705,
     "uikTvd": "4644009393293",
     "tikTvd": "26420001727959",
-    "tikName": "Вольская"
+    "tikName": "Вольская",
+    "uikName": "УИК №705",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 706,
     "uikTvd": "4644009393294",
     "tikTvd": "26420001727959",
-    "tikName": "Вольская"
+    "tikName": "Вольская",
+    "uikName": "УИК №706",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 707,
     "uikTvd": "4644009393295",
     "tikTvd": "26420001727959",
-    "tikName": "Вольская"
+    "tikName": "Вольская",
+    "uikName": "УИК №707",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 708,
     "uikTvd": "4644009393296",
     "tikTvd": "26420001727959",
-    "tikName": "Вольская"
+    "tikName": "Вольская",
+    "uikName": "УИК №708",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 709,
     "uikTvd": "4644009393297",
     "tikTvd": "26420001727959",
-    "tikName": "Вольская"
+    "tikName": "Вольская",
+    "uikName": "УИК №709",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 710,
     "uikTvd": "4644009393298",
     "tikTvd": "26420001727959",
-    "tikName": "Вольская"
+    "tikName": "Вольская",
+    "uikName": "УИК №710",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 711,
     "uikTvd": "4644009393299",
     "tikTvd": "26420001727959",
-    "tikName": "Вольская"
+    "tikName": "Вольская",
+    "uikName": "УИК №711",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 712,
     "uikTvd": "4644009393300",
     "tikTvd": "26420001727959",
-    "tikName": "Вольская"
+    "tikName": "Вольская",
+    "uikName": "УИК №712",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 713,
     "uikTvd": "4644009393301",
     "tikTvd": "26420001727959",
-    "tikName": "Вольская"
+    "tikName": "Вольская",
+    "uikName": "УИК №713",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 714,
     "uikTvd": "4644009393302",
     "tikTvd": "26420001727959",
-    "tikName": "Вольская"
+    "tikName": "Вольская",
+    "uikName": "УИК №714",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 715,
     "uikTvd": "4644009393303",
     "tikTvd": "26420001727959",
-    "tikName": "Вольская"
+    "tikName": "Вольская",
+    "uikName": "УИК №715",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 716,
     "uikTvd": "4644009393304",
     "tikTvd": "26420001727959",
-    "tikName": "Вольская"
+    "tikName": "Вольская",
+    "uikName": "УИК №716",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 717,
     "uikTvd": "4644009393305",
     "tikTvd": "26420001727959",
-    "tikName": "Вольская"
+    "tikName": "Вольская",
+    "uikName": "УИК №717",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 718,
     "uikTvd": "4644009393306",
     "tikTvd": "26420001727959",
-    "tikName": "Вольская"
+    "tikName": "Вольская",
+    "uikName": "УИК №718",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 719,
     "uikTvd": "4644009393307",
     "tikTvd": "26420001727959",
-    "tikName": "Вольская"
+    "tikName": "Вольская",
+    "uikName": "УИК №719",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 720,
     "uikTvd": "4644009393308",
     "tikTvd": "26420001727959",
-    "tikName": "Вольская"
+    "tikName": "Вольская",
+    "uikName": "УИК №720",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 721,
     "uikTvd": "4644009393309",
     "tikTvd": "26420001727959",
-    "tikName": "Вольская"
+    "tikName": "Вольская",
+    "uikName": "УИК №721",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 722,
     "uikTvd": "4644009393310",
     "tikTvd": "26420001727959",
-    "tikName": "Вольская"
+    "tikName": "Вольская",
+    "uikName": "УИК №722",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 723,
     "uikTvd": "4644009393311",
     "tikTvd": "26420001727959",
-    "tikName": "Вольская"
+    "tikName": "Вольская",
+    "uikName": "УИК №723",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 724,
     "uikTvd": "4644009393312",
     "tikTvd": "26420001727959",
-    "tikName": "Вольская"
+    "tikName": "Вольская",
+    "uikName": "УИК №724",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 725,
     "uikTvd": "4644009393313",
     "tikTvd": "26420001727959",
-    "tikName": "Вольская"
+    "tikName": "Вольская",
+    "uikName": "УИК №725",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 726,
     "uikTvd": "4644009393314",
     "tikTvd": "26420001727959",
-    "tikName": "Вольская"
+    "tikName": "Вольская",
+    "uikName": "УИК №726",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 727,
     "uikTvd": "4644009393315",
     "tikTvd": "26420001727959",
-    "tikName": "Вольская"
+    "tikName": "Вольская",
+    "uikName": "УИК №727",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 728,
     "uikTvd": "4644009393316",
     "tikTvd": "26420001727959",
-    "tikName": "Вольская"
+    "tikName": "Вольская",
+    "uikName": "УИК №728",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 729,
     "uikTvd": "4644009393317",
     "tikTvd": "26420001727959",
-    "tikName": "Вольская"
+    "tikName": "Вольская",
+    "uikName": "УИК №729",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 730,
     "uikTvd": "4644009393318",
     "tikTvd": "26420001727959",
-    "tikName": "Вольская"
+    "tikName": "Вольская",
+    "uikName": "УИК №730",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 731,
     "uikTvd": "4644009393319",
     "tikTvd": "26420001727959",
-    "tikName": "Вольская"
+    "tikName": "Вольская",
+    "uikName": "УИК №731",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 732,
     "uikTvd": "4644009393320",
     "tikTvd": "26420001727959",
-    "tikName": "Вольская"
+    "tikName": "Вольская",
+    "uikName": "УИК №732",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 733,
     "uikTvd": "4644009393321",
     "tikTvd": "26420001727959",
-    "tikName": "Вольская"
+    "tikName": "Вольская",
+    "uikName": "УИК №733",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 734,
     "uikTvd": "4644009393322",
     "tikTvd": "26420001727959",
-    "tikName": "Вольская"
+    "tikName": "Вольская",
+    "uikName": "УИК №734",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 735,
     "uikTvd": "4644009393323",
     "tikTvd": "26420001727959",
-    "tikName": "Вольская"
+    "tikName": "Вольская",
+    "uikName": "УИК №735",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 736,
     "uikTvd": "4644009393324",
     "tikTvd": "26420001727959",
-    "tikName": "Вольская"
+    "tikName": "Вольская",
+    "uikName": "УИК №736",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 737,
     "uikTvd": "4644009393325",
     "tikTvd": "26420001727959",
-    "tikName": "Вольская"
+    "tikName": "Вольская",
+    "uikName": "УИК №737",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 738,
     "uikTvd": "4644009393326",
     "tikTvd": "26420001727959",
-    "tikName": "Вольская"
+    "tikName": "Вольская",
+    "uikName": "УИК №738",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 739,
     "uikTvd": "4644009393327",
     "tikTvd": "26420001727959",
-    "tikName": "Вольская"
+    "tikName": "Вольская",
+    "uikName": "УИК №739",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 740,
     "uikTvd": "4644009393328",
     "tikTvd": "26420001727959",
-    "tikName": "Вольская"
+    "tikName": "Вольская",
+    "uikName": "УИК №740",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 741,
     "uikTvd": "4644009393329",
     "tikTvd": "26420001727959",
-    "tikName": "Вольская"
+    "tikName": "Вольская",
+    "uikName": "УИК №741",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 742,
     "uikTvd": "4644009393330",
     "tikTvd": "26420001727959",
-    "tikName": "Вольская"
+    "tikName": "Вольская",
+    "uikName": "УИК №742",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 743,
     "uikTvd": "4644009393331",
     "tikTvd": "26420001727959",
-    "tikName": "Вольская"
+    "tikName": "Вольская",
+    "uikName": "УИК №743",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 744,
     "uikTvd": "4644009393332",
     "tikTvd": "26420001727959",
-    "tikName": "Вольская"
+    "tikName": "Вольская",
+    "uikName": "УИК №744",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 745,
     "uikTvd": "4644009393333",
     "tikTvd": "26420001727959",
-    "tikName": "Вольская"
+    "tikName": "Вольская",
+    "uikName": "УИК №745",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 746,
     "uikTvd": "4644009393334",
     "tikTvd": "26420001727959",
-    "tikName": "Вольская"
+    "tikName": "Вольская",
+    "uikName": "УИК №746",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 747,
     "uikTvd": "4644009393335",
     "tikTvd": "26420001727959",
-    "tikName": "Вольская"
+    "tikName": "Вольская",
+    "uikName": "УИК №747",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 748,
     "uikTvd": "4644009393336",
     "tikTvd": "26420001727959",
-    "tikName": "Вольская"
+    "tikName": "Вольская",
+    "uikName": "УИК №748",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 749,
     "uikTvd": "4644009393337",
     "tikTvd": "26420001727959",
-    "tikName": "Вольская"
+    "tikName": "Вольская",
+    "uikName": "УИК №749",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 750,
     "uikTvd": "4644009393338",
     "tikTvd": "26420001727959",
-    "tikName": "Вольская"
+    "tikName": "Вольская",
+    "uikName": "УИК №750",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 751,
     "uikTvd": "4644009393339",
     "tikTvd": "26420001727959",
-    "tikName": "Вольская"
+    "tikName": "Вольская",
+    "uikName": "УИК №751",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 752,
     "uikTvd": "4644009393340",
     "tikTvd": "26420001727959",
-    "tikName": "Вольская"
+    "tikName": "Вольская",
+    "uikName": "УИК №752",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 753,
     "uikTvd": "4644009393341",
     "tikTvd": "26420001727959",
-    "tikName": "Вольская"
+    "tikName": "Вольская",
+    "uikName": "УИК №753",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 754,
     "uikTvd": "4644009393342",
     "tikTvd": "26420001727959",
-    "tikName": "Вольская"
+    "tikName": "Вольская",
+    "uikName": "УИК №754",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 755,
     "uikTvd": "4644009393343",
     "tikTvd": "26420001727959",
-    "tikName": "Вольская"
+    "tikName": "Вольская",
+    "uikName": "УИК №755",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 756,
     "uikTvd": "4644009393344",
     "tikTvd": "26420001727959",
-    "tikName": "Вольская"
+    "tikName": "Вольская",
+    "uikName": "УИК №756",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 757,
     "uikTvd": "4644009393345",
     "tikTvd": "26420001727959",
-    "tikName": "Вольская"
+    "tikName": "Вольская",
+    "uikName": "УИК №757",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 758,
     "uikTvd": "4644009393346",
     "tikTvd": "26420001727959",
-    "tikName": "Вольская"
+    "tikName": "Вольская",
+    "uikName": "УИК №758",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 759,
     "uikTvd": "4644009393347",
     "tikTvd": "26420001727959",
-    "tikName": "Вольская"
+    "tikName": "Вольская",
+    "uikName": "УИК №759",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 760,
     "uikTvd": "4644009393348",
     "tikTvd": "26420001727959",
-    "tikName": "Вольская"
+    "tikName": "Вольская",
+    "uikName": "УИК №760",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 761,
     "uikTvd": "4644009393349",
     "tikTvd": "26420001727959",
-    "tikName": "Вольская"
+    "tikName": "Вольская",
+    "uikName": "УИК №761",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 762,
     "uikTvd": "4644009393350",
     "tikTvd": "26420001727959",
-    "tikName": "Вольская"
+    "tikName": "Вольская",
+    "uikName": "УИК №762",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 763,
     "uikTvd": "4644009393351",
     "tikTvd": "26420001727959",
-    "tikName": "Вольская"
+    "tikName": "Вольская",
+    "uikName": "УИК №763",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 764,
     "uikTvd": "4644009393352",
     "tikTvd": "26420001727959",
-    "tikName": "Вольская"
+    "tikName": "Вольская",
+    "uikName": "УИК №764",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 765,
     "uikTvd": "4644009393353",
     "tikTvd": "26420001727959",
-    "tikName": "Вольская"
+    "tikName": "Вольская",
+    "uikName": "УИК №765",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 766,
     "uikTvd": "4644009393354",
     "tikTvd": "26420001727959",
-    "tikName": "Вольская"
+    "tikName": "Вольская",
+    "uikName": "УИК №766",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 767,
     "uikTvd": "4644009393355",
     "tikTvd": "26420001727959",
-    "tikName": "Вольская"
+    "tikName": "Вольская",
+    "uikName": "УИК №767",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 768,
     "uikTvd": "4644009393356",
     "tikTvd": "26420001727959",
-    "tikName": "Вольская"
+    "tikName": "Вольская",
+    "uikName": "УИК №768",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 769,
     "uikTvd": "4644009393357",
     "tikTvd": "26420001727959",
-    "tikName": "Вольская"
+    "tikName": "Вольская",
+    "uikName": "УИК №769",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 770,
     "uikTvd": "4644009393358",
     "tikTvd": "26420001727959",
-    "tikName": "Вольская"
+    "tikName": "Вольская",
+    "uikName": "УИК №770",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 771,
     "uikTvd": "4644009393359",
     "tikTvd": "26420001727959",
-    "tikName": "Вольская"
+    "tikName": "Вольская",
+    "uikName": "УИК №771",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 772,
     "uikTvd": "4644009393360",
     "tikTvd": "26420001727959",
-    "tikName": "Вольская"
+    "tikName": "Вольская",
+    "uikName": "УИК №772",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 773,
     "uikTvd": "4644009393361",
     "tikTvd": "26420001727959",
-    "tikName": "Вольская"
+    "tikName": "Вольская",
+    "uikName": "УИК №773",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 774,
     "uikTvd": "4644009393362",
     "tikTvd": "26420001727959",
-    "tikName": "Вольская"
+    "tikName": "Вольская",
+    "uikName": "УИК №774",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 775,
     "uikTvd": "4644009393363",
     "tikTvd": "26420001727959",
-    "tikName": "Вольская"
+    "tikName": "Вольская",
+    "uikName": "УИК №775",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 776,
     "uikTvd": "4644009393364",
     "tikTvd": "26420001727959",
-    "tikName": "Вольская"
+    "tikName": "Вольская",
+    "uikName": "УИК №776",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 777,
     "uikTvd": "4644009393365",
     "tikTvd": "26420001727959",
-    "tikName": "Вольская"
+    "tikName": "Вольская",
+    "uikName": "УИК №777",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 778,
     "uikTvd": "4644010183641",
     "tikTvd": "26420001727958",
-    "tikName": "Воскресенская"
+    "tikName": "Воскресенская",
+    "uikName": "УИК №778",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 779,
     "uikTvd": "4644010183642",
     "tikTvd": "26420001727958",
-    "tikName": "Воскресенская"
+    "tikName": "Воскресенская",
+    "uikName": "УИК №779",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 780,
     "uikTvd": "4644010183643",
     "tikTvd": "26420001727958",
-    "tikName": "Воскресенская"
+    "tikName": "Воскресенская",
+    "uikName": "УИК №780",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 781,
     "uikTvd": "4644010183644",
     "tikTvd": "26420001727958",
-    "tikName": "Воскресенская"
+    "tikName": "Воскресенская",
+    "uikName": "УИК №781",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 782,
     "uikTvd": "4644010183645",
     "tikTvd": "26420001727958",
-    "tikName": "Воскресенская"
+    "tikName": "Воскресенская",
+    "uikName": "УИК №782",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 783,
     "uikTvd": "4644010183646",
     "tikTvd": "26420001727958",
-    "tikName": "Воскресенская"
+    "tikName": "Воскресенская",
+    "uikName": "УИК №783",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 784,
     "uikTvd": "4644010183647",
     "tikTvd": "26420001727958",
-    "tikName": "Воскресенская"
+    "tikName": "Воскресенская",
+    "uikName": "УИК №784",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 785,
     "uikTvd": "4644010183648",
     "tikTvd": "26420001727958",
-    "tikName": "Воскресенская"
+    "tikName": "Воскресенская",
+    "uikName": "УИК №785",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 786,
     "uikTvd": "4644010183649",
     "tikTvd": "26420001727958",
-    "tikName": "Воскресенская"
+    "tikName": "Воскресенская",
+    "uikName": "УИК №786",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 787,
     "uikTvd": "4644010183650",
     "tikTvd": "26420001727958",
-    "tikName": "Воскресенская"
+    "tikName": "Воскресенская",
+    "uikName": "УИК №787",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 788,
     "uikTvd": "4644010183651",
     "tikTvd": "26420001727958",
-    "tikName": "Воскресенская"
+    "tikName": "Воскресенская",
+    "uikName": "УИК №788",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 789,
     "uikTvd": "4644010183652",
     "tikTvd": "26420001727958",
-    "tikName": "Воскресенская"
+    "tikName": "Воскресенская",
+    "uikName": "УИК №789",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 790,
     "uikTvd": "4644010183653",
     "tikTvd": "26420001727958",
-    "tikName": "Воскресенская"
+    "tikName": "Воскресенская",
+    "uikName": "УИК №790",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 791,
     "uikTvd": "4644010183654",
     "tikTvd": "26420001727958",
-    "tikName": "Воскресенская"
+    "tikName": "Воскресенская",
+    "uikName": "УИК №791",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 794,
     "uikTvd": "4644010183655",
     "tikTvd": "26420001727958",
-    "tikName": "Воскресенская"
+    "tikName": "Воскресенская",
+    "uikName": "УИК №794",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 795,
     "uikTvd": "4644010183656",
     "tikTvd": "26420001727958",
-    "tikName": "Воскресенская"
+    "tikName": "Воскресенская",
+    "uikName": "УИК №795",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 796,
     "uikTvd": "4644011216681",
     "tikTvd": "26420001727957",
-    "tikName": "Дергачевская"
+    "tikName": "Дергачевская",
+    "uikName": "УИК №796",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 797,
     "uikTvd": "4644011216682",
     "tikTvd": "26420001727957",
-    "tikName": "Дергачевская"
+    "tikName": "Дергачевская",
+    "uikName": "УИК №797",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 798,
     "uikTvd": "4644011216683",
     "tikTvd": "26420001727957",
-    "tikName": "Дергачевская"
+    "tikName": "Дергачевская",
+    "uikName": "УИК №798",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 799,
     "uikTvd": "4644011216684",
     "tikTvd": "26420001727957",
-    "tikName": "Дергачевская"
+    "tikName": "Дергачевская",
+    "uikName": "УИК №799",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 800,
     "uikTvd": "4644011216685",
     "tikTvd": "26420001727957",
-    "tikName": "Дергачевская"
+    "tikName": "Дергачевская",
+    "uikName": "УИК №800",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 801,
     "uikTvd": "4644011216686",
     "tikTvd": "26420001727957",
-    "tikName": "Дергачевская"
+    "tikName": "Дергачевская",
+    "uikName": "УИК №801",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 802,
     "uikTvd": "4644011216687",
     "tikTvd": "26420001727957",
-    "tikName": "Дергачевская"
+    "tikName": "Дергачевская",
+    "uikName": "УИК №802",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 803,
     "uikTvd": "4644011216688",
     "tikTvd": "26420001727957",
-    "tikName": "Дергачевская"
+    "tikName": "Дергачевская",
+    "uikName": "УИК №803",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 804,
     "uikTvd": "4644011216689",
     "tikTvd": "26420001727957",
-    "tikName": "Дергачевская"
+    "tikName": "Дергачевская",
+    "uikName": "УИК №804",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 805,
     "uikTvd": "4644011216690",
     "tikTvd": "26420001727957",
-    "tikName": "Дергачевская"
+    "tikName": "Дергачевская",
+    "uikName": "УИК №805",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 806,
     "uikTvd": "4644011216691",
     "tikTvd": "26420001727957",
-    "tikName": "Дергачевская"
+    "tikName": "Дергачевская",
+    "uikName": "УИК №806",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 807,
     "uikTvd": "4644011216692",
     "tikTvd": "26420001727957",
-    "tikName": "Дергачевская"
+    "tikName": "Дергачевская",
+    "uikName": "УИК №807",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 808,
     "uikTvd": "4644011216693",
     "tikTvd": "26420001727957",
-    "tikName": "Дергачевская"
+    "tikName": "Дергачевская",
+    "uikName": "УИК №808",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 810,
     "uikTvd": "4644011216694",
     "tikTvd": "26420001727957",
-    "tikName": "Дергачевская"
+    "tikName": "Дергачевская",
+    "uikName": "УИК №810",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 811,
     "uikTvd": "4644011216695",
     "tikTvd": "26420001727957",
-    "tikName": "Дергачевская"
+    "tikName": "Дергачевская",
+    "uikName": "УИК №811",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 812,
     "uikTvd": "4644011216696",
     "tikTvd": "26420001727957",
-    "tikName": "Дергачевская"
+    "tikName": "Дергачевская",
+    "uikName": "УИК №812",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 813,
     "uikTvd": "4644011216697",
     "tikTvd": "26420001727957",
-    "tikName": "Дергачевская"
+    "tikName": "Дергачевская",
+    "uikName": "УИК №813",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 814,
     "uikTvd": "4644011216698",
     "tikTvd": "26420001727957",
-    "tikName": "Дергачевская"
+    "tikName": "Дергачевская",
+    "uikName": "УИК №814",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 815,
     "uikTvd": "4644011216699",
     "tikTvd": "26420001727957",
-    "tikName": "Дергачевская"
+    "tikName": "Дергачевская",
+    "uikName": "УИК №815",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 816,
     "uikTvd": "4644011216700",
     "tikTvd": "26420001727957",
-    "tikName": "Дергачевская"
+    "tikName": "Дергачевская",
+    "uikName": "УИК №816",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 817,
     "uikTvd": "4644011216701",
     "tikTvd": "26420001727957",
-    "tikName": "Дергачевская"
+    "tikName": "Дергачевская",
+    "uikName": "УИК №817",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 818,
     "uikTvd": "4644011216702",
     "tikTvd": "26420001727957",
-    "tikName": "Дергачевская"
+    "tikName": "Дергачевская",
+    "uikName": "УИК №818",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 819,
     "uikTvd": "4644011216703",
     "tikTvd": "26420001727957",
-    "tikName": "Дергачевская"
+    "tikName": "Дергачевская",
+    "uikName": "УИК №819",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 820,
     "uikTvd": "4644011216704",
     "tikTvd": "26420001727957",
-    "tikName": "Дергачевская"
+    "tikName": "Дергачевская",
+    "uikName": "УИК №820",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 821,
     "uikTvd": "4644011216705",
     "tikTvd": "26420001727957",
-    "tikName": "Дергачевская"
+    "tikName": "Дергачевская",
+    "uikName": "УИК №821",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 824,
     "uikTvd": "4644011216706",
     "tikTvd": "26420001727957",
-    "tikName": "Дергачевская"
+    "tikName": "Дергачевская",
+    "uikName": "УИК №824",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 825,
     "uikTvd": "4644011216707",
     "tikTvd": "26420001727957",
-    "tikName": "Дергачевская"
+    "tikName": "Дергачевская",
+    "uikName": "УИК №825",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 826,
     "uikTvd": "4644012234262",
     "tikTvd": "26420001727956",
-    "tikName": "Духовницкая"
+    "tikName": "Духовницкая",
+    "uikName": "УИК №826",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 827,
     "uikTvd": "4644012234263",
     "tikTvd": "26420001727956",
-    "tikName": "Духовницкая"
+    "tikName": "Духовницкая",
+    "uikName": "УИК №827",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 828,
     "uikTvd": "4644012234264",
     "tikTvd": "26420001727956",
-    "tikName": "Духовницкая"
+    "tikName": "Духовницкая",
+    "uikName": "УИК №828",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 829,
     "uikTvd": "4644012234265",
     "tikTvd": "26420001727956",
-    "tikName": "Духовницкая"
+    "tikName": "Духовницкая",
+    "uikName": "УИК №829",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 830,
     "uikTvd": "4644012234266",
     "tikTvd": "26420001727956",
-    "tikName": "Духовницкая"
+    "tikName": "Духовницкая",
+    "uikName": "УИК №830",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 831,
     "uikTvd": "4644012234267",
     "tikTvd": "26420001727956",
-    "tikName": "Духовницкая"
+    "tikName": "Духовницкая",
+    "uikName": "УИК №831",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 832,
     "uikTvd": "4644012234268",
     "tikTvd": "26420001727956",
-    "tikName": "Духовницкая"
+    "tikName": "Духовницкая",
+    "uikName": "УИК №832",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 833,
     "uikTvd": "4644012234269",
     "tikTvd": "26420001727956",
-    "tikName": "Духовницкая"
+    "tikName": "Духовницкая",
+    "uikName": "УИК №833",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 834,
     "uikTvd": "4644012234270",
     "tikTvd": "26420001727956",
-    "tikName": "Духовницкая"
+    "tikName": "Духовницкая",
+    "uikName": "УИК №834",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 835,
     "uikTvd": "4644012234271",
     "tikTvd": "26420001727956",
-    "tikName": "Духовницкая"
+    "tikName": "Духовницкая",
+    "uikName": "УИК №835",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 836,
     "uikTvd": "4644012234272",
     "tikTvd": "26420001727956",
-    "tikName": "Духовницкая"
+    "tikName": "Духовницкая",
+    "uikName": "УИК №836",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 837,
     "uikTvd": "4644012234273",
     "tikTvd": "26420001727956",
-    "tikName": "Духовницкая"
+    "tikName": "Духовницкая",
+    "uikName": "УИК №837",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 838,
     "uikTvd": "4644012234274",
     "tikTvd": "26420001727956",
-    "tikName": "Духовницкая"
+    "tikName": "Духовницкая",
+    "uikName": "УИК №838",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 839,
     "uikTvd": "4644012234275",
     "tikTvd": "26420001727956",
-    "tikName": "Духовницкая"
+    "tikName": "Духовницкая",
+    "uikName": "УИК №839",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 840,
     "uikTvd": "4644012234276",
     "tikTvd": "26420001727956",
-    "tikName": "Духовницкая"
+    "tikName": "Духовницкая",
+    "uikName": "УИК №840",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 841,
     "uikTvd": "4644012234277",
     "tikTvd": "26420001727956",
-    "tikName": "Духовницкая"
+    "tikName": "Духовницкая",
+    "uikName": "УИК №841",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 842,
     "uikTvd": "4644012234278",
     "tikTvd": "26420001727956",
-    "tikName": "Духовницкая"
+    "tikName": "Духовницкая",
+    "uikName": "УИК №842",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 843,
     "uikTvd": "4644012234279",
     "tikTvd": "26420001727956",
-    "tikName": "Духовницкая"
+    "tikName": "Духовницкая",
+    "uikName": "УИК №843",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 844,
     "uikTvd": "4644012234280",
     "tikTvd": "26420001727956",
-    "tikName": "Духовницкая"
+    "tikName": "Духовницкая",
+    "uikName": "УИК №844",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 845,
     "uikTvd": "4644012234281",
     "tikTvd": "26420001727956",
-    "tikName": "Духовницкая"
+    "tikName": "Духовницкая",
+    "uikName": "УИК №845",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 846,
     "uikTvd": "4644012234282",
     "tikTvd": "26420001727956",
-    "tikName": "Духовницкая"
+    "tikName": "Духовницкая",
+    "uikName": "УИК №846",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 847,
     "uikTvd": "4644013283678",
     "tikTvd": "26420001727970",
-    "tikName": "Екатериновская"
+    "tikName": "Екатериновская",
+    "uikName": "УИК №847",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 848,
     "uikTvd": "4644013283679",
     "tikTvd": "26420001727970",
-    "tikName": "Екатериновская"
+    "tikName": "Екатериновская",
+    "uikName": "УИК №848",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 849,
     "uikTvd": "4644013283680",
     "tikTvd": "26420001727970",
-    "tikName": "Екатериновская"
+    "tikName": "Екатериновская",
+    "uikName": "УИК №849",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 850,
     "uikTvd": "4644013283681",
     "tikTvd": "26420001727970",
-    "tikName": "Екатериновская"
+    "tikName": "Екатериновская",
+    "uikName": "УИК №850",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 851,
     "uikTvd": "4644013283682",
     "tikTvd": "26420001727970",
-    "tikName": "Екатериновская"
+    "tikName": "Екатериновская",
+    "uikName": "УИК №851",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 852,
     "uikTvd": "4644013283683",
     "tikTvd": "26420001727970",
-    "tikName": "Екатериновская"
+    "tikName": "Екатериновская",
+    "uikName": "УИК №852",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 853,
     "uikTvd": "4644013283684",
     "tikTvd": "26420001727970",
-    "tikName": "Екатериновская"
+    "tikName": "Екатериновская",
+    "uikName": "УИК №853",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 854,
     "uikTvd": "4644013283685",
     "tikTvd": "26420001727970",
-    "tikName": "Екатериновская"
+    "tikName": "Екатериновская",
+    "uikName": "УИК №854",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 855,
     "uikTvd": "4644013283686",
     "tikTvd": "26420001727970",
-    "tikName": "Екатериновская"
+    "tikName": "Екатериновская",
+    "uikName": "УИК №855",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 856,
     "uikTvd": "4644013283687",
     "tikTvd": "26420001727970",
-    "tikName": "Екатериновская"
+    "tikName": "Екатериновская",
+    "uikName": "УИК №856",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 857,
     "uikTvd": "4644013283688",
     "tikTvd": "26420001727970",
-    "tikName": "Екатериновская"
+    "tikName": "Екатериновская",
+    "uikName": "УИК №857",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 858,
     "uikTvd": "4644013283689",
     "tikTvd": "26420001727970",
-    "tikName": "Екатериновская"
+    "tikName": "Екатериновская",
+    "uikName": "УИК №858",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 859,
     "uikTvd": "4644013283690",
     "tikTvd": "26420001727970",
-    "tikName": "Екатериновская"
+    "tikName": "Екатериновская",
+    "uikName": "УИК №859",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 860,
     "uikTvd": "4644013283691",
     "tikTvd": "26420001727970",
-    "tikName": "Екатериновская"
+    "tikName": "Екатериновская",
+    "uikName": "УИК №860",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 861,
     "uikTvd": "4644013283692",
     "tikTvd": "26420001727970",
-    "tikName": "Екатериновская"
+    "tikName": "Екатериновская",
+    "uikName": "УИК №861",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 862,
     "uikTvd": "4644013283693",
     "tikTvd": "26420001727970",
-    "tikName": "Екатериновская"
+    "tikName": "Екатериновская",
+    "uikName": "УИК №862",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 863,
     "uikTvd": "4644013283694",
     "tikTvd": "26420001727970",
-    "tikName": "Екатериновская"
+    "tikName": "Екатериновская",
+    "uikName": "УИК №863",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 864,
     "uikTvd": "4644013283695",
     "tikTvd": "26420001727970",
-    "tikName": "Екатериновская"
+    "tikName": "Екатериновская",
+    "uikName": "УИК №864",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 865,
     "uikTvd": "4644013283696",
     "tikTvd": "26420001727970",
-    "tikName": "Екатериновская"
+    "tikName": "Екатериновская",
+    "uikName": "УИК №865",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 866,
     "uikTvd": "4644013283697",
     "tikTvd": "26420001727970",
-    "tikName": "Екатериновская"
+    "tikName": "Екатериновская",
+    "uikName": "УИК №866",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 867,
     "uikTvd": "4644013283698",
     "tikTvd": "26420001727970",
-    "tikName": "Екатериновская"
+    "tikName": "Екатериновская",
+    "uikName": "УИК №867",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 868,
     "uikTvd": "4644013283699",
     "tikTvd": "26420001727970",
-    "tikName": "Екатериновская"
+    "tikName": "Екатериновская",
+    "uikName": "УИК №868",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 869,
     "uikTvd": "4644013283700",
     "tikTvd": "26420001727970",
-    "tikName": "Екатериновская"
+    "tikName": "Екатериновская",
+    "uikName": "УИК №869",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 870,
     "uikTvd": "4644013283701",
     "tikTvd": "26420001727970",
-    "tikName": "Екатериновская"
+    "tikName": "Екатериновская",
+    "uikName": "УИК №870",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 871,
     "uikTvd": "4644013283702",
     "tikTvd": "26420001727970",
-    "tikName": "Екатериновская"
+    "tikName": "Екатериновская",
+    "uikName": "УИК №871",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 872,
     "uikTvd": "4644013283703",
     "tikTvd": "26420001727970",
-    "tikName": "Екатериновская"
+    "tikName": "Екатериновская",
+    "uikName": "УИК №872",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 873,
     "uikTvd": "4644013283704",
     "tikTvd": "26420001727970",
-    "tikName": "Екатериновская"
+    "tikName": "Екатериновская",
+    "uikName": "УИК №873",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 874,
     "uikTvd": "4644014291629",
     "tikTvd": "26420001727955",
-    "tikName": "Ершовская"
+    "tikName": "Ершовская",
+    "uikName": "УИК №874",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 875,
     "uikTvd": "4644014291630",
     "tikTvd": "26420001727955",
-    "tikName": "Ершовская"
+    "tikName": "Ершовская",
+    "uikName": "УИК №875",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 876,
     "uikTvd": "4644014291631",
     "tikTvd": "26420001727955",
-    "tikName": "Ершовская"
+    "tikName": "Ершовская",
+    "uikName": "УИК №876",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 877,
     "uikTvd": "4644014291632",
     "tikTvd": "26420001727955",
-    "tikName": "Ершовская"
+    "tikName": "Ершовская",
+    "uikName": "УИК №877",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 878,
     "uikTvd": "4644014291633",
     "tikTvd": "26420001727955",
-    "tikName": "Ершовская"
+    "tikName": "Ершовская",
+    "uikName": "УИК №878",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 879,
     "uikTvd": "4644014291634",
     "tikTvd": "26420001727955",
-    "tikName": "Ершовская"
+    "tikName": "Ершовская",
+    "uikName": "УИК №879",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 880,
     "uikTvd": "4644014291635",
     "tikTvd": "26420001727955",
-    "tikName": "Ершовская"
+    "tikName": "Ершовская",
+    "uikName": "УИК №880",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 881,
     "uikTvd": "4644014291636",
     "tikTvd": "26420001727955",
-    "tikName": "Ершовская"
+    "tikName": "Ершовская",
+    "uikName": "УИК №881",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 882,
     "uikTvd": "4644014291637",
     "tikTvd": "26420001727955",
-    "tikName": "Ершовская"
+    "tikName": "Ершовская",
+    "uikName": "УИК №882",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 883,
     "uikTvd": "4644014291638",
     "tikTvd": "26420001727955",
-    "tikName": "Ершовская"
+    "tikName": "Ершовская",
+    "uikName": "УИК №883",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 884,
     "uikTvd": "4644014291639",
     "tikTvd": "26420001727955",
-    "tikName": "Ершовская"
+    "tikName": "Ершовская",
+    "uikName": "УИК №884",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 885,
     "uikTvd": "4644014291640",
     "tikTvd": "26420001727955",
-    "tikName": "Ершовская"
+    "tikName": "Ершовская",
+    "uikName": "УИК №885",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 886,
     "uikTvd": "4644014291641",
     "tikTvd": "26420001727955",
-    "tikName": "Ершовская"
+    "tikName": "Ершовская",
+    "uikName": "УИК №886",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 887,
     "uikTvd": "4644014291642",
     "tikTvd": "26420001727955",
-    "tikName": "Ершовская"
+    "tikName": "Ершовская",
+    "uikName": "УИК №887",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 888,
     "uikTvd": "4644014291643",
     "tikTvd": "26420001727955",
-    "tikName": "Ершовская"
+    "tikName": "Ершовская",
+    "uikName": "УИК №888",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 889,
     "uikTvd": "4644014291644",
     "tikTvd": "26420001727955",
-    "tikName": "Ершовская"
+    "tikName": "Ершовская",
+    "uikName": "УИК №889",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 890,
     "uikTvd": "4644014291645",
     "tikTvd": "26420001727955",
-    "tikName": "Ершовская"
+    "tikName": "Ершовская",
+    "uikName": "УИК №890",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 891,
     "uikTvd": "4644014291646",
     "tikTvd": "26420001727955",
-    "tikName": "Ершовская"
+    "tikName": "Ершовская",
+    "uikName": "УИК №891",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 892,
     "uikTvd": "4644014291647",
     "tikTvd": "26420001727955",
-    "tikName": "Ершовская"
+    "tikName": "Ершовская",
+    "uikName": "УИК №892",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 893,
     "uikTvd": "4644014291648",
     "tikTvd": "26420001727955",
-    "tikName": "Ершовская"
+    "tikName": "Ершовская",
+    "uikName": "УИК №893",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 894,
     "uikTvd": "4644014291649",
     "tikTvd": "26420001727955",
-    "tikName": "Ершовская"
+    "tikName": "Ершовская",
+    "uikName": "УИК №894",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 895,
     "uikTvd": "4644014291650",
     "tikTvd": "26420001727955",
-    "tikName": "Ершовская"
+    "tikName": "Ершовская",
+    "uikName": "УИК №895",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 896,
     "uikTvd": "4644014291651",
     "tikTvd": "26420001727955",
-    "tikName": "Ершовская"
+    "tikName": "Ершовская",
+    "uikName": "УИК №896",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 897,
     "uikTvd": "4644014291652",
     "tikTvd": "26420001727955",
-    "tikName": "Ершовская"
+    "tikName": "Ершовская",
+    "uikName": "УИК №897",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 898,
     "uikTvd": "4644014291653",
     "tikTvd": "26420001727955",
-    "tikName": "Ершовская"
+    "tikName": "Ершовская",
+    "uikName": "УИК №898",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 899,
     "uikTvd": "4644014291654",
     "tikTvd": "26420001727955",
-    "tikName": "Ершовская"
+    "tikName": "Ершовская",
+    "uikName": "УИК №899",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 900,
     "uikTvd": "4644014291655",
     "tikTvd": "26420001727955",
-    "tikName": "Ершовская"
+    "tikName": "Ершовская",
+    "uikName": "УИК №900",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 901,
     "uikTvd": "4644014291656",
     "tikTvd": "26420001727955",
-    "tikName": "Ершовская"
+    "tikName": "Ершовская",
+    "uikName": "УИК №901",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 902,
     "uikTvd": "4644014291657",
     "tikTvd": "26420001727955",
-    "tikName": "Ершовская"
+    "tikName": "Ершовская",
+    "uikName": "УИК №902",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 903,
     "uikTvd": "4644014291658",
     "tikTvd": "26420001727955",
-    "tikName": "Ершовская"
+    "tikName": "Ершовская",
+    "uikName": "УИК №903",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 904,
     "uikTvd": "4644014291659",
     "tikTvd": "26420001727955",
-    "tikName": "Ершовская"
+    "tikName": "Ершовская",
+    "uikName": "УИК №904",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 905,
     "uikTvd": "4644014291660",
     "tikTvd": "26420001727955",
-    "tikName": "Ершовская"
+    "tikName": "Ершовская",
+    "uikName": "УИК №905",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 906,
     "uikTvd": "4644014291661",
     "tikTvd": "26420001727955",
-    "tikName": "Ершовская"
+    "tikName": "Ершовская",
+    "uikName": "УИК №906",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 907,
     "uikTvd": "4644014291662",
     "tikTvd": "26420001727955",
-    "tikName": "Ершовская"
+    "tikName": "Ершовская",
+    "uikName": "УИК №907",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 908,
     "uikTvd": "4644014291663",
     "tikTvd": "26420001727955",
-    "tikName": "Ершовская"
+    "tikName": "Ершовская",
+    "uikName": "УИК №908",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 909,
     "uikTvd": "4644014291664",
     "tikTvd": "26420001727955",
-    "tikName": "Ершовская"
+    "tikName": "Ершовская",
+    "uikName": "УИК №909",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 910,
     "uikTvd": "4644014291665",
     "tikTvd": "26420001727955",
-    "tikName": "Ершовская"
+    "tikName": "Ершовская",
+    "uikName": "УИК №910",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 911,
     "uikTvd": "4644014291666",
     "tikTvd": "26420001727955",
-    "tikName": "Ершовская"
+    "tikName": "Ершовская",
+    "uikName": "УИК №911",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 912,
     "uikTvd": "4644014291667",
     "tikTvd": "26420001727955",
-    "tikName": "Ершовская"
+    "tikName": "Ершовская",
+    "uikName": "УИК №912",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 913,
     "uikTvd": "4644014291668",
     "tikTvd": "26420001727955",
-    "tikName": "Ершовская"
+    "tikName": "Ершовская",
+    "uikName": "УИК №913",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 914,
     "uikTvd": "4644014291669",
     "tikTvd": "26420001727955",
-    "tikName": "Ершовская"
+    "tikName": "Ершовская",
+    "uikName": "УИК №914",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 915,
     "uikTvd": "4644014291670",
     "tikTvd": "26420001727955",
-    "tikName": "Ершовская"
+    "tikName": "Ершовская",
+    "uikName": "УИК №915",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 916,
     "uikTvd": "4644014291671",
     "tikTvd": "26420001727955",
-    "tikName": "Ершовская"
+    "tikName": "Ершовская",
+    "uikName": "УИК №916",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 917,
     "uikTvd": "4644014291672",
     "tikTvd": "26420001727955",
-    "tikName": "Ершовская"
+    "tikName": "Ершовская",
+    "uikName": "УИК №917",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 918,
     "uikTvd": "4644014291673",
     "tikTvd": "26420001727955",
-    "tikName": "Ершовская"
+    "tikName": "Ершовская",
+    "uikName": "УИК №918",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 919,
     "uikTvd": "4644014291674",
     "tikTvd": "26420001727955",
-    "tikName": "Ершовская"
+    "tikName": "Ершовская",
+    "uikName": "УИК №919",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 920,
     "uikTvd": "4644014291675",
     "tikTvd": "26420001727955",
-    "tikName": "Ершовская"
+    "tikName": "Ершовская",
+    "uikName": "УИК №920",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 921,
     "uikTvd": "4644014291676",
     "tikTvd": "26420001727955",
-    "tikName": "Ершовская"
+    "tikName": "Ершовская",
+    "uikName": "УИК №921",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 923,
     "uikTvd": "4644014291677",
     "tikTvd": "26420001727955",
-    "tikName": "Ершовская"
+    "tikName": "Ершовская",
+    "uikName": "УИК №923",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 924,
     "uikTvd": "4644014291678",
     "tikTvd": "26420001727955",
-    "tikName": "Ершовская"
+    "tikName": "Ершовская",
+    "uikName": "УИК №924",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 925,
     "uikTvd": "4644014291679",
     "tikTvd": "26420001727955",
-    "tikName": "Ершовская"
+    "tikName": "Ершовская",
+    "uikName": "УИК №925",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 926,
     "uikTvd": "4644015224562",
     "tikTvd": "26420001727954",
-    "tikName": "Ивантеевская"
+    "tikName": "Ивантеевская",
+    "uikName": "УИК №926",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 927,
     "uikTvd": "4644015224563",
     "tikTvd": "26420001727954",
-    "tikName": "Ивантеевская"
+    "tikName": "Ивантеевская",
+    "uikName": "УИК №927",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 928,
     "uikTvd": "4644015224564",
     "tikTvd": "26420001727954",
-    "tikName": "Ивантеевская"
+    "tikName": "Ивантеевская",
+    "uikName": "УИК №928",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 929,
     "uikTvd": "4644015224565",
     "tikTvd": "26420001727954",
-    "tikName": "Ивантеевская"
+    "tikName": "Ивантеевская",
+    "uikName": "УИК №929",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 930,
     "uikTvd": "4644015224566",
     "tikTvd": "26420001727954",
-    "tikName": "Ивантеевская"
+    "tikName": "Ивантеевская",
+    "uikName": "УИК №930",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 931,
     "uikTvd": "4644015224567",
     "tikTvd": "26420001727954",
-    "tikName": "Ивантеевская"
+    "tikName": "Ивантеевская",
+    "uikName": "УИК №931",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 932,
     "uikTvd": "4644015224568",
     "tikTvd": "26420001727954",
-    "tikName": "Ивантеевская"
+    "tikName": "Ивантеевская",
+    "uikName": "УИК №932",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 933,
     "uikTvd": "4644015224569",
     "tikTvd": "26420001727954",
-    "tikName": "Ивантеевская"
+    "tikName": "Ивантеевская",
+    "uikName": "УИК №933",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 934,
     "uikTvd": "4644015224570",
     "tikTvd": "26420001727954",
-    "tikName": "Ивантеевская"
+    "tikName": "Ивантеевская",
+    "uikName": "УИК №934",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 936,
     "uikTvd": "4644015224571",
     "tikTvd": "26420001727954",
-    "tikName": "Ивантеевская"
+    "tikName": "Ивантеевская",
+    "uikName": "УИК №936",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 937,
     "uikTvd": "4644015224572",
     "tikTvd": "26420001727954",
-    "tikName": "Ивантеевская"
+    "tikName": "Ивантеевская",
+    "uikName": "УИК №937",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 938,
     "uikTvd": "4644015224573",
     "tikTvd": "26420001727954",
-    "tikName": "Ивантеевская"
+    "tikName": "Ивантеевская",
+    "uikName": "УИК №938",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 939,
     "uikTvd": "4644015224574",
     "tikTvd": "26420001727954",
-    "tikName": "Ивантеевская"
+    "tikName": "Ивантеевская",
+    "uikName": "УИК №939",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 940,
     "uikTvd": "4644015224575",
     "tikTvd": "26420001727954",
-    "tikName": "Ивантеевская"
+    "tikName": "Ивантеевская",
+    "uikName": "УИК №940",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 941,
     "uikTvd": "4644015224576",
     "tikTvd": "26420001727954",
-    "tikName": "Ивантеевская"
+    "tikName": "Ивантеевская",
+    "uikName": "УИК №941",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 942,
     "uikTvd": "4644015224577",
     "tikTvd": "26420001727954",
-    "tikName": "Ивантеевская"
+    "tikName": "Ивантеевская",
+    "uikName": "УИК №942",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 943,
     "uikTvd": "4644015224578",
     "tikTvd": "26420001727954",
-    "tikName": "Ивантеевская"
+    "tikName": "Ивантеевская",
+    "uikName": "УИК №943",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 944,
     "uikTvd": "4644015224579",
     "tikTvd": "26420001727954",
-    "tikName": "Ивантеевская"
+    "tikName": "Ивантеевская",
+    "uikName": "УИК №944",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 945,
     "uikTvd": "4644015224580",
     "tikTvd": "26420001727954",
-    "tikName": "Ивантеевская"
+    "tikName": "Ивантеевская",
+    "uikName": "УИК №945",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 946,
     "uikTvd": "4644016261071",
     "tikTvd": "26420001727969",
-    "tikName": "Калининская"
+    "tikName": "Калининская",
+    "uikName": "УИК №946",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 947,
     "uikTvd": "4644016261072",
     "tikTvd": "26420001727969",
-    "tikName": "Калининская"
+    "tikName": "Калининская",
+    "uikName": "УИК №947",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 948,
     "uikTvd": "4644016261073",
     "tikTvd": "26420001727969",
-    "tikName": "Калининская"
+    "tikName": "Калининская",
+    "uikName": "УИК №948",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 949,
     "uikTvd": "4644016261074",
     "tikTvd": "26420001727969",
-    "tikName": "Калининская"
+    "tikName": "Калининская",
+    "uikName": "УИК №949",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 950,
     "uikTvd": "4644016261075",
     "tikTvd": "26420001727969",
-    "tikName": "Калининская"
+    "tikName": "Калининская",
+    "uikName": "УИК №950",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 951,
     "uikTvd": "4644016261076",
     "tikTvd": "26420001727969",
-    "tikName": "Калининская"
+    "tikName": "Калининская",
+    "uikName": "УИК №951",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 952,
     "uikTvd": "4644016261077",
     "tikTvd": "26420001727969",
-    "tikName": "Калининская"
+    "tikName": "Калининская",
+    "uikName": "УИК №952",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 953,
     "uikTvd": "4644016261078",
     "tikTvd": "26420001727969",
-    "tikName": "Калининская"
+    "tikName": "Калининская",
+    "uikName": "УИК №953",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 954,
     "uikTvd": "4644016261079",
     "tikTvd": "26420001727969",
-    "tikName": "Калининская"
+    "tikName": "Калининская",
+    "uikName": "УИК №954",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 955,
     "uikTvd": "4644016261080",
     "tikTvd": "26420001727969",
-    "tikName": "Калининская"
+    "tikName": "Калининская",
+    "uikName": "УИК №955",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 956,
     "uikTvd": "4644016261081",
     "tikTvd": "26420001727969",
-    "tikName": "Калининская"
+    "tikName": "Калининская",
+    "uikName": "УИК №956",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 957,
     "uikTvd": "4644016261082",
     "tikTvd": "26420001727969",
-    "tikName": "Калининская"
+    "tikName": "Калининская",
+    "uikName": "УИК №957",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 958,
     "uikTvd": "4644016261083",
     "tikTvd": "26420001727969",
-    "tikName": "Калининская"
+    "tikName": "Калининская",
+    "uikName": "УИК №958",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 959,
     "uikTvd": "4644016261084",
     "tikTvd": "26420001727969",
-    "tikName": "Калининская"
+    "tikName": "Калининская",
+    "uikName": "УИК №959",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 960,
     "uikTvd": "4644016261085",
     "tikTvd": "26420001727969",
-    "tikName": "Калининская"
+    "tikName": "Калининская",
+    "uikName": "УИК №960",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 961,
     "uikTvd": "4644016261086",
     "tikTvd": "26420001727969",
-    "tikName": "Калининская"
+    "tikName": "Калининская",
+    "uikName": "УИК №961",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 962,
     "uikTvd": "4644016261087",
     "tikTvd": "26420001727969",
-    "tikName": "Калининская"
+    "tikName": "Калининская",
+    "uikName": "УИК №962",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 963,
     "uikTvd": "4644016261088",
     "tikTvd": "26420001727969",
-    "tikName": "Калининская"
+    "tikName": "Калининская",
+    "uikName": "УИК №963",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 964,
     "uikTvd": "4644016261089",
     "tikTvd": "26420001727969",
-    "tikName": "Калининская"
+    "tikName": "Калининская",
+    "uikName": "УИК №964",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 965,
     "uikTvd": "4644016261090",
     "tikTvd": "26420001727969",
-    "tikName": "Калининская"
+    "tikName": "Калининская",
+    "uikName": "УИК №965",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 966,
     "uikTvd": "4644016261091",
     "tikTvd": "26420001727969",
-    "tikName": "Калининская"
+    "tikName": "Калининская",
+    "uikName": "УИК №966",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 967,
     "uikTvd": "4644016261092",
     "tikTvd": "26420001727969",
-    "tikName": "Калининская"
+    "tikName": "Калининская",
+    "uikName": "УИК №967",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 968,
     "uikTvd": "4644016261093",
     "tikTvd": "26420001727969",
-    "tikName": "Калининская"
+    "tikName": "Калининская",
+    "uikName": "УИК №968",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 969,
     "uikTvd": "4644016261094",
     "tikTvd": "26420001727969",
-    "tikName": "Калининская"
+    "tikName": "Калининская",
+    "uikName": "УИК №969",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 970,
     "uikTvd": "4644016261095",
     "tikTvd": "26420001727969",
-    "tikName": "Калининская"
+    "tikName": "Калининская",
+    "uikName": "УИК №970",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 971,
     "uikTvd": "4644016261096",
     "tikTvd": "26420001727969",
-    "tikName": "Калининская"
+    "tikName": "Калининская",
+    "uikName": "УИК №971",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 972,
     "uikTvd": "4644016261097",
     "tikTvd": "26420001727969",
-    "tikName": "Калининская"
+    "tikName": "Калининская",
+    "uikName": "УИК №972",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 973,
     "uikTvd": "4644016261098",
     "tikTvd": "26420001727969",
-    "tikName": "Калининская"
+    "tikName": "Калининская",
+    "uikName": "УИК №973",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 974,
     "uikTvd": "4644016261099",
     "tikTvd": "26420001727969",
-    "tikName": "Калининская"
+    "tikName": "Калининская",
+    "uikName": "УИК №974",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 975,
     "uikTvd": "4644016261100",
     "tikTvd": "26420001727969",
-    "tikName": "Калининская"
+    "tikName": "Калининская",
+    "uikName": "УИК №975",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 976,
     "uikTvd": "4644016261101",
     "tikTvd": "26420001727969",
-    "tikName": "Калининская"
+    "tikName": "Калининская",
+    "uikName": "УИК №976",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 977,
     "uikTvd": "4644016261102",
     "tikTvd": "26420001727969",
-    "tikName": "Калининская"
+    "tikName": "Калининская",
+    "uikName": "УИК №977",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 978,
     "uikTvd": "4644016261103",
     "tikTvd": "26420001727969",
-    "tikName": "Калининская"
+    "tikName": "Калининская",
+    "uikName": "УИК №978",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 979,
     "uikTvd": "4644016261104",
     "tikTvd": "26420001727969",
-    "tikName": "Калининская"
+    "tikName": "Калининская",
+    "uikName": "УИК №979",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 980,
     "uikTvd": "4644016261105",
     "tikTvd": "26420001727969",
-    "tikName": "Калининская"
+    "tikName": "Калининская",
+    "uikName": "УИК №980",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 981,
     "uikTvd": "4644016261106",
     "tikTvd": "26420001727969",
-    "tikName": "Калининская"
+    "tikName": "Калининская",
+    "uikName": "УИК №981",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 982,
     "uikTvd": "4644016261107",
     "tikTvd": "26420001727969",
-    "tikName": "Калининская"
+    "tikName": "Калининская",
+    "uikName": "УИК №982",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 983,
     "uikTvd": "4644016261108",
     "tikTvd": "26420001727969",
-    "tikName": "Калининская"
+    "tikName": "Калининская",
+    "uikName": "УИК №983",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 984,
     "uikTvd": "4644016261109",
     "tikTvd": "26420001727969",
-    "tikName": "Калининская"
+    "tikName": "Калининская",
+    "uikName": "УИК №984",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 985,
     "uikTvd": "4644016261110",
     "tikTvd": "26420001727969",
-    "tikName": "Калининская"
+    "tikName": "Калининская",
+    "uikName": "УИК №985",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 986,
     "uikTvd": "4644016261111",
     "tikTvd": "26420001727969",
-    "tikName": "Калининская"
+    "tikName": "Калининская",
+    "uikName": "УИК №986",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 987,
     "uikTvd": "4644016261112",
     "tikTvd": "26420001727969",
-    "tikName": "Калининская"
+    "tikName": "Калининская",
+    "uikName": "УИК №987",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 988,
     "uikTvd": "4644016261113",
     "tikTvd": "26420001727969",
-    "tikName": "Калининская"
+    "tikName": "Калининская",
+    "uikName": "УИК №988",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 989,
     "uikTvd": "4644016261114",
     "tikTvd": "26420001727969",
-    "tikName": "Калининская"
+    "tikName": "Калининская",
+    "uikName": "УИК №989",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 990,
     "uikTvd": "4644017324782",
     "tikTvd": "26420001727968",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "uikName": "УИК №990",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 991,
     "uikTvd": "4644017324783",
     "tikTvd": "26420001727968",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "uikName": "УИК №991",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 992,
     "uikTvd": "4644017324784",
     "tikTvd": "26420001727968",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "uikName": "УИК №992",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 993,
     "uikTvd": "4644017324785",
     "tikTvd": "26420001727968",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "uikName": "УИК №993",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 994,
     "uikTvd": "4644017324786",
     "tikTvd": "26420001727968",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "uikName": "УИК №994",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 995,
     "uikTvd": "4644017324787",
     "tikTvd": "26420001727968",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "uikName": "УИК №995",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 996,
     "uikTvd": "4644017324788",
     "tikTvd": "26420001727968",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "uikName": "УИК №996",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 997,
     "uikTvd": "4644017324789",
     "tikTvd": "26420001727968",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "uikName": "УИК №997",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 998,
     "uikTvd": "4644017324790",
     "tikTvd": "26420001727968",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "uikName": "УИК №998",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 999,
     "uikTvd": "4644017324791",
     "tikTvd": "26420001727968",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "uikName": "УИК №999",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1000,
     "uikTvd": "4644017324792",
     "tikTvd": "26420001727968",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "uikName": "УИК №1000",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1001,
     "uikTvd": "4644017324793",
     "tikTvd": "26420001727968",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "uikName": "УИК №1001",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1002,
     "uikTvd": "4644017324794",
     "tikTvd": "26420001727968",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "uikName": "УИК №1002",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1003,
     "uikTvd": "4644017324795",
     "tikTvd": "26420001727968",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "uikName": "УИК №1003",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1004,
     "uikTvd": "4644017324796",
     "tikTvd": "26420001727968",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "uikName": "УИК №1004",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1005,
     "uikTvd": "4644017324797",
     "tikTvd": "26420001727968",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "uikName": "УИК №1005",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1006,
     "uikTvd": "4644017324798",
     "tikTvd": "26420001727968",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "uikName": "УИК №1006",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1007,
     "uikTvd": "4644017324799",
     "tikTvd": "26420001727968",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "uikName": "УИК №1007",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1008,
     "uikTvd": "4644017324800",
     "tikTvd": "26420001727968",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "uikName": "УИК №1008",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1009,
     "uikTvd": "4644017324801",
     "tikTvd": "26420001727968",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "uikName": "УИК №1009",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1010,
     "uikTvd": "4644017324802",
     "tikTvd": "26420001727968",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "uikName": "УИК №1010",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1011,
     "uikTvd": "4644017324803",
     "tikTvd": "26420001727968",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "uikName": "УИК №1011",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1012,
     "uikTvd": "4644017324804",
     "tikTvd": "26420001727968",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "uikName": "УИК №1012",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1013,
     "uikTvd": "4644017324805",
     "tikTvd": "26420001727968",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "uikName": "УИК №1013",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1014,
     "uikTvd": "4644017324806",
     "tikTvd": "26420001727968",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "uikName": "УИК №1014",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1015,
     "uikTvd": "4644017324807",
     "tikTvd": "26420001727968",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "uikName": "УИК №1015",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1016,
     "uikTvd": "4644017324808",
     "tikTvd": "26420001727968",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "uikName": "УИК №1016",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1017,
     "uikTvd": "4644017324809",
     "tikTvd": "26420001727968",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "uikName": "УИК №1017",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1018,
     "uikTvd": "4644017324810",
     "tikTvd": "26420001727968",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "uikName": "УИК №1018",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1019,
     "uikTvd": "4644017324811",
     "tikTvd": "26420001727968",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "uikName": "УИК №1019",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1020,
     "uikTvd": "4644017324812",
     "tikTvd": "26420001727968",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "uikName": "УИК №1020",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1021,
     "uikTvd": "4644017324813",
     "tikTvd": "26420001727968",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "uikName": "УИК №1021",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1022,
     "uikTvd": "4644017324814",
     "tikTvd": "26420001727968",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "uikName": "УИК №1022",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1023,
     "uikTvd": "4644017324815",
     "tikTvd": "26420001727968",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "uikName": "УИК №1023",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1024,
     "uikTvd": "4644017324816",
     "tikTvd": "26420001727968",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "uikName": "УИК №1024",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1025,
     "uikTvd": "4644017324817",
     "tikTvd": "26420001727968",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "uikName": "УИК №1025",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1026,
     "uikTvd": "4644017324818",
     "tikTvd": "26420001727968",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "uikName": "УИК №1026",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1027,
     "uikTvd": "4644017324819",
     "tikTvd": "26420001727968",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "uikName": "УИК №1027",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1028,
     "uikTvd": "4644017324820",
     "tikTvd": "26420001727968",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "uikName": "УИК №1028",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1029,
     "uikTvd": "4644017324821",
     "tikTvd": "26420001727968",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "uikName": "УИК №1029",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1030,
     "uikTvd": "4644017324822",
     "tikTvd": "26420001727968",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "uikName": "УИК №1030",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1031,
     "uikTvd": "4644017324823",
     "tikTvd": "26420001727968",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "uikName": "УИК №1031",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1032,
     "uikTvd": "4644017324824",
     "tikTvd": "26420001727968",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "uikName": "УИК №1032",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1033,
     "uikTvd": "4644017324825",
     "tikTvd": "26420001727968",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "uikName": "УИК №1033",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1034,
     "uikTvd": "4644017324826",
     "tikTvd": "26420001727968",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "uikName": "УИК №1034",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1035,
     "uikTvd": "4644017324827",
     "tikTvd": "26420001727968",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "uikName": "УИК №1035",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1036,
     "uikTvd": "4644017324828",
     "tikTvd": "26420001727968",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "uikName": "УИК №1036",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1037,
     "uikTvd": "4644017325646",
     "tikTvd": "26420001727968",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "uikName": "УИК №1037",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1038,
     "uikTvd": "4644018709974",
     "tikTvd": "26420001727982",
-    "tikName": "Краснокутская"
+    "tikName": "Краснокутская",
+    "uikName": "УИК №1038",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1039,
     "uikTvd": "4644018709975",
     "tikTvd": "26420001727982",
-    "tikName": "Краснокутская"
+    "tikName": "Краснокутская",
+    "uikName": "УИК №1039",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1040,
     "uikTvd": "4644018709976",
     "tikTvd": "26420001727982",
-    "tikName": "Краснокутская"
+    "tikName": "Краснокутская",
+    "uikName": "УИК №1040",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1041,
     "uikTvd": "4644018709977",
     "tikTvd": "26420001727982",
-    "tikName": "Краснокутская"
+    "tikName": "Краснокутская",
+    "uikName": "УИК №1041",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1042,
     "uikTvd": "4644018709978",
     "tikTvd": "26420001727982",
-    "tikName": "Краснокутская"
+    "tikName": "Краснокутская",
+    "uikName": "УИК №1042",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1043,
     "uikTvd": "4644018709979",
     "tikTvd": "26420001727982",
-    "tikName": "Краснокутская"
+    "tikName": "Краснокутская",
+    "uikName": "УИК №1043",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1044,
     "uikTvd": "4644018709980",
     "tikTvd": "26420001727982",
-    "tikName": "Краснокутская"
+    "tikName": "Краснокутская",
+    "uikName": "УИК №1044",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1045,
     "uikTvd": "4644018709981",
     "tikTvd": "26420001727982",
-    "tikName": "Краснокутская"
+    "tikName": "Краснокутская",
+    "uikName": "УИК №1045",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1046,
     "uikTvd": "4644018709982",
     "tikTvd": "26420001727982",
-    "tikName": "Краснокутская"
+    "tikName": "Краснокутская",
+    "uikName": "УИК №1046",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1047,
     "uikTvd": "4644018709983",
     "tikTvd": "26420001727982",
-    "tikName": "Краснокутская"
+    "tikName": "Краснокутская",
+    "uikName": "УИК №1047",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1048,
     "uikTvd": "4644018709984",
     "tikTvd": "26420001727982",
-    "tikName": "Краснокутская"
+    "tikName": "Краснокутская",
+    "uikName": "УИК №1048",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1049,
     "uikTvd": "4644018709985",
     "tikTvd": "26420001727982",
-    "tikName": "Краснокутская"
+    "tikName": "Краснокутская",
+    "uikName": "УИК №1049",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1050,
     "uikTvd": "4644018709986",
     "tikTvd": "26420001727982",
-    "tikName": "Краснокутская"
+    "tikName": "Краснокутская",
+    "uikName": "УИК №1050",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1051,
     "uikTvd": "4644018709987",
     "tikTvd": "26420001727982",
-    "tikName": "Краснокутская"
+    "tikName": "Краснокутская",
+    "uikName": "УИК №1051",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1052,
     "uikTvd": "4644018709988",
     "tikTvd": "26420001727982",
-    "tikName": "Краснокутская"
+    "tikName": "Краснокутская",
+    "uikName": "УИК №1052",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1053,
     "uikTvd": "4644018709989",
     "tikTvd": "26420001727982",
-    "tikName": "Краснокутская"
+    "tikName": "Краснокутская",
+    "uikName": "УИК №1053",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1054,
     "uikTvd": "4644018709990",
     "tikTvd": "26420001727982",
-    "tikName": "Краснокутская"
+    "tikName": "Краснокутская",
+    "uikName": "УИК №1054",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1055,
     "uikTvd": "4644018709991",
     "tikTvd": "26420001727982",
-    "tikName": "Краснокутская"
+    "tikName": "Краснокутская",
+    "uikName": "УИК №1055",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1056,
     "uikTvd": "4644018709992",
     "tikTvd": "26420001727982",
-    "tikName": "Краснокутская"
+    "tikName": "Краснокутская",
+    "uikName": "УИК №1056",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1057,
     "uikTvd": "4644018709993",
     "tikTvd": "26420001727982",
-    "tikName": "Краснокутская"
+    "tikName": "Краснокутская",
+    "uikName": "УИК №1057",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1058,
     "uikTvd": "4644018709994",
     "tikTvd": "26420001727982",
-    "tikName": "Краснокутская"
+    "tikName": "Краснокутская",
+    "uikName": "УИК №1058",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1059,
     "uikTvd": "4644018709995",
     "tikTvd": "26420001727982",
-    "tikName": "Краснокутская"
+    "tikName": "Краснокутская",
+    "uikName": "УИК №1059",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1060,
     "uikTvd": "4644018709996",
     "tikTvd": "26420001727982",
-    "tikName": "Краснокутская"
+    "tikName": "Краснокутская",
+    "uikName": "УИК №1060",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1061,
     "uikTvd": "4644018709997",
     "tikTvd": "26420001727982",
-    "tikName": "Краснокутская"
+    "tikName": "Краснокутская",
+    "uikName": "УИК №1061",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1062,
     "uikTvd": "4644018709998",
     "tikTvd": "26420001727982",
-    "tikName": "Краснокутская"
+    "tikName": "Краснокутская",
+    "uikName": "УИК №1062",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1063,
     "uikTvd": "4644018709999",
     "tikTvd": "26420001727982",
-    "tikName": "Краснокутская"
+    "tikName": "Краснокутская",
+    "uikName": "УИК №1063",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1064,
     "uikTvd": "4644018710000",
     "tikTvd": "26420001727982",
-    "tikName": "Краснокутская"
+    "tikName": "Краснокутская",
+    "uikName": "УИК №1064",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1065,
     "uikTvd": "4644018710001",
     "tikTvd": "26420001727982",
-    "tikName": "Краснокутская"
+    "tikName": "Краснокутская",
+    "uikName": "УИК №1065",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1066,
     "uikTvd": "4644018710002",
     "tikTvd": "26420001727982",
-    "tikName": "Краснокутская"
+    "tikName": "Краснокутская",
+    "uikName": "УИК №1066",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1067,
     "uikTvd": "4644018710003",
     "tikTvd": "26420001727982",
-    "tikName": "Краснокутская"
+    "tikName": "Краснокутская",
+    "uikName": "УИК №1067",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1068,
     "uikTvd": "4644018710004",
     "tikTvd": "26420001727982",
-    "tikName": "Краснокутская"
+    "tikName": "Краснокутская",
+    "uikName": "УИК №1068",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1069,
     "uikTvd": "4644018710005",
     "tikTvd": "26420001727982",
-    "tikName": "Краснокутская"
+    "tikName": "Краснокутская",
+    "uikName": "УИК №1069",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1070,
     "uikTvd": "4644018710006",
     "tikTvd": "26420001727982",
-    "tikName": "Краснокутская"
+    "tikName": "Краснокутская",
+    "uikName": "УИК №1070",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1071,
     "uikTvd": "4644018710007",
     "tikTvd": "26420001727982",
-    "tikName": "Краснокутская"
+    "tikName": "Краснокутская",
+    "uikName": "УИК №1071",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1072,
     "uikTvd": "4644018710008",
     "tikTvd": "26420001727982",
-    "tikName": "Краснокутская"
+    "tikName": "Краснокутская",
+    "uikName": "УИК №1072",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1073,
     "uikTvd": "4644018710009",
     "tikTvd": "26420001727982",
-    "tikName": "Краснокутская"
+    "tikName": "Краснокутская",
+    "uikName": "УИК №1073",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1074,
     "uikTvd": "4644018710010",
     "tikTvd": "26420001727982",
-    "tikName": "Краснокутская"
+    "tikName": "Краснокутская",
+    "uikName": "УИК №1074",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1075,
     "uikTvd": "4644018710011",
     "tikTvd": "26420001727982",
-    "tikName": "Краснокутская"
+    "tikName": "Краснокутская",
+    "uikName": "УИК №1075",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1076,
     "uikTvd": "4644019182118",
     "tikTvd": "26420001727953",
-    "tikName": "Краснопартизанская"
+    "tikName": "Краснопартизанская",
+    "uikName": "УИК №1076",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 1077,
     "uikTvd": "4644019182119",
     "tikTvd": "26420001727953",
-    "tikName": "Краснопартизанская"
+    "tikName": "Краснопартизанская",
+    "uikName": "УИК №1077",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 1078,
     "uikTvd": "4644019182120",
     "tikTvd": "26420001727953",
-    "tikName": "Краснопартизанская"
+    "tikName": "Краснопартизанская",
+    "uikName": "УИК №1078",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 1079,
     "uikTvd": "4644019182121",
     "tikTvd": "26420001727953",
-    "tikName": "Краснопартизанская"
+    "tikName": "Краснопартизанская",
+    "uikName": "УИК №1079",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 1080,
     "uikTvd": "4644019182122",
     "tikTvd": "26420001727953",
-    "tikName": "Краснопартизанская"
+    "tikName": "Краснопартизанская",
+    "uikName": "УИК №1080",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 1081,
     "uikTvd": "4644019182123",
     "tikTvd": "26420001727953",
-    "tikName": "Краснопартизанская"
+    "tikName": "Краснопартизанская",
+    "uikName": "УИК №1081",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 1082,
     "uikTvd": "4644019182124",
     "tikTvd": "26420001727953",
-    "tikName": "Краснопартизанская"
+    "tikName": "Краснопартизанская",
+    "uikName": "УИК №1082",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 1084,
     "uikTvd": "4644019182125",
     "tikTvd": "26420001727953",
-    "tikName": "Краснопартизанская"
+    "tikName": "Краснопартизанская",
+    "uikName": "УИК №1084",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 1085,
     "uikTvd": "4644019182126",
     "tikTvd": "26420001727953",
-    "tikName": "Краснопартизанская"
+    "tikName": "Краснопартизанская",
+    "uikName": "УИК №1085",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 1087,
     "uikTvd": "4644019182127",
     "tikTvd": "26420001727953",
-    "tikName": "Краснопартизанская"
+    "tikName": "Краснопартизанская",
+    "uikName": "УИК №1087",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 1088,
     "uikTvd": "4644019182128",
     "tikTvd": "26420001727953",
-    "tikName": "Краснопартизанская"
+    "tikName": "Краснопартизанская",
+    "uikName": "УИК №1088",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 1089,
     "uikTvd": "4644019182129",
     "tikTvd": "26420001727953",
-    "tikName": "Краснопартизанская"
+    "tikName": "Краснопартизанская",
+    "uikName": "УИК №1089",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 1090,
     "uikTvd": "4644019182130",
     "tikTvd": "26420001727953",
-    "tikName": "Краснопартизанская"
+    "tikName": "Краснопартизанская",
+    "uikName": "УИК №1090",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 1091,
     "uikTvd": "4644019182131",
     "tikTvd": "26420001727953",
-    "tikName": "Краснопартизанская"
+    "tikName": "Краснопартизанская",
+    "uikName": "УИК №1091",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 1092,
     "uikTvd": "4644019182132",
     "tikTvd": "26420001727953",
-    "tikName": "Краснопартизанская"
+    "tikName": "Краснопартизанская",
+    "uikName": "УИК №1092",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 1093,
     "uikTvd": "4644019182133",
     "tikTvd": "26420001727953",
-    "tikName": "Краснопартизанская"
+    "tikName": "Краснопартизанская",
+    "uikName": "УИК №1093",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 1094,
     "uikTvd": "4644019182134",
     "tikTvd": "26420001727953",
-    "tikName": "Краснопартизанская"
+    "tikName": "Краснопартизанская",
+    "uikName": "УИК №1094",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 1095,
     "uikTvd": "4644019182135",
     "tikTvd": "26420001727953",
-    "tikName": "Краснопартизанская"
+    "tikName": "Краснопартизанская",
+    "uikName": "УИК №1095",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 1096,
     "uikTvd": "4644019182136",
     "tikTvd": "26420001727953",
-    "tikName": "Краснопартизанская"
+    "tikName": "Краснопартизанская",
+    "uikName": "УИК №1096",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 1097,
     "uikTvd": "4644019182137",
     "tikTvd": "26420001727953",
-    "tikName": "Краснопартизанская"
+    "tikName": "Краснопартизанская",
+    "uikName": "УИК №1097",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 1098,
     "uikTvd": "4644019182138",
     "tikTvd": "26420001727953",
-    "tikName": "Краснопартизанская"
+    "tikName": "Краснопартизанская",
+    "uikName": "УИК №1098",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 1099,
     "uikTvd": "4644020262522",
     "tikTvd": "26420001727967",
-    "tikName": "Лысогорская"
+    "tikName": "Лысогорская",
+    "uikName": "УИК №1099",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1100,
     "uikTvd": "4644020262523",
     "tikTvd": "26420001727967",
-    "tikName": "Лысогорская"
+    "tikName": "Лысогорская",
+    "uikName": "УИК №1100",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1101,
     "uikTvd": "4644020262524",
     "tikTvd": "26420001727967",
-    "tikName": "Лысогорская"
+    "tikName": "Лысогорская",
+    "uikName": "УИК №1101",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1102,
     "uikTvd": "4644020262525",
     "tikTvd": "26420001727967",
-    "tikName": "Лысогорская"
+    "tikName": "Лысогорская",
+    "uikName": "УИК №1102",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1103,
     "uikTvd": "4644020262526",
     "tikTvd": "26420001727967",
-    "tikName": "Лысогорская"
+    "tikName": "Лысогорская",
+    "uikName": "УИК №1103",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1104,
     "uikTvd": "4644020262527",
     "tikTvd": "26420001727967",
-    "tikName": "Лысогорская"
+    "tikName": "Лысогорская",
+    "uikName": "УИК №1104",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1105,
     "uikTvd": "4644020262528",
     "tikTvd": "26420001727967",
-    "tikName": "Лысогорская"
+    "tikName": "Лысогорская",
+    "uikName": "УИК №1105",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1106,
     "uikTvd": "4644020262529",
     "tikTvd": "26420001727967",
-    "tikName": "Лысогорская"
+    "tikName": "Лысогорская",
+    "uikName": "УИК №1106",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1107,
     "uikTvd": "4644020262530",
     "tikTvd": "26420001727967",
-    "tikName": "Лысогорская"
+    "tikName": "Лысогорская",
+    "uikName": "УИК №1107",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1108,
     "uikTvd": "4644020262531",
     "tikTvd": "26420001727967",
-    "tikName": "Лысогорская"
+    "tikName": "Лысогорская",
+    "uikName": "УИК №1108",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1109,
     "uikTvd": "4644020262532",
     "tikTvd": "26420001727967",
-    "tikName": "Лысогорская"
+    "tikName": "Лысогорская",
+    "uikName": "УИК №1109",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1110,
     "uikTvd": "4644020262533",
     "tikTvd": "26420001727967",
-    "tikName": "Лысогорская"
+    "tikName": "Лысогорская",
+    "uikName": "УИК №1110",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1111,
     "uikTvd": "4644020262534",
     "tikTvd": "26420001727967",
-    "tikName": "Лысогорская"
+    "tikName": "Лысогорская",
+    "uikName": "УИК №1111",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1112,
     "uikTvd": "4644020262535",
     "tikTvd": "26420001727967",
-    "tikName": "Лысогорская"
+    "tikName": "Лысогорская",
+    "uikName": "УИК №1112",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1113,
     "uikTvd": "4644020262536",
     "tikTvd": "26420001727967",
-    "tikName": "Лысогорская"
+    "tikName": "Лысогорская",
+    "uikName": "УИК №1113",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1114,
     "uikTvd": "4644020262537",
     "tikTvd": "26420001727967",
-    "tikName": "Лысогорская"
+    "tikName": "Лысогорская",
+    "uikName": "УИК №1114",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1115,
     "uikTvd": "4644020262538",
     "tikTvd": "26420001727967",
-    "tikName": "Лысогорская"
+    "tikName": "Лысогорская",
+    "uikName": "УИК №1115",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1116,
     "uikTvd": "4644020262539",
     "tikTvd": "26420001727967",
-    "tikName": "Лысогорская"
+    "tikName": "Лысогорская",
+    "uikName": "УИК №1116",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1117,
     "uikTvd": "4644020262540",
     "tikTvd": "26420001727967",
-    "tikName": "Лысогорская"
+    "tikName": "Лысогорская",
+    "uikName": "УИК №1117",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1118,
     "uikTvd": "4644020262541",
     "tikTvd": "26420001727967",
-    "tikName": "Лысогорская"
+    "tikName": "Лысогорская",
+    "uikName": "УИК №1118",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1119,
     "uikTvd": "4644020262542",
     "tikTvd": "26420001727967",
-    "tikName": "Лысогорская"
+    "tikName": "Лысогорская",
+    "uikName": "УИК №1119",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1120,
     "uikTvd": "4644020262543",
     "tikTvd": "26420001727967",
-    "tikName": "Лысогорская"
+    "tikName": "Лысогорская",
+    "uikName": "УИК №1120",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1121,
     "uikTvd": "4644020262544",
     "tikTvd": "26420001727967",
-    "tikName": "Лысогорская"
+    "tikName": "Лысогорская",
+    "uikName": "УИК №1121",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1123,
     "uikTvd": "4644020262545",
     "tikTvd": "26420001727967",
-    "tikName": "Лысогорская"
+    "tikName": "Лысогорская",
+    "uikName": "УИК №1123",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1124,
     "uikTvd": "4644020262546",
     "tikTvd": "26420001727967",
-    "tikName": "Лысогорская"
+    "tikName": "Лысогорская",
+    "uikName": "УИК №1124",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1125,
     "uikTvd": "4644020262547",
     "tikTvd": "26420001727967",
-    "tikName": "Лысогорская"
+    "tikName": "Лысогорская",
+    "uikName": "УИК №1125",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1126,
     "uikTvd": "4644020262548",
     "tikTvd": "26420001727967",
-    "tikName": "Лысогорская"
+    "tikName": "Лысогорская",
+    "uikName": "УИК №1126",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1127,
     "uikTvd": "4644021376048",
     "tikTvd": "26420001727981",
-    "tikName": "Марксовская"
+    "tikName": "Марксовская",
+    "uikName": "УИК №1127",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1128,
     "uikTvd": "4644021376049",
     "tikTvd": "26420001727981",
-    "tikName": "Марксовская"
+    "tikName": "Марксовская",
+    "uikName": "УИК №1128",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1129,
     "uikTvd": "4644021376050",
     "tikTvd": "26420001727981",
-    "tikName": "Марксовская"
+    "tikName": "Марксовская",
+    "uikName": "УИК №1129",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1130,
     "uikTvd": "4644021376051",
     "tikTvd": "26420001727981",
-    "tikName": "Марксовская"
+    "tikName": "Марксовская",
+    "uikName": "УИК №1130",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1131,
     "uikTvd": "4644021376052",
     "tikTvd": "26420001727981",
-    "tikName": "Марксовская"
+    "tikName": "Марксовская",
+    "uikName": "УИК №1131",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1132,
     "uikTvd": "4644021376053",
     "tikTvd": "26420001727981",
-    "tikName": "Марксовская"
+    "tikName": "Марксовская",
+    "uikName": "УИК №1132",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1133,
     "uikTvd": "4644021376054",
     "tikTvd": "26420001727981",
-    "tikName": "Марксовская"
+    "tikName": "Марксовская",
+    "uikName": "УИК №1133",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1134,
     "uikTvd": "4644021376055",
     "tikTvd": "26420001727981",
-    "tikName": "Марксовская"
+    "tikName": "Марксовская",
+    "uikName": "УИК №1134",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1135,
     "uikTvd": "4644021376056",
     "tikTvd": "26420001727981",
-    "tikName": "Марксовская"
+    "tikName": "Марксовская",
+    "uikName": "УИК №1135",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1136,
     "uikTvd": "4644021376057",
     "tikTvd": "26420001727981",
-    "tikName": "Марксовская"
+    "tikName": "Марксовская",
+    "uikName": "УИК №1136",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1138,
     "uikTvd": "4644021376058",
     "tikTvd": "26420001727981",
-    "tikName": "Марксовская"
+    "tikName": "Марксовская",
+    "uikName": "УИК №1138",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1139,
     "uikTvd": "4644021376059",
     "tikTvd": "26420001727981",
-    "tikName": "Марксовская"
+    "tikName": "Марксовская",
+    "uikName": "УИК №1139",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1140,
     "uikTvd": "4644021376060",
     "tikTvd": "26420001727981",
-    "tikName": "Марксовская"
+    "tikName": "Марксовская",
+    "uikName": "УИК №1140",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1141,
     "uikTvd": "4644021376061",
     "tikTvd": "26420001727981",
-    "tikName": "Марксовская"
+    "tikName": "Марксовская",
+    "uikName": "УИК №1141",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1142,
     "uikTvd": "4644021376062",
     "tikTvd": "26420001727981",
-    "tikName": "Марксовская"
+    "tikName": "Марксовская",
+    "uikName": "УИК №1142",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1143,
     "uikTvd": "4644021376063",
     "tikTvd": "26420001727981",
-    "tikName": "Марксовская"
+    "tikName": "Марксовская",
+    "uikName": "УИК №1143",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1144,
     "uikTvd": "4644021376064",
     "tikTvd": "26420001727981",
-    "tikName": "Марксовская"
+    "tikName": "Марксовская",
+    "uikName": "УИК №1144",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1145,
     "uikTvd": "4644021376065",
     "tikTvd": "26420001727981",
-    "tikName": "Марксовская"
+    "tikName": "Марксовская",
+    "uikName": "УИК №1145",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1146,
     "uikTvd": "4644036522688",
     "tikTvd": "26420001727940",
-    "tikName": "Саратов, Ленинская"
+    "tikName": "Саратов, Ленинская",
+    "uikName": "УИК №1146",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 1147,
     "uikTvd": "4644021376066",
     "tikTvd": "26420001727981",
-    "tikName": "Марксовская"
+    "tikName": "Марксовская",
+    "uikName": "УИК №1147",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1148,
     "uikTvd": "4644021376067",
     "tikTvd": "26420001727981",
-    "tikName": "Марксовская"
+    "tikName": "Марксовская",
+    "uikName": "УИК №1148",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1150,
     "uikTvd": "4644021376068",
     "tikTvd": "26420001727981",
-    "tikName": "Марксовская"
+    "tikName": "Марксовская",
+    "uikName": "УИК №1150",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1151,
     "uikTvd": "4644021376069",
     "tikTvd": "26420001727981",
-    "tikName": "Марксовская"
+    "tikName": "Марксовская",
+    "uikName": "УИК №1151",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1152,
     "uikTvd": "4644021376070",
     "tikTvd": "26420001727981",
-    "tikName": "Марксовская"
+    "tikName": "Марксовская",
+    "uikName": "УИК №1152",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1153,
     "uikTvd": "4644021376071",
     "tikTvd": "26420001727981",
-    "tikName": "Марксовская"
+    "tikName": "Марксовская",
+    "uikName": "УИК №1153",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1154,
     "uikTvd": "4644021376072",
     "tikTvd": "26420001727981",
-    "tikName": "Марксовская"
+    "tikName": "Марксовская",
+    "uikName": "УИК №1154",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1155,
     "uikTvd": "4644021376073",
     "tikTvd": "26420001727981",
-    "tikName": "Марксовская"
+    "tikName": "Марксовская",
+    "uikName": "УИК №1155",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1156,
     "uikTvd": "4644021376074",
     "tikTvd": "26420001727981",
-    "tikName": "Марксовская"
+    "tikName": "Марксовская",
+    "uikName": "УИК №1156",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1157,
     "uikTvd": "4644021376075",
     "tikTvd": "26420001727981",
-    "tikName": "Марксовская"
+    "tikName": "Марксовская",
+    "uikName": "УИК №1157",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1158,
     "uikTvd": "4644021376076",
     "tikTvd": "26420001727981",
-    "tikName": "Марксовская"
+    "tikName": "Марксовская",
+    "uikName": "УИК №1158",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1159,
     "uikTvd": "4644021376077",
     "tikTvd": "26420001727981",
-    "tikName": "Марксовская"
+    "tikName": "Марксовская",
+    "uikName": "УИК №1159",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1160,
     "uikTvd": "4644021376078",
     "tikTvd": "26420001727981",
-    "tikName": "Марксовская"
+    "tikName": "Марксовская",
+    "uikName": "УИК №1160",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1161,
     "uikTvd": "4644021376079",
     "tikTvd": "26420001727981",
-    "tikName": "Марксовская"
+    "tikName": "Марксовская",
+    "uikName": "УИК №1161",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1162,
     "uikTvd": "4644021376080",
     "tikTvd": "26420001727981",
-    "tikName": "Марксовская"
+    "tikName": "Марксовская",
+    "uikName": "УИК №1162",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1163,
     "uikTvd": "4644021376081",
     "tikTvd": "26420001727981",
-    "tikName": "Марксовская"
+    "tikName": "Марксовская",
+    "uikName": "УИК №1163",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1164,
     "uikTvd": "4644021376082",
     "tikTvd": "26420001727981",
-    "tikName": "Марксовская"
+    "tikName": "Марксовская",
+    "uikName": "УИК №1164",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1165,
     "uikTvd": "4644021376083",
     "tikTvd": "26420001727981",
-    "tikName": "Марксовская"
+    "tikName": "Марксовская",
+    "uikName": "УИК №1165",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1166,
     "uikTvd": "4644021376084",
     "tikTvd": "26420001727981",
-    "tikName": "Марксовская"
+    "tikName": "Марксовская",
+    "uikName": "УИК №1166",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1167,
     "uikTvd": "4644021376085",
     "tikTvd": "26420001727981",
-    "tikName": "Марксовская"
+    "tikName": "Марксовская",
+    "uikName": "УИК №1167",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1168,
     "uikTvd": "4644021376086",
     "tikTvd": "26420001727981",
-    "tikName": "Марксовская"
+    "tikName": "Марксовская",
+    "uikName": "УИК №1168",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1169,
     "uikTvd": "4644021376087",
     "tikTvd": "26420001727981",
-    "tikName": "Марксовская"
+    "tikName": "Марксовская",
+    "uikName": "УИК №1169",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1170,
     "uikTvd": "4644021376088",
     "tikTvd": "26420001727981",
-    "tikName": "Марксовская"
+    "tikName": "Марксовская",
+    "uikName": "УИК №1170",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1171,
     "uikTvd": "4644021376089",
     "tikTvd": "26420001727981",
-    "tikName": "Марксовская"
+    "tikName": "Марксовская",
+    "uikName": "УИК №1171",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1172,
     "uikTvd": "4644021376090",
     "tikTvd": "26420001727981",
-    "tikName": "Марксовская"
+    "tikName": "Марксовская",
+    "uikName": "УИК №1172",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1173,
     "uikTvd": "4644021376091",
     "tikTvd": "26420001727981",
-    "tikName": "Марксовская"
+    "tikName": "Марксовская",
+    "uikName": "УИК №1173",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1174,
     "uikTvd": "4644021376092",
     "tikTvd": "26420001727981",
-    "tikName": "Марксовская"
+    "tikName": "Марксовская",
+    "uikName": "УИК №1174",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1175,
     "uikTvd": "4644021376093",
     "tikTvd": "26420001727981",
-    "tikName": "Марксовская"
+    "tikName": "Марксовская",
+    "uikName": "УИК №1175",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1176,
     "uikTvd": "4644021376094",
     "tikTvd": "26420001727981",
-    "tikName": "Марксовская"
+    "tikName": "Марксовская",
+    "uikName": "УИК №1176",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1177,
     "uikTvd": "4644021376095",
     "tikTvd": "26420001727981",
-    "tikName": "Марксовская"
+    "tikName": "Марксовская",
+    "uikName": "УИК №1177",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1178,
     "uikTvd": "4644021376096",
     "tikTvd": "26420001727981",
-    "tikName": "Марксовская"
+    "tikName": "Марксовская",
+    "uikName": "УИК №1178",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1179,
     "uikTvd": "4644021376097",
     "tikTvd": "26420001727981",
-    "tikName": "Марксовская"
+    "tikName": "Марксовская",
+    "uikName": "УИК №1179",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1180,
     "uikTvd": "4644021376098",
     "tikTvd": "26420001727981",
-    "tikName": "Марксовская"
+    "tikName": "Марксовская",
+    "uikName": "УИК №1180",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1181,
     "uikTvd": "4644021376099",
     "tikTvd": "26420001727981",
-    "tikName": "Марксовская"
+    "tikName": "Марксовская",
+    "uikName": "УИК №1181",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1182,
     "uikTvd": "4644021376100",
     "tikTvd": "26420001727981",
-    "tikName": "Марксовская"
+    "tikName": "Марксовская",
+    "uikName": "УИК №1182",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1183,
     "uikTvd": "4644021376101",
     "tikTvd": "26420001727981",
-    "tikName": "Марксовская"
+    "tikName": "Марксовская",
+    "uikName": "УИК №1183",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1184,
     "uikTvd": "4644021376102",
     "tikTvd": "26420001727981",
-    "tikName": "Марксовская"
+    "tikName": "Марксовская",
+    "uikName": "УИК №1184",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1185,
     "uikTvd": "4644021376103",
     "tikTvd": "26420001727981",
-    "tikName": "Марксовская"
+    "tikName": "Марксовская",
+    "uikName": "УИК №1185",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1186,
     "uikTvd": "4644021376104",
     "tikTvd": "26420001727981",
-    "tikName": "Марксовская"
+    "tikName": "Марксовская",
+    "uikName": "УИК №1186",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1187,
     "uikTvd": "4644021376105",
     "tikTvd": "26420001727981",
-    "tikName": "Марксовская"
+    "tikName": "Марксовская",
+    "uikName": "УИК №1187",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1188,
     "uikTvd": "4644021376106",
     "tikTvd": "26420001727981",
-    "tikName": "Марксовская"
+    "tikName": "Марксовская",
+    "uikName": "УИК №1188",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1189,
     "uikTvd": "4644022186847",
     "tikTvd": "26420001727943",
-    "tikName": "Новобурасская"
+    "tikName": "Новобурасская",
+    "uikName": "УИК №1189",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 1190,
     "uikTvd": "4644022186848",
     "tikTvd": "26420001727943",
-    "tikName": "Новобурасская"
+    "tikName": "Новобурасская",
+    "uikName": "УИК №1190",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 1191,
     "uikTvd": "4644022186849",
     "tikTvd": "26420001727943",
-    "tikName": "Новобурасская"
+    "tikName": "Новобурасская",
+    "uikName": "УИК №1191",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 1192,
     "uikTvd": "4644022186850",
     "tikTvd": "26420001727943",
-    "tikName": "Новобурасская"
+    "tikName": "Новобурасская",
+    "uikName": "УИК №1192",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 1193,
     "uikTvd": "4644022186851",
     "tikTvd": "26420001727943",
-    "tikName": "Новобурасская"
+    "tikName": "Новобурасская",
+    "uikName": "УИК №1193",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 1194,
     "uikTvd": "4644022186852",
     "tikTvd": "26420001727943",
-    "tikName": "Новобурасская"
+    "tikName": "Новобурасская",
+    "uikName": "УИК №1194",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 1195,
     "uikTvd": "4644022186853",
     "tikTvd": "26420001727943",
-    "tikName": "Новобурасская"
+    "tikName": "Новобурасская",
+    "uikName": "УИК №1195",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 1196,
     "uikTvd": "4644022186854",
     "tikTvd": "26420001727943",
-    "tikName": "Новобурасская"
+    "tikName": "Новобурасская",
+    "uikName": "УИК №1196",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 1197,
     "uikTvd": "4644022186855",
     "tikTvd": "26420001727943",
-    "tikName": "Новобурасская"
+    "tikName": "Новобурасская",
+    "uikName": "УИК №1197",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 1198,
     "uikTvd": "4644022186856",
     "tikTvd": "26420001727943",
-    "tikName": "Новобурасская"
+    "tikName": "Новобурасская",
+    "uikName": "УИК №1198",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 1199,
     "uikTvd": "4644022186857",
     "tikTvd": "26420001727943",
-    "tikName": "Новобурасская"
+    "tikName": "Новобурасская",
+    "uikName": "УИК №1199",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 1200,
     "uikTvd": "4644022186858",
     "tikTvd": "26420001727943",
-    "tikName": "Новобурасская"
+    "tikName": "Новобурасская",
+    "uikName": "УИК №1200",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 1201,
     "uikTvd": "4644022186859",
     "tikTvd": "26420001727943",
-    "tikName": "Новобурасская"
+    "tikName": "Новобурасская",
+    "uikName": "УИК №1201",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 1202,
     "uikTvd": "4644022186860",
     "tikTvd": "26420001727943",
-    "tikName": "Новобурасская"
+    "tikName": "Новобурасская",
+    "uikName": "УИК №1202",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 1203,
     "uikTvd": "4644022186861",
     "tikTvd": "26420001727943",
-    "tikName": "Новобурасская"
+    "tikName": "Новобурасская",
+    "uikName": "УИК №1203",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 1204,
     "uikTvd": "4644022186862",
     "tikTvd": "26420001727943",
-    "tikName": "Новобурасская"
+    "tikName": "Новобурасская",
+    "uikName": "УИК №1204",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 1205,
     "uikTvd": "4644022186863",
     "tikTvd": "26420001727943",
-    "tikName": "Новобурасская"
+    "tikName": "Новобурасская",
+    "uikName": "УИК №1205",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 1206,
     "uikTvd": "4644022186864",
     "tikTvd": "26420001727943",
-    "tikName": "Новобурасская"
+    "tikName": "Новобурасская",
+    "uikName": "УИК №1206",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 1207,
     "uikTvd": "4644022186865",
     "tikTvd": "26420001727943",
-    "tikName": "Новобурасская"
+    "tikName": "Новобурасская",
+    "uikName": "УИК №1207",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 1208,
     "uikTvd": "4644022186866",
     "tikTvd": "26420001727943",
-    "tikName": "Новобурасская"
+    "tikName": "Новобурасская",
+    "uikName": "УИК №1208",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 1209,
     "uikTvd": "4644022186867",
     "tikTvd": "26420001727943",
-    "tikName": "Новобурасская"
+    "tikName": "Новобурасская",
+    "uikName": "УИК №1209",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 1210,
     "uikTvd": "4644022186868",
     "tikTvd": "26420001727943",
-    "tikName": "Новобурасская"
+    "tikName": "Новобурасская",
+    "uikName": "УИК №1210",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 1211,
     "uikTvd": "4644022186869",
     "tikTvd": "26420001727943",
-    "tikName": "Новобурасская"
+    "tikName": "Новобурасская",
+    "uikName": "УИК №1211",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 1212,
     "uikTvd": "4644022186870",
     "tikTvd": "26420001727943",
-    "tikName": "Новобурасская"
+    "tikName": "Новобурасская",
+    "uikName": "УИК №1212",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 1213,
     "uikTvd": "4644022186871",
     "tikTvd": "26420001727943",
-    "tikName": "Новобурасская"
+    "tikName": "Новобурасская",
+    "uikName": "УИК №1213",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 1214,
     "uikTvd": "4644023373111",
     "tikTvd": "26420001727980",
-    "tikName": "Новоузенская"
+    "tikName": "Новоузенская",
+    "uikName": "УИК №1214",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1216,
     "uikTvd": "4644023373112",
     "tikTvd": "26420001727980",
-    "tikName": "Новоузенская"
+    "tikName": "Новоузенская",
+    "uikName": "УИК №1216",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1217,
     "uikTvd": "4644023373113",
     "tikTvd": "26420001727980",
-    "tikName": "Новоузенская"
+    "tikName": "Новоузенская",
+    "uikName": "УИК №1217",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1218,
     "uikTvd": "4644023373114",
     "tikTvd": "26420001727980",
-    "tikName": "Новоузенская"
+    "tikName": "Новоузенская",
+    "uikName": "УИК №1218",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1219,
     "uikTvd": "4644023373115",
     "tikTvd": "26420001727980",
-    "tikName": "Новоузенская"
+    "tikName": "Новоузенская",
+    "uikName": "УИК №1219",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1220,
     "uikTvd": "4644023373116",
     "tikTvd": "26420001727980",
-    "tikName": "Новоузенская"
+    "tikName": "Новоузенская",
+    "uikName": "УИК №1220",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1221,
     "uikTvd": "4644023373117",
     "tikTvd": "26420001727980",
-    "tikName": "Новоузенская"
+    "tikName": "Новоузенская",
+    "uikName": "УИК №1221",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1223,
     "uikTvd": "4644023373118",
     "tikTvd": "26420001727980",
-    "tikName": "Новоузенская"
+    "tikName": "Новоузенская",
+    "uikName": "УИК №1223",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1224,
     "uikTvd": "4644023373119",
     "tikTvd": "26420001727980",
-    "tikName": "Новоузенская"
+    "tikName": "Новоузенская",
+    "uikName": "УИК №1224",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1225,
     "uikTvd": "4644023373120",
     "tikTvd": "26420001727980",
-    "tikName": "Новоузенская"
+    "tikName": "Новоузенская",
+    "uikName": "УИК №1225",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1226,
     "uikTvd": "4644023373121",
     "tikTvd": "26420001727980",
-    "tikName": "Новоузенская"
+    "tikName": "Новоузенская",
+    "uikName": "УИК №1226",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1227,
     "uikTvd": "4644023373122",
     "tikTvd": "26420001727980",
-    "tikName": "Новоузенская"
+    "tikName": "Новоузенская",
+    "uikName": "УИК №1227",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1228,
     "uikTvd": "4644023373123",
     "tikTvd": "26420001727980",
-    "tikName": "Новоузенская"
+    "tikName": "Новоузенская",
+    "uikName": "УИК №1228",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1229,
     "uikTvd": "4644023373124",
     "tikTvd": "26420001727980",
-    "tikName": "Новоузенская"
+    "tikName": "Новоузенская",
+    "uikName": "УИК №1229",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1230,
     "uikTvd": "4644023373125",
     "tikTvd": "26420001727980",
-    "tikName": "Новоузенская"
+    "tikName": "Новоузенская",
+    "uikName": "УИК №1230",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1231,
     "uikTvd": "4644023373126",
     "tikTvd": "26420001727980",
-    "tikName": "Новоузенская"
+    "tikName": "Новоузенская",
+    "uikName": "УИК №1231",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1232,
     "uikTvd": "4644023373127",
     "tikTvd": "26420001727980",
-    "tikName": "Новоузенская"
+    "tikName": "Новоузенская",
+    "uikName": "УИК №1232",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1233,
     "uikTvd": "4644023373128",
     "tikTvd": "26420001727980",
-    "tikName": "Новоузенская"
+    "tikName": "Новоузенская",
+    "uikName": "УИК №1233",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1236,
     "uikTvd": "4644023373129",
     "tikTvd": "26420001727980",
-    "tikName": "Новоузенская"
+    "tikName": "Новоузенская",
+    "uikName": "УИК №1236",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1238,
     "uikTvd": "4644023373130",
     "tikTvd": "26420001727980",
-    "tikName": "Новоузенская"
+    "tikName": "Новоузенская",
+    "uikName": "УИК №1238",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1240,
     "uikTvd": "4644023373131",
     "tikTvd": "26420001727980",
-    "tikName": "Новоузенская"
+    "tikName": "Новоузенская",
+    "uikName": "УИК №1240",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1243,
     "uikTvd": "4644023373132",
     "tikTvd": "26420001727980",
-    "tikName": "Новоузенская"
+    "tikName": "Новоузенская",
+    "uikName": "УИК №1243",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1244,
     "uikTvd": "4644023373133",
     "tikTvd": "26420001727980",
-    "tikName": "Новоузенская"
+    "tikName": "Новоузенская",
+    "uikName": "УИК №1244",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1246,
     "uikTvd": "4644023373134",
     "tikTvd": "26420001727980",
-    "tikName": "Новоузенская"
+    "tikName": "Новоузенская",
+    "uikName": "УИК №1246",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1249,
     "uikTvd": "4644023373135",
     "tikTvd": "26420001727980",
-    "tikName": "Новоузенская"
+    "tikName": "Новоузенская",
+    "uikName": "УИК №1249",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1250,
     "uikTvd": "4644023373136",
     "tikTvd": "26420001727980",
-    "tikName": "Новоузенская"
+    "tikName": "Новоузенская",
+    "uikName": "УИК №1250",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1251,
     "uikTvd": "4644023373137",
     "tikTvd": "26420001727980",
-    "tikName": "Новоузенская"
+    "tikName": "Новоузенская",
+    "uikName": "УИК №1251",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1252,
     "uikTvd": "4644023373138",
     "tikTvd": "26420001727980",
-    "tikName": "Новоузенская"
+    "tikName": "Новоузенская",
+    "uikName": "УИК №1252",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1253,
     "uikTvd": "4644023373139",
     "tikTvd": "26420001727980",
-    "tikName": "Новоузенская"
+    "tikName": "Новоузенская",
+    "uikName": "УИК №1253",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1255,
     "uikTvd": "4644023373140",
     "tikTvd": "26420001727980",
-    "tikName": "Новоузенская"
+    "tikName": "Новоузенская",
+    "uikName": "УИК №1255",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1257,
     "uikTvd": "4644023373141",
     "tikTvd": "26420001727980",
-    "tikName": "Новоузенская"
+    "tikName": "Новоузенская",
+    "uikName": "УИК №1257",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1258,
     "uikTvd": "4644023373142",
     "tikTvd": "26420001727980",
-    "tikName": "Новоузенская"
+    "tikName": "Новоузенская",
+    "uikName": "УИК №1258",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1262,
     "uikTvd": "4644023373143",
     "tikTvd": "26420001727980",
-    "tikName": "Новоузенская"
+    "tikName": "Новоузенская",
+    "uikName": "УИК №1262",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1263,
     "uikTvd": "4644023373144",
     "tikTvd": "26420001727980",
-    "tikName": "Новоузенская"
+    "tikName": "Новоузенская",
+    "uikName": "УИК №1263",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1264,
     "uikTvd": "4644024308266",
     "tikTvd": "26420001727952",
-    "tikName": "Озинская"
+    "tikName": "Озинская",
+    "uikName": "УИК №1264",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 1265,
     "uikTvd": "4644024308268",
     "tikTvd": "26420001727952",
-    "tikName": "Озинская"
+    "tikName": "Озинская",
+    "uikName": "УИК №1265",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 1266,
     "uikTvd": "4644024308270",
     "tikTvd": "26420001727952",
-    "tikName": "Озинская"
+    "tikName": "Озинская",
+    "uikName": "УИК №1266",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 1267,
     "uikTvd": "4644024308272",
     "tikTvd": "26420001727952",
-    "tikName": "Озинская"
+    "tikName": "Озинская",
+    "uikName": "УИК №1267",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 1268,
     "uikTvd": "4644024308274",
     "tikTvd": "26420001727952",
-    "tikName": "Озинская"
+    "tikName": "Озинская",
+    "uikName": "УИК №1268",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 1269,
     "uikTvd": "4644024308276",
     "tikTvd": "26420001727952",
-    "tikName": "Озинская"
+    "tikName": "Озинская",
+    "uikName": "УИК №1269",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 1270,
     "uikTvd": "4644024308278",
     "tikTvd": "26420001727952",
-    "tikName": "Озинская"
+    "tikName": "Озинская",
+    "uikName": "УИК №1270",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 1271,
     "uikTvd": "4644024308280",
     "tikTvd": "26420001727952",
-    "tikName": "Озинская"
+    "tikName": "Озинская",
+    "uikName": "УИК №1271",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 1272,
     "uikTvd": "4644024308282",
     "tikTvd": "26420001727952",
-    "tikName": "Озинская"
+    "tikName": "Озинская",
+    "uikName": "УИК №1272",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 1273,
     "uikTvd": "4644024308284",
     "tikTvd": "26420001727952",
-    "tikName": "Озинская"
+    "tikName": "Озинская",
+    "uikName": "УИК №1273",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 1274,
     "uikTvd": "4644024308286",
     "tikTvd": "26420001727952",
-    "tikName": "Озинская"
+    "tikName": "Озинская",
+    "uikName": "УИК №1274",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 1275,
     "uikTvd": "4644024308288",
     "tikTvd": "26420001727952",
-    "tikName": "Озинская"
+    "tikName": "Озинская",
+    "uikName": "УИК №1275",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 1276,
     "uikTvd": "4644024308290",
     "tikTvd": "26420001727952",
-    "tikName": "Озинская"
+    "tikName": "Озинская",
+    "uikName": "УИК №1276",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 1277,
     "uikTvd": "4644024308292",
     "tikTvd": "26420001727952",
-    "tikName": "Озинская"
+    "tikName": "Озинская",
+    "uikName": "УИК №1277",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 1278,
     "uikTvd": "4644024308294",
     "tikTvd": "26420001727952",
-    "tikName": "Озинская"
+    "tikName": "Озинская",
+    "uikName": "УИК №1278",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 1279,
     "uikTvd": "4644024308296",
     "tikTvd": "26420001727952",
-    "tikName": "Озинская"
+    "tikName": "Озинская",
+    "uikName": "УИК №1279",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 1280,
     "uikTvd": "4644024308298",
     "tikTvd": "26420001727952",
-    "tikName": "Озинская"
+    "tikName": "Озинская",
+    "uikName": "УИК №1280",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 1281,
     "uikTvd": "4644024308300",
     "tikTvd": "26420001727952",
-    "tikName": "Озинская"
+    "tikName": "Озинская",
+    "uikName": "УИК №1281",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 1282,
     "uikTvd": "4644024308302",
     "tikTvd": "26420001727952",
-    "tikName": "Озинская"
+    "tikName": "Озинская",
+    "uikName": "УИК №1282",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 1283,
     "uikTvd": "4644024308304",
     "tikTvd": "26420001727952",
-    "tikName": "Озинская"
+    "tikName": "Озинская",
+    "uikName": "УИК №1283",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 1284,
     "uikTvd": "4644024308306",
     "tikTvd": "26420001727952",
-    "tikName": "Озинская"
+    "tikName": "Озинская",
+    "uikName": "УИК №1284",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 1285,
     "uikTvd": "4644024308308",
     "tikTvd": "26420001727952",
-    "tikName": "Озинская"
+    "tikName": "Озинская",
+    "uikName": "УИК №1285",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 1286,
     "uikTvd": "4644024308310",
     "tikTvd": "26420001727952",
-    "tikName": "Озинская"
+    "tikName": "Озинская",
+    "uikName": "УИК №1286",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 1287,
     "uikTvd": "4644024308312",
     "tikTvd": "26420001727952",
-    "tikName": "Озинская"
+    "tikName": "Озинская",
+    "uikName": "УИК №1287",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 1288,
     "uikTvd": "4644024308314",
     "tikTvd": "26420001727952",
-    "tikName": "Озинская"
+    "tikName": "Озинская",
+    "uikName": "УИК №1288",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 1289,
     "uikTvd": "4644024308316",
     "tikTvd": "26420001727952",
-    "tikName": "Озинская"
+    "tikName": "Озинская",
+    "uikName": "УИК №1289",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 1290,
     "uikTvd": "4644024308318",
     "tikTvd": "26420001727952",
-    "tikName": "Озинская"
+    "tikName": "Озинская",
+    "uikName": "УИК №1290",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 1291,
     "uikTvd": "4644024308320",
     "tikTvd": "26420001727952",
-    "tikName": "Озинская"
+    "tikName": "Озинская",
+    "uikName": "УИК №1291",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 1292,
     "uikTvd": "4644024308322",
     "tikTvd": "26420001727952",
-    "tikName": "Озинская"
+    "tikName": "Озинская",
+    "uikName": "УИК №1292",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 1293,
     "uikTvd": "4644025230214",
     "tikTvd": "26420001727951",
-    "tikName": "Перелюбская"
+    "tikName": "Перелюбская",
+    "uikName": "УИК №1293",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 1294,
     "uikTvd": "4644025230215",
     "tikTvd": "26420001727951",
-    "tikName": "Перелюбская"
+    "tikName": "Перелюбская",
+    "uikName": "УИК №1294",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 1295,
     "uikTvd": "4644025230216",
     "tikTvd": "26420001727951",
-    "tikName": "Перелюбская"
+    "tikName": "Перелюбская",
+    "uikName": "УИК №1295",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 1296,
     "uikTvd": "4644025230217",
     "tikTvd": "26420001727951",
-    "tikName": "Перелюбская"
+    "tikName": "Перелюбская",
+    "uikName": "УИК №1296",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 1297,
     "uikTvd": "4644025230218",
     "tikTvd": "26420001727951",
-    "tikName": "Перелюбская"
+    "tikName": "Перелюбская",
+    "uikName": "УИК №1297",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 1298,
     "uikTvd": "4644025230219",
     "tikTvd": "26420001727951",
-    "tikName": "Перелюбская"
+    "tikName": "Перелюбская",
+    "uikName": "УИК №1298",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 1299,
     "uikTvd": "4644025230220",
     "tikTvd": "26420001727951",
-    "tikName": "Перелюбская"
+    "tikName": "Перелюбская",
+    "uikName": "УИК №1299",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 1300,
     "uikTvd": "4644025230221",
     "tikTvd": "26420001727951",
-    "tikName": "Перелюбская"
+    "tikName": "Перелюбская",
+    "uikName": "УИК №1300",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 1301,
     "uikTvd": "4644025230222",
     "tikTvd": "26420001727951",
-    "tikName": "Перелюбская"
+    "tikName": "Перелюбская",
+    "uikName": "УИК №1301",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 1302,
     "uikTvd": "4644025230223",
     "tikTvd": "26420001727951",
-    "tikName": "Перелюбская"
+    "tikName": "Перелюбская",
+    "uikName": "УИК №1302",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 1303,
     "uikTvd": "4644025230224",
     "tikTvd": "26420001727951",
-    "tikName": "Перелюбская"
+    "tikName": "Перелюбская",
+    "uikName": "УИК №1303",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 1304,
     "uikTvd": "4644025230225",
     "tikTvd": "26420001727951",
-    "tikName": "Перелюбская"
+    "tikName": "Перелюбская",
+    "uikName": "УИК №1304",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 1305,
     "uikTvd": "4644025230226",
     "tikTvd": "26420001727951",
-    "tikName": "Перелюбская"
+    "tikName": "Перелюбская",
+    "uikName": "УИК №1305",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 1306,
     "uikTvd": "4644025230227",
     "tikTvd": "26420001727951",
-    "tikName": "Перелюбская"
+    "tikName": "Перелюбская",
+    "uikName": "УИК №1306",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 1307,
     "uikTvd": "4644025230228",
     "tikTvd": "26420001727951",
-    "tikName": "Перелюбская"
+    "tikName": "Перелюбская",
+    "uikName": "УИК №1307",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 1308,
     "uikTvd": "4644025230229",
     "tikTvd": "26420001727951",
-    "tikName": "Перелюбская"
+    "tikName": "Перелюбская",
+    "uikName": "УИК №1308",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 1309,
     "uikTvd": "4644025230230",
     "tikTvd": "26420001727951",
-    "tikName": "Перелюбская"
+    "tikName": "Перелюбская",
+    "uikName": "УИК №1309",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 1310,
     "uikTvd": "4644025230231",
     "tikTvd": "26420001727951",
-    "tikName": "Перелюбская"
+    "tikName": "Перелюбская",
+    "uikName": "УИК №1310",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 1311,
     "uikTvd": "4644025230232",
     "tikTvd": "26420001727951",
-    "tikName": "Перелюбская"
+    "tikName": "Перелюбская",
+    "uikName": "УИК №1311",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 1312,
     "uikTvd": "4644025230233",
     "tikTvd": "26420001727951",
-    "tikName": "Перелюбская"
+    "tikName": "Перелюбская",
+    "uikName": "УИК №1312",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 1313,
     "uikTvd": "4644025230234",
     "tikTvd": "26420001727951",
-    "tikName": "Перелюбская"
+    "tikName": "Перелюбская",
+    "uikName": "УИК №1313",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 1314,
     "uikTvd": "4644025230235",
     "tikTvd": "26420001727951",
-    "tikName": "Перелюбская"
+    "tikName": "Перелюбская",
+    "uikName": "УИК №1314",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 1315,
     "uikTvd": "4644025230236",
     "tikTvd": "26420001727951",
-    "tikName": "Перелюбская"
+    "tikName": "Перелюбская",
+    "uikName": "УИК №1315",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 1316,
     "uikTvd": "4644026313913",
     "tikTvd": "26420001727942",
-    "tikName": "Петровская"
+    "tikName": "Петровская",
+    "uikName": "УИК №1316",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 1318,
     "uikTvd": "4644026313914",
     "tikTvd": "26420001727942",
-    "tikName": "Петровская"
+    "tikName": "Петровская",
+    "uikName": "УИК №1318",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 1319,
     "uikTvd": "4644026313915",
     "tikTvd": "26420001727942",
-    "tikName": "Петровская"
+    "tikName": "Петровская",
+    "uikName": "УИК №1319",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 1320,
     "uikTvd": "4644026313916",
     "tikTvd": "26420001727942",
-    "tikName": "Петровская"
+    "tikName": "Петровская",
+    "uikName": "УИК №1320",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 1321,
     "uikTvd": "4644026313917",
     "tikTvd": "26420001727942",
-    "tikName": "Петровская"
+    "tikName": "Петровская",
+    "uikName": "УИК №1321",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 1322,
     "uikTvd": "4644026313918",
     "tikTvd": "26420001727942",
-    "tikName": "Петровская"
+    "tikName": "Петровская",
+    "uikName": "УИК №1322",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 1323,
     "uikTvd": "4644026313919",
     "tikTvd": "26420001727942",
-    "tikName": "Петровская"
+    "tikName": "Петровская",
+    "uikName": "УИК №1323",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 1325,
     "uikTvd": "4644026313920",
     "tikTvd": "26420001727942",
-    "tikName": "Петровская"
+    "tikName": "Петровская",
+    "uikName": "УИК №1325",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 1326,
     "uikTvd": "4644026313921",
     "tikTvd": "26420001727942",
-    "tikName": "Петровская"
+    "tikName": "Петровская",
+    "uikName": "УИК №1326",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 1327,
     "uikTvd": "4644026313922",
     "tikTvd": "26420001727942",
-    "tikName": "Петровская"
+    "tikName": "Петровская",
+    "uikName": "УИК №1327",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 1328,
     "uikTvd": "4644026313923",
     "tikTvd": "26420001727942",
-    "tikName": "Петровская"
+    "tikName": "Петровская",
+    "uikName": "УИК №1328",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 1329,
     "uikTvd": "4644026313924",
     "tikTvd": "26420001727942",
-    "tikName": "Петровская"
+    "tikName": "Петровская",
+    "uikName": "УИК №1329",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 1330,
     "uikTvd": "4644026313925",
     "tikTvd": "26420001727942",
-    "tikName": "Петровская"
+    "tikName": "Петровская",
+    "uikName": "УИК №1330",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 1332,
     "uikTvd": "4644026313926",
     "tikTvd": "26420001727942",
-    "tikName": "Петровская"
+    "tikName": "Петровская",
+    "uikName": "УИК №1332",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 1335,
     "uikTvd": "4644026313927",
     "tikTvd": "26420001727942",
-    "tikName": "Петровская"
+    "tikName": "Петровская",
+    "uikName": "УИК №1335",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 1336,
     "uikTvd": "4644026313928",
     "tikTvd": "26420001727942",
-    "tikName": "Петровская"
+    "tikName": "Петровская",
+    "uikName": "УИК №1336",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 1337,
     "uikTvd": "4644026313929",
     "tikTvd": "26420001727942",
-    "tikName": "Петровская"
+    "tikName": "Петровская",
+    "uikName": "УИК №1337",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 1339,
     "uikTvd": "4644026313930",
     "tikTvd": "26420001727942",
-    "tikName": "Петровская"
+    "tikName": "Петровская",
+    "uikName": "УИК №1339",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 1340,
     "uikTvd": "4644026313931",
     "tikTvd": "26420001727942",
-    "tikName": "Петровская"
+    "tikName": "Петровская",
+    "uikName": "УИК №1340",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 1341,
     "uikTvd": "4644026313932",
     "tikTvd": "26420001727942",
-    "tikName": "Петровская"
+    "tikName": "Петровская",
+    "uikName": "УИК №1341",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 1343,
     "uikTvd": "4644026313933",
     "tikTvd": "26420001727942",
-    "tikName": "Петровская"
+    "tikName": "Петровская",
+    "uikName": "УИК №1343",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 1344,
     "uikTvd": "4644026313934",
     "tikTvd": "26420001727942",
-    "tikName": "Петровская"
+    "tikName": "Петровская",
+    "uikName": "УИК №1344",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 1345,
     "uikTvd": "4644026313935",
     "tikTvd": "26420001727942",
-    "tikName": "Петровская"
+    "tikName": "Петровская",
+    "uikName": "УИК №1345",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 1346,
     "uikTvd": "4644026313936",
     "tikTvd": "26420001727942",
-    "tikName": "Петровская"
+    "tikName": "Петровская",
+    "uikName": "УИК №1346",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 1347,
     "uikTvd": "4644026313937",
     "tikTvd": "26420001727942",
-    "tikName": "Петровская"
+    "tikName": "Петровская",
+    "uikName": "УИК №1347",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 1348,
     "uikTvd": "4644026313938",
     "tikTvd": "26420001727942",
-    "tikName": "Петровская"
+    "tikName": "Петровская",
+    "uikName": "УИК №1348",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 1349,
     "uikTvd": "4644026313939",
     "tikTvd": "26420001727942",
-    "tikName": "Петровская"
+    "tikName": "Петровская",
+    "uikName": "УИК №1349",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 1350,
     "uikTvd": "4644026313940",
     "tikTvd": "26420001727942",
-    "tikName": "Петровская"
+    "tikName": "Петровская",
+    "uikName": "УИК №1350",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 1351,
     "uikTvd": "4644026313941",
     "tikTvd": "26420001727942",
-    "tikName": "Петровская"
+    "tikName": "Петровская",
+    "uikName": "УИК №1351",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 1352,
     "uikTvd": "4644026313942",
     "tikTvd": "26420001727942",
-    "tikName": "Петровская"
+    "tikName": "Петровская",
+    "uikName": "УИК №1352",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 1353,
     "uikTvd": "4644026313943",
     "tikTvd": "26420001727942",
-    "tikName": "Петровская"
+    "tikName": "Петровская",
+    "uikName": "УИК №1353",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 1354,
     "uikTvd": "4644026313944",
     "tikTvd": "26420001727942",
-    "tikName": "Петровская"
+    "tikName": "Петровская",
+    "uikName": "УИК №1354",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 1355,
     "uikTvd": "4644026313945",
     "tikTvd": "26420001727942",
-    "tikName": "Петровская"
+    "tikName": "Петровская",
+    "uikName": "УИК №1355",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 1356,
     "uikTvd": "4644026313946",
     "tikTvd": "26420001727942",
-    "tikName": "Петровская"
+    "tikName": "Петровская",
+    "uikName": "УИК №1356",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 1357,
     "uikTvd": "4644026313947",
     "tikTvd": "26420001727942",
-    "tikName": "Петровская"
+    "tikName": "Петровская",
+    "uikName": "УИК №1357",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 1358,
     "uikTvd": "4644026313948",
     "tikTvd": "26420001727942",
-    "tikName": "Петровская"
+    "tikName": "Петровская",
+    "uikName": "УИК №1358",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 1360,
     "uikTvd": "4644026313949",
     "tikTvd": "26420001727942",
-    "tikName": "Петровская"
+    "tikName": "Петровская",
+    "uikName": "УИК №1360",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 1361,
     "uikTvd": "4644026313950",
     "tikTvd": "26420001727942",
-    "tikName": "Петровская"
+    "tikName": "Петровская",
+    "uikName": "УИК №1361",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 1362,
     "uikTvd": "4644026313951",
     "tikTvd": "26420001727942",
-    "tikName": "Петровская"
+    "tikName": "Петровская",
+    "uikName": "УИК №1362",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 1363,
     "uikTvd": "4644026313952",
     "tikTvd": "26420001727942",
-    "tikName": "Петровская"
+    "tikName": "Петровская",
+    "uikName": "УИК №1363",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 1364,
     "uikTvd": "4644026313953",
     "tikTvd": "26420001727942",
-    "tikName": "Петровская"
+    "tikName": "Петровская",
+    "uikName": "УИК №1364",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 1365,
     "uikTvd": "4644026313954",
     "tikTvd": "26420001727942",
-    "tikName": "Петровская"
+    "tikName": "Петровская",
+    "uikName": "УИК №1365",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 1366,
     "uikTvd": "4644027205182",
     "tikTvd": "26420001727979",
-    "tikName": "Питерская"
+    "tikName": "Питерская",
+    "uikName": "УИК №1366",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1367,
     "uikTvd": "4644027205183",
     "tikTvd": "26420001727979",
-    "tikName": "Питерская"
+    "tikName": "Питерская",
+    "uikName": "УИК №1367",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1368,
     "uikTvd": "4644027205184",
     "tikTvd": "26420001727979",
-    "tikName": "Питерская"
+    "tikName": "Питерская",
+    "uikName": "УИК №1368",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1369,
     "uikTvd": "4644027205185",
     "tikTvd": "26420001727979",
-    "tikName": "Питерская"
+    "tikName": "Питерская",
+    "uikName": "УИК №1369",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1370,
     "uikTvd": "4644027205186",
     "tikTvd": "26420001727979",
-    "tikName": "Питерская"
+    "tikName": "Питерская",
+    "uikName": "УИК №1370",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1372,
     "uikTvd": "4644027205187",
     "tikTvd": "26420001727979",
-    "tikName": "Питерская"
+    "tikName": "Питерская",
+    "uikName": "УИК №1372",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1373,
     "uikTvd": "4644027205188",
     "tikTvd": "26420001727979",
-    "tikName": "Питерская"
+    "tikName": "Питерская",
+    "uikName": "УИК №1373",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1375,
     "uikTvd": "4644027205189",
     "tikTvd": "26420001727979",
-    "tikName": "Питерская"
+    "tikName": "Питерская",
+    "uikName": "УИК №1375",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1376,
     "uikTvd": "4644027205190",
     "tikTvd": "26420001727979",
-    "tikName": "Питерская"
+    "tikName": "Питерская",
+    "uikName": "УИК №1376",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1377,
     "uikTvd": "4644027205191",
     "tikTvd": "26420001727979",
-    "tikName": "Питерская"
+    "tikName": "Питерская",
+    "uikName": "УИК №1377",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1379,
     "uikTvd": "4644027205192",
     "tikTvd": "26420001727979",
-    "tikName": "Питерская"
+    "tikName": "Питерская",
+    "uikName": "УИК №1379",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1381,
     "uikTvd": "4644027205193",
     "tikTvd": "26420001727979",
-    "tikName": "Питерская"
+    "tikName": "Питерская",
+    "uikName": "УИК №1381",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1383,
     "uikTvd": "4644027205194",
     "tikTvd": "26420001727979",
-    "tikName": "Питерская"
+    "tikName": "Питерская",
+    "uikName": "УИК №1383",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1384,
     "uikTvd": "4644027205195",
     "tikTvd": "26420001727979",
-    "tikName": "Питерская"
+    "tikName": "Питерская",
+    "uikName": "УИК №1384",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1387,
     "uikTvd": "4644027205196",
     "tikTvd": "26420001727979",
-    "tikName": "Питерская"
+    "tikName": "Питерская",
+    "uikName": "УИК №1387",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1388,
     "uikTvd": "4644027205197",
     "tikTvd": "26420001727979",
-    "tikName": "Питерская"
+    "tikName": "Питерская",
+    "uikName": "УИК №1388",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1390,
     "uikTvd": "4644027205198",
     "tikTvd": "26420001727979",
-    "tikName": "Питерская"
+    "tikName": "Питерская",
+    "uikName": "УИК №1390",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1391,
     "uikTvd": "4644027205199",
     "tikTvd": "26420001727979",
-    "tikName": "Питерская"
+    "tikName": "Питерская",
+    "uikName": "УИК №1391",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1392,
     "uikTvd": "4644028421302",
     "tikTvd": "26420001727950",
-    "tikName": "Пугачевская"
+    "tikName": "Пугачевская",
+    "uikName": "УИК №1392",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 1393,
     "uikTvd": "4644028421303",
     "tikTvd": "26420001727950",
-    "tikName": "Пугачевская"
+    "tikName": "Пугачевская",
+    "uikName": "УИК №1393",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 1394,
     "uikTvd": "4644028421304",
     "tikTvd": "26420001727950",
-    "tikName": "Пугачевская"
+    "tikName": "Пугачевская",
+    "uikName": "УИК №1394",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 1395,
     "uikTvd": "4644028421305",
     "tikTvd": "26420001727950",
-    "tikName": "Пугачевская"
+    "tikName": "Пугачевская",
+    "uikName": "УИК №1395",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 1396,
     "uikTvd": "4644028421306",
     "tikTvd": "26420001727950",
-    "tikName": "Пугачевская"
+    "tikName": "Пугачевская",
+    "uikName": "УИК №1396",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 1397,
     "uikTvd": "4644028421307",
     "tikTvd": "26420001727950",
-    "tikName": "Пугачевская"
+    "tikName": "Пугачевская",
+    "uikName": "УИК №1397",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 1398,
     "uikTvd": "4644028421308",
     "tikTvd": "26420001727950",
-    "tikName": "Пугачевская"
+    "tikName": "Пугачевская",
+    "uikName": "УИК №1398",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 1399,
     "uikTvd": "4644028421309",
     "tikTvd": "26420001727950",
-    "tikName": "Пугачевская"
+    "tikName": "Пугачевская",
+    "uikName": "УИК №1399",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 1400,
     "uikTvd": "4644028421310",
     "tikTvd": "26420001727950",
-    "tikName": "Пугачевская"
+    "tikName": "Пугачевская",
+    "uikName": "УИК №1400",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 1401,
     "uikTvd": "4644028421311",
     "tikTvd": "26420001727950",
-    "tikName": "Пугачевская"
+    "tikName": "Пугачевская",
+    "uikName": "УИК №1401",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 1402,
     "uikTvd": "4644028421312",
     "tikTvd": "26420001727950",
-    "tikName": "Пугачевская"
+    "tikName": "Пугачевская",
+    "uikName": "УИК №1402",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 1403,
     "uikTvd": "4644028421313",
     "tikTvd": "26420001727950",
-    "tikName": "Пугачевская"
+    "tikName": "Пугачевская",
+    "uikName": "УИК №1403",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 1404,
     "uikTvd": "4644028421314",
     "tikTvd": "26420001727950",
-    "tikName": "Пугачевская"
+    "tikName": "Пугачевская",
+    "uikName": "УИК №1404",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 1405,
     "uikTvd": "4644028421315",
     "tikTvd": "26420001727950",
-    "tikName": "Пугачевская"
+    "tikName": "Пугачевская",
+    "uikName": "УИК №1405",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 1406,
     "uikTvd": "4644028421316",
     "tikTvd": "26420001727950",
-    "tikName": "Пугачевская"
+    "tikName": "Пугачевская",
+    "uikName": "УИК №1406",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 1407,
     "uikTvd": "4644028421317",
     "tikTvd": "26420001727950",
-    "tikName": "Пугачевская"
+    "tikName": "Пугачевская",
+    "uikName": "УИК №1407",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 1408,
     "uikTvd": "4644028421318",
     "tikTvd": "26420001727950",
-    "tikName": "Пугачевская"
+    "tikName": "Пугачевская",
+    "uikName": "УИК №1408",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 1409,
     "uikTvd": "4644028421319",
     "tikTvd": "26420001727950",
-    "tikName": "Пугачевская"
+    "tikName": "Пугачевская",
+    "uikName": "УИК №1409",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 1410,
     "uikTvd": "4644028421320",
     "tikTvd": "26420001727950",
-    "tikName": "Пугачевская"
+    "tikName": "Пугачевская",
+    "uikName": "УИК №1410",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 1411,
     "uikTvd": "4644028421321",
     "tikTvd": "26420001727950",
-    "tikName": "Пугачевская"
+    "tikName": "Пугачевская",
+    "uikName": "УИК №1411",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 1412,
     "uikTvd": "4644028421322",
     "tikTvd": "26420001727950",
-    "tikName": "Пугачевская"
+    "tikName": "Пугачевская",
+    "uikName": "УИК №1412",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 1413,
     "uikTvd": "4644028421323",
     "tikTvd": "26420001727950",
-    "tikName": "Пугачевская"
+    "tikName": "Пугачевская",
+    "uikName": "УИК №1413",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 1414,
     "uikTvd": "4644028421324",
     "tikTvd": "26420001727950",
-    "tikName": "Пугачевская"
+    "tikName": "Пугачевская",
+    "uikName": "УИК №1414",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 1415,
     "uikTvd": "4644028421325",
     "tikTvd": "26420001727950",
-    "tikName": "Пугачевская"
+    "tikName": "Пугачевская",
+    "uikName": "УИК №1415",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 1416,
     "uikTvd": "4644028421326",
     "tikTvd": "26420001727950",
-    "tikName": "Пугачевская"
+    "tikName": "Пугачевская",
+    "uikName": "УИК №1416",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 1417,
     "uikTvd": "4644028421327",
     "tikTvd": "26420001727950",
-    "tikName": "Пугачевская"
+    "tikName": "Пугачевская",
+    "uikName": "УИК №1417",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 1418,
     "uikTvd": "4644028421328",
     "tikTvd": "26420001727950",
-    "tikName": "Пугачевская"
+    "tikName": "Пугачевская",
+    "uikName": "УИК №1418",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 1419,
     "uikTvd": "4644028421329",
     "tikTvd": "26420001727950",
-    "tikName": "Пугачевская"
+    "tikName": "Пугачевская",
+    "uikName": "УИК №1419",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 1420,
     "uikTvd": "4644028421330",
     "tikTvd": "26420001727950",
-    "tikName": "Пугачевская"
+    "tikName": "Пугачевская",
+    "uikName": "УИК №1420",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 1421,
     "uikTvd": "4644028421331",
     "tikTvd": "26420001727950",
-    "tikName": "Пугачевская"
+    "tikName": "Пугачевская",
+    "uikName": "УИК №1421",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 1422,
     "uikTvd": "4644028421332",
     "tikTvd": "26420001727950",
-    "tikName": "Пугачевская"
+    "tikName": "Пугачевская",
+    "uikName": "УИК №1422",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 1423,
     "uikTvd": "4644028421333",
     "tikTvd": "26420001727950",
-    "tikName": "Пугачевская"
+    "tikName": "Пугачевская",
+    "uikName": "УИК №1423",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 1424,
     "uikTvd": "4644028421334",
     "tikTvd": "26420001727950",
-    "tikName": "Пугачевская"
+    "tikName": "Пугачевская",
+    "uikName": "УИК №1424",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 1425,
     "uikTvd": "4644028421335",
     "tikTvd": "26420001727950",
-    "tikName": "Пугачевская"
+    "tikName": "Пугачевская",
+    "uikName": "УИК №1425",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 1426,
     "uikTvd": "4644028421336",
     "tikTvd": "26420001727950",
-    "tikName": "Пугачевская"
+    "tikName": "Пугачевская",
+    "uikName": "УИК №1426",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 1427,
     "uikTvd": "4644028421337",
     "tikTvd": "26420001727950",
-    "tikName": "Пугачевская"
+    "tikName": "Пугачевская",
+    "uikName": "УИК №1427",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 1428,
     "uikTvd": "4644028421338",
     "tikTvd": "26420001727950",
-    "tikName": "Пугачевская"
+    "tikName": "Пугачевская",
+    "uikName": "УИК №1428",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 1429,
     "uikTvd": "4644028421339",
     "tikTvd": "26420001727950",
-    "tikName": "Пугачевская"
+    "tikName": "Пугачевская",
+    "uikName": "УИК №1429",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 1430,
     "uikTvd": "4644028421340",
     "tikTvd": "26420001727950",
-    "tikName": "Пугачевская"
+    "tikName": "Пугачевская",
+    "uikName": "УИК №1430",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 1431,
     "uikTvd": "4644028421341",
     "tikTvd": "26420001727950",
-    "tikName": "Пугачевская"
+    "tikName": "Пугачевская",
+    "uikName": "УИК №1431",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 1432,
     "uikTvd": "4644028421342",
     "tikTvd": "26420001727950",
-    "tikName": "Пугачевская"
+    "tikName": "Пугачевская",
+    "uikName": "УИК №1432",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 1433,
     "uikTvd": "4644028421343",
     "tikTvd": "26420001727950",
-    "tikName": "Пугачевская"
+    "tikName": "Пугачевская",
+    "uikName": "УИК №1433",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 1434,
     "uikTvd": "4644028421344",
     "tikTvd": "26420001727950",
-    "tikName": "Пугачевская"
+    "tikName": "Пугачевская",
+    "uikName": "УИК №1434",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 1435,
     "uikTvd": "4644028421345",
     "tikTvd": "26420001727950",
-    "tikName": "Пугачевская"
+    "tikName": "Пугачевская",
+    "uikName": "УИК №1435",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 1436,
     "uikTvd": "4644028421346",
     "tikTvd": "26420001727950",
-    "tikName": "Пугачевская"
+    "tikName": "Пугачевская",
+    "uikName": "УИК №1436",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 1438,
     "uikTvd": "4644028421347",
     "tikTvd": "26420001727950",
-    "tikName": "Пугачевская"
+    "tikName": "Пугачевская",
+    "uikName": "УИК №1438",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 1439,
     "uikTvd": "4644028421348",
     "tikTvd": "26420001727950",
-    "tikName": "Пугачевская"
+    "tikName": "Пугачевская",
+    "uikName": "УИК №1439",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 1440,
     "uikTvd": "4644028421349",
     "tikTvd": "26420001727950",
-    "tikName": "Пугачевская"
+    "tikName": "Пугачевская",
+    "uikName": "УИК №1440",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 1441,
     "uikTvd": "4644028421350",
     "tikTvd": "26420001727950",
-    "tikName": "Пугачевская"
+    "tikName": "Пугачевская",
+    "uikName": "УИК №1441",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 1442,
     "uikTvd": "4644029213102",
     "tikTvd": "26420001727978",
-    "tikName": "Ровенская"
+    "tikName": "Ровенская",
+    "uikName": "УИК №1442",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1443,
     "uikTvd": "4644029213103",
     "tikTvd": "26420001727978",
-    "tikName": "Ровенская"
+    "tikName": "Ровенская",
+    "uikName": "УИК №1443",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1444,
     "uikTvd": "4644029213104",
     "tikTvd": "26420001727978",
-    "tikName": "Ровенская"
+    "tikName": "Ровенская",
+    "uikName": "УИК №1444",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1445,
     "uikTvd": "4644029213105",
     "tikTvd": "26420001727978",
-    "tikName": "Ровенская"
+    "tikName": "Ровенская",
+    "uikName": "УИК №1445",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1446,
     "uikTvd": "4644029213106",
     "tikTvd": "26420001727978",
-    "tikName": "Ровенская"
+    "tikName": "Ровенская",
+    "uikName": "УИК №1446",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1447,
     "uikTvd": "4644029213107",
     "tikTvd": "26420001727978",
-    "tikName": "Ровенская"
+    "tikName": "Ровенская",
+    "uikName": "УИК №1447",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1448,
     "uikTvd": "4644029213108",
     "tikTvd": "26420001727978",
-    "tikName": "Ровенская"
+    "tikName": "Ровенская",
+    "uikName": "УИК №1448",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1449,
     "uikTvd": "4644029213109",
     "tikTvd": "26420001727978",
-    "tikName": "Ровенская"
+    "tikName": "Ровенская",
+    "uikName": "УИК №1449",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1450,
     "uikTvd": "4644029213110",
     "tikTvd": "26420001727978",
-    "tikName": "Ровенская"
+    "tikName": "Ровенская",
+    "uikName": "УИК №1450",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1452,
     "uikTvd": "4644029213111",
     "tikTvd": "26420001727978",
-    "tikName": "Ровенская"
+    "tikName": "Ровенская",
+    "uikName": "УИК №1452",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1453,
     "uikTvd": "4644029213112",
     "tikTvd": "26420001727978",
-    "tikName": "Ровенская"
+    "tikName": "Ровенская",
+    "uikName": "УИК №1453",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1454,
     "uikTvd": "4644029213113",
     "tikTvd": "26420001727978",
-    "tikName": "Ровенская"
+    "tikName": "Ровенская",
+    "uikName": "УИК №1454",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1456,
     "uikTvd": "4644029213114",
     "tikTvd": "26420001727978",
-    "tikName": "Ровенская"
+    "tikName": "Ровенская",
+    "uikName": "УИК №1456",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1457,
     "uikTvd": "4644029213115",
     "tikTvd": "26420001727978",
-    "tikName": "Ровенская"
+    "tikName": "Ровенская",
+    "uikName": "УИК №1457",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1458,
     "uikTvd": "4644029213116",
     "tikTvd": "26420001727978",
-    "tikName": "Ровенская"
+    "tikName": "Ровенская",
+    "uikName": "УИК №1458",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1460,
     "uikTvd": "4644029213117",
     "tikTvd": "26420001727978",
-    "tikName": "Ровенская"
+    "tikName": "Ровенская",
+    "uikName": "УИК №1460",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1461,
     "uikTvd": "4644029213118",
     "tikTvd": "26420001727978",
-    "tikName": "Ровенская"
+    "tikName": "Ровенская",
+    "uikName": "УИК №1461",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1462,
     "uikTvd": "4644029213119",
     "tikTvd": "26420001727978",
-    "tikName": "Ровенская"
+    "tikName": "Ровенская",
+    "uikName": "УИК №1462",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1463,
     "uikTvd": "4644029213120",
     "tikTvd": "26420001727978",
-    "tikName": "Ровенская"
+    "tikName": "Ровенская",
+    "uikName": "УИК №1463",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1465,
     "uikTvd": "4644029213121",
     "tikTvd": "26420001727978",
-    "tikName": "Ровенская"
+    "tikName": "Ровенская",
+    "uikName": "УИК №1465",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1466,
     "uikTvd": "4644029213122",
     "tikTvd": "26420001727978",
-    "tikName": "Ровенская"
+    "tikName": "Ровенская",
+    "uikName": "УИК №1466",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1467,
     "uikTvd": "4644030215397",
     "tikTvd": "26420001727966",
-    "tikName": "Романовская"
+    "tikName": "Романовская",
+    "uikName": "УИК №1467",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1468,
     "uikTvd": "4644030215399",
     "tikTvd": "26420001727966",
-    "tikName": "Романовская"
+    "tikName": "Романовская",
+    "uikName": "УИК №1468",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1469,
     "uikTvd": "4644030215401",
     "tikTvd": "26420001727966",
-    "tikName": "Романовская"
+    "tikName": "Романовская",
+    "uikName": "УИК №1469",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1470,
     "uikTvd": "4644030215403",
     "tikTvd": "26420001727966",
-    "tikName": "Романовская"
+    "tikName": "Романовская",
+    "uikName": "УИК №1470",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1471,
     "uikTvd": "4644030215405",
     "tikTvd": "26420001727966",
-    "tikName": "Романовская"
+    "tikName": "Романовская",
+    "uikName": "УИК №1471",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1472,
     "uikTvd": "4644030215407",
     "tikTvd": "26420001727966",
-    "tikName": "Романовская"
+    "tikName": "Романовская",
+    "uikName": "УИК №1472",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1473,
     "uikTvd": "4644030215409",
     "tikTvd": "26420001727966",
-    "tikName": "Романовская"
+    "tikName": "Романовская",
+    "uikName": "УИК №1473",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1475,
     "uikTvd": "4644030215411",
     "tikTvd": "26420001727966",
-    "tikName": "Романовская"
+    "tikName": "Романовская",
+    "uikName": "УИК №1475",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1476,
     "uikTvd": "4644030215413",
     "tikTvd": "26420001727966",
-    "tikName": "Романовская"
+    "tikName": "Романовская",
+    "uikName": "УИК №1476",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1477,
     "uikTvd": "4644030215415",
     "tikTvd": "26420001727966",
-    "tikName": "Романовская"
+    "tikName": "Романовская",
+    "uikName": "УИК №1477",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1478,
     "uikTvd": "4644030215417",
     "tikTvd": "26420001727966",
-    "tikName": "Романовская"
+    "tikName": "Романовская",
+    "uikName": "УИК №1478",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1480,
     "uikTvd": "4644030215419",
     "tikTvd": "26420001727966",
-    "tikName": "Романовская"
+    "tikName": "Романовская",
+    "uikName": "УИК №1480",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1481,
     "uikTvd": "4644005576159",
     "tikTvd": "26420001727960",
-    "tikName": "Балаковская"
+    "tikName": "Балаковская",
+    "uikName": "УИК №1481",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 1482,
     "uikTvd": "4644030215421",
     "tikTvd": "26420001727966",
-    "tikName": "Романовская"
+    "tikName": "Романовская",
+    "uikName": "УИК №1482",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1483,
     "uikTvd": "4644030215423",
     "tikTvd": "26420001727966",
-    "tikName": "Романовская"
+    "tikName": "Романовская",
+    "uikName": "УИК №1483",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1484,
     "uikTvd": "4644030215425",
     "tikTvd": "26420001727966",
-    "tikName": "Романовская"
+    "tikName": "Романовская",
+    "uikName": "УИК №1484",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1485,
     "uikTvd": "4644030215427",
     "tikTvd": "26420001727966",
-    "tikName": "Романовская"
+    "tikName": "Романовская",
+    "uikName": "УИК №1485",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1486,
     "uikTvd": "4644030215429",
     "tikTvd": "26420001727966",
-    "tikName": "Романовская"
+    "tikName": "Романовская",
+    "uikName": "УИК №1486",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1487,
     "uikTvd": "4644030215431",
     "tikTvd": "26420001727966",
-    "tikName": "Романовская"
+    "tikName": "Романовская",
+    "uikName": "УИК №1487",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1488,
     "uikTvd": "4644030215433",
     "tikTvd": "26420001727966",
-    "tikName": "Романовская"
+    "tikName": "Романовская",
+    "uikName": "УИК №1488",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1489,
     "uikTvd": "4644030215435",
     "tikTvd": "26420001727966",
-    "tikName": "Романовская"
+    "tikName": "Романовская",
+    "uikName": "УИК №1489",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1491,
     "uikTvd": "4644030215437",
     "tikTvd": "26420001727966",
-    "tikName": "Романовская"
+    "tikName": "Романовская",
+    "uikName": "УИК №1491",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1492,
     "uikTvd": "4644031332053",
     "tikTvd": "26420001727965",
-    "tikName": "Ртищевская"
+    "tikName": "Ртищевская",
+    "uikName": "УИК №1492",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1493,
     "uikTvd": "4644031332054",
     "tikTvd": "26420001727965",
-    "tikName": "Ртищевская"
+    "tikName": "Ртищевская",
+    "uikName": "УИК №1493",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1494,
     "uikTvd": "4644031332055",
     "tikTvd": "26420001727965",
-    "tikName": "Ртищевская"
+    "tikName": "Ртищевская",
+    "uikName": "УИК №1494",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1495,
     "uikTvd": "4644031332056",
     "tikTvd": "26420001727965",
-    "tikName": "Ртищевская"
+    "tikName": "Ртищевская",
+    "uikName": "УИК №1495",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1496,
     "uikTvd": "4644031332057",
     "tikTvd": "26420001727965",
-    "tikName": "Ртищевская"
+    "tikName": "Ртищевская",
+    "uikName": "УИК №1496",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1497,
     "uikTvd": "4644031332058",
     "tikTvd": "26420001727965",
-    "tikName": "Ртищевская"
+    "tikName": "Ртищевская",
+    "uikName": "УИК №1497",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1498,
     "uikTvd": "4644031332059",
     "tikTvd": "26420001727965",
-    "tikName": "Ртищевская"
+    "tikName": "Ртищевская",
+    "uikName": "УИК №1498",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1499,
     "uikTvd": "4644031332060",
     "tikTvd": "26420001727965",
-    "tikName": "Ртищевская"
+    "tikName": "Ртищевская",
+    "uikName": "УИК №1499",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1500,
     "uikTvd": "4644031332061",
     "tikTvd": "26420001727965",
-    "tikName": "Ртищевская"
+    "tikName": "Ртищевская",
+    "uikName": "УИК №1500",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1501,
     "uikTvd": "4644031332062",
     "tikTvd": "26420001727965",
-    "tikName": "Ртищевская"
+    "tikName": "Ртищевская",
+    "uikName": "УИК №1501",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1502,
     "uikTvd": "4644031332063",
     "tikTvd": "26420001727965",
-    "tikName": "Ртищевская"
+    "tikName": "Ртищевская",
+    "uikName": "УИК №1502",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1503,
     "uikTvd": "4644031332064",
     "tikTvd": "26420001727965",
-    "tikName": "Ртищевская"
+    "tikName": "Ртищевская",
+    "uikName": "УИК №1503",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1504,
     "uikTvd": "4644031332065",
     "tikTvd": "26420001727965",
-    "tikName": "Ртищевская"
+    "tikName": "Ртищевская",
+    "uikName": "УИК №1504",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1505,
     "uikTvd": "4644031332066",
     "tikTvd": "26420001727965",
-    "tikName": "Ртищевская"
+    "tikName": "Ртищевская",
+    "uikName": "УИК №1505",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1506,
     "uikTvd": "4644031332067",
     "tikTvd": "26420001727965",
-    "tikName": "Ртищевская"
+    "tikName": "Ртищевская",
+    "uikName": "УИК №1506",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1507,
     "uikTvd": "4644031332068",
     "tikTvd": "26420001727965",
-    "tikName": "Ртищевская"
+    "tikName": "Ртищевская",
+    "uikName": "УИК №1507",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1508,
     "uikTvd": "4644031332069",
     "tikTvd": "26420001727965",
-    "tikName": "Ртищевская"
+    "tikName": "Ртищевская",
+    "uikName": "УИК №1508",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1509,
     "uikTvd": "4644031332070",
     "tikTvd": "26420001727965",
-    "tikName": "Ртищевская"
+    "tikName": "Ртищевская",
+    "uikName": "УИК №1509",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1510,
     "uikTvd": "4644031332071",
     "tikTvd": "26420001727965",
-    "tikName": "Ртищевская"
+    "tikName": "Ртищевская",
+    "uikName": "УИК №1510",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1511,
     "uikTvd": "4644031332072",
     "tikTvd": "26420001727965",
-    "tikName": "Ртищевская"
+    "tikName": "Ртищевская",
+    "uikName": "УИК №1511",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1512,
     "uikTvd": "4644031332073",
     "tikTvd": "26420001727965",
-    "tikName": "Ртищевская"
+    "tikName": "Ртищевская",
+    "uikName": "УИК №1512",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1513,
     "uikTvd": "4644031332074",
     "tikTvd": "26420001727965",
-    "tikName": "Ртищевская"
+    "tikName": "Ртищевская",
+    "uikName": "УИК №1513",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1514,
     "uikTvd": "4644031332075",
     "tikTvd": "26420001727965",
-    "tikName": "Ртищевская"
+    "tikName": "Ртищевская",
+    "uikName": "УИК №1514",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1516,
     "uikTvd": "4644031332076",
     "tikTvd": "26420001727965",
-    "tikName": "Ртищевская"
+    "tikName": "Ртищевская",
+    "uikName": "УИК №1516",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1517,
     "uikTvd": "4644031332077",
     "tikTvd": "26420001727965",
-    "tikName": "Ртищевская"
+    "tikName": "Ртищевская",
+    "uikName": "УИК №1517",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1518,
     "uikTvd": "4644031332078",
     "tikTvd": "26420001727965",
-    "tikName": "Ртищевская"
+    "tikName": "Ртищевская",
+    "uikName": "УИК №1518",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1519,
     "uikTvd": "4644031332079",
     "tikTvd": "26420001727965",
-    "tikName": "Ртищевская"
+    "tikName": "Ртищевская",
+    "uikName": "УИК №1519",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1520,
     "uikTvd": "4644031332080",
     "tikTvd": "26420001727965",
-    "tikName": "Ртищевская"
+    "tikName": "Ртищевская",
+    "uikName": "УИК №1520",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1521,
     "uikTvd": "4644031332081",
     "tikTvd": "26420001727965",
-    "tikName": "Ртищевская"
+    "tikName": "Ртищевская",
+    "uikName": "УИК №1521",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1522,
     "uikTvd": "4644031332082",
     "tikTvd": "26420001727965",
-    "tikName": "Ртищевская"
+    "tikName": "Ртищевская",
+    "uikName": "УИК №1522",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1523,
     "uikTvd": "4644031332083",
     "tikTvd": "26420001727965",
-    "tikName": "Ртищевская"
+    "tikName": "Ртищевская",
+    "uikName": "УИК №1523",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1524,
     "uikTvd": "4644031332084",
     "tikTvd": "26420001727965",
-    "tikName": "Ртищевская"
+    "tikName": "Ртищевская",
+    "uikName": "УИК №1524",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1525,
     "uikTvd": "4644031332085",
     "tikTvd": "26420001727965",
-    "tikName": "Ртищевская"
+    "tikName": "Ртищевская",
+    "uikName": "УИК №1525",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1526,
     "uikTvd": "4644031332086",
     "tikTvd": "26420001727965",
-    "tikName": "Ртищевская"
+    "tikName": "Ртищевская",
+    "uikName": "УИК №1526",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1527,
     "uikTvd": "4644031332087",
     "tikTvd": "26420001727965",
-    "tikName": "Ртищевская"
+    "tikName": "Ртищевская",
+    "uikName": "УИК №1527",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1528,
     "uikTvd": "4644031332088",
     "tikTvd": "26420001727965",
-    "tikName": "Ртищевская"
+    "tikName": "Ртищевская",
+    "uikName": "УИК №1528",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1529,
     "uikTvd": "4644031332089",
     "tikTvd": "26420001727965",
-    "tikName": "Ртищевская"
+    "tikName": "Ртищевская",
+    "uikName": "УИК №1529",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1530,
     "uikTvd": "4644031332090",
     "tikTvd": "26420001727965",
-    "tikName": "Ртищевская"
+    "tikName": "Ртищевская",
+    "uikName": "УИК №1530",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1531,
     "uikTvd": "4644031332091",
     "tikTvd": "26420001727965",
-    "tikName": "Ртищевская"
+    "tikName": "Ртищевская",
+    "uikName": "УИК №1531",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1532,
     "uikTvd": "4644031332092",
     "tikTvd": "26420001727965",
-    "tikName": "Ртищевская"
+    "tikName": "Ртищевская",
+    "uikName": "УИК №1532",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1533,
     "uikTvd": "4644031332093",
     "tikTvd": "26420001727965",
-    "tikName": "Ртищевская"
+    "tikName": "Ртищевская",
+    "uikName": "УИК №1533",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1534,
     "uikTvd": "4644031332094",
     "tikTvd": "26420001727965",
-    "tikName": "Ртищевская"
+    "tikName": "Ртищевская",
+    "uikName": "УИК №1534",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1535,
     "uikTvd": "4644031332095",
     "tikTvd": "26420001727965",
-    "tikName": "Ртищевская"
+    "tikName": "Ртищевская",
+    "uikName": "УИК №1535",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1536,
     "uikTvd": "4644031332096",
     "tikTvd": "26420001727965",
-    "tikName": "Ртищевская"
+    "tikName": "Ртищевская",
+    "uikName": "УИК №1536",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1537,
     "uikTvd": "4644031332097",
     "tikTvd": "26420001727965",
-    "tikName": "Ртищевская"
+    "tikName": "Ртищевская",
+    "uikName": "УИК №1537",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1538,
     "uikTvd": "4644031332098",
     "tikTvd": "26420001727965",
-    "tikName": "Ртищевская"
+    "tikName": "Ртищевская",
+    "uikName": "УИК №1538",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1539,
     "uikTvd": "4644031332099",
     "tikTvd": "26420001727965",
-    "tikName": "Ртищевская"
+    "tikName": "Ртищевская",
+    "uikName": "УИК №1539",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1540,
     "uikTvd": "4644031332100",
     "tikTvd": "26420001727965",
-    "tikName": "Ртищевская"
+    "tikName": "Ртищевская",
+    "uikName": "УИК №1540",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1541,
     "uikTvd": "4644031332101",
     "tikTvd": "26420001727965",
-    "tikName": "Ртищевская"
+    "tikName": "Ртищевская",
+    "uikName": "УИК №1541",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1543,
     "uikTvd": "4644031332102",
     "tikTvd": "26420001727965",
-    "tikName": "Ртищевская"
+    "tikName": "Ртищевская",
+    "uikName": "УИК №1543",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1544,
     "uikTvd": "4644031332103",
     "tikTvd": "26420001727965",
-    "tikName": "Ртищевская"
+    "tikName": "Ртищевская",
+    "uikName": "УИК №1544",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1545,
     "uikTvd": "4644031332104",
     "tikTvd": "26420001727965",
-    "tikName": "Ртищевская"
+    "tikName": "Ртищевская",
+    "uikName": "УИК №1545",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1546,
     "uikTvd": "4644032172403",
     "tikTvd": "26420001727964",
-    "tikName": "Самойловская"
+    "tikName": "Самойловская",
+    "uikName": "УИК №1546",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1547,
     "uikTvd": "4644032172404",
     "tikTvd": "26420001727964",
-    "tikName": "Самойловская"
+    "tikName": "Самойловская",
+    "uikName": "УИК №1547",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1548,
     "uikTvd": "4644032172405",
     "tikTvd": "26420001727964",
-    "tikName": "Самойловская"
+    "tikName": "Самойловская",
+    "uikName": "УИК №1548",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1549,
     "uikTvd": "4644032172406",
     "tikTvd": "26420001727964",
-    "tikName": "Самойловская"
+    "tikName": "Самойловская",
+    "uikName": "УИК №1549",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1550,
     "uikTvd": "4644032172407",
     "tikTvd": "26420001727964",
-    "tikName": "Самойловская"
+    "tikName": "Самойловская",
+    "uikName": "УИК №1550",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1554,
     "uikTvd": "4644032172408",
     "tikTvd": "26420001727964",
-    "tikName": "Самойловская"
+    "tikName": "Самойловская",
+    "uikName": "УИК №1554",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1555,
     "uikTvd": "4644032172409",
     "tikTvd": "26420001727964",
-    "tikName": "Самойловская"
+    "tikName": "Самойловская",
+    "uikName": "УИК №1555",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1556,
     "uikTvd": "4644032172410",
     "tikTvd": "26420001727964",
-    "tikName": "Самойловская"
+    "tikName": "Самойловская",
+    "uikName": "УИК №1556",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1558,
     "uikTvd": "4644032172411",
     "tikTvd": "26420001727964",
-    "tikName": "Самойловская"
+    "tikName": "Самойловская",
+    "uikName": "УИК №1558",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1560,
     "uikTvd": "4644032172412",
     "tikTvd": "26420001727964",
-    "tikName": "Самойловская"
+    "tikName": "Самойловская",
+    "uikName": "УИК №1560",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1561,
     "uikTvd": "4644032172413",
     "tikTvd": "26420001727964",
-    "tikName": "Самойловская"
+    "tikName": "Самойловская",
+    "uikName": "УИК №1561",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1562,
     "uikTvd": "4644032172414",
     "tikTvd": "26420001727964",
-    "tikName": "Самойловская"
+    "tikName": "Самойловская",
+    "uikName": "УИК №1562",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1563,
     "uikTvd": "4644032172415",
     "tikTvd": "26420001727964",
-    "tikName": "Самойловская"
+    "tikName": "Самойловская",
+    "uikName": "УИК №1563",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1564,
     "uikTvd": "4644032172416",
     "tikTvd": "26420001727964",
-    "tikName": "Самойловская"
+    "tikName": "Самойловская",
+    "uikName": "УИК №1564",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1565,
     "uikTvd": "4644032172417",
     "tikTvd": "26420001727964",
-    "tikName": "Самойловская"
+    "tikName": "Самойловская",
+    "uikName": "УИК №1565",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1567,
     "uikTvd": "4644032172418",
     "tikTvd": "26420001727964",
-    "tikName": "Самойловская"
+    "tikName": "Самойловская",
+    "uikName": "УИК №1567",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1568,
     "uikTvd": "4644032172419",
     "tikTvd": "26420001727964",
-    "tikName": "Самойловская"
+    "tikName": "Самойловская",
+    "uikName": "УИК №1568",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1569,
     "uikTvd": "4644032172420",
     "tikTvd": "26420001727964",
-    "tikName": "Самойловская"
+    "tikName": "Самойловская",
+    "uikName": "УИК №1569",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1571,
     "uikTvd": "4644032172421",
     "tikTvd": "26420001727964",
-    "tikName": "Самойловская"
+    "tikName": "Самойловская",
+    "uikName": "УИК №1571",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1572,
     "uikTvd": "4644032172422",
     "tikTvd": "26420001727964",
-    "tikName": "Самойловская"
+    "tikName": "Самойловская",
+    "uikName": "УИК №1572",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1573,
     "uikTvd": "4644032172423",
     "tikTvd": "26420001727964",
-    "tikName": "Самойловская"
+    "tikName": "Самойловская",
+    "uikName": "УИК №1573",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1575,
     "uikTvd": "4644032172424",
     "tikTvd": "26420001727964",
-    "tikName": "Самойловская"
+    "tikName": "Самойловская",
+    "uikName": "УИК №1575",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1576,
     "uikTvd": "4644032172425",
     "tikTvd": "26420001727964",
-    "tikName": "Самойловская"
+    "tikName": "Самойловская",
+    "uikName": "УИК №1576",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1577,
     "uikTvd": "4644032172426",
     "tikTvd": "26420001727964",
-    "tikName": "Самойловская"
+    "tikName": "Самойловская",
+    "uikName": "УИК №1577",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1579,
     "uikTvd": "4644032172427",
     "tikTvd": "26420001727964",
-    "tikName": "Самойловская"
+    "tikName": "Самойловская",
+    "uikName": "УИК №1579",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1580,
     "uikTvd": "4644032172428",
     "tikTvd": "26420001727964",
-    "tikName": "Самойловская"
+    "tikName": "Самойловская",
+    "uikName": "УИК №1580",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1581,
     "uikTvd": "4644032172429",
     "tikTvd": "26420001727964",
-    "tikName": "Самойловская"
+    "tikName": "Самойловская",
+    "uikName": "УИК №1581",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1582,
     "uikTvd": "4644032172430",
     "tikTvd": "26420001727964",
-    "tikName": "Самойловская"
+    "tikName": "Самойловская",
+    "uikName": "УИК №1582",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1583,
     "uikTvd": "4644032172431",
     "tikTvd": "26420001727964",
-    "tikName": "Самойловская"
+    "tikName": "Самойловская",
+    "uikName": "УИК №1583",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1585,
     "uikTvd": "4644039232534",
     "tikTvd": "26420001727986",
-    "tikName": "Саратовская - 165"
+    "tikName": "Саратовская - 165",
+    "uikName": "УИК №1585",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1586,
     "uikTvd": "4644039232535",
     "tikTvd": "26420001727986",
-    "tikName": "Саратовская - 165"
+    "tikName": "Саратовская - 165",
+    "uikName": "УИК №1586",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1589,
     "uikTvd": "4644039232536",
     "tikTvd": "26420001727986",
-    "tikName": "Саратовская - 165"
+    "tikName": "Саратовская - 165",
+    "uikName": "УИК №1589",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1590,
     "uikTvd": "4644039232537",
     "tikTvd": "26420001727986",
-    "tikName": "Саратовская - 165"
+    "tikName": "Саратовская - 165",
+    "uikName": "УИК №1590",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1593,
     "uikTvd": "4644039232524",
     "tikTvd": "26420001727985",
-    "tikName": "Саратовская - 164"
+    "tikName": "Саратовская - 164",
+    "uikName": "УИК №1593",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 1594,
     "uikTvd": "4644039232526",
     "tikTvd": "26420001727985",
-    "tikName": "Саратовская - 164"
+    "tikName": "Саратовская - 164",
+    "uikName": "УИК №1594",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 1595,
     "uikTvd": "4644039232528",
     "tikTvd": "26420001727985",
-    "tikName": "Саратовская - 164"
+    "tikName": "Саратовская - 164",
+    "uikName": "УИК №1595",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 1596,
     "uikTvd": "4644039232495",
     "tikTvd": "26420001727984",
-    "tikName": "Саратовская - 163"
+    "tikName": "Саратовская - 163",
+    "uikName": "УИК №1596",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 1597,
     "uikTvd": "4644039232504",
     "tikTvd": "26420001727984",
-    "tikName": "Саратовская - 163"
+    "tikName": "Саратовская - 163",
+    "uikName": "УИК №1597",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 1598,
     "uikTvd": "4644039232505",
     "tikTvd": "26420001727984",
-    "tikName": "Саратовская - 163"
+    "tikName": "Саратовская - 163",
+    "uikName": "УИК №1598",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 1599,
     "uikTvd": "4644039232506",
     "tikTvd": "26420001727984",
-    "tikName": "Саратовская - 163"
+    "tikName": "Саратовская - 163",
+    "uikName": "УИК №1599",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 1600,
     "uikTvd": "4644039232507",
     "tikTvd": "26420001727984",
-    "tikName": "Саратовская - 163"
+    "tikName": "Саратовская - 163",
+    "uikName": "УИК №1600",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 1601,
     "uikTvd": "4644039232538",
     "tikTvd": "26420001727986",
-    "tikName": "Саратовская - 165"
+    "tikName": "Саратовская - 165",
+    "uikName": "УИК №1601",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1602,
     "uikTvd": "4644039232539",
     "tikTvd": "26420001727986",
-    "tikName": "Саратовская - 165"
+    "tikName": "Саратовская - 165",
+    "uikName": "УИК №1602",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1605,
     "uikTvd": "4644039232540",
     "tikTvd": "26420001727986",
-    "tikName": "Саратовская - 165"
+    "tikName": "Саратовская - 165",
+    "uikName": "УИК №1605",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1606,
     "uikTvd": "4644039232541",
     "tikTvd": "26420001727986",
-    "tikName": "Саратовская - 165"
+    "tikName": "Саратовская - 165",
+    "uikName": "УИК №1606",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1608,
     "uikTvd": "4644039232542",
     "tikTvd": "26420001727986",
-    "tikName": "Саратовская - 165"
+    "tikName": "Саратовская - 165",
+    "uikName": "УИК №1608",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1609,
     "uikTvd": "4644039232543",
     "tikTvd": "26420001727986",
-    "tikName": "Саратовская - 165"
+    "tikName": "Саратовская - 165",
+    "uikName": "УИК №1609",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1610,
     "uikTvd": "4644039232544",
     "tikTvd": "26420001727986",
-    "tikName": "Саратовская - 165"
+    "tikName": "Саратовская - 165",
+    "uikName": "УИК №1610",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1611,
     "uikTvd": "4644039232515",
     "tikTvd": "26420001727984",
-    "tikName": "Саратовская - 163"
+    "tikName": "Саратовская - 163",
+    "uikName": "УИК №1611",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 1612,
     "uikTvd": "4644039232516",
     "tikTvd": "26420001727984",
-    "tikName": "Саратовская - 163"
+    "tikName": "Саратовская - 163",
+    "uikName": "УИК №1612",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 1613,
     "uikTvd": "4644039232517",
     "tikTvd": "26420001727984",
-    "tikName": "Саратовская - 163"
+    "tikName": "Саратовская - 163",
+    "uikName": "УИК №1613",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 1614,
     "uikTvd": "4644039232518",
     "tikTvd": "26420001727984",
-    "tikName": "Саратовская - 163"
+    "tikName": "Саратовская - 163",
+    "uikName": "УИК №1614",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 1620,
     "uikTvd": "4644039232519",
     "tikTvd": "26420001727984",
-    "tikName": "Саратовская - 163"
+    "tikName": "Саратовская - 163",
+    "uikName": "УИК №1620",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 1621,
     "uikTvd": "4644039232520",
     "tikTvd": "26420001727984",
-    "tikName": "Саратовская - 163"
+    "tikName": "Саратовская - 163",
+    "uikName": "УИК №1621",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 1622,
     "uikTvd": "4644039232530",
     "tikTvd": "26420001727985",
-    "tikName": "Саратовская - 164"
+    "tikName": "Саратовская - 164",
+    "uikName": "УИК №1622",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 1623,
     "uikTvd": "4644039232532",
     "tikTvd": "26420001727985",
-    "tikName": "Саратовская - 164"
+    "tikName": "Саратовская - 164",
+    "uikName": "УИК №1623",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 1624,
     "uikTvd": "4644040253507",
     "tikTvd": "26420001727976",
-    "tikName": "Советская"
+    "tikName": "Советская",
+    "uikName": "УИК №1624",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1625,
     "uikTvd": "4644040253508",
     "tikTvd": "26420001727976",
-    "tikName": "Советская"
+    "tikName": "Советская",
+    "uikName": "УИК №1625",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1626,
     "uikTvd": "4644040253509",
     "tikTvd": "26420001727976",
-    "tikName": "Советская"
+    "tikName": "Советская",
+    "uikName": "УИК №1626",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1627,
     "uikTvd": "4644040253510",
     "tikTvd": "26420001727976",
-    "tikName": "Советская"
+    "tikName": "Советская",
+    "uikName": "УИК №1627",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1628,
     "uikTvd": "4644040253511",
     "tikTvd": "26420001727976",
-    "tikName": "Советская"
+    "tikName": "Советская",
+    "uikName": "УИК №1628",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1629,
     "uikTvd": "4644040253512",
     "tikTvd": "26420001727976",
-    "tikName": "Советская"
+    "tikName": "Советская",
+    "uikName": "УИК №1629",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1630,
     "uikTvd": "4644040253513",
     "tikTvd": "26420001727976",
-    "tikName": "Советская"
+    "tikName": "Советская",
+    "uikName": "УИК №1630",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1631,
     "uikTvd": "4644040253514",
     "tikTvd": "26420001727976",
-    "tikName": "Советская"
+    "tikName": "Советская",
+    "uikName": "УИК №1631",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1632,
     "uikTvd": "4644040253515",
     "tikTvd": "26420001727976",
-    "tikName": "Советская"
+    "tikName": "Советская",
+    "uikName": "УИК №1632",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1633,
     "uikTvd": "4644040253516",
     "tikTvd": "26420001727976",
-    "tikName": "Советская"
+    "tikName": "Советская",
+    "uikName": "УИК №1633",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1634,
     "uikTvd": "4644040253517",
     "tikTvd": "26420001727976",
-    "tikName": "Советская"
+    "tikName": "Советская",
+    "uikName": "УИК №1634",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1635,
     "uikTvd": "4644040253518",
     "tikTvd": "26420001727976",
-    "tikName": "Советская"
+    "tikName": "Советская",
+    "uikName": "УИК №1635",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1636,
     "uikTvd": "4644040253519",
     "tikTvd": "26420001727976",
-    "tikName": "Советская"
+    "tikName": "Советская",
+    "uikName": "УИК №1636",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1637,
     "uikTvd": "4644040253520",
     "tikTvd": "26420001727976",
-    "tikName": "Советская"
+    "tikName": "Советская",
+    "uikName": "УИК №1637",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1638,
     "uikTvd": "4644040253521",
     "tikTvd": "26420001727976",
-    "tikName": "Советская"
+    "tikName": "Советская",
+    "uikName": "УИК №1638",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1639,
     "uikTvd": "4644040253522",
     "tikTvd": "26420001727976",
-    "tikName": "Советская"
+    "tikName": "Советская",
+    "uikName": "УИК №1639",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1640,
     "uikTvd": "4644040253523",
     "tikTvd": "26420001727976",
-    "tikName": "Советская"
+    "tikName": "Советская",
+    "uikName": "УИК №1640",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1641,
     "uikTvd": "4644040253524",
     "tikTvd": "26420001727976",
-    "tikName": "Советская"
+    "tikName": "Советская",
+    "uikName": "УИК №1641",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1642,
     "uikTvd": "4644040253525",
     "tikTvd": "26420001727976",
-    "tikName": "Советская"
+    "tikName": "Советская",
+    "uikName": "УИК №1642",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1643,
     "uikTvd": "4644040253526",
     "tikTvd": "26420001727976",
-    "tikName": "Советская"
+    "tikName": "Советская",
+    "uikName": "УИК №1643",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1644,
     "uikTvd": "4644041266575",
     "tikTvd": "26420001727938",
-    "tikName": "Татищевская"
+    "tikName": "Татищевская",
+    "uikName": "УИК №1644",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 1645,
     "uikTvd": "4644041266576",
     "tikTvd": "26420001727938",
-    "tikName": "Татищевская"
+    "tikName": "Татищевская",
+    "uikName": "УИК №1645",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 1646,
     "uikTvd": "4644041266577",
     "tikTvd": "26420001727938",
-    "tikName": "Татищевская"
+    "tikName": "Татищевская",
+    "uikName": "УИК №1646",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 1647,
     "uikTvd": "4644041266578",
     "tikTvd": "26420001727938",
-    "tikName": "Татищевская"
+    "tikName": "Татищевская",
+    "uikName": "УИК №1647",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 1648,
     "uikTvd": "4644041266579",
     "tikTvd": "26420001727938",
-    "tikName": "Татищевская"
+    "tikName": "Татищевская",
+    "uikName": "УИК №1648",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 1649,
     "uikTvd": "4644041266580",
     "tikTvd": "26420001727938",
-    "tikName": "Татищевская"
+    "tikName": "Татищевская",
+    "uikName": "УИК №1649",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 1650,
     "uikTvd": "4644041266581",
     "tikTvd": "26420001727938",
-    "tikName": "Татищевская"
+    "tikName": "Татищевская",
+    "uikName": "УИК №1650",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 1651,
     "uikTvd": "4644041266582",
     "tikTvd": "26420001727938",
-    "tikName": "Татищевская"
+    "tikName": "Татищевская",
+    "uikName": "УИК №1651",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 1652,
     "uikTvd": "4644041266583",
     "tikTvd": "26420001727938",
-    "tikName": "Татищевская"
+    "tikName": "Татищевская",
+    "uikName": "УИК №1652",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 1653,
     "uikTvd": "4644041266584",
     "tikTvd": "26420001727938",
-    "tikName": "Татищевская"
+    "tikName": "Татищевская",
+    "uikName": "УИК №1653",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 1654,
     "uikTvd": "4644041266585",
     "tikTvd": "26420001727938",
-    "tikName": "Татищевская"
+    "tikName": "Татищевская",
+    "uikName": "УИК №1654",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 1655,
     "uikTvd": "4644041266586",
     "tikTvd": "26420001727938",
-    "tikName": "Татищевская"
+    "tikName": "Татищевская",
+    "uikName": "УИК №1655",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 1656,
     "uikTvd": "4644041266587",
     "tikTvd": "26420001727938",
-    "tikName": "Татищевская"
+    "tikName": "Татищевская",
+    "uikName": "УИК №1656",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 1657,
     "uikTvd": "4644041266588",
     "tikTvd": "26420001727938",
-    "tikName": "Татищевская"
+    "tikName": "Татищевская",
+    "uikName": "УИК №1657",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 1658,
     "uikTvd": "4644041266589",
     "tikTvd": "26420001727938",
-    "tikName": "Татищевская"
+    "tikName": "Татищевская",
+    "uikName": "УИК №1658",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 1659,
     "uikTvd": "4644041266590",
     "tikTvd": "26420001727938",
-    "tikName": "Татищевская"
+    "tikName": "Татищевская",
+    "uikName": "УИК №1659",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 1660,
     "uikTvd": "4644041266591",
     "tikTvd": "26420001727938",
-    "tikName": "Татищевская"
+    "tikName": "Татищевская",
+    "uikName": "УИК №1660",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 1661,
     "uikTvd": "4644041266592",
     "tikTvd": "26420001727938",
-    "tikName": "Татищевская"
+    "tikName": "Татищевская",
+    "uikName": "УИК №1661",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 1662,
     "uikTvd": "4644041266593",
     "tikTvd": "26420001727938",
-    "tikName": "Татищевская"
+    "tikName": "Татищевская",
+    "uikName": "УИК №1662",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 1663,
     "uikTvd": "4644041266594",
     "tikTvd": "26420001727938",
-    "tikName": "Татищевская"
+    "tikName": "Татищевская",
+    "uikName": "УИК №1663",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 1664,
     "uikTvd": "4644041266595",
     "tikTvd": "26420001727938",
-    "tikName": "Татищевская"
+    "tikName": "Татищевская",
+    "uikName": "УИК №1664",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 1665,
     "uikTvd": "4644041266596",
     "tikTvd": "26420001727938",
-    "tikName": "Татищевская"
+    "tikName": "Татищевская",
+    "uikName": "УИК №1665",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 1666,
     "uikTvd": "4644041266597",
     "tikTvd": "26420001727938",
-    "tikName": "Татищевская"
+    "tikName": "Татищевская",
+    "uikName": "УИК №1666",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 1667,
     "uikTvd": "4644041266598",
     "tikTvd": "26420001727938",
-    "tikName": "Татищевская"
+    "tikName": "Татищевская",
+    "uikName": "УИК №1667",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 1668,
     "uikTvd": "4644041266599",
     "tikTvd": "26420001727938",
-    "tikName": "Татищевская"
+    "tikName": "Татищевская",
+    "uikName": "УИК №1668",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 1669,
     "uikTvd": "4644041266600",
     "tikTvd": "26420001727938",
-    "tikName": "Татищевская"
+    "tikName": "Татищевская",
+    "uikName": "УИК №1669",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 1670,
     "uikTvd": "4644041266601",
     "tikTvd": "26420001727938",
-    "tikName": "Татищевская"
+    "tikName": "Татищевская",
+    "uikName": "УИК №1670",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 1671,
     "uikTvd": "4644041266602",
     "tikTvd": "26420001727938",
-    "tikName": "Татищевская"
+    "tikName": "Татищевская",
+    "uikName": "УИК №1671",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 1672,
     "uikTvd": "4644041266603",
     "tikTvd": "26420001727938",
-    "tikName": "Татищевская"
+    "tikName": "Татищевская",
+    "uikName": "УИК №1672",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 1673,
     "uikTvd": "4644043196460",
     "tikTvd": "26420001727962",
-    "tikName": "Турковская"
+    "tikName": "Турковская",
+    "uikName": "УИК №1673",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1674,
     "uikTvd": "4644043196461",
     "tikTvd": "26420001727962",
-    "tikName": "Турковская"
+    "tikName": "Турковская",
+    "uikName": "УИК №1674",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1675,
     "uikTvd": "4644043196462",
     "tikTvd": "26420001727962",
-    "tikName": "Турковская"
+    "tikName": "Турковская",
+    "uikName": "УИК №1675",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1676,
     "uikTvd": "4644043196463",
     "tikTvd": "26420001727962",
-    "tikName": "Турковская"
+    "tikName": "Турковская",
+    "uikName": "УИК №1676",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1677,
     "uikTvd": "4644043196464",
     "tikTvd": "26420001727962",
-    "tikName": "Турковская"
+    "tikName": "Турковская",
+    "uikName": "УИК №1677",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1678,
     "uikTvd": "4644043196465",
     "tikTvd": "26420001727962",
-    "tikName": "Турковская"
+    "tikName": "Турковская",
+    "uikName": "УИК №1678",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1679,
     "uikTvd": "4644043196466",
     "tikTvd": "26420001727962",
-    "tikName": "Турковская"
+    "tikName": "Турковская",
+    "uikName": "УИК №1679",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1680,
     "uikTvd": "4644043196467",
     "tikTvd": "26420001727962",
-    "tikName": "Турковская"
+    "tikName": "Турковская",
+    "uikName": "УИК №1680",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1681,
     "uikTvd": "4644043196468",
     "tikTvd": "26420001727962",
-    "tikName": "Турковская"
+    "tikName": "Турковская",
+    "uikName": "УИК №1681",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1682,
     "uikTvd": "4644043196469",
     "tikTvd": "26420001727962",
-    "tikName": "Турковская"
+    "tikName": "Турковская",
+    "uikName": "УИК №1682",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1683,
     "uikTvd": "4644043196470",
     "tikTvd": "26420001727962",
-    "tikName": "Турковская"
+    "tikName": "Турковская",
+    "uikName": "УИК №1683",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1684,
     "uikTvd": "4644043196471",
     "tikTvd": "26420001727962",
-    "tikName": "Турковская"
+    "tikName": "Турковская",
+    "uikName": "УИК №1684",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1685,
     "uikTvd": "4644043196472",
     "tikTvd": "26420001727962",
-    "tikName": "Турковская"
+    "tikName": "Турковская",
+    "uikName": "УИК №1685",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1686,
     "uikTvd": "4644043196473",
     "tikTvd": "26420001727962",
-    "tikName": "Турковская"
+    "tikName": "Турковская",
+    "uikName": "УИК №1686",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1687,
     "uikTvd": "4644043196474",
     "tikTvd": "26420001727962",
-    "tikName": "Турковская"
+    "tikName": "Турковская",
+    "uikName": "УИК №1687",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1688,
     "uikTvd": "4644044258491",
     "tikTvd": "26420001727975",
-    "tikName": "Федоровская"
+    "tikName": "Федоровская",
+    "uikName": "УИК №1688",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1689,
     "uikTvd": "4644044258492",
     "tikTvd": "26420001727975",
-    "tikName": "Федоровская"
+    "tikName": "Федоровская",
+    "uikName": "УИК №1689",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1690,
     "uikTvd": "4644044258493",
     "tikTvd": "26420001727975",
-    "tikName": "Федоровская"
+    "tikName": "Федоровская",
+    "uikName": "УИК №1690",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1692,
     "uikTvd": "4644044258494",
     "tikTvd": "26420001727975",
-    "tikName": "Федоровская"
+    "tikName": "Федоровская",
+    "uikName": "УИК №1692",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1694,
     "uikTvd": "4644044258495",
     "tikTvd": "26420001727975",
-    "tikName": "Федоровская"
+    "tikName": "Федоровская",
+    "uikName": "УИК №1694",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1695,
     "uikTvd": "4644044258496",
     "tikTvd": "26420001727975",
-    "tikName": "Федоровская"
+    "tikName": "Федоровская",
+    "uikName": "УИК №1695",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1696,
     "uikTvd": "4644044258497",
     "tikTvd": "26420001727975",
-    "tikName": "Федоровская"
+    "tikName": "Федоровская",
+    "uikName": "УИК №1696",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1697,
     "uikTvd": "4644044258498",
     "tikTvd": "26420001727975",
-    "tikName": "Федоровская"
+    "tikName": "Федоровская",
+    "uikName": "УИК №1697",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1698,
     "uikTvd": "4644044258499",
     "tikTvd": "26420001727975",
-    "tikName": "Федоровская"
+    "tikName": "Федоровская",
+    "uikName": "УИК №1698",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1699,
     "uikTvd": "4644044258500",
     "tikTvd": "26420001727975",
-    "tikName": "Федоровская"
+    "tikName": "Федоровская",
+    "uikName": "УИК №1699",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1700,
     "uikTvd": "4644044258501",
     "tikTvd": "26420001727975",
-    "tikName": "Федоровская"
+    "tikName": "Федоровская",
+    "uikName": "УИК №1700",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1702,
     "uikTvd": "4644044258502",
     "tikTvd": "26420001727975",
-    "tikName": "Федоровская"
+    "tikName": "Федоровская",
+    "uikName": "УИК №1702",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1703,
     "uikTvd": "4644044258503",
     "tikTvd": "26420001727975",
-    "tikName": "Федоровская"
+    "tikName": "Федоровская",
+    "uikName": "УИК №1703",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1704,
     "uikTvd": "4644044258504",
     "tikTvd": "26420001727975",
-    "tikName": "Федоровская"
+    "tikName": "Федоровская",
+    "uikName": "УИК №1704",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1705,
     "uikTvd": "4644044258505",
     "tikTvd": "26420001727975",
-    "tikName": "Федоровская"
+    "tikName": "Федоровская",
+    "uikName": "УИК №1705",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1706,
     "uikTvd": "4644044258506",
     "tikTvd": "26420001727975",
-    "tikName": "Федоровская"
+    "tikName": "Федоровская",
+    "uikName": "УИК №1706",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1707,
     "uikTvd": "4644044258507",
     "tikTvd": "26420001727975",
-    "tikName": "Федоровская"
+    "tikName": "Федоровская",
+    "uikName": "УИК №1707",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1708,
     "uikTvd": "4644044258508",
     "tikTvd": "26420001727975",
-    "tikName": "Федоровская"
+    "tikName": "Федоровская",
+    "uikName": "УИК №1708",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1709,
     "uikTvd": "4644044258509",
     "tikTvd": "26420001727975",
-    "tikName": "Федоровская"
+    "tikName": "Федоровская",
+    "uikName": "УИК №1709",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1710,
     "uikTvd": "4644044258510",
     "tikTvd": "26420001727975",
-    "tikName": "Федоровская"
+    "tikName": "Федоровская",
+    "uikName": "УИК №1710",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1711,
     "uikTvd": "4644044258511",
     "tikTvd": "26420001727975",
-    "tikName": "Федоровская"
+    "tikName": "Федоровская",
+    "uikName": "УИК №1711",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1712,
     "uikTvd": "4644045195414",
     "tikTvd": "26420001727948",
-    "tikName": "Хвалынская"
+    "tikName": "Хвалынская",
+    "uikName": "УИК №1712",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 1713,
     "uikTvd": "4644045195415",
     "tikTvd": "26420001727948",
-    "tikName": "Хвалынская"
+    "tikName": "Хвалынская",
+    "uikName": "УИК №1713",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 1714,
     "uikTvd": "4644045195416",
     "tikTvd": "26420001727948",
-    "tikName": "Хвалынская"
+    "tikName": "Хвалынская",
+    "uikName": "УИК №1714",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 1715,
     "uikTvd": "4644045195417",
     "tikTvd": "26420001727948",
-    "tikName": "Хвалынская"
+    "tikName": "Хвалынская",
+    "uikName": "УИК №1715",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 1716,
     "uikTvd": "4644045195418",
     "tikTvd": "26420001727948",
-    "tikName": "Хвалынская"
+    "tikName": "Хвалынская",
+    "uikName": "УИК №1716",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 1717,
     "uikTvd": "4644045195419",
     "tikTvd": "26420001727948",
-    "tikName": "Хвалынская"
+    "tikName": "Хвалынская",
+    "uikName": "УИК №1717",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 1718,
     "uikTvd": "4644045195420",
     "tikTvd": "26420001727948",
-    "tikName": "Хвалынская"
+    "tikName": "Хвалынская",
+    "uikName": "УИК №1718",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 1719,
     "uikTvd": "4644045195421",
     "tikTvd": "26420001727948",
-    "tikName": "Хвалынская"
+    "tikName": "Хвалынская",
+    "uikName": "УИК №1719",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 1720,
     "uikTvd": "4644045195422",
     "tikTvd": "26420001727948",
-    "tikName": "Хвалынская"
+    "tikName": "Хвалынская",
+    "uikName": "УИК №1720",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 1721,
     "uikTvd": "4644045195423",
     "tikTvd": "26420001727948",
-    "tikName": "Хвалынская"
+    "tikName": "Хвалынская",
+    "uikName": "УИК №1721",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 1722,
     "uikTvd": "4644045195424",
     "tikTvd": "26420001727948",
-    "tikName": "Хвалынская"
+    "tikName": "Хвалынская",
+    "uikName": "УИК №1722",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 1723,
     "uikTvd": "4644045195425",
     "tikTvd": "26420001727948",
-    "tikName": "Хвалынская"
+    "tikName": "Хвалынская",
+    "uikName": "УИК №1723",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 1724,
     "uikTvd": "4644045195426",
     "tikTvd": "26420001727948",
-    "tikName": "Хвалынская"
+    "tikName": "Хвалынская",
+    "uikName": "УИК №1724",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 1725,
     "uikTvd": "4644045195427",
     "tikTvd": "26420001727948",
-    "tikName": "Хвалынская"
+    "tikName": "Хвалынская",
+    "uikName": "УИК №1725",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 1726,
     "uikTvd": "4644045195428",
     "tikTvd": "26420001727948",
-    "tikName": "Хвалынская"
+    "tikName": "Хвалынская",
+    "uikName": "УИК №1726",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 1727,
     "uikTvd": "4644045195429",
     "tikTvd": "26420001727948",
-    "tikName": "Хвалынская"
+    "tikName": "Хвалынская",
+    "uikName": "УИК №1727",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 1728,
     "uikTvd": "4644045195430",
     "tikTvd": "26420001727948",
-    "tikName": "Хвалынская"
+    "tikName": "Хвалынская",
+    "uikName": "УИК №1728",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 1729,
     "uikTvd": "4644045195431",
     "tikTvd": "26420001727948",
-    "tikName": "Хвалынская"
+    "tikName": "Хвалынская",
+    "uikName": "УИК №1729",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 1730,
     "uikTvd": "4644045195432",
     "tikTvd": "26420001727948",
-    "tikName": "Хвалынская"
+    "tikName": "Хвалынская",
+    "uikName": "УИК №1730",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 1731,
     "uikTvd": "4644045195433",
     "tikTvd": "26420001727948",
-    "tikName": "Хвалынская"
+    "tikName": "Хвалынская",
+    "uikName": "УИК №1731",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 1732,
     "uikTvd": "4644045195434",
     "tikTvd": "26420001727948",
-    "tikName": "Хвалынская"
+    "tikName": "Хвалынская",
+    "uikName": "УИК №1732",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 1733,
     "uikTvd": "4644045195435",
     "tikTvd": "26420001727948",
-    "tikName": "Хвалынская"
+    "tikName": "Хвалынская",
+    "uikName": "УИК №1733",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 1734,
     "uikTvd": "4644045195436",
     "tikTvd": "26420001727948",
-    "tikName": "Хвалынская"
+    "tikName": "Хвалынская",
+    "uikName": "УИК №1734",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 1735,
     "uikTvd": "4644046725126",
     "tikTvd": "26420001727974",
-    "tikName": "Энгельсская"
+    "tikName": "Энгельсская",
+    "uikName": "УИК №1735",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1736,
     "uikTvd": "4644046725127",
     "tikTvd": "26420001727974",
-    "tikName": "Энгельсская"
+    "tikName": "Энгельсская",
+    "uikName": "УИК №1736",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1737,
     "uikTvd": "4644046725128",
     "tikTvd": "26420001727974",
-    "tikName": "Энгельсская"
+    "tikName": "Энгельсская",
+    "uikName": "УИК №1737",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1738,
     "uikTvd": "4644046725129",
     "tikTvd": "26420001727974",
-    "tikName": "Энгельсская"
+    "tikName": "Энгельсская",
+    "uikName": "УИК №1738",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1739,
     "uikTvd": "4644046725130",
     "tikTvd": "26420001727974",
-    "tikName": "Энгельсская"
+    "tikName": "Энгельсская",
+    "uikName": "УИК №1739",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1740,
     "uikTvd": "4644046725131",
     "tikTvd": "26420001727974",
-    "tikName": "Энгельсская"
+    "tikName": "Энгельсская",
+    "uikName": "УИК №1740",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1741,
     "uikTvd": "4644046725132",
     "tikTvd": "26420001727974",
-    "tikName": "Энгельсская"
+    "tikName": "Энгельсская",
+    "uikName": "УИК №1741",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1742,
     "uikTvd": "4644046725133",
     "tikTvd": "26420001727974",
-    "tikName": "Энгельсская"
+    "tikName": "Энгельсская",
+    "uikName": "УИК №1742",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1743,
     "uikTvd": "4644046725134",
     "tikTvd": "26420001727974",
-    "tikName": "Энгельсская"
+    "tikName": "Энгельсская",
+    "uikName": "УИК №1743",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1744,
     "uikTvd": "4644046725135",
     "tikTvd": "26420001727974",
-    "tikName": "Энгельсская"
+    "tikName": "Энгельсская",
+    "uikName": "УИК №1744",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1745,
     "uikTvd": "4644046725136",
     "tikTvd": "26420001727974",
-    "tikName": "Энгельсская"
+    "tikName": "Энгельсская",
+    "uikName": "УИК №1745",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1746,
     "uikTvd": "4644046725137",
     "tikTvd": "26420001727974",
-    "tikName": "Энгельсская"
+    "tikName": "Энгельсская",
+    "uikName": "УИК №1746",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1747,
     "uikTvd": "4644046725138",
     "tikTvd": "26420001727974",
-    "tikName": "Энгельсская"
+    "tikName": "Энгельсская",
+    "uikName": "УИК №1747",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1748,
     "uikTvd": "4644046725139",
     "tikTvd": "26420001727974",
-    "tikName": "Энгельсская"
+    "tikName": "Энгельсская",
+    "uikName": "УИК №1748",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1749,
     "uikTvd": "4644046725140",
     "tikTvd": "26420001727974",
-    "tikName": "Энгельсская"
+    "tikName": "Энгельсская",
+    "uikName": "УИК №1749",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1750,
     "uikTvd": "4644046725141",
     "tikTvd": "26420001727974",
-    "tikName": "Энгельсская"
+    "tikName": "Энгельсская",
+    "uikName": "УИК №1750",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1751,
     "uikTvd": "4644046725142",
     "tikTvd": "26420001727974",
-    "tikName": "Энгельсская"
+    "tikName": "Энгельсская",
+    "uikName": "УИК №1751",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1752,
     "uikTvd": "4644046725143",
     "tikTvd": "26420001727974",
-    "tikName": "Энгельсская"
+    "tikName": "Энгельсская",
+    "uikName": "УИК №1752",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1753,
     "uikTvd": "4644046725144",
     "tikTvd": "26420001727974",
-    "tikName": "Энгельсская"
+    "tikName": "Энгельсская",
+    "uikName": "УИК №1753",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1754,
     "uikTvd": "4644046725145",
     "tikTvd": "26420001727974",
-    "tikName": "Энгельсская"
+    "tikName": "Энгельсская",
+    "uikName": "УИК №1754",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1755,
     "uikTvd": "4644046725146",
     "tikTvd": "26420001727974",
-    "tikName": "Энгельсская"
+    "tikName": "Энгельсская",
+    "uikName": "УИК №1755",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1756,
     "uikTvd": "4644046725147",
     "tikTvd": "26420001727974",
-    "tikName": "Энгельсская"
+    "tikName": "Энгельсская",
+    "uikName": "УИК №1756",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1757,
     "uikTvd": "4644046725148",
     "tikTvd": "26420001727974",
-    "tikName": "Энгельсская"
+    "tikName": "Энгельсская",
+    "uikName": "УИК №1757",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1758,
     "uikTvd": "4644046725149",
     "tikTvd": "26420001727974",
-    "tikName": "Энгельсская"
+    "tikName": "Энгельсская",
+    "uikName": "УИК №1758",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1759,
     "uikTvd": "4644046725150",
     "tikTvd": "26420001727974",
-    "tikName": "Энгельсская"
+    "tikName": "Энгельсская",
+    "uikName": "УИК №1759",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1760,
     "uikTvd": "4644046725151",
     "tikTvd": "26420001727974",
-    "tikName": "Энгельсская"
+    "tikName": "Энгельсская",
+    "uikName": "УИК №1760",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1761,
     "uikTvd": "4644046725152",
     "tikTvd": "26420001727974",
-    "tikName": "Энгельсская"
+    "tikName": "Энгельсская",
+    "uikName": "УИК №1761",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1762,
     "uikTvd": "4644046725153",
     "tikTvd": "26420001727974",
-    "tikName": "Энгельсская"
+    "tikName": "Энгельсская",
+    "uikName": "УИК №1762",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1763,
     "uikTvd": "4644046725154",
     "tikTvd": "26420001727974",
-    "tikName": "Энгельсская"
+    "tikName": "Энгельсская",
+    "uikName": "УИК №1763",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1764,
     "uikTvd": "4644046725155",
     "tikTvd": "26420001727974",
-    "tikName": "Энгельсская"
+    "tikName": "Энгельсская",
+    "uikName": "УИК №1764",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1765,
     "uikTvd": "4644046725156",
     "tikTvd": "26420001727974",
-    "tikName": "Энгельсская"
+    "tikName": "Энгельсская",
+    "uikName": "УИК №1765",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1766,
     "uikTvd": "4644046725157",
     "tikTvd": "26420001727974",
-    "tikName": "Энгельсская"
+    "tikName": "Энгельсская",
+    "uikName": "УИК №1766",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1767,
     "uikTvd": "4644046725158",
     "tikTvd": "26420001727974",
-    "tikName": "Энгельсская"
+    "tikName": "Энгельсская",
+    "uikName": "УИК №1767",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1768,
     "uikTvd": "4644046725159",
     "tikTvd": "26420001727974",
-    "tikName": "Энгельсская"
+    "tikName": "Энгельсская",
+    "uikName": "УИК №1768",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1769,
     "uikTvd": "4644046725160",
     "tikTvd": "26420001727974",
-    "tikName": "Энгельсская"
+    "tikName": "Энгельсская",
+    "uikName": "УИК №1769",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1770,
     "uikTvd": "4644046725161",
     "tikTvd": "26420001727974",
-    "tikName": "Энгельсская"
+    "tikName": "Энгельсская",
+    "uikName": "УИК №1770",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1771,
     "uikTvd": "4644046725162",
     "tikTvd": "26420001727974",
-    "tikName": "Энгельсская"
+    "tikName": "Энгельсская",
+    "uikName": "УИК №1771",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1772,
     "uikTvd": "4644046725163",
     "tikTvd": "26420001727974",
-    "tikName": "Энгельсская"
+    "tikName": "Энгельсская",
+    "uikName": "УИК №1772",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1773,
     "uikTvd": "4644046725164",
     "tikTvd": "26420001727974",
-    "tikName": "Энгельсская"
+    "tikName": "Энгельсская",
+    "uikName": "УИК №1773",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1774,
     "uikTvd": "4644046725165",
     "tikTvd": "26420001727974",
-    "tikName": "Энгельсская"
+    "tikName": "Энгельсская",
+    "uikName": "УИК №1774",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1775,
     "uikTvd": "4644046725166",
     "tikTvd": "26420001727974",
-    "tikName": "Энгельсская"
+    "tikName": "Энгельсская",
+    "uikName": "УИК №1775",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1776,
     "uikTvd": "4644046725167",
     "tikTvd": "26420001727974",
-    "tikName": "Энгельсская"
+    "tikName": "Энгельсская",
+    "uikName": "УИК №1776",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1777,
     "uikTvd": "4644046725168",
     "tikTvd": "26420001727974",
-    "tikName": "Энгельсская"
+    "tikName": "Энгельсская",
+    "uikName": "УИК №1777",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1778,
     "uikTvd": "4644046725169",
     "tikTvd": "26420001727974",
-    "tikName": "Энгельсская"
+    "tikName": "Энгельсская",
+    "uikName": "УИК №1778",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1779,
     "uikTvd": "4644046725170",
     "tikTvd": "26420001727974",
-    "tikName": "Энгельсская"
+    "tikName": "Энгельсская",
+    "uikName": "УИК №1779",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1780,
     "uikTvd": "4644046725171",
     "tikTvd": "26420001727974",
-    "tikName": "Энгельсская"
+    "tikName": "Энгельсская",
+    "uikName": "УИК №1780",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1781,
     "uikTvd": "4644046725172",
     "tikTvd": "26420001727974",
-    "tikName": "Энгельсская"
+    "tikName": "Энгельсская",
+    "uikName": "УИК №1781",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1782,
     "uikTvd": "4644046725173",
     "tikTvd": "26420001727974",
-    "tikName": "Энгельсская"
+    "tikName": "Энгельсская",
+    "uikName": "УИК №1782",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1783,
     "uikTvd": "4644046725174",
     "tikTvd": "26420001727974",
-    "tikName": "Энгельсская"
+    "tikName": "Энгельсская",
+    "uikName": "УИК №1783",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1784,
     "uikTvd": "4644046725175",
     "tikTvd": "26420001727974",
-    "tikName": "Энгельсская"
+    "tikName": "Энгельсская",
+    "uikName": "УИК №1784",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1785,
     "uikTvd": "4644046725176",
     "tikTvd": "26420001727974",
-    "tikName": "Энгельсская"
+    "tikName": "Энгельсская",
+    "uikName": "УИК №1785",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1786,
     "uikTvd": "4644046725177",
     "tikTvd": "26420001727974",
-    "tikName": "Энгельсская"
+    "tikName": "Энгельсская",
+    "uikName": "УИК №1786",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1787,
     "uikTvd": "4644046725178",
     "tikTvd": "26420001727974",
-    "tikName": "Энгельсская"
+    "tikName": "Энгельсская",
+    "uikName": "УИК №1787",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1788,
     "uikTvd": "4644046725179",
     "tikTvd": "26420001727974",
-    "tikName": "Энгельсская"
+    "tikName": "Энгельсская",
+    "uikName": "УИК №1788",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1789,
     "uikTvd": "4644046725180",
     "tikTvd": "26420001727974",
-    "tikName": "Энгельсская"
+    "tikName": "Энгельсская",
+    "uikName": "УИК №1789",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1790,
     "uikTvd": "4644046725181",
     "tikTvd": "26420001727974",
-    "tikName": "Энгельсская"
+    "tikName": "Энгельсская",
+    "uikName": "УИК №1790",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1791,
     "uikTvd": "4644046725182",
     "tikTvd": "26420001727974",
-    "tikName": "Энгельсская"
+    "tikName": "Энгельсская",
+    "uikName": "УИК №1791",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1792,
     "uikTvd": "4644046725183",
     "tikTvd": "26420001727974",
-    "tikName": "Энгельсская"
+    "tikName": "Энгельсская",
+    "uikName": "УИК №1792",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1793,
     "uikTvd": "4644046725184",
     "tikTvd": "26420001727974",
-    "tikName": "Энгельсская"
+    "tikName": "Энгельсская",
+    "uikName": "УИК №1793",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1794,
     "uikTvd": "4644046725185",
     "tikTvd": "26420001727974",
-    "tikName": "Энгельсская"
+    "tikName": "Энгельсская",
+    "uikName": "УИК №1794",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1795,
     "uikTvd": "4644046725186",
     "tikTvd": "26420001727974",
-    "tikName": "Энгельсская"
+    "tikName": "Энгельсская",
+    "uikName": "УИК №1795",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1796,
     "uikTvd": "4644046725187",
     "tikTvd": "26420001727974",
-    "tikName": "Энгельсская"
+    "tikName": "Энгельсская",
+    "uikName": "УИК №1796",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1797,
     "uikTvd": "4644046725188",
     "tikTvd": "26420001727974",
-    "tikName": "Энгельсская"
+    "tikName": "Энгельсская",
+    "uikName": "УИК №1797",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1798,
     "uikTvd": "4644046725189",
     "tikTvd": "26420001727974",
-    "tikName": "Энгельсская"
+    "tikName": "Энгельсская",
+    "uikName": "УИК №1798",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1799,
     "uikTvd": "4644046725190",
     "tikTvd": "26420001727974",
-    "tikName": "Энгельсская"
+    "tikName": "Энгельсская",
+    "uikName": "УИК №1799",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1800,
     "uikTvd": "4644046725191",
     "tikTvd": "26420001727974",
-    "tikName": "Энгельсская"
+    "tikName": "Энгельсская",
+    "uikName": "УИК №1800",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1801,
     "uikTvd": "4644046725192",
     "tikTvd": "26420001727974",
-    "tikName": "Энгельсская"
+    "tikName": "Энгельсская",
+    "uikName": "УИК №1801",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1802,
     "uikTvd": "4644046725193",
     "tikTvd": "26420001727974",
-    "tikName": "Энгельсская"
+    "tikName": "Энгельсская",
+    "uikName": "УИК №1802",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1803,
     "uikTvd": "4644046725194",
     "tikTvd": "26420001727974",
-    "tikName": "Энгельсская"
+    "tikName": "Энгельсская",
+    "uikName": "УИК №1803",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1804,
     "uikTvd": "4644046725195",
     "tikTvd": "26420001727974",
-    "tikName": "Энгельсская"
+    "tikName": "Энгельсская",
+    "uikName": "УИК №1804",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1805,
     "uikTvd": "4644046725196",
     "tikTvd": "26420001727974",
-    "tikName": "Энгельсская"
+    "tikName": "Энгельсская",
+    "uikName": "УИК №1805",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1806,
     "uikTvd": "4644046725197",
     "tikTvd": "26420001727974",
-    "tikName": "Энгельсская"
+    "tikName": "Энгельсская",
+    "uikName": "УИК №1806",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1807,
     "uikTvd": "4644046725198",
     "tikTvd": "26420001727974",
-    "tikName": "Энгельсская"
+    "tikName": "Энгельсская",
+    "uikName": "УИК №1807",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1808,
     "uikTvd": "4644046725199",
     "tikTvd": "26420001727974",
-    "tikName": "Энгельсская"
+    "tikName": "Энгельсская",
+    "uikName": "УИК №1808",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1809,
     "uikTvd": "4644046725200",
     "tikTvd": "26420001727974",
-    "tikName": "Энгельсская"
+    "tikName": "Энгельсская",
+    "uikName": "УИК №1809",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1810,
     "uikTvd": "4644046725201",
     "tikTvd": "26420001727974",
-    "tikName": "Энгельсская"
+    "tikName": "Энгельсская",
+    "uikName": "УИК №1810",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1811,
     "uikTvd": "4644046725202",
     "tikTvd": "26420001727974",
-    "tikName": "Энгельсская"
+    "tikName": "Энгельсская",
+    "uikName": "УИК №1811",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1812,
     "uikTvd": "4644046725203",
     "tikTvd": "26420001727974",
-    "tikName": "Энгельсская"
+    "tikName": "Энгельсская",
+    "uikName": "УИК №1812",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1813,
     "uikTvd": "4644046725204",
     "tikTvd": "26420001727974",
-    "tikName": "Энгельсская"
+    "tikName": "Энгельсская",
+    "uikName": "УИК №1813",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1814,
     "uikTvd": "4644046725205",
     "tikTvd": "26420001727974",
-    "tikName": "Энгельсская"
+    "tikName": "Энгельсская",
+    "uikName": "УИК №1814",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1815,
     "uikTvd": "4644046725206",
     "tikTvd": "26420001727974",
-    "tikName": "Энгельсская"
+    "tikName": "Энгельсская",
+    "uikName": "УИК №1815",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1816,
     "uikTvd": "4644046725207",
     "tikTvd": "26420001727974",
-    "tikName": "Энгельсская"
+    "tikName": "Энгельсская",
+    "uikName": "УИК №1816",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1817,
     "uikTvd": "4644046725208",
     "tikTvd": "26420001727974",
-    "tikName": "Энгельсская"
+    "tikName": "Энгельсская",
+    "uikName": "УИК №1817",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1818,
     "uikTvd": "4644046725209",
     "tikTvd": "26420001727974",
-    "tikName": "Энгельсская"
+    "tikName": "Энгельсская",
+    "uikName": "УИК №1818",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1819,
     "uikTvd": "4644046725210",
     "tikTvd": "26420001727974",
-    "tikName": "Энгельсская"
+    "tikName": "Энгельсская",
+    "uikName": "УИК №1819",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1820,
     "uikTvd": "4644046725211",
     "tikTvd": "26420001727974",
-    "tikName": "Энгельсская"
+    "tikName": "Энгельсская",
+    "uikName": "УИК №1820",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1821,
     "uikTvd": "4644046725212",
     "tikTvd": "26420001727974",
-    "tikName": "Энгельсская"
+    "tikName": "Энгельсская",
+    "uikName": "УИК №1821",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1822,
     "uikTvd": "4644046725213",
     "tikTvd": "26420001727974",
-    "tikName": "Энгельсская"
+    "tikName": "Энгельсская",
+    "uikName": "УИК №1822",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1823,
     "uikTvd": "4644046725214",
     "tikTvd": "26420001727974",
-    "tikName": "Энгельсская"
+    "tikName": "Энгельсская",
+    "uikName": "УИК №1823",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1824,
     "uikTvd": "4644046725215",
     "tikTvd": "26420001727974",
-    "tikName": "Энгельсская"
+    "tikName": "Энгельсская",
+    "uikName": "УИК №1824",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1825,
     "uikTvd": "4644046725216",
     "tikTvd": "26420001727974",
-    "tikName": "Энгельсская"
+    "tikName": "Энгельсская",
+    "uikName": "УИК №1825",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1826,
     "uikTvd": "4644046725217",
     "tikTvd": "26420001727974",
-    "tikName": "Энгельсская"
+    "tikName": "Энгельсская",
+    "uikName": "УИК №1826",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1827,
     "uikTvd": "4644046725218",
     "tikTvd": "26420001727974",
-    "tikName": "Энгельсская"
+    "tikName": "Энгельсская",
+    "uikName": "УИК №1827",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1828,
     "uikTvd": "4644046725219",
     "tikTvd": "26420001727974",
-    "tikName": "Энгельсская"
+    "tikName": "Энгельсская",
+    "uikName": "УИК №1828",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1829,
     "uikTvd": "4644046725220",
     "tikTvd": "26420001727974",
-    "tikName": "Энгельсская"
+    "tikName": "Энгельсская",
+    "uikName": "УИК №1829",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1830,
     "uikTvd": "4644046725221",
     "tikTvd": "26420001727974",
-    "tikName": "Энгельсская"
+    "tikName": "Энгельсская",
+    "uikName": "УИК №1830",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1831,
     "uikTvd": "4644046725222",
     "tikTvd": "26420001727974",
-    "tikName": "Энгельсская"
+    "tikName": "Энгельсская",
+    "uikName": "УИК №1831",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1832,
     "uikTvd": "4644046725223",
     "tikTvd": "26420001727974",
-    "tikName": "Энгельсская"
+    "tikName": "Энгельсская",
+    "uikName": "УИК №1832",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1833,
     "uikTvd": "4644046725224",
     "tikTvd": "26420001727974",
-    "tikName": "Энгельсская"
+    "tikName": "Энгельсская",
+    "uikName": "УИК №1833",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1834,
     "uikTvd": "4644046725225",
     "tikTvd": "26420001727974",
-    "tikName": "Энгельсская"
+    "tikName": "Энгельсская",
+    "uikName": "УИК №1834",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1835,
     "uikTvd": "4644046725226",
     "tikTvd": "26420001727974",
-    "tikName": "Энгельсская"
+    "tikName": "Энгельсская",
+    "uikName": "УИК №1835",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1836,
     "uikTvd": "4644046725227",
     "tikTvd": "26420001727974",
-    "tikName": "Энгельсская"
+    "tikName": "Энгельсская",
+    "uikName": "УИК №1836",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1837,
     "uikTvd": "4644046725228",
     "tikTvd": "26420001727974",
-    "tikName": "Энгельсская"
+    "tikName": "Энгельсская",
+    "uikName": "УИК №1837",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1838,
     "uikTvd": "4644046725229",
     "tikTvd": "26420001727974",
-    "tikName": "Энгельсская"
+    "tikName": "Энгельсская",
+    "uikName": "УИК №1838",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1839,
     "uikTvd": "4644046725230",
     "tikTvd": "26420001727974",
-    "tikName": "Энгельсская"
+    "tikName": "Энгельсская",
+    "uikName": "УИК №1839",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1840,
     "uikTvd": "4644046725231",
     "tikTvd": "26420001727974",
-    "tikName": "Энгельсская"
+    "tikName": "Энгельсская",
+    "uikName": "УИК №1840",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1841,
     "uikTvd": "4644046725232",
     "tikTvd": "26420001727974",
-    "tikName": "Энгельсская"
+    "tikName": "Энгельсская",
+    "uikName": "УИК №1841",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1842,
     "uikTvd": "4644046725233",
     "tikTvd": "26420001727974",
-    "tikName": "Энгельсская"
+    "tikName": "Энгельсская",
+    "uikName": "УИК №1842",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1843,
     "uikTvd": "4644046725234",
     "tikTvd": "26420001727974",
-    "tikName": "Энгельсская"
+    "tikName": "Энгельсская",
+    "uikName": "УИК №1843",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1844,
     "uikTvd": "4644046725235",
     "tikTvd": "26420001727974",
-    "tikName": "Энгельсская"
+    "tikName": "Энгельсская",
+    "uikName": "УИК №1844",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1845,
     "uikTvd": "4644046725236",
     "tikTvd": "26420001727974",
-    "tikName": "Энгельсская"
+    "tikName": "Энгельсская",
+    "uikName": "УИК №1845",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1846,
     "uikTvd": "4644046725237",
     "tikTvd": "26420001727974",
-    "tikName": "Энгельсская"
+    "tikName": "Энгельсская",
+    "uikName": "УИК №1846",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1847,
     "uikTvd": "4644046725238",
     "tikTvd": "26420001727974",
-    "tikName": "Энгельсская"
+    "tikName": "Энгельсская",
+    "uikName": "УИК №1847",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1848,
     "uikTvd": "4644046725239",
     "tikTvd": "26420001727974",
-    "tikName": "Энгельсская"
+    "tikName": "Энгельсская",
+    "uikName": "УИК №1848",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1849,
     "uikTvd": "4644046725240",
     "tikTvd": "26420001727974",
-    "tikName": "Энгельсская"
+    "tikName": "Энгельсская",
+    "uikName": "УИК №1849",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1850,
     "uikTvd": "4644046725241",
     "tikTvd": "26420001727974",
-    "tikName": "Энгельсская"
+    "tikName": "Энгельсская",
+    "uikName": "УИК №1850",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1851,
     "uikTvd": "4644046725242",
     "tikTvd": "26420001727974",
-    "tikName": "Энгельсская"
+    "tikName": "Энгельсская",
+    "uikName": "УИК №1851",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1852,
     "uikTvd": "4644046725243",
     "tikTvd": "26420001727974",
-    "tikName": "Энгельсская"
+    "tikName": "Энгельсская",
+    "uikName": "УИК №1852",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1853,
     "uikTvd": "4644046725244",
     "tikTvd": "26420001727974",
-    "tikName": "Энгельсская"
+    "tikName": "Энгельсская",
+    "uikName": "УИК №1853",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1854,
     "uikTvd": "4644046725245",
     "tikTvd": "26420001727974",
-    "tikName": "Энгельсская"
+    "tikName": "Энгельсская",
+    "uikName": "УИК №1854",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1855,
     "uikTvd": "4644046725246",
     "tikTvd": "26420001727974",
-    "tikName": "Энгельсская"
+    "tikName": "Энгельсская",
+    "uikName": "УИК №1855",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1856,
     "uikTvd": "4644046725247",
     "tikTvd": "26420001727974",
-    "tikName": "Энгельсская"
+    "tikName": "Энгельсская",
+    "uikName": "УИК №1856",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1857,
     "uikTvd": "4644046725248",
     "tikTvd": "26420001727974",
-    "tikName": "Энгельсская"
+    "tikName": "Энгельсская",
+    "uikName": "УИК №1857",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1858,
     "uikTvd": "4644046725249",
     "tikTvd": "26420001727974",
-    "tikName": "Энгельсская"
+    "tikName": "Энгельсская",
+    "uikName": "УИК №1858",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1859,
     "uikTvd": "4644046725250",
     "tikTvd": "26420001727974",
-    "tikName": "Энгельсская"
+    "tikName": "Энгельсская",
+    "uikName": "УИК №1859",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1860,
     "uikTvd": "4644046725251",
     "tikTvd": "26420001727974",
-    "tikName": "Энгельсская"
+    "tikName": "Энгельсская",
+    "uikName": "УИК №1860",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1861,
     "uikTvd": "4644046725252",
     "tikTvd": "26420001727974",
-    "tikName": "Энгельсская"
+    "tikName": "Энгельсская",
+    "uikName": "УИК №1861",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1862,
     "uikTvd": "4644046725253",
     "tikTvd": "26420001727974",
-    "tikName": "Энгельсская"
+    "tikName": "Энгельсская",
+    "uikName": "УИК №1862",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1863,
     "uikTvd": "4644046725254",
     "tikTvd": "26420001727974",
-    "tikName": "Энгельсская"
+    "tikName": "Энгельсская",
+    "uikName": "УИК №1863",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1864,
     "uikTvd": "4644046725255",
     "tikTvd": "26420001727974",
-    "tikName": "Энгельсская"
+    "tikName": "Энгельсская",
+    "uikName": "УИК №1864",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1865,
     "uikTvd": "4644046725256",
     "tikTvd": "26420001727974",
-    "tikName": "Энгельсская"
+    "tikName": "Энгельсская",
+    "uikName": "УИК №1865",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1866,
     "uikTvd": "4644046725257",
     "tikTvd": "26420001727974",
-    "tikName": "Энгельсская"
+    "tikName": "Энгельсская",
+    "uikName": "УИК №1866",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1867,
     "uikTvd": "4644046725258",
     "tikTvd": "26420001727974",
-    "tikName": "Энгельсская"
+    "tikName": "Энгельсская",
+    "uikName": "УИК №1867",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1868,
     "uikTvd": "4644046725259",
     "tikTvd": "26420001727974",
-    "tikName": "Энгельсская"
+    "tikName": "Энгельсская",
+    "uikName": "УИК №1868",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1869,
     "uikTvd": "4644046725260",
     "tikTvd": "26420001727974",
-    "tikName": "Энгельсская"
+    "tikName": "Энгельсская",
+    "uikName": "УИК №1869",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1870,
     "uikTvd": "4644046725261",
     "tikTvd": "26420001727974",
-    "tikName": "Энгельсская"
+    "tikName": "Энгельсская",
+    "uikName": "УИК №1870",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1871,
     "uikTvd": "4644046725262",
     "tikTvd": "26420001727974",
-    "tikName": "Энгельсская"
+    "tikName": "Энгельсская",
+    "uikName": "УИК №1871",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1872,
     "uikTvd": "4644046725263",
     "tikTvd": "26420001727974",
-    "tikName": "Энгельсская"
+    "tikName": "Энгельсская",
+    "uikName": "УИК №1872",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1873,
     "uikTvd": "4644046725264",
     "tikTvd": "26420001727974",
-    "tikName": "Энгельсская"
+    "tikName": "Энгельсская",
+    "uikName": "УИК №1873",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1874,
     "uikTvd": "4644046725265",
     "tikTvd": "26420001727974",
-    "tikName": "Энгельсская"
+    "tikName": "Энгельсская",
+    "uikName": "УИК №1874",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1875,
     "uikTvd": "4644042141435",
     "tikTvd": "26420001727937",
-    "tikName": "Светловская"
+    "tikName": "Светловская",
+    "uikName": "УИК №1875",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 1876,
     "uikTvd": "4644042141436",
     "tikTvd": "26420001727937",
-    "tikName": "Светловская"
+    "tikName": "Светловская",
+    "uikName": "УИК №1876",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 1877,
     "uikTvd": "4644042141437",
     "tikTvd": "26420001727937",
-    "tikName": "Светловская"
+    "tikName": "Светловская",
+    "uikName": "УИК №1877",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 1878,
     "uikTvd": "4644042141438",
     "tikTvd": "26420001727937",
-    "tikName": "Светловская"
+    "tikName": "Светловская",
+    "uikName": "УИК №1878",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 1879,
     "uikTvd": "4644049149140",
     "tikTvd": "26420001727947",
-    "tikName": "Шиханская"
+    "tikName": "Шиханская",
+    "uikName": "УИК №1879",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 1880,
     "uikTvd": "4644049149142",
     "tikTvd": "26420001727947",
-    "tikName": "Шиханская"
+    "tikName": "Шиханская",
+    "uikName": "УИК №1880",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 1881,
     "uikTvd": "4644050123835",
     "tikTvd": "26420001727946",
-    "tikName": "Михайловская"
+    "tikName": "Михайловская",
+    "uikName": "УИК №1881",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 1882,
     "uikTvd": "4644050123836",
     "tikTvd": "26420001727946",
-    "tikName": "Михайловская"
+    "tikName": "Михайловская",
+    "uikName": "УИК №1882",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 1883,
     "uikTvd": "4644031334465",
     "tikTvd": "26420001727965",
-    "tikName": "Ртищевская"
+    "tikName": "Ртищевская",
+    "uikName": "УИК №1883",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1884,
     "uikTvd": "4644033346328",
     "tikTvd": "26420001727949",
-    "tikName": "Саратов, Волжская"
+    "tikName": "Саратов, Волжская",
+    "uikName": "УИК №1884",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 1885,
     "uikTvd": "4644035533449",
     "tikTvd": "26420001727941",
-    "tikName": "Саратов, Кировская"
+    "tikName": "Саратов, Кировская",
+    "uikName": "УИК №1885",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 1886,
     "uikTvd": "4644035533450",
     "tikTvd": "26420001727941",
-    "tikName": "Саратов, Кировская"
+    "tikName": "Саратов, Кировская",
+    "uikName": "УИК №1886",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 1887,
     "uikTvd": "4644009393366",
     "tikTvd": "26420001727959",
-    "tikName": "Вольская"
+    "tikName": "Вольская",
+    "uikName": "УИК №1887",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 1888,
     "uikTvd": "4644009393367",
     "tikTvd": "26420001727959",
-    "tikName": "Вольская"
+    "tikName": "Вольская",
+    "uikName": "УИК №1888",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 1889,
     "uikTvd": "4644033346329",
     "tikTvd": "26420001727949",
-    "tikName": "Саратов, Волжская"
+    "tikName": "Саратов, Волжская",
+    "uikName": "УИК №1889",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 1890,
     "uikTvd": "4644033346330",
     "tikTvd": "26420001727949",
-    "tikName": "Саратов, Волжская"
+    "tikName": "Саратов, Волжская",
+    "uikName": "УИК №1890",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 1891,
     "uikTvd": "4644037356019",
     "tikTvd": "26420001727977",
-    "tikName": "Саратов, Октябрьская"
+    "tikName": "Саратов, Октябрьская",
+    "uikName": "УИК №1891",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1892,
     "uikTvd": "4644037356020",
     "tikTvd": "26420001727977",
-    "tikName": "Саратов, Октябрьская"
+    "tikName": "Саратов, Октябрьская",
+    "uikName": "УИК №1892",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1893,
     "uikTvd": "4644034494358",
     "tikTvd": "26420001727963",
-    "tikName": "Саратов, Заводская"
+    "tikName": "Саратов, Заводская",
+    "uikName": "УИК №1893",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1894,
     "uikTvd": "4644033346331",
     "tikTvd": "26420001727949",
-    "tikName": "Саратов, Волжская"
+    "tikName": "Саратов, Волжская",
+    "uikName": "УИК №1894",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 1895,
     "uikTvd": "4644035533451",
     "tikTvd": "26420001727941",
-    "tikName": "Саратов, Кировская"
+    "tikName": "Саратов, Кировская",
+    "uikName": "УИК №1895",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 1896,
     "uikTvd": "4644035533452",
     "tikTvd": "26420001727941",
-    "tikName": "Саратов, Кировская"
+    "tikName": "Саратов, Кировская",
+    "uikName": "УИК №1896",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 1897,
     "uikTvd": "4644046725266",
     "tikTvd": "26420001727974",
-    "tikName": "Энгельсская"
+    "tikName": "Энгельсская",
+    "uikName": "УИК №1897",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1898,
     "uikTvd": "4644046725267",
     "tikTvd": "26420001727974",
-    "tikName": "Энгельсская"
+    "tikName": "Энгельсская",
+    "uikName": "УИК №1898",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   },
   {
     "uikNumber": 1899,
     "uikTvd": "4644033346332",
     "tikTvd": "26420001727949",
-    "tikName": "Саратов, Волжская"
+    "tikName": "Саратов, Волжская",
+    "uikName": "УИК №1899",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 1900,
     "uikTvd": "4644034502443",
     "tikTvd": "26420001727963",
-    "tikName": "Саратов, Заводская"
+    "tikName": "Саратов, Заводская",
+    "uikName": "УИК №1900",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1901,
     "uikTvd": "4644038270739",
     "tikTvd": "26420001727939",
-    "tikName": "Саратов, Фрунзенская"
+    "tikName": "Саратов, Фрунзенская",
+    "uikName": "УИК №1901",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 1904,
     "uikTvd": "4644034494356",
     "tikTvd": "26420001727963",
-    "tikName": "Саратов, Заводская"
+    "tikName": "Саратов, Заводская",
+    "uikName": "УИК №1904",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1905,
     "uikTvd": "4644034494361",
     "tikTvd": "26420001727963",
-    "tikName": "Саратов, Заводская"
+    "tikName": "Саратов, Заводская",
+    "uikName": "УИК №1905",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1906,
     "uikTvd": "4644034494363",
     "tikTvd": "26420001727963",
-    "tikName": "Саратов, Заводская"
+    "tikName": "Саратов, Заводская",
+    "uikName": "УИК №1906",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1907,
     "uikTvd": "4644034494365",
     "tikTvd": "26420001727963",
-    "tikName": "Саратов, Заводская"
+    "tikName": "Саратов, Заводская",
+    "uikName": "УИК №1907",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1908,
     "uikTvd": "4644034494367",
     "tikTvd": "26420001727963",
-    "tikName": "Саратов, Заводская"
+    "tikName": "Саратов, Заводская",
+    "uikName": "УИК №1908",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1909,
     "uikTvd": "4644033346333",
     "tikTvd": "26420001727949",
-    "tikName": "Саратов, Волжская"
+    "tikName": "Саратов, Волжская",
+    "uikName": "УИК №1909",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883653",
+    "oikName": "Саратовская область – Балаковский",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100225883653"
+    }
   },
   {
     "uikNumber": 1910,
     "uikTvd": "4644035533453",
     "tikTvd": "26420001727941",
-    "tikName": "Саратов, Кировская"
+    "tikName": "Саратов, Кировская",
+    "uikName": "УИК №1910",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 1911,
     "uikTvd": "4644036518633",
     "tikTvd": "26420001727940",
-    "tikName": "Саратов, Ленинская"
+    "tikName": "Саратов, Ленинская",
+    "uikName": "УИК №1911",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883652",
+    "oikName": "Саратовская область – Саратовский",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100225883652"
+    }
   },
   {
     "uikNumber": 1912,
     "uikTvd": "4644034494369",
     "tikTvd": "26420001727963",
-    "tikName": "Саратов, Заводская"
+    "tikName": "Саратов, Заводская",
+    "uikName": "УИК №1912",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1913,
     "uikTvd": "4644034494371",
     "tikTvd": "26420001727963",
-    "tikName": "Саратов, Заводская"
+    "tikName": "Саратов, Заводская",
+    "uikName": "УИК №1913",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1914,
     "uikTvd": "4644034494373",
     "tikTvd": "26420001727963",
-    "tikName": "Саратов, Заводская"
+    "tikName": "Саратов, Заводская",
+    "uikName": "УИК №1914",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1915,
     "uikTvd": "4644034494375",
     "tikTvd": "26420001727963",
-    "tikName": "Саратов, Заводская"
+    "tikName": "Саратов, Заводская",
+    "uikName": "УИК №1915",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 1916,
     "uikTvd": "4644034494377",
     "tikTvd": "26420001727963",
-    "tikName": "Саратов, Заводская"
+    "tikName": "Саратов, Заводская",
+    "uikName": "УИК №1916",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 8207,
     "uikTvd": "4644006503309",
     "tikTvd": "26420001727971",
-    "tikName": "Балашовская"
+    "tikName": "Балашовская",
+    "uikName": "УИК №8207",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 8208,
     "uikTvd": "4644006503307",
     "tikTvd": "26420001727971",
-    "tikName": "Балашовская"
+    "tikName": "Балашовская",
+    "uikName": "УИК №8208",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883654",
+    "oikName": "Саратовская область – Балашовский",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100225883654"
+    }
   },
   {
     "uikNumber": 8223,
     "uikTvd": "4644046728207",
     "tikTvd": "26420001727974",
-    "tikName": "Энгельсская"
+    "tikName": "Энгельсская",
+    "uikName": "УИК №8223",
+    "regionCode": "64",
+    "regionTvd": "100100225883651",
+    "regionName": "Саратовская область",
+    "oikTvd": "100100225883655",
+    "oikName": "Саратовская область – Энгельсский",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100225883655"
+    }
   }
 ] satisfies readonly UikTikRelation[];

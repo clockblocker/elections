@@ -43,15 +43,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 7,
-      "Вандакуров Александр Александрович": 11,
-      "Голованев Дмитрий Павлович": 49,
-      "Игнатов Виктор Александрович": 144,
-      "Лукашев Дмитрий Александрович": 3,
-      "Попов Дмитрий Александрович": 3,
-      "Холявченко Дмитрий Сергеевич": 4,
-      "Шмендель Ольга Николаевна": 34,
-      "Яковлев Роман Борисович": 38
+      "gas:candidate-vibid:25420001431016": 7,
+      "gas:candidate-vibid:25420001363753": 11,
+      "gas:candidate-vibid:25420001360219": 49,
+      "gas:candidate-vibid:25420001430586": 144,
+      "gas:candidate-vibid:25420001433467": 3,
+      "gas:candidate-vibid:25420001430998": 3,
+      "gas:candidate-vibid:25420001434428": 4,
+      "gas:candidate-vibid:25420001432328": 34,
+      "gas:candidate-vibid:25420001431806": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234766&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234766&type=464",
@@ -102,15 +102,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 1,
-      "Вандакуров Александр Александрович": 1,
-      "Голованев Дмитрий Павлович": 22,
-      "Игнатов Виктор Александрович": 57,
-      "Лукашев Дмитрий Александрович": 0,
-      "Попов Дмитрий Александрович": 0,
-      "Холявченко Дмитрий Сергеевич": 1,
-      "Шмендель Ольга Николаевна": 7,
-      "Яковлев Роман Борисович": 2
+      "gas:candidate-vibid:25420001431016": 1,
+      "gas:candidate-vibid:25420001363753": 1,
+      "gas:candidate-vibid:25420001360219": 22,
+      "gas:candidate-vibid:25420001430586": 57,
+      "gas:candidate-vibid:25420001433467": 0,
+      "gas:candidate-vibid:25420001430998": 0,
+      "gas:candidate-vibid:25420001434428": 1,
+      "gas:candidate-vibid:25420001432328": 7,
+      "gas:candidate-vibid:25420001431806": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234766&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234766&type=464",
@@ -161,15 +161,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 3,
-      "Вандакуров Александр Александрович": 2,
-      "Голованев Дмитрий Павлович": 28,
-      "Игнатов Виктор Александрович": 37,
-      "Лукашев Дмитрий Александрович": 2,
-      "Попов Дмитрий Александрович": 4,
-      "Холявченко Дмитрий Сергеевич": 0,
-      "Шмендель Ольга Николаевна": 13,
-      "Яковлев Роман Борисович": 5
+      "gas:candidate-vibid:25420001431016": 3,
+      "gas:candidate-vibid:25420001363753": 2,
+      "gas:candidate-vibid:25420001360219": 28,
+      "gas:candidate-vibid:25420001430586": 37,
+      "gas:candidate-vibid:25420001433467": 2,
+      "gas:candidate-vibid:25420001430998": 4,
+      "gas:candidate-vibid:25420001434428": 0,
+      "gas:candidate-vibid:25420001432328": 13,
+      "gas:candidate-vibid:25420001431806": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234766&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234766&type=464",
@@ -220,15 +220,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 7,
-      "Вандакуров Александр Александрович": 6,
-      "Голованев Дмитрий Павлович": 27,
-      "Игнатов Виктор Александрович": 77,
-      "Лукашев Дмитрий Александрович": 2,
-      "Попов Дмитрий Александрович": 3,
-      "Холявченко Дмитрий Сергеевич": 7,
-      "Шмендель Ольга Николаевна": 17,
-      "Яковлев Роман Борисович": 47
+      "gas:candidate-vibid:25420001431016": 7,
+      "gas:candidate-vibid:25420001363753": 6,
+      "gas:candidate-vibid:25420001360219": 27,
+      "gas:candidate-vibid:25420001430586": 77,
+      "gas:candidate-vibid:25420001433467": 2,
+      "gas:candidate-vibid:25420001430998": 3,
+      "gas:candidate-vibid:25420001434428": 7,
+      "gas:candidate-vibid:25420001432328": 17,
+      "gas:candidate-vibid:25420001431806": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234766&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234766&type=464",
@@ -279,15 +279,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 7,
-      "Вандакуров Александр Александрович": 5,
-      "Голованев Дмитрий Павлович": 7,
-      "Игнатов Виктор Александрович": 48,
-      "Лукашев Дмитрий Александрович": 3,
-      "Попов Дмитрий Александрович": 3,
-      "Холявченко Дмитрий Сергеевич": 0,
-      "Шмендель Ольга Николаевна": 7,
-      "Яковлев Роман Борисович": 37
+      "gas:candidate-vibid:25420001431016": 7,
+      "gas:candidate-vibid:25420001363753": 5,
+      "gas:candidate-vibid:25420001360219": 7,
+      "gas:candidate-vibid:25420001430586": 48,
+      "gas:candidate-vibid:25420001433467": 3,
+      "gas:candidate-vibid:25420001430998": 3,
+      "gas:candidate-vibid:25420001434428": 0,
+      "gas:candidate-vibid:25420001432328": 7,
+      "gas:candidate-vibid:25420001431806": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234766&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234766&type=464",
@@ -338,15 +338,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 1,
-      "Вандакуров Александр Александрович": 1,
-      "Голованев Дмитрий Павлович": 25,
-      "Игнатов Виктор Александрович": 42,
-      "Лукашев Дмитрий Александрович": 1,
-      "Попов Дмитрий Александрович": 1,
-      "Холявченко Дмитрий Сергеевич": 0,
-      "Шмендель Ольга Николаевна": 7,
-      "Яковлев Роман Борисович": 28
+      "gas:candidate-vibid:25420001431016": 1,
+      "gas:candidate-vibid:25420001363753": 1,
+      "gas:candidate-vibid:25420001360219": 25,
+      "gas:candidate-vibid:25420001430586": 42,
+      "gas:candidate-vibid:25420001433467": 1,
+      "gas:candidate-vibid:25420001430998": 1,
+      "gas:candidate-vibid:25420001434428": 0,
+      "gas:candidate-vibid:25420001432328": 7,
+      "gas:candidate-vibid:25420001431806": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234766&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234766&type=464",
@@ -397,15 +397,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 1,
-      "Вандакуров Александр Александрович": 3,
-      "Голованев Дмитрий Павлович": 13,
-      "Игнатов Виктор Александрович": 55,
-      "Лукашев Дмитрий Александрович": 4,
-      "Попов Дмитрий Александрович": 1,
-      "Холявченко Дмитрий Сергеевич": 0,
-      "Шмендель Ольга Николаевна": 11,
-      "Яковлев Роман Борисович": 13
+      "gas:candidate-vibid:25420001431016": 1,
+      "gas:candidate-vibid:25420001363753": 3,
+      "gas:candidate-vibid:25420001360219": 13,
+      "gas:candidate-vibid:25420001430586": 55,
+      "gas:candidate-vibid:25420001433467": 4,
+      "gas:candidate-vibid:25420001430998": 1,
+      "gas:candidate-vibid:25420001434428": 0,
+      "gas:candidate-vibid:25420001432328": 11,
+      "gas:candidate-vibid:25420001431806": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234766&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234766&type=464",
@@ -456,15 +456,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 2,
-      "Вандакуров Александр Александрович": 6,
-      "Голованев Дмитрий Павлович": 30,
-      "Игнатов Виктор Александрович": 81,
-      "Лукашев Дмитрий Александрович": 1,
-      "Попов Дмитрий Александрович": 6,
-      "Холявченко Дмитрий Сергеевич": 2,
-      "Шмендель Ольга Николаевна": 10,
-      "Яковлев Роман Борисович": 30
+      "gas:candidate-vibid:25420001431016": 2,
+      "gas:candidate-vibid:25420001363753": 6,
+      "gas:candidate-vibid:25420001360219": 30,
+      "gas:candidate-vibid:25420001430586": 81,
+      "gas:candidate-vibid:25420001433467": 1,
+      "gas:candidate-vibid:25420001430998": 6,
+      "gas:candidate-vibid:25420001434428": 2,
+      "gas:candidate-vibid:25420001432328": 10,
+      "gas:candidate-vibid:25420001431806": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234766&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234766&type=464",
@@ -515,15 +515,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 1,
-      "Вандакуров Александр Александрович": 3,
-      "Голованев Дмитрий Павлович": 20,
-      "Игнатов Виктор Александрович": 62,
-      "Лукашев Дмитрий Александрович": 0,
-      "Попов Дмитрий Александрович": 1,
-      "Холявченко Дмитрий Сергеевич": 0,
-      "Шмендель Ольга Николаевна": 8,
-      "Яковлев Роман Борисович": 12
+      "gas:candidate-vibid:25420001431016": 1,
+      "gas:candidate-vibid:25420001363753": 3,
+      "gas:candidate-vibid:25420001360219": 20,
+      "gas:candidate-vibid:25420001430586": 62,
+      "gas:candidate-vibid:25420001433467": 0,
+      "gas:candidate-vibid:25420001430998": 1,
+      "gas:candidate-vibid:25420001434428": 0,
+      "gas:candidate-vibid:25420001432328": 8,
+      "gas:candidate-vibid:25420001431806": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234766&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234766&type=464",
@@ -574,15 +574,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 2,
-      "Вандакуров Александр Александрович": 12,
-      "Голованев Дмитрий Павлович": 47,
-      "Игнатов Виктор Александрович": 95,
-      "Лукашев Дмитрий Александрович": 3,
-      "Попов Дмитрий Александрович": 1,
-      "Холявченко Дмитрий Сергеевич": 1,
-      "Шмендель Ольга Николаевна": 17,
-      "Яковлев Роман Борисович": 34
+      "gas:candidate-vibid:25420001431016": 2,
+      "gas:candidate-vibid:25420001363753": 12,
+      "gas:candidate-vibid:25420001360219": 47,
+      "gas:candidate-vibid:25420001430586": 95,
+      "gas:candidate-vibid:25420001433467": 3,
+      "gas:candidate-vibid:25420001430998": 1,
+      "gas:candidate-vibid:25420001434428": 1,
+      "gas:candidate-vibid:25420001432328": 17,
+      "gas:candidate-vibid:25420001431806": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234766&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234766&type=464",
@@ -633,15 +633,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 0,
-      "Вандакуров Александр Александрович": 6,
-      "Голованев Дмитрий Павлович": 22,
-      "Игнатов Виктор Александрович": 34,
-      "Лукашев Дмитрий Александрович": 4,
-      "Попов Дмитрий Александрович": 0,
-      "Холявченко Дмитрий Сергеевич": 2,
-      "Шмендель Ольга Николаевна": 8,
-      "Яковлев Роман Борисович": 19
+      "gas:candidate-vibid:25420001431016": 0,
+      "gas:candidate-vibid:25420001363753": 6,
+      "gas:candidate-vibid:25420001360219": 22,
+      "gas:candidate-vibid:25420001430586": 34,
+      "gas:candidate-vibid:25420001433467": 4,
+      "gas:candidate-vibid:25420001430998": 0,
+      "gas:candidate-vibid:25420001434428": 2,
+      "gas:candidate-vibid:25420001432328": 8,
+      "gas:candidate-vibid:25420001431806": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234766&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234766&type=464",
@@ -692,15 +692,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 3,
-      "Вандакуров Александр Александрович": 1,
-      "Голованев Дмитрий Павлович": 6,
-      "Игнатов Виктор Александрович": 18,
-      "Лукашев Дмитрий Александрович": 4,
-      "Попов Дмитрий Александрович": 1,
-      "Холявченко Дмитрий Сергеевич": 0,
-      "Шмендель Ольга Николаевна": 11,
-      "Яковлев Роман Борисович": 13
+      "gas:candidate-vibid:25420001431016": 3,
+      "gas:candidate-vibid:25420001363753": 1,
+      "gas:candidate-vibid:25420001360219": 6,
+      "gas:candidate-vibid:25420001430586": 18,
+      "gas:candidate-vibid:25420001433467": 4,
+      "gas:candidate-vibid:25420001430998": 1,
+      "gas:candidate-vibid:25420001434428": 0,
+      "gas:candidate-vibid:25420001432328": 11,
+      "gas:candidate-vibid:25420001431806": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234766&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234766&type=464",
@@ -751,15 +751,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 8,
-      "Вандакуров Александр Александрович": 14,
-      "Голованев Дмитрий Павлович": 47,
-      "Игнатов Виктор Александрович": 138,
-      "Лукашев Дмитрий Александрович": 5,
-      "Попов Дмитрий Александрович": 2,
-      "Холявченко Дмитрий Сергеевич": 4,
-      "Шмендель Ольга Николаевна": 21,
-      "Яковлев Роман Борисович": 60
+      "gas:candidate-vibid:25420001431016": 8,
+      "gas:candidate-vibid:25420001363753": 14,
+      "gas:candidate-vibid:25420001360219": 47,
+      "gas:candidate-vibid:25420001430586": 138,
+      "gas:candidate-vibid:25420001433467": 5,
+      "gas:candidate-vibid:25420001430998": 2,
+      "gas:candidate-vibid:25420001434428": 4,
+      "gas:candidate-vibid:25420001432328": 21,
+      "gas:candidate-vibid:25420001431806": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234766&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234766&type=464",
@@ -810,15 +810,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 1,
-      "Вандакуров Александр Александрович": 3,
-      "Голованев Дмитрий Павлович": 20,
-      "Игнатов Виктор Александрович": 37,
-      "Лукашев Дмитрий Александрович": 2,
-      "Попов Дмитрий Александрович": 1,
-      "Холявченко Дмитрий Сергеевич": 0,
-      "Шмендель Ольга Николаевна": 17,
-      "Яковлев Роман Борисович": 20
+      "gas:candidate-vibid:25420001431016": 1,
+      "gas:candidate-vibid:25420001363753": 3,
+      "gas:candidate-vibid:25420001360219": 20,
+      "gas:candidate-vibid:25420001430586": 37,
+      "gas:candidate-vibid:25420001433467": 2,
+      "gas:candidate-vibid:25420001430998": 1,
+      "gas:candidate-vibid:25420001434428": 0,
+      "gas:candidate-vibid:25420001432328": 17,
+      "gas:candidate-vibid:25420001431806": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234766&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234766&type=464",
@@ -869,15 +869,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 4,
-      "Вандакуров Александр Александрович": 10,
-      "Голованев Дмитрий Павлович": 31,
-      "Игнатов Виктор Александрович": 46,
-      "Лукашев Дмитрий Александрович": 5,
-      "Попов Дмитрий Александрович": 0,
-      "Холявченко Дмитрий Сергеевич": 1,
-      "Шмендель Ольга Николаевна": 6,
-      "Яковлев Роман Борисович": 8
+      "gas:candidate-vibid:25420001431016": 4,
+      "gas:candidate-vibid:25420001363753": 10,
+      "gas:candidate-vibid:25420001360219": 31,
+      "gas:candidate-vibid:25420001430586": 46,
+      "gas:candidate-vibid:25420001433467": 5,
+      "gas:candidate-vibid:25420001430998": 0,
+      "gas:candidate-vibid:25420001434428": 1,
+      "gas:candidate-vibid:25420001432328": 6,
+      "gas:candidate-vibid:25420001431806": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234766&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234766&type=464",
@@ -928,15 +928,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 1,
-      "Вандакуров Александр Александрович": 6,
-      "Голованев Дмитрий Павлович": 22,
-      "Игнатов Виктор Александрович": 50,
-      "Лукашев Дмитрий Александрович": 3,
-      "Попов Дмитрий Александрович": 3,
-      "Холявченко Дмитрий Сергеевич": 1,
-      "Шмендель Ольга Николаевна": 15,
-      "Яковлев Роман Борисович": 18
+      "gas:candidate-vibid:25420001431016": 1,
+      "gas:candidate-vibid:25420001363753": 6,
+      "gas:candidate-vibid:25420001360219": 22,
+      "gas:candidate-vibid:25420001430586": 50,
+      "gas:candidate-vibid:25420001433467": 3,
+      "gas:candidate-vibid:25420001430998": 3,
+      "gas:candidate-vibid:25420001434428": 1,
+      "gas:candidate-vibid:25420001432328": 15,
+      "gas:candidate-vibid:25420001431806": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234766&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234766&type=464",
@@ -987,15 +987,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 3,
-      "Вандакуров Александр Александрович": 1,
-      "Голованев Дмитрий Павлович": 10,
-      "Игнатов Виктор Александрович": 31,
-      "Лукашев Дмитрий Александрович": 0,
-      "Попов Дмитрий Александрович": 2,
-      "Холявченко Дмитрий Сергеевич": 1,
-      "Шмендель Ольга Николаевна": 8,
-      "Яковлев Роман Борисович": 9
+      "gas:candidate-vibid:25420001431016": 3,
+      "gas:candidate-vibid:25420001363753": 1,
+      "gas:candidate-vibid:25420001360219": 10,
+      "gas:candidate-vibid:25420001430586": 31,
+      "gas:candidate-vibid:25420001433467": 0,
+      "gas:candidate-vibid:25420001430998": 2,
+      "gas:candidate-vibid:25420001434428": 1,
+      "gas:candidate-vibid:25420001432328": 8,
+      "gas:candidate-vibid:25420001431806": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234766&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234766&type=464",
@@ -1046,15 +1046,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 5,
-      "Вандакуров Александр Александрович": 7,
-      "Голованев Дмитрий Павлович": 23,
-      "Игнатов Виктор Александрович": 133,
-      "Лукашев Дмитрий Александрович": 6,
-      "Попов Дмитрий Александрович": 1,
-      "Холявченко Дмитрий Сергеевич": 2,
-      "Шмендель Ольга Николаевна": 16,
-      "Яковлев Роман Борисович": 53
+      "gas:candidate-vibid:25420001431016": 5,
+      "gas:candidate-vibid:25420001363753": 7,
+      "gas:candidate-vibid:25420001360219": 23,
+      "gas:candidate-vibid:25420001430586": 133,
+      "gas:candidate-vibid:25420001433467": 6,
+      "gas:candidate-vibid:25420001430998": 1,
+      "gas:candidate-vibid:25420001434428": 2,
+      "gas:candidate-vibid:25420001432328": 16,
+      "gas:candidate-vibid:25420001431806": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234766&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234766&type=464",
@@ -1105,15 +1105,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 3,
-      "Вандакуров Александр Александрович": 0,
-      "Голованев Дмитрий Павлович": 17,
-      "Игнатов Виктор Александрович": 55,
-      "Лукашев Дмитрий Александрович": 2,
-      "Попов Дмитрий Александрович": 2,
-      "Холявченко Дмитрий Сергеевич": 0,
-      "Шмендель Ольга Николаевна": 8,
-      "Яковлев Роман Борисович": 13
+      "gas:candidate-vibid:25420001431016": 3,
+      "gas:candidate-vibid:25420001363753": 0,
+      "gas:candidate-vibid:25420001360219": 17,
+      "gas:candidate-vibid:25420001430586": 55,
+      "gas:candidate-vibid:25420001433467": 2,
+      "gas:candidate-vibid:25420001430998": 2,
+      "gas:candidate-vibid:25420001434428": 0,
+      "gas:candidate-vibid:25420001432328": 8,
+      "gas:candidate-vibid:25420001431806": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234766&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234766&type=464",
@@ -1164,15 +1164,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 5,
-      "Вандакуров Александр Александрович": 18,
-      "Голованев Дмитрий Павлович": 55,
-      "Игнатов Виктор Александрович": 117,
-      "Лукашев Дмитрий Александрович": 8,
-      "Попов Дмитрий Александрович": 6,
-      "Холявченко Дмитрий Сергеевич": 3,
-      "Шмендель Ольга Николаевна": 32,
-      "Яковлев Роман Борисович": 39
+      "gas:candidate-vibid:25420001431016": 5,
+      "gas:candidate-vibid:25420001363753": 18,
+      "gas:candidate-vibid:25420001360219": 55,
+      "gas:candidate-vibid:25420001430586": 117,
+      "gas:candidate-vibid:25420001433467": 8,
+      "gas:candidate-vibid:25420001430998": 6,
+      "gas:candidate-vibid:25420001434428": 3,
+      "gas:candidate-vibid:25420001432328": 32,
+      "gas:candidate-vibid:25420001431806": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234766&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234766&type=464",
@@ -1223,15 +1223,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 4,
-      "Вандакуров Александр Александрович": 6,
-      "Голованев Дмитрий Павлович": 12,
-      "Игнатов Виктор Александрович": 32,
-      "Лукашев Дмитрий Александрович": 2,
-      "Попов Дмитрий Александрович": 0,
-      "Холявченко Дмитрий Сергеевич": 0,
-      "Шмендель Ольга Николаевна": 4,
-      "Яковлев Роман Борисович": 7
+      "gas:candidate-vibid:25420001431016": 4,
+      "gas:candidate-vibid:25420001363753": 6,
+      "gas:candidate-vibid:25420001360219": 12,
+      "gas:candidate-vibid:25420001430586": 32,
+      "gas:candidate-vibid:25420001433467": 2,
+      "gas:candidate-vibid:25420001430998": 0,
+      "gas:candidate-vibid:25420001434428": 0,
+      "gas:candidate-vibid:25420001432328": 4,
+      "gas:candidate-vibid:25420001431806": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234766&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234766&type=464",
@@ -1282,15 +1282,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 1,
-      "Вандакуров Александр Александрович": 12,
-      "Голованев Дмитрий Павлович": 52,
-      "Игнатов Виктор Александрович": 93,
-      "Лукашев Дмитрий Александрович": 5,
-      "Попов Дмитрий Александрович": 4,
-      "Холявченко Дмитрий Сергеевич": 1,
-      "Шмендель Ольга Николаевна": 24,
-      "Яковлев Роман Борисович": 12
+      "gas:candidate-vibid:25420001431016": 1,
+      "gas:candidate-vibid:25420001363753": 12,
+      "gas:candidate-vibid:25420001360219": 52,
+      "gas:candidate-vibid:25420001430586": 93,
+      "gas:candidate-vibid:25420001433467": 5,
+      "gas:candidate-vibid:25420001430998": 4,
+      "gas:candidate-vibid:25420001434428": 1,
+      "gas:candidate-vibid:25420001432328": 24,
+      "gas:candidate-vibid:25420001431806": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234766&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234766&type=464",
@@ -1341,15 +1341,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 4,
-      "Вандакуров Александр Александрович": 6,
-      "Голованев Дмитрий Павлович": 16,
-      "Игнатов Виктор Александрович": 41,
-      "Лукашев Дмитрий Александрович": 0,
-      "Попов Дмитрий Александрович": 2,
-      "Холявченко Дмитрий Сергеевич": 1,
-      "Шмендель Ольга Николаевна": 10,
-      "Яковлев Роман Борисович": 14
+      "gas:candidate-vibid:25420001431016": 4,
+      "gas:candidate-vibid:25420001363753": 6,
+      "gas:candidate-vibid:25420001360219": 16,
+      "gas:candidate-vibid:25420001430586": 41,
+      "gas:candidate-vibid:25420001433467": 0,
+      "gas:candidate-vibid:25420001430998": 2,
+      "gas:candidate-vibid:25420001434428": 1,
+      "gas:candidate-vibid:25420001432328": 10,
+      "gas:candidate-vibid:25420001431806": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234766&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234766&type=464",
@@ -1400,15 +1400,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 2,
-      "Вандакуров Александр Александрович": 2,
-      "Голованев Дмитрий Павлович": 19,
-      "Игнатов Виктор Александрович": 22,
-      "Лукашев Дмитрий Александрович": 0,
-      "Попов Дмитрий Александрович": 1,
-      "Холявченко Дмитрий Сергеевич": 0,
-      "Шмендель Ольга Николаевна": 4,
-      "Яковлев Роман Борисович": 8
+      "gas:candidate-vibid:25420001431016": 2,
+      "gas:candidate-vibid:25420001363753": 2,
+      "gas:candidate-vibid:25420001360219": 19,
+      "gas:candidate-vibid:25420001430586": 22,
+      "gas:candidate-vibid:25420001433467": 0,
+      "gas:candidate-vibid:25420001430998": 1,
+      "gas:candidate-vibid:25420001434428": 0,
+      "gas:candidate-vibid:25420001432328": 4,
+      "gas:candidate-vibid:25420001431806": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234766&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234766&type=464",
@@ -1459,15 +1459,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 1,
-      "Вандакуров Александр Александрович": 15,
-      "Голованев Дмитрий Павлович": 54,
-      "Игнатов Виктор Александрович": 120,
-      "Лукашев Дмитрий Александрович": 7,
-      "Попов Дмитрий Александрович": 1,
-      "Холявченко Дмитрий Сергеевич": 4,
-      "Шмендель Ольга Николаевна": 16,
-      "Яковлев Роман Борисович": 35
+      "gas:candidate-vibid:25420001431016": 1,
+      "gas:candidate-vibid:25420001363753": 15,
+      "gas:candidate-vibid:25420001360219": 54,
+      "gas:candidate-vibid:25420001430586": 120,
+      "gas:candidate-vibid:25420001433467": 7,
+      "gas:candidate-vibid:25420001430998": 1,
+      "gas:candidate-vibid:25420001434428": 4,
+      "gas:candidate-vibid:25420001432328": 16,
+      "gas:candidate-vibid:25420001431806": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234766&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234766&type=464",
@@ -1518,15 +1518,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 3,
-      "Вандакуров Александр Александрович": 5,
-      "Голованев Дмитрий Павлович": 29,
-      "Игнатов Виктор Александрович": 30,
-      "Лукашев Дмитрий Александрович": 3,
-      "Попов Дмитрий Александрович": 2,
-      "Холявченко Дмитрий Сергеевич": 4,
-      "Шмендель Ольга Николаевна": 11,
-      "Яковлев Роман Борисович": 34
+      "gas:candidate-vibid:25420001431016": 3,
+      "gas:candidate-vibid:25420001363753": 5,
+      "gas:candidate-vibid:25420001360219": 29,
+      "gas:candidate-vibid:25420001430586": 30,
+      "gas:candidate-vibid:25420001433467": 3,
+      "gas:candidate-vibid:25420001430998": 2,
+      "gas:candidate-vibid:25420001434428": 4,
+      "gas:candidate-vibid:25420001432328": 11,
+      "gas:candidate-vibid:25420001431806": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234766&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234766&type=464",
@@ -1577,15 +1577,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 1,
-      "Вандакуров Александр Александрович": 8,
-      "Голованев Дмитрий Павлович": 7,
-      "Игнатов Виктор Александрович": 19,
-      "Лукашев Дмитрий Александрович": 4,
-      "Попов Дмитрий Александрович": 0,
-      "Холявченко Дмитрий Сергеевич": 1,
-      "Шмендель Ольга Николаевна": 11,
-      "Яковлев Роман Борисович": 24
+      "gas:candidate-vibid:25420001431016": 1,
+      "gas:candidate-vibid:25420001363753": 8,
+      "gas:candidate-vibid:25420001360219": 7,
+      "gas:candidate-vibid:25420001430586": 19,
+      "gas:candidate-vibid:25420001433467": 4,
+      "gas:candidate-vibid:25420001430998": 0,
+      "gas:candidate-vibid:25420001434428": 1,
+      "gas:candidate-vibid:25420001432328": 11,
+      "gas:candidate-vibid:25420001431806": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234766&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234766&type=464",
@@ -1636,15 +1636,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 2,
-      "Вандакуров Александр Александрович": 18,
-      "Голованев Дмитрий Павлович": 62,
-      "Игнатов Виктор Александрович": 80,
-      "Лукашев Дмитрий Александрович": 4,
-      "Попов Дмитрий Александрович": 4,
-      "Холявченко Дмитрий Сергеевич": 3,
-      "Шмендель Ольга Николаевна": 16,
-      "Яковлев Роман Борисович": 10
+      "gas:candidate-vibid:25420001431016": 2,
+      "gas:candidate-vibid:25420001363753": 18,
+      "gas:candidate-vibid:25420001360219": 62,
+      "gas:candidate-vibid:25420001430586": 80,
+      "gas:candidate-vibid:25420001433467": 4,
+      "gas:candidate-vibid:25420001430998": 4,
+      "gas:candidate-vibid:25420001434428": 3,
+      "gas:candidate-vibid:25420001432328": 16,
+      "gas:candidate-vibid:25420001431806": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234766&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234766&type=464",
@@ -1695,15 +1695,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 1,
-      "Вандакуров Александр Александрович": 1,
-      "Голованев Дмитрий Павлович": 12,
-      "Игнатов Виктор Александрович": 26,
-      "Лукашев Дмитрий Александрович": 2,
-      "Попов Дмитрий Александрович": 0,
-      "Холявченко Дмитрий Сергеевич": 1,
-      "Шмендель Ольга Николаевна": 3,
-      "Яковлев Роман Борисович": 6
+      "gas:candidate-vibid:25420001431016": 1,
+      "gas:candidate-vibid:25420001363753": 1,
+      "gas:candidate-vibid:25420001360219": 12,
+      "gas:candidate-vibid:25420001430586": 26,
+      "gas:candidate-vibid:25420001433467": 2,
+      "gas:candidate-vibid:25420001430998": 0,
+      "gas:candidate-vibid:25420001434428": 1,
+      "gas:candidate-vibid:25420001432328": 3,
+      "gas:candidate-vibid:25420001431806": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234766&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234766&type=464",
@@ -1754,15 +1754,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 2,
-      "Вандакуров Александр Александрович": 7,
-      "Голованев Дмитрий Павлович": 19,
-      "Игнатов Виктор Александрович": 17,
-      "Лукашев Дмитрий Александрович": 0,
-      "Попов Дмитрий Александрович": 0,
-      "Холявченко Дмитрий Сергеевич": 1,
-      "Шмендель Ольга Николаевна": 5,
-      "Яковлев Роман Борисович": 1
+      "gas:candidate-vibid:25420001431016": 2,
+      "gas:candidate-vibid:25420001363753": 7,
+      "gas:candidate-vibid:25420001360219": 19,
+      "gas:candidate-vibid:25420001430586": 17,
+      "gas:candidate-vibid:25420001433467": 0,
+      "gas:candidate-vibid:25420001430998": 0,
+      "gas:candidate-vibid:25420001434428": 1,
+      "gas:candidate-vibid:25420001432328": 5,
+      "gas:candidate-vibid:25420001431806": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234766&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234766&type=464",
@@ -1813,15 +1813,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 3,
-      "Вандакуров Александр Александрович": 15,
-      "Голованев Дмитрий Павлович": 39,
-      "Игнатов Виктор Александрович": 88,
-      "Лукашев Дмитрий Александрович": 7,
-      "Попов Дмитрий Александрович": 3,
-      "Холявченко Дмитрий Сергеевич": 2,
-      "Шмендель Ольга Николаевна": 21,
-      "Яковлев Роман Борисович": 28
+      "gas:candidate-vibid:25420001431016": 3,
+      "gas:candidate-vibid:25420001363753": 15,
+      "gas:candidate-vibid:25420001360219": 39,
+      "gas:candidate-vibid:25420001430586": 88,
+      "gas:candidate-vibid:25420001433467": 7,
+      "gas:candidate-vibid:25420001430998": 3,
+      "gas:candidate-vibid:25420001434428": 2,
+      "gas:candidate-vibid:25420001432328": 21,
+      "gas:candidate-vibid:25420001431806": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234766&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234766&type=464",
@@ -1872,15 +1872,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 0,
-      "Вандакуров Александр Александрович": 9,
-      "Голованев Дмитрий Павлович": 9,
-      "Игнатов Виктор Александрович": 20,
-      "Лукашев Дмитрий Александрович": 1,
-      "Попов Дмитрий Александрович": 0,
-      "Холявченко Дмитрий Сергеевич": 0,
-      "Шмендель Ольга Николаевна": 4,
-      "Яковлев Роман Борисович": 6
+      "gas:candidate-vibid:25420001431016": 0,
+      "gas:candidate-vibid:25420001363753": 9,
+      "gas:candidate-vibid:25420001360219": 9,
+      "gas:candidate-vibid:25420001430586": 20,
+      "gas:candidate-vibid:25420001433467": 1,
+      "gas:candidate-vibid:25420001430998": 0,
+      "gas:candidate-vibid:25420001434428": 0,
+      "gas:candidate-vibid:25420001432328": 4,
+      "gas:candidate-vibid:25420001431806": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234766&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234766&type=464",
@@ -1931,15 +1931,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 3,
-      "Вандакуров Александр Александрович": 9,
-      "Голованев Дмитрий Павлович": 38,
-      "Игнатов Виктор Александрович": 124,
-      "Лукашев Дмитрий Александрович": 8,
-      "Попов Дмитрий Александрович": 5,
-      "Холявченко Дмитрий Сергеевич": 1,
-      "Шмендель Ольга Николаевна": 9,
-      "Яковлев Роман Борисович": 41
+      "gas:candidate-vibid:25420001431016": 3,
+      "gas:candidate-vibid:25420001363753": 9,
+      "gas:candidate-vibid:25420001360219": 38,
+      "gas:candidate-vibid:25420001430586": 124,
+      "gas:candidate-vibid:25420001433467": 8,
+      "gas:candidate-vibid:25420001430998": 5,
+      "gas:candidate-vibid:25420001434428": 1,
+      "gas:candidate-vibid:25420001432328": 9,
+      "gas:candidate-vibid:25420001431806": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234766&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234766&type=464",
@@ -1990,15 +1990,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 1,
-      "Вандакуров Александр Александрович": 3,
-      "Голованев Дмитрий Павлович": 2,
-      "Игнатов Виктор Александрович": 50,
-      "Лукашев Дмитрий Александрович": 3,
-      "Попов Дмитрий Александрович": 0,
-      "Холявченко Дмитрий Сергеевич": 0,
-      "Шмендель Ольга Николаевна": 3,
-      "Яковлев Роман Борисович": 0
+      "gas:candidate-vibid:25420001431016": 1,
+      "gas:candidate-vibid:25420001363753": 3,
+      "gas:candidate-vibid:25420001360219": 2,
+      "gas:candidate-vibid:25420001430586": 50,
+      "gas:candidate-vibid:25420001433467": 3,
+      "gas:candidate-vibid:25420001430998": 0,
+      "gas:candidate-vibid:25420001434428": 0,
+      "gas:candidate-vibid:25420001432328": 3,
+      "gas:candidate-vibid:25420001431806": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234766&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234766&type=464",
@@ -2049,15 +2049,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 0,
-      "Вандакуров Александр Александрович": 3,
-      "Голованев Дмитрий Павлович": 24,
-      "Игнатов Виктор Александрович": 25,
-      "Лукашев Дмитрий Александрович": 2,
-      "Попов Дмитрий Александрович": 1,
-      "Холявченко Дмитрий Сергеевич": 0,
-      "Шмендель Ольга Николаевна": 4,
-      "Яковлев Роман Борисович": 3
+      "gas:candidate-vibid:25420001431016": 0,
+      "gas:candidate-vibid:25420001363753": 3,
+      "gas:candidate-vibid:25420001360219": 24,
+      "gas:candidate-vibid:25420001430586": 25,
+      "gas:candidate-vibid:25420001433467": 2,
+      "gas:candidate-vibid:25420001430998": 1,
+      "gas:candidate-vibid:25420001434428": 0,
+      "gas:candidate-vibid:25420001432328": 4,
+      "gas:candidate-vibid:25420001431806": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234766&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234766&type=464",
@@ -2108,15 +2108,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 4,
-      "Вандакуров Александр Александрович": 19,
-      "Голованев Дмитрий Павлович": 38,
-      "Игнатов Виктор Александрович": 136,
-      "Лукашев Дмитрий Александрович": 6,
-      "Попов Дмитрий Александрович": 5,
-      "Холявченко Дмитрий Сергеевич": 1,
-      "Шмендель Ольга Николаевна": 23,
-      "Яковлев Роман Борисович": 46
+      "gas:candidate-vibid:25420001431016": 4,
+      "gas:candidate-vibid:25420001363753": 19,
+      "gas:candidate-vibid:25420001360219": 38,
+      "gas:candidate-vibid:25420001430586": 136,
+      "gas:candidate-vibid:25420001433467": 6,
+      "gas:candidate-vibid:25420001430998": 5,
+      "gas:candidate-vibid:25420001434428": 1,
+      "gas:candidate-vibid:25420001432328": 23,
+      "gas:candidate-vibid:25420001431806": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234767&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234767&type=464",
@@ -2167,15 +2167,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 0,
-      "Вандакуров Александр Александрович": 9,
-      "Голованев Дмитрий Павлович": 14,
-      "Игнатов Виктор Александрович": 92,
-      "Лукашев Дмитрий Александрович": 5,
-      "Попов Дмитрий Александрович": 2,
-      "Холявченко Дмитрий Сергеевич": 2,
-      "Шмендель Ольга Николаевна": 9,
-      "Яковлев Роман Борисович": 35
+      "gas:candidate-vibid:25420001431016": 0,
+      "gas:candidate-vibid:25420001363753": 9,
+      "gas:candidate-vibid:25420001360219": 14,
+      "gas:candidate-vibid:25420001430586": 92,
+      "gas:candidate-vibid:25420001433467": 5,
+      "gas:candidate-vibid:25420001430998": 2,
+      "gas:candidate-vibid:25420001434428": 2,
+      "gas:candidate-vibid:25420001432328": 9,
+      "gas:candidate-vibid:25420001431806": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234767&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234767&type=464",
@@ -2226,15 +2226,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 1,
-      "Вандакуров Александр Александрович": 1,
-      "Голованев Дмитрий Павлович": 6,
-      "Игнатов Виктор Александрович": 43,
-      "Лукашев Дмитрий Александрович": 4,
-      "Попов Дмитрий Александрович": 2,
-      "Холявченко Дмитрий Сергеевич": 0,
-      "Шмендель Ольга Николаевна": 1,
-      "Яковлев Роман Борисович": 8
+      "gas:candidate-vibid:25420001431016": 1,
+      "gas:candidate-vibid:25420001363753": 1,
+      "gas:candidate-vibid:25420001360219": 6,
+      "gas:candidate-vibid:25420001430586": 43,
+      "gas:candidate-vibid:25420001433467": 4,
+      "gas:candidate-vibid:25420001430998": 2,
+      "gas:candidate-vibid:25420001434428": 0,
+      "gas:candidate-vibid:25420001432328": 1,
+      "gas:candidate-vibid:25420001431806": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234767&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234767&type=464",
@@ -2285,15 +2285,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 4,
-      "Вандакуров Александр Александрович": 21,
-      "Голованев Дмитрий Павлович": 73,
-      "Игнатов Виктор Александрович": 131,
-      "Лукашев Дмитрий Александрович": 19,
-      "Попов Дмитрий Александрович": 5,
-      "Холявченко Дмитрий Сергеевич": 3,
-      "Шмендель Ольга Николаевна": 22,
-      "Яковлев Роман Борисович": 54
+      "gas:candidate-vibid:25420001431016": 4,
+      "gas:candidate-vibid:25420001363753": 21,
+      "gas:candidate-vibid:25420001360219": 73,
+      "gas:candidate-vibid:25420001430586": 131,
+      "gas:candidate-vibid:25420001433467": 19,
+      "gas:candidate-vibid:25420001430998": 5,
+      "gas:candidate-vibid:25420001434428": 3,
+      "gas:candidate-vibid:25420001432328": 22,
+      "gas:candidate-vibid:25420001431806": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234767&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234767&type=464",
@@ -2344,15 +2344,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 4,
-      "Вандакуров Александр Александрович": 23,
-      "Голованев Дмитрий Павлович": 82,
-      "Игнатов Виктор Александрович": 275,
-      "Лукашев Дмитрий Александрович": 15,
-      "Попов Дмитрий Александрович": 10,
-      "Холявченко Дмитрий Сергеевич": 3,
-      "Шмендель Ольга Николаевна": 39,
-      "Яковлев Роман Борисович": 122
+      "gas:candidate-vibid:25420001431016": 4,
+      "gas:candidate-vibid:25420001363753": 23,
+      "gas:candidate-vibid:25420001360219": 82,
+      "gas:candidate-vibid:25420001430586": 275,
+      "gas:candidate-vibid:25420001433467": 15,
+      "gas:candidate-vibid:25420001430998": 10,
+      "gas:candidate-vibid:25420001434428": 3,
+      "gas:candidate-vibid:25420001432328": 39,
+      "gas:candidate-vibid:25420001431806": 122
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234767&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234767&type=464",
@@ -2403,15 +2403,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 2,
-      "Вандакуров Александр Александрович": 25,
-      "Голованев Дмитрий Павлович": 77,
-      "Игнатов Виктор Александрович": 256,
-      "Лукашев Дмитрий Александрович": 19,
-      "Попов Дмитрий Александрович": 2,
-      "Холявченко Дмитрий Сергеевич": 7,
-      "Шмендель Ольга Николаевна": 33,
-      "Яковлев Роман Борисович": 85
+      "gas:candidate-vibid:25420001431016": 2,
+      "gas:candidate-vibid:25420001363753": 25,
+      "gas:candidate-vibid:25420001360219": 77,
+      "gas:candidate-vibid:25420001430586": 256,
+      "gas:candidate-vibid:25420001433467": 19,
+      "gas:candidate-vibid:25420001430998": 2,
+      "gas:candidate-vibid:25420001434428": 7,
+      "gas:candidate-vibid:25420001432328": 33,
+      "gas:candidate-vibid:25420001431806": 85
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234767&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234767&type=464",
@@ -2462,15 +2462,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 3,
-      "Вандакуров Александр Александрович": 20,
-      "Голованев Дмитрий Павлович": 71,
-      "Игнатов Виктор Александрович": 199,
-      "Лукашев Дмитрий Александрович": 35,
-      "Попов Дмитрий Александрович": 2,
-      "Холявченко Дмитрий Сергеевич": 6,
-      "Шмендель Ольга Николаевна": 40,
-      "Яковлев Роман Борисович": 98
+      "gas:candidate-vibid:25420001431016": 3,
+      "gas:candidate-vibid:25420001363753": 20,
+      "gas:candidate-vibid:25420001360219": 71,
+      "gas:candidate-vibid:25420001430586": 199,
+      "gas:candidate-vibid:25420001433467": 35,
+      "gas:candidate-vibid:25420001430998": 2,
+      "gas:candidate-vibid:25420001434428": 6,
+      "gas:candidate-vibid:25420001432328": 40,
+      "gas:candidate-vibid:25420001431806": 98
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234767&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234767&type=464",
@@ -2521,15 +2521,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 1,
-      "Вандакуров Александр Александрович": 5,
-      "Голованев Дмитрий Павлович": 21,
-      "Игнатов Виктор Александрович": 23,
-      "Лукашев Дмитрий Александрович": 2,
-      "Попов Дмитрий Александрович": 2,
-      "Холявченко Дмитрий Сергеевич": 2,
-      "Шмендель Ольга Николаевна": 2,
-      "Яковлев Роман Борисович": 5
+      "gas:candidate-vibid:25420001431016": 1,
+      "gas:candidate-vibid:25420001363753": 5,
+      "gas:candidate-vibid:25420001360219": 21,
+      "gas:candidate-vibid:25420001430586": 23,
+      "gas:candidate-vibid:25420001433467": 2,
+      "gas:candidate-vibid:25420001430998": 2,
+      "gas:candidate-vibid:25420001434428": 2,
+      "gas:candidate-vibid:25420001432328": 2,
+      "gas:candidate-vibid:25420001431806": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234767&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234767&type=464",
@@ -2580,15 +2580,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 1,
-      "Вандакуров Александр Александрович": 4,
-      "Голованев Дмитрий Павлович": 13,
-      "Игнатов Виктор Александрович": 22,
-      "Лукашев Дмитрий Александрович": 4,
-      "Попов Дмитрий Александрович": 2,
-      "Холявченко Дмитрий Сергеевич": 2,
-      "Шмендель Ольга Николаевна": 8,
-      "Яковлев Роман Борисович": 23
+      "gas:candidate-vibid:25420001431016": 1,
+      "gas:candidate-vibid:25420001363753": 4,
+      "gas:candidate-vibid:25420001360219": 13,
+      "gas:candidate-vibid:25420001430586": 22,
+      "gas:candidate-vibid:25420001433467": 4,
+      "gas:candidate-vibid:25420001430998": 2,
+      "gas:candidate-vibid:25420001434428": 2,
+      "gas:candidate-vibid:25420001432328": 8,
+      "gas:candidate-vibid:25420001431806": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234767&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234767&type=464",
@@ -2639,15 +2639,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 4,
-      "Вандакуров Александр Александрович": 10,
-      "Голованев Дмитрий Павлович": 5,
-      "Игнатов Виктор Александрович": 13,
-      "Лукашев Дмитрий Александрович": 39,
-      "Попов Дмитрий Александрович": 0,
-      "Холявченко Дмитрий Сергеевич": 2,
-      "Шмендель Ольга Николаевна": 1,
-      "Яковлев Роман Борисович": 3
+      "gas:candidate-vibid:25420001431016": 4,
+      "gas:candidate-vibid:25420001363753": 10,
+      "gas:candidate-vibid:25420001360219": 5,
+      "gas:candidate-vibid:25420001430586": 13,
+      "gas:candidate-vibid:25420001433467": 39,
+      "gas:candidate-vibid:25420001430998": 0,
+      "gas:candidate-vibid:25420001434428": 2,
+      "gas:candidate-vibid:25420001432328": 1,
+      "gas:candidate-vibid:25420001431806": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234767&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234767&type=464",
@@ -2698,15 +2698,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 6,
-      "Вандакуров Александр Александрович": 15,
-      "Голованев Дмитрий Павлович": 44,
-      "Игнатов Виктор Александрович": 122,
-      "Лукашев Дмитрий Александрович": 7,
-      "Попов Дмитрий Александрович": 3,
-      "Холявченко Дмитрий Сергеевич": 2,
-      "Шмендель Ольга Николаевна": 17,
-      "Яковлев Роман Борисович": 24
+      "gas:candidate-vibid:25420001431016": 6,
+      "gas:candidate-vibid:25420001363753": 15,
+      "gas:candidate-vibid:25420001360219": 44,
+      "gas:candidate-vibid:25420001430586": 122,
+      "gas:candidate-vibid:25420001433467": 7,
+      "gas:candidate-vibid:25420001430998": 3,
+      "gas:candidate-vibid:25420001434428": 2,
+      "gas:candidate-vibid:25420001432328": 17,
+      "gas:candidate-vibid:25420001431806": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234767&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234767&type=464",
@@ -2757,15 +2757,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 4,
-      "Вандакуров Александр Александрович": 8,
-      "Голованев Дмитрий Павлович": 10,
-      "Игнатов Виктор Александрович": 32,
-      "Лукашев Дмитрий Александрович": 2,
-      "Попов Дмитрий Александрович": 0,
-      "Холявченко Дмитрий Сергеевич": 1,
-      "Шмендель Ольга Николаевна": 0,
-      "Яковлев Роман Борисович": 2
+      "gas:candidate-vibid:25420001431016": 4,
+      "gas:candidate-vibid:25420001363753": 8,
+      "gas:candidate-vibid:25420001360219": 10,
+      "gas:candidate-vibid:25420001430586": 32,
+      "gas:candidate-vibid:25420001433467": 2,
+      "gas:candidate-vibid:25420001430998": 0,
+      "gas:candidate-vibid:25420001434428": 1,
+      "gas:candidate-vibid:25420001432328": 0,
+      "gas:candidate-vibid:25420001431806": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234767&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234767&type=464",
@@ -2816,15 +2816,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 2,
-      "Вандакуров Александр Александрович": 12,
-      "Голованев Дмитрий Павлович": 25,
-      "Игнатов Виктор Александрович": 97,
-      "Лукашев Дмитрий Александрович": 18,
-      "Попов Дмитрий Александрович": 1,
-      "Холявченко Дмитрий Сергеевич": 2,
-      "Шмендель Ольга Николаевна": 3,
-      "Яковлев Роман Борисович": 22
+      "gas:candidate-vibid:25420001431016": 2,
+      "gas:candidate-vibid:25420001363753": 12,
+      "gas:candidate-vibid:25420001360219": 25,
+      "gas:candidate-vibid:25420001430586": 97,
+      "gas:candidate-vibid:25420001433467": 18,
+      "gas:candidate-vibid:25420001430998": 1,
+      "gas:candidate-vibid:25420001434428": 2,
+      "gas:candidate-vibid:25420001432328": 3,
+      "gas:candidate-vibid:25420001431806": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234767&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234767&type=464",
@@ -2875,15 +2875,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 6,
-      "Вандакуров Александр Александрович": 35,
-      "Голованев Дмитрий Павлович": 51,
-      "Игнатов Виктор Александрович": 188,
-      "Лукашев Дмитрий Александрович": 30,
-      "Попов Дмитрий Александрович": 7,
-      "Холявченко Дмитрий Сергеевич": 6,
-      "Шмендель Ольга Николаевна": 39,
-      "Яковлев Роман Борисович": 43
+      "gas:candidate-vibid:25420001431016": 6,
+      "gas:candidate-vibid:25420001363753": 35,
+      "gas:candidate-vibid:25420001360219": 51,
+      "gas:candidate-vibid:25420001430586": 188,
+      "gas:candidate-vibid:25420001433467": 30,
+      "gas:candidate-vibid:25420001430998": 7,
+      "gas:candidate-vibid:25420001434428": 6,
+      "gas:candidate-vibid:25420001432328": 39,
+      "gas:candidate-vibid:25420001431806": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234767&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234767&type=464",
@@ -2934,15 +2934,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 1,
-      "Вандакуров Александр Александрович": 9,
-      "Голованев Дмитрий Павлович": 16,
-      "Игнатов Виктор Александрович": 70,
-      "Лукашев Дмитрий Александрович": 5,
-      "Попов Дмитрий Александрович": 1,
-      "Холявченко Дмитрий Сергеевич": 0,
-      "Шмендель Ольга Николаевна": 15,
-      "Яковлев Роман Борисович": 29
+      "gas:candidate-vibid:25420001431016": 1,
+      "gas:candidate-vibid:25420001363753": 9,
+      "gas:candidate-vibid:25420001360219": 16,
+      "gas:candidate-vibid:25420001430586": 70,
+      "gas:candidate-vibid:25420001433467": 5,
+      "gas:candidate-vibid:25420001430998": 1,
+      "gas:candidate-vibid:25420001434428": 0,
+      "gas:candidate-vibid:25420001432328": 15,
+      "gas:candidate-vibid:25420001431806": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234767&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234767&type=464",
@@ -2993,15 +2993,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 4,
-      "Вандакуров Александр Александрович": 6,
-      "Голованев Дмитрий Павлович": 17,
-      "Игнатов Виктор Александрович": 18,
-      "Лукашев Дмитрий Александрович": 5,
-      "Попов Дмитрий Александрович": 0,
-      "Холявченко Дмитрий Сергеевич": 1,
-      "Шмендель Ольга Николаевна": 8,
-      "Яковлев Роман Борисович": 6
+      "gas:candidate-vibid:25420001431016": 4,
+      "gas:candidate-vibid:25420001363753": 6,
+      "gas:candidate-vibid:25420001360219": 17,
+      "gas:candidate-vibid:25420001430586": 18,
+      "gas:candidate-vibid:25420001433467": 5,
+      "gas:candidate-vibid:25420001430998": 0,
+      "gas:candidate-vibid:25420001434428": 1,
+      "gas:candidate-vibid:25420001432328": 8,
+      "gas:candidate-vibid:25420001431806": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234767&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234767&type=464",
@@ -3052,15 +3052,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 3,
-      "Вандакуров Александр Александрович": 8,
-      "Голованев Дмитрий Павлович": 15,
-      "Игнатов Виктор Александрович": 31,
-      "Лукашев Дмитрий Александрович": 9,
-      "Попов Дмитрий Александрович": 1,
-      "Холявченко Дмитрий Сергеевич": 0,
-      "Шмендель Ольга Николаевна": 16,
-      "Яковлев Роман Борисович": 7
+      "gas:candidate-vibid:25420001431016": 3,
+      "gas:candidate-vibid:25420001363753": 8,
+      "gas:candidate-vibid:25420001360219": 15,
+      "gas:candidate-vibid:25420001430586": 31,
+      "gas:candidate-vibid:25420001433467": 9,
+      "gas:candidate-vibid:25420001430998": 1,
+      "gas:candidate-vibid:25420001434428": 0,
+      "gas:candidate-vibid:25420001432328": 16,
+      "gas:candidate-vibid:25420001431806": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234767&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234767&type=464",
@@ -3111,15 +3111,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 0,
-      "Вандакуров Александр Александрович": 4,
-      "Голованев Дмитрий Павлович": 12,
-      "Игнатов Виктор Александрович": 51,
-      "Лукашев Дмитрий Александрович": 4,
-      "Попов Дмитрий Александрович": 1,
-      "Холявченко Дмитрий Сергеевич": 1,
-      "Шмендель Ольга Николаевна": 7,
-      "Яковлев Роман Борисович": 5
+      "gas:candidate-vibid:25420001431016": 0,
+      "gas:candidate-vibid:25420001363753": 4,
+      "gas:candidate-vibid:25420001360219": 12,
+      "gas:candidate-vibid:25420001430586": 51,
+      "gas:candidate-vibid:25420001433467": 4,
+      "gas:candidate-vibid:25420001430998": 1,
+      "gas:candidate-vibid:25420001434428": 1,
+      "gas:candidate-vibid:25420001432328": 7,
+      "gas:candidate-vibid:25420001431806": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234767&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234767&type=464",
@@ -3170,15 +3170,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 7,
-      "Вандакуров Александр Александрович": 18,
-      "Голованев Дмитрий Павлович": 36,
-      "Игнатов Виктор Александрович": 92,
-      "Лукашев Дмитрий Александрович": 21,
-      "Попов Дмитрий Александрович": 5,
-      "Холявченко Дмитрий Сергеевич": 6,
-      "Шмендель Ольга Николаевна": 42,
-      "Яковлев Роман Борисович": 41
+      "gas:candidate-vibid:25420001431016": 7,
+      "gas:candidate-vibid:25420001363753": 18,
+      "gas:candidate-vibid:25420001360219": 36,
+      "gas:candidate-vibid:25420001430586": 92,
+      "gas:candidate-vibid:25420001433467": 21,
+      "gas:candidate-vibid:25420001430998": 5,
+      "gas:candidate-vibid:25420001434428": 6,
+      "gas:candidate-vibid:25420001432328": 42,
+      "gas:candidate-vibid:25420001431806": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234767&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234767&type=464",
@@ -3229,15 +3229,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 1,
-      "Вандакуров Александр Александрович": 0,
-      "Голованев Дмитрий Павлович": 13,
-      "Игнатов Виктор Александрович": 18,
-      "Лукашев Дмитрий Александрович": 6,
-      "Попов Дмитрий Александрович": 1,
-      "Холявченко Дмитрий Сергеевич": 1,
-      "Шмендель Ольга Николаевна": 4,
-      "Яковлев Роман Борисович": 11
+      "gas:candidate-vibid:25420001431016": 1,
+      "gas:candidate-vibid:25420001363753": 0,
+      "gas:candidate-vibid:25420001360219": 13,
+      "gas:candidate-vibid:25420001430586": 18,
+      "gas:candidate-vibid:25420001433467": 6,
+      "gas:candidate-vibid:25420001430998": 1,
+      "gas:candidate-vibid:25420001434428": 1,
+      "gas:candidate-vibid:25420001432328": 4,
+      "gas:candidate-vibid:25420001431806": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234767&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234767&type=464",
@@ -3288,15 +3288,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 1,
-      "Вандакуров Александр Александрович": 10,
-      "Голованев Дмитрий Павлович": 49,
-      "Игнатов Виктор Александрович": 106,
-      "Лукашев Дмитрий Александрович": 11,
-      "Попов Дмитрий Александрович": 3,
-      "Холявченко Дмитрий Сергеевич": 4,
-      "Шмендель Ольга Николаевна": 24,
-      "Яковлев Роман Борисович": 46
+      "gas:candidate-vibid:25420001431016": 1,
+      "gas:candidate-vibid:25420001363753": 10,
+      "gas:candidate-vibid:25420001360219": 49,
+      "gas:candidate-vibid:25420001430586": 106,
+      "gas:candidate-vibid:25420001433467": 11,
+      "gas:candidate-vibid:25420001430998": 3,
+      "gas:candidate-vibid:25420001434428": 4,
+      "gas:candidate-vibid:25420001432328": 24,
+      "gas:candidate-vibid:25420001431806": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234767&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234767&type=464",
@@ -3347,15 +3347,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 0,
-      "Вандакуров Александр Александрович": 4,
-      "Голованев Дмитрий Павлович": 19,
-      "Игнатов Виктор Александрович": 11,
-      "Лукашев Дмитрий Александрович": 4,
-      "Попов Дмитрий Александрович": 2,
-      "Холявченко Дмитрий Сергеевич": 1,
-      "Шмендель Ольга Николаевна": 3,
-      "Яковлев Роман Борисович": 4
+      "gas:candidate-vibid:25420001431016": 0,
+      "gas:candidate-vibid:25420001363753": 4,
+      "gas:candidate-vibid:25420001360219": 19,
+      "gas:candidate-vibid:25420001430586": 11,
+      "gas:candidate-vibid:25420001433467": 4,
+      "gas:candidate-vibid:25420001430998": 2,
+      "gas:candidate-vibid:25420001434428": 1,
+      "gas:candidate-vibid:25420001432328": 3,
+      "gas:candidate-vibid:25420001431806": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234767&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234767&type=464",
@@ -3406,15 +3406,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 5,
-      "Вандакуров Александр Александрович": 21,
-      "Голованев Дмитрий Павлович": 43,
-      "Игнатов Виктор Александрович": 99,
-      "Лукашев Дмитрий Александрович": 9,
-      "Попов Дмитрий Александрович": 5,
-      "Холявченко Дмитрий Сергеевич": 4,
-      "Шмендель Ольга Николаевна": 22,
-      "Яковлев Роман Борисович": 28
+      "gas:candidate-vibid:25420001431016": 5,
+      "gas:candidate-vibid:25420001363753": 21,
+      "gas:candidate-vibid:25420001360219": 43,
+      "gas:candidate-vibid:25420001430586": 99,
+      "gas:candidate-vibid:25420001433467": 9,
+      "gas:candidate-vibid:25420001430998": 5,
+      "gas:candidate-vibid:25420001434428": 4,
+      "gas:candidate-vibid:25420001432328": 22,
+      "gas:candidate-vibid:25420001431806": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234767&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234767&type=464",
@@ -3465,15 +3465,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 2,
-      "Вандакуров Александр Александрович": 3,
-      "Голованев Дмитрий Павлович": 9,
-      "Игнатов Виктор Александрович": 52,
-      "Лукашев Дмитрий Александрович": 1,
-      "Попов Дмитрий Александрович": 2,
-      "Холявченко Дмитрий Сергеевич": 0,
-      "Шмендель Ольга Николаевна": 4,
-      "Яковлев Роман Борисович": 3
+      "gas:candidate-vibid:25420001431016": 2,
+      "gas:candidate-vibid:25420001363753": 3,
+      "gas:candidate-vibid:25420001360219": 9,
+      "gas:candidate-vibid:25420001430586": 52,
+      "gas:candidate-vibid:25420001433467": 1,
+      "gas:candidate-vibid:25420001430998": 2,
+      "gas:candidate-vibid:25420001434428": 0,
+      "gas:candidate-vibid:25420001432328": 4,
+      "gas:candidate-vibid:25420001431806": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234767&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234767&type=464",
@@ -3524,15 +3524,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 2,
-      "Вандакуров Александр Александрович": 5,
-      "Голованев Дмитрий Павлович": 35,
-      "Игнатов Виктор Александрович": 102,
-      "Лукашев Дмитрий Александрович": 12,
-      "Попов Дмитрий Александрович": 2,
-      "Холявченко Дмитрий Сергеевич": 2,
-      "Шмендель Ольга Николаевна": 15,
-      "Яковлев Роман Борисович": 32
+      "gas:candidate-vibid:25420001431016": 2,
+      "gas:candidate-vibid:25420001363753": 5,
+      "gas:candidate-vibid:25420001360219": 35,
+      "gas:candidate-vibid:25420001430586": 102,
+      "gas:candidate-vibid:25420001433467": 12,
+      "gas:candidate-vibid:25420001430998": 2,
+      "gas:candidate-vibid:25420001434428": 2,
+      "gas:candidate-vibid:25420001432328": 15,
+      "gas:candidate-vibid:25420001431806": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234767&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234767&type=464",
@@ -3583,15 +3583,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 3,
-      "Вандакуров Александр Александрович": 11,
-      "Голованев Дмитрий Павлович": 37,
-      "Игнатов Виктор Александрович": 99,
-      "Лукашев Дмитрий Александрович": 18,
-      "Попов Дмитрий Александрович": 0,
-      "Холявченко Дмитрий Сергеевич": 1,
-      "Шмендель Ольга Николаевна": 7,
-      "Яковлев Роман Борисович": 25
+      "gas:candidate-vibid:25420001431016": 3,
+      "gas:candidate-vibid:25420001363753": 11,
+      "gas:candidate-vibid:25420001360219": 37,
+      "gas:candidate-vibid:25420001430586": 99,
+      "gas:candidate-vibid:25420001433467": 18,
+      "gas:candidate-vibid:25420001430998": 0,
+      "gas:candidate-vibid:25420001434428": 1,
+      "gas:candidate-vibid:25420001432328": 7,
+      "gas:candidate-vibid:25420001431806": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234767&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234767&type=464",
@@ -3642,15 +3642,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 1,
-      "Вандакуров Александр Александрович": 16,
-      "Голованев Дмитрий Павлович": 30,
-      "Игнатов Виктор Александрович": 93,
-      "Лукашев Дмитрий Александрович": 3,
-      "Попов Дмитрий Александрович": 1,
-      "Холявченко Дмитрий Сергеевич": 2,
-      "Шмендель Ольга Николаевна": 7,
-      "Яковлев Роман Борисович": 22
+      "gas:candidate-vibid:25420001431016": 1,
+      "gas:candidate-vibid:25420001363753": 16,
+      "gas:candidate-vibid:25420001360219": 30,
+      "gas:candidate-vibid:25420001430586": 93,
+      "gas:candidate-vibid:25420001433467": 3,
+      "gas:candidate-vibid:25420001430998": 1,
+      "gas:candidate-vibid:25420001434428": 2,
+      "gas:candidate-vibid:25420001432328": 7,
+      "gas:candidate-vibid:25420001431806": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234767&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234767&type=464",
@@ -3701,15 +3701,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 3,
-      "Вандакуров Александр Александрович": 7,
-      "Голованев Дмитрий Павлович": 17,
-      "Игнатов Виктор Александрович": 48,
-      "Лукашев Дмитрий Александрович": 3,
-      "Попов Дмитрий Александрович": 1,
-      "Холявченко Дмитрий Сергеевич": 1,
-      "Шмендель Ольга Николаевна": 1,
-      "Яковлев Роман Борисович": 6
+      "gas:candidate-vibid:25420001431016": 3,
+      "gas:candidate-vibid:25420001363753": 7,
+      "gas:candidate-vibid:25420001360219": 17,
+      "gas:candidate-vibid:25420001430586": 48,
+      "gas:candidate-vibid:25420001433467": 3,
+      "gas:candidate-vibid:25420001430998": 1,
+      "gas:candidate-vibid:25420001434428": 1,
+      "gas:candidate-vibid:25420001432328": 1,
+      "gas:candidate-vibid:25420001431806": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234767&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234767&type=464",
@@ -3760,15 +3760,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 0,
-      "Вандакуров Александр Александрович": 1,
-      "Голованев Дмитрий Павлович": 7,
-      "Игнатов Виктор Александрович": 12,
-      "Лукашев Дмитрий Александрович": 0,
-      "Попов Дмитрий Александрович": 0,
-      "Холявченко Дмитрий Сергеевич": 0,
-      "Шмендель Ольга Николаевна": 3,
-      "Яковлев Роман Борисович": 2
+      "gas:candidate-vibid:25420001431016": 0,
+      "gas:candidate-vibid:25420001363753": 1,
+      "gas:candidate-vibid:25420001360219": 7,
+      "gas:candidate-vibid:25420001430586": 12,
+      "gas:candidate-vibid:25420001433467": 0,
+      "gas:candidate-vibid:25420001430998": 0,
+      "gas:candidate-vibid:25420001434428": 0,
+      "gas:candidate-vibid:25420001432328": 3,
+      "gas:candidate-vibid:25420001431806": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234767&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234767&type=464",
@@ -3819,15 +3819,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 6,
-      "Вандакуров Александр Александрович": 32,
-      "Голованев Дмитрий Павлович": 230,
-      "Игнатов Виктор Александрович": 384,
-      "Лукашев Дмитрий Александрович": 11,
-      "Попов Дмитрий Александрович": 11,
-      "Холявченко Дмитрий Сергеевич": 4,
-      "Шмендель Ольга Николаевна": 50,
-      "Яковлев Роман Борисович": 121
+      "gas:candidate-vibid:25420001431016": 6,
+      "gas:candidate-vibid:25420001363753": 32,
+      "gas:candidate-vibid:25420001360219": 230,
+      "gas:candidate-vibid:25420001430586": 384,
+      "gas:candidate-vibid:25420001433467": 11,
+      "gas:candidate-vibid:25420001430998": 11,
+      "gas:candidate-vibid:25420001434428": 4,
+      "gas:candidate-vibid:25420001432328": 50,
+      "gas:candidate-vibid:25420001431806": 121
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234768&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234768&type=464",
@@ -3878,15 +3878,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 10,
-      "Вандакуров Александр Александрович": 56,
-      "Голованев Дмитрий Павлович": 236,
-      "Игнатов Виктор Александрович": 526,
-      "Лукашев Дмитрий Александрович": 26,
-      "Попов Дмитрий Александрович": 9,
-      "Холявченко Дмитрий Сергеевич": 11,
-      "Шмендель Ольга Николаевна": 64,
-      "Яковлев Роман Борисович": 175
+      "gas:candidate-vibid:25420001431016": 10,
+      "gas:candidate-vibid:25420001363753": 56,
+      "gas:candidate-vibid:25420001360219": 236,
+      "gas:candidate-vibid:25420001430586": 526,
+      "gas:candidate-vibid:25420001433467": 26,
+      "gas:candidate-vibid:25420001430998": 9,
+      "gas:candidate-vibid:25420001434428": 11,
+      "gas:candidate-vibid:25420001432328": 64,
+      "gas:candidate-vibid:25420001431806": 175
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234768&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234768&type=464",
@@ -3937,15 +3937,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 1,
-      "Вандакуров Александр Александрович": 24,
-      "Голованев Дмитрий Павлович": 39,
-      "Игнатов Виктор Александрович": 79,
-      "Лукашев Дмитрий Александрович": 1,
-      "Попов Дмитрий Александрович": 7,
-      "Холявченко Дмитрий Сергеевич": 0,
-      "Шмендель Ольга Николаевна": 6,
-      "Яковлев Роман Борисович": 17
+      "gas:candidate-vibid:25420001431016": 1,
+      "gas:candidate-vibid:25420001363753": 24,
+      "gas:candidate-vibid:25420001360219": 39,
+      "gas:candidate-vibid:25420001430586": 79,
+      "gas:candidate-vibid:25420001433467": 1,
+      "gas:candidate-vibid:25420001430998": 7,
+      "gas:candidate-vibid:25420001434428": 0,
+      "gas:candidate-vibid:25420001432328": 6,
+      "gas:candidate-vibid:25420001431806": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234768&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234768&type=464",
@@ -3996,15 +3996,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 3,
-      "Вандакуров Александр Александрович": 4,
-      "Голованев Дмитрий Павлович": 17,
-      "Игнатов Виктор Александрович": 29,
-      "Лукашев Дмитрий Александрович": 1,
-      "Попов Дмитрий Александрович": 1,
-      "Холявченко Дмитрий Сергеевич": 0,
-      "Шмендель Ольга Николаевна": 4,
-      "Яковлев Роман Борисович": 3
+      "gas:candidate-vibid:25420001431016": 3,
+      "gas:candidate-vibid:25420001363753": 4,
+      "gas:candidate-vibid:25420001360219": 17,
+      "gas:candidate-vibid:25420001430586": 29,
+      "gas:candidate-vibid:25420001433467": 1,
+      "gas:candidate-vibid:25420001430998": 1,
+      "gas:candidate-vibid:25420001434428": 0,
+      "gas:candidate-vibid:25420001432328": 4,
+      "gas:candidate-vibid:25420001431806": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234768&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234768&type=464",
@@ -4055,15 +4055,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 5,
-      "Вандакуров Александр Александрович": 18,
-      "Голованев Дмитрий Павлович": 97,
-      "Игнатов Виктор Александрович": 174,
-      "Лукашев Дмитрий Александрович": 8,
-      "Попов Дмитрий Александрович": 5,
-      "Холявченко Дмитрий Сергеевич": 2,
-      "Шмендель Ольга Николаевна": 30,
-      "Яковлев Роман Борисович": 49
+      "gas:candidate-vibid:25420001431016": 5,
+      "gas:candidate-vibid:25420001363753": 18,
+      "gas:candidate-vibid:25420001360219": 97,
+      "gas:candidate-vibid:25420001430586": 174,
+      "gas:candidate-vibid:25420001433467": 8,
+      "gas:candidate-vibid:25420001430998": 5,
+      "gas:candidate-vibid:25420001434428": 2,
+      "gas:candidate-vibid:25420001432328": 30,
+      "gas:candidate-vibid:25420001431806": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234768&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234768&type=464",
@@ -4114,15 +4114,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 0,
-      "Вандакуров Александр Александрович": 2,
-      "Голованев Дмитрий Павлович": 15,
-      "Игнатов Виктор Александрович": 40,
-      "Лукашев Дмитрий Александрович": 0,
-      "Попов Дмитрий Александрович": 0,
-      "Холявченко Дмитрий Сергеевич": 0,
-      "Шмендель Ольга Николаевна": 2,
-      "Яковлев Роман Борисович": 1
+      "gas:candidate-vibid:25420001431016": 0,
+      "gas:candidate-vibid:25420001363753": 2,
+      "gas:candidate-vibid:25420001360219": 15,
+      "gas:candidate-vibid:25420001430586": 40,
+      "gas:candidate-vibid:25420001433467": 0,
+      "gas:candidate-vibid:25420001430998": 0,
+      "gas:candidate-vibid:25420001434428": 0,
+      "gas:candidate-vibid:25420001432328": 2,
+      "gas:candidate-vibid:25420001431806": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234768&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234768&type=464",
@@ -4173,15 +4173,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 10,
-      "Вандакуров Александр Александрович": 16,
-      "Голованев Дмитрий Павлович": 37,
-      "Игнатов Виктор Александрович": 238,
-      "Лукашев Дмитрий Александрович": 3,
-      "Попов Дмитрий Александрович": 4,
-      "Холявченко Дмитрий Сергеевич": 4,
-      "Шмендель Ольга Николаевна": 17,
-      "Яковлев Роман Борисович": 38
+      "gas:candidate-vibid:25420001431016": 10,
+      "gas:candidate-vibid:25420001363753": 16,
+      "gas:candidate-vibid:25420001360219": 37,
+      "gas:candidate-vibid:25420001430586": 238,
+      "gas:candidate-vibid:25420001433467": 3,
+      "gas:candidate-vibid:25420001430998": 4,
+      "gas:candidate-vibid:25420001434428": 4,
+      "gas:candidate-vibid:25420001432328": 17,
+      "gas:candidate-vibid:25420001431806": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234768&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234768&type=464",
@@ -4232,15 +4232,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 7,
-      "Вандакуров Александр Александрович": 11,
-      "Голованев Дмитрий Павлович": 56,
-      "Игнатов Виктор Александрович": 159,
-      "Лукашев Дмитрий Александрович": 3,
-      "Попов Дмитрий Александрович": 7,
-      "Холявченко Дмитрий Сергеевич": 4,
-      "Шмендель Ольга Николаевна": 22,
-      "Яковлев Роман Борисович": 37
+      "gas:candidate-vibid:25420001431016": 7,
+      "gas:candidate-vibid:25420001363753": 11,
+      "gas:candidate-vibid:25420001360219": 56,
+      "gas:candidate-vibid:25420001430586": 159,
+      "gas:candidate-vibid:25420001433467": 3,
+      "gas:candidate-vibid:25420001430998": 7,
+      "gas:candidate-vibid:25420001434428": 4,
+      "gas:candidate-vibid:25420001432328": 22,
+      "gas:candidate-vibid:25420001431806": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234768&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234768&type=464",
@@ -4291,15 +4291,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 3,
-      "Вандакуров Александр Александрович": 13,
-      "Голованев Дмитрий Павлович": 94,
-      "Игнатов Виктор Александрович": 198,
-      "Лукашев Дмитрий Александрович": 5,
-      "Попов Дмитрий Александрович": 7,
-      "Холявченко Дмитрий Сергеевич": 4,
-      "Шмендель Ольга Николаевна": 24,
-      "Яковлев Роман Борисович": 49
+      "gas:candidate-vibid:25420001431016": 3,
+      "gas:candidate-vibid:25420001363753": 13,
+      "gas:candidate-vibid:25420001360219": 94,
+      "gas:candidate-vibid:25420001430586": 198,
+      "gas:candidate-vibid:25420001433467": 5,
+      "gas:candidate-vibid:25420001430998": 7,
+      "gas:candidate-vibid:25420001434428": 4,
+      "gas:candidate-vibid:25420001432328": 24,
+      "gas:candidate-vibid:25420001431806": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234768&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234768&type=464",
@@ -4350,15 +4350,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 1,
-      "Вандакуров Александр Александрович": 2,
-      "Голованев Дмитрий Павлович": 17,
-      "Игнатов Виктор Александрович": 28,
-      "Лукашев Дмитрий Александрович": 0,
-      "Попов Дмитрий Александрович": 2,
-      "Холявченко Дмитрий Сергеевич": 0,
-      "Шмендель Ольга Николаевна": 12,
-      "Яковлев Роман Борисович": 8
+      "gas:candidate-vibid:25420001431016": 1,
+      "gas:candidate-vibid:25420001363753": 2,
+      "gas:candidate-vibid:25420001360219": 17,
+      "gas:candidate-vibid:25420001430586": 28,
+      "gas:candidate-vibid:25420001433467": 0,
+      "gas:candidate-vibid:25420001430998": 2,
+      "gas:candidate-vibid:25420001434428": 0,
+      "gas:candidate-vibid:25420001432328": 12,
+      "gas:candidate-vibid:25420001431806": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234768&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234768&type=464",
@@ -4409,15 +4409,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 1,
-      "Вандакуров Александр Александрович": 8,
-      "Голованев Дмитрий Павлович": 52,
-      "Игнатов Виктор Александрович": 74,
-      "Лукашев Дмитрий Александрович": 1,
-      "Попов Дмитрий Александрович": 1,
-      "Холявченко Дмитрий Сергеевич": 4,
-      "Шмендель Ольга Николаевна": 12,
-      "Яковлев Роман Борисович": 18
+      "gas:candidate-vibid:25420001431016": 1,
+      "gas:candidate-vibid:25420001363753": 8,
+      "gas:candidate-vibid:25420001360219": 52,
+      "gas:candidate-vibid:25420001430586": 74,
+      "gas:candidate-vibid:25420001433467": 1,
+      "gas:candidate-vibid:25420001430998": 1,
+      "gas:candidate-vibid:25420001434428": 4,
+      "gas:candidate-vibid:25420001432328": 12,
+      "gas:candidate-vibid:25420001431806": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234768&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234768&type=464",
@@ -4468,15 +4468,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 1,
-      "Вандакуров Александр Александрович": 1,
-      "Голованев Дмитрий Павлович": 16,
-      "Игнатов Виктор Александрович": 27,
-      "Лукашев Дмитрий Александрович": 3,
-      "Попов Дмитрий Александрович": 2,
-      "Холявченко Дмитрий Сергеевич": 1,
-      "Шмендель Ольга Николаевна": 8,
-      "Яковлев Роман Борисович": 9
+      "gas:candidate-vibid:25420001431016": 1,
+      "gas:candidate-vibid:25420001363753": 1,
+      "gas:candidate-vibid:25420001360219": 16,
+      "gas:candidate-vibid:25420001430586": 27,
+      "gas:candidate-vibid:25420001433467": 3,
+      "gas:candidate-vibid:25420001430998": 2,
+      "gas:candidate-vibid:25420001434428": 1,
+      "gas:candidate-vibid:25420001432328": 8,
+      "gas:candidate-vibid:25420001431806": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234768&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234768&type=464",
@@ -4527,15 +4527,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 7,
-      "Вандакуров Александр Александрович": 13,
-      "Голованев Дмитрий Павлович": 57,
-      "Игнатов Виктор Александрович": 213,
-      "Лукашев Дмитрий Александрович": 1,
-      "Попов Дмитрий Александрович": 6,
-      "Холявченко Дмитрий Сергеевич": 2,
-      "Шмендель Ольга Николаевна": 20,
-      "Яковлев Роман Борисович": 28
+      "gas:candidate-vibid:25420001431016": 7,
+      "gas:candidate-vibid:25420001363753": 13,
+      "gas:candidate-vibid:25420001360219": 57,
+      "gas:candidate-vibid:25420001430586": 213,
+      "gas:candidate-vibid:25420001433467": 1,
+      "gas:candidate-vibid:25420001430998": 6,
+      "gas:candidate-vibid:25420001434428": 2,
+      "gas:candidate-vibid:25420001432328": 20,
+      "gas:candidate-vibid:25420001431806": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234768&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234768&type=464",
@@ -4586,15 +4586,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 0,
-      "Вандакуров Александр Александрович": 4,
-      "Голованев Дмитрий Павлович": 58,
-      "Игнатов Виктор Александрович": 47,
-      "Лукашев Дмитрий Александрович": 5,
-      "Попов Дмитрий Александрович": 2,
-      "Холявченко Дмитрий Сергеевич": 0,
-      "Шмендель Ольга Николаевна": 5,
-      "Яковлев Роман Борисович": 11
+      "gas:candidate-vibid:25420001431016": 0,
+      "gas:candidate-vibid:25420001363753": 4,
+      "gas:candidate-vibid:25420001360219": 58,
+      "gas:candidate-vibid:25420001430586": 47,
+      "gas:candidate-vibid:25420001433467": 5,
+      "gas:candidate-vibid:25420001430998": 2,
+      "gas:candidate-vibid:25420001434428": 0,
+      "gas:candidate-vibid:25420001432328": 5,
+      "gas:candidate-vibid:25420001431806": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234768&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234768&type=464",
@@ -4645,15 +4645,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 4,
-      "Вандакуров Александр Александрович": 1,
-      "Голованев Дмитрий Павлович": 59,
-      "Игнатов Виктор Александрович": 140,
-      "Лукашев Дмитрий Александрович": 4,
-      "Попов Дмитрий Александрович": 2,
-      "Холявченко Дмитрий Сергеевич": 3,
-      "Шмендель Ольга Николаевна": 15,
-      "Яковлев Роман Борисович": 30
+      "gas:candidate-vibid:25420001431016": 4,
+      "gas:candidate-vibid:25420001363753": 1,
+      "gas:candidate-vibid:25420001360219": 59,
+      "gas:candidate-vibid:25420001430586": 140,
+      "gas:candidate-vibid:25420001433467": 4,
+      "gas:candidate-vibid:25420001430998": 2,
+      "gas:candidate-vibid:25420001434428": 3,
+      "gas:candidate-vibid:25420001432328": 15,
+      "gas:candidate-vibid:25420001431806": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234768&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234768&type=464",
@@ -4704,15 +4704,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 1,
-      "Вандакуров Александр Александрович": 0,
-      "Голованев Дмитрий Павлович": 11,
-      "Игнатов Виктор Александрович": 17,
-      "Лукашев Дмитрий Александрович": 1,
-      "Попов Дмитрий Александрович": 1,
-      "Холявченко Дмитрий Сергеевич": 0,
-      "Шмендель Ольга Николаевна": 0,
-      "Яковлев Роман Борисович": 3
+      "gas:candidate-vibid:25420001431016": 1,
+      "gas:candidate-vibid:25420001363753": 0,
+      "gas:candidate-vibid:25420001360219": 11,
+      "gas:candidate-vibid:25420001430586": 17,
+      "gas:candidate-vibid:25420001433467": 1,
+      "gas:candidate-vibid:25420001430998": 1,
+      "gas:candidate-vibid:25420001434428": 0,
+      "gas:candidate-vibid:25420001432328": 0,
+      "gas:candidate-vibid:25420001431806": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234768&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234768&type=464",
@@ -4763,15 +4763,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 7,
-      "Вандакуров Александр Александрович": 4,
-      "Голованев Дмитрий Павлович": 48,
-      "Игнатов Виктор Александрович": 78,
-      "Лукашев Дмитрий Александрович": 6,
-      "Попов Дмитрий Александрович": 6,
-      "Холявченко Дмитрий Сергеевич": 5,
-      "Шмендель Ольга Николаевна": 13,
-      "Яковлев Роман Борисович": 17
+      "gas:candidate-vibid:25420001431016": 7,
+      "gas:candidate-vibid:25420001363753": 4,
+      "gas:candidate-vibid:25420001360219": 48,
+      "gas:candidate-vibid:25420001430586": 78,
+      "gas:candidate-vibid:25420001433467": 6,
+      "gas:candidate-vibid:25420001430998": 6,
+      "gas:candidate-vibid:25420001434428": 5,
+      "gas:candidate-vibid:25420001432328": 13,
+      "gas:candidate-vibid:25420001431806": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234768&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234768&type=464",
@@ -4822,15 +4822,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 2,
-      "Вандакуров Александр Александрович": 5,
-      "Голованев Дмитрий Павлович": 40,
-      "Игнатов Виктор Александрович": 68,
-      "Лукашев Дмитрий Александрович": 1,
-      "Попов Дмитрий Александрович": 3,
-      "Холявченко Дмитрий Сергеевич": 1,
-      "Шмендель Ольга Николаевна": 7,
-      "Яковлев Роман Борисович": 12
+      "gas:candidate-vibid:25420001431016": 2,
+      "gas:candidate-vibid:25420001363753": 5,
+      "gas:candidate-vibid:25420001360219": 40,
+      "gas:candidate-vibid:25420001430586": 68,
+      "gas:candidate-vibid:25420001433467": 1,
+      "gas:candidate-vibid:25420001430998": 3,
+      "gas:candidate-vibid:25420001434428": 1,
+      "gas:candidate-vibid:25420001432328": 7,
+      "gas:candidate-vibid:25420001431806": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234768&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234768&type=464",
@@ -4881,15 +4881,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 0,
-      "Вандакуров Александр Александрович": 0,
-      "Голованев Дмитрий Павлович": 2,
-      "Игнатов Виктор Александрович": 32,
-      "Лукашев Дмитрий Александрович": 0,
-      "Попов Дмитрий Александрович": 0,
-      "Холявченко Дмитрий Сергеевич": 1,
-      "Шмендель Ольга Николаевна": 0,
-      "Яковлев Роман Борисович": 2
+      "gas:candidate-vibid:25420001431016": 0,
+      "gas:candidate-vibid:25420001363753": 0,
+      "gas:candidate-vibid:25420001360219": 2,
+      "gas:candidate-vibid:25420001430586": 32,
+      "gas:candidate-vibid:25420001433467": 0,
+      "gas:candidate-vibid:25420001430998": 0,
+      "gas:candidate-vibid:25420001434428": 1,
+      "gas:candidate-vibid:25420001432328": 0,
+      "gas:candidate-vibid:25420001431806": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234768&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234768&type=464",
@@ -4940,15 +4940,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 0,
-      "Вандакуров Александр Александрович": 2,
-      "Голованев Дмитрий Павлович": 24,
-      "Игнатов Виктор Александрович": 34,
-      "Лукашев Дмитрий Александрович": 0,
-      "Попов Дмитрий Александрович": 1,
-      "Холявченко Дмитрий Сергеевич": 0,
-      "Шмендель Ольга Николаевна": 1,
-      "Яковлев Роман Борисович": 13
+      "gas:candidate-vibid:25420001431016": 0,
+      "gas:candidate-vibid:25420001363753": 2,
+      "gas:candidate-vibid:25420001360219": 24,
+      "gas:candidate-vibid:25420001430586": 34,
+      "gas:candidate-vibid:25420001433467": 0,
+      "gas:candidate-vibid:25420001430998": 1,
+      "gas:candidate-vibid:25420001434428": 0,
+      "gas:candidate-vibid:25420001432328": 1,
+      "gas:candidate-vibid:25420001431806": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234768&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234768&type=464",
@@ -4999,15 +4999,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 1,
-      "Вандакуров Александр Александрович": 2,
-      "Голованев Дмитрий Павлович": 27,
-      "Игнатов Виктор Александрович": 77,
-      "Лукашев Дмитрий Александрович": 1,
-      "Попов Дмитрий Александрович": 1,
-      "Холявченко Дмитрий Сергеевич": 0,
-      "Шмендель Ольга Николаевна": 6,
-      "Яковлев Роман Борисович": 19
+      "gas:candidate-vibid:25420001431016": 1,
+      "gas:candidate-vibid:25420001363753": 2,
+      "gas:candidate-vibid:25420001360219": 27,
+      "gas:candidate-vibid:25420001430586": 77,
+      "gas:candidate-vibid:25420001433467": 1,
+      "gas:candidate-vibid:25420001430998": 1,
+      "gas:candidate-vibid:25420001434428": 0,
+      "gas:candidate-vibid:25420001432328": 6,
+      "gas:candidate-vibid:25420001431806": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234768&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234768&type=464",
@@ -5058,15 +5058,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 1,
-      "Вандакуров Александр Александрович": 2,
-      "Голованев Дмитрий Павлович": 20,
-      "Игнатов Виктор Александрович": 20,
-      "Лукашев Дмитрий Александрович": 1,
-      "Попов Дмитрий Александрович": 1,
-      "Холявченко Дмитрий Сергеевич": 1,
-      "Шмендель Ольга Николаевна": 6,
-      "Яковлев Роман Борисович": 12
+      "gas:candidate-vibid:25420001431016": 1,
+      "gas:candidate-vibid:25420001363753": 2,
+      "gas:candidate-vibid:25420001360219": 20,
+      "gas:candidate-vibid:25420001430586": 20,
+      "gas:candidate-vibid:25420001433467": 1,
+      "gas:candidate-vibid:25420001430998": 1,
+      "gas:candidate-vibid:25420001434428": 1,
+      "gas:candidate-vibid:25420001432328": 6,
+      "gas:candidate-vibid:25420001431806": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234768&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234768&type=464",
@@ -5117,15 +5117,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 1,
-      "Вандакуров Александр Александрович": 24,
-      "Голованев Дмитрий Павлович": 77,
-      "Игнатов Виктор Александрович": 130,
-      "Лукашев Дмитрий Александрович": 6,
-      "Попов Дмитрий Александрович": 3,
-      "Холявченко Дмитрий Сергеевич": 1,
-      "Шмендель Ольга Николаевна": 21,
-      "Яковлев Роман Борисович": 38
+      "gas:candidate-vibid:25420001431016": 1,
+      "gas:candidate-vibid:25420001363753": 24,
+      "gas:candidate-vibid:25420001360219": 77,
+      "gas:candidate-vibid:25420001430586": 130,
+      "gas:candidate-vibid:25420001433467": 6,
+      "gas:candidate-vibid:25420001430998": 3,
+      "gas:candidate-vibid:25420001434428": 1,
+      "gas:candidate-vibid:25420001432328": 21,
+      "gas:candidate-vibid:25420001431806": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234768&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234768&type=464",
@@ -5176,15 +5176,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 0,
-      "Вандакуров Александр Александрович": 5,
-      "Голованев Дмитрий Павлович": 8,
-      "Игнатов Виктор Александрович": 13,
-      "Лукашев Дмитрий Александрович": 0,
-      "Попов Дмитрий Александрович": 0,
-      "Холявченко Дмитрий Сергеевич": 0,
-      "Шмендель Ольга Николаевна": 1,
-      "Яковлев Роман Борисович": 0
+      "gas:candidate-vibid:25420001431016": 0,
+      "gas:candidate-vibid:25420001363753": 5,
+      "gas:candidate-vibid:25420001360219": 8,
+      "gas:candidate-vibid:25420001430586": 13,
+      "gas:candidate-vibid:25420001433467": 0,
+      "gas:candidate-vibid:25420001430998": 0,
+      "gas:candidate-vibid:25420001434428": 0,
+      "gas:candidate-vibid:25420001432328": 1,
+      "gas:candidate-vibid:25420001431806": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234768&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234768&type=464",
@@ -5235,15 +5235,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 3,
-      "Вандакуров Александр Александрович": 8,
-      "Голованев Дмитрий Павлович": 85,
-      "Игнатов Виктор Александрович": 152,
-      "Лукашев Дмитрий Александрович": 1,
-      "Попов Дмитрий Александрович": 0,
-      "Холявченко Дмитрий Сергеевич": 1,
-      "Шмендель Ольга Николаевна": 15,
-      "Яковлев Роман Борисович": 22
+      "gas:candidate-vibid:25420001431016": 3,
+      "gas:candidate-vibid:25420001363753": 8,
+      "gas:candidate-vibid:25420001360219": 85,
+      "gas:candidate-vibid:25420001430586": 152,
+      "gas:candidate-vibid:25420001433467": 1,
+      "gas:candidate-vibid:25420001430998": 0,
+      "gas:candidate-vibid:25420001434428": 1,
+      "gas:candidate-vibid:25420001432328": 15,
+      "gas:candidate-vibid:25420001431806": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234768&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234768&type=464",
@@ -5294,15 +5294,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 1,
-      "Вандакуров Александр Александрович": 4,
-      "Голованев Дмитрий Павлович": 22,
-      "Игнатов Виктор Александрович": 54,
-      "Лукашев Дмитрий Александрович": 2,
-      "Попов Дмитрий Александрович": 1,
-      "Холявченко Дмитрий Сергеевич": 0,
-      "Шмендель Ольга Николаевна": 2,
-      "Яковлев Роман Борисович": 10
+      "gas:candidate-vibid:25420001431016": 1,
+      "gas:candidate-vibid:25420001363753": 4,
+      "gas:candidate-vibid:25420001360219": 22,
+      "gas:candidate-vibid:25420001430586": 54,
+      "gas:candidate-vibid:25420001433467": 2,
+      "gas:candidate-vibid:25420001430998": 1,
+      "gas:candidate-vibid:25420001434428": 0,
+      "gas:candidate-vibid:25420001432328": 2,
+      "gas:candidate-vibid:25420001431806": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234768&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234768&type=464",
@@ -5353,15 +5353,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 0,
-      "Вандакуров Александр Александрович": 1,
-      "Голованев Дмитрий Павлович": 11,
-      "Игнатов Виктор Александрович": 25,
-      "Лукашев Дмитрий Александрович": 1,
-      "Попов Дмитрий Александрович": 0,
-      "Холявченко Дмитрий Сергеевич": 0,
-      "Шмендель Ольга Николаевна": 2,
-      "Яковлев Роман Борисович": 2
+      "gas:candidate-vibid:25420001431016": 0,
+      "gas:candidate-vibid:25420001363753": 1,
+      "gas:candidate-vibid:25420001360219": 11,
+      "gas:candidate-vibid:25420001430586": 25,
+      "gas:candidate-vibid:25420001433467": 1,
+      "gas:candidate-vibid:25420001430998": 0,
+      "gas:candidate-vibid:25420001434428": 0,
+      "gas:candidate-vibid:25420001432328": 2,
+      "gas:candidate-vibid:25420001431806": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234768&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234768&type=464",
@@ -5412,15 +5412,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 5,
-      "Вандакуров Александр Александрович": 11,
-      "Голованев Дмитрий Павлович": 84,
-      "Игнатов Виктор Александрович": 254,
-      "Лукашев Дмитрий Александрович": 9,
-      "Попов Дмитрий Александрович": 3,
-      "Холявченко Дмитрий Сергеевич": 2,
-      "Шмендель Ольга Николаевна": 10,
-      "Яковлев Роман Борисович": 21
+      "gas:candidate-vibid:25420001431016": 5,
+      "gas:candidate-vibid:25420001363753": 11,
+      "gas:candidate-vibid:25420001360219": 84,
+      "gas:candidate-vibid:25420001430586": 254,
+      "gas:candidate-vibid:25420001433467": 9,
+      "gas:candidate-vibid:25420001430998": 3,
+      "gas:candidate-vibid:25420001434428": 2,
+      "gas:candidate-vibid:25420001432328": 10,
+      "gas:candidate-vibid:25420001431806": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234768&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234768&type=464",
@@ -5471,15 +5471,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 1,
-      "Вандакуров Александр Александрович": 1,
-      "Голованев Дмитрий Павлович": 6,
-      "Игнатов Виктор Александрович": 25,
-      "Лукашев Дмитрий Александрович": 3,
-      "Попов Дмитрий Александрович": 0,
-      "Холявченко Дмитрий Сергеевич": 0,
-      "Шмендель Ольга Николаевна": 2,
-      "Яковлев Роман Борисович": 5
+      "gas:candidate-vibid:25420001431016": 1,
+      "gas:candidate-vibid:25420001363753": 1,
+      "gas:candidate-vibid:25420001360219": 6,
+      "gas:candidate-vibid:25420001430586": 25,
+      "gas:candidate-vibid:25420001433467": 3,
+      "gas:candidate-vibid:25420001430998": 0,
+      "gas:candidate-vibid:25420001434428": 0,
+      "gas:candidate-vibid:25420001432328": 2,
+      "gas:candidate-vibid:25420001431806": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234768&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234768&type=464",
@@ -5530,15 +5530,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 5,
-      "Вандакуров Александр Александрович": 28,
-      "Голованев Дмитрий Павлович": 121,
-      "Игнатов Виктор Александрович": 337,
-      "Лукашев Дмитрий Александрович": 18,
-      "Попов Дмитрий Александрович": 8,
-      "Холявченко Дмитрий Сергеевич": 9,
-      "Шмендель Ольга Николаевна": 48,
-      "Яковлев Роман Борисович": 107
+      "gas:candidate-vibid:25420001431016": 5,
+      "gas:candidate-vibid:25420001363753": 28,
+      "gas:candidate-vibid:25420001360219": 121,
+      "gas:candidate-vibid:25420001430586": 337,
+      "gas:candidate-vibid:25420001433467": 18,
+      "gas:candidate-vibid:25420001430998": 8,
+      "gas:candidate-vibid:25420001434428": 9,
+      "gas:candidate-vibid:25420001432328": 48,
+      "gas:candidate-vibid:25420001431806": 107
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234769&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234769&type=464",
@@ -5589,15 +5589,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 8,
-      "Вандакуров Александр Александрович": 11,
-      "Голованев Дмитрий Павлович": 47,
-      "Игнатов Виктор Александрович": 138,
-      "Лукашев Дмитрий Александрович": 7,
-      "Попов Дмитрий Александрович": 6,
-      "Холявченко Дмитрий Сергеевич": 1,
-      "Шмендель Ольга Николаевна": 23,
-      "Яковлев Роман Борисович": 40
+      "gas:candidate-vibid:25420001431016": 8,
+      "gas:candidate-vibid:25420001363753": 11,
+      "gas:candidate-vibid:25420001360219": 47,
+      "gas:candidate-vibid:25420001430586": 138,
+      "gas:candidate-vibid:25420001433467": 7,
+      "gas:candidate-vibid:25420001430998": 6,
+      "gas:candidate-vibid:25420001434428": 1,
+      "gas:candidate-vibid:25420001432328": 23,
+      "gas:candidate-vibid:25420001431806": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234769&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234769&type=464",
@@ -5648,15 +5648,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 5,
-      "Вандакуров Александр Александрович": 18,
-      "Голованев Дмитрий Павлович": 136,
-      "Игнатов Виктор Александрович": 290,
-      "Лукашев Дмитрий Александрович": 12,
-      "Попов Дмитрий Александрович": 4,
-      "Холявченко Дмитрий Сергеевич": 7,
-      "Шмендель Ольга Николаевна": 24,
-      "Яковлев Роман Борисович": 71
+      "gas:candidate-vibid:25420001431016": 5,
+      "gas:candidate-vibid:25420001363753": 18,
+      "gas:candidate-vibid:25420001360219": 136,
+      "gas:candidate-vibid:25420001430586": 290,
+      "gas:candidate-vibid:25420001433467": 12,
+      "gas:candidate-vibid:25420001430998": 4,
+      "gas:candidate-vibid:25420001434428": 7,
+      "gas:candidate-vibid:25420001432328": 24,
+      "gas:candidate-vibid:25420001431806": 71
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234769&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234769&type=464",
@@ -5707,15 +5707,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 6,
-      "Вандакуров Александр Александрович": 7,
-      "Голованев Дмитрий Павлович": 68,
-      "Игнатов Виктор Александрович": 127,
-      "Лукашев Дмитрий Александрович": 8,
-      "Попов Дмитрий Александрович": 5,
-      "Холявченко Дмитрий Сергеевич": 2,
-      "Шмендель Ольга Николаевна": 13,
-      "Яковлев Роман Борисович": 33
+      "gas:candidate-vibid:25420001431016": 6,
+      "gas:candidate-vibid:25420001363753": 7,
+      "gas:candidate-vibid:25420001360219": 68,
+      "gas:candidate-vibid:25420001430586": 127,
+      "gas:candidate-vibid:25420001433467": 8,
+      "gas:candidate-vibid:25420001430998": 5,
+      "gas:candidate-vibid:25420001434428": 2,
+      "gas:candidate-vibid:25420001432328": 13,
+      "gas:candidate-vibid:25420001431806": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234769&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234769&type=464",
@@ -5766,15 +5766,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 7,
-      "Вандакуров Александр Александрович": 10,
-      "Голованев Дмитрий Павлович": 45,
-      "Игнатов Виктор Александрович": 125,
-      "Лукашев Дмитрий Александрович": 5,
-      "Попов Дмитрий Александрович": 3,
-      "Холявченко Дмитрий Сергеевич": 2,
-      "Шмендель Ольга Николаевна": 21,
-      "Яковлев Роман Борисович": 41
+      "gas:candidate-vibid:25420001431016": 7,
+      "gas:candidate-vibid:25420001363753": 10,
+      "gas:candidate-vibid:25420001360219": 45,
+      "gas:candidate-vibid:25420001430586": 125,
+      "gas:candidate-vibid:25420001433467": 5,
+      "gas:candidate-vibid:25420001430998": 3,
+      "gas:candidate-vibid:25420001434428": 2,
+      "gas:candidate-vibid:25420001432328": 21,
+      "gas:candidate-vibid:25420001431806": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234769&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234769&type=464",
@@ -5825,15 +5825,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 10,
-      "Вандакуров Александр Александрович": 24,
-      "Голованев Дмитрий Павлович": 79,
-      "Игнатов Виктор Александрович": 266,
-      "Лукашев Дмитрий Александрович": 14,
-      "Попов Дмитрий Александрович": 9,
-      "Холявченко Дмитрий Сергеевич": 3,
-      "Шмендель Ольга Николаевна": 33,
-      "Яковлев Роман Борисович": 53
+      "gas:candidate-vibid:25420001431016": 10,
+      "gas:candidate-vibid:25420001363753": 24,
+      "gas:candidate-vibid:25420001360219": 79,
+      "gas:candidate-vibid:25420001430586": 266,
+      "gas:candidate-vibid:25420001433467": 14,
+      "gas:candidate-vibid:25420001430998": 9,
+      "gas:candidate-vibid:25420001434428": 3,
+      "gas:candidate-vibid:25420001432328": 33,
+      "gas:candidate-vibid:25420001431806": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234769&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234769&type=464",
@@ -5884,15 +5884,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 7,
-      "Вандакуров Александр Александрович": 10,
-      "Голованев Дмитрий Павлович": 73,
-      "Игнатов Виктор Александрович": 189,
-      "Лукашев Дмитрий Александрович": 5,
-      "Попов Дмитрий Александрович": 5,
-      "Холявченко Дмитрий Сергеевич": 5,
-      "Шмендель Ольга Николаевна": 16,
-      "Яковлев Роман Борисович": 61
+      "gas:candidate-vibid:25420001431016": 7,
+      "gas:candidate-vibid:25420001363753": 10,
+      "gas:candidate-vibid:25420001360219": 73,
+      "gas:candidate-vibid:25420001430586": 189,
+      "gas:candidate-vibid:25420001433467": 5,
+      "gas:candidate-vibid:25420001430998": 5,
+      "gas:candidate-vibid:25420001434428": 5,
+      "gas:candidate-vibid:25420001432328": 16,
+      "gas:candidate-vibid:25420001431806": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234769&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234769&type=464",
@@ -5943,15 +5943,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 1,
-      "Вандакуров Александр Александрович": 4,
-      "Голованев Дмитрий Павлович": 35,
-      "Игнатов Виктор Александрович": 56,
-      "Лукашев Дмитрий Александрович": 2,
-      "Попов Дмитрий Александрович": 0,
-      "Холявченко Дмитрий Сергеевич": 1,
-      "Шмендель Ольга Николаевна": 7,
-      "Яковлев Роман Борисович": 4
+      "gas:candidate-vibid:25420001431016": 1,
+      "gas:candidate-vibid:25420001363753": 4,
+      "gas:candidate-vibid:25420001360219": 35,
+      "gas:candidate-vibid:25420001430586": 56,
+      "gas:candidate-vibid:25420001433467": 2,
+      "gas:candidate-vibid:25420001430998": 0,
+      "gas:candidate-vibid:25420001434428": 1,
+      "gas:candidate-vibid:25420001432328": 7,
+      "gas:candidate-vibid:25420001431806": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234769&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234769&type=464",
@@ -6002,15 +6002,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 1,
-      "Вандакуров Александр Александрович": 4,
-      "Голованев Дмитрий Павлович": 6,
-      "Игнатов Виктор Александрович": 21,
-      "Лукашев Дмитрий Александрович": 1,
-      "Попов Дмитрий Александрович": 0,
-      "Холявченко Дмитрий Сергеевич": 1,
-      "Шмендель Ольга Николаевна": 2,
-      "Яковлев Роман Борисович": 1
+      "gas:candidate-vibid:25420001431016": 1,
+      "gas:candidate-vibid:25420001363753": 4,
+      "gas:candidate-vibid:25420001360219": 6,
+      "gas:candidate-vibid:25420001430586": 21,
+      "gas:candidate-vibid:25420001433467": 1,
+      "gas:candidate-vibid:25420001430998": 0,
+      "gas:candidate-vibid:25420001434428": 1,
+      "gas:candidate-vibid:25420001432328": 2,
+      "gas:candidate-vibid:25420001431806": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234769&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234769&type=464",
@@ -6061,15 +6061,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 5,
-      "Вандакуров Александр Александрович": 2,
-      "Голованев Дмитрий Павлович": 6,
-      "Игнатов Виктор Александрович": 45,
-      "Лукашев Дмитрий Александрович": 4,
-      "Попов Дмитрий Александрович": 0,
-      "Холявченко Дмитрий Сергеевич": 1,
-      "Шмендель Ольга Николаевна": 6,
-      "Яковлев Роман Борисович": 6
+      "gas:candidate-vibid:25420001431016": 5,
+      "gas:candidate-vibid:25420001363753": 2,
+      "gas:candidate-vibid:25420001360219": 6,
+      "gas:candidate-vibid:25420001430586": 45,
+      "gas:candidate-vibid:25420001433467": 4,
+      "gas:candidate-vibid:25420001430998": 0,
+      "gas:candidate-vibid:25420001434428": 1,
+      "gas:candidate-vibid:25420001432328": 6,
+      "gas:candidate-vibid:25420001431806": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234769&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234769&type=464",
@@ -6120,15 +6120,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 0,
-      "Вандакуров Александр Александрович": 2,
-      "Голованев Дмитрий Павлович": 9,
-      "Игнатов Виктор Александрович": 32,
-      "Лукашев Дмитрий Александрович": 1,
-      "Попов Дмитрий Александрович": 1,
-      "Холявченко Дмитрий Сергеевич": 0,
-      "Шмендель Ольга Николаевна": 2,
-      "Яковлев Роман Борисович": 5
+      "gas:candidate-vibid:25420001431016": 0,
+      "gas:candidate-vibid:25420001363753": 2,
+      "gas:candidate-vibid:25420001360219": 9,
+      "gas:candidate-vibid:25420001430586": 32,
+      "gas:candidate-vibid:25420001433467": 1,
+      "gas:candidate-vibid:25420001430998": 1,
+      "gas:candidate-vibid:25420001434428": 0,
+      "gas:candidate-vibid:25420001432328": 2,
+      "gas:candidate-vibid:25420001431806": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234769&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234769&type=464",
@@ -6179,15 +6179,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 1,
-      "Вандакуров Александр Александрович": 1,
-      "Голованев Дмитрий Павлович": 6,
-      "Игнатов Виктор Александрович": 21,
-      "Лукашев Дмитрий Александрович": 0,
-      "Попов Дмитрий Александрович": 1,
-      "Холявченко Дмитрий Сергеевич": 0,
-      "Шмендель Ольга Николаевна": 0,
-      "Яковлев Роман Борисович": 0
+      "gas:candidate-vibid:25420001431016": 1,
+      "gas:candidate-vibid:25420001363753": 1,
+      "gas:candidate-vibid:25420001360219": 6,
+      "gas:candidate-vibid:25420001430586": 21,
+      "gas:candidate-vibid:25420001433467": 0,
+      "gas:candidate-vibid:25420001430998": 1,
+      "gas:candidate-vibid:25420001434428": 0,
+      "gas:candidate-vibid:25420001432328": 0,
+      "gas:candidate-vibid:25420001431806": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234769&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234769&type=464",
@@ -6238,15 +6238,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 4,
-      "Вандакуров Александр Александрович": 3,
-      "Голованев Дмитрий Павлович": 14,
-      "Игнатов Виктор Александрович": 22,
-      "Лукашев Дмитрий Александрович": 0,
-      "Попов Дмитрий Александрович": 3,
-      "Холявченко Дмитрий Сергеевич": 1,
-      "Шмендель Ольга Николаевна": 7,
-      "Яковлев Роман Борисович": 4
+      "gas:candidate-vibid:25420001431016": 4,
+      "gas:candidate-vibid:25420001363753": 3,
+      "gas:candidate-vibid:25420001360219": 14,
+      "gas:candidate-vibid:25420001430586": 22,
+      "gas:candidate-vibid:25420001433467": 0,
+      "gas:candidate-vibid:25420001430998": 3,
+      "gas:candidate-vibid:25420001434428": 1,
+      "gas:candidate-vibid:25420001432328": 7,
+      "gas:candidate-vibid:25420001431806": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234769&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234769&type=464",
@@ -6297,15 +6297,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 4,
-      "Вандакуров Александр Александрович": 8,
-      "Голованев Дмитрий Павлович": 21,
-      "Игнатов Виктор Александрович": 51,
-      "Лукашев Дмитрий Александрович": 4,
-      "Попов Дмитрий Александрович": 3,
-      "Холявченко Дмитрий Сергеевич": 0,
-      "Шмендель Ольга Николаевна": 18,
-      "Яковлев Роман Борисович": 15
+      "gas:candidate-vibid:25420001431016": 4,
+      "gas:candidate-vibid:25420001363753": 8,
+      "gas:candidate-vibid:25420001360219": 21,
+      "gas:candidate-vibid:25420001430586": 51,
+      "gas:candidate-vibid:25420001433467": 4,
+      "gas:candidate-vibid:25420001430998": 3,
+      "gas:candidate-vibid:25420001434428": 0,
+      "gas:candidate-vibid:25420001432328": 18,
+      "gas:candidate-vibid:25420001431806": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234769&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234769&type=464",
@@ -6356,15 +6356,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 1,
-      "Вандакуров Александр Александрович": 2,
-      "Голованев Дмитрий Павлович": 4,
-      "Игнатов Виктор Александрович": 3,
-      "Лукашев Дмитрий Александрович": 1,
-      "Попов Дмитрий Александрович": 1,
-      "Холявченко Дмитрий Сергеевич": 1,
-      "Шмендель Ольга Николаевна": 6,
-      "Яковлев Роман Борисович": 5
+      "gas:candidate-vibid:25420001431016": 1,
+      "gas:candidate-vibid:25420001363753": 2,
+      "gas:candidate-vibid:25420001360219": 4,
+      "gas:candidate-vibid:25420001430586": 3,
+      "gas:candidate-vibid:25420001433467": 1,
+      "gas:candidate-vibid:25420001430998": 1,
+      "gas:candidate-vibid:25420001434428": 1,
+      "gas:candidate-vibid:25420001432328": 6,
+      "gas:candidate-vibid:25420001431806": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234769&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234769&type=464",
@@ -6415,15 +6415,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 0,
-      "Вандакуров Александр Александрович": 2,
-      "Голованев Дмитрий Павлович": 13,
-      "Игнатов Виктор Александрович": 14,
-      "Лукашев Дмитрий Александрович": 1,
-      "Попов Дмитрий Александрович": 1,
-      "Холявченко Дмитрий Сергеевич": 1,
-      "Шмендель Ольга Николаевна": 4,
-      "Яковлев Роман Борисович": 6
+      "gas:candidate-vibid:25420001431016": 0,
+      "gas:candidate-vibid:25420001363753": 2,
+      "gas:candidate-vibid:25420001360219": 13,
+      "gas:candidate-vibid:25420001430586": 14,
+      "gas:candidate-vibid:25420001433467": 1,
+      "gas:candidate-vibid:25420001430998": 1,
+      "gas:candidate-vibid:25420001434428": 1,
+      "gas:candidate-vibid:25420001432328": 4,
+      "gas:candidate-vibid:25420001431806": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234769&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234769&type=464",
@@ -6474,15 +6474,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 5,
-      "Вандакуров Александр Александрович": 8,
-      "Голованев Дмитрий Павлович": 20,
-      "Игнатов Виктор Александрович": 94,
-      "Лукашев Дмитрий Александрович": 2,
-      "Попов Дмитрий Александрович": 5,
-      "Холявченко Дмитрий Сергеевич": 2,
-      "Шмендель Ольга Николаевна": 9,
-      "Яковлев Роман Борисович": 29
+      "gas:candidate-vibid:25420001431016": 5,
+      "gas:candidate-vibid:25420001363753": 8,
+      "gas:candidate-vibid:25420001360219": 20,
+      "gas:candidate-vibid:25420001430586": 94,
+      "gas:candidate-vibid:25420001433467": 2,
+      "gas:candidate-vibid:25420001430998": 5,
+      "gas:candidate-vibid:25420001434428": 2,
+      "gas:candidate-vibid:25420001432328": 9,
+      "gas:candidate-vibid:25420001431806": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234769&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234769&type=464",
@@ -6533,15 +6533,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 3,
-      "Вандакуров Александр Александрович": 9,
-      "Голованев Дмитрий Павлович": 26,
-      "Игнатов Виктор Александрович": 108,
-      "Лукашев Дмитрий Александрович": 7,
-      "Попов Дмитрий Александрович": 4,
-      "Холявченко Дмитрий Сергеевич": 1,
-      "Шмендель Ольга Николаевна": 7,
-      "Яковлев Роман Борисович": 11
+      "gas:candidate-vibid:25420001431016": 3,
+      "gas:candidate-vibid:25420001363753": 9,
+      "gas:candidate-vibid:25420001360219": 26,
+      "gas:candidate-vibid:25420001430586": 108,
+      "gas:candidate-vibid:25420001433467": 7,
+      "gas:candidate-vibid:25420001430998": 4,
+      "gas:candidate-vibid:25420001434428": 1,
+      "gas:candidate-vibid:25420001432328": 7,
+      "gas:candidate-vibid:25420001431806": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234769&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234769&type=464",
@@ -6592,15 +6592,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 1,
-      "Вандакуров Александр Александрович": 2,
-      "Голованев Дмитрий Павлович": 1,
-      "Игнатов Виктор Александрович": 31,
-      "Лукашев Дмитрий Александрович": 2,
-      "Попов Дмитрий Александрович": 4,
-      "Холявченко Дмитрий Сергеевич": 0,
-      "Шмендель Ольга Николаевна": 1,
-      "Яковлев Роман Борисович": 2
+      "gas:candidate-vibid:25420001431016": 1,
+      "gas:candidate-vibid:25420001363753": 2,
+      "gas:candidate-vibid:25420001360219": 1,
+      "gas:candidate-vibid:25420001430586": 31,
+      "gas:candidate-vibid:25420001433467": 2,
+      "gas:candidate-vibid:25420001430998": 4,
+      "gas:candidate-vibid:25420001434428": 0,
+      "gas:candidate-vibid:25420001432328": 1,
+      "gas:candidate-vibid:25420001431806": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234769&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234769&type=464",
@@ -6651,15 +6651,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 3,
-      "Вандакуров Александр Александрович": 0,
-      "Голованев Дмитрий Павлович": 21,
-      "Игнатов Виктор Александрович": 74,
-      "Лукашев Дмитрий Александрович": 5,
-      "Попов Дмитрий Александрович": 3,
-      "Холявченко Дмитрий Сергеевич": 2,
-      "Шмендель Ольга Николаевна": 16,
-      "Яковлев Роман Борисович": 51
+      "gas:candidate-vibid:25420001431016": 3,
+      "gas:candidate-vibid:25420001363753": 0,
+      "gas:candidate-vibid:25420001360219": 21,
+      "gas:candidate-vibid:25420001430586": 74,
+      "gas:candidate-vibid:25420001433467": 5,
+      "gas:candidate-vibid:25420001430998": 3,
+      "gas:candidate-vibid:25420001434428": 2,
+      "gas:candidate-vibid:25420001432328": 16,
+      "gas:candidate-vibid:25420001431806": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234769&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234769&type=464",
@@ -6710,15 +6710,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 3,
-      "Вандакуров Александр Александрович": 0,
-      "Голованев Дмитрий Павлович": 4,
-      "Игнатов Виктор Александрович": 33,
-      "Лукашев Дмитрий Александрович": 5,
-      "Попов Дмитрий Александрович": 1,
-      "Холявченко Дмитрий Сергеевич": 2,
-      "Шмендель Ольга Николаевна": 3,
-      "Яковлев Роман Борисович": 2
+      "gas:candidate-vibid:25420001431016": 3,
+      "gas:candidate-vibid:25420001363753": 0,
+      "gas:candidate-vibid:25420001360219": 4,
+      "gas:candidate-vibid:25420001430586": 33,
+      "gas:candidate-vibid:25420001433467": 5,
+      "gas:candidate-vibid:25420001430998": 1,
+      "gas:candidate-vibid:25420001434428": 2,
+      "gas:candidate-vibid:25420001432328": 3,
+      "gas:candidate-vibid:25420001431806": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234769&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234769&type=464",
@@ -6769,15 +6769,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 1,
-      "Вандакуров Александр Александрович": 4,
-      "Голованев Дмитрий Павлович": 37,
-      "Игнатов Виктор Александрович": 82,
-      "Лукашев Дмитрий Александрович": 4,
-      "Попов Дмитрий Александрович": 1,
-      "Холявченко Дмитрий Сергеевич": 1,
-      "Шмендель Ольга Николаевна": 6,
-      "Яковлев Роман Борисович": 17
+      "gas:candidate-vibid:25420001431016": 1,
+      "gas:candidate-vibid:25420001363753": 4,
+      "gas:candidate-vibid:25420001360219": 37,
+      "gas:candidate-vibid:25420001430586": 82,
+      "gas:candidate-vibid:25420001433467": 4,
+      "gas:candidate-vibid:25420001430998": 1,
+      "gas:candidate-vibid:25420001434428": 1,
+      "gas:candidate-vibid:25420001432328": 6,
+      "gas:candidate-vibid:25420001431806": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234769&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234769&type=464",
@@ -6828,15 +6828,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 1,
-      "Вандакуров Александр Александрович": 2,
-      "Голованев Дмитрий Павлович": 8,
-      "Игнатов Виктор Александрович": 26,
-      "Лукашев Дмитрий Александрович": 1,
-      "Попов Дмитрий Александрович": 0,
-      "Холявченко Дмитрий Сергеевич": 0,
-      "Шмендель Ольга Николаевна": 2,
-      "Яковлев Роман Борисович": 5
+      "gas:candidate-vibid:25420001431016": 1,
+      "gas:candidate-vibid:25420001363753": 2,
+      "gas:candidate-vibid:25420001360219": 8,
+      "gas:candidate-vibid:25420001430586": 26,
+      "gas:candidate-vibid:25420001433467": 1,
+      "gas:candidate-vibid:25420001430998": 0,
+      "gas:candidate-vibid:25420001434428": 0,
+      "gas:candidate-vibid:25420001432328": 2,
+      "gas:candidate-vibid:25420001431806": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234769&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234769&type=464",
@@ -6887,15 +6887,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 6,
-      "Вандакуров Александр Александрович": 7,
-      "Голованев Дмитрий Павлович": 32,
-      "Игнатов Виктор Александрович": 231,
-      "Лукашев Дмитрий Александрович": 10,
-      "Попов Дмитрий Александрович": 3,
-      "Холявченко Дмитрий Сергеевич": 1,
-      "Шмендель Ольга Николаевна": 15,
-      "Яковлев Роман Борисович": 21
+      "gas:candidate-vibid:25420001431016": 6,
+      "gas:candidate-vibid:25420001363753": 7,
+      "gas:candidate-vibid:25420001360219": 32,
+      "gas:candidate-vibid:25420001430586": 231,
+      "gas:candidate-vibid:25420001433467": 10,
+      "gas:candidate-vibid:25420001430998": 3,
+      "gas:candidate-vibid:25420001434428": 1,
+      "gas:candidate-vibid:25420001432328": 15,
+      "gas:candidate-vibid:25420001431806": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234769&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234769&type=464",
@@ -6946,15 +6946,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 2,
-      "Вандакуров Александр Александрович": 0,
-      "Голованев Дмитрий Павлович": 14,
-      "Игнатов Виктор Александрович": 40,
-      "Лукашев Дмитрий Александрович": 0,
-      "Попов Дмитрий Александрович": 1,
-      "Холявченко Дмитрий Сергеевич": 1,
-      "Шмендель Ольга Николаевна": 5,
-      "Яковлев Роман Борисович": 10
+      "gas:candidate-vibid:25420001431016": 2,
+      "gas:candidate-vibid:25420001363753": 0,
+      "gas:candidate-vibid:25420001360219": 14,
+      "gas:candidate-vibid:25420001430586": 40,
+      "gas:candidate-vibid:25420001433467": 0,
+      "gas:candidate-vibid:25420001430998": 1,
+      "gas:candidate-vibid:25420001434428": 1,
+      "gas:candidate-vibid:25420001432328": 5,
+      "gas:candidate-vibid:25420001431806": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234769&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234769&type=464",
@@ -7005,15 +7005,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 1,
-      "Вандакуров Александр Александрович": 2,
-      "Голованев Дмитрий Павлович": 9,
-      "Игнатов Виктор Александрович": 102,
-      "Лукашев Дмитрий Александрович": 0,
-      "Попов Дмитрий Александрович": 3,
-      "Холявченко Дмитрий Сергеевич": 4,
-      "Шмендель Ольга Николаевна": 14,
-      "Яковлев Роман Борисович": 13
+      "gas:candidate-vibid:25420001431016": 1,
+      "gas:candidate-vibid:25420001363753": 2,
+      "gas:candidate-vibid:25420001360219": 9,
+      "gas:candidate-vibid:25420001430586": 102,
+      "gas:candidate-vibid:25420001433467": 0,
+      "gas:candidate-vibid:25420001430998": 3,
+      "gas:candidate-vibid:25420001434428": 4,
+      "gas:candidate-vibid:25420001432328": 14,
+      "gas:candidate-vibid:25420001431806": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234769&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234769&type=464",
@@ -7064,15 +7064,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 2,
-      "Вандакуров Александр Александрович": 0,
-      "Голованев Дмитрий Павлович": 11,
-      "Игнатов Виктор Александрович": 13,
-      "Лукашев Дмитрий Александрович": 1,
-      "Попов Дмитрий Александрович": 1,
-      "Холявченко Дмитрий Сергеевич": 2,
-      "Шмендель Ольга Николаевна": 3,
-      "Яковлев Роман Борисович": 7
+      "gas:candidate-vibid:25420001431016": 2,
+      "gas:candidate-vibid:25420001363753": 0,
+      "gas:candidate-vibid:25420001360219": 11,
+      "gas:candidate-vibid:25420001430586": 13,
+      "gas:candidate-vibid:25420001433467": 1,
+      "gas:candidate-vibid:25420001430998": 1,
+      "gas:candidate-vibid:25420001434428": 2,
+      "gas:candidate-vibid:25420001432328": 3,
+      "gas:candidate-vibid:25420001431806": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234769&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234769&type=464",
@@ -7123,15 +7123,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 0,
-      "Вандакуров Александр Александрович": 1,
-      "Голованев Дмитрий Павлович": 16,
-      "Игнатов Виктор Александрович": 21,
-      "Лукашев Дмитрий Александрович": 1,
-      "Попов Дмитрий Александрович": 0,
-      "Холявченко Дмитрий Сергеевич": 1,
-      "Шмендель Ольга Николаевна": 3,
-      "Яковлев Роман Борисович": 9
+      "gas:candidate-vibid:25420001431016": 0,
+      "gas:candidate-vibid:25420001363753": 1,
+      "gas:candidate-vibid:25420001360219": 16,
+      "gas:candidate-vibid:25420001430586": 21,
+      "gas:candidate-vibid:25420001433467": 1,
+      "gas:candidate-vibid:25420001430998": 0,
+      "gas:candidate-vibid:25420001434428": 1,
+      "gas:candidate-vibid:25420001432328": 3,
+      "gas:candidate-vibid:25420001431806": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234769&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234769&type=464",
@@ -7182,15 +7182,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 6,
-      "Вандакуров Александр Александрович": 0,
-      "Голованев Дмитрий Павлович": 20,
-      "Игнатов Виктор Александрович": 60,
-      "Лукашев Дмитрий Александрович": 2,
-      "Попов Дмитрий Александрович": 1,
-      "Холявченко Дмитрий Сергеевич": 3,
-      "Шмендель Ольга Николаевна": 7,
-      "Яковлев Роман Борисович": 13
+      "gas:candidate-vibid:25420001431016": 6,
+      "gas:candidate-vibid:25420001363753": 0,
+      "gas:candidate-vibid:25420001360219": 20,
+      "gas:candidate-vibid:25420001430586": 60,
+      "gas:candidate-vibid:25420001433467": 2,
+      "gas:candidate-vibid:25420001430998": 1,
+      "gas:candidate-vibid:25420001434428": 3,
+      "gas:candidate-vibid:25420001432328": 7,
+      "gas:candidate-vibid:25420001431806": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234769&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234769&type=464",
@@ -7241,15 +7241,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 0,
-      "Вандакуров Александр Александрович": 0,
-      "Голованев Дмитрий Павлович": 14,
-      "Игнатов Виктор Александрович": 42,
-      "Лукашев Дмитрий Александрович": 0,
-      "Попов Дмитрий Александрович": 0,
-      "Холявченко Дмитрий Сергеевич": 0,
-      "Шмендель Ольга Николаевна": 4,
-      "Яковлев Роман Борисович": 10
+      "gas:candidate-vibid:25420001431016": 0,
+      "gas:candidate-vibid:25420001363753": 0,
+      "gas:candidate-vibid:25420001360219": 14,
+      "gas:candidate-vibid:25420001430586": 42,
+      "gas:candidate-vibid:25420001433467": 0,
+      "gas:candidate-vibid:25420001430998": 0,
+      "gas:candidate-vibid:25420001434428": 0,
+      "gas:candidate-vibid:25420001432328": 4,
+      "gas:candidate-vibid:25420001431806": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234769&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234769&type=464",
@@ -7300,15 +7300,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 1,
-      "Вандакуров Александр Александрович": 3,
-      "Голованев Дмитрий Павлович": 17,
-      "Игнатов Виктор Александрович": 120,
-      "Лукашев Дмитрий Александрович": 2,
-      "Попов Дмитрий Александрович": 1,
-      "Холявченко Дмитрий Сергеевич": 0,
-      "Шмендель Ольга Николаевна": 11,
-      "Яковлев Роман Борисович": 17
+      "gas:candidate-vibid:25420001431016": 1,
+      "gas:candidate-vibid:25420001363753": 3,
+      "gas:candidate-vibid:25420001360219": 17,
+      "gas:candidate-vibid:25420001430586": 120,
+      "gas:candidate-vibid:25420001433467": 2,
+      "gas:candidate-vibid:25420001430998": 1,
+      "gas:candidate-vibid:25420001434428": 0,
+      "gas:candidate-vibid:25420001432328": 11,
+      "gas:candidate-vibid:25420001431806": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234769&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234769&type=464",
@@ -7359,15 +7359,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 2,
-      "Вандакуров Александр Александрович": 6,
-      "Голованев Дмитрий Павлович": 8,
-      "Игнатов Виктор Александрович": 81,
-      "Лукашев Дмитрий Александрович": 0,
-      "Попов Дмитрий Александрович": 0,
-      "Холявченко Дмитрий Сергеевич": 0,
-      "Шмендель Ольга Николаевна": 5,
-      "Яковлев Роман Борисович": 4
+      "gas:candidate-vibid:25420001431016": 2,
+      "gas:candidate-vibid:25420001363753": 6,
+      "gas:candidate-vibid:25420001360219": 8,
+      "gas:candidate-vibid:25420001430586": 81,
+      "gas:candidate-vibid:25420001433467": 0,
+      "gas:candidate-vibid:25420001430998": 0,
+      "gas:candidate-vibid:25420001434428": 0,
+      "gas:candidate-vibid:25420001432328": 5,
+      "gas:candidate-vibid:25420001431806": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234769&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234769&type=464",
@@ -7418,15 +7418,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 0,
-      "Вандакуров Александр Александрович": 0,
-      "Голованев Дмитрий Павлович": 8,
-      "Игнатов Виктор Александрович": 36,
-      "Лукашев Дмитрий Александрович": 0,
-      "Попов Дмитрий Александрович": 0,
-      "Холявченко Дмитрий Сергеевич": 0,
-      "Шмендель Ольга Николаевна": 5,
-      "Яковлев Роман Борисович": 2
+      "gas:candidate-vibid:25420001431016": 0,
+      "gas:candidate-vibid:25420001363753": 0,
+      "gas:candidate-vibid:25420001360219": 8,
+      "gas:candidate-vibid:25420001430586": 36,
+      "gas:candidate-vibid:25420001433467": 0,
+      "gas:candidate-vibid:25420001430998": 0,
+      "gas:candidate-vibid:25420001434428": 0,
+      "gas:candidate-vibid:25420001432328": 5,
+      "gas:candidate-vibid:25420001431806": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234769&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234769&type=464",
@@ -7477,15 +7477,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 4,
-      "Вандакуров Александр Александрович": 4,
-      "Голованев Дмитрий Павлович": 25,
-      "Игнатов Виктор Александрович": 110,
-      "Лукашев Дмитрий Александрович": 7,
-      "Попов Дмитрий Александрович": 5,
-      "Холявченко Дмитрий Сергеевич": 6,
-      "Шмендель Ольга Николаевна": 18,
-      "Яковлев Роман Борисович": 50
+      "gas:candidate-vibid:25420001431016": 4,
+      "gas:candidate-vibid:25420001363753": 4,
+      "gas:candidate-vibid:25420001360219": 25,
+      "gas:candidate-vibid:25420001430586": 110,
+      "gas:candidate-vibid:25420001433467": 7,
+      "gas:candidate-vibid:25420001430998": 5,
+      "gas:candidate-vibid:25420001434428": 6,
+      "gas:candidate-vibid:25420001432328": 18,
+      "gas:candidate-vibid:25420001431806": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234769&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234769&type=464",
@@ -7536,15 +7536,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 1,
-      "Вандакуров Александр Александрович": 1,
-      "Голованев Дмитрий Павлович": 6,
-      "Игнатов Виктор Александрович": 26,
-      "Лукашев Дмитрий Александрович": 2,
-      "Попов Дмитрий Александрович": 1,
-      "Холявченко Дмитрий Сергеевич": 2,
-      "Шмендель Ольга Николаевна": 5,
-      "Яковлев Роман Борисович": 13
+      "gas:candidate-vibid:25420001431016": 1,
+      "gas:candidate-vibid:25420001363753": 1,
+      "gas:candidate-vibid:25420001360219": 6,
+      "gas:candidate-vibid:25420001430586": 26,
+      "gas:candidate-vibid:25420001433467": 2,
+      "gas:candidate-vibid:25420001430998": 1,
+      "gas:candidate-vibid:25420001434428": 2,
+      "gas:candidate-vibid:25420001432328": 5,
+      "gas:candidate-vibid:25420001431806": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234769&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234769&type=464",
@@ -7595,15 +7595,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 0,
-      "Вандакуров Александр Александрович": 2,
-      "Голованев Дмитрий Павлович": 5,
-      "Игнатов Виктор Александрович": 32,
-      "Лукашев Дмитрий Александрович": 0,
-      "Попов Дмитрий Александрович": 0,
-      "Холявченко Дмитрий Сергеевич": 0,
-      "Шмендель Ольга Николаевна": 6,
-      "Яковлев Роман Борисович": 5
+      "gas:candidate-vibid:25420001431016": 0,
+      "gas:candidate-vibid:25420001363753": 2,
+      "gas:candidate-vibid:25420001360219": 5,
+      "gas:candidate-vibid:25420001430586": 32,
+      "gas:candidate-vibid:25420001433467": 0,
+      "gas:candidate-vibid:25420001430998": 0,
+      "gas:candidate-vibid:25420001434428": 0,
+      "gas:candidate-vibid:25420001432328": 6,
+      "gas:candidate-vibid:25420001431806": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234769&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234769&type=464",
@@ -7654,15 +7654,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 15,
-      "Вандакуров Александр Александрович": 20,
-      "Голованев Дмитрий Павлович": 69,
-      "Игнатов Виктор Александрович": 193,
-      "Лукашев Дмитрий Александрович": 9,
-      "Попов Дмитрий Александрович": 7,
-      "Холявченко Дмитрий Сергеевич": 7,
-      "Шмендель Ольга Николаевна": 16,
-      "Яковлев Роман Борисович": 29
+      "gas:candidate-vibid:25420001431016": 15,
+      "gas:candidate-vibid:25420001363753": 20,
+      "gas:candidate-vibid:25420001360219": 69,
+      "gas:candidate-vibid:25420001430586": 193,
+      "gas:candidate-vibid:25420001433467": 9,
+      "gas:candidate-vibid:25420001430998": 7,
+      "gas:candidate-vibid:25420001434428": 7,
+      "gas:candidate-vibid:25420001432328": 16,
+      "gas:candidate-vibid:25420001431806": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234770&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234770&type=464",
@@ -7713,15 +7713,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 1,
-      "Вандакуров Александр Александрович": 4,
-      "Голованев Дмитрий Павлович": 22,
-      "Игнатов Виктор Александрович": 89,
-      "Лукашев Дмитрий Александрович": 2,
-      "Попов Дмитрий Александрович": 2,
-      "Холявченко Дмитрий Сергеевич": 1,
-      "Шмендель Ольга Николаевна": 6,
-      "Яковлев Роман Борисович": 10
+      "gas:candidate-vibid:25420001431016": 1,
+      "gas:candidate-vibid:25420001363753": 4,
+      "gas:candidate-vibid:25420001360219": 22,
+      "gas:candidate-vibid:25420001430586": 89,
+      "gas:candidate-vibid:25420001433467": 2,
+      "gas:candidate-vibid:25420001430998": 2,
+      "gas:candidate-vibid:25420001434428": 1,
+      "gas:candidate-vibid:25420001432328": 6,
+      "gas:candidate-vibid:25420001431806": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234770&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234770&type=464",
@@ -7772,15 +7772,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 0,
-      "Вандакуров Александр Александрович": 12,
-      "Голованев Дмитрий Павлович": 17,
-      "Игнатов Виктор Александрович": 64,
-      "Лукашев Дмитрий Александрович": 3,
-      "Попов Дмитрий Александрович": 2,
-      "Холявченко Дмитрий Сергеевич": 0,
-      "Шмендель Ольга Николаевна": 4,
-      "Яковлев Роман Борисович": 7
+      "gas:candidate-vibid:25420001431016": 0,
+      "gas:candidate-vibid:25420001363753": 12,
+      "gas:candidate-vibid:25420001360219": 17,
+      "gas:candidate-vibid:25420001430586": 64,
+      "gas:candidate-vibid:25420001433467": 3,
+      "gas:candidate-vibid:25420001430998": 2,
+      "gas:candidate-vibid:25420001434428": 0,
+      "gas:candidate-vibid:25420001432328": 4,
+      "gas:candidate-vibid:25420001431806": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234770&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234770&type=464",
@@ -7831,15 +7831,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 1,
-      "Вандакуров Александр Александрович": 0,
-      "Голованев Дмитрий Павлович": 6,
-      "Игнатов Виктор Александрович": 27,
-      "Лукашев Дмитрий Александрович": 1,
-      "Попов Дмитрий Александрович": 0,
-      "Холявченко Дмитрий Сергеевич": 0,
-      "Шмендель Ольга Николаевна": 1,
-      "Яковлев Роман Борисович": 5
+      "gas:candidate-vibid:25420001431016": 1,
+      "gas:candidate-vibid:25420001363753": 0,
+      "gas:candidate-vibid:25420001360219": 6,
+      "gas:candidate-vibid:25420001430586": 27,
+      "gas:candidate-vibid:25420001433467": 1,
+      "gas:candidate-vibid:25420001430998": 0,
+      "gas:candidate-vibid:25420001434428": 0,
+      "gas:candidate-vibid:25420001432328": 1,
+      "gas:candidate-vibid:25420001431806": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234770&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234770&type=464",
@@ -7890,15 +7890,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 8,
-      "Вандакуров Александр Александрович": 24,
-      "Голованев Дмитрий Павлович": 48,
-      "Игнатов Виктор Александрович": 179,
-      "Лукашев Дмитрий Александрович": 10,
-      "Попов Дмитрий Александрович": 11,
-      "Холявченко Дмитрий Сергеевич": 6,
-      "Шмендель Ольга Николаевна": 38,
-      "Яковлев Роман Борисович": 48
+      "gas:candidate-vibid:25420001431016": 8,
+      "gas:candidate-vibid:25420001363753": 24,
+      "gas:candidate-vibid:25420001360219": 48,
+      "gas:candidate-vibid:25420001430586": 179,
+      "gas:candidate-vibid:25420001433467": 10,
+      "gas:candidate-vibid:25420001430998": 11,
+      "gas:candidate-vibid:25420001434428": 6,
+      "gas:candidate-vibid:25420001432328": 38,
+      "gas:candidate-vibid:25420001431806": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234770&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234770&type=464",
@@ -7949,15 +7949,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 2,
-      "Вандакуров Александр Александрович": 2,
-      "Голованев Дмитрий Павлович": 18,
-      "Игнатов Виктор Александрович": 30,
-      "Лукашев Дмитрий Александрович": 3,
-      "Попов Дмитрий Александрович": 1,
-      "Холявченко Дмитрий Сергеевич": 0,
-      "Шмендель Ольга Николаевна": 6,
-      "Яковлев Роман Борисович": 3
+      "gas:candidate-vibid:25420001431016": 2,
+      "gas:candidate-vibid:25420001363753": 2,
+      "gas:candidate-vibid:25420001360219": 18,
+      "gas:candidate-vibid:25420001430586": 30,
+      "gas:candidate-vibid:25420001433467": 3,
+      "gas:candidate-vibid:25420001430998": 1,
+      "gas:candidate-vibid:25420001434428": 0,
+      "gas:candidate-vibid:25420001432328": 6,
+      "gas:candidate-vibid:25420001431806": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234770&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234770&type=464",
@@ -8008,15 +8008,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 1,
-      "Вандакуров Александр Александрович": 4,
-      "Голованев Дмитрий Павлович": 1,
-      "Игнатов Виктор Александрович": 26,
-      "Лукашев Дмитрий Александрович": 2,
-      "Попов Дмитрий Александрович": 2,
-      "Холявченко Дмитрий Сергеевич": 0,
-      "Шмендель Ольга Николаевна": 0,
-      "Яковлев Роман Борисович": 1
+      "gas:candidate-vibid:25420001431016": 1,
+      "gas:candidate-vibid:25420001363753": 4,
+      "gas:candidate-vibid:25420001360219": 1,
+      "gas:candidate-vibid:25420001430586": 26,
+      "gas:candidate-vibid:25420001433467": 2,
+      "gas:candidate-vibid:25420001430998": 2,
+      "gas:candidate-vibid:25420001434428": 0,
+      "gas:candidate-vibid:25420001432328": 0,
+      "gas:candidate-vibid:25420001431806": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234770&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234770&type=464",
@@ -8067,15 +8067,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 9,
-      "Вандакуров Александр Александрович": 12,
-      "Голованев Дмитрий Павлович": 32,
-      "Игнатов Виктор Александрович": 109,
-      "Лукашев Дмитрий Александрович": 1,
-      "Попов Дмитрий Александрович": 4,
-      "Холявченко Дмитрий Сергеевич": 1,
-      "Шмендель Ольга Николаевна": 15,
-      "Яковлев Роман Борисович": 8
+      "gas:candidate-vibid:25420001431016": 9,
+      "gas:candidate-vibid:25420001363753": 12,
+      "gas:candidate-vibid:25420001360219": 32,
+      "gas:candidate-vibid:25420001430586": 109,
+      "gas:candidate-vibid:25420001433467": 1,
+      "gas:candidate-vibid:25420001430998": 4,
+      "gas:candidate-vibid:25420001434428": 1,
+      "gas:candidate-vibid:25420001432328": 15,
+      "gas:candidate-vibid:25420001431806": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234770&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234770&type=464",
@@ -8126,15 +8126,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 4,
-      "Вандакуров Александр Александрович": 5,
-      "Голованев Дмитрий Павлович": 20,
-      "Игнатов Виктор Александрович": 55,
-      "Лукашев Дмитрий Александрович": 1,
-      "Попов Дмитрий Александрович": 1,
-      "Холявченко Дмитрий Сергеевич": 0,
-      "Шмендель Ольга Николаевна": 5,
-      "Яковлев Роман Борисович": 10
+      "gas:candidate-vibid:25420001431016": 4,
+      "gas:candidate-vibid:25420001363753": 5,
+      "gas:candidate-vibid:25420001360219": 20,
+      "gas:candidate-vibid:25420001430586": 55,
+      "gas:candidate-vibid:25420001433467": 1,
+      "gas:candidate-vibid:25420001430998": 1,
+      "gas:candidate-vibid:25420001434428": 0,
+      "gas:candidate-vibid:25420001432328": 5,
+      "gas:candidate-vibid:25420001431806": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234770&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234770&type=464",
@@ -8185,15 +8185,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 5,
-      "Вандакуров Александр Александрович": 17,
-      "Голованев Дмитрий Павлович": 60,
-      "Игнатов Виктор Александрович": 176,
-      "Лукашев Дмитрий Александрович": 9,
-      "Попов Дмитрий Александрович": 9,
-      "Холявченко Дмитрий Сергеевич": 2,
-      "Шмендель Ольга Николаевна": 23,
-      "Яковлев Роман Борисович": 29
+      "gas:candidate-vibid:25420001431016": 5,
+      "gas:candidate-vibid:25420001363753": 17,
+      "gas:candidate-vibid:25420001360219": 60,
+      "gas:candidate-vibid:25420001430586": 176,
+      "gas:candidate-vibid:25420001433467": 9,
+      "gas:candidate-vibid:25420001430998": 9,
+      "gas:candidate-vibid:25420001434428": 2,
+      "gas:candidate-vibid:25420001432328": 23,
+      "gas:candidate-vibid:25420001431806": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234770&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234770&type=464",
@@ -8244,15 +8244,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 1,
-      "Вандакуров Александр Александрович": 2,
-      "Голованев Дмитрий Павлович": 4,
-      "Игнатов Виктор Александрович": 19,
-      "Лукашев Дмитрий Александрович": 1,
-      "Попов Дмитрий Александрович": 1,
-      "Холявченко Дмитрий Сергеевич": 0,
-      "Шмендель Ольга Николаевна": 2,
-      "Яковлев Роман Борисович": 3
+      "gas:candidate-vibid:25420001431016": 1,
+      "gas:candidate-vibid:25420001363753": 2,
+      "gas:candidate-vibid:25420001360219": 4,
+      "gas:candidate-vibid:25420001430586": 19,
+      "gas:candidate-vibid:25420001433467": 1,
+      "gas:candidate-vibid:25420001430998": 1,
+      "gas:candidate-vibid:25420001434428": 0,
+      "gas:candidate-vibid:25420001432328": 2,
+      "gas:candidate-vibid:25420001431806": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234770&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234770&type=464",
@@ -8303,15 +8303,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 7,
-      "Вандакуров Александр Александрович": 23,
-      "Голованев Дмитрий Павлович": 61,
-      "Игнатов Виктор Александрович": 244,
-      "Лукашев Дмитрий Александрович": 6,
-      "Попов Дмитрий Александрович": 6,
-      "Холявченко Дмитрий Сергеевич": 1,
-      "Шмендель Ольга Николаевна": 15,
-      "Яковлев Роман Борисович": 28
+      "gas:candidate-vibid:25420001431016": 7,
+      "gas:candidate-vibid:25420001363753": 23,
+      "gas:candidate-vibid:25420001360219": 61,
+      "gas:candidate-vibid:25420001430586": 244,
+      "gas:candidate-vibid:25420001433467": 6,
+      "gas:candidate-vibid:25420001430998": 6,
+      "gas:candidate-vibid:25420001434428": 1,
+      "gas:candidate-vibid:25420001432328": 15,
+      "gas:candidate-vibid:25420001431806": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234770&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234770&type=464",
@@ -8362,15 +8362,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 0,
-      "Вандакуров Александр Александрович": 0,
-      "Голованев Дмитрий Павлович": 16,
-      "Игнатов Виктор Александрович": 22,
-      "Лукашев Дмитрий Александрович": 0,
-      "Попов Дмитрий Александрович": 0,
-      "Холявченко Дмитрий Сергеевич": 0,
-      "Шмендель Ольга Николаевна": 0,
-      "Яковлев Роман Борисович": 6
+      "gas:candidate-vibid:25420001431016": 0,
+      "gas:candidate-vibid:25420001363753": 0,
+      "gas:candidate-vibid:25420001360219": 16,
+      "gas:candidate-vibid:25420001430586": 22,
+      "gas:candidate-vibid:25420001433467": 0,
+      "gas:candidate-vibid:25420001430998": 0,
+      "gas:candidate-vibid:25420001434428": 0,
+      "gas:candidate-vibid:25420001432328": 0,
+      "gas:candidate-vibid:25420001431806": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234770&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234770&type=464",
@@ -8421,15 +8421,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 3,
-      "Вандакуров Александр Александрович": 9,
-      "Голованев Дмитрий Павлович": 30,
-      "Игнатов Виктор Александрович": 95,
-      "Лукашев Дмитрий Александрович": 6,
-      "Попов Дмитрий Александрович": 7,
-      "Холявченко Дмитрий Сергеевич": 5,
-      "Шмендель Ольга Николаевна": 4,
-      "Яковлев Роман Борисович": 5
+      "gas:candidate-vibid:25420001431016": 3,
+      "gas:candidate-vibid:25420001363753": 9,
+      "gas:candidate-vibid:25420001360219": 30,
+      "gas:candidate-vibid:25420001430586": 95,
+      "gas:candidate-vibid:25420001433467": 6,
+      "gas:candidate-vibid:25420001430998": 7,
+      "gas:candidate-vibid:25420001434428": 5,
+      "gas:candidate-vibid:25420001432328": 4,
+      "gas:candidate-vibid:25420001431806": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234770&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234770&type=464",
@@ -8480,15 +8480,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 3,
-      "Вандакуров Александр Александрович": 1,
-      "Голованев Дмитрий Павлович": 15,
-      "Игнатов Виктор Александрович": 31,
-      "Лукашев Дмитрий Александрович": 2,
-      "Попов Дмитрий Александрович": 1,
-      "Холявченко Дмитрий Сергеевич": 0,
-      "Шмендель Ольга Николаевна": 0,
-      "Яковлев Роман Борисович": 1
+      "gas:candidate-vibid:25420001431016": 3,
+      "gas:candidate-vibid:25420001363753": 1,
+      "gas:candidate-vibid:25420001360219": 15,
+      "gas:candidate-vibid:25420001430586": 31,
+      "gas:candidate-vibid:25420001433467": 2,
+      "gas:candidate-vibid:25420001430998": 1,
+      "gas:candidate-vibid:25420001434428": 0,
+      "gas:candidate-vibid:25420001432328": 0,
+      "gas:candidate-vibid:25420001431806": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234770&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234770&type=464",
@@ -8539,15 +8539,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 12,
-      "Вандакуров Александр Александрович": 16,
-      "Голованев Дмитрий Павлович": 116,
-      "Игнатов Виктор Александрович": 314,
-      "Лукашев Дмитрий Александрович": 11,
-      "Попов Дмитрий Александрович": 9,
-      "Холявченко Дмитрий Сергеевич": 3,
-      "Шмендель Ольга Николаевна": 18,
-      "Яковлев Роман Борисович": 26
+      "gas:candidate-vibid:25420001431016": 12,
+      "gas:candidate-vibid:25420001363753": 16,
+      "gas:candidate-vibid:25420001360219": 116,
+      "gas:candidate-vibid:25420001430586": 314,
+      "gas:candidate-vibid:25420001433467": 11,
+      "gas:candidate-vibid:25420001430998": 9,
+      "gas:candidate-vibid:25420001434428": 3,
+      "gas:candidate-vibid:25420001432328": 18,
+      "gas:candidate-vibid:25420001431806": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234770&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234770&type=464",
@@ -8598,15 +8598,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 1,
-      "Вандакуров Александр Александрович": 3,
-      "Голованев Дмитрий Павлович": 9,
-      "Игнатов Виктор Александрович": 20,
-      "Лукашев Дмитрий Александрович": 0,
-      "Попов Дмитрий Александрович": 0,
-      "Холявченко Дмитрий Сергеевич": 0,
-      "Шмендель Ольга Николаевна": 1,
-      "Яковлев Роман Борисович": 2
+      "gas:candidate-vibid:25420001431016": 1,
+      "gas:candidate-vibid:25420001363753": 3,
+      "gas:candidate-vibid:25420001360219": 9,
+      "gas:candidate-vibid:25420001430586": 20,
+      "gas:candidate-vibid:25420001433467": 0,
+      "gas:candidate-vibid:25420001430998": 0,
+      "gas:candidate-vibid:25420001434428": 0,
+      "gas:candidate-vibid:25420001432328": 1,
+      "gas:candidate-vibid:25420001431806": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234770&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234770&type=464",
@@ -8657,15 +8657,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 9,
-      "Вандакуров Александр Александрович": 42,
-      "Голованев Дмитрий Павлович": 104,
-      "Игнатов Виктор Александрович": 409,
-      "Лукашев Дмитрий Александрович": 28,
-      "Попов Дмитрий Александрович": 12,
-      "Холявченко Дмитрий Сергеевич": 10,
-      "Шмендель Ольга Николаевна": 53,
-      "Яковлев Роман Борисович": 98
+      "gas:candidate-vibid:25420001431016": 9,
+      "gas:candidate-vibid:25420001363753": 42,
+      "gas:candidate-vibid:25420001360219": 104,
+      "gas:candidate-vibid:25420001430586": 409,
+      "gas:candidate-vibid:25420001433467": 28,
+      "gas:candidate-vibid:25420001430998": 12,
+      "gas:candidate-vibid:25420001434428": 10,
+      "gas:candidate-vibid:25420001432328": 53,
+      "gas:candidate-vibid:25420001431806": 98
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234770&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234770&type=464",
@@ -8716,15 +8716,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 2,
-      "Вандакуров Александр Александрович": 4,
-      "Голованев Дмитрий Павлович": 46,
-      "Игнатов Виктор Александрович": 85,
-      "Лукашев Дмитрий Александрович": 6,
-      "Попов Дмитрий Александрович": 2,
-      "Холявченко Дмитрий Сергеевич": 2,
-      "Шмендель Ольга Николаевна": 18,
-      "Яковлев Роман Борисович": 14
+      "gas:candidate-vibid:25420001431016": 2,
+      "gas:candidate-vibid:25420001363753": 4,
+      "gas:candidate-vibid:25420001360219": 46,
+      "gas:candidate-vibid:25420001430586": 85,
+      "gas:candidate-vibid:25420001433467": 6,
+      "gas:candidate-vibid:25420001430998": 2,
+      "gas:candidate-vibid:25420001434428": 2,
+      "gas:candidate-vibid:25420001432328": 18,
+      "gas:candidate-vibid:25420001431806": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234770&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234770&type=464",
@@ -8775,15 +8775,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 6,
-      "Вандакуров Александр Александрович": 16,
-      "Голованев Дмитрий Павлович": 48,
-      "Игнатов Виктор Александрович": 127,
-      "Лукашев Дмитрий Александрович": 8,
-      "Попов Дмитрий Александрович": 3,
-      "Холявченко Дмитрий Сергеевич": 3,
-      "Шмендель Ольга Николаевна": 26,
-      "Яковлев Роман Борисович": 32
+      "gas:candidate-vibid:25420001431016": 6,
+      "gas:candidate-vibid:25420001363753": 16,
+      "gas:candidate-vibid:25420001360219": 48,
+      "gas:candidate-vibid:25420001430586": 127,
+      "gas:candidate-vibid:25420001433467": 8,
+      "gas:candidate-vibid:25420001430998": 3,
+      "gas:candidate-vibid:25420001434428": 3,
+      "gas:candidate-vibid:25420001432328": 26,
+      "gas:candidate-vibid:25420001431806": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234770&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234770&type=464",
@@ -8834,15 +8834,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 0,
-      "Вандакуров Александр Александрович": 1,
-      "Голованев Дмитрий Павлович": 19,
-      "Игнатов Виктор Александрович": 50,
-      "Лукашев Дмитрий Александрович": 0,
-      "Попов Дмитрий Александрович": 2,
-      "Холявченко Дмитрий Сергеевич": 0,
-      "Шмендель Ольга Николаевна": 2,
-      "Яковлев Роман Борисович": 9
+      "gas:candidate-vibid:25420001431016": 0,
+      "gas:candidate-vibid:25420001363753": 1,
+      "gas:candidate-vibid:25420001360219": 19,
+      "gas:candidate-vibid:25420001430586": 50,
+      "gas:candidate-vibid:25420001433467": 0,
+      "gas:candidate-vibid:25420001430998": 2,
+      "gas:candidate-vibid:25420001434428": 0,
+      "gas:candidate-vibid:25420001432328": 2,
+      "gas:candidate-vibid:25420001431806": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234770&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234770&type=464",
@@ -8893,15 +8893,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 4,
-      "Вандакуров Александр Александрович": 7,
-      "Голованев Дмитрий Павлович": 18,
-      "Игнатов Виктор Александрович": 48,
-      "Лукашев Дмитрий Александрович": 1,
-      "Попов Дмитрий Александрович": 3,
-      "Холявченко Дмитрий Сергеевич": 1,
-      "Шмендель Ольга Николаевна": 8,
-      "Яковлев Роман Борисович": 10
+      "gas:candidate-vibid:25420001431016": 4,
+      "gas:candidate-vibid:25420001363753": 7,
+      "gas:candidate-vibid:25420001360219": 18,
+      "gas:candidate-vibid:25420001430586": 48,
+      "gas:candidate-vibid:25420001433467": 1,
+      "gas:candidate-vibid:25420001430998": 3,
+      "gas:candidate-vibid:25420001434428": 1,
+      "gas:candidate-vibid:25420001432328": 8,
+      "gas:candidate-vibid:25420001431806": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234770&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234770&type=464",
@@ -8952,15 +8952,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 1,
-      "Вандакуров Александр Александрович": 15,
-      "Голованев Дмитрий Павлович": 26,
-      "Игнатов Виктор Александрович": 53,
-      "Лукашев Дмитрий Александрович": 1,
-      "Попов Дмитрий Александрович": 1,
-      "Холявченко Дмитрий Сергеевич": 0,
-      "Шмендель Ольга Николаевна": 2,
-      "Яковлев Роман Борисович": 14
+      "gas:candidate-vibid:25420001431016": 1,
+      "gas:candidate-vibid:25420001363753": 15,
+      "gas:candidate-vibid:25420001360219": 26,
+      "gas:candidate-vibid:25420001430586": 53,
+      "gas:candidate-vibid:25420001433467": 1,
+      "gas:candidate-vibid:25420001430998": 1,
+      "gas:candidate-vibid:25420001434428": 0,
+      "gas:candidate-vibid:25420001432328": 2,
+      "gas:candidate-vibid:25420001431806": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234770&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234770&type=464",
@@ -9011,15 +9011,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 1,
-      "Вандакуров Александр Александрович": 1,
-      "Голованев Дмитрий Павлович": 17,
-      "Игнатов Виктор Александрович": 30,
-      "Лукашев Дмитрий Александрович": 0,
-      "Попов Дмитрий Александрович": 1,
-      "Холявченко Дмитрий Сергеевич": 1,
-      "Шмендель Ольга Николаевна": 3,
-      "Яковлев Роман Борисович": 13
+      "gas:candidate-vibid:25420001431016": 1,
+      "gas:candidate-vibid:25420001363753": 1,
+      "gas:candidate-vibid:25420001360219": 17,
+      "gas:candidate-vibid:25420001430586": 30,
+      "gas:candidate-vibid:25420001433467": 0,
+      "gas:candidate-vibid:25420001430998": 1,
+      "gas:candidate-vibid:25420001434428": 1,
+      "gas:candidate-vibid:25420001432328": 3,
+      "gas:candidate-vibid:25420001431806": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234770&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234770&type=464",
@@ -9070,15 +9070,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 2,
-      "Вандакуров Александр Александрович": 3,
-      "Голованев Дмитрий Павлович": 14,
-      "Игнатов Виктор Александрович": 50,
-      "Лукашев Дмитрий Александрович": 4,
-      "Попов Дмитрий Александрович": 2,
-      "Холявченко Дмитрий Сергеевич": 3,
-      "Шмендель Ольга Николаевна": 3,
-      "Яковлев Роман Борисович": 6
+      "gas:candidate-vibid:25420001431016": 2,
+      "gas:candidate-vibid:25420001363753": 3,
+      "gas:candidate-vibid:25420001360219": 14,
+      "gas:candidate-vibid:25420001430586": 50,
+      "gas:candidate-vibid:25420001433467": 4,
+      "gas:candidate-vibid:25420001430998": 2,
+      "gas:candidate-vibid:25420001434428": 3,
+      "gas:candidate-vibid:25420001432328": 3,
+      "gas:candidate-vibid:25420001431806": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234770&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234770&type=464",
@@ -9129,15 +9129,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 1,
-      "Вандакуров Александр Александрович": 7,
-      "Голованев Дмитрий Павлович": 18,
-      "Игнатов Виктор Александрович": 70,
-      "Лукашев Дмитрий Александрович": 1,
-      "Попов Дмитрий Александрович": 2,
-      "Холявченко Дмитрий Сергеевич": 1,
-      "Шмендель Ольга Николаевна": 9,
-      "Яковлев Роман Борисович": 8
+      "gas:candidate-vibid:25420001431016": 1,
+      "gas:candidate-vibid:25420001363753": 7,
+      "gas:candidate-vibid:25420001360219": 18,
+      "gas:candidate-vibid:25420001430586": 70,
+      "gas:candidate-vibid:25420001433467": 1,
+      "gas:candidate-vibid:25420001430998": 2,
+      "gas:candidate-vibid:25420001434428": 1,
+      "gas:candidate-vibid:25420001432328": 9,
+      "gas:candidate-vibid:25420001431806": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234770&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234770&type=464",
@@ -9188,15 +9188,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 3,
-      "Вандакуров Александр Александрович": 2,
-      "Голованев Дмитрий Павлович": 18,
-      "Игнатов Виктор Александрович": 46,
-      "Лукашев Дмитрий Александрович": 1,
-      "Попов Дмитрий Александрович": 2,
-      "Холявченко Дмитрий Сергеевич": 0,
-      "Шмендель Ольга Николаевна": 5,
-      "Яковлев Роман Борисович": 10
+      "gas:candidate-vibid:25420001431016": 3,
+      "gas:candidate-vibid:25420001363753": 2,
+      "gas:candidate-vibid:25420001360219": 18,
+      "gas:candidate-vibid:25420001430586": 46,
+      "gas:candidate-vibid:25420001433467": 1,
+      "gas:candidate-vibid:25420001430998": 2,
+      "gas:candidate-vibid:25420001434428": 0,
+      "gas:candidate-vibid:25420001432328": 5,
+      "gas:candidate-vibid:25420001431806": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234770&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234770&type=464",
@@ -9247,15 +9247,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 5,
-      "Вандакуров Александр Александрович": 12,
-      "Голованев Дмитрий Павлович": 12,
-      "Игнатов Виктор Александрович": 66,
-      "Лукашев Дмитрий Александрович": 6,
-      "Попов Дмитрий Александрович": 3,
-      "Холявченко Дмитрий Сергеевич": 1,
-      "Шмендель Ольга Николаевна": 7,
-      "Яковлев Роман Борисович": 17
+      "gas:candidate-vibid:25420001431016": 5,
+      "gas:candidate-vibid:25420001363753": 12,
+      "gas:candidate-vibid:25420001360219": 12,
+      "gas:candidate-vibid:25420001430586": 66,
+      "gas:candidate-vibid:25420001433467": 6,
+      "gas:candidate-vibid:25420001430998": 3,
+      "gas:candidate-vibid:25420001434428": 1,
+      "gas:candidate-vibid:25420001432328": 7,
+      "gas:candidate-vibid:25420001431806": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234770&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234770&type=464",
@@ -9306,15 +9306,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 1,
-      "Вандакуров Александр Александрович": 0,
-      "Голованев Дмитрий Павлович": 8,
-      "Игнатов Виктор Александрович": 37,
-      "Лукашев Дмитрий Александрович": 0,
-      "Попов Дмитрий Александрович": 0,
-      "Холявченко Дмитрий Сергеевич": 0,
-      "Шмендель Ольга Николаевна": 0,
-      "Яковлев Роман Борисович": 4
+      "gas:candidate-vibid:25420001431016": 1,
+      "gas:candidate-vibid:25420001363753": 0,
+      "gas:candidate-vibid:25420001360219": 8,
+      "gas:candidate-vibid:25420001430586": 37,
+      "gas:candidate-vibid:25420001433467": 0,
+      "gas:candidate-vibid:25420001430998": 0,
+      "gas:candidate-vibid:25420001434428": 0,
+      "gas:candidate-vibid:25420001432328": 0,
+      "gas:candidate-vibid:25420001431806": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234770&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234770&type=464",
@@ -9365,15 +9365,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 1,
-      "Вандакуров Александр Александрович": 6,
-      "Голованев Дмитрий Павлович": 29,
-      "Игнатов Виктор Александрович": 33,
-      "Лукашев Дмитрий Александрович": 5,
-      "Попов Дмитрий Александрович": 5,
-      "Холявченко Дмитрий Сергеевич": 2,
-      "Шмендель Ольга Николаевна": 6,
-      "Яковлев Роман Борисович": 5
+      "gas:candidate-vibid:25420001431016": 1,
+      "gas:candidate-vibid:25420001363753": 6,
+      "gas:candidate-vibid:25420001360219": 29,
+      "gas:candidate-vibid:25420001430586": 33,
+      "gas:candidate-vibid:25420001433467": 5,
+      "gas:candidate-vibid:25420001430998": 5,
+      "gas:candidate-vibid:25420001434428": 2,
+      "gas:candidate-vibid:25420001432328": 6,
+      "gas:candidate-vibid:25420001431806": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234770&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234770&type=464",
@@ -9424,15 +9424,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 6,
-      "Вандакуров Александр Александрович": 6,
-      "Голованев Дмитрий Павлович": 30,
-      "Игнатов Виктор Александрович": 272,
-      "Лукашев Дмитрий Александрович": 1,
-      "Попов Дмитрий Александрович": 18,
-      "Холявченко Дмитрий Сергеевич": 4,
-      "Шмендель Ольга Николаевна": 16,
-      "Яковлев Роман Борисович": 32
+      "gas:candidate-vibid:25420001431016": 6,
+      "gas:candidate-vibid:25420001363753": 6,
+      "gas:candidate-vibid:25420001360219": 30,
+      "gas:candidate-vibid:25420001430586": 272,
+      "gas:candidate-vibid:25420001433467": 1,
+      "gas:candidate-vibid:25420001430998": 18,
+      "gas:candidate-vibid:25420001434428": 4,
+      "gas:candidate-vibid:25420001432328": 16,
+      "gas:candidate-vibid:25420001431806": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234770&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234770&type=464",
@@ -9483,15 +9483,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 0,
-      "Вандакуров Александр Александрович": 0,
-      "Голованев Дмитрий Павлович": 4,
-      "Игнатов Виктор Александрович": 62,
-      "Лукашев Дмитрий Александрович": 1,
-      "Попов Дмитрий Александрович": 1,
-      "Холявченко Дмитрий Сергеевич": 1,
-      "Шмендель Ольга Николаевна": 4,
-      "Яковлев Роман Борисович": 4
+      "gas:candidate-vibid:25420001431016": 0,
+      "gas:candidate-vibid:25420001363753": 0,
+      "gas:candidate-vibid:25420001360219": 4,
+      "gas:candidate-vibid:25420001430586": 62,
+      "gas:candidate-vibid:25420001433467": 1,
+      "gas:candidate-vibid:25420001430998": 1,
+      "gas:candidate-vibid:25420001434428": 1,
+      "gas:candidate-vibid:25420001432328": 4,
+      "gas:candidate-vibid:25420001431806": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234770&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234770&type=464",
@@ -9542,15 +9542,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 3,
-      "Вандакуров Александр Александрович": 11,
-      "Голованев Дмитрий Павлович": 46,
-      "Игнатов Виктор Александрович": 148,
-      "Лукашев Дмитрий Александрович": 4,
-      "Попов Дмитрий Александрович": 12,
-      "Холявченко Дмитрий Сергеевич": 1,
-      "Шмендель Ольга Николаевна": 22,
-      "Яковлев Роман Борисович": 20
+      "gas:candidate-vibid:25420001431016": 3,
+      "gas:candidate-vibid:25420001363753": 11,
+      "gas:candidate-vibid:25420001360219": 46,
+      "gas:candidate-vibid:25420001430586": 148,
+      "gas:candidate-vibid:25420001433467": 4,
+      "gas:candidate-vibid:25420001430998": 12,
+      "gas:candidate-vibid:25420001434428": 1,
+      "gas:candidate-vibid:25420001432328": 22,
+      "gas:candidate-vibid:25420001431806": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234770&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234770&type=464",
@@ -9601,15 +9601,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 2,
-      "Вандакуров Александр Александрович": 3,
-      "Голованев Дмитрий Павлович": 13,
-      "Игнатов Виктор Александрович": 69,
-      "Лукашев Дмитрий Александрович": 2,
-      "Попов Дмитрий Александрович": 4,
-      "Холявченко Дмитрий Сергеевич": 1,
-      "Шмендель Ольга Николаевна": 3,
-      "Яковлев Роман Борисович": 2
+      "gas:candidate-vibid:25420001431016": 2,
+      "gas:candidate-vibid:25420001363753": 3,
+      "gas:candidate-vibid:25420001360219": 13,
+      "gas:candidate-vibid:25420001430586": 69,
+      "gas:candidate-vibid:25420001433467": 2,
+      "gas:candidate-vibid:25420001430998": 4,
+      "gas:candidate-vibid:25420001434428": 1,
+      "gas:candidate-vibid:25420001432328": 3,
+      "gas:candidate-vibid:25420001431806": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234770&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234770&type=464",
@@ -9660,15 +9660,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 3,
-      "Вандакуров Александр Александрович": 4,
-      "Голованев Дмитрий Павлович": 6,
-      "Игнатов Виктор Александрович": 60,
-      "Лукашев Дмитрий Александрович": 1,
-      "Попов Дмитрий Александрович": 0,
-      "Холявченко Дмитрий Сергеевич": 0,
-      "Шмендель Ольга Николаевна": 2,
-      "Яковлев Роман Борисович": 2
+      "gas:candidate-vibid:25420001431016": 3,
+      "gas:candidate-vibid:25420001363753": 4,
+      "gas:candidate-vibid:25420001360219": 6,
+      "gas:candidate-vibid:25420001430586": 60,
+      "gas:candidate-vibid:25420001433467": 1,
+      "gas:candidate-vibid:25420001430998": 0,
+      "gas:candidate-vibid:25420001434428": 0,
+      "gas:candidate-vibid:25420001432328": 2,
+      "gas:candidate-vibid:25420001431806": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234770&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234770&type=464",
@@ -9719,15 +9719,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 0,
-      "Вандакуров Александр Александрович": 0,
-      "Голованев Дмитрий Павлович": 2,
-      "Игнатов Виктор Александрович": 16,
-      "Лукашев Дмитрий Александрович": 0,
-      "Попов Дмитрий Александрович": 0,
-      "Холявченко Дмитрий Сергеевич": 0,
-      "Шмендель Ольга Николаевна": 0,
-      "Яковлев Роман Борисович": 0
+      "gas:candidate-vibid:25420001431016": 0,
+      "gas:candidate-vibid:25420001363753": 0,
+      "gas:candidate-vibid:25420001360219": 2,
+      "gas:candidate-vibid:25420001430586": 16,
+      "gas:candidate-vibid:25420001433467": 0,
+      "gas:candidate-vibid:25420001430998": 0,
+      "gas:candidate-vibid:25420001434428": 0,
+      "gas:candidate-vibid:25420001432328": 0,
+      "gas:candidate-vibid:25420001431806": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234770&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234770&type=464",
@@ -9778,15 +9778,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 4,
-      "Вандакуров Александр Александрович": 4,
-      "Голованев Дмитрий Павлович": 19,
-      "Игнатов Виктор Александрович": 64,
-      "Лукашев Дмитрий Александрович": 2,
-      "Попов Дмитрий Александрович": 2,
-      "Холявченко Дмитрий Сергеевич": 1,
-      "Шмендель Ольга Николаевна": 5,
-      "Яковлев Роман Борисович": 7
+      "gas:candidate-vibid:25420001431016": 4,
+      "gas:candidate-vibid:25420001363753": 4,
+      "gas:candidate-vibid:25420001360219": 19,
+      "gas:candidate-vibid:25420001430586": 64,
+      "gas:candidate-vibid:25420001433467": 2,
+      "gas:candidate-vibid:25420001430998": 2,
+      "gas:candidate-vibid:25420001434428": 1,
+      "gas:candidate-vibid:25420001432328": 5,
+      "gas:candidate-vibid:25420001431806": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234770&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234770&type=464",
@@ -9837,15 +9837,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 4,
-      "Вандакуров Александр Александрович": 11,
-      "Голованев Дмитрий Павлович": 34,
-      "Игнатов Виктор Александрович": 154,
-      "Лукашев Дмитрий Александрович": 7,
-      "Попов Дмитрий Александрович": 4,
-      "Холявченко Дмитрий Сергеевич": 6,
-      "Шмендель Ольга Николаевна": 11,
-      "Яковлев Роман Борисович": 14
+      "gas:candidate-vibid:25420001431016": 4,
+      "gas:candidate-vibid:25420001363753": 11,
+      "gas:candidate-vibid:25420001360219": 34,
+      "gas:candidate-vibid:25420001430586": 154,
+      "gas:candidate-vibid:25420001433467": 7,
+      "gas:candidate-vibid:25420001430998": 4,
+      "gas:candidate-vibid:25420001434428": 6,
+      "gas:candidate-vibid:25420001432328": 11,
+      "gas:candidate-vibid:25420001431806": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234770&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234770&type=464",
@@ -9896,15 +9896,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 4,
-      "Вандакуров Александр Александрович": 11,
-      "Голованев Дмитрий Павлович": 44,
-      "Игнатов Виктор Александрович": 107,
-      "Лукашев Дмитрий Александрович": 6,
-      "Попов Дмитрий Александрович": 4,
-      "Холявченко Дмитрий Сергеевич": 1,
-      "Шмендель Ольга Николаевна": 14,
-      "Яковлев Роман Борисович": 11
+      "gas:candidate-vibid:25420001431016": 4,
+      "gas:candidate-vibid:25420001363753": 11,
+      "gas:candidate-vibid:25420001360219": 44,
+      "gas:candidate-vibid:25420001430586": 107,
+      "gas:candidate-vibid:25420001433467": 6,
+      "gas:candidate-vibid:25420001430998": 4,
+      "gas:candidate-vibid:25420001434428": 1,
+      "gas:candidate-vibid:25420001432328": 14,
+      "gas:candidate-vibid:25420001431806": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234770&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234770&type=464",
@@ -9955,15 +9955,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 6,
-      "Вандакуров Александр Александрович": 14,
-      "Голованев Дмитрий Павлович": 64,
-      "Игнатов Виктор Александрович": 135,
-      "Лукашев Дмитрий Александрович": 8,
-      "Попов Дмитрий Александрович": 6,
-      "Холявченко Дмитрий Сергеевич": 4,
-      "Шмендель Ольга Николаевна": 19,
-      "Яковлев Роман Борисович": 31
+      "gas:candidate-vibid:25420001431016": 6,
+      "gas:candidate-vibid:25420001363753": 14,
+      "gas:candidate-vibid:25420001360219": 64,
+      "gas:candidate-vibid:25420001430586": 135,
+      "gas:candidate-vibid:25420001433467": 8,
+      "gas:candidate-vibid:25420001430998": 6,
+      "gas:candidate-vibid:25420001434428": 4,
+      "gas:candidate-vibid:25420001432328": 19,
+      "gas:candidate-vibid:25420001431806": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234770&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234770&type=464",
@@ -10014,15 +10014,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 4,
-      "Вандакуров Александр Александрович": 4,
-      "Голованев Дмитрий Павлович": 8,
-      "Игнатов Виктор Александрович": 24,
-      "Лукашев Дмитрий Александрович": 3,
-      "Попов Дмитрий Александрович": 1,
-      "Холявченко Дмитрий Сергеевич": 0,
-      "Шмендель Ольга Николаевна": 6,
-      "Яковлев Роман Борисович": 7
+      "gas:candidate-vibid:25420001431016": 4,
+      "gas:candidate-vibid:25420001363753": 4,
+      "gas:candidate-vibid:25420001360219": 8,
+      "gas:candidate-vibid:25420001430586": 24,
+      "gas:candidate-vibid:25420001433467": 3,
+      "gas:candidate-vibid:25420001430998": 1,
+      "gas:candidate-vibid:25420001434428": 0,
+      "gas:candidate-vibid:25420001432328": 6,
+      "gas:candidate-vibid:25420001431806": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234770&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234770&type=464",
@@ -10073,15 +10073,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 2,
-      "Вандакуров Александр Александрович": 2,
-      "Голованев Дмитрий Павлович": 13,
-      "Игнатов Виктор Александрович": 15,
-      "Лукашев Дмитрий Александрович": 0,
-      "Попов Дмитрий Александрович": 0,
-      "Холявченко Дмитрий Сергеевич": 0,
-      "Шмендель Ольга Николаевна": 2,
-      "Яковлев Роман Борисович": 17
+      "gas:candidate-vibid:25420001431016": 2,
+      "gas:candidate-vibid:25420001363753": 2,
+      "gas:candidate-vibid:25420001360219": 13,
+      "gas:candidate-vibid:25420001430586": 15,
+      "gas:candidate-vibid:25420001433467": 0,
+      "gas:candidate-vibid:25420001430998": 0,
+      "gas:candidate-vibid:25420001434428": 0,
+      "gas:candidate-vibid:25420001432328": 2,
+      "gas:candidate-vibid:25420001431806": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234770&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234770&type=464",
@@ -10132,15 +10132,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 7,
-      "Вандакуров Александр Александрович": 42,
-      "Голованев Дмитрий Павлович": 88,
-      "Игнатов Виктор Александрович": 265,
-      "Лукашев Дмитрий Александрович": 27,
-      "Попов Дмитрий Александрович": 8,
-      "Холявченко Дмитрий Сергеевич": 12,
-      "Шмендель Ольга Николаевна": 55,
-      "Яковлев Роман Борисович": 106
+      "gas:candidate-vibid:25420001431016": 7,
+      "gas:candidate-vibid:25420001363753": 42,
+      "gas:candidate-vibid:25420001360219": 88,
+      "gas:candidate-vibid:25420001430586": 265,
+      "gas:candidate-vibid:25420001433467": 27,
+      "gas:candidate-vibid:25420001430998": 8,
+      "gas:candidate-vibid:25420001434428": 12,
+      "gas:candidate-vibid:25420001432328": 55,
+      "gas:candidate-vibid:25420001431806": 106
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234770&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234770&type=464",
@@ -10191,15 +10191,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 7,
-      "Вандакуров Александр Александрович": 36,
-      "Голованев Дмитрий Павлович": 115,
-      "Игнатов Виктор Александрович": 215,
-      "Лукашев Дмитрий Александрович": 12,
-      "Попов Дмитрий Александрович": 12,
-      "Холявченко Дмитрий Сергеевич": 2,
-      "Шмендель Ольга Николаевна": 46,
-      "Яковлев Роман Борисович": 80
+      "gas:candidate-vibid:25420001431016": 7,
+      "gas:candidate-vibid:25420001363753": 36,
+      "gas:candidate-vibid:25420001360219": 115,
+      "gas:candidate-vibid:25420001430586": 215,
+      "gas:candidate-vibid:25420001433467": 12,
+      "gas:candidate-vibid:25420001430998": 12,
+      "gas:candidate-vibid:25420001434428": 2,
+      "gas:candidate-vibid:25420001432328": 46,
+      "gas:candidate-vibid:25420001431806": 80
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234770&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234770&type=464",
@@ -10250,15 +10250,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 13,
-      "Вандакуров Александр Александрович": 29,
-      "Голованев Дмитрий Павлович": 84,
-      "Игнатов Виктор Александрович": 200,
-      "Лукашев Дмитрий Александрович": 16,
-      "Попов Дмитрий Александрович": 10,
-      "Холявченко Дмитрий Сергеевич": 3,
-      "Шмендель Ольга Николаевна": 44,
-      "Яковлев Роман Борисович": 76
+      "gas:candidate-vibid:25420001431016": 13,
+      "gas:candidate-vibid:25420001363753": 29,
+      "gas:candidate-vibid:25420001360219": 84,
+      "gas:candidate-vibid:25420001430586": 200,
+      "gas:candidate-vibid:25420001433467": 16,
+      "gas:candidate-vibid:25420001430998": 10,
+      "gas:candidate-vibid:25420001434428": 3,
+      "gas:candidate-vibid:25420001432328": 44,
+      "gas:candidate-vibid:25420001431806": 76
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234770&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234770&type=464",
@@ -10309,15 +10309,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 9,
-      "Вандакуров Александр Александрович": 20,
-      "Голованев Дмитрий Павлович": 56,
-      "Игнатов Виктор Александрович": 215,
-      "Лукашев Дмитрий Александрович": 11,
-      "Попов Дмитрий Александрович": 11,
-      "Холявченко Дмитрий Сергеевич": 9,
-      "Шмендель Ольга Николаевна": 35,
-      "Яковлев Роман Борисович": 80
+      "gas:candidate-vibid:25420001431016": 9,
+      "gas:candidate-vibid:25420001363753": 20,
+      "gas:candidate-vibid:25420001360219": 56,
+      "gas:candidate-vibid:25420001430586": 215,
+      "gas:candidate-vibid:25420001433467": 11,
+      "gas:candidate-vibid:25420001430998": 11,
+      "gas:candidate-vibid:25420001434428": 9,
+      "gas:candidate-vibid:25420001432328": 35,
+      "gas:candidate-vibid:25420001431806": 80
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234770&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234770&type=464",
@@ -10368,15 +10368,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 43,
-      "Вандакуров Александр Александрович": 67,
-      "Голованев Дмитрий Павлович": 192,
-      "Игнатов Виктор Александрович": 428,
-      "Лукашев Дмитрий Александрович": 30,
-      "Попов Дмитрий Александрович": 36,
-      "Холявченко Дмитрий Сергеевич": 21,
-      "Шмендель Ольга Николаевна": 73,
-      "Яковлев Роман Борисович": 104
+      "gas:candidate-vibid:25420001431016": 43,
+      "gas:candidate-vibid:25420001363753": 67,
+      "gas:candidate-vibid:25420001360219": 192,
+      "gas:candidate-vibid:25420001430586": 428,
+      "gas:candidate-vibid:25420001433467": 30,
+      "gas:candidate-vibid:25420001430998": 36,
+      "gas:candidate-vibid:25420001434428": 21,
+      "gas:candidate-vibid:25420001432328": 73,
+      "gas:candidate-vibid:25420001431806": 104
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234770&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234770&type=464",
@@ -10427,15 +10427,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 10,
-      "Вандакуров Александр Александрович": 43,
-      "Голованев Дмитрий Павлович": 108,
-      "Игнатов Виктор Александрович": 284,
-      "Лукашев Дмитрий Александрович": 20,
-      "Попов Дмитрий Александрович": 9,
-      "Холявченко Дмитрий Сергеевич": 9,
-      "Шмендель Ольга Николаевна": 49,
-      "Яковлев Роман Борисович": 105
+      "gas:candidate-vibid:25420001431016": 10,
+      "gas:candidate-vibid:25420001363753": 43,
+      "gas:candidate-vibid:25420001360219": 108,
+      "gas:candidate-vibid:25420001430586": 284,
+      "gas:candidate-vibid:25420001433467": 20,
+      "gas:candidate-vibid:25420001430998": 9,
+      "gas:candidate-vibid:25420001434428": 9,
+      "gas:candidate-vibid:25420001432328": 49,
+      "gas:candidate-vibid:25420001431806": 105
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234770&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234770&type=464",
@@ -10486,15 +10486,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 6,
-      "Вандакуров Александр Александрович": 20,
-      "Голованев Дмитрий Павлович": 92,
-      "Игнатов Виктор Александрович": 204,
-      "Лукашев Дмитрий Александрович": 14,
-      "Попов Дмитрий Александрович": 10,
-      "Холявченко Дмитрий Сергеевич": 10,
-      "Шмендель Ольга Николаевна": 36,
-      "Яковлев Роман Борисович": 58
+      "gas:candidate-vibid:25420001431016": 6,
+      "gas:candidate-vibid:25420001363753": 20,
+      "gas:candidate-vibid:25420001360219": 92,
+      "gas:candidate-vibid:25420001430586": 204,
+      "gas:candidate-vibid:25420001433467": 14,
+      "gas:candidate-vibid:25420001430998": 10,
+      "gas:candidate-vibid:25420001434428": 10,
+      "gas:candidate-vibid:25420001432328": 36,
+      "gas:candidate-vibid:25420001431806": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234770&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234770&type=464",
@@ -10545,15 +10545,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 7,
-      "Вандакуров Александр Александрович": 22,
-      "Голованев Дмитрий Павлович": 85,
-      "Игнатов Виктор Александрович": 161,
-      "Лукашев Дмитрий Александрович": 11,
-      "Попов Дмитрий Александрович": 7,
-      "Холявченко Дмитрий Сергеевич": 4,
-      "Шмендель Ольга Николаевна": 32,
-      "Яковлев Роман Борисович": 47
+      "gas:candidate-vibid:25420001431016": 7,
+      "gas:candidate-vibid:25420001363753": 22,
+      "gas:candidate-vibid:25420001360219": 85,
+      "gas:candidate-vibid:25420001430586": 161,
+      "gas:candidate-vibid:25420001433467": 11,
+      "gas:candidate-vibid:25420001430998": 7,
+      "gas:candidate-vibid:25420001434428": 4,
+      "gas:candidate-vibid:25420001432328": 32,
+      "gas:candidate-vibid:25420001431806": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234770&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234770&type=464",
@@ -10604,15 +10604,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 10,
-      "Вандакуров Александр Александрович": 26,
-      "Голованев Дмитрий Павлович": 111,
-      "Игнатов Виктор Александрович": 238,
-      "Лукашев Дмитрий Александрович": 10,
-      "Попов Дмитрий Александрович": 7,
-      "Холявченко Дмитрий Сергеевич": 4,
-      "Шмендель Ольга Николаевна": 40,
-      "Яковлев Роман Борисович": 79
+      "gas:candidate-vibid:25420001431016": 10,
+      "gas:candidate-vibid:25420001363753": 26,
+      "gas:candidate-vibid:25420001360219": 111,
+      "gas:candidate-vibid:25420001430586": 238,
+      "gas:candidate-vibid:25420001433467": 10,
+      "gas:candidate-vibid:25420001430998": 7,
+      "gas:candidate-vibid:25420001434428": 4,
+      "gas:candidate-vibid:25420001432328": 40,
+      "gas:candidate-vibid:25420001431806": 79
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234770&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234770&type=464",
@@ -10663,15 +10663,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 7,
-      "Вандакуров Александр Александрович": 44,
-      "Голованев Дмитрий Павлович": 176,
-      "Игнатов Виктор Александрович": 230,
-      "Лукашев Дмитрий Александрович": 16,
-      "Попов Дмитрий Александрович": 9,
-      "Холявченко Дмитрий Сергеевич": 7,
-      "Шмендель Ольга Николаевна": 37,
-      "Яковлев Роман Борисович": 74
+      "gas:candidate-vibid:25420001431016": 7,
+      "gas:candidate-vibid:25420001363753": 44,
+      "gas:candidate-vibid:25420001360219": 176,
+      "gas:candidate-vibid:25420001430586": 230,
+      "gas:candidate-vibid:25420001433467": 16,
+      "gas:candidate-vibid:25420001430998": 9,
+      "gas:candidate-vibid:25420001434428": 7,
+      "gas:candidate-vibid:25420001432328": 37,
+      "gas:candidate-vibid:25420001431806": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234771&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234771&type=464",
@@ -10722,15 +10722,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 2,
-      "Вандакуров Александр Александрович": 25,
-      "Голованев Дмитрий Павлович": 119,
-      "Игнатов Виктор Александрович": 147,
-      "Лукашев Дмитрий Александрович": 13,
-      "Попов Дмитрий Александрович": 0,
-      "Холявченко Дмитрий Сергеевич": 4,
-      "Шмендель Ольга Николаевна": 23,
-      "Яковлев Роман Борисович": 65
+      "gas:candidate-vibid:25420001431016": 2,
+      "gas:candidate-vibid:25420001363753": 25,
+      "gas:candidate-vibid:25420001360219": 119,
+      "gas:candidate-vibid:25420001430586": 147,
+      "gas:candidate-vibid:25420001433467": 13,
+      "gas:candidate-vibid:25420001430998": 0,
+      "gas:candidate-vibid:25420001434428": 4,
+      "gas:candidate-vibid:25420001432328": 23,
+      "gas:candidate-vibid:25420001431806": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234771&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234771&type=464",
@@ -10781,15 +10781,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 4,
-      "Вандакуров Александр Александрович": 15,
-      "Голованев Дмитрий Павлович": 56,
-      "Игнатов Виктор Александрович": 79,
-      "Лукашев Дмитрий Александрович": 5,
-      "Попов Дмитрий Александрович": 2,
-      "Холявченко Дмитрий Сергеевич": 1,
-      "Шмендель Ольга Николаевна": 18,
-      "Яковлев Роман Борисович": 27
+      "gas:candidate-vibid:25420001431016": 4,
+      "gas:candidate-vibid:25420001363753": 15,
+      "gas:candidate-vibid:25420001360219": 56,
+      "gas:candidate-vibid:25420001430586": 79,
+      "gas:candidate-vibid:25420001433467": 5,
+      "gas:candidate-vibid:25420001430998": 2,
+      "gas:candidate-vibid:25420001434428": 1,
+      "gas:candidate-vibid:25420001432328": 18,
+      "gas:candidate-vibid:25420001431806": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234771&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234771&type=464",
@@ -10840,15 +10840,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 3,
-      "Вандакуров Александр Александрович": 12,
-      "Голованев Дмитрий Павлович": 38,
-      "Игнатов Виктор Александрович": 55,
-      "Лукашев Дмитрий Александрович": 5,
-      "Попов Дмитрий Александрович": 3,
-      "Холявченко Дмитрий Сергеевич": 1,
-      "Шмендель Ольга Николаевна": 21,
-      "Яковлев Роман Борисович": 23
+      "gas:candidate-vibid:25420001431016": 3,
+      "gas:candidate-vibid:25420001363753": 12,
+      "gas:candidate-vibid:25420001360219": 38,
+      "gas:candidate-vibid:25420001430586": 55,
+      "gas:candidate-vibid:25420001433467": 5,
+      "gas:candidate-vibid:25420001430998": 3,
+      "gas:candidate-vibid:25420001434428": 1,
+      "gas:candidate-vibid:25420001432328": 21,
+      "gas:candidate-vibid:25420001431806": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234771&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234771&type=464",
@@ -10899,15 +10899,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 4,
-      "Вандакуров Александр Александрович": 25,
-      "Голованев Дмитрий Павлович": 123,
-      "Игнатов Виктор Александрович": 194,
-      "Лукашев Дмитрий Александрович": 11,
-      "Попов Дмитрий Александрович": 12,
-      "Холявченко Дмитрий Сергеевич": 0,
-      "Шмендель Ольга Николаевна": 38,
-      "Яковлев Роман Борисович": 82
+      "gas:candidate-vibid:25420001431016": 4,
+      "gas:candidate-vibid:25420001363753": 25,
+      "gas:candidate-vibid:25420001360219": 123,
+      "gas:candidate-vibid:25420001430586": 194,
+      "gas:candidate-vibid:25420001433467": 11,
+      "gas:candidate-vibid:25420001430998": 12,
+      "gas:candidate-vibid:25420001434428": 0,
+      "gas:candidate-vibid:25420001432328": 38,
+      "gas:candidate-vibid:25420001431806": 82
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234771&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234771&type=464",
@@ -10958,15 +10958,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 7,
-      "Вандакуров Александр Александрович": 27,
-      "Голованев Дмитрий Павлович": 126,
-      "Игнатов Виктор Александрович": 209,
-      "Лукашев Дмитрий Александрович": 12,
-      "Попов Дмитрий Александрович": 1,
-      "Холявченко Дмитрий Сергеевич": 7,
-      "Шмендель Ольга Николаевна": 34,
-      "Яковлев Роман Борисович": 80
+      "gas:candidate-vibid:25420001431016": 7,
+      "gas:candidate-vibid:25420001363753": 27,
+      "gas:candidate-vibid:25420001360219": 126,
+      "gas:candidate-vibid:25420001430586": 209,
+      "gas:candidate-vibid:25420001433467": 12,
+      "gas:candidate-vibid:25420001430998": 1,
+      "gas:candidate-vibid:25420001434428": 7,
+      "gas:candidate-vibid:25420001432328": 34,
+      "gas:candidate-vibid:25420001431806": 80
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234771&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234771&type=464",
@@ -11017,15 +11017,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 10,
-      "Вандакуров Александр Александрович": 45,
-      "Голованев Дмитрий Павлович": 123,
-      "Игнатов Виктор Александрович": 286,
-      "Лукашев Дмитрий Александрович": 19,
-      "Попов Дмитрий Александрович": 3,
-      "Холявченко Дмитрий Сергеевич": 5,
-      "Шмендель Ольга Николаевна": 43,
-      "Яковлев Роман Борисович": 90
+      "gas:candidate-vibid:25420001431016": 10,
+      "gas:candidate-vibid:25420001363753": 45,
+      "gas:candidate-vibid:25420001360219": 123,
+      "gas:candidate-vibid:25420001430586": 286,
+      "gas:candidate-vibid:25420001433467": 19,
+      "gas:candidate-vibid:25420001430998": 3,
+      "gas:candidate-vibid:25420001434428": 5,
+      "gas:candidate-vibid:25420001432328": 43,
+      "gas:candidate-vibid:25420001431806": 90
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234771&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234771&type=464",
@@ -11076,15 +11076,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 6,
-      "Вандакуров Александр Александрович": 28,
-      "Голованев Дмитрий Павлович": 100,
-      "Игнатов Виктор Александрович": 165,
-      "Лукашев Дмитрий Александрович": 10,
-      "Попов Дмитрий Александрович": 8,
-      "Холявченко Дмитрий Сергеевич": 6,
-      "Шмендель Ольга Николаевна": 20,
-      "Яковлев Роман Борисович": 56
+      "gas:candidate-vibid:25420001431016": 6,
+      "gas:candidate-vibid:25420001363753": 28,
+      "gas:candidate-vibid:25420001360219": 100,
+      "gas:candidate-vibid:25420001430586": 165,
+      "gas:candidate-vibid:25420001433467": 10,
+      "gas:candidate-vibid:25420001430998": 8,
+      "gas:candidate-vibid:25420001434428": 6,
+      "gas:candidate-vibid:25420001432328": 20,
+      "gas:candidate-vibid:25420001431806": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234771&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234771&type=464",
@@ -11135,15 +11135,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 13,
-      "Вандакуров Александр Александрович": 37,
-      "Голованев Дмитрий Павлович": 124,
-      "Игнатов Виктор Александрович": 227,
-      "Лукашев Дмитрий Александрович": 14,
-      "Попов Дмитрий Александрович": 11,
-      "Холявченко Дмитрий Сергеевич": 4,
-      "Шмендель Ольга Николаевна": 37,
-      "Яковлев Роман Борисович": 80
+      "gas:candidate-vibid:25420001431016": 13,
+      "gas:candidate-vibid:25420001363753": 37,
+      "gas:candidate-vibid:25420001360219": 124,
+      "gas:candidate-vibid:25420001430586": 227,
+      "gas:candidate-vibid:25420001433467": 14,
+      "gas:candidate-vibid:25420001430998": 11,
+      "gas:candidate-vibid:25420001434428": 4,
+      "gas:candidate-vibid:25420001432328": 37,
+      "gas:candidate-vibid:25420001431806": 80
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234771&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234771&type=464",
@@ -11194,15 +11194,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 8,
-      "Вандакуров Александр Александрович": 26,
-      "Голованев Дмитрий Павлович": 37,
-      "Игнатов Виктор Александрович": 168,
-      "Лукашев Дмитрий Александрович": 9,
-      "Попов Дмитрий Александрович": 8,
-      "Холявченко Дмитрий Сергеевич": 3,
-      "Шмендель Ольга Николаевна": 22,
-      "Яковлев Роман Борисович": 29
+      "gas:candidate-vibid:25420001431016": 8,
+      "gas:candidate-vibid:25420001363753": 26,
+      "gas:candidate-vibid:25420001360219": 37,
+      "gas:candidate-vibid:25420001430586": 168,
+      "gas:candidate-vibid:25420001433467": 9,
+      "gas:candidate-vibid:25420001430998": 8,
+      "gas:candidate-vibid:25420001434428": 3,
+      "gas:candidate-vibid:25420001432328": 22,
+      "gas:candidate-vibid:25420001431806": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234771&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234771&type=464",
@@ -11253,15 +11253,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 1,
-      "Вандакуров Александр Александрович": 6,
-      "Голованев Дмитрий Павлович": 21,
-      "Игнатов Виктор Александрович": 27,
-      "Лукашев Дмитрий Александрович": 1,
-      "Попов Дмитрий Александрович": 0,
-      "Холявченко Дмитрий Сергеевич": 2,
-      "Шмендель Ольга Николаевна": 11,
-      "Яковлев Роман Борисович": 7
+      "gas:candidate-vibid:25420001431016": 1,
+      "gas:candidate-vibid:25420001363753": 6,
+      "gas:candidate-vibid:25420001360219": 21,
+      "gas:candidate-vibid:25420001430586": 27,
+      "gas:candidate-vibid:25420001433467": 1,
+      "gas:candidate-vibid:25420001430998": 0,
+      "gas:candidate-vibid:25420001434428": 2,
+      "gas:candidate-vibid:25420001432328": 11,
+      "gas:candidate-vibid:25420001431806": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234771&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234771&type=464",
@@ -11312,15 +11312,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 0,
-      "Вандакуров Александр Александрович": 3,
-      "Голованев Дмитрий Павлович": 20,
-      "Игнатов Виктор Александрович": 35,
-      "Лукашев Дмитрий Александрович": 4,
-      "Попов Дмитрий Александрович": 0,
-      "Холявченко Дмитрий Сергеевич": 0,
-      "Шмендель Ольга Николаевна": 2,
-      "Яковлев Роман Борисович": 5
+      "gas:candidate-vibid:25420001431016": 0,
+      "gas:candidate-vibid:25420001363753": 3,
+      "gas:candidate-vibid:25420001360219": 20,
+      "gas:candidate-vibid:25420001430586": 35,
+      "gas:candidate-vibid:25420001433467": 4,
+      "gas:candidate-vibid:25420001430998": 0,
+      "gas:candidate-vibid:25420001434428": 0,
+      "gas:candidate-vibid:25420001432328": 2,
+      "gas:candidate-vibid:25420001431806": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234771&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234771&type=464",
@@ -11371,15 +11371,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 11,
-      "Вандакуров Александр Александрович": 17,
-      "Голованев Дмитрий Павлович": 26,
-      "Игнатов Виктор Александрович": 62,
-      "Лукашев Дмитрий Александрович": 3,
-      "Попов Дмитрий Александрович": 2,
-      "Холявченко Дмитрий Сергеевич": 2,
-      "Шмендель Ольга Николаевна": 10,
-      "Яковлев Роман Борисович": 29
+      "gas:candidate-vibid:25420001431016": 11,
+      "gas:candidate-vibid:25420001363753": 17,
+      "gas:candidate-vibid:25420001360219": 26,
+      "gas:candidate-vibid:25420001430586": 62,
+      "gas:candidate-vibid:25420001433467": 3,
+      "gas:candidate-vibid:25420001430998": 2,
+      "gas:candidate-vibid:25420001434428": 2,
+      "gas:candidate-vibid:25420001432328": 10,
+      "gas:candidate-vibid:25420001431806": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234771&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234771&type=464",
@@ -11430,15 +11430,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 2,
-      "Вандакуров Александр Александрович": 1,
-      "Голованев Дмитрий Павлович": 10,
-      "Игнатов Виктор Александрович": 22,
-      "Лукашев Дмитрий Александрович": 2,
-      "Попов Дмитрий Александрович": 0,
-      "Холявченко Дмитрий Сергеевич": 0,
-      "Шмендель Ольга Николаевна": 3,
-      "Яковлев Роман Борисович": 12
+      "gas:candidate-vibid:25420001431016": 2,
+      "gas:candidate-vibid:25420001363753": 1,
+      "gas:candidate-vibid:25420001360219": 10,
+      "gas:candidate-vibid:25420001430586": 22,
+      "gas:candidate-vibid:25420001433467": 2,
+      "gas:candidate-vibid:25420001430998": 0,
+      "gas:candidate-vibid:25420001434428": 0,
+      "gas:candidate-vibid:25420001432328": 3,
+      "gas:candidate-vibid:25420001431806": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234771&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234771&type=464",
@@ -11489,15 +11489,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 1,
-      "Вандакуров Александр Александрович": 0,
-      "Голованев Дмитрий Павлович": 3,
-      "Игнатов Виктор Александрович": 19,
-      "Лукашев Дмитрий Александрович": 1,
-      "Попов Дмитрий Александрович": 2,
-      "Холявченко Дмитрий Сергеевич": 0,
-      "Шмендель Ольга Николаевна": 0,
-      "Яковлев Роман Борисович": 4
+      "gas:candidate-vibid:25420001431016": 1,
+      "gas:candidate-vibid:25420001363753": 0,
+      "gas:candidate-vibid:25420001360219": 3,
+      "gas:candidate-vibid:25420001430586": 19,
+      "gas:candidate-vibid:25420001433467": 1,
+      "gas:candidate-vibid:25420001430998": 2,
+      "gas:candidate-vibid:25420001434428": 0,
+      "gas:candidate-vibid:25420001432328": 0,
+      "gas:candidate-vibid:25420001431806": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234771&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234771&type=464",
@@ -11548,15 +11548,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 2,
-      "Вандакуров Александр Александрович": 10,
-      "Голованев Дмитрий Павлович": 84,
-      "Игнатов Виктор Александрович": 100,
-      "Лукашев Дмитрий Александрович": 3,
-      "Попов Дмитрий Александрович": 5,
-      "Холявченко Дмитрий Сергеевич": 1,
-      "Шмендель Ольга Николаевна": 16,
-      "Яковлев Роман Борисович": 20
+      "gas:candidate-vibid:25420001431016": 2,
+      "gas:candidate-vibid:25420001363753": 10,
+      "gas:candidate-vibid:25420001360219": 84,
+      "gas:candidate-vibid:25420001430586": 100,
+      "gas:candidate-vibid:25420001433467": 3,
+      "gas:candidate-vibid:25420001430998": 5,
+      "gas:candidate-vibid:25420001434428": 1,
+      "gas:candidate-vibid:25420001432328": 16,
+      "gas:candidate-vibid:25420001431806": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234771&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234771&type=464",
@@ -11607,15 +11607,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 0,
-      "Вандакуров Александр Александрович": 0,
-      "Голованев Дмитрий Павлович": 10,
-      "Игнатов Виктор Александрович": 14,
-      "Лукашев Дмитрий Александрович": 0,
-      "Попов Дмитрий Александрович": 0,
-      "Холявченко Дмитрий Сергеевич": 0,
-      "Шмендель Ольга Николаевна": 0,
-      "Яковлев Роман Борисович": 7
+      "gas:candidate-vibid:25420001431016": 0,
+      "gas:candidate-vibid:25420001363753": 0,
+      "gas:candidate-vibid:25420001360219": 10,
+      "gas:candidate-vibid:25420001430586": 14,
+      "gas:candidate-vibid:25420001433467": 0,
+      "gas:candidate-vibid:25420001430998": 0,
+      "gas:candidate-vibid:25420001434428": 0,
+      "gas:candidate-vibid:25420001432328": 0,
+      "gas:candidate-vibid:25420001431806": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234771&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234771&type=464",
@@ -11666,15 +11666,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 0,
-      "Вандакуров Александр Александрович": 1,
-      "Голованев Дмитрий Павлович": 19,
-      "Игнатов Виктор Александрович": 71,
-      "Лукашев Дмитрий Александрович": 0,
-      "Попов Дмитрий Александрович": 2,
-      "Холявченко Дмитрий Сергеевич": 0,
-      "Шмендель Ольга Николаевна": 2,
-      "Яковлев Роман Борисович": 4
+      "gas:candidate-vibid:25420001431016": 0,
+      "gas:candidate-vibid:25420001363753": 1,
+      "gas:candidate-vibid:25420001360219": 19,
+      "gas:candidate-vibid:25420001430586": 71,
+      "gas:candidate-vibid:25420001433467": 0,
+      "gas:candidate-vibid:25420001430998": 2,
+      "gas:candidate-vibid:25420001434428": 0,
+      "gas:candidate-vibid:25420001432328": 2,
+      "gas:candidate-vibid:25420001431806": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234771&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234771&type=464",
@@ -11725,15 +11725,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 1,
-      "Вандакуров Александр Александрович": 0,
-      "Голованев Дмитрий Павлович": 11,
-      "Игнатов Виктор Александрович": 60,
-      "Лукашев Дмитрий Александрович": 2,
-      "Попов Дмитрий Александрович": 0,
-      "Холявченко Дмитрий Сергеевич": 0,
-      "Шмендель Ольга Николаевна": 4,
-      "Яковлев Роман Борисович": 6
+      "gas:candidate-vibid:25420001431016": 1,
+      "gas:candidate-vibid:25420001363753": 0,
+      "gas:candidate-vibid:25420001360219": 11,
+      "gas:candidate-vibid:25420001430586": 60,
+      "gas:candidate-vibid:25420001433467": 2,
+      "gas:candidate-vibid:25420001430998": 0,
+      "gas:candidate-vibid:25420001434428": 0,
+      "gas:candidate-vibid:25420001432328": 4,
+      "gas:candidate-vibid:25420001431806": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234771&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234771&type=464",
@@ -11784,15 +11784,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 3,
-      "Вандакуров Александр Александрович": 18,
-      "Голованев Дмитрий Павлович": 35,
-      "Игнатов Виктор Александрович": 89,
-      "Лукашев Дмитрий Александрович": 5,
-      "Попов Дмитрий Александрович": 5,
-      "Холявченко Дмитрий Сергеевич": 1,
-      "Шмендель Ольга Николаевна": 20,
-      "Яковлев Роман Борисович": 20
+      "gas:candidate-vibid:25420001431016": 3,
+      "gas:candidate-vibid:25420001363753": 18,
+      "gas:candidate-vibid:25420001360219": 35,
+      "gas:candidate-vibid:25420001430586": 89,
+      "gas:candidate-vibid:25420001433467": 5,
+      "gas:candidate-vibid:25420001430998": 5,
+      "gas:candidate-vibid:25420001434428": 1,
+      "gas:candidate-vibid:25420001432328": 20,
+      "gas:candidate-vibid:25420001431806": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234771&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234771&type=464",
@@ -11843,15 +11843,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 2,
-      "Вандакуров Александр Александрович": 5,
-      "Голованев Дмитрий Павлович": 38,
-      "Игнатов Виктор Александрович": 41,
-      "Лукашев Дмитрий Александрович": 6,
-      "Попов Дмитрий Александрович": 1,
-      "Холявченко Дмитрий Сергеевич": 0,
-      "Шмендель Ольга Николаевна": 7,
-      "Яковлев Роман Борисович": 1
+      "gas:candidate-vibid:25420001431016": 2,
+      "gas:candidate-vibid:25420001363753": 5,
+      "gas:candidate-vibid:25420001360219": 38,
+      "gas:candidate-vibid:25420001430586": 41,
+      "gas:candidate-vibid:25420001433467": 6,
+      "gas:candidate-vibid:25420001430998": 1,
+      "gas:candidate-vibid:25420001434428": 0,
+      "gas:candidate-vibid:25420001432328": 7,
+      "gas:candidate-vibid:25420001431806": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234771&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234771&type=464",
@@ -11902,15 +11902,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 2,
-      "Вандакуров Александр Александрович": 14,
-      "Голованев Дмитрий Павлович": 37,
-      "Игнатов Виктор Александрович": 58,
-      "Лукашев Дмитрий Александрович": 7,
-      "Попов Дмитрий Александрович": 7,
-      "Холявченко Дмитрий Сергеевич": 0,
-      "Шмендель Ольга Николаевна": 11,
-      "Яковлев Роман Борисович": 14
+      "gas:candidate-vibid:25420001431016": 2,
+      "gas:candidate-vibid:25420001363753": 14,
+      "gas:candidate-vibid:25420001360219": 37,
+      "gas:candidate-vibid:25420001430586": 58,
+      "gas:candidate-vibid:25420001433467": 7,
+      "gas:candidate-vibid:25420001430998": 7,
+      "gas:candidate-vibid:25420001434428": 0,
+      "gas:candidate-vibid:25420001432328": 11,
+      "gas:candidate-vibid:25420001431806": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234771&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234771&type=464",
@@ -11961,15 +11961,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 11,
-      "Вандакуров Александр Александрович": 17,
-      "Голованев Дмитрий Павлович": 68,
-      "Игнатов Виктор Александрович": 99,
-      "Лукашев Дмитрий Александрович": 4,
-      "Попов Дмитрий Александрович": 4,
-      "Холявченко Дмитрий Сергеевич": 1,
-      "Шмендель Ольга Николаевна": 22,
-      "Яковлев Роман Борисович": 24
+      "gas:candidate-vibid:25420001431016": 11,
+      "gas:candidate-vibid:25420001363753": 17,
+      "gas:candidate-vibid:25420001360219": 68,
+      "gas:candidate-vibid:25420001430586": 99,
+      "gas:candidate-vibid:25420001433467": 4,
+      "gas:candidate-vibid:25420001430998": 4,
+      "gas:candidate-vibid:25420001434428": 1,
+      "gas:candidate-vibid:25420001432328": 22,
+      "gas:candidate-vibid:25420001431806": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234771&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234771&type=464",
@@ -12020,15 +12020,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 0,
-      "Вандакуров Александр Александрович": 3,
-      "Голованев Дмитрий Павлович": 10,
-      "Игнатов Виктор Александрович": 20,
-      "Лукашев Дмитрий Александрович": 1,
-      "Попов Дмитрий Александрович": 1,
-      "Холявченко Дмитрий Сергеевич": 1,
-      "Шмендель Ольга Николаевна": 1,
-      "Яковлев Роман Борисович": 0
+      "gas:candidate-vibid:25420001431016": 0,
+      "gas:candidate-vibid:25420001363753": 3,
+      "gas:candidate-vibid:25420001360219": 10,
+      "gas:candidate-vibid:25420001430586": 20,
+      "gas:candidate-vibid:25420001433467": 1,
+      "gas:candidate-vibid:25420001430998": 1,
+      "gas:candidate-vibid:25420001434428": 1,
+      "gas:candidate-vibid:25420001432328": 1,
+      "gas:candidate-vibid:25420001431806": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234771&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234771&type=464",
@@ -12079,15 +12079,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 2,
-      "Вандакуров Александр Александрович": 9,
-      "Голованев Дмитрий Павлович": 39,
-      "Игнатов Виктор Александрович": 100,
-      "Лукашев Дмитрий Александрович": 0,
-      "Попов Дмитрий Александрович": 0,
-      "Холявченко Дмитрий Сергеевич": 1,
-      "Шмендель Ольга Николаевна": 1,
-      "Яковлев Роман Борисович": 22
+      "gas:candidate-vibid:25420001431016": 2,
+      "gas:candidate-vibid:25420001363753": 9,
+      "gas:candidate-vibid:25420001360219": 39,
+      "gas:candidate-vibid:25420001430586": 100,
+      "gas:candidate-vibid:25420001433467": 0,
+      "gas:candidate-vibid:25420001430998": 0,
+      "gas:candidate-vibid:25420001434428": 1,
+      "gas:candidate-vibid:25420001432328": 1,
+      "gas:candidate-vibid:25420001431806": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234771&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234771&type=464",
@@ -12138,15 +12138,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 1,
-      "Вандакуров Александр Александрович": 10,
-      "Голованев Дмитрий Павлович": 42,
-      "Игнатов Виктор Александрович": 136,
-      "Лукашев Дмитрий Александрович": 2,
-      "Попов Дмитрий Александрович": 2,
-      "Холявченко Дмитрий Сергеевич": 0,
-      "Шмендель Ольга Николаевна": 11,
-      "Яковлев Роман Борисович": 8
+      "gas:candidate-vibid:25420001431016": 1,
+      "gas:candidate-vibid:25420001363753": 10,
+      "gas:candidate-vibid:25420001360219": 42,
+      "gas:candidate-vibid:25420001430586": 136,
+      "gas:candidate-vibid:25420001433467": 2,
+      "gas:candidate-vibid:25420001430998": 2,
+      "gas:candidate-vibid:25420001434428": 0,
+      "gas:candidate-vibid:25420001432328": 11,
+      "gas:candidate-vibid:25420001431806": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234771&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234771&type=464",
@@ -12197,15 +12197,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 0,
-      "Вандакуров Александр Александрович": 11,
-      "Голованев Дмитрий Павлович": 58,
-      "Игнатов Виктор Александрович": 124,
-      "Лукашев Дмитрий Александрович": 7,
-      "Попов Дмитрий Александрович": 1,
-      "Холявченко Дмитрий Сергеевич": 0,
-      "Шмендель Ольга Николаевна": 12,
-      "Яковлев Роман Борисович": 14
+      "gas:candidate-vibid:25420001431016": 0,
+      "gas:candidate-vibid:25420001363753": 11,
+      "gas:candidate-vibid:25420001360219": 58,
+      "gas:candidate-vibid:25420001430586": 124,
+      "gas:candidate-vibid:25420001433467": 7,
+      "gas:candidate-vibid:25420001430998": 1,
+      "gas:candidate-vibid:25420001434428": 0,
+      "gas:candidate-vibid:25420001432328": 12,
+      "gas:candidate-vibid:25420001431806": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234771&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234771&type=464",
@@ -12256,15 +12256,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 1,
-      "Вандакуров Александр Александрович": 3,
-      "Голованев Дмитрий Павлович": 29,
-      "Игнатов Виктор Александрович": 49,
-      "Лукашев Дмитрий Александрович": 2,
-      "Попов Дмитрий Александрович": 1,
-      "Холявченко Дмитрий Сергеевич": 2,
-      "Шмендель Ольга Николаевна": 10,
-      "Яковлев Роман Борисович": 6
+      "gas:candidate-vibid:25420001431016": 1,
+      "gas:candidate-vibid:25420001363753": 3,
+      "gas:candidate-vibid:25420001360219": 29,
+      "gas:candidate-vibid:25420001430586": 49,
+      "gas:candidate-vibid:25420001433467": 2,
+      "gas:candidate-vibid:25420001430998": 1,
+      "gas:candidate-vibid:25420001434428": 2,
+      "gas:candidate-vibid:25420001432328": 10,
+      "gas:candidate-vibid:25420001431806": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234771&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234771&type=464",
@@ -12315,15 +12315,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 3,
-      "Вандакуров Александр Александрович": 1,
-      "Голованев Дмитрий Павлович": 7,
-      "Игнатов Виктор Александрович": 49,
-      "Лукашев Дмитрий Александрович": 0,
-      "Попов Дмитрий Александрович": 0,
-      "Холявченко Дмитрий Сергеевич": 0,
-      "Шмендель Ольга Николаевна": 5,
-      "Яковлев Роман Борисович": 2
+      "gas:candidate-vibid:25420001431016": 3,
+      "gas:candidate-vibid:25420001363753": 1,
+      "gas:candidate-vibid:25420001360219": 7,
+      "gas:candidate-vibid:25420001430586": 49,
+      "gas:candidate-vibid:25420001433467": 0,
+      "gas:candidate-vibid:25420001430998": 0,
+      "gas:candidate-vibid:25420001434428": 0,
+      "gas:candidate-vibid:25420001432328": 5,
+      "gas:candidate-vibid:25420001431806": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234771&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234771&type=464",
@@ -12374,15 +12374,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 7,
-      "Вандакуров Александр Александрович": 7,
-      "Голованев Дмитрий Павлович": 68,
-      "Игнатов Виктор Александрович": 112,
-      "Лукашев Дмитрий Александрович": 9,
-      "Попов Дмитрий Александрович": 3,
-      "Холявченко Дмитрий Сергеевич": 3,
-      "Шмендель Ольга Николаевна": 19,
-      "Яковлев Роман Борисович": 16
+      "gas:candidate-vibid:25420001431016": 7,
+      "gas:candidate-vibid:25420001363753": 7,
+      "gas:candidate-vibid:25420001360219": 68,
+      "gas:candidate-vibid:25420001430586": 112,
+      "gas:candidate-vibid:25420001433467": 9,
+      "gas:candidate-vibid:25420001430998": 3,
+      "gas:candidate-vibid:25420001434428": 3,
+      "gas:candidate-vibid:25420001432328": 19,
+      "gas:candidate-vibid:25420001431806": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234771&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234771&type=464",
@@ -12433,15 +12433,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 2,
-      "Вандакуров Александр Александрович": 8,
-      "Голованев Дмитрий Павлович": 35,
-      "Игнатов Виктор Александрович": 121,
-      "Лукашев Дмитрий Александрович": 5,
-      "Попов Дмитрий Александрович": 1,
-      "Холявченко Дмитрий Сергеевич": 1,
-      "Шмендель Ольга Николаевна": 10,
-      "Яковлев Роман Борисович": 21
+      "gas:candidate-vibid:25420001431016": 2,
+      "gas:candidate-vibid:25420001363753": 8,
+      "gas:candidate-vibid:25420001360219": 35,
+      "gas:candidate-vibid:25420001430586": 121,
+      "gas:candidate-vibid:25420001433467": 5,
+      "gas:candidate-vibid:25420001430998": 1,
+      "gas:candidate-vibid:25420001434428": 1,
+      "gas:candidate-vibid:25420001432328": 10,
+      "gas:candidate-vibid:25420001431806": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234771&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234771&type=464",
@@ -12492,15 +12492,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 7,
-      "Вандакуров Александр Александрович": 18,
-      "Голованев Дмитрий Павлович": 60,
-      "Игнатов Виктор Александрович": 162,
-      "Лукашев Дмитрий Александрович": 5,
-      "Попов Дмитрий Александрович": 1,
-      "Холявченко Дмитрий Сергеевич": 1,
-      "Шмендель Ольга Николаевна": 21,
-      "Яковлев Роман Борисович": 19
+      "gas:candidate-vibid:25420001431016": 7,
+      "gas:candidate-vibid:25420001363753": 18,
+      "gas:candidate-vibid:25420001360219": 60,
+      "gas:candidate-vibid:25420001430586": 162,
+      "gas:candidate-vibid:25420001433467": 5,
+      "gas:candidate-vibid:25420001430998": 1,
+      "gas:candidate-vibid:25420001434428": 1,
+      "gas:candidate-vibid:25420001432328": 21,
+      "gas:candidate-vibid:25420001431806": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234771&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234771&type=464",
@@ -12551,15 +12551,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 2,
-      "Вандакуров Александр Александрович": 7,
-      "Голованев Дмитрий Павлович": 39,
-      "Игнатов Виктор Александрович": 90,
-      "Лукашев Дмитрий Александрович": 1,
-      "Попов Дмитрий Александрович": 4,
-      "Холявченко Дмитрий Сергеевич": 2,
-      "Шмендель Ольга Николаевна": 17,
-      "Яковлев Роман Борисович": 22
+      "gas:candidate-vibid:25420001431016": 2,
+      "gas:candidate-vibid:25420001363753": 7,
+      "gas:candidate-vibid:25420001360219": 39,
+      "gas:candidate-vibid:25420001430586": 90,
+      "gas:candidate-vibid:25420001433467": 1,
+      "gas:candidate-vibid:25420001430998": 4,
+      "gas:candidate-vibid:25420001434428": 2,
+      "gas:candidate-vibid:25420001432328": 17,
+      "gas:candidate-vibid:25420001431806": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234771&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234771&type=464",
@@ -12610,15 +12610,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 2,
-      "Вандакуров Александр Александрович": 11,
-      "Голованев Дмитрий Павлович": 59,
-      "Игнатов Виктор Александрович": 125,
-      "Лукашев Дмитрий Александрович": 1,
-      "Попов Дмитрий Александрович": 2,
-      "Холявченко Дмитрий Сергеевич": 1,
-      "Шмендель Ольга Николаевна": 17,
-      "Яковлев Роман Борисович": 18
+      "gas:candidate-vibid:25420001431016": 2,
+      "gas:candidate-vibid:25420001363753": 11,
+      "gas:candidate-vibid:25420001360219": 59,
+      "gas:candidate-vibid:25420001430586": 125,
+      "gas:candidate-vibid:25420001433467": 1,
+      "gas:candidate-vibid:25420001430998": 2,
+      "gas:candidate-vibid:25420001434428": 1,
+      "gas:candidate-vibid:25420001432328": 17,
+      "gas:candidate-vibid:25420001431806": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234771&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234771&type=464",
@@ -12669,15 +12669,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 0,
-      "Вандакуров Александр Александрович": 5,
-      "Голованев Дмитрий Павлович": 40,
-      "Игнатов Виктор Александрович": 80,
-      "Лукашев Дмитрий Александрович": 1,
-      "Попов Дмитрий Александрович": 1,
-      "Холявченко Дмитрий Сергеевич": 0,
-      "Шмендель Ольга Николаевна": 7,
-      "Яковлев Роман Борисович": 15
+      "gas:candidate-vibid:25420001431016": 0,
+      "gas:candidate-vibid:25420001363753": 5,
+      "gas:candidate-vibid:25420001360219": 40,
+      "gas:candidate-vibid:25420001430586": 80,
+      "gas:candidate-vibid:25420001433467": 1,
+      "gas:candidate-vibid:25420001430998": 1,
+      "gas:candidate-vibid:25420001434428": 0,
+      "gas:candidate-vibid:25420001432328": 7,
+      "gas:candidate-vibid:25420001431806": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234771&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234771&type=464",
@@ -12728,15 +12728,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 1,
-      "Вандакуров Александр Александрович": 3,
-      "Голованев Дмитрий Павлович": 4,
-      "Игнатов Виктор Александрович": 47,
-      "Лукашев Дмитрий Александрович": 1,
-      "Попов Дмитрий Александрович": 1,
-      "Холявченко Дмитрий Сергеевич": 0,
-      "Шмендель Ольга Николаевна": 3,
-      "Яковлев Роман Борисович": 0
+      "gas:candidate-vibid:25420001431016": 1,
+      "gas:candidate-vibid:25420001363753": 3,
+      "gas:candidate-vibid:25420001360219": 4,
+      "gas:candidate-vibid:25420001430586": 47,
+      "gas:candidate-vibid:25420001433467": 1,
+      "gas:candidate-vibid:25420001430998": 1,
+      "gas:candidate-vibid:25420001434428": 0,
+      "gas:candidate-vibid:25420001432328": 3,
+      "gas:candidate-vibid:25420001431806": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234771&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234771&type=464",
@@ -12787,15 +12787,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 2,
-      "Вандакуров Александр Александрович": 6,
-      "Голованев Дмитрий Павлович": 15,
-      "Игнатов Виктор Александрович": 103,
-      "Лукашев Дмитрий Александрович": 7,
-      "Попов Дмитрий Александрович": 1,
-      "Холявченко Дмитрий Сергеевич": 2,
-      "Шмендель Ольга Николаевна": 15,
-      "Яковлев Роман Борисович": 16
+      "gas:candidate-vibid:25420001431016": 2,
+      "gas:candidate-vibid:25420001363753": 6,
+      "gas:candidate-vibid:25420001360219": 15,
+      "gas:candidate-vibid:25420001430586": 103,
+      "gas:candidate-vibid:25420001433467": 7,
+      "gas:candidate-vibid:25420001430998": 1,
+      "gas:candidate-vibid:25420001434428": 2,
+      "gas:candidate-vibid:25420001432328": 15,
+      "gas:candidate-vibid:25420001431806": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234771&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234771&type=464",
@@ -12846,15 +12846,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 0,
-      "Вандакуров Александр Александрович": 13,
-      "Голованев Дмитрий Павлович": 110,
-      "Игнатов Виктор Александрович": 160,
-      "Лукашев Дмитрий Александрович": 1,
-      "Попов Дмитрий Александрович": 2,
-      "Холявченко Дмитрий Сергеевич": 1,
-      "Шмендель Ольга Николаевна": 16,
-      "Яковлев Роман Борисович": 33
+      "gas:candidate-vibid:25420001431016": 0,
+      "gas:candidate-vibid:25420001363753": 13,
+      "gas:candidate-vibid:25420001360219": 110,
+      "gas:candidate-vibid:25420001430586": 160,
+      "gas:candidate-vibid:25420001433467": 1,
+      "gas:candidate-vibid:25420001430998": 2,
+      "gas:candidate-vibid:25420001434428": 1,
+      "gas:candidate-vibid:25420001432328": 16,
+      "gas:candidate-vibid:25420001431806": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234771&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234771&type=464",
@@ -12905,15 +12905,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 1,
-      "Вандакуров Александр Александрович": 5,
-      "Голованев Дмитрий Павлович": 36,
-      "Игнатов Виктор Александрович": 35,
-      "Лукашев Дмитрий Александрович": 3,
-      "Попов Дмитрий Александрович": 1,
-      "Холявченко Дмитрий Сергеевич": 0,
-      "Шмендель Ольга Николаевна": 14,
-      "Яковлев Роман Борисович": 26
+      "gas:candidate-vibid:25420001431016": 1,
+      "gas:candidate-vibid:25420001363753": 5,
+      "gas:candidate-vibid:25420001360219": 36,
+      "gas:candidate-vibid:25420001430586": 35,
+      "gas:candidate-vibid:25420001433467": 3,
+      "gas:candidate-vibid:25420001430998": 1,
+      "gas:candidate-vibid:25420001434428": 0,
+      "gas:candidate-vibid:25420001432328": 14,
+      "gas:candidate-vibid:25420001431806": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234771&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234771&type=464",
@@ -12964,15 +12964,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 2,
-      "Вандакуров Александр Александрович": 7,
-      "Голованев Дмитрий Павлович": 11,
-      "Игнатов Виктор Александрович": 27,
-      "Лукашев Дмитрий Александрович": 1,
-      "Попов Дмитрий Александрович": 1,
-      "Холявченко Дмитрий Сергеевич": 0,
-      "Шмендель Ольга Николаевна": 2,
-      "Яковлев Роман Борисович": 4
+      "gas:candidate-vibid:25420001431016": 2,
+      "gas:candidate-vibid:25420001363753": 7,
+      "gas:candidate-vibid:25420001360219": 11,
+      "gas:candidate-vibid:25420001430586": 27,
+      "gas:candidate-vibid:25420001433467": 1,
+      "gas:candidate-vibid:25420001430998": 1,
+      "gas:candidate-vibid:25420001434428": 0,
+      "gas:candidate-vibid:25420001432328": 2,
+      "gas:candidate-vibid:25420001431806": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234771&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234771&type=464",
@@ -13023,15 +13023,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 1,
-      "Вандакуров Александр Александрович": 3,
-      "Голованев Дмитрий Павлович": 22,
-      "Игнатов Виктор Александрович": 53,
-      "Лукашев Дмитрий Александрович": 1,
-      "Попов Дмитрий Александрович": 0,
-      "Холявченко Дмитрий Сергеевич": 0,
-      "Шмендель Ольга Николаевна": 3,
-      "Яковлев Роман Борисович": 6
+      "gas:candidate-vibid:25420001431016": 1,
+      "gas:candidate-vibid:25420001363753": 3,
+      "gas:candidate-vibid:25420001360219": 22,
+      "gas:candidate-vibid:25420001430586": 53,
+      "gas:candidate-vibid:25420001433467": 1,
+      "gas:candidate-vibid:25420001430998": 0,
+      "gas:candidate-vibid:25420001434428": 0,
+      "gas:candidate-vibid:25420001432328": 3,
+      "gas:candidate-vibid:25420001431806": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234771&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234771&type=464",
@@ -13082,15 +13082,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 1,
-      "Вандакуров Александр Александрович": 5,
-      "Голованев Дмитрий Павлович": 7,
-      "Игнатов Виктор Александрович": 43,
-      "Лукашев Дмитрий Александрович": 2,
-      "Попов Дмитрий Александрович": 0,
-      "Холявченко Дмитрий Сергеевич": 1,
-      "Шмендель Ольга Николаевна": 0,
-      "Яковлев Роман Борисович": 10
+      "gas:candidate-vibid:25420001431016": 1,
+      "gas:candidate-vibid:25420001363753": 5,
+      "gas:candidate-vibid:25420001360219": 7,
+      "gas:candidate-vibid:25420001430586": 43,
+      "gas:candidate-vibid:25420001433467": 2,
+      "gas:candidate-vibid:25420001430998": 0,
+      "gas:candidate-vibid:25420001434428": 1,
+      "gas:candidate-vibid:25420001432328": 0,
+      "gas:candidate-vibid:25420001431806": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234771&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234771&type=464",
@@ -13141,15 +13141,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 7,
-      "Вандакуров Александр Александрович": 9,
-      "Голованев Дмитрий Павлович": 56,
-      "Игнатов Виктор Александрович": 128,
-      "Лукашев Дмитрий Александрович": 4,
-      "Попов Дмитрий Александрович": 7,
-      "Холявченко Дмитрий Сергеевич": 3,
-      "Шмендель Ольга Николаевна": 9,
-      "Яковлев Роман Борисович": 21
+      "gas:candidate-vibid:25420001431016": 7,
+      "gas:candidate-vibid:25420001363753": 9,
+      "gas:candidate-vibid:25420001360219": 56,
+      "gas:candidate-vibid:25420001430586": 128,
+      "gas:candidate-vibid:25420001433467": 4,
+      "gas:candidate-vibid:25420001430998": 7,
+      "gas:candidate-vibid:25420001434428": 3,
+      "gas:candidate-vibid:25420001432328": 9,
+      "gas:candidate-vibid:25420001431806": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234771&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234771&type=464",
@@ -13200,15 +13200,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 2,
-      "Вандакуров Александр Александрович": 5,
-      "Голованев Дмитрий Павлович": 38,
-      "Игнатов Виктор Александрович": 53,
-      "Лукашев Дмитрий Александрович": 3,
-      "Попов Дмитрий Александрович": 1,
-      "Холявченко Дмитрий Сергеевич": 0,
-      "Шмендель Ольга Николаевна": 5,
-      "Яковлев Роман Борисович": 13
+      "gas:candidate-vibid:25420001431016": 2,
+      "gas:candidate-vibid:25420001363753": 5,
+      "gas:candidate-vibid:25420001360219": 38,
+      "gas:candidate-vibid:25420001430586": 53,
+      "gas:candidate-vibid:25420001433467": 3,
+      "gas:candidate-vibid:25420001430998": 1,
+      "gas:candidate-vibid:25420001434428": 0,
+      "gas:candidate-vibid:25420001432328": 5,
+      "gas:candidate-vibid:25420001431806": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234771&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234771&type=464",
@@ -13259,15 +13259,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 2,
-      "Вандакуров Александр Александрович": 3,
-      "Голованев Дмитрий Павлович": 5,
-      "Игнатов Виктор Александрович": 18,
-      "Лукашев Дмитрий Александрович": 0,
-      "Попов Дмитрий Александрович": 2,
-      "Холявченко Дмитрий Сергеевич": 0,
-      "Шмендель Ольга Николаевна": 3,
-      "Яковлев Роман Борисович": 7
+      "gas:candidate-vibid:25420001431016": 2,
+      "gas:candidate-vibid:25420001363753": 3,
+      "gas:candidate-vibid:25420001360219": 5,
+      "gas:candidate-vibid:25420001430586": 18,
+      "gas:candidate-vibid:25420001433467": 0,
+      "gas:candidate-vibid:25420001430998": 2,
+      "gas:candidate-vibid:25420001434428": 0,
+      "gas:candidate-vibid:25420001432328": 3,
+      "gas:candidate-vibid:25420001431806": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234771&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234771&type=464",
@@ -13318,15 +13318,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 0,
-      "Вандакуров Александр Александрович": 0,
-      "Голованев Дмитрий Павлович": 10,
-      "Игнатов Виктор Александрович": 7,
-      "Лукашев Дмитрий Александрович": 0,
-      "Попов Дмитрий Александрович": 0,
-      "Холявченко Дмитрий Сергеевич": 0,
-      "Шмендель Ольга Николаевна": 1,
-      "Яковлев Роман Борисович": 3
+      "gas:candidate-vibid:25420001431016": 0,
+      "gas:candidate-vibid:25420001363753": 0,
+      "gas:candidate-vibid:25420001360219": 10,
+      "gas:candidate-vibid:25420001430586": 7,
+      "gas:candidate-vibid:25420001433467": 0,
+      "gas:candidate-vibid:25420001430998": 0,
+      "gas:candidate-vibid:25420001434428": 0,
+      "gas:candidate-vibid:25420001432328": 1,
+      "gas:candidate-vibid:25420001431806": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234771&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234771&type=464",
@@ -13377,15 +13377,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 3,
-      "Вандакуров Александр Александрович": 6,
-      "Голованев Дмитрий Павлович": 36,
-      "Игнатов Виктор Александрович": 129,
-      "Лукашев Дмитрий Александрович": 1,
-      "Попов Дмитрий Александрович": 3,
-      "Холявченко Дмитрий Сергеевич": 1,
-      "Шмендель Ольга Николаевна": 7,
-      "Яковлев Роман Борисович": 16
+      "gas:candidate-vibid:25420001431016": 3,
+      "gas:candidate-vibid:25420001363753": 6,
+      "gas:candidate-vibid:25420001360219": 36,
+      "gas:candidate-vibid:25420001430586": 129,
+      "gas:candidate-vibid:25420001433467": 1,
+      "gas:candidate-vibid:25420001430998": 3,
+      "gas:candidate-vibid:25420001434428": 1,
+      "gas:candidate-vibid:25420001432328": 7,
+      "gas:candidate-vibid:25420001431806": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234771&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234771&type=464",
@@ -13436,15 +13436,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 2,
-      "Вандакуров Александр Александрович": 5,
-      "Голованев Дмитрий Павлович": 10,
-      "Игнатов Виктор Александрович": 26,
-      "Лукашев Дмитрий Александрович": 1,
-      "Попов Дмитрий Александрович": 1,
-      "Холявченко Дмитрий Сергеевич": 3,
-      "Шмендель Ольга Николаевна": 4,
-      "Яковлев Роман Борисович": 1
+      "gas:candidate-vibid:25420001431016": 2,
+      "gas:candidate-vibid:25420001363753": 5,
+      "gas:candidate-vibid:25420001360219": 10,
+      "gas:candidate-vibid:25420001430586": 26,
+      "gas:candidate-vibid:25420001433467": 1,
+      "gas:candidate-vibid:25420001430998": 1,
+      "gas:candidate-vibid:25420001434428": 3,
+      "gas:candidate-vibid:25420001432328": 4,
+      "gas:candidate-vibid:25420001431806": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234771&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234771&type=464",
@@ -13495,15 +13495,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 0,
-      "Вандакуров Александр Александрович": 21,
-      "Голованев Дмитрий Павлович": 72,
-      "Игнатов Виктор Александрович": 172,
-      "Лукашев Дмитрий Александрович": 9,
-      "Попов Дмитрий Александрович": 0,
-      "Холявченко Дмитрий Сергеевич": 1,
-      "Шмендель Ольга Николаевна": 6,
-      "Яковлев Роман Борисович": 23
+      "gas:candidate-vibid:25420001431016": 0,
+      "gas:candidate-vibid:25420001363753": 21,
+      "gas:candidate-vibid:25420001360219": 72,
+      "gas:candidate-vibid:25420001430586": 172,
+      "gas:candidate-vibid:25420001433467": 9,
+      "gas:candidate-vibid:25420001430998": 0,
+      "gas:candidate-vibid:25420001434428": 1,
+      "gas:candidate-vibid:25420001432328": 6,
+      "gas:candidate-vibid:25420001431806": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234771&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234771&type=464",
@@ -13554,15 +13554,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 3,
-      "Вандакуров Александр Александрович": 15,
-      "Голованев Дмитрий Павлович": 39,
-      "Игнатов Виктор Александрович": 172,
-      "Лукашев Дмитрий Александрович": 2,
-      "Попов Дмитрий Александрович": 1,
-      "Холявченко Дмитрий Сергеевич": 1,
-      "Шмендель Ольга Николаевна": 10,
-      "Яковлев Роман Борисович": 15
+      "gas:candidate-vibid:25420001431016": 3,
+      "gas:candidate-vibid:25420001363753": 15,
+      "gas:candidate-vibid:25420001360219": 39,
+      "gas:candidate-vibid:25420001430586": 172,
+      "gas:candidate-vibid:25420001433467": 2,
+      "gas:candidate-vibid:25420001430998": 1,
+      "gas:candidate-vibid:25420001434428": 1,
+      "gas:candidate-vibid:25420001432328": 10,
+      "gas:candidate-vibid:25420001431806": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234771&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234771&type=464",
@@ -13613,15 +13613,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 6,
-      "Вандакуров Александр Александрович": 12,
-      "Голованев Дмитрий Павлович": 39,
-      "Игнатов Виктор Александрович": 127,
-      "Лукашев Дмитрий Александрович": 8,
-      "Попов Дмитрий Александрович": 3,
-      "Холявченко Дмитрий Сергеевич": 0,
-      "Шмендель Ольга Николаевна": 20,
-      "Яковлев Роман Борисович": 22
+      "gas:candidate-vibid:25420001431016": 6,
+      "gas:candidate-vibid:25420001363753": 12,
+      "gas:candidate-vibid:25420001360219": 39,
+      "gas:candidate-vibid:25420001430586": 127,
+      "gas:candidate-vibid:25420001433467": 8,
+      "gas:candidate-vibid:25420001430998": 3,
+      "gas:candidate-vibid:25420001434428": 0,
+      "gas:candidate-vibid:25420001432328": 20,
+      "gas:candidate-vibid:25420001431806": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234771&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234771&type=464",
@@ -13672,15 +13672,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 1,
-      "Вандакуров Александр Александрович": 1,
-      "Голованев Дмитрий Павлович": 6,
-      "Игнатов Виктор Александрович": 29,
-      "Лукашев Дмитрий Александрович": 1,
-      "Попов Дмитрий Александрович": 0,
-      "Холявченко Дмитрий Сергеевич": 0,
-      "Шмендель Ольга Николаевна": 6,
-      "Яковлев Роман Борисович": 6
+      "gas:candidate-vibid:25420001431016": 1,
+      "gas:candidate-vibid:25420001363753": 1,
+      "gas:candidate-vibid:25420001360219": 6,
+      "gas:candidate-vibid:25420001430586": 29,
+      "gas:candidate-vibid:25420001433467": 1,
+      "gas:candidate-vibid:25420001430998": 0,
+      "gas:candidate-vibid:25420001434428": 0,
+      "gas:candidate-vibid:25420001432328": 6,
+      "gas:candidate-vibid:25420001431806": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234771&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234771&type=464",
@@ -13731,15 +13731,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 2,
-      "Вандакуров Александр Александрович": 5,
-      "Голованев Дмитрий Павлович": 23,
-      "Игнатов Виктор Александрович": 21,
-      "Лукашев Дмитрий Александрович": 0,
-      "Попов Дмитрий Александрович": 2,
-      "Холявченко Дмитрий Сергеевич": 0,
-      "Шмендель Ольга Николаевна": 5,
-      "Яковлев Роман Борисович": 13
+      "gas:candidate-vibid:25420001431016": 2,
+      "gas:candidate-vibid:25420001363753": 5,
+      "gas:candidate-vibid:25420001360219": 23,
+      "gas:candidate-vibid:25420001430586": 21,
+      "gas:candidate-vibid:25420001433467": 0,
+      "gas:candidate-vibid:25420001430998": 2,
+      "gas:candidate-vibid:25420001434428": 0,
+      "gas:candidate-vibid:25420001432328": 5,
+      "gas:candidate-vibid:25420001431806": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234771&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234771&type=464",
@@ -13790,15 +13790,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 11,
-      "Вандакуров Александр Александрович": 27,
-      "Голованев Дмитрий Павлович": 125,
-      "Игнатов Виктор Александрович": 278,
-      "Лукашев Дмитрий Александрович": 125,
-      "Попов Дмитрий Александрович": 16,
-      "Холявченко Дмитрий Сергеевич": 7,
-      "Шмендель Ольга Николаевна": 64,
-      "Яковлев Роман Борисович": 103
+      "gas:candidate-vibid:25420001431016": 11,
+      "gas:candidate-vibid:25420001363753": 27,
+      "gas:candidate-vibid:25420001360219": 125,
+      "gas:candidate-vibid:25420001430586": 278,
+      "gas:candidate-vibid:25420001433467": 125,
+      "gas:candidate-vibid:25420001430998": 16,
+      "gas:candidate-vibid:25420001434428": 7,
+      "gas:candidate-vibid:25420001432328": 64,
+      "gas:candidate-vibid:25420001431806": 103
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234772&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234772&type=464",
@@ -13849,15 +13849,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 14,
-      "Вандакуров Александр Александрович": 38,
-      "Голованев Дмитрий Павлович": 147,
-      "Игнатов Виктор Александрович": 331,
-      "Лукашев Дмитрий Александрович": 105,
-      "Попов Дмитрий Александрович": 18,
-      "Холявченко Дмитрий Сергеевич": 11,
-      "Шмендель Ольга Николаевна": 56,
-      "Яковлев Роман Борисович": 100
+      "gas:candidate-vibid:25420001431016": 14,
+      "gas:candidate-vibid:25420001363753": 38,
+      "gas:candidate-vibid:25420001360219": 147,
+      "gas:candidate-vibid:25420001430586": 331,
+      "gas:candidate-vibid:25420001433467": 105,
+      "gas:candidate-vibid:25420001430998": 18,
+      "gas:candidate-vibid:25420001434428": 11,
+      "gas:candidate-vibid:25420001432328": 56,
+      "gas:candidate-vibid:25420001431806": 100
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234772&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234772&type=464",
@@ -13908,15 +13908,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 2,
-      "Вандакуров Александр Александрович": 6,
-      "Голованев Дмитрий Павлович": 26,
-      "Игнатов Виктор Александрович": 71,
-      "Лукашев Дмитрий Александрович": 44,
-      "Попов Дмитрий Александрович": 2,
-      "Холявченко Дмитрий Сергеевич": 0,
-      "Шмендель Ольга Николаевна": 11,
-      "Яковлев Роман Борисович": 11
+      "gas:candidate-vibid:25420001431016": 2,
+      "gas:candidate-vibid:25420001363753": 6,
+      "gas:candidate-vibid:25420001360219": 26,
+      "gas:candidate-vibid:25420001430586": 71,
+      "gas:candidate-vibid:25420001433467": 44,
+      "gas:candidate-vibid:25420001430998": 2,
+      "gas:candidate-vibid:25420001434428": 0,
+      "gas:candidate-vibid:25420001432328": 11,
+      "gas:candidate-vibid:25420001431806": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234772&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234772&type=464",
@@ -13967,15 +13967,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 8,
-      "Вандакуров Александр Александрович": 43,
-      "Голованев Дмитрий Павлович": 95,
-      "Игнатов Виктор Александрович": 292,
-      "Лукашев Дмитрий Александрович": 38,
-      "Попов Дмитрий Александрович": 14,
-      "Холявченко Дмитрий Сергеевич": 11,
-      "Шмендель Ольга Николаевна": 39,
-      "Яковлев Роман Борисович": 66
+      "gas:candidate-vibid:25420001431016": 8,
+      "gas:candidate-vibid:25420001363753": 43,
+      "gas:candidate-vibid:25420001360219": 95,
+      "gas:candidate-vibid:25420001430586": 292,
+      "gas:candidate-vibid:25420001433467": 38,
+      "gas:candidate-vibid:25420001430998": 14,
+      "gas:candidate-vibid:25420001434428": 11,
+      "gas:candidate-vibid:25420001432328": 39,
+      "gas:candidate-vibid:25420001431806": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234772&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234772&type=464",
@@ -14026,15 +14026,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 4,
-      "Вандакуров Александр Александрович": 5,
-      "Голованев Дмитрий Павлович": 29,
-      "Игнатов Виктор Александрович": 33,
-      "Лукашев Дмитрий Александрович": 11,
-      "Попов Дмитрий Александрович": 1,
-      "Холявченко Дмитрий Сергеевич": 1,
-      "Шмендель Ольга Николаевна": 6,
-      "Яковлев Роман Борисович": 9
+      "gas:candidate-vibid:25420001431016": 4,
+      "gas:candidate-vibid:25420001363753": 5,
+      "gas:candidate-vibid:25420001360219": 29,
+      "gas:candidate-vibid:25420001430586": 33,
+      "gas:candidate-vibid:25420001433467": 11,
+      "gas:candidate-vibid:25420001430998": 1,
+      "gas:candidate-vibid:25420001434428": 1,
+      "gas:candidate-vibid:25420001432328": 6,
+      "gas:candidate-vibid:25420001431806": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234772&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234772&type=464",
@@ -14085,15 +14085,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 10,
-      "Вандакуров Александр Александрович": 26,
-      "Голованев Дмитрий Павлович": 44,
-      "Игнатов Виктор Александрович": 247,
-      "Лукашев Дмитрий Александрович": 16,
-      "Попов Дмитрий Александрович": 10,
-      "Холявченко Дмитрий Сергеевич": 6,
-      "Шмендель Ольга Николаевна": 21,
-      "Яковлев Роман Борисович": 37
+      "gas:candidate-vibid:25420001431016": 10,
+      "gas:candidate-vibid:25420001363753": 26,
+      "gas:candidate-vibid:25420001360219": 44,
+      "gas:candidate-vibid:25420001430586": 247,
+      "gas:candidate-vibid:25420001433467": 16,
+      "gas:candidate-vibid:25420001430998": 10,
+      "gas:candidate-vibid:25420001434428": 6,
+      "gas:candidate-vibid:25420001432328": 21,
+      "gas:candidate-vibid:25420001431806": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234772&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234772&type=464",
@@ -14144,15 +14144,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 17,
-      "Вандакуров Александр Александрович": 54,
-      "Голованев Дмитрий Павлович": 155,
-      "Игнатов Виктор Александрович": 359,
-      "Лукашев Дмитрий Александрович": 42,
-      "Попов Дмитрий Александрович": 49,
-      "Холявченко Дмитрий Сергеевич": 10,
-      "Шмендель Ольга Николаевна": 78,
-      "Яковлев Роман Борисович": 81
+      "gas:candidate-vibid:25420001431016": 17,
+      "gas:candidate-vibid:25420001363753": 54,
+      "gas:candidate-vibid:25420001360219": 155,
+      "gas:candidate-vibid:25420001430586": 359,
+      "gas:candidate-vibid:25420001433467": 42,
+      "gas:candidate-vibid:25420001430998": 49,
+      "gas:candidate-vibid:25420001434428": 10,
+      "gas:candidate-vibid:25420001432328": 78,
+      "gas:candidate-vibid:25420001431806": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234772&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234772&type=464",
@@ -14203,15 +14203,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 7,
-      "Вандакуров Александр Александрович": 18,
-      "Голованев Дмитрий Павлович": 87,
-      "Игнатов Виктор Александрович": 132,
-      "Лукашев Дмитрий Александрович": 17,
-      "Попов Дмитрий Александрович": 13,
-      "Холявченко Дмитрий Сергеевич": 8,
-      "Шмендель Ольга Николаевна": 22,
-      "Яковлев Роман Борисович": 37
+      "gas:candidate-vibid:25420001431016": 7,
+      "gas:candidate-vibid:25420001363753": 18,
+      "gas:candidate-vibid:25420001360219": 87,
+      "gas:candidate-vibid:25420001430586": 132,
+      "gas:candidate-vibid:25420001433467": 17,
+      "gas:candidate-vibid:25420001430998": 13,
+      "gas:candidate-vibid:25420001434428": 8,
+      "gas:candidate-vibid:25420001432328": 22,
+      "gas:candidate-vibid:25420001431806": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234772&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234772&type=464",
@@ -14262,15 +14262,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 7,
-      "Вандакуров Александр Александрович": 20,
-      "Голованев Дмитрий Павлович": 70,
-      "Игнатов Виктор Александрович": 113,
-      "Лукашев Дмитрий Александрович": 10,
-      "Попов Дмитрий Александрович": 8,
-      "Холявченко Дмитрий Сергеевич": 3,
-      "Шмендель Ольга Николаевна": 47,
-      "Яковлев Роман Борисович": 32
+      "gas:candidate-vibid:25420001431016": 7,
+      "gas:candidate-vibid:25420001363753": 20,
+      "gas:candidate-vibid:25420001360219": 70,
+      "gas:candidate-vibid:25420001430586": 113,
+      "gas:candidate-vibid:25420001433467": 10,
+      "gas:candidate-vibid:25420001430998": 8,
+      "gas:candidate-vibid:25420001434428": 3,
+      "gas:candidate-vibid:25420001432328": 47,
+      "gas:candidate-vibid:25420001431806": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234772&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234772&type=464",
@@ -14321,15 +14321,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 6,
-      "Вандакуров Александр Александрович": 7,
-      "Голованев Дмитрий Павлович": 27,
-      "Игнатов Виктор Александрович": 34,
-      "Лукашев Дмитрий Александрович": 2,
-      "Попов Дмитрий Александрович": 9,
-      "Холявченко Дмитрий Сергеевич": 3,
-      "Шмендель Ольга Николаевна": 7,
-      "Яковлев Роман Борисович": 5
+      "gas:candidate-vibid:25420001431016": 6,
+      "gas:candidate-vibid:25420001363753": 7,
+      "gas:candidate-vibid:25420001360219": 27,
+      "gas:candidate-vibid:25420001430586": 34,
+      "gas:candidate-vibid:25420001433467": 2,
+      "gas:candidate-vibid:25420001430998": 9,
+      "gas:candidate-vibid:25420001434428": 3,
+      "gas:candidate-vibid:25420001432328": 7,
+      "gas:candidate-vibid:25420001431806": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234772&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234772&type=464",
@@ -14380,15 +14380,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 4,
-      "Вандакуров Александр Александрович": 9,
-      "Голованев Дмитрий Павлович": 27,
-      "Игнатов Виктор Александрович": 35,
-      "Лукашев Дмитрий Александрович": 7,
-      "Попов Дмитрий Александрович": 2,
-      "Холявченко Дмитрий Сергеевич": 2,
-      "Шмендель Ольга Николаевна": 19,
-      "Яковлев Роман Борисович": 10
+      "gas:candidate-vibid:25420001431016": 4,
+      "gas:candidate-vibid:25420001363753": 9,
+      "gas:candidate-vibid:25420001360219": 27,
+      "gas:candidate-vibid:25420001430586": 35,
+      "gas:candidate-vibid:25420001433467": 7,
+      "gas:candidate-vibid:25420001430998": 2,
+      "gas:candidate-vibid:25420001434428": 2,
+      "gas:candidate-vibid:25420001432328": 19,
+      "gas:candidate-vibid:25420001431806": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234772&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234772&type=464",
@@ -14439,15 +14439,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 3,
-      "Вандакуров Александр Александрович": 13,
-      "Голованев Дмитрий Павлович": 66,
-      "Игнатов Виктор Александрович": 144,
-      "Лукашев Дмитрий Александрович": 6,
-      "Попов Дмитрий Александрович": 3,
-      "Холявченко Дмитрий Сергеевич": 2,
-      "Шмендель Ольга Николаевна": 24,
-      "Яковлев Роман Борисович": 34
+      "gas:candidate-vibid:25420001431016": 3,
+      "gas:candidate-vibid:25420001363753": 13,
+      "gas:candidate-vibid:25420001360219": 66,
+      "gas:candidate-vibid:25420001430586": 144,
+      "gas:candidate-vibid:25420001433467": 6,
+      "gas:candidate-vibid:25420001430998": 3,
+      "gas:candidate-vibid:25420001434428": 2,
+      "gas:candidate-vibid:25420001432328": 24,
+      "gas:candidate-vibid:25420001431806": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234772&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234772&type=464",
@@ -14498,15 +14498,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 2,
-      "Вандакуров Александр Александрович": 16,
-      "Голованев Дмитрий Павлович": 59,
-      "Игнатов Виктор Александрович": 281,
-      "Лукашев Дмитрий Александрович": 20,
-      "Попов Дмитрий Александрович": 5,
-      "Холявченко Дмитрий Сергеевич": 11,
-      "Шмендель Ольга Николаевна": 25,
-      "Яковлев Роман Борисович": 36
+      "gas:candidate-vibid:25420001431016": 2,
+      "gas:candidate-vibid:25420001363753": 16,
+      "gas:candidate-vibid:25420001360219": 59,
+      "gas:candidate-vibid:25420001430586": 281,
+      "gas:candidate-vibid:25420001433467": 20,
+      "gas:candidate-vibid:25420001430998": 5,
+      "gas:candidate-vibid:25420001434428": 11,
+      "gas:candidate-vibid:25420001432328": 25,
+      "gas:candidate-vibid:25420001431806": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234772&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234772&type=464",
@@ -14557,15 +14557,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 24,
-      "Вандакуров Александр Александрович": 30,
-      "Голованев Дмитрий Павлович": 55,
-      "Игнатов Виктор Александрович": 257,
-      "Лукашев Дмитрий Александрович": 27,
-      "Попов Дмитрий Александрович": 18,
-      "Холявченко Дмитрий Сергеевич": 12,
-      "Шмендель Ольга Николаевна": 29,
-      "Яковлев Роман Борисович": 32
+      "gas:candidate-vibid:25420001431016": 24,
+      "gas:candidate-vibid:25420001363753": 30,
+      "gas:candidate-vibid:25420001360219": 55,
+      "gas:candidate-vibid:25420001430586": 257,
+      "gas:candidate-vibid:25420001433467": 27,
+      "gas:candidate-vibid:25420001430998": 18,
+      "gas:candidate-vibid:25420001434428": 12,
+      "gas:candidate-vibid:25420001432328": 29,
+      "gas:candidate-vibid:25420001431806": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234772&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234772&type=464",
@@ -14616,15 +14616,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 3,
-      "Вандакуров Александр Александрович": 13,
-      "Голованев Дмитрий Павлович": 44,
-      "Игнатов Виктор Александрович": 123,
-      "Лукашев Дмитрий Александрович": 4,
-      "Попов Дмитрий Александрович": 9,
-      "Холявченко Дмитрий Сергеевич": 3,
-      "Шмендель Ольга Николаевна": 25,
-      "Яковлев Роман Борисович": 25
+      "gas:candidate-vibid:25420001431016": 3,
+      "gas:candidate-vibid:25420001363753": 13,
+      "gas:candidate-vibid:25420001360219": 44,
+      "gas:candidate-vibid:25420001430586": 123,
+      "gas:candidate-vibid:25420001433467": 4,
+      "gas:candidate-vibid:25420001430998": 9,
+      "gas:candidate-vibid:25420001434428": 3,
+      "gas:candidate-vibid:25420001432328": 25,
+      "gas:candidate-vibid:25420001431806": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234772&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234772&type=464",
@@ -14675,15 +14675,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 4,
-      "Вандакуров Александр Александрович": 6,
-      "Голованев Дмитрий Павлович": 9,
-      "Игнатов Виктор Александрович": 53,
-      "Лукашев Дмитрий Александрович": 2,
-      "Попов Дмитрий Александрович": 1,
-      "Холявченко Дмитрий Сергеевич": 3,
-      "Шмендель Ольга Николаевна": 3,
-      "Яковлев Роман Борисович": 5
+      "gas:candidate-vibid:25420001431016": 4,
+      "gas:candidate-vibid:25420001363753": 6,
+      "gas:candidate-vibid:25420001360219": 9,
+      "gas:candidate-vibid:25420001430586": 53,
+      "gas:candidate-vibid:25420001433467": 2,
+      "gas:candidate-vibid:25420001430998": 1,
+      "gas:candidate-vibid:25420001434428": 3,
+      "gas:candidate-vibid:25420001432328": 3,
+      "gas:candidate-vibid:25420001431806": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234772&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234772&type=464",
@@ -14734,15 +14734,15 @@ export const duma_2016_uik_463_region_54_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барантаев Булат Олегович": 2,
-      "Вандакуров Александр Александрович": 6,
-      "Голованев Дмитрий Павлович": 21,
-      "Игнатов Виктор Александрович": 83,
-      "Лукашев Дмитрий Александрович": 4,
-      "Попов Дмитрий Александрович": 0,
-      "Холявченко Дмитрий Сергеевич": 1,
-      "Шмендель Ольга Николаевна": 6,
-      "Яковлев Роман Борисович": 14
+      "gas:candidate-vibid:25420001431016": 2,
+      "gas:candidate-vibid:25420001363753": 6,
+      "gas:candidate-vibid:25420001360219": 21,
+      "gas:candidate-vibid:25420001430586": 83,
+      "gas:candidate-vibid:25420001433467": 4,
+      "gas:candidate-vibid:25420001430998": 0,
+      "gas:candidate-vibid:25420001434428": 1,
+      "gas:candidate-vibid:25420001432328": 6,
+      "gas:candidate-vibid:25420001431806": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/novosibirsk?action=show&root=1000181&tvd=25420001234772&vrn=100100067795849&region=54&global=&sub_region=54&prver=0&pronetvd=null&vibid=25420001234772&type=464",

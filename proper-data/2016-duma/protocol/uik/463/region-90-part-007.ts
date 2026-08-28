@@ -43,13 +43,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 13,
-      "Колоколова Ольга Аркадьевна": 3,
-      "Мурзаев Валентин Геннадьевич": 0,
-      "Сазонов Дмитрий Валерьевич": 35,
-      "Тытяневич Виталий Анатольевич": 7,
-      "Филатова Ирина Анатольевна": 10,
-      "Эйсфельд Дарья Александровна": 4
+      "gas:candidate-vibid:25920001365395": 13,
+      "gas:candidate-vibid:25920001389683": 3,
+      "gas:candidate-vibid:25920001385258": 0,
+      "gas:candidate-vibid:25920001388492": 35,
+      "gas:candidate-vibid:25920001385699": 7,
+      "gas:candidate-vibid:25920001388547": 10,
+      "gas:candidate-vibid:25920001387655": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184814&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184814&type=464",
@@ -100,13 +100,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 98,
-      "Колоколова Ольга Аркадьевна": 27,
-      "Мурзаев Валентин Геннадьевич": 11,
-      "Сазонов Дмитрий Валерьевич": 327,
-      "Тытяневич Виталий Анатольевич": 40,
-      "Филатова Ирина Анатольевна": 92,
-      "Эйсфельд Дарья Александровна": 96
+      "gas:candidate-vibid:25920001365395": 98,
+      "gas:candidate-vibid:25920001389683": 27,
+      "gas:candidate-vibid:25920001385258": 11,
+      "gas:candidate-vibid:25920001388492": 327,
+      "gas:candidate-vibid:25920001385699": 40,
+      "gas:candidate-vibid:25920001388547": 92,
+      "gas:candidate-vibid:25920001387655": 96
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184815&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184815&type=464",
@@ -157,13 +157,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 41,
-      "Колоколова Ольга Аркадьевна": 14,
-      "Мурзаев Валентин Геннадьевич": 5,
-      "Сазонов Дмитрий Валерьевич": 121,
-      "Тытяневич Виталий Анатольевич": 24,
-      "Филатова Ирина Анатольевна": 65,
-      "Эйсфельд Дарья Александровна": 37
+      "gas:candidate-vibid:25920001365395": 41,
+      "gas:candidate-vibid:25920001389683": 14,
+      "gas:candidate-vibid:25920001385258": 5,
+      "gas:candidate-vibid:25920001388492": 121,
+      "gas:candidate-vibid:25920001385699": 24,
+      "gas:candidate-vibid:25920001388547": 65,
+      "gas:candidate-vibid:25920001387655": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184815&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184815&type=464",
@@ -214,13 +214,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 7,
-      "Колоколова Ольга Аркадьевна": 0,
-      "Мурзаев Валентин Геннадьевич": 0,
-      "Сазонов Дмитрий Валерьевич": 13,
-      "Тытяневич Виталий Анатольевич": 1,
-      "Филатова Ирина Анатольевна": 9,
-      "Эйсфельд Дарья Александровна": 0
+      "gas:candidate-vibid:25920001365395": 7,
+      "gas:candidate-vibid:25920001389683": 0,
+      "gas:candidate-vibid:25920001385258": 0,
+      "gas:candidate-vibid:25920001388492": 13,
+      "gas:candidate-vibid:25920001385699": 1,
+      "gas:candidate-vibid:25920001388547": 9,
+      "gas:candidate-vibid:25920001387655": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184815&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184815&type=464",
@@ -271,13 +271,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 5,
-      "Колоколова Ольга Аркадьевна": 2,
-      "Мурзаев Валентин Геннадьевич": 0,
-      "Сазонов Дмитрий Валерьевич": 13,
-      "Тытяневич Виталий Анатольевич": 2,
-      "Филатова Ирина Анатольевна": 5,
-      "Эйсфельд Дарья Александровна": 4
+      "gas:candidate-vibid:25920001365395": 5,
+      "gas:candidate-vibid:25920001389683": 2,
+      "gas:candidate-vibid:25920001385258": 0,
+      "gas:candidate-vibid:25920001388492": 13,
+      "gas:candidate-vibid:25920001385699": 2,
+      "gas:candidate-vibid:25920001388547": 5,
+      "gas:candidate-vibid:25920001387655": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184815&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184815&type=464",
@@ -328,13 +328,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 14,
-      "Колоколова Ольга Аркадьевна": 5,
-      "Мурзаев Валентин Геннадьевич": 1,
-      "Сазонов Дмитрий Валерьевич": 49,
-      "Тытяневич Виталий Анатольевич": 5,
-      "Филатова Ирина Анатольевна": 21,
-      "Эйсфельд Дарья Александровна": 30
+      "gas:candidate-vibid:25920001365395": 14,
+      "gas:candidate-vibid:25920001389683": 5,
+      "gas:candidate-vibid:25920001385258": 1,
+      "gas:candidate-vibid:25920001388492": 49,
+      "gas:candidate-vibid:25920001385699": 5,
+      "gas:candidate-vibid:25920001388547": 21,
+      "gas:candidate-vibid:25920001387655": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184815&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184815&type=464",
@@ -385,13 +385,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 5,
-      "Колоколова Ольга Аркадьевна": 2,
-      "Мурзаев Валентин Геннадьевич": 1,
-      "Сазонов Дмитрий Валерьевич": 58,
-      "Тытяневич Виталий Анатольевич": 6,
-      "Филатова Ирина Анатольевна": 26,
-      "Эйсфельд Дарья Александровна": 6
+      "gas:candidate-vibid:25920001365395": 5,
+      "gas:candidate-vibid:25920001389683": 2,
+      "gas:candidate-vibid:25920001385258": 1,
+      "gas:candidate-vibid:25920001388492": 58,
+      "gas:candidate-vibid:25920001385699": 6,
+      "gas:candidate-vibid:25920001388547": 26,
+      "gas:candidate-vibid:25920001387655": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184815&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184815&type=464",
@@ -442,13 +442,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 2,
-      "Колоколова Ольга Аркадьевна": 2,
-      "Мурзаев Валентин Геннадьевич": 3,
-      "Сазонов Дмитрий Валерьевич": 25,
-      "Тытяневич Виталий Анатольевич": 7,
-      "Филатова Ирина Анатольевна": 13,
-      "Эйсфельд Дарья Александровна": 2
+      "gas:candidate-vibid:25920001365395": 2,
+      "gas:candidate-vibid:25920001389683": 2,
+      "gas:candidate-vibid:25920001385258": 3,
+      "gas:candidate-vibid:25920001388492": 25,
+      "gas:candidate-vibid:25920001385699": 7,
+      "gas:candidate-vibid:25920001388547": 13,
+      "gas:candidate-vibid:25920001387655": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184815&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184815&type=464",
@@ -499,13 +499,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 4,
-      "Колоколова Ольга Аркадьевна": 3,
-      "Мурзаев Валентин Геннадьевич": 3,
-      "Сазонов Дмитрий Валерьевич": 69,
-      "Тытяневич Виталий Анатольевич": 4,
-      "Филатова Ирина Анатольевна": 14,
-      "Эйсфельд Дарья Александровна": 9
+      "gas:candidate-vibid:25920001365395": 4,
+      "gas:candidate-vibid:25920001389683": 3,
+      "gas:candidate-vibid:25920001385258": 3,
+      "gas:candidate-vibid:25920001388492": 69,
+      "gas:candidate-vibid:25920001385699": 4,
+      "gas:candidate-vibid:25920001388547": 14,
+      "gas:candidate-vibid:25920001387655": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184815&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184815&type=464",
@@ -556,13 +556,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 4,
-      "Колоколова Ольга Аркадьевна": 2,
-      "Мурзаев Валентин Геннадьевич": 1,
-      "Сазонов Дмитрий Валерьевич": 20,
-      "Тытяневич Виталий Анатольевич": 1,
-      "Филатова Ирина Анатольевна": 5,
-      "Эйсфельд Дарья Александровна": 4
+      "gas:candidate-vibid:25920001365395": 4,
+      "gas:candidate-vibid:25920001389683": 2,
+      "gas:candidate-vibid:25920001385258": 1,
+      "gas:candidate-vibid:25920001388492": 20,
+      "gas:candidate-vibid:25920001385699": 1,
+      "gas:candidate-vibid:25920001388547": 5,
+      "gas:candidate-vibid:25920001387655": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184815&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184815&type=464",
@@ -613,13 +613,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 10,
-      "Колоколова Ольга Аркадьевна": 1,
-      "Мурзаев Валентин Геннадьевич": 2,
-      "Сазонов Дмитрий Валерьевич": 59,
-      "Тытяневич Виталий Анатольевич": 2,
-      "Филатова Ирина Анатольевна": 11,
-      "Эйсфельд Дарья Александровна": 7
+      "gas:candidate-vibid:25920001365395": 10,
+      "gas:candidate-vibid:25920001389683": 1,
+      "gas:candidate-vibid:25920001385258": 2,
+      "gas:candidate-vibid:25920001388492": 59,
+      "gas:candidate-vibid:25920001385699": 2,
+      "gas:candidate-vibid:25920001388547": 11,
+      "gas:candidate-vibid:25920001387655": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184815&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184815&type=464",
@@ -670,13 +670,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 15,
-      "Колоколова Ольга Аркадьевна": 7,
-      "Мурзаев Валентин Геннадьевич": 7,
-      "Сазонов Дмитрий Валерьевич": 55,
-      "Тытяневич Виталий Анатольевич": 14,
-      "Филатова Ирина Анатольевна": 39,
-      "Эйсфельд Дарья Александровна": 10
+      "gas:candidate-vibid:25920001365395": 15,
+      "gas:candidate-vibid:25920001389683": 7,
+      "gas:candidate-vibid:25920001385258": 7,
+      "gas:candidate-vibid:25920001388492": 55,
+      "gas:candidate-vibid:25920001385699": 14,
+      "gas:candidate-vibid:25920001388547": 39,
+      "gas:candidate-vibid:25920001387655": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184815&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184815&type=464",
@@ -727,13 +727,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 10,
-      "Колоколова Ольга Аркадьевна": 5,
-      "Мурзаев Валентин Геннадьевич": 1,
-      "Сазонов Дмитрий Валерьевич": 43,
-      "Тытяневич Виталий Анатольевич": 3,
-      "Филатова Ирина Анатольевна": 14,
-      "Эйсфельд Дарья Александровна": 13
+      "gas:candidate-vibid:25920001365395": 10,
+      "gas:candidate-vibid:25920001389683": 5,
+      "gas:candidate-vibid:25920001385258": 1,
+      "gas:candidate-vibid:25920001388492": 43,
+      "gas:candidate-vibid:25920001385699": 3,
+      "gas:candidate-vibid:25920001388547": 14,
+      "gas:candidate-vibid:25920001387655": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184815&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184815&type=464",
@@ -784,13 +784,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 8,
-      "Колоколова Ольга Аркадьевна": 4,
-      "Мурзаев Валентин Геннадьевич": 0,
-      "Сазонов Дмитрий Валерьевич": 22,
-      "Тытяневич Виталий Анатольевич": 3,
-      "Филатова Ирина Анатольевна": 11,
-      "Эйсфельд Дарья Александровна": 6
+      "gas:candidate-vibid:25920001365395": 8,
+      "gas:candidate-vibid:25920001389683": 4,
+      "gas:candidate-vibid:25920001385258": 0,
+      "gas:candidate-vibid:25920001388492": 22,
+      "gas:candidate-vibid:25920001385699": 3,
+      "gas:candidate-vibid:25920001388547": 11,
+      "gas:candidate-vibid:25920001387655": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184815&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184815&type=464",
@@ -841,13 +841,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 5,
-      "Колоколова Ольга Аркадьевна": 3,
-      "Мурзаев Валентин Геннадьевич": 0,
-      "Сазонов Дмитрий Валерьевич": 27,
-      "Тытяневич Виталий Анатольевич": 3,
-      "Филатова Ирина Анатольевна": 5,
-      "Эйсфельд Дарья Александровна": 3
+      "gas:candidate-vibid:25920001365395": 5,
+      "gas:candidate-vibid:25920001389683": 3,
+      "gas:candidate-vibid:25920001385258": 0,
+      "gas:candidate-vibid:25920001388492": 27,
+      "gas:candidate-vibid:25920001385699": 3,
+      "gas:candidate-vibid:25920001388547": 5,
+      "gas:candidate-vibid:25920001387655": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184815&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184815&type=464",
@@ -898,13 +898,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 11,
-      "Колоколова Ольга Аркадьевна": 5,
-      "Мурзаев Валентин Геннадьевич": 1,
-      "Сазонов Дмитрий Валерьевич": 66,
-      "Тытяневич Виталий Анатольевич": 2,
-      "Филатова Ирина Анатольевна": 18,
-      "Эйсфельд Дарья Александровна": 7
+      "gas:candidate-vibid:25920001365395": 11,
+      "gas:candidate-vibid:25920001389683": 5,
+      "gas:candidate-vibid:25920001385258": 1,
+      "gas:candidate-vibid:25920001388492": 66,
+      "gas:candidate-vibid:25920001385699": 2,
+      "gas:candidate-vibid:25920001388547": 18,
+      "gas:candidate-vibid:25920001387655": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184815&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184815&type=464",
@@ -955,13 +955,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 7,
-      "Колоколова Ольга Аркадьевна": 1,
-      "Мурзаев Валентин Геннадьевич": 1,
-      "Сазонов Дмитрий Валерьевич": 33,
-      "Тытяневич Виталий Анатольевич": 1,
-      "Филатова Ирина Анатольевна": 10,
-      "Эйсфельд Дарья Александровна": 4
+      "gas:candidate-vibid:25920001365395": 7,
+      "gas:candidate-vibid:25920001389683": 1,
+      "gas:candidate-vibid:25920001385258": 1,
+      "gas:candidate-vibid:25920001388492": 33,
+      "gas:candidate-vibid:25920001385699": 1,
+      "gas:candidate-vibid:25920001388547": 10,
+      "gas:candidate-vibid:25920001387655": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184815&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184815&type=464",
@@ -1012,13 +1012,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 7,
-      "Колоколова Ольга Аркадьевна": 2,
-      "Мурзаев Валентин Геннадьевич": 4,
-      "Сазонов Дмитрий Валерьевич": 53,
-      "Тытяневич Виталий Анатольевич": 4,
-      "Филатова Ирина Анатольевна": 8,
-      "Эйсфельд Дарья Александровна": 4
+      "gas:candidate-vibid:25920001365395": 7,
+      "gas:candidate-vibid:25920001389683": 2,
+      "gas:candidate-vibid:25920001385258": 4,
+      "gas:candidate-vibid:25920001388492": 53,
+      "gas:candidate-vibid:25920001385699": 4,
+      "gas:candidate-vibid:25920001388547": 8,
+      "gas:candidate-vibid:25920001387655": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184815&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184815&type=464",
@@ -1069,13 +1069,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 77,
-      "Колоколова Ольга Аркадьевна": 7,
-      "Мурзаев Валентин Геннадьевич": 3,
-      "Сазонов Дмитрий Валерьевич": 232,
-      "Тытяневич Виталий Анатольевич": 20,
-      "Филатова Ирина Анатольевна": 48,
-      "Эйсфельд Дарья Александровна": 68
+      "gas:candidate-vibid:25920001365395": 77,
+      "gas:candidate-vibid:25920001389683": 7,
+      "gas:candidate-vibid:25920001385258": 3,
+      "gas:candidate-vibid:25920001388492": 232,
+      "gas:candidate-vibid:25920001385699": 20,
+      "gas:candidate-vibid:25920001388547": 48,
+      "gas:candidate-vibid:25920001387655": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184816&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184816&type=464",
@@ -1126,13 +1126,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 65,
-      "Колоколова Ольга Аркадьевна": 14,
-      "Мурзаев Валентин Геннадьевич": 6,
-      "Сазонов Дмитрий Валерьевич": 222,
-      "Тытяневич Виталий Анатольевич": 11,
-      "Филатова Ирина Анатольевна": 40,
-      "Эйсфельд Дарья Александровна": 65
+      "gas:candidate-vibid:25920001365395": 65,
+      "gas:candidate-vibid:25920001389683": 14,
+      "gas:candidate-vibid:25920001385258": 6,
+      "gas:candidate-vibid:25920001388492": 222,
+      "gas:candidate-vibid:25920001385699": 11,
+      "gas:candidate-vibid:25920001388547": 40,
+      "gas:candidate-vibid:25920001387655": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184816&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184816&type=464",
@@ -1183,13 +1183,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 10,
-      "Колоколова Ольга Аркадьевна": 2,
-      "Мурзаев Валентин Геннадьевич": 0,
-      "Сазонов Дмитрий Валерьевич": 37,
-      "Тытяневич Виталий Анатольевич": 0,
-      "Филатова Ирина Анатольевна": 5,
-      "Эйсфельд Дарья Александровна": 5
+      "gas:candidate-vibid:25920001365395": 10,
+      "gas:candidate-vibid:25920001389683": 2,
+      "gas:candidate-vibid:25920001385258": 0,
+      "gas:candidate-vibid:25920001388492": 37,
+      "gas:candidate-vibid:25920001385699": 0,
+      "gas:candidate-vibid:25920001388547": 5,
+      "gas:candidate-vibid:25920001387655": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184816&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184816&type=464",
@@ -1240,13 +1240,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 24,
-      "Колоколова Ольга Аркадьевна": 4,
-      "Мурзаев Валентин Геннадьевич": 5,
-      "Сазонов Дмитрий Валерьевич": 86,
-      "Тытяневич Виталий Анатольевич": 3,
-      "Филатова Ирина Анатольевна": 8,
-      "Эйсфельд Дарья Александровна": 28
+      "gas:candidate-vibid:25920001365395": 24,
+      "gas:candidate-vibid:25920001389683": 4,
+      "gas:candidate-vibid:25920001385258": 5,
+      "gas:candidate-vibid:25920001388492": 86,
+      "gas:candidate-vibid:25920001385699": 3,
+      "gas:candidate-vibid:25920001388547": 8,
+      "gas:candidate-vibid:25920001387655": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184816&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184816&type=464",
@@ -1297,13 +1297,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 6,
-      "Колоколова Ольга Аркадьевна": 0,
-      "Мурзаев Валентин Геннадьевич": 1,
-      "Сазонов Дмитрий Валерьевич": 30,
-      "Тытяневич Виталий Анатольевич": 4,
-      "Филатова Ирина Анатольевна": 9,
-      "Эйсфельд Дарья Александровна": 7
+      "gas:candidate-vibid:25920001365395": 6,
+      "gas:candidate-vibid:25920001389683": 0,
+      "gas:candidate-vibid:25920001385258": 1,
+      "gas:candidate-vibid:25920001388492": 30,
+      "gas:candidate-vibid:25920001385699": 4,
+      "gas:candidate-vibid:25920001388547": 9,
+      "gas:candidate-vibid:25920001387655": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184816&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184816&type=464",
@@ -1354,13 +1354,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 6,
-      "Колоколова Ольга Аркадьевна": 5,
-      "Мурзаев Валентин Геннадьевич": 0,
-      "Сазонов Дмитрий Валерьевич": 70,
-      "Тытяневич Виталий Анатольевич": 5,
-      "Филатова Ирина Анатольевна": 12,
-      "Эйсфельд Дарья Александровна": 16
+      "gas:candidate-vibid:25920001365395": 6,
+      "gas:candidate-vibid:25920001389683": 5,
+      "gas:candidate-vibid:25920001385258": 0,
+      "gas:candidate-vibid:25920001388492": 70,
+      "gas:candidate-vibid:25920001385699": 5,
+      "gas:candidate-vibid:25920001388547": 12,
+      "gas:candidate-vibid:25920001387655": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184816&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184816&type=464",
@@ -1411,13 +1411,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 2,
-      "Колоколова Ольга Аркадьевна": 3,
-      "Мурзаев Валентин Геннадьевич": 2,
-      "Сазонов Дмитрий Валерьевич": 29,
-      "Тытяневич Виталий Анатольевич": 1,
-      "Филатова Ирина Анатольевна": 14,
-      "Эйсфельд Дарья Александровна": 4
+      "gas:candidate-vibid:25920001365395": 2,
+      "gas:candidate-vibid:25920001389683": 3,
+      "gas:candidate-vibid:25920001385258": 2,
+      "gas:candidate-vibid:25920001388492": 29,
+      "gas:candidate-vibid:25920001385699": 1,
+      "gas:candidate-vibid:25920001388547": 14,
+      "gas:candidate-vibid:25920001387655": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184816&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184816&type=464",
@@ -1468,13 +1468,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 7,
-      "Колоколова Ольга Аркадьевна": 2,
-      "Мурзаев Валентин Геннадьевич": 1,
-      "Сазонов Дмитрий Валерьевич": 12,
-      "Тытяневич Виталий Анатольевич": 6,
-      "Филатова Ирина Анатольевна": 6,
-      "Эйсфельд Дарья Александровна": 4
+      "gas:candidate-vibid:25920001365395": 7,
+      "gas:candidate-vibid:25920001389683": 2,
+      "gas:candidate-vibid:25920001385258": 1,
+      "gas:candidate-vibid:25920001388492": 12,
+      "gas:candidate-vibid:25920001385699": 6,
+      "gas:candidate-vibid:25920001388547": 6,
+      "gas:candidate-vibid:25920001387655": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184816&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184816&type=464",
@@ -1525,13 +1525,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 14,
-      "Колоколова Ольга Аркадьевна": 3,
-      "Мурзаев Валентин Геннадьевич": 2,
-      "Сазонов Дмитрий Валерьевич": 73,
-      "Тытяневич Виталий Анатольевич": 8,
-      "Филатова Ирина Анатольевна": 9,
-      "Эйсфельд Дарья Александровна": 8
+      "gas:candidate-vibid:25920001365395": 14,
+      "gas:candidate-vibid:25920001389683": 3,
+      "gas:candidate-vibid:25920001385258": 2,
+      "gas:candidate-vibid:25920001388492": 73,
+      "gas:candidate-vibid:25920001385699": 8,
+      "gas:candidate-vibid:25920001388547": 9,
+      "gas:candidate-vibid:25920001387655": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184816&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184816&type=464",
@@ -1582,13 +1582,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 12,
-      "Колоколова Ольга Аркадьевна": 1,
-      "Мурзаев Валентин Геннадьевич": 1,
-      "Сазонов Дмитрий Валерьевич": 50,
-      "Тытяневич Виталий Анатольевич": 2,
-      "Филатова Ирина Анатольевна": 9,
-      "Эйсфельд Дарья Александровна": 3
+      "gas:candidate-vibid:25920001365395": 12,
+      "gas:candidate-vibid:25920001389683": 1,
+      "gas:candidate-vibid:25920001385258": 1,
+      "gas:candidate-vibid:25920001388492": 50,
+      "gas:candidate-vibid:25920001385699": 2,
+      "gas:candidate-vibid:25920001388547": 9,
+      "gas:candidate-vibid:25920001387655": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184816&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184816&type=464",
@@ -1639,13 +1639,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 17,
-      "Колоколова Ольга Аркадьевна": 6,
-      "Мурзаев Валентин Геннадьевич": 3,
-      "Сазонов Дмитрий Валерьевич": 149,
-      "Тытяневич Виталий Анатольевич": 4,
-      "Филатова Ирина Анатольевна": 16,
-      "Эйсфельд Дарья Александровна": 12
+      "gas:candidate-vibid:25920001365395": 17,
+      "gas:candidate-vibid:25920001389683": 6,
+      "gas:candidate-vibid:25920001385258": 3,
+      "gas:candidate-vibid:25920001388492": 149,
+      "gas:candidate-vibid:25920001385699": 4,
+      "gas:candidate-vibid:25920001388547": 16,
+      "gas:candidate-vibid:25920001387655": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184816&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184816&type=464",
@@ -1696,13 +1696,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 3,
-      "Колоколова Ольга Аркадьевна": 2,
-      "Мурзаев Валентин Геннадьевич": 6,
-      "Сазонов Дмитрий Валерьевич": 39,
-      "Тытяневич Виталий Анатольевич": 1,
-      "Филатова Ирина Анатольевна": 14,
-      "Эйсфельд Дарья Александровна": 3
+      "gas:candidate-vibid:25920001365395": 3,
+      "gas:candidate-vibid:25920001389683": 2,
+      "gas:candidate-vibid:25920001385258": 6,
+      "gas:candidate-vibid:25920001388492": 39,
+      "gas:candidate-vibid:25920001385699": 1,
+      "gas:candidate-vibid:25920001388547": 14,
+      "gas:candidate-vibid:25920001387655": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184816&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184816&type=464",
@@ -1753,13 +1753,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 17,
-      "Колоколова Ольга Аркадьевна": 10,
-      "Мурзаев Валентин Геннадьевич": 5,
-      "Сазонов Дмитрий Валерьевич": 127,
-      "Тытяневич Виталий Анатольевич": 14,
-      "Филатова Ирина Анатольевна": 28,
-      "Эйсфельд Дарья Александровна": 24
+      "gas:candidate-vibid:25920001365395": 17,
+      "gas:candidate-vibid:25920001389683": 10,
+      "gas:candidate-vibid:25920001385258": 5,
+      "gas:candidate-vibid:25920001388492": 127,
+      "gas:candidate-vibid:25920001385699": 14,
+      "gas:candidate-vibid:25920001388547": 28,
+      "gas:candidate-vibid:25920001387655": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184816&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184816&type=464",
@@ -1810,13 +1810,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 5,
-      "Колоколова Ольга Аркадьевна": 2,
-      "Мурзаев Валентин Геннадьевич": 0,
-      "Сазонов Дмитрий Валерьевич": 46,
-      "Тытяневич Виталий Анатольевич": 1,
-      "Филатова Ирина Анатольевна": 4,
-      "Эйсфельд Дарья Александровна": 9
+      "gas:candidate-vibid:25920001365395": 5,
+      "gas:candidate-vibid:25920001389683": 2,
+      "gas:candidate-vibid:25920001385258": 0,
+      "gas:candidate-vibid:25920001388492": 46,
+      "gas:candidate-vibid:25920001385699": 1,
+      "gas:candidate-vibid:25920001388547": 4,
+      "gas:candidate-vibid:25920001387655": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184816&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184816&type=464",
@@ -1867,13 +1867,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 6,
-      "Колоколова Ольга Аркадьевна": 3,
-      "Мурзаев Валентин Геннадьевич": 0,
-      "Сазонов Дмитрий Валерьевич": 21,
-      "Тытяневич Виталий Анатольевич": 4,
-      "Филатова Ирина Анатольевна": 7,
-      "Эйсфельд Дарья Александровна": 1
+      "gas:candidate-vibid:25920001365395": 6,
+      "gas:candidate-vibid:25920001389683": 3,
+      "gas:candidate-vibid:25920001385258": 0,
+      "gas:candidate-vibid:25920001388492": 21,
+      "gas:candidate-vibid:25920001385699": 4,
+      "gas:candidate-vibid:25920001388547": 7,
+      "gas:candidate-vibid:25920001387655": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184816&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184816&type=464",
@@ -1924,13 +1924,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 7,
-      "Колоколова Ольга Аркадьевна": 2,
-      "Мурзаев Валентин Геннадьевич": 0,
-      "Сазонов Дмитрий Валерьевич": 22,
-      "Тытяневич Виталий Анатольевич": 6,
-      "Филатова Ирина Анатольевна": 23,
-      "Эйсфельд Дарья Александровна": 3
+      "gas:candidate-vibid:25920001365395": 7,
+      "gas:candidate-vibid:25920001389683": 2,
+      "gas:candidate-vibid:25920001385258": 0,
+      "gas:candidate-vibid:25920001388492": 22,
+      "gas:candidate-vibid:25920001385699": 6,
+      "gas:candidate-vibid:25920001388547": 23,
+      "gas:candidate-vibid:25920001387655": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184816&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184816&type=464",
@@ -1981,13 +1981,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 13,
-      "Колоколова Ольга Аркадьевна": 2,
-      "Мурзаев Валентин Геннадьевич": 3,
-      "Сазонов Дмитрий Валерьевич": 57,
-      "Тытяневич Виталий Анатольевич": 11,
-      "Филатова Ирина Анатольевна": 43,
-      "Эйсфельд Дарья Александровна": 23
+      "gas:candidate-vibid:25920001365395": 13,
+      "gas:candidate-vibid:25920001389683": 2,
+      "gas:candidate-vibid:25920001385258": 3,
+      "gas:candidate-vibid:25920001388492": 57,
+      "gas:candidate-vibid:25920001385699": 11,
+      "gas:candidate-vibid:25920001388547": 43,
+      "gas:candidate-vibid:25920001387655": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184816&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184816&type=464",
@@ -2038,13 +2038,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 3,
-      "Колоколова Ольга Аркадьевна": 1,
-      "Мурзаев Валентин Геннадьевич": 2,
-      "Сазонов Дмитрий Валерьевич": 32,
-      "Тытяневич Виталий Анатольевич": 10,
-      "Филатова Ирина Анатольевна": 16,
-      "Эйсфельд Дарья Александровна": 2
+      "gas:candidate-vibid:25920001365395": 3,
+      "gas:candidate-vibid:25920001389683": 1,
+      "gas:candidate-vibid:25920001385258": 2,
+      "gas:candidate-vibid:25920001388492": 32,
+      "gas:candidate-vibid:25920001385699": 10,
+      "gas:candidate-vibid:25920001388547": 16,
+      "gas:candidate-vibid:25920001387655": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184816&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184816&type=464",
@@ -2095,13 +2095,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 15,
-      "Колоколова Ольга Аркадьевна": 2,
-      "Мурзаев Валентин Геннадьевич": 3,
-      "Сазонов Дмитрий Валерьевич": 109,
-      "Тытяневич Виталий Анатольевич": 8,
-      "Филатова Ирина Анатольевна": 8,
-      "Эйсфельд Дарья Александровна": 14
+      "gas:candidate-vibid:25920001365395": 15,
+      "gas:candidate-vibid:25920001389683": 2,
+      "gas:candidate-vibid:25920001385258": 3,
+      "gas:candidate-vibid:25920001388492": 109,
+      "gas:candidate-vibid:25920001385699": 8,
+      "gas:candidate-vibid:25920001388547": 8,
+      "gas:candidate-vibid:25920001387655": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184816&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184816&type=464",
@@ -2152,13 +2152,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 21,
-      "Колоколова Ольга Аркадьевна": 6,
-      "Мурзаев Валентин Геннадьевич": 2,
-      "Сазонов Дмитрий Валерьевич": 87,
-      "Тытяневич Виталий Анатольевич": 9,
-      "Филатова Ирина Анатольевна": 15,
-      "Эйсфельд Дарья Александровна": 19
+      "gas:candidate-vibid:25920001365395": 21,
+      "gas:candidate-vibid:25920001389683": 6,
+      "gas:candidate-vibid:25920001385258": 2,
+      "gas:candidate-vibid:25920001388492": 87,
+      "gas:candidate-vibid:25920001385699": 9,
+      "gas:candidate-vibid:25920001388547": 15,
+      "gas:candidate-vibid:25920001387655": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184816&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184816&type=464",
@@ -2209,13 +2209,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 8,
-      "Колоколова Ольга Аркадьевна": 2,
-      "Мурзаев Валентин Геннадьевич": 1,
-      "Сазонов Дмитрий Валерьевич": 46,
-      "Тытяневич Виталий Анатольевич": 2,
-      "Филатова Ирина Анатольевна": 5,
-      "Эйсфельд Дарья Александровна": 7
+      "gas:candidate-vibid:25920001365395": 8,
+      "gas:candidate-vibid:25920001389683": 2,
+      "gas:candidate-vibid:25920001385258": 1,
+      "gas:candidate-vibid:25920001388492": 46,
+      "gas:candidate-vibid:25920001385699": 2,
+      "gas:candidate-vibid:25920001388547": 5,
+      "gas:candidate-vibid:25920001387655": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184816&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184816&type=464",
@@ -2266,13 +2266,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 42,
-      "Колоколова Ольга Аркадьевна": 6,
-      "Мурзаев Валентин Геннадьевич": 5,
-      "Сазонов Дмитрий Валерьевич": 64,
-      "Тытяневич Виталий Анатольевич": 34,
-      "Филатова Ирина Анатольевна": 25,
-      "Эйсфельд Дарья Александровна": 23
+      "gas:candidate-vibid:25920001365395": 42,
+      "gas:candidate-vibid:25920001389683": 6,
+      "gas:candidate-vibid:25920001385258": 5,
+      "gas:candidate-vibid:25920001388492": 64,
+      "gas:candidate-vibid:25920001385699": 34,
+      "gas:candidate-vibid:25920001388547": 25,
+      "gas:candidate-vibid:25920001387655": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184817&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184817&type=464",
@@ -2323,13 +2323,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 98,
-      "Колоколова Ольга Аркадьевна": 16,
-      "Мурзаев Валентин Геннадьевич": 2,
-      "Сазонов Дмитрий Валерьевич": 143,
-      "Тытяневич Виталий Анатольевич": 37,
-      "Филатова Ирина Анатольевна": 57,
-      "Эйсфельд Дарья Александровна": 55
+      "gas:candidate-vibid:25920001365395": 98,
+      "gas:candidate-vibid:25920001389683": 16,
+      "gas:candidate-vibid:25920001385258": 2,
+      "gas:candidate-vibid:25920001388492": 143,
+      "gas:candidate-vibid:25920001385699": 37,
+      "gas:candidate-vibid:25920001388547": 57,
+      "gas:candidate-vibid:25920001387655": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184817&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184817&type=464",
@@ -2380,13 +2380,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 24,
-      "Колоколова Ольга Аркадьевна": 4,
-      "Мурзаев Валентин Геннадьевич": 0,
-      "Сазонов Дмитрий Валерьевич": 32,
-      "Тытяневич Виталий Анатольевич": 15,
-      "Филатова Ирина Анатольевна": 15,
-      "Эйсфельд Дарья Александровна": 6
+      "gas:candidate-vibid:25920001365395": 24,
+      "gas:candidate-vibid:25920001389683": 4,
+      "gas:candidate-vibid:25920001385258": 0,
+      "gas:candidate-vibid:25920001388492": 32,
+      "gas:candidate-vibid:25920001385699": 15,
+      "gas:candidate-vibid:25920001388547": 15,
+      "gas:candidate-vibid:25920001387655": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184817&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184817&type=464",
@@ -2437,13 +2437,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 72,
-      "Колоколова Ольга Аркадьевна": 17,
-      "Мурзаев Валентин Геннадьевич": 6,
-      "Сазонов Дмитрий Валерьевич": 103,
-      "Тытяневич Виталий Анатольевич": 30,
-      "Филатова Ирина Анатольевна": 73,
-      "Эйсфельд Дарья Александровна": 29
+      "gas:candidate-vibid:25920001365395": 72,
+      "gas:candidate-vibid:25920001389683": 17,
+      "gas:candidate-vibid:25920001385258": 6,
+      "gas:candidate-vibid:25920001388492": 103,
+      "gas:candidate-vibid:25920001385699": 30,
+      "gas:candidate-vibid:25920001388547": 73,
+      "gas:candidate-vibid:25920001387655": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184817&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184817&type=464",
@@ -2494,13 +2494,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 89,
-      "Колоколова Ольга Аркадьевна": 14,
-      "Мурзаев Валентин Геннадьевич": 8,
-      "Сазонов Дмитрий Валерьевич": 148,
-      "Тытяневич Виталий Анатольевич": 38,
-      "Филатова Ирина Анатольевна": 53,
-      "Эйсфельд Дарья Александровна": 50
+      "gas:candidate-vibid:25920001365395": 89,
+      "gas:candidate-vibid:25920001389683": 14,
+      "gas:candidate-vibid:25920001385258": 8,
+      "gas:candidate-vibid:25920001388492": 148,
+      "gas:candidate-vibid:25920001385699": 38,
+      "gas:candidate-vibid:25920001388547": 53,
+      "gas:candidate-vibid:25920001387655": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184817&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184817&type=464",
@@ -2551,13 +2551,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 82,
-      "Колоколова Ольга Аркадьевна": 19,
-      "Мурзаев Валентин Геннадьевич": 10,
-      "Сазонов Дмитрий Валерьевич": 109,
-      "Тытяневич Виталий Анатольевич": 34,
-      "Филатова Ирина Анатольевна": 76,
-      "Эйсфельд Дарья Александровна": 51
+      "gas:candidate-vibid:25920001365395": 82,
+      "gas:candidate-vibid:25920001389683": 19,
+      "gas:candidate-vibid:25920001385258": 10,
+      "gas:candidate-vibid:25920001388492": 109,
+      "gas:candidate-vibid:25920001385699": 34,
+      "gas:candidate-vibid:25920001388547": 76,
+      "gas:candidate-vibid:25920001387655": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184817&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184817&type=464",
@@ -2608,13 +2608,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 89,
-      "Колоколова Ольга Аркадьевна": 14,
-      "Мурзаев Валентин Геннадьевич": 7,
-      "Сазонов Дмитрий Валерьевич": 154,
-      "Тытяневич Виталий Анатольевич": 26,
-      "Филатова Ирина Анатольевна": 47,
-      "Эйсфельд Дарья Александровна": 44
+      "gas:candidate-vibid:25920001365395": 89,
+      "gas:candidate-vibid:25920001389683": 14,
+      "gas:candidate-vibid:25920001385258": 7,
+      "gas:candidate-vibid:25920001388492": 154,
+      "gas:candidate-vibid:25920001385699": 26,
+      "gas:candidate-vibid:25920001388547": 47,
+      "gas:candidate-vibid:25920001387655": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184817&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184817&type=464",
@@ -2665,13 +2665,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 74,
-      "Колоколова Ольга Аркадьевна": 9,
-      "Мурзаев Валентин Геннадьевич": 10,
-      "Сазонов Дмитрий Валерьевич": 143,
-      "Тытяневич Виталий Анатольевич": 42,
-      "Филатова Ирина Анатольевна": 87,
-      "Эйсфельд Дарья Александровна": 52
+      "gas:candidate-vibid:25920001365395": 74,
+      "gas:candidate-vibid:25920001389683": 9,
+      "gas:candidate-vibid:25920001385258": 10,
+      "gas:candidate-vibid:25920001388492": 143,
+      "gas:candidate-vibid:25920001385699": 42,
+      "gas:candidate-vibid:25920001388547": 87,
+      "gas:candidate-vibid:25920001387655": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184817&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184817&type=464",
@@ -2722,13 +2722,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 78,
-      "Колоколова Ольга Аркадьевна": 26,
-      "Мурзаев Валентин Геннадьевич": 8,
-      "Сазонов Дмитрий Валерьевич": 132,
-      "Тытяневич Виталий Анатольевич": 31,
-      "Филатова Ирина Анатольевна": 50,
-      "Эйсфельд Дарья Александровна": 28
+      "gas:candidate-vibid:25920001365395": 78,
+      "gas:candidate-vibid:25920001389683": 26,
+      "gas:candidate-vibid:25920001385258": 8,
+      "gas:candidate-vibid:25920001388492": 132,
+      "gas:candidate-vibid:25920001385699": 31,
+      "gas:candidate-vibid:25920001388547": 50,
+      "gas:candidate-vibid:25920001387655": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184817&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184817&type=464",
@@ -2779,13 +2779,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 78,
-      "Колоколова Ольга Аркадьевна": 10,
-      "Мурзаев Валентин Геннадьевич": 4,
-      "Сазонов Дмитрий Валерьевич": 99,
-      "Тытяневич Виталий Анатольевич": 17,
-      "Филатова Ирина Анатольевна": 39,
-      "Эйсфельд Дарья Александровна": 30
+      "gas:candidate-vibid:25920001365395": 78,
+      "gas:candidate-vibid:25920001389683": 10,
+      "gas:candidate-vibid:25920001385258": 4,
+      "gas:candidate-vibid:25920001388492": 99,
+      "gas:candidate-vibid:25920001385699": 17,
+      "gas:candidate-vibid:25920001388547": 39,
+      "gas:candidate-vibid:25920001387655": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184817&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184817&type=464",
@@ -2836,13 +2836,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 12,
-      "Колоколова Ольга Аркадьевна": 7,
-      "Мурзаев Валентин Геннадьевич": 3,
-      "Сазонов Дмитрий Валерьевич": 32,
-      "Тытяневич Виталий Анатольевич": 8,
-      "Филатова Ирина Анатольевна": 13,
-      "Эйсфельд Дарья Александровна": 4
+      "gas:candidate-vibid:25920001365395": 12,
+      "gas:candidate-vibid:25920001389683": 7,
+      "gas:candidate-vibid:25920001385258": 3,
+      "gas:candidate-vibid:25920001388492": 32,
+      "gas:candidate-vibid:25920001385699": 8,
+      "gas:candidate-vibid:25920001388547": 13,
+      "gas:candidate-vibid:25920001387655": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184817&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184817&type=464",
@@ -2893,13 +2893,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 78,
-      "Колоколова Ольга Аркадьевна": 12,
-      "Мурзаев Валентин Геннадьевич": 4,
-      "Сазонов Дмитрий Валерьевич": 79,
-      "Тытяневич Виталий Анатольевич": 16,
-      "Филатова Ирина Анатольевна": 28,
-      "Эйсфельд Дарья Александровна": 29
+      "gas:candidate-vibid:25920001365395": 78,
+      "gas:candidate-vibid:25920001389683": 12,
+      "gas:candidate-vibid:25920001385258": 4,
+      "gas:candidate-vibid:25920001388492": 79,
+      "gas:candidate-vibid:25920001385699": 16,
+      "gas:candidate-vibid:25920001388547": 28,
+      "gas:candidate-vibid:25920001387655": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184817&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184817&type=464",
@@ -2950,13 +2950,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 71,
-      "Колоколова Ольга Аркадьевна": 11,
-      "Мурзаев Валентин Геннадьевич": 1,
-      "Сазонов Дмитрий Валерьевич": 127,
-      "Тытяневич Виталий Анатольевич": 20,
-      "Филатова Ирина Анатольевна": 39,
-      "Эйсфельд Дарья Александровна": 37
+      "gas:candidate-vibid:25920001365395": 71,
+      "gas:candidate-vibid:25920001389683": 11,
+      "gas:candidate-vibid:25920001385258": 1,
+      "gas:candidate-vibid:25920001388492": 127,
+      "gas:candidate-vibid:25920001385699": 20,
+      "gas:candidate-vibid:25920001388547": 39,
+      "gas:candidate-vibid:25920001387655": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184817&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184817&type=464",
@@ -3007,13 +3007,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 6,
-      "Колоколова Ольга Аркадьевна": 1,
-      "Мурзаев Валентин Геннадьевич": 2,
-      "Сазонов Дмитрий Валерьевич": 41,
-      "Тытяневич Виталий Анатольевич": 4,
-      "Филатова Ирина Анатольевна": 8,
-      "Эйсфельд Дарья Александровна": 5
+      "gas:candidate-vibid:25920001365395": 6,
+      "gas:candidate-vibid:25920001389683": 1,
+      "gas:candidate-vibid:25920001385258": 2,
+      "gas:candidate-vibid:25920001388492": 41,
+      "gas:candidate-vibid:25920001385699": 4,
+      "gas:candidate-vibid:25920001388547": 8,
+      "gas:candidate-vibid:25920001387655": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184817&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184817&type=464",
@@ -3064,13 +3064,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 23,
-      "Колоколова Ольга Аркадьевна": 6,
-      "Мурзаев Валентин Геннадьевич": 3,
-      "Сазонов Дмитрий Валерьевич": 34,
-      "Тытяневич Виталий Анатольевич": 13,
-      "Филатова Ирина Анатольевна": 17,
-      "Эйсфельд Дарья Александровна": 3
+      "gas:candidate-vibid:25920001365395": 23,
+      "gas:candidate-vibid:25920001389683": 6,
+      "gas:candidate-vibid:25920001385258": 3,
+      "gas:candidate-vibid:25920001388492": 34,
+      "gas:candidate-vibid:25920001385699": 13,
+      "gas:candidate-vibid:25920001388547": 17,
+      "gas:candidate-vibid:25920001387655": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184817&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184817&type=464",
@@ -3121,13 +3121,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 38,
-      "Колоколова Ольга Аркадьевна": 6,
-      "Мурзаев Валентин Геннадьевич": 5,
-      "Сазонов Дмитрий Валерьевич": 111,
-      "Тытяневич Виталий Анатольевич": 22,
-      "Филатова Ирина Анатольевна": 26,
-      "Эйсфельд Дарья Александровна": 8
+      "gas:candidate-vibid:25920001365395": 38,
+      "gas:candidate-vibid:25920001389683": 6,
+      "gas:candidate-vibid:25920001385258": 5,
+      "gas:candidate-vibid:25920001388492": 111,
+      "gas:candidate-vibid:25920001385699": 22,
+      "gas:candidate-vibid:25920001388547": 26,
+      "gas:candidate-vibid:25920001387655": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184817&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184817&type=464",
@@ -3178,13 +3178,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 24,
-      "Колоколова Ольга Аркадьевна": 4,
-      "Мурзаев Валентин Геннадьевич": 3,
-      "Сазонов Дмитрий Валерьевич": 52,
-      "Тытяневич Виталий Анатольевич": 7,
-      "Филатова Ирина Анатольевна": 20,
-      "Эйсфельд Дарья Александровна": 5
+      "gas:candidate-vibid:25920001365395": 24,
+      "gas:candidate-vibid:25920001389683": 4,
+      "gas:candidate-vibid:25920001385258": 3,
+      "gas:candidate-vibid:25920001388492": 52,
+      "gas:candidate-vibid:25920001385699": 7,
+      "gas:candidate-vibid:25920001388547": 20,
+      "gas:candidate-vibid:25920001387655": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184817&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184817&type=464",
@@ -3235,13 +3235,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 11,
-      "Колоколова Ольга Аркадьевна": 4,
-      "Мурзаев Валентин Геннадьевич": 0,
-      "Сазонов Дмитрий Валерьевич": 31,
-      "Тытяневич Виталий Анатольевич": 2,
-      "Филатова Ирина Анатольевна": 4,
-      "Эйсфельд Дарья Александровна": 4
+      "gas:candidate-vibid:25920001365395": 11,
+      "gas:candidate-vibid:25920001389683": 4,
+      "gas:candidate-vibid:25920001385258": 0,
+      "gas:candidate-vibid:25920001388492": 31,
+      "gas:candidate-vibid:25920001385699": 2,
+      "gas:candidate-vibid:25920001388547": 4,
+      "gas:candidate-vibid:25920001387655": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184817&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184817&type=464",
@@ -3292,13 +3292,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 36,
-      "Колоколова Ольга Аркадьевна": 5,
-      "Мурзаев Валентин Геннадьевич": 3,
-      "Сазонов Дмитрий Валерьевич": 55,
-      "Тытяневич Виталий Анатольевич": 14,
-      "Филатова Ирина Анатольевна": 30,
-      "Эйсфельд Дарья Александровна": 8
+      "gas:candidate-vibid:25920001365395": 36,
+      "gas:candidate-vibid:25920001389683": 5,
+      "gas:candidate-vibid:25920001385258": 3,
+      "gas:candidate-vibid:25920001388492": 55,
+      "gas:candidate-vibid:25920001385699": 14,
+      "gas:candidate-vibid:25920001388547": 30,
+      "gas:candidate-vibid:25920001387655": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184817&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184817&type=464",
@@ -3349,13 +3349,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 7,
-      "Колоколова Ольга Аркадьевна": 1,
-      "Мурзаев Валентин Геннадьевич": 2,
-      "Сазонов Дмитрий Валерьевич": 17,
-      "Тытяневич Виталий Анатольевич": 4,
-      "Филатова Ирина Анатольевна": 7,
-      "Эйсфельд Дарья Александровна": 6
+      "gas:candidate-vibid:25920001365395": 7,
+      "gas:candidate-vibid:25920001389683": 1,
+      "gas:candidate-vibid:25920001385258": 2,
+      "gas:candidate-vibid:25920001388492": 17,
+      "gas:candidate-vibid:25920001385699": 4,
+      "gas:candidate-vibid:25920001388547": 7,
+      "gas:candidate-vibid:25920001387655": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184817&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184817&type=464",
@@ -3406,13 +3406,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 44,
-      "Колоколова Ольга Аркадьевна": 11,
-      "Мурзаев Валентин Геннадьевич": 3,
-      "Сазонов Дмитрий Валерьевич": 54,
-      "Тытяневич Виталий Анатольевич": 12,
-      "Филатова Ирина Анатольевна": 28,
-      "Эйсфельд Дарья Александровна": 7
+      "gas:candidate-vibid:25920001365395": 44,
+      "gas:candidate-vibid:25920001389683": 11,
+      "gas:candidate-vibid:25920001385258": 3,
+      "gas:candidate-vibid:25920001388492": 54,
+      "gas:candidate-vibid:25920001385699": 12,
+      "gas:candidate-vibid:25920001388547": 28,
+      "gas:candidate-vibid:25920001387655": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184817&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184817&type=464",
@@ -3463,13 +3463,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 4,
-      "Колоколова Ольга Аркадьевна": 3,
-      "Мурзаев Валентин Геннадьевич": 2,
-      "Сазонов Дмитрий Валерьевич": 29,
-      "Тытяневич Виталий Анатольевич": 4,
-      "Филатова Ирина Анатольевна": 4,
-      "Эйсфельд Дарья Александровна": 4
+      "gas:candidate-vibid:25920001365395": 4,
+      "gas:candidate-vibid:25920001389683": 3,
+      "gas:candidate-vibid:25920001385258": 2,
+      "gas:candidate-vibid:25920001388492": 29,
+      "gas:candidate-vibid:25920001385699": 4,
+      "gas:candidate-vibid:25920001388547": 4,
+      "gas:candidate-vibid:25920001387655": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184817&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184817&type=464",
@@ -3520,13 +3520,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 10,
-      "Колоколова Ольга Аркадьевна": 7,
-      "Мурзаев Валентин Геннадьевич": 2,
-      "Сазонов Дмитрий Валерьевич": 33,
-      "Тытяневич Виталий Анатольевич": 3,
-      "Филатова Ирина Анатольевна": 9,
-      "Эйсфельд Дарья Александровна": 1
+      "gas:candidate-vibid:25920001365395": 10,
+      "gas:candidate-vibid:25920001389683": 7,
+      "gas:candidate-vibid:25920001385258": 2,
+      "gas:candidate-vibid:25920001388492": 33,
+      "gas:candidate-vibid:25920001385699": 3,
+      "gas:candidate-vibid:25920001388547": 9,
+      "gas:candidate-vibid:25920001387655": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184817&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184817&type=464",
@@ -3577,13 +3577,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 22,
-      "Колоколова Ольга Аркадьевна": 7,
-      "Мурзаев Валентин Геннадьевич": 1,
-      "Сазонов Дмитрий Валерьевич": 36,
-      "Тытяневич Виталий Анатольевич": 6,
-      "Филатова Ирина Анатольевна": 5,
-      "Эйсфельд Дарья Александровна": 5
+      "gas:candidate-vibid:25920001365395": 22,
+      "gas:candidate-vibid:25920001389683": 7,
+      "gas:candidate-vibid:25920001385258": 1,
+      "gas:candidate-vibid:25920001388492": 36,
+      "gas:candidate-vibid:25920001385699": 6,
+      "gas:candidate-vibid:25920001388547": 5,
+      "gas:candidate-vibid:25920001387655": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184817&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184817&type=464",
@@ -3634,13 +3634,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 15,
-      "Колоколова Ольга Аркадьевна": 4,
-      "Мурзаев Валентин Геннадьевич": 0,
-      "Сазонов Дмитрий Валерьевич": 32,
-      "Тытяневич Виталий Анатольевич": 11,
-      "Филатова Ирина Анатольевна": 18,
-      "Эйсфельд Дарья Александровна": 8
+      "gas:candidate-vibid:25920001365395": 15,
+      "gas:candidate-vibid:25920001389683": 4,
+      "gas:candidate-vibid:25920001385258": 0,
+      "gas:candidate-vibid:25920001388492": 32,
+      "gas:candidate-vibid:25920001385699": 11,
+      "gas:candidate-vibid:25920001388547": 18,
+      "gas:candidate-vibid:25920001387655": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184817&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184817&type=464",
@@ -3691,13 +3691,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 5,
-      "Колоколова Ольга Аркадьевна": 2,
-      "Мурзаев Валентин Геннадьевич": 5,
-      "Сазонов Дмитрий Валерьевич": 11,
-      "Тытяневич Виталий Анатольевич": 1,
-      "Филатова Ирина Анатольевна": 5,
-      "Эйсфельд Дарья Александровна": 1
+      "gas:candidate-vibid:25920001365395": 5,
+      "gas:candidate-vibid:25920001389683": 2,
+      "gas:candidate-vibid:25920001385258": 5,
+      "gas:candidate-vibid:25920001388492": 11,
+      "gas:candidate-vibid:25920001385699": 1,
+      "gas:candidate-vibid:25920001388547": 5,
+      "gas:candidate-vibid:25920001387655": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184817&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184817&type=464",
@@ -3748,13 +3748,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 10,
-      "Колоколова Ольга Аркадьевна": 3,
-      "Мурзаев Валентин Геннадьевич": 3,
-      "Сазонов Дмитрий Валерьевич": 15,
-      "Тытяневич Виталий Анатольевич": 2,
-      "Филатова Ирина Анатольевна": 4,
-      "Эйсфельд Дарья Александровна": 2
+      "gas:candidate-vibid:25920001365395": 10,
+      "gas:candidate-vibid:25920001389683": 3,
+      "gas:candidate-vibid:25920001385258": 3,
+      "gas:candidate-vibid:25920001388492": 15,
+      "gas:candidate-vibid:25920001385699": 2,
+      "gas:candidate-vibid:25920001388547": 4,
+      "gas:candidate-vibid:25920001387655": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184817&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184817&type=464",
@@ -3805,13 +3805,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 18,
-      "Колоколова Ольга Аркадьевна": 8,
-      "Мурзаев Валентин Геннадьевич": 2,
-      "Сазонов Дмитрий Валерьевич": 51,
-      "Тытяневич Виталий Анатольевич": 8,
-      "Филатова Ирина Анатольевна": 14,
-      "Эйсфельд Дарья Александровна": 11
+      "gas:candidate-vibid:25920001365395": 18,
+      "gas:candidate-vibid:25920001389683": 8,
+      "gas:candidate-vibid:25920001385258": 2,
+      "gas:candidate-vibid:25920001388492": 51,
+      "gas:candidate-vibid:25920001385699": 8,
+      "gas:candidate-vibid:25920001388547": 14,
+      "gas:candidate-vibid:25920001387655": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184817&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184817&type=464",
@@ -3862,13 +3862,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 12,
-      "Колоколова Ольга Аркадьевна": 4,
-      "Мурзаев Валентин Геннадьевич": 2,
-      "Сазонов Дмитрий Валерьевич": 34,
-      "Тытяневич Виталий Анатольевич": 9,
-      "Филатова Ирина Анатольевна": 13,
-      "Эйсфельд Дарья Александровна": 3
+      "gas:candidate-vibid:25920001365395": 12,
+      "gas:candidate-vibid:25920001389683": 4,
+      "gas:candidate-vibid:25920001385258": 2,
+      "gas:candidate-vibid:25920001388492": 34,
+      "gas:candidate-vibid:25920001385699": 9,
+      "gas:candidate-vibid:25920001388547": 13,
+      "gas:candidate-vibid:25920001387655": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184817&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184817&type=464",
@@ -3919,13 +3919,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 26,
-      "Колоколова Ольга Аркадьевна": 12,
-      "Мурзаев Валентин Геннадьевич": 2,
-      "Сазонов Дмитрий Валерьевич": 78,
-      "Тытяневич Виталий Анатольевич": 9,
-      "Филатова Ирина Анатольевна": 15,
-      "Эйсфельд Дарья Александровна": 11
+      "gas:candidate-vibid:25920001365395": 26,
+      "gas:candidate-vibid:25920001389683": 12,
+      "gas:candidate-vibid:25920001385258": 2,
+      "gas:candidate-vibid:25920001388492": 78,
+      "gas:candidate-vibid:25920001385699": 9,
+      "gas:candidate-vibid:25920001388547": 15,
+      "gas:candidate-vibid:25920001387655": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184817&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184817&type=464",
@@ -3976,13 +3976,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 7,
-      "Колоколова Ольга Аркадьевна": 1,
-      "Мурзаев Валентин Геннадьевич": 1,
-      "Сазонов Дмитрий Валерьевич": 24,
-      "Тытяневич Виталий Анатольевич": 1,
-      "Филатова Ирина Анатольевна": 5,
-      "Эйсфельд Дарья Александровна": 5
+      "gas:candidate-vibid:25920001365395": 7,
+      "gas:candidate-vibid:25920001389683": 1,
+      "gas:candidate-vibid:25920001385258": 1,
+      "gas:candidate-vibid:25920001388492": 24,
+      "gas:candidate-vibid:25920001385699": 1,
+      "gas:candidate-vibid:25920001388547": 5,
+      "gas:candidate-vibid:25920001387655": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184817&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184817&type=464",
@@ -4033,13 +4033,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 28,
-      "Колоколова Ольга Аркадьевна": 42,
-      "Мурзаев Валентин Геннадьевич": 4,
-      "Сазонов Дмитрий Валерьевич": 64,
-      "Тытяневич Виталий Анатольевич": 22,
-      "Филатова Ирина Анатольевна": 25,
-      "Эйсфельд Дарья Александровна": 31
+      "gas:candidate-vibid:25920001365395": 28,
+      "gas:candidate-vibid:25920001389683": 42,
+      "gas:candidate-vibid:25920001385258": 4,
+      "gas:candidate-vibid:25920001388492": 64,
+      "gas:candidate-vibid:25920001385699": 22,
+      "gas:candidate-vibid:25920001388547": 25,
+      "gas:candidate-vibid:25920001387655": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184818&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184818&type=464",
@@ -4090,13 +4090,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 33,
-      "Колоколова Ольга Аркадьевна": 115,
-      "Мурзаев Валентин Геннадьевич": 5,
-      "Сазонов Дмитрий Валерьевич": 75,
-      "Тытяневич Виталий Анатольевич": 17,
-      "Филатова Ирина Анатольевна": 30,
-      "Эйсфельд Дарья Александровна": 33
+      "gas:candidate-vibid:25920001365395": 33,
+      "gas:candidate-vibid:25920001389683": 115,
+      "gas:candidate-vibid:25920001385258": 5,
+      "gas:candidate-vibid:25920001388492": 75,
+      "gas:candidate-vibid:25920001385699": 17,
+      "gas:candidate-vibid:25920001388547": 30,
+      "gas:candidate-vibid:25920001387655": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184818&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184818&type=464",
@@ -4147,13 +4147,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 30,
-      "Колоколова Ольга Аркадьевна": 153,
-      "Мурзаев Валентин Геннадьевич": 6,
-      "Сазонов Дмитрий Валерьевич": 58,
-      "Тытяневич Виталий Анатольевич": 15,
-      "Филатова Ирина Анатольевна": 47,
-      "Эйсфельд Дарья Александровна": 48
+      "gas:candidate-vibid:25920001365395": 30,
+      "gas:candidate-vibid:25920001389683": 153,
+      "gas:candidate-vibid:25920001385258": 6,
+      "gas:candidate-vibid:25920001388492": 58,
+      "gas:candidate-vibid:25920001385699": 15,
+      "gas:candidate-vibid:25920001388547": 47,
+      "gas:candidate-vibid:25920001387655": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184818&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184818&type=464",
@@ -4204,13 +4204,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 22,
-      "Колоколова Ольга Аркадьевна": 142,
-      "Мурзаев Валентин Геннадьевич": 4,
-      "Сазонов Дмитрий Валерьевич": 64,
-      "Тытяневич Виталий Анатольевич": 18,
-      "Филатова Ирина Анатольевна": 32,
-      "Эйсфельд Дарья Александровна": 31
+      "gas:candidate-vibid:25920001365395": 22,
+      "gas:candidate-vibid:25920001389683": 142,
+      "gas:candidate-vibid:25920001385258": 4,
+      "gas:candidate-vibid:25920001388492": 64,
+      "gas:candidate-vibid:25920001385699": 18,
+      "gas:candidate-vibid:25920001388547": 32,
+      "gas:candidate-vibid:25920001387655": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184818&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184818&type=464",
@@ -4261,13 +4261,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 70,
-      "Колоколова Ольга Аркадьевна": 290,
-      "Мурзаев Валентин Геннадьевич": 15,
-      "Сазонов Дмитрий Валерьевич": 154,
-      "Тытяневич Виталий Анатольевич": 33,
-      "Филатова Ирина Анатольевна": 98,
-      "Эйсфельд Дарья Александровна": 100
+      "gas:candidate-vibid:25920001365395": 70,
+      "gas:candidate-vibid:25920001389683": 290,
+      "gas:candidate-vibid:25920001385258": 15,
+      "gas:candidate-vibid:25920001388492": 154,
+      "gas:candidate-vibid:25920001385699": 33,
+      "gas:candidate-vibid:25920001388547": 98,
+      "gas:candidate-vibid:25920001387655": 100
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184818&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184818&type=464",
@@ -4318,13 +4318,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 106,
-      "Колоколова Ольга Аркадьевна": 268,
-      "Мурзаев Валентин Геннадьевич": 10,
-      "Сазонов Дмитрий Валерьевич": 209,
-      "Тытяневич Виталий Анатольевич": 58,
-      "Филатова Ирина Анатольевна": 140,
-      "Эйсфельд Дарья Александровна": 137
+      "gas:candidate-vibid:25920001365395": 106,
+      "gas:candidate-vibid:25920001389683": 268,
+      "gas:candidate-vibid:25920001385258": 10,
+      "gas:candidate-vibid:25920001388492": 209,
+      "gas:candidate-vibid:25920001385699": 58,
+      "gas:candidate-vibid:25920001388547": 140,
+      "gas:candidate-vibid:25920001387655": 137
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184818&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184818&type=464",
@@ -4375,13 +4375,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 54,
-      "Колоколова Ольга Аркадьевна": 285,
-      "Мурзаев Валентин Геннадьевич": 17,
-      "Сазонов Дмитрий Валерьевич": 149,
-      "Тытяневич Виталий Анатольевич": 19,
-      "Филатова Ирина Анатольевна": 60,
-      "Эйсфельд Дарья Александровна": 96
+      "gas:candidate-vibid:25920001365395": 54,
+      "gas:candidate-vibid:25920001389683": 285,
+      "gas:candidate-vibid:25920001385258": 17,
+      "gas:candidate-vibid:25920001388492": 149,
+      "gas:candidate-vibid:25920001385699": 19,
+      "gas:candidate-vibid:25920001388547": 60,
+      "gas:candidate-vibid:25920001387655": 96
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184818&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184818&type=464",
@@ -4432,13 +4432,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 70,
-      "Колоколова Ольга Аркадьевна": 315,
-      "Мурзаев Валентин Геннадьевич": 14,
-      "Сазонов Дмитрий Валерьевич": 192,
-      "Тытяневич Виталий Анатольевич": 42,
-      "Филатова Ирина Анатольевна": 91,
-      "Эйсфельд Дарья Александровна": 109
+      "gas:candidate-vibid:25920001365395": 70,
+      "gas:candidate-vibid:25920001389683": 315,
+      "gas:candidate-vibid:25920001385258": 14,
+      "gas:candidate-vibid:25920001388492": 192,
+      "gas:candidate-vibid:25920001385699": 42,
+      "gas:candidate-vibid:25920001388547": 91,
+      "gas:candidate-vibid:25920001387655": 109
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184818&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184818&type=464",
@@ -4489,13 +4489,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 78,
-      "Колоколова Ольга Аркадьевна": 182,
-      "Мурзаев Валентин Геннадьевич": 8,
-      "Сазонов Дмитрий Валерьевич": 179,
-      "Тытяневич Виталий Анатольевич": 40,
-      "Филатова Ирина Анатольевна": 106,
-      "Эйсфельд Дарья Александровна": 97
+      "gas:candidate-vibid:25920001365395": 78,
+      "gas:candidate-vibid:25920001389683": 182,
+      "gas:candidate-vibid:25920001385258": 8,
+      "gas:candidate-vibid:25920001388492": 179,
+      "gas:candidate-vibid:25920001385699": 40,
+      "gas:candidate-vibid:25920001388547": 106,
+      "gas:candidate-vibid:25920001387655": 97
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184818&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184818&type=464",
@@ -4546,13 +4546,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 35,
-      "Колоколова Ольга Аркадьевна": 71,
-      "Мурзаев Валентин Геннадьевич": 4,
-      "Сазонов Дмитрий Валерьевич": 80,
-      "Тытяневич Виталий Анатольевич": 18,
-      "Филатова Ирина Анатольевна": 40,
-      "Эйсфельд Дарья Александровна": 34
+      "gas:candidate-vibid:25920001365395": 35,
+      "gas:candidate-vibid:25920001389683": 71,
+      "gas:candidate-vibid:25920001385258": 4,
+      "gas:candidate-vibid:25920001388492": 80,
+      "gas:candidate-vibid:25920001385699": 18,
+      "gas:candidate-vibid:25920001388547": 40,
+      "gas:candidate-vibid:25920001387655": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184818&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184818&type=464",
@@ -4603,13 +4603,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 35,
-      "Колоколова Ольга Аркадьевна": 82,
-      "Мурзаев Валентин Геннадьевич": 3,
-      "Сазонов Дмитрий Валерьевич": 108,
-      "Тытяневич Виталий Анатольевич": 27,
-      "Филатова Ирина Анатольевна": 63,
-      "Эйсфельд Дарья Александровна": 53
+      "gas:candidate-vibid:25920001365395": 35,
+      "gas:candidate-vibid:25920001389683": 82,
+      "gas:candidate-vibid:25920001385258": 3,
+      "gas:candidate-vibid:25920001388492": 108,
+      "gas:candidate-vibid:25920001385699": 27,
+      "gas:candidate-vibid:25920001388547": 63,
+      "gas:candidate-vibid:25920001387655": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184818&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184818&type=464",
@@ -4660,13 +4660,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 75,
-      "Колоколова Ольга Аркадьевна": 210,
-      "Мурзаев Валентин Геннадьевич": 14,
-      "Сазонов Дмитрий Валерьевич": 184,
-      "Тытяневич Виталий Анатольевич": 44,
-      "Филатова Ирина Анатольевна": 103,
-      "Эйсфельд Дарья Александровна": 138
+      "gas:candidate-vibid:25920001365395": 75,
+      "gas:candidate-vibid:25920001389683": 210,
+      "gas:candidate-vibid:25920001385258": 14,
+      "gas:candidate-vibid:25920001388492": 184,
+      "gas:candidate-vibid:25920001385699": 44,
+      "gas:candidate-vibid:25920001388547": 103,
+      "gas:candidate-vibid:25920001387655": 138
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184818&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184818&type=464",
@@ -4717,13 +4717,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 67,
-      "Колоколова Ольга Аркадьевна": 169,
-      "Мурзаев Валентин Геннадьевич": 17,
-      "Сазонов Дмитрий Валерьевич": 179,
-      "Тытяневич Виталий Анатольевич": 43,
-      "Филатова Ирина Анатольевна": 98,
-      "Эйсфельд Дарья Александровна": 89
+      "gas:candidate-vibid:25920001365395": 67,
+      "gas:candidate-vibid:25920001389683": 169,
+      "gas:candidate-vibid:25920001385258": 17,
+      "gas:candidate-vibid:25920001388492": 179,
+      "gas:candidate-vibid:25920001385699": 43,
+      "gas:candidate-vibid:25920001388547": 98,
+      "gas:candidate-vibid:25920001387655": 89
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184818&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184818&type=464",
@@ -4774,13 +4774,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 93,
-      "Колоколова Ольга Аркадьевна": 150,
-      "Мурзаев Валентин Геннадьевич": 11,
-      "Сазонов Дмитрий Валерьевич": 195,
-      "Тытяневич Виталий Анатольевич": 44,
-      "Филатова Ирина Анатольевна": 128,
-      "Эйсфельд Дарья Александровна": 125
+      "gas:candidate-vibid:25920001365395": 93,
+      "gas:candidate-vibid:25920001389683": 150,
+      "gas:candidate-vibid:25920001385258": 11,
+      "gas:candidate-vibid:25920001388492": 195,
+      "gas:candidate-vibid:25920001385699": 44,
+      "gas:candidate-vibid:25920001388547": 128,
+      "gas:candidate-vibid:25920001387655": 125
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184818&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184818&type=464",
@@ -4831,13 +4831,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 54,
-      "Колоколова Ольга Аркадьевна": 147,
-      "Мурзаев Валентин Геннадьевич": 4,
-      "Сазонов Дмитрий Валерьевич": 147,
-      "Тытяневич Виталий Анатольевич": 34,
-      "Филатова Ирина Анатольевна": 95,
-      "Эйсфельд Дарья Александровна": 87
+      "gas:candidate-vibid:25920001365395": 54,
+      "gas:candidate-vibid:25920001389683": 147,
+      "gas:candidate-vibid:25920001385258": 4,
+      "gas:candidate-vibid:25920001388492": 147,
+      "gas:candidate-vibid:25920001385699": 34,
+      "gas:candidate-vibid:25920001388547": 95,
+      "gas:candidate-vibid:25920001387655": 87
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184818&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184818&type=464",
@@ -4888,13 +4888,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 62,
-      "Колоколова Ольга Аркадьевна": 94,
-      "Мурзаев Валентин Геннадьевич": 10,
-      "Сазонов Дмитрий Валерьевич": 137,
-      "Тытяневич Виталий Анатольевич": 27,
-      "Филатова Ирина Анатольевна": 87,
-      "Эйсфельд Дарья Александровна": 93
+      "gas:candidate-vibid:25920001365395": 62,
+      "gas:candidate-vibid:25920001389683": 94,
+      "gas:candidate-vibid:25920001385258": 10,
+      "gas:candidate-vibid:25920001388492": 137,
+      "gas:candidate-vibid:25920001385699": 27,
+      "gas:candidate-vibid:25920001388547": 87,
+      "gas:candidate-vibid:25920001387655": 93
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184818&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184818&type=464",
@@ -4945,13 +4945,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 61,
-      "Колоколова Ольга Аркадьевна": 186,
-      "Мурзаев Валентин Геннадьевич": 4,
-      "Сазонов Дмитрий Валерьевич": 140,
-      "Тытяневич Виталий Анатольевич": 32,
-      "Филатова Ирина Анатольевна": 55,
-      "Эйсфельд Дарья Александровна": 67
+      "gas:candidate-vibid:25920001365395": 61,
+      "gas:candidate-vibid:25920001389683": 186,
+      "gas:candidate-vibid:25920001385258": 4,
+      "gas:candidate-vibid:25920001388492": 140,
+      "gas:candidate-vibid:25920001385699": 32,
+      "gas:candidate-vibid:25920001388547": 55,
+      "gas:candidate-vibid:25920001387655": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184818&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184818&type=464",
@@ -5002,13 +5002,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 72,
-      "Колоколова Ольга Аркадьевна": 151,
-      "Мурзаев Валентин Геннадьевич": 6,
-      "Сазонов Дмитрий Валерьевич": 166,
-      "Тытяневич Виталий Анатольевич": 27,
-      "Филатова Ирина Анатольевна": 114,
-      "Эйсфельд Дарья Александровна": 110
+      "gas:candidate-vibid:25920001365395": 72,
+      "gas:candidate-vibid:25920001389683": 151,
+      "gas:candidate-vibid:25920001385258": 6,
+      "gas:candidate-vibid:25920001388492": 166,
+      "gas:candidate-vibid:25920001385699": 27,
+      "gas:candidate-vibid:25920001388547": 114,
+      "gas:candidate-vibid:25920001387655": 110
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184818&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184818&type=464",
@@ -5059,13 +5059,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 64,
-      "Колоколова Ольга Аркадьевна": 82,
-      "Мурзаев Валентин Геннадьевич": 11,
-      "Сазонов Дмитрий Валерьевич": 136,
-      "Тытяневич Виталий Анатольевич": 35,
-      "Филатова Ирина Анатольевна": 72,
-      "Эйсфельд Дарья Александровна": 90
+      "gas:candidate-vibid:25920001365395": 64,
+      "gas:candidate-vibid:25920001389683": 82,
+      "gas:candidate-vibid:25920001385258": 11,
+      "gas:candidate-vibid:25920001388492": 136,
+      "gas:candidate-vibid:25920001385699": 35,
+      "gas:candidate-vibid:25920001388547": 72,
+      "gas:candidate-vibid:25920001387655": 90
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184818&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184818&type=464",
@@ -5116,13 +5116,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 61,
-      "Колоколова Ольга Аркадьевна": 141,
-      "Мурзаев Валентин Геннадьевич": 7,
-      "Сазонов Дмитрий Валерьевич": 129,
-      "Тытяневич Виталий Анатольевич": 37,
-      "Филатова Ирина Анатольевна": 71,
-      "Эйсфельд Дарья Александровна": 102
+      "gas:candidate-vibid:25920001365395": 61,
+      "gas:candidate-vibid:25920001389683": 141,
+      "gas:candidate-vibid:25920001385258": 7,
+      "gas:candidate-vibid:25920001388492": 129,
+      "gas:candidate-vibid:25920001385699": 37,
+      "gas:candidate-vibid:25920001388547": 71,
+      "gas:candidate-vibid:25920001387655": 102
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184818&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184818&type=464",
@@ -5173,13 +5173,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 59,
-      "Колоколова Ольга Аркадьевна": 161,
-      "Мурзаев Валентин Геннадьевич": 6,
-      "Сазонов Дмитрий Валерьевич": 132,
-      "Тытяневич Виталий Анатольевич": 35,
-      "Филатова Ирина Анатольевна": 88,
-      "Эйсфельд Дарья Александровна": 108
+      "gas:candidate-vibid:25920001365395": 59,
+      "gas:candidate-vibid:25920001389683": 161,
+      "gas:candidate-vibid:25920001385258": 6,
+      "gas:candidate-vibid:25920001388492": 132,
+      "gas:candidate-vibid:25920001385699": 35,
+      "gas:candidate-vibid:25920001388547": 88,
+      "gas:candidate-vibid:25920001387655": 108
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184818&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184818&type=464",
@@ -5230,13 +5230,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 56,
-      "Колоколова Ольга Аркадьевна": 157,
-      "Мурзаев Валентин Геннадьевич": 10,
-      "Сазонов Дмитрий Валерьевич": 229,
-      "Тытяневич Виталий Анатольевич": 48,
-      "Филатова Ирина Анатольевна": 108,
-      "Эйсфельд Дарья Александровна": 120
+      "gas:candidate-vibid:25920001365395": 56,
+      "gas:candidate-vibid:25920001389683": 157,
+      "gas:candidate-vibid:25920001385258": 10,
+      "gas:candidate-vibid:25920001388492": 229,
+      "gas:candidate-vibid:25920001385699": 48,
+      "gas:candidate-vibid:25920001388547": 108,
+      "gas:candidate-vibid:25920001387655": 120
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184818&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184818&type=464",
@@ -5287,13 +5287,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 80,
-      "Колоколова Ольга Аркадьевна": 112,
-      "Мурзаев Валентин Геннадьевич": 6,
-      "Сазонов Дмитрий Валерьевич": 167,
-      "Тытяневич Виталий Анатольевич": 28,
-      "Филатова Ирина Анатольевна": 79,
-      "Эйсфельд Дарья Александровна": 64
+      "gas:candidate-vibid:25920001365395": 80,
+      "gas:candidate-vibid:25920001389683": 112,
+      "gas:candidate-vibid:25920001385258": 6,
+      "gas:candidate-vibid:25920001388492": 167,
+      "gas:candidate-vibid:25920001385699": 28,
+      "gas:candidate-vibid:25920001388547": 79,
+      "gas:candidate-vibid:25920001387655": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184818&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184818&type=464",
@@ -5344,13 +5344,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 61,
-      "Колоколова Ольга Аркадьевна": 143,
-      "Мурзаев Валентин Геннадьевич": 5,
-      "Сазонов Дмитрий Валерьевич": 124,
-      "Тытяневич Виталий Анатольевич": 27,
-      "Филатова Ирина Анатольевна": 54,
-      "Эйсфельд Дарья Александровна": 38
+      "gas:candidate-vibid:25920001365395": 61,
+      "gas:candidate-vibid:25920001389683": 143,
+      "gas:candidate-vibid:25920001385258": 5,
+      "gas:candidate-vibid:25920001388492": 124,
+      "gas:candidate-vibid:25920001385699": 27,
+      "gas:candidate-vibid:25920001388547": 54,
+      "gas:candidate-vibid:25920001387655": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184818&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184818&type=464",
@@ -5401,13 +5401,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 29,
-      "Колоколова Ольга Аркадьевна": 99,
-      "Мурзаев Валентин Геннадьевич": 3,
-      "Сазонов Дмитрий Валерьевич": 92,
-      "Тытяневич Виталий Анатольевич": 13,
-      "Филатова Ирина Анатольевна": 38,
-      "Эйсфельд Дарья Александровна": 35
+      "gas:candidate-vibid:25920001365395": 29,
+      "gas:candidate-vibid:25920001389683": 99,
+      "gas:candidate-vibid:25920001385258": 3,
+      "gas:candidate-vibid:25920001388492": 92,
+      "gas:candidate-vibid:25920001385699": 13,
+      "gas:candidate-vibid:25920001388547": 38,
+      "gas:candidate-vibid:25920001387655": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184818&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184818&type=464",
@@ -5458,13 +5458,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 16,
-      "Колоколова Ольга Аркадьевна": 27,
-      "Мурзаев Валентин Геннадьевич": 2,
-      "Сазонов Дмитрий Валерьевич": 20,
-      "Тытяневич Виталий Анатольевич": 10,
-      "Филатова Ирина Анатольевна": 14,
-      "Эйсфельд Дарья Александровна": 9
+      "gas:candidate-vibid:25920001365395": 16,
+      "gas:candidate-vibid:25920001389683": 27,
+      "gas:candidate-vibid:25920001385258": 2,
+      "gas:candidate-vibid:25920001388492": 20,
+      "gas:candidate-vibid:25920001385699": 10,
+      "gas:candidate-vibid:25920001388547": 14,
+      "gas:candidate-vibid:25920001387655": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184818&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184818&type=464",
@@ -5515,13 +5515,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 49,
-      "Колоколова Ольга Аркадьевна": 172,
-      "Мурзаев Валентин Геннадьевич": 5,
-      "Сазонов Дмитрий Валерьевич": 74,
-      "Тытяневич Виталий Анатольевич": 22,
-      "Филатова Ирина Анатольевна": 28,
-      "Эйсфельд Дарья Александровна": 40
+      "gas:candidate-vibid:25920001365395": 49,
+      "gas:candidate-vibid:25920001389683": 172,
+      "gas:candidate-vibid:25920001385258": 5,
+      "gas:candidate-vibid:25920001388492": 74,
+      "gas:candidate-vibid:25920001385699": 22,
+      "gas:candidate-vibid:25920001388547": 28,
+      "gas:candidate-vibid:25920001387655": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184818&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184818&type=464",
@@ -5572,13 +5572,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 101,
-      "Колоколова Ольга Аркадьевна": 209,
-      "Мурзаев Валентин Геннадьевич": 12,
-      "Сазонов Дмитрий Валерьевич": 175,
-      "Тытяневич Виталий Анатольевич": 62,
-      "Филатова Ирина Анатольевна": 104,
-      "Эйсфельд Дарья Александровна": 92
+      "gas:candidate-vibid:25920001365395": 101,
+      "gas:candidate-vibid:25920001389683": 209,
+      "gas:candidate-vibid:25920001385258": 12,
+      "gas:candidate-vibid:25920001388492": 175,
+      "gas:candidate-vibid:25920001385699": 62,
+      "gas:candidate-vibid:25920001388547": 104,
+      "gas:candidate-vibid:25920001387655": 92
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184818&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184818&type=464",
@@ -5629,13 +5629,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 77,
-      "Колоколова Ольга Аркадьевна": 114,
-      "Мурзаев Валентин Геннадьевич": 6,
-      "Сазонов Дмитрий Валерьевич": 145,
-      "Тытяневич Виталий Анатольевич": 29,
-      "Филатова Ирина Анатольевна": 58,
-      "Эйсфельд Дарья Александровна": 50
+      "gas:candidate-vibid:25920001365395": 77,
+      "gas:candidate-vibid:25920001389683": 114,
+      "gas:candidate-vibid:25920001385258": 6,
+      "gas:candidate-vibid:25920001388492": 145,
+      "gas:candidate-vibid:25920001385699": 29,
+      "gas:candidate-vibid:25920001388547": 58,
+      "gas:candidate-vibid:25920001387655": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184818&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184818&type=464",
@@ -5686,13 +5686,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 33,
-      "Колоколова Ольга Аркадьевна": 29,
-      "Мурзаев Валентин Геннадьевич": 3,
-      "Сазонов Дмитрий Валерьевич": 31,
-      "Тытяневич Виталий Анатольевич": 4,
-      "Филатова Ирина Анатольевна": 17,
-      "Эйсфельд Дарья Александровна": 20
+      "gas:candidate-vibid:25920001365395": 33,
+      "gas:candidate-vibid:25920001389683": 29,
+      "gas:candidate-vibid:25920001385258": 3,
+      "gas:candidate-vibid:25920001388492": 31,
+      "gas:candidate-vibid:25920001385699": 4,
+      "gas:candidate-vibid:25920001388547": 17,
+      "gas:candidate-vibid:25920001387655": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184818&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184818&type=464",
@@ -5743,13 +5743,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 62,
-      "Колоколова Ольга Аркадьевна": 113,
-      "Мурзаев Валентин Геннадьевич": 4,
-      "Сазонов Дмитрий Валерьевич": 113,
-      "Тытяневич Виталий Анатольевич": 22,
-      "Филатова Ирина Анатольевна": 58,
-      "Эйсфельд Дарья Александровна": 41
+      "gas:candidate-vibid:25920001365395": 62,
+      "gas:candidate-vibid:25920001389683": 113,
+      "gas:candidate-vibid:25920001385258": 4,
+      "gas:candidate-vibid:25920001388492": 113,
+      "gas:candidate-vibid:25920001385699": 22,
+      "gas:candidate-vibid:25920001388547": 58,
+      "gas:candidate-vibid:25920001387655": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184818&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184818&type=464",
@@ -5800,13 +5800,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 13,
-      "Колоколова Ольга Аркадьевна": 56,
-      "Мурзаев Валентин Геннадьевич": 3,
-      "Сазонов Дмитрий Валерьевич": 36,
-      "Тытяневич Виталий Анатольевич": 8,
-      "Филатова Ирина Анатольевна": 12,
-      "Эйсфельд Дарья Александровна": 15
+      "gas:candidate-vibid:25920001365395": 13,
+      "gas:candidate-vibid:25920001389683": 56,
+      "gas:candidate-vibid:25920001385258": 3,
+      "gas:candidate-vibid:25920001388492": 36,
+      "gas:candidate-vibid:25920001385699": 8,
+      "gas:candidate-vibid:25920001388547": 12,
+      "gas:candidate-vibid:25920001387655": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184818&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184818&type=464",
@@ -5857,13 +5857,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 14,
-      "Колоколова Ольга Аркадьевна": 38,
-      "Мурзаев Валентин Геннадьевич": 3,
-      "Сазонов Дмитрий Валерьевич": 20,
-      "Тытяневич Виталий Анатольевич": 6,
-      "Филатова Ирина Анатольевна": 11,
-      "Эйсфельд Дарья Александровна": 8
+      "gas:candidate-vibid:25920001365395": 14,
+      "gas:candidate-vibid:25920001389683": 38,
+      "gas:candidate-vibid:25920001385258": 3,
+      "gas:candidate-vibid:25920001388492": 20,
+      "gas:candidate-vibid:25920001385699": 6,
+      "gas:candidate-vibid:25920001388547": 11,
+      "gas:candidate-vibid:25920001387655": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184818&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184818&type=464",
@@ -5914,13 +5914,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 6,
-      "Колоколова Ольга Аркадьевна": 11,
-      "Мурзаев Валентин Геннадьевич": 0,
-      "Сазонов Дмитрий Валерьевич": 18,
-      "Тытяневич Виталий Анатольевич": 3,
-      "Филатова Ирина Анатольевна": 7,
-      "Эйсфельд Дарья Александровна": 3
+      "gas:candidate-vibid:25920001365395": 6,
+      "gas:candidate-vibid:25920001389683": 11,
+      "gas:candidate-vibid:25920001385258": 0,
+      "gas:candidate-vibid:25920001388492": 18,
+      "gas:candidate-vibid:25920001385699": 3,
+      "gas:candidate-vibid:25920001388547": 7,
+      "gas:candidate-vibid:25920001387655": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184818&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184818&type=464",
@@ -5971,13 +5971,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 34,
-      "Колоколова Ольга Аркадьевна": 93,
-      "Мурзаев Валентин Геннадьевич": 5,
-      "Сазонов Дмитрий Валерьевич": 81,
-      "Тытяневич Виталий Анатольевич": 16,
-      "Филатова Ирина Анатольевна": 26,
-      "Эйсфельд Дарья Александровна": 33
+      "gas:candidate-vibid:25920001365395": 34,
+      "gas:candidate-vibid:25920001389683": 93,
+      "gas:candidate-vibid:25920001385258": 5,
+      "gas:candidate-vibid:25920001388492": 81,
+      "gas:candidate-vibid:25920001385699": 16,
+      "gas:candidate-vibid:25920001388547": 26,
+      "gas:candidate-vibid:25920001387655": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184818&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184818&type=464",
@@ -6028,13 +6028,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 80,
-      "Колоколова Ольга Аркадьевна": 178,
-      "Мурзаев Валентин Геннадьевич": 12,
-      "Сазонов Дмитрий Валерьевич": 125,
-      "Тытяневич Виталий Анатольевич": 78,
-      "Филатова Ирина Анатольевна": 203,
-      "Эйсфельд Дарья Александровна": 104
+      "gas:candidate-vibid:25920001365395": 80,
+      "gas:candidate-vibid:25920001389683": 178,
+      "gas:candidate-vibid:25920001385258": 12,
+      "gas:candidate-vibid:25920001388492": 125,
+      "gas:candidate-vibid:25920001385699": 78,
+      "gas:candidate-vibid:25920001388547": 203,
+      "gas:candidate-vibid:25920001387655": 104
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184818&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184818&type=464",
@@ -6085,13 +6085,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 66,
-      "Колоколова Ольга Аркадьевна": 140,
-      "Мурзаев Валентин Геннадьевич": 8,
-      "Сазонов Дмитрий Валерьевич": 124,
-      "Тытяневич Виталий Анатольевич": 77,
-      "Филатова Ирина Анатольевна": 241,
-      "Эйсфельд Дарья Александровна": 112
+      "gas:candidate-vibid:25920001365395": 66,
+      "gas:candidate-vibid:25920001389683": 140,
+      "gas:candidate-vibid:25920001385258": 8,
+      "gas:candidate-vibid:25920001388492": 124,
+      "gas:candidate-vibid:25920001385699": 77,
+      "gas:candidate-vibid:25920001388547": 241,
+      "gas:candidate-vibid:25920001387655": 112
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184818&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184818&type=464",
@@ -6142,13 +6142,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 9,
-      "Колоколова Ольга Аркадьевна": 57,
-      "Мурзаев Валентин Геннадьевич": 0,
-      "Сазонов Дмитрий Валерьевич": 29,
-      "Тытяневич Виталий Анатольевич": 9,
-      "Филатова Ирина Анатольевна": 18,
-      "Эйсфельд Дарья Александровна": 11
+      "gas:candidate-vibid:25920001365395": 9,
+      "gas:candidate-vibid:25920001389683": 57,
+      "gas:candidate-vibid:25920001385258": 0,
+      "gas:candidate-vibid:25920001388492": 29,
+      "gas:candidate-vibid:25920001385699": 9,
+      "gas:candidate-vibid:25920001388547": 18,
+      "gas:candidate-vibid:25920001387655": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184818&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184818&type=464",
@@ -6199,13 +6199,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 17,
-      "Колоколова Ольга Аркадьевна": 29,
-      "Мурзаев Валентин Геннадьевич": 4,
-      "Сазонов Дмитрий Валерьевич": 29,
-      "Тытяневич Виталий Анатольевич": 8,
-      "Филатова Ирина Анатольевна": 9,
-      "Эйсфельд Дарья Александровна": 18
+      "gas:candidate-vibid:25920001365395": 17,
+      "gas:candidate-vibid:25920001389683": 29,
+      "gas:candidate-vibid:25920001385258": 4,
+      "gas:candidate-vibid:25920001388492": 29,
+      "gas:candidate-vibid:25920001385699": 8,
+      "gas:candidate-vibid:25920001388547": 9,
+      "gas:candidate-vibid:25920001387655": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184818&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184818&type=464",
@@ -6256,13 +6256,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 47,
-      "Колоколова Ольга Аркадьевна": 95,
-      "Мурзаев Валентин Геннадьевич": 5,
-      "Сазонов Дмитрий Валерьевич": 172,
-      "Тытяневич Виталий Анатольевич": 42,
-      "Филатова Ирина Анатольевна": 51,
-      "Эйсфельд Дарья Александровна": 36
+      "gas:candidate-vibid:25920001365395": 47,
+      "gas:candidate-vibid:25920001389683": 95,
+      "gas:candidate-vibid:25920001385258": 5,
+      "gas:candidate-vibid:25920001388492": 172,
+      "gas:candidate-vibid:25920001385699": 42,
+      "gas:candidate-vibid:25920001388547": 51,
+      "gas:candidate-vibid:25920001387655": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184818&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184818&type=464",
@@ -6313,13 +6313,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 11,
-      "Колоколова Ольга Аркадьевна": 11,
-      "Мурзаев Валентин Геннадьевич": 0,
-      "Сазонов Дмитрий Валерьевич": 12,
-      "Тытяневич Виталий Анатольевич": 7,
-      "Филатова Ирина Анатольевна": 6,
-      "Эйсфельд Дарья Александровна": 5
+      "gas:candidate-vibid:25920001365395": 11,
+      "gas:candidate-vibid:25920001389683": 11,
+      "gas:candidate-vibid:25920001385258": 0,
+      "gas:candidate-vibid:25920001388492": 12,
+      "gas:candidate-vibid:25920001385699": 7,
+      "gas:candidate-vibid:25920001388547": 6,
+      "gas:candidate-vibid:25920001387655": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184818&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184818&type=464",
@@ -6370,13 +6370,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 43,
-      "Колоколова Ольга Аркадьевна": 10,
-      "Мурзаев Валентин Геннадьевич": 4,
-      "Сазонов Дмитрий Валерьевич": 195,
-      "Тытяневич Виталий Анатольевич": 11,
-      "Филатова Ирина Анатольевна": 47,
-      "Эйсфельд Дарья Александровна": 95
+      "gas:candidate-vibid:25920001365395": 43,
+      "gas:candidate-vibid:25920001389683": 10,
+      "gas:candidate-vibid:25920001385258": 4,
+      "gas:candidate-vibid:25920001388492": 195,
+      "gas:candidate-vibid:25920001385699": 11,
+      "gas:candidate-vibid:25920001388547": 47,
+      "gas:candidate-vibid:25920001387655": 95
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184819&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184819&type=464",
@@ -6427,13 +6427,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 12,
-      "Колоколова Ольга Аркадьевна": 4,
-      "Мурзаев Валентин Геннадьевич": 2,
-      "Сазонов Дмитрий Валерьевич": 57,
-      "Тытяневич Виталий Анатольевич": 3,
-      "Филатова Ирина Анатольевна": 9,
-      "Эйсфельд Дарья Александровна": 17
+      "gas:candidate-vibid:25920001365395": 12,
+      "gas:candidate-vibid:25920001389683": 4,
+      "gas:candidate-vibid:25920001385258": 2,
+      "gas:candidate-vibid:25920001388492": 57,
+      "gas:candidate-vibid:25920001385699": 3,
+      "gas:candidate-vibid:25920001388547": 9,
+      "gas:candidate-vibid:25920001387655": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184819&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184819&type=464",
@@ -6484,13 +6484,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 9,
-      "Колоколова Ольга Аркадьевна": 4,
-      "Мурзаев Валентин Геннадьевич": 7,
-      "Сазонов Дмитрий Валерьевич": 51,
-      "Тытяневич Виталий Анатольевич": 7,
-      "Филатова Ирина Анатольевна": 10,
-      "Эйсфельд Дарья Александровна": 11
+      "gas:candidate-vibid:25920001365395": 9,
+      "gas:candidate-vibid:25920001389683": 4,
+      "gas:candidate-vibid:25920001385258": 7,
+      "gas:candidate-vibid:25920001388492": 51,
+      "gas:candidate-vibid:25920001385699": 7,
+      "gas:candidate-vibid:25920001388547": 10,
+      "gas:candidate-vibid:25920001387655": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184819&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184819&type=464",
@@ -6541,13 +6541,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 7,
-      "Колоколова Ольга Аркадьевна": 1,
-      "Мурзаев Валентин Геннадьевич": 2,
-      "Сазонов Дмитрий Валерьевич": 30,
-      "Тытяневич Виталий Анатольевич": 6,
-      "Филатова Ирина Анатольевна": 7,
-      "Эйсфельд Дарья Александровна": 9
+      "gas:candidate-vibid:25920001365395": 7,
+      "gas:candidate-vibid:25920001389683": 1,
+      "gas:candidate-vibid:25920001385258": 2,
+      "gas:candidate-vibid:25920001388492": 30,
+      "gas:candidate-vibid:25920001385699": 6,
+      "gas:candidate-vibid:25920001388547": 7,
+      "gas:candidate-vibid:25920001387655": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184819&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184819&type=464",
@@ -6598,13 +6598,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 7,
-      "Колоколова Ольга Аркадьевна": 2,
-      "Мурзаев Валентин Геннадьевич": 6,
-      "Сазонов Дмитрий Валерьевич": 32,
-      "Тытяневич Виталий Анатольевич": 1,
-      "Филатова Ирина Анатольевна": 2,
-      "Эйсфельд Дарья Александровна": 7
+      "gas:candidate-vibid:25920001365395": 7,
+      "gas:candidate-vibid:25920001389683": 2,
+      "gas:candidate-vibid:25920001385258": 6,
+      "gas:candidate-vibid:25920001388492": 32,
+      "gas:candidate-vibid:25920001385699": 1,
+      "gas:candidate-vibid:25920001388547": 2,
+      "gas:candidate-vibid:25920001387655": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184819&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184819&type=464",
@@ -6655,13 +6655,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 6,
-      "Колоколова Ольга Аркадьевна": 1,
-      "Мурзаев Валентин Геннадьевич": 2,
-      "Сазонов Дмитрий Валерьевич": 33,
-      "Тытяневич Виталий Анатольевич": 1,
-      "Филатова Ирина Анатольевна": 9,
-      "Эйсфельд Дарья Александровна": 10
+      "gas:candidate-vibid:25920001365395": 6,
+      "gas:candidate-vibid:25920001389683": 1,
+      "gas:candidate-vibid:25920001385258": 2,
+      "gas:candidate-vibid:25920001388492": 33,
+      "gas:candidate-vibid:25920001385699": 1,
+      "gas:candidate-vibid:25920001388547": 9,
+      "gas:candidate-vibid:25920001387655": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184819&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184819&type=464",
@@ -6712,13 +6712,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 29,
-      "Колоколова Ольга Аркадьевна": 5,
-      "Мурзаев Валентин Геннадьевич": 7,
-      "Сазонов Дмитрий Валерьевич": 121,
-      "Тытяневич Виталий Анатольевич": 9,
-      "Филатова Ирина Анатольевна": 20,
-      "Эйсфельд Дарья Александровна": 52
+      "gas:candidate-vibid:25920001365395": 29,
+      "gas:candidate-vibid:25920001389683": 5,
+      "gas:candidate-vibid:25920001385258": 7,
+      "gas:candidate-vibid:25920001388492": 121,
+      "gas:candidate-vibid:25920001385699": 9,
+      "gas:candidate-vibid:25920001388547": 20,
+      "gas:candidate-vibid:25920001387655": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184819&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184819&type=464",
@@ -6769,13 +6769,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 3,
-      "Колоколова Ольга Аркадьевна": 1,
-      "Мурзаев Валентин Геннадьевич": 3,
-      "Сазонов Дмитрий Валерьевич": 33,
-      "Тытяневич Виталий Анатольевич": 4,
-      "Филатова Ирина Анатольевна": 3,
-      "Эйсфельд Дарья Александровна": 5
+      "gas:candidate-vibid:25920001365395": 3,
+      "gas:candidate-vibid:25920001389683": 1,
+      "gas:candidate-vibid:25920001385258": 3,
+      "gas:candidate-vibid:25920001388492": 33,
+      "gas:candidate-vibid:25920001385699": 4,
+      "gas:candidate-vibid:25920001388547": 3,
+      "gas:candidate-vibid:25920001387655": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184819&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184819&type=464",
@@ -6826,13 +6826,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 7,
-      "Колоколова Ольга Аркадьевна": 7,
-      "Мурзаев Валентин Геннадьевич": 4,
-      "Сазонов Дмитрий Валерьевич": 23,
-      "Тытяневич Виталий Анатольевич": 5,
-      "Филатова Ирина Анатольевна": 9,
-      "Эйсфельд Дарья Александровна": 15
+      "gas:candidate-vibid:25920001365395": 7,
+      "gas:candidate-vibid:25920001389683": 7,
+      "gas:candidate-vibid:25920001385258": 4,
+      "gas:candidate-vibid:25920001388492": 23,
+      "gas:candidate-vibid:25920001385699": 5,
+      "gas:candidate-vibid:25920001388547": 9,
+      "gas:candidate-vibid:25920001387655": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184819&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184819&type=464",
@@ -6883,13 +6883,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 7,
-      "Колоколова Ольга Аркадьевна": 4,
-      "Мурзаев Валентин Геннадьевич": 3,
-      "Сазонов Дмитрий Валерьевич": 31,
-      "Тытяневич Виталий Анатольевич": 3,
-      "Филатова Ирина Анатольевна": 5,
-      "Эйсфельд Дарья Александровна": 6
+      "gas:candidate-vibid:25920001365395": 7,
+      "gas:candidate-vibid:25920001389683": 4,
+      "gas:candidate-vibid:25920001385258": 3,
+      "gas:candidate-vibid:25920001388492": 31,
+      "gas:candidate-vibid:25920001385699": 3,
+      "gas:candidate-vibid:25920001388547": 5,
+      "gas:candidate-vibid:25920001387655": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184819&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184819&type=464",
@@ -6940,13 +6940,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 56,
-      "Колоколова Ольга Аркадьевна": 14,
-      "Мурзаев Валентин Геннадьевич": 14,
-      "Сазонов Дмитрий Валерьевич": 224,
-      "Тытяневич Виталий Анатольевич": 31,
-      "Филатова Ирина Анатольевна": 62,
-      "Эйсфельд Дарья Александровна": 80
+      "gas:candidate-vibid:25920001365395": 56,
+      "gas:candidate-vibid:25920001389683": 14,
+      "gas:candidate-vibid:25920001385258": 14,
+      "gas:candidate-vibid:25920001388492": 224,
+      "gas:candidate-vibid:25920001385699": 31,
+      "gas:candidate-vibid:25920001388547": 62,
+      "gas:candidate-vibid:25920001387655": 80
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184819&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184819&type=464",
@@ -6997,13 +6997,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 16,
-      "Колоколова Ольга Аркадьевна": 8,
-      "Мурзаев Валентин Геннадьевич": 3,
-      "Сазонов Дмитрий Валерьевич": 56,
-      "Тытяневич Виталий Анатольевич": 5,
-      "Филатова Ирина Анатольевна": 6,
-      "Эйсфельд Дарья Александровна": 20
+      "gas:candidate-vibid:25920001365395": 16,
+      "gas:candidate-vibid:25920001389683": 8,
+      "gas:candidate-vibid:25920001385258": 3,
+      "gas:candidate-vibid:25920001388492": 56,
+      "gas:candidate-vibid:25920001385699": 5,
+      "gas:candidate-vibid:25920001388547": 6,
+      "gas:candidate-vibid:25920001387655": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184819&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184819&type=464",
@@ -7054,13 +7054,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 29,
-      "Колоколова Ольга Аркадьевна": 6,
-      "Мурзаев Валентин Геннадьевич": 2,
-      "Сазонов Дмитрий Валерьевич": 71,
-      "Тытяневич Виталий Анатольевич": 7,
-      "Филатова Ирина Анатольевна": 20,
-      "Эйсфельд Дарья Александровна": 36
+      "gas:candidate-vibid:25920001365395": 29,
+      "gas:candidate-vibid:25920001389683": 6,
+      "gas:candidate-vibid:25920001385258": 2,
+      "gas:candidate-vibid:25920001388492": 71,
+      "gas:candidate-vibid:25920001385699": 7,
+      "gas:candidate-vibid:25920001388547": 20,
+      "gas:candidate-vibid:25920001387655": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184819&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184819&type=464",
@@ -7111,13 +7111,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 17,
-      "Колоколова Ольга Аркадьевна": 6,
-      "Мурзаев Валентин Геннадьевич": 5,
-      "Сазонов Дмитрий Валерьевич": 79,
-      "Тытяневич Виталий Анатольевич": 12,
-      "Филатова Ирина Анатольевна": 17,
-      "Эйсфельд Дарья Александровна": 22
+      "gas:candidate-vibid:25920001365395": 17,
+      "gas:candidate-vibid:25920001389683": 6,
+      "gas:candidate-vibid:25920001385258": 5,
+      "gas:candidate-vibid:25920001388492": 79,
+      "gas:candidate-vibid:25920001385699": 12,
+      "gas:candidate-vibid:25920001388547": 17,
+      "gas:candidate-vibid:25920001387655": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184819&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184819&type=464",
@@ -7168,13 +7168,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 14,
-      "Колоколова Ольга Аркадьевна": 6,
-      "Мурзаев Валентин Геннадьевич": 5,
-      "Сазонов Дмитрий Валерьевич": 99,
-      "Тытяневич Виталий Анатольевич": 9,
-      "Филатова Ирина Анатольевна": 13,
-      "Эйсфельд Дарья Александровна": 20
+      "gas:candidate-vibid:25920001365395": 14,
+      "gas:candidate-vibid:25920001389683": 6,
+      "gas:candidate-vibid:25920001385258": 5,
+      "gas:candidate-vibid:25920001388492": 99,
+      "gas:candidate-vibid:25920001385699": 9,
+      "gas:candidate-vibid:25920001388547": 13,
+      "gas:candidate-vibid:25920001387655": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184819&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184819&type=464",
@@ -7225,13 +7225,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 20,
-      "Колоколова Ольга Аркадьевна": 5,
-      "Мурзаев Валентин Геннадьевич": 4,
-      "Сазонов Дмитрий Валерьевич": 135,
-      "Тытяневич Виталий Анатольевич": 6,
-      "Филатова Ирина Анатольевна": 13,
-      "Эйсфельд Дарья Александровна": 30
+      "gas:candidate-vibid:25920001365395": 20,
+      "gas:candidate-vibid:25920001389683": 5,
+      "gas:candidate-vibid:25920001385258": 4,
+      "gas:candidate-vibid:25920001388492": 135,
+      "gas:candidate-vibid:25920001385699": 6,
+      "gas:candidate-vibid:25920001388547": 13,
+      "gas:candidate-vibid:25920001387655": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184819&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184819&type=464",
@@ -7282,13 +7282,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 8,
-      "Колоколова Ольга Аркадьевна": 3,
-      "Мурзаев Валентин Геннадьевич": 5,
-      "Сазонов Дмитрий Валерьевич": 27,
-      "Тытяневич Виталий Анатольевич": 0,
-      "Филатова Ирина Анатольевна": 8,
-      "Эйсфельд Дарья Александровна": 6
+      "gas:candidate-vibid:25920001365395": 8,
+      "gas:candidate-vibid:25920001389683": 3,
+      "gas:candidate-vibid:25920001385258": 5,
+      "gas:candidate-vibid:25920001388492": 27,
+      "gas:candidate-vibid:25920001385699": 0,
+      "gas:candidate-vibid:25920001388547": 8,
+      "gas:candidate-vibid:25920001387655": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184819&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184819&type=464",
@@ -7339,13 +7339,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 14,
-      "Колоколова Ольга Аркадьевна": 3,
-      "Мурзаев Валентин Геннадьевич": 2,
-      "Сазонов Дмитрий Валерьевич": 48,
-      "Тытяневич Виталий Анатольевич": 2,
-      "Филатова Ирина Анатольевна": 7,
-      "Эйсфельд Дарья Александровна": 17
+      "gas:candidate-vibid:25920001365395": 14,
+      "gas:candidate-vibid:25920001389683": 3,
+      "gas:candidate-vibid:25920001385258": 2,
+      "gas:candidate-vibid:25920001388492": 48,
+      "gas:candidate-vibid:25920001385699": 2,
+      "gas:candidate-vibid:25920001388547": 7,
+      "gas:candidate-vibid:25920001387655": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184819&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184819&type=464",
@@ -7396,13 +7396,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 7,
-      "Колоколова Ольга Аркадьевна": 4,
-      "Мурзаев Валентин Геннадьевич": 3,
-      "Сазонов Дмитрий Валерьевич": 64,
-      "Тытяневич Виталий Анатольевич": 4,
-      "Филатова Ирина Анатольевна": 10,
-      "Эйсфельд Дарья Александровна": 24
+      "gas:candidate-vibid:25920001365395": 7,
+      "gas:candidate-vibid:25920001389683": 4,
+      "gas:candidate-vibid:25920001385258": 3,
+      "gas:candidate-vibid:25920001388492": 64,
+      "gas:candidate-vibid:25920001385699": 4,
+      "gas:candidate-vibid:25920001388547": 10,
+      "gas:candidate-vibid:25920001387655": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184819&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184819&type=464",
@@ -7453,13 +7453,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 3,
-      "Колоколова Ольга Аркадьевна": 4,
-      "Мурзаев Валентин Геннадьевич": 0,
-      "Сазонов Дмитрий Валерьевич": 32,
-      "Тытяневич Виталий Анатольевич": 4,
-      "Филатова Ирина Анатольевна": 7,
-      "Эйсфельд Дарья Александровна": 17
+      "gas:candidate-vibid:25920001365395": 3,
+      "gas:candidate-vibid:25920001389683": 4,
+      "gas:candidate-vibid:25920001385258": 0,
+      "gas:candidate-vibid:25920001388492": 32,
+      "gas:candidate-vibid:25920001385699": 4,
+      "gas:candidate-vibid:25920001388547": 7,
+      "gas:candidate-vibid:25920001387655": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184819&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184819&type=464",
@@ -7510,13 +7510,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 23,
-      "Колоколова Ольга Аркадьевна": 5,
-      "Мурзаев Валентин Геннадьевич": 4,
-      "Сазонов Дмитрий Валерьевич": 89,
-      "Тытяневич Виталий Анатольевич": 9,
-      "Филатова Ирина Анатольевна": 33,
-      "Эйсфельд Дарья Александровна": 32
+      "gas:candidate-vibid:25920001365395": 23,
+      "gas:candidate-vibid:25920001389683": 5,
+      "gas:candidate-vibid:25920001385258": 4,
+      "gas:candidate-vibid:25920001388492": 89,
+      "gas:candidate-vibid:25920001385699": 9,
+      "gas:candidate-vibid:25920001388547": 33,
+      "gas:candidate-vibid:25920001387655": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184819&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184819&type=464",
@@ -7567,13 +7567,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 6,
-      "Колоколова Ольга Аркадьевна": 0,
-      "Мурзаев Валентин Геннадьевич": 3,
-      "Сазонов Дмитрий Валерьевич": 51,
-      "Тытяневич Виталий Анатольевич": 6,
-      "Филатова Ирина Анатольевна": 4,
-      "Эйсфельд Дарья Александровна": 7
+      "gas:candidate-vibid:25920001365395": 6,
+      "gas:candidate-vibid:25920001389683": 0,
+      "gas:candidate-vibid:25920001385258": 3,
+      "gas:candidate-vibid:25920001388492": 51,
+      "gas:candidate-vibid:25920001385699": 6,
+      "gas:candidate-vibid:25920001388547": 4,
+      "gas:candidate-vibid:25920001387655": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184819&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184819&type=464",
@@ -7624,13 +7624,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 24,
-      "Колоколова Ольга Аркадьевна": 7,
-      "Мурзаев Валентин Геннадьевич": 5,
-      "Сазонов Дмитрий Валерьевич": 64,
-      "Тытяневич Виталий Анатольевич": 7,
-      "Филатова Ирина Анатольевна": 7,
-      "Эйсфельд Дарья Александровна": 34
+      "gas:candidate-vibid:25920001365395": 24,
+      "gas:candidate-vibid:25920001389683": 7,
+      "gas:candidate-vibid:25920001385258": 5,
+      "gas:candidate-vibid:25920001388492": 64,
+      "gas:candidate-vibid:25920001385699": 7,
+      "gas:candidate-vibid:25920001388547": 7,
+      "gas:candidate-vibid:25920001387655": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184819&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184819&type=464",
@@ -7681,13 +7681,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 28,
-      "Колоколова Ольга Аркадьевна": 5,
-      "Мурзаев Валентин Геннадьевич": 4,
-      "Сазонов Дмитрий Валерьевич": 93,
-      "Тытяневич Виталий Анатольевич": 8,
-      "Филатова Ирина Анатольевна": 12,
-      "Эйсфельд Дарья Александровна": 39
+      "gas:candidate-vibid:25920001365395": 28,
+      "gas:candidate-vibid:25920001389683": 5,
+      "gas:candidate-vibid:25920001385258": 4,
+      "gas:candidate-vibid:25920001388492": 93,
+      "gas:candidate-vibid:25920001385699": 8,
+      "gas:candidate-vibid:25920001388547": 12,
+      "gas:candidate-vibid:25920001387655": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184819&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184819&type=464",
@@ -7738,13 +7738,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 17,
-      "Колоколова Ольга Аркадьевна": 6,
-      "Мурзаев Валентин Геннадьевич": 7,
-      "Сазонов Дмитрий Валерьевич": 49,
-      "Тытяневич Виталий Анатольевич": 9,
-      "Филатова Ирина Анатольевна": 13,
-      "Эйсфельд Дарья Александровна": 48
+      "gas:candidate-vibid:25920001365395": 17,
+      "gas:candidate-vibid:25920001389683": 6,
+      "gas:candidate-vibid:25920001385258": 7,
+      "gas:candidate-vibid:25920001388492": 49,
+      "gas:candidate-vibid:25920001385699": 9,
+      "gas:candidate-vibid:25920001388547": 13,
+      "gas:candidate-vibid:25920001387655": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184819&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184819&type=464",
@@ -7795,13 +7795,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 20,
-      "Колоколова Ольга Аркадьевна": 6,
-      "Мурзаев Валентин Геннадьевич": 5,
-      "Сазонов Дмитрий Валерьевич": 101,
-      "Тытяневич Виталий Анатольевич": 23,
-      "Филатова Ирина Анатольевна": 38,
-      "Эйсфельд Дарья Александровна": 56
+      "gas:candidate-vibid:25920001365395": 20,
+      "gas:candidate-vibid:25920001389683": 6,
+      "gas:candidate-vibid:25920001385258": 5,
+      "gas:candidate-vibid:25920001388492": 101,
+      "gas:candidate-vibid:25920001385699": 23,
+      "gas:candidate-vibid:25920001388547": 38,
+      "gas:candidate-vibid:25920001387655": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184819&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184819&type=464",
@@ -7852,13 +7852,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 28,
-      "Колоколова Ольга Аркадьевна": 11,
-      "Мурзаев Валентин Геннадьевич": 9,
-      "Сазонов Дмитрий Валерьевич": 133,
-      "Тытяневич Виталий Анатольевич": 14,
-      "Филатова Ирина Анатольевна": 23,
-      "Эйсфельд Дарья Александровна": 62
+      "gas:candidate-vibid:25920001365395": 28,
+      "gas:candidate-vibid:25920001389683": 11,
+      "gas:candidate-vibid:25920001385258": 9,
+      "gas:candidate-vibid:25920001388492": 133,
+      "gas:candidate-vibid:25920001385699": 14,
+      "gas:candidate-vibid:25920001388547": 23,
+      "gas:candidate-vibid:25920001387655": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184819&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184819&type=464",
@@ -7909,13 +7909,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 11,
-      "Колоколова Ольга Аркадьевна": 2,
-      "Мурзаев Валентин Геннадьевич": 1,
-      "Сазонов Дмитрий Валерьевич": 47,
-      "Тытяневич Виталий Анатольевич": 3,
-      "Филатова Ирина Анатольевна": 5,
-      "Эйсфельд Дарья Александровна": 9
+      "gas:candidate-vibid:25920001365395": 11,
+      "gas:candidate-vibid:25920001389683": 2,
+      "gas:candidate-vibid:25920001385258": 1,
+      "gas:candidate-vibid:25920001388492": 47,
+      "gas:candidate-vibid:25920001385699": 3,
+      "gas:candidate-vibid:25920001388547": 5,
+      "gas:candidate-vibid:25920001387655": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184819&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184819&type=464",
@@ -7966,13 +7966,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 6,
-      "Колоколова Ольга Аркадьевна": 3,
-      "Мурзаев Валентин Геннадьевич": 3,
-      "Сазонов Дмитрий Валерьевич": 22,
-      "Тытяневич Виталий Анатольевич": 1,
-      "Филатова Ирина Анатольевна": 4,
-      "Эйсфельд Дарья Александровна": 15
+      "gas:candidate-vibid:25920001365395": 6,
+      "gas:candidate-vibid:25920001389683": 3,
+      "gas:candidate-vibid:25920001385258": 3,
+      "gas:candidate-vibid:25920001388492": 22,
+      "gas:candidate-vibid:25920001385699": 1,
+      "gas:candidate-vibid:25920001388547": 4,
+      "gas:candidate-vibid:25920001387655": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184819&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184819&type=464",
@@ -8023,13 +8023,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 18,
-      "Колоколова Ольга Аркадьевна": 3,
-      "Мурзаев Валентин Геннадьевич": 6,
-      "Сазонов Дмитрий Валерьевич": 79,
-      "Тытяневич Виталий Анатольевич": 6,
-      "Филатова Ирина Анатольевна": 10,
-      "Эйсфельд Дарья Александровна": 11
+      "gas:candidate-vibid:25920001365395": 18,
+      "gas:candidate-vibid:25920001389683": 3,
+      "gas:candidate-vibid:25920001385258": 6,
+      "gas:candidate-vibid:25920001388492": 79,
+      "gas:candidate-vibid:25920001385699": 6,
+      "gas:candidate-vibid:25920001388547": 10,
+      "gas:candidate-vibid:25920001387655": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184819&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184819&type=464",
@@ -8080,13 +8080,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 53,
-      "Колоколова Ольга Аркадьевна": 17,
-      "Мурзаев Валентин Геннадьевич": 8,
-      "Сазонов Дмитрий Валерьевич": 203,
-      "Тытяневич Виталий Анатольевич": 11,
-      "Филатова Ирина Анатольевна": 15,
-      "Эйсфельд Дарья Александровна": 76
+      "gas:candidate-vibid:25920001365395": 53,
+      "gas:candidate-vibid:25920001389683": 17,
+      "gas:candidate-vibid:25920001385258": 8,
+      "gas:candidate-vibid:25920001388492": 203,
+      "gas:candidate-vibid:25920001385699": 11,
+      "gas:candidate-vibid:25920001388547": 15,
+      "gas:candidate-vibid:25920001387655": 76
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184819&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184819&type=464",
@@ -8137,13 +8137,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 13,
-      "Колоколова Ольга Аркадьевна": 7,
-      "Мурзаев Валентин Геннадьевич": 3,
-      "Сазонов Дмитрий Валерьевич": 102,
-      "Тытяневич Виталий Анатольевич": 18,
-      "Филатова Ирина Анатольевна": 16,
-      "Эйсфельд Дарья Александровна": 35
+      "gas:candidate-vibid:25920001365395": 13,
+      "gas:candidate-vibid:25920001389683": 7,
+      "gas:candidate-vibid:25920001385258": 3,
+      "gas:candidate-vibid:25920001388492": 102,
+      "gas:candidate-vibid:25920001385699": 18,
+      "gas:candidate-vibid:25920001388547": 16,
+      "gas:candidate-vibid:25920001387655": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184819&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184819&type=464",
@@ -8194,13 +8194,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 13,
-      "Колоколова Ольга Аркадьевна": 5,
-      "Мурзаев Валентин Геннадьевич": 6,
-      "Сазонов Дмитрий Валерьевич": 42,
-      "Тытяневич Виталий Анатольевич": 3,
-      "Филатова Ирина Анатольевна": 7,
-      "Эйсфельд Дарья Александровна": 15
+      "gas:candidate-vibid:25920001365395": 13,
+      "gas:candidate-vibid:25920001389683": 5,
+      "gas:candidate-vibid:25920001385258": 6,
+      "gas:candidate-vibid:25920001388492": 42,
+      "gas:candidate-vibid:25920001385699": 3,
+      "gas:candidate-vibid:25920001388547": 7,
+      "gas:candidate-vibid:25920001387655": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184819&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184819&type=464",
@@ -8251,13 +8251,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 17,
-      "Колоколова Ольга Аркадьевна": 10,
-      "Мурзаев Валентин Геннадьевич": 6,
-      "Сазонов Дмитрий Валерьевич": 83,
-      "Тытяневич Виталий Анатольевич": 13,
-      "Филатова Ирина Анатольевна": 40,
-      "Эйсфельд Дарья Александровна": 47
+      "gas:candidate-vibid:25920001365395": 17,
+      "gas:candidate-vibid:25920001389683": 10,
+      "gas:candidate-vibid:25920001385258": 6,
+      "gas:candidate-vibid:25920001388492": 83,
+      "gas:candidate-vibid:25920001385699": 13,
+      "gas:candidate-vibid:25920001388547": 40,
+      "gas:candidate-vibid:25920001387655": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184819&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184819&type=464",
@@ -8308,13 +8308,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 8,
-      "Колоколова Ольга Аркадьевна": 8,
-      "Мурзаев Валентин Геннадьевич": 4,
-      "Сазонов Дмитрий Валерьевич": 68,
-      "Тытяневич Виталий Анатольевич": 6,
-      "Филатова Ирина Анатольевна": 7,
-      "Эйсфельд Дарья Александровна": 22
+      "gas:candidate-vibid:25920001365395": 8,
+      "gas:candidate-vibid:25920001389683": 8,
+      "gas:candidate-vibid:25920001385258": 4,
+      "gas:candidate-vibid:25920001388492": 68,
+      "gas:candidate-vibid:25920001385699": 6,
+      "gas:candidate-vibid:25920001388547": 7,
+      "gas:candidate-vibid:25920001387655": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184819&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184819&type=464",
@@ -8365,13 +8365,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 12,
-      "Колоколова Ольга Аркадьевна": 8,
-      "Мурзаев Валентин Геннадьевич": 1,
-      "Сазонов Дмитрий Валерьевич": 15,
-      "Тытяневич Виталий Анатольевич": 4,
-      "Филатова Ирина Анатольевна": 7,
-      "Эйсфельд Дарья Александровна": 15
+      "gas:candidate-vibid:25920001365395": 12,
+      "gas:candidate-vibid:25920001389683": 8,
+      "gas:candidate-vibid:25920001385258": 1,
+      "gas:candidate-vibid:25920001388492": 15,
+      "gas:candidate-vibid:25920001385699": 4,
+      "gas:candidate-vibid:25920001388547": 7,
+      "gas:candidate-vibid:25920001387655": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184819&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184819&type=464",
@@ -8422,13 +8422,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 40,
-      "Колоколова Ольга Аркадьевна": 7,
-      "Мурзаев Валентин Геннадьевич": 11,
-      "Сазонов Дмитрий Валерьевич": 141,
-      "Тытяневич Виталий Анатольевич": 9,
-      "Филатова Ирина Анатольевна": 23,
-      "Эйсфельд Дарья Александровна": 68
+      "gas:candidate-vibid:25920001365395": 40,
+      "gas:candidate-vibid:25920001389683": 7,
+      "gas:candidate-vibid:25920001385258": 11,
+      "gas:candidate-vibid:25920001388492": 141,
+      "gas:candidate-vibid:25920001385699": 9,
+      "gas:candidate-vibid:25920001388547": 23,
+      "gas:candidate-vibid:25920001387655": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184819&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184819&type=464",
@@ -8479,13 +8479,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 35,
-      "Колоколова Ольга Аркадьевна": 10,
-      "Мурзаев Валентин Геннадьевич": 3,
-      "Сазонов Дмитрий Валерьевич": 146,
-      "Тытяневич Виталий Анатольевич": 18,
-      "Филатова Ирина Анатольевна": 38,
-      "Эйсфельд Дарья Александровна": 101
+      "gas:candidate-vibid:25920001365395": 35,
+      "gas:candidate-vibid:25920001389683": 10,
+      "gas:candidate-vibid:25920001385258": 3,
+      "gas:candidate-vibid:25920001388492": 146,
+      "gas:candidate-vibid:25920001385699": 18,
+      "gas:candidate-vibid:25920001388547": 38,
+      "gas:candidate-vibid:25920001387655": 101
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184819&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184819&type=464",
@@ -8536,13 +8536,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 15,
-      "Колоколова Ольга Аркадьевна": 4,
-      "Мурзаев Валентин Геннадьевич": 4,
-      "Сазонов Дмитрий Валерьевич": 85,
-      "Тытяневич Виталий Анатольевич": 3,
-      "Филатова Ирина Анатольевна": 8,
-      "Эйсфельд Дарья Александровна": 26
+      "gas:candidate-vibid:25920001365395": 15,
+      "gas:candidate-vibid:25920001389683": 4,
+      "gas:candidate-vibid:25920001385258": 4,
+      "gas:candidate-vibid:25920001388492": 85,
+      "gas:candidate-vibid:25920001385699": 3,
+      "gas:candidate-vibid:25920001388547": 8,
+      "gas:candidate-vibid:25920001387655": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184819&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184819&type=464",
@@ -8593,13 +8593,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 39,
-      "Колоколова Ольга Аркадьевна": 16,
-      "Мурзаев Валентин Геннадьевич": 11,
-      "Сазонов Дмитрий Валерьевич": 164,
-      "Тытяневич Виталий Анатольевич": 7,
-      "Филатова Ирина Анатольевна": 29,
-      "Эйсфельд Дарья Александровна": 61
+      "gas:candidate-vibid:25920001365395": 39,
+      "gas:candidate-vibid:25920001389683": 16,
+      "gas:candidate-vibid:25920001385258": 11,
+      "gas:candidate-vibid:25920001388492": 164,
+      "gas:candidate-vibid:25920001385699": 7,
+      "gas:candidate-vibid:25920001388547": 29,
+      "gas:candidate-vibid:25920001387655": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184819&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184819&type=464",
@@ -8650,13 +8650,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 58,
-      "Колоколова Ольга Аркадьевна": 27,
-      "Мурзаев Валентин Геннадьевич": 5,
-      "Сазонов Дмитрий Валерьевич": 133,
-      "Тытяневич Виталий Анатольевич": 18,
-      "Филатова Ирина Анатольевна": 47,
-      "Эйсфельд Дарья Александровна": 69
+      "gas:candidate-vibid:25920001365395": 58,
+      "gas:candidate-vibid:25920001389683": 27,
+      "gas:candidate-vibid:25920001385258": 5,
+      "gas:candidate-vibid:25920001388492": 133,
+      "gas:candidate-vibid:25920001385699": 18,
+      "gas:candidate-vibid:25920001388547": 47,
+      "gas:candidate-vibid:25920001387655": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184820&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184820&type=464",
@@ -8707,13 +8707,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 136,
-      "Колоколова Ольга Аркадьевна": 43,
-      "Мурзаев Валентин Геннадьевич": 13,
-      "Сазонов Дмитрий Валерьевич": 229,
-      "Тытяневич Виталий Анатольевич": 34,
-      "Филатова Ирина Анатольевна": 85,
-      "Эйсфельд Дарья Александровна": 122
+      "gas:candidate-vibid:25920001365395": 136,
+      "gas:candidate-vibid:25920001389683": 43,
+      "gas:candidate-vibid:25920001385258": 13,
+      "gas:candidate-vibid:25920001388492": 229,
+      "gas:candidate-vibid:25920001385699": 34,
+      "gas:candidate-vibid:25920001388547": 85,
+      "gas:candidate-vibid:25920001387655": 122
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184820&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184820&type=464",
@@ -8764,13 +8764,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 160,
-      "Колоколова Ольга Аркадьевна": 19,
-      "Мурзаев Валентин Геннадьевич": 8,
-      "Сазонов Дмитрий Валерьевич": 245,
-      "Тытяневич Виталий Анатольевич": 40,
-      "Филатова Ирина Анатольевна": 76,
-      "Эйсфельд Дарья Александровна": 105
+      "gas:candidate-vibid:25920001365395": 160,
+      "gas:candidate-vibid:25920001389683": 19,
+      "gas:candidate-vibid:25920001385258": 8,
+      "gas:candidate-vibid:25920001388492": 245,
+      "gas:candidate-vibid:25920001385699": 40,
+      "gas:candidate-vibid:25920001388547": 76,
+      "gas:candidate-vibid:25920001387655": 105
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184820&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184820&type=464",
@@ -8821,13 +8821,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 106,
-      "Колоколова Ольга Аркадьевна": 29,
-      "Мурзаев Валентин Геннадьевич": 13,
-      "Сазонов Дмитрий Валерьевич": 206,
-      "Тытяневич Виталий Анатольевич": 23,
-      "Филатова Ирина Анатольевна": 74,
-      "Эйсфельд Дарья Александровна": 83
+      "gas:candidate-vibid:25920001365395": 106,
+      "gas:candidate-vibid:25920001389683": 29,
+      "gas:candidate-vibid:25920001385258": 13,
+      "gas:candidate-vibid:25920001388492": 206,
+      "gas:candidate-vibid:25920001385699": 23,
+      "gas:candidate-vibid:25920001388547": 74,
+      "gas:candidate-vibid:25920001387655": 83
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184820&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184820&type=464",
@@ -8878,13 +8878,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 34,
-      "Колоколова Ольга Аркадьевна": 6,
-      "Мурзаев Валентин Геннадьевич": 0,
-      "Сазонов Дмитрий Валерьевич": 44,
-      "Тытяневич Виталий Анатольевич": 10,
-      "Филатова Ирина Анатольевна": 14,
-      "Эйсфельд Дарья Александровна": 15
+      "gas:candidate-vibid:25920001365395": 34,
+      "gas:candidate-vibid:25920001389683": 6,
+      "gas:candidate-vibid:25920001385258": 0,
+      "gas:candidate-vibid:25920001388492": 44,
+      "gas:candidate-vibid:25920001385699": 10,
+      "gas:candidate-vibid:25920001388547": 14,
+      "gas:candidate-vibid:25920001387655": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184820&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184820&type=464",
@@ -8935,13 +8935,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 88,
-      "Колоколова Ольга Аркадьевна": 30,
-      "Мурзаев Валентин Геннадьевич": 4,
-      "Сазонов Дмитрий Валерьевич": 214,
-      "Тытяневич Виталий Анатольевич": 36,
-      "Филатова Ирина Анатольевна": 71,
-      "Эйсфельд Дарья Александровна": 74
+      "gas:candidate-vibid:25920001365395": 88,
+      "gas:candidate-vibid:25920001389683": 30,
+      "gas:candidate-vibid:25920001385258": 4,
+      "gas:candidate-vibid:25920001388492": 214,
+      "gas:candidate-vibid:25920001385699": 36,
+      "gas:candidate-vibid:25920001388547": 71,
+      "gas:candidate-vibid:25920001387655": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184820&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184820&type=464",
@@ -8992,13 +8992,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 18,
-      "Колоколова Ольга Аркадьевна": 1,
-      "Мурзаев Валентин Геннадьевич": 2,
-      "Сазонов Дмитрий Валерьевич": 17,
-      "Тытяневич Виталий Анатольевич": 2,
-      "Филатова Ирина Анатольевна": 2,
-      "Эйсфельд Дарья Александровна": 6
+      "gas:candidate-vibid:25920001365395": 18,
+      "gas:candidate-vibid:25920001389683": 1,
+      "gas:candidate-vibid:25920001385258": 2,
+      "gas:candidate-vibid:25920001388492": 17,
+      "gas:candidate-vibid:25920001385699": 2,
+      "gas:candidate-vibid:25920001388547": 2,
+      "gas:candidate-vibid:25920001387655": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184820&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184820&type=464",
@@ -9049,13 +9049,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 83,
-      "Колоколова Ольга Аркадьевна": 23,
-      "Мурзаев Валентин Геннадьевич": 9,
-      "Сазонов Дмитрий Валерьевич": 192,
-      "Тытяневич Виталий Анатольевич": 30,
-      "Филатова Ирина Анатольевна": 75,
-      "Эйсфельд Дарья Александровна": 96
+      "gas:candidate-vibid:25920001365395": 83,
+      "gas:candidate-vibid:25920001389683": 23,
+      "gas:candidate-vibid:25920001385258": 9,
+      "gas:candidate-vibid:25920001388492": 192,
+      "gas:candidate-vibid:25920001385699": 30,
+      "gas:candidate-vibid:25920001388547": 75,
+      "gas:candidate-vibid:25920001387655": 96
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184820&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184820&type=464",
@@ -9106,13 +9106,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 55,
-      "Колоколова Ольга Аркадьевна": 22,
-      "Мурзаев Валентин Геннадьевич": 5,
-      "Сазонов Дмитрий Валерьевич": 112,
-      "Тытяневич Виталий Анатольевич": 20,
-      "Филатова Ирина Анатольевна": 45,
-      "Эйсфельд Дарья Александровна": 35
+      "gas:candidate-vibid:25920001365395": 55,
+      "gas:candidate-vibid:25920001389683": 22,
+      "gas:candidate-vibid:25920001385258": 5,
+      "gas:candidate-vibid:25920001388492": 112,
+      "gas:candidate-vibid:25920001385699": 20,
+      "gas:candidate-vibid:25920001388547": 45,
+      "gas:candidate-vibid:25920001387655": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184820&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184820&type=464",
@@ -9163,13 +9163,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 54,
-      "Колоколова Ольга Аркадьевна": 14,
-      "Мурзаев Валентин Геннадьевич": 4,
-      "Сазонов Дмитрий Валерьевич": 99,
-      "Тытяневич Виталий Анатольевич": 11,
-      "Филатова Ирина Анатольевна": 37,
-      "Эйсфельд Дарья Александровна": 21
+      "gas:candidate-vibid:25920001365395": 54,
+      "gas:candidate-vibid:25920001389683": 14,
+      "gas:candidate-vibid:25920001385258": 4,
+      "gas:candidate-vibid:25920001388492": 99,
+      "gas:candidate-vibid:25920001385699": 11,
+      "gas:candidate-vibid:25920001388547": 37,
+      "gas:candidate-vibid:25920001387655": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184820&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184820&type=464",
@@ -9220,13 +9220,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 76,
-      "Колоколова Ольга Аркадьевна": 13,
-      "Мурзаев Валентин Геннадьевич": 9,
-      "Сазонов Дмитрий Валерьевич": 117,
-      "Тытяневич Виталий Анатольевич": 13,
-      "Филатова Ирина Анатольевна": 41,
-      "Эйсфельд Дарья Александровна": 37
+      "gas:candidate-vibid:25920001365395": 76,
+      "gas:candidate-vibid:25920001389683": 13,
+      "gas:candidate-vibid:25920001385258": 9,
+      "gas:candidate-vibid:25920001388492": 117,
+      "gas:candidate-vibid:25920001385699": 13,
+      "gas:candidate-vibid:25920001388547": 41,
+      "gas:candidate-vibid:25920001387655": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184820&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184820&type=464",
@@ -9277,13 +9277,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 19,
-      "Колоколова Ольга Аркадьевна": 6,
-      "Мурзаев Валентин Геннадьевич": 5,
-      "Сазонов Дмитрий Валерьевич": 39,
-      "Тытяневич Виталий Анатольевич": 8,
-      "Филатова Ирина Анатольевна": 17,
-      "Эйсфельд Дарья Александровна": 20
+      "gas:candidate-vibid:25920001365395": 19,
+      "gas:candidate-vibid:25920001389683": 6,
+      "gas:candidate-vibid:25920001385258": 5,
+      "gas:candidate-vibid:25920001388492": 39,
+      "gas:candidate-vibid:25920001385699": 8,
+      "gas:candidate-vibid:25920001388547": 17,
+      "gas:candidate-vibid:25920001387655": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184820&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184820&type=464",
@@ -9334,13 +9334,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 4,
-      "Колоколова Ольга Аркадьевна": 3,
-      "Мурзаев Валентин Геннадьевич": 2,
-      "Сазонов Дмитрий Валерьевич": 19,
-      "Тытяневич Виталий Анатольевич": 1,
-      "Филатова Ирина Анатольевна": 9,
-      "Эйсфельд Дарья Александровна": 8
+      "gas:candidate-vibid:25920001365395": 4,
+      "gas:candidate-vibid:25920001389683": 3,
+      "gas:candidate-vibid:25920001385258": 2,
+      "gas:candidate-vibid:25920001388492": 19,
+      "gas:candidate-vibid:25920001385699": 1,
+      "gas:candidate-vibid:25920001388547": 9,
+      "gas:candidate-vibid:25920001387655": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184820&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184820&type=464",
@@ -9391,13 +9391,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 63,
-      "Колоколова Ольга Аркадьевна": 17,
-      "Мурзаев Валентин Геннадьевич": 7,
-      "Сазонов Дмитрий Валерьевич": 113,
-      "Тытяневич Виталий Анатольевич": 13,
-      "Филатова Ирина Анатольевна": 36,
-      "Эйсфельд Дарья Александровна": 27
+      "gas:candidate-vibid:25920001365395": 63,
+      "gas:candidate-vibid:25920001389683": 17,
+      "gas:candidate-vibid:25920001385258": 7,
+      "gas:candidate-vibid:25920001388492": 113,
+      "gas:candidate-vibid:25920001385699": 13,
+      "gas:candidate-vibid:25920001388547": 36,
+      "gas:candidate-vibid:25920001387655": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184820&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184820&type=464",
@@ -9448,13 +9448,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 5,
-      "Колоколова Ольга Аркадьевна": 3,
-      "Мурзаев Валентин Геннадьевич": 1,
-      "Сазонов Дмитрий Валерьевич": 59,
-      "Тытяневич Виталий Анатольевич": 3,
-      "Филатова Ирина Анатольевна": 5,
-      "Эйсфельд Дарья Александровна": 6
+      "gas:candidate-vibid:25920001365395": 5,
+      "gas:candidate-vibid:25920001389683": 3,
+      "gas:candidate-vibid:25920001385258": 1,
+      "gas:candidate-vibid:25920001388492": 59,
+      "gas:candidate-vibid:25920001385699": 3,
+      "gas:candidate-vibid:25920001388547": 5,
+      "gas:candidate-vibid:25920001387655": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184820&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184820&type=464",
@@ -9505,13 +9505,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 25,
-      "Колоколова Ольга Аркадьевна": 5,
-      "Мурзаев Валентин Геннадьевич": 3,
-      "Сазонов Дмитрий Валерьевич": 66,
-      "Тытяневич Виталий Анатольевич": 17,
-      "Филатова Ирина Анатольевна": 9,
-      "Эйсфельд Дарья Александровна": 15
+      "gas:candidate-vibid:25920001365395": 25,
+      "gas:candidate-vibid:25920001389683": 5,
+      "gas:candidate-vibid:25920001385258": 3,
+      "gas:candidate-vibid:25920001388492": 66,
+      "gas:candidate-vibid:25920001385699": 17,
+      "gas:candidate-vibid:25920001388547": 9,
+      "gas:candidate-vibid:25920001387655": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184820&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184820&type=464",
@@ -9562,13 +9562,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 19,
-      "Колоколова Ольга Аркадьевна": 1,
-      "Мурзаев Валентин Геннадьевич": 0,
-      "Сазонов Дмитрий Валерьевич": 48,
-      "Тытяневич Виталий Анатольевич": 1,
-      "Филатова Ирина Анатольевна": 2,
-      "Эйсфельд Дарья Александровна": 3
+      "gas:candidate-vibid:25920001365395": 19,
+      "gas:candidate-vibid:25920001389683": 1,
+      "gas:candidate-vibid:25920001385258": 0,
+      "gas:candidate-vibid:25920001388492": 48,
+      "gas:candidate-vibid:25920001385699": 1,
+      "gas:candidate-vibid:25920001388547": 2,
+      "gas:candidate-vibid:25920001387655": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184820&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184820&type=464",
@@ -9619,13 +9619,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 31,
-      "Колоколова Ольга Аркадьевна": 8,
-      "Мурзаев Валентин Геннадьевич": 5,
-      "Сазонов Дмитрий Валерьевич": 93,
-      "Тытяневич Виталий Анатольевич": 10,
-      "Филатова Ирина Анатольевна": 32,
-      "Эйсфельд Дарья Александровна": 25
+      "gas:candidate-vibid:25920001365395": 31,
+      "gas:candidate-vibid:25920001389683": 8,
+      "gas:candidate-vibid:25920001385258": 5,
+      "gas:candidate-vibid:25920001388492": 93,
+      "gas:candidate-vibid:25920001385699": 10,
+      "gas:candidate-vibid:25920001388547": 32,
+      "gas:candidate-vibid:25920001387655": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184820&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184820&type=464",
@@ -9676,13 +9676,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 44,
-      "Колоколова Ольга Аркадьевна": 10,
-      "Мурзаев Валентин Геннадьевич": 4,
-      "Сазонов Дмитрий Валерьевич": 105,
-      "Тытяневич Виталий Анатольевич": 18,
-      "Филатова Ирина Анатольевна": 45,
-      "Эйсфельд Дарья Александровна": 29
+      "gas:candidate-vibid:25920001365395": 44,
+      "gas:candidate-vibid:25920001389683": 10,
+      "gas:candidate-vibid:25920001385258": 4,
+      "gas:candidate-vibid:25920001388492": 105,
+      "gas:candidate-vibid:25920001385699": 18,
+      "gas:candidate-vibid:25920001388547": 45,
+      "gas:candidate-vibid:25920001387655": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184820&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184820&type=464",
@@ -9733,13 +9733,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 20,
-      "Колоколова Ольга Аркадьевна": 12,
-      "Мурзаев Валентин Геннадьевич": 4,
-      "Сазонов Дмитрий Валерьевич": 98,
-      "Тытяневич Виталий Анатольевич": 16,
-      "Филатова Ирина Анатольевна": 18,
-      "Эйсфельд Дарья Александровна": 16
+      "gas:candidate-vibid:25920001365395": 20,
+      "gas:candidate-vibid:25920001389683": 12,
+      "gas:candidate-vibid:25920001385258": 4,
+      "gas:candidate-vibid:25920001388492": 98,
+      "gas:candidate-vibid:25920001385699": 16,
+      "gas:candidate-vibid:25920001388547": 18,
+      "gas:candidate-vibid:25920001387655": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184820&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184820&type=464",
@@ -9790,13 +9790,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 76,
-      "Колоколова Ольга Аркадьевна": 23,
-      "Мурзаев Валентин Геннадьевич": 16,
-      "Сазонов Дмитрий Валерьевич": 144,
-      "Тытяневич Виталий Анатольевич": 32,
-      "Филатова Ирина Анатольевна": 69,
-      "Эйсфельд Дарья Александровна": 73
+      "gas:candidate-vibid:25920001365395": 76,
+      "gas:candidate-vibid:25920001389683": 23,
+      "gas:candidate-vibid:25920001385258": 16,
+      "gas:candidate-vibid:25920001388492": 144,
+      "gas:candidate-vibid:25920001385699": 32,
+      "gas:candidate-vibid:25920001388547": 69,
+      "gas:candidate-vibid:25920001387655": 73
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184820&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184820&type=464",
@@ -9847,13 +9847,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 85,
-      "Колоколова Ольга Аркадьевна": 24,
-      "Мурзаев Валентин Геннадьевич": 14,
-      "Сазонов Дмитрий Валерьевич": 205,
-      "Тытяневич Виталий Анатольевич": 44,
-      "Филатова Ирина Анатольевна": 70,
-      "Эйсфельд Дарья Александровна": 87
+      "gas:candidate-vibid:25920001365395": 85,
+      "gas:candidate-vibid:25920001389683": 24,
+      "gas:candidate-vibid:25920001385258": 14,
+      "gas:candidate-vibid:25920001388492": 205,
+      "gas:candidate-vibid:25920001385699": 44,
+      "gas:candidate-vibid:25920001388547": 70,
+      "gas:candidate-vibid:25920001387655": 87
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184820&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184820&type=464",
@@ -9904,13 +9904,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 82,
-      "Колоколова Ольга Аркадьевна": 32,
-      "Мурзаев Валентин Геннадьевич": 12,
-      "Сазонов Дмитрий Валерьевич": 216,
-      "Тытяневич Виталий Анатольевич": 48,
-      "Филатова Ирина Анатольевна": 73,
-      "Эйсфельд Дарья Александровна": 72
+      "gas:candidate-vibid:25920001365395": 82,
+      "gas:candidate-vibid:25920001389683": 32,
+      "gas:candidate-vibid:25920001385258": 12,
+      "gas:candidate-vibid:25920001388492": 216,
+      "gas:candidate-vibid:25920001385699": 48,
+      "gas:candidate-vibid:25920001388547": 73,
+      "gas:candidate-vibid:25920001387655": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184820&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184820&type=464",
@@ -9961,13 +9961,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 49,
-      "Колоколова Ольга Аркадьевна": 11,
-      "Мурзаев Валентин Геннадьевич": 5,
-      "Сазонов Дмитрий Валерьевич": 132,
-      "Тытяневич Виталий Анатольевич": 18,
-      "Филатова Ирина Анатольевна": 44,
-      "Эйсфельд Дарья Александровна": 37
+      "gas:candidate-vibid:25920001365395": 49,
+      "gas:candidate-vibid:25920001389683": 11,
+      "gas:candidate-vibid:25920001385258": 5,
+      "gas:candidate-vibid:25920001388492": 132,
+      "gas:candidate-vibid:25920001385699": 18,
+      "gas:candidate-vibid:25920001388547": 44,
+      "gas:candidate-vibid:25920001387655": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184820&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184820&type=464",
@@ -10018,13 +10018,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 24,
-      "Колоколова Ольга Аркадьевна": 7,
-      "Мурзаев Валентин Геннадьевич": 1,
-      "Сазонов Дмитрий Валерьевич": 29,
-      "Тытяневич Виталий Анатольевич": 13,
-      "Филатова Ирина Анатольевна": 18,
-      "Эйсфельд Дарья Александровна": 11
+      "gas:candidate-vibid:25920001365395": 24,
+      "gas:candidate-vibid:25920001389683": 7,
+      "gas:candidate-vibid:25920001385258": 1,
+      "gas:candidate-vibid:25920001388492": 29,
+      "gas:candidate-vibid:25920001385699": 13,
+      "gas:candidate-vibid:25920001388547": 18,
+      "gas:candidate-vibid:25920001387655": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184820&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184820&type=464",
@@ -10075,13 +10075,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 63,
-      "Колоколова Ольга Аркадьевна": 13,
-      "Мурзаев Валентин Геннадьевич": 11,
-      "Сазонов Дмитрий Валерьевич": 255,
-      "Тытяневич Виталий Анатольевич": 15,
-      "Филатова Ирина Анатольевна": 46,
-      "Эйсфельд Дарья Александровна": 32
+      "gas:candidate-vibid:25920001365395": 63,
+      "gas:candidate-vibid:25920001389683": 13,
+      "gas:candidate-vibid:25920001385258": 11,
+      "gas:candidate-vibid:25920001388492": 255,
+      "gas:candidate-vibid:25920001385699": 15,
+      "gas:candidate-vibid:25920001388547": 46,
+      "gas:candidate-vibid:25920001387655": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184820&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184820&type=464",
@@ -10132,13 +10132,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 41,
-      "Колоколова Ольга Аркадьевна": 5,
-      "Мурзаев Валентин Геннадьевич": 9,
-      "Сазонов Дмитрий Валерьевич": 107,
-      "Тытяневич Виталий Анатольевич": 5,
-      "Филатова Ирина Анатольевна": 14,
-      "Эйсфельд Дарья Александровна": 15
+      "gas:candidate-vibid:25920001365395": 41,
+      "gas:candidate-vibid:25920001389683": 5,
+      "gas:candidate-vibid:25920001385258": 9,
+      "gas:candidate-vibid:25920001388492": 107,
+      "gas:candidate-vibid:25920001385699": 5,
+      "gas:candidate-vibid:25920001388547": 14,
+      "gas:candidate-vibid:25920001387655": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184820&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184820&type=464",
@@ -10189,13 +10189,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 32,
-      "Колоколова Ольга Аркадьевна": 9,
-      "Мурзаев Валентин Геннадьевич": 4,
-      "Сазонов Дмитрий Валерьевич": 140,
-      "Тытяневич Виталий Анатольевич": 12,
-      "Филатова Ирина Анатольевна": 12,
-      "Эйсфельд Дарья Александровна": 14
+      "gas:candidate-vibid:25920001365395": 32,
+      "gas:candidate-vibid:25920001389683": 9,
+      "gas:candidate-vibid:25920001385258": 4,
+      "gas:candidate-vibid:25920001388492": 140,
+      "gas:candidate-vibid:25920001385699": 12,
+      "gas:candidate-vibid:25920001388547": 12,
+      "gas:candidate-vibid:25920001387655": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184820&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184820&type=464",
@@ -10246,13 +10246,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 48,
-      "Колоколова Ольга Аркадьевна": 22,
-      "Мурзаев Валентин Геннадьевич": 6,
-      "Сазонов Дмитрий Валерьевич": 125,
-      "Тытяневич Виталий Анатольевич": 24,
-      "Филатова Ирина Анатольевна": 38,
-      "Эйсфельд Дарья Александровна": 31
+      "gas:candidate-vibid:25920001365395": 48,
+      "gas:candidate-vibid:25920001389683": 22,
+      "gas:candidate-vibid:25920001385258": 6,
+      "gas:candidate-vibid:25920001388492": 125,
+      "gas:candidate-vibid:25920001385699": 24,
+      "gas:candidate-vibid:25920001388547": 38,
+      "gas:candidate-vibid:25920001387655": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184820&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184820&type=464",
@@ -10303,13 +10303,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 44,
-      "Колоколова Ольга Аркадьевна": 25,
-      "Мурзаев Валентин Геннадьевич": 5,
-      "Сазонов Дмитрий Валерьевич": 136,
-      "Тытяневич Виталий Анатольевич": 26,
-      "Филатова Ирина Анатольевна": 41,
-      "Эйсфельд Дарья Александровна": 42
+      "gas:candidate-vibid:25920001365395": 44,
+      "gas:candidate-vibid:25920001389683": 25,
+      "gas:candidate-vibid:25920001385258": 5,
+      "gas:candidate-vibid:25920001388492": 136,
+      "gas:candidate-vibid:25920001385699": 26,
+      "gas:candidate-vibid:25920001388547": 41,
+      "gas:candidate-vibid:25920001387655": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184820&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184820&type=464",
@@ -10360,13 +10360,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 26,
-      "Колоколова Ольга Аркадьевна": 4,
-      "Мурзаев Валентин Геннадьевич": 5,
-      "Сазонов Дмитрий Валерьевич": 45,
-      "Тытяневич Виталий Анатольевич": 12,
-      "Филатова Ирина Анатольевна": 17,
-      "Эйсфельд Дарья Александровна": 14
+      "gas:candidate-vibid:25920001365395": 26,
+      "gas:candidate-vibid:25920001389683": 4,
+      "gas:candidate-vibid:25920001385258": 5,
+      "gas:candidate-vibid:25920001388492": 45,
+      "gas:candidate-vibid:25920001385699": 12,
+      "gas:candidate-vibid:25920001388547": 17,
+      "gas:candidate-vibid:25920001387655": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184820&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184820&type=464",
@@ -10417,13 +10417,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 81,
-      "Колоколова Ольга Аркадьевна": 23,
-      "Мурзаев Валентин Геннадьевич": 7,
-      "Сазонов Дмитрий Валерьевич": 139,
-      "Тытяневич Виталий Анатольевич": 27,
-      "Филатова Ирина Анатольевна": 46,
-      "Эйсфельд Дарья Александровна": 44
+      "gas:candidate-vibid:25920001365395": 81,
+      "gas:candidate-vibid:25920001389683": 23,
+      "gas:candidate-vibid:25920001385258": 7,
+      "gas:candidate-vibid:25920001388492": 139,
+      "gas:candidate-vibid:25920001385699": 27,
+      "gas:candidate-vibid:25920001388547": 46,
+      "gas:candidate-vibid:25920001387655": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184820&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184820&type=464",
@@ -10474,13 +10474,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 44,
-      "Колоколова Ольга Аркадьевна": 12,
-      "Мурзаев Валентин Геннадьевич": 5,
-      "Сазонов Дмитрий Валерьевич": 84,
-      "Тытяневич Виталий Анатольевич": 19,
-      "Филатова Ирина Анатольевна": 17,
-      "Эйсфельд Дарья Александровна": 21
+      "gas:candidate-vibid:25920001365395": 44,
+      "gas:candidate-vibid:25920001389683": 12,
+      "gas:candidate-vibid:25920001385258": 5,
+      "gas:candidate-vibid:25920001388492": 84,
+      "gas:candidate-vibid:25920001385699": 19,
+      "gas:candidate-vibid:25920001388547": 17,
+      "gas:candidate-vibid:25920001387655": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184820&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184820&type=464",
@@ -10531,13 +10531,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 27,
-      "Колоколова Ольга Аркадьевна": 8,
-      "Мурзаев Валентин Геннадьевич": 3,
-      "Сазонов Дмитрий Валерьевич": 29,
-      "Тытяневич Виталий Анатольевич": 5,
-      "Филатова Ирина Анатольевна": 6,
-      "Эйсфельд Дарья Александровна": 3
+      "gas:candidate-vibid:25920001365395": 27,
+      "gas:candidate-vibid:25920001389683": 8,
+      "gas:candidate-vibid:25920001385258": 3,
+      "gas:candidate-vibid:25920001388492": 29,
+      "gas:candidate-vibid:25920001385699": 5,
+      "gas:candidate-vibid:25920001388547": 6,
+      "gas:candidate-vibid:25920001387655": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184820&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184820&type=464",
@@ -10588,13 +10588,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 21,
-      "Колоколова Ольга Аркадьевна": 5,
-      "Мурзаев Валентин Геннадьевич": 3,
-      "Сазонов Дмитрий Валерьевич": 101,
-      "Тытяневич Виталий Анатольевич": 5,
-      "Филатова Ирина Анатольевна": 20,
-      "Эйсфельд Дарья Александровна": 12
+      "gas:candidate-vibid:25920001365395": 21,
+      "gas:candidate-vibid:25920001389683": 5,
+      "gas:candidate-vibid:25920001385258": 3,
+      "gas:candidate-vibid:25920001388492": 101,
+      "gas:candidate-vibid:25920001385699": 5,
+      "gas:candidate-vibid:25920001388547": 20,
+      "gas:candidate-vibid:25920001387655": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184820&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184820&type=464",
@@ -10645,13 +10645,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 24,
-      "Колоколова Ольга Аркадьевна": 6,
-      "Мурзаев Валентин Геннадьевич": 1,
-      "Сазонов Дмитрий Валерьевич": 68,
-      "Тытяневич Виталий Анатольевич": 5,
-      "Филатова Ирина Анатольевна": 13,
-      "Эйсфельд Дарья Александровна": 13
+      "gas:candidate-vibid:25920001365395": 24,
+      "gas:candidate-vibid:25920001389683": 6,
+      "gas:candidate-vibid:25920001385258": 1,
+      "gas:candidate-vibid:25920001388492": 68,
+      "gas:candidate-vibid:25920001385699": 5,
+      "gas:candidate-vibid:25920001388547": 13,
+      "gas:candidate-vibid:25920001387655": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184820&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184820&type=464",
@@ -10702,13 +10702,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 25,
-      "Колоколова Ольга Аркадьевна": 5,
-      "Мурзаев Валентин Геннадьевич": 0,
-      "Сазонов Дмитрий Валерьевич": 66,
-      "Тытяневич Виталий Анатольевич": 7,
-      "Филатова Ирина Анатольевна": 10,
-      "Эйсфельд Дарья Александровна": 3
+      "gas:candidate-vibid:25920001365395": 25,
+      "gas:candidate-vibid:25920001389683": 5,
+      "gas:candidate-vibid:25920001385258": 0,
+      "gas:candidate-vibid:25920001388492": 66,
+      "gas:candidate-vibid:25920001385699": 7,
+      "gas:candidate-vibid:25920001388547": 10,
+      "gas:candidate-vibid:25920001387655": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184820&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184820&type=464",
@@ -10759,13 +10759,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 28,
-      "Колоколова Ольга Аркадьевна": 10,
-      "Мурзаев Валентин Геннадьевич": 5,
-      "Сазонов Дмитрий Валерьевич": 58,
-      "Тытяневич Виталий Анатольевич": 7,
-      "Филатова Ирина Анатольевна": 14,
-      "Эйсфельд Дарья Александровна": 9
+      "gas:candidate-vibid:25920001365395": 28,
+      "gas:candidate-vibid:25920001389683": 10,
+      "gas:candidate-vibid:25920001385258": 5,
+      "gas:candidate-vibid:25920001388492": 58,
+      "gas:candidate-vibid:25920001385699": 7,
+      "gas:candidate-vibid:25920001388547": 14,
+      "gas:candidate-vibid:25920001387655": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184820&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184820&type=464",
@@ -10816,13 +10816,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 31,
-      "Колоколова Ольга Аркадьевна": 6,
-      "Мурзаев Валентин Геннадьевич": 3,
-      "Сазонов Дмитрий Валерьевич": 89,
-      "Тытяневич Виталий Анатольевич": 13,
-      "Филатова Ирина Анатольевна": 3,
-      "Эйсфельд Дарья Александровна": 13
+      "gas:candidate-vibid:25920001365395": 31,
+      "gas:candidate-vibid:25920001389683": 6,
+      "gas:candidate-vibid:25920001385258": 3,
+      "gas:candidate-vibid:25920001388492": 89,
+      "gas:candidate-vibid:25920001385699": 13,
+      "gas:candidate-vibid:25920001388547": 3,
+      "gas:candidate-vibid:25920001387655": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184821&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184821&type=464",
@@ -10873,13 +10873,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 63,
-      "Колоколова Ольга Аркадьевна": 17,
-      "Мурзаев Валентин Геннадьевич": 7,
-      "Сазонов Дмитрий Валерьевич": 171,
-      "Тытяневич Виталий Анатольевич": 27,
-      "Филатова Ирина Анатольевна": 38,
-      "Эйсфельд Дарья Александровна": 21
+      "gas:candidate-vibid:25920001365395": 63,
+      "gas:candidate-vibid:25920001389683": 17,
+      "gas:candidate-vibid:25920001385258": 7,
+      "gas:candidate-vibid:25920001388492": 171,
+      "gas:candidate-vibid:25920001385699": 27,
+      "gas:candidate-vibid:25920001388547": 38,
+      "gas:candidate-vibid:25920001387655": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184821&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184821&type=464",
@@ -10930,13 +10930,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 13,
-      "Колоколова Ольга Аркадьевна": 4,
-      "Мурзаев Валентин Геннадьевич": 3,
-      "Сазонов Дмитрий Валерьевич": 37,
-      "Тытяневич Виталий Анатольевич": 5,
-      "Филатова Ирина Анатольевна": 3,
-      "Эйсфельд Дарья Александровна": 8
+      "gas:candidate-vibid:25920001365395": 13,
+      "gas:candidate-vibid:25920001389683": 4,
+      "gas:candidate-vibid:25920001385258": 3,
+      "gas:candidate-vibid:25920001388492": 37,
+      "gas:candidate-vibid:25920001385699": 5,
+      "gas:candidate-vibid:25920001388547": 3,
+      "gas:candidate-vibid:25920001387655": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184821&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184821&type=464",
@@ -10987,13 +10987,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 23,
-      "Колоколова Ольга Аркадьевна": 3,
-      "Мурзаев Валентин Геннадьевич": 2,
-      "Сазонов Дмитрий Валерьевич": 54,
-      "Тытяневич Виталий Анатольевич": 7,
-      "Филатова Ирина Анатольевна": 18,
-      "Эйсфельд Дарья Александровна": 10
+      "gas:candidate-vibid:25920001365395": 23,
+      "gas:candidate-vibid:25920001389683": 3,
+      "gas:candidate-vibid:25920001385258": 2,
+      "gas:candidate-vibid:25920001388492": 54,
+      "gas:candidate-vibid:25920001385699": 7,
+      "gas:candidate-vibid:25920001388547": 18,
+      "gas:candidate-vibid:25920001387655": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184821&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184821&type=464",
@@ -11044,13 +11044,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 16,
-      "Колоколова Ольга Аркадьевна": 2,
-      "Мурзаев Валентин Геннадьевич": 0,
-      "Сазонов Дмитрий Валерьевич": 24,
-      "Тытяневич Виталий Анатольевич": 3,
-      "Филатова Ирина Анатольевна": 5,
-      "Эйсфельд Дарья Александровна": 5
+      "gas:candidate-vibid:25920001365395": 16,
+      "gas:candidate-vibid:25920001389683": 2,
+      "gas:candidate-vibid:25920001385258": 0,
+      "gas:candidate-vibid:25920001388492": 24,
+      "gas:candidate-vibid:25920001385699": 3,
+      "gas:candidate-vibid:25920001388547": 5,
+      "gas:candidate-vibid:25920001387655": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184821&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184821&type=464",
@@ -11101,13 +11101,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 28,
-      "Колоколова Ольга Аркадьевна": 3,
-      "Мурзаев Валентин Геннадьевич": 2,
-      "Сазонов Дмитрий Валерьевич": 103,
-      "Тытяневич Виталий Анатольевич": 7,
-      "Филатова Ирина Анатольевна": 19,
-      "Эйсфельд Дарья Александровна": 12
+      "gas:candidate-vibid:25920001365395": 28,
+      "gas:candidate-vibid:25920001389683": 3,
+      "gas:candidate-vibid:25920001385258": 2,
+      "gas:candidate-vibid:25920001388492": 103,
+      "gas:candidate-vibid:25920001385699": 7,
+      "gas:candidate-vibid:25920001388547": 19,
+      "gas:candidate-vibid:25920001387655": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184821&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184821&type=464",
@@ -11158,13 +11158,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 11,
-      "Колоколова Ольга Аркадьевна": 3,
-      "Мурзаев Валентин Геннадьевич": 0,
-      "Сазонов Дмитрий Валерьевич": 32,
-      "Тытяневич Виталий Анатольевич": 1,
-      "Филатова Ирина Анатольевна": 4,
-      "Эйсфельд Дарья Александровна": 5
+      "gas:candidate-vibid:25920001365395": 11,
+      "gas:candidate-vibid:25920001389683": 3,
+      "gas:candidate-vibid:25920001385258": 0,
+      "gas:candidate-vibid:25920001388492": 32,
+      "gas:candidate-vibid:25920001385699": 1,
+      "gas:candidate-vibid:25920001388547": 4,
+      "gas:candidate-vibid:25920001387655": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184821&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184821&type=464",
@@ -11215,13 +11215,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 18,
-      "Колоколова Ольга Аркадьевна": 2,
-      "Мурзаев Валентин Геннадьевич": 1,
-      "Сазонов Дмитрий Валерьевич": 62,
-      "Тытяневич Виталий Анатольевич": 5,
-      "Филатова Ирина Анатольевна": 13,
-      "Эйсфельд Дарья Александровна": 10
+      "gas:candidate-vibid:25920001365395": 18,
+      "gas:candidate-vibid:25920001389683": 2,
+      "gas:candidate-vibid:25920001385258": 1,
+      "gas:candidate-vibid:25920001388492": 62,
+      "gas:candidate-vibid:25920001385699": 5,
+      "gas:candidate-vibid:25920001388547": 13,
+      "gas:candidate-vibid:25920001387655": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184821&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184821&type=464",
@@ -11272,13 +11272,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 15,
-      "Колоколова Ольга Аркадьевна": 4,
-      "Мурзаев Валентин Геннадьевич": 3,
-      "Сазонов Дмитрий Валерьевич": 51,
-      "Тытяневич Виталий Анатольевич": 2,
-      "Филатова Ирина Анатольевна": 13,
-      "Эйсфельд Дарья Александровна": 0
+      "gas:candidate-vibid:25920001365395": 15,
+      "gas:candidate-vibid:25920001389683": 4,
+      "gas:candidate-vibid:25920001385258": 3,
+      "gas:candidate-vibid:25920001388492": 51,
+      "gas:candidate-vibid:25920001385699": 2,
+      "gas:candidate-vibid:25920001388547": 13,
+      "gas:candidate-vibid:25920001387655": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184821&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184821&type=464",
@@ -11329,13 +11329,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 16,
-      "Колоколова Ольга Аркадьевна": 4,
-      "Мурзаев Валентин Геннадьевич": 1,
-      "Сазонов Дмитрий Валерьевич": 95,
-      "Тытяневич Виталий Анатольевич": 7,
-      "Филатова Ирина Анатольевна": 4,
-      "Эйсфельд Дарья Александровна": 6
+      "gas:candidate-vibid:25920001365395": 16,
+      "gas:candidate-vibid:25920001389683": 4,
+      "gas:candidate-vibid:25920001385258": 1,
+      "gas:candidate-vibid:25920001388492": 95,
+      "gas:candidate-vibid:25920001385699": 7,
+      "gas:candidate-vibid:25920001388547": 4,
+      "gas:candidate-vibid:25920001387655": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184821&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184821&type=464",
@@ -11386,13 +11386,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 57,
-      "Колоколова Ольга Аркадьевна": 18,
-      "Мурзаев Валентин Геннадьевич": 7,
-      "Сазонов Дмитрий Валерьевич": 135,
-      "Тытяневич Виталий Анатольевич": 24,
-      "Филатова Ирина Анатольевна": 37,
-      "Эйсфельд Дарья Александровна": 32
+      "gas:candidate-vibid:25920001365395": 57,
+      "gas:candidate-vibid:25920001389683": 18,
+      "gas:candidate-vibid:25920001385258": 7,
+      "gas:candidate-vibid:25920001388492": 135,
+      "gas:candidate-vibid:25920001385699": 24,
+      "gas:candidate-vibid:25920001388547": 37,
+      "gas:candidate-vibid:25920001387655": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184821&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184821&type=464",
@@ -11443,13 +11443,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 26,
-      "Колоколова Ольга Аркадьевна": 3,
-      "Мурзаев Валентин Геннадьевич": 2,
-      "Сазонов Дмитрий Валерьевич": 69,
-      "Тытяневич Виталий Анатольевич": 11,
-      "Филатова Ирина Анатольевна": 17,
-      "Эйсфельд Дарья Александровна": 9
+      "gas:candidate-vibid:25920001365395": 26,
+      "gas:candidate-vibid:25920001389683": 3,
+      "gas:candidate-vibid:25920001385258": 2,
+      "gas:candidate-vibid:25920001388492": 69,
+      "gas:candidate-vibid:25920001385699": 11,
+      "gas:candidate-vibid:25920001388547": 17,
+      "gas:candidate-vibid:25920001387655": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184821&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184821&type=464",
@@ -11500,13 +11500,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 12,
-      "Колоколова Ольга Аркадьевна": 3,
-      "Мурзаев Валентин Геннадьевич": 0,
-      "Сазонов Дмитрий Валерьевич": 25,
-      "Тытяневич Виталий Анатольевич": 1,
-      "Филатова Ирина Анатольевна": 2,
-      "Эйсфельд Дарья Александровна": 4
+      "gas:candidate-vibid:25920001365395": 12,
+      "gas:candidate-vibid:25920001389683": 3,
+      "gas:candidate-vibid:25920001385258": 0,
+      "gas:candidate-vibid:25920001388492": 25,
+      "gas:candidate-vibid:25920001385699": 1,
+      "gas:candidate-vibid:25920001388547": 2,
+      "gas:candidate-vibid:25920001387655": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184821&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184821&type=464",
@@ -11557,13 +11557,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 19,
-      "Колоколова Ольга Аркадьевна": 12,
-      "Мурзаев Валентин Геннадьевич": 5,
-      "Сазонов Дмитрий Валерьевич": 78,
-      "Тытяневич Виталий Анатольевич": 11,
-      "Филатова Ирина Анатольевна": 21,
-      "Эйсфельд Дарья Александровна": 19
+      "gas:candidate-vibid:25920001365395": 19,
+      "gas:candidate-vibid:25920001389683": 12,
+      "gas:candidate-vibid:25920001385258": 5,
+      "gas:candidate-vibid:25920001388492": 78,
+      "gas:candidate-vibid:25920001385699": 11,
+      "gas:candidate-vibid:25920001388547": 21,
+      "gas:candidate-vibid:25920001387655": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184821&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184821&type=464",
@@ -11614,13 +11614,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 10,
-      "Колоколова Ольга Аркадьевна": 2,
-      "Мурзаев Валентин Геннадьевич": 0,
-      "Сазонов Дмитрий Валерьевич": 27,
-      "Тытяневич Виталий Анатольевич": 5,
-      "Филатова Ирина Анатольевна": 13,
-      "Эйсфельд Дарья Александровна": 7
+      "gas:candidate-vibid:25920001365395": 10,
+      "gas:candidate-vibid:25920001389683": 2,
+      "gas:candidate-vibid:25920001385258": 0,
+      "gas:candidate-vibid:25920001388492": 27,
+      "gas:candidate-vibid:25920001385699": 5,
+      "gas:candidate-vibid:25920001388547": 13,
+      "gas:candidate-vibid:25920001387655": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184821&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184821&type=464",
@@ -11671,13 +11671,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 24,
-      "Колоколова Ольга Аркадьевна": 9,
-      "Мурзаев Валентин Геннадьевич": 4,
-      "Сазонов Дмитрий Валерьевич": 67,
-      "Тытяневич Виталий Анатольевич": 4,
-      "Филатова Ирина Анатольевна": 12,
-      "Эйсфельд Дарья Александровна": 10
+      "gas:candidate-vibid:25920001365395": 24,
+      "gas:candidate-vibid:25920001389683": 9,
+      "gas:candidate-vibid:25920001385258": 4,
+      "gas:candidate-vibid:25920001388492": 67,
+      "gas:candidate-vibid:25920001385699": 4,
+      "gas:candidate-vibid:25920001388547": 12,
+      "gas:candidate-vibid:25920001387655": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184821&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184821&type=464",
@@ -11728,13 +11728,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 78,
-      "Колоколова Ольга Аркадьевна": 9,
-      "Мурзаев Валентин Геннадьевич": 5,
-      "Сазонов Дмитрий Валерьевич": 141,
-      "Тытяневич Виталий Анатольевич": 16,
-      "Филатова Ирина Анатольевна": 40,
-      "Эйсфельд Дарья Александровна": 33
+      "gas:candidate-vibid:25920001365395": 78,
+      "gas:candidate-vibid:25920001389683": 9,
+      "gas:candidate-vibid:25920001385258": 5,
+      "gas:candidate-vibid:25920001388492": 141,
+      "gas:candidate-vibid:25920001385699": 16,
+      "gas:candidate-vibid:25920001388547": 40,
+      "gas:candidate-vibid:25920001387655": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184821&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184821&type=464",
@@ -11785,13 +11785,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 65,
-      "Колоколова Ольга Аркадьевна": 6,
-      "Мурзаев Валентин Геннадьевич": 6,
-      "Сазонов Дмитрий Валерьевич": 171,
-      "Тытяневич Виталий Анатольевич": 9,
-      "Филатова Ирина Анатольевна": 62,
-      "Эйсфельд Дарья Александровна": 47
+      "gas:candidate-vibid:25920001365395": 65,
+      "gas:candidate-vibid:25920001389683": 6,
+      "gas:candidate-vibid:25920001385258": 6,
+      "gas:candidate-vibid:25920001388492": 171,
+      "gas:candidate-vibid:25920001385699": 9,
+      "gas:candidate-vibid:25920001388547": 62,
+      "gas:candidate-vibid:25920001387655": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184821&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184821&type=464",
@@ -11842,13 +11842,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 68,
-      "Колоколова Ольга Аркадьевна": 8,
-      "Мурзаев Валентин Геннадьевич": 4,
-      "Сазонов Дмитрий Валерьевич": 150,
-      "Тытяневич Виталий Анатольевич": 14,
-      "Филатова Ирина Анатольевна": 30,
-      "Эйсфельд Дарья Александровна": 31
+      "gas:candidate-vibid:25920001365395": 68,
+      "gas:candidate-vibid:25920001389683": 8,
+      "gas:candidate-vibid:25920001385258": 4,
+      "gas:candidate-vibid:25920001388492": 150,
+      "gas:candidate-vibid:25920001385699": 14,
+      "gas:candidate-vibid:25920001388547": 30,
+      "gas:candidate-vibid:25920001387655": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184821&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184821&type=464",
@@ -11899,13 +11899,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 30,
-      "Колоколова Ольга Аркадьевна": 11,
-      "Мурзаев Валентин Геннадьевич": 0,
-      "Сазонов Дмитрий Валерьевич": 169,
-      "Тытяневич Виталий Анатольевич": 8,
-      "Филатова Ирина Анатольевна": 8,
-      "Эйсфельд Дарья Александровна": 7
+      "gas:candidate-vibid:25920001365395": 30,
+      "gas:candidate-vibid:25920001389683": 11,
+      "gas:candidate-vibid:25920001385258": 0,
+      "gas:candidate-vibid:25920001388492": 169,
+      "gas:candidate-vibid:25920001385699": 8,
+      "gas:candidate-vibid:25920001388547": 8,
+      "gas:candidate-vibid:25920001387655": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184821&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184821&type=464",
@@ -11956,13 +11956,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 13,
-      "Колоколова Ольга Аркадьевна": 2,
-      "Мурзаев Валентин Геннадьевич": 1,
-      "Сазонов Дмитрий Валерьевич": 272,
-      "Тытяневич Виталий Анатольевич": 5,
-      "Филатова Ирина Анатольевна": 7,
-      "Эйсфельд Дарья Александровна": 4
+      "gas:candidate-vibid:25920001365395": 13,
+      "gas:candidate-vibid:25920001389683": 2,
+      "gas:candidate-vibid:25920001385258": 1,
+      "gas:candidate-vibid:25920001388492": 272,
+      "gas:candidate-vibid:25920001385699": 5,
+      "gas:candidate-vibid:25920001388547": 7,
+      "gas:candidate-vibid:25920001387655": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184822&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184822&type=464",
@@ -12013,13 +12013,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 25,
-      "Колоколова Ольга Аркадьевна": 3,
-      "Мурзаев Валентин Геннадьевич": 5,
-      "Сазонов Дмитрий Валерьевич": 127,
-      "Тытяневич Виталий Анатольевич": 5,
-      "Филатова Ирина Анатольевна": 14,
-      "Эйсфельд Дарья Александровна": 11
+      "gas:candidate-vibid:25920001365395": 25,
+      "gas:candidate-vibid:25920001389683": 3,
+      "gas:candidate-vibid:25920001385258": 5,
+      "gas:candidate-vibid:25920001388492": 127,
+      "gas:candidate-vibid:25920001385699": 5,
+      "gas:candidate-vibid:25920001388547": 14,
+      "gas:candidate-vibid:25920001387655": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184822&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184822&type=464",
@@ -12070,13 +12070,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 30,
-      "Колоколова Ольга Аркадьевна": 12,
-      "Мурзаев Валентин Геннадьевич": 7,
-      "Сазонов Дмитрий Валерьевич": 97,
-      "Тытяневич Виталий Анатольевич": 7,
-      "Филатова Ирина Анатольевна": 19,
-      "Эйсфельд Дарья Александровна": 3
+      "gas:candidate-vibid:25920001365395": 30,
+      "gas:candidate-vibid:25920001389683": 12,
+      "gas:candidate-vibid:25920001385258": 7,
+      "gas:candidate-vibid:25920001388492": 97,
+      "gas:candidate-vibid:25920001385699": 7,
+      "gas:candidate-vibid:25920001388547": 19,
+      "gas:candidate-vibid:25920001387655": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184822&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184822&type=464",
@@ -12127,13 +12127,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 40,
-      "Колоколова Ольга Аркадьевна": 14,
-      "Мурзаев Валентин Геннадьевич": 4,
-      "Сазонов Дмитрий Валерьевич": 310,
-      "Тытяневич Виталий Анатольевич": 17,
-      "Филатова Ирина Анатольевна": 43,
-      "Эйсфельд Дарья Александровна": 29
+      "gas:candidate-vibid:25920001365395": 40,
+      "gas:candidate-vibid:25920001389683": 14,
+      "gas:candidate-vibid:25920001385258": 4,
+      "gas:candidate-vibid:25920001388492": 310,
+      "gas:candidate-vibid:25920001385699": 17,
+      "gas:candidate-vibid:25920001388547": 43,
+      "gas:candidate-vibid:25920001387655": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184822&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184822&type=464",
@@ -12184,13 +12184,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 31,
-      "Колоколова Ольга Аркадьевна": 12,
-      "Мурзаев Валентин Геннадьевич": 4,
-      "Сазонов Дмитрий Валерьевич": 183,
-      "Тытяневич Виталий Анатольевич": 11,
-      "Филатова Ирина Анатольевна": 34,
-      "Эйсфельд Дарья Александровна": 25
+      "gas:candidate-vibid:25920001365395": 31,
+      "gas:candidate-vibid:25920001389683": 12,
+      "gas:candidate-vibid:25920001385258": 4,
+      "gas:candidate-vibid:25920001388492": 183,
+      "gas:candidate-vibid:25920001385699": 11,
+      "gas:candidate-vibid:25920001388547": 34,
+      "gas:candidate-vibid:25920001387655": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184822&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184822&type=464",
@@ -12241,13 +12241,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 25,
-      "Колоколова Ольга Аркадьевна": 6,
-      "Мурзаев Валентин Геннадьевич": 0,
-      "Сазонов Дмитрий Валерьевич": 92,
-      "Тытяневич Виталий Анатольевич": 6,
-      "Филатова Ирина Анатольевна": 19,
-      "Эйсфельд Дарья Александровна": 18
+      "gas:candidate-vibid:25920001365395": 25,
+      "gas:candidate-vibid:25920001389683": 6,
+      "gas:candidate-vibid:25920001385258": 0,
+      "gas:candidate-vibid:25920001388492": 92,
+      "gas:candidate-vibid:25920001385699": 6,
+      "gas:candidate-vibid:25920001388547": 19,
+      "gas:candidate-vibid:25920001387655": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184822&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184822&type=464",
@@ -12298,13 +12298,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 9,
-      "Колоколова Ольга Аркадьевна": 2,
-      "Мурзаев Валентин Геннадьевич": 1,
-      "Сазонов Дмитрий Валерьевич": 110,
-      "Тытяневич Виталий Анатольевич": 5,
-      "Филатова Ирина Анатольевна": 14,
-      "Эйсфельд Дарья Александровна": 5
+      "gas:candidate-vibid:25920001365395": 9,
+      "gas:candidate-vibid:25920001389683": 2,
+      "gas:candidate-vibid:25920001385258": 1,
+      "gas:candidate-vibid:25920001388492": 110,
+      "gas:candidate-vibid:25920001385699": 5,
+      "gas:candidate-vibid:25920001388547": 14,
+      "gas:candidate-vibid:25920001387655": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184822&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184822&type=464",
@@ -12355,13 +12355,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 72,
-      "Колоколова Ольга Аркадьевна": 13,
-      "Мурзаев Валентин Геннадьевич": 18,
-      "Сазонов Дмитрий Валерьевич": 331,
-      "Тытяневич Виталий Анатольевич": 21,
-      "Филатова Ирина Анатольевна": 49,
-      "Эйсфельд Дарья Александровна": 35
+      "gas:candidate-vibid:25920001365395": 72,
+      "gas:candidate-vibid:25920001389683": 13,
+      "gas:candidate-vibid:25920001385258": 18,
+      "gas:candidate-vibid:25920001388492": 331,
+      "gas:candidate-vibid:25920001385699": 21,
+      "gas:candidate-vibid:25920001388547": 49,
+      "gas:candidate-vibid:25920001387655": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184822&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184822&type=464",
@@ -12412,13 +12412,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 42,
-      "Колоколова Ольга Аркадьевна": 5,
-      "Мурзаев Валентин Геннадьевич": 3,
-      "Сазонов Дмитрий Валерьевич": 89,
-      "Тытяневич Виталий Анатольевич": 17,
-      "Филатова Ирина Анатольевна": 13,
-      "Эйсфельд Дарья Александровна": 24
+      "gas:candidate-vibid:25920001365395": 42,
+      "gas:candidate-vibid:25920001389683": 5,
+      "gas:candidate-vibid:25920001385258": 3,
+      "gas:candidate-vibid:25920001388492": 89,
+      "gas:candidate-vibid:25920001385699": 17,
+      "gas:candidate-vibid:25920001388547": 13,
+      "gas:candidate-vibid:25920001387655": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184822&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184822&type=464",
@@ -12469,13 +12469,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 73,
-      "Колоколова Ольга Аркадьевна": 16,
-      "Мурзаев Валентин Геннадьевич": 7,
-      "Сазонов Дмитрий Валерьевич": 359,
-      "Тытяневич Виталий Анатольевич": 19,
-      "Филатова Ирина Анатольевна": 44,
-      "Эйсфельд Дарья Александровна": 44
+      "gas:candidate-vibid:25920001365395": 73,
+      "gas:candidate-vibid:25920001389683": 16,
+      "gas:candidate-vibid:25920001385258": 7,
+      "gas:candidate-vibid:25920001388492": 359,
+      "gas:candidate-vibid:25920001385699": 19,
+      "gas:candidate-vibid:25920001388547": 44,
+      "gas:candidate-vibid:25920001387655": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184822&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184822&type=464",
@@ -12526,13 +12526,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 19,
-      "Колоколова Ольга Аркадьевна": 4,
-      "Мурзаев Валентин Геннадьевич": 2,
-      "Сазонов Дмитрий Валерьевич": 73,
-      "Тытяневич Виталий Анатольевич": 10,
-      "Филатова Ирина Анатольевна": 7,
-      "Эйсфельд Дарья Александровна": 12
+      "gas:candidate-vibid:25920001365395": 19,
+      "gas:candidate-vibid:25920001389683": 4,
+      "gas:candidate-vibid:25920001385258": 2,
+      "gas:candidate-vibid:25920001388492": 73,
+      "gas:candidate-vibid:25920001385699": 10,
+      "gas:candidate-vibid:25920001388547": 7,
+      "gas:candidate-vibid:25920001387655": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184822&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184822&type=464",
@@ -12583,13 +12583,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 41,
-      "Колоколова Ольга Аркадьевна": 6,
-      "Мурзаев Валентин Геннадьевич": 1,
-      "Сазонов Дмитрий Валерьевич": 242,
-      "Тытяневич Виталий Анатольевич": 12,
-      "Филатова Ирина Анатольевна": 29,
-      "Эйсфельд Дарья Александровна": 28
+      "gas:candidate-vibid:25920001365395": 41,
+      "gas:candidate-vibid:25920001389683": 6,
+      "gas:candidate-vibid:25920001385258": 1,
+      "gas:candidate-vibid:25920001388492": 242,
+      "gas:candidate-vibid:25920001385699": 12,
+      "gas:candidate-vibid:25920001388547": 29,
+      "gas:candidate-vibid:25920001387655": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184822&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184822&type=464",
@@ -12640,13 +12640,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 51,
-      "Колоколова Ольга Аркадьевна": 8,
-      "Мурзаев Валентин Геннадьевич": 7,
-      "Сазонов Дмитрий Валерьевич": 303,
-      "Тытяневич Виталий Анатольевич": 11,
-      "Филатова Ирина Анатольевна": 36,
-      "Эйсфельд Дарья Александровна": 39
+      "gas:candidate-vibid:25920001365395": 51,
+      "gas:candidate-vibid:25920001389683": 8,
+      "gas:candidate-vibid:25920001385258": 7,
+      "gas:candidate-vibid:25920001388492": 303,
+      "gas:candidate-vibid:25920001385699": 11,
+      "gas:candidate-vibid:25920001388547": 36,
+      "gas:candidate-vibid:25920001387655": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184822&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184822&type=464",
@@ -12697,13 +12697,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 66,
-      "Колоколова Ольга Аркадьевна": 12,
-      "Мурзаев Валентин Геннадьевич": 9,
-      "Сазонов Дмитрий Валерьевич": 294,
-      "Тытяневич Виталий Анатольевич": 24,
-      "Филатова Ирина Анатольевна": 40,
-      "Эйсфельд Дарья Александровна": 37
+      "gas:candidate-vibid:25920001365395": 66,
+      "gas:candidate-vibid:25920001389683": 12,
+      "gas:candidate-vibid:25920001385258": 9,
+      "gas:candidate-vibid:25920001388492": 294,
+      "gas:candidate-vibid:25920001385699": 24,
+      "gas:candidate-vibid:25920001388547": 40,
+      "gas:candidate-vibid:25920001387655": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184822&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184822&type=464",
@@ -12754,13 +12754,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 16,
-      "Колоколова Ольга Аркадьевна": 5,
-      "Мурзаев Валентин Геннадьевич": 4,
-      "Сазонов Дмитрий Валерьевич": 144,
-      "Тытяневич Виталий Анатольевич": 7,
-      "Филатова Ирина Анатольевна": 5,
-      "Эйсфельд Дарья Александровна": 7
+      "gas:candidate-vibid:25920001365395": 16,
+      "gas:candidate-vibid:25920001389683": 5,
+      "gas:candidate-vibid:25920001385258": 4,
+      "gas:candidate-vibid:25920001388492": 144,
+      "gas:candidate-vibid:25920001385699": 7,
+      "gas:candidate-vibid:25920001388547": 5,
+      "gas:candidate-vibid:25920001387655": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184822&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184822&type=464",
@@ -12811,13 +12811,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 23,
-      "Колоколова Ольга Аркадьевна": 7,
-      "Мурзаев Валентин Геннадьевич": 1,
-      "Сазонов Дмитрий Валерьевич": 114,
-      "Тытяневич Виталий Анатольевич": 5,
-      "Филатова Ирина Анатольевна": 18,
-      "Эйсфельд Дарья Александровна": 11
+      "gas:candidate-vibid:25920001365395": 23,
+      "gas:candidate-vibid:25920001389683": 7,
+      "gas:candidate-vibid:25920001385258": 1,
+      "gas:candidate-vibid:25920001388492": 114,
+      "gas:candidate-vibid:25920001385699": 5,
+      "gas:candidate-vibid:25920001388547": 18,
+      "gas:candidate-vibid:25920001387655": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184822&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184822&type=464",
@@ -12868,13 +12868,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 39,
-      "Колоколова Ольга Аркадьевна": 9,
-      "Мурзаев Валентин Геннадьевич": 1,
-      "Сазонов Дмитрий Валерьевич": 124,
-      "Тытяневич Виталий Анатольевич": 11,
-      "Филатова Ирина Анатольевна": 27,
-      "Эйсфельд Дарья Александровна": 17
+      "gas:candidate-vibid:25920001365395": 39,
+      "gas:candidate-vibid:25920001389683": 9,
+      "gas:candidate-vibid:25920001385258": 1,
+      "gas:candidate-vibid:25920001388492": 124,
+      "gas:candidate-vibid:25920001385699": 11,
+      "gas:candidate-vibid:25920001388547": 27,
+      "gas:candidate-vibid:25920001387655": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184823&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184823&type=464",
@@ -12925,13 +12925,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 11,
-      "Колоколова Ольга Аркадьевна": 4,
-      "Мурзаев Валентин Геннадьевич": 0,
-      "Сазонов Дмитрий Валерьевич": 60,
-      "Тытяневич Виталий Анатольевич": 3,
-      "Филатова Ирина Анатольевна": 7,
-      "Эйсфельд Дарья Александровна": 15
+      "gas:candidate-vibid:25920001365395": 11,
+      "gas:candidate-vibid:25920001389683": 4,
+      "gas:candidate-vibid:25920001385258": 0,
+      "gas:candidate-vibid:25920001388492": 60,
+      "gas:candidate-vibid:25920001385699": 3,
+      "gas:candidate-vibid:25920001388547": 7,
+      "gas:candidate-vibid:25920001387655": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184823&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184823&type=464",
@@ -12982,13 +12982,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 35,
-      "Колоколова Ольга Аркадьевна": 11,
-      "Мурзаев Валентин Геннадьевич": 4,
-      "Сазонов Дмитрий Валерьевич": 99,
-      "Тытяневич Виталий Анатольевич": 13,
-      "Филатова Ирина Анатольевна": 25,
-      "Эйсфельд Дарья Александровна": 28
+      "gas:candidate-vibid:25920001365395": 35,
+      "gas:candidate-vibid:25920001389683": 11,
+      "gas:candidate-vibid:25920001385258": 4,
+      "gas:candidate-vibid:25920001388492": 99,
+      "gas:candidate-vibid:25920001385699": 13,
+      "gas:candidate-vibid:25920001388547": 25,
+      "gas:candidate-vibid:25920001387655": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184823&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184823&type=464",
@@ -13039,13 +13039,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 10,
-      "Колоколова Ольга Аркадьевна": 6,
-      "Мурзаев Валентин Геннадьевич": 3,
-      "Сазонов Дмитрий Валерьевич": 46,
-      "Тытяневич Виталий Анатольевич": 2,
-      "Филатова Ирина Анатольевна": 7,
-      "Эйсфельд Дарья Александровна": 4
+      "gas:candidate-vibid:25920001365395": 10,
+      "gas:candidate-vibid:25920001389683": 6,
+      "gas:candidate-vibid:25920001385258": 3,
+      "gas:candidate-vibid:25920001388492": 46,
+      "gas:candidate-vibid:25920001385699": 2,
+      "gas:candidate-vibid:25920001388547": 7,
+      "gas:candidate-vibid:25920001387655": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184823&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184823&type=464",
@@ -13096,13 +13096,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 28,
-      "Колоколова Ольга Аркадьевна": 8,
-      "Мурзаев Валентин Геннадьевич": 1,
-      "Сазонов Дмитрий Валерьевич": 113,
-      "Тытяневич Виталий Анатольевич": 8,
-      "Филатова Ирина Анатольевна": 26,
-      "Эйсфельд Дарья Александровна": 26
+      "gas:candidate-vibid:25920001365395": 28,
+      "gas:candidate-vibid:25920001389683": 8,
+      "gas:candidate-vibid:25920001385258": 1,
+      "gas:candidate-vibid:25920001388492": 113,
+      "gas:candidate-vibid:25920001385699": 8,
+      "gas:candidate-vibid:25920001388547": 26,
+      "gas:candidate-vibid:25920001387655": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184823&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184823&type=464",
@@ -13153,13 +13153,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 34,
-      "Колоколова Ольга Аркадьевна": 6,
-      "Мурзаев Валентин Геннадьевич": 1,
-      "Сазонов Дмитрий Валерьевич": 57,
-      "Тытяневич Виталий Анатольевич": 5,
-      "Филатова Ирина Анатольевна": 18,
-      "Эйсфельд Дарья Александровна": 20
+      "gas:candidate-vibid:25920001365395": 34,
+      "gas:candidate-vibid:25920001389683": 6,
+      "gas:candidate-vibid:25920001385258": 1,
+      "gas:candidate-vibid:25920001388492": 57,
+      "gas:candidate-vibid:25920001385699": 5,
+      "gas:candidate-vibid:25920001388547": 18,
+      "gas:candidate-vibid:25920001387655": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184823&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184823&type=464",
@@ -13210,13 +13210,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 34,
-      "Колоколова Ольга Аркадьевна": 3,
-      "Мурзаев Валентин Геннадьевич": 10,
-      "Сазонов Дмитрий Валерьевич": 147,
-      "Тытяневич Виталий Анатольевич": 10,
-      "Филатова Ирина Анатольевна": 24,
-      "Эйсфельд Дарья Александровна": 25
+      "gas:candidate-vibid:25920001365395": 34,
+      "gas:candidate-vibid:25920001389683": 3,
+      "gas:candidate-vibid:25920001385258": 10,
+      "gas:candidate-vibid:25920001388492": 147,
+      "gas:candidate-vibid:25920001385699": 10,
+      "gas:candidate-vibid:25920001388547": 24,
+      "gas:candidate-vibid:25920001387655": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184823&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184823&type=464",
@@ -13267,13 +13267,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 14,
-      "Колоколова Ольга Аркадьевна": 6,
-      "Мурзаев Валентин Геннадьевич": 3,
-      "Сазонов Дмитрий Валерьевич": 113,
-      "Тытяневич Виталий Анатольевич": 6,
-      "Филатова Ирина Анатольевна": 24,
-      "Эйсфельд Дарья Александровна": 9
+      "gas:candidate-vibid:25920001365395": 14,
+      "gas:candidate-vibid:25920001389683": 6,
+      "gas:candidate-vibid:25920001385258": 3,
+      "gas:candidate-vibid:25920001388492": 113,
+      "gas:candidate-vibid:25920001385699": 6,
+      "gas:candidate-vibid:25920001388547": 24,
+      "gas:candidate-vibid:25920001387655": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184823&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184823&type=464",
@@ -13324,13 +13324,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 7,
-      "Колоколова Ольга Аркадьевна": 3,
-      "Мурзаев Валентин Геннадьевич": 0,
-      "Сазонов Дмитрий Валерьевич": 42,
-      "Тытяневич Виталий Анатольевич": 4,
-      "Филатова Ирина Анатольевна": 2,
-      "Эйсфельд Дарья Александровна": 13
+      "gas:candidate-vibid:25920001365395": 7,
+      "gas:candidate-vibid:25920001389683": 3,
+      "gas:candidate-vibid:25920001385258": 0,
+      "gas:candidate-vibid:25920001388492": 42,
+      "gas:candidate-vibid:25920001385699": 4,
+      "gas:candidate-vibid:25920001388547": 2,
+      "gas:candidate-vibid:25920001387655": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184823&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184823&type=464",
@@ -13381,13 +13381,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 52,
-      "Колоколова Ольга Аркадьевна": 12,
-      "Мурзаев Валентин Геннадьевич": 3,
-      "Сазонов Дмитрий Валерьевич": 105,
-      "Тытяневич Виталий Анатольевич": 10,
-      "Филатова Ирина Анатольевна": 21,
-      "Эйсфельд Дарья Александровна": 27
+      "gas:candidate-vibid:25920001365395": 52,
+      "gas:candidate-vibid:25920001389683": 12,
+      "gas:candidate-vibid:25920001385258": 3,
+      "gas:candidate-vibid:25920001388492": 105,
+      "gas:candidate-vibid:25920001385699": 10,
+      "gas:candidate-vibid:25920001388547": 21,
+      "gas:candidate-vibid:25920001387655": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184823&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184823&type=464",
@@ -13438,13 +13438,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 9,
-      "Колоколова Ольга Аркадьевна": 4,
-      "Мурзаев Валентин Геннадьевич": 2,
-      "Сазонов Дмитрий Валерьевич": 58,
-      "Тытяневич Виталий Анатольевич": 5,
-      "Филатова Ирина Анатольевна": 4,
-      "Эйсфельд Дарья Александровна": 12
+      "gas:candidate-vibid:25920001365395": 9,
+      "gas:candidate-vibid:25920001389683": 4,
+      "gas:candidate-vibid:25920001385258": 2,
+      "gas:candidate-vibid:25920001388492": 58,
+      "gas:candidate-vibid:25920001385699": 5,
+      "gas:candidate-vibid:25920001388547": 4,
+      "gas:candidate-vibid:25920001387655": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184823&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184823&type=464",
@@ -13495,13 +13495,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 73,
-      "Колоколова Ольга Аркадьевна": 18,
-      "Мурзаев Валентин Геннадьевич": 8,
-      "Сазонов Дмитрий Валерьевич": 228,
-      "Тытяневич Виталий Анатольевич": 26,
-      "Филатова Ирина Анатольевна": 30,
-      "Эйсфельд Дарья Александровна": 55
+      "gas:candidate-vibid:25920001365395": 73,
+      "gas:candidate-vibid:25920001389683": 18,
+      "gas:candidate-vibid:25920001385258": 8,
+      "gas:candidate-vibid:25920001388492": 228,
+      "gas:candidate-vibid:25920001385699": 26,
+      "gas:candidate-vibid:25920001388547": 30,
+      "gas:candidate-vibid:25920001387655": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184823&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184823&type=464",
@@ -13552,13 +13552,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 10,
-      "Колоколова Ольга Аркадьевна": 2,
-      "Мурзаев Валентин Геннадьевич": 2,
-      "Сазонов Дмитрий Валерьевич": 31,
-      "Тытяневич Виталий Анатольевич": 4,
-      "Филатова Ирина Анатольевна": 3,
-      "Эйсфельд Дарья Александровна": 9
+      "gas:candidate-vibid:25920001365395": 10,
+      "gas:candidate-vibid:25920001389683": 2,
+      "gas:candidate-vibid:25920001385258": 2,
+      "gas:candidate-vibid:25920001388492": 31,
+      "gas:candidate-vibid:25920001385699": 4,
+      "gas:candidate-vibid:25920001388547": 3,
+      "gas:candidate-vibid:25920001387655": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184823&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184823&type=464",
@@ -13609,13 +13609,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 11,
-      "Колоколова Ольга Аркадьевна": 4,
-      "Мурзаев Валентин Геннадьевич": 2,
-      "Сазонов Дмитрий Валерьевич": 46,
-      "Тытяневич Виталий Анатольевич": 3,
-      "Филатова Ирина Анатольевна": 6,
-      "Эйсфельд Дарья Александровна": 5
+      "gas:candidate-vibid:25920001365395": 11,
+      "gas:candidate-vibid:25920001389683": 4,
+      "gas:candidate-vibid:25920001385258": 2,
+      "gas:candidate-vibid:25920001388492": 46,
+      "gas:candidate-vibid:25920001385699": 3,
+      "gas:candidate-vibid:25920001388547": 6,
+      "gas:candidate-vibid:25920001387655": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184823&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184823&type=464",
@@ -13666,13 +13666,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 9,
-      "Колоколова Ольга Аркадьевна": 2,
-      "Мурзаев Валентин Геннадьевич": 0,
-      "Сазонов Дмитрий Валерьевич": 58,
-      "Тытяневич Виталий Анатольевич": 3,
-      "Филатова Ирина Анатольевна": 5,
-      "Эйсфельд Дарья Александровна": 4
+      "gas:candidate-vibid:25920001365395": 9,
+      "gas:candidate-vibid:25920001389683": 2,
+      "gas:candidate-vibid:25920001385258": 0,
+      "gas:candidate-vibid:25920001388492": 58,
+      "gas:candidate-vibid:25920001385699": 3,
+      "gas:candidate-vibid:25920001388547": 5,
+      "gas:candidate-vibid:25920001387655": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184823&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184823&type=464",
@@ -13723,13 +13723,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 79,
-      "Колоколова Ольга Аркадьевна": 6,
-      "Мурзаев Валентин Геннадьевич": 2,
-      "Сазонов Дмитрий Валерьевич": 224,
-      "Тытяневич Виталий Анатольевич": 20,
-      "Филатова Ирина Анатольевна": 31,
-      "Эйсфельд Дарья Александровна": 76
+      "gas:candidate-vibid:25920001365395": 79,
+      "gas:candidate-vibid:25920001389683": 6,
+      "gas:candidate-vibid:25920001385258": 2,
+      "gas:candidate-vibid:25920001388492": 224,
+      "gas:candidate-vibid:25920001385699": 20,
+      "gas:candidate-vibid:25920001388547": 31,
+      "gas:candidate-vibid:25920001387655": 76
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184823&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184823&type=464",
@@ -13780,13 +13780,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 22,
-      "Колоколова Ольга Аркадьевна": 5,
-      "Мурзаев Валентин Геннадьевич": 2,
-      "Сазонов Дмитрий Валерьевич": 65,
-      "Тытяневич Виталий Анатольевич": 3,
-      "Филатова Ирина Анатольевна": 7,
-      "Эйсфельд Дарья Александровна": 23
+      "gas:candidate-vibid:25920001365395": 22,
+      "gas:candidate-vibid:25920001389683": 5,
+      "gas:candidate-vibid:25920001385258": 2,
+      "gas:candidate-vibid:25920001388492": 65,
+      "gas:candidate-vibid:25920001385699": 3,
+      "gas:candidate-vibid:25920001388547": 7,
+      "gas:candidate-vibid:25920001387655": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184823&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184823&type=464",
@@ -13837,13 +13837,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 8,
-      "Колоколова Ольга Аркадьевна": 3,
-      "Мурзаев Валентин Геннадьевич": 1,
-      "Сазонов Дмитрий Валерьевич": 68,
-      "Тытяневич Виталий Анатольевич": 4,
-      "Филатова Ирина Анатольевна": 7,
-      "Эйсфельд Дарья Александровна": 3
+      "gas:candidate-vibid:25920001365395": 8,
+      "gas:candidate-vibid:25920001389683": 3,
+      "gas:candidate-vibid:25920001385258": 1,
+      "gas:candidate-vibid:25920001388492": 68,
+      "gas:candidate-vibid:25920001385699": 4,
+      "gas:candidate-vibid:25920001388547": 7,
+      "gas:candidate-vibid:25920001387655": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184823&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184823&type=464",
@@ -13894,13 +13894,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 17,
-      "Колоколова Ольга Аркадьевна": 5,
-      "Мурзаев Валентин Геннадьевич": 5,
-      "Сазонов Дмитрий Валерьевич": 59,
-      "Тытяневич Виталий Анатольевич": 6,
-      "Филатова Ирина Анатольевна": 11,
-      "Эйсфельд Дарья Александровна": 8
+      "gas:candidate-vibid:25920001365395": 17,
+      "gas:candidate-vibid:25920001389683": 5,
+      "gas:candidate-vibid:25920001385258": 5,
+      "gas:candidate-vibid:25920001388492": 59,
+      "gas:candidate-vibid:25920001385699": 6,
+      "gas:candidate-vibid:25920001388547": 11,
+      "gas:candidate-vibid:25920001387655": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184823&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184823&type=464",
@@ -13951,13 +13951,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 71,
-      "Колоколова Ольга Аркадьевна": 28,
-      "Мурзаев Валентин Геннадьевич": 4,
-      "Сазонов Дмитрий Валерьевич": 129,
-      "Тытяневич Виталий Анатольевич": 19,
-      "Филатова Ирина Анатольевна": 34,
-      "Эйсфельд Дарья Александровна": 28
+      "gas:candidate-vibid:25920001365395": 71,
+      "gas:candidate-vibid:25920001389683": 28,
+      "gas:candidate-vibid:25920001385258": 4,
+      "gas:candidate-vibid:25920001388492": 129,
+      "gas:candidate-vibid:25920001385699": 19,
+      "gas:candidate-vibid:25920001388547": 34,
+      "gas:candidate-vibid:25920001387655": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184824&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184824&type=464",
@@ -14008,13 +14008,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 76,
-      "Колоколова Ольга Аркадьевна": 22,
-      "Мурзаев Валентин Геннадьевич": 7,
-      "Сазонов Дмитрий Валерьевич": 170,
-      "Тытяневич Виталий Анатольевич": 30,
-      "Филатова Ирина Анатольевна": 45,
-      "Эйсфельд Дарья Александровна": 27
+      "gas:candidate-vibid:25920001365395": 76,
+      "gas:candidate-vibid:25920001389683": 22,
+      "gas:candidate-vibid:25920001385258": 7,
+      "gas:candidate-vibid:25920001388492": 170,
+      "gas:candidate-vibid:25920001385699": 30,
+      "gas:candidate-vibid:25920001388547": 45,
+      "gas:candidate-vibid:25920001387655": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184824&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184824&type=464",
@@ -14065,13 +14065,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 62,
-      "Колоколова Ольга Аркадьевна": 10,
-      "Мурзаев Валентин Геннадьевич": 4,
-      "Сазонов Дмитрий Валерьевич": 183,
-      "Тытяневич Виталий Анатольевич": 14,
-      "Филатова Ирина Анатольевна": 54,
-      "Эйсфельд Дарья Александровна": 21
+      "gas:candidate-vibid:25920001365395": 62,
+      "gas:candidate-vibid:25920001389683": 10,
+      "gas:candidate-vibid:25920001385258": 4,
+      "gas:candidate-vibid:25920001388492": 183,
+      "gas:candidate-vibid:25920001385699": 14,
+      "gas:candidate-vibid:25920001388547": 54,
+      "gas:candidate-vibid:25920001387655": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184824&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184824&type=464",
@@ -14122,13 +14122,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 26,
-      "Колоколова Ольга Аркадьевна": 2,
-      "Мурзаев Валентин Геннадьевич": 0,
-      "Сазонов Дмитрий Валерьевич": 61,
-      "Тытяневич Виталий Анатольевич": 6,
-      "Филатова Ирина Анатольевна": 11,
-      "Эйсфельд Дарья Александровна": 14
+      "gas:candidate-vibid:25920001365395": 26,
+      "gas:candidate-vibid:25920001389683": 2,
+      "gas:candidate-vibid:25920001385258": 0,
+      "gas:candidate-vibid:25920001388492": 61,
+      "gas:candidate-vibid:25920001385699": 6,
+      "gas:candidate-vibid:25920001388547": 11,
+      "gas:candidate-vibid:25920001387655": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184824&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184824&type=464",
@@ -14179,13 +14179,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 135,
-      "Колоколова Ольга Аркадьевна": 12,
-      "Мурзаев Валентин Геннадьевич": 16,
-      "Сазонов Дмитрий Валерьевич": 162,
-      "Тытяневич Виталий Анатольевич": 40,
-      "Филатова Ирина Анатольевна": 60,
-      "Эйсфельд Дарья Александровна": 49
+      "gas:candidate-vibid:25920001365395": 135,
+      "gas:candidate-vibid:25920001389683": 12,
+      "gas:candidate-vibid:25920001385258": 16,
+      "gas:candidate-vibid:25920001388492": 162,
+      "gas:candidate-vibid:25920001385699": 40,
+      "gas:candidate-vibid:25920001388547": 60,
+      "gas:candidate-vibid:25920001387655": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184824&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184824&type=464",
@@ -14236,13 +14236,13 @@ export const duma_2016_uik_463_region_90_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Каменских Татьяна Викторовна": 45,
-      "Колоколова Ольга Аркадьевна": 8,
-      "Мурзаев Валентин Геннадьевич": 4,
-      "Сазонов Дмитрий Валерьевич": 88,
-      "Тытяневич Виталий Анатольевич": 8,
-      "Филатова Ирина Анатольевна": 25,
-      "Эйсфельд Дарья Александровна": 13
+      "gas:candidate-vibid:25920001365395": 45,
+      "gas:candidate-vibid:25920001389683": 8,
+      "gas:candidate-vibid:25920001385258": 4,
+      "gas:candidate-vibid:25920001388492": 88,
+      "gas:candidate-vibid:25920001385699": 8,
+      "gas:candidate-vibid:25920001388547": 25,
+      "gas:candidate-vibid:25920001387655": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000299&tvd=25920001184824&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184824&type=464",

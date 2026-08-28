@@ -8,10740 +8,28640 @@ export const duma_2021_uik_to_tik_region_90 = [
     "uikNumber": 101,
     "uikTvd": "4594001330281",
     "tikTvd": "25920002187767",
-    "tikName": "Александровская"
+    "tikName": "Александровская",
+    "uikName": "УИК №101",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 102,
     "uikTvd": "4594001330282",
     "tikTvd": "25920002187767",
-    "tikName": "Александровская"
+    "tikName": "Александровская",
+    "uikName": "УИК №102",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 103,
     "uikTvd": "4594001330283",
     "tikTvd": "25920002187767",
-    "tikName": "Александровская"
+    "tikName": "Александровская",
+    "uikName": "УИК №103",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 104,
     "uikTvd": "4594001330284",
     "tikTvd": "25920002187767",
-    "tikName": "Александровская"
+    "tikName": "Александровская",
+    "uikName": "УИК №104",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 105,
     "uikTvd": "4594001330285",
     "tikTvd": "25920002187767",
-    "tikName": "Александровская"
+    "tikName": "Александровская",
+    "uikName": "УИК №105",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 106,
     "uikTvd": "4594001330286",
     "tikTvd": "25920002187767",
-    "tikName": "Александровская"
+    "tikName": "Александровская",
+    "uikName": "УИК №106",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 107,
     "uikTvd": "4594001330287",
     "tikTvd": "25920002187767",
-    "tikName": "Александровская"
+    "tikName": "Александровская",
+    "uikName": "УИК №107",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 108,
     "uikTvd": "4594001330288",
     "tikTvd": "25920002187767",
-    "tikName": "Александровская"
+    "tikName": "Александровская",
+    "uikName": "УИК №108",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 109,
     "uikTvd": "4594001330289",
     "tikTvd": "25920002187767",
-    "tikName": "Александровская"
+    "tikName": "Александровская",
+    "uikName": "УИК №109",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 110,
     "uikTvd": "4594001330290",
     "tikTvd": "25920002187767",
-    "tikName": "Александровская"
+    "tikName": "Александровская",
+    "uikName": "УИК №110",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 111,
     "uikTvd": "4594001330291",
     "tikTvd": "25920002187767",
-    "tikName": "Александровская"
+    "tikName": "Александровская",
+    "uikName": "УИК №111",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 112,
     "uikTvd": "4594001330292",
     "tikTvd": "25920002187767",
-    "tikName": "Александровская"
+    "tikName": "Александровская",
+    "uikName": "УИК №112",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 113,
     "uikTvd": "4594001330293",
     "tikTvd": "25920002187767",
-    "tikName": "Александровская"
+    "tikName": "Александровская",
+    "uikName": "УИК №113",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 114,
     "uikTvd": "4594001330294",
     "tikTvd": "25920002187767",
-    "tikName": "Александровская"
+    "tikName": "Александровская",
+    "uikName": "УИК №114",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 115,
     "uikTvd": "4594001330295",
     "tikTvd": "25920002187767",
-    "tikName": "Александровская"
+    "tikName": "Александровская",
+    "uikName": "УИК №115",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 116,
     "uikTvd": "4594001330296",
     "tikTvd": "25920002187767",
-    "tikName": "Александровская"
+    "tikName": "Александровская",
+    "uikName": "УИК №116",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 117,
     "uikTvd": "4594001330297",
     "tikTvd": "25920002187767",
-    "tikName": "Александровская"
+    "tikName": "Александровская",
+    "uikName": "УИК №117",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 118,
     "uikTvd": "4594001330298",
     "tikTvd": "25920002187767",
-    "tikName": "Александровская"
+    "tikName": "Александровская",
+    "uikName": "УИК №118",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 119,
     "uikTvd": "4594001330299",
     "tikTvd": "25920002187767",
-    "tikName": "Александровская"
+    "tikName": "Александровская",
+    "uikName": "УИК №119",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 120,
     "uikTvd": "4594001330300",
     "tikTvd": "25920002187767",
-    "tikName": "Александровская"
+    "tikName": "Александровская",
+    "uikName": "УИК №120",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 121,
     "uikTvd": "4594001330301",
     "tikTvd": "25920002187767",
-    "tikName": "Александровская"
+    "tikName": "Александровская",
+    "uikName": "УИК №121",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 122,
     "uikTvd": "4594001330302",
     "tikTvd": "25920002187767",
-    "tikName": "Александровская"
+    "tikName": "Александровская",
+    "uikName": "УИК №122",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 201,
     "uikTvd": "4594002338295",
     "tikTvd": "25920002187741",
-    "tikName": "Бардымская"
+    "tikName": "Бардымская",
+    "uikName": "УИК №201",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 202,
     "uikTvd": "4594002338296",
     "tikTvd": "25920002187741",
-    "tikName": "Бардымская"
+    "tikName": "Бардымская",
+    "uikName": "УИК №202",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 203,
     "uikTvd": "4594002338297",
     "tikTvd": "25920002187741",
-    "tikName": "Бардымская"
+    "tikName": "Бардымская",
+    "uikName": "УИК №203",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 204,
     "uikTvd": "4594002338298",
     "tikTvd": "25920002187741",
-    "tikName": "Бардымская"
+    "tikName": "Бардымская",
+    "uikName": "УИК №204",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 205,
     "uikTvd": "4594002338299",
     "tikTvd": "25920002187741",
-    "tikName": "Бардымская"
+    "tikName": "Бардымская",
+    "uikName": "УИК №205",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 206,
     "uikTvd": "4594002338300",
     "tikTvd": "25920002187741",
-    "tikName": "Бардымская"
+    "tikName": "Бардымская",
+    "uikName": "УИК №206",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 207,
     "uikTvd": "4594002338301",
     "tikTvd": "25920002187741",
-    "tikName": "Бардымская"
+    "tikName": "Бардымская",
+    "uikName": "УИК №207",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 208,
     "uikTvd": "4594002338302",
     "tikTvd": "25920002187741",
-    "tikName": "Бардымская"
+    "tikName": "Бардымская",
+    "uikName": "УИК №208",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 209,
     "uikTvd": "4594002338303",
     "tikTvd": "25920002187741",
-    "tikName": "Бардымская"
+    "tikName": "Бардымская",
+    "uikName": "УИК №209",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 210,
     "uikTvd": "4594002338304",
     "tikTvd": "25920002187741",
-    "tikName": "Бардымская"
+    "tikName": "Бардымская",
+    "uikName": "УИК №210",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 211,
     "uikTvd": "4594002338305",
     "tikTvd": "25920002187741",
-    "tikName": "Бардымская"
+    "tikName": "Бардымская",
+    "uikName": "УИК №211",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 212,
     "uikTvd": "4594002338306",
     "tikTvd": "25920002187741",
-    "tikName": "Бардымская"
+    "tikName": "Бардымская",
+    "uikName": "УИК №212",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 213,
     "uikTvd": "4594002338307",
     "tikTvd": "25920002187741",
-    "tikName": "Бардымская"
+    "tikName": "Бардымская",
+    "uikName": "УИК №213",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 214,
     "uikTvd": "4594002338308",
     "tikTvd": "25920002187741",
-    "tikName": "Бардымская"
+    "tikName": "Бардымская",
+    "uikName": "УИК №214",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 216,
     "uikTvd": "4594002338309",
     "tikTvd": "25920002187741",
-    "tikName": "Бардымская"
+    "tikName": "Бардымская",
+    "uikName": "УИК №216",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 217,
     "uikTvd": "4594002338310",
     "tikTvd": "25920002187741",
-    "tikName": "Бардымская"
+    "tikName": "Бардымская",
+    "uikName": "УИК №217",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 218,
     "uikTvd": "4594002338311",
     "tikTvd": "25920002187741",
-    "tikName": "Бардымская"
+    "tikName": "Бардымская",
+    "uikName": "УИК №218",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 219,
     "uikTvd": "4594002338312",
     "tikTvd": "25920002187741",
-    "tikName": "Бардымская"
+    "tikName": "Бардымская",
+    "uikName": "УИК №219",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 220,
     "uikTvd": "4594002338313",
     "tikTvd": "25920002187741",
-    "tikName": "Бардымская"
+    "tikName": "Бардымская",
+    "uikName": "УИК №220",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 221,
     "uikTvd": "4594002338314",
     "tikTvd": "25920002187741",
-    "tikName": "Бардымская"
+    "tikName": "Бардымская",
+    "uikName": "УИК №221",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 222,
     "uikTvd": "4594002338315",
     "tikTvd": "25920002187741",
-    "tikName": "Бардымская"
+    "tikName": "Бардымская",
+    "uikName": "УИК №222",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 223,
     "uikTvd": "4594002338316",
     "tikTvd": "25920002187741",
-    "tikName": "Бардымская"
+    "tikName": "Бардымская",
+    "uikName": "УИК №223",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 224,
     "uikTvd": "4594002338317",
     "tikTvd": "25920002187741",
-    "tikName": "Бардымская"
+    "tikName": "Бардымская",
+    "uikName": "УИК №224",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 225,
     "uikTvd": "4594002338318",
     "tikTvd": "25920002187741",
-    "tikName": "Бардымская"
+    "tikName": "Бардымская",
+    "uikName": "УИК №225",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 226,
     "uikTvd": "4594002338319",
     "tikTvd": "25920002187741",
-    "tikName": "Бардымская"
+    "tikName": "Бардымская",
+    "uikName": "УИК №226",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 227,
     "uikTvd": "4594002338320",
     "tikTvd": "25920002187741",
-    "tikName": "Бардымская"
+    "tikName": "Бардымская",
+    "uikName": "УИК №227",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 228,
     "uikTvd": "4594002338321",
     "tikTvd": "25920002187741",
-    "tikName": "Бардымская"
+    "tikName": "Бардымская",
+    "uikName": "УИК №228",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 229,
     "uikTvd": "4594002338322",
     "tikTvd": "25920002187741",
-    "tikName": "Бардымская"
+    "tikName": "Бардымская",
+    "uikName": "УИК №229",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 230,
     "uikTvd": "4594002338323",
     "tikTvd": "25920002187741",
-    "tikName": "Бардымская"
+    "tikName": "Бардымская",
+    "uikName": "УИК №230",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 231,
     "uikTvd": "4594002338324",
     "tikTvd": "25920002187741",
-    "tikName": "Бардымская"
+    "tikName": "Бардымская",
+    "uikName": "УИК №231",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 232,
     "uikTvd": "4594002338325",
     "tikTvd": "25920002187741",
-    "tikName": "Бардымская"
+    "tikName": "Бардымская",
+    "uikName": "УИК №232",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 233,
     "uikTvd": "4594002338326",
     "tikTvd": "25920002187741",
-    "tikName": "Бардымская"
+    "tikName": "Бардымская",
+    "uikName": "УИК №233",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 234,
     "uikTvd": "4594002338327",
     "tikTvd": "25920002187741",
-    "tikName": "Бардымская"
+    "tikName": "Бардымская",
+    "uikName": "УИК №234",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 235,
     "uikTvd": "4594002338328",
     "tikTvd": "25920002187741",
-    "tikName": "Бардымская"
+    "tikName": "Бардымская",
+    "uikName": "УИК №235",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 236,
     "uikTvd": "4594002338329",
     "tikTvd": "25920002187741",
-    "tikName": "Бардымская"
+    "tikName": "Бардымская",
+    "uikName": "УИК №236",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 237,
     "uikTvd": "4594002338330",
     "tikTvd": "25920002187741",
-    "tikName": "Бардымская"
+    "tikName": "Бардымская",
+    "uikName": "УИК №237",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 238,
     "uikTvd": "4594002338331",
     "tikTvd": "25920002187741",
-    "tikName": "Бардымская"
+    "tikName": "Бардымская",
+    "uikName": "УИК №238",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 240,
     "uikTvd": "4594002338332",
     "tikTvd": "25920002187741",
-    "tikName": "Бардымская"
+    "tikName": "Бардымская",
+    "uikName": "УИК №240",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 241,
     "uikTvd": "4594002338333",
     "tikTvd": "25920002187741",
-    "tikName": "Бардымская"
+    "tikName": "Бардымская",
+    "uikName": "УИК №241",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 243,
     "uikTvd": "4594002338334",
     "tikTvd": "25920002187741",
-    "tikName": "Бардымская"
+    "tikName": "Бардымская",
+    "uikName": "УИК №243",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 244,
     "uikTvd": "4594002338335",
     "tikTvd": "25920002187741",
-    "tikName": "Бардымская"
+    "tikName": "Бардымская",
+    "uikName": "УИК №244",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 245,
     "uikTvd": "4594002338336",
     "tikTvd": "25920002187741",
-    "tikName": "Бардымская"
+    "tikName": "Бардымская",
+    "uikName": "УИК №245",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 246,
     "uikTvd": "4594002338337",
     "tikTvd": "25920002187741",
-    "tikName": "Бардымская"
+    "tikName": "Бардымская",
+    "uikName": "УИК №246",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 247,
     "uikTvd": "4594002338338",
     "tikTvd": "25920002187741",
-    "tikName": "Бардымская"
+    "tikName": "Бардымская",
+    "uikName": "УИК №247",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 301,
     "uikTvd": "4594003465906",
     "tikTvd": "25920002187797",
-    "tikName": "Березниковская"
+    "tikName": "Березниковская",
+    "uikName": "УИК №301",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 302,
     "uikTvd": "4594003465907",
     "tikTvd": "25920002187797",
-    "tikName": "Березниковская"
+    "tikName": "Березниковская",
+    "uikName": "УИК №302",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 303,
     "uikTvd": "4594003465908",
     "tikTvd": "25920002187797",
-    "tikName": "Березниковская"
+    "tikName": "Березниковская",
+    "uikName": "УИК №303",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 304,
     "uikTvd": "4594003465909",
     "tikTvd": "25920002187797",
-    "tikName": "Березниковская"
+    "tikName": "Березниковская",
+    "uikName": "УИК №304",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 305,
     "uikTvd": "4594003465910",
     "tikTvd": "25920002187797",
-    "tikName": "Березниковская"
+    "tikName": "Березниковская",
+    "uikName": "УИК №305",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 306,
     "uikTvd": "4594003465911",
     "tikTvd": "25920002187797",
-    "tikName": "Березниковская"
+    "tikName": "Березниковская",
+    "uikName": "УИК №306",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 307,
     "uikTvd": "4594003465912",
     "tikTvd": "25920002187797",
-    "tikName": "Березниковская"
+    "tikName": "Березниковская",
+    "uikName": "УИК №307",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 308,
     "uikTvd": "4594003465913",
     "tikTvd": "25920002187797",
-    "tikName": "Березниковская"
+    "tikName": "Березниковская",
+    "uikName": "УИК №308",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 309,
     "uikTvd": "4594003465914",
     "tikTvd": "25920002187797",
-    "tikName": "Березниковская"
+    "tikName": "Березниковская",
+    "uikName": "УИК №309",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 310,
     "uikTvd": "4594003465915",
     "tikTvd": "25920002187797",
-    "tikName": "Березниковская"
+    "tikName": "Березниковская",
+    "uikName": "УИК №310",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 311,
     "uikTvd": "4594003465916",
     "tikTvd": "25920002187797",
-    "tikName": "Березниковская"
+    "tikName": "Березниковская",
+    "uikName": "УИК №311",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 312,
     "uikTvd": "4594003465917",
     "tikTvd": "25920002187797",
-    "tikName": "Березниковская"
+    "tikName": "Березниковская",
+    "uikName": "УИК №312",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 313,
     "uikTvd": "4594003465918",
     "tikTvd": "25920002187797",
-    "tikName": "Березниковская"
+    "tikName": "Березниковская",
+    "uikName": "УИК №313",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 314,
     "uikTvd": "4594003465919",
     "tikTvd": "25920002187797",
-    "tikName": "Березниковская"
+    "tikName": "Березниковская",
+    "uikName": "УИК №314",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 315,
     "uikTvd": "4594003465920",
     "tikTvd": "25920002187797",
-    "tikName": "Березниковская"
+    "tikName": "Березниковская",
+    "uikName": "УИК №315",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 316,
     "uikTvd": "4594003465921",
     "tikTvd": "25920002187797",
-    "tikName": "Березниковская"
+    "tikName": "Березниковская",
+    "uikName": "УИК №316",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 317,
     "uikTvd": "4594003465922",
     "tikTvd": "25920002187797",
-    "tikName": "Березниковская"
+    "tikName": "Березниковская",
+    "uikName": "УИК №317",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 318,
     "uikTvd": "4594003465923",
     "tikTvd": "25920002187797",
-    "tikName": "Березниковская"
+    "tikName": "Березниковская",
+    "uikName": "УИК №318",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 319,
     "uikTvd": "4594003465924",
     "tikTvd": "25920002187797",
-    "tikName": "Березниковская"
+    "tikName": "Березниковская",
+    "uikName": "УИК №319",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 320,
     "uikTvd": "4594003465925",
     "tikTvd": "25920002187797",
-    "tikName": "Березниковская"
+    "tikName": "Березниковская",
+    "uikName": "УИК №320",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 321,
     "uikTvd": "4594003465926",
     "tikTvd": "25920002187797",
-    "tikName": "Березниковская"
+    "tikName": "Березниковская",
+    "uikName": "УИК №321",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 322,
     "uikTvd": "4594003465927",
     "tikTvd": "25920002187797",
-    "tikName": "Березниковская"
+    "tikName": "Березниковская",
+    "uikName": "УИК №322",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 323,
     "uikTvd": "4594003465928",
     "tikTvd": "25920002187797",
-    "tikName": "Березниковская"
+    "tikName": "Березниковская",
+    "uikName": "УИК №323",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 324,
     "uikTvd": "4594003465929",
     "tikTvd": "25920002187797",
-    "tikName": "Березниковская"
+    "tikName": "Березниковская",
+    "uikName": "УИК №324",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 325,
     "uikTvd": "4594003465930",
     "tikTvd": "25920002187797",
-    "tikName": "Березниковская"
+    "tikName": "Березниковская",
+    "uikName": "УИК №325",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 326,
     "uikTvd": "4594003465931",
     "tikTvd": "25920002187797",
-    "tikName": "Березниковская"
+    "tikName": "Березниковская",
+    "uikName": "УИК №326",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 327,
     "uikTvd": "4594003465932",
     "tikTvd": "25920002187797",
-    "tikName": "Березниковская"
+    "tikName": "Березниковская",
+    "uikName": "УИК №327",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 328,
     "uikTvd": "4594003465933",
     "tikTvd": "25920002187797",
-    "tikName": "Березниковская"
+    "tikName": "Березниковская",
+    "uikName": "УИК №328",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 329,
     "uikTvd": "4594003465934",
     "tikTvd": "25920002187797",
-    "tikName": "Березниковская"
+    "tikName": "Березниковская",
+    "uikName": "УИК №329",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 330,
     "uikTvd": "4594003465935",
     "tikTvd": "25920002187797",
-    "tikName": "Березниковская"
+    "tikName": "Березниковская",
+    "uikName": "УИК №330",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 331,
     "uikTvd": "4594003465936",
     "tikTvd": "25920002187797",
-    "tikName": "Березниковская"
+    "tikName": "Березниковская",
+    "uikName": "УИК №331",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 332,
     "uikTvd": "4594003465937",
     "tikTvd": "25920002187797",
-    "tikName": "Березниковская"
+    "tikName": "Березниковская",
+    "uikName": "УИК №332",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 333,
     "uikTvd": "4594003465938",
     "tikTvd": "25920002187797",
-    "tikName": "Березниковская"
+    "tikName": "Березниковская",
+    "uikName": "УИК №333",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 334,
     "uikTvd": "4594003465939",
     "tikTvd": "25920002187797",
-    "tikName": "Березниковская"
+    "tikName": "Березниковская",
+    "uikName": "УИК №334",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 335,
     "uikTvd": "4594003465940",
     "tikTvd": "25920002187797",
-    "tikName": "Березниковская"
+    "tikName": "Березниковская",
+    "uikName": "УИК №335",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 336,
     "uikTvd": "4594003465941",
     "tikTvd": "25920002187797",
-    "tikName": "Березниковская"
+    "tikName": "Березниковская",
+    "uikName": "УИК №336",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 337,
     "uikTvd": "4594003465942",
     "tikTvd": "25920002187797",
-    "tikName": "Березниковская"
+    "tikName": "Березниковская",
+    "uikName": "УИК №337",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 338,
     "uikTvd": "4594003465943",
     "tikTvd": "25920002187797",
-    "tikName": "Березниковская"
+    "tikName": "Березниковская",
+    "uikName": "УИК №338",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 339,
     "uikTvd": "4594003465944",
     "tikTvd": "25920002187797",
-    "tikName": "Березниковская"
+    "tikName": "Березниковская",
+    "uikName": "УИК №339",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 340,
     "uikTvd": "4594003465945",
     "tikTvd": "25920002187797",
-    "tikName": "Березниковская"
+    "tikName": "Березниковская",
+    "uikName": "УИК №340",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 341,
     "uikTvd": "4594003465946",
     "tikTvd": "25920002187797",
-    "tikName": "Березниковская"
+    "tikName": "Березниковская",
+    "uikName": "УИК №341",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 342,
     "uikTvd": "4594003465947",
     "tikTvd": "25920002187797",
-    "tikName": "Березниковская"
+    "tikName": "Березниковская",
+    "uikName": "УИК №342",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 343,
     "uikTvd": "4594003465948",
     "tikTvd": "25920002187797",
-    "tikName": "Березниковская"
+    "tikName": "Березниковская",
+    "uikName": "УИК №343",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 344,
     "uikTvd": "4594003465949",
     "tikTvd": "25920002187797",
-    "tikName": "Березниковская"
+    "tikName": "Березниковская",
+    "uikName": "УИК №344",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 345,
     "uikTvd": "4594003465950",
     "tikTvd": "25920002187797",
-    "tikName": "Березниковская"
+    "tikName": "Березниковская",
+    "uikName": "УИК №345",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 346,
     "uikTvd": "4594003465951",
     "tikTvd": "25920002187797",
-    "tikName": "Березниковская"
+    "tikName": "Березниковская",
+    "uikName": "УИК №346",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 347,
     "uikTvd": "4594003465952",
     "tikTvd": "25920002187797",
-    "tikName": "Березниковская"
+    "tikName": "Березниковская",
+    "uikName": "УИК №347",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 348,
     "uikTvd": "4594003465953",
     "tikTvd": "25920002187797",
-    "tikName": "Березниковская"
+    "tikName": "Березниковская",
+    "uikName": "УИК №348",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 349,
     "uikTvd": "4594003465954",
     "tikTvd": "25920002187797",
-    "tikName": "Березниковская"
+    "tikName": "Березниковская",
+    "uikName": "УИК №349",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 350,
     "uikTvd": "4594003465955",
     "tikTvd": "25920002187797",
-    "tikName": "Березниковская"
+    "tikName": "Березниковская",
+    "uikName": "УИК №350",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 351,
     "uikTvd": "4594003465956",
     "tikTvd": "25920002187797",
-    "tikName": "Березниковская"
+    "tikName": "Березниковская",
+    "uikName": "УИК №351",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 352,
     "uikTvd": "4594003465957",
     "tikTvd": "25920002187797",
-    "tikName": "Березниковская"
+    "tikName": "Березниковская",
+    "uikName": "УИК №352",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 353,
     "uikTvd": "4594003465958",
     "tikTvd": "25920002187797",
-    "tikName": "Березниковская"
+    "tikName": "Березниковская",
+    "uikName": "УИК №353",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 354,
     "uikTvd": "4594003476619",
     "tikTvd": "25920002187797",
-    "tikName": "Березниковская"
+    "tikName": "Березниковская",
+    "uikName": "УИК №354",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 355,
     "uikTvd": "4594003476620",
     "tikTvd": "25920002187797",
-    "tikName": "Березниковская"
+    "tikName": "Березниковская",
+    "uikName": "УИК №355",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 402,
     "uikTvd": "4594004217223",
     "tikTvd": "25920002187766",
-    "tikName": "Березовская"
+    "tikName": "Березовская",
+    "uikName": "УИК №402",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 404,
     "uikTvd": "4594004217224",
     "tikTvd": "25920002187766",
-    "tikName": "Березовская"
+    "tikName": "Березовская",
+    "uikName": "УИК №404",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 405,
     "uikTvd": "4594004217225",
     "tikTvd": "25920002187766",
-    "tikName": "Березовская"
+    "tikName": "Березовская",
+    "uikName": "УИК №405",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 406,
     "uikTvd": "4594004217226",
     "tikTvd": "25920002187766",
-    "tikName": "Березовская"
+    "tikName": "Березовская",
+    "uikName": "УИК №406",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 407,
     "uikTvd": "4594004217227",
     "tikTvd": "25920002187766",
-    "tikName": "Березовская"
+    "tikName": "Березовская",
+    "uikName": "УИК №407",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 408,
     "uikTvd": "4594004217228",
     "tikTvd": "25920002187766",
-    "tikName": "Березовская"
+    "tikName": "Березовская",
+    "uikName": "УИК №408",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 409,
     "uikTvd": "4594004217229",
     "tikTvd": "25920002187766",
-    "tikName": "Березовская"
+    "tikName": "Березовская",
+    "uikName": "УИК №409",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 410,
     "uikTvd": "4594004217230",
     "tikTvd": "25920002187766",
-    "tikName": "Березовская"
+    "tikName": "Березовская",
+    "uikName": "УИК №410",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 411,
     "uikTvd": "4594004217231",
     "tikTvd": "25920002187766",
-    "tikName": "Березовская"
+    "tikName": "Березовская",
+    "uikName": "УИК №411",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 412,
     "uikTvd": "4594004217232",
     "tikTvd": "25920002187766",
-    "tikName": "Березовская"
+    "tikName": "Березовская",
+    "uikName": "УИК №412",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 413,
     "uikTvd": "4594004217233",
     "tikTvd": "25920002187766",
-    "tikName": "Березовская"
+    "tikName": "Березовская",
+    "uikName": "УИК №413",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 414,
     "uikTvd": "4594004217234",
     "tikTvd": "25920002187766",
-    "tikName": "Березовская"
+    "tikName": "Березовская",
+    "uikName": "УИК №414",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 415,
     "uikTvd": "4594004217235",
     "tikTvd": "25920002187766",
-    "tikName": "Березовская"
+    "tikName": "Березовская",
+    "uikName": "УИК №415",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 416,
     "uikTvd": "4594004217236",
     "tikTvd": "25920002187766",
-    "tikName": "Березовская"
+    "tikName": "Березовская",
+    "uikName": "УИК №416",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 417,
     "uikTvd": "4594004217237",
     "tikTvd": "25920002187766",
-    "tikName": "Березовская"
+    "tikName": "Березовская",
+    "uikName": "УИК №417",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 418,
     "uikTvd": "4594004217238",
     "tikTvd": "25920002187766",
-    "tikName": "Березовская"
+    "tikName": "Березовская",
+    "uikName": "УИК №418",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 419,
     "uikTvd": "4594004217239",
     "tikTvd": "25920002187766",
-    "tikName": "Березовская"
+    "tikName": "Березовская",
+    "uikName": "УИК №419",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 420,
     "uikTvd": "4594004217240",
     "tikTvd": "25920002187766",
-    "tikName": "Березовская"
+    "tikName": "Березовская",
+    "uikName": "УИК №420",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 422,
     "uikTvd": "4594004217241",
     "tikTvd": "25920002187766",
-    "tikName": "Березовская"
+    "tikName": "Березовская",
+    "uikName": "УИК №422",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 423,
     "uikTvd": "4594004217242",
     "tikTvd": "25920002187766",
-    "tikName": "Березовская"
+    "tikName": "Березовская",
+    "uikName": "УИК №423",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 424,
     "uikTvd": "4594004217243",
     "tikTvd": "25920002187766",
-    "tikName": "Березовская"
+    "tikName": "Березовская",
+    "uikName": "УИК №424",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 425,
     "uikTvd": "4594004217244",
     "tikTvd": "25920002187766",
-    "tikName": "Березовская"
+    "tikName": "Березовская",
+    "uikName": "УИК №425",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 426,
     "uikTvd": "4594004217245",
     "tikTvd": "25920002187766",
-    "tikName": "Березовская"
+    "tikName": "Березовская",
+    "uikName": "УИК №426",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 427,
     "uikTvd": "4594004217246",
     "tikTvd": "25920002187766",
-    "tikName": "Березовская"
+    "tikName": "Березовская",
+    "uikName": "УИК №427",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 501,
     "uikTvd": "4594005234288",
     "tikTvd": "25920002187754",
-    "tikName": "Большесосновская"
+    "tikName": "Большесосновская",
+    "uikName": "УИК №501",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 502,
     "uikTvd": "4594005234289",
     "tikTvd": "25920002187754",
-    "tikName": "Большесосновская"
+    "tikName": "Большесосновская",
+    "uikName": "УИК №502",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 503,
     "uikTvd": "4594005234290",
     "tikTvd": "25920002187754",
-    "tikName": "Большесосновская"
+    "tikName": "Большесосновская",
+    "uikName": "УИК №503",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 504,
     "uikTvd": "4594005234291",
     "tikTvd": "25920002187754",
-    "tikName": "Большесосновская"
+    "tikName": "Большесосновская",
+    "uikName": "УИК №504",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 505,
     "uikTvd": "4594005234292",
     "tikTvd": "25920002187754",
-    "tikName": "Большесосновская"
+    "tikName": "Большесосновская",
+    "uikName": "УИК №505",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 506,
     "uikTvd": "4594005234293",
     "tikTvd": "25920002187754",
-    "tikName": "Большесосновская"
+    "tikName": "Большесосновская",
+    "uikName": "УИК №506",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 507,
     "uikTvd": "4594005234294",
     "tikTvd": "25920002187754",
-    "tikName": "Большесосновская"
+    "tikName": "Большесосновская",
+    "uikName": "УИК №507",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 508,
     "uikTvd": "4594005234295",
     "tikTvd": "25920002187754",
-    "tikName": "Большесосновская"
+    "tikName": "Большесосновская",
+    "uikName": "УИК №508",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 509,
     "uikTvd": "4594005234296",
     "tikTvd": "25920002187754",
-    "tikName": "Большесосновская"
+    "tikName": "Большесосновская",
+    "uikName": "УИК №509",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 510,
     "uikTvd": "4594005234297",
     "tikTvd": "25920002187754",
-    "tikName": "Большесосновская"
+    "tikName": "Большесосновская",
+    "uikName": "УИК №510",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 511,
     "uikTvd": "4594005234298",
     "tikTvd": "25920002187754",
-    "tikName": "Большесосновская"
+    "tikName": "Большесосновская",
+    "uikName": "УИК №511",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 512,
     "uikTvd": "4594005234299",
     "tikTvd": "25920002187754",
-    "tikName": "Большесосновская"
+    "tikName": "Большесосновская",
+    "uikName": "УИК №512",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 513,
     "uikTvd": "4594005234300",
     "tikTvd": "25920002187754",
-    "tikName": "Большесосновская"
+    "tikName": "Большесосновская",
+    "uikName": "УИК №513",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 514,
     "uikTvd": "4594005234301",
     "tikTvd": "25920002187754",
-    "tikName": "Большесосновская"
+    "tikName": "Большесосновская",
+    "uikName": "УИК №514",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 515,
     "uikTvd": "4594005234302",
     "tikTvd": "25920002187754",
-    "tikName": "Большесосновская"
+    "tikName": "Большесосновская",
+    "uikName": "УИК №515",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 516,
     "uikTvd": "4594005234303",
     "tikTvd": "25920002187754",
-    "tikName": "Большесосновская"
+    "tikName": "Большесосновская",
+    "uikName": "УИК №516",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 517,
     "uikTvd": "4594005234304",
     "tikTvd": "25920002187754",
-    "tikName": "Большесосновская"
+    "tikName": "Большесосновская",
+    "uikName": "УИК №517",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 518,
     "uikTvd": "4594005234305",
     "tikTvd": "25920002187754",
-    "tikName": "Большесосновская"
+    "tikName": "Большесосновская",
+    "uikName": "УИК №518",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 519,
     "uikTvd": "4594005234306",
     "tikTvd": "25920002187754",
-    "tikName": "Большесосновская"
+    "tikName": "Большесосновская",
+    "uikName": "УИК №519",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 520,
     "uikTvd": "4594005234307",
     "tikTvd": "25920002187754",
-    "tikName": "Большесосновская"
+    "tikName": "Большесосновская",
+    "uikName": "УИК №520",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 521,
     "uikTvd": "4594005234308",
     "tikTvd": "25920002187754",
-    "tikName": "Большесосновская"
+    "tikName": "Большесосновская",
+    "uikName": "УИК №521",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 601,
     "uikTvd": "4594006393285",
     "tikTvd": "25920002187796",
-    "tikName": "Верещагинская"
+    "tikName": "Верещагинская",
+    "uikName": "УИК №601",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 602,
     "uikTvd": "4594006393286",
     "tikTvd": "25920002187796",
-    "tikName": "Верещагинская"
+    "tikName": "Верещагинская",
+    "uikName": "УИК №602",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 603,
     "uikTvd": "4594006393287",
     "tikTvd": "25920002187796",
-    "tikName": "Верещагинская"
+    "tikName": "Верещагинская",
+    "uikName": "УИК №603",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 604,
     "uikTvd": "4594006393288",
     "tikTvd": "25920002187796",
-    "tikName": "Верещагинская"
+    "tikName": "Верещагинская",
+    "uikName": "УИК №604",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 605,
     "uikTvd": "4594006393289",
     "tikTvd": "25920002187796",
-    "tikName": "Верещагинская"
+    "tikName": "Верещагинская",
+    "uikName": "УИК №605",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 606,
     "uikTvd": "4594006393290",
     "tikTvd": "25920002187796",
-    "tikName": "Верещагинская"
+    "tikName": "Верещагинская",
+    "uikName": "УИК №606",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 607,
     "uikTvd": "4594006393291",
     "tikTvd": "25920002187796",
-    "tikName": "Верещагинская"
+    "tikName": "Верещагинская",
+    "uikName": "УИК №607",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 608,
     "uikTvd": "4594006393292",
     "tikTvd": "25920002187796",
-    "tikName": "Верещагинская"
+    "tikName": "Верещагинская",
+    "uikName": "УИК №608",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 609,
     "uikTvd": "4594006393293",
     "tikTvd": "25920002187796",
-    "tikName": "Верещагинская"
+    "tikName": "Верещагинская",
+    "uikName": "УИК №609",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 610,
     "uikTvd": "4594006393294",
     "tikTvd": "25920002187796",
-    "tikName": "Верещагинская"
+    "tikName": "Верещагинская",
+    "uikName": "УИК №610",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 611,
     "uikTvd": "4594006393295",
     "tikTvd": "25920002187796",
-    "tikName": "Верещагинская"
+    "tikName": "Верещагинская",
+    "uikName": "УИК №611",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 612,
     "uikTvd": "4594006393296",
     "tikTvd": "25920002187796",
-    "tikName": "Верещагинская"
+    "tikName": "Верещагинская",
+    "uikName": "УИК №612",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 613,
     "uikTvd": "4594006393297",
     "tikTvd": "25920002187796",
-    "tikName": "Верещагинская"
+    "tikName": "Верещагинская",
+    "uikName": "УИК №613",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 614,
     "uikTvd": "4594006393298",
     "tikTvd": "25920002187796",
-    "tikName": "Верещагинская"
+    "tikName": "Верещагинская",
+    "uikName": "УИК №614",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 615,
     "uikTvd": "4594006393299",
     "tikTvd": "25920002187796",
-    "tikName": "Верещагинская"
+    "tikName": "Верещагинская",
+    "uikName": "УИК №615",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 616,
     "uikTvd": "4594006393300",
     "tikTvd": "25920002187796",
-    "tikName": "Верещагинская"
+    "tikName": "Верещагинская",
+    "uikName": "УИК №616",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 617,
     "uikTvd": "4594006393301",
     "tikTvd": "25920002187796",
-    "tikName": "Верещагинская"
+    "tikName": "Верещагинская",
+    "uikName": "УИК №617",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 618,
     "uikTvd": "4594006393302",
     "tikTvd": "25920002187796",
-    "tikName": "Верещагинская"
+    "tikName": "Верещагинская",
+    "uikName": "УИК №618",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 619,
     "uikTvd": "4594006393303",
     "tikTvd": "25920002187796",
-    "tikName": "Верещагинская"
+    "tikName": "Верещагинская",
+    "uikName": "УИК №619",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 620,
     "uikTvd": "4594006393304",
     "tikTvd": "25920002187796",
-    "tikName": "Верещагинская"
+    "tikName": "Верещагинская",
+    "uikName": "УИК №620",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 621,
     "uikTvd": "4594006393305",
     "tikTvd": "25920002187796",
-    "tikName": "Верещагинская"
+    "tikName": "Верещагинская",
+    "uikName": "УИК №621",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 622,
     "uikTvd": "4594006393306",
     "tikTvd": "25920002187796",
-    "tikName": "Верещагинская"
+    "tikName": "Верещагинская",
+    "uikName": "УИК №622",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 623,
     "uikTvd": "4594006393307",
     "tikTvd": "25920002187796",
-    "tikName": "Верещагинская"
+    "tikName": "Верещагинская",
+    "uikName": "УИК №623",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 624,
     "uikTvd": "4594006393308",
     "tikTvd": "25920002187796",
-    "tikName": "Верещагинская"
+    "tikName": "Верещагинская",
+    "uikName": "УИК №624",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 625,
     "uikTvd": "4594006393309",
     "tikTvd": "25920002187796",
-    "tikName": "Верещагинская"
+    "tikName": "Верещагинская",
+    "uikName": "УИК №625",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 626,
     "uikTvd": "4594006393310",
     "tikTvd": "25920002187796",
-    "tikName": "Верещагинская"
+    "tikName": "Верещагинская",
+    "uikName": "УИК №626",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 627,
     "uikTvd": "4594006393311",
     "tikTvd": "25920002187796",
-    "tikName": "Верещагинская"
+    "tikName": "Верещагинская",
+    "uikName": "УИК №627",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 628,
     "uikTvd": "4594006393312",
     "tikTvd": "25920002187796",
-    "tikName": "Верещагинская"
+    "tikName": "Верещагинская",
+    "uikName": "УИК №628",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 629,
     "uikTvd": "4594006393313",
     "tikTvd": "25920002187796",
-    "tikName": "Верещагинская"
+    "tikName": "Верещагинская",
+    "uikName": "УИК №629",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 630,
     "uikTvd": "4594006393314",
     "tikTvd": "25920002187796",
-    "tikName": "Верещагинская"
+    "tikName": "Верещагинская",
+    "uikName": "УИК №630",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 631,
     "uikTvd": "4594006393315",
     "tikTvd": "25920002187796",
-    "tikName": "Верещагинская"
+    "tikName": "Верещагинская",
+    "uikName": "УИК №631",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 632,
     "uikTvd": "4594006393316",
     "tikTvd": "25920002187796",
-    "tikName": "Верещагинская"
+    "tikName": "Верещагинская",
+    "uikName": "УИК №632",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 633,
     "uikTvd": "4594006393317",
     "tikTvd": "25920002187796",
-    "tikName": "Верещагинская"
+    "tikName": "Верещагинская",
+    "uikName": "УИК №633",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 634,
     "uikTvd": "4594006393318",
     "tikTvd": "25920002187796",
-    "tikName": "Верещагинская"
+    "tikName": "Верещагинская",
+    "uikName": "УИК №634",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 635,
     "uikTvd": "4594006393319",
     "tikTvd": "25920002187796",
-    "tikName": "Верещагинская"
+    "tikName": "Верещагинская",
+    "uikName": "УИК №635",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 701,
     "uikTvd": "4594007304626",
     "tikTvd": "25920002187765",
-    "tikName": "Горнозаводская"
+    "tikName": "Горнозаводская",
+    "uikName": "УИК №701",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 702,
     "uikTvd": "4594007304627",
     "tikTvd": "25920002187765",
-    "tikName": "Горнозаводская"
+    "tikName": "Горнозаводская",
+    "uikName": "УИК №702",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 703,
     "uikTvd": "4594007304628",
     "tikTvd": "25920002187765",
-    "tikName": "Горнозаводская"
+    "tikName": "Горнозаводская",
+    "uikName": "УИК №703",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 704,
     "uikTvd": "4594007304629",
     "tikTvd": "25920002187765",
-    "tikName": "Горнозаводская"
+    "tikName": "Горнозаводская",
+    "uikName": "УИК №704",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 705,
     "uikTvd": "4594007304630",
     "tikTvd": "25920002187765",
-    "tikName": "Горнозаводская"
+    "tikName": "Горнозаводская",
+    "uikName": "УИК №705",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 706,
     "uikTvd": "4594007304631",
     "tikTvd": "25920002187765",
-    "tikName": "Горнозаводская"
+    "tikName": "Горнозаводская",
+    "uikName": "УИК №706",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 707,
     "uikTvd": "4594007304632",
     "tikTvd": "25920002187765",
-    "tikName": "Горнозаводская"
+    "tikName": "Горнозаводская",
+    "uikName": "УИК №707",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 708,
     "uikTvd": "4594007304633",
     "tikTvd": "25920002187765",
-    "tikName": "Горнозаводская"
+    "tikName": "Горнозаводская",
+    "uikName": "УИК №708",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 709,
     "uikTvd": "4594007304634",
     "tikTvd": "25920002187765",
-    "tikName": "Горнозаводская"
+    "tikName": "Горнозаводская",
+    "uikName": "УИК №709",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 710,
     "uikTvd": "4594007304635",
     "tikTvd": "25920002187765",
-    "tikName": "Горнозаводская"
+    "tikName": "Горнозаводская",
+    "uikName": "УИК №710",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 711,
     "uikTvd": "4594007304636",
     "tikTvd": "25920002187765",
-    "tikName": "Горнозаводская"
+    "tikName": "Горнозаводская",
+    "uikName": "УИК №711",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 712,
     "uikTvd": "4594007304637",
     "tikTvd": "25920002187765",
-    "tikName": "Горнозаводская"
+    "tikName": "Горнозаводская",
+    "uikName": "УИК №712",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 713,
     "uikTvd": "4594007304638",
     "tikTvd": "25920002187765",
-    "tikName": "Горнозаводская"
+    "tikName": "Горнозаводская",
+    "uikName": "УИК №713",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 714,
     "uikTvd": "4594007304639",
     "tikTvd": "25920002187765",
-    "tikName": "Горнозаводская"
+    "tikName": "Горнозаводская",
+    "uikName": "УИК №714",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 715,
     "uikTvd": "4594007304640",
     "tikTvd": "25920002187765",
-    "tikName": "Горнозаводская"
+    "tikName": "Горнозаводская",
+    "uikName": "УИК №715",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 716,
     "uikTvd": "4594007304641",
     "tikTvd": "25920002187765",
-    "tikName": "Горнозаводская"
+    "tikName": "Горнозаводская",
+    "uikName": "УИК №716",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 717,
     "uikTvd": "4594007304642",
     "tikTvd": "25920002187765",
-    "tikName": "Горнозаводская"
+    "tikName": "Горнозаводская",
+    "uikName": "УИК №717",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 718,
     "uikTvd": "4594007304643",
     "tikTvd": "25920002187765",
-    "tikName": "Горнозаводская"
+    "tikName": "Горнозаводская",
+    "uikName": "УИК №718",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 719,
     "uikTvd": "4594007304644",
     "tikTvd": "25920002187765",
-    "tikName": "Горнозаводская"
+    "tikName": "Горнозаводская",
+    "uikName": "УИК №719",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 720,
     "uikTvd": "4594007304645",
     "tikTvd": "25920002187765",
-    "tikName": "Горнозаводская"
+    "tikName": "Горнозаводская",
+    "uikName": "УИК №720",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 721,
     "uikTvd": "4594007304646",
     "tikTvd": "25920002187765",
-    "tikName": "Горнозаводская"
+    "tikName": "Горнозаводская",
+    "uikName": "УИК №721",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 722,
     "uikTvd": "4594007304647",
     "tikTvd": "25920002187765",
-    "tikName": "Горнозаводская"
+    "tikName": "Горнозаводская",
+    "uikName": "УИК №722",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 723,
     "uikTvd": "4594007304648",
     "tikTvd": "25920002187765",
-    "tikName": "Горнозаводская"
+    "tikName": "Горнозаводская",
+    "uikName": "УИК №723",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 801,
     "uikTvd": "4594008198826",
     "tikTvd": "25920002187764",
-    "tikName": "Гремячинская"
+    "tikName": "Гремячинская",
+    "uikName": "УИК №801",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 802,
     "uikTvd": "4594008198827",
     "tikTvd": "25920002187764",
-    "tikName": "Гремячинская"
+    "tikName": "Гремячинская",
+    "uikName": "УИК №802",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 803,
     "uikTvd": "4594008198828",
     "tikTvd": "25920002187764",
-    "tikName": "Гремячинская"
+    "tikName": "Гремячинская",
+    "uikName": "УИК №803",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 804,
     "uikTvd": "4594008198829",
     "tikTvd": "25920002187764",
-    "tikName": "Гремячинская"
+    "tikName": "Гремячинская",
+    "uikName": "УИК №804",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 805,
     "uikTvd": "4594008198830",
     "tikTvd": "25920002187764",
-    "tikName": "Гремячинская"
+    "tikName": "Гремячинская",
+    "uikName": "УИК №805",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 806,
     "uikTvd": "4594008198831",
     "tikTvd": "25920002187764",
-    "tikName": "Гремячинская"
+    "tikName": "Гремячинская",
+    "uikName": "УИК №806",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 807,
     "uikTvd": "4594008198832",
     "tikTvd": "25920002187764",
-    "tikName": "Гремячинская"
+    "tikName": "Гремячинская",
+    "uikName": "УИК №807",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 808,
     "uikTvd": "4594008198833",
     "tikTvd": "25920002187764",
-    "tikName": "Гремячинская"
+    "tikName": "Гремячинская",
+    "uikName": "УИК №808",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 809,
     "uikTvd": "4594008198834",
     "tikTvd": "25920002187764",
-    "tikName": "Гремячинская"
+    "tikName": "Гремячинская",
+    "uikName": "УИК №809",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 810,
     "uikTvd": "4594008198835",
     "tikTvd": "25920002187764",
-    "tikName": "Гремячинская"
+    "tikName": "Гремячинская",
+    "uikName": "УИК №810",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 811,
     "uikTvd": "4594008198836",
     "tikTvd": "25920002187764",
-    "tikName": "Гремячинская"
+    "tikName": "Гремячинская",
+    "uikName": "УИК №811",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 812,
     "uikTvd": "4594008198837",
     "tikTvd": "25920002187764",
-    "tikName": "Гремячинская"
+    "tikName": "Гремячинская",
+    "uikName": "УИК №812",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 813,
     "uikTvd": "4594008198838",
     "tikTvd": "25920002187764",
-    "tikName": "Гремячинская"
+    "tikName": "Гремячинская",
+    "uikName": "УИК №813",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 814,
     "uikTvd": "4594008198839",
     "tikTvd": "25920002187764",
-    "tikName": "Гремячинская"
+    "tikName": "Гремячинская",
+    "uikName": "УИК №814",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 815,
     "uikTvd": "4594008198840",
     "tikTvd": "25920002187764",
-    "tikName": "Гремячинская"
+    "tikName": "Гремячинская",
+    "uikName": "УИК №815",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 901,
     "uikTvd": "4594009360489",
     "tikTvd": "25920002187763",
-    "tikName": "Губахинская"
+    "tikName": "Губахинская",
+    "uikName": "УИК №901",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 902,
     "uikTvd": "4594009360490",
     "tikTvd": "25920002187763",
-    "tikName": "Губахинская"
+    "tikName": "Губахинская",
+    "uikName": "УИК №902",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 903,
     "uikTvd": "4594009360491",
     "tikTvd": "25920002187763",
-    "tikName": "Губахинская"
+    "tikName": "Губахинская",
+    "uikName": "УИК №903",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 904,
     "uikTvd": "4594009360492",
     "tikTvd": "25920002187763",
-    "tikName": "Губахинская"
+    "tikName": "Губахинская",
+    "uikName": "УИК №904",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 905,
     "uikTvd": "4594009360493",
     "tikTvd": "25920002187763",
-    "tikName": "Губахинская"
+    "tikName": "Губахинская",
+    "uikName": "УИК №905",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 906,
     "uikTvd": "4594009360494",
     "tikTvd": "25920002187763",
-    "tikName": "Губахинская"
+    "tikName": "Губахинская",
+    "uikName": "УИК №906",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 907,
     "uikTvd": "4594009360495",
     "tikTvd": "25920002187763",
-    "tikName": "Губахинская"
+    "tikName": "Губахинская",
+    "uikName": "УИК №907",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 908,
     "uikTvd": "4594009360496",
     "tikTvd": "25920002187763",
-    "tikName": "Губахинская"
+    "tikName": "Губахинская",
+    "uikName": "УИК №908",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 909,
     "uikTvd": "4594009360497",
     "tikTvd": "25920002187763",
-    "tikName": "Губахинская"
+    "tikName": "Губахинская",
+    "uikName": "УИК №909",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 910,
     "uikTvd": "4594009360498",
     "tikTvd": "25920002187763",
-    "tikName": "Губахинская"
+    "tikName": "Губахинская",
+    "uikName": "УИК №910",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 911,
     "uikTvd": "4594009360499",
     "tikTvd": "25920002187763",
-    "tikName": "Губахинская"
+    "tikName": "Губахинская",
+    "uikName": "УИК №911",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 912,
     "uikTvd": "4594009360500",
     "tikTvd": "25920002187763",
-    "tikName": "Губахинская"
+    "tikName": "Губахинская",
+    "uikName": "УИК №912",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 913,
     "uikTvd": "4594009360501",
     "tikTvd": "25920002187763",
-    "tikName": "Губахинская"
+    "tikName": "Губахинская",
+    "uikName": "УИК №913",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 914,
     "uikTvd": "4594009360502",
     "tikTvd": "25920002187763",
-    "tikName": "Губахинская"
+    "tikName": "Губахинская",
+    "uikName": "УИК №914",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 915,
     "uikTvd": "4594009360503",
     "tikTvd": "25920002187763",
-    "tikName": "Губахинская"
+    "tikName": "Губахинская",
+    "uikName": "УИК №915",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 916,
     "uikTvd": "4594009360504",
     "tikTvd": "25920002187763",
-    "tikName": "Губахинская"
+    "tikName": "Губахинская",
+    "uikName": "УИК №916",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 917,
     "uikTvd": "4594009360505",
     "tikTvd": "25920002187763",
-    "tikName": "Губахинская"
+    "tikName": "Губахинская",
+    "uikName": "УИК №917",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 918,
     "uikTvd": "4594009360506",
     "tikTvd": "25920002187763",
-    "tikName": "Губахинская"
+    "tikName": "Губахинская",
+    "uikName": "УИК №918",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 919,
     "uikTvd": "4594009360507",
     "tikTvd": "25920002187763",
-    "tikName": "Губахинская"
+    "tikName": "Губахинская",
+    "uikName": "УИК №919",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 920,
     "uikTvd": "4594009360508",
     "tikTvd": "25920002187763",
-    "tikName": "Губахинская"
+    "tikName": "Губахинская",
+    "uikName": "УИК №920",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 921,
     "uikTvd": "4594009360509",
     "tikTvd": "25920002187763",
-    "tikName": "Губахинская"
+    "tikName": "Губахинская",
+    "uikName": "УИК №921",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 922,
     "uikTvd": "4594009360510",
     "tikTvd": "25920002187763",
-    "tikName": "Губахинская"
+    "tikName": "Губахинская",
+    "uikName": "УИК №922",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 923,
     "uikTvd": "4594009360511",
     "tikTvd": "25920002187763",
-    "tikName": "Губахинская"
+    "tikName": "Губахинская",
+    "uikName": "УИК №923",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 924,
     "uikTvd": "4594009360512",
     "tikTvd": "25920002187763",
-    "tikName": "Губахинская"
+    "tikName": "Губахинская",
+    "uikName": "УИК №924",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 925,
     "uikTvd": "4594009360513",
     "tikTvd": "25920002187763",
-    "tikName": "Губахинская"
+    "tikName": "Губахинская",
+    "uikName": "УИК №925",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 926,
     "uikTvd": "4594009360514",
     "tikTvd": "25920002187763",
-    "tikName": "Губахинская"
+    "tikName": "Губахинская",
+    "uikName": "УИК №926",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 1001,
     "uikTvd": "4594010328838",
     "tikTvd": "25920002187762",
-    "tikName": "Добрянская"
+    "tikName": "Добрянская",
+    "uikName": "УИК №1001",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 1002,
     "uikTvd": "4594010328839",
     "tikTvd": "25920002187762",
-    "tikName": "Добрянская"
+    "tikName": "Добрянская",
+    "uikName": "УИК №1002",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 1003,
     "uikTvd": "4594010328840",
     "tikTvd": "25920002187762",
-    "tikName": "Добрянская"
+    "tikName": "Добрянская",
+    "uikName": "УИК №1003",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 1004,
     "uikTvd": "4594010328841",
     "tikTvd": "25920002187762",
-    "tikName": "Добрянская"
+    "tikName": "Добрянская",
+    "uikName": "УИК №1004",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 1005,
     "uikTvd": "4594010328842",
     "tikTvd": "25920002187762",
-    "tikName": "Добрянская"
+    "tikName": "Добрянская",
+    "uikName": "УИК №1005",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 1006,
     "uikTvd": "4594010328843",
     "tikTvd": "25920002187762",
-    "tikName": "Добрянская"
+    "tikName": "Добрянская",
+    "uikName": "УИК №1006",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 1007,
     "uikTvd": "4594010328844",
     "tikTvd": "25920002187762",
-    "tikName": "Добрянская"
+    "tikName": "Добрянская",
+    "uikName": "УИК №1007",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 1008,
     "uikTvd": "4594010328845",
     "tikTvd": "25920002187762",
-    "tikName": "Добрянская"
+    "tikName": "Добрянская",
+    "uikName": "УИК №1008",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 1009,
     "uikTvd": "4594010328846",
     "tikTvd": "25920002187762",
-    "tikName": "Добрянская"
+    "tikName": "Добрянская",
+    "uikName": "УИК №1009",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 1010,
     "uikTvd": "4594010328847",
     "tikTvd": "25920002187762",
-    "tikName": "Добрянская"
+    "tikName": "Добрянская",
+    "uikName": "УИК №1010",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 1011,
     "uikTvd": "4594010328848",
     "tikTvd": "25920002187762",
-    "tikName": "Добрянская"
+    "tikName": "Добрянская",
+    "uikName": "УИК №1011",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 1012,
     "uikTvd": "4594010328849",
     "tikTvd": "25920002187762",
-    "tikName": "Добрянская"
+    "tikName": "Добрянская",
+    "uikName": "УИК №1012",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 1013,
     "uikTvd": "4594010328850",
     "tikTvd": "25920002187762",
-    "tikName": "Добрянская"
+    "tikName": "Добрянская",
+    "uikName": "УИК №1013",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 1014,
     "uikTvd": "4594010328851",
     "tikTvd": "25920002187762",
-    "tikName": "Добрянская"
+    "tikName": "Добрянская",
+    "uikName": "УИК №1014",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 1015,
     "uikTvd": "4594010328852",
     "tikTvd": "25920002187762",
-    "tikName": "Добрянская"
+    "tikName": "Добрянская",
+    "uikName": "УИК №1015",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 1016,
     "uikTvd": "4594010328853",
     "tikTvd": "25920002187762",
-    "tikName": "Добрянская"
+    "tikName": "Добрянская",
+    "uikName": "УИК №1016",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 1017,
     "uikTvd": "4594010328854",
     "tikTvd": "25920002187762",
-    "tikName": "Добрянская"
+    "tikName": "Добрянская",
+    "uikName": "УИК №1017",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 1018,
     "uikTvd": "4594010328855",
     "tikTvd": "25920002187762",
-    "tikName": "Добрянская"
+    "tikName": "Добрянская",
+    "uikName": "УИК №1018",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 1019,
     "uikTvd": "4594010328856",
     "tikTvd": "25920002187762",
-    "tikName": "Добрянская"
+    "tikName": "Добрянская",
+    "uikName": "УИК №1019",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 1020,
     "uikTvd": "4594010328857",
     "tikTvd": "25920002187762",
-    "tikName": "Добрянская"
+    "tikName": "Добрянская",
+    "uikName": "УИК №1020",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 1021,
     "uikTvd": "4594010328858",
     "tikTvd": "25920002187762",
-    "tikName": "Добрянская"
+    "tikName": "Добрянская",
+    "uikName": "УИК №1021",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 1022,
     "uikTvd": "4594010328859",
     "tikTvd": "25920002187762",
-    "tikName": "Добрянская"
+    "tikName": "Добрянская",
+    "uikName": "УИК №1022",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 1023,
     "uikTvd": "4594010328860",
     "tikTvd": "25920002187762",
-    "tikName": "Добрянская"
+    "tikName": "Добрянская",
+    "uikName": "УИК №1023",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 1024,
     "uikTvd": "4594010328861",
     "tikTvd": "25920002187762",
-    "tikName": "Добрянская"
+    "tikName": "Добрянская",
+    "uikName": "УИК №1024",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 1025,
     "uikTvd": "4594010328862",
     "tikTvd": "25920002187762",
-    "tikName": "Добрянская"
+    "tikName": "Добрянская",
+    "uikName": "УИК №1025",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 1026,
     "uikTvd": "4594010328863",
     "tikTvd": "25920002187762",
-    "tikName": "Добрянская"
+    "tikName": "Добрянская",
+    "uikName": "УИК №1026",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 1027,
     "uikTvd": "4594010328864",
     "tikTvd": "25920002187762",
-    "tikName": "Добрянская"
+    "tikName": "Добрянская",
+    "uikName": "УИК №1027",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 1028,
     "uikTvd": "4594010328865",
     "tikTvd": "25920002187762",
-    "tikName": "Добрянская"
+    "tikName": "Добрянская",
+    "uikName": "УИК №1028",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 1029,
     "uikTvd": "4594010328866",
     "tikTvd": "25920002187762",
-    "tikName": "Добрянская"
+    "tikName": "Добрянская",
+    "uikName": "УИК №1029",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 1030,
     "uikTvd": "4594010328867",
     "tikTvd": "25920002187762",
-    "tikName": "Добрянская"
+    "tikName": "Добрянская",
+    "uikName": "УИК №1030",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 1031,
     "uikTvd": "4594010328868",
     "tikTvd": "25920002187762",
-    "tikName": "Добрянская"
+    "tikName": "Добрянская",
+    "uikName": "УИК №1031",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 1032,
     "uikTvd": "4594010328869",
     "tikTvd": "25920002187762",
-    "tikName": "Добрянская"
+    "tikName": "Добрянская",
+    "uikName": "УИК №1032",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 1033,
     "uikTvd": "4594010328870",
     "tikTvd": "25920002187762",
-    "tikName": "Добрянская"
+    "tikName": "Добрянская",
+    "uikName": "УИК №1033",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 1034,
     "uikTvd": "4594010328871",
     "tikTvd": "25920002187762",
-    "tikName": "Добрянская"
+    "tikName": "Добрянская",
+    "uikName": "УИК №1034",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 1035,
     "uikTvd": "4594010328872",
     "tikTvd": "25920002187762",
-    "tikName": "Добрянская"
+    "tikName": "Добрянская",
+    "uikName": "УИК №1035",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 1036,
     "uikTvd": "4594010328873",
     "tikTvd": "25920002187762",
-    "tikName": "Добрянская"
+    "tikName": "Добрянская",
+    "uikName": "УИК №1036",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 1037,
     "uikTvd": "4594010328874",
     "tikTvd": "25920002187762",
-    "tikName": "Добрянская"
+    "tikName": "Добрянская",
+    "uikName": "УИК №1037",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 1038,
     "uikTvd": "4594010328875",
     "tikTvd": "25920002187762",
-    "tikName": "Добрянская"
+    "tikName": "Добрянская",
+    "uikName": "УИК №1038",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 1039,
     "uikTvd": "4594010328876",
     "tikTvd": "25920002187762",
-    "tikName": "Добрянская"
+    "tikName": "Добрянская",
+    "uikName": "УИК №1039",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 1040,
     "uikTvd": "4594010328877",
     "tikTvd": "25920002187762",
-    "tikName": "Добрянская"
+    "tikName": "Добрянская",
+    "uikName": "УИК №1040",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 1041,
     "uikTvd": "4594010328878",
     "tikTvd": "25920002187762",
-    "tikName": "Добрянская"
+    "tikName": "Добрянская",
+    "uikName": "УИК №1041",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 1042,
     "uikTvd": "4594010328879",
     "tikTvd": "25920002187762",
-    "tikName": "Добрянская"
+    "tikName": "Добрянская",
+    "uikName": "УИК №1042",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 1043,
     "uikTvd": "4594010328880",
     "tikTvd": "25920002187762",
-    "tikName": "Добрянская"
+    "tikName": "Добрянская",
+    "uikName": "УИК №1043",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 1044,
     "uikTvd": "4594010334886",
     "tikTvd": "25920002187762",
-    "tikName": "Добрянская"
+    "tikName": "Добрянская",
+    "uikName": "УИК №1044",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 1101,
     "uikTvd": "9599011191985",
     "tikTvd": "25920002187753",
-    "tikName": "Еловская"
+    "tikName": "Еловская",
+    "uikName": "УИК №1101",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 1102,
     "uikTvd": "9599011191986",
     "tikTvd": "25920002187753",
-    "tikName": "Еловская"
+    "tikName": "Еловская",
+    "uikName": "УИК №1102",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 1103,
     "uikTvd": "9599011191987",
     "tikTvd": "25920002187753",
-    "tikName": "Еловская"
+    "tikName": "Еловская",
+    "uikName": "УИК №1103",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 1104,
     "uikTvd": "9599011191988",
     "tikTvd": "25920002187753",
-    "tikName": "Еловская"
+    "tikName": "Еловская",
+    "uikName": "УИК №1104",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 1105,
     "uikTvd": "9599011191989",
     "tikTvd": "25920002187753",
-    "tikName": "Еловская"
+    "tikName": "Еловская",
+    "uikName": "УИК №1105",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 1106,
     "uikTvd": "9599011191990",
     "tikTvd": "25920002187753",
-    "tikName": "Еловская"
+    "tikName": "Еловская",
+    "uikName": "УИК №1106",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 1107,
     "uikTvd": "9599011191991",
     "tikTvd": "25920002187753",
-    "tikName": "Еловская"
+    "tikName": "Еловская",
+    "uikName": "УИК №1107",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 1108,
     "uikTvd": "9599011191992",
     "tikTvd": "25920002187753",
-    "tikName": "Еловская"
+    "tikName": "Еловская",
+    "uikName": "УИК №1108",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 1109,
     "uikTvd": "9599011191993",
     "tikTvd": "25920002187753",
-    "tikName": "Еловская"
+    "tikName": "Еловская",
+    "uikName": "УИК №1109",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 1110,
     "uikTvd": "9599011191994",
     "tikTvd": "25920002187753",
-    "tikName": "Еловская"
+    "tikName": "Еловская",
+    "uikName": "УИК №1110",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 1111,
     "uikTvd": "9599011191995",
     "tikTvd": "25920002187753",
-    "tikName": "Еловская"
+    "tikName": "Еловская",
+    "uikName": "УИК №1111",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 1112,
     "uikTvd": "9599011191996",
     "tikTvd": "25920002187753",
-    "tikName": "Еловская"
+    "tikName": "Еловская",
+    "uikName": "УИК №1112",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 1113,
     "uikTvd": "9599011191997",
     "tikTvd": "25920002187753",
-    "tikName": "Еловская"
+    "tikName": "Еловская",
+    "uikName": "УИК №1113",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 1114,
     "uikTvd": "9599011191998",
     "tikTvd": "25920002187753",
-    "tikName": "Еловская"
+    "tikName": "Еловская",
+    "uikName": "УИК №1114",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 1116,
     "uikTvd": "9599011191999",
     "tikTvd": "25920002187753",
-    "tikName": "Еловская"
+    "tikName": "Еловская",
+    "uikName": "УИК №1116",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 1118,
     "uikTvd": "9599011192000",
     "tikTvd": "25920002187753",
-    "tikName": "Еловская"
+    "tikName": "Еловская",
+    "uikName": "УИК №1118",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 1201,
     "uikTvd": "4594012233836",
     "tikTvd": "25920002187795",
-    "tikName": "Ильинская"
+    "tikName": "Ильинская",
+    "uikName": "УИК №1201",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 1202,
     "uikTvd": "4594012233837",
     "tikTvd": "25920002187795",
-    "tikName": "Ильинская"
+    "tikName": "Ильинская",
+    "uikName": "УИК №1202",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 1203,
     "uikTvd": "4594012233838",
     "tikTvd": "25920002187795",
-    "tikName": "Ильинская"
+    "tikName": "Ильинская",
+    "uikName": "УИК №1203",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 1204,
     "uikTvd": "4594012233839",
     "tikTvd": "25920002187795",
-    "tikName": "Ильинская"
+    "tikName": "Ильинская",
+    "uikName": "УИК №1204",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 1205,
     "uikTvd": "4594012233840",
     "tikTvd": "25920002187795",
-    "tikName": "Ильинская"
+    "tikName": "Ильинская",
+    "uikName": "УИК №1205",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 1206,
     "uikTvd": "4594012233841",
     "tikTvd": "25920002187795",
-    "tikName": "Ильинская"
+    "tikName": "Ильинская",
+    "uikName": "УИК №1206",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 1207,
     "uikTvd": "4594012233842",
     "tikTvd": "25920002187795",
-    "tikName": "Ильинская"
+    "tikName": "Ильинская",
+    "uikName": "УИК №1207",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 1208,
     "uikTvd": "4594012233843",
     "tikTvd": "25920002187795",
-    "tikName": "Ильинская"
+    "tikName": "Ильинская",
+    "uikName": "УИК №1208",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 1209,
     "uikTvd": "4594012233844",
     "tikTvd": "25920002187795",
-    "tikName": "Ильинская"
+    "tikName": "Ильинская",
+    "uikName": "УИК №1209",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 1210,
     "uikTvd": "4594012233845",
     "tikTvd": "25920002187795",
-    "tikName": "Ильинская"
+    "tikName": "Ильинская",
+    "uikName": "УИК №1210",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 1211,
     "uikTvd": "4594012233846",
     "tikTvd": "25920002187795",
-    "tikName": "Ильинская"
+    "tikName": "Ильинская",
+    "uikName": "УИК №1211",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 1212,
     "uikTvd": "4594012233847",
     "tikTvd": "25920002187795",
-    "tikName": "Ильинская"
+    "tikName": "Ильинская",
+    "uikName": "УИК №1212",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 1213,
     "uikTvd": "4594012233848",
     "tikTvd": "25920002187795",
-    "tikName": "Ильинская"
+    "tikName": "Ильинская",
+    "uikName": "УИК №1213",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 1214,
     "uikTvd": "4594012233849",
     "tikTvd": "25920002187795",
-    "tikName": "Ильинская"
+    "tikName": "Ильинская",
+    "uikName": "УИК №1214",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 1215,
     "uikTvd": "4594012233850",
     "tikTvd": "25920002187795",
-    "tikName": "Ильинская"
+    "tikName": "Ильинская",
+    "uikName": "УИК №1215",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 1216,
     "uikTvd": "4594012233851",
     "tikTvd": "25920002187795",
-    "tikName": "Ильинская"
+    "tikName": "Ильинская",
+    "uikName": "УИК №1216",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 1217,
     "uikTvd": "4594012233852",
     "tikTvd": "25920002187795",
-    "tikName": "Ильинская"
+    "tikName": "Ильинская",
+    "uikName": "УИК №1217",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 1218,
     "uikTvd": "4594012233853",
     "tikTvd": "25920002187795",
-    "tikName": "Ильинская"
+    "tikName": "Ильинская",
+    "uikName": "УИК №1218",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 1219,
     "uikTvd": "4594012233854",
     "tikTvd": "25920002187795",
-    "tikName": "Ильинская"
+    "tikName": "Ильинская",
+    "uikName": "УИК №1219",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 1220,
     "uikTvd": "4594012233855",
     "tikTvd": "25920002187795",
-    "tikName": "Ильинская"
+    "tikName": "Ильинская",
+    "uikName": "УИК №1220",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 1221,
     "uikTvd": "4594012233856",
     "tikTvd": "25920002187795",
-    "tikName": "Ильинская"
+    "tikName": "Ильинская",
+    "uikName": "УИК №1221",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 1222,
     "uikTvd": "4594012233857",
     "tikTvd": "25920002187795",
-    "tikName": "Ильинская"
+    "tikName": "Ильинская",
+    "uikName": "УИК №1222",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 1223,
     "uikTvd": "4594012233858",
     "tikTvd": "25920002187795",
-    "tikName": "Ильинская"
+    "tikName": "Ильинская",
+    "uikName": "УИК №1223",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 1224,
     "uikTvd": "4594012233859",
     "tikTvd": "25920002187795",
-    "tikName": "Ильинская"
+    "tikName": "Ильинская",
+    "uikName": "УИК №1224",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 1225,
     "uikTvd": "4594012233860",
     "tikTvd": "25920002187795",
-    "tikName": "Ильинская"
+    "tikName": "Ильинская",
+    "uikName": "УИК №1225",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 1226,
     "uikTvd": "4594012233861",
     "tikTvd": "25920002187795",
-    "tikName": "Ильинская"
+    "tikName": "Ильинская",
+    "uikName": "УИК №1226",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 1227,
     "uikTvd": "4594012233862",
     "tikTvd": "25920002187795",
-    "tikName": "Ильинская"
+    "tikName": "Ильинская",
+    "uikName": "УИК №1227",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 1228,
     "uikTvd": "4594012233863",
     "tikTvd": "25920002187795",
-    "tikName": "Ильинская"
+    "tikName": "Ильинская",
+    "uikName": "УИК №1228",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 1301,
     "uikTvd": "4594013242016",
     "tikTvd": "25920002187794",
-    "tikName": "Карагайская"
+    "tikName": "Карагайская",
+    "uikName": "УИК №1301",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 1302,
     "uikTvd": "4594013242017",
     "tikTvd": "25920002187794",
-    "tikName": "Карагайская"
+    "tikName": "Карагайская",
+    "uikName": "УИК №1302",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 1303,
     "uikTvd": "4594013242018",
     "tikTvd": "25920002187794",
-    "tikName": "Карагайская"
+    "tikName": "Карагайская",
+    "uikName": "УИК №1303",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 1304,
     "uikTvd": "4594013242019",
     "tikTvd": "25920002187794",
-    "tikName": "Карагайская"
+    "tikName": "Карагайская",
+    "uikName": "УИК №1304",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 1305,
     "uikTvd": "4594013242020",
     "tikTvd": "25920002187794",
-    "tikName": "Карагайская"
+    "tikName": "Карагайская",
+    "uikName": "УИК №1305",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 1306,
     "uikTvd": "4594013242021",
     "tikTvd": "25920002187794",
-    "tikName": "Карагайская"
+    "tikName": "Карагайская",
+    "uikName": "УИК №1306",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 1307,
     "uikTvd": "4594013242022",
     "tikTvd": "25920002187794",
-    "tikName": "Карагайская"
+    "tikName": "Карагайская",
+    "uikName": "УИК №1307",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 1308,
     "uikTvd": "4594013242023",
     "tikTvd": "25920002187794",
-    "tikName": "Карагайская"
+    "tikName": "Карагайская",
+    "uikName": "УИК №1308",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 1309,
     "uikTvd": "4594013242024",
     "tikTvd": "25920002187794",
-    "tikName": "Карагайская"
+    "tikName": "Карагайская",
+    "uikName": "УИК №1309",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 1310,
     "uikTvd": "4594013242025",
     "tikTvd": "25920002187794",
-    "tikName": "Карагайская"
+    "tikName": "Карагайская",
+    "uikName": "УИК №1310",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 1311,
     "uikTvd": "4594013242026",
     "tikTvd": "25920002187794",
-    "tikName": "Карагайская"
+    "tikName": "Карагайская",
+    "uikName": "УИК №1311",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 1312,
     "uikTvd": "4594013242027",
     "tikTvd": "25920002187794",
-    "tikName": "Карагайская"
+    "tikName": "Карагайская",
+    "uikName": "УИК №1312",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 1313,
     "uikTvd": "4594013242028",
     "tikTvd": "25920002187794",
-    "tikName": "Карагайская"
+    "tikName": "Карагайская",
+    "uikName": "УИК №1313",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 1314,
     "uikTvd": "4594013242029",
     "tikTvd": "25920002187794",
-    "tikName": "Карагайская"
+    "tikName": "Карагайская",
+    "uikName": "УИК №1314",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 1315,
     "uikTvd": "4594013242030",
     "tikTvd": "25920002187794",
-    "tikName": "Карагайская"
+    "tikName": "Карагайская",
+    "uikName": "УИК №1315",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 1316,
     "uikTvd": "4594013242031",
     "tikTvd": "25920002187794",
-    "tikName": "Карагайская"
+    "tikName": "Карагайская",
+    "uikName": "УИК №1316",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 1317,
     "uikTvd": "4594013242032",
     "tikTvd": "25920002187794",
-    "tikName": "Карагайская"
+    "tikName": "Карагайская",
+    "uikName": "УИК №1317",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 1318,
     "uikTvd": "4594013242033",
     "tikTvd": "25920002187794",
-    "tikName": "Карагайская"
+    "tikName": "Карагайская",
+    "uikName": "УИК №1318",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 1319,
     "uikTvd": "4594013242034",
     "tikTvd": "25920002187794",
-    "tikName": "Карагайская"
+    "tikName": "Карагайская",
+    "uikName": "УИК №1319",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 1320,
     "uikTvd": "4594013242035",
     "tikTvd": "25920002187794",
-    "tikName": "Карагайская"
+    "tikName": "Карагайская",
+    "uikName": "УИК №1320",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 1321,
     "uikTvd": "4594013242036",
     "tikTvd": "25920002187794",
-    "tikName": "Карагайская"
+    "tikName": "Карагайская",
+    "uikName": "УИК №1321",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 1322,
     "uikTvd": "4594013242037",
     "tikTvd": "25920002187794",
-    "tikName": "Карагайская"
+    "tikName": "Карагайская",
+    "uikName": "УИК №1322",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 1323,
     "uikTvd": "4594013242038",
     "tikTvd": "25920002187794",
-    "tikName": "Карагайская"
+    "tikName": "Карагайская",
+    "uikName": "УИК №1323",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 1324,
     "uikTvd": "4594013242039",
     "tikTvd": "25920002187794",
-    "tikName": "Карагайская"
+    "tikName": "Карагайская",
+    "uikName": "УИК №1324",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 1325,
     "uikTvd": "4594013242040",
     "tikTvd": "25920002187794",
-    "tikName": "Карагайская"
+    "tikName": "Карагайская",
+    "uikName": "УИК №1325",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 1326,
     "uikTvd": "4594013242041",
     "tikTvd": "25920002187794",
-    "tikName": "Карагайская"
+    "tikName": "Карагайская",
+    "uikName": "УИК №1326",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 1401,
     "uikTvd": "4594014198892",
     "tikTvd": "25920002187761",
-    "tikName": "Кизеловская"
+    "tikName": "Кизеловская",
+    "uikName": "УИК №1401",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 1402,
     "uikTvd": "4594014198893",
     "tikTvd": "25920002187761",
-    "tikName": "Кизеловская"
+    "tikName": "Кизеловская",
+    "uikName": "УИК №1402",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 1403,
     "uikTvd": "4594014198894",
     "tikTvd": "25920002187761",
-    "tikName": "Кизеловская"
+    "tikName": "Кизеловская",
+    "uikName": "УИК №1403",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 1404,
     "uikTvd": "4594014198895",
     "tikTvd": "25920002187761",
-    "tikName": "Кизеловская"
+    "tikName": "Кизеловская",
+    "uikName": "УИК №1404",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 1405,
     "uikTvd": "4594014198896",
     "tikTvd": "25920002187761",
-    "tikName": "Кизеловская"
+    "tikName": "Кизеловская",
+    "uikName": "УИК №1405",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 1406,
     "uikTvd": "4594014198897",
     "tikTvd": "25920002187761",
-    "tikName": "Кизеловская"
+    "tikName": "Кизеловская",
+    "uikName": "УИК №1406",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 1407,
     "uikTvd": "4594014198898",
     "tikTvd": "25920002187761",
-    "tikName": "Кизеловская"
+    "tikName": "Кизеловская",
+    "uikName": "УИК №1407",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 1408,
     "uikTvd": "4594014198899",
     "tikTvd": "25920002187761",
-    "tikName": "Кизеловская"
+    "tikName": "Кизеловская",
+    "uikName": "УИК №1408",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 1409,
     "uikTvd": "4594014198900",
     "tikTvd": "25920002187761",
-    "tikName": "Кизеловская"
+    "tikName": "Кизеловская",
+    "uikName": "УИК №1409",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 1410,
     "uikTvd": "4594014198901",
     "tikTvd": "25920002187761",
-    "tikName": "Кизеловская"
+    "tikName": "Кизеловская",
+    "uikName": "УИК №1410",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 1411,
     "uikTvd": "4594014198902",
     "tikTvd": "25920002187761",
-    "tikName": "Кизеловская"
+    "tikName": "Кизеловская",
+    "uikName": "УИК №1411",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 1412,
     "uikTvd": "4594014198903",
     "tikTvd": "25920002187761",
-    "tikName": "Кизеловская"
+    "tikName": "Кизеловская",
+    "uikName": "УИК №1412",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 1413,
     "uikTvd": "4594014198904",
     "tikTvd": "25920002187761",
-    "tikName": "Кизеловская"
+    "tikName": "Кизеловская",
+    "uikName": "УИК №1413",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 1414,
     "uikTvd": "4594014198905",
     "tikTvd": "25920002187761",
-    "tikName": "Кизеловская"
+    "tikName": "Кизеловская",
+    "uikName": "УИК №1414",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 1415,
     "uikTvd": "4594014198906",
     "tikTvd": "25920002187761",
-    "tikName": "Кизеловская"
+    "tikName": "Кизеловская",
+    "uikName": "УИК №1415",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 1416,
     "uikTvd": "4594014198907",
     "tikTvd": "25920002187761",
-    "tikName": "Кизеловская"
+    "tikName": "Кизеловская",
+    "uikName": "УИК №1416",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 1417,
     "uikTvd": "4594014198908",
     "tikTvd": "25920002187761",
-    "tikName": "Кизеловская"
+    "tikName": "Кизеловская",
+    "uikName": "УИК №1417",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 1418,
     "uikTvd": "4594014198909",
     "tikTvd": "25920002187761",
-    "tikName": "Кизеловская"
+    "tikName": "Кизеловская",
+    "uikName": "УИК №1418",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 1419,
     "uikTvd": "4594014198910",
     "tikTvd": "25920002187761",
-    "tikName": "Кизеловская"
+    "tikName": "Кизеловская",
+    "uikName": "УИК №1419",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 1420,
     "uikTvd": "4594014201908",
     "tikTvd": "25920002187761",
-    "tikName": "Кизеловская"
+    "tikName": "Кизеловская",
+    "uikName": "УИК №1420",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 1501,
     "uikTvd": "4594015209407",
     "tikTvd": "25920002187779",
-    "tikName": "Кишертская"
+    "tikName": "Кишертская",
+    "uikName": "УИК №1501",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 1502,
     "uikTvd": "4594015209408",
     "tikTvd": "25920002187779",
-    "tikName": "Кишертская"
+    "tikName": "Кишертская",
+    "uikName": "УИК №1502",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 1503,
     "uikTvd": "4594015209409",
     "tikTvd": "25920002187779",
-    "tikName": "Кишертская"
+    "tikName": "Кишертская",
+    "uikName": "УИК №1503",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 1504,
     "uikTvd": "4594015209410",
     "tikTvd": "25920002187779",
-    "tikName": "Кишертская"
+    "tikName": "Кишертская",
+    "uikName": "УИК №1504",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 1505,
     "uikTvd": "4594015209411",
     "tikTvd": "25920002187779",
-    "tikName": "Кишертская"
+    "tikName": "Кишертская",
+    "uikName": "УИК №1505",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 1506,
     "uikTvd": "4594015209412",
     "tikTvd": "25920002187779",
-    "tikName": "Кишертская"
+    "tikName": "Кишертская",
+    "uikName": "УИК №1506",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 1507,
     "uikTvd": "4594015209413",
     "tikTvd": "25920002187779",
-    "tikName": "Кишертская"
+    "tikName": "Кишертская",
+    "uikName": "УИК №1507",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 1508,
     "uikTvd": "4594015209414",
     "tikTvd": "25920002187779",
-    "tikName": "Кишертская"
+    "tikName": "Кишертская",
+    "uikName": "УИК №1508",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 1509,
     "uikTvd": "4594015209415",
     "tikTvd": "25920002187779",
-    "tikName": "Кишертская"
+    "tikName": "Кишертская",
+    "uikName": "УИК №1509",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 1510,
     "uikTvd": "4594015209416",
     "tikTvd": "25920002187779",
-    "tikName": "Кишертская"
+    "tikName": "Кишертская",
+    "uikName": "УИК №1510",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 1511,
     "uikTvd": "4594015209417",
     "tikTvd": "25920002187779",
-    "tikName": "Кишертская"
+    "tikName": "Кишертская",
+    "uikName": "УИК №1511",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 1512,
     "uikTvd": "4594015209418",
     "tikTvd": "25920002187779",
-    "tikName": "Кишертская"
+    "tikName": "Кишертская",
+    "uikName": "УИК №1512",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 1513,
     "uikTvd": "4594015209419",
     "tikTvd": "25920002187779",
-    "tikName": "Кишертская"
+    "tikName": "Кишертская",
+    "uikName": "УИК №1513",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 1514,
     "uikTvd": "4594015209420",
     "tikTvd": "25920002187779",
-    "tikName": "Кишертская"
+    "tikName": "Кишертская",
+    "uikName": "УИК №1514",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 1515,
     "uikTvd": "4594015209421",
     "tikTvd": "25920002187779",
-    "tikName": "Кишертская"
+    "tikName": "Кишертская",
+    "uikName": "УИК №1515",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 1516,
     "uikTvd": "4594015209422",
     "tikTvd": "25920002187779",
-    "tikName": "Кишертская"
+    "tikName": "Кишертская",
+    "uikName": "УИК №1516",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 1517,
     "uikTvd": "4594015209423",
     "tikTvd": "25920002187779",
-    "tikName": "Кишертская"
+    "tikName": "Кишертская",
+    "uikName": "УИК №1517",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 1518,
     "uikTvd": "4594015209424",
     "tikTvd": "25920002187779",
-    "tikName": "Кишертская"
+    "tikName": "Кишертская",
+    "uikName": "УИК №1518",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 1519,
     "uikTvd": "4594015209425",
     "tikTvd": "25920002187779",
-    "tikName": "Кишертская"
+    "tikName": "Кишертская",
+    "uikName": "УИК №1519",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 1520,
     "uikTvd": "4594015209426",
     "tikTvd": "25920002187779",
-    "tikName": "Кишертская"
+    "tikName": "Кишертская",
+    "uikName": "УИК №1520",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 1521,
     "uikTvd": "4594015209427",
     "tikTvd": "25920002187779",
-    "tikName": "Кишертская"
+    "tikName": "Кишертская",
+    "uikName": "УИК №1521",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 1601,
     "uikTvd": "4594016332392",
     "tikTvd": "25920002187793",
-    "tikName": "Красновишерская"
+    "tikName": "Красновишерская",
+    "uikName": "УИК №1601",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 1602,
     "uikTvd": "4594016332393",
     "tikTvd": "25920002187793",
-    "tikName": "Красновишерская"
+    "tikName": "Красновишерская",
+    "uikName": "УИК №1602",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 1603,
     "uikTvd": "4594016332394",
     "tikTvd": "25920002187793",
-    "tikName": "Красновишерская"
+    "tikName": "Красновишерская",
+    "uikName": "УИК №1603",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 1604,
     "uikTvd": "4594016332395",
     "tikTvd": "25920002187793",
-    "tikName": "Красновишерская"
+    "tikName": "Красновишерская",
+    "uikName": "УИК №1604",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 1605,
     "uikTvd": "4594016332396",
     "tikTvd": "25920002187793",
-    "tikName": "Красновишерская"
+    "tikName": "Красновишерская",
+    "uikName": "УИК №1605",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 1606,
     "uikTvd": "4594016332397",
     "tikTvd": "25920002187793",
-    "tikName": "Красновишерская"
+    "tikName": "Красновишерская",
+    "uikName": "УИК №1606",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 1607,
     "uikTvd": "4594016332398",
     "tikTvd": "25920002187793",
-    "tikName": "Красновишерская"
+    "tikName": "Красновишерская",
+    "uikName": "УИК №1607",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 1608,
     "uikTvd": "4594016332399",
     "tikTvd": "25920002187793",
-    "tikName": "Красновишерская"
+    "tikName": "Красновишерская",
+    "uikName": "УИК №1608",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 1609,
     "uikTvd": "4594016332400",
     "tikTvd": "25920002187793",
-    "tikName": "Красновишерская"
+    "tikName": "Красновишерская",
+    "uikName": "УИК №1609",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 1610,
     "uikTvd": "4594016332401",
     "tikTvd": "25920002187793",
-    "tikName": "Красновишерская"
+    "tikName": "Красновишерская",
+    "uikName": "УИК №1610",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 1611,
     "uikTvd": "4594016332402",
     "tikTvd": "25920002187793",
-    "tikName": "Красновишерская"
+    "tikName": "Красновишерская",
+    "uikName": "УИК №1611",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 1612,
     "uikTvd": "4594016332403",
     "tikTvd": "25920002187793",
-    "tikName": "Красновишерская"
+    "tikName": "Красновишерская",
+    "uikName": "УИК №1612",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 1613,
     "uikTvd": "4594016332404",
     "tikTvd": "25920002187793",
-    "tikName": "Красновишерская"
+    "tikName": "Красновишерская",
+    "uikName": "УИК №1613",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 1614,
     "uikTvd": "4594016332405",
     "tikTvd": "25920002187793",
-    "tikName": "Красновишерская"
+    "tikName": "Красновишерская",
+    "uikName": "УИК №1614",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 1615,
     "uikTvd": "4594016332406",
     "tikTvd": "25920002187793",
-    "tikName": "Красновишерская"
+    "tikName": "Красновишерская",
+    "uikName": "УИК №1615",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 1616,
     "uikTvd": "4594016332407",
     "tikTvd": "25920002187793",
-    "tikName": "Красновишерская"
+    "tikName": "Красновишерская",
+    "uikName": "УИК №1616",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 1617,
     "uikTvd": "4594016332408",
     "tikTvd": "25920002187793",
-    "tikName": "Красновишерская"
+    "tikName": "Красновишерская",
+    "uikName": "УИК №1617",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 1618,
     "uikTvd": "4594016332409",
     "tikTvd": "25920002187793",
-    "tikName": "Красновишерская"
+    "tikName": "Красновишерская",
+    "uikName": "УИК №1618",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 1619,
     "uikTvd": "4594016332410",
     "tikTvd": "25920002187793",
-    "tikName": "Красновишерская"
+    "tikName": "Красновишерская",
+    "uikName": "УИК №1619",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 1621,
     "uikTvd": "4594016332411",
     "tikTvd": "25920002187793",
-    "tikName": "Красновишерская"
+    "tikName": "Красновишерская",
+    "uikName": "УИК №1621",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 1622,
     "uikTvd": "4594016332412",
     "tikTvd": "25920002187793",
-    "tikName": "Красновишерская"
+    "tikName": "Красновишерская",
+    "uikName": "УИК №1622",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 1624,
     "uikTvd": "4594016332413",
     "tikTvd": "25920002187793",
-    "tikName": "Красновишерская"
+    "tikName": "Красновишерская",
+    "uikName": "УИК №1624",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 1625,
     "uikTvd": "4594016332414",
     "tikTvd": "25920002187793",
-    "tikName": "Красновишерская"
+    "tikName": "Красновишерская",
+    "uikName": "УИК №1625",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 1626,
     "uikTvd": "4594016332415",
     "tikTvd": "25920002187793",
-    "tikName": "Красновишерская"
+    "tikName": "Красновишерская",
+    "uikName": "УИК №1626",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 1629,
     "uikTvd": "4594016332416",
     "tikTvd": "25920002187793",
-    "tikName": "Красновишерская"
+    "tikName": "Красновишерская",
+    "uikName": "УИК №1629",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 1632,
     "uikTvd": "4594016332417",
     "tikTvd": "25920002187793",
-    "tikName": "Красновишерская"
+    "tikName": "Красновишерская",
+    "uikName": "УИК №1632",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 1633,
     "uikTvd": "4594016332418",
     "tikTvd": "25920002187793",
-    "tikName": "Красновишерская"
+    "tikName": "Красновишерская",
+    "uikName": "УИК №1633",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 1635,
     "uikTvd": "4594016332419",
     "tikTvd": "25920002187793",
-    "tikName": "Красновишерская"
+    "tikName": "Красновишерская",
+    "uikName": "УИК №1635",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 1701,
     "uikTvd": "4594017300539",
     "tikTvd": "25920002187792",
-    "tikName": "Краснокамская"
+    "tikName": "Краснокамская",
+    "uikName": "УИК №1701",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 1702,
     "uikTvd": "4594017300540",
     "tikTvd": "25920002187792",
-    "tikName": "Краснокамская"
+    "tikName": "Краснокамская",
+    "uikName": "УИК №1702",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 1703,
     "uikTvd": "4594017300541",
     "tikTvd": "25920002187792",
-    "tikName": "Краснокамская"
+    "tikName": "Краснокамская",
+    "uikName": "УИК №1703",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 1704,
     "uikTvd": "4594017300542",
     "tikTvd": "25920002187792",
-    "tikName": "Краснокамская"
+    "tikName": "Краснокамская",
+    "uikName": "УИК №1704",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 1705,
     "uikTvd": "4594017300543",
     "tikTvd": "25920002187792",
-    "tikName": "Краснокамская"
+    "tikName": "Краснокамская",
+    "uikName": "УИК №1705",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 1706,
     "uikTvd": "4594017300544",
     "tikTvd": "25920002187792",
-    "tikName": "Краснокамская"
+    "tikName": "Краснокамская",
+    "uikName": "УИК №1706",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 1707,
     "uikTvd": "4594017300545",
     "tikTvd": "25920002187792",
-    "tikName": "Краснокамская"
+    "tikName": "Краснокамская",
+    "uikName": "УИК №1707",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 1708,
     "uikTvd": "4594017300546",
     "tikTvd": "25920002187792",
-    "tikName": "Краснокамская"
+    "tikName": "Краснокамская",
+    "uikName": "УИК №1708",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 1709,
     "uikTvd": "4594017300547",
     "tikTvd": "25920002187792",
-    "tikName": "Краснокамская"
+    "tikName": "Краснокамская",
+    "uikName": "УИК №1709",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 1710,
     "uikTvd": "4594017300548",
     "tikTvd": "25920002187792",
-    "tikName": "Краснокамская"
+    "tikName": "Краснокамская",
+    "uikName": "УИК №1710",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 1711,
     "uikTvd": "4594017300549",
     "tikTvd": "25920002187792",
-    "tikName": "Краснокамская"
+    "tikName": "Краснокамская",
+    "uikName": "УИК №1711",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 1712,
     "uikTvd": "4594017300550",
     "tikTvd": "25920002187792",
-    "tikName": "Краснокамская"
+    "tikName": "Краснокамская",
+    "uikName": "УИК №1712",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 1713,
     "uikTvd": "4594017300551",
     "tikTvd": "25920002187792",
-    "tikName": "Краснокамская"
+    "tikName": "Краснокамская",
+    "uikName": "УИК №1713",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 1714,
     "uikTvd": "4594017300552",
     "tikTvd": "25920002187792",
-    "tikName": "Краснокамская"
+    "tikName": "Краснокамская",
+    "uikName": "УИК №1714",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 1715,
     "uikTvd": "4594017300553",
     "tikTvd": "25920002187792",
-    "tikName": "Краснокамская"
+    "tikName": "Краснокамская",
+    "uikName": "УИК №1715",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 1716,
     "uikTvd": "4594017300554",
     "tikTvd": "25920002187792",
-    "tikName": "Краснокамская"
+    "tikName": "Краснокамская",
+    "uikName": "УИК №1716",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 1717,
     "uikTvd": "4594017300555",
     "tikTvd": "25920002187792",
-    "tikName": "Краснокамская"
+    "tikName": "Краснокамская",
+    "uikName": "УИК №1717",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 1718,
     "uikTvd": "4594017300556",
     "tikTvd": "25920002187792",
-    "tikName": "Краснокамская"
+    "tikName": "Краснокамская",
+    "uikName": "УИК №1718",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 1719,
     "uikTvd": "4594017300557",
     "tikTvd": "25920002187792",
-    "tikName": "Краснокамская"
+    "tikName": "Краснокамская",
+    "uikName": "УИК №1719",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 1720,
     "uikTvd": "4594017300558",
     "tikTvd": "25920002187792",
-    "tikName": "Краснокамская"
+    "tikName": "Краснокамская",
+    "uikName": "УИК №1720",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 1721,
     "uikTvd": "4594017300559",
     "tikTvd": "25920002187792",
-    "tikName": "Краснокамская"
+    "tikName": "Краснокамская",
+    "uikName": "УИК №1721",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 1722,
     "uikTvd": "4594017300560",
     "tikTvd": "25920002187792",
-    "tikName": "Краснокамская"
+    "tikName": "Краснокамская",
+    "uikName": "УИК №1722",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 1723,
     "uikTvd": "4594017300561",
     "tikTvd": "25920002187792",
-    "tikName": "Краснокамская"
+    "tikName": "Краснокамская",
+    "uikName": "УИК №1723",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 1724,
     "uikTvd": "4594017300562",
     "tikTvd": "25920002187792",
-    "tikName": "Краснокамская"
+    "tikName": "Краснокамская",
+    "uikName": "УИК №1724",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 1725,
     "uikTvd": "4594017300563",
     "tikTvd": "25920002187792",
-    "tikName": "Краснокамская"
+    "tikName": "Краснокамская",
+    "uikName": "УИК №1725",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 1726,
     "uikTvd": "4594017300564",
     "tikTvd": "25920002187792",
-    "tikName": "Краснокамская"
+    "tikName": "Краснокамская",
+    "uikName": "УИК №1726",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 1727,
     "uikTvd": "4594017300565",
     "tikTvd": "25920002187792",
-    "tikName": "Краснокамская"
+    "tikName": "Краснокамская",
+    "uikName": "УИК №1727",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 1728,
     "uikTvd": "4594017300566",
     "tikTvd": "25920002187792",
-    "tikName": "Краснокамская"
+    "tikName": "Краснокамская",
+    "uikName": "УИК №1728",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 1729,
     "uikTvd": "4594017300567",
     "tikTvd": "25920002187792",
-    "tikName": "Краснокамская"
+    "tikName": "Краснокамская",
+    "uikName": "УИК №1729",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 1730,
     "uikTvd": "4594017300568",
     "tikTvd": "25920002187792",
-    "tikName": "Краснокамская"
+    "tikName": "Краснокамская",
+    "uikName": "УИК №1730",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 1731,
     "uikTvd": "4594017300569",
     "tikTvd": "25920002187792",
-    "tikName": "Краснокамская"
+    "tikName": "Краснокамская",
+    "uikName": "УИК №1731",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 1732,
     "uikTvd": "4594017300570",
     "tikTvd": "25920002187792",
-    "tikName": "Краснокамская"
+    "tikName": "Краснокамская",
+    "uikName": "УИК №1732",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 1733,
     "uikTvd": "4594017300571",
     "tikTvd": "25920002187792",
-    "tikName": "Краснокамская"
+    "tikName": "Краснокамская",
+    "uikName": "УИК №1733",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 1734,
     "uikTvd": "4594017300572",
     "tikTvd": "25920002187792",
-    "tikName": "Краснокамская"
+    "tikName": "Краснокамская",
+    "uikName": "УИК №1734",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 1735,
     "uikTvd": "4594017300573",
     "tikTvd": "25920002187792",
-    "tikName": "Краснокамская"
+    "tikName": "Краснокамская",
+    "uikName": "УИК №1735",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 1736,
     "uikTvd": "4594017300574",
     "tikTvd": "25920002187792",
-    "tikName": "Краснокамская"
+    "tikName": "Краснокамская",
+    "uikName": "УИК №1736",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 1737,
     "uikTvd": "4594017300575",
     "tikTvd": "25920002187792",
-    "tikName": "Краснокамская"
+    "tikName": "Краснокамская",
+    "uikName": "УИК №1737",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 1738,
     "uikTvd": "4594017300576",
     "tikTvd": "25920002187792",
-    "tikName": "Краснокамская"
+    "tikName": "Краснокамская",
+    "uikName": "УИК №1738",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 1739,
     "uikTvd": "4594017300577",
     "tikTvd": "25920002187792",
-    "tikName": "Краснокамская"
+    "tikName": "Краснокамская",
+    "uikName": "УИК №1739",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 1740,
     "uikTvd": "4594017300578",
     "tikTvd": "25920002187792",
-    "tikName": "Краснокамская"
+    "tikName": "Краснокамская",
+    "uikName": "УИК №1740",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 1741,
     "uikTvd": "4594017300579",
     "tikTvd": "25920002187792",
-    "tikName": "Краснокамская"
+    "tikName": "Краснокамская",
+    "uikName": "УИК №1741",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 1801,
     "uikTvd": "4594018314702",
     "tikTvd": "25920002187752",
-    "tikName": "Куединская"
+    "tikName": "Куединская",
+    "uikName": "УИК №1801",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 1802,
     "uikTvd": "4594018314703",
     "tikTvd": "25920002187752",
-    "tikName": "Куединская"
+    "tikName": "Куединская",
+    "uikName": "УИК №1802",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 1803,
     "uikTvd": "4594018314704",
     "tikTvd": "25920002187752",
-    "tikName": "Куединская"
+    "tikName": "Куединская",
+    "uikName": "УИК №1803",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 1804,
     "uikTvd": "4594018314705",
     "tikTvd": "25920002187752",
-    "tikName": "Куединская"
+    "tikName": "Куединская",
+    "uikName": "УИК №1804",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 1805,
     "uikTvd": "4594018314706",
     "tikTvd": "25920002187752",
-    "tikName": "Куединская"
+    "tikName": "Куединская",
+    "uikName": "УИК №1805",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 1806,
     "uikTvd": "4594018314707",
     "tikTvd": "25920002187752",
-    "tikName": "Куединская"
+    "tikName": "Куединская",
+    "uikName": "УИК №1806",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 1807,
     "uikTvd": "4594018314708",
     "tikTvd": "25920002187752",
-    "tikName": "Куединская"
+    "tikName": "Куединская",
+    "uikName": "УИК №1807",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 1808,
     "uikTvd": "4594018314709",
     "tikTvd": "25920002187752",
-    "tikName": "Куединская"
+    "tikName": "Куединская",
+    "uikName": "УИК №1808",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 1809,
     "uikTvd": "4594018314710",
     "tikTvd": "25920002187752",
-    "tikName": "Куединская"
+    "tikName": "Куединская",
+    "uikName": "УИК №1809",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 1810,
     "uikTvd": "4594018314711",
     "tikTvd": "25920002187752",
-    "tikName": "Куединская"
+    "tikName": "Куединская",
+    "uikName": "УИК №1810",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 1811,
     "uikTvd": "4594018314712",
     "tikTvd": "25920002187752",
-    "tikName": "Куединская"
+    "tikName": "Куединская",
+    "uikName": "УИК №1811",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 1812,
     "uikTvd": "4594018314713",
     "tikTvd": "25920002187752",
-    "tikName": "Куединская"
+    "tikName": "Куединская",
+    "uikName": "УИК №1812",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 1813,
     "uikTvd": "4594018314714",
     "tikTvd": "25920002187752",
-    "tikName": "Куединская"
+    "tikName": "Куединская",
+    "uikName": "УИК №1813",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 1814,
     "uikTvd": "4594018314715",
     "tikTvd": "25920002187752",
-    "tikName": "Куединская"
+    "tikName": "Куединская",
+    "uikName": "УИК №1814",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 1815,
     "uikTvd": "4594018314716",
     "tikTvd": "25920002187752",
-    "tikName": "Куединская"
+    "tikName": "Куединская",
+    "uikName": "УИК №1815",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 1817,
     "uikTvd": "4594018314717",
     "tikTvd": "25920002187752",
-    "tikName": "Куединская"
+    "tikName": "Куединская",
+    "uikName": "УИК №1817",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 1819,
     "uikTvd": "4594018314718",
     "tikTvd": "25920002187752",
-    "tikName": "Куединская"
+    "tikName": "Куединская",
+    "uikName": "УИК №1819",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 1820,
     "uikTvd": "4594018314719",
     "tikTvd": "25920002187752",
-    "tikName": "Куединская"
+    "tikName": "Куединская",
+    "uikName": "УИК №1820",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 1821,
     "uikTvd": "4594018314720",
     "tikTvd": "25920002187752",
-    "tikName": "Куединская"
+    "tikName": "Куединская",
+    "uikName": "УИК №1821",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 1822,
     "uikTvd": "4594018314721",
     "tikTvd": "25920002187752",
-    "tikName": "Куединская"
+    "tikName": "Куединская",
+    "uikName": "УИК №1822",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 1823,
     "uikTvd": "4594018314722",
     "tikTvd": "25920002187752",
-    "tikName": "Куединская"
+    "tikName": "Куединская",
+    "uikName": "УИК №1823",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 1824,
     "uikTvd": "4594018314723",
     "tikTvd": "25920002187752",
-    "tikName": "Куединская"
+    "tikName": "Куединская",
+    "uikName": "УИК №1824",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 1825,
     "uikTvd": "4594018314724",
     "tikTvd": "25920002187752",
-    "tikName": "Куединская"
+    "tikName": "Куединская",
+    "uikName": "УИК №1825",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 1826,
     "uikTvd": "4594018314725",
     "tikTvd": "25920002187752",
-    "tikName": "Куединская"
+    "tikName": "Куединская",
+    "uikName": "УИК №1826",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 1827,
     "uikTvd": "4594018314726",
     "tikTvd": "25920002187752",
-    "tikName": "Куединская"
+    "tikName": "Куединская",
+    "uikName": "УИК №1827",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 1828,
     "uikTvd": "4594018314727",
     "tikTvd": "25920002187752",
-    "tikName": "Куединская"
+    "tikName": "Куединская",
+    "uikName": "УИК №1828",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 1829,
     "uikTvd": "4594018314728",
     "tikTvd": "25920002187752",
-    "tikName": "Куединская"
+    "tikName": "Куединская",
+    "uikName": "УИК №1829",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 1830,
     "uikTvd": "4594018314729",
     "tikTvd": "25920002187752",
-    "tikName": "Куединская"
+    "tikName": "Куединская",
+    "uikName": "УИК №1830",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 1831,
     "uikTvd": "4594018314730",
     "tikTvd": "25920002187752",
-    "tikName": "Куединская"
+    "tikName": "Куединская",
+    "uikName": "УИК №1831",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 1832,
     "uikTvd": "4594018314731",
     "tikTvd": "25920002187752",
-    "tikName": "Куединская"
+    "tikName": "Куединская",
+    "uikName": "УИК №1832",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 1833,
     "uikTvd": "4594018314732",
     "tikTvd": "25920002187752",
-    "tikName": "Куединская"
+    "tikName": "Куединская",
+    "uikName": "УИК №1833",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 1835,
     "uikTvd": "4594018314733",
     "tikTvd": "25920002187752",
-    "tikName": "Куединская"
+    "tikName": "Куединская",
+    "uikName": "УИК №1835",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 1901,
     "uikTvd": "4594019279803",
     "tikTvd": "25920002187778",
-    "tikName": "Кунгурская № 2"
+    "tikName": "Кунгурская № 2",
+    "uikName": "УИК №1901",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 1902,
     "uikTvd": "4594019279804",
     "tikTvd": "25920002187778",
-    "tikName": "Кунгурская № 2"
+    "tikName": "Кунгурская № 2",
+    "uikName": "УИК №1902",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 1903,
     "uikTvd": "4594019279805",
     "tikTvd": "25920002187778",
-    "tikName": "Кунгурская № 2"
+    "tikName": "Кунгурская № 2",
+    "uikName": "УИК №1903",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 1904,
     "uikTvd": "4594019279806",
     "tikTvd": "25920002187778",
-    "tikName": "Кунгурская № 2"
+    "tikName": "Кунгурская № 2",
+    "uikName": "УИК №1904",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 1905,
     "uikTvd": "4594019279807",
     "tikTvd": "25920002187778",
-    "tikName": "Кунгурская № 2"
+    "tikName": "Кунгурская № 2",
+    "uikName": "УИК №1905",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 1906,
     "uikTvd": "4594019279808",
     "tikTvd": "25920002187778",
-    "tikName": "Кунгурская № 2"
+    "tikName": "Кунгурская № 2",
+    "uikName": "УИК №1906",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 1907,
     "uikTvd": "4594019279809",
     "tikTvd": "25920002187778",
-    "tikName": "Кунгурская № 2"
+    "tikName": "Кунгурская № 2",
+    "uikName": "УИК №1907",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 1908,
     "uikTvd": "4594019279810",
     "tikTvd": "25920002187778",
-    "tikName": "Кунгурская № 2"
+    "tikName": "Кунгурская № 2",
+    "uikName": "УИК №1908",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 1909,
     "uikTvd": "4594019279811",
     "tikTvd": "25920002187778",
-    "tikName": "Кунгурская № 2"
+    "tikName": "Кунгурская № 2",
+    "uikName": "УИК №1909",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 1910,
     "uikTvd": "4594019279812",
     "tikTvd": "25920002187778",
-    "tikName": "Кунгурская № 2"
+    "tikName": "Кунгурская № 2",
+    "uikName": "УИК №1910",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 1911,
     "uikTvd": "4594019279813",
     "tikTvd": "25920002187778",
-    "tikName": "Кунгурская № 2"
+    "tikName": "Кунгурская № 2",
+    "uikName": "УИК №1911",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 1912,
     "uikTvd": "4594019279814",
     "tikTvd": "25920002187778",
-    "tikName": "Кунгурская № 2"
+    "tikName": "Кунгурская № 2",
+    "uikName": "УИК №1912",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 1913,
     "uikTvd": "4594019279815",
     "tikTvd": "25920002187778",
-    "tikName": "Кунгурская № 2"
+    "tikName": "Кунгурская № 2",
+    "uikName": "УИК №1913",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 1914,
     "uikTvd": "4594019279816",
     "tikTvd": "25920002187778",
-    "tikName": "Кунгурская № 2"
+    "tikName": "Кунгурская № 2",
+    "uikName": "УИК №1914",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 1915,
     "uikTvd": "4594019279817",
     "tikTvd": "25920002187778",
-    "tikName": "Кунгурская № 2"
+    "tikName": "Кунгурская № 2",
+    "uikName": "УИК №1915",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 1916,
     "uikTvd": "4594019279818",
     "tikTvd": "25920002187778",
-    "tikName": "Кунгурская № 2"
+    "tikName": "Кунгурская № 2",
+    "uikName": "УИК №1916",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 1917,
     "uikTvd": "4594019279819",
     "tikTvd": "25920002187778",
-    "tikName": "Кунгурская № 2"
+    "tikName": "Кунгурская № 2",
+    "uikName": "УИК №1917",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 1918,
     "uikTvd": "4594019279820",
     "tikTvd": "25920002187778",
-    "tikName": "Кунгурская № 2"
+    "tikName": "Кунгурская № 2",
+    "uikName": "УИК №1918",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 1919,
     "uikTvd": "4594019279821",
     "tikTvd": "25920002187778",
-    "tikName": "Кунгурская № 2"
+    "tikName": "Кунгурская № 2",
+    "uikName": "УИК №1919",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 1920,
     "uikTvd": "4594019279822",
     "tikTvd": "25920002187778",
-    "tikName": "Кунгурская № 2"
+    "tikName": "Кунгурская № 2",
+    "uikName": "УИК №1920",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 1921,
     "uikTvd": "4594019279823",
     "tikTvd": "25920002187778",
-    "tikName": "Кунгурская № 2"
+    "tikName": "Кунгурская № 2",
+    "uikName": "УИК №1921",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 1922,
     "uikTvd": "4594019279824",
     "tikTvd": "25920002187778",
-    "tikName": "Кунгурская № 2"
+    "tikName": "Кунгурская № 2",
+    "uikName": "УИК №1922",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 1923,
     "uikTvd": "4594019279825",
     "tikTvd": "25920002187778",
-    "tikName": "Кунгурская № 2"
+    "tikName": "Кунгурская № 2",
+    "uikName": "УИК №1923",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 1924,
     "uikTvd": "4594019279826",
     "tikTvd": "25920002187778",
-    "tikName": "Кунгурская № 2"
+    "tikName": "Кунгурская № 2",
+    "uikName": "УИК №1924",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 1925,
     "uikTvd": "4594019279827",
     "tikTvd": "25920002187778",
-    "tikName": "Кунгурская № 2"
+    "tikName": "Кунгурская № 2",
+    "uikName": "УИК №1925",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 1926,
     "uikTvd": "4594019279828",
     "tikTvd": "25920002187778",
-    "tikName": "Кунгурская № 2"
+    "tikName": "Кунгурская № 2",
+    "uikName": "УИК №1926",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 1927,
     "uikTvd": "4594019279829",
     "tikTvd": "25920002187778",
-    "tikName": "Кунгурская № 2"
+    "tikName": "Кунгурская № 2",
+    "uikName": "УИК №1927",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 1928,
     "uikTvd": "4594019279830",
     "tikTvd": "25920002187778",
-    "tikName": "Кунгурская № 2"
+    "tikName": "Кунгурская № 2",
+    "uikName": "УИК №1928",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 1929,
     "uikTvd": "4594019279831",
     "tikTvd": "25920002187778",
-    "tikName": "Кунгурская № 2"
+    "tikName": "Кунгурская № 2",
+    "uikName": "УИК №1929",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 1930,
     "uikTvd": "4594019279832",
     "tikTvd": "25920002187778",
-    "tikName": "Кунгурская № 2"
+    "tikName": "Кунгурская № 2",
+    "uikName": "УИК №1930",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 1931,
     "uikTvd": "4594019279833",
     "tikTvd": "25920002187778",
-    "tikName": "Кунгурская № 2"
+    "tikName": "Кунгурская № 2",
+    "uikName": "УИК №1931",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 1932,
     "uikTvd": "4594019279834",
     "tikTvd": "25920002187778",
-    "tikName": "Кунгурская № 2"
+    "tikName": "Кунгурская № 2",
+    "uikName": "УИК №1932",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 1933,
     "uikTvd": "4594019279835",
     "tikTvd": "25920002187778",
-    "tikName": "Кунгурская № 2"
+    "tikName": "Кунгурская № 2",
+    "uikName": "УИК №1933",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 1934,
     "uikTvd": "4594019279836",
     "tikTvd": "25920002187778",
-    "tikName": "Кунгурская № 2"
+    "tikName": "Кунгурская № 2",
+    "uikName": "УИК №1934",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 2001,
     "uikTvd": "4594020259501",
     "tikTvd": "25920002187760",
-    "tikName": "Лысьвенская"
+    "tikName": "Лысьвенская",
+    "uikName": "УИК №2001",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 2002,
     "uikTvd": "4594020259502",
     "tikTvd": "25920002187760",
-    "tikName": "Лысьвенская"
+    "tikName": "Лысьвенская",
+    "uikName": "УИК №2002",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 2003,
     "uikTvd": "4594020259503",
     "tikTvd": "25920002187760",
-    "tikName": "Лысьвенская"
+    "tikName": "Лысьвенская",
+    "uikName": "УИК №2003",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 2004,
     "uikTvd": "4594020259504",
     "tikTvd": "25920002187760",
-    "tikName": "Лысьвенская"
+    "tikName": "Лысьвенская",
+    "uikName": "УИК №2004",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 2005,
     "uikTvd": "4594020259505",
     "tikTvd": "25920002187760",
-    "tikName": "Лысьвенская"
+    "tikName": "Лысьвенская",
+    "uikName": "УИК №2005",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 2006,
     "uikTvd": "4594020259506",
     "tikTvd": "25920002187760",
-    "tikName": "Лысьвенская"
+    "tikName": "Лысьвенская",
+    "uikName": "УИК №2006",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 2007,
     "uikTvd": "4594020259507",
     "tikTvd": "25920002187760",
-    "tikName": "Лысьвенская"
+    "tikName": "Лысьвенская",
+    "uikName": "УИК №2007",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 2008,
     "uikTvd": "4594020259508",
     "tikTvd": "25920002187760",
-    "tikName": "Лысьвенская"
+    "tikName": "Лысьвенская",
+    "uikName": "УИК №2008",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 2009,
     "uikTvd": "4594020259509",
     "tikTvd": "25920002187760",
-    "tikName": "Лысьвенская"
+    "tikName": "Лысьвенская",
+    "uikName": "УИК №2009",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 2010,
     "uikTvd": "4594020259510",
     "tikTvd": "25920002187760",
-    "tikName": "Лысьвенская"
+    "tikName": "Лысьвенская",
+    "uikName": "УИК №2010",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 2011,
     "uikTvd": "4594020259511",
     "tikTvd": "25920002187760",
-    "tikName": "Лысьвенская"
+    "tikName": "Лысьвенская",
+    "uikName": "УИК №2011",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 2012,
     "uikTvd": "4594020259512",
     "tikTvd": "25920002187760",
-    "tikName": "Лысьвенская"
+    "tikName": "Лысьвенская",
+    "uikName": "УИК №2012",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 2013,
     "uikTvd": "4594020259513",
     "tikTvd": "25920002187760",
-    "tikName": "Лысьвенская"
+    "tikName": "Лысьвенская",
+    "uikName": "УИК №2013",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 2014,
     "uikTvd": "4594020259514",
     "tikTvd": "25920002187760",
-    "tikName": "Лысьвенская"
+    "tikName": "Лысьвенская",
+    "uikName": "УИК №2014",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 2015,
     "uikTvd": "4594020259515",
     "tikTvd": "25920002187760",
-    "tikName": "Лысьвенская"
+    "tikName": "Лысьвенская",
+    "uikName": "УИК №2015",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 2016,
     "uikTvd": "4594020259516",
     "tikTvd": "25920002187760",
-    "tikName": "Лысьвенская"
+    "tikName": "Лысьвенская",
+    "uikName": "УИК №2016",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 2017,
     "uikTvd": "4594020259517",
     "tikTvd": "25920002187760",
-    "tikName": "Лысьвенская"
+    "tikName": "Лысьвенская",
+    "uikName": "УИК №2017",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 2018,
     "uikTvd": "4594020259518",
     "tikTvd": "25920002187760",
-    "tikName": "Лысьвенская"
+    "tikName": "Лысьвенская",
+    "uikName": "УИК №2018",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 2019,
     "uikTvd": "4594020259519",
     "tikTvd": "25920002187760",
-    "tikName": "Лысьвенская"
+    "tikName": "Лысьвенская",
+    "uikName": "УИК №2019",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 2020,
     "uikTvd": "4594020259520",
     "tikTvd": "25920002187760",
-    "tikName": "Лысьвенская"
+    "tikName": "Лысьвенская",
+    "uikName": "УИК №2020",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 2021,
     "uikTvd": "4594020259521",
     "tikTvd": "25920002187760",
-    "tikName": "Лысьвенская"
+    "tikName": "Лысьвенская",
+    "uikName": "УИК №2021",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 2022,
     "uikTvd": "4594020259522",
     "tikTvd": "25920002187760",
-    "tikName": "Лысьвенская"
+    "tikName": "Лысьвенская",
+    "uikName": "УИК №2022",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 2023,
     "uikTvd": "4594020259523",
     "tikTvd": "25920002187760",
-    "tikName": "Лысьвенская"
+    "tikName": "Лысьвенская",
+    "uikName": "УИК №2023",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 2024,
     "uikTvd": "4594020259524",
     "tikTvd": "25920002187760",
-    "tikName": "Лысьвенская"
+    "tikName": "Лысьвенская",
+    "uikName": "УИК №2024",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 2025,
     "uikTvd": "4594020259525",
     "tikTvd": "25920002187760",
-    "tikName": "Лысьвенская"
+    "tikName": "Лысьвенская",
+    "uikName": "УИК №2025",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 2026,
     "uikTvd": "4594020259526",
     "tikTvd": "25920002187760",
-    "tikName": "Лысьвенская"
+    "tikName": "Лысьвенская",
+    "uikName": "УИК №2026",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 2027,
     "uikTvd": "4594020259527",
     "tikTvd": "25920002187760",
-    "tikName": "Лысьвенская"
+    "tikName": "Лысьвенская",
+    "uikName": "УИК №2027",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 2028,
     "uikTvd": "4594020259528",
     "tikTvd": "25920002187760",
-    "tikName": "Лысьвенская"
+    "tikName": "Лысьвенская",
+    "uikName": "УИК №2028",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 2029,
     "uikTvd": "4594020259529",
     "tikTvd": "25920002187760",
-    "tikName": "Лысьвенская"
+    "tikName": "Лысьвенская",
+    "uikName": "УИК №2029",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 2030,
     "uikTvd": "4594020259530",
     "tikTvd": "25920002187760",
-    "tikName": "Лысьвенская"
+    "tikName": "Лысьвенская",
+    "uikName": "УИК №2030",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 2031,
     "uikTvd": "4594020259531",
     "tikTvd": "25920002187760",
-    "tikName": "Лысьвенская"
+    "tikName": "Лысьвенская",
+    "uikName": "УИК №2031",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 2032,
     "uikTvd": "4594020259532",
     "tikTvd": "25920002187760",
-    "tikName": "Лысьвенская"
+    "tikName": "Лысьвенская",
+    "uikName": "УИК №2032",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 2033,
     "uikTvd": "4594020259533",
     "tikTvd": "25920002187760",
-    "tikName": "Лысьвенская"
+    "tikName": "Лысьвенская",
+    "uikName": "УИК №2033",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 2034,
     "uikTvd": "4594020259534",
     "tikTvd": "25920002187760",
-    "tikName": "Лысьвенская"
+    "tikName": "Лысьвенская",
+    "uikName": "УИК №2034",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 2035,
     "uikTvd": "4594020259535",
     "tikTvd": "25920002187760",
-    "tikName": "Лысьвенская"
+    "tikName": "Лысьвенская",
+    "uikName": "УИК №2035",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 2036,
     "uikTvd": "4594020259536",
     "tikTvd": "25920002187760",
-    "tikName": "Лысьвенская"
+    "tikName": "Лысьвенская",
+    "uikName": "УИК №2036",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 2037,
     "uikTvd": "4594020259537",
     "tikTvd": "25920002187760",
-    "tikName": "Лысьвенская"
+    "tikName": "Лысьвенская",
+    "uikName": "УИК №2037",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 2038,
     "uikTvd": "4594020259538",
     "tikTvd": "25920002187760",
-    "tikName": "Лысьвенская"
+    "tikName": "Лысьвенская",
+    "uikName": "УИК №2038",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 2039,
     "uikTvd": "4594020259539",
     "tikTvd": "25920002187760",
-    "tikName": "Лысьвенская"
+    "tikName": "Лысьвенская",
+    "uikName": "УИК №2039",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 2040,
     "uikTvd": "4594020259540",
     "tikTvd": "25920002187760",
-    "tikName": "Лысьвенская"
+    "tikName": "Лысьвенская",
+    "uikName": "УИК №2040",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 2041,
     "uikTvd": "4594020259541",
     "tikTvd": "25920002187760",
-    "tikName": "Лысьвенская"
+    "tikName": "Лысьвенская",
+    "uikName": "УИК №2041",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 2042,
     "uikTvd": "4594020259542",
     "tikTvd": "25920002187760",
-    "tikName": "Лысьвенская"
+    "tikName": "Лысьвенская",
+    "uikName": "УИК №2042",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 2043,
     "uikTvd": "4594020259543",
     "tikTvd": "25920002187760",
-    "tikName": "Лысьвенская"
+    "tikName": "Лысьвенская",
+    "uikName": "УИК №2043",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 2044,
     "uikTvd": "4594020259544",
     "tikTvd": "25920002187760",
-    "tikName": "Лысьвенская"
+    "tikName": "Лысьвенская",
+    "uikName": "УИК №2044",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 2045,
     "uikTvd": "4594020259545",
     "tikTvd": "25920002187760",
-    "tikName": "Лысьвенская"
+    "tikName": "Лысьвенская",
+    "uikName": "УИК №2045",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 2046,
     "uikTvd": "4594020259546",
     "tikTvd": "25920002187760",
-    "tikName": "Лысьвенская"
+    "tikName": "Лысьвенская",
+    "uikName": "УИК №2046",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 2047,
     "uikTvd": "4594020259547",
     "tikTvd": "25920002187760",
-    "tikName": "Лысьвенская"
+    "tikName": "Лысьвенская",
+    "uikName": "УИК №2047",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 2048,
     "uikTvd": "4594020259548",
     "tikTvd": "25920002187760",
-    "tikName": "Лысьвенская"
+    "tikName": "Лысьвенская",
+    "uikName": "УИК №2048",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 2049,
     "uikTvd": "4594020259549",
     "tikTvd": "25920002187760",
-    "tikName": "Лысьвенская"
+    "tikName": "Лысьвенская",
+    "uikName": "УИК №2049",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 2050,
     "uikTvd": "4594020259550",
     "tikTvd": "25920002187760",
-    "tikName": "Лысьвенская"
+    "tikName": "Лысьвенская",
+    "uikName": "УИК №2050",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 2051,
     "uikTvd": "4594020259551",
     "tikTvd": "25920002187760",
-    "tikName": "Лысьвенская"
+    "tikName": "Лысьвенская",
+    "uikName": "УИК №2051",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 2052,
     "uikTvd": "4594020259552",
     "tikTvd": "25920002187760",
-    "tikName": "Лысьвенская"
+    "tikName": "Лысьвенская",
+    "uikName": "УИК №2052",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 2053,
     "uikTvd": "4594020259553",
     "tikTvd": "25920002187760",
-    "tikName": "Лысьвенская"
+    "tikName": "Лысьвенская",
+    "uikName": "УИК №2053",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 2101,
     "uikTvd": "4594021283248",
     "tikTvd": "25920002187791",
-    "tikName": "Нытвенская"
+    "tikName": "Нытвенская",
+    "uikName": "УИК №2101",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 2102,
     "uikTvd": "4594021283249",
     "tikTvd": "25920002187791",
-    "tikName": "Нытвенская"
+    "tikName": "Нытвенская",
+    "uikName": "УИК №2102",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 2103,
     "uikTvd": "4594021283250",
     "tikTvd": "25920002187791",
-    "tikName": "Нытвенская"
+    "tikName": "Нытвенская",
+    "uikName": "УИК №2103",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 2104,
     "uikTvd": "4594021283251",
     "tikTvd": "25920002187791",
-    "tikName": "Нытвенская"
+    "tikName": "Нытвенская",
+    "uikName": "УИК №2104",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 2105,
     "uikTvd": "4594021283252",
     "tikTvd": "25920002187791",
-    "tikName": "Нытвенская"
+    "tikName": "Нытвенская",
+    "uikName": "УИК №2105",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 2106,
     "uikTvd": "4594021283253",
     "tikTvd": "25920002187791",
-    "tikName": "Нытвенская"
+    "tikName": "Нытвенская",
+    "uikName": "УИК №2106",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 2108,
     "uikTvd": "4594021283254",
     "tikTvd": "25920002187791",
-    "tikName": "Нытвенская"
+    "tikName": "Нытвенская",
+    "uikName": "УИК №2108",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 2110,
     "uikTvd": "4594021283255",
     "tikTvd": "25920002187791",
-    "tikName": "Нытвенская"
+    "tikName": "Нытвенская",
+    "uikName": "УИК №2110",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 2111,
     "uikTvd": "4594021283256",
     "tikTvd": "25920002187791",
-    "tikName": "Нытвенская"
+    "tikName": "Нытвенская",
+    "uikName": "УИК №2111",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 2112,
     "uikTvd": "4594021283257",
     "tikTvd": "25920002187791",
-    "tikName": "Нытвенская"
+    "tikName": "Нытвенская",
+    "uikName": "УИК №2112",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 2113,
     "uikTvd": "4594021283258",
     "tikTvd": "25920002187791",
-    "tikName": "Нытвенская"
+    "tikName": "Нытвенская",
+    "uikName": "УИК №2113",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 2114,
     "uikTvd": "4594021283259",
     "tikTvd": "25920002187791",
-    "tikName": "Нытвенская"
+    "tikName": "Нытвенская",
+    "uikName": "УИК №2114",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 2115,
     "uikTvd": "4594021283260",
     "tikTvd": "25920002187791",
-    "tikName": "Нытвенская"
+    "tikName": "Нытвенская",
+    "uikName": "УИК №2115",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 2116,
     "uikTvd": "4594021283261",
     "tikTvd": "25920002187791",
-    "tikName": "Нытвенская"
+    "tikName": "Нытвенская",
+    "uikName": "УИК №2116",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 2117,
     "uikTvd": "4594021283262",
     "tikTvd": "25920002187791",
-    "tikName": "Нытвенская"
+    "tikName": "Нытвенская",
+    "uikName": "УИК №2117",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 2118,
     "uikTvd": "4594021283263",
     "tikTvd": "25920002187791",
-    "tikName": "Нытвенская"
+    "tikName": "Нытвенская",
+    "uikName": "УИК №2118",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 2119,
     "uikTvd": "4594021283264",
     "tikTvd": "25920002187791",
-    "tikName": "Нытвенская"
+    "tikName": "Нытвенская",
+    "uikName": "УИК №2119",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 2120,
     "uikTvd": "4594021283265",
     "tikTvd": "25920002187791",
-    "tikName": "Нытвенская"
+    "tikName": "Нытвенская",
+    "uikName": "УИК №2120",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 2121,
     "uikTvd": "4594021283266",
     "tikTvd": "25920002187791",
-    "tikName": "Нытвенская"
+    "tikName": "Нытвенская",
+    "uikName": "УИК №2121",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 2122,
     "uikTvd": "4594021283267",
     "tikTvd": "25920002187791",
-    "tikName": "Нытвенская"
+    "tikName": "Нытвенская",
+    "uikName": "УИК №2122",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 2123,
     "uikTvd": "4594021283268",
     "tikTvd": "25920002187791",
-    "tikName": "Нытвенская"
+    "tikName": "Нытвенская",
+    "uikName": "УИК №2123",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 2124,
     "uikTvd": "4594021283269",
     "tikTvd": "25920002187791",
-    "tikName": "Нытвенская"
+    "tikName": "Нытвенская",
+    "uikName": "УИК №2124",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 2126,
     "uikTvd": "4594021283270",
     "tikTvd": "25920002187791",
-    "tikName": "Нытвенская"
+    "tikName": "Нытвенская",
+    "uikName": "УИК №2126",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 2127,
     "uikTvd": "4594021283271",
     "tikTvd": "25920002187791",
-    "tikName": "Нытвенская"
+    "tikName": "Нытвенская",
+    "uikName": "УИК №2127",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 2128,
     "uikTvd": "4594021283272",
     "tikTvd": "25920002187791",
-    "tikName": "Нытвенская"
+    "tikName": "Нытвенская",
+    "uikName": "УИК №2128",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 2129,
     "uikTvd": "4594021283273",
     "tikTvd": "25920002187791",
-    "tikName": "Нытвенская"
+    "tikName": "Нытвенская",
+    "uikName": "УИК №2129",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 2130,
     "uikTvd": "4594021283274",
     "tikTvd": "25920002187791",
-    "tikName": "Нытвенская"
+    "tikName": "Нытвенская",
+    "uikName": "УИК №2130",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 2131,
     "uikTvd": "4594021283275",
     "tikTvd": "25920002187791",
-    "tikName": "Нытвенская"
+    "tikName": "Нытвенская",
+    "uikName": "УИК №2131",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 2132,
     "uikTvd": "4594021283276",
     "tikTvd": "25920002187791",
-    "tikName": "Нытвенская"
+    "tikName": "Нытвенская",
+    "uikName": "УИК №2132",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 2133,
     "uikTvd": "4594021283277",
     "tikTvd": "25920002187791",
-    "tikName": "Нытвенская"
+    "tikName": "Нытвенская",
+    "uikName": "УИК №2133",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 2134,
     "uikTvd": "4594021283278",
     "tikTvd": "25920002187791",
-    "tikName": "Нытвенская"
+    "tikName": "Нытвенская",
+    "uikName": "УИК №2134",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 2135,
     "uikTvd": "4594021283279",
     "tikTvd": "25920002187791",
-    "tikName": "Нытвенская"
+    "tikName": "Нытвенская",
+    "uikName": "УИК №2135",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 2137,
     "uikTvd": "4594021283280",
     "tikTvd": "25920002187791",
-    "tikName": "Нытвенская"
+    "tikName": "Нытвенская",
+    "uikName": "УИК №2137",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 2138,
     "uikTvd": "4594021283281",
     "tikTvd": "25920002187791",
-    "tikName": "Нытвенская"
+    "tikName": "Нытвенская",
+    "uikName": "УИК №2138",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 2201,
     "uikTvd": "4594022286192",
     "tikTvd": "25920002187777",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "uikName": "УИК №2201",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 2202,
     "uikTvd": "4594022286193",
     "tikTvd": "25920002187777",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "uikName": "УИК №2202",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 2203,
     "uikTvd": "4594022286194",
     "tikTvd": "25920002187777",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "uikName": "УИК №2203",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 2204,
     "uikTvd": "4594022286195",
     "tikTvd": "25920002187777",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "uikName": "УИК №2204",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 2205,
     "uikTvd": "4594022286196",
     "tikTvd": "25920002187777",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "uikName": "УИК №2205",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 2206,
     "uikTvd": "4594022286197",
     "tikTvd": "25920002187777",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "uikName": "УИК №2206",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 2208,
     "uikTvd": "4594022286198",
     "tikTvd": "25920002187777",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "uikName": "УИК №2208",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 2209,
     "uikTvd": "4594022286199",
     "tikTvd": "25920002187777",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "uikName": "УИК №2209",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 2210,
     "uikTvd": "4594022286200",
     "tikTvd": "25920002187777",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "uikName": "УИК №2210",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 2211,
     "uikTvd": "4594022286201",
     "tikTvd": "25920002187777",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "uikName": "УИК №2211",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 2212,
     "uikTvd": "4594022286202",
     "tikTvd": "25920002187777",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "uikName": "УИК №2212",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 2213,
     "uikTvd": "4594022286203",
     "tikTvd": "25920002187777",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "uikName": "УИК №2213",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 2214,
     "uikTvd": "4594022286204",
     "tikTvd": "25920002187777",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "uikName": "УИК №2214",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 2215,
     "uikTvd": "4594022286205",
     "tikTvd": "25920002187777",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "uikName": "УИК №2215",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 2216,
     "uikTvd": "4594022286206",
     "tikTvd": "25920002187777",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "uikName": "УИК №2216",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 2217,
     "uikTvd": "4594022286207",
     "tikTvd": "25920002187777",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "uikName": "УИК №2217",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 2218,
     "uikTvd": "4594022286208",
     "tikTvd": "25920002187777",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "uikName": "УИК №2218",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 2219,
     "uikTvd": "4594022286209",
     "tikTvd": "25920002187777",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "uikName": "УИК №2219",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 2220,
     "uikTvd": "4594022286210",
     "tikTvd": "25920002187777",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "uikName": "УИК №2220",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 2221,
     "uikTvd": "4594022286211",
     "tikTvd": "25920002187777",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "uikName": "УИК №2221",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 2222,
     "uikTvd": "4594022286212",
     "tikTvd": "25920002187777",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "uikName": "УИК №2222",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 2223,
     "uikTvd": "4594022286213",
     "tikTvd": "25920002187777",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "uikName": "УИК №2223",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 2224,
     "uikTvd": "4594022286214",
     "tikTvd": "25920002187777",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "uikName": "УИК №2224",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 2225,
     "uikTvd": "4594022286215",
     "tikTvd": "25920002187777",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "uikName": "УИК №2225",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 2226,
     "uikTvd": "4594022286216",
     "tikTvd": "25920002187777",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "uikName": "УИК №2226",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 2227,
     "uikTvd": "4594022286217",
     "tikTvd": "25920002187777",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "uikName": "УИК №2227",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 2228,
     "uikTvd": "4594022286218",
     "tikTvd": "25920002187777",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "uikName": "УИК №2228",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 2229,
     "uikTvd": "4594022286219",
     "tikTvd": "25920002187777",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "uikName": "УИК №2229",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 2230,
     "uikTvd": "4594022286220",
     "tikTvd": "25920002187777",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "uikName": "УИК №2230",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 2231,
     "uikTvd": "4594022286221",
     "tikTvd": "25920002187777",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "uikName": "УИК №2231",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 2232,
     "uikTvd": "4594022286222",
     "tikTvd": "25920002187777",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "uikName": "УИК №2232",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 2233,
     "uikTvd": "4594022286223",
     "tikTvd": "25920002187777",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "uikName": "УИК №2233",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 2234,
     "uikTvd": "4594022286224",
     "tikTvd": "25920002187777",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "uikName": "УИК №2234",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 2235,
     "uikTvd": "4594022286225",
     "tikTvd": "25920002187777",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "uikName": "УИК №2235",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 2236,
     "uikTvd": "4594022286226",
     "tikTvd": "25920002187777",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "uikName": "УИК №2236",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 2237,
     "uikTvd": "4594022286227",
     "tikTvd": "25920002187777",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "uikName": "УИК №2237",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 2238,
     "uikTvd": "4594022286228",
     "tikTvd": "25920002187777",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "uikName": "УИК №2238",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 2240,
     "uikTvd": "4594022286229",
     "tikTvd": "25920002187777",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "uikName": "УИК №2240",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 2241,
     "uikTvd": "4594022286230",
     "tikTvd": "25920002187777",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "uikName": "УИК №2241",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 2301,
     "uikTvd": "4594023247738",
     "tikTvd": "25920002187776",
-    "tikName": "Ординская"
+    "tikName": "Ординская",
+    "uikName": "УИК №2301",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 2302,
     "uikTvd": "4594023247739",
     "tikTvd": "25920002187776",
-    "tikName": "Ординская"
+    "tikName": "Ординская",
+    "uikName": "УИК №2302",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 2303,
     "uikTvd": "4594023247740",
     "tikTvd": "25920002187776",
-    "tikName": "Ординская"
+    "tikName": "Ординская",
+    "uikName": "УИК №2303",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 2304,
     "uikTvd": "4594023247741",
     "tikTvd": "25920002187776",
-    "tikName": "Ординская"
+    "tikName": "Ординская",
+    "uikName": "УИК №2304",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 2305,
     "uikTvd": "4594023247742",
     "tikTvd": "25920002187776",
-    "tikName": "Ординская"
+    "tikName": "Ординская",
+    "uikName": "УИК №2305",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 2306,
     "uikTvd": "4594023247743",
     "tikTvd": "25920002187776",
-    "tikName": "Ординская"
+    "tikName": "Ординская",
+    "uikName": "УИК №2306",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 2307,
     "uikTvd": "4594023247744",
     "tikTvd": "25920002187776",
-    "tikName": "Ординская"
+    "tikName": "Ординская",
+    "uikName": "УИК №2307",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 2308,
     "uikTvd": "4594023247745",
     "tikTvd": "25920002187776",
-    "tikName": "Ординская"
+    "tikName": "Ординская",
+    "uikName": "УИК №2308",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 2309,
     "uikTvd": "4594023247746",
     "tikTvd": "25920002187776",
-    "tikName": "Ординская"
+    "tikName": "Ординская",
+    "uikName": "УИК №2309",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 2310,
     "uikTvd": "4594023247747",
     "tikTvd": "25920002187776",
-    "tikName": "Ординская"
+    "tikName": "Ординская",
+    "uikName": "УИК №2310",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 2311,
     "uikTvd": "4594023247748",
     "tikTvd": "25920002187776",
-    "tikName": "Ординская"
+    "tikName": "Ординская",
+    "uikName": "УИК №2311",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 2312,
     "uikTvd": "4594023247749",
     "tikTvd": "25920002187776",
-    "tikName": "Ординская"
+    "tikName": "Ординская",
+    "uikName": "УИК №2312",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 2313,
     "uikTvd": "4594023247750",
     "tikTvd": "25920002187776",
-    "tikName": "Ординская"
+    "tikName": "Ординская",
+    "uikName": "УИК №2313",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 2314,
     "uikTvd": "4594023247751",
     "tikTvd": "25920002187776",
-    "tikName": "Ординская"
+    "tikName": "Ординская",
+    "uikName": "УИК №2314",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 2315,
     "uikTvd": "4594023247752",
     "tikTvd": "25920002187776",
-    "tikName": "Ординская"
+    "tikName": "Ординская",
+    "uikName": "УИК №2315",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 2316,
     "uikTvd": "4594023247753",
     "tikTvd": "25920002187776",
-    "tikName": "Ординская"
+    "tikName": "Ординская",
+    "uikName": "УИК №2316",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 2317,
     "uikTvd": "4594023247754",
     "tikTvd": "25920002187776",
-    "tikName": "Ординская"
+    "tikName": "Ординская",
+    "uikName": "УИК №2317",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 2318,
     "uikTvd": "4594023247755",
     "tikTvd": "25920002187776",
-    "tikName": "Ординская"
+    "tikName": "Ординская",
+    "uikName": "УИК №2318",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 2319,
     "uikTvd": "4594023247756",
     "tikTvd": "25920002187776",
-    "tikName": "Ординская"
+    "tikName": "Ординская",
+    "uikName": "УИК №2319",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 2320,
     "uikTvd": "4594023247757",
     "tikTvd": "25920002187776",
-    "tikName": "Ординская"
+    "tikName": "Ординская",
+    "uikName": "УИК №2320",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 2401,
     "uikTvd": "4594024289836",
     "tikTvd": "25920002187751",
-    "tikName": "Осинская"
+    "tikName": "Осинская",
+    "uikName": "УИК №2401",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 2402,
     "uikTvd": "4594024289837",
     "tikTvd": "25920002187751",
-    "tikName": "Осинская"
+    "tikName": "Осинская",
+    "uikName": "УИК №2402",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 2403,
     "uikTvd": "4594024289838",
     "tikTvd": "25920002187751",
-    "tikName": "Осинская"
+    "tikName": "Осинская",
+    "uikName": "УИК №2403",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 2404,
     "uikTvd": "4594024289839",
     "tikTvd": "25920002187751",
-    "tikName": "Осинская"
+    "tikName": "Осинская",
+    "uikName": "УИК №2404",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 2405,
     "uikTvd": "4594024289840",
     "tikTvd": "25920002187751",
-    "tikName": "Осинская"
+    "tikName": "Осинская",
+    "uikName": "УИК №2405",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 2406,
     "uikTvd": "4594024289841",
     "tikTvd": "25920002187751",
-    "tikName": "Осинская"
+    "tikName": "Осинская",
+    "uikName": "УИК №2406",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 2407,
     "uikTvd": "4594024289842",
     "tikTvd": "25920002187751",
-    "tikName": "Осинская"
+    "tikName": "Осинская",
+    "uikName": "УИК №2407",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 2408,
     "uikTvd": "4594024289843",
     "tikTvd": "25920002187751",
-    "tikName": "Осинская"
+    "tikName": "Осинская",
+    "uikName": "УИК №2408",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 2409,
     "uikTvd": "4594024289844",
     "tikTvd": "25920002187751",
-    "tikName": "Осинская"
+    "tikName": "Осинская",
+    "uikName": "УИК №2409",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 2410,
     "uikTvd": "4594024289845",
     "tikTvd": "25920002187751",
-    "tikName": "Осинская"
+    "tikName": "Осинская",
+    "uikName": "УИК №2410",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 2411,
     "uikTvd": "4594024289846",
     "tikTvd": "25920002187751",
-    "tikName": "Осинская"
+    "tikName": "Осинская",
+    "uikName": "УИК №2411",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 2412,
     "uikTvd": "4594024289847",
     "tikTvd": "25920002187751",
-    "tikName": "Осинская"
+    "tikName": "Осинская",
+    "uikName": "УИК №2412",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 2413,
     "uikTvd": "4594024289848",
     "tikTvd": "25920002187751",
-    "tikName": "Осинская"
+    "tikName": "Осинская",
+    "uikName": "УИК №2413",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 2414,
     "uikTvd": "4594024289849",
     "tikTvd": "25920002187751",
-    "tikName": "Осинская"
+    "tikName": "Осинская",
+    "uikName": "УИК №2414",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 2415,
     "uikTvd": "4594024289850",
     "tikTvd": "25920002187751",
-    "tikName": "Осинская"
+    "tikName": "Осинская",
+    "uikName": "УИК №2415",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 2416,
     "uikTvd": "4594024289851",
     "tikTvd": "25920002187751",
-    "tikName": "Осинская"
+    "tikName": "Осинская",
+    "uikName": "УИК №2416",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 2417,
     "uikTvd": "4594024289852",
     "tikTvd": "25920002187751",
-    "tikName": "Осинская"
+    "tikName": "Осинская",
+    "uikName": "УИК №2417",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 2418,
     "uikTvd": "4594024289853",
     "tikTvd": "25920002187751",
-    "tikName": "Осинская"
+    "tikName": "Осинская",
+    "uikName": "УИК №2418",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 2419,
     "uikTvd": "4594024289854",
     "tikTvd": "25920002187751",
-    "tikName": "Осинская"
+    "tikName": "Осинская",
+    "uikName": "УИК №2419",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 2420,
     "uikTvd": "4594024289855",
     "tikTvd": "25920002187751",
-    "tikName": "Осинская"
+    "tikName": "Осинская",
+    "uikName": "УИК №2420",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 2421,
     "uikTvd": "4594024289856",
     "tikTvd": "25920002187751",
-    "tikName": "Осинская"
+    "tikName": "Осинская",
+    "uikName": "УИК №2421",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 2422,
     "uikTvd": "4594024289857",
     "tikTvd": "25920002187751",
-    "tikName": "Осинская"
+    "tikName": "Осинская",
+    "uikName": "УИК №2422",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 2423,
     "uikTvd": "4594024289858",
     "tikTvd": "25920002187751",
-    "tikName": "Осинская"
+    "tikName": "Осинская",
+    "uikName": "УИК №2423",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 2424,
     "uikTvd": "4594024289859",
     "tikTvd": "25920002187751",
-    "tikName": "Осинская"
+    "tikName": "Осинская",
+    "uikName": "УИК №2424",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 2425,
     "uikTvd": "4594024289860",
     "tikTvd": "25920002187751",
-    "tikName": "Осинская"
+    "tikName": "Осинская",
+    "uikName": "УИК №2425",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 2426,
     "uikTvd": "4594024289861",
     "tikTvd": "25920002187751",
-    "tikName": "Осинская"
+    "tikName": "Осинская",
+    "uikName": "УИК №2426",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 2427,
     "uikTvd": "4594024289862",
     "tikTvd": "25920002187751",
-    "tikName": "Осинская"
+    "tikName": "Осинская",
+    "uikName": "УИК №2427",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 2428,
     "uikTvd": "4594024289863",
     "tikTvd": "25920002187751",
-    "tikName": "Осинская"
+    "tikName": "Осинская",
+    "uikName": "УИК №2428",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 2429,
     "uikTvd": "4594024289864",
     "tikTvd": "25920002187751",
-    "tikName": "Осинская"
+    "tikName": "Осинская",
+    "uikName": "УИК №2429",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 2430,
     "uikTvd": "4594024289865",
     "tikTvd": "25920002187751",
-    "tikName": "Осинская"
+    "tikName": "Осинская",
+    "uikName": "УИК №2430",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 2431,
     "uikTvd": "4594024289866",
     "tikTvd": "25920002187751",
-    "tikName": "Осинская"
+    "tikName": "Осинская",
+    "uikName": "УИК №2431",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 2501,
     "uikTvd": "4594025195091",
     "tikTvd": "25920002187750",
-    "tikName": "Оханская"
+    "tikName": "Оханская",
+    "uikName": "УИК №2501",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 2502,
     "uikTvd": "4594025195093",
     "tikTvd": "25920002187750",
-    "tikName": "Оханская"
+    "tikName": "Оханская",
+    "uikName": "УИК №2502",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 2503,
     "uikTvd": "4594025195095",
     "tikTvd": "25920002187750",
-    "tikName": "Оханская"
+    "tikName": "Оханская",
+    "uikName": "УИК №2503",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 2504,
     "uikTvd": "4594025195097",
     "tikTvd": "25920002187750",
-    "tikName": "Оханская"
+    "tikName": "Оханская",
+    "uikName": "УИК №2504",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 2505,
     "uikTvd": "4594025195099",
     "tikTvd": "25920002187750",
-    "tikName": "Оханская"
+    "tikName": "Оханская",
+    "uikName": "УИК №2505",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 2506,
     "uikTvd": "4594025195101",
     "tikTvd": "25920002187750",
-    "tikName": "Оханская"
+    "tikName": "Оханская",
+    "uikName": "УИК №2506",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 2507,
     "uikTvd": "4594025195103",
     "tikTvd": "25920002187750",
-    "tikName": "Оханская"
+    "tikName": "Оханская",
+    "uikName": "УИК №2507",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 2508,
     "uikTvd": "4594025195105",
     "tikTvd": "25920002187750",
-    "tikName": "Оханская"
+    "tikName": "Оханская",
+    "uikName": "УИК №2508",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 2509,
     "uikTvd": "4594025195107",
     "tikTvd": "25920002187750",
-    "tikName": "Оханская"
+    "tikName": "Оханская",
+    "uikName": "УИК №2509",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 2510,
     "uikTvd": "4594025195109",
     "tikTvd": "25920002187750",
-    "tikName": "Оханская"
+    "tikName": "Оханская",
+    "uikName": "УИК №2510",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 2511,
     "uikTvd": "4594025195111",
     "tikTvd": "25920002187750",
-    "tikName": "Оханская"
+    "tikName": "Оханская",
+    "uikName": "УИК №2511",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 2512,
     "uikTvd": "4594025195113",
     "tikTvd": "25920002187750",
-    "tikName": "Оханская"
+    "tikName": "Оханская",
+    "uikName": "УИК №2512",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 2513,
     "uikTvd": "4594025195115",
     "tikTvd": "25920002187750",
-    "tikName": "Оханская"
+    "tikName": "Оханская",
+    "uikName": "УИК №2513",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 2601,
     "uikTvd": "4594026236680",
     "tikTvd": "25920002187749",
-    "tikName": "Очерская"
+    "tikName": "Очерская",
+    "uikName": "УИК №2601",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 2602,
     "uikTvd": "4594026236681",
     "tikTvd": "25920002187749",
-    "tikName": "Очерская"
+    "tikName": "Очерская",
+    "uikName": "УИК №2602",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 2603,
     "uikTvd": "4594026236682",
     "tikTvd": "25920002187749",
-    "tikName": "Очерская"
+    "tikName": "Очерская",
+    "uikName": "УИК №2603",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 2604,
     "uikTvd": "4594026236683",
     "tikTvd": "25920002187749",
-    "tikName": "Очерская"
+    "tikName": "Очерская",
+    "uikName": "УИК №2604",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 2605,
     "uikTvd": "4594026236684",
     "tikTvd": "25920002187749",
-    "tikName": "Очерская"
+    "tikName": "Очерская",
+    "uikName": "УИК №2605",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 2606,
     "uikTvd": "4594026236685",
     "tikTvd": "25920002187749",
-    "tikName": "Очерская"
+    "tikName": "Очерская",
+    "uikName": "УИК №2606",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 2607,
     "uikTvd": "4594026236686",
     "tikTvd": "25920002187749",
-    "tikName": "Очерская"
+    "tikName": "Очерская",
+    "uikName": "УИК №2607",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 2608,
     "uikTvd": "4594026236687",
     "tikTvd": "25920002187749",
-    "tikName": "Очерская"
+    "tikName": "Очерская",
+    "uikName": "УИК №2608",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 2609,
     "uikTvd": "4594026236688",
     "tikTvd": "25920002187749",
-    "tikName": "Очерская"
+    "tikName": "Очерская",
+    "uikName": "УИК №2609",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 2610,
     "uikTvd": "4594026236689",
     "tikTvd": "25920002187749",
-    "tikName": "Очерская"
+    "tikName": "Очерская",
+    "uikName": "УИК №2610",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 2611,
     "uikTvd": "4594026236690",
     "tikTvd": "25920002187749",
-    "tikName": "Очерская"
+    "tikName": "Очерская",
+    "uikName": "УИК №2611",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 2612,
     "uikTvd": "4594026236691",
     "tikTvd": "25920002187749",
-    "tikName": "Очерская"
+    "tikName": "Очерская",
+    "uikName": "УИК №2612",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 2613,
     "uikTvd": "4594026236692",
     "tikTvd": "25920002187749",
-    "tikName": "Очерская"
+    "tikName": "Очерская",
+    "uikName": "УИК №2613",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 2614,
     "uikTvd": "4594026236693",
     "tikTvd": "25920002187749",
-    "tikName": "Очерская"
+    "tikName": "Очерская",
+    "uikName": "УИК №2614",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 2615,
     "uikTvd": "4594026236694",
     "tikTvd": "25920002187749",
-    "tikName": "Очерская"
+    "tikName": "Очерская",
+    "uikName": "УИК №2615",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 2616,
     "uikTvd": "4594026236695",
     "tikTvd": "25920002187749",
-    "tikName": "Очерская"
+    "tikName": "Очерская",
+    "uikName": "УИК №2616",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 2617,
     "uikTvd": "4594026236696",
     "tikTvd": "25920002187749",
-    "tikName": "Очерская"
+    "tikName": "Очерская",
+    "uikName": "УИК №2617",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 2618,
     "uikTvd": "4594026236697",
     "tikTvd": "25920002187749",
-    "tikName": "Очерская"
+    "tikName": "Очерская",
+    "uikName": "УИК №2618",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 2619,
     "uikTvd": "4594026236698",
     "tikTvd": "25920002187749",
-    "tikName": "Очерская"
+    "tikName": "Очерская",
+    "uikName": "УИК №2619",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 2620,
     "uikTvd": "4594026236699",
     "tikTvd": "25920002187749",
-    "tikName": "Очерская"
+    "tikName": "Очерская",
+    "uikName": "УИК №2620",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 2621,
     "uikTvd": "4594026236700",
     "tikTvd": "25920002187749",
-    "tikName": "Очерская"
+    "tikName": "Очерская",
+    "uikName": "УИК №2621",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 2622,
     "uikTvd": "4594026236701",
     "tikTvd": "25920002187749",
-    "tikName": "Очерская"
+    "tikName": "Очерская",
+    "uikName": "УИК №2622",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 2623,
     "uikTvd": "4594026236702",
     "tikTvd": "25920002187749",
-    "tikName": "Очерская"
+    "tikName": "Очерская",
+    "uikName": "УИК №2623",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 2624,
     "uikTvd": "4594026236703",
     "tikTvd": "25920002187749",
-    "tikName": "Очерская"
+    "tikName": "Очерская",
+    "uikName": "УИК №2624",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 2625,
     "uikTvd": "4594026236704",
     "tikTvd": "25920002187749",
-    "tikName": "Очерская"
+    "tikName": "Очерская",
+    "uikName": "УИК №2625",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 2626,
     "uikTvd": "4594026236705",
     "tikTvd": "25920002187749",
-    "tikName": "Очерская"
+    "tikName": "Очерская",
+    "uikName": "УИК №2626",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 2701,
     "uikTvd": "4594027411496",
     "tikTvd": "25920002187775",
-    "tikName": "Пермская - 60"
+    "tikName": "Пермская - 60",
+    "uikName": "УИК №2701",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 2702,
     "uikTvd": "4594027411497",
     "tikTvd": "25920002187775",
-    "tikName": "Пермская - 60"
+    "tikName": "Пермская - 60",
+    "uikName": "УИК №2702",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 2703,
     "uikTvd": "4594027411498",
     "tikTvd": "25920002187775",
-    "tikName": "Пермская - 60"
+    "tikName": "Пермская - 60",
+    "uikName": "УИК №2703",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 2704,
     "uikTvd": "4594027411460",
     "tikTvd": "25920002187748",
-    "tikName": "Пермская - 58"
+    "tikName": "Пермская - 58",
+    "uikName": "УИК №2704",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 2705,
     "uikTvd": "4594027411461",
     "tikTvd": "25920002187748",
-    "tikName": "Пермская - 58"
+    "tikName": "Пермская - 58",
+    "uikName": "УИК №2705",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 2706,
     "uikTvd": "4594027411462",
     "tikTvd": "25920002187748",
-    "tikName": "Пермская - 58"
+    "tikName": "Пермская - 58",
+    "uikName": "УИК №2706",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 2707,
     "uikTvd": "4594027411499",
     "tikTvd": "25920002187775",
-    "tikName": "Пермская - 60"
+    "tikName": "Пермская - 60",
+    "uikName": "УИК №2707",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 2708,
     "uikTvd": "4594027411500",
     "tikTvd": "25920002187775",
-    "tikName": "Пермская - 60"
+    "tikName": "Пермская - 60",
+    "uikName": "УИК №2708",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 2709,
     "uikTvd": "4594027411501",
     "tikTvd": "25920002187775",
-    "tikName": "Пермская - 60"
+    "tikName": "Пермская - 60",
+    "uikName": "УИК №2709",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 2710,
     "uikTvd": "4594027411502",
     "tikTvd": "25920002187775",
-    "tikName": "Пермская - 60"
+    "tikName": "Пермская - 60",
+    "uikName": "УИК №2710",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 2711,
     "uikTvd": "4594027411463",
     "tikTvd": "25920002187748",
-    "tikName": "Пермская - 58"
+    "tikName": "Пермская - 58",
+    "uikName": "УИК №2711",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 2712,
     "uikTvd": "4594027411464",
     "tikTvd": "25920002187748",
-    "tikName": "Пермская - 58"
+    "tikName": "Пермская - 58",
+    "uikName": "УИК №2712",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 2713,
     "uikTvd": "4594027411465",
     "tikTvd": "25920002187748",
-    "tikName": "Пермская - 58"
+    "tikName": "Пермская - 58",
+    "uikName": "УИК №2713",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 2714,
     "uikTvd": "4594027411466",
     "tikTvd": "25920002187748",
-    "tikName": "Пермская - 58"
+    "tikName": "Пермская - 58",
+    "uikName": "УИК №2714",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 2715,
     "uikTvd": "4594027411467",
     "tikTvd": "25920002187748",
-    "tikName": "Пермская - 58"
+    "tikName": "Пермская - 58",
+    "uikName": "УИК №2715",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 2716,
     "uikTvd": "4594027411503",
     "tikTvd": "25920002187775",
-    "tikName": "Пермская - 60"
+    "tikName": "Пермская - 60",
+    "uikName": "УИК №2716",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 2717,
     "uikTvd": "4594027411504",
     "tikTvd": "25920002187775",
-    "tikName": "Пермская - 60"
+    "tikName": "Пермская - 60",
+    "uikName": "УИК №2717",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 2718,
     "uikTvd": "4594027411505",
     "tikTvd": "25920002187775",
-    "tikName": "Пермская - 60"
+    "tikName": "Пермская - 60",
+    "uikName": "УИК №2718",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 2719,
     "uikTvd": "4594027411506",
     "tikTvd": "25920002187775",
-    "tikName": "Пермская - 60"
+    "tikName": "Пермская - 60",
+    "uikName": "УИК №2719",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 2720,
     "uikTvd": "4594027411507",
     "tikTvd": "25920002187775",
-    "tikName": "Пермская - 60"
+    "tikName": "Пермская - 60",
+    "uikName": "УИК №2720",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 2721,
     "uikTvd": "4594027411468",
     "tikTvd": "25920002187748",
-    "tikName": "Пермская - 58"
+    "tikName": "Пермская - 58",
+    "uikName": "УИК №2721",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 2722,
     "uikTvd": "4594027411469",
     "tikTvd": "25920002187748",
-    "tikName": "Пермская - 58"
+    "tikName": "Пермская - 58",
+    "uikName": "УИК №2722",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 2723,
     "uikTvd": "4594027411470",
     "tikTvd": "25920002187748",
-    "tikName": "Пермская - 58"
+    "tikName": "Пермская - 58",
+    "uikName": "УИК №2723",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 2724,
     "uikTvd": "4594027411471",
     "tikTvd": "25920002187748",
-    "tikName": "Пермская - 58"
+    "tikName": "Пермская - 58",
+    "uikName": "УИК №2724",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 2725,
     "uikTvd": "4594027411472",
     "tikTvd": "25920002187748",
-    "tikName": "Пермская - 58"
+    "tikName": "Пермская - 58",
+    "uikName": "УИК №2725",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 2726,
     "uikTvd": "4594027411473",
     "tikTvd": "25920002187748",
-    "tikName": "Пермская - 58"
+    "tikName": "Пермская - 58",
+    "uikName": "УИК №2726",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 2727,
     "uikTvd": "4594027411474",
     "tikTvd": "25920002187748",
-    "tikName": "Пермская - 58"
+    "tikName": "Пермская - 58",
+    "uikName": "УИК №2727",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 2728,
     "uikTvd": "4594027411475",
     "tikTvd": "25920002187748",
-    "tikName": "Пермская - 58"
+    "tikName": "Пермская - 58",
+    "uikName": "УИК №2728",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 2729,
     "uikTvd": "4594027411508",
     "tikTvd": "25920002187775",
-    "tikName": "Пермская - 60"
+    "tikName": "Пермская - 60",
+    "uikName": "УИК №2729",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 2730,
     "uikTvd": "4594027411509",
     "tikTvd": "25920002187775",
-    "tikName": "Пермская - 60"
+    "tikName": "Пермская - 60",
+    "uikName": "УИК №2730",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 2731,
     "uikTvd": "4594027411510",
     "tikTvd": "25920002187775",
-    "tikName": "Пермская - 60"
+    "tikName": "Пермская - 60",
+    "uikName": "УИК №2731",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 2732,
     "uikTvd": "4594027411511",
     "tikTvd": "25920002187775",
-    "tikName": "Пермская - 60"
+    "tikName": "Пермская - 60",
+    "uikName": "УИК №2732",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 2733,
     "uikTvd": "4594027411512",
     "tikTvd": "25920002187775",
-    "tikName": "Пермская - 60"
+    "tikName": "Пермская - 60",
+    "uikName": "УИК №2733",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 2734,
     "uikTvd": "4594027411513",
     "tikTvd": "25920002187775",
-    "tikName": "Пермская - 60"
+    "tikName": "Пермская - 60",
+    "uikName": "УИК №2734",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 2735,
     "uikTvd": "4594027411476",
     "tikTvd": "25920002187748",
-    "tikName": "Пермская - 58"
+    "tikName": "Пермская - 58",
+    "uikName": "УИК №2735",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 2736,
     "uikTvd": "4594027411514",
     "tikTvd": "25920002187775",
-    "tikName": "Пермская - 60"
+    "tikName": "Пермская - 60",
+    "uikName": "УИК №2736",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 2737,
     "uikTvd": "4594027411515",
     "tikTvd": "25920002187775",
-    "tikName": "Пермская - 60"
+    "tikName": "Пермская - 60",
+    "uikName": "УИК №2737",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 2738,
     "uikTvd": "4594027411516",
     "tikTvd": "25920002187775",
-    "tikName": "Пермская - 60"
+    "tikName": "Пермская - 60",
+    "uikName": "УИК №2738",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 2739,
     "uikTvd": "4594027411477",
     "tikTvd": "25920002187748",
-    "tikName": "Пермская - 58"
+    "tikName": "Пермская - 58",
+    "uikName": "УИК №2739",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 2740,
     "uikTvd": "4594027411478",
     "tikTvd": "25920002187748",
-    "tikName": "Пермская - 58"
+    "tikName": "Пермская - 58",
+    "uikName": "УИК №2740",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 2741,
     "uikTvd": "4594027411479",
     "tikTvd": "25920002187748",
-    "tikName": "Пермская - 58"
+    "tikName": "Пермская - 58",
+    "uikName": "УИК №2741",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 2742,
     "uikTvd": "4594027411480",
     "tikTvd": "25920002187748",
-    "tikName": "Пермская - 58"
+    "tikName": "Пермская - 58",
+    "uikName": "УИК №2742",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 2743,
     "uikTvd": "4594027411481",
     "tikTvd": "25920002187748",
-    "tikName": "Пермская - 58"
+    "tikName": "Пермская - 58",
+    "uikName": "УИК №2743",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 2744,
     "uikTvd": "4594027411482",
     "tikTvd": "25920002187748",
-    "tikName": "Пермская - 58"
+    "tikName": "Пермская - 58",
+    "uikName": "УИК №2744",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 2745,
     "uikTvd": "4594027411517",
     "tikTvd": "25920002187775",
-    "tikName": "Пермская - 60"
+    "tikName": "Пермская - 60",
+    "uikName": "УИК №2745",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 2746,
     "uikTvd": "4594027411483",
     "tikTvd": "25920002187748",
-    "tikName": "Пермская - 58"
+    "tikName": "Пермская - 58",
+    "uikName": "УИК №2746",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 2747,
     "uikTvd": "4594027411518",
     "tikTvd": "25920002187775",
-    "tikName": "Пермская - 60"
+    "tikName": "Пермская - 60",
+    "uikName": "УИК №2747",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 2748,
     "uikTvd": "4594027411484",
     "tikTvd": "25920002187748",
-    "tikName": "Пермская - 58"
+    "tikName": "Пермская - 58",
+    "uikName": "УИК №2748",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 2749,
     "uikTvd": "4594027411485",
     "tikTvd": "25920002187748",
-    "tikName": "Пермская - 58"
+    "tikName": "Пермская - 58",
+    "uikName": "УИК №2749",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 2750,
     "uikTvd": "4594027411486",
     "tikTvd": "25920002187748",
-    "tikName": "Пермская - 58"
+    "tikName": "Пермская - 58",
+    "uikName": "УИК №2750",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 2751,
     "uikTvd": "4594027411519",
     "tikTvd": "25920002187775",
-    "tikName": "Пермская - 60"
+    "tikName": "Пермская - 60",
+    "uikName": "УИК №2751",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 2752,
     "uikTvd": "4594027411494",
     "tikTvd": "25920002187759",
-    "tikName": "Пермская - 59"
+    "tikName": "Пермская - 59",
+    "uikName": "УИК №2752",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 2753,
     "uikTvd": "4594027411487",
     "tikTvd": "25920002187748",
-    "tikName": "Пермская - 58"
+    "tikName": "Пермская - 58",
+    "uikName": "УИК №2753",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 2754,
     "uikTvd": "4594027411520",
     "tikTvd": "25920002187775",
-    "tikName": "Пермская - 60"
+    "tikName": "Пермская - 60",
+    "uikName": "УИК №2754",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 2755,
     "uikTvd": "4594027411521",
     "tikTvd": "25920002187775",
-    "tikName": "Пермская - 60"
+    "tikName": "Пермская - 60",
+    "uikName": "УИК №2755",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 2756,
     "uikTvd": "4594027411522",
     "tikTvd": "25920002187775",
-    "tikName": "Пермская - 60"
+    "tikName": "Пермская - 60",
+    "uikName": "УИК №2756",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 2757,
     "uikTvd": "4594027411488",
     "tikTvd": "25920002187748",
-    "tikName": "Пермская - 58"
+    "tikName": "Пермская - 58",
+    "uikName": "УИК №2757",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 2758,
     "uikTvd": "4594027411489",
     "tikTvd": "25920002187748",
-    "tikName": "Пермская - 58"
+    "tikName": "Пермская - 58",
+    "uikName": "УИК №2758",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 2759,
     "uikTvd": "4594027411490",
     "tikTvd": "25920002187748",
-    "tikName": "Пермская - 58"
+    "tikName": "Пермская - 58",
+    "uikName": "УИК №2759",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 2760,
     "uikTvd": "4594027411491",
     "tikTvd": "25920002187748",
-    "tikName": "Пермская - 58"
+    "tikName": "Пермская - 58",
+    "uikName": "УИК №2760",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 2761,
     "uikTvd": "4594027418290",
     "tikTvd": "25920002187748",
-    "tikName": "Пермская - 58"
+    "tikName": "Пермская - 58",
+    "uikName": "УИК №2761",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 2762,
     "uikTvd": "4594027418291",
     "tikTvd": "25920002187748",
-    "tikName": "Пермская - 58"
+    "tikName": "Пермская - 58",
+    "uikName": "УИК №2762",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 2763,
     "uikTvd": "4594027411523",
     "tikTvd": "25920002187775",
-    "tikName": "Пермская - 60"
+    "tikName": "Пермская - 60",
+    "uikName": "УИК №2763",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 2764,
     "uikTvd": "4594027411492",
     "tikTvd": "25920002187748",
-    "tikName": "Пермская - 58"
+    "tikName": "Пермская - 58",
+    "uikName": "УИК №2764",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 2801,
     "uikTvd": "4594028320829",
     "tikTvd": "25920002187747",
-    "tikName": "Пермь, Дзержинская"
+    "tikName": "Пермь, Дзержинская",
+    "uikName": "УИК №2801",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 2802,
     "uikTvd": "4594028320830",
     "tikTvd": "25920002187747",
-    "tikName": "Пермь, Дзержинская"
+    "tikName": "Пермь, Дзержинская",
+    "uikName": "УИК №2802",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 2803,
     "uikTvd": "4594028320831",
     "tikTvd": "25920002187747",
-    "tikName": "Пермь, Дзержинская"
+    "tikName": "Пермь, Дзержинская",
+    "uikName": "УИК №2803",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 2804,
     "uikTvd": "4594028320832",
     "tikTvd": "25920002187747",
-    "tikName": "Пермь, Дзержинская"
+    "tikName": "Пермь, Дзержинская",
+    "uikName": "УИК №2804",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 2805,
     "uikTvd": "4594028320833",
     "tikTvd": "25920002187747",
-    "tikName": "Пермь, Дзержинская"
+    "tikName": "Пермь, Дзержинская",
+    "uikName": "УИК №2805",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 2806,
     "uikTvd": "4594028320834",
     "tikTvd": "25920002187747",
-    "tikName": "Пермь, Дзержинская"
+    "tikName": "Пермь, Дзержинская",
+    "uikName": "УИК №2806",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 2807,
     "uikTvd": "4594028320835",
     "tikTvd": "25920002187747",
-    "tikName": "Пермь, Дзержинская"
+    "tikName": "Пермь, Дзержинская",
+    "uikName": "УИК №2807",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 2808,
     "uikTvd": "4594028320836",
     "tikTvd": "25920002187747",
-    "tikName": "Пермь, Дзержинская"
+    "tikName": "Пермь, Дзержинская",
+    "uikName": "УИК №2808",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 2809,
     "uikTvd": "4594028320837",
     "tikTvd": "25920002187747",
-    "tikName": "Пермь, Дзержинская"
+    "tikName": "Пермь, Дзержинская",
+    "uikName": "УИК №2809",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 2810,
     "uikTvd": "4594028320838",
     "tikTvd": "25920002187747",
-    "tikName": "Пермь, Дзержинская"
+    "tikName": "Пермь, Дзержинская",
+    "uikName": "УИК №2810",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 2811,
     "uikTvd": "4594028320839",
     "tikTvd": "25920002187747",
-    "tikName": "Пермь, Дзержинская"
+    "tikName": "Пермь, Дзержинская",
+    "uikName": "УИК №2811",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 2812,
     "uikTvd": "4594028320840",
     "tikTvd": "25920002187747",
-    "tikName": "Пермь, Дзержинская"
+    "tikName": "Пермь, Дзержинская",
+    "uikName": "УИК №2812",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 2813,
     "uikTvd": "4594028320841",
     "tikTvd": "25920002187747",
-    "tikName": "Пермь, Дзержинская"
+    "tikName": "Пермь, Дзержинская",
+    "uikName": "УИК №2813",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 2814,
     "uikTvd": "4594028320842",
     "tikTvd": "25920002187747",
-    "tikName": "Пермь, Дзержинская"
+    "tikName": "Пермь, Дзержинская",
+    "uikName": "УИК №2814",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 2815,
     "uikTvd": "4594028320843",
     "tikTvd": "25920002187747",
-    "tikName": "Пермь, Дзержинская"
+    "tikName": "Пермь, Дзержинская",
+    "uikName": "УИК №2815",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 2816,
     "uikTvd": "4594028320844",
     "tikTvd": "25920002187747",
-    "tikName": "Пермь, Дзержинская"
+    "tikName": "Пермь, Дзержинская",
+    "uikName": "УИК №2816",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 2817,
     "uikTvd": "4594028320845",
     "tikTvd": "25920002187747",
-    "tikName": "Пермь, Дзержинская"
+    "tikName": "Пермь, Дзержинская",
+    "uikName": "УИК №2817",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 2818,
     "uikTvd": "4594028320846",
     "tikTvd": "25920002187747",
-    "tikName": "Пермь, Дзержинская"
+    "tikName": "Пермь, Дзержинская",
+    "uikName": "УИК №2818",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 2819,
     "uikTvd": "4594028320847",
     "tikTvd": "25920002187747",
-    "tikName": "Пермь, Дзержинская"
+    "tikName": "Пермь, Дзержинская",
+    "uikName": "УИК №2819",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 2820,
     "uikTvd": "4594028320848",
     "tikTvd": "25920002187747",
-    "tikName": "Пермь, Дзержинская"
+    "tikName": "Пермь, Дзержинская",
+    "uikName": "УИК №2820",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 2821,
     "uikTvd": "4594028320849",
     "tikTvd": "25920002187747",
-    "tikName": "Пермь, Дзержинская"
+    "tikName": "Пермь, Дзержинская",
+    "uikName": "УИК №2821",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 2822,
     "uikTvd": "4594028320850",
     "tikTvd": "25920002187747",
-    "tikName": "Пермь, Дзержинская"
+    "tikName": "Пермь, Дзержинская",
+    "uikName": "УИК №2822",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 2823,
     "uikTvd": "4594028320851",
     "tikTvd": "25920002187747",
-    "tikName": "Пермь, Дзержинская"
+    "tikName": "Пермь, Дзержинская",
+    "uikName": "УИК №2823",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 2824,
     "uikTvd": "4594028320852",
     "tikTvd": "25920002187747",
-    "tikName": "Пермь, Дзержинская"
+    "tikName": "Пермь, Дзержинская",
+    "uikName": "УИК №2824",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 2825,
     "uikTvd": "4594028320853",
     "tikTvd": "25920002187747",
-    "tikName": "Пермь, Дзержинская"
+    "tikName": "Пермь, Дзержинская",
+    "uikName": "УИК №2825",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 2826,
     "uikTvd": "4594028320854",
     "tikTvd": "25920002187747",
-    "tikName": "Пермь, Дзержинская"
+    "tikName": "Пермь, Дзержинская",
+    "uikName": "УИК №2826",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 2827,
     "uikTvd": "4594028320855",
     "tikTvd": "25920002187747",
-    "tikName": "Пермь, Дзержинская"
+    "tikName": "Пермь, Дзержинская",
+    "uikName": "УИК №2827",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 2828,
     "uikTvd": "4594028320856",
     "tikTvd": "25920002187747",
-    "tikName": "Пермь, Дзержинская"
+    "tikName": "Пермь, Дзержинская",
+    "uikName": "УИК №2828",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 2829,
     "uikTvd": "4594028320857",
     "tikTvd": "25920002187747",
-    "tikName": "Пермь, Дзержинская"
+    "tikName": "Пермь, Дзержинская",
+    "uikName": "УИК №2829",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 2830,
     "uikTvd": "4594028320858",
     "tikTvd": "25920002187747",
-    "tikName": "Пермь, Дзержинская"
+    "tikName": "Пермь, Дзержинская",
+    "uikName": "УИК №2830",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 2831,
     "uikTvd": "4594028320859",
     "tikTvd": "25920002187747",
-    "tikName": "Пермь, Дзержинская"
+    "tikName": "Пермь, Дзержинская",
+    "uikName": "УИК №2831",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 2832,
     "uikTvd": "4594028320860",
     "tikTvd": "25920002187747",
-    "tikName": "Пермь, Дзержинская"
+    "tikName": "Пермь, Дзержинская",
+    "uikName": "УИК №2832",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 2833,
     "uikTvd": "4594028320861",
     "tikTvd": "25920002187747",
-    "tikName": "Пермь, Дзержинская"
+    "tikName": "Пермь, Дзержинская",
+    "uikName": "УИК №2833",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 2834,
     "uikTvd": "4594028320862",
     "tikTvd": "25920002187747",
-    "tikName": "Пермь, Дзержинская"
+    "tikName": "Пермь, Дзержинская",
+    "uikName": "УИК №2834",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 2835,
     "uikTvd": "4594028320863",
     "tikTvd": "25920002187747",
-    "tikName": "Пермь, Дзержинская"
+    "tikName": "Пермь, Дзержинская",
+    "uikName": "УИК №2835",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 2836,
     "uikTvd": "4594028320864",
     "tikTvd": "25920002187747",
-    "tikName": "Пермь, Дзержинская"
+    "tikName": "Пермь, Дзержинская",
+    "uikName": "УИК №2836",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 2837,
     "uikTvd": "4594028320865",
     "tikTvd": "25920002187747",
-    "tikName": "Пермь, Дзержинская"
+    "tikName": "Пермь, Дзержинская",
+    "uikName": "УИК №2837",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 2838,
     "uikTvd": "4594028320866",
     "tikTvd": "25920002187747",
-    "tikName": "Пермь, Дзержинская"
+    "tikName": "Пермь, Дзержинская",
+    "uikName": "УИК №2838",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 2839,
     "uikTvd": "4594028320867",
     "tikTvd": "25920002187747",
-    "tikName": "Пермь, Дзержинская"
+    "tikName": "Пермь, Дзержинская",
+    "uikName": "УИК №2839",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 2840,
     "uikTvd": "4594028320868",
     "tikTvd": "25920002187747",
-    "tikName": "Пермь, Дзержинская"
+    "tikName": "Пермь, Дзержинская",
+    "uikName": "УИК №2840",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 2841,
     "uikTvd": "4594028320869",
     "tikTvd": "25920002187747",
-    "tikName": "Пермь, Дзержинская"
+    "tikName": "Пермь, Дзержинская",
+    "uikName": "УИК №2841",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 2842,
     "uikTvd": "4594028320870",
     "tikTvd": "25920002187747",
-    "tikName": "Пермь, Дзержинская"
+    "tikName": "Пермь, Дзержинская",
+    "uikName": "УИК №2842",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 2843,
     "uikTvd": "4594028320871",
     "tikTvd": "25920002187747",
-    "tikName": "Пермь, Дзержинская"
+    "tikName": "Пермь, Дзержинская",
+    "uikName": "УИК №2843",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 2844,
     "uikTvd": "4594028320872",
     "tikTvd": "25920002187747",
-    "tikName": "Пермь, Дзержинская"
+    "tikName": "Пермь, Дзержинская",
+    "uikName": "УИК №2844",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 2845,
     "uikTvd": "4594028320873",
     "tikTvd": "25920002187747",
-    "tikName": "Пермь, Дзержинская"
+    "tikName": "Пермь, Дзержинская",
+    "uikName": "УИК №2845",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 2846,
     "uikTvd": "4594028320874",
     "tikTvd": "25920002187747",
-    "tikName": "Пермь, Дзержинская"
+    "tikName": "Пермь, Дзержинская",
+    "uikName": "УИК №2846",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 2847,
     "uikTvd": "4594028320875",
     "tikTvd": "25920002187747",
-    "tikName": "Пермь, Дзержинская"
+    "tikName": "Пермь, Дзержинская",
+    "uikName": "УИК №2847",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 2848,
     "uikTvd": "4594028320876",
     "tikTvd": "25920002187747",
-    "tikName": "Пермь, Дзержинская"
+    "tikName": "Пермь, Дзержинская",
+    "uikName": "УИК №2848",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 2849,
     "uikTvd": "4594028320877",
     "tikTvd": "25920002187747",
-    "tikName": "Пермь, Дзержинская"
+    "tikName": "Пермь, Дзержинская",
+    "uikName": "УИК №2849",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 2850,
     "uikTvd": "4594028320878",
     "tikTvd": "25920002187747",
-    "tikName": "Пермь, Дзержинская"
+    "tikName": "Пермь, Дзержинская",
+    "uikName": "УИК №2850",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 2851,
     "uikTvd": "4594028320879",
     "tikTvd": "25920002187747",
-    "tikName": "Пермь, Дзержинская"
+    "tikName": "Пермь, Дзержинская",
+    "uikName": "УИК №2851",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 2852,
     "uikTvd": "4594028320880",
     "tikTvd": "25920002187747",
-    "tikName": "Пермь, Дзержинская"
+    "tikName": "Пермь, Дзержинская",
+    "uikName": "УИК №2852",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 2853,
     "uikTvd": "4594028320881",
     "tikTvd": "25920002187747",
-    "tikName": "Пермь, Дзержинская"
+    "tikName": "Пермь, Дзержинская",
+    "uikName": "УИК №2853",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 2854,
     "uikTvd": "4594028320882",
     "tikTvd": "25920002187747",
-    "tikName": "Пермь, Дзержинская"
+    "tikName": "Пермь, Дзержинская",
+    "uikName": "УИК №2854",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 2855,
     "uikTvd": "4594028320883",
     "tikTvd": "25920002187747",
-    "tikName": "Пермь, Дзержинская"
+    "tikName": "Пермь, Дзержинская",
+    "uikName": "УИК №2855",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 2856,
     "uikTvd": "4594028320884",
     "tikTvd": "25920002187747",
-    "tikName": "Пермь, Дзержинская"
+    "tikName": "Пермь, Дзержинская",
+    "uikName": "УИК №2856",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 2857,
     "uikTvd": "4594028320885",
     "tikTvd": "25920002187747",
-    "tikName": "Пермь, Дзержинская"
+    "tikName": "Пермь, Дзержинская",
+    "uikName": "УИК №2857",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 2858,
     "uikTvd": "4594028320886",
     "tikTvd": "25920002187747",
-    "tikName": "Пермь, Дзержинская"
+    "tikName": "Пермь, Дзержинская",
+    "uikName": "УИК №2858",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 2859,
     "uikTvd": "4594028320887",
     "tikTvd": "25920002187747",
-    "tikName": "Пермь, Дзержинская"
+    "tikName": "Пермь, Дзержинская",
+    "uikName": "УИК №2859",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 2860,
     "uikTvd": "4594028320888",
     "tikTvd": "25920002187747",
-    "tikName": "Пермь, Дзержинская"
+    "tikName": "Пермь, Дзержинская",
+    "uikName": "УИК №2860",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 2864,
     "uikTvd": "4594028329468",
     "tikTvd": "25920002187747",
-    "tikName": "Пермь, Дзержинская"
+    "tikName": "Пермь, Дзержинская",
+    "uikName": "УИК №2864",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 2901,
     "uikTvd": "4594029371297",
     "tikTvd": "25920002187774",
-    "tikName": "Пермь, Индустриальная"
+    "tikName": "Пермь, Индустриальная",
+    "uikName": "УИК №2901",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 2902,
     "uikTvd": "4594029371298",
     "tikTvd": "25920002187774",
-    "tikName": "Пермь, Индустриальная"
+    "tikName": "Пермь, Индустриальная",
+    "uikName": "УИК №2902",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 2903,
     "uikTvd": "4594029371299",
     "tikTvd": "25920002187774",
-    "tikName": "Пермь, Индустриальная"
+    "tikName": "Пермь, Индустриальная",
+    "uikName": "УИК №2903",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 2904,
     "uikTvd": "4594029371300",
     "tikTvd": "25920002187774",
-    "tikName": "Пермь, Индустриальная"
+    "tikName": "Пермь, Индустриальная",
+    "uikName": "УИК №2904",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 2905,
     "uikTvd": "4594029371301",
     "tikTvd": "25920002187774",
-    "tikName": "Пермь, Индустриальная"
+    "tikName": "Пермь, Индустриальная",
+    "uikName": "УИК №2905",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 2906,
     "uikTvd": "4594029371302",
     "tikTvd": "25920002187774",
-    "tikName": "Пермь, Индустриальная"
+    "tikName": "Пермь, Индустриальная",
+    "uikName": "УИК №2906",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 2907,
     "uikTvd": "4594029371303",
     "tikTvd": "25920002187774",
-    "tikName": "Пермь, Индустриальная"
+    "tikName": "Пермь, Индустриальная",
+    "uikName": "УИК №2907",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 2908,
     "uikTvd": "4594029371304",
     "tikTvd": "25920002187774",
-    "tikName": "Пермь, Индустриальная"
+    "tikName": "Пермь, Индустриальная",
+    "uikName": "УИК №2908",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 2909,
     "uikTvd": "4594029371305",
     "tikTvd": "25920002187774",
-    "tikName": "Пермь, Индустриальная"
+    "tikName": "Пермь, Индустриальная",
+    "uikName": "УИК №2909",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 2910,
     "uikTvd": "4594029371306",
     "tikTvd": "25920002187774",
-    "tikName": "Пермь, Индустриальная"
+    "tikName": "Пермь, Индустриальная",
+    "uikName": "УИК №2910",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 2911,
     "uikTvd": "4594029371307",
     "tikTvd": "25920002187774",
-    "tikName": "Пермь, Индустриальная"
+    "tikName": "Пермь, Индустриальная",
+    "uikName": "УИК №2911",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 2912,
     "uikTvd": "4594029371308",
     "tikTvd": "25920002187774",
-    "tikName": "Пермь, Индустриальная"
+    "tikName": "Пермь, Индустриальная",
+    "uikName": "УИК №2912",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 2913,
     "uikTvd": "4594029371309",
     "tikTvd": "25920002187774",
-    "tikName": "Пермь, Индустриальная"
+    "tikName": "Пермь, Индустриальная",
+    "uikName": "УИК №2913",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 2914,
     "uikTvd": "4594029371310",
     "tikTvd": "25920002187774",
-    "tikName": "Пермь, Индустриальная"
+    "tikName": "Пермь, Индустриальная",
+    "uikName": "УИК №2914",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 2915,
     "uikTvd": "4594029371311",
     "tikTvd": "25920002187774",
-    "tikName": "Пермь, Индустриальная"
+    "tikName": "Пермь, Индустриальная",
+    "uikName": "УИК №2915",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 2916,
     "uikTvd": "4594029371312",
     "tikTvd": "25920002187774",
-    "tikName": "Пермь, Индустриальная"
+    "tikName": "Пермь, Индустриальная",
+    "uikName": "УИК №2916",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 2917,
     "uikTvd": "4594029371313",
     "tikTvd": "25920002187774",
-    "tikName": "Пермь, Индустриальная"
+    "tikName": "Пермь, Индустриальная",
+    "uikName": "УИК №2917",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 2918,
     "uikTvd": "4594029371314",
     "tikTvd": "25920002187774",
-    "tikName": "Пермь, Индустриальная"
+    "tikName": "Пермь, Индустриальная",
+    "uikName": "УИК №2918",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 2919,
     "uikTvd": "4594029371315",
     "tikTvd": "25920002187774",
-    "tikName": "Пермь, Индустриальная"
+    "tikName": "Пермь, Индустриальная",
+    "uikName": "УИК №2919",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 2920,
     "uikTvd": "4594029371316",
     "tikTvd": "25920002187774",
-    "tikName": "Пермь, Индустриальная"
+    "tikName": "Пермь, Индустриальная",
+    "uikName": "УИК №2920",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 2921,
     "uikTvd": "4594029371317",
     "tikTvd": "25920002187774",
-    "tikName": "Пермь, Индустриальная"
+    "tikName": "Пермь, Индустриальная",
+    "uikName": "УИК №2921",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 2922,
     "uikTvd": "4594029371318",
     "tikTvd": "25920002187774",
-    "tikName": "Пермь, Индустриальная"
+    "tikName": "Пермь, Индустриальная",
+    "uikName": "УИК №2922",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 2923,
     "uikTvd": "4594029371319",
     "tikTvd": "25920002187774",
-    "tikName": "Пермь, Индустриальная"
+    "tikName": "Пермь, Индустриальная",
+    "uikName": "УИК №2923",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 2924,
     "uikTvd": "4594029371320",
     "tikTvd": "25920002187774",
-    "tikName": "Пермь, Индустриальная"
+    "tikName": "Пермь, Индустриальная",
+    "uikName": "УИК №2924",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 2925,
     "uikTvd": "4594029371321",
     "tikTvd": "25920002187774",
-    "tikName": "Пермь, Индустриальная"
+    "tikName": "Пермь, Индустриальная",
+    "uikName": "УИК №2925",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 2926,
     "uikTvd": "4594029371322",
     "tikTvd": "25920002187774",
-    "tikName": "Пермь, Индустриальная"
+    "tikName": "Пермь, Индустриальная",
+    "uikName": "УИК №2926",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 2927,
     "uikTvd": "4594029371323",
     "tikTvd": "25920002187774",
-    "tikName": "Пермь, Индустриальная"
+    "tikName": "Пермь, Индустриальная",
+    "uikName": "УИК №2927",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 2928,
     "uikTvd": "4594029371324",
     "tikTvd": "25920002187774",
-    "tikName": "Пермь, Индустриальная"
+    "tikName": "Пермь, Индустриальная",
+    "uikName": "УИК №2928",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 2929,
     "uikTvd": "4594029371325",
     "tikTvd": "25920002187774",
-    "tikName": "Пермь, Индустриальная"
+    "tikName": "Пермь, Индустриальная",
+    "uikName": "УИК №2929",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 2930,
     "uikTvd": "4594029371326",
     "tikTvd": "25920002187774",
-    "tikName": "Пермь, Индустриальная"
+    "tikName": "Пермь, Индустриальная",
+    "uikName": "УИК №2930",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 2931,
     "uikTvd": "4594029371327",
     "tikTvd": "25920002187774",
-    "tikName": "Пермь, Индустриальная"
+    "tikName": "Пермь, Индустриальная",
+    "uikName": "УИК №2931",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 2932,
     "uikTvd": "4594029371328",
     "tikTvd": "25920002187774",
-    "tikName": "Пермь, Индустриальная"
+    "tikName": "Пермь, Индустриальная",
+    "uikName": "УИК №2932",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 2933,
     "uikTvd": "4594029371329",
     "tikTvd": "25920002187774",
-    "tikName": "Пермь, Индустриальная"
+    "tikName": "Пермь, Индустриальная",
+    "uikName": "УИК №2933",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 2934,
     "uikTvd": "4594029371330",
     "tikTvd": "25920002187774",
-    "tikName": "Пермь, Индустриальная"
+    "tikName": "Пермь, Индустриальная",
+    "uikName": "УИК №2934",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 2935,
     "uikTvd": "4594029371331",
     "tikTvd": "25920002187774",
-    "tikName": "Пермь, Индустриальная"
+    "tikName": "Пермь, Индустриальная",
+    "uikName": "УИК №2935",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 2936,
     "uikTvd": "4594029371332",
     "tikTvd": "25920002187774",
-    "tikName": "Пермь, Индустриальная"
+    "tikName": "Пермь, Индустриальная",
+    "uikName": "УИК №2936",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 2937,
     "uikTvd": "4594029371333",
     "tikTvd": "25920002187774",
-    "tikName": "Пермь, Индустриальная"
+    "tikName": "Пермь, Индустриальная",
+    "uikName": "УИК №2937",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 2938,
     "uikTvd": "4594029371334",
     "tikTvd": "25920002187774",
-    "tikName": "Пермь, Индустриальная"
+    "tikName": "Пермь, Индустриальная",
+    "uikName": "УИК №2938",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 2939,
     "uikTvd": "4594029371335",
     "tikTvd": "25920002187774",
-    "tikName": "Пермь, Индустриальная"
+    "tikName": "Пермь, Индустриальная",
+    "uikName": "УИК №2939",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 2940,
     "uikTvd": "4594029371336",
     "tikTvd": "25920002187774",
-    "tikName": "Пермь, Индустриальная"
+    "tikName": "Пермь, Индустриальная",
+    "uikName": "УИК №2940",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 2941,
     "uikTvd": "4594029371337",
     "tikTvd": "25920002187774",
-    "tikName": "Пермь, Индустриальная"
+    "tikName": "Пермь, Индустриальная",
+    "uikName": "УИК №2941",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 2942,
     "uikTvd": "4594029371338",
     "tikTvd": "25920002187774",
-    "tikName": "Пермь, Индустриальная"
+    "tikName": "Пермь, Индустриальная",
+    "uikName": "УИК №2942",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 2943,
     "uikTvd": "4594029371339",
     "tikTvd": "25920002187774",
-    "tikName": "Пермь, Индустриальная"
+    "tikName": "Пермь, Индустриальная",
+    "uikName": "УИК №2943",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 2944,
     "uikTvd": "4594029371340",
     "tikTvd": "25920002187774",
-    "tikName": "Пермь, Индустриальная"
+    "tikName": "Пермь, Индустриальная",
+    "uikName": "УИК №2944",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 2945,
     "uikTvd": "4594029371341",
     "tikTvd": "25920002187774",
-    "tikName": "Пермь, Индустриальная"
+    "tikName": "Пермь, Индустриальная",
+    "uikName": "УИК №2945",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 2946,
     "uikTvd": "4594029371342",
     "tikTvd": "25920002187774",
-    "tikName": "Пермь, Индустриальная"
+    "tikName": "Пермь, Индустриальная",
+    "uikName": "УИК №2946",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 2947,
     "uikTvd": "4594029371343",
     "tikTvd": "25920002187774",
-    "tikName": "Пермь, Индустриальная"
+    "tikName": "Пермь, Индустриальная",
+    "uikName": "УИК №2947",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 2948,
     "uikTvd": "4594029371344",
     "tikTvd": "25920002187774",
-    "tikName": "Пермь, Индустриальная"
+    "tikName": "Пермь, Индустриальная",
+    "uikName": "УИК №2948",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 2949,
     "uikTvd": "4594029371345",
     "tikTvd": "25920002187774",
-    "tikName": "Пермь, Индустриальная"
+    "tikName": "Пермь, Индустриальная",
+    "uikName": "УИК №2949",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 2950,
     "uikTvd": "4594029371346",
     "tikTvd": "25920002187774",
-    "tikName": "Пермь, Индустриальная"
+    "tikName": "Пермь, Индустриальная",
+    "uikName": "УИК №2950",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 2951,
     "uikTvd": "4594029371347",
     "tikTvd": "25920002187774",
-    "tikName": "Пермь, Индустриальная"
+    "tikName": "Пермь, Индустриальная",
+    "uikName": "УИК №2951",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 2952,
     "uikTvd": "4594029371348",
     "tikTvd": "25920002187774",
-    "tikName": "Пермь, Индустриальная"
+    "tikName": "Пермь, Индустриальная",
+    "uikName": "УИК №2952",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 2953,
     "uikTvd": "4594029371349",
     "tikTvd": "25920002187774",
-    "tikName": "Пермь, Индустриальная"
+    "tikName": "Пермь, Индустриальная",
+    "uikName": "УИК №2953",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 2954,
     "uikTvd": "4594029371350",
     "tikTvd": "25920002187774",
-    "tikName": "Пермь, Индустриальная"
+    "tikName": "Пермь, Индустриальная",
+    "uikName": "УИК №2954",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 2955,
     "uikTvd": "4594029371351",
     "tikTvd": "25920002187774",
-    "tikName": "Пермь, Индустриальная"
+    "tikName": "Пермь, Индустриальная",
+    "uikName": "УИК №2955",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 2956,
     "uikTvd": "4594029371352",
     "tikTvd": "25920002187774",
-    "tikName": "Пермь, Индустриальная"
+    "tikName": "Пермь, Индустриальная",
+    "uikName": "УИК №2956",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 2957,
     "uikTvd": "4594029371353",
     "tikTvd": "25920002187774",
-    "tikName": "Пермь, Индустриальная"
+    "tikName": "Пермь, Индустриальная",
+    "uikName": "УИК №2957",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 2958,
     "uikTvd": "4594029371354",
     "tikTvd": "25920002187774",
-    "tikName": "Пермь, Индустриальная"
+    "tikName": "Пермь, Индустриальная",
+    "uikName": "УИК №2958",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 2959,
     "uikTvd": "4594029371355",
     "tikTvd": "25920002187774",
-    "tikName": "Пермь, Индустриальная"
+    "tikName": "Пермь, Индустриальная",
+    "uikName": "УИК №2959",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 2960,
     "uikTvd": "4594029371356",
     "tikTvd": "25920002187774",
-    "tikName": "Пермь, Индустриальная"
+    "tikName": "Пермь, Индустриальная",
+    "uikName": "УИК №2960",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 2961,
     "uikTvd": "4594029371357",
     "tikTvd": "25920002187774",
-    "tikName": "Пермь, Индустриальная"
+    "tikName": "Пермь, Индустриальная",
+    "uikName": "УИК №2961",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 2962,
     "uikTvd": "4594029371358",
     "tikTvd": "25920002187774",
-    "tikName": "Пермь, Индустриальная"
+    "tikName": "Пермь, Индустриальная",
+    "uikName": "УИК №2962",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 2963,
     "uikTvd": "4594029405173",
     "tikTvd": "25920002187774",
-    "tikName": "Пермь, Индустриальная"
+    "tikName": "Пермь, Индустриальная",
+    "uikName": "УИК №2963",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 2964,
     "uikTvd": "4594029405174",
     "tikTvd": "25920002187774",
-    "tikName": "Пермь, Индустриальная"
+    "tikName": "Пермь, Индустриальная",
+    "uikName": "УИК №2964",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 2965,
     "uikTvd": "4594029405175",
     "tikTvd": "25920002187774",
-    "tikName": "Пермь, Индустриальная"
+    "tikName": "Пермь, Индустриальная",
+    "uikName": "УИК №2965",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 3001,
     "uikTvd": "4594030341877",
     "tikTvd": "25920002187746",
-    "tikName": "Пермь, Кировская"
+    "tikName": "Пермь, Кировская",
+    "uikName": "УИК №3001",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 3002,
     "uikTvd": "4594030341878",
     "tikTvd": "25920002187746",
-    "tikName": "Пермь, Кировская"
+    "tikName": "Пермь, Кировская",
+    "uikName": "УИК №3002",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 3003,
     "uikTvd": "4594030341879",
     "tikTvd": "25920002187746",
-    "tikName": "Пермь, Кировская"
+    "tikName": "Пермь, Кировская",
+    "uikName": "УИК №3003",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 3004,
     "uikTvd": "4594030341880",
     "tikTvd": "25920002187746",
-    "tikName": "Пермь, Кировская"
+    "tikName": "Пермь, Кировская",
+    "uikName": "УИК №3004",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 3005,
     "uikTvd": "4594030341881",
     "tikTvd": "25920002187746",
-    "tikName": "Пермь, Кировская"
+    "tikName": "Пермь, Кировская",
+    "uikName": "УИК №3005",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 3006,
     "uikTvd": "4594030341882",
     "tikTvd": "25920002187746",
-    "tikName": "Пермь, Кировская"
+    "tikName": "Пермь, Кировская",
+    "uikName": "УИК №3006",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 3007,
     "uikTvd": "4594030341883",
     "tikTvd": "25920002187746",
-    "tikName": "Пермь, Кировская"
+    "tikName": "Пермь, Кировская",
+    "uikName": "УИК №3007",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 3008,
     "uikTvd": "4594030341884",
     "tikTvd": "25920002187746",
-    "tikName": "Пермь, Кировская"
+    "tikName": "Пермь, Кировская",
+    "uikName": "УИК №3008",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 3009,
     "uikTvd": "4594030341885",
     "tikTvd": "25920002187746",
-    "tikName": "Пермь, Кировская"
+    "tikName": "Пермь, Кировская",
+    "uikName": "УИК №3009",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 3010,
     "uikTvd": "4594030341886",
     "tikTvd": "25920002187746",
-    "tikName": "Пермь, Кировская"
+    "tikName": "Пермь, Кировская",
+    "uikName": "УИК №3010",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 3011,
     "uikTvd": "4594030341887",
     "tikTvd": "25920002187746",
-    "tikName": "Пермь, Кировская"
+    "tikName": "Пермь, Кировская",
+    "uikName": "УИК №3011",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 3012,
     "uikTvd": "4594030341888",
     "tikTvd": "25920002187746",
-    "tikName": "Пермь, Кировская"
+    "tikName": "Пермь, Кировская",
+    "uikName": "УИК №3012",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 3013,
     "uikTvd": "4594030341889",
     "tikTvd": "25920002187746",
-    "tikName": "Пермь, Кировская"
+    "tikName": "Пермь, Кировская",
+    "uikName": "УИК №3013",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 3014,
     "uikTvd": "4594030341890",
     "tikTvd": "25920002187746",
-    "tikName": "Пермь, Кировская"
+    "tikName": "Пермь, Кировская",
+    "uikName": "УИК №3014",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 3015,
     "uikTvd": "4594030341891",
     "tikTvd": "25920002187746",
-    "tikName": "Пермь, Кировская"
+    "tikName": "Пермь, Кировская",
+    "uikName": "УИК №3015",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 3016,
     "uikTvd": "4594030341892",
     "tikTvd": "25920002187746",
-    "tikName": "Пермь, Кировская"
+    "tikName": "Пермь, Кировская",
+    "uikName": "УИК №3016",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 3017,
     "uikTvd": "4594030341893",
     "tikTvd": "25920002187746",
-    "tikName": "Пермь, Кировская"
+    "tikName": "Пермь, Кировская",
+    "uikName": "УИК №3017",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 3018,
     "uikTvd": "4594030341894",
     "tikTvd": "25920002187746",
-    "tikName": "Пермь, Кировская"
+    "tikName": "Пермь, Кировская",
+    "uikName": "УИК №3018",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 3019,
     "uikTvd": "4594030341895",
     "tikTvd": "25920002187746",
-    "tikName": "Пермь, Кировская"
+    "tikName": "Пермь, Кировская",
+    "uikName": "УИК №3019",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 3020,
     "uikTvd": "4594030341896",
     "tikTvd": "25920002187746",
-    "tikName": "Пермь, Кировская"
+    "tikName": "Пермь, Кировская",
+    "uikName": "УИК №3020",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 3021,
     "uikTvd": "4594030341897",
     "tikTvd": "25920002187746",
-    "tikName": "Пермь, Кировская"
+    "tikName": "Пермь, Кировская",
+    "uikName": "УИК №3021",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 3022,
     "uikTvd": "4594030341898",
     "tikTvd": "25920002187746",
-    "tikName": "Пермь, Кировская"
+    "tikName": "Пермь, Кировская",
+    "uikName": "УИК №3022",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 3023,
     "uikTvd": "4594030341899",
     "tikTvd": "25920002187746",
-    "tikName": "Пермь, Кировская"
+    "tikName": "Пермь, Кировская",
+    "uikName": "УИК №3023",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 3024,
     "uikTvd": "4594030341900",
     "tikTvd": "25920002187746",
-    "tikName": "Пермь, Кировская"
+    "tikName": "Пермь, Кировская",
+    "uikName": "УИК №3024",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 3025,
     "uikTvd": "4594030341901",
     "tikTvd": "25920002187746",
-    "tikName": "Пермь, Кировская"
+    "tikName": "Пермь, Кировская",
+    "uikName": "УИК №3025",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 3026,
     "uikTvd": "4594030341902",
     "tikTvd": "25920002187746",
-    "tikName": "Пермь, Кировская"
+    "tikName": "Пермь, Кировская",
+    "uikName": "УИК №3026",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 3027,
     "uikTvd": "4594030341903",
     "tikTvd": "25920002187746",
-    "tikName": "Пермь, Кировская"
+    "tikName": "Пермь, Кировская",
+    "uikName": "УИК №3027",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 3028,
     "uikTvd": "4594030341904",
     "tikTvd": "25920002187746",
-    "tikName": "Пермь, Кировская"
+    "tikName": "Пермь, Кировская",
+    "uikName": "УИК №3028",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 3029,
     "uikTvd": "4594030341905",
     "tikTvd": "25920002187746",
-    "tikName": "Пермь, Кировская"
+    "tikName": "Пермь, Кировская",
+    "uikName": "УИК №3029",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 3030,
     "uikTvd": "4594030341906",
     "tikTvd": "25920002187746",
-    "tikName": "Пермь, Кировская"
+    "tikName": "Пермь, Кировская",
+    "uikName": "УИК №3030",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 3031,
     "uikTvd": "4594030341907",
     "tikTvd": "25920002187746",
-    "tikName": "Пермь, Кировская"
+    "tikName": "Пермь, Кировская",
+    "uikName": "УИК №3031",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 3032,
     "uikTvd": "4594030341908",
     "tikTvd": "25920002187746",
-    "tikName": "Пермь, Кировская"
+    "tikName": "Пермь, Кировская",
+    "uikName": "УИК №3032",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 3033,
     "uikTvd": "4594030341909",
     "tikTvd": "25920002187746",
-    "tikName": "Пермь, Кировская"
+    "tikName": "Пермь, Кировская",
+    "uikName": "УИК №3033",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 3034,
     "uikTvd": "4594030341910",
     "tikTvd": "25920002187746",
-    "tikName": "Пермь, Кировская"
+    "tikName": "Пермь, Кировская",
+    "uikName": "УИК №3034",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 3035,
     "uikTvd": "4594030341911",
     "tikTvd": "25920002187746",
-    "tikName": "Пермь, Кировская"
+    "tikName": "Пермь, Кировская",
+    "uikName": "УИК №3035",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 3036,
     "uikTvd": "4594030341912",
     "tikTvd": "25920002187746",
-    "tikName": "Пермь, Кировская"
+    "tikName": "Пермь, Кировская",
+    "uikName": "УИК №3036",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 3037,
     "uikTvd": "4594030341913",
     "tikTvd": "25920002187746",
-    "tikName": "Пермь, Кировская"
+    "tikName": "Пермь, Кировская",
+    "uikName": "УИК №3037",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 3038,
     "uikTvd": "4594030341914",
     "tikTvd": "25920002187746",
-    "tikName": "Пермь, Кировская"
+    "tikName": "Пермь, Кировская",
+    "uikName": "УИК №3038",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 3039,
     "uikTvd": "4594030341915",
     "tikTvd": "25920002187746",
-    "tikName": "Пермь, Кировская"
+    "tikName": "Пермь, Кировская",
+    "uikName": "УИК №3039",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 3040,
     "uikTvd": "4594030341916",
     "tikTvd": "25920002187746",
-    "tikName": "Пермь, Кировская"
+    "tikName": "Пермь, Кировская",
+    "uikName": "УИК №3040",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 3041,
     "uikTvd": "4594030341917",
     "tikTvd": "25920002187746",
-    "tikName": "Пермь, Кировская"
+    "tikName": "Пермь, Кировская",
+    "uikName": "УИК №3041",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 3042,
     "uikTvd": "4594030341918",
     "tikTvd": "25920002187746",
-    "tikName": "Пермь, Кировская"
+    "tikName": "Пермь, Кировская",
+    "uikName": "УИК №3042",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 3043,
     "uikTvd": "4594030341919",
     "tikTvd": "25920002187746",
-    "tikName": "Пермь, Кировская"
+    "tikName": "Пермь, Кировская",
+    "uikName": "УИК №3043",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 3044,
     "uikTvd": "4594030341920",
     "tikTvd": "25920002187746",
-    "tikName": "Пермь, Кировская"
+    "tikName": "Пермь, Кировская",
+    "uikName": "УИК №3044",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 3045,
     "uikTvd": "4594030341921",
     "tikTvd": "25920002187746",
-    "tikName": "Пермь, Кировская"
+    "tikName": "Пермь, Кировская",
+    "uikName": "УИК №3045",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 3046,
     "uikTvd": "4594030341922",
     "tikTvd": "25920002187746",
-    "tikName": "Пермь, Кировская"
+    "tikName": "Пермь, Кировская",
+    "uikName": "УИК №3046",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 3047,
     "uikTvd": "4594030341923",
     "tikTvd": "25920002187746",
-    "tikName": "Пермь, Кировская"
+    "tikName": "Пермь, Кировская",
+    "uikName": "УИК №3047",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 3048,
     "uikTvd": "4594030341924",
     "tikTvd": "25920002187746",
-    "tikName": "Пермь, Кировская"
+    "tikName": "Пермь, Кировская",
+    "uikName": "УИК №3048",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 3049,
     "uikTvd": "4594030341925",
     "tikTvd": "25920002187746",
-    "tikName": "Пермь, Кировская"
+    "tikName": "Пермь, Кировская",
+    "uikName": "УИК №3049",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 3050,
     "uikTvd": "4594030341926",
     "tikTvd": "25920002187746",
-    "tikName": "Пермь, Кировская"
+    "tikName": "Пермь, Кировская",
+    "uikName": "УИК №3050",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 3051,
     "uikTvd": "4594030341927",
     "tikTvd": "25920002187746",
-    "tikName": "Пермь, Кировская"
+    "tikName": "Пермь, Кировская",
+    "uikName": "УИК №3051",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 3052,
     "uikTvd": "4594030341928",
     "tikTvd": "25920002187746",
-    "tikName": "Пермь, Кировская"
+    "tikName": "Пермь, Кировская",
+    "uikName": "УИК №3052",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 3053,
     "uikTvd": "4594030359958",
     "tikTvd": "25920002187746",
-    "tikName": "Пермь, Кировская"
+    "tikName": "Пермь, Кировская",
+    "uikName": "УИК №3053",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 3054,
     "uikTvd": "4594030359966",
     "tikTvd": "25920002187746",
-    "tikName": "Пермь, Кировская"
+    "tikName": "Пермь, Кировская",
+    "uikName": "УИК №3054",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 3055,
     "uikTvd": "4594030359967",
     "tikTvd": "25920002187746",
-    "tikName": "Пермь, Кировская"
+    "tikName": "Пермь, Кировская",
+    "uikName": "УИК №3055",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 3101,
     "uikTvd": "4594031294421",
     "tikTvd": "25920002187745",
-    "tikName": "Пермь, Ленинская"
+    "tikName": "Пермь, Ленинская",
+    "uikName": "УИК №3101",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 3102,
     "uikTvd": "4594031294422",
     "tikTvd": "25920002187745",
-    "tikName": "Пермь, Ленинская"
+    "tikName": "Пермь, Ленинская",
+    "uikName": "УИК №3102",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 3103,
     "uikTvd": "4594031294423",
     "tikTvd": "25920002187745",
-    "tikName": "Пермь, Ленинская"
+    "tikName": "Пермь, Ленинская",
+    "uikName": "УИК №3103",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 3104,
     "uikTvd": "4594031294424",
     "tikTvd": "25920002187745",
-    "tikName": "Пермь, Ленинская"
+    "tikName": "Пермь, Ленинская",
+    "uikName": "УИК №3104",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 3105,
     "uikTvd": "4594031294425",
     "tikTvd": "25920002187745",
-    "tikName": "Пермь, Ленинская"
+    "tikName": "Пермь, Ленинская",
+    "uikName": "УИК №3105",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 3106,
     "uikTvd": "4594031294426",
     "tikTvd": "25920002187745",
-    "tikName": "Пермь, Ленинская"
+    "tikName": "Пермь, Ленинская",
+    "uikName": "УИК №3106",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 3107,
     "uikTvd": "4594031294427",
     "tikTvd": "25920002187745",
-    "tikName": "Пермь, Ленинская"
+    "tikName": "Пермь, Ленинская",
+    "uikName": "УИК №3107",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 3108,
     "uikTvd": "4594031294428",
     "tikTvd": "25920002187745",
-    "tikName": "Пермь, Ленинская"
+    "tikName": "Пермь, Ленинская",
+    "uikName": "УИК №3108",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 3109,
     "uikTvd": "4594031294429",
     "tikTvd": "25920002187745",
-    "tikName": "Пермь, Ленинская"
+    "tikName": "Пермь, Ленинская",
+    "uikName": "УИК №3109",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 3110,
     "uikTvd": "4594031294430",
     "tikTvd": "25920002187745",
-    "tikName": "Пермь, Ленинская"
+    "tikName": "Пермь, Ленинская",
+    "uikName": "УИК №3110",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 3111,
     "uikTvd": "4594031294431",
     "tikTvd": "25920002187745",
-    "tikName": "Пермь, Ленинская"
+    "tikName": "Пермь, Ленинская",
+    "uikName": "УИК №3111",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 3112,
     "uikTvd": "4594031294432",
     "tikTvd": "25920002187745",
-    "tikName": "Пермь, Ленинская"
+    "tikName": "Пермь, Ленинская",
+    "uikName": "УИК №3112",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 3113,
     "uikTvd": "4594031294433",
     "tikTvd": "25920002187745",
-    "tikName": "Пермь, Ленинская"
+    "tikName": "Пермь, Ленинская",
+    "uikName": "УИК №3113",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 3114,
     "uikTvd": "4594031294434",
     "tikTvd": "25920002187745",
-    "tikName": "Пермь, Ленинская"
+    "tikName": "Пермь, Ленинская",
+    "uikName": "УИК №3114",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 3115,
     "uikTvd": "4594031294435",
     "tikTvd": "25920002187745",
-    "tikName": "Пермь, Ленинская"
+    "tikName": "Пермь, Ленинская",
+    "uikName": "УИК №3115",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 3116,
     "uikTvd": "4594031294436",
     "tikTvd": "25920002187745",
-    "tikName": "Пермь, Ленинская"
+    "tikName": "Пермь, Ленинская",
+    "uikName": "УИК №3116",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 3117,
     "uikTvd": "4594031294437",
     "tikTvd": "25920002187745",
-    "tikName": "Пермь, Ленинская"
+    "tikName": "Пермь, Ленинская",
+    "uikName": "УИК №3117",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 3118,
     "uikTvd": "4594031294438",
     "tikTvd": "25920002187745",
-    "tikName": "Пермь, Ленинская"
+    "tikName": "Пермь, Ленинская",
+    "uikName": "УИК №3118",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 3119,
     "uikTvd": "4594031294439",
     "tikTvd": "25920002187745",
-    "tikName": "Пермь, Ленинская"
+    "tikName": "Пермь, Ленинская",
+    "uikName": "УИК №3119",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 3120,
     "uikTvd": "4594031294440",
     "tikTvd": "25920002187745",
-    "tikName": "Пермь, Ленинская"
+    "tikName": "Пермь, Ленинская",
+    "uikName": "УИК №3120",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 3121,
     "uikTvd": "4594031294441",
     "tikTvd": "25920002187745",
-    "tikName": "Пермь, Ленинская"
+    "tikName": "Пермь, Ленинская",
+    "uikName": "УИК №3121",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 3122,
     "uikTvd": "4594031294442",
     "tikTvd": "25920002187745",
-    "tikName": "Пермь, Ленинская"
+    "tikName": "Пермь, Ленинская",
+    "uikName": "УИК №3122",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 3123,
     "uikTvd": "4594031294443",
     "tikTvd": "25920002187745",
-    "tikName": "Пермь, Ленинская"
+    "tikName": "Пермь, Ленинская",
+    "uikName": "УИК №3123",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 3124,
     "uikTvd": "4594031294444",
     "tikTvd": "25920002187745",
-    "tikName": "Пермь, Ленинская"
+    "tikName": "Пермь, Ленинская",
+    "uikName": "УИК №3124",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 3125,
     "uikTvd": "4594031335490",
     "tikTvd": "25920002187745",
-    "tikName": "Пермь, Ленинская"
+    "tikName": "Пермь, Ленинская",
+    "uikName": "УИК №3125",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 3126,
     "uikTvd": "4594031335492",
     "tikTvd": "25920002187745",
-    "tikName": "Пермь, Ленинская"
+    "tikName": "Пермь, Ленинская",
+    "uikName": "УИК №3126",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 3127,
     "uikTvd": "4594031335494",
     "tikTvd": "25920002187745",
-    "tikName": "Пермь, Ленинская"
+    "tikName": "Пермь, Ленинская",
+    "uikName": "УИК №3127",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 3128,
     "uikTvd": "4594031335496",
     "tikTvd": "25920002187745",
-    "tikName": "Пермь, Ленинская"
+    "tikName": "Пермь, Ленинская",
+    "uikName": "УИК №3128",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 3129,
     "uikTvd": "4594031335498",
     "tikTvd": "25920002187745",
-    "tikName": "Пермь, Ленинская"
+    "tikName": "Пермь, Ленинская",
+    "uikName": "УИК №3129",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 3201,
     "uikTvd": "4594032841836",
     "tikTvd": "25920002187758",
-    "tikName": "Пермь, Мотовилихинская"
+    "tikName": "Пермь, Мотовилихинская",
+    "uikName": "УИК №3201",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 3202,
     "uikTvd": "4594032841837",
     "tikTvd": "25920002187758",
-    "tikName": "Пермь, Мотовилихинская"
+    "tikName": "Пермь, Мотовилихинская",
+    "uikName": "УИК №3202",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 3203,
     "uikTvd": "4594032841838",
     "tikTvd": "25920002187758",
-    "tikName": "Пермь, Мотовилихинская"
+    "tikName": "Пермь, Мотовилихинская",
+    "uikName": "УИК №3203",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 3204,
     "uikTvd": "4594032841839",
     "tikTvd": "25920002187758",
-    "tikName": "Пермь, Мотовилихинская"
+    "tikName": "Пермь, Мотовилихинская",
+    "uikName": "УИК №3204",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 3205,
     "uikTvd": "4594032841840",
     "tikTvd": "25920002187758",
-    "tikName": "Пермь, Мотовилихинская"
+    "tikName": "Пермь, Мотовилихинская",
+    "uikName": "УИК №3205",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 3206,
     "uikTvd": "4594032841841",
     "tikTvd": "25920002187758",
-    "tikName": "Пермь, Мотовилихинская"
+    "tikName": "Пермь, Мотовилихинская",
+    "uikName": "УИК №3206",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 3207,
     "uikTvd": "4594032841842",
     "tikTvd": "25920002187758",
-    "tikName": "Пермь, Мотовилихинская"
+    "tikName": "Пермь, Мотовилихинская",
+    "uikName": "УИК №3207",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 3208,
     "uikTvd": "4594032841843",
     "tikTvd": "25920002187758",
-    "tikName": "Пермь, Мотовилихинская"
+    "tikName": "Пермь, Мотовилихинская",
+    "uikName": "УИК №3208",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 3209,
     "uikTvd": "4594032841844",
     "tikTvd": "25920002187758",
-    "tikName": "Пермь, Мотовилихинская"
+    "tikName": "Пермь, Мотовилихинская",
+    "uikName": "УИК №3209",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 3210,
     "uikTvd": "4594032841845",
     "tikTvd": "25920002187758",
-    "tikName": "Пермь, Мотовилихинская"
+    "tikName": "Пермь, Мотовилихинская",
+    "uikName": "УИК №3210",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 3211,
     "uikTvd": "4594032841846",
     "tikTvd": "25920002187758",
-    "tikName": "Пермь, Мотовилихинская"
+    "tikName": "Пермь, Мотовилихинская",
+    "uikName": "УИК №3211",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 3212,
     "uikTvd": "4594032841847",
     "tikTvd": "25920002187758",
-    "tikName": "Пермь, Мотовилихинская"
+    "tikName": "Пермь, Мотовилихинская",
+    "uikName": "УИК №3212",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 3213,
     "uikTvd": "4594032841848",
     "tikTvd": "25920002187758",
-    "tikName": "Пермь, Мотовилихинская"
+    "tikName": "Пермь, Мотовилихинская",
+    "uikName": "УИК №3213",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 3214,
     "uikTvd": "4594032841849",
     "tikTvd": "25920002187758",
-    "tikName": "Пермь, Мотовилихинская"
+    "tikName": "Пермь, Мотовилихинская",
+    "uikName": "УИК №3214",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 3215,
     "uikTvd": "4594032841850",
     "tikTvd": "25920002187758",
-    "tikName": "Пермь, Мотовилихинская"
+    "tikName": "Пермь, Мотовилихинская",
+    "uikName": "УИК №3215",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 3216,
     "uikTvd": "4594032841851",
     "tikTvd": "25920002187758",
-    "tikName": "Пермь, Мотовилихинская"
+    "tikName": "Пермь, Мотовилихинская",
+    "uikName": "УИК №3216",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 3217,
     "uikTvd": "4594032841852",
     "tikTvd": "25920002187758",
-    "tikName": "Пермь, Мотовилихинская"
+    "tikName": "Пермь, Мотовилихинская",
+    "uikName": "УИК №3217",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 3218,
     "uikTvd": "4594032841853",
     "tikTvd": "25920002187758",
-    "tikName": "Пермь, Мотовилихинская"
+    "tikName": "Пермь, Мотовилихинская",
+    "uikName": "УИК №3218",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 3219,
     "uikTvd": "4594032841854",
     "tikTvd": "25920002187758",
-    "tikName": "Пермь, Мотовилихинская"
+    "tikName": "Пермь, Мотовилихинская",
+    "uikName": "УИК №3219",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 3220,
     "uikTvd": "4594032841855",
     "tikTvd": "25920002187758",
-    "tikName": "Пермь, Мотовилихинская"
+    "tikName": "Пермь, Мотовилихинская",
+    "uikName": "УИК №3220",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 3221,
     "uikTvd": "4594032841856",
     "tikTvd": "25920002187758",
-    "tikName": "Пермь, Мотовилихинская"
+    "tikName": "Пермь, Мотовилихинская",
+    "uikName": "УИК №3221",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 3222,
     "uikTvd": "4594032841857",
     "tikTvd": "25920002187758",
-    "tikName": "Пермь, Мотовилихинская"
+    "tikName": "Пермь, Мотовилихинская",
+    "uikName": "УИК №3222",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 3223,
     "uikTvd": "4594032841858",
     "tikTvd": "25920002187758",
-    "tikName": "Пермь, Мотовилихинская"
+    "tikName": "Пермь, Мотовилихинская",
+    "uikName": "УИК №3223",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 3224,
     "uikTvd": "4594032841859",
     "tikTvd": "25920002187758",
-    "tikName": "Пермь, Мотовилихинская"
+    "tikName": "Пермь, Мотовилихинская",
+    "uikName": "УИК №3224",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 3225,
     "uikTvd": "4594032841860",
     "tikTvd": "25920002187758",
-    "tikName": "Пермь, Мотовилихинская"
+    "tikName": "Пермь, Мотовилихинская",
+    "uikName": "УИК №3225",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 3226,
     "uikTvd": "4594032841861",
     "tikTvd": "25920002187758",
-    "tikName": "Пермь, Мотовилихинская"
+    "tikName": "Пермь, Мотовилихинская",
+    "uikName": "УИК №3226",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 3227,
     "uikTvd": "4594032841862",
     "tikTvd": "25920002187758",
-    "tikName": "Пермь, Мотовилихинская"
+    "tikName": "Пермь, Мотовилихинская",
+    "uikName": "УИК №3227",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 3228,
     "uikTvd": "4594032841863",
     "tikTvd": "25920002187758",
-    "tikName": "Пермь, Мотовилихинская"
+    "tikName": "Пермь, Мотовилихинская",
+    "uikName": "УИК №3228",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 3229,
     "uikTvd": "4594032841864",
     "tikTvd": "25920002187758",
-    "tikName": "Пермь, Мотовилихинская"
+    "tikName": "Пермь, Мотовилихинская",
+    "uikName": "УИК №3229",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 3230,
     "uikTvd": "4594032841865",
     "tikTvd": "25920002187758",
-    "tikName": "Пермь, Мотовилихинская"
+    "tikName": "Пермь, Мотовилихинская",
+    "uikName": "УИК №3230",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 3231,
     "uikTvd": "4594032841866",
     "tikTvd": "25920002187758",
-    "tikName": "Пермь, Мотовилихинская"
+    "tikName": "Пермь, Мотовилихинская",
+    "uikName": "УИК №3231",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 3232,
     "uikTvd": "4594032841867",
     "tikTvd": "25920002187758",
-    "tikName": "Пермь, Мотовилихинская"
+    "tikName": "Пермь, Мотовилихинская",
+    "uikName": "УИК №3232",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 3233,
     "uikTvd": "4594032841868",
     "tikTvd": "25920002187758",
-    "tikName": "Пермь, Мотовилихинская"
+    "tikName": "Пермь, Мотовилихинская",
+    "uikName": "УИК №3233",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 3234,
     "uikTvd": "4594032841869",
     "tikTvd": "25920002187758",
-    "tikName": "Пермь, Мотовилихинская"
+    "tikName": "Пермь, Мотовилихинская",
+    "uikName": "УИК №3234",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 3235,
     "uikTvd": "4594032841870",
     "tikTvd": "25920002187758",
-    "tikName": "Пермь, Мотовилихинская"
+    "tikName": "Пермь, Мотовилихинская",
+    "uikName": "УИК №3235",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 3236,
     "uikTvd": "4594032841871",
     "tikTvd": "25920002187758",
-    "tikName": "Пермь, Мотовилихинская"
+    "tikName": "Пермь, Мотовилихинская",
+    "uikName": "УИК №3236",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 3237,
     "uikTvd": "4594032841872",
     "tikTvd": "25920002187758",
-    "tikName": "Пермь, Мотовилихинская"
+    "tikName": "Пермь, Мотовилихинская",
+    "uikName": "УИК №3237",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 3238,
     "uikTvd": "4594032841873",
     "tikTvd": "25920002187758",
-    "tikName": "Пермь, Мотовилихинская"
+    "tikName": "Пермь, Мотовилихинская",
+    "uikName": "УИК №3238",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 3239,
     "uikTvd": "4594032841874",
     "tikTvd": "25920002187758",
-    "tikName": "Пермь, Мотовилихинская"
+    "tikName": "Пермь, Мотовилихинская",
+    "uikName": "УИК №3239",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 3240,
     "uikTvd": "4594032841875",
     "tikTvd": "25920002187758",
-    "tikName": "Пермь, Мотовилихинская"
+    "tikName": "Пермь, Мотовилихинская",
+    "uikName": "УИК №3240",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 3241,
     "uikTvd": "4594032841876",
     "tikTvd": "25920002187758",
-    "tikName": "Пермь, Мотовилихинская"
+    "tikName": "Пермь, Мотовилихинская",
+    "uikName": "УИК №3241",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 3242,
     "uikTvd": "4594032841877",
     "tikTvd": "25920002187758",
-    "tikName": "Пермь, Мотовилихинская"
+    "tikName": "Пермь, Мотовилихинская",
+    "uikName": "УИК №3242",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 3243,
     "uikTvd": "4594032841878",
     "tikTvd": "25920002187758",
-    "tikName": "Пермь, Мотовилихинская"
+    "tikName": "Пермь, Мотовилихинская",
+    "uikName": "УИК №3243",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 3244,
     "uikTvd": "4594032841879",
     "tikTvd": "25920002187758",
-    "tikName": "Пермь, Мотовилихинская"
+    "tikName": "Пермь, Мотовилихинская",
+    "uikName": "УИК №3244",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 3245,
     "uikTvd": "4594032841880",
     "tikTvd": "25920002187758",
-    "tikName": "Пермь, Мотовилихинская"
+    "tikName": "Пермь, Мотовилихинская",
+    "uikName": "УИК №3245",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 3246,
     "uikTvd": "4594032841881",
     "tikTvd": "25920002187758",
-    "tikName": "Пермь, Мотовилихинская"
+    "tikName": "Пермь, Мотовилихинская",
+    "uikName": "УИК №3246",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 3247,
     "uikTvd": "4594032841882",
     "tikTvd": "25920002187758",
-    "tikName": "Пермь, Мотовилихинская"
+    "tikName": "Пермь, Мотовилихинская",
+    "uikName": "УИК №3247",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 3248,
     "uikTvd": "4594032841883",
     "tikTvd": "25920002187758",
-    "tikName": "Пермь, Мотовилихинская"
+    "tikName": "Пермь, Мотовилихинская",
+    "uikName": "УИК №3248",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 3249,
     "uikTvd": "4594032841884",
     "tikTvd": "25920002187758",
-    "tikName": "Пермь, Мотовилихинская"
+    "tikName": "Пермь, Мотовилихинская",
+    "uikName": "УИК №3249",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 3250,
     "uikTvd": "4594032841885",
     "tikTvd": "25920002187758",
-    "tikName": "Пермь, Мотовилихинская"
+    "tikName": "Пермь, Мотовилихинская",
+    "uikName": "УИК №3250",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 3251,
     "uikTvd": "4594032841886",
     "tikTvd": "25920002187758",
-    "tikName": "Пермь, Мотовилихинская"
+    "tikName": "Пермь, Мотовилихинская",
+    "uikName": "УИК №3251",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 3252,
     "uikTvd": "4594032841887",
     "tikTvd": "25920002187758",
-    "tikName": "Пермь, Мотовилихинская"
+    "tikName": "Пермь, Мотовилихинская",
+    "uikName": "УИК №3252",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 3253,
     "uikTvd": "4594032841888",
     "tikTvd": "25920002187758",
-    "tikName": "Пермь, Мотовилихинская"
+    "tikName": "Пермь, Мотовилихинская",
+    "uikName": "УИК №3253",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 3254,
     "uikTvd": "4594032841889",
     "tikTvd": "25920002187758",
-    "tikName": "Пермь, Мотовилихинская"
+    "tikName": "Пермь, Мотовилихинская",
+    "uikName": "УИК №3254",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 3255,
     "uikTvd": "4594032841890",
     "tikTvd": "25920002187758",
-    "tikName": "Пермь, Мотовилихинская"
+    "tikName": "Пермь, Мотовилихинская",
+    "uikName": "УИК №3255",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 3256,
     "uikTvd": "4594032841891",
     "tikTvd": "25920002187758",
-    "tikName": "Пермь, Мотовилихинская"
+    "tikName": "Пермь, Мотовилихинская",
+    "uikName": "УИК №3256",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 3257,
     "uikTvd": "4594032841892",
     "tikTvd": "25920002187758",
-    "tikName": "Пермь, Мотовилихинская"
+    "tikName": "Пермь, Мотовилихинская",
+    "uikName": "УИК №3257",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 3258,
     "uikTvd": "4594032841893",
     "tikTvd": "25920002187758",
-    "tikName": "Пермь, Мотовилихинская"
+    "tikName": "Пермь, Мотовилихинская",
+    "uikName": "УИК №3258",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 3259,
     "uikTvd": "4594032841894",
     "tikTvd": "25920002187758",
-    "tikName": "Пермь, Мотовилихинская"
+    "tikName": "Пермь, Мотовилихинская",
+    "uikName": "УИК №3259",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 3260,
     "uikTvd": "4594032841895",
     "tikTvd": "25920002187758",
-    "tikName": "Пермь, Мотовилихинская"
+    "tikName": "Пермь, Мотовилихинская",
+    "uikName": "УИК №3260",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 3261,
     "uikTvd": "4594032841896",
     "tikTvd": "25920002187758",
-    "tikName": "Пермь, Мотовилихинская"
+    "tikName": "Пермь, Мотовилихинская",
+    "uikName": "УИК №3261",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 3262,
     "uikTvd": "4594032841897",
     "tikTvd": "25920002187758",
-    "tikName": "Пермь, Мотовилихинская"
+    "tikName": "Пермь, Мотовилихинская",
+    "uikName": "УИК №3262",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 3263,
     "uikTvd": "4594032841898",
     "tikTvd": "25920002187758",
-    "tikName": "Пермь, Мотовилихинская"
+    "tikName": "Пермь, Мотовилихинская",
+    "uikName": "УИК №3263",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 3264,
     "uikTvd": "4594032841899",
     "tikTvd": "25920002187758",
-    "tikName": "Пермь, Мотовилихинская"
+    "tikName": "Пермь, Мотовилихинская",
+    "uikName": "УИК №3264",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 3265,
     "uikTvd": "4594032841900",
     "tikTvd": "25920002187758",
-    "tikName": "Пермь, Мотовилихинская"
+    "tikName": "Пермь, Мотовилихинская",
+    "uikName": "УИК №3265",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 3266,
     "uikTvd": "4594032841901",
     "tikTvd": "25920002187758",
-    "tikName": "Пермь, Мотовилихинская"
+    "tikName": "Пермь, Мотовилихинская",
+    "uikName": "УИК №3266",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 3267,
     "uikTvd": "4594032841902",
     "tikTvd": "25920002187758",
-    "tikName": "Пермь, Мотовилихинская"
+    "tikName": "Пермь, Мотовилихинская",
+    "uikName": "УИК №3267",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 3268,
     "uikTvd": "4594032841903",
     "tikTvd": "25920002187758",
-    "tikName": "Пермь, Мотовилихинская"
+    "tikName": "Пермь, Мотовилихинская",
+    "uikName": "УИК №3268",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 3269,
     "uikTvd": "4594032841904",
     "tikTvd": "25920002187758",
-    "tikName": "Пермь, Мотовилихинская"
+    "tikName": "Пермь, Мотовилихинская",
+    "uikName": "УИК №3269",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 3270,
     "uikTvd": "4594032841905",
     "tikTvd": "25920002187758",
-    "tikName": "Пермь, Мотовилихинская"
+    "tikName": "Пермь, Мотовилихинская",
+    "uikName": "УИК №3270",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 3271,
     "uikTvd": "4594032841906",
     "tikTvd": "25920002187758",
-    "tikName": "Пермь, Мотовилихинская"
+    "tikName": "Пермь, Мотовилихинская",
+    "uikName": "УИК №3271",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 3272,
     "uikTvd": "4594032841907",
     "tikTvd": "25920002187758",
-    "tikName": "Пермь, Мотовилихинская"
+    "tikName": "Пермь, Мотовилихинская",
+    "uikName": "УИК №3272",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 3273,
     "uikTvd": "4594032952543",
     "tikTvd": "25920002187758",
-    "tikName": "Пермь, Мотовилихинская"
+    "tikName": "Пермь, Мотовилихинская",
+    "uikName": "УИК №3273",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 3274,
     "uikTvd": "4594032952544",
     "tikTvd": "25920002187758",
-    "tikName": "Пермь, Мотовилихинская"
+    "tikName": "Пермь, Мотовилихинская",
+    "uikName": "УИК №3274",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 3301,
     "uikTvd": "4594033606398",
     "tikTvd": "25920002187757",
-    "tikName": "Пермь, Орджоникидзевская"
+    "tikName": "Пермь, Орджоникидзевская",
+    "uikName": "УИК №3301",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 3302,
     "uikTvd": "4594033606399",
     "tikTvd": "25920002187757",
-    "tikName": "Пермь, Орджоникидзевская"
+    "tikName": "Пермь, Орджоникидзевская",
+    "uikName": "УИК №3302",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 3303,
     "uikTvd": "4594033606400",
     "tikTvd": "25920002187757",
-    "tikName": "Пермь, Орджоникидзевская"
+    "tikName": "Пермь, Орджоникидзевская",
+    "uikName": "УИК №3303",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 3304,
     "uikTvd": "4594033606401",
     "tikTvd": "25920002187757",
-    "tikName": "Пермь, Орджоникидзевская"
+    "tikName": "Пермь, Орджоникидзевская",
+    "uikName": "УИК №3304",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 3305,
     "uikTvd": "4594033606402",
     "tikTvd": "25920002187757",
-    "tikName": "Пермь, Орджоникидзевская"
+    "tikName": "Пермь, Орджоникидзевская",
+    "uikName": "УИК №3305",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 3306,
     "uikTvd": "4594033606403",
     "tikTvd": "25920002187757",
-    "tikName": "Пермь, Орджоникидзевская"
+    "tikName": "Пермь, Орджоникидзевская",
+    "uikName": "УИК №3306",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 3307,
     "uikTvd": "4594033606404",
     "tikTvd": "25920002187757",
-    "tikName": "Пермь, Орджоникидзевская"
+    "tikName": "Пермь, Орджоникидзевская",
+    "uikName": "УИК №3307",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 3308,
     "uikTvd": "4594033606405",
     "tikTvd": "25920002187757",
-    "tikName": "Пермь, Орджоникидзевская"
+    "tikName": "Пермь, Орджоникидзевская",
+    "uikName": "УИК №3308",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 3309,
     "uikTvd": "4594033606406",
     "tikTvd": "25920002187757",
-    "tikName": "Пермь, Орджоникидзевская"
+    "tikName": "Пермь, Орджоникидзевская",
+    "uikName": "УИК №3309",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 3310,
     "uikTvd": "4594033606407",
     "tikTvd": "25920002187757",
-    "tikName": "Пермь, Орджоникидзевская"
+    "tikName": "Пермь, Орджоникидзевская",
+    "uikName": "УИК №3310",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 3311,
     "uikTvd": "4594033606408",
     "tikTvd": "25920002187757",
-    "tikName": "Пермь, Орджоникидзевская"
+    "tikName": "Пермь, Орджоникидзевская",
+    "uikName": "УИК №3311",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 3312,
     "uikTvd": "4594033606409",
     "tikTvd": "25920002187757",
-    "tikName": "Пермь, Орджоникидзевская"
+    "tikName": "Пермь, Орджоникидзевская",
+    "uikName": "УИК №3312",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 3313,
     "uikTvd": "4594033606410",
     "tikTvd": "25920002187757",
-    "tikName": "Пермь, Орджоникидзевская"
+    "tikName": "Пермь, Орджоникидзевская",
+    "uikName": "УИК №3313",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 3314,
     "uikTvd": "4594033606411",
     "tikTvd": "25920002187757",
-    "tikName": "Пермь, Орджоникидзевская"
+    "tikName": "Пермь, Орджоникидзевская",
+    "uikName": "УИК №3314",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 3315,
     "uikTvd": "4594033606412",
     "tikTvd": "25920002187757",
-    "tikName": "Пермь, Орджоникидзевская"
+    "tikName": "Пермь, Орджоникидзевская",
+    "uikName": "УИК №3315",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 3316,
     "uikTvd": "4594033606413",
     "tikTvd": "25920002187757",
-    "tikName": "Пермь, Орджоникидзевская"
+    "tikName": "Пермь, Орджоникидзевская",
+    "uikName": "УИК №3316",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 3317,
     "uikTvd": "4594033606414",
     "tikTvd": "25920002187757",
-    "tikName": "Пермь, Орджоникидзевская"
+    "tikName": "Пермь, Орджоникидзевская",
+    "uikName": "УИК №3317",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 3318,
     "uikTvd": "4594033606415",
     "tikTvd": "25920002187757",
-    "tikName": "Пермь, Орджоникидзевская"
+    "tikName": "Пермь, Орджоникидзевская",
+    "uikName": "УИК №3318",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 3319,
     "uikTvd": "4594033606416",
     "tikTvd": "25920002187757",
-    "tikName": "Пермь, Орджоникидзевская"
+    "tikName": "Пермь, Орджоникидзевская",
+    "uikName": "УИК №3319",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 3320,
     "uikTvd": "4594033606417",
     "tikTvd": "25920002187757",
-    "tikName": "Пермь, Орджоникидзевская"
+    "tikName": "Пермь, Орджоникидзевская",
+    "uikName": "УИК №3320",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 3321,
     "uikTvd": "4594033606418",
     "tikTvd": "25920002187757",
-    "tikName": "Пермь, Орджоникидзевская"
+    "tikName": "Пермь, Орджоникидзевская",
+    "uikName": "УИК №3321",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 3322,
     "uikTvd": "4594033606419",
     "tikTvd": "25920002187757",
-    "tikName": "Пермь, Орджоникидзевская"
+    "tikName": "Пермь, Орджоникидзевская",
+    "uikName": "УИК №3322",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 3323,
     "uikTvd": "4594033606420",
     "tikTvd": "25920002187757",
-    "tikName": "Пермь, Орджоникидзевская"
+    "tikName": "Пермь, Орджоникидзевская",
+    "uikName": "УИК №3323",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 3324,
     "uikTvd": "4594033606421",
     "tikTvd": "25920002187757",
-    "tikName": "Пермь, Орджоникидзевская"
+    "tikName": "Пермь, Орджоникидзевская",
+    "uikName": "УИК №3324",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 3325,
     "uikTvd": "4594033606422",
     "tikTvd": "25920002187757",
-    "tikName": "Пермь, Орджоникидзевская"
+    "tikName": "Пермь, Орджоникидзевская",
+    "uikName": "УИК №3325",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 3326,
     "uikTvd": "4594033606423",
     "tikTvd": "25920002187757",
-    "tikName": "Пермь, Орджоникидзевская"
+    "tikName": "Пермь, Орджоникидзевская",
+    "uikName": "УИК №3326",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 3327,
     "uikTvd": "4594033606424",
     "tikTvd": "25920002187757",
-    "tikName": "Пермь, Орджоникидзевская"
+    "tikName": "Пермь, Орджоникидзевская",
+    "uikName": "УИК №3327",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 3328,
     "uikTvd": "4594033606425",
     "tikTvd": "25920002187757",
-    "tikName": "Пермь, Орджоникидзевская"
+    "tikName": "Пермь, Орджоникидзевская",
+    "uikName": "УИК №3328",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 3329,
     "uikTvd": "4594033606426",
     "tikTvd": "25920002187757",
-    "tikName": "Пермь, Орджоникидзевская"
+    "tikName": "Пермь, Орджоникидзевская",
+    "uikName": "УИК №3329",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 3330,
     "uikTvd": "4594033606427",
     "tikTvd": "25920002187757",
-    "tikName": "Пермь, Орджоникидзевская"
+    "tikName": "Пермь, Орджоникидзевская",
+    "uikName": "УИК №3330",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 3331,
     "uikTvd": "4594033606428",
     "tikTvd": "25920002187757",
-    "tikName": "Пермь, Орджоникидзевская"
+    "tikName": "Пермь, Орджоникидзевская",
+    "uikName": "УИК №3331",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 3332,
     "uikTvd": "4594033606429",
     "tikTvd": "25920002187757",
-    "tikName": "Пермь, Орджоникидзевская"
+    "tikName": "Пермь, Орджоникидзевская",
+    "uikName": "УИК №3332",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 3333,
     "uikTvd": "4594033606430",
     "tikTvd": "25920002187757",
-    "tikName": "Пермь, Орджоникидзевская"
+    "tikName": "Пермь, Орджоникидзевская",
+    "uikName": "УИК №3333",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 3334,
     "uikTvd": "4594033606431",
     "tikTvd": "25920002187757",
-    "tikName": "Пермь, Орджоникидзевская"
+    "tikName": "Пермь, Орджоникидзевская",
+    "uikName": "УИК №3334",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 3335,
     "uikTvd": "4594033606432",
     "tikTvd": "25920002187757",
-    "tikName": "Пермь, Орджоникидзевская"
+    "tikName": "Пермь, Орджоникидзевская",
+    "uikName": "УИК №3335",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 3336,
     "uikTvd": "4594033606433",
     "tikTvd": "25920002187757",
-    "tikName": "Пермь, Орджоникидзевская"
+    "tikName": "Пермь, Орджоникидзевская",
+    "uikName": "УИК №3336",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 3337,
     "uikTvd": "4594033606434",
     "tikTvd": "25920002187757",
-    "tikName": "Пермь, Орджоникидзевская"
+    "tikName": "Пермь, Орджоникидзевская",
+    "uikName": "УИК №3337",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 3338,
     "uikTvd": "4594033606435",
     "tikTvd": "25920002187757",
-    "tikName": "Пермь, Орджоникидзевская"
+    "tikName": "Пермь, Орджоникидзевская",
+    "uikName": "УИК №3338",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 3339,
     "uikTvd": "4594033606436",
     "tikTvd": "25920002187757",
-    "tikName": "Пермь, Орджоникидзевская"
+    "tikName": "Пермь, Орджоникидзевская",
+    "uikName": "УИК №3339",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 3340,
     "uikTvd": "4594033606437",
     "tikTvd": "25920002187757",
-    "tikName": "Пермь, Орджоникидзевская"
+    "tikName": "Пермь, Орджоникидзевская",
+    "uikName": "УИК №3340",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 3341,
     "uikTvd": "4594033606438",
     "tikTvd": "25920002187757",
-    "tikName": "Пермь, Орджоникидзевская"
+    "tikName": "Пермь, Орджоникидзевская",
+    "uikName": "УИК №3341",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 3342,
     "uikTvd": "4594033606439",
     "tikTvd": "25920002187757",
-    "tikName": "Пермь, Орджоникидзевская"
+    "tikName": "Пермь, Орджоникидзевская",
+    "uikName": "УИК №3342",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 3343,
     "uikTvd": "4594033606440",
     "tikTvd": "25920002187757",
-    "tikName": "Пермь, Орджоникидзевская"
+    "tikName": "Пермь, Орджоникидзевская",
+    "uikName": "УИК №3343",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 3344,
     "uikTvd": "4594033606441",
     "tikTvd": "25920002187757",
-    "tikName": "Пермь, Орджоникидзевская"
+    "tikName": "Пермь, Орджоникидзевская",
+    "uikName": "УИК №3344",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 3345,
     "uikTvd": "4594033606442",
     "tikTvd": "25920002187757",
-    "tikName": "Пермь, Орджоникидзевская"
+    "tikName": "Пермь, Орджоникидзевская",
+    "uikName": "УИК №3345",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 3346,
     "uikTvd": "4594033606443",
     "tikTvd": "25920002187757",
-    "tikName": "Пермь, Орджоникидзевская"
+    "tikName": "Пермь, Орджоникидзевская",
+    "uikName": "УИК №3346",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 3347,
     "uikTvd": "4594033606444",
     "tikTvd": "25920002187757",
-    "tikName": "Пермь, Орджоникидзевская"
+    "tikName": "Пермь, Орджоникидзевская",
+    "uikName": "УИК №3347",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 3348,
     "uikTvd": "4594033606445",
     "tikTvd": "25920002187757",
-    "tikName": "Пермь, Орджоникидзевская"
+    "tikName": "Пермь, Орджоникидзевская",
+    "uikName": "УИК №3348",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 3349,
     "uikTvd": "4594033606446",
     "tikTvd": "25920002187757",
-    "tikName": "Пермь, Орджоникидзевская"
+    "tikName": "Пермь, Орджоникидзевская",
+    "uikName": "УИК №3349",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 3350,
     "uikTvd": "4594033606447",
     "tikTvd": "25920002187757",
-    "tikName": "Пермь, Орджоникидзевская"
+    "tikName": "Пермь, Орджоникидзевская",
+    "uikName": "УИК №3350",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 3351,
     "uikTvd": "4594033606448",
     "tikTvd": "25920002187757",
-    "tikName": "Пермь, Орджоникидзевская"
+    "tikName": "Пермь, Орджоникидзевская",
+    "uikName": "УИК №3351",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 3352,
     "uikTvd": "4594033606449",
     "tikTvd": "25920002187757",
-    "tikName": "Пермь, Орджоникидзевская"
+    "tikName": "Пермь, Орджоникидзевская",
+    "uikName": "УИК №3352",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 3353,
     "uikTvd": "4594033606450",
     "tikTvd": "25920002187757",
-    "tikName": "Пермь, Орджоникидзевская"
+    "tikName": "Пермь, Орджоникидзевская",
+    "uikName": "УИК №3353",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 3354,
     "uikTvd": "4594033606451",
     "tikTvd": "25920002187757",
-    "tikName": "Пермь, Орджоникидзевская"
+    "tikName": "Пермь, Орджоникидзевская",
+    "uikName": "УИК №3354",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 3355,
     "uikTvd": "4594033616466",
     "tikTvd": "25920002187757",
-    "tikName": "Пермь, Орджоникидзевская"
+    "tikName": "Пермь, Орджоникидзевская",
+    "uikName": "УИК №3355",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 3401,
     "uikTvd": "4594048194972",
     "tikTvd": "25920002187768",
-    "tikName": "Пермь, Свердловская № 1"
+    "tikName": "Пермь, Свердловская № 1",
+    "uikName": "УИК №3401",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 3402,
     "uikTvd": "4594048194973",
     "tikTvd": "25920002187768",
-    "tikName": "Пермь, Свердловская № 1"
+    "tikName": "Пермь, Свердловская № 1",
+    "uikName": "УИК №3402",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 3403,
     "uikTvd": "4594048194974",
     "tikTvd": "25920002187768",
-    "tikName": "Пермь, Свердловская № 1"
+    "tikName": "Пермь, Свердловская № 1",
+    "uikName": "УИК №3403",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 3404,
     "uikTvd": "4594048194975",
     "tikTvd": "25920002187768",
-    "tikName": "Пермь, Свердловская № 1"
+    "tikName": "Пермь, Свердловская № 1",
+    "uikName": "УИК №3404",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 3405,
     "uikTvd": "4594048194976",
     "tikTvd": "25920002187768",
-    "tikName": "Пермь, Свердловская № 1"
+    "tikName": "Пермь, Свердловская № 1",
+    "uikName": "УИК №3405",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 3406,
     "uikTvd": "4594048194977",
     "tikTvd": "25920002187768",
-    "tikName": "Пермь, Свердловская № 1"
+    "tikName": "Пермь, Свердловская № 1",
+    "uikName": "УИК №3406",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 3407,
     "uikTvd": "4594048194978",
     "tikTvd": "25920002187768",
-    "tikName": "Пермь, Свердловская № 1"
+    "tikName": "Пермь, Свердловская № 1",
+    "uikName": "УИК №3407",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 3408,
     "uikTvd": "4594048194979",
     "tikTvd": "25920002187768",
-    "tikName": "Пермь, Свердловская № 1"
+    "tikName": "Пермь, Свердловская № 1",
+    "uikName": "УИК №3408",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 3409,
     "uikTvd": "4594048194980",
     "tikTvd": "25920002187768",
-    "tikName": "Пермь, Свердловская № 1"
+    "tikName": "Пермь, Свердловская № 1",
+    "uikName": "УИК №3409",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 3410,
     "uikTvd": "4594048194981",
     "tikTvd": "25920002187768",
-    "tikName": "Пермь, Свердловская № 1"
+    "tikName": "Пермь, Свердловская № 1",
+    "uikName": "УИК №3410",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 3411,
     "uikTvd": "4594048194982",
     "tikTvd": "25920002187768",
-    "tikName": "Пермь, Свердловская № 1"
+    "tikName": "Пермь, Свердловская № 1",
+    "uikName": "УИК №3411",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 3412,
     "uikTvd": "4594048194983",
     "tikTvd": "25920002187768",
-    "tikName": "Пермь, Свердловская № 1"
+    "tikName": "Пермь, Свердловская № 1",
+    "uikName": "УИК №3412",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 3413,
     "uikTvd": "4594048194984",
     "tikTvd": "25920002187768",
-    "tikName": "Пермь, Свердловская № 1"
+    "tikName": "Пермь, Свердловская № 1",
+    "uikName": "УИК №3413",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 3414,
     "uikTvd": "4594048194985",
     "tikTvd": "25920002187768",
-    "tikName": "Пермь, Свердловская № 1"
+    "tikName": "Пермь, Свердловская № 1",
+    "uikName": "УИК №3414",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 3415,
     "uikTvd": "4594048194986",
     "tikTvd": "25920002187768",
-    "tikName": "Пермь, Свердловская № 1"
+    "tikName": "Пермь, Свердловская № 1",
+    "uikName": "УИК №3415",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 3416,
     "uikTvd": "4594048194987",
     "tikTvd": "25920002187768",
-    "tikName": "Пермь, Свердловская № 1"
+    "tikName": "Пермь, Свердловская № 1",
+    "uikName": "УИК №3416",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 3417,
     "uikTvd": "4594048194988",
     "tikTvd": "25920002187768",
-    "tikName": "Пермь, Свердловская № 1"
+    "tikName": "Пермь, Свердловская № 1",
+    "uikName": "УИК №3417",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 3418,
     "uikTvd": "4594048194989",
     "tikTvd": "25920002187768",
-    "tikName": "Пермь, Свердловская № 1"
+    "tikName": "Пермь, Свердловская № 1",
+    "uikName": "УИК №3418",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 3419,
     "uikTvd": "4594048194990",
     "tikTvd": "25920002187768",
-    "tikName": "Пермь, Свердловская № 1"
+    "tikName": "Пермь, Свердловская № 1",
+    "uikName": "УИК №3419",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 3420,
     "uikTvd": "4594048194991",
     "tikTvd": "25920002187768",
-    "tikName": "Пермь, Свердловская № 1"
+    "tikName": "Пермь, Свердловская № 1",
+    "uikName": "УИК №3420",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 3421,
     "uikTvd": "4594048194992",
     "tikTvd": "25920002187768",
-    "tikName": "Пермь, Свердловская № 1"
+    "tikName": "Пермь, Свердловская № 1",
+    "uikName": "УИК №3421",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 3422,
     "uikTvd": "4594048194993",
     "tikTvd": "25920002187768",
-    "tikName": "Пермь, Свердловская № 1"
+    "tikName": "Пермь, Свердловская № 1",
+    "uikName": "УИК №3422",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 3423,
     "uikTvd": "4594048194994",
     "tikTvd": "25920002187768",
-    "tikName": "Пермь, Свердловская № 1"
+    "tikName": "Пермь, Свердловская № 1",
+    "uikName": "УИК №3423",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 3424,
     "uikTvd": "4594048194995",
     "tikTvd": "25920002187768",
-    "tikName": "Пермь, Свердловская № 1"
+    "tikName": "Пермь, Свердловская № 1",
+    "uikName": "УИК №3424",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 3425,
     "uikTvd": "4594048194996",
     "tikTvd": "25920002187768",
-    "tikName": "Пермь, Свердловская № 1"
+    "tikName": "Пермь, Свердловская № 1",
+    "uikName": "УИК №3425",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 3426,
     "uikTvd": "4594034440559",
     "tikTvd": "25920002187773",
-    "tikName": "Пермь, Свердловская № 2"
+    "tikName": "Пермь, Свердловская № 2",
+    "uikName": "УИК №3426",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 3427,
     "uikTvd": "4594034440560",
     "tikTvd": "25920002187773",
-    "tikName": "Пермь, Свердловская № 2"
+    "tikName": "Пермь, Свердловская № 2",
+    "uikName": "УИК №3427",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 3428,
     "uikTvd": "4594034440561",
     "tikTvd": "25920002187773",
-    "tikName": "Пермь, Свердловская № 2"
+    "tikName": "Пермь, Свердловская № 2",
+    "uikName": "УИК №3428",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 3429,
     "uikTvd": "4594034440562",
     "tikTvd": "25920002187773",
-    "tikName": "Пермь, Свердловская № 2"
+    "tikName": "Пермь, Свердловская № 2",
+    "uikName": "УИК №3429",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 3430,
     "uikTvd": "4594034440563",
     "tikTvd": "25920002187773",
-    "tikName": "Пермь, Свердловская № 2"
+    "tikName": "Пермь, Свердловская № 2",
+    "uikName": "УИК №3430",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 3431,
     "uikTvd": "4594034440564",
     "tikTvd": "25920002187773",
-    "tikName": "Пермь, Свердловская № 2"
+    "tikName": "Пермь, Свердловская № 2",
+    "uikName": "УИК №3431",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 3432,
     "uikTvd": "4594048194997",
     "tikTvd": "25920002187768",
-    "tikName": "Пермь, Свердловская № 1"
+    "tikName": "Пермь, Свердловская № 1",
+    "uikName": "УИК №3432",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 3433,
     "uikTvd": "4594048194998",
     "tikTvd": "25920002187768",
-    "tikName": "Пермь, Свердловская № 1"
+    "tikName": "Пермь, Свердловская № 1",
+    "uikName": "УИК №3433",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 3434,
     "uikTvd": "4594034440565",
     "tikTvd": "25920002187773",
-    "tikName": "Пермь, Свердловская № 2"
+    "tikName": "Пермь, Свердловская № 2",
+    "uikName": "УИК №3434",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 3435,
     "uikTvd": "4594034440566",
     "tikTvd": "25920002187773",
-    "tikName": "Пермь, Свердловская № 2"
+    "tikName": "Пермь, Свердловская № 2",
+    "uikName": "УИК №3435",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 3436,
     "uikTvd": "4594034440567",
     "tikTvd": "25920002187773",
-    "tikName": "Пермь, Свердловская № 2"
+    "tikName": "Пермь, Свердловская № 2",
+    "uikName": "УИК №3436",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 3437,
     "uikTvd": "4594034440568",
     "tikTvd": "25920002187773",
-    "tikName": "Пермь, Свердловская № 2"
+    "tikName": "Пермь, Свердловская № 2",
+    "uikName": "УИК №3437",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 3438,
     "uikTvd": "4594034440569",
     "tikTvd": "25920002187773",
-    "tikName": "Пермь, Свердловская № 2"
+    "tikName": "Пермь, Свердловская № 2",
+    "uikName": "УИК №3438",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 3439,
     "uikTvd": "4594034440570",
     "tikTvd": "25920002187773",
-    "tikName": "Пермь, Свердловская № 2"
+    "tikName": "Пермь, Свердловская № 2",
+    "uikName": "УИК №3439",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 3440,
     "uikTvd": "4594034440571",
     "tikTvd": "25920002187773",
-    "tikName": "Пермь, Свердловская № 2"
+    "tikName": "Пермь, Свердловская № 2",
+    "uikName": "УИК №3440",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 3441,
     "uikTvd": "4594034440572",
     "tikTvd": "25920002187773",
-    "tikName": "Пермь, Свердловская № 2"
+    "tikName": "Пермь, Свердловская № 2",
+    "uikName": "УИК №3441",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 3442,
     "uikTvd": "4594034440573",
     "tikTvd": "25920002187773",
-    "tikName": "Пермь, Свердловская № 2"
+    "tikName": "Пермь, Свердловская № 2",
+    "uikName": "УИК №3442",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 3443,
     "uikTvd": "4594034440574",
     "tikTvd": "25920002187773",
-    "tikName": "Пермь, Свердловская № 2"
+    "tikName": "Пермь, Свердловская № 2",
+    "uikName": "УИК №3443",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 3444,
     "uikTvd": "4594034440575",
     "tikTvd": "25920002187773",
-    "tikName": "Пермь, Свердловская № 2"
+    "tikName": "Пермь, Свердловская № 2",
+    "uikName": "УИК №3444",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 3445,
     "uikTvd": "4594034440576",
     "tikTvd": "25920002187773",
-    "tikName": "Пермь, Свердловская № 2"
+    "tikName": "Пермь, Свердловская № 2",
+    "uikName": "УИК №3445",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 3446,
     "uikTvd": "4594034440577",
     "tikTvd": "25920002187773",
-    "tikName": "Пермь, Свердловская № 2"
+    "tikName": "Пермь, Свердловская № 2",
+    "uikName": "УИК №3446",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 3447,
     "uikTvd": "4594034440578",
     "tikTvd": "25920002187773",
-    "tikName": "Пермь, Свердловская № 2"
+    "tikName": "Пермь, Свердловская № 2",
+    "uikName": "УИК №3447",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 3448,
     "uikTvd": "4594034440579",
     "tikTvd": "25920002187773",
-    "tikName": "Пермь, Свердловская № 2"
+    "tikName": "Пермь, Свердловская № 2",
+    "uikName": "УИК №3448",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 3449,
     "uikTvd": "4594034440580",
     "tikTvd": "25920002187773",
-    "tikName": "Пермь, Свердловская № 2"
+    "tikName": "Пермь, Свердловская № 2",
+    "uikName": "УИК №3449",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 3450,
     "uikTvd": "4594034440581",
     "tikTvd": "25920002187773",
-    "tikName": "Пермь, Свердловская № 2"
+    "tikName": "Пермь, Свердловская № 2",
+    "uikName": "УИК №3450",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 3451,
     "uikTvd": "4594034440582",
     "tikTvd": "25920002187773",
-    "tikName": "Пермь, Свердловская № 2"
+    "tikName": "Пермь, Свердловская № 2",
+    "uikName": "УИК №3451",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 3452,
     "uikTvd": "4594034440583",
     "tikTvd": "25920002187773",
-    "tikName": "Пермь, Свердловская № 2"
+    "tikName": "Пермь, Свердловская № 2",
+    "uikName": "УИК №3452",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 3453,
     "uikTvd": "4594034440584",
     "tikTvd": "25920002187773",
-    "tikName": "Пермь, Свердловская № 2"
+    "tikName": "Пермь, Свердловская № 2",
+    "uikName": "УИК №3453",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 3454,
     "uikTvd": "4594034440585",
     "tikTvd": "25920002187773",
-    "tikName": "Пермь, Свердловская № 2"
+    "tikName": "Пермь, Свердловская № 2",
+    "uikName": "УИК №3454",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 3455,
     "uikTvd": "4594034440586",
     "tikTvd": "25920002187773",
-    "tikName": "Пермь, Свердловская № 2"
+    "tikName": "Пермь, Свердловская № 2",
+    "uikName": "УИК №3455",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 3456,
     "uikTvd": "4594034440587",
     "tikTvd": "25920002187773",
-    "tikName": "Пермь, Свердловская № 2"
+    "tikName": "Пермь, Свердловская № 2",
+    "uikName": "УИК №3456",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 3457,
     "uikTvd": "4594034440588",
     "tikTvd": "25920002187773",
-    "tikName": "Пермь, Свердловская № 2"
+    "tikName": "Пермь, Свердловская № 2",
+    "uikName": "УИК №3457",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 3458,
     "uikTvd": "4594034440589",
     "tikTvd": "25920002187773",
-    "tikName": "Пермь, Свердловская № 2"
+    "tikName": "Пермь, Свердловская № 2",
+    "uikName": "УИК №3458",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 3459,
     "uikTvd": "4594034440590",
     "tikTvd": "25920002187773",
-    "tikName": "Пермь, Свердловская № 2"
+    "tikName": "Пермь, Свердловская № 2",
+    "uikName": "УИК №3459",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 3460,
     "uikTvd": "4594034440591",
     "tikTvd": "25920002187773",
-    "tikName": "Пермь, Свердловская № 2"
+    "tikName": "Пермь, Свердловская № 2",
+    "uikName": "УИК №3460",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 3461,
     "uikTvd": "4594034440592",
     "tikTvd": "25920002187773",
-    "tikName": "Пермь, Свердловская № 2"
+    "tikName": "Пермь, Свердловская № 2",
+    "uikName": "УИК №3461",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 3462,
     "uikTvd": "4594034440593",
     "tikTvd": "25920002187773",
-    "tikName": "Пермь, Свердловская № 2"
+    "tikName": "Пермь, Свердловская № 2",
+    "uikName": "УИК №3462",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 3463,
     "uikTvd": "4594034440594",
     "tikTvd": "25920002187773",
-    "tikName": "Пермь, Свердловская № 2"
+    "tikName": "Пермь, Свердловская № 2",
+    "uikName": "УИК №3463",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 3464,
     "uikTvd": "4594034440595",
     "tikTvd": "25920002187773",
-    "tikName": "Пермь, Свердловская № 2"
+    "tikName": "Пермь, Свердловская № 2",
+    "uikName": "УИК №3464",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 3465,
     "uikTvd": "4594034440596",
     "tikTvd": "25920002187773",
-    "tikName": "Пермь, Свердловская № 2"
+    "tikName": "Пермь, Свердловская № 2",
+    "uikName": "УИК №3465",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 3466,
     "uikTvd": "4594048194999",
     "tikTvd": "25920002187768",
-    "tikName": "Пермь, Свердловская № 1"
+    "tikName": "Пермь, Свердловская № 1",
+    "uikName": "УИК №3466",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 3467,
     "uikTvd": "4594048195000",
     "tikTvd": "25920002187768",
-    "tikName": "Пермь, Свердловская № 1"
+    "tikName": "Пермь, Свердловская № 1",
+    "uikName": "УИК №3467",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 3468,
     "uikTvd": "4594048195001",
     "tikTvd": "25920002187768",
-    "tikName": "Пермь, Свердловская № 1"
+    "tikName": "Пермь, Свердловская № 1",
+    "uikName": "УИК №3468",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 3469,
     "uikTvd": "4594048195002",
     "tikTvd": "25920002187768",
-    "tikName": "Пермь, Свердловская № 1"
+    "tikName": "Пермь, Свердловская № 1",
+    "uikName": "УИК №3469",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 3470,
     "uikTvd": "4594048195003",
     "tikTvd": "25920002187768",
-    "tikName": "Пермь, Свердловская № 1"
+    "tikName": "Пермь, Свердловская № 1",
+    "uikName": "УИК №3470",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 3471,
     "uikTvd": "4594034440597",
     "tikTvd": "25920002187773",
-    "tikName": "Пермь, Свердловская № 2"
+    "tikName": "Пермь, Свердловская № 2",
+    "uikName": "УИК №3471",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 3472,
     "uikTvd": "4594034440598",
     "tikTvd": "25920002187773",
-    "tikName": "Пермь, Свердловская № 2"
+    "tikName": "Пермь, Свердловская № 2",
+    "uikName": "УИК №3472",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 3473,
     "uikTvd": "4594048195004",
     "tikTvd": "25920002187768",
-    "tikName": "Пермь, Свердловская № 1"
+    "tikName": "Пермь, Свердловская № 1",
+    "uikName": "УИК №3473",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 3474,
     "uikTvd": "4594048195005",
     "tikTvd": "25920002187768",
-    "tikName": "Пермь, Свердловская № 1"
+    "tikName": "Пермь, Свердловская № 1",
+    "uikName": "УИК №3474",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 3475,
     "uikTvd": "4594048195006",
     "tikTvd": "25920002187768",
-    "tikName": "Пермь, Свердловская № 1"
+    "tikName": "Пермь, Свердловская № 1",
+    "uikName": "УИК №3475",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 3476,
     "uikTvd": "4594048195007",
     "tikTvd": "25920002187768",
-    "tikName": "Пермь, Свердловская № 1"
+    "tikName": "Пермь, Свердловская № 1",
+    "uikName": "УИК №3476",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 3477,
     "uikTvd": "4594048195008",
     "tikTvd": "25920002187768",
-    "tikName": "Пермь, Свердловская № 1"
+    "tikName": "Пермь, Свердловская № 1",
+    "uikName": "УИК №3477",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 3478,
     "uikTvd": "4594048195009",
     "tikTvd": "25920002187768",
-    "tikName": "Пермь, Свердловская № 1"
+    "tikName": "Пермь, Свердловская № 1",
+    "uikName": "УИК №3478",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 3479,
     "uikTvd": "4594048195010",
     "tikTvd": "25920002187768",
-    "tikName": "Пермь, Свердловская № 1"
+    "tikName": "Пермь, Свердловская № 1",
+    "uikName": "УИК №3479",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 3480,
     "uikTvd": "4594048195011",
     "tikTvd": "25920002187768",
-    "tikName": "Пермь, Свердловская № 1"
+    "tikName": "Пермь, Свердловская № 1",
+    "uikName": "УИК №3480",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 3481,
     "uikTvd": "4594048195012",
     "tikTvd": "25920002187768",
-    "tikName": "Пермь, Свердловская № 1"
+    "tikName": "Пермь, Свердловская № 1",
+    "uikName": "УИК №3481",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 3482,
     "uikTvd": "4594048195013",
     "tikTvd": "25920002187768",
-    "tikName": "Пермь, Свердловская № 1"
+    "tikName": "Пермь, Свердловская № 1",
+    "uikName": "УИК №3482",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 3483,
     "uikTvd": "4594048195014",
     "tikTvd": "25920002187768",
-    "tikName": "Пермь, Свердловская № 1"
+    "tikName": "Пермь, Свердловская № 1",
+    "uikName": "УИК №3483",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 3484,
     "uikTvd": "4594048195015",
     "tikTvd": "25920002187768",
-    "tikName": "Пермь, Свердловская № 1"
+    "tikName": "Пермь, Свердловская № 1",
+    "uikName": "УИК №3484",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 3485,
     "uikTvd": "4594048215703",
     "tikTvd": "25920002187768",
-    "tikName": "Пермь, Свердловская № 1"
+    "tikName": "Пермь, Свердловская № 1",
+    "uikName": "УИК №3485",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 3486,
     "uikTvd": "4594048215704",
     "tikTvd": "25920002187768",
-    "tikName": "Пермь, Свердловская № 1"
+    "tikName": "Пермь, Свердловская № 1",
+    "uikName": "УИК №3486",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 3487,
     "uikTvd": "4594048215705",
     "tikTvd": "25920002187768",
-    "tikName": "Пермь, Свердловская № 1"
+    "tikName": "Пермь, Свердловская № 1",
+    "uikName": "УИК №3487",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 3490,
     "uikTvd": "4594034516582",
     "tikTvd": "25920002187773",
-    "tikName": "Пермь, Свердловская № 2"
+    "tikName": "Пермь, Свердловская № 2",
+    "uikName": "УИК №3490",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 3491,
     "uikTvd": "4594034516583",
     "tikTvd": "25920002187773",
-    "tikName": "Пермь, Свердловская № 2"
+    "tikName": "Пермь, Свердловская № 2",
+    "uikName": "УИК №3491",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 3501,
     "uikTvd": "4594035230816",
     "tikTvd": "25920002187790",
-    "tikName": "Сивинская"
+    "tikName": "Сивинская",
+    "uikName": "УИК №3501",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 3502,
     "uikTvd": "4594035230818",
     "tikTvd": "25920002187790",
-    "tikName": "Сивинская"
+    "tikName": "Сивинская",
+    "uikName": "УИК №3502",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 3503,
     "uikTvd": "4594035230819",
     "tikTvd": "25920002187790",
-    "tikName": "Сивинская"
+    "tikName": "Сивинская",
+    "uikName": "УИК №3503",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 3504,
     "uikTvd": "4594035230820",
     "tikTvd": "25920002187790",
-    "tikName": "Сивинская"
+    "tikName": "Сивинская",
+    "uikName": "УИК №3504",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 3505,
     "uikTvd": "4594035230821",
     "tikTvd": "25920002187790",
-    "tikName": "Сивинская"
+    "tikName": "Сивинская",
+    "uikName": "УИК №3505",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 3506,
     "uikTvd": "4594035230822",
     "tikTvd": "25920002187790",
-    "tikName": "Сивинская"
+    "tikName": "Сивинская",
+    "uikName": "УИК №3506",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 3507,
     "uikTvd": "4594035230823",
     "tikTvd": "25920002187790",
-    "tikName": "Сивинская"
+    "tikName": "Сивинская",
+    "uikName": "УИК №3507",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 3508,
     "uikTvd": "4594035230824",
     "tikTvd": "25920002187790",
-    "tikName": "Сивинская"
+    "tikName": "Сивинская",
+    "uikName": "УИК №3508",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 3509,
     "uikTvd": "4594035230825",
     "tikTvd": "25920002187790",
-    "tikName": "Сивинская"
+    "tikName": "Сивинская",
+    "uikName": "УИК №3509",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 3510,
     "uikTvd": "4594035230826",
     "tikTvd": "25920002187790",
-    "tikName": "Сивинская"
+    "tikName": "Сивинская",
+    "uikName": "УИК №3510",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 3512,
     "uikTvd": "4594035230827",
     "tikTvd": "25920002187790",
-    "tikName": "Сивинская"
+    "tikName": "Сивинская",
+    "uikName": "УИК №3512",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 3513,
     "uikTvd": "4594035230828",
     "tikTvd": "25920002187790",
-    "tikName": "Сивинская"
+    "tikName": "Сивинская",
+    "uikName": "УИК №3513",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 3514,
     "uikTvd": "4594035230829",
     "tikTvd": "25920002187790",
-    "tikName": "Сивинская"
+    "tikName": "Сивинская",
+    "uikName": "УИК №3514",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 3515,
     "uikTvd": "4594035230830",
     "tikTvd": "25920002187790",
-    "tikName": "Сивинская"
+    "tikName": "Сивинская",
+    "uikName": "УИК №3515",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 3516,
     "uikTvd": "4594035230831",
     "tikTvd": "25920002187790",
-    "tikName": "Сивинская"
+    "tikName": "Сивинская",
+    "uikName": "УИК №3516",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 3517,
     "uikTvd": "4594035230832",
     "tikTvd": "25920002187790",
-    "tikName": "Сивинская"
+    "tikName": "Сивинская",
+    "uikName": "УИК №3517",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 3518,
     "uikTvd": "4594035230833",
     "tikTvd": "25920002187790",
-    "tikName": "Сивинская"
+    "tikName": "Сивинская",
+    "uikName": "УИК №3518",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 3519,
     "uikTvd": "4594035230834",
     "tikTvd": "25920002187790",
-    "tikName": "Сивинская"
+    "tikName": "Сивинская",
+    "uikName": "УИК №3519",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 3520,
     "uikTvd": "4594035230835",
     "tikTvd": "25920002187790",
-    "tikName": "Сивинская"
+    "tikName": "Сивинская",
+    "uikName": "УИК №3520",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 3521,
     "uikTvd": "4594035230836",
     "tikTvd": "25920002187790",
-    "tikName": "Сивинская"
+    "tikName": "Сивинская",
+    "uikName": "УИК №3521",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 3601,
     "uikTvd": "4594036354749",
     "tikTvd": "25920002187789",
-    "tikName": "Соликамская"
+    "tikName": "Соликамская",
+    "uikName": "УИК №3601",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 3602,
     "uikTvd": "4594036354750",
     "tikTvd": "25920002187789",
-    "tikName": "Соликамская"
+    "tikName": "Соликамская",
+    "uikName": "УИК №3602",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 3603,
     "uikTvd": "4594036354751",
     "tikTvd": "25920002187789",
-    "tikName": "Соликамская"
+    "tikName": "Соликамская",
+    "uikName": "УИК №3603",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 3604,
     "uikTvd": "4594036354752",
     "tikTvd": "25920002187789",
-    "tikName": "Соликамская"
+    "tikName": "Соликамская",
+    "uikName": "УИК №3604",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 3605,
     "uikTvd": "4594036354753",
     "tikTvd": "25920002187789",
-    "tikName": "Соликамская"
+    "tikName": "Соликамская",
+    "uikName": "УИК №3605",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 3606,
     "uikTvd": "4594036354754",
     "tikTvd": "25920002187789",
-    "tikName": "Соликамская"
+    "tikName": "Соликамская",
+    "uikName": "УИК №3606",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 3607,
     "uikTvd": "4594036354755",
     "tikTvd": "25920002187789",
-    "tikName": "Соликамская"
+    "tikName": "Соликамская",
+    "uikName": "УИК №3607",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 3608,
     "uikTvd": "4594036354756",
     "tikTvd": "25920002187789",
-    "tikName": "Соликамская"
+    "tikName": "Соликамская",
+    "uikName": "УИК №3608",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 3609,
     "uikTvd": "4594036354757",
     "tikTvd": "25920002187789",
-    "tikName": "Соликамская"
+    "tikName": "Соликамская",
+    "uikName": "УИК №3609",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 3610,
     "uikTvd": "4594036354758",
     "tikTvd": "25920002187789",
-    "tikName": "Соликамская"
+    "tikName": "Соликамская",
+    "uikName": "УИК №3610",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 3611,
     "uikTvd": "4594036354759",
     "tikTvd": "25920002187789",
-    "tikName": "Соликамская"
+    "tikName": "Соликамская",
+    "uikName": "УИК №3611",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 3612,
     "uikTvd": "4594036354760",
     "tikTvd": "25920002187789",
-    "tikName": "Соликамская"
+    "tikName": "Соликамская",
+    "uikName": "УИК №3612",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 3613,
     "uikTvd": "4594036354761",
     "tikTvd": "25920002187789",
-    "tikName": "Соликамская"
+    "tikName": "Соликамская",
+    "uikName": "УИК №3613",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 3614,
     "uikTvd": "4594036354762",
     "tikTvd": "25920002187789",
-    "tikName": "Соликамская"
+    "tikName": "Соликамская",
+    "uikName": "УИК №3614",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 3615,
     "uikTvd": "4594036354763",
     "tikTvd": "25920002187789",
-    "tikName": "Соликамская"
+    "tikName": "Соликамская",
+    "uikName": "УИК №3615",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 3616,
     "uikTvd": "4594036354764",
     "tikTvd": "25920002187789",
-    "tikName": "Соликамская"
+    "tikName": "Соликамская",
+    "uikName": "УИК №3616",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 3617,
     "uikTvd": "4594036354765",
     "tikTvd": "25920002187789",
-    "tikName": "Соликамская"
+    "tikName": "Соликамская",
+    "uikName": "УИК №3617",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 3618,
     "uikTvd": "4594036354766",
     "tikTvd": "25920002187789",
-    "tikName": "Соликамская"
+    "tikName": "Соликамская",
+    "uikName": "УИК №3618",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 3619,
     "uikTvd": "4594036354767",
     "tikTvd": "25920002187789",
-    "tikName": "Соликамская"
+    "tikName": "Соликамская",
+    "uikName": "УИК №3619",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 3620,
     "uikTvd": "4594036354768",
     "tikTvd": "25920002187789",
-    "tikName": "Соликамская"
+    "tikName": "Соликамская",
+    "uikName": "УИК №3620",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 3621,
     "uikTvd": "4594036354769",
     "tikTvd": "25920002187789",
-    "tikName": "Соликамская"
+    "tikName": "Соликамская",
+    "uikName": "УИК №3621",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 3622,
     "uikTvd": "4594036354770",
     "tikTvd": "25920002187789",
-    "tikName": "Соликамская"
+    "tikName": "Соликамская",
+    "uikName": "УИК №3622",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 3623,
     "uikTvd": "4594036354771",
     "tikTvd": "25920002187789",
-    "tikName": "Соликамская"
+    "tikName": "Соликамская",
+    "uikName": "УИК №3623",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 3624,
     "uikTvd": "4594036354772",
     "tikTvd": "25920002187789",
-    "tikName": "Соликамская"
+    "tikName": "Соликамская",
+    "uikName": "УИК №3624",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 3625,
     "uikTvd": "4594036354773",
     "tikTvd": "25920002187789",
-    "tikName": "Соликамская"
+    "tikName": "Соликамская",
+    "uikName": "УИК №3625",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 3626,
     "uikTvd": "4594036354774",
     "tikTvd": "25920002187789",
-    "tikName": "Соликамская"
+    "tikName": "Соликамская",
+    "uikName": "УИК №3626",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 3627,
     "uikTvd": "4594036354775",
     "tikTvd": "25920002187789",
-    "tikName": "Соликамская"
+    "tikName": "Соликамская",
+    "uikName": "УИК №3627",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 3628,
     "uikTvd": "4594036354776",
     "tikTvd": "25920002187789",
-    "tikName": "Соликамская"
+    "tikName": "Соликамская",
+    "uikName": "УИК №3628",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 3629,
     "uikTvd": "4594036354777",
     "tikTvd": "25920002187789",
-    "tikName": "Соликамская"
+    "tikName": "Соликамская",
+    "uikName": "УИК №3629",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 3630,
     "uikTvd": "4594036354778",
     "tikTvd": "25920002187789",
-    "tikName": "Соликамская"
+    "tikName": "Соликамская",
+    "uikName": "УИК №3630",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 3631,
     "uikTvd": "4594036354779",
     "tikTvd": "25920002187789",
-    "tikName": "Соликамская"
+    "tikName": "Соликамская",
+    "uikName": "УИК №3631",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 3632,
     "uikTvd": "4594036354780",
     "tikTvd": "25920002187789",
-    "tikName": "Соликамская"
+    "tikName": "Соликамская",
+    "uikName": "УИК №3632",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 3633,
     "uikTvd": "4594036354781",
     "tikTvd": "25920002187789",
-    "tikName": "Соликамская"
+    "tikName": "Соликамская",
+    "uikName": "УИК №3633",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 3634,
     "uikTvd": "4594036354782",
     "tikTvd": "25920002187789",
-    "tikName": "Соликамская"
+    "tikName": "Соликамская",
+    "uikName": "УИК №3634",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 3635,
     "uikTvd": "4594036354783",
     "tikTvd": "25920002187789",
-    "tikName": "Соликамская"
+    "tikName": "Соликамская",
+    "uikName": "УИК №3635",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 3636,
     "uikTvd": "4594036354784",
     "tikTvd": "25920002187789",
-    "tikName": "Соликамская"
+    "tikName": "Соликамская",
+    "uikName": "УИК №3636",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 3637,
     "uikTvd": "4594036354785",
     "tikTvd": "25920002187789",
-    "tikName": "Соликамская"
+    "tikName": "Соликамская",
+    "uikName": "УИК №3637",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 3638,
     "uikTvd": "4594036354786",
     "tikTvd": "25920002187789",
-    "tikName": "Соликамская"
+    "tikName": "Соликамская",
+    "uikName": "УИК №3638",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 3639,
     "uikTvd": "4594036354787",
     "tikTvd": "25920002187789",
-    "tikName": "Соликамская"
+    "tikName": "Соликамская",
+    "uikName": "УИК №3639",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 3640,
     "uikTvd": "4594036354788",
     "tikTvd": "25920002187789",
-    "tikName": "Соликамская"
+    "tikName": "Соликамская",
+    "uikName": "УИК №3640",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 3641,
     "uikTvd": "4594036354789",
     "tikTvd": "25920002187789",
-    "tikName": "Соликамская"
+    "tikName": "Соликамская",
+    "uikName": "УИК №3641",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 3642,
     "uikTvd": "4594036354790",
     "tikTvd": "25920002187789",
-    "tikName": "Соликамская"
+    "tikName": "Соликамская",
+    "uikName": "УИК №3642",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 3643,
     "uikTvd": "4594036364867",
     "tikTvd": "25920002187789",
-    "tikName": "Соликамская"
+    "tikName": "Соликамская",
+    "uikName": "УИК №3643",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 3644,
     "uikTvd": "4594036364868",
     "tikTvd": "25920002187789",
-    "tikName": "Соликамская"
+    "tikName": "Соликамская",
+    "uikName": "УИК №3644",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 3645,
     "uikTvd": "4594036364869",
     "tikTvd": "25920002187789",
-    "tikName": "Соликамская"
+    "tikName": "Соликамская",
+    "uikName": "УИК №3645",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 3701,
     "uikTvd": "4594037268572",
     "tikTvd": "25920002187772",
-    "tikName": "Суксунская"
+    "tikName": "Суксунская",
+    "uikName": "УИК №3701",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 3702,
     "uikTvd": "4594037268573",
     "tikTvd": "25920002187772",
-    "tikName": "Суксунская"
+    "tikName": "Суксунская",
+    "uikName": "УИК №3702",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 3703,
     "uikTvd": "4594037268574",
     "tikTvd": "25920002187772",
-    "tikName": "Суксунская"
+    "tikName": "Суксунская",
+    "uikName": "УИК №3703",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 3704,
     "uikTvd": "4594037268575",
     "tikTvd": "25920002187772",
-    "tikName": "Суксунская"
+    "tikName": "Суксунская",
+    "uikName": "УИК №3704",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 3705,
     "uikTvd": "4594037268576",
     "tikTvd": "25920002187772",
-    "tikName": "Суксунская"
+    "tikName": "Суксунская",
+    "uikName": "УИК №3705",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 3706,
     "uikTvd": "4594037268577",
     "tikTvd": "25920002187772",
-    "tikName": "Суксунская"
+    "tikName": "Суксунская",
+    "uikName": "УИК №3706",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 3707,
     "uikTvd": "4594037268578",
     "tikTvd": "25920002187772",
-    "tikName": "Суксунская"
+    "tikName": "Суксунская",
+    "uikName": "УИК №3707",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 3708,
     "uikTvd": "4594037268579",
     "tikTvd": "25920002187772",
-    "tikName": "Суксунская"
+    "tikName": "Суксунская",
+    "uikName": "УИК №3708",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 3709,
     "uikTvd": "4594037268580",
     "tikTvd": "25920002187772",
-    "tikName": "Суксунская"
+    "tikName": "Суксунская",
+    "uikName": "УИК №3709",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 3710,
     "uikTvd": "4594037268581",
     "tikTvd": "25920002187772",
-    "tikName": "Суксунская"
+    "tikName": "Суксунская",
+    "uikName": "УИК №3710",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 3711,
     "uikTvd": "4594037268582",
     "tikTvd": "25920002187772",
-    "tikName": "Суксунская"
+    "tikName": "Суксунская",
+    "uikName": "УИК №3711",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 3712,
     "uikTvd": "4594037268583",
     "tikTvd": "25920002187772",
-    "tikName": "Суксунская"
+    "tikName": "Суксунская",
+    "uikName": "УИК №3712",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 3713,
     "uikTvd": "4594037268584",
     "tikTvd": "25920002187772",
-    "tikName": "Суксунская"
+    "tikName": "Суксунская",
+    "uikName": "УИК №3713",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 3714,
     "uikTvd": "4594037268585",
     "tikTvd": "25920002187772",
-    "tikName": "Суксунская"
+    "tikName": "Суксунская",
+    "uikName": "УИК №3714",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 3715,
     "uikTvd": "4594037268586",
     "tikTvd": "25920002187772",
-    "tikName": "Суксунская"
+    "tikName": "Суксунская",
+    "uikName": "УИК №3715",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 3716,
     "uikTvd": "4594037268587",
     "tikTvd": "25920002187772",
-    "tikName": "Суксунская"
+    "tikName": "Суксунская",
+    "uikName": "УИК №3716",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 3717,
     "uikTvd": "4594037268588",
     "tikTvd": "25920002187772",
-    "tikName": "Суксунская"
+    "tikName": "Суксунская",
+    "uikName": "УИК №3717",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 3718,
     "uikTvd": "4594037268589",
     "tikTvd": "25920002187772",
-    "tikName": "Суксунская"
+    "tikName": "Суксунская",
+    "uikName": "УИК №3718",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 3719,
     "uikTvd": "4594037268590",
     "tikTvd": "25920002187772",
-    "tikName": "Суксунская"
+    "tikName": "Суксунская",
+    "uikName": "УИК №3719",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 3720,
     "uikTvd": "4594037268591",
     "tikTvd": "25920002187772",
-    "tikName": "Суксунская"
+    "tikName": "Суксунская",
+    "uikName": "УИК №3720",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 3721,
     "uikTvd": "4594037268592",
     "tikTvd": "25920002187772",
-    "tikName": "Суксунская"
+    "tikName": "Суксунская",
+    "uikName": "УИК №3721",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 3722,
     "uikTvd": "4594037268593",
     "tikTvd": "25920002187772",
-    "tikName": "Суксунская"
+    "tikName": "Суксунская",
+    "uikName": "УИК №3722",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 3723,
     "uikTvd": "4594037272976",
     "tikTvd": "25920002187772",
-    "tikName": "Суксунская"
+    "tikName": "Суксунская",
+    "uikName": "УИК №3723",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 3801,
     "uikTvd": "4594038198189",
     "tikTvd": "25920002187771",
-    "tikName": "Уинская"
+    "tikName": "Уинская",
+    "uikName": "УИК №3801",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 3802,
     "uikTvd": "4594038198190",
     "tikTvd": "25920002187771",
-    "tikName": "Уинская"
+    "tikName": "Уинская",
+    "uikName": "УИК №3802",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 3803,
     "uikTvd": "4594038198191",
     "tikTvd": "25920002187771",
-    "tikName": "Уинская"
+    "tikName": "Уинская",
+    "uikName": "УИК №3803",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 3804,
     "uikTvd": "4594038198192",
     "tikTvd": "25920002187771",
-    "tikName": "Уинская"
+    "tikName": "Уинская",
+    "uikName": "УИК №3804",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 3805,
     "uikTvd": "4594038198193",
     "tikTvd": "25920002187771",
-    "tikName": "Уинская"
+    "tikName": "Уинская",
+    "uikName": "УИК №3805",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 3806,
     "uikTvd": "4594038198194",
     "tikTvd": "25920002187771",
-    "tikName": "Уинская"
+    "tikName": "Уинская",
+    "uikName": "УИК №3806",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 3807,
     "uikTvd": "4594038198195",
     "tikTvd": "25920002187771",
-    "tikName": "Уинская"
+    "tikName": "Уинская",
+    "uikName": "УИК №3807",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 3808,
     "uikTvd": "4594038198196",
     "tikTvd": "25920002187771",
-    "tikName": "Уинская"
+    "tikName": "Уинская",
+    "uikName": "УИК №3808",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 3809,
     "uikTvd": "4594038198197",
     "tikTvd": "25920002187771",
-    "tikName": "Уинская"
+    "tikName": "Уинская",
+    "uikName": "УИК №3809",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 3812,
     "uikTvd": "4594038198198",
     "tikTvd": "25920002187771",
-    "tikName": "Уинская"
+    "tikName": "Уинская",
+    "uikName": "УИК №3812",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 3813,
     "uikTvd": "4594038198199",
     "tikTvd": "25920002187771",
-    "tikName": "Уинская"
+    "tikName": "Уинская",
+    "uikName": "УИК №3813",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 3814,
     "uikTvd": "4594038198200",
     "tikTvd": "25920002187771",
-    "tikName": "Уинская"
+    "tikName": "Уинская",
+    "uikName": "УИК №3814",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 3815,
     "uikTvd": "4594038198201",
     "tikTvd": "25920002187771",
-    "tikName": "Уинская"
+    "tikName": "Уинская",
+    "uikName": "УИК №3815",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 3817,
     "uikTvd": "4594038198202",
     "tikTvd": "25920002187771",
-    "tikName": "Уинская"
+    "tikName": "Уинская",
+    "uikName": "УИК №3817",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 3818,
     "uikTvd": "4594038198203",
     "tikTvd": "25920002187771",
-    "tikName": "Уинская"
+    "tikName": "Уинская",
+    "uikName": "УИК №3818",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 3820,
     "uikTvd": "4594038198204",
     "tikTvd": "25920002187771",
-    "tikName": "Уинская"
+    "tikName": "Уинская",
+    "uikName": "УИК №3820",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 3821,
     "uikTvd": "4594038198205",
     "tikTvd": "25920002187771",
-    "tikName": "Уинская"
+    "tikName": "Уинская",
+    "uikName": "УИК №3821",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 3823,
     "uikTvd": "4594038198206",
     "tikTvd": "25920002187771",
-    "tikName": "Уинская"
+    "tikName": "Уинская",
+    "uikName": "УИК №3823",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 3824,
     "uikTvd": "4594038198207",
     "tikTvd": "25920002187771",
-    "tikName": "Уинская"
+    "tikName": "Уинская",
+    "uikName": "УИК №3824",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 3901,
     "uikTvd": "4594003465959",
     "tikTvd": "25920002187797",
-    "tikName": "Березниковская"
+    "tikName": "Березниковская",
+    "uikName": "УИК №3901",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 3902,
     "uikTvd": "4594003465960",
     "tikTvd": "25920002187797",
-    "tikName": "Березниковская"
+    "tikName": "Березниковская",
+    "uikName": "УИК №3902",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 3903,
     "uikTvd": "4594003465961",
     "tikTvd": "25920002187797",
-    "tikName": "Березниковская"
+    "tikName": "Березниковская",
+    "uikName": "УИК №3903",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 3904,
     "uikTvd": "4594003465962",
     "tikTvd": "25920002187797",
-    "tikName": "Березниковская"
+    "tikName": "Березниковская",
+    "uikName": "УИК №3904",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 3905,
     "uikTvd": "4594003465963",
     "tikTvd": "25920002187797",
-    "tikName": "Березниковская"
+    "tikName": "Березниковская",
+    "uikName": "УИК №3905",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 3906,
     "uikTvd": "4594003465964",
     "tikTvd": "25920002187797",
-    "tikName": "Березниковская"
+    "tikName": "Березниковская",
+    "uikName": "УИК №3906",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 3907,
     "uikTvd": "4594003465965",
     "tikTvd": "25920002187797",
-    "tikName": "Березниковская"
+    "tikName": "Березниковская",
+    "uikName": "УИК №3907",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 3908,
     "uikTvd": "4594003465966",
     "tikTvd": "25920002187797",
-    "tikName": "Березниковская"
+    "tikName": "Березниковская",
+    "uikName": "УИК №3908",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 3909,
     "uikTvd": "4594003465967",
     "tikTvd": "25920002187797",
-    "tikName": "Березниковская"
+    "tikName": "Березниковская",
+    "uikName": "УИК №3909",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 3910,
     "uikTvd": "4594003465968",
     "tikTvd": "25920002187797",
-    "tikName": "Березниковская"
+    "tikName": "Березниковская",
+    "uikName": "УИК №3910",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 3911,
     "uikTvd": "4594003465969",
     "tikTvd": "25920002187797",
-    "tikName": "Березниковская"
+    "tikName": "Березниковская",
+    "uikName": "УИК №3911",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 3912,
     "uikTvd": "4594003465970",
     "tikTvd": "25920002187797",
-    "tikName": "Березниковская"
+    "tikName": "Березниковская",
+    "uikName": "УИК №3912",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 3913,
     "uikTvd": "4594003465971",
     "tikTvd": "25920002187797",
-    "tikName": "Березниковская"
+    "tikName": "Березниковская",
+    "uikName": "УИК №3913",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 3914,
     "uikTvd": "4594003465972",
     "tikTvd": "25920002187797",
-    "tikName": "Березниковская"
+    "tikName": "Березниковская",
+    "uikName": "УИК №3914",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 3915,
     "uikTvd": "4594003465973",
     "tikTvd": "25920002187797",
-    "tikName": "Березниковская"
+    "tikName": "Березниковская",
+    "uikName": "УИК №3915",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 3916,
     "uikTvd": "4594003465974",
     "tikTvd": "25920002187797",
-    "tikName": "Березниковская"
+    "tikName": "Березниковская",
+    "uikName": "УИК №3916",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 3917,
     "uikTvd": "4594003465975",
     "tikTvd": "25920002187797",
-    "tikName": "Березниковская"
+    "tikName": "Березниковская",
+    "uikName": "УИК №3917",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 3918,
     "uikTvd": "4594003465976",
     "tikTvd": "25920002187797",
-    "tikName": "Березниковская"
+    "tikName": "Березниковская",
+    "uikName": "УИК №3918",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 3919,
     "uikTvd": "4594003465977",
     "tikTvd": "25920002187797",
-    "tikName": "Березниковская"
+    "tikName": "Березниковская",
+    "uikName": "УИК №3919",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 4001,
     "uikTvd": "4594040411586",
     "tikTvd": "25920002187744",
-    "tikName": "Чайковская"
+    "tikName": "Чайковская",
+    "uikName": "УИК №4001",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 4002,
     "uikTvd": "4594040411587",
     "tikTvd": "25920002187744",
-    "tikName": "Чайковская"
+    "tikName": "Чайковская",
+    "uikName": "УИК №4002",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 4003,
     "uikTvd": "4594040411588",
     "tikTvd": "25920002187744",
-    "tikName": "Чайковская"
+    "tikName": "Чайковская",
+    "uikName": "УИК №4003",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 4004,
     "uikTvd": "4594040411589",
     "tikTvd": "25920002187744",
-    "tikName": "Чайковская"
+    "tikName": "Чайковская",
+    "uikName": "УИК №4004",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 4005,
     "uikTvd": "4594040411590",
     "tikTvd": "25920002187744",
-    "tikName": "Чайковская"
+    "tikName": "Чайковская",
+    "uikName": "УИК №4005",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 4006,
     "uikTvd": "4594040411591",
     "tikTvd": "25920002187744",
-    "tikName": "Чайковская"
+    "tikName": "Чайковская",
+    "uikName": "УИК №4006",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 4007,
     "uikTvd": "4594040411592",
     "tikTvd": "25920002187744",
-    "tikName": "Чайковская"
+    "tikName": "Чайковская",
+    "uikName": "УИК №4007",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 4008,
     "uikTvd": "4594040411593",
     "tikTvd": "25920002187744",
-    "tikName": "Чайковская"
+    "tikName": "Чайковская",
+    "uikName": "УИК №4008",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 4009,
     "uikTvd": "4594040411594",
     "tikTvd": "25920002187744",
-    "tikName": "Чайковская"
+    "tikName": "Чайковская",
+    "uikName": "УИК №4009",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 4010,
     "uikTvd": "4594040411595",
     "tikTvd": "25920002187744",
-    "tikName": "Чайковская"
+    "tikName": "Чайковская",
+    "uikName": "УИК №4010",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 4011,
     "uikTvd": "4594040411596",
     "tikTvd": "25920002187744",
-    "tikName": "Чайковская"
+    "tikName": "Чайковская",
+    "uikName": "УИК №4011",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 4012,
     "uikTvd": "4594040411597",
     "tikTvd": "25920002187744",
-    "tikName": "Чайковская"
+    "tikName": "Чайковская",
+    "uikName": "УИК №4012",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 4013,
     "uikTvd": "4594040411598",
     "tikTvd": "25920002187744",
-    "tikName": "Чайковская"
+    "tikName": "Чайковская",
+    "uikName": "УИК №4013",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 4014,
     "uikTvd": "4594040411599",
     "tikTvd": "25920002187744",
-    "tikName": "Чайковская"
+    "tikName": "Чайковская",
+    "uikName": "УИК №4014",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 4015,
     "uikTvd": "4594040411600",
     "tikTvd": "25920002187744",
-    "tikName": "Чайковская"
+    "tikName": "Чайковская",
+    "uikName": "УИК №4015",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 4016,
     "uikTvd": "4594040411601",
     "tikTvd": "25920002187744",
-    "tikName": "Чайковская"
+    "tikName": "Чайковская",
+    "uikName": "УИК №4016",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 4017,
     "uikTvd": "4594040411602",
     "tikTvd": "25920002187744",
-    "tikName": "Чайковская"
+    "tikName": "Чайковская",
+    "uikName": "УИК №4017",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 4018,
     "uikTvd": "4594040411603",
     "tikTvd": "25920002187744",
-    "tikName": "Чайковская"
+    "tikName": "Чайковская",
+    "uikName": "УИК №4018",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 4019,
     "uikTvd": "4594040411604",
     "tikTvd": "25920002187744",
-    "tikName": "Чайковская"
+    "tikName": "Чайковская",
+    "uikName": "УИК №4019",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 4020,
     "uikTvd": "4594040411605",
     "tikTvd": "25920002187744",
-    "tikName": "Чайковская"
+    "tikName": "Чайковская",
+    "uikName": "УИК №4020",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 4021,
     "uikTvd": "4594040411606",
     "tikTvd": "25920002187744",
-    "tikName": "Чайковская"
+    "tikName": "Чайковская",
+    "uikName": "УИК №4021",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 4022,
     "uikTvd": "4594040411607",
     "tikTvd": "25920002187744",
-    "tikName": "Чайковская"
+    "tikName": "Чайковская",
+    "uikName": "УИК №4022",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 4023,
     "uikTvd": "4594040411608",
     "tikTvd": "25920002187744",
-    "tikName": "Чайковская"
+    "tikName": "Чайковская",
+    "uikName": "УИК №4023",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 4024,
     "uikTvd": "4594040411609",
     "tikTvd": "25920002187744",
-    "tikName": "Чайковская"
+    "tikName": "Чайковская",
+    "uikName": "УИК №4024",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 4025,
     "uikTvd": "4594040411610",
     "tikTvd": "25920002187744",
-    "tikName": "Чайковская"
+    "tikName": "Чайковская",
+    "uikName": "УИК №4025",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 4026,
     "uikTvd": "4594040411611",
     "tikTvd": "25920002187744",
-    "tikName": "Чайковская"
+    "tikName": "Чайковская",
+    "uikName": "УИК №4026",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 4027,
     "uikTvd": "4594040411612",
     "tikTvd": "25920002187744",
-    "tikName": "Чайковская"
+    "tikName": "Чайковская",
+    "uikName": "УИК №4027",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 4028,
     "uikTvd": "4594040411613",
     "tikTvd": "25920002187744",
-    "tikName": "Чайковская"
+    "tikName": "Чайковская",
+    "uikName": "УИК №4028",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 4029,
     "uikTvd": "4594040411614",
     "tikTvd": "25920002187744",
-    "tikName": "Чайковская"
+    "tikName": "Чайковская",
+    "uikName": "УИК №4029",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 4030,
     "uikTvd": "4594040411615",
     "tikTvd": "25920002187744",
-    "tikName": "Чайковская"
+    "tikName": "Чайковская",
+    "uikName": "УИК №4030",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 4031,
     "uikTvd": "4594040411616",
     "tikTvd": "25920002187744",
-    "tikName": "Чайковская"
+    "tikName": "Чайковская",
+    "uikName": "УИК №4031",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 4032,
     "uikTvd": "4594040411617",
     "tikTvd": "25920002187744",
-    "tikName": "Чайковская"
+    "tikName": "Чайковская",
+    "uikName": "УИК №4032",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 4033,
     "uikTvd": "4594040411618",
     "tikTvd": "25920002187744",
-    "tikName": "Чайковская"
+    "tikName": "Чайковская",
+    "uikName": "УИК №4033",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 4034,
     "uikTvd": "4594040411619",
     "tikTvd": "25920002187744",
-    "tikName": "Чайковская"
+    "tikName": "Чайковская",
+    "uikName": "УИК №4034",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 4035,
     "uikTvd": "4594040411620",
     "tikTvd": "25920002187744",
-    "tikName": "Чайковская"
+    "tikName": "Чайковская",
+    "uikName": "УИК №4035",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 4036,
     "uikTvd": "4594040411621",
     "tikTvd": "25920002187744",
-    "tikName": "Чайковская"
+    "tikName": "Чайковская",
+    "uikName": "УИК №4036",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 4037,
     "uikTvd": "4594040411622",
     "tikTvd": "25920002187744",
-    "tikName": "Чайковская"
+    "tikName": "Чайковская",
+    "uikName": "УИК №4037",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 4038,
     "uikTvd": "4594040411623",
     "tikTvd": "25920002187744",
-    "tikName": "Чайковская"
+    "tikName": "Чайковская",
+    "uikName": "УИК №4038",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 4040,
     "uikTvd": "4594040411624",
     "tikTvd": "25920002187744",
-    "tikName": "Чайковская"
+    "tikName": "Чайковская",
+    "uikName": "УИК №4040",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 4041,
     "uikTvd": "4594040411625",
     "tikTvd": "25920002187744",
-    "tikName": "Чайковская"
+    "tikName": "Чайковская",
+    "uikName": "УИК №4041",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 4042,
     "uikTvd": "4594040411626",
     "tikTvd": "25920002187744",
-    "tikName": "Чайковская"
+    "tikName": "Чайковская",
+    "uikName": "УИК №4042",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 4043,
     "uikTvd": "4594040411627",
     "tikTvd": "25920002187744",
-    "tikName": "Чайковская"
+    "tikName": "Чайковская",
+    "uikName": "УИК №4043",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 4044,
     "uikTvd": "4594040411628",
     "tikTvd": "25920002187744",
-    "tikName": "Чайковская"
+    "tikName": "Чайковская",
+    "uikName": "УИК №4044",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 4045,
     "uikTvd": "4594040411629",
     "tikTvd": "25920002187744",
-    "tikName": "Чайковская"
+    "tikName": "Чайковская",
+    "uikName": "УИК №4045",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 4046,
     "uikTvd": "4594040411630",
     "tikTvd": "25920002187744",
-    "tikName": "Чайковская"
+    "tikName": "Чайковская",
+    "uikName": "УИК №4046",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 4047,
     "uikTvd": "4594040411631",
     "tikTvd": "25920002187744",
-    "tikName": "Чайковская"
+    "tikName": "Чайковская",
+    "uikName": "УИК №4047",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 4048,
     "uikTvd": "4594040411632",
     "tikTvd": "25920002187744",
-    "tikName": "Чайковская"
+    "tikName": "Чайковская",
+    "uikName": "УИК №4048",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 4049,
     "uikTvd": "4594040411633",
     "tikTvd": "25920002187744",
-    "tikName": "Чайковская"
+    "tikName": "Чайковская",
+    "uikName": "УИК №4049",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 4050,
     "uikTvd": "4594040411634",
     "tikTvd": "25920002187744",
-    "tikName": "Чайковская"
+    "tikName": "Чайковская",
+    "uikName": "УИК №4050",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 4051,
     "uikTvd": "4594040411635",
     "tikTvd": "25920002187744",
-    "tikName": "Чайковская"
+    "tikName": "Чайковская",
+    "uikName": "УИК №4051",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 4101,
     "uikTvd": "4594041202103",
     "tikTvd": "25920002187743",
-    "tikName": "Частинская"
+    "tikName": "Частинская",
+    "uikName": "УИК №4101",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 4102,
     "uikTvd": "4594041202104",
     "tikTvd": "25920002187743",
-    "tikName": "Частинская"
+    "tikName": "Частинская",
+    "uikName": "УИК №4102",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 4103,
     "uikTvd": "4594041202105",
     "tikTvd": "25920002187743",
-    "tikName": "Частинская"
+    "tikName": "Частинская",
+    "uikName": "УИК №4103",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 4104,
     "uikTvd": "4594041202106",
     "tikTvd": "25920002187743",
-    "tikName": "Частинская"
+    "tikName": "Частинская",
+    "uikName": "УИК №4104",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 4105,
     "uikTvd": "4594041202107",
     "tikTvd": "25920002187743",
-    "tikName": "Частинская"
+    "tikName": "Частинская",
+    "uikName": "УИК №4105",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 4106,
     "uikTvd": "4594041202108",
     "tikTvd": "25920002187743",
-    "tikName": "Частинская"
+    "tikName": "Частинская",
+    "uikName": "УИК №4106",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 4107,
     "uikTvd": "4594041202109",
     "tikTvd": "25920002187743",
-    "tikName": "Частинская"
+    "tikName": "Частинская",
+    "uikName": "УИК №4107",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 4108,
     "uikTvd": "4594041202110",
     "tikTvd": "25920002187743",
-    "tikName": "Частинская"
+    "tikName": "Частинская",
+    "uikName": "УИК №4108",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 4109,
     "uikTvd": "4594041202111",
     "tikTvd": "25920002187743",
-    "tikName": "Частинская"
+    "tikName": "Частинская",
+    "uikName": "УИК №4109",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 4110,
     "uikTvd": "4594041202112",
     "tikTvd": "25920002187743",
-    "tikName": "Частинская"
+    "tikName": "Частинская",
+    "uikName": "УИК №4110",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 4111,
     "uikTvd": "4594041202113",
     "tikTvd": "25920002187743",
-    "tikName": "Частинская"
+    "tikName": "Частинская",
+    "uikName": "УИК №4111",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 4112,
     "uikTvd": "4594041202114",
     "tikTvd": "25920002187743",
-    "tikName": "Частинская"
+    "tikName": "Частинская",
+    "uikName": "УИК №4112",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 4113,
     "uikTvd": "4594041202115",
     "tikTvd": "25920002187743",
-    "tikName": "Частинская"
+    "tikName": "Частинская",
+    "uikName": "УИК №4113",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 4114,
     "uikTvd": "4594041202116",
     "tikTvd": "25920002187743",
-    "tikName": "Частинская"
+    "tikName": "Частинская",
+    "uikName": "УИК №4114",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 4115,
     "uikTvd": "4594041202117",
     "tikTvd": "25920002187743",
-    "tikName": "Частинская"
+    "tikName": "Частинская",
+    "uikName": "УИК №4115",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 4117,
     "uikTvd": "4594041202118",
     "tikTvd": "25920002187743",
-    "tikName": "Частинская"
+    "tikName": "Частинская",
+    "uikName": "УИК №4117",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 4118,
     "uikTvd": "4594041202119",
     "tikTvd": "25920002187743",
-    "tikName": "Частинская"
+    "tikName": "Частинская",
+    "uikName": "УИК №4118",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 4201,
     "uikTvd": "4594042275894",
     "tikTvd": "25920002187788",
-    "tikName": "Чердынская"
+    "tikName": "Чердынская",
+    "uikName": "УИК №4201",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 4202,
     "uikTvd": "4594042275895",
     "tikTvd": "25920002187788",
-    "tikName": "Чердынская"
+    "tikName": "Чердынская",
+    "uikName": "УИК №4202",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 4203,
     "uikTvd": "4594042275896",
     "tikTvd": "25920002187788",
-    "tikName": "Чердынская"
+    "tikName": "Чердынская",
+    "uikName": "УИК №4203",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 4204,
     "uikTvd": "4594042275897",
     "tikTvd": "25920002187788",
-    "tikName": "Чердынская"
+    "tikName": "Чердынская",
+    "uikName": "УИК №4204",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 4205,
     "uikTvd": "4594042275898",
     "tikTvd": "25920002187788",
-    "tikName": "Чердынская"
+    "tikName": "Чердынская",
+    "uikName": "УИК №4205",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 4206,
     "uikTvd": "4594042275899",
     "tikTvd": "25920002187788",
-    "tikName": "Чердынская"
+    "tikName": "Чердынская",
+    "uikName": "УИК №4206",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 4207,
     "uikTvd": "4594042275900",
     "tikTvd": "25920002187788",
-    "tikName": "Чердынская"
+    "tikName": "Чердынская",
+    "uikName": "УИК №4207",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 4208,
     "uikTvd": "4594042275901",
     "tikTvd": "25920002187788",
-    "tikName": "Чердынская"
+    "tikName": "Чердынская",
+    "uikName": "УИК №4208",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 4209,
     "uikTvd": "4594042275902",
     "tikTvd": "25920002187788",
-    "tikName": "Чердынская"
+    "tikName": "Чердынская",
+    "uikName": "УИК №4209",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 4210,
     "uikTvd": "4594042275903",
     "tikTvd": "25920002187788",
-    "tikName": "Чердынская"
+    "tikName": "Чердынская",
+    "uikName": "УИК №4210",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 4211,
     "uikTvd": "4594042275904",
     "tikTvd": "25920002187788",
-    "tikName": "Чердынская"
+    "tikName": "Чердынская",
+    "uikName": "УИК №4211",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 4212,
     "uikTvd": "4594042275905",
     "tikTvd": "25920002187788",
-    "tikName": "Чердынская"
+    "tikName": "Чердынская",
+    "uikName": "УИК №4212",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 4213,
     "uikTvd": "4594042275906",
     "tikTvd": "25920002187788",
-    "tikName": "Чердынская"
+    "tikName": "Чердынская",
+    "uikName": "УИК №4213",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 4214,
     "uikTvd": "4594042275907",
     "tikTvd": "25920002187788",
-    "tikName": "Чердынская"
+    "tikName": "Чердынская",
+    "uikName": "УИК №4214",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 4216,
     "uikTvd": "4594042275908",
     "tikTvd": "25920002187788",
-    "tikName": "Чердынская"
+    "tikName": "Чердынская",
+    "uikName": "УИК №4216",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 4218,
     "uikTvd": "4594042275909",
     "tikTvd": "25920002187788",
-    "tikName": "Чердынская"
+    "tikName": "Чердынская",
+    "uikName": "УИК №4218",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 4219,
     "uikTvd": "4594042275910",
     "tikTvd": "25920002187788",
-    "tikName": "Чердынская"
+    "tikName": "Чердынская",
+    "uikName": "УИК №4219",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 4220,
     "uikTvd": "4594042275911",
     "tikTvd": "25920002187788",
-    "tikName": "Чердынская"
+    "tikName": "Чердынская",
+    "uikName": "УИК №4220",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 4223,
     "uikTvd": "4594042275912",
     "tikTvd": "25920002187788",
-    "tikName": "Чердынская"
+    "tikName": "Чердынская",
+    "uikName": "УИК №4223",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 4225,
     "uikTvd": "4594042275913",
     "tikTvd": "25920002187788",
-    "tikName": "Чердынская"
+    "tikName": "Чердынская",
+    "uikName": "УИК №4225",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 4301,
     "uikTvd": "4594043430539",
     "tikTvd": "25920002187770",
-    "tikName": "Чернушинская"
+    "tikName": "Чернушинская",
+    "uikName": "УИК №4301",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 4302,
     "uikTvd": "4594043430540",
     "tikTvd": "25920002187770",
-    "tikName": "Чернушинская"
+    "tikName": "Чернушинская",
+    "uikName": "УИК №4302",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 4303,
     "uikTvd": "4594043430541",
     "tikTvd": "25920002187770",
-    "tikName": "Чернушинская"
+    "tikName": "Чернушинская",
+    "uikName": "УИК №4303",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 4304,
     "uikTvd": "4594043430542",
     "tikTvd": "25920002187770",
-    "tikName": "Чернушинская"
+    "tikName": "Чернушинская",
+    "uikName": "УИК №4304",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 4305,
     "uikTvd": "4594043430543",
     "tikTvd": "25920002187770",
-    "tikName": "Чернушинская"
+    "tikName": "Чернушинская",
+    "uikName": "УИК №4305",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 4306,
     "uikTvd": "4594043430544",
     "tikTvd": "25920002187770",
-    "tikName": "Чернушинская"
+    "tikName": "Чернушинская",
+    "uikName": "УИК №4306",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 4307,
     "uikTvd": "4594043430545",
     "tikTvd": "25920002187770",
-    "tikName": "Чернушинская"
+    "tikName": "Чернушинская",
+    "uikName": "УИК №4307",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 4308,
     "uikTvd": "4594043430546",
     "tikTvd": "25920002187770",
-    "tikName": "Чернушинская"
+    "tikName": "Чернушинская",
+    "uikName": "УИК №4308",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 4309,
     "uikTvd": "4594043430547",
     "tikTvd": "25920002187770",
-    "tikName": "Чернушинская"
+    "tikName": "Чернушинская",
+    "uikName": "УИК №4309",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 4310,
     "uikTvd": "4594043430548",
     "tikTvd": "25920002187770",
-    "tikName": "Чернушинская"
+    "tikName": "Чернушинская",
+    "uikName": "УИК №4310",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 4311,
     "uikTvd": "4594043430549",
     "tikTvd": "25920002187770",
-    "tikName": "Чернушинская"
+    "tikName": "Чернушинская",
+    "uikName": "УИК №4311",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 4312,
     "uikTvd": "4594043430550",
     "tikTvd": "25920002187770",
-    "tikName": "Чернушинская"
+    "tikName": "Чернушинская",
+    "uikName": "УИК №4312",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 4313,
     "uikTvd": "4594043430551",
     "tikTvd": "25920002187770",
-    "tikName": "Чернушинская"
+    "tikName": "Чернушинская",
+    "uikName": "УИК №4313",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 4314,
     "uikTvd": "4594043430552",
     "tikTvd": "25920002187770",
-    "tikName": "Чернушинская"
+    "tikName": "Чернушинская",
+    "uikName": "УИК №4314",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 4315,
     "uikTvd": "4594043430553",
     "tikTvd": "25920002187770",
-    "tikName": "Чернушинская"
+    "tikName": "Чернушинская",
+    "uikName": "УИК №4315",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 4316,
     "uikTvd": "4594043430554",
     "tikTvd": "25920002187770",
-    "tikName": "Чернушинская"
+    "tikName": "Чернушинская",
+    "uikName": "УИК №4316",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 4317,
     "uikTvd": "4594043430555",
     "tikTvd": "25920002187770",
-    "tikName": "Чернушинская"
+    "tikName": "Чернушинская",
+    "uikName": "УИК №4317",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 4318,
     "uikTvd": "4594043430556",
     "tikTvd": "25920002187770",
-    "tikName": "Чернушинская"
+    "tikName": "Чернушинская",
+    "uikName": "УИК №4318",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 4319,
     "uikTvd": "4594043430557",
     "tikTvd": "25920002187770",
-    "tikName": "Чернушинская"
+    "tikName": "Чернушинская",
+    "uikName": "УИК №4319",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 4320,
     "uikTvd": "4594043430558",
     "tikTvd": "25920002187770",
-    "tikName": "Чернушинская"
+    "tikName": "Чернушинская",
+    "uikName": "УИК №4320",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 4321,
     "uikTvd": "4594043430559",
     "tikTvd": "25920002187770",
-    "tikName": "Чернушинская"
+    "tikName": "Чернушинская",
+    "uikName": "УИК №4321",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 4322,
     "uikTvd": "4594043430560",
     "tikTvd": "25920002187770",
-    "tikName": "Чернушинская"
+    "tikName": "Чернушинская",
+    "uikName": "УИК №4322",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 4323,
     "uikTvd": "4594043430561",
     "tikTvd": "25920002187770",
-    "tikName": "Чернушинская"
+    "tikName": "Чернушинская",
+    "uikName": "УИК №4323",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 4324,
     "uikTvd": "4594043430562",
     "tikTvd": "25920002187770",
-    "tikName": "Чернушинская"
+    "tikName": "Чернушинская",
+    "uikName": "УИК №4324",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 4325,
     "uikTvd": "4594043430563",
     "tikTvd": "25920002187770",
-    "tikName": "Чернушинская"
+    "tikName": "Чернушинская",
+    "uikName": "УИК №4325",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 4326,
     "uikTvd": "4594043430564",
     "tikTvd": "25920002187770",
-    "tikName": "Чернушинская"
+    "tikName": "Чернушинская",
+    "uikName": "УИК №4326",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 4327,
     "uikTvd": "4594043430565",
     "tikTvd": "25920002187770",
-    "tikName": "Чернушинская"
+    "tikName": "Чернушинская",
+    "uikName": "УИК №4327",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 4328,
     "uikTvd": "4594043430566",
     "tikTvd": "25920002187770",
-    "tikName": "Чернушинская"
+    "tikName": "Чернушинская",
+    "uikName": "УИК №4328",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 4329,
     "uikTvd": "4594043430567",
     "tikTvd": "25920002187770",
-    "tikName": "Чернушинская"
+    "tikName": "Чернушинская",
+    "uikName": "УИК №4329",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 4330,
     "uikTvd": "4594043430568",
     "tikTvd": "25920002187770",
-    "tikName": "Чернушинская"
+    "tikName": "Чернушинская",
+    "uikName": "УИК №4330",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 4331,
     "uikTvd": "4594043430569",
     "tikTvd": "25920002187770",
-    "tikName": "Чернушинская"
+    "tikName": "Чернушинская",
+    "uikName": "УИК №4331",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 4332,
     "uikTvd": "4594043430570",
     "tikTvd": "25920002187770",
-    "tikName": "Чернушинская"
+    "tikName": "Чернушинская",
+    "uikName": "УИК №4332",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 4333,
     "uikTvd": "4594043430571",
     "tikTvd": "25920002187770",
-    "tikName": "Чернушинская"
+    "tikName": "Чернушинская",
+    "uikName": "УИК №4333",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 4334,
     "uikTvd": "4594043430572",
     "tikTvd": "25920002187770",
-    "tikName": "Чернушинская"
+    "tikName": "Чернушинская",
+    "uikName": "УИК №4334",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 4335,
     "uikTvd": "4594043430573",
     "tikTvd": "25920002187770",
-    "tikName": "Чернушинская"
+    "tikName": "Чернушинская",
+    "uikName": "УИК №4335",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 4336,
     "uikTvd": "4594043430574",
     "tikTvd": "25920002187770",
-    "tikName": "Чернушинская"
+    "tikName": "Чернушинская",
+    "uikName": "УИК №4336",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 4337,
     "uikTvd": "4594043430575",
     "tikTvd": "25920002187770",
-    "tikName": "Чернушинская"
+    "tikName": "Чернушинская",
+    "uikName": "УИК №4337",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 4338,
     "uikTvd": "4594043430576",
     "tikTvd": "25920002187770",
-    "tikName": "Чернушинская"
+    "tikName": "Чернушинская",
+    "uikName": "УИК №4338",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 4339,
     "uikTvd": "4594043430577",
     "tikTvd": "25920002187770",
-    "tikName": "Чернушинская"
+    "tikName": "Чернушинская",
+    "uikName": "УИК №4339",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 4340,
     "uikTvd": "4594043430578",
     "tikTvd": "25920002187770",
-    "tikName": "Чернушинская"
+    "tikName": "Чернушинская",
+    "uikName": "УИК №4340",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 4341,
     "uikTvd": "4594043430579",
     "tikTvd": "25920002187770",
-    "tikName": "Чернушинская"
+    "tikName": "Чернушинская",
+    "uikName": "УИК №4341",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 4342,
     "uikTvd": "4594043430580",
     "tikTvd": "25920002187770",
-    "tikName": "Чернушинская"
+    "tikName": "Чернушинская",
+    "uikName": "УИК №4342",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 4401,
     "uikTvd": "4594044359448",
     "tikTvd": "25920002187756",
-    "tikName": "Чусовская"
+    "tikName": "Чусовская",
+    "uikName": "УИК №4401",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 4402,
     "uikTvd": "4594044359449",
     "tikTvd": "25920002187756",
-    "tikName": "Чусовская"
+    "tikName": "Чусовская",
+    "uikName": "УИК №4402",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 4403,
     "uikTvd": "4594044359450",
     "tikTvd": "25920002187756",
-    "tikName": "Чусовская"
+    "tikName": "Чусовская",
+    "uikName": "УИК №4403",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 4404,
     "uikTvd": "4594044359451",
     "tikTvd": "25920002187756",
-    "tikName": "Чусовская"
+    "tikName": "Чусовская",
+    "uikName": "УИК №4404",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 4405,
     "uikTvd": "4594044359452",
     "tikTvd": "25920002187756",
-    "tikName": "Чусовская"
+    "tikName": "Чусовская",
+    "uikName": "УИК №4405",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 4406,
     "uikTvd": "4594044359453",
     "tikTvd": "25920002187756",
-    "tikName": "Чусовская"
+    "tikName": "Чусовская",
+    "uikName": "УИК №4406",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 4407,
     "uikTvd": "4594044359454",
     "tikTvd": "25920002187756",
-    "tikName": "Чусовская"
+    "tikName": "Чусовская",
+    "uikName": "УИК №4407",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 4408,
     "uikTvd": "4594044359455",
     "tikTvd": "25920002187756",
-    "tikName": "Чусовская"
+    "tikName": "Чусовская",
+    "uikName": "УИК №4408",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 4409,
     "uikTvd": "4594044359456",
     "tikTvd": "25920002187756",
-    "tikName": "Чусовская"
+    "tikName": "Чусовская",
+    "uikName": "УИК №4409",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 4410,
     "uikTvd": "4594044359457",
     "tikTvd": "25920002187756",
-    "tikName": "Чусовская"
+    "tikName": "Чусовская",
+    "uikName": "УИК №4410",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 4411,
     "uikTvd": "4594044359458",
     "tikTvd": "25920002187756",
-    "tikName": "Чусовская"
+    "tikName": "Чусовская",
+    "uikName": "УИК №4411",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 4412,
     "uikTvd": "4594044359459",
     "tikTvd": "25920002187756",
-    "tikName": "Чусовская"
+    "tikName": "Чусовская",
+    "uikName": "УИК №4412",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 4413,
     "uikTvd": "4594044359460",
     "tikTvd": "25920002187756",
-    "tikName": "Чусовская"
+    "tikName": "Чусовская",
+    "uikName": "УИК №4413",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 4414,
     "uikTvd": "4594044359461",
     "tikTvd": "25920002187756",
-    "tikName": "Чусовская"
+    "tikName": "Чусовская",
+    "uikName": "УИК №4414",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 4415,
     "uikTvd": "4594044359462",
     "tikTvd": "25920002187756",
-    "tikName": "Чусовская"
+    "tikName": "Чусовская",
+    "uikName": "УИК №4415",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 4416,
     "uikTvd": "4594044359463",
     "tikTvd": "25920002187756",
-    "tikName": "Чусовская"
+    "tikName": "Чусовская",
+    "uikName": "УИК №4416",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 4417,
     "uikTvd": "4594044359464",
     "tikTvd": "25920002187756",
-    "tikName": "Чусовская"
+    "tikName": "Чусовская",
+    "uikName": "УИК №4417",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 4418,
     "uikTvd": "4594044359465",
     "tikTvd": "25920002187756",
-    "tikName": "Чусовская"
+    "tikName": "Чусовская",
+    "uikName": "УИК №4418",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 4419,
     "uikTvd": "4594044359466",
     "tikTvd": "25920002187756",
-    "tikName": "Чусовская"
+    "tikName": "Чусовская",
+    "uikName": "УИК №4419",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 4420,
     "uikTvd": "4594044359467",
     "tikTvd": "25920002187756",
-    "tikName": "Чусовская"
+    "tikName": "Чусовская",
+    "uikName": "УИК №4420",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 4421,
     "uikTvd": "4594044359468",
     "tikTvd": "25920002187756",
-    "tikName": "Чусовская"
+    "tikName": "Чусовская",
+    "uikName": "УИК №4421",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 4422,
     "uikTvd": "4594044359469",
     "tikTvd": "25920002187756",
-    "tikName": "Чусовская"
+    "tikName": "Чусовская",
+    "uikName": "УИК №4422",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 4423,
     "uikTvd": "4594044359470",
     "tikTvd": "25920002187756",
-    "tikName": "Чусовская"
+    "tikName": "Чусовская",
+    "uikName": "УИК №4423",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 4424,
     "uikTvd": "4594044359471",
     "tikTvd": "25920002187756",
-    "tikName": "Чусовская"
+    "tikName": "Чусовская",
+    "uikName": "УИК №4424",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 4425,
     "uikTvd": "4594044359472",
     "tikTvd": "25920002187756",
-    "tikName": "Чусовская"
+    "tikName": "Чусовская",
+    "uikName": "УИК №4425",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 4426,
     "uikTvd": "4594044359473",
     "tikTvd": "25920002187756",
-    "tikName": "Чусовская"
+    "tikName": "Чусовская",
+    "uikName": "УИК №4426",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 4427,
     "uikTvd": "4594044359474",
     "tikTvd": "25920002187756",
-    "tikName": "Чусовская"
+    "tikName": "Чусовская",
+    "uikName": "УИК №4427",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 4428,
     "uikTvd": "4594044359475",
     "tikTvd": "25920002187756",
-    "tikName": "Чусовская"
+    "tikName": "Чусовская",
+    "uikName": "УИК №4428",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 4429,
     "uikTvd": "4594044359476",
     "tikTvd": "25920002187756",
-    "tikName": "Чусовская"
+    "tikName": "Чусовская",
+    "uikName": "УИК №4429",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 4430,
     "uikTvd": "4594044359477",
     "tikTvd": "25920002187756",
-    "tikName": "Чусовская"
+    "tikName": "Чусовская",
+    "uikName": "УИК №4430",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 4431,
     "uikTvd": "4594044359478",
     "tikTvd": "25920002187756",
-    "tikName": "Чусовская"
+    "tikName": "Чусовская",
+    "uikName": "УИК №4431",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 4432,
     "uikTvd": "4594044359479",
     "tikTvd": "25920002187756",
-    "tikName": "Чусовская"
+    "tikName": "Чусовская",
+    "uikName": "УИК №4432",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 4433,
     "uikTvd": "4594044359480",
     "tikTvd": "25920002187756",
-    "tikName": "Чусовская"
+    "tikName": "Чусовская",
+    "uikName": "УИК №4433",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 4434,
     "uikTvd": "4594044359481",
     "tikTvd": "25920002187756",
-    "tikName": "Чусовская"
+    "tikName": "Чусовская",
+    "uikName": "УИК №4434",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 4435,
     "uikTvd": "4594044359482",
     "tikTvd": "25920002187756",
-    "tikName": "Чусовская"
+    "tikName": "Чусовская",
+    "uikName": "УИК №4435",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 4436,
     "uikTvd": "4594044359483",
     "tikTvd": "25920002187756",
-    "tikName": "Чусовская"
+    "tikName": "Чусовская",
+    "uikName": "УИК №4436",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 4437,
     "uikTvd": "4594044359484",
     "tikTvd": "25920002187756",
-    "tikName": "Чусовская"
+    "tikName": "Чусовская",
+    "uikName": "УИК №4437",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 4438,
     "uikTvd": "4594044359485",
     "tikTvd": "25920002187756",
-    "tikName": "Чусовская"
+    "tikName": "Чусовская",
+    "uikName": "УИК №4438",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 4439,
     "uikTvd": "4594044359486",
     "tikTvd": "25920002187756",
-    "tikName": "Чусовская"
+    "tikName": "Чусовская",
+    "uikName": "УИК №4439",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 4440,
     "uikTvd": "4594044359487",
     "tikTvd": "25920002187756",
-    "tikName": "Чусовская"
+    "tikName": "Чусовская",
+    "uikName": "УИК №4440",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 4441,
     "uikTvd": "4594044359488",
     "tikTvd": "25920002187756",
-    "tikName": "Чусовская"
+    "tikName": "Чусовская",
+    "uikName": "УИК №4441",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 4442,
     "uikTvd": "4594044359489",
     "tikTvd": "25920002187756",
-    "tikName": "Чусовская"
+    "tikName": "Чусовская",
+    "uikName": "УИК №4442",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 4443,
     "uikTvd": "4594044359490",
     "tikTvd": "25920002187756",
-    "tikName": "Чусовская"
+    "tikName": "Чусовская",
+    "uikName": "УИК №4443",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 4444,
     "uikTvd": "4594044359491",
     "tikTvd": "25920002187756",
-    "tikName": "Чусовская"
+    "tikName": "Чусовская",
+    "uikName": "УИК №4444",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 4445,
     "uikTvd": "4594044359492",
     "tikTvd": "25920002187756",
-    "tikName": "Чусовская"
+    "tikName": "Чусовская",
+    "uikName": "УИК №4445",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 4446,
     "uikTvd": "4594044359493",
     "tikTvd": "25920002187756",
-    "tikName": "Чусовская"
+    "tikName": "Чусовская",
+    "uikName": "УИК №4446",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 4447,
     "uikTvd": "4594044359494",
     "tikTvd": "25920002187756",
-    "tikName": "Чусовская"
+    "tikName": "Чусовская",
+    "uikName": "УИК №4447",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 4448,
     "uikTvd": "4594044359495",
     "tikTvd": "25920002187756",
-    "tikName": "Чусовская"
+    "tikName": "Чусовская",
+    "uikName": "УИК №4448",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 4449,
     "uikTvd": "4594044359496",
     "tikTvd": "25920002187756",
-    "tikName": "Чусовская"
+    "tikName": "Чусовская",
+    "uikName": "УИК №4449",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 4450,
     "uikTvd": "4594044359497",
     "tikTvd": "25920002187756",
-    "tikName": "Чусовская"
+    "tikName": "Чусовская",
+    "uikName": "УИК №4450",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 4451,
     "uikTvd": "4594044359498",
     "tikTvd": "25920002187756",
-    "tikName": "Чусовская"
+    "tikName": "Чусовская",
+    "uikName": "УИК №4451",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883734",
+    "oikName": "Пермский край – Чусовской",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100225883734"
+    }
   },
   {
     "uikNumber": 4501,
     "uikTvd": "4594045168792",
     "tikTvd": "25920002187742",
-    "tikName": "Звездная"
+    "tikName": "Звездная",
+    "uikName": "УИК №4501",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 4502,
     "uikTvd": "4594045168793",
     "tikTvd": "25920002187742",
-    "tikName": "Звездная"
+    "tikName": "Звездная",
+    "uikName": "УИК №4502",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 4503,
     "uikTvd": "4594045168794",
     "tikTvd": "25920002187742",
-    "tikName": "Звездная"
+    "tikName": "Звездная",
+    "uikName": "УИК №4503",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 4504,
     "uikTvd": "4594045168795",
     "tikTvd": "25920002187742",
-    "tikName": "Звездная"
+    "tikName": "Звездная",
+    "uikName": "УИК №4504",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 4505,
     "uikTvd": "4594045168796",
     "tikTvd": "25920002187742",
-    "tikName": "Звездная"
+    "tikName": "Звездная",
+    "uikName": "УИК №4505",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883733",
+    "oikName": "Пермский край – Пермский",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100225883733"
+    }
   },
   {
     "uikNumber": 4601,
     "uikTvd": "4594046367263",
     "tikTvd": "25920002187769",
-    "tikName": "Кунгурская № 1"
+    "tikName": "Кунгурская № 1",
+    "uikName": "УИК №4601",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 4602,
     "uikTvd": "4594046367264",
     "tikTvd": "25920002187769",
-    "tikName": "Кунгурская № 1"
+    "tikName": "Кунгурская № 1",
+    "uikName": "УИК №4602",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 4603,
     "uikTvd": "4594046367265",
     "tikTvd": "25920002187769",
-    "tikName": "Кунгурская № 1"
+    "tikName": "Кунгурская № 1",
+    "uikName": "УИК №4603",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 4604,
     "uikTvd": "4594046367266",
     "tikTvd": "25920002187769",
-    "tikName": "Кунгурская № 1"
+    "tikName": "Кунгурская № 1",
+    "uikName": "УИК №4604",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 4605,
     "uikTvd": "4594046367267",
     "tikTvd": "25920002187769",
-    "tikName": "Кунгурская № 1"
+    "tikName": "Кунгурская № 1",
+    "uikName": "УИК №4605",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 4606,
     "uikTvd": "4594046367268",
     "tikTvd": "25920002187769",
-    "tikName": "Кунгурская № 1"
+    "tikName": "Кунгурская № 1",
+    "uikName": "УИК №4606",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 4607,
     "uikTvd": "4594046367269",
     "tikTvd": "25920002187769",
-    "tikName": "Кунгурская № 1"
+    "tikName": "Кунгурская № 1",
+    "uikName": "УИК №4607",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 4608,
     "uikTvd": "4594046367270",
     "tikTvd": "25920002187769",
-    "tikName": "Кунгурская № 1"
+    "tikName": "Кунгурская № 1",
+    "uikName": "УИК №4608",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 4609,
     "uikTvd": "4594046367271",
     "tikTvd": "25920002187769",
-    "tikName": "Кунгурская № 1"
+    "tikName": "Кунгурская № 1",
+    "uikName": "УИК №4609",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 4610,
     "uikTvd": "4594046367272",
     "tikTvd": "25920002187769",
-    "tikName": "Кунгурская № 1"
+    "tikName": "Кунгурская № 1",
+    "uikName": "УИК №4610",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 4611,
     "uikTvd": "4594046367273",
     "tikTvd": "25920002187769",
-    "tikName": "Кунгурская № 1"
+    "tikName": "Кунгурская № 1",
+    "uikName": "УИК №4611",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 4612,
     "uikTvd": "4594046367274",
     "tikTvd": "25920002187769",
-    "tikName": "Кунгурская № 1"
+    "tikName": "Кунгурская № 1",
+    "uikName": "УИК №4612",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 4613,
     "uikTvd": "4594046367275",
     "tikTvd": "25920002187769",
-    "tikName": "Кунгурская № 1"
+    "tikName": "Кунгурская № 1",
+    "uikName": "УИК №4613",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 4614,
     "uikTvd": "4594046367276",
     "tikTvd": "25920002187769",
-    "tikName": "Кунгурская № 1"
+    "tikName": "Кунгурская № 1",
+    "uikName": "УИК №4614",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 4615,
     "uikTvd": "4594046367277",
     "tikTvd": "25920002187769",
-    "tikName": "Кунгурская № 1"
+    "tikName": "Кунгурская № 1",
+    "uikName": "УИК №4615",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 4616,
     "uikTvd": "4594046367278",
     "tikTvd": "25920002187769",
-    "tikName": "Кунгурская № 1"
+    "tikName": "Кунгурская № 1",
+    "uikName": "УИК №4616",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 4617,
     "uikTvd": "4594046367279",
     "tikTvd": "25920002187769",
-    "tikName": "Кунгурская № 1"
+    "tikName": "Кунгурская № 1",
+    "uikName": "УИК №4617",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 4618,
     "uikTvd": "4594046367280",
     "tikTvd": "25920002187769",
-    "tikName": "Кунгурская № 1"
+    "tikName": "Кунгурская № 1",
+    "uikName": "УИК №4618",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 4619,
     "uikTvd": "4594046367281",
     "tikTvd": "25920002187769",
-    "tikName": "Кунгурская № 1"
+    "tikName": "Кунгурская № 1",
+    "uikName": "УИК №4619",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 4620,
     "uikTvd": "4594046367282",
     "tikTvd": "25920002187769",
-    "tikName": "Кунгурская № 1"
+    "tikName": "Кунгурская № 1",
+    "uikName": "УИК №4620",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 4621,
     "uikTvd": "4594046367283",
     "tikTvd": "25920002187769",
-    "tikName": "Кунгурская № 1"
+    "tikName": "Кунгурская № 1",
+    "uikName": "УИК №4621",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 4622,
     "uikTvd": "4594046367284",
     "tikTvd": "25920002187769",
-    "tikName": "Кунгурская № 1"
+    "tikName": "Кунгурская № 1",
+    "uikName": "УИК №4622",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 4623,
     "uikTvd": "4594046367285",
     "tikTvd": "25920002187769",
-    "tikName": "Кунгурская № 1"
+    "tikName": "Кунгурская № 1",
+    "uikName": "УИК №4623",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 4624,
     "uikTvd": "4594046367286",
     "tikTvd": "25920002187769",
-    "tikName": "Кунгурская № 1"
+    "tikName": "Кунгурская № 1",
+    "uikName": "УИК №4624",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 4625,
     "uikTvd": "4594046367287",
     "tikTvd": "25920002187769",
-    "tikName": "Кунгурская № 1"
+    "tikName": "Кунгурская № 1",
+    "uikName": "УИК №4625",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 4626,
     "uikTvd": "4594046367288",
     "tikTvd": "25920002187769",
-    "tikName": "Кунгурская № 1"
+    "tikName": "Кунгурская № 1",
+    "uikName": "УИК №4626",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 4627,
     "uikTvd": "4594046367289",
     "tikTvd": "25920002187769",
-    "tikName": "Кунгурская № 1"
+    "tikName": "Кунгурская № 1",
+    "uikName": "УИК №4627",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 4628,
     "uikTvd": "4594046367290",
     "tikTvd": "25920002187769",
-    "tikName": "Кунгурская № 1"
+    "tikName": "Кунгурская № 1",
+    "uikName": "УИК №4628",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 4629,
     "uikTvd": "4594046367291",
     "tikTvd": "25920002187769",
-    "tikName": "Кунгурская № 1"
+    "tikName": "Кунгурская № 1",
+    "uikName": "УИК №4629",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 4630,
     "uikTvd": "4594046367292",
     "tikTvd": "25920002187769",
-    "tikName": "Кунгурская № 1"
+    "tikName": "Кунгурская № 1",
+    "uikName": "УИК №4630",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 4631,
     "uikTvd": "4594046367293",
     "tikTvd": "25920002187769",
-    "tikName": "Кунгурская № 1"
+    "tikName": "Кунгурская № 1",
+    "uikName": "УИК №4631",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 4632,
     "uikTvd": "4594046367294",
     "tikTvd": "25920002187769",
-    "tikName": "Кунгурская № 1"
+    "tikName": "Кунгурская № 1",
+    "uikName": "УИК №4632",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 4633,
     "uikTvd": "4594046367295",
     "tikTvd": "25920002187769",
-    "tikName": "Кунгурская № 1"
+    "tikName": "Кунгурская № 1",
+    "uikName": "УИК №4633",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 4634,
     "uikTvd": "4594046367296",
     "tikTvd": "25920002187769",
-    "tikName": "Кунгурская № 1"
+    "tikName": "Кунгурская № 1",
+    "uikName": "УИК №4634",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 4635,
     "uikTvd": "4594046367297",
     "tikTvd": "25920002187769",
-    "tikName": "Кунгурская № 1"
+    "tikName": "Кунгурская № 1",
+    "uikName": "УИК №4635",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 4636,
     "uikTvd": "4594046367298",
     "tikTvd": "25920002187769",
-    "tikName": "Кунгурская № 1"
+    "tikName": "Кунгурская № 1",
+    "uikName": "УИК №4636",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 4637,
     "uikTvd": "4594046367299",
     "tikTvd": "25920002187769",
-    "tikName": "Кунгурская № 1"
+    "tikName": "Кунгурская № 1",
+    "uikName": "УИК №4637",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 4638,
     "uikTvd": "4594046367300",
     "tikTvd": "25920002187769",
-    "tikName": "Кунгурская № 1"
+    "tikName": "Кунгурская № 1",
+    "uikName": "УИК №4638",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 4639,
     "uikTvd": "4594046367301",
     "tikTvd": "25920002187769",
-    "tikName": "Кунгурская № 1"
+    "tikName": "Кунгурская № 1",
+    "uikName": "УИК №4639",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 4640,
     "uikTvd": "4594046367302",
     "tikTvd": "25920002187769",
-    "tikName": "Кунгурская № 1"
+    "tikName": "Кунгурская № 1",
+    "uikName": "УИК №4640",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 4641,
     "uikTvd": "4594046367303",
     "tikTvd": "25920002187769",
-    "tikName": "Кунгурская № 1"
+    "tikName": "Кунгурская № 1",
+    "uikName": "УИК №4641",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 4642,
     "uikTvd": "4594046367304",
     "tikTvd": "25920002187769",
-    "tikName": "Кунгурская № 1"
+    "tikName": "Кунгурская № 1",
+    "uikName": "УИК №4642",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 4643,
     "uikTvd": "4594046367305",
     "tikTvd": "25920002187769",
-    "tikName": "Кунгурская № 1"
+    "tikName": "Кунгурская № 1",
+    "uikName": "УИК №4643",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 4644,
     "uikTvd": "4594046367306",
     "tikTvd": "25920002187769",
-    "tikName": "Кунгурская № 1"
+    "tikName": "Кунгурская № 1",
+    "uikName": "УИК №4644",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 4645,
     "uikTvd": "4594046367307",
     "tikTvd": "25920002187769",
-    "tikName": "Кунгурская № 1"
+    "tikName": "Кунгурская № 1",
+    "uikName": "УИК №4645",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 4646,
     "uikTvd": "4594046367308",
     "tikTvd": "25920002187769",
-    "tikName": "Кунгурская № 1"
+    "tikName": "Кунгурская № 1",
+    "uikName": "УИК №4646",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 4647,
     "uikTvd": "4594046367309",
     "tikTvd": "25920002187769",
-    "tikName": "Кунгурская № 1"
+    "tikName": "Кунгурская № 1",
+    "uikName": "УИК №4647",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 4648,
     "uikTvd": "4594046367310",
     "tikTvd": "25920002187769",
-    "tikName": "Кунгурская № 1"
+    "tikName": "Кунгурская № 1",
+    "uikName": "УИК №4648",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 4649,
     "uikTvd": "4594046367311",
     "tikTvd": "25920002187769",
-    "tikName": "Кунгурская № 1"
+    "tikName": "Кунгурская № 1",
+    "uikName": "УИК №4649",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 4650,
     "uikTvd": "4594046367312",
     "tikTvd": "25920002187769",
-    "tikName": "Кунгурская № 1"
+    "tikName": "Кунгурская № 1",
+    "uikName": "УИК №4650",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 4651,
     "uikTvd": "4594046367313",
     "tikTvd": "25920002187769",
-    "tikName": "Кунгурская № 1"
+    "tikName": "Кунгурская № 1",
+    "uikName": "УИК №4651",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883735",
+    "oikName": "Пермский край – Кунгурский",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100225883735"
+    }
   },
   {
     "uikNumber": 4701,
     "uikTvd": "4594036354791",
     "tikTvd": "25920002187789",
-    "tikName": "Соликамская"
+    "tikName": "Соликамская",
+    "uikName": "УИК №4701",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 4703,
     "uikTvd": "4594036354792",
     "tikTvd": "25920002187789",
-    "tikName": "Соликамская"
+    "tikName": "Соликамская",
+    "uikName": "УИК №4703",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 4704,
     "uikTvd": "4594036354793",
     "tikTvd": "25920002187789",
-    "tikName": "Соликамская"
+    "tikName": "Соликамская",
+    "uikName": "УИК №4704",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 4705,
     "uikTvd": "4594036354794",
     "tikTvd": "25920002187789",
-    "tikName": "Соликамская"
+    "tikName": "Соликамская",
+    "uikName": "УИК №4705",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 4708,
     "uikTvd": "4594036354795",
     "tikTvd": "25920002187789",
-    "tikName": "Соликамская"
+    "tikName": "Соликамская",
+    "uikName": "УИК №4708",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 4709,
     "uikTvd": "4594036354796",
     "tikTvd": "25920002187789",
-    "tikName": "Соликамская"
+    "tikName": "Соликамская",
+    "uikName": "УИК №4709",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 4710,
     "uikTvd": "4594036354797",
     "tikTvd": "25920002187789",
-    "tikName": "Соликамская"
+    "tikName": "Соликамская",
+    "uikName": "УИК №4710",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 4712,
     "uikTvd": "4594036354798",
     "tikTvd": "25920002187789",
-    "tikName": "Соликамская"
+    "tikName": "Соликамская",
+    "uikName": "УИК №4712",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 4714,
     "uikTvd": "4594036354799",
     "tikTvd": "25920002187789",
-    "tikName": "Соликамская"
+    "tikName": "Соликамская",
+    "uikName": "УИК №4714",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 4715,
     "uikTvd": "4594036354800",
     "tikTvd": "25920002187789",
-    "tikName": "Соликамская"
+    "tikName": "Соликамская",
+    "uikName": "УИК №4715",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 4717,
     "uikTvd": "4594036354801",
     "tikTvd": "25920002187789",
-    "tikName": "Соликамская"
+    "tikName": "Соликамская",
+    "uikName": "УИК №4717",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 4719,
     "uikTvd": "4594036354802",
     "tikTvd": "25920002187789",
-    "tikName": "Соликамская"
+    "tikName": "Соликамская",
+    "uikName": "УИК №4719",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 4720,
     "uikTvd": "4594036354803",
     "tikTvd": "25920002187789",
-    "tikName": "Соликамская"
+    "tikName": "Соликамская",
+    "uikName": "УИК №4720",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 4721,
     "uikTvd": "4594036354804",
     "tikTvd": "25920002187789",
-    "tikName": "Соликамская"
+    "tikName": "Соликамская",
+    "uikName": "УИК №4721",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 4724,
     "uikTvd": "4594036354805",
     "tikTvd": "25920002187789",
-    "tikName": "Соликамская"
+    "tikName": "Соликамская",
+    "uikName": "УИК №4724",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 4725,
     "uikTvd": "4594036354806",
     "tikTvd": "25920002187789",
-    "tikName": "Соликамская"
+    "tikName": "Соликамская",
+    "uikName": "УИК №4725",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 4801,
     "uikTvd": "4814002232024",
     "tikTvd": "25920002187787",
-    "tikName": "Гайнская"
+    "tikName": "Гайнская",
+    "uikName": "УИК №4801",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 4802,
     "uikTvd": "4814002232025",
     "tikTvd": "25920002187787",
-    "tikName": "Гайнская"
+    "tikName": "Гайнская",
+    "uikName": "УИК №4802",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 4803,
     "uikTvd": "4814002232026",
     "tikTvd": "25920002187787",
-    "tikName": "Гайнская"
+    "tikName": "Гайнская",
+    "uikName": "УИК №4803",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 4804,
     "uikTvd": "4814002232027",
     "tikTvd": "25920002187787",
-    "tikName": "Гайнская"
+    "tikName": "Гайнская",
+    "uikName": "УИК №4804",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 4805,
     "uikTvd": "4814002232028",
     "tikTvd": "25920002187787",
-    "tikName": "Гайнская"
+    "tikName": "Гайнская",
+    "uikName": "УИК №4805",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 4806,
     "uikTvd": "4814002232029",
     "tikTvd": "25920002187787",
-    "tikName": "Гайнская"
+    "tikName": "Гайнская",
+    "uikName": "УИК №4806",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 4809,
     "uikTvd": "4814002232030",
     "tikTvd": "25920002187787",
-    "tikName": "Гайнская"
+    "tikName": "Гайнская",
+    "uikName": "УИК №4809",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 4810,
     "uikTvd": "4814002232031",
     "tikTvd": "25920002187787",
-    "tikName": "Гайнская"
+    "tikName": "Гайнская",
+    "uikName": "УИК №4810",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 4812,
     "uikTvd": "4814002232032",
     "tikTvd": "25920002187787",
-    "tikName": "Гайнская"
+    "tikName": "Гайнская",
+    "uikName": "УИК №4812",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 4814,
     "uikTvd": "4814002232033",
     "tikTvd": "25920002187787",
-    "tikName": "Гайнская"
+    "tikName": "Гайнская",
+    "uikName": "УИК №4814",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 4815,
     "uikTvd": "4814002232034",
     "tikTvd": "25920002187787",
-    "tikName": "Гайнская"
+    "tikName": "Гайнская",
+    "uikName": "УИК №4815",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 4818,
     "uikTvd": "4814002232035",
     "tikTvd": "25920002187787",
-    "tikName": "Гайнская"
+    "tikName": "Гайнская",
+    "uikName": "УИК №4818",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 4821,
     "uikTvd": "4814002232036",
     "tikTvd": "25920002187787",
-    "tikName": "Гайнская"
+    "tikName": "Гайнская",
+    "uikName": "УИК №4821",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 4822,
     "uikTvd": "4814002232037",
     "tikTvd": "25920002187787",
-    "tikName": "Гайнская"
+    "tikName": "Гайнская",
+    "uikName": "УИК №4822",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 4823,
     "uikTvd": "4814002232038",
     "tikTvd": "25920002187787",
-    "tikName": "Гайнская"
+    "tikName": "Гайнская",
+    "uikName": "УИК №4823",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 4824,
     "uikTvd": "4814002232039",
     "tikTvd": "25920002187787",
-    "tikName": "Гайнская"
+    "tikName": "Гайнская",
+    "uikName": "УИК №4824",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 4825,
     "uikTvd": "4814002232040",
     "tikTvd": "25920002187787",
-    "tikName": "Гайнская"
+    "tikName": "Гайнская",
+    "uikName": "УИК №4825",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 4826,
     "uikTvd": "4814002232041",
     "tikTvd": "25920002187787",
-    "tikName": "Гайнская"
+    "tikName": "Гайнская",
+    "uikName": "УИК №4826",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 4827,
     "uikTvd": "4814002232042",
     "tikTvd": "25920002187787",
-    "tikName": "Гайнская"
+    "tikName": "Гайнская",
+    "uikName": "УИК №4827",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 4901,
     "uikTvd": "4814003201329",
     "tikTvd": "25920002187786",
-    "tikName": "Косинская"
+    "tikName": "Косинская",
+    "uikName": "УИК №4901",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 4902,
     "uikTvd": "4814003201330",
     "tikTvd": "25920002187786",
-    "tikName": "Косинская"
+    "tikName": "Косинская",
+    "uikName": "УИК №4902",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 4905,
     "uikTvd": "4814003201331",
     "tikTvd": "25920002187786",
-    "tikName": "Косинская"
+    "tikName": "Косинская",
+    "uikName": "УИК №4905",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 4906,
     "uikTvd": "4814003201332",
     "tikTvd": "25920002187786",
-    "tikName": "Косинская"
+    "tikName": "Косинская",
+    "uikName": "УИК №4906",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 4907,
     "uikTvd": "4814003201333",
     "tikTvd": "25920002187786",
-    "tikName": "Косинская"
+    "tikName": "Косинская",
+    "uikName": "УИК №4907",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 4908,
     "uikTvd": "4814003201334",
     "tikTvd": "25920002187786",
-    "tikName": "Косинская"
+    "tikName": "Косинская",
+    "uikName": "УИК №4908",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 4910,
     "uikTvd": "4814003201335",
     "tikTvd": "25920002187786",
-    "tikName": "Косинская"
+    "tikName": "Косинская",
+    "uikName": "УИК №4910",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 4911,
     "uikTvd": "4814003201336",
     "tikTvd": "25920002187786",
-    "tikName": "Косинская"
+    "tikName": "Косинская",
+    "uikName": "УИК №4911",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 4912,
     "uikTvd": "4814003201337",
     "tikTvd": "25920002187786",
-    "tikName": "Косинская"
+    "tikName": "Косинская",
+    "uikName": "УИК №4912",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 4913,
     "uikTvd": "4814003201338",
     "tikTvd": "25920002187786",
-    "tikName": "Косинская"
+    "tikName": "Косинская",
+    "uikName": "УИК №4913",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 4915,
     "uikTvd": "4814003201339",
     "tikTvd": "25920002187786",
-    "tikName": "Косинская"
+    "tikName": "Косинская",
+    "uikName": "УИК №4915",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 4917,
     "uikTvd": "4814003201340",
     "tikTvd": "25920002187786",
-    "tikName": "Косинская"
+    "tikName": "Косинская",
+    "uikName": "УИК №4917",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 4918,
     "uikTvd": "4814003201341",
     "tikTvd": "25920002187786",
-    "tikName": "Косинская"
+    "tikName": "Косинская",
+    "uikName": "УИК №4918",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 5001,
     "uikTvd": "4824004197926",
     "tikTvd": "25920002187785",
-    "tikName": "Кочевская"
+    "tikName": "Кочевская",
+    "uikName": "УИК №5001",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 5002,
     "uikTvd": "4824004197927",
     "tikTvd": "25920002187785",
-    "tikName": "Кочевская"
+    "tikName": "Кочевская",
+    "uikName": "УИК №5002",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 5003,
     "uikTvd": "4824004197928",
     "tikTvd": "25920002187785",
-    "tikName": "Кочевская"
+    "tikName": "Кочевская",
+    "uikName": "УИК №5003",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 5004,
     "uikTvd": "4824004197929",
     "tikTvd": "25920002187785",
-    "tikName": "Кочевская"
+    "tikName": "Кочевская",
+    "uikName": "УИК №5004",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 5005,
     "uikTvd": "4824004197930",
     "tikTvd": "25920002187785",
-    "tikName": "Кочевская"
+    "tikName": "Кочевская",
+    "uikName": "УИК №5005",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 5006,
     "uikTvd": "4824004197931",
     "tikTvd": "25920002187785",
-    "tikName": "Кочевская"
+    "tikName": "Кочевская",
+    "uikName": "УИК №5006",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 5007,
     "uikTvd": "4824004197932",
     "tikTvd": "25920002187785",
-    "tikName": "Кочевская"
+    "tikName": "Кочевская",
+    "uikName": "УИК №5007",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 5008,
     "uikTvd": "4824004197933",
     "tikTvd": "25920002187785",
-    "tikName": "Кочевская"
+    "tikName": "Кочевская",
+    "uikName": "УИК №5008",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 5009,
     "uikTvd": "4824004197934",
     "tikTvd": "25920002187785",
-    "tikName": "Кочевская"
+    "tikName": "Кочевская",
+    "uikName": "УИК №5009",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 5010,
     "uikTvd": "4824004197935",
     "tikTvd": "25920002187785",
-    "tikName": "Кочевская"
+    "tikName": "Кочевская",
+    "uikName": "УИК №5010",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 5011,
     "uikTvd": "4824004197936",
     "tikTvd": "25920002187785",
-    "tikName": "Кочевская"
+    "tikName": "Кочевская",
+    "uikName": "УИК №5011",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 5012,
     "uikTvd": "4824004197937",
     "tikTvd": "25920002187785",
-    "tikName": "Кочевская"
+    "tikName": "Кочевская",
+    "uikName": "УИК №5012",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 5013,
     "uikTvd": "4824004197938",
     "tikTvd": "25920002187785",
-    "tikName": "Кочевская"
+    "tikName": "Кочевская",
+    "uikName": "УИК №5013",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 5014,
     "uikTvd": "4824004197939",
     "tikTvd": "25920002187785",
-    "tikName": "Кочевская"
+    "tikName": "Кочевская",
+    "uikName": "УИК №5014",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 5015,
     "uikTvd": "4824004197940",
     "tikTvd": "25920002187785",
-    "tikName": "Кочевская"
+    "tikName": "Кочевская",
+    "uikName": "УИК №5015",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 5016,
     "uikTvd": "4824004197941",
     "tikTvd": "25920002187785",
-    "tikName": "Кочевская"
+    "tikName": "Кочевская",
+    "uikName": "УИК №5016",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 5017,
     "uikTvd": "4824004197942",
     "tikTvd": "25920002187785",
-    "tikName": "Кочевская"
+    "tikName": "Кочевская",
+    "uikName": "УИК №5017",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 5018,
     "uikTvd": "4824004197943",
     "tikTvd": "25920002187785",
-    "tikName": "Кочевская"
+    "tikName": "Кочевская",
+    "uikName": "УИК №5018",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 5019,
     "uikTvd": "4824004197944",
     "tikTvd": "25920002187785",
-    "tikName": "Кочевская"
+    "tikName": "Кочевская",
+    "uikName": "УИК №5019",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 5020,
     "uikTvd": "4824004197945",
     "tikTvd": "25920002187785",
-    "tikName": "Кочевская"
+    "tikName": "Кочевская",
+    "uikName": "УИК №5020",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 5022,
     "uikTvd": "4824004197946",
     "tikTvd": "25920002187785",
-    "tikName": "Кочевская"
+    "tikName": "Кочевская",
+    "uikName": "УИК №5022",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 5101,
     "uikTvd": "4814001254040",
     "tikTvd": "25920002187784",
-    "tikName": "Кудымкарская муниципальная"
+    "tikName": "Кудымкарская муниципальная",
+    "uikName": "УИК №5101",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 5102,
     "uikTvd": "4814001254041",
     "tikTvd": "25920002187784",
-    "tikName": "Кудымкарская муниципальная"
+    "tikName": "Кудымкарская муниципальная",
+    "uikName": "УИК №5102",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 5103,
     "uikTvd": "4814001254042",
     "tikTvd": "25920002187784",
-    "tikName": "Кудымкарская муниципальная"
+    "tikName": "Кудымкарская муниципальная",
+    "uikName": "УИК №5103",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 5104,
     "uikTvd": "4814001254043",
     "tikTvd": "25920002187784",
-    "tikName": "Кудымкарская муниципальная"
+    "tikName": "Кудымкарская муниципальная",
+    "uikName": "УИК №5104",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 5105,
     "uikTvd": "4814001254044",
     "tikTvd": "25920002187784",
-    "tikName": "Кудымкарская муниципальная"
+    "tikName": "Кудымкарская муниципальная",
+    "uikName": "УИК №5105",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 5106,
     "uikTvd": "4814001254045",
     "tikTvd": "25920002187784",
-    "tikName": "Кудымкарская муниципальная"
+    "tikName": "Кудымкарская муниципальная",
+    "uikName": "УИК №5106",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 5107,
     "uikTvd": "4814001254046",
     "tikTvd": "25920002187784",
-    "tikName": "Кудымкарская муниципальная"
+    "tikName": "Кудымкарская муниципальная",
+    "uikName": "УИК №5107",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 5109,
     "uikTvd": "4814001254047",
     "tikTvd": "25920002187784",
-    "tikName": "Кудымкарская муниципальная"
+    "tikName": "Кудымкарская муниципальная",
+    "uikName": "УИК №5109",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 5110,
     "uikTvd": "4814001254048",
     "tikTvd": "25920002187784",
-    "tikName": "Кудымкарская муниципальная"
+    "tikName": "Кудымкарская муниципальная",
+    "uikName": "УИК №5110",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 5111,
     "uikTvd": "4814001254049",
     "tikTvd": "25920002187784",
-    "tikName": "Кудымкарская муниципальная"
+    "tikName": "Кудымкарская муниципальная",
+    "uikName": "УИК №5111",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 5112,
     "uikTvd": "4814001254050",
     "tikTvd": "25920002187784",
-    "tikName": "Кудымкарская муниципальная"
+    "tikName": "Кудымкарская муниципальная",
+    "uikName": "УИК №5112",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 5113,
     "uikTvd": "4814001254051",
     "tikTvd": "25920002187784",
-    "tikName": "Кудымкарская муниципальная"
+    "tikName": "Кудымкарская муниципальная",
+    "uikName": "УИК №5113",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 5114,
     "uikTvd": "4814001254052",
     "tikTvd": "25920002187784",
-    "tikName": "Кудымкарская муниципальная"
+    "tikName": "Кудымкарская муниципальная",
+    "uikName": "УИК №5114",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 5115,
     "uikTvd": "4814001254053",
     "tikTvd": "25920002187784",
-    "tikName": "Кудымкарская муниципальная"
+    "tikName": "Кудымкарская муниципальная",
+    "uikName": "УИК №5115",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 5116,
     "uikTvd": "4814001254054",
     "tikTvd": "25920002187784",
-    "tikName": "Кудымкарская муниципальная"
+    "tikName": "Кудымкарская муниципальная",
+    "uikName": "УИК №5116",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 5117,
     "uikTvd": "4814001254055",
     "tikTvd": "25920002187784",
-    "tikName": "Кудымкарская муниципальная"
+    "tikName": "Кудымкарская муниципальная",
+    "uikName": "УИК №5117",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 5118,
     "uikTvd": "4814001254056",
     "tikTvd": "25920002187784",
-    "tikName": "Кудымкарская муниципальная"
+    "tikName": "Кудымкарская муниципальная",
+    "uikName": "УИК №5118",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 5119,
     "uikTvd": "4814001254057",
     "tikTvd": "25920002187784",
-    "tikName": "Кудымкарская муниципальная"
+    "tikName": "Кудымкарская муниципальная",
+    "uikName": "УИК №5119",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 5120,
     "uikTvd": "4814001254058",
     "tikTvd": "25920002187784",
-    "tikName": "Кудымкарская муниципальная"
+    "tikName": "Кудымкарская муниципальная",
+    "uikName": "УИК №5120",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 5121,
     "uikTvd": "4814001254059",
     "tikTvd": "25920002187784",
-    "tikName": "Кудымкарская муниципальная"
+    "tikName": "Кудымкарская муниципальная",
+    "uikName": "УИК №5121",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 5122,
     "uikTvd": "4814001254060",
     "tikTvd": "25920002187784",
-    "tikName": "Кудымкарская муниципальная"
+    "tikName": "Кудымкарская муниципальная",
+    "uikName": "УИК №5122",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 5123,
     "uikTvd": "4814001254061",
     "tikTvd": "25920002187784",
-    "tikName": "Кудымкарская муниципальная"
+    "tikName": "Кудымкарская муниципальная",
+    "uikName": "УИК №5123",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 5124,
     "uikTvd": "4814001254062",
     "tikTvd": "25920002187784",
-    "tikName": "Кудымкарская муниципальная"
+    "tikName": "Кудымкарская муниципальная",
+    "uikName": "УИК №5124",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 5125,
     "uikTvd": "4814001254063",
     "tikTvd": "25920002187784",
-    "tikName": "Кудымкарская муниципальная"
+    "tikName": "Кудымкарская муниципальная",
+    "uikName": "УИК №5125",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 5126,
     "uikTvd": "4814001254064",
     "tikTvd": "25920002187784",
-    "tikName": "Кудымкарская муниципальная"
+    "tikName": "Кудымкарская муниципальная",
+    "uikName": "УИК №5126",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 5127,
     "uikTvd": "4814001254065",
     "tikTvd": "25920002187784",
-    "tikName": "Кудымкарская муниципальная"
+    "tikName": "Кудымкарская муниципальная",
+    "uikName": "УИК №5127",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 5129,
     "uikTvd": "4814001254066",
     "tikTvd": "25920002187784",
-    "tikName": "Кудымкарская муниципальная"
+    "tikName": "Кудымкарская муниципальная",
+    "uikName": "УИК №5129",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 5131,
     "uikTvd": "4814001254067",
     "tikTvd": "25920002187784",
-    "tikName": "Кудымкарская муниципальная"
+    "tikName": "Кудымкарская муниципальная",
+    "uikName": "УИК №5131",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 5132,
     "uikTvd": "4814001254068",
     "tikTvd": "25920002187784",
-    "tikName": "Кудымкарская муниципальная"
+    "tikName": "Кудымкарская муниципальная",
+    "uikName": "УИК №5132",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 5133,
     "uikTvd": "4814001254069",
     "tikTvd": "25920002187784",
-    "tikName": "Кудымкарская муниципальная"
+    "tikName": "Кудымкарская муниципальная",
+    "uikName": "УИК №5133",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 5135,
     "uikTvd": "4814001254070",
     "tikTvd": "25920002187784",
-    "tikName": "Кудымкарская муниципальная"
+    "tikName": "Кудымкарская муниципальная",
+    "uikName": "УИК №5135",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 5137,
     "uikTvd": "4814001254071",
     "tikTvd": "25920002187784",
-    "tikName": "Кудымкарская муниципальная"
+    "tikName": "Кудымкарская муниципальная",
+    "uikName": "УИК №5137",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 5139,
     "uikTvd": "4814001254072",
     "tikTvd": "25920002187784",
-    "tikName": "Кудымкарская муниципальная"
+    "tikName": "Кудымкарская муниципальная",
+    "uikName": "УИК №5139",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 5140,
     "uikTvd": "4814001254073",
     "tikTvd": "25920002187784",
-    "tikName": "Кудымкарская муниципальная"
+    "tikName": "Кудымкарская муниципальная",
+    "uikName": "УИК №5140",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 5141,
     "uikTvd": "4814001254074",
     "tikTvd": "25920002187784",
-    "tikName": "Кудымкарская муниципальная"
+    "tikName": "Кудымкарская муниципальная",
+    "uikName": "УИК №5141",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 5142,
     "uikTvd": "4814001254075",
     "tikTvd": "25920002187784",
-    "tikName": "Кудымкарская муниципальная"
+    "tikName": "Кудымкарская муниципальная",
+    "uikName": "УИК №5142",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 5201,
     "uikTvd": "4814007278096",
     "tikTvd": "25920002187783",
-    "tikName": "Кудымкарская городская"
+    "tikName": "Кудымкарская городская",
+    "uikName": "УИК №5201",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 5202,
     "uikTvd": "4814007278098",
     "tikTvd": "25920002187783",
-    "tikName": "Кудымкарская городская"
+    "tikName": "Кудымкарская городская",
+    "uikName": "УИК №5202",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 5203,
     "uikTvd": "4814007278099",
     "tikTvd": "25920002187783",
-    "tikName": "Кудымкарская городская"
+    "tikName": "Кудымкарская городская",
+    "uikName": "УИК №5203",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 5204,
     "uikTvd": "4814007278100",
     "tikTvd": "25920002187783",
-    "tikName": "Кудымкарская городская"
+    "tikName": "Кудымкарская городская",
+    "uikName": "УИК №5204",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 5205,
     "uikTvd": "4814007278101",
     "tikTvd": "25920002187783",
-    "tikName": "Кудымкарская городская"
+    "tikName": "Кудымкарская городская",
+    "uikName": "УИК №5205",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 5206,
     "uikTvd": "4814007278102",
     "tikTvd": "25920002187783",
-    "tikName": "Кудымкарская городская"
+    "tikName": "Кудымкарская городская",
+    "uikName": "УИК №5206",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 5207,
     "uikTvd": "4814007278103",
     "tikTvd": "25920002187783",
-    "tikName": "Кудымкарская городская"
+    "tikName": "Кудымкарская городская",
+    "uikName": "УИК №5207",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 5208,
     "uikTvd": "4814007278104",
     "tikTvd": "25920002187783",
-    "tikName": "Кудымкарская городская"
+    "tikName": "Кудымкарская городская",
+    "uikName": "УИК №5208",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 5209,
     "uikTvd": "4814007278105",
     "tikTvd": "25920002187783",
-    "tikName": "Кудымкарская городская"
+    "tikName": "Кудымкарская городская",
+    "uikName": "УИК №5209",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 5210,
     "uikTvd": "4814007278106",
     "tikTvd": "25920002187783",
-    "tikName": "Кудымкарская городская"
+    "tikName": "Кудымкарская городская",
+    "uikName": "УИК №5210",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 5211,
     "uikTvd": "4814007278107",
     "tikTvd": "25920002187783",
-    "tikName": "Кудымкарская городская"
+    "tikName": "Кудымкарская городская",
+    "uikName": "УИК №5211",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 5212,
     "uikTvd": "4814007278108",
     "tikTvd": "25920002187783",
-    "tikName": "Кудымкарская городская"
+    "tikName": "Кудымкарская городская",
+    "uikName": "УИК №5212",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 5213,
     "uikTvd": "4814007278109",
     "tikTvd": "25920002187783",
-    "tikName": "Кудымкарская городская"
+    "tikName": "Кудымкарская городская",
+    "uikName": "УИК №5213",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 5214,
     "uikTvd": "4814007278110",
     "tikTvd": "25920002187783",
-    "tikName": "Кудымкарская городская"
+    "tikName": "Кудымкарская городская",
+    "uikName": "УИК №5214",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 5215,
     "uikTvd": "4814007278111",
     "tikTvd": "25920002187783",
-    "tikName": "Кудымкарская городская"
+    "tikName": "Кудымкарская городская",
+    "uikName": "УИК №5215",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 5216,
     "uikTvd": "4814007278112",
     "tikTvd": "25920002187783",
-    "tikName": "Кудымкарская городская"
+    "tikName": "Кудымкарская городская",
+    "uikName": "УИК №5216",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 5217,
     "uikTvd": "4814007278113",
     "tikTvd": "25920002187783",
-    "tikName": "Кудымкарская городская"
+    "tikName": "Кудымкарская городская",
+    "uikName": "УИК №5217",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 5218,
     "uikTvd": "4814007286630",
     "tikTvd": "25920002187783",
-    "tikName": "Кудымкарская городская"
+    "tikName": "Кудымкарская городская",
+    "uikName": "УИК №5218",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 5219,
     "uikTvd": "4814007286631",
     "tikTvd": "25920002187783",
-    "tikName": "Кудымкарская городская"
+    "tikName": "Кудымкарская городская",
+    "uikName": "УИК №5219",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 5301,
     "uikTvd": "4814005177565",
     "tikTvd": "25920002187782",
-    "tikName": "Юрлинская"
+    "tikName": "Юрлинская",
+    "uikName": "УИК №5301",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 5302,
     "uikTvd": "4814005177566",
     "tikTvd": "25920002187782",
-    "tikName": "Юрлинская"
+    "tikName": "Юрлинская",
+    "uikName": "УИК №5302",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 5303,
     "uikTvd": "4814005177567",
     "tikTvd": "25920002187782",
-    "tikName": "Юрлинская"
+    "tikName": "Юрлинская",
+    "uikName": "УИК №5303",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 5304,
     "uikTvd": "4814005177568",
     "tikTvd": "25920002187782",
-    "tikName": "Юрлинская"
+    "tikName": "Юрлинская",
+    "uikName": "УИК №5304",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 5305,
     "uikTvd": "4814005177569",
     "tikTvd": "25920002187782",
-    "tikName": "Юрлинская"
+    "tikName": "Юрлинская",
+    "uikName": "УИК №5305",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 5306,
     "uikTvd": "4814005177570",
     "tikTvd": "25920002187782",
-    "tikName": "Юрлинская"
+    "tikName": "Юрлинская",
+    "uikName": "УИК №5306",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 5308,
     "uikTvd": "4814005177571",
     "tikTvd": "25920002187782",
-    "tikName": "Юрлинская"
+    "tikName": "Юрлинская",
+    "uikName": "УИК №5308",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 5309,
     "uikTvd": "4814005177572",
     "tikTvd": "25920002187782",
-    "tikName": "Юрлинская"
+    "tikName": "Юрлинская",
+    "uikName": "УИК №5309",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 5310,
     "uikTvd": "4814005177573",
     "tikTvd": "25920002187782",
-    "tikName": "Юрлинская"
+    "tikName": "Юрлинская",
+    "uikName": "УИК №5310",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 5311,
     "uikTvd": "4814005177574",
     "tikTvd": "25920002187782",
-    "tikName": "Юрлинская"
+    "tikName": "Юрлинская",
+    "uikName": "УИК №5311",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 5312,
     "uikTvd": "4814005177575",
     "tikTvd": "25920002187782",
-    "tikName": "Юрлинская"
+    "tikName": "Юрлинская",
+    "uikName": "УИК №5312",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 5313,
     "uikTvd": "4814005177576",
     "tikTvd": "25920002187782",
-    "tikName": "Юрлинская"
+    "tikName": "Юрлинская",
+    "uikName": "УИК №5313",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 5314,
     "uikTvd": "4814005177577",
     "tikTvd": "25920002187782",
-    "tikName": "Юрлинская"
+    "tikName": "Юрлинская",
+    "uikName": "УИК №5314",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 5315,
     "uikTvd": "4814005177578",
     "tikTvd": "25920002187782",
-    "tikName": "Юрлинская"
+    "tikName": "Юрлинская",
+    "uikName": "УИК №5315",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 5316,
     "uikTvd": "4814005177579",
     "tikTvd": "25920002187782",
-    "tikName": "Юрлинская"
+    "tikName": "Юрлинская",
+    "uikName": "УИК №5316",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 5317,
     "uikTvd": "4814005177580",
     "tikTvd": "25920002187782",
-    "tikName": "Юрлинская"
+    "tikName": "Юрлинская",
+    "uikName": "УИК №5317",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 5318,
     "uikTvd": "4814005177581",
     "tikTvd": "25920002187782",
-    "tikName": "Юрлинская"
+    "tikName": "Юрлинская",
+    "uikName": "УИК №5318",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 5401,
     "uikTvd": "4814006237938",
     "tikTvd": "25920002187781",
-    "tikName": "Юсьвинская"
+    "tikName": "Юсьвинская",
+    "uikName": "УИК №5401",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 5402,
     "uikTvd": "4814006237939",
     "tikTvd": "25920002187781",
-    "tikName": "Юсьвинская"
+    "tikName": "Юсьвинская",
+    "uikName": "УИК №5402",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 5403,
     "uikTvd": "4814006237940",
     "tikTvd": "25920002187781",
-    "tikName": "Юсьвинская"
+    "tikName": "Юсьвинская",
+    "uikName": "УИК №5403",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 5404,
     "uikTvd": "4814006237941",
     "tikTvd": "25920002187781",
-    "tikName": "Юсьвинская"
+    "tikName": "Юсьвинская",
+    "uikName": "УИК №5404",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 5405,
     "uikTvd": "4814006237942",
     "tikTvd": "25920002187781",
-    "tikName": "Юсьвинская"
+    "tikName": "Юсьвинская",
+    "uikName": "УИК №5405",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 5406,
     "uikTvd": "4814006237943",
     "tikTvd": "25920002187781",
-    "tikName": "Юсьвинская"
+    "tikName": "Юсьвинская",
+    "uikName": "УИК №5406",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 5407,
     "uikTvd": "4814006237944",
     "tikTvd": "25920002187781",
-    "tikName": "Юсьвинская"
+    "tikName": "Юсьвинская",
+    "uikName": "УИК №5407",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 5408,
     "uikTvd": "4814006237945",
     "tikTvd": "25920002187781",
-    "tikName": "Юсьвинская"
+    "tikName": "Юсьвинская",
+    "uikName": "УИК №5408",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 5409,
     "uikTvd": "4814006237946",
     "tikTvd": "25920002187781",
-    "tikName": "Юсьвинская"
+    "tikName": "Юсьвинская",
+    "uikName": "УИК №5409",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 5410,
     "uikTvd": "4814006237947",
     "tikTvd": "25920002187781",
-    "tikName": "Юсьвинская"
+    "tikName": "Юсьвинская",
+    "uikName": "УИК №5410",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 5411,
     "uikTvd": "4814006237948",
     "tikTvd": "25920002187781",
-    "tikName": "Юсьвинская"
+    "tikName": "Юсьвинская",
+    "uikName": "УИК №5411",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 5412,
     "uikTvd": "4814006237949",
     "tikTvd": "25920002187781",
-    "tikName": "Юсьвинская"
+    "tikName": "Юсьвинская",
+    "uikName": "УИК №5412",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 5414,
     "uikTvd": "4814006237950",
     "tikTvd": "25920002187781",
-    "tikName": "Юсьвинская"
+    "tikName": "Юсьвинская",
+    "uikName": "УИК №5414",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 5416,
     "uikTvd": "4814006237951",
     "tikTvd": "25920002187781",
-    "tikName": "Юсьвинская"
+    "tikName": "Юсьвинская",
+    "uikName": "УИК №5416",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 5417,
     "uikTvd": "4814006237952",
     "tikTvd": "25920002187781",
-    "tikName": "Юсьвинская"
+    "tikName": "Юсьвинская",
+    "uikName": "УИК №5417",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 5418,
     "uikTvd": "4814006237953",
     "tikTvd": "25920002187781",
-    "tikName": "Юсьвинская"
+    "tikName": "Юсьвинская",
+    "uikName": "УИК №5418",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 5419,
     "uikTvd": "4814006237954",
     "tikTvd": "25920002187781",
-    "tikName": "Юсьвинская"
+    "tikName": "Юсьвинская",
+    "uikName": "УИК №5419",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 5420,
     "uikTvd": "4814006237955",
     "tikTvd": "25920002187781",
-    "tikName": "Юсьвинская"
+    "tikName": "Юсьвинская",
+    "uikName": "УИК №5420",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 5421,
     "uikTvd": "4814006237956",
     "tikTvd": "25920002187781",
-    "tikName": "Юсьвинская"
+    "tikName": "Юсьвинская",
+    "uikName": "УИК №5421",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 5422,
     "uikTvd": "4814006237957",
     "tikTvd": "25920002187781",
-    "tikName": "Юсьвинская"
+    "tikName": "Юсьвинская",
+    "uikName": "УИК №5422",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 5423,
     "uikTvd": "4814006237958",
     "tikTvd": "25920002187781",
-    "tikName": "Юсьвинская"
+    "tikName": "Юсьвинская",
+    "uikName": "УИК №5423",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 5424,
     "uikTvd": "4814006237959",
     "tikTvd": "25920002187781",
-    "tikName": "Юсьвинская"
+    "tikName": "Юсьвинская",
+    "uikName": "УИК №5424",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 5425,
     "uikTvd": "4814006237960",
     "tikTvd": "25920002187781",
-    "tikName": "Юсьвинская"
+    "tikName": "Юсьвинская",
+    "uikName": "УИК №5425",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   },
   {
     "uikNumber": 5426,
     "uikTvd": "4814006237961",
     "tikTvd": "25920002187781",
-    "tikName": "Юсьвинская"
+    "tikName": "Юсьвинская",
+    "uikName": "УИК №5426",
+    "regionCode": "90",
+    "regionTvd": "100100225883732",
+    "regionName": "Пермский край",
+    "oikTvd": "100100225883736",
+    "oikName": "Пермский край – Кудымкарский",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100225883736"
+    }
   }
 ] satisfies readonly UikTikRelation[];

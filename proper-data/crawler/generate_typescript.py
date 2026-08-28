@@ -184,8 +184,12 @@ def _uik_value(
         "ballot": "party" if party else "single-member",
         "uikNumber": record["uik_number"],
         "uikTvd": str(record["uik_tvd"]),
+        "uikName": record["uik_name"],
         "tikTvd": record["tik_tvd"],
         "tikName": record["tik_name"],
+        "regionCode": str(record["region_code"]),
+        "regionTvd": str(record["region_tvd"]),
+        "regionName": record["region_name"],
         "accounting": record[accounting_field],
         "votes": record[vote_field],
         "source": _source(
@@ -227,6 +231,9 @@ def _tik_value(
         "ballot": "party" if party else "single-member",
         "tikTvd": tik_tvd,
         "tikName": sources[tik_tvd].get("tik_name", tik_records[0]["tik_name"]),
+        "regionCode": str(tik_records[0]["region_code"]),
+        "regionTvd": str(tik_records[0]["region_tvd"]),
+        "regionName": tik_records[0]["region_name"],
         "uikCount": aggregate["uik_count"],
         "accounting": aggregate["accounting"],
         "votes": aggregate["votes"],
@@ -322,6 +329,14 @@ def generate(
             str(item["uik_tvd"]),
         ),
     )
+    relations_by_uik = {
+        str(item["uik_tvd"]): item for item in dataset.get("relations", [])
+    }
+    for record in records:
+        relation = relations_by_uik.get(str(record["uik_tvd"]), {})
+        for key in ("uik_name", "region_code", "region_tvd", "region_name"):
+            if record.get(key) in (None, "") and relation.get(key) not in (None, ""):
+                record[key] = relation[key]
     sources = {item["tik_tvd"]: item for item in dataset["sources"]}
     official = {item["tik_tvd"]: item for item in dataset.get("tik_protocols", [])}
     grouped: defaultdict[str, list[dict[str, Any]]] = defaultdict(list)

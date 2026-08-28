@@ -57,14 +57,14 @@ async function bootstrap(): Promise<{ electionId: number; ballotId: number; regi
 
   await db.unsafe(`
     INSERT INTO analysis_methods (slug, version, name, description, parameters)
-    VALUES ('peer-clt-v2', 2, 'Peer-conditioned CLT residuals', $1, $2::jsonb)
+    VALUES ('protocol-cloud-clt-v3', 3, 'Election-wide protocol cloud', $1, $2::jsonb)
     ON CONFLICT (slug) DO UPDATE SET version = EXCLUDED.version, name = EXCLUDED.name,
       description = EXCLUDED.description, parameters = EXCLUDED.parameters
   `, [
-    "Leave-one-out TIK/region peer expectations with hierarchical shrinkage, robust overdispersion, empirical P_sus calibration, and Benjamini-Yekutieli review q-values.",
-    JSON.stringify({ turnoutBinWidth: 2.5, turnoutWindow: 10, minTikPeers: 8,
-      minRegionPeers: 30, tikPriorBallots: 2000, regionPriorBallots: 10000,
-      dispersionPriorPoints: 30, fdrThreshold: 0.05, degIncluded: false })
+    "Robust bivariate core fitted to turnout and selected-party result across all physical UIK protocols, with finite-count variance and per-protocol chi-square incompatibility grades.",
+    JSON.stringify({ coreFraction: 0.5, coreIterations: 8, covarianceRidge: 0.0001,
+      fdrThreshold: 0.05, reviewThreshold: 0.999,
+      degIncluded: false })
   ]);
   return { electionId, ballotId: Number(ballot.id), regionIds };
 }
@@ -181,7 +181,7 @@ await db.unsafe(`
     missing_party_protocols = EXCLUDED.missing_party_protocols, deg_policy = EXCLUDED.deg_policy,
     source_schema_version = EXCLUDED.source_schema_version, updated_at = now()
 `, [electionId, coverage.regions.length, totals.tiks, totals.uiks, imported, totals.missing,
-  "excluded-outside-peer-clt-model", coverage.schema_version]);
+  "excluded-outside-protocol-cloud-model", coverage.schema_version]);
 
 if (imported !== totals.party) throw new Error(`Imported ${imported} protocols, coverage declares ${totals.party}`);
 console.log(`2021 party-list import complete: ${imported.toLocaleString()} physical UIK protocols`);

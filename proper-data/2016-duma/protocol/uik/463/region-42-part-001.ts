@@ -43,11 +43,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 368,
-      "Антонов Георгий Антонович": 1,
-      "Клейстер Роман Юрьевич": 57,
-      "Потапов Петр Николаевич": 1,
-      "Рябинюк Людмила Владимировна": 113
+      "gas:candidate-vibid:2422000977091": 368,
+      "gas:candidate-vibid:2422000976122": 1,
+      "gas:candidate-vibid:2422000974731": 57,
+      "gas:candidate-vibid:2422000976387": 1,
+      "gas:candidate-vibid:2422000976565": 113
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909133&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909133&type=464",
@@ -98,11 +98,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 405,
-      "Антонов Георгий Антонович": 2,
-      "Клейстер Роман Юрьевич": 68,
-      "Потапов Петр Николаевич": 1,
-      "Рябинюк Людмила Владимировна": 133
+      "gas:candidate-vibid:2422000977091": 405,
+      "gas:candidate-vibid:2422000976122": 2,
+      "gas:candidate-vibid:2422000974731": 68,
+      "gas:candidate-vibid:2422000976387": 1,
+      "gas:candidate-vibid:2422000976565": 133
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909133&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909133&type=464",
@@ -153,11 +153,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 359,
-      "Антонов Георгий Антонович": 2,
-      "Клейстер Роман Юрьевич": 44,
-      "Потапов Петр Николаевич": 1,
-      "Рябинюк Людмила Владимировна": 127
+      "gas:candidate-vibid:2422000977091": 359,
+      "gas:candidate-vibid:2422000976122": 2,
+      "gas:candidate-vibid:2422000974731": 44,
+      "gas:candidate-vibid:2422000976387": 1,
+      "gas:candidate-vibid:2422000976565": 127
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909133&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909133&type=464",
@@ -208,11 +208,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 475,
-      "Антонов Георгий Антонович": 1,
-      "Клейстер Роман Юрьевич": 60,
-      "Потапов Петр Николаевич": 2,
-      "Рябинюк Людмила Владимировна": 72
+      "gas:candidate-vibid:2422000977091": 475,
+      "gas:candidate-vibid:2422000976122": 1,
+      "gas:candidate-vibid:2422000974731": 60,
+      "gas:candidate-vibid:2422000976387": 2,
+      "gas:candidate-vibid:2422000976565": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909133&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909133&type=464",
@@ -263,11 +263,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 442,
-      "Антонов Георгий Антонович": 1,
-      "Клейстер Роман Юрьевич": 36,
-      "Потапов Петр Николаевич": 1,
-      "Рябинюк Людмила Владимировна": 125
+      "gas:candidate-vibid:2422000977091": 442,
+      "gas:candidate-vibid:2422000976122": 1,
+      "gas:candidate-vibid:2422000974731": 36,
+      "gas:candidate-vibid:2422000976387": 1,
+      "gas:candidate-vibid:2422000976565": 125
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909133&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909133&type=464",
@@ -318,11 +318,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 179,
-      "Антонов Георгий Антонович": 0,
-      "Клейстер Роман Юрьевич": 33,
-      "Потапов Петр Николаевич": 0,
-      "Рябинюк Людмила Владимировна": 71
+      "gas:candidate-vibid:2422000977091": 179,
+      "gas:candidate-vibid:2422000976122": 0,
+      "gas:candidate-vibid:2422000974731": 33,
+      "gas:candidate-vibid:2422000976387": 0,
+      "gas:candidate-vibid:2422000976565": 71
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909133&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909133&type=464",
@@ -373,11 +373,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 410,
-      "Антонов Георгий Антонович": 1,
-      "Клейстер Роман Юрьевич": 74,
-      "Потапов Петр Николаевич": 1,
-      "Рябинюк Людмила Владимировна": 87
+      "gas:candidate-vibid:2422000977091": 410,
+      "gas:candidate-vibid:2422000976122": 1,
+      "gas:candidate-vibid:2422000974731": 74,
+      "gas:candidate-vibid:2422000976387": 1,
+      "gas:candidate-vibid:2422000976565": 87
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909133&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909133&type=464",
@@ -428,11 +428,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 137,
-      "Антонов Георгий Антонович": 0,
-      "Клейстер Роман Юрьевич": 18,
-      "Потапов Петр Николаевич": 0,
-      "Рябинюк Людмила Владимировна": 68
+      "gas:candidate-vibid:2422000977091": 137,
+      "gas:candidate-vibid:2422000976122": 0,
+      "gas:candidate-vibid:2422000974731": 18,
+      "gas:candidate-vibid:2422000976387": 0,
+      "gas:candidate-vibid:2422000976565": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909133&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909133&type=464",
@@ -483,11 +483,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 200,
-      "Антонов Георгий Антонович": 0,
-      "Клейстер Роман Юрьевич": 25,
-      "Потапов Петр Николаевич": 0,
-      "Рябинюк Людмила Владимировна": 59
+      "gas:candidate-vibid:2422000977091": 200,
+      "gas:candidate-vibid:2422000976122": 0,
+      "gas:candidate-vibid:2422000974731": 25,
+      "gas:candidate-vibid:2422000976387": 0,
+      "gas:candidate-vibid:2422000976565": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909133&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909133&type=464",
@@ -538,11 +538,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 451,
-      "Антонов Георгий Антонович": 1,
-      "Клейстер Роман Юрьевич": 43,
-      "Потапов Петр Николаевич": 1,
-      "Рябинюк Людмила Владимировна": 115
+      "gas:candidate-vibid:2422000977091": 451,
+      "gas:candidate-vibid:2422000976122": 1,
+      "gas:candidate-vibid:2422000974731": 43,
+      "gas:candidate-vibid:2422000976387": 1,
+      "gas:candidate-vibid:2422000976565": 115
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909133&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909133&type=464",
@@ -593,11 +593,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 74,
-      "Антонов Георгий Антонович": 0,
-      "Клейстер Роман Юрьевич": 6,
-      "Потапов Петр Николаевич": 1,
-      "Рябинюк Людмила Владимировна": 41
+      "gas:candidate-vibid:2422000977091": 74,
+      "gas:candidate-vibid:2422000976122": 0,
+      "gas:candidate-vibid:2422000974731": 6,
+      "gas:candidate-vibid:2422000976387": 1,
+      "gas:candidate-vibid:2422000976565": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909133&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909133&type=464",
@@ -648,11 +648,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 135,
-      "Антонов Георгий Антонович": 0,
-      "Клейстер Роман Юрьевич": 11,
-      "Потапов Петр Николаевич": 0,
-      "Рябинюк Людмила Владимировна": 61
+      "gas:candidate-vibid:2422000977091": 135,
+      "gas:candidate-vibid:2422000976122": 0,
+      "gas:candidate-vibid:2422000974731": 11,
+      "gas:candidate-vibid:2422000976387": 0,
+      "gas:candidate-vibid:2422000976565": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909133&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909133&type=464",
@@ -703,11 +703,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 41,
-      "Антонов Георгий Антонович": 0,
-      "Клейстер Роман Юрьевич": 3,
-      "Потапов Петр Николаевич": 0,
-      "Рябинюк Людмила Владимировна": 18
+      "gas:candidate-vibid:2422000977091": 41,
+      "gas:candidate-vibid:2422000976122": 0,
+      "gas:candidate-vibid:2422000974731": 3,
+      "gas:candidate-vibid:2422000976387": 0,
+      "gas:candidate-vibid:2422000976565": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909133&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909133&type=464",
@@ -758,11 +758,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 489,
-      "Антонов Георгий Антонович": 1,
-      "Клейстер Роман Юрьевич": 44,
-      "Потапов Петр Николаевич": 1,
-      "Рябинюк Людмила Владимировна": 188
+      "gas:candidate-vibid:2422000977091": 489,
+      "gas:candidate-vibid:2422000976122": 1,
+      "gas:candidate-vibid:2422000974731": 44,
+      "gas:candidate-vibid:2422000976387": 1,
+      "gas:candidate-vibid:2422000976565": 188
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909133&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909133&type=464",
@@ -813,11 +813,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 265,
-      "Антонов Георгий Антонович": 1,
-      "Клейстер Роман Юрьевич": 15,
-      "Потапов Петр Николаевич": 0,
-      "Рябинюк Людмила Владимировна": 74
+      "gas:candidate-vibid:2422000977091": 265,
+      "gas:candidate-vibid:2422000976122": 1,
+      "gas:candidate-vibid:2422000974731": 15,
+      "gas:candidate-vibid:2422000976387": 0,
+      "gas:candidate-vibid:2422000976565": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909133&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909133&type=464",
@@ -868,11 +868,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 231,
-      "Антонов Георгий Антонович": 0,
-      "Клейстер Роман Юрьевич": 20,
-      "Потапов Петр Николаевич": 1,
-      "Рябинюк Людмила Владимировна": 37
+      "gas:candidate-vibid:2422000977091": 231,
+      "gas:candidate-vibid:2422000976122": 0,
+      "gas:candidate-vibid:2422000974731": 20,
+      "gas:candidate-vibid:2422000976387": 1,
+      "gas:candidate-vibid:2422000976565": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909133&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909133&type=464",
@@ -923,11 +923,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 37,
-      "Антонов Георгий Антонович": 0,
-      "Клейстер Роман Юрьевич": 4,
-      "Потапов Петр Николаевич": 1,
-      "Рябинюк Людмила Владимировна": 21
+      "gas:candidate-vibid:2422000977091": 37,
+      "gas:candidate-vibid:2422000976122": 0,
+      "gas:candidate-vibid:2422000974731": 4,
+      "gas:candidate-vibid:2422000976387": 1,
+      "gas:candidate-vibid:2422000976565": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909133&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909133&type=464",
@@ -978,11 +978,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 864,
-      "Антонов Георгий Антонович": 1,
-      "Клейстер Роман Юрьевич": 10,
-      "Потапов Петр Николаевич": 1,
-      "Рябинюк Людмила Владимировна": 179
+      "gas:candidate-vibid:2422000977091": 864,
+      "gas:candidate-vibid:2422000976122": 1,
+      "gas:candidate-vibid:2422000974731": 10,
+      "gas:candidate-vibid:2422000976387": 1,
+      "gas:candidate-vibid:2422000976565": 179
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909133&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909133&type=464",
@@ -1033,11 +1033,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 348,
-      "Антонов Георгий Антонович": 0,
-      "Клейстер Роман Юрьевич": 36,
-      "Потапов Петр Николаевич": 1,
-      "Рябинюк Людмила Владимировна": 93
+      "gas:candidate-vibid:2422000977091": 348,
+      "gas:candidate-vibid:2422000976122": 0,
+      "gas:candidate-vibid:2422000974731": 36,
+      "gas:candidate-vibid:2422000976387": 1,
+      "gas:candidate-vibid:2422000976565": 93
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909133&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909133&type=464",
@@ -1088,11 +1088,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 53,
-      "Антонов Георгий Антонович": 0,
-      "Клейстер Роман Юрьевич": 3,
-      "Потапов Петр Николаевич": 0,
-      "Рябинюк Людмила Владимировна": 33
+      "gas:candidate-vibid:2422000977091": 53,
+      "gas:candidate-vibid:2422000976122": 0,
+      "gas:candidate-vibid:2422000974731": 3,
+      "gas:candidate-vibid:2422000976387": 0,
+      "gas:candidate-vibid:2422000976565": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909133&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909133&type=464",
@@ -1143,11 +1143,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 215,
-      "Антонов Георгий Антонович": 0,
-      "Клейстер Роман Юрьевич": 14,
-      "Потапов Петр Николаевич": 0,
-      "Рябинюк Людмила Владимировна": 60
+      "gas:candidate-vibid:2422000977091": 215,
+      "gas:candidate-vibid:2422000976122": 0,
+      "gas:candidate-vibid:2422000974731": 14,
+      "gas:candidate-vibid:2422000976387": 0,
+      "gas:candidate-vibid:2422000976565": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909133&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909133&type=464",
@@ -1198,11 +1198,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 61,
-      "Антонов Георгий Антонович": 0,
-      "Клейстер Роман Юрьевич": 9,
-      "Потапов Петр Николаевич": 1,
-      "Рябинюк Людмила Владимировна": 41
+      "gas:candidate-vibid:2422000977091": 61,
+      "gas:candidate-vibid:2422000976122": 0,
+      "gas:candidate-vibid:2422000974731": 9,
+      "gas:candidate-vibid:2422000976387": 1,
+      "gas:candidate-vibid:2422000976565": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909133&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909133&type=464",
@@ -1253,11 +1253,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 503,
-      "Антонов Георгий Антонович": 0,
-      "Клейстер Роман Юрьевич": 45,
-      "Потапов Петр Николаевич": 0,
-      "Рябинюк Людмила Владимировна": 266
+      "gas:candidate-vibid:2422000977091": 503,
+      "gas:candidate-vibid:2422000976122": 0,
+      "gas:candidate-vibid:2422000974731": 45,
+      "gas:candidate-vibid:2422000976387": 0,
+      "gas:candidate-vibid:2422000976565": 266
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909133&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909133&type=464",
@@ -1308,11 +1308,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 24,
-      "Антонов Георгий Антонович": 0,
-      "Клейстер Роман Юрьевич": 3,
-      "Потапов Петр Николаевич": 0,
-      "Рябинюк Людмила Владимировна": 18
+      "gas:candidate-vibid:2422000977091": 24,
+      "gas:candidate-vibid:2422000976122": 0,
+      "gas:candidate-vibid:2422000974731": 3,
+      "gas:candidate-vibid:2422000976387": 0,
+      "gas:candidate-vibid:2422000976565": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909133&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909133&type=464",
@@ -1363,11 +1363,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 92,
-      "Антонов Георгий Антонович": 0,
-      "Клейстер Роман Юрьевич": 7,
-      "Потапов Петр Николаевич": 0,
-      "Рябинюк Людмила Владимировна": 41
+      "gas:candidate-vibid:2422000977091": 92,
+      "gas:candidate-vibid:2422000976122": 0,
+      "gas:candidate-vibid:2422000974731": 7,
+      "gas:candidate-vibid:2422000976387": 0,
+      "gas:candidate-vibid:2422000976565": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909133&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909133&type=464",
@@ -1418,11 +1418,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 378,
-      "Антонов Георгий Антонович": 1,
-      "Клейстер Роман Юрьевич": 28,
-      "Потапов Петр Николаевич": 0,
-      "Рябинюк Людмила Владимировна": 107
+      "gas:candidate-vibid:2422000977091": 378,
+      "gas:candidate-vibid:2422000976122": 1,
+      "gas:candidate-vibid:2422000974731": 28,
+      "gas:candidate-vibid:2422000976387": 0,
+      "gas:candidate-vibid:2422000976565": 107
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909133&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909133&type=464",
@@ -1473,11 +1473,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 54,
-      "Антонов Георгий Антонович": 10,
-      "Клейстер Роман Юрьевич": 22,
-      "Потапов Петр Николаевич": 4,
-      "Рябинюк Людмила Владимировна": 10
+      "gas:candidate-vibid:2422000977091": 54,
+      "gas:candidate-vibid:2422000976122": 10,
+      "gas:candidate-vibid:2422000974731": 22,
+      "gas:candidate-vibid:2422000976387": 4,
+      "gas:candidate-vibid:2422000976565": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909133&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909133&type=464",
@@ -1528,11 +1528,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 630,
-      "Антонов Георгий Антонович": 1,
-      "Клейстер Роман Юрьевич": 40,
-      "Потапов Петр Николаевич": 0,
-      "Рябинюк Людмила Владимировна": 271
+      "gas:candidate-vibid:2422000977091": 630,
+      "gas:candidate-vibid:2422000976122": 1,
+      "gas:candidate-vibid:2422000974731": 40,
+      "gas:candidate-vibid:2422000976387": 0,
+      "gas:candidate-vibid:2422000976565": 271
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909133&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909133&type=464",
@@ -1583,11 +1583,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 76,
-      "Антонов Георгий Антонович": 0,
-      "Клейстер Роман Юрьевич": 6,
-      "Потапов Петр Николаевич": 2,
-      "Рябинюк Людмила Владимировна": 37
+      "gas:candidate-vibid:2422000977091": 76,
+      "gas:candidate-vibid:2422000976122": 0,
+      "gas:candidate-vibid:2422000974731": 6,
+      "gas:candidate-vibid:2422000976387": 2,
+      "gas:candidate-vibid:2422000976565": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909133&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909133&type=464",
@@ -1638,11 +1638,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 109,
-      "Антонов Георгий Антонович": 0,
-      "Клейстер Роман Юрьевич": 13,
-      "Потапов Петр Николаевич": 0,
-      "Рябинюк Людмила Владимировна": 41
+      "gas:candidate-vibid:2422000977091": 109,
+      "gas:candidate-vibid:2422000976122": 0,
+      "gas:candidate-vibid:2422000974731": 13,
+      "gas:candidate-vibid:2422000976387": 0,
+      "gas:candidate-vibid:2422000976565": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909133&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909133&type=464",
@@ -1693,11 +1693,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 530,
-      "Антонов Георгий Антонович": 1,
-      "Клейстер Роман Юрьевич": 35,
-      "Потапов Петр Николаевич": 0,
-      "Рябинюк Людмила Владимировна": 146
+      "gas:candidate-vibid:2422000977091": 530,
+      "gas:candidate-vibid:2422000976122": 1,
+      "gas:candidate-vibid:2422000974731": 35,
+      "gas:candidate-vibid:2422000976387": 0,
+      "gas:candidate-vibid:2422000976565": 146
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909133&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909133&type=464",
@@ -1748,11 +1748,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 42,
-      "Антонов Георгий Антонович": 0,
-      "Клейстер Роман Юрьевич": 6,
-      "Потапов Петр Николаевич": 1,
-      "Рябинюк Людмила Владимировна": 8
+      "gas:candidate-vibid:2422000977091": 42,
+      "gas:candidate-vibid:2422000976122": 0,
+      "gas:candidate-vibid:2422000974731": 6,
+      "gas:candidate-vibid:2422000976387": 1,
+      "gas:candidate-vibid:2422000976565": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909133&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909133&type=464",
@@ -1803,11 +1803,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 565,
-      "Антонов Георгий Антонович": 1,
-      "Клейстер Роман Юрьевич": 55,
-      "Потапов Петр Николаевич": 0,
-      "Рябинюк Людмила Владимировна": 187
+      "gas:candidate-vibid:2422000977091": 565,
+      "gas:candidate-vibid:2422000976122": 1,
+      "gas:candidate-vibid:2422000974731": 55,
+      "gas:candidate-vibid:2422000976387": 0,
+      "gas:candidate-vibid:2422000976565": 187
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909133&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909133&type=464",
@@ -1858,11 +1858,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 270,
-      "Антонов Георгий Антонович": 0,
-      "Клейстер Роман Юрьевич": 31,
-      "Потапов Петр Николаевич": 0,
-      "Рябинюк Людмила Владимировна": 79
+      "gas:candidate-vibid:2422000977091": 270,
+      "gas:candidate-vibid:2422000976122": 0,
+      "gas:candidate-vibid:2422000974731": 31,
+      "gas:candidate-vibid:2422000976387": 0,
+      "gas:candidate-vibid:2422000976565": 79
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909133&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909133&type=464",
@@ -1913,11 +1913,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 215,
-      "Антонов Георгий Антонович": 0,
-      "Клейстер Роман Юрьевич": 18,
-      "Потапов Петр Николаевич": 1,
-      "Рябинюк Людмила Владимировна": 103
+      "gas:candidate-vibid:2422000977091": 215,
+      "gas:candidate-vibid:2422000976122": 0,
+      "gas:candidate-vibid:2422000974731": 18,
+      "gas:candidate-vibid:2422000976387": 1,
+      "gas:candidate-vibid:2422000976565": 103
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909133&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909133&type=464",
@@ -1968,11 +1968,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 272,
-      "Антонов Георгий Антонович": 1,
-      "Клейстер Роман Юрьевич": 21,
-      "Потапов Петр Николаевич": 0,
-      "Рябинюк Людмила Владимировна": 58
+      "gas:candidate-vibid:2422000977091": 272,
+      "gas:candidate-vibid:2422000976122": 1,
+      "gas:candidate-vibid:2422000974731": 21,
+      "gas:candidate-vibid:2422000976387": 0,
+      "gas:candidate-vibid:2422000976565": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909133&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909133&type=464",
@@ -2023,11 +2023,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 262,
-      "Антонов Георгий Антонович": 2,
-      "Клейстер Роман Юрьевич": 15,
-      "Потапов Петр Николаевич": 2,
-      "Рябинюк Людмила Владимировна": 114
+      "gas:candidate-vibid:2422000977091": 262,
+      "gas:candidate-vibid:2422000976122": 2,
+      "gas:candidate-vibid:2422000974731": 15,
+      "gas:candidate-vibid:2422000976387": 2,
+      "gas:candidate-vibid:2422000976565": 114
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909133&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909133&type=464",
@@ -2078,11 +2078,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 60,
-      "Антонов Георгий Антонович": 0,
-      "Клейстер Роман Юрьевич": 6,
-      "Потапов Петр Николаевич": 1,
-      "Рябинюк Людмила Владимировна": 49
+      "gas:candidate-vibid:2422000977091": 60,
+      "gas:candidate-vibid:2422000976122": 0,
+      "gas:candidate-vibid:2422000974731": 6,
+      "gas:candidate-vibid:2422000976387": 1,
+      "gas:candidate-vibid:2422000976565": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909133&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909133&type=464",
@@ -2133,11 +2133,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 451,
-      "Антонов Георгий Антонович": 5,
-      "Клейстер Роман Юрьевич": 28,
-      "Потапов Петр Николаевич": 1,
-      "Рябинюк Людмила Владимировна": 123
+      "gas:candidate-vibid:2422000977091": 451,
+      "gas:candidate-vibid:2422000976122": 5,
+      "gas:candidate-vibid:2422000974731": 28,
+      "gas:candidate-vibid:2422000976387": 1,
+      "gas:candidate-vibid:2422000976565": 123
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909133&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909133&type=464",
@@ -2188,11 +2188,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 420,
-      "Антонов Георгий Антонович": 0,
-      "Клейстер Роман Юрьевич": 21,
-      "Потапов Петр Николаевич": 5,
-      "Рябинюк Людмила Владимировна": 69
+      "gas:candidate-vibid:2422000977091": 420,
+      "gas:candidate-vibid:2422000976122": 0,
+      "gas:candidate-vibid:2422000974731": 21,
+      "gas:candidate-vibid:2422000976387": 5,
+      "gas:candidate-vibid:2422000976565": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909133&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909133&type=464",
@@ -2243,11 +2243,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 410,
-      "Антонов Георгий Антонович": 2,
-      "Клейстер Роман Юрьевич": 30,
-      "Потапов Петр Николаевич": 1,
-      "Рябинюк Людмила Владимировна": 91
+      "gas:candidate-vibid:2422000977091": 410,
+      "gas:candidate-vibid:2422000976122": 2,
+      "gas:candidate-vibid:2422000974731": 30,
+      "gas:candidate-vibid:2422000976387": 1,
+      "gas:candidate-vibid:2422000976565": 91
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909133&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909133&type=464",
@@ -2298,11 +2298,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 490,
-      "Антонов Георгий Антонович": 2,
-      "Клейстер Роман Юрьевич": 22,
-      "Потапов Петр Николаевич": 1,
-      "Рябинюк Людмила Владимировна": 47
+      "gas:candidate-vibid:2422000977091": 490,
+      "gas:candidate-vibid:2422000976122": 2,
+      "gas:candidate-vibid:2422000974731": 22,
+      "gas:candidate-vibid:2422000976387": 1,
+      "gas:candidate-vibid:2422000976565": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909133&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909133&type=464",
@@ -2353,11 +2353,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 495,
-      "Антонов Георгий Антонович": 0,
-      "Клейстер Роман Юрьевич": 32,
-      "Потапов Петр Николаевич": 1,
-      "Рябинюк Людмила Владимировна": 60
+      "gas:candidate-vibid:2422000977091": 495,
+      "gas:candidate-vibid:2422000976122": 0,
+      "gas:candidate-vibid:2422000974731": 32,
+      "gas:candidate-vibid:2422000976387": 1,
+      "gas:candidate-vibid:2422000976565": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909133&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909133&type=464",
@@ -2408,11 +2408,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 568,
-      "Антонов Георгий Антонович": 1,
-      "Клейстер Роман Юрьевич": 27,
-      "Потапов Петр Николаевич": 1,
-      "Рябинюк Людмила Владимировна": 59
+      "gas:candidate-vibid:2422000977091": 568,
+      "gas:candidate-vibid:2422000976122": 1,
+      "gas:candidate-vibid:2422000974731": 27,
+      "gas:candidate-vibid:2422000976387": 1,
+      "gas:candidate-vibid:2422000976565": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909133&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909133&type=464",
@@ -2463,11 +2463,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 251,
-      "Антонов Георгий Антонович": 0,
-      "Клейстер Роман Юрьевич": 11,
-      "Потапов Петр Николаевич": 1,
-      "Рябинюк Людмила Владимировна": 43
+      "gas:candidate-vibid:2422000977091": 251,
+      "gas:candidate-vibid:2422000976122": 0,
+      "gas:candidate-vibid:2422000974731": 11,
+      "gas:candidate-vibid:2422000976387": 1,
+      "gas:candidate-vibid:2422000976565": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909133&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909133&type=464",
@@ -2518,11 +2518,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 433,
-      "Антонов Георгий Антонович": 0,
-      "Клейстер Роман Юрьевич": 19,
-      "Потапов Петр Николаевич": 0,
-      "Рябинюк Людмила Владимировна": 46
+      "gas:candidate-vibid:2422000977091": 433,
+      "gas:candidate-vibid:2422000976122": 0,
+      "gas:candidate-vibid:2422000974731": 19,
+      "gas:candidate-vibid:2422000976387": 0,
+      "gas:candidate-vibid:2422000976565": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909133&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909133&type=464",
@@ -2573,11 +2573,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 212,
-      "Антонов Георгий Антонович": 3,
-      "Клейстер Роман Юрьевич": 26,
-      "Потапов Петр Николаевич": 0,
-      "Рябинюк Людмила Владимировна": 57
+      "gas:candidate-vibid:2422000977091": 212,
+      "gas:candidate-vibid:2422000976122": 3,
+      "gas:candidate-vibid:2422000974731": 26,
+      "gas:candidate-vibid:2422000976387": 0,
+      "gas:candidate-vibid:2422000976565": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909134&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909134&type=464",
@@ -2628,11 +2628,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 67,
-      "Антонов Георгий Антонович": 1,
-      "Клейстер Роман Юрьевич": 4,
-      "Потапов Петр Николаевич": 1,
-      "Рябинюк Людмила Владимировна": 16
+      "gas:candidate-vibid:2422000977091": 67,
+      "gas:candidate-vibid:2422000976122": 1,
+      "gas:candidate-vibid:2422000974731": 4,
+      "gas:candidate-vibid:2422000976387": 1,
+      "gas:candidate-vibid:2422000976565": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909134&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909134&type=464",
@@ -2683,11 +2683,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 71,
-      "Антонов Георгий Антонович": 2,
-      "Клейстер Роман Юрьевич": 3,
-      "Потапов Петр Николаевич": 1,
-      "Рябинюк Людмила Владимировна": 18
+      "gas:candidate-vibid:2422000977091": 71,
+      "gas:candidate-vibid:2422000976122": 2,
+      "gas:candidate-vibid:2422000974731": 3,
+      "gas:candidate-vibid:2422000976387": 1,
+      "gas:candidate-vibid:2422000976565": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909134&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909134&type=464",
@@ -2738,11 +2738,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 81,
-      "Антонов Георгий Антонович": 2,
-      "Клейстер Роман Юрьевич": 7,
-      "Потапов Петр Николаевич": 0,
-      "Рябинюк Людмила Владимировна": 21
+      "gas:candidate-vibid:2422000977091": 81,
+      "gas:candidate-vibid:2422000976122": 2,
+      "gas:candidate-vibid:2422000974731": 7,
+      "gas:candidate-vibid:2422000976387": 0,
+      "gas:candidate-vibid:2422000976565": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909134&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909134&type=464",
@@ -2793,11 +2793,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 127,
-      "Антонов Георгий Антонович": 2,
-      "Клейстер Роман Юрьевич": 9,
-      "Потапов Петр Николаевич": 0,
-      "Рябинюк Людмила Владимировна": 32
+      "gas:candidate-vibid:2422000977091": 127,
+      "gas:candidate-vibid:2422000976122": 2,
+      "gas:candidate-vibid:2422000974731": 9,
+      "gas:candidate-vibid:2422000976387": 0,
+      "gas:candidate-vibid:2422000976565": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909134&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909134&type=464",
@@ -2848,11 +2848,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 60,
-      "Антонов Георгий Антонович": 0,
-      "Клейстер Роман Юрьевич": 4,
-      "Потапов Петр Николаевич": 0,
-      "Рябинюк Людмила Владимировна": 3
+      "gas:candidate-vibid:2422000977091": 60,
+      "gas:candidate-vibid:2422000976122": 0,
+      "gas:candidate-vibid:2422000974731": 4,
+      "gas:candidate-vibid:2422000976387": 0,
+      "gas:candidate-vibid:2422000976565": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909134&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909134&type=464",
@@ -2903,11 +2903,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 234,
-      "Антонов Георгий Антонович": 0,
-      "Клейстер Роман Юрьевич": 24,
-      "Потапов Петр Николаевич": 0,
-      "Рябинюк Людмила Владимировна": 61
+      "gas:candidate-vibid:2422000977091": 234,
+      "gas:candidate-vibid:2422000976122": 0,
+      "gas:candidate-vibid:2422000974731": 24,
+      "gas:candidate-vibid:2422000976387": 0,
+      "gas:candidate-vibid:2422000976565": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909134&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909134&type=464",
@@ -2958,11 +2958,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 182,
-      "Антонов Георгий Антонович": 0,
-      "Клейстер Роман Юрьевич": 14,
-      "Потапов Петр Николаевич": 0,
-      "Рябинюк Людмила Владимировна": 49
+      "gas:candidate-vibid:2422000977091": 182,
+      "gas:candidate-vibid:2422000976122": 0,
+      "gas:candidate-vibid:2422000974731": 14,
+      "gas:candidate-vibid:2422000976387": 0,
+      "gas:candidate-vibid:2422000976565": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909134&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909134&type=464",
@@ -3013,11 +3013,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 113,
-      "Антонов Георгий Антонович": 1,
-      "Клейстер Роман Юрьевич": 12,
-      "Потапов Петр Николаевич": 0,
-      "Рябинюк Людмила Владимировна": 27
+      "gas:candidate-vibid:2422000977091": 113,
+      "gas:candidate-vibid:2422000976122": 1,
+      "gas:candidate-vibid:2422000974731": 12,
+      "gas:candidate-vibid:2422000976387": 0,
+      "gas:candidate-vibid:2422000976565": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909134&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909134&type=464",
@@ -3068,11 +3068,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 64,
-      "Антонов Георгий Антонович": 1,
-      "Клейстер Роман Юрьевич": 1,
-      "Потапов Петр Николаевич": 1,
-      "Рябинюк Людмила Владимировна": 1
+      "gas:candidate-vibid:2422000977091": 64,
+      "gas:candidate-vibid:2422000976122": 1,
+      "gas:candidate-vibid:2422000974731": 1,
+      "gas:candidate-vibid:2422000976387": 1,
+      "gas:candidate-vibid:2422000976565": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909134&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909134&type=464",
@@ -3123,11 +3123,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 358,
-      "Антонов Георгий Антонович": 0,
-      "Клейстер Роман Юрьевич": 39,
-      "Потапов Петр Николаевич": 0,
-      "Рябинюк Людмила Владимировна": 93
+      "gas:candidate-vibid:2422000977091": 358,
+      "gas:candidate-vibid:2422000976122": 0,
+      "gas:candidate-vibid:2422000974731": 39,
+      "gas:candidate-vibid:2422000976387": 0,
+      "gas:candidate-vibid:2422000976565": 93
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909134&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909134&type=464",
@@ -3178,11 +3178,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 177,
-      "Антонов Георгий Антонович": 3,
-      "Клейстер Роман Юрьевич": 17,
-      "Потапов Петр Николаевич": 0,
-      "Рябинюк Людмила Владимировна": 46
+      "gas:candidate-vibid:2422000977091": 177,
+      "gas:candidate-vibid:2422000976122": 3,
+      "gas:candidate-vibid:2422000974731": 17,
+      "gas:candidate-vibid:2422000976387": 0,
+      "gas:candidate-vibid:2422000976565": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909134&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909134&type=464",
@@ -3233,11 +3233,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 144,
-      "Антонов Георгий Антонович": 0,
-      "Клейстер Роман Юрьевич": 16,
-      "Потапов Петр Николаевич": 0,
-      "Рябинюк Людмила Владимировна": 37
+      "gas:candidate-vibid:2422000977091": 144,
+      "gas:candidate-vibid:2422000976122": 0,
+      "gas:candidate-vibid:2422000974731": 16,
+      "gas:candidate-vibid:2422000976387": 0,
+      "gas:candidate-vibid:2422000976565": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909134&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909134&type=464",
@@ -3288,11 +3288,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 355,
-      "Антонов Георгий Антонович": 0,
-      "Клейстер Роман Юрьевич": 39,
-      "Потапов Петр Николаевич": 0,
-      "Рябинюк Людмила Владимировна": 91
+      "gas:candidate-vibid:2422000977091": 355,
+      "gas:candidate-vibid:2422000976122": 0,
+      "gas:candidate-vibid:2422000974731": 39,
+      "gas:candidate-vibid:2422000976387": 0,
+      "gas:candidate-vibid:2422000976565": 91
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909134&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909134&type=464",
@@ -3343,11 +3343,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 58,
-      "Антонов Георгий Антонович": 1,
-      "Клейстер Роман Юрьевич": 2,
-      "Потапов Петр Николаевич": 0,
-      "Рябинюк Людмила Владимировна": 4
+      "gas:candidate-vibid:2422000977091": 58,
+      "gas:candidate-vibid:2422000976122": 1,
+      "gas:candidate-vibid:2422000974731": 2,
+      "gas:candidate-vibid:2422000976387": 0,
+      "gas:candidate-vibid:2422000976565": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909134&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909134&type=464",
@@ -3398,11 +3398,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 288,
-      "Антонов Георгий Антонович": 0,
-      "Клейстер Роман Юрьевич": 32,
-      "Потапов Петр Николаевич": 0,
-      "Рябинюк Людмила Владимировна": 75
+      "gas:candidate-vibid:2422000977091": 288,
+      "gas:candidate-vibid:2422000976122": 0,
+      "gas:candidate-vibid:2422000974731": 32,
+      "gas:candidate-vibid:2422000976387": 0,
+      "gas:candidate-vibid:2422000976565": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909134&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909134&type=464",
@@ -3453,11 +3453,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 70,
-      "Антонов Георгий Антонович": 0,
-      "Клейстер Роман Юрьевич": 1,
-      "Потапов Петр Николаевич": 0,
-      "Рябинюк Людмила Владимировна": 4
+      "gas:candidate-vibid:2422000977091": 70,
+      "gas:candidate-vibid:2422000976122": 0,
+      "gas:candidate-vibid:2422000974731": 1,
+      "gas:candidate-vibid:2422000976387": 0,
+      "gas:candidate-vibid:2422000976565": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909134&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909134&type=464",
@@ -3508,11 +3508,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 270,
-      "Антонов Георгий Антонович": 0,
-      "Клейстер Роман Юрьевич": 28,
-      "Потапов Петр Николаевич": 0,
-      "Рябинюк Людмила Владимировна": 60
+      "gas:candidate-vibid:2422000977091": 270,
+      "gas:candidate-vibid:2422000976122": 0,
+      "gas:candidate-vibid:2422000974731": 28,
+      "gas:candidate-vibid:2422000976387": 0,
+      "gas:candidate-vibid:2422000976565": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909134&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909134&type=464",
@@ -3563,11 +3563,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 140,
-      "Антонов Георгий Антонович": 1,
-      "Клейстер Роман Юрьевич": 12,
-      "Потапов Петр Николаевич": 1,
-      "Рябинюк Людмила Владимировна": 36
+      "gas:candidate-vibid:2422000977091": 140,
+      "gas:candidate-vibid:2422000976122": 1,
+      "gas:candidate-vibid:2422000974731": 12,
+      "gas:candidate-vibid:2422000976387": 1,
+      "gas:candidate-vibid:2422000976565": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909134&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909134&type=464",
@@ -3618,11 +3618,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 90,
-      "Антонов Георгий Антонович": 0,
-      "Клейстер Роман Юрьевич": 9,
-      "Потапов Петр Николаевич": 1,
-      "Рябинюк Людмила Владимировна": 24
+      "gas:candidate-vibid:2422000977091": 90,
+      "gas:candidate-vibid:2422000976122": 0,
+      "gas:candidate-vibid:2422000974731": 9,
+      "gas:candidate-vibid:2422000976387": 1,
+      "gas:candidate-vibid:2422000976565": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909134&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909134&type=464",
@@ -3673,11 +3673,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 310,
-      "Антонов Георгий Антонович": 1,
-      "Клейстер Роман Юрьевич": 28,
-      "Потапов Петр Николаевич": 1,
-      "Рябинюк Людмила Владимировна": 78
+      "gas:candidate-vibid:2422000977091": 310,
+      "gas:candidate-vibid:2422000976122": 1,
+      "gas:candidate-vibid:2422000974731": 28,
+      "gas:candidate-vibid:2422000976387": 1,
+      "gas:candidate-vibid:2422000976565": 78
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909134&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909134&type=464",
@@ -3728,11 +3728,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 183,
-      "Антонов Георгий Антонович": 0,
-      "Клейстер Роман Юрьевич": 23,
-      "Потапов Петр Николаевич": 0,
-      "Рябинюк Людмила Владимировна": 47
+      "gas:candidate-vibid:2422000977091": 183,
+      "gas:candidate-vibid:2422000976122": 0,
+      "gas:candidate-vibid:2422000974731": 23,
+      "gas:candidate-vibid:2422000976387": 0,
+      "gas:candidate-vibid:2422000976565": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909134&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909134&type=464",
@@ -3783,11 +3783,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 69,
-      "Антонов Георгий Антонович": 0,
-      "Клейстер Роман Юрьевич": 6,
-      "Потапов Петр Николаевич": 0,
-      "Рябинюк Людмила Владимировна": 2
+      "gas:candidate-vibid:2422000977091": 69,
+      "gas:candidate-vibid:2422000976122": 0,
+      "gas:candidate-vibid:2422000974731": 6,
+      "gas:candidate-vibid:2422000976387": 0,
+      "gas:candidate-vibid:2422000976565": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909134&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909134&type=464",
@@ -3838,11 +3838,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 339,
-      "Антонов Георгий Антонович": 0,
-      "Клейстер Роман Юрьевич": 32,
-      "Потапов Петр Николаевич": 2,
-      "Рябинюк Людмила Владимировна": 91
+      "gas:candidate-vibid:2422000977091": 339,
+      "gas:candidate-vibid:2422000976122": 0,
+      "gas:candidate-vibid:2422000974731": 32,
+      "gas:candidate-vibid:2422000976387": 2,
+      "gas:candidate-vibid:2422000976565": 91
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909134&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909134&type=464",
@@ -3893,11 +3893,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 435,
-      "Антонов Георгий Антонович": 0,
-      "Клейстер Роман Юрьевич": 43,
-      "Потапов Петр Николаевич": 0,
-      "Рябинюк Людмила Владимировна": 110
+      "gas:candidate-vibid:2422000977091": 435,
+      "gas:candidate-vibid:2422000976122": 0,
+      "gas:candidate-vibid:2422000974731": 43,
+      "gas:candidate-vibid:2422000976387": 0,
+      "gas:candidate-vibid:2422000976565": 110
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909134&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909134&type=464",
@@ -3948,11 +3948,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 267,
-      "Антонов Георгий Антонович": 1,
-      "Клейстер Роман Юрьевич": 25,
-      "Потапов Петр Николаевич": 0,
-      "Рябинюк Людмила Владимировна": 70
+      "gas:candidate-vibid:2422000977091": 267,
+      "gas:candidate-vibid:2422000976122": 1,
+      "gas:candidate-vibid:2422000974731": 25,
+      "gas:candidate-vibid:2422000976387": 0,
+      "gas:candidate-vibid:2422000976565": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909134&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909134&type=464",
@@ -4003,11 +4003,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 239,
-      "Антонов Георгий Антонович": 0,
-      "Клейстер Роман Юрьевич": 22,
-      "Потапов Петр Николаевич": 1,
-      "Рябинюк Людмила Владимировна": 65
+      "gas:candidate-vibid:2422000977091": 239,
+      "gas:candidate-vibid:2422000976122": 0,
+      "gas:candidate-vibid:2422000974731": 22,
+      "gas:candidate-vibid:2422000976387": 1,
+      "gas:candidate-vibid:2422000976565": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909134&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909134&type=464",
@@ -4058,11 +4058,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 314,
-      "Антонов Георгий Антонович": 0,
-      "Клейстер Роман Юрьевич": 28,
-      "Потапов Петр Николаевич": 6,
-      "Рябинюк Людмила Владимировна": 82
+      "gas:candidate-vibid:2422000977091": 314,
+      "gas:candidate-vibid:2422000976122": 0,
+      "gas:candidate-vibid:2422000974731": 28,
+      "gas:candidate-vibid:2422000976387": 6,
+      "gas:candidate-vibid:2422000976565": 82
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909134&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909134&type=464",
@@ -4113,11 +4113,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 171,
-      "Антонов Георгий Антонович": 0,
-      "Клейстер Роман Юрьевич": 18,
-      "Потапов Петр Николаевич": 1,
-      "Рябинюк Людмила Владимировна": 44
+      "gas:candidate-vibid:2422000977091": 171,
+      "gas:candidate-vibid:2422000976122": 0,
+      "gas:candidate-vibid:2422000974731": 18,
+      "gas:candidate-vibid:2422000976387": 1,
+      "gas:candidate-vibid:2422000976565": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909134&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909134&type=464",
@@ -4168,11 +4168,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 188,
-      "Антонов Георгий Антонович": 0,
-      "Клейстер Роман Юрьевич": 20,
-      "Потапов Петр Николаевич": 1,
-      "Рябинюк Людмила Владимировна": 49
+      "gas:candidate-vibid:2422000977091": 188,
+      "gas:candidate-vibid:2422000976122": 0,
+      "gas:candidate-vibid:2422000974731": 20,
+      "gas:candidate-vibid:2422000976387": 1,
+      "gas:candidate-vibid:2422000976565": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909134&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909134&type=464",
@@ -4223,11 +4223,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 343,
-      "Антонов Георгий Антонович": 0,
-      "Клейстер Роман Юрьевич": 35,
-      "Потапов Петр Николаевич": 0,
-      "Рябинюк Людмила Владимировна": 92
+      "gas:candidate-vibid:2422000977091": 343,
+      "gas:candidate-vibid:2422000976122": 0,
+      "gas:candidate-vibid:2422000974731": 35,
+      "gas:candidate-vibid:2422000976387": 0,
+      "gas:candidate-vibid:2422000976565": 92
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909134&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909134&type=464",
@@ -4278,11 +4278,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 366,
-      "Антонов Георгий Антонович": 0,
-      "Клейстер Роман Юрьевич": 35,
-      "Потапов Петр Николаевич": 2,
-      "Рябинюк Людмила Владимировна": 99
+      "gas:candidate-vibid:2422000977091": 366,
+      "gas:candidate-vibid:2422000976122": 0,
+      "gas:candidate-vibid:2422000974731": 35,
+      "gas:candidate-vibid:2422000976387": 2,
+      "gas:candidate-vibid:2422000976565": 99
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909134&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909134&type=464",
@@ -4333,11 +4333,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 320,
-      "Антонов Георгий Антонович": 1,
-      "Клейстер Роман Юрьевич": 31,
-      "Потапов Петр Николаевич": 0,
-      "Рябинюк Людмила Владимировна": 89
+      "gas:candidate-vibid:2422000977091": 320,
+      "gas:candidate-vibid:2422000976122": 1,
+      "gas:candidate-vibid:2422000974731": 31,
+      "gas:candidate-vibid:2422000976387": 0,
+      "gas:candidate-vibid:2422000976565": 89
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909134&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909134&type=464",
@@ -4388,11 +4388,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 485,
-      "Антонов Георгий Антонович": 0,
-      "Клейстер Роман Юрьевич": 46,
-      "Потапов Петр Николаевич": 0,
-      "Рябинюк Людмила Владимировна": 126
+      "gas:candidate-vibid:2422000977091": 485,
+      "gas:candidate-vibid:2422000976122": 0,
+      "gas:candidate-vibid:2422000974731": 46,
+      "gas:candidate-vibid:2422000976387": 0,
+      "gas:candidate-vibid:2422000976565": 126
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909134&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909134&type=464",
@@ -4443,11 +4443,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 285,
-      "Антонов Георгий Антонович": 0,
-      "Клейстер Роман Юрьевич": 27,
-      "Потапов Петр Николаевич": 1,
-      "Рябинюк Людмила Владимировна": 74
+      "gas:candidate-vibid:2422000977091": 285,
+      "gas:candidate-vibid:2422000976122": 0,
+      "gas:candidate-vibid:2422000974731": 27,
+      "gas:candidate-vibid:2422000976387": 1,
+      "gas:candidate-vibid:2422000976565": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909134&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909134&type=464",
@@ -4498,11 +4498,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 630,
-      "Антонов Георгий Антонович": 0,
-      "Клейстер Роман Юрьевич": 54,
-      "Потапов Петр Николаевич": 0,
-      "Рябинюк Людмила Владимировна": 240
+      "gas:candidate-vibid:2422000977091": 630,
+      "gas:candidate-vibid:2422000976122": 0,
+      "gas:candidate-vibid:2422000974731": 54,
+      "gas:candidate-vibid:2422000976387": 0,
+      "gas:candidate-vibid:2422000976565": 240
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909134&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909134&type=464",
@@ -4553,11 +4553,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 190,
-      "Антонов Георгий Антонович": 0,
-      "Клейстер Роман Юрьевич": 16,
-      "Потапов Петр Николаевич": 0,
-      "Рябинюк Людмила Владимировна": 48
+      "gas:candidate-vibid:2422000977091": 190,
+      "gas:candidate-vibid:2422000976122": 0,
+      "gas:candidate-vibid:2422000974731": 16,
+      "gas:candidate-vibid:2422000976387": 0,
+      "gas:candidate-vibid:2422000976565": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909134&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909134&type=464",
@@ -4608,11 +4608,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 379,
-      "Антонов Георгий Антонович": 0,
-      "Клейстер Роман Юрьевич": 39,
-      "Потапов Петр Николаевич": 0,
-      "Рябинюк Людмила Владимировна": 102
+      "gas:candidate-vibid:2422000977091": 379,
+      "gas:candidate-vibid:2422000976122": 0,
+      "gas:candidate-vibid:2422000974731": 39,
+      "gas:candidate-vibid:2422000976387": 0,
+      "gas:candidate-vibid:2422000976565": 102
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909134&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909134&type=464",
@@ -4663,11 +4663,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 195,
-      "Антонов Георгий Антонович": 2,
-      "Клейстер Роман Юрьевич": 19,
-      "Потапов Петр Николаевич": 1,
-      "Рябинюк Людмила Владимировна": 57
+      "gas:candidate-vibid:2422000977091": 195,
+      "gas:candidate-vibid:2422000976122": 2,
+      "gas:candidate-vibid:2422000974731": 19,
+      "gas:candidate-vibid:2422000976387": 1,
+      "gas:candidate-vibid:2422000976565": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909134&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909134&type=464",
@@ -4718,11 +4718,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 605,
-      "Антонов Георгий Антонович": 1,
-      "Клейстер Роман Юрьевич": 66,
-      "Потапов Петр Николаевич": 0,
-      "Рябинюк Людмила Владимировна": 165
+      "gas:candidate-vibid:2422000977091": 605,
+      "gas:candidate-vibid:2422000976122": 1,
+      "gas:candidate-vibid:2422000974731": 66,
+      "gas:candidate-vibid:2422000976387": 0,
+      "gas:candidate-vibid:2422000976565": 165
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909134&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909134&type=464",
@@ -4773,11 +4773,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 215,
-      "Антонов Георгий Антонович": 2,
-      "Клейстер Роман Юрьевич": 21,
-      "Потапов Петр Николаевич": 1,
-      "Рябинюк Людмила Владимировна": 59
+      "gas:candidate-vibid:2422000977091": 215,
+      "gas:candidate-vibid:2422000976122": 2,
+      "gas:candidate-vibid:2422000974731": 21,
+      "gas:candidate-vibid:2422000976387": 1,
+      "gas:candidate-vibid:2422000976565": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909134&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909134&type=464",
@@ -4828,11 +4828,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 1168,
-      "Антонов Георгий Антонович": 6,
-      "Клейстер Роман Юрьевич": 114,
-      "Потапов Петр Николаевич": 15,
-      "Рябинюк Людмила Владимировна": 337
+      "gas:candidate-vibid:2422000977091": 1168,
+      "gas:candidate-vibid:2422000976122": 6,
+      "gas:candidate-vibid:2422000974731": 114,
+      "gas:candidate-vibid:2422000976387": 15,
+      "gas:candidate-vibid:2422000976565": 337
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909135&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909135&type=464",
@@ -4883,11 +4883,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 757,
-      "Антонов Георгий Антонович": 4,
-      "Клейстер Роман Юрьевич": 74,
-      "Потапов Петр Николаевич": 13,
-      "Рябинюк Людмила Владимировна": 218
+      "gas:candidate-vibid:2422000977091": 757,
+      "gas:candidate-vibid:2422000976122": 4,
+      "gas:candidate-vibid:2422000974731": 74,
+      "gas:candidate-vibid:2422000976387": 13,
+      "gas:candidate-vibid:2422000976565": 218
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909135&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909135&type=464",
@@ -4938,11 +4938,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 652,
-      "Антонов Георгий Антонович": 5,
-      "Клейстер Роман Юрьевич": 64,
-      "Потапов Петр Николаевич": 11,
-      "Рябинюк Людмила Владимировна": 185
+      "gas:candidate-vibid:2422000977091": 652,
+      "gas:candidate-vibid:2422000976122": 5,
+      "gas:candidate-vibid:2422000974731": 64,
+      "gas:candidate-vibid:2422000976387": 11,
+      "gas:candidate-vibid:2422000976565": 185
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909135&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909135&type=464",
@@ -4993,11 +4993,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 1026,
-      "Антонов Георгий Антонович": 2,
-      "Клейстер Роман Юрьевич": 100,
-      "Потапов Петр Николаевич": 15,
-      "Рябинюк Людмила Владимировна": 295
+      "gas:candidate-vibid:2422000977091": 1026,
+      "gas:candidate-vibid:2422000976122": 2,
+      "gas:candidate-vibid:2422000974731": 100,
+      "gas:candidate-vibid:2422000976387": 15,
+      "gas:candidate-vibid:2422000976565": 295
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909135&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909135&type=464",
@@ -5048,11 +5048,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 667,
-      "Антонов Георгий Антонович": 1,
-      "Клейстер Роман Юрьевич": 65,
-      "Потапов Петр Николаевич": 9,
-      "Рябинюк Людмила Владимировна": 192
+      "gas:candidate-vibid:2422000977091": 667,
+      "gas:candidate-vibid:2422000976122": 1,
+      "gas:candidate-vibid:2422000974731": 65,
+      "gas:candidate-vibid:2422000976387": 9,
+      "gas:candidate-vibid:2422000976565": 192
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909135&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909135&type=464",
@@ -5103,11 +5103,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 596,
-      "Антонов Георгий Антонович": 1,
-      "Клейстер Роман Юрьевич": 58,
-      "Потапов Петр Николаевич": 5,
-      "Рябинюк Людмила Владимировна": 170
+      "gas:candidate-vibid:2422000977091": 596,
+      "gas:candidate-vibid:2422000976122": 1,
+      "gas:candidate-vibid:2422000974731": 58,
+      "gas:candidate-vibid:2422000976387": 5,
+      "gas:candidate-vibid:2422000976565": 170
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909135&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909135&type=464",
@@ -5158,11 +5158,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 925,
-      "Антонов Георгий Антонович": 3,
-      "Клейстер Роман Юрьевич": 90,
-      "Потапов Петр Николаевич": 8,
-      "Рябинюк Людмила Владимировна": 266
+      "gas:candidate-vibid:2422000977091": 925,
+      "gas:candidate-vibid:2422000976122": 3,
+      "gas:candidate-vibid:2422000974731": 90,
+      "gas:candidate-vibid:2422000976387": 8,
+      "gas:candidate-vibid:2422000976565": 266
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909135&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909135&type=464",
@@ -5213,11 +5213,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 836,
-      "Антонов Георгий Антонович": 2,
-      "Клейстер Роман Юрьевич": 81,
-      "Потапов Петр Николаевич": 4,
-      "Рябинюк Людмила Владимировна": 240
+      "gas:candidate-vibid:2422000977091": 836,
+      "gas:candidate-vibid:2422000976122": 2,
+      "gas:candidate-vibid:2422000974731": 81,
+      "gas:candidate-vibid:2422000976387": 4,
+      "gas:candidate-vibid:2422000976565": 240
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909135&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909135&type=464",
@@ -5268,11 +5268,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 953,
-      "Антонов Георгий Антонович": 4,
-      "Клейстер Роман Юрьевич": 93,
-      "Потапов Петр Николаевич": 5,
-      "Рябинюк Людмила Владимировна": 275
+      "gas:candidate-vibid:2422000977091": 953,
+      "gas:candidate-vibid:2422000976122": 4,
+      "gas:candidate-vibid:2422000974731": 93,
+      "gas:candidate-vibid:2422000976387": 5,
+      "gas:candidate-vibid:2422000976565": 275
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909135&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909135&type=464",
@@ -5323,11 +5323,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 738,
-      "Антонов Георгий Антонович": 5,
-      "Клейстер Роман Юрьевич": 72,
-      "Потапов Петр Николаевич": 7,
-      "Рябинюк Людмила Владимировна": 214
+      "gas:candidate-vibid:2422000977091": 738,
+      "gas:candidate-vibid:2422000976122": 5,
+      "gas:candidate-vibid:2422000974731": 72,
+      "gas:candidate-vibid:2422000976387": 7,
+      "gas:candidate-vibid:2422000976565": 214
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909135&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909135&type=464",
@@ -5378,11 +5378,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 958,
-      "Антонов Георгий Антонович": 0,
-      "Клейстер Роман Юрьевич": 92,
-      "Потапов Петр Николаевич": 0,
-      "Рябинюк Людмила Владимировна": 270
+      "gas:candidate-vibid:2422000977091": 958,
+      "gas:candidate-vibid:2422000976122": 0,
+      "gas:candidate-vibid:2422000974731": 92,
+      "gas:candidate-vibid:2422000976387": 0,
+      "gas:candidate-vibid:2422000976565": 270
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909135&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909135&type=464",
@@ -5433,11 +5433,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 965,
-      "Антонов Георгий Антонович": 6,
-      "Клейстер Роман Юрьевич": 94,
-      "Потапов Петр Николаевич": 15,
-      "Рябинюк Людмила Владимировна": 278
+      "gas:candidate-vibid:2422000977091": 965,
+      "gas:candidate-vibid:2422000976122": 6,
+      "gas:candidate-vibid:2422000974731": 94,
+      "gas:candidate-vibid:2422000976387": 15,
+      "gas:candidate-vibid:2422000976565": 278
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909135&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909135&type=464",
@@ -5488,11 +5488,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 754,
-      "Антонов Георгий Антонович": 4,
-      "Клейстер Роман Юрьевич": 73,
-      "Потапов Петр Николаевич": 12,
-      "Рябинюк Людмила Владимировна": 217
+      "gas:candidate-vibid:2422000977091": 754,
+      "gas:candidate-vibid:2422000976122": 4,
+      "gas:candidate-vibid:2422000974731": 73,
+      "gas:candidate-vibid:2422000976387": 12,
+      "gas:candidate-vibid:2422000976565": 217
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909135&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909135&type=464",
@@ -5543,11 +5543,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 805,
-      "Антонов Георгий Антонович": 5,
-      "Клейстер Роман Юрьевич": 79,
-      "Потапов Петр Николаевич": 6,
-      "Рябинюк Людмила Владимировна": 232
+      "gas:candidate-vibid:2422000977091": 805,
+      "gas:candidate-vibid:2422000976122": 5,
+      "gas:candidate-vibid:2422000974731": 79,
+      "gas:candidate-vibid:2422000976387": 6,
+      "gas:candidate-vibid:2422000976565": 232
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909135&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909135&type=464",
@@ -5598,11 +5598,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 943,
-      "Антонов Георгий Антонович": 6,
-      "Клейстер Роман Юрьевич": 92,
-      "Потапов Петр Николаевич": 3,
-      "Рябинюк Людмила Владимировна": 272
+      "gas:candidate-vibid:2422000977091": 943,
+      "gas:candidate-vibid:2422000976122": 6,
+      "gas:candidate-vibid:2422000974731": 92,
+      "gas:candidate-vibid:2422000976387": 3,
+      "gas:candidate-vibid:2422000976565": 272
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909135&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909135&type=464",
@@ -5653,11 +5653,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 951,
-      "Антонов Георгий Антонович": 0,
-      "Клейстер Роман Юрьевич": 93,
-      "Потапов Петр Николаевич": 1,
-      "Рябинюк Людмила Владимировна": 274
+      "gas:candidate-vibid:2422000977091": 951,
+      "gas:candidate-vibid:2422000976122": 0,
+      "gas:candidate-vibid:2422000974731": 93,
+      "gas:candidate-vibid:2422000976387": 1,
+      "gas:candidate-vibid:2422000976565": 274
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909135&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909135&type=464",
@@ -5708,11 +5708,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 1761,
-      "Антонов Георгий Антонович": 2,
-      "Клейстер Роман Юрьевич": 158,
-      "Потапов Петр Николаевич": 4,
-      "Рябинюк Людмила Владимировна": 495
+      "gas:candidate-vibid:2422000977091": 1761,
+      "gas:candidate-vibid:2422000976122": 2,
+      "gas:candidate-vibid:2422000974731": 158,
+      "gas:candidate-vibid:2422000976387": 4,
+      "gas:candidate-vibid:2422000976565": 495
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909135&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909135&type=464",
@@ -5763,11 +5763,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 1952,
-      "Антонов Георгий Антонович": 11,
-      "Клейстер Роман Юрьевич": 191,
-      "Потапов Петр Николаевич": 24,
-      "Рябинюк Людмила Владимировна": 562
+      "gas:candidate-vibid:2422000977091": 1952,
+      "gas:candidate-vibid:2422000976122": 11,
+      "gas:candidate-vibid:2422000974731": 191,
+      "gas:candidate-vibid:2422000976387": 24,
+      "gas:candidate-vibid:2422000976565": 562
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909135&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909135&type=464",
@@ -5818,11 +5818,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 806,
-      "Антонов Георгий Антонович": 6,
-      "Клейстер Роман Юрьевич": 78,
-      "Потапов Петр Николаевич": 12,
-      "Рябинюк Людмила Владимировна": 231
+      "gas:candidate-vibid:2422000977091": 806,
+      "gas:candidate-vibid:2422000976122": 6,
+      "gas:candidate-vibid:2422000974731": 78,
+      "gas:candidate-vibid:2422000976387": 12,
+      "gas:candidate-vibid:2422000976565": 231
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909135&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909135&type=464",
@@ -5873,11 +5873,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 996,
-      "Антонов Георгий Антонович": 0,
-      "Клейстер Роман Юрьевич": 94,
-      "Потапов Петр Николаевич": 0,
-      "Рябинюк Людмила Владимировна": 280
+      "gas:candidate-vibid:2422000977091": 996,
+      "gas:candidate-vibid:2422000976122": 0,
+      "gas:candidate-vibid:2422000974731": 94,
+      "gas:candidate-vibid:2422000976387": 0,
+      "gas:candidate-vibid:2422000976565": 280
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909135&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909135&type=464",
@@ -5928,11 +5928,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 930,
-      "Антонов Георгий Антонович": 3,
-      "Клейстер Роман Юрьевич": 91,
-      "Потапов Петр Николаевич": 1,
-      "Рябинюк Людмила Владимировна": 268
+      "gas:candidate-vibid:2422000977091": 930,
+      "gas:candidate-vibid:2422000976122": 3,
+      "gas:candidate-vibid:2422000974731": 91,
+      "gas:candidate-vibid:2422000976387": 1,
+      "gas:candidate-vibid:2422000976565": 268
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909135&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909135&type=464",
@@ -5983,11 +5983,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 902,
-      "Антонов Георгий Антонович": 5,
-      "Клейстер Роман Юрьевич": 88,
-      "Потапов Петр Николаевич": 12,
-      "Рябинюк Людмила Владимировна": 260
+      "gas:candidate-vibid:2422000977091": 902,
+      "gas:candidate-vibid:2422000976122": 5,
+      "gas:candidate-vibid:2422000974731": 88,
+      "gas:candidate-vibid:2422000976387": 12,
+      "gas:candidate-vibid:2422000976565": 260
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909135&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909135&type=464",
@@ -6038,11 +6038,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 923,
-      "Антонов Георгий Антонович": 6,
-      "Клейстер Роман Юрьевич": 90,
-      "Потапов Петр Николаевич": 11,
-      "Рябинюк Людмила Владимировна": 265
+      "gas:candidate-vibid:2422000977091": 923,
+      "gas:candidate-vibid:2422000976122": 6,
+      "gas:candidate-vibid:2422000974731": 90,
+      "gas:candidate-vibid:2422000976387": 11,
+      "gas:candidate-vibid:2422000976565": 265
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909135&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909135&type=464",
@@ -6093,11 +6093,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 875,
-      "Антонов Георгий Антонович": 5,
-      "Клейстер Роман Юрьевич": 85,
-      "Потапов Петр Николаевич": 14,
-      "Рябинюк Людмила Владимировна": 252
+      "gas:candidate-vibid:2422000977091": 875,
+      "gas:candidate-vibid:2422000976122": 5,
+      "gas:candidate-vibid:2422000974731": 85,
+      "gas:candidate-vibid:2422000976387": 14,
+      "gas:candidate-vibid:2422000976565": 252
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909135&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909135&type=464",
@@ -6148,11 +6148,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 1018,
-      "Антонов Георгий Антонович": 0,
-      "Клейстер Роман Юрьевич": 21,
-      "Потапов Петр Николаевич": 0,
-      "Рябинюк Людмила Владимировна": 396
+      "gas:candidate-vibid:2422000977091": 1018,
+      "gas:candidate-vibid:2422000976122": 0,
+      "gas:candidate-vibid:2422000974731": 21,
+      "gas:candidate-vibid:2422000976387": 0,
+      "gas:candidate-vibid:2422000976565": 396
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909135&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909135&type=464",
@@ -6203,11 +6203,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 950,
-      "Антонов Георгий Антонович": 1,
-      "Клейстер Роман Юрьевич": 90,
-      "Потапов Петр Николаевич": 6,
-      "Рябинюк Людмила Владимировна": 274
+      "gas:candidate-vibid:2422000977091": 950,
+      "gas:candidate-vibid:2422000976122": 1,
+      "gas:candidate-vibid:2422000974731": 90,
+      "gas:candidate-vibid:2422000976387": 6,
+      "gas:candidate-vibid:2422000976565": 274
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909135&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909135&type=464",
@@ -6258,11 +6258,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 902,
-      "Антонов Георгий Антонович": 2,
-      "Клейстер Роман Юрьевич": 88,
-      "Потапов Петр Николаевич": 3,
-      "Рябинюк Людмила Владимировна": 260
+      "gas:candidate-vibid:2422000977091": 902,
+      "gas:candidate-vibid:2422000976122": 2,
+      "gas:candidate-vibid:2422000974731": 88,
+      "gas:candidate-vibid:2422000976387": 3,
+      "gas:candidate-vibid:2422000976565": 260
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909135&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909135&type=464",
@@ -6313,11 +6313,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 916,
-      "Антонов Георгий Антонович": 6,
-      "Клейстер Роман Юрьевич": 90,
-      "Потапов Петр Николаевич": 8,
-      "Рябинюк Людмила Владимировна": 264
+      "gas:candidate-vibid:2422000977091": 916,
+      "gas:candidate-vibid:2422000976122": 6,
+      "gas:candidate-vibid:2422000974731": 90,
+      "gas:candidate-vibid:2422000976387": 8,
+      "gas:candidate-vibid:2422000976565": 264
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909135&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909135&type=464",
@@ -6368,11 +6368,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 845,
-      "Антонов Георгий Антонович": 0,
-      "Клейстер Роман Юрьевич": 10,
-      "Потапов Петр Николаевич": 0,
-      "Рябинюк Людмила Владимировна": 382
+      "gas:candidate-vibid:2422000977091": 845,
+      "gas:candidate-vibid:2422000976122": 0,
+      "gas:candidate-vibid:2422000974731": 10,
+      "gas:candidate-vibid:2422000976387": 0,
+      "gas:candidate-vibid:2422000976565": 382
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909135&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909135&type=464",
@@ -6423,11 +6423,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 885,
-      "Антонов Георгий Антонович": 7,
-      "Клейстер Роман Юрьевич": 86,
-      "Потапов Петр Николаевич": 1,
-      "Рябинюк Людмила Владимировна": 255
+      "gas:candidate-vibid:2422000977091": 885,
+      "gas:candidate-vibid:2422000976122": 7,
+      "gas:candidate-vibid:2422000974731": 86,
+      "gas:candidate-vibid:2422000976387": 1,
+      "gas:candidate-vibid:2422000976565": 255
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909135&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909135&type=464",
@@ -6478,11 +6478,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 936,
-      "Антонов Георгий Антонович": 6,
-      "Клейстер Роман Юрьевич": 91,
-      "Потапов Петр Николаевич": 15,
-      "Рябинюк Людмила Владимировна": 270
+      "gas:candidate-vibid:2422000977091": 936,
+      "gas:candidate-vibid:2422000976122": 6,
+      "gas:candidate-vibid:2422000974731": 91,
+      "gas:candidate-vibid:2422000976387": 15,
+      "gas:candidate-vibid:2422000976565": 270
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909135&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909135&type=464",
@@ -6533,11 +6533,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 1089,
-      "Антонов Георгий Антонович": 1,
-      "Клейстер Роман Юрьевич": 105,
-      "Потапов Петр Николаевич": 8,
-      "Рябинюк Людмила Владимировна": 310
+      "gas:candidate-vibid:2422000977091": 1089,
+      "gas:candidate-vibid:2422000976122": 1,
+      "gas:candidate-vibid:2422000974731": 105,
+      "gas:candidate-vibid:2422000976387": 8,
+      "gas:candidate-vibid:2422000976565": 310
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909135&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909135&type=464",
@@ -6588,11 +6588,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 1079,
-      "Антонов Георгий Антонович": 3,
-      "Клейстер Роман Юрьевич": 105,
-      "Потапов Петр Николаевич": 17,
-      "Рябинюк Людмила Владимировна": 310
+      "gas:candidate-vibid:2422000977091": 1079,
+      "gas:candidate-vibid:2422000976122": 3,
+      "gas:candidate-vibid:2422000974731": 105,
+      "gas:candidate-vibid:2422000976387": 17,
+      "gas:candidate-vibid:2422000976565": 310
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909135&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909135&type=464",
@@ -6643,11 +6643,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 1185,
-      "Антонов Георгий Антонович": 5,
-      "Клейстер Роман Юрьевич": 109,
-      "Потапов Петр Николаевич": 5,
-      "Рябинюк Людмила Владимировна": 330
+      "gas:candidate-vibid:2422000977091": 1185,
+      "gas:candidate-vibid:2422000976122": 5,
+      "gas:candidate-vibid:2422000974731": 109,
+      "gas:candidate-vibid:2422000976387": 5,
+      "gas:candidate-vibid:2422000976565": 330
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909135&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909135&type=464",
@@ -6698,11 +6698,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 905,
-      "Антонов Георгий Антонович": 6,
-      "Клейстер Роман Юрьевич": 88,
-      "Потапов Петр Николаевич": 12,
-      "Рябинюк Людмила Владимировна": 260
+      "gas:candidate-vibid:2422000977091": 905,
+      "gas:candidate-vibid:2422000976122": 6,
+      "gas:candidate-vibid:2422000974731": 88,
+      "gas:candidate-vibid:2422000976387": 12,
+      "gas:candidate-vibid:2422000976565": 260
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909135&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909135&type=464",
@@ -6753,11 +6753,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 1023,
-      "Антонов Георгий Антонович": 6,
-      "Клейстер Роман Юрьевич": 98,
-      "Потапов Петр Николаевич": 16,
-      "Рябинюк Людмила Владимировна": 298
+      "gas:candidate-vibid:2422000977091": 1023,
+      "gas:candidate-vibid:2422000976122": 6,
+      "gas:candidate-vibid:2422000974731": 98,
+      "gas:candidate-vibid:2422000976387": 16,
+      "gas:candidate-vibid:2422000976565": 298
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909135&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909135&type=464",
@@ -6808,11 +6808,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 987,
-      "Антонов Георгий Антонович": 6,
-      "Клейстер Роман Юрьевич": 95,
-      "Потапов Петр Николаевич": 2,
-      "Рябинюк Людмила Владимировна": 281
+      "gas:candidate-vibid:2422000977091": 987,
+      "gas:candidate-vibid:2422000976122": 6,
+      "gas:candidate-vibid:2422000974731": 95,
+      "gas:candidate-vibid:2422000976387": 2,
+      "gas:candidate-vibid:2422000976565": 281
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909135&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909135&type=464",
@@ -6863,11 +6863,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 999,
-      "Антонов Георгий Антонович": 2,
-      "Клейстер Роман Юрьевич": 98,
-      "Потапов Петр Николаевич": 12,
-      "Рябинюк Людмила Владимировна": 289
+      "gas:candidate-vibid:2422000977091": 999,
+      "gas:candidate-vibid:2422000976122": 2,
+      "gas:candidate-vibid:2422000974731": 98,
+      "gas:candidate-vibid:2422000976387": 12,
+      "gas:candidate-vibid:2422000976565": 289
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909135&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909135&type=464",
@@ -6918,11 +6918,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 1417,
-      "Антонов Георгий Антонович": 5,
-      "Клейстер Роман Юрьевич": 138,
-      "Потапов Петр Николаевич": 8,
-      "Рябинюк Людмила Владимировна": 408
+      "gas:candidate-vibid:2422000977091": 1417,
+      "gas:candidate-vibid:2422000976122": 5,
+      "gas:candidate-vibid:2422000974731": 138,
+      "gas:candidate-vibid:2422000976387": 8,
+      "gas:candidate-vibid:2422000976565": 408
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909135&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909135&type=464",
@@ -6973,11 +6973,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 1345,
-      "Антонов Георгий Антонович": 2,
-      "Клейстер Роман Юрьевич": 132,
-      "Потапов Петр Николаевич": 17,
-      "Рябинюк Людмила Владимировна": 387
+      "gas:candidate-vibid:2422000977091": 1345,
+      "gas:candidate-vibid:2422000976122": 2,
+      "gas:candidate-vibid:2422000974731": 132,
+      "gas:candidate-vibid:2422000976387": 17,
+      "gas:candidate-vibid:2422000976565": 387
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909135&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909135&type=464",
@@ -7028,11 +7028,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 1075,
-      "Антонов Георгий Антонович": 9,
-      "Клейстер Роман Юрьевич": 105,
-      "Потапов Петр Николаевич": 6,
-      "Рябинюк Людмила Владимировна": 311
+      "gas:candidate-vibid:2422000977091": 1075,
+      "gas:candidate-vibid:2422000976122": 9,
+      "gas:candidate-vibid:2422000974731": 105,
+      "gas:candidate-vibid:2422000976387": 6,
+      "gas:candidate-vibid:2422000976565": 311
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909135&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909135&type=464",
@@ -7083,11 +7083,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 523,
-      "Антонов Георгий Антонович": 39,
-      "Клейстер Роман Юрьевич": 96,
-      "Потапов Петр Николаевич": 47,
-      "Рябинюк Людмила Владимировна": 26
+      "gas:candidate-vibid:2422000977091": 523,
+      "gas:candidate-vibid:2422000976122": 39,
+      "gas:candidate-vibid:2422000974731": 96,
+      "gas:candidate-vibid:2422000976387": 47,
+      "gas:candidate-vibid:2422000976565": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909136&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909136&type=464",
@@ -7138,11 +7138,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 826,
-      "Антонов Георгий Антонович": 27,
-      "Клейстер Роман Юрьевич": 31,
-      "Потапов Петр Николаевич": 5,
-      "Рябинюк Людмила Владимировна": 134
+      "gas:candidate-vibid:2422000977091": 826,
+      "gas:candidate-vibid:2422000976122": 27,
+      "gas:candidate-vibid:2422000974731": 31,
+      "gas:candidate-vibid:2422000976387": 5,
+      "gas:candidate-vibid:2422000976565": 134
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909136&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909136&type=464",
@@ -7193,11 +7193,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 645,
-      "Антонов Георгий Антонович": 27,
-      "Клейстер Роман Юрьевич": 85,
-      "Потапов Петр Николаевич": 3,
-      "Рябинюк Людмила Владимировна": 73
+      "gas:candidate-vibid:2422000977091": 645,
+      "gas:candidate-vibid:2422000976122": 27,
+      "gas:candidate-vibid:2422000974731": 85,
+      "gas:candidate-vibid:2422000976387": 3,
+      "gas:candidate-vibid:2422000976565": 73
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909136&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909136&type=464",
@@ -7248,11 +7248,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 91,
-      "Антонов Георгий Антонович": 8,
-      "Клейстер Роман Юрьевич": 12,
-      "Потапов Петр Николаевич": 6,
-      "Рябинюк Людмила Владимировна": 5
+      "gas:candidate-vibid:2422000977091": 91,
+      "gas:candidate-vibid:2422000976122": 8,
+      "gas:candidate-vibid:2422000974731": 12,
+      "gas:candidate-vibid:2422000976387": 6,
+      "gas:candidate-vibid:2422000976565": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909136&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909136&type=464",
@@ -7303,11 +7303,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 31,
-      "Антонов Георгий Антонович": 0,
-      "Клейстер Роман Юрьевич": 2,
-      "Потапов Петр Николаевич": 0,
-      "Рябинюк Людмила Владимировна": 0
+      "gas:candidate-vibid:2422000977091": 31,
+      "gas:candidate-vibid:2422000976122": 0,
+      "gas:candidate-vibid:2422000974731": 2,
+      "gas:candidate-vibid:2422000976387": 0,
+      "gas:candidate-vibid:2422000976565": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909136&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909136&type=464",
@@ -7358,11 +7358,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 111,
-      "Антонов Георгий Антонович": 8,
-      "Клейстер Роман Юрьевич": 14,
-      "Потапов Петр Николаевич": 0,
-      "Рябинюк Людмила Владимировна": 30
+      "gas:candidate-vibid:2422000977091": 111,
+      "gas:candidate-vibid:2422000976122": 8,
+      "gas:candidate-vibid:2422000974731": 14,
+      "gas:candidate-vibid:2422000976387": 0,
+      "gas:candidate-vibid:2422000976565": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909136&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909136&type=464",
@@ -7413,11 +7413,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 100,
-      "Антонов Георгий Антонович": 0,
-      "Клейстер Роман Юрьевич": 8,
-      "Потапов Петр Николаевич": 0,
-      "Рябинюк Людмила Владимировна": 18
+      "gas:candidate-vibid:2422000977091": 100,
+      "gas:candidate-vibid:2422000976122": 0,
+      "gas:candidate-vibid:2422000974731": 8,
+      "gas:candidate-vibid:2422000976387": 0,
+      "gas:candidate-vibid:2422000976565": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909136&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909136&type=464",
@@ -7468,11 +7468,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 299,
-      "Антонов Георгий Антонович": 2,
-      "Клейстер Роман Юрьевич": 0,
-      "Потапов Петр Николаевич": 0,
-      "Рябинюк Людмила Владимировна": 92
+      "gas:candidate-vibid:2422000977091": 299,
+      "gas:candidate-vibid:2422000976122": 2,
+      "gas:candidate-vibid:2422000974731": 0,
+      "gas:candidate-vibid:2422000976387": 0,
+      "gas:candidate-vibid:2422000976565": 92
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909136&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909136&type=464",
@@ -7523,11 +7523,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 269,
-      "Антонов Георгий Антонович": 12,
-      "Клейстер Роман Юрьевич": 15,
-      "Потапов Петр Николаевич": 8,
-      "Рябинюк Людмила Владимировна": 44
+      "gas:candidate-vibid:2422000977091": 269,
+      "gas:candidate-vibid:2422000976122": 12,
+      "gas:candidate-vibid:2422000974731": 15,
+      "gas:candidate-vibid:2422000976387": 8,
+      "gas:candidate-vibid:2422000976565": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909136&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909136&type=464",
@@ -7578,11 +7578,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 297,
-      "Антонов Георгий Антонович": 2,
-      "Клейстер Роман Юрьевич": 37,
-      "Потапов Петр Николаевич": 2,
-      "Рябинюк Людмила Владимировна": 75
+      "gas:candidate-vibid:2422000977091": 297,
+      "gas:candidate-vibid:2422000976122": 2,
+      "gas:candidate-vibid:2422000974731": 37,
+      "gas:candidate-vibid:2422000976387": 2,
+      "gas:candidate-vibid:2422000976565": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909136&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909136&type=464",
@@ -7633,11 +7633,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 224,
-      "Антонов Георгий Антонович": 50,
-      "Клейстер Роман Юрьевич": 64,
-      "Потапов Петр Николаевич": 25,
-      "Рябинюк Людмила Владимировна": 17
+      "gas:candidate-vibid:2422000977091": 224,
+      "gas:candidate-vibid:2422000976122": 50,
+      "gas:candidate-vibid:2422000974731": 64,
+      "gas:candidate-vibid:2422000976387": 25,
+      "gas:candidate-vibid:2422000976565": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909136&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909136&type=464",
@@ -7688,11 +7688,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 91,
-      "Антонов Георгий Антонович": 4,
-      "Клейстер Роман Юрьевич": 10,
-      "Потапов Петр Николаевич": 5,
-      "Рябинюк Людмила Владимировна": 2
+      "gas:candidate-vibid:2422000977091": 91,
+      "gas:candidate-vibid:2422000976122": 4,
+      "gas:candidate-vibid:2422000974731": 10,
+      "gas:candidate-vibid:2422000976387": 5,
+      "gas:candidate-vibid:2422000976565": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909136&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909136&type=464",
@@ -7743,11 +7743,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 97,
-      "Антонов Георгий Антонович": 0,
-      "Клейстер Роман Юрьевич": 29,
-      "Потапов Петр Николаевич": 0,
-      "Рябинюк Людмила Владимировна": 28
+      "gas:candidate-vibid:2422000977091": 97,
+      "gas:candidate-vibid:2422000976122": 0,
+      "gas:candidate-vibid:2422000974731": 29,
+      "gas:candidate-vibid:2422000976387": 0,
+      "gas:candidate-vibid:2422000976565": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909136&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909136&type=464",
@@ -7798,11 +7798,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 360,
-      "Антонов Георгий Антонович": 1,
-      "Клейстер Роман Юрьевич": 43,
-      "Потапов Петр Николаевич": 1,
-      "Рябинюк Людмила Владимировна": 92
+      "gas:candidate-vibid:2422000977091": 360,
+      "gas:candidate-vibid:2422000976122": 1,
+      "gas:candidate-vibid:2422000974731": 43,
+      "gas:candidate-vibid:2422000976387": 1,
+      "gas:candidate-vibid:2422000976565": 92
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909136&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909136&type=464",
@@ -7853,11 +7853,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 53,
-      "Антонов Георгий Антонович": 0,
-      "Клейстер Роман Юрьевич": 6,
-      "Потапов Петр Николаевич": 0,
-      "Рябинюк Людмила Владимировна": 13
+      "gas:candidate-vibid:2422000977091": 53,
+      "gas:candidate-vibid:2422000976122": 0,
+      "gas:candidate-vibid:2422000974731": 6,
+      "gas:candidate-vibid:2422000976387": 0,
+      "gas:candidate-vibid:2422000976565": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909136&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909136&type=464",
@@ -7908,11 +7908,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 294,
-      "Антонов Георгий Антонович": 4,
-      "Клейстер Роман Юрьевич": 33,
-      "Потапов Петр Николаевич": 2,
-      "Рябинюк Людмила Владимировна": 70
+      "gas:candidate-vibid:2422000977091": 294,
+      "gas:candidate-vibid:2422000976122": 4,
+      "gas:candidate-vibid:2422000974731": 33,
+      "gas:candidate-vibid:2422000976387": 2,
+      "gas:candidate-vibid:2422000976565": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909136&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909136&type=464",
@@ -7963,11 +7963,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 483,
-      "Антонов Георгий Антонович": 2,
-      "Клейстер Роман Юрьевич": 56,
-      "Потапов Петр Николаевич": 2,
-      "Рябинюк Людмила Владимировна": 116
+      "gas:candidate-vibid:2422000977091": 483,
+      "gas:candidate-vibid:2422000976122": 2,
+      "gas:candidate-vibid:2422000974731": 56,
+      "gas:candidate-vibid:2422000976387": 2,
+      "gas:candidate-vibid:2422000976565": 116
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909136&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909136&type=464",
@@ -8018,11 +8018,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 245,
-      "Антонов Георгий Антонович": 14,
-      "Клейстер Роман Юрьевич": 15,
-      "Потапов Петр Николаевич": 4,
-      "Рябинюк Людмила Владимировна": 60
+      "gas:candidate-vibid:2422000977091": 245,
+      "gas:candidate-vibid:2422000976122": 14,
+      "gas:candidate-vibid:2422000974731": 15,
+      "gas:candidate-vibid:2422000976387": 4,
+      "gas:candidate-vibid:2422000976565": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909136&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909136&type=464",
@@ -8073,11 +8073,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 147,
-      "Антонов Георгий Антонович": 0,
-      "Клейстер Роман Юрьевич": 13,
-      "Потапов Петр Николаевич": 0,
-      "Рябинюк Людмила Владимировна": 15
+      "gas:candidate-vibid:2422000977091": 147,
+      "gas:candidate-vibid:2422000976122": 0,
+      "gas:candidate-vibid:2422000974731": 13,
+      "gas:candidate-vibid:2422000976387": 0,
+      "gas:candidate-vibid:2422000976565": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909136&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909136&type=464",
@@ -8128,11 +8128,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 322,
-      "Антонов Георгий Антонович": 6,
-      "Клейстер Роман Юрьевич": 23,
-      "Потапов Петр Николаевич": 5,
-      "Рябинюк Людмила Владимировна": 48
+      "gas:candidate-vibid:2422000977091": 322,
+      "gas:candidate-vibid:2422000976122": 6,
+      "gas:candidate-vibid:2422000974731": 23,
+      "gas:candidate-vibid:2422000976387": 5,
+      "gas:candidate-vibid:2422000976565": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909136&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909136&type=464",
@@ -8183,11 +8183,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 618,
-      "Антонов Георгий Антонович": 1,
-      "Клейстер Роман Юрьевич": 72,
-      "Потапов Петр Николаевич": 3,
-      "Рябинюк Людмила Владимировна": 157
+      "gas:candidate-vibid:2422000977091": 618,
+      "gas:candidate-vibid:2422000976122": 1,
+      "gas:candidate-vibid:2422000974731": 72,
+      "gas:candidate-vibid:2422000976387": 3,
+      "gas:candidate-vibid:2422000976565": 157
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909136&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909136&type=464",
@@ -8238,11 +8238,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 199,
-      "Антонов Георгий Антонович": 15,
-      "Клейстер Роман Юрьевич": 34,
-      "Потапов Петр Николаевич": 4,
-      "Рябинюк Людмила Владимировна": 10
+      "gas:candidate-vibid:2422000977091": 199,
+      "gas:candidate-vibid:2422000976122": 15,
+      "gas:candidate-vibid:2422000974731": 34,
+      "gas:candidate-vibid:2422000976387": 4,
+      "gas:candidate-vibid:2422000976565": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909136&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909136&type=464",
@@ -8293,11 +8293,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 21,
-      "Антонов Георгий Антонович": 0,
-      "Клейстер Роман Юрьевич": 3,
-      "Потапов Петр Николаевич": 0,
-      "Рябинюк Людмила Владимировна": 7
+      "gas:candidate-vibid:2422000977091": 21,
+      "gas:candidate-vibid:2422000976122": 0,
+      "gas:candidate-vibid:2422000974731": 3,
+      "gas:candidate-vibid:2422000976387": 0,
+      "gas:candidate-vibid:2422000976565": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909136&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909136&type=464",
@@ -8348,11 +8348,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 106,
-      "Антонов Георгий Антонович": 0,
-      "Клейстер Роман Юрьевич": 12,
-      "Потапов Петр Николаевич": 0,
-      "Рябинюк Людмила Владимировна": 26
+      "gas:candidate-vibid:2422000977091": 106,
+      "gas:candidate-vibid:2422000976122": 0,
+      "gas:candidate-vibid:2422000974731": 12,
+      "gas:candidate-vibid:2422000976387": 0,
+      "gas:candidate-vibid:2422000976565": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909136&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909136&type=464",
@@ -8403,11 +8403,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 543,
-      "Антонов Георгий Антонович": 65,
-      "Клейстер Роман Юрьевич": 78,
-      "Потапов Петр Николаевич": 26,
-      "Рябинюк Людмила Владимировна": 60
+      "gas:candidate-vibid:2422000977091": 543,
+      "gas:candidate-vibid:2422000976122": 65,
+      "gas:candidate-vibid:2422000974731": 78,
+      "gas:candidate-vibid:2422000976387": 26,
+      "gas:candidate-vibid:2422000976565": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909136&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909136&type=464",
@@ -8458,11 +8458,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 154,
-      "Антонов Георгий Антонович": 0,
-      "Клейстер Роман Юрьевич": 19,
-      "Потапов Петр Николаевич": 0,
-      "Рябинюк Людмила Владимировна": 40
+      "gas:candidate-vibid:2422000977091": 154,
+      "gas:candidate-vibid:2422000976122": 0,
+      "gas:candidate-vibid:2422000974731": 19,
+      "gas:candidate-vibid:2422000976387": 0,
+      "gas:candidate-vibid:2422000976565": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909136&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909136&type=464",
@@ -8513,11 +8513,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 266,
-      "Антонов Георгий Антонович": 8,
-      "Клейстер Роман Юрьевич": 5,
-      "Потапов Петр Николаевич": 0,
-      "Рябинюк Людмила Владимировна": 67
+      "gas:candidate-vibid:2422000977091": 266,
+      "gas:candidate-vibid:2422000976122": 8,
+      "gas:candidate-vibid:2422000974731": 5,
+      "gas:candidate-vibid:2422000976387": 0,
+      "gas:candidate-vibid:2422000976565": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909137&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909137&type=464",
@@ -8568,11 +8568,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 113,
-      "Антонов Георгий Антонович": 8,
-      "Клейстер Роман Юрьевич": 17,
-      "Потапов Петр Николаевич": 3,
-      "Рябинюк Людмила Владимировна": 18
+      "gas:candidate-vibid:2422000977091": 113,
+      "gas:candidate-vibid:2422000976122": 8,
+      "gas:candidate-vibid:2422000974731": 17,
+      "gas:candidate-vibid:2422000976387": 3,
+      "gas:candidate-vibid:2422000976565": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909137&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909137&type=464",
@@ -8623,11 +8623,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 444,
-      "Антонов Георгий Антонович": 0,
-      "Клейстер Роман Юрьевич": 0,
-      "Потапов Петр Николаевич": 0,
-      "Рябинюк Людмила Владимировна": 148
+      "gas:candidate-vibid:2422000977091": 444,
+      "gas:candidate-vibid:2422000976122": 0,
+      "gas:candidate-vibid:2422000974731": 0,
+      "gas:candidate-vibid:2422000976387": 0,
+      "gas:candidate-vibid:2422000976565": 148
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909137&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909137&type=464",
@@ -8678,11 +8678,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 97,
-      "Антонов Георгий Антонович": 0,
-      "Клейстер Роман Юрьевич": 8,
-      "Потапов Петр Николаевич": 0,
-      "Рябинюк Людмила Владимировна": 22
+      "gas:candidate-vibid:2422000977091": 97,
+      "gas:candidate-vibid:2422000976122": 0,
+      "gas:candidate-vibid:2422000974731": 8,
+      "gas:candidate-vibid:2422000976387": 0,
+      "gas:candidate-vibid:2422000976565": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909137&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909137&type=464",
@@ -8733,11 +8733,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 258,
-      "Антонов Георгий Антонович": 0,
-      "Клейстер Роман Юрьевич": 28,
-      "Потапов Петр Николаевич": 0,
-      "Рябинюк Людмила Владимировна": 68
+      "gas:candidate-vibid:2422000977091": 258,
+      "gas:candidate-vibid:2422000976122": 0,
+      "gas:candidate-vibid:2422000974731": 28,
+      "gas:candidate-vibid:2422000976387": 0,
+      "gas:candidate-vibid:2422000976565": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909137&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909137&type=464",
@@ -8788,11 +8788,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 72,
-      "Антонов Георгий Антонович": 4,
-      "Клейстер Роман Юрьевич": 7,
-      "Потапов Петр Николаевич": 0,
-      "Рябинюк Людмила Владимировна": 0
+      "gas:candidate-vibid:2422000977091": 72,
+      "gas:candidate-vibid:2422000976122": 4,
+      "gas:candidate-vibid:2422000974731": 7,
+      "gas:candidate-vibid:2422000976387": 0,
+      "gas:candidate-vibid:2422000976565": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909137&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909137&type=464",
@@ -8843,11 +8843,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 235,
-      "Антонов Георгий Антонович": 15,
-      "Клейстер Роман Юрьевич": 9,
-      "Потапов Петр Николаевич": 11,
-      "Рябинюк Людмила Владимировна": 5
+      "gas:candidate-vibid:2422000977091": 235,
+      "gas:candidate-vibid:2422000976122": 15,
+      "gas:candidate-vibid:2422000974731": 9,
+      "gas:candidate-vibid:2422000976387": 11,
+      "gas:candidate-vibid:2422000976565": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909137&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909137&type=464",
@@ -8898,11 +8898,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 50,
-      "Антонов Георгий Антонович": 0,
-      "Клейстер Роман Юрьевич": 5,
-      "Потапов Петр Николаевич": 0,
-      "Рябинюк Людмила Владимировна": 13
+      "gas:candidate-vibid:2422000977091": 50,
+      "gas:candidate-vibid:2422000976122": 0,
+      "gas:candidate-vibid:2422000974731": 5,
+      "gas:candidate-vibid:2422000976387": 0,
+      "gas:candidate-vibid:2422000976565": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909137&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909137&type=464",
@@ -8953,11 +8953,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 451,
-      "Антонов Георгий Антонович": 0,
-      "Клейстер Роман Юрьевич": 0,
-      "Потапов Петр Николаевич": 0,
-      "Рябинюк Людмила Владимировна": 91
+      "gas:candidate-vibid:2422000977091": 451,
+      "gas:candidate-vibid:2422000976122": 0,
+      "gas:candidate-vibid:2422000974731": 0,
+      "gas:candidate-vibid:2422000976387": 0,
+      "gas:candidate-vibid:2422000976565": 91
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909137&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909137&type=464",
@@ -9008,11 +9008,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 46,
-      "Антонов Георгий Антонович": 7,
-      "Клейстер Роман Юрьевич": 13,
-      "Потапов Петр Николаевич": 2,
-      "Рябинюк Людмила Владимировна": 2
+      "gas:candidate-vibid:2422000977091": 46,
+      "gas:candidate-vibid:2422000976122": 7,
+      "gas:candidate-vibid:2422000974731": 13,
+      "gas:candidate-vibid:2422000976387": 2,
+      "gas:candidate-vibid:2422000976565": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909137&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909137&type=464",
@@ -9063,11 +9063,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 93,
-      "Антонов Георгий Антонович": 6,
-      "Клейстер Роман Юрьевич": 22,
-      "Потапов Петр Николаевич": 9,
-      "Рябинюк Людмила Владимировна": 3
+      "gas:candidate-vibid:2422000977091": 93,
+      "gas:candidate-vibid:2422000976122": 6,
+      "gas:candidate-vibid:2422000974731": 22,
+      "gas:candidate-vibid:2422000976387": 9,
+      "gas:candidate-vibid:2422000976565": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909137&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909137&type=464",
@@ -9118,11 +9118,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 32,
-      "Антонов Георгий Антонович": 3,
-      "Клейстер Роман Юрьевич": 8,
-      "Потапов Петр Николаевич": 1,
-      "Рябинюк Людмила Владимировна": 2
+      "gas:candidate-vibid:2422000977091": 32,
+      "gas:candidate-vibid:2422000976122": 3,
+      "gas:candidate-vibid:2422000974731": 8,
+      "gas:candidate-vibid:2422000976387": 1,
+      "gas:candidate-vibid:2422000976565": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909137&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909137&type=464",
@@ -9173,11 +9173,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 106,
-      "Антонов Георгий Антонович": 23,
-      "Клейстер Роман Юрьевич": 66,
-      "Потапов Петр Николаевич": 16,
-      "Рябинюк Людмила Владимировна": 18
+      "gas:candidate-vibid:2422000977091": 106,
+      "gas:candidate-vibid:2422000976122": 23,
+      "gas:candidate-vibid:2422000974731": 66,
+      "gas:candidate-vibid:2422000976387": 16,
+      "gas:candidate-vibid:2422000976565": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909137&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909137&type=464",
@@ -9228,11 +9228,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 103,
-      "Антонов Георгий Антонович": 18,
-      "Клейстер Роман Юрьевич": 18,
-      "Потапов Петр Николаевич": 3,
-      "Рябинюк Людмила Владимировна": 3
+      "gas:candidate-vibid:2422000977091": 103,
+      "gas:candidate-vibid:2422000976122": 18,
+      "gas:candidate-vibid:2422000974731": 18,
+      "gas:candidate-vibid:2422000976387": 3,
+      "gas:candidate-vibid:2422000976565": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909137&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909137&type=464",
@@ -9283,11 +9283,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 55,
-      "Антонов Георгий Антонович": 2,
-      "Клейстер Роман Юрьевич": 10,
-      "Потапов Петр Николаевич": 0,
-      "Рябинюк Людмила Владимировна": 1
+      "gas:candidate-vibid:2422000977091": 55,
+      "gas:candidate-vibid:2422000976122": 2,
+      "gas:candidate-vibid:2422000974731": 10,
+      "gas:candidate-vibid:2422000976387": 0,
+      "gas:candidate-vibid:2422000976565": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909137&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909137&type=464",
@@ -9338,11 +9338,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 88,
-      "Антонов Георгий Антонович": 16,
-      "Клейстер Роман Юрьевич": 15,
-      "Потапов Петр Николаевич": 7,
-      "Рябинюк Людмила Владимировна": 13
+      "gas:candidate-vibid:2422000977091": 88,
+      "gas:candidate-vibid:2422000976122": 16,
+      "gas:candidate-vibid:2422000974731": 15,
+      "gas:candidate-vibid:2422000976387": 7,
+      "gas:candidate-vibid:2422000976565": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909137&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909137&type=464",
@@ -9393,11 +9393,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 97,
-      "Антонов Георгий Антонович": 0,
-      "Клейстер Роман Юрьевич": 10,
-      "Потапов Петр Николаевич": 0,
-      "Рябинюк Людмила Владимировна": 26
+      "gas:candidate-vibid:2422000977091": 97,
+      "gas:candidate-vibid:2422000976122": 0,
+      "gas:candidate-vibid:2422000974731": 10,
+      "gas:candidate-vibid:2422000976387": 0,
+      "gas:candidate-vibid:2422000976565": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909137&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909137&type=464",
@@ -9448,11 +9448,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 393,
-      "Антонов Георгий Антонович": 29,
-      "Клейстер Роман Юрьевич": 20,
-      "Потапов Петр Николаевич": 14,
-      "Рябинюк Людмила Владимировна": 20
+      "gas:candidate-vibid:2422000977091": 393,
+      "gas:candidate-vibid:2422000976122": 29,
+      "gas:candidate-vibid:2422000974731": 20,
+      "gas:candidate-vibid:2422000976387": 14,
+      "gas:candidate-vibid:2422000976565": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909137&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909137&type=464",
@@ -9503,11 +9503,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 28,
-      "Антонов Георгий Антонович": 0,
-      "Клейстер Роман Юрьевич": 1,
-      "Потапов Петр Николаевич": 0,
-      "Рябинюк Людмила Владимировна": 0
+      "gas:candidate-vibid:2422000977091": 28,
+      "gas:candidate-vibid:2422000976122": 0,
+      "gas:candidate-vibid:2422000974731": 1,
+      "gas:candidate-vibid:2422000976387": 0,
+      "gas:candidate-vibid:2422000976565": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909137&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909137&type=464",
@@ -9558,11 +9558,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 198,
-      "Антонов Георгий Антонович": 4,
-      "Клейстер Роман Юрьевич": 3,
-      "Потапов Петр Николаевич": 6,
-      "Рябинюк Людмила Владимировна": 3
+      "gas:candidate-vibid:2422000977091": 198,
+      "gas:candidate-vibid:2422000976122": 4,
+      "gas:candidate-vibid:2422000974731": 3,
+      "gas:candidate-vibid:2422000976387": 6,
+      "gas:candidate-vibid:2422000976565": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909137&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909137&type=464",
@@ -9613,11 +9613,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 257,
-      "Антонов Георгий Антонович": 1,
-      "Клейстер Роман Юрьевич": 24,
-      "Потапов Петр Николаевич": 1,
-      "Рябинюк Людмила Владимировна": 8
+      "gas:candidate-vibid:2422000977091": 257,
+      "gas:candidate-vibid:2422000976122": 1,
+      "gas:candidate-vibid:2422000974731": 24,
+      "gas:candidate-vibid:2422000976387": 1,
+      "gas:candidate-vibid:2422000976565": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909137&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909137&type=464",
@@ -9668,11 +9668,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 537,
-      "Антонов Георгий Антонович": 4,
-      "Клейстер Роман Юрьевич": 11,
-      "Потапов Петр Николаевич": 6,
-      "Рябинюк Людмила Владимировна": 117
+      "gas:candidate-vibid:2422000977091": 537,
+      "gas:candidate-vibid:2422000976122": 4,
+      "gas:candidate-vibid:2422000974731": 11,
+      "gas:candidate-vibid:2422000976387": 6,
+      "gas:candidate-vibid:2422000976565": 117
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909137&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909137&type=464",
@@ -9723,11 +9723,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 232,
-      "Антонов Георгий Антонович": 26,
-      "Клейстер Роман Юрьевич": 19,
-      "Потапов Петр Николаевич": 7,
-      "Рябинюк Людмила Владимировна": 7
+      "gas:candidate-vibid:2422000977091": 232,
+      "gas:candidate-vibid:2422000976122": 26,
+      "gas:candidate-vibid:2422000974731": 19,
+      "gas:candidate-vibid:2422000976387": 7,
+      "gas:candidate-vibid:2422000976565": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909137&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909137&type=464",
@@ -9778,11 +9778,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 150,
-      "Антонов Георгий Антонович": 0,
-      "Клейстер Роман Юрьевич": 27,
-      "Потапов Петр Николаевич": 2,
-      "Рябинюк Людмила Владимировна": 7
+      "gas:candidate-vibid:2422000977091": 150,
+      "gas:candidate-vibid:2422000976122": 0,
+      "gas:candidate-vibid:2422000974731": 27,
+      "gas:candidate-vibid:2422000976387": 2,
+      "gas:candidate-vibid:2422000976565": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909137&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909137&type=464",
@@ -9833,11 +9833,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 292,
-      "Антонов Георгий Антонович": 3,
-      "Клейстер Роман Юрьевич": 17,
-      "Потапов Петр Николаевич": 4,
-      "Рябинюк Людмила Владимировна": 33
+      "gas:candidate-vibid:2422000977091": 292,
+      "gas:candidate-vibid:2422000976122": 3,
+      "gas:candidate-vibid:2422000974731": 17,
+      "gas:candidate-vibid:2422000976387": 4,
+      "gas:candidate-vibid:2422000976565": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909137&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909137&type=464",
@@ -9888,11 +9888,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 46,
-      "Антонов Георгий Антонович": 0,
-      "Клейстер Роман Юрьевич": 4,
-      "Потапов Петр Николаевич": 0,
-      "Рябинюк Людмила Владимировна": 7
+      "gas:candidate-vibid:2422000977091": 46,
+      "gas:candidate-vibid:2422000976122": 0,
+      "gas:candidate-vibid:2422000974731": 4,
+      "gas:candidate-vibid:2422000976387": 0,
+      "gas:candidate-vibid:2422000976565": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909137&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909137&type=464",
@@ -9943,11 +9943,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 122,
-      "Антонов Георгий Антонович": 10,
-      "Клейстер Роман Юрьевич": 19,
-      "Потапов Петр Николаевич": 2,
-      "Рябинюк Людмила Владимировна": 0
+      "gas:candidate-vibid:2422000977091": 122,
+      "gas:candidate-vibid:2422000976122": 10,
+      "gas:candidate-vibid:2422000974731": 19,
+      "gas:candidate-vibid:2422000976387": 2,
+      "gas:candidate-vibid:2422000976565": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909137&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909137&type=464",
@@ -9998,11 +9998,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 313,
-      "Антонов Георгий Антонович": 26,
-      "Клейстер Роман Юрьевич": 34,
-      "Потапов Петр Николаевич": 9,
-      "Рябинюк Людмила Владимировна": 6
+      "gas:candidate-vibid:2422000977091": 313,
+      "gas:candidate-vibid:2422000976122": 26,
+      "gas:candidate-vibid:2422000974731": 34,
+      "gas:candidate-vibid:2422000976387": 9,
+      "gas:candidate-vibid:2422000976565": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909137&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909137&type=464",
@@ -10053,11 +10053,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 29,
-      "Антонов Георгий Антонович": 2,
-      "Клейстер Роман Юрьевич": 10,
-      "Потапов Петр Николаевич": 0,
-      "Рябинюк Людмила Владимировна": 2
+      "gas:candidate-vibid:2422000977091": 29,
+      "gas:candidate-vibid:2422000976122": 2,
+      "gas:candidate-vibid:2422000974731": 10,
+      "gas:candidate-vibid:2422000976387": 0,
+      "gas:candidate-vibid:2422000976565": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909137&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909137&type=464",
@@ -10108,11 +10108,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 396,
-      "Антонов Георгий Антонович": 3,
-      "Клейстер Роман Юрьевич": 11,
-      "Потапов Петр Николаевич": 4,
-      "Рябинюк Людмила Владимировна": 135
+      "gas:candidate-vibid:2422000977091": 396,
+      "gas:candidate-vibid:2422000976122": 3,
+      "gas:candidate-vibid:2422000974731": 11,
+      "gas:candidate-vibid:2422000976387": 4,
+      "gas:candidate-vibid:2422000976565": 135
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909137&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909137&type=464",
@@ -10163,11 +10163,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 201,
-      "Антонов Георгий Антонович": 1,
-      "Клейстер Роман Юрьевич": 17,
-      "Потапов Петр Николаевич": 1,
-      "Рябинюк Людмила Владимировна": 9
+      "gas:candidate-vibid:2422000977091": 201,
+      "gas:candidate-vibid:2422000976122": 1,
+      "gas:candidate-vibid:2422000974731": 17,
+      "gas:candidate-vibid:2422000976387": 1,
+      "gas:candidate-vibid:2422000976565": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909137&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909137&type=464",
@@ -10218,11 +10218,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 133,
-      "Антонов Георгий Антонович": 9,
-      "Клейстер Роман Юрьевич": 35,
-      "Потапов Петр Николаевич": 4,
-      "Рябинюк Людмила Владимировна": 9
+      "gas:candidate-vibid:2422000977091": 133,
+      "gas:candidate-vibid:2422000976122": 9,
+      "gas:candidate-vibid:2422000974731": 35,
+      "gas:candidate-vibid:2422000976387": 4,
+      "gas:candidate-vibid:2422000976565": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909137&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909137&type=464",
@@ -10273,11 +10273,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 1010,
-      "Антонов Георгий Антонович": 18,
-      "Клейстер Роман Юрьевич": 43,
-      "Потапов Петр Николаевич": 8,
-      "Рябинюк Людмила Владимировна": 643
+      "gas:candidate-vibid:2422000977091": 1010,
+      "gas:candidate-vibid:2422000976122": 18,
+      "gas:candidate-vibid:2422000974731": 43,
+      "gas:candidate-vibid:2422000976387": 8,
+      "gas:candidate-vibid:2422000976565": 643
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909137&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909137&type=464",
@@ -10328,11 +10328,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 711,
-      "Антонов Георгий Антонович": 44,
-      "Клейстер Роман Юрьевич": 80,
-      "Потапов Петр Николаевич": 24,
-      "Рябинюк Людмила Владимировна": 36
+      "gas:candidate-vibid:2422000977091": 711,
+      "gas:candidate-vibid:2422000976122": 44,
+      "gas:candidate-vibid:2422000974731": 80,
+      "gas:candidate-vibid:2422000976387": 24,
+      "gas:candidate-vibid:2422000976565": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909137&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909137&type=464",
@@ -10383,11 +10383,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 860,
-      "Антонов Георгий Антонович": 19,
-      "Клейстер Роман Юрьевич": 9,
-      "Потапов Петр Николаевич": 0,
-      "Рябинюк Людмила Владимировна": 445
+      "gas:candidate-vibid:2422000977091": 860,
+      "gas:candidate-vibid:2422000976122": 19,
+      "gas:candidate-vibid:2422000974731": 9,
+      "gas:candidate-vibid:2422000976387": 0,
+      "gas:candidate-vibid:2422000976565": 445
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909137&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909137&type=464",
@@ -10438,11 +10438,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 710,
-      "Антонов Георгий Антонович": 61,
-      "Клейстер Роман Юрьевич": 94,
-      "Потапов Петр Николаевич": 26,
-      "Рябинюк Людмила Владимировна": 41
+      "gas:candidate-vibid:2422000977091": 710,
+      "gas:candidate-vibid:2422000976122": 61,
+      "gas:candidate-vibid:2422000974731": 94,
+      "gas:candidate-vibid:2422000976387": 26,
+      "gas:candidate-vibid:2422000976565": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909137&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909137&type=464",
@@ -10493,11 +10493,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 848,
-      "Антонов Георгий Антонович": 5,
-      "Клейстер Роман Юрьевич": 19,
-      "Потапов Петр Николаевич": 2,
-      "Рябинюк Людмила Владимировна": 370
+      "gas:candidate-vibid:2422000977091": 848,
+      "gas:candidate-vibid:2422000976122": 5,
+      "gas:candidate-vibid:2422000974731": 19,
+      "gas:candidate-vibid:2422000976387": 2,
+      "gas:candidate-vibid:2422000976565": 370
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909137&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909137&type=464",
@@ -10548,11 +10548,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 783,
-      "Антонов Георгий Антонович": 4,
-      "Клейстер Роман Юрьевич": 31,
-      "Потапов Петр Николаевич": 6,
-      "Рябинюк Людмила Владимировна": 255
+      "gas:candidate-vibid:2422000977091": 783,
+      "gas:candidate-vibid:2422000976122": 4,
+      "gas:candidate-vibid:2422000974731": 31,
+      "gas:candidate-vibid:2422000976387": 6,
+      "gas:candidate-vibid:2422000976565": 255
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909137&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909137&type=464",
@@ -10603,11 +10603,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 814,
-      "Антонов Георгий Антонович": 4,
-      "Клейстер Роман Юрьевич": 5,
-      "Потапов Петр Николаевич": 6,
-      "Рябинюк Людмила Владимировна": 693
+      "gas:candidate-vibid:2422000977091": 814,
+      "gas:candidate-vibid:2422000976122": 4,
+      "gas:candidate-vibid:2422000974731": 5,
+      "gas:candidate-vibid:2422000976387": 6,
+      "gas:candidate-vibid:2422000976565": 693
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909137&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909137&type=464",
@@ -10658,11 +10658,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 418,
-      "Антонов Георгий Антонович": 44,
-      "Клейстер Роман Юрьевич": 124,
-      "Потапов Петр Николаевич": 23,
-      "Рябинюк Людмила Владимировна": 31
+      "gas:candidate-vibid:2422000977091": 418,
+      "gas:candidate-vibid:2422000976122": 44,
+      "gas:candidate-vibid:2422000974731": 124,
+      "gas:candidate-vibid:2422000976387": 23,
+      "gas:candidate-vibid:2422000976565": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909137&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909137&type=464",
@@ -10713,11 +10713,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 297,
-      "Антонов Георгий Антонович": 19,
-      "Клейстер Роман Юрьевич": 77,
-      "Потапов Петр Николаевич": 12,
-      "Рябинюк Людмила Владимировна": 13
+      "gas:candidate-vibid:2422000977091": 297,
+      "gas:candidate-vibid:2422000976122": 19,
+      "gas:candidate-vibid:2422000974731": 77,
+      "gas:candidate-vibid:2422000976387": 12,
+      "gas:candidate-vibid:2422000976565": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909137&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909137&type=464",
@@ -10768,11 +10768,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 470,
-      "Антонов Георгий Антонович": 4,
-      "Клейстер Роман Юрьевич": 50,
-      "Потапов Петр Николаевич": 10,
-      "Рябинюк Людмила Владимировна": 128
+      "gas:candidate-vibid:2422000977091": 470,
+      "gas:candidate-vibid:2422000976122": 4,
+      "gas:candidate-vibid:2422000974731": 50,
+      "gas:candidate-vibid:2422000976387": 10,
+      "gas:candidate-vibid:2422000976565": 128
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909137&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909137&type=464",
@@ -10823,11 +10823,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 826,
-      "Антонов Георгий Антонович": 16,
-      "Клейстер Роман Юрьевич": 88,
-      "Потапов Петр Николаевич": 8,
-      "Рябинюк Людмила Владимировна": 226
+      "gas:candidate-vibid:2422000977091": 826,
+      "gas:candidate-vibid:2422000976122": 16,
+      "gas:candidate-vibid:2422000974731": 88,
+      "gas:candidate-vibid:2422000976387": 8,
+      "gas:candidate-vibid:2422000976565": 226
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909138&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909138&type=464",
@@ -10878,11 +10878,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 784,
-      "Антонов Георгий Антонович": 10,
-      "Клейстер Роман Юрьевич": 86,
-      "Потапов Петр Николаевич": 7,
-      "Рябинюк Людмила Владимировна": 187
+      "gas:candidate-vibid:2422000977091": 784,
+      "gas:candidate-vibid:2422000976122": 10,
+      "gas:candidate-vibid:2422000974731": 86,
+      "gas:candidate-vibid:2422000976387": 7,
+      "gas:candidate-vibid:2422000976565": 187
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909138&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909138&type=464",
@@ -10933,11 +10933,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 887,
-      "Антонов Георгий Антонович": 2,
-      "Клейстер Роман Юрьевич": 3,
-      "Потапов Петр Николаевич": 1,
-      "Рябинюк Людмила Владимировна": 382
+      "gas:candidate-vibid:2422000977091": 887,
+      "gas:candidate-vibid:2422000976122": 2,
+      "gas:candidate-vibid:2422000974731": 3,
+      "gas:candidate-vibid:2422000976387": 1,
+      "gas:candidate-vibid:2422000976565": 382
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909138&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909138&type=464",
@@ -10988,11 +10988,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 669,
-      "Антонов Георгий Антонович": 5,
-      "Клейстер Роман Юрьевич": 81,
-      "Потапов Петр Николаевич": 7,
-      "Рябинюк Людмила Владимировна": 166
+      "gas:candidate-vibid:2422000977091": 669,
+      "gas:candidate-vibid:2422000976122": 5,
+      "gas:candidate-vibid:2422000974731": 81,
+      "gas:candidate-vibid:2422000976387": 7,
+      "gas:candidate-vibid:2422000976565": 166
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909138&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909138&type=464",
@@ -11043,11 +11043,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 924,
-      "Антонов Георгий Антонович": 4,
-      "Клейстер Роман Юрьевич": 88,
-      "Потапов Петр Николаевич": 8,
-      "Рябинюк Людмила Владимировна": 226
+      "gas:candidate-vibid:2422000977091": 924,
+      "gas:candidate-vibid:2422000976122": 4,
+      "gas:candidate-vibid:2422000974731": 88,
+      "gas:candidate-vibid:2422000976387": 8,
+      "gas:candidate-vibid:2422000976565": 226
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909138&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909138&type=464",
@@ -11098,11 +11098,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 638,
-      "Антонов Георгий Антонович": 18,
-      "Клейстер Роман Юрьевич": 53,
-      "Потапов Петр Николаевич": 8,
-      "Рябинюк Людмила Владимировна": 190
+      "gas:candidate-vibid:2422000977091": 638,
+      "gas:candidate-vibid:2422000976122": 18,
+      "gas:candidate-vibid:2422000974731": 53,
+      "gas:candidate-vibid:2422000976387": 8,
+      "gas:candidate-vibid:2422000976565": 190
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909138&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909138&type=464",
@@ -11153,11 +11153,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 110,
-      "Антонов Георгий Антонович": 2,
-      "Клейстер Роман Юрьевич": 5,
-      "Потапов Петр Николаевич": 3,
-      "Рябинюк Людмила Владимировна": 35
+      "gas:candidate-vibid:2422000977091": 110,
+      "gas:candidate-vibid:2422000976122": 2,
+      "gas:candidate-vibid:2422000974731": 5,
+      "gas:candidate-vibid:2422000976387": 3,
+      "gas:candidate-vibid:2422000976565": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909138&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909138&type=464",
@@ -11208,11 +11208,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 664,
-      "Антонов Георгий Антонович": 2,
-      "Клейстер Роман Юрьевич": 3,
-      "Потапов Петр Николаевич": 1,
-      "Рябинюк Людмила Владимировна": 228
+      "gas:candidate-vibid:2422000977091": 664,
+      "gas:candidate-vibid:2422000976122": 2,
+      "gas:candidate-vibid:2422000974731": 3,
+      "gas:candidate-vibid:2422000976387": 1,
+      "gas:candidate-vibid:2422000976565": 228
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909138&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909138&type=464",
@@ -11263,11 +11263,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 650,
-      "Антонов Георгий Антонович": 1,
-      "Клейстер Роман Юрьевич": 3,
-      "Потапов Петр Николаевич": 1,
-      "Рябинюк Людмила Владимировна": 278
+      "gas:candidate-vibid:2422000977091": 650,
+      "gas:candidate-vibid:2422000976122": 1,
+      "gas:candidate-vibid:2422000974731": 3,
+      "gas:candidate-vibid:2422000976387": 1,
+      "gas:candidate-vibid:2422000976565": 278
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909138&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909138&type=464",
@@ -11318,11 +11318,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 337,
-      "Антонов Георгий Антонович": 9,
-      "Клейстер Роман Юрьевич": 27,
-      "Потапов Петр Николаевич": 1,
-      "Рябинюк Людмила Владимировна": 61
+      "gas:candidate-vibid:2422000977091": 337,
+      "gas:candidate-vibid:2422000976122": 9,
+      "gas:candidate-vibid:2422000974731": 27,
+      "gas:candidate-vibid:2422000976387": 1,
+      "gas:candidate-vibid:2422000976565": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909138&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909138&type=464",
@@ -11373,11 +11373,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 463,
-      "Антонов Георгий Антонович": 4,
-      "Клейстер Роман Юрьевич": 22,
-      "Потапов Петр Николаевич": 3,
-      "Рябинюк Людмила Владимировна": 97
+      "gas:candidate-vibid:2422000977091": 463,
+      "gas:candidate-vibid:2422000976122": 4,
+      "gas:candidate-vibid:2422000974731": 22,
+      "gas:candidate-vibid:2422000976387": 3,
+      "gas:candidate-vibid:2422000976565": 97
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909138&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909138&type=464",
@@ -11428,11 +11428,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 229,
-      "Антонов Георгий Антонович": 11,
-      "Клейстер Роман Юрьевич": 21,
-      "Потапов Петр Николаевич": 10,
-      "Рябинюк Людмила Владимировна": 14
+      "gas:candidate-vibid:2422000977091": 229,
+      "gas:candidate-vibid:2422000976122": 11,
+      "gas:candidate-vibid:2422000974731": 21,
+      "gas:candidate-vibid:2422000976387": 10,
+      "gas:candidate-vibid:2422000976565": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909138&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909138&type=464",
@@ -11483,11 +11483,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 119,
-      "Антонов Георгий Антонович": 28,
-      "Клейстер Роман Юрьевич": 46,
-      "Потапов Петр Николаевич": 12,
-      "Рябинюк Людмила Владимировна": 9
+      "gas:candidate-vibid:2422000977091": 119,
+      "gas:candidate-vibid:2422000976122": 28,
+      "gas:candidate-vibid:2422000974731": 46,
+      "gas:candidate-vibid:2422000976387": 12,
+      "gas:candidate-vibid:2422000976565": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909138&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909138&type=464",
@@ -11538,11 +11538,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 55,
-      "Антонов Георгий Антонович": 3,
-      "Клейстер Роман Юрьевич": 4,
-      "Потапов Петр Николаевич": 0,
-      "Рябинюк Людмила Владимировна": 24
+      "gas:candidate-vibid:2422000977091": 55,
+      "gas:candidate-vibid:2422000976122": 3,
+      "gas:candidate-vibid:2422000974731": 4,
+      "gas:candidate-vibid:2422000976387": 0,
+      "gas:candidate-vibid:2422000976565": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909138&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909138&type=464",
@@ -11593,11 +11593,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 203,
-      "Антонов Георгий Антонович": 8,
-      "Клейстер Роман Юрьевич": 8,
-      "Потапов Петр Николаевич": 5,
-      "Рябинюк Людмила Владимировна": 73
+      "gas:candidate-vibid:2422000977091": 203,
+      "gas:candidate-vibid:2422000976122": 8,
+      "gas:candidate-vibid:2422000974731": 8,
+      "gas:candidate-vibid:2422000976387": 5,
+      "gas:candidate-vibid:2422000976565": 73
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909138&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909138&type=464",
@@ -11648,11 +11648,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 129,
-      "Антонов Георгий Антонович": 5,
-      "Клейстер Роман Юрьевич": 8,
-      "Потапов Петр Николаевич": 4,
-      "Рябинюк Людмила Владимировна": 38
+      "gas:candidate-vibid:2422000977091": 129,
+      "gas:candidate-vibid:2422000976122": 5,
+      "gas:candidate-vibid:2422000974731": 8,
+      "gas:candidate-vibid:2422000976387": 4,
+      "gas:candidate-vibid:2422000976565": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909138&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909138&type=464",
@@ -11703,11 +11703,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 37,
-      "Антонов Георгий Антонович": 6,
-      "Клейстер Роман Юрьевич": 5,
-      "Потапов Петр Николаевич": 1,
-      "Рябинюк Людмила Владимировна": 3
+      "gas:candidate-vibid:2422000977091": 37,
+      "gas:candidate-vibid:2422000976122": 6,
+      "gas:candidate-vibid:2422000974731": 5,
+      "gas:candidate-vibid:2422000976387": 1,
+      "gas:candidate-vibid:2422000976565": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909138&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909138&type=464",
@@ -11758,11 +11758,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 261,
-      "Антонов Георгий Антонович": 19,
-      "Клейстер Роман Юрьевич": 26,
-      "Потапов Петр Николаевич": 8,
-      "Рябинюк Людмила Владимировна": 21
+      "gas:candidate-vibid:2422000977091": 261,
+      "gas:candidate-vibid:2422000976122": 19,
+      "gas:candidate-vibid:2422000974731": 26,
+      "gas:candidate-vibid:2422000976387": 8,
+      "gas:candidate-vibid:2422000976565": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909138&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909138&type=464",
@@ -11813,11 +11813,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 84,
-      "Антонов Георгий Антонович": 20,
-      "Клейстер Роман Юрьевич": 20,
-      "Потапов Петр Николаевич": 3,
-      "Рябинюк Людмила Владимировна": 2
+      "gas:candidate-vibid:2422000977091": 84,
+      "gas:candidate-vibid:2422000976122": 20,
+      "gas:candidate-vibid:2422000974731": 20,
+      "gas:candidate-vibid:2422000976387": 3,
+      "gas:candidate-vibid:2422000976565": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909138&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909138&type=464",
@@ -11868,11 +11868,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 278,
-      "Антонов Георгий Антонович": 18,
-      "Клейстер Роман Юрьевич": 24,
-      "Потапов Петр Николаевич": 9,
-      "Рябинюк Людмила Владимировна": 36
+      "gas:candidate-vibid:2422000977091": 278,
+      "gas:candidate-vibid:2422000976122": 18,
+      "gas:candidate-vibid:2422000974731": 24,
+      "gas:candidate-vibid:2422000976387": 9,
+      "gas:candidate-vibid:2422000976565": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909138&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909138&type=464",
@@ -11923,11 +11923,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 192,
-      "Антонов Георгий Антонович": 0,
-      "Клейстер Роман Юрьевич": 32,
-      "Потапов Петр Николаевич": 0,
-      "Рябинюк Людмила Владимировна": 29
+      "gas:candidate-vibid:2422000977091": 192,
+      "gas:candidate-vibid:2422000976122": 0,
+      "gas:candidate-vibid:2422000974731": 32,
+      "gas:candidate-vibid:2422000976387": 0,
+      "gas:candidate-vibid:2422000976565": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909138&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909138&type=464",
@@ -11978,11 +11978,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 274,
-      "Антонов Георгий Антонович": 13,
-      "Клейстер Роман Юрьевич": 21,
-      "Потапов Петр Николаевич": 4,
-      "Рябинюк Людмила Владимировна": 45
+      "gas:candidate-vibid:2422000977091": 274,
+      "gas:candidate-vibid:2422000976122": 13,
+      "gas:candidate-vibid:2422000974731": 21,
+      "gas:candidate-vibid:2422000976387": 4,
+      "gas:candidate-vibid:2422000976565": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909138&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909138&type=464",
@@ -12033,11 +12033,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 142,
-      "Антонов Георгий Антонович": 21,
-      "Клейстер Роман Юрьевич": 40,
-      "Потапов Петр Николаевич": 8,
-      "Рябинюк Людмила Владимировна": 18
+      "gas:candidate-vibid:2422000977091": 142,
+      "gas:candidate-vibid:2422000976122": 21,
+      "gas:candidate-vibid:2422000974731": 40,
+      "gas:candidate-vibid:2422000976387": 8,
+      "gas:candidate-vibid:2422000976565": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909138&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909138&type=464",
@@ -12088,11 +12088,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 495,
-      "Антонов Георгий Антонович": 0,
-      "Клейстер Роман Юрьевич": 4,
-      "Потапов Петр Николаевич": 1,
-      "Рябинюк Людмила Владимировна": 101
+      "gas:candidate-vibid:2422000977091": 495,
+      "gas:candidate-vibid:2422000976122": 0,
+      "gas:candidate-vibid:2422000974731": 4,
+      "gas:candidate-vibid:2422000976387": 1,
+      "gas:candidate-vibid:2422000976565": 101
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909138&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909138&type=464",
@@ -12143,11 +12143,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 289,
-      "Антонов Георгий Антонович": 2,
-      "Клейстер Роман Юрьевич": 42,
-      "Потапов Петр Николаевич": 3,
-      "Рябинюк Людмила Владимировна": 54
+      "gas:candidate-vibid:2422000977091": 289,
+      "gas:candidate-vibid:2422000976122": 2,
+      "gas:candidate-vibid:2422000974731": 42,
+      "gas:candidate-vibid:2422000976387": 3,
+      "gas:candidate-vibid:2422000976565": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909138&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909138&type=464",
@@ -12198,11 +12198,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 551,
-      "Антонов Георгий Антонович": 33,
-      "Клейстер Роман Юрьевич": 37,
-      "Потапов Петр Николаевич": 17,
-      "Рябинюк Людмила Владимировна": 68
+      "gas:candidate-vibid:2422000977091": 551,
+      "gas:candidate-vibid:2422000976122": 33,
+      "gas:candidate-vibid:2422000974731": 37,
+      "gas:candidate-vibid:2422000976387": 17,
+      "gas:candidate-vibid:2422000976565": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909138&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909138&type=464",
@@ -12253,11 +12253,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 63,
-      "Антонов Георгий Антонович": 21,
-      "Клейстер Роман Юрьевич": 15,
-      "Потапов Петр Николаевич": 3,
-      "Рябинюк Людмила Владимировна": 6
+      "gas:candidate-vibid:2422000977091": 63,
+      "gas:candidate-vibid:2422000976122": 21,
+      "gas:candidate-vibid:2422000974731": 15,
+      "gas:candidate-vibid:2422000976387": 3,
+      "gas:candidate-vibid:2422000976565": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909138&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909138&type=464",
@@ -12308,11 +12308,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 102,
-      "Антонов Георгий Антонович": 26,
-      "Клейстер Роман Юрьевич": 23,
-      "Потапов Петр Николаевич": 8,
-      "Рябинюк Людмила Владимировна": 9
+      "gas:candidate-vibid:2422000977091": 102,
+      "gas:candidate-vibid:2422000976122": 26,
+      "gas:candidate-vibid:2422000974731": 23,
+      "gas:candidate-vibid:2422000976387": 8,
+      "gas:candidate-vibid:2422000976565": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909138&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909138&type=464",
@@ -12363,11 +12363,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 115,
-      "Антонов Георгий Антонович": 5,
-      "Клейстер Роман Юрьевич": 6,
-      "Потапов Петр Николаевич": 2,
-      "Рябинюк Людмила Владимировна": 31
+      "gas:candidate-vibid:2422000977091": 115,
+      "gas:candidate-vibid:2422000976122": 5,
+      "gas:candidate-vibid:2422000974731": 6,
+      "gas:candidate-vibid:2422000976387": 2,
+      "gas:candidate-vibid:2422000976565": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909138&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909138&type=464",
@@ -12418,11 +12418,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 146,
-      "Антонов Георгий Антонович": 12,
-      "Клейстер Роман Юрьевич": 19,
-      "Потапов Петр Николаевич": 9,
-      "Рябинюк Людмила Владимировна": 4
+      "gas:candidate-vibid:2422000977091": 146,
+      "gas:candidate-vibid:2422000976122": 12,
+      "gas:candidate-vibid:2422000974731": 19,
+      "gas:candidate-vibid:2422000976387": 9,
+      "gas:candidate-vibid:2422000976565": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909138&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909138&type=464",
@@ -12473,11 +12473,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 51,
-      "Антонов Георгий Антонович": 3,
-      "Клейстер Роман Юрьевич": 7,
-      "Потапов Петр Николаевич": 1,
-      "Рябинюк Людмила Владимировна": 2
+      "gas:candidate-vibid:2422000977091": 51,
+      "gas:candidate-vibid:2422000976122": 3,
+      "gas:candidate-vibid:2422000974731": 7,
+      "gas:candidate-vibid:2422000976387": 1,
+      "gas:candidate-vibid:2422000976565": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909138&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909138&type=464",
@@ -12528,11 +12528,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 193,
-      "Антонов Георгий Антонович": 6,
-      "Клейстер Роман Юрьевич": 12,
-      "Потапов Петр Николаевич": 0,
-      "Рябинюк Людмила Владимировна": 54
+      "gas:candidate-vibid:2422000977091": 193,
+      "gas:candidate-vibid:2422000976122": 6,
+      "gas:candidate-vibid:2422000974731": 12,
+      "gas:candidate-vibid:2422000976387": 0,
+      "gas:candidate-vibid:2422000976565": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909138&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909138&type=464",
@@ -12583,11 +12583,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 104,
-      "Антонов Георгий Антонович": 4,
-      "Клейстер Роман Юрьевич": 3,
-      "Потапов Петр Николаевич": 0,
-      "Рябинюк Людмила Владимировна": 24
+      "gas:candidate-vibid:2422000977091": 104,
+      "gas:candidate-vibid:2422000976122": 4,
+      "gas:candidate-vibid:2422000974731": 3,
+      "gas:candidate-vibid:2422000976387": 0,
+      "gas:candidate-vibid:2422000976565": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909138&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909138&type=464",
@@ -12638,11 +12638,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 143,
-      "Антонов Георгий Антонович": 19,
-      "Клейстер Роман Юрьевич": 18,
-      "Потапов Петр Николаевич": 2,
-      "Рябинюк Людмила Владимировна": 9
+      "gas:candidate-vibid:2422000977091": 143,
+      "gas:candidate-vibid:2422000976122": 19,
+      "gas:candidate-vibid:2422000974731": 18,
+      "gas:candidate-vibid:2422000976387": 2,
+      "gas:candidate-vibid:2422000976565": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909138&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909138&type=464",
@@ -12693,11 +12693,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 208,
-      "Антонов Георгий Антонович": 2,
-      "Клейстер Роман Юрьевич": 3,
-      "Потапов Петр Николаевич": 1,
-      "Рябинюк Людмила Владимировна": 74
+      "gas:candidate-vibid:2422000977091": 208,
+      "gas:candidate-vibid:2422000976122": 2,
+      "gas:candidate-vibid:2422000974731": 3,
+      "gas:candidate-vibid:2422000976387": 1,
+      "gas:candidate-vibid:2422000976565": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909138&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909138&type=464",
@@ -12748,11 +12748,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 180,
-      "Антонов Георгий Антонович": 0,
-      "Клейстер Роман Юрьевич": 30,
-      "Потапов Петр Николаевич": 0,
-      "Рябинюк Людмила Владимировна": 40
+      "gas:candidate-vibid:2422000977091": 180,
+      "gas:candidate-vibid:2422000976122": 0,
+      "gas:candidate-vibid:2422000974731": 30,
+      "gas:candidate-vibid:2422000976387": 0,
+      "gas:candidate-vibid:2422000976565": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909139&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909139&type=464",
@@ -12803,11 +12803,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 597,
-      "Антонов Георгий Антонович": 38,
-      "Клейстер Роман Юрьевич": 121,
-      "Потапов Петр Николаевич": 25,
-      "Рябинюк Людмила Владимировна": 31
+      "gas:candidate-vibid:2422000977091": 597,
+      "gas:candidate-vibid:2422000976122": 38,
+      "gas:candidate-vibid:2422000974731": 121,
+      "gas:candidate-vibid:2422000976387": 25,
+      "gas:candidate-vibid:2422000976565": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909139&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909139&type=464",
@@ -12858,11 +12858,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 354,
-      "Антонов Георгий Антонович": 0,
-      "Клейстер Роман Юрьевич": 21,
-      "Потапов Петр Николаевич": 0,
-      "Рябинюк Людмила Владимировна": 200
+      "gas:candidate-vibid:2422000977091": 354,
+      "gas:candidate-vibid:2422000976122": 0,
+      "gas:candidate-vibid:2422000974731": 21,
+      "gas:candidate-vibid:2422000976387": 0,
+      "gas:candidate-vibid:2422000976565": 200
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909139&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909139&type=464",
@@ -12913,11 +12913,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 230,
-      "Антонов Георгий Антонович": 0,
-      "Клейстер Роман Юрьевич": 3,
-      "Потапов Петр Николаевич": 0,
-      "Рябинюк Людмила Владимировна": 42
+      "gas:candidate-vibid:2422000977091": 230,
+      "gas:candidate-vibid:2422000976122": 0,
+      "gas:candidate-vibid:2422000974731": 3,
+      "gas:candidate-vibid:2422000976387": 0,
+      "gas:candidate-vibid:2422000976565": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909139&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909139&type=464",
@@ -12968,11 +12968,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 92,
-      "Антонов Георгий Антонович": 15,
-      "Клейстер Роман Юрьевич": 18,
-      "Потапов Петр Николаевич": 13,
-      "Рябинюк Людмила Владимировна": 11
+      "gas:candidate-vibid:2422000977091": 92,
+      "gas:candidate-vibid:2422000976122": 15,
+      "gas:candidate-vibid:2422000974731": 18,
+      "gas:candidate-vibid:2422000976387": 13,
+      "gas:candidate-vibid:2422000976565": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909139&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909139&type=464",
@@ -13023,11 +13023,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 541,
-      "Антонов Георгий Антонович": 0,
-      "Клейстер Роман Юрьевич": 0,
-      "Потапов Петр Николаевич": 0,
-      "Рябинюк Людмила Владимировна": 489
+      "gas:candidate-vibid:2422000977091": 541,
+      "gas:candidate-vibid:2422000976122": 0,
+      "gas:candidate-vibid:2422000974731": 0,
+      "gas:candidate-vibid:2422000976387": 0,
+      "gas:candidate-vibid:2422000976565": 489
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909139&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909139&type=464",
@@ -13078,11 +13078,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 692,
-      "Антонов Георгий Антонович": 0,
-      "Клейстер Роман Юрьевич": 8,
-      "Потапов Петр Николаевич": 0,
-      "Рябинюк Людмила Владимировна": 101
+      "gas:candidate-vibid:2422000977091": 692,
+      "gas:candidate-vibid:2422000976122": 0,
+      "gas:candidate-vibid:2422000974731": 8,
+      "gas:candidate-vibid:2422000976387": 0,
+      "gas:candidate-vibid:2422000976565": 101
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909139&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909139&type=464",
@@ -13133,11 +13133,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 366,
-      "Антонов Георгий Антонович": 0,
-      "Клейстер Роман Юрьевич": 0,
-      "Потапов Петр Николаевич": 0,
-      "Рябинюк Людмила Владимировна": 95
+      "gas:candidate-vibid:2422000977091": 366,
+      "gas:candidate-vibid:2422000976122": 0,
+      "gas:candidate-vibid:2422000974731": 0,
+      "gas:candidate-vibid:2422000976387": 0,
+      "gas:candidate-vibid:2422000976565": 95
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909139&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909139&type=464",
@@ -13188,11 +13188,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 641,
-      "Антонов Георгий Антонович": 0,
-      "Клейстер Роман Юрьевич": 44,
-      "Потапов Петр Николаевич": 0,
-      "Рябинюк Людмила Владимировна": 160
+      "gas:candidate-vibid:2422000977091": 641,
+      "gas:candidate-vibid:2422000976122": 0,
+      "gas:candidate-vibid:2422000974731": 44,
+      "gas:candidate-vibid:2422000976387": 0,
+      "gas:candidate-vibid:2422000976565": 160
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909139&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909139&type=464",
@@ -13243,11 +13243,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 566,
-      "Антонов Георгий Антонович": 0,
-      "Клейстер Роман Юрьевич": 40,
-      "Потапов Петр Николаевич": 0,
-      "Рябинюк Людмила Владимировна": 80
+      "gas:candidate-vibid:2422000977091": 566,
+      "gas:candidate-vibid:2422000976122": 0,
+      "gas:candidate-vibid:2422000974731": 40,
+      "gas:candidate-vibid:2422000976387": 0,
+      "gas:candidate-vibid:2422000976565": 80
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909139&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909139&type=464",
@@ -13298,11 +13298,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 787,
-      "Антонов Георгий Антонович": 0,
-      "Клейстер Роман Юрьевич": 0,
-      "Потапов Петр Николаевич": 0,
-      "Рябинюк Людмила Владимировна": 202
+      "gas:candidate-vibid:2422000977091": 787,
+      "gas:candidate-vibid:2422000976122": 0,
+      "gas:candidate-vibid:2422000974731": 0,
+      "gas:candidate-vibid:2422000976387": 0,
+      "gas:candidate-vibid:2422000976565": 202
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909139&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909139&type=464",
@@ -13353,11 +13353,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 238,
-      "Антонов Георгий Антонович": 84,
-      "Клейстер Роман Юрьевич": 132,
-      "Потапов Петр Николаевич": 39,
-      "Рябинюк Людмила Владимировна": 66
+      "gas:candidate-vibid:2422000977091": 238,
+      "gas:candidate-vibid:2422000976122": 84,
+      "gas:candidate-vibid:2422000974731": 132,
+      "gas:candidate-vibid:2422000976387": 39,
+      "gas:candidate-vibid:2422000976565": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909139&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909139&type=464",
@@ -13408,11 +13408,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 663,
-      "Антонов Георгий Антонович": 0,
-      "Клейстер Роман Юрьевич": 20,
-      "Потапов Петр Николаевич": 0,
-      "Рябинюк Людмила Владимировна": 380
+      "gas:candidate-vibid:2422000977091": 663,
+      "gas:candidate-vibid:2422000976122": 0,
+      "gas:candidate-vibid:2422000974731": 20,
+      "gas:candidate-vibid:2422000976387": 0,
+      "gas:candidate-vibid:2422000976565": 380
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909139&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909139&type=464",
@@ -13463,11 +13463,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 636,
-      "Антонов Георгий Антонович": 92,
-      "Клейстер Роман Юрьевич": 124,
-      "Потапов Петр Николаевич": 37,
-      "Рябинюк Людмила Владимировна": 57
+      "gas:candidate-vibid:2422000977091": 636,
+      "gas:candidate-vibid:2422000976122": 92,
+      "gas:candidate-vibid:2422000974731": 124,
+      "gas:candidate-vibid:2422000976387": 37,
+      "gas:candidate-vibid:2422000976565": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909139&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909139&type=464",
@@ -13518,11 +13518,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 646,
-      "Антонов Георгий Антонович": 0,
-      "Клейстер Роман Юрьевич": 0,
-      "Потапов Петр Николаевич": 0,
-      "Рябинюк Людмила Владимировна": 278
+      "gas:candidate-vibid:2422000977091": 646,
+      "gas:candidate-vibid:2422000976122": 0,
+      "gas:candidate-vibid:2422000974731": 0,
+      "gas:candidate-vibid:2422000976387": 0,
+      "gas:candidate-vibid:2422000976565": 278
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909139&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909139&type=464",
@@ -13573,11 +13573,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 681,
-      "Антонов Георгий Антонович": 0,
-      "Клейстер Роман Юрьевич": 107,
-      "Потапов Петр Николаевич": 0,
-      "Рябинюк Людмила Владимировна": 243
+      "gas:candidate-vibid:2422000977091": 681,
+      "gas:candidate-vibid:2422000976122": 0,
+      "gas:candidate-vibid:2422000974731": 107,
+      "gas:candidate-vibid:2422000976387": 0,
+      "gas:candidate-vibid:2422000976565": 243
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909139&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909139&type=464",
@@ -13628,11 +13628,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 628,
-      "Антонов Георгий Антонович": 0,
-      "Клейстер Роман Юрьевич": 100,
-      "Потапов Петр Николаевич": 0,
-      "Рябинюк Людмила Владимировна": 242
+      "gas:candidate-vibid:2422000977091": 628,
+      "gas:candidate-vibid:2422000976122": 0,
+      "gas:candidate-vibid:2422000974731": 100,
+      "gas:candidate-vibid:2422000976387": 0,
+      "gas:candidate-vibid:2422000976565": 242
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909139&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909139&type=464",
@@ -13683,11 +13683,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 763,
-      "Антонов Георгий Антонович": 0,
-      "Клейстер Роман Юрьевич": 32,
-      "Потапов Петр Николаевич": 0,
-      "Рябинюк Людмила Владимировна": 220
+      "gas:candidate-vibid:2422000977091": 763,
+      "gas:candidate-vibid:2422000976122": 0,
+      "gas:candidate-vibid:2422000974731": 32,
+      "gas:candidate-vibid:2422000976387": 0,
+      "gas:candidate-vibid:2422000976565": 220
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909139&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909139&type=464",
@@ -13738,11 +13738,11 @@ export const duma_2016_uik_463_region_42_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 842,
-      "Антонов Георгий Антонович": 2,
-      "Клейстер Роман Юрьевич": 85,
-      "Потапов Петр Николаевич": 2,
-      "Рябинюк Людмила Владимировна": 243
+      "gas:candidate-vibid:2422000977091": 842,
+      "gas:candidate-vibid:2422000976122": 2,
+      "gas:candidate-vibid:2422000974731": 85,
+      "gas:candidate-vibid:2422000976387": 2,
+      "gas:candidate-vibid:2422000976565": 243
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909140&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909140&type=464",

@@ -43,14 +43,14 @@ export const duma_2016_uik_463_region_7_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жилов Хасан Русланович": 0,
-      "Паштов Борис Султанович": 392,
-      "Султанова Айшат Токболатовна": 0,
-      "Токов Руслан Мухарбиевич": 298,
-      "Цумаев Муса Мутушович": 0,
-      "Шаваев Камал Хасанович": 0,
-      "Шхагапсоев Сафарбий Хасанбиевич": 244,
-      "Шхагошев Адальби Люлевич": 933
+      "gas:candidate-vibid:2072000343159": 0,
+      "gas:candidate-vibid:2072000343215": 392,
+      "gas:candidate-vibid:2072000343170": 0,
+      "gas:candidate-vibid:2072000343368": 298,
+      "gas:candidate-vibid:2072000343546": 0,
+      "gas:candidate-vibid:2072000343182": 0,
+      "gas:candidate-vibid:2072000343193": 244,
+      "gas:candidate-vibid:2072000343204": 933
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000333032&vrn=100100067795849&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000333032&type=464",
@@ -101,14 +101,14 @@ export const duma_2016_uik_463_region_7_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жилов Хасан Русланович": 10,
-      "Паштов Борис Султанович": 110,
-      "Султанова Айшат Токболатовна": 0,
-      "Токов Руслан Мухарбиевич": 126,
-      "Цумаев Муса Мутушович": 0,
-      "Шаваев Камал Хасанович": 21,
-      "Шхагапсоев Сафарбий Хасанбиевич": 135,
-      "Шхагошев Адальби Люлевич": 450
+      "gas:candidate-vibid:2072000343159": 10,
+      "gas:candidate-vibid:2072000343215": 110,
+      "gas:candidate-vibid:2072000343170": 0,
+      "gas:candidate-vibid:2072000343368": 126,
+      "gas:candidate-vibid:2072000343546": 0,
+      "gas:candidate-vibid:2072000343182": 21,
+      "gas:candidate-vibid:2072000343193": 135,
+      "gas:candidate-vibid:2072000343204": 450
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000333032&vrn=100100067795849&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000333032&type=464",
@@ -159,14 +159,14 @@ export const duma_2016_uik_463_region_7_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жилов Хасан Русланович": 0,
-      "Паштов Борис Султанович": 445,
-      "Султанова Айшат Токболатовна": 2,
-      "Токов Руслан Мухарбиевич": 436,
-      "Цумаев Муса Мутушович": 3,
-      "Шаваев Камал Хасанович": 4,
-      "Шхагапсоев Сафарбий Хасанбиевич": 362,
-      "Шхагошев Адальби Люлевич": 1072
+      "gas:candidate-vibid:2072000343159": 0,
+      "gas:candidate-vibid:2072000343215": 445,
+      "gas:candidate-vibid:2072000343170": 2,
+      "gas:candidate-vibid:2072000343368": 436,
+      "gas:candidate-vibid:2072000343546": 3,
+      "gas:candidate-vibid:2072000343182": 4,
+      "gas:candidate-vibid:2072000343193": 362,
+      "gas:candidate-vibid:2072000343204": 1072
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000333033&vrn=100100067795849&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000333033&type=464",
@@ -217,14 +217,14 @@ export const duma_2016_uik_463_region_7_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жилов Хасан Русланович": 0,
-      "Паштов Борис Султанович": 174,
-      "Султанова Айшат Токболатовна": 2,
-      "Токов Руслан Мухарбиевич": 165,
-      "Цумаев Муса Мутушович": 3,
-      "Шаваев Камал Хасанович": 3,
-      "Шхагапсоев Сафарбий Хасанбиевич": 163,
-      "Шхагошев Адальби Люлевич": 578
+      "gas:candidate-vibid:2072000343159": 0,
+      "gas:candidate-vibid:2072000343215": 174,
+      "gas:candidate-vibid:2072000343170": 2,
+      "gas:candidate-vibid:2072000343368": 165,
+      "gas:candidate-vibid:2072000343546": 3,
+      "gas:candidate-vibid:2072000343182": 3,
+      "gas:candidate-vibid:2072000343193": 163,
+      "gas:candidate-vibid:2072000343204": 578
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000333033&vrn=100100067795849&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000333033&type=464",
@@ -275,14 +275,14 @@ export const duma_2016_uik_463_region_7_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жилов Хасан Русланович": 2,
-      "Паштов Борис Султанович": 204,
-      "Султанова Айшат Токболатовна": 0,
-      "Токов Руслан Мухарбиевич": 258,
-      "Цумаев Муса Мутушович": 2,
-      "Шаваев Камал Хасанович": 2,
-      "Шхагапсоев Сафарбий Хасанбиевич": 231,
-      "Шхагошев Адальби Люлевич": 702
+      "gas:candidate-vibid:2072000343159": 2,
+      "gas:candidate-vibid:2072000343215": 204,
+      "gas:candidate-vibid:2072000343170": 0,
+      "gas:candidate-vibid:2072000343368": 258,
+      "gas:candidate-vibid:2072000343546": 2,
+      "gas:candidate-vibid:2072000343182": 2,
+      "gas:candidate-vibid:2072000343193": 231,
+      "gas:candidate-vibid:2072000343204": 702
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000333033&vrn=100100067795849&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000333033&type=464",
@@ -333,14 +333,14 @@ export const duma_2016_uik_463_region_7_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жилов Хасан Русланович": 0,
-      "Паштов Борис Султанович": 215,
-      "Султанова Айшат Токболатовна": 1,
-      "Токов Руслан Мухарбиевич": 244,
-      "Цумаев Муса Мутушович": 2,
-      "Шаваев Камал Хасанович": 4,
-      "Шхагапсоев Сафарбий Хасанбиевич": 217,
-      "Шхагошев Адальби Люлевич": 684
+      "gas:candidate-vibid:2072000343159": 0,
+      "gas:candidate-vibid:2072000343215": 215,
+      "gas:candidate-vibid:2072000343170": 1,
+      "gas:candidate-vibid:2072000343368": 244,
+      "gas:candidate-vibid:2072000343546": 2,
+      "gas:candidate-vibid:2072000343182": 4,
+      "gas:candidate-vibid:2072000343193": 217,
+      "gas:candidate-vibid:2072000343204": 684
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000333033&vrn=100100067795849&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000333033&type=464",
@@ -391,14 +391,14 @@ export const duma_2016_uik_463_region_7_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жилов Хасан Русланович": 0,
-      "Паштов Борис Султанович": 226,
-      "Султанова Айшат Токболатовна": 2,
-      "Токов Руслан Мухарбиевич": 208,
-      "Цумаев Муса Мутушович": 2,
-      "Шаваев Камал Хасанович": 5,
-      "Шхагапсоев Сафарбий Хасанбиевич": 176,
-      "Шхагошев Адальби Люлевич": 612
+      "gas:candidate-vibid:2072000343159": 0,
+      "gas:candidate-vibid:2072000343215": 226,
+      "gas:candidate-vibid:2072000343170": 2,
+      "gas:candidate-vibid:2072000343368": 208,
+      "gas:candidate-vibid:2072000343546": 2,
+      "gas:candidate-vibid:2072000343182": 5,
+      "gas:candidate-vibid:2072000343193": 176,
+      "gas:candidate-vibid:2072000343204": 612
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000333033&vrn=100100067795849&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000333033&type=464",
@@ -449,14 +449,14 @@ export const duma_2016_uik_463_region_7_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жилов Хасан Русланович": 0,
-      "Паштов Борис Султанович": 103,
-      "Султанова Айшат Токболатовна": 2,
-      "Токов Руслан Мухарбиевич": 136,
-      "Цумаев Муса Мутушович": 1,
-      "Шаваев Камал Хасанович": 2,
-      "Шхагапсоев Сафарбий Хасанбиевич": 122,
-      "Шхагошев Адальби Люлевич": 346
+      "gas:candidate-vibid:2072000343159": 0,
+      "gas:candidate-vibid:2072000343215": 103,
+      "gas:candidate-vibid:2072000343170": 2,
+      "gas:candidate-vibid:2072000343368": 136,
+      "gas:candidate-vibid:2072000343546": 1,
+      "gas:candidate-vibid:2072000343182": 2,
+      "gas:candidate-vibid:2072000343193": 122,
+      "gas:candidate-vibid:2072000343204": 346
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000333033&vrn=100100067795849&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000333033&type=464",
@@ -507,14 +507,14 @@ export const duma_2016_uik_463_region_7_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жилов Хасан Русланович": 0,
-      "Паштов Борис Султанович": 198,
-      "Султанова Айшат Токболатовна": 2,
-      "Токов Руслан Мухарбиевич": 202,
-      "Цумаев Муса Мутушович": 2,
-      "Шаваев Камал Хасанович": 0,
-      "Шхагапсоев Сафарбий Хасанбиевич": 179,
-      "Шхагошев Адальби Люлевич": 546
+      "gas:candidate-vibid:2072000343159": 0,
+      "gas:candidate-vibid:2072000343215": 198,
+      "gas:candidate-vibid:2072000343170": 2,
+      "gas:candidate-vibid:2072000343368": 202,
+      "gas:candidate-vibid:2072000343546": 2,
+      "gas:candidate-vibid:2072000343182": 0,
+      "gas:candidate-vibid:2072000343193": 179,
+      "gas:candidate-vibid:2072000343204": 546
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000333033&vrn=100100067795849&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000333033&type=464",
@@ -565,14 +565,14 @@ export const duma_2016_uik_463_region_7_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жилов Хасан Русланович": 3,
-      "Паштов Борис Султанович": 324,
-      "Султанова Айшат Токболатовна": 0,
-      "Токов Руслан Мухарбиевич": 286,
-      "Цумаев Муса Мутушович": 3,
-      "Шаваев Камал Хасанович": 3,
-      "Шхагапсоев Сафарбий Хасанбиевич": 239,
-      "Шхагошев Адальби Люлевич": 862
+      "gas:candidate-vibid:2072000343159": 3,
+      "gas:candidate-vibid:2072000343215": 324,
+      "gas:candidate-vibid:2072000343170": 0,
+      "gas:candidate-vibid:2072000343368": 286,
+      "gas:candidate-vibid:2072000343546": 3,
+      "gas:candidate-vibid:2072000343182": 3,
+      "gas:candidate-vibid:2072000343193": 239,
+      "gas:candidate-vibid:2072000343204": 862
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000333033&vrn=100100067795849&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000333033&type=464",
@@ -623,14 +623,14 @@ export const duma_2016_uik_463_region_7_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жилов Хасан Русланович": 3,
-      "Паштов Борис Султанович": 209,
-      "Султанова Айшат Токболатовна": 2,
-      "Токов Руслан Мухарбиевич": 211,
-      "Цумаев Муса Мутушович": 2,
-      "Шаваев Камал Хасанович": 2,
-      "Шхагапсоев Сафарбий Хасанбиевич": 166,
-      "Шхагошев Адальби Люлевич": 621
+      "gas:candidate-vibid:2072000343159": 3,
+      "gas:candidate-vibid:2072000343215": 209,
+      "gas:candidate-vibid:2072000343170": 2,
+      "gas:candidate-vibid:2072000343368": 211,
+      "gas:candidate-vibid:2072000343546": 2,
+      "gas:candidate-vibid:2072000343182": 2,
+      "gas:candidate-vibid:2072000343193": 166,
+      "gas:candidate-vibid:2072000343204": 621
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000333033&vrn=100100067795849&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000333033&type=464",
@@ -681,14 +681,14 @@ export const duma_2016_uik_463_region_7_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жилов Хасан Русланович": 4,
-      "Паштов Борис Султанович": 201,
-      "Султанова Айшат Токболатовна": 0,
-      "Токов Руслан Мухарбиевич": 185,
-      "Цумаев Муса Мутушович": 2,
-      "Шаваев Камал Хасанович": 2,
-      "Шхагапсоев Сафарбий Хасанбиевич": 162,
-      "Шхагошев Адальби Люлевич": 578
+      "gas:candidate-vibid:2072000343159": 4,
+      "gas:candidate-vibid:2072000343215": 201,
+      "gas:candidate-vibid:2072000343170": 0,
+      "gas:candidate-vibid:2072000343368": 185,
+      "gas:candidate-vibid:2072000343546": 2,
+      "gas:candidate-vibid:2072000343182": 2,
+      "gas:candidate-vibid:2072000343193": 162,
+      "gas:candidate-vibid:2072000343204": 578
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000333033&vrn=100100067795849&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000333033&type=464",
@@ -739,14 +739,14 @@ export const duma_2016_uik_463_region_7_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жилов Хасан Русланович": 3,
-      "Паштов Борис Султанович": 409,
-      "Султанова Айшат Токболатовна": 0,
-      "Токов Руслан Мухарбиевич": 380,
-      "Цумаев Муса Мутушович": 4,
-      "Шаваев Камал Хасанович": 4,
-      "Шхагапсоев Сафарбий Хасанбиевич": 356,
-      "Шхагошев Адальби Люлевич": 1022
+      "gas:candidate-vibid:2072000343159": 3,
+      "gas:candidate-vibid:2072000343215": 409,
+      "gas:candidate-vibid:2072000343170": 0,
+      "gas:candidate-vibid:2072000343368": 380,
+      "gas:candidate-vibid:2072000343546": 4,
+      "gas:candidate-vibid:2072000343182": 4,
+      "gas:candidate-vibid:2072000343193": 356,
+      "gas:candidate-vibid:2072000343204": 1022
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000333033&vrn=100100067795849&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000333033&type=464",
@@ -797,14 +797,14 @@ export const duma_2016_uik_463_region_7_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жилов Хасан Русланович": 3,
-      "Паштов Борис Султанович": 318,
-      "Султанова Айшат Токболатовна": 2,
-      "Токов Руслан Мухарбиевич": 302,
-      "Цумаев Муса Мутушович": 3,
-      "Шаваев Камал Хасанович": 0,
-      "Шхагапсоев Сафарбий Хасанбиевич": 270,
-      "Шхагошев Адальби Люлевич": 736
+      "gas:candidate-vibid:2072000343159": 3,
+      "gas:candidate-vibid:2072000343215": 318,
+      "gas:candidate-vibid:2072000343170": 2,
+      "gas:candidate-vibid:2072000343368": 302,
+      "gas:candidate-vibid:2072000343546": 3,
+      "gas:candidate-vibid:2072000343182": 0,
+      "gas:candidate-vibid:2072000343193": 270,
+      "gas:candidate-vibid:2072000343204": 736
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000333033&vrn=100100067795849&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000333033&type=464",
@@ -855,14 +855,14 @@ export const duma_2016_uik_463_region_7_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жилов Хасан Русланович": 4,
-      "Паштов Борис Султанович": 341,
-      "Султанова Айшат Токболатовна": 0,
-      "Токов Руслан Мухарбиевич": 306,
-      "Цумаев Муса Мутушович": 3,
-      "Шаваев Камал Хасанович": 6,
-      "Шхагапсоев Сафарбий Хасанбиевич": 268,
-      "Шхагошев Адальби Люлевич": 885
+      "gas:candidate-vibid:2072000343159": 4,
+      "gas:candidate-vibid:2072000343215": 341,
+      "gas:candidate-vibid:2072000343170": 0,
+      "gas:candidate-vibid:2072000343368": 306,
+      "gas:candidate-vibid:2072000343546": 3,
+      "gas:candidate-vibid:2072000343182": 6,
+      "gas:candidate-vibid:2072000343193": 268,
+      "gas:candidate-vibid:2072000343204": 885
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000333033&vrn=100100067795849&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000333033&type=464",
@@ -913,14 +913,14 @@ export const duma_2016_uik_463_region_7_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жилов Хасан Русланович": 4,
-      "Паштов Борис Султанович": 395,
-      "Султанова Айшат Токболатовна": 1,
-      "Токов Руслан Мухарбиевич": 279,
-      "Цумаев Муса Мутушович": 3,
-      "Шаваев Камал Хасанович": 2,
-      "Шхагапсоев Сафарбий Хасанбиевич": 277,
-      "Шхагошев Адальби Люлевич": 1084
+      "gas:candidate-vibid:2072000343159": 4,
+      "gas:candidate-vibid:2072000343215": 395,
+      "gas:candidate-vibid:2072000343170": 1,
+      "gas:candidate-vibid:2072000343368": 279,
+      "gas:candidate-vibid:2072000343546": 3,
+      "gas:candidate-vibid:2072000343182": 2,
+      "gas:candidate-vibid:2072000343193": 277,
+      "gas:candidate-vibid:2072000343204": 1084
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000333033&vrn=100100067795849&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000333033&type=464",
@@ -971,14 +971,14 @@ export const duma_2016_uik_463_region_7_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жилов Хасан Русланович": 1,
-      "Паштов Борис Султанович": 418,
-      "Султанова Айшат Токболатовна": 1,
-      "Токов Руслан Мухарбиевич": 282,
-      "Цумаев Муса Мутушович": 3,
-      "Шаваев Камал Хасанович": 0,
-      "Шхагапсоев Сафарбий Хасанбиевич": 240,
-      "Шхагошев Адальби Люлевич": 1160
+      "gas:candidate-vibid:2072000343159": 1,
+      "gas:candidate-vibid:2072000343215": 418,
+      "gas:candidate-vibid:2072000343170": 1,
+      "gas:candidate-vibid:2072000343368": 282,
+      "gas:candidate-vibid:2072000343546": 3,
+      "gas:candidate-vibid:2072000343182": 0,
+      "gas:candidate-vibid:2072000343193": 240,
+      "gas:candidate-vibid:2072000343204": 1160
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000333033&vrn=100100067795849&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000333033&type=464",
@@ -1029,14 +1029,14 @@ export const duma_2016_uik_463_region_7_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жилов Хасан Русланович": 6,
-      "Паштов Борис Султанович": 356,
-      "Султанова Айшат Токболатовна": 0,
-      "Токов Руслан Мухарбиевич": 308,
-      "Цумаев Муса Мутушович": 3,
-      "Шаваев Камал Хасанович": 3,
-      "Шхагапсоев Сафарбий Хасанбиевич": 271,
-      "Шхагошев Адальби Люлевич": 907
+      "gas:candidate-vibid:2072000343159": 6,
+      "gas:candidate-vibid:2072000343215": 356,
+      "gas:candidate-vibid:2072000343170": 0,
+      "gas:candidate-vibid:2072000343368": 308,
+      "gas:candidate-vibid:2072000343546": 3,
+      "gas:candidate-vibid:2072000343182": 3,
+      "gas:candidate-vibid:2072000343193": 271,
+      "gas:candidate-vibid:2072000343204": 907
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000333033&vrn=100100067795849&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000333033&type=464",
@@ -1087,14 +1087,14 @@ export const duma_2016_uik_463_region_7_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жилов Хасан Русланович": 4,
-      "Паштов Борис Султанович": 225,
-      "Султанова Айшат Токболатовна": 0,
-      "Токов Руслан Мухарбиевич": 193,
-      "Цумаев Муса Мутушович": 2,
-      "Шаваев Камал Хасанович": 4,
-      "Шхагапсоев Сафарбий Хасанбиевич": 174,
-      "Шхагошев Адальби Люлевич": 620
+      "gas:candidate-vibid:2072000343159": 4,
+      "gas:candidate-vibid:2072000343215": 225,
+      "gas:candidate-vibid:2072000343170": 0,
+      "gas:candidate-vibid:2072000343368": 193,
+      "gas:candidate-vibid:2072000343546": 2,
+      "gas:candidate-vibid:2072000343182": 4,
+      "gas:candidate-vibid:2072000343193": 174,
+      "gas:candidate-vibid:2072000343204": 620
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000333033&vrn=100100067795849&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000333033&type=464",
@@ -1145,14 +1145,14 @@ export const duma_2016_uik_463_region_7_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жилов Хасан Русланович": 3,
-      "Паштов Борис Султанович": 196,
-      "Султанова Айшат Токболатовна": 0,
-      "Токов Руслан Мухарбиевич": 143,
-      "Цумаев Муса Мутушович": 1,
-      "Шаваев Камал Хасанович": 3,
-      "Шхагапсоев Сафарбий Хасанбиевич": 125,
-      "Шхагошев Адальби Люлевич": 433
+      "gas:candidate-vibid:2072000343159": 3,
+      "gas:candidate-vibid:2072000343215": 196,
+      "gas:candidate-vibid:2072000343170": 0,
+      "gas:candidate-vibid:2072000343368": 143,
+      "gas:candidate-vibid:2072000343546": 1,
+      "gas:candidate-vibid:2072000343182": 3,
+      "gas:candidate-vibid:2072000343193": 125,
+      "gas:candidate-vibid:2072000343204": 433
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000333033&vrn=100100067795849&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000333033&type=464",
@@ -1203,14 +1203,14 @@ export const duma_2016_uik_463_region_7_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жилов Хасан Русланович": 3,
-      "Паштов Борис Султанович": 238,
-      "Султанова Айшат Токболатовна": 2,
-      "Токов Руслан Мухарбиевич": 212,
-      "Цумаев Муса Мутушович": 2,
-      "Шаваев Камал Хасанович": 0,
-      "Шхагапсоев Сафарбий Хасанбиевич": 187,
-      "Шхагошев Адальби Люлевич": 621
+      "gas:candidate-vibid:2072000343159": 3,
+      "gas:candidate-vibid:2072000343215": 238,
+      "gas:candidate-vibid:2072000343170": 2,
+      "gas:candidate-vibid:2072000343368": 212,
+      "gas:candidate-vibid:2072000343546": 2,
+      "gas:candidate-vibid:2072000343182": 0,
+      "gas:candidate-vibid:2072000343193": 187,
+      "gas:candidate-vibid:2072000343204": 621
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000333033&vrn=100100067795849&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000333033&type=464",
@@ -1261,14 +1261,14 @@ export const duma_2016_uik_463_region_7_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жилов Хасан Русланович": 3,
-      "Паштов Борис Султанович": 316,
-      "Султанова Айшат Токболатовна": 2,
-      "Токов Руслан Мухарбиевич": 288,
-      "Цумаев Муса Мутушович": 3,
-      "Шаваев Камал Хасанович": 5,
-      "Шхагапсоев Сафарбий Хасанбиевич": 272,
-      "Шхагошев Адальби Люлевич": 746
+      "gas:candidate-vibid:2072000343159": 3,
+      "gas:candidate-vibid:2072000343215": 316,
+      "gas:candidate-vibid:2072000343170": 2,
+      "gas:candidate-vibid:2072000343368": 288,
+      "gas:candidate-vibid:2072000343546": 3,
+      "gas:candidate-vibid:2072000343182": 5,
+      "gas:candidate-vibid:2072000343193": 272,
+      "gas:candidate-vibid:2072000343204": 746
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000333033&vrn=100100067795849&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000333033&type=464",
@@ -1319,14 +1319,14 @@ export const duma_2016_uik_463_region_7_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жилов Хасан Русланович": 0,
-      "Паштов Борис Султанович": 226,
-      "Султанова Айшат Токболатовна": 2,
-      "Токов Руслан Мухарбиевич": 205,
-      "Цумаев Муса Мутушович": 2,
-      "Шаваев Камал Хасанович": 0,
-      "Шхагапсоев Сафарбий Хасанбиевич": 181,
-      "Шхагошев Адальби Люлевич": 562
+      "gas:candidate-vibid:2072000343159": 0,
+      "gas:candidate-vibid:2072000343215": 226,
+      "gas:candidate-vibid:2072000343170": 2,
+      "gas:candidate-vibid:2072000343368": 205,
+      "gas:candidate-vibid:2072000343546": 2,
+      "gas:candidate-vibid:2072000343182": 0,
+      "gas:candidate-vibid:2072000343193": 181,
+      "gas:candidate-vibid:2072000343204": 562
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000333033&vrn=100100067795849&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000333033&type=464",
@@ -1377,14 +1377,14 @@ export const duma_2016_uik_463_region_7_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жилов Хасан Русланович": 3,
-      "Паштов Борис Султанович": 284,
-      "Султанова Айшат Токболатовна": 0,
-      "Токов Руслан Мухарбиевич": 271,
-      "Цумаев Муса Мутушович": 2,
-      "Шаваев Камал Хасанович": 0,
-      "Шхагапсоев Сафарбий Хасанбиевич": 279,
-      "Шхагошев Адальби Люлевич": 644
+      "gas:candidate-vibid:2072000343159": 3,
+      "gas:candidate-vibid:2072000343215": 284,
+      "gas:candidate-vibid:2072000343170": 0,
+      "gas:candidate-vibid:2072000343368": 271,
+      "gas:candidate-vibid:2072000343546": 2,
+      "gas:candidate-vibid:2072000343182": 0,
+      "gas:candidate-vibid:2072000343193": 279,
+      "gas:candidate-vibid:2072000343204": 644
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000333033&vrn=100100067795849&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000333033&type=464",
@@ -1435,14 +1435,14 @@ export const duma_2016_uik_463_region_7_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жилов Хасан Русланович": 4,
-      "Паштов Борис Султанович": 257,
-      "Султанова Айшат Токболатовна": 0,
-      "Токов Руслан Мухарбиевич": 234,
-      "Цумаев Муса Мутушович": 2,
-      "Шаваев Камал Хасанович": 5,
-      "Шхагапсоев Сафарбий Хасанбиевич": 215,
-      "Шхагошев Адальби Люлевич": 734
+      "gas:candidate-vibid:2072000343159": 4,
+      "gas:candidate-vibid:2072000343215": 257,
+      "gas:candidate-vibid:2072000343170": 0,
+      "gas:candidate-vibid:2072000343368": 234,
+      "gas:candidate-vibid:2072000343546": 2,
+      "gas:candidate-vibid:2072000343182": 5,
+      "gas:candidate-vibid:2072000343193": 215,
+      "gas:candidate-vibid:2072000343204": 734
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000333033&vrn=100100067795849&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000333033&type=464",
@@ -1493,14 +1493,14 @@ export const duma_2016_uik_463_region_7_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жилов Хасан Русланович": 0,
-      "Паштов Борис Султанович": 260,
-      "Султанова Айшат Токболатовна": 2,
-      "Токов Руслан Мухарбиевич": 237,
-      "Цумаев Муса Мутушович": 2,
-      "Шаваев Камал Хасанович": 0,
-      "Шхагапсоев Сафарбий Хасанбиевич": 210,
-      "Шхагошев Адальби Люлевич": 648
+      "gas:candidate-vibid:2072000343159": 0,
+      "gas:candidate-vibid:2072000343215": 260,
+      "gas:candidate-vibid:2072000343170": 2,
+      "gas:candidate-vibid:2072000343368": 237,
+      "gas:candidate-vibid:2072000343546": 2,
+      "gas:candidate-vibid:2072000343182": 0,
+      "gas:candidate-vibid:2072000343193": 210,
+      "gas:candidate-vibid:2072000343204": 648
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000333033&vrn=100100067795849&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000333033&type=464",
@@ -1551,14 +1551,14 @@ export const duma_2016_uik_463_region_7_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жилов Хасан Русланович": 1,
-      "Паштов Борис Султанович": 188,
-      "Султанова Айшат Токболатовна": 0,
-      "Токов Руслан Мухарбиевич": 148,
-      "Цумаев Муса Мутушович": 1,
-      "Шаваев Камал Хасанович": 3,
-      "Шхагапсоев Сафарбий Хасанбиевич": 150,
-      "Шхагошев Адальби Люлевич": 508
+      "gas:candidate-vibid:2072000343159": 1,
+      "gas:candidate-vibid:2072000343215": 188,
+      "gas:candidate-vibid:2072000343170": 0,
+      "gas:candidate-vibid:2072000343368": 148,
+      "gas:candidate-vibid:2072000343546": 1,
+      "gas:candidate-vibid:2072000343182": 3,
+      "gas:candidate-vibid:2072000343193": 150,
+      "gas:candidate-vibid:2072000343204": 508
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000333033&vrn=100100067795849&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000333033&type=464",
@@ -1609,14 +1609,14 @@ export const duma_2016_uik_463_region_7_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жилов Хасан Русланович": 3,
-      "Паштов Борис Султанович": 175,
-      "Султанова Айшат Токболатовна": 0,
-      "Токов Руслан Мухарбиевич": 217,
-      "Цумаев Муса Мутушович": 5,
-      "Шаваев Камал Хасанович": 0,
-      "Шхагапсоев Сафарбий Хасанбиевич": 175,
-      "Шхагошев Адальби Люлевич": 604
+      "gas:candidate-vibid:2072000343159": 3,
+      "gas:candidate-vibid:2072000343215": 175,
+      "gas:candidate-vibid:2072000343170": 0,
+      "gas:candidate-vibid:2072000343368": 217,
+      "gas:candidate-vibid:2072000343546": 5,
+      "gas:candidate-vibid:2072000343182": 0,
+      "gas:candidate-vibid:2072000343193": 175,
+      "gas:candidate-vibid:2072000343204": 604
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000333033&vrn=100100067795849&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000333033&type=464",
@@ -1667,14 +1667,14 @@ export const duma_2016_uik_463_region_7_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жилов Хасан Русланович": 2,
-      "Паштов Борис Султанович": 195,
-      "Султанова Айшат Токболатовна": 2,
-      "Токов Руслан Мухарбиевич": 225,
-      "Цумаев Муса Мутушович": 2,
-      "Шаваев Камал Хасанович": 2,
-      "Шхагапсоев Сафарбий Хасанбиевич": 185,
-      "Шхагошев Адальби Люлевич": 560
+      "gas:candidate-vibid:2072000343159": 2,
+      "gas:candidate-vibid:2072000343215": 195,
+      "gas:candidate-vibid:2072000343170": 2,
+      "gas:candidate-vibid:2072000343368": 225,
+      "gas:candidate-vibid:2072000343546": 2,
+      "gas:candidate-vibid:2072000343182": 2,
+      "gas:candidate-vibid:2072000343193": 185,
+      "gas:candidate-vibid:2072000343204": 560
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000333033&vrn=100100067795849&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000333033&type=464",
@@ -1725,14 +1725,14 @@ export const duma_2016_uik_463_region_7_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жилов Хасан Русланович": 4,
-      "Паштов Борис Султанович": 230,
-      "Султанова Айшат Токболатовна": 2,
-      "Токов Руслан Мухарбиевич": 261,
-      "Цумаев Муса Мутушович": 2,
-      "Шаваев Камал Хасанович": 3,
-      "Шхагапсоев Сафарбий Хасанбиевич": 195,
-      "Шхагошев Адальби Люлевич": 658
+      "gas:candidate-vibid:2072000343159": 4,
+      "gas:candidate-vibid:2072000343215": 230,
+      "gas:candidate-vibid:2072000343170": 2,
+      "gas:candidate-vibid:2072000343368": 261,
+      "gas:candidate-vibid:2072000343546": 2,
+      "gas:candidate-vibid:2072000343182": 3,
+      "gas:candidate-vibid:2072000343193": 195,
+      "gas:candidate-vibid:2072000343204": 658
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000333033&vrn=100100067795849&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000333033&type=464",
@@ -1783,14 +1783,14 @@ export const duma_2016_uik_463_region_7_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жилов Хасан Русланович": 3,
-      "Паштов Борис Султанович": 354,
-      "Султанова Айшат Токболатовна": 0,
-      "Токов Руслан Мухарбиевич": 312,
-      "Цумаев Муса Мутушович": 3,
-      "Шаваев Камал Хасанович": 5,
-      "Шхагапсоев Сафарбий Хасанбиевич": 276,
-      "Шхагошев Адальби Люлевич": 861
+      "gas:candidate-vibid:2072000343159": 3,
+      "gas:candidate-vibid:2072000343215": 354,
+      "gas:candidate-vibid:2072000343170": 0,
+      "gas:candidate-vibid:2072000343368": 312,
+      "gas:candidate-vibid:2072000343546": 3,
+      "gas:candidate-vibid:2072000343182": 5,
+      "gas:candidate-vibid:2072000343193": 276,
+      "gas:candidate-vibid:2072000343204": 861
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000333033&vrn=100100067795849&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000333033&type=464",
@@ -1841,14 +1841,14 @@ export const duma_2016_uik_463_region_7_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жилов Хасан Русланович": 6,
-      "Паштов Борис Султанович": 87,
-      "Султанова Айшат Токболатовна": 1,
-      "Токов Руслан Мухарбиевич": 48,
-      "Цумаев Муса Мутушович": 1,
-      "Шаваев Камал Хасанович": 3,
-      "Шхагапсоев Сафарбий Хасанбиевич": 121,
-      "Шхагошев Адальби Люлевич": 226
+      "gas:candidate-vibid:2072000343159": 6,
+      "gas:candidate-vibid:2072000343215": 87,
+      "gas:candidate-vibid:2072000343170": 1,
+      "gas:candidate-vibid:2072000343368": 48,
+      "gas:candidate-vibid:2072000343546": 1,
+      "gas:candidate-vibid:2072000343182": 3,
+      "gas:candidate-vibid:2072000343193": 121,
+      "gas:candidate-vibid:2072000343204": 226
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000333033&vrn=100100067795849&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000333033&type=464",
@@ -1899,14 +1899,14 @@ export const duma_2016_uik_463_region_7_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жилов Хасан Русланович": 6,
-      "Паштов Борис Султанович": 277,
-      "Султанова Айшат Токболатовна": 2,
-      "Токов Руслан Мухарбиевич": 281,
-      "Цумаев Муса Мутушович": 3,
-      "Шаваев Камал Хасанович": 2,
-      "Шхагапсоев Сафарбий Хасанбиевич": 271,
-      "Шхагошев Адальби Люлевич": 883
+      "gas:candidate-vibid:2072000343159": 6,
+      "gas:candidate-vibid:2072000343215": 277,
+      "gas:candidate-vibid:2072000343170": 2,
+      "gas:candidate-vibid:2072000343368": 281,
+      "gas:candidate-vibid:2072000343546": 3,
+      "gas:candidate-vibid:2072000343182": 2,
+      "gas:candidate-vibid:2072000343193": 271,
+      "gas:candidate-vibid:2072000343204": 883
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000333033&vrn=100100067795849&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000333033&type=464",
@@ -1957,14 +1957,14 @@ export const duma_2016_uik_463_region_7_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жилов Хасан Русланович": 2,
-      "Паштов Борис Султанович": 221,
-      "Султанова Айшат Токболатовна": 1,
-      "Токов Руслан Мухарбиевич": 194,
-      "Цумаев Муса Мутушович": 6,
-      "Шаваев Камал Хасанович": 1,
-      "Шхагапсоев Сафарбий Хасанбиевич": 189,
-      "Шхагошев Адальби Люлевич": 645
+      "gas:candidate-vibid:2072000343159": 2,
+      "gas:candidate-vibid:2072000343215": 221,
+      "gas:candidate-vibid:2072000343170": 1,
+      "gas:candidate-vibid:2072000343368": 194,
+      "gas:candidate-vibid:2072000343546": 6,
+      "gas:candidate-vibid:2072000343182": 1,
+      "gas:candidate-vibid:2072000343193": 189,
+      "gas:candidate-vibid:2072000343204": 645
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000333033&vrn=100100067795849&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000333033&type=464",
@@ -2015,14 +2015,14 @@ export const duma_2016_uik_463_region_7_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жилов Хасан Русланович": 2,
-      "Паштов Борис Султанович": 374,
-      "Султанова Айшат Токболатовна": 0,
-      "Токов Руслан Мухарбиевич": 298,
-      "Цумаев Муса Мутушович": 3,
-      "Шаваев Камал Хасанович": 2,
-      "Шхагапсоев Сафарбий Хасанбиевич": 317,
-      "Шхагошев Адальби Люлевич": 909
+      "gas:candidate-vibid:2072000343159": 2,
+      "gas:candidate-vibid:2072000343215": 374,
+      "gas:candidate-vibid:2072000343170": 0,
+      "gas:candidate-vibid:2072000343368": 298,
+      "gas:candidate-vibid:2072000343546": 3,
+      "gas:candidate-vibid:2072000343182": 2,
+      "gas:candidate-vibid:2072000343193": 317,
+      "gas:candidate-vibid:2072000343204": 909
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000333033&vrn=100100067795849&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000333033&type=464",
@@ -2073,14 +2073,14 @@ export const duma_2016_uik_463_region_7_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жилов Хасан Русланович": 2,
-      "Паштов Борис Султанович": 211,
-      "Султанова Айшат Токболатовна": 0,
-      "Токов Руслан Мухарбиевич": 162,
-      "Цумаев Муса Мутушович": 2,
-      "Шаваев Камал Хасанович": 1,
-      "Шхагапсоев Сафарбий Хасанбиевич": 166,
-      "Шхагошев Адальби Люлевич": 496
+      "gas:candidate-vibid:2072000343159": 2,
+      "gas:candidate-vibid:2072000343215": 211,
+      "gas:candidate-vibid:2072000343170": 0,
+      "gas:candidate-vibid:2072000343368": 162,
+      "gas:candidate-vibid:2072000343546": 2,
+      "gas:candidate-vibid:2072000343182": 1,
+      "gas:candidate-vibid:2072000343193": 166,
+      "gas:candidate-vibid:2072000343204": 496
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000333033&vrn=100100067795849&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000333033&type=464",
@@ -2131,14 +2131,14 @@ export const duma_2016_uik_463_region_7_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жилов Хасан Русланович": 0,
-      "Паштов Борис Султанович": 168,
-      "Султанова Айшат Токболатовна": 2,
-      "Токов Руслан Мухарбиевич": 132,
-      "Цумаев Муса Мутушович": 1,
-      "Шаваев Камал Хасанович": 0,
-      "Шхагапсоев Сафарбий Хасанбиевич": 135,
-      "Шхагошев Адальби Люлевич": 372
+      "gas:candidate-vibid:2072000343159": 0,
+      "gas:candidate-vibid:2072000343215": 168,
+      "gas:candidate-vibid:2072000343170": 2,
+      "gas:candidate-vibid:2072000343368": 132,
+      "gas:candidate-vibid:2072000343546": 1,
+      "gas:candidate-vibid:2072000343182": 0,
+      "gas:candidate-vibid:2072000343193": 135,
+      "gas:candidate-vibid:2072000343204": 372
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000333033&vrn=100100067795849&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000333033&type=464",
@@ -2189,14 +2189,14 @@ export const duma_2016_uik_463_region_7_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жилов Хасан Русланович": 2,
-      "Паштов Борис Султанович": 327,
-      "Султанова Айшат Токболатовна": 0,
-      "Токов Руслан Мухарбиевич": 343,
-      "Цумаев Муса Мутушович": 3,
-      "Шаваев Камал Хасанович": 2,
-      "Шхагапсоев Сафарбий Хасанбиевич": 303,
-      "Шхагошев Адальби Люлевич": 1002
+      "gas:candidate-vibid:2072000343159": 2,
+      "gas:candidate-vibid:2072000343215": 327,
+      "gas:candidate-vibid:2072000343170": 0,
+      "gas:candidate-vibid:2072000343368": 343,
+      "gas:candidate-vibid:2072000343546": 3,
+      "gas:candidate-vibid:2072000343182": 2,
+      "gas:candidate-vibid:2072000343193": 303,
+      "gas:candidate-vibid:2072000343204": 1002
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000333033&vrn=100100067795849&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000333033&type=464",
@@ -2247,14 +2247,14 @@ export const duma_2016_uik_463_region_7_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жилов Хасан Русланович": 3,
-      "Паштов Борис Султанович": 173,
-      "Султанова Айшат Токболатовна": 3,
-      "Токов Руслан Мухарбиевич": 171,
-      "Цумаев Муса Мутушович": 7,
-      "Шаваев Камал Хасанович": 0,
-      "Шхагапсоев Сафарбий Хасанбиевич": 150,
-      "Шхагошев Адальби Люлевич": 535
+      "gas:candidate-vibid:2072000343159": 3,
+      "gas:candidate-vibid:2072000343215": 173,
+      "gas:candidate-vibid:2072000343170": 3,
+      "gas:candidate-vibid:2072000343368": 171,
+      "gas:candidate-vibid:2072000343546": 7,
+      "gas:candidate-vibid:2072000343182": 0,
+      "gas:candidate-vibid:2072000343193": 150,
+      "gas:candidate-vibid:2072000343204": 535
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000333033&vrn=100100067795849&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000333033&type=464",
@@ -2305,14 +2305,14 @@ export const duma_2016_uik_463_region_7_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жилов Хасан Русланович": 3,
-      "Паштов Борис Султанович": 272,
-      "Султанова Айшат Токболатовна": 0,
-      "Токов Руслан Мухарбиевич": 259,
-      "Цумаев Муса Мутушович": 2,
-      "Шаваев Камал Хасанович": 1,
-      "Шхагапсоев Сафарбий Хасанбиевич": 229,
-      "Шхагошев Адальби Люлевич": 722
+      "gas:candidate-vibid:2072000343159": 3,
+      "gas:candidate-vibid:2072000343215": 272,
+      "gas:candidate-vibid:2072000343170": 0,
+      "gas:candidate-vibid:2072000343368": 259,
+      "gas:candidate-vibid:2072000343546": 2,
+      "gas:candidate-vibid:2072000343182": 1,
+      "gas:candidate-vibid:2072000343193": 229,
+      "gas:candidate-vibid:2072000343204": 722
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000333033&vrn=100100067795849&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000333033&type=464",
@@ -2363,14 +2363,14 @@ export const duma_2016_uik_463_region_7_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жилов Хасан Русланович": 4,
-      "Паштов Борис Султанович": 194,
-      "Султанова Айшат Токболатовна": 3,
-      "Токов Руслан Мухарбиевич": 147,
-      "Цумаев Муса Мутушович": 1,
-      "Шаваев Камал Хасанович": 3,
-      "Шхагапсоев Сафарбий Хасанбиевич": 159,
-      "Шхагошев Адальби Люлевич": 531
+      "gas:candidate-vibid:2072000343159": 4,
+      "gas:candidate-vibid:2072000343215": 194,
+      "gas:candidate-vibid:2072000343170": 3,
+      "gas:candidate-vibid:2072000343368": 147,
+      "gas:candidate-vibid:2072000343546": 1,
+      "gas:candidate-vibid:2072000343182": 3,
+      "gas:candidate-vibid:2072000343193": 159,
+      "gas:candidate-vibid:2072000343204": 531
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000333033&vrn=100100067795849&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000333033&type=464",
@@ -2421,14 +2421,14 @@ export const duma_2016_uik_463_region_7_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жилов Хасан Русланович": 0,
-      "Паштов Борис Султанович": 391,
-      "Султанова Айшат Токболатовна": 2,
-      "Токов Руслан Мухарбиевич": 378,
-      "Цумаев Муса Мутушович": 4,
-      "Шаваев Камал Хасанович": 0,
-      "Шхагапсоев Сафарбий Хасанбиевич": 337,
-      "Шхагошев Адальби Люлевич": 925
+      "gas:candidate-vibid:2072000343159": 0,
+      "gas:candidate-vibid:2072000343215": 391,
+      "gas:candidate-vibid:2072000343170": 2,
+      "gas:candidate-vibid:2072000343368": 378,
+      "gas:candidate-vibid:2072000343546": 4,
+      "gas:candidate-vibid:2072000343182": 0,
+      "gas:candidate-vibid:2072000343193": 337,
+      "gas:candidate-vibid:2072000343204": 925
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000333033&vrn=100100067795849&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000333033&type=464",
@@ -2479,14 +2479,14 @@ export const duma_2016_uik_463_region_7_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жилов Хасан Русланович": 1,
-      "Паштов Борис Султанович": 276,
-      "Султанова Айшат Токболатовна": 2,
-      "Токов Руслан Мухарбиевич": 277,
-      "Цумаев Муса Мутушович": 3,
-      "Шаваев Камал Хасанович": 0,
-      "Шхагапсоев Сафарбий Хасанбиевич": 245,
-      "Шхагошев Адальби Люлевич": 778
+      "gas:candidate-vibid:2072000343159": 1,
+      "gas:candidate-vibid:2072000343215": 276,
+      "gas:candidate-vibid:2072000343170": 2,
+      "gas:candidate-vibid:2072000343368": 277,
+      "gas:candidate-vibid:2072000343546": 3,
+      "gas:candidate-vibid:2072000343182": 0,
+      "gas:candidate-vibid:2072000343193": 245,
+      "gas:candidate-vibid:2072000343204": 778
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000333033&vrn=100100067795849&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000333033&type=464",
@@ -2537,14 +2537,14 @@ export const duma_2016_uik_463_region_7_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жилов Хасан Русланович": 3,
-      "Паштов Борис Султанович": 361,
-      "Султанова Айшат Токболатовна": 0,
-      "Токов Руслан Мухарбиевич": 330,
-      "Цумаев Муса Мутушович": 3,
-      "Шаваев Камал Хасанович": 0,
-      "Шхагапсоев Сафарбий Хасанбиевич": 294,
-      "Шхагошев Адальби Люлевич": 781
+      "gas:candidate-vibid:2072000343159": 3,
+      "gas:candidate-vibid:2072000343215": 361,
+      "gas:candidate-vibid:2072000343170": 0,
+      "gas:candidate-vibid:2072000343368": 330,
+      "gas:candidate-vibid:2072000343546": 3,
+      "gas:candidate-vibid:2072000343182": 0,
+      "gas:candidate-vibid:2072000343193": 294,
+      "gas:candidate-vibid:2072000343204": 781
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000333033&vrn=100100067795849&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000333033&type=464",
@@ -2595,14 +2595,14 @@ export const duma_2016_uik_463_region_7_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жилов Хасан Русланович": 3,
-      "Паштов Борис Султанович": 211,
-      "Султанова Айшат Токболатовна": 0,
-      "Токов Руслан Мухарбиевич": 212,
-      "Цумаев Муса Мутушович": 2,
-      "Шаваев Камал Хасанович": 2,
-      "Шхагапсоев Сафарбий Хасанбиевич": 207,
-      "Шхагошев Адальби Люлевич": 633
+      "gas:candidate-vibid:2072000343159": 3,
+      "gas:candidate-vibid:2072000343215": 211,
+      "gas:candidate-vibid:2072000343170": 0,
+      "gas:candidate-vibid:2072000343368": 212,
+      "gas:candidate-vibid:2072000343546": 2,
+      "gas:candidate-vibid:2072000343182": 2,
+      "gas:candidate-vibid:2072000343193": 207,
+      "gas:candidate-vibid:2072000343204": 633
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000333033&vrn=100100067795849&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000333033&type=464",
@@ -2653,14 +2653,14 @@ export const duma_2016_uik_463_region_7_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жилов Хасан Русланович": 0,
-      "Паштов Борис Султанович": 312,
-      "Султанова Айшат Токболатовна": 2,
-      "Токов Руслан Мухарбиевич": 295,
-      "Цумаев Муса Мутушович": 3,
-      "Шаваев Камал Хасанович": 0,
-      "Шхагапсоев Сафарбий Хасанбиевич": 261,
-      "Шхагошев Адальби Люлевич": 803
+      "gas:candidate-vibid:2072000343159": 0,
+      "gas:candidate-vibid:2072000343215": 312,
+      "gas:candidate-vibid:2072000343170": 2,
+      "gas:candidate-vibid:2072000343368": 295,
+      "gas:candidate-vibid:2072000343546": 3,
+      "gas:candidate-vibid:2072000343182": 0,
+      "gas:candidate-vibid:2072000343193": 261,
+      "gas:candidate-vibid:2072000343204": 803
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000333033&vrn=100100067795849&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000333033&type=464",
@@ -2711,14 +2711,14 @@ export const duma_2016_uik_463_region_7_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жилов Хасан Русланович": 3,
-      "Паштов Борис Султанович": 243,
-      "Султанова Айшат Токболатовна": 0,
-      "Токов Руслан Мухарбиевич": 223,
-      "Цумаев Муса Мутушович": 2,
-      "Шаваев Камал Хасанович": 3,
-      "Шхагапсоев Сафарбий Хасанбиевич": 229,
-      "Шхагошев Адальби Люлевич": 701
+      "gas:candidate-vibid:2072000343159": 3,
+      "gas:candidate-vibid:2072000343215": 243,
+      "gas:candidate-vibid:2072000343170": 0,
+      "gas:candidate-vibid:2072000343368": 223,
+      "gas:candidate-vibid:2072000343546": 2,
+      "gas:candidate-vibid:2072000343182": 3,
+      "gas:candidate-vibid:2072000343193": 229,
+      "gas:candidate-vibid:2072000343204": 701
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000333033&vrn=100100067795849&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000333033&type=464",
@@ -2769,14 +2769,14 @@ export const duma_2016_uik_463_region_7_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жилов Хасан Русланович": 0,
-      "Паштов Борис Султанович": 367,
-      "Султанова Айшат Токболатовна": 2,
-      "Токов Руслан Мухарбиевич": 292,
-      "Цумаев Муса Мутушович": 3,
-      "Шаваев Камал Хасанович": 0,
-      "Шхагапсоев Сафарбий Хасанбиевич": 257,
-      "Шхагошев Адальби Люлевич": 847
+      "gas:candidate-vibid:2072000343159": 0,
+      "gas:candidate-vibid:2072000343215": 367,
+      "gas:candidate-vibid:2072000343170": 2,
+      "gas:candidate-vibid:2072000343368": 292,
+      "gas:candidate-vibid:2072000343546": 3,
+      "gas:candidate-vibid:2072000343182": 0,
+      "gas:candidate-vibid:2072000343193": 257,
+      "gas:candidate-vibid:2072000343204": 847
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000333033&vrn=100100067795849&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000333033&type=464",
@@ -2827,14 +2827,14 @@ export const duma_2016_uik_463_region_7_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жилов Хасан Русланович": 2,
-      "Паштов Борис Султанович": 328,
-      "Султанова Айшат Токболатовна": 3,
-      "Токов Руслан Мухарбиевич": 345,
-      "Цумаев Муса Мутушович": 3,
-      "Шаваев Камал Хасанович": 7,
-      "Шхагапсоев Сафарбий Хасанбиевич": 308,
-      "Шхагошев Адальби Люлевич": 865
+      "gas:candidate-vibid:2072000343159": 2,
+      "gas:candidate-vibid:2072000343215": 328,
+      "gas:candidate-vibid:2072000343170": 3,
+      "gas:candidate-vibid:2072000343368": 345,
+      "gas:candidate-vibid:2072000343546": 3,
+      "gas:candidate-vibid:2072000343182": 7,
+      "gas:candidate-vibid:2072000343193": 308,
+      "gas:candidate-vibid:2072000343204": 865
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000333033&vrn=100100067795849&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000333033&type=464",
@@ -2885,14 +2885,14 @@ export const duma_2016_uik_463_region_7_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жилов Хасан Русланович": 3,
-      "Паштов Борис Султанович": 414,
-      "Султанова Айшат Токболатовна": 0,
-      "Токов Руслан Мухарбиевич": 371,
-      "Цумаев Муса Мутушович": 4,
-      "Шаваев Камал Хасанович": 0,
-      "Шхагапсоев Сафарбий Хасанбиевич": 349,
-      "Шхагошев Адальби Люлевич": 993
+      "gas:candidate-vibid:2072000343159": 3,
+      "gas:candidate-vibid:2072000343215": 414,
+      "gas:candidate-vibid:2072000343170": 0,
+      "gas:candidate-vibid:2072000343368": 371,
+      "gas:candidate-vibid:2072000343546": 4,
+      "gas:candidate-vibid:2072000343182": 0,
+      "gas:candidate-vibid:2072000343193": 349,
+      "gas:candidate-vibid:2072000343204": 993
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000333033&vrn=100100067795849&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000333033&type=464",
@@ -2943,14 +2943,14 @@ export const duma_2016_uik_463_region_7_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жилов Хасан Русланович": 0,
-      "Паштов Борис Султанович": 357,
-      "Султанова Айшат Токболатовна": 3,
-      "Токов Руслан Мухарбиевич": 336,
-      "Цумаев Муса Мутушович": 3,
-      "Шаваев Камал Хасанович": 0,
-      "Шхагапсоев Сафарбий Хасанбиевич": 298,
-      "Шхагошев Адальби Люлевич": 909
+      "gas:candidate-vibid:2072000343159": 0,
+      "gas:candidate-vibid:2072000343215": 357,
+      "gas:candidate-vibid:2072000343170": 3,
+      "gas:candidate-vibid:2072000343368": 336,
+      "gas:candidate-vibid:2072000343546": 3,
+      "gas:candidate-vibid:2072000343182": 0,
+      "gas:candidate-vibid:2072000343193": 298,
+      "gas:candidate-vibid:2072000343204": 909
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000333033&vrn=100100067795849&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000333033&type=464",
@@ -3001,14 +3001,14 @@ export const duma_2016_uik_463_region_7_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жилов Хасан Русланович": 0,
-      "Паштов Борис Султанович": 410,
-      "Султанова Айшат Токболатовна": 1,
-      "Токов Руслан Мухарбиевич": 418,
-      "Цумаев Муса Мутушович": 4,
-      "Шаваев Камал Хасанович": 0,
-      "Шхагапсоев Сафарбий Хасанбиевич": 374,
-      "Шхагошев Адальби Люлевич": 1018
+      "gas:candidate-vibid:2072000343159": 0,
+      "gas:candidate-vibid:2072000343215": 410,
+      "gas:candidate-vibid:2072000343170": 1,
+      "gas:candidate-vibid:2072000343368": 418,
+      "gas:candidate-vibid:2072000343546": 4,
+      "gas:candidate-vibid:2072000343182": 0,
+      "gas:candidate-vibid:2072000343193": 374,
+      "gas:candidate-vibid:2072000343204": 1018
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000333033&vrn=100100067795849&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000333033&type=464",
@@ -3059,14 +3059,14 @@ export const duma_2016_uik_463_region_7_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жилов Хасан Русланович": 4,
-      "Паштов Борис Султанович": 207,
-      "Султанова Айшат Токболатовна": 2,
-      "Токов Руслан Мухарбиевич": 194,
-      "Цумаев Муса Мутушович": 2,
-      "Шаваев Камал Хасанович": 0,
-      "Шхагапсоев Сафарбий Хасанбиевич": 170,
-      "Шхагошев Адальби Люлевич": 598
+      "gas:candidate-vibid:2072000343159": 4,
+      "gas:candidate-vibid:2072000343215": 207,
+      "gas:candidate-vibid:2072000343170": 2,
+      "gas:candidate-vibid:2072000343368": 194,
+      "gas:candidate-vibid:2072000343546": 2,
+      "gas:candidate-vibid:2072000343182": 0,
+      "gas:candidate-vibid:2072000343193": 170,
+      "gas:candidate-vibid:2072000343204": 598
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000333033&vrn=100100067795849&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000333033&type=464",
@@ -3117,14 +3117,14 @@ export const duma_2016_uik_463_region_7_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жилов Хасан Русланович": 0,
-      "Паштов Борис Султанович": 280,
-      "Султанова Айшат Токболатовна": 1,
-      "Токов Руслан Мухарбиевич": 248,
-      "Цумаев Муса Мутушович": 2,
-      "Шаваев Камал Хасанович": 0,
-      "Шхагапсоев Сафарбий Хасанбиевич": 219,
-      "Шхагошев Адальби Люлевич": 701
+      "gas:candidate-vibid:2072000343159": 0,
+      "gas:candidate-vibid:2072000343215": 280,
+      "gas:candidate-vibid:2072000343170": 1,
+      "gas:candidate-vibid:2072000343368": 248,
+      "gas:candidate-vibid:2072000343546": 2,
+      "gas:candidate-vibid:2072000343182": 0,
+      "gas:candidate-vibid:2072000343193": 219,
+      "gas:candidate-vibid:2072000343204": 701
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000333033&vrn=100100067795849&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000333033&type=464",
@@ -3175,14 +3175,14 @@ export const duma_2016_uik_463_region_7_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жилов Хасан Русланович": 2,
-      "Паштов Борис Султанович": 104,
-      "Султанова Айшат Токболатовна": 2,
-      "Токов Руслан Мухарбиевич": 135,
-      "Цумаев Муса Мутушович": 2,
-      "Шаваев Камал Хасанович": 2,
-      "Шхагапсоев Сафарбий Хасанбиевич": 102,
-      "Шхагошев Адальби Люлевич": 345
+      "gas:candidate-vibid:2072000343159": 2,
+      "gas:candidate-vibid:2072000343215": 104,
+      "gas:candidate-vibid:2072000343170": 2,
+      "gas:candidate-vibid:2072000343368": 135,
+      "gas:candidate-vibid:2072000343546": 2,
+      "gas:candidate-vibid:2072000343182": 2,
+      "gas:candidate-vibid:2072000343193": 102,
+      "gas:candidate-vibid:2072000343204": 345
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000333033&vrn=100100067795849&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000333033&type=464",
@@ -3233,14 +3233,14 @@ export const duma_2016_uik_463_region_7_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жилов Хасан Русланович": 1,
-      "Паштов Борис Султанович": 234,
-      "Султанова Айшат Токболатовна": 2,
-      "Токов Руслан Мухарбиевич": 204,
-      "Цумаев Муса Мутушович": 2,
-      "Шаваев Камал Хасанович": 0,
-      "Шхагапсоев Сафарбий Хасанбиевич": 179,
-      "Шхагошев Адальби Люлевич": 602
+      "gas:candidate-vibid:2072000343159": 1,
+      "gas:candidate-vibid:2072000343215": 234,
+      "gas:candidate-vibid:2072000343170": 2,
+      "gas:candidate-vibid:2072000343368": 204,
+      "gas:candidate-vibid:2072000343546": 2,
+      "gas:candidate-vibid:2072000343182": 0,
+      "gas:candidate-vibid:2072000343193": 179,
+      "gas:candidate-vibid:2072000343204": 602
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000333033&vrn=100100067795849&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000333033&type=464",
@@ -3291,14 +3291,14 @@ export const duma_2016_uik_463_region_7_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жилов Хасан Русланович": 0,
-      "Паштов Борис Султанович": 219,
-      "Султанова Айшат Токболатовна": 1,
-      "Токов Руслан Мухарбиевич": 297,
-      "Цумаев Муса Мутушович": 2,
-      "Шаваев Камал Хасанович": 0,
-      "Шхагапсоев Сафарбий Хасанбиевич": 218,
-      "Шхагошев Адальби Люлевич": 712
+      "gas:candidate-vibid:2072000343159": 0,
+      "gas:candidate-vibid:2072000343215": 219,
+      "gas:candidate-vibid:2072000343170": 1,
+      "gas:candidate-vibid:2072000343368": 297,
+      "gas:candidate-vibid:2072000343546": 2,
+      "gas:candidate-vibid:2072000343182": 0,
+      "gas:candidate-vibid:2072000343193": 218,
+      "gas:candidate-vibid:2072000343204": 712
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000333033&vrn=100100067795849&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000333033&type=464",
@@ -3349,14 +3349,14 @@ export const duma_2016_uik_463_region_7_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жилов Хасан Русланович": 3,
-      "Паштов Борис Султанович": 256,
-      "Султанова Айшат Токболатовна": 0,
-      "Токов Руслан Мухарбиевич": 197,
-      "Цумаев Муса Мутушович": 2,
-      "Шаваев Камал Хасанович": 2,
-      "Шхагапсоев Сафарбий Хасанбиевич": 173,
-      "Шхагошев Адальби Люлевич": 592
+      "gas:candidate-vibid:2072000343159": 3,
+      "gas:candidate-vibid:2072000343215": 256,
+      "gas:candidate-vibid:2072000343170": 0,
+      "gas:candidate-vibid:2072000343368": 197,
+      "gas:candidate-vibid:2072000343546": 2,
+      "gas:candidate-vibid:2072000343182": 2,
+      "gas:candidate-vibid:2072000343193": 173,
+      "gas:candidate-vibid:2072000343204": 592
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000333033&vrn=100100067795849&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000333033&type=464",
@@ -3407,14 +3407,14 @@ export const duma_2016_uik_463_region_7_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жилов Хасан Русланович": 0,
-      "Паштов Борис Султанович": 207,
-      "Султанова Айшат Токболатовна": 3,
-      "Токов Руслан Мухарбиевич": 191,
-      "Цумаев Муса Мутушович": 2,
-      "Шаваев Камал Хасанович": 0,
-      "Шхагапсоев Сафарбий Хасанбиевич": 167,
-      "Шхагошев Адальби Люлевич": 610
+      "gas:candidate-vibid:2072000343159": 0,
+      "gas:candidate-vibid:2072000343215": 207,
+      "gas:candidate-vibid:2072000343170": 3,
+      "gas:candidate-vibid:2072000343368": 191,
+      "gas:candidate-vibid:2072000343546": 2,
+      "gas:candidate-vibid:2072000343182": 0,
+      "gas:candidate-vibid:2072000343193": 167,
+      "gas:candidate-vibid:2072000343204": 610
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000333033&vrn=100100067795849&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000333033&type=464",
@@ -3465,14 +3465,14 @@ export const duma_2016_uik_463_region_7_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жилов Хасан Русланович": 1,
-      "Паштов Борис Султанович": 381,
-      "Султанова Айшат Токболатовна": 2,
-      "Токов Руслан Мухарбиевич": 359,
-      "Цумаев Муса Мутушович": 3,
-      "Шаваев Камал Хасанович": 0,
-      "Шхагапсоев Сафарбий Хасанбиевич": 318,
-      "Шхагошев Адальби Люлевич": 978
+      "gas:candidate-vibid:2072000343159": 1,
+      "gas:candidate-vibid:2072000343215": 381,
+      "gas:candidate-vibid:2072000343170": 2,
+      "gas:candidate-vibid:2072000343368": 359,
+      "gas:candidate-vibid:2072000343546": 3,
+      "gas:candidate-vibid:2072000343182": 0,
+      "gas:candidate-vibid:2072000343193": 318,
+      "gas:candidate-vibid:2072000343204": 978
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000333033&vrn=100100067795849&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000333033&type=464",
@@ -3523,14 +3523,14 @@ export const duma_2016_uik_463_region_7_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жилов Хасан Русланович": 1,
-      "Паштов Борис Султанович": 157,
-      "Султанова Айшат Токболатовна": 2,
-      "Токов Руслан Мухарбиевич": 141,
-      "Цумаев Муса Мутушович": 1,
-      "Шаваев Камал Хасанович": 0,
-      "Шхагапсоев Сафарбий Хасанбиевич": 153,
-      "Шхагошев Адальби Люлевич": 454
+      "gas:candidate-vibid:2072000343159": 1,
+      "gas:candidate-vibid:2072000343215": 157,
+      "gas:candidate-vibid:2072000343170": 2,
+      "gas:candidate-vibid:2072000343368": 141,
+      "gas:candidate-vibid:2072000343546": 1,
+      "gas:candidate-vibid:2072000343182": 0,
+      "gas:candidate-vibid:2072000343193": 153,
+      "gas:candidate-vibid:2072000343204": 454
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000333033&vrn=100100067795849&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000333033&type=464",
@@ -3581,14 +3581,14 @@ export const duma_2016_uik_463_region_7_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жилов Хасан Русланович": 2,
-      "Паштов Борис Султанович": 231,
-      "Султанова Айшат Токболатовна": 2,
-      "Токов Руслан Мухарбиевич": 208,
-      "Цумаев Муса Мутушович": 2,
-      "Шаваев Камал Хасанович": 0,
-      "Шхагапсоев Сафарбий Хасанбиевич": 184,
-      "Шхагошев Адальби Люлевич": 590
+      "gas:candidate-vibid:2072000343159": 2,
+      "gas:candidate-vibid:2072000343215": 231,
+      "gas:candidate-vibid:2072000343170": 2,
+      "gas:candidate-vibid:2072000343368": 208,
+      "gas:candidate-vibid:2072000343546": 2,
+      "gas:candidate-vibid:2072000343182": 0,
+      "gas:candidate-vibid:2072000343193": 184,
+      "gas:candidate-vibid:2072000343204": 590
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000333033&vrn=100100067795849&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000333033&type=464",
@@ -3639,14 +3639,14 @@ export const duma_2016_uik_463_region_7_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жилов Хасан Русланович": 3,
-      "Паштов Борис Султанович": 117,
-      "Султанова Айшат Токболатовна": 1,
-      "Токов Руслан Мухарбиевич": 104,
-      "Цумаев Муса Мутушович": 1,
-      "Шаваев Камал Хасанович": 3,
-      "Шхагапсоев Сафарбий Хасанбиевич": 92,
-      "Шхагошев Адальби Люлевич": 315
+      "gas:candidate-vibid:2072000343159": 3,
+      "gas:candidate-vibid:2072000343215": 117,
+      "gas:candidate-vibid:2072000343170": 1,
+      "gas:candidate-vibid:2072000343368": 104,
+      "gas:candidate-vibid:2072000343546": 1,
+      "gas:candidate-vibid:2072000343182": 3,
+      "gas:candidate-vibid:2072000343193": 92,
+      "gas:candidate-vibid:2072000343204": 315
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000333033&vrn=100100067795849&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000333033&type=464",
@@ -3697,14 +3697,14 @@ export const duma_2016_uik_463_region_7_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жилов Хасан Русланович": 4,
-      "Паштов Борис Султанович": 165,
-      "Султанова Айшат Токболатовна": 0,
-      "Токов Руслан Мухарбиевич": 176,
-      "Цумаев Муса Мутушович": 1,
-      "Шаваев Камал Хасанович": 2,
-      "Шхагапсоев Сафарбий Хасанбиевич": 177,
-      "Шхагошев Адальби Люлевич": 563
+      "gas:candidate-vibid:2072000343159": 4,
+      "gas:candidate-vibid:2072000343215": 165,
+      "gas:candidate-vibid:2072000343170": 0,
+      "gas:candidate-vibid:2072000343368": 176,
+      "gas:candidate-vibid:2072000343546": 1,
+      "gas:candidate-vibid:2072000343182": 2,
+      "gas:candidate-vibid:2072000343193": 177,
+      "gas:candidate-vibid:2072000343204": 563
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000333033&vrn=100100067795849&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000333033&type=464",
@@ -3755,14 +3755,14 @@ export const duma_2016_uik_463_region_7_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жилов Хасан Русланович": 4,
-      "Паштов Борис Султанович": 207,
-      "Султанова Айшат Токболатовна": 3,
-      "Токов Руслан Мухарбиевич": 182,
-      "Цумаев Муса Мутушович": 2,
-      "Шаваев Камал Хасанович": 4,
-      "Шхагапсоев Сафарбий Хасанбиевич": 160,
-      "Шхагошев Адальби Люлевич": 570
+      "gas:candidate-vibid:2072000343159": 4,
+      "gas:candidate-vibid:2072000343215": 207,
+      "gas:candidate-vibid:2072000343170": 3,
+      "gas:candidate-vibid:2072000343368": 182,
+      "gas:candidate-vibid:2072000343546": 2,
+      "gas:candidate-vibid:2072000343182": 4,
+      "gas:candidate-vibid:2072000343193": 160,
+      "gas:candidate-vibid:2072000343204": 570
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000333033&vrn=100100067795849&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000333033&type=464",
@@ -3813,14 +3813,14 @@ export const duma_2016_uik_463_region_7_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жилов Хасан Русланович": 1,
-      "Паштов Борис Султанович": 212,
-      "Султанова Айшат Токболатовна": 1,
-      "Токов Руслан Мухарбиевич": 198,
-      "Цумаев Муса Мутушович": 2,
-      "Шаваев Камал Хасанович": 0,
-      "Шхагапсоев Сафарбий Хасанбиевич": 176,
-      "Шхагошев Адальби Люлевич": 497
+      "gas:candidate-vibid:2072000343159": 1,
+      "gas:candidate-vibid:2072000343215": 212,
+      "gas:candidate-vibid:2072000343170": 1,
+      "gas:candidate-vibid:2072000343368": 198,
+      "gas:candidate-vibid:2072000343546": 2,
+      "gas:candidate-vibid:2072000343182": 0,
+      "gas:candidate-vibid:2072000343193": 176,
+      "gas:candidate-vibid:2072000343204": 497
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000333033&vrn=100100067795849&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000333033&type=464",
@@ -3871,14 +3871,14 @@ export const duma_2016_uik_463_region_7_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жилов Хасан Русланович": 0,
-      "Паштов Борис Султанович": 224,
-      "Султанова Айшат Токболатовна": 3,
-      "Токов Руслан Мухарбиевич": 211,
-      "Цумаев Муса Мутушович": 2,
-      "Шаваев Камал Хасанович": 0,
-      "Шхагапсоев Сафарбий Хасанбиевич": 206,
-      "Шхагошев Адальби Люлевич": 583
+      "gas:candidate-vibid:2072000343159": 0,
+      "gas:candidate-vibid:2072000343215": 224,
+      "gas:candidate-vibid:2072000343170": 3,
+      "gas:candidate-vibid:2072000343368": 211,
+      "gas:candidate-vibid:2072000343546": 2,
+      "gas:candidate-vibid:2072000343182": 0,
+      "gas:candidate-vibid:2072000343193": 206,
+      "gas:candidate-vibid:2072000343204": 583
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000333033&vrn=100100067795849&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000333033&type=464",
@@ -3929,14 +3929,14 @@ export const duma_2016_uik_463_region_7_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жилов Хасан Русланович": 0,
-      "Паштов Борис Султанович": 308,
-      "Султанова Айшат Токболатовна": 2,
-      "Токов Руслан Мухарбиевич": 296,
-      "Цумаев Муса Мутушович": 3,
-      "Шаваев Камал Хасанович": 0,
-      "Шхагапсоев Сафарбий Хасанбиевич": 263,
-      "Шхагошев Адальби Люлевич": 756
+      "gas:candidate-vibid:2072000343159": 0,
+      "gas:candidate-vibid:2072000343215": 308,
+      "gas:candidate-vibid:2072000343170": 2,
+      "gas:candidate-vibid:2072000343368": 296,
+      "gas:candidate-vibid:2072000343546": 3,
+      "gas:candidate-vibid:2072000343182": 0,
+      "gas:candidate-vibid:2072000343193": 263,
+      "gas:candidate-vibid:2072000343204": 756
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000333033&vrn=100100067795849&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000333033&type=464",
@@ -3987,14 +3987,14 @@ export const duma_2016_uik_463_region_7_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жилов Хасан Русланович": 0,
-      "Паштов Борис Султанович": 257,
-      "Султанова Айшат Токболатовна": 3,
-      "Токов Руслан Мухарбиевич": 257,
-      "Цумаев Муса Мутушович": 2,
-      "Шаваев Камал Хасанович": 0,
-      "Шхагапсоев Сафарбий Хасанбиевич": 228,
-      "Шхагошев Адальби Люлевич": 701
+      "gas:candidate-vibid:2072000343159": 0,
+      "gas:candidate-vibid:2072000343215": 257,
+      "gas:candidate-vibid:2072000343170": 3,
+      "gas:candidate-vibid:2072000343368": 257,
+      "gas:candidate-vibid:2072000343546": 2,
+      "gas:candidate-vibid:2072000343182": 0,
+      "gas:candidate-vibid:2072000343193": 228,
+      "gas:candidate-vibid:2072000343204": 701
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000333033&vrn=100100067795849&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000333033&type=464",
@@ -4045,14 +4045,14 @@ export const duma_2016_uik_463_region_7_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жилов Хасан Русланович": 4,
-      "Паштов Борис Султанович": 209,
-      "Султанова Айшат Токболатовна": 0,
-      "Токов Руслан Мухарбиевич": 183,
-      "Цумаев Муса Мутушович": 2,
-      "Шаваев Камал Хасанович": 0,
-      "Шхагапсоев Сафарбий Хасанбиевич": 160,
-      "Шхагошев Адальби Люлевич": 577
+      "gas:candidate-vibid:2072000343159": 4,
+      "gas:candidate-vibid:2072000343215": 209,
+      "gas:candidate-vibid:2072000343170": 0,
+      "gas:candidate-vibid:2072000343368": 183,
+      "gas:candidate-vibid:2072000343546": 2,
+      "gas:candidate-vibid:2072000343182": 0,
+      "gas:candidate-vibid:2072000343193": 160,
+      "gas:candidate-vibid:2072000343204": 577
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000333033&vrn=100100067795849&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000333033&type=464",
@@ -4103,14 +4103,14 @@ export const duma_2016_uik_463_region_7_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жилов Хасан Русланович": 0,
-      "Паштов Борис Султанович": 234,
-      "Султанова Айшат Токболатовна": 3,
-      "Токов Руслан Мухарбиевич": 204,
-      "Цумаев Муса Мутушович": 2,
-      "Шаваев Камал Хасанович": 0,
-      "Шхагапсоев Сафарбий Хасанбиевич": 179,
-      "Шхагошев Адальби Люлевич": 606
+      "gas:candidate-vibid:2072000343159": 0,
+      "gas:candidate-vibid:2072000343215": 234,
+      "gas:candidate-vibid:2072000343170": 3,
+      "gas:candidate-vibid:2072000343368": 204,
+      "gas:candidate-vibid:2072000343546": 2,
+      "gas:candidate-vibid:2072000343182": 0,
+      "gas:candidate-vibid:2072000343193": 179,
+      "gas:candidate-vibid:2072000343204": 606
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000333033&vrn=100100067795849&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000333033&type=464",
@@ -4161,14 +4161,14 @@ export const duma_2016_uik_463_region_7_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жилов Хасан Русланович": 2,
-      "Паштов Борис Султанович": 381,
-      "Султанова Айшат Токболатовна": 0,
-      "Токов Руслан Мухарбиевич": 349,
-      "Цумаев Муса Мутушович": 3,
-      "Шаваев Камал Хасанович": 2,
-      "Шхагапсоев Сафарбий Хасанбиевич": 310,
-      "Шхагошев Адальби Люлевич": 899
+      "gas:candidate-vibid:2072000343159": 2,
+      "gas:candidate-vibid:2072000343215": 381,
+      "gas:candidate-vibid:2072000343170": 0,
+      "gas:candidate-vibid:2072000343368": 349,
+      "gas:candidate-vibid:2072000343546": 3,
+      "gas:candidate-vibid:2072000343182": 2,
+      "gas:candidate-vibid:2072000343193": 310,
+      "gas:candidate-vibid:2072000343204": 899
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000333033&vrn=100100067795849&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000333033&type=464",
@@ -4219,14 +4219,14 @@ export const duma_2016_uik_463_region_7_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жилов Хасан Русланович": 2,
-      "Паштов Борис Султанович": 196,
-      "Султанова Айшат Токболатовна": 2,
-      "Токов Руслан Мухарбиевич": 160,
-      "Цумаев Муса Мутушович": 1,
-      "Шаваев Камал Хасанович": 2,
-      "Шхагапсоев Сафарбий Хасанбиевич": 186,
-      "Шхагошев Адальби Люлевич": 628
+      "gas:candidate-vibid:2072000343159": 2,
+      "gas:candidate-vibid:2072000343215": 196,
+      "gas:candidate-vibid:2072000343170": 2,
+      "gas:candidate-vibid:2072000343368": 160,
+      "gas:candidate-vibid:2072000343546": 1,
+      "gas:candidate-vibid:2072000343182": 2,
+      "gas:candidate-vibid:2072000343193": 186,
+      "gas:candidate-vibid:2072000343204": 628
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000333033&vrn=100100067795849&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000333033&type=464",
@@ -4277,14 +4277,14 @@ export const duma_2016_uik_463_region_7_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жилов Хасан Русланович": 0,
-      "Паштов Борис Султанович": 418,
-      "Султанова Айшат Токболатовна": 2,
-      "Токов Руслан Мухарбиевич": 416,
-      "Цумаев Муса Мутушович": 4,
-      "Шаваев Камал Хасанович": 0,
-      "Шхагапсоев Сафарбий Хасанбиевич": 369,
-      "Шхагошев Адальби Люлевич": 1109
+      "gas:candidate-vibid:2072000343159": 0,
+      "gas:candidate-vibid:2072000343215": 418,
+      "gas:candidate-vibid:2072000343170": 2,
+      "gas:candidate-vibid:2072000343368": 416,
+      "gas:candidate-vibid:2072000343546": 4,
+      "gas:candidate-vibid:2072000343182": 0,
+      "gas:candidate-vibid:2072000343193": 369,
+      "gas:candidate-vibid:2072000343204": 1109
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000333033&vrn=100100067795849&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000333033&type=464",
@@ -4335,14 +4335,14 @@ export const duma_2016_uik_463_region_7_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жилов Хасан Русланович": 2,
-      "Паштов Борис Султанович": 267,
-      "Султанова Айшат Токболатовна": 3,
-      "Токов Руслан Мухарбиевич": 241,
-      "Цумаев Муса Мутушович": 2,
-      "Шаваев Камал Хасанович": 0,
-      "Шхагапсоев Сафарбий Хасанбиевич": 221,
-      "Шхагошев Адальби Люлевич": 708
+      "gas:candidate-vibid:2072000343159": 2,
+      "gas:candidate-vibid:2072000343215": 267,
+      "gas:candidate-vibid:2072000343170": 3,
+      "gas:candidate-vibid:2072000343368": 241,
+      "gas:candidate-vibid:2072000343546": 2,
+      "gas:candidate-vibid:2072000343182": 0,
+      "gas:candidate-vibid:2072000343193": 221,
+      "gas:candidate-vibid:2072000343204": 708
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000333033&vrn=100100067795849&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000333033&type=464",
@@ -4393,14 +4393,14 @@ export const duma_2016_uik_463_region_7_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жилов Хасан Русланович": 0,
-      "Паштов Борис Султанович": 104,
-      "Султанова Айшат Токболатовна": 3,
-      "Токов Руслан Мухарбиевич": 96,
-      "Цумаев Муса Мутушович": 1,
-      "Шаваев Камал Хасанович": 0,
-      "Шхагапсоев Сафарбий Хасанбиевич": 107,
-      "Шхагошев Адальби Люлевич": 323
+      "gas:candidate-vibid:2072000343159": 0,
+      "gas:candidate-vibid:2072000343215": 104,
+      "gas:candidate-vibid:2072000343170": 3,
+      "gas:candidate-vibid:2072000343368": 96,
+      "gas:candidate-vibid:2072000343546": 1,
+      "gas:candidate-vibid:2072000343182": 0,
+      "gas:candidate-vibid:2072000343193": 107,
+      "gas:candidate-vibid:2072000343204": 323
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000333033&vrn=100100067795849&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000333033&type=464",
@@ -4451,14 +4451,14 @@ export const duma_2016_uik_463_region_7_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жилов Хасан Русланович": 3,
-      "Паштов Борис Султанович": 218,
-      "Султанова Айшат Токболатовна": 0,
-      "Токов Руслан Мухарбиевич": 203,
-      "Цумаев Муса Мутушович": 2,
-      "Шаваев Камал Хасанович": 2,
-      "Шхагапсоев Сафарбий Хасанбиевич": 181,
-      "Шхагошев Адальби Люлевич": 524
+      "gas:candidate-vibid:2072000343159": 3,
+      "gas:candidate-vibid:2072000343215": 218,
+      "gas:candidate-vibid:2072000343170": 0,
+      "gas:candidate-vibid:2072000343368": 203,
+      "gas:candidate-vibid:2072000343546": 2,
+      "gas:candidate-vibid:2072000343182": 2,
+      "gas:candidate-vibid:2072000343193": 181,
+      "gas:candidate-vibid:2072000343204": 524
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000333033&vrn=100100067795849&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000333033&type=464",
@@ -4509,14 +4509,14 @@ export const duma_2016_uik_463_region_7_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жилов Хасан Русланович": 3,
-      "Паштов Борис Султанович": 199,
-      "Султанова Айшат Токболатовна": 4,
-      "Токов Руслан Мухарбиевич": 180,
-      "Цумаев Муса Мутушович": 1,
-      "Шаваев Камал Хасанович": 0,
-      "Шхагапсоев Сафарбий Хасанбиевич": 179,
-      "Шхагошев Адальби Люлевич": 526
+      "gas:candidate-vibid:2072000343159": 3,
+      "gas:candidate-vibid:2072000343215": 199,
+      "gas:candidate-vibid:2072000343170": 4,
+      "gas:candidate-vibid:2072000343368": 180,
+      "gas:candidate-vibid:2072000343546": 1,
+      "gas:candidate-vibid:2072000343182": 0,
+      "gas:candidate-vibid:2072000343193": 179,
+      "gas:candidate-vibid:2072000343204": 526
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000333033&vrn=100100067795849&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000333033&type=464",
@@ -4567,14 +4567,14 @@ export const duma_2016_uik_463_region_7_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жилов Хасан Русланович": 0,
-      "Паштов Борис Султанович": 157,
-      "Султанова Айшат Токболатовна": 3,
-      "Токов Руслан Мухарбиевич": 176,
-      "Цумаев Муса Мутушович": 1,
-      "Шаваев Камал Хасанович": 0,
-      "Шхагапсоев Сафарбий Хасанбиевич": 157,
-      "Шхагошев Адальби Люлевич": 459
+      "gas:candidate-vibid:2072000343159": 0,
+      "gas:candidate-vibid:2072000343215": 157,
+      "gas:candidate-vibid:2072000343170": 3,
+      "gas:candidate-vibid:2072000343368": 176,
+      "gas:candidate-vibid:2072000343546": 1,
+      "gas:candidate-vibid:2072000343182": 0,
+      "gas:candidate-vibid:2072000343193": 157,
+      "gas:candidate-vibid:2072000343204": 459
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000333033&vrn=100100067795849&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000333033&type=464",
@@ -4625,14 +4625,14 @@ export const duma_2016_uik_463_region_7_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жилов Хасан Русланович": 0,
-      "Паштов Борис Султанович": 183,
-      "Султанова Айшат Токболатовна": 4,
-      "Токов Руслан Мухарбиевич": 133,
-      "Цумаев Муса Мутушович": 1,
-      "Шаваев Камал Хасанович": 0,
-      "Шхагапсоев Сафарбий Хасанбиевич": 135,
-      "Шхагошев Адальби Люлевич": 414
+      "gas:candidate-vibid:2072000343159": 0,
+      "gas:candidate-vibid:2072000343215": 183,
+      "gas:candidate-vibid:2072000343170": 4,
+      "gas:candidate-vibid:2072000343368": 133,
+      "gas:candidate-vibid:2072000343546": 1,
+      "gas:candidate-vibid:2072000343182": 0,
+      "gas:candidate-vibid:2072000343193": 135,
+      "gas:candidate-vibid:2072000343204": 414
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000333033&vrn=100100067795849&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000333033&type=464",
@@ -4683,14 +4683,14 @@ export const duma_2016_uik_463_region_7_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жилов Хасан Русланович": 1,
-      "Паштов Борис Султанович": 183,
-      "Султанова Айшат Токболатовна": 3,
-      "Токов Руслан Мухарбиевич": 151,
-      "Цумаев Муса Мутушович": 1,
-      "Шаваев Камал Хасанович": 0,
-      "Шхагапсоев Сафарбий Хасанбиевич": 131,
-      "Шхагошев Адальби Люлевич": 488
+      "gas:candidate-vibid:2072000343159": 1,
+      "gas:candidate-vibid:2072000343215": 183,
+      "gas:candidate-vibid:2072000343170": 3,
+      "gas:candidate-vibid:2072000343368": 151,
+      "gas:candidate-vibid:2072000343546": 1,
+      "gas:candidate-vibid:2072000343182": 0,
+      "gas:candidate-vibid:2072000343193": 131,
+      "gas:candidate-vibid:2072000343204": 488
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000333033&vrn=100100067795849&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000333033&type=464",
@@ -4741,14 +4741,14 @@ export const duma_2016_uik_463_region_7_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жилов Хасан Русланович": 0,
-      "Паштов Борис Султанович": 418,
-      "Султанова Айшат Токболатовна": 2,
-      "Токов Руслан Мухарбиевич": 376,
-      "Цумаев Муса Мутушович": 4,
-      "Шаваев Камал Хасанович": 0,
-      "Шхагапсоев Сафарбий Хасанбиевич": 334,
-      "Шхагошев Адальби Люлевич": 956
+      "gas:candidate-vibid:2072000343159": 0,
+      "gas:candidate-vibid:2072000343215": 418,
+      "gas:candidate-vibid:2072000343170": 2,
+      "gas:candidate-vibid:2072000343368": 376,
+      "gas:candidate-vibid:2072000343546": 4,
+      "gas:candidate-vibid:2072000343182": 0,
+      "gas:candidate-vibid:2072000343193": 334,
+      "gas:candidate-vibid:2072000343204": 956
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000333033&vrn=100100067795849&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000333033&type=464",
@@ -4799,14 +4799,14 @@ export const duma_2016_uik_463_region_7_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жилов Хасан Русланович": 1,
-      "Паштов Борис Султанович": 383,
-      "Султанова Айшат Токболатовна": 4,
-      "Токов Руслан Мухарбиевич": 395,
-      "Цумаев Муса Мутушович": 4,
-      "Шаваев Камал Хасанович": 0,
-      "Шхагапсоев Сафарбий Хасанбиевич": 353,
-      "Шхагошев Адальби Люлевич": 950
+      "gas:candidate-vibid:2072000343159": 1,
+      "gas:candidate-vibid:2072000343215": 383,
+      "gas:candidate-vibid:2072000343170": 4,
+      "gas:candidate-vibid:2072000343368": 395,
+      "gas:candidate-vibid:2072000343546": 4,
+      "gas:candidate-vibid:2072000343182": 0,
+      "gas:candidate-vibid:2072000343193": 353,
+      "gas:candidate-vibid:2072000343204": 950
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000333033&vrn=100100067795849&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000333033&type=464",
@@ -4857,14 +4857,14 @@ export const duma_2016_uik_463_region_7_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жилов Хасан Русланович": 2,
-      "Паштов Борис Султанович": 267,
-      "Султанова Айшат Токболатовна": 0,
-      "Токов Руслан Мухарбиевич": 229,
-      "Цумаев Муса Мутушович": 2,
-      "Шаваев Камал Хасанович": 4,
-      "Шхагапсоев Сафарбий Хасанбиевич": 245,
-      "Шхагошев Адальби Люлевич": 616
+      "gas:candidate-vibid:2072000343159": 2,
+      "gas:candidate-vibid:2072000343215": 267,
+      "gas:candidate-vibid:2072000343170": 0,
+      "gas:candidate-vibid:2072000343368": 229,
+      "gas:candidate-vibid:2072000343546": 2,
+      "gas:candidate-vibid:2072000343182": 4,
+      "gas:candidate-vibid:2072000343193": 245,
+      "gas:candidate-vibid:2072000343204": 616
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000333033&vrn=100100067795849&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000333033&type=464",
@@ -4915,14 +4915,14 @@ export const duma_2016_uik_463_region_7_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жилов Хасан Русланович": 1,
-      "Паштов Борис Султанович": 397,
-      "Султанова Айшат Токболатовна": 2,
-      "Токов Руслан Мухарбиевич": 371,
-      "Цумаев Муса Мутушович": 4,
-      "Шаваев Камал Хасанович": 0,
-      "Шхагапсоев Сафарбий Хасанбиевич": 313,
-      "Шхагошев Адальби Люлевич": 960
+      "gas:candidate-vibid:2072000343159": 1,
+      "gas:candidate-vibid:2072000343215": 397,
+      "gas:candidate-vibid:2072000343170": 2,
+      "gas:candidate-vibid:2072000343368": 371,
+      "gas:candidate-vibid:2072000343546": 4,
+      "gas:candidate-vibid:2072000343182": 0,
+      "gas:candidate-vibid:2072000343193": 313,
+      "gas:candidate-vibid:2072000343204": 960
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000333033&vrn=100100067795849&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000333033&type=464",
@@ -4973,14 +4973,14 @@ export const duma_2016_uik_463_region_7_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жилов Хасан Русланович": 1,
-      "Паштов Борис Султанович": 205,
-      "Султанова Айшат Токболатовна": 1,
-      "Токов Руслан Мухарбиевич": 163,
-      "Цумаев Муса Мутушович": 1,
-      "Шаваев Камал Хасанович": 0,
-      "Шхагапсоев Сафарбий Хасанбиевич": 155,
-      "Шхагошев Адальби Люлевич": 439
+      "gas:candidate-vibid:2072000343159": 1,
+      "gas:candidate-vibid:2072000343215": 205,
+      "gas:candidate-vibid:2072000343170": 1,
+      "gas:candidate-vibid:2072000343368": 163,
+      "gas:candidate-vibid:2072000343546": 1,
+      "gas:candidate-vibid:2072000343182": 0,
+      "gas:candidate-vibid:2072000343193": 155,
+      "gas:candidate-vibid:2072000343204": 439
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000333033&vrn=100100067795849&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000333033&type=464",
@@ -5031,14 +5031,14 @@ export const duma_2016_uik_463_region_7_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жилов Хасан Русланович": 0,
-      "Паштов Борис Султанович": 261,
-      "Султанова Айшат Токболатовна": 4,
-      "Токов Руслан Мухарбиевич": 237,
-      "Цумаев Муса Мутушович": 2,
-      "Шаваев Камал Хасанович": 0,
-      "Шхагапсоев Сафарбий Хасанбиевич": 210,
-      "Шхагошев Адальби Люлевич": 642
+      "gas:candidate-vibid:2072000343159": 0,
+      "gas:candidate-vibid:2072000343215": 261,
+      "gas:candidate-vibid:2072000343170": 4,
+      "gas:candidate-vibid:2072000343368": 237,
+      "gas:candidate-vibid:2072000343546": 2,
+      "gas:candidate-vibid:2072000343182": 0,
+      "gas:candidate-vibid:2072000343193": 210,
+      "gas:candidate-vibid:2072000343204": 642
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000333033&vrn=100100067795849&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000333033&type=464",
@@ -5089,14 +5089,14 @@ export const duma_2016_uik_463_region_7_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жилов Хасан Русланович": 3,
-      "Паштов Борис Султанович": 315,
-      "Султанова Айшат Токболатовна": 0,
-      "Токов Руслан Мухарбиевич": 269,
-      "Цумаев Муса Мутушович": 2,
-      "Шаваев Камал Хасанович": 2,
-      "Шхагапсоев Сафарбий Хасанбиевич": 246,
-      "Шхагошев Адальби Люлевич": 802
+      "gas:candidate-vibid:2072000343159": 3,
+      "gas:candidate-vibid:2072000343215": 315,
+      "gas:candidate-vibid:2072000343170": 0,
+      "gas:candidate-vibid:2072000343368": 269,
+      "gas:candidate-vibid:2072000343546": 2,
+      "gas:candidate-vibid:2072000343182": 2,
+      "gas:candidate-vibid:2072000343193": 246,
+      "gas:candidate-vibid:2072000343204": 802
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000333033&vrn=100100067795849&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000333033&type=464",
@@ -5147,14 +5147,14 @@ export const duma_2016_uik_463_region_7_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жилов Хасан Русланович": 2,
-      "Паштов Борис Султанович": 323,
-      "Султанова Айшат Токболатовна": 0,
-      "Токов Руслан Мухарбиевич": 287,
-      "Цумаев Муса Мутушович": 3,
-      "Шаваев Камал Хасанович": 4,
-      "Шхагапсоев Сафарбий Хасанбиевич": 254,
-      "Шхагошев Адальби Люлевич": 757
+      "gas:candidate-vibid:2072000343159": 2,
+      "gas:candidate-vibid:2072000343215": 323,
+      "gas:candidate-vibid:2072000343170": 0,
+      "gas:candidate-vibid:2072000343368": 287,
+      "gas:candidate-vibid:2072000343546": 3,
+      "gas:candidate-vibid:2072000343182": 4,
+      "gas:candidate-vibid:2072000343193": 254,
+      "gas:candidate-vibid:2072000343204": 757
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000333033&vrn=100100067795849&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000333033&type=464",
@@ -5205,14 +5205,14 @@ export const duma_2016_uik_463_region_7_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жилов Хасан Русланович": 0,
-      "Паштов Борис Султанович": 231,
-      "Султанова Айшат Токболатовна": 2,
-      "Токов Руслан Мухарбиевич": 216,
-      "Цумаев Муса Мутушович": 2,
-      "Шаваев Камал Хасанович": 0,
-      "Шхагапсоев Сафарбий Хасанбиевич": 192,
-      "Шхагошев Адальби Люлевич": 534
+      "gas:candidate-vibid:2072000343159": 0,
+      "gas:candidate-vibid:2072000343215": 231,
+      "gas:candidate-vibid:2072000343170": 2,
+      "gas:candidate-vibid:2072000343368": 216,
+      "gas:candidate-vibid:2072000343546": 2,
+      "gas:candidate-vibid:2072000343182": 0,
+      "gas:candidate-vibid:2072000343193": 192,
+      "gas:candidate-vibid:2072000343204": 534
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000333033&vrn=100100067795849&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000333033&type=464",
@@ -5263,14 +5263,14 @@ export const duma_2016_uik_463_region_7_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жилов Хасан Русланович": 3,
-      "Паштов Борис Султанович": 313,
-      "Султанова Айшат Токболатовна": 0,
-      "Токов Руслан Мухарбиевич": 277,
-      "Цумаев Муса Мутушович": 3,
-      "Шаваев Камал Хасанович": 2,
-      "Шхагапсоев Сафарбий Хасанбиевич": 244,
-      "Шхагошев Адальби Люлевич": 791
+      "gas:candidate-vibid:2072000343159": 3,
+      "gas:candidate-vibid:2072000343215": 313,
+      "gas:candidate-vibid:2072000343170": 0,
+      "gas:candidate-vibid:2072000343368": 277,
+      "gas:candidate-vibid:2072000343546": 3,
+      "gas:candidate-vibid:2072000343182": 2,
+      "gas:candidate-vibid:2072000343193": 244,
+      "gas:candidate-vibid:2072000343204": 791
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000333033&vrn=100100067795849&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000333033&type=464",
@@ -5321,14 +5321,14 @@ export const duma_2016_uik_463_region_7_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жилов Хасан Русланович": 2,
-      "Паштов Борис Султанович": 251,
-      "Султанова Айшат Токболатовна": 0,
-      "Токов Руслан Мухарбиевич": 197,
-      "Цумаев Муса Мутушович": 2,
-      "Шаваев Камал Хасанович": 2,
-      "Шхагапсоев Сафарбий Хасанбиевич": 174,
-      "Шхагошев Адальби Люлевич": 548
+      "gas:candidate-vibid:2072000343159": 2,
+      "gas:candidate-vibid:2072000343215": 251,
+      "gas:candidate-vibid:2072000343170": 0,
+      "gas:candidate-vibid:2072000343368": 197,
+      "gas:candidate-vibid:2072000343546": 2,
+      "gas:candidate-vibid:2072000343182": 2,
+      "gas:candidate-vibid:2072000343193": 174,
+      "gas:candidate-vibid:2072000343204": 548
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000333033&vrn=100100067795849&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000333033&type=464",
@@ -5379,14 +5379,14 @@ export const duma_2016_uik_463_region_7_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жилов Хасан Русланович": 0,
-      "Паштов Борис Султанович": 285,
-      "Султанова Айшат Токболатовна": 1,
-      "Токов Руслан Мухарбиевич": 224,
-      "Цумаев Муса Мутушович": 2,
-      "Шаваев Камал Хасанович": 0,
-      "Шхагапсоев Сафарбий Хасанбиевич": 213,
-      "Шхагошев Адальби Люлевич": 733
+      "gas:candidate-vibid:2072000343159": 0,
+      "gas:candidate-vibid:2072000343215": 285,
+      "gas:candidate-vibid:2072000343170": 1,
+      "gas:candidate-vibid:2072000343368": 224,
+      "gas:candidate-vibid:2072000343546": 2,
+      "gas:candidate-vibid:2072000343182": 0,
+      "gas:candidate-vibid:2072000343193": 213,
+      "gas:candidate-vibid:2072000343204": 733
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000333033&vrn=100100067795849&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000333033&type=464",
@@ -5437,14 +5437,14 @@ export const duma_2016_uik_463_region_7_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жилов Хасан Русланович": 4,
-      "Паштов Борис Султанович": 346,
-      "Султанова Айшат Токболатовна": 0,
-      "Токов Руслан Мухарбиевич": 306,
-      "Цумаев Муса Мутушович": 3,
-      "Шаваев Камал Хасанович": 3,
-      "Шхагапсоев Сафарбий Хасанбиевич": 270,
-      "Шхагошев Адальби Люлевич": 880
+      "gas:candidate-vibid:2072000343159": 4,
+      "gas:candidate-vibid:2072000343215": 346,
+      "gas:candidate-vibid:2072000343170": 0,
+      "gas:candidate-vibid:2072000343368": 306,
+      "gas:candidate-vibid:2072000343546": 3,
+      "gas:candidate-vibid:2072000343182": 3,
+      "gas:candidate-vibid:2072000343193": 270,
+      "gas:candidate-vibid:2072000343204": 880
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000333033&vrn=100100067795849&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000333033&type=464",
@@ -5495,14 +5495,14 @@ export const duma_2016_uik_463_region_7_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жилов Хасан Русланович": 0,
-      "Паштов Борис Султанович": 199,
-      "Султанова Айшат Токболатовна": 3,
-      "Токов Руслан Мухарбиевич": 177,
-      "Цумаев Муса Мутушович": 1,
-      "Шаваев Камал Хасанович": 0,
-      "Шхагапсоев Сафарбий Хасанбиевич": 156,
-      "Шхагошев Адальби Люлевич": 504
+      "gas:candidate-vibid:2072000343159": 0,
+      "gas:candidate-vibid:2072000343215": 199,
+      "gas:candidate-vibid:2072000343170": 3,
+      "gas:candidate-vibid:2072000343368": 177,
+      "gas:candidate-vibid:2072000343546": 1,
+      "gas:candidate-vibid:2072000343182": 0,
+      "gas:candidate-vibid:2072000343193": 156,
+      "gas:candidate-vibid:2072000343204": 504
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000333033&vrn=100100067795849&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000333033&type=464",
@@ -5553,14 +5553,14 @@ export const duma_2016_uik_463_region_7_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жилов Хасан Русланович": 0,
-      "Паштов Борис Султанович": 406,
-      "Султанова Айшат Токболатовна": 3,
-      "Токов Руслан Мухарбиевич": 351,
-      "Цумаев Муса Мутушович": 3,
-      "Шаваев Камал Хасанович": 0,
-      "Шхагапсоев Сафарбий Хасанбиевич": 312,
-      "Шхагошев Адальби Люлевич": 918
+      "gas:candidate-vibid:2072000343159": 0,
+      "gas:candidate-vibid:2072000343215": 406,
+      "gas:candidate-vibid:2072000343170": 3,
+      "gas:candidate-vibid:2072000343368": 351,
+      "gas:candidate-vibid:2072000343546": 3,
+      "gas:candidate-vibid:2072000343182": 0,
+      "gas:candidate-vibid:2072000343193": 312,
+      "gas:candidate-vibid:2072000343204": 918
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000333033&vrn=100100067795849&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000333033&type=464",
@@ -5611,14 +5611,14 @@ export const duma_2016_uik_463_region_7_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жилов Хасан Русланович": 1,
-      "Паштов Борис Султанович": 255,
-      "Султанова Айшат Токболатовна": 2,
-      "Токов Руслан Мухарбиевич": 239,
-      "Цумаев Муса Мутушович": 2,
-      "Шаваев Камал Хасанович": 0,
-      "Шхагапсоев Сафарбий Хасанбиевич": 213,
-      "Шхагошев Адальби Люлевич": 604
+      "gas:candidate-vibid:2072000343159": 1,
+      "gas:candidate-vibid:2072000343215": 255,
+      "gas:candidate-vibid:2072000343170": 2,
+      "gas:candidate-vibid:2072000343368": 239,
+      "gas:candidate-vibid:2072000343546": 2,
+      "gas:candidate-vibid:2072000343182": 0,
+      "gas:candidate-vibid:2072000343193": 213,
+      "gas:candidate-vibid:2072000343204": 604
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000333033&vrn=100100067795849&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000333033&type=464",
@@ -5669,14 +5669,14 @@ export const duma_2016_uik_463_region_7_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жилов Хасан Русланович": 1,
-      "Паштов Борис Султанович": 232,
-      "Султанова Айшат Токболатовна": 4,
-      "Токов Руслан Мухарбиевич": 181,
-      "Цумаев Муса Мутушович": 1,
-      "Шаваев Камал Хасанович": 0,
-      "Шхагапсоев Сафарбий Хасанбиевич": 181,
-      "Шхагошев Адальби Люлевич": 543
+      "gas:candidate-vibid:2072000343159": 1,
+      "gas:candidate-vibid:2072000343215": 232,
+      "gas:candidate-vibid:2072000343170": 4,
+      "gas:candidate-vibid:2072000343368": 181,
+      "gas:candidate-vibid:2072000343546": 1,
+      "gas:candidate-vibid:2072000343182": 0,
+      "gas:candidate-vibid:2072000343193": 181,
+      "gas:candidate-vibid:2072000343204": 543
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000333033&vrn=100100067795849&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000333033&type=464",
@@ -5727,14 +5727,14 @@ export const duma_2016_uik_463_region_7_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жилов Хасан Русланович": 4,
-      "Паштов Борис Султанович": 318,
-      "Султанова Айшат Токболатовна": 0,
-      "Токов Руслан Мухарбиевич": 276,
-      "Цумаев Муса Мутушович": 3,
-      "Шаваев Камал Хасанович": 3,
-      "Шхагапсоев Сафарбий Хасанбиевич": 245,
-      "Шхагошев Адальби Люлевич": 692
+      "gas:candidate-vibid:2072000343159": 4,
+      "gas:candidate-vibid:2072000343215": 318,
+      "gas:candidate-vibid:2072000343170": 0,
+      "gas:candidate-vibid:2072000343368": 276,
+      "gas:candidate-vibid:2072000343546": 3,
+      "gas:candidate-vibid:2072000343182": 3,
+      "gas:candidate-vibid:2072000343193": 245,
+      "gas:candidate-vibid:2072000343204": 692
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000333033&vrn=100100067795849&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000333033&type=464",
@@ -5785,14 +5785,14 @@ export const duma_2016_uik_463_region_7_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жилов Хасан Русланович": 9,
-      "Паштов Борис Султанович": 339,
-      "Султанова Айшат Токболатовна": 0,
-      "Токов Руслан Мухарбиевич": 313,
-      "Цумаев Муса Мутушович": 3,
-      "Шаваев Камал Хасанович": 0,
-      "Шхагапсоев Сафарбий Хасанбиевич": 278,
-      "Шхагошев Адальби Люлевич": 829
+      "gas:candidate-vibid:2072000343159": 9,
+      "gas:candidate-vibid:2072000343215": 339,
+      "gas:candidate-vibid:2072000343170": 0,
+      "gas:candidate-vibid:2072000343368": 313,
+      "gas:candidate-vibid:2072000343546": 3,
+      "gas:candidate-vibid:2072000343182": 0,
+      "gas:candidate-vibid:2072000343193": 278,
+      "gas:candidate-vibid:2072000343204": 829
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000333033&vrn=100100067795849&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000333033&type=464",
@@ -5843,14 +5843,14 @@ export const duma_2016_uik_463_region_7_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жилов Хасан Русланович": 0,
-      "Паштов Борис Султанович": 276,
-      "Султанова Айшат Токболатовна": 4,
-      "Токов Руслан Мухарбиевич": 196,
-      "Цумаев Муса Мутушович": 2,
-      "Шаваев Камал Хасанович": 0,
-      "Шхагапсоев Сафарбий Хасанбиевич": 228,
-      "Шхагошев Адальби Люлевич": 702
+      "gas:candidate-vibid:2072000343159": 0,
+      "gas:candidate-vibid:2072000343215": 276,
+      "gas:candidate-vibid:2072000343170": 4,
+      "gas:candidate-vibid:2072000343368": 196,
+      "gas:candidate-vibid:2072000343546": 2,
+      "gas:candidate-vibid:2072000343182": 0,
+      "gas:candidate-vibid:2072000343193": 228,
+      "gas:candidate-vibid:2072000343204": 702
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000333033&vrn=100100067795849&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000333033&type=464",
@@ -5901,14 +5901,14 @@ export const duma_2016_uik_463_region_7_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жилов Хасан Русланович": 6,
-      "Паштов Борис Султанович": 385,
-      "Султанова Айшат Токболатовна": 0,
-      "Токов Руслан Мухарбиевич": 327,
-      "Цумаев Муса Мутушович": 3,
-      "Шаваев Камал Хасанович": 0,
-      "Шхагапсоев Сафарбий Хасанбиевич": 289,
-      "Шхагошев Адальби Люлевич": 901
+      "gas:candidate-vibid:2072000343159": 6,
+      "gas:candidate-vibid:2072000343215": 385,
+      "gas:candidate-vibid:2072000343170": 0,
+      "gas:candidate-vibid:2072000343368": 327,
+      "gas:candidate-vibid:2072000343546": 3,
+      "gas:candidate-vibid:2072000343182": 0,
+      "gas:candidate-vibid:2072000343193": 289,
+      "gas:candidate-vibid:2072000343204": 901
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000333033&vrn=100100067795849&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000333033&type=464",
@@ -5959,14 +5959,14 @@ export const duma_2016_uik_463_region_7_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жилов Хасан Русланович": 0,
-      "Паштов Борис Султанович": 238,
-      "Султанова Айшат Токболатовна": 4,
-      "Токов Руслан Мухарбиевич": 198,
-      "Цумаев Муса Мутушович": 2,
-      "Шаваев Камал Хасанович": 0,
-      "Шхагапсоев Сафарбий Хасанбиевич": 174,
-      "Шхагошев Адальби Люлевич": 603
+      "gas:candidate-vibid:2072000343159": 0,
+      "gas:candidate-vibid:2072000343215": 238,
+      "gas:candidate-vibid:2072000343170": 4,
+      "gas:candidate-vibid:2072000343368": 198,
+      "gas:candidate-vibid:2072000343546": 2,
+      "gas:candidate-vibid:2072000343182": 0,
+      "gas:candidate-vibid:2072000343193": 174,
+      "gas:candidate-vibid:2072000343204": 603
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000333033&vrn=100100067795849&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000333033&type=464",
@@ -6017,14 +6017,14 @@ export const duma_2016_uik_463_region_7_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жилов Хасан Русланович": 2,
-      "Паштов Борис Султанович": 242,
-      "Султанова Айшат Токболатовна": 2,
-      "Токов Руслан Мухарбиевич": 187,
-      "Цумаев Муса Мутушович": 2,
-      "Шаваев Камал Хасанович": 0,
-      "Шхагапсоев Сафарбий Хасанбиевич": 163,
-      "Шхагошев Адальби Люлевич": 581
+      "gas:candidate-vibid:2072000343159": 2,
+      "gas:candidate-vibid:2072000343215": 242,
+      "gas:candidate-vibid:2072000343170": 2,
+      "gas:candidate-vibid:2072000343368": 187,
+      "gas:candidate-vibid:2072000343546": 2,
+      "gas:candidate-vibid:2072000343182": 0,
+      "gas:candidate-vibid:2072000343193": 163,
+      "gas:candidate-vibid:2072000343204": 581
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000333033&vrn=100100067795849&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000333033&type=464",

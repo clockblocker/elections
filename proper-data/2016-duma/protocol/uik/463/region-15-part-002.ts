@@ -43,14 +43,14 @@ export const duma_2016_uik_463_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бестаев Сослан Вигентиевич": 2,
-      "Гиоев Руслан Борисович": 1,
-      "Кучиев Гарий Юрьевич": 4,
-      "Мусульбес Нугзар Владимирович": 6,
-      "Писаренко Владимир Петрович": 1,
-      "Таймазов Артур Борисович": 365,
-      "Хатагов Алексей Михайлович": 1,
-      "Хацаева Фатима Мусаевна": 2
+      "gas:candidate-vibid:2152000400183": 2,
+      "gas:candidate-vibid:2152000438158": 1,
+      "gas:candidate-vibid:2152000437052": 4,
+      "gas:candidate-vibid:2152000437067": 6,
+      "gas:candidate-vibid:2152000438554": 1,
+      "gas:candidate-vibid:2152000438348": 365,
+      "gas:candidate-vibid:2152000437933": 1,
+      "gas:candidate-vibid:2152000438360": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000037&tvd=2152000379322&vrn=100100067795849&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000379322&type=464",
@@ -101,14 +101,14 @@ export const duma_2016_uik_463_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бестаев Сослан Вигентиевич": 3,
-      "Гиоев Руслан Борисович": 3,
-      "Кучиев Гарий Юрьевич": 5,
-      "Мусульбес Нугзар Владимирович": 15,
-      "Писаренко Владимир Петрович": 2,
-      "Таймазов Артур Борисович": 240,
-      "Хатагов Алексей Михайлович": 0,
-      "Хацаева Фатима Мусаевна": 1
+      "gas:candidate-vibid:2152000400183": 3,
+      "gas:candidate-vibid:2152000438158": 3,
+      "gas:candidate-vibid:2152000437052": 5,
+      "gas:candidate-vibid:2152000437067": 15,
+      "gas:candidate-vibid:2152000438554": 2,
+      "gas:candidate-vibid:2152000438348": 240,
+      "gas:candidate-vibid:2152000437933": 0,
+      "gas:candidate-vibid:2152000438360": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000037&tvd=2152000379322&vrn=100100067795849&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000379322&type=464",
@@ -159,14 +159,14 @@ export const duma_2016_uik_463_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бестаев Сослан Вигентиевич": 2,
-      "Гиоев Руслан Борисович": 4,
-      "Кучиев Гарий Юрьевич": 4,
-      "Мусульбес Нугзар Владимирович": 13,
-      "Писаренко Владимир Петрович": 1,
-      "Таймазов Артур Борисович": 556,
-      "Хатагов Алексей Михайлович": 3,
-      "Хацаева Фатима Мусаевна": 6
+      "gas:candidate-vibid:2152000400183": 2,
+      "gas:candidate-vibid:2152000438158": 4,
+      "gas:candidate-vibid:2152000437052": 4,
+      "gas:candidate-vibid:2152000437067": 13,
+      "gas:candidate-vibid:2152000438554": 1,
+      "gas:candidate-vibid:2152000438348": 556,
+      "gas:candidate-vibid:2152000437933": 3,
+      "gas:candidate-vibid:2152000438360": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000037&tvd=2152000379322&vrn=100100067795849&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000379322&type=464",
@@ -217,14 +217,14 @@ export const duma_2016_uik_463_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бестаев Сослан Вигентиевич": 4,
-      "Гиоев Руслан Борисович": 1,
-      "Кучиев Гарий Юрьевич": 11,
-      "Мусульбес Нугзар Владимирович": 4,
-      "Писаренко Владимир Петрович": 1,
-      "Таймазов Артур Борисович": 226,
-      "Хатагов Алексей Михайлович": 5,
-      "Хацаева Фатима Мусаевна": 4
+      "gas:candidate-vibid:2152000400183": 4,
+      "gas:candidate-vibid:2152000438158": 1,
+      "gas:candidate-vibid:2152000437052": 11,
+      "gas:candidate-vibid:2152000437067": 4,
+      "gas:candidate-vibid:2152000438554": 1,
+      "gas:candidate-vibid:2152000438348": 226,
+      "gas:candidate-vibid:2152000437933": 5,
+      "gas:candidate-vibid:2152000438360": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000037&tvd=2152000379322&vrn=100100067795849&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000379322&type=464",
@@ -275,14 +275,14 @@ export const duma_2016_uik_463_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бестаев Сослан Вигентиевич": 4,
-      "Гиоев Руслан Борисович": 0,
-      "Кучиев Гарий Юрьевич": 29,
-      "Мусульбес Нугзар Владимирович": 14,
-      "Писаренко Владимир Петрович": 3,
-      "Таймазов Артур Борисович": 762,
-      "Хатагов Алексей Михайлович": 15,
-      "Хацаева Фатима Мусаевна": 16
+      "gas:candidate-vibid:2152000400183": 4,
+      "gas:candidate-vibid:2152000438158": 0,
+      "gas:candidate-vibid:2152000437052": 29,
+      "gas:candidate-vibid:2152000437067": 14,
+      "gas:candidate-vibid:2152000438554": 3,
+      "gas:candidate-vibid:2152000438348": 762,
+      "gas:candidate-vibid:2152000437933": 15,
+      "gas:candidate-vibid:2152000438360": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000037&tvd=2152000379322&vrn=100100067795849&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000379322&type=464",
@@ -333,14 +333,14 @@ export const duma_2016_uik_463_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бестаев Сослан Вигентиевич": 11,
-      "Гиоев Руслан Борисович": 2,
-      "Кучиев Гарий Юрьевич": 111,
-      "Мусульбес Нугзар Владимирович": 9,
-      "Писаренко Владимир Петрович": 6,
-      "Таймазов Артур Борисович": 353,
-      "Хатагов Алексей Михайлович": 46,
-      "Хацаева Фатима Мусаевна": 188
+      "gas:candidate-vibid:2152000400183": 11,
+      "gas:candidate-vibid:2152000438158": 2,
+      "gas:candidate-vibid:2152000437052": 111,
+      "gas:candidate-vibid:2152000437067": 9,
+      "gas:candidate-vibid:2152000438554": 6,
+      "gas:candidate-vibid:2152000438348": 353,
+      "gas:candidate-vibid:2152000437933": 46,
+      "gas:candidate-vibid:2152000438360": 188
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000037&tvd=2152000379322&vrn=100100067795849&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000379322&type=464",
@@ -391,14 +391,14 @@ export const duma_2016_uik_463_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бестаев Сослан Вигентиевич": 3,
-      "Гиоев Руслан Борисович": 1,
-      "Кучиев Гарий Юрьевич": 3,
-      "Мусульбес Нугзар Владимирович": 11,
-      "Писаренко Владимир Петрович": 0,
-      "Таймазов Артур Борисович": 239,
-      "Хатагов Алексей Михайлович": 2,
-      "Хацаева Фатима Мусаевна": 2
+      "gas:candidate-vibid:2152000400183": 3,
+      "gas:candidate-vibid:2152000438158": 1,
+      "gas:candidate-vibid:2152000437052": 3,
+      "gas:candidate-vibid:2152000437067": 11,
+      "gas:candidate-vibid:2152000438554": 0,
+      "gas:candidate-vibid:2152000438348": 239,
+      "gas:candidate-vibid:2152000437933": 2,
+      "gas:candidate-vibid:2152000438360": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000037&tvd=2152000379322&vrn=100100067795849&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000379322&type=464",
@@ -449,14 +449,14 @@ export const duma_2016_uik_463_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бестаев Сослан Вигентиевич": 0,
-      "Гиоев Руслан Борисович": 0,
-      "Кучиев Гарий Юрьевич": 1,
-      "Мусульбес Нугзар Владимирович": 0,
-      "Писаренко Владимир Петрович": 0,
-      "Таймазов Артур Борисович": 76,
-      "Хатагов Алексей Михайлович": 2,
-      "Хацаева Фатима Мусаевна": 0
+      "gas:candidate-vibid:2152000400183": 0,
+      "gas:candidate-vibid:2152000438158": 0,
+      "gas:candidate-vibid:2152000437052": 1,
+      "gas:candidate-vibid:2152000437067": 0,
+      "gas:candidate-vibid:2152000438554": 0,
+      "gas:candidate-vibid:2152000438348": 76,
+      "gas:candidate-vibid:2152000437933": 2,
+      "gas:candidate-vibid:2152000438360": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000037&tvd=2152000379322&vrn=100100067795849&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000379322&type=464",
@@ -507,14 +507,14 @@ export const duma_2016_uik_463_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бестаев Сослан Вигентиевич": 3,
-      "Гиоев Руслан Борисович": 0,
-      "Кучиев Гарий Юрьевич": 0,
-      "Мусульбес Нугзар Владимирович": 19,
-      "Писаренко Владимир Петрович": 0,
-      "Таймазов Артур Борисович": 175,
-      "Хатагов Алексей Михайлович": 10,
-      "Хацаева Фатима Мусаевна": 2
+      "gas:candidate-vibid:2152000400183": 3,
+      "gas:candidate-vibid:2152000438158": 0,
+      "gas:candidate-vibid:2152000437052": 0,
+      "gas:candidate-vibid:2152000437067": 19,
+      "gas:candidate-vibid:2152000438554": 0,
+      "gas:candidate-vibid:2152000438348": 175,
+      "gas:candidate-vibid:2152000437933": 10,
+      "gas:candidate-vibid:2152000438360": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000037&tvd=2152000379322&vrn=100100067795849&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000379322&type=464",
@@ -565,14 +565,14 @@ export const duma_2016_uik_463_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бестаев Сослан Вигентиевич": 0,
-      "Гиоев Руслан Борисович": 0,
-      "Кучиев Гарий Юрьевич": 1,
-      "Мусульбес Нугзар Владимирович": 0,
-      "Писаренко Владимир Петрович": 0,
-      "Таймазов Артур Борисович": 86,
-      "Хатагов Алексей Михайлович": 1,
-      "Хацаева Фатима Мусаевна": 0
+      "gas:candidate-vibid:2152000400183": 0,
+      "gas:candidate-vibid:2152000438158": 0,
+      "gas:candidate-vibid:2152000437052": 1,
+      "gas:candidate-vibid:2152000437067": 0,
+      "gas:candidate-vibid:2152000438554": 0,
+      "gas:candidate-vibid:2152000438348": 86,
+      "gas:candidate-vibid:2152000437933": 1,
+      "gas:candidate-vibid:2152000438360": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000037&tvd=2152000379322&vrn=100100067795849&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000379322&type=464",
@@ -623,14 +623,14 @@ export const duma_2016_uik_463_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бестаев Сослан Вигентиевич": 0,
-      "Гиоев Руслан Борисович": 0,
-      "Кучиев Гарий Юрьевич": 0,
-      "Мусульбес Нугзар Владимирович": 2,
-      "Писаренко Владимир Петрович": 0,
-      "Таймазов Артур Борисович": 96,
-      "Хатагов Алексей Михайлович": 1,
-      "Хацаева Фатима Мусаевна": 0
+      "gas:candidate-vibid:2152000400183": 0,
+      "gas:candidate-vibid:2152000438158": 0,
+      "gas:candidate-vibid:2152000437052": 0,
+      "gas:candidate-vibid:2152000437067": 2,
+      "gas:candidate-vibid:2152000438554": 0,
+      "gas:candidate-vibid:2152000438348": 96,
+      "gas:candidate-vibid:2152000437933": 1,
+      "gas:candidate-vibid:2152000438360": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000037&tvd=2152000379322&vrn=100100067795849&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000379322&type=464",
@@ -681,14 +681,14 @@ export const duma_2016_uik_463_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бестаев Сослан Вигентиевич": 1,
-      "Гиоев Руслан Борисович": 0,
-      "Кучиев Гарий Юрьевич": 1,
-      "Мусульбес Нугзар Владимирович": 12,
-      "Писаренко Владимир Петрович": 0,
-      "Таймазов Артур Борисович": 118,
-      "Хатагов Алексей Михайлович": 1,
-      "Хацаева Фатима Мусаевна": 4
+      "gas:candidate-vibid:2152000400183": 1,
+      "gas:candidate-vibid:2152000438158": 0,
+      "gas:candidate-vibid:2152000437052": 1,
+      "gas:candidate-vibid:2152000437067": 12,
+      "gas:candidate-vibid:2152000438554": 0,
+      "gas:candidate-vibid:2152000438348": 118,
+      "gas:candidate-vibid:2152000437933": 1,
+      "gas:candidate-vibid:2152000438360": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000037&tvd=2152000379322&vrn=100100067795849&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000379322&type=464",
@@ -739,14 +739,14 @@ export const duma_2016_uik_463_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бестаев Сослан Вигентиевич": 1,
-      "Гиоев Руслан Борисович": 0,
-      "Кучиев Гарий Юрьевич": 21,
-      "Мусульбес Нугзар Владимирович": 14,
-      "Писаренко Владимир Петрович": 11,
-      "Таймазов Артур Борисович": 51,
-      "Хатагов Алексей Михайлович": 0,
-      "Хацаева Фатима Мусаевна": 3
+      "gas:candidate-vibid:2152000400183": 1,
+      "gas:candidate-vibid:2152000438158": 0,
+      "gas:candidate-vibid:2152000437052": 21,
+      "gas:candidate-vibid:2152000437067": 14,
+      "gas:candidate-vibid:2152000438554": 11,
+      "gas:candidate-vibid:2152000438348": 51,
+      "gas:candidate-vibid:2152000437933": 0,
+      "gas:candidate-vibid:2152000438360": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000037&tvd=2152000379322&vrn=100100067795849&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000379322&type=464",
@@ -797,14 +797,14 @@ export const duma_2016_uik_463_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бестаев Сослан Вигентиевич": 0,
-      "Гиоев Руслан Борисович": 0,
-      "Кучиев Гарий Юрьевич": 1,
-      "Мусульбес Нугзар Владимирович": 3,
-      "Писаренко Владимир Петрович": 0,
-      "Таймазов Артур Борисович": 215,
-      "Хатагов Алексей Михайлович": 1,
-      "Хацаева Фатима Мусаевна": 5
+      "gas:candidate-vibid:2152000400183": 0,
+      "gas:candidate-vibid:2152000438158": 0,
+      "gas:candidate-vibid:2152000437052": 1,
+      "gas:candidate-vibid:2152000437067": 3,
+      "gas:candidate-vibid:2152000438554": 0,
+      "gas:candidate-vibid:2152000438348": 215,
+      "gas:candidate-vibid:2152000437933": 1,
+      "gas:candidate-vibid:2152000438360": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000037&tvd=2152000379322&vrn=100100067795849&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000379322&type=464",
@@ -855,14 +855,14 @@ export const duma_2016_uik_463_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бестаев Сослан Вигентиевич": 7,
-      "Гиоев Руслан Борисович": 13,
-      "Кучиев Гарий Юрьевич": 13,
-      "Мусульбес Нугзар Владимирович": 63,
-      "Писаренко Владимир Петрович": 9,
-      "Таймазов Артур Борисович": 1220,
-      "Хатагов Алексей Михайлович": 11,
-      "Хацаева Фатима Мусаевна": 7
+      "gas:candidate-vibid:2152000400183": 7,
+      "gas:candidate-vibid:2152000438158": 13,
+      "gas:candidate-vibid:2152000437052": 13,
+      "gas:candidate-vibid:2152000437067": 63,
+      "gas:candidate-vibid:2152000438554": 9,
+      "gas:candidate-vibid:2152000438348": 1220,
+      "gas:candidate-vibid:2152000437933": 11,
+      "gas:candidate-vibid:2152000438360": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000037&tvd=2152000379323&vrn=100100067795849&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000379323&type=464",
@@ -913,14 +913,14 @@ export const duma_2016_uik_463_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бестаев Сослан Вигентиевич": 0,
-      "Гиоев Руслан Борисович": 5,
-      "Кучиев Гарий Юрьевич": 0,
-      "Мусульбес Нугзар Владимирович": 10,
-      "Писаренко Владимир Петрович": 13,
-      "Таймазов Артур Борисович": 999,
-      "Хатагов Алексей Михайлович": 15,
-      "Хацаева Фатима Мусаевна": 20
+      "gas:candidate-vibid:2152000400183": 0,
+      "gas:candidate-vibid:2152000438158": 5,
+      "gas:candidate-vibid:2152000437052": 0,
+      "gas:candidate-vibid:2152000437067": 10,
+      "gas:candidate-vibid:2152000438554": 13,
+      "gas:candidate-vibid:2152000438348": 999,
+      "gas:candidate-vibid:2152000437933": 15,
+      "gas:candidate-vibid:2152000438360": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000037&tvd=2152000379323&vrn=100100067795849&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000379323&type=464",
@@ -971,14 +971,14 @@ export const duma_2016_uik_463_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бестаев Сослан Вигентиевич": 11,
-      "Гиоев Руслан Борисович": 3,
-      "Кучиев Гарий Юрьевич": 6,
-      "Мусульбес Нугзар Владимирович": 7,
-      "Писаренко Владимир Петрович": 6,
-      "Таймазов Артур Борисович": 861,
-      "Хатагов Алексей Михайлович": 0,
-      "Хацаева Фатима Мусаевна": 3
+      "gas:candidate-vibid:2152000400183": 11,
+      "gas:candidate-vibid:2152000438158": 3,
+      "gas:candidate-vibid:2152000437052": 6,
+      "gas:candidate-vibid:2152000437067": 7,
+      "gas:candidate-vibid:2152000438554": 6,
+      "gas:candidate-vibid:2152000438348": 861,
+      "gas:candidate-vibid:2152000437933": 0,
+      "gas:candidate-vibid:2152000438360": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000037&tvd=2152000379323&vrn=100100067795849&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000379323&type=464",
@@ -1029,14 +1029,14 @@ export const duma_2016_uik_463_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бестаев Сослан Вигентиевич": 120,
-      "Гиоев Руслан Борисович": 0,
-      "Кучиев Гарий Юрьевич": 60,
-      "Мусульбес Нугзар Владимирович": 0,
-      "Писаренко Владимир Петрович": 12,
-      "Таймазов Артур Борисович": 1838,
-      "Хатагов Алексей Михайлович": 0,
-      "Хацаева Фатима Мусаевна": 0
+      "gas:candidate-vibid:2152000400183": 120,
+      "gas:candidate-vibid:2152000438158": 0,
+      "gas:candidate-vibid:2152000437052": 60,
+      "gas:candidate-vibid:2152000437067": 0,
+      "gas:candidate-vibid:2152000438554": 12,
+      "gas:candidate-vibid:2152000438348": 1838,
+      "gas:candidate-vibid:2152000437933": 0,
+      "gas:candidate-vibid:2152000438360": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000037&tvd=2152000379323&vrn=100100067795849&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000379323&type=464",
@@ -1087,14 +1087,14 @@ export const duma_2016_uik_463_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бестаев Сослан Вигентиевич": 113,
-      "Гиоев Руслан Борисович": 0,
-      "Кучиев Гарий Юрьевич": 13,
-      "Мусульбес Нугзар Владимирович": 33,
-      "Писаренко Владимир Петрович": 4,
-      "Таймазов Артур Борисович": 1807,
-      "Хатагов Алексей Михайлович": 0,
-      "Хацаева Фатима Мусаевна": 8
+      "gas:candidate-vibid:2152000400183": 113,
+      "gas:candidate-vibid:2152000438158": 0,
+      "gas:candidate-vibid:2152000437052": 13,
+      "gas:candidate-vibid:2152000437067": 33,
+      "gas:candidate-vibid:2152000438554": 4,
+      "gas:candidate-vibid:2152000438348": 1807,
+      "gas:candidate-vibid:2152000437933": 0,
+      "gas:candidate-vibid:2152000438360": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000037&tvd=2152000379323&vrn=100100067795849&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000379323&type=464",
@@ -1145,14 +1145,14 @@ export const duma_2016_uik_463_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бестаев Сослан Вигентиевич": 32,
-      "Гиоев Руслан Борисович": 0,
-      "Кучиев Гарий Юрьевич": 51,
-      "Мусульбес Нугзар Владимирович": 30,
-      "Писаренко Владимир Петрович": 2,
-      "Таймазов Артур Борисович": 2089,
-      "Хатагов Алексей Михайлович": 0,
-      "Хацаева Фатима Мусаевна": 0
+      "gas:candidate-vibid:2152000400183": 32,
+      "gas:candidate-vibid:2152000438158": 0,
+      "gas:candidate-vibid:2152000437052": 51,
+      "gas:candidate-vibid:2152000437067": 30,
+      "gas:candidate-vibid:2152000438554": 2,
+      "gas:candidate-vibid:2152000438348": 2089,
+      "gas:candidate-vibid:2152000437933": 0,
+      "gas:candidate-vibid:2152000438360": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000037&tvd=2152000379323&vrn=100100067795849&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000379323&type=464",
@@ -1203,14 +1203,14 @@ export const duma_2016_uik_463_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бестаев Сослан Вигентиевич": 45,
-      "Гиоев Руслан Борисович": 11,
-      "Кучиев Гарий Юрьевич": 86,
-      "Мусульбес Нугзар Владимирович": 0,
-      "Писаренко Владимир Петрович": 27,
-      "Таймазов Артур Борисович": 1989,
-      "Хатагов Алексей Михайлович": 0,
-      "Хацаева Фатима Мусаевна": 0
+      "gas:candidate-vibid:2152000400183": 45,
+      "gas:candidate-vibid:2152000438158": 11,
+      "gas:candidate-vibid:2152000437052": 86,
+      "gas:candidate-vibid:2152000437067": 0,
+      "gas:candidate-vibid:2152000438554": 27,
+      "gas:candidate-vibid:2152000438348": 1989,
+      "gas:candidate-vibid:2152000437933": 0,
+      "gas:candidate-vibid:2152000438360": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000037&tvd=2152000379323&vrn=100100067795849&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000379323&type=464",
@@ -1261,14 +1261,14 @@ export const duma_2016_uik_463_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бестаев Сослан Вигентиевич": 71,
-      "Гиоев Руслан Борисович": 2,
-      "Кучиев Гарий Юрьевич": 14,
-      "Мусульбес Нугзар Владимирович": 8,
-      "Писаренко Владимир Петрович": 4,
-      "Таймазов Артур Борисович": 753,
-      "Хатагов Алексей Михайлович": 4,
-      "Хацаева Фатима Мусаевна": 5
+      "gas:candidate-vibid:2152000400183": 71,
+      "gas:candidate-vibid:2152000438158": 2,
+      "gas:candidate-vibid:2152000437052": 14,
+      "gas:candidate-vibid:2152000437067": 8,
+      "gas:candidate-vibid:2152000438554": 4,
+      "gas:candidate-vibid:2152000438348": 753,
+      "gas:candidate-vibid:2152000437933": 4,
+      "gas:candidate-vibid:2152000438360": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000037&tvd=2152000379323&vrn=100100067795849&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000379323&type=464",
@@ -1319,14 +1319,14 @@ export const duma_2016_uik_463_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бестаев Сослан Вигентиевич": 55,
-      "Гиоев Руслан Борисович": 0,
-      "Кучиев Гарий Юрьевич": 12,
-      "Мусульбес Нугзар Владимирович": 0,
-      "Писаренко Владимир Петрович": 0,
-      "Таймазов Артур Борисович": 1247,
-      "Хатагов Алексей Михайлович": 0,
-      "Хацаева Фатима Мусаевна": 28
+      "gas:candidate-vibid:2152000400183": 55,
+      "gas:candidate-vibid:2152000438158": 0,
+      "gas:candidate-vibid:2152000437052": 12,
+      "gas:candidate-vibid:2152000437067": 0,
+      "gas:candidate-vibid:2152000438554": 0,
+      "gas:candidate-vibid:2152000438348": 1247,
+      "gas:candidate-vibid:2152000437933": 0,
+      "gas:candidate-vibid:2152000438360": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000037&tvd=2152000379323&vrn=100100067795849&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000379323&type=464",
@@ -1377,14 +1377,14 @@ export const duma_2016_uik_463_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бестаев Сослан Вигентиевич": 138,
-      "Гиоев Руслан Борисович": 0,
-      "Кучиев Гарий Юрьевич": 4,
-      "Мусульбес Нугзар Владимирович": 8,
-      "Писаренко Владимир Петрович": 0,
-      "Таймазов Артур Борисович": 1532,
-      "Хатагов Алексей Михайлович": 0,
-      "Хацаева Фатима Мусаевна": 20
+      "gas:candidate-vibid:2152000400183": 138,
+      "gas:candidate-vibid:2152000438158": 0,
+      "gas:candidate-vibid:2152000437052": 4,
+      "gas:candidate-vibid:2152000437067": 8,
+      "gas:candidate-vibid:2152000438554": 0,
+      "gas:candidate-vibid:2152000438348": 1532,
+      "gas:candidate-vibid:2152000437933": 0,
+      "gas:candidate-vibid:2152000438360": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000037&tvd=2152000379323&vrn=100100067795849&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000379323&type=464",
@@ -1435,14 +1435,14 @@ export const duma_2016_uik_463_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бестаев Сослан Вигентиевич": 127,
-      "Гиоев Руслан Борисович": 0,
-      "Кучиев Гарий Юрьевич": 54,
-      "Мусульбес Нугзар Владимирович": 0,
-      "Писаренко Владимир Петрович": 0,
-      "Таймазов Артур Борисович": 1632,
-      "Хатагов Алексей Михайлович": 0,
-      "Хацаева Фатима Мусаевна": 0
+      "gas:candidate-vibid:2152000400183": 127,
+      "gas:candidate-vibid:2152000438158": 0,
+      "gas:candidate-vibid:2152000437052": 54,
+      "gas:candidate-vibid:2152000437067": 0,
+      "gas:candidate-vibid:2152000438554": 0,
+      "gas:candidate-vibid:2152000438348": 1632,
+      "gas:candidate-vibid:2152000437933": 0,
+      "gas:candidate-vibid:2152000438360": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000037&tvd=2152000379323&vrn=100100067795849&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000379323&type=464",
@@ -1493,14 +1493,14 @@ export const duma_2016_uik_463_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бестаев Сослан Вигентиевич": 30,
-      "Гиоев Руслан Борисович": 0,
-      "Кучиев Гарий Юрьевич": 0,
-      "Мусульбес Нугзар Владимирович": 0,
-      "Писаренко Владимир Петрович": 10,
-      "Таймазов Артур Борисович": 753,
-      "Хатагов Алексей Михайлович": 0,
-      "Хацаева Фатима Мусаевна": 0
+      "gas:candidate-vibid:2152000400183": 30,
+      "gas:candidate-vibid:2152000438158": 0,
+      "gas:candidate-vibid:2152000437052": 0,
+      "gas:candidate-vibid:2152000437067": 0,
+      "gas:candidate-vibid:2152000438554": 10,
+      "gas:candidate-vibid:2152000438348": 753,
+      "gas:candidate-vibid:2152000437933": 0,
+      "gas:candidate-vibid:2152000438360": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000037&tvd=2152000379323&vrn=100100067795849&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000379323&type=464",
@@ -1551,14 +1551,14 @@ export const duma_2016_uik_463_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бестаев Сослан Вигентиевич": 7,
-      "Гиоев Руслан Борисович": 0,
-      "Кучиев Гарий Юрьевич": 3,
-      "Мусульбес Нугзар Владимирович": 0,
-      "Писаренко Владимир Петрович": 11,
-      "Таймазов Артур Борисович": 360,
-      "Хатагов Алексей Михайлович": 0,
-      "Хацаева Фатима Мусаевна": 0
+      "gas:candidate-vibid:2152000400183": 7,
+      "gas:candidate-vibid:2152000438158": 0,
+      "gas:candidate-vibid:2152000437052": 3,
+      "gas:candidate-vibid:2152000437067": 0,
+      "gas:candidate-vibid:2152000438554": 11,
+      "gas:candidate-vibid:2152000438348": 360,
+      "gas:candidate-vibid:2152000437933": 0,
+      "gas:candidate-vibid:2152000438360": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000037&tvd=2152000379323&vrn=100100067795849&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000379323&type=464",
@@ -1609,14 +1609,14 @@ export const duma_2016_uik_463_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бестаев Сослан Вигентиевич": 31,
-      "Гиоев Руслан Борисович": 29,
-      "Кучиев Гарий Юрьевич": 263,
-      "Мусульбес Нугзар Владимирович": 71,
-      "Писаренко Владимир Петрович": 34,
-      "Таймазов Артур Борисович": 1003,
-      "Хатагов Алексей Михайлович": 94,
-      "Хацаева Фатима Мусаевна": 47
+      "gas:candidate-vibid:2152000400183": 31,
+      "gas:candidate-vibid:2152000438158": 29,
+      "gas:candidate-vibid:2152000437052": 263,
+      "gas:candidate-vibid:2152000437067": 71,
+      "gas:candidate-vibid:2152000438554": 34,
+      "gas:candidate-vibid:2152000438348": 1003,
+      "gas:candidate-vibid:2152000437933": 94,
+      "gas:candidate-vibid:2152000438360": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000037&tvd=2152000379324&vrn=100100067795849&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000379324&type=464",
@@ -1667,14 +1667,14 @@ export const duma_2016_uik_463_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бестаев Сослан Вигентиевич": 19,
-      "Гиоев Руслан Борисович": 17,
-      "Кучиев Гарий Юрьевич": 31,
-      "Мусульбес Нугзар Владимирович": 29,
-      "Писаренко Владимир Петрович": 36,
-      "Таймазов Артур Борисович": 1086,
-      "Хатагов Алексей Михайлович": 93,
-      "Хацаева Фатима Мусаевна": 64
+      "gas:candidate-vibid:2152000400183": 19,
+      "gas:candidate-vibid:2152000438158": 17,
+      "gas:candidate-vibid:2152000437052": 31,
+      "gas:candidate-vibid:2152000437067": 29,
+      "gas:candidate-vibid:2152000438554": 36,
+      "gas:candidate-vibid:2152000438348": 1086,
+      "gas:candidate-vibid:2152000437933": 93,
+      "gas:candidate-vibid:2152000438360": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000037&tvd=2152000379324&vrn=100100067795849&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000379324&type=464",
@@ -1725,14 +1725,14 @@ export const duma_2016_uik_463_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бестаев Сослан Вигентиевич": 21,
-      "Гиоев Руслан Борисович": 40,
-      "Кучиев Гарий Юрьевич": 43,
-      "Мусульбес Нугзар Владимирович": 15,
-      "Писаренко Владимир Петрович": 121,
-      "Таймазов Артур Борисович": 813,
-      "Хатагов Алексей Михайлович": 0,
-      "Хацаева Фатима Мусаевна": 3
+      "gas:candidate-vibid:2152000400183": 21,
+      "gas:candidate-vibid:2152000438158": 40,
+      "gas:candidate-vibid:2152000437052": 43,
+      "gas:candidate-vibid:2152000437067": 15,
+      "gas:candidate-vibid:2152000438554": 121,
+      "gas:candidate-vibid:2152000438348": 813,
+      "gas:candidate-vibid:2152000437933": 0,
+      "gas:candidate-vibid:2152000438360": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000037&tvd=2152000379324&vrn=100100067795849&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000379324&type=464",
@@ -1783,14 +1783,14 @@ export const duma_2016_uik_463_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бестаев Сослан Вигентиевич": 0,
-      "Гиоев Руслан Борисович": 25,
-      "Кучиев Гарий Юрьевич": 35,
-      "Мусульбес Нугзар Владимирович": 27,
-      "Писаренко Владимир Петрович": 132,
-      "Таймазов Артур Борисович": 1510,
-      "Хатагов Алексей Михайлович": 21,
-      "Хацаева Фатима Мусаевна": 0
+      "gas:candidate-vibid:2152000400183": 0,
+      "gas:candidate-vibid:2152000438158": 25,
+      "gas:candidate-vibid:2152000437052": 35,
+      "gas:candidate-vibid:2152000437067": 27,
+      "gas:candidate-vibid:2152000438554": 132,
+      "gas:candidate-vibid:2152000438348": 1510,
+      "gas:candidate-vibid:2152000437933": 21,
+      "gas:candidate-vibid:2152000438360": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000037&tvd=2152000379324&vrn=100100067795849&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000379324&type=464",
@@ -1841,14 +1841,14 @@ export const duma_2016_uik_463_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бестаев Сослан Вигентиевич": 19,
-      "Гиоев Руслан Борисович": 19,
-      "Кучиев Гарий Юрьевич": 23,
-      "Мусульбес Нугзар Владимирович": 19,
-      "Писаренко Владимир Петрович": 8,
-      "Таймазов Артур Борисович": 920,
-      "Хатагов Алексей Михайлович": 11,
-      "Хацаева Фатима Мусаевна": 13
+      "gas:candidate-vibid:2152000400183": 19,
+      "gas:candidate-vibid:2152000438158": 19,
+      "gas:candidate-vibid:2152000437052": 23,
+      "gas:candidate-vibid:2152000437067": 19,
+      "gas:candidate-vibid:2152000438554": 8,
+      "gas:candidate-vibid:2152000438348": 920,
+      "gas:candidate-vibid:2152000437933": 11,
+      "gas:candidate-vibid:2152000438360": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000037&tvd=2152000379324&vrn=100100067795849&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000379324&type=464",
@@ -1899,14 +1899,14 @@ export const duma_2016_uik_463_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бестаев Сослан Вигентиевич": 23,
-      "Гиоев Руслан Борисович": 17,
-      "Кучиев Гарий Юрьевич": 31,
-      "Мусульбес Нугзар Владимирович": 45,
-      "Писаренко Владимир Петрович": 102,
-      "Таймазов Артур Борисович": 2215,
-      "Хатагов Алексей Михайлович": 10,
-      "Хацаева Фатима Мусаевна": 15
+      "gas:candidate-vibid:2152000400183": 23,
+      "gas:candidate-vibid:2152000438158": 17,
+      "gas:candidate-vibid:2152000437052": 31,
+      "gas:candidate-vibid:2152000437067": 45,
+      "gas:candidate-vibid:2152000438554": 102,
+      "gas:candidate-vibid:2152000438348": 2215,
+      "gas:candidate-vibid:2152000437933": 10,
+      "gas:candidate-vibid:2152000438360": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000037&tvd=2152000379324&vrn=100100067795849&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000379324&type=464",
@@ -1957,14 +1957,14 @@ export const duma_2016_uik_463_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бестаев Сослан Вигентиевич": 86,
-      "Гиоев Руслан Борисович": 35,
-      "Кучиев Гарий Юрьевич": 101,
-      "Мусульбес Нугзар Владимирович": 19,
-      "Писаренко Владимир Петрович": 140,
-      "Таймазов Артур Борисович": 609,
-      "Хатагов Алексей Михайлович": 33,
-      "Хацаева Фатима Мусаевна": 47
+      "gas:candidate-vibid:2152000400183": 86,
+      "gas:candidate-vibid:2152000438158": 35,
+      "gas:candidate-vibid:2152000437052": 101,
+      "gas:candidate-vibid:2152000437067": 19,
+      "gas:candidate-vibid:2152000438554": 140,
+      "gas:candidate-vibid:2152000438348": 609,
+      "gas:candidate-vibid:2152000437933": 33,
+      "gas:candidate-vibid:2152000438360": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000037&tvd=2152000379324&vrn=100100067795849&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000379324&type=464",
@@ -2015,14 +2015,14 @@ export const duma_2016_uik_463_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бестаев Сослан Вигентиевич": 31,
-      "Гиоев Руслан Борисович": 16,
-      "Кучиев Гарий Юрьевич": 23,
-      "Мусульбес Нугзар Владимирович": 3,
-      "Писаренко Владимир Петрович": 70,
-      "Таймазов Артур Борисович": 826,
-      "Хатагов Алексей Михайлович": 5,
-      "Хацаева Фатима Мусаевна": 8
+      "gas:candidate-vibid:2152000400183": 31,
+      "gas:candidate-vibid:2152000438158": 16,
+      "gas:candidate-vibid:2152000437052": 23,
+      "gas:candidate-vibid:2152000437067": 3,
+      "gas:candidate-vibid:2152000438554": 70,
+      "gas:candidate-vibid:2152000438348": 826,
+      "gas:candidate-vibid:2152000437933": 5,
+      "gas:candidate-vibid:2152000438360": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000037&tvd=2152000379324&vrn=100100067795849&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000379324&type=464",
@@ -2073,14 +2073,14 @@ export const duma_2016_uik_463_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бестаев Сослан Вигентиевич": 26,
-      "Гиоев Руслан Борисович": 24,
-      "Кучиев Гарий Юрьевич": 76,
-      "Мусульбес Нугзар Владимирович": 18,
-      "Писаренко Владимир Петрович": 78,
-      "Таймазов Артур Борисович": 1652,
-      "Хатагов Алексей Михайлович": 12,
-      "Хацаева Фатима Мусаевна": 6
+      "gas:candidate-vibid:2152000400183": 26,
+      "gas:candidate-vibid:2152000438158": 24,
+      "gas:candidate-vibid:2152000437052": 76,
+      "gas:candidate-vibid:2152000437067": 18,
+      "gas:candidate-vibid:2152000438554": 78,
+      "gas:candidate-vibid:2152000438348": 1652,
+      "gas:candidate-vibid:2152000437933": 12,
+      "gas:candidate-vibid:2152000438360": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000037&tvd=2152000379324&vrn=100100067795849&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000379324&type=464",
@@ -2131,14 +2131,14 @@ export const duma_2016_uik_463_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бестаев Сослан Вигентиевич": 0,
-      "Гиоев Руслан Борисович": 0,
-      "Кучиев Гарий Юрьевич": 69,
-      "Мусульбес Нугзар Владимирович": 0,
-      "Писаренко Владимир Петрович": 80,
-      "Таймазов Артур Борисович": 971,
-      "Хатагов Алексей Михайлович": 73,
-      "Хацаева Фатима Мусаевна": 0
+      "gas:candidate-vibid:2152000400183": 0,
+      "gas:candidate-vibid:2152000438158": 0,
+      "gas:candidate-vibid:2152000437052": 69,
+      "gas:candidate-vibid:2152000437067": 0,
+      "gas:candidate-vibid:2152000438554": 80,
+      "gas:candidate-vibid:2152000438348": 971,
+      "gas:candidate-vibid:2152000437933": 73,
+      "gas:candidate-vibid:2152000438360": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000037&tvd=2152000379324&vrn=100100067795849&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000379324&type=464",
@@ -2189,14 +2189,14 @@ export const duma_2016_uik_463_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бестаев Сослан Вигентиевич": 14,
-      "Гиоев Руслан Борисович": 19,
-      "Кучиев Гарий Юрьевич": 26,
-      "Мусульбес Нугзар Владимирович": 26,
-      "Писаренко Владимир Петрович": 62,
-      "Таймазов Артур Борисович": 1085,
-      "Хатагов Алексей Михайлович": 13,
-      "Хацаева Фатима Мусаевна": 25
+      "gas:candidate-vibid:2152000400183": 14,
+      "gas:candidate-vibid:2152000438158": 19,
+      "gas:candidate-vibid:2152000437052": 26,
+      "gas:candidate-vibid:2152000437067": 26,
+      "gas:candidate-vibid:2152000438554": 62,
+      "gas:candidate-vibid:2152000438348": 1085,
+      "gas:candidate-vibid:2152000437933": 13,
+      "gas:candidate-vibid:2152000438360": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000037&tvd=2152000379324&vrn=100100067795849&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000379324&type=464",
@@ -2247,14 +2247,14 @@ export const duma_2016_uik_463_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бестаев Сослан Вигентиевич": 41,
-      "Гиоев Руслан Борисович": 12,
-      "Кучиев Гарий Юрьевич": 17,
-      "Мусульбес Нугзар Владимирович": 15,
-      "Писаренко Владимир Петрович": 50,
-      "Таймазов Артур Борисович": 502,
-      "Хатагов Алексей Михайлович": 4,
-      "Хацаева Фатима Мусаевна": 19
+      "gas:candidate-vibid:2152000400183": 41,
+      "gas:candidate-vibid:2152000438158": 12,
+      "gas:candidate-vibid:2152000437052": 17,
+      "gas:candidate-vibid:2152000437067": 15,
+      "gas:candidate-vibid:2152000438554": 50,
+      "gas:candidate-vibid:2152000438348": 502,
+      "gas:candidate-vibid:2152000437933": 4,
+      "gas:candidate-vibid:2152000438360": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000037&tvd=2152000379324&vrn=100100067795849&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000379324&type=464",
@@ -2305,14 +2305,14 @@ export const duma_2016_uik_463_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бестаев Сослан Вигентиевич": 195,
-      "Гиоев Руслан Борисович": 26,
-      "Кучиев Гарий Юрьевич": 33,
-      "Мусульбес Нугзар Владимирович": 33,
-      "Писаренко Владимир Петрович": 72,
-      "Таймазов Артур Борисович": 983,
-      "Хатагов Алексей Михайлович": 64,
-      "Хацаева Фатима Мусаевна": 23
+      "gas:candidate-vibid:2152000400183": 195,
+      "gas:candidate-vibid:2152000438158": 26,
+      "gas:candidate-vibid:2152000437052": 33,
+      "gas:candidate-vibid:2152000437067": 33,
+      "gas:candidate-vibid:2152000438554": 72,
+      "gas:candidate-vibid:2152000438348": 983,
+      "gas:candidate-vibid:2152000437933": 64,
+      "gas:candidate-vibid:2152000438360": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000037&tvd=2152000379324&vrn=100100067795849&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000379324&type=464",
@@ -2363,14 +2363,14 @@ export const duma_2016_uik_463_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бестаев Сослан Вигентиевич": 0,
-      "Гиоев Руслан Борисович": 30,
-      "Кучиев Гарий Юрьевич": 25,
-      "Мусульбес Нугзар Владимирович": 25,
-      "Писаренко Владимир Петрович": 114,
-      "Таймазов Артур Борисович": 900,
-      "Хатагов Алексей Михайлович": 23,
-      "Хацаева Фатима Мусаевна": 19
+      "gas:candidate-vibid:2152000400183": 0,
+      "gas:candidate-vibid:2152000438158": 30,
+      "gas:candidate-vibid:2152000437052": 25,
+      "gas:candidate-vibid:2152000437067": 25,
+      "gas:candidate-vibid:2152000438554": 114,
+      "gas:candidate-vibid:2152000438348": 900,
+      "gas:candidate-vibid:2152000437933": 23,
+      "gas:candidate-vibid:2152000438360": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000037&tvd=2152000379324&vrn=100100067795849&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000379324&type=464",
@@ -2421,14 +2421,14 @@ export const duma_2016_uik_463_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бестаев Сослан Вигентиевич": 36,
-      "Гиоев Руслан Борисович": 36,
-      "Кучиев Гарий Юрьевич": 54,
-      "Мусульбес Нугзар Владимирович": 55,
-      "Писаренко Владимир Петрович": 44,
-      "Таймазов Артур Борисович": 1891,
-      "Хатагов Алексей Михайлович": 31,
-      "Хацаева Фатима Мусаевна": 37
+      "gas:candidate-vibid:2152000400183": 36,
+      "gas:candidate-vibid:2152000438158": 36,
+      "gas:candidate-vibid:2152000437052": 54,
+      "gas:candidate-vibid:2152000437067": 55,
+      "gas:candidate-vibid:2152000438554": 44,
+      "gas:candidate-vibid:2152000438348": 1891,
+      "gas:candidate-vibid:2152000437933": 31,
+      "gas:candidate-vibid:2152000438360": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000037&tvd=2152000379324&vrn=100100067795849&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000379324&type=464",
@@ -2479,14 +2479,14 @@ export const duma_2016_uik_463_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бестаев Сослан Вигентиевич": 23,
-      "Гиоев Руслан Борисович": 13,
-      "Кучиев Гарий Юрьевич": 35,
-      "Мусульбес Нугзар Владимирович": 43,
-      "Писаренко Владимир Петрович": 37,
-      "Таймазов Артур Борисович": 442,
-      "Хатагов Алексей Михайлович": 8,
-      "Хацаева Фатима Мусаевна": 10
+      "gas:candidate-vibid:2152000400183": 23,
+      "gas:candidate-vibid:2152000438158": 13,
+      "gas:candidate-vibid:2152000437052": 35,
+      "gas:candidate-vibid:2152000437067": 43,
+      "gas:candidate-vibid:2152000438554": 37,
+      "gas:candidate-vibid:2152000438348": 442,
+      "gas:candidate-vibid:2152000437933": 8,
+      "gas:candidate-vibid:2152000438360": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000037&tvd=2152000379324&vrn=100100067795849&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000379324&type=464",
@@ -2537,14 +2537,14 @@ export const duma_2016_uik_463_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бестаев Сослан Вигентиевич": 14,
-      "Гиоев Руслан Борисович": 4,
-      "Кучиев Гарий Юрьевич": 13,
-      "Мусульбес Нугзар Владимирович": 7,
-      "Писаренко Владимир Петрович": 174,
-      "Таймазов Артур Борисович": 443,
-      "Хатагов Алексей Михайлович": 7,
-      "Хацаева Фатима Мусаевна": 15
+      "gas:candidate-vibid:2152000400183": 14,
+      "gas:candidate-vibid:2152000438158": 4,
+      "gas:candidate-vibid:2152000437052": 13,
+      "gas:candidate-vibid:2152000437067": 7,
+      "gas:candidate-vibid:2152000438554": 174,
+      "gas:candidate-vibid:2152000438348": 443,
+      "gas:candidate-vibid:2152000437933": 7,
+      "gas:candidate-vibid:2152000438360": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000037&tvd=2152000379324&vrn=100100067795849&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000379324&type=464",
@@ -2595,14 +2595,14 @@ export const duma_2016_uik_463_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бестаев Сослан Вигентиевич": 29,
-      "Гиоев Руслан Борисович": 14,
-      "Кучиев Гарий Юрьевич": 33,
-      "Мусульбес Нугзар Владимирович": 23,
-      "Писаренко Владимир Петрович": 19,
-      "Таймазов Артур Борисович": 1375,
-      "Хатагов Алексей Михайлович": 18,
-      "Хацаева Фатима Мусаевна": 13
+      "gas:candidate-vibid:2152000400183": 29,
+      "gas:candidate-vibid:2152000438158": 14,
+      "gas:candidate-vibid:2152000437052": 33,
+      "gas:candidate-vibid:2152000437067": 23,
+      "gas:candidate-vibid:2152000438554": 19,
+      "gas:candidate-vibid:2152000438348": 1375,
+      "gas:candidate-vibid:2152000437933": 18,
+      "gas:candidate-vibid:2152000438360": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000037&tvd=2152000379324&vrn=100100067795849&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000379324&type=464",
@@ -2653,14 +2653,14 @@ export const duma_2016_uik_463_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бестаев Сослан Вигентиевич": 60,
-      "Гиоев Руслан Борисович": 24,
-      "Кучиев Гарий Юрьевич": 270,
-      "Мусульбес Нугзар Владимирович": 103,
-      "Писаренко Владимир Петрович": 113,
-      "Таймазов Артур Борисович": 1620,
-      "Хатагов Алексей Михайлович": 72,
-      "Хацаева Фатима Мусаевна": 30
+      "gas:candidate-vibid:2152000400183": 60,
+      "gas:candidate-vibid:2152000438158": 24,
+      "gas:candidate-vibid:2152000437052": 270,
+      "gas:candidate-vibid:2152000437067": 103,
+      "gas:candidate-vibid:2152000438554": 113,
+      "gas:candidate-vibid:2152000438348": 1620,
+      "gas:candidate-vibid:2152000437933": 72,
+      "gas:candidate-vibid:2152000438360": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000037&tvd=2152000379324&vrn=100100067795849&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000379324&type=464",
@@ -2711,14 +2711,14 @@ export const duma_2016_uik_463_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бестаев Сослан Вигентиевич": 15,
-      "Гиоев Руслан Борисович": 45,
-      "Кучиев Гарий Юрьевич": 50,
-      "Мусульбес Нугзар Владимирович": 20,
-      "Писаренко Владимир Петрович": 195,
-      "Таймазов Артур Борисович": 755,
-      "Хатагов Алексей Михайлович": 30,
-      "Хацаева Фатима Мусаевна": 100
+      "gas:candidate-vibid:2152000400183": 15,
+      "gas:candidate-vibid:2152000438158": 45,
+      "gas:candidate-vibid:2152000437052": 50,
+      "gas:candidate-vibid:2152000437067": 20,
+      "gas:candidate-vibid:2152000438554": 195,
+      "gas:candidate-vibid:2152000438348": 755,
+      "gas:candidate-vibid:2152000437933": 30,
+      "gas:candidate-vibid:2152000438360": 100
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000037&tvd=2152000379324&vrn=100100067795849&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000379324&type=464",
@@ -2769,14 +2769,14 @@ export const duma_2016_uik_463_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бестаев Сослан Вигентиевич": 127,
-      "Гиоев Руслан Борисович": 53,
-      "Кучиев Гарий Юрьевич": 70,
-      "Мусульбес Нугзар Владимирович": 70,
-      "Писаренко Владимир Петрович": 46,
-      "Таймазов Артур Борисович": 1708,
-      "Хатагов Алексей Михайлович": 32,
-      "Хацаева Фатима Мусаевна": 35
+      "gas:candidate-vibid:2152000400183": 127,
+      "gas:candidate-vibid:2152000438158": 53,
+      "gas:candidate-vibid:2152000437052": 70,
+      "gas:candidate-vibid:2152000437067": 70,
+      "gas:candidate-vibid:2152000438554": 46,
+      "gas:candidate-vibid:2152000438348": 1708,
+      "gas:candidate-vibid:2152000437933": 32,
+      "gas:candidate-vibid:2152000438360": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000037&tvd=2152000379324&vrn=100100067795849&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000379324&type=464",
@@ -2827,14 +2827,14 @@ export const duma_2016_uik_463_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бестаев Сослан Вигентиевич": 12,
-      "Гиоев Руслан Борисович": 5,
-      "Кучиев Гарий Юрьевич": 20,
-      "Мусульбес Нугзар Владимирович": 21,
-      "Писаренко Владимир Петрович": 26,
-      "Таймазов Артур Борисович": 641,
-      "Хатагов Алексей Михайлович": 8,
-      "Хацаева Фатима Мусаевна": 10
+      "gas:candidate-vibid:2152000400183": 12,
+      "gas:candidate-vibid:2152000438158": 5,
+      "gas:candidate-vibid:2152000437052": 20,
+      "gas:candidate-vibid:2152000437067": 21,
+      "gas:candidate-vibid:2152000438554": 26,
+      "gas:candidate-vibid:2152000438348": 641,
+      "gas:candidate-vibid:2152000437933": 8,
+      "gas:candidate-vibid:2152000438360": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000037&tvd=2152000379324&vrn=100100067795849&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000379324&type=464",
@@ -2885,14 +2885,14 @@ export const duma_2016_uik_463_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бестаев Сослан Вигентиевич": 42,
-      "Гиоев Руслан Борисович": 12,
-      "Кучиев Гарий Юрьевич": 6,
-      "Мусульбес Нугзар Владимирович": 32,
-      "Писаренко Владимир Петрович": 72,
-      "Таймазов Артур Борисович": 658,
-      "Хатагов Алексей Михайлович": 12,
-      "Хацаева Фатима Мусаевна": 15
+      "gas:candidate-vibid:2152000400183": 42,
+      "gas:candidate-vibid:2152000438158": 12,
+      "gas:candidate-vibid:2152000437052": 6,
+      "gas:candidate-vibid:2152000437067": 32,
+      "gas:candidate-vibid:2152000438554": 72,
+      "gas:candidate-vibid:2152000438348": 658,
+      "gas:candidate-vibid:2152000437933": 12,
+      "gas:candidate-vibid:2152000438360": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000037&tvd=2152000379324&vrn=100100067795849&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000379324&type=464",
@@ -2943,14 +2943,14 @@ export const duma_2016_uik_463_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бестаев Сослан Вигентиевич": 33,
-      "Гиоев Руслан Борисович": 41,
-      "Кучиев Гарий Юрьевич": 40,
-      "Мусульбес Нугзар Владимирович": 31,
-      "Писаренко Владимир Петрович": 92,
-      "Таймазов Артур Борисович": 1542,
-      "Хатагов Алексей Михайлович": 38,
-      "Хацаева Фатима Мусаевна": 30
+      "gas:candidate-vibid:2152000400183": 33,
+      "gas:candidate-vibid:2152000438158": 41,
+      "gas:candidate-vibid:2152000437052": 40,
+      "gas:candidate-vibid:2152000437067": 31,
+      "gas:candidate-vibid:2152000438554": 92,
+      "gas:candidate-vibid:2152000438348": 1542,
+      "gas:candidate-vibid:2152000437933": 38,
+      "gas:candidate-vibid:2152000438360": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000037&tvd=2152000379324&vrn=100100067795849&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000379324&type=464",
@@ -3001,14 +3001,14 @@ export const duma_2016_uik_463_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бестаев Сослан Вигентиевич": 0,
-      "Гиоев Руслан Борисович": 0,
-      "Кучиев Гарий Юрьевич": 616,
-      "Мусульбес Нугзар Владимирович": 0,
-      "Писаренко Владимир Петрович": 70,
-      "Таймазов Артур Борисович": 1368,
-      "Хатагов Алексей Михайлович": 0,
-      "Хацаева Фатима Мусаевна": 0
+      "gas:candidate-vibid:2152000400183": 0,
+      "gas:candidate-vibid:2152000438158": 0,
+      "gas:candidate-vibid:2152000437052": 616,
+      "gas:candidate-vibid:2152000437067": 0,
+      "gas:candidate-vibid:2152000438554": 70,
+      "gas:candidate-vibid:2152000438348": 1368,
+      "gas:candidate-vibid:2152000437933": 0,
+      "gas:candidate-vibid:2152000438360": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000037&tvd=2152000379324&vrn=100100067795849&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000379324&type=464",
@@ -3059,14 +3059,14 @@ export const duma_2016_uik_463_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бестаев Сослан Вигентиевич": 0,
-      "Гиоев Руслан Борисович": 0,
-      "Кучиев Гарий Юрьевич": 502,
-      "Мусульбес Нугзар Владимирович": 6,
-      "Писаренко Владимир Петрович": 191,
-      "Таймазов Артур Борисович": 998,
-      "Хатагов Алексей Михайлович": 47,
-      "Хацаева Фатима Мусаевна": 6
+      "gas:candidate-vibid:2152000400183": 0,
+      "gas:candidate-vibid:2152000438158": 0,
+      "gas:candidate-vibid:2152000437052": 502,
+      "gas:candidate-vibid:2152000437067": 6,
+      "gas:candidate-vibid:2152000438554": 191,
+      "gas:candidate-vibid:2152000438348": 998,
+      "gas:candidate-vibid:2152000437933": 47,
+      "gas:candidate-vibid:2152000438360": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000037&tvd=2152000379324&vrn=100100067795849&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000379324&type=464",
@@ -3117,14 +3117,14 @@ export const duma_2016_uik_463_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бестаев Сослан Вигентиевич": 59,
-      "Гиоев Руслан Борисович": 52,
-      "Кучиев Гарий Юрьевич": 69,
-      "Мусульбес Нугзар Владимирович": 127,
-      "Писаренко Владимир Петрович": 70,
-      "Таймазов Артур Борисович": 1495,
-      "Хатагов Алексей Михайлович": 31,
-      "Хацаева Фатима Мусаевна": 29
+      "gas:candidate-vibid:2152000400183": 59,
+      "gas:candidate-vibid:2152000438158": 52,
+      "gas:candidate-vibid:2152000437052": 69,
+      "gas:candidate-vibid:2152000437067": 127,
+      "gas:candidate-vibid:2152000438554": 70,
+      "gas:candidate-vibid:2152000438348": 1495,
+      "gas:candidate-vibid:2152000437933": 31,
+      "gas:candidate-vibid:2152000438360": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000037&tvd=2152000379324&vrn=100100067795849&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000379324&type=464",
@@ -3175,14 +3175,14 @@ export const duma_2016_uik_463_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бестаев Сослан Вигентиевич": 27,
-      "Гиоев Руслан Борисович": 0,
-      "Кучиев Гарий Юрьевич": 303,
-      "Мусульбес Нугзар Владимирович": 0,
-      "Писаренко Владимир Петрович": 49,
-      "Таймазов Артур Борисович": 624,
-      "Хатагов Алексей Михайлович": 0,
-      "Хацаева Фатима Мусаевна": 0
+      "gas:candidate-vibid:2152000400183": 27,
+      "gas:candidate-vibid:2152000438158": 0,
+      "gas:candidate-vibid:2152000437052": 303,
+      "gas:candidate-vibid:2152000437067": 0,
+      "gas:candidate-vibid:2152000438554": 49,
+      "gas:candidate-vibid:2152000438348": 624,
+      "gas:candidate-vibid:2152000437933": 0,
+      "gas:candidate-vibid:2152000438360": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000037&tvd=2152000379324&vrn=100100067795849&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000379324&type=464",
@@ -3233,14 +3233,14 @@ export const duma_2016_uik_463_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бестаев Сослан Вигентиевич": 38,
-      "Гиоев Руслан Борисович": 25,
-      "Кучиев Гарий Юрьевич": 399,
-      "Мусульбес Нугзар Владимирович": 29,
-      "Писаренко Владимир Петрович": 41,
-      "Таймазов Артур Борисович": 848,
-      "Хатагов Алексей Михайлович": 12,
-      "Хацаева Фатима Мусаевна": 26
+      "gas:candidate-vibid:2152000400183": 38,
+      "gas:candidate-vibid:2152000438158": 25,
+      "gas:candidate-vibid:2152000437052": 399,
+      "gas:candidate-vibid:2152000437067": 29,
+      "gas:candidate-vibid:2152000438554": 41,
+      "gas:candidate-vibid:2152000438348": 848,
+      "gas:candidate-vibid:2152000437933": 12,
+      "gas:candidate-vibid:2152000438360": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000037&tvd=2152000379324&vrn=100100067795849&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000379324&type=464",
@@ -3291,14 +3291,14 @@ export const duma_2016_uik_463_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бестаев Сослан Вигентиевич": 6,
-      "Гиоев Руслан Борисович": 0,
-      "Кучиев Гарий Юрьевич": 20,
-      "Мусульбес Нугзар Владимирович": 0,
-      "Писаренко Владимир Петрович": 0,
-      "Таймазов Артур Борисович": 177,
-      "Хатагов Алексей Михайлович": 0,
-      "Хацаева Фатима Мусаевна": 0
+      "gas:candidate-vibid:2152000400183": 6,
+      "gas:candidate-vibid:2152000438158": 0,
+      "gas:candidate-vibid:2152000437052": 20,
+      "gas:candidate-vibid:2152000437067": 0,
+      "gas:candidate-vibid:2152000438554": 0,
+      "gas:candidate-vibid:2152000438348": 177,
+      "gas:candidate-vibid:2152000437933": 0,
+      "gas:candidate-vibid:2152000438360": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000037&tvd=2152000379324&vrn=100100067795849&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000379324&type=464",
@@ -3349,14 +3349,14 @@ export const duma_2016_uik_463_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бестаев Сослан Вигентиевич": 0,
-      "Гиоев Руслан Борисович": 0,
-      "Кучиев Гарий Юрьевич": 253,
-      "Мусульбес Нугзар Владимирович": 0,
-      "Писаренко Владимир Петрович": 0,
-      "Таймазов Артур Борисович": 2047,
-      "Хатагов Алексей Михайлович": 0,
-      "Хацаева Фатима Мусаевна": 0
+      "gas:candidate-vibid:2152000400183": 0,
+      "gas:candidate-vibid:2152000438158": 0,
+      "gas:candidate-vibid:2152000437052": 253,
+      "gas:candidate-vibid:2152000437067": 0,
+      "gas:candidate-vibid:2152000438554": 0,
+      "gas:candidate-vibid:2152000438348": 2047,
+      "gas:candidate-vibid:2152000437933": 0,
+      "gas:candidate-vibid:2152000438360": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000037&tvd=2152000379324&vrn=100100067795849&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000379324&type=464",
@@ -3407,14 +3407,14 @@ export const duma_2016_uik_463_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бестаев Сослан Вигентиевич": 18,
-      "Гиоев Руслан Борисович": 8,
-      "Кучиев Гарий Юрьевич": 80,
-      "Мусульбес Нугзар Владимирович": 24,
-      "Писаренко Владимир Петрович": 21,
-      "Таймазов Артур Борисович": 2083,
-      "Хатагов Алексей Михайлович": 64,
-      "Хацаева Фатима Мусаевна": 37
+      "gas:candidate-vibid:2152000400183": 18,
+      "gas:candidate-vibid:2152000438158": 8,
+      "gas:candidate-vibid:2152000437052": 80,
+      "gas:candidate-vibid:2152000437067": 24,
+      "gas:candidate-vibid:2152000438554": 21,
+      "gas:candidate-vibid:2152000438348": 2083,
+      "gas:candidate-vibid:2152000437933": 64,
+      "gas:candidate-vibid:2152000438360": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000037&tvd=2152000379324&vrn=100100067795849&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000379324&type=464",
@@ -3465,14 +3465,14 @@ export const duma_2016_uik_463_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бестаев Сослан Вигентиевич": 22,
-      "Гиоев Руслан Борисович": 14,
-      "Кучиев Гарий Юрьевич": 57,
-      "Мусульбес Нугзар Владимирович": 32,
-      "Писаренко Владимир Петрович": 33,
-      "Таймазов Артур Борисович": 2079,
-      "Хатагов Алексей Михайлович": 32,
-      "Хацаева Фатима Мусаевна": 22
+      "gas:candidate-vibid:2152000400183": 22,
+      "gas:candidate-vibid:2152000438158": 14,
+      "gas:candidate-vibid:2152000437052": 57,
+      "gas:candidate-vibid:2152000437067": 32,
+      "gas:candidate-vibid:2152000438554": 33,
+      "gas:candidate-vibid:2152000438348": 2079,
+      "gas:candidate-vibid:2152000437933": 32,
+      "gas:candidate-vibid:2152000438360": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000037&tvd=2152000379324&vrn=100100067795849&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000379324&type=464",
@@ -3523,14 +3523,14 @@ export const duma_2016_uik_463_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бестаев Сослан Вигентиевич": 40,
-      "Гиоев Руслан Борисович": 0,
-      "Кучиев Гарий Юрьевич": 0,
-      "Мусульбес Нугзар Владимирович": 28,
-      "Писаренко Владимир Петрович": 32,
-      "Таймазов Артур Борисович": 2400,
-      "Хатагов Алексей Михайлович": 0,
-      "Хацаева Фатима Мусаевна": 0
+      "gas:candidate-vibid:2152000400183": 40,
+      "gas:candidate-vibid:2152000438158": 0,
+      "gas:candidate-vibid:2152000437052": 0,
+      "gas:candidate-vibid:2152000437067": 28,
+      "gas:candidate-vibid:2152000438554": 32,
+      "gas:candidate-vibid:2152000438348": 2400,
+      "gas:candidate-vibid:2152000437933": 0,
+      "gas:candidate-vibid:2152000438360": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000037&tvd=2152000379324&vrn=100100067795849&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000379324&type=464",
@@ -3581,14 +3581,14 @@ export const duma_2016_uik_463_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бестаев Сослан Вигентиевич": 14,
-      "Гиоев Руслан Борисович": 0,
-      "Кучиев Гарий Юрьевич": 0,
-      "Мусульбес Нугзар Владимирович": 20,
-      "Писаренко Владимир Петрович": 0,
-      "Таймазов Артур Борисович": 1621,
-      "Хатагов Алексей Михайлович": 0,
-      "Хацаева Фатима Мусаевна": 0
+      "gas:candidate-vibid:2152000400183": 14,
+      "gas:candidate-vibid:2152000438158": 0,
+      "gas:candidate-vibid:2152000437052": 0,
+      "gas:candidate-vibid:2152000437067": 20,
+      "gas:candidate-vibid:2152000438554": 0,
+      "gas:candidate-vibid:2152000438348": 1621,
+      "gas:candidate-vibid:2152000437933": 0,
+      "gas:candidate-vibid:2152000438360": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000037&tvd=2152000379324&vrn=100100067795849&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000379324&type=464",
@@ -3639,14 +3639,14 @@ export const duma_2016_uik_463_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бестаев Сослан Вигентиевич": 21,
-      "Гиоев Руслан Борисович": 4,
-      "Кучиев Гарий Юрьевич": 19,
-      "Мусульбес Нугзар Владимирович": 17,
-      "Писаренко Владимир Петрович": 8,
-      "Таймазов Артур Борисович": 1303,
-      "Хатагов Алексей Михайлович": 22,
-      "Хацаева Фатима Мусаевна": 6
+      "gas:candidate-vibid:2152000400183": 21,
+      "gas:candidate-vibid:2152000438158": 4,
+      "gas:candidate-vibid:2152000437052": 19,
+      "gas:candidate-vibid:2152000437067": 17,
+      "gas:candidate-vibid:2152000438554": 8,
+      "gas:candidate-vibid:2152000438348": 1303,
+      "gas:candidate-vibid:2152000437933": 22,
+      "gas:candidate-vibid:2152000438360": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000037&tvd=2152000379324&vrn=100100067795849&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000379324&type=464",
@@ -3697,14 +3697,14 @@ export const duma_2016_uik_463_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бестаев Сослан Вигентиевич": 39,
-      "Гиоев Руслан Борисович": 45,
-      "Кучиев Гарий Юрьевич": 165,
-      "Мусульбес Нугзар Владимирович": 76,
-      "Писаренко Владимир Петрович": 40,
-      "Таймазов Артур Борисович": 1522,
-      "Хатагов Алексей Михайлович": 13,
-      "Хацаева Фатима Мусаевна": 0
+      "gas:candidate-vibid:2152000400183": 39,
+      "gas:candidate-vibid:2152000438158": 45,
+      "gas:candidate-vibid:2152000437052": 165,
+      "gas:candidate-vibid:2152000437067": 76,
+      "gas:candidate-vibid:2152000438554": 40,
+      "gas:candidate-vibid:2152000438348": 1522,
+      "gas:candidate-vibid:2152000437933": 13,
+      "gas:candidate-vibid:2152000438360": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000037&tvd=2152000379324&vrn=100100067795849&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000379324&type=464",
@@ -3755,14 +3755,14 @@ export const duma_2016_uik_463_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бестаев Сослан Вигентиевич": 27,
-      "Гиоев Руслан Борисович": 4,
-      "Кучиев Гарий Юрьевич": 23,
-      "Мусульбес Нугзар Владимирович": 41,
-      "Писаренко Владимир Петрович": 17,
-      "Таймазов Артур Борисович": 526,
-      "Хатагов Алексей Михайлович": 4,
-      "Хацаева Фатима Мусаевна": 21
+      "gas:candidate-vibid:2152000400183": 27,
+      "gas:candidate-vibid:2152000438158": 4,
+      "gas:candidate-vibid:2152000437052": 23,
+      "gas:candidate-vibid:2152000437067": 41,
+      "gas:candidate-vibid:2152000438554": 17,
+      "gas:candidate-vibid:2152000438348": 526,
+      "gas:candidate-vibid:2152000437933": 4,
+      "gas:candidate-vibid:2152000438360": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000037&tvd=2152000379324&vrn=100100067795849&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000379324&type=464",
@@ -3813,14 +3813,14 @@ export const duma_2016_uik_463_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бестаев Сослан Вигентиевич": 61,
-      "Гиоев Руслан Борисович": 91,
-      "Кучиев Гарий Юрьевич": 82,
-      "Мусульбес Нугзар Владимирович": 136,
-      "Писаренко Владимир Петрович": 6,
-      "Таймазов Артур Борисович": 1722,
-      "Хатагов Алексей Михайлович": 53,
-      "Хацаева Фатима Мусаевна": 129
+      "gas:candidate-vibid:2152000400183": 61,
+      "gas:candidate-vibid:2152000438158": 91,
+      "gas:candidate-vibid:2152000437052": 82,
+      "gas:candidate-vibid:2152000437067": 136,
+      "gas:candidate-vibid:2152000438554": 6,
+      "gas:candidate-vibid:2152000438348": 1722,
+      "gas:candidate-vibid:2152000437933": 53,
+      "gas:candidate-vibid:2152000438360": 129
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000037&tvd=2152000379324&vrn=100100067795849&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000379324&type=464",
@@ -3871,14 +3871,14 @@ export const duma_2016_uik_463_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бестаев Сослан Вигентиевич": 18,
-      "Гиоев Руслан Борисович": 8,
-      "Кучиев Гарий Юрьевич": 156,
-      "Мусульбес Нугзар Владимирович": 14,
-      "Писаренко Владимир Петрович": 24,
-      "Таймазов Артур Борисович": 638,
-      "Хатагов Алексей Михайлович": 8,
-      "Хацаева Фатима Мусаевна": 15
+      "gas:candidate-vibid:2152000400183": 18,
+      "gas:candidate-vibid:2152000438158": 8,
+      "gas:candidate-vibid:2152000437052": 156,
+      "gas:candidate-vibid:2152000437067": 14,
+      "gas:candidate-vibid:2152000438554": 24,
+      "gas:candidate-vibid:2152000438348": 638,
+      "gas:candidate-vibid:2152000437933": 8,
+      "gas:candidate-vibid:2152000438360": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000037&tvd=2152000379324&vrn=100100067795849&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000379324&type=464",
@@ -3929,14 +3929,14 @@ export const duma_2016_uik_463_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бестаев Сослан Вигентиевич": 0,
-      "Гиоев Руслан Борисович": 0,
-      "Кучиев Гарий Юрьевич": 0,
-      "Мусульбес Нугзар Владимирович": 0,
-      "Писаренко Владимир Петрович": 0,
-      "Таймазов Артур Борисович": 1697,
-      "Хатагов Алексей Михайлович": 0,
-      "Хацаева Фатима Мусаевна": 0
+      "gas:candidate-vibid:2152000400183": 0,
+      "gas:candidate-vibid:2152000438158": 0,
+      "gas:candidate-vibid:2152000437052": 0,
+      "gas:candidate-vibid:2152000437067": 0,
+      "gas:candidate-vibid:2152000438554": 0,
+      "gas:candidate-vibid:2152000438348": 1697,
+      "gas:candidate-vibid:2152000437933": 0,
+      "gas:candidate-vibid:2152000438360": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000037&tvd=2152000379324&vrn=100100067795849&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000379324&type=464",
@@ -3987,14 +3987,14 @@ export const duma_2016_uik_463_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бестаев Сослан Вигентиевич": 6,
-      "Гиоев Руслан Борисович": 5,
-      "Кучиев Гарий Юрьевич": 46,
-      "Мусульбес Нугзар Владимирович": 24,
-      "Писаренко Владимир Петрович": 15,
-      "Таймазов Артур Борисович": 587,
-      "Хатагов Алексей Михайлович": 5,
-      "Хацаева Фатима Мусаевна": 5
+      "gas:candidate-vibid:2152000400183": 6,
+      "gas:candidate-vibid:2152000438158": 5,
+      "gas:candidate-vibid:2152000437052": 46,
+      "gas:candidate-vibid:2152000437067": 24,
+      "gas:candidate-vibid:2152000438554": 15,
+      "gas:candidate-vibid:2152000438348": 587,
+      "gas:candidate-vibid:2152000437933": 5,
+      "gas:candidate-vibid:2152000438360": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000037&tvd=2152000379324&vrn=100100067795849&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000379324&type=464",
@@ -4045,14 +4045,14 @@ export const duma_2016_uik_463_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бестаев Сослан Вигентиевич": 30,
-      "Гиоев Руслан Борисович": 74,
-      "Кучиев Гарий Юрьевич": 25,
-      "Мусульбес Нугзар Владимирович": 40,
-      "Писаренко Владимир Петрович": 32,
-      "Таймазов Артур Борисович": 1206,
-      "Хатагов Алексей Михайлович": 11,
-      "Хацаева Фатима Мусаевна": 13
+      "gas:candidate-vibid:2152000400183": 30,
+      "gas:candidate-vibid:2152000438158": 74,
+      "gas:candidate-vibid:2152000437052": 25,
+      "gas:candidate-vibid:2152000437067": 40,
+      "gas:candidate-vibid:2152000438554": 32,
+      "gas:candidate-vibid:2152000438348": 1206,
+      "gas:candidate-vibid:2152000437933": 11,
+      "gas:candidate-vibid:2152000438360": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000037&tvd=2152000379324&vrn=100100067795849&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000379324&type=464",
@@ -4103,14 +4103,14 @@ export const duma_2016_uik_463_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бестаев Сослан Вигентиевич": 28,
-      "Гиоев Руслан Борисович": 26,
-      "Кучиев Гарий Юрьевич": 69,
-      "Мусульбес Нугзар Владимирович": 21,
-      "Писаренко Владимир Петрович": 96,
-      "Таймазов Артур Борисович": 1005,
-      "Хатагов Алексей Михайлович": 3,
-      "Хацаева Фатима Мусаевна": 1
+      "gas:candidate-vibid:2152000400183": 28,
+      "gas:candidate-vibid:2152000438158": 26,
+      "gas:candidate-vibid:2152000437052": 69,
+      "gas:candidate-vibid:2152000437067": 21,
+      "gas:candidate-vibid:2152000438554": 96,
+      "gas:candidate-vibid:2152000438348": 1005,
+      "gas:candidate-vibid:2152000437933": 3,
+      "gas:candidate-vibid:2152000438360": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000037&tvd=2152000379324&vrn=100100067795849&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000379324&type=464",
@@ -4161,14 +4161,14 @@ export const duma_2016_uik_463_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бестаев Сослан Вигентиевич": 26,
-      "Гиоев Руслан Борисович": 22,
-      "Кучиев Гарий Юрьевич": 23,
-      "Мусульбес Нугзар Владимирович": 20,
-      "Писаренко Владимир Петрович": 14,
-      "Таймазов Артур Борисович": 948,
-      "Хатагов Алексей Михайлович": 4,
-      "Хацаева Фатима Мусаевна": 5
+      "gas:candidate-vibid:2152000400183": 26,
+      "gas:candidate-vibid:2152000438158": 22,
+      "gas:candidate-vibid:2152000437052": 23,
+      "gas:candidate-vibid:2152000437067": 20,
+      "gas:candidate-vibid:2152000438554": 14,
+      "gas:candidate-vibid:2152000438348": 948,
+      "gas:candidate-vibid:2152000437933": 4,
+      "gas:candidate-vibid:2152000438360": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000037&tvd=2152000379324&vrn=100100067795849&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000379324&type=464",
@@ -4219,14 +4219,14 @@ export const duma_2016_uik_463_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бестаев Сослан Вигентиевич": 19,
-      "Гиоев Руслан Борисович": 41,
-      "Кучиев Гарий Юрьевич": 16,
-      "Мусульбес Нугзар Владимирович": 49,
-      "Писаренко Владимир Петрович": 37,
-      "Таймазов Артур Борисович": 924,
-      "Хатагов Алексей Михайлович": 16,
-      "Хацаева Фатима Мусаевна": 36
+      "gas:candidate-vibid:2152000400183": 19,
+      "gas:candidate-vibid:2152000438158": 41,
+      "gas:candidate-vibid:2152000437052": 16,
+      "gas:candidate-vibid:2152000437067": 49,
+      "gas:candidate-vibid:2152000438554": 37,
+      "gas:candidate-vibid:2152000438348": 924,
+      "gas:candidate-vibid:2152000437933": 16,
+      "gas:candidate-vibid:2152000438360": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000037&tvd=2152000379324&vrn=100100067795849&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000379324&type=464",
@@ -4277,14 +4277,14 @@ export const duma_2016_uik_463_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бестаев Сослан Вигентиевич": 108,
-      "Гиоев Руслан Борисович": 103,
-      "Кучиев Гарий Юрьевич": 133,
-      "Мусульбес Нугзар Владимирович": 108,
-      "Писаренко Владимир Петрович": 6,
-      "Таймазов Артур Борисович": 954,
-      "Хатагов Алексей Михайлович": 107,
-      "Хацаева Фатима Мусаевна": 139
+      "gas:candidate-vibid:2152000400183": 108,
+      "gas:candidate-vibid:2152000438158": 103,
+      "gas:candidate-vibid:2152000437052": 133,
+      "gas:candidate-vibid:2152000437067": 108,
+      "gas:candidate-vibid:2152000438554": 6,
+      "gas:candidate-vibid:2152000438348": 954,
+      "gas:candidate-vibid:2152000437933": 107,
+      "gas:candidate-vibid:2152000438360": 139
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000037&tvd=2152000379324&vrn=100100067795849&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000379324&type=464",
@@ -4335,14 +4335,14 @@ export const duma_2016_uik_463_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бестаев Сослан Вигентиевич": 17,
-      "Гиоев Руслан Борисович": 19,
-      "Кучиев Гарий Юрьевич": 486,
-      "Мусульбес Нугзар Владимирович": 58,
-      "Писаренко Владимир Петрович": 26,
-      "Таймазов Артур Борисович": 1254,
-      "Хатагов Алексей Михайлович": 0,
-      "Хацаева Фатима Мусаевна": 69
+      "gas:candidate-vibid:2152000400183": 17,
+      "gas:candidate-vibid:2152000438158": 19,
+      "gas:candidate-vibid:2152000437052": 486,
+      "gas:candidate-vibid:2152000437067": 58,
+      "gas:candidate-vibid:2152000438554": 26,
+      "gas:candidate-vibid:2152000438348": 1254,
+      "gas:candidate-vibid:2152000437933": 0,
+      "gas:candidate-vibid:2152000438360": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000037&tvd=2152000379324&vrn=100100067795849&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000379324&type=464",
@@ -4393,14 +4393,14 @@ export const duma_2016_uik_463_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бестаев Сослан Вигентиевич": 19,
-      "Гиоев Руслан Борисович": 20,
-      "Кучиев Гарий Юрьевич": 26,
-      "Мусульбес Нугзар Владимирович": 33,
-      "Писаренко Владимир Петрович": 27,
-      "Таймазов Артур Борисович": 2255,
-      "Хатагов Алексей Михайлович": 13,
-      "Хацаева Фатима Мусаевна": 7
+      "gas:candidate-vibid:2152000400183": 19,
+      "gas:candidate-vibid:2152000438158": 20,
+      "gas:candidate-vibid:2152000437052": 26,
+      "gas:candidate-vibid:2152000437067": 33,
+      "gas:candidate-vibid:2152000438554": 27,
+      "gas:candidate-vibid:2152000438348": 2255,
+      "gas:candidate-vibid:2152000437933": 13,
+      "gas:candidate-vibid:2152000438360": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000037&tvd=2152000379324&vrn=100100067795849&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000379324&type=464",
@@ -4451,14 +4451,14 @@ export const duma_2016_uik_463_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бестаев Сослан Вигентиевич": 34,
-      "Гиоев Руслан Борисович": 27,
-      "Кучиев Гарий Юрьевич": 46,
-      "Мусульбес Нугзар Владимирович": 51,
-      "Писаренко Владимир Петрович": 45,
-      "Таймазов Артур Борисович": 1769,
-      "Хатагов Алексей Михайлович": 21,
-      "Хацаева Фатима Мусаевна": 27
+      "gas:candidate-vibid:2152000400183": 34,
+      "gas:candidate-vibid:2152000438158": 27,
+      "gas:candidate-vibid:2152000437052": 46,
+      "gas:candidate-vibid:2152000437067": 51,
+      "gas:candidate-vibid:2152000438554": 45,
+      "gas:candidate-vibid:2152000438348": 1769,
+      "gas:candidate-vibid:2152000437933": 21,
+      "gas:candidate-vibid:2152000438360": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000037&tvd=2152000379324&vrn=100100067795849&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000379324&type=464",
@@ -4509,14 +4509,14 @@ export const duma_2016_uik_463_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бестаев Сослан Вигентиевич": 20,
-      "Гиоев Руслан Борисович": 5,
-      "Кучиев Гарий Юрьевич": 45,
-      "Мусульбес Нугзар Владимирович": 46,
-      "Писаренко Владимир Петрович": 16,
-      "Таймазов Артур Борисович": 1227,
-      "Хатагов Алексей Михайлович": 12,
-      "Хацаева Фатима Мусаевна": 7
+      "gas:candidate-vibid:2152000400183": 20,
+      "gas:candidate-vibid:2152000438158": 5,
+      "gas:candidate-vibid:2152000437052": 45,
+      "gas:candidate-vibid:2152000437067": 46,
+      "gas:candidate-vibid:2152000438554": 16,
+      "gas:candidate-vibid:2152000438348": 1227,
+      "gas:candidate-vibid:2152000437933": 12,
+      "gas:candidate-vibid:2152000438360": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000037&tvd=2152000379324&vrn=100100067795849&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000379324&type=464",
@@ -4567,14 +4567,14 @@ export const duma_2016_uik_463_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бестаев Сослан Вигентиевич": 13,
-      "Гиоев Руслан Борисович": 14,
-      "Кучиев Гарий Юрьевич": 12,
-      "Мусульбес Нугзар Владимирович": 12,
-      "Писаренко Владимир Петрович": 8,
-      "Таймазов Артур Борисович": 1332,
-      "Хатагов Алексей Михайлович": 16,
-      "Хацаева Фатима Мусаевна": 14
+      "gas:candidate-vibid:2152000400183": 13,
+      "gas:candidate-vibid:2152000438158": 14,
+      "gas:candidate-vibid:2152000437052": 12,
+      "gas:candidate-vibid:2152000437067": 12,
+      "gas:candidate-vibid:2152000438554": 8,
+      "gas:candidate-vibid:2152000438348": 1332,
+      "gas:candidate-vibid:2152000437933": 16,
+      "gas:candidate-vibid:2152000438360": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000037&tvd=2152000379324&vrn=100100067795849&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000379324&type=464",
@@ -4625,14 +4625,14 @@ export const duma_2016_uik_463_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бестаев Сослан Вигентиевич": 34,
-      "Гиоев Руслан Борисович": 27,
-      "Кучиев Гарий Юрьевич": 32,
-      "Мусульбес Нугзар Владимирович": 7,
-      "Писаренко Владимир Петрович": 3,
-      "Таймазов Артур Борисович": 493,
-      "Хатагов Алексей Михайлович": 13,
-      "Хацаева Фатима Мусаевна": 7
+      "gas:candidate-vibid:2152000400183": 34,
+      "gas:candidate-vibid:2152000438158": 27,
+      "gas:candidate-vibid:2152000437052": 32,
+      "gas:candidate-vibid:2152000437067": 7,
+      "gas:candidate-vibid:2152000438554": 3,
+      "gas:candidate-vibid:2152000438348": 493,
+      "gas:candidate-vibid:2152000437933": 13,
+      "gas:candidate-vibid:2152000438360": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000037&tvd=2152000379324&vrn=100100067795849&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000379324&type=464",
@@ -4683,14 +4683,14 @@ export const duma_2016_uik_463_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бестаев Сослан Вигентиевич": 14,
-      "Гиоев Руслан Борисович": 8,
-      "Кучиев Гарий Юрьевич": 19,
-      "Мусульбес Нугзар Владимирович": 12,
-      "Писаренко Владимир Петрович": 5,
-      "Таймазов Артур Борисович": 665,
-      "Хатагов Алексей Михайлович": 4,
-      "Хацаева Фатима Мусаевна": 6
+      "gas:candidate-vibid:2152000400183": 14,
+      "gas:candidate-vibid:2152000438158": 8,
+      "gas:candidate-vibid:2152000437052": 19,
+      "gas:candidate-vibid:2152000437067": 12,
+      "gas:candidate-vibid:2152000438554": 5,
+      "gas:candidate-vibid:2152000438348": 665,
+      "gas:candidate-vibid:2152000437933": 4,
+      "gas:candidate-vibid:2152000438360": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000037&tvd=2152000379324&vrn=100100067795849&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000379324&type=464",
@@ -4741,14 +4741,14 @@ export const duma_2016_uik_463_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бестаев Сослан Вигентиевич": 25,
-      "Гиоев Руслан Борисович": 11,
-      "Кучиев Гарий Юрьевич": 559,
-      "Мусульбес Нугзар Владимирович": 20,
-      "Писаренко Владимир Петрович": 27,
-      "Таймазов Артур Борисович": 1556,
-      "Хатагов Алексей Михайлович": 12,
-      "Хацаева Фатима Мусаевна": 18
+      "gas:candidate-vibid:2152000400183": 25,
+      "gas:candidate-vibid:2152000438158": 11,
+      "gas:candidate-vibid:2152000437052": 559,
+      "gas:candidate-vibid:2152000437067": 20,
+      "gas:candidate-vibid:2152000438554": 27,
+      "gas:candidate-vibid:2152000438348": 1556,
+      "gas:candidate-vibid:2152000437933": 12,
+      "gas:candidate-vibid:2152000438360": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000037&tvd=2152000379324&vrn=100100067795849&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000379324&type=464",
@@ -4799,14 +4799,14 @@ export const duma_2016_uik_463_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бестаев Сослан Вигентиевич": 18,
-      "Гиоев Руслан Борисович": 12,
-      "Кучиев Гарий Юрьевич": 36,
-      "Мусульбес Нугзар Владимирович": 33,
-      "Писаренко Владимир Петрович": 21,
-      "Таймазов Артур Борисович": 1403,
-      "Хатагов Алексей Михайлович": 5,
-      "Хацаева Фатима Мусаевна": 11
+      "gas:candidate-vibid:2152000400183": 18,
+      "gas:candidate-vibid:2152000438158": 12,
+      "gas:candidate-vibid:2152000437052": 36,
+      "gas:candidate-vibid:2152000437067": 33,
+      "gas:candidate-vibid:2152000438554": 21,
+      "gas:candidate-vibid:2152000438348": 1403,
+      "gas:candidate-vibid:2152000437933": 5,
+      "gas:candidate-vibid:2152000438360": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000037&tvd=2152000379324&vrn=100100067795849&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000379324&type=464",
@@ -4857,14 +4857,14 @@ export const duma_2016_uik_463_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бестаев Сослан Вигентиевич": 19,
-      "Гиоев Руслан Борисович": 11,
-      "Кучиев Гарий Юрьевич": 34,
-      "Мусульбес Нугзар Владимирович": 8,
-      "Писаренко Владимир Петрович": 16,
-      "Таймазов Артур Борисович": 1365,
-      "Хатагов Алексей Михайлович": 6,
-      "Хацаева Фатима Мусаевна": 6
+      "gas:candidate-vibid:2152000400183": 19,
+      "gas:candidate-vibid:2152000438158": 11,
+      "gas:candidate-vibid:2152000437052": 34,
+      "gas:candidate-vibid:2152000437067": 8,
+      "gas:candidate-vibid:2152000438554": 16,
+      "gas:candidate-vibid:2152000438348": 1365,
+      "gas:candidate-vibid:2152000437933": 6,
+      "gas:candidate-vibid:2152000438360": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000037&tvd=2152000379324&vrn=100100067795849&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000379324&type=464",
@@ -4915,14 +4915,14 @@ export const duma_2016_uik_463_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бестаев Сослан Вигентиевич": 0,
-      "Гиоев Руслан Борисович": 0,
-      "Кучиев Гарий Юрьевич": 120,
-      "Мусульбес Нугзар Владимирович": 0,
-      "Писаренко Владимир Петрович": 3,
-      "Таймазов Артур Борисович": 675,
-      "Хатагов Алексей Михайлович": 0,
-      "Хацаева Фатима Мусаевна": 0
+      "gas:candidate-vibid:2152000400183": 0,
+      "gas:candidate-vibid:2152000438158": 0,
+      "gas:candidate-vibid:2152000437052": 120,
+      "gas:candidate-vibid:2152000437067": 0,
+      "gas:candidate-vibid:2152000438554": 3,
+      "gas:candidate-vibid:2152000438348": 675,
+      "gas:candidate-vibid:2152000437933": 0,
+      "gas:candidate-vibid:2152000438360": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000037&tvd=2152000379324&vrn=100100067795849&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000379324&type=464",
@@ -4973,14 +4973,14 @@ export const duma_2016_uik_463_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бестаев Сослан Вигентиевич": 0,
-      "Гиоев Руслан Борисович": 0,
-      "Кучиев Гарий Юрьевич": 183,
-      "Мусульбес Нугзар Владимирович": 0,
-      "Писаренко Владимир Петрович": 0,
-      "Таймазов Артур Борисович": 756,
-      "Хатагов Алексей Михайлович": 0,
-      "Хацаева Фатима Мусаевна": 0
+      "gas:candidate-vibid:2152000400183": 0,
+      "gas:candidate-vibid:2152000438158": 0,
+      "gas:candidate-vibid:2152000437052": 183,
+      "gas:candidate-vibid:2152000437067": 0,
+      "gas:candidate-vibid:2152000438554": 0,
+      "gas:candidate-vibid:2152000438348": 756,
+      "gas:candidate-vibid:2152000437933": 0,
+      "gas:candidate-vibid:2152000438360": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000037&tvd=2152000379324&vrn=100100067795849&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000379324&type=464",
@@ -5031,14 +5031,14 @@ export const duma_2016_uik_463_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бестаев Сослан Вигентиевич": 0,
-      "Гиоев Руслан Борисович": 0,
-      "Кучиев Гарий Юрьевич": 366,
-      "Мусульбес Нугзар Владимирович": 0,
-      "Писаренко Владимир Петрович": 0,
-      "Таймазов Артур Борисович": 1291,
-      "Хатагов Алексей Михайлович": 0,
-      "Хацаева Фатима Мусаевна": 0
+      "gas:candidate-vibid:2152000400183": 0,
+      "gas:candidate-vibid:2152000438158": 0,
+      "gas:candidate-vibid:2152000437052": 366,
+      "gas:candidate-vibid:2152000437067": 0,
+      "gas:candidate-vibid:2152000438554": 0,
+      "gas:candidate-vibid:2152000438348": 1291,
+      "gas:candidate-vibid:2152000437933": 0,
+      "gas:candidate-vibid:2152000438360": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000037&tvd=2152000379324&vrn=100100067795849&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000379324&type=464",
@@ -5089,14 +5089,14 @@ export const duma_2016_uik_463_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бестаев Сослан Вигентиевич": 10,
-      "Гиоев Руслан Борисович": 3,
-      "Кучиев Гарий Юрьевич": 6,
-      "Мусульбес Нугзар Владимирович": 16,
-      "Писаренко Владимир Петрович": 1,
-      "Таймазов Артур Борисович": 292,
-      "Хатагов Алексей Михайлович": 0,
-      "Хацаева Фатима Мусаевна": 4
+      "gas:candidate-vibid:2152000400183": 10,
+      "gas:candidate-vibid:2152000438158": 3,
+      "gas:candidate-vibid:2152000437052": 6,
+      "gas:candidate-vibid:2152000437067": 16,
+      "gas:candidate-vibid:2152000438554": 1,
+      "gas:candidate-vibid:2152000438348": 292,
+      "gas:candidate-vibid:2152000437933": 0,
+      "gas:candidate-vibid:2152000438360": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000037&tvd=2152000379324&vrn=100100067795849&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000379324&type=464",
@@ -5147,14 +5147,14 @@ export const duma_2016_uik_463_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бестаев Сослан Вигентиевич": 26,
-      "Гиоев Руслан Борисович": 4,
-      "Кучиев Гарий Юрьевич": 9,
-      "Мусульбес Нугзар Владимирович": 7,
-      "Писаренко Владимир Петрович": 14,
-      "Таймазов Артур Борисович": 220,
-      "Хатагов Алексей Михайлович": 2,
-      "Хацаева Фатима Мусаевна": 11
+      "gas:candidate-vibid:2152000400183": 26,
+      "gas:candidate-vibid:2152000438158": 4,
+      "gas:candidate-vibid:2152000437052": 9,
+      "gas:candidate-vibid:2152000437067": 7,
+      "gas:candidate-vibid:2152000438554": 14,
+      "gas:candidate-vibid:2152000438348": 220,
+      "gas:candidate-vibid:2152000437933": 2,
+      "gas:candidate-vibid:2152000438360": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000037&tvd=2152000379324&vrn=100100067795849&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000379324&type=464",
@@ -5205,14 +5205,14 @@ export const duma_2016_uik_463_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бестаев Сослан Вигентиевич": 4,
-      "Гиоев Руслан Борисович": 3,
-      "Кучиев Гарий Юрьевич": 3,
-      "Мусульбес Нугзар Владимирович": 3,
-      "Писаренко Владимир Петрович": 2,
-      "Таймазов Артур Борисович": 41,
-      "Хатагов Алексей Михайлович": 0,
-      "Хацаева Фатима Мусаевна": 2
+      "gas:candidate-vibid:2152000400183": 4,
+      "gas:candidate-vibid:2152000438158": 3,
+      "gas:candidate-vibid:2152000437052": 3,
+      "gas:candidate-vibid:2152000437067": 3,
+      "gas:candidate-vibid:2152000438554": 2,
+      "gas:candidate-vibid:2152000438348": 41,
+      "gas:candidate-vibid:2152000437933": 0,
+      "gas:candidate-vibid:2152000438360": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000037&tvd=2152000379324&vrn=100100067795849&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000379324&type=464",
@@ -5263,14 +5263,14 @@ export const duma_2016_uik_463_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бестаев Сослан Вигентиевич": 2,
-      "Гиоев Руслан Борисович": 0,
-      "Кучиев Гарий Юрьевич": 0,
-      "Мусульбес Нугзар Владимирович": 1,
-      "Писаренко Владимир Петрович": 1,
-      "Таймазов Артур Борисович": 4,
-      "Хатагов Алексей Михайлович": 135,
-      "Хацаева Фатима Мусаевна": 1
+      "gas:candidate-vibid:2152000400183": 2,
+      "gas:candidate-vibid:2152000438158": 0,
+      "gas:candidate-vibid:2152000437052": 0,
+      "gas:candidate-vibid:2152000437067": 1,
+      "gas:candidate-vibid:2152000438554": 1,
+      "gas:candidate-vibid:2152000438348": 4,
+      "gas:candidate-vibid:2152000437933": 135,
+      "gas:candidate-vibid:2152000438360": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000037&tvd=2152000379324&vrn=100100067795849&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000379324&type=464",
@@ -5321,14 +5321,14 @@ export const duma_2016_uik_463_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бестаев Сослан Вигентиевич": 6,
-      "Гиоев Руслан Борисович": 3,
-      "Кучиев Гарий Юрьевич": 3,
-      "Мусульбес Нугзар Владимирович": 1,
-      "Писаренко Владимир Петрович": 1,
-      "Таймазов Артур Борисович": 179,
-      "Хатагов Алексей Михайлович": 0,
-      "Хацаева Фатима Мусаевна": 1
+      "gas:candidate-vibid:2152000400183": 6,
+      "gas:candidate-vibid:2152000438158": 3,
+      "gas:candidate-vibid:2152000437052": 3,
+      "gas:candidate-vibid:2152000437067": 1,
+      "gas:candidate-vibid:2152000438554": 1,
+      "gas:candidate-vibid:2152000438348": 179,
+      "gas:candidate-vibid:2152000437933": 0,
+      "gas:candidate-vibid:2152000438360": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000037&tvd=2152000379324&vrn=100100067795849&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000379324&type=464",
@@ -5379,14 +5379,14 @@ export const duma_2016_uik_463_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бестаев Сослан Вигентиевич": 7,
-      "Гиоев Руслан Борисович": 3,
-      "Кучиев Гарий Юрьевич": 6,
-      "Мусульбес Нугзар Владимирович": 4,
-      "Писаренко Владимир Петрович": 3,
-      "Таймазов Артур Борисович": 162,
-      "Хатагов Алексей Михайлович": 0,
-      "Хацаева Фатима Мусаевна": 2
+      "gas:candidate-vibid:2152000400183": 7,
+      "gas:candidate-vibid:2152000438158": 3,
+      "gas:candidate-vibid:2152000437052": 6,
+      "gas:candidate-vibid:2152000437067": 4,
+      "gas:candidate-vibid:2152000438554": 3,
+      "gas:candidate-vibid:2152000438348": 162,
+      "gas:candidate-vibid:2152000437933": 0,
+      "gas:candidate-vibid:2152000438360": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000037&tvd=2152000379324&vrn=100100067795849&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000379324&type=464",
@@ -5437,14 +5437,14 @@ export const duma_2016_uik_463_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бестаев Сослан Вигентиевич": 0,
-      "Гиоев Руслан Борисович": 0,
-      "Кучиев Гарий Юрьевич": 1,
-      "Мусульбес Нугзар Владимирович": 0,
-      "Писаренко Владимир Петрович": 0,
-      "Таймазов Артур Борисович": 181,
-      "Хатагов Алексей Михайлович": 1,
-      "Хацаева Фатима Мусаевна": 0
+      "gas:candidate-vibid:2152000400183": 0,
+      "gas:candidate-vibid:2152000438158": 0,
+      "gas:candidate-vibid:2152000437052": 1,
+      "gas:candidate-vibid:2152000437067": 0,
+      "gas:candidate-vibid:2152000438554": 0,
+      "gas:candidate-vibid:2152000438348": 181,
+      "gas:candidate-vibid:2152000437933": 1,
+      "gas:candidate-vibid:2152000438360": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000037&tvd=2152000379324&vrn=100100067795849&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000379324&type=464",
@@ -5495,14 +5495,14 @@ export const duma_2016_uik_463_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бестаев Сослан Вигентиевич": 4,
-      "Гиоев Руслан Борисович": 0,
-      "Кучиев Гарий Юрьевич": 6,
-      "Мусульбес Нугзар Владимирович": 0,
-      "Писаренко Владимир Петрович": 0,
-      "Таймазов Артур Борисович": 134,
-      "Хатагов Алексей Михайлович": 0,
-      "Хацаева Фатима Мусаевна": 0
+      "gas:candidate-vibid:2152000400183": 4,
+      "gas:candidate-vibid:2152000438158": 0,
+      "gas:candidate-vibid:2152000437052": 6,
+      "gas:candidate-vibid:2152000437067": 0,
+      "gas:candidate-vibid:2152000438554": 0,
+      "gas:candidate-vibid:2152000438348": 134,
+      "gas:candidate-vibid:2152000437933": 0,
+      "gas:candidate-vibid:2152000438360": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000037&tvd=2152000379324&vrn=100100067795849&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000379324&type=464",
@@ -5553,14 +5553,14 @@ export const duma_2016_uik_463_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бестаев Сослан Вигентиевич": 33,
-      "Гиоев Руслан Борисович": 13,
-      "Кучиев Гарий Юрьевич": 30,
-      "Мусульбес Нугзар Владимирович": 25,
-      "Писаренко Владимир Петрович": 14,
-      "Таймазов Артур Борисович": 338,
-      "Хатагов Алексей Михайлович": 9,
-      "Хацаева Фатима Мусаевна": 12
+      "gas:candidate-vibid:2152000400183": 33,
+      "gas:candidate-vibid:2152000438158": 13,
+      "gas:candidate-vibid:2152000437052": 30,
+      "gas:candidate-vibid:2152000437067": 25,
+      "gas:candidate-vibid:2152000438554": 14,
+      "gas:candidate-vibid:2152000438348": 338,
+      "gas:candidate-vibid:2152000437933": 9,
+      "gas:candidate-vibid:2152000438360": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000037&tvd=2152000379324&vrn=100100067795849&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000379324&type=464",
@@ -5611,14 +5611,14 @@ export const duma_2016_uik_463_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бестаев Сослан Вигентиевич": 6,
-      "Гиоев Руслан Борисович": 1,
-      "Кучиев Гарий Юрьевич": 5,
-      "Мусульбес Нугзар Владимирович": 5,
-      "Писаренко Владимир Петрович": 15,
-      "Таймазов Артур Борисович": 244,
-      "Хатагов Алексей Михайлович": 0,
-      "Хацаева Фатима Мусаевна": 1
+      "gas:candidate-vibid:2152000400183": 6,
+      "gas:candidate-vibid:2152000438158": 1,
+      "gas:candidate-vibid:2152000437052": 5,
+      "gas:candidate-vibid:2152000437067": 5,
+      "gas:candidate-vibid:2152000438554": 15,
+      "gas:candidate-vibid:2152000438348": 244,
+      "gas:candidate-vibid:2152000437933": 0,
+      "gas:candidate-vibid:2152000438360": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000037&tvd=2152000379324&vrn=100100067795849&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000379324&type=464",
@@ -5669,14 +5669,14 @@ export const duma_2016_uik_463_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бестаев Сослан Вигентиевич": 24,
-      "Гиоев Руслан Борисович": 13,
-      "Кучиев Гарий Юрьевич": 7,
-      "Мусульбес Нугзар Владимирович": 7,
-      "Писаренко Владимир Петрович": 6,
-      "Таймазов Артур Борисович": 376,
-      "Хатагов Алексей Михайлович": 8,
-      "Хацаева Фатима Мусаевна": 3
+      "gas:candidate-vibid:2152000400183": 24,
+      "gas:candidate-vibid:2152000438158": 13,
+      "gas:candidate-vibid:2152000437052": 7,
+      "gas:candidate-vibid:2152000437067": 7,
+      "gas:candidate-vibid:2152000438554": 6,
+      "gas:candidate-vibid:2152000438348": 376,
+      "gas:candidate-vibid:2152000437933": 8,
+      "gas:candidate-vibid:2152000438360": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000037&tvd=2152000379324&vrn=100100067795849&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000379324&type=464",
@@ -5727,14 +5727,14 @@ export const duma_2016_uik_463_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бестаев Сослан Вигентиевич": 36,
-      "Гиоев Руслан Борисович": 20,
-      "Кучиев Гарий Юрьевич": 50,
-      "Мусульбес Нугзар Владимирович": 35,
-      "Писаренко Владимир Петрович": 51,
-      "Таймазов Артур Борисович": 1463,
-      "Хатагов Алексей Михайлович": 9,
-      "Хацаева Фатима Мусаевна": 22
+      "gas:candidate-vibid:2152000400183": 36,
+      "gas:candidate-vibid:2152000438158": 20,
+      "gas:candidate-vibid:2152000437052": 50,
+      "gas:candidate-vibid:2152000437067": 35,
+      "gas:candidate-vibid:2152000438554": 51,
+      "gas:candidate-vibid:2152000438348": 1463,
+      "gas:candidate-vibid:2152000437933": 9,
+      "gas:candidate-vibid:2152000438360": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000037&tvd=2152000379324&vrn=100100067795849&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000379324&type=464",
@@ -5785,14 +5785,14 @@ export const duma_2016_uik_463_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бестаев Сослан Вигентиевич": 35,
-      "Гиоев Руслан Борисович": 7,
-      "Кучиев Гарий Юрьевич": 20,
-      "Мусульбес Нугзар Владимирович": 8,
-      "Писаренко Владимир Петрович": 27,
-      "Таймазов Артур Борисович": 2316,
-      "Хатагов Алексей Михайлович": 4,
-      "Хацаева Фатима Мусаевна": 7
+      "gas:candidate-vibid:2152000400183": 35,
+      "gas:candidate-vibid:2152000438158": 7,
+      "gas:candidate-vibid:2152000437052": 20,
+      "gas:candidate-vibid:2152000437067": 8,
+      "gas:candidate-vibid:2152000438554": 27,
+      "gas:candidate-vibid:2152000438348": 2316,
+      "gas:candidate-vibid:2152000437933": 4,
+      "gas:candidate-vibid:2152000438360": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000037&tvd=2152000379324&vrn=100100067795849&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000379324&type=464",
@@ -5843,14 +5843,14 @@ export const duma_2016_uik_463_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бестаев Сослан Вигентиевич": 74,
-      "Гиоев Руслан Борисович": 18,
-      "Кучиев Гарий Юрьевич": 53,
-      "Мусульбес Нугзар Владимирович": 18,
-      "Писаренко Владимир Петрович": 36,
-      "Таймазов Артур Борисович": 415,
-      "Хатагов Алексей Михайлович": 8,
-      "Хацаева Фатима Мусаевна": 12
+      "gas:candidate-vibid:2152000400183": 74,
+      "gas:candidate-vibid:2152000438158": 18,
+      "gas:candidate-vibid:2152000437052": 53,
+      "gas:candidate-vibid:2152000437067": 18,
+      "gas:candidate-vibid:2152000438554": 36,
+      "gas:candidate-vibid:2152000438348": 415,
+      "gas:candidate-vibid:2152000437933": 8,
+      "gas:candidate-vibid:2152000438360": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000037&tvd=2152000379324&vrn=100100067795849&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000379324&type=464",
@@ -5901,14 +5901,14 @@ export const duma_2016_uik_463_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бестаев Сослан Вигентиевич": 70,
-      "Гиоев Руслан Борисович": 77,
-      "Кучиев Гарий Юрьевич": 130,
-      "Мусульбес Нугзар Владимирович": 125,
-      "Писаренко Владимир Петрович": 60,
-      "Таймазов Артур Борисович": 1090,
-      "Хатагов Алексей Михайлович": 58,
-      "Хацаева Фатима Мусаевна": 115
+      "gas:candidate-vibid:2152000400183": 70,
+      "gas:candidate-vibid:2152000438158": 77,
+      "gas:candidate-vibid:2152000437052": 130,
+      "gas:candidate-vibid:2152000437067": 125,
+      "gas:candidate-vibid:2152000438554": 60,
+      "gas:candidate-vibid:2152000438348": 1090,
+      "gas:candidate-vibid:2152000437933": 58,
+      "gas:candidate-vibid:2152000438360": 115
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000037&tvd=2152000379325&vrn=100100067795849&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000379325&type=464",
@@ -5959,14 +5959,14 @@ export const duma_2016_uik_463_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бестаев Сослан Вигентиевич": 8,
-      "Гиоев Руслан Борисович": 4,
-      "Кучиев Гарий Юрьевич": 90,
-      "Мусульбес Нугзар Владимирович": 3,
-      "Писаренко Владимир Петрович": 9,
-      "Таймазов Артур Борисович": 1523,
-      "Хатагов Алексей Михайлович": 0,
-      "Хацаева Фатима Мусаевна": 4
+      "gas:candidate-vibid:2152000400183": 8,
+      "gas:candidate-vibid:2152000438158": 4,
+      "gas:candidate-vibid:2152000437052": 90,
+      "gas:candidate-vibid:2152000437067": 3,
+      "gas:candidate-vibid:2152000438554": 9,
+      "gas:candidate-vibid:2152000438348": 1523,
+      "gas:candidate-vibid:2152000437933": 0,
+      "gas:candidate-vibid:2152000438360": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000037&tvd=2152000379325&vrn=100100067795849&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000379325&type=464",
@@ -6017,14 +6017,14 @@ export const duma_2016_uik_463_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бестаев Сослан Вигентиевич": 108,
-      "Гиоев Руслан Борисович": 9,
-      "Кучиев Гарий Юрьевич": 12,
-      "Мусульбес Нугзар Владимирович": 18,
-      "Писаренко Владимир Петрович": 4,
-      "Таймазов Артур Борисович": 1470,
-      "Хатагов Алексей Михайлович": 4,
-      "Хацаева Фатима Мусаевна": 15
+      "gas:candidate-vibid:2152000400183": 108,
+      "gas:candidate-vibid:2152000438158": 9,
+      "gas:candidate-vibid:2152000437052": 12,
+      "gas:candidate-vibid:2152000437067": 18,
+      "gas:candidate-vibid:2152000438554": 4,
+      "gas:candidate-vibid:2152000438348": 1470,
+      "gas:candidate-vibid:2152000437933": 4,
+      "gas:candidate-vibid:2152000438360": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000037&tvd=2152000379325&vrn=100100067795849&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000379325&type=464",
@@ -6075,14 +6075,14 @@ export const duma_2016_uik_463_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бестаев Сослан Вигентиевич": 6,
-      "Гиоев Руслан Борисович": 1,
-      "Кучиев Гарий Юрьевич": 14,
-      "Мусульбес Нугзар Владимирович": 6,
-      "Писаренко Владимир Петрович": 3,
-      "Таймазов Артур Борисович": 860,
-      "Хатагов Алексей Михайлович": 1,
-      "Хацаева Фатима Мусаевна": 29
+      "gas:candidate-vibid:2152000400183": 6,
+      "gas:candidate-vibid:2152000438158": 1,
+      "gas:candidate-vibid:2152000437052": 14,
+      "gas:candidate-vibid:2152000437067": 6,
+      "gas:candidate-vibid:2152000438554": 3,
+      "gas:candidate-vibid:2152000438348": 860,
+      "gas:candidate-vibid:2152000437933": 1,
+      "gas:candidate-vibid:2152000438360": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000037&tvd=2152000379325&vrn=100100067795849&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000379325&type=464",
@@ -6133,14 +6133,14 @@ export const duma_2016_uik_463_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бестаев Сослан Вигентиевич": 20,
-      "Гиоев Руслан Борисович": 0,
-      "Кучиев Гарий Юрьевич": 36,
-      "Мусульбес Нугзар Владимирович": 8,
-      "Писаренко Владимир Петрович": 0,
-      "Таймазов Артур Борисович": 2260,
-      "Хатагов Алексей Михайлович": 0,
-      "Хацаева Фатима Мусаевна": 0
+      "gas:candidate-vibid:2152000400183": 20,
+      "gas:candidate-vibid:2152000438158": 0,
+      "gas:candidate-vibid:2152000437052": 36,
+      "gas:candidate-vibid:2152000437067": 8,
+      "gas:candidate-vibid:2152000438554": 0,
+      "gas:candidate-vibid:2152000438348": 2260,
+      "gas:candidate-vibid:2152000437933": 0,
+      "gas:candidate-vibid:2152000438360": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000037&tvd=2152000379325&vrn=100100067795849&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000379325&type=464",
@@ -6191,14 +6191,14 @@ export const duma_2016_uik_463_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бестаев Сослан Вигентиевич": 9,
-      "Гиоев Руслан Борисович": 3,
-      "Кучиев Гарий Юрьевич": 37,
-      "Мусульбес Нугзар Владимирович": 22,
-      "Писаренко Владимир Петрович": 7,
-      "Таймазов Артур Борисович": 993,
-      "Хатагов Алексей Михайлович": 0,
-      "Хацаева Фатима Мусаевна": 0
+      "gas:candidate-vibid:2152000400183": 9,
+      "gas:candidate-vibid:2152000438158": 3,
+      "gas:candidate-vibid:2152000437052": 37,
+      "gas:candidate-vibid:2152000437067": 22,
+      "gas:candidate-vibid:2152000438554": 7,
+      "gas:candidate-vibid:2152000438348": 993,
+      "gas:candidate-vibid:2152000437933": 0,
+      "gas:candidate-vibid:2152000438360": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000037&tvd=2152000379325&vrn=100100067795849&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000379325&type=464",
@@ -6249,14 +6249,14 @@ export const duma_2016_uik_463_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бестаев Сослан Вигентиевич": 38,
-      "Гиоев Руслан Борисович": 5,
-      "Кучиев Гарий Юрьевич": 98,
-      "Мусульбес Нугзар Владимирович": 25,
-      "Писаренко Владимир Петрович": 5,
-      "Таймазов Артур Борисович": 802,
-      "Хатагов Алексей Михайлович": 5,
-      "Хацаева Фатима Мусаевна": 14
+      "gas:candidate-vibid:2152000400183": 38,
+      "gas:candidate-vibid:2152000438158": 5,
+      "gas:candidate-vibid:2152000437052": 98,
+      "gas:candidate-vibid:2152000437067": 25,
+      "gas:candidate-vibid:2152000438554": 5,
+      "gas:candidate-vibid:2152000438348": 802,
+      "gas:candidate-vibid:2152000437933": 5,
+      "gas:candidate-vibid:2152000438360": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000037&tvd=2152000379325&vrn=100100067795849&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000379325&type=464",
@@ -6307,14 +6307,14 @@ export const duma_2016_uik_463_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бестаев Сослан Вигентиевич": 0,
-      "Гиоев Руслан Борисович": 3,
-      "Кучиев Гарий Юрьевич": 4,
-      "Мусульбес Нугзар Владимирович": 8,
-      "Писаренко Владимир Петрович": 0,
-      "Таймазов Артур Борисович": 204,
-      "Хатагов Алексей Михайлович": 0,
-      "Хацаева Фатима Мусаевна": 7
+      "gas:candidate-vibid:2152000400183": 0,
+      "gas:candidate-vibid:2152000438158": 3,
+      "gas:candidate-vibid:2152000437052": 4,
+      "gas:candidate-vibid:2152000437067": 8,
+      "gas:candidate-vibid:2152000438554": 0,
+      "gas:candidate-vibid:2152000438348": 204,
+      "gas:candidate-vibid:2152000437933": 0,
+      "gas:candidate-vibid:2152000438360": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000037&tvd=2152000379325&vrn=100100067795849&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000379325&type=464",
@@ -6365,14 +6365,14 @@ export const duma_2016_uik_463_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бестаев Сослан Вигентиевич": 10,
-      "Гиоев Руслан Борисович": 3,
-      "Кучиев Гарий Юрьевич": 8,
-      "Мусульбес Нугзар Владимирович": 9,
-      "Писаренко Владимир Петрович": 17,
-      "Таймазов Артур Борисович": 473,
-      "Хатагов Алексей Михайлович": 2,
-      "Хацаева Фатима Мусаевна": 4
+      "gas:candidate-vibid:2152000400183": 10,
+      "gas:candidate-vibid:2152000438158": 3,
+      "gas:candidate-vibid:2152000437052": 8,
+      "gas:candidate-vibid:2152000437067": 9,
+      "gas:candidate-vibid:2152000438554": 17,
+      "gas:candidate-vibid:2152000438348": 473,
+      "gas:candidate-vibid:2152000437933": 2,
+      "gas:candidate-vibid:2152000438360": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000037&tvd=2152000379325&vrn=100100067795849&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000379325&type=464",
@@ -6423,14 +6423,14 @@ export const duma_2016_uik_463_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бестаев Сослан Вигентиевич": 3,
-      "Гиоев Руслан Борисович": 3,
-      "Кучиев Гарий Юрьевич": 19,
-      "Мусульбес Нугзар Владимирович": 6,
-      "Писаренко Владимир Петрович": 0,
-      "Таймазов Артур Борисович": 878,
-      "Хатагов Алексей Михайлович": 1,
-      "Хацаева Фатима Мусаевна": 1
+      "gas:candidate-vibid:2152000400183": 3,
+      "gas:candidate-vibid:2152000438158": 3,
+      "gas:candidate-vibid:2152000437052": 19,
+      "gas:candidate-vibid:2152000437067": 6,
+      "gas:candidate-vibid:2152000438554": 0,
+      "gas:candidate-vibid:2152000438348": 878,
+      "gas:candidate-vibid:2152000437933": 1,
+      "gas:candidate-vibid:2152000438360": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000037&tvd=2152000379325&vrn=100100067795849&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000379325&type=464",
@@ -6481,14 +6481,14 @@ export const duma_2016_uik_463_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бестаев Сослан Вигентиевич": 11,
-      "Гиоев Руслан Борисович": 15,
-      "Кучиев Гарий Юрьевич": 234,
-      "Мусульбес Нугзар Владимирович": 50,
-      "Писаренко Владимир Петрович": 9,
-      "Таймазов Артур Борисович": 1561,
-      "Хатагов Алексей Михайлович": 17,
-      "Хацаева Фатима Мусаевна": 31
+      "gas:candidate-vibid:2152000400183": 11,
+      "gas:candidate-vibid:2152000438158": 15,
+      "gas:candidate-vibid:2152000437052": 234,
+      "gas:candidate-vibid:2152000437067": 50,
+      "gas:candidate-vibid:2152000438554": 9,
+      "gas:candidate-vibid:2152000438348": 1561,
+      "gas:candidate-vibid:2152000437933": 17,
+      "gas:candidate-vibid:2152000438360": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000037&tvd=2152000379325&vrn=100100067795849&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000379325&type=464",
@@ -6539,14 +6539,14 @@ export const duma_2016_uik_463_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бестаев Сослан Вигентиевич": 23,
-      "Гиоев Руслан Борисович": 10,
-      "Кучиев Гарий Юрьевич": 45,
-      "Мусульбес Нугзар Владимирович": 28,
-      "Писаренко Владимир Петрович": 19,
-      "Таймазов Артур Борисович": 1813,
-      "Хатагов Алексей Михайлович": 13,
-      "Хацаева Фатима Мусаевна": 36
+      "gas:candidate-vibid:2152000400183": 23,
+      "gas:candidate-vibid:2152000438158": 10,
+      "gas:candidate-vibid:2152000437052": 45,
+      "gas:candidate-vibid:2152000437067": 28,
+      "gas:candidate-vibid:2152000438554": 19,
+      "gas:candidate-vibid:2152000438348": 1813,
+      "gas:candidate-vibid:2152000437933": 13,
+      "gas:candidate-vibid:2152000438360": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000037&tvd=2152000379325&vrn=100100067795849&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000379325&type=464",
@@ -6597,14 +6597,14 @@ export const duma_2016_uik_463_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бестаев Сослан Вигентиевич": 123,
-      "Гиоев Руслан Борисович": 17,
-      "Кучиев Гарий Юрьевич": 45,
-      "Мусульбес Нугзар Владимирович": 143,
-      "Писаренко Владимир Петрович": 18,
-      "Таймазов Артур Борисович": 1408,
-      "Хатагов Алексей Михайлович": 53,
-      "Хацаева Фатима Мусаевна": 134
+      "gas:candidate-vibid:2152000400183": 123,
+      "gas:candidate-vibid:2152000438158": 17,
+      "gas:candidate-vibid:2152000437052": 45,
+      "gas:candidate-vibid:2152000437067": 143,
+      "gas:candidate-vibid:2152000438554": 18,
+      "gas:candidate-vibid:2152000438348": 1408,
+      "gas:candidate-vibid:2152000437933": 53,
+      "gas:candidate-vibid:2152000438360": 134
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000037&tvd=2152000379325&vrn=100100067795849&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000379325&type=464",
@@ -6655,14 +6655,14 @@ export const duma_2016_uik_463_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бестаев Сослан Вигентиевич": 15,
-      "Гиоев Руслан Борисович": 0,
-      "Кучиев Гарий Юрьевич": 59,
-      "Мусульбес Нугзар Владимирович": 42,
-      "Писаренко Владимир Петрович": 7,
-      "Таймазов Артур Борисович": 893,
-      "Хатагов Алексей Михайлович": 16,
-      "Хацаева Фатима Мусаевна": 33
+      "gas:candidate-vibid:2152000400183": 15,
+      "gas:candidate-vibid:2152000438158": 0,
+      "gas:candidate-vibid:2152000437052": 59,
+      "gas:candidate-vibid:2152000437067": 42,
+      "gas:candidate-vibid:2152000438554": 7,
+      "gas:candidate-vibid:2152000438348": 893,
+      "gas:candidate-vibid:2152000437933": 16,
+      "gas:candidate-vibid:2152000438360": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000037&tvd=2152000379325&vrn=100100067795849&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000379325&type=464",
@@ -6713,14 +6713,14 @@ export const duma_2016_uik_463_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бестаев Сослан Вигентиевич": 137,
-      "Гиоев Руслан Борисович": 58,
-      "Кучиев Гарий Юрьевич": 41,
-      "Мусульбес Нугзар Владимирович": 44,
-      "Писаренко Владимир Петрович": 71,
-      "Таймазов Артур Борисович": 1016,
-      "Хатагов Алексей Михайлович": 70,
-      "Хацаева Фатима Мусаевна": 70
+      "gas:candidate-vibid:2152000400183": 137,
+      "gas:candidate-vibid:2152000438158": 58,
+      "gas:candidate-vibid:2152000437052": 41,
+      "gas:candidate-vibid:2152000437067": 44,
+      "gas:candidate-vibid:2152000438554": 71,
+      "gas:candidate-vibid:2152000438348": 1016,
+      "gas:candidate-vibid:2152000437933": 70,
+      "gas:candidate-vibid:2152000438360": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000037&tvd=2152000379325&vrn=100100067795849&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000379325&type=464",
@@ -6771,14 +6771,14 @@ export const duma_2016_uik_463_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бестаев Сослан Вигентиевич": 28,
-      "Гиоев Руслан Борисович": 13,
-      "Кучиев Гарий Юрьевич": 29,
-      "Мусульбес Нугзар Владимирович": 24,
-      "Писаренко Владимир Петрович": 12,
-      "Таймазов Артур Борисович": 1452,
-      "Хатагов Алексей Михайлович": 14,
-      "Хацаева Фатима Мусаевна": 18
+      "gas:candidate-vibid:2152000400183": 28,
+      "gas:candidate-vibid:2152000438158": 13,
+      "gas:candidate-vibid:2152000437052": 29,
+      "gas:candidate-vibid:2152000437067": 24,
+      "gas:candidate-vibid:2152000438554": 12,
+      "gas:candidate-vibid:2152000438348": 1452,
+      "gas:candidate-vibid:2152000437933": 14,
+      "gas:candidate-vibid:2152000438360": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000037&tvd=2152000379325&vrn=100100067795849&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000379325&type=464",
@@ -6829,14 +6829,14 @@ export const duma_2016_uik_463_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бестаев Сослан Вигентиевич": 42,
-      "Гиоев Руслан Борисович": 27,
-      "Кучиев Гарий Юрьевич": 43,
-      "Мусульбес Нугзар Владимирович": 63,
-      "Писаренко Владимир Петрович": 29,
-      "Таймазов Артур Борисович": 1882,
-      "Хатагов Алексей Михайлович": 11,
-      "Хацаева Фатима Мусаевна": 41
+      "gas:candidate-vibid:2152000400183": 42,
+      "gas:candidate-vibid:2152000438158": 27,
+      "gas:candidate-vibid:2152000437052": 43,
+      "gas:candidate-vibid:2152000437067": 63,
+      "gas:candidate-vibid:2152000438554": 29,
+      "gas:candidate-vibid:2152000438348": 1882,
+      "gas:candidate-vibid:2152000437933": 11,
+      "gas:candidate-vibid:2152000438360": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000037&tvd=2152000379325&vrn=100100067795849&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000379325&type=464",
@@ -6887,14 +6887,14 @@ export const duma_2016_uik_463_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бестаев Сослан Вигентиевич": 27,
-      "Гиоев Руслан Борисович": 5,
-      "Кучиев Гарий Юрьевич": 21,
-      "Мусульбес Нугзар Владимирович": 24,
-      "Писаренко Владимир Петрович": 13,
-      "Таймазов Артур Борисович": 1206,
-      "Хатагов Алексей Михайлович": 2,
-      "Хацаева Фатима Мусаевна": 17
+      "gas:candidate-vibid:2152000400183": 27,
+      "gas:candidate-vibid:2152000438158": 5,
+      "gas:candidate-vibid:2152000437052": 21,
+      "gas:candidate-vibid:2152000437067": 24,
+      "gas:candidate-vibid:2152000438554": 13,
+      "gas:candidate-vibid:2152000438348": 1206,
+      "gas:candidate-vibid:2152000437933": 2,
+      "gas:candidate-vibid:2152000438360": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000037&tvd=2152000379325&vrn=100100067795849&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000379325&type=464",
@@ -6945,14 +6945,14 @@ export const duma_2016_uik_463_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бестаев Сослан Вигентиевич": 18,
-      "Гиоев Руслан Борисович": 5,
-      "Кучиев Гарий Юрьевич": 8,
-      "Мусульбес Нугзар Владимирович": 14,
-      "Писаренко Владимир Петрович": 5,
-      "Таймазов Артур Борисович": 171,
-      "Хатагов Алексей Михайлович": 3,
-      "Хацаева Фатима Мусаевна": 15
+      "gas:candidate-vibid:2152000400183": 18,
+      "gas:candidate-vibid:2152000438158": 5,
+      "gas:candidate-vibid:2152000437052": 8,
+      "gas:candidate-vibid:2152000437067": 14,
+      "gas:candidate-vibid:2152000438554": 5,
+      "gas:candidate-vibid:2152000438348": 171,
+      "gas:candidate-vibid:2152000437933": 3,
+      "gas:candidate-vibid:2152000438360": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000037&tvd=2152000379325&vrn=100100067795849&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000379325&type=464",
@@ -7003,14 +7003,14 @@ export const duma_2016_uik_463_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бестаев Сослан Вигентиевич": 13,
-      "Гиоев Руслан Борисович": 10,
-      "Кучиев Гарий Юрьевич": 11,
-      "Мусульбес Нугзар Владимирович": 14,
-      "Писаренко Владимир Петрович": 2,
-      "Таймазов Артур Борисович": 1230,
-      "Хатагов Алексей Михайлович": 6,
-      "Хацаева Фатима Мусаевна": 8
+      "gas:candidate-vibid:2152000400183": 13,
+      "gas:candidate-vibid:2152000438158": 10,
+      "gas:candidate-vibid:2152000437052": 11,
+      "gas:candidate-vibid:2152000437067": 14,
+      "gas:candidate-vibid:2152000438554": 2,
+      "gas:candidate-vibid:2152000438348": 1230,
+      "gas:candidate-vibid:2152000437933": 6,
+      "gas:candidate-vibid:2152000438360": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000037&tvd=2152000379325&vrn=100100067795849&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000379325&type=464",
@@ -7061,14 +7061,14 @@ export const duma_2016_uik_463_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бестаев Сослан Вигентиевич": 33,
-      "Гиоев Руслан Борисович": 6,
-      "Кучиев Гарий Юрьевич": 32,
-      "Мусульбес Нугзар Владимирович": 21,
-      "Писаренко Владимир Петрович": 15,
-      "Таймазов Артур Борисович": 1190,
-      "Хатагов Алексей Михайлович": 7,
-      "Хацаева Фатима Мусаевна": 23
+      "gas:candidate-vibid:2152000400183": 33,
+      "gas:candidate-vibid:2152000438158": 6,
+      "gas:candidate-vibid:2152000437052": 32,
+      "gas:candidate-vibid:2152000437067": 21,
+      "gas:candidate-vibid:2152000438554": 15,
+      "gas:candidate-vibid:2152000438348": 1190,
+      "gas:candidate-vibid:2152000437933": 7,
+      "gas:candidate-vibid:2152000438360": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000037&tvd=2152000379325&vrn=100100067795849&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000379325&type=464",
@@ -7119,14 +7119,14 @@ export const duma_2016_uik_463_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бестаев Сослан Вигентиевич": 103,
-      "Гиоев Руслан Борисович": 12,
-      "Кучиев Гарий Юрьевич": 44,
-      "Мусульбес Нугзар Владимирович": 49,
-      "Писаренко Владимир Петрович": 18,
-      "Таймазов Артур Борисович": 1813,
-      "Хатагов Алексей Михайлович": 12,
-      "Хацаева Фатима Мусаевна": 24
+      "gas:candidate-vibid:2152000400183": 103,
+      "gas:candidate-vibid:2152000438158": 12,
+      "gas:candidate-vibid:2152000437052": 44,
+      "gas:candidate-vibid:2152000437067": 49,
+      "gas:candidate-vibid:2152000438554": 18,
+      "gas:candidate-vibid:2152000438348": 1813,
+      "gas:candidate-vibid:2152000437933": 12,
+      "gas:candidate-vibid:2152000438360": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000037&tvd=2152000379325&vrn=100100067795849&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000379325&type=464",
@@ -7177,14 +7177,14 @@ export const duma_2016_uik_463_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бестаев Сослан Вигентиевич": 78,
-      "Гиоев Руслан Борисович": 6,
-      "Кучиев Гарий Юрьевич": 71,
-      "Мусульбес Нугзар Владимирович": 75,
-      "Писаренко Владимир Петрович": 11,
-      "Таймазов Артур Борисович": 1084,
-      "Хатагов Алексей Михайлович": 52,
-      "Хацаева Фатима Мусаевна": 120
+      "gas:candidate-vibid:2152000400183": 78,
+      "gas:candidate-vibid:2152000438158": 6,
+      "gas:candidate-vibid:2152000437052": 71,
+      "gas:candidate-vibid:2152000437067": 75,
+      "gas:candidate-vibid:2152000438554": 11,
+      "gas:candidate-vibid:2152000438348": 1084,
+      "gas:candidate-vibid:2152000437933": 52,
+      "gas:candidate-vibid:2152000438360": 120
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000037&tvd=2152000379325&vrn=100100067795849&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000379325&type=464",
@@ -7235,14 +7235,14 @@ export const duma_2016_uik_463_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бестаев Сослан Вигентиевич": 60,
-      "Гиоев Руслан Борисович": 18,
-      "Кучиев Гарий Юрьевич": 28,
-      "Мусульбес Нугзар Владимирович": 40,
-      "Писаренко Владимир Петрович": 43,
-      "Таймазов Артур Борисович": 1113,
-      "Хатагов Алексей Михайлович": 7,
-      "Хацаева Фатима Мусаевна": 20
+      "gas:candidate-vibid:2152000400183": 60,
+      "gas:candidate-vibid:2152000438158": 18,
+      "gas:candidate-vibid:2152000437052": 28,
+      "gas:candidate-vibid:2152000437067": 40,
+      "gas:candidate-vibid:2152000438554": 43,
+      "gas:candidate-vibid:2152000438348": 1113,
+      "gas:candidate-vibid:2152000437933": 7,
+      "gas:candidate-vibid:2152000438360": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000037&tvd=2152000379325&vrn=100100067795849&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000379325&type=464",
@@ -7293,14 +7293,14 @@ export const duma_2016_uik_463_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бестаев Сослан Вигентиевич": 14,
-      "Гиоев Руслан Борисович": 7,
-      "Кучиев Гарий Юрьевич": 6,
-      "Мусульбес Нугзар Владимирович": 18,
-      "Писаренко Владимир Петрович": 5,
-      "Таймазов Артур Борисович": 178,
-      "Хатагов Алексей Михайлович": 3,
-      "Хацаева Фатима Мусаевна": 2
+      "gas:candidate-vibid:2152000400183": 14,
+      "gas:candidate-vibid:2152000438158": 7,
+      "gas:candidate-vibid:2152000437052": 6,
+      "gas:candidate-vibid:2152000437067": 18,
+      "gas:candidate-vibid:2152000438554": 5,
+      "gas:candidate-vibid:2152000438348": 178,
+      "gas:candidate-vibid:2152000437933": 3,
+      "gas:candidate-vibid:2152000438360": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000037&tvd=2152000379325&vrn=100100067795849&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000379325&type=464",
@@ -7351,14 +7351,14 @@ export const duma_2016_uik_463_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бестаев Сослан Вигентиевич": 38,
-      "Гиоев Руслан Борисович": 11,
-      "Кучиев Гарий Юрьевич": 37,
-      "Мусульбес Нугзар Владимирович": 21,
-      "Писаренко Владимир Петрович": 13,
-      "Таймазов Артур Борисович": 540,
-      "Хатагов Алексей Михайлович": 7,
-      "Хацаева Фатима Мусаевна": 12
+      "gas:candidate-vibid:2152000400183": 38,
+      "gas:candidate-vibid:2152000438158": 11,
+      "gas:candidate-vibid:2152000437052": 37,
+      "gas:candidate-vibid:2152000437067": 21,
+      "gas:candidate-vibid:2152000438554": 13,
+      "gas:candidate-vibid:2152000438348": 540,
+      "gas:candidate-vibid:2152000437933": 7,
+      "gas:candidate-vibid:2152000438360": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000037&tvd=2152000379325&vrn=100100067795849&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000379325&type=464",
@@ -7409,14 +7409,14 @@ export const duma_2016_uik_463_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бестаев Сослан Вигентиевич": 3,
-      "Гиоев Руслан Борисович": 0,
-      "Кучиев Гарий Юрьевич": 21,
-      "Мусульбес Нугзар Владимирович": 2,
-      "Писаренко Владимир Петрович": 1,
-      "Таймазов Артур Борисович": 47,
-      "Хатагов Алексей Михайлович": 1,
-      "Хацаева Фатима Мусаевна": 2
+      "gas:candidate-vibid:2152000400183": 3,
+      "gas:candidate-vibid:2152000438158": 0,
+      "gas:candidate-vibid:2152000437052": 21,
+      "gas:candidate-vibid:2152000437067": 2,
+      "gas:candidate-vibid:2152000438554": 1,
+      "gas:candidate-vibid:2152000438348": 47,
+      "gas:candidate-vibid:2152000437933": 1,
+      "gas:candidate-vibid:2152000438360": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000037&tvd=2152000379325&vrn=100100067795849&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000379325&type=464",

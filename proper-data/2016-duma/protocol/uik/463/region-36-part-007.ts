@@ -43,15 +43,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 61,
-      "Климов Виталий Николаевич": 13,
-      "Лютикова Марина Владимировна": 9,
-      "Марков Андрей Павлович": 882,
-      "Муштенко Сергей Владимирович": 4,
-      "Очкин Михаил Вячеславович": 1,
-      "Пойманов Сергей Петрович": 75,
-      "Спицына Марина Алексеевна": 28,
-      "Щербаков Юрий Алексеевич": 30
+      "gas:candidate-vibid:4364027199946": 61,
+      "gas:candidate-vibid:4364027200208": 13,
+      "gas:candidate-vibid:4364027200400": 9,
+      "gas:candidate-vibid:4364027200342": 882,
+      "gas:candidate-vibid:4364027200453": 4,
+      "gas:candidate-vibid:4364027200540": 1,
+      "gas:candidate-vibid:4364027200477": 75,
+      "gas:candidate-vibid:4364027200014": 28,
+      "gas:candidate-vibid:4364027200120": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147720&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147720&type=464",
@@ -102,15 +102,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 83,
-      "Климов Виталий Николаевич": 5,
-      "Лютикова Марина Владимировна": 3,
-      "Марков Андрей Павлович": 865,
-      "Муштенко Сергей Владимирович": 6,
-      "Очкин Михаил Вячеславович": 5,
-      "Пойманов Сергей Петрович": 70,
-      "Спицына Марина Алексеевна": 16,
-      "Щербаков Юрий Алексеевич": 8
+      "gas:candidate-vibid:4364027199946": 83,
+      "gas:candidate-vibid:4364027200208": 5,
+      "gas:candidate-vibid:4364027200400": 3,
+      "gas:candidate-vibid:4364027200342": 865,
+      "gas:candidate-vibid:4364027200453": 6,
+      "gas:candidate-vibid:4364027200540": 5,
+      "gas:candidate-vibid:4364027200477": 70,
+      "gas:candidate-vibid:4364027200014": 16,
+      "gas:candidate-vibid:4364027200120": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147720&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147720&type=464",
@@ -161,15 +161,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 47,
-      "Климов Виталий Николаевич": 17,
-      "Лютикова Марина Владимировна": 5,
-      "Марков Андрей Павлович": 241,
-      "Муштенко Сергей Владимирович": 5,
-      "Очкин Михаил Вячеславович": 6,
-      "Пойманов Сергей Петрович": 10,
-      "Спицына Марина Алексеевна": 39,
-      "Щербаков Юрий Алексеевич": 15
+      "gas:candidate-vibid:4364027199946": 47,
+      "gas:candidate-vibid:4364027200208": 17,
+      "gas:candidate-vibid:4364027200400": 5,
+      "gas:candidate-vibid:4364027200342": 241,
+      "gas:candidate-vibid:4364027200453": 5,
+      "gas:candidate-vibid:4364027200540": 6,
+      "gas:candidate-vibid:4364027200477": 10,
+      "gas:candidate-vibid:4364027200014": 39,
+      "gas:candidate-vibid:4364027200120": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147720&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147720&type=464",
@@ -220,15 +220,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 23,
-      "Климов Виталий Николаевич": 2,
-      "Лютикова Марина Владимировна": 5,
-      "Марков Андрей Павлович": 992,
-      "Муштенко Сергей Владимирович": 3,
-      "Очкин Михаил Вячеславович": 3,
-      "Пойманов Сергей Петрович": 14,
-      "Спицына Марина Алексеевна": 2,
-      "Щербаков Юрий Алексеевич": 4
+      "gas:candidate-vibid:4364027199946": 23,
+      "gas:candidate-vibid:4364027200208": 2,
+      "gas:candidate-vibid:4364027200400": 5,
+      "gas:candidate-vibid:4364027200342": 992,
+      "gas:candidate-vibid:4364027200453": 3,
+      "gas:candidate-vibid:4364027200540": 3,
+      "gas:candidate-vibid:4364027200477": 14,
+      "gas:candidate-vibid:4364027200014": 2,
+      "gas:candidate-vibid:4364027200120": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147720&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147720&type=464",
@@ -279,15 +279,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 132,
-      "Климов Виталий Николаевич": 19,
-      "Лютикова Марина Владимировна": 17,
-      "Марков Андрей Павлович": 681,
-      "Муштенко Сергей Владимирович": 7,
-      "Очкин Михаил Вячеславович": 9,
-      "Пойманов Сергей Петрович": 22,
-      "Спицына Марина Алексеевна": 70,
-      "Щербаков Юрий Алексеевич": 29
+      "gas:candidate-vibid:4364027199946": 132,
+      "gas:candidate-vibid:4364027200208": 19,
+      "gas:candidate-vibid:4364027200400": 17,
+      "gas:candidate-vibid:4364027200342": 681,
+      "gas:candidate-vibid:4364027200453": 7,
+      "gas:candidate-vibid:4364027200540": 9,
+      "gas:candidate-vibid:4364027200477": 22,
+      "gas:candidate-vibid:4364027200014": 70,
+      "gas:candidate-vibid:4364027200120": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147720&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147720&type=464",
@@ -338,15 +338,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 116,
-      "Климов Виталий Николаевич": 35,
-      "Лютикова Марина Владимировна": 12,
-      "Марков Андрей Павлович": 511,
-      "Муштенко Сергей Владимирович": 23,
-      "Очкин Михаил Вячеславович": 14,
-      "Пойманов Сергей Петрович": 52,
-      "Спицына Марина Алексеевна": 52,
-      "Щербаков Юрий Алексеевич": 28
+      "gas:candidate-vibid:4364027199946": 116,
+      "gas:candidate-vibid:4364027200208": 35,
+      "gas:candidate-vibid:4364027200400": 12,
+      "gas:candidate-vibid:4364027200342": 511,
+      "gas:candidate-vibid:4364027200453": 23,
+      "gas:candidate-vibid:4364027200540": 14,
+      "gas:candidate-vibid:4364027200477": 52,
+      "gas:candidate-vibid:4364027200014": 52,
+      "gas:candidate-vibid:4364027200120": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147720&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147720&type=464",
@@ -397,15 +397,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 191,
-      "Климов Виталий Николаевич": 49,
-      "Лютикова Марина Владимировна": 20,
-      "Марков Андрей Павлович": 550,
-      "Муштенко Сергей Владимирович": 15,
-      "Очкин Михаил Вячеславович": 15,
-      "Пойманов Сергей Петрович": 40,
-      "Спицына Марина Алексеевна": 87,
-      "Щербаков Юрий Алексеевич": 46
+      "gas:candidate-vibid:4364027199946": 191,
+      "gas:candidate-vibid:4364027200208": 49,
+      "gas:candidate-vibid:4364027200400": 20,
+      "gas:candidate-vibid:4364027200342": 550,
+      "gas:candidate-vibid:4364027200453": 15,
+      "gas:candidate-vibid:4364027200540": 15,
+      "gas:candidate-vibid:4364027200477": 40,
+      "gas:candidate-vibid:4364027200014": 87,
+      "gas:candidate-vibid:4364027200120": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147720&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147720&type=464",
@@ -456,15 +456,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 39,
-      "Климов Виталий Николаевич": 58,
-      "Лютикова Марина Владимировна": 0,
-      "Марков Андрей Павлович": 765,
-      "Муштенко Сергей Владимирович": 0,
-      "Очкин Михаил Вячеславович": 0,
-      "Пойманов Сергей Петрович": 19,
-      "Спицына Марина Алексеевна": 87,
-      "Щербаков Юрий Алексеевич": 0
+      "gas:candidate-vibid:4364027199946": 39,
+      "gas:candidate-vibid:4364027200208": 58,
+      "gas:candidate-vibid:4364027200400": 0,
+      "gas:candidate-vibid:4364027200342": 765,
+      "gas:candidate-vibid:4364027200453": 0,
+      "gas:candidate-vibid:4364027200540": 0,
+      "gas:candidate-vibid:4364027200477": 19,
+      "gas:candidate-vibid:4364027200014": 87,
+      "gas:candidate-vibid:4364027200120": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147720&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147720&type=464",
@@ -515,15 +515,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 54,
-      "Климов Виталий Николаевич": 25,
-      "Лютикова Марина Владимировна": 4,
-      "Марков Андрей Павлович": 578,
-      "Муштенко Сергей Владимирович": 5,
-      "Очкин Михаил Вячеславович": 6,
-      "Пойманов Сергей Петрович": 37,
-      "Спицына Марина Алексеевна": 21,
-      "Щербаков Юрий Алексеевич": 4
+      "gas:candidate-vibid:4364027199946": 54,
+      "gas:candidate-vibid:4364027200208": 25,
+      "gas:candidate-vibid:4364027200400": 4,
+      "gas:candidate-vibid:4364027200342": 578,
+      "gas:candidate-vibid:4364027200453": 5,
+      "gas:candidate-vibid:4364027200540": 6,
+      "gas:candidate-vibid:4364027200477": 37,
+      "gas:candidate-vibid:4364027200014": 21,
+      "gas:candidate-vibid:4364027200120": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147720&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147720&type=464",
@@ -574,15 +574,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 128,
-      "Климов Виталий Николаевич": 27,
-      "Лютикова Марина Владимировна": 2,
-      "Марков Андрей Павлович": 731,
-      "Муштенко Сергей Владимирович": 4,
-      "Очкин Михаил Вячеславович": 1,
-      "Пойманов Сергей Петрович": 22,
-      "Спицына Марина Алексеевна": 67,
-      "Щербаков Юрий Алексеевич": 14
+      "gas:candidate-vibid:4364027199946": 128,
+      "gas:candidate-vibid:4364027200208": 27,
+      "gas:candidate-vibid:4364027200400": 2,
+      "gas:candidate-vibid:4364027200342": 731,
+      "gas:candidate-vibid:4364027200453": 4,
+      "gas:candidate-vibid:4364027200540": 1,
+      "gas:candidate-vibid:4364027200477": 22,
+      "gas:candidate-vibid:4364027200014": 67,
+      "gas:candidate-vibid:4364027200120": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147720&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147720&type=464",
@@ -633,15 +633,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 31,
-      "Климов Виталий Николаевич": 0,
-      "Лютикова Марина Владимировна": 0,
-      "Марков Андрей Павлович": 553,
-      "Муштенко Сергей Владимирович": 0,
-      "Очкин Михаил Вячеславович": 0,
-      "Пойманов Сергей Петрович": 12,
-      "Спицына Марина Алексеевна": 18,
-      "Щербаков Юрий Алексеевич": 0
+      "gas:candidate-vibid:4364027199946": 31,
+      "gas:candidate-vibid:4364027200208": 0,
+      "gas:candidate-vibid:4364027200400": 0,
+      "gas:candidate-vibid:4364027200342": 553,
+      "gas:candidate-vibid:4364027200453": 0,
+      "gas:candidate-vibid:4364027200540": 0,
+      "gas:candidate-vibid:4364027200477": 12,
+      "gas:candidate-vibid:4364027200014": 18,
+      "gas:candidate-vibid:4364027200120": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147720&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147720&type=464",
@@ -692,15 +692,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 9,
-      "Климов Виталий Николаевич": 6,
-      "Лютикова Марина Владимировна": 0,
-      "Марков Андрей Павлович": 342,
-      "Муштенко Сергей Владимирович": 0,
-      "Очкин Михаил Вячеславович": 0,
-      "Пойманов Сергей Петрович": 9,
-      "Спицына Марина Алексеевна": 18,
-      "Щербаков Юрий Алексеевич": 8
+      "gas:candidate-vibid:4364027199946": 9,
+      "gas:candidate-vibid:4364027200208": 6,
+      "gas:candidate-vibid:4364027200400": 0,
+      "gas:candidate-vibid:4364027200342": 342,
+      "gas:candidate-vibid:4364027200453": 0,
+      "gas:candidate-vibid:4364027200540": 0,
+      "gas:candidate-vibid:4364027200477": 9,
+      "gas:candidate-vibid:4364027200014": 18,
+      "gas:candidate-vibid:4364027200120": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147720&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147720&type=464",
@@ -751,15 +751,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 2,
-      "Климов Виталий Николаевич": 8,
-      "Лютикова Марина Владимировна": 4,
-      "Марков Андрей Павлович": 375,
-      "Муштенко Сергей Владимирович": 4,
-      "Очкин Михаил Вячеславович": 1,
-      "Пойманов Сергей Петрович": 6,
-      "Спицына Марина Алексеевна": 17,
-      "Щербаков Юрий Алексеевич": 12
+      "gas:candidate-vibid:4364027199946": 2,
+      "gas:candidate-vibid:4364027200208": 8,
+      "gas:candidate-vibid:4364027200400": 4,
+      "gas:candidate-vibid:4364027200342": 375,
+      "gas:candidate-vibid:4364027200453": 4,
+      "gas:candidate-vibid:4364027200540": 1,
+      "gas:candidate-vibid:4364027200477": 6,
+      "gas:candidate-vibid:4364027200014": 17,
+      "gas:candidate-vibid:4364027200120": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147720&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147720&type=464",
@@ -810,15 +810,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 48,
-      "Климов Виталий Николаевич": 11,
-      "Лютикова Марина Владимировна": 2,
-      "Марков Андрей Павлович": 436,
-      "Муштенко Сергей Владимирович": 1,
-      "Очкин Михаил Вячеславович": 4,
-      "Пойманов Сергей Петрович": 12,
-      "Спицына Марина Алексеевна": 38,
-      "Щербаков Юрий Алексеевич": 36
+      "gas:candidate-vibid:4364027199946": 48,
+      "gas:candidate-vibid:4364027200208": 11,
+      "gas:candidate-vibid:4364027200400": 2,
+      "gas:candidate-vibid:4364027200342": 436,
+      "gas:candidate-vibid:4364027200453": 1,
+      "gas:candidate-vibid:4364027200540": 4,
+      "gas:candidate-vibid:4364027200477": 12,
+      "gas:candidate-vibid:4364027200014": 38,
+      "gas:candidate-vibid:4364027200120": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147720&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147720&type=464",
@@ -869,15 +869,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 25,
-      "Климов Виталий Николаевич": 7,
-      "Лютикова Марина Владимировна": 9,
-      "Марков Андрей Павлович": 603,
-      "Муштенко Сергей Владимирович": 1,
-      "Очкин Михаил Вячеславович": 3,
-      "Пойманов Сергей Петрович": 18,
-      "Спицына Марина Алексеевна": 17,
-      "Щербаков Юрий Алексеевич": 16
+      "gas:candidate-vibid:4364027199946": 25,
+      "gas:candidate-vibid:4364027200208": 7,
+      "gas:candidate-vibid:4364027200400": 9,
+      "gas:candidate-vibid:4364027200342": 603,
+      "gas:candidate-vibid:4364027200453": 1,
+      "gas:candidate-vibid:4364027200540": 3,
+      "gas:candidate-vibid:4364027200477": 18,
+      "gas:candidate-vibid:4364027200014": 17,
+      "gas:candidate-vibid:4364027200120": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147720&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147720&type=464",
@@ -928,15 +928,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 0,
-      "Климов Виталий Николаевич": 0,
-      "Лютикова Марина Владимировна": 0,
-      "Марков Андрей Павлович": 386,
-      "Муштенко Сергей Владимирович": 0,
-      "Очкин Михаил Вячеславович": 0,
-      "Пойманов Сергей Петрович": 2,
-      "Спицына Марина Алексеевна": 0,
-      "Щербаков Юрий Алексеевич": 0
+      "gas:candidate-vibid:4364027199946": 0,
+      "gas:candidate-vibid:4364027200208": 0,
+      "gas:candidate-vibid:4364027200400": 0,
+      "gas:candidate-vibid:4364027200342": 386,
+      "gas:candidate-vibid:4364027200453": 0,
+      "gas:candidate-vibid:4364027200540": 0,
+      "gas:candidate-vibid:4364027200477": 2,
+      "gas:candidate-vibid:4364027200014": 0,
+      "gas:candidate-vibid:4364027200120": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147720&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147720&type=464",
@@ -987,15 +987,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 2,
-      "Климов Виталий Николаевич": 1,
-      "Лютикова Марина Владимировна": 0,
-      "Марков Андрей Павлович": 79,
-      "Муштенко Сергей Владимирович": 0,
-      "Очкин Михаил Вячеславович": 2,
-      "Пойманов Сергей Петрович": 1,
-      "Спицына Марина Алексеевна": 0,
-      "Щербаков Юрий Алексеевич": 1
+      "gas:candidate-vibid:4364027199946": 2,
+      "gas:candidate-vibid:4364027200208": 1,
+      "gas:candidate-vibid:4364027200400": 0,
+      "gas:candidate-vibid:4364027200342": 79,
+      "gas:candidate-vibid:4364027200453": 0,
+      "gas:candidate-vibid:4364027200540": 2,
+      "gas:candidate-vibid:4364027200477": 1,
+      "gas:candidate-vibid:4364027200014": 0,
+      "gas:candidate-vibid:4364027200120": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147720&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147720&type=464",
@@ -1046,15 +1046,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 15,
-      "Климов Виталий Николаевич": 5,
-      "Лютикова Марина Владимировна": 2,
-      "Марков Андрей Павлович": 654,
-      "Муштенко Сергей Владимирович": 2,
-      "Очкин Михаил Вячеславович": 0,
-      "Пойманов Сергей Петрович": 5,
-      "Спицына Марина Алексеевна": 8,
-      "Щербаков Юрий Алексеевич": 5
+      "gas:candidate-vibid:4364027199946": 15,
+      "gas:candidate-vibid:4364027200208": 5,
+      "gas:candidate-vibid:4364027200400": 2,
+      "gas:candidate-vibid:4364027200342": 654,
+      "gas:candidate-vibid:4364027200453": 2,
+      "gas:candidate-vibid:4364027200540": 0,
+      "gas:candidate-vibid:4364027200477": 5,
+      "gas:candidate-vibid:4364027200014": 8,
+      "gas:candidate-vibid:4364027200120": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147720&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147720&type=464",
@@ -1105,15 +1105,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 5,
-      "Климов Виталий Николаевич": 0,
-      "Лютикова Марина Владимировна": 0,
-      "Марков Андрей Павлович": 224,
-      "Муштенко Сергей Владимирович": 2,
-      "Очкин Михаил Вячеславович": 0,
-      "Пойманов Сергей Петрович": 7,
-      "Спицына Марина Алексеевна": 4,
-      "Щербаков Юрий Алексеевич": 7
+      "gas:candidate-vibid:4364027199946": 5,
+      "gas:candidate-vibid:4364027200208": 0,
+      "gas:candidate-vibid:4364027200400": 0,
+      "gas:candidate-vibid:4364027200342": 224,
+      "gas:candidate-vibid:4364027200453": 2,
+      "gas:candidate-vibid:4364027200540": 0,
+      "gas:candidate-vibid:4364027200477": 7,
+      "gas:candidate-vibid:4364027200014": 4,
+      "gas:candidate-vibid:4364027200120": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147720&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147720&type=464",
@@ -1164,15 +1164,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 4,
-      "Климов Виталий Николаевич": 1,
-      "Лютикова Марина Владимировна": 0,
-      "Марков Андрей Павлович": 38,
-      "Муштенко Сергей Владимирович": 0,
-      "Очкин Михаил Вячеславович": 0,
-      "Пойманов Сергей Петрович": 0,
-      "Спицына Марина Алексеевна": 2,
-      "Щербаков Юрий Алексеевич": 0
+      "gas:candidate-vibid:4364027199946": 4,
+      "gas:candidate-vibid:4364027200208": 1,
+      "gas:candidate-vibid:4364027200400": 0,
+      "gas:candidate-vibid:4364027200342": 38,
+      "gas:candidate-vibid:4364027200453": 0,
+      "gas:candidate-vibid:4364027200540": 0,
+      "gas:candidate-vibid:4364027200477": 0,
+      "gas:candidate-vibid:4364027200014": 2,
+      "gas:candidate-vibid:4364027200120": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147720&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147720&type=464",
@@ -1223,15 +1223,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 12,
-      "Климов Виталий Николаевич": 19,
-      "Лютикова Марина Владимировна": 31,
-      "Марков Андрей Павлович": 908,
-      "Муштенко Сергей Владимирович": 27,
-      "Очкин Михаил Вячеславович": 9,
-      "Пойманов Сергей Петрович": 89,
-      "Спицына Марина Алексеевна": 13,
-      "Щербаков Юрий Алексеевич": 9
+      "gas:candidate-vibid:4364027199946": 12,
+      "gas:candidate-vibid:4364027200208": 19,
+      "gas:candidate-vibid:4364027200400": 31,
+      "gas:candidate-vibid:4364027200342": 908,
+      "gas:candidate-vibid:4364027200453": 27,
+      "gas:candidate-vibid:4364027200540": 9,
+      "gas:candidate-vibid:4364027200477": 89,
+      "gas:candidate-vibid:4364027200014": 13,
+      "gas:candidate-vibid:4364027200120": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147720&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147720&type=464",
@@ -1282,15 +1282,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 2,
-      "Климов Виталий Николаевич": 2,
-      "Лютикова Марина Владимировна": 0,
-      "Марков Андрей Павлович": 205,
-      "Муштенко Сергей Владимирович": 0,
-      "Очкин Михаил Вячеславович": 0,
-      "Пойманов Сергей Петрович": 4,
-      "Спицына Марина Алексеевна": 10,
-      "Щербаков Юрий Алексеевич": 0
+      "gas:candidate-vibid:4364027199946": 2,
+      "gas:candidate-vibid:4364027200208": 2,
+      "gas:candidate-vibid:4364027200400": 0,
+      "gas:candidate-vibid:4364027200342": 205,
+      "gas:candidate-vibid:4364027200453": 0,
+      "gas:candidate-vibid:4364027200540": 0,
+      "gas:candidate-vibid:4364027200477": 4,
+      "gas:candidate-vibid:4364027200014": 10,
+      "gas:candidate-vibid:4364027200120": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147720&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147720&type=464",
@@ -1341,15 +1341,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 36,
-      "Климов Виталий Николаевич": 22,
-      "Лютикова Марина Владимировна": 0,
-      "Марков Андрей Павлович": 722,
-      "Муштенко Сергей Владимирович": 0,
-      "Очкин Михаил Вячеславович": 2,
-      "Пойманов Сергей Петрович": 29,
-      "Спицына Марина Алексеевна": 4,
-      "Щербаков Юрий Алексеевич": 1
+      "gas:candidate-vibid:4364027199946": 36,
+      "gas:candidate-vibid:4364027200208": 22,
+      "gas:candidate-vibid:4364027200400": 0,
+      "gas:candidate-vibid:4364027200342": 722,
+      "gas:candidate-vibid:4364027200453": 0,
+      "gas:candidate-vibid:4364027200540": 2,
+      "gas:candidate-vibid:4364027200477": 29,
+      "gas:candidate-vibid:4364027200014": 4,
+      "gas:candidate-vibid:4364027200120": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147720&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147720&type=464",
@@ -1400,15 +1400,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 157,
-      "Климов Виталий Николаевич": 10,
-      "Лютикова Марина Владимировна": 26,
-      "Марков Андрей Павлович": 694,
-      "Муштенко Сергей Владимирович": 7,
-      "Очкин Михаил Вячеславович": 19,
-      "Пойманов Сергей Петрович": 15,
-      "Спицына Марина Алексеевна": 11,
-      "Щербаков Юрий Алексеевич": 4
+      "gas:candidate-vibid:4364027199946": 157,
+      "gas:candidate-vibid:4364027200208": 10,
+      "gas:candidate-vibid:4364027200400": 26,
+      "gas:candidate-vibid:4364027200342": 694,
+      "gas:candidate-vibid:4364027200453": 7,
+      "gas:candidate-vibid:4364027200540": 19,
+      "gas:candidate-vibid:4364027200477": 15,
+      "gas:candidate-vibid:4364027200014": 11,
+      "gas:candidate-vibid:4364027200120": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147720&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147720&type=464",
@@ -1459,15 +1459,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 97,
-      "Климов Виталий Николаевич": 14,
-      "Лютикова Марина Владимировна": 0,
-      "Марков Андрей Павлович": 1148,
-      "Муштенко Сергей Владимирович": 0,
-      "Очкин Михаил Вячеславович": 0,
-      "Пойманов Сергей Петрович": 124,
-      "Спицына Марина Алексеевна": 0,
-      "Щербаков Юрий Алексеевич": 0
+      "gas:candidate-vibid:4364027199946": 97,
+      "gas:candidate-vibid:4364027200208": 14,
+      "gas:candidate-vibid:4364027200400": 0,
+      "gas:candidate-vibid:4364027200342": 1148,
+      "gas:candidate-vibid:4364027200453": 0,
+      "gas:candidate-vibid:4364027200540": 0,
+      "gas:candidate-vibid:4364027200477": 124,
+      "gas:candidate-vibid:4364027200014": 0,
+      "gas:candidate-vibid:4364027200120": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147720&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147720&type=464",
@@ -1518,15 +1518,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 64,
-      "Климов Виталий Николаевич": 26,
-      "Лютикова Марина Владимировна": 8,
-      "Марков Андрей Павлович": 598,
-      "Муштенко Сергей Владимирович": 3,
-      "Очкин Михаил Вячеславович": 4,
-      "Пойманов Сергей Петрович": 17,
-      "Спицына Марина Алексеевна": 32,
-      "Щербаков Юрий Алексеевич": 31
+      "gas:candidate-vibid:4364027199946": 64,
+      "gas:candidate-vibid:4364027200208": 26,
+      "gas:candidate-vibid:4364027200400": 8,
+      "gas:candidate-vibid:4364027200342": 598,
+      "gas:candidate-vibid:4364027200453": 3,
+      "gas:candidate-vibid:4364027200540": 4,
+      "gas:candidate-vibid:4364027200477": 17,
+      "gas:candidate-vibid:4364027200014": 32,
+      "gas:candidate-vibid:4364027200120": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147720&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147720&type=464",
@@ -1577,15 +1577,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 34,
-      "Климов Виталий Николаевич": 1,
-      "Лютикова Марина Владимировна": 1,
-      "Марков Андрей Павлович": 474,
-      "Муштенко Сергей Владимирович": 0,
-      "Очкин Михаил Вячеславович": 0,
-      "Пойманов Сергей Петрович": 3,
-      "Спицына Марина Алексеевна": 3,
-      "Щербаков Юрий Алексеевич": 0
+      "gas:candidate-vibid:4364027199946": 34,
+      "gas:candidate-vibid:4364027200208": 1,
+      "gas:candidate-vibid:4364027200400": 1,
+      "gas:candidate-vibid:4364027200342": 474,
+      "gas:candidate-vibid:4364027200453": 0,
+      "gas:candidate-vibid:4364027200540": 0,
+      "gas:candidate-vibid:4364027200477": 3,
+      "gas:candidate-vibid:4364027200014": 3,
+      "gas:candidate-vibid:4364027200120": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147720&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147720&type=464",
@@ -1636,15 +1636,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 10,
-      "Климов Виталий Николаевич": 4,
-      "Лютикова Марина Владимировна": 2,
-      "Марков Андрей Павлович": 220,
-      "Муштенко Сергей Владимирович": 4,
-      "Очкин Михаил Вячеславович": 5,
-      "Пойманов Сергей Петрович": 12,
-      "Спицына Марина Алексеевна": 11,
-      "Щербаков Юрий Алексеевич": 21
+      "gas:candidate-vibid:4364027199946": 10,
+      "gas:candidate-vibid:4364027200208": 4,
+      "gas:candidate-vibid:4364027200400": 2,
+      "gas:candidate-vibid:4364027200342": 220,
+      "gas:candidate-vibid:4364027200453": 4,
+      "gas:candidate-vibid:4364027200540": 5,
+      "gas:candidate-vibid:4364027200477": 12,
+      "gas:candidate-vibid:4364027200014": 11,
+      "gas:candidate-vibid:4364027200120": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147720&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147720&type=464",
@@ -1695,15 +1695,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 7,
-      "Климов Виталий Николаевич": 11,
-      "Лютикова Марина Владимировна": 8,
-      "Марков Андрей Павлович": 846,
-      "Муштенко Сергей Владимирович": 3,
-      "Очкин Михаил Вячеславович": 7,
-      "Пойманов Сергей Петрович": 122,
-      "Спицына Марина Алексеевна": 7,
-      "Щербаков Юрий Алексеевич": 8
+      "gas:candidate-vibid:4364027199946": 7,
+      "gas:candidate-vibid:4364027200208": 11,
+      "gas:candidate-vibid:4364027200400": 8,
+      "gas:candidate-vibid:4364027200342": 846,
+      "gas:candidate-vibid:4364027200453": 3,
+      "gas:candidate-vibid:4364027200540": 7,
+      "gas:candidate-vibid:4364027200477": 122,
+      "gas:candidate-vibid:4364027200014": 7,
+      "gas:candidate-vibid:4364027200120": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147720&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147720&type=464",
@@ -1754,15 +1754,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 29,
-      "Климов Виталий Николаевич": 19,
-      "Лютикова Марина Владимировна": 0,
-      "Марков Андрей Павлович": 811,
-      "Муштенко Сергей Владимирович": 0,
-      "Очкин Михаил Вячеславович": 9,
-      "Пойманов Сергей Петрович": 58,
-      "Спицына Марина Алексеевна": 39,
-      "Щербаков Юрий Алексеевич": 0
+      "gas:candidate-vibid:4364027199946": 29,
+      "gas:candidate-vibid:4364027200208": 19,
+      "gas:candidate-vibid:4364027200400": 0,
+      "gas:candidate-vibid:4364027200342": 811,
+      "gas:candidate-vibid:4364027200453": 0,
+      "gas:candidate-vibid:4364027200540": 9,
+      "gas:candidate-vibid:4364027200477": 58,
+      "gas:candidate-vibid:4364027200014": 39,
+      "gas:candidate-vibid:4364027200120": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147720&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147720&type=464",
@@ -1813,15 +1813,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 19,
-      "Климов Виталий Николаевич": 10,
-      "Лютикова Марина Владимировна": 3,
-      "Марков Андрей Павлович": 583,
-      "Муштенко Сергей Владимирович": 2,
-      "Очкин Михаил Вячеславович": 5,
-      "Пойманов Сергей Петрович": 33,
-      "Спицына Марина Алексеевна": 45,
-      "Щербаков Юрий Алексеевич": 4
+      "gas:candidate-vibid:4364027199946": 19,
+      "gas:candidate-vibid:4364027200208": 10,
+      "gas:candidate-vibid:4364027200400": 3,
+      "gas:candidate-vibid:4364027200342": 583,
+      "gas:candidate-vibid:4364027200453": 2,
+      "gas:candidate-vibid:4364027200540": 5,
+      "gas:candidate-vibid:4364027200477": 33,
+      "gas:candidate-vibid:4364027200014": 45,
+      "gas:candidate-vibid:4364027200120": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147720&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147720&type=464",
@@ -1872,15 +1872,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 23,
-      "Климов Виталий Николаевич": 29,
-      "Лютикова Марина Владимировна": 5,
-      "Марков Андрей Павлович": 635,
-      "Муштенко Сергей Владимирович": 2,
-      "Очкин Михаил Вячеславович": 4,
-      "Пойманов Сергей Петрович": 11,
-      "Спицына Марина Алексеевна": 46,
-      "Щербаков Юрий Алексеевич": 6
+      "gas:candidate-vibid:4364027199946": 23,
+      "gas:candidate-vibid:4364027200208": 29,
+      "gas:candidate-vibid:4364027200400": 5,
+      "gas:candidate-vibid:4364027200342": 635,
+      "gas:candidate-vibid:4364027200453": 2,
+      "gas:candidate-vibid:4364027200540": 4,
+      "gas:candidate-vibid:4364027200477": 11,
+      "gas:candidate-vibid:4364027200014": 46,
+      "gas:candidate-vibid:4364027200120": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147720&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147720&type=464",
@@ -1931,15 +1931,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 22,
-      "Климов Виталий Николаевич": 4,
-      "Лютикова Марина Владимировна": 0,
-      "Марков Андрей Павлович": 735,
-      "Муштенко Сергей Владимирович": 0,
-      "Очкин Михаил Вячеславович": 0,
-      "Пойманов Сергей Петрович": 2,
-      "Спицына Марина Алексеевна": 6,
-      "Щербаков Юрий Алексеевич": 0
+      "gas:candidate-vibid:4364027199946": 22,
+      "gas:candidate-vibid:4364027200208": 4,
+      "gas:candidate-vibid:4364027200400": 0,
+      "gas:candidate-vibid:4364027200342": 735,
+      "gas:candidate-vibid:4364027200453": 0,
+      "gas:candidate-vibid:4364027200540": 0,
+      "gas:candidate-vibid:4364027200477": 2,
+      "gas:candidate-vibid:4364027200014": 6,
+      "gas:candidate-vibid:4364027200120": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147720&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147720&type=464",
@@ -1990,15 +1990,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 34,
-      "Климов Виталий Николаевич": 2,
-      "Лютикова Марина Владимировна": 12,
-      "Марков Андрей Павлович": 767,
-      "Муштенко Сергей Владимирович": 5,
-      "Очкин Михаил Вячеславович": 2,
-      "Пойманов Сергей Петрович": 22,
-      "Спицына Марина Алексеевна": 16,
-      "Щербаков Юрий Алексеевич": 7
+      "gas:candidate-vibid:4364027199946": 34,
+      "gas:candidate-vibid:4364027200208": 2,
+      "gas:candidate-vibid:4364027200400": 12,
+      "gas:candidate-vibid:4364027200342": 767,
+      "gas:candidate-vibid:4364027200453": 5,
+      "gas:candidate-vibid:4364027200540": 2,
+      "gas:candidate-vibid:4364027200477": 22,
+      "gas:candidate-vibid:4364027200014": 16,
+      "gas:candidate-vibid:4364027200120": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147720&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147720&type=464",
@@ -2049,15 +2049,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 39,
-      "Климов Виталий Николаевич": 10,
-      "Лютикова Марина Владимировна": 8,
-      "Марков Андрей Павлович": 522,
-      "Муштенко Сергей Владимирович": 4,
-      "Очкин Михаил Вячеславович": 2,
-      "Пойманов Сергей Петрович": 20,
-      "Спицына Марина Алексеевна": 31,
-      "Щербаков Юрий Алексеевич": 13
+      "gas:candidate-vibid:4364027199946": 39,
+      "gas:candidate-vibid:4364027200208": 10,
+      "gas:candidate-vibid:4364027200400": 8,
+      "gas:candidate-vibid:4364027200342": 522,
+      "gas:candidate-vibid:4364027200453": 4,
+      "gas:candidate-vibid:4364027200540": 2,
+      "gas:candidate-vibid:4364027200477": 20,
+      "gas:candidate-vibid:4364027200014": 31,
+      "gas:candidate-vibid:4364027200120": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147720&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147720&type=464",
@@ -2108,15 +2108,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 14,
-      "Климов Виталий Николаевич": 0,
-      "Лютикова Марина Владимировна": 3,
-      "Марков Андрей Павлович": 123,
-      "Муштенко Сергей Владимирович": 1,
-      "Очкин Михаил Вячеславович": 0,
-      "Пойманов Сергей Петрович": 10,
-      "Спицына Марина Алексеевна": 12,
-      "Щербаков Юрий Алексеевич": 7
+      "gas:candidate-vibid:4364027199946": 14,
+      "gas:candidate-vibid:4364027200208": 0,
+      "gas:candidate-vibid:4364027200400": 3,
+      "gas:candidate-vibid:4364027200342": 123,
+      "gas:candidate-vibid:4364027200453": 1,
+      "gas:candidate-vibid:4364027200540": 0,
+      "gas:candidate-vibid:4364027200477": 10,
+      "gas:candidate-vibid:4364027200014": 12,
+      "gas:candidate-vibid:4364027200120": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147720&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147720&type=464",
@@ -2167,15 +2167,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 17,
-      "Климов Виталий Николаевич": 7,
-      "Лютикова Марина Владимировна": 3,
-      "Марков Андрей Павлович": 117,
-      "Муштенко Сергей Владимирович": 4,
-      "Очкин Михаил Вячеславович": 2,
-      "Пойманов Сергей Петрович": 9,
-      "Спицына Марина Алексеевна": 19,
-      "Щербаков Юрий Алексеевич": 10
+      "gas:candidate-vibid:4364027199946": 17,
+      "gas:candidate-vibid:4364027200208": 7,
+      "gas:candidate-vibid:4364027200400": 3,
+      "gas:candidate-vibid:4364027200342": 117,
+      "gas:candidate-vibid:4364027200453": 4,
+      "gas:candidate-vibid:4364027200540": 2,
+      "gas:candidate-vibid:4364027200477": 9,
+      "gas:candidate-vibid:4364027200014": 19,
+      "gas:candidate-vibid:4364027200120": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147720&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147720&type=464",
@@ -2226,15 +2226,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 23,
-      "Климов Виталий Николаевич": 4,
-      "Лютикова Марина Владимировна": 4,
-      "Марков Андрей Павлович": 405,
-      "Муштенко Сергей Владимирович": 2,
-      "Очкин Михаил Вячеславович": 2,
-      "Пойманов Сергей Петрович": 53,
-      "Спицына Марина Алексеевна": 12,
-      "Щербаков Юрий Алексеевич": 6
+      "gas:candidate-vibid:4364027199946": 23,
+      "gas:candidate-vibid:4364027200208": 4,
+      "gas:candidate-vibid:4364027200400": 4,
+      "gas:candidate-vibid:4364027200342": 405,
+      "gas:candidate-vibid:4364027200453": 2,
+      "gas:candidate-vibid:4364027200540": 2,
+      "gas:candidate-vibid:4364027200477": 53,
+      "gas:candidate-vibid:4364027200014": 12,
+      "gas:candidate-vibid:4364027200120": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147720&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147720&type=464",
@@ -2285,15 +2285,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 46,
-      "Климов Виталий Николаевич": 16,
-      "Лютикова Марина Владимировна": 15,
-      "Марков Андрей Павлович": 763,
-      "Муштенко Сергей Владимирович": 8,
-      "Очкин Михаил Вячеславович": 5,
-      "Пойманов Сергей Петрович": 23,
-      "Спицына Марина Алексеевна": 36,
-      "Щербаков Юрий Алексеевич": 21
+      "gas:candidate-vibid:4364027199946": 46,
+      "gas:candidate-vibid:4364027200208": 16,
+      "gas:candidate-vibid:4364027200400": 15,
+      "gas:candidate-vibid:4364027200342": 763,
+      "gas:candidate-vibid:4364027200453": 8,
+      "gas:candidate-vibid:4364027200540": 5,
+      "gas:candidate-vibid:4364027200477": 23,
+      "gas:candidate-vibid:4364027200014": 36,
+      "gas:candidate-vibid:4364027200120": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147720&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147720&type=464",
@@ -2344,15 +2344,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 105,
-      "Климов Виталий Николаевич": 25,
-      "Лютикова Марина Владимировна": 13,
-      "Марков Андрей Павлович": 701,
-      "Муштенко Сергей Владимирович": 15,
-      "Очкин Михаил Вячеславович": 5,
-      "Пойманов Сергей Петрович": 35,
-      "Спицына Марина Алексеевна": 73,
-      "Щербаков Юрий Алексеевич": 39
+      "gas:candidate-vibid:4364027199946": 105,
+      "gas:candidate-vibid:4364027200208": 25,
+      "gas:candidate-vibid:4364027200400": 13,
+      "gas:candidate-vibid:4364027200342": 701,
+      "gas:candidate-vibid:4364027200453": 15,
+      "gas:candidate-vibid:4364027200540": 5,
+      "gas:candidate-vibid:4364027200477": 35,
+      "gas:candidate-vibid:4364027200014": 73,
+      "gas:candidate-vibid:4364027200120": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147720&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147720&type=464",
@@ -2403,15 +2403,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 38,
-      "Климов Виталий Николаевич": 2,
-      "Лютикова Марина Владимировна": 8,
-      "Марков Андрей Павлович": 728,
-      "Муштенко Сергей Владимирович": 0,
-      "Очкин Михаил Вячеславович": 0,
-      "Пойманов Сергей Петрович": 5,
-      "Спицына Марина Алексеевна": 17,
-      "Щербаков Юрий Алексеевич": 7
+      "gas:candidate-vibid:4364027199946": 38,
+      "gas:candidate-vibid:4364027200208": 2,
+      "gas:candidate-vibid:4364027200400": 8,
+      "gas:candidate-vibid:4364027200342": 728,
+      "gas:candidate-vibid:4364027200453": 0,
+      "gas:candidate-vibid:4364027200540": 0,
+      "gas:candidate-vibid:4364027200477": 5,
+      "gas:candidate-vibid:4364027200014": 17,
+      "gas:candidate-vibid:4364027200120": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147720&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147720&type=464",
@@ -2462,15 +2462,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 226,
-      "Климов Виталий Николаевич": 13,
-      "Лютикова Марина Владимировна": 3,
-      "Марков Андрей Павлович": 839,
-      "Муштенко Сергей Владимирович": 1,
-      "Очкин Михаил Вячеславович": 0,
-      "Пойманов Сергей Петрович": 31,
-      "Спицына Марина Алексеевна": 19,
-      "Щербаков Юрий Алексеевич": 7
+      "gas:candidate-vibid:4364027199946": 226,
+      "gas:candidate-vibid:4364027200208": 13,
+      "gas:candidate-vibid:4364027200400": 3,
+      "gas:candidate-vibid:4364027200342": 839,
+      "gas:candidate-vibid:4364027200453": 1,
+      "gas:candidate-vibid:4364027200540": 0,
+      "gas:candidate-vibid:4364027200477": 31,
+      "gas:candidate-vibid:4364027200014": 19,
+      "gas:candidate-vibid:4364027200120": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147720&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147720&type=464",
@@ -2521,15 +2521,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 114,
-      "Климов Виталий Николаевич": 24,
-      "Лютикова Марина Владимировна": 19,
-      "Марков Андрей Павлович": 418,
-      "Муштенко Сергей Владимирович": 11,
-      "Очкин Михаил Вячеславович": 8,
-      "Пойманов Сергей Петрович": 26,
-      "Спицына Марина Алексеевна": 45,
-      "Щербаков Юрий Алексеевич": 32
+      "gas:candidate-vibid:4364027199946": 114,
+      "gas:candidate-vibid:4364027200208": 24,
+      "gas:candidate-vibid:4364027200400": 19,
+      "gas:candidate-vibid:4364027200342": 418,
+      "gas:candidate-vibid:4364027200453": 11,
+      "gas:candidate-vibid:4364027200540": 8,
+      "gas:candidate-vibid:4364027200477": 26,
+      "gas:candidate-vibid:4364027200014": 45,
+      "gas:candidate-vibid:4364027200120": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147720&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147720&type=464",
@@ -2580,15 +2580,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 6,
-      "Климов Виталий Николаевич": 1,
-      "Лютикова Марина Владимировна": 0,
-      "Марков Андрей Павлович": 614,
-      "Муштенко Сергей Владимирович": 0,
-      "Очкин Михаил Вячеславович": 0,
-      "Пойманов Сергей Петрович": 3,
-      "Спицына Марина Алексеевна": 2,
-      "Щербаков Юрий Алексеевич": 1
+      "gas:candidate-vibid:4364027199946": 6,
+      "gas:candidate-vibid:4364027200208": 1,
+      "gas:candidate-vibid:4364027200400": 0,
+      "gas:candidate-vibid:4364027200342": 614,
+      "gas:candidate-vibid:4364027200453": 0,
+      "gas:candidate-vibid:4364027200540": 0,
+      "gas:candidate-vibid:4364027200477": 3,
+      "gas:candidate-vibid:4364027200014": 2,
+      "gas:candidate-vibid:4364027200120": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147720&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147720&type=464",
@@ -2639,15 +2639,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 1,
-      "Климов Виталий Николаевич": 0,
-      "Лютикова Марина Владимировна": 3,
-      "Марков Андрей Павлович": 107,
-      "Муштенко Сергей Владимирович": 0,
-      "Очкин Михаил Вячеславович": 0,
-      "Пойманов Сергей Петрович": 4,
-      "Спицына Марина Алексеевна": 4,
-      "Щербаков Юрий Алексеевич": 0
+      "gas:candidate-vibid:4364027199946": 1,
+      "gas:candidate-vibid:4364027200208": 0,
+      "gas:candidate-vibid:4364027200400": 3,
+      "gas:candidate-vibid:4364027200342": 107,
+      "gas:candidate-vibid:4364027200453": 0,
+      "gas:candidate-vibid:4364027200540": 0,
+      "gas:candidate-vibid:4364027200477": 4,
+      "gas:candidate-vibid:4364027200014": 4,
+      "gas:candidate-vibid:4364027200120": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147720&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147720&type=464",
@@ -2698,15 +2698,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 2,
-      "Климов Виталий Николаевич": 0,
-      "Лютикова Марина Владимировна": 0,
-      "Марков Андрей Павлович": 77,
-      "Муштенко Сергей Владимирович": 0,
-      "Очкин Михаил Вячеславович": 0,
-      "Пойманов Сергей Петрович": 0,
-      "Спицына Марина Алексеевна": 0,
-      "Щербаков Юрий Алексеевич": 0
+      "gas:candidate-vibid:4364027199946": 2,
+      "gas:candidate-vibid:4364027200208": 0,
+      "gas:candidate-vibid:4364027200400": 0,
+      "gas:candidate-vibid:4364027200342": 77,
+      "gas:candidate-vibid:4364027200453": 0,
+      "gas:candidate-vibid:4364027200540": 0,
+      "gas:candidate-vibid:4364027200477": 0,
+      "gas:candidate-vibid:4364027200014": 0,
+      "gas:candidate-vibid:4364027200120": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147720&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147720&type=464",
@@ -2757,15 +2757,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 80,
-      "Климов Виталий Николаевич": 25,
-      "Лютикова Марина Владимировна": 43,
-      "Марков Андрей Павлович": 1239,
-      "Муштенко Сергей Владимирович": 10,
-      "Очкин Михаил Вячеславович": 12,
-      "Пойманов Сергей Петрович": 9,
-      "Спицына Марина Алексеевна": 35,
-      "Щербаков Юрий Алексеевич": 29
+      "gas:candidate-vibid:4364027199946": 80,
+      "gas:candidate-vibid:4364027200208": 25,
+      "gas:candidate-vibid:4364027200400": 43,
+      "gas:candidate-vibid:4364027200342": 1239,
+      "gas:candidate-vibid:4364027200453": 10,
+      "gas:candidate-vibid:4364027200540": 12,
+      "gas:candidate-vibid:4364027200477": 9,
+      "gas:candidate-vibid:4364027200014": 35,
+      "gas:candidate-vibid:4364027200120": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147720&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147720&type=464",
@@ -2816,15 +2816,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 10,
-      "Климов Виталий Николаевич": 7,
-      "Лютикова Марина Владимировна": 8,
-      "Марков Андрей Павлович": 89,
-      "Муштенко Сергей Владимирович": 4,
-      "Очкин Михаил Вячеславович": 3,
-      "Пойманов Сергей Петрович": 2,
-      "Спицына Марина Алексеевна": 9,
-      "Щербаков Юрий Алексеевич": 1
+      "gas:candidate-vibid:4364027199946": 10,
+      "gas:candidate-vibid:4364027200208": 7,
+      "gas:candidate-vibid:4364027200400": 8,
+      "gas:candidate-vibid:4364027200342": 89,
+      "gas:candidate-vibid:4364027200453": 4,
+      "gas:candidate-vibid:4364027200540": 3,
+      "gas:candidate-vibid:4364027200477": 2,
+      "gas:candidate-vibid:4364027200014": 9,
+      "gas:candidate-vibid:4364027200120": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147720&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147720&type=464",
@@ -2875,15 +2875,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 30,
-      "Климов Виталий Николаевич": 38,
-      "Лютикова Марина Владимировна": 2,
-      "Марков Андрей Павлович": 930,
-      "Муштенко Сергей Владимирович": 0,
-      "Очкин Михаил Вячеславович": 0,
-      "Пойманов Сергей Петрович": 54,
-      "Спицына Марина Алексеевна": 0,
-      "Щербаков Юрий Алексеевич": 33
+      "gas:candidate-vibid:4364027199946": 30,
+      "gas:candidate-vibid:4364027200208": 38,
+      "gas:candidate-vibid:4364027200400": 2,
+      "gas:candidate-vibid:4364027200342": 930,
+      "gas:candidate-vibid:4364027200453": 0,
+      "gas:candidate-vibid:4364027200540": 0,
+      "gas:candidate-vibid:4364027200477": 54,
+      "gas:candidate-vibid:4364027200014": 0,
+      "gas:candidate-vibid:4364027200120": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147721&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147721&type=464",
@@ -2934,15 +2934,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 103,
-      "Климов Виталий Николаевич": 54,
-      "Лютикова Марина Владимировна": 35,
-      "Марков Андрей Павлович": 577,
-      "Муштенко Сергей Владимирович": 20,
-      "Очкин Михаил Вячеславович": 10,
-      "Пойманов Сергей Петрович": 19,
-      "Спицына Марина Алексеевна": 27,
-      "Щербаков Юрий Алексеевич": 26
+      "gas:candidate-vibid:4364027199946": 103,
+      "gas:candidate-vibid:4364027200208": 54,
+      "gas:candidate-vibid:4364027200400": 35,
+      "gas:candidate-vibid:4364027200342": 577,
+      "gas:candidate-vibid:4364027200453": 20,
+      "gas:candidate-vibid:4364027200540": 10,
+      "gas:candidate-vibid:4364027200477": 19,
+      "gas:candidate-vibid:4364027200014": 27,
+      "gas:candidate-vibid:4364027200120": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147721&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147721&type=464",
@@ -2993,15 +2993,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 92,
-      "Климов Виталий Николаевич": 25,
-      "Лютикова Марина Владимировна": 32,
-      "Марков Андрей Павлович": 440,
-      "Муштенко Сергей Владимирович": 10,
-      "Очкин Михаил Вячеславович": 4,
-      "Пойманов Сергей Петрович": 43,
-      "Спицына Марина Алексеевна": 76,
-      "Щербаков Юрий Алексеевич": 31
+      "gas:candidate-vibid:4364027199946": 92,
+      "gas:candidate-vibid:4364027200208": 25,
+      "gas:candidate-vibid:4364027200400": 32,
+      "gas:candidate-vibid:4364027200342": 440,
+      "gas:candidate-vibid:4364027200453": 10,
+      "gas:candidate-vibid:4364027200540": 4,
+      "gas:candidate-vibid:4364027200477": 43,
+      "gas:candidate-vibid:4364027200014": 76,
+      "gas:candidate-vibid:4364027200120": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147721&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147721&type=464",
@@ -3052,15 +3052,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 80,
-      "Климов Виталий Николаевич": 24,
-      "Лютикова Марина Владимировна": 16,
-      "Марков Андрей Павлович": 280,
-      "Муштенко Сергей Владимирович": 10,
-      "Очкин Михаил Вячеславович": 8,
-      "Пойманов Сергей Петрович": 20,
-      "Спицына Марина Алексеевна": 61,
-      "Щербаков Юрий Алексеевич": 42
+      "gas:candidate-vibid:4364027199946": 80,
+      "gas:candidate-vibid:4364027200208": 24,
+      "gas:candidate-vibid:4364027200400": 16,
+      "gas:candidate-vibid:4364027200342": 280,
+      "gas:candidate-vibid:4364027200453": 10,
+      "gas:candidate-vibid:4364027200540": 8,
+      "gas:candidate-vibid:4364027200477": 20,
+      "gas:candidate-vibid:4364027200014": 61,
+      "gas:candidate-vibid:4364027200120": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147721&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147721&type=464",
@@ -3111,15 +3111,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 93,
-      "Климов Виталий Николаевич": 37,
-      "Лютикова Марина Владимировна": 16,
-      "Марков Андрей Павлович": 907,
-      "Муштенко Сергей Владимирович": 11,
-      "Очкин Михаил Вячеславович": 5,
-      "Пойманов Сергей Петрович": 35,
-      "Спицына Марина Алексеевна": 66,
-      "Щербаков Юрий Алексеевич": 139
+      "gas:candidate-vibid:4364027199946": 93,
+      "gas:candidate-vibid:4364027200208": 37,
+      "gas:candidate-vibid:4364027200400": 16,
+      "gas:candidate-vibid:4364027200342": 907,
+      "gas:candidate-vibid:4364027200453": 11,
+      "gas:candidate-vibid:4364027200540": 5,
+      "gas:candidate-vibid:4364027200477": 35,
+      "gas:candidate-vibid:4364027200014": 66,
+      "gas:candidate-vibid:4364027200120": 139
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147721&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147721&type=464",
@@ -3170,15 +3170,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 14,
-      "Климов Виталий Николаевич": 15,
-      "Лютикова Марина Владимировна": 5,
-      "Марков Андрей Павлович": 165,
-      "Муштенко Сергей Владимирович": 0,
-      "Очкин Михаил Вячеславович": 7,
-      "Пойманов Сергей Петрович": 9,
-      "Спицына Марина Алексеевна": 22,
-      "Щербаков Юрий Алексеевич": 6
+      "gas:candidate-vibid:4364027199946": 14,
+      "gas:candidate-vibid:4364027200208": 15,
+      "gas:candidate-vibid:4364027200400": 5,
+      "gas:candidate-vibid:4364027200342": 165,
+      "gas:candidate-vibid:4364027200453": 0,
+      "gas:candidate-vibid:4364027200540": 7,
+      "gas:candidate-vibid:4364027200477": 9,
+      "gas:candidate-vibid:4364027200014": 22,
+      "gas:candidate-vibid:4364027200120": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147721&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147721&type=464",
@@ -3229,15 +3229,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 23,
-      "Климов Виталий Николаевич": 2,
-      "Лютикова Марина Владимировна": 11,
-      "Марков Андрей Павлович": 249,
-      "Муштенко Сергей Владимирович": 1,
-      "Очкин Михаил Вячеславович": 0,
-      "Пойманов Сергей Петрович": 5,
-      "Спицына Марина Алексеевна": 19,
-      "Щербаков Юрий Алексеевич": 7
+      "gas:candidate-vibid:4364027199946": 23,
+      "gas:candidate-vibid:4364027200208": 2,
+      "gas:candidate-vibid:4364027200400": 11,
+      "gas:candidate-vibid:4364027200342": 249,
+      "gas:candidate-vibid:4364027200453": 1,
+      "gas:candidate-vibid:4364027200540": 0,
+      "gas:candidate-vibid:4364027200477": 5,
+      "gas:candidate-vibid:4364027200014": 19,
+      "gas:candidate-vibid:4364027200120": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147721&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147721&type=464",
@@ -3288,15 +3288,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 60,
-      "Климов Виталий Николаевич": 8,
-      "Лютикова Марина Владимировна": 11,
-      "Марков Андрей Павлович": 456,
-      "Муштенко Сергей Владимирович": 3,
-      "Очкин Михаил Вячеславович": 5,
-      "Пойманов Сергей Петрович": 20,
-      "Спицына Марина Алексеевна": 47,
-      "Щербаков Юрий Алексеевич": 17
+      "gas:candidate-vibid:4364027199946": 60,
+      "gas:candidate-vibid:4364027200208": 8,
+      "gas:candidate-vibid:4364027200400": 11,
+      "gas:candidate-vibid:4364027200342": 456,
+      "gas:candidate-vibid:4364027200453": 3,
+      "gas:candidate-vibid:4364027200540": 5,
+      "gas:candidate-vibid:4364027200477": 20,
+      "gas:candidate-vibid:4364027200014": 47,
+      "gas:candidate-vibid:4364027200120": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147721&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147721&type=464",
@@ -3347,15 +3347,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 0,
-      "Климов Виталий Николаевич": 6,
-      "Лютикова Марина Владимировна": 0,
-      "Марков Андрей Павлович": 884,
-      "Муштенко Сергей Владимирович": 0,
-      "Очкин Михаил Вячеславович": 0,
-      "Пойманов Сергей Петрович": 0,
-      "Спицына Марина Алексеевна": 15,
-      "Щербаков Юрий Алексеевич": 28
+      "gas:candidate-vibid:4364027199946": 0,
+      "gas:candidate-vibid:4364027200208": 6,
+      "gas:candidate-vibid:4364027200400": 0,
+      "gas:candidate-vibid:4364027200342": 884,
+      "gas:candidate-vibid:4364027200453": 0,
+      "gas:candidate-vibid:4364027200540": 0,
+      "gas:candidate-vibid:4364027200477": 0,
+      "gas:candidate-vibid:4364027200014": 15,
+      "gas:candidate-vibid:4364027200120": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147721&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147721&type=464",
@@ -3406,15 +3406,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 233,
-      "Климов Виталий Николаевич": 39,
-      "Лютикова Марина Владимировна": 0,
-      "Марков Андрей Павлович": 304,
-      "Муштенко Сергей Владимирович": 0,
-      "Очкин Михаил Вячеславович": 0,
-      "Пойманов Сергей Петрович": 24,
-      "Спицына Марина Алексеевна": 14,
-      "Щербаков Юрий Алексеевич": 51
+      "gas:candidate-vibid:4364027199946": 233,
+      "gas:candidate-vibid:4364027200208": 39,
+      "gas:candidate-vibid:4364027200400": 0,
+      "gas:candidate-vibid:4364027200342": 304,
+      "gas:candidate-vibid:4364027200453": 0,
+      "gas:candidate-vibid:4364027200540": 0,
+      "gas:candidate-vibid:4364027200477": 24,
+      "gas:candidate-vibid:4364027200014": 14,
+      "gas:candidate-vibid:4364027200120": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147721&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147721&type=464",
@@ -3465,15 +3465,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 10,
-      "Климов Виталий Николаевич": 21,
-      "Лютикова Марина Владимировна": 2,
-      "Марков Андрей Павлович": 248,
-      "Муштенко Сергей Владимирович": 2,
-      "Очкин Михаил Вячеславович": 2,
-      "Пойманов Сергей Петрович": 3,
-      "Спицына Марина Алексеевна": 10,
-      "Щербаков Юрий Алексеевич": 0
+      "gas:candidate-vibid:4364027199946": 10,
+      "gas:candidate-vibid:4364027200208": 21,
+      "gas:candidate-vibid:4364027200400": 2,
+      "gas:candidate-vibid:4364027200342": 248,
+      "gas:candidate-vibid:4364027200453": 2,
+      "gas:candidate-vibid:4364027200540": 2,
+      "gas:candidate-vibid:4364027200477": 3,
+      "gas:candidate-vibid:4364027200014": 10,
+      "gas:candidate-vibid:4364027200120": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147721&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147721&type=464",
@@ -3524,15 +3524,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 22,
-      "Климов Виталий Николаевич": 11,
-      "Лютикова Марина Владимировна": 3,
-      "Марков Андрей Павлович": 298,
-      "Муштенко Сергей Владимирович": 1,
-      "Очкин Михаил Вячеславович": 1,
-      "Пойманов Сергей Петрович": 3,
-      "Спицына Марина Алексеевна": 7,
-      "Щербаков Юрий Алексеевич": 4
+      "gas:candidate-vibid:4364027199946": 22,
+      "gas:candidate-vibid:4364027200208": 11,
+      "gas:candidate-vibid:4364027200400": 3,
+      "gas:candidate-vibid:4364027200342": 298,
+      "gas:candidate-vibid:4364027200453": 1,
+      "gas:candidate-vibid:4364027200540": 1,
+      "gas:candidate-vibid:4364027200477": 3,
+      "gas:candidate-vibid:4364027200014": 7,
+      "gas:candidate-vibid:4364027200120": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147721&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147721&type=464",
@@ -3583,15 +3583,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 21,
-      "Климов Виталий Николаевич": 13,
-      "Лютикова Марина Владимировна": 6,
-      "Марков Андрей Павлович": 328,
-      "Муштенко Сергей Владимирович": 2,
-      "Очкин Михаил Вячеславович": 2,
-      "Пойманов Сергей Петрович": 14,
-      "Спицына Марина Алексеевна": 34,
-      "Щербаков Юрий Алексеевич": 9
+      "gas:candidate-vibid:4364027199946": 21,
+      "gas:candidate-vibid:4364027200208": 13,
+      "gas:candidate-vibid:4364027200400": 6,
+      "gas:candidate-vibid:4364027200342": 328,
+      "gas:candidate-vibid:4364027200453": 2,
+      "gas:candidate-vibid:4364027200540": 2,
+      "gas:candidate-vibid:4364027200477": 14,
+      "gas:candidate-vibid:4364027200014": 34,
+      "gas:candidate-vibid:4364027200120": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147721&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147721&type=464",
@@ -3642,15 +3642,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 49,
-      "Климов Виталий Николаевич": 5,
-      "Лютикова Марина Владимировна": 4,
-      "Марков Андрей Павлович": 184,
-      "Муштенко Сергей Владимирович": 0,
-      "Очкин Михаил Вячеславович": 3,
-      "Пойманов Сергей Петрович": 3,
-      "Спицына Марина Алексеевна": 12,
-      "Щербаков Юрий Алексеевич": 11
+      "gas:candidate-vibid:4364027199946": 49,
+      "gas:candidate-vibid:4364027200208": 5,
+      "gas:candidate-vibid:4364027200400": 4,
+      "gas:candidate-vibid:4364027200342": 184,
+      "gas:candidate-vibid:4364027200453": 0,
+      "gas:candidate-vibid:4364027200540": 3,
+      "gas:candidate-vibid:4364027200477": 3,
+      "gas:candidate-vibid:4364027200014": 12,
+      "gas:candidate-vibid:4364027200120": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147721&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147721&type=464",
@@ -3701,15 +3701,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 105,
-      "Климов Виталий Николаевич": 20,
-      "Лютикова Марина Владимировна": 8,
-      "Марков Андрей Павлович": 312,
-      "Муштенко Сергей Владимирович": 4,
-      "Очкин Михаил Вячеславович": 3,
-      "Пойманов Сергей Петрович": 6,
-      "Спицына Марина Алексеевна": 48,
-      "Щербаков Юрий Алексеевич": 21
+      "gas:candidate-vibid:4364027199946": 105,
+      "gas:candidate-vibid:4364027200208": 20,
+      "gas:candidate-vibid:4364027200400": 8,
+      "gas:candidate-vibid:4364027200342": 312,
+      "gas:candidate-vibid:4364027200453": 4,
+      "gas:candidate-vibid:4364027200540": 3,
+      "gas:candidate-vibid:4364027200477": 6,
+      "gas:candidate-vibid:4364027200014": 48,
+      "gas:candidate-vibid:4364027200120": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147721&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147721&type=464",
@@ -3760,15 +3760,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 114,
-      "Климов Виталий Николаевич": 16,
-      "Лютикова Марина Владимировна": 3,
-      "Марков Андрей Павлович": 433,
-      "Муштенко Сергей Владимирович": 3,
-      "Очкин Михаил Вячеславович": 2,
-      "Пойманов Сергей Петрович": 12,
-      "Спицына Марина Алексеевна": 37,
-      "Щербаков Юрий Алексеевич": 31
+      "gas:candidate-vibid:4364027199946": 114,
+      "gas:candidate-vibid:4364027200208": 16,
+      "gas:candidate-vibid:4364027200400": 3,
+      "gas:candidate-vibid:4364027200342": 433,
+      "gas:candidate-vibid:4364027200453": 3,
+      "gas:candidate-vibid:4364027200540": 2,
+      "gas:candidate-vibid:4364027200477": 12,
+      "gas:candidate-vibid:4364027200014": 37,
+      "gas:candidate-vibid:4364027200120": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147721&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147721&type=464",
@@ -3819,15 +3819,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 9,
-      "Климов Виталий Николаевич": 30,
-      "Лютикова Марина Владимировна": 4,
-      "Марков Андрей Павлович": 561,
-      "Муштенко Сергей Владимирович": 0,
-      "Очкин Михаил Вячеславович": 0,
-      "Пойманов Сергей Петрович": 2,
-      "Спицына Марина Алексеевна": 5,
-      "Щербаков Юрий Алексеевич": 6
+      "gas:candidate-vibid:4364027199946": 9,
+      "gas:candidate-vibid:4364027200208": 30,
+      "gas:candidate-vibid:4364027200400": 4,
+      "gas:candidate-vibid:4364027200342": 561,
+      "gas:candidate-vibid:4364027200453": 0,
+      "gas:candidate-vibid:4364027200540": 0,
+      "gas:candidate-vibid:4364027200477": 2,
+      "gas:candidate-vibid:4364027200014": 5,
+      "gas:candidate-vibid:4364027200120": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147721&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147721&type=464",
@@ -3878,15 +3878,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 21,
-      "Климов Виталий Николаевич": 0,
-      "Лютикова Марина Владимировна": 0,
-      "Марков Андрей Павлович": 739,
-      "Муштенко Сергей Владимирович": 0,
-      "Очкин Михаил Вячеславович": 0,
-      "Пойманов Сергей Петрович": 0,
-      "Спицына Марина Алексеевна": 0,
-      "Щербаков Юрий Алексеевич": 5
+      "gas:candidate-vibid:4364027199946": 21,
+      "gas:candidate-vibid:4364027200208": 0,
+      "gas:candidate-vibid:4364027200400": 0,
+      "gas:candidate-vibid:4364027200342": 739,
+      "gas:candidate-vibid:4364027200453": 0,
+      "gas:candidate-vibid:4364027200540": 0,
+      "gas:candidate-vibid:4364027200477": 0,
+      "gas:candidate-vibid:4364027200014": 0,
+      "gas:candidate-vibid:4364027200120": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147721&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147721&type=464",
@@ -3937,15 +3937,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 35,
-      "Климов Виталий Николаевич": 7,
-      "Лютикова Марина Владимировна": 2,
-      "Марков Андрей Павлович": 579,
-      "Муштенко Сергей Владимирович": 0,
-      "Очкин Михаил Вячеславович": 0,
-      "Пойманов Сергей Петрович": 3,
-      "Спицына Марина Алексеевна": 9,
-      "Щербаков Юрий Алексеевич": 20
+      "gas:candidate-vibid:4364027199946": 35,
+      "gas:candidate-vibid:4364027200208": 7,
+      "gas:candidate-vibid:4364027200400": 2,
+      "gas:candidate-vibid:4364027200342": 579,
+      "gas:candidate-vibid:4364027200453": 0,
+      "gas:candidate-vibid:4364027200540": 0,
+      "gas:candidate-vibid:4364027200477": 3,
+      "gas:candidate-vibid:4364027200014": 9,
+      "gas:candidate-vibid:4364027200120": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147721&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147721&type=464",
@@ -3996,15 +3996,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 15,
-      "Климов Виталий Николаевич": 14,
-      "Лютикова Марина Владимировна": 7,
-      "Марков Андрей Павлович": 323,
-      "Муштенко Сергей Владимирович": 0,
-      "Очкин Михаил Вячеславович": 3,
-      "Пойманов Сергей Петрович": 8,
-      "Спицына Марина Алексеевна": 12,
-      "Щербаков Юрий Алексеевич": 11
+      "gas:candidate-vibid:4364027199946": 15,
+      "gas:candidate-vibid:4364027200208": 14,
+      "gas:candidate-vibid:4364027200400": 7,
+      "gas:candidate-vibid:4364027200342": 323,
+      "gas:candidate-vibid:4364027200453": 0,
+      "gas:candidate-vibid:4364027200540": 3,
+      "gas:candidate-vibid:4364027200477": 8,
+      "gas:candidate-vibid:4364027200014": 12,
+      "gas:candidate-vibid:4364027200120": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147721&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147721&type=464",
@@ -4055,15 +4055,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 73,
-      "Климов Виталий Николаевич": 9,
-      "Лютикова Марина Владимировна": 5,
-      "Марков Андрей Павлович": 771,
-      "Муштенко Сергей Владимирович": 4,
-      "Очкин Михаил Вячеславович": 3,
-      "Пойманов Сергей Петрович": 59,
-      "Спицына Марина Алексеевна": 7,
-      "Щербаков Юрий Алексеевич": 3
+      "gas:candidate-vibid:4364027199946": 73,
+      "gas:candidate-vibid:4364027200208": 9,
+      "gas:candidate-vibid:4364027200400": 5,
+      "gas:candidate-vibid:4364027200342": 771,
+      "gas:candidate-vibid:4364027200453": 4,
+      "gas:candidate-vibid:4364027200540": 3,
+      "gas:candidate-vibid:4364027200477": 59,
+      "gas:candidate-vibid:4364027200014": 7,
+      "gas:candidate-vibid:4364027200120": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147721&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147721&type=464",
@@ -4114,15 +4114,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 56,
-      "Климов Виталий Николаевич": 17,
-      "Лютикова Марина Владимировна": 8,
-      "Марков Андрей Павлович": 507,
-      "Муштенко Сергей Владимирович": 7,
-      "Очкин Михаил Вячеславович": 3,
-      "Пойманов Сергей Петрович": 15,
-      "Спицына Марина Алексеевна": 33,
-      "Щербаков Юрий Алексеевич": 18
+      "gas:candidate-vibid:4364027199946": 56,
+      "gas:candidate-vibid:4364027200208": 17,
+      "gas:candidate-vibid:4364027200400": 8,
+      "gas:candidate-vibid:4364027200342": 507,
+      "gas:candidate-vibid:4364027200453": 7,
+      "gas:candidate-vibid:4364027200540": 3,
+      "gas:candidate-vibid:4364027200477": 15,
+      "gas:candidate-vibid:4364027200014": 33,
+      "gas:candidate-vibid:4364027200120": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147721&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147721&type=464",
@@ -4173,15 +4173,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 34,
-      "Климов Виталий Николаевич": 13,
-      "Лютикова Марина Владимировна": 7,
-      "Марков Андрей Павлович": 270,
-      "Муштенко Сергей Владимирович": 4,
-      "Очкин Михаил Вячеславович": 1,
-      "Пойманов Сергей Петрович": 10,
-      "Спицына Марина Алексеевна": 42,
-      "Щербаков Юрий Алексеевич": 18
+      "gas:candidate-vibid:4364027199946": 34,
+      "gas:candidate-vibid:4364027200208": 13,
+      "gas:candidate-vibid:4364027200400": 7,
+      "gas:candidate-vibid:4364027200342": 270,
+      "gas:candidate-vibid:4364027200453": 4,
+      "gas:candidate-vibid:4364027200540": 1,
+      "gas:candidate-vibid:4364027200477": 10,
+      "gas:candidate-vibid:4364027200014": 42,
+      "gas:candidate-vibid:4364027200120": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147721&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147721&type=464",
@@ -4232,15 +4232,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 16,
-      "Климов Виталий Николаевич": 10,
-      "Лютикова Марина Владимировна": 4,
-      "Марков Андрей Павлович": 143,
-      "Муштенко Сергей Владимирович": 6,
-      "Очкин Михаил Вячеславович": 2,
-      "Пойманов Сергей Петрович": 16,
-      "Спицына Марина Алексеевна": 18,
-      "Щербаков Юрий Алексеевич": 3
+      "gas:candidate-vibid:4364027199946": 16,
+      "gas:candidate-vibid:4364027200208": 10,
+      "gas:candidate-vibid:4364027200400": 4,
+      "gas:candidate-vibid:4364027200342": 143,
+      "gas:candidate-vibid:4364027200453": 6,
+      "gas:candidate-vibid:4364027200540": 2,
+      "gas:candidate-vibid:4364027200477": 16,
+      "gas:candidate-vibid:4364027200014": 18,
+      "gas:candidate-vibid:4364027200120": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147721&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147721&type=464",
@@ -4291,15 +4291,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 44,
-      "Климов Виталий Николаевич": 6,
-      "Лютикова Марина Владимировна": 9,
-      "Марков Андрей Павлович": 387,
-      "Муштенко Сергей Владимирович": 0,
-      "Очкин Михаил Вячеславович": 0,
-      "Пойманов Сергей Петрович": 4,
-      "Спицына Марина Алексеевна": 26,
-      "Щербаков Юрий Алексеевич": 17
+      "gas:candidate-vibid:4364027199946": 44,
+      "gas:candidate-vibid:4364027200208": 6,
+      "gas:candidate-vibid:4364027200400": 9,
+      "gas:candidate-vibid:4364027200342": 387,
+      "gas:candidate-vibid:4364027200453": 0,
+      "gas:candidate-vibid:4364027200540": 0,
+      "gas:candidate-vibid:4364027200477": 4,
+      "gas:candidate-vibid:4364027200014": 26,
+      "gas:candidate-vibid:4364027200120": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147721&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147721&type=464",
@@ -4350,15 +4350,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 38,
-      "Климов Виталий Николаевич": 22,
-      "Лютикова Марина Владимировна": 0,
-      "Марков Андрей Павлович": 412,
-      "Муштенко Сергей Владимирович": 0,
-      "Очкин Михаил Вячеславович": 2,
-      "Пойманов Сергей Петрович": 1,
-      "Спицына Марина Алексеевна": 30,
-      "Щербаков Юрий Алексеевич": 4
+      "gas:candidate-vibid:4364027199946": 38,
+      "gas:candidate-vibid:4364027200208": 22,
+      "gas:candidate-vibid:4364027200400": 0,
+      "gas:candidate-vibid:4364027200342": 412,
+      "gas:candidate-vibid:4364027200453": 0,
+      "gas:candidate-vibid:4364027200540": 2,
+      "gas:candidate-vibid:4364027200477": 1,
+      "gas:candidate-vibid:4364027200014": 30,
+      "gas:candidate-vibid:4364027200120": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147721&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147721&type=464",
@@ -4409,15 +4409,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 29,
-      "Климов Виталий Николаевич": 8,
-      "Лютикова Марина Владимировна": 2,
-      "Марков Андрей Павлович": 173,
-      "Муштенко Сергей Владимирович": 3,
-      "Очкин Михаил Вячеславович": 1,
-      "Пойманов Сергей Петрович": 4,
-      "Спицына Марина Алексеевна": 17,
-      "Щербаков Юрий Алексеевич": 10
+      "gas:candidate-vibid:4364027199946": 29,
+      "gas:candidate-vibid:4364027200208": 8,
+      "gas:candidate-vibid:4364027200400": 2,
+      "gas:candidate-vibid:4364027200342": 173,
+      "gas:candidate-vibid:4364027200453": 3,
+      "gas:candidate-vibid:4364027200540": 1,
+      "gas:candidate-vibid:4364027200477": 4,
+      "gas:candidate-vibid:4364027200014": 17,
+      "gas:candidate-vibid:4364027200120": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147721&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147721&type=464",
@@ -4468,15 +4468,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 8,
-      "Климов Виталий Николаевич": 12,
-      "Лютикова Марина Владимировна": 2,
-      "Марков Андрей Павлович": 162,
-      "Муштенко Сергей Владимирович": 2,
-      "Очкин Михаил Вячеславович": 0,
-      "Пойманов Сергей Петрович": 3,
-      "Спицына Марина Алексеевна": 8,
-      "Щербаков Юрий Алексеевич": 6
+      "gas:candidate-vibid:4364027199946": 8,
+      "gas:candidate-vibid:4364027200208": 12,
+      "gas:candidate-vibid:4364027200400": 2,
+      "gas:candidate-vibid:4364027200342": 162,
+      "gas:candidate-vibid:4364027200453": 2,
+      "gas:candidate-vibid:4364027200540": 0,
+      "gas:candidate-vibid:4364027200477": 3,
+      "gas:candidate-vibid:4364027200014": 8,
+      "gas:candidate-vibid:4364027200120": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147721&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147721&type=464",
@@ -4527,15 +4527,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 29,
-      "Климов Виталий Николаевич": 21,
-      "Лютикова Марина Владимировна": 8,
-      "Марков Андрей Павлович": 291,
-      "Муштенко Сергей Владимирович": 2,
-      "Очкин Михаил Вячеславович": 4,
-      "Пойманов Сергей Петрович": 6,
-      "Спицына Марина Алексеевна": 19,
-      "Щербаков Юрий Алексеевич": 16
+      "gas:candidate-vibid:4364027199946": 29,
+      "gas:candidate-vibid:4364027200208": 21,
+      "gas:candidate-vibid:4364027200400": 8,
+      "gas:candidate-vibid:4364027200342": 291,
+      "gas:candidate-vibid:4364027200453": 2,
+      "gas:candidate-vibid:4364027200540": 4,
+      "gas:candidate-vibid:4364027200477": 6,
+      "gas:candidate-vibid:4364027200014": 19,
+      "gas:candidate-vibid:4364027200120": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147721&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147721&type=464",
@@ -4586,15 +4586,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 13,
-      "Климов Виталий Николаевич": 47,
-      "Лютикова Марина Владимировна": 1,
-      "Марков Андрей Павлович": 505,
-      "Муштенко Сергей Владимирович": 1,
-      "Очкин Михаил Вячеславович": 0,
-      "Пойманов Сергей Петрович": 23,
-      "Спицына Марина Алексеевна": 8,
-      "Щербаков Юрий Алексеевич": 4
+      "gas:candidate-vibid:4364027199946": 13,
+      "gas:candidate-vibid:4364027200208": 47,
+      "gas:candidate-vibid:4364027200400": 1,
+      "gas:candidate-vibid:4364027200342": 505,
+      "gas:candidate-vibid:4364027200453": 1,
+      "gas:candidate-vibid:4364027200540": 0,
+      "gas:candidate-vibid:4364027200477": 23,
+      "gas:candidate-vibid:4364027200014": 8,
+      "gas:candidate-vibid:4364027200120": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147721&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147721&type=464",
@@ -4645,15 +4645,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 30,
-      "Климов Виталий Николаевич": 2,
-      "Лютикова Марина Владимировна": 6,
-      "Марков Андрей Павлович": 494,
-      "Муштенко Сергей Владимирович": 6,
-      "Очкин Михаил Вячеславович": 3,
-      "Пойманов Сергей Петрович": 5,
-      "Спицына Марина Алексеевна": 28,
-      "Щербаков Юрий Алексеевич": 6
+      "gas:candidate-vibid:4364027199946": 30,
+      "gas:candidate-vibid:4364027200208": 2,
+      "gas:candidate-vibid:4364027200400": 6,
+      "gas:candidate-vibid:4364027200342": 494,
+      "gas:candidate-vibid:4364027200453": 6,
+      "gas:candidate-vibid:4364027200540": 3,
+      "gas:candidate-vibid:4364027200477": 5,
+      "gas:candidate-vibid:4364027200014": 28,
+      "gas:candidate-vibid:4364027200120": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147721&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147721&type=464",
@@ -4704,15 +4704,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 65,
-      "Климов Виталий Николаевич": 20,
-      "Лютикова Марина Владимировна": 11,
-      "Марков Андрей Павлович": 406,
-      "Муштенко Сергей Владимирович": 6,
-      "Очкин Михаил Вячеславович": 5,
-      "Пойманов Сергей Петрович": 65,
-      "Спицына Марина Алексеевна": 64,
-      "Щербаков Юрий Алексеевич": 31
+      "gas:candidate-vibid:4364027199946": 65,
+      "gas:candidate-vibid:4364027200208": 20,
+      "gas:candidate-vibid:4364027200400": 11,
+      "gas:candidate-vibid:4364027200342": 406,
+      "gas:candidate-vibid:4364027200453": 6,
+      "gas:candidate-vibid:4364027200540": 5,
+      "gas:candidate-vibid:4364027200477": 65,
+      "gas:candidate-vibid:4364027200014": 64,
+      "gas:candidate-vibid:4364027200120": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147721&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147721&type=464",
@@ -4763,15 +4763,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 73,
-      "Климов Виталий Николаевич": 19,
-      "Лютикова Марина Владимировна": 12,
-      "Марков Андрей Павлович": 275,
-      "Муштенко Сергей Владимирович": 7,
-      "Очкин Михаил Вячеславович": 3,
-      "Пойманов Сергей Петрович": 32,
-      "Спицына Марина Алексеевна": 41,
-      "Щербаков Юрий Алексеевич": 36
+      "gas:candidate-vibid:4364027199946": 73,
+      "gas:candidate-vibid:4364027200208": 19,
+      "gas:candidate-vibid:4364027200400": 12,
+      "gas:candidate-vibid:4364027200342": 275,
+      "gas:candidate-vibid:4364027200453": 7,
+      "gas:candidate-vibid:4364027200540": 3,
+      "gas:candidate-vibid:4364027200477": 32,
+      "gas:candidate-vibid:4364027200014": 41,
+      "gas:candidate-vibid:4364027200120": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147721&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147721&type=464",
@@ -4822,15 +4822,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 38,
-      "Климов Виталий Николаевич": 14,
-      "Лютикова Марина Владимировна": 8,
-      "Марков Андрей Павлович": 418,
-      "Муштенко Сергей Владимирович": 2,
-      "Очкин Михаил Вячеславович": 4,
-      "Пойманов Сергей Петрович": 17,
-      "Спицына Марина Алексеевна": 30,
-      "Щербаков Юрий Алексеевич": 17
+      "gas:candidate-vibid:4364027199946": 38,
+      "gas:candidate-vibid:4364027200208": 14,
+      "gas:candidate-vibid:4364027200400": 8,
+      "gas:candidate-vibid:4364027200342": 418,
+      "gas:candidate-vibid:4364027200453": 2,
+      "gas:candidate-vibid:4364027200540": 4,
+      "gas:candidate-vibid:4364027200477": 17,
+      "gas:candidate-vibid:4364027200014": 30,
+      "gas:candidate-vibid:4364027200120": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147721&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147721&type=464",
@@ -4881,15 +4881,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 69,
-      "Климов Виталий Николаевич": 82,
-      "Лютикова Марина Владимировна": 8,
-      "Марков Андрей Павлович": 728,
-      "Муштенко Сергей Владимирович": 7,
-      "Очкин Михаил Вячеславович": 6,
-      "Пойманов Сергей Петрович": 28,
-      "Спицына Марина Алексеевна": 42,
-      "Щербаков Юрий Алексеевич": 40
+      "gas:candidate-vibid:4364027199946": 69,
+      "gas:candidate-vibid:4364027200208": 82,
+      "gas:candidate-vibid:4364027200400": 8,
+      "gas:candidate-vibid:4364027200342": 728,
+      "gas:candidate-vibid:4364027200453": 7,
+      "gas:candidate-vibid:4364027200540": 6,
+      "gas:candidate-vibid:4364027200477": 28,
+      "gas:candidate-vibid:4364027200014": 42,
+      "gas:candidate-vibid:4364027200120": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147721&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147721&type=464",
@@ -4940,15 +4940,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 28,
-      "Климов Виталий Николаевич": 6,
-      "Лютикова Марина Владимировна": 7,
-      "Марков Андрей Павлович": 184,
-      "Муштенко Сергей Владимирович": 0,
-      "Очкин Михаил Вячеславович": 5,
-      "Пойманов Сергей Петрович": 30,
-      "Спицына Марина Алексеевна": 23,
-      "Щербаков Юрий Алексеевич": 8
+      "gas:candidate-vibid:4364027199946": 28,
+      "gas:candidate-vibid:4364027200208": 6,
+      "gas:candidate-vibid:4364027200400": 7,
+      "gas:candidate-vibid:4364027200342": 184,
+      "gas:candidate-vibid:4364027200453": 0,
+      "gas:candidate-vibid:4364027200540": 5,
+      "gas:candidate-vibid:4364027200477": 30,
+      "gas:candidate-vibid:4364027200014": 23,
+      "gas:candidate-vibid:4364027200120": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147721&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147721&type=464",
@@ -4999,15 +4999,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 52,
-      "Климов Виталий Николаевич": 17,
-      "Лютикова Марина Владимировна": 17,
-      "Марков Андрей Павлович": 430,
-      "Муштенко Сергей Владимирович": 6,
-      "Очкин Михаил Вячеславович": 1,
-      "Пойманов Сергей Петрович": 28,
-      "Спицына Марина Алексеевна": 46,
-      "Щербаков Юрий Алексеевич": 27
+      "gas:candidate-vibid:4364027199946": 52,
+      "gas:candidate-vibid:4364027200208": 17,
+      "gas:candidate-vibid:4364027200400": 17,
+      "gas:candidate-vibid:4364027200342": 430,
+      "gas:candidate-vibid:4364027200453": 6,
+      "gas:candidate-vibid:4364027200540": 1,
+      "gas:candidate-vibid:4364027200477": 28,
+      "gas:candidate-vibid:4364027200014": 46,
+      "gas:candidate-vibid:4364027200120": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147721&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147721&type=464",
@@ -5058,15 +5058,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 30,
-      "Климов Виталий Николаевич": 2,
-      "Лютикова Марина Владимировна": 4,
-      "Марков Андрей Павлович": 190,
-      "Муштенко Сергей Владимирович": 2,
-      "Очкин Михаил Вячеславович": 0,
-      "Пойманов Сергей Петрович": 60,
-      "Спицына Марина Алексеевна": 20,
-      "Щербаков Юрий Алексеевич": 4
+      "gas:candidate-vibid:4364027199946": 30,
+      "gas:candidate-vibid:4364027200208": 2,
+      "gas:candidate-vibid:4364027200400": 4,
+      "gas:candidate-vibid:4364027200342": 190,
+      "gas:candidate-vibid:4364027200453": 2,
+      "gas:candidate-vibid:4364027200540": 0,
+      "gas:candidate-vibid:4364027200477": 60,
+      "gas:candidate-vibid:4364027200014": 20,
+      "gas:candidate-vibid:4364027200120": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147721&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147721&type=464",
@@ -5117,15 +5117,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 9,
-      "Климов Виталий Николаевич": 4,
-      "Лютикова Марина Владимировна": 3,
-      "Марков Андрей Павлович": 178,
-      "Муштенко Сергей Владимирович": 1,
-      "Очкин Михаил Вячеславович": 1,
-      "Пойманов Сергей Петрович": 0,
-      "Спицына Марина Алексеевна": 6,
-      "Щербаков Юрий Алексеевич": 2
+      "gas:candidate-vibid:4364027199946": 9,
+      "gas:candidate-vibid:4364027200208": 4,
+      "gas:candidate-vibid:4364027200400": 3,
+      "gas:candidate-vibid:4364027200342": 178,
+      "gas:candidate-vibid:4364027200453": 1,
+      "gas:candidate-vibid:4364027200540": 1,
+      "gas:candidate-vibid:4364027200477": 0,
+      "gas:candidate-vibid:4364027200014": 6,
+      "gas:candidate-vibid:4364027200120": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147721&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147721&type=464",
@@ -5176,15 +5176,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 43,
-      "Климов Виталий Николаевич": 8,
-      "Лютикова Марина Владимировна": 8,
-      "Марков Андрей Павлович": 207,
-      "Муштенко Сергей Владимирович": 2,
-      "Очкин Михаил Вячеславович": 1,
-      "Пойманов Сергей Петрович": 12,
-      "Спицына Марина Алексеевна": 43,
-      "Щербаков Юрий Алексеевич": 22
+      "gas:candidate-vibid:4364027199946": 43,
+      "gas:candidate-vibid:4364027200208": 8,
+      "gas:candidate-vibid:4364027200400": 8,
+      "gas:candidate-vibid:4364027200342": 207,
+      "gas:candidate-vibid:4364027200453": 2,
+      "gas:candidate-vibid:4364027200540": 1,
+      "gas:candidate-vibid:4364027200477": 12,
+      "gas:candidate-vibid:4364027200014": 43,
+      "gas:candidate-vibid:4364027200120": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147721&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147721&type=464",
@@ -5235,15 +5235,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 106,
-      "Климов Виталий Николаевич": 18,
-      "Лютикова Марина Владимировна": 38,
-      "Марков Андрей Павлович": 663,
-      "Муштенко Сергей Владимирович": 5,
-      "Очкин Михаил Вячеславович": 24,
-      "Пойманов Сергей Петрович": 17,
-      "Спицына Марина Алексеевна": 80,
-      "Щербаков Юрий Алексеевич": 37
+      "gas:candidate-vibid:4364027199946": 106,
+      "gas:candidate-vibid:4364027200208": 18,
+      "gas:candidate-vibid:4364027200400": 38,
+      "gas:candidate-vibid:4364027200342": 663,
+      "gas:candidate-vibid:4364027200453": 5,
+      "gas:candidate-vibid:4364027200540": 24,
+      "gas:candidate-vibid:4364027200477": 17,
+      "gas:candidate-vibid:4364027200014": 80,
+      "gas:candidate-vibid:4364027200120": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147721&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147721&type=464",
@@ -5294,15 +5294,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 104,
-      "Климов Виталий Николаевич": 27,
-      "Лютикова Марина Владимировна": 17,
-      "Марков Андрей Павлович": 698,
-      "Муштенко Сергей Владимирович": 11,
-      "Очкин Михаил Вячеславович": 4,
-      "Пойманов Сергей Петрович": 33,
-      "Спицына Марина Алексеевна": 52,
-      "Щербаков Юрий Алексеевич": 36
+      "gas:candidate-vibid:4364027199946": 104,
+      "gas:candidate-vibid:4364027200208": 27,
+      "gas:candidate-vibid:4364027200400": 17,
+      "gas:candidate-vibid:4364027200342": 698,
+      "gas:candidate-vibid:4364027200453": 11,
+      "gas:candidate-vibid:4364027200540": 4,
+      "gas:candidate-vibid:4364027200477": 33,
+      "gas:candidate-vibid:4364027200014": 52,
+      "gas:candidate-vibid:4364027200120": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147721&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147721&type=464",
@@ -5353,15 +5353,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 108,
-      "Климов Виталий Николаевич": 42,
-      "Лютикова Марина Владимировна": 25,
-      "Марков Андрей Павлович": 423,
-      "Муштенко Сергей Владимирович": 8,
-      "Очкин Михаил Вячеславович": 7,
-      "Пойманов Сергей Петрович": 27,
-      "Спицына Марина Алексеевна": 69,
-      "Щербаков Юрий Алексеевич": 35
+      "gas:candidate-vibid:4364027199946": 108,
+      "gas:candidate-vibid:4364027200208": 42,
+      "gas:candidate-vibid:4364027200400": 25,
+      "gas:candidate-vibid:4364027200342": 423,
+      "gas:candidate-vibid:4364027200453": 8,
+      "gas:candidate-vibid:4364027200540": 7,
+      "gas:candidate-vibid:4364027200477": 27,
+      "gas:candidate-vibid:4364027200014": 69,
+      "gas:candidate-vibid:4364027200120": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147721&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147721&type=464",
@@ -5412,15 +5412,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 140,
-      "Климов Виталий Николаевич": 45,
-      "Лютикова Марина Владимировна": 37,
-      "Марков Андрей Павлович": 339,
-      "Муштенко Сергей Владимирович": 36,
-      "Очкин Михаил Вячеславович": 18,
-      "Пойманов Сергей Петрович": 50,
-      "Спицына Марина Алексеевна": 119,
-      "Щербаков Юрий Алексеевич": 43
+      "gas:candidate-vibid:4364027199946": 140,
+      "gas:candidate-vibid:4364027200208": 45,
+      "gas:candidate-vibid:4364027200400": 37,
+      "gas:candidate-vibid:4364027200342": 339,
+      "gas:candidate-vibid:4364027200453": 36,
+      "gas:candidate-vibid:4364027200540": 18,
+      "gas:candidate-vibid:4364027200477": 50,
+      "gas:candidate-vibid:4364027200014": 119,
+      "gas:candidate-vibid:4364027200120": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147721&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147721&type=464",
@@ -5471,15 +5471,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 129,
-      "Климов Виталий Николаевич": 148,
-      "Лютикова Марина Владимировна": 28,
-      "Марков Андрей Павлович": 260,
-      "Муштенко Сергей Владимирович": 9,
-      "Очкин Михаил Вячеславович": 11,
-      "Пойманов Сергей Петрович": 36,
-      "Спицына Марина Алексеевна": 86,
-      "Щербаков Юрий Алексеевич": 47
+      "gas:candidate-vibid:4364027199946": 129,
+      "gas:candidate-vibid:4364027200208": 148,
+      "gas:candidate-vibid:4364027200400": 28,
+      "gas:candidate-vibid:4364027200342": 260,
+      "gas:candidate-vibid:4364027200453": 9,
+      "gas:candidate-vibid:4364027200540": 11,
+      "gas:candidate-vibid:4364027200477": 36,
+      "gas:candidate-vibid:4364027200014": 86,
+      "gas:candidate-vibid:4364027200120": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147722&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147722&type=464",
@@ -5530,15 +5530,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 198,
-      "Климов Виталий Николаевич": 169,
-      "Лютикова Марина Владимировна": 37,
-      "Марков Андрей Павлович": 320,
-      "Муштенко Сергей Владимирович": 4,
-      "Очкин Михаил Вячеславович": 5,
-      "Пойманов Сергей Петрович": 31,
-      "Спицына Марина Алексеевна": 89,
-      "Щербаков Юрий Алексеевич": 53
+      "gas:candidate-vibid:4364027199946": 198,
+      "gas:candidate-vibid:4364027200208": 169,
+      "gas:candidate-vibid:4364027200400": 37,
+      "gas:candidate-vibid:4364027200342": 320,
+      "gas:candidate-vibid:4364027200453": 4,
+      "gas:candidate-vibid:4364027200540": 5,
+      "gas:candidate-vibid:4364027200477": 31,
+      "gas:candidate-vibid:4364027200014": 89,
+      "gas:candidate-vibid:4364027200120": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147722&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147722&type=464",
@@ -5589,15 +5589,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 125,
-      "Климов Виталий Николаевич": 233,
-      "Лютикова Марина Владимировна": 19,
-      "Марков Андрей Павлович": 172,
-      "Муштенко Сергей Владимирович": 9,
-      "Очкин Михаил Вячеславович": 7,
-      "Пойманов Сергей Петрович": 7,
-      "Спицына Марина Алексеевна": 85,
-      "Щербаков Юрий Алексеевич": 30
+      "gas:candidate-vibid:4364027199946": 125,
+      "gas:candidate-vibid:4364027200208": 233,
+      "gas:candidate-vibid:4364027200400": 19,
+      "gas:candidate-vibid:4364027200342": 172,
+      "gas:candidate-vibid:4364027200453": 9,
+      "gas:candidate-vibid:4364027200540": 7,
+      "gas:candidate-vibid:4364027200477": 7,
+      "gas:candidate-vibid:4364027200014": 85,
+      "gas:candidate-vibid:4364027200120": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147722&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147722&type=464",
@@ -5648,15 +5648,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 137,
-      "Климов Виталий Николаевич": 190,
-      "Лютикова Марина Владимировна": 11,
-      "Марков Андрей Павлович": 174,
-      "Муштенко Сергей Владимирович": 5,
-      "Очкин Михаил Вячеславович": 6,
-      "Пойманов Сергей Петрович": 14,
-      "Спицына Марина Алексеевна": 82,
-      "Щербаков Юрий Алексеевич": 36
+      "gas:candidate-vibid:4364027199946": 137,
+      "gas:candidate-vibid:4364027200208": 190,
+      "gas:candidate-vibid:4364027200400": 11,
+      "gas:candidate-vibid:4364027200342": 174,
+      "gas:candidate-vibid:4364027200453": 5,
+      "gas:candidate-vibid:4364027200540": 6,
+      "gas:candidate-vibid:4364027200477": 14,
+      "gas:candidate-vibid:4364027200014": 82,
+      "gas:candidate-vibid:4364027200120": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147722&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147722&type=464",
@@ -5707,15 +5707,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 114,
-      "Климов Виталий Николаевич": 162,
-      "Лютикова Марина Владимировна": 17,
-      "Марков Андрей Павлович": 194,
-      "Муштенко Сергей Владимирович": 8,
-      "Очкин Михаил Вячеславович": 3,
-      "Пойманов Сергей Петрович": 27,
-      "Спицына Марина Алексеевна": 70,
-      "Щербаков Юрий Алексеевич": 28
+      "gas:candidate-vibid:4364027199946": 114,
+      "gas:candidate-vibid:4364027200208": 162,
+      "gas:candidate-vibid:4364027200400": 17,
+      "gas:candidate-vibid:4364027200342": 194,
+      "gas:candidate-vibid:4364027200453": 8,
+      "gas:candidate-vibid:4364027200540": 3,
+      "gas:candidate-vibid:4364027200477": 27,
+      "gas:candidate-vibid:4364027200014": 70,
+      "gas:candidate-vibid:4364027200120": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147722&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147722&type=464",
@@ -5766,15 +5766,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 143,
-      "Климов Виталий Николаевич": 246,
-      "Лютикова Марина Владимировна": 17,
-      "Марков Андрей Павлович": 207,
-      "Муштенко Сергей Владимирович": 14,
-      "Очкин Михаил Вячеславович": 7,
-      "Пойманов Сергей Петрович": 31,
-      "Спицына Марина Алексеевна": 124,
-      "Щербаков Юрий Алексеевич": 37
+      "gas:candidate-vibid:4364027199946": 143,
+      "gas:candidate-vibid:4364027200208": 246,
+      "gas:candidate-vibid:4364027200400": 17,
+      "gas:candidate-vibid:4364027200342": 207,
+      "gas:candidate-vibid:4364027200453": 14,
+      "gas:candidate-vibid:4364027200540": 7,
+      "gas:candidate-vibid:4364027200477": 31,
+      "gas:candidate-vibid:4364027200014": 124,
+      "gas:candidate-vibid:4364027200120": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147722&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147722&type=464",
@@ -5825,15 +5825,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 148,
-      "Климов Виталий Николаевич": 183,
-      "Лютикова Марина Владимировна": 25,
-      "Марков Андрей Павлович": 185,
-      "Муштенко Сергей Владимирович": 7,
-      "Очкин Михаил Вячеславович": 8,
-      "Пойманов Сергей Петрович": 20,
-      "Спицына Марина Алексеевна": 109,
-      "Щербаков Юрий Алексеевич": 32
+      "gas:candidate-vibid:4364027199946": 148,
+      "gas:candidate-vibid:4364027200208": 183,
+      "gas:candidate-vibid:4364027200400": 25,
+      "gas:candidate-vibid:4364027200342": 185,
+      "gas:candidate-vibid:4364027200453": 7,
+      "gas:candidate-vibid:4364027200540": 8,
+      "gas:candidate-vibid:4364027200477": 20,
+      "gas:candidate-vibid:4364027200014": 109,
+      "gas:candidate-vibid:4364027200120": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147722&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147722&type=464",
@@ -5884,15 +5884,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 163,
-      "Климов Виталий Николаевич": 188,
-      "Лютикова Марина Владимировна": 18,
-      "Марков Андрей Павлович": 215,
-      "Муштенко Сергей Владимирович": 8,
-      "Очкин Михаил Вячеславович": 13,
-      "Пойманов Сергей Петрович": 43,
-      "Спицына Марина Алексеевна": 102,
-      "Щербаков Юрий Алексеевич": 42
+      "gas:candidate-vibid:4364027199946": 163,
+      "gas:candidate-vibid:4364027200208": 188,
+      "gas:candidate-vibid:4364027200400": 18,
+      "gas:candidate-vibid:4364027200342": 215,
+      "gas:candidate-vibid:4364027200453": 8,
+      "gas:candidate-vibid:4364027200540": 13,
+      "gas:candidate-vibid:4364027200477": 43,
+      "gas:candidate-vibid:4364027200014": 102,
+      "gas:candidate-vibid:4364027200120": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147722&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147722&type=464",
@@ -5943,15 +5943,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 151,
-      "Климов Виталий Николаевич": 238,
-      "Лютикова Марина Владимировна": 30,
-      "Марков Андрей Павлович": 217,
-      "Муштенко Сергей Владимирович": 2,
-      "Очкин Михаил Вячеславович": 9,
-      "Пойманов Сергей Петрович": 27,
-      "Спицына Марина Алексеевна": 92,
-      "Щербаков Юрий Алексеевич": 41
+      "gas:candidate-vibid:4364027199946": 151,
+      "gas:candidate-vibid:4364027200208": 238,
+      "gas:candidate-vibid:4364027200400": 30,
+      "gas:candidate-vibid:4364027200342": 217,
+      "gas:candidate-vibid:4364027200453": 2,
+      "gas:candidate-vibid:4364027200540": 9,
+      "gas:candidate-vibid:4364027200477": 27,
+      "gas:candidate-vibid:4364027200014": 92,
+      "gas:candidate-vibid:4364027200120": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147722&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147722&type=464",
@@ -6002,15 +6002,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 118,
-      "Климов Виталий Николаевич": 207,
-      "Лютикова Марина Владимировна": 12,
-      "Марков Андрей Павлович": 173,
-      "Муштенко Сергей Владимирович": 7,
-      "Очкин Михаил Вячеславович": 5,
-      "Пойманов Сергей Петрович": 22,
-      "Спицына Марина Алексеевна": 88,
-      "Щербаков Юрий Алексеевич": 35
+      "gas:candidate-vibid:4364027199946": 118,
+      "gas:candidate-vibid:4364027200208": 207,
+      "gas:candidate-vibid:4364027200400": 12,
+      "gas:candidate-vibid:4364027200342": 173,
+      "gas:candidate-vibid:4364027200453": 7,
+      "gas:candidate-vibid:4364027200540": 5,
+      "gas:candidate-vibid:4364027200477": 22,
+      "gas:candidate-vibid:4364027200014": 88,
+      "gas:candidate-vibid:4364027200120": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147722&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147722&type=464",
@@ -6061,15 +6061,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 159,
-      "Климов Виталий Николаевич": 201,
-      "Лютикова Марина Владимировна": 14,
-      "Марков Андрей Павлович": 274,
-      "Муштенко Сергей Владимирович": 1,
-      "Очкин Михаил Вячеславович": 7,
-      "Пойманов Сергей Петрович": 26,
-      "Спицына Марина Алексеевна": 129,
-      "Щербаков Юрий Алексеевич": 25
+      "gas:candidate-vibid:4364027199946": 159,
+      "gas:candidate-vibid:4364027200208": 201,
+      "gas:candidate-vibid:4364027200400": 14,
+      "gas:candidate-vibid:4364027200342": 274,
+      "gas:candidate-vibid:4364027200453": 1,
+      "gas:candidate-vibid:4364027200540": 7,
+      "gas:candidate-vibid:4364027200477": 26,
+      "gas:candidate-vibid:4364027200014": 129,
+      "gas:candidate-vibid:4364027200120": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147722&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147722&type=464",
@@ -6120,15 +6120,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 130,
-      "Климов Виталий Николаевич": 185,
-      "Лютикова Марина Владимировна": 19,
-      "Марков Андрей Павлович": 188,
-      "Муштенко Сергей Владимирович": 8,
-      "Очкин Михаил Вячеславович": 12,
-      "Пойманов Сергей Петрович": 17,
-      "Спицына Марина Алексеевна": 91,
-      "Щербаков Юрий Алексеевич": 32
+      "gas:candidate-vibid:4364027199946": 130,
+      "gas:candidate-vibid:4364027200208": 185,
+      "gas:candidate-vibid:4364027200400": 19,
+      "gas:candidate-vibid:4364027200342": 188,
+      "gas:candidate-vibid:4364027200453": 8,
+      "gas:candidate-vibid:4364027200540": 12,
+      "gas:candidate-vibid:4364027200477": 17,
+      "gas:candidate-vibid:4364027200014": 91,
+      "gas:candidate-vibid:4364027200120": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147722&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147722&type=464",
@@ -6179,15 +6179,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 129,
-      "Климов Виталий Николаевич": 178,
-      "Лютикова Марина Владимировна": 23,
-      "Марков Андрей Павлович": 183,
-      "Муштенко Сергей Владимирович": 3,
-      "Очкин Михаил Вячеславович": 2,
-      "Пойманов Сергей Петрович": 13,
-      "Спицына Марина Алексеевна": 104,
-      "Щербаков Юрий Алексеевич": 40
+      "gas:candidate-vibid:4364027199946": 129,
+      "gas:candidate-vibid:4364027200208": 178,
+      "gas:candidate-vibid:4364027200400": 23,
+      "gas:candidate-vibid:4364027200342": 183,
+      "gas:candidate-vibid:4364027200453": 3,
+      "gas:candidate-vibid:4364027200540": 2,
+      "gas:candidate-vibid:4364027200477": 13,
+      "gas:candidate-vibid:4364027200014": 104,
+      "gas:candidate-vibid:4364027200120": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147722&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147722&type=464",
@@ -6238,15 +6238,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 141,
-      "Климов Виталий Николаевич": 180,
-      "Лютикова Марина Владимировна": 32,
-      "Марков Андрей Павлович": 197,
-      "Муштенко Сергей Владимирович": 8,
-      "Очкин Михаил Вячеславович": 8,
-      "Пойманов Сергей Петрович": 23,
-      "Спицына Марина Алексеевна": 123,
-      "Щербаков Юрий Алексеевич": 37
+      "gas:candidate-vibid:4364027199946": 141,
+      "gas:candidate-vibid:4364027200208": 180,
+      "gas:candidate-vibid:4364027200400": 32,
+      "gas:candidate-vibid:4364027200342": 197,
+      "gas:candidate-vibid:4364027200453": 8,
+      "gas:candidate-vibid:4364027200540": 8,
+      "gas:candidate-vibid:4364027200477": 23,
+      "gas:candidate-vibid:4364027200014": 123,
+      "gas:candidate-vibid:4364027200120": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147722&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147722&type=464",
@@ -6297,15 +6297,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 152,
-      "Климов Виталий Николаевич": 175,
-      "Лютикова Марина Владимировна": 13,
-      "Марков Андрей Павлович": 184,
-      "Муштенко Сергей Владимирович": 5,
-      "Очкин Михаил Вячеславович": 13,
-      "Пойманов Сергей Петрович": 20,
-      "Спицына Марина Алексеевна": 88,
-      "Щербаков Юрий Алексеевич": 45
+      "gas:candidate-vibid:4364027199946": 152,
+      "gas:candidate-vibid:4364027200208": 175,
+      "gas:candidate-vibid:4364027200400": 13,
+      "gas:candidate-vibid:4364027200342": 184,
+      "gas:candidate-vibid:4364027200453": 5,
+      "gas:candidate-vibid:4364027200540": 13,
+      "gas:candidate-vibid:4364027200477": 20,
+      "gas:candidate-vibid:4364027200014": 88,
+      "gas:candidate-vibid:4364027200120": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147722&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147722&type=464",
@@ -6356,15 +6356,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 124,
-      "Климов Виталий Николаевич": 147,
-      "Лютикова Марина Владимировна": 25,
-      "Марков Андрей Павлович": 221,
-      "Муштенко Сергей Владимирович": 12,
-      "Очкин Михаил Вячеславович": 9,
-      "Пойманов Сергей Петрович": 21,
-      "Спицына Марина Алексеевна": 95,
-      "Щербаков Юрий Алексеевич": 46
+      "gas:candidate-vibid:4364027199946": 124,
+      "gas:candidate-vibid:4364027200208": 147,
+      "gas:candidate-vibid:4364027200400": 25,
+      "gas:candidate-vibid:4364027200342": 221,
+      "gas:candidate-vibid:4364027200453": 12,
+      "gas:candidate-vibid:4364027200540": 9,
+      "gas:candidate-vibid:4364027200477": 21,
+      "gas:candidate-vibid:4364027200014": 95,
+      "gas:candidate-vibid:4364027200120": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147722&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147722&type=464",
@@ -6415,15 +6415,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 80,
-      "Климов Виталий Николаевич": 130,
-      "Лютикова Марина Владимировна": 20,
-      "Марков Андрей Павлович": 106,
-      "Муштенко Сергей Владимирович": 7,
-      "Очкин Михаил Вячеславович": 6,
-      "Пойманов Сергей Петрович": 13,
-      "Спицына Марина Алексеевна": 51,
-      "Щербаков Юрий Алексеевич": 21
+      "gas:candidate-vibid:4364027199946": 80,
+      "gas:candidate-vibid:4364027200208": 130,
+      "gas:candidate-vibid:4364027200400": 20,
+      "gas:candidate-vibid:4364027200342": 106,
+      "gas:candidate-vibid:4364027200453": 7,
+      "gas:candidate-vibid:4364027200540": 6,
+      "gas:candidate-vibid:4364027200477": 13,
+      "gas:candidate-vibid:4364027200014": 51,
+      "gas:candidate-vibid:4364027200120": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147722&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147722&type=464",
@@ -6474,15 +6474,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 117,
-      "Климов Виталий Николаевич": 163,
-      "Лютикова Марина Владимировна": 17,
-      "Марков Андрей Павлович": 162,
-      "Муштенко Сергей Владимирович": 13,
-      "Очкин Михаил Вячеславович": 10,
-      "Пойманов Сергей Петрович": 18,
-      "Спицына Марина Алексеевна": 77,
-      "Щербаков Юрий Алексеевич": 25
+      "gas:candidate-vibid:4364027199946": 117,
+      "gas:candidate-vibid:4364027200208": 163,
+      "gas:candidate-vibid:4364027200400": 17,
+      "gas:candidate-vibid:4364027200342": 162,
+      "gas:candidate-vibid:4364027200453": 13,
+      "gas:candidate-vibid:4364027200540": 10,
+      "gas:candidate-vibid:4364027200477": 18,
+      "gas:candidate-vibid:4364027200014": 77,
+      "gas:candidate-vibid:4364027200120": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147722&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147722&type=464",
@@ -6533,15 +6533,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 121,
-      "Климов Виталий Николаевич": 222,
-      "Лютикова Марина Владимировна": 19,
-      "Марков Андрей Павлович": 139,
-      "Муштенко Сергей Владимирович": 3,
-      "Очкин Михаил Вячеславович": 4,
-      "Пойманов Сергей Петрович": 14,
-      "Спицына Марина Алексеевна": 95,
-      "Щербаков Юрий Алексеевич": 26
+      "gas:candidate-vibid:4364027199946": 121,
+      "gas:candidate-vibid:4364027200208": 222,
+      "gas:candidate-vibid:4364027200400": 19,
+      "gas:candidate-vibid:4364027200342": 139,
+      "gas:candidate-vibid:4364027200453": 3,
+      "gas:candidate-vibid:4364027200540": 4,
+      "gas:candidate-vibid:4364027200477": 14,
+      "gas:candidate-vibid:4364027200014": 95,
+      "gas:candidate-vibid:4364027200120": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147722&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147722&type=464",
@@ -6592,15 +6592,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 105,
-      "Климов Виталий Николаевич": 219,
-      "Лютикова Марина Владимировна": 15,
-      "Марков Андрей Павлович": 156,
-      "Муштенко Сергей Владимирович": 7,
-      "Очкин Михаил Вячеславович": 5,
-      "Пойманов Сергей Петрович": 20,
-      "Спицына Марина Алексеевна": 101,
-      "Щербаков Юрий Алексеевич": 29
+      "gas:candidate-vibid:4364027199946": 105,
+      "gas:candidate-vibid:4364027200208": 219,
+      "gas:candidate-vibid:4364027200400": 15,
+      "gas:candidate-vibid:4364027200342": 156,
+      "gas:candidate-vibid:4364027200453": 7,
+      "gas:candidate-vibid:4364027200540": 5,
+      "gas:candidate-vibid:4364027200477": 20,
+      "gas:candidate-vibid:4364027200014": 101,
+      "gas:candidate-vibid:4364027200120": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147722&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147722&type=464",
@@ -6651,15 +6651,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 131,
-      "Климов Виталий Николаевич": 141,
-      "Лютикова Марина Владимировна": 11,
-      "Марков Андрей Павлович": 188,
-      "Муштенко Сергей Владимирович": 4,
-      "Очкин Михаил Вячеславович": 5,
-      "Пойманов Сергей Петрович": 14,
-      "Спицына Марина Алексеевна": 88,
-      "Щербаков Юрий Алексеевич": 34
+      "gas:candidate-vibid:4364027199946": 131,
+      "gas:candidate-vibid:4364027200208": 141,
+      "gas:candidate-vibid:4364027200400": 11,
+      "gas:candidate-vibid:4364027200342": 188,
+      "gas:candidate-vibid:4364027200453": 4,
+      "gas:candidate-vibid:4364027200540": 5,
+      "gas:candidate-vibid:4364027200477": 14,
+      "gas:candidate-vibid:4364027200014": 88,
+      "gas:candidate-vibid:4364027200120": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147722&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147722&type=464",
@@ -6710,15 +6710,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 123,
-      "Климов Виталий Николаевич": 133,
-      "Лютикова Марина Владимировна": 15,
-      "Марков Андрей Павлович": 171,
-      "Муштенко Сергей Владимирович": 7,
-      "Очкин Михаил Вячеславович": 6,
-      "Пойманов Сергей Петрович": 18,
-      "Спицына Марина Алексеевна": 95,
-      "Щербаков Юрий Алексеевич": 28
+      "gas:candidate-vibid:4364027199946": 123,
+      "gas:candidate-vibid:4364027200208": 133,
+      "gas:candidate-vibid:4364027200400": 15,
+      "gas:candidate-vibid:4364027200342": 171,
+      "gas:candidate-vibid:4364027200453": 7,
+      "gas:candidate-vibid:4364027200540": 6,
+      "gas:candidate-vibid:4364027200477": 18,
+      "gas:candidate-vibid:4364027200014": 95,
+      "gas:candidate-vibid:4364027200120": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147722&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147722&type=464",
@@ -6769,15 +6769,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 113,
-      "Климов Виталий Николаевич": 126,
-      "Лютикова Марина Владимировна": 11,
-      "Марков Андрей Павлович": 170,
-      "Муштенко Сергей Владимирович": 5,
-      "Очкин Михаил Вячеславович": 8,
-      "Пойманов Сергей Петрович": 21,
-      "Спицына Марина Алексеевна": 107,
-      "Щербаков Юрий Алексеевич": 44
+      "gas:candidate-vibid:4364027199946": 113,
+      "gas:candidate-vibid:4364027200208": 126,
+      "gas:candidate-vibid:4364027200400": 11,
+      "gas:candidate-vibid:4364027200342": 170,
+      "gas:candidate-vibid:4364027200453": 5,
+      "gas:candidate-vibid:4364027200540": 8,
+      "gas:candidate-vibid:4364027200477": 21,
+      "gas:candidate-vibid:4364027200014": 107,
+      "gas:candidate-vibid:4364027200120": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147722&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147722&type=464",
@@ -6828,15 +6828,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 114,
-      "Климов Виталий Николаевич": 120,
-      "Лютикова Марина Владимировна": 19,
-      "Марков Андрей Павлович": 181,
-      "Муштенко Сергей Владимирович": 8,
-      "Очкин Михаил Вячеславович": 4,
-      "Пойманов Сергей Петрович": 32,
-      "Спицына Марина Алексеевна": 88,
-      "Щербаков Юрий Алексеевич": 33
+      "gas:candidate-vibid:4364027199946": 114,
+      "gas:candidate-vibid:4364027200208": 120,
+      "gas:candidate-vibid:4364027200400": 19,
+      "gas:candidate-vibid:4364027200342": 181,
+      "gas:candidate-vibid:4364027200453": 8,
+      "gas:candidate-vibid:4364027200540": 4,
+      "gas:candidate-vibid:4364027200477": 32,
+      "gas:candidate-vibid:4364027200014": 88,
+      "gas:candidate-vibid:4364027200120": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147722&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147722&type=464",
@@ -6887,15 +6887,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 190,
-      "Климов Виталий Николаевич": 109,
-      "Лютикова Марина Владимировна": 9,
-      "Марков Андрей Павлович": 175,
-      "Муштенко Сергей Владимирович": 6,
-      "Очкин Михаил Вячеславович": 7,
-      "Пойманов Сергей Петрович": 13,
-      "Спицына Марина Алексеевна": 93,
-      "Щербаков Юрий Алексеевич": 30
+      "gas:candidate-vibid:4364027199946": 190,
+      "gas:candidate-vibid:4364027200208": 109,
+      "gas:candidate-vibid:4364027200400": 9,
+      "gas:candidate-vibid:4364027200342": 175,
+      "gas:candidate-vibid:4364027200453": 6,
+      "gas:candidate-vibid:4364027200540": 7,
+      "gas:candidate-vibid:4364027200477": 13,
+      "gas:candidate-vibid:4364027200014": 93,
+      "gas:candidate-vibid:4364027200120": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147722&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147722&type=464",
@@ -6946,15 +6946,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 174,
-      "Климов Виталий Николаевич": 123,
-      "Лютикова Марина Владимировна": 13,
-      "Марков Андрей Павлович": 171,
-      "Муштенко Сергей Владимирович": 5,
-      "Очкин Михаил Вячеславович": 11,
-      "Пойманов Сергей Петрович": 13,
-      "Спицына Марина Алексеевна": 122,
-      "Щербаков Юрий Алексеевич": 36
+      "gas:candidate-vibid:4364027199946": 174,
+      "gas:candidate-vibid:4364027200208": 123,
+      "gas:candidate-vibid:4364027200400": 13,
+      "gas:candidate-vibid:4364027200342": 171,
+      "gas:candidate-vibid:4364027200453": 5,
+      "gas:candidate-vibid:4364027200540": 11,
+      "gas:candidate-vibid:4364027200477": 13,
+      "gas:candidate-vibid:4364027200014": 122,
+      "gas:candidate-vibid:4364027200120": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147722&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147722&type=464",
@@ -7005,15 +7005,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 128,
-      "Климов Виталий Николаевич": 139,
-      "Лютикова Марина Владимировна": 16,
-      "Марков Андрей Павлович": 159,
-      "Муштенко Сергей Владимирович": 7,
-      "Очкин Михаил Вячеславович": 3,
-      "Пойманов Сергей Петрович": 22,
-      "Спицына Марина Алексеевна": 88,
-      "Щербаков Юрий Алексеевич": 32
+      "gas:candidate-vibid:4364027199946": 128,
+      "gas:candidate-vibid:4364027200208": 139,
+      "gas:candidate-vibid:4364027200400": 16,
+      "gas:candidate-vibid:4364027200342": 159,
+      "gas:candidate-vibid:4364027200453": 7,
+      "gas:candidate-vibid:4364027200540": 3,
+      "gas:candidate-vibid:4364027200477": 22,
+      "gas:candidate-vibid:4364027200014": 88,
+      "gas:candidate-vibid:4364027200120": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147722&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147722&type=464",
@@ -7064,15 +7064,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 122,
-      "Климов Виталий Николаевич": 100,
-      "Лютикова Марина Владимировна": 14,
-      "Марков Андрей Павлович": 168,
-      "Муштенко Сергей Владимирович": 7,
-      "Очкин Михаил Вячеславович": 6,
-      "Пойманов Сергей Петрович": 23,
-      "Спицына Марина Алексеевна": 83,
-      "Щербаков Юрий Алексеевич": 25
+      "gas:candidate-vibid:4364027199946": 122,
+      "gas:candidate-vibid:4364027200208": 100,
+      "gas:candidate-vibid:4364027200400": 14,
+      "gas:candidate-vibid:4364027200342": 168,
+      "gas:candidate-vibid:4364027200453": 7,
+      "gas:candidate-vibid:4364027200540": 6,
+      "gas:candidate-vibid:4364027200477": 23,
+      "gas:candidate-vibid:4364027200014": 83,
+      "gas:candidate-vibid:4364027200120": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147722&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147722&type=464",
@@ -7123,15 +7123,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 28,
-      "Климов Виталий Николаевич": 30,
-      "Лютикова Марина Владимировна": 3,
-      "Марков Андрей Павлович": 100,
-      "Муштенко Сергей Владимирович": 4,
-      "Очкин Михаил Вячеславович": 0,
-      "Пойманов Сергей Петрович": 4,
-      "Спицына Марина Алексеевна": 11,
-      "Щербаков Юрий Алексеевич": 8
+      "gas:candidate-vibid:4364027199946": 28,
+      "gas:candidate-vibid:4364027200208": 30,
+      "gas:candidate-vibid:4364027200400": 3,
+      "gas:candidate-vibid:4364027200342": 100,
+      "gas:candidate-vibid:4364027200453": 4,
+      "gas:candidate-vibid:4364027200540": 0,
+      "gas:candidate-vibid:4364027200477": 4,
+      "gas:candidate-vibid:4364027200014": 11,
+      "gas:candidate-vibid:4364027200120": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147722&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147722&type=464",
@@ -7182,15 +7182,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 51,
-      "Климов Виталий Николаевич": 49,
-      "Лютикова Марина Владимировна": 8,
-      "Марков Андрей Павлович": 111,
-      "Муштенко Сергей Владимирович": 1,
-      "Очкин Михаил Вячеславович": 2,
-      "Пойманов Сергей Петрович": 15,
-      "Спицына Марина Алексеевна": 19,
-      "Щербаков Юрий Алексеевич": 13
+      "gas:candidate-vibid:4364027199946": 51,
+      "gas:candidate-vibid:4364027200208": 49,
+      "gas:candidate-vibid:4364027200400": 8,
+      "gas:candidate-vibid:4364027200342": 111,
+      "gas:candidate-vibid:4364027200453": 1,
+      "gas:candidate-vibid:4364027200540": 2,
+      "gas:candidate-vibid:4364027200477": 15,
+      "gas:candidate-vibid:4364027200014": 19,
+      "gas:candidate-vibid:4364027200120": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147722&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147722&type=464",
@@ -7241,15 +7241,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 45,
-      "Климов Виталий Николаевич": 18,
-      "Лютикова Марина Владимировна": 4,
-      "Марков Андрей Павлович": 91,
-      "Муштенко Сергей Владимирович": 4,
-      "Очкин Михаил Вячеславович": 1,
-      "Пойманов Сергей Петрович": 17,
-      "Спицына Марина Алексеевна": 17,
-      "Щербаков Юрий Алексеевич": 15
+      "gas:candidate-vibid:4364027199946": 45,
+      "gas:candidate-vibid:4364027200208": 18,
+      "gas:candidate-vibid:4364027200400": 4,
+      "gas:candidate-vibid:4364027200342": 91,
+      "gas:candidate-vibid:4364027200453": 4,
+      "gas:candidate-vibid:4364027200540": 1,
+      "gas:candidate-vibid:4364027200477": 17,
+      "gas:candidate-vibid:4364027200014": 17,
+      "gas:candidate-vibid:4364027200120": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147722&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147722&type=464",
@@ -7300,15 +7300,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 81,
-      "Климов Виталий Николаевич": 71,
-      "Лютикова Марина Владимировна": 13,
-      "Марков Андрей Павлович": 283,
-      "Муштенко Сергей Владимирович": 11,
-      "Очкин Михаил Вячеславович": 2,
-      "Пойманов Сергей Петрович": 15,
-      "Спицына Марина Алексеевна": 60,
-      "Щербаков Юрий Алексеевич": 29
+      "gas:candidate-vibid:4364027199946": 81,
+      "gas:candidate-vibid:4364027200208": 71,
+      "gas:candidate-vibid:4364027200400": 13,
+      "gas:candidate-vibid:4364027200342": 283,
+      "gas:candidate-vibid:4364027200453": 11,
+      "gas:candidate-vibid:4364027200540": 2,
+      "gas:candidate-vibid:4364027200477": 15,
+      "gas:candidate-vibid:4364027200014": 60,
+      "gas:candidate-vibid:4364027200120": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147722&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147722&type=464",
@@ -7359,15 +7359,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 77,
-      "Климов Виталий Николаевич": 87,
-      "Лютикова Марина Владимировна": 33,
-      "Марков Андрей Павлович": 474,
-      "Муштенко Сергей Владимирович": 9,
-      "Очкин Михаил Вячеславович": 8,
-      "Пойманов Сергей Петрович": 27,
-      "Спицына Марина Алексеевна": 75,
-      "Щербаков Юрий Алексеевич": 31
+      "gas:candidate-vibid:4364027199946": 77,
+      "gas:candidate-vibid:4364027200208": 87,
+      "gas:candidate-vibid:4364027200400": 33,
+      "gas:candidate-vibid:4364027200342": 474,
+      "gas:candidate-vibid:4364027200453": 9,
+      "gas:candidate-vibid:4364027200540": 8,
+      "gas:candidate-vibid:4364027200477": 27,
+      "gas:candidate-vibid:4364027200014": 75,
+      "gas:candidate-vibid:4364027200120": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147722&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147722&type=464",
@@ -7418,15 +7418,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 38,
-      "Климов Виталий Николаевич": 35,
-      "Лютикова Марина Владимировна": 11,
-      "Марков Андрей Павлович": 176,
-      "Муштенко Сергей Владимирович": 4,
-      "Очкин Михаил Вячеславович": 4,
-      "Пойманов Сергей Петрович": 13,
-      "Спицына Марина Алексеевна": 24,
-      "Щербаков Юрий Алексеевич": 26
+      "gas:candidate-vibid:4364027199946": 38,
+      "gas:candidate-vibid:4364027200208": 35,
+      "gas:candidate-vibid:4364027200400": 11,
+      "gas:candidate-vibid:4364027200342": 176,
+      "gas:candidate-vibid:4364027200453": 4,
+      "gas:candidate-vibid:4364027200540": 4,
+      "gas:candidate-vibid:4364027200477": 13,
+      "gas:candidate-vibid:4364027200014": 24,
+      "gas:candidate-vibid:4364027200120": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147722&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147722&type=464",
@@ -7477,15 +7477,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 136,
-      "Климов Виталий Николаевич": 79,
-      "Лютикова Марина Владимировна": 11,
-      "Марков Андрей Павлович": 376,
-      "Муштенко Сергей Владимирович": 3,
-      "Очкин Михаил Вячеславович": 4,
-      "Пойманов Сергей Петрович": 19,
-      "Спицына Марина Алексеевна": 60,
-      "Щербаков Юрий Алексеевич": 30
+      "gas:candidate-vibid:4364027199946": 136,
+      "gas:candidate-vibid:4364027200208": 79,
+      "gas:candidate-vibid:4364027200400": 11,
+      "gas:candidate-vibid:4364027200342": 376,
+      "gas:candidate-vibid:4364027200453": 3,
+      "gas:candidate-vibid:4364027200540": 4,
+      "gas:candidate-vibid:4364027200477": 19,
+      "gas:candidate-vibid:4364027200014": 60,
+      "gas:candidate-vibid:4364027200120": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147722&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147722&type=464",
@@ -7536,15 +7536,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 39,
-      "Климов Виталий Николаевич": 75,
-      "Лютикова Марина Владимировна": 14,
-      "Марков Андрей Павлович": 107,
-      "Муштенко Сергей Владимирович": 1,
-      "Очкин Михаил Вячеславович": 2,
-      "Пойманов Сергей Петрович": 12,
-      "Спицына Марина Алексеевна": 45,
-      "Щербаков Юрий Алексеевич": 23
+      "gas:candidate-vibid:4364027199946": 39,
+      "gas:candidate-vibid:4364027200208": 75,
+      "gas:candidate-vibid:4364027200400": 14,
+      "gas:candidate-vibid:4364027200342": 107,
+      "gas:candidate-vibid:4364027200453": 1,
+      "gas:candidate-vibid:4364027200540": 2,
+      "gas:candidate-vibid:4364027200477": 12,
+      "gas:candidate-vibid:4364027200014": 45,
+      "gas:candidate-vibid:4364027200120": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147722&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147722&type=464",
@@ -7595,15 +7595,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 33,
-      "Климов Виталий Николаевич": 64,
-      "Лютикова Марина Владимировна": 6,
-      "Марков Андрей Павлович": 70,
-      "Муштенко Сергей Владимирович": 3,
-      "Очкин Михаил Вячеславович": 0,
-      "Пойманов Сергей Петрович": 24,
-      "Спицына Марина Алексеевна": 13,
-      "Щербаков Юрий Алексеевич": 9
+      "gas:candidate-vibid:4364027199946": 33,
+      "gas:candidate-vibid:4364027200208": 64,
+      "gas:candidate-vibid:4364027200400": 6,
+      "gas:candidate-vibid:4364027200342": 70,
+      "gas:candidate-vibid:4364027200453": 3,
+      "gas:candidate-vibid:4364027200540": 0,
+      "gas:candidate-vibid:4364027200477": 24,
+      "gas:candidate-vibid:4364027200014": 13,
+      "gas:candidate-vibid:4364027200120": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147722&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147722&type=464",
@@ -7654,15 +7654,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 29,
-      "Климов Виталий Николаевич": 34,
-      "Лютикова Марина Владимировна": 6,
-      "Марков Андрей Павлович": 233,
-      "Муштенко Сергей Владимирович": 0,
-      "Очкин Михаил Вячеславович": 0,
-      "Пойманов Сергей Петрович": 20,
-      "Спицына Марина Алексеевна": 24,
-      "Щербаков Юрий Алексеевич": 13
+      "gas:candidate-vibid:4364027199946": 29,
+      "gas:candidate-vibid:4364027200208": 34,
+      "gas:candidate-vibid:4364027200400": 6,
+      "gas:candidate-vibid:4364027200342": 233,
+      "gas:candidate-vibid:4364027200453": 0,
+      "gas:candidate-vibid:4364027200540": 0,
+      "gas:candidate-vibid:4364027200477": 20,
+      "gas:candidate-vibid:4364027200014": 24,
+      "gas:candidate-vibid:4364027200120": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147722&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147722&type=464",
@@ -7713,15 +7713,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 15,
-      "Климов Виталий Николаевич": 25,
-      "Лютикова Марина Владимировна": 2,
-      "Марков Андрей Павлович": 104,
-      "Муштенко Сергей Владимирович": 2,
-      "Очкин Михаил Вячеславович": 13,
-      "Пойманов Сергей Петрович": 2,
-      "Спицына Марина Алексеевна": 17,
-      "Щербаков Юрий Алексеевич": 5
+      "gas:candidate-vibid:4364027199946": 15,
+      "gas:candidate-vibid:4364027200208": 25,
+      "gas:candidate-vibid:4364027200400": 2,
+      "gas:candidate-vibid:4364027200342": 104,
+      "gas:candidate-vibid:4364027200453": 2,
+      "gas:candidate-vibid:4364027200540": 13,
+      "gas:candidate-vibid:4364027200477": 2,
+      "gas:candidate-vibid:4364027200014": 17,
+      "gas:candidate-vibid:4364027200120": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147722&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147722&type=464",
@@ -7772,15 +7772,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 66,
-      "Климов Виталий Николаевич": 46,
-      "Лютикова Марина Владимировна": 9,
-      "Марков Андрей Павлович": 195,
-      "Муштенко Сергей Владимирович": 7,
-      "Очкин Михаил Вячеславович": 4,
-      "Пойманов Сергей Петрович": 15,
-      "Спицына Марина Алексеевна": 39,
-      "Щербаков Юрий Алексеевич": 15
+      "gas:candidate-vibid:4364027199946": 66,
+      "gas:candidate-vibid:4364027200208": 46,
+      "gas:candidate-vibid:4364027200400": 9,
+      "gas:candidate-vibid:4364027200342": 195,
+      "gas:candidate-vibid:4364027200453": 7,
+      "gas:candidate-vibid:4364027200540": 4,
+      "gas:candidate-vibid:4364027200477": 15,
+      "gas:candidate-vibid:4364027200014": 39,
+      "gas:candidate-vibid:4364027200120": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147722&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147722&type=464",
@@ -7831,15 +7831,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 46,
-      "Климов Виталий Николаевич": 53,
-      "Лютикова Марина Владимировна": 11,
-      "Марков Андрей Павлович": 100,
-      "Муштенко Сергей Владимирович": 2,
-      "Очкин Михаил Вячеславович": 7,
-      "Пойманов Сергей Петрович": 17,
-      "Спицына Марина Алексеевна": 31,
-      "Щербаков Юрий Алексеевич": 20
+      "gas:candidate-vibid:4364027199946": 46,
+      "gas:candidate-vibid:4364027200208": 53,
+      "gas:candidate-vibid:4364027200400": 11,
+      "gas:candidate-vibid:4364027200342": 100,
+      "gas:candidate-vibid:4364027200453": 2,
+      "gas:candidate-vibid:4364027200540": 7,
+      "gas:candidate-vibid:4364027200477": 17,
+      "gas:candidate-vibid:4364027200014": 31,
+      "gas:candidate-vibid:4364027200120": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147722&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147722&type=464",
@@ -7890,15 +7890,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 47,
-      "Климов Виталий Николаевич": 33,
-      "Лютикова Марина Владимировна": 6,
-      "Марков Андрей Павлович": 122,
-      "Муштенко Сергей Владимирович": 0,
-      "Очкин Михаил Вячеславович": 4,
-      "Пойманов Сергей Петрович": 6,
-      "Спицына Марина Алексеевна": 10,
-      "Щербаков Юрий Алексеевич": 10
+      "gas:candidate-vibid:4364027199946": 47,
+      "gas:candidate-vibid:4364027200208": 33,
+      "gas:candidate-vibid:4364027200400": 6,
+      "gas:candidate-vibid:4364027200342": 122,
+      "gas:candidate-vibid:4364027200453": 0,
+      "gas:candidate-vibid:4364027200540": 4,
+      "gas:candidate-vibid:4364027200477": 6,
+      "gas:candidate-vibid:4364027200014": 10,
+      "gas:candidate-vibid:4364027200120": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147722&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147722&type=464",
@@ -7949,15 +7949,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 82,
-      "Климов Виталий Николаевич": 94,
-      "Лютикова Марина Владимировна": 22,
-      "Марков Андрей Павлович": 120,
-      "Муштенко Сергей Владимирович": 7,
-      "Очкин Михаил Вячеславович": 9,
-      "Пойманов Сергей Петрович": 36,
-      "Спицына Марина Алексеевна": 45,
-      "Щербаков Юрий Алексеевич": 27
+      "gas:candidate-vibid:4364027199946": 82,
+      "gas:candidate-vibid:4364027200208": 94,
+      "gas:candidate-vibid:4364027200400": 22,
+      "gas:candidate-vibid:4364027200342": 120,
+      "gas:candidate-vibid:4364027200453": 7,
+      "gas:candidate-vibid:4364027200540": 9,
+      "gas:candidate-vibid:4364027200477": 36,
+      "gas:candidate-vibid:4364027200014": 45,
+      "gas:candidate-vibid:4364027200120": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147722&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147722&type=464",
@@ -8008,15 +8008,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 19,
-      "Климов Виталий Николаевич": 23,
-      "Лютикова Марина Владимировна": 2,
-      "Марков Андрей Павлович": 65,
-      "Муштенко Сергей Владимирович": 3,
-      "Очкин Михаил Вячеславович": 1,
-      "Пойманов Сергей Петрович": 4,
-      "Спицына Марина Алексеевна": 24,
-      "Щербаков Юрий Алексеевич": 6
+      "gas:candidate-vibid:4364027199946": 19,
+      "gas:candidate-vibid:4364027200208": 23,
+      "gas:candidate-vibid:4364027200400": 2,
+      "gas:candidate-vibid:4364027200342": 65,
+      "gas:candidate-vibid:4364027200453": 3,
+      "gas:candidate-vibid:4364027200540": 1,
+      "gas:candidate-vibid:4364027200477": 4,
+      "gas:candidate-vibid:4364027200014": 24,
+      "gas:candidate-vibid:4364027200120": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147722&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147722&type=464",
@@ -8067,15 +8067,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 24,
-      "Климов Виталий Николаевич": 13,
-      "Лютикова Марина Владимировна": 5,
-      "Марков Андрей Павлович": 31,
-      "Муштенко Сергей Владимирович": 5,
-      "Очкин Михаил Вячеславович": 3,
-      "Пойманов Сергей Петрович": 4,
-      "Спицына Марина Алексеевна": 11,
-      "Щербаков Юрий Алексеевич": 6
+      "gas:candidate-vibid:4364027199946": 24,
+      "gas:candidate-vibid:4364027200208": 13,
+      "gas:candidate-vibid:4364027200400": 5,
+      "gas:candidate-vibid:4364027200342": 31,
+      "gas:candidate-vibid:4364027200453": 5,
+      "gas:candidate-vibid:4364027200540": 3,
+      "gas:candidate-vibid:4364027200477": 4,
+      "gas:candidate-vibid:4364027200014": 11,
+      "gas:candidate-vibid:4364027200120": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147722&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147722&type=464",
@@ -8126,15 +8126,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 49,
-      "Климов Виталий Николаевич": 42,
-      "Лютикова Марина Владимировна": 3,
-      "Марков Андрей Павлович": 45,
-      "Муштенко Сергей Владимирович": 3,
-      "Очкин Михаил Вячеславович": 3,
-      "Пойманов Сергей Петрович": 20,
-      "Спицына Марина Алексеевна": 12,
-      "Щербаков Юрий Алексеевич": 10
+      "gas:candidate-vibid:4364027199946": 49,
+      "gas:candidate-vibid:4364027200208": 42,
+      "gas:candidate-vibid:4364027200400": 3,
+      "gas:candidate-vibid:4364027200342": 45,
+      "gas:candidate-vibid:4364027200453": 3,
+      "gas:candidate-vibid:4364027200540": 3,
+      "gas:candidate-vibid:4364027200477": 20,
+      "gas:candidate-vibid:4364027200014": 12,
+      "gas:candidate-vibid:4364027200120": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147722&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147722&type=464",
@@ -8185,15 +8185,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 103,
-      "Климов Виталий Николаевич": 58,
-      "Лютикова Марина Владимировна": 21,
-      "Марков Андрей Павлович": 195,
-      "Муштенко Сергей Владимирович": 5,
-      "Очкин Михаил Вячеславович": 5,
-      "Пойманов Сергей Петрович": 25,
-      "Спицына Марина Алексеевна": 59,
-      "Щербаков Юрий Алексеевич": 16
+      "gas:candidate-vibid:4364027199946": 103,
+      "gas:candidate-vibid:4364027200208": 58,
+      "gas:candidate-vibid:4364027200400": 21,
+      "gas:candidate-vibid:4364027200342": 195,
+      "gas:candidate-vibid:4364027200453": 5,
+      "gas:candidate-vibid:4364027200540": 5,
+      "gas:candidate-vibid:4364027200477": 25,
+      "gas:candidate-vibid:4364027200014": 59,
+      "gas:candidate-vibid:4364027200120": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147722&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147722&type=464",
@@ -8244,15 +8244,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 59,
-      "Климов Виталий Николаевич": 37,
-      "Лютикова Марина Владимировна": 2,
-      "Марков Андрей Павлович": 173,
-      "Муштенко Сергей Владимирович": 3,
-      "Очкин Михаил Вячеславович": 4,
-      "Пойманов Сергей Петрович": 7,
-      "Спицына Марина Алексеевна": 17,
-      "Щербаков Юрий Алексеевич": 8
+      "gas:candidate-vibid:4364027199946": 59,
+      "gas:candidate-vibid:4364027200208": 37,
+      "gas:candidate-vibid:4364027200400": 2,
+      "gas:candidate-vibid:4364027200342": 173,
+      "gas:candidate-vibid:4364027200453": 3,
+      "gas:candidate-vibid:4364027200540": 4,
+      "gas:candidate-vibid:4364027200477": 7,
+      "gas:candidate-vibid:4364027200014": 17,
+      "gas:candidate-vibid:4364027200120": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147722&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147722&type=464",
@@ -8303,15 +8303,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 11,
-      "Климов Виталий Николаевич": 26,
-      "Лютикова Марина Владимировна": 0,
-      "Марков Андрей Павлович": 20,
-      "Муштенко Сергей Владимирович": 0,
-      "Очкин Михаил Вячеславович": 0,
-      "Пойманов Сергей Петрович": 2,
-      "Спицына Марина Алексеевна": 6,
-      "Щербаков Юрий Алексеевич": 1
+      "gas:candidate-vibid:4364027199946": 11,
+      "gas:candidate-vibid:4364027200208": 26,
+      "gas:candidate-vibid:4364027200400": 0,
+      "gas:candidate-vibid:4364027200342": 20,
+      "gas:candidate-vibid:4364027200453": 0,
+      "gas:candidate-vibid:4364027200540": 0,
+      "gas:candidate-vibid:4364027200477": 2,
+      "gas:candidate-vibid:4364027200014": 6,
+      "gas:candidate-vibid:4364027200120": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147722&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147722&type=464",
@@ -8362,15 +8362,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 173,
-      "Климов Виталий Николаевич": 118,
-      "Лютикова Марина Владимировна": 35,
-      "Марков Андрей Павлович": 325,
-      "Муштенко Сергей Владимирович": 7,
-      "Очкин Михаил Вячеславович": 10,
-      "Пойманов Сергей Петрович": 112,
-      "Спицына Марина Алексеевна": 101,
-      "Щербаков Юрий Алексеевич": 55
+      "gas:candidate-vibid:4364027199946": 173,
+      "gas:candidate-vibid:4364027200208": 118,
+      "gas:candidate-vibid:4364027200400": 35,
+      "gas:candidate-vibid:4364027200342": 325,
+      "gas:candidate-vibid:4364027200453": 7,
+      "gas:candidate-vibid:4364027200540": 10,
+      "gas:candidate-vibid:4364027200477": 112,
+      "gas:candidate-vibid:4364027200014": 101,
+      "gas:candidate-vibid:4364027200120": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147722&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147722&type=464",
@@ -8421,15 +8421,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 10,
-      "Климов Виталий Николаевич": 16,
-      "Лютикова Марина Владимировна": 3,
-      "Марков Андрей Павлович": 89,
-      "Муштенко Сергей Владимирович": 0,
-      "Очкин Михаил Вячеславович": 0,
-      "Пойманов Сергей Петрович": 7,
-      "Спицына Марина Алексеевна": 4,
-      "Щербаков Юрий Алексеевич": 5
+      "gas:candidate-vibid:4364027199946": 10,
+      "gas:candidate-vibid:4364027200208": 16,
+      "gas:candidate-vibid:4364027200400": 3,
+      "gas:candidate-vibid:4364027200342": 89,
+      "gas:candidate-vibid:4364027200453": 0,
+      "gas:candidate-vibid:4364027200540": 0,
+      "gas:candidate-vibid:4364027200477": 7,
+      "gas:candidate-vibid:4364027200014": 4,
+      "gas:candidate-vibid:4364027200120": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147722&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147722&type=464",
@@ -8480,15 +8480,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 24,
-      "Климов Виталий Николаевич": 34,
-      "Лютикова Марина Владимировна": 0,
-      "Марков Андрей Павлович": 29,
-      "Муштенко Сергей Владимирович": 0,
-      "Очкин Михаил Вячеславович": 1,
-      "Пойманов Сергей Петрович": 20,
-      "Спицына Марина Алексеевна": 7,
-      "Щербаков Юрий Алексеевич": 2
+      "gas:candidate-vibid:4364027199946": 24,
+      "gas:candidate-vibid:4364027200208": 34,
+      "gas:candidate-vibid:4364027200400": 0,
+      "gas:candidate-vibid:4364027200342": 29,
+      "gas:candidate-vibid:4364027200453": 0,
+      "gas:candidate-vibid:4364027200540": 1,
+      "gas:candidate-vibid:4364027200477": 20,
+      "gas:candidate-vibid:4364027200014": 7,
+      "gas:candidate-vibid:4364027200120": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147722&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147722&type=464",
@@ -8539,15 +8539,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 26,
-      "Климов Виталий Николаевич": 25,
-      "Лютикова Марина Владимировна": 1,
-      "Марков Андрей Павлович": 17,
-      "Муштенко Сергей Владимирович": 2,
-      "Очкин Михаил Вячеславович": 3,
-      "Пойманов Сергей Петрович": 10,
-      "Спицына Марина Алексеевна": 9,
-      "Щербаков Юрий Алексеевич": 0
+      "gas:candidate-vibid:4364027199946": 26,
+      "gas:candidate-vibid:4364027200208": 25,
+      "gas:candidate-vibid:4364027200400": 1,
+      "gas:candidate-vibid:4364027200342": 17,
+      "gas:candidate-vibid:4364027200453": 2,
+      "gas:candidate-vibid:4364027200540": 3,
+      "gas:candidate-vibid:4364027200477": 10,
+      "gas:candidate-vibid:4364027200014": 9,
+      "gas:candidate-vibid:4364027200120": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147722&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147722&type=464",
@@ -8598,15 +8598,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 15,
-      "Климов Виталий Николаевич": 15,
-      "Лютикова Марина Владимировна": 1,
-      "Марков Андрей Павлович": 24,
-      "Муштенко Сергей Владимирович": 0,
-      "Очкин Михаил Вячеславович": 0,
-      "Пойманов Сергей Петрович": 3,
-      "Спицына Марина Алексеевна": 6,
-      "Щербаков Юрий Алексеевич": 1
+      "gas:candidate-vibid:4364027199946": 15,
+      "gas:candidate-vibid:4364027200208": 15,
+      "gas:candidate-vibid:4364027200400": 1,
+      "gas:candidate-vibid:4364027200342": 24,
+      "gas:candidate-vibid:4364027200453": 0,
+      "gas:candidate-vibid:4364027200540": 0,
+      "gas:candidate-vibid:4364027200477": 3,
+      "gas:candidate-vibid:4364027200014": 6,
+      "gas:candidate-vibid:4364027200120": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147722&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147722&type=464",
@@ -8657,15 +8657,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 124,
-      "Климов Виталий Николаевич": 136,
-      "Лютикова Марина Владимировна": 17,
-      "Марков Андрей Павлович": 222,
-      "Муштенко Сергей Владимирович": 9,
-      "Очкин Михаил Вячеславович": 6,
-      "Пойманов Сергей Петрович": 21,
-      "Спицына Марина Алексеевна": 67,
-      "Щербаков Юрий Алексеевич": 29
+      "gas:candidate-vibid:4364027199946": 124,
+      "gas:candidate-vibid:4364027200208": 136,
+      "gas:candidate-vibid:4364027200400": 17,
+      "gas:candidate-vibid:4364027200342": 222,
+      "gas:candidate-vibid:4364027200453": 9,
+      "gas:candidate-vibid:4364027200540": 6,
+      "gas:candidate-vibid:4364027200477": 21,
+      "gas:candidate-vibid:4364027200014": 67,
+      "gas:candidate-vibid:4364027200120": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147722&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147722&type=464",
@@ -8716,15 +8716,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 26,
-      "Климов Виталий Николаевич": 75,
-      "Лютикова Марина Владимировна": 6,
-      "Марков Андрей Павлович": 49,
-      "Муштенко Сергей Владимирович": 1,
-      "Очкин Михаил Вячеславович": 0,
-      "Пойманов Сергей Петрович": 10,
-      "Спицына Марина Алексеевна": 17,
-      "Щербаков Юрий Алексеевич": 9
+      "gas:candidate-vibid:4364027199946": 26,
+      "gas:candidate-vibid:4364027200208": 75,
+      "gas:candidate-vibid:4364027200400": 6,
+      "gas:candidate-vibid:4364027200342": 49,
+      "gas:candidate-vibid:4364027200453": 1,
+      "gas:candidate-vibid:4364027200540": 0,
+      "gas:candidate-vibid:4364027200477": 10,
+      "gas:candidate-vibid:4364027200014": 17,
+      "gas:candidate-vibid:4364027200120": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147722&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147722&type=464",
@@ -8775,15 +8775,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 40,
-      "Климов Виталий Николаевич": 27,
-      "Лютикова Марина Владимировна": 9,
-      "Марков Андрей Павлович": 37,
-      "Муштенко Сергей Владимирович": 1,
-      "Очкин Михаил Вячеславович": 0,
-      "Пойманов Сергей Петрович": 6,
-      "Спицына Марина Алексеевна": 10,
-      "Щербаков Юрий Алексеевич": 9
+      "gas:candidate-vibid:4364027199946": 40,
+      "gas:candidate-vibid:4364027200208": 27,
+      "gas:candidate-vibid:4364027200400": 9,
+      "gas:candidate-vibid:4364027200342": 37,
+      "gas:candidate-vibid:4364027200453": 1,
+      "gas:candidate-vibid:4364027200540": 0,
+      "gas:candidate-vibid:4364027200477": 6,
+      "gas:candidate-vibid:4364027200014": 10,
+      "gas:candidate-vibid:4364027200120": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147722&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147722&type=464",
@@ -8834,15 +8834,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 15,
-      "Климов Виталий Николаевич": 41,
-      "Лютикова Марина Владимировна": 4,
-      "Марков Андрей Павлович": 29,
-      "Муштенко Сергей Владимирович": 4,
-      "Очкин Михаил Вячеславович": 1,
-      "Пойманов Сергей Петрович": 15,
-      "Спицына Марина Алексеевна": 11,
-      "Щербаков Юрий Алексеевич": 11
+      "gas:candidate-vibid:4364027199946": 15,
+      "gas:candidate-vibid:4364027200208": 41,
+      "gas:candidate-vibid:4364027200400": 4,
+      "gas:candidate-vibid:4364027200342": 29,
+      "gas:candidate-vibid:4364027200453": 4,
+      "gas:candidate-vibid:4364027200540": 1,
+      "gas:candidate-vibid:4364027200477": 15,
+      "gas:candidate-vibid:4364027200014": 11,
+      "gas:candidate-vibid:4364027200120": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147722&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147722&type=464",
@@ -8893,15 +8893,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 22,
-      "Климов Виталий Николаевич": 35,
-      "Лютикова Марина Владимировна": 6,
-      "Марков Андрей Павлович": 70,
-      "Муштенко Сергей Владимирович": 3,
-      "Очкин Михаил Вячеславович": 3,
-      "Пойманов Сергей Петрович": 4,
-      "Спицына Марина Алексеевна": 26,
-      "Щербаков Юрий Алексеевич": 10
+      "gas:candidate-vibid:4364027199946": 22,
+      "gas:candidate-vibid:4364027200208": 35,
+      "gas:candidate-vibid:4364027200400": 6,
+      "gas:candidate-vibid:4364027200342": 70,
+      "gas:candidate-vibid:4364027200453": 3,
+      "gas:candidate-vibid:4364027200540": 3,
+      "gas:candidate-vibid:4364027200477": 4,
+      "gas:candidate-vibid:4364027200014": 26,
+      "gas:candidate-vibid:4364027200120": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147722&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147722&type=464",
@@ -8952,15 +8952,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 11,
-      "Климов Виталий Николаевич": 23,
-      "Лютикова Марина Владимировна": 2,
-      "Марков Андрей Павлович": 61,
-      "Муштенко Сергей Владимирович": 2,
-      "Очкин Михаил Вячеславович": 0,
-      "Пойманов Сергей Петрович": 9,
-      "Спицына Марина Алексеевна": 19,
-      "Щербаков Юрий Алексеевич": 9
+      "gas:candidate-vibid:4364027199946": 11,
+      "gas:candidate-vibid:4364027200208": 23,
+      "gas:candidate-vibid:4364027200400": 2,
+      "gas:candidate-vibid:4364027200342": 61,
+      "gas:candidate-vibid:4364027200453": 2,
+      "gas:candidate-vibid:4364027200540": 0,
+      "gas:candidate-vibid:4364027200477": 9,
+      "gas:candidate-vibid:4364027200014": 19,
+      "gas:candidate-vibid:4364027200120": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147722&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147722&type=464",
@@ -9011,15 +9011,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 153,
-      "Климов Виталий Николаевич": 172,
-      "Лютикова Марина Владимировна": 25,
-      "Марков Андрей Павлович": 342,
-      "Муштенко Сергей Владимирович": 13,
-      "Очкин Михаил Вячеславович": 10,
-      "Пойманов Сергей Петрович": 42,
-      "Спицына Марина Алексеевна": 108,
-      "Щербаков Юрий Алексеевич": 63
+      "gas:candidate-vibid:4364027199946": 153,
+      "gas:candidate-vibid:4364027200208": 172,
+      "gas:candidate-vibid:4364027200400": 25,
+      "gas:candidate-vibid:4364027200342": 342,
+      "gas:candidate-vibid:4364027200453": 13,
+      "gas:candidate-vibid:4364027200540": 10,
+      "gas:candidate-vibid:4364027200477": 42,
+      "gas:candidate-vibid:4364027200014": 108,
+      "gas:candidate-vibid:4364027200120": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147722&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147722&type=464",
@@ -9070,15 +9070,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 229,
-      "Климов Виталий Николаевич": 254,
-      "Лютикова Марина Владимировна": 21,
-      "Марков Андрей Павлович": 560,
-      "Муштенко Сергей Владимирович": 7,
-      "Очкин Михаил Вячеславович": 17,
-      "Пойманов Сергей Петрович": 46,
-      "Спицына Марина Алексеевна": 154,
-      "Щербаков Юрий Алексеевич": 43
+      "gas:candidate-vibid:4364027199946": 229,
+      "gas:candidate-vibid:4364027200208": 254,
+      "gas:candidate-vibid:4364027200400": 21,
+      "gas:candidate-vibid:4364027200342": 560,
+      "gas:candidate-vibid:4364027200453": 7,
+      "gas:candidate-vibid:4364027200540": 17,
+      "gas:candidate-vibid:4364027200477": 46,
+      "gas:candidate-vibid:4364027200014": 154,
+      "gas:candidate-vibid:4364027200120": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147722&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147722&type=464",
@@ -9129,15 +9129,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 5,
-      "Климов Виталий Николаевич": 5,
-      "Лютикова Марина Владимировна": 1,
-      "Марков Андрей Павлович": 13,
-      "Муштенко Сергей Владимирович": 0,
-      "Очкин Михаил Вячеславович": 0,
-      "Пойманов Сергей Петрович": 4,
-      "Спицына Марина Алексеевна": 5,
-      "Щербаков Юрий Алексеевич": 2
+      "gas:candidate-vibid:4364027199946": 5,
+      "gas:candidate-vibid:4364027200208": 5,
+      "gas:candidate-vibid:4364027200400": 1,
+      "gas:candidate-vibid:4364027200342": 13,
+      "gas:candidate-vibid:4364027200453": 0,
+      "gas:candidate-vibid:4364027200540": 0,
+      "gas:candidate-vibid:4364027200477": 4,
+      "gas:candidate-vibid:4364027200014": 5,
+      "gas:candidate-vibid:4364027200120": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147722&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147722&type=464",
@@ -9188,15 +9188,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 105,
-      "Климов Виталий Николаевич": 48,
-      "Лютикова Марина Владимировна": 12,
-      "Марков Андрей Павлович": 89,
-      "Муштенко Сергей Владимирович": 4,
-      "Очкин Михаил Вячеславович": 1,
-      "Пойманов Сергей Петрович": 20,
-      "Спицына Марина Алексеевна": 38,
-      "Щербаков Юрий Алексеевич": 18
+      "gas:candidate-vibid:4364027199946": 105,
+      "gas:candidate-vibid:4364027200208": 48,
+      "gas:candidate-vibid:4364027200400": 12,
+      "gas:candidate-vibid:4364027200342": 89,
+      "gas:candidate-vibid:4364027200453": 4,
+      "gas:candidate-vibid:4364027200540": 1,
+      "gas:candidate-vibid:4364027200477": 20,
+      "gas:candidate-vibid:4364027200014": 38,
+      "gas:candidate-vibid:4364027200120": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147722&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147722&type=464",
@@ -9247,15 +9247,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 90,
-      "Климов Виталий Николаевич": 45,
-      "Лютикова Марина Владимировна": 9,
-      "Марков Андрей Павлович": 69,
-      "Муштенко Сергей Владимирович": 2,
-      "Очкин Михаил Вячеславович": 6,
-      "Пойманов Сергей Петрович": 16,
-      "Спицына Марина Алексеевна": 39,
-      "Щербаков Юрий Алексеевич": 19
+      "gas:candidate-vibid:4364027199946": 90,
+      "gas:candidate-vibid:4364027200208": 45,
+      "gas:candidate-vibid:4364027200400": 9,
+      "gas:candidate-vibid:4364027200342": 69,
+      "gas:candidate-vibid:4364027200453": 2,
+      "gas:candidate-vibid:4364027200540": 6,
+      "gas:candidate-vibid:4364027200477": 16,
+      "gas:candidate-vibid:4364027200014": 39,
+      "gas:candidate-vibid:4364027200120": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147722&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147722&type=464",
@@ -9306,15 +9306,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 48,
-      "Климов Виталий Николаевич": 27,
-      "Лютикова Марина Владимировна": 5,
-      "Марков Андрей Павлович": 59,
-      "Муштенко Сергей Владимирович": 2,
-      "Очкин Михаил Вячеславович": 2,
-      "Пойманов Сергей Петрович": 6,
-      "Спицына Марина Алексеевна": 25,
-      "Щербаков Юрий Алексеевич": 9
+      "gas:candidate-vibid:4364027199946": 48,
+      "gas:candidate-vibid:4364027200208": 27,
+      "gas:candidate-vibid:4364027200400": 5,
+      "gas:candidate-vibid:4364027200342": 59,
+      "gas:candidate-vibid:4364027200453": 2,
+      "gas:candidate-vibid:4364027200540": 2,
+      "gas:candidate-vibid:4364027200477": 6,
+      "gas:candidate-vibid:4364027200014": 25,
+      "gas:candidate-vibid:4364027200120": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147722&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147722&type=464",
@@ -9365,15 +9365,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 52,
-      "Климов Виталий Николаевич": 13,
-      "Лютикова Марина Владимировна": 9,
-      "Марков Андрей Павлович": 59,
-      "Муштенко Сергей Владимирович": 5,
-      "Очкин Михаил Вячеславович": 3,
-      "Пойманов Сергей Петрович": 23,
-      "Спицына Марина Алексеевна": 19,
-      "Щербаков Юрий Алексеевич": 9
+      "gas:candidate-vibid:4364027199946": 52,
+      "gas:candidate-vibid:4364027200208": 13,
+      "gas:candidate-vibid:4364027200400": 9,
+      "gas:candidate-vibid:4364027200342": 59,
+      "gas:candidate-vibid:4364027200453": 5,
+      "gas:candidate-vibid:4364027200540": 3,
+      "gas:candidate-vibid:4364027200477": 23,
+      "gas:candidate-vibid:4364027200014": 19,
+      "gas:candidate-vibid:4364027200120": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147722&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147722&type=464",
@@ -9424,15 +9424,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 75,
-      "Климов Виталий Николаевич": 55,
-      "Лютикова Марина Владимировна": 9,
-      "Марков Андрей Павлович": 113,
-      "Муштенко Сергей Владимирович": 5,
-      "Очкин Михаил Вячеславович": 2,
-      "Пойманов Сергей Петрович": 3,
-      "Спицына Марина Алексеевна": 27,
-      "Щербаков Юрий Алексеевич": 17
+      "gas:candidate-vibid:4364027199946": 75,
+      "gas:candidate-vibid:4364027200208": 55,
+      "gas:candidate-vibid:4364027200400": 9,
+      "gas:candidate-vibid:4364027200342": 113,
+      "gas:candidate-vibid:4364027200453": 5,
+      "gas:candidate-vibid:4364027200540": 2,
+      "gas:candidate-vibid:4364027200477": 3,
+      "gas:candidate-vibid:4364027200014": 27,
+      "gas:candidate-vibid:4364027200120": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147722&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147722&type=464",
@@ -9483,15 +9483,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 23,
-      "Климов Виталий Николаевич": 33,
-      "Лютикова Марина Владимировна": 2,
-      "Марков Андрей Павлович": 81,
-      "Муштенко Сергей Владимирович": 1,
-      "Очкин Михаил Вячеславович": 1,
-      "Пойманов Сергей Петрович": 8,
-      "Спицына Марина Алексеевна": 17,
-      "Щербаков Юрий Алексеевич": 9
+      "gas:candidate-vibid:4364027199946": 23,
+      "gas:candidate-vibid:4364027200208": 33,
+      "gas:candidate-vibid:4364027200400": 2,
+      "gas:candidate-vibid:4364027200342": 81,
+      "gas:candidate-vibid:4364027200453": 1,
+      "gas:candidate-vibid:4364027200540": 1,
+      "gas:candidate-vibid:4364027200477": 8,
+      "gas:candidate-vibid:4364027200014": 17,
+      "gas:candidate-vibid:4364027200120": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147722&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147722&type=464",
@@ -9542,15 +9542,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 27,
-      "Климов Виталий Николаевич": 23,
-      "Лютикова Марина Владимировна": 1,
-      "Марков Андрей Павлович": 37,
-      "Муштенко Сергей Владимирович": 3,
-      "Очкин Михаил Вячеславович": 0,
-      "Пойманов Сергей Петрович": 4,
-      "Спицына Марина Алексеевна": 30,
-      "Щербаков Юрий Алексеевич": 5
+      "gas:candidate-vibid:4364027199946": 27,
+      "gas:candidate-vibid:4364027200208": 23,
+      "gas:candidate-vibid:4364027200400": 1,
+      "gas:candidate-vibid:4364027200342": 37,
+      "gas:candidate-vibid:4364027200453": 3,
+      "gas:candidate-vibid:4364027200540": 0,
+      "gas:candidate-vibid:4364027200477": 4,
+      "gas:candidate-vibid:4364027200014": 30,
+      "gas:candidate-vibid:4364027200120": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147722&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147722&type=464",
@@ -9601,15 +9601,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 6,
-      "Климов Виталий Николаевич": 9,
-      "Лютикова Марина Владимировна": 1,
-      "Марков Андрей Павлович": 10,
-      "Муштенко Сергей Владимирович": 1,
-      "Очкин Михаил Вячеславович": 0,
-      "Пойманов Сергей Петрович": 2,
-      "Спицына Марина Алексеевна": 4,
-      "Щербаков Юрий Алексеевич": 2
+      "gas:candidate-vibid:4364027199946": 6,
+      "gas:candidate-vibid:4364027200208": 9,
+      "gas:candidate-vibid:4364027200400": 1,
+      "gas:candidate-vibid:4364027200342": 10,
+      "gas:candidate-vibid:4364027200453": 1,
+      "gas:candidate-vibid:4364027200540": 0,
+      "gas:candidate-vibid:4364027200477": 2,
+      "gas:candidate-vibid:4364027200014": 4,
+      "gas:candidate-vibid:4364027200120": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147722&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147722&type=464",
@@ -9660,15 +9660,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 175,
-      "Климов Виталий Николаевич": 59,
-      "Лютикова Марина Владимировна": 20,
-      "Марков Андрей Павлович": 257,
-      "Муштенко Сергей Владимирович": 2,
-      "Очкин Михаил Вячеславович": 7,
-      "Пойманов Сергей Петрович": 39,
-      "Спицына Марина Алексеевна": 72,
-      "Щербаков Юрий Алексеевич": 35
+      "gas:candidate-vibid:4364027199946": 175,
+      "gas:candidate-vibid:4364027200208": 59,
+      "gas:candidate-vibid:4364027200400": 20,
+      "gas:candidate-vibid:4364027200342": 257,
+      "gas:candidate-vibid:4364027200453": 2,
+      "gas:candidate-vibid:4364027200540": 7,
+      "gas:candidate-vibid:4364027200477": 39,
+      "gas:candidate-vibid:4364027200014": 72,
+      "gas:candidate-vibid:4364027200120": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147723&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147723&type=464",
@@ -9719,15 +9719,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 98,
-      "Климов Виталий Николаевич": 20,
-      "Лютикова Марина Владимировна": 18,
-      "Марков Андрей Павлович": 1102,
-      "Муштенко Сергей Владимирович": 13,
-      "Очкин Михаил Вячеславович": 16,
-      "Пойманов Сергей Петрович": 18,
-      "Спицына Марина Алексеевна": 15,
-      "Щербаков Юрий Алексеевич": 13
+      "gas:candidate-vibid:4364027199946": 98,
+      "gas:candidate-vibid:4364027200208": 20,
+      "gas:candidate-vibid:4364027200400": 18,
+      "gas:candidate-vibid:4364027200342": 1102,
+      "gas:candidate-vibid:4364027200453": 13,
+      "gas:candidate-vibid:4364027200540": 16,
+      "gas:candidate-vibid:4364027200477": 18,
+      "gas:candidate-vibid:4364027200014": 15,
+      "gas:candidate-vibid:4364027200120": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147723&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147723&type=464",
@@ -9778,15 +9778,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 41,
-      "Климов Виталий Николаевич": 121,
-      "Лютикова Марина Владимировна": 1,
-      "Марков Андрей Павлович": 946,
-      "Муштенко Сергей Владимирович": 0,
-      "Очкин Михаил Вячеславович": 0,
-      "Пойманов Сергей Петрович": 3,
-      "Спицына Марина Алексеевна": 2,
-      "Щербаков Юрий Алексеевич": 1
+      "gas:candidate-vibid:4364027199946": 41,
+      "gas:candidate-vibid:4364027200208": 121,
+      "gas:candidate-vibid:4364027200400": 1,
+      "gas:candidate-vibid:4364027200342": 946,
+      "gas:candidate-vibid:4364027200453": 0,
+      "gas:candidate-vibid:4364027200540": 0,
+      "gas:candidate-vibid:4364027200477": 3,
+      "gas:candidate-vibid:4364027200014": 2,
+      "gas:candidate-vibid:4364027200120": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147723&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147723&type=464",
@@ -9837,15 +9837,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 20,
-      "Климов Виталий Николаевич": 36,
-      "Лютикова Марина Владимировна": 1,
-      "Марков Андрей Павлович": 676,
-      "Муштенко Сергей Владимирович": 1,
-      "Очкин Михаил Вячеславович": 0,
-      "Пойманов Сергей Петрович": 15,
-      "Спицына Марина Алексеевна": 7,
-      "Щербаков Юрий Алексеевич": 4
+      "gas:candidate-vibid:4364027199946": 20,
+      "gas:candidate-vibid:4364027200208": 36,
+      "gas:candidate-vibid:4364027200400": 1,
+      "gas:candidate-vibid:4364027200342": 676,
+      "gas:candidate-vibid:4364027200453": 1,
+      "gas:candidate-vibid:4364027200540": 0,
+      "gas:candidate-vibid:4364027200477": 15,
+      "gas:candidate-vibid:4364027200014": 7,
+      "gas:candidate-vibid:4364027200120": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147723&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147723&type=464",
@@ -9896,15 +9896,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 33,
-      "Климов Виталий Николаевич": 21,
-      "Лютикова Марина Владимировна": 3,
-      "Марков Андрей Павлович": 266,
-      "Муштенко Сергей Владимирович": 4,
-      "Очкин Михаил Вячеславович": 1,
-      "Пойманов Сергей Петрович": 6,
-      "Спицына Марина Алексеевна": 5,
-      "Щербаков Юрий Алексеевич": 3
+      "gas:candidate-vibid:4364027199946": 33,
+      "gas:candidate-vibid:4364027200208": 21,
+      "gas:candidate-vibid:4364027200400": 3,
+      "gas:candidate-vibid:4364027200342": 266,
+      "gas:candidate-vibid:4364027200453": 4,
+      "gas:candidate-vibid:4364027200540": 1,
+      "gas:candidate-vibid:4364027200477": 6,
+      "gas:candidate-vibid:4364027200014": 5,
+      "gas:candidate-vibid:4364027200120": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147723&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147723&type=464",
@@ -9955,15 +9955,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 61,
-      "Климов Виталий Николаевич": 70,
-      "Лютикова Марина Владимировна": 15,
-      "Марков Андрей Павлович": 795,
-      "Муштенко Сергей Владимирович": 2,
-      "Очкин Михаил Вячеславович": 4,
-      "Пойманов Сергей Петрович": 2,
-      "Спицына Марина Алексеевна": 6,
-      "Щербаков Юрий Алексеевич": 4
+      "gas:candidate-vibid:4364027199946": 61,
+      "gas:candidate-vibid:4364027200208": 70,
+      "gas:candidate-vibid:4364027200400": 15,
+      "gas:candidate-vibid:4364027200342": 795,
+      "gas:candidate-vibid:4364027200453": 2,
+      "gas:candidate-vibid:4364027200540": 4,
+      "gas:candidate-vibid:4364027200477": 2,
+      "gas:candidate-vibid:4364027200014": 6,
+      "gas:candidate-vibid:4364027200120": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147723&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147723&type=464",
@@ -10014,15 +10014,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 62,
-      "Климов Виталий Николаевич": 20,
-      "Лютикова Марина Владимировна": 2,
-      "Марков Андрей Павлович": 948,
-      "Муштенко Сергей Владимирович": 4,
-      "Очкин Михаил Вячеславович": 2,
-      "Пойманов Сергей Петрович": 22,
-      "Спицына Марина Алексеевна": 13,
-      "Щербаков Юрий Алексеевич": 6
+      "gas:candidate-vibid:4364027199946": 62,
+      "gas:candidate-vibid:4364027200208": 20,
+      "gas:candidate-vibid:4364027200400": 2,
+      "gas:candidate-vibid:4364027200342": 948,
+      "gas:candidate-vibid:4364027200453": 4,
+      "gas:candidate-vibid:4364027200540": 2,
+      "gas:candidate-vibid:4364027200477": 22,
+      "gas:candidate-vibid:4364027200014": 13,
+      "gas:candidate-vibid:4364027200120": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147723&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147723&type=464",
@@ -10073,15 +10073,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 143,
-      "Климов Виталий Николаевич": 24,
-      "Лютикова Марина Владимировна": 8,
-      "Марков Андрей Павлович": 132,
-      "Муштенко Сергей Владимирович": 6,
-      "Очкин Михаил Вячеславович": 5,
-      "Пойманов Сергей Петрович": 15,
-      "Спицына Марина Алексеевна": 53,
-      "Щербаков Юрий Алексеевич": 16
+      "gas:candidate-vibid:4364027199946": 143,
+      "gas:candidate-vibid:4364027200208": 24,
+      "gas:candidate-vibid:4364027200400": 8,
+      "gas:candidate-vibid:4364027200342": 132,
+      "gas:candidate-vibid:4364027200453": 6,
+      "gas:candidate-vibid:4364027200540": 5,
+      "gas:candidate-vibid:4364027200477": 15,
+      "gas:candidate-vibid:4364027200014": 53,
+      "gas:candidate-vibid:4364027200120": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147723&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147723&type=464",
@@ -10132,15 +10132,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 8,
-      "Климов Виталий Николаевич": 28,
-      "Лютикова Марина Владимировна": 4,
-      "Марков Андрей Павлович": 191,
-      "Муштенко Сергей Владимирович": 3,
-      "Очкин Михаил Вячеславович": 0,
-      "Пойманов Сергей Петрович": 6,
-      "Спицына Марина Алексеевна": 8,
-      "Щербаков Юрий Алексеевич": 3
+      "gas:candidate-vibid:4364027199946": 8,
+      "gas:candidate-vibid:4364027200208": 28,
+      "gas:candidate-vibid:4364027200400": 4,
+      "gas:candidate-vibid:4364027200342": 191,
+      "gas:candidate-vibid:4364027200453": 3,
+      "gas:candidate-vibid:4364027200540": 0,
+      "gas:candidate-vibid:4364027200477": 6,
+      "gas:candidate-vibid:4364027200014": 8,
+      "gas:candidate-vibid:4364027200120": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147723&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147723&type=464",
@@ -10191,15 +10191,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 128,
-      "Климов Виталий Николаевич": 4,
-      "Лютикова Марина Владимировна": 5,
-      "Марков Андрей Павлович": 635,
-      "Муштенко Сергей Владимирович": 2,
-      "Очкин Михаил Вячеславович": 1,
-      "Пойманов Сергей Петрович": 9,
-      "Спицына Марина Алексеевна": 5,
-      "Щербаков Юрий Алексеевич": 4
+      "gas:candidate-vibid:4364027199946": 128,
+      "gas:candidate-vibid:4364027200208": 4,
+      "gas:candidate-vibid:4364027200400": 5,
+      "gas:candidate-vibid:4364027200342": 635,
+      "gas:candidate-vibid:4364027200453": 2,
+      "gas:candidate-vibid:4364027200540": 1,
+      "gas:candidate-vibid:4364027200477": 9,
+      "gas:candidate-vibid:4364027200014": 5,
+      "gas:candidate-vibid:4364027200120": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147723&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147723&type=464",
@@ -10250,15 +10250,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 35,
-      "Климов Виталий Николаевич": 0,
-      "Лютикова Марина Владимировна": 0,
-      "Марков Андрей Павлович": 663,
-      "Муштенко Сергей Владимирович": 0,
-      "Очкин Михаил Вячеславович": 0,
-      "Пойманов Сергей Петрович": 49,
-      "Спицына Марина Алексеевна": 0,
-      "Щербаков Юрий Алексеевич": 0
+      "gas:candidate-vibid:4364027199946": 35,
+      "gas:candidate-vibid:4364027200208": 0,
+      "gas:candidate-vibid:4364027200400": 0,
+      "gas:candidate-vibid:4364027200342": 663,
+      "gas:candidate-vibid:4364027200453": 0,
+      "gas:candidate-vibid:4364027200540": 0,
+      "gas:candidate-vibid:4364027200477": 49,
+      "gas:candidate-vibid:4364027200014": 0,
+      "gas:candidate-vibid:4364027200120": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147723&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147723&type=464",
@@ -10309,15 +10309,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 13,
-      "Климов Виталий Николаевич": 14,
-      "Лютикова Марина Владимировна": 0,
-      "Марков Андрей Павлович": 146,
-      "Муштенко Сергей Владимирович": 1,
-      "Очкин Михаил Вячеславович": 1,
-      "Пойманов Сергей Петрович": 3,
-      "Спицына Марина Алексеевна": 10,
-      "Щербаков Юрий Алексеевич": 0
+      "gas:candidate-vibid:4364027199946": 13,
+      "gas:candidate-vibid:4364027200208": 14,
+      "gas:candidate-vibid:4364027200400": 0,
+      "gas:candidate-vibid:4364027200342": 146,
+      "gas:candidate-vibid:4364027200453": 1,
+      "gas:candidate-vibid:4364027200540": 1,
+      "gas:candidate-vibid:4364027200477": 3,
+      "gas:candidate-vibid:4364027200014": 10,
+      "gas:candidate-vibid:4364027200120": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147723&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147723&type=464",
@@ -10368,15 +10368,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 5,
-      "Климов Виталий Николаевич": 11,
-      "Лютикова Марина Владимировна": 6,
-      "Марков Андрей Павлович": 193,
-      "Муштенко Сергей Владимирович": 2,
-      "Очкин Михаил Вячеславович": 0,
-      "Пойманов Сергей Петрович": 4,
-      "Спицына Марина Алексеевна": 4,
-      "Щербаков Юрий Алексеевич": 4
+      "gas:candidate-vibid:4364027199946": 5,
+      "gas:candidate-vibid:4364027200208": 11,
+      "gas:candidate-vibid:4364027200400": 6,
+      "gas:candidate-vibid:4364027200342": 193,
+      "gas:candidate-vibid:4364027200453": 2,
+      "gas:candidate-vibid:4364027200540": 0,
+      "gas:candidate-vibid:4364027200477": 4,
+      "gas:candidate-vibid:4364027200014": 4,
+      "gas:candidate-vibid:4364027200120": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147723&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147723&type=464",
@@ -10427,15 +10427,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 90,
-      "Климов Виталий Николаевич": 3,
-      "Лютикова Марина Владимировна": 2,
-      "Марков Андрей Павлович": 654,
-      "Муштенко Сергей Владимирович": 1,
-      "Очкин Михаил Вячеславович": 1,
-      "Пойманов Сергей Петрович": 22,
-      "Спицына Марина Алексеевна": 35,
-      "Щербаков Юрий Алексеевич": 1
+      "gas:candidate-vibid:4364027199946": 90,
+      "gas:candidate-vibid:4364027200208": 3,
+      "gas:candidate-vibid:4364027200400": 2,
+      "gas:candidate-vibid:4364027200342": 654,
+      "gas:candidate-vibid:4364027200453": 1,
+      "gas:candidate-vibid:4364027200540": 1,
+      "gas:candidate-vibid:4364027200477": 22,
+      "gas:candidate-vibid:4364027200014": 35,
+      "gas:candidate-vibid:4364027200120": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147723&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147723&type=464",
@@ -10486,15 +10486,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 16,
-      "Климов Виталий Николаевич": 6,
-      "Лютикова Марина Владимировна": 0,
-      "Марков Андрей Павлович": 298,
-      "Муштенко Сергей Владимирович": 0,
-      "Очкин Михаил Вячеславович": 0,
-      "Пойманов Сергей Петрович": 5,
-      "Спицына Марина Алексеевна": 6,
-      "Щербаков Юрий Алексеевич": 3
+      "gas:candidate-vibid:4364027199946": 16,
+      "gas:candidate-vibid:4364027200208": 6,
+      "gas:candidate-vibid:4364027200400": 0,
+      "gas:candidate-vibid:4364027200342": 298,
+      "gas:candidate-vibid:4364027200453": 0,
+      "gas:candidate-vibid:4364027200540": 0,
+      "gas:candidate-vibid:4364027200477": 5,
+      "gas:candidate-vibid:4364027200014": 6,
+      "gas:candidate-vibid:4364027200120": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147723&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147723&type=464",
@@ -10545,15 +10545,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 16,
-      "Климов Виталий Николаевич": 7,
-      "Лютикова Марина Владимировна": 1,
-      "Марков Андрей Павлович": 124,
-      "Муштенко Сергей Владимирович": 2,
-      "Очкин Михаил Вячеславович": 5,
-      "Пойманов Сергей Петрович": 10,
-      "Спицына Марина Алексеевна": 4,
-      "Щербаков Юрий Алексеевич": 0
+      "gas:candidate-vibid:4364027199946": 16,
+      "gas:candidate-vibid:4364027200208": 7,
+      "gas:candidate-vibid:4364027200400": 1,
+      "gas:candidate-vibid:4364027200342": 124,
+      "gas:candidate-vibid:4364027200453": 2,
+      "gas:candidate-vibid:4364027200540": 5,
+      "gas:candidate-vibid:4364027200477": 10,
+      "gas:candidate-vibid:4364027200014": 4,
+      "gas:candidate-vibid:4364027200120": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147723&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147723&type=464",
@@ -10604,15 +10604,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 17,
-      "Климов Виталий Николаевич": 22,
-      "Лютикова Марина Владимировна": 1,
-      "Марков Андрей Павлович": 284,
-      "Муштенко Сергей Владимирович": 2,
-      "Очкин Михаил Вячеславович": 0,
-      "Пойманов Сергей Петрович": 11,
-      "Спицына Марина Алексеевна": 1,
-      "Щербаков Юрий Алексеевич": 0
+      "gas:candidate-vibid:4364027199946": 17,
+      "gas:candidate-vibid:4364027200208": 22,
+      "gas:candidate-vibid:4364027200400": 1,
+      "gas:candidate-vibid:4364027200342": 284,
+      "gas:candidate-vibid:4364027200453": 2,
+      "gas:candidate-vibid:4364027200540": 0,
+      "gas:candidate-vibid:4364027200477": 11,
+      "gas:candidate-vibid:4364027200014": 1,
+      "gas:candidate-vibid:4364027200120": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147723&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147723&type=464",
@@ -10663,15 +10663,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 10,
-      "Климов Виталий Николаевич": 5,
-      "Лютикова Марина Владимировна": 0,
-      "Марков Андрей Павлович": 554,
-      "Муштенко Сергей Владимирович": 0,
-      "Очкин Михаил Вячеславович": 0,
-      "Пойманов Сергей Петрович": 17,
-      "Спицына Марина Алексеевна": 5,
-      "Щербаков Юрий Алексеевич": 0
+      "gas:candidate-vibid:4364027199946": 10,
+      "gas:candidate-vibid:4364027200208": 5,
+      "gas:candidate-vibid:4364027200400": 0,
+      "gas:candidate-vibid:4364027200342": 554,
+      "gas:candidate-vibid:4364027200453": 0,
+      "gas:candidate-vibid:4364027200540": 0,
+      "gas:candidate-vibid:4364027200477": 17,
+      "gas:candidate-vibid:4364027200014": 5,
+      "gas:candidate-vibid:4364027200120": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147723&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147723&type=464",
@@ -10722,15 +10722,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 50,
-      "Климов Виталий Николаевич": 12,
-      "Лютикова Марина Владимировна": 12,
-      "Марков Андрей Павлович": 643,
-      "Муштенко Сергей Владимирович": 5,
-      "Очкин Михаил Вячеславович": 3,
-      "Пойманов Сергей Петрович": 19,
-      "Спицына Марина Алексеевна": 23,
-      "Щербаков Юрий Алексеевич": 21
+      "gas:candidate-vibid:4364027199946": 50,
+      "gas:candidate-vibid:4364027200208": 12,
+      "gas:candidate-vibid:4364027200400": 12,
+      "gas:candidate-vibid:4364027200342": 643,
+      "gas:candidate-vibid:4364027200453": 5,
+      "gas:candidate-vibid:4364027200540": 3,
+      "gas:candidate-vibid:4364027200477": 19,
+      "gas:candidate-vibid:4364027200014": 23,
+      "gas:candidate-vibid:4364027200120": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147723&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147723&type=464",
@@ -10781,15 +10781,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 14,
-      "Климов Виталий Николаевич": 13,
-      "Лютикова Марина Владимировна": 4,
-      "Марков Андрей Павлович": 187,
-      "Муштенко Сергей Владимирович": 1,
-      "Очкин Михаил Вячеславович": 1,
-      "Пойманов Сергей Петрович": 11,
-      "Спицына Марина Алексеевна": 10,
-      "Щербаков Юрий Алексеевич": 13
+      "gas:candidate-vibid:4364027199946": 14,
+      "gas:candidate-vibid:4364027200208": 13,
+      "gas:candidate-vibid:4364027200400": 4,
+      "gas:candidate-vibid:4364027200342": 187,
+      "gas:candidate-vibid:4364027200453": 1,
+      "gas:candidate-vibid:4364027200540": 1,
+      "gas:candidate-vibid:4364027200477": 11,
+      "gas:candidate-vibid:4364027200014": 10,
+      "gas:candidate-vibid:4364027200120": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147723&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147723&type=464",
@@ -10840,15 +10840,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 26,
-      "Климов Виталий Николаевич": 13,
-      "Лютикова Марина Владимировна": 0,
-      "Марков Андрей Павлович": 312,
-      "Муштенко Сергей Владимирович": 0,
-      "Очкин Михаил Вячеславович": 0,
-      "Пойманов Сергей Петрович": 14,
-      "Спицына Марина Алексеевна": 14,
-      "Щербаков Юрий Алексеевич": 0
+      "gas:candidate-vibid:4364027199946": 26,
+      "gas:candidate-vibid:4364027200208": 13,
+      "gas:candidate-vibid:4364027200400": 0,
+      "gas:candidate-vibid:4364027200342": 312,
+      "gas:candidate-vibid:4364027200453": 0,
+      "gas:candidate-vibid:4364027200540": 0,
+      "gas:candidate-vibid:4364027200477": 14,
+      "gas:candidate-vibid:4364027200014": 14,
+      "gas:candidate-vibid:4364027200120": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147723&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147723&type=464",
@@ -10899,15 +10899,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 15,
-      "Климов Виталий Николаевич": 2,
-      "Лютикова Марина Владимировна": 0,
-      "Марков Андрей Павлович": 165,
-      "Муштенко Сергей Владимирович": 0,
-      "Очкин Михаил Вячеславович": 0,
-      "Пойманов Сергей Петрович": 3,
-      "Спицына Марина Алексеевна": 4,
-      "Щербаков Юрий Алексеевич": 1
+      "gas:candidate-vibid:4364027199946": 15,
+      "gas:candidate-vibid:4364027200208": 2,
+      "gas:candidate-vibid:4364027200400": 0,
+      "gas:candidate-vibid:4364027200342": 165,
+      "gas:candidate-vibid:4364027200453": 0,
+      "gas:candidate-vibid:4364027200540": 0,
+      "gas:candidate-vibid:4364027200477": 3,
+      "gas:candidate-vibid:4364027200014": 4,
+      "gas:candidate-vibid:4364027200120": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147723&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147723&type=464",
@@ -10958,15 +10958,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 14,
-      "Климов Виталий Николаевич": 0,
-      "Лютикова Марина Владимировна": 0,
-      "Марков Андрей Павлович": 156,
-      "Муштенко Сергей Владимирович": 0,
-      "Очкин Михаил Вячеславович": 0,
-      "Пойманов Сергей Петрович": 8,
-      "Спицына Марина Алексеевна": 0,
-      "Щербаков Юрий Алексеевич": 0
+      "gas:candidate-vibid:4364027199946": 14,
+      "gas:candidate-vibid:4364027200208": 0,
+      "gas:candidate-vibid:4364027200400": 0,
+      "gas:candidate-vibid:4364027200342": 156,
+      "gas:candidate-vibid:4364027200453": 0,
+      "gas:candidate-vibid:4364027200540": 0,
+      "gas:candidate-vibid:4364027200477": 8,
+      "gas:candidate-vibid:4364027200014": 0,
+      "gas:candidate-vibid:4364027200120": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147723&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147723&type=464",
@@ -11017,15 +11017,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 29,
-      "Климов Виталий Николаевич": 22,
-      "Лютикова Марина Владимировна": 5,
-      "Марков Андрей Павлович": 390,
-      "Муштенко Сергей Владимирович": 4,
-      "Очкин Михаил Вячеславович": 2,
-      "Пойманов Сергей Петрович": 5,
-      "Спицына Марина Алексеевна": 15,
-      "Щербаков Юрий Алексеевич": 7
+      "gas:candidate-vibid:4364027199946": 29,
+      "gas:candidate-vibid:4364027200208": 22,
+      "gas:candidate-vibid:4364027200400": 5,
+      "gas:candidate-vibid:4364027200342": 390,
+      "gas:candidate-vibid:4364027200453": 4,
+      "gas:candidate-vibid:4364027200540": 2,
+      "gas:candidate-vibid:4364027200477": 5,
+      "gas:candidate-vibid:4364027200014": 15,
+      "gas:candidate-vibid:4364027200120": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147723&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147723&type=464",
@@ -11076,15 +11076,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 8,
-      "Климов Виталий Николаевич": 14,
-      "Лютикова Марина Владимировна": 0,
-      "Марков Андрей Павлович": 244,
-      "Муштенко Сергей Владимирович": 0,
-      "Очкин Михаил Вячеславович": 0,
-      "Пойманов Сергей Петрович": 3,
-      "Спицына Марина Алексеевна": 8,
-      "Щербаков Юрий Алексеевич": 0
+      "gas:candidate-vibid:4364027199946": 8,
+      "gas:candidate-vibid:4364027200208": 14,
+      "gas:candidate-vibid:4364027200400": 0,
+      "gas:candidate-vibid:4364027200342": 244,
+      "gas:candidate-vibid:4364027200453": 0,
+      "gas:candidate-vibid:4364027200540": 0,
+      "gas:candidate-vibid:4364027200477": 3,
+      "gas:candidate-vibid:4364027200014": 8,
+      "gas:candidate-vibid:4364027200120": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147723&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147723&type=464",
@@ -11135,15 +11135,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 12,
-      "Климов Виталий Николаевич": 46,
-      "Лютикова Марина Владимировна": 0,
-      "Марков Андрей Павлович": 233,
-      "Муштенко Сергей Владимирович": 0,
-      "Очкин Михаил Вячеславович": 0,
-      "Пойманов Сергей Петрович": 0,
-      "Спицына Марина Алексеевна": 0,
-      "Щербаков Юрий Алексеевич": 0
+      "gas:candidate-vibid:4364027199946": 12,
+      "gas:candidate-vibid:4364027200208": 46,
+      "gas:candidate-vibid:4364027200400": 0,
+      "gas:candidate-vibid:4364027200342": 233,
+      "gas:candidate-vibid:4364027200453": 0,
+      "gas:candidate-vibid:4364027200540": 0,
+      "gas:candidate-vibid:4364027200477": 0,
+      "gas:candidate-vibid:4364027200014": 0,
+      "gas:candidate-vibid:4364027200120": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147723&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147723&type=464",
@@ -11194,15 +11194,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 21,
-      "Климов Виталий Николаевич": 37,
-      "Лютикова Марина Владимировна": 13,
-      "Марков Андрей Павлович": 765,
-      "Муштенко Сергей Владимирович": 7,
-      "Очкин Михаил Вячеславович": 8,
-      "Пойманов Сергей Петрович": 25,
-      "Спицына Марина Алексеевна": 25,
-      "Щербаков Юрий Алексеевич": 21
+      "gas:candidate-vibid:4364027199946": 21,
+      "gas:candidate-vibid:4364027200208": 37,
+      "gas:candidate-vibid:4364027200400": 13,
+      "gas:candidate-vibid:4364027200342": 765,
+      "gas:candidate-vibid:4364027200453": 7,
+      "gas:candidate-vibid:4364027200540": 8,
+      "gas:candidate-vibid:4364027200477": 25,
+      "gas:candidate-vibid:4364027200014": 25,
+      "gas:candidate-vibid:4364027200120": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147723&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147723&type=464",
@@ -11253,15 +11253,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 3,
-      "Климов Виталий Николаевич": 10,
-      "Лютикова Марина Владимировна": 3,
-      "Марков Андрей Павлович": 181,
-      "Муштенко Сергей Владимирович": 0,
-      "Очкин Михаил Вячеславович": 0,
-      "Пойманов Сергей Петрович": 3,
-      "Спицына Марина Алексеевна": 5,
-      "Щербаков Юрий Алексеевич": 4
+      "gas:candidate-vibid:4364027199946": 3,
+      "gas:candidate-vibid:4364027200208": 10,
+      "gas:candidate-vibid:4364027200400": 3,
+      "gas:candidate-vibid:4364027200342": 181,
+      "gas:candidate-vibid:4364027200453": 0,
+      "gas:candidate-vibid:4364027200540": 0,
+      "gas:candidate-vibid:4364027200477": 3,
+      "gas:candidate-vibid:4364027200014": 5,
+      "gas:candidate-vibid:4364027200120": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147723&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147723&type=464",
@@ -11312,15 +11312,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 25,
-      "Климов Виталий Николаевич": 8,
-      "Лютикова Марина Владимировна": 1,
-      "Марков Андрей Павлович": 240,
-      "Муштенко Сергей Владимирович": 1,
-      "Очкин Михаил Вячеславович": 1,
-      "Пойманов Сергей Петрович": 9,
-      "Спицына Марина Алексеевна": 12,
-      "Щербаков Юрий Алексеевич": 4
+      "gas:candidate-vibid:4364027199946": 25,
+      "gas:candidate-vibid:4364027200208": 8,
+      "gas:candidate-vibid:4364027200400": 1,
+      "gas:candidate-vibid:4364027200342": 240,
+      "gas:candidate-vibid:4364027200453": 1,
+      "gas:candidate-vibid:4364027200540": 1,
+      "gas:candidate-vibid:4364027200477": 9,
+      "gas:candidate-vibid:4364027200014": 12,
+      "gas:candidate-vibid:4364027200120": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147723&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147723&type=464",
@@ -11371,15 +11371,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 83,
-      "Климов Виталий Николаевич": 8,
-      "Лютикова Марина Владимировна": 4,
-      "Марков Андрей Павлович": 587,
-      "Муштенко Сергей Владимирович": 1,
-      "Очкин Михаил Вячеславович": 3,
-      "Пойманов Сергей Петрович": 32,
-      "Спицына Марина Алексеевна": 5,
-      "Щербаков Юрий Алексеевич": 10
+      "gas:candidate-vibid:4364027199946": 83,
+      "gas:candidate-vibid:4364027200208": 8,
+      "gas:candidate-vibid:4364027200400": 4,
+      "gas:candidate-vibid:4364027200342": 587,
+      "gas:candidate-vibid:4364027200453": 1,
+      "gas:candidate-vibid:4364027200540": 3,
+      "gas:candidate-vibid:4364027200477": 32,
+      "gas:candidate-vibid:4364027200014": 5,
+      "gas:candidate-vibid:4364027200120": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147723&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147723&type=464",
@@ -11430,15 +11430,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 27,
-      "Климов Виталий Николаевич": 5,
-      "Лютикова Марина Владимировна": 0,
-      "Марков Андрей Павлович": 290,
-      "Муштенко Сергей Владимирович": 0,
-      "Очкин Михаил Вячеславович": 0,
-      "Пойманов Сергей Петрович": 26,
-      "Спицына Марина Алексеевна": 12,
-      "Щербаков Юрий Алексеевич": 3
+      "gas:candidate-vibid:4364027199946": 27,
+      "gas:candidate-vibid:4364027200208": 5,
+      "gas:candidate-vibid:4364027200400": 0,
+      "gas:candidate-vibid:4364027200342": 290,
+      "gas:candidate-vibid:4364027200453": 0,
+      "gas:candidate-vibid:4364027200540": 0,
+      "gas:candidate-vibid:4364027200477": 26,
+      "gas:candidate-vibid:4364027200014": 12,
+      "gas:candidate-vibid:4364027200120": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147723&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147723&type=464",
@@ -11489,15 +11489,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 8,
-      "Климов Виталий Николаевич": 6,
-      "Лютикова Марина Владимировна": 2,
-      "Марков Андрей Павлович": 331,
-      "Муштенко Сергей Владимирович": 0,
-      "Очкин Михаил Вячеславович": 3,
-      "Пойманов Сергей Петрович": 10,
-      "Спицына Марина Алексеевна": 5,
-      "Щербаков Юрий Алексеевич": 9
+      "gas:candidate-vibid:4364027199946": 8,
+      "gas:candidate-vibid:4364027200208": 6,
+      "gas:candidate-vibid:4364027200400": 2,
+      "gas:candidate-vibid:4364027200342": 331,
+      "gas:candidate-vibid:4364027200453": 0,
+      "gas:candidate-vibid:4364027200540": 3,
+      "gas:candidate-vibid:4364027200477": 10,
+      "gas:candidate-vibid:4364027200014": 5,
+      "gas:candidate-vibid:4364027200120": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147723&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147723&type=464",
@@ -11548,15 +11548,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 6,
-      "Климов Виталий Николаевич": 0,
-      "Лютикова Марина Владимировна": 0,
-      "Марков Андрей Павлович": 225,
-      "Муштенко Сергей Владимирович": 0,
-      "Очкин Михаил Вячеславович": 0,
-      "Пойманов Сергей Петрович": 7,
-      "Спицына Марина Алексеевна": 6,
-      "Щербаков Юрий Алексеевич": 0
+      "gas:candidate-vibid:4364027199946": 6,
+      "gas:candidate-vibid:4364027200208": 0,
+      "gas:candidate-vibid:4364027200400": 0,
+      "gas:candidate-vibid:4364027200342": 225,
+      "gas:candidate-vibid:4364027200453": 0,
+      "gas:candidate-vibid:4364027200540": 0,
+      "gas:candidate-vibid:4364027200477": 7,
+      "gas:candidate-vibid:4364027200014": 6,
+      "gas:candidate-vibid:4364027200120": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147723&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147723&type=464",
@@ -11607,15 +11607,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 8,
-      "Климов Виталий Николаевич": 3,
-      "Лютикова Марина Владимировна": 6,
-      "Марков Андрей Павлович": 281,
-      "Муштенко Сергей Владимирович": 5,
-      "Очкин Михаил Вячеславович": 1,
-      "Пойманов Сергей Петрович": 9,
-      "Спицына Марина Алексеевна": 7,
-      "Щербаков Юрий Алексеевич": 6
+      "gas:candidate-vibid:4364027199946": 8,
+      "gas:candidate-vibid:4364027200208": 3,
+      "gas:candidate-vibid:4364027200400": 6,
+      "gas:candidate-vibid:4364027200342": 281,
+      "gas:candidate-vibid:4364027200453": 5,
+      "gas:candidate-vibid:4364027200540": 1,
+      "gas:candidate-vibid:4364027200477": 9,
+      "gas:candidate-vibid:4364027200014": 7,
+      "gas:candidate-vibid:4364027200120": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147723&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147723&type=464",
@@ -11666,15 +11666,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 7,
-      "Климов Виталий Николаевич": 7,
-      "Лютикова Марина Владимировна": 0,
-      "Марков Андрей Павлович": 136,
-      "Муштенко Сергей Владимирович": 0,
-      "Очкин Михаил Вячеславович": 0,
-      "Пойманов Сергей Петрович": 5,
-      "Спицына Марина Алексеевна": 5,
-      "Щербаков Юрий Алексеевич": 4
+      "gas:candidate-vibid:4364027199946": 7,
+      "gas:candidate-vibid:4364027200208": 7,
+      "gas:candidate-vibid:4364027200400": 0,
+      "gas:candidate-vibid:4364027200342": 136,
+      "gas:candidate-vibid:4364027200453": 0,
+      "gas:candidate-vibid:4364027200540": 0,
+      "gas:candidate-vibid:4364027200477": 5,
+      "gas:candidate-vibid:4364027200014": 5,
+      "gas:candidate-vibid:4364027200120": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147723&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147723&type=464",
@@ -11725,15 +11725,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 82,
-      "Климов Виталий Николаевич": 3,
-      "Лютикова Марина Владимировна": 5,
-      "Марков Андрей Павлович": 333,
-      "Муштенко Сергей Владимирович": 3,
-      "Очкин Михаил Вячеславович": 0,
-      "Пойманов Сергей Петрович": 8,
-      "Спицына Марина Алексеевна": 8,
-      "Щербаков Юрий Алексеевич": 42
+      "gas:candidate-vibid:4364027199946": 82,
+      "gas:candidate-vibid:4364027200208": 3,
+      "gas:candidate-vibid:4364027200400": 5,
+      "gas:candidate-vibid:4364027200342": 333,
+      "gas:candidate-vibid:4364027200453": 3,
+      "gas:candidate-vibid:4364027200540": 0,
+      "gas:candidate-vibid:4364027200477": 8,
+      "gas:candidate-vibid:4364027200014": 8,
+      "gas:candidate-vibid:4364027200120": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147724&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147724&type=464",
@@ -11784,15 +11784,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 59,
-      "Климов Виталий Николаевич": 3,
-      "Лютикова Марина Владимировна": 4,
-      "Марков Андрей Павлович": 456,
-      "Муштенко Сергей Владимирович": 2,
-      "Очкин Михаил Вячеславович": 2,
-      "Пойманов Сергей Петрович": 5,
-      "Спицына Марина Алексеевна": 14,
-      "Щербаков Юрий Алексеевич": 8
+      "gas:candidate-vibid:4364027199946": 59,
+      "gas:candidate-vibid:4364027200208": 3,
+      "gas:candidate-vibid:4364027200400": 4,
+      "gas:candidate-vibid:4364027200342": 456,
+      "gas:candidate-vibid:4364027200453": 2,
+      "gas:candidate-vibid:4364027200540": 2,
+      "gas:candidate-vibid:4364027200477": 5,
+      "gas:candidate-vibid:4364027200014": 14,
+      "gas:candidate-vibid:4364027200120": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147724&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147724&type=464",
@@ -11843,15 +11843,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 30,
-      "Климов Виталий Николаевич": 3,
-      "Лютикова Марина Владимировна": 6,
-      "Марков Андрей Павлович": 229,
-      "Муштенко Сергей Владимирович": 0,
-      "Очкин Михаил Вячеславович": 1,
-      "Пойманов Сергей Петрович": 4,
-      "Спицына Марина Алексеевна": 5,
-      "Щербаков Юрий Алексеевич": 5
+      "gas:candidate-vibid:4364027199946": 30,
+      "gas:candidate-vibid:4364027200208": 3,
+      "gas:candidate-vibid:4364027200400": 6,
+      "gas:candidate-vibid:4364027200342": 229,
+      "gas:candidate-vibid:4364027200453": 0,
+      "gas:candidate-vibid:4364027200540": 1,
+      "gas:candidate-vibid:4364027200477": 4,
+      "gas:candidate-vibid:4364027200014": 5,
+      "gas:candidate-vibid:4364027200120": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147724&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147724&type=464",
@@ -11902,15 +11902,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 101,
-      "Климов Виталий Николаевич": 2,
-      "Лютикова Марина Владимировна": 0,
-      "Марков Андрей Павлович": 708,
-      "Муштенко Сергей Владимирович": 0,
-      "Очкин Михаил Вячеславович": 0,
-      "Пойманов Сергей Петрович": 2,
-      "Спицына Марина Алексеевна": 6,
-      "Щербаков Юрий Алексеевич": 3
+      "gas:candidate-vibid:4364027199946": 101,
+      "gas:candidate-vibid:4364027200208": 2,
+      "gas:candidate-vibid:4364027200400": 0,
+      "gas:candidate-vibid:4364027200342": 708,
+      "gas:candidate-vibid:4364027200453": 0,
+      "gas:candidate-vibid:4364027200540": 0,
+      "gas:candidate-vibid:4364027200477": 2,
+      "gas:candidate-vibid:4364027200014": 6,
+      "gas:candidate-vibid:4364027200120": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147724&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147724&type=464",
@@ -11961,15 +11961,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 112,
-      "Климов Виталий Николаевич": 11,
-      "Лютикова Марина Владимировна": 4,
-      "Марков Андрей Павлович": 650,
-      "Муштенко Сергей Владимирович": 5,
-      "Очкин Михаил Вячеславович": 2,
-      "Пойманов Сергей Петрович": 2,
-      "Спицына Марина Алексеевна": 8,
-      "Щербаков Юрий Алексеевич": 10
+      "gas:candidate-vibid:4364027199946": 112,
+      "gas:candidate-vibid:4364027200208": 11,
+      "gas:candidate-vibid:4364027200400": 4,
+      "gas:candidate-vibid:4364027200342": 650,
+      "gas:candidate-vibid:4364027200453": 5,
+      "gas:candidate-vibid:4364027200540": 2,
+      "gas:candidate-vibid:4364027200477": 2,
+      "gas:candidate-vibid:4364027200014": 8,
+      "gas:candidate-vibid:4364027200120": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147724&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147724&type=464",
@@ -12020,15 +12020,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 180,
-      "Климов Виталий Николаевич": 36,
-      "Лютикова Марина Владимировна": 20,
-      "Марков Андрей Павлович": 700,
-      "Муштенко Сергей Владимирович": 5,
-      "Очкин Михаил Вячеславович": 3,
-      "Пойманов Сергей Петрович": 7,
-      "Спицына Марина Алексеевна": 90,
-      "Щербаков Юрий Алексеевич": 61
+      "gas:candidate-vibid:4364027199946": 180,
+      "gas:candidate-vibid:4364027200208": 36,
+      "gas:candidate-vibid:4364027200400": 20,
+      "gas:candidate-vibid:4364027200342": 700,
+      "gas:candidate-vibid:4364027200453": 5,
+      "gas:candidate-vibid:4364027200540": 3,
+      "gas:candidate-vibid:4364027200477": 7,
+      "gas:candidate-vibid:4364027200014": 90,
+      "gas:candidate-vibid:4364027200120": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147724&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147724&type=464",
@@ -12079,15 +12079,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 280,
-      "Климов Виталий Николаевич": 41,
-      "Лютикова Марина Владимировна": 11,
-      "Марков Андрей Павлович": 1182,
-      "Муштенко Сергей Владимирович": 6,
-      "Очкин Михаил Вячеславович": 5,
-      "Пойманов Сергей Петрович": 9,
-      "Спицына Марина Алексеевна": 20,
-      "Щербаков Юрий Алексеевич": 16
+      "gas:candidate-vibid:4364027199946": 280,
+      "gas:candidate-vibid:4364027200208": 41,
+      "gas:candidate-vibid:4364027200400": 11,
+      "gas:candidate-vibid:4364027200342": 1182,
+      "gas:candidate-vibid:4364027200453": 6,
+      "gas:candidate-vibid:4364027200540": 5,
+      "gas:candidate-vibid:4364027200477": 9,
+      "gas:candidate-vibid:4364027200014": 20,
+      "gas:candidate-vibid:4364027200120": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147724&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147724&type=464",
@@ -12138,15 +12138,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 32,
-      "Климов Виталий Николаевич": 3,
-      "Лютикова Марина Владимировна": 6,
-      "Марков Андрей Павлович": 181,
-      "Муштенко Сергей Владимирович": 2,
-      "Очкин Михаил Вячеславович": 1,
-      "Пойманов Сергей Петрович": 2,
-      "Спицына Марина Алексеевна": 9,
-      "Щербаков Юрий Алексеевич": 5
+      "gas:candidate-vibid:4364027199946": 32,
+      "gas:candidate-vibid:4364027200208": 3,
+      "gas:candidate-vibid:4364027200400": 6,
+      "gas:candidate-vibid:4364027200342": 181,
+      "gas:candidate-vibid:4364027200453": 2,
+      "gas:candidate-vibid:4364027200540": 1,
+      "gas:candidate-vibid:4364027200477": 2,
+      "gas:candidate-vibid:4364027200014": 9,
+      "gas:candidate-vibid:4364027200120": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147724&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147724&type=464",
@@ -12197,15 +12197,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 90,
-      "Климов Виталий Николаевич": 24,
-      "Лютикова Марина Владимировна": 12,
-      "Марков Андрей Павлович": 167,
-      "Муштенко Сергей Владимирович": 6,
-      "Очкин Михаил Вячеславович": 1,
-      "Пойманов Сергей Петрович": 19,
-      "Спицына Марина Алексеевна": 41,
-      "Щербаков Юрий Алексеевич": 14
+      "gas:candidate-vibid:4364027199946": 90,
+      "gas:candidate-vibid:4364027200208": 24,
+      "gas:candidate-vibid:4364027200400": 12,
+      "gas:candidate-vibid:4364027200342": 167,
+      "gas:candidate-vibid:4364027200453": 6,
+      "gas:candidate-vibid:4364027200540": 1,
+      "gas:candidate-vibid:4364027200477": 19,
+      "gas:candidate-vibid:4364027200014": 41,
+      "gas:candidate-vibid:4364027200120": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147724&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147724&type=464",
@@ -12256,15 +12256,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 42,
-      "Климов Виталий Николаевич": 4,
-      "Лютикова Марина Владимировна": 7,
-      "Марков Андрей Павлович": 325,
-      "Муштенко Сергей Владимирович": 2,
-      "Очкин Михаил Вячеславович": 0,
-      "Пойманов Сергей Петрович": 5,
-      "Спицына Марина Алексеевна": 6,
-      "Щербаков Юрий Алексеевич": 4
+      "gas:candidate-vibid:4364027199946": 42,
+      "gas:candidate-vibid:4364027200208": 4,
+      "gas:candidate-vibid:4364027200400": 7,
+      "gas:candidate-vibid:4364027200342": 325,
+      "gas:candidate-vibid:4364027200453": 2,
+      "gas:candidate-vibid:4364027200540": 0,
+      "gas:candidate-vibid:4364027200477": 5,
+      "gas:candidate-vibid:4364027200014": 6,
+      "gas:candidate-vibid:4364027200120": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147724&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147724&type=464",
@@ -12315,15 +12315,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 0,
-      "Климов Виталий Николаевич": 0,
-      "Лютикова Марина Владимировна": 0,
-      "Марков Андрей Павлович": 485,
-      "Муштенко Сергей Владимирович": 0,
-      "Очкин Михаил Вячеславович": 0,
-      "Пойманов Сергей Петрович": 3,
-      "Спицына Марина Алексеевна": 0,
-      "Щербаков Юрий Алексеевич": 3
+      "gas:candidate-vibid:4364027199946": 0,
+      "gas:candidate-vibid:4364027200208": 0,
+      "gas:candidate-vibid:4364027200400": 0,
+      "gas:candidate-vibid:4364027200342": 485,
+      "gas:candidate-vibid:4364027200453": 0,
+      "gas:candidate-vibid:4364027200540": 0,
+      "gas:candidate-vibid:4364027200477": 3,
+      "gas:candidate-vibid:4364027200014": 0,
+      "gas:candidate-vibid:4364027200120": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147724&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147724&type=464",
@@ -12374,15 +12374,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 62,
-      "Климов Виталий Николаевич": 1,
-      "Лютикова Марина Владимировна": 0,
-      "Марков Андрей Павлович": 449,
-      "Муштенко Сергей Владимирович": 0,
-      "Очкин Михаил Вячеславович": 1,
-      "Пойманов Сергей Петрович": 1,
-      "Спицына Марина Алексеевна": 3,
-      "Щербаков Юрий Алексеевич": 2
+      "gas:candidate-vibid:4364027199946": 62,
+      "gas:candidate-vibid:4364027200208": 1,
+      "gas:candidate-vibid:4364027200400": 0,
+      "gas:candidate-vibid:4364027200342": 449,
+      "gas:candidate-vibid:4364027200453": 0,
+      "gas:candidate-vibid:4364027200540": 1,
+      "gas:candidate-vibid:4364027200477": 1,
+      "gas:candidate-vibid:4364027200014": 3,
+      "gas:candidate-vibid:4364027200120": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147724&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147724&type=464",
@@ -12433,15 +12433,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 13,
-      "Климов Виталий Николаевич": 7,
-      "Лютикова Марина Владимировна": 12,
-      "Марков Андрей Павлович": 331,
-      "Муштенко Сергей Владимирович": 0,
-      "Очкин Михаил Вячеславович": 1,
-      "Пойманов Сергей Петрович": 1,
-      "Спицына Марина Алексеевна": 20,
-      "Щербаков Юрий Алексеевич": 4
+      "gas:candidate-vibid:4364027199946": 13,
+      "gas:candidate-vibid:4364027200208": 7,
+      "gas:candidate-vibid:4364027200400": 12,
+      "gas:candidate-vibid:4364027200342": 331,
+      "gas:candidate-vibid:4364027200453": 0,
+      "gas:candidate-vibid:4364027200540": 1,
+      "gas:candidate-vibid:4364027200477": 1,
+      "gas:candidate-vibid:4364027200014": 20,
+      "gas:candidate-vibid:4364027200120": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147724&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147724&type=464",
@@ -12492,15 +12492,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 30,
-      "Климов Виталий Николаевич": 4,
-      "Лютикова Марина Владимировна": 0,
-      "Марков Андрей Павлович": 154,
-      "Муштенко Сергей Владимирович": 0,
-      "Очкин Михаил Вячеславович": 0,
-      "Пойманов Сергей Петрович": 3,
-      "Спицына Марина Алексеевна": 0,
-      "Щербаков Юрий Алексеевич": 0
+      "gas:candidate-vibid:4364027199946": 30,
+      "gas:candidate-vibid:4364027200208": 4,
+      "gas:candidate-vibid:4364027200400": 0,
+      "gas:candidate-vibid:4364027200342": 154,
+      "gas:candidate-vibid:4364027200453": 0,
+      "gas:candidate-vibid:4364027200540": 0,
+      "gas:candidate-vibid:4364027200477": 3,
+      "gas:candidate-vibid:4364027200014": 0,
+      "gas:candidate-vibid:4364027200120": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147724&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147724&type=464",
@@ -12551,15 +12551,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 38,
-      "Климов Виталий Николаевич": 3,
-      "Лютикова Марина Владимировна": 1,
-      "Марков Андрей Павлович": 441,
-      "Муштенко Сергей Владимирович": 0,
-      "Очкин Михаил Вячеславович": 0,
-      "Пойманов Сергей Петрович": 0,
-      "Спицына Марина Алексеевна": 0,
-      "Щербаков Юрий Алексеевич": 0
+      "gas:candidate-vibid:4364027199946": 38,
+      "gas:candidate-vibid:4364027200208": 3,
+      "gas:candidate-vibid:4364027200400": 1,
+      "gas:candidate-vibid:4364027200342": 441,
+      "gas:candidate-vibid:4364027200453": 0,
+      "gas:candidate-vibid:4364027200540": 0,
+      "gas:candidate-vibid:4364027200477": 0,
+      "gas:candidate-vibid:4364027200014": 0,
+      "gas:candidate-vibid:4364027200120": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147724&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147724&type=464",
@@ -12610,15 +12610,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 120,
-      "Климов Виталий Николаевич": 9,
-      "Лютикова Марина Владимировна": 10,
-      "Марков Андрей Павлович": 176,
-      "Муштенко Сергей Владимирович": 1,
-      "Очкин Михаил Вячеславович": 2,
-      "Пойманов Сергей Петрович": 2,
-      "Спицына Марина Алексеевна": 22,
-      "Щербаков Юрий Алексеевич": 15
+      "gas:candidate-vibid:4364027199946": 120,
+      "gas:candidate-vibid:4364027200208": 9,
+      "gas:candidate-vibid:4364027200400": 10,
+      "gas:candidate-vibid:4364027200342": 176,
+      "gas:candidate-vibid:4364027200453": 1,
+      "gas:candidate-vibid:4364027200540": 2,
+      "gas:candidate-vibid:4364027200477": 2,
+      "gas:candidate-vibid:4364027200014": 22,
+      "gas:candidate-vibid:4364027200120": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147724&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147724&type=464",
@@ -12669,15 +12669,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 78,
-      "Климов Виталий Николаевич": 10,
-      "Лютикова Марина Владимировна": 0,
-      "Марков Андрей Павлович": 121,
-      "Муштенко Сергей Владимирович": 0,
-      "Очкин Михаил Вячеславович": 0,
-      "Пойманов Сергей Петрович": 0,
-      "Спицына Марина Алексеевна": 14,
-      "Щербаков Юрий Алексеевич": 14
+      "gas:candidate-vibid:4364027199946": 78,
+      "gas:candidate-vibid:4364027200208": 10,
+      "gas:candidate-vibid:4364027200400": 0,
+      "gas:candidate-vibid:4364027200342": 121,
+      "gas:candidate-vibid:4364027200453": 0,
+      "gas:candidate-vibid:4364027200540": 0,
+      "gas:candidate-vibid:4364027200477": 0,
+      "gas:candidate-vibid:4364027200014": 14,
+      "gas:candidate-vibid:4364027200120": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147724&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147724&type=464",
@@ -12728,15 +12728,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 21,
-      "Климов Виталий Николаевич": 0,
-      "Лютикова Марина Владимировна": 0,
-      "Марков Андрей Павлович": 65,
-      "Муштенко Сергей Владимирович": 0,
-      "Очкин Михаил Вячеславович": 0,
-      "Пойманов Сергей Петрович": 0,
-      "Спицына Марина Алексеевна": 0,
-      "Щербаков Юрий Алексеевич": 2
+      "gas:candidate-vibid:4364027199946": 21,
+      "gas:candidate-vibid:4364027200208": 0,
+      "gas:candidate-vibid:4364027200400": 0,
+      "gas:candidate-vibid:4364027200342": 65,
+      "gas:candidate-vibid:4364027200453": 0,
+      "gas:candidate-vibid:4364027200540": 0,
+      "gas:candidate-vibid:4364027200477": 0,
+      "gas:candidate-vibid:4364027200014": 0,
+      "gas:candidate-vibid:4364027200120": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147724&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147724&type=464",
@@ -12787,15 +12787,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 19,
-      "Климов Виталий Николаевич": 1,
-      "Лютикова Марина Владимировна": 1,
-      "Марков Андрей Павлович": 609,
-      "Муштенко Сергей Владимирович": 0,
-      "Очкин Михаил Вячеславович": 0,
-      "Пойманов Сергей Петрович": 0,
-      "Спицына Марина Алексеевна": 1,
-      "Щербаков Юрий Алексеевич": 1
+      "gas:candidate-vibid:4364027199946": 19,
+      "gas:candidate-vibid:4364027200208": 1,
+      "gas:candidate-vibid:4364027200400": 1,
+      "gas:candidate-vibid:4364027200342": 609,
+      "gas:candidate-vibid:4364027200453": 0,
+      "gas:candidate-vibid:4364027200540": 0,
+      "gas:candidate-vibid:4364027200477": 0,
+      "gas:candidate-vibid:4364027200014": 1,
+      "gas:candidate-vibid:4364027200120": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147724&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147724&type=464",
@@ -12846,15 +12846,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 28,
-      "Климов Виталий Николаевич": 7,
-      "Лютикова Марина Владимировна": 4,
-      "Марков Андрей Павлович": 465,
-      "Муштенко Сергей Владимирович": 0,
-      "Очкин Михаил Вячеславович": 0,
-      "Пойманов Сергей Петрович": 6,
-      "Спицына Марина Алексеевна": 13,
-      "Щербаков Юрий Алексеевич": 8
+      "gas:candidate-vibid:4364027199946": 28,
+      "gas:candidate-vibid:4364027200208": 7,
+      "gas:candidate-vibid:4364027200400": 4,
+      "gas:candidate-vibid:4364027200342": 465,
+      "gas:candidate-vibid:4364027200453": 0,
+      "gas:candidate-vibid:4364027200540": 0,
+      "gas:candidate-vibid:4364027200477": 6,
+      "gas:candidate-vibid:4364027200014": 13,
+      "gas:candidate-vibid:4364027200120": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147724&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147724&type=464",
@@ -12905,15 +12905,15 @@ export const duma_2016_uik_463_region_36_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гостев Руслан Георгиевич": 8,
-      "Климов Виталий Николаевич": 5,
-      "Лютикова Марина Владимировна": 0,
-      "Марков Андрей Павлович": 465,
-      "Муштенко Сергей Владимирович": 0,
-      "Очкин Михаил Вячеславович": 0,
-      "Пойманов Сергей Петрович": 5,
-      "Спицына Марина Алексеевна": 2,
-      "Щербаков Юрий Алексеевич": 4
+      "gas:candidate-vibid:4364027199946": 8,
+      "gas:candidate-vibid:4364027200208": 5,
+      "gas:candidate-vibid:4364027200400": 0,
+      "gas:candidate-vibid:4364027200342": 465,
+      "gas:candidate-vibid:4364027200453": 0,
+      "gas:candidate-vibid:4364027200540": 0,
+      "gas:candidate-vibid:4364027200477": 5,
+      "gas:candidate-vibid:4364027200014": 2,
+      "gas:candidate-vibid:4364027200120": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000116&tvd=23620001147724&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147724&type=464",

@@ -42,15 +42,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 333,
-      "Каверин Владимир Викторович": 8,
-      "Каганович Михаил Вениаминович": 5,
-      "Кулагина Галина Сергеевна": 39,
-      "Мухин Сергей Вениаминович": 34,
-      "Романович Александр Леонидович": 97,
-      "Саломатин Николай Михайлович": 12,
-      "Федоров Евгений Аверьянович": 6,
-      "Против всех": 100
+      "gas:candidate-vibid:1001000131400": 333,
+      "gas:candidate-vibid:1001000217932": 8,
+      "gas:candidate-vibid:250200071675": 5,
+      "gas:candidate-vibid:1001000195093": 39,
+      "gas:candidate-vibid:1001000121864": 34,
+      "gas:candidate-vibid:1001000190364": 97,
+      "gas:candidate-vibid:1001000113946": 12,
+      "gas:candidate-vibid:250200071678": 6,
+      "special:against-all": 100
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170366&region=0&sub_region=0&type=429",
@@ -100,15 +100,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 129,
-      "Каверин Владимир Викторович": 6,
-      "Каганович Михаил Вениаминович": 1,
-      "Кулагина Галина Сергеевна": 11,
-      "Мухин Сергей Вениаминович": 12,
-      "Романович Александр Леонидович": 85,
-      "Саломатин Николай Михайлович": 3,
-      "Федоров Евгений Аверьянович": 1,
-      "Против всех": 40
+      "gas:candidate-vibid:1001000131400": 129,
+      "gas:candidate-vibid:1001000217932": 6,
+      "gas:candidate-vibid:250200071675": 1,
+      "gas:candidate-vibid:1001000195093": 11,
+      "gas:candidate-vibid:1001000121864": 12,
+      "gas:candidate-vibid:1001000190364": 85,
+      "gas:candidate-vibid:1001000113946": 3,
+      "gas:candidate-vibid:250200071678": 1,
+      "special:against-all": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170366&region=0&sub_region=0&type=429",
@@ -158,15 +158,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 593,
-      "Каверин Владимир Викторович": 24,
-      "Каганович Михаил Вениаминович": 3,
-      "Кулагина Галина Сергеевна": 55,
-      "Мухин Сергей Вениаминович": 79,
-      "Романович Александр Леонидович": 382,
-      "Саломатин Николай Михайлович": 25,
-      "Федоров Евгений Аверьянович": 10,
-      "Против всех": 211
+      "gas:candidate-vibid:1001000131400": 593,
+      "gas:candidate-vibid:1001000217932": 24,
+      "gas:candidate-vibid:250200071675": 3,
+      "gas:candidate-vibid:1001000195093": 55,
+      "gas:candidate-vibid:1001000121864": 79,
+      "gas:candidate-vibid:1001000190364": 382,
+      "gas:candidate-vibid:1001000113946": 25,
+      "gas:candidate-vibid:250200071678": 10,
+      "special:against-all": 211
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170366&region=0&sub_region=0&type=429",
@@ -216,15 +216,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 513,
-      "Каверин Владимир Викторович": 16,
-      "Каганович Михаил Вениаминович": 5,
-      "Кулагина Галина Сергеевна": 54,
-      "Мухин Сергей Вениаминович": 43,
-      "Романович Александр Леонидович": 175,
-      "Саломатин Николай Михайлович": 20,
-      "Федоров Евгений Аверьянович": 3,
-      "Против всех": 182
+      "gas:candidate-vibid:1001000131400": 513,
+      "gas:candidate-vibid:1001000217932": 16,
+      "gas:candidate-vibid:250200071675": 5,
+      "gas:candidate-vibid:1001000195093": 54,
+      "gas:candidate-vibid:1001000121864": 43,
+      "gas:candidate-vibid:1001000190364": 175,
+      "gas:candidate-vibid:1001000113946": 20,
+      "gas:candidate-vibid:250200071678": 3,
+      "special:against-all": 182
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170366&region=0&sub_region=0&type=429",
@@ -274,15 +274,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 645,
-      "Каверин Владимир Викторович": 14,
-      "Каганович Михаил Вениаминович": 5,
-      "Кулагина Галина Сергеевна": 51,
-      "Мухин Сергей Вениаминович": 61,
-      "Романович Александр Леонидович": 250,
-      "Саломатин Николай Михайлович": 35,
-      "Федоров Евгений Аверьянович": 6,
-      "Против всех": 211
+      "gas:candidate-vibid:1001000131400": 645,
+      "gas:candidate-vibid:1001000217932": 14,
+      "gas:candidate-vibid:250200071675": 5,
+      "gas:candidate-vibid:1001000195093": 51,
+      "gas:candidate-vibid:1001000121864": 61,
+      "gas:candidate-vibid:1001000190364": 250,
+      "gas:candidate-vibid:1001000113946": 35,
+      "gas:candidate-vibid:250200071678": 6,
+      "special:against-all": 211
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170366&region=0&sub_region=0&type=429",
@@ -332,15 +332,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 517,
-      "Каверин Владимир Викторович": 15,
-      "Каганович Михаил Вениаминович": 3,
-      "Кулагина Галина Сергеевна": 48,
-      "Мухин Сергей Вениаминович": 31,
-      "Романович Александр Леонидович": 193,
-      "Саломатин Николай Михайлович": 12,
-      "Федоров Евгений Аверьянович": 6,
-      "Против всех": 175
+      "gas:candidate-vibid:1001000131400": 517,
+      "gas:candidate-vibid:1001000217932": 15,
+      "gas:candidate-vibid:250200071675": 3,
+      "gas:candidate-vibid:1001000195093": 48,
+      "gas:candidate-vibid:1001000121864": 31,
+      "gas:candidate-vibid:1001000190364": 193,
+      "gas:candidate-vibid:1001000113946": 12,
+      "gas:candidate-vibid:250200071678": 6,
+      "special:against-all": 175
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170366&region=0&sub_region=0&type=429",
@@ -390,15 +390,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 724,
-      "Каверин Владимир Викторович": 15,
-      "Каганович Михаил Вениаминович": 6,
-      "Кулагина Галина Сергеевна": 77,
-      "Мухин Сергей Вениаминович": 88,
-      "Романович Александр Леонидович": 295,
-      "Саломатин Николай Михайлович": 39,
-      "Федоров Евгений Аверьянович": 11,
-      "Против всех": 260
+      "gas:candidate-vibid:1001000131400": 724,
+      "gas:candidate-vibid:1001000217932": 15,
+      "gas:candidate-vibid:250200071675": 6,
+      "gas:candidate-vibid:1001000195093": 77,
+      "gas:candidate-vibid:1001000121864": 88,
+      "gas:candidate-vibid:1001000190364": 295,
+      "gas:candidate-vibid:1001000113946": 39,
+      "gas:candidate-vibid:250200071678": 11,
+      "special:against-all": 260
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170366&region=0&sub_region=0&type=429",
@@ -448,15 +448,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 707,
-      "Каверин Владимир Викторович": 26,
-      "Каганович Михаил Вениаминович": 4,
-      "Кулагина Галина Сергеевна": 59,
-      "Мухин Сергей Вениаминович": 58,
-      "Романович Александр Леонидович": 260,
-      "Саломатин Николай Михайлович": 40,
-      "Федоров Евгений Аверьянович": 9,
-      "Против всех": 231
+      "gas:candidate-vibid:1001000131400": 707,
+      "gas:candidate-vibid:1001000217932": 26,
+      "gas:candidate-vibid:250200071675": 4,
+      "gas:candidate-vibid:1001000195093": 59,
+      "gas:candidate-vibid:1001000121864": 58,
+      "gas:candidate-vibid:1001000190364": 260,
+      "gas:candidate-vibid:1001000113946": 40,
+      "gas:candidate-vibid:250200071678": 9,
+      "special:against-all": 231
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170366&region=0&sub_region=0&type=429",
@@ -506,15 +506,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 512,
-      "Каверин Владимир Викторович": 7,
-      "Каганович Михаил Вениаминович": 3,
-      "Кулагина Галина Сергеевна": 45,
-      "Мухин Сергей Вениаминович": 35,
-      "Романович Александр Леонидович": 156,
-      "Саломатин Николай Михайлович": 17,
-      "Федоров Евгений Аверьянович": 4,
-      "Против всех": 143
+      "gas:candidate-vibid:1001000131400": 512,
+      "gas:candidate-vibid:1001000217932": 7,
+      "gas:candidate-vibid:250200071675": 3,
+      "gas:candidate-vibid:1001000195093": 45,
+      "gas:candidate-vibid:1001000121864": 35,
+      "gas:candidate-vibid:1001000190364": 156,
+      "gas:candidate-vibid:1001000113946": 17,
+      "gas:candidate-vibid:250200071678": 4,
+      "special:against-all": 143
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170366&region=0&sub_region=0&type=429",
@@ -564,15 +564,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 299,
-      "Каверин Владимир Викторович": 14,
-      "Каганович Михаил Вениаминович": 4,
-      "Кулагина Галина Сергеевна": 25,
-      "Мухин Сергей Вениаминович": 16,
-      "Романович Александр Леонидович": 94,
-      "Саломатин Николай Михайлович": 7,
-      "Федоров Евгений Аверьянович": 2,
-      "Против всех": 111
+      "gas:candidate-vibid:1001000131400": 299,
+      "gas:candidate-vibid:1001000217932": 14,
+      "gas:candidate-vibid:250200071675": 4,
+      "gas:candidate-vibid:1001000195093": 25,
+      "gas:candidate-vibid:1001000121864": 16,
+      "gas:candidate-vibid:1001000190364": 94,
+      "gas:candidate-vibid:1001000113946": 7,
+      "gas:candidate-vibid:250200071678": 2,
+      "special:against-all": 111
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170366&region=0&sub_region=0&type=429",
@@ -622,15 +622,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 418,
-      "Каверин Владимир Викторович": 10,
-      "Каганович Михаил Вениаминович": 6,
-      "Кулагина Галина Сергеевна": 47,
-      "Мухин Сергей Вениаминович": 36,
-      "Романович Александр Леонидович": 174,
-      "Саломатин Николай Михайлович": 15,
-      "Федоров Евгений Аверьянович": 6,
-      "Против всех": 178
+      "gas:candidate-vibid:1001000131400": 418,
+      "gas:candidate-vibid:1001000217932": 10,
+      "gas:candidate-vibid:250200071675": 6,
+      "gas:candidate-vibid:1001000195093": 47,
+      "gas:candidate-vibid:1001000121864": 36,
+      "gas:candidate-vibid:1001000190364": 174,
+      "gas:candidate-vibid:1001000113946": 15,
+      "gas:candidate-vibid:250200071678": 6,
+      "special:against-all": 178
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170366&region=0&sub_region=0&type=429",
@@ -680,15 +680,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 555,
-      "Каверин Владимир Викторович": 9,
-      "Каганович Михаил Вениаминович": 4,
-      "Кулагина Галина Сергеевна": 51,
-      "Мухин Сергей Вениаминович": 52,
-      "Романович Александр Леонидович": 230,
-      "Саломатин Николай Михайлович": 15,
-      "Федоров Евгений Аверьянович": 4,
-      "Против всех": 171
+      "gas:candidate-vibid:1001000131400": 555,
+      "gas:candidate-vibid:1001000217932": 9,
+      "gas:candidate-vibid:250200071675": 4,
+      "gas:candidate-vibid:1001000195093": 51,
+      "gas:candidate-vibid:1001000121864": 52,
+      "gas:candidate-vibid:1001000190364": 230,
+      "gas:candidate-vibid:1001000113946": 15,
+      "gas:candidate-vibid:250200071678": 4,
+      "special:against-all": 171
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170366&region=0&sub_region=0&type=429",
@@ -738,15 +738,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 499,
-      "Каверин Владимир Викторович": 16,
-      "Каганович Михаил Вениаминович": 1,
-      "Кулагина Галина Сергеевна": 49,
-      "Мухин Сергей Вениаминович": 27,
-      "Романович Александр Леонидович": 254,
-      "Саломатин Николай Михайлович": 20,
-      "Федоров Евгений Аверьянович": 5,
-      "Против всех": 155
+      "gas:candidate-vibid:1001000131400": 499,
+      "gas:candidate-vibid:1001000217932": 16,
+      "gas:candidate-vibid:250200071675": 1,
+      "gas:candidate-vibid:1001000195093": 49,
+      "gas:candidate-vibid:1001000121864": 27,
+      "gas:candidate-vibid:1001000190364": 254,
+      "gas:candidate-vibid:1001000113946": 20,
+      "gas:candidate-vibid:250200071678": 5,
+      "special:against-all": 155
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170366&region=0&sub_region=0&type=429",
@@ -796,15 +796,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 483,
-      "Каверин Владимир Викторович": 16,
-      "Каганович Михаил Вениаминович": 2,
-      "Кулагина Галина Сергеевна": 45,
-      "Мухин Сергей Вениаминович": 32,
-      "Романович Александр Леонидович": 179,
-      "Саломатин Николай Михайлович": 25,
-      "Федоров Евгений Аверьянович": 3,
-      "Против всех": 134
+      "gas:candidate-vibid:1001000131400": 483,
+      "gas:candidate-vibid:1001000217932": 16,
+      "gas:candidate-vibid:250200071675": 2,
+      "gas:candidate-vibid:1001000195093": 45,
+      "gas:candidate-vibid:1001000121864": 32,
+      "gas:candidate-vibid:1001000190364": 179,
+      "gas:candidate-vibid:1001000113946": 25,
+      "gas:candidate-vibid:250200071678": 3,
+      "special:against-all": 134
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170366&region=0&sub_region=0&type=429",
@@ -854,15 +854,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 523,
-      "Каверин Владимир Викторович": 15,
-      "Каганович Михаил Вениаминович": 6,
-      "Кулагина Галина Сергеевна": 57,
-      "Мухин Сергей Вениаминович": 60,
-      "Романович Александр Леонидович": 244,
-      "Саломатин Николай Михайлович": 22,
-      "Федоров Евгений Аверьянович": 3,
-      "Против всех": 160
+      "gas:candidate-vibid:1001000131400": 523,
+      "gas:candidate-vibid:1001000217932": 15,
+      "gas:candidate-vibid:250200071675": 6,
+      "gas:candidate-vibid:1001000195093": 57,
+      "gas:candidate-vibid:1001000121864": 60,
+      "gas:candidate-vibid:1001000190364": 244,
+      "gas:candidate-vibid:1001000113946": 22,
+      "gas:candidate-vibid:250200071678": 3,
+      "special:against-all": 160
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170366&region=0&sub_region=0&type=429",
@@ -912,15 +912,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 122,
-      "Каверин Владимир Викторович": 4,
-      "Каганович Михаил Вениаминович": 1,
-      "Кулагина Галина Сергеевна": 10,
-      "Мухин Сергей Вениаминович": 15,
-      "Романович Александр Леонидович": 40,
-      "Саломатин Николай Михайлович": 6,
-      "Федоров Евгений Аверьянович": 3,
-      "Против всех": 32
+      "gas:candidate-vibid:1001000131400": 122,
+      "gas:candidate-vibid:1001000217932": 4,
+      "gas:candidate-vibid:250200071675": 1,
+      "gas:candidate-vibid:1001000195093": 10,
+      "gas:candidate-vibid:1001000121864": 15,
+      "gas:candidate-vibid:1001000190364": 40,
+      "gas:candidate-vibid:1001000113946": 6,
+      "gas:candidate-vibid:250200071678": 3,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170366&region=0&sub_region=0&type=429",
@@ -970,15 +970,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 466,
-      "Каверин Владимир Викторович": 23,
-      "Каганович Михаил Вениаминович": 5,
-      "Кулагина Галина Сергеевна": 57,
-      "Мухин Сергей Вениаминович": 48,
-      "Романович Александр Леонидович": 190,
-      "Саломатин Николай Михайлович": 22,
-      "Федоров Евгений Аверьянович": 6,
-      "Против всех": 130
+      "gas:candidate-vibid:1001000131400": 466,
+      "gas:candidate-vibid:1001000217932": 23,
+      "gas:candidate-vibid:250200071675": 5,
+      "gas:candidate-vibid:1001000195093": 57,
+      "gas:candidate-vibid:1001000121864": 48,
+      "gas:candidate-vibid:1001000190364": 190,
+      "gas:candidate-vibid:1001000113946": 22,
+      "gas:candidate-vibid:250200071678": 6,
+      "special:against-all": 130
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170366&region=0&sub_region=0&type=429",
@@ -1028,15 +1028,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 621,
-      "Каверин Владимир Викторович": 18,
-      "Каганович Михаил Вениаминович": 8,
-      "Кулагина Галина Сергеевна": 70,
-      "Мухин Сергей Вениаминович": 38,
-      "Романович Александр Леонидович": 363,
-      "Саломатин Николай Михайлович": 32,
-      "Федоров Евгений Аверьянович": 22,
-      "Против всех": 275
+      "gas:candidate-vibid:1001000131400": 621,
+      "gas:candidate-vibid:1001000217932": 18,
+      "gas:candidate-vibid:250200071675": 8,
+      "gas:candidate-vibid:1001000195093": 70,
+      "gas:candidate-vibid:1001000121864": 38,
+      "gas:candidate-vibid:1001000190364": 363,
+      "gas:candidate-vibid:1001000113946": 32,
+      "gas:candidate-vibid:250200071678": 22,
+      "special:against-all": 275
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170366&region=0&sub_region=0&type=429",
@@ -1086,15 +1086,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 614,
-      "Каверин Владимир Викторович": 21,
-      "Каганович Михаил Вениаминович": 7,
-      "Кулагина Галина Сергеевна": 52,
-      "Мухин Сергей Вениаминович": 54,
-      "Романович Александр Леонидович": 209,
-      "Саломатин Николай Михайлович": 23,
-      "Федоров Евгений Аверьянович": 8,
-      "Против всех": 181
+      "gas:candidate-vibid:1001000131400": 614,
+      "gas:candidate-vibid:1001000217932": 21,
+      "gas:candidate-vibid:250200071675": 7,
+      "gas:candidate-vibid:1001000195093": 52,
+      "gas:candidate-vibid:1001000121864": 54,
+      "gas:candidate-vibid:1001000190364": 209,
+      "gas:candidate-vibid:1001000113946": 23,
+      "gas:candidate-vibid:250200071678": 8,
+      "special:against-all": 181
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170366&region=0&sub_region=0&type=429",
@@ -1144,15 +1144,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 505,
-      "Каверин Владимир Викторович": 10,
-      "Каганович Михаил Вениаминович": 3,
-      "Кулагина Галина Сергеевна": 52,
-      "Мухин Сергей Вениаминович": 46,
-      "Романович Александр Леонидович": 163,
-      "Саломатин Николай Михайлович": 13,
-      "Федоров Евгений Аверьянович": 10,
-      "Против всех": 166
+      "gas:candidate-vibid:1001000131400": 505,
+      "gas:candidate-vibid:1001000217932": 10,
+      "gas:candidate-vibid:250200071675": 3,
+      "gas:candidate-vibid:1001000195093": 52,
+      "gas:candidate-vibid:1001000121864": 46,
+      "gas:candidate-vibid:1001000190364": 163,
+      "gas:candidate-vibid:1001000113946": 13,
+      "gas:candidate-vibid:250200071678": 10,
+      "special:against-all": 166
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170366&region=0&sub_region=0&type=429",
@@ -1202,15 +1202,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 659,
-      "Каверин Владимир Викторович": 17,
-      "Каганович Михаил Вениаминович": 3,
-      "Кулагина Галина Сергеевна": 68,
-      "Мухин Сергей Вениаминович": 52,
-      "Романович Александр Леонидович": 264,
-      "Саломатин Николай Михайлович": 21,
-      "Федоров Евгений Аверьянович": 10,
-      "Против всех": 189
+      "gas:candidate-vibid:1001000131400": 659,
+      "gas:candidate-vibid:1001000217932": 17,
+      "gas:candidate-vibid:250200071675": 3,
+      "gas:candidate-vibid:1001000195093": 68,
+      "gas:candidate-vibid:1001000121864": 52,
+      "gas:candidate-vibid:1001000190364": 264,
+      "gas:candidate-vibid:1001000113946": 21,
+      "gas:candidate-vibid:250200071678": 10,
+      "special:against-all": 189
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170366&region=0&sub_region=0&type=429",
@@ -1260,15 +1260,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 569,
-      "Каверин Владимир Викторович": 15,
-      "Каганович Михаил Вениаминович": 6,
-      "Кулагина Галина Сергеевна": 35,
-      "Мухин Сергей Вениаминович": 37,
-      "Романович Александр Леонидович": 214,
-      "Саломатин Николай Михайлович": 30,
-      "Федоров Евгений Аверьянович": 6,
-      "Против всех": 135
+      "gas:candidate-vibid:1001000131400": 569,
+      "gas:candidate-vibid:1001000217932": 15,
+      "gas:candidate-vibid:250200071675": 6,
+      "gas:candidate-vibid:1001000195093": 35,
+      "gas:candidate-vibid:1001000121864": 37,
+      "gas:candidate-vibid:1001000190364": 214,
+      "gas:candidate-vibid:1001000113946": 30,
+      "gas:candidate-vibid:250200071678": 6,
+      "special:against-all": 135
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170366&region=0&sub_region=0&type=429",
@@ -1318,15 +1318,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 663,
-      "Каверин Владимир Викторович": 24,
-      "Каганович Михаил Вениаминович": 6,
-      "Кулагина Галина Сергеевна": 59,
-      "Мухин Сергей Вениаминович": 93,
-      "Романович Александр Леонидович": 275,
-      "Саломатин Николай Михайлович": 19,
-      "Федоров Евгений Аверьянович": 9,
-      "Против всех": 197
+      "gas:candidate-vibid:1001000131400": 663,
+      "gas:candidate-vibid:1001000217932": 24,
+      "gas:candidate-vibid:250200071675": 6,
+      "gas:candidate-vibid:1001000195093": 59,
+      "gas:candidate-vibid:1001000121864": 93,
+      "gas:candidate-vibid:1001000190364": 275,
+      "gas:candidate-vibid:1001000113946": 19,
+      "gas:candidate-vibid:250200071678": 9,
+      "special:against-all": 197
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170366&region=0&sub_region=0&type=429",
@@ -1376,15 +1376,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 660,
-      "Каверин Владимир Викторович": 16,
-      "Каганович Михаил Вениаминович": 3,
-      "Кулагина Галина Сергеевна": 66,
-      "Мухин Сергей Вениаминович": 84,
-      "Романович Александр Леонидович": 220,
-      "Саломатин Николай Михайлович": 44,
-      "Федоров Евгений Аверьянович": 11,
-      "Против всех": 195
+      "gas:candidate-vibid:1001000131400": 660,
+      "gas:candidate-vibid:1001000217932": 16,
+      "gas:candidate-vibid:250200071675": 3,
+      "gas:candidate-vibid:1001000195093": 66,
+      "gas:candidate-vibid:1001000121864": 84,
+      "gas:candidate-vibid:1001000190364": 220,
+      "gas:candidate-vibid:1001000113946": 44,
+      "gas:candidate-vibid:250200071678": 11,
+      "special:against-all": 195
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170366&region=0&sub_region=0&type=429",
@@ -1434,15 +1434,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 267,
-      "Каверин Владимир Викторович": 4,
-      "Каганович Михаил Вениаминович": 3,
-      "Кулагина Галина Сергеевна": 27,
-      "Мухин Сергей Вениаминович": 17,
-      "Романович Александр Леонидович": 80,
-      "Саломатин Николай Михайлович": 11,
-      "Федоров Евгений Аверьянович": 4,
-      "Против всех": 64
+      "gas:candidate-vibid:1001000131400": 267,
+      "gas:candidate-vibid:1001000217932": 4,
+      "gas:candidate-vibid:250200071675": 3,
+      "gas:candidate-vibid:1001000195093": 27,
+      "gas:candidate-vibid:1001000121864": 17,
+      "gas:candidate-vibid:1001000190364": 80,
+      "gas:candidate-vibid:1001000113946": 11,
+      "gas:candidate-vibid:250200071678": 4,
+      "special:against-all": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170366&region=0&sub_region=0&type=429",
@@ -1492,15 +1492,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 382,
-      "Каверин Владимир Викторович": 14,
-      "Каганович Михаил Вениаминович": 5,
-      "Кулагина Галина Сергеевна": 33,
-      "Мухин Сергей Вениаминович": 42,
-      "Романович Александр Леонидович": 95,
-      "Саломатин Николай Михайлович": 18,
-      "Федоров Евгений Аверьянович": 8,
-      "Против всех": 79
+      "gas:candidate-vibid:1001000131400": 382,
+      "gas:candidate-vibid:1001000217932": 14,
+      "gas:candidate-vibid:250200071675": 5,
+      "gas:candidate-vibid:1001000195093": 33,
+      "gas:candidate-vibid:1001000121864": 42,
+      "gas:candidate-vibid:1001000190364": 95,
+      "gas:candidate-vibid:1001000113946": 18,
+      "gas:candidate-vibid:250200071678": 8,
+      "special:against-all": 79
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170366&region=0&sub_region=0&type=429",
@@ -1550,15 +1550,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 245,
-      "Каверин Владимир Викторович": 5,
-      "Каганович Михаил Вениаминович": 1,
-      "Кулагина Галина Сергеевна": 13,
-      "Мухин Сергей Вениаминович": 11,
-      "Романович Александр Леонидович": 86,
-      "Саломатин Николай Михайлович": 9,
-      "Федоров Евгений Аверьянович": 4,
-      "Против всех": 61
+      "gas:candidate-vibid:1001000131400": 245,
+      "gas:candidate-vibid:1001000217932": 5,
+      "gas:candidate-vibid:250200071675": 1,
+      "gas:candidate-vibid:1001000195093": 13,
+      "gas:candidate-vibid:1001000121864": 11,
+      "gas:candidate-vibid:1001000190364": 86,
+      "gas:candidate-vibid:1001000113946": 9,
+      "gas:candidate-vibid:250200071678": 4,
+      "special:against-all": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170366&region=0&sub_region=0&type=429",
@@ -1608,15 +1608,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 428,
-      "Каверин Владимир Викторович": 22,
-      "Каганович Михаил Вениаминович": 3,
-      "Кулагина Галина Сергеевна": 25,
-      "Мухин Сергей Вениаминович": 22,
-      "Романович Александр Леонидович": 146,
-      "Саломатин Николай Михайлович": 8,
-      "Федоров Евгений Аверьянович": 9,
-      "Против всех": 84
+      "gas:candidate-vibid:1001000131400": 428,
+      "gas:candidate-vibid:1001000217932": 22,
+      "gas:candidate-vibid:250200071675": 3,
+      "gas:candidate-vibid:1001000195093": 25,
+      "gas:candidate-vibid:1001000121864": 22,
+      "gas:candidate-vibid:1001000190364": 146,
+      "gas:candidate-vibid:1001000113946": 8,
+      "gas:candidate-vibid:250200071678": 9,
+      "special:against-all": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170366&region=0&sub_region=0&type=429",
@@ -1666,15 +1666,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 749,
-      "Каверин Владимир Викторович": 26,
-      "Каганович Михаил Вениаминович": 5,
-      "Кулагина Галина Сергеевна": 76,
-      "Мухин Сергей Вениаминович": 37,
-      "Романович Александр Леонидович": 98,
-      "Саломатин Николай Михайлович": 39,
-      "Федоров Евгений Аверьянович": 13,
-      "Против всех": 295
+      "gas:candidate-vibid:1001000131400": 749,
+      "gas:candidate-vibid:1001000217932": 26,
+      "gas:candidate-vibid:250200071675": 5,
+      "gas:candidate-vibid:1001000195093": 76,
+      "gas:candidate-vibid:1001000121864": 37,
+      "gas:candidate-vibid:1001000190364": 98,
+      "gas:candidate-vibid:1001000113946": 39,
+      "gas:candidate-vibid:250200071678": 13,
+      "special:against-all": 295
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170366&region=0&sub_region=0&type=429",
@@ -1724,15 +1724,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 12
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 272,
-      "Каверин Владимир Викторович": 7,
-      "Каганович Михаил Вениаминович": 0,
-      "Кулагина Галина Сергеевна": 30,
-      "Мухин Сергей Вениаминович": 22,
-      "Романович Александр Леонидович": 42,
-      "Саломатин Николай Михайлович": 24,
-      "Федоров Евгений Аверьянович": 12,
-      "Против всех": 101
+      "gas:candidate-vibid:1001000131400": 272,
+      "gas:candidate-vibid:1001000217932": 7,
+      "gas:candidate-vibid:250200071675": 0,
+      "gas:candidate-vibid:1001000195093": 30,
+      "gas:candidate-vibid:1001000121864": 22,
+      "gas:candidate-vibid:1001000190364": 42,
+      "gas:candidate-vibid:1001000113946": 24,
+      "gas:candidate-vibid:250200071678": 12,
+      "special:against-all": 101
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170366&region=0&sub_region=0&type=429",
@@ -1782,15 +1782,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 629,
-      "Каверин Владимир Викторович": 7,
-      "Каганович Михаил Вениаминович": 7,
-      "Кулагина Галина Сергеевна": 60,
-      "Мухин Сергей Вениаминович": 49,
-      "Романович Александр Леонидович": 111,
-      "Саломатин Николай Михайлович": 43,
-      "Федоров Евгений Аверьянович": 16,
-      "Против всех": 254
+      "gas:candidate-vibid:1001000131400": 629,
+      "gas:candidate-vibid:1001000217932": 7,
+      "gas:candidate-vibid:250200071675": 7,
+      "gas:candidate-vibid:1001000195093": 60,
+      "gas:candidate-vibid:1001000121864": 49,
+      "gas:candidate-vibid:1001000190364": 111,
+      "gas:candidate-vibid:1001000113946": 43,
+      "gas:candidate-vibid:250200071678": 16,
+      "special:against-all": 254
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170366&region=0&sub_region=0&type=429",
@@ -1840,15 +1840,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 502,
-      "Каверин Владимир Викторович": 19,
-      "Каганович Михаил Вениаминович": 5,
-      "Кулагина Галина Сергеевна": 81,
-      "Мухин Сергей Вениаминович": 45,
-      "Романович Александр Леонидович": 153,
-      "Саломатин Николай Михайлович": 20,
-      "Федоров Евгений Аверьянович": 13,
-      "Против всех": 197
+      "gas:candidate-vibid:1001000131400": 502,
+      "gas:candidate-vibid:1001000217932": 19,
+      "gas:candidate-vibid:250200071675": 5,
+      "gas:candidate-vibid:1001000195093": 81,
+      "gas:candidate-vibid:1001000121864": 45,
+      "gas:candidate-vibid:1001000190364": 153,
+      "gas:candidate-vibid:1001000113946": 20,
+      "gas:candidate-vibid:250200071678": 13,
+      "special:against-all": 197
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170366&region=0&sub_region=0&type=429",
@@ -1898,15 +1898,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 8
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 261,
-      "Каверин Владимир Викторович": 9,
-      "Каганович Михаил Вениаминович": 0,
-      "Кулагина Галина Сергеевна": 28,
-      "Мухин Сергей Вениаминович": 14,
-      "Романович Александр Леонидович": 72,
-      "Саломатин Николай Михайлович": 14,
-      "Федоров Евгений Аверьянович": 1,
-      "Против всех": 41
+      "gas:candidate-vibid:1001000131400": 261,
+      "gas:candidate-vibid:1001000217932": 9,
+      "gas:candidate-vibid:250200071675": 0,
+      "gas:candidate-vibid:1001000195093": 28,
+      "gas:candidate-vibid:1001000121864": 14,
+      "gas:candidate-vibid:1001000190364": 72,
+      "gas:candidate-vibid:1001000113946": 14,
+      "gas:candidate-vibid:250200071678": 1,
+      "special:against-all": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170366&region=0&sub_region=0&type=429",
@@ -1956,15 +1956,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 508,
-      "Каверин Владимир Викторович": 35,
-      "Каганович Михаил Вениаминович": 8,
-      "Кулагина Галина Сергеевна": 53,
-      "Мухин Сергей Вениаминович": 40,
-      "Романович Александр Леонидович": 121,
-      "Саломатин Николай Михайлович": 36,
-      "Федоров Евгений Аверьянович": 10,
-      "Против всех": 163
+      "gas:candidate-vibid:1001000131400": 508,
+      "gas:candidate-vibid:1001000217932": 35,
+      "gas:candidate-vibid:250200071675": 8,
+      "gas:candidate-vibid:1001000195093": 53,
+      "gas:candidate-vibid:1001000121864": 40,
+      "gas:candidate-vibid:1001000190364": 121,
+      "gas:candidate-vibid:1001000113946": 36,
+      "gas:candidate-vibid:250200071678": 10,
+      "special:against-all": 163
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170366&region=0&sub_region=0&type=429",
@@ -2014,15 +2014,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 356,
-      "Каверин Владимир Викторович": 8,
-      "Каганович Михаил Вениаминович": 5,
-      "Кулагина Галина Сергеевна": 35,
-      "Мухин Сергей Вениаминович": 52,
-      "Романович Александр Леонидович": 33,
-      "Саломатин Николай Михайлович": 22,
-      "Федоров Евгений Аверьянович": 13,
-      "Против всех": 80
+      "gas:candidate-vibid:1001000131400": 356,
+      "gas:candidate-vibid:1001000217932": 8,
+      "gas:candidate-vibid:250200071675": 5,
+      "gas:candidate-vibid:1001000195093": 35,
+      "gas:candidate-vibid:1001000121864": 52,
+      "gas:candidate-vibid:1001000190364": 33,
+      "gas:candidate-vibid:1001000113946": 22,
+      "gas:candidate-vibid:250200071678": 13,
+      "special:against-all": 80
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170366&region=0&sub_region=0&type=429",
@@ -2072,15 +2072,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 418,
-      "Каверин Владимир Викторович": 64,
-      "Каганович Михаил Вениаминович": 16,
-      "Кулагина Галина Сергеевна": 101,
-      "Мухин Сергей Вениаминович": 72,
-      "Романович Александр Леонидович": 40,
-      "Саломатин Николай Михайлович": 88,
-      "Федоров Евгений Аверьянович": 29,
-      "Против всех": 217
+      "gas:candidate-vibid:1001000131400": 418,
+      "gas:candidate-vibid:1001000217932": 64,
+      "gas:candidate-vibid:250200071675": 16,
+      "gas:candidate-vibid:1001000195093": 101,
+      "gas:candidate-vibid:1001000121864": 72,
+      "gas:candidate-vibid:1001000190364": 40,
+      "gas:candidate-vibid:1001000113946": 88,
+      "gas:candidate-vibid:250200071678": 29,
+      "special:against-all": 217
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170366&region=0&sub_region=0&type=429",
@@ -2130,15 +2130,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 362,
-      "Каверин Владимир Викторович": 21,
-      "Каганович Михаил Вениаминович": 14,
-      "Кулагина Галина Сергеевна": 61,
-      "Мухин Сергей Вениаминович": 46,
-      "Романович Александр Леонидович": 21,
-      "Саломатин Николай Михайлович": 23,
-      "Федоров Евгений Аверьянович": 17,
-      "Против всех": 170
+      "gas:candidate-vibid:1001000131400": 362,
+      "gas:candidate-vibid:1001000217932": 21,
+      "gas:candidate-vibid:250200071675": 14,
+      "gas:candidate-vibid:1001000195093": 61,
+      "gas:candidate-vibid:1001000121864": 46,
+      "gas:candidate-vibid:1001000190364": 21,
+      "gas:candidate-vibid:1001000113946": 23,
+      "gas:candidate-vibid:250200071678": 17,
+      "special:against-all": 170
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170366&region=0&sub_region=0&type=429",
@@ -2188,15 +2188,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 343,
-      "Каверин Владимир Викторович": 32,
-      "Каганович Михаил Вениаминович": 6,
-      "Кулагина Галина Сергеевна": 71,
-      "Мухин Сергей Вениаминович": 59,
-      "Романович Александр Леонидович": 29,
-      "Саломатин Николай Михайлович": 26,
-      "Федоров Евгений Аверьянович": 22,
-      "Против всех": 165
+      "gas:candidate-vibid:1001000131400": 343,
+      "gas:candidate-vibid:1001000217932": 32,
+      "gas:candidate-vibid:250200071675": 6,
+      "gas:candidate-vibid:1001000195093": 71,
+      "gas:candidate-vibid:1001000121864": 59,
+      "gas:candidate-vibid:1001000190364": 29,
+      "gas:candidate-vibid:1001000113946": 26,
+      "gas:candidate-vibid:250200071678": 22,
+      "special:against-all": 165
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170366&region=0&sub_region=0&type=429",
@@ -2246,15 +2246,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 275,
-      "Каверин Владимир Викторович": 16,
-      "Каганович Михаил Вениаминович": 4,
-      "Кулагина Галина Сергеевна": 47,
-      "Мухин Сергей Вениаминович": 34,
-      "Романович Александр Леонидович": 26,
-      "Саломатин Николай Михайлович": 21,
-      "Федоров Евгений Аверьянович": 9,
-      "Против всех": 175
+      "gas:candidate-vibid:1001000131400": 275,
+      "gas:candidate-vibid:1001000217932": 16,
+      "gas:candidate-vibid:250200071675": 4,
+      "gas:candidate-vibid:1001000195093": 47,
+      "gas:candidate-vibid:1001000121864": 34,
+      "gas:candidate-vibid:1001000190364": 26,
+      "gas:candidate-vibid:1001000113946": 21,
+      "gas:candidate-vibid:250200071678": 9,
+      "special:against-all": 175
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170366&region=0&sub_region=0&type=429",
@@ -2304,15 +2304,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 503,
-      "Каверин Владимир Викторович": 71,
-      "Каганович Михаил Вениаминович": 9,
-      "Кулагина Галина Сергеевна": 144,
-      "Мухин Сергей Вениаминович": 25,
-      "Романович Александр Леонидович": 69,
-      "Саломатин Николай Михайлович": 48,
-      "Федоров Евгений Аверьянович": 36,
-      "Против всех": 292
+      "gas:candidate-vibid:1001000131400": 503,
+      "gas:candidate-vibid:1001000217932": 71,
+      "gas:candidate-vibid:250200071675": 9,
+      "gas:candidate-vibid:1001000195093": 144,
+      "gas:candidate-vibid:1001000121864": 25,
+      "gas:candidate-vibid:1001000190364": 69,
+      "gas:candidate-vibid:1001000113946": 48,
+      "gas:candidate-vibid:250200071678": 36,
+      "special:against-all": 292
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170366&region=0&sub_region=0&type=429",
@@ -2362,15 +2362,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 285,
-      "Каверин Владимир Викторович": 13,
-      "Каганович Михаил Вениаминович": 2,
-      "Кулагина Галина Сергеевна": 23,
-      "Мухин Сергей Вениаминович": 33,
-      "Романович Александр Леонидович": 52,
-      "Саломатин Николай Михайлович": 26,
-      "Федоров Евгений Аверьянович": 7,
-      "Против всех": 93
+      "gas:candidate-vibid:1001000131400": 285,
+      "gas:candidate-vibid:1001000217932": 13,
+      "gas:candidate-vibid:250200071675": 2,
+      "gas:candidate-vibid:1001000195093": 23,
+      "gas:candidate-vibid:1001000121864": 33,
+      "gas:candidate-vibid:1001000190364": 52,
+      "gas:candidate-vibid:1001000113946": 26,
+      "gas:candidate-vibid:250200071678": 7,
+      "special:against-all": 93
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170366&region=0&sub_region=0&type=429",
@@ -2420,15 +2420,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 331,
-      "Каверин Владимир Викторович": 15,
-      "Каганович Михаил Вениаминович": 6,
-      "Кулагина Галина Сергеевна": 41,
-      "Мухин Сергей Вениаминович": 31,
-      "Романович Александр Леонидович": 56,
-      "Саломатин Николай Михайлович": 27,
-      "Федоров Евгений Аверьянович": 7,
-      "Против всех": 121
+      "gas:candidate-vibid:1001000131400": 331,
+      "gas:candidate-vibid:1001000217932": 15,
+      "gas:candidate-vibid:250200071675": 6,
+      "gas:candidate-vibid:1001000195093": 41,
+      "gas:candidate-vibid:1001000121864": 31,
+      "gas:candidate-vibid:1001000190364": 56,
+      "gas:candidate-vibid:1001000113946": 27,
+      "gas:candidate-vibid:250200071678": 7,
+      "special:against-all": 121
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170366&region=0&sub_region=0&type=429",
@@ -2478,15 +2478,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 466,
-      "Каверин Владимир Викторович": 11,
-      "Каганович Михаил Вениаминович": 2,
-      "Кулагина Галина Сергеевна": 55,
-      "Мухин Сергей Вениаминович": 17,
-      "Романович Александр Леонидович": 56,
-      "Саломатин Николай Михайлович": 18,
-      "Федоров Евгений Аверьянович": 4,
-      "Против всех": 111
+      "gas:candidate-vibid:1001000131400": 466,
+      "gas:candidate-vibid:1001000217932": 11,
+      "gas:candidate-vibid:250200071675": 2,
+      "gas:candidate-vibid:1001000195093": 55,
+      "gas:candidate-vibid:1001000121864": 17,
+      "gas:candidate-vibid:1001000190364": 56,
+      "gas:candidate-vibid:1001000113946": 18,
+      "gas:candidate-vibid:250200071678": 4,
+      "special:against-all": 111
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170366&region=0&sub_region=0&type=429",
@@ -2536,15 +2536,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 481,
-      "Каверин Владимир Викторович": 27,
-      "Каганович Михаил Вениаминович": 2,
-      "Кулагина Галина Сергеевна": 55,
-      "Мухин Сергей Вениаминович": 23,
-      "Романович Александр Леонидович": 108,
-      "Саломатин Николай Михайлович": 30,
-      "Федоров Евгений Аверьянович": 6,
-      "Против всех": 139
+      "gas:candidate-vibid:1001000131400": 481,
+      "gas:candidate-vibid:1001000217932": 27,
+      "gas:candidate-vibid:250200071675": 2,
+      "gas:candidate-vibid:1001000195093": 55,
+      "gas:candidate-vibid:1001000121864": 23,
+      "gas:candidate-vibid:1001000190364": 108,
+      "gas:candidate-vibid:1001000113946": 30,
+      "gas:candidate-vibid:250200071678": 6,
+      "special:against-all": 139
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170366&region=0&sub_region=0&type=429",
@@ -2594,15 +2594,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 141,
-      "Каверин Владимир Викторович": 10,
-      "Каганович Михаил Вениаминович": 9,
-      "Кулагина Галина Сергеевна": 1,
-      "Мухин Сергей Вениаминович": 6,
-      "Романович Александр Леонидович": 27,
-      "Саломатин Николай Михайлович": 7,
-      "Федоров Евгений Аверьянович": 6,
-      "Против всех": 30
+      "gas:candidate-vibid:1001000131400": 141,
+      "gas:candidate-vibid:1001000217932": 10,
+      "gas:candidate-vibid:250200071675": 9,
+      "gas:candidate-vibid:1001000195093": 1,
+      "gas:candidate-vibid:1001000121864": 6,
+      "gas:candidate-vibid:1001000190364": 27,
+      "gas:candidate-vibid:1001000113946": 7,
+      "gas:candidate-vibid:250200071678": 6,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170366&region=0&sub_region=0&type=429",
@@ -2652,15 +2652,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 401,
-      "Каверин Владимир Викторович": 25,
-      "Каганович Михаил Вениаминович": 3,
-      "Кулагина Галина Сергеевна": 38,
-      "Мухин Сергей Вениаминович": 15,
-      "Романович Александр Леонидович": 43,
-      "Саломатин Николай Михайлович": 22,
-      "Федоров Евгений Аверьянович": 2,
-      "Против всех": 126
+      "gas:candidate-vibid:1001000131400": 401,
+      "gas:candidate-vibid:1001000217932": 25,
+      "gas:candidate-vibid:250200071675": 3,
+      "gas:candidate-vibid:1001000195093": 38,
+      "gas:candidate-vibid:1001000121864": 15,
+      "gas:candidate-vibid:1001000190364": 43,
+      "gas:candidate-vibid:1001000113946": 22,
+      "gas:candidate-vibid:250200071678": 2,
+      "special:against-all": 126
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170366&region=0&sub_region=0&type=429",
@@ -2710,15 +2710,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 266,
-      "Каверин Владимир Викторович": 4,
-      "Каганович Михаил Вениаминович": 9,
-      "Кулагина Галина Сергеевна": 24,
-      "Мухин Сергей Вениаминович": 14,
-      "Романович Александр Леонидович": 39,
-      "Саломатин Николай Михайлович": 3,
-      "Федоров Евгений Аверьянович": 8,
-      "Против всех": 65
+      "gas:candidate-vibid:1001000131400": 266,
+      "gas:candidate-vibid:1001000217932": 4,
+      "gas:candidate-vibid:250200071675": 9,
+      "gas:candidate-vibid:1001000195093": 24,
+      "gas:candidate-vibid:1001000121864": 14,
+      "gas:candidate-vibid:1001000190364": 39,
+      "gas:candidate-vibid:1001000113946": 3,
+      "gas:candidate-vibid:250200071678": 8,
+      "special:against-all": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170366&region=0&sub_region=0&type=429",
@@ -2768,15 +2768,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 663,
-      "Каверин Владимир Викторович": 13,
-      "Каганович Михаил Вениаминович": 9,
-      "Кулагина Галина Сергеевна": 58,
-      "Мухин Сергей Вениаминович": 44,
-      "Романович Александр Леонидович": 158,
-      "Саломатин Николай Михайлович": 7,
-      "Федоров Евгений Аверьянович": 8,
-      "Против всех": 220
+      "gas:candidate-vibid:1001000131400": 663,
+      "gas:candidate-vibid:1001000217932": 13,
+      "gas:candidate-vibid:250200071675": 9,
+      "gas:candidate-vibid:1001000195093": 58,
+      "gas:candidate-vibid:1001000121864": 44,
+      "gas:candidate-vibid:1001000190364": 158,
+      "gas:candidate-vibid:1001000113946": 7,
+      "gas:candidate-vibid:250200071678": 8,
+      "special:against-all": 220
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170366&region=0&sub_region=0&type=429",
@@ -2826,15 +2826,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 188,
-      "Каверин Владимир Викторович": 10,
-      "Каганович Михаил Вениаминович": 5,
-      "Кулагина Галина Сергеевна": 7,
-      "Мухин Сергей Вениаминович": 6,
-      "Романович Александр Леонидович": 156,
-      "Саломатин Николай Михайлович": 1,
-      "Федоров Евгений Аверьянович": 4,
-      "Против всех": 38
+      "gas:candidate-vibid:1001000131400": 188,
+      "gas:candidate-vibid:1001000217932": 10,
+      "gas:candidate-vibid:250200071675": 5,
+      "gas:candidate-vibid:1001000195093": 7,
+      "gas:candidate-vibid:1001000121864": 6,
+      "gas:candidate-vibid:1001000190364": 156,
+      "gas:candidate-vibid:1001000113946": 1,
+      "gas:candidate-vibid:250200071678": 4,
+      "special:against-all": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170366&region=0&sub_region=0&type=429",
@@ -2884,15 +2884,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 244,
-      "Каверин Владимир Викторович": 9,
-      "Каганович Михаил Вениаминович": 2,
-      "Кулагина Галина Сергеевна": 11,
-      "Мухин Сергей Вениаминович": 15,
-      "Романович Александр Леонидович": 55,
-      "Саломатин Николай Михайлович": 13,
-      "Федоров Евгений Аверьянович": 5,
-      "Против всех": 55
+      "gas:candidate-vibid:1001000131400": 244,
+      "gas:candidate-vibid:1001000217932": 9,
+      "gas:candidate-vibid:250200071675": 2,
+      "gas:candidate-vibid:1001000195093": 11,
+      "gas:candidate-vibid:1001000121864": 15,
+      "gas:candidate-vibid:1001000190364": 55,
+      "gas:candidate-vibid:1001000113946": 13,
+      "gas:candidate-vibid:250200071678": 5,
+      "special:against-all": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170366&region=0&sub_region=0&type=429",
@@ -2942,15 +2942,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 198,
-      "Каверин Владимир Викторович": 4,
-      "Каганович Михаил Вениаминович": 3,
-      "Кулагина Галина Сергеевна": 20,
-      "Мухин Сергей Вениаминович": 9,
-      "Романович Александр Леонидович": 45,
-      "Саломатин Николай Михайлович": 8,
-      "Федоров Евгений Аверьянович": 2,
-      "Против всех": 72
+      "gas:candidate-vibid:1001000131400": 198,
+      "gas:candidate-vibid:1001000217932": 4,
+      "gas:candidate-vibid:250200071675": 3,
+      "gas:candidate-vibid:1001000195093": 20,
+      "gas:candidate-vibid:1001000121864": 9,
+      "gas:candidate-vibid:1001000190364": 45,
+      "gas:candidate-vibid:1001000113946": 8,
+      "gas:candidate-vibid:250200071678": 2,
+      "special:against-all": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170366&region=0&sub_region=0&type=429",
@@ -3000,15 +3000,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 463,
-      "Каверин Владимир Викторович": 23,
-      "Каганович Михаил Вениаминович": 6,
-      "Кулагина Галина Сергеевна": 58,
-      "Мухин Сергей Вениаминович": 18,
-      "Романович Александр Леонидович": 24,
-      "Саломатин Николай Михайлович": 26,
-      "Федоров Евгений Аверьянович": 16,
-      "Против всех": 181
+      "gas:candidate-vibid:1001000131400": 463,
+      "gas:candidate-vibid:1001000217932": 23,
+      "gas:candidate-vibid:250200071675": 6,
+      "gas:candidate-vibid:1001000195093": 58,
+      "gas:candidate-vibid:1001000121864": 18,
+      "gas:candidate-vibid:1001000190364": 24,
+      "gas:candidate-vibid:1001000113946": 26,
+      "gas:candidate-vibid:250200071678": 16,
+      "special:against-all": 181
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170366&region=0&sub_region=0&type=429",
@@ -3058,15 +3058,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 342,
-      "Каверин Владимир Викторович": 16,
-      "Каганович Михаил Вениаминович": 2,
-      "Кулагина Галина Сергеевна": 26,
-      "Мухин Сергей Вениаминович": 22,
-      "Романович Александр Леонидович": 12,
-      "Саломатин Николай Михайлович": 8,
-      "Федоров Евгений Аверьянович": 8,
-      "Против всех": 71
+      "gas:candidate-vibid:1001000131400": 342,
+      "gas:candidate-vibid:1001000217932": 16,
+      "gas:candidate-vibid:250200071675": 2,
+      "gas:candidate-vibid:1001000195093": 26,
+      "gas:candidate-vibid:1001000121864": 22,
+      "gas:candidate-vibid:1001000190364": 12,
+      "gas:candidate-vibid:1001000113946": 8,
+      "gas:candidate-vibid:250200071678": 8,
+      "special:against-all": 71
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170366&region=0&sub_region=0&type=429",
@@ -3116,15 +3116,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 200,
-      "Каверин Владимир Викторович": 20,
-      "Каганович Михаил Вениаминович": 3,
-      "Кулагина Галина Сергеевна": 38,
-      "Мухин Сергей Вениаминович": 134,
-      "Романович Александр Леонидович": 22,
-      "Саломатин Николай Михайлович": 12,
-      "Федоров Евгений Аверьянович": 7,
-      "Против всех": 90
+      "gas:candidate-vibid:1001000131400": 200,
+      "gas:candidate-vibid:1001000217932": 20,
+      "gas:candidate-vibid:250200071675": 3,
+      "gas:candidate-vibid:1001000195093": 38,
+      "gas:candidate-vibid:1001000121864": 134,
+      "gas:candidate-vibid:1001000190364": 22,
+      "gas:candidate-vibid:1001000113946": 12,
+      "gas:candidate-vibid:250200071678": 7,
+      "special:against-all": 90
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170366&region=0&sub_region=0&type=429",
@@ -3174,15 +3174,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 62,
-      "Каверин Владимир Викторович": 7,
-      "Каганович Михаил Вениаминович": 4,
-      "Кулагина Галина Сергеевна": 15,
-      "Мухин Сергей Вениаминович": 19,
-      "Романович Александр Леонидович": 16,
-      "Саломатин Николай Михайлович": 4,
-      "Федоров Евгений Аверьянович": 3,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000131400": 62,
+      "gas:candidate-vibid:1001000217932": 7,
+      "gas:candidate-vibid:250200071675": 4,
+      "gas:candidate-vibid:1001000195093": 15,
+      "gas:candidate-vibid:1001000121864": 19,
+      "gas:candidate-vibid:1001000190364": 16,
+      "gas:candidate-vibid:1001000113946": 4,
+      "gas:candidate-vibid:250200071678": 3,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170366&region=0&sub_region=0&type=429",
@@ -3232,15 +3232,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 204,
-      "Каверин Владимир Викторович": 6,
-      "Каганович Михаил Вениаминович": 1,
-      "Кулагина Галина Сергеевна": 11,
-      "Мухин Сергей Вениаминович": 30,
-      "Романович Александр Леонидович": 41,
-      "Саломатин Николай Михайлович": 2,
-      "Федоров Евгений Аверьянович": 2,
-      "Против всех": 56
+      "gas:candidate-vibid:1001000131400": 204,
+      "gas:candidate-vibid:1001000217932": 6,
+      "gas:candidate-vibid:250200071675": 1,
+      "gas:candidate-vibid:1001000195093": 11,
+      "gas:candidate-vibid:1001000121864": 30,
+      "gas:candidate-vibid:1001000190364": 41,
+      "gas:candidate-vibid:1001000113946": 2,
+      "gas:candidate-vibid:250200071678": 2,
+      "special:against-all": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170366&region=0&sub_region=0&type=429",
@@ -3290,15 +3290,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 75,
-      "Каверин Владимир Викторович": 4,
-      "Каганович Михаил Вениаминович": 1,
-      "Кулагина Галина Сергеевна": 8,
-      "Мухин Сергей Вениаминович": 2,
-      "Романович Александр Леонидович": 15,
-      "Саломатин Николай Михайлович": 17,
-      "Федоров Евгений Аверьянович": 0,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000131400": 75,
+      "gas:candidate-vibid:1001000217932": 4,
+      "gas:candidate-vibid:250200071675": 1,
+      "gas:candidate-vibid:1001000195093": 8,
+      "gas:candidate-vibid:1001000121864": 2,
+      "gas:candidate-vibid:1001000190364": 15,
+      "gas:candidate-vibid:1001000113946": 17,
+      "gas:candidate-vibid:250200071678": 0,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170366&region=0&sub_region=0&type=429",
@@ -3348,15 +3348,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 376,
-      "Каверин Владимир Викторович": 1,
-      "Каганович Михаил Вениаминович": 2,
-      "Кулагина Галина Сергеевна": 6,
-      "Мухин Сергей Вениаминович": 1,
-      "Романович Александр Леонидович": 37,
-      "Саломатин Николай Михайлович": 1,
-      "Федоров Евгений Аверьянович": 0,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000131400": 376,
+      "gas:candidate-vibid:1001000217932": 1,
+      "gas:candidate-vibid:250200071675": 2,
+      "gas:candidate-vibid:1001000195093": 6,
+      "gas:candidate-vibid:1001000121864": 1,
+      "gas:candidate-vibid:1001000190364": 37,
+      "gas:candidate-vibid:1001000113946": 1,
+      "gas:candidate-vibid:250200071678": 0,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170366&region=0&sub_region=0&type=429",
@@ -3406,15 +3406,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 126,
-      "Каверин Владимир Викторович": 5,
-      "Каганович Михаил Вениаминович": 5,
-      "Кулагина Галина Сергеевна": 4,
-      "Мухин Сергей Вениаминович": 24,
-      "Романович Александр Леонидович": 6,
-      "Саломатин Николай Михайлович": 4,
-      "Федоров Евгений Аверьянович": 1,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000131400": 126,
+      "gas:candidate-vibid:1001000217932": 5,
+      "gas:candidate-vibid:250200071675": 5,
+      "gas:candidate-vibid:1001000195093": 4,
+      "gas:candidate-vibid:1001000121864": 24,
+      "gas:candidate-vibid:1001000190364": 6,
+      "gas:candidate-vibid:1001000113946": 4,
+      "gas:candidate-vibid:250200071678": 1,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170366&region=0&sub_region=0&type=429",
@@ -3464,15 +3464,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 486,
-      "Каверин Владимир Викторович": 6,
-      "Каганович Михаил Вениаминович": 5,
-      "Кулагина Галина Сергеевна": 22,
-      "Мухин Сергей Вениаминович": 3,
-      "Романович Александр Леонидович": 32,
-      "Саломатин Николай Михайлович": 8,
-      "Федоров Евгений Аверьянович": 5,
-      "Против всех": 70
+      "gas:candidate-vibid:1001000131400": 486,
+      "gas:candidate-vibid:1001000217932": 6,
+      "gas:candidate-vibid:250200071675": 5,
+      "gas:candidate-vibid:1001000195093": 22,
+      "gas:candidate-vibid:1001000121864": 3,
+      "gas:candidate-vibid:1001000190364": 32,
+      "gas:candidate-vibid:1001000113946": 8,
+      "gas:candidate-vibid:250200071678": 5,
+      "special:against-all": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170366&region=0&sub_region=0&type=429",
@@ -3522,15 +3522,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 889,
-      "Каверин Владимир Викторович": 63,
-      "Каганович Михаил Вениаминович": 19,
-      "Кулагина Галина Сергеевна": 75,
-      "Мухин Сергей Вениаминович": 120,
-      "Романович Александр Леонидович": 129,
-      "Саломатин Николай Михайлович": 83,
-      "Федоров Евгений Аверьянович": 18,
-      "Против всех": 553
+      "gas:candidate-vibid:1001000131400": 889,
+      "gas:candidate-vibid:1001000217932": 63,
+      "gas:candidate-vibid:250200071675": 19,
+      "gas:candidate-vibid:1001000195093": 75,
+      "gas:candidate-vibid:1001000121864": 120,
+      "gas:candidate-vibid:1001000190364": 129,
+      "gas:candidate-vibid:1001000113946": 83,
+      "gas:candidate-vibid:250200071678": 18,
+      "special:against-all": 553
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170366&region=0&sub_region=0&type=429",
@@ -3580,15 +3580,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 445,
-      "Каверин Владимир Викторович": 4,
-      "Каганович Михаил Вениаминович": 6,
-      "Кулагина Галина Сергеевна": 4,
-      "Мухин Сергей Вениаминович": 11,
-      "Романович Александр Леонидович": 24,
-      "Саломатин Николай Михайлович": 9,
-      "Федоров Евгений Аверьянович": 4,
-      "Против всех": 42
+      "gas:candidate-vibid:1001000131400": 445,
+      "gas:candidate-vibid:1001000217932": 4,
+      "gas:candidate-vibid:250200071675": 6,
+      "gas:candidate-vibid:1001000195093": 4,
+      "gas:candidate-vibid:1001000121864": 11,
+      "gas:candidate-vibid:1001000190364": 24,
+      "gas:candidate-vibid:1001000113946": 9,
+      "gas:candidate-vibid:250200071678": 4,
+      "special:against-all": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170366&region=0&sub_region=0&type=429",
@@ -3638,15 +3638,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 491,
-      "Каверин Владимир Викторович": 22,
-      "Каганович Михаил Вениаминович": 4,
-      "Кулагина Галина Сергеевна": 49,
-      "Мухин Сергей Вениаминович": 36,
-      "Романович Александр Леонидович": 74,
-      "Саломатин Николай Михайлович": 16,
-      "Федоров Евгений Аверьянович": 13,
-      "Против всех": 149
+      "gas:candidate-vibid:1001000131400": 491,
+      "gas:candidate-vibid:1001000217932": 22,
+      "gas:candidate-vibid:250200071675": 4,
+      "gas:candidate-vibid:1001000195093": 49,
+      "gas:candidate-vibid:1001000121864": 36,
+      "gas:candidate-vibid:1001000190364": 74,
+      "gas:candidate-vibid:1001000113946": 16,
+      "gas:candidate-vibid:250200071678": 13,
+      "special:against-all": 149
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170366&region=0&sub_region=0&type=429",
@@ -3696,15 +3696,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 177,
-      "Каверин Владимир Викторович": 16,
-      "Каганович Михаил Вениаминович": 5,
-      "Кулагина Галина Сергеевна": 19,
-      "Мухин Сергей Вениаминович": 17,
-      "Романович Александр Леонидович": 23,
-      "Саломатин Николай Михайлович": 11,
-      "Федоров Евгений Аверьянович": 9,
-      "Против всех": 102
+      "gas:candidate-vibid:1001000131400": 177,
+      "gas:candidate-vibid:1001000217932": 16,
+      "gas:candidate-vibid:250200071675": 5,
+      "gas:candidate-vibid:1001000195093": 19,
+      "gas:candidate-vibid:1001000121864": 17,
+      "gas:candidate-vibid:1001000190364": 23,
+      "gas:candidate-vibid:1001000113946": 11,
+      "gas:candidate-vibid:250200071678": 9,
+      "special:against-all": 102
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170366&region=0&sub_region=0&type=429",
@@ -3754,15 +3754,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 406,
-      "Каверин Владимир Викторович": 14,
-      "Каганович Михаил Вениаминович": 1,
-      "Кулагина Галина Сергеевна": 46,
-      "Мухин Сергей Вениаминович": 26,
-      "Романович Александр Леонидович": 110,
-      "Саломатин Николай Михайлович": 6,
-      "Федоров Евгений Аверьянович": 1,
-      "Против всех": 80
+      "gas:candidate-vibid:1001000131400": 406,
+      "gas:candidate-vibid:1001000217932": 14,
+      "gas:candidate-vibid:250200071675": 1,
+      "gas:candidate-vibid:1001000195093": 46,
+      "gas:candidate-vibid:1001000121864": 26,
+      "gas:candidate-vibid:1001000190364": 110,
+      "gas:candidate-vibid:1001000113946": 6,
+      "gas:candidate-vibid:250200071678": 1,
+      "special:against-all": 80
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170366&region=0&sub_region=0&type=429",
@@ -3812,15 +3812,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 317,
-      "Каверин Владимир Викторович": 11,
-      "Каганович Михаил Вениаминович": 14,
-      "Кулагина Галина Сергеевна": 0,
-      "Мухин Сергей Вениаминович": 15,
-      "Романович Александр Леонидович": 34,
-      "Саломатин Николай Михайлович": 5,
-      "Федоров Евгений Аверьянович": 2,
-      "Против всех": 53
+      "gas:candidate-vibid:1001000131400": 317,
+      "gas:candidate-vibid:1001000217932": 11,
+      "gas:candidate-vibid:250200071675": 14,
+      "gas:candidate-vibid:1001000195093": 0,
+      "gas:candidate-vibid:1001000121864": 15,
+      "gas:candidate-vibid:1001000190364": 34,
+      "gas:candidate-vibid:1001000113946": 5,
+      "gas:candidate-vibid:250200071678": 2,
+      "special:against-all": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170366&region=0&sub_region=0&type=429",
@@ -3870,15 +3870,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 609,
-      "Каверин Владимир Викторович": 8,
-      "Каганович Михаил Вениаминович": 4,
-      "Кулагина Галина Сергеевна": 14,
-      "Мухин Сергей Вениаминович": 10,
-      "Романович Александр Леонидович": 33,
-      "Саломатин Николай Михайлович": 4,
-      "Федоров Евгений Аверьянович": 5,
-      "Против всех": 67
+      "gas:candidate-vibid:1001000131400": 609,
+      "gas:candidate-vibid:1001000217932": 8,
+      "gas:candidate-vibid:250200071675": 4,
+      "gas:candidate-vibid:1001000195093": 14,
+      "gas:candidate-vibid:1001000121864": 10,
+      "gas:candidate-vibid:1001000190364": 33,
+      "gas:candidate-vibid:1001000113946": 4,
+      "gas:candidate-vibid:250200071678": 5,
+      "special:against-all": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170366&region=0&sub_region=0&type=429",
@@ -3928,15 +3928,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 879,
-      "Каверин Владимир Викторович": 21,
-      "Каганович Михаил Вениаминович": 6,
-      "Кулагина Галина Сергеевна": 80,
-      "Мухин Сергей Вениаминович": 33,
-      "Романович Александр Леонидович": 147,
-      "Саломатин Николай Михайлович": 14,
-      "Федоров Евгений Аверьянович": 16,
-      "Против всех": 197
+      "gas:candidate-vibid:1001000131400": 879,
+      "gas:candidate-vibid:1001000217932": 21,
+      "gas:candidate-vibid:250200071675": 6,
+      "gas:candidate-vibid:1001000195093": 80,
+      "gas:candidate-vibid:1001000121864": 33,
+      "gas:candidate-vibid:1001000190364": 147,
+      "gas:candidate-vibid:1001000113946": 14,
+      "gas:candidate-vibid:250200071678": 16,
+      "special:against-all": 197
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170366&region=0&sub_region=0&type=429",
@@ -3986,15 +3986,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 152,
-      "Каверин Владимир Викторович": 3,
-      "Каганович Михаил Вениаминович": 0,
-      "Кулагина Галина Сергеевна": 13,
-      "Мухин Сергей Вениаминович": 13,
-      "Романович Александр Леонидович": 33,
-      "Саломатин Николай Михайлович": 3,
-      "Федоров Евгений Аверьянович": 2,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000131400": 152,
+      "gas:candidate-vibid:1001000217932": 3,
+      "gas:candidate-vibid:250200071675": 0,
+      "gas:candidate-vibid:1001000195093": 13,
+      "gas:candidate-vibid:1001000121864": 13,
+      "gas:candidate-vibid:1001000190364": 33,
+      "gas:candidate-vibid:1001000113946": 3,
+      "gas:candidate-vibid:250200071678": 2,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170366&region=0&sub_region=0&type=429",
@@ -4044,15 +4044,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 471,
-      "Каверин Владимир Викторович": 7,
-      "Каганович Михаил Вениаминович": 2,
-      "Кулагина Галина Сергеевна": 41,
-      "Мухин Сергей Вениаминович": 14,
-      "Романович Александр Леонидович": 26,
-      "Саломатин Николай Михайлович": 5,
-      "Федоров Евгений Аверьянович": 5,
-      "Против всех": 41
+      "gas:candidate-vibid:1001000131400": 471,
+      "gas:candidate-vibid:1001000217932": 7,
+      "gas:candidate-vibid:250200071675": 2,
+      "gas:candidate-vibid:1001000195093": 41,
+      "gas:candidate-vibid:1001000121864": 14,
+      "gas:candidate-vibid:1001000190364": 26,
+      "gas:candidate-vibid:1001000113946": 5,
+      "gas:candidate-vibid:250200071678": 5,
+      "special:against-all": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170366&region=0&sub_region=0&type=429",
@@ -4102,15 +4102,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 99,
-      "Каверин Владимир Викторович": 2,
-      "Каганович Михаил Вениаминович": 2,
-      "Кулагина Галина Сергеевна": 3,
-      "Мухин Сергей Вениаминович": 5,
-      "Романович Александр Леонидович": 20,
-      "Саломатин Николай Михайлович": 0,
-      "Федоров Евгений Аверьянович": 0,
-      "Против всех": 31
+      "gas:candidate-vibid:1001000131400": 99,
+      "gas:candidate-vibid:1001000217932": 2,
+      "gas:candidate-vibid:250200071675": 2,
+      "gas:candidate-vibid:1001000195093": 3,
+      "gas:candidate-vibid:1001000121864": 5,
+      "gas:candidate-vibid:1001000190364": 20,
+      "gas:candidate-vibid:1001000113946": 0,
+      "gas:candidate-vibid:250200071678": 0,
+      "special:against-all": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170366&region=0&sub_region=0&type=429",
@@ -4160,15 +4160,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 152,
-      "Каверин Владимир Викторович": 3,
-      "Каганович Михаил Вениаминович": 0,
-      "Кулагина Галина Сергеевна": 4,
-      "Мухин Сергей Вениаминович": 6,
-      "Романович Александр Леонидович": 17,
-      "Саломатин Николай Михайлович": 1,
-      "Федоров Евгений Аверьянович": 3,
-      "Против всех": 39
+      "gas:candidate-vibid:1001000131400": 152,
+      "gas:candidate-vibid:1001000217932": 3,
+      "gas:candidate-vibid:250200071675": 0,
+      "gas:candidate-vibid:1001000195093": 4,
+      "gas:candidate-vibid:1001000121864": 6,
+      "gas:candidate-vibid:1001000190364": 17,
+      "gas:candidate-vibid:1001000113946": 1,
+      "gas:candidate-vibid:250200071678": 3,
+      "special:against-all": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170366&region=0&sub_region=0&type=429",
@@ -4218,15 +4218,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 583,
-      "Каверин Владимир Викторович": 15,
-      "Каганович Михаил Вениаминович": 3,
-      "Кулагина Галина Сергеевна": 48,
-      "Мухин Сергей Вениаминович": 52,
-      "Романович Александр Леонидович": 132,
-      "Саломатин Николай Михайлович": 0,
-      "Федоров Евгений Аверьянович": 7,
-      "Против всех": 153
+      "gas:candidate-vibid:1001000131400": 583,
+      "gas:candidate-vibid:1001000217932": 15,
+      "gas:candidate-vibid:250200071675": 3,
+      "gas:candidate-vibid:1001000195093": 48,
+      "gas:candidate-vibid:1001000121864": 52,
+      "gas:candidate-vibid:1001000190364": 132,
+      "gas:candidate-vibid:1001000113946": 0,
+      "gas:candidate-vibid:250200071678": 7,
+      "special:against-all": 153
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170366&region=0&sub_region=0&type=429",
@@ -4276,15 +4276,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 582,
-      "Каверин Владимир Викторович": 38,
-      "Каганович Михаил Вениаминович": 52,
-      "Кулагина Галина Сергеевна": 78,
-      "Мухин Сергей Вениаминович": 132,
-      "Романович Александр Леонидович": 25,
-      "Саломатин Николай Михайлович": 13,
-      "Федоров Евгений Аверьянович": 169,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000131400": 582,
+      "gas:candidate-vibid:1001000217932": 38,
+      "gas:candidate-vibid:250200071675": 52,
+      "gas:candidate-vibid:1001000195093": 78,
+      "gas:candidate-vibid:1001000121864": 132,
+      "gas:candidate-vibid:1001000190364": 25,
+      "gas:candidate-vibid:1001000113946": 13,
+      "gas:candidate-vibid:250200071678": 169,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170366&region=0&sub_region=0&type=429",
@@ -4334,15 +4334,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 425,
-      "Каверин Владимир Викторович": 13,
-      "Каганович Михаил Вениаминович": 2,
-      "Кулагина Галина Сергеевна": 41,
-      "Мухин Сергей Вениаминович": 38,
-      "Романович Александр Леонидович": 75,
-      "Саломатин Николай Михайлович": 10,
-      "Федоров Евгений Аверьянович": 4,
-      "Против всех": 139
+      "gas:candidate-vibid:1001000131400": 425,
+      "gas:candidate-vibid:1001000217932": 13,
+      "gas:candidate-vibid:250200071675": 2,
+      "gas:candidate-vibid:1001000195093": 41,
+      "gas:candidate-vibid:1001000121864": 38,
+      "gas:candidate-vibid:1001000190364": 75,
+      "gas:candidate-vibid:1001000113946": 10,
+      "gas:candidate-vibid:250200071678": 4,
+      "special:against-all": 139
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170366&region=0&sub_region=0&type=429",
@@ -4392,15 +4392,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 466,
-      "Каверин Владимир Викторович": 21,
-      "Каганович Михаил Вениаминович": 6,
-      "Кулагина Галина Сергеевна": 69,
-      "Мухин Сергей Вениаминович": 100,
-      "Романович Александр Леонидович": 231,
-      "Саломатин Николай Михайлович": 40,
-      "Федоров Евгений Аверьянович": 10,
-      "Против всех": 241
+      "gas:candidate-vibid:1001000131400": 466,
+      "gas:candidate-vibid:1001000217932": 21,
+      "gas:candidate-vibid:250200071675": 6,
+      "gas:candidate-vibid:1001000195093": 69,
+      "gas:candidate-vibid:1001000121864": 100,
+      "gas:candidate-vibid:1001000190364": 231,
+      "gas:candidate-vibid:1001000113946": 40,
+      "gas:candidate-vibid:250200071678": 10,
+      "special:against-all": 241
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170366&region=0&sub_region=0&type=429",
@@ -4450,15 +4450,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 234,
-      "Каверин Владимир Викторович": 8,
-      "Каганович Михаил Вениаминович": 2,
-      "Кулагина Галина Сергеевна": 18,
-      "Мухин Сергей Вениаминович": 8,
-      "Романович Александр Леонидович": 21,
-      "Саломатин Николай Михайлович": 6,
-      "Федоров Евгений Аверьянович": 6,
-      "Против всех": 43
+      "gas:candidate-vibid:1001000131400": 234,
+      "gas:candidate-vibid:1001000217932": 8,
+      "gas:candidate-vibid:250200071675": 2,
+      "gas:candidate-vibid:1001000195093": 18,
+      "gas:candidate-vibid:1001000121864": 8,
+      "gas:candidate-vibid:1001000190364": 21,
+      "gas:candidate-vibid:1001000113946": 6,
+      "gas:candidate-vibid:250200071678": 6,
+      "special:against-all": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170366&region=0&sub_region=0&type=429",
@@ -4508,15 +4508,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 356,
-      "Каверин Владимир Викторович": 18,
-      "Каганович Михаил Вениаминович": 3,
-      "Кулагина Галина Сергеевна": 33,
-      "Мухин Сергей Вениаминович": 55,
-      "Романович Александр Леонидович": 35,
-      "Саломатин Николай Михайлович": 5,
-      "Федоров Евгений Аверьянович": 5,
-      "Против всех": 65
+      "gas:candidate-vibid:1001000131400": 356,
+      "gas:candidate-vibid:1001000217932": 18,
+      "gas:candidate-vibid:250200071675": 3,
+      "gas:candidate-vibid:1001000195093": 33,
+      "gas:candidate-vibid:1001000121864": 55,
+      "gas:candidate-vibid:1001000190364": 35,
+      "gas:candidate-vibid:1001000113946": 5,
+      "gas:candidate-vibid:250200071678": 5,
+      "special:against-all": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170366&region=0&sub_region=0&type=429",
@@ -4566,15 +4566,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 486,
-      "Каверин Владимир Викторович": 12,
-      "Каганович Михаил Вениаминович": 0,
-      "Кулагина Галина Сергеевна": 14,
-      "Мухин Сергей Вениаминович": 53,
-      "Романович Александр Леонидович": 57,
-      "Саломатин Николай Михайлович": 10,
-      "Федоров Евгений Аверьянович": 0,
-      "Против всех": 81
+      "gas:candidate-vibid:1001000131400": 486,
+      "gas:candidate-vibid:1001000217932": 12,
+      "gas:candidate-vibid:250200071675": 0,
+      "gas:candidate-vibid:1001000195093": 14,
+      "gas:candidate-vibid:1001000121864": 53,
+      "gas:candidate-vibid:1001000190364": 57,
+      "gas:candidate-vibid:1001000113946": 10,
+      "gas:candidate-vibid:250200071678": 0,
+      "special:against-all": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170366&region=0&sub_region=0&type=429",
@@ -4624,15 +4624,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 221,
-      "Каверин Владимир Викторович": 8,
-      "Каганович Михаил Вениаминович": 7,
-      "Кулагина Галина Сергеевна": 5,
-      "Мухин Сергей Вениаминович": 17,
-      "Романович Александр Леонидович": 12,
-      "Саломатин Николай Михайлович": 4,
-      "Федоров Евгений Аверьянович": 0,
-      "Против всех": 52
+      "gas:candidate-vibid:1001000131400": 221,
+      "gas:candidate-vibid:1001000217932": 8,
+      "gas:candidate-vibid:250200071675": 7,
+      "gas:candidate-vibid:1001000195093": 5,
+      "gas:candidate-vibid:1001000121864": 17,
+      "gas:candidate-vibid:1001000190364": 12,
+      "gas:candidate-vibid:1001000113946": 4,
+      "gas:candidate-vibid:250200071678": 0,
+      "special:against-all": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170366&region=0&sub_region=0&type=429",
@@ -4682,15 +4682,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 465,
-      "Каверин Владимир Викторович": 13,
-      "Каганович Михаил Вениаминович": 5,
-      "Кулагина Галина Сергеевна": 57,
-      "Мухин Сергей Вениаминович": 77,
-      "Романович Александр Леонидович": 91,
-      "Саломатин Николай Михайлович": 21,
-      "Федоров Евгений Аверьянович": 7,
-      "Против всех": 109
+      "gas:candidate-vibid:1001000131400": 465,
+      "gas:candidate-vibid:1001000217932": 13,
+      "gas:candidate-vibid:250200071675": 5,
+      "gas:candidate-vibid:1001000195093": 57,
+      "gas:candidate-vibid:1001000121864": 77,
+      "gas:candidate-vibid:1001000190364": 91,
+      "gas:candidate-vibid:1001000113946": 21,
+      "gas:candidate-vibid:250200071678": 7,
+      "special:against-all": 109
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170366&region=0&sub_region=0&type=429",
@@ -4740,15 +4740,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 346,
-      "Каверин Владимир Викторович": 14,
-      "Каганович Михаил Вениаминович": 5,
-      "Кулагина Галина Сергеевна": 27,
-      "Мухин Сергей Вениаминович": 30,
-      "Романович Александр Леонидович": 90,
-      "Саломатин Николай Михайлович": 12,
-      "Федоров Евгений Аверьянович": 3,
-      "Против всех": 80
+      "gas:candidate-vibid:1001000131400": 346,
+      "gas:candidate-vibid:1001000217932": 14,
+      "gas:candidate-vibid:250200071675": 5,
+      "gas:candidate-vibid:1001000195093": 27,
+      "gas:candidate-vibid:1001000121864": 30,
+      "gas:candidate-vibid:1001000190364": 90,
+      "gas:candidate-vibid:1001000113946": 12,
+      "gas:candidate-vibid:250200071678": 3,
+      "special:against-all": 80
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170366&region=0&sub_region=0&type=429",
@@ -4798,15 +4798,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 171,
-      "Каверин Владимир Викторович": 3,
-      "Каганович Михаил Вениаминович": 4,
-      "Кулагина Галина Сергеевна": 12,
-      "Мухин Сергей Вениаминович": 9,
-      "Романович Александр Леонидович": 25,
-      "Саломатин Николай Михайлович": 2,
-      "Федоров Евгений Аверьянович": 2,
-      "Против всех": 34
+      "gas:candidate-vibid:1001000131400": 171,
+      "gas:candidate-vibid:1001000217932": 3,
+      "gas:candidate-vibid:250200071675": 4,
+      "gas:candidate-vibid:1001000195093": 12,
+      "gas:candidate-vibid:1001000121864": 9,
+      "gas:candidate-vibid:1001000190364": 25,
+      "gas:candidate-vibid:1001000113946": 2,
+      "gas:candidate-vibid:250200071678": 2,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170366&region=0&sub_region=0&type=429",
@@ -4856,15 +4856,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 484,
-      "Каверин Владимир Викторович": 10,
-      "Каганович Михаил Вениаминович": 4,
-      "Кулагина Галина Сергеевна": 26,
-      "Мухин Сергей Вениаминович": 26,
-      "Романович Александр Леонидович": 63,
-      "Саломатин Николай Михайлович": 5,
-      "Федоров Евгений Аверьянович": 4,
-      "Против всех": 81
+      "gas:candidate-vibid:1001000131400": 484,
+      "gas:candidate-vibid:1001000217932": 10,
+      "gas:candidate-vibid:250200071675": 4,
+      "gas:candidate-vibid:1001000195093": 26,
+      "gas:candidate-vibid:1001000121864": 26,
+      "gas:candidate-vibid:1001000190364": 63,
+      "gas:candidate-vibid:1001000113946": 5,
+      "gas:candidate-vibid:250200071678": 4,
+      "special:against-all": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170366&region=0&sub_region=0&type=429",
@@ -4914,15 +4914,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 95,
-      "Каверин Владимир Викторович": 4,
-      "Каганович Михаил Вениаминович": 0,
-      "Кулагина Галина Сергеевна": 5,
-      "Мухин Сергей Вениаминович": 6,
-      "Романович Александр Леонидович": 25,
-      "Саломатин Николай Михайлович": 2,
-      "Федоров Евгений Аверьянович": 0,
-      "Против всех": 30
+      "gas:candidate-vibid:1001000131400": 95,
+      "gas:candidate-vibid:1001000217932": 4,
+      "gas:candidate-vibid:250200071675": 0,
+      "gas:candidate-vibid:1001000195093": 5,
+      "gas:candidate-vibid:1001000121864": 6,
+      "gas:candidate-vibid:1001000190364": 25,
+      "gas:candidate-vibid:1001000113946": 2,
+      "gas:candidate-vibid:250200071678": 0,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170366&region=0&sub_region=0&type=429",
@@ -4972,15 +4972,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 200,
-      "Каверин Владимир Викторович": 12,
-      "Каганович Михаил Вениаминович": 22,
-      "Кулагина Галина Сергеевна": 2,
-      "Мухин Сергей Вениаминович": 13,
-      "Романович Александр Леонидович": 60,
-      "Саломатин Николай Михайлович": 14,
-      "Федоров Евгений Аверьянович": 10,
-      "Против всех": 89
+      "gas:candidate-vibid:1001000131400": 200,
+      "gas:candidate-vibid:1001000217932": 12,
+      "gas:candidate-vibid:250200071675": 22,
+      "gas:candidate-vibid:1001000195093": 2,
+      "gas:candidate-vibid:1001000121864": 13,
+      "gas:candidate-vibid:1001000190364": 60,
+      "gas:candidate-vibid:1001000113946": 14,
+      "gas:candidate-vibid:250200071678": 10,
+      "special:against-all": 89
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170366&region=0&sub_region=0&type=429",
@@ -5030,15 +5030,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 448,
-      "Каверин Владимир Викторович": 14,
-      "Каганович Михаил Вениаминович": 5,
-      "Кулагина Галина Сергеевна": 30,
-      "Мухин Сергей Вениаминович": 72,
-      "Романович Александр Леонидович": 179,
-      "Саломатин Николай Михайлович": 33,
-      "Федоров Евгений Аверьянович": 13,
-      "Против всех": 158
+      "gas:candidate-vibid:1001000131400": 448,
+      "gas:candidate-vibid:1001000217932": 14,
+      "gas:candidate-vibid:250200071675": 5,
+      "gas:candidate-vibid:1001000195093": 30,
+      "gas:candidate-vibid:1001000121864": 72,
+      "gas:candidate-vibid:1001000190364": 179,
+      "gas:candidate-vibid:1001000113946": 33,
+      "gas:candidate-vibid:250200071678": 13,
+      "special:against-all": 158
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170367&region=0&sub_region=0&type=429",
@@ -5088,15 +5088,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 466,
-      "Каверин Владимир Викторович": 17,
-      "Каганович Михаил Вениаминович": 5,
-      "Кулагина Галина Сергеевна": 24,
-      "Мухин Сергей Вениаминович": 93,
-      "Романович Александр Леонидович": 174,
-      "Саломатин Николай Михайлович": 41,
-      "Федоров Евгений Аверьянович": 11,
-      "Против всех": 133
+      "gas:candidate-vibid:1001000131400": 466,
+      "gas:candidate-vibid:1001000217932": 17,
+      "gas:candidate-vibid:250200071675": 5,
+      "gas:candidate-vibid:1001000195093": 24,
+      "gas:candidate-vibid:1001000121864": 93,
+      "gas:candidate-vibid:1001000190364": 174,
+      "gas:candidate-vibid:1001000113946": 41,
+      "gas:candidate-vibid:250200071678": 11,
+      "special:against-all": 133
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170367&region=0&sub_region=0&type=429",
@@ -5146,15 +5146,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 351,
-      "Каверин Владимир Викторович": 32,
-      "Каганович Михаил Вениаминович": 7,
-      "Кулагина Галина Сергеевна": 29,
-      "Мухин Сергей Вениаминович": 64,
-      "Романович Александр Леонидович": 202,
-      "Саломатин Николай Михайлович": 24,
-      "Федоров Евгений Аверьянович": 10,
-      "Против всех": 146
+      "gas:candidate-vibid:1001000131400": 351,
+      "gas:candidate-vibid:1001000217932": 32,
+      "gas:candidate-vibid:250200071675": 7,
+      "gas:candidate-vibid:1001000195093": 29,
+      "gas:candidate-vibid:1001000121864": 64,
+      "gas:candidate-vibid:1001000190364": 202,
+      "gas:candidate-vibid:1001000113946": 24,
+      "gas:candidate-vibid:250200071678": 10,
+      "special:against-all": 146
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170367&region=0&sub_region=0&type=429",
@@ -5204,15 +5204,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 569,
-      "Каверин Владимир Викторович": 26,
-      "Каганович Михаил Вениаминович": 8,
-      "Кулагина Галина Сергеевна": 31,
-      "Мухин Сергей Вениаминович": 93,
-      "Романович Александр Леонидович": 191,
-      "Саломатин Николай Михайлович": 53,
-      "Федоров Евгений Аверьянович": 11,
-      "Против всех": 223
+      "gas:candidate-vibid:1001000131400": 569,
+      "gas:candidate-vibid:1001000217932": 26,
+      "gas:candidate-vibid:250200071675": 8,
+      "gas:candidate-vibid:1001000195093": 31,
+      "gas:candidate-vibid:1001000121864": 93,
+      "gas:candidate-vibid:1001000190364": 191,
+      "gas:candidate-vibid:1001000113946": 53,
+      "gas:candidate-vibid:250200071678": 11,
+      "special:against-all": 223
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170367&region=0&sub_region=0&type=429",
@@ -5262,15 +5262,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 653,
-      "Каверин Владимир Викторович": 45,
-      "Каганович Михаил Вениаминович": 20,
-      "Кулагина Галина Сергеевна": 59,
-      "Мухин Сергей Вениаминович": 125,
-      "Романович Александр Леонидович": 299,
-      "Саломатин Николай Михайлович": 53,
-      "Федоров Евгений Аверьянович": 11,
-      "Против всех": 269
+      "gas:candidate-vibid:1001000131400": 653,
+      "gas:candidate-vibid:1001000217932": 45,
+      "gas:candidate-vibid:250200071675": 20,
+      "gas:candidate-vibid:1001000195093": 59,
+      "gas:candidate-vibid:1001000121864": 125,
+      "gas:candidate-vibid:1001000190364": 299,
+      "gas:candidate-vibid:1001000113946": 53,
+      "gas:candidate-vibid:250200071678": 11,
+      "special:against-all": 269
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170367&region=0&sub_region=0&type=429",
@@ -5320,15 +5320,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 659,
-      "Каверин Владимир Викторович": 42,
-      "Каганович Михаил Вениаминович": 13,
-      "Кулагина Галина Сергеевна": 61,
-      "Мухин Сергей Вениаминович": 185,
-      "Романович Александр Леонидович": 250,
-      "Саломатин Николай Михайлович": 64,
-      "Федоров Евгений Аверьянович": 30,
-      "Против всех": 312
+      "gas:candidate-vibid:1001000131400": 659,
+      "gas:candidate-vibid:1001000217932": 42,
+      "gas:candidate-vibid:250200071675": 13,
+      "gas:candidate-vibid:1001000195093": 61,
+      "gas:candidate-vibid:1001000121864": 185,
+      "gas:candidate-vibid:1001000190364": 250,
+      "gas:candidate-vibid:1001000113946": 64,
+      "gas:candidate-vibid:250200071678": 30,
+      "special:against-all": 312
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170367&region=0&sub_region=0&type=429",
@@ -5378,15 +5378,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 796,
-      "Каверин Владимир Викторович": 42,
-      "Каганович Михаил Вениаминович": 9,
-      "Кулагина Галина Сергеевна": 45,
-      "Мухин Сергей Вениаминович": 145,
-      "Романович Александр Леонидович": 249,
-      "Саломатин Николай Михайлович": 66,
-      "Федоров Евгений Аверьянович": 15,
-      "Против всех": 288
+      "gas:candidate-vibid:1001000131400": 796,
+      "gas:candidate-vibid:1001000217932": 42,
+      "gas:candidate-vibid:250200071675": 9,
+      "gas:candidate-vibid:1001000195093": 45,
+      "gas:candidate-vibid:1001000121864": 145,
+      "gas:candidate-vibid:1001000190364": 249,
+      "gas:candidate-vibid:1001000113946": 66,
+      "gas:candidate-vibid:250200071678": 15,
+      "special:against-all": 288
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170367&region=0&sub_region=0&type=429",
@@ -5436,15 +5436,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 720,
-      "Каверин Владимир Викторович": 43,
-      "Каганович Михаил Вениаминович": 13,
-      "Кулагина Галина Сергеевна": 33,
-      "Мухин Сергей Вениаминович": 119,
-      "Романович Александр Леонидович": 183,
-      "Саломатин Николай Михайлович": 22,
-      "Федоров Евгений Аверьянович": 12,
-      "Против всех": 209
+      "gas:candidate-vibid:1001000131400": 720,
+      "gas:candidate-vibid:1001000217932": 43,
+      "gas:candidate-vibid:250200071675": 13,
+      "gas:candidate-vibid:1001000195093": 33,
+      "gas:candidate-vibid:1001000121864": 119,
+      "gas:candidate-vibid:1001000190364": 183,
+      "gas:candidate-vibid:1001000113946": 22,
+      "gas:candidate-vibid:250200071678": 12,
+      "special:against-all": 209
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170367&region=0&sub_region=0&type=429",
@@ -5494,15 +5494,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 383,
-      "Каверин Владимир Викторович": 18,
-      "Каганович Михаил Вениаминович": 1,
-      "Кулагина Галина Сергеевна": 19,
-      "Мухин Сергей Вениаминович": 73,
-      "Романович Александр Леонидович": 107,
-      "Саломатин Николай Михайлович": 37,
-      "Федоров Евгений Аверьянович": 9,
-      "Против всех": 131
+      "gas:candidate-vibid:1001000131400": 383,
+      "gas:candidate-vibid:1001000217932": 18,
+      "gas:candidate-vibid:250200071675": 1,
+      "gas:candidate-vibid:1001000195093": 19,
+      "gas:candidate-vibid:1001000121864": 73,
+      "gas:candidate-vibid:1001000190364": 107,
+      "gas:candidate-vibid:1001000113946": 37,
+      "gas:candidate-vibid:250200071678": 9,
+      "special:against-all": 131
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170367&region=0&sub_region=0&type=429",
@@ -5552,15 +5552,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 363,
-      "Каверин Владимир Викторович": 20,
-      "Каганович Михаил Вениаминович": 2,
-      "Кулагина Галина Сергеевна": 34,
-      "Мухин Сергей Вениаминович": 34,
-      "Романович Александр Леонидович": 132,
-      "Саломатин Николай Михайлович": 21,
-      "Федоров Евгений Аверьянович": 10,
-      "Против всех": 142
+      "gas:candidate-vibid:1001000131400": 363,
+      "gas:candidate-vibid:1001000217932": 20,
+      "gas:candidate-vibid:250200071675": 2,
+      "gas:candidate-vibid:1001000195093": 34,
+      "gas:candidate-vibid:1001000121864": 34,
+      "gas:candidate-vibid:1001000190364": 132,
+      "gas:candidate-vibid:1001000113946": 21,
+      "gas:candidate-vibid:250200071678": 10,
+      "special:against-all": 142
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170367&region=0&sub_region=0&type=429",
@@ -5610,15 +5610,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 464,
-      "Каверин Владимир Викторович": 20,
-      "Каганович Михаил Вениаминович": 5,
-      "Кулагина Галина Сергеевна": 40,
-      "Мухин Сергей Вениаминович": 75,
-      "Романович Александр Леонидович": 126,
-      "Саломатин Николай Михайлович": 34,
-      "Федоров Евгений Аверьянович": 20,
-      "Против всех": 227
+      "gas:candidate-vibid:1001000131400": 464,
+      "gas:candidate-vibid:1001000217932": 20,
+      "gas:candidate-vibid:250200071675": 5,
+      "gas:candidate-vibid:1001000195093": 40,
+      "gas:candidate-vibid:1001000121864": 75,
+      "gas:candidate-vibid:1001000190364": 126,
+      "gas:candidate-vibid:1001000113946": 34,
+      "gas:candidate-vibid:250200071678": 20,
+      "special:against-all": 227
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170367&region=0&sub_region=0&type=429",
@@ -5668,15 +5668,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 569,
-      "Каверин Владимир Викторович": 35,
-      "Каганович Михаил Вениаминович": 9,
-      "Кулагина Галина Сергеевна": 40,
-      "Мухин Сергей Вениаминович": 55,
-      "Романович Александр Леонидович": 231,
-      "Саломатин Николай Михайлович": 48,
-      "Федоров Евгений Аверьянович": 17,
-      "Против всех": 352
+      "gas:candidate-vibid:1001000131400": 569,
+      "gas:candidate-vibid:1001000217932": 35,
+      "gas:candidate-vibid:250200071675": 9,
+      "gas:candidate-vibid:1001000195093": 40,
+      "gas:candidate-vibid:1001000121864": 55,
+      "gas:candidate-vibid:1001000190364": 231,
+      "gas:candidate-vibid:1001000113946": 48,
+      "gas:candidate-vibid:250200071678": 17,
+      "special:against-all": 352
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170367&region=0&sub_region=0&type=429",
@@ -5726,15 +5726,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 555,
-      "Каверин Владимир Викторович": 24,
-      "Каганович Михаил Вениаминович": 8,
-      "Кулагина Галина Сергеевна": 21,
-      "Мухин Сергей Вениаминович": 84,
-      "Романович Александр Леонидович": 86,
-      "Саломатин Николай Михайлович": 44,
-      "Федоров Евгений Аверьянович": 14,
-      "Против всех": 238
+      "gas:candidate-vibid:1001000131400": 555,
+      "gas:candidate-vibid:1001000217932": 24,
+      "gas:candidate-vibid:250200071675": 8,
+      "gas:candidate-vibid:1001000195093": 21,
+      "gas:candidate-vibid:1001000121864": 84,
+      "gas:candidate-vibid:1001000190364": 86,
+      "gas:candidate-vibid:1001000113946": 44,
+      "gas:candidate-vibid:250200071678": 14,
+      "special:against-all": 238
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170367&region=0&sub_region=0&type=429",
@@ -5784,15 +5784,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 374,
-      "Каверин Владимир Викторович": 22,
-      "Каганович Михаил Вениаминович": 12,
-      "Кулагина Галина Сергеевна": 23,
-      "Мухин Сергей Вениаминович": 72,
-      "Романович Александр Леонидович": 132,
-      "Саломатин Николай Михайлович": 31,
-      "Федоров Евгений Аверьянович": 12,
-      "Против всех": 200
+      "gas:candidate-vibid:1001000131400": 374,
+      "gas:candidate-vibid:1001000217932": 22,
+      "gas:candidate-vibid:250200071675": 12,
+      "gas:candidate-vibid:1001000195093": 23,
+      "gas:candidate-vibid:1001000121864": 72,
+      "gas:candidate-vibid:1001000190364": 132,
+      "gas:candidate-vibid:1001000113946": 31,
+      "gas:candidate-vibid:250200071678": 12,
+      "special:against-all": 200
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170367&region=0&sub_region=0&type=429",
@@ -5842,15 +5842,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 493,
-      "Каверин Владимир Викторович": 20,
-      "Каганович Михаил Вениаминович": 6,
-      "Кулагина Галина Сергеевна": 43,
-      "Мухин Сергей Вениаминович": 83,
-      "Романович Александр Леонидович": 134,
-      "Саломатин Николай Михайлович": 71,
-      "Федоров Евгений Аверьянович": 18,
-      "Против всех": 247
+      "gas:candidate-vibid:1001000131400": 493,
+      "gas:candidate-vibid:1001000217932": 20,
+      "gas:candidate-vibid:250200071675": 6,
+      "gas:candidate-vibid:1001000195093": 43,
+      "gas:candidate-vibid:1001000121864": 83,
+      "gas:candidate-vibid:1001000190364": 134,
+      "gas:candidate-vibid:1001000113946": 71,
+      "gas:candidate-vibid:250200071678": 18,
+      "special:against-all": 247
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170367&region=0&sub_region=0&type=429",
@@ -5900,15 +5900,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 393,
-      "Каверин Владимир Викторович": 24,
-      "Каганович Михаил Вениаминович": 4,
-      "Кулагина Галина Сергеевна": 40,
-      "Мухин Сергей Вениаминович": 57,
-      "Романович Александр Леонидович": 123,
-      "Саломатин Николай Михайлович": 65,
-      "Федоров Евгений Аверьянович": 3,
-      "Против всех": 185
+      "gas:candidate-vibid:1001000131400": 393,
+      "gas:candidate-vibid:1001000217932": 24,
+      "gas:candidate-vibid:250200071675": 4,
+      "gas:candidate-vibid:1001000195093": 40,
+      "gas:candidate-vibid:1001000121864": 57,
+      "gas:candidate-vibid:1001000190364": 123,
+      "gas:candidate-vibid:1001000113946": 65,
+      "gas:candidate-vibid:250200071678": 3,
+      "special:against-all": 185
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170367&region=0&sub_region=0&type=429",
@@ -5958,15 +5958,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 345,
-      "Каверин Владимир Викторович": 26,
-      "Каганович Михаил Вениаминович": 1,
-      "Кулагина Галина Сергеевна": 29,
-      "Мухин Сергей Вениаминович": 65,
-      "Романович Александр Леонидович": 174,
-      "Саломатин Николай Михайлович": 26,
-      "Федоров Евгений Аверьянович": 15,
-      "Против всех": 209
+      "gas:candidate-vibid:1001000131400": 345,
+      "gas:candidate-vibid:1001000217932": 26,
+      "gas:candidate-vibid:250200071675": 1,
+      "gas:candidate-vibid:1001000195093": 29,
+      "gas:candidate-vibid:1001000121864": 65,
+      "gas:candidate-vibid:1001000190364": 174,
+      "gas:candidate-vibid:1001000113946": 26,
+      "gas:candidate-vibid:250200071678": 15,
+      "special:against-all": 209
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170367&region=0&sub_region=0&type=429",
@@ -6016,15 +6016,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 501,
-      "Каверин Владимир Викторович": 12,
-      "Каганович Михаил Вениаминович": 3,
-      "Кулагина Галина Сергеевна": 42,
-      "Мухин Сергей Вениаминович": 56,
-      "Романович Александр Леонидович": 156,
-      "Саломатин Николай Михайлович": 56,
-      "Федоров Евгений Аверьянович": 5,
-      "Против всех": 187
+      "gas:candidate-vibid:1001000131400": 501,
+      "gas:candidate-vibid:1001000217932": 12,
+      "gas:candidate-vibid:250200071675": 3,
+      "gas:candidate-vibid:1001000195093": 42,
+      "gas:candidate-vibid:1001000121864": 56,
+      "gas:candidate-vibid:1001000190364": 156,
+      "gas:candidate-vibid:1001000113946": 56,
+      "gas:candidate-vibid:250200071678": 5,
+      "special:against-all": 187
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170367&region=0&sub_region=0&type=429",
@@ -6074,15 +6074,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 510,
-      "Каверин Владимир Викторович": 25,
-      "Каганович Михаил Вениаминович": 7,
-      "Кулагина Галина Сергеевна": 33,
-      "Мухин Сергей Вениаминович": 65,
-      "Романович Александр Леонидович": 169,
-      "Саломатин Николай Михайлович": 48,
-      "Федоров Евгений Аверьянович": 13,
-      "Против всех": 200
+      "gas:candidate-vibid:1001000131400": 510,
+      "gas:candidate-vibid:1001000217932": 25,
+      "gas:candidate-vibid:250200071675": 7,
+      "gas:candidate-vibid:1001000195093": 33,
+      "gas:candidate-vibid:1001000121864": 65,
+      "gas:candidate-vibid:1001000190364": 169,
+      "gas:candidate-vibid:1001000113946": 48,
+      "gas:candidate-vibid:250200071678": 13,
+      "special:against-all": 200
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170367&region=0&sub_region=0&type=429",
@@ -6132,15 +6132,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 494,
-      "Каверин Владимир Викторович": 19,
-      "Каганович Михаил Вениаминович": 9,
-      "Кулагина Галина Сергеевна": 30,
-      "Мухин Сергей Вениаминович": 60,
-      "Романович Александр Леонидович": 143,
-      "Саломатин Николай Михайлович": 45,
-      "Федоров Евгений Аверьянович": 8,
-      "Против всех": 162
+      "gas:candidate-vibid:1001000131400": 494,
+      "gas:candidate-vibid:1001000217932": 19,
+      "gas:candidate-vibid:250200071675": 9,
+      "gas:candidate-vibid:1001000195093": 30,
+      "gas:candidate-vibid:1001000121864": 60,
+      "gas:candidate-vibid:1001000190364": 143,
+      "gas:candidate-vibid:1001000113946": 45,
+      "gas:candidate-vibid:250200071678": 8,
+      "special:against-all": 162
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170367&region=0&sub_region=0&type=429",
@@ -6190,15 +6190,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 805,
-      "Каверин Владимир Викторович": 27,
-      "Каганович Михаил Вениаминович": 11,
-      "Кулагина Галина Сергеевна": 37,
-      "Мухин Сергей Вениаминович": 158,
-      "Романович Александр Леонидович": 273,
-      "Саломатин Николай Михайлович": 86,
-      "Федоров Евгений Аверьянович": 16,
-      "Против всех": 286
+      "gas:candidate-vibid:1001000131400": 805,
+      "gas:candidate-vibid:1001000217932": 27,
+      "gas:candidate-vibid:250200071675": 11,
+      "gas:candidate-vibid:1001000195093": 37,
+      "gas:candidate-vibid:1001000121864": 158,
+      "gas:candidate-vibid:1001000190364": 273,
+      "gas:candidate-vibid:1001000113946": 86,
+      "gas:candidate-vibid:250200071678": 16,
+      "special:against-all": 286
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170367&region=0&sub_region=0&type=429",
@@ -6248,15 +6248,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 585,
-      "Каверин Владимир Викторович": 25,
-      "Каганович Михаил Вениаминович": 15,
-      "Кулагина Галина Сергеевна": 27,
-      "Мухин Сергей Вениаминович": 82,
-      "Романович Александр Леонидович": 169,
-      "Саломатин Николай Михайлович": 64,
-      "Федоров Евгений Аверьянович": 12,
-      "Против всех": 180
+      "gas:candidate-vibid:1001000131400": 585,
+      "gas:candidate-vibid:1001000217932": 25,
+      "gas:candidate-vibid:250200071675": 15,
+      "gas:candidate-vibid:1001000195093": 27,
+      "gas:candidate-vibid:1001000121864": 82,
+      "gas:candidate-vibid:1001000190364": 169,
+      "gas:candidate-vibid:1001000113946": 64,
+      "gas:candidate-vibid:250200071678": 12,
+      "special:against-all": 180
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170367&region=0&sub_region=0&type=429",
@@ -6306,15 +6306,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 505,
-      "Каверин Владимир Викторович": 29,
-      "Каганович Михаил Вениаминович": 8,
-      "Кулагина Галина Сергеевна": 27,
-      "Мухин Сергей Вениаминович": 95,
-      "Романович Александр Леонидович": 104,
-      "Саломатин Николай Михайлович": 46,
-      "Федоров Евгений Аверьянович": 15,
-      "Против всех": 138
+      "gas:candidate-vibid:1001000131400": 505,
+      "gas:candidate-vibid:1001000217932": 29,
+      "gas:candidate-vibid:250200071675": 8,
+      "gas:candidate-vibid:1001000195093": 27,
+      "gas:candidate-vibid:1001000121864": 95,
+      "gas:candidate-vibid:1001000190364": 104,
+      "gas:candidate-vibid:1001000113946": 46,
+      "gas:candidate-vibid:250200071678": 15,
+      "special:against-all": 138
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170367&region=0&sub_region=0&type=429",
@@ -6364,15 +6364,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 511,
-      "Каверин Владимир Викторович": 22,
-      "Каганович Михаил Вениаминович": 10,
-      "Кулагина Галина Сергеевна": 18,
-      "Мухин Сергей Вениаминович": 74,
-      "Романович Александр Леонидович": 99,
-      "Саломатин Николай Михайлович": 51,
-      "Федоров Евгений Аверьянович": 11,
-      "Против всех": 165
+      "gas:candidate-vibid:1001000131400": 511,
+      "gas:candidate-vibid:1001000217932": 22,
+      "gas:candidate-vibid:250200071675": 10,
+      "gas:candidate-vibid:1001000195093": 18,
+      "gas:candidate-vibid:1001000121864": 74,
+      "gas:candidate-vibid:1001000190364": 99,
+      "gas:candidate-vibid:1001000113946": 51,
+      "gas:candidate-vibid:250200071678": 11,
+      "special:against-all": 165
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170367&region=0&sub_region=0&type=429",
@@ -6422,15 +6422,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 563,
-      "Каверин Владимир Викторович": 25,
-      "Каганович Михаил Вениаминович": 7,
-      "Кулагина Галина Сергеевна": 8,
-      "Мухин Сергей Вениаминович": 74,
-      "Романович Александр Леонидович": 137,
-      "Саломатин Николай Михайлович": 50,
-      "Федоров Евгений Аверьянович": 7,
-      "Против всех": 165
+      "gas:candidate-vibid:1001000131400": 563,
+      "gas:candidate-vibid:1001000217932": 25,
+      "gas:candidate-vibid:250200071675": 7,
+      "gas:candidate-vibid:1001000195093": 8,
+      "gas:candidate-vibid:1001000121864": 74,
+      "gas:candidate-vibid:1001000190364": 137,
+      "gas:candidate-vibid:1001000113946": 50,
+      "gas:candidate-vibid:250200071678": 7,
+      "special:against-all": 165
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170367&region=0&sub_region=0&type=429",
@@ -6480,15 +6480,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 818,
-      "Каверин Владимир Викторович": 42,
-      "Каганович Михаил Вениаминович": 7,
-      "Кулагина Галина Сергеевна": 30,
-      "Мухин Сергей Вениаминович": 96,
-      "Романович Александр Леонидович": 233,
-      "Саломатин Николай Михайлович": 69,
-      "Федоров Евгений Аверьянович": 10,
-      "Против всех": 270
+      "gas:candidate-vibid:1001000131400": 818,
+      "gas:candidate-vibid:1001000217932": 42,
+      "gas:candidate-vibid:250200071675": 7,
+      "gas:candidate-vibid:1001000195093": 30,
+      "gas:candidate-vibid:1001000121864": 96,
+      "gas:candidate-vibid:1001000190364": 233,
+      "gas:candidate-vibid:1001000113946": 69,
+      "gas:candidate-vibid:250200071678": 10,
+      "special:against-all": 270
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170367&region=0&sub_region=0&type=429",
@@ -6538,15 +6538,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 870,
-      "Каверин Владимир Викторович": 36,
-      "Каганович Михаил Вениаминович": 10,
-      "Кулагина Галина Сергеевна": 25,
-      "Мухин Сергей Вениаминович": 100,
-      "Романович Александр Леонидович": 174,
-      "Саломатин Николай Михайлович": 81,
-      "Федоров Евгений Аверьянович": 17,
-      "Против всех": 324
+      "gas:candidate-vibid:1001000131400": 870,
+      "gas:candidate-vibid:1001000217932": 36,
+      "gas:candidate-vibid:250200071675": 10,
+      "gas:candidate-vibid:1001000195093": 25,
+      "gas:candidate-vibid:1001000121864": 100,
+      "gas:candidate-vibid:1001000190364": 174,
+      "gas:candidate-vibid:1001000113946": 81,
+      "gas:candidate-vibid:250200071678": 17,
+      "special:against-all": 324
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170367&region=0&sub_region=0&type=429",
@@ -6596,15 +6596,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 118,
-      "Каверин Владимир Викторович": 7,
-      "Каганович Михаил Вениаминович": 2,
-      "Кулагина Галина Сергеевна": 15,
-      "Мухин Сергей Вениаминович": 13,
-      "Романович Александр Леонидович": 24,
-      "Саломатин Николай Михайлович": 15,
-      "Федоров Евгений Аверьянович": 2,
-      "Против всех": 72
+      "gas:candidate-vibid:1001000131400": 118,
+      "gas:candidate-vibid:1001000217932": 7,
+      "gas:candidate-vibid:250200071675": 2,
+      "gas:candidate-vibid:1001000195093": 15,
+      "gas:candidate-vibid:1001000121864": 13,
+      "gas:candidate-vibid:1001000190364": 24,
+      "gas:candidate-vibid:1001000113946": 15,
+      "gas:candidate-vibid:250200071678": 2,
+      "special:against-all": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170367&region=0&sub_region=0&type=429",
@@ -6654,15 +6654,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 613,
-      "Каверин Владимир Викторович": 19,
-      "Каганович Михаил Вениаминович": 8,
-      "Кулагина Галина Сергеевна": 37,
-      "Мухин Сергей Вениаминович": 96,
-      "Романович Александр Леонидович": 78,
-      "Саломатин Николай Михайлович": 25,
-      "Федоров Евгений Аверьянович": 16,
-      "Против всех": 201
+      "gas:candidate-vibid:1001000131400": 613,
+      "gas:candidate-vibid:1001000217932": 19,
+      "gas:candidate-vibid:250200071675": 8,
+      "gas:candidate-vibid:1001000195093": 37,
+      "gas:candidate-vibid:1001000121864": 96,
+      "gas:candidate-vibid:1001000190364": 78,
+      "gas:candidate-vibid:1001000113946": 25,
+      "gas:candidate-vibid:250200071678": 16,
+      "special:against-all": 201
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170368&region=0&sub_region=0&type=429",
@@ -6712,15 +6712,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 556,
-      "Каверин Владимир Викторович": 13,
-      "Каганович Михаил Вениаминович": 7,
-      "Кулагина Галина Сергеевна": 26,
-      "Мухин Сергей Вениаминович": 64,
-      "Романович Александр Леонидович": 126,
-      "Саломатин Николай Михайлович": 19,
-      "Федоров Евгений Аверьянович": 7,
-      "Против всех": 190
+      "gas:candidate-vibid:1001000131400": 556,
+      "gas:candidate-vibid:1001000217932": 13,
+      "gas:candidate-vibid:250200071675": 7,
+      "gas:candidate-vibid:1001000195093": 26,
+      "gas:candidate-vibid:1001000121864": 64,
+      "gas:candidate-vibid:1001000190364": 126,
+      "gas:candidate-vibid:1001000113946": 19,
+      "gas:candidate-vibid:250200071678": 7,
+      "special:against-all": 190
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170368&region=0&sub_region=0&type=429",
@@ -6770,15 +6770,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 402,
-      "Каверин Владимир Викторович": 19,
-      "Каганович Михаил Вениаминович": 22,
-      "Кулагина Галина Сергеевна": 11,
-      "Мухин Сергей Вениаминович": 44,
-      "Романович Александр Леонидович": 142,
-      "Саломатин Николай Михайлович": 20,
-      "Федоров Евгений Аверьянович": 16,
-      "Против всех": 174
+      "gas:candidate-vibid:1001000131400": 402,
+      "gas:candidate-vibid:1001000217932": 19,
+      "gas:candidate-vibid:250200071675": 22,
+      "gas:candidate-vibid:1001000195093": 11,
+      "gas:candidate-vibid:1001000121864": 44,
+      "gas:candidate-vibid:1001000190364": 142,
+      "gas:candidate-vibid:1001000113946": 20,
+      "gas:candidate-vibid:250200071678": 16,
+      "special:against-all": 174
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170368&region=0&sub_region=0&type=429",
@@ -6828,15 +6828,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 747,
-      "Каверин Владимир Викторович": 29,
-      "Каганович Михаил Вениаминович": 11,
-      "Кулагина Галина Сергеевна": 43,
-      "Мухин Сергей Вениаминович": 134,
-      "Романович Александр Леонидович": 150,
-      "Саломатин Николай Михайлович": 43,
-      "Федоров Евгений Аверьянович": 12,
-      "Против всех": 284
+      "gas:candidate-vibid:1001000131400": 747,
+      "gas:candidate-vibid:1001000217932": 29,
+      "gas:candidate-vibid:250200071675": 11,
+      "gas:candidate-vibid:1001000195093": 43,
+      "gas:candidate-vibid:1001000121864": 134,
+      "gas:candidate-vibid:1001000190364": 150,
+      "gas:candidate-vibid:1001000113946": 43,
+      "gas:candidate-vibid:250200071678": 12,
+      "special:against-all": 284
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170368&region=0&sub_region=0&type=429",
@@ -6886,15 +6886,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 665,
-      "Каверин Владимир Викторович": 30,
-      "Каганович Михаил Вениаминович": 3,
-      "Кулагина Галина Сергеевна": 32,
-      "Мухин Сергей Вениаминович": 119,
-      "Романович Александр Леонидович": 79,
-      "Саломатин Николай Михайлович": 36,
-      "Федоров Евгений Аверьянович": 2,
-      "Против всех": 175
+      "gas:candidate-vibid:1001000131400": 665,
+      "gas:candidate-vibid:1001000217932": 30,
+      "gas:candidate-vibid:250200071675": 3,
+      "gas:candidate-vibid:1001000195093": 32,
+      "gas:candidate-vibid:1001000121864": 119,
+      "gas:candidate-vibid:1001000190364": 79,
+      "gas:candidate-vibid:1001000113946": 36,
+      "gas:candidate-vibid:250200071678": 2,
+      "special:against-all": 175
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170368&region=0&sub_region=0&type=429",
@@ -6944,15 +6944,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 448,
-      "Каверин Владимир Викторович": 19,
-      "Каганович Михаил Вениаминович": 5,
-      "Кулагина Галина Сергеевна": 21,
-      "Мухин Сергей Вениаминович": 35,
-      "Романович Александр Леонидович": 55,
-      "Саломатин Николай Михайлович": 38,
-      "Федоров Евгений Аверьянович": 10,
-      "Против всех": 180
+      "gas:candidate-vibid:1001000131400": 448,
+      "gas:candidate-vibid:1001000217932": 19,
+      "gas:candidate-vibid:250200071675": 5,
+      "gas:candidate-vibid:1001000195093": 21,
+      "gas:candidate-vibid:1001000121864": 35,
+      "gas:candidate-vibid:1001000190364": 55,
+      "gas:candidate-vibid:1001000113946": 38,
+      "gas:candidate-vibid:250200071678": 10,
+      "special:against-all": 180
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170368&region=0&sub_region=0&type=429",
@@ -7002,15 +7002,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 538,
-      "Каверин Владимир Викторович": 16,
-      "Каганович Михаил Вениаминович": 3,
-      "Кулагина Галина Сергеевна": 14,
-      "Мухин Сергей Вениаминович": 27,
-      "Романович Александр Леонидович": 48,
-      "Саломатин Николай Михайлович": 15,
-      "Федоров Евгений Аверьянович": 3,
-      "Против всех": 149
+      "gas:candidate-vibid:1001000131400": 538,
+      "gas:candidate-vibid:1001000217932": 16,
+      "gas:candidate-vibid:250200071675": 3,
+      "gas:candidate-vibid:1001000195093": 14,
+      "gas:candidate-vibid:1001000121864": 27,
+      "gas:candidate-vibid:1001000190364": 48,
+      "gas:candidate-vibid:1001000113946": 15,
+      "gas:candidate-vibid:250200071678": 3,
+      "special:against-all": 149
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170368&region=0&sub_region=0&type=429",
@@ -7060,15 +7060,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 585,
-      "Каверин Владимир Викторович": 28,
-      "Каганович Михаил Вениаминович": 6,
-      "Кулагина Галина Сергеевна": 32,
-      "Мухин Сергей Вениаминович": 41,
-      "Романович Александр Леонидович": 69,
-      "Саломатин Николай Михайлович": 30,
-      "Федоров Евгений Аверьянович": 13,
-      "Против всех": 211
+      "gas:candidate-vibid:1001000131400": 585,
+      "gas:candidate-vibid:1001000217932": 28,
+      "gas:candidate-vibid:250200071675": 6,
+      "gas:candidate-vibid:1001000195093": 32,
+      "gas:candidate-vibid:1001000121864": 41,
+      "gas:candidate-vibid:1001000190364": 69,
+      "gas:candidate-vibid:1001000113946": 30,
+      "gas:candidate-vibid:250200071678": 13,
+      "special:against-all": 211
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170368&region=0&sub_region=0&type=429",
@@ -7118,15 +7118,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 279,
-      "Каверин Владимир Викторович": 6,
-      "Каганович Михаил Вениаминович": 1,
-      "Кулагина Галина Сергеевна": 13,
-      "Мухин Сергей Вениаминович": 31,
-      "Романович Александр Леонидович": 22,
-      "Саломатин Николай Михайлович": 12,
-      "Федоров Евгений Аверьянович": 2,
-      "Против всех": 52
+      "gas:candidate-vibid:1001000131400": 279,
+      "gas:candidate-vibid:1001000217932": 6,
+      "gas:candidate-vibid:250200071675": 1,
+      "gas:candidate-vibid:1001000195093": 13,
+      "gas:candidate-vibid:1001000121864": 31,
+      "gas:candidate-vibid:1001000190364": 22,
+      "gas:candidate-vibid:1001000113946": 12,
+      "gas:candidate-vibid:250200071678": 2,
+      "special:against-all": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170368&region=0&sub_region=0&type=429",
@@ -7176,15 +7176,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 193,
-      "Каверин Владимир Викторович": 5,
-      "Каганович Михаил Вениаминович": 0,
-      "Кулагина Галина Сергеевна": 4,
-      "Мухин Сергей Вениаминович": 9,
-      "Романович Александр Леонидович": 22,
-      "Саломатин Николай Михайлович": 3,
-      "Федоров Евгений Аверьянович": 7,
-      "Против всех": 53
+      "gas:candidate-vibid:1001000131400": 193,
+      "gas:candidate-vibid:1001000217932": 5,
+      "gas:candidate-vibid:250200071675": 0,
+      "gas:candidate-vibid:1001000195093": 4,
+      "gas:candidate-vibid:1001000121864": 9,
+      "gas:candidate-vibid:1001000190364": 22,
+      "gas:candidate-vibid:1001000113946": 3,
+      "gas:candidate-vibid:250200071678": 7,
+      "special:against-all": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170368&region=0&sub_region=0&type=429",
@@ -7234,15 +7234,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 457,
-      "Каверин Владимир Викторович": 16,
-      "Каганович Михаил Вениаминович": 4,
-      "Кулагина Галина Сергеевна": 17,
-      "Мухин Сергей Вениаминович": 34,
-      "Романович Александр Леонидович": 38,
-      "Саломатин Николай Михайлович": 19,
-      "Федоров Евгений Аверьянович": 7,
-      "Против всех": 133
+      "gas:candidate-vibid:1001000131400": 457,
+      "gas:candidate-vibid:1001000217932": 16,
+      "gas:candidate-vibid:250200071675": 4,
+      "gas:candidate-vibid:1001000195093": 17,
+      "gas:candidate-vibid:1001000121864": 34,
+      "gas:candidate-vibid:1001000190364": 38,
+      "gas:candidate-vibid:1001000113946": 19,
+      "gas:candidate-vibid:250200071678": 7,
+      "special:against-all": 133
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170368&region=0&sub_region=0&type=429",
@@ -7292,15 +7292,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 325,
-      "Каверин Владимир Викторович": 12,
-      "Каганович Михаил Вениаминович": 3,
-      "Кулагина Галина Сергеевна": 12,
-      "Мухин Сергей Вениаминович": 21,
-      "Романович Александр Леонидович": 60,
-      "Саломатин Николай Михайлович": 12,
-      "Федоров Евгений Аверьянович": 6,
-      "Против всех": 125
+      "gas:candidate-vibid:1001000131400": 325,
+      "gas:candidate-vibid:1001000217932": 12,
+      "gas:candidate-vibid:250200071675": 3,
+      "gas:candidate-vibid:1001000195093": 12,
+      "gas:candidate-vibid:1001000121864": 21,
+      "gas:candidate-vibid:1001000190364": 60,
+      "gas:candidate-vibid:1001000113946": 12,
+      "gas:candidate-vibid:250200071678": 6,
+      "special:against-all": 125
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170368&region=0&sub_region=0&type=429",
@@ -7350,15 +7350,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 636,
-      "Каверин Владимир Викторович": 14,
-      "Каганович Михаил Вениаминович": 3,
-      "Кулагина Галина Сергеевна": 18,
-      "Мухин Сергей Вениаминович": 44,
-      "Романович Александр Леонидович": 93,
-      "Саломатин Николай Михайлович": 21,
-      "Федоров Евгений Аверьянович": 12,
-      "Против всех": 180
+      "gas:candidate-vibid:1001000131400": 636,
+      "gas:candidate-vibid:1001000217932": 14,
+      "gas:candidate-vibid:250200071675": 3,
+      "gas:candidate-vibid:1001000195093": 18,
+      "gas:candidate-vibid:1001000121864": 44,
+      "gas:candidate-vibid:1001000190364": 93,
+      "gas:candidate-vibid:1001000113946": 21,
+      "gas:candidate-vibid:250200071678": 12,
+      "special:against-all": 180
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170368&region=0&sub_region=0&type=429",
@@ -7408,15 +7408,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 812,
-      "Каверин Владимир Викторович": 23,
-      "Каганович Михаил Вениаминович": 7,
-      "Кулагина Галина Сергеевна": 33,
-      "Мухин Сергей Вениаминович": 40,
-      "Романович Александр Леонидович": 136,
-      "Саломатин Николай Михайлович": 32,
-      "Федоров Евгений Аверьянович": 20,
-      "Против всех": 170
+      "gas:candidate-vibid:1001000131400": 812,
+      "gas:candidate-vibid:1001000217932": 23,
+      "gas:candidate-vibid:250200071675": 7,
+      "gas:candidate-vibid:1001000195093": 33,
+      "gas:candidate-vibid:1001000121864": 40,
+      "gas:candidate-vibid:1001000190364": 136,
+      "gas:candidate-vibid:1001000113946": 32,
+      "gas:candidate-vibid:250200071678": 20,
+      "special:against-all": 170
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170368&region=0&sub_region=0&type=429",
@@ -7466,15 +7466,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 737,
-      "Каверин Владимир Викторович": 11,
-      "Каганович Михаил Вениаминович": 8,
-      "Кулагина Галина Сергеевна": 23,
-      "Мухин Сергей Вениаминович": 51,
-      "Романович Александр Леонидович": 85,
-      "Саломатин Николай Михайлович": 38,
-      "Федоров Евгений Аверьянович": 6,
-      "Против всех": 195
+      "gas:candidate-vibid:1001000131400": 737,
+      "gas:candidate-vibid:1001000217932": 11,
+      "gas:candidate-vibid:250200071675": 8,
+      "gas:candidate-vibid:1001000195093": 23,
+      "gas:candidate-vibid:1001000121864": 51,
+      "gas:candidate-vibid:1001000190364": 85,
+      "gas:candidate-vibid:1001000113946": 38,
+      "gas:candidate-vibid:250200071678": 6,
+      "special:against-all": 195
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170368&region=0&sub_region=0&type=429",
@@ -7524,15 +7524,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 888,
-      "Каверин Владимир Викторович": 22,
-      "Каганович Михаил Вениаминович": 8,
-      "Кулагина Галина Сергеевна": 17,
-      "Мухин Сергей Вениаминович": 76,
-      "Романович Александр Леонидович": 116,
-      "Саломатин Николай Михайлович": 24,
-      "Федоров Евгений Аверьянович": 9,
-      "Против всех": 265
+      "gas:candidate-vibid:1001000131400": 888,
+      "gas:candidate-vibid:1001000217932": 22,
+      "gas:candidate-vibid:250200071675": 8,
+      "gas:candidate-vibid:1001000195093": 17,
+      "gas:candidate-vibid:1001000121864": 76,
+      "gas:candidate-vibid:1001000190364": 116,
+      "gas:candidate-vibid:1001000113946": 24,
+      "gas:candidate-vibid:250200071678": 9,
+      "special:against-all": 265
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170368&region=0&sub_region=0&type=429",
@@ -7582,15 +7582,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 764,
-      "Каверин Владимир Викторович": 10,
-      "Каганович Михаил Вениаминович": 3,
-      "Кулагина Галина Сергеевна": 29,
-      "Мухин Сергей Вениаминович": 84,
-      "Романович Александр Леонидович": 157,
-      "Саломатин Николай Михайлович": 23,
-      "Федоров Евгений Аверьянович": 12,
-      "Против всех": 297
+      "gas:candidate-vibid:1001000131400": 764,
+      "gas:candidate-vibid:1001000217932": 10,
+      "gas:candidate-vibid:250200071675": 3,
+      "gas:candidate-vibid:1001000195093": 29,
+      "gas:candidate-vibid:1001000121864": 84,
+      "gas:candidate-vibid:1001000190364": 157,
+      "gas:candidate-vibid:1001000113946": 23,
+      "gas:candidate-vibid:250200071678": 12,
+      "special:against-all": 297
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170368&region=0&sub_region=0&type=429",
@@ -7640,15 +7640,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 298,
-      "Каверин Владимир Викторович": 9,
-      "Каганович Михаил Вениаминович": 5,
-      "Кулагина Галина Сергеевна": 16,
-      "Мухин Сергей Вениаминович": 26,
-      "Романович Александр Леонидович": 50,
-      "Саломатин Николай Михайлович": 10,
-      "Федоров Евгений Аверьянович": 7,
-      "Против всех": 120
+      "gas:candidate-vibid:1001000131400": 298,
+      "gas:candidate-vibid:1001000217932": 9,
+      "gas:candidate-vibid:250200071675": 5,
+      "gas:candidate-vibid:1001000195093": 16,
+      "gas:candidate-vibid:1001000121864": 26,
+      "gas:candidate-vibid:1001000190364": 50,
+      "gas:candidate-vibid:1001000113946": 10,
+      "gas:candidate-vibid:250200071678": 7,
+      "special:against-all": 120
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170368&region=0&sub_region=0&type=429",
@@ -7698,15 +7698,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 587,
-      "Каверин Владимир Викторович": 20,
-      "Каганович Михаил Вениаминович": 3,
-      "Кулагина Галина Сергеевна": 26,
-      "Мухин Сергей Вениаминович": 86,
-      "Романович Александр Леонидович": 87,
-      "Саломатин Николай Михайлович": 32,
-      "Федоров Евгений Аверьянович": 13,
-      "Против всех": 187
+      "gas:candidate-vibid:1001000131400": 587,
+      "gas:candidate-vibid:1001000217932": 20,
+      "gas:candidate-vibid:250200071675": 3,
+      "gas:candidate-vibid:1001000195093": 26,
+      "gas:candidate-vibid:1001000121864": 86,
+      "gas:candidate-vibid:1001000190364": 87,
+      "gas:candidate-vibid:1001000113946": 32,
+      "gas:candidate-vibid:250200071678": 13,
+      "special:against-all": 187
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170368&region=0&sub_region=0&type=429",
@@ -7756,15 +7756,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 533,
-      "Каверин Владимир Викторович": 13,
-      "Каганович Михаил Вениаминович": 1,
-      "Кулагина Галина Сергеевна": 20,
-      "Мухин Сергей Вениаминович": 45,
-      "Романович Александр Леонидович": 56,
-      "Саломатин Николай Михайлович": 28,
-      "Федоров Евгений Аверьянович": 7,
-      "Против всех": 111
+      "gas:candidate-vibid:1001000131400": 533,
+      "gas:candidate-vibid:1001000217932": 13,
+      "gas:candidate-vibid:250200071675": 1,
+      "gas:candidate-vibid:1001000195093": 20,
+      "gas:candidate-vibid:1001000121864": 45,
+      "gas:candidate-vibid:1001000190364": 56,
+      "gas:candidate-vibid:1001000113946": 28,
+      "gas:candidate-vibid:250200071678": 7,
+      "special:against-all": 111
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170368&region=0&sub_region=0&type=429",
@@ -7814,15 +7814,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 500,
-      "Каверин Владимир Викторович": 7,
-      "Каганович Михаил Вениаминович": 4,
-      "Кулагина Галина Сергеевна": 14,
-      "Мухин Сергей Вениаминович": 36,
-      "Романович Александр Леонидович": 25,
-      "Саломатин Николай Михайлович": 30,
-      "Федоров Евгений Аверьянович": 11,
-      "Против всех": 123
+      "gas:candidate-vibid:1001000131400": 500,
+      "gas:candidate-vibid:1001000217932": 7,
+      "gas:candidate-vibid:250200071675": 4,
+      "gas:candidate-vibid:1001000195093": 14,
+      "gas:candidate-vibid:1001000121864": 36,
+      "gas:candidate-vibid:1001000190364": 25,
+      "gas:candidate-vibid:1001000113946": 30,
+      "gas:candidate-vibid:250200071678": 11,
+      "special:against-all": 123
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170368&region=0&sub_region=0&type=429",
@@ -7872,15 +7872,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 441,
-      "Каверин Владимир Викторович": 10,
-      "Каганович Михаил Вениаминович": 5,
-      "Кулагина Галина Сергеевна": 14,
-      "Мухин Сергей Вениаминович": 64,
-      "Романович Александр Леонидович": 86,
-      "Саломатин Николай Михайлович": 16,
-      "Федоров Евгений Аверьянович": 8,
-      "Против всех": 115
+      "gas:candidate-vibid:1001000131400": 441,
+      "gas:candidate-vibid:1001000217932": 10,
+      "gas:candidate-vibid:250200071675": 5,
+      "gas:candidate-vibid:1001000195093": 14,
+      "gas:candidate-vibid:1001000121864": 64,
+      "gas:candidate-vibid:1001000190364": 86,
+      "gas:candidate-vibid:1001000113946": 16,
+      "gas:candidate-vibid:250200071678": 8,
+      "special:against-all": 115
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170368&region=0&sub_region=0&type=429",
@@ -7930,15 +7930,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 502,
-      "Каверин Владимир Викторович": 13,
-      "Каганович Михаил Вениаминович": 4,
-      "Кулагина Галина Сергеевна": 23,
-      "Мухин Сергей Вениаминович": 41,
-      "Романович Александр Леонидович": 91,
-      "Саломатин Николай Михайлович": 37,
-      "Федоров Евгений Аверьянович": 6,
-      "Против всех": 131
+      "gas:candidate-vibid:1001000131400": 502,
+      "gas:candidate-vibid:1001000217932": 13,
+      "gas:candidate-vibid:250200071675": 4,
+      "gas:candidate-vibid:1001000195093": 23,
+      "gas:candidate-vibid:1001000121864": 41,
+      "gas:candidate-vibid:1001000190364": 91,
+      "gas:candidate-vibid:1001000113946": 37,
+      "gas:candidate-vibid:250200071678": 6,
+      "special:against-all": 131
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170368&region=0&sub_region=0&type=429",
@@ -7988,15 +7988,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 584,
-      "Каверин Владимир Викторович": 13,
-      "Каганович Михаил Вениаминович": 6,
-      "Кулагина Галина Сергеевна": 20,
-      "Мухин Сергей Вениаминович": 69,
-      "Романович Александр Леонидович": 67,
-      "Саломатин Николай Михайлович": 32,
-      "Федоров Евгений Аверьянович": 9,
-      "Против всех": 148
+      "gas:candidate-vibid:1001000131400": 584,
+      "gas:candidate-vibid:1001000217932": 13,
+      "gas:candidate-vibid:250200071675": 6,
+      "gas:candidate-vibid:1001000195093": 20,
+      "gas:candidate-vibid:1001000121864": 69,
+      "gas:candidate-vibid:1001000190364": 67,
+      "gas:candidate-vibid:1001000113946": 32,
+      "gas:candidate-vibid:250200071678": 9,
+      "special:against-all": 148
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170368&region=0&sub_region=0&type=429",
@@ -8046,15 +8046,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 910,
-      "Каверин Владимир Викторович": 30,
-      "Каганович Михаил Вениаминович": 10,
-      "Кулагина Галина Сергеевна": 33,
-      "Мухин Сергей Вениаминович": 84,
-      "Романович Александр Леонидович": 164,
-      "Саломатин Николай Михайлович": 36,
-      "Федоров Евгений Аверьянович": 12,
-      "Против всех": 247
+      "gas:candidate-vibid:1001000131400": 910,
+      "gas:candidate-vibid:1001000217932": 30,
+      "gas:candidate-vibid:250200071675": 10,
+      "gas:candidate-vibid:1001000195093": 33,
+      "gas:candidate-vibid:1001000121864": 84,
+      "gas:candidate-vibid:1001000190364": 164,
+      "gas:candidate-vibid:1001000113946": 36,
+      "gas:candidate-vibid:250200071678": 12,
+      "special:against-all": 247
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170368&region=0&sub_region=0&type=429",
@@ -8104,15 +8104,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 787,
-      "Каверин Владимир Викторович": 21,
-      "Каганович Михаил Вениаминович": 6,
-      "Кулагина Галина Сергеевна": 25,
-      "Мухин Сергей Вениаминович": 56,
-      "Романович Александр Леонидович": 126,
-      "Саломатин Николай Михайлович": 41,
-      "Федоров Евгений Аверьянович": 15,
-      "Против всех": 226
+      "gas:candidate-vibid:1001000131400": 787,
+      "gas:candidate-vibid:1001000217932": 21,
+      "gas:candidate-vibid:250200071675": 6,
+      "gas:candidate-vibid:1001000195093": 25,
+      "gas:candidate-vibid:1001000121864": 56,
+      "gas:candidate-vibid:1001000190364": 126,
+      "gas:candidate-vibid:1001000113946": 41,
+      "gas:candidate-vibid:250200071678": 15,
+      "special:against-all": 226
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170368&region=0&sub_region=0&type=429",
@@ -8162,15 +8162,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 783,
-      "Каверин Владимир Викторович": 23,
-      "Каганович Михаил Вениаминович": 12,
-      "Кулагина Галина Сергеевна": 32,
-      "Мухин Сергей Вениаминович": 45,
-      "Романович Александр Леонидович": 92,
-      "Саломатин Николай Михайлович": 45,
-      "Федоров Евгений Аверьянович": 5,
-      "Против всех": 217
+      "gas:candidate-vibid:1001000131400": 783,
+      "gas:candidate-vibid:1001000217932": 23,
+      "gas:candidate-vibid:250200071675": 12,
+      "gas:candidate-vibid:1001000195093": 32,
+      "gas:candidate-vibid:1001000121864": 45,
+      "gas:candidate-vibid:1001000190364": 92,
+      "gas:candidate-vibid:1001000113946": 45,
+      "gas:candidate-vibid:250200071678": 5,
+      "special:against-all": 217
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170368&region=0&sub_region=0&type=429",
@@ -8220,15 +8220,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 711,
-      "Каверин Владимир Викторович": 21,
-      "Каганович Михаил Вениаминович": 8,
-      "Кулагина Галина Сергеевна": 27,
-      "Мухин Сергей Вениаминович": 48,
-      "Романович Александр Леонидович": 85,
-      "Саломатин Николай Михайлович": 33,
-      "Федоров Евгений Аверьянович": 4,
-      "Против всех": 179
+      "gas:candidate-vibid:1001000131400": 711,
+      "gas:candidate-vibid:1001000217932": 21,
+      "gas:candidate-vibid:250200071675": 8,
+      "gas:candidate-vibid:1001000195093": 27,
+      "gas:candidate-vibid:1001000121864": 48,
+      "gas:candidate-vibid:1001000190364": 85,
+      "gas:candidate-vibid:1001000113946": 33,
+      "gas:candidate-vibid:250200071678": 4,
+      "special:against-all": 179
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170368&region=0&sub_region=0&type=429",
@@ -8278,15 +8278,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 852,
-      "Каверин Владимир Викторович": 32,
-      "Каганович Михаил Вениаминович": 10,
-      "Кулагина Галина Сергеевна": 31,
-      "Мухин Сергей Вениаминович": 76,
-      "Романович Александр Леонидович": 186,
-      "Саломатин Николай Михайлович": 59,
-      "Федоров Евгений Аверьянович": 17,
-      "Против всех": 322
+      "gas:candidate-vibid:1001000131400": 852,
+      "gas:candidate-vibid:1001000217932": 32,
+      "gas:candidate-vibid:250200071675": 10,
+      "gas:candidate-vibid:1001000195093": 31,
+      "gas:candidate-vibid:1001000121864": 76,
+      "gas:candidate-vibid:1001000190364": 186,
+      "gas:candidate-vibid:1001000113946": 59,
+      "gas:candidate-vibid:250200071678": 17,
+      "special:against-all": 322
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170368&region=0&sub_region=0&type=429",
@@ -8336,15 +8336,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 674,
-      "Каверин Владимир Викторович": 25,
-      "Каганович Михаил Вениаминович": 7,
-      "Кулагина Галина Сергеевна": 25,
-      "Мухин Сергей Вениаминович": 63,
-      "Романович Александр Леонидович": 76,
-      "Саломатин Николай Михайлович": 40,
-      "Федоров Евгений Аверьянович": 9,
-      "Против всех": 193
+      "gas:candidate-vibid:1001000131400": 674,
+      "gas:candidate-vibid:1001000217932": 25,
+      "gas:candidate-vibid:250200071675": 7,
+      "gas:candidate-vibid:1001000195093": 25,
+      "gas:candidate-vibid:1001000121864": 63,
+      "gas:candidate-vibid:1001000190364": 76,
+      "gas:candidate-vibid:1001000113946": 40,
+      "gas:candidate-vibid:250200071678": 9,
+      "special:against-all": 193
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170368&region=0&sub_region=0&type=429",
@@ -8394,15 +8394,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 577,
-      "Каверин Владимир Викторович": 17,
-      "Каганович Михаил Вениаминович": 7,
-      "Кулагина Галина Сергеевна": 29,
-      "Мухин Сергей Вениаминович": 65,
-      "Романович Александр Леонидович": 85,
-      "Саломатин Николай Михайлович": 26,
-      "Федоров Евгений Аверьянович": 6,
-      "Против всех": 128
+      "gas:candidate-vibid:1001000131400": 577,
+      "gas:candidate-vibid:1001000217932": 17,
+      "gas:candidate-vibid:250200071675": 7,
+      "gas:candidate-vibid:1001000195093": 29,
+      "gas:candidate-vibid:1001000121864": 65,
+      "gas:candidate-vibid:1001000190364": 85,
+      "gas:candidate-vibid:1001000113946": 26,
+      "gas:candidate-vibid:250200071678": 6,
+      "special:against-all": 128
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170368&region=0&sub_region=0&type=429",
@@ -8452,15 +8452,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 635,
-      "Каверин Владимир Викторович": 14,
-      "Каганович Михаил Вениаминович": 7,
-      "Кулагина Галина Сергеевна": 25,
-      "Мухин Сергей Вениаминович": 48,
-      "Романович Александр Леонидович": 153,
-      "Саломатин Николай Михайлович": 28,
-      "Федоров Евгений Аверьянович": 19,
-      "Против всех": 197
+      "gas:candidate-vibid:1001000131400": 635,
+      "gas:candidate-vibid:1001000217932": 14,
+      "gas:candidate-vibid:250200071675": 7,
+      "gas:candidate-vibid:1001000195093": 25,
+      "gas:candidate-vibid:1001000121864": 48,
+      "gas:candidate-vibid:1001000190364": 153,
+      "gas:candidate-vibid:1001000113946": 28,
+      "gas:candidate-vibid:250200071678": 19,
+      "special:against-all": 197
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170368&region=0&sub_region=0&type=429",
@@ -8510,15 +8510,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 471,
-      "Каверин Владимир Викторович": 15,
-      "Каганович Михаил Вениаминович": 7,
-      "Кулагина Галина Сергеевна": 17,
-      "Мухин Сергей Вениаминович": 47,
-      "Романович Александр Леонидович": 68,
-      "Саломатин Николай Михайлович": 15,
-      "Федоров Евгений Аверьянович": 6,
-      "Против всех": 149
+      "gas:candidate-vibid:1001000131400": 471,
+      "gas:candidate-vibid:1001000217932": 15,
+      "gas:candidate-vibid:250200071675": 7,
+      "gas:candidate-vibid:1001000195093": 17,
+      "gas:candidate-vibid:1001000121864": 47,
+      "gas:candidate-vibid:1001000190364": 68,
+      "gas:candidate-vibid:1001000113946": 15,
+      "gas:candidate-vibid:250200071678": 6,
+      "special:against-all": 149
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170368&region=0&sub_region=0&type=429",
@@ -8568,15 +8568,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 582,
-      "Каверин Владимир Викторович": 17,
-      "Каганович Михаил Вениаминович": 9,
-      "Кулагина Галина Сергеевна": 20,
-      "Мухин Сергей Вениаминович": 31,
-      "Романович Александр Леонидович": 78,
-      "Саломатин Николай Михайлович": 26,
-      "Федоров Евгений Аверьянович": 10,
-      "Против всех": 150
+      "gas:candidate-vibid:1001000131400": 582,
+      "gas:candidate-vibid:1001000217932": 17,
+      "gas:candidate-vibid:250200071675": 9,
+      "gas:candidate-vibid:1001000195093": 20,
+      "gas:candidate-vibid:1001000121864": 31,
+      "gas:candidate-vibid:1001000190364": 78,
+      "gas:candidate-vibid:1001000113946": 26,
+      "gas:candidate-vibid:250200071678": 10,
+      "special:against-all": 150
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170368&region=0&sub_region=0&type=429",
@@ -8626,15 +8626,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 572,
-      "Каверин Владимир Викторович": 19,
-      "Каганович Михаил Вениаминович": 8,
-      "Кулагина Галина Сергеевна": 37,
-      "Мухин Сергей Вениаминович": 72,
-      "Романович Александр Леонидович": 132,
-      "Саломатин Николай Михайлович": 36,
-      "Федоров Евгений Аверьянович": 10,
-      "Против всех": 229
+      "gas:candidate-vibid:1001000131400": 572,
+      "gas:candidate-vibid:1001000217932": 19,
+      "gas:candidate-vibid:250200071675": 8,
+      "gas:candidate-vibid:1001000195093": 37,
+      "gas:candidate-vibid:1001000121864": 72,
+      "gas:candidate-vibid:1001000190364": 132,
+      "gas:candidate-vibid:1001000113946": 36,
+      "gas:candidate-vibid:250200071678": 10,
+      "special:against-all": 229
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170368&region=0&sub_region=0&type=429",
@@ -8684,15 +8684,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 484,
-      "Каверин Владимир Викторович": 19,
-      "Каганович Михаил Вениаминович": 8,
-      "Кулагина Галина Сергеевна": 19,
-      "Мухин Сергей Вениаминович": 86,
-      "Романович Александр Леонидович": 201,
-      "Саломатин Николай Михайлович": 36,
-      "Федоров Евгений Аверьянович": 10,
-      "Против всех": 228
+      "gas:candidate-vibid:1001000131400": 484,
+      "gas:candidate-vibid:1001000217932": 19,
+      "gas:candidate-vibid:250200071675": 8,
+      "gas:candidate-vibid:1001000195093": 19,
+      "gas:candidate-vibid:1001000121864": 86,
+      "gas:candidate-vibid:1001000190364": 201,
+      "gas:candidate-vibid:1001000113946": 36,
+      "gas:candidate-vibid:250200071678": 10,
+      "special:against-all": 228
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170368&region=0&sub_region=0&type=429",
@@ -8742,15 +8742,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 286,
-      "Каверин Владимир Викторович": 11,
-      "Каганович Михаил Вениаминович": 4,
-      "Кулагина Галина Сергеевна": 7,
-      "Мухин Сергей Вениаминович": 22,
-      "Романович Александр Леонидович": 44,
-      "Саломатин Николай Михайлович": 12,
-      "Федоров Евгений Аверьянович": 4,
-      "Против всех": 81
+      "gas:candidate-vibid:1001000131400": 286,
+      "gas:candidate-vibid:1001000217932": 11,
+      "gas:candidate-vibid:250200071675": 4,
+      "gas:candidate-vibid:1001000195093": 7,
+      "gas:candidate-vibid:1001000121864": 22,
+      "gas:candidate-vibid:1001000190364": 44,
+      "gas:candidate-vibid:1001000113946": 12,
+      "gas:candidate-vibid:250200071678": 4,
+      "special:against-all": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170368&region=0&sub_region=0&type=429",
@@ -8800,15 +8800,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 726,
-      "Каверин Владимир Викторович": 31,
-      "Каганович Михаил Вениаминович": 5,
-      "Кулагина Галина Сергеевна": 24,
-      "Мухин Сергей Вениаминович": 75,
-      "Романович Александр Леонидович": 117,
-      "Саломатин Николай Михайлович": 28,
-      "Федоров Евгений Аверьянович": 11,
-      "Против всех": 283
+      "gas:candidate-vibid:1001000131400": 726,
+      "gas:candidate-vibid:1001000217932": 31,
+      "gas:candidate-vibid:250200071675": 5,
+      "gas:candidate-vibid:1001000195093": 24,
+      "gas:candidate-vibid:1001000121864": 75,
+      "gas:candidate-vibid:1001000190364": 117,
+      "gas:candidate-vibid:1001000113946": 28,
+      "gas:candidate-vibid:250200071678": 11,
+      "special:against-all": 283
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170368&region=0&sub_region=0&type=429",
@@ -8858,15 +8858,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 142,
-      "Каверин Владимир Викторович": 7,
-      "Каганович Михаил Вениаминович": 1,
-      "Кулагина Галина Сергеевна": 7,
-      "Мухин Сергей Вениаминович": 27,
-      "Романович Александр Леонидович": 13,
-      "Саломатин Николай Михайлович": 6,
-      "Федоров Евгений Аверьянович": 5,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000131400": 142,
+      "gas:candidate-vibid:1001000217932": 7,
+      "gas:candidate-vibid:250200071675": 1,
+      "gas:candidate-vibid:1001000195093": 7,
+      "gas:candidate-vibid:1001000121864": 27,
+      "gas:candidate-vibid:1001000190364": 13,
+      "gas:candidate-vibid:1001000113946": 6,
+      "gas:candidate-vibid:250200071678": 5,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170368&region=0&sub_region=0&type=429",
@@ -8916,15 +8916,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 60,
-      "Каверин Владимир Викторович": 3,
-      "Каганович Михаил Вениаминович": 1,
-      "Кулагина Галина Сергеевна": 2,
-      "Мухин Сергей Вениаминович": 1,
-      "Романович Александр Леонидович": 27,
-      "Саломатин Николай Михайлович": 1,
-      "Федоров Евгений Аверьянович": 1,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000131400": 60,
+      "gas:candidate-vibid:1001000217932": 3,
+      "gas:candidate-vibid:250200071675": 1,
+      "gas:candidate-vibid:1001000195093": 2,
+      "gas:candidate-vibid:1001000121864": 1,
+      "gas:candidate-vibid:1001000190364": 27,
+      "gas:candidate-vibid:1001000113946": 1,
+      "gas:candidate-vibid:250200071678": 1,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170368&region=0&sub_region=0&type=429",
@@ -8974,15 +8974,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 190,
-      "Каверин Владимир Викторович": 13,
-      "Каганович Михаил Вениаминович": 7,
-      "Кулагина Галина Сергеевна": 14,
-      "Мухин Сергей Вениаминович": 17,
-      "Романович Александр Леонидович": 90,
-      "Саломатин Николай Михайлович": 19,
-      "Федоров Евгений Аверьянович": 10,
-      "Против всех": 107
+      "gas:candidate-vibid:1001000131400": 190,
+      "gas:candidate-vibid:1001000217932": 13,
+      "gas:candidate-vibid:250200071675": 7,
+      "gas:candidate-vibid:1001000195093": 14,
+      "gas:candidate-vibid:1001000121864": 17,
+      "gas:candidate-vibid:1001000190364": 90,
+      "gas:candidate-vibid:1001000113946": 19,
+      "gas:candidate-vibid:250200071678": 10,
+      "special:against-all": 107
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170368&region=0&sub_region=0&type=429",
@@ -9032,15 +9032,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 382,
-      "Каверин Владимир Викторович": 15,
-      "Каганович Михаил Вениаминович": 6,
-      "Кулагина Галина Сергеевна": 22,
-      "Мухин Сергей Вениаминович": 53,
-      "Романович Александр Леонидович": 97,
-      "Саломатин Николай Михайлович": 29,
-      "Федоров Евгений Аверьянович": 11,
-      "Против всех": 194
+      "gas:candidate-vibid:1001000131400": 382,
+      "gas:candidate-vibid:1001000217932": 15,
+      "gas:candidate-vibid:250200071675": 6,
+      "gas:candidate-vibid:1001000195093": 22,
+      "gas:candidate-vibid:1001000121864": 53,
+      "gas:candidate-vibid:1001000190364": 97,
+      "gas:candidate-vibid:1001000113946": 29,
+      "gas:candidate-vibid:250200071678": 11,
+      "special:against-all": 194
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170368&region=0&sub_region=0&type=429",
@@ -9090,15 +9090,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 136,
-      "Каверин Владимир Викторович": 9,
-      "Каганович Михаил Вениаминович": 1,
-      "Кулагина Галина Сергеевна": 11,
-      "Мухин Сергей Вениаминович": 6,
-      "Романович Александр Леонидович": 1,
-      "Саломатин Николай Михайлович": 4,
-      "Федоров Евгений Аверьянович": 3,
-      "Против всех": 42
+      "gas:candidate-vibid:1001000131400": 136,
+      "gas:candidate-vibid:1001000217932": 9,
+      "gas:candidate-vibid:250200071675": 1,
+      "gas:candidate-vibid:1001000195093": 11,
+      "gas:candidate-vibid:1001000121864": 6,
+      "gas:candidate-vibid:1001000190364": 1,
+      "gas:candidate-vibid:1001000113946": 4,
+      "gas:candidate-vibid:250200071678": 3,
+      "special:against-all": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170368&region=0&sub_region=0&type=429",
@@ -9148,15 +9148,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 405,
-      "Каверин Владимир Викторович": 31,
-      "Каганович Михаил Вениаминович": 7,
-      "Кулагина Галина Сергеевна": 28,
-      "Мухин Сергей Вениаминович": 33,
-      "Романович Александр Леонидович": 100,
-      "Саломатин Николай Михайлович": 21,
-      "Федоров Евгений Аверьянович": 9,
-      "Против всех": 131
+      "gas:candidate-vibid:1001000131400": 405,
+      "gas:candidate-vibid:1001000217932": 31,
+      "gas:candidate-vibid:250200071675": 7,
+      "gas:candidate-vibid:1001000195093": 28,
+      "gas:candidate-vibid:1001000121864": 33,
+      "gas:candidate-vibid:1001000190364": 100,
+      "gas:candidate-vibid:1001000113946": 21,
+      "gas:candidate-vibid:250200071678": 9,
+      "special:against-all": 131
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170368&region=0&sub_region=0&type=429",
@@ -9206,15 +9206,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 233,
-      "Каверин Владимир Викторович": 2,
-      "Каганович Михаил Вениаминович": 4,
-      "Кулагина Галина Сергеевна": 11,
-      "Мухин Сергей Вениаминович": 19,
-      "Романович Александр Леонидович": 35,
-      "Саломатин Николай Михайлович": 5,
-      "Федоров Евгений Аверьянович": 4,
-      "Против всех": 67
+      "gas:candidate-vibid:1001000131400": 233,
+      "gas:candidate-vibid:1001000217932": 2,
+      "gas:candidate-vibid:250200071675": 4,
+      "gas:candidate-vibid:1001000195093": 11,
+      "gas:candidate-vibid:1001000121864": 19,
+      "gas:candidate-vibid:1001000190364": 35,
+      "gas:candidate-vibid:1001000113946": 5,
+      "gas:candidate-vibid:250200071678": 4,
+      "special:against-all": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170368&region=0&sub_region=0&type=429",
@@ -9264,15 +9264,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 454,
-      "Каверин Владимир Викторович": 16,
-      "Каганович Михаил Вениаминович": 8,
-      "Кулагина Галина Сергеевна": 19,
-      "Мухин Сергей Вениаминович": 16,
-      "Романович Александр Леонидович": 75,
-      "Саломатин Николай Михайлович": 9,
-      "Федоров Евгений Аверьянович": 7,
-      "Против всех": 67
+      "gas:candidate-vibid:1001000131400": 454,
+      "gas:candidate-vibid:1001000217932": 16,
+      "gas:candidate-vibid:250200071675": 8,
+      "gas:candidate-vibid:1001000195093": 19,
+      "gas:candidate-vibid:1001000121864": 16,
+      "gas:candidate-vibid:1001000190364": 75,
+      "gas:candidate-vibid:1001000113946": 9,
+      "gas:candidate-vibid:250200071678": 7,
+      "special:against-all": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170368&region=0&sub_region=0&type=429",
@@ -9322,15 +9322,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 105,
-      "Каверин Владимир Викторович": 1,
-      "Каганович Михаил Вениаминович": 3,
-      "Кулагина Галина Сергеевна": 3,
-      "Мухин Сергей Вениаминович": 4,
-      "Романович Александр Леонидович": 4,
-      "Саломатин Николай Михайлович": 1,
-      "Федоров Евгений Аверьянович": 0,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000131400": 105,
+      "gas:candidate-vibid:1001000217932": 1,
+      "gas:candidate-vibid:250200071675": 3,
+      "gas:candidate-vibid:1001000195093": 3,
+      "gas:candidate-vibid:1001000121864": 4,
+      "gas:candidate-vibid:1001000190364": 4,
+      "gas:candidate-vibid:1001000113946": 1,
+      "gas:candidate-vibid:250200071678": 0,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170368&region=0&sub_region=0&type=429",
@@ -9380,15 +9380,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 137,
-      "Каверин Владимир Викторович": 14,
-      "Каганович Михаил Вениаминович": 3,
-      "Кулагина Галина Сергеевна": 23,
-      "Мухин Сергей Вениаминович": 4,
-      "Романович Александр Леонидович": 21,
-      "Саломатин Николай Михайлович": 1,
-      "Федоров Евгений Аверьянович": 8,
-      "Против всех": 40
+      "gas:candidate-vibid:1001000131400": 137,
+      "gas:candidate-vibid:1001000217932": 14,
+      "gas:candidate-vibid:250200071675": 3,
+      "gas:candidate-vibid:1001000195093": 23,
+      "gas:candidate-vibid:1001000121864": 4,
+      "gas:candidate-vibid:1001000190364": 21,
+      "gas:candidate-vibid:1001000113946": 1,
+      "gas:candidate-vibid:250200071678": 8,
+      "special:against-all": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170368&region=0&sub_region=0&type=429",
@@ -9438,15 +9438,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 301,
-      "Каверин Владимир Викторович": 11,
-      "Каганович Михаил Вениаминович": 2,
-      "Кулагина Галина Сергеевна": 5,
-      "Мухин Сергей Вениаминович": 19,
-      "Романович Александр Леонидович": 89,
-      "Саломатин Николай Михайлович": 9,
-      "Федоров Евгений Аверьянович": 3,
-      "Против всех": 102
+      "gas:candidate-vibid:1001000131400": 301,
+      "gas:candidate-vibid:1001000217932": 11,
+      "gas:candidate-vibid:250200071675": 2,
+      "gas:candidate-vibid:1001000195093": 5,
+      "gas:candidate-vibid:1001000121864": 19,
+      "gas:candidate-vibid:1001000190364": 89,
+      "gas:candidate-vibid:1001000113946": 9,
+      "gas:candidate-vibid:250200071678": 3,
+      "special:against-all": 102
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170368&region=0&sub_region=0&type=429",
@@ -9496,15 +9496,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 280,
-      "Каверин Владимир Викторович": 17,
-      "Каганович Михаил Вениаминович": 3,
-      "Кулагина Галина Сергеевна": 11,
-      "Мухин Сергей Вениаминович": 11,
-      "Романович Александр Леонидович": 52,
-      "Саломатин Николай Михайлович": 8,
-      "Федоров Евгений Аверьянович": 5,
-      "Против всех": 58
+      "gas:candidate-vibid:1001000131400": 280,
+      "gas:candidate-vibid:1001000217932": 17,
+      "gas:candidate-vibid:250200071675": 3,
+      "gas:candidate-vibid:1001000195093": 11,
+      "gas:candidate-vibid:1001000121864": 11,
+      "gas:candidate-vibid:1001000190364": 52,
+      "gas:candidate-vibid:1001000113946": 8,
+      "gas:candidate-vibid:250200071678": 5,
+      "special:against-all": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170368&region=0&sub_region=0&type=429",
@@ -9554,15 +9554,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 338,
-      "Каверин Владимир Викторович": 3,
-      "Каганович Михаил Вениаминович": 1,
-      "Кулагина Галина Сергеевна": 13,
-      "Мухин Сергей Вениаминович": 10,
-      "Романович Александр Леонидович": 46,
-      "Саломатин Николай Михайлович": 10,
-      "Федоров Евгений Аверьянович": 6,
-      "Против всех": 82
+      "gas:candidate-vibid:1001000131400": 338,
+      "gas:candidate-vibid:1001000217932": 3,
+      "gas:candidate-vibid:250200071675": 1,
+      "gas:candidate-vibid:1001000195093": 13,
+      "gas:candidate-vibid:1001000121864": 10,
+      "gas:candidate-vibid:1001000190364": 46,
+      "gas:candidate-vibid:1001000113946": 10,
+      "gas:candidate-vibid:250200071678": 6,
+      "special:against-all": 82
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170368&region=0&sub_region=0&type=429",
@@ -9612,15 +9612,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 120,
-      "Каверин Владимир Викторович": 6,
-      "Каганович Михаил Вениаминович": 1,
-      "Кулагина Галина Сергеевна": 1,
-      "Мухин Сергей Вениаминович": 7,
-      "Романович Александр Леонидович": 5,
-      "Саломатин Николай Михайлович": 3,
-      "Федоров Евгений Аверьянович": 2,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000131400": 120,
+      "gas:candidate-vibid:1001000217932": 6,
+      "gas:candidate-vibid:250200071675": 1,
+      "gas:candidate-vibid:1001000195093": 1,
+      "gas:candidate-vibid:1001000121864": 7,
+      "gas:candidate-vibid:1001000190364": 5,
+      "gas:candidate-vibid:1001000113946": 3,
+      "gas:candidate-vibid:250200071678": 2,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170368&region=0&sub_region=0&type=429",
@@ -9670,15 +9670,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 197,
-      "Каверин Владимир Викторович": 4,
-      "Каганович Михаил Вениаминович": 4,
-      "Кулагина Галина Сергеевна": 5,
-      "Мухин Сергей Вениаминович": 14,
-      "Романович Александр Леонидович": 10,
-      "Саломатин Николай Михайлович": 1,
-      "Федоров Евгений Аверьянович": 2,
-      "Против всех": 43
+      "gas:candidate-vibid:1001000131400": 197,
+      "gas:candidate-vibid:1001000217932": 4,
+      "gas:candidate-vibid:250200071675": 4,
+      "gas:candidate-vibid:1001000195093": 5,
+      "gas:candidate-vibid:1001000121864": 14,
+      "gas:candidate-vibid:1001000190364": 10,
+      "gas:candidate-vibid:1001000113946": 1,
+      "gas:candidate-vibid:250200071678": 2,
+      "special:against-all": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170368&region=0&sub_region=0&type=429",
@@ -9728,15 +9728,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 129,
-      "Каверин Владимир Викторович": 1,
-      "Каганович Михаил Вениаминович": 0,
-      "Кулагина Галина Сергеевна": 5,
-      "Мухин Сергей Вениаминович": 3,
-      "Романович Александр Леонидович": 7,
-      "Саломатин Николай Михайлович": 2,
-      "Федоров Евгений Аверьянович": 0,
-      "Против всех": 43
+      "gas:candidate-vibid:1001000131400": 129,
+      "gas:candidate-vibid:1001000217932": 1,
+      "gas:candidate-vibid:250200071675": 0,
+      "gas:candidate-vibid:1001000195093": 5,
+      "gas:candidate-vibid:1001000121864": 3,
+      "gas:candidate-vibid:1001000190364": 7,
+      "gas:candidate-vibid:1001000113946": 2,
+      "gas:candidate-vibid:250200071678": 0,
+      "special:against-all": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170368&region=0&sub_region=0&type=429",
@@ -9786,15 +9786,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 110,
-      "Каверин Владимир Викторович": 5,
-      "Каганович Михаил Вениаминович": 2,
-      "Кулагина Галина Сергеевна": 12,
-      "Мухин Сергей Вениаминович": 22,
-      "Романович Александр Леонидович": 12,
-      "Саломатин Николай Михайлович": 5,
-      "Федоров Евгений Аверьянович": 3,
-      "Против всех": 36
+      "gas:candidate-vibid:1001000131400": 110,
+      "gas:candidate-vibid:1001000217932": 5,
+      "gas:candidate-vibid:250200071675": 2,
+      "gas:candidate-vibid:1001000195093": 12,
+      "gas:candidate-vibid:1001000121864": 22,
+      "gas:candidate-vibid:1001000190364": 12,
+      "gas:candidate-vibid:1001000113946": 5,
+      "gas:candidate-vibid:250200071678": 3,
+      "special:against-all": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170368&region=0&sub_region=0&type=429",
@@ -9844,15 +9844,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 153,
-      "Каверин Владимир Викторович": 6,
-      "Каганович Михаил Вениаминович": 5,
-      "Кулагина Галина Сергеевна": 9,
-      "Мухин Сергей Вениаминович": 12,
-      "Романович Александр Леонидович": 22,
-      "Саломатин Николай Михайлович": 14,
-      "Федоров Евгений Аверьянович": 5,
-      "Против всех": 34
+      "gas:candidate-vibid:1001000131400": 153,
+      "gas:candidate-vibid:1001000217932": 6,
+      "gas:candidate-vibid:250200071675": 5,
+      "gas:candidate-vibid:1001000195093": 9,
+      "gas:candidate-vibid:1001000121864": 12,
+      "gas:candidate-vibid:1001000190364": 22,
+      "gas:candidate-vibid:1001000113946": 14,
+      "gas:candidate-vibid:250200071678": 5,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170368&region=0&sub_region=0&type=429",
@@ -9902,15 +9902,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 524,
-      "Каверин Владимир Викторович": 22,
-      "Каганович Михаил Вениаминович": 10,
-      "Кулагина Галина Сергеевна": 19,
-      "Мухин Сергей Вениаминович": 25,
-      "Романович Александр Леонидович": 65,
-      "Саломатин Николай Михайлович": 29,
-      "Федоров Евгений Аверьянович": 17,
-      "Против всех": 154
+      "gas:candidate-vibid:1001000131400": 524,
+      "gas:candidate-vibid:1001000217932": 22,
+      "gas:candidate-vibid:250200071675": 10,
+      "gas:candidate-vibid:1001000195093": 19,
+      "gas:candidate-vibid:1001000121864": 25,
+      "gas:candidate-vibid:1001000190364": 65,
+      "gas:candidate-vibid:1001000113946": 29,
+      "gas:candidate-vibid:250200071678": 17,
+      "special:against-all": 154
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170368&region=0&sub_region=0&type=429",
@@ -9960,15 +9960,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 108,
-      "Каверин Владимир Викторович": 5,
-      "Каганович Михаил Вениаминович": 4,
-      "Кулагина Галина Сергеевна": 3,
-      "Мухин Сергей Вениаминович": 5,
-      "Романович Александр Леонидович": 26,
-      "Саломатин Николай Михайлович": 5,
-      "Федоров Евгений Аверьянович": 7,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000131400": 108,
+      "gas:candidate-vibid:1001000217932": 5,
+      "gas:candidate-vibid:250200071675": 4,
+      "gas:candidate-vibid:1001000195093": 3,
+      "gas:candidate-vibid:1001000121864": 5,
+      "gas:candidate-vibid:1001000190364": 26,
+      "gas:candidate-vibid:1001000113946": 5,
+      "gas:candidate-vibid:250200071678": 7,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170368&region=0&sub_region=0&type=429",
@@ -10018,15 +10018,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 386,
-      "Каверин Владимир Викторович": 23,
-      "Каганович Михаил Вениаминович": 7,
-      "Кулагина Галина Сергеевна": 22,
-      "Мухин Сергей Вениаминович": 44,
-      "Романович Александр Леонидович": 81,
-      "Саломатин Николай Михайлович": 32,
-      "Федоров Евгений Аверьянович": 13,
-      "Против всех": 197
+      "gas:candidate-vibid:1001000131400": 386,
+      "gas:candidate-vibid:1001000217932": 23,
+      "gas:candidate-vibid:250200071675": 7,
+      "gas:candidate-vibid:1001000195093": 22,
+      "gas:candidate-vibid:1001000121864": 44,
+      "gas:candidate-vibid:1001000190364": 81,
+      "gas:candidate-vibid:1001000113946": 32,
+      "gas:candidate-vibid:250200071678": 13,
+      "special:against-all": 197
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170368&region=0&sub_region=0&type=429",
@@ -10076,15 +10076,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 75,
-      "Каверин Владимир Викторович": 4,
-      "Каганович Михаил Вениаминович": 2,
-      "Кулагина Галина Сергеевна": 10,
-      "Мухин Сергей Вениаминович": 6,
-      "Романович Александр Леонидович": 26,
-      "Саломатин Николай Михайлович": 4,
-      "Федоров Евгений Аверьянович": 2,
-      "Против всех": 25
+      "gas:candidate-vibid:1001000131400": 75,
+      "gas:candidate-vibid:1001000217932": 4,
+      "gas:candidate-vibid:250200071675": 2,
+      "gas:candidate-vibid:1001000195093": 10,
+      "gas:candidate-vibid:1001000121864": 6,
+      "gas:candidate-vibid:1001000190364": 26,
+      "gas:candidate-vibid:1001000113946": 4,
+      "gas:candidate-vibid:250200071678": 2,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170368&region=0&sub_region=0&type=429",
@@ -10134,15 +10134,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 135,
-      "Каверин Владимир Викторович": 7,
-      "Каганович Михаил Вениаминович": 1,
-      "Кулагина Галина Сергеевна": 8,
-      "Мухин Сергей Вениаминович": 7,
-      "Романович Александр Леонидович": 17,
-      "Саломатин Николай Михайлович": 10,
-      "Федоров Евгений Аверьянович": 1,
-      "Против всех": 26
+      "gas:candidate-vibid:1001000131400": 135,
+      "gas:candidate-vibid:1001000217932": 7,
+      "gas:candidate-vibid:250200071675": 1,
+      "gas:candidate-vibid:1001000195093": 8,
+      "gas:candidate-vibid:1001000121864": 7,
+      "gas:candidate-vibid:1001000190364": 17,
+      "gas:candidate-vibid:1001000113946": 10,
+      "gas:candidate-vibid:250200071678": 1,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170368&region=0&sub_region=0&type=429",
@@ -10192,15 +10192,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 111,
-      "Каверин Владимир Викторович": 0,
-      "Каганович Михаил Вениаминович": 5,
-      "Кулагина Галина Сергеевна": 14,
-      "Мухин Сергей Вениаминович": 29,
-      "Романович Александр Леонидович": 5,
-      "Саломатин Николай Михайлович": 2,
-      "Федоров Евгений Аверьянович": 4,
-      "Против всех": 34
+      "gas:candidate-vibid:1001000131400": 111,
+      "gas:candidate-vibid:1001000217932": 0,
+      "gas:candidate-vibid:250200071675": 5,
+      "gas:candidate-vibid:1001000195093": 14,
+      "gas:candidate-vibid:1001000121864": 29,
+      "gas:candidate-vibid:1001000190364": 5,
+      "gas:candidate-vibid:1001000113946": 2,
+      "gas:candidate-vibid:250200071678": 4,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170368&region=0&sub_region=0&type=429",
@@ -10250,15 +10250,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 212,
-      "Каверин Владимир Викторович": 4,
-      "Каганович Михаил Вениаминович": 2,
-      "Кулагина Галина Сергеевна": 5,
-      "Мухин Сергей Вениаминович": 3,
-      "Романович Александр Леонидович": 10,
-      "Саломатин Николай Михайлович": 4,
-      "Федоров Евгений Аверьянович": 0,
-      "Против всех": 24
+      "gas:candidate-vibid:1001000131400": 212,
+      "gas:candidate-vibid:1001000217932": 4,
+      "gas:candidate-vibid:250200071675": 2,
+      "gas:candidate-vibid:1001000195093": 5,
+      "gas:candidate-vibid:1001000121864": 3,
+      "gas:candidate-vibid:1001000190364": 10,
+      "gas:candidate-vibid:1001000113946": 4,
+      "gas:candidate-vibid:250200071678": 0,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170368&region=0&sub_region=0&type=429",
@@ -10308,15 +10308,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 292,
-      "Каверин Владимир Викторович": 14,
-      "Каганович Михаил Вениаминович": 0,
-      "Кулагина Галина Сергеевна": 21,
-      "Мухин Сергей Вениаминович": 54,
-      "Романович Александр Леонидович": 30,
-      "Саломатин Николай Михайлович": 11,
-      "Федоров Евгений Аверьянович": 9,
-      "Против всех": 149
+      "gas:candidate-vibid:1001000131400": 292,
+      "gas:candidate-vibid:1001000217932": 14,
+      "gas:candidate-vibid:250200071675": 0,
+      "gas:candidate-vibid:1001000195093": 21,
+      "gas:candidate-vibid:1001000121864": 54,
+      "gas:candidate-vibid:1001000190364": 30,
+      "gas:candidate-vibid:1001000113946": 11,
+      "gas:candidate-vibid:250200071678": 9,
+      "special:against-all": 149
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170368&region=0&sub_region=0&type=429",
@@ -10366,15 +10366,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 198,
-      "Каверин Владимир Викторович": 1,
-      "Каганович Михаил Вениаминович": 1,
-      "Кулагина Галина Сергеевна": 4,
-      "Мухин Сергей Вениаминович": 5,
-      "Романович Александр Леонидович": 5,
-      "Саломатин Николай Михайлович": 2,
-      "Федоров Евгений Аверьянович": 2,
-      "Против всех": 30
+      "gas:candidate-vibid:1001000131400": 198,
+      "gas:candidate-vibid:1001000217932": 1,
+      "gas:candidate-vibid:250200071675": 1,
+      "gas:candidate-vibid:1001000195093": 4,
+      "gas:candidate-vibid:1001000121864": 5,
+      "gas:candidate-vibid:1001000190364": 5,
+      "gas:candidate-vibid:1001000113946": 2,
+      "gas:candidate-vibid:250200071678": 2,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170368&region=0&sub_region=0&type=429",
@@ -10424,15 +10424,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 123,
-      "Каверин Владимир Викторович": 6,
-      "Каганович Михаил Вениаминович": 0,
-      "Кулагина Галина Сергеевна": 3,
-      "Мухин Сергей Вениаминович": 14,
-      "Романович Александр Леонидович": 31,
-      "Саломатин Николай Михайлович": 6,
-      "Федоров Евгений Аверьянович": 1,
-      "Против всех": 26
+      "gas:candidate-vibid:1001000131400": 123,
+      "gas:candidate-vibid:1001000217932": 6,
+      "gas:candidate-vibid:250200071675": 0,
+      "gas:candidate-vibid:1001000195093": 3,
+      "gas:candidate-vibid:1001000121864": 14,
+      "gas:candidate-vibid:1001000190364": 31,
+      "gas:candidate-vibid:1001000113946": 6,
+      "gas:candidate-vibid:250200071678": 1,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170368&region=0&sub_region=0&type=429",
@@ -10482,15 +10482,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 161,
-      "Каверин Владимир Викторович": 2,
-      "Каганович Михаил Вениаминович": 4,
-      "Кулагина Галина Сергеевна": 6,
-      "Мухин Сергей Вениаминович": 2,
-      "Романович Александр Леонидович": 12,
-      "Саломатин Николай Михайлович": 11,
-      "Федоров Евгений Аверьянович": 4,
-      "Против всех": 30
+      "gas:candidate-vibid:1001000131400": 161,
+      "gas:candidate-vibid:1001000217932": 2,
+      "gas:candidate-vibid:250200071675": 4,
+      "gas:candidate-vibid:1001000195093": 6,
+      "gas:candidate-vibid:1001000121864": 2,
+      "gas:candidate-vibid:1001000190364": 12,
+      "gas:candidate-vibid:1001000113946": 11,
+      "gas:candidate-vibid:250200071678": 4,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170368&region=0&sub_region=0&type=429",
@@ -10540,15 +10540,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 634,
-      "Каверин Владимир Викторович": 23,
-      "Каганович Михаил Вениаминович": 6,
-      "Кулагина Галина Сергеевна": 26,
-      "Мухин Сергей Вениаминович": 27,
-      "Романович Александр Леонидович": 117,
-      "Саломатин Николай Михайлович": 27,
-      "Федоров Евгений Аверьянович": 6,
-      "Против всех": 228
+      "gas:candidate-vibid:1001000131400": 634,
+      "gas:candidate-vibid:1001000217932": 23,
+      "gas:candidate-vibid:250200071675": 6,
+      "gas:candidate-vibid:1001000195093": 26,
+      "gas:candidate-vibid:1001000121864": 27,
+      "gas:candidate-vibid:1001000190364": 117,
+      "gas:candidate-vibid:1001000113946": 27,
+      "gas:candidate-vibid:250200071678": 6,
+      "special:against-all": 228
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170368&region=0&sub_region=0&type=429",
@@ -10598,15 +10598,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 559,
-      "Каверин Владимир Викторович": 15,
-      "Каганович Михаил Вениаминович": 7,
-      "Кулагина Галина Сергеевна": 9,
-      "Мухин Сергей Вениаминович": 39,
-      "Романович Александр Леонидович": 41,
-      "Саломатин Николай Михайлович": 10,
-      "Федоров Евгений Аверьянович": 6,
-      "Против всех": 67
+      "gas:candidate-vibid:1001000131400": 559,
+      "gas:candidate-vibid:1001000217932": 15,
+      "gas:candidate-vibid:250200071675": 7,
+      "gas:candidate-vibid:1001000195093": 9,
+      "gas:candidate-vibid:1001000121864": 39,
+      "gas:candidate-vibid:1001000190364": 41,
+      "gas:candidate-vibid:1001000113946": 10,
+      "gas:candidate-vibid:250200071678": 6,
+      "special:against-all": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170368&region=0&sub_region=0&type=429",
@@ -10656,15 +10656,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 477,
-      "Каверин Владимир Викторович": 20,
-      "Каганович Михаил Вениаминович": 4,
-      "Кулагина Галина Сергеевна": 24,
-      "Мухин Сергей Вениаминович": 34,
-      "Романович Александр Леонидович": 55,
-      "Саломатин Николай Михайлович": 17,
-      "Федоров Евгений Аверьянович": 8,
-      "Против всех": 121
+      "gas:candidate-vibid:1001000131400": 477,
+      "gas:candidate-vibid:1001000217932": 20,
+      "gas:candidate-vibid:250200071675": 4,
+      "gas:candidate-vibid:1001000195093": 24,
+      "gas:candidate-vibid:1001000121864": 34,
+      "gas:candidate-vibid:1001000190364": 55,
+      "gas:candidate-vibid:1001000113946": 17,
+      "gas:candidate-vibid:250200071678": 8,
+      "special:against-all": 121
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170368&region=0&sub_region=0&type=429",
@@ -10714,15 +10714,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 518,
-      "Каверин Владимир Викторович": 23,
-      "Каганович Михаил Вениаминович": 1,
-      "Кулагина Галина Сергеевна": 38,
-      "Мухин Сергей Вениаминович": 11,
-      "Романович Александр Леонидович": 82,
-      "Саломатин Николай Михайлович": 18,
-      "Федоров Евгений Аверьянович": 7,
-      "Против всех": 94
+      "gas:candidate-vibid:1001000131400": 518,
+      "gas:candidate-vibid:1001000217932": 23,
+      "gas:candidate-vibid:250200071675": 1,
+      "gas:candidate-vibid:1001000195093": 38,
+      "gas:candidate-vibid:1001000121864": 11,
+      "gas:candidate-vibid:1001000190364": 82,
+      "gas:candidate-vibid:1001000113946": 18,
+      "gas:candidate-vibid:250200071678": 7,
+      "special:against-all": 94
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170368&region=0&sub_region=0&type=429",
@@ -10772,15 +10772,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 82,
-      "Каверин Владимир Викторович": 5,
-      "Каганович Михаил Вениаминович": 1,
-      "Кулагина Галина Сергеевна": 7,
-      "Мухин Сергей Вениаминович": 6,
-      "Романович Александр Леонидович": 37,
-      "Саломатин Николай Михайлович": 2,
-      "Федоров Евгений Аверьянович": 7,
-      "Против всех": 43
+      "gas:candidate-vibid:1001000131400": 82,
+      "gas:candidate-vibid:1001000217932": 5,
+      "gas:candidate-vibid:250200071675": 1,
+      "gas:candidate-vibid:1001000195093": 7,
+      "gas:candidate-vibid:1001000121864": 6,
+      "gas:candidate-vibid:1001000190364": 37,
+      "gas:candidate-vibid:1001000113946": 2,
+      "gas:candidate-vibid:250200071678": 7,
+      "special:against-all": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170368&region=0&sub_region=0&type=429",
@@ -10830,15 +10830,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 522,
-      "Каверин Владимир Викторович": 5,
-      "Каганович Михаил Вениаминович": 8,
-      "Кулагина Галина Сергеевна": 29,
-      "Мухин Сергей Вениаминович": 14,
-      "Романович Александр Леонидович": 116,
-      "Саломатин Николай Михайлович": 14,
-      "Федоров Евгений Аверьянович": 4,
-      "Против всех": 96
+      "gas:candidate-vibid:1001000131400": 522,
+      "gas:candidate-vibid:1001000217932": 5,
+      "gas:candidate-vibid:250200071675": 8,
+      "gas:candidate-vibid:1001000195093": 29,
+      "gas:candidate-vibid:1001000121864": 14,
+      "gas:candidate-vibid:1001000190364": 116,
+      "gas:candidate-vibid:1001000113946": 14,
+      "gas:candidate-vibid:250200071678": 4,
+      "special:against-all": 96
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170368&region=0&sub_region=0&type=429",
@@ -10888,15 +10888,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 184,
-      "Каверин Владимир Викторович": 18,
-      "Каганович Михаил Вениаминович": 7,
-      "Кулагина Галина Сергеевна": 25,
-      "Мухин Сергей Вениаминович": 35,
-      "Романович Александр Леонидович": 51,
-      "Саломатин Николай Михайлович": 20,
-      "Федоров Евгений Аверьянович": 4,
-      "Против всех": 162
+      "gas:candidate-vibid:1001000131400": 184,
+      "gas:candidate-vibid:1001000217932": 18,
+      "gas:candidate-vibid:250200071675": 7,
+      "gas:candidate-vibid:1001000195093": 25,
+      "gas:candidate-vibid:1001000121864": 35,
+      "gas:candidate-vibid:1001000190364": 51,
+      "gas:candidate-vibid:1001000113946": 20,
+      "gas:candidate-vibid:250200071678": 4,
+      "special:against-all": 162
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170368&region=0&sub_region=0&type=429",
@@ -10946,15 +10946,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 656,
-      "Каверин Владимир Викторович": 21,
-      "Каганович Михаил Вениаминович": 9,
-      "Кулагина Галина Сергеевна": 33,
-      "Мухин Сергей Вениаминович": 127,
-      "Романович Александр Леонидович": 112,
-      "Саломатин Николай Михайлович": 29,
-      "Федоров Евгений Аверьянович": 17,
-      "Против всех": 312
+      "gas:candidate-vibid:1001000131400": 656,
+      "gas:candidate-vibid:1001000217932": 21,
+      "gas:candidate-vibid:250200071675": 9,
+      "gas:candidate-vibid:1001000195093": 33,
+      "gas:candidate-vibid:1001000121864": 127,
+      "gas:candidate-vibid:1001000190364": 112,
+      "gas:candidate-vibid:1001000113946": 29,
+      "gas:candidate-vibid:250200071678": 17,
+      "special:against-all": 312
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170368&region=0&sub_region=0&type=429",
@@ -11004,15 +11004,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 471,
-      "Каверин Владимир Викторович": 46,
-      "Каганович Михаил Вениаминович": 29,
-      "Кулагина Галина Сергеевна": 54,
-      "Мухин Сергей Вениаминович": 88,
-      "Романович Александр Леонидович": 115,
-      "Саломатин Николай Михайлович": 62,
-      "Федоров Евгений Аверьянович": 30,
-      "Против всех": 422
+      "gas:candidate-vibid:1001000131400": 471,
+      "gas:candidate-vibid:1001000217932": 46,
+      "gas:candidate-vibid:250200071675": 29,
+      "gas:candidate-vibid:1001000195093": 54,
+      "gas:candidate-vibid:1001000121864": 88,
+      "gas:candidate-vibid:1001000190364": 115,
+      "gas:candidate-vibid:1001000113946": 62,
+      "gas:candidate-vibid:250200071678": 30,
+      "special:against-all": 422
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170368&region=0&sub_region=0&type=429",
@@ -11062,15 +11062,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 427,
-      "Каверин Владимир Викторович": 36,
-      "Каганович Михаил Вениаминович": 7,
-      "Кулагина Галина Сергеевна": 30,
-      "Мухин Сергей Вениаминович": 55,
-      "Романович Александр Леонидович": 68,
-      "Саломатин Николай Михайлович": 92,
-      "Федоров Евгений Аверьянович": 35,
-      "Против всех": 243
+      "gas:candidate-vibid:1001000131400": 427,
+      "gas:candidate-vibid:1001000217932": 36,
+      "gas:candidate-vibid:250200071675": 7,
+      "gas:candidate-vibid:1001000195093": 30,
+      "gas:candidate-vibid:1001000121864": 55,
+      "gas:candidate-vibid:1001000190364": 68,
+      "gas:candidate-vibid:1001000113946": 92,
+      "gas:candidate-vibid:250200071678": 35,
+      "special:against-all": 243
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170369&region=0&sub_region=0&type=429",
@@ -11120,15 +11120,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 633,
-      "Каверин Владимир Викторович": 36,
-      "Каганович Михаил Вениаминович": 5,
-      "Кулагина Галина Сергеевна": 44,
-      "Мухин Сергей Вениаминович": 86,
-      "Романович Александр Леонидович": 170,
-      "Саломатин Николай Михайлович": 116,
-      "Федоров Евгений Аверьянович": 44,
-      "Против всех": 372
+      "gas:candidate-vibid:1001000131400": 633,
+      "gas:candidate-vibid:1001000217932": 36,
+      "gas:candidate-vibid:250200071675": 5,
+      "gas:candidate-vibid:1001000195093": 44,
+      "gas:candidate-vibid:1001000121864": 86,
+      "gas:candidate-vibid:1001000190364": 170,
+      "gas:candidate-vibid:1001000113946": 116,
+      "gas:candidate-vibid:250200071678": 44,
+      "special:against-all": 372
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170369&region=0&sub_region=0&type=429",
@@ -11178,15 +11178,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 413,
-      "Каверин Владимир Викторович": 34,
-      "Каганович Михаил Вениаминович": 4,
-      "Кулагина Галина Сергеевна": 29,
-      "Мухин Сергей Вениаминович": 41,
-      "Романович Александр Леонидович": 41,
-      "Саломатин Николай Михайлович": 54,
-      "Федоров Евгений Аверьянович": 45,
-      "Против всех": 239
+      "gas:candidate-vibid:1001000131400": 413,
+      "gas:candidate-vibid:1001000217932": 34,
+      "gas:candidate-vibid:250200071675": 4,
+      "gas:candidate-vibid:1001000195093": 29,
+      "gas:candidate-vibid:1001000121864": 41,
+      "gas:candidate-vibid:1001000190364": 41,
+      "gas:candidate-vibid:1001000113946": 54,
+      "gas:candidate-vibid:250200071678": 45,
+      "special:against-all": 239
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170369&region=0&sub_region=0&type=429",
@@ -11236,15 +11236,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 290,
-      "Каверин Владимир Викторович": 27,
-      "Каганович Михаил Вениаминович": 2,
-      "Кулагина Галина Сергеевна": 22,
-      "Мухин Сергей Вениаминович": 21,
-      "Романович Александр Леонидович": 86,
-      "Саломатин Николай Михайлович": 32,
-      "Федоров Евгений Аверьянович": 18,
-      "Против всех": 168
+      "gas:candidate-vibid:1001000131400": 290,
+      "gas:candidate-vibid:1001000217932": 27,
+      "gas:candidate-vibid:250200071675": 2,
+      "gas:candidate-vibid:1001000195093": 22,
+      "gas:candidate-vibid:1001000121864": 21,
+      "gas:candidate-vibid:1001000190364": 86,
+      "gas:candidate-vibid:1001000113946": 32,
+      "gas:candidate-vibid:250200071678": 18,
+      "special:against-all": 168
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170369&region=0&sub_region=0&type=429",
@@ -11294,15 +11294,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 122,
-      "Каверин Владимир Викторович": 11,
-      "Каганович Михаил Вениаминович": 1,
-      "Кулагина Галина Сергеевна": 17,
-      "Мухин Сергей Вениаминович": 12,
-      "Романович Александр Леонидович": 13,
-      "Саломатин Николай Михайлович": 11,
-      "Федоров Евгений Аверьянович": 9,
-      "Против всех": 63
+      "gas:candidate-vibid:1001000131400": 122,
+      "gas:candidate-vibid:1001000217932": 11,
+      "gas:candidate-vibid:250200071675": 1,
+      "gas:candidate-vibid:1001000195093": 17,
+      "gas:candidate-vibid:1001000121864": 12,
+      "gas:candidate-vibid:1001000190364": 13,
+      "gas:candidate-vibid:1001000113946": 11,
+      "gas:candidate-vibid:250200071678": 9,
+      "special:against-all": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170369&region=0&sub_region=0&type=429",
@@ -11352,15 +11352,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 122,
-      "Каверин Владимир Викторович": 8,
-      "Каганович Михаил Вениаминович": 1,
-      "Кулагина Галина Сергеевна": 16,
-      "Мухин Сергей Вениаминович": 7,
-      "Романович Александр Леонидович": 33,
-      "Саломатин Николай Михайлович": 18,
-      "Федоров Евгений Аверьянович": 15,
-      "Против всех": 66
+      "gas:candidate-vibid:1001000131400": 122,
+      "gas:candidate-vibid:1001000217932": 8,
+      "gas:candidate-vibid:250200071675": 1,
+      "gas:candidate-vibid:1001000195093": 16,
+      "gas:candidate-vibid:1001000121864": 7,
+      "gas:candidate-vibid:1001000190364": 33,
+      "gas:candidate-vibid:1001000113946": 18,
+      "gas:candidate-vibid:250200071678": 15,
+      "special:against-all": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170369&region=0&sub_region=0&type=429",
@@ -11410,15 +11410,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 719,
-      "Каверин Владимир Викторович": 25,
-      "Каганович Михаил Вениаминович": 4,
-      "Кулагина Галина Сергеевна": 29,
-      "Мухин Сергей Вениаминович": 73,
-      "Романович Александр Леонидович": 162,
-      "Саломатин Николай Михайлович": 68,
-      "Федоров Евгений Аверьянович": 29,
-      "Против всех": 231
+      "gas:candidate-vibid:1001000131400": 719,
+      "gas:candidate-vibid:1001000217932": 25,
+      "gas:candidate-vibid:250200071675": 4,
+      "gas:candidate-vibid:1001000195093": 29,
+      "gas:candidate-vibid:1001000121864": 73,
+      "gas:candidate-vibid:1001000190364": 162,
+      "gas:candidate-vibid:1001000113946": 68,
+      "gas:candidate-vibid:250200071678": 29,
+      "special:against-all": 231
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170369&region=0&sub_region=0&type=429",
@@ -11468,15 +11468,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 685,
-      "Каверин Владимир Викторович": 25,
-      "Каганович Михаил Вениаминович": 10,
-      "Кулагина Галина Сергеевна": 39,
-      "Мухин Сергей Вениаминович": 75,
-      "Романович Александр Леонидович": 84,
-      "Саломатин Николай Михайлович": 114,
-      "Федоров Евгений Аверьянович": 43,
-      "Против всех": 294
+      "gas:candidate-vibid:1001000131400": 685,
+      "gas:candidate-vibid:1001000217932": 25,
+      "gas:candidate-vibid:250200071675": 10,
+      "gas:candidate-vibid:1001000195093": 39,
+      "gas:candidate-vibid:1001000121864": 75,
+      "gas:candidate-vibid:1001000190364": 84,
+      "gas:candidate-vibid:1001000113946": 114,
+      "gas:candidate-vibid:250200071678": 43,
+      "special:against-all": 294
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170369&region=0&sub_region=0&type=429",
@@ -11526,15 +11526,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 666,
-      "Каверин Владимир Викторович": 27,
-      "Каганович Михаил Вениаминович": 9,
-      "Кулагина Галина Сергеевна": 39,
-      "Мухин Сергей Вениаминович": 65,
-      "Романович Александр Леонидович": 104,
-      "Саломатин Николай Михайлович": 79,
-      "Федоров Евгений Аверьянович": 35,
-      "Против всех": 266
+      "gas:candidate-vibid:1001000131400": 666,
+      "gas:candidate-vibid:1001000217932": 27,
+      "gas:candidate-vibid:250200071675": 9,
+      "gas:candidate-vibid:1001000195093": 39,
+      "gas:candidate-vibid:1001000121864": 65,
+      "gas:candidate-vibid:1001000190364": 104,
+      "gas:candidate-vibid:1001000113946": 79,
+      "gas:candidate-vibid:250200071678": 35,
+      "special:against-all": 266
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170369&region=0&sub_region=0&type=429",
@@ -11584,15 +11584,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 538,
-      "Каверин Владимир Викторович": 19,
-      "Каганович Михаил Вениаминович": 8,
-      "Кулагина Галина Сергеевна": 34,
-      "Мухин Сергей Вениаминович": 57,
-      "Романович Александр Леонидович": 83,
-      "Саломатин Николай Михайлович": 74,
-      "Федоров Евгений Аверьянович": 30,
-      "Против всех": 213
+      "gas:candidate-vibid:1001000131400": 538,
+      "gas:candidate-vibid:1001000217932": 19,
+      "gas:candidate-vibid:250200071675": 8,
+      "gas:candidate-vibid:1001000195093": 34,
+      "gas:candidate-vibid:1001000121864": 57,
+      "gas:candidate-vibid:1001000190364": 83,
+      "gas:candidate-vibid:1001000113946": 74,
+      "gas:candidate-vibid:250200071678": 30,
+      "special:against-all": 213
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170369&region=0&sub_region=0&type=429",
@@ -11642,15 +11642,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 437,
-      "Каверин Владимир Викторович": 20,
-      "Каганович Михаил Вениаминович": 7,
-      "Кулагина Галина Сергеевна": 38,
-      "Мухин Сергей Вениаминович": 29,
-      "Романович Александр Леонидович": 67,
-      "Саломатин Николай Михайлович": 44,
-      "Федоров Евгений Аверьянович": 29,
-      "Против всех": 180
+      "gas:candidate-vibid:1001000131400": 437,
+      "gas:candidate-vibid:1001000217932": 20,
+      "gas:candidate-vibid:250200071675": 7,
+      "gas:candidate-vibid:1001000195093": 38,
+      "gas:candidate-vibid:1001000121864": 29,
+      "gas:candidate-vibid:1001000190364": 67,
+      "gas:candidate-vibid:1001000113946": 44,
+      "gas:candidate-vibid:250200071678": 29,
+      "special:against-all": 180
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170369&region=0&sub_region=0&type=429",
@@ -11700,15 +11700,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 433,
-      "Каверин Владимир Викторович": 25,
-      "Каганович Михаил Вениаминович": 1,
-      "Кулагина Галина Сергеевна": 46,
-      "Мухин Сергей Вениаминович": 44,
-      "Романович Александр Леонидович": 72,
-      "Саломатин Николай Михайлович": 55,
-      "Федоров Евгений Аверьянович": 42,
-      "Против всех": 156
+      "gas:candidate-vibid:1001000131400": 433,
+      "gas:candidate-vibid:1001000217932": 25,
+      "gas:candidate-vibid:250200071675": 1,
+      "gas:candidate-vibid:1001000195093": 46,
+      "gas:candidate-vibid:1001000121864": 44,
+      "gas:candidate-vibid:1001000190364": 72,
+      "gas:candidate-vibid:1001000113946": 55,
+      "gas:candidate-vibid:250200071678": 42,
+      "special:against-all": 156
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170369&region=0&sub_region=0&type=429",
@@ -11758,15 +11758,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 209,
-      "Каверин Владимир Викторович": 5,
-      "Каганович Михаил Вениаминович": 3,
-      "Кулагина Галина Сергеевна": 17,
-      "Мухин Сергей Вениаминович": 23,
-      "Романович Александр Леонидович": 28,
-      "Саломатин Николай Михайлович": 14,
-      "Федоров Евгений Аверьянович": 11,
-      "Против всех": 82
+      "gas:candidate-vibid:1001000131400": 209,
+      "gas:candidate-vibid:1001000217932": 5,
+      "gas:candidate-vibid:250200071675": 3,
+      "gas:candidate-vibid:1001000195093": 17,
+      "gas:candidate-vibid:1001000121864": 23,
+      "gas:candidate-vibid:1001000190364": 28,
+      "gas:candidate-vibid:1001000113946": 14,
+      "gas:candidate-vibid:250200071678": 11,
+      "special:against-all": 82
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170369&region=0&sub_region=0&type=429",
@@ -11816,15 +11816,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 659,
-      "Каверин Владимир Викторович": 22,
-      "Каганович Михаил Вениаминович": 7,
-      "Кулагина Галина Сергеевна": 40,
-      "Мухин Сергей Вениаминович": 68,
-      "Романович Александр Леонидович": 129,
-      "Саломатин Николай Михайлович": 84,
-      "Федоров Евгений Аверьянович": 26,
-      "Против всех": 236
+      "gas:candidate-vibid:1001000131400": 659,
+      "gas:candidate-vibid:1001000217932": 22,
+      "gas:candidate-vibid:250200071675": 7,
+      "gas:candidate-vibid:1001000195093": 40,
+      "gas:candidate-vibid:1001000121864": 68,
+      "gas:candidate-vibid:1001000190364": 129,
+      "gas:candidate-vibid:1001000113946": 84,
+      "gas:candidate-vibid:250200071678": 26,
+      "special:against-all": 236
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170369&region=0&sub_region=0&type=429",
@@ -11874,15 +11874,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 815,
-      "Каверин Владимир Викторович": 23,
-      "Каганович Михаил Вениаминович": 9,
-      "Кулагина Галина Сергеевна": 51,
-      "Мухин Сергей Вениаминович": 80,
-      "Романович Александр Леонидович": 117,
-      "Саломатин Николай Михайлович": 60,
-      "Федоров Евгений Аверьянович": 56,
-      "Против всех": 286
+      "gas:candidate-vibid:1001000131400": 815,
+      "gas:candidate-vibid:1001000217932": 23,
+      "gas:candidate-vibid:250200071675": 9,
+      "gas:candidate-vibid:1001000195093": 51,
+      "gas:candidate-vibid:1001000121864": 80,
+      "gas:candidate-vibid:1001000190364": 117,
+      "gas:candidate-vibid:1001000113946": 60,
+      "gas:candidate-vibid:250200071678": 56,
+      "special:against-all": 286
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170369&region=0&sub_region=0&type=429",
@@ -11932,15 +11932,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 191,
-      "Каверин Владимир Викторович": 18,
-      "Каганович Михаил Вениаминович": 3,
-      "Кулагина Галина Сергеевна": 15,
-      "Мухин Сергей Вениаминович": 28,
-      "Романович Александр Леонидович": 52,
-      "Саломатин Николай Михайлович": 40,
-      "Федоров Евгений Аверьянович": 24,
-      "Против всех": 97
+      "gas:candidate-vibid:1001000131400": 191,
+      "gas:candidate-vibid:1001000217932": 18,
+      "gas:candidate-vibid:250200071675": 3,
+      "gas:candidate-vibid:1001000195093": 15,
+      "gas:candidate-vibid:1001000121864": 28,
+      "gas:candidate-vibid:1001000190364": 52,
+      "gas:candidate-vibid:1001000113946": 40,
+      "gas:candidate-vibid:250200071678": 24,
+      "special:against-all": 97
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170369&region=0&sub_region=0&type=429",
@@ -11990,15 +11990,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 669,
-      "Каверин Владимир Викторович": 43,
-      "Каганович Михаил Вениаминович": 10,
-      "Кулагина Галина Сергеевна": 43,
-      "Мухин Сергей Вениаминович": 80,
-      "Романович Александр Леонидович": 109,
-      "Саломатин Николай Михайлович": 80,
-      "Федоров Евгений Аверьянович": 54,
-      "Против всех": 352
+      "gas:candidate-vibid:1001000131400": 669,
+      "gas:candidate-vibid:1001000217932": 43,
+      "gas:candidate-vibid:250200071675": 10,
+      "gas:candidate-vibid:1001000195093": 43,
+      "gas:candidate-vibid:1001000121864": 80,
+      "gas:candidate-vibid:1001000190364": 109,
+      "gas:candidate-vibid:1001000113946": 80,
+      "gas:candidate-vibid:250200071678": 54,
+      "special:against-all": 352
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170369&region=0&sub_region=0&type=429",
@@ -12048,15 +12048,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 607,
-      "Каверин Владимир Викторович": 33,
-      "Каганович Михаил Вениаминович": 2,
-      "Кулагина Галина Сергеевна": 33,
-      "Мухин Сергей Вениаминович": 59,
-      "Романович Александр Леонидович": 85,
-      "Саломатин Николай Михайлович": 74,
-      "Федоров Евгений Аверьянович": 46,
-      "Против всех": 241
+      "gas:candidate-vibid:1001000131400": 607,
+      "gas:candidate-vibid:1001000217932": 33,
+      "gas:candidate-vibid:250200071675": 2,
+      "gas:candidate-vibid:1001000195093": 33,
+      "gas:candidate-vibid:1001000121864": 59,
+      "gas:candidate-vibid:1001000190364": 85,
+      "gas:candidate-vibid:1001000113946": 74,
+      "gas:candidate-vibid:250200071678": 46,
+      "special:against-all": 241
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170369&region=0&sub_region=0&type=429",
@@ -12106,15 +12106,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 653,
-      "Каверин Владимир Викторович": 27,
-      "Каганович Михаил Вениаминович": 2,
-      "Кулагина Галина Сергеевна": 38,
-      "Мухин Сергей Вениаминович": 70,
-      "Романович Александр Леонидович": 112,
-      "Саломатин Николай Михайлович": 99,
-      "Федоров Евгений Аверьянович": 48,
-      "Против всех": 334
+      "gas:candidate-vibid:1001000131400": 653,
+      "gas:candidate-vibid:1001000217932": 27,
+      "gas:candidate-vibid:250200071675": 2,
+      "gas:candidate-vibid:1001000195093": 38,
+      "gas:candidate-vibid:1001000121864": 70,
+      "gas:candidate-vibid:1001000190364": 112,
+      "gas:candidate-vibid:1001000113946": 99,
+      "gas:candidate-vibid:250200071678": 48,
+      "special:against-all": 334
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170369&region=0&sub_region=0&type=429",
@@ -12164,15 +12164,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 570,
-      "Каверин Владимир Викторович": 32,
-      "Каганович Михаил Вениаминович": 4,
-      "Кулагина Галина Сергеевна": 45,
-      "Мухин Сергей Вениаминович": 96,
-      "Романович Александр Леонидович": 166,
-      "Саломатин Николай Михайлович": 104,
-      "Федоров Евгений Аверьянович": 49,
-      "Против всех": 277
+      "gas:candidate-vibid:1001000131400": 570,
+      "gas:candidate-vibid:1001000217932": 32,
+      "gas:candidate-vibid:250200071675": 4,
+      "gas:candidate-vibid:1001000195093": 45,
+      "gas:candidate-vibid:1001000121864": 96,
+      "gas:candidate-vibid:1001000190364": 166,
+      "gas:candidate-vibid:1001000113946": 104,
+      "gas:candidate-vibid:250200071678": 49,
+      "special:against-all": 277
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170369&region=0&sub_region=0&type=429",
@@ -12222,15 +12222,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 758,
-      "Каверин Владимир Викторович": 34,
-      "Каганович Михаил Вениаминович": 8,
-      "Кулагина Галина Сергеевна": 45,
-      "Мухин Сергей Вениаминович": 94,
-      "Романович Александр Леонидович": 124,
-      "Саломатин Николай Михайлович": 98,
-      "Федоров Евгений Аверьянович": 57,
-      "Против всех": 252
+      "gas:candidate-vibid:1001000131400": 758,
+      "gas:candidate-vibid:1001000217932": 34,
+      "gas:candidate-vibid:250200071675": 8,
+      "gas:candidate-vibid:1001000195093": 45,
+      "gas:candidate-vibid:1001000121864": 94,
+      "gas:candidate-vibid:1001000190364": 124,
+      "gas:candidate-vibid:1001000113946": 98,
+      "gas:candidate-vibid:250200071678": 57,
+      "special:against-all": 252
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170369&region=0&sub_region=0&type=429",
@@ -12280,15 +12280,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 611,
-      "Каверин Владимир Викторович": 35,
-      "Каганович Михаил Вениаминович": 7,
-      "Кулагина Галина Сергеевна": 43,
-      "Мухин Сергей Вениаминович": 89,
-      "Романович Александр Леонидович": 144,
-      "Саломатин Николай Михайлович": 104,
-      "Федоров Евгений Аверьянович": 44,
-      "Против всех": 299
+      "gas:candidate-vibid:1001000131400": 611,
+      "gas:candidate-vibid:1001000217932": 35,
+      "gas:candidate-vibid:250200071675": 7,
+      "gas:candidate-vibid:1001000195093": 43,
+      "gas:candidate-vibid:1001000121864": 89,
+      "gas:candidate-vibid:1001000190364": 144,
+      "gas:candidate-vibid:1001000113946": 104,
+      "gas:candidate-vibid:250200071678": 44,
+      "special:against-all": 299
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170369&region=0&sub_region=0&type=429",
@@ -12338,15 +12338,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 173,
-      "Каверин Владимир Викторович": 12,
-      "Каганович Михаил Вениаминович": 6,
-      "Кулагина Галина Сергеевна": 12,
-      "Мухин Сергей Вениаминович": 16,
-      "Романович Александр Леонидович": 19,
-      "Саломатин Николай Михайлович": 16,
-      "Федоров Евгений Аверьянович": 16,
-      "Против всех": 111
+      "gas:candidate-vibid:1001000131400": 173,
+      "gas:candidate-vibid:1001000217932": 12,
+      "gas:candidate-vibid:250200071675": 6,
+      "gas:candidate-vibid:1001000195093": 12,
+      "gas:candidate-vibid:1001000121864": 16,
+      "gas:candidate-vibid:1001000190364": 19,
+      "gas:candidate-vibid:1001000113946": 16,
+      "gas:candidate-vibid:250200071678": 16,
+      "special:against-all": 111
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170369&region=0&sub_region=0&type=429",
@@ -12396,15 +12396,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 520,
-      "Каверин Владимир Викторович": 36,
-      "Каганович Михаил Вениаминович": 7,
-      "Кулагина Галина Сергеевна": 23,
-      "Мухин Сергей Вениаминович": 66,
-      "Романович Александр Леонидович": 121,
-      "Саломатин Николай Михайлович": 63,
-      "Федоров Евгений Аверьянович": 45,
-      "Против всех": 242
+      "gas:candidate-vibid:1001000131400": 520,
+      "gas:candidate-vibid:1001000217932": 36,
+      "gas:candidate-vibid:250200071675": 7,
+      "gas:candidate-vibid:1001000195093": 23,
+      "gas:candidate-vibid:1001000121864": 66,
+      "gas:candidate-vibid:1001000190364": 121,
+      "gas:candidate-vibid:1001000113946": 63,
+      "gas:candidate-vibid:250200071678": 45,
+      "special:against-all": 242
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170369&region=0&sub_region=0&type=429",
@@ -12454,15 +12454,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 680,
-      "Каверин Владимир Викторович": 35,
-      "Каганович Михаил Вениаминович": 6,
-      "Кулагина Галина Сергеевна": 51,
-      "Мухин Сергей Вениаминович": 76,
-      "Романович Александр Леонидович": 75,
-      "Саломатин Николай Михайлович": 111,
-      "Федоров Евгений Аверьянович": 61,
-      "Против всех": 273
+      "gas:candidate-vibid:1001000131400": 680,
+      "gas:candidate-vibid:1001000217932": 35,
+      "gas:candidate-vibid:250200071675": 6,
+      "gas:candidate-vibid:1001000195093": 51,
+      "gas:candidate-vibid:1001000121864": 76,
+      "gas:candidate-vibid:1001000190364": 75,
+      "gas:candidate-vibid:1001000113946": 111,
+      "gas:candidate-vibid:250200071678": 61,
+      "special:against-all": 273
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170369&region=0&sub_region=0&type=429",
@@ -12512,15 +12512,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 598,
-      "Каверин Владимир Викторович": 24,
-      "Каганович Михаил Вениаминович": 9,
-      "Кулагина Галина Сергеевна": 27,
-      "Мухин Сергей Вениаминович": 88,
-      "Романович Александр Леонидович": 105,
-      "Саломатин Николай Михайлович": 78,
-      "Федоров Евгений Аверьянович": 45,
-      "Против всех": 246
+      "gas:candidate-vibid:1001000131400": 598,
+      "gas:candidate-vibid:1001000217932": 24,
+      "gas:candidate-vibid:250200071675": 9,
+      "gas:candidate-vibid:1001000195093": 27,
+      "gas:candidate-vibid:1001000121864": 88,
+      "gas:candidate-vibid:1001000190364": 105,
+      "gas:candidate-vibid:1001000113946": 78,
+      "gas:candidate-vibid:250200071678": 45,
+      "special:against-all": 246
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170369&region=0&sub_region=0&type=429",
@@ -12570,15 +12570,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 559,
-      "Каверин Владимир Викторович": 30,
-      "Каганович Михаил Вениаминович": 9,
-      "Кулагина Галина Сергеевна": 38,
-      "Мухин Сергей Вениаминович": 69,
-      "Романович Александр Леонидович": 56,
-      "Саломатин Николай Михайлович": 87,
-      "Федоров Евгений Аверьянович": 43,
-      "Против всех": 247
+      "gas:candidate-vibid:1001000131400": 559,
+      "gas:candidate-vibid:1001000217932": 30,
+      "gas:candidate-vibid:250200071675": 9,
+      "gas:candidate-vibid:1001000195093": 38,
+      "gas:candidate-vibid:1001000121864": 69,
+      "gas:candidate-vibid:1001000190364": 56,
+      "gas:candidate-vibid:1001000113946": 87,
+      "gas:candidate-vibid:250200071678": 43,
+      "special:against-all": 247
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170369&region=0&sub_region=0&type=429",
@@ -12628,15 +12628,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 821,
-      "Каверин Владимир Викторович": 42,
-      "Каганович Михаил Вениаминович": 9,
-      "Кулагина Галина Сергеевна": 48,
-      "Мухин Сергей Вениаминович": 86,
-      "Романович Александр Леонидович": 88,
-      "Саломатин Николай Михайлович": 127,
-      "Федоров Евгений Аверьянович": 48,
-      "Против всех": 304
+      "gas:candidate-vibid:1001000131400": 821,
+      "gas:candidate-vibid:1001000217932": 42,
+      "gas:candidate-vibid:250200071675": 9,
+      "gas:candidate-vibid:1001000195093": 48,
+      "gas:candidate-vibid:1001000121864": 86,
+      "gas:candidate-vibid:1001000190364": 88,
+      "gas:candidate-vibid:1001000113946": 127,
+      "gas:candidate-vibid:250200071678": 48,
+      "special:against-all": 304
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170369&region=0&sub_region=0&type=429",
@@ -12686,15 +12686,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 639,
-      "Каверин Владимир Викторович": 31,
-      "Каганович Михаил Вениаминович": 3,
-      "Кулагина Галина Сергеевна": 29,
-      "Мухин Сергей Вениаминович": 77,
-      "Романович Александр Леонидович": 128,
-      "Саломатин Николай Михайлович": 85,
-      "Федоров Евгений Аверьянович": 30,
-      "Против всех": 301
+      "gas:candidate-vibid:1001000131400": 639,
+      "gas:candidate-vibid:1001000217932": 31,
+      "gas:candidate-vibid:250200071675": 3,
+      "gas:candidate-vibid:1001000195093": 29,
+      "gas:candidate-vibid:1001000121864": 77,
+      "gas:candidate-vibid:1001000190364": 128,
+      "gas:candidate-vibid:1001000113946": 85,
+      "gas:candidate-vibid:250200071678": 30,
+      "special:against-all": 301
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170369&region=0&sub_region=0&type=429",
@@ -12744,15 +12744,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 555,
-      "Каверин Владимир Викторович": 54,
-      "Каганович Михаил Вениаминович": 4,
-      "Кулагина Галина Сергеевна": 39,
-      "Мухин Сергей Вениаминович": 66,
-      "Романович Александр Леонидович": 92,
-      "Саломатин Николай Михайлович": 100,
-      "Федоров Евгений Аверьянович": 52,
-      "Против всех": 319
+      "gas:candidate-vibid:1001000131400": 555,
+      "gas:candidate-vibid:1001000217932": 54,
+      "gas:candidate-vibid:250200071675": 4,
+      "gas:candidate-vibid:1001000195093": 39,
+      "gas:candidate-vibid:1001000121864": 66,
+      "gas:candidate-vibid:1001000190364": 92,
+      "gas:candidate-vibid:1001000113946": 100,
+      "gas:candidate-vibid:250200071678": 52,
+      "special:against-all": 319
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170369&region=0&sub_region=0&type=429",
@@ -12802,15 +12802,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 267,
-      "Каверин Владимир Викторович": 12,
-      "Каганович Михаил Вениаминович": 7,
-      "Кулагина Галина Сергеевна": 25,
-      "Мухин Сергей Вениаминович": 32,
-      "Романович Александр Леонидович": 100,
-      "Саломатин Николай Михайлович": 50,
-      "Федоров Евгений Аверьянович": 28,
-      "Против всех": 162
+      "gas:candidate-vibid:1001000131400": 267,
+      "gas:candidate-vibid:1001000217932": 12,
+      "gas:candidate-vibid:250200071675": 7,
+      "gas:candidate-vibid:1001000195093": 25,
+      "gas:candidate-vibid:1001000121864": 32,
+      "gas:candidate-vibid:1001000190364": 100,
+      "gas:candidate-vibid:1001000113946": 50,
+      "gas:candidate-vibid:250200071678": 28,
+      "special:against-all": 162
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170369&region=0&sub_region=0&type=429",
@@ -12860,15 +12860,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 261,
-      "Каверин Владимир Викторович": 11,
-      "Каганович Михаил Вениаминович": 4,
-      "Кулагина Галина Сергеевна": 14,
-      "Мухин Сергей Вениаминович": 45,
-      "Романович Александр Леонидович": 55,
-      "Саломатин Николай Михайлович": 53,
-      "Федоров Евгений Аверьянович": 18,
-      "Против всех": 118
+      "gas:candidate-vibid:1001000131400": 261,
+      "gas:candidate-vibid:1001000217932": 11,
+      "gas:candidate-vibid:250200071675": 4,
+      "gas:candidate-vibid:1001000195093": 14,
+      "gas:candidate-vibid:1001000121864": 45,
+      "gas:candidate-vibid:1001000190364": 55,
+      "gas:candidate-vibid:1001000113946": 53,
+      "gas:candidate-vibid:250200071678": 18,
+      "special:against-all": 118
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170369&region=0&sub_region=0&type=429",
@@ -12918,15 +12918,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 49,
-      "Каверин Владимир Викторович": 10,
-      "Каганович Михаил Вениаминович": 0,
-      "Кулагина Галина Сергеевна": 11,
-      "Мухин Сергей Вениаминович": 7,
-      "Романович Александр Леонидович": 5,
-      "Саломатин Николай Михайлович": 2,
-      "Федоров Евгений Аверьянович": 6,
-      "Против всех": 90
+      "gas:candidate-vibid:1001000131400": 49,
+      "gas:candidate-vibid:1001000217932": 10,
+      "gas:candidate-vibid:250200071675": 0,
+      "gas:candidate-vibid:1001000195093": 11,
+      "gas:candidate-vibid:1001000121864": 7,
+      "gas:candidate-vibid:1001000190364": 5,
+      "gas:candidate-vibid:1001000113946": 2,
+      "gas:candidate-vibid:250200071678": 6,
+      "special:against-all": 90
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170369&region=0&sub_region=0&type=429",
@@ -12976,15 +12976,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 254,
-      "Каверин Владимир Викторович": 15,
-      "Каганович Михаил Вениаминович": 8,
-      "Кулагина Галина Сергеевна": 27,
-      "Мухин Сергей Вениаминович": 29,
-      "Романович Александр Леонидович": 47,
-      "Саломатин Николай Михайлович": 34,
-      "Федоров Евгений Аверьянович": 32,
-      "Против всех": 132
+      "gas:candidate-vibid:1001000131400": 254,
+      "gas:candidate-vibid:1001000217932": 15,
+      "gas:candidate-vibid:250200071675": 8,
+      "gas:candidate-vibid:1001000195093": 27,
+      "gas:candidate-vibid:1001000121864": 29,
+      "gas:candidate-vibid:1001000190364": 47,
+      "gas:candidate-vibid:1001000113946": 34,
+      "gas:candidate-vibid:250200071678": 32,
+      "special:against-all": 132
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170369&region=0&sub_region=0&type=429",
@@ -13034,15 +13034,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 675,
-      "Каверин Владимир Викторович": 27,
-      "Каганович Михаил Вениаминович": 7,
-      "Кулагина Галина Сергеевна": 24,
-      "Мухин Сергей Вениаминович": 100,
-      "Романович Александр Леонидович": 153,
-      "Саломатин Николай Михайлович": 74,
-      "Федоров Евгений Аверьянович": 43,
-      "Против всех": 289
+      "gas:candidate-vibid:1001000131400": 675,
+      "gas:candidate-vibid:1001000217932": 27,
+      "gas:candidate-vibid:250200071675": 7,
+      "gas:candidate-vibid:1001000195093": 24,
+      "gas:candidate-vibid:1001000121864": 100,
+      "gas:candidate-vibid:1001000190364": 153,
+      "gas:candidate-vibid:1001000113946": 74,
+      "gas:candidate-vibid:250200071678": 43,
+      "special:against-all": 289
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170369&region=0&sub_region=0&type=429",
@@ -13092,15 +13092,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 607,
-      "Каверин Владимир Викторович": 26,
-      "Каганович Михаил Вениаминович": 5,
-      "Кулагина Галина Сергеевна": 31,
-      "Мухин Сергей Вениаминович": 62,
-      "Романович Александр Леонидович": 95,
-      "Саломатин Николай Михайлович": 75,
-      "Федоров Евгений Аверьянович": 37,
-      "Против всех": 258
+      "gas:candidate-vibid:1001000131400": 607,
+      "gas:candidate-vibid:1001000217932": 26,
+      "gas:candidate-vibid:250200071675": 5,
+      "gas:candidate-vibid:1001000195093": 31,
+      "gas:candidate-vibid:1001000121864": 62,
+      "gas:candidate-vibid:1001000190364": 95,
+      "gas:candidate-vibid:1001000113946": 75,
+      "gas:candidate-vibid:250200071678": 37,
+      "special:against-all": 258
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170369&region=0&sub_region=0&type=429",
@@ -13150,15 +13150,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 347,
-      "Каверин Владимир Викторович": 10,
-      "Каганович Михаил Вениаминович": 7,
-      "Кулагина Галина Сергеевна": 13,
-      "Мухин Сергей Вениаминович": 44,
-      "Романович Александр Леонидович": 43,
-      "Саломатин Николай Михайлович": 31,
-      "Федоров Евгений Аверьянович": 16,
-      "Против всех": 131
+      "gas:candidate-vibid:1001000131400": 347,
+      "gas:candidate-vibid:1001000217932": 10,
+      "gas:candidate-vibid:250200071675": 7,
+      "gas:candidate-vibid:1001000195093": 13,
+      "gas:candidate-vibid:1001000121864": 44,
+      "gas:candidate-vibid:1001000190364": 43,
+      "gas:candidate-vibid:1001000113946": 31,
+      "gas:candidate-vibid:250200071678": 16,
+      "special:against-all": 131
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170369&region=0&sub_region=0&type=429",
@@ -13208,15 +13208,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 472,
-      "Каверин Владимир Викторович": 56,
-      "Каганович Михаил Вениаминович": 11,
-      "Кулагина Галина Сергеевна": 53,
-      "Мухин Сергей Вениаминович": 89,
-      "Романович Александр Леонидович": 60,
-      "Саломатин Николай Михайлович": 101,
-      "Федоров Евгений Аверьянович": 54,
-      "Против всех": 384
+      "gas:candidate-vibid:1001000131400": 472,
+      "gas:candidate-vibid:1001000217932": 56,
+      "gas:candidate-vibid:250200071675": 11,
+      "gas:candidate-vibid:1001000195093": 53,
+      "gas:candidate-vibid:1001000121864": 89,
+      "gas:candidate-vibid:1001000190364": 60,
+      "gas:candidate-vibid:1001000113946": 101,
+      "gas:candidate-vibid:250200071678": 54,
+      "special:against-all": 384
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170369&region=0&sub_region=0&type=429",
@@ -13266,15 +13266,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 696,
-      "Каверин Владимир Викторович": 55,
-      "Каганович Михаил Вениаминович": 8,
-      "Кулагина Галина Сергеевна": 51,
-      "Мухин Сергей Вениаминович": 169,
-      "Романович Александр Леонидович": 167,
-      "Саломатин Николай Михайлович": 117,
-      "Федоров Евгений Аверьянович": 58,
-      "Против всех": 392
+      "gas:candidate-vibid:1001000131400": 696,
+      "gas:candidate-vibid:1001000217932": 55,
+      "gas:candidate-vibid:250200071675": 8,
+      "gas:candidate-vibid:1001000195093": 51,
+      "gas:candidate-vibid:1001000121864": 169,
+      "gas:candidate-vibid:1001000190364": 167,
+      "gas:candidate-vibid:1001000113946": 117,
+      "gas:candidate-vibid:250200071678": 58,
+      "special:against-all": 392
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170369&region=0&sub_region=0&type=429",
@@ -13324,15 +13324,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 701,
-      "Каверин Владимир Викторович": 55,
-      "Каганович Михаил Вениаминович": 9,
-      "Кулагина Галина Сергеевна": 65,
-      "Мухин Сергей Вениаминович": 210,
-      "Романович Александр Леонидович": 94,
-      "Саломатин Николай Михайлович": 120,
-      "Федоров Евгений Аверьянович": 64,
-      "Против всех": 413
+      "gas:candidate-vibid:1001000131400": 701,
+      "gas:candidate-vibid:1001000217932": 55,
+      "gas:candidate-vibid:250200071675": 9,
+      "gas:candidate-vibid:1001000195093": 65,
+      "gas:candidate-vibid:1001000121864": 210,
+      "gas:candidate-vibid:1001000190364": 94,
+      "gas:candidate-vibid:1001000113946": 120,
+      "gas:candidate-vibid:250200071678": 64,
+      "special:against-all": 413
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170369&region=0&sub_region=0&type=429",
@@ -13382,15 +13382,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 738,
-      "Каверин Владимир Викторович": 51,
-      "Каганович Михаил Вениаминович": 5,
-      "Кулагина Галина Сергеевна": 69,
-      "Мухин Сергей Вениаминович": 171,
-      "Романович Александр Леонидович": 103,
-      "Саломатин Николай Михайлович": 121,
-      "Федоров Евгений Аверьянович": 59,
-      "Против всех": 349
+      "gas:candidate-vibid:1001000131400": 738,
+      "gas:candidate-vibid:1001000217932": 51,
+      "gas:candidate-vibid:250200071675": 5,
+      "gas:candidate-vibid:1001000195093": 69,
+      "gas:candidate-vibid:1001000121864": 171,
+      "gas:candidate-vibid:1001000190364": 103,
+      "gas:candidate-vibid:1001000113946": 121,
+      "gas:candidate-vibid:250200071678": 59,
+      "special:against-all": 349
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170369&region=0&sub_region=0&type=429",
@@ -13440,15 +13440,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 313,
-      "Каверин Владимир Викторович": 16,
-      "Каганович Михаил Вениаминович": 19,
-      "Кулагина Галина Сергеевна": 1,
-      "Мухин Сергей Вениаминович": 53,
-      "Романович Александр Леонидович": 58,
-      "Саломатин Николай Михайлович": 52,
-      "Федоров Евгений Аверьянович": 24,
-      "Против всех": 204
+      "gas:candidate-vibid:1001000131400": 313,
+      "gas:candidate-vibid:1001000217932": 16,
+      "gas:candidate-vibid:250200071675": 19,
+      "gas:candidate-vibid:1001000195093": 1,
+      "gas:candidate-vibid:1001000121864": 53,
+      "gas:candidate-vibid:1001000190364": 58,
+      "gas:candidate-vibid:1001000113946": 52,
+      "gas:candidate-vibid:250200071678": 24,
+      "special:against-all": 204
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170369&region=0&sub_region=0&type=429",
@@ -13498,15 +13498,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 760,
-      "Каверин Владимир Викторович": 33,
-      "Каганович Михаил Вениаминович": 8,
-      "Кулагина Галина Сергеевна": 29,
-      "Мухин Сергей Вениаминович": 82,
-      "Романович Александр Леонидович": 76,
-      "Саломатин Николай Михайлович": 92,
-      "Федоров Евгений Аверьянович": 34,
-      "Против всех": 262
+      "gas:candidate-vibid:1001000131400": 760,
+      "gas:candidate-vibid:1001000217932": 33,
+      "gas:candidate-vibid:250200071675": 8,
+      "gas:candidate-vibid:1001000195093": 29,
+      "gas:candidate-vibid:1001000121864": 82,
+      "gas:candidate-vibid:1001000190364": 76,
+      "gas:candidate-vibid:1001000113946": 92,
+      "gas:candidate-vibid:250200071678": 34,
+      "special:against-all": 262
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170369&region=0&sub_region=0&type=429",
@@ -13556,15 +13556,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 646,
-      "Каверин Владимир Викторович": 28,
-      "Каганович Михаил Вениаминович": 51,
-      "Кулагина Галина Сергеевна": 0,
-      "Мухин Сергей Вениаминович": 100,
-      "Романович Александр Леонидович": 143,
-      "Саломатин Николай Михайлович": 95,
-      "Федоров Евгений Аверьянович": 47,
-      "Против всех": 333
+      "gas:candidate-vibid:1001000131400": 646,
+      "gas:candidate-vibid:1001000217932": 28,
+      "gas:candidate-vibid:250200071675": 51,
+      "gas:candidate-vibid:1001000195093": 0,
+      "gas:candidate-vibid:1001000121864": 100,
+      "gas:candidate-vibid:1001000190364": 143,
+      "gas:candidate-vibid:1001000113946": 95,
+      "gas:candidate-vibid:250200071678": 47,
+      "special:against-all": 333
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170369&region=0&sub_region=0&type=429",
@@ -13614,15 +13614,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 919,
-      "Каверин Владимир Викторович": 32,
-      "Каганович Михаил Вениаминович": 12,
-      "Кулагина Галина Сергеевна": 41,
-      "Мухин Сергей Вениаминович": 72,
-      "Романович Александр Леонидович": 70,
-      "Саломатин Николай Михайлович": 104,
-      "Федоров Евгений Аверьянович": 53,
-      "Против всех": 396
+      "gas:candidate-vibid:1001000131400": 919,
+      "gas:candidate-vibid:1001000217932": 32,
+      "gas:candidate-vibid:250200071675": 12,
+      "gas:candidate-vibid:1001000195093": 41,
+      "gas:candidate-vibid:1001000121864": 72,
+      "gas:candidate-vibid:1001000190364": 70,
+      "gas:candidate-vibid:1001000113946": 104,
+      "gas:candidate-vibid:250200071678": 53,
+      "special:against-all": 396
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170369&region=0&sub_region=0&type=429",
@@ -13672,15 +13672,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 492,
-      "Каверин Владимир Викторович": 30,
-      "Каганович Михаил Вениаминович": 12,
-      "Кулагина Галина Сергеевна": 60,
-      "Мухин Сергей Вениаминович": 60,
-      "Романович Александр Леонидович": 155,
-      "Саломатин Николай Михайлович": 72,
-      "Федоров Евгений Аверьянович": 62,
-      "Против всех": 318
+      "gas:candidate-vibid:1001000131400": 492,
+      "gas:candidate-vibid:1001000217932": 30,
+      "gas:candidate-vibid:250200071675": 12,
+      "gas:candidate-vibid:1001000195093": 60,
+      "gas:candidate-vibid:1001000121864": 60,
+      "gas:candidate-vibid:1001000190364": 155,
+      "gas:candidate-vibid:1001000113946": 72,
+      "gas:candidate-vibid:250200071678": 62,
+      "special:against-all": 318
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170369&region=0&sub_region=0&type=429",
@@ -13730,15 +13730,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 496,
-      "Каверин Владимир Викторович": 61,
-      "Каганович Михаил Вениаминович": 8,
-      "Кулагина Галина Сергеевна": 49,
-      "Мухин Сергей Вениаминович": 42,
-      "Романович Александр Леонидович": 91,
-      "Саломатин Николай Михайлович": 74,
-      "Федоров Евгений Аверьянович": 67,
-      "Против всех": 331
+      "gas:candidate-vibid:1001000131400": 496,
+      "gas:candidate-vibid:1001000217932": 61,
+      "gas:candidate-vibid:250200071675": 8,
+      "gas:candidate-vibid:1001000195093": 49,
+      "gas:candidate-vibid:1001000121864": 42,
+      "gas:candidate-vibid:1001000190364": 91,
+      "gas:candidate-vibid:1001000113946": 74,
+      "gas:candidate-vibid:250200071678": 67,
+      "special:against-all": 331
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170369&region=0&sub_region=0&type=429",
@@ -13788,15 +13788,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 289,
-      "Каверин Владимир Викторович": 7,
-      "Каганович Михаил Вениаминович": 6,
-      "Кулагина Галина Сергеевна": 29,
-      "Мухин Сергей Вениаминович": 16,
-      "Романович Александр Леонидович": 44,
-      "Саломатин Николай Михайлович": 22,
-      "Федоров Евгений Аверьянович": 33,
-      "Против всех": 163
+      "gas:candidate-vibid:1001000131400": 289,
+      "gas:candidate-vibid:1001000217932": 7,
+      "gas:candidate-vibid:250200071675": 6,
+      "gas:candidate-vibid:1001000195093": 29,
+      "gas:candidate-vibid:1001000121864": 16,
+      "gas:candidate-vibid:1001000190364": 44,
+      "gas:candidate-vibid:1001000113946": 22,
+      "gas:candidate-vibid:250200071678": 33,
+      "special:against-all": 163
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170369&region=0&sub_region=0&type=429",
@@ -13846,15 +13846,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 352,
-      "Каверин Владимир Викторович": 20,
-      "Каганович Михаил Вениаминович": 5,
-      "Кулагина Галина Сергеевна": 16,
-      "Мухин Сергей Вениаминович": 30,
-      "Романович Александр Леонидович": 70,
-      "Саломатин Николай Михайлович": 42,
-      "Федоров Евгений Аверьянович": 32,
-      "Против всех": 186
+      "gas:candidate-vibid:1001000131400": 352,
+      "gas:candidate-vibid:1001000217932": 20,
+      "gas:candidate-vibid:250200071675": 5,
+      "gas:candidate-vibid:1001000195093": 16,
+      "gas:candidate-vibid:1001000121864": 30,
+      "gas:candidate-vibid:1001000190364": 70,
+      "gas:candidate-vibid:1001000113946": 42,
+      "gas:candidate-vibid:250200071678": 32,
+      "special:against-all": 186
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170369&region=0&sub_region=0&type=429",
@@ -13904,15 +13904,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 464,
-      "Каверин Владимир Викторович": 37,
-      "Каганович Михаил Вениаминович": 7,
-      "Кулагина Галина Сергеевна": 25,
-      "Мухин Сергей Вениаминович": 35,
-      "Романович Александр Леонидович": 109,
-      "Саломатин Николай Михайлович": 38,
-      "Федоров Евгений Аверьянович": 32,
-      "Против всех": 226
+      "gas:candidate-vibid:1001000131400": 464,
+      "gas:candidate-vibid:1001000217932": 37,
+      "gas:candidate-vibid:250200071675": 7,
+      "gas:candidate-vibid:1001000195093": 25,
+      "gas:candidate-vibid:1001000121864": 35,
+      "gas:candidate-vibid:1001000190364": 109,
+      "gas:candidate-vibid:1001000113946": 38,
+      "gas:candidate-vibid:250200071678": 32,
+      "special:against-all": 226
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170369&region=0&sub_region=0&type=429",
@@ -13962,15 +13962,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 154,
-      "Каверин Владимир Викторович": 18,
-      "Каганович Михаил Вениаминович": 9,
-      "Кулагина Галина Сергеевна": 26,
-      "Мухин Сергей Вениаминович": 12,
-      "Романович Александр Леонидович": 74,
-      "Саломатин Николай Михайлович": 18,
-      "Федоров Евгений Аверьянович": 18,
-      "Против всех": 97
+      "gas:candidate-vibid:1001000131400": 154,
+      "gas:candidate-vibid:1001000217932": 18,
+      "gas:candidate-vibid:250200071675": 9,
+      "gas:candidate-vibid:1001000195093": 26,
+      "gas:candidate-vibid:1001000121864": 12,
+      "gas:candidate-vibid:1001000190364": 74,
+      "gas:candidate-vibid:1001000113946": 18,
+      "gas:candidate-vibid:250200071678": 18,
+      "special:against-all": 97
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170369&region=0&sub_region=0&type=429",
@@ -14020,15 +14020,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 12,
-      "Каверин Владимир Викторович": 2,
-      "Каганович Михаил Вениаминович": 2,
-      "Кулагина Галина Сергеевна": 7,
-      "Мухин Сергей Вениаминович": 1,
-      "Романович Александр Леонидович": 22,
-      "Саломатин Николай Михайлович": 4,
-      "Федоров Евгений Аверьянович": 1,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000131400": 12,
+      "gas:candidate-vibid:1001000217932": 2,
+      "gas:candidate-vibid:250200071675": 2,
+      "gas:candidate-vibid:1001000195093": 7,
+      "gas:candidate-vibid:1001000121864": 1,
+      "gas:candidate-vibid:1001000190364": 22,
+      "gas:candidate-vibid:1001000113946": 4,
+      "gas:candidate-vibid:250200071678": 1,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170369&region=0&sub_region=0&type=429",
@@ -14078,15 +14078,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 301,
-      "Каверин Владимир Викторович": 8,
-      "Каганович Михаил Вениаминович": 3,
-      "Кулагина Галина Сергеевна": 17,
-      "Мухин Сергей Вениаминович": 29,
-      "Романович Александр Леонидович": 22,
-      "Саломатин Николай Михайлович": 13,
-      "Федоров Евгений Аверьянович": 13,
-      "Против всех": 74
+      "gas:candidate-vibid:1001000131400": 301,
+      "gas:candidate-vibid:1001000217932": 8,
+      "gas:candidate-vibid:250200071675": 3,
+      "gas:candidate-vibid:1001000195093": 17,
+      "gas:candidate-vibid:1001000121864": 29,
+      "gas:candidate-vibid:1001000190364": 22,
+      "gas:candidate-vibid:1001000113946": 13,
+      "gas:candidate-vibid:250200071678": 13,
+      "special:against-all": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170369&region=0&sub_region=0&type=429",
@@ -14136,15 +14136,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 521,
-      "Каверин Владимир Викторович": 32,
-      "Каганович Михаил Вениаминович": 11,
-      "Кулагина Галина Сергеевна": 32,
-      "Мухин Сергей Вениаминович": 63,
-      "Романович Александр Леонидович": 50,
-      "Саломатин Николай Михайлович": 104,
-      "Федоров Евгений Аверьянович": 38,
-      "Против всех": 223
+      "gas:candidate-vibid:1001000131400": 521,
+      "gas:candidate-vibid:1001000217932": 32,
+      "gas:candidate-vibid:250200071675": 11,
+      "gas:candidate-vibid:1001000195093": 32,
+      "gas:candidate-vibid:1001000121864": 63,
+      "gas:candidate-vibid:1001000190364": 50,
+      "gas:candidate-vibid:1001000113946": 104,
+      "gas:candidate-vibid:250200071678": 38,
+      "special:against-all": 223
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170369&region=0&sub_region=0&type=429",
@@ -14194,15 +14194,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 695,
-      "Каверин Владимир Викторович": 31,
-      "Каганович Михаил Вениаминович": 7,
-      "Кулагина Галина Сергеевна": 46,
-      "Мухин Сергей Вениаминович": 105,
-      "Романович Александр Леонидович": 52,
-      "Саломатин Николай Михайлович": 78,
-      "Федоров Евгений Аверьянович": 30,
-      "Против всех": 300
+      "gas:candidate-vibid:1001000131400": 695,
+      "gas:candidate-vibid:1001000217932": 31,
+      "gas:candidate-vibid:250200071675": 7,
+      "gas:candidate-vibid:1001000195093": 46,
+      "gas:candidate-vibid:1001000121864": 105,
+      "gas:candidate-vibid:1001000190364": 52,
+      "gas:candidate-vibid:1001000113946": 78,
+      "gas:candidate-vibid:250200071678": 30,
+      "special:against-all": 300
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170369&region=0&sub_region=0&type=429",
@@ -14252,15 +14252,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 662,
-      "Каверин Владимир Викторович": 31,
-      "Каганович Михаил Вениаминович": 8,
-      "Кулагина Галина Сергеевна": 45,
-      "Мухин Сергей Вениаминович": 90,
-      "Романович Александр Леонидович": 57,
-      "Саломатин Николай Михайлович": 82,
-      "Федоров Евгений Аверьянович": 39,
-      "Против всех": 251
+      "gas:candidate-vibid:1001000131400": 662,
+      "gas:candidate-vibid:1001000217932": 31,
+      "gas:candidate-vibid:250200071675": 8,
+      "gas:candidate-vibid:1001000195093": 45,
+      "gas:candidate-vibid:1001000121864": 90,
+      "gas:candidate-vibid:1001000190364": 57,
+      "gas:candidate-vibid:1001000113946": 82,
+      "gas:candidate-vibid:250200071678": 39,
+      "special:against-all": 251
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170369&region=0&sub_region=0&type=429",
@@ -14310,15 +14310,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 479,
-      "Каверин Владимир Викторович": 36,
-      "Каганович Михаил Вениаминович": 4,
-      "Кулагина Галина Сергеевна": 35,
-      "Мухин Сергей Вениаминович": 71,
-      "Романович Александр Леонидович": 46,
-      "Саломатин Николай Михайлович": 65,
-      "Федоров Евгений Аверьянович": 43,
-      "Против всех": 219
+      "gas:candidate-vibid:1001000131400": 479,
+      "gas:candidate-vibid:1001000217932": 36,
+      "gas:candidate-vibid:250200071675": 4,
+      "gas:candidate-vibid:1001000195093": 35,
+      "gas:candidate-vibid:1001000121864": 71,
+      "gas:candidate-vibid:1001000190364": 46,
+      "gas:candidate-vibid:1001000113946": 65,
+      "gas:candidate-vibid:250200071678": 43,
+      "special:against-all": 219
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170369&region=0&sub_region=0&type=429",
@@ -14368,15 +14368,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 247,
-      "Каверин Владимир Викторович": 33,
-      "Каганович Михаил Вениаминович": 8,
-      "Кулагина Галина Сергеевна": 39,
-      "Мухин Сергей Вениаминович": 51,
-      "Романович Александр Леонидович": 65,
-      "Саломатин Николай Михайлович": 45,
-      "Федоров Евгений Аверьянович": 31,
-      "Против всех": 190
+      "gas:candidate-vibid:1001000131400": 247,
+      "gas:candidate-vibid:1001000217932": 33,
+      "gas:candidate-vibid:250200071675": 8,
+      "gas:candidate-vibid:1001000195093": 39,
+      "gas:candidate-vibid:1001000121864": 51,
+      "gas:candidate-vibid:1001000190364": 65,
+      "gas:candidate-vibid:1001000113946": 45,
+      "gas:candidate-vibid:250200071678": 31,
+      "special:against-all": 190
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170369&region=0&sub_region=0&type=429",
@@ -14426,15 +14426,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 599,
-      "Каверин Владимир Викторович": 27,
-      "Каганович Михаил Вениаминович": 5,
-      "Кулагина Галина Сергеевна": 23,
-      "Мухин Сергей Вениаминович": 65,
-      "Романович Александр Леонидович": 91,
-      "Саломатин Николай Михайлович": 73,
-      "Федоров Евгений Аверьянович": 32,
-      "Против всех": 213
+      "gas:candidate-vibid:1001000131400": 599,
+      "gas:candidate-vibid:1001000217932": 27,
+      "gas:candidate-vibid:250200071675": 5,
+      "gas:candidate-vibid:1001000195093": 23,
+      "gas:candidate-vibid:1001000121864": 65,
+      "gas:candidate-vibid:1001000190364": 91,
+      "gas:candidate-vibid:1001000113946": 73,
+      "gas:candidate-vibid:250200071678": 32,
+      "special:against-all": 213
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170369&region=0&sub_region=0&type=429",
@@ -14484,15 +14484,15 @@ export const duma_2003_uik_428_region_50_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гальченко Валерий Владимирович": 788,
-      "Каверин Владимир Викторович": 25,
-      "Каганович Михаил Вениаминович": 7,
-      "Кулагина Галина Сергеевна": 49,
-      "Мухин Сергей Вениаминович": 86,
-      "Романович Александр Леонидович": 80,
-      "Саломатин Николай Михайлович": 75,
-      "Федоров Евгений Аверьянович": 47,
-      "Против всех": 268
+      "gas:candidate-vibid:1001000131400": 788,
+      "gas:candidate-vibid:1001000217932": 25,
+      "gas:candidate-vibid:250200071675": 7,
+      "gas:candidate-vibid:1001000195093": 49,
+      "gas:candidate-vibid:1001000121864": 86,
+      "gas:candidate-vibid:1001000190364": 80,
+      "gas:candidate-vibid:1001000113946": 75,
+      "gas:candidate-vibid:250200071678": 47,
+      "special:against-all": 268
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300170369&region=0&sub_region=0&type=429",

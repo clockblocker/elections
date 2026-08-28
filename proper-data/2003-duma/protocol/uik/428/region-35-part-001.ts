@@ -42,12 +42,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 77,
-      "Буланов Владимир Викторович": 139,
-      "Нефедов Виктор Алексеевич": 3,
-      "Суров Михаил Васильевич": 195,
-      "Чайка Валентин Васильевич": 398,
-      "Против всех": 154
+      "gas:candidate-vibid:1001000190336": 77,
+      "gas:candidate-vibid:1001000217919": 139,
+      "gas:candidate-vibid:1001000195067": 3,
+      "gas:candidate-vibid:235200070406": 195,
+      "gas:candidate-vibid:1001000131394": 398,
+      "special:against-all": 154
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170479&region=0&sub_region=0&type=429",
@@ -97,12 +97,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 76,
-      "Буланов Владимир Викторович": 162,
-      "Нефедов Виктор Алексеевич": 4,
-      "Суров Михаил Васильевич": 196,
-      "Чайка Валентин Васильевич": 538,
-      "Против всех": 185
+      "gas:candidate-vibid:1001000190336": 76,
+      "gas:candidate-vibid:1001000217919": 162,
+      "gas:candidate-vibid:1001000195067": 4,
+      "gas:candidate-vibid:235200070406": 196,
+      "gas:candidate-vibid:1001000131394": 538,
+      "special:against-all": 185
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170479&region=0&sub_region=0&type=429",
@@ -152,12 +152,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 63,
-      "Буланов Владимир Викторович": 133,
-      "Нефедов Виктор Алексеевич": 10,
-      "Суров Михаил Васильевич": 215,
-      "Чайка Валентин Васильевич": 403,
-      "Против всех": 192
+      "gas:candidate-vibid:1001000190336": 63,
+      "gas:candidate-vibid:1001000217919": 133,
+      "gas:candidate-vibid:1001000195067": 10,
+      "gas:candidate-vibid:235200070406": 215,
+      "gas:candidate-vibid:1001000131394": 403,
+      "special:against-all": 192
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170479&region=0&sub_region=0&type=429",
@@ -207,12 +207,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 77,
-      "Буланов Владимир Викторович": 143,
-      "Нефедов Виктор Алексеевич": 11,
-      "Суров Михаил Васильевич": 209,
-      "Чайка Валентин Васильевич": 625,
-      "Против всех": 202
+      "gas:candidate-vibid:1001000190336": 77,
+      "gas:candidate-vibid:1001000217919": 143,
+      "gas:candidate-vibid:1001000195067": 11,
+      "gas:candidate-vibid:235200070406": 209,
+      "gas:candidate-vibid:1001000131394": 625,
+      "special:against-all": 202
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170479&region=0&sub_region=0&type=429",
@@ -262,12 +262,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 63,
-      "Буланов Владимир Викторович": 121,
-      "Нефедов Виктор Алексеевич": 8,
-      "Суров Михаил Васильевич": 211,
-      "Чайка Валентин Васильевич": 497,
-      "Против всех": 196
+      "gas:candidate-vibid:1001000190336": 63,
+      "gas:candidate-vibid:1001000217919": 121,
+      "gas:candidate-vibid:1001000195067": 8,
+      "gas:candidate-vibid:235200070406": 211,
+      "gas:candidate-vibid:1001000131394": 497,
+      "special:against-all": 196
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170479&region=0&sub_region=0&type=429",
@@ -317,12 +317,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 52,
-      "Буланов Владимир Викторович": 121,
-      "Нефедов Виктор Алексеевич": 3,
-      "Суров Михаил Васильевич": 201,
-      "Чайка Валентин Васильевич": 452,
-      "Против всех": 152
+      "gas:candidate-vibid:1001000190336": 52,
+      "gas:candidate-vibid:1001000217919": 121,
+      "gas:candidate-vibid:1001000195067": 3,
+      "gas:candidate-vibid:235200070406": 201,
+      "gas:candidate-vibid:1001000131394": 452,
+      "special:against-all": 152
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170479&region=0&sub_region=0&type=429",
@@ -372,12 +372,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 71,
-      "Буланов Владимир Викторович": 99,
-      "Нефедов Виктор Алексеевич": 5,
-      "Суров Михаил Васильевич": 220,
-      "Чайка Валентин Васильевич": 485,
-      "Против всех": 174
+      "gas:candidate-vibid:1001000190336": 71,
+      "gas:candidate-vibid:1001000217919": 99,
+      "gas:candidate-vibid:1001000195067": 5,
+      "gas:candidate-vibid:235200070406": 220,
+      "gas:candidate-vibid:1001000131394": 485,
+      "special:against-all": 174
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170479&region=0&sub_region=0&type=429",
@@ -427,12 +427,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 55,
-      "Буланов Владимир Викторович": 83,
-      "Нефедов Виктор Алексеевич": 9,
-      "Суров Михаил Васильевич": 167,
-      "Чайка Валентин Васильевич": 344,
-      "Против всех": 97
+      "gas:candidate-vibid:1001000190336": 55,
+      "gas:candidate-vibid:1001000217919": 83,
+      "gas:candidate-vibid:1001000195067": 9,
+      "gas:candidate-vibid:235200070406": 167,
+      "gas:candidate-vibid:1001000131394": 344,
+      "special:against-all": 97
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170479&region=0&sub_region=0&type=429",
@@ -482,12 +482,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 48,
-      "Буланов Владимир Викторович": 117,
-      "Нефедов Виктор Алексеевич": 4,
-      "Суров Михаил Васильевич": 172,
-      "Чайка Валентин Васильевич": 382,
-      "Против всех": 127
+      "gas:candidate-vibid:1001000190336": 48,
+      "gas:candidate-vibid:1001000217919": 117,
+      "gas:candidate-vibid:1001000195067": 4,
+      "gas:candidate-vibid:235200070406": 172,
+      "gas:candidate-vibid:1001000131394": 382,
+      "special:against-all": 127
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170479&region=0&sub_region=0&type=429",
@@ -537,12 +537,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 62,
-      "Буланов Владимир Викторович": 120,
-      "Нефедов Виктор Алексеевич": 3,
-      "Суров Михаил Васильевич": 225,
-      "Чайка Валентин Васильевич": 521,
-      "Против всех": 163
+      "gas:candidate-vibid:1001000190336": 62,
+      "gas:candidate-vibid:1001000217919": 120,
+      "gas:candidate-vibid:1001000195067": 3,
+      "gas:candidate-vibid:235200070406": 225,
+      "gas:candidate-vibid:1001000131394": 521,
+      "special:against-all": 163
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170479&region=0&sub_region=0&type=429",
@@ -592,12 +592,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 38,
-      "Буланов Владимир Викторович": 79,
-      "Нефедов Виктор Алексеевич": 6,
-      "Суров Михаил Васильевич": 165,
-      "Чайка Валентин Васильевич": 398,
-      "Против всех": 144
+      "gas:candidate-vibid:1001000190336": 38,
+      "gas:candidate-vibid:1001000217919": 79,
+      "gas:candidate-vibid:1001000195067": 6,
+      "gas:candidate-vibid:235200070406": 165,
+      "gas:candidate-vibid:1001000131394": 398,
+      "special:against-all": 144
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170479&region=0&sub_region=0&type=429",
@@ -647,12 +647,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 81,
-      "Буланов Владимир Викторович": 114,
-      "Нефедов Виктор Алексеевич": 6,
-      "Суров Михаил Васильевич": 170,
-      "Чайка Валентин Васильевич": 483,
-      "Против всех": 146
+      "gas:candidate-vibid:1001000190336": 81,
+      "gas:candidate-vibid:1001000217919": 114,
+      "gas:candidate-vibid:1001000195067": 6,
+      "gas:candidate-vibid:235200070406": 170,
+      "gas:candidate-vibid:1001000131394": 483,
+      "special:against-all": 146
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170479&region=0&sub_region=0&type=429",
@@ -702,12 +702,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 59,
-      "Буланов Владимир Викторович": 98,
-      "Нефедов Виктор Алексеевич": 4,
-      "Суров Михаил Васильевич": 123,
-      "Чайка Валентин Васильевич": 373,
-      "Против всех": 145
+      "gas:candidate-vibid:1001000190336": 59,
+      "gas:candidate-vibid:1001000217919": 98,
+      "gas:candidate-vibid:1001000195067": 4,
+      "gas:candidate-vibid:235200070406": 123,
+      "gas:candidate-vibid:1001000131394": 373,
+      "special:against-all": 145
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170479&region=0&sub_region=0&type=429",
@@ -757,12 +757,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 66,
-      "Буланов Владимир Викторович": 108,
-      "Нефедов Виктор Алексеевич": 6,
-      "Суров Михаил Васильевич": 214,
-      "Чайка Валентин Васильевич": 500,
-      "Против всех": 191
+      "gas:candidate-vibid:1001000190336": 66,
+      "gas:candidate-vibid:1001000217919": 108,
+      "gas:candidate-vibid:1001000195067": 6,
+      "gas:candidate-vibid:235200070406": 214,
+      "gas:candidate-vibid:1001000131394": 500,
+      "special:against-all": 191
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170479&region=0&sub_region=0&type=429",
@@ -812,12 +812,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 75,
-      "Буланов Владимир Викторович": 78,
-      "Нефедов Виктор Алексеевич": 6,
-      "Суров Михаил Васильевич": 195,
-      "Чайка Валентин Васильевич": 464,
-      "Против всех": 233
+      "gas:candidate-vibid:1001000190336": 75,
+      "gas:candidate-vibid:1001000217919": 78,
+      "gas:candidate-vibid:1001000195067": 6,
+      "gas:candidate-vibid:235200070406": 195,
+      "gas:candidate-vibid:1001000131394": 464,
+      "special:against-all": 233
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170479&region=0&sub_region=0&type=429",
@@ -867,12 +867,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 17,
-      "Буланов Владимир Викторович": 25,
-      "Нефедов Виктор Алексеевич": 3,
-      "Суров Михаил Васильевич": 56,
-      "Чайка Валентин Васильевич": 128,
-      "Против всех": 48
+      "gas:candidate-vibid:1001000190336": 17,
+      "gas:candidate-vibid:1001000217919": 25,
+      "gas:candidate-vibid:1001000195067": 3,
+      "gas:candidate-vibid:235200070406": 56,
+      "gas:candidate-vibid:1001000131394": 128,
+      "special:against-all": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170479&region=0&sub_region=0&type=429",
@@ -922,12 +922,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 61,
-      "Буланов Владимир Викторович": 143,
-      "Нефедов Виктор Алексеевич": 1,
-      "Суров Михаил Васильевич": 298,
-      "Чайка Валентин Васильевич": 596,
-      "Против всех": 244
+      "gas:candidate-vibid:1001000190336": 61,
+      "gas:candidate-vibid:1001000217919": 143,
+      "gas:candidate-vibid:1001000195067": 1,
+      "gas:candidate-vibid:235200070406": 298,
+      "gas:candidate-vibid:1001000131394": 596,
+      "special:against-all": 244
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170479&region=0&sub_region=0&type=429",
@@ -977,12 +977,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 84,
-      "Буланов Владимир Викторович": 130,
-      "Нефедов Виктор Алексеевич": 19,
-      "Суров Михаил Васильевич": 300,
-      "Чайка Валентин Васильевич": 690,
-      "Против всех": 228
+      "gas:candidate-vibid:1001000190336": 84,
+      "gas:candidate-vibid:1001000217919": 130,
+      "gas:candidate-vibid:1001000195067": 19,
+      "gas:candidate-vibid:235200070406": 300,
+      "gas:candidate-vibid:1001000131394": 690,
+      "special:against-all": 228
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170479&region=0&sub_region=0&type=429",
@@ -1032,12 +1032,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 54,
-      "Буланов Владимир Викторович": 225,
-      "Нефедов Виктор Алексеевич": 9,
-      "Суров Михаил Васильевич": 194,
-      "Чайка Валентин Васильевич": 536,
-      "Против всех": 206
+      "gas:candidate-vibid:1001000190336": 54,
+      "gas:candidate-vibid:1001000217919": 225,
+      "gas:candidate-vibid:1001000195067": 9,
+      "gas:candidate-vibid:235200070406": 194,
+      "gas:candidate-vibid:1001000131394": 536,
+      "special:against-all": 206
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170479&region=0&sub_region=0&type=429",
@@ -1087,12 +1087,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 50,
-      "Буланов Владимир Викторович": 140,
-      "Нефедов Виктор Алексеевич": 5,
-      "Суров Михаил Васильевич": 237,
-      "Чайка Валентин Васильевич": 507,
-      "Против всех": 207
+      "gas:candidate-vibid:1001000190336": 50,
+      "gas:candidate-vibid:1001000217919": 140,
+      "gas:candidate-vibid:1001000195067": 5,
+      "gas:candidate-vibid:235200070406": 237,
+      "gas:candidate-vibid:1001000131394": 507,
+      "special:against-all": 207
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170479&region=0&sub_region=0&type=429",
@@ -1142,12 +1142,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 50,
-      "Буланов Владимир Викторович": 82,
-      "Нефедов Виктор Алексеевич": 6,
-      "Суров Михаил Васильевич": 169,
-      "Чайка Валентин Васильевич": 344,
-      "Против всех": 148
+      "gas:candidate-vibid:1001000190336": 50,
+      "gas:candidate-vibid:1001000217919": 82,
+      "gas:candidate-vibid:1001000195067": 6,
+      "gas:candidate-vibid:235200070406": 169,
+      "gas:candidate-vibid:1001000131394": 344,
+      "special:against-all": 148
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170479&region=0&sub_region=0&type=429",
@@ -1197,12 +1197,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 33,
-      "Буланов Владимир Викторович": 128,
-      "Нефедов Виктор Алексеевич": 4,
-      "Суров Михаил Васильевич": 139,
-      "Чайка Валентин Васильевич": 406,
-      "Против всех": 168
+      "gas:candidate-vibid:1001000190336": 33,
+      "gas:candidate-vibid:1001000217919": 128,
+      "gas:candidate-vibid:1001000195067": 4,
+      "gas:candidate-vibid:235200070406": 139,
+      "gas:candidate-vibid:1001000131394": 406,
+      "special:against-all": 168
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170479&region=0&sub_region=0&type=429",
@@ -1252,12 +1252,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 22,
-      "Буланов Владимир Викторович": 41,
-      "Нефедов Виктор Алексеевич": 2,
-      "Суров Михаил Васильевич": 59,
-      "Чайка Валентин Васильевич": 123,
-      "Против всех": 61
+      "gas:candidate-vibid:1001000190336": 22,
+      "gas:candidate-vibid:1001000217919": 41,
+      "gas:candidate-vibid:1001000195067": 2,
+      "gas:candidate-vibid:235200070406": 59,
+      "gas:candidate-vibid:1001000131394": 123,
+      "special:against-all": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170479&region=0&sub_region=0&type=429",
@@ -1307,12 +1307,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 96,
-      "Буланов Владимир Викторович": 146,
-      "Нефедов Виктор Алексеевич": 9,
-      "Суров Михаил Васильевич": 275,
-      "Чайка Валентин Васильевич": 728,
-      "Против всех": 268
+      "gas:candidate-vibid:1001000190336": 96,
+      "gas:candidate-vibid:1001000217919": 146,
+      "gas:candidate-vibid:1001000195067": 9,
+      "gas:candidate-vibid:235200070406": 275,
+      "gas:candidate-vibid:1001000131394": 728,
+      "special:against-all": 268
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170479&region=0&sub_region=0&type=429",
@@ -1362,12 +1362,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 90,
-      "Буланов Владимир Викторович": 156,
-      "Нефедов Виктор Алексеевич": 14,
-      "Суров Михаил Васильевич": 287,
-      "Чайка Валентин Васильевич": 723,
-      "Против всех": 308
+      "gas:candidate-vibid:1001000190336": 90,
+      "gas:candidate-vibid:1001000217919": 156,
+      "gas:candidate-vibid:1001000195067": 14,
+      "gas:candidate-vibid:235200070406": 287,
+      "gas:candidate-vibid:1001000131394": 723,
+      "special:against-all": 308
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170479&region=0&sub_region=0&type=429",
@@ -1417,12 +1417,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 95,
-      "Буланов Владимир Викторович": 140,
-      "Нефедов Виктор Алексеевич": 10,
-      "Суров Михаил Васильевич": 245,
-      "Чайка Валентин Васильевич": 615,
-      "Против всех": 276
+      "gas:candidate-vibid:1001000190336": 95,
+      "gas:candidate-vibid:1001000217919": 140,
+      "gas:candidate-vibid:1001000195067": 10,
+      "gas:candidate-vibid:235200070406": 245,
+      "gas:candidate-vibid:1001000131394": 615,
+      "special:against-all": 276
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170479&region=0&sub_region=0&type=429",
@@ -1472,12 +1472,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 88,
-      "Буланов Владимир Викторович": 141,
-      "Нефедов Виктор Алексеевич": 7,
-      "Суров Михаил Васильевич": 276,
-      "Чайка Валентин Васильевич": 622,
-      "Против всех": 264
+      "gas:candidate-vibid:1001000190336": 88,
+      "gas:candidate-vibid:1001000217919": 141,
+      "gas:candidate-vibid:1001000195067": 7,
+      "gas:candidate-vibid:235200070406": 276,
+      "gas:candidate-vibid:1001000131394": 622,
+      "special:against-all": 264
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170479&region=0&sub_region=0&type=429",
@@ -1527,12 +1527,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 115,
-      "Буланов Владимир Викторович": 173,
-      "Нефедов Виктор Алексеевич": 14,
-      "Суров Михаил Васильевич": 302,
-      "Чайка Валентин Васильевич": 734,
-      "Против всех": 299
+      "gas:candidate-vibid:1001000190336": 115,
+      "gas:candidate-vibid:1001000217919": 173,
+      "gas:candidate-vibid:1001000195067": 14,
+      "gas:candidate-vibid:235200070406": 302,
+      "gas:candidate-vibid:1001000131394": 734,
+      "special:against-all": 299
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170479&region=0&sub_region=0&type=429",
@@ -1582,12 +1582,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 41,
-      "Буланов Владимир Викторович": 44,
-      "Нефедов Виктор Алексеевич": 4,
-      "Суров Михаил Васильевич": 103,
-      "Чайка Валентин Васильевич": 293,
-      "Против всех": 93
+      "gas:candidate-vibid:1001000190336": 41,
+      "gas:candidate-vibid:1001000217919": 44,
+      "gas:candidate-vibid:1001000195067": 4,
+      "gas:candidate-vibid:235200070406": 103,
+      "gas:candidate-vibid:1001000131394": 293,
+      "special:against-all": 93
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170479&region=0&sub_region=0&type=429",
@@ -1637,12 +1637,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 79,
-      "Буланов Владимир Викторович": 119,
-      "Нефедов Виктор Алексеевич": 19,
-      "Суров Михаил Васильевич": 261,
-      "Чайка Валентин Васильевич": 578,
-      "Против всех": 208
+      "gas:candidate-vibid:1001000190336": 79,
+      "gas:candidate-vibid:1001000217919": 119,
+      "gas:candidate-vibid:1001000195067": 19,
+      "gas:candidate-vibid:235200070406": 261,
+      "gas:candidate-vibid:1001000131394": 578,
+      "special:against-all": 208
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170479&region=0&sub_region=0&type=429",
@@ -1692,12 +1692,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 77,
-      "Буланов Владимир Викторович": 156,
-      "Нефедов Виктор Алексеевич": 8,
-      "Суров Михаил Васильевич": 305,
-      "Чайка Валентин Васильевич": 636,
-      "Против всех": 309
+      "gas:candidate-vibid:1001000190336": 77,
+      "gas:candidate-vibid:1001000217919": 156,
+      "gas:candidate-vibid:1001000195067": 8,
+      "gas:candidate-vibid:235200070406": 305,
+      "gas:candidate-vibid:1001000131394": 636,
+      "special:against-all": 309
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170479&region=0&sub_region=0&type=429",
@@ -1747,12 +1747,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 99,
-      "Буланов Владимир Викторович": 117,
-      "Нефедов Виктор Алексеевич": 13,
-      "Суров Михаил Васильевич": 275,
-      "Чайка Валентин Васильевич": 653,
-      "Против всех": 375
+      "gas:candidate-vibid:1001000190336": 99,
+      "gas:candidate-vibid:1001000217919": 117,
+      "gas:candidate-vibid:1001000195067": 13,
+      "gas:candidate-vibid:235200070406": 275,
+      "gas:candidate-vibid:1001000131394": 653,
+      "special:against-all": 375
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170479&region=0&sub_region=0&type=429",
@@ -1802,12 +1802,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 106,
-      "Буланов Владимир Викторович": 101,
-      "Нефедов Виктор Алексеевич": 11,
-      "Суров Михаил Васильевич": 267,
-      "Чайка Валентин Васильевич": 520,
-      "Против всех": 289
+      "gas:candidate-vibid:1001000190336": 106,
+      "gas:candidate-vibid:1001000217919": 101,
+      "gas:candidate-vibid:1001000195067": 11,
+      "gas:candidate-vibid:235200070406": 267,
+      "gas:candidate-vibid:1001000131394": 520,
+      "special:against-all": 289
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170479&region=0&sub_region=0&type=429",
@@ -1857,12 +1857,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 14,
-      "Буланов Владимир Викторович": 16,
-      "Нефедов Виктор Алексеевич": 4,
-      "Суров Михаил Васильевич": 31,
-      "Чайка Валентин Васильевич": 58,
-      "Против всех": 24
+      "gas:candidate-vibid:1001000190336": 14,
+      "gas:candidate-vibid:1001000217919": 16,
+      "gas:candidate-vibid:1001000195067": 4,
+      "gas:candidate-vibid:235200070406": 31,
+      "gas:candidate-vibid:1001000131394": 58,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170479&region=0&sub_region=0&type=429",
@@ -1912,12 +1912,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 91,
-      "Буланов Владимир Викторович": 115,
-      "Нефедов Виктор Алексеевич": 5,
-      "Суров Михаил Васильевич": 207,
-      "Чайка Валентин Васильевич": 581,
-      "Против всех": 236
+      "gas:candidate-vibid:1001000190336": 91,
+      "gas:candidate-vibid:1001000217919": 115,
+      "gas:candidate-vibid:1001000195067": 5,
+      "gas:candidate-vibid:235200070406": 207,
+      "gas:candidate-vibid:1001000131394": 581,
+      "special:against-all": 236
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170479&region=0&sub_region=0&type=429",
@@ -1967,12 +1967,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 62,
-      "Буланов Владимир Викторович": 76,
-      "Нефедов Виктор Алексеевич": 9,
-      "Суров Михаил Васильевич": 155,
-      "Чайка Валентин Васильевич": 410,
-      "Против всех": 211
+      "gas:candidate-vibid:1001000190336": 62,
+      "gas:candidate-vibid:1001000217919": 76,
+      "gas:candidate-vibid:1001000195067": 9,
+      "gas:candidate-vibid:235200070406": 155,
+      "gas:candidate-vibid:1001000131394": 410,
+      "special:against-all": 211
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170479&region=0&sub_region=0&type=429",
@@ -2022,12 +2022,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 132,
-      "Буланов Владимир Викторович": 157,
-      "Нефедов Виктор Алексеевич": 14,
-      "Суров Михаил Васильевич": 312,
-      "Чайка Валентин Васильевич": 639,
-      "Против всех": 321
+      "gas:candidate-vibid:1001000190336": 132,
+      "gas:candidate-vibid:1001000217919": 157,
+      "gas:candidate-vibid:1001000195067": 14,
+      "gas:candidate-vibid:235200070406": 312,
+      "gas:candidate-vibid:1001000131394": 639,
+      "special:against-all": 321
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170479&region=0&sub_region=0&type=429",
@@ -2077,12 +2077,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 123,
-      "Буланов Владимир Викторович": 167,
-      "Нефедов Виктор Алексеевич": 12,
-      "Суров Михаил Васильевич": 294,
-      "Чайка Валентин Васильевич": 687,
-      "Против всех": 307
+      "gas:candidate-vibid:1001000190336": 123,
+      "gas:candidate-vibid:1001000217919": 167,
+      "gas:candidate-vibid:1001000195067": 12,
+      "gas:candidate-vibid:235200070406": 294,
+      "gas:candidate-vibid:1001000131394": 687,
+      "special:against-all": 307
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170479&region=0&sub_region=0&type=429",
@@ -2132,12 +2132,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 72,
-      "Буланов Владимир Викторович": 144,
-      "Нефедов Виктор Алексеевич": 13,
-      "Суров Михаил Васильевич": 241,
-      "Чайка Валентин Васильевич": 505,
-      "Против всех": 236
+      "gas:candidate-vibid:1001000190336": 72,
+      "gas:candidate-vibid:1001000217919": 144,
+      "gas:candidate-vibid:1001000195067": 13,
+      "gas:candidate-vibid:235200070406": 241,
+      "gas:candidate-vibid:1001000131394": 505,
+      "special:against-all": 236
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170479&region=0&sub_region=0&type=429",
@@ -2187,12 +2187,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 117,
-      "Буланов Владимир Викторович": 196,
-      "Нефедов Виктор Алексеевич": 16,
-      "Суров Михаил Васильевич": 279,
-      "Чайка Валентин Васильевич": 869,
-      "Против всех": 290
+      "gas:candidate-vibid:1001000190336": 117,
+      "gas:candidate-vibid:1001000217919": 196,
+      "gas:candidate-vibid:1001000195067": 16,
+      "gas:candidate-vibid:235200070406": 279,
+      "gas:candidate-vibid:1001000131394": 869,
+      "special:against-all": 290
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170479&region=0&sub_region=0&type=429",
@@ -2242,12 +2242,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 134,
-      "Буланов Владимир Викторович": 176,
-      "Нефедов Виктор Алексеевич": 12,
-      "Суров Михаил Васильевич": 328,
-      "Чайка Валентин Васильевич": 678,
-      "Против всех": 348
+      "gas:candidate-vibid:1001000190336": 134,
+      "gas:candidate-vibid:1001000217919": 176,
+      "gas:candidate-vibid:1001000195067": 12,
+      "gas:candidate-vibid:235200070406": 328,
+      "gas:candidate-vibid:1001000131394": 678,
+      "special:against-all": 348
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170479&region=0&sub_region=0&type=429",
@@ -2297,12 +2297,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 90,
-      "Буланов Владимир Викторович": 181,
-      "Нефедов Виктор Алексеевич": 14,
-      "Суров Михаил Васильевич": 298,
-      "Чайка Валентин Васильевич": 687,
-      "Против всех": 277
+      "gas:candidate-vibid:1001000190336": 90,
+      "gas:candidate-vibid:1001000217919": 181,
+      "gas:candidate-vibid:1001000195067": 14,
+      "gas:candidate-vibid:235200070406": 298,
+      "gas:candidate-vibid:1001000131394": 687,
+      "special:against-all": 277
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170479&region=0&sub_region=0&type=429",
@@ -2352,12 +2352,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 60,
-      "Буланов Владимир Викторович": 124,
-      "Нефедов Виктор Алексеевич": 10,
-      "Суров Михаил Васильевич": 205,
-      "Чайка Валентин Васильевич": 602,
-      "Против всех": 224
+      "gas:candidate-vibid:1001000190336": 60,
+      "gas:candidate-vibid:1001000217919": 124,
+      "gas:candidate-vibid:1001000195067": 10,
+      "gas:candidate-vibid:235200070406": 205,
+      "gas:candidate-vibid:1001000131394": 602,
+      "special:against-all": 224
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170479&region=0&sub_region=0&type=429",
@@ -2407,12 +2407,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 69,
-      "Буланов Владимир Викторович": 101,
-      "Нефедов Виктор Алексеевич": 7,
-      "Суров Михаил Васильевич": 333,
-      "Чайка Валентин Васильевич": 418,
-      "Против всех": 137
+      "gas:candidate-vibid:1001000190336": 69,
+      "gas:candidate-vibid:1001000217919": 101,
+      "gas:candidate-vibid:1001000195067": 7,
+      "gas:candidate-vibid:235200070406": 333,
+      "gas:candidate-vibid:1001000131394": 418,
+      "special:against-all": 137
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170479&region=0&sub_region=0&type=429",
@@ -2462,12 +2462,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 24,
-      "Буланов Владимир Викторович": 149,
-      "Нефедов Виктор Алексеевич": 4,
-      "Суров Михаил Васильевич": 403,
-      "Чайка Валентин Васильевич": 475,
-      "Против всех": 172
+      "gas:candidate-vibid:1001000190336": 24,
+      "gas:candidate-vibid:1001000217919": 149,
+      "gas:candidate-vibid:1001000195067": 4,
+      "gas:candidate-vibid:235200070406": 403,
+      "gas:candidate-vibid:1001000131394": 475,
+      "special:against-all": 172
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170479&region=0&sub_region=0&type=429",
@@ -2517,12 +2517,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 70,
-      "Буланов Владимир Викторович": 130,
-      "Нефедов Виктор Алексеевич": 9,
-      "Суров Михаил Васильевич": 395,
-      "Чайка Валентин Васильевич": 501,
-      "Против всех": 152
+      "gas:candidate-vibid:1001000190336": 70,
+      "gas:candidate-vibid:1001000217919": 130,
+      "gas:candidate-vibid:1001000195067": 9,
+      "gas:candidate-vibid:235200070406": 395,
+      "gas:candidate-vibid:1001000131394": 501,
+      "special:against-all": 152
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170479&region=0&sub_region=0&type=429",
@@ -2572,12 +2572,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 46,
-      "Буланов Владимир Викторович": 76,
-      "Нефедов Виктор Алексеевич": 7,
-      "Суров Михаил Васильевич": 327,
-      "Чайка Валентин Васильевич": 349,
-      "Против всех": 128
+      "gas:candidate-vibid:1001000190336": 46,
+      "gas:candidate-vibid:1001000217919": 76,
+      "gas:candidate-vibid:1001000195067": 7,
+      "gas:candidate-vibid:235200070406": 327,
+      "gas:candidate-vibid:1001000131394": 349,
+      "special:against-all": 128
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170479&region=0&sub_region=0&type=429",
@@ -2627,12 +2627,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 58,
-      "Буланов Владимир Викторович": 77,
-      "Нефедов Виктор Алексеевич": 12,
-      "Суров Михаил Васильевич": 342,
-      "Чайка Валентин Васильевич": 467,
-      "Против всех": 166
+      "gas:candidate-vibid:1001000190336": 58,
+      "gas:candidate-vibid:1001000217919": 77,
+      "gas:candidate-vibid:1001000195067": 12,
+      "gas:candidate-vibid:235200070406": 342,
+      "gas:candidate-vibid:1001000131394": 467,
+      "special:against-all": 166
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170479&region=0&sub_region=0&type=429",
@@ -2682,12 +2682,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 83,
-      "Буланов Владимир Викторович": 142,
-      "Нефедов Виктор Алексеевич": 16,
-      "Суров Михаил Васильевич": 496,
-      "Чайка Валентин Васильевич": 570,
-      "Против всех": 262
+      "gas:candidate-vibid:1001000190336": 83,
+      "gas:candidate-vibid:1001000217919": 142,
+      "gas:candidate-vibid:1001000195067": 16,
+      "gas:candidate-vibid:235200070406": 496,
+      "gas:candidate-vibid:1001000131394": 570,
+      "special:against-all": 262
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170479&region=0&sub_region=0&type=429",
@@ -2737,12 +2737,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 47,
-      "Буланов Владимир Викторович": 54,
-      "Нефедов Виктор Алексеевич": 4,
-      "Суров Михаил Васильевич": 326,
-      "Чайка Валентин Васильевич": 376,
-      "Против всех": 115
+      "gas:candidate-vibid:1001000190336": 47,
+      "gas:candidate-vibid:1001000217919": 54,
+      "gas:candidate-vibid:1001000195067": 4,
+      "gas:candidate-vibid:235200070406": 326,
+      "gas:candidate-vibid:1001000131394": 376,
+      "special:against-all": 115
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170479&region=0&sub_region=0&type=429",
@@ -2792,12 +2792,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 41,
-      "Буланов Владимир Викторович": 97,
-      "Нефедов Виктор Алексеевич": 9,
-      "Суров Михаил Васильевич": 287,
-      "Чайка Валентин Васильевич": 345,
-      "Против всех": 163
+      "gas:candidate-vibid:1001000190336": 41,
+      "gas:candidate-vibid:1001000217919": 97,
+      "gas:candidate-vibid:1001000195067": 9,
+      "gas:candidate-vibid:235200070406": 287,
+      "gas:candidate-vibid:1001000131394": 345,
+      "special:against-all": 163
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170479&region=0&sub_region=0&type=429",
@@ -2847,12 +2847,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 27,
-      "Буланов Владимир Викторович": 41,
-      "Нефедов Виктор Алексеевич": 4,
-      "Суров Михаил Васильевич": 164,
-      "Чайка Валентин Васильевич": 167,
-      "Против всех": 74
+      "gas:candidate-vibid:1001000190336": 27,
+      "gas:candidate-vibid:1001000217919": 41,
+      "gas:candidate-vibid:1001000195067": 4,
+      "gas:candidate-vibid:235200070406": 164,
+      "gas:candidate-vibid:1001000131394": 167,
+      "special:against-all": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170479&region=0&sub_region=0&type=429",
@@ -2902,12 +2902,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 25,
-      "Буланов Владимир Викторович": 47,
-      "Нефедов Виктор Алексеевич": 5,
-      "Суров Михаил Васильевич": 154,
-      "Чайка Валентин Васильевич": 197,
-      "Против всех": 72
+      "gas:candidate-vibid:1001000190336": 25,
+      "gas:candidate-vibid:1001000217919": 47,
+      "gas:candidate-vibid:1001000195067": 5,
+      "gas:candidate-vibid:235200070406": 154,
+      "gas:candidate-vibid:1001000131394": 197,
+      "special:against-all": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170479&region=0&sub_region=0&type=429",
@@ -2957,12 +2957,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 20,
-      "Буланов Владимир Викторович": 27,
-      "Нефедов Виктор Алексеевич": 2,
-      "Суров Михаил Васильевич": 114,
-      "Чайка Валентин Васильевич": 107,
-      "Против всех": 50
+      "gas:candidate-vibid:1001000190336": 20,
+      "gas:candidate-vibid:1001000217919": 27,
+      "gas:candidate-vibid:1001000195067": 2,
+      "gas:candidate-vibid:235200070406": 114,
+      "gas:candidate-vibid:1001000131394": 107,
+      "special:against-all": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170479&region=0&sub_region=0&type=429",
@@ -3012,12 +3012,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 61,
-      "Буланов Владимир Викторович": 111,
-      "Нефедов Виктор Алексеевич": 9,
-      "Суров Михаил Васильевич": 256,
-      "Чайка Валентин Васильевич": 320,
-      "Против всех": 143
+      "gas:candidate-vibid:1001000190336": 61,
+      "gas:candidate-vibid:1001000217919": 111,
+      "gas:candidate-vibid:1001000195067": 9,
+      "gas:candidate-vibid:235200070406": 256,
+      "gas:candidate-vibid:1001000131394": 320,
+      "special:against-all": 143
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170479&region=0&sub_region=0&type=429",
@@ -3067,12 +3067,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 49,
-      "Буланов Владимир Викторович": 101,
-      "Нефедов Виктор Алексеевич": 7,
-      "Суров Михаил Васильевич": 230,
-      "Чайка Валентин Васильевич": 350,
-      "Против всех": 123
+      "gas:candidate-vibid:1001000190336": 49,
+      "gas:candidate-vibid:1001000217919": 101,
+      "gas:candidate-vibid:1001000195067": 7,
+      "gas:candidate-vibid:235200070406": 230,
+      "gas:candidate-vibid:1001000131394": 350,
+      "special:against-all": 123
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170479&region=0&sub_region=0&type=429",
@@ -3122,12 +3122,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 84,
-      "Буланов Владимир Викторович": 92,
-      "Нефедов Виктор Алексеевич": 9,
-      "Суров Михаил Васильевич": 293,
-      "Чайка Валентин Васильевич": 473,
-      "Против всех": 230
+      "gas:candidate-vibid:1001000190336": 84,
+      "gas:candidate-vibid:1001000217919": 92,
+      "gas:candidate-vibid:1001000195067": 9,
+      "gas:candidate-vibid:235200070406": 293,
+      "gas:candidate-vibid:1001000131394": 473,
+      "special:against-all": 230
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170479&region=0&sub_region=0&type=429",
@@ -3177,12 +3177,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 59,
-      "Буланов Владимир Викторович": 120,
-      "Нефедов Виктор Алексеевич": 15,
-      "Суров Михаил Васильевич": 336,
-      "Чайка Валентин Васильевич": 457,
-      "Против всех": 174
+      "gas:candidate-vibid:1001000190336": 59,
+      "gas:candidate-vibid:1001000217919": 120,
+      "gas:candidate-vibid:1001000195067": 15,
+      "gas:candidate-vibid:235200070406": 336,
+      "gas:candidate-vibid:1001000131394": 457,
+      "special:against-all": 174
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170479&region=0&sub_region=0&type=429",
@@ -3232,12 +3232,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 39,
-      "Буланов Владимир Викторович": 78,
-      "Нефедов Виктор Алексеевич": 8,
-      "Суров Михаил Васильевич": 161,
-      "Чайка Валентин Васильевич": 234,
-      "Против всех": 133
+      "gas:candidate-vibid:1001000190336": 39,
+      "gas:candidate-vibid:1001000217919": 78,
+      "gas:candidate-vibid:1001000195067": 8,
+      "gas:candidate-vibid:235200070406": 161,
+      "gas:candidate-vibid:1001000131394": 234,
+      "special:against-all": 133
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170479&region=0&sub_region=0&type=429",
@@ -3287,12 +3287,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 46,
-      "Буланов Владимир Викторович": 124,
-      "Нефедов Виктор Алексеевич": 7,
-      "Суров Михаил Васильевич": 374,
-      "Чайка Валентин Васильевич": 527,
-      "Против всех": 166
+      "gas:candidate-vibid:1001000190336": 46,
+      "gas:candidate-vibid:1001000217919": 124,
+      "gas:candidate-vibid:1001000195067": 7,
+      "gas:candidate-vibid:235200070406": 374,
+      "gas:candidate-vibid:1001000131394": 527,
+      "special:against-all": 166
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170479&region=0&sub_region=0&type=429",
@@ -3342,12 +3342,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 82,
-      "Буланов Владимир Викторович": 95,
-      "Нефедов Виктор Алексеевич": 9,
-      "Суров Михаил Васильевич": 254,
-      "Чайка Валентин Васильевич": 467,
-      "Против всех": 172
+      "gas:candidate-vibid:1001000190336": 82,
+      "gas:candidate-vibid:1001000217919": 95,
+      "gas:candidate-vibid:1001000195067": 9,
+      "gas:candidate-vibid:235200070406": 254,
+      "gas:candidate-vibid:1001000131394": 467,
+      "special:against-all": 172
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170479&region=0&sub_region=0&type=429",
@@ -3397,12 +3397,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 41,
-      "Буланов Владимир Викторович": 60,
-      "Нефедов Виктор Алексеевич": 6,
-      "Суров Михаил Васильевич": 227,
-      "Чайка Валентин Васильевич": 317,
-      "Против всех": 164
+      "gas:candidate-vibid:1001000190336": 41,
+      "gas:candidate-vibid:1001000217919": 60,
+      "gas:candidate-vibid:1001000195067": 6,
+      "gas:candidate-vibid:235200070406": 227,
+      "gas:candidate-vibid:1001000131394": 317,
+      "special:against-all": 164
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170479&region=0&sub_region=0&type=429",
@@ -3452,12 +3452,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 101,
-      "Буланов Владимир Викторович": 77,
-      "Нефедов Виктор Алексеевич": 5,
-      "Суров Михаил Васильевич": 223,
-      "Чайка Валентин Васильевич": 433,
-      "Против всех": 214
+      "gas:candidate-vibid:1001000190336": 101,
+      "gas:candidate-vibid:1001000217919": 77,
+      "gas:candidate-vibid:1001000195067": 5,
+      "gas:candidate-vibid:235200070406": 223,
+      "gas:candidate-vibid:1001000131394": 433,
+      "special:against-all": 214
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170479&region=0&sub_region=0&type=429",
@@ -3507,12 +3507,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 40,
-      "Буланов Владимир Викторович": 51,
-      "Нефедов Виктор Алексеевич": 7,
-      "Суров Михаил Васильевич": 276,
-      "Чайка Валентин Васильевич": 279,
-      "Против всех": 124
+      "gas:candidate-vibid:1001000190336": 40,
+      "gas:candidate-vibid:1001000217919": 51,
+      "gas:candidate-vibid:1001000195067": 7,
+      "gas:candidate-vibid:235200070406": 276,
+      "gas:candidate-vibid:1001000131394": 279,
+      "special:against-all": 124
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170479&region=0&sub_region=0&type=429",
@@ -3562,12 +3562,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 76,
-      "Буланов Владимир Викторович": 131,
-      "Нефедов Виктор Алексеевич": 4,
-      "Суров Михаил Васильевич": 522,
-      "Чайка Валентин Васильевич": 608,
-      "Против всех": 191
+      "gas:candidate-vibid:1001000190336": 76,
+      "gas:candidate-vibid:1001000217919": 131,
+      "gas:candidate-vibid:1001000195067": 4,
+      "gas:candidate-vibid:235200070406": 522,
+      "gas:candidate-vibid:1001000131394": 608,
+      "special:against-all": 191
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170479&region=0&sub_region=0&type=429",
@@ -3617,12 +3617,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 67,
-      "Буланов Владимир Викторович": 76,
-      "Нефедов Виктор Алексеевич": 6,
-      "Суров Михаил Васильевич": 327,
-      "Чайка Валентин Васильевич": 465,
-      "Против всех": 187
+      "gas:candidate-vibid:1001000190336": 67,
+      "gas:candidate-vibid:1001000217919": 76,
+      "gas:candidate-vibid:1001000195067": 6,
+      "gas:candidate-vibid:235200070406": 327,
+      "gas:candidate-vibid:1001000131394": 465,
+      "special:against-all": 187
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170479&region=0&sub_region=0&type=429",
@@ -3672,12 +3672,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 55,
-      "Буланов Владимир Викторович": 65,
-      "Нефедов Виктор Алексеевич": 7,
-      "Суров Михаил Васильевич": 214,
-      "Чайка Валентин Васильевич": 413,
-      "Против всех": 141
+      "gas:candidate-vibid:1001000190336": 55,
+      "gas:candidate-vibid:1001000217919": 65,
+      "gas:candidate-vibid:1001000195067": 7,
+      "gas:candidate-vibid:235200070406": 214,
+      "gas:candidate-vibid:1001000131394": 413,
+      "special:against-all": 141
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170479&region=0&sub_region=0&type=429",
@@ -3727,12 +3727,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 82,
-      "Буланов Владимир Викторович": 94,
-      "Нефедов Виктор Алексеевич": 5,
-      "Суров Михаил Васильевич": 396,
-      "Чайка Валентин Васильевич": 564,
-      "Против всех": 224
+      "gas:candidate-vibid:1001000190336": 82,
+      "gas:candidate-vibid:1001000217919": 94,
+      "gas:candidate-vibid:1001000195067": 5,
+      "gas:candidate-vibid:235200070406": 396,
+      "gas:candidate-vibid:1001000131394": 564,
+      "special:against-all": 224
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170479&region=0&sub_region=0&type=429",
@@ -3782,12 +3782,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 91,
-      "Буланов Владимир Викторович": 103,
-      "Нефедов Виктор Алексеевич": 12,
-      "Суров Михаил Васильевич": 331,
-      "Чайка Валентин Васильевич": 439,
-      "Против всех": 231
+      "gas:candidate-vibid:1001000190336": 91,
+      "gas:candidate-vibid:1001000217919": 103,
+      "gas:candidate-vibid:1001000195067": 12,
+      "gas:candidate-vibid:235200070406": 331,
+      "gas:candidate-vibid:1001000131394": 439,
+      "special:against-all": 231
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170479&region=0&sub_region=0&type=429",
@@ -3837,12 +3837,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 68,
-      "Буланов Владимир Викторович": 115,
-      "Нефедов Виктор Алексеевич": 10,
-      "Суров Михаил Васильевич": 432,
-      "Чайка Валентин Васильевич": 533,
-      "Против всех": 172
+      "gas:candidate-vibid:1001000190336": 68,
+      "gas:candidate-vibid:1001000217919": 115,
+      "gas:candidate-vibid:1001000195067": 10,
+      "gas:candidate-vibid:235200070406": 432,
+      "gas:candidate-vibid:1001000131394": 533,
+      "special:against-all": 172
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170479&region=0&sub_region=0&type=429",
@@ -3892,12 +3892,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 84,
-      "Буланов Владимир Викторович": 129,
-      "Нефедов Виктор Алексеевич": 10,
-      "Суров Михаил Васильевич": 417,
-      "Чайка Валентин Васильевич": 522,
-      "Против всех": 204
+      "gas:candidate-vibid:1001000190336": 84,
+      "gas:candidate-vibid:1001000217919": 129,
+      "gas:candidate-vibid:1001000195067": 10,
+      "gas:candidate-vibid:235200070406": 417,
+      "gas:candidate-vibid:1001000131394": 522,
+      "special:against-all": 204
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170479&region=0&sub_region=0&type=429",
@@ -3947,12 +3947,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 83,
-      "Буланов Владимир Викторович": 121,
-      "Нефедов Виктор Алексеевич": 14,
-      "Суров Михаил Васильевич": 503,
-      "Чайка Валентин Васильевич": 633,
-      "Против всех": 259
+      "gas:candidate-vibid:1001000190336": 83,
+      "gas:candidate-vibid:1001000217919": 121,
+      "gas:candidate-vibid:1001000195067": 14,
+      "gas:candidate-vibid:235200070406": 503,
+      "gas:candidate-vibid:1001000131394": 633,
+      "special:against-all": 259
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170479&region=0&sub_region=0&type=429",
@@ -4002,12 +4002,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 9,
-      "Буланов Владимир Викторович": 9,
-      "Нефедов Виктор Алексеевич": 1,
-      "Суров Михаил Васильевич": 73,
-      "Чайка Валентин Васильевич": 42,
-      "Против всех": 29
+      "gas:candidate-vibid:1001000190336": 9,
+      "gas:candidate-vibid:1001000217919": 9,
+      "gas:candidate-vibid:1001000195067": 1,
+      "gas:candidate-vibid:235200070406": 73,
+      "gas:candidate-vibid:1001000131394": 42,
+      "special:against-all": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170479&region=0&sub_region=0&type=429",
@@ -4057,12 +4057,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 84,
-      "Буланов Владимир Викторович": 169,
-      "Нефедов Виктор Алексеевич": 5,
-      "Суров Михаил Васильевич": 209,
-      "Чайка Валентин Васильевич": 446,
-      "Против всех": 232
+      "gas:candidate-vibid:1001000190336": 84,
+      "gas:candidate-vibid:1001000217919": 169,
+      "gas:candidate-vibid:1001000195067": 5,
+      "gas:candidate-vibid:235200070406": 209,
+      "gas:candidate-vibid:1001000131394": 446,
+      "special:against-all": 232
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170479&region=0&sub_region=0&type=429",
@@ -4112,12 +4112,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 59,
-      "Буланов Владимир Викторович": 129,
-      "Нефедов Виктор Алексеевич": 3,
-      "Суров Михаил Васильевич": 254,
-      "Чайка Валентин Васильевич": 466,
-      "Против всех": 265
+      "gas:candidate-vibid:1001000190336": 59,
+      "gas:candidate-vibid:1001000217919": 129,
+      "gas:candidate-vibid:1001000195067": 3,
+      "gas:candidate-vibid:235200070406": 254,
+      "gas:candidate-vibid:1001000131394": 466,
+      "special:against-all": 265
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170479&region=0&sub_region=0&type=429",
@@ -4167,12 +4167,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 41,
-      "Буланов Владимир Викторович": 143,
-      "Нефедов Виктор Алексеевич": 8,
-      "Суров Михаил Васильевич": 87,
-      "Чайка Валентин Васильевич": 262,
-      "Против всех": 100
+      "gas:candidate-vibid:1001000190336": 41,
+      "gas:candidate-vibid:1001000217919": 143,
+      "gas:candidate-vibid:1001000195067": 8,
+      "gas:candidate-vibid:235200070406": 87,
+      "gas:candidate-vibid:1001000131394": 262,
+      "special:against-all": 100
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170479&region=0&sub_region=0&type=429",
@@ -4222,12 +4222,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 127,
-      "Буланов Владимир Викторович": 152,
-      "Нефедов Виктор Алексеевич": 15,
-      "Суров Михаил Васильевич": 260,
-      "Чайка Валентин Васильевич": 551,
-      "Против всех": 233
+      "gas:candidate-vibid:1001000190336": 127,
+      "gas:candidate-vibid:1001000217919": 152,
+      "gas:candidate-vibid:1001000195067": 15,
+      "gas:candidate-vibid:235200070406": 260,
+      "gas:candidate-vibid:1001000131394": 551,
+      "special:against-all": 233
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170479&region=0&sub_region=0&type=429",
@@ -4277,12 +4277,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 89,
-      "Буланов Владимир Викторович": 120,
-      "Нефедов Виктор Алексеевич": 5,
-      "Суров Михаил Васильевич": 99,
-      "Чайка Валентин Васильевич": 635,
-      "Против всех": 35
+      "gas:candidate-vibid:1001000190336": 89,
+      "gas:candidate-vibid:1001000217919": 120,
+      "gas:candidate-vibid:1001000195067": 5,
+      "gas:candidate-vibid:235200070406": 99,
+      "gas:candidate-vibid:1001000131394": 635,
+      "special:against-all": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170479&region=0&sub_region=0&type=429",
@@ -4332,12 +4332,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 38,
-      "Буланов Владимир Викторович": 76,
-      "Нефедов Виктор Алексеевич": 4,
-      "Суров Михаил Васильевич": 213,
-      "Чайка Валентин Васильевич": 411,
-      "Против всех": 170
+      "gas:candidate-vibid:1001000190336": 38,
+      "gas:candidate-vibid:1001000217919": 76,
+      "gas:candidate-vibid:1001000195067": 4,
+      "gas:candidate-vibid:235200070406": 213,
+      "gas:candidate-vibid:1001000131394": 411,
+      "special:against-all": 170
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170479&region=0&sub_region=0&type=429",
@@ -4387,12 +4387,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 78,
-      "Буланов Владимир Викторович": 109,
-      "Нефедов Виктор Алексеевич": 4,
-      "Суров Михаил Васильевич": 235,
-      "Чайка Валентин Васильевич": 515,
-      "Против всех": 230
+      "gas:candidate-vibid:1001000190336": 78,
+      "gas:candidate-vibid:1001000217919": 109,
+      "gas:candidate-vibid:1001000195067": 4,
+      "gas:candidate-vibid:235200070406": 235,
+      "gas:candidate-vibid:1001000131394": 515,
+      "special:against-all": 230
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170479&region=0&sub_region=0&type=429",
@@ -4442,12 +4442,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 77,
-      "Буланов Владимир Викторович": 135,
-      "Нефедов Виктор Алексеевич": 6,
-      "Суров Михаил Васильевич": 250,
-      "Чайка Валентин Васильевич": 611,
-      "Против всех": 232
+      "gas:candidate-vibid:1001000190336": 77,
+      "gas:candidate-vibid:1001000217919": 135,
+      "gas:candidate-vibid:1001000195067": 6,
+      "gas:candidate-vibid:235200070406": 250,
+      "gas:candidate-vibid:1001000131394": 611,
+      "special:against-all": 232
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170479&region=0&sub_region=0&type=429",
@@ -4497,12 +4497,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 70,
-      "Буланов Владимир Викторович": 139,
-      "Нефедов Виктор Алексеевич": 10,
-      "Суров Михаил Васильевич": 262,
-      "Чайка Валентин Васильевич": 486,
-      "Против всех": 218
+      "gas:candidate-vibid:1001000190336": 70,
+      "gas:candidate-vibid:1001000217919": 139,
+      "gas:candidate-vibid:1001000195067": 10,
+      "gas:candidate-vibid:235200070406": 262,
+      "gas:candidate-vibid:1001000131394": 486,
+      "special:against-all": 218
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170479&region=0&sub_region=0&type=429",
@@ -4552,12 +4552,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 86,
-      "Буланов Владимир Викторович": 155,
-      "Нефедов Виктор Алексеевич": 8,
-      "Суров Михаил Васильевич": 263,
-      "Чайка Валентин Васильевич": 577,
-      "Против всех": 197
+      "gas:candidate-vibid:1001000190336": 86,
+      "gas:candidate-vibid:1001000217919": 155,
+      "gas:candidate-vibid:1001000195067": 8,
+      "gas:candidate-vibid:235200070406": 263,
+      "gas:candidate-vibid:1001000131394": 577,
+      "special:against-all": 197
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170479&region=0&sub_region=0&type=429",
@@ -4607,12 +4607,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 85,
-      "Буланов Владимир Викторович": 326,
-      "Нефедов Виктор Алексеевич": 12,
-      "Суров Михаил Васильевич": 237,
-      "Чайка Валентин Васильевич": 532,
-      "Против всех": 215
+      "gas:candidate-vibid:1001000190336": 85,
+      "gas:candidate-vibid:1001000217919": 326,
+      "gas:candidate-vibid:1001000195067": 12,
+      "gas:candidate-vibid:235200070406": 237,
+      "gas:candidate-vibid:1001000131394": 532,
+      "special:against-all": 215
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170479&region=0&sub_region=0&type=429",
@@ -4662,12 +4662,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 66,
-      "Буланов Владимир Викторович": 122,
-      "Нефедов Виктор Алексеевич": 5,
-      "Суров Михаил Васильевич": 206,
-      "Чайка Валентин Васильевич": 503,
-      "Против всех": 168
+      "gas:candidate-vibid:1001000190336": 66,
+      "gas:candidate-vibid:1001000217919": 122,
+      "gas:candidate-vibid:1001000195067": 5,
+      "gas:candidate-vibid:235200070406": 206,
+      "gas:candidate-vibid:1001000131394": 503,
+      "special:against-all": 168
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170479&region=0&sub_region=0&type=429",
@@ -4717,12 +4717,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 68,
-      "Буланов Владимир Викторович": 100,
-      "Нефедов Виктор Алексеевич": 3,
-      "Суров Михаил Васильевич": 258,
-      "Чайка Валентин Васильевич": 575,
-      "Против всех": 195
+      "gas:candidate-vibid:1001000190336": 68,
+      "gas:candidate-vibid:1001000217919": 100,
+      "gas:candidate-vibid:1001000195067": 3,
+      "gas:candidate-vibid:235200070406": 258,
+      "gas:candidate-vibid:1001000131394": 575,
+      "special:against-all": 195
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170479&region=0&sub_region=0&type=429",
@@ -4772,12 +4772,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 69,
-      "Буланов Владимир Викторович": 106,
-      "Нефедов Виктор Алексеевич": 5,
-      "Суров Михаил Васильевич": 203,
-      "Чайка Валентин Васильевич": 442,
-      "Против всех": 226
+      "gas:candidate-vibid:1001000190336": 69,
+      "gas:candidate-vibid:1001000217919": 106,
+      "gas:candidate-vibid:1001000195067": 5,
+      "gas:candidate-vibid:235200070406": 203,
+      "gas:candidate-vibid:1001000131394": 442,
+      "special:against-all": 226
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170479&region=0&sub_region=0&type=429",
@@ -4827,12 +4827,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 74,
-      "Буланов Владимир Викторович": 106,
-      "Нефедов Виктор Алексеевич": 11,
-      "Суров Михаил Васильевич": 239,
-      "Чайка Валентин Васильевич": 483,
-      "Против всех": 241
+      "gas:candidate-vibid:1001000190336": 74,
+      "gas:candidate-vibid:1001000217919": 106,
+      "gas:candidate-vibid:1001000195067": 11,
+      "gas:candidate-vibid:235200070406": 239,
+      "gas:candidate-vibid:1001000131394": 483,
+      "special:against-all": 241
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170479&region=0&sub_region=0&type=429",
@@ -4882,12 +4882,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 49,
-      "Буланов Владимир Викторович": 74,
-      "Нефедов Виктор Алексеевич": 7,
-      "Суров Михаил Васильевич": 124,
-      "Чайка Валентин Васильевич": 295,
-      "Против всех": 147
+      "gas:candidate-vibid:1001000190336": 49,
+      "gas:candidate-vibid:1001000217919": 74,
+      "gas:candidate-vibid:1001000195067": 7,
+      "gas:candidate-vibid:235200070406": 124,
+      "gas:candidate-vibid:1001000131394": 295,
+      "special:against-all": 147
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170479&region=0&sub_region=0&type=429",
@@ -4937,12 +4937,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 10,
-      "Буланов Владимир Викторович": 10,
-      "Нефедов Виктор Алексеевич": 6,
-      "Суров Михаил Васильевич": 42,
-      "Чайка Валентин Васильевич": 84,
-      "Против всех": 27
+      "gas:candidate-vibid:1001000190336": 10,
+      "gas:candidate-vibid:1001000217919": 10,
+      "gas:candidate-vibid:1001000195067": 6,
+      "gas:candidate-vibid:235200070406": 42,
+      "gas:candidate-vibid:1001000131394": 84,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170479&region=0&sub_region=0&type=429",
@@ -4992,12 +4992,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 46,
-      "Буланов Владимир Викторович": 34,
-      "Нефедов Виктор Алексеевич": 3,
-      "Суров Михаил Васильевич": 95,
-      "Чайка Валентин Васильевич": 171,
-      "Против всех": 81
+      "gas:candidate-vibid:1001000190336": 46,
+      "gas:candidate-vibid:1001000217919": 34,
+      "gas:candidate-vibid:1001000195067": 3,
+      "gas:candidate-vibid:235200070406": 95,
+      "gas:candidate-vibid:1001000131394": 171,
+      "special:against-all": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170479&region=0&sub_region=0&type=429",
@@ -5047,12 +5047,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 79,
-      "Буланов Владимир Викторович": 143,
-      "Нефедов Виктор Алексеевич": 13,
-      "Суров Михаил Васильевич": 278,
-      "Чайка Валентин Васильевич": 646,
-      "Против всех": 221
+      "gas:candidate-vibid:1001000190336": 79,
+      "gas:candidate-vibid:1001000217919": 143,
+      "gas:candidate-vibid:1001000195067": 13,
+      "gas:candidate-vibid:235200070406": 278,
+      "gas:candidate-vibid:1001000131394": 646,
+      "special:against-all": 221
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170479&region=0&sub_region=0&type=429",
@@ -5102,12 +5102,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 52,
-      "Буланов Владимир Викторович": 92,
-      "Нефедов Виктор Алексеевич": 8,
-      "Суров Михаил Васильевич": 194,
-      "Чайка Валентин Васильевич": 536,
-      "Против всех": 176
+      "gas:candidate-vibid:1001000190336": 52,
+      "gas:candidate-vibid:1001000217919": 92,
+      "gas:candidate-vibid:1001000195067": 8,
+      "gas:candidate-vibid:235200070406": 194,
+      "gas:candidate-vibid:1001000131394": 536,
+      "special:against-all": 176
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170479&region=0&sub_region=0&type=429",
@@ -5157,12 +5157,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 31,
-      "Буланов Владимир Викторович": 89,
-      "Нефедов Виктор Алексеевич": 3,
-      "Суров Михаил Васильевич": 226,
-      "Чайка Валентин Васильевич": 417,
-      "Против всех": 144
+      "gas:candidate-vibid:1001000190336": 31,
+      "gas:candidate-vibid:1001000217919": 89,
+      "gas:candidate-vibid:1001000195067": 3,
+      "gas:candidate-vibid:235200070406": 226,
+      "gas:candidate-vibid:1001000131394": 417,
+      "special:against-all": 144
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170479&region=0&sub_region=0&type=429",
@@ -5212,12 +5212,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 104,
-      "Буланов Владимир Викторович": 154,
-      "Нефедов Виктор Алексеевич": 19,
-      "Суров Михаил Васильевич": 308,
-      "Чайка Валентин Васильевич": 671,
-      "Против всех": 272
+      "gas:candidate-vibid:1001000190336": 104,
+      "gas:candidate-vibid:1001000217919": 154,
+      "gas:candidate-vibid:1001000195067": 19,
+      "gas:candidate-vibid:235200070406": 308,
+      "gas:candidate-vibid:1001000131394": 671,
+      "special:against-all": 272
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170479&region=0&sub_region=0&type=429",
@@ -5267,12 +5267,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 58,
-      "Буланов Владимир Викторович": 147,
-      "Нефедов Виктор Алексеевич": 10,
-      "Суров Михаил Васильевич": 346,
-      "Чайка Валентин Васильевич": 558,
-      "Против всех": 202
+      "gas:candidate-vibid:1001000190336": 58,
+      "gas:candidate-vibid:1001000217919": 147,
+      "gas:candidate-vibid:1001000195067": 10,
+      "gas:candidate-vibid:235200070406": 346,
+      "gas:candidate-vibid:1001000131394": 558,
+      "special:against-all": 202
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170479&region=0&sub_region=0&type=429",
@@ -5322,12 +5322,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 105,
-      "Буланов Владимир Викторович": 186,
-      "Нефедов Виктор Алексеевич": 11,
-      "Суров Михаил Васильевич": 288,
-      "Чайка Валентин Васильевич": 743,
-      "Против всех": 334
+      "gas:candidate-vibid:1001000190336": 105,
+      "gas:candidate-vibid:1001000217919": 186,
+      "gas:candidate-vibid:1001000195067": 11,
+      "gas:candidate-vibid:235200070406": 288,
+      "gas:candidate-vibid:1001000131394": 743,
+      "special:against-all": 334
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170479&region=0&sub_region=0&type=429",
@@ -5377,12 +5377,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 107,
-      "Буланов Владимир Викторович": 119,
-      "Нефедов Виктор Алексеевич": 21,
-      "Суров Михаил Васильевич": 261,
-      "Чайка Валентин Васильевич": 675,
-      "Против всех": 262
+      "gas:candidate-vibid:1001000190336": 107,
+      "gas:candidate-vibid:1001000217919": 119,
+      "gas:candidate-vibid:1001000195067": 21,
+      "gas:candidate-vibid:235200070406": 261,
+      "gas:candidate-vibid:1001000131394": 675,
+      "special:against-all": 262
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170479&region=0&sub_region=0&type=429",
@@ -5432,12 +5432,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 81,
-      "Буланов Владимир Викторович": 124,
-      "Нефедов Виктор Алексеевич": 10,
-      "Суров Михаил Васильевич": 223,
-      "Чайка Валентин Васильевич": 579,
-      "Против всех": 255
+      "gas:candidate-vibid:1001000190336": 81,
+      "gas:candidate-vibid:1001000217919": 124,
+      "gas:candidate-vibid:1001000195067": 10,
+      "gas:candidate-vibid:235200070406": 223,
+      "gas:candidate-vibid:1001000131394": 579,
+      "special:against-all": 255
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170479&region=0&sub_region=0&type=429",
@@ -5487,12 +5487,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 36,
-      "Буланов Владимир Викторович": 56,
-      "Нефедов Виктор Алексеевич": 5,
-      "Суров Михаил Васильевич": 96,
-      "Чайка Валентин Васильевич": 804,
-      "Против всех": 177
+      "gas:candidate-vibid:1001000190336": 36,
+      "gas:candidate-vibid:1001000217919": 56,
+      "gas:candidate-vibid:1001000195067": 5,
+      "gas:candidate-vibid:235200070406": 96,
+      "gas:candidate-vibid:1001000131394": 804,
+      "special:against-all": 177
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170479&region=0&sub_region=0&type=429",
@@ -5542,12 +5542,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 51,
-      "Буланов Владимир Викторович": 98,
-      "Нефедов Виктор Алексеевич": 10,
-      "Суров Михаил Васильевич": 200,
-      "Чайка Валентин Васильевич": 475,
-      "Против всех": 168
+      "gas:candidate-vibid:1001000190336": 51,
+      "gas:candidate-vibid:1001000217919": 98,
+      "gas:candidate-vibid:1001000195067": 10,
+      "gas:candidate-vibid:235200070406": 200,
+      "gas:candidate-vibid:1001000131394": 475,
+      "special:against-all": 168
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170479&region=0&sub_region=0&type=429",
@@ -5597,12 +5597,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 74,
-      "Буланов Владимир Викторович": 109,
-      "Нефедов Виктор Алексеевич": 10,
-      "Суров Михаил Васильевич": 182,
-      "Чайка Валентин Васильевич": 545,
-      "Против всех": 182
+      "gas:candidate-vibid:1001000190336": 74,
+      "gas:candidate-vibid:1001000217919": 109,
+      "gas:candidate-vibid:1001000195067": 10,
+      "gas:candidate-vibid:235200070406": 182,
+      "gas:candidate-vibid:1001000131394": 545,
+      "special:against-all": 182
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170479&region=0&sub_region=0&type=429",
@@ -5652,12 +5652,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 87,
-      "Буланов Владимир Викторович": 119,
-      "Нефедов Виктор Алексеевич": 10,
-      "Суров Михаил Васильевич": 208,
-      "Чайка Валентин Васильевич": 562,
-      "Против всех": 258
+      "gas:candidate-vibid:1001000190336": 87,
+      "gas:candidate-vibid:1001000217919": 119,
+      "gas:candidate-vibid:1001000195067": 10,
+      "gas:candidate-vibid:235200070406": 208,
+      "gas:candidate-vibid:1001000131394": 562,
+      "special:against-all": 258
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170479&region=0&sub_region=0&type=429",
@@ -5707,12 +5707,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 81,
-      "Буланов Владимир Викторович": 132,
-      "Нефедов Виктор Алексеевич": 9,
-      "Суров Михаил Васильевич": 311,
-      "Чайка Валентин Васильевич": 678,
-      "Против всех": 272
+      "gas:candidate-vibid:1001000190336": 81,
+      "gas:candidate-vibid:1001000217919": 132,
+      "gas:candidate-vibid:1001000195067": 9,
+      "gas:candidate-vibid:235200070406": 311,
+      "gas:candidate-vibid:1001000131394": 678,
+      "special:against-all": 272
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170479&region=0&sub_region=0&type=429",
@@ -5762,12 +5762,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 77,
-      "Буланов Владимир Викторович": 114,
-      "Нефедов Виктор Алексеевич": 4,
-      "Суров Михаил Васильевич": 194,
-      "Чайка Валентин Васильевич": 501,
-      "Против всех": 175
+      "gas:candidate-vibid:1001000190336": 77,
+      "gas:candidate-vibid:1001000217919": 114,
+      "gas:candidate-vibid:1001000195067": 4,
+      "gas:candidate-vibid:235200070406": 194,
+      "gas:candidate-vibid:1001000131394": 501,
+      "special:against-all": 175
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170479&region=0&sub_region=0&type=429",
@@ -5817,12 +5817,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 66,
-      "Буланов Владимир Викторович": 73,
-      "Нефедов Виктор Алексеевич": 4,
-      "Суров Михаил Васильевич": 183,
-      "Чайка Валентин Васильевич": 425,
-      "Против всех": 157
+      "gas:candidate-vibid:1001000190336": 66,
+      "gas:candidate-vibid:1001000217919": 73,
+      "gas:candidate-vibid:1001000195067": 4,
+      "gas:candidate-vibid:235200070406": 183,
+      "gas:candidate-vibid:1001000131394": 425,
+      "special:against-all": 157
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170479&region=0&sub_region=0&type=429",
@@ -5872,12 +5872,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 110,
-      "Буланов Владимир Викторович": 138,
-      "Нефедов Виктор Алексеевич": 14,
-      "Суров Михаил Васильевич": 346,
-      "Чайка Валентин Васильевич": 745,
-      "Против всех": 248
+      "gas:candidate-vibid:1001000190336": 110,
+      "gas:candidate-vibid:1001000217919": 138,
+      "gas:candidate-vibid:1001000195067": 14,
+      "gas:candidate-vibid:235200070406": 346,
+      "gas:candidate-vibid:1001000131394": 745,
+      "special:against-all": 248
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170479&region=0&sub_region=0&type=429",
@@ -5927,12 +5927,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 114,
-      "Буланов Владимир Викторович": 155,
-      "Нефедов Виктор Алексеевич": 9,
-      "Суров Михаил Васильевич": 317,
-      "Чайка Валентин Васильевич": 693,
-      "Против всех": 281
+      "gas:candidate-vibid:1001000190336": 114,
+      "gas:candidate-vibid:1001000217919": 155,
+      "gas:candidate-vibid:1001000195067": 9,
+      "gas:candidate-vibid:235200070406": 317,
+      "gas:candidate-vibid:1001000131394": 693,
+      "special:against-all": 281
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170479&region=0&sub_region=0&type=429",
@@ -5982,12 +5982,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 60,
-      "Буланов Владимир Викторович": 96,
-      "Нефедов Виктор Алексеевич": 7,
-      "Суров Михаил Васильевич": 228,
-      "Чайка Валентин Васильевич": 576,
-      "Против всех": 217
+      "gas:candidate-vibid:1001000190336": 60,
+      "gas:candidate-vibid:1001000217919": 96,
+      "gas:candidate-vibid:1001000195067": 7,
+      "gas:candidate-vibid:235200070406": 228,
+      "gas:candidate-vibid:1001000131394": 576,
+      "special:against-all": 217
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170479&region=0&sub_region=0&type=429",
@@ -6037,12 +6037,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 48,
-      "Буланов Владимир Викторович": 82,
-      "Нефедов Виктор Алексеевич": 5,
-      "Суров Михаил Васильевич": 166,
-      "Чайка Валентин Васильевич": 514,
-      "Против всех": 173
+      "gas:candidate-vibid:1001000190336": 48,
+      "gas:candidate-vibid:1001000217919": 82,
+      "gas:candidate-vibid:1001000195067": 5,
+      "gas:candidate-vibid:235200070406": 166,
+      "gas:candidate-vibid:1001000131394": 514,
+      "special:against-all": 173
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170479&region=0&sub_region=0&type=429",
@@ -6092,12 +6092,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 80,
-      "Буланов Владимир Викторович": 116,
-      "Нефедов Виктор Алексеевич": 8,
-      "Суров Михаил Васильевич": 217,
-      "Чайка Валентин Васильевич": 657,
-      "Против всех": 225
+      "gas:candidate-vibid:1001000190336": 80,
+      "gas:candidate-vibid:1001000217919": 116,
+      "gas:candidate-vibid:1001000195067": 8,
+      "gas:candidate-vibid:235200070406": 217,
+      "gas:candidate-vibid:1001000131394": 657,
+      "special:against-all": 225
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170479&region=0&sub_region=0&type=429",
@@ -6147,12 +6147,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 51,
-      "Буланов Владимир Викторович": 67,
-      "Нефедов Виктор Алексеевич": 8,
-      "Суров Михаил Васильевич": 111,
-      "Чайка Валентин Васильевич": 281,
-      "Против всех": 135
+      "gas:candidate-vibid:1001000190336": 51,
+      "gas:candidate-vibid:1001000217919": 67,
+      "gas:candidate-vibid:1001000195067": 8,
+      "gas:candidate-vibid:235200070406": 111,
+      "gas:candidate-vibid:1001000131394": 281,
+      "special:against-all": 135
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170479&region=0&sub_region=0&type=429",
@@ -6202,12 +6202,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 92,
-      "Буланов Владимир Викторович": 106,
-      "Нефедов Виктор Алексеевич": 19,
-      "Суров Михаил Васильевич": 207,
-      "Чайка Валентин Васильевич": 666,
-      "Против всех": 273
+      "gas:candidate-vibid:1001000190336": 92,
+      "gas:candidate-vibid:1001000217919": 106,
+      "gas:candidate-vibid:1001000195067": 19,
+      "gas:candidate-vibid:235200070406": 207,
+      "gas:candidate-vibid:1001000131394": 666,
+      "special:against-all": 273
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170479&region=0&sub_region=0&type=429",
@@ -6257,12 +6257,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 91,
-      "Буланов Владимир Викторович": 118,
-      "Нефедов Виктор Алексеевич": 12,
-      "Суров Михаил Васильевич": 312,
-      "Чайка Валентин Васильевич": 687,
-      "Против всех": 331
+      "gas:candidate-vibid:1001000190336": 91,
+      "gas:candidate-vibid:1001000217919": 118,
+      "gas:candidate-vibid:1001000195067": 12,
+      "gas:candidate-vibid:235200070406": 312,
+      "gas:candidate-vibid:1001000131394": 687,
+      "special:against-all": 331
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170479&region=0&sub_region=0&type=429",
@@ -6312,12 +6312,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 104,
-      "Буланов Владимир Викторович": 134,
-      "Нефедов Виктор Алексеевич": 7,
-      "Суров Михаил Васильевич": 270,
-      "Чайка Валентин Васильевич": 513,
-      "Против всех": 251
+      "gas:candidate-vibid:1001000190336": 104,
+      "gas:candidate-vibid:1001000217919": 134,
+      "gas:candidate-vibid:1001000195067": 7,
+      "gas:candidate-vibid:235200070406": 270,
+      "gas:candidate-vibid:1001000131394": 513,
+      "special:against-all": 251
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170479&region=0&sub_region=0&type=429",
@@ -6367,12 +6367,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 84,
-      "Буланов Владимир Викторович": 102,
-      "Нефедов Виктор Алексеевич": 11,
-      "Суров Михаил Васильевич": 197,
-      "Чайка Валентин Васильевич": 528,
-      "Против всех": 213
+      "gas:candidate-vibid:1001000190336": 84,
+      "gas:candidate-vibid:1001000217919": 102,
+      "gas:candidate-vibid:1001000195067": 11,
+      "gas:candidate-vibid:235200070406": 197,
+      "gas:candidate-vibid:1001000131394": 528,
+      "special:against-all": 213
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170479&region=0&sub_region=0&type=429",
@@ -6422,12 +6422,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 66,
-      "Буланов Владимир Викторович": 96,
-      "Нефедов Виктор Алексеевич": 11,
-      "Суров Михаил Васильевич": 252,
-      "Чайка Валентин Васильевич": 544,
-      "Против всех": 229
+      "gas:candidate-vibid:1001000190336": 66,
+      "gas:candidate-vibid:1001000217919": 96,
+      "gas:candidate-vibid:1001000195067": 11,
+      "gas:candidate-vibid:235200070406": 252,
+      "gas:candidate-vibid:1001000131394": 544,
+      "special:against-all": 229
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170479&region=0&sub_region=0&type=429",
@@ -6477,12 +6477,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 55,
-      "Буланов Владимир Викторович": 169,
-      "Нефедов Виктор Алексеевич": 8,
-      "Суров Михаил Васильевич": 147,
-      "Чайка Валентин Васильевич": 528,
-      "Против всех": 181
+      "gas:candidate-vibid:1001000190336": 55,
+      "gas:candidate-vibid:1001000217919": 169,
+      "gas:candidate-vibid:1001000195067": 8,
+      "gas:candidate-vibid:235200070406": 147,
+      "gas:candidate-vibid:1001000131394": 528,
+      "special:against-all": 181
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170479&region=0&sub_region=0&type=429",
@@ -6532,12 +6532,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 37,
-      "Буланов Владимир Викторович": 116,
-      "Нефедов Виктор Алексеевич": 10,
-      "Суров Михаил Васильевич": 83,
-      "Чайка Валентин Васильевич": 443,
-      "Против всех": 129
+      "gas:candidate-vibid:1001000190336": 37,
+      "gas:candidate-vibid:1001000217919": 116,
+      "gas:candidate-vibid:1001000195067": 10,
+      "gas:candidate-vibid:235200070406": 83,
+      "gas:candidate-vibid:1001000131394": 443,
+      "special:against-all": 129
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170479&region=0&sub_region=0&type=429",
@@ -6587,12 +6587,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 62,
-      "Буланов Владимир Викторович": 230,
-      "Нефедов Виктор Алексеевич": 13,
-      "Суров Михаил Васильевич": 225,
-      "Чайка Валентин Васильевич": 592,
-      "Против всех": 249
+      "gas:candidate-vibid:1001000190336": 62,
+      "gas:candidate-vibid:1001000217919": 230,
+      "gas:candidate-vibid:1001000195067": 13,
+      "gas:candidate-vibid:235200070406": 225,
+      "gas:candidate-vibid:1001000131394": 592,
+      "special:against-all": 249
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170479&region=0&sub_region=0&type=429",
@@ -6642,12 +6642,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 4,
-      "Буланов Владимир Викторович": 11,
-      "Нефедов Виктор Алексеевич": 4,
-      "Суров Михаил Васильевич": 45,
-      "Чайка Валентин Васильевич": 201,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000190336": 4,
+      "gas:candidate-vibid:1001000217919": 11,
+      "gas:candidate-vibid:1001000195067": 4,
+      "gas:candidate-vibid:235200070406": 45,
+      "gas:candidate-vibid:1001000131394": 201,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170479&region=0&sub_region=0&type=429",
@@ -6697,12 +6697,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 21,
-      "Буланов Владимир Викторович": 10,
-      "Нефедов Виктор Алексеевич": 0,
-      "Суров Михаил Васильевич": 203,
-      "Чайка Валентин Васильевич": 34,
-      "Против всех": 94
+      "gas:candidate-vibid:1001000190336": 21,
+      "gas:candidate-vibid:1001000217919": 10,
+      "gas:candidate-vibid:1001000195067": 0,
+      "gas:candidate-vibid:235200070406": 203,
+      "gas:candidate-vibid:1001000131394": 34,
+      "special:against-all": 94
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170479&region=0&sub_region=0&type=429",
@@ -6752,12 +6752,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 4,
-      "Буланов Владимир Викторович": 8,
-      "Нефедов Виктор Алексеевич": 0,
-      "Суров Михаил Васильевич": 6,
-      "Чайка Валентин Васильевич": 31,
-      "Против всех": 34
+      "gas:candidate-vibid:1001000190336": 4,
+      "gas:candidate-vibid:1001000217919": 8,
+      "gas:candidate-vibid:1001000195067": 0,
+      "gas:candidate-vibid:235200070406": 6,
+      "gas:candidate-vibid:1001000131394": 31,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170479&region=0&sub_region=0&type=429",
@@ -6807,12 +6807,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 8,
-      "Буланов Владимир Викторович": 17,
-      "Нефедов Виктор Алексеевич": 1,
-      "Суров Михаил Васильевич": 33,
-      "Чайка Валентин Васильевич": 80,
-      "Против всех": 24
+      "gas:candidate-vibid:1001000190336": 8,
+      "gas:candidate-vibid:1001000217919": 17,
+      "gas:candidate-vibid:1001000195067": 1,
+      "gas:candidate-vibid:235200070406": 33,
+      "gas:candidate-vibid:1001000131394": 80,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170479&region=0&sub_region=0&type=429",
@@ -6862,12 +6862,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 10,
-      "Буланов Владимир Викторович": 13,
-      "Нефедов Виктор Алексеевич": 1,
-      "Суров Михаил Васильевич": 23,
-      "Чайка Валентин Васильевич": 68,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000190336": 10,
+      "gas:candidate-vibid:1001000217919": 13,
+      "gas:candidate-vibid:1001000195067": 1,
+      "gas:candidate-vibid:235200070406": 23,
+      "gas:candidate-vibid:1001000131394": 68,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170479&region=0&sub_region=0&type=429",
@@ -6917,12 +6917,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 1,
-      "Буланов Владимир Викторович": 5,
-      "Нефедов Виктор Алексеевич": 0,
-      "Суров Михаил Васильевич": 6,
-      "Чайка Валентин Васильевич": 19,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000190336": 1,
+      "gas:candidate-vibid:1001000217919": 5,
+      "gas:candidate-vibid:1001000195067": 0,
+      "gas:candidate-vibid:235200070406": 6,
+      "gas:candidate-vibid:1001000131394": 19,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170479&region=0&sub_region=0&type=429",
@@ -6972,12 +6972,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 1,
-      "Буланов Владимир Викторович": 5,
-      "Нефедов Виктор Алексеевич": 1,
-      "Суров Михаил Васильевич": 20,
-      "Чайка Валентин Васильевич": 43,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000190336": 1,
+      "gas:candidate-vibid:1001000217919": 5,
+      "gas:candidate-vibid:1001000195067": 1,
+      "gas:candidate-vibid:235200070406": 20,
+      "gas:candidate-vibid:1001000131394": 43,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170479&region=0&sub_region=0&type=429",
@@ -7027,12 +7027,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 3,
-      "Буланов Владимир Викторович": 2,
-      "Нефедов Виктор Алексеевич": 1,
-      "Суров Михаил Васильевич": 5,
-      "Чайка Валентин Васильевич": 8,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000190336": 3,
+      "gas:candidate-vibid:1001000217919": 2,
+      "gas:candidate-vibid:1001000195067": 1,
+      "gas:candidate-vibid:235200070406": 5,
+      "gas:candidate-vibid:1001000131394": 8,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170479&region=0&sub_region=0&type=429",
@@ -7082,12 +7082,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 1,
-      "Буланов Владимир Викторович": 0,
-      "Нефедов Виктор Алексеевич": 0,
-      "Суров Михаил Васильевич": 5,
-      "Чайка Валентин Васильевич": 4,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000190336": 1,
+      "gas:candidate-vibid:1001000217919": 0,
+      "gas:candidate-vibid:1001000195067": 0,
+      "gas:candidate-vibid:235200070406": 5,
+      "gas:candidate-vibid:1001000131394": 4,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170479&region=0&sub_region=0&type=429",
@@ -7137,12 +7137,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 2,
-      "Буланов Владимир Викторович": 1,
-      "Нефедов Виктор Алексеевич": 0,
-      "Суров Михаил Васильевич": 4,
-      "Чайка Валентин Васильевич": 13,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000190336": 2,
+      "gas:candidate-vibid:1001000217919": 1,
+      "gas:candidate-vibid:1001000195067": 0,
+      "gas:candidate-vibid:235200070406": 4,
+      "gas:candidate-vibid:1001000131394": 13,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170479&region=0&sub_region=0&type=429",
@@ -7192,12 +7192,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 0,
-      "Буланов Владимир Викторович": 11,
-      "Нефедов Виктор Алексеевич": 1,
-      "Суров Михаил Васильевич": 6,
-      "Чайка Валентин Васильевич": 13,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000190336": 0,
+      "gas:candidate-vibid:1001000217919": 11,
+      "gas:candidate-vibid:1001000195067": 1,
+      "gas:candidate-vibid:235200070406": 6,
+      "gas:candidate-vibid:1001000131394": 13,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170479&region=0&sub_region=0&type=429",
@@ -7247,12 +7247,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 1,
-      "Буланов Владимир Викторович": 7,
-      "Нефедов Виктор Алексеевич": 1,
-      "Суров Михаил Васильевич": 6,
-      "Чайка Валентин Васильевич": 20,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000190336": 1,
+      "gas:candidate-vibid:1001000217919": 7,
+      "gas:candidate-vibid:1001000195067": 1,
+      "gas:candidate-vibid:235200070406": 6,
+      "gas:candidate-vibid:1001000131394": 20,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170479&region=0&sub_region=0&type=429",
@@ -7302,12 +7302,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 4,
-      "Буланов Владимир Викторович": 12,
-      "Нефедов Виктор Алексеевич": 1,
-      "Суров Михаил Васильевич": 10,
-      "Чайка Валентин Васильевич": 72,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000190336": 4,
+      "gas:candidate-vibid:1001000217919": 12,
+      "gas:candidate-vibid:1001000195067": 1,
+      "gas:candidate-vibid:235200070406": 10,
+      "gas:candidate-vibid:1001000131394": 72,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170479&region=0&sub_region=0&type=429",
@@ -7357,12 +7357,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 5,
-      "Буланов Владимир Викторович": 12,
-      "Нефедов Виктор Алексеевич": 2,
-      "Суров Михаил Васильевич": 12,
-      "Чайка Валентин Васильевич": 27,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000190336": 5,
+      "gas:candidate-vibid:1001000217919": 12,
+      "gas:candidate-vibid:1001000195067": 2,
+      "gas:candidate-vibid:235200070406": 12,
+      "gas:candidate-vibid:1001000131394": 27,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170479&region=0&sub_region=0&type=429",
@@ -7412,12 +7412,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 0,
-      "Буланов Владимир Викторович": 2,
-      "Нефедов Виктор Алексеевич": 1,
-      "Суров Михаил Васильевич": 3,
-      "Чайка Валентин Васильевич": 6,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190336": 0,
+      "gas:candidate-vibid:1001000217919": 2,
+      "gas:candidate-vibid:1001000195067": 1,
+      "gas:candidate-vibid:235200070406": 3,
+      "gas:candidate-vibid:1001000131394": 6,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170479&region=0&sub_region=0&type=429",
@@ -7467,12 +7467,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 1,
-      "Буланов Владимир Викторович": 3,
-      "Нефедов Виктор Алексеевич": 0,
-      "Суров Михаил Васильевич": 7,
-      "Чайка Валентин Васильевич": 17,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000190336": 1,
+      "gas:candidate-vibid:1001000217919": 3,
+      "gas:candidate-vibid:1001000195067": 0,
+      "gas:candidate-vibid:235200070406": 7,
+      "gas:candidate-vibid:1001000131394": 17,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170479&region=0&sub_region=0&type=429",
@@ -7522,12 +7522,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 7,
-      "Буланов Владимир Викторович": 16,
-      "Нефедов Виктор Алексеевич": 2,
-      "Суров Михаил Васильевич": 38,
-      "Чайка Валентин Васильевич": 102,
-      "Против всех": 38
+      "gas:candidate-vibid:1001000190336": 7,
+      "gas:candidate-vibid:1001000217919": 16,
+      "gas:candidate-vibid:1001000195067": 2,
+      "gas:candidate-vibid:235200070406": 38,
+      "gas:candidate-vibid:1001000131394": 102,
+      "special:against-all": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170479&region=0&sub_region=0&type=429",
@@ -7577,12 +7577,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 4,
-      "Буланов Владимир Викторович": 238,
-      "Нефедов Виктор Алексеевич": 5,
-      "Суров Михаил Васильевич": 35,
-      "Чайка Валентин Васильевич": 114,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000190336": 4,
+      "gas:candidate-vibid:1001000217919": 238,
+      "gas:candidate-vibid:1001000195067": 5,
+      "gas:candidate-vibid:235200070406": 35,
+      "gas:candidate-vibid:1001000131394": 114,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170480&region=0&sub_region=0&type=429",
@@ -7632,12 +7632,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 12,
-      "Буланов Владимир Викторович": 153,
-      "Нефедов Виктор Алексеевич": 3,
-      "Суров Михаил Васильевич": 20,
-      "Чайка Валентин Васильевич": 125,
-      "Против всех": 26
+      "gas:candidate-vibid:1001000190336": 12,
+      "gas:candidate-vibid:1001000217919": 153,
+      "gas:candidate-vibid:1001000195067": 3,
+      "gas:candidate-vibid:235200070406": 20,
+      "gas:candidate-vibid:1001000131394": 125,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170480&region=0&sub_region=0&type=429",
@@ -7687,12 +7687,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 3,
-      "Буланов Владимир Викторович": 283,
-      "Нефедов Виктор Алексеевич": 0,
-      "Суров Михаил Васильевич": 24,
-      "Чайка Валентин Васильевич": 108,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000190336": 3,
+      "gas:candidate-vibid:1001000217919": 283,
+      "gas:candidate-vibid:1001000195067": 0,
+      "gas:candidate-vibid:235200070406": 24,
+      "gas:candidate-vibid:1001000131394": 108,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170480&region=0&sub_region=0&type=429",
@@ -7742,12 +7742,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 1,
-      "Буланов Владимир Викторович": 68,
-      "Нефедов Виктор Алексеевич": 0,
-      "Суров Михаил Васильевич": 7,
-      "Чайка Валентин Васильевич": 95,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000190336": 1,
+      "gas:candidate-vibid:1001000217919": 68,
+      "gas:candidate-vibid:1001000195067": 0,
+      "gas:candidate-vibid:235200070406": 7,
+      "gas:candidate-vibid:1001000131394": 95,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170480&region=0&sub_region=0&type=429",
@@ -7797,12 +7797,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 1,
-      "Буланов Владимир Викторович": 103,
-      "Нефедов Виктор Алексеевич": 1,
-      "Суров Михаил Васильевич": 19,
-      "Чайка Валентин Васильевич": 189,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000190336": 1,
+      "gas:candidate-vibid:1001000217919": 103,
+      "gas:candidate-vibid:1001000195067": 1,
+      "gas:candidate-vibid:235200070406": 19,
+      "gas:candidate-vibid:1001000131394": 189,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170480&region=0&sub_region=0&type=429",
@@ -7852,12 +7852,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 2,
-      "Буланов Владимир Викторович": 134,
-      "Нефедов Виктор Алексеевич": 2,
-      "Суров Михаил Васильевич": 26,
-      "Чайка Валентин Васильевич": 122,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000190336": 2,
+      "gas:candidate-vibid:1001000217919": 134,
+      "gas:candidate-vibid:1001000195067": 2,
+      "gas:candidate-vibid:235200070406": 26,
+      "gas:candidate-vibid:1001000131394": 122,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170480&region=0&sub_region=0&type=429",
@@ -7907,12 +7907,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 10,
-      "Буланов Владимир Викторович": 34,
-      "Нефедов Виктор Алексеевич": 0,
-      "Суров Михаил Васильевич": 8,
-      "Чайка Валентин Васильевич": 64,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000190336": 10,
+      "gas:candidate-vibid:1001000217919": 34,
+      "gas:candidate-vibid:1001000195067": 0,
+      "gas:candidate-vibid:235200070406": 8,
+      "gas:candidate-vibid:1001000131394": 64,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170480&region=0&sub_region=0&type=429",
@@ -7962,12 +7962,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 11,
-      "Буланов Владимир Викторович": 129,
-      "Нефедов Виктор Алексеевич": 5,
-      "Суров Михаил Васильевич": 55,
-      "Чайка Валентин Васильевич": 185,
-      "Против всех": 74
+      "gas:candidate-vibid:1001000190336": 11,
+      "gas:candidate-vibid:1001000217919": 129,
+      "gas:candidate-vibid:1001000195067": 5,
+      "gas:candidate-vibid:235200070406": 55,
+      "gas:candidate-vibid:1001000131394": 185,
+      "special:against-all": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170480&region=0&sub_region=0&type=429",
@@ -8017,12 +8017,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 8,
-      "Буланов Владимир Викторович": 113,
-      "Нефедов Виктор Алексеевич": 8,
-      "Суров Михаил Васильевич": 85,
-      "Чайка Валентин Васильевич": 199,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000190336": 8,
+      "gas:candidate-vibid:1001000217919": 113,
+      "gas:candidate-vibid:1001000195067": 8,
+      "gas:candidate-vibid:235200070406": 85,
+      "gas:candidate-vibid:1001000131394": 199,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170480&region=0&sub_region=0&type=429",
@@ -8072,12 +8072,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 3,
-      "Буланов Владимир Викторович": 18,
-      "Нефедов Виктор Алексеевич": 2,
-      "Суров Михаил Васильевич": 16,
-      "Чайка Валентин Васильевич": 77,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000190336": 3,
+      "gas:candidate-vibid:1001000217919": 18,
+      "gas:candidate-vibid:1001000195067": 2,
+      "gas:candidate-vibid:235200070406": 16,
+      "gas:candidate-vibid:1001000131394": 77,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170480&region=0&sub_region=0&type=429",
@@ -8127,12 +8127,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 14,
-      "Буланов Владимир Викторович": 286,
-      "Нефедов Виктор Алексеевич": 1,
-      "Суров Михаил Васильевич": 137,
-      "Чайка Валентин Васильевич": 461,
-      "Против всех": 86
+      "gas:candidate-vibid:1001000190336": 14,
+      "gas:candidate-vibid:1001000217919": 286,
+      "gas:candidate-vibid:1001000195067": 1,
+      "gas:candidate-vibid:235200070406": 137,
+      "gas:candidate-vibid:1001000131394": 461,
+      "special:against-all": 86
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170480&region=0&sub_region=0&type=429",
@@ -8182,12 +8182,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 8,
-      "Буланов Владимир Викторович": 81,
-      "Нефедов Виктор Алексеевич": 1,
-      "Суров Михаил Васильевич": 40,
-      "Чайка Валентин Васильевич": 166,
-      "Против всех": 24
+      "gas:candidate-vibid:1001000190336": 8,
+      "gas:candidate-vibid:1001000217919": 81,
+      "gas:candidate-vibid:1001000195067": 1,
+      "gas:candidate-vibid:235200070406": 40,
+      "gas:candidate-vibid:1001000131394": 166,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170480&region=0&sub_region=0&type=429",
@@ -8237,12 +8237,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 5,
-      "Буланов Владимир Викторович": 135,
-      "Нефедов Виктор Алексеевич": 5,
-      "Суров Михаил Васильевич": 109,
-      "Чайка Валентин Васильевич": 135,
-      "Против всех": 41
+      "gas:candidate-vibid:1001000190336": 5,
+      "gas:candidate-vibid:1001000217919": 135,
+      "gas:candidate-vibid:1001000195067": 5,
+      "gas:candidate-vibid:235200070406": 109,
+      "gas:candidate-vibid:1001000131394": 135,
+      "special:against-all": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170480&region=0&sub_region=0&type=429",
@@ -8292,12 +8292,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 8,
-      "Буланов Владимир Викторович": 232,
-      "Нефедов Виктор Алексеевич": 2,
-      "Суров Михаил Васильевич": 110,
-      "Чайка Валентин Васильевич": 228,
-      "Против всех": 93
+      "gas:candidate-vibid:1001000190336": 8,
+      "gas:candidate-vibid:1001000217919": 232,
+      "gas:candidate-vibid:1001000195067": 2,
+      "gas:candidate-vibid:235200070406": 110,
+      "gas:candidate-vibid:1001000131394": 228,
+      "special:against-all": 93
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170480&region=0&sub_region=0&type=429",
@@ -8347,12 +8347,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 43,
-      "Буланов Владимир Викторович": 303,
-      "Нефедов Виктор Алексеевич": 11,
-      "Суров Михаил Васильевич": 101,
-      "Чайка Валентин Васильевич": 314,
-      "Против всех": 79
+      "gas:candidate-vibid:1001000190336": 43,
+      "gas:candidate-vibid:1001000217919": 303,
+      "gas:candidate-vibid:1001000195067": 11,
+      "gas:candidate-vibid:235200070406": 101,
+      "gas:candidate-vibid:1001000131394": 314,
+      "special:against-all": 79
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170480&region=0&sub_region=0&type=429",
@@ -8402,12 +8402,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 5,
-      "Буланов Владимир Викторович": 18,
-      "Нефедов Виктор Алексеевич": 0,
-      "Суров Михаил Васильевич": 10,
-      "Чайка Валентин Васильевич": 42,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000190336": 5,
+      "gas:candidate-vibid:1001000217919": 18,
+      "gas:candidate-vibid:1001000195067": 0,
+      "gas:candidate-vibid:235200070406": 10,
+      "gas:candidate-vibid:1001000131394": 42,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170480&region=0&sub_region=0&type=429",
@@ -8457,12 +8457,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 4,
-      "Буланов Владимир Викторович": 103,
-      "Нефедов Виктор Алексеевич": 1,
-      "Суров Михаил Васильевич": 33,
-      "Чайка Валентин Васильевич": 203,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000190336": 4,
+      "gas:candidate-vibid:1001000217919": 103,
+      "gas:candidate-vibid:1001000195067": 1,
+      "gas:candidate-vibid:235200070406": 33,
+      "gas:candidate-vibid:1001000131394": 203,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170480&region=0&sub_region=0&type=429",
@@ -8512,12 +8512,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 8,
-      "Буланов Владимир Викторович": 182,
-      "Нефедов Виктор Алексеевич": 5,
-      "Суров Михаил Васильевич": 31,
-      "Чайка Валентин Васильевич": 123,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000190336": 8,
+      "gas:candidate-vibid:1001000217919": 182,
+      "gas:candidate-vibid:1001000195067": 5,
+      "gas:candidate-vibid:235200070406": 31,
+      "gas:candidate-vibid:1001000131394": 123,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170480&region=0&sub_region=0&type=429",
@@ -8567,12 +8567,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 7,
-      "Буланов Владимир Викторович": 275,
-      "Нефедов Виктор Алексеевич": 3,
-      "Суров Михаил Васильевич": 38,
-      "Чайка Валентин Васильевич": 291,
-      "Против всех": 55
+      "gas:candidate-vibid:1001000190336": 7,
+      "gas:candidate-vibid:1001000217919": 275,
+      "gas:candidate-vibid:1001000195067": 3,
+      "gas:candidate-vibid:235200070406": 38,
+      "gas:candidate-vibid:1001000131394": 291,
+      "special:against-all": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170480&region=0&sub_region=0&type=429",
@@ -8622,12 +8622,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 0,
-      "Буланов Владимир Викторович": 61,
-      "Нефедов Виктор Алексеевич": 0,
-      "Суров Михаил Васильевич": 6,
-      "Чайка Валентин Васильевич": 32,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000190336": 0,
+      "gas:candidate-vibid:1001000217919": 61,
+      "gas:candidate-vibid:1001000195067": 0,
+      "gas:candidate-vibid:235200070406": 6,
+      "gas:candidate-vibid:1001000131394": 32,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170480&region=0&sub_region=0&type=429",
@@ -8677,12 +8677,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 10,
-      "Буланов Владимир Викторович": 107,
-      "Нефедов Виктор Алексеевич": 2,
-      "Суров Михаил Васильевич": 87,
-      "Чайка Валентин Васильевич": 127,
-      "Против всех": 78
+      "gas:candidate-vibid:1001000190336": 10,
+      "gas:candidate-vibid:1001000217919": 107,
+      "gas:candidate-vibid:1001000195067": 2,
+      "gas:candidate-vibid:235200070406": 87,
+      "gas:candidate-vibid:1001000131394": 127,
+      "special:against-all": 78
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170480&region=0&sub_region=0&type=429",
@@ -8732,12 +8732,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 17,
-      "Буланов Владимир Викторович": 96,
-      "Нефедов Виктор Алексеевич": 1,
-      "Суров Михаил Васильевич": 45,
-      "Чайка Валентин Васильевич": 283,
-      "Против всех": 38
+      "gas:candidate-vibid:1001000190336": 17,
+      "gas:candidate-vibid:1001000217919": 96,
+      "gas:candidate-vibid:1001000195067": 1,
+      "gas:candidate-vibid:235200070406": 45,
+      "gas:candidate-vibid:1001000131394": 283,
+      "special:against-all": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170480&region=0&sub_region=0&type=429",
@@ -8787,12 +8787,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 15,
-      "Буланов Владимир Викторович": 316,
-      "Нефедов Виктор Алексеевич": 7,
-      "Суров Михаил Васильевич": 51,
-      "Чайка Валентин Васильевич": 143,
-      "Против всех": 76
+      "gas:candidate-vibid:1001000190336": 15,
+      "gas:candidate-vibid:1001000217919": 316,
+      "gas:candidate-vibid:1001000195067": 7,
+      "gas:candidate-vibid:235200070406": 51,
+      "gas:candidate-vibid:1001000131394": 143,
+      "special:against-all": 76
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170480&region=0&sub_region=0&type=429",
@@ -8842,12 +8842,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 22,
-      "Буланов Владимир Викторович": 323,
-      "Нефедов Виктор Алексеевич": 4,
-      "Суров Михаил Васильевич": 66,
-      "Чайка Валентин Васильевич": 193,
-      "Против всех": 73
+      "gas:candidate-vibid:1001000190336": 22,
+      "gas:candidate-vibid:1001000217919": 323,
+      "gas:candidate-vibid:1001000195067": 4,
+      "gas:candidate-vibid:235200070406": 66,
+      "gas:candidate-vibid:1001000131394": 193,
+      "special:against-all": 73
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170480&region=0&sub_region=0&type=429",
@@ -8897,12 +8897,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 16,
-      "Буланов Владимир Викторович": 360,
-      "Нефедов Виктор Алексеевич": 9,
-      "Суров Михаил Васильевич": 74,
-      "Чайка Валентин Васильевич": 143,
-      "Против всех": 86
+      "gas:candidate-vibid:1001000190336": 16,
+      "gas:candidate-vibid:1001000217919": 360,
+      "gas:candidate-vibid:1001000195067": 9,
+      "gas:candidate-vibid:235200070406": 74,
+      "gas:candidate-vibid:1001000131394": 143,
+      "special:against-all": 86
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170480&region=0&sub_region=0&type=429",
@@ -8952,12 +8952,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 9,
-      "Буланов Владимир Викторович": 169,
-      "Нефедов Виктор Алексеевич": 1,
-      "Суров Михаил Васильевич": 29,
-      "Чайка Валентин Васильевич": 101,
-      "Против всех": 45
+      "gas:candidate-vibid:1001000190336": 9,
+      "gas:candidate-vibid:1001000217919": 169,
+      "gas:candidate-vibid:1001000195067": 1,
+      "gas:candidate-vibid:235200070406": 29,
+      "gas:candidate-vibid:1001000131394": 101,
+      "special:against-all": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170480&region=0&sub_region=0&type=429",
@@ -9007,12 +9007,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 14,
-      "Буланов Владимир Викторович": 101,
-      "Нефедов Виктор Алексеевич": 2,
-      "Суров Михаил Васильевич": 62,
-      "Чайка Валентин Васильевич": 121,
-      "Против всех": 46
+      "gas:candidate-vibid:1001000190336": 14,
+      "gas:candidate-vibid:1001000217919": 101,
+      "gas:candidate-vibid:1001000195067": 2,
+      "gas:candidate-vibid:235200070406": 62,
+      "gas:candidate-vibid:1001000131394": 121,
+      "special:against-all": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170480&region=0&sub_region=0&type=429",
@@ -9062,12 +9062,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 4,
-      "Буланов Владимир Викторович": 66,
-      "Нефедов Виктор Алексеевич": 2,
-      "Суров Михаил Васильевич": 32,
-      "Чайка Валентин Васильевич": 68,
-      "Против всех": 33
+      "gas:candidate-vibid:1001000190336": 4,
+      "gas:candidate-vibid:1001000217919": 66,
+      "gas:candidate-vibid:1001000195067": 2,
+      "gas:candidate-vibid:235200070406": 32,
+      "gas:candidate-vibid:1001000131394": 68,
+      "special:against-all": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170480&region=0&sub_region=0&type=429",
@@ -9117,12 +9117,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 31,
-      "Буланов Владимир Викторович": 67,
-      "Нефедов Виктор Алексеевич": 18,
-      "Суров Михаил Васильевич": 87,
-      "Чайка Валентин Васильевич": 106,
-      "Против всех": 144
+      "gas:candidate-vibid:1001000190336": 31,
+      "gas:candidate-vibid:1001000217919": 67,
+      "gas:candidate-vibid:1001000195067": 18,
+      "gas:candidate-vibid:235200070406": 87,
+      "gas:candidate-vibid:1001000131394": 106,
+      "special:against-all": 144
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170480&region=0&sub_region=0&type=429",
@@ -9172,12 +9172,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 6,
-      "Буланов Владимир Викторович": 131,
-      "Нефедов Виктор Алексеевич": 4,
-      "Суров Михаил Васильевич": 35,
-      "Чайка Валентин Васильевич": 214,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000190336": 6,
+      "gas:candidate-vibid:1001000217919": 131,
+      "gas:candidate-vibid:1001000195067": 4,
+      "gas:candidate-vibid:235200070406": 35,
+      "gas:candidate-vibid:1001000131394": 214,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170480&region=0&sub_region=0&type=429",
@@ -9227,12 +9227,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 16,
-      "Буланов Владимир Викторович": 224,
-      "Нефедов Виктор Алексеевич": 4,
-      "Суров Михаил Васильевич": 140,
-      "Чайка Валентин Васильевич": 608,
-      "Против всех": 138
+      "gas:candidate-vibid:1001000190336": 16,
+      "gas:candidate-vibid:1001000217919": 224,
+      "gas:candidate-vibid:1001000195067": 4,
+      "gas:candidate-vibid:235200070406": 140,
+      "gas:candidate-vibid:1001000131394": 608,
+      "special:against-all": 138
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170480&region=0&sub_region=0&type=429",
@@ -9282,12 +9282,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 6,
-      "Буланов Владимир Викторович": 36,
-      "Нефедов Виктор Алексеевич": 2,
-      "Суров Михаил Васильевич": 17,
-      "Чайка Валентин Васильевич": 52,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000190336": 6,
+      "gas:candidate-vibid:1001000217919": 36,
+      "gas:candidate-vibid:1001000195067": 2,
+      "gas:candidate-vibid:235200070406": 17,
+      "gas:candidate-vibid:1001000131394": 52,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170480&region=0&sub_region=0&type=429",
@@ -9337,12 +9337,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 1,
-      "Буланов Владимир Викторович": 3,
-      "Нефедов Виктор Алексеевич": 0,
-      "Суров Михаил Васильевич": 5,
-      "Чайка Валентин Васильевич": 31,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000190336": 1,
+      "gas:candidate-vibid:1001000217919": 3,
+      "gas:candidate-vibid:1001000195067": 0,
+      "gas:candidate-vibid:235200070406": 5,
+      "gas:candidate-vibid:1001000131394": 31,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170480&region=0&sub_region=0&type=429",
@@ -9392,12 +9392,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 13,
-      "Буланов Владимир Викторович": 237,
-      "Нефедов Виктор Алексеевич": 3,
-      "Суров Михаил Васильевич": 81,
-      "Чайка Валентин Васильевич": 181,
-      "Против всех": 83
+      "gas:candidate-vibid:1001000190336": 13,
+      "gas:candidate-vibid:1001000217919": 237,
+      "gas:candidate-vibid:1001000195067": 3,
+      "gas:candidate-vibid:235200070406": 81,
+      "gas:candidate-vibid:1001000131394": 181,
+      "special:against-all": 83
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170480&region=0&sub_region=0&type=429",
@@ -9447,12 +9447,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 7,
-      "Буланов Владимир Викторович": 266,
-      "Нефедов Виктор Алексеевич": 2,
-      "Суров Михаил Васильевич": 37,
-      "Чайка Валентин Васильевич": 120,
-      "Против всех": 30
+      "gas:candidate-vibid:1001000190336": 7,
+      "gas:candidate-vibid:1001000217919": 266,
+      "gas:candidate-vibid:1001000195067": 2,
+      "gas:candidate-vibid:235200070406": 37,
+      "gas:candidate-vibid:1001000131394": 120,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170480&region=0&sub_region=0&type=429",
@@ -9502,12 +9502,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 20,
-      "Буланов Владимир Викторович": 62,
-      "Нефедов Виктор Алексеевич": 5,
-      "Суров Михаил Васильевич": 79,
-      "Чайка Валентин Васильевич": 264,
-      "Против всех": 73
+      "gas:candidate-vibid:1001000190336": 20,
+      "gas:candidate-vibid:1001000217919": 62,
+      "gas:candidate-vibid:1001000195067": 5,
+      "gas:candidate-vibid:235200070406": 79,
+      "gas:candidate-vibid:1001000131394": 264,
+      "special:against-all": 73
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170480&region=0&sub_region=0&type=429",
@@ -9557,12 +9557,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 2,
-      "Буланов Владимир Викторович": 101,
-      "Нефедов Виктор Алексеевич": 4,
-      "Суров Михаил Васильевич": 49,
-      "Чайка Валентин Васильевич": 111,
-      "Против всех": 49
+      "gas:candidate-vibid:1001000190336": 2,
+      "gas:candidate-vibid:1001000217919": 101,
+      "gas:candidate-vibid:1001000195067": 4,
+      "gas:candidate-vibid:235200070406": 49,
+      "gas:candidate-vibid:1001000131394": 111,
+      "special:against-all": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170480&region=0&sub_region=0&type=429",
@@ -9612,12 +9612,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 2,
-      "Буланов Владимир Викторович": 193,
-      "Нефедов Виктор Алексеевич": 1,
-      "Суров Михаил Васильевич": 35,
-      "Чайка Валентин Васильевич": 113,
-      "Против всех": 33
+      "gas:candidate-vibid:1001000190336": 2,
+      "gas:candidate-vibid:1001000217919": 193,
+      "gas:candidate-vibid:1001000195067": 1,
+      "gas:candidate-vibid:235200070406": 35,
+      "gas:candidate-vibid:1001000131394": 113,
+      "special:against-all": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170480&region=0&sub_region=0&type=429",
@@ -9667,12 +9667,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 33,
-      "Буланов Владимир Викторович": 276,
-      "Нефедов Виктор Алексеевич": 4,
-      "Суров Михаил Васильевич": 164,
-      "Чайка Валентин Васильевич": 402,
-      "Против всех": 173
+      "gas:candidate-vibid:1001000190336": 33,
+      "gas:candidate-vibid:1001000217919": 276,
+      "gas:candidate-vibid:1001000195067": 4,
+      "gas:candidate-vibid:235200070406": 164,
+      "gas:candidate-vibid:1001000131394": 402,
+      "special:against-all": 173
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170480&region=0&sub_region=0&type=429",
@@ -9722,12 +9722,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 16,
-      "Буланов Владимир Викторович": 61,
-      "Нефедов Виктор Алексеевич": 4,
-      "Суров Михаил Васильевич": 42,
-      "Чайка Валентин Васильевич": 93,
-      "Против всех": 47
+      "gas:candidate-vibid:1001000190336": 16,
+      "gas:candidate-vibid:1001000217919": 61,
+      "gas:candidate-vibid:1001000195067": 4,
+      "gas:candidate-vibid:235200070406": 42,
+      "gas:candidate-vibid:1001000131394": 93,
+      "special:against-all": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170480&region=0&sub_region=0&type=429",
@@ -9777,12 +9777,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 16,
-      "Буланов Владимир Викторович": 277,
-      "Нефедов Виктор Алексеевич": 4,
-      "Суров Михаил Васильевич": 83,
-      "Чайка Валентин Васильевич": 200,
-      "Против всех": 74
+      "gas:candidate-vibid:1001000190336": 16,
+      "gas:candidate-vibid:1001000217919": 277,
+      "gas:candidate-vibid:1001000195067": 4,
+      "gas:candidate-vibid:235200070406": 83,
+      "gas:candidate-vibid:1001000131394": 200,
+      "special:against-all": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170480&region=0&sub_region=0&type=429",
@@ -9832,12 +9832,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 6,
-      "Буланов Владимир Викторович": 162,
-      "Нефедов Виктор Алексеевич": 3,
-      "Суров Михаил Васильевич": 64,
-      "Чайка Валентин Васильевич": 166,
-      "Против всех": 45
+      "gas:candidate-vibid:1001000190336": 6,
+      "gas:candidate-vibid:1001000217919": 162,
+      "gas:candidate-vibid:1001000195067": 3,
+      "gas:candidate-vibid:235200070406": 64,
+      "gas:candidate-vibid:1001000131394": 166,
+      "special:against-all": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170480&region=0&sub_region=0&type=429",
@@ -9887,12 +9887,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 13,
-      "Буланов Владимир Викторович": 103,
-      "Нефедов Виктор Алексеевич": 6,
-      "Суров Михаил Васильевич": 53,
-      "Чайка Валентин Васильевич": 174,
-      "Против всех": 38
+      "gas:candidate-vibid:1001000190336": 13,
+      "gas:candidate-vibid:1001000217919": 103,
+      "gas:candidate-vibid:1001000195067": 6,
+      "gas:candidate-vibid:235200070406": 53,
+      "gas:candidate-vibid:1001000131394": 174,
+      "special:against-all": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170480&region=0&sub_region=0&type=429",
@@ -9942,12 +9942,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 8,
-      "Буланов Владимир Викторович": 167,
-      "Нефедов Виктор Алексеевич": 8,
-      "Суров Михаил Васильевич": 47,
-      "Чайка Валентин Васильевич": 274,
-      "Против всех": 43
+      "gas:candidate-vibid:1001000190336": 8,
+      "gas:candidate-vibid:1001000217919": 167,
+      "gas:candidate-vibid:1001000195067": 8,
+      "gas:candidate-vibid:235200070406": 47,
+      "gas:candidate-vibid:1001000131394": 274,
+      "special:against-all": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170480&region=0&sub_region=0&type=429",
@@ -9997,12 +9997,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 43,
-      "Буланов Владимир Викторович": 126,
-      "Нефедов Виктор Алексеевич": 21,
-      "Суров Михаил Васильевич": 207,
-      "Чайка Валентин Васильевич": 367,
-      "Против всех": 263
+      "gas:candidate-vibid:1001000190336": 43,
+      "gas:candidate-vibid:1001000217919": 126,
+      "gas:candidate-vibid:1001000195067": 21,
+      "gas:candidate-vibid:235200070406": 207,
+      "gas:candidate-vibid:1001000131394": 367,
+      "special:against-all": 263
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170480&region=0&sub_region=0&type=429",
@@ -10052,12 +10052,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 70,
-      "Буланов Владимир Викторович": 185,
-      "Нефедов Виктор Алексеевич": 13,
-      "Суров Михаил Васильевич": 228,
-      "Чайка Валентин Васильевич": 327,
-      "Против всех": 321
+      "gas:candidate-vibid:1001000190336": 70,
+      "gas:candidate-vibid:1001000217919": 185,
+      "gas:candidate-vibid:1001000195067": 13,
+      "gas:candidate-vibid:235200070406": 228,
+      "gas:candidate-vibid:1001000131394": 327,
+      "special:against-all": 321
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170480&region=0&sub_region=0&type=429",
@@ -10107,12 +10107,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 45,
-      "Буланов Владимир Викторович": 280,
-      "Нефедов Виктор Алексеевич": 10,
-      "Суров Михаил Васильевич": 479,
-      "Чайка Валентин Васильевич": 702,
-      "Против всех": 171
+      "gas:candidate-vibid:1001000190336": 45,
+      "gas:candidate-vibid:1001000217919": 280,
+      "gas:candidate-vibid:1001000195067": 10,
+      "gas:candidate-vibid:235200070406": 479,
+      "gas:candidate-vibid:1001000131394": 702,
+      "special:against-all": 171
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170481&region=0&sub_region=0&type=429",
@@ -10162,12 +10162,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 10,
-      "Буланов Владимир Викторович": 49,
-      "Нефедов Виктор Алексеевич": 5,
-      "Суров Михаил Васильевич": 62,
-      "Чайка Валентин Васильевич": 214,
-      "Против всех": 26
+      "gas:candidate-vibid:1001000190336": 10,
+      "gas:candidate-vibid:1001000217919": 49,
+      "gas:candidate-vibid:1001000195067": 5,
+      "gas:candidate-vibid:235200070406": 62,
+      "gas:candidate-vibid:1001000131394": 214,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170481&region=0&sub_region=0&type=429",
@@ -10217,12 +10217,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 4,
-      "Буланов Владимир Викторович": 25,
-      "Нефедов Виктор Алексеевич": 1,
-      "Суров Михаил Васильевич": 12,
-      "Чайка Валентин Васильевич": 97,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000190336": 4,
+      "gas:candidate-vibid:1001000217919": 25,
+      "gas:candidate-vibid:1001000195067": 1,
+      "gas:candidate-vibid:235200070406": 12,
+      "gas:candidate-vibid:1001000131394": 97,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170481&region=0&sub_region=0&type=429",
@@ -10272,12 +10272,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 3,
-      "Буланов Владимир Викторович": 56,
-      "Нефедов Виктор Алексеевич": 0,
-      "Суров Михаил Васильевич": 23,
-      "Чайка Валентин Васильевич": 128,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000190336": 3,
+      "gas:candidate-vibid:1001000217919": 56,
+      "gas:candidate-vibid:1001000195067": 0,
+      "gas:candidate-vibid:235200070406": 23,
+      "gas:candidate-vibid:1001000131394": 128,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170481&region=0&sub_region=0&type=429",
@@ -10327,12 +10327,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 2,
-      "Буланов Владимир Викторович": 41,
-      "Нефедов Виктор Алексеевич": 4,
-      "Суров Михаил Васильевич": 63,
-      "Чайка Валентин Васильевич": 104,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000190336": 2,
+      "gas:candidate-vibid:1001000217919": 41,
+      "gas:candidate-vibid:1001000195067": 4,
+      "gas:candidate-vibid:235200070406": 63,
+      "gas:candidate-vibid:1001000131394": 104,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170481&region=0&sub_region=0&type=429",
@@ -10382,12 +10382,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 3,
-      "Буланов Владимир Викторович": 22,
-      "Нефедов Виктор Алексеевич": 0,
-      "Суров Михаил Васильевич": 16,
-      "Чайка Валентин Васильевич": 92,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000190336": 3,
+      "gas:candidate-vibid:1001000217919": 22,
+      "gas:candidate-vibid:1001000195067": 0,
+      "gas:candidate-vibid:235200070406": 16,
+      "gas:candidate-vibid:1001000131394": 92,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170481&region=0&sub_region=0&type=429",
@@ -10437,12 +10437,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 2,
-      "Буланов Владимир Викторович": 46,
-      "Нефедов Виктор Алексеевич": 0,
-      "Суров Михаил Васильевич": 35,
-      "Чайка Валентин Васильевич": 94,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000190336": 2,
+      "gas:candidate-vibid:1001000217919": 46,
+      "gas:candidate-vibid:1001000195067": 0,
+      "gas:candidate-vibid:235200070406": 35,
+      "gas:candidate-vibid:1001000131394": 94,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170481&region=0&sub_region=0&type=429",
@@ -10492,12 +10492,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 6,
-      "Буланов Владимир Викторович": 20,
-      "Нефедов Виктор Алексеевич": 7,
-      "Суров Михаил Васильевич": 63,
-      "Чайка Валентин Васильевич": 240,
-      "Против всех": 37
+      "gas:candidate-vibid:1001000190336": 6,
+      "gas:candidate-vibid:1001000217919": 20,
+      "gas:candidate-vibid:1001000195067": 7,
+      "gas:candidate-vibid:235200070406": 63,
+      "gas:candidate-vibid:1001000131394": 240,
+      "special:against-all": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170481&region=0&sub_region=0&type=429",
@@ -10547,12 +10547,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 2,
-      "Буланов Владимир Викторович": 25,
-      "Нефедов Виктор Алексеевич": 0,
-      "Суров Михаил Васильевич": 12,
-      "Чайка Валентин Васильевич": 94,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000190336": 2,
+      "gas:candidate-vibid:1001000217919": 25,
+      "gas:candidate-vibid:1001000195067": 0,
+      "gas:candidate-vibid:235200070406": 12,
+      "gas:candidate-vibid:1001000131394": 94,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170481&region=0&sub_region=0&type=429",
@@ -10602,12 +10602,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 2,
-      "Буланов Владимир Викторович": 17,
-      "Нефедов Виктор Алексеевич": 1,
-      "Суров Михаил Васильевич": 42,
-      "Чайка Валентин Васильевич": 162,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000190336": 2,
+      "gas:candidate-vibid:1001000217919": 17,
+      "gas:candidate-vibid:1001000195067": 1,
+      "gas:candidate-vibid:235200070406": 42,
+      "gas:candidate-vibid:1001000131394": 162,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170481&region=0&sub_region=0&type=429",
@@ -10657,12 +10657,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 0,
-      "Буланов Владимир Викторович": 0,
-      "Нефедов Виктор Алексеевич": 1,
-      "Суров Михаил Васильевич": 18,
-      "Чайка Валентин Васильевич": 67,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000190336": 0,
+      "gas:candidate-vibid:1001000217919": 0,
+      "gas:candidate-vibid:1001000195067": 1,
+      "gas:candidate-vibid:235200070406": 18,
+      "gas:candidate-vibid:1001000131394": 67,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170481&region=0&sub_region=0&type=429",
@@ -10712,12 +10712,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 18,
-      "Буланов Владимир Викторович": 69,
-      "Нефедов Виктор Алексеевич": 4,
-      "Суров Михаил Васильевич": 80,
-      "Чайка Валентин Васильевич": 342,
-      "Против всех": 45
+      "gas:candidate-vibid:1001000190336": 18,
+      "gas:candidate-vibid:1001000217919": 69,
+      "gas:candidate-vibid:1001000195067": 4,
+      "gas:candidate-vibid:235200070406": 80,
+      "gas:candidate-vibid:1001000131394": 342,
+      "special:against-all": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170481&region=0&sub_region=0&type=429",
@@ -10767,12 +10767,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 2,
-      "Буланов Владимир Викторович": 10,
-      "Нефедов Виктор Алексеевич": 0,
-      "Суров Михаил Васильевич": 20,
-      "Чайка Валентин Васильевич": 141,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000190336": 2,
+      "gas:candidate-vibid:1001000217919": 10,
+      "gas:candidate-vibid:1001000195067": 0,
+      "gas:candidate-vibid:235200070406": 20,
+      "gas:candidate-vibid:1001000131394": 141,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170481&region=0&sub_region=0&type=429",
@@ -10822,12 +10822,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 1,
-      "Буланов Владимир Викторович": 27,
-      "Нефедов Виктор Алексеевич": 2,
-      "Суров Михаил Васильевич": 21,
-      "Чайка Валентин Васильевич": 126,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000190336": 1,
+      "gas:candidate-vibid:1001000217919": 27,
+      "gas:candidate-vibid:1001000195067": 2,
+      "gas:candidate-vibid:235200070406": 21,
+      "gas:candidate-vibid:1001000131394": 126,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170481&region=0&sub_region=0&type=429",
@@ -10877,12 +10877,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 0,
-      "Буланов Владимир Викторович": 12,
-      "Нефедов Виктор Алексеевич": 1,
-      "Суров Михаил Васильевич": 8,
-      "Чайка Валентин Васильевич": 91,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000190336": 0,
+      "gas:candidate-vibid:1001000217919": 12,
+      "gas:candidate-vibid:1001000195067": 1,
+      "gas:candidate-vibid:235200070406": 8,
+      "gas:candidate-vibid:1001000131394": 91,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170481&region=0&sub_region=0&type=429",
@@ -10932,12 +10932,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 4,
-      "Буланов Владимир Викторович": 29,
-      "Нефедов Виктор Алексеевич": 7,
-      "Суров Михаил Васильевич": 40,
-      "Чайка Валентин Васильевич": 162,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000190336": 4,
+      "gas:candidate-vibid:1001000217919": 29,
+      "gas:candidate-vibid:1001000195067": 7,
+      "gas:candidate-vibid:235200070406": 40,
+      "gas:candidate-vibid:1001000131394": 162,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170481&region=0&sub_region=0&type=429",
@@ -10987,12 +10987,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 6,
-      "Буланов Владимир Викторович": 14,
-      "Нефедов Виктор Алексеевич": 1,
-      "Суров Михаил Васильевич": 47,
-      "Чайка Валентин Васильевич": 156,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000190336": 6,
+      "gas:candidate-vibid:1001000217919": 14,
+      "gas:candidate-vibid:1001000195067": 1,
+      "gas:candidate-vibid:235200070406": 47,
+      "gas:candidate-vibid:1001000131394": 156,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170481&region=0&sub_region=0&type=429",
@@ -11042,12 +11042,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 1,
-      "Буланов Владимир Викторович": 29,
-      "Нефедов Виктор Алексеевич": 1,
-      "Суров Михаил Васильевич": 30,
-      "Чайка Валентин Васильевич": 141,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000190336": 1,
+      "gas:candidate-vibid:1001000217919": 29,
+      "gas:candidate-vibid:1001000195067": 1,
+      "gas:candidate-vibid:235200070406": 30,
+      "gas:candidate-vibid:1001000131394": 141,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170481&region=0&sub_region=0&type=429",
@@ -11097,12 +11097,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 5,
-      "Буланов Владимир Викторович": 67,
-      "Нефедов Виктор Алексеевич": 1,
-      "Суров Михаил Васильевич": 102,
-      "Чайка Валентин Васильевич": 237,
-      "Против всех": 28
+      "gas:candidate-vibid:1001000190336": 5,
+      "gas:candidate-vibid:1001000217919": 67,
+      "gas:candidate-vibid:1001000195067": 1,
+      "gas:candidate-vibid:235200070406": 102,
+      "gas:candidate-vibid:1001000131394": 237,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170481&region=0&sub_region=0&type=429",
@@ -11152,12 +11152,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 5,
-      "Буланов Владимир Викторович": 26,
-      "Нефедов Виктор Алексеевич": 5,
-      "Суров Михаил Васильевич": 65,
-      "Чайка Валентин Васильевич": 340,
-      "Против всех": 30
+      "gas:candidate-vibid:1001000190336": 5,
+      "gas:candidate-vibid:1001000217919": 26,
+      "gas:candidate-vibid:1001000195067": 5,
+      "gas:candidate-vibid:235200070406": 65,
+      "gas:candidate-vibid:1001000131394": 340,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170481&region=0&sub_region=0&type=429",
@@ -11207,12 +11207,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 1,
-      "Буланов Владимир Викторович": 5,
-      "Нефедов Виктор Алексеевич": 0,
-      "Суров Михаил Васильевич": 22,
-      "Чайка Валентин Васильевич": 92,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000190336": 1,
+      "gas:candidate-vibid:1001000217919": 5,
+      "gas:candidate-vibid:1001000195067": 0,
+      "gas:candidate-vibid:235200070406": 22,
+      "gas:candidate-vibid:1001000131394": 92,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170481&region=0&sub_region=0&type=429",
@@ -11262,12 +11262,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 3,
-      "Буланов Владимир Викторович": 12,
-      "Нефедов Виктор Алексеевич": 0,
-      "Суров Михаил Васильевич": 18,
-      "Чайка Валентин Васильевич": 45,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000190336": 3,
+      "gas:candidate-vibid:1001000217919": 12,
+      "gas:candidate-vibid:1001000195067": 0,
+      "gas:candidate-vibid:235200070406": 18,
+      "gas:candidate-vibid:1001000131394": 45,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170481&region=0&sub_region=0&type=429",
@@ -11317,12 +11317,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 2,
-      "Буланов Владимир Викторович": 33,
-      "Нефедов Виктор Алексеевич": 1,
-      "Суров Михаил Васильевич": 9,
-      "Чайка Валентин Васильевич": 96,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000190336": 2,
+      "gas:candidate-vibid:1001000217919": 33,
+      "gas:candidate-vibid:1001000195067": 1,
+      "gas:candidate-vibid:235200070406": 9,
+      "gas:candidate-vibid:1001000131394": 96,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170481&region=0&sub_region=0&type=429",
@@ -11372,12 +11372,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 3,
-      "Буланов Владимир Викторович": 8,
-      "Нефедов Виктор Алексеевич": 1,
-      "Суров Михаил Васильевич": 33,
-      "Чайка Валентин Васильевич": 111,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000190336": 3,
+      "gas:candidate-vibid:1001000217919": 8,
+      "gas:candidate-vibid:1001000195067": 1,
+      "gas:candidate-vibid:235200070406": 33,
+      "gas:candidate-vibid:1001000131394": 111,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170481&region=0&sub_region=0&type=429",
@@ -11427,12 +11427,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 18,
-      "Буланов Владимир Викторович": 24,
-      "Нефедов Виктор Алексеевич": 7,
-      "Суров Михаил Васильевич": 75,
-      "Чайка Валентин Васильевич": 290,
-      "Против всех": 85
+      "gas:candidate-vibid:1001000190336": 18,
+      "gas:candidate-vibid:1001000217919": 24,
+      "gas:candidate-vibid:1001000195067": 7,
+      "gas:candidate-vibid:235200070406": 75,
+      "gas:candidate-vibid:1001000131394": 290,
+      "special:against-all": 85
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170482&region=0&sub_region=0&type=429",
@@ -11482,12 +11482,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 21,
-      "Буланов Владимир Викторович": 30,
-      "Нефедов Виктор Алексеевич": 6,
-      "Суров Михаил Васильевич": 76,
-      "Чайка Валентин Васильевич": 355,
-      "Против всех": 79
+      "gas:candidate-vibid:1001000190336": 21,
+      "gas:candidate-vibid:1001000217919": 30,
+      "gas:candidate-vibid:1001000195067": 6,
+      "gas:candidate-vibid:235200070406": 76,
+      "gas:candidate-vibid:1001000131394": 355,
+      "special:against-all": 79
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170482&region=0&sub_region=0&type=429",
@@ -11537,12 +11537,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 28,
-      "Буланов Владимир Викторович": 105,
-      "Нефедов Виктор Алексеевич": 4,
-      "Суров Михаил Васильевич": 224,
-      "Чайка Валентин Васильевич": 652,
-      "Против всех": 236
+      "gas:candidate-vibid:1001000190336": 28,
+      "gas:candidate-vibid:1001000217919": 105,
+      "gas:candidate-vibid:1001000195067": 4,
+      "gas:candidate-vibid:235200070406": 224,
+      "gas:candidate-vibid:1001000131394": 652,
+      "special:against-all": 236
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170482&region=0&sub_region=0&type=429",
@@ -11592,12 +11592,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 28,
-      "Буланов Владимир Викторович": 75,
-      "Нефедов Виктор Алексеевич": 14,
-      "Суров Михаил Васильевич": 158,
-      "Чайка Валентин Васильевич": 620,
-      "Против всех": 138
+      "gas:candidate-vibid:1001000190336": 28,
+      "gas:candidate-vibid:1001000217919": 75,
+      "gas:candidate-vibid:1001000195067": 14,
+      "gas:candidate-vibid:235200070406": 158,
+      "gas:candidate-vibid:1001000131394": 620,
+      "special:against-all": 138
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170482&region=0&sub_region=0&type=429",
@@ -11647,12 +11647,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 55,
-      "Буланов Владимир Викторович": 109,
-      "Нефедов Виктор Алексеевич": 15,
-      "Суров Михаил Васильевич": 219,
-      "Чайка Валентин Васильевич": 777,
-      "Против всех": 200
+      "gas:candidate-vibid:1001000190336": 55,
+      "gas:candidate-vibid:1001000217919": 109,
+      "gas:candidate-vibid:1001000195067": 15,
+      "gas:candidate-vibid:235200070406": 219,
+      "gas:candidate-vibid:1001000131394": 777,
+      "special:against-all": 200
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170482&region=0&sub_region=0&type=429",
@@ -11702,12 +11702,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 35,
-      "Буланов Владимир Викторович": 60,
-      "Нефедов Виктор Алексеевич": 10,
-      "Суров Михаил Васильевич": 148,
-      "Чайка Валентин Васильевич": 442,
-      "Против всех": 164
+      "gas:candidate-vibid:1001000190336": 35,
+      "gas:candidate-vibid:1001000217919": 60,
+      "gas:candidate-vibid:1001000195067": 10,
+      "gas:candidate-vibid:235200070406": 148,
+      "gas:candidate-vibid:1001000131394": 442,
+      "special:against-all": 164
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170482&region=0&sub_region=0&type=429",
@@ -11757,12 +11757,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 32,
-      "Буланов Владимир Викторович": 72,
-      "Нефедов Виктор Алексеевич": 4,
-      "Суров Михаил Васильевич": 110,
-      "Чайка Валентин Васильевич": 581,
-      "Против всех": 158
+      "gas:candidate-vibid:1001000190336": 32,
+      "gas:candidate-vibid:1001000217919": 72,
+      "gas:candidate-vibid:1001000195067": 4,
+      "gas:candidate-vibid:235200070406": 110,
+      "gas:candidate-vibid:1001000131394": 581,
+      "special:against-all": 158
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170482&region=0&sub_region=0&type=429",
@@ -11812,12 +11812,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 57,
-      "Буланов Владимир Викторович": 93,
-      "Нефедов Виктор Алексеевич": 7,
-      "Суров Михаил Васильевич": 177,
-      "Чайка Валентин Васильевич": 613,
-      "Против всех": 184
+      "gas:candidate-vibid:1001000190336": 57,
+      "gas:candidate-vibid:1001000217919": 93,
+      "gas:candidate-vibid:1001000195067": 7,
+      "gas:candidate-vibid:235200070406": 177,
+      "gas:candidate-vibid:1001000131394": 613,
+      "special:against-all": 184
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170482&region=0&sub_region=0&type=429",
@@ -11867,12 +11867,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 27,
-      "Буланов Владимир Викторович": 49,
-      "Нефедов Виктор Алексеевич": 2,
-      "Суров Михаил Васильевич": 103,
-      "Чайка Валентин Васильевич": 418,
-      "Против всех": 116
+      "gas:candidate-vibid:1001000190336": 27,
+      "gas:candidate-vibid:1001000217919": 49,
+      "gas:candidate-vibid:1001000195067": 2,
+      "gas:candidate-vibid:235200070406": 103,
+      "gas:candidate-vibid:1001000131394": 418,
+      "special:against-all": 116
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170482&region=0&sub_region=0&type=429",
@@ -11922,12 +11922,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 27,
-      "Буланов Владимир Викторович": 34,
-      "Нефедов Виктор Алексеевич": 12,
-      "Суров Михаил Васильевич": 135,
-      "Чайка Валентин Васильевич": 444,
-      "Против всех": 124
+      "gas:candidate-vibid:1001000190336": 27,
+      "gas:candidate-vibid:1001000217919": 34,
+      "gas:candidate-vibid:1001000195067": 12,
+      "gas:candidate-vibid:235200070406": 135,
+      "gas:candidate-vibid:1001000131394": 444,
+      "special:against-all": 124
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170482&region=0&sub_region=0&type=429",
@@ -11977,12 +11977,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 22,
-      "Буланов Владимир Викторович": 55,
-      "Нефедов Виктор Алексеевич": 7,
-      "Суров Михаил Васильевич": 114,
-      "Чайка Валентин Васильевич": 427,
-      "Против всех": 95
+      "gas:candidate-vibid:1001000190336": 22,
+      "gas:candidate-vibid:1001000217919": 55,
+      "gas:candidate-vibid:1001000195067": 7,
+      "gas:candidate-vibid:235200070406": 114,
+      "gas:candidate-vibid:1001000131394": 427,
+      "special:against-all": 95
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170482&region=0&sub_region=0&type=429",
@@ -12032,12 +12032,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 22,
-      "Буланов Владимир Викторович": 65,
-      "Нефедов Виктор Алексеевич": 8,
-      "Суров Михаил Васильевич": 99,
-      "Чайка Валентин Васильевич": 425,
-      "Против всех": 90
+      "gas:candidate-vibid:1001000190336": 22,
+      "gas:candidate-vibid:1001000217919": 65,
+      "gas:candidate-vibid:1001000195067": 8,
+      "gas:candidate-vibid:235200070406": 99,
+      "gas:candidate-vibid:1001000131394": 425,
+      "special:against-all": 90
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170482&region=0&sub_region=0&type=429",
@@ -12087,12 +12087,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 24,
-      "Буланов Владимир Викторович": 79,
-      "Нефедов Виктор Алексеевич": 7,
-      "Суров Михаил Васильевич": 149,
-      "Чайка Валентин Васильевич": 728,
-      "Против всех": 141
+      "gas:candidate-vibid:1001000190336": 24,
+      "gas:candidate-vibid:1001000217919": 79,
+      "gas:candidate-vibid:1001000195067": 7,
+      "gas:candidate-vibid:235200070406": 149,
+      "gas:candidate-vibid:1001000131394": 728,
+      "special:against-all": 141
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170482&region=0&sub_region=0&type=429",
@@ -12142,12 +12142,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 34,
-      "Буланов Владимир Викторович": 46,
-      "Нефедов Виктор Алексеевич": 6,
-      "Суров Михаил Васильевич": 96,
-      "Чайка Валентин Васильевич": 438,
-      "Против всех": 96
+      "gas:candidate-vibid:1001000190336": 34,
+      "gas:candidate-vibid:1001000217919": 46,
+      "gas:candidate-vibid:1001000195067": 6,
+      "gas:candidate-vibid:235200070406": 96,
+      "gas:candidate-vibid:1001000131394": 438,
+      "special:against-all": 96
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170482&region=0&sub_region=0&type=429",
@@ -12197,12 +12197,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 30,
-      "Буланов Владимир Викторович": 100,
-      "Нефедов Виктор Алексеевич": 9,
-      "Суров Михаил Васильевич": 175,
-      "Чайка Валентин Васильевич": 687,
-      "Против всех": 173
+      "gas:candidate-vibid:1001000190336": 30,
+      "gas:candidate-vibid:1001000217919": 100,
+      "gas:candidate-vibid:1001000195067": 9,
+      "gas:candidate-vibid:235200070406": 175,
+      "gas:candidate-vibid:1001000131394": 687,
+      "special:against-all": 173
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170482&region=0&sub_region=0&type=429",
@@ -12252,12 +12252,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 23,
-      "Буланов Владимир Викторович": 35,
-      "Нефедов Виктор Алексеевич": 7,
-      "Суров Михаил Васильевич": 133,
-      "Чайка Валентин Васильевич": 393,
-      "Против всех": 72
+      "gas:candidate-vibid:1001000190336": 23,
+      "gas:candidate-vibid:1001000217919": 35,
+      "gas:candidate-vibid:1001000195067": 7,
+      "gas:candidate-vibid:235200070406": 133,
+      "gas:candidate-vibid:1001000131394": 393,
+      "special:against-all": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170482&region=0&sub_region=0&type=429",
@@ -12307,12 +12307,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 1,
-      "Буланов Владимир Викторович": 0,
-      "Нефедов Виктор Алексеевич": 1,
-      "Суров Михаил Васильевич": 6,
-      "Чайка Валентин Васильевич": 62,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000190336": 1,
+      "gas:candidate-vibid:1001000217919": 0,
+      "gas:candidate-vibid:1001000195067": 1,
+      "gas:candidate-vibid:235200070406": 6,
+      "gas:candidate-vibid:1001000131394": 62,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170482&region=0&sub_region=0&type=429",
@@ -12362,12 +12362,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 10,
-      "Буланов Владимир Викторович": 13,
-      "Нефедов Виктор Алексеевич": 2,
-      "Суров Михаил Васильевич": 39,
-      "Чайка Валентин Васильевич": 251,
-      "Против всех": 45
+      "gas:candidate-vibid:1001000190336": 10,
+      "gas:candidate-vibid:1001000217919": 13,
+      "gas:candidate-vibid:1001000195067": 2,
+      "gas:candidate-vibid:235200070406": 39,
+      "gas:candidate-vibid:1001000131394": 251,
+      "special:against-all": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170482&region=0&sub_region=0&type=429",
@@ -12417,12 +12417,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 3,
-      "Буланов Владимир Викторович": 21,
-      "Нефедов Виктор Алексеевич": 4,
-      "Суров Михаил Васильевич": 45,
-      "Чайка Валентин Васильевич": 121,
-      "Против всех": 49
+      "gas:candidate-vibid:1001000190336": 3,
+      "gas:candidate-vibid:1001000217919": 21,
+      "gas:candidate-vibid:1001000195067": 4,
+      "gas:candidate-vibid:235200070406": 45,
+      "gas:candidate-vibid:1001000131394": 121,
+      "special:against-all": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170482&region=0&sub_region=0&type=429",
@@ -12472,12 +12472,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 36,
-      "Буланов Владимир Викторович": 59,
-      "Нефедов Виктор Алексеевич": 17,
-      "Суров Михаил Васильевич": 150,
-      "Чайка Валентин Васильевич": 479,
-      "Против всех": 165
+      "gas:candidate-vibid:1001000190336": 36,
+      "gas:candidate-vibid:1001000217919": 59,
+      "gas:candidate-vibid:1001000195067": 17,
+      "gas:candidate-vibid:235200070406": 150,
+      "gas:candidate-vibid:1001000131394": 479,
+      "special:against-all": 165
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170482&region=0&sub_region=0&type=429",
@@ -12527,12 +12527,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 30,
-      "Буланов Владимир Викторович": 62,
-      "Нефедов Виктор Алексеевич": 12,
-      "Суров Михаил Васильевич": 150,
-      "Чайка Валентин Васильевич": 521,
-      "Против всех": 178
+      "gas:candidate-vibid:1001000190336": 30,
+      "gas:candidate-vibid:1001000217919": 62,
+      "gas:candidate-vibid:1001000195067": 12,
+      "gas:candidate-vibid:235200070406": 150,
+      "gas:candidate-vibid:1001000131394": 521,
+      "special:against-all": 178
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170482&region=0&sub_region=0&type=429",
@@ -12582,12 +12582,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 43,
-      "Буланов Владимир Викторович": 43,
-      "Нефедов Виктор Алексеевич": 15,
-      "Суров Михаил Васильевич": 160,
-      "Чайка Валентин Васильевич": 549,
-      "Против всех": 181
+      "gas:candidate-vibid:1001000190336": 43,
+      "gas:candidate-vibid:1001000217919": 43,
+      "gas:candidate-vibid:1001000195067": 15,
+      "gas:candidate-vibid:235200070406": 160,
+      "gas:candidate-vibid:1001000131394": 549,
+      "special:against-all": 181
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170482&region=0&sub_region=0&type=429",
@@ -12637,12 +12637,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 27,
-      "Буланов Владимир Викторович": 30,
-      "Нефедов Виктор Алексеевич": 13,
-      "Суров Михаил Васильевич": 138,
-      "Чайка Валентин Васильевич": 678,
-      "Против всех": 154
+      "gas:candidate-vibid:1001000190336": 27,
+      "gas:candidate-vibid:1001000217919": 30,
+      "gas:candidate-vibid:1001000195067": 13,
+      "gas:candidate-vibid:235200070406": 138,
+      "gas:candidate-vibid:1001000131394": 678,
+      "special:against-all": 154
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170482&region=0&sub_region=0&type=429",
@@ -12692,12 +12692,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 5,
-      "Буланов Владимир Викторович": 41,
-      "Нефедов Виктор Алексеевич": 3,
-      "Суров Михаил Васильевич": 16,
-      "Чайка Валентин Васильевич": 123,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000190336": 5,
+      "gas:candidate-vibid:1001000217919": 41,
+      "gas:candidate-vibid:1001000195067": 3,
+      "gas:candidate-vibid:235200070406": 16,
+      "gas:candidate-vibid:1001000131394": 123,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170482&region=0&sub_region=0&type=429",
@@ -12747,12 +12747,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 6,
-      "Буланов Владимир Викторович": 10,
-      "Нефедов Виктор Алексеевич": 1,
-      "Суров Михаил Васильевич": 18,
-      "Чайка Валентин Васильевич": 78,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000190336": 6,
+      "gas:candidate-vibid:1001000217919": 10,
+      "gas:candidate-vibid:1001000195067": 1,
+      "gas:candidate-vibid:235200070406": 18,
+      "gas:candidate-vibid:1001000131394": 78,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170482&region=0&sub_region=0&type=429",
@@ -12802,12 +12802,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 6,
-      "Буланов Владимир Викторович": 34,
-      "Нефедов Виктор Алексеевич": 2,
-      "Суров Михаил Васильевич": 11,
-      "Чайка Валентин Васильевич": 171,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000190336": 6,
+      "gas:candidate-vibid:1001000217919": 34,
+      "gas:candidate-vibid:1001000195067": 2,
+      "gas:candidate-vibid:235200070406": 11,
+      "gas:candidate-vibid:1001000131394": 171,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170482&region=0&sub_region=0&type=429",
@@ -12857,12 +12857,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 6,
-      "Буланов Владимир Викторович": 23,
-      "Нефедов Виктор Алексеевич": 2,
-      "Суров Михаил Васильевич": 13,
-      "Чайка Валентин Васильевич": 80,
-      "Против всех": 28
+      "gas:candidate-vibid:1001000190336": 6,
+      "gas:candidate-vibid:1001000217919": 23,
+      "gas:candidate-vibid:1001000195067": 2,
+      "gas:candidate-vibid:235200070406": 13,
+      "gas:candidate-vibid:1001000131394": 80,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170482&region=0&sub_region=0&type=429",
@@ -12912,12 +12912,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 13,
-      "Буланов Владимир Викторович": 50,
-      "Нефедов Виктор Алексеевич": 12,
-      "Суров Михаил Васильевич": 52,
-      "Чайка Валентин Васильевич": 289,
-      "Против всех": 67
+      "gas:candidate-vibid:1001000190336": 13,
+      "gas:candidate-vibid:1001000217919": 50,
+      "gas:candidate-vibid:1001000195067": 12,
+      "gas:candidate-vibid:235200070406": 52,
+      "gas:candidate-vibid:1001000131394": 289,
+      "special:against-all": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170482&region=0&sub_region=0&type=429",
@@ -12967,12 +12967,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 11,
-      "Буланов Владимир Викторович": 7,
-      "Нефедов Виктор Алексеевич": 4,
-      "Суров Михаил Васильевич": 52,
-      "Чайка Валентин Васильевич": 199,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000190336": 11,
+      "gas:candidate-vibid:1001000217919": 7,
+      "gas:candidate-vibid:1001000195067": 4,
+      "gas:candidate-vibid:235200070406": 52,
+      "gas:candidate-vibid:1001000131394": 199,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170482&region=0&sub_region=0&type=429",
@@ -13022,12 +13022,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 30,
-      "Буланов Владимир Викторович": 38,
-      "Нефедов Виктор Алексеевич": 10,
-      "Суров Михаил Васильевич": 93,
-      "Чайка Валентин Васильевич": 343,
-      "Против всех": 98
+      "gas:candidate-vibid:1001000190336": 30,
+      "gas:candidate-vibid:1001000217919": 38,
+      "gas:candidate-vibid:1001000195067": 10,
+      "gas:candidate-vibid:235200070406": 93,
+      "gas:candidate-vibid:1001000131394": 343,
+      "special:against-all": 98
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170482&region=0&sub_region=0&type=429",
@@ -13077,12 +13077,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 3,
-      "Буланов Владимир Викторович": 1,
-      "Нефедов Виктор Алексеевич": 2,
-      "Суров Михаил Васильевич": 6,
-      "Чайка Валентин Васильевич": 67,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000190336": 3,
+      "gas:candidate-vibid:1001000217919": 1,
+      "gas:candidate-vibid:1001000195067": 2,
+      "gas:candidate-vibid:235200070406": 6,
+      "gas:candidate-vibid:1001000131394": 67,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170482&region=0&sub_region=0&type=429",
@@ -13132,12 +13132,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 3,
-      "Буланов Владимир Викторович": 12,
-      "Нефедов Виктор Алексеевич": 0,
-      "Суров Михаил Васильевич": 22,
-      "Чайка Валентин Васильевич": 68,
-      "Против всех": 26
+      "gas:candidate-vibid:1001000190336": 3,
+      "gas:candidate-vibid:1001000217919": 12,
+      "gas:candidate-vibid:1001000195067": 0,
+      "gas:candidate-vibid:235200070406": 22,
+      "gas:candidate-vibid:1001000131394": 68,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170482&region=0&sub_region=0&type=429",
@@ -13187,12 +13187,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 6,
-      "Буланов Владимир Викторович": 52,
-      "Нефедов Виктор Алексеевич": 1,
-      "Суров Михаил Васильевич": 51,
-      "Чайка Валентин Васильевич": 149,
-      "Против всех": 40
+      "gas:candidate-vibid:1001000190336": 6,
+      "gas:candidate-vibid:1001000217919": 52,
+      "gas:candidate-vibid:1001000195067": 1,
+      "gas:candidate-vibid:235200070406": 51,
+      "gas:candidate-vibid:1001000131394": 149,
+      "special:against-all": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170482&region=0&sub_region=0&type=429",
@@ -13242,12 +13242,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 7,
-      "Буланов Владимир Викторович": 15,
-      "Нефедов Виктор Алексеевич": 5,
-      "Суров Михаил Васильевич": 16,
-      "Чайка Валентин Васильевич": 158,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000190336": 7,
+      "gas:candidate-vibid:1001000217919": 15,
+      "gas:candidate-vibid:1001000195067": 5,
+      "gas:candidate-vibid:235200070406": 16,
+      "gas:candidate-vibid:1001000131394": 158,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170482&region=0&sub_region=0&type=429",
@@ -13297,12 +13297,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 2,
-      "Буланов Владимир Викторович": 26,
-      "Нефедов Виктор Алексеевич": 1,
-      "Суров Михаил Васильевич": 15,
-      "Чайка Валентин Васильевич": 159,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000190336": 2,
+      "gas:candidate-vibid:1001000217919": 26,
+      "gas:candidate-vibid:1001000195067": 1,
+      "gas:candidate-vibid:235200070406": 15,
+      "gas:candidate-vibid:1001000131394": 159,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170482&region=0&sub_region=0&type=429",
@@ -13352,12 +13352,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 3,
-      "Буланов Владимир Викторович": 7,
-      "Нефедов Виктор Алексеевич": 1,
-      "Суров Михаил Васильевич": 9,
-      "Чайка Валентин Васильевич": 90,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000190336": 3,
+      "gas:candidate-vibid:1001000217919": 7,
+      "gas:candidate-vibid:1001000195067": 1,
+      "gas:candidate-vibid:235200070406": 9,
+      "gas:candidate-vibid:1001000131394": 90,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170482&region=0&sub_region=0&type=429",
@@ -13407,12 +13407,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 13,
-      "Буланов Владимир Викторович": 21,
-      "Нефедов Виктор Алексеевич": 0,
-      "Суров Михаил Васильевич": 70,
-      "Чайка Валентин Васильевич": 666,
-      "Против всех": 68
+      "gas:candidate-vibid:1001000190336": 13,
+      "gas:candidate-vibid:1001000217919": 21,
+      "gas:candidate-vibid:1001000195067": 0,
+      "gas:candidate-vibid:235200070406": 70,
+      "gas:candidate-vibid:1001000131394": 666,
+      "special:against-all": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170482&region=0&sub_region=0&type=429",
@@ -13462,12 +13462,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 8,
-      "Буланов Владимир Викторович": 15,
-      "Нефедов Виктор Алексеевич": 6,
-      "Суров Михаил Васильевич": 26,
-      "Чайка Валентин Васильевич": 146,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000190336": 8,
+      "gas:candidate-vibid:1001000217919": 15,
+      "gas:candidate-vibid:1001000195067": 6,
+      "gas:candidate-vibid:235200070406": 26,
+      "gas:candidate-vibid:1001000131394": 146,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170482&region=0&sub_region=0&type=429",
@@ -13517,12 +13517,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 1,
-      "Буланов Владимир Викторович": 10,
-      "Нефедов Виктор Алексеевич": 0,
-      "Суров Михаил Васильевич": 12,
-      "Чайка Валентин Васильевич": 70,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000190336": 1,
+      "gas:candidate-vibid:1001000217919": 10,
+      "gas:candidate-vibid:1001000195067": 0,
+      "gas:candidate-vibid:235200070406": 12,
+      "gas:candidate-vibid:1001000131394": 70,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170482&region=0&sub_region=0&type=429",
@@ -13572,12 +13572,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 3,
-      "Буланов Владимир Викторович": 25,
-      "Нефедов Виктор Алексеевич": 5,
-      "Суров Михаил Васильевич": 21,
-      "Чайка Валентин Васильевич": 153,
-      "Против всех": 24
+      "gas:candidate-vibid:1001000190336": 3,
+      "gas:candidate-vibid:1001000217919": 25,
+      "gas:candidate-vibid:1001000195067": 5,
+      "gas:candidate-vibid:235200070406": 21,
+      "gas:candidate-vibid:1001000131394": 153,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170482&region=0&sub_region=0&type=429",
@@ -13627,12 +13627,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 0,
-      "Буланов Владимир Викторович": 3,
-      "Нефедов Виктор Алексеевич": 0,
-      "Суров Михаил Васильевич": 8,
-      "Чайка Валентин Васильевич": 60,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000190336": 0,
+      "gas:candidate-vibid:1001000217919": 3,
+      "gas:candidate-vibid:1001000195067": 0,
+      "gas:candidate-vibid:235200070406": 8,
+      "gas:candidate-vibid:1001000131394": 60,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170482&region=0&sub_region=0&type=429",
@@ -13682,12 +13682,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 3,
-      "Буланов Владимир Викторович": 10,
-      "Нефедов Виктор Алексеевич": 1,
-      "Суров Михаил Васильевич": 19,
-      "Чайка Валентин Васильевич": 71,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000190336": 3,
+      "gas:candidate-vibid:1001000217919": 10,
+      "gas:candidate-vibid:1001000195067": 1,
+      "gas:candidate-vibid:235200070406": 19,
+      "gas:candidate-vibid:1001000131394": 71,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170482&region=0&sub_region=0&type=429",
@@ -13737,12 +13737,12 @@ export const duma_2003_uik_428_region_35_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ануфриев Виктор Михайлович": 1,
-      "Буланов Владимир Викторович": 6,
-      "Нефедов Виктор Алексеевич": 0,
-      "Суров Михаил Васильевич": 8,
-      "Чайка Валентин Васильевич": 70,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000190336": 1,
+      "gas:candidate-vibid:1001000217919": 6,
+      "gas:candidate-vibid:1001000195067": 0,
+      "gas:candidate-vibid:235200070406": 8,
+      "gas:candidate-vibid:1001000131394": 70,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300170482&region=0&sub_region=0&type=429",

@@ -11,8 +11,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 79,
     "uikTvd": "4074003191616",
+    "uikName": "УИК №79",
     "tikTvd": "2072000534226",
     "tikName": "Майская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1421,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1451,
@@ -28,12 +32,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 3,
-      "Безгодько Владимир Федорович": 43,
-      "Кузьминов Олег Владимирович": 18,
-      "Настаев Алисолтан Магамедович": 150,
-      "Паштов Борис Султанович": 172,
-      "Шхагошев Адальби Люлевич": 825
+      "2072000540461": 3,
+      "2072000539283": 43,
+      "2072000538933": 18,
+      "2072000538946": 150,
+      "2072000539272": 172,
+      "2072000539261": 825
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534226&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534226&type=464",
@@ -43,6 +47,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:44:59.985703+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534226&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534226&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -52,8 +60,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 80,
     "uikTvd": "4074003191617",
+    "uikName": "УИК №80",
     "tikTvd": "2072000534226",
     "tikName": "Майская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1167,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1167,
@@ -69,12 +81,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 7,
-      "Безгодько Владимир Федорович": 33,
-      "Кузьминов Олег Владимирович": 18,
-      "Настаев Алисолтан Магамедович": 129,
-      "Паштов Борис Султанович": 69,
-      "Шхагошев Адальби Люлевич": 744
+      "2072000540461": 7,
+      "2072000539283": 33,
+      "2072000538933": 18,
+      "2072000538946": 129,
+      "2072000539272": 69,
+      "2072000539261": 744
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534226&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534226&type=464",
@@ -84,6 +96,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:44:59.985703+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534226&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534226&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -93,8 +109,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 81,
     "uikTvd": "4074003191618",
+    "uikName": "УИК №81",
     "tikTvd": "2072000534226",
     "tikName": "Майская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 904,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 904,
@@ -110,12 +130,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 5,
-      "Безгодько Владимир Федорович": 36,
-      "Кузьминов Олег Владимирович": 16,
-      "Настаев Алисолтан Магамедович": 104,
-      "Паштов Борис Султанович": 112,
-      "Шхагошев Адальби Люлевич": 499
+      "2072000540461": 5,
+      "2072000539283": 36,
+      "2072000538933": 16,
+      "2072000538946": 104,
+      "2072000539272": 112,
+      "2072000539261": 499
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534226&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534226&type=464",
@@ -125,6 +145,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:44:59.985703+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534226&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534226&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -134,8 +158,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 82,
     "uikTvd": "4074003191619",
+    "uikName": "УИК №82",
     "tikTvd": "2072000534226",
     "tikName": "Майская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1837,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1867,
@@ -151,12 +179,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 7,
-      "Безгодько Владимир Федорович": 55,
-      "Кузьминов Олег Владимирович": 16,
-      "Настаев Алисолтан Магамедович": 151,
-      "Паштов Борис Султанович": 211,
-      "Шхагошев Адальби Люлевич": 1096
+      "2072000540461": 7,
+      "2072000539283": 55,
+      "2072000538933": 16,
+      "2072000538946": 151,
+      "2072000539272": 211,
+      "2072000539261": 1096
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534226&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534226&type=464",
@@ -166,6 +194,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:44:59.985703+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534226&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534226&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -175,8 +207,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 83,
     "uikTvd": "4074003191620",
+    "uikName": "УИК №83",
     "tikTvd": "2072000534226",
     "tikName": "Майская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 688,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 688,
@@ -192,12 +228,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 3,
-      "Безгодько Владимир Федорович": 28,
-      "Кузьминов Олег Владимирович": 16,
-      "Настаев Алисолтан Магамедович": 87,
-      "Паштов Борис Султанович": 55,
-      "Шхагошев Адальби Люлевич": 411
+      "2072000540461": 3,
+      "2072000539283": 28,
+      "2072000538933": 16,
+      "2072000538946": 87,
+      "2072000539272": 55,
+      "2072000539261": 411
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534226&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534226&type=464",
@@ -207,6 +243,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:44:59.985703+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534226&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534226&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -216,8 +256,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 84,
     "uikTvd": "4074003191621",
+    "uikName": "УИК №84",
     "tikTvd": "2072000534226",
     "tikName": "Майская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1340,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1370,
@@ -233,12 +277,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 3,
-      "Безгодько Владимир Федорович": 49,
-      "Кузьминов Олег Владимирович": 17,
-      "Настаев Алисолтан Магамедович": 150,
-      "Паштов Борис Султанович": 122,
-      "Шхагошев Адальби Люлевич": 852
+      "2072000540461": 3,
+      "2072000539283": 49,
+      "2072000538933": 17,
+      "2072000538946": 150,
+      "2072000539272": 122,
+      "2072000539261": 852
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534226&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534226&type=464",
@@ -248,6 +292,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:44:59.985703+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534226&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534226&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -257,8 +305,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 85,
     "uikTvd": "4074003191622",
+    "uikName": "УИК №85",
     "tikTvd": "2072000534226",
     "tikName": "Майская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 899,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 899,
@@ -274,12 +326,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 5,
-      "Безгодько Владимир Федорович": 34,
-      "Кузьминов Олег Владимирович": 16,
-      "Настаев Алисолтан Магамедович": 93,
-      "Паштов Борис Султанович": 109,
-      "Шхагошев Адальби Люлевич": 514
+      "2072000540461": 5,
+      "2072000539283": 34,
+      "2072000538933": 16,
+      "2072000538946": 93,
+      "2072000539272": 109,
+      "2072000539261": 514
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534226&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534226&type=464",
@@ -289,6 +341,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:44:59.985703+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534226&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534226&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -298,8 +354,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 86,
     "uikTvd": "4074003191623",
+    "uikName": "УИК №86",
     "tikTvd": "2072000534226",
     "tikName": "Майская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1018,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1018,
@@ -315,12 +375,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 3,
-      "Безгодько Владимир Федорович": 56,
-      "Кузьминов Олег Владимирович": 15,
-      "Настаев Алисолтан Магамедович": 105,
-      "Паштов Борис Султанович": 117,
-      "Шхагошев Адальби Люлевич": 578
+      "2072000540461": 3,
+      "2072000539283": 56,
+      "2072000538933": 15,
+      "2072000538946": 105,
+      "2072000539272": 117,
+      "2072000539261": 578
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534226&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534226&type=464",
@@ -330,6 +390,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:44:59.985703+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534226&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534226&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -339,8 +403,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 87,
     "uikTvd": "4074003191624",
+    "uikName": "УИК №87",
     "tikTvd": "2072000534226",
     "tikName": "Майская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 837,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 837,
@@ -356,12 +424,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 5,
-      "Безгодько Владимир Федорович": 29,
-      "Кузьминов Олег Владимирович": 15,
-      "Настаев Алисолтан Магамедович": 92,
-      "Паштов Борис Султанович": 88,
-      "Шхагошев Адальби Люлевич": 456
+      "2072000540461": 5,
+      "2072000539283": 29,
+      "2072000538933": 15,
+      "2072000538946": 92,
+      "2072000539272": 88,
+      "2072000539261": 456
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534226&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534226&type=464",
@@ -371,6 +439,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:44:59.985703+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534226&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534226&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -380,8 +452,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 88,
     "uikTvd": "4074003191625",
+    "uikName": "УИК №88",
     "tikTvd": "2072000534226",
     "tikName": "Майская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1944,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1974,
@@ -397,12 +473,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 7,
-      "Безгодько Владимир Федорович": 55,
-      "Кузьминов Олег Владимирович": 33,
-      "Настаев Алисолтан Магамедович": 196,
-      "Паштов Борис Султанович": 221,
-      "Шхагошев Адальби Люлевич": 1122
+      "2072000540461": 7,
+      "2072000539283": 55,
+      "2072000538933": 33,
+      "2072000538946": 196,
+      "2072000539272": 221,
+      "2072000539261": 1122
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534226&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534226&type=464",
@@ -412,6 +488,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:44:59.985703+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534226&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534226&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -421,8 +501,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 89,
     "uikTvd": "4074003191626",
+    "uikName": "УИК №89",
     "tikTvd": "2072000534226",
     "tikName": "Майская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1893,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1893,
@@ -438,12 +522,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 3,
-      "Безгодько Владимир Федорович": 56,
-      "Кузьминов Олег Владимирович": 21,
-      "Настаев Алисолтан Магамедович": 186,
-      "Паштов Борис Султанович": 218,
-      "Шхагошев Адальби Люлевич": 1083
+      "2072000540461": 3,
+      "2072000539283": 56,
+      "2072000538933": 21,
+      "2072000538946": 186,
+      "2072000539272": 218,
+      "2072000539261": 1083
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534226&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534226&type=464",
@@ -453,6 +537,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:44:59.985703+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534226&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534226&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -462,8 +550,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 90,
     "uikTvd": "4074003191627",
+    "uikName": "УИК №90",
     "tikTvd": "2072000534226",
     "tikName": "Майская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2351,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2381,
@@ -479,12 +571,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 7,
-      "Безгодько Владимир Федорович": 59,
-      "Кузьминов Олег Владимирович": 22,
-      "Настаев Алисолтан Магамедович": 232,
-      "Паштов Борис Султанович": 306,
-      "Шхагошев Адальби Люлевич": 1471
+      "2072000540461": 7,
+      "2072000539283": 59,
+      "2072000538933": 22,
+      "2072000538946": 232,
+      "2072000539272": 306,
+      "2072000539261": 1471
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534226&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534226&type=464",
@@ -494,6 +586,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:44:59.985703+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534226&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534226&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -503,8 +599,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 91,
     "uikTvd": "4074003191628",
+    "uikName": "УИК №91",
     "tikTvd": "2072000534226",
     "tikName": "Майская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1488,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1518,
@@ -520,12 +620,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 7,
-      "Безгодько Владимир Федорович": 54,
-      "Кузьминов Олег Владимирович": 16,
-      "Настаев Алисолтан Магамедович": 143,
-      "Паштов Борис Султанович": 156,
-      "Шхагошев Адальби Люлевич": 914
+      "2072000540461": 7,
+      "2072000539283": 54,
+      "2072000538933": 16,
+      "2072000538946": 143,
+      "2072000539272": 156,
+      "2072000539261": 914
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534226&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534226&type=464",
@@ -535,6 +635,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:44:59.985703+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534226&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534226&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -544,8 +648,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 92,
     "uikTvd": "4074003191629",
+    "uikName": "УИК №92",
     "tikTvd": "2072000534226",
     "tikName": "Майская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 358,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 358,
@@ -561,12 +669,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 2,
-      "Безгодько Владимир Федорович": 14,
-      "Кузьминов Олег Владимирович": 15,
-      "Настаев Алисолтан Магамедович": 36,
-      "Паштов Борис Султанович": 28,
-      "Шхагошев Адальби Люлевич": 212
+      "2072000540461": 2,
+      "2072000539283": 14,
+      "2072000538933": 15,
+      "2072000538946": 36,
+      "2072000539272": 28,
+      "2072000539261": 212
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534226&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534226&type=464",
@@ -576,6 +684,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:44:59.985703+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534226&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534226&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -585,8 +697,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 93,
     "uikTvd": "4074003191630",
+    "uikName": "УИК №93",
     "tikTvd": "2072000534226",
     "tikName": "Майская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2287,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2317,
@@ -602,12 +718,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 5,
-      "Безгодько Владимир Федорович": 56,
-      "Кузьминов Олег Владимирович": 34,
-      "Настаев Алисолтан Магамедович": 229,
-      "Паштов Борис Султанович": 272,
-      "Шхагошев Адальби Люлевич": 1432
+      "2072000540461": 5,
+      "2072000539283": 56,
+      "2072000538933": 34,
+      "2072000538946": 229,
+      "2072000539272": 272,
+      "2072000539261": 1432
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534226&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534226&type=464",
@@ -617,6 +733,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:44:59.985703+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534226&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534226&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -626,8 +746,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 94,
     "uikTvd": "4074003191631",
+    "uikName": "УИК №94",
     "tikTvd": "2072000534226",
     "tikName": "Майская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2233,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2263,
@@ -643,12 +767,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 3,
-      "Безгодько Владимир Федорович": 55,
-      "Кузьминов Олег Владимирович": 36,
-      "Настаев Алисолтан Магамедович": 195,
-      "Паштов Борис Султанович": 304,
-      "Шхагошев Адальби Люлевич": 1327
+      "2072000540461": 3,
+      "2072000539283": 55,
+      "2072000538933": 36,
+      "2072000538946": 195,
+      "2072000539272": 304,
+      "2072000539261": 1327
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534226&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534226&type=464",
@@ -658,6 +782,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:44:59.985703+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534226&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534226&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -667,8 +795,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 95,
     "uikTvd": "4074003191632",
+    "uikName": "УИК №95",
     "tikTvd": "2072000534226",
     "tikName": "Майская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 698,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 695,
@@ -684,12 +816,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 7,
-      "Безгодько Владимир Федорович": 33,
-      "Кузьминов Олег Владимирович": 16,
-      "Настаев Алисолтан Магамедович": 69,
-      "Паштов Борис Султанович": 66,
-      "Шхагошев Адальби Люлевич": 418
+      "2072000540461": 7,
+      "2072000539283": 33,
+      "2072000538933": 16,
+      "2072000538946": 69,
+      "2072000539272": 66,
+      "2072000539261": 418
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534226&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534226&type=464",
@@ -699,6 +831,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:44:59.985703+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534226&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534226&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -708,8 +844,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 96,
     "uikTvd": "4074003191633",
+    "uikName": "УИК №96",
     "tikTvd": "2072000534226",
     "tikName": "Майская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2070,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2100,
@@ -725,12 +865,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 3,
-      "Безгодько Владимир Федорович": 54,
-      "Кузьминов Олег Владимирович": 45,
-      "Настаев Алисолтан Магамедович": 193,
-      "Паштов Борис Султанович": 264,
-      "Шхагошев Адальби Люлевич": 1278
+      "2072000540461": 3,
+      "2072000539283": 54,
+      "2072000538933": 45,
+      "2072000538946": 193,
+      "2072000539272": 264,
+      "2072000539261": 1278
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534226&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534226&type=464",
@@ -740,6 +880,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:44:59.985703+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534226&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534226&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -749,8 +893,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 233,
     "uikTvd": "4074005165556",
+    "uikName": "УИК №233",
     "tikTvd": "2072000534227",
     "tikName": "Прохладненская городская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1755,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1755,
@@ -766,12 +914,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 5,
-      "Безгодько Владимир Федорович": 55,
-      "Кузьминов Олег Владимирович": 4,
-      "Настаев Алисолтан Магамедович": 152,
-      "Паштов Борис Султанович": 214,
-      "Шхагошев Адальби Люлевич": 963
+      "2072000540461": 5,
+      "2072000539283": 55,
+      "2072000538933": 4,
+      "2072000538946": 152,
+      "2072000539272": 214,
+      "2072000539261": 963
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534227&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534227&type=464",
@@ -781,6 +929,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:00.954162+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534227&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534227&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -790,8 +942,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 234,
     "uikTvd": "4074005165557",
+    "uikName": "УИК №234",
     "tikTvd": "2072000534227",
     "tikName": "Прохладненская городская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1728,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1728,
@@ -807,12 +963,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 3,
-      "Безгодько Владимир Федорович": 49,
-      "Кузьминов Олег Владимирович": 4,
-      "Настаев Алисолтан Магамедович": 153,
-      "Паштов Борис Султанович": 205,
-      "Шхагошев Адальби Люлевич": 996
+      "2072000540461": 3,
+      "2072000539283": 49,
+      "2072000538933": 4,
+      "2072000538946": 153,
+      "2072000539272": 205,
+      "2072000539261": 996
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534227&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534227&type=464",
@@ -822,6 +978,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:00.954162+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534227&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534227&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -831,8 +991,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 235,
     "uikTvd": "4074005165558",
+    "uikName": "УИК №235",
     "tikTvd": "2072000534227",
     "tikName": "Прохладненская городская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2047,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2050,
@@ -848,12 +1012,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 5,
-      "Безгодько Владимир Федорович": 55,
-      "Кузьминов Олег Владимирович": 15,
-      "Настаев Алисолтан Магамедович": 153,
-      "Паштов Борис Султанович": 273,
-      "Шхагошев Адальби Люлевич": 1311
+      "2072000540461": 5,
+      "2072000539283": 55,
+      "2072000538933": 15,
+      "2072000538946": 153,
+      "2072000539272": 273,
+      "2072000539261": 1311
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534227&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534227&type=464",
@@ -863,6 +1027,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:00.954162+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534227&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534227&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -872,8 +1040,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 236,
     "uikTvd": "4074005165559",
+    "uikName": "УИК №236",
     "tikTvd": "2072000534227",
     "tikName": "Прохладненская городская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2314,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2350,
@@ -889,12 +1061,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 7,
-      "Безгодько Владимир Федорович": 58,
-      "Кузьминов Олег Владимирович": 17,
-      "Настаев Алисолтан Магамедович": 152,
-      "Паштов Борис Султанович": 351,
-      "Шхагошев Адальби Люлевич": 1467
+      "2072000540461": 7,
+      "2072000539283": 58,
+      "2072000538933": 17,
+      "2072000538946": 152,
+      "2072000539272": 351,
+      "2072000539261": 1467
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534227&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534227&type=464",
@@ -904,6 +1076,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:00.954162+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534227&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534227&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -913,8 +1089,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 237,
     "uikTvd": "4074005165560",
+    "uikName": "УИК №237",
     "tikTvd": "2072000534227",
     "tikName": "Прохладненская городская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1930,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1930,
@@ -930,12 +1110,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 0,
-      "Безгодько Владимир Федорович": 54,
-      "Кузьминов Олег Владимирович": 8,
-      "Настаев Алисолтан Магамедович": 153,
-      "Паштов Борис Султанович": 279,
-      "Шхагошев Адальби Люлевич": 1162
+      "2072000540461": 0,
+      "2072000539283": 54,
+      "2072000538933": 8,
+      "2072000538946": 153,
+      "2072000539272": 279,
+      "2072000539261": 1162
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534227&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534227&type=464",
@@ -945,6 +1125,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:00.954162+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534227&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534227&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -954,8 +1138,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 238,
     "uikTvd": "4074005165561",
+    "uikName": "УИК №238",
     "tikTvd": "2072000534227",
     "tikName": "Прохладненская городская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2107,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2100,
@@ -971,12 +1159,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 7,
-      "Безгодько Владимир Федорович": 59,
-      "Кузьминов Олег Владимирович": 17,
-      "Настаев Алисолтан Магамедович": 154,
-      "Паштов Борис Султанович": 350,
-      "Шхагошев Адальби Люлевич": 1286
+      "2072000540461": 7,
+      "2072000539283": 59,
+      "2072000538933": 17,
+      "2072000538946": 154,
+      "2072000539272": 350,
+      "2072000539261": 1286
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534227&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534227&type=464",
@@ -986,6 +1174,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:00.954162+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534227&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534227&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -995,8 +1187,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 239,
     "uikTvd": "4074005165562",
+    "uikName": "УИК №239",
     "tikTvd": "2072000534227",
     "tikName": "Прохладненская городская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1407,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1400,
@@ -1012,12 +1208,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 7,
-      "Безгодько Владимир Федорович": 47,
-      "Кузьминов Олег Владимирович": 15,
-      "Настаев Алисолтан Магамедович": 150,
-      "Паштов Борис Султанович": 170,
-      "Шхагошев Адальби Люлевич": 884
+      "2072000540461": 7,
+      "2072000539283": 47,
+      "2072000538933": 15,
+      "2072000538946": 150,
+      "2072000539272": 170,
+      "2072000539261": 884
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534227&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534227&type=464",
@@ -1027,6 +1223,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:00.954162+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534227&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534227&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -1036,8 +1236,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 240,
     "uikTvd": "4074005165563",
+    "uikName": "УИК №240",
     "tikTvd": "2072000534227",
     "tikName": "Прохладненская городская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1502,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1500,
@@ -1053,12 +1257,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 5,
-      "Безгодько Владимир Федорович": 54,
-      "Кузьминов Олег Владимирович": 16,
-      "Настаев Алисолтан Магамедович": 154,
-      "Паштов Борис Султанович": 193,
-      "Шхагошев Адальби Люлевич": 873
+      "2072000540461": 5,
+      "2072000539283": 54,
+      "2072000538933": 16,
+      "2072000538946": 154,
+      "2072000539272": 193,
+      "2072000539261": 873
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534227&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534227&type=464",
@@ -1068,6 +1272,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:00.954162+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534227&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534227&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -1077,8 +1285,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 241,
     "uikTvd": "4074005165564",
+    "uikName": "УИК №241",
     "tikTvd": "2072000534227",
     "tikName": "Прохладненская городская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1246,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1246,
@@ -1094,12 +1306,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 5,
-      "Безгодько Владимир Федорович": 36,
-      "Кузьминов Олег Владимирович": 1,
-      "Настаев Алисолтан Магамедович": 133,
-      "Паштов Борис Султанович": 175,
-      "Шхагошев Адальби Люлевич": 733
+      "2072000540461": 5,
+      "2072000539283": 36,
+      "2072000538933": 1,
+      "2072000538946": 133,
+      "2072000539272": 175,
+      "2072000539261": 733
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534227&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534227&type=464",
@@ -1109,6 +1321,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:00.954162+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534227&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534227&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -1118,8 +1334,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 242,
     "uikTvd": "4074005165565",
+    "uikName": "УИК №242",
     "tikTvd": "2072000534227",
     "tikName": "Прохладненская городская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2126,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2150,
@@ -1135,12 +1355,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 5,
-      "Безгодько Владимир Федорович": 55,
-      "Кузьминов Олег Владимирович": 15,
-      "Настаев Алисолтан Магамедович": 150,
-      "Паштов Борис Султанович": 332,
-      "Шхагошев Адальби Люлевич": 1232
+      "2072000540461": 5,
+      "2072000539283": 55,
+      "2072000538933": 15,
+      "2072000538946": 150,
+      "2072000539272": 332,
+      "2072000539261": 1232
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534227&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534227&type=464",
@@ -1150,6 +1370,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:00.954162+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534227&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534227&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -1159,8 +1383,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 243,
     "uikTvd": "4074005165566",
+    "uikName": "УИК №243",
     "tikTvd": "2072000534227",
     "tikName": "Прохладненская городская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1225,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1250,
@@ -1176,12 +1404,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 3,
-      "Безгодько Владимир Федорович": 42,
-      "Кузьминов Олег Владимирович": 17,
-      "Настаев Алисолтан Магамедович": 132,
-      "Паштов Борис Султанович": 92,
-      "Шхагошев Адальби Люлевич": 814
+      "2072000540461": 3,
+      "2072000539283": 42,
+      "2072000538933": 17,
+      "2072000538946": 132,
+      "2072000539272": 92,
+      "2072000539261": 814
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534227&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534227&type=464",
@@ -1191,6 +1419,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:00.954162+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534227&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534227&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -1200,8 +1432,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 244,
     "uikTvd": "4074005165567",
+    "uikName": "УИК №244",
     "tikTvd": "2072000534227",
     "tikName": "Прохладненская городская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1685,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1685,
@@ -1217,12 +1453,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 5,
-      "Безгодько Владимир Федорович": 54,
-      "Кузьминов Олег Владимирович": 4,
-      "Настаев Алисолтан Магамедович": 151,
-      "Паштов Борис Султанович": 251,
-      "Шхагошев Адальби Люлевич": 971
+      "2072000540461": 5,
+      "2072000539283": 54,
+      "2072000538933": 4,
+      "2072000538946": 151,
+      "2072000539272": 251,
+      "2072000539261": 971
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534227&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534227&type=464",
@@ -1232,6 +1468,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:00.954162+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534227&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534227&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -1241,8 +1481,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 245,
     "uikTvd": "4074005165568",
+    "uikName": "УИК №245",
     "tikTvd": "2072000534227",
     "tikName": "Прохладненская городская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1982,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2000,
@@ -1258,12 +1502,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 7,
-      "Безгодько Владимир Федорович": 59,
-      "Кузьминов Олег Владимирович": 29,
-      "Настаев Алисолтан Магамедович": 152,
-      "Паштов Борис Султанович": 264,
-      "Шхагошев Адальби Люлевич": 1176
+      "2072000540461": 7,
+      "2072000539283": 59,
+      "2072000538933": 29,
+      "2072000538946": 152,
+      "2072000539272": 264,
+      "2072000539261": 1176
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534227&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534227&type=464",
@@ -1273,6 +1517,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:00.954162+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534227&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534227&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -1282,8 +1530,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 246,
     "uikTvd": "4074005165569",
+    "uikName": "УИК №246",
     "tikTvd": "2072000534227",
     "tikName": "Прохладненская городская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1955,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2000,
@@ -1299,12 +1551,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 5,
-      "Безгодько Владимир Федорович": 58,
-      "Кузьминов Олег Владимирович": 18,
-      "Настаев Алисолтан Магамедович": 154,
-      "Паштов Борис Султанович": 288,
-      "Шхагошев Адальби Люлевич": 1248
+      "2072000540461": 5,
+      "2072000539283": 58,
+      "2072000538933": 18,
+      "2072000538946": 154,
+      "2072000539272": 288,
+      "2072000539261": 1248
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534227&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534227&type=464",
@@ -1314,6 +1566,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:00.954162+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534227&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534227&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -1323,8 +1579,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 247,
     "uikTvd": "4074005165570",
+    "uikName": "УИК №247",
     "tikTvd": "2072000534227",
     "tikName": "Прохладненская городская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2102,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2100,
@@ -1340,12 +1600,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 5,
-      "Безгодько Владимир Федорович": 54,
-      "Кузьминов Олег Владимирович": 24,
-      "Настаев Алисолтан Магамедович": 151,
-      "Паштов Борис Султанович": 230,
-      "Шхагошев Адальби Люлевич": 1350
+      "2072000540461": 5,
+      "2072000539283": 54,
+      "2072000538933": 24,
+      "2072000538946": 151,
+      "2072000539272": 230,
+      "2072000539261": 1350
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534227&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534227&type=464",
@@ -1355,6 +1615,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:00.954162+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534227&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534227&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -1364,8 +1628,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 248,
     "uikTvd": "4074005165571",
+    "uikName": "УИК №248",
     "tikTvd": "2072000534227",
     "tikName": "Прохладненская городская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2060,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2150,
@@ -1381,12 +1649,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 3,
-      "Безгодько Владимир Федорович": 55,
-      "Кузьминов Олег Владимирович": 29,
-      "Настаев Алисолтан Магамедович": 152,
-      "Паштов Борис Султанович": 291,
-      "Шхагошев Адальби Люлевич": 1244
+      "2072000540461": 3,
+      "2072000539283": 55,
+      "2072000538933": 29,
+      "2072000538946": 152,
+      "2072000539272": 291,
+      "2072000539261": 1244
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534227&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534227&type=464",
@@ -1396,6 +1664,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:00.954162+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534227&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534227&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -1405,8 +1677,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 249,
     "uikTvd": "4074005165572",
+    "uikName": "УИК №249",
     "tikTvd": "2072000534227",
     "tikName": "Прохладненская городская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1863,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1900,
@@ -1422,12 +1698,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 5,
-      "Безгодько Владимир Федорович": 54,
-      "Кузьминов Олег Владимирович": 24,
-      "Настаев Алисолтан Магамедович": 152,
-      "Паштов Борис Султанович": 257,
-      "Шхагошев Адальби Люлевич": 1142
+      "2072000540461": 5,
+      "2072000539283": 54,
+      "2072000538933": 24,
+      "2072000538946": 152,
+      "2072000539272": 257,
+      "2072000539261": 1142
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534227&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534227&type=464",
@@ -1437,6 +1713,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:00.954162+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534227&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534227&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -1446,8 +1726,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 250,
     "uikTvd": "4074005165573",
+    "uikName": "УИК №250",
     "tikTvd": "2072000534227",
     "tikName": "Прохладненская городская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1958,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2000,
@@ -1463,12 +1747,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 7,
-      "Безгодько Владимир Федорович": 59,
-      "Кузьминов Олег Владимирович": 26,
-      "Настаев Алисолтан Магамедович": 202,
-      "Паштов Борис Султанович": 193,
-      "Шхагошев Адальби Люлевич": 1273
+      "2072000540461": 7,
+      "2072000539283": 59,
+      "2072000538933": 26,
+      "2072000538946": 202,
+      "2072000539272": 193,
+      "2072000539261": 1273
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534227&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534227&type=464",
@@ -1478,6 +1762,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:00.954162+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534227&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534227&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -1487,8 +1775,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 251,
     "uikTvd": "4074005165574",
+    "uikName": "УИК №251",
     "tikTvd": "2072000534227",
     "tikName": "Прохладненская городская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1884,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1900,
@@ -1504,12 +1796,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 7,
-      "Безгодько Владимир Федорович": 61,
-      "Кузьминов Олег Владимирович": 18,
-      "Настаев Алисолтан Магамедович": 174,
-      "Паштов Борис Султанович": 189,
-      "Шхагошев Адальби Люлевич": 1246
+      "2072000540461": 7,
+      "2072000539283": 61,
+      "2072000538933": 18,
+      "2072000538946": 174,
+      "2072000539272": 189,
+      "2072000539261": 1246
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534227&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534227&type=464",
@@ -1519,6 +1811,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:00.954162+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534227&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534227&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -1528,8 +1824,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 252,
     "uikTvd": "4074005165575",
+    "uikName": "УИК №252",
     "tikTvd": "2072000534227",
     "tikName": "Прохладненская городская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1257,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1300,
@@ -1545,12 +1845,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 3,
-      "Безгодько Владимир Федорович": 35,
-      "Кузьминов Олег Владимирович": 19,
-      "Настаев Алисолтан Магамедович": 150,
-      "Паштов Борис Султанович": 147,
-      "Шхагошев Адальби Люлевич": 767
+      "2072000540461": 3,
+      "2072000539283": 35,
+      "2072000538933": 19,
+      "2072000538946": 150,
+      "2072000539272": 147,
+      "2072000539261": 767
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534227&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534227&type=464",
@@ -1560,6 +1860,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:00.954162+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534227&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534227&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -1569,8 +1873,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 43,
     "uikTvd": "4074002212310",
+    "uikName": "УИК №43",
     "tikTvd": "2072000534228",
     "tikName": "Зольская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 522,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 520,
@@ -1586,12 +1894,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 3,
-      "Безгодько Владимир Федорович": 20,
-      "Кузьминов Олег Владимирович": 15,
-      "Настаев Алисолтан Магамедович": 59,
-      "Паштов Борис Султанович": 45,
-      "Шхагошев Адальби Люлевич": 294
+      "2072000540461": 3,
+      "2072000539283": 20,
+      "2072000538933": 15,
+      "2072000538946": 59,
+      "2072000539272": 45,
+      "2072000539261": 294
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534228&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534228&type=464",
@@ -1601,6 +1909,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:01.441645+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534228&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534228&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -1610,8 +1922,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 44,
     "uikTvd": "4074002212311",
+    "uikName": "УИК №44",
     "tikTvd": "2072000534228",
     "tikName": "Зольская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1480,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1500,
@@ -1627,12 +1943,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 3,
-      "Безгодько Владимир Федорович": 41,
-      "Кузьминов Олег Владимирович": 16,
-      "Настаев Алисолтан Магамедович": 147,
-      "Паштов Борис Султанович": 173,
-      "Шхагошев Адальби Люлевич": 891
+      "2072000540461": 3,
+      "2072000539283": 41,
+      "2072000538933": 16,
+      "2072000538946": 147,
+      "2072000539272": 173,
+      "2072000539261": 891
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534228&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534228&type=464",
@@ -1642,6 +1958,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:01.441645+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534228&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534228&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -1651,8 +1971,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 45,
     "uikTvd": "4074002212312",
+    "uikName": "УИК №45",
     "tikTvd": "2072000534228",
     "tikName": "Зольская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1052,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1050,
@@ -1668,12 +1992,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 5,
-      "Безгодько Владимир Федорович": 29,
-      "Кузьминов Олег Владимирович": 15,
-      "Настаев Алисолтан Магамедович": 119,
-      "Паштов Борис Султанович": 93,
-      "Шхагошев Адальби Люлевич": 612
+      "2072000540461": 5,
+      "2072000539283": 29,
+      "2072000538933": 15,
+      "2072000538946": 119,
+      "2072000539272": 93,
+      "2072000539261": 612
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534228&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534228&type=464",
@@ -1683,6 +2007,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:01.441645+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534228&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534228&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -1692,8 +2020,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 46,
     "uikTvd": "4074002212313",
+    "uikName": "УИК №46",
     "tikTvd": "2072000534228",
     "tikName": "Зольская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 405,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 400,
@@ -1709,12 +2041,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 3,
-      "Безгодько Владимир Федорович": 19,
-      "Кузьминов Олег Владимирович": 16,
-      "Настаев Алисолтан Магамедович": 49,
-      "Паштов Борис Султанович": 48,
-      "Шхагошев Адальби Люлевич": 217
+      "2072000540461": 3,
+      "2072000539283": 19,
+      "2072000538933": 16,
+      "2072000538946": 49,
+      "2072000539272": 48,
+      "2072000539261": 217
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534228&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534228&type=464",
@@ -1724,6 +2056,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:01.441645+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534228&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534228&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -1733,8 +2069,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 47,
     "uikTvd": "4074002212314",
+    "uikName": "УИК №47",
     "tikTvd": "2072000534228",
     "tikName": "Зольская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 168,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 170,
@@ -1750,12 +2090,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 1,
-      "Безгодько Владимир Федорович": 4,
-      "Кузьминов Олег Владимирович": 5,
-      "Настаев Алисолтан Магамедович": 12,
-      "Паштов Борис Султанович": 23,
-      "Шхагошев Адальби Люлевич": 99
+      "2072000540461": 1,
+      "2072000539283": 4,
+      "2072000538933": 5,
+      "2072000538946": 12,
+      "2072000539272": 23,
+      "2072000539261": 99
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534228&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534228&type=464",
@@ -1765,6 +2105,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:01.441645+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534228&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534228&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -1774,8 +2118,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 48,
     "uikTvd": "4074002212315",
+    "uikName": "УИК №48",
     "tikTvd": "2072000534228",
     "tikName": "Зольская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1039,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1050,
@@ -1791,12 +2139,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 3,
-      "Безгодько Владимир Федорович": 29,
-      "Кузьминов Олег Владимирович": 17,
-      "Настаев Алисолтан Магамедович": 92,
-      "Паштов Борис Султанович": 135,
-      "Шхагошев Адальби Люлевич": 656
+      "2072000540461": 3,
+      "2072000539283": 29,
+      "2072000538933": 17,
+      "2072000538946": 92,
+      "2072000539272": 135,
+      "2072000539261": 656
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534228&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534228&type=464",
@@ -1806,6 +2154,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:01.441645+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534228&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534228&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -1815,8 +2167,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 49,
     "uikTvd": "4074002212316",
+    "uikName": "УИК №49",
     "tikTvd": "2072000534228",
     "tikName": "Зольская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 857,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 860,
@@ -1832,12 +2188,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 7,
-      "Безгодько Владимир Федорович": 35,
-      "Кузьминов Олег Владимирович": 16,
-      "Настаев Алисолтан Магамедович": 89,
-      "Паштов Борис Султанович": 98,
-      "Шхагошев Адальби Люлевич": 497
+      "2072000540461": 7,
+      "2072000539283": 35,
+      "2072000538933": 16,
+      "2072000538946": 89,
+      "2072000539272": 98,
+      "2072000539261": 497
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534228&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534228&type=464",
@@ -1847,6 +2203,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:01.441645+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534228&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534228&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -1856,8 +2216,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 50,
     "uikTvd": "4074002212317",
+    "uikName": "УИК №50",
     "tikTvd": "2072000534228",
     "tikName": "Зольская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1689,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1700,
@@ -1873,12 +2237,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 5,
-      "Безгодько Владимир Федорович": 56,
-      "Кузьминов Олег Владимирович": 15,
-      "Настаев Алисолтан Магамедович": 151,
-      "Паштов Борис Султанович": 208,
-      "Шхагошев Адальби Люлевич": 1025
+      "2072000540461": 5,
+      "2072000539283": 56,
+      "2072000538933": 15,
+      "2072000538946": 151,
+      "2072000539272": 208,
+      "2072000539261": 1025
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534228&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534228&type=464",
@@ -1888,6 +2252,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:01.441645+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534228&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534228&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -1897,8 +2265,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 51,
     "uikTvd": "4074002212318",
+    "uikName": "УИК №51",
     "tikTvd": "2072000534228",
     "tikName": "Зольская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1315,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1330,
@@ -1914,12 +2286,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 5,
-      "Безгодько Владимир Федорович": 54,
-      "Кузьминов Олег Владимирович": 16,
-      "Настаев Алисолтан Магамедович": 130,
-      "Паштов Борис Султанович": 193,
-      "Шхагошев Адальби Люлевич": 738
+      "2072000540461": 5,
+      "2072000539283": 54,
+      "2072000538933": 16,
+      "2072000538946": 130,
+      "2072000539272": 193,
+      "2072000539261": 738
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534228&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534228&type=464",
@@ -1929,6 +2301,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:01.441645+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534228&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534228&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -1938,8 +2314,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 52,
     "uikTvd": "4074002212319",
+    "uikName": "УИК №52",
     "tikTvd": "2072000534228",
     "tikName": "Зольская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 741,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 740,
@@ -1955,12 +2335,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 5,
-      "Безгодько Владимир Федорович": 22,
-      "Кузьминов Олег Владимирович": 17,
-      "Настаев Алисолтан Магамедович": 79,
-      "Паштов Борис Султанович": 83,
-      "Шхагошев Адальби Люлевич": 424
+      "2072000540461": 5,
+      "2072000539283": 22,
+      "2072000538933": 17,
+      "2072000538946": 79,
+      "2072000539272": 83,
+      "2072000539261": 424
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534228&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534228&type=464",
@@ -1970,6 +2350,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:01.441645+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534228&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534228&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -1979,8 +2363,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 53,
     "uikTvd": "4074002212320",
+    "uikName": "УИК №53",
     "tikTvd": "2072000534228",
     "tikName": "Зольская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1539,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1520,
@@ -1996,12 +2384,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 3,
-      "Безгодько Владимир Федорович": 55,
-      "Кузьминов Олег Владимирович": 17,
-      "Настаев Алисолтан Магамедович": 149,
-      "Паштов Борис Султанович": 172,
-      "Шхагошев Адальби Люлевич": 782
+      "2072000540461": 3,
+      "2072000539283": 55,
+      "2072000538933": 17,
+      "2072000538946": 149,
+      "2072000539272": 172,
+      "2072000539261": 782
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534228&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534228&type=464",
@@ -2011,6 +2399,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:01.441645+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534228&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534228&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -2020,8 +2412,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 54,
     "uikTvd": "4074002212321",
+    "uikName": "УИК №54",
     "tikTvd": "2072000534228",
     "tikName": "Зольская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1181,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1180,
@@ -2037,12 +2433,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 7,
-      "Безгодько Владимир Федорович": 44,
-      "Кузьминов Олег Владимирович": 18,
-      "Настаев Алисолтан Магамедович": 131,
-      "Паштов Борис Султанович": 121,
-      "Шхагошев Адальби Люлевич": 676
+      "2072000540461": 7,
+      "2072000539283": 44,
+      "2072000538933": 18,
+      "2072000538946": 131,
+      "2072000539272": 121,
+      "2072000539261": 676
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534228&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534228&type=464",
@@ -2052,6 +2448,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:01.441645+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534228&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534228&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -2061,8 +2461,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 55,
     "uikTvd": "4074002212322",
+    "uikName": "УИК №55",
     "tikTvd": "2072000534228",
     "tikName": "Зольская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1396,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1400,
@@ -2078,12 +2482,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 7,
-      "Безгодько Владимир Федорович": 55,
-      "Кузьминов Олег Владимирович": 16,
-      "Настаев Алисолтан Магамедович": 153,
-      "Паштов Борис Султанович": 151,
-      "Шхагошев Адальби Люлевич": 851
+      "2072000540461": 7,
+      "2072000539283": 55,
+      "2072000538933": 16,
+      "2072000538946": 153,
+      "2072000539272": 151,
+      "2072000539261": 851
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534228&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534228&type=464",
@@ -2093,6 +2497,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:01.441645+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534228&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534228&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -2102,8 +2510,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 56,
     "uikTvd": "4074002212323",
+    "uikName": "УИК №56",
     "tikTvd": "2072000534228",
     "tikName": "Зольская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1757,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1770,
@@ -2119,12 +2531,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 7,
-      "Безгодько Владимир Федорович": 54,
-      "Кузьминов Олег Владимирович": 16,
-      "Настаев Алисолтан Магамедович": 154,
-      "Паштов Борис Султанович": 238,
-      "Шхагошев Адальби Люлевич": 1100
+      "2072000540461": 7,
+      "2072000539283": 54,
+      "2072000538933": 16,
+      "2072000538946": 154,
+      "2072000539272": 238,
+      "2072000539261": 1100
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534228&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534228&type=464",
@@ -2134,6 +2546,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:01.441645+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534228&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534228&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -2143,8 +2559,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 57,
     "uikTvd": "4074002212324",
+    "uikName": "УИК №57",
     "tikTvd": "2072000534228",
     "tikName": "Зольская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1533,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1560,
@@ -2160,12 +2580,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 5,
-      "Безгодько Владимир Федорович": 54,
-      "Кузьминов Олег Владимирович": 19,
-      "Настаев Алисолтан Магамедович": 149,
-      "Паштов Борис Султанович": 170,
-      "Шхагошев Адальби Люлевич": 880
+      "2072000540461": 5,
+      "2072000539283": 54,
+      "2072000538933": 19,
+      "2072000538946": 149,
+      "2072000539272": 170,
+      "2072000539261": 880
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534228&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534228&type=464",
@@ -2175,6 +2595,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:01.441645+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534228&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534228&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -2184,8 +2608,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 58,
     "uikTvd": "4074002212325",
+    "uikName": "УИК №58",
     "tikTvd": "2072000534228",
     "tikName": "Зольская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1802,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1830,
@@ -2201,12 +2629,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 5,
-      "Безгодько Владимир Федорович": 56,
-      "Кузьминов Олег Владимирович": 15,
-      "Настаев Алисолтан Магамедович": 154,
-      "Паштов Борис Султанович": 264,
-      "Шхагошев Адальби Люлевич": 1131
+      "2072000540461": 5,
+      "2072000539283": 56,
+      "2072000538933": 15,
+      "2072000538946": 154,
+      "2072000539272": 264,
+      "2072000539261": 1131
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534228&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534228&type=464",
@@ -2216,6 +2644,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:01.441645+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534228&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534228&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -2225,8 +2657,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 59,
     "uikTvd": "4074002212326",
+    "uikName": "УИК №59",
     "tikTvd": "2072000534228",
     "tikName": "Зольская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 415,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 410,
@@ -2242,12 +2678,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 3,
-      "Безгодько Владимир Федорович": 15,
-      "Кузьминов Олег Владимирович": 5,
-      "Настаев Алисолтан Магамедович": 47,
-      "Паштов Борис Султанович": 50,
-      "Шхагошев Адальби Люлевич": 229
+      "2072000540461": 3,
+      "2072000539283": 15,
+      "2072000538933": 5,
+      "2072000538946": 47,
+      "2072000539272": 50,
+      "2072000539261": 229
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534228&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534228&type=464",
@@ -2257,6 +2693,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:01.441645+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534228&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534228&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -2266,8 +2706,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 60,
     "uikTvd": "4074002212327",
+    "uikName": "УИК №60",
     "tikTvd": "2072000534228",
     "tikName": "Зольская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1014,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1020,
@@ -2283,12 +2727,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 5,
-      "Безгодько Владимир Федорович": 36,
-      "Кузьминов Олег Владимирович": 17,
-      "Настаев Алисолтан Магамедович": 112,
-      "Паштов Борис Султанович": 126,
-      "Шхагошев Адальби Люлевич": 586
+      "2072000540461": 5,
+      "2072000539283": 36,
+      "2072000538933": 17,
+      "2072000538946": 112,
+      "2072000539272": 126,
+      "2072000539261": 586
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534228&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534228&type=464",
@@ -2298,6 +2742,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:01.441645+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534228&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534228&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -2307,8 +2755,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 61,
     "uikTvd": "4074002212328",
+    "uikName": "УИК №61",
     "tikTvd": "2072000534228",
     "tikName": "Зольская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1122,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1130,
@@ -2324,12 +2776,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 5,
-      "Безгодько Владимир Федорович": 30,
-      "Кузьминов Олег Владимирович": 17,
-      "Настаев Алисолтан Магамедович": 152,
-      "Паштов Борис Султанович": 123,
-      "Шхагошев Адальби Люлевич": 607
+      "2072000540461": 5,
+      "2072000539283": 30,
+      "2072000538933": 17,
+      "2072000538946": 152,
+      "2072000539272": 123,
+      "2072000539261": 607
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534228&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534228&type=464",
@@ -2339,6 +2791,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:01.441645+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534228&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534228&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -2348,8 +2804,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 62,
     "uikTvd": "4074002212329",
+    "uikName": "УИК №62",
     "tikTvd": "2072000534228",
     "tikName": "Зольская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1128,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1140,
@@ -2365,12 +2825,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 7,
-      "Безгодько Владимир Федорович": 39,
-      "Кузьминов Олег Владимирович": 16,
-      "Настаев Алисолтан Магамедович": 147,
-      "Паштов Борис Султанович": 86,
-      "Шхагошев Адальби Люлевич": 647
+      "2072000540461": 7,
+      "2072000539283": 39,
+      "2072000538933": 16,
+      "2072000538946": 147,
+      "2072000539272": 86,
+      "2072000539261": 647
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534228&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534228&type=464",
@@ -2380,6 +2840,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:01.441645+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534228&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534228&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -2389,8 +2853,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 63,
     "uikTvd": "4074002212330",
+    "uikName": "УИК №63",
     "tikTvd": "2072000534228",
     "tikName": "Зольская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1084,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1080,
@@ -2406,12 +2874,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 5,
-      "Безгодько Владимир Федорович": 56,
-      "Кузьминов Олег Владимирович": 16,
-      "Настаев Алисолтан Магамедович": 106,
-      "Паштов Борис Султанович": 111,
-      "Шхагошев Адальби Люлевич": 661
+      "2072000540461": 5,
+      "2072000539283": 56,
+      "2072000538933": 16,
+      "2072000538946": 106,
+      "2072000539272": 111,
+      "2072000539261": 661
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534228&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534228&type=464",
@@ -2421,6 +2889,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:01.441645+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534228&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534228&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -2430,8 +2902,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 64,
     "uikTvd": "4074002212331",
+    "uikName": "УИК №64",
     "tikTvd": "2072000534228",
     "tikName": "Зольская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 976,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 970,
@@ -2447,12 +2923,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 7,
-      "Безгодько Владимир Федорович": 41,
-      "Кузьминов Олег Владимирович": 16,
-      "Настаев Алисолтан Магамедович": 93,
-      "Паштов Борис Султанович": 78,
-      "Шхагошев Адальби Люлевич": 589
+      "2072000540461": 7,
+      "2072000539283": 41,
+      "2072000538933": 16,
+      "2072000538946": 93,
+      "2072000539272": 78,
+      "2072000539261": 589
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534228&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534228&type=464",
@@ -2462,6 +2938,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:01.441645+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534228&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534228&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -2471,8 +2951,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 65,
     "uikTvd": "4074002212332",
+    "uikName": "УИК №65",
     "tikTvd": "2072000534228",
     "tikName": "Зольская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2025,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2000,
@@ -2488,12 +2972,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 3,
-      "Безгодько Владимир Федорович": 56,
-      "Кузьминов Олег Владимирович": 31,
-      "Настаев Алисолтан Магамедович": 154,
-      "Паштов Борис Султанович": 267,
-      "Шхагошев Адальби Люлевич": 1254
+      "2072000540461": 3,
+      "2072000539283": 56,
+      "2072000538933": 31,
+      "2072000538946": 154,
+      "2072000539272": 267,
+      "2072000539261": 1254
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534228&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534228&type=464",
@@ -2503,6 +2987,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:01.441645+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534228&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534228&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -2512,8 +3000,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 66,
     "uikTvd": "4074002212333",
+    "uikName": "УИК №66",
     "tikTvd": "2072000534228",
     "tikName": "Зольская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1732,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1770,
@@ -2529,12 +3021,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 7,
-      "Безгодько Владимир Федорович": 55,
-      "Кузьминов Олег Владимирович": 16,
-      "Настаев Алисолтан Магамедович": 149,
-      "Паштов Борис Султанович": 220,
-      "Шхагошев Адальби Люлевич": 1044
+      "2072000540461": 7,
+      "2072000539283": 55,
+      "2072000538933": 16,
+      "2072000538946": 149,
+      "2072000539272": 220,
+      "2072000539261": 1044
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534228&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534228&type=464",
@@ -2544,6 +3036,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:01.441645+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534228&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534228&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -2553,8 +3049,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 67,
     "uikTvd": "4074002212334",
+    "uikName": "УИК №67",
     "tikTvd": "2072000534228",
     "tikName": "Зольская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1195,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1200,
@@ -2570,12 +3070,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 7,
-      "Безгодько Владимир Федорович": 54,
-      "Кузьминов Олег Владимирович": 16,
-      "Настаев Алисолтан Магамедович": 126,
-      "Паштов Борис Султанович": 131,
-      "Шхагошев Адальби Люлевич": 723
+      "2072000540461": 7,
+      "2072000539283": 54,
+      "2072000538933": 16,
+      "2072000538946": 126,
+      "2072000539272": 131,
+      "2072000539261": 723
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534228&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534228&type=464",
@@ -2585,6 +3085,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:01.441645+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534228&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534228&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -2594,8 +3098,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 318,
     "uikTvd": "4074010180048",
+    "uikName": "УИК №318",
     "tikTvd": "2072000534229",
     "tikName": "Черекская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 787,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 800,
@@ -2611,12 +3119,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 2,
-      "Безгодько Владимир Федорович": 24,
-      "Кузьминов Олег Владимирович": 16,
-      "Настаев Алисолтан Магамедович": 87,
-      "Паштов Борис Султанович": 87,
-      "Шхагошев Адальби Люлевич": 471
+      "2072000540461": 2,
+      "2072000539283": 24,
+      "2072000538933": 16,
+      "2072000538946": 87,
+      "2072000539272": 87,
+      "2072000539261": 471
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534229&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534229&type=464",
@@ -2626,6 +3134,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:01.788175+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534229&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534229&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -2635,8 +3147,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 319,
     "uikTvd": "4074010180049",
+    "uikName": "УИК №319",
     "tikTvd": "2072000534229",
     "tikName": "Черекская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1304,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1300,
@@ -2652,12 +3168,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 3,
-      "Безгодько Владимир Федорович": 33,
-      "Кузьминов Олег Владимирович": 16,
-      "Настаев Алисолтан Магамедович": 123,
-      "Паштов Борис Султанович": 210,
-      "Шхагошев Адальби Люлевич": 733
+      "2072000540461": 3,
+      "2072000539283": 33,
+      "2072000538933": 16,
+      "2072000538946": 123,
+      "2072000539272": 210,
+      "2072000539261": 733
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534229&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534229&type=464",
@@ -2667,6 +3183,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:01.788175+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534229&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534229&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -2676,8 +3196,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 320,
     "uikTvd": "4074010180050",
+    "uikName": "УИК №320",
     "tikTvd": "2072000534229",
     "tikName": "Черекская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1925,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1900,
@@ -2693,12 +3217,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 5,
-      "Безгодько Владимир Федорович": 67,
-      "Кузьминов Олег Владимирович": 25,
-      "Настаев Алисолтан Магамедович": 196,
-      "Паштов Борис Султанович": 305,
-      "Шхагошев Адальби Люлевич": 1126
+      "2072000540461": 5,
+      "2072000539283": 67,
+      "2072000538933": 25,
+      "2072000538946": 196,
+      "2072000539272": 305,
+      "2072000539261": 1126
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534229&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534229&type=464",
@@ -2708,6 +3232,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:01.788175+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534229&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534229&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -2717,8 +3245,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 321,
     "uikTvd": "4074010180051",
+    "uikName": "УИК №321",
     "tikTvd": "2072000534229",
     "tikName": "Черекская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1052,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1050,
@@ -2734,12 +3266,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 2,
-      "Безгодько Владимир Федорович": 32,
-      "Кузьминов Олег Владимирович": 17,
-      "Настаев Алисолтан Магамедович": 107,
-      "Паштов Борис Султанович": 131,
-      "Шхагошев Адальби Люлевич": 604
+      "2072000540461": 2,
+      "2072000539283": 32,
+      "2072000538933": 17,
+      "2072000538946": 107,
+      "2072000539272": 131,
+      "2072000539261": 604
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534229&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534229&type=464",
@@ -2749,6 +3281,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:01.788175+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534229&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534229&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -2758,8 +3294,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 322,
     "uikTvd": "4074010180052",
+    "uikName": "УИК №322",
     "tikTvd": "2072000534229",
     "tikName": "Черекская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1241,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1240,
@@ -2775,12 +3315,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 1,
-      "Безгодько Владимир Федорович": 46,
-      "Кузьминов Олег Владимирович": 15,
-      "Настаев Алисолтан Магамедович": 152,
-      "Паштов Борис Султанович": 136,
-      "Шхагошев Адальби Люлевич": 758
+      "2072000540461": 1,
+      "2072000539283": 46,
+      "2072000538933": 15,
+      "2072000538946": 152,
+      "2072000539272": 136,
+      "2072000539261": 758
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534229&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534229&type=464",
@@ -2790,6 +3330,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:01.788175+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534229&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534229&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -2799,8 +3343,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 323,
     "uikTvd": "4074010180053",
+    "uikName": "УИК №323",
     "tikTvd": "2072000534229",
     "tikName": "Черекская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1117,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1110,
@@ -2816,12 +3364,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 3,
-      "Безгодько Владимир Федорович": 54,
-      "Кузьминов Олег Владимирович": 16,
-      "Настаев Алисолтан Магамедович": 149,
-      "Паштов Борис Султанович": 75,
-      "Шхагошев Адальби Люлевич": 685
+      "2072000540461": 3,
+      "2072000539283": 54,
+      "2072000538933": 16,
+      "2072000538946": 149,
+      "2072000539272": 75,
+      "2072000539261": 685
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534229&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534229&type=464",
@@ -2831,6 +3379,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:01.788175+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534229&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534229&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -2840,8 +3392,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 324,
     "uikTvd": "4074010180054",
+    "uikName": "УИК №324",
     "tikTvd": "2072000534229",
     "tikName": "Черекская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1127,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1120,
@@ -2857,12 +3413,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 2,
-      "Безгодько Владимир Федорович": 45,
-      "Кузьминов Олег Владимирович": 26,
-      "Настаев Алисолтан Магамедович": 135,
-      "Паштов Борис Султанович": 124,
-      "Шхагошев Адальби Люлевич": 652
+      "2072000540461": 2,
+      "2072000539283": 45,
+      "2072000538933": 26,
+      "2072000538946": 135,
+      "2072000539272": 124,
+      "2072000539261": 652
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534229&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534229&type=464",
@@ -2872,6 +3428,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:01.788175+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534229&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534229&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -2881,8 +3441,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 325,
     "uikTvd": "4074010180055",
+    "uikName": "УИК №325",
     "tikTvd": "2072000534229",
     "tikName": "Черекская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1483,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1480,
@@ -2898,12 +3462,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 2,
-      "Безгодько Владимир Федорович": 49,
-      "Кузьминов Олег Владимирович": 17,
-      "Настаев Алисолтан Магамедович": 186,
-      "Паштов Борис Султанович": 179,
-      "Шхагошев Адальби Люлевич": 886
+      "2072000540461": 2,
+      "2072000539283": 49,
+      "2072000538933": 17,
+      "2072000538946": 186,
+      "2072000539272": 179,
+      "2072000539261": 886
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534229&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534229&type=464",
@@ -2913,6 +3477,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:01.788175+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534229&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534229&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -2922,8 +3490,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 326,
     "uikTvd": "4074010180056",
+    "uikName": "УИК №326",
     "tikTvd": "2072000534229",
     "tikName": "Черекская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1199,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1200,
@@ -2939,12 +3511,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 3,
-      "Безгодько Владимир Федорович": 56,
-      "Кузьминов Олег Владимирович": 15,
-      "Настаев Алисолтан Магамедович": 148,
-      "Паштов Борис Султанович": 106,
-      "Шхагошев Адальби Люлевич": 723
+      "2072000540461": 3,
+      "2072000539283": 56,
+      "2072000538933": 15,
+      "2072000538946": 148,
+      "2072000539272": 106,
+      "2072000539261": 723
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534229&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534229&type=464",
@@ -2954,6 +3526,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:01.788175+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534229&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534229&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -2963,8 +3539,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 329,
     "uikTvd": "4074010180057",
+    "uikName": "УИК №329",
     "tikTvd": "2072000534229",
     "tikName": "Черекская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 626,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 620,
@@ -2980,12 +3560,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 3,
-      "Безгодько Владимир Федорович": 29,
-      "Кузьминов Олег Владимирович": 9,
-      "Настаев Алисолтан Магамедович": 63,
-      "Паштов Борис Султанович": 22,
-      "Шхагошев Адальби Люлевич": 351
+      "2072000540461": 3,
+      "2072000539283": 29,
+      "2072000538933": 9,
+      "2072000538946": 63,
+      "2072000539272": 22,
+      "2072000539261": 351
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534229&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534229&type=464",
@@ -2995,6 +3575,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:01.788175+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534229&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534229&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -3004,8 +3588,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 330,
     "uikTvd": "4074010180058",
+    "uikName": "УИК №330",
     "tikTvd": "2072000534229",
     "tikName": "Черекская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 323,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 320,
@@ -3021,12 +3609,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 3,
-      "Безгодько Владимир Федорович": 20,
-      "Кузьминов Олег Владимирович": 6,
-      "Настаев Алисолтан Магамедович": 43,
-      "Паштов Борис Султанович": 26,
-      "Шхагошев Адальби Люлевич": 175
+      "2072000540461": 3,
+      "2072000539283": 20,
+      "2072000538933": 6,
+      "2072000538946": 43,
+      "2072000539272": 26,
+      "2072000539261": 175
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534229&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534229&type=464",
@@ -3036,6 +3624,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:01.788175+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534229&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534229&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -3045,8 +3637,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 331,
     "uikTvd": "4074010180059",
+    "uikName": "УИК №331",
     "tikTvd": "2072000534229",
     "tikName": "Черекская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2163,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2160,
@@ -3062,12 +3658,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 3,
-      "Безгодько Владимир Федорович": 75,
-      "Кузьминов Олег Владимирович": 19,
-      "Настаев Алисолтан Магамедович": 217,
-      "Паштов Борис Султанович": 284,
-      "Шхагошев Адальби Люлевич": 1279
+      "2072000540461": 3,
+      "2072000539283": 75,
+      "2072000538933": 19,
+      "2072000538946": 217,
+      "2072000539272": 284,
+      "2072000539261": 1279
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534229&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534229&type=464",
@@ -3077,6 +3673,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:01.788175+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534229&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534229&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -3086,8 +3686,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 332,
     "uikTvd": "4074010180060",
+    "uikName": "УИК №332",
     "tikTvd": "2072000534229",
     "tikName": "Черекская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1127,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1120,
@@ -3103,12 +3707,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 3,
-      "Безгодько Владимир Федорович": 29,
-      "Кузьминов Олег Владимирович": 16,
-      "Настаев Алисолтан Магамедович": 151,
-      "Паштов Борис Султанович": 128,
-      "Шхагошев Адальби Люлевич": 646
+      "2072000540461": 3,
+      "2072000539283": 29,
+      "2072000538933": 16,
+      "2072000538946": 151,
+      "2072000539272": 128,
+      "2072000539261": 646
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534229&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534229&type=464",
@@ -3118,6 +3722,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:01.788175+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534229&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534229&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -3127,8 +3735,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 333,
     "uikTvd": "4074010180061",
+    "uikName": "УИК №333",
     "tikTvd": "2072000534229",
     "tikName": "Черекская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2494,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2500,
@@ -3144,12 +3756,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 2,
-      "Безгодько Владимир Федорович": 77,
-      "Кузьминов Олег Владимирович": 28,
-      "Настаев Алисолтан Магамедович": 259,
-      "Паштов Борис Султанович": 332,
-      "Шхагошев Адальби Люлевич": 1456
+      "2072000540461": 2,
+      "2072000539283": 77,
+      "2072000538933": 28,
+      "2072000538946": 259,
+      "2072000539272": 332,
+      "2072000539261": 1456
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534229&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534229&type=464",
@@ -3159,6 +3771,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:01.788175+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534229&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534229&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -3168,8 +3784,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 277,
     "uikTvd": "4074008184840",
+    "uikName": "УИК №277",
     "tikTvd": "2072000534230",
     "tikName": "Урванская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2772,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2772,
@@ -3185,12 +3805,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 7,
-      "Безгодько Владимир Федорович": 89,
-      "Кузьминов Олег Владимирович": 16,
-      "Настаев Алисолтан Магамедович": 306,
-      "Паштов Борис Султанович": 363,
-      "Шхагошев Адальби Люлевич": 1643
+      "2072000540461": 7,
+      "2072000539283": 89,
+      "2072000538933": 16,
+      "2072000538946": 306,
+      "2072000539272": 363,
+      "2072000539261": 1643
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534230&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534230&type=464",
@@ -3200,6 +3820,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:46:46.425019+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534230&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534230&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -3209,8 +3833,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 278,
     "uikTvd": "4074008184841",
+    "uikName": "УИК №278",
     "tikTvd": "2072000534230",
     "tikName": "Урванская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1688,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1688,
@@ -3226,12 +3854,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 5,
-      "Безгодько Владимир Федорович": 61,
-      "Кузьминов Олег Владимирович": 16,
-      "Настаев Алисолтан Магамедович": 183,
-      "Паштов Борис Султанович": 167,
-      "Шхагошев Адальби Люлевич": 1055
+      "2072000540461": 5,
+      "2072000539283": 61,
+      "2072000538933": 16,
+      "2072000538946": 183,
+      "2072000539272": 167,
+      "2072000539261": 1055
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534230&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534230&type=464",
@@ -3241,6 +3869,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:46:46.425019+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534230&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534230&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -3250,8 +3882,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 279,
     "uikTvd": "4074008184842",
+    "uikName": "УИК №279",
     "tikTvd": "2072000534230",
     "tikName": "Урванская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 784,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 784,
@@ -3267,12 +3903,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 3,
-      "Безгодько Владимир Федорович": 33,
-      "Кузьминов Олег Владимирович": 18,
-      "Настаев Алисолтан Магамедович": 87,
-      "Паштов Борис Султанович": 32,
-      "Шхагошев Адальби Люлевич": 502
+      "2072000540461": 3,
+      "2072000539283": 33,
+      "2072000538933": 18,
+      "2072000538946": 87,
+      "2072000539272": 32,
+      "2072000539261": 502
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534230&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534230&type=464",
@@ -3282,6 +3918,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:46:46.425019+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534230&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534230&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -3291,8 +3931,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 280,
     "uikTvd": "4074008184843",
+    "uikName": "УИК №280",
     "tikTvd": "2072000534230",
     "tikName": "Урванская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 813,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 813,
@@ -3308,12 +3952,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 3,
-      "Безгодько Владимир Федорович": 33,
-      "Кузьминов Олег Владимирович": 19,
-      "Настаев Алисолтан Магамедович": 97,
-      "Паштов Борис Султанович": 81,
-      "Шхагошев Адальби Люлевич": 478
+      "2072000540461": 3,
+      "2072000539283": 33,
+      "2072000538933": 19,
+      "2072000538946": 97,
+      "2072000539272": 81,
+      "2072000539261": 478
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534230&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534230&type=464",
@@ -3323,6 +3967,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:46:46.425019+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534230&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534230&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -3332,8 +3980,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 281,
     "uikTvd": "4074008184844",
+    "uikName": "УИК №281",
     "tikTvd": "2072000534230",
     "tikName": "Урванская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1725,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1725,
@@ -3349,12 +4001,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 7,
-      "Безгодько Владимир Федорович": 54,
-      "Кузьминов Олег Владимирович": 16,
-      "Настаев Алисолтан Магамедович": 176,
-      "Паштов Борис Султанович": 227,
-      "Шхагошев Адальби Люлевич": 1022
+      "2072000540461": 7,
+      "2072000539283": 54,
+      "2072000538933": 16,
+      "2072000538946": 176,
+      "2072000539272": 227,
+      "2072000539261": 1022
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534230&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534230&type=464",
@@ -3364,6 +4016,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:46:46.425019+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534230&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534230&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -3373,8 +4029,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 282,
     "uikTvd": "4074008184845",
+    "uikName": "УИК №282",
     "tikTvd": "2072000534230",
     "tikName": "Урванская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1622,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1622,
@@ -3390,12 +4050,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 3,
-      "Безгодько Владимир Федорович": 55,
-      "Кузьминов Олег Владимирович": 18,
-      "Настаев Алисолтан Магамедович": 167,
-      "Паштов Борис Султанович": 186,
-      "Шхагошев Адальби Люлевич": 1017
+      "2072000540461": 3,
+      "2072000539283": 55,
+      "2072000538933": 18,
+      "2072000538946": 167,
+      "2072000539272": 186,
+      "2072000539261": 1017
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534230&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534230&type=464",
@@ -3405,6 +4065,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:46:46.425019+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534230&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534230&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -3414,8 +4078,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 283,
     "uikTvd": "4074008184846",
+    "uikName": "УИК №283",
     "tikTvd": "2072000534230",
     "tikName": "Урванская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2487,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2487,
@@ -3431,12 +4099,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 7,
-      "Безгодько Владимир Федорович": 90,
-      "Кузьминов Олег Владимирович": 22,
-      "Настаев Алисолтан Магамедович": 236,
-      "Паштов Борис Султанович": 340,
-      "Шхагошев Адальби Люлевич": 1503
+      "2072000540461": 7,
+      "2072000539283": 90,
+      "2072000538933": 22,
+      "2072000538946": 236,
+      "2072000539272": 340,
+      "2072000539261": 1503
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534230&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534230&type=464",
@@ -3446,6 +4114,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:46:46.425019+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534230&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534230&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -3455,8 +4127,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 284,
     "uikTvd": "4074008184847",
+    "uikName": "УИК №284",
     "tikTvd": "2072000534230",
     "tikName": "Урванская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1582,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1582,
@@ -3472,12 +4148,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 11,
-      "Безгодько Владимир Федорович": 54,
-      "Кузьминов Олег Владимирович": 16,
-      "Настаев Алисолтан Магамедович": 170,
-      "Паштов Борис Султанович": 135,
-      "Шхагошев Адальби Люлевич": 999
+      "2072000540461": 11,
+      "2072000539283": 54,
+      "2072000538933": 16,
+      "2072000538946": 170,
+      "2072000539272": 135,
+      "2072000539261": 999
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534230&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534230&type=464",
@@ -3487,6 +4163,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:46:46.425019+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534230&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534230&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -3496,8 +4176,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 285,
     "uikTvd": "4074008184848",
+    "uikName": "УИК №285",
     "tikTvd": "2072000534230",
     "tikName": "Урванская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1712,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1712,
@@ -3513,12 +4197,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 3,
-      "Безгодько Владимир Федорович": 55,
-      "Кузьминов Олег Владимирович": 17,
-      "Настаев Алисолтан Магамедович": 174,
-      "Паштов Борис Султанович": 203,
-      "Шхагошев Адальби Люлевич": 1058
+      "2072000540461": 3,
+      "2072000539283": 55,
+      "2072000538933": 17,
+      "2072000538946": 174,
+      "2072000539272": 203,
+      "2072000539261": 1058
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534230&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534230&type=464",
@@ -3528,6 +4212,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:46:46.425019+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534230&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534230&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -3537,8 +4225,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 286,
     "uikTvd": "4074008184849",
+    "uikName": "УИК №286",
     "tikTvd": "2072000534230",
     "tikName": "Урванская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2565,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2565,
@@ -3554,12 +4246,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 3,
-      "Безгодько Владимир Федорович": 87,
-      "Кузьминов Олег Владимирович": 18,
-      "Настаев Алисолтан Магамедович": 294,
-      "Паштов Борис Султанович": 230,
-      "Шхагошев Адальби Люлевич": 1617
+      "2072000540461": 3,
+      "2072000539283": 87,
+      "2072000538933": 18,
+      "2072000538946": 294,
+      "2072000539272": 230,
+      "2072000539261": 1617
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534230&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534230&type=464",
@@ -3569,6 +4261,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:46:46.425019+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534230&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534230&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -3578,8 +4274,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 287,
     "uikTvd": "4074008184850",
+    "uikName": "УИК №287",
     "tikTvd": "2072000534230",
     "tikName": "Урванская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2123,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2123,
@@ -3595,12 +4295,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 7,
-      "Безгодько Владимир Федорович": 72,
-      "Кузьминов Олег Владимирович": 15,
-      "Настаев Алисолтан Магамедович": 235,
-      "Паштов Борис Султанович": 294,
-      "Шхагошев Адальби Люлевич": 1264
+      "2072000540461": 7,
+      "2072000539283": 72,
+      "2072000538933": 15,
+      "2072000538946": 235,
+      "2072000539272": 294,
+      "2072000539261": 1264
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534230&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534230&type=464",
@@ -3610,6 +4310,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:46:46.425019+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534230&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534230&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -3619,8 +4323,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 288,
     "uikTvd": "4074008184851",
+    "uikName": "УИК №288",
     "tikTvd": "2072000534230",
     "tikName": "Урванская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1079,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1079,
@@ -3636,12 +4344,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 3,
-      "Безгодько Владимир Федорович": 45,
-      "Кузьминов Олег Владимирович": 17,
-      "Настаев Алисолтан Магамедович": 114,
-      "Паштов Борис Султанович": 101,
-      "Шхагошев Адальби Люлевич": 651
+      "2072000540461": 3,
+      "2072000539283": 45,
+      "2072000538933": 17,
+      "2072000538946": 114,
+      "2072000539272": 101,
+      "2072000539261": 651
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534230&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534230&type=464",
@@ -3651,6 +4359,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:46:46.425019+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534230&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534230&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -3660,8 +4372,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 289,
     "uikTvd": "4074008184852",
+    "uikName": "УИК №289",
     "tikTvd": "2072000534230",
     "tikName": "Урванская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1134,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1134,
@@ -3677,12 +4393,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 5,
-      "Безгодько Владимир Федорович": 42,
-      "Кузьминов Олег Владимирович": 15,
-      "Настаев Алисолтан Магамедович": 145,
-      "Паштов Борис Султанович": 59,
-      "Шхагошев Адальби Люлевич": 715
+      "2072000540461": 5,
+      "2072000539283": 42,
+      "2072000538933": 15,
+      "2072000538946": 145,
+      "2072000539272": 59,
+      "2072000539261": 715
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534230&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534230&type=464",
@@ -3692,6 +4408,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:46:46.425019+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534230&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534230&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -3701,8 +4421,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 290,
     "uikTvd": "4074008184853",
+    "uikName": "УИК №290",
     "tikTvd": "2072000534230",
     "tikName": "Урванская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2132,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2132,
@@ -3718,12 +4442,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 7,
-      "Безгодько Владимир Федорович": 72,
-      "Кузьминов Олег Владимирович": 17,
-      "Настаев Алисолтан Магамедович": 229,
-      "Паштов Борис Султанович": 258,
-      "Шхагошев Адальби Люлевич": 1319
+      "2072000540461": 7,
+      "2072000539283": 72,
+      "2072000538933": 17,
+      "2072000538946": 229,
+      "2072000539272": 258,
+      "2072000539261": 1319
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534230&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534230&type=464",
@@ -3733,6 +4457,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:46:46.425019+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534230&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534230&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -3742,8 +4470,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 291,
     "uikTvd": "4074008184854",
+    "uikName": "УИК №291",
     "tikTvd": "2072000534230",
     "tikName": "Урванская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2608,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2608,
@@ -3759,12 +4491,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 5,
-      "Безгодько Владимир Федорович": 87,
-      "Кузьминов Олег Владимирович": 14,
-      "Настаев Алисолтан Магамедович": 299,
-      "Паштов Борис Султанович": 320,
-      "Шхагошев Адальби Люлевич": 1598
+      "2072000540461": 5,
+      "2072000539283": 87,
+      "2072000538933": 14,
+      "2072000538946": 299,
+      "2072000539272": 320,
+      "2072000539261": 1598
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534230&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534230&type=464",
@@ -3774,6 +4506,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:46:46.425019+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534230&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534230&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -3783,8 +4519,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 292,
     "uikTvd": "4074008184855",
+    "uikName": "УИК №292",
     "tikTvd": "2072000534230",
     "tikName": "Урванская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2142,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2142,
@@ -3800,12 +4540,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 5,
-      "Безгодько Владимир Федорович": 65,
-      "Кузьминов Олег Владимирович": 5,
-      "Настаев Алисолтан Магамедович": 22,
-      "Паштов Борис Султанович": 290,
-      "Шхагошев Адальби Люлевич": 1253
+      "2072000540461": 5,
+      "2072000539283": 65,
+      "2072000538933": 5,
+      "2072000538946": 22,
+      "2072000539272": 290,
+      "2072000539261": 1253
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534230&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534230&type=464",
@@ -3815,6 +4555,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:46:46.425019+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534230&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534230&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -3824,8 +4568,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 293,
     "uikTvd": "4074008184856",
+    "uikName": "УИК №293",
     "tikTvd": "2072000534230",
     "tikName": "Урванская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2132,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2132,
@@ -3841,12 +4589,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 7,
-      "Безгодько Владимир Федорович": 69,
-      "Кузьминов Олег Владимирович": 4,
-      "Настаев Алисолтан Магамедович": 226,
-      "Паштов Борис Султанович": 283,
-      "Шхагошев Адальби Люлевич": 1291
+      "2072000540461": 7,
+      "2072000539283": 69,
+      "2072000538933": 4,
+      "2072000538946": 226,
+      "2072000539272": 283,
+      "2072000539261": 1291
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534230&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534230&type=464",
@@ -3856,6 +4604,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:46:46.425019+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534230&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534230&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -3865,8 +4617,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 294,
     "uikTvd": "4074008184857",
+    "uikName": "УИК №294",
     "tikTvd": "2072000534230",
     "tikName": "Урванская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1548,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1548,
@@ -3882,12 +4638,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 5,
-      "Безгодько Владимир Федорович": 55,
-      "Кузьминов Олег Владимирович": 2,
-      "Настаев Алисолтан Магамедович": 161,
-      "Паштов Борис Султанович": 208,
-      "Шхагошев Адальби Люлевич": 889
+      "2072000540461": 5,
+      "2072000539283": 55,
+      "2072000538933": 2,
+      "2072000538946": 161,
+      "2072000539272": 208,
+      "2072000539261": 889
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534230&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534230&type=464",
@@ -3897,6 +4653,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:46:46.425019+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534230&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534230&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -3906,8 +4666,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 295,
     "uikTvd": "4074008184858",
+    "uikName": "УИК №295",
     "tikTvd": "2072000534230",
     "tikName": "Урванская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1902,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1902,
@@ -3923,12 +4687,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 5,
-      "Безгодько Владимир Федорович": 63,
-      "Кузьминов Олег Владимирович": 2,
-      "Настаев Алисолтан Магамедович": 202,
-      "Паштов Борис Султанович": 253,
-      "Шхагошев Адальби Люлевич": 1105
+      "2072000540461": 5,
+      "2072000539283": 63,
+      "2072000538933": 2,
+      "2072000538946": 202,
+      "2072000539272": 253,
+      "2072000539261": 1105
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534230&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534230&type=464",
@@ -3938,6 +4702,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:46:46.425019+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534230&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534230&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -3947,8 +4715,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 296,
     "uikTvd": "4074008184859",
+    "uikName": "УИК №296",
     "tikTvd": "2072000534230",
     "tikName": "Урванская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1813,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1813,
@@ -3964,12 +4736,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 7,
-      "Безгодько Владимир Федорович": 64,
-      "Кузьминов Олег Владимирович": 17,
-      "Настаев Алисолтан Магамедович": 213,
-      "Паштов Борис Султанович": 142,
-      "Шхагошев Адальби Люлевич": 1098
+      "2072000540461": 7,
+      "2072000539283": 64,
+      "2072000538933": 17,
+      "2072000538946": 213,
+      "2072000539272": 142,
+      "2072000539261": 1098
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534230&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534230&type=464",
@@ -3979,6 +4751,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:46:46.425019+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534230&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534230&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -3988,8 +4764,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 297,
     "uikTvd": "4074008184860",
+    "uikName": "УИК №297",
     "tikTvd": "2072000534230",
     "tikName": "Урванская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2201,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2201,
@@ -4005,12 +4785,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 7,
-      "Безгодько Владимир Федорович": 69,
-      "Кузьминов Олег Владимирович": 3,
-      "Настаев Алисолтан Магамедович": 252,
-      "Паштов Борис Султанович": 286,
-      "Шхагошев Адальби Люлевич": 1285
+      "2072000540461": 7,
+      "2072000539283": 69,
+      "2072000538933": 3,
+      "2072000538946": 252,
+      "2072000539272": 286,
+      "2072000539261": 1285
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534230&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534230&type=464",
@@ -4020,6 +4800,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:46:46.425019+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534230&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534230&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -4029,8 +4813,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 298,
     "uikTvd": "4074008184861",
+    "uikName": "УИК №298",
     "tikTvd": "2072000534230",
     "tikName": "Урванская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2448,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2448,
@@ -4046,12 +4834,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 7,
-      "Безгодько Владимир Федорович": 79,
-      "Кузьминов Олег Владимирович": 5,
-      "Настаев Алисолтан Магамедович": 265,
-      "Паштов Борис Султанович": 343,
-      "Шхагошев Адальби Люлевич": 1445
+      "2072000540461": 7,
+      "2072000539283": 79,
+      "2072000538933": 5,
+      "2072000538946": 265,
+      "2072000539272": 343,
+      "2072000539261": 1445
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534230&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534230&type=464",
@@ -4061,6 +4849,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:46:46.425019+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534230&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534230&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -4070,8 +4862,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 299,
     "uikTvd": "4074008184862",
+    "uikName": "УИК №299",
     "tikTvd": "2072000534230",
     "tikName": "Урванская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2644,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2644,
@@ -4087,12 +4883,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 5,
-      "Безгодько Владимир Федорович": 70,
-      "Кузьминов Олег Владимирович": 4,
-      "Настаев Алисолтан Магамедович": 282,
-      "Паштов Борис Султанович": 327,
-      "Шхагошев Адальби Люлевич": 1595
+      "2072000540461": 5,
+      "2072000539283": 70,
+      "2072000538933": 4,
+      "2072000538946": 282,
+      "2072000539272": 327,
+      "2072000539261": 1595
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534230&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534230&type=464",
@@ -4102,6 +4898,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:46:46.425019+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534230&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534230&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -4111,8 +4911,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 200,
     "uikTvd": "4074011231664",
+    "uikName": "УИК №200",
     "tikTvd": "2072000534231",
     "tikName": "Прохладненская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 675,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 678,
@@ -4128,12 +4932,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 5,
-      "Безгодько Владимир Федорович": 19,
-      "Кузьминов Олег Владимирович": 18,
-      "Настаев Алисолтан Магамедович": 65,
-      "Паштов Борис Султанович": 49,
-      "Шхагошев Адальби Люлевич": 412
+      "2072000540461": 5,
+      "2072000539283": 19,
+      "2072000538933": 18,
+      "2072000538946": 65,
+      "2072000539272": 49,
+      "2072000539261": 412
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534231&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534231&type=464",
@@ -4143,6 +4947,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:03.549804+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534231&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534231&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -4152,8 +4960,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 201,
     "uikTvd": "4074011231665",
+    "uikName": "УИК №201",
     "tikTvd": "2072000534231",
     "tikName": "Прохладненская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 270,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 271,
@@ -4169,12 +4981,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 3,
-      "Безгодько Владимир Федорович": 12,
-      "Кузьминов Олег Владимирович": 4,
-      "Настаев Алисолтан Магамедович": 32,
-      "Паштов Борис Султанович": 29,
-      "Шхагошев Адальби Люлевич": 145
+      "2072000540461": 3,
+      "2072000539283": 12,
+      "2072000538933": 4,
+      "2072000538946": 32,
+      "2072000539272": 29,
+      "2072000539261": 145
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534231&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534231&type=464",
@@ -4184,6 +4996,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:03.549804+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534231&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534231&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -4193,8 +5009,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 202,
     "uikTvd": "4074011231666",
+    "uikName": "УИК №202",
     "tikTvd": "2072000534231",
     "tikName": "Прохладненская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1021,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1026,
@@ -4210,12 +5030,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 3,
-      "Безгодько Владимир Федорович": 32,
-      "Кузьминов Олег Владимирович": 17,
-      "Настаев Алисолтан Магамедович": 116,
-      "Паштов Борис Султанович": 93,
-      "Шхагошев Адальби Люлевич": 650
+      "2072000540461": 3,
+      "2072000539283": 32,
+      "2072000538933": 17,
+      "2072000538946": 116,
+      "2072000539272": 93,
+      "2072000539261": 650
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534231&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534231&type=464",
@@ -4225,6 +5045,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:03.549804+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534231&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534231&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -4234,8 +5058,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 203,
     "uikTvd": "4074011231667",
+    "uikName": "УИК №203",
     "tikTvd": "2072000534231",
     "tikName": "Прохладненская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 266,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 267,
@@ -4251,12 +5079,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 2,
-      "Безгодько Владимир Федорович": 17,
-      "Кузьминов Олег Владимирович": 7,
-      "Настаев Алисолтан Магамедович": 32,
-      "Паштов Борис Султанович": 22,
-      "Шхагошев Адальби Люлевич": 152
+      "2072000540461": 2,
+      "2072000539283": 17,
+      "2072000538933": 7,
+      "2072000538946": 32,
+      "2072000539272": 22,
+      "2072000539261": 152
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534231&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534231&type=464",
@@ -4266,6 +5094,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:03.549804+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534231&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534231&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -4275,8 +5107,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 204,
     "uikTvd": "4074011231668",
+    "uikName": "УИК №204",
     "tikTvd": "2072000534231",
     "tikName": "Прохладненская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 326,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 328,
@@ -4292,12 +5128,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 2,
-      "Безгодько Владимир Федорович": 15,
-      "Кузьминов Олег Владимирович": 6,
-      "Настаев Алисолтан Магамедович": 37,
-      "Паштов Борис Султанович": 37,
-      "Шхагошев Адальби Люлевич": 176
+      "2072000540461": 2,
+      "2072000539283": 15,
+      "2072000538933": 6,
+      "2072000538946": 37,
+      "2072000539272": 37,
+      "2072000539261": 176
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534231&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534231&type=464",
@@ -4307,6 +5143,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:03.549804+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534231&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534231&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -4316,8 +5156,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 205,
     "uikTvd": "4074011231669",
+    "uikName": "УИК №205",
     "tikTvd": "2072000534231",
     "tikName": "Прохладненская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 248,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 249,
@@ -4333,12 +5177,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 1,
-      "Безгодько Владимир Федорович": 14,
-      "Кузьминов Олег Владимирович": 7,
-      "Настаев Алисолтан Магамедович": 28,
-      "Паштов Борис Султанович": 25,
-      "Шхагошев Адальби Люлевич": 132
+      "2072000540461": 1,
+      "2072000539283": 14,
+      "2072000538933": 7,
+      "2072000538946": 28,
+      "2072000539272": 25,
+      "2072000539261": 132
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534231&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534231&type=464",
@@ -4348,6 +5192,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:03.549804+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534231&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534231&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -4357,8 +5205,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 206,
     "uikTvd": "4074011231670",
+    "uikName": "УИК №206",
     "tikTvd": "2072000534231",
     "tikName": "Прохладненская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 309,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 311,
@@ -4374,12 +5226,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 2,
-      "Безгодько Владимир Федорович": 17,
-      "Кузьминов Олег Владимирович": 5,
-      "Настаев Алисолтан Магамедович": 32,
-      "Паштов Борис Султанович": 28,
-      "Шхагошев Адальби Люлевич": 181
+      "2072000540461": 2,
+      "2072000539283": 17,
+      "2072000538933": 5,
+      "2072000538946": 32,
+      "2072000539272": 28,
+      "2072000539261": 181
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534231&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534231&type=464",
@@ -4389,6 +5241,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:03.549804+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534231&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534231&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -4398,8 +5254,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 207,
     "uikTvd": "4074011231671",
+    "uikName": "УИК №207",
     "tikTvd": "2072000534231",
     "tikName": "Прохладненская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 739,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 743,
@@ -4415,12 +5275,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 3,
-      "Безгодько Владимир Федорович": 30,
-      "Кузьминов Олег Владимирович": 18,
-      "Настаев Алисолтан Магамедович": 85,
-      "Паштов Борис Султанович": 70,
-      "Шхагошев Адальби Люлевич": 412
+      "2072000540461": 3,
+      "2072000539283": 30,
+      "2072000538933": 18,
+      "2072000538946": 85,
+      "2072000539272": 70,
+      "2072000539261": 412
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534231&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534231&type=464",
@@ -4430,6 +5290,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:03.549804+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534231&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534231&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -4439,8 +5303,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 208,
     "uikTvd": "4074011231672",
+    "uikName": "УИК №208",
     "tikTvd": "2072000534231",
     "tikName": "Прохладненская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1467,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1505,
@@ -4456,12 +5324,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 7,
-      "Безгодько Владимир Федорович": 55,
-      "Кузьминов Олег Владимирович": 18,
-      "Настаев Алисолтан Магамедович": 151,
-      "Паштов Борис Султанович": 165,
-      "Шхагошев Адальби Люлевич": 931
+      "2072000540461": 7,
+      "2072000539283": 55,
+      "2072000538933": 18,
+      "2072000538946": 151,
+      "2072000539272": 165,
+      "2072000539261": 931
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534231&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534231&type=464",
@@ -4471,6 +5339,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:03.549804+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534231&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534231&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -4480,8 +5352,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 209,
     "uikTvd": "4074011231673",
+    "uikName": "УИК №209",
     "tikTvd": "2072000534231",
     "tikName": "Прохладненская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1435,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1473,
@@ -4497,12 +5373,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 5,
-      "Безгодько Владимир Федорович": 46,
-      "Кузьминов Олег Владимирович": 16,
-      "Настаев Алисолтан Магамедович": 154,
-      "Паштов Борис Султанович": 105,
-      "Шхагошев Адальби Люлевич": 954
+      "2072000540461": 5,
+      "2072000539283": 46,
+      "2072000538933": 16,
+      "2072000538946": 154,
+      "2072000539272": 105,
+      "2072000539261": 954
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534231&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534231&type=464",
@@ -4512,6 +5388,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:03.549804+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534231&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534231&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -4521,8 +5401,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 210,
     "uikTvd": "4074011231674",
+    "uikName": "УИК №210",
     "tikTvd": "2072000534231",
     "tikName": "Прохладненская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 379,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 381,
@@ -4538,12 +5422,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 3,
-      "Безгодько Владимир Федорович": 16,
-      "Кузьминов Олег Владимирович": 9,
-      "Настаев Алисолтан Магамедович": 41,
-      "Паштов Борис Султанович": 34,
-      "Шхагошев Адальби Люлевич": 225
+      "2072000540461": 3,
+      "2072000539283": 16,
+      "2072000538933": 9,
+      "2072000538946": 41,
+      "2072000539272": 34,
+      "2072000539261": 225
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534231&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534231&type=464",
@@ -4553,6 +5437,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:03.549804+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534231&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534231&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -4562,8 +5450,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 211,
     "uikTvd": "4074011231675",
+    "uikName": "УИК №211",
     "tikTvd": "2072000534231",
     "tikName": "Прохладненская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2110,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2152,
@@ -4579,12 +5471,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 7,
-      "Безгодько Владимир Федорович": 55,
-      "Кузьминов Олег Владимирович": 31,
-      "Настаев Алисолтан Магамедович": 152,
-      "Паштов Борис Султанович": 286,
-      "Шхагошев Адальби Люлевич": 1294
+      "2072000540461": 7,
+      "2072000539283": 55,
+      "2072000538933": 31,
+      "2072000538946": 152,
+      "2072000539272": 286,
+      "2072000539261": 1294
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534231&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534231&type=464",
@@ -4594,6 +5486,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:03.549804+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534231&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534231&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -4603,8 +5499,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 212,
     "uikTvd": "4074011231676",
+    "uikName": "УИК №212",
     "tikTvd": "2072000534231",
     "tikName": "Прохладненская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2114,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2156,
@@ -4620,12 +5520,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 7,
-      "Безгодько Владимир Федорович": 59,
-      "Кузьминов Олег Владимирович": 27,
-      "Настаев Алисолтан Магамедович": 207,
-      "Паштов Борис Султанович": 252,
-      "Шхагошев Адальби Люлевич": 1332
+      "2072000540461": 7,
+      "2072000539283": 59,
+      "2072000538933": 27,
+      "2072000538946": 207,
+      "2072000539272": 252,
+      "2072000539261": 1332
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534231&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534231&type=464",
@@ -4635,6 +5535,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:03.549804+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534231&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534231&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -4644,8 +5548,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 213,
     "uikTvd": "4074011231677",
+    "uikName": "УИК №213",
     "tikTvd": "2072000534231",
     "tikName": "Прохладненская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 336,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 338,
@@ -4661,12 +5569,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 1,
-      "Безгодько Владимир Федорович": 11,
-      "Кузьминов Олег Владимирович": 5,
-      "Настаев Алисолтан Магамедович": 29,
-      "Паштов Борис Султанович": 35,
-      "Шхагошев Адальби Люлевич": 199
+      "2072000540461": 1,
+      "2072000539283": 11,
+      "2072000538933": 5,
+      "2072000538946": 29,
+      "2072000539272": 35,
+      "2072000539261": 199
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534231&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534231&type=464",
@@ -4676,6 +5584,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:03.549804+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534231&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534231&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -4685,8 +5597,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 214,
     "uikTvd": "4074011231678",
+    "uikName": "УИК №214",
     "tikTvd": "2072000534231",
     "tikName": "Прохладненская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1066,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1071,
@@ -4702,12 +5618,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 7,
-      "Безгодько Владимир Федорович": 37,
-      "Кузьминов Олег Владимирович": 16,
-      "Настаев Алисолтан Магамедович": 108,
-      "Паштов Борис Султанович": 124,
-      "Шхагошев Адальби Люлевич": 639
+      "2072000540461": 7,
+      "2072000539283": 37,
+      "2072000538933": 16,
+      "2072000538946": 108,
+      "2072000539272": 124,
+      "2072000539261": 639
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534231&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534231&type=464",
@@ -4717,6 +5633,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:03.549804+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534231&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534231&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -4726,8 +5646,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 215,
     "uikTvd": "4074011231679",
+    "uikName": "УИК №215",
     "tikTvd": "2072000534231",
     "tikName": "Прохладненская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 94,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 95,
@@ -4743,12 +5667,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 1,
-      "Безгодько Владимир Федорович": 4,
-      "Кузьминов Олег Владимирович": 5,
-      "Настаев Алисолтан Магамедович": 8,
-      "Паштов Борис Султанович": 9,
-      "Шхагошев Адальби Люлевич": 48
+      "2072000540461": 1,
+      "2072000539283": 4,
+      "2072000538933": 5,
+      "2072000538946": 8,
+      "2072000539272": 9,
+      "2072000539261": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534231&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534231&type=464",
@@ -4758,6 +5682,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:03.549804+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534231&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534231&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -4767,8 +5695,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 216,
     "uikTvd": "4074011231680",
+    "uikName": "УИК №216",
     "tikTvd": "2072000534231",
     "tikName": "Прохладненская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2309,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2352,
@@ -4784,12 +5716,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 7,
-      "Безгодько Владимир Федорович": 55,
-      "Кузьминов Олег Владимирович": 17,
-      "Настаев Алисолтан Магамедович": 143,
-      "Паштов Борис Султанович": 293,
-      "Шхагошев Адальби Люлевич": 1524
+      "2072000540461": 7,
+      "2072000539283": 55,
+      "2072000538933": 17,
+      "2072000538946": 143,
+      "2072000539272": 293,
+      "2072000539261": 1524
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534231&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534231&type=464",
@@ -4799,6 +5731,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:03.549804+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534231&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534231&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -4808,8 +5744,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 217,
     "uikTvd": "4074011231681",
+    "uikName": "УИК №217",
     "tikTvd": "2072000534231",
     "tikName": "Прохладненская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1741,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1780,
@@ -4825,12 +5765,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 3,
-      "Безгодько Владимир Федорович": 54,
-      "Кузьминов Олег Владимирович": 17,
-      "Настаев Алисолтан Магамедович": 154,
-      "Паштов Борис Султанович": 161,
-      "Шхагошев Адальби Люлевич": 1085
+      "2072000540461": 3,
+      "2072000539283": 54,
+      "2072000538933": 17,
+      "2072000538946": 154,
+      "2072000539272": 161,
+      "2072000539261": 1085
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534231&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534231&type=464",
@@ -4840,6 +5780,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:03.549804+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534231&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534231&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -4849,8 +5793,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 218,
     "uikTvd": "4074011231682",
+    "uikName": "УИК №218",
     "tikTvd": "2072000534231",
     "tikName": "Прохладненская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 340,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 342,
@@ -4866,12 +5814,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 1,
-      "Безгодько Владимир Федорович": 16,
-      "Кузьминов Олег Владимирович": 15,
-      "Настаев Алисолтан Магамедович": 41,
-      "Паштов Борис Султанович": 12,
-      "Шхагошев Адальби Люлевич": 210
+      "2072000540461": 1,
+      "2072000539283": 16,
+      "2072000538933": 15,
+      "2072000538946": 41,
+      "2072000539272": 12,
+      "2072000539261": 210
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534231&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534231&type=464",
@@ -4881,6 +5829,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:03.549804+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534231&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534231&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -4890,8 +5842,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 219,
     "uikTvd": "4074011231683",
+    "uikName": "УИК №219",
     "tikTvd": "2072000534231",
     "tikName": "Прохладненская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 182,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 183,
@@ -4907,12 +5863,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 1,
-      "Безгодько Владимир Федорович": 12,
-      "Кузьминов Олег Владимирович": 15,
-      "Настаев Алисолтан Магамедович": 15,
-      "Паштов Борис Султанович": 24,
-      "Шхагошев Адальби Люлевич": 85
+      "2072000540461": 1,
+      "2072000539283": 12,
+      "2072000538933": 15,
+      "2072000538946": 15,
+      "2072000539272": 24,
+      "2072000539261": 85
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534231&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534231&type=464",
@@ -4922,6 +5878,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:03.549804+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534231&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534231&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -4931,8 +5891,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 220,
     "uikTvd": "4074011231684",
+    "uikName": "УИК №220",
     "tikTvd": "2072000534231",
     "tikName": "Прохладненская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 681,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 685,
@@ -4948,12 +5912,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 2,
-      "Безгодько Владимир Федорович": 23,
-      "Кузьминов Олег Владимирович": 17,
-      "Настаев Алисолтан Магамедович": 70,
-      "Паштов Борис Султанович": 64,
-      "Шхагошев Адальби Люлевич": 410
+      "2072000540461": 2,
+      "2072000539283": 23,
+      "2072000538933": 17,
+      "2072000538946": 70,
+      "2072000539272": 64,
+      "2072000539261": 410
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534231&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534231&type=464",
@@ -4963,6 +5927,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:03.549804+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534231&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534231&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -4972,8 +5940,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 221,
     "uikTvd": "4074011231685",
+    "uikName": "УИК №221",
     "tikTvd": "2072000534231",
     "tikName": "Прохладненская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 294,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 296,
@@ -4989,12 +5961,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 1,
-      "Безгодько Владимир Федорович": 13,
-      "Кузьминов Олег Владимирович": 15,
-      "Настаев Алисолтан Магамедович": 36,
-      "Паштов Борис Султанович": 14,
-      "Шхагошев Адальби Люлевич": 172
+      "2072000540461": 1,
+      "2072000539283": 13,
+      "2072000538933": 15,
+      "2072000538946": 36,
+      "2072000539272": 14,
+      "2072000539261": 172
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534231&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534231&type=464",
@@ -5004,6 +5976,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:03.549804+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534231&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534231&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -5013,8 +5989,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 222,
     "uikTvd": "4074011231686",
+    "uikName": "УИК №222",
     "tikTvd": "2072000534231",
     "tikName": "Прохладненская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 623,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 626,
@@ -5030,12 +6010,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 5,
-      "Безгодько Владимир Федорович": 25,
-      "Кузьминов Олег Владимирович": 17,
-      "Настаев Алисолтан Магамедович": 59,
-      "Паштов Борис Султанович": 54,
-      "Шхагошев Адальби Люлевич": 385
+      "2072000540461": 5,
+      "2072000539283": 25,
+      "2072000538933": 17,
+      "2072000538946": 59,
+      "2072000539272": 54,
+      "2072000539261": 385
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534231&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534231&type=464",
@@ -5045,6 +6025,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:03.549804+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534231&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534231&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -5054,8 +6038,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 223,
     "uikTvd": "4074011231687",
+    "uikName": "УИК №223",
     "tikTvd": "2072000534231",
     "tikName": "Прохладненская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 516,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 519,
@@ -5071,12 +6059,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 2,
-      "Безгодько Владимир Федорович": 20,
-      "Кузьминов Олег Владимирович": 16,
-      "Настаев Алисолтан Магамедович": 49,
-      "Паштов Борис Султанович": 47,
-      "Шхагошев Адальби Люлевич": 284
+      "2072000540461": 2,
+      "2072000539283": 20,
+      "2072000538933": 16,
+      "2072000538946": 49,
+      "2072000539272": 47,
+      "2072000539261": 284
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534231&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534231&type=464",
@@ -5086,6 +6074,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:03.549804+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534231&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534231&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -5095,8 +6087,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 224,
     "uikTvd": "4074011231688",
+    "uikName": "УИК №224",
     "tikTvd": "2072000534231",
     "tikName": "Прохладненская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1688,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1727,
@@ -5112,12 +6108,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 3,
-      "Безгодько Владимир Федорович": 59,
-      "Кузьминов Олег Владимирович": 17,
-      "Настаев Алисолтан Магамедович": 173,
-      "Паштов Борис Султанович": 182,
-      "Шхагошев Адальби Люлевич": 1077
+      "2072000540461": 3,
+      "2072000539283": 59,
+      "2072000538933": 17,
+      "2072000538946": 173,
+      "2072000539272": 182,
+      "2072000539261": 1077
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534231&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534231&type=464",
@@ -5127,6 +6123,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:03.549804+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534231&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534231&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -5136,8 +6136,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 225,
     "uikTvd": "4074011231689",
+    "uikName": "УИК №225",
     "tikTvd": "2072000534231",
     "tikName": "Прохладненская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2335,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2377,
@@ -5153,12 +6157,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 5,
-      "Безгодько Владимир Федорович": 61,
-      "Кузьминов Олег Владимирович": 28,
-      "Настаев Алисолтан Магамедович": 221,
-      "Паштов Борис Султанович": 299,
-      "Шхагошев Адальби Люлевич": 1458
+      "2072000540461": 5,
+      "2072000539283": 61,
+      "2072000538933": 28,
+      "2072000538946": 221,
+      "2072000539272": 299,
+      "2072000539261": 1458
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534231&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534231&type=464",
@@ -5168,6 +6172,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:03.549804+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534231&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534231&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -5177,8 +6185,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 226,
     "uikTvd": "4074011231690",
+    "uikName": "УИК №226",
     "tikTvd": "2072000534231",
     "tikName": "Прохладненская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1124,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1130,
@@ -5194,12 +6206,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 5,
-      "Безгодько Владимир Федорович": 45,
-      "Кузьминов Олег Владимирович": 16,
-      "Настаев Алисолтан Магамедович": 113,
-      "Паштов Борис Султанович": 112,
-      "Шхагошев Адальби Люлевич": 713
+      "2072000540461": 5,
+      "2072000539283": 45,
+      "2072000538933": 16,
+      "2072000538946": 113,
+      "2072000539272": 112,
+      "2072000539261": 713
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534231&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534231&type=464",
@@ -5209,6 +6221,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:03.549804+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534231&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534231&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -5218,8 +6234,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 227,
     "uikTvd": "4074011231691",
+    "uikName": "УИК №227",
     "tikTvd": "2072000534231",
     "tikName": "Прохладненская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2274,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2316,
@@ -5235,12 +6255,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 5,
-      "Безгодько Владимир Федорович": 55,
-      "Кузьминов Олег Владимирович": 17,
-      "Настаев Алисолтан Магамедович": 209,
-      "Паштов Борис Султанович": 218,
-      "Шхагошев Адальби Люлевич": 1498
+      "2072000540461": 5,
+      "2072000539283": 55,
+      "2072000538933": 17,
+      "2072000538946": 209,
+      "2072000539272": 218,
+      "2072000539261": 1498
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534231&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534231&type=464",
@@ -5250,6 +6270,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:03.549804+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534231&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534231&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -5259,8 +6283,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 228,
     "uikTvd": "4074011231692",
+    "uikName": "УИК №228",
     "tikTvd": "2072000534231",
     "tikName": "Прохладненская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1676,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1715,
@@ -5276,12 +6304,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 5,
-      "Безгодько Владимир Федорович": 56,
-      "Кузьминов Олег Владимирович": 16,
-      "Настаев Алисолтан Магамедович": 154,
-      "Паштов Борис Султанович": 218,
-      "Шхагошев Адальби Люлевич": 1045
+      "2072000540461": 5,
+      "2072000539283": 56,
+      "2072000538933": 16,
+      "2072000538946": 154,
+      "2072000539272": 218,
+      "2072000539261": 1045
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534231&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534231&type=464",
@@ -5291,6 +6319,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:03.549804+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534231&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534231&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -5300,8 +6332,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 229,
     "uikTvd": "4074011231693",
+    "uikName": "УИК №229",
     "tikTvd": "2072000534231",
     "tikName": "Прохладненская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 836,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 840,
@@ -5317,12 +6353,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 2,
-      "Безгодько Владимир Федорович": 29,
-      "Кузьминов Олег Владимирович": 18,
-      "Настаев Алисолтан Магамедович": 92,
-      "Паштов Борис Султанович": 96,
-      "Шхагошев Адальби Люлевич": 485
+      "2072000540461": 2,
+      "2072000539283": 29,
+      "2072000538933": 18,
+      "2072000538946": 92,
+      "2072000539272": 96,
+      "2072000539261": 485
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534231&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534231&type=464",
@@ -5332,6 +6368,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:03.549804+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534231&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534231&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -5341,8 +6381,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 230,
     "uikTvd": "4074011231694",
+    "uikName": "УИК №230",
     "tikTvd": "2072000534231",
     "tikName": "Прохладненская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 782,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 786,
@@ -5358,12 +6402,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 3,
-      "Безгодько Владимир Федорович": 36,
-      "Кузьминов Олег Владимирович": 17,
-      "Настаев Алисолтан Магамедович": 82,
-      "Паштов Борис Султанович": 97,
-      "Шхагошев Адальби Люлевич": 454
+      "2072000540461": 3,
+      "2072000539283": 36,
+      "2072000538933": 17,
+      "2072000538946": 82,
+      "2072000539272": 97,
+      "2072000539261": 454
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534231&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534231&type=464",
@@ -5373,6 +6417,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:03.549804+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534231&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534231&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -5382,8 +6430,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 231,
     "uikTvd": "4074011231695",
+    "uikName": "УИК №231",
     "tikTvd": "2072000534231",
     "tikName": "Прохладненская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 511,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 514,
@@ -5399,12 +6451,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 1,
-      "Безгодько Владимир Федорович": 25,
-      "Кузьминов Олег Владимирович": 16,
-      "Настаев Алисолтан Магамедович": 59,
-      "Паштов Борис Султанович": 39,
-      "Шхагошев Адальби Люлевич": 296
+      "2072000540461": 1,
+      "2072000539283": 25,
+      "2072000538933": 16,
+      "2072000538946": 59,
+      "2072000539272": 39,
+      "2072000539261": 296
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534231&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534231&type=464",
@@ -5414,6 +6466,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:03.549804+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534231&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534231&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -5423,8 +6479,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 253,
     "uikTvd": "4074011231696",
+    "uikName": "УИК №253",
     "tikTvd": "2072000534231",
     "tikName": "Прохладненская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 167,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 168,
@@ -5440,12 +6500,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 1,
-      "Безгодько Владимир Федорович": 13,
-      "Кузьминов Олег Владимирович": 5,
-      "Настаев Алисолтан Магамедович": 23,
-      "Паштов Борис Султанович": 8,
-      "Шхагошев Адальби Люлевич": 92
+      "2072000540461": 1,
+      "2072000539283": 13,
+      "2072000538933": 5,
+      "2072000538946": 23,
+      "2072000539272": 8,
+      "2072000539261": 92
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534231&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534231&type=464",
@@ -5455,6 +6515,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:03.549804+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534231&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534231&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -5464,8 +6528,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 68,
     "uikTvd": "4074013179513",
+    "uikName": "УИК №68",
     "tikTvd": "2072000534232",
     "tikName": "Лескенская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2662,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2680,
@@ -5481,12 +6549,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 3,
-      "Безгодько Владимир Федорович": 55,
-      "Кузьминов Олег Владимирович": 34,
-      "Настаев Алисолтан Магамедович": 197,
-      "Паштов Борис Султанович": 359,
-      "Шхагошев Адальби Люлевич": 1713
+      "2072000540461": 3,
+      "2072000539283": 55,
+      "2072000538933": 34,
+      "2072000538946": 197,
+      "2072000539272": 359,
+      "2072000539261": 1713
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534232&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534232&type=464",
@@ -5496,6 +6564,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:03.647359+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534232&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534232&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -5505,8 +6577,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 69,
     "uikTvd": "4074013179514",
+    "uikName": "УИК №69",
     "tikTvd": "2072000534232",
     "tikName": "Лескенская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2575,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2600,
@@ -5522,12 +6598,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 7,
-      "Безгодько Владимир Федорович": 57,
-      "Кузьминов Олег Владимирович": 28,
-      "Настаев Алисолтан Магамедович": 236,
-      "Паштов Борис Султанович": 329,
-      "Шхагошев Адальби Люлевич": 1594
+      "2072000540461": 7,
+      "2072000539283": 57,
+      "2072000538933": 28,
+      "2072000538946": 236,
+      "2072000539272": 329,
+      "2072000539261": 1594
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534232&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534232&type=464",
@@ -5537,6 +6613,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:03.647359+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534232&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534232&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -5546,8 +6626,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 70,
     "uikTvd": "4074013179515",
+    "uikName": "УИК №70",
     "tikTvd": "2072000534232",
     "tikName": "Лескенская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1632,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1640,
@@ -5563,12 +6647,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 5,
-      "Безгодько Владимир Федорович": 56,
-      "Кузьминов Олег Владимирович": 17,
-      "Настаев Алисолтан Магамедович": 150,
-      "Паштов Борис Султанович": 189,
-      "Шхагошев Адальби Люлевич": 1032
+      "2072000540461": 5,
+      "2072000539283": 56,
+      "2072000538933": 17,
+      "2072000538946": 150,
+      "2072000539272": 189,
+      "2072000539261": 1032
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534232&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534232&type=464",
@@ -5578,6 +6662,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:03.647359+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534232&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534232&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -5587,8 +6675,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 71,
     "uikTvd": "4074013179516",
+    "uikName": "УИК №71",
     "tikTvd": "2072000534232",
     "tikName": "Лескенская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 507,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 510,
@@ -5604,12 +6696,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 5,
-      "Безгодько Владимир Федорович": 21,
-      "Кузьминов Олег Владимирович": 7,
-      "Настаев Алисолтан Магамедович": 63,
-      "Паштов Борис Султанович": 36,
-      "Шхагошев Адальби Люлевич": 311
+      "2072000540461": 5,
+      "2072000539283": 21,
+      "2072000538933": 7,
+      "2072000538946": 63,
+      "2072000539272": 36,
+      "2072000539261": 311
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534232&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534232&type=464",
@@ -5619,6 +6711,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:03.647359+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534232&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534232&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -5628,8 +6724,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 72,
     "uikTvd": "4074013179517",
+    "uikName": "УИК №72",
     "tikTvd": "2072000534232",
     "tikName": "Лескенская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 446,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 450,
@@ -5645,12 +6745,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 3,
-      "Безгодько Владимир Федорович": 18,
-      "Кузьминов Олег Владимирович": 7,
-      "Настаев Алисолтан Магамедович": 54,
-      "Паштов Борис Султанович": 69,
-      "Шхагошев Адальби Люлевич": 238
+      "2072000540461": 3,
+      "2072000539283": 18,
+      "2072000538933": 7,
+      "2072000538946": 54,
+      "2072000539272": 69,
+      "2072000539261": 238
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534232&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534232&type=464",
@@ -5660,6 +6760,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:03.647359+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534232&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534232&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -5669,8 +6773,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 73,
     "uikTvd": "4074013179518",
+    "uikName": "УИК №73",
     "tikTvd": "2072000534232",
     "tikName": "Лескенская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 94,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 95,
@@ -5686,12 +6794,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 2,
-      "Безгодько Владимир Федорович": 10,
-      "Кузьминов Олег Владимирович": 2,
-      "Настаев Алисолтан Магамедович": 17,
-      "Паштов Борис Султанович": 15,
-      "Шхагошев Адальби Люлевич": 42
+      "2072000540461": 2,
+      "2072000539283": 10,
+      "2072000538933": 2,
+      "2072000538946": 17,
+      "2072000539272": 15,
+      "2072000539261": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534232&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534232&type=464",
@@ -5701,6 +6809,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:03.647359+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534232&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534232&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -5710,8 +6822,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 74,
     "uikTvd": "4074013179519",
+    "uikName": "УИК №74",
     "tikTvd": "2072000534232",
     "tikName": "Лескенская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2370,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2400,
@@ -5727,12 +6843,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 3,
-      "Безгодько Владимир Федорович": 69,
-      "Кузьминов Олег Владимирович": 37,
-      "Настаев Алисолтан Магамедович": 228,
-      "Паштов Борис Султанович": 228,
-      "Шхагошев Адальби Люлевич": 1522
+      "2072000540461": 3,
+      "2072000539283": 69,
+      "2072000538933": 37,
+      "2072000538946": 228,
+      "2072000539272": 228,
+      "2072000539261": 1522
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534232&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534232&type=464",
@@ -5742,6 +6858,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:03.647359+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534232&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534232&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -5751,8 +6871,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 75,
     "uikTvd": "4074013179520",
+    "uikName": "УИК №75",
     "tikTvd": "2072000534232",
     "tikName": "Лескенская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2138,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2155,
@@ -5768,12 +6892,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 5,
-      "Безгодько Владимир Федорович": 56,
-      "Кузьминов Олег Владимирович": 36,
-      "Настаев Алисолтан Магамедович": 200,
-      "Паштов Борис Султанович": 279,
-      "Шхагошев Адальби Люлевич": 1354
+      "2072000540461": 5,
+      "2072000539283": 56,
+      "2072000538933": 36,
+      "2072000538946": 200,
+      "2072000539272": 279,
+      "2072000539261": 1354
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534232&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534232&type=464",
@@ -5783,6 +6907,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:03.647359+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534232&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534232&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -5792,8 +6920,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 76,
     "uikTvd": "4074013179521",
+    "uikName": "УИК №76",
     "tikTvd": "2072000534232",
     "tikName": "Лескенская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 802,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 810,
@@ -5809,12 +6941,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 7,
-      "Безгодько Владимир Федорович": 44,
-      "Кузьминов Олег Владимирович": 18,
-      "Настаев Алисолтан Магамедович": 77,
-      "Паштов Борис Султанович": 95,
-      "Шхагошев Адальби Люлевич": 426
+      "2072000540461": 7,
+      "2072000539283": 44,
+      "2072000538933": 18,
+      "2072000538946": 77,
+      "2072000539272": 95,
+      "2072000539261": 426
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534232&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534232&type=464",
@@ -5824,6 +6956,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:03.647359+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534232&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534232&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -5833,8 +6969,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 77,
     "uikTvd": "4074013179522",
+    "uikName": "УИК №77",
     "tikTvd": "2072000534232",
     "tikName": "Лескенская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2302,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2320,
@@ -5850,12 +6990,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 3,
-      "Безгодько Владимир Федорович": 55,
-      "Кузьминов Олег Владимирович": 17,
-      "Настаев Алисолтан Магамедович": 217,
-      "Паштов Борис Султанович": 308,
-      "Шхагошев Адальби Люлевич": 1472
+      "2072000540461": 3,
+      "2072000539283": 55,
+      "2072000538933": 17,
+      "2072000538946": 217,
+      "2072000539272": 308,
+      "2072000539261": 1472
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534232&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534232&type=464",
@@ -5865,6 +7005,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:03.647359+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534232&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534232&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -5874,8 +7018,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 78,
     "uikTvd": "4074013179523",
+    "uikName": "УИК №78",
     "tikTvd": "2072000534232",
     "tikName": "Лескенская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2362,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2340,
@@ -5891,12 +7039,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 7,
-      "Безгодько Владимир Федорович": 55,
-      "Кузьминов Олег Владимирович": 22,
-      "Настаев Алисолтан Магамедович": 209,
-      "Паштов Борис Султанович": 170,
-      "Шхагошев Адальби Люлевич": 1412
+      "2072000540461": 7,
+      "2072000539283": 55,
+      "2072000538933": 22,
+      "2072000538946": 209,
+      "2072000539272": 170,
+      "2072000539261": 1412
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534232&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534232&type=464",
@@ -5906,6 +7054,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:03.647359+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534232&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534232&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -5915,8 +7067,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 97,
     "uikTvd": "4074006264704",
+    "uikName": "УИК №97",
     "tikTvd": "2072000534233",
     "tikName": "Терская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1501,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1540,
@@ -5932,12 +7088,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 5,
-      "Безгодько Владимир Федорович": 55,
-      "Кузьминов Олег Владимирович": 15,
-      "Настаев Алисолтан Магамедович": 153,
-      "Паштов Борис Султанович": 205,
-      "Шхагошев Адальби Люлевич": 881
+      "2072000540461": 5,
+      "2072000539283": 55,
+      "2072000538933": 15,
+      "2072000538946": 153,
+      "2072000539272": 205,
+      "2072000539261": 881
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534233&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534233&type=464",
@@ -5947,6 +7103,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:04.038285+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534233&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534233&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -5956,8 +7116,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 232,
     "uikTvd": "4074006264705",
+    "uikName": "УИК №232",
     "tikTvd": "2072000534233",
     "tikName": "Терская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1961,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1961,
@@ -5973,12 +7137,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 7,
-      "Безгодько Владимир Федорович": 56,
-      "Кузьминов Олег Владимирович": 3,
-      "Настаев Алисолтан Магамедович": 176,
-      "Паштов Борис Султанович": 295,
-      "Шхагошев Адальби Люлевич": 1078
+      "2072000540461": 7,
+      "2072000539283": 56,
+      "2072000538933": 3,
+      "2072000538946": 176,
+      "2072000539272": 295,
+      "2072000539261": 1078
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534233&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534233&type=464",
@@ -5988,6 +7152,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:04.038285+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534233&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534233&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -5997,8 +7165,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 254,
     "uikTvd": "4074006264706",
+    "uikName": "УИК №254",
     "tikTvd": "2072000534233",
     "tikName": "Терская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1837,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1837,
@@ -6014,12 +7186,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 15,
-      "Безгодько Владимир Федорович": 58,
-      "Кузьминов Олег Владимирович": 2,
-      "Настаев Алисолтан Магамедович": 189,
-      "Паштов Борис Султанович": 273,
-      "Шхагошев Адальби Люлевич": 1046
+      "2072000540461": 15,
+      "2072000539283": 58,
+      "2072000538933": 2,
+      "2072000538946": 189,
+      "2072000539272": 273,
+      "2072000539261": 1046
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534233&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534233&type=464",
@@ -6029,6 +7201,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:04.038285+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534233&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534233&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -6038,8 +7214,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 255,
     "uikTvd": "4074006264707",
+    "uikName": "УИК №255",
     "tikTvd": "2072000534233",
     "tikName": "Терская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2323,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2323,
@@ -6055,12 +7235,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 7,
-      "Безгодько Владимир Федорович": 59,
-      "Кузьминов Олег Владимирович": 5,
-      "Настаев Алисолтан Магамедович": 230,
-      "Паштов Борис Султанович": 301,
-      "Шхагошев Адальби Люлевич": 1328
+      "2072000540461": 7,
+      "2072000539283": 59,
+      "2072000538933": 5,
+      "2072000538946": 230,
+      "2072000539272": 301,
+      "2072000539261": 1328
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534233&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534233&type=464",
@@ -6070,6 +7250,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:04.038285+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534233&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534233&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -6079,8 +7263,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 256,
     "uikTvd": "4074006264708",
+    "uikName": "УИК №256",
     "tikTvd": "2072000534233",
     "tikName": "Терская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1732,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1732,
@@ -6096,12 +7284,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 7,
-      "Безгодько Владимир Федорович": 54,
-      "Кузьминов Олег Владимирович": 5,
-      "Настаев Алисолтан Магамедович": 154,
-      "Паштов Борис Султанович": 218,
-      "Шхагошев Адальби Люлевич": 995
+      "2072000540461": 7,
+      "2072000539283": 54,
+      "2072000538933": 5,
+      "2072000538946": 154,
+      "2072000539272": 218,
+      "2072000539261": 995
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534233&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534233&type=464",
@@ -6111,6 +7299,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:04.038285+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534233&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534233&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -6120,8 +7312,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 257,
     "uikTvd": "4074006264709",
+    "uikName": "УИК №257",
     "tikTvd": "2072000534233",
     "tikName": "Терская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1908,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1925,
@@ -6137,12 +7333,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 5,
-      "Безгодько Владимир Федорович": 63,
-      "Кузьминов Олег Владимирович": 5,
-      "Настаев Алисолтан Магамедович": 192,
-      "Паштов Борис Султанович": 230,
-      "Шхагошев Адальби Люлевич": 1107
+      "2072000540461": 5,
+      "2072000539283": 63,
+      "2072000538933": 5,
+      "2072000538946": 192,
+      "2072000539272": 230,
+      "2072000539261": 1107
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534233&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534233&type=464",
@@ -6152,6 +7348,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:04.038285+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534233&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534233&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -6161,8 +7361,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 258,
     "uikTvd": "4074006264710",
+    "uikName": "УИК №258",
     "tikTvd": "2072000534233",
     "tikName": "Терская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1670,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1670,
@@ -6178,12 +7382,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 7,
-      "Безгодько Владимир Федорович": 55,
-      "Кузьминов Олег Владимирович": 5,
-      "Настаев Алисолтан Магамедович": 192,
-      "Паштов Борис Султанович": 205,
-      "Шхагошев Адальби Люлевич": 968
+      "2072000540461": 7,
+      "2072000539283": 55,
+      "2072000538933": 5,
+      "2072000538946": 192,
+      "2072000539272": 205,
+      "2072000539261": 968
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534233&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534233&type=464",
@@ -6193,6 +7397,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:04.038285+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534233&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534233&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -6202,8 +7410,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 259,
     "uikTvd": "4074006264711",
+    "uikName": "УИК №259",
     "tikTvd": "2072000534233",
     "tikName": "Терская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 323,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 330,
@@ -6219,12 +7431,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 2,
-      "Безгодько Владимир Федорович": 18,
-      "Кузьминов Олег Владимирович": 16,
-      "Настаев Алисолтан Магамедович": 41,
-      "Паштов Борис Султанович": 41,
-      "Шхагошев Адальби Люлевич": 155
+      "2072000540461": 2,
+      "2072000539283": 18,
+      "2072000538933": 16,
+      "2072000538946": 41,
+      "2072000539272": 41,
+      "2072000539261": 155
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534233&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534233&type=464",
@@ -6234,6 +7446,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:04.038285+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534233&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534233&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -6243,8 +7459,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 260,
     "uikTvd": "4074006264712",
+    "uikName": "УИК №260",
     "tikTvd": "2072000534233",
     "tikName": "Терская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1632,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1670,
@@ -6260,12 +7480,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 5,
-      "Безгодько Владимир Федорович": 54,
-      "Кузьминов Олег Владимирович": 18,
-      "Настаев Алисолтан Магамедович": 153,
-      "Паштов Борис Султанович": 127,
-      "Шхагошев Адальби Люлевич": 1085
+      "2072000540461": 5,
+      "2072000539283": 54,
+      "2072000538933": 18,
+      "2072000538946": 153,
+      "2072000539272": 127,
+      "2072000539261": 1085
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534233&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534233&type=464",
@@ -6275,6 +7495,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:04.038285+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534233&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534233&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -6284,8 +7508,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 261,
     "uikTvd": "4074006264713",
+    "uikName": "УИК №261",
     "tikTvd": "2072000534233",
     "tikName": "Терская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2482,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2540,
@@ -6301,12 +7529,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 3,
-      "Безгодько Владимир Федорович": 96,
-      "Кузьминов Олег Владимирович": 16,
-      "Настаев Алисолтан Магамедович": 286,
-      "Паштов Борис Султанович": 219,
-      "Шхагошев Адальби Люлевич": 1598
+      "2072000540461": 3,
+      "2072000539283": 96,
+      "2072000538933": 16,
+      "2072000538946": 286,
+      "2072000539272": 219,
+      "2072000539261": 1598
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534233&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534233&type=464",
@@ -6316,6 +7544,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:04.038285+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534233&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534233&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -6325,8 +7557,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 262,
     "uikTvd": "4074006264714",
+    "uikName": "УИК №262",
     "tikTvd": "2072000534233",
     "tikName": "Терская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 362,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 370,
@@ -6342,12 +7578,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 1,
-      "Безгодько Владимир Федорович": 19,
-      "Кузьминов Олег Владимирович": 16,
-      "Настаев Алисолтан Магамедович": 39,
-      "Паштов Борис Султанович": 26,
-      "Шхагошев Адальби Люлевич": 201
+      "2072000540461": 1,
+      "2072000539283": 19,
+      "2072000538933": 16,
+      "2072000538946": 39,
+      "2072000539272": 26,
+      "2072000539261": 201
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534233&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534233&type=464",
@@ -6357,6 +7593,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:04.038285+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534233&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534233&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -6366,8 +7606,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 263,
     "uikTvd": "4074006264715",
+    "uikName": "УИК №263",
     "tikTvd": "2072000534233",
     "tikName": "Терская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1929,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1970,
@@ -6383,12 +7627,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 3,
-      "Безгодько Владимир Федорович": 67,
-      "Кузьминов Олег Владимирович": 26,
-      "Настаев Алисолтан Магамедович": 207,
-      "Паштов Борис Султанович": 193,
-      "Шхагошев Адальби Люлевич": 1245
+      "2072000540461": 3,
+      "2072000539283": 67,
+      "2072000538933": 26,
+      "2072000538946": 207,
+      "2072000539272": 193,
+      "2072000539261": 1245
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534233&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534233&type=464",
@@ -6398,6 +7642,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:04.038285+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534233&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534233&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -6407,8 +7655,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 264,
     "uikTvd": "4074006264716",
+    "uikName": "УИК №264",
     "tikTvd": "2072000534233",
     "tikName": "Терская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 366,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 370,
@@ -6424,12 +7676,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 1,
-      "Безгодько Владимир Федорович": 22,
-      "Кузьминов Олег Владимирович": 16,
-      "Настаев Алисолтан Магамедович": 47,
-      "Паштов Борис Султанович": 25,
-      "Шхагошев Адальби Люлевич": 196
+      "2072000540461": 1,
+      "2072000539283": 22,
+      "2072000538933": 16,
+      "2072000538946": 47,
+      "2072000539272": 25,
+      "2072000539261": 196
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534233&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534233&type=464",
@@ -6439,6 +7691,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:04.038285+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534233&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534233&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -6448,8 +7704,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 265,
     "uikTvd": "4074006264717",
+    "uikName": "УИК №265",
     "tikTvd": "2072000534233",
     "tikName": "Терская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1351,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1390,
@@ -6465,12 +7725,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 3,
-      "Безгодько Владимир Федорович": 56,
-      "Кузьминов Олег Владимирович": 15,
-      "Настаев Алисолтан Магамедович": 152,
-      "Паштов Борис Султанович": 152,
-      "Шхагошев Адальби Люлевич": 808
+      "2072000540461": 3,
+      "2072000539283": 56,
+      "2072000538933": 15,
+      "2072000538946": 152,
+      "2072000539272": 152,
+      "2072000539261": 808
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534233&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534233&type=464",
@@ -6480,6 +7740,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:04.038285+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534233&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534233&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -6489,8 +7753,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 266,
     "uikTvd": "4074006264718",
+    "uikName": "УИК №266",
     "tikTvd": "2072000534233",
     "tikName": "Терская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1038,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1050,
@@ -6506,12 +7774,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 3,
-      "Безгодько Владимир Федорович": 40,
-      "Кузьминов Олег Владимирович": 16,
-      "Настаев Алисолтан Магамедович": 113,
-      "Паштов Борис Султанович": 106,
-      "Шхагошев Адальби Люлевич": 615
+      "2072000540461": 3,
+      "2072000539283": 40,
+      "2072000538933": 16,
+      "2072000538946": 113,
+      "2072000539272": 106,
+      "2072000539261": 615
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534233&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534233&type=464",
@@ -6521,6 +7789,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:04.038285+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534233&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534233&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -6530,8 +7802,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 267,
     "uikTvd": "4074006264719",
+    "uikName": "УИК №267",
     "tikTvd": "2072000534233",
     "tikName": "Терская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 967,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 980,
@@ -6547,12 +7823,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 5,
-      "Безгодько Владимир Федорович": 36,
-      "Кузьминов Олег Владимирович": 16,
-      "Настаев Алисолтан Магамедович": 107,
-      "Паштов Борис Султанович": 87,
-      "Шхагошев Адальби Люлевич": 603
+      "2072000540461": 5,
+      "2072000539283": 36,
+      "2072000538933": 16,
+      "2072000538946": 107,
+      "2072000539272": 87,
+      "2072000539261": 603
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534233&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534233&type=464",
@@ -6562,6 +7838,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:04.038285+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534233&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534233&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -6571,8 +7851,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 268,
     "uikTvd": "4074006264720",
+    "uikName": "УИК №268",
     "tikTvd": "2072000534233",
     "tikName": "Терская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 917,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 930,
@@ -6588,12 +7872,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 7,
-      "Безгодько Владимир Федорович": 37,
-      "Кузьминов Олег Владимирович": 16,
-      "Настаев Алисолтан Магамедович": 98,
-      "Паштов Борис Султанович": 102,
-      "Шхагошев Адальби Люлевич": 545
+      "2072000540461": 7,
+      "2072000539283": 37,
+      "2072000538933": 16,
+      "2072000538946": 98,
+      "2072000539272": 102,
+      "2072000539261": 545
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534233&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534233&type=464",
@@ -6603,6 +7887,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:04.038285+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534233&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534233&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -6612,8 +7900,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 269,
     "uikTvd": "4074006264721",
+    "uikName": "УИК №269",
     "tikTvd": "2072000534233",
     "tikName": "Терская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1983,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2030,
@@ -6629,12 +7921,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 5,
-      "Безгодько Владимир Федорович": 72,
-      "Кузьминов Олег Владимирович": 18,
-      "Настаев Алисолтан Магамедович": 215,
-      "Паштов Борис Султанович": 210,
-      "Шхагошев Адальби Люлевич": 1249
+      "2072000540461": 5,
+      "2072000539283": 72,
+      "2072000538933": 18,
+      "2072000538946": 215,
+      "2072000539272": 210,
+      "2072000539261": 1249
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534233&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534233&type=464",
@@ -6644,6 +7936,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:04.038285+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534233&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534233&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -6653,8 +7949,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 270,
     "uikTvd": "4074006264722",
+    "uikName": "УИК №270",
     "tikTvd": "2072000534233",
     "tikName": "Терская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1849,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1890,
@@ -6670,12 +7970,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 3,
-      "Безгодько Владимир Федорович": 67,
-      "Кузьминов Олег Владимирович": 24,
-      "Настаев Алисолтан Магамедович": 213,
-      "Паштов Борис Султанович": 203,
-      "Шхагошев Адальби Люлевич": 1146
+      "2072000540461": 3,
+      "2072000539283": 67,
+      "2072000538933": 24,
+      "2072000538946": 213,
+      "2072000539272": 203,
+      "2072000539261": 1146
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534233&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534233&type=464",
@@ -6685,6 +7985,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:04.038285+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534233&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534233&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -6694,8 +7998,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 271,
     "uikTvd": "4074006264723",
+    "uikName": "УИК №271",
     "tikTvd": "2072000534233",
     "tikName": "Терская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 200,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 205,
@@ -6711,12 +8019,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 1,
-      "Безгодько Владимир Федорович": 14,
-      "Кузьминов Олег Владимирович": 15,
-      "Настаев Алисолтан Магамедович": 27,
-      "Паштов Борис Султанович": 6,
-      "Шхагошев Адальби Люлевич": 95
+      "2072000540461": 1,
+      "2072000539283": 14,
+      "2072000538933": 15,
+      "2072000538946": 27,
+      "2072000539272": 6,
+      "2072000539261": 95
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534233&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534233&type=464",
@@ -6726,6 +8034,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:04.038285+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534233&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534233&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -6735,8 +8047,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 272,
     "uikTvd": "4074006264724",
+    "uikName": "УИК №272",
     "tikTvd": "2072000534233",
     "tikName": "Терская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 751,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 760,
@@ -6752,12 +8068,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 4,
-      "Безгодько Владимир Федорович": 29,
-      "Кузьминов Олег Владимирович": 19,
-      "Настаев Алисолтан Магамедович": 87,
-      "Паштов Борис Султанович": 76,
-      "Шхагошев Адальби Люлевич": 452
+      "2072000540461": 4,
+      "2072000539283": 29,
+      "2072000538933": 19,
+      "2072000538946": 87,
+      "2072000539272": 76,
+      "2072000539261": 452
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534233&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534233&type=464",
@@ -6767,6 +8083,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:04.038285+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534233&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534233&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -6776,8 +8096,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 273,
     "uikTvd": "4074006264725",
+    "uikName": "УИК №273",
     "tikTvd": "2072000534233",
     "tikName": "Терская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1400,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1440,
@@ -6793,12 +8117,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 3,
-      "Безгодько Владимир Федорович": 56,
-      "Кузьминов Олег Владимирович": 17,
-      "Настаев Алисолтан Магамедович": 160,
-      "Паштов Борис Султанович": 147,
-      "Шхагошев Адальби Люлевич": 876
+      "2072000540461": 3,
+      "2072000539283": 56,
+      "2072000538933": 17,
+      "2072000538946": 160,
+      "2072000539272": 147,
+      "2072000539261": 876
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534233&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534233&type=464",
@@ -6808,6 +8132,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:04.038285+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534233&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534233&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -6817,8 +8145,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 274,
     "uikTvd": "4074006264726",
+    "uikName": "УИК №274",
     "tikTvd": "2072000534233",
     "tikName": "Терская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1461,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1500,
@@ -6834,12 +8166,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 7,
-      "Безгодько Владимир Федорович": 54,
-      "Кузьминов Олег Владимирович": 16,
-      "Настаев Алисолтан Магамедович": 152,
-      "Паштов Борис Султанович": 189,
-      "Шхагошев Адальби Люлевич": 903
+      "2072000540461": 7,
+      "2072000539283": 54,
+      "2072000538933": 16,
+      "2072000538946": 152,
+      "2072000539272": 189,
+      "2072000539261": 903
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534233&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534233&type=464",
@@ -6849,6 +8181,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:04.038285+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534233&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534233&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -6858,8 +8194,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 275,
     "uikTvd": "4074006264727",
+    "uikName": "УИК №275",
     "tikTvd": "2072000534233",
     "tikName": "Терская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1100,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1140,
@@ -6875,12 +8215,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 7,
-      "Безгодько Владимир Федорович": 41,
-      "Кузьминов Олег Владимирович": 18,
-      "Настаев Алисолтан Магамедович": 129,
-      "Паштов Борис Султанович": 88,
-      "Шхагошев Адальби Люлевич": 721
+      "2072000540461": 7,
+      "2072000539283": 41,
+      "2072000538933": 18,
+      "2072000538946": 129,
+      "2072000539272": 88,
+      "2072000539261": 721
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534233&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534233&type=464",
@@ -6890,6 +8230,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:04.038285+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534233&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534233&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -6899,8 +8243,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 276,
     "uikTvd": "4074006264728",
+    "uikName": "УИК №276",
     "tikTvd": "2072000534233",
     "tikName": "Терская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 470,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 475,
@@ -6916,12 +8264,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 3,
-      "Безгодько Владимир Федорович": 23,
-      "Кузьминов Олег Владимирович": 18,
-      "Настаев Алисолтан Магамедович": 55,
-      "Паштов Борис Султанович": 20,
-      "Шхагошев Адальби Люлевич": 292
+      "2072000540461": 3,
+      "2072000539283": 23,
+      "2072000538933": 18,
+      "2072000538946": 55,
+      "2072000539272": 20,
+      "2072000539261": 292
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534233&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534233&type=464",
@@ -6931,6 +8279,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:04.038285+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534233&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534233&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -6940,8 +8292,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 334,
     "uikTvd": "4074006264729",
+    "uikName": "УИК №334",
     "tikTvd": "2072000534233",
     "tikName": "Терская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1807,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1807,
@@ -6957,12 +8313,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 5,
-      "Безгодько Владимир Федорович": 54,
-      "Кузьминов Олег Владимирович": 3,
-      "Настаев Алисолтан Магамедович": 170,
-      "Паштов Борис Султанович": 238,
-      "Шхагошев Адальби Люлевич": 1010
+      "2072000540461": 5,
+      "2072000539283": 54,
+      "2072000538933": 3,
+      "2072000538946": 170,
+      "2072000539272": 238,
+      "2072000539261": 1010
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534233&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534233&type=464",
@@ -6972,6 +8328,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:04.038285+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534233&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534233&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -6981,8 +8341,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 335,
     "uikTvd": "9079007224299",
+    "uikName": "УИК №335",
     "tikTvd": "2072000534234",
     "tikName": "Эльбрусская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 737,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 725,
@@ -6998,12 +8362,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 2,
-      "Безгодько Владимир Федорович": 41,
-      "Кузьминов Олег Владимирович": 2,
-      "Настаев Алисолтан Магамедович": 97,
-      "Паштов Борис Султанович": 96,
-      "Шхагошев Адальби Люлевич": 386
+      "2072000540461": 2,
+      "2072000539283": 41,
+      "2072000538933": 2,
+      "2072000538946": 97,
+      "2072000539272": 96,
+      "2072000539261": 386
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534234&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534234&type=464",
@@ -7013,6 +8377,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:05.440428+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534234&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534234&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -7022,8 +8390,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 336,
     "uikTvd": "9079007224300",
+    "uikName": "УИК №336",
     "tikTvd": "2072000534234",
     "tikName": "Эльбрусская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 678,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 665,
@@ -7039,12 +8411,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 2,
-      "Безгодько Владимир Федорович": 29,
-      "Кузьминов Олег Владимирович": 3,
-      "Настаев Алисолтан Магамедович": 97,
-      "Паштов Борис Султанович": 69,
-      "Шхагошев Адальби Люлевич": 386
+      "2072000540461": 2,
+      "2072000539283": 29,
+      "2072000538933": 3,
+      "2072000538946": 97,
+      "2072000539272": 69,
+      "2072000539261": 386
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534234&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534234&type=464",
@@ -7054,6 +8426,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:05.440428+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534234&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534234&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -7063,8 +8439,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 337,
     "uikTvd": "9079007224301",
+    "uikName": "УИК №337",
     "tikTvd": "2072000534234",
     "tikName": "Эльбрусская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 688,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 675,
@@ -7080,12 +8460,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 3,
-      "Безгодько Владимир Федорович": 30,
-      "Кузьминов Олег Владимирович": 2,
-      "Настаев Алисолтан Магамедович": 76,
-      "Паштов Борис Султанович": 73,
-      "Шхагошев Адальби Люлевич": 372
+      "2072000540461": 3,
+      "2072000539283": 30,
+      "2072000538933": 2,
+      "2072000538946": 76,
+      "2072000539272": 73,
+      "2072000539261": 372
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534234&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534234&type=464",
@@ -7095,6 +8475,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:05.440428+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534234&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534234&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -7104,8 +8488,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 338,
     "uikTvd": "9079007224302",
+    "uikName": "УИК №338",
     "tikTvd": "2072000534234",
     "tikName": "Эльбрусская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 931,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 920,
@@ -7121,12 +8509,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 1,
-      "Безгодько Владимир Федорович": 39,
-      "Кузьминов Олег Владимирович": 3,
-      "Настаев Алисолтан Магамедович": 103,
-      "Паштов Борис Султанович": 117,
-      "Шхагошев Адальби Люлевич": 542
+      "2072000540461": 1,
+      "2072000539283": 39,
+      "2072000538933": 3,
+      "2072000538946": 103,
+      "2072000539272": 117,
+      "2072000539261": 542
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534234&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534234&type=464",
@@ -7136,6 +8524,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:05.440428+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534234&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534234&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -7145,8 +8537,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 339,
     "uikTvd": "9079007224303",
+    "uikName": "УИК №339",
     "tikTvd": "2072000534234",
     "tikName": "Эльбрусская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 509,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 496,
@@ -7162,12 +8558,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 1,
-      "Безгодько Владимир Федорович": 30,
-      "Кузьминов Олег Владимирович": 2,
-      "Настаев Алисолтан Магамедович": 67,
-      "Паштов Борис Султанович": 39,
-      "Шхагошев Адальби Люлевич": 296
+      "2072000540461": 1,
+      "2072000539283": 30,
+      "2072000538933": 2,
+      "2072000538946": 67,
+      "2072000539272": 39,
+      "2072000539261": 296
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534234&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534234&type=464",
@@ -7177,6 +8573,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:05.440428+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534234&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534234&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -7186,8 +8586,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 340,
     "uikTvd": "9079007224304",
+    "uikName": "УИК №340",
     "tikTvd": "2072000534234",
     "tikName": "Эльбрусская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 269,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 260,
@@ -7203,12 +8607,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 3,
-      "Безгодько Владимир Федорович": 13,
-      "Кузьминов Олег Владимирович": 4,
-      "Настаев Алисолтан Магамедович": 32,
-      "Паштов Борис Султанович": 29,
-      "Шхагошев Адальби Люлевич": 131
+      "2072000540461": 3,
+      "2072000539283": 13,
+      "2072000538933": 4,
+      "2072000538946": 32,
+      "2072000539272": 29,
+      "2072000539261": 131
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534234&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534234&type=464",
@@ -7218,6 +8622,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:05.440428+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534234&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534234&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -7227,8 +8635,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 341,
     "uikTvd": "9079007224305",
+    "uikName": "УИК №341",
     "tikTvd": "2072000534234",
     "tikName": "Эльбрусская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1315,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1300,
@@ -7244,12 +8656,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 1,
-      "Безгодько Владимир Федорович": 43,
-      "Кузьминов Олег Владимирович": 1,
-      "Настаев Алисолтан Магамедович": 150,
-      "Паштов Борис Султанович": 136,
-      "Шхагошев Адальби Люлевич": 798
+      "2072000540461": 1,
+      "2072000539283": 43,
+      "2072000538933": 1,
+      "2072000538946": 150,
+      "2072000539272": 136,
+      "2072000539261": 798
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534234&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534234&type=464",
@@ -7259,6 +8671,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:05.440428+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534234&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534234&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -7268,8 +8684,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 342,
     "uikTvd": "9079007224306",
+    "uikName": "УИК №342",
     "tikTvd": "2072000534234",
     "tikName": "Эльбрусская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 171,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 166,
@@ -7285,12 +8705,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 1,
-      "Безгодько Владимир Федорович": 12,
-      "Кузьминов Олег Владимирович": 1,
-      "Настаев Алисолтан Магамедович": 23,
-      "Паштов Борис Султанович": 14,
-      "Шхагошев Адальби Люлевич": 87
+      "2072000540461": 1,
+      "2072000539283": 12,
+      "2072000538933": 1,
+      "2072000538946": 23,
+      "2072000539272": 14,
+      "2072000539261": 87
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534234&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534234&type=464",
@@ -7300,6 +8720,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:05.440428+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534234&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534234&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -7309,8 +8733,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 343,
     "uikTvd": "9079007224307",
+    "uikName": "УИК №343",
     "tikTvd": "2072000534234",
     "tikName": "Эльбрусская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1803,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1803,
@@ -7326,12 +8754,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 3,
-      "Безгодько Владимир Федорович": 57,
-      "Кузьминов Олег Владимирович": 2,
-      "Настаев Алисолтан Магамедович": 213,
-      "Паштов Борис Султанович": 254,
-      "Шхагошев Адальби Люлевич": 1012
+      "2072000540461": 3,
+      "2072000539283": 57,
+      "2072000538933": 2,
+      "2072000538946": 213,
+      "2072000539272": 254,
+      "2072000539261": 1012
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534234&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534234&type=464",
@@ -7341,6 +8769,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:05.440428+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534234&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534234&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -7350,8 +8782,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 344,
     "uikTvd": "9079007224308",
+    "uikName": "УИК №344",
     "tikTvd": "2072000534234",
     "tikName": "Эльбрусская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 941,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 941,
@@ -7367,12 +8803,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 3,
-      "Безгодько Владимир Федорович": 32,
-      "Кузьминов Олег Владимирович": 3,
-      "Настаев Алисолтан Магамедович": 92,
-      "Паштов Борис Султанович": 126,
-      "Шхагошев Адальби Люлевич": 497
+      "2072000540461": 3,
+      "2072000539283": 32,
+      "2072000538933": 3,
+      "2072000538946": 92,
+      "2072000539272": 126,
+      "2072000539261": 497
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534234&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534234&type=464",
@@ -7382,6 +8818,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:05.440428+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534234&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534234&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -7391,8 +8831,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 345,
     "uikTvd": "9079007224309",
+    "uikName": "УИК №345",
     "tikTvd": "2072000534234",
     "tikName": "Эльбрусская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 982,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 982,
@@ -7408,12 +8852,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 3,
-      "Безгодько Владимир Федорович": 44,
-      "Кузьминов Олег Владимирович": 4,
-      "Настаев Алисолтан Магамедович": 113,
-      "Паштов Борис Султанович": 122,
-      "Шхагошев Адальби Люлевич": 545
+      "2072000540461": 3,
+      "2072000539283": 44,
+      "2072000538933": 4,
+      "2072000538946": 113,
+      "2072000539272": 122,
+      "2072000539261": 545
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534234&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534234&type=464",
@@ -7423,6 +8867,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:05.440428+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534234&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534234&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -7432,8 +8880,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 346,
     "uikTvd": "9079007224310",
+    "uikName": "УИК №346",
     "tikTvd": "2072000534234",
     "tikName": "Эльбрусская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 711,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 711,
@@ -7449,12 +8901,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 1,
-      "Безгодько Владимир Федорович": 31,
-      "Кузьминов Олег Владимирович": 3,
-      "Настаев Алисолтан Магамедович": 69,
-      "Паштов Борис Султанович": 88,
-      "Шхагошев Адальби Люлевич": 406
+      "2072000540461": 1,
+      "2072000539283": 31,
+      "2072000538933": 3,
+      "2072000538946": 69,
+      "2072000539272": 88,
+      "2072000539261": 406
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534234&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534234&type=464",
@@ -7464,6 +8916,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:05.440428+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534234&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534234&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -7473,8 +8929,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 347,
     "uikTvd": "9079007224311",
+    "uikName": "УИК №347",
     "tikTvd": "2072000534234",
     "tikName": "Эльбрусская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1855,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1855,
@@ -7490,12 +8950,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 2,
-      "Безгодько Владимир Федорович": 56,
-      "Кузьминов Олег Владимирович": 2,
-      "Настаев Алисолтан Магамедович": 197,
-      "Паштов Борис Султанович": 248,
-      "Шхагошев Адальби Люлевич": 1099
+      "2072000540461": 2,
+      "2072000539283": 56,
+      "2072000538933": 2,
+      "2072000538946": 197,
+      "2072000539272": 248,
+      "2072000539261": 1099
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534234&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534234&type=464",
@@ -7505,6 +8965,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:05.440428+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534234&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534234&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -7514,8 +8978,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 348,
     "uikTvd": "9079007224312",
+    "uikName": "УИК №348",
     "tikTvd": "2072000534234",
     "tikName": "Эльбрусская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 817,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 817,
@@ -7531,12 +8999,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 3,
-      "Безгодько Владимир Федорович": 27,
-      "Кузьминов Олег Владимирович": 2,
-      "Настаев Алисолтан Магамедович": 67,
-      "Паштов Борис Султанович": 106,
-      "Шхагошев Адальби Люлевич": 442
+      "2072000540461": 3,
+      "2072000539283": 27,
+      "2072000538933": 2,
+      "2072000538946": 67,
+      "2072000539272": 106,
+      "2072000539261": 442
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534234&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534234&type=464",
@@ -7546,6 +9014,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:05.440428+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534234&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534234&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -7555,8 +9027,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 349,
     "uikTvd": "9079007224313",
+    "uikName": "УИК №349",
     "tikTvd": "2072000534234",
     "tikName": "Эльбрусская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1833,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1833,
@@ -7572,12 +9048,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 2,
-      "Безгодько Владимир Федорович": 55,
-      "Кузьминов Олег Владимирович": 4,
-      "Настаев Алисолтан Магамедович": 172,
-      "Паштов Борис Султанович": 241,
-      "Шхагошев Адальби Люлевич": 1115
+      "2072000540461": 2,
+      "2072000539283": 55,
+      "2072000538933": 4,
+      "2072000538946": 172,
+      "2072000539272": 241,
+      "2072000539261": 1115
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534234&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534234&type=464",
@@ -7587,6 +9063,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:05.440428+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534234&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534234&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -7596,8 +9076,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 350,
     "uikTvd": "9079007224314",
+    "uikName": "УИК №350",
     "tikTvd": "2072000534234",
     "tikName": "Эльбрусская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1658,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1658,
@@ -7613,12 +9097,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 2,
-      "Безгодько Владимир Федорович": 54,
-      "Кузьминов Олег Владимирович": 2,
-      "Настаев Алисолтан Магамедович": 150,
-      "Паштов Борис Султанович": 258,
-      "Шхагошев Адальби Люлевич": 964
+      "2072000540461": 2,
+      "2072000539283": 54,
+      "2072000538933": 2,
+      "2072000538946": 150,
+      "2072000539272": 258,
+      "2072000539261": 964
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534234&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534234&type=464",
@@ -7628,6 +9112,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:05.440428+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534234&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534234&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -7637,8 +9125,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 351,
     "uikTvd": "9079007224315",
+    "uikName": "УИК №351",
     "tikTvd": "2072000534234",
     "tikName": "Эльбрусская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1580,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1580,
@@ -7654,12 +9146,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 2,
-      "Безгодько Владимир Федорович": 54,
-      "Кузьминов Олег Владимирович": 3,
-      "Настаев Алисолтан Магамедович": 149,
-      "Паштов Борис Султанович": 200,
-      "Шхагошев Адальби Люлевич": 948
+      "2072000540461": 2,
+      "2072000539283": 54,
+      "2072000538933": 3,
+      "2072000538946": 149,
+      "2072000539272": 200,
+      "2072000539261": 948
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534234&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534234&type=464",
@@ -7669,6 +9161,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:05.440428+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534234&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534234&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -7678,8 +9174,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 352,
     "uikTvd": "9079007224316",
+    "uikName": "УИК №352",
     "tikTvd": "2072000534234",
     "tikName": "Эльбрусская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 319,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 319,
@@ -7695,12 +9195,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 1,
-      "Безгодько Владимир Федорович": 15,
-      "Кузьминов Олег Владимирович": 2,
-      "Настаев Алисолтан Магамедович": 33,
-      "Паштов Борис Султанович": 48,
-      "Шхагошев Адальби Люлевич": 170
+      "2072000540461": 1,
+      "2072000539283": 15,
+      "2072000538933": 2,
+      "2072000538946": 33,
+      "2072000539272": 48,
+      "2072000539261": 170
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534234&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534234&type=464",
@@ -7710,6 +9210,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:05.440428+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534234&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534234&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -7719,8 +9223,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 353,
     "uikTvd": "9079007224317",
+    "uikName": "УИК №353",
     "tikTvd": "2072000534234",
     "tikName": "Эльбрусская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 324,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 324,
@@ -7736,12 +9244,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 1,
-      "Безгодько Владимир Федорович": 19,
-      "Кузьминов Олег Владимирович": 1,
-      "Настаев Алисолтан Магамедович": 38,
-      "Паштов Борис Султанович": 35,
-      "Шхагошев Адальби Люлевич": 178
+      "2072000540461": 1,
+      "2072000539283": 19,
+      "2072000538933": 1,
+      "2072000538946": 38,
+      "2072000539272": 35,
+      "2072000539261": 178
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534234&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534234&type=464",
@@ -7751,6 +9259,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:05.440428+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534234&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534234&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -7760,8 +9272,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 354,
     "uikTvd": "9079007224318",
+    "uikName": "УИК №354",
     "tikTvd": "2072000534234",
     "tikName": "Эльбрусская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1543,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1543,
@@ -7777,12 +9293,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 2,
-      "Безгодько Владимир Федорович": 65,
-      "Кузьминов Олег Владимирович": 3,
-      "Настаев Алисолтан Магамедович": 149,
-      "Паштов Борис Султанович": 205,
-      "Шхагошев Адальби Люлевич": 847
+      "2072000540461": 2,
+      "2072000539283": 65,
+      "2072000538933": 3,
+      "2072000538946": 149,
+      "2072000539272": 205,
+      "2072000539261": 847
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534234&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534234&type=464",
@@ -7792,6 +9308,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:05.440428+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534234&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534234&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -7801,8 +9321,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 355,
     "uikTvd": "9079007224319",
+    "uikName": "УИК №355",
     "tikTvd": "2072000534234",
     "tikName": "Эльбрусская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 827,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 827,
@@ -7818,12 +9342,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 1,
-      "Безгодько Владимир Федорович": 25,
-      "Кузьминов Олег Владимирович": 4,
-      "Настаев Алисолтан Магамедович": 57,
-      "Паштов Борис Султанович": 242,
-      "Шхагошев Адальби Люлевич": 344
+      "2072000540461": 1,
+      "2072000539283": 25,
+      "2072000538933": 4,
+      "2072000538946": 57,
+      "2072000539272": 242,
+      "2072000539261": 344
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534234&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534234&type=464",
@@ -7833,6 +9357,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:05.440428+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534234&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534234&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -7842,8 +9370,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1,
     "uikTvd": "4074001192116",
+    "uikName": "УИК №1",
     "tikTvd": "2072000534235",
     "tikName": "Баксанская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1776,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1785,
@@ -7859,12 +9391,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 5,
-      "Безгодько Владимир Федорович": 56,
-      "Кузьминов Олег Владимирович": 17,
-      "Настаев Алисолтан Магамедович": 153,
-      "Паштов Борис Султанович": 185,
-      "Шхагошев Адальби Люлевич": 1102
+      "2072000540461": 5,
+      "2072000539283": 56,
+      "2072000538933": 17,
+      "2072000538946": 153,
+      "2072000539272": 185,
+      "2072000539261": 1102
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534235&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534235&type=464",
@@ -7874,6 +9406,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:05.760067+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534235&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534235&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -7883,8 +9419,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 2,
     "uikTvd": "4074001192117",
+    "uikName": "УИК №2",
     "tikTvd": "2072000534235",
     "tikName": "Баксанская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1979,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1989,
@@ -7900,12 +9440,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 3,
-      "Безгодько Владимир Федорович": 55,
-      "Кузьминов Олег Владимирович": 24,
-      "Настаев Алисолтан Магамедович": 202,
-      "Паштов Борис Султанович": 119,
-      "Шхагошев Адальби Люлевич": 1301
+      "2072000540461": 3,
+      "2072000539283": 55,
+      "2072000538933": 24,
+      "2072000538946": 202,
+      "2072000539272": 119,
+      "2072000539261": 1301
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534235&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534235&type=464",
@@ -7915,6 +9455,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:05.760067+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534235&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534235&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -7924,8 +9468,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 3,
     "uikTvd": "4074001192118",
+    "uikName": "УИК №3",
     "tikTvd": "2072000534235",
     "tikName": "Баксанская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1869,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1878,
@@ -7941,12 +9489,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 7,
-      "Безгодько Владимир Федорович": 54,
-      "Кузьминов Олег Владимирович": 31,
-      "Настаев Алисолтан Магамедович": 177,
-      "Паштов Борис Султанович": 226,
-      "Шхагошев Адальби Люлевич": 1130
+      "2072000540461": 7,
+      "2072000539283": 54,
+      "2072000538933": 31,
+      "2072000538946": 177,
+      "2072000539272": 226,
+      "2072000539261": 1130
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534235&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534235&type=464",
@@ -7956,6 +9504,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:05.760067+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534235&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534235&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -7965,8 +9517,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4,
     "uikTvd": "4074001192119",
+    "uikName": "УИК №4",
     "tikTvd": "2072000534235",
     "tikName": "Баксанская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1840,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1849,
@@ -7982,12 +9538,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 5,
-      "Безгодько Владимир Федорович": 44,
-      "Кузьминов Олег Владимирович": 17,
-      "Настаев Алисолтан Магамедович": 116,
-      "Паштов Борис Султанович": 267,
-      "Шхагошев Адальби Люлевич": 1124
+      "2072000540461": 5,
+      "2072000539283": 44,
+      "2072000538933": 17,
+      "2072000538946": 116,
+      "2072000539272": 267,
+      "2072000539261": 1124
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534235&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534235&type=464",
@@ -7997,6 +9553,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:05.760067+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534235&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534235&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -8006,8 +9566,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 5,
     "uikTvd": "4074001192120",
+    "uikName": "УИК №5",
     "tikTvd": "2072000534235",
     "tikName": "Баксанская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1322,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1328,
@@ -8023,12 +9587,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 3,
-      "Безгодько Владимир Федорович": 54,
-      "Кузьминов Олег Владимирович": 16,
-      "Настаев Алисолтан Магамедович": 153,
-      "Паштов Борис Султанович": 44,
-      "Шхагошев Адальби Люлевич": 854
+      "2072000540461": 3,
+      "2072000539283": 54,
+      "2072000538933": 16,
+      "2072000538946": 153,
+      "2072000539272": 44,
+      "2072000539261": 854
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534235&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534235&type=464",
@@ -8038,6 +9602,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:05.760067+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534235&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534235&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -8047,8 +9615,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 6,
     "uikTvd": "4074001192121",
+    "uikName": "УИК №6",
     "tikTvd": "2072000534235",
     "tikName": "Баксанская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1331,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1337,
@@ -8064,12 +9636,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 5,
-      "Безгодько Владимир Федорович": 46,
-      "Кузьминов Олег Владимирович": 15,
-      "Настаев Алисолтан Магамедович": 120,
-      "Паштов Борис Султанович": 153,
-      "Шхагошев Адальби Люлевич": 826
+      "2072000540461": 5,
+      "2072000539283": 46,
+      "2072000538933": 15,
+      "2072000538946": 120,
+      "2072000539272": 153,
+      "2072000539261": 826
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534235&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534235&type=464",
@@ -8079,6 +9651,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:05.760067+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534235&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534235&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -8088,8 +9664,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 7,
     "uikTvd": "4074001192122",
+    "uikName": "УИК №7",
     "tikTvd": "2072000534235",
     "tikName": "Баксанская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1328,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1334,
@@ -8105,12 +9685,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 5,
-      "Безгодько Владимир Федорович": 56,
-      "Кузьминов Олег Владимирович": 16,
-      "Настаев Алисолтан Магамедович": 149,
-      "Паштов Борис Султанович": 103,
-      "Шхагошев Адальби Люлевич": 814
+      "2072000540461": 5,
+      "2072000539283": 56,
+      "2072000538933": 16,
+      "2072000538946": 149,
+      "2072000539272": 103,
+      "2072000539261": 814
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534235&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534235&type=464",
@@ -8120,6 +9700,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:05.760067+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534235&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534235&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -8129,8 +9713,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 8,
     "uikTvd": "4074001192123",
+    "uikName": "УИК №8",
     "tikTvd": "2072000534235",
     "tikName": "Баксанская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1321,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1327,
@@ -8146,12 +9734,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 3,
-      "Безгодько Владимир Федорович": 52,
-      "Кузьминов Олег Владимирович": 17,
-      "Настаев Алисолтан Магамедович": 152,
-      "Паштов Борис Султанович": 79,
-      "Шхагошев Адальби Люлевич": 842
+      "2072000540461": 3,
+      "2072000539283": 52,
+      "2072000538933": 17,
+      "2072000538946": 152,
+      "2072000539272": 79,
+      "2072000539261": 842
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534235&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534235&type=464",
@@ -8161,6 +9749,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:05.760067+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534235&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534235&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -8170,8 +9762,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 9,
     "uikTvd": "4074001192124",
+    "uikName": "УИК №9",
     "tikTvd": "2072000534235",
     "tikName": "Баксанская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1685,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1693,
@@ -8187,12 +9783,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 7,
-      "Безгодько Владимир Федорович": 54,
-      "Кузьминов Олег Владимирович": 16,
-      "Настаев Алисолтан Магамедович": 152,
-      "Паштов Борис Султанович": 129,
-      "Шхагошев Адальби Люлевич": 1105
+      "2072000540461": 7,
+      "2072000539283": 54,
+      "2072000538933": 16,
+      "2072000538946": 152,
+      "2072000539272": 129,
+      "2072000539261": 1105
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534235&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534235&type=464",
@@ -8202,6 +9798,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:05.760067+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534235&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534235&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -8211,8 +9811,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 10,
     "uikTvd": "4074001192125",
+    "uikName": "УИК №10",
     "tikTvd": "2072000534235",
     "tikName": "Баксанская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1739,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1747,
@@ -8228,12 +9832,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 5,
-      "Безгодько Владимир Федорович": 53,
-      "Кузьминов Олег Владимирович": 17,
-      "Настаев Алисолтан Магамедович": 187,
-      "Паштов Борис Султанович": 101,
-      "Шхагошев Адальби Люлевич": 1160
+      "2072000540461": 5,
+      "2072000539283": 53,
+      "2072000538933": 17,
+      "2072000538946": 187,
+      "2072000539272": 101,
+      "2072000539261": 1160
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534235&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534235&type=464",
@@ -8243,6 +9847,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:05.760067+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534235&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534235&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -8252,8 +9860,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 11,
     "uikTvd": "4074001192126",
+    "uikName": "УИК №11",
     "tikTvd": "2072000534235",
     "tikName": "Баксанская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1850,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1859,
@@ -8269,12 +9881,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 7,
-      "Безгодько Владимир Федорович": 54,
-      "Кузьминов Олег Владимирович": 15,
-      "Настаев Алисолтан Магамедович": 154,
-      "Паштов Борис Султанович": 233,
-      "Шхагошев Адальби Люлевич": 1102
+      "2072000540461": 7,
+      "2072000539283": 54,
+      "2072000538933": 15,
+      "2072000538946": 154,
+      "2072000539272": 233,
+      "2072000539261": 1102
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534235&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534235&type=464",
@@ -8284,6 +9896,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:05.760067+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534235&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534235&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -8293,8 +9909,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 12,
     "uikTvd": "4074001192127",
+    "uikName": "УИК №12",
     "tikTvd": "2072000534235",
     "tikName": "Баксанская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1905,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1915,
@@ -8310,12 +9930,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 3,
-      "Безгодько Владимир Федорович": 56,
-      "Кузьминов Олег Владимирович": 17,
-      "Настаев Алисолтан Магамедович": 150,
-      "Паштов Борис Султанович": 301,
-      "Шхагошев Адальби Люлевич": 1072
+      "2072000540461": 3,
+      "2072000539283": 56,
+      "2072000538933": 17,
+      "2072000538946": 150,
+      "2072000539272": 301,
+      "2072000539261": 1072
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534235&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534235&type=464",
@@ -8325,6 +9945,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:05.760067+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534235&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534235&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -8334,8 +9958,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 13,
     "uikTvd": "4074001192128",
+    "uikName": "УИК №13",
     "tikTvd": "2072000534235",
     "tikName": "Баксанская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2166,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2177,
@@ -8351,12 +9979,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 7,
-      "Безгодько Владимир Федорович": 54,
-      "Кузьминов Олег Владимирович": 27,
-      "Настаев Алисолтан Магамедович": 196,
-      "Паштов Борис Султанович": 235,
-      "Шхагошев Адальби Люлевич": 1335
+      "2072000540461": 7,
+      "2072000539283": 54,
+      "2072000538933": 27,
+      "2072000538946": 196,
+      "2072000539272": 235,
+      "2072000539261": 1335
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534235&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534235&type=464",
@@ -8366,6 +9994,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:05.760067+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534235&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534235&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -8375,8 +10007,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 14,
     "uikTvd": "4074001192129",
+    "uikName": "УИК №14",
     "tikTvd": "2072000534235",
     "tikName": "Баксанская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2005,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2015,
@@ -8392,12 +10028,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 3,
-      "Безгодько Владимир Федорович": 54,
-      "Кузьминов Олег Владимирович": 33,
-      "Настаев Алисолтан Магамедович": 150,
-      "Паштов Борис Султанович": 234,
-      "Шхагошев Адальби Люлевич": 1248
+      "2072000540461": 3,
+      "2072000539283": 54,
+      "2072000538933": 33,
+      "2072000538946": 150,
+      "2072000539272": 234,
+      "2072000539261": 1248
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534235&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534235&type=464",
@@ -8407,6 +10043,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:05.760067+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534235&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534235&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -8416,8 +10056,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 15,
     "uikTvd": "4074001192130",
+    "uikName": "УИК №15",
     "tikTvd": "2072000534235",
     "tikName": "Баксанская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1339,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1346,
@@ -8433,12 +10077,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 5,
-      "Безгодько Владимир Федорович": 48,
-      "Кузьминов Олег Владимирович": 15,
-      "Настаев Алисолтан Магамедович": 110,
-      "Паштов Борис Султанович": 203,
-      "Шхагошев Адальби Люлевич": 799
+      "2072000540461": 5,
+      "2072000539283": 48,
+      "2072000538933": 15,
+      "2072000538946": 110,
+      "2072000539272": 203,
+      "2072000539261": 799
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534235&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534235&type=464",
@@ -8448,6 +10092,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:05.760067+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534235&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534235&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -8457,8 +10105,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 16,
     "uikTvd": "4074001192131",
+    "uikName": "УИК №16",
     "tikTvd": "2072000534235",
     "tikName": "Баксанская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1261,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1267,
@@ -8474,12 +10126,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 7,
-      "Безгодько Владимир Федорович": 39,
-      "Кузьминов Олег Владимирович": 17,
-      "Настаев Алисолтан Магамедович": 129,
-      "Паштов Борис Султанович": 127,
-      "Шхагошев Адальби Люлевич": 789
+      "2072000540461": 7,
+      "2072000539283": 39,
+      "2072000538933": 17,
+      "2072000538946": 129,
+      "2072000539272": 127,
+      "2072000539261": 789
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534235&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534235&type=464",
@@ -8489,6 +10141,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:05.760067+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534235&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534235&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -8498,8 +10154,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 17,
     "uikTvd": "4074001192132",
+    "uikName": "УИК №17",
     "tikTvd": "2072000534235",
     "tikName": "Баксанская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2065,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2076,
@@ -8515,12 +10175,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 5,
-      "Безгодько Владимир Федорович": 41,
-      "Кузьминов Олег Владимирович": 31,
-      "Настаев Алисолтан Магамедович": 102,
-      "Паштов Борис Султанович": 278,
-      "Шхагошев Адальби Люлевич": 1300
+      "2072000540461": 5,
+      "2072000539283": 41,
+      "2072000538933": 31,
+      "2072000538946": 102,
+      "2072000539272": 278,
+      "2072000539261": 1300
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534235&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534235&type=464",
@@ -8530,6 +10190,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:05.760067+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534235&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534235&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -8539,8 +10203,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 18,
     "uikTvd": "4074001192133",
+    "uikName": "УИК №18",
     "tikTvd": "2072000534235",
     "tikName": "Баксанская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1508,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1515,
@@ -8556,12 +10224,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 3,
-      "Безгодько Владимир Федорович": 40,
-      "Кузьминов Олег Владимирович": 17,
-      "Настаев Алисолтан Магамедович": 112,
-      "Паштов Борис Султанович": 184,
-      "Шхагошев Адальби Люлевич": 954
+      "2072000540461": 3,
+      "2072000539283": 40,
+      "2072000538933": 17,
+      "2072000538946": 112,
+      "2072000539272": 184,
+      "2072000539261": 954
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534235&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534235&type=464",
@@ -8571,6 +10239,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:05.760067+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534235&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534235&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -8580,8 +10252,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 19,
     "uikTvd": "4074001192134",
+    "uikName": "УИК №19",
     "tikTvd": "2072000534235",
     "tikName": "Баксанская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1831,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1840,
@@ -8597,12 +10273,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 5,
-      "Безгодько Владимир Федорович": 55,
-      "Кузьминов Олег Владимирович": 19,
-      "Настаев Алисолтан Магамедович": 153,
-      "Паштов Борис Султанович": 258,
-      "Шхагошев Адальби Люлевич": 1118
+      "2072000540461": 5,
+      "2072000539283": 55,
+      "2072000538933": 19,
+      "2072000538946": 153,
+      "2072000539272": 258,
+      "2072000539261": 1118
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534235&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534235&type=464",
@@ -8612,6 +10288,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:05.760067+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534235&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534235&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -8621,8 +10301,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 20,
     "uikTvd": "4074001192135",
+    "uikName": "УИК №20",
     "tikTvd": "2072000534235",
     "tikName": "Баксанская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 841,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 845,
@@ -8638,12 +10322,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 7,
-      "Безгодько Владимир Федорович": 30,
-      "Кузьминов Олег Владимирович": 17,
-      "Настаев Алисолтан Магамедович": 76,
-      "Паштов Борис Султанович": 80,
-      "Шхагошев Адальби Люлевич": 487
+      "2072000540461": 7,
+      "2072000539283": 30,
+      "2072000538933": 17,
+      "2072000538946": 76,
+      "2072000539272": 80,
+      "2072000539261": 487
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534235&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534235&type=464",
@@ -8653,6 +10337,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:05.760067+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534235&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534235&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -8662,8 +10350,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 21,
     "uikTvd": "4074001192136",
+    "uikName": "УИК №21",
     "tikTvd": "2072000534235",
     "tikName": "Баксанская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 991,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 996,
@@ -8679,12 +10371,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 3,
-      "Безгодько Владимир Федорович": 44,
-      "Кузьминов Олег Владимирович": 17,
-      "Настаев Алисолтан Магамедович": 93,
-      "Паштов Борис Султанович": 91,
-      "Шхагошев Адальби Люлевич": 600
+      "2072000540461": 3,
+      "2072000539283": 44,
+      "2072000538933": 17,
+      "2072000538946": 93,
+      "2072000539272": 91,
+      "2072000539261": 600
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534235&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534235&type=464",
@@ -8694,6 +10386,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:05.760067+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534235&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534235&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -8703,8 +10399,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 22,
     "uikTvd": "4074001192137",
+    "uikName": "УИК №22",
     "tikTvd": "2072000534235",
     "tikName": "Баксанская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1596,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1604,
@@ -8720,12 +10420,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 5,
-      "Безгодько Владимир Федорович": 55,
-      "Кузьминов Олег Владимирович": 18,
-      "Настаев Алисолтан Магамедович": 149,
-      "Паштов Борис Султанович": 119,
-      "Шхагошев Адальби Люлевич": 1025
+      "2072000540461": 5,
+      "2072000539283": 55,
+      "2072000538933": 18,
+      "2072000538946": 149,
+      "2072000539272": 119,
+      "2072000539261": 1025
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534235&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534235&type=464",
@@ -8735,6 +10435,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:05.760067+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534235&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534235&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -8744,8 +10448,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 23,
     "uikTvd": "4074001192138",
+    "uikName": "УИК №23",
     "tikTvd": "2072000534235",
     "tikName": "Баксанская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1812,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1821,
@@ -8761,12 +10469,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 7,
-      "Безгодько Владимир Федорович": 56,
-      "Кузьминов Олег Владимирович": 24,
-      "Настаев Алисолтан Магамедович": 153,
-      "Паштов Борис Султанович": 86,
-      "Шхагошев Адальби Люлевич": 1258
+      "2072000540461": 7,
+      "2072000539283": 56,
+      "2072000538933": 24,
+      "2072000538946": 153,
+      "2072000539272": 86,
+      "2072000539261": 1258
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534235&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534235&type=464",
@@ -8776,6 +10484,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:05.760067+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534235&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534235&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -8785,8 +10497,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 24,
     "uikTvd": "4074001192139",
+    "uikName": "УИК №24",
     "tikTvd": "2072000534235",
     "tikName": "Баксанская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2152,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2163,
@@ -8802,12 +10518,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 7,
-      "Безгодько Владимир Федорович": 55,
-      "Кузьминов Олег Владимирович": 22,
-      "Настаев Алисолтан Магамедович": 241,
-      "Паштов Борис Султанович": 229,
-      "Шхагошев Адальби Люлевич": 1355
+      "2072000540461": 7,
+      "2072000539283": 55,
+      "2072000538933": 22,
+      "2072000538946": 241,
+      "2072000539272": 229,
+      "2072000539261": 1355
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534235&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534235&type=464",
@@ -8817,6 +10533,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:05.760067+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534235&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534235&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -8826,8 +10546,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 25,
     "uikTvd": "4074001192140",
+    "uikName": "УИК №25",
     "tikTvd": "2072000534235",
     "tikName": "Баксанская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1146,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1152,
@@ -8843,12 +10567,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 5,
-      "Безгодько Владимир Федорович": 56,
-      "Кузьминов Олег Владимирович": 17,
-      "Настаев Алисолтан Магамедович": 150,
-      "Паштов Борис Султанович": 86,
-      "Шхагошев Адальби Люлевич": 657
+      "2072000540461": 5,
+      "2072000539283": 56,
+      "2072000538933": 17,
+      "2072000538946": 150,
+      "2072000539272": 86,
+      "2072000539261": 657
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534235&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534235&type=464",
@@ -8858,6 +10582,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:05.760067+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534235&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534235&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -8867,8 +10595,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 26,
     "uikTvd": "4074001192141",
+    "uikName": "УИК №26",
     "tikTvd": "2072000534235",
     "tikName": "Баксанская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1611,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1619,
@@ -8884,12 +10616,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 5,
-      "Безгодько Владимир Федорович": 54,
-      "Кузьминов Олег Владимирович": 18,
-      "Настаев Алисолтан Магамедович": 206,
-      "Паштов Борис Султанович": 78,
-      "Шхагошев Адальби Люлевич": 998
+      "2072000540461": 5,
+      "2072000539283": 54,
+      "2072000538933": 18,
+      "2072000538946": 206,
+      "2072000539272": 78,
+      "2072000539261": 998
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534235&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534235&type=464",
@@ -8899,6 +10631,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:05.760067+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534235&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534235&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -8908,8 +10644,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 27,
     "uikTvd": "4074012138112",
+    "uikName": "УИК №27",
     "tikTvd": "2072000534236",
     "tikName": "Баксанская городская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2435,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2400,
@@ -8925,12 +10665,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 3,
-      "Безгодько Владимир Федорович": 74,
-      "Кузьминов Олег Владимирович": 4,
-      "Настаев Алисолтан Магамедович": 199,
-      "Паштов Борис Султанович": 291,
-      "Шхагошев Адальби Люлевич": 1283
+      "2072000540461": 3,
+      "2072000539283": 74,
+      "2072000538933": 4,
+      "2072000538946": 199,
+      "2072000539272": 291,
+      "2072000539261": 1283
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534236&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534236&type=464",
@@ -8940,6 +10680,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:06.913814+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534236&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534236&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -8949,8 +10693,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 28,
     "uikTvd": "4074012138113",
+    "uikName": "УИК №28",
     "tikTvd": "2072000534236",
     "tikName": "Баксанская городская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2149,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2100,
@@ -8966,12 +10714,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 4,
-      "Безгодько Владимир Федорович": 47,
-      "Кузьминов Олег Владимирович": 5,
-      "Настаев Алисолтан Магамедович": 174,
-      "Паштов Борис Султанович": 306,
-      "Шхагошев Адальби Люлевич": 1146
+      "2072000540461": 4,
+      "2072000539283": 47,
+      "2072000538933": 5,
+      "2072000538946": 174,
+      "2072000539272": 306,
+      "2072000539261": 1146
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534236&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534236&type=464",
@@ -8981,6 +10729,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:06.913814+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534236&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534236&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -8990,8 +10742,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 29,
     "uikTvd": "4074012138114",
+    "uikName": "УИК №29",
     "tikTvd": "2072000534236",
     "tikName": "Баксанская городская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2901,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2900,
@@ -9007,12 +10763,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 3,
-      "Безгодько Владимир Федорович": 56,
-      "Кузьминов Олег Владимирович": 4,
-      "Настаев Алисолтан Магамедович": 245,
-      "Паштов Борис Султанович": 343,
-      "Шхагошев Адальби Люлевич": 1571
+      "2072000540461": 3,
+      "2072000539283": 56,
+      "2072000538933": 4,
+      "2072000538946": 245,
+      "2072000539272": 343,
+      "2072000539261": 1571
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534236&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534236&type=464",
@@ -9022,6 +10778,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:06.913814+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534236&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534236&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -9031,8 +10791,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 30,
     "uikTvd": "4074012138115",
+    "uikName": "УИК №30",
     "tikTvd": "2072000534236",
     "tikName": "Баксанская городская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2246,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2200,
@@ -9048,12 +10812,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 7,
-      "Безгодько Владимир Федорович": 55,
-      "Кузьминов Олег Владимирович": 6,
-      "Настаев Алисолтан Магамедович": 201,
-      "Паштов Борис Султанович": 320,
-      "Шхагошев Адальби Люлевич": 1304
+      "2072000540461": 7,
+      "2072000539283": 55,
+      "2072000538933": 6,
+      "2072000538946": 201,
+      "2072000539272": 320,
+      "2072000539261": 1304
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534236&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534236&type=464",
@@ -9063,6 +10827,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:06.913814+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534236&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534236&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -9072,8 +10840,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 31,
     "uikTvd": "4074012138116",
+    "uikName": "УИК №31",
     "tikTvd": "2072000534236",
     "tikName": "Баксанская городская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1462,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1400,
@@ -9089,12 +10861,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 7,
-      "Безгодько Владимир Федорович": 51,
-      "Кузьминов Олег Владимирович": 4,
-      "Настаев Алисолтан Магамедович": 151,
-      "Паштов Борис Султанович": 192,
-      "Шхагошев Адальби Люлевич": 813
+      "2072000540461": 7,
+      "2072000539283": 51,
+      "2072000538933": 4,
+      "2072000538946": 151,
+      "2072000539272": 192,
+      "2072000539261": 813
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534236&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534236&type=464",
@@ -9104,6 +10876,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:06.913814+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534236&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534236&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -9113,8 +10889,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 32,
     "uikTvd": "4074012138117",
+    "uikName": "УИК №32",
     "tikTvd": "2072000534236",
     "tikName": "Баксанская городская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2077,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2000,
@@ -9130,12 +10910,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 5,
-      "Безгодько Владимир Федорович": 54,
-      "Кузьминов Олег Владимирович": 3,
-      "Настаев Алисолтан Магамедович": 177,
-      "Паштов Борис Султанович": 280,
-      "Шхагошев Адальби Люлевич": 1185
+      "2072000540461": 5,
+      "2072000539283": 54,
+      "2072000538933": 3,
+      "2072000538946": 177,
+      "2072000539272": 280,
+      "2072000539261": 1185
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534236&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534236&type=464",
@@ -9145,6 +10925,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:06.913814+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534236&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534236&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -9154,8 +10938,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 33,
     "uikTvd": "4074012138118",
+    "uikName": "УИК №33",
     "tikTvd": "2072000534236",
     "tikName": "Баксанская городская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1694,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1600,
@@ -9171,12 +10959,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 5,
-      "Безгодько Владимир Федорович": 49,
-      "Кузьминов Олег Владимирович": 3,
-      "Настаев Алисолтан Магамедович": 149,
-      "Паштов Борис Султанович": 0,
-      "Шхагошев Адальби Люлевич": 956
+      "2072000540461": 5,
+      "2072000539283": 49,
+      "2072000538933": 3,
+      "2072000538946": 149,
+      "2072000539272": 0,
+      "2072000539261": 956
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534236&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534236&type=464",
@@ -9186,6 +10974,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:06.913814+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534236&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534236&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -9195,8 +10987,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 34,
     "uikTvd": "4074012138119",
+    "uikName": "УИК №34",
     "tikTvd": "2072000534236",
     "tikName": "Баксанская городская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1519,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1500,
@@ -9212,12 +11008,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 7,
-      "Безгодько Владимир Федорович": 54,
-      "Кузьминов Олег Владимирович": 5,
-      "Настаев Алисолтан Магамедович": 152,
-      "Паштов Борис Султанович": 195,
-      "Шхагошев Адальби Люлевич": 865
+      "2072000540461": 7,
+      "2072000539283": 54,
+      "2072000538933": 5,
+      "2072000538946": 152,
+      "2072000539272": 195,
+      "2072000539261": 865
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534236&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534236&type=464",
@@ -9227,6 +11023,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:06.913814+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534236&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534236&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -9236,8 +11036,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 35,
     "uikTvd": "4074012138120",
+    "uikName": "УИК №35",
     "tikTvd": "2072000534236",
     "tikName": "Баксанская городская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2707,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2600,
@@ -9253,12 +11057,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 5,
-      "Безгодько Владимир Федорович": 53,
-      "Кузьминов Олег Владимирович": 4,
-      "Настаев Алисолтан Магамедович": 199,
-      "Паштов Борис Султанович": 354,
-      "Шхагошев Адальби Люлевич": 1474
+      "2072000540461": 5,
+      "2072000539283": 53,
+      "2072000538933": 4,
+      "2072000538946": 199,
+      "2072000539272": 354,
+      "2072000539261": 1474
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534236&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534236&type=464",
@@ -9268,6 +11072,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:06.913814+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534236&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534236&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -9277,8 +11085,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 36,
     "uikTvd": "4074012138121",
+    "uikName": "УИК №36",
     "tikTvd": "2072000534236",
     "tikName": "Баксанская городская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2650,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2600,
@@ -9294,12 +11106,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 5,
-      "Безгодько Владимир Федорович": 54,
-      "Кузьминов Олег Владимирович": 3,
-      "Настаев Алисолтан Магамедович": 227,
-      "Паштов Борис Султанович": 362,
-      "Шхагошев Адальби Люлевич": 1565
+      "2072000540461": 5,
+      "2072000539283": 54,
+      "2072000538933": 3,
+      "2072000538946": 227,
+      "2072000539272": 362,
+      "2072000539261": 1565
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534236&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534236&type=464",
@@ -9309,6 +11121,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:06.913814+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534236&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534236&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -9318,8 +11134,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 37,
     "uikTvd": "4074012138122",
+    "uikName": "УИК №37",
     "tikTvd": "2072000534236",
     "tikName": "Баксанская городская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1904,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1900,
@@ -9335,12 +11155,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 3,
-      "Безгодько Владимир Федорович": 56,
-      "Кузьминов Олег Владимирович": 0,
-      "Настаев Алисолтан Магамедович": 149,
-      "Паштов Борис Султанович": 264,
-      "Шхагошев Адальби Люлевич": 1098
+      "2072000540461": 3,
+      "2072000539283": 56,
+      "2072000538933": 0,
+      "2072000538946": 149,
+      "2072000539272": 264,
+      "2072000539261": 1098
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534236&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534236&type=464",
@@ -9350,6 +11170,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:06.913814+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534236&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534236&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -9359,8 +11183,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 38,
     "uikTvd": "4074012138123",
+    "uikName": "УИК №38",
     "tikTvd": "2072000534236",
     "tikName": "Баксанская городская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1989,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2000,
@@ -9376,12 +11204,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 3,
-      "Безгодько Владимир Федорович": 54,
-      "Кузьминов Олег Владимирович": 2,
-      "Настаев Алисолтан Магамедович": 151,
-      "Паштов Борис Султанович": 283,
-      "Шхагошев Адальби Люлевич": 1166
+      "2072000540461": 3,
+      "2072000539283": 54,
+      "2072000538933": 2,
+      "2072000538946": 151,
+      "2072000539272": 283,
+      "2072000539261": 1166
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534236&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534236&type=464",
@@ -9391,6 +11219,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:06.913814+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534236&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534236&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -9400,8 +11232,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 39,
     "uikTvd": "4074012138124",
+    "uikName": "УИК №39",
     "tikTvd": "2072000534236",
     "tikName": "Баксанская городская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1181,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1100,
@@ -9417,12 +11253,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 3,
-      "Безгодько Владимир Федорович": 54,
-      "Кузьминов Олег Владимирович": 2,
-      "Настаев Алисолтан Магамедович": 90,
-      "Паштов Борис Султанович": 154,
-      "Шхагошев Адальби Люлевич": 641
+      "2072000540461": 3,
+      "2072000539283": 54,
+      "2072000538933": 2,
+      "2072000538946": 90,
+      "2072000539272": 154,
+      "2072000539261": 641
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534236&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534236&type=464",
@@ -9432,6 +11268,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:06.913814+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534236&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534236&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -9441,8 +11281,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 40,
     "uikTvd": "4074012138125",
+    "uikName": "УИК №40",
     "tikTvd": "2072000534236",
     "tikName": "Баксанская городская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1557,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1500,
@@ -9458,12 +11302,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 2,
-      "Безгодько Владимир Федорович": 56,
-      "Кузьминов Олег Владимирович": 4,
-      "Настаев Алисолтан Магамедович": 49,
-      "Паштов Борис Султанович": 189,
-      "Шхагошев Адальби Люлевич": 964
+      "2072000540461": 2,
+      "2072000539283": 56,
+      "2072000538933": 4,
+      "2072000538946": 49,
+      "2072000539272": 189,
+      "2072000539261": 964
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534236&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534236&type=464",
@@ -9473,6 +11317,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:06.913814+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534236&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534236&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -9482,8 +11330,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 41,
     "uikTvd": "4074012138126",
+    "uikName": "УИК №41",
     "tikTvd": "2072000534236",
     "tikName": "Баксанская городская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1192,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1200,
@@ -9499,12 +11351,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 5,
-      "Безгодько Владимир Федорович": 44,
-      "Кузьминов Олег Владимирович": 2,
-      "Настаев Алисолтан Магамедович": 149,
-      "Паштов Борис Султанович": 25,
-      "Шхагошев Адальби Люлевич": 647
+      "2072000540461": 5,
+      "2072000539283": 44,
+      "2072000538933": 2,
+      "2072000538946": 149,
+      "2072000539272": 25,
+      "2072000539261": 647
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534236&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534236&type=464",
@@ -9514,6 +11366,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:06.913814+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534236&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534236&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -9523,8 +11379,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 42,
     "uikTvd": "4074012138127",
+    "uikName": "УИК №42",
     "tikTvd": "2072000534236",
     "tikName": "Баксанская городская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1323,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1200,
@@ -9540,12 +11400,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 1,
-      "Безгодько Владимир Федорович": 55,
-      "Кузьминов Олег Владимирович": 5,
-      "Настаев Алисолтан Магамедович": 148,
-      "Паштов Борис Султанович": 109,
-      "Шхагошев Адальби Люлевич": 746
+      "2072000540461": 1,
+      "2072000539283": 55,
+      "2072000538933": 5,
+      "2072000538946": 148,
+      "2072000539272": 109,
+      "2072000539261": 746
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534236&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534236&type=464",
@@ -9555,6 +11415,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:06.913814+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534236&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534236&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -9564,8 +11428,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 98,
     "uikTvd": "4074004265849",
+    "uikName": "УИК №98",
     "tikTvd": "2072000534237",
     "tikName": "Нальчикская городская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2588,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2600,
@@ -9581,12 +11449,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 3,
-      "Безгодько Владимир Федорович": 64,
-      "Кузьминов Олег Владимирович": 22,
-      "Настаев Алисолтан Магамедович": 233,
-      "Паштов Борис Султанович": 333,
-      "Шхагошев Адальби Люлевич": 1547
+      "2072000540461": 3,
+      "2072000539283": 64,
+      "2072000538933": 22,
+      "2072000538946": 233,
+      "2072000539272": 333,
+      "2072000539261": 1547
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534237&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534237&type=464",
@@ -9596,6 +11464,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:07.950362+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534237&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534237&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -9605,8 +11477,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 99,
     "uikTvd": "4074004265850",
+    "uikName": "УИК №99",
     "tikTvd": "2072000534237",
     "tikName": "Нальчикская городская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1174,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1200,
@@ -9622,12 +11498,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 7,
-      "Безгодько Владимир Федорович": 32,
-      "Кузьминов Олег Владимирович": 17,
-      "Настаев Алисолтан Магамедович": 97,
-      "Паштов Борис Султанович": 146,
-      "Шхагошев Адальби Люлевич": 750
+      "2072000540461": 7,
+      "2072000539283": 32,
+      "2072000538933": 17,
+      "2072000538946": 97,
+      "2072000539272": 146,
+      "2072000539261": 750
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534237&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534237&type=464",
@@ -9637,6 +11513,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:07.950362+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534237&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534237&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -9646,8 +11526,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 100,
     "uikTvd": "4074004265851",
+    "uikName": "УИК №100",
     "tikTvd": "2072000534237",
     "tikName": "Нальчикская городская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1478,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1500,
@@ -9663,12 +11547,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 7,
-      "Безгодько Владимир Федорович": 55,
-      "Кузьминов Олег Владимирович": 16,
-      "Настаев Алисолтан Магамедович": 112,
-      "Паштов Борис Султанович": 218,
-      "Шхагошев Адальби Люлевич": 856
+      "2072000540461": 7,
+      "2072000539283": 55,
+      "2072000538933": 16,
+      "2072000538946": 112,
+      "2072000539272": 218,
+      "2072000539261": 856
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534237&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534237&type=464",
@@ -9678,6 +11562,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:07.950362+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534237&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534237&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -9687,8 +11575,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 101,
     "uikTvd": "4074004265852",
+    "uikName": "УИК №101",
     "tikTvd": "2072000534237",
     "tikName": "Нальчикская городская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1509,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1500,
@@ -9704,12 +11596,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 3,
-      "Безгодько Владимир Федорович": 55,
-      "Кузьминов Олег Владимирович": 18,
-      "Настаев Алисолтан Магамедович": 154,
-      "Паштов Борис Султанович": 194,
-      "Шхагошев Адальби Люлевич": 903
+      "2072000540461": 3,
+      "2072000539283": 55,
+      "2072000538933": 18,
+      "2072000538946": 154,
+      "2072000539272": 194,
+      "2072000539261": 903
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534237&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534237&type=464",
@@ -9719,6 +11611,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:07.950362+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534237&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534237&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -9728,8 +11624,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 102,
     "uikTvd": "4074004265853",
+    "uikName": "УИК №102",
     "tikTvd": "2072000534237",
     "tikName": "Нальчикская городская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1408,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1400,
@@ -9745,12 +11645,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 7,
-      "Безгодько Владимир Федорович": 45,
-      "Кузьминов Олег Владимирович": 16,
-      "Настаев Алисолтан Магамедович": 149,
-      "Паштов Борис Султанович": 207,
-      "Шхагошев Адальби Люлевич": 798
+      "2072000540461": 7,
+      "2072000539283": 45,
+      "2072000538933": 16,
+      "2072000538946": 149,
+      "2072000539272": 207,
+      "2072000539261": 798
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534237&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534237&type=464",
@@ -9760,6 +11660,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:07.950362+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534237&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534237&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -9769,8 +11673,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 103,
     "uikTvd": "4074004265854",
+    "uikName": "УИК №103",
     "tikTvd": "2072000534237",
     "tikName": "Нальчикская городская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 829,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 750,
@@ -9786,12 +11694,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 5,
-      "Безгодько Владимир Федорович": 1,
-      "Кузьминов Олег Владимирович": 1,
-      "Настаев Алисолтан Магамедович": 2,
-      "Паштов Борис Султанович": 147,
-      "Шхагошев Адальби Люлевич": 482
+      "2072000540461": 5,
+      "2072000539283": 1,
+      "2072000538933": 1,
+      "2072000538946": 2,
+      "2072000539272": 147,
+      "2072000539261": 482
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534237&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534237&type=464",
@@ -9801,6 +11709,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:07.950362+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534237&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534237&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -9810,8 +11722,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 104,
     "uikTvd": "4074004265855",
+    "uikName": "УИК №104",
     "tikTvd": "2072000534237",
     "tikName": "Нальчикская городская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1232,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1200,
@@ -9827,12 +11743,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 7,
-      "Безгодько Владимир Федорович": 34,
-      "Кузьминов Олег Владимирович": 15,
-      "Настаев Алисолтан Магамедович": 122,
-      "Паштов Борис Султанович": 149,
-      "Шхагошев Адальби Люлевич": 736
+      "2072000540461": 7,
+      "2072000539283": 34,
+      "2072000538933": 15,
+      "2072000538946": 122,
+      "2072000539272": 149,
+      "2072000539261": 736
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534237&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534237&type=464",
@@ -9842,6 +11758,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:07.950362+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534237&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534237&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -9851,8 +11771,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 105,
     "uikTvd": "4074004265856",
+    "uikName": "УИК №105",
     "tikTvd": "2072000534237",
     "tikName": "Нальчикская городская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2563,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2500,
@@ -9868,12 +11792,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 7,
-      "Безгодько Владимир Федорович": 59,
-      "Кузьминов Олег Владимирович": 19,
-      "Настаев Алисолтан Магамедович": 197,
-      "Паштов Борис Султанович": 303,
-      "Шхагошев Адальби Люлевич": 1505
+      "2072000540461": 7,
+      "2072000539283": 59,
+      "2072000538933": 19,
+      "2072000538946": 197,
+      "2072000539272": 303,
+      "2072000539261": 1505
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534237&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534237&type=464",
@@ -9883,6 +11807,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:07.950362+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534237&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534237&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -9892,8 +11820,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 106,
     "uikTvd": "4074004265857",
+    "uikName": "УИК №106",
     "tikTvd": "2072000534237",
     "tikName": "Нальчикская городская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1322,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1300,
@@ -9909,12 +11841,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 7,
-      "Безгодько Владимир Федорович": 33,
-      "Кузьминов Олег Владимирович": 15,
-      "Настаев Алисолтан Магамедович": 132,
-      "Паштов Борис Султанович": 156,
-      "Шхагошев Адальби Люлевич": 786
+      "2072000540461": 7,
+      "2072000539283": 33,
+      "2072000538933": 15,
+      "2072000538946": 132,
+      "2072000539272": 156,
+      "2072000539261": 786
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534237&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534237&type=464",
@@ -9924,6 +11856,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:07.950362+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534237&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534237&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -9933,8 +11869,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 107,
     "uikTvd": "4074004265858",
+    "uikName": "УИК №107",
     "tikTvd": "2072000534237",
     "tikName": "Нальчикская городская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1697,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1550,
@@ -9950,12 +11890,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 5,
-      "Безгодько Владимир Федорович": 47,
-      "Кузьминов Олег Владимирович": 3,
-      "Настаев Алисолтан Магамедович": 152,
-      "Паштов Борис Султанович": 308,
-      "Шхагошев Адальби Люлевич": 926
+      "2072000540461": 5,
+      "2072000539283": 47,
+      "2072000538933": 3,
+      "2072000538946": 152,
+      "2072000539272": 308,
+      "2072000539261": 926
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534237&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534237&type=464",
@@ -9965,6 +11905,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:07.950362+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534237&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534237&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -9974,8 +11918,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 108,
     "uikTvd": "4074004265859",
+    "uikName": "УИК №108",
     "tikTvd": "2072000534237",
     "tikName": "Нальчикская городская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2404,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2400,
@@ -9991,12 +11939,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 3,
-      "Безгодько Владимир Федорович": 52,
-      "Кузьминов Олег Владимирович": 34,
-      "Настаев Алисолтан Магамедович": 232,
-      "Паштов Борис Султанович": 239,
-      "Шхагошев Адальби Люлевич": 1479
+      "2072000540461": 3,
+      "2072000539283": 52,
+      "2072000538933": 34,
+      "2072000538946": 232,
+      "2072000539272": 239,
+      "2072000539261": 1479
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534237&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534237&type=464",
@@ -10006,6 +11954,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:07.950362+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534237&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534237&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -10015,8 +11967,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 109,
     "uikTvd": "4074004265860",
+    "uikName": "УИК №109",
     "tikTvd": "2072000534237",
     "tikName": "Нальчикская городская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1781,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1800,
@@ -10032,12 +11988,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 7,
-      "Безгодько Владимир Федорович": 53,
-      "Кузьминов Олег Владимирович": 17,
-      "Настаев Алисолтан Магамедович": 149,
-      "Паштов Борис Султанович": 220,
-      "Шхагошев Адальби Люлевич": 1063
+      "2072000540461": 7,
+      "2072000539283": 53,
+      "2072000538933": 17,
+      "2072000538946": 149,
+      "2072000539272": 220,
+      "2072000539261": 1063
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534237&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534237&type=464",
@@ -10047,6 +12003,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:07.950362+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534237&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534237&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -10056,8 +12016,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 110,
     "uikTvd": "4074004265861",
+    "uikName": "УИК №110",
     "tikTvd": "2072000534237",
     "tikName": "Нальчикская городская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2040,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2000,
@@ -10073,12 +12037,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 5,
-      "Безгодько Владимир Федорович": 57,
-      "Кузьминов Олег Владимирович": 21,
-      "Настаев Алисолтан Магамедович": 192,
-      "Паштов Борис Султанович": 247,
-      "Шхагошев Адальби Люлевич": 1252
+      "2072000540461": 5,
+      "2072000539283": 57,
+      "2072000538933": 21,
+      "2072000538946": 192,
+      "2072000539272": 247,
+      "2072000539261": 1252
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534237&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534237&type=464",
@@ -10088,6 +12052,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:07.950362+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534237&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534237&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -10097,8 +12065,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 111,
     "uikTvd": "4074004265862",
+    "uikName": "УИК №111",
     "tikTvd": "2072000534237",
     "tikName": "Нальчикская городская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2295,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2100,
@@ -10114,12 +12086,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 7,
-      "Безгодько Владимир Федорович": 55,
-      "Кузьминов Олег Владимирович": 2,
-      "Настаев Алисолтан Магамедович": 199,
-      "Паштов Борис Султанович": 292,
-      "Шхагошев Адальби Люлевич": 1374
+      "2072000540461": 7,
+      "2072000539283": 55,
+      "2072000538933": 2,
+      "2072000538946": 199,
+      "2072000539272": 292,
+      "2072000539261": 1374
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534237&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534237&type=464",
@@ -10129,6 +12101,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:07.950362+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534237&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534237&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -10138,8 +12114,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 112,
     "uikTvd": "4074004265863",
+    "uikName": "УИК №112",
     "tikTvd": "2072000534237",
     "tikName": "Нальчикская городская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2383,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2400,
@@ -10155,12 +12135,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 7,
-      "Безгодько Владимир Федорович": 54,
-      "Кузьминов Олег Владимирович": 33,
-      "Настаев Алисолтан Магамедович": 150,
-      "Паштов Борис Султанович": 319,
-      "Шхагошев Адальби Люлевич": 1511
+      "2072000540461": 7,
+      "2072000539283": 54,
+      "2072000538933": 33,
+      "2072000538946": 150,
+      "2072000539272": 319,
+      "2072000539261": 1511
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534237&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534237&type=464",
@@ -10170,6 +12150,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:07.950362+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534237&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534237&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -10179,8 +12163,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 113,
     "uikTvd": "4074004265864",
+    "uikName": "УИК №113",
     "tikTvd": "2072000534237",
     "tikName": "Нальчикская городская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2054,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2000,
@@ -10196,12 +12184,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 7,
-      "Безгодько Владимир Федорович": 56,
-      "Кузьминов Олег Владимирович": 36,
-      "Настаев Алисолтан Магамедович": 154,
-      "Паштов Борис Султанович": 259,
-      "Шхагошев Адальби Люлевич": 1203
+      "2072000540461": 7,
+      "2072000539283": 56,
+      "2072000538933": 36,
+      "2072000538946": 154,
+      "2072000539272": 259,
+      "2072000539261": 1203
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534237&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534237&type=464",
@@ -10211,6 +12199,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:07.950362+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534237&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534237&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   },
   {
@@ -10220,8 +12212,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
     "ballot": "single-member",
     "uikNumber": 114,
     "uikTvd": "4074004265865",
+    "uikName": "УИК №114",
     "tikTvd": "2072000534237",
     "tikName": "Нальчикская городская",
+    "regionCode": "7",
+    "regionTvd": "100100225883417",
+    "regionName": "Кабардино-Балкарская Республика",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1419,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1400,
@@ -10237,12 +12233,12 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Атаманова Ирина Григорьевна": 7,
-      "Безгодько Владимир Федорович": 46,
-      "Кузьминов Олег Владимирович": 16,
-      "Настаев Алисолтан Магамедович": 122,
-      "Паштов Борис Султанович": 73,
-      "Шхагошев Адальби Люлевич": 912
+      "2072000540461": 7,
+      "2072000539283": 46,
+      "2072000538933": 16,
+      "2072000538946": 122,
+      "2072000539272": 73,
+      "2072000539261": 912
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534237&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534237&type=464",
@@ -10252,6 +12248,10 @@ export const duma_2021_uik_463_region_7_part_001 = [
       "retrievedAt": "2026-08-26T07:45:07.950362+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kabardin-balkar?action=show&root=1000021&tvd=2072000534237&vrn=100100225883172&region=7&global=&sub_region=7&prver=0&pronetvd=null&vibid=2072000534237&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100225883418"
     }
   }
 ] satisfies readonly UikProtocol[];

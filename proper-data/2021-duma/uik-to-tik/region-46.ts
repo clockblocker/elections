@@ -8,6744 +8,17984 @@ export const duma_2021_uik_to_tik_region_46 = [
     "uikNumber": 1,
     "uikTvd": "4464011253714",
     "tikTvd": "24620001197658",
-    "tikName": "Курск, Железнодорожная"
+    "tikName": "Курск, Железнодорожная",
+    "uikName": "УИК №1",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 2,
     "uikTvd": "4464011253716",
     "tikTvd": "24620001197658",
-    "tikName": "Курск, Железнодорожная"
+    "tikName": "Курск, Железнодорожная",
+    "uikName": "УИК №2",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 3,
     "uikTvd": "4464011253718",
     "tikTvd": "24620001197658",
-    "tikName": "Курск, Железнодорожная"
+    "tikName": "Курск, Железнодорожная",
+    "uikName": "УИК №3",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 4,
     "uikTvd": "4464011253720",
     "tikTvd": "24620001197658",
-    "tikName": "Курск, Железнодорожная"
+    "tikName": "Курск, Железнодорожная",
+    "uikName": "УИК №4",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 5,
     "uikTvd": "4464011253722",
     "tikTvd": "24620001197658",
-    "tikName": "Курск, Железнодорожная"
+    "tikName": "Курск, Железнодорожная",
+    "uikName": "УИК №5",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 6,
     "uikTvd": "4464011253724",
     "tikTvd": "24620001197658",
-    "tikName": "Курск, Железнодорожная"
+    "tikName": "Курск, Железнодорожная",
+    "uikName": "УИК №6",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 7,
     "uikTvd": "4464011253726",
     "tikTvd": "24620001197658",
-    "tikName": "Курск, Железнодорожная"
+    "tikName": "Курск, Железнодорожная",
+    "uikName": "УИК №7",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 8,
     "uikTvd": "4464011253728",
     "tikTvd": "24620001197658",
-    "tikName": "Курск, Железнодорожная"
+    "tikName": "Курск, Железнодорожная",
+    "uikName": "УИК №8",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 9,
     "uikTvd": "4464011253730",
     "tikTvd": "24620001197658",
-    "tikName": "Курск, Железнодорожная"
+    "tikName": "Курск, Железнодорожная",
+    "uikName": "УИК №9",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 10,
     "uikTvd": "4464011253732",
     "tikTvd": "24620001197658",
-    "tikName": "Курск, Железнодорожная"
+    "tikName": "Курск, Железнодорожная",
+    "uikName": "УИК №10",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 11,
     "uikTvd": "4464011253734",
     "tikTvd": "24620001197658",
-    "tikName": "Курск, Железнодорожная"
+    "tikName": "Курск, Железнодорожная",
+    "uikName": "УИК №11",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 12,
     "uikTvd": "4464011253736",
     "tikTvd": "24620001197658",
-    "tikName": "Курск, Железнодорожная"
+    "tikName": "Курск, Железнодорожная",
+    "uikName": "УИК №12",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 13,
     "uikTvd": "4464011253738",
     "tikTvd": "24620001197658",
-    "tikName": "Курск, Железнодорожная"
+    "tikName": "Курск, Железнодорожная",
+    "uikName": "УИК №13",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 14,
     "uikTvd": "4464011253740",
     "tikTvd": "24620001197658",
-    "tikName": "Курск, Железнодорожная"
+    "tikName": "Курск, Железнодорожная",
+    "uikName": "УИК №14",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 15,
     "uikTvd": "4464011253742",
     "tikTvd": "24620001197658",
-    "tikName": "Курск, Железнодорожная"
+    "tikName": "Курск, Железнодорожная",
+    "uikName": "УИК №15",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 16,
     "uikTvd": "4464011253744",
     "tikTvd": "24620001197658",
-    "tikName": "Курск, Железнодорожная"
+    "tikName": "Курск, Железнодорожная",
+    "uikName": "УИК №16",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 17,
     "uikTvd": "4464011253746",
     "tikTvd": "24620001197658",
-    "tikName": "Курск, Железнодорожная"
+    "tikName": "Курск, Железнодорожная",
+    "uikName": "УИК №17",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 18,
     "uikTvd": "4464011253748",
     "tikTvd": "24620001197658",
-    "tikName": "Курск, Железнодорожная"
+    "tikName": "Курск, Железнодорожная",
+    "uikName": "УИК №18",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 19,
     "uikTvd": "4464011253750",
     "tikTvd": "24620001197658",
-    "tikName": "Курск, Железнодорожная"
+    "tikName": "Курск, Железнодорожная",
+    "uikName": "УИК №19",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 20,
     "uikTvd": "4464011253752",
     "tikTvd": "24620001197658",
-    "tikName": "Курск, Железнодорожная"
+    "tikName": "Курск, Железнодорожная",
+    "uikName": "УИК №20",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 21,
     "uikTvd": "4464011253754",
     "tikTvd": "24620001197658",
-    "tikName": "Курск, Железнодорожная"
+    "tikName": "Курск, Железнодорожная",
+    "uikName": "УИК №21",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 22,
     "uikTvd": "4464011253756",
     "tikTvd": "24620001197658",
-    "tikName": "Курск, Железнодорожная"
+    "tikName": "Курск, Железнодорожная",
+    "uikName": "УИК №22",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 23,
     "uikTvd": "4464011253758",
     "tikTvd": "24620001197658",
-    "tikName": "Курск, Железнодорожная"
+    "tikName": "Курск, Железнодорожная",
+    "uikName": "УИК №23",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 24,
     "uikTvd": "4464011253760",
     "tikTvd": "24620001197658",
-    "tikName": "Курск, Железнодорожная"
+    "tikName": "Курск, Железнодорожная",
+    "uikName": "УИК №24",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 25,
     "uikTvd": "4464011253762",
     "tikTvd": "24620001197658",
-    "tikName": "Курск, Железнодорожная"
+    "tikName": "Курск, Железнодорожная",
+    "uikName": "УИК №25",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 26,
     "uikTvd": "4464011253764",
     "tikTvd": "24620001197658",
-    "tikName": "Курск, Железнодорожная"
+    "tikName": "Курск, Железнодорожная",
+    "uikName": "УИК №26",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 27,
     "uikTvd": "4464011253766",
     "tikTvd": "24620001197658",
-    "tikName": "Курск, Железнодорожная"
+    "tikName": "Курск, Железнодорожная",
+    "uikName": "УИК №27",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 28,
     "uikTvd": "4464011253768",
     "tikTvd": "24620001197658",
-    "tikName": "Курск, Железнодорожная"
+    "tikName": "Курск, Железнодорожная",
+    "uikName": "УИК №28",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 29,
     "uikTvd": "4464011253770",
     "tikTvd": "24620001197658",
-    "tikName": "Курск, Железнодорожная"
+    "tikName": "Курск, Железнодорожная",
+    "uikName": "УИК №29",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 30,
     "uikTvd": "4464011253772",
     "tikTvd": "24620001197658",
-    "tikName": "Курск, Железнодорожная"
+    "tikName": "Курск, Железнодорожная",
+    "uikName": "УИК №30",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 31,
     "uikTvd": "4464012376008",
     "tikTvd": "24620001197657",
-    "tikName": "Курск, Сеймская"
+    "tikName": "Курск, Сеймская",
+    "uikName": "УИК №31",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 32,
     "uikTvd": "4464012376009",
     "tikTvd": "24620001197657",
-    "tikName": "Курск, Сеймская"
+    "tikName": "Курск, Сеймская",
+    "uikName": "УИК №32",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 33,
     "uikTvd": "4464012376010",
     "tikTvd": "24620001197657",
-    "tikName": "Курск, Сеймская"
+    "tikName": "Курск, Сеймская",
+    "uikName": "УИК №33",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 34,
     "uikTvd": "4464012376011",
     "tikTvd": "24620001197657",
-    "tikName": "Курск, Сеймская"
+    "tikName": "Курск, Сеймская",
+    "uikName": "УИК №34",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 35,
     "uikTvd": "4464012376012",
     "tikTvd": "24620001197657",
-    "tikName": "Курск, Сеймская"
+    "tikName": "Курск, Сеймская",
+    "uikName": "УИК №35",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 36,
     "uikTvd": "4464012376013",
     "tikTvd": "24620001197657",
-    "tikName": "Курск, Сеймская"
+    "tikName": "Курск, Сеймская",
+    "uikName": "УИК №36",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 37,
     "uikTvd": "4464012376014",
     "tikTvd": "24620001197657",
-    "tikName": "Курск, Сеймская"
+    "tikName": "Курск, Сеймская",
+    "uikName": "УИК №37",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 38,
     "uikTvd": "4464012376015",
     "tikTvd": "24620001197657",
-    "tikName": "Курск, Сеймская"
+    "tikName": "Курск, Сеймская",
+    "uikName": "УИК №38",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 39,
     "uikTvd": "4464012376016",
     "tikTvd": "24620001197657",
-    "tikName": "Курск, Сеймская"
+    "tikName": "Курск, Сеймская",
+    "uikName": "УИК №39",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 40,
     "uikTvd": "4464012376017",
     "tikTvd": "24620001197657",
-    "tikName": "Курск, Сеймская"
+    "tikName": "Курск, Сеймская",
+    "uikName": "УИК №40",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 41,
     "uikTvd": "4464012376018",
     "tikTvd": "24620001197657",
-    "tikName": "Курск, Сеймская"
+    "tikName": "Курск, Сеймская",
+    "uikName": "УИК №41",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 42,
     "uikTvd": "4464012376019",
     "tikTvd": "24620001197657",
-    "tikName": "Курск, Сеймская"
+    "tikName": "Курск, Сеймская",
+    "uikName": "УИК №42",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 43,
     "uikTvd": "4464012376020",
     "tikTvd": "24620001197657",
-    "tikName": "Курск, Сеймская"
+    "tikName": "Курск, Сеймская",
+    "uikName": "УИК №43",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 44,
     "uikTvd": "4464012376021",
     "tikTvd": "24620001197657",
-    "tikName": "Курск, Сеймская"
+    "tikName": "Курск, Сеймская",
+    "uikName": "УИК №44",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 45,
     "uikTvd": "4464012376022",
     "tikTvd": "24620001197657",
-    "tikName": "Курск, Сеймская"
+    "tikName": "Курск, Сеймская",
+    "uikName": "УИК №45",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 46,
     "uikTvd": "4464012376023",
     "tikTvd": "24620001197657",
-    "tikName": "Курск, Сеймская"
+    "tikName": "Курск, Сеймская",
+    "uikName": "УИК №46",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 47,
     "uikTvd": "4464012376024",
     "tikTvd": "24620001197657",
-    "tikName": "Курск, Сеймская"
+    "tikName": "Курск, Сеймская",
+    "uikName": "УИК №47",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 48,
     "uikTvd": "4464012376025",
     "tikTvd": "24620001197657",
-    "tikName": "Курск, Сеймская"
+    "tikName": "Курск, Сеймская",
+    "uikName": "УИК №48",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 49,
     "uikTvd": "4464012376026",
     "tikTvd": "24620001197657",
-    "tikName": "Курск, Сеймская"
+    "tikName": "Курск, Сеймская",
+    "uikName": "УИК №49",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 50,
     "uikTvd": "4464012376027",
     "tikTvd": "24620001197657",
-    "tikName": "Курск, Сеймская"
+    "tikName": "Курск, Сеймская",
+    "uikName": "УИК №50",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 51,
     "uikTvd": "4464012376028",
     "tikTvd": "24620001197657",
-    "tikName": "Курск, Сеймская"
+    "tikName": "Курск, Сеймская",
+    "uikName": "УИК №51",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 52,
     "uikTvd": "4464012376029",
     "tikTvd": "24620001197657",
-    "tikName": "Курск, Сеймская"
+    "tikName": "Курск, Сеймская",
+    "uikName": "УИК №52",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 53,
     "uikTvd": "4464012376030",
     "tikTvd": "24620001197657",
-    "tikName": "Курск, Сеймская"
+    "tikName": "Курск, Сеймская",
+    "uikName": "УИК №53",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 54,
     "uikTvd": "4464012376031",
     "tikTvd": "24620001197657",
-    "tikName": "Курск, Сеймская"
+    "tikName": "Курск, Сеймская",
+    "uikName": "УИК №54",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 55,
     "uikTvd": "4464012376032",
     "tikTvd": "24620001197657",
-    "tikName": "Курск, Сеймская"
+    "tikName": "Курск, Сеймская",
+    "uikName": "УИК №55",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 56,
     "uikTvd": "4464012376033",
     "tikTvd": "24620001197657",
-    "tikName": "Курск, Сеймская"
+    "tikName": "Курск, Сеймская",
+    "uikName": "УИК №56",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 57,
     "uikTvd": "4464012376034",
     "tikTvd": "24620001197657",
-    "tikName": "Курск, Сеймская"
+    "tikName": "Курск, Сеймская",
+    "uikName": "УИК №57",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 58,
     "uikTvd": "4464012376035",
     "tikTvd": "24620001197657",
-    "tikName": "Курск, Сеймская"
+    "tikName": "Курск, Сеймская",
+    "uikName": "УИК №58",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 59,
     "uikTvd": "4464012376036",
     "tikTvd": "24620001197657",
-    "tikName": "Курск, Сеймская"
+    "tikName": "Курск, Сеймская",
+    "uikName": "УИК №59",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 60,
     "uikTvd": "4464012376037",
     "tikTvd": "24620001197657",
-    "tikName": "Курск, Сеймская"
+    "tikName": "Курск, Сеймская",
+    "uikName": "УИК №60",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 61,
     "uikTvd": "4464012376038",
     "tikTvd": "24620001197657",
-    "tikName": "Курск, Сеймская"
+    "tikName": "Курск, Сеймская",
+    "uikName": "УИК №61",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 62,
     "uikTvd": "4464012376039",
     "tikTvd": "24620001197657",
-    "tikName": "Курск, Сеймская"
+    "tikName": "Курск, Сеймская",
+    "uikName": "УИК №62",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 63,
     "uikTvd": "4464012376040",
     "tikTvd": "24620001197657",
-    "tikName": "Курск, Сеймская"
+    "tikName": "Курск, Сеймская",
+    "uikName": "УИК №63",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 64,
     "uikTvd": "4464012376041",
     "tikTvd": "24620001197657",
-    "tikName": "Курск, Сеймская"
+    "tikName": "Курск, Сеймская",
+    "uikName": "УИК №64",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 65,
     "uikTvd": "4464012376042",
     "tikTvd": "24620001197657",
-    "tikName": "Курск, Сеймская"
+    "tikName": "Курск, Сеймская",
+    "uikName": "УИК №65",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 66,
     "uikTvd": "4464012376043",
     "tikTvd": "24620001197657",
-    "tikName": "Курск, Сеймская"
+    "tikName": "Курск, Сеймская",
+    "uikName": "УИК №66",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 67,
     "uikTvd": "4464012376044",
     "tikTvd": "24620001197657",
-    "tikName": "Курск, Сеймская"
+    "tikName": "Курск, Сеймская",
+    "uikName": "УИК №67",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 68,
     "uikTvd": "4464012376045",
     "tikTvd": "24620001197657",
-    "tikName": "Курск, Сеймская"
+    "tikName": "Курск, Сеймская",
+    "uikName": "УИК №68",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 69,
     "uikTvd": "4464012376046",
     "tikTvd": "24620001197657",
-    "tikName": "Курск, Сеймская"
+    "tikName": "Курск, Сеймская",
+    "uikName": "УИК №69",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 70,
     "uikTvd": "4464012376047",
     "tikTvd": "24620001197657",
-    "tikName": "Курск, Сеймская"
+    "tikName": "Курск, Сеймская",
+    "uikName": "УИК №70",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 71,
     "uikTvd": "4464012376048",
     "tikTvd": "24620001197657",
-    "tikName": "Курск, Сеймская"
+    "tikName": "Курск, Сеймская",
+    "uikName": "УИК №71",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 72,
     "uikTvd": "4464012376049",
     "tikTvd": "24620001197657",
-    "tikName": "Курск, Сеймская"
+    "tikName": "Курск, Сеймская",
+    "uikName": "УИК №72",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 73,
     "uikTvd": "4464012376050",
     "tikTvd": "24620001197657",
-    "tikName": "Курск, Сеймская"
+    "tikName": "Курск, Сеймская",
+    "uikName": "УИК №73",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 74,
     "uikTvd": "4464012376051",
     "tikTvd": "24620001197657",
-    "tikName": "Курск, Сеймская"
+    "tikName": "Курск, Сеймская",
+    "uikName": "УИК №74",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 75,
     "uikTvd": "4464012376052",
     "tikTvd": "24620001197657",
-    "tikName": "Курск, Сеймская"
+    "tikName": "Курск, Сеймская",
+    "uikName": "УИК №75",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 76,
     "uikTvd": "4464012376053",
     "tikTvd": "24620001197657",
-    "tikName": "Курск, Сеймская"
+    "tikName": "Курск, Сеймская",
+    "uikName": "УИК №76",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 77,
     "uikTvd": "4464012376054",
     "tikTvd": "24620001197657",
-    "tikName": "Курск, Сеймская"
+    "tikName": "Курск, Сеймская",
+    "uikName": "УИК №77",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 78,
     "uikTvd": "4464012376055",
     "tikTvd": "24620001197657",
-    "tikName": "Курск, Сеймская"
+    "tikName": "Курск, Сеймская",
+    "uikName": "УИК №78",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 79,
     "uikTvd": "4464012376056",
     "tikTvd": "24620001197657",
-    "tikName": "Курск, Сеймская"
+    "tikName": "Курск, Сеймская",
+    "uikName": "УИК №79",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 80,
     "uikTvd": "4464012376057",
     "tikTvd": "24620001197657",
-    "tikName": "Курск, Сеймская"
+    "tikName": "Курск, Сеймская",
+    "uikName": "УИК №80",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 81,
     "uikTvd": "4464012376058",
     "tikTvd": "24620001197657",
-    "tikName": "Курск, Сеймская"
+    "tikName": "Курск, Сеймская",
+    "uikName": "УИК №81",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 82,
     "uikTvd": "4464012376059",
     "tikTvd": "24620001197657",
-    "tikName": "Курск, Сеймская"
+    "tikName": "Курск, Сеймская",
+    "uikName": "УИК №82",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 83,
     "uikTvd": "4464012376060",
     "tikTvd": "24620001197657",
-    "tikName": "Курск, Сеймская"
+    "tikName": "Курск, Сеймская",
+    "uikName": "УИК №83",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 84,
     "uikTvd": "4464012376061",
     "tikTvd": "24620001197657",
-    "tikName": "Курск, Сеймская"
+    "tikName": "Курск, Сеймская",
+    "uikName": "УИК №84",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 85,
     "uikTvd": "4464012376062",
     "tikTvd": "24620001197657",
-    "tikName": "Курск, Сеймская"
+    "tikName": "Курск, Сеймская",
+    "uikName": "УИК №85",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 86,
     "uikTvd": "4464012376063",
     "tikTvd": "24620001197657",
-    "tikName": "Курск, Сеймская"
+    "tikName": "Курск, Сеймская",
+    "uikName": "УИК №86",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 87,
     "uikTvd": "4464012376064",
     "tikTvd": "24620001197657",
-    "tikName": "Курск, Сеймская"
+    "tikName": "Курск, Сеймская",
+    "uikName": "УИК №87",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 88,
     "uikTvd": "4464012376065",
     "tikTvd": "24620001197657",
-    "tikName": "Курск, Сеймская"
+    "tikName": "Курск, Сеймская",
+    "uikName": "УИК №88",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 89,
     "uikTvd": "4464012376066",
     "tikTvd": "24620001197657",
-    "tikName": "Курск, Сеймская"
+    "tikName": "Курск, Сеймская",
+    "uikName": "УИК №89",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 90,
     "uikTvd": "4464012376067",
     "tikTvd": "24620001197657",
-    "tikName": "Курск, Сеймская"
+    "tikName": "Курск, Сеймская",
+    "uikName": "УИК №90",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 91,
     "uikTvd": "4464012376068",
     "tikTvd": "24620001197657",
-    "tikName": "Курск, Сеймская"
+    "tikName": "Курск, Сеймская",
+    "uikName": "УИК №91",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 92,
     "uikTvd": "4464012376069",
     "tikTvd": "24620001197657",
-    "tikName": "Курск, Сеймская"
+    "tikName": "Курск, Сеймская",
+    "uikName": "УИК №92",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 93,
     "uikTvd": "4464013564664",
     "tikTvd": "24620001197286",
-    "tikName": "Курск, Центральная №1"
+    "tikName": "Курск, Центральная №1",
+    "uikName": "УИК №93",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 94,
     "uikTvd": "4464036103527",
     "tikTvd": "24620001197282",
-    "tikName": "Курск, Центральная №2"
+    "tikName": "Курск, Центральная №2",
+    "uikName": "УИК №94",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 95,
     "uikTvd": "4464036103528",
     "tikTvd": "24620001197282",
-    "tikName": "Курск, Центральная №2"
+    "tikName": "Курск, Центральная №2",
+    "uikName": "УИК №95",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 96,
     "uikTvd": "4464013564665",
     "tikTvd": "24620001197286",
-    "tikName": "Курск, Центральная №1"
+    "tikName": "Курск, Центральная №1",
+    "uikName": "УИК №96",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 97,
     "uikTvd": "4464013564666",
     "tikTvd": "24620001197286",
-    "tikName": "Курск, Центральная №1"
+    "tikName": "Курск, Центральная №1",
+    "uikName": "УИК №97",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 98,
     "uikTvd": "4464036103529",
     "tikTvd": "24620001197282",
-    "tikName": "Курск, Центральная №2"
+    "tikName": "Курск, Центральная №2",
+    "uikName": "УИК №98",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 99,
     "uikTvd": "4464036103530",
     "tikTvd": "24620001197282",
-    "tikName": "Курск, Центральная №2"
+    "tikName": "Курск, Центральная №2",
+    "uikName": "УИК №99",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 100,
     "uikTvd": "4464036103531",
     "tikTvd": "24620001197282",
-    "tikName": "Курск, Центральная №2"
+    "tikName": "Курск, Центральная №2",
+    "uikName": "УИК №100",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 101,
     "uikTvd": "4464036103532",
     "tikTvd": "24620001197282",
-    "tikName": "Курск, Центральная №2"
+    "tikName": "Курск, Центральная №2",
+    "uikName": "УИК №101",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 102,
     "uikTvd": "4464036103533",
     "tikTvd": "24620001197282",
-    "tikName": "Курск, Центральная №2"
+    "tikName": "Курск, Центральная №2",
+    "uikName": "УИК №102",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 103,
     "uikTvd": "4464036103534",
     "tikTvd": "24620001197282",
-    "tikName": "Курск, Центральная №2"
+    "tikName": "Курск, Центральная №2",
+    "uikName": "УИК №103",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 104,
     "uikTvd": "4464036103535",
     "tikTvd": "24620001197282",
-    "tikName": "Курск, Центральная №2"
+    "tikName": "Курск, Центральная №2",
+    "uikName": "УИК №104",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 105,
     "uikTvd": "4464036103536",
     "tikTvd": "24620001197282",
-    "tikName": "Курск, Центральная №2"
+    "tikName": "Курск, Центральная №2",
+    "uikName": "УИК №105",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 106,
     "uikTvd": "4464036103537",
     "tikTvd": "24620001197282",
-    "tikName": "Курск, Центральная №2"
+    "tikName": "Курск, Центральная №2",
+    "uikName": "УИК №106",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 107,
     "uikTvd": "4464036103538",
     "tikTvd": "24620001197282",
-    "tikName": "Курск, Центральная №2"
+    "tikName": "Курск, Центральная №2",
+    "uikName": "УИК №107",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 108,
     "uikTvd": "4464036103539",
     "tikTvd": "24620001197282",
-    "tikName": "Курск, Центральная №2"
+    "tikName": "Курск, Центральная №2",
+    "uikName": "УИК №108",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 109,
     "uikTvd": "4464036103540",
     "tikTvd": "24620001197282",
-    "tikName": "Курск, Центральная №2"
+    "tikName": "Курск, Центральная №2",
+    "uikName": "УИК №109",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 110,
     "uikTvd": "4464036103541",
     "tikTvd": "24620001197282",
-    "tikName": "Курск, Центральная №2"
+    "tikName": "Курск, Центральная №2",
+    "uikName": "УИК №110",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 111,
     "uikTvd": "4464036103542",
     "tikTvd": "24620001197282",
-    "tikName": "Курск, Центральная №2"
+    "tikName": "Курск, Центральная №2",
+    "uikName": "УИК №111",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 112,
     "uikTvd": "4464036103543",
     "tikTvd": "24620001197282",
-    "tikName": "Курск, Центральная №2"
+    "tikName": "Курск, Центральная №2",
+    "uikName": "УИК №112",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 113,
     "uikTvd": "4464036103544",
     "tikTvd": "24620001197282",
-    "tikName": "Курск, Центральная №2"
+    "tikName": "Курск, Центральная №2",
+    "uikName": "УИК №113",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 114,
     "uikTvd": "4464036103545",
     "tikTvd": "24620001197282",
-    "tikName": "Курск, Центральная №2"
+    "tikName": "Курск, Центральная №2",
+    "uikName": "УИК №114",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 115,
     "uikTvd": "4464036103546",
     "tikTvd": "24620001197282",
-    "tikName": "Курск, Центральная №2"
+    "tikName": "Курск, Центральная №2",
+    "uikName": "УИК №115",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 116,
     "uikTvd": "4464036103547",
     "tikTvd": "24620001197282",
-    "tikName": "Курск, Центральная №2"
+    "tikName": "Курск, Центральная №2",
+    "uikName": "УИК №116",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 117,
     "uikTvd": "4464036103548",
     "tikTvd": "24620001197282",
-    "tikName": "Курск, Центральная №2"
+    "tikName": "Курск, Центральная №2",
+    "uikName": "УИК №117",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 118,
     "uikTvd": "4464036103549",
     "tikTvd": "24620001197282",
-    "tikName": "Курск, Центральная №2"
+    "tikName": "Курск, Центральная №2",
+    "uikName": "УИК №118",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 119,
     "uikTvd": "4464036103550",
     "tikTvd": "24620001197282",
-    "tikName": "Курск, Центральная №2"
+    "tikName": "Курск, Центральная №2",
+    "uikName": "УИК №119",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 120,
     "uikTvd": "4464013564667",
     "tikTvd": "24620001197286",
-    "tikName": "Курск, Центральная №1"
+    "tikName": "Курск, Центральная №1",
+    "uikName": "УИК №120",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 121,
     "uikTvd": "4464013564668",
     "tikTvd": "24620001197286",
-    "tikName": "Курск, Центральная №1"
+    "tikName": "Курск, Центральная №1",
+    "uikName": "УИК №121",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 122,
     "uikTvd": "4464013564669",
     "tikTvd": "24620001197286",
-    "tikName": "Курск, Центральная №1"
+    "tikName": "Курск, Центральная №1",
+    "uikName": "УИК №122",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 123,
     "uikTvd": "4464013564670",
     "tikTvd": "24620001197286",
-    "tikName": "Курск, Центральная №1"
+    "tikName": "Курск, Центральная №1",
+    "uikName": "УИК №123",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 124,
     "uikTvd": "4464013564671",
     "tikTvd": "24620001197286",
-    "tikName": "Курск, Центральная №1"
+    "tikName": "Курск, Центральная №1",
+    "uikName": "УИК №124",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 125,
     "uikTvd": "4464013564672",
     "tikTvd": "24620001197286",
-    "tikName": "Курск, Центральная №1"
+    "tikName": "Курск, Центральная №1",
+    "uikName": "УИК №125",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 126,
     "uikTvd": "4464013564673",
     "tikTvd": "24620001197286",
-    "tikName": "Курск, Центральная №1"
+    "tikName": "Курск, Центральная №1",
+    "uikName": "УИК №126",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 127,
     "uikTvd": "4464013564674",
     "tikTvd": "24620001197286",
-    "tikName": "Курск, Центральная №1"
+    "tikName": "Курск, Центральная №1",
+    "uikName": "УИК №127",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 128,
     "uikTvd": "4464036103551",
     "tikTvd": "24620001197282",
-    "tikName": "Курск, Центральная №2"
+    "tikName": "Курск, Центральная №2",
+    "uikName": "УИК №128",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 129,
     "uikTvd": "4464036103552",
     "tikTvd": "24620001197282",
-    "tikName": "Курск, Центральная №2"
+    "tikName": "Курск, Центральная №2",
+    "uikName": "УИК №129",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 130,
     "uikTvd": "4464036103553",
     "tikTvd": "24620001197282",
-    "tikName": "Курск, Центральная №2"
+    "tikName": "Курск, Центральная №2",
+    "uikName": "УИК №130",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 131,
     "uikTvd": "4464036103554",
     "tikTvd": "24620001197282",
-    "tikName": "Курск, Центральная №2"
+    "tikName": "Курск, Центральная №2",
+    "uikName": "УИК №131",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 132,
     "uikTvd": "4464036103555",
     "tikTvd": "24620001197282",
-    "tikName": "Курск, Центральная №2"
+    "tikName": "Курск, Центральная №2",
+    "uikName": "УИК №132",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 133,
     "uikTvd": "4464013564675",
     "tikTvd": "24620001197286",
-    "tikName": "Курск, Центральная №1"
+    "tikName": "Курск, Центральная №1",
+    "uikName": "УИК №133",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 134,
     "uikTvd": "4464036103556",
     "tikTvd": "24620001197282",
-    "tikName": "Курск, Центральная №2"
+    "tikName": "Курск, Центральная №2",
+    "uikName": "УИК №134",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 135,
     "uikTvd": "4464036103557",
     "tikTvd": "24620001197282",
-    "tikName": "Курск, Центральная №2"
+    "tikName": "Курск, Центральная №2",
+    "uikName": "УИК №135",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 136,
     "uikTvd": "4464036103558",
     "tikTvd": "24620001197282",
-    "tikName": "Курск, Центральная №2"
+    "tikName": "Курск, Центральная №2",
+    "uikName": "УИК №136",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 137,
     "uikTvd": "4464036103559",
     "tikTvd": "24620001197282",
-    "tikName": "Курск, Центральная №2"
+    "tikName": "Курск, Центральная №2",
+    "uikName": "УИК №137",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 138,
     "uikTvd": "4464036103560",
     "tikTvd": "24620001197282",
-    "tikName": "Курск, Центральная №2"
+    "tikName": "Курск, Центральная №2",
+    "uikName": "УИК №138",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 139,
     "uikTvd": "4464036103561",
     "tikTvd": "24620001197282",
-    "tikName": "Курск, Центральная №2"
+    "tikName": "Курск, Центральная №2",
+    "uikName": "УИК №139",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 140,
     "uikTvd": "4464036103562",
     "tikTvd": "24620001197282",
-    "tikName": "Курск, Центральная №2"
+    "tikName": "Курск, Центральная №2",
+    "uikName": "УИК №140",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 141,
     "uikTvd": "4464036103563",
     "tikTvd": "24620001197282",
-    "tikName": "Курск, Центральная №2"
+    "tikName": "Курск, Центральная №2",
+    "uikName": "УИК №141",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 142,
     "uikTvd": "4464036103564",
     "tikTvd": "24620001197282",
-    "tikName": "Курск, Центральная №2"
+    "tikName": "Курск, Центральная №2",
+    "uikName": "УИК №142",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 143,
     "uikTvd": "4464036103565",
     "tikTvd": "24620001197282",
-    "tikName": "Курск, Центральная №2"
+    "tikName": "Курск, Центральная №2",
+    "uikName": "УИК №143",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 144,
     "uikTvd": "4464036103566",
     "tikTvd": "24620001197282",
-    "tikName": "Курск, Центральная №2"
+    "tikName": "Курск, Центральная №2",
+    "uikName": "УИК №144",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 145,
     "uikTvd": "4464036103567",
     "tikTvd": "24620001197282",
-    "tikName": "Курск, Центральная №2"
+    "tikName": "Курск, Центральная №2",
+    "uikName": "УИК №145",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 146,
     "uikTvd": "4464036103568",
     "tikTvd": "24620001197282",
-    "tikName": "Курск, Центральная №2"
+    "tikName": "Курск, Центральная №2",
+    "uikName": "УИК №146",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 147,
     "uikTvd": "4464036103569",
     "tikTvd": "24620001197282",
-    "tikName": "Курск, Центральная №2"
+    "tikName": "Курск, Центральная №2",
+    "uikName": "УИК №147",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 148,
     "uikTvd": "4464036103570",
     "tikTvd": "24620001197282",
-    "tikName": "Курск, Центральная №2"
+    "tikName": "Курск, Центральная №2",
+    "uikName": "УИК №148",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 149,
     "uikTvd": "4464013564676",
     "tikTvd": "24620001197286",
-    "tikName": "Курск, Центральная №1"
+    "tikName": "Курск, Центральная №1",
+    "uikName": "УИК №149",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 150,
     "uikTvd": "4464013564677",
     "tikTvd": "24620001197286",
-    "tikName": "Курск, Центральная №1"
+    "tikName": "Курск, Центральная №1",
+    "uikName": "УИК №150",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 151,
     "uikTvd": "4464013564678",
     "tikTvd": "24620001197286",
-    "tikName": "Курск, Центральная №1"
+    "tikName": "Курск, Центральная №1",
+    "uikName": "УИК №151",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 152,
     "uikTvd": "4464013564679",
     "tikTvd": "24620001197286",
-    "tikName": "Курск, Центральная №1"
+    "tikName": "Курск, Центральная №1",
+    "uikName": "УИК №152",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 153,
     "uikTvd": "4464013564680",
     "tikTvd": "24620001197286",
-    "tikName": "Курск, Центральная №1"
+    "tikName": "Курск, Центральная №1",
+    "uikName": "УИК №153",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 154,
     "uikTvd": "4464036103571",
     "tikTvd": "24620001197282",
-    "tikName": "Курск, Центральная №2"
+    "tikName": "Курск, Центральная №2",
+    "uikName": "УИК №154",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 155,
     "uikTvd": "4464036103572",
     "tikTvd": "24620001197282",
-    "tikName": "Курск, Центральная №2"
+    "tikName": "Курск, Центральная №2",
+    "uikName": "УИК №155",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 156,
     "uikTvd": "4464036103573",
     "tikTvd": "24620001197282",
-    "tikName": "Курск, Центральная №2"
+    "tikName": "Курск, Центральная №2",
+    "uikName": "УИК №156",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 157,
     "uikTvd": "4464036103574",
     "tikTvd": "24620001197282",
-    "tikName": "Курск, Центральная №2"
+    "tikName": "Курск, Центральная №2",
+    "uikName": "УИК №157",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 158,
     "uikTvd": "4464036103575",
     "tikTvd": "24620001197282",
-    "tikName": "Курск, Центральная №2"
+    "tikName": "Курск, Центральная №2",
+    "uikName": "УИК №158",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 159,
     "uikTvd": "4464013564681",
     "tikTvd": "24620001197286",
-    "tikName": "Курск, Центральная №1"
+    "tikName": "Курск, Центральная №1",
+    "uikName": "УИК №159",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 160,
     "uikTvd": "4464036103576",
     "tikTvd": "24620001197282",
-    "tikName": "Курск, Центральная №2"
+    "tikName": "Курск, Центральная №2",
+    "uikName": "УИК №160",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 161,
     "uikTvd": "4464013564682",
     "tikTvd": "24620001197286",
-    "tikName": "Курск, Центральная №1"
+    "tikName": "Курск, Центральная №1",
+    "uikName": "УИК №161",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 162,
     "uikTvd": "4464013564683",
     "tikTvd": "24620001197286",
-    "tikName": "Курск, Центральная №1"
+    "tikName": "Курск, Центральная №1",
+    "uikName": "УИК №162",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 163,
     "uikTvd": "4464013564684",
     "tikTvd": "24620001197286",
-    "tikName": "Курск, Центральная №1"
+    "tikName": "Курск, Центральная №1",
+    "uikName": "УИК №163",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 164,
     "uikTvd": "4464013564685",
     "tikTvd": "24620001197286",
-    "tikName": "Курск, Центральная №1"
+    "tikName": "Курск, Центральная №1",
+    "uikName": "УИК №164",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 165,
     "uikTvd": "4464013564686",
     "tikTvd": "24620001197286",
-    "tikName": "Курск, Центральная №1"
+    "tikName": "Курск, Центральная №1",
+    "uikName": "УИК №165",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 166,
     "uikTvd": "4464013564687",
     "tikTvd": "24620001197286",
-    "tikName": "Курск, Центральная №1"
+    "tikName": "Курск, Центральная №1",
+    "uikName": "УИК №166",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 167,
     "uikTvd": "4464013564688",
     "tikTvd": "24620001197286",
-    "tikName": "Курск, Центральная №1"
+    "tikName": "Курск, Центральная №1",
+    "uikName": "УИК №167",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 168,
     "uikTvd": "4464013564689",
     "tikTvd": "24620001197286",
-    "tikName": "Курск, Центральная №1"
+    "tikName": "Курск, Центральная №1",
+    "uikName": "УИК №168",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 169,
     "uikTvd": "4464013564690",
     "tikTvd": "24620001197286",
-    "tikName": "Курск, Центральная №1"
+    "tikName": "Курск, Центральная №1",
+    "uikName": "УИК №169",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 170,
     "uikTvd": "4464013564691",
     "tikTvd": "24620001197286",
-    "tikName": "Курск, Центральная №1"
+    "tikName": "Курск, Центральная №1",
+    "uikName": "УИК №170",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 171,
     "uikTvd": "4464013564692",
     "tikTvd": "24620001197286",
-    "tikName": "Курск, Центральная №1"
+    "tikName": "Курск, Центральная №1",
+    "uikName": "УИК №171",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 172,
     "uikTvd": "4464013564693",
     "tikTvd": "24620001197286",
-    "tikName": "Курск, Центральная №1"
+    "tikName": "Курск, Центральная №1",
+    "uikName": "УИК №172",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 173,
     "uikTvd": "4464013564694",
     "tikTvd": "24620001197286",
-    "tikName": "Курск, Центральная №1"
+    "tikName": "Курск, Центральная №1",
+    "uikName": "УИК №173",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 174,
     "uikTvd": "4464013564695",
     "tikTvd": "24620001197286",
-    "tikName": "Курск, Центральная №1"
+    "tikName": "Курск, Центральная №1",
+    "uikName": "УИК №174",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 175,
     "uikTvd": "4464013564696",
     "tikTvd": "24620001197286",
-    "tikName": "Курск, Центральная №1"
+    "tikName": "Курск, Центральная №1",
+    "uikName": "УИК №175",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 176,
     "uikTvd": "4464013564697",
     "tikTvd": "24620001197286",
-    "tikName": "Курск, Центральная №1"
+    "tikName": "Курск, Центральная №1",
+    "uikName": "УИК №176",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 177,
     "uikTvd": "4464013564698",
     "tikTvd": "24620001197286",
-    "tikName": "Курск, Центральная №1"
+    "tikName": "Курск, Центральная №1",
+    "uikName": "УИК №177",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 178,
     "uikTvd": "4464013564699",
     "tikTvd": "24620001197286",
-    "tikName": "Курск, Центральная №1"
+    "tikName": "Курск, Центральная №1",
+    "uikName": "УИК №178",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 179,
     "uikTvd": "4464013564700",
     "tikTvd": "24620001197286",
-    "tikName": "Курск, Центральная №1"
+    "tikName": "Курск, Центральная №1",
+    "uikName": "УИК №179",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 180,
     "uikTvd": "4464013564701",
     "tikTvd": "24620001197286",
-    "tikName": "Курск, Центральная №1"
+    "tikName": "Курск, Центральная №1",
+    "uikName": "УИК №180",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 181,
     "uikTvd": "4464013564702",
     "tikTvd": "24620001197286",
-    "tikName": "Курск, Центральная №1"
+    "tikName": "Курск, Центральная №1",
+    "uikName": "УИК №181",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 182,
     "uikTvd": "4464013564703",
     "tikTvd": "24620001197286",
-    "tikName": "Курск, Центральная №1"
+    "tikName": "Курск, Центральная №1",
+    "uikName": "УИК №182",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 183,
     "uikTvd": "4464013564704",
     "tikTvd": "24620001197286",
-    "tikName": "Курск, Центральная №1"
+    "tikName": "Курск, Центральная №1",
+    "uikName": "УИК №183",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 184,
     "uikTvd": "4464013564705",
     "tikTvd": "24620001197286",
-    "tikName": "Курск, Центральная №1"
+    "tikName": "Курск, Центральная №1",
+    "uikName": "УИК №184",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 185,
     "uikTvd": "4464013564706",
     "tikTvd": "24620001197286",
-    "tikName": "Курск, Центральная №1"
+    "tikName": "Курск, Центральная №1",
+    "uikName": "УИК №185",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 186,
     "uikTvd": "4464013564707",
     "tikTvd": "24620001197286",
-    "tikName": "Курск, Центральная №1"
+    "tikName": "Курск, Центральная №1",
+    "uikName": "УИК №186",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 187,
     "uikTvd": "4464013564708",
     "tikTvd": "24620001197286",
-    "tikName": "Курск, Центральная №1"
+    "tikName": "Курск, Центральная №1",
+    "uikName": "УИК №187",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 188,
     "uikTvd": "4464013564709",
     "tikTvd": "24620001197286",
-    "tikName": "Курск, Центральная №1"
+    "tikName": "Курск, Центральная №1",
+    "uikName": "УИК №188",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 189,
     "uikTvd": "4464013564710",
     "tikTvd": "24620001197286",
-    "tikName": "Курск, Центральная №1"
+    "tikName": "Курск, Центральная №1",
+    "uikName": "УИК №189",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 190,
     "uikTvd": "4464013564711",
     "tikTvd": "24620001197286",
-    "tikName": "Курск, Центральная №1"
+    "tikName": "Курск, Центральная №1",
+    "uikName": "УИК №190",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 191,
     "uikTvd": "4464013564712",
     "tikTvd": "24620001197286",
-    "tikName": "Курск, Центральная №1"
+    "tikName": "Курск, Центральная №1",
+    "uikName": "УИК №191",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 192,
     "uikTvd": "4464013564713",
     "tikTvd": "24620001197286",
-    "tikName": "Курск, Центральная №1"
+    "tikName": "Курск, Центральная №1",
+    "uikName": "УИК №192",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 193,
     "uikTvd": "4464001326988",
     "tikTvd": "24620001197664",
-    "tikName": "Беловская"
+    "tikName": "Беловская",
+    "uikName": "УИК №193",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 194,
     "uikTvd": "4464001326989",
     "tikTvd": "24620001197664",
-    "tikName": "Беловская"
+    "tikName": "Беловская",
+    "uikName": "УИК №194",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 195,
     "uikTvd": "4464001326990",
     "tikTvd": "24620001197664",
-    "tikName": "Беловская"
+    "tikName": "Беловская",
+    "uikName": "УИК №195",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 196,
     "uikTvd": "4464001326991",
     "tikTvd": "24620001197664",
-    "tikName": "Беловская"
+    "tikName": "Беловская",
+    "uikName": "УИК №196",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 197,
     "uikTvd": "4464001326992",
     "tikTvd": "24620001197664",
-    "tikName": "Беловская"
+    "tikName": "Беловская",
+    "uikName": "УИК №197",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 198,
     "uikTvd": "4464001326993",
     "tikTvd": "24620001197664",
-    "tikName": "Беловская"
+    "tikName": "Беловская",
+    "uikName": "УИК №198",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 199,
     "uikTvd": "4464001326994",
     "tikTvd": "24620001197664",
-    "tikName": "Беловская"
+    "tikName": "Беловская",
+    "uikName": "УИК №199",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 200,
     "uikTvd": "4464001326995",
     "tikTvd": "24620001197664",
-    "tikName": "Беловская"
+    "tikName": "Беловская",
+    "uikName": "УИК №200",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 201,
     "uikTvd": "4464001326996",
     "tikTvd": "24620001197664",
-    "tikName": "Беловская"
+    "tikName": "Беловская",
+    "uikName": "УИК №201",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 202,
     "uikTvd": "4464001326997",
     "tikTvd": "24620001197664",
-    "tikName": "Беловская"
+    "tikName": "Беловская",
+    "uikName": "УИК №202",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 203,
     "uikTvd": "4464001326998",
     "tikTvd": "24620001197664",
-    "tikName": "Беловская"
+    "tikName": "Беловская",
+    "uikName": "УИК №203",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 204,
     "uikTvd": "4464001326999",
     "tikTvd": "24620001197664",
-    "tikName": "Беловская"
+    "tikName": "Беловская",
+    "uikName": "УИК №204",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 205,
     "uikTvd": "4464001327000",
     "tikTvd": "24620001197664",
-    "tikName": "Беловская"
+    "tikName": "Беловская",
+    "uikName": "УИК №205",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 206,
     "uikTvd": "4464001327001",
     "tikTvd": "24620001197664",
-    "tikName": "Беловская"
+    "tikName": "Беловская",
+    "uikName": "УИК №206",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 207,
     "uikTvd": "4464001327002",
     "tikTvd": "24620001197664",
-    "tikName": "Беловская"
+    "tikName": "Беловская",
+    "uikName": "УИК №207",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 208,
     "uikTvd": "4464001327003",
     "tikTvd": "24620001197664",
-    "tikName": "Беловская"
+    "tikName": "Беловская",
+    "uikName": "УИК №208",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 209,
     "uikTvd": "4464001327004",
     "tikTvd": "24620001197664",
-    "tikName": "Беловская"
+    "tikName": "Беловская",
+    "uikName": "УИК №209",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 210,
     "uikTvd": "4464001327005",
     "tikTvd": "24620001197664",
-    "tikName": "Беловская"
+    "tikName": "Беловская",
+    "uikName": "УИК №210",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 211,
     "uikTvd": "4464001327006",
     "tikTvd": "24620001197664",
-    "tikName": "Беловская"
+    "tikName": "Беловская",
+    "uikName": "УИК №211",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 212,
     "uikTvd": "4464001327007",
     "tikTvd": "24620001197664",
-    "tikName": "Беловская"
+    "tikName": "Беловская",
+    "uikName": "УИК №212",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 213,
     "uikTvd": "4464001327008",
     "tikTvd": "24620001197664",
-    "tikName": "Беловская"
+    "tikName": "Беловская",
+    "uikName": "УИК №213",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 214,
     "uikTvd": "4464001327009",
     "tikTvd": "24620001197664",
-    "tikName": "Беловская"
+    "tikName": "Беловская",
+    "uikName": "УИК №214",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 215,
     "uikTvd": "4464001327010",
     "tikTvd": "24620001197664",
-    "tikName": "Беловская"
+    "tikName": "Беловская",
+    "uikName": "УИК №215",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 216,
     "uikTvd": "4464001327011",
     "tikTvd": "24620001197664",
-    "tikName": "Беловская"
+    "tikName": "Беловская",
+    "uikName": "УИК №216",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 217,
     "uikTvd": "4464001327012",
     "tikTvd": "24620001197664",
-    "tikName": "Беловская"
+    "tikName": "Беловская",
+    "uikName": "УИК №217",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 218,
     "uikTvd": "4464001327013",
     "tikTvd": "24620001197664",
-    "tikName": "Беловская"
+    "tikName": "Беловская",
+    "uikName": "УИК №218",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 219,
     "uikTvd": "4464001327014",
     "tikTvd": "24620001197664",
-    "tikName": "Беловская"
+    "tikName": "Беловская",
+    "uikName": "УИК №219",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 220,
     "uikTvd": "4464002282434",
     "tikTvd": "24620001197663",
-    "tikName": "Большесолдатская"
+    "tikName": "Большесолдатская",
+    "uikName": "УИК №220",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 221,
     "uikTvd": "4464002282435",
     "tikTvd": "24620001197663",
-    "tikName": "Большесолдатская"
+    "tikName": "Большесолдатская",
+    "uikName": "УИК №221",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 222,
     "uikTvd": "4464002282436",
     "tikTvd": "24620001197663",
-    "tikName": "Большесолдатская"
+    "tikName": "Большесолдатская",
+    "uikName": "УИК №222",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 223,
     "uikTvd": "4464002282437",
     "tikTvd": "24620001197663",
-    "tikName": "Большесолдатская"
+    "tikName": "Большесолдатская",
+    "uikName": "УИК №223",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 224,
     "uikTvd": "4464002282438",
     "tikTvd": "24620001197663",
-    "tikName": "Большесолдатская"
+    "tikName": "Большесолдатская",
+    "uikName": "УИК №224",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 225,
     "uikTvd": "4464002282439",
     "tikTvd": "24620001197663",
-    "tikName": "Большесолдатская"
+    "tikName": "Большесолдатская",
+    "uikName": "УИК №225",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 226,
     "uikTvd": "4464002282440",
     "tikTvd": "24620001197663",
-    "tikName": "Большесолдатская"
+    "tikName": "Большесолдатская",
+    "uikName": "УИК №226",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 227,
     "uikTvd": "4464002282441",
     "tikTvd": "24620001197663",
-    "tikName": "Большесолдатская"
+    "tikName": "Большесолдатская",
+    "uikName": "УИК №227",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 228,
     "uikTvd": "4464002282442",
     "tikTvd": "24620001197663",
-    "tikName": "Большесолдатская"
+    "tikName": "Большесолдатская",
+    "uikName": "УИК №228",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 229,
     "uikTvd": "4464002282443",
     "tikTvd": "24620001197663",
-    "tikName": "Большесолдатская"
+    "tikName": "Большесолдатская",
+    "uikName": "УИК №229",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 230,
     "uikTvd": "4464002282444",
     "tikTvd": "24620001197663",
-    "tikName": "Большесолдатская"
+    "tikName": "Большесолдатская",
+    "uikName": "УИК №230",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 231,
     "uikTvd": "4464002282445",
     "tikTvd": "24620001197663",
-    "tikName": "Большесолдатская"
+    "tikName": "Большесолдатская",
+    "uikName": "УИК №231",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 232,
     "uikTvd": "4464002282446",
     "tikTvd": "24620001197663",
-    "tikName": "Большесолдатская"
+    "tikName": "Большесолдатская",
+    "uikName": "УИК №232",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 233,
     "uikTvd": "4464002282447",
     "tikTvd": "24620001197663",
-    "tikName": "Большесолдатская"
+    "tikName": "Большесолдатская",
+    "uikName": "УИК №233",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 234,
     "uikTvd": "4464002282448",
     "tikTvd": "24620001197663",
-    "tikName": "Большесолдатская"
+    "tikName": "Большесолдатская",
+    "uikName": "УИК №234",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 235,
     "uikTvd": "4464002282449",
     "tikTvd": "24620001197663",
-    "tikName": "Большесолдатская"
+    "tikName": "Большесолдатская",
+    "uikName": "УИК №235",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 236,
     "uikTvd": "4464002282450",
     "tikTvd": "24620001197663",
-    "tikName": "Большесолдатская"
+    "tikName": "Большесолдатская",
+    "uikName": "УИК №236",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 237,
     "uikTvd": "4464003315262",
     "tikTvd": "24620001197662",
-    "tikName": "Глушковская"
+    "tikName": "Глушковская",
+    "uikName": "УИК №237",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 238,
     "uikTvd": "4464003315263",
     "tikTvd": "24620001197662",
-    "tikName": "Глушковская"
+    "tikName": "Глушковская",
+    "uikName": "УИК №238",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 239,
     "uikTvd": "4464003315264",
     "tikTvd": "24620001197662",
-    "tikName": "Глушковская"
+    "tikName": "Глушковская",
+    "uikName": "УИК №239",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 240,
     "uikTvd": "4464003315265",
     "tikTvd": "24620001197662",
-    "tikName": "Глушковская"
+    "tikName": "Глушковская",
+    "uikName": "УИК №240",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 241,
     "uikTvd": "4464003315266",
     "tikTvd": "24620001197662",
-    "tikName": "Глушковская"
+    "tikName": "Глушковская",
+    "uikName": "УИК №241",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 242,
     "uikTvd": "4464003315267",
     "tikTvd": "24620001197662",
-    "tikName": "Глушковская"
+    "tikName": "Глушковская",
+    "uikName": "УИК №242",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 243,
     "uikTvd": "4464003315268",
     "tikTvd": "24620001197662",
-    "tikName": "Глушковская"
+    "tikName": "Глушковская",
+    "uikName": "УИК №243",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 244,
     "uikTvd": "4464003315269",
     "tikTvd": "24620001197662",
-    "tikName": "Глушковская"
+    "tikName": "Глушковская",
+    "uikName": "УИК №244",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 245,
     "uikTvd": "4464003315270",
     "tikTvd": "24620001197662",
-    "tikName": "Глушковская"
+    "tikName": "Глушковская",
+    "uikName": "УИК №245",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 246,
     "uikTvd": "4464003315271",
     "tikTvd": "24620001197662",
-    "tikName": "Глушковская"
+    "tikName": "Глушковская",
+    "uikName": "УИК №246",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 247,
     "uikTvd": "4464003315272",
     "tikTvd": "24620001197662",
-    "tikName": "Глушковская"
+    "tikName": "Глушковская",
+    "uikName": "УИК №247",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 248,
     "uikTvd": "4464003315273",
     "tikTvd": "24620001197662",
-    "tikName": "Глушковская"
+    "tikName": "Глушковская",
+    "uikName": "УИК №248",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 249,
     "uikTvd": "4464003315274",
     "tikTvd": "24620001197662",
-    "tikName": "Глушковская"
+    "tikName": "Глушковская",
+    "uikName": "УИК №249",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 250,
     "uikTvd": "4464003315275",
     "tikTvd": "24620001197662",
-    "tikName": "Глушковская"
+    "tikName": "Глушковская",
+    "uikName": "УИК №250",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 251,
     "uikTvd": "4464003315276",
     "tikTvd": "24620001197662",
-    "tikName": "Глушковская"
+    "tikName": "Глушковская",
+    "uikName": "УИК №251",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 252,
     "uikTvd": "4464003315277",
     "tikTvd": "24620001197662",
-    "tikName": "Глушковская"
+    "tikName": "Глушковская",
+    "uikName": "УИК №252",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 253,
     "uikTvd": "4464003315278",
     "tikTvd": "24620001197662",
-    "tikName": "Глушковская"
+    "tikName": "Глушковская",
+    "uikName": "УИК №253",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 254,
     "uikTvd": "4464003315279",
     "tikTvd": "24620001197662",
-    "tikName": "Глушковская"
+    "tikName": "Глушковская",
+    "uikName": "УИК №254",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 255,
     "uikTvd": "4464003315280",
     "tikTvd": "24620001197662",
-    "tikName": "Глушковская"
+    "tikName": "Глушковская",
+    "uikName": "УИК №255",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 256,
     "uikTvd": "4464003315281",
     "tikTvd": "24620001197662",
-    "tikName": "Глушковская"
+    "tikName": "Глушковская",
+    "uikName": "УИК №256",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 257,
     "uikTvd": "4464003315282",
     "tikTvd": "24620001197662",
-    "tikName": "Глушковская"
+    "tikName": "Глушковская",
+    "uikName": "УИК №257",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 258,
     "uikTvd": "4464003315283",
     "tikTvd": "24620001197662",
-    "tikName": "Глушковская"
+    "tikName": "Глушковская",
+    "uikName": "УИК №258",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 259,
     "uikTvd": "4464003315284",
     "tikTvd": "24620001197662",
-    "tikName": "Глушковская"
+    "tikName": "Глушковская",
+    "uikName": "УИК №259",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 260,
     "uikTvd": "4464003315285",
     "tikTvd": "24620001197662",
-    "tikName": "Глушковская"
+    "tikName": "Глушковская",
+    "uikName": "УИК №260",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 261,
     "uikTvd": "4464003315286",
     "tikTvd": "24620001197662",
-    "tikName": "Глушковская"
+    "tikName": "Глушковская",
+    "uikName": "УИК №261",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 262,
     "uikTvd": "4464003315287",
     "tikTvd": "24620001197662",
-    "tikName": "Глушковская"
+    "tikName": "Глушковская",
+    "uikName": "УИК №262",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 263,
     "uikTvd": "4464003315288",
     "tikTvd": "24620001197662",
-    "tikName": "Глушковская"
+    "tikName": "Глушковская",
+    "uikName": "УИК №263",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 264,
     "uikTvd": "4464003315289",
     "tikTvd": "24620001197662",
-    "tikName": "Глушковская"
+    "tikName": "Глушковская",
+    "uikName": "УИК №264",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 265,
     "uikTvd": "4464003315290",
     "tikTvd": "24620001197662",
-    "tikName": "Глушковская"
+    "tikName": "Глушковская",
+    "uikName": "УИК №265",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 266,
     "uikTvd": "4464004445232",
     "tikTvd": "24620001197661",
-    "tikName": "Горшеченская"
+    "tikName": "Горшеченская",
+    "uikName": "УИК №266",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 267,
     "uikTvd": "4464004445233",
     "tikTvd": "24620001197661",
-    "tikName": "Горшеченская"
+    "tikName": "Горшеченская",
+    "uikName": "УИК №267",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 268,
     "uikTvd": "4464004445234",
     "tikTvd": "24620001197661",
-    "tikName": "Горшеченская"
+    "tikName": "Горшеченская",
+    "uikName": "УИК №268",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 269,
     "uikTvd": "4464004445235",
     "tikTvd": "24620001197661",
-    "tikName": "Горшеченская"
+    "tikName": "Горшеченская",
+    "uikName": "УИК №269",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 270,
     "uikTvd": "4464004445236",
     "tikTvd": "24620001197661",
-    "tikName": "Горшеченская"
+    "tikName": "Горшеченская",
+    "uikName": "УИК №270",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 271,
     "uikTvd": "4464004445237",
     "tikTvd": "24620001197661",
-    "tikName": "Горшеченская"
+    "tikName": "Горшеченская",
+    "uikName": "УИК №271",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 272,
     "uikTvd": "4464004445238",
     "tikTvd": "24620001197661",
-    "tikName": "Горшеченская"
+    "tikName": "Горшеченская",
+    "uikName": "УИК №272",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 273,
     "uikTvd": "4464004445239",
     "tikTvd": "24620001197661",
-    "tikName": "Горшеченская"
+    "tikName": "Горшеченская",
+    "uikName": "УИК №273",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 274,
     "uikTvd": "4464004445240",
     "tikTvd": "24620001197661",
-    "tikName": "Горшеченская"
+    "tikName": "Горшеченская",
+    "uikName": "УИК №274",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 275,
     "uikTvd": "4464004445241",
     "tikTvd": "24620001197661",
-    "tikName": "Горшеченская"
+    "tikName": "Горшеченская",
+    "uikName": "УИК №275",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 276,
     "uikTvd": "4464004445242",
     "tikTvd": "24620001197661",
-    "tikName": "Горшеченская"
+    "tikName": "Горшеченская",
+    "uikName": "УИК №276",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 277,
     "uikTvd": "4464004445243",
     "tikTvd": "24620001197661",
-    "tikName": "Горшеченская"
+    "tikName": "Горшеченская",
+    "uikName": "УИК №277",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 278,
     "uikTvd": "4464004445244",
     "tikTvd": "24620001197661",
-    "tikName": "Горшеченская"
+    "tikName": "Горшеченская",
+    "uikName": "УИК №278",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 279,
     "uikTvd": "4464004445245",
     "tikTvd": "24620001197661",
-    "tikName": "Горшеченская"
+    "tikName": "Горшеченская",
+    "uikName": "УИК №279",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 280,
     "uikTvd": "4464004445246",
     "tikTvd": "24620001197661",
-    "tikName": "Горшеченская"
+    "tikName": "Горшеченская",
+    "uikName": "УИК №280",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 281,
     "uikTvd": "4464004445247",
     "tikTvd": "24620001197661",
-    "tikName": "Горшеченская"
+    "tikName": "Горшеченская",
+    "uikName": "УИК №281",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 282,
     "uikTvd": "4464004445248",
     "tikTvd": "24620001197661",
-    "tikName": "Горшеченская"
+    "tikName": "Горшеченская",
+    "uikName": "УИК №282",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 283,
     "uikTvd": "4464004445249",
     "tikTvd": "24620001197661",
-    "tikName": "Горшеченская"
+    "tikName": "Горшеченская",
+    "uikName": "УИК №283",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 284,
     "uikTvd": "4464004445250",
     "tikTvd": "24620001197661",
-    "tikName": "Горшеченская"
+    "tikName": "Горшеченская",
+    "uikName": "УИК №284",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 285,
     "uikTvd": "4464004445251",
     "tikTvd": "24620001197661",
-    "tikName": "Горшеченская"
+    "tikName": "Горшеченская",
+    "uikName": "УИК №285",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 286,
     "uikTvd": "4464004445252",
     "tikTvd": "24620001197661",
-    "tikName": "Горшеченская"
+    "tikName": "Горшеченская",
+    "uikName": "УИК №286",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 287,
     "uikTvd": "4464004445253",
     "tikTvd": "24620001197661",
-    "tikName": "Горшеченская"
+    "tikName": "Горшеченская",
+    "uikName": "УИК №287",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 288,
     "uikTvd": "4464004445254",
     "tikTvd": "24620001197661",
-    "tikName": "Горшеченская"
+    "tikName": "Горшеченская",
+    "uikName": "УИК №288",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 289,
     "uikTvd": "4464004445255",
     "tikTvd": "24620001197661",
-    "tikName": "Горшеченская"
+    "tikName": "Горшеченская",
+    "uikName": "УИК №289",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 290,
     "uikTvd": "4464004445256",
     "tikTvd": "24620001197661",
-    "tikName": "Горшеченская"
+    "tikName": "Горшеченская",
+    "uikName": "УИК №290",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 291,
     "uikTvd": "4464004445257",
     "tikTvd": "24620001197661",
-    "tikName": "Горшеченская"
+    "tikName": "Горшеченская",
+    "uikName": "УИК №291",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 292,
     "uikTvd": "4464004445258",
     "tikTvd": "24620001197661",
-    "tikName": "Горшеченская"
+    "tikName": "Горшеченская",
+    "uikName": "УИК №292",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 293,
     "uikTvd": "4464004445259",
     "tikTvd": "24620001197661",
-    "tikName": "Горшеченская"
+    "tikName": "Горшеченская",
+    "uikName": "УИК №293",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 294,
     "uikTvd": "4464004445260",
     "tikTvd": "24620001197661",
-    "tikName": "Горшеченская"
+    "tikName": "Горшеченская",
+    "uikName": "УИК №294",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 295,
     "uikTvd": "4464004445261",
     "tikTvd": "24620001197661",
-    "tikName": "Горшеченская"
+    "tikName": "Горшеченская",
+    "uikName": "УИК №295",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 296,
     "uikTvd": "4464004445262",
     "tikTvd": "24620001197661",
-    "tikName": "Горшеченская"
+    "tikName": "Горшеченская",
+    "uikName": "УИК №296",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 297,
     "uikTvd": "4464004445263",
     "tikTvd": "24620001197661",
-    "tikName": "Горшеченская"
+    "tikName": "Горшеченская",
+    "uikName": "УИК №297",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 298,
     "uikTvd": "4464005280985",
     "tikTvd": "24620001197290",
-    "tikName": "Дмитриевская"
+    "tikName": "Дмитриевская",
+    "uikName": "УИК №298",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 299,
     "uikTvd": "4464005280986",
     "tikTvd": "24620001197290",
-    "tikName": "Дмитриевская"
+    "tikName": "Дмитриевская",
+    "uikName": "УИК №299",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 300,
     "uikTvd": "4464005280987",
     "tikTvd": "24620001197290",
-    "tikName": "Дмитриевская"
+    "tikName": "Дмитриевская",
+    "uikName": "УИК №300",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 301,
     "uikTvd": "4464005280988",
     "tikTvd": "24620001197290",
-    "tikName": "Дмитриевская"
+    "tikName": "Дмитриевская",
+    "uikName": "УИК №301",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 302,
     "uikTvd": "4464005280989",
     "tikTvd": "24620001197290",
-    "tikName": "Дмитриевская"
+    "tikName": "Дмитриевская",
+    "uikName": "УИК №302",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 303,
     "uikTvd": "4464005280990",
     "tikTvd": "24620001197290",
-    "tikName": "Дмитриевская"
+    "tikName": "Дмитриевская",
+    "uikName": "УИК №303",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 304,
     "uikTvd": "4464005280991",
     "tikTvd": "24620001197290",
-    "tikName": "Дмитриевская"
+    "tikName": "Дмитриевская",
+    "uikName": "УИК №304",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 305,
     "uikTvd": "4464005280992",
     "tikTvd": "24620001197290",
-    "tikName": "Дмитриевская"
+    "tikName": "Дмитриевская",
+    "uikName": "УИК №305",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 306,
     "uikTvd": "4464005280993",
     "tikTvd": "24620001197290",
-    "tikName": "Дмитриевская"
+    "tikName": "Дмитриевская",
+    "uikName": "УИК №306",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 307,
     "uikTvd": "4464005280994",
     "tikTvd": "24620001197290",
-    "tikName": "Дмитриевская"
+    "tikName": "Дмитриевская",
+    "uikName": "УИК №307",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 308,
     "uikTvd": "4464005280995",
     "tikTvd": "24620001197290",
-    "tikName": "Дмитриевская"
+    "tikName": "Дмитриевская",
+    "uikName": "УИК №308",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 309,
     "uikTvd": "4464005280996",
     "tikTvd": "24620001197290",
-    "tikName": "Дмитриевская"
+    "tikName": "Дмитриевская",
+    "uikName": "УИК №309",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 310,
     "uikTvd": "4464005280997",
     "tikTvd": "24620001197290",
-    "tikName": "Дмитриевская"
+    "tikName": "Дмитриевская",
+    "uikName": "УИК №310",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 311,
     "uikTvd": "4464005280998",
     "tikTvd": "24620001197290",
-    "tikName": "Дмитриевская"
+    "tikName": "Дмитриевская",
+    "uikName": "УИК №311",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 312,
     "uikTvd": "4464005280999",
     "tikTvd": "24620001197290",
-    "tikName": "Дмитриевская"
+    "tikName": "Дмитриевская",
+    "uikName": "УИК №312",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 313,
     "uikTvd": "4464005281000",
     "tikTvd": "24620001197290",
-    "tikName": "Дмитриевская"
+    "tikName": "Дмитриевская",
+    "uikName": "УИК №313",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 314,
     "uikTvd": "4464005281001",
     "tikTvd": "24620001197290",
-    "tikName": "Дмитриевская"
+    "tikName": "Дмитриевская",
+    "uikName": "УИК №314",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 315,
     "uikTvd": "4464005281002",
     "tikTvd": "24620001197290",
-    "tikName": "Дмитриевская"
+    "tikName": "Дмитриевская",
+    "uikName": "УИК №315",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 316,
     "uikTvd": "4464005281003",
     "tikTvd": "24620001197290",
-    "tikName": "Дмитриевская"
+    "tikName": "Дмитриевская",
+    "uikName": "УИК №316",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 317,
     "uikTvd": "4464005281004",
     "tikTvd": "24620001197290",
-    "tikName": "Дмитриевская"
+    "tikName": "Дмитриевская",
+    "uikName": "УИК №317",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 318,
     "uikTvd": "4464005281005",
     "tikTvd": "24620001197290",
-    "tikName": "Дмитриевская"
+    "tikName": "Дмитриевская",
+    "uikName": "УИК №318",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 319,
     "uikTvd": "4464005281006",
     "tikTvd": "24620001197290",
-    "tikName": "Дмитриевская"
+    "tikName": "Дмитриевская",
+    "uikName": "УИК №319",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 320,
     "uikTvd": "4464005281007",
     "tikTvd": "24620001197290",
-    "tikName": "Дмитриевская"
+    "tikName": "Дмитриевская",
+    "uikName": "УИК №320",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 321,
     "uikTvd": "4464005281008",
     "tikTvd": "24620001197290",
-    "tikName": "Дмитриевская"
+    "tikName": "Дмитриевская",
+    "uikName": "УИК №321",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 322,
     "uikTvd": "4464005281009",
     "tikTvd": "24620001197290",
-    "tikName": "Дмитриевская"
+    "tikName": "Дмитриевская",
+    "uikName": "УИК №322",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 323,
     "uikTvd": "4464005281010",
     "tikTvd": "24620001197290",
-    "tikName": "Дмитриевская"
+    "tikName": "Дмитриевская",
+    "uikName": "УИК №323",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 324,
     "uikTvd": "4464005281011",
     "tikTvd": "24620001197290",
-    "tikName": "Дмитриевская"
+    "tikName": "Дмитриевская",
+    "uikName": "УИК №324",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 325,
     "uikTvd": "4464005281012",
     "tikTvd": "24620001197290",
-    "tikName": "Дмитриевская"
+    "tikName": "Дмитриевская",
+    "uikName": "УИК №325",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 326,
     "uikTvd": "4464006303240",
     "tikTvd": "24620001197289",
-    "tikName": "Железногорская городская"
+    "tikName": "Железногорская городская",
+    "uikName": "УИК №326",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 327,
     "uikTvd": "4464006303241",
     "tikTvd": "24620001197289",
-    "tikName": "Железногорская городская"
+    "tikName": "Железногорская городская",
+    "uikName": "УИК №327",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 328,
     "uikTvd": "4464006303242",
     "tikTvd": "24620001197289",
-    "tikName": "Железногорская городская"
+    "tikName": "Железногорская городская",
+    "uikName": "УИК №328",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 329,
     "uikTvd": "4464006303243",
     "tikTvd": "24620001197289",
-    "tikName": "Железногорская городская"
+    "tikName": "Железногорская городская",
+    "uikName": "УИК №329",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 330,
     "uikTvd": "4464006303244",
     "tikTvd": "24620001197289",
-    "tikName": "Железногорская городская"
+    "tikName": "Железногорская городская",
+    "uikName": "УИК №330",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 331,
     "uikTvd": "4464006303245",
     "tikTvd": "24620001197289",
-    "tikName": "Железногорская городская"
+    "tikName": "Железногорская городская",
+    "uikName": "УИК №331",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 332,
     "uikTvd": "4464006303246",
     "tikTvd": "24620001197289",
-    "tikName": "Железногорская городская"
+    "tikName": "Железногорская городская",
+    "uikName": "УИК №332",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 333,
     "uikTvd": "4464006303247",
     "tikTvd": "24620001197289",
-    "tikName": "Железногорская городская"
+    "tikName": "Железногорская городская",
+    "uikName": "УИК №333",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 334,
     "uikTvd": "4464006303248",
     "tikTvd": "24620001197289",
-    "tikName": "Железногорская городская"
+    "tikName": "Железногорская городская",
+    "uikName": "УИК №334",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 335,
     "uikTvd": "4464006303249",
     "tikTvd": "24620001197289",
-    "tikName": "Железногорская городская"
+    "tikName": "Железногорская городская",
+    "uikName": "УИК №335",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 336,
     "uikTvd": "4464006303250",
     "tikTvd": "24620001197289",
-    "tikName": "Железногорская городская"
+    "tikName": "Железногорская городская",
+    "uikName": "УИК №336",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 337,
     "uikTvd": "4464006303251",
     "tikTvd": "24620001197289",
-    "tikName": "Железногорская городская"
+    "tikName": "Железногорская городская",
+    "uikName": "УИК №337",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 338,
     "uikTvd": "4464006303252",
     "tikTvd": "24620001197289",
-    "tikName": "Железногорская городская"
+    "tikName": "Железногорская городская",
+    "uikName": "УИК №338",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 339,
     "uikTvd": "4464006303253",
     "tikTvd": "24620001197289",
-    "tikName": "Железногорская городская"
+    "tikName": "Железногорская городская",
+    "uikName": "УИК №339",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 340,
     "uikTvd": "4464006303254",
     "tikTvd": "24620001197289",
-    "tikName": "Железногорская городская"
+    "tikName": "Железногорская городская",
+    "uikName": "УИК №340",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 341,
     "uikTvd": "4464006303255",
     "tikTvd": "24620001197289",
-    "tikName": "Железногорская городская"
+    "tikName": "Железногорская городская",
+    "uikName": "УИК №341",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 342,
     "uikTvd": "4464006303256",
     "tikTvd": "24620001197289",
-    "tikName": "Железногорская городская"
+    "tikName": "Железногорская городская",
+    "uikName": "УИК №342",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 343,
     "uikTvd": "4464006303257",
     "tikTvd": "24620001197289",
-    "tikName": "Железногорская городская"
+    "tikName": "Железногорская городская",
+    "uikName": "УИК №343",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 344,
     "uikTvd": "4464006303258",
     "tikTvd": "24620001197289",
-    "tikName": "Железногорская городская"
+    "tikName": "Железногорская городская",
+    "uikName": "УИК №344",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 345,
     "uikTvd": "4464006303259",
     "tikTvd": "24620001197289",
-    "tikName": "Железногорская городская"
+    "tikName": "Железногорская городская",
+    "uikName": "УИК №345",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 346,
     "uikTvd": "4464006303260",
     "tikTvd": "24620001197289",
-    "tikName": "Железногорская городская"
+    "tikName": "Железногорская городская",
+    "uikName": "УИК №346",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 347,
     "uikTvd": "4464006303261",
     "tikTvd": "24620001197289",
-    "tikName": "Железногорская городская"
+    "tikName": "Железногорская городская",
+    "uikName": "УИК №347",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 348,
     "uikTvd": "4464006303262",
     "tikTvd": "24620001197289",
-    "tikName": "Железногорская городская"
+    "tikName": "Железногорская городская",
+    "uikName": "УИК №348",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 349,
     "uikTvd": "4464006303263",
     "tikTvd": "24620001197289",
-    "tikName": "Железногорская городская"
+    "tikName": "Железногорская городская",
+    "uikName": "УИК №349",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 350,
     "uikTvd": "4464006303264",
     "tikTvd": "24620001197289",
-    "tikName": "Железногорская городская"
+    "tikName": "Железногорская городская",
+    "uikName": "УИК №350",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 351,
     "uikTvd": "4464006303265",
     "tikTvd": "24620001197289",
-    "tikName": "Железногорская городская"
+    "tikName": "Железногорская городская",
+    "uikName": "УИК №351",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 352,
     "uikTvd": "4464006303266",
     "tikTvd": "24620001197289",
-    "tikName": "Железногорская городская"
+    "tikName": "Железногорская городская",
+    "uikName": "УИК №352",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 353,
     "uikTvd": "4464006303267",
     "tikTvd": "24620001197289",
-    "tikName": "Железногорская городская"
+    "tikName": "Железногорская городская",
+    "uikName": "УИК №353",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 354,
     "uikTvd": "4464006303268",
     "tikTvd": "24620001197289",
-    "tikName": "Железногорская городская"
+    "tikName": "Железногорская городская",
+    "uikName": "УИК №354",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 355,
     "uikTvd": "4464006303269",
     "tikTvd": "24620001197289",
-    "tikName": "Железногорская городская"
+    "tikName": "Железногорская городская",
+    "uikName": "УИК №355",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 356,
     "uikTvd": "4464006303270",
     "tikTvd": "24620001197289",
-    "tikName": "Железногорская городская"
+    "tikName": "Железногорская городская",
+    "uikName": "УИК №356",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 357,
     "uikTvd": "4464006303271",
     "tikTvd": "24620001197289",
-    "tikName": "Железногорская городская"
+    "tikName": "Железногорская городская",
+    "uikName": "УИК №357",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 358,
     "uikTvd": "4464006303272",
     "tikTvd": "24620001197289",
-    "tikName": "Железногорская городская"
+    "tikName": "Железногорская городская",
+    "uikName": "УИК №358",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 359,
     "uikTvd": "4464006303273",
     "tikTvd": "24620001197289",
-    "tikName": "Железногорская городская"
+    "tikName": "Железногорская городская",
+    "uikName": "УИК №359",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 360,
     "uikTvd": "4464006303274",
     "tikTvd": "24620001197289",
-    "tikName": "Железногорская городская"
+    "tikName": "Железногорская городская",
+    "uikName": "УИК №360",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 361,
     "uikTvd": "4464006303275",
     "tikTvd": "24620001197289",
-    "tikName": "Железногорская городская"
+    "tikName": "Железногорская городская",
+    "uikName": "УИК №361",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 362,
     "uikTvd": "4464006303276",
     "tikTvd": "24620001197289",
-    "tikName": "Железногорская городская"
+    "tikName": "Железногорская городская",
+    "uikName": "УИК №362",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 363,
     "uikTvd": "4464006303277",
     "tikTvd": "24620001197289",
-    "tikName": "Железногорская городская"
+    "tikName": "Железногорская городская",
+    "uikName": "УИК №363",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 364,
     "uikTvd": "4464006303278",
     "tikTvd": "24620001197289",
-    "tikName": "Железногорская городская"
+    "tikName": "Железногорская городская",
+    "uikName": "УИК №364",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 365,
     "uikTvd": "4464006303279",
     "tikTvd": "24620001197289",
-    "tikName": "Железногорская городская"
+    "tikName": "Железногорская городская",
+    "uikName": "УИК №365",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 366,
     "uikTvd": "4464006303280",
     "tikTvd": "24620001197289",
-    "tikName": "Железногорская городская"
+    "tikName": "Железногорская городская",
+    "uikName": "УИК №366",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 367,
     "uikTvd": "4464006303281",
     "tikTvd": "24620001197289",
-    "tikName": "Железногорская городская"
+    "tikName": "Железногорская городская",
+    "uikName": "УИК №367",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 368,
     "uikTvd": "4464006303282",
     "tikTvd": "24620001197289",
-    "tikName": "Железногорская городская"
+    "tikName": "Железногорская городская",
+    "uikName": "УИК №368",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 369,
     "uikTvd": "4464006303283",
     "tikTvd": "24620001197289",
-    "tikName": "Железногорская городская"
+    "tikName": "Железногорская городская",
+    "uikName": "УИК №369",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 370,
     "uikTvd": "4464032242732",
     "tikTvd": "24620001197285",
-    "tikName": "Железногорская"
+    "tikName": "Железногорская",
+    "uikName": "УИК №370",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 371,
     "uikTvd": "4464032242733",
     "tikTvd": "24620001197285",
-    "tikName": "Железногорская"
+    "tikName": "Железногорская",
+    "uikName": "УИК №371",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 372,
     "uikTvd": "4464032242734",
     "tikTvd": "24620001197285",
-    "tikName": "Железногорская"
+    "tikName": "Железногорская",
+    "uikName": "УИК №372",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 373,
     "uikTvd": "4464032242735",
     "tikTvd": "24620001197285",
-    "tikName": "Железногорская"
+    "tikName": "Железногорская",
+    "uikName": "УИК №373",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 374,
     "uikTvd": "4464032242736",
     "tikTvd": "24620001197285",
-    "tikName": "Железногорская"
+    "tikName": "Железногорская",
+    "uikName": "УИК №374",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 375,
     "uikTvd": "4464032242737",
     "tikTvd": "24620001197285",
-    "tikName": "Железногорская"
+    "tikName": "Железногорская",
+    "uikName": "УИК №375",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 376,
     "uikTvd": "4464032242738",
     "tikTvd": "24620001197285",
-    "tikName": "Железногорская"
+    "tikName": "Железногорская",
+    "uikName": "УИК №376",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 377,
     "uikTvd": "4464032242739",
     "tikTvd": "24620001197285",
-    "tikName": "Железногорская"
+    "tikName": "Железногорская",
+    "uikName": "УИК №377",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 378,
     "uikTvd": "4464032242740",
     "tikTvd": "24620001197285",
-    "tikName": "Железногорская"
+    "tikName": "Железногорская",
+    "uikName": "УИК №378",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 379,
     "uikTvd": "4464032242741",
     "tikTvd": "24620001197285",
-    "tikName": "Железногорская"
+    "tikName": "Железногорская",
+    "uikName": "УИК №379",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 380,
     "uikTvd": "4464032242742",
     "tikTvd": "24620001197285",
-    "tikName": "Железногорская"
+    "tikName": "Железногорская",
+    "uikName": "УИК №380",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 381,
     "uikTvd": "4464032242743",
     "tikTvd": "24620001197285",
-    "tikName": "Железногорская"
+    "tikName": "Железногорская",
+    "uikName": "УИК №381",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 382,
     "uikTvd": "4464032242744",
     "tikTvd": "24620001197285",
-    "tikName": "Железногорская"
+    "tikName": "Железногорская",
+    "uikName": "УИК №382",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 383,
     "uikTvd": "4464032242745",
     "tikTvd": "24620001197285",
-    "tikName": "Железногорская"
+    "tikName": "Железногорская",
+    "uikName": "УИК №383",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 384,
     "uikTvd": "4464032242746",
     "tikTvd": "24620001197285",
-    "tikName": "Железногорская"
+    "tikName": "Железногорская",
+    "uikName": "УИК №384",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 385,
     "uikTvd": "4464032242747",
     "tikTvd": "24620001197285",
-    "tikName": "Железногорская"
+    "tikName": "Железногорская",
+    "uikName": "УИК №385",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 386,
     "uikTvd": "4464032242748",
     "tikTvd": "24620001197285",
-    "tikName": "Железногорская"
+    "tikName": "Железногорская",
+    "uikName": "УИК №386",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 387,
     "uikTvd": "4464032242749",
     "tikTvd": "24620001197285",
-    "tikName": "Железногорская"
+    "tikName": "Железногорская",
+    "uikName": "УИК №387",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 388,
     "uikTvd": "4464032242750",
     "tikTvd": "24620001197285",
-    "tikName": "Железногорская"
+    "tikName": "Железногорская",
+    "uikName": "УИК №388",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 389,
     "uikTvd": "4464032242751",
     "tikTvd": "24620001197285",
-    "tikName": "Железногорская"
+    "tikName": "Железногорская",
+    "uikName": "УИК №389",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 390,
     "uikTvd": "4464032242752",
     "tikTvd": "24620001197285",
-    "tikName": "Железногорская"
+    "tikName": "Железногорская",
+    "uikName": "УИК №390",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 391,
     "uikTvd": "4464032242753",
     "tikTvd": "24620001197285",
-    "tikName": "Железногорская"
+    "tikName": "Железногорская",
+    "uikName": "УИК №391",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 392,
     "uikTvd": "4464032242754",
     "tikTvd": "24620001197285",
-    "tikName": "Железногорская"
+    "tikName": "Железногорская",
+    "uikName": "УИК №392",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 393,
     "uikTvd": "4464032242755",
     "tikTvd": "24620001197285",
-    "tikName": "Железногорская"
+    "tikName": "Железногорская",
+    "uikName": "УИК №393",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 394,
     "uikTvd": "4464032242756",
     "tikTvd": "24620001197285",
-    "tikName": "Железногорская"
+    "tikName": "Железногорская",
+    "uikName": "УИК №394",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 395,
     "uikTvd": "4464032242757",
     "tikTvd": "24620001197285",
-    "tikName": "Железногорская"
+    "tikName": "Железногорская",
+    "uikName": "УИК №395",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 396,
     "uikTvd": "4464032242758",
     "tikTvd": "24620001197285",
-    "tikName": "Железногорская"
+    "tikName": "Железногорская",
+    "uikName": "УИК №396",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 397,
     "uikTvd": "4464007319803",
     "tikTvd": "24620001197288",
-    "tikName": "Золотухинская"
+    "tikName": "Золотухинская",
+    "uikName": "УИК №397",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 398,
     "uikTvd": "4464007319804",
     "tikTvd": "24620001197288",
-    "tikName": "Золотухинская"
+    "tikName": "Золотухинская",
+    "uikName": "УИК №398",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 399,
     "uikTvd": "4464007319805",
     "tikTvd": "24620001197288",
-    "tikName": "Золотухинская"
+    "tikName": "Золотухинская",
+    "uikName": "УИК №399",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 400,
     "uikTvd": "4464007319806",
     "tikTvd": "24620001197288",
-    "tikName": "Золотухинская"
+    "tikName": "Золотухинская",
+    "uikName": "УИК №400",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 401,
     "uikTvd": "4464007319807",
     "tikTvd": "24620001197288",
-    "tikName": "Золотухинская"
+    "tikName": "Золотухинская",
+    "uikName": "УИК №401",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 402,
     "uikTvd": "4464007319808",
     "tikTvd": "24620001197288",
-    "tikName": "Золотухинская"
+    "tikName": "Золотухинская",
+    "uikName": "УИК №402",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 403,
     "uikTvd": "4464007319809",
     "tikTvd": "24620001197288",
-    "tikName": "Золотухинская"
+    "tikName": "Золотухинская",
+    "uikName": "УИК №403",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 404,
     "uikTvd": "4464007319810",
     "tikTvd": "24620001197288",
-    "tikName": "Золотухинская"
+    "tikName": "Золотухинская",
+    "uikName": "УИК №404",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 405,
     "uikTvd": "4464007319811",
     "tikTvd": "24620001197288",
-    "tikName": "Золотухинская"
+    "tikName": "Золотухинская",
+    "uikName": "УИК №405",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 406,
     "uikTvd": "4464007319812",
     "tikTvd": "24620001197288",
-    "tikName": "Золотухинская"
+    "tikName": "Золотухинская",
+    "uikName": "УИК №406",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 407,
     "uikTvd": "4464007319813",
     "tikTvd": "24620001197288",
-    "tikName": "Золотухинская"
+    "tikName": "Золотухинская",
+    "uikName": "УИК №407",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 408,
     "uikTvd": "4464007319814",
     "tikTvd": "24620001197288",
-    "tikName": "Золотухинская"
+    "tikName": "Золотухинская",
+    "uikName": "УИК №408",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 409,
     "uikTvd": "4464007319815",
     "tikTvd": "24620001197288",
-    "tikName": "Золотухинская"
+    "tikName": "Золотухинская",
+    "uikName": "УИК №409",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 410,
     "uikTvd": "4464007319816",
     "tikTvd": "24620001197288",
-    "tikName": "Золотухинская"
+    "tikName": "Золотухинская",
+    "uikName": "УИК №410",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 411,
     "uikTvd": "4464007319817",
     "tikTvd": "24620001197288",
-    "tikName": "Золотухинская"
+    "tikName": "Золотухинская",
+    "uikName": "УИК №411",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 412,
     "uikTvd": "4464007319818",
     "tikTvd": "24620001197288",
-    "tikName": "Золотухинская"
+    "tikName": "Золотухинская",
+    "uikName": "УИК №412",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 413,
     "uikTvd": "4464007319819",
     "tikTvd": "24620001197288",
-    "tikName": "Золотухинская"
+    "tikName": "Золотухинская",
+    "uikName": "УИК №413",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 414,
     "uikTvd": "4464007319820",
     "tikTvd": "24620001197288",
-    "tikName": "Золотухинская"
+    "tikName": "Золотухинская",
+    "uikName": "УИК №414",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 415,
     "uikTvd": "4464007319821",
     "tikTvd": "24620001197288",
-    "tikName": "Золотухинская"
+    "tikName": "Золотухинская",
+    "uikName": "УИК №415",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 416,
     "uikTvd": "4464007319822",
     "tikTvd": "24620001197288",
-    "tikName": "Золотухинская"
+    "tikName": "Золотухинская",
+    "uikName": "УИК №416",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 417,
     "uikTvd": "4464007319823",
     "tikTvd": "24620001197288",
-    "tikName": "Золотухинская"
+    "tikName": "Золотухинская",
+    "uikName": "УИК №417",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 418,
     "uikTvd": "4464007319824",
     "tikTvd": "24620001197288",
-    "tikName": "Золотухинская"
+    "tikName": "Золотухинская",
+    "uikName": "УИК №418",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 419,
     "uikTvd": "4464007319825",
     "tikTvd": "24620001197288",
-    "tikName": "Золотухинская"
+    "tikName": "Золотухинская",
+    "uikName": "УИК №419",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 420,
     "uikTvd": "4464007319826",
     "tikTvd": "24620001197288",
-    "tikName": "Золотухинская"
+    "tikName": "Золотухинская",
+    "uikName": "УИК №420",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 421,
     "uikTvd": "4464007319827",
     "tikTvd": "24620001197288",
-    "tikName": "Золотухинская"
+    "tikName": "Золотухинская",
+    "uikName": "УИК №421",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 422,
     "uikTvd": "4464007319828",
     "tikTvd": "24620001197288",
-    "tikName": "Золотухинская"
+    "tikName": "Золотухинская",
+    "uikName": "УИК №422",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 423,
     "uikTvd": "4464007319829",
     "tikTvd": "24620001197288",
-    "tikName": "Золотухинская"
+    "tikName": "Золотухинская",
+    "uikName": "УИК №423",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 424,
     "uikTvd": "4464007319830",
     "tikTvd": "24620001197288",
-    "tikName": "Золотухинская"
+    "tikName": "Золотухинская",
+    "uikName": "УИК №424",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 425,
     "uikTvd": "4464007319831",
     "tikTvd": "24620001197288",
-    "tikName": "Золотухинская"
+    "tikName": "Золотухинская",
+    "uikName": "УИК №425",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 426,
     "uikTvd": "4464007319832",
     "tikTvd": "24620001197288",
-    "tikName": "Золотухинская"
+    "tikName": "Золотухинская",
+    "uikName": "УИК №426",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 427,
     "uikTvd": "4464007319833",
     "tikTvd": "24620001197288",
-    "tikName": "Золотухинская"
+    "tikName": "Золотухинская",
+    "uikName": "УИК №427",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 428,
     "uikTvd": "4464007319834",
     "tikTvd": "24620001197288",
-    "tikName": "Золотухинская"
+    "tikName": "Золотухинская",
+    "uikName": "УИК №428",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 429,
     "uikTvd": "4464007319835",
     "tikTvd": "24620001197288",
-    "tikName": "Золотухинская"
+    "tikName": "Золотухинская",
+    "uikName": "УИК №429",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 430,
     "uikTvd": "4464007319836",
     "tikTvd": "24620001197288",
-    "tikName": "Золотухинская"
+    "tikName": "Золотухинская",
+    "uikName": "УИК №430",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 431,
     "uikTvd": "4464007319837",
     "tikTvd": "24620001197288",
-    "tikName": "Золотухинская"
+    "tikName": "Золотухинская",
+    "uikName": "УИК №431",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 432,
     "uikTvd": "4464008290160",
     "tikTvd": "24620001197660",
-    "tikName": "Касторенская"
+    "tikName": "Касторенская",
+    "uikName": "УИК №432",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 433,
     "uikTvd": "4464008290161",
     "tikTvd": "24620001197660",
-    "tikName": "Касторенская"
+    "tikName": "Касторенская",
+    "uikName": "УИК №433",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 434,
     "uikTvd": "4464008290162",
     "tikTvd": "24620001197660",
-    "tikName": "Касторенская"
+    "tikName": "Касторенская",
+    "uikName": "УИК №434",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 435,
     "uikTvd": "4464008290163",
     "tikTvd": "24620001197660",
-    "tikName": "Касторенская"
+    "tikName": "Касторенская",
+    "uikName": "УИК №435",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 436,
     "uikTvd": "4464008290164",
     "tikTvd": "24620001197660",
-    "tikName": "Касторенская"
+    "tikName": "Касторенская",
+    "uikName": "УИК №436",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 437,
     "uikTvd": "4464008290165",
     "tikTvd": "24620001197660",
-    "tikName": "Касторенская"
+    "tikName": "Касторенская",
+    "uikName": "УИК №437",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 438,
     "uikTvd": "4464008290166",
     "tikTvd": "24620001197660",
-    "tikName": "Касторенская"
+    "tikName": "Касторенская",
+    "uikName": "УИК №438",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 439,
     "uikTvd": "4464008290167",
     "tikTvd": "24620001197660",
-    "tikName": "Касторенская"
+    "tikName": "Касторенская",
+    "uikName": "УИК №439",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 440,
     "uikTvd": "4464008290168",
     "tikTvd": "24620001197660",
-    "tikName": "Касторенская"
+    "tikName": "Касторенская",
+    "uikName": "УИК №440",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 441,
     "uikTvd": "4464008290169",
     "tikTvd": "24620001197660",
-    "tikName": "Касторенская"
+    "tikName": "Касторенская",
+    "uikName": "УИК №441",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 442,
     "uikTvd": "4464008290170",
     "tikTvd": "24620001197660",
-    "tikName": "Касторенская"
+    "tikName": "Касторенская",
+    "uikName": "УИК №442",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 443,
     "uikTvd": "4464008290171",
     "tikTvd": "24620001197660",
-    "tikName": "Касторенская"
+    "tikName": "Касторенская",
+    "uikName": "УИК №443",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 444,
     "uikTvd": "4464008290172",
     "tikTvd": "24620001197660",
-    "tikName": "Касторенская"
+    "tikName": "Касторенская",
+    "uikName": "УИК №444",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 445,
     "uikTvd": "4464008290173",
     "tikTvd": "24620001197660",
-    "tikName": "Касторенская"
+    "tikName": "Касторенская",
+    "uikName": "УИК №445",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 446,
     "uikTvd": "4464008290174",
     "tikTvd": "24620001197660",
-    "tikName": "Касторенская"
+    "tikName": "Касторенская",
+    "uikName": "УИК №446",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 447,
     "uikTvd": "4464008290175",
     "tikTvd": "24620001197660",
-    "tikName": "Касторенская"
+    "tikName": "Касторенская",
+    "uikName": "УИК №447",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 448,
     "uikTvd": "4464008290176",
     "tikTvd": "24620001197660",
-    "tikName": "Касторенская"
+    "tikName": "Касторенская",
+    "uikName": "УИК №448",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 449,
     "uikTvd": "4464008290177",
     "tikTvd": "24620001197660",
-    "tikName": "Касторенская"
+    "tikName": "Касторенская",
+    "uikName": "УИК №449",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 450,
     "uikTvd": "4464008290178",
     "tikTvd": "24620001197660",
-    "tikName": "Касторенская"
+    "tikName": "Касторенская",
+    "uikName": "УИК №450",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 451,
     "uikTvd": "4464008290179",
     "tikTvd": "24620001197660",
-    "tikName": "Касторенская"
+    "tikName": "Касторенская",
+    "uikName": "УИК №451",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 452,
     "uikTvd": "4464008290180",
     "tikTvd": "24620001197660",
-    "tikName": "Касторенская"
+    "tikName": "Касторенская",
+    "uikName": "УИК №452",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 453,
     "uikTvd": "4464008290181",
     "tikTvd": "24620001197660",
-    "tikName": "Касторенская"
+    "tikName": "Касторенская",
+    "uikName": "УИК №453",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 454,
     "uikTvd": "4464008290182",
     "tikTvd": "24620001197660",
-    "tikName": "Касторенская"
+    "tikName": "Касторенская",
+    "uikName": "УИК №454",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 455,
     "uikTvd": "4464008290183",
     "tikTvd": "24620001197660",
-    "tikName": "Касторенская"
+    "tikName": "Касторенская",
+    "uikName": "УИК №455",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 456,
     "uikTvd": "4464008290184",
     "tikTvd": "24620001197660",
-    "tikName": "Касторенская"
+    "tikName": "Касторенская",
+    "uikName": "УИК №456",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 457,
     "uikTvd": "4464008290185",
     "tikTvd": "24620001197660",
-    "tikName": "Касторенская"
+    "tikName": "Касторенская",
+    "uikName": "УИК №457",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 458,
     "uikTvd": "4464008290186",
     "tikTvd": "24620001197660",
-    "tikName": "Касторенская"
+    "tikName": "Касторенская",
+    "uikName": "УИК №458",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 459,
     "uikTvd": "4464008290187",
     "tikTvd": "24620001197660",
-    "tikName": "Касторенская"
+    "tikName": "Касторенская",
+    "uikName": "УИК №459",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 460,
     "uikTvd": "4464008290188",
     "tikTvd": "24620001197660",
-    "tikName": "Касторенская"
+    "tikName": "Касторенская",
+    "uikName": "УИК №460",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 461,
     "uikTvd": "4464008290189",
     "tikTvd": "24620001197660",
-    "tikName": "Касторенская"
+    "tikName": "Касторенская",
+    "uikName": "УИК №461",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 462,
     "uikTvd": "4464008290190",
     "tikTvd": "24620001197660",
-    "tikName": "Касторенская"
+    "tikName": "Касторенская",
+    "uikName": "УИК №462",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 463,
     "uikTvd": "4464009360336",
     "tikTvd": "24620001197287",
-    "tikName": "Конышевская"
+    "tikName": "Конышевская",
+    "uikName": "УИК №463",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 464,
     "uikTvd": "4464009360337",
     "tikTvd": "24620001197287",
-    "tikName": "Конышевская"
+    "tikName": "Конышевская",
+    "uikName": "УИК №464",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 465,
     "uikTvd": "4464009360338",
     "tikTvd": "24620001197287",
-    "tikName": "Конышевская"
+    "tikName": "Конышевская",
+    "uikName": "УИК №465",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 466,
     "uikTvd": "4464009360339",
     "tikTvd": "24620001197287",
-    "tikName": "Конышевская"
+    "tikName": "Конышевская",
+    "uikName": "УИК №466",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 467,
     "uikTvd": "4464009360340",
     "tikTvd": "24620001197287",
-    "tikName": "Конышевская"
+    "tikName": "Конышевская",
+    "uikName": "УИК №467",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 468,
     "uikTvd": "4464009360341",
     "tikTvd": "24620001197287",
-    "tikName": "Конышевская"
+    "tikName": "Конышевская",
+    "uikName": "УИК №468",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 469,
     "uikTvd": "4464009360342",
     "tikTvd": "24620001197287",
-    "tikName": "Конышевская"
+    "tikName": "Конышевская",
+    "uikName": "УИК №469",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 470,
     "uikTvd": "4464009360343",
     "tikTvd": "24620001197287",
-    "tikName": "Конышевская"
+    "tikName": "Конышевская",
+    "uikName": "УИК №470",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 471,
     "uikTvd": "4464009360344",
     "tikTvd": "24620001197287",
-    "tikName": "Конышевская"
+    "tikName": "Конышевская",
+    "uikName": "УИК №471",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 472,
     "uikTvd": "4464009360345",
     "tikTvd": "24620001197287",
-    "tikName": "Конышевская"
+    "tikName": "Конышевская",
+    "uikName": "УИК №472",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 473,
     "uikTvd": "4464009360346",
     "tikTvd": "24620001197287",
-    "tikName": "Конышевская"
+    "tikName": "Конышевская",
+    "uikName": "УИК №473",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 474,
     "uikTvd": "4464009360347",
     "tikTvd": "24620001197287",
-    "tikName": "Конышевская"
+    "tikName": "Конышевская",
+    "uikName": "УИК №474",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 475,
     "uikTvd": "4464009360348",
     "tikTvd": "24620001197287",
-    "tikName": "Конышевская"
+    "tikName": "Конышевская",
+    "uikName": "УИК №475",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 476,
     "uikTvd": "4464009360349",
     "tikTvd": "24620001197287",
-    "tikName": "Конышевская"
+    "tikName": "Конышевская",
+    "uikName": "УИК №476",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 477,
     "uikTvd": "4464009360350",
     "tikTvd": "24620001197287",
-    "tikName": "Конышевская"
+    "tikName": "Конышевская",
+    "uikName": "УИК №477",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 478,
     "uikTvd": "4464009360351",
     "tikTvd": "24620001197287",
-    "tikName": "Конышевская"
+    "tikName": "Конышевская",
+    "uikName": "УИК №478",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 479,
     "uikTvd": "4464009360352",
     "tikTvd": "24620001197287",
-    "tikName": "Конышевская"
+    "tikName": "Конышевская",
+    "uikName": "УИК №479",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 480,
     "uikTvd": "4464009360353",
     "tikTvd": "24620001197287",
-    "tikName": "Конышевская"
+    "tikName": "Конышевская",
+    "uikName": "УИК №480",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 481,
     "uikTvd": "4464009360354",
     "tikTvd": "24620001197287",
-    "tikName": "Конышевская"
+    "tikName": "Конышевская",
+    "uikName": "УИК №481",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 482,
     "uikTvd": "4464009360355",
     "tikTvd": "24620001197287",
-    "tikName": "Конышевская"
+    "tikName": "Конышевская",
+    "uikName": "УИК №482",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 483,
     "uikTvd": "4464009360356",
     "tikTvd": "24620001197287",
-    "tikName": "Конышевская"
+    "tikName": "Конышевская",
+    "uikName": "УИК №483",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 484,
     "uikTvd": "4464010311528",
     "tikTvd": "24620001197659",
-    "tikName": "Кореневская"
+    "tikName": "Кореневская",
+    "uikName": "УИК №484",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 485,
     "uikTvd": "4464010311529",
     "tikTvd": "24620001197659",
-    "tikName": "Кореневская"
+    "tikName": "Кореневская",
+    "uikName": "УИК №485",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 486,
     "uikTvd": "4464010311530",
     "tikTvd": "24620001197659",
-    "tikName": "Кореневская"
+    "tikName": "Кореневская",
+    "uikName": "УИК №486",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 487,
     "uikTvd": "4464010311531",
     "tikTvd": "24620001197659",
-    "tikName": "Кореневская"
+    "tikName": "Кореневская",
+    "uikName": "УИК №487",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 488,
     "uikTvd": "4464010311532",
     "tikTvd": "24620001197659",
-    "tikName": "Кореневская"
+    "tikName": "Кореневская",
+    "uikName": "УИК №488",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 489,
     "uikTvd": "4464010311533",
     "tikTvd": "24620001197659",
-    "tikName": "Кореневская"
+    "tikName": "Кореневская",
+    "uikName": "УИК №489",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 490,
     "uikTvd": "4464010311534",
     "tikTvd": "24620001197659",
-    "tikName": "Кореневская"
+    "tikName": "Кореневская",
+    "uikName": "УИК №490",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 491,
     "uikTvd": "4464010311535",
     "tikTvd": "24620001197659",
-    "tikName": "Кореневская"
+    "tikName": "Кореневская",
+    "uikName": "УИК №491",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 492,
     "uikTvd": "4464010311536",
     "tikTvd": "24620001197659",
-    "tikName": "Кореневская"
+    "tikName": "Кореневская",
+    "uikName": "УИК №492",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 493,
     "uikTvd": "4464010311537",
     "tikTvd": "24620001197659",
-    "tikName": "Кореневская"
+    "tikName": "Кореневская",
+    "uikName": "УИК №493",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 494,
     "uikTvd": "4464010311538",
     "tikTvd": "24620001197659",
-    "tikName": "Кореневская"
+    "tikName": "Кореневская",
+    "uikName": "УИК №494",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 495,
     "uikTvd": "4464010311539",
     "tikTvd": "24620001197659",
-    "tikName": "Кореневская"
+    "tikName": "Кореневская",
+    "uikName": "УИК №495",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 496,
     "uikTvd": "4464010311540",
     "tikTvd": "24620001197659",
-    "tikName": "Кореневская"
+    "tikName": "Кореневская",
+    "uikName": "УИК №496",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 497,
     "uikTvd": "4464010311541",
     "tikTvd": "24620001197659",
-    "tikName": "Кореневская"
+    "tikName": "Кореневская",
+    "uikName": "УИК №497",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 498,
     "uikTvd": "4464010311542",
     "tikTvd": "24620001197659",
-    "tikName": "Кореневская"
+    "tikName": "Кореневская",
+    "uikName": "УИК №498",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 499,
     "uikTvd": "4464010311543",
     "tikTvd": "24620001197659",
-    "tikName": "Кореневская"
+    "tikName": "Кореневская",
+    "uikName": "УИК №499",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 500,
     "uikTvd": "4464010311544",
     "tikTvd": "24620001197659",
-    "tikName": "Кореневская"
+    "tikName": "Кореневская",
+    "uikName": "УИК №500",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 501,
     "uikTvd": "4464010311545",
     "tikTvd": "24620001197659",
-    "tikName": "Кореневская"
+    "tikName": "Кореневская",
+    "uikName": "УИК №501",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 502,
     "uikTvd": "4464010311546",
     "tikTvd": "24620001197659",
-    "tikName": "Кореневская"
+    "tikName": "Кореневская",
+    "uikName": "УИК №502",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 503,
     "uikTvd": "4464010311547",
     "tikTvd": "24620001197659",
-    "tikName": "Кореневская"
+    "tikName": "Кореневская",
+    "uikName": "УИК №503",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 504,
     "uikTvd": "4464010311548",
     "tikTvd": "24620001197659",
-    "tikName": "Кореневская"
+    "tikName": "Кореневская",
+    "uikName": "УИК №504",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 505,
     "uikTvd": "4464010311549",
     "tikTvd": "24620001197659",
-    "tikName": "Кореневская"
+    "tikName": "Кореневская",
+    "uikName": "УИК №505",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 506,
     "uikTvd": "4464010311550",
     "tikTvd": "24620001197659",
-    "tikName": "Кореневская"
+    "tikName": "Кореневская",
+    "uikName": "УИК №506",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 507,
     "uikTvd": "4464010311551",
     "tikTvd": "24620001197659",
-    "tikName": "Кореневская"
+    "tikName": "Кореневская",
+    "uikName": "УИК №507",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 508,
     "uikTvd": "4464010311552",
     "tikTvd": "24620001197659",
-    "tikName": "Кореневская"
+    "tikName": "Кореневская",
+    "uikName": "УИК №508",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 509,
     "uikTvd": "4464010311553",
     "tikTvd": "24620001197659",
-    "tikName": "Кореневская"
+    "tikName": "Кореневская",
+    "uikName": "УИК №509",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 510,
     "uikTvd": "4464014366993",
     "tikTvd": "24620001197309",
-    "tikName": "Курская - 110"
+    "tikName": "Курская - 110",
+    "uikName": "УИК №510",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 511,
     "uikTvd": "4464014366994",
     "tikTvd": "24620001197309",
-    "tikName": "Курская - 110"
+    "tikName": "Курская - 110",
+    "uikName": "УИК №511",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 512,
     "uikTvd": "4464014366995",
     "tikTvd": "24620001197309",
-    "tikName": "Курская - 110"
+    "tikName": "Курская - 110",
+    "uikName": "УИК №512",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 513,
     "uikTvd": "4464014366996",
     "tikTvd": "24620001197309",
-    "tikName": "Курская - 110"
+    "tikName": "Курская - 110",
+    "uikName": "УИК №513",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 514,
     "uikTvd": "4464014366997",
     "tikTvd": "24620001197309",
-    "tikName": "Курская - 110"
+    "tikName": "Курская - 110",
+    "uikName": "УИК №514",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 515,
     "uikTvd": "4464014366998",
     "tikTvd": "24620001197309",
-    "tikName": "Курская - 110"
+    "tikName": "Курская - 110",
+    "uikName": "УИК №515",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 516,
     "uikTvd": "4464014367033",
     "tikTvd": "24620001197297",
-    "tikName": "Курская -109"
+    "tikName": "Курская -109",
+    "uikName": "УИК №516",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 517,
     "uikTvd": "4464014367034",
     "tikTvd": "24620001197297",
-    "tikName": "Курская -109"
+    "tikName": "Курская -109",
+    "uikName": "УИК №517",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 518,
     "uikTvd": "4464014367035",
     "tikTvd": "24620001197297",
-    "tikName": "Курская -109"
+    "tikName": "Курская -109",
+    "uikName": "УИК №518",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 519,
     "uikTvd": "4464014367038",
     "tikTvd": "24620001197297",
-    "tikName": "Курская -109"
+    "tikName": "Курская -109",
+    "uikName": "УИК №519",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 520,
     "uikTvd": "4464014367039",
     "tikTvd": "24620001197297",
-    "tikName": "Курская -109"
+    "tikName": "Курская -109",
+    "uikName": "УИК №520",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 521,
     "uikTvd": "4464014367040",
     "tikTvd": "24620001197297",
-    "tikName": "Курская -109"
+    "tikName": "Курская -109",
+    "uikName": "УИК №521",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 522,
     "uikTvd": "4464014367000",
     "tikTvd": "24620001197309",
-    "tikName": "Курская - 110"
+    "tikName": "Курская - 110",
+    "uikName": "УИК №522",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 523,
     "uikTvd": "4464014367001",
     "tikTvd": "24620001197309",
-    "tikName": "Курская - 110"
+    "tikName": "Курская - 110",
+    "uikName": "УИК №523",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 524,
     "uikTvd": "4464014367002",
     "tikTvd": "24620001197309",
-    "tikName": "Курская - 110"
+    "tikName": "Курская - 110",
+    "uikName": "УИК №524",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 525,
     "uikTvd": "4464014367041",
     "tikTvd": "24620001197297",
-    "tikName": "Курская -109"
+    "tikName": "Курская -109",
+    "uikName": "УИК №525",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 526,
     "uikTvd": "4464014367042",
     "tikTvd": "24620001197297",
-    "tikName": "Курская -109"
+    "tikName": "Курская -109",
+    "uikName": "УИК №526",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 527,
     "uikTvd": "4464014367043",
     "tikTvd": "24620001197297",
-    "tikName": "Курская -109"
+    "tikName": "Курская -109",
+    "uikName": "УИК №527",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 528,
     "uikTvd": "4464014367004",
     "tikTvd": "24620001197309",
-    "tikName": "Курская - 110"
+    "tikName": "Курская - 110",
+    "uikName": "УИК №528",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 529,
     "uikTvd": "4464014367005",
     "tikTvd": "24620001197309",
-    "tikName": "Курская - 110"
+    "tikName": "Курская - 110",
+    "uikName": "УИК №529",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 530,
     "uikTvd": "4464014367006",
     "tikTvd": "24620001197309",
-    "tikName": "Курская - 110"
+    "tikName": "Курская - 110",
+    "uikName": "УИК №530",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 531,
     "uikTvd": "4464014367007",
     "tikTvd": "24620001197309",
-    "tikName": "Курская - 110"
+    "tikName": "Курская - 110",
+    "uikName": "УИК №531",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 532,
     "uikTvd": "4464014367008",
     "tikTvd": "24620001197309",
-    "tikName": "Курская - 110"
+    "tikName": "Курская - 110",
+    "uikName": "УИК №532",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 533,
     "uikTvd": "4464014367009",
     "tikTvd": "24620001197309",
-    "tikName": "Курская - 110"
+    "tikName": "Курская - 110",
+    "uikName": "УИК №533",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 534,
     "uikTvd": "4464014367010",
     "tikTvd": "24620001197309",
-    "tikName": "Курская - 110"
+    "tikName": "Курская - 110",
+    "uikName": "УИК №534",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 535,
     "uikTvd": "4464014367011",
     "tikTvd": "24620001197309",
-    "tikName": "Курская - 110"
+    "tikName": "Курская - 110",
+    "uikName": "УИК №535",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 536,
     "uikTvd": "4464014367012",
     "tikTvd": "24620001197309",
-    "tikName": "Курская - 110"
+    "tikName": "Курская - 110",
+    "uikName": "УИК №536",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 537,
     "uikTvd": "4464014367013",
     "tikTvd": "24620001197309",
-    "tikName": "Курская - 110"
+    "tikName": "Курская - 110",
+    "uikName": "УИК №537",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 538,
     "uikTvd": "4464014367014",
     "tikTvd": "24620001197309",
-    "tikName": "Курская - 110"
+    "tikName": "Курская - 110",
+    "uikName": "УИК №538",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 539,
     "uikTvd": "4464014367044",
     "tikTvd": "24620001197297",
-    "tikName": "Курская -109"
+    "tikName": "Курская -109",
+    "uikName": "УИК №539",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 540,
     "uikTvd": "4464014367045",
     "tikTvd": "24620001197297",
-    "tikName": "Курская -109"
+    "tikName": "Курская -109",
+    "uikName": "УИК №540",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 541,
     "uikTvd": "4464014367046",
     "tikTvd": "24620001197297",
-    "tikName": "Курская -109"
+    "tikName": "Курская -109",
+    "uikName": "УИК №541",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 542,
     "uikTvd": "4464014367047",
     "tikTvd": "24620001197297",
-    "tikName": "Курская -109"
+    "tikName": "Курская -109",
+    "uikName": "УИК №542",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 543,
     "uikTvd": "4464014367048",
     "tikTvd": "24620001197297",
-    "tikName": "Курская -109"
+    "tikName": "Курская -109",
+    "uikName": "УИК №543",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 544,
     "uikTvd": "4464014367049",
     "tikTvd": "24620001197297",
-    "tikName": "Курская -109"
+    "tikName": "Курская -109",
+    "uikName": "УИК №544",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 545,
     "uikTvd": "4464014367050",
     "tikTvd": "24620001197297",
-    "tikName": "Курская -109"
+    "tikName": "Курская -109",
+    "uikName": "УИК №545",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 546,
     "uikTvd": "4464014367051",
     "tikTvd": "24620001197297",
-    "tikName": "Курская -109"
+    "tikName": "Курская -109",
+    "uikName": "УИК №546",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 547,
     "uikTvd": "4464014367016",
     "tikTvd": "24620001197309",
-    "tikName": "Курская - 110"
+    "tikName": "Курская - 110",
+    "uikName": "УИК №547",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 548,
     "uikTvd": "4464014367017",
     "tikTvd": "24620001197309",
-    "tikName": "Курская - 110"
+    "tikName": "Курская - 110",
+    "uikName": "УИК №548",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 549,
     "uikTvd": "4464014367052",
     "tikTvd": "24620001197297",
-    "tikName": "Курская -109"
+    "tikName": "Курская -109",
+    "uikName": "УИК №549",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 550,
     "uikTvd": "4464014367053",
     "tikTvd": "24620001197297",
-    "tikName": "Курская -109"
+    "tikName": "Курская -109",
+    "uikName": "УИК №550",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 551,
     "uikTvd": "4464014367054",
     "tikTvd": "24620001197297",
-    "tikName": "Курская -109"
+    "tikName": "Курская -109",
+    "uikName": "УИК №551",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 552,
     "uikTvd": "4464014367018",
     "tikTvd": "24620001197309",
-    "tikName": "Курская - 110"
+    "tikName": "Курская - 110",
+    "uikName": "УИК №552",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 553,
     "uikTvd": "4464014367019",
     "tikTvd": "24620001197309",
-    "tikName": "Курская - 110"
+    "tikName": "Курская - 110",
+    "uikName": "УИК №553",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 554,
     "uikTvd": "4464014367020",
     "tikTvd": "24620001197309",
-    "tikName": "Курская - 110"
+    "tikName": "Курская - 110",
+    "uikName": "УИК №554",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 555,
     "uikTvd": "4464014367021",
     "tikTvd": "24620001197309",
-    "tikName": "Курская - 110"
+    "tikName": "Курская - 110",
+    "uikName": "УИК №555",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 556,
     "uikTvd": "4464014367022",
     "tikTvd": "24620001197309",
-    "tikName": "Курская - 110"
+    "tikName": "Курская - 110",
+    "uikName": "УИК №556",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 557,
     "uikTvd": "4464014367023",
     "tikTvd": "24620001197309",
-    "tikName": "Курская - 110"
+    "tikName": "Курская - 110",
+    "uikName": "УИК №557",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 558,
     "uikTvd": "4464014367055",
     "tikTvd": "24620001197297",
-    "tikName": "Курская -109"
+    "tikName": "Курская -109",
+    "uikName": "УИК №558",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 559,
     "uikTvd": "4464014367056",
     "tikTvd": "24620001197297",
-    "tikName": "Курская -109"
+    "tikName": "Курская -109",
+    "uikName": "УИК №559",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 560,
     "uikTvd": "4464014367057",
     "tikTvd": "24620001197297",
-    "tikName": "Курская -109"
+    "tikName": "Курская -109",
+    "uikName": "УИК №560",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 561,
     "uikTvd": "4464014367024",
     "tikTvd": "24620001197309",
-    "tikName": "Курская - 110"
+    "tikName": "Курская - 110",
+    "uikName": "УИК №561",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 562,
     "uikTvd": "4464014367025",
     "tikTvd": "24620001197309",
-    "tikName": "Курская - 110"
+    "tikName": "Курская - 110",
+    "uikName": "УИК №562",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 563,
     "uikTvd": "4464014367026",
     "tikTvd": "24620001197309",
-    "tikName": "Курская - 110"
+    "tikName": "Курская - 110",
+    "uikName": "УИК №563",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 564,
     "uikTvd": "4464014367027",
     "tikTvd": "24620001197309",
-    "tikName": "Курская - 110"
+    "tikName": "Курская - 110",
+    "uikName": "УИК №564",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 565,
     "uikTvd": "4464014367058",
     "tikTvd": "24620001197297",
-    "tikName": "Курская -109"
+    "tikName": "Курская -109",
+    "uikName": "УИК №565",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 566,
     "uikTvd": "4464014367059",
     "tikTvd": "24620001197297",
-    "tikName": "Курская -109"
+    "tikName": "Курская -109",
+    "uikName": "УИК №566",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 567,
     "uikTvd": "4464014367060",
     "tikTvd": "24620001197297",
-    "tikName": "Курская -109"
+    "tikName": "Курская -109",
+    "uikName": "УИК №567",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 568,
     "uikTvd": "4464014367061",
     "tikTvd": "24620001197297",
-    "tikName": "Курская -109"
+    "tikName": "Курская -109",
+    "uikName": "УИК №568",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 569,
     "uikTvd": "4464014367062",
     "tikTvd": "24620001197297",
-    "tikName": "Курская -109"
+    "tikName": "Курская -109",
+    "uikName": "УИК №569",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 570,
     "uikTvd": "4464033372477",
     "tikTvd": "24620001197284",
-    "tikName": "Курчатовская городская"
+    "tikName": "Курчатовская городская",
+    "uikName": "УИК №570",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 571,
     "uikTvd": "4464033372457",
     "tikTvd": "24620001197284",
-    "tikName": "Курчатовская городская"
+    "tikName": "Курчатовская городская",
+    "uikName": "УИК №571",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 572,
     "uikTvd": "4464033372458",
     "tikTvd": "24620001197284",
-    "tikName": "Курчатовская городская"
+    "tikName": "Курчатовская городская",
+    "uikName": "УИК №572",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 573,
     "uikTvd": "4464033372459",
     "tikTvd": "24620001197284",
-    "tikName": "Курчатовская городская"
+    "tikName": "Курчатовская городская",
+    "uikName": "УИК №573",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 574,
     "uikTvd": "4464033372460",
     "tikTvd": "24620001197284",
-    "tikName": "Курчатовская городская"
+    "tikName": "Курчатовская городская",
+    "uikName": "УИК №574",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 575,
     "uikTvd": "4464033372461",
     "tikTvd": "24620001197284",
-    "tikName": "Курчатовская городская"
+    "tikName": "Курчатовская городская",
+    "uikName": "УИК №575",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 576,
     "uikTvd": "4464033372462",
     "tikTvd": "24620001197284",
-    "tikName": "Курчатовская городская"
+    "tikName": "Курчатовская городская",
+    "uikName": "УИК №576",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 577,
     "uikTvd": "4464033372463",
     "tikTvd": "24620001197284",
-    "tikName": "Курчатовская городская"
+    "tikName": "Курчатовская городская",
+    "uikName": "УИК №577",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 578,
     "uikTvd": "4464033372464",
     "tikTvd": "24620001197284",
-    "tikName": "Курчатовская городская"
+    "tikName": "Курчатовская городская",
+    "uikName": "УИК №578",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 579,
     "uikTvd": "4464033372465",
     "tikTvd": "24620001197284",
-    "tikName": "Курчатовская городская"
+    "tikName": "Курчатовская городская",
+    "uikName": "УИК №579",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 580,
     "uikTvd": "4464033372466",
     "tikTvd": "24620001197284",
-    "tikName": "Курчатовская городская"
+    "tikName": "Курчатовская городская",
+    "uikName": "УИК №580",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 581,
     "uikTvd": "4464033372467",
     "tikTvd": "24620001197284",
-    "tikName": "Курчатовская городская"
+    "tikName": "Курчатовская городская",
+    "uikName": "УИК №581",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 582,
     "uikTvd": "4464033372468",
     "tikTvd": "24620001197284",
-    "tikName": "Курчатовская городская"
+    "tikName": "Курчатовская городская",
+    "uikName": "УИК №582",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 583,
     "uikTvd": "4464033372469",
     "tikTvd": "24620001197284",
-    "tikName": "Курчатовская городская"
+    "tikName": "Курчатовская городская",
+    "uikName": "УИК №583",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 584,
     "uikTvd": "4464033372470",
     "tikTvd": "24620001197284",
-    "tikName": "Курчатовская городская"
+    "tikName": "Курчатовская городская",
+    "uikName": "УИК №584",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 585,
     "uikTvd": "4464033372471",
     "tikTvd": "24620001197284",
-    "tikName": "Курчатовская городская"
+    "tikName": "Курчатовская городская",
+    "uikName": "УИК №585",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 586,
     "uikTvd": "4464033372472",
     "tikTvd": "24620001197284",
-    "tikName": "Курчатовская городская"
+    "tikName": "Курчатовская городская",
+    "uikName": "УИК №586",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 587,
     "uikTvd": "4464033372473",
     "tikTvd": "24620001197284",
-    "tikName": "Курчатовская городская"
+    "tikName": "Курчатовская городская",
+    "uikName": "УИК №587",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 588,
     "uikTvd": "4464033372474",
     "tikTvd": "24620001197284",
-    "tikName": "Курчатовская городская"
+    "tikName": "Курчатовская городская",
+    "uikName": "УИК №588",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 589,
     "uikTvd": "4464033372475",
     "tikTvd": "24620001197284",
-    "tikName": "Курчатовская городская"
+    "tikName": "Курчатовская городская",
+    "uikName": "УИК №589",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 590,
     "uikTvd": "4464015288630",
     "tikTvd": "24620001197296",
-    "tikName": "Курчатовская"
+    "tikName": "Курчатовская",
+    "uikName": "УИК №590",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 591,
     "uikTvd": "4464015288631",
     "tikTvd": "24620001197296",
-    "tikName": "Курчатовская"
+    "tikName": "Курчатовская",
+    "uikName": "УИК №591",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 592,
     "uikTvd": "4464015288632",
     "tikTvd": "24620001197296",
-    "tikName": "Курчатовская"
+    "tikName": "Курчатовская",
+    "uikName": "УИК №592",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 593,
     "uikTvd": "4464015288633",
     "tikTvd": "24620001197296",
-    "tikName": "Курчатовская"
+    "tikName": "Курчатовская",
+    "uikName": "УИК №593",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 594,
     "uikTvd": "4464015288634",
     "tikTvd": "24620001197296",
-    "tikName": "Курчатовская"
+    "tikName": "Курчатовская",
+    "uikName": "УИК №594",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 595,
     "uikTvd": "4464015288635",
     "tikTvd": "24620001197296",
-    "tikName": "Курчатовская"
+    "tikName": "Курчатовская",
+    "uikName": "УИК №595",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 596,
     "uikTvd": "4464015288636",
     "tikTvd": "24620001197296",
-    "tikName": "Курчатовская"
+    "tikName": "Курчатовская",
+    "uikName": "УИК №596",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 597,
     "uikTvd": "4464015288637",
     "tikTvd": "24620001197296",
-    "tikName": "Курчатовская"
+    "tikName": "Курчатовская",
+    "uikName": "УИК №597",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 598,
     "uikTvd": "4464015288638",
     "tikTvd": "24620001197296",
-    "tikName": "Курчатовская"
+    "tikName": "Курчатовская",
+    "uikName": "УИК №598",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 599,
     "uikTvd": "4464015288639",
     "tikTvd": "24620001197296",
-    "tikName": "Курчатовская"
+    "tikName": "Курчатовская",
+    "uikName": "УИК №599",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 600,
     "uikTvd": "4464015288640",
     "tikTvd": "24620001197296",
-    "tikName": "Курчатовская"
+    "tikName": "Курчатовская",
+    "uikName": "УИК №600",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 601,
     "uikTvd": "4464015288641",
     "tikTvd": "24620001197296",
-    "tikName": "Курчатовская"
+    "tikName": "Курчатовская",
+    "uikName": "УИК №601",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 602,
     "uikTvd": "4464015288642",
     "tikTvd": "24620001197296",
-    "tikName": "Курчатовская"
+    "tikName": "Курчатовская",
+    "uikName": "УИК №602",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 603,
     "uikTvd": "4464015288643",
     "tikTvd": "24620001197296",
-    "tikName": "Курчатовская"
+    "tikName": "Курчатовская",
+    "uikName": "УИК №603",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 604,
     "uikTvd": "4464015288644",
     "tikTvd": "24620001197296",
-    "tikName": "Курчатовская"
+    "tikName": "Курчатовская",
+    "uikName": "УИК №604",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 605,
     "uikTvd": "4464015288645",
     "tikTvd": "24620001197296",
-    "tikName": "Курчатовская"
+    "tikName": "Курчатовская",
+    "uikName": "УИК №605",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 606,
     "uikTvd": "4464015288646",
     "tikTvd": "24620001197296",
-    "tikName": "Курчатовская"
+    "tikName": "Курчатовская",
+    "uikName": "УИК №606",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 607,
     "uikTvd": "4464015288647",
     "tikTvd": "24620001197296",
-    "tikName": "Курчатовская"
+    "tikName": "Курчатовская",
+    "uikName": "УИК №607",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 608,
     "uikTvd": "4464015288648",
     "tikTvd": "24620001197296",
-    "tikName": "Курчатовская"
+    "tikName": "Курчатовская",
+    "uikName": "УИК №608",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 609,
     "uikTvd": "4464015288649",
     "tikTvd": "24620001197296",
-    "tikName": "Курчатовская"
+    "tikName": "Курчатовская",
+    "uikName": "УИК №609",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 610,
     "uikTvd": "4464015288650",
     "tikTvd": "24620001197296",
-    "tikName": "Курчатовская"
+    "tikName": "Курчатовская",
+    "uikName": "УИК №610",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 611,
     "uikTvd": "4464015288651",
     "tikTvd": "24620001197296",
-    "tikName": "Курчатовская"
+    "tikName": "Курчатовская",
+    "uikName": "УИК №611",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 612,
     "uikTvd": "4464015288652",
     "tikTvd": "24620001197296",
-    "tikName": "Курчатовская"
+    "tikName": "Курчатовская",
+    "uikName": "УИК №612",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 613,
     "uikTvd": "4464015288653",
     "tikTvd": "24620001197296",
-    "tikName": "Курчатовская"
+    "tikName": "Курчатовская",
+    "uikName": "УИК №613",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 614,
     "uikTvd": "4464015288654",
     "tikTvd": "24620001197296",
-    "tikName": "Курчатовская"
+    "tikName": "Курчатовская",
+    "uikName": "УИК №614",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 615,
     "uikTvd": "4464034237176",
     "tikTvd": "24620001197283",
-    "tikName": "Льговская городская"
+    "tikName": "Льговская городская",
+    "uikName": "УИК №615",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 616,
     "uikTvd": "4464034237177",
     "tikTvd": "24620001197283",
-    "tikName": "Льговская городская"
+    "tikName": "Льговская городская",
+    "uikName": "УИК №616",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 617,
     "uikTvd": "4464034237178",
     "tikTvd": "24620001197283",
-    "tikName": "Льговская городская"
+    "tikName": "Льговская городская",
+    "uikName": "УИК №617",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 618,
     "uikTvd": "4464034237179",
     "tikTvd": "24620001197283",
-    "tikName": "Льговская городская"
+    "tikName": "Льговская городская",
+    "uikName": "УИК №618",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 619,
     "uikTvd": "4464034237180",
     "tikTvd": "24620001197283",
-    "tikName": "Льговская городская"
+    "tikName": "Льговская городская",
+    "uikName": "УИК №619",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 620,
     "uikTvd": "4464034237181",
     "tikTvd": "24620001197283",
-    "tikName": "Льговская городская"
+    "tikName": "Льговская городская",
+    "uikName": "УИК №620",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 621,
     "uikTvd": "4464034237182",
     "tikTvd": "24620001197283",
-    "tikName": "Льговская городская"
+    "tikName": "Льговская городская",
+    "uikName": "УИК №621",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 622,
     "uikTvd": "4464034237183",
     "tikTvd": "24620001197283",
-    "tikName": "Льговская городская"
+    "tikName": "Льговская городская",
+    "uikName": "УИК №622",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 623,
     "uikTvd": "4464034237184",
     "tikTvd": "24620001197283",
-    "tikName": "Льговская городская"
+    "tikName": "Льговская городская",
+    "uikName": "УИК №623",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 624,
     "uikTvd": "4464034237185",
     "tikTvd": "24620001197283",
-    "tikName": "Льговская городская"
+    "tikName": "Льговская городская",
+    "uikName": "УИК №624",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 625,
     "uikTvd": "4464034237186",
     "tikTvd": "24620001197283",
-    "tikName": "Льговская городская"
+    "tikName": "Льговская городская",
+    "uikName": "УИК №625",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 626,
     "uikTvd": "4464034237187",
     "tikTvd": "24620001197283",
-    "tikName": "Льговская городская"
+    "tikName": "Льговская городская",
+    "uikName": "УИК №626",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 627,
     "uikTvd": "4464034237188",
     "tikTvd": "24620001197283",
-    "tikName": "Льговская городская"
+    "tikName": "Льговская городская",
+    "uikName": "УИК №627",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 628,
     "uikTvd": "4464034237189",
     "tikTvd": "24620001197283",
-    "tikName": "Льговская городская"
+    "tikName": "Льговская городская",
+    "uikName": "УИК №628",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 629,
     "uikTvd": "4464034237190",
     "tikTvd": "24620001197283",
-    "tikName": "Льговская городская"
+    "tikName": "Льговская городская",
+    "uikName": "УИК №629",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 630,
     "uikTvd": "4464016304923",
     "tikTvd": "24620001197295",
-    "tikName": "Льговская"
+    "tikName": "Льговская",
+    "uikName": "УИК №630",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 631,
     "uikTvd": "4464016304924",
     "tikTvd": "24620001197295",
-    "tikName": "Льговская"
+    "tikName": "Льговская",
+    "uikName": "УИК №631",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 632,
     "uikTvd": "4464016304925",
     "tikTvd": "24620001197295",
-    "tikName": "Льговская"
+    "tikName": "Льговская",
+    "uikName": "УИК №632",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 633,
     "uikTvd": "4464016304926",
     "tikTvd": "24620001197295",
-    "tikName": "Льговская"
+    "tikName": "Льговская",
+    "uikName": "УИК №633",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 634,
     "uikTvd": "4464016304927",
     "tikTvd": "24620001197295",
-    "tikName": "Льговская"
+    "tikName": "Льговская",
+    "uikName": "УИК №634",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 635,
     "uikTvd": "4464016304928",
     "tikTvd": "24620001197295",
-    "tikName": "Льговская"
+    "tikName": "Льговская",
+    "uikName": "УИК №635",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 636,
     "uikTvd": "4464016304929",
     "tikTvd": "24620001197295",
-    "tikName": "Льговская"
+    "tikName": "Льговская",
+    "uikName": "УИК №636",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 637,
     "uikTvd": "4464016304930",
     "tikTvd": "24620001197295",
-    "tikName": "Льговская"
+    "tikName": "Льговская",
+    "uikName": "УИК №637",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 638,
     "uikTvd": "4464016304931",
     "tikTvd": "24620001197295",
-    "tikName": "Льговская"
+    "tikName": "Льговская",
+    "uikName": "УИК №638",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 639,
     "uikTvd": "4464016304932",
     "tikTvd": "24620001197295",
-    "tikName": "Льговская"
+    "tikName": "Льговская",
+    "uikName": "УИК №639",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 640,
     "uikTvd": "4464016304933",
     "tikTvd": "24620001197295",
-    "tikName": "Льговская"
+    "tikName": "Льговская",
+    "uikName": "УИК №640",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 641,
     "uikTvd": "4464016304934",
     "tikTvd": "24620001197295",
-    "tikName": "Льговская"
+    "tikName": "Льговская",
+    "uikName": "УИК №641",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 642,
     "uikTvd": "4464016304935",
     "tikTvd": "24620001197295",
-    "tikName": "Льговская"
+    "tikName": "Льговская",
+    "uikName": "УИК №642",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 643,
     "uikTvd": "4464016304936",
     "tikTvd": "24620001197295",
-    "tikName": "Льговская"
+    "tikName": "Льговская",
+    "uikName": "УИК №643",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 644,
     "uikTvd": "4464016304937",
     "tikTvd": "24620001197295",
-    "tikName": "Льговская"
+    "tikName": "Льговская",
+    "uikName": "УИК №644",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 645,
     "uikTvd": "4464016304938",
     "tikTvd": "24620001197295",
-    "tikName": "Льговская"
+    "tikName": "Льговская",
+    "uikName": "УИК №645",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 646,
     "uikTvd": "4464016304939",
     "tikTvd": "24620001197295",
-    "tikName": "Льговская"
+    "tikName": "Льговская",
+    "uikName": "УИК №646",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 647,
     "uikTvd": "4464016304940",
     "tikTvd": "24620001197295",
-    "tikName": "Льговская"
+    "tikName": "Льговская",
+    "uikName": "УИК №647",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 648,
     "uikTvd": "4464016304941",
     "tikTvd": "24620001197295",
-    "tikName": "Льговская"
+    "tikName": "Льговская",
+    "uikName": "УИК №648",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 649,
     "uikTvd": "4464016304942",
     "tikTvd": "24620001197295",
-    "tikName": "Льговская"
+    "tikName": "Льговская",
+    "uikName": "УИК №649",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 650,
     "uikTvd": "4464016304943",
     "tikTvd": "24620001197295",
-    "tikName": "Льговская"
+    "tikName": "Льговская",
+    "uikName": "УИК №650",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 651,
     "uikTvd": "4464016304944",
     "tikTvd": "24620001197295",
-    "tikName": "Льговская"
+    "tikName": "Льговская",
+    "uikName": "УИК №651",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 652,
     "uikTvd": "4464016304945",
     "tikTvd": "24620001197295",
-    "tikName": "Льговская"
+    "tikName": "Льговская",
+    "uikName": "УИК №652",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 653,
     "uikTvd": "4464016304946",
     "tikTvd": "24620001197295",
-    "tikName": "Льговская"
+    "tikName": "Льговская",
+    "uikName": "УИК №653",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 654,
     "uikTvd": "4464016304947",
     "tikTvd": "24620001197295",
-    "tikName": "Льговская"
+    "tikName": "Льговская",
+    "uikName": "УИК №654",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 655,
     "uikTvd": "4464016304948",
     "tikTvd": "24620001197295",
-    "tikName": "Льговская"
+    "tikName": "Льговская",
+    "uikName": "УИК №655",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 656,
     "uikTvd": "4464016304949",
     "tikTvd": "24620001197295",
-    "tikName": "Льговская"
+    "tikName": "Льговская",
+    "uikName": "УИК №656",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 657,
     "uikTvd": "4464016304950",
     "tikTvd": "24620001197295",
-    "tikName": "Льговская"
+    "tikName": "Льговская",
+    "uikName": "УИК №657",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 658,
     "uikTvd": "4464016304951",
     "tikTvd": "24620001197295",
-    "tikName": "Льговская"
+    "tikName": "Льговская",
+    "uikName": "УИК №658",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 659,
     "uikTvd": "4464016304952",
     "tikTvd": "24620001197295",
-    "tikName": "Льговская"
+    "tikName": "Льговская",
+    "uikName": "УИК №659",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 660,
     "uikTvd": "4464016304953",
     "tikTvd": "24620001197295",
-    "tikName": "Льговская"
+    "tikName": "Льговская",
+    "uikName": "УИК №660",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 661,
     "uikTvd": "4464016304954",
     "tikTvd": "24620001197295",
-    "tikName": "Льговская"
+    "tikName": "Льговская",
+    "uikName": "УИК №661",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 662,
     "uikTvd": "4464016304955",
     "tikTvd": "24620001197295",
-    "tikName": "Льговская"
+    "tikName": "Льговская",
+    "uikName": "УИК №662",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 663,
     "uikTvd": "4464016304956",
     "tikTvd": "24620001197295",
-    "tikName": "Льговская"
+    "tikName": "Льговская",
+    "uikName": "УИК №663",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 664,
     "uikTvd": "4464016304957",
     "tikTvd": "24620001197295",
-    "tikName": "Льговская"
+    "tikName": "Льговская",
+    "uikName": "УИК №664",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 665,
     "uikTvd": "4464016304958",
     "tikTvd": "24620001197295",
-    "tikName": "Льговская"
+    "tikName": "Льговская",
+    "uikName": "УИК №665",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 666,
     "uikTvd": "4464016304959",
     "tikTvd": "24620001197295",
-    "tikName": "Льговская"
+    "tikName": "Льговская",
+    "uikName": "УИК №666",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 667,
     "uikTvd": "4464017224249",
     "tikTvd": "24620001197308",
-    "tikName": "Мантуровская"
+    "tikName": "Мантуровская",
+    "uikName": "УИК №667",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 668,
     "uikTvd": "4464017224250",
     "tikTvd": "24620001197308",
-    "tikName": "Мантуровская"
+    "tikName": "Мантуровская",
+    "uikName": "УИК №668",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 669,
     "uikTvd": "4464017224251",
     "tikTvd": "24620001197308",
-    "tikName": "Мантуровская"
+    "tikName": "Мантуровская",
+    "uikName": "УИК №669",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 670,
     "uikTvd": "4464017224252",
     "tikTvd": "24620001197308",
-    "tikName": "Мантуровская"
+    "tikName": "Мантуровская",
+    "uikName": "УИК №670",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 671,
     "uikTvd": "4464017224253",
     "tikTvd": "24620001197308",
-    "tikName": "Мантуровская"
+    "tikName": "Мантуровская",
+    "uikName": "УИК №671",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 672,
     "uikTvd": "4464017224254",
     "tikTvd": "24620001197308",
-    "tikName": "Мантуровская"
+    "tikName": "Мантуровская",
+    "uikName": "УИК №672",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 673,
     "uikTvd": "4464017224255",
     "tikTvd": "24620001197308",
-    "tikName": "Мантуровская"
+    "tikName": "Мантуровская",
+    "uikName": "УИК №673",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 674,
     "uikTvd": "4464017224256",
     "tikTvd": "24620001197308",
-    "tikName": "Мантуровская"
+    "tikName": "Мантуровская",
+    "uikName": "УИК №674",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 675,
     "uikTvd": "4464017224257",
     "tikTvd": "24620001197308",
-    "tikName": "Мантуровская"
+    "tikName": "Мантуровская",
+    "uikName": "УИК №675",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 676,
     "uikTvd": "4464017224258",
     "tikTvd": "24620001197308",
-    "tikName": "Мантуровская"
+    "tikName": "Мантуровская",
+    "uikName": "УИК №676",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 677,
     "uikTvd": "4464017224259",
     "tikTvd": "24620001197308",
-    "tikName": "Мантуровская"
+    "tikName": "Мантуровская",
+    "uikName": "УИК №677",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 678,
     "uikTvd": "4464017224260",
     "tikTvd": "24620001197308",
-    "tikName": "Мантуровская"
+    "tikName": "Мантуровская",
+    "uikName": "УИК №678",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 679,
     "uikTvd": "4464017224261",
     "tikTvd": "24620001197308",
-    "tikName": "Мантуровская"
+    "tikName": "Мантуровская",
+    "uikName": "УИК №679",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 680,
     "uikTvd": "4464017224262",
     "tikTvd": "24620001197308",
-    "tikName": "Мантуровская"
+    "tikName": "Мантуровская",
+    "uikName": "УИК №680",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 681,
     "uikTvd": "4464017224263",
     "tikTvd": "24620001197308",
-    "tikName": "Мантуровская"
+    "tikName": "Мантуровская",
+    "uikName": "УИК №681",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 682,
     "uikTvd": "4464017224264",
     "tikTvd": "24620001197308",
-    "tikName": "Мантуровская"
+    "tikName": "Мантуровская",
+    "uikName": "УИК №682",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 683,
     "uikTvd": "4464017224265",
     "tikTvd": "24620001197308",
-    "tikName": "Мантуровская"
+    "tikName": "Мантуровская",
+    "uikName": "УИК №683",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 684,
     "uikTvd": "4464017224266",
     "tikTvd": "24620001197308",
-    "tikName": "Мантуровская"
+    "tikName": "Мантуровская",
+    "uikName": "УИК №684",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 685,
     "uikTvd": "4464017224267",
     "tikTvd": "24620001197308",
-    "tikName": "Мантуровская"
+    "tikName": "Мантуровская",
+    "uikName": "УИК №685",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 686,
     "uikTvd": "4464017224268",
     "tikTvd": "24620001197308",
-    "tikName": "Мантуровская"
+    "tikName": "Мантуровская",
+    "uikName": "УИК №686",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 687,
     "uikTvd": "4464018298381",
     "tikTvd": "24620001197307",
-    "tikName": "Медвенская"
+    "tikName": "Медвенская",
+    "uikName": "УИК №687",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 688,
     "uikTvd": "4464018298382",
     "tikTvd": "24620001197307",
-    "tikName": "Медвенская"
+    "tikName": "Медвенская",
+    "uikName": "УИК №688",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 689,
     "uikTvd": "4464018298383",
     "tikTvd": "24620001197307",
-    "tikName": "Медвенская"
+    "tikName": "Медвенская",
+    "uikName": "УИК №689",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 690,
     "uikTvd": "4464018298384",
     "tikTvd": "24620001197307",
-    "tikName": "Медвенская"
+    "tikName": "Медвенская",
+    "uikName": "УИК №690",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 691,
     "uikTvd": "4464018298385",
     "tikTvd": "24620001197307",
-    "tikName": "Медвенская"
+    "tikName": "Медвенская",
+    "uikName": "УИК №691",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 692,
     "uikTvd": "4464018298386",
     "tikTvd": "24620001197307",
-    "tikName": "Медвенская"
+    "tikName": "Медвенская",
+    "uikName": "УИК №692",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 693,
     "uikTvd": "4464018298387",
     "tikTvd": "24620001197307",
-    "tikName": "Медвенская"
+    "tikName": "Медвенская",
+    "uikName": "УИК №693",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 694,
     "uikTvd": "4464018298388",
     "tikTvd": "24620001197307",
-    "tikName": "Медвенская"
+    "tikName": "Медвенская",
+    "uikName": "УИК №694",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 695,
     "uikTvd": "4464018298389",
     "tikTvd": "24620001197307",
-    "tikName": "Медвенская"
+    "tikName": "Медвенская",
+    "uikName": "УИК №695",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 696,
     "uikTvd": "4464018298390",
     "tikTvd": "24620001197307",
-    "tikName": "Медвенская"
+    "tikName": "Медвенская",
+    "uikName": "УИК №696",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 697,
     "uikTvd": "4464018298391",
     "tikTvd": "24620001197307",
-    "tikName": "Медвенская"
+    "tikName": "Медвенская",
+    "uikName": "УИК №697",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 698,
     "uikTvd": "4464018298392",
     "tikTvd": "24620001197307",
-    "tikName": "Медвенская"
+    "tikName": "Медвенская",
+    "uikName": "УИК №698",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 699,
     "uikTvd": "4464018298393",
     "tikTvd": "24620001197307",
-    "tikName": "Медвенская"
+    "tikName": "Медвенская",
+    "uikName": "УИК №699",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 700,
     "uikTvd": "4464018298394",
     "tikTvd": "24620001197307",
-    "tikName": "Медвенская"
+    "tikName": "Медвенская",
+    "uikName": "УИК №700",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 701,
     "uikTvd": "4464018298395",
     "tikTvd": "24620001197307",
-    "tikName": "Медвенская"
+    "tikName": "Медвенская",
+    "uikName": "УИК №701",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 702,
     "uikTvd": "4464018298396",
     "tikTvd": "24620001197307",
-    "tikName": "Медвенская"
+    "tikName": "Медвенская",
+    "uikName": "УИК №702",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 703,
     "uikTvd": "4464018298397",
     "tikTvd": "24620001197307",
-    "tikName": "Медвенская"
+    "tikName": "Медвенская",
+    "uikName": "УИК №703",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 704,
     "uikTvd": "4464018298398",
     "tikTvd": "24620001197307",
-    "tikName": "Медвенская"
+    "tikName": "Медвенская",
+    "uikName": "УИК №704",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 705,
     "uikTvd": "4464018298399",
     "tikTvd": "24620001197307",
-    "tikName": "Медвенская"
+    "tikName": "Медвенская",
+    "uikName": "УИК №705",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 706,
     "uikTvd": "4464018298400",
     "tikTvd": "24620001197307",
-    "tikName": "Медвенская"
+    "tikName": "Медвенская",
+    "uikName": "УИК №706",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 707,
     "uikTvd": "4464018298401",
     "tikTvd": "24620001197307",
-    "tikName": "Медвенская"
+    "tikName": "Медвенская",
+    "uikName": "УИК №707",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 708,
     "uikTvd": "4464018298402",
     "tikTvd": "24620001197307",
-    "tikName": "Медвенская"
+    "tikName": "Медвенская",
+    "uikName": "УИК №708",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 709,
     "uikTvd": "4464019435593",
     "tikTvd": "24620001197306",
-    "tikName": "Обоянская"
+    "tikName": "Обоянская",
+    "uikName": "УИК №709",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 710,
     "uikTvd": "4464019435594",
     "tikTvd": "24620001197306",
-    "tikName": "Обоянская"
+    "tikName": "Обоянская",
+    "uikName": "УИК №710",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 711,
     "uikTvd": "4464019435595",
     "tikTvd": "24620001197306",
-    "tikName": "Обоянская"
+    "tikName": "Обоянская",
+    "uikName": "УИК №711",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 712,
     "uikTvd": "4464019435596",
     "tikTvd": "24620001197306",
-    "tikName": "Обоянская"
+    "tikName": "Обоянская",
+    "uikName": "УИК №712",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 713,
     "uikTvd": "4464019435597",
     "tikTvd": "24620001197306",
-    "tikName": "Обоянская"
+    "tikName": "Обоянская",
+    "uikName": "УИК №713",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 714,
     "uikTvd": "4464019435598",
     "tikTvd": "24620001197306",
-    "tikName": "Обоянская"
+    "tikName": "Обоянская",
+    "uikName": "УИК №714",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 715,
     "uikTvd": "4464019435599",
     "tikTvd": "24620001197306",
-    "tikName": "Обоянская"
+    "tikName": "Обоянская",
+    "uikName": "УИК №715",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 716,
     "uikTvd": "4464019435600",
     "tikTvd": "24620001197306",
-    "tikName": "Обоянская"
+    "tikName": "Обоянская",
+    "uikName": "УИК №716",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 717,
     "uikTvd": "4464019435601",
     "tikTvd": "24620001197306",
-    "tikName": "Обоянская"
+    "tikName": "Обоянская",
+    "uikName": "УИК №717",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 718,
     "uikTvd": "4464019435602",
     "tikTvd": "24620001197306",
-    "tikName": "Обоянская"
+    "tikName": "Обоянская",
+    "uikName": "УИК №718",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 719,
     "uikTvd": "4464019435603",
     "tikTvd": "24620001197306",
-    "tikName": "Обоянская"
+    "tikName": "Обоянская",
+    "uikName": "УИК №719",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 720,
     "uikTvd": "4464019435604",
     "tikTvd": "24620001197306",
-    "tikName": "Обоянская"
+    "tikName": "Обоянская",
+    "uikName": "УИК №720",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 721,
     "uikTvd": "4464019435605",
     "tikTvd": "24620001197306",
-    "tikName": "Обоянская"
+    "tikName": "Обоянская",
+    "uikName": "УИК №721",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 722,
     "uikTvd": "4464019435606",
     "tikTvd": "24620001197306",
-    "tikName": "Обоянская"
+    "tikName": "Обоянская",
+    "uikName": "УИК №722",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 723,
     "uikTvd": "4464019435607",
     "tikTvd": "24620001197306",
-    "tikName": "Обоянская"
+    "tikName": "Обоянская",
+    "uikName": "УИК №723",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 724,
     "uikTvd": "4464019435608",
     "tikTvd": "24620001197306",
-    "tikName": "Обоянская"
+    "tikName": "Обоянская",
+    "uikName": "УИК №724",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 725,
     "uikTvd": "4464019435609",
     "tikTvd": "24620001197306",
-    "tikName": "Обоянская"
+    "tikName": "Обоянская",
+    "uikName": "УИК №725",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 726,
     "uikTvd": "4464019435610",
     "tikTvd": "24620001197306",
-    "tikName": "Обоянская"
+    "tikName": "Обоянская",
+    "uikName": "УИК №726",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 727,
     "uikTvd": "4464019435611",
     "tikTvd": "24620001197306",
-    "tikName": "Обоянская"
+    "tikName": "Обоянская",
+    "uikName": "УИК №727",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 728,
     "uikTvd": "4464019435612",
     "tikTvd": "24620001197306",
-    "tikName": "Обоянская"
+    "tikName": "Обоянская",
+    "uikName": "УИК №728",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 729,
     "uikTvd": "4464019435613",
     "tikTvd": "24620001197306",
-    "tikName": "Обоянская"
+    "tikName": "Обоянская",
+    "uikName": "УИК №729",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 730,
     "uikTvd": "4464019435614",
     "tikTvd": "24620001197306",
-    "tikName": "Обоянская"
+    "tikName": "Обоянская",
+    "uikName": "УИК №730",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 731,
     "uikTvd": "4464019435615",
     "tikTvd": "24620001197306",
-    "tikName": "Обоянская"
+    "tikName": "Обоянская",
+    "uikName": "УИК №731",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 732,
     "uikTvd": "4464019435616",
     "tikTvd": "24620001197306",
-    "tikName": "Обоянская"
+    "tikName": "Обоянская",
+    "uikName": "УИК №732",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 733,
     "uikTvd": "4464019435617",
     "tikTvd": "24620001197306",
-    "tikName": "Обоянская"
+    "tikName": "Обоянская",
+    "uikName": "УИК №733",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 734,
     "uikTvd": "4464019435618",
     "tikTvd": "24620001197306",
-    "tikName": "Обоянская"
+    "tikName": "Обоянская",
+    "uikName": "УИК №734",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 735,
     "uikTvd": "4464019435619",
     "tikTvd": "24620001197306",
-    "tikName": "Обоянская"
+    "tikName": "Обоянская",
+    "uikName": "УИК №735",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 736,
     "uikTvd": "4464019435620",
     "tikTvd": "24620001197306",
-    "tikName": "Обоянская"
+    "tikName": "Обоянская",
+    "uikName": "УИК №736",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 737,
     "uikTvd": "4464019435621",
     "tikTvd": "24620001197306",
-    "tikName": "Обоянская"
+    "tikName": "Обоянская",
+    "uikName": "УИК №737",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 738,
     "uikTvd": "4464019435622",
     "tikTvd": "24620001197306",
-    "tikName": "Обоянская"
+    "tikName": "Обоянская",
+    "uikName": "УИК №738",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 739,
     "uikTvd": "4464019435623",
     "tikTvd": "24620001197306",
-    "tikName": "Обоянская"
+    "tikName": "Обоянская",
+    "uikName": "УИК №739",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 740,
     "uikTvd": "4464019435624",
     "tikTvd": "24620001197306",
-    "tikName": "Обоянская"
+    "tikName": "Обоянская",
+    "uikName": "УИК №740",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 741,
     "uikTvd": "4464019435625",
     "tikTvd": "24620001197306",
-    "tikName": "Обоянская"
+    "tikName": "Обоянская",
+    "uikName": "УИК №741",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 742,
     "uikTvd": "4464019435626",
     "tikTvd": "24620001197306",
-    "tikName": "Обоянская"
+    "tikName": "Обоянская",
+    "uikName": "УИК №742",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 743,
     "uikTvd": "4464019435627",
     "tikTvd": "24620001197306",
-    "tikName": "Обоянская"
+    "tikName": "Обоянская",
+    "uikName": "УИК №743",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 744,
     "uikTvd": "4464019435628",
     "tikTvd": "24620001197306",
-    "tikName": "Обоянская"
+    "tikName": "Обоянская",
+    "uikName": "УИК №744",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 745,
     "uikTvd": "4464019435629",
     "tikTvd": "24620001197306",
-    "tikName": "Обоянская"
+    "tikName": "Обоянская",
+    "uikName": "УИК №745",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 746,
     "uikTvd": "4464019435630",
     "tikTvd": "24620001197306",
-    "tikName": "Обоянская"
+    "tikName": "Обоянская",
+    "uikName": "УИК №746",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 747,
     "uikTvd": "4464019435631",
     "tikTvd": "24620001197306",
-    "tikName": "Обоянская"
+    "tikName": "Обоянская",
+    "uikName": "УИК №747",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 748,
     "uikTvd": "4464019435632",
     "tikTvd": "24620001197306",
-    "tikName": "Обоянская"
+    "tikName": "Обоянская",
+    "uikName": "УИК №748",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 749,
     "uikTvd": "4464019435633",
     "tikTvd": "24620001197306",
-    "tikName": "Обоянская"
+    "tikName": "Обоянская",
+    "uikName": "УИК №749",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 750,
     "uikTvd": "4464020295742",
     "tikTvd": "24620001197294",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "uikName": "УИК №750",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 751,
     "uikTvd": "4464020295743",
     "tikTvd": "24620001197294",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "uikName": "УИК №751",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 752,
     "uikTvd": "4464020295744",
     "tikTvd": "24620001197294",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "uikName": "УИК №752",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 753,
     "uikTvd": "4464020295745",
     "tikTvd": "24620001197294",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "uikName": "УИК №753",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 754,
     "uikTvd": "4464020295746",
     "tikTvd": "24620001197294",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "uikName": "УИК №754",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 755,
     "uikTvd": "4464020295747",
     "tikTvd": "24620001197294",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "uikName": "УИК №755",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 756,
     "uikTvd": "4464020295748",
     "tikTvd": "24620001197294",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "uikName": "УИК №756",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 757,
     "uikTvd": "4464020295749",
     "tikTvd": "24620001197294",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "uikName": "УИК №757",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 758,
     "uikTvd": "4464020295750",
     "tikTvd": "24620001197294",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "uikName": "УИК №758",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 759,
     "uikTvd": "4464020295751",
     "tikTvd": "24620001197294",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "uikName": "УИК №759",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 760,
     "uikTvd": "4464020295752",
     "tikTvd": "24620001197294",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "uikName": "УИК №760",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 761,
     "uikTvd": "4464020295753",
     "tikTvd": "24620001197294",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "uikName": "УИК №761",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 762,
     "uikTvd": "4464020295754",
     "tikTvd": "24620001197294",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "uikName": "УИК №762",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 763,
     "uikTvd": "4464020295755",
     "tikTvd": "24620001197294",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "uikName": "УИК №763",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 764,
     "uikTvd": "4464020295756",
     "tikTvd": "24620001197294",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "uikName": "УИК №764",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 765,
     "uikTvd": "4464020295757",
     "tikTvd": "24620001197294",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "uikName": "УИК №765",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 766,
     "uikTvd": "4464020295758",
     "tikTvd": "24620001197294",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "uikName": "УИК №766",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 767,
     "uikTvd": "4464020295759",
     "tikTvd": "24620001197294",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "uikName": "УИК №767",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 768,
     "uikTvd": "4464020295760",
     "tikTvd": "24620001197294",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "uikName": "УИК №768",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 769,
     "uikTvd": "4464020295761",
     "tikTvd": "24620001197294",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "uikName": "УИК №769",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 770,
     "uikTvd": "4464020295762",
     "tikTvd": "24620001197294",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "uikName": "УИК №770",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 771,
     "uikTvd": "4464020295763",
     "tikTvd": "24620001197294",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "uikName": "УИК №771",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 772,
     "uikTvd": "4464020295764",
     "tikTvd": "24620001197294",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "uikName": "УИК №772",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 773,
     "uikTvd": "4464020295765",
     "tikTvd": "24620001197294",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "uikName": "УИК №773",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 774,
     "uikTvd": "4464020295766",
     "tikTvd": "24620001197294",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "uikName": "УИК №774",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 775,
     "uikTvd": "4464020295767",
     "tikTvd": "24620001197294",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "uikName": "УИК №775",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 776,
     "uikTvd": "4464021377440",
     "tikTvd": "24620001197293",
-    "tikName": "Поныровская"
+    "tikName": "Поныровская",
+    "uikName": "УИК №776",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 777,
     "uikTvd": "4464021377442",
     "tikTvd": "24620001197293",
-    "tikName": "Поныровская"
+    "tikName": "Поныровская",
+    "uikName": "УИК №777",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 778,
     "uikTvd": "4464021377444",
     "tikTvd": "24620001197293",
-    "tikName": "Поныровская"
+    "tikName": "Поныровская",
+    "uikName": "УИК №778",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 779,
     "uikTvd": "4464021377446",
     "tikTvd": "24620001197293",
-    "tikName": "Поныровская"
+    "tikName": "Поныровская",
+    "uikName": "УИК №779",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 780,
     "uikTvd": "4464021377448",
     "tikTvd": "24620001197293",
-    "tikName": "Поныровская"
+    "tikName": "Поныровская",
+    "uikName": "УИК №780",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 781,
     "uikTvd": "4464021377450",
     "tikTvd": "24620001197293",
-    "tikName": "Поныровская"
+    "tikName": "Поныровская",
+    "uikName": "УИК №781",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 782,
     "uikTvd": "4464021377452",
     "tikTvd": "24620001197293",
-    "tikName": "Поныровская"
+    "tikName": "Поныровская",
+    "uikName": "УИК №782",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 783,
     "uikTvd": "4464021377454",
     "tikTvd": "24620001197293",
-    "tikName": "Поныровская"
+    "tikName": "Поныровская",
+    "uikName": "УИК №783",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 784,
     "uikTvd": "4464021377456",
     "tikTvd": "24620001197293",
-    "tikName": "Поныровская"
+    "tikName": "Поныровская",
+    "uikName": "УИК №784",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 785,
     "uikTvd": "4464021377458",
     "tikTvd": "24620001197293",
-    "tikName": "Поныровская"
+    "tikName": "Поныровская",
+    "uikName": "УИК №785",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 786,
     "uikTvd": "4464021377460",
     "tikTvd": "24620001197293",
-    "tikName": "Поныровская"
+    "tikName": "Поныровская",
+    "uikName": "УИК №786",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 787,
     "uikTvd": "4464021377462",
     "tikTvd": "24620001197293",
-    "tikName": "Поныровская"
+    "tikName": "Поныровская",
+    "uikName": "УИК №787",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 788,
     "uikTvd": "4464021377464",
     "tikTvd": "24620001197293",
-    "tikName": "Поныровская"
+    "tikName": "Поныровская",
+    "uikName": "УИК №788",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 789,
     "uikTvd": "4464021377466",
     "tikTvd": "24620001197293",
-    "tikName": "Поныровская"
+    "tikName": "Поныровская",
+    "uikName": "УИК №789",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 790,
     "uikTvd": "4464021377468",
     "tikTvd": "24620001197293",
-    "tikName": "Поныровская"
+    "tikName": "Поныровская",
+    "uikName": "УИК №790",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 791,
     "uikTvd": "4464021377470",
     "tikTvd": "24620001197293",
-    "tikName": "Поныровская"
+    "tikName": "Поныровская",
+    "uikName": "УИК №791",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 792,
     "uikTvd": "4464021377472",
     "tikTvd": "24620001197293",
-    "tikName": "Поныровская"
+    "tikName": "Поныровская",
+    "uikName": "УИК №792",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 793,
     "uikTvd": "4464022346340",
     "tikTvd": "24620001197305",
-    "tikName": "Пристенская"
+    "tikName": "Пристенская",
+    "uikName": "УИК №793",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 794,
     "uikTvd": "4464022346341",
     "tikTvd": "24620001197305",
-    "tikName": "Пристенская"
+    "tikName": "Пристенская",
+    "uikName": "УИК №794",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 795,
     "uikTvd": "4464022346342",
     "tikTvd": "24620001197305",
-    "tikName": "Пристенская"
+    "tikName": "Пристенская",
+    "uikName": "УИК №795",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 796,
     "uikTvd": "4464022346343",
     "tikTvd": "24620001197305",
-    "tikName": "Пристенская"
+    "tikName": "Пристенская",
+    "uikName": "УИК №796",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 797,
     "uikTvd": "4464022346344",
     "tikTvd": "24620001197305",
-    "tikName": "Пристенская"
+    "tikName": "Пристенская",
+    "uikName": "УИК №797",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 798,
     "uikTvd": "4464022346345",
     "tikTvd": "24620001197305",
-    "tikName": "Пристенская"
+    "tikName": "Пристенская",
+    "uikName": "УИК №798",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 799,
     "uikTvd": "4464022346346",
     "tikTvd": "24620001197305",
-    "tikName": "Пристенская"
+    "tikName": "Пристенская",
+    "uikName": "УИК №799",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 800,
     "uikTvd": "4464022346347",
     "tikTvd": "24620001197305",
-    "tikName": "Пристенская"
+    "tikName": "Пристенская",
+    "uikName": "УИК №800",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 801,
     "uikTvd": "4464022346348",
     "tikTvd": "24620001197305",
-    "tikName": "Пристенская"
+    "tikName": "Пристенская",
+    "uikName": "УИК №801",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 802,
     "uikTvd": "4464022346349",
     "tikTvd": "24620001197305",
-    "tikName": "Пристенская"
+    "tikName": "Пристенская",
+    "uikName": "УИК №802",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 803,
     "uikTvd": "4464022346350",
     "tikTvd": "24620001197305",
-    "tikName": "Пристенская"
+    "tikName": "Пристенская",
+    "uikName": "УИК №803",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 804,
     "uikTvd": "4464022346351",
     "tikTvd": "24620001197305",
-    "tikName": "Пристенская"
+    "tikName": "Пристенская",
+    "uikName": "УИК №804",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 805,
     "uikTvd": "4464022346352",
     "tikTvd": "24620001197305",
-    "tikName": "Пристенская"
+    "tikName": "Пристенская",
+    "uikName": "УИК №805",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 806,
     "uikTvd": "4464022346353",
     "tikTvd": "24620001197305",
-    "tikName": "Пристенская"
+    "tikName": "Пристенская",
+    "uikName": "УИК №806",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 807,
     "uikTvd": "4464022346354",
     "tikTvd": "24620001197305",
-    "tikName": "Пристенская"
+    "tikName": "Пристенская",
+    "uikName": "УИК №807",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 808,
     "uikTvd": "4464022346355",
     "tikTvd": "24620001197305",
-    "tikName": "Пристенская"
+    "tikName": "Пристенская",
+    "uikName": "УИК №808",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 809,
     "uikTvd": "4464022346356",
     "tikTvd": "24620001197305",
-    "tikName": "Пристенская"
+    "tikName": "Пристенская",
+    "uikName": "УИК №809",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 810,
     "uikTvd": "4464022346357",
     "tikTvd": "24620001197305",
-    "tikName": "Пристенская"
+    "tikName": "Пристенская",
+    "uikName": "УИК №810",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 811,
     "uikTvd": "4464022346358",
     "tikTvd": "24620001197305",
-    "tikName": "Пристенская"
+    "tikName": "Пристенская",
+    "uikName": "УИК №811",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 812,
     "uikTvd": "4464022346359",
     "tikTvd": "24620001197305",
-    "tikName": "Пристенская"
+    "tikName": "Пристенская",
+    "uikName": "УИК №812",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 813,
     "uikTvd": "4464022346360",
     "tikTvd": "24620001197305",
-    "tikName": "Пристенская"
+    "tikName": "Пристенская",
+    "uikName": "УИК №813",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 814,
     "uikTvd": "4464022346361",
     "tikTvd": "24620001197305",
-    "tikName": "Пристенская"
+    "tikName": "Пристенская",
+    "uikName": "УИК №814",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 815,
     "uikTvd": "4464022346362",
     "tikTvd": "24620001197305",
-    "tikName": "Пристенская"
+    "tikName": "Пристенская",
+    "uikName": "УИК №815",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 816,
     "uikTvd": "4464022346363",
     "tikTvd": "24620001197305",
-    "tikName": "Пристенская"
+    "tikName": "Пристенская",
+    "uikName": "УИК №816",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 817,
     "uikTvd": "4464022346364",
     "tikTvd": "24620001197305",
-    "tikName": "Пристенская"
+    "tikName": "Пристенская",
+    "uikName": "УИК №817",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 818,
     "uikTvd": "4464022346365",
     "tikTvd": "24620001197305",
-    "tikName": "Пристенская"
+    "tikName": "Пристенская",
+    "uikName": "УИК №818",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 819,
     "uikTvd": "4464022346366",
     "tikTvd": "24620001197305",
-    "tikName": "Пристенская"
+    "tikName": "Пристенская",
+    "uikName": "УИК №819",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 820,
     "uikTvd": "4464022346367",
     "tikTvd": "24620001197305",
-    "tikName": "Пристенская"
+    "tikName": "Пристенская",
+    "uikName": "УИК №820",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 821,
     "uikTvd": "4464022346368",
     "tikTvd": "24620001197305",
-    "tikName": "Пристенская"
+    "tikName": "Пристенская",
+    "uikName": "УИК №821",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 822,
     "uikTvd": "4464022346369",
     "tikTvd": "24620001197305",
-    "tikName": "Пристенская"
+    "tikName": "Пристенская",
+    "uikName": "УИК №822",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 823,
     "uikTvd": "4464023418967",
     "tikTvd": "24620001197304",
-    "tikName": "Рыльская"
+    "tikName": "Рыльская",
+    "uikName": "УИК №823",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 824,
     "uikTvd": "4464023418969",
     "tikTvd": "24620001197304",
-    "tikName": "Рыльская"
+    "tikName": "Рыльская",
+    "uikName": "УИК №824",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 825,
     "uikTvd": "4464023418970",
     "tikTvd": "24620001197304",
-    "tikName": "Рыльская"
+    "tikName": "Рыльская",
+    "uikName": "УИК №825",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 826,
     "uikTvd": "4464023418971",
     "tikTvd": "24620001197304",
-    "tikName": "Рыльская"
+    "tikName": "Рыльская",
+    "uikName": "УИК №826",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 827,
     "uikTvd": "4464023418972",
     "tikTvd": "24620001197304",
-    "tikName": "Рыльская"
+    "tikName": "Рыльская",
+    "uikName": "УИК №827",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 828,
     "uikTvd": "4464023418973",
     "tikTvd": "24620001197304",
-    "tikName": "Рыльская"
+    "tikName": "Рыльская",
+    "uikName": "УИК №828",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 829,
     "uikTvd": "4464023418974",
     "tikTvd": "24620001197304",
-    "tikName": "Рыльская"
+    "tikName": "Рыльская",
+    "uikName": "УИК №829",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 830,
     "uikTvd": "4464023418975",
     "tikTvd": "24620001197304",
-    "tikName": "Рыльская"
+    "tikName": "Рыльская",
+    "uikName": "УИК №830",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 831,
     "uikTvd": "4464023418976",
     "tikTvd": "24620001197304",
-    "tikName": "Рыльская"
+    "tikName": "Рыльская",
+    "uikName": "УИК №831",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 832,
     "uikTvd": "4464023418977",
     "tikTvd": "24620001197304",
-    "tikName": "Рыльская"
+    "tikName": "Рыльская",
+    "uikName": "УИК №832",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 833,
     "uikTvd": "4464023418978",
     "tikTvd": "24620001197304",
-    "tikName": "Рыльская"
+    "tikName": "Рыльская",
+    "uikName": "УИК №833",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 834,
     "uikTvd": "4464023418979",
     "tikTvd": "24620001197304",
-    "tikName": "Рыльская"
+    "tikName": "Рыльская",
+    "uikName": "УИК №834",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 835,
     "uikTvd": "4464023418980",
     "tikTvd": "24620001197304",
-    "tikName": "Рыльская"
+    "tikName": "Рыльская",
+    "uikName": "УИК №835",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 836,
     "uikTvd": "4464023418981",
     "tikTvd": "24620001197304",
-    "tikName": "Рыльская"
+    "tikName": "Рыльская",
+    "uikName": "УИК №836",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 837,
     "uikTvd": "4464023418982",
     "tikTvd": "24620001197304",
-    "tikName": "Рыльская"
+    "tikName": "Рыльская",
+    "uikName": "УИК №837",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 838,
     "uikTvd": "4464023418983",
     "tikTvd": "24620001197304",
-    "tikName": "Рыльская"
+    "tikName": "Рыльская",
+    "uikName": "УИК №838",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 839,
     "uikTvd": "4464023418984",
     "tikTvd": "24620001197304",
-    "tikName": "Рыльская"
+    "tikName": "Рыльская",
+    "uikName": "УИК №839",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 840,
     "uikTvd": "4464023418985",
     "tikTvd": "24620001197304",
-    "tikName": "Рыльская"
+    "tikName": "Рыльская",
+    "uikName": "УИК №840",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 841,
     "uikTvd": "4464023418986",
     "tikTvd": "24620001197304",
-    "tikName": "Рыльская"
+    "tikName": "Рыльская",
+    "uikName": "УИК №841",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 842,
     "uikTvd": "4464023418987",
     "tikTvd": "24620001197304",
-    "tikName": "Рыльская"
+    "tikName": "Рыльская",
+    "uikName": "УИК №842",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 843,
     "uikTvd": "4464023418988",
     "tikTvd": "24620001197304",
-    "tikName": "Рыльская"
+    "tikName": "Рыльская",
+    "uikName": "УИК №843",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 844,
     "uikTvd": "4464023418989",
     "tikTvd": "24620001197304",
-    "tikName": "Рыльская"
+    "tikName": "Рыльская",
+    "uikName": "УИК №844",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 845,
     "uikTvd": "4464023418990",
     "tikTvd": "24620001197304",
-    "tikName": "Рыльская"
+    "tikName": "Рыльская",
+    "uikName": "УИК №845",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 846,
     "uikTvd": "4464023418991",
     "tikTvd": "24620001197304",
-    "tikName": "Рыльская"
+    "tikName": "Рыльская",
+    "uikName": "УИК №846",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 847,
     "uikTvd": "4464023418992",
     "tikTvd": "24620001197304",
-    "tikName": "Рыльская"
+    "tikName": "Рыльская",
+    "uikName": "УИК №847",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 848,
     "uikTvd": "4464023418993",
     "tikTvd": "24620001197304",
-    "tikName": "Рыльская"
+    "tikName": "Рыльская",
+    "uikName": "УИК №848",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 849,
     "uikTvd": "4464023418994",
     "tikTvd": "24620001197304",
-    "tikName": "Рыльская"
+    "tikName": "Рыльская",
+    "uikName": "УИК №849",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 850,
     "uikTvd": "4464023418995",
     "tikTvd": "24620001197304",
-    "tikName": "Рыльская"
+    "tikName": "Рыльская",
+    "uikName": "УИК №850",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 851,
     "uikTvd": "4464023418996",
     "tikTvd": "24620001197304",
-    "tikName": "Рыльская"
+    "tikName": "Рыльская",
+    "uikName": "УИК №851",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 852,
     "uikTvd": "4464023418997",
     "tikTvd": "24620001197304",
-    "tikName": "Рыльская"
+    "tikName": "Рыльская",
+    "uikName": "УИК №852",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 853,
     "uikTvd": "4464023418998",
     "tikTvd": "24620001197304",
-    "tikName": "Рыльская"
+    "tikName": "Рыльская",
+    "uikName": "УИК №853",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 854,
     "uikTvd": "4464023418999",
     "tikTvd": "24620001197304",
-    "tikName": "Рыльская"
+    "tikName": "Рыльская",
+    "uikName": "УИК №854",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 855,
     "uikTvd": "4464023419000",
     "tikTvd": "24620001197304",
-    "tikName": "Рыльская"
+    "tikName": "Рыльская",
+    "uikName": "УИК №855",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 856,
     "uikTvd": "4464023419001",
     "tikTvd": "24620001197304",
-    "tikName": "Рыльская"
+    "tikName": "Рыльская",
+    "uikName": "УИК №856",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 857,
     "uikTvd": "4464023419002",
     "tikTvd": "24620001197304",
-    "tikName": "Рыльская"
+    "tikName": "Рыльская",
+    "uikName": "УИК №857",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 858,
     "uikTvd": "4464023419003",
     "tikTvd": "24620001197304",
-    "tikName": "Рыльская"
+    "tikName": "Рыльская",
+    "uikName": "УИК №858",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 859,
     "uikTvd": "4464023419004",
     "tikTvd": "24620001197304",
-    "tikName": "Рыльская"
+    "tikName": "Рыльская",
+    "uikName": "УИК №859",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 860,
     "uikTvd": "4464023419005",
     "tikTvd": "24620001197304",
-    "tikName": "Рыльская"
+    "tikName": "Рыльская",
+    "uikName": "УИК №860",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 861,
     "uikTvd": "4464023419006",
     "tikTvd": "24620001197304",
-    "tikName": "Рыльская"
+    "tikName": "Рыльская",
+    "uikName": "УИК №861",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 862,
     "uikTvd": "4464023419007",
     "tikTvd": "24620001197304",
-    "tikName": "Рыльская"
+    "tikName": "Рыльская",
+    "uikName": "УИК №862",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 863,
     "uikTvd": "4464023419008",
     "tikTvd": "24620001197304",
-    "tikName": "Рыльская"
+    "tikName": "Рыльская",
+    "uikName": "УИК №863",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 864,
     "uikTvd": "4464023419009",
     "tikTvd": "24620001197304",
-    "tikName": "Рыльская"
+    "tikName": "Рыльская",
+    "uikName": "УИК №864",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 865,
     "uikTvd": "4464023419010",
     "tikTvd": "24620001197304",
-    "tikName": "Рыльская"
+    "tikName": "Рыльская",
+    "uikName": "УИК №865",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 866,
     "uikTvd": "4464023419011",
     "tikTvd": "24620001197304",
-    "tikName": "Рыльская"
+    "tikName": "Рыльская",
+    "uikName": "УИК №866",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 867,
     "uikTvd": "4464023419012",
     "tikTvd": "24620001197304",
-    "tikName": "Рыльская"
+    "tikName": "Рыльская",
+    "uikName": "УИК №867",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 868,
     "uikTvd": "4464023419013",
     "tikTvd": "24620001197304",
-    "tikName": "Рыльская"
+    "tikName": "Рыльская",
+    "uikName": "УИК №868",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 869,
     "uikTvd": "4464023419014",
     "tikTvd": "24620001197304",
-    "tikName": "Рыльская"
+    "tikName": "Рыльская",
+    "uikName": "УИК №869",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 870,
     "uikTvd": "4464023419015",
     "tikTvd": "24620001197304",
-    "tikName": "Рыльская"
+    "tikName": "Рыльская",
+    "uikName": "УИК №870",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 871,
     "uikTvd": "4464024422357",
     "tikTvd": "24620001197303",
-    "tikName": " Советская"
+    "tikName": " Советская",
+    "uikName": "УИК №871",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 872,
     "uikTvd": "4464024422358",
     "tikTvd": "24620001197303",
-    "tikName": " Советская"
+    "tikName": " Советская",
+    "uikName": "УИК №872",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 873,
     "uikTvd": "4464024422359",
     "tikTvd": "24620001197303",
-    "tikName": " Советская"
+    "tikName": " Советская",
+    "uikName": "УИК №873",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 874,
     "uikTvd": "4464024422360",
     "tikTvd": "24620001197303",
-    "tikName": " Советская"
+    "tikName": " Советская",
+    "uikName": "УИК №874",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 875,
     "uikTvd": "4464024422361",
     "tikTvd": "24620001197303",
-    "tikName": " Советская"
+    "tikName": " Советская",
+    "uikName": "УИК №875",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 876,
     "uikTvd": "4464024422362",
     "tikTvd": "24620001197303",
-    "tikName": " Советская"
+    "tikName": " Советская",
+    "uikName": "УИК №876",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 877,
     "uikTvd": "4464024422363",
     "tikTvd": "24620001197303",
-    "tikName": " Советская"
+    "tikName": " Советская",
+    "uikName": "УИК №877",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 878,
     "uikTvd": "4464024422364",
     "tikTvd": "24620001197303",
-    "tikName": " Советская"
+    "tikName": " Советская",
+    "uikName": "УИК №878",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 879,
     "uikTvd": "4464024422365",
     "tikTvd": "24620001197303",
-    "tikName": " Советская"
+    "tikName": " Советская",
+    "uikName": "УИК №879",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 880,
     "uikTvd": "4464024422366",
     "tikTvd": "24620001197303",
-    "tikName": " Советская"
+    "tikName": " Советская",
+    "uikName": "УИК №880",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 881,
     "uikTvd": "4464024422367",
     "tikTvd": "24620001197303",
-    "tikName": " Советская"
+    "tikName": " Советская",
+    "uikName": "УИК №881",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 882,
     "uikTvd": "4464024422368",
     "tikTvd": "24620001197303",
-    "tikName": " Советская"
+    "tikName": " Советская",
+    "uikName": "УИК №882",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 883,
     "uikTvd": "4464024422369",
     "tikTvd": "24620001197303",
-    "tikName": " Советская"
+    "tikName": " Советская",
+    "uikName": "УИК №883",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 884,
     "uikTvd": "4464024422370",
     "tikTvd": "24620001197303",
-    "tikName": " Советская"
+    "tikName": " Советская",
+    "uikName": "УИК №884",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 885,
     "uikTvd": "4464024422371",
     "tikTvd": "24620001197303",
-    "tikName": " Советская"
+    "tikName": " Советская",
+    "uikName": "УИК №885",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 886,
     "uikTvd": "4464024422372",
     "tikTvd": "24620001197303",
-    "tikName": " Советская"
+    "tikName": " Советская",
+    "uikName": "УИК №886",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 887,
     "uikTvd": "4464024422373",
     "tikTvd": "24620001197303",
-    "tikName": " Советская"
+    "tikName": " Советская",
+    "uikName": "УИК №887",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 888,
     "uikTvd": "4464024422374",
     "tikTvd": "24620001197303",
-    "tikName": " Советская"
+    "tikName": " Советская",
+    "uikName": "УИК №888",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 889,
     "uikTvd": "4464024422375",
     "tikTvd": "24620001197303",
-    "tikName": " Советская"
+    "tikName": " Советская",
+    "uikName": "УИК №889",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 890,
     "uikTvd": "4464024422376",
     "tikTvd": "24620001197303",
-    "tikName": " Советская"
+    "tikName": " Советская",
+    "uikName": "УИК №890",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 891,
     "uikTvd": "4464024422377",
     "tikTvd": "24620001197303",
-    "tikName": " Советская"
+    "tikName": " Советская",
+    "uikName": "УИК №891",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 892,
     "uikTvd": "4464024422378",
     "tikTvd": "24620001197303",
-    "tikName": " Советская"
+    "tikName": " Советская",
+    "uikName": "УИК №892",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 893,
     "uikTvd": "4464024422379",
     "tikTvd": "24620001197303",
-    "tikName": " Советская"
+    "tikName": " Советская",
+    "uikName": "УИК №893",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 894,
     "uikTvd": "4464024422380",
     "tikTvd": "24620001197303",
-    "tikName": " Советская"
+    "tikName": " Советская",
+    "uikName": "УИК №894",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 895,
     "uikTvd": "4464024422381",
     "tikTvd": "24620001197303",
-    "tikName": " Советская"
+    "tikName": " Советская",
+    "uikName": "УИК №895",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 896,
     "uikTvd": "4464024422382",
     "tikTvd": "24620001197303",
-    "tikName": " Советская"
+    "tikName": " Советская",
+    "uikName": "УИК №896",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 897,
     "uikTvd": "4464024422383",
     "tikTvd": "24620001197303",
-    "tikName": " Советская"
+    "tikName": " Советская",
+    "uikName": "УИК №897",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 898,
     "uikTvd": "4464024422384",
     "tikTvd": "24620001197303",
-    "tikName": " Советская"
+    "tikName": " Советская",
+    "uikName": "УИК №898",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 899,
     "uikTvd": "4464024422385",
     "tikTvd": "24620001197303",
-    "tikName": " Советская"
+    "tikName": " Советская",
+    "uikName": "УИК №899",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 900,
     "uikTvd": "4464024422386",
     "tikTvd": "24620001197303",
-    "tikName": " Советская"
+    "tikName": " Советская",
+    "uikName": "УИК №900",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 901,
     "uikTvd": "4464024422387",
     "tikTvd": "24620001197303",
-    "tikName": " Советская"
+    "tikName": " Советская",
+    "uikName": "УИК №901",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 902,
     "uikTvd": "4464024422388",
     "tikTvd": "24620001197303",
-    "tikName": " Советская"
+    "tikName": " Советская",
+    "uikName": "УИК №902",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 903,
     "uikTvd": "4464024422389",
     "tikTvd": "24620001197303",
-    "tikName": " Советская"
+    "tikName": " Советская",
+    "uikName": "УИК №903",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 904,
     "uikTvd": "4464024422390",
     "tikTvd": "24620001197303",
-    "tikName": " Советская"
+    "tikName": " Советская",
+    "uikName": "УИК №904",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 905,
     "uikTvd": "4464024422391",
     "tikTvd": "24620001197303",
-    "tikName": " Советская"
+    "tikName": " Советская",
+    "uikName": "УИК №905",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 906,
     "uikTvd": "4464024422392",
     "tikTvd": "24620001197303",
-    "tikName": " Советская"
+    "tikName": " Советская",
+    "uikName": "УИК №906",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 907,
     "uikTvd": "4464025229141",
     "tikTvd": "24620001197302",
-    "tikName": "Солнцевская"
+    "tikName": "Солнцевская",
+    "uikName": "УИК №907",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 908,
     "uikTvd": "4464025229142",
     "tikTvd": "24620001197302",
-    "tikName": "Солнцевская"
+    "tikName": "Солнцевская",
+    "uikName": "УИК №908",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 909,
     "uikTvd": "4464025229143",
     "tikTvd": "24620001197302",
-    "tikName": "Солнцевская"
+    "tikName": "Солнцевская",
+    "uikName": "УИК №909",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 910,
     "uikTvd": "4464025229144",
     "tikTvd": "24620001197302",
-    "tikName": "Солнцевская"
+    "tikName": "Солнцевская",
+    "uikName": "УИК №910",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 911,
     "uikTvd": "4464025229145",
     "tikTvd": "24620001197302",
-    "tikName": "Солнцевская"
+    "tikName": "Солнцевская",
+    "uikName": "УИК №911",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 912,
     "uikTvd": "4464025229146",
     "tikTvd": "24620001197302",
-    "tikName": "Солнцевская"
+    "tikName": "Солнцевская",
+    "uikName": "УИК №912",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 913,
     "uikTvd": "4464025229147",
     "tikTvd": "24620001197302",
-    "tikName": "Солнцевская"
+    "tikName": "Солнцевская",
+    "uikName": "УИК №913",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 914,
     "uikTvd": "4464025229148",
     "tikTvd": "24620001197302",
-    "tikName": "Солнцевская"
+    "tikName": "Солнцевская",
+    "uikName": "УИК №914",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 915,
     "uikTvd": "4464025229149",
     "tikTvd": "24620001197302",
-    "tikName": "Солнцевская"
+    "tikName": "Солнцевская",
+    "uikName": "УИК №915",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 916,
     "uikTvd": "4464025229150",
     "tikTvd": "24620001197302",
-    "tikName": "Солнцевская"
+    "tikName": "Солнцевская",
+    "uikName": "УИК №916",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 917,
     "uikTvd": "4464025229151",
     "tikTvd": "24620001197302",
-    "tikName": "Солнцевская"
+    "tikName": "Солнцевская",
+    "uikName": "УИК №917",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 918,
     "uikTvd": "4464025229152",
     "tikTvd": "24620001197302",
-    "tikName": "Солнцевская"
+    "tikName": "Солнцевская",
+    "uikName": "УИК №918",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 919,
     "uikTvd": "4464025229153",
     "tikTvd": "24620001197302",
-    "tikName": "Солнцевская"
+    "tikName": "Солнцевская",
+    "uikName": "УИК №919",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 920,
     "uikTvd": "4464025229154",
     "tikTvd": "24620001197302",
-    "tikName": "Солнцевская"
+    "tikName": "Солнцевская",
+    "uikName": "УИК №920",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 921,
     "uikTvd": "4464025229155",
     "tikTvd": "24620001197302",
-    "tikName": "Солнцевская"
+    "tikName": "Солнцевская",
+    "uikName": "УИК №921",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 922,
     "uikTvd": "4464025229156",
     "tikTvd": "24620001197302",
-    "tikName": "Солнцевская"
+    "tikName": "Солнцевская",
+    "uikName": "УИК №922",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 923,
     "uikTvd": "4464025229157",
     "tikTvd": "24620001197302",
-    "tikName": "Солнцевская"
+    "tikName": "Солнцевская",
+    "uikName": "УИК №923",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 924,
     "uikTvd": "4464025229158",
     "tikTvd": "24620001197302",
-    "tikName": "Солнцевская"
+    "tikName": "Солнцевская",
+    "uikName": "УИК №924",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 925,
     "uikTvd": "4464025229159",
     "tikTvd": "24620001197302",
-    "tikName": "Солнцевская"
+    "tikName": "Солнцевская",
+    "uikName": "УИК №925",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 926,
     "uikTvd": "4464025229160",
     "tikTvd": "24620001197302",
-    "tikName": "Солнцевская"
+    "tikName": "Солнцевская",
+    "uikName": "УИК №926",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 927,
     "uikTvd": "4464025229161",
     "tikTvd": "24620001197302",
-    "tikName": "Солнцевская"
+    "tikName": "Солнцевская",
+    "uikName": "УИК №927",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 928,
     "uikTvd": "4464025229162",
     "tikTvd": "24620001197302",
-    "tikName": "Солнцевская"
+    "tikName": "Солнцевская",
+    "uikName": "УИК №928",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 929,
     "uikTvd": "4464025229163",
     "tikTvd": "24620001197302",
-    "tikName": "Солнцевская"
+    "tikName": "Солнцевская",
+    "uikName": "УИК №929",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 930,
     "uikTvd": "4464025229164",
     "tikTvd": "24620001197302",
-    "tikName": "Солнцевская"
+    "tikName": "Солнцевская",
+    "uikName": "УИК №930",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 931,
     "uikTvd": "4464026393890",
     "tikTvd": "24620001197301",
-    "tikName": "Cуджанская"
+    "tikName": "Cуджанская",
+    "uikName": "УИК №931",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 932,
     "uikTvd": "4464026393891",
     "tikTvd": "24620001197301",
-    "tikName": "Cуджанская"
+    "tikName": "Cуджанская",
+    "uikName": "УИК №932",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 933,
     "uikTvd": "4464026393892",
     "tikTvd": "24620001197301",
-    "tikName": "Cуджанская"
+    "tikName": "Cуджанская",
+    "uikName": "УИК №933",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 934,
     "uikTvd": "4464026393893",
     "tikTvd": "24620001197301",
-    "tikName": "Cуджанская"
+    "tikName": "Cуджанская",
+    "uikName": "УИК №934",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 935,
     "uikTvd": "4464026393894",
     "tikTvd": "24620001197301",
-    "tikName": "Cуджанская"
+    "tikName": "Cуджанская",
+    "uikName": "УИК №935",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 936,
     "uikTvd": "4464026393895",
     "tikTvd": "24620001197301",
-    "tikName": "Cуджанская"
+    "tikName": "Cуджанская",
+    "uikName": "УИК №936",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 937,
     "uikTvd": "4464026393896",
     "tikTvd": "24620001197301",
-    "tikName": "Cуджанская"
+    "tikName": "Cуджанская",
+    "uikName": "УИК №937",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 938,
     "uikTvd": "4464026393897",
     "tikTvd": "24620001197301",
-    "tikName": "Cуджанская"
+    "tikName": "Cуджанская",
+    "uikName": "УИК №938",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 939,
     "uikTvd": "4464026393898",
     "tikTvd": "24620001197301",
-    "tikName": "Cуджанская"
+    "tikName": "Cуджанская",
+    "uikName": "УИК №939",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 940,
     "uikTvd": "4464026393899",
     "tikTvd": "24620001197301",
-    "tikName": "Cуджанская"
+    "tikName": "Cуджанская",
+    "uikName": "УИК №940",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 941,
     "uikTvd": "4464026393900",
     "tikTvd": "24620001197301",
-    "tikName": "Cуджанская"
+    "tikName": "Cуджанская",
+    "uikName": "УИК №941",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 942,
     "uikTvd": "4464026393901",
     "tikTvd": "24620001197301",
-    "tikName": "Cуджанская"
+    "tikName": "Cуджанская",
+    "uikName": "УИК №942",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 943,
     "uikTvd": "4464026393902",
     "tikTvd": "24620001197301",
-    "tikName": "Cуджанская"
+    "tikName": "Cуджанская",
+    "uikName": "УИК №943",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 944,
     "uikTvd": "4464026393903",
     "tikTvd": "24620001197301",
-    "tikName": "Cуджанская"
+    "tikName": "Cуджанская",
+    "uikName": "УИК №944",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 945,
     "uikTvd": "4464026393904",
     "tikTvd": "24620001197301",
-    "tikName": "Cуджанская"
+    "tikName": "Cуджанская",
+    "uikName": "УИК №945",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 946,
     "uikTvd": "4464026393905",
     "tikTvd": "24620001197301",
-    "tikName": "Cуджанская"
+    "tikName": "Cуджанская",
+    "uikName": "УИК №946",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 947,
     "uikTvd": "4464026393906",
     "tikTvd": "24620001197301",
-    "tikName": "Cуджанская"
+    "tikName": "Cуджанская",
+    "uikName": "УИК №947",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 948,
     "uikTvd": "4464026393907",
     "tikTvd": "24620001197301",
-    "tikName": "Cуджанская"
+    "tikName": "Cуджанская",
+    "uikName": "УИК №948",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 949,
     "uikTvd": "4464026393908",
     "tikTvd": "24620001197301",
-    "tikName": "Cуджанская"
+    "tikName": "Cуджанская",
+    "uikName": "УИК №949",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 950,
     "uikTvd": "4464026393909",
     "tikTvd": "24620001197301",
-    "tikName": "Cуджанская"
+    "tikName": "Cуджанская",
+    "uikName": "УИК №950",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 951,
     "uikTvd": "4464026393910",
     "tikTvd": "24620001197301",
-    "tikName": "Cуджанская"
+    "tikName": "Cуджанская",
+    "uikName": "УИК №951",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 952,
     "uikTvd": "4464026393911",
     "tikTvd": "24620001197301",
-    "tikName": "Cуджанская"
+    "tikName": "Cуджанская",
+    "uikName": "УИК №952",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 953,
     "uikTvd": "4464026393912",
     "tikTvd": "24620001197301",
-    "tikName": "Cуджанская"
+    "tikName": "Cуджанская",
+    "uikName": "УИК №953",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 954,
     "uikTvd": "4464026393913",
     "tikTvd": "24620001197301",
-    "tikName": "Cуджанская"
+    "tikName": "Cуджанская",
+    "uikName": "УИК №954",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 955,
     "uikTvd": "4464026393914",
     "tikTvd": "24620001197301",
-    "tikName": "Cуджанская"
+    "tikName": "Cуджанская",
+    "uikName": "УИК №955",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 956,
     "uikTvd": "4464026393915",
     "tikTvd": "24620001197301",
-    "tikName": "Cуджанская"
+    "tikName": "Cуджанская",
+    "uikName": "УИК №956",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 957,
     "uikTvd": "4464026393916",
     "tikTvd": "24620001197301",
-    "tikName": "Cуджанская"
+    "tikName": "Cуджанская",
+    "uikName": "УИК №957",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 958,
     "uikTvd": "4464026393917",
     "tikTvd": "24620001197301",
-    "tikName": "Cуджанская"
+    "tikName": "Cуджанская",
+    "uikName": "УИК №958",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 959,
     "uikTvd": "4464026393918",
     "tikTvd": "24620001197301",
-    "tikName": "Cуджанская"
+    "tikName": "Cуджанская",
+    "uikName": "УИК №959",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 960,
     "uikTvd": "4464026393919",
     "tikTvd": "24620001197301",
-    "tikName": "Cуджанская"
+    "tikName": "Cуджанская",
+    "uikName": "УИК №960",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 961,
     "uikTvd": "4464026393920",
     "tikTvd": "24620001197301",
-    "tikName": "Cуджанская"
+    "tikName": "Cуджанская",
+    "uikName": "УИК №961",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 962,
     "uikTvd": "4464026393921",
     "tikTvd": "24620001197301",
-    "tikName": "Cуджанская"
+    "tikName": "Cуджанская",
+    "uikName": "УИК №962",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 963,
     "uikTvd": "4464026393922",
     "tikTvd": "24620001197301",
-    "tikName": "Cуджанская"
+    "tikName": "Cуджанская",
+    "uikName": "УИК №963",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 964,
     "uikTvd": "4464026393923",
     "tikTvd": "24620001197301",
-    "tikName": "Cуджанская"
+    "tikName": "Cуджанская",
+    "uikName": "УИК №964",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 965,
     "uikTvd": "9469027255359",
     "tikTvd": "24620001197300",
-    "tikName": "Тимская"
+    "tikName": "Тимская",
+    "uikName": "УИК №965",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 966,
     "uikTvd": "9469027255360",
     "tikTvd": "24620001197300",
-    "tikName": "Тимская"
+    "tikName": "Тимская",
+    "uikName": "УИК №966",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 967,
     "uikTvd": "9469027255361",
     "tikTvd": "24620001197300",
-    "tikName": "Тимская"
+    "tikName": "Тимская",
+    "uikName": "УИК №967",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 968,
     "uikTvd": "9469027255362",
     "tikTvd": "24620001197300",
-    "tikName": "Тимская"
+    "tikName": "Тимская",
+    "uikName": "УИК №968",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 969,
     "uikTvd": "9469027255363",
     "tikTvd": "24620001197300",
-    "tikName": "Тимская"
+    "tikName": "Тимская",
+    "uikName": "УИК №969",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 970,
     "uikTvd": "9469027255364",
     "tikTvd": "24620001197300",
-    "tikName": "Тимская"
+    "tikName": "Тимская",
+    "uikName": "УИК №970",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 971,
     "uikTvd": "9469027255365",
     "tikTvd": "24620001197300",
-    "tikName": "Тимская"
+    "tikName": "Тимская",
+    "uikName": "УИК №971",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 972,
     "uikTvd": "9469027255366",
     "tikTvd": "24620001197300",
-    "tikName": "Тимская"
+    "tikName": "Тимская",
+    "uikName": "УИК №972",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 973,
     "uikTvd": "9469027255367",
     "tikTvd": "24620001197300",
-    "tikName": "Тимская"
+    "tikName": "Тимская",
+    "uikName": "УИК №973",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 974,
     "uikTvd": "9469027255368",
     "tikTvd": "24620001197300",
-    "tikName": "Тимская"
+    "tikName": "Тимская",
+    "uikName": "УИК №974",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 975,
     "uikTvd": "9469027255369",
     "tikTvd": "24620001197300",
-    "tikName": "Тимская"
+    "tikName": "Тимская",
+    "uikName": "УИК №975",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 976,
     "uikTvd": "9469027255370",
     "tikTvd": "24620001197300",
-    "tikName": "Тимская"
+    "tikName": "Тимская",
+    "uikName": "УИК №976",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 977,
     "uikTvd": "9469027255371",
     "tikTvd": "24620001197300",
-    "tikName": "Тимская"
+    "tikName": "Тимская",
+    "uikName": "УИК №977",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 978,
     "uikTvd": "9469027255372",
     "tikTvd": "24620001197300",
-    "tikName": "Тимская"
+    "tikName": "Тимская",
+    "uikName": "УИК №978",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 979,
     "uikTvd": "9469027255373",
     "tikTvd": "24620001197300",
-    "tikName": "Тимская"
+    "tikName": "Тимская",
+    "uikName": "УИК №979",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 980,
     "uikTvd": "9469027255374",
     "tikTvd": "24620001197300",
-    "tikName": "Тимская"
+    "tikName": "Тимская",
+    "uikName": "УИК №980",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 981,
     "uikTvd": "9469027255375",
     "tikTvd": "24620001197300",
-    "tikName": "Тимская"
+    "tikName": "Тимская",
+    "uikName": "УИК №981",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 982,
     "uikTvd": "9469027255376",
     "tikTvd": "24620001197300",
-    "tikName": "Тимская"
+    "tikName": "Тимская",
+    "uikName": "УИК №982",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 983,
     "uikTvd": "9469027255377",
     "tikTvd": "24620001197300",
-    "tikName": "Тимская"
+    "tikName": "Тимская",
+    "uikName": "УИК №983",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 984,
     "uikTvd": "9469027255378",
     "tikTvd": "24620001197300",
-    "tikName": "Тимская"
+    "tikName": "Тимская",
+    "uikName": "УИК №984",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 985,
     "uikTvd": "9469027255379",
     "tikTvd": "24620001197300",
-    "tikName": "Тимская"
+    "tikName": "Тимская",
+    "uikName": "УИК №985",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 986,
     "uikTvd": "9469027255380",
     "tikTvd": "24620001197300",
-    "tikName": "Тимская"
+    "tikName": "Тимская",
+    "uikName": "УИК №986",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 987,
     "uikTvd": "9469027255381",
     "tikTvd": "24620001197300",
-    "tikName": "Тимская"
+    "tikName": "Тимская",
+    "uikName": "УИК №987",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 988,
     "uikTvd": "4464028331590",
     "tikTvd": "24620001197292",
-    "tikName": "Фатежская"
+    "tikName": "Фатежская",
+    "uikName": "УИК №988",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 989,
     "uikTvd": "4464028331591",
     "tikTvd": "24620001197292",
-    "tikName": "Фатежская"
+    "tikName": "Фатежская",
+    "uikName": "УИК №989",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 990,
     "uikTvd": "4464028331592",
     "tikTvd": "24620001197292",
-    "tikName": "Фатежская"
+    "tikName": "Фатежская",
+    "uikName": "УИК №990",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 991,
     "uikTvd": "4464028331593",
     "tikTvd": "24620001197292",
-    "tikName": "Фатежская"
+    "tikName": "Фатежская",
+    "uikName": "УИК №991",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 992,
     "uikTvd": "4464028331594",
     "tikTvd": "24620001197292",
-    "tikName": "Фатежская"
+    "tikName": "Фатежская",
+    "uikName": "УИК №992",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 993,
     "uikTvd": "4464028331595",
     "tikTvd": "24620001197292",
-    "tikName": "Фатежская"
+    "tikName": "Фатежская",
+    "uikName": "УИК №993",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 994,
     "uikTvd": "4464028331596",
     "tikTvd": "24620001197292",
-    "tikName": "Фатежская"
+    "tikName": "Фатежская",
+    "uikName": "УИК №994",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 995,
     "uikTvd": "4464028331597",
     "tikTvd": "24620001197292",
-    "tikName": "Фатежская"
+    "tikName": "Фатежская",
+    "uikName": "УИК №995",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 996,
     "uikTvd": "4464028331598",
     "tikTvd": "24620001197292",
-    "tikName": "Фатежская"
+    "tikName": "Фатежская",
+    "uikName": "УИК №996",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 997,
     "uikTvd": "4464028331599",
     "tikTvd": "24620001197292",
-    "tikName": "Фатежская"
+    "tikName": "Фатежская",
+    "uikName": "УИК №997",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 998,
     "uikTvd": "4464028331600",
     "tikTvd": "24620001197292",
-    "tikName": "Фатежская"
+    "tikName": "Фатежская",
+    "uikName": "УИК №998",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 999,
     "uikTvd": "4464028331601",
     "tikTvd": "24620001197292",
-    "tikName": "Фатежская"
+    "tikName": "Фатежская",
+    "uikName": "УИК №999",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 1000,
     "uikTvd": "4464028331602",
     "tikTvd": "24620001197292",
-    "tikName": "Фатежская"
+    "tikName": "Фатежская",
+    "uikName": "УИК №1000",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 1001,
     "uikTvd": "4464028331603",
     "tikTvd": "24620001197292",
-    "tikName": "Фатежская"
+    "tikName": "Фатежская",
+    "uikName": "УИК №1001",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 1002,
     "uikTvd": "4464028331604",
     "tikTvd": "24620001197292",
-    "tikName": "Фатежская"
+    "tikName": "Фатежская",
+    "uikName": "УИК №1002",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 1003,
     "uikTvd": "4464028331605",
     "tikTvd": "24620001197292",
-    "tikName": "Фатежская"
+    "tikName": "Фатежская",
+    "uikName": "УИК №1003",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 1004,
     "uikTvd": "4464028331606",
     "tikTvd": "24620001197292",
-    "tikName": "Фатежская"
+    "tikName": "Фатежская",
+    "uikName": "УИК №1004",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 1005,
     "uikTvd": "4464028331607",
     "tikTvd": "24620001197292",
-    "tikName": "Фатежская"
+    "tikName": "Фатежская",
+    "uikName": "УИК №1005",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 1006,
     "uikTvd": "4464028331608",
     "tikTvd": "24620001197292",
-    "tikName": "Фатежская"
+    "tikName": "Фатежская",
+    "uikName": "УИК №1006",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 1007,
     "uikTvd": "4464028331609",
     "tikTvd": "24620001197292",
-    "tikName": "Фатежская"
+    "tikName": "Фатежская",
+    "uikName": "УИК №1007",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 1008,
     "uikTvd": "4464028331610",
     "tikTvd": "24620001197292",
-    "tikName": "Фатежская"
+    "tikName": "Фатежская",
+    "uikName": "УИК №1008",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 1009,
     "uikTvd": "4464028331611",
     "tikTvd": "24620001197292",
-    "tikName": "Фатежская"
+    "tikName": "Фатежская",
+    "uikName": "УИК №1009",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 1010,
     "uikTvd": "4464028331612",
     "tikTvd": "24620001197292",
-    "tikName": "Фатежская"
+    "tikName": "Фатежская",
+    "uikName": "УИК №1010",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 1011,
     "uikTvd": "4464028331613",
     "tikTvd": "24620001197292",
-    "tikName": "Фатежская"
+    "tikName": "Фатежская",
+    "uikName": "УИК №1011",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 1012,
     "uikTvd": "4464028331614",
     "tikTvd": "24620001197292",
-    "tikName": "Фатежская"
+    "tikName": "Фатежская",
+    "uikName": "УИК №1012",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 1013,
     "uikTvd": "4464028331615",
     "tikTvd": "24620001197292",
-    "tikName": "Фатежская"
+    "tikName": "Фатежская",
+    "uikName": "УИК №1013",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 1014,
     "uikTvd": "4464028331616",
     "tikTvd": "24620001197292",
-    "tikName": "Фатежская"
+    "tikName": "Фатежская",
+    "uikName": "УИК №1014",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 1015,
     "uikTvd": "4464028331617",
     "tikTvd": "24620001197292",
-    "tikName": "Фатежская"
+    "tikName": "Фатежская",
+    "uikName": "УИК №1015",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 1016,
     "uikTvd": "4464028331618",
     "tikTvd": "24620001197292",
-    "tikName": "Фатежская"
+    "tikName": "Фатежская",
+    "uikName": "УИК №1016",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 1017,
     "uikTvd": "4464029258135",
     "tikTvd": "24620001197291",
-    "tikName": "Хомутовская"
+    "tikName": "Хомутовская",
+    "uikName": "УИК №1017",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 1018,
     "uikTvd": "4464029258136",
     "tikTvd": "24620001197291",
-    "tikName": "Хомутовская"
+    "tikName": "Хомутовская",
+    "uikName": "УИК №1018",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 1019,
     "uikTvd": "4464029258137",
     "tikTvd": "24620001197291",
-    "tikName": "Хомутовская"
+    "tikName": "Хомутовская",
+    "uikName": "УИК №1019",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 1020,
     "uikTvd": "4464029258138",
     "tikTvd": "24620001197291",
-    "tikName": "Хомутовская"
+    "tikName": "Хомутовская",
+    "uikName": "УИК №1020",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 1021,
     "uikTvd": "4464029258139",
     "tikTvd": "24620001197291",
-    "tikName": "Хомутовская"
+    "tikName": "Хомутовская",
+    "uikName": "УИК №1021",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 1022,
     "uikTvd": "4464029258140",
     "tikTvd": "24620001197291",
-    "tikName": "Хомутовская"
+    "tikName": "Хомутовская",
+    "uikName": "УИК №1022",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 1023,
     "uikTvd": "4464029258141",
     "tikTvd": "24620001197291",
-    "tikName": "Хомутовская"
+    "tikName": "Хомутовская",
+    "uikName": "УИК №1023",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 1024,
     "uikTvd": "4464029258142",
     "tikTvd": "24620001197291",
-    "tikName": "Хомутовская"
+    "tikName": "Хомутовская",
+    "uikName": "УИК №1024",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 1025,
     "uikTvd": "4464029258143",
     "tikTvd": "24620001197291",
-    "tikName": "Хомутовская"
+    "tikName": "Хомутовская",
+    "uikName": "УИК №1025",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 1026,
     "uikTvd": "4464029258144",
     "tikTvd": "24620001197291",
-    "tikName": "Хомутовская"
+    "tikName": "Хомутовская",
+    "uikName": "УИК №1026",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 1027,
     "uikTvd": "4464029258145",
     "tikTvd": "24620001197291",
-    "tikName": "Хомутовская"
+    "tikName": "Хомутовская",
+    "uikName": "УИК №1027",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 1028,
     "uikTvd": "4464029258146",
     "tikTvd": "24620001197291",
-    "tikName": "Хомутовская"
+    "tikName": "Хомутовская",
+    "uikName": "УИК №1028",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 1029,
     "uikTvd": "4464029258147",
     "tikTvd": "24620001197291",
-    "tikName": "Хомутовская"
+    "tikName": "Хомутовская",
+    "uikName": "УИК №1029",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 1030,
     "uikTvd": "4464029258148",
     "tikTvd": "24620001197291",
-    "tikName": "Хомутовская"
+    "tikName": "Хомутовская",
+    "uikName": "УИК №1030",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 1031,
     "uikTvd": "4464029258149",
     "tikTvd": "24620001197291",
-    "tikName": "Хомутовская"
+    "tikName": "Хомутовская",
+    "uikName": "УИК №1031",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 1032,
     "uikTvd": "4464029258150",
     "tikTvd": "24620001197291",
-    "tikName": "Хомутовская"
+    "tikName": "Хомутовская",
+    "uikName": "УИК №1032",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 1033,
     "uikTvd": "4464029258151",
     "tikTvd": "24620001197291",
-    "tikName": "Хомутовская"
+    "tikName": "Хомутовская",
+    "uikName": "УИК №1033",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 1034,
     "uikTvd": "4464029258152",
     "tikTvd": "24620001197291",
-    "tikName": "Хомутовская"
+    "tikName": "Хомутовская",
+    "uikName": "УИК №1034",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 1035,
     "uikTvd": "4464029258153",
     "tikTvd": "24620001197291",
-    "tikName": "Хомутовская"
+    "tikName": "Хомутовская",
+    "uikName": "УИК №1035",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 1036,
     "uikTvd": "4464029258154",
     "tikTvd": "24620001197291",
-    "tikName": "Хомутовская"
+    "tikName": "Хомутовская",
+    "uikName": "УИК №1036",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 1037,
     "uikTvd": "4464029258155",
     "tikTvd": "24620001197291",
-    "tikName": "Хомутовская"
+    "tikName": "Хомутовская",
+    "uikName": "УИК №1037",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 1038,
     "uikTvd": "4464029258156",
     "tikTvd": "24620001197291",
-    "tikName": "Хомутовская"
+    "tikName": "Хомутовская",
+    "uikName": "УИК №1038",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 1039,
     "uikTvd": "4464029258157",
     "tikTvd": "24620001197291",
-    "tikName": "Хомутовская"
+    "tikName": "Хомутовская",
+    "uikName": "УИК №1039",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 1040,
     "uikTvd": "4464029258158",
     "tikTvd": "24620001197291",
-    "tikName": "Хомутовская"
+    "tikName": "Хомутовская",
+    "uikName": "УИК №1040",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 1041,
     "uikTvd": "4464029258159",
     "tikTvd": "24620001197291",
-    "tikName": "Хомутовская"
+    "tikName": "Хомутовская",
+    "uikName": "УИК №1041",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 1042,
     "uikTvd": "4464029258160",
     "tikTvd": "24620001197291",
-    "tikName": "Хомутовская"
+    "tikName": "Хомутовская",
+    "uikName": "УИК №1042",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 1043,
     "uikTvd": "4464029258161",
     "tikTvd": "24620001197291",
-    "tikName": "Хомутовская"
+    "tikName": "Хомутовская",
+    "uikName": "УИК №1043",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 1044,
     "uikTvd": "4464029258162",
     "tikTvd": "24620001197291",
-    "tikName": "Хомутовская"
+    "tikName": "Хомутовская",
+    "uikName": "УИК №1044",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 1045,
     "uikTvd": "4464029258163",
     "tikTvd": "24620001197291",
-    "tikName": "Хомутовская"
+    "tikName": "Хомутовская",
+    "uikName": "УИК №1045",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 1046,
     "uikTvd": "4464029258165",
     "tikTvd": "24620001197291",
-    "tikName": "Хомутовская"
+    "tikName": "Хомутовская",
+    "uikName": "УИК №1046",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 1047,
     "uikTvd": "4464030244777",
     "tikTvd": "24620001197299",
-    "tikName": "Черемисиновская"
+    "tikName": "Черемисиновская",
+    "uikName": "УИК №1047",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 1048,
     "uikTvd": "4464030244778",
     "tikTvd": "24620001197299",
-    "tikName": "Черемисиновская"
+    "tikName": "Черемисиновская",
+    "uikName": "УИК №1048",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 1049,
     "uikTvd": "4464030244779",
     "tikTvd": "24620001197299",
-    "tikName": "Черемисиновская"
+    "tikName": "Черемисиновская",
+    "uikName": "УИК №1049",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 1050,
     "uikTvd": "4464030244780",
     "tikTvd": "24620001197299",
-    "tikName": "Черемисиновская"
+    "tikName": "Черемисиновская",
+    "uikName": "УИК №1050",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 1051,
     "uikTvd": "4464030244781",
     "tikTvd": "24620001197299",
-    "tikName": "Черемисиновская"
+    "tikName": "Черемисиновская",
+    "uikName": "УИК №1051",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 1052,
     "uikTvd": "4464030244782",
     "tikTvd": "24620001197299",
-    "tikName": "Черемисиновская"
+    "tikName": "Черемисиновская",
+    "uikName": "УИК №1052",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 1053,
     "uikTvd": "4464030244783",
     "tikTvd": "24620001197299",
-    "tikName": "Черемисиновская"
+    "tikName": "Черемисиновская",
+    "uikName": "УИК №1053",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 1054,
     "uikTvd": "4464030244784",
     "tikTvd": "24620001197299",
-    "tikName": "Черемисиновская"
+    "tikName": "Черемисиновская",
+    "uikName": "УИК №1054",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 1055,
     "uikTvd": "4464030244785",
     "tikTvd": "24620001197299",
-    "tikName": "Черемисиновская"
+    "tikName": "Черемисиновская",
+    "uikName": "УИК №1055",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 1056,
     "uikTvd": "4464030244786",
     "tikTvd": "24620001197299",
-    "tikName": "Черемисиновская"
+    "tikName": "Черемисиновская",
+    "uikName": "УИК №1056",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 1057,
     "uikTvd": "4464030244787",
     "tikTvd": "24620001197299",
-    "tikName": "Черемисиновская"
+    "tikName": "Черемисиновская",
+    "uikName": "УИК №1057",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 1058,
     "uikTvd": "4464030244788",
     "tikTvd": "24620001197299",
-    "tikName": "Черемисиновская"
+    "tikName": "Черемисиновская",
+    "uikName": "УИК №1058",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 1059,
     "uikTvd": "4464030244789",
     "tikTvd": "24620001197299",
-    "tikName": "Черемисиновская"
+    "tikName": "Черемисиновская",
+    "uikName": "УИК №1059",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 1060,
     "uikTvd": "4464030244790",
     "tikTvd": "24620001197299",
-    "tikName": "Черемисиновская"
+    "tikName": "Черемисиновская",
+    "uikName": "УИК №1060",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 1061,
     "uikTvd": "4464030244791",
     "tikTvd": "24620001197299",
-    "tikName": "Черемисиновская"
+    "tikName": "Черемисиновская",
+    "uikName": "УИК №1061",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 1062,
     "uikTvd": "4464030244792",
     "tikTvd": "24620001197299",
-    "tikName": "Черемисиновская"
+    "tikName": "Черемисиновская",
+    "uikName": "УИК №1062",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 1063,
     "uikTvd": "4464030244793",
     "tikTvd": "24620001197299",
-    "tikName": "Черемисиновская"
+    "tikName": "Черемисиновская",
+    "uikName": "УИК №1063",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 1064,
     "uikTvd": "4464030244794",
     "tikTvd": "24620001197299",
-    "tikName": "Черемисиновская"
+    "tikName": "Черемисиновская",
+    "uikName": "УИК №1064",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 1065,
     "uikTvd": "4464030244795",
     "tikTvd": "24620001197299",
-    "tikName": "Черемисиновская"
+    "tikName": "Черемисиновская",
+    "uikName": "УИК №1065",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 1066,
     "uikTvd": "4464030244796",
     "tikTvd": "24620001197299",
-    "tikName": "Черемисиновская"
+    "tikName": "Черемисиновская",
+    "uikName": "УИК №1066",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 1067,
     "uikTvd": "4464030244797",
     "tikTvd": "24620001197299",
-    "tikName": "Черемисиновская"
+    "tikName": "Черемисиновская",
+    "uikName": "УИК №1067",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 1068,
     "uikTvd": "4464030244798",
     "tikTvd": "24620001197299",
-    "tikName": "Черемисиновская"
+    "tikName": "Черемисиновская",
+    "uikName": "УИК №1068",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 1069,
     "uikTvd": "4464030244799",
     "tikTvd": "24620001197299",
-    "tikName": "Черемисиновская"
+    "tikName": "Черемисиновская",
+    "uikName": "УИК №1069",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 1070,
     "uikTvd": "4464030244800",
     "tikTvd": "24620001197299",
-    "tikName": "Черемисиновская"
+    "tikName": "Черемисиновская",
+    "uikName": "УИК №1070",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 1071,
     "uikTvd": "4464035154635",
     "tikTvd": "24620001197656",
-    "tikName": "Щигровская городская"
+    "tikName": "Щигровская городская",
+    "uikName": "УИК №1071",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 1072,
     "uikTvd": "4464035154636",
     "tikTvd": "24620001197656",
-    "tikName": "Щигровская городская"
+    "tikName": "Щигровская городская",
+    "uikName": "УИК №1072",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 1073,
     "uikTvd": "4464035154637",
     "tikTvd": "24620001197656",
-    "tikName": "Щигровская городская"
+    "tikName": "Щигровская городская",
+    "uikName": "УИК №1073",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 1074,
     "uikTvd": "4464035154638",
     "tikTvd": "24620001197656",
-    "tikName": "Щигровская городская"
+    "tikName": "Щигровская городская",
+    "uikName": "УИК №1074",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 1075,
     "uikTvd": "4464035154639",
     "tikTvd": "24620001197656",
-    "tikName": "Щигровская городская"
+    "tikName": "Щигровская городская",
+    "uikName": "УИК №1075",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 1076,
     "uikTvd": "4464035154640",
     "tikTvd": "24620001197656",
-    "tikName": "Щигровская городская"
+    "tikName": "Щигровская городская",
+    "uikName": "УИК №1076",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 1077,
     "uikTvd": "4464035154641",
     "tikTvd": "24620001197656",
-    "tikName": "Щигровская городская"
+    "tikName": "Щигровская городская",
+    "uikName": "УИК №1077",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 1078,
     "uikTvd": "4464035154642",
     "tikTvd": "24620001197656",
-    "tikName": "Щигровская городская"
+    "tikName": "Щигровская городская",
+    "uikName": "УИК №1078",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 1079,
     "uikTvd": "4464035154643",
     "tikTvd": "24620001197656",
-    "tikName": "Щигровская городская"
+    "tikName": "Щигровская городская",
+    "uikName": "УИК №1079",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 1080,
     "uikTvd": "4464035154644",
     "tikTvd": "24620001197656",
-    "tikName": "Щигровская городская"
+    "tikName": "Щигровская городская",
+    "uikName": "УИК №1080",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 1081,
     "uikTvd": "4464031281890",
     "tikTvd": "24620001197298",
-    "tikName": "Щигровская"
+    "tikName": "Щигровская",
+    "uikName": "УИК №1081",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 1082,
     "uikTvd": "4464031281891",
     "tikTvd": "24620001197298",
-    "tikName": "Щигровская"
+    "tikName": "Щигровская",
+    "uikName": "УИК №1082",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 1083,
     "uikTvd": "4464031281892",
     "tikTvd": "24620001197298",
-    "tikName": "Щигровская"
+    "tikName": "Щигровская",
+    "uikName": "УИК №1083",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 1084,
     "uikTvd": "4464031281893",
     "tikTvd": "24620001197298",
-    "tikName": "Щигровская"
+    "tikName": "Щигровская",
+    "uikName": "УИК №1084",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 1085,
     "uikTvd": "4464031281894",
     "tikTvd": "24620001197298",
-    "tikName": "Щигровская"
+    "tikName": "Щигровская",
+    "uikName": "УИК №1085",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 1086,
     "uikTvd": "4464031281895",
     "tikTvd": "24620001197298",
-    "tikName": "Щигровская"
+    "tikName": "Щигровская",
+    "uikName": "УИК №1086",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 1087,
     "uikTvd": "4464031281896",
     "tikTvd": "24620001197298",
-    "tikName": "Щигровская"
+    "tikName": "Щигровская",
+    "uikName": "УИК №1087",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 1088,
     "uikTvd": "4464031281897",
     "tikTvd": "24620001197298",
-    "tikName": "Щигровская"
+    "tikName": "Щигровская",
+    "uikName": "УИК №1088",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 1089,
     "uikTvd": "4464031281898",
     "tikTvd": "24620001197298",
-    "tikName": "Щигровская"
+    "tikName": "Щигровская",
+    "uikName": "УИК №1089",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 1090,
     "uikTvd": "4464031281899",
     "tikTvd": "24620001197298",
-    "tikName": "Щигровская"
+    "tikName": "Щигровская",
+    "uikName": "УИК №1090",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 1091,
     "uikTvd": "4464031281900",
     "tikTvd": "24620001197298",
-    "tikName": "Щигровская"
+    "tikName": "Щигровская",
+    "uikName": "УИК №1091",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 1092,
     "uikTvd": "4464031281901",
     "tikTvd": "24620001197298",
-    "tikName": "Щигровская"
+    "tikName": "Щигровская",
+    "uikName": "УИК №1092",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 1093,
     "uikTvd": "4464031281902",
     "tikTvd": "24620001197298",
-    "tikName": "Щигровская"
+    "tikName": "Щигровская",
+    "uikName": "УИК №1093",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 1094,
     "uikTvd": "4464031281903",
     "tikTvd": "24620001197298",
-    "tikName": "Щигровская"
+    "tikName": "Щигровская",
+    "uikName": "УИК №1094",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 1095,
     "uikTvd": "4464031281904",
     "tikTvd": "24620001197298",
-    "tikName": "Щигровская"
+    "tikName": "Щигровская",
+    "uikName": "УИК №1095",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 1096,
     "uikTvd": "4464031281905",
     "tikTvd": "24620001197298",
-    "tikName": "Щигровская"
+    "tikName": "Щигровская",
+    "uikName": "УИК №1096",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 1097,
     "uikTvd": "4464031281906",
     "tikTvd": "24620001197298",
-    "tikName": "Щигровская"
+    "tikName": "Щигровская",
+    "uikName": "УИК №1097",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 1098,
     "uikTvd": "4464031281907",
     "tikTvd": "24620001197298",
-    "tikName": "Щигровская"
+    "tikName": "Щигровская",
+    "uikName": "УИК №1098",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 1099,
     "uikTvd": "4464031281908",
     "tikTvd": "24620001197298",
-    "tikName": "Щигровская"
+    "tikName": "Щигровская",
+    "uikName": "УИК №1099",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 1100,
     "uikTvd": "4464031281909",
     "tikTvd": "24620001197298",
-    "tikName": "Щигровская"
+    "tikName": "Щигровская",
+    "uikName": "УИК №1100",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 1101,
     "uikTvd": "4464031281910",
     "tikTvd": "24620001197298",
-    "tikName": "Щигровская"
+    "tikName": "Щигровская",
+    "uikName": "УИК №1101",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 1102,
     "uikTvd": "4464031281911",
     "tikTvd": "24620001197298",
-    "tikName": "Щигровская"
+    "tikName": "Щигровская",
+    "uikName": "УИК №1102",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 1103,
     "uikTvd": "4464031281912",
     "tikTvd": "24620001197298",
-    "tikName": "Щигровская"
+    "tikName": "Щигровская",
+    "uikName": "УИК №1103",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 1104,
     "uikTvd": "4464031281913",
     "tikTvd": "24620001197298",
-    "tikName": "Щигровская"
+    "tikName": "Щигровская",
+    "uikName": "УИК №1104",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 1105,
     "uikTvd": "4464031281914",
     "tikTvd": "24620001197298",
-    "tikName": "Щигровская"
+    "tikName": "Щигровская",
+    "uikName": "УИК №1105",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 1106,
     "uikTvd": "4464031281915",
     "tikTvd": "24620001197298",
-    "tikName": "Щигровская"
+    "tikName": "Щигровская",
+    "uikName": "УИК №1106",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 1107,
     "uikTvd": "4464031281916",
     "tikTvd": "24620001197298",
-    "tikName": "Щигровская"
+    "tikName": "Щигровская",
+    "uikName": "УИК №1107",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 1108,
     "uikTvd": "4464013564714",
     "tikTvd": "24620001197286",
-    "tikName": "Курск, Центральная №1"
+    "tikName": "Курск, Центральная №1",
+    "uikName": "УИК №1108",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 1109,
     "uikTvd": "4464013564715",
     "tikTvd": "24620001197286",
-    "tikName": "Курск, Центральная №1"
+    "tikName": "Курск, Центральная №1",
+    "uikName": "УИК №1109",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 1110,
     "uikTvd": "4464013564716",
     "tikTvd": "24620001197286",
-    "tikName": "Курск, Центральная №1"
+    "tikName": "Курск, Центральная №1",
+    "uikName": "УИК №1110",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 1111,
     "uikTvd": "4464006303284",
     "tikTvd": "24620001197289",
-    "tikName": "Железногорская городская"
+    "tikName": "Железногорская городская",
+    "uikName": "УИК №1111",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 1112,
     "uikTvd": "4464011258352",
     "tikTvd": "24620001197658",
-    "tikName": "Курск, Железнодорожная"
+    "tikName": "Курск, Железнодорожная",
+    "uikName": "УИК №1112",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 1113,
     "uikTvd": "4464011258354",
     "tikTvd": "24620001197658",
-    "tikName": "Курск, Железнодорожная"
+    "tikName": "Курск, Железнодорожная",
+    "uikName": "УИК №1113",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 1114,
     "uikTvd": "4464012381722",
     "tikTvd": "24620001197657",
-    "tikName": "Курск, Сеймская"
+    "tikName": "Курск, Сеймская",
+    "uikName": "УИК №1114",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 1115,
     "uikTvd": "4464012381724",
     "tikTvd": "24620001197657",
-    "tikName": "Курск, Сеймская"
+    "tikName": "Курск, Сеймская",
+    "uikName": "УИК №1115",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883562",
+    "oikName": "Курская область – Сеймский",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100225883562"
+    }
   },
   {
     "uikNumber": 1116,
     "uikTvd": "4464013571960",
     "tikTvd": "24620001197286",
-    "tikName": "Курск, Центральная №1"
+    "tikName": "Курск, Центральная №1",
+    "uikName": "УИК №1116",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 1117,
     "uikTvd": "4464013571962",
     "tikTvd": "24620001197286",
-    "tikName": "Курск, Центральная №1"
+    "tikName": "Курск, Центральная №1",
+    "uikName": "УИК №1117",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 1118,
     "uikTvd": "4464013571963",
     "tikTvd": "24620001197286",
-    "tikName": "Курск, Центральная №1"
+    "tikName": "Курск, Центральная №1",
+    "uikName": "УИК №1118",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 1119,
     "uikTvd": "4464013571964",
     "tikTvd": "24620001197286",
-    "tikName": "Курск, Центральная №1"
+    "tikName": "Курск, Центральная №1",
+    "uikName": "УИК №1119",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 1120,
     "uikTvd": "4464036112120",
     "tikTvd": "24620001197282",
-    "tikName": "Курск, Центральная №2"
+    "tikName": "Курск, Центральная №2",
+    "uikName": "УИК №1120",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 1121,
     "uikTvd": "4464036112122",
     "tikTvd": "24620001197282",
-    "tikName": "Курск, Центральная №2"
+    "tikName": "Курск, Центральная №2",
+    "uikName": "УИК №1121",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 1122,
     "uikTvd": "4464036112124",
     "tikTvd": "24620001197282",
-    "tikName": "Курск, Центральная №2"
+    "tikName": "Курск, Центральная №2",
+    "uikName": "УИК №1122",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 1123,
     "uikTvd": "4464036112126",
     "tikTvd": "24620001197282",
-    "tikName": "Курск, Центральная №2"
+    "tikName": "Курск, Центральная №2",
+    "uikName": "УИК №1123",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   },
   {
     "uikNumber": 8315,
     "uikTvd": "4464013572916",
     "tikTvd": "24620001197286",
-    "tikName": "Курск, Центральная №1"
+    "tikName": "Курск, Центральная №1",
+    "uikName": "УИК №8315",
+    "regionCode": "46",
+    "regionTvd": "100100225883560",
+    "regionName": "Курская область",
+    "oikTvd": "100100225883561",
+    "oikName": "Курская область – Курский",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100225883561"
+    }
   }
 ] satisfies readonly UikTikRelation[];

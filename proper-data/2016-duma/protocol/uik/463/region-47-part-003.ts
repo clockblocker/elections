@@ -43,16 +43,16 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананян Армен Гамлетович": 3,
-      "Габитов Александр Фирович": 4,
-      "Голосов Анатолий Иванович": 8,
-      "Дюбков Вячеслав Александрович": 25,
-      "Кузьмин Николай Алексеевич": 59,
-      "Любушкина Марина Викторовна": 26,
-      "Нарышкин Сергей Евгеньевич": 256,
-      "Перов Виктор Николаевич": 18,
-      "Сенотрусов Александр Иванович": 5,
-      "Скурихин Дмитрий Николаевич": 4
+      "gas:candidate-vibid:2472000752686": 3,
+      "gas:candidate-vibid:2472000751041": 4,
+      "gas:candidate-vibid:2472000754864": 8,
+      "gas:candidate-vibid:2472000711086": 25,
+      "gas:candidate-vibid:2472000749784": 59,
+      "gas:candidate-vibid:2472000749699": 26,
+      "gas:candidate-vibid:2472000754522": 256,
+      "gas:candidate-vibid:2472000744922": 18,
+      "gas:candidate-vibid:2472000754033": 5,
+      "gas:candidate-vibid:2472000749805": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000148&tvd=2472000671397&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671397&type=464",
@@ -103,16 +103,16 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананян Армен Гамлетович": 13,
-      "Габитов Александр Фирович": 5,
-      "Голосов Анатолий Иванович": 14,
-      "Дюбков Вячеслав Александрович": 83,
-      "Кузьмин Николай Алексеевич": 119,
-      "Любушкина Марина Викторовна": 78,
-      "Нарышкин Сергей Евгеньевич": 555,
-      "Перов Виктор Николаевич": 24,
-      "Сенотрусов Александр Иванович": 17,
-      "Скурихин Дмитрий Николаевич": 8
+      "gas:candidate-vibid:2472000752686": 13,
+      "gas:candidate-vibid:2472000751041": 5,
+      "gas:candidate-vibid:2472000754864": 14,
+      "gas:candidate-vibid:2472000711086": 83,
+      "gas:candidate-vibid:2472000749784": 119,
+      "gas:candidate-vibid:2472000749699": 78,
+      "gas:candidate-vibid:2472000754522": 555,
+      "gas:candidate-vibid:2472000744922": 24,
+      "gas:candidate-vibid:2472000754033": 17,
+      "gas:candidate-vibid:2472000749805": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000148&tvd=2472000671397&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671397&type=464",
@@ -163,16 +163,16 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананян Армен Гамлетович": 3,
-      "Габитов Александр Фирович": 2,
-      "Голосов Анатолий Иванович": 8,
-      "Дюбков Вячеслав Александрович": 41,
-      "Кузьмин Николай Алексеевич": 43,
-      "Любушкина Марина Викторовна": 21,
-      "Нарышкин Сергей Евгеньевич": 157,
-      "Перов Виктор Николаевич": 15,
-      "Сенотрусов Александр Иванович": 4,
-      "Скурихин Дмитрий Николаевич": 4
+      "gas:candidate-vibid:2472000752686": 3,
+      "gas:candidate-vibid:2472000751041": 2,
+      "gas:candidate-vibid:2472000754864": 8,
+      "gas:candidate-vibid:2472000711086": 41,
+      "gas:candidate-vibid:2472000749784": 43,
+      "gas:candidate-vibid:2472000749699": 21,
+      "gas:candidate-vibid:2472000754522": 157,
+      "gas:candidate-vibid:2472000744922": 15,
+      "gas:candidate-vibid:2472000754033": 4,
+      "gas:candidate-vibid:2472000749805": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000148&tvd=2472000671397&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671397&type=464",
@@ -223,16 +223,16 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананян Армен Гамлетович": 4,
-      "Габитов Александр Фирович": 0,
-      "Голосов Анатолий Иванович": 8,
-      "Дюбков Вячеслав Александрович": 31,
-      "Кузьмин Николай Алексеевич": 36,
-      "Любушкина Марина Викторовна": 18,
-      "Нарышкин Сергей Евгеньевич": 294,
-      "Перов Виктор Николаевич": 18,
-      "Сенотрусов Александр Иванович": 3,
-      "Скурихин Дмитрий Николаевич": 1
+      "gas:candidate-vibid:2472000752686": 4,
+      "gas:candidate-vibid:2472000751041": 0,
+      "gas:candidate-vibid:2472000754864": 8,
+      "gas:candidate-vibid:2472000711086": 31,
+      "gas:candidate-vibid:2472000749784": 36,
+      "gas:candidate-vibid:2472000749699": 18,
+      "gas:candidate-vibid:2472000754522": 294,
+      "gas:candidate-vibid:2472000744922": 18,
+      "gas:candidate-vibid:2472000754033": 3,
+      "gas:candidate-vibid:2472000749805": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000148&tvd=2472000671397&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671397&type=464",
@@ -283,16 +283,16 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананян Армен Гамлетович": 0,
-      "Габитов Александр Фирович": 1,
-      "Голосов Анатолий Иванович": 2,
-      "Дюбков Вячеслав Александрович": 12,
-      "Кузьмин Николай Алексеевич": 15,
-      "Любушкина Марина Викторовна": 9,
-      "Нарышкин Сергей Евгеньевич": 94,
-      "Перов Виктор Николаевич": 9,
-      "Сенотрусов Александр Иванович": 0,
-      "Скурихин Дмитрий Николаевич": 3
+      "gas:candidate-vibid:2472000752686": 0,
+      "gas:candidate-vibid:2472000751041": 1,
+      "gas:candidate-vibid:2472000754864": 2,
+      "gas:candidate-vibid:2472000711086": 12,
+      "gas:candidate-vibid:2472000749784": 15,
+      "gas:candidate-vibid:2472000749699": 9,
+      "gas:candidate-vibid:2472000754522": 94,
+      "gas:candidate-vibid:2472000744922": 9,
+      "gas:candidate-vibid:2472000754033": 0,
+      "gas:candidate-vibid:2472000749805": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000148&tvd=2472000671397&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671397&type=464",
@@ -343,16 +343,16 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананян Армен Гамлетович": 5,
-      "Габитов Александр Фирович": 3,
-      "Голосов Анатолий Иванович": 8,
-      "Дюбков Вячеслав Александрович": 20,
-      "Кузьмин Николай Алексеевич": 78,
-      "Любушкина Марина Викторовна": 18,
-      "Нарышкин Сергей Евгеньевич": 218,
-      "Перов Виктор Николаевич": 22,
-      "Сенотрусов Александр Иванович": 1,
-      "Скурихин Дмитрий Николаевич": 3
+      "gas:candidate-vibid:2472000752686": 5,
+      "gas:candidate-vibid:2472000751041": 3,
+      "gas:candidate-vibid:2472000754864": 8,
+      "gas:candidate-vibid:2472000711086": 20,
+      "gas:candidate-vibid:2472000749784": 78,
+      "gas:candidate-vibid:2472000749699": 18,
+      "gas:candidate-vibid:2472000754522": 218,
+      "gas:candidate-vibid:2472000744922": 22,
+      "gas:candidate-vibid:2472000754033": 1,
+      "gas:candidate-vibid:2472000749805": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000148&tvd=2472000671397&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671397&type=464",
@@ -403,16 +403,16 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананян Армен Гамлетович": 0,
-      "Габитов Александр Фирович": 5,
-      "Голосов Анатолий Иванович": 5,
-      "Дюбков Вячеслав Александрович": 40,
-      "Кузьмин Николай Алексеевич": 34,
-      "Любушкина Марина Викторовна": 18,
-      "Нарышкин Сергей Евгеньевич": 196,
-      "Перов Виктор Николаевич": 14,
-      "Сенотрусов Александр Иванович": 3,
-      "Скурихин Дмитрий Николаевич": 4
+      "gas:candidate-vibid:2472000752686": 0,
+      "gas:candidate-vibid:2472000751041": 5,
+      "gas:candidate-vibid:2472000754864": 5,
+      "gas:candidate-vibid:2472000711086": 40,
+      "gas:candidate-vibid:2472000749784": 34,
+      "gas:candidate-vibid:2472000749699": 18,
+      "gas:candidate-vibid:2472000754522": 196,
+      "gas:candidate-vibid:2472000744922": 14,
+      "gas:candidate-vibid:2472000754033": 3,
+      "gas:candidate-vibid:2472000749805": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000148&tvd=2472000671397&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671397&type=464",
@@ -463,16 +463,16 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананян Армен Гамлетович": 3,
-      "Габитов Александр Фирович": 1,
-      "Голосов Анатолий Иванович": 3,
-      "Дюбков Вячеслав Александрович": 14,
-      "Кузьмин Николай Алексеевич": 11,
-      "Любушкина Марина Викторовна": 5,
-      "Нарышкин Сергей Евгеньевич": 48,
-      "Перов Виктор Николаевич": 7,
-      "Сенотрусов Александр Иванович": 0,
-      "Скурихин Дмитрий Николаевич": 3
+      "gas:candidate-vibid:2472000752686": 3,
+      "gas:candidate-vibid:2472000751041": 1,
+      "gas:candidate-vibid:2472000754864": 3,
+      "gas:candidate-vibid:2472000711086": 14,
+      "gas:candidate-vibid:2472000749784": 11,
+      "gas:candidate-vibid:2472000749699": 5,
+      "gas:candidate-vibid:2472000754522": 48,
+      "gas:candidate-vibid:2472000744922": 7,
+      "gas:candidate-vibid:2472000754033": 0,
+      "gas:candidate-vibid:2472000749805": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000148&tvd=2472000671397&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671397&type=464",
@@ -523,16 +523,16 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананян Армен Гамлетович": 2,
-      "Габитов Александр Фирович": 1,
-      "Голосов Анатолий Иванович": 8,
-      "Дюбков Вячеслав Александрович": 17,
-      "Кузьмин Николай Алексеевич": 27,
-      "Любушкина Марина Викторовна": 19,
-      "Нарышкин Сергей Евгеньевич": 147,
-      "Перов Виктор Николаевич": 8,
-      "Сенотрусов Александр Иванович": 0,
-      "Скурихин Дмитрий Николаевич": 0
+      "gas:candidate-vibid:2472000752686": 2,
+      "gas:candidate-vibid:2472000751041": 1,
+      "gas:candidate-vibid:2472000754864": 8,
+      "gas:candidate-vibid:2472000711086": 17,
+      "gas:candidate-vibid:2472000749784": 27,
+      "gas:candidate-vibid:2472000749699": 19,
+      "gas:candidate-vibid:2472000754522": 147,
+      "gas:candidate-vibid:2472000744922": 8,
+      "gas:candidate-vibid:2472000754033": 0,
+      "gas:candidate-vibid:2472000749805": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000148&tvd=2472000671397&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671397&type=464",
@@ -583,16 +583,16 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананян Армен Гамлетович": 6,
-      "Габитов Александр Фирович": 2,
-      "Голосов Анатолий Иванович": 5,
-      "Дюбков Вячеслав Александрович": 25,
-      "Кузьмин Николай Алексеевич": 23,
-      "Любушкина Марина Викторовна": 22,
-      "Нарышкин Сергей Евгеньевич": 112,
-      "Перов Виктор Николаевич": 9,
-      "Сенотрусов Александр Иванович": 3,
-      "Скурихин Дмитрий Николаевич": 2
+      "gas:candidate-vibid:2472000752686": 6,
+      "gas:candidate-vibid:2472000751041": 2,
+      "gas:candidate-vibid:2472000754864": 5,
+      "gas:candidate-vibid:2472000711086": 25,
+      "gas:candidate-vibid:2472000749784": 23,
+      "gas:candidate-vibid:2472000749699": 22,
+      "gas:candidate-vibid:2472000754522": 112,
+      "gas:candidate-vibid:2472000744922": 9,
+      "gas:candidate-vibid:2472000754033": 3,
+      "gas:candidate-vibid:2472000749805": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000148&tvd=2472000671397&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671397&type=464",
@@ -643,16 +643,16 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананян Армен Гамлетович": 0,
-      "Габитов Александр Фирович": 2,
-      "Голосов Анатолий Иванович": 7,
-      "Дюбков Вячеслав Александрович": 36,
-      "Кузьмин Николай Алексеевич": 63,
-      "Любушкина Марина Викторовна": 24,
-      "Нарышкин Сергей Евгеньевич": 203,
-      "Перов Виктор Николаевич": 15,
-      "Сенотрусов Александр Иванович": 3,
-      "Скурихин Дмитрий Николаевич": 6
+      "gas:candidate-vibid:2472000752686": 0,
+      "gas:candidate-vibid:2472000751041": 2,
+      "gas:candidate-vibid:2472000754864": 7,
+      "gas:candidate-vibid:2472000711086": 36,
+      "gas:candidate-vibid:2472000749784": 63,
+      "gas:candidate-vibid:2472000749699": 24,
+      "gas:candidate-vibid:2472000754522": 203,
+      "gas:candidate-vibid:2472000744922": 15,
+      "gas:candidate-vibid:2472000754033": 3,
+      "gas:candidate-vibid:2472000749805": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000148&tvd=2472000671397&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671397&type=464",
@@ -703,16 +703,16 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананян Армен Гамлетович": 2,
-      "Габитов Александр Фирович": 2,
-      "Голосов Анатолий Иванович": 4,
-      "Дюбков Вячеслав Александрович": 15,
-      "Кузьмин Николай Алексеевич": 40,
-      "Любушкина Марина Викторовна": 9,
-      "Нарышкин Сергей Евгеньевич": 134,
-      "Перов Виктор Николаевич": 10,
-      "Сенотрусов Александр Иванович": 1,
-      "Скурихин Дмитрий Николаевич": 2
+      "gas:candidate-vibid:2472000752686": 2,
+      "gas:candidate-vibid:2472000751041": 2,
+      "gas:candidate-vibid:2472000754864": 4,
+      "gas:candidate-vibid:2472000711086": 15,
+      "gas:candidate-vibid:2472000749784": 40,
+      "gas:candidate-vibid:2472000749699": 9,
+      "gas:candidate-vibid:2472000754522": 134,
+      "gas:candidate-vibid:2472000744922": 10,
+      "gas:candidate-vibid:2472000754033": 1,
+      "gas:candidate-vibid:2472000749805": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000148&tvd=2472000671397&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671397&type=464",
@@ -763,16 +763,16 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананян Армен Гамлетович": 3,
-      "Габитов Александр Фирович": 0,
-      "Голосов Анатолий Иванович": 2,
-      "Дюбков Вячеслав Александрович": 27,
-      "Кузьмин Николай Алексеевич": 21,
-      "Любушкина Марина Викторовна": 10,
-      "Нарышкин Сергей Евгеньевич": 167,
-      "Перов Виктор Николаевич": 7,
-      "Сенотрусов Александр Иванович": 1,
-      "Скурихин Дмитрий Николаевич": 5
+      "gas:candidate-vibid:2472000752686": 3,
+      "gas:candidate-vibid:2472000751041": 0,
+      "gas:candidate-vibid:2472000754864": 2,
+      "gas:candidate-vibid:2472000711086": 27,
+      "gas:candidate-vibid:2472000749784": 21,
+      "gas:candidate-vibid:2472000749699": 10,
+      "gas:candidate-vibid:2472000754522": 167,
+      "gas:candidate-vibid:2472000744922": 7,
+      "gas:candidate-vibid:2472000754033": 1,
+      "gas:candidate-vibid:2472000749805": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000148&tvd=2472000671397&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671397&type=464",
@@ -823,16 +823,16 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананян Армен Гамлетович": 6,
-      "Габитов Александр Фирович": 9,
-      "Голосов Анатолий Иванович": 13,
-      "Дюбков Вячеслав Александрович": 56,
-      "Кузьмин Николай Алексеевич": 88,
-      "Любушкина Марина Викторовна": 54,
-      "Нарышкин Сергей Евгеньевич": 320,
-      "Перов Виктор Николаевич": 29,
-      "Сенотрусов Александр Иванович": 5,
-      "Скурихин Дмитрий Николаевич": 11
+      "gas:candidate-vibid:2472000752686": 6,
+      "gas:candidate-vibid:2472000751041": 9,
+      "gas:candidate-vibid:2472000754864": 13,
+      "gas:candidate-vibid:2472000711086": 56,
+      "gas:candidate-vibid:2472000749784": 88,
+      "gas:candidate-vibid:2472000749699": 54,
+      "gas:candidate-vibid:2472000754522": 320,
+      "gas:candidate-vibid:2472000744922": 29,
+      "gas:candidate-vibid:2472000754033": 5,
+      "gas:candidate-vibid:2472000749805": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000148&tvd=2472000671397&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671397&type=464",
@@ -883,16 +883,16 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананян Армен Гамлетович": 6,
-      "Габитов Александр Фирович": 1,
-      "Голосов Анатолий Иванович": 14,
-      "Дюбков Вячеслав Александрович": 49,
-      "Кузьмин Николай Алексеевич": 44,
-      "Любушкина Марина Викторовна": 44,
-      "Нарышкин Сергей Евгеньевич": 429,
-      "Перов Виктор Николаевич": 32,
-      "Сенотрусов Александр Иванович": 10,
-      "Скурихин Дмитрий Николаевич": 3
+      "gas:candidate-vibid:2472000752686": 6,
+      "gas:candidate-vibid:2472000751041": 1,
+      "gas:candidate-vibid:2472000754864": 14,
+      "gas:candidate-vibid:2472000711086": 49,
+      "gas:candidate-vibid:2472000749784": 44,
+      "gas:candidate-vibid:2472000749699": 44,
+      "gas:candidate-vibid:2472000754522": 429,
+      "gas:candidate-vibid:2472000744922": 32,
+      "gas:candidate-vibid:2472000754033": 10,
+      "gas:candidate-vibid:2472000749805": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000148&tvd=2472000671397&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671397&type=464",
@@ -943,16 +943,16 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананян Армен Гамлетович": 4,
-      "Габитов Александр Фирович": 6,
-      "Голосов Анатолий Иванович": 10,
-      "Дюбков Вячеслав Александрович": 49,
-      "Кузьмин Николай Алексеевич": 37,
-      "Любушкина Марина Викторовна": 29,
-      "Нарышкин Сергей Евгеньевич": 275,
-      "Перов Виктор Николаевич": 16,
-      "Сенотрусов Александр Иванович": 6,
-      "Скурихин Дмитрий Николаевич": 7
+      "gas:candidate-vibid:2472000752686": 4,
+      "gas:candidate-vibid:2472000751041": 6,
+      "gas:candidate-vibid:2472000754864": 10,
+      "gas:candidate-vibid:2472000711086": 49,
+      "gas:candidate-vibid:2472000749784": 37,
+      "gas:candidate-vibid:2472000749699": 29,
+      "gas:candidate-vibid:2472000754522": 275,
+      "gas:candidate-vibid:2472000744922": 16,
+      "gas:candidate-vibid:2472000754033": 6,
+      "gas:candidate-vibid:2472000749805": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000148&tvd=2472000671397&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671397&type=464",
@@ -1003,16 +1003,16 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананян Армен Гамлетович": 6,
-      "Габитов Александр Фирович": 6,
-      "Голосов Анатолий Иванович": 17,
-      "Дюбков Вячеслав Александрович": 7,
-      "Кузьмин Николай Алексеевич": 14,
-      "Любушкина Марина Викторовна": 13,
-      "Нарышкин Сергей Евгеньевич": 129,
-      "Перов Виктор Николаевич": 7,
-      "Сенотрусов Александр Иванович": 54,
-      "Скурихин Дмитрий Николаевич": 22
+      "gas:candidate-vibid:2472000752686": 6,
+      "gas:candidate-vibid:2472000751041": 6,
+      "gas:candidate-vibid:2472000754864": 17,
+      "gas:candidate-vibid:2472000711086": 7,
+      "gas:candidate-vibid:2472000749784": 14,
+      "gas:candidate-vibid:2472000749699": 13,
+      "gas:candidate-vibid:2472000754522": 129,
+      "gas:candidate-vibid:2472000744922": 7,
+      "gas:candidate-vibid:2472000754033": 54,
+      "gas:candidate-vibid:2472000749805": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000148&tvd=2472000671397&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671397&type=464",
@@ -1063,16 +1063,16 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананян Армен Гамлетович": 2,
-      "Габитов Александр Фирович": 1,
-      "Голосов Анатолий Иванович": 8,
-      "Дюбков Вячеслав Александрович": 44,
-      "Кузьмин Николай Алексеевич": 35,
-      "Любушкина Марина Викторовна": 12,
-      "Нарышкин Сергей Евгеньевич": 474,
-      "Перов Виктор Николаевич": 4,
-      "Сенотрусов Александр Иванович": 9,
-      "Скурихин Дмитрий Николаевич": 3
+      "gas:candidate-vibid:2472000752686": 2,
+      "gas:candidate-vibid:2472000751041": 1,
+      "gas:candidate-vibid:2472000754864": 8,
+      "gas:candidate-vibid:2472000711086": 44,
+      "gas:candidate-vibid:2472000749784": 35,
+      "gas:candidate-vibid:2472000749699": 12,
+      "gas:candidate-vibid:2472000754522": 474,
+      "gas:candidate-vibid:2472000744922": 4,
+      "gas:candidate-vibid:2472000754033": 9,
+      "gas:candidate-vibid:2472000749805": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000148&tvd=2472000671398&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671398&type=464",
@@ -1123,16 +1123,16 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананян Армен Гамлетович": 9,
-      "Габитов Александр Фирович": 0,
-      "Голосов Анатолий Иванович": 16,
-      "Дюбков Вячеслав Александрович": 6,
-      "Кузьмин Николай Алексеевич": 59,
-      "Любушкина Марина Викторовна": 18,
-      "Нарышкин Сергей Евгеньевич": 260,
-      "Перов Виктор Николаевич": 9,
-      "Сенотрусов Александр Иванович": 11,
-      "Скурихин Дмитрий Николаевич": 12
+      "gas:candidate-vibid:2472000752686": 9,
+      "gas:candidate-vibid:2472000751041": 0,
+      "gas:candidate-vibid:2472000754864": 16,
+      "gas:candidate-vibid:2472000711086": 6,
+      "gas:candidate-vibid:2472000749784": 59,
+      "gas:candidate-vibid:2472000749699": 18,
+      "gas:candidate-vibid:2472000754522": 260,
+      "gas:candidate-vibid:2472000744922": 9,
+      "gas:candidate-vibid:2472000754033": 11,
+      "gas:candidate-vibid:2472000749805": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000148&tvd=2472000671398&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671398&type=464",
@@ -1183,16 +1183,16 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананян Армен Гамлетович": 4,
-      "Габитов Александр Фирович": 0,
-      "Голосов Анатолий Иванович": 9,
-      "Дюбков Вячеслав Александрович": 24,
-      "Кузьмин Николай Алексеевич": 80,
-      "Любушкина Марина Викторовна": 23,
-      "Нарышкин Сергей Евгеньевич": 184,
-      "Перов Виктор Николаевич": 14,
-      "Сенотрусов Александр Иванович": 191,
-      "Скурихин Дмитрий Николаевич": 7
+      "gas:candidate-vibid:2472000752686": 4,
+      "gas:candidate-vibid:2472000751041": 0,
+      "gas:candidate-vibid:2472000754864": 9,
+      "gas:candidate-vibid:2472000711086": 24,
+      "gas:candidate-vibid:2472000749784": 80,
+      "gas:candidate-vibid:2472000749699": 23,
+      "gas:candidate-vibid:2472000754522": 184,
+      "gas:candidate-vibid:2472000744922": 14,
+      "gas:candidate-vibid:2472000754033": 191,
+      "gas:candidate-vibid:2472000749805": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000148&tvd=2472000671398&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671398&type=464",
@@ -1243,16 +1243,16 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананян Армен Гамлетович": 24,
-      "Габитов Александр Фирович": 21,
-      "Голосов Анатолий Иванович": 26,
-      "Дюбков Вячеслав Александрович": 86,
-      "Кузьмин Николай Алексеевич": 82,
-      "Любушкина Марина Викторовна": 38,
-      "Нарышкин Сергей Евгеньевич": 953,
-      "Перов Виктор Николаевич": 12,
-      "Сенотрусов Александр Иванович": 144,
-      "Скурихин Дмитрий Николаевич": 12
+      "gas:candidate-vibid:2472000752686": 24,
+      "gas:candidate-vibid:2472000751041": 21,
+      "gas:candidate-vibid:2472000754864": 26,
+      "gas:candidate-vibid:2472000711086": 86,
+      "gas:candidate-vibid:2472000749784": 82,
+      "gas:candidate-vibid:2472000749699": 38,
+      "gas:candidate-vibid:2472000754522": 953,
+      "gas:candidate-vibid:2472000744922": 12,
+      "gas:candidate-vibid:2472000754033": 144,
+      "gas:candidate-vibid:2472000749805": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000148&tvd=2472000671398&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671398&type=464",
@@ -1303,16 +1303,16 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананян Армен Гамлетович": 4,
-      "Габитов Александр Фирович": 2,
-      "Голосов Анатолий Иванович": 7,
-      "Дюбков Вячеслав Александрович": 25,
-      "Кузьмин Николай Алексеевич": 39,
-      "Любушкина Марина Викторовна": 11,
-      "Нарышкин Сергей Евгеньевич": 113,
-      "Перов Виктор Николаевич": 9,
-      "Сенотрусов Александр Иванович": 101,
-      "Скурихин Дмитрий Николаевич": 8
+      "gas:candidate-vibid:2472000752686": 4,
+      "gas:candidate-vibid:2472000751041": 2,
+      "gas:candidate-vibid:2472000754864": 7,
+      "gas:candidate-vibid:2472000711086": 25,
+      "gas:candidate-vibid:2472000749784": 39,
+      "gas:candidate-vibid:2472000749699": 11,
+      "gas:candidate-vibid:2472000754522": 113,
+      "gas:candidate-vibid:2472000744922": 9,
+      "gas:candidate-vibid:2472000754033": 101,
+      "gas:candidate-vibid:2472000749805": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000148&tvd=2472000671398&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671398&type=464",
@@ -1363,16 +1363,16 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананян Армен Гамлетович": 4,
-      "Габитов Александр Фирович": 3,
-      "Голосов Анатолий Иванович": 4,
-      "Дюбков Вячеслав Александрович": 15,
-      "Кузьмин Николай Алексеевич": 13,
-      "Любушкина Марина Викторовна": 10,
-      "Нарышкин Сергей Евгеньевич": 68,
-      "Перов Виктор Николаевич": 8,
-      "Сенотрусов Александр Иванович": 23,
-      "Скурихин Дмитрий Николаевич": 1
+      "gas:candidate-vibid:2472000752686": 4,
+      "gas:candidate-vibid:2472000751041": 3,
+      "gas:candidate-vibid:2472000754864": 4,
+      "gas:candidate-vibid:2472000711086": 15,
+      "gas:candidate-vibid:2472000749784": 13,
+      "gas:candidate-vibid:2472000749699": 10,
+      "gas:candidate-vibid:2472000754522": 68,
+      "gas:candidate-vibid:2472000744922": 8,
+      "gas:candidate-vibid:2472000754033": 23,
+      "gas:candidate-vibid:2472000749805": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000148&tvd=2472000671398&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671398&type=464",
@@ -1423,16 +1423,16 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананян Армен Гамлетович": 3,
-      "Габитов Александр Фирович": 2,
-      "Голосов Анатолий Иванович": 0,
-      "Дюбков Вячеслав Александрович": 10,
-      "Кузьмин Николай Алексеевич": 20,
-      "Любушкина Марина Викторовна": 5,
-      "Нарышкин Сергей Евгеньевич": 73,
-      "Перов Виктор Николаевич": 4,
-      "Сенотрусов Александр Иванович": 12,
-      "Скурихин Дмитрий Николаевич": 0
+      "gas:candidate-vibid:2472000752686": 3,
+      "gas:candidate-vibid:2472000751041": 2,
+      "gas:candidate-vibid:2472000754864": 0,
+      "gas:candidate-vibid:2472000711086": 10,
+      "gas:candidate-vibid:2472000749784": 20,
+      "gas:candidate-vibid:2472000749699": 5,
+      "gas:candidate-vibid:2472000754522": 73,
+      "gas:candidate-vibid:2472000744922": 4,
+      "gas:candidate-vibid:2472000754033": 12,
+      "gas:candidate-vibid:2472000749805": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000148&tvd=2472000671398&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671398&type=464",
@@ -1483,16 +1483,16 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананян Армен Гамлетович": 11,
-      "Габитов Александр Фирович": 7,
-      "Голосов Анатолий Иванович": 18,
-      "Дюбков Вячеслав Александрович": 79,
-      "Кузьмин Николай Алексеевич": 143,
-      "Любушкина Марина Викторовна": 79,
-      "Нарышкин Сергей Евгеньевич": 1263,
-      "Перов Виктор Николаевич": 28,
-      "Сенотрусов Александр Иванович": 30,
-      "Скурихин Дмитрий Николаевич": 32
+      "gas:candidate-vibid:2472000752686": 11,
+      "gas:candidate-vibid:2472000751041": 7,
+      "gas:candidate-vibid:2472000754864": 18,
+      "gas:candidate-vibid:2472000711086": 79,
+      "gas:candidate-vibid:2472000749784": 143,
+      "gas:candidate-vibid:2472000749699": 79,
+      "gas:candidate-vibid:2472000754522": 1263,
+      "gas:candidate-vibid:2472000744922": 28,
+      "gas:candidate-vibid:2472000754033": 30,
+      "gas:candidate-vibid:2472000749805": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000148&tvd=2472000671398&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671398&type=464",
@@ -1543,16 +1543,16 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананян Армен Гамлетович": 11,
-      "Габитов Александр Фирович": 3,
-      "Голосов Анатолий Иванович": 6,
-      "Дюбков Вячеслав Александрович": 26,
-      "Кузьмин Николай Алексеевич": 27,
-      "Любушкина Марина Викторовна": 14,
-      "Нарышкин Сергей Евгеньевич": 270,
-      "Перов Виктор Николаевич": 6,
-      "Сенотрусов Александр Иванович": 17,
-      "Скурихин Дмитрий Николаевич": 10
+      "gas:candidate-vibid:2472000752686": 11,
+      "gas:candidate-vibid:2472000751041": 3,
+      "gas:candidate-vibid:2472000754864": 6,
+      "gas:candidate-vibid:2472000711086": 26,
+      "gas:candidate-vibid:2472000749784": 27,
+      "gas:candidate-vibid:2472000749699": 14,
+      "gas:candidate-vibid:2472000754522": 270,
+      "gas:candidate-vibid:2472000744922": 6,
+      "gas:candidate-vibid:2472000754033": 17,
+      "gas:candidate-vibid:2472000749805": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000148&tvd=2472000671398&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671398&type=464",
@@ -1603,16 +1603,16 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананян Армен Гамлетович": 20,
-      "Габитов Александр Фирович": 10,
-      "Голосов Анатолий Иванович": 26,
-      "Дюбков Вячеслав Александрович": 127,
-      "Кузьмин Николай Алексеевич": 119,
-      "Любушкина Марина Викторовна": 85,
-      "Нарышкин Сергей Евгеньевич": 885,
-      "Перов Виктор Николаевич": 49,
-      "Сенотрусов Александр Иванович": 56,
-      "Скурихин Дмитрий Николаевич": 29
+      "gas:candidate-vibid:2472000752686": 20,
+      "gas:candidate-vibid:2472000751041": 10,
+      "gas:candidate-vibid:2472000754864": 26,
+      "gas:candidate-vibid:2472000711086": 127,
+      "gas:candidate-vibid:2472000749784": 119,
+      "gas:candidate-vibid:2472000749699": 85,
+      "gas:candidate-vibid:2472000754522": 885,
+      "gas:candidate-vibid:2472000744922": 49,
+      "gas:candidate-vibid:2472000754033": 56,
+      "gas:candidate-vibid:2472000749805": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000148&tvd=2472000671398&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671398&type=464",
@@ -1663,16 +1663,16 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананян Армен Гамлетович": 26,
-      "Габитов Александр Фирович": 7,
-      "Голосов Анатолий Иванович": 21,
-      "Дюбков Вячеслав Александрович": 97,
-      "Кузьмин Николай Алексеевич": 117,
-      "Любушкина Марина Викторовна": 56,
-      "Нарышкин Сергей Евгеньевич": 857,
-      "Перов Виктор Николаевич": 34,
-      "Сенотрусов Александр Иванович": 35,
-      "Скурихин Дмитрий Николаевич": 40
+      "gas:candidate-vibid:2472000752686": 26,
+      "gas:candidate-vibid:2472000751041": 7,
+      "gas:candidate-vibid:2472000754864": 21,
+      "gas:candidate-vibid:2472000711086": 97,
+      "gas:candidate-vibid:2472000749784": 117,
+      "gas:candidate-vibid:2472000749699": 56,
+      "gas:candidate-vibid:2472000754522": 857,
+      "gas:candidate-vibid:2472000744922": 34,
+      "gas:candidate-vibid:2472000754033": 35,
+      "gas:candidate-vibid:2472000749805": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000148&tvd=2472000671398&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671398&type=464",
@@ -1723,16 +1723,16 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананян Армен Гамлетович": 0,
-      "Габитов Александр Фирович": 0,
-      "Голосов Анатолий Иванович": 0,
-      "Дюбков Вячеслав Александрович": 77,
-      "Кузьмин Николай Алексеевич": 72,
-      "Любушкина Марина Викторовна": 48,
-      "Нарышкин Сергей Евгеньевич": 753,
-      "Перов Виктор Николаевич": 44,
-      "Сенотрусов Александр Иванович": 22,
-      "Скурихин Дмитрий Николаевич": 3
+      "gas:candidate-vibid:2472000752686": 0,
+      "gas:candidate-vibid:2472000751041": 0,
+      "gas:candidate-vibid:2472000754864": 0,
+      "gas:candidate-vibid:2472000711086": 77,
+      "gas:candidate-vibid:2472000749784": 72,
+      "gas:candidate-vibid:2472000749699": 48,
+      "gas:candidate-vibid:2472000754522": 753,
+      "gas:candidate-vibid:2472000744922": 44,
+      "gas:candidate-vibid:2472000754033": 22,
+      "gas:candidate-vibid:2472000749805": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000148&tvd=2472000671398&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671398&type=464",
@@ -1783,16 +1783,16 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананян Армен Гамлетович": 28,
-      "Габитов Александр Фирович": 14,
-      "Голосов Анатолий Иванович": 18,
-      "Дюбков Вячеслав Александрович": 126,
-      "Кузьмин Николай Алексеевич": 81,
-      "Любушкина Марина Викторовна": 63,
-      "Нарышкин Сергей Евгеньевич": 859,
-      "Перов Виктор Николаевич": 20,
-      "Сенотрусов Александр Иванович": 37,
-      "Скурихин Дмитрий Николаевич": 34
+      "gas:candidate-vibid:2472000752686": 28,
+      "gas:candidate-vibid:2472000751041": 14,
+      "gas:candidate-vibid:2472000754864": 18,
+      "gas:candidate-vibid:2472000711086": 126,
+      "gas:candidate-vibid:2472000749784": 81,
+      "gas:candidate-vibid:2472000749699": 63,
+      "gas:candidate-vibid:2472000754522": 859,
+      "gas:candidate-vibid:2472000744922": 20,
+      "gas:candidate-vibid:2472000754033": 37,
+      "gas:candidate-vibid:2472000749805": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000148&tvd=2472000671398&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671398&type=464",
@@ -1843,16 +1843,16 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананян Армен Гамлетович": 8,
-      "Габитов Александр Фирович": 7,
-      "Голосов Анатолий Иванович": 11,
-      "Дюбков Вячеслав Александрович": 64,
-      "Кузьмин Николай Алексеевич": 59,
-      "Любушкина Марина Викторовна": 61,
-      "Нарышкин Сергей Евгеньевич": 372,
-      "Перов Виктор Николаевич": 15,
-      "Сенотрусов Александр Иванович": 38,
-      "Скурихин Дмитрий Николаевич": 24
+      "gas:candidate-vibid:2472000752686": 8,
+      "gas:candidate-vibid:2472000751041": 7,
+      "gas:candidate-vibid:2472000754864": 11,
+      "gas:candidate-vibid:2472000711086": 64,
+      "gas:candidate-vibid:2472000749784": 59,
+      "gas:candidate-vibid:2472000749699": 61,
+      "gas:candidate-vibid:2472000754522": 372,
+      "gas:candidate-vibid:2472000744922": 15,
+      "gas:candidate-vibid:2472000754033": 38,
+      "gas:candidate-vibid:2472000749805": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000148&tvd=2472000671398&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671398&type=464",
@@ -1903,16 +1903,16 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананян Армен Гамлетович": 10,
-      "Габитов Александр Фирович": 7,
-      "Голосов Анатолий Иванович": 9,
-      "Дюбков Вячеслав Александрович": 46,
-      "Кузьмин Николай Алексеевич": 83,
-      "Любушкина Марина Викторовна": 74,
-      "Нарышкин Сергей Евгеньевич": 260,
-      "Перов Виктор Николаевич": 20,
-      "Сенотрусов Александр Иванович": 43,
-      "Скурихин Дмитрий Николаевич": 23
+      "gas:candidate-vibid:2472000752686": 10,
+      "gas:candidate-vibid:2472000751041": 7,
+      "gas:candidate-vibid:2472000754864": 9,
+      "gas:candidate-vibid:2472000711086": 46,
+      "gas:candidate-vibid:2472000749784": 83,
+      "gas:candidate-vibid:2472000749699": 74,
+      "gas:candidate-vibid:2472000754522": 260,
+      "gas:candidate-vibid:2472000744922": 20,
+      "gas:candidate-vibid:2472000754033": 43,
+      "gas:candidate-vibid:2472000749805": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000148&tvd=2472000671398&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671398&type=464",
@@ -1963,16 +1963,16 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананян Армен Гамлетович": 9,
-      "Габитов Александр Фирович": 7,
-      "Голосов Анатолий Иванович": 19,
-      "Дюбков Вячеслав Александрович": 65,
-      "Кузьмин Николай Алексеевич": 107,
-      "Любушкина Марина Викторовна": 82,
-      "Нарышкин Сергей Евгеньевич": 466,
-      "Перов Виктор Николаевич": 35,
-      "Сенотрусов Александр Иванович": 49,
-      "Скурихин Дмитрий Николаевич": 34
+      "gas:candidate-vibid:2472000752686": 9,
+      "gas:candidate-vibid:2472000751041": 7,
+      "gas:candidate-vibid:2472000754864": 19,
+      "gas:candidate-vibid:2472000711086": 65,
+      "gas:candidate-vibid:2472000749784": 107,
+      "gas:candidate-vibid:2472000749699": 82,
+      "gas:candidate-vibid:2472000754522": 466,
+      "gas:candidate-vibid:2472000744922": 35,
+      "gas:candidate-vibid:2472000754033": 49,
+      "gas:candidate-vibid:2472000749805": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000148&tvd=2472000671398&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671398&type=464",
@@ -2023,16 +2023,16 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананян Армен Гамлетович": 12,
-      "Габитов Александр Фирович": 4,
-      "Голосов Анатолий Иванович": 14,
-      "Дюбков Вячеслав Александрович": 48,
-      "Кузьмин Николай Алексеевич": 27,
-      "Любушкина Марина Викторовна": 40,
-      "Нарышкин Сергей Евгеньевич": 235,
-      "Перов Виктор Николаевич": 14,
-      "Сенотрусов Александр Иванович": 33,
-      "Скурихин Дмитрий Николаевич": 19
+      "gas:candidate-vibid:2472000752686": 12,
+      "gas:candidate-vibid:2472000751041": 4,
+      "gas:candidate-vibid:2472000754864": 14,
+      "gas:candidate-vibid:2472000711086": 48,
+      "gas:candidate-vibid:2472000749784": 27,
+      "gas:candidate-vibid:2472000749699": 40,
+      "gas:candidate-vibid:2472000754522": 235,
+      "gas:candidate-vibid:2472000744922": 14,
+      "gas:candidate-vibid:2472000754033": 33,
+      "gas:candidate-vibid:2472000749805": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000148&tvd=2472000671398&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671398&type=464",
@@ -2083,16 +2083,16 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананян Армен Гамлетович": 8,
-      "Габитов Александр Фирович": 2,
-      "Голосов Анатолий Иванович": 6,
-      "Дюбков Вячеслав Александрович": 53,
-      "Кузьмин Николай Алексеевич": 45,
-      "Любушкина Марина Викторовна": 34,
-      "Нарышкин Сергей Евгеньевич": 319,
-      "Перов Виктор Николаевич": 12,
-      "Сенотрусов Александр Иванович": 22,
-      "Скурихин Дмитрий Николаевич": 13
+      "gas:candidate-vibid:2472000752686": 8,
+      "gas:candidate-vibid:2472000751041": 2,
+      "gas:candidate-vibid:2472000754864": 6,
+      "gas:candidate-vibid:2472000711086": 53,
+      "gas:candidate-vibid:2472000749784": 45,
+      "gas:candidate-vibid:2472000749699": 34,
+      "gas:candidate-vibid:2472000754522": 319,
+      "gas:candidate-vibid:2472000744922": 12,
+      "gas:candidate-vibid:2472000754033": 22,
+      "gas:candidate-vibid:2472000749805": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000148&tvd=2472000671398&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671398&type=464",
@@ -2143,16 +2143,16 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананян Армен Гамлетович": 10,
-      "Габитов Александр Фирович": 5,
-      "Голосов Анатолий Иванович": 17,
-      "Дюбков Вячеслав Александрович": 52,
-      "Кузьмин Николай Алексеевич": 70,
-      "Любушкина Марина Викторовна": 44,
-      "Нарышкин Сергей Евгеньевич": 354,
-      "Перов Виктор Николаевич": 14,
-      "Сенотрусов Александр Иванович": 24,
-      "Скурихин Дмитрий Николаевич": 14
+      "gas:candidate-vibid:2472000752686": 10,
+      "gas:candidate-vibid:2472000751041": 5,
+      "gas:candidate-vibid:2472000754864": 17,
+      "gas:candidate-vibid:2472000711086": 52,
+      "gas:candidate-vibid:2472000749784": 70,
+      "gas:candidate-vibid:2472000749699": 44,
+      "gas:candidate-vibid:2472000754522": 354,
+      "gas:candidate-vibid:2472000744922": 14,
+      "gas:candidate-vibid:2472000754033": 24,
+      "gas:candidate-vibid:2472000749805": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000148&tvd=2472000671398&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671398&type=464",
@@ -2203,16 +2203,16 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананян Армен Гамлетович": 0,
-      "Габитов Александр Фирович": 0,
-      "Голосов Анатолий Иванович": 0,
-      "Дюбков Вячеслав Александрович": 48,
-      "Кузьмин Николай Алексеевич": 104,
-      "Любушкина Марина Викторовна": 43,
-      "Нарышкин Сергей Евгеньевич": 698,
-      "Перов Виктор Николаевич": 21,
-      "Сенотрусов Александр Иванович": 0,
-      "Скурихин Дмитрий Николаевич": 26
+      "gas:candidate-vibid:2472000752686": 0,
+      "gas:candidate-vibid:2472000751041": 0,
+      "gas:candidate-vibid:2472000754864": 0,
+      "gas:candidate-vibid:2472000711086": 48,
+      "gas:candidate-vibid:2472000749784": 104,
+      "gas:candidate-vibid:2472000749699": 43,
+      "gas:candidate-vibid:2472000754522": 698,
+      "gas:candidate-vibid:2472000744922": 21,
+      "gas:candidate-vibid:2472000754033": 0,
+      "gas:candidate-vibid:2472000749805": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000148&tvd=2472000671398&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671398&type=464",
@@ -2263,16 +2263,16 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананян Армен Гамлетович": 1,
-      "Габитов Александр Фирович": 1,
-      "Голосов Анатолий Иванович": 0,
-      "Дюбков Вячеслав Александрович": 0,
-      "Кузьмин Николай Алексеевич": 31,
-      "Любушкина Марина Викторовна": 22,
-      "Нарышкин Сергей Евгеньевич": 281,
-      "Перов Виктор Николаевич": 0,
-      "Сенотрусов Александр Иванович": 10,
-      "Скурихин Дмитрий Николаевич": 4
+      "gas:candidate-vibid:2472000752686": 1,
+      "gas:candidate-vibid:2472000751041": 1,
+      "gas:candidate-vibid:2472000754864": 0,
+      "gas:candidate-vibid:2472000711086": 0,
+      "gas:candidate-vibid:2472000749784": 31,
+      "gas:candidate-vibid:2472000749699": 22,
+      "gas:candidate-vibid:2472000754522": 281,
+      "gas:candidate-vibid:2472000744922": 0,
+      "gas:candidate-vibid:2472000754033": 10,
+      "gas:candidate-vibid:2472000749805": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000148&tvd=2472000671398&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671398&type=464",
@@ -2323,16 +2323,16 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананян Армен Гамлетович": 5,
-      "Габитов Александр Фирович": 4,
-      "Голосов Анатолий Иванович": 1,
-      "Дюбков Вячеслав Александрович": 38,
-      "Кузьмин Николай Алексеевич": 38,
-      "Любушкина Марина Викторовна": 34,
-      "Нарышкин Сергей Евгеньевич": 545,
-      "Перов Виктор Николаевич": 17,
-      "Сенотрусов Александр Иванович": 10,
-      "Скурихин Дмитрий Николаевич": 23
+      "gas:candidate-vibid:2472000752686": 5,
+      "gas:candidate-vibid:2472000751041": 4,
+      "gas:candidate-vibid:2472000754864": 1,
+      "gas:candidate-vibid:2472000711086": 38,
+      "gas:candidate-vibid:2472000749784": 38,
+      "gas:candidate-vibid:2472000749699": 34,
+      "gas:candidate-vibid:2472000754522": 545,
+      "gas:candidate-vibid:2472000744922": 17,
+      "gas:candidate-vibid:2472000754033": 10,
+      "gas:candidate-vibid:2472000749805": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000148&tvd=2472000671398&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671398&type=464",
@@ -2383,16 +2383,16 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананян Армен Гамлетович": 8,
-      "Габитов Александр Фирович": 1,
-      "Голосов Анатолий Иванович": 3,
-      "Дюбков Вячеслав Александрович": 29,
-      "Кузьмин Николай Алексеевич": 40,
-      "Любушкина Марина Викторовна": 21,
-      "Нарышкин Сергей Евгеньевич": 182,
-      "Перов Виктор Николаевич": 8,
-      "Сенотрусов Александр Иванович": 3,
-      "Скурихин Дмитрий Николаевич": 5
+      "gas:candidate-vibid:2472000752686": 8,
+      "gas:candidate-vibid:2472000751041": 1,
+      "gas:candidate-vibid:2472000754864": 3,
+      "gas:candidate-vibid:2472000711086": 29,
+      "gas:candidate-vibid:2472000749784": 40,
+      "gas:candidate-vibid:2472000749699": 21,
+      "gas:candidate-vibid:2472000754522": 182,
+      "gas:candidate-vibid:2472000744922": 8,
+      "gas:candidate-vibid:2472000754033": 3,
+      "gas:candidate-vibid:2472000749805": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000148&tvd=2472000671398&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671398&type=464",
@@ -2443,16 +2443,16 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананян Армен Гамлетович": 4,
-      "Габитов Александр Фирович": 1,
-      "Голосов Анатолий Иванович": 2,
-      "Дюбков Вячеслав Александрович": 23,
-      "Кузьмин Николай Алексеевич": 41,
-      "Любушкина Марина Викторовна": 23,
-      "Нарышкин Сергей Евгеньевич": 150,
-      "Перов Виктор Николаевич": 7,
-      "Сенотрусов Александр Иванович": 7,
-      "Скурихин Дмитрий Николаевич": 3
+      "gas:candidate-vibid:2472000752686": 4,
+      "gas:candidate-vibid:2472000751041": 1,
+      "gas:candidate-vibid:2472000754864": 2,
+      "gas:candidate-vibid:2472000711086": 23,
+      "gas:candidate-vibid:2472000749784": 41,
+      "gas:candidate-vibid:2472000749699": 23,
+      "gas:candidate-vibid:2472000754522": 150,
+      "gas:candidate-vibid:2472000744922": 7,
+      "gas:candidate-vibid:2472000754033": 7,
+      "gas:candidate-vibid:2472000749805": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000148&tvd=2472000671398&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671398&type=464",
@@ -2503,16 +2503,16 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананян Армен Гамлетович": 3,
-      "Габитов Александр Фирович": 8,
-      "Голосов Анатолий Иванович": 8,
-      "Дюбков Вячеслав Александрович": 46,
-      "Кузьмин Николай Алексеевич": 53,
-      "Любушкина Марина Викторовна": 49,
-      "Нарышкин Сергей Евгеньевич": 264,
-      "Перов Виктор Николаевич": 15,
-      "Сенотрусов Александр Иванович": 15,
-      "Скурихин Дмитрий Николаевич": 29
+      "gas:candidate-vibid:2472000752686": 3,
+      "gas:candidate-vibid:2472000751041": 8,
+      "gas:candidate-vibid:2472000754864": 8,
+      "gas:candidate-vibid:2472000711086": 46,
+      "gas:candidate-vibid:2472000749784": 53,
+      "gas:candidate-vibid:2472000749699": 49,
+      "gas:candidate-vibid:2472000754522": 264,
+      "gas:candidate-vibid:2472000744922": 15,
+      "gas:candidate-vibid:2472000754033": 15,
+      "gas:candidate-vibid:2472000749805": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000148&tvd=2472000671398&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671398&type=464",
@@ -2563,16 +2563,16 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананян Армен Гамлетович": 6,
-      "Габитов Александр Фирович": 2,
-      "Голосов Анатолий Иванович": 6,
-      "Дюбков Вячеслав Александрович": 35,
-      "Кузьмин Николай Алексеевич": 40,
-      "Любушкина Марина Викторовна": 30,
-      "Нарышкин Сергей Евгеньевич": 196,
-      "Перов Виктор Николаевич": 15,
-      "Сенотрусов Александр Иванович": 14,
-      "Скурихин Дмитрий Николаевич": 30
+      "gas:candidate-vibid:2472000752686": 6,
+      "gas:candidate-vibid:2472000751041": 2,
+      "gas:candidate-vibid:2472000754864": 6,
+      "gas:candidate-vibid:2472000711086": 35,
+      "gas:candidate-vibid:2472000749784": 40,
+      "gas:candidate-vibid:2472000749699": 30,
+      "gas:candidate-vibid:2472000754522": 196,
+      "gas:candidate-vibid:2472000744922": 15,
+      "gas:candidate-vibid:2472000754033": 14,
+      "gas:candidate-vibid:2472000749805": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000148&tvd=2472000671398&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671398&type=464",
@@ -2623,16 +2623,16 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананян Армен Гамлетович": 6,
-      "Габитов Александр Фирович": 1,
-      "Голосов Анатолий Иванович": 9,
-      "Дюбков Вячеслав Александрович": 29,
-      "Кузьмин Николай Алексеевич": 42,
-      "Любушкина Марина Викторовна": 24,
-      "Нарышкин Сергей Евгеньевич": 247,
-      "Перов Виктор Николаевич": 8,
-      "Сенотрусов Александр Иванович": 14,
-      "Скурихин Дмитрий Николаевич": 4
+      "gas:candidate-vibid:2472000752686": 6,
+      "gas:candidate-vibid:2472000751041": 1,
+      "gas:candidate-vibid:2472000754864": 9,
+      "gas:candidate-vibid:2472000711086": 29,
+      "gas:candidate-vibid:2472000749784": 42,
+      "gas:candidate-vibid:2472000749699": 24,
+      "gas:candidate-vibid:2472000754522": 247,
+      "gas:candidate-vibid:2472000744922": 8,
+      "gas:candidate-vibid:2472000754033": 14,
+      "gas:candidate-vibid:2472000749805": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000148&tvd=2472000671398&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671398&type=464",
@@ -2683,16 +2683,16 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананян Армен Гамлетович": 3,
-      "Габитов Александр Фирович": 0,
-      "Голосов Анатолий Иванович": 2,
-      "Дюбков Вячеслав Александрович": 16,
-      "Кузьмин Николай Алексеевич": 24,
-      "Любушкина Марина Викторовна": 8,
-      "Нарышкин Сергей Евгеньевич": 147,
-      "Перов Виктор Николаевич": 2,
-      "Сенотрусов Александр Иванович": 3,
-      "Скурихин Дмитрий Николаевич": 1
+      "gas:candidate-vibid:2472000752686": 3,
+      "gas:candidate-vibid:2472000751041": 0,
+      "gas:candidate-vibid:2472000754864": 2,
+      "gas:candidate-vibid:2472000711086": 16,
+      "gas:candidate-vibid:2472000749784": 24,
+      "gas:candidate-vibid:2472000749699": 8,
+      "gas:candidate-vibid:2472000754522": 147,
+      "gas:candidate-vibid:2472000744922": 2,
+      "gas:candidate-vibid:2472000754033": 3,
+      "gas:candidate-vibid:2472000749805": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000148&tvd=2472000671398&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671398&type=464",
@@ -2743,16 +2743,16 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананян Армен Гамлетович": 3,
-      "Габитов Александр Фирович": 4,
-      "Голосов Анатолий Иванович": 5,
-      "Дюбков Вячеслав Александрович": 34,
-      "Кузьмин Николай Алексеевич": 53,
-      "Любушкина Марина Викторовна": 10,
-      "Нарышкин Сергей Евгеньевич": 117,
-      "Перов Виктор Николаевич": 11,
-      "Сенотрусов Александр Иванович": 4,
-      "Скурихин Дмитрий Николаевич": 2
+      "gas:candidate-vibid:2472000752686": 3,
+      "gas:candidate-vibid:2472000751041": 4,
+      "gas:candidate-vibid:2472000754864": 5,
+      "gas:candidate-vibid:2472000711086": 34,
+      "gas:candidate-vibid:2472000749784": 53,
+      "gas:candidate-vibid:2472000749699": 10,
+      "gas:candidate-vibid:2472000754522": 117,
+      "gas:candidate-vibid:2472000744922": 11,
+      "gas:candidate-vibid:2472000754033": 4,
+      "gas:candidate-vibid:2472000749805": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000148&tvd=2472000671398&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671398&type=464",
@@ -2803,16 +2803,16 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананян Армен Гамлетович": 5,
-      "Габитов Александр Фирович": 4,
-      "Голосов Анатолий Иванович": 6,
-      "Дюбков Вячеслав Александрович": 19,
-      "Кузьмин Николай Алексеевич": 29,
-      "Любушкина Марина Викторовна": 17,
-      "Нарышкин Сергей Евгеньевич": 120,
-      "Перов Виктор Николаевич": 7,
-      "Сенотрусов Александр Иванович": 23,
-      "Скурихин Дмитрий Николаевич": 14
+      "gas:candidate-vibid:2472000752686": 5,
+      "gas:candidate-vibid:2472000751041": 4,
+      "gas:candidate-vibid:2472000754864": 6,
+      "gas:candidate-vibid:2472000711086": 19,
+      "gas:candidate-vibid:2472000749784": 29,
+      "gas:candidate-vibid:2472000749699": 17,
+      "gas:candidate-vibid:2472000754522": 120,
+      "gas:candidate-vibid:2472000744922": 7,
+      "gas:candidate-vibid:2472000754033": 23,
+      "gas:candidate-vibid:2472000749805": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000148&tvd=2472000671398&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671398&type=464",
@@ -2863,16 +2863,16 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананян Армен Гамлетович": 4,
-      "Габитов Александр Фирович": 4,
-      "Голосов Анатолий Иванович": 13,
-      "Дюбков Вячеслав Александрович": 25,
-      "Кузьмин Николай Алексеевич": 43,
-      "Любушкина Марина Викторовна": 15,
-      "Нарышкин Сергей Евгеньевич": 235,
-      "Перов Виктор Николаевич": 12,
-      "Сенотрусов Александр Иванович": 10,
-      "Скурихин Дмитрий Николаевич": 7
+      "gas:candidate-vibid:2472000752686": 4,
+      "gas:candidate-vibid:2472000751041": 4,
+      "gas:candidate-vibid:2472000754864": 13,
+      "gas:candidate-vibid:2472000711086": 25,
+      "gas:candidate-vibid:2472000749784": 43,
+      "gas:candidate-vibid:2472000749699": 15,
+      "gas:candidate-vibid:2472000754522": 235,
+      "gas:candidate-vibid:2472000744922": 12,
+      "gas:candidate-vibid:2472000754033": 10,
+      "gas:candidate-vibid:2472000749805": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000148&tvd=2472000671398&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671398&type=464",
@@ -2923,16 +2923,16 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананян Армен Гамлетович": 7,
-      "Габитов Александр Фирович": 2,
-      "Голосов Анатолий Иванович": 11,
-      "Дюбков Вячеслав Александрович": 53,
-      "Кузьмин Николай Алексеевич": 44,
-      "Любушкина Марина Викторовна": 42,
-      "Нарышкин Сергей Евгеньевич": 473,
-      "Перов Виктор Николаевич": 32,
-      "Сенотрусов Александр Иванович": 20,
-      "Скурихин Дмитрий Николаевич": 24
+      "gas:candidate-vibid:2472000752686": 7,
+      "gas:candidate-vibid:2472000751041": 2,
+      "gas:candidate-vibid:2472000754864": 11,
+      "gas:candidate-vibid:2472000711086": 53,
+      "gas:candidate-vibid:2472000749784": 44,
+      "gas:candidate-vibid:2472000749699": 42,
+      "gas:candidate-vibid:2472000754522": 473,
+      "gas:candidate-vibid:2472000744922": 32,
+      "gas:candidate-vibid:2472000754033": 20,
+      "gas:candidate-vibid:2472000749805": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000148&tvd=2472000671398&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671398&type=464",
@@ -2983,16 +2983,16 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананян Армен Гамлетович": 3,
-      "Габитов Александр Фирович": 4,
-      "Голосов Анатолий Иванович": 9,
-      "Дюбков Вячеслав Александрович": 57,
-      "Кузьмин Николай Алексеевич": 37,
-      "Любушкина Марина Викторовна": 22,
-      "Нарышкин Сергей Евгеньевич": 243,
-      "Перов Виктор Николаевич": 13,
-      "Сенотрусов Александр Иванович": 12,
-      "Скурихин Дмитрий Николаевич": 8
+      "gas:candidate-vibid:2472000752686": 3,
+      "gas:candidate-vibid:2472000751041": 4,
+      "gas:candidate-vibid:2472000754864": 9,
+      "gas:candidate-vibid:2472000711086": 57,
+      "gas:candidate-vibid:2472000749784": 37,
+      "gas:candidate-vibid:2472000749699": 22,
+      "gas:candidate-vibid:2472000754522": 243,
+      "gas:candidate-vibid:2472000744922": 13,
+      "gas:candidate-vibid:2472000754033": 12,
+      "gas:candidate-vibid:2472000749805": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000148&tvd=2472000671398&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671398&type=464",
@@ -3043,16 +3043,16 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананян Армен Гамлетович": 6,
-      "Габитов Александр Фирович": 2,
-      "Голосов Анатолий Иванович": 11,
-      "Дюбков Вячеслав Александрович": 39,
-      "Кузьмин Николай Алексеевич": 50,
-      "Любушкина Марина Викторовна": 32,
-      "Нарышкин Сергей Евгеньевич": 248,
-      "Перов Виктор Николаевич": 16,
-      "Сенотрусов Александр Иванович": 15,
-      "Скурихин Дмитрий Николаевич": 11
+      "gas:candidate-vibid:2472000752686": 6,
+      "gas:candidate-vibid:2472000751041": 2,
+      "gas:candidate-vibid:2472000754864": 11,
+      "gas:candidate-vibid:2472000711086": 39,
+      "gas:candidate-vibid:2472000749784": 50,
+      "gas:candidate-vibid:2472000749699": 32,
+      "gas:candidate-vibid:2472000754522": 248,
+      "gas:candidate-vibid:2472000744922": 16,
+      "gas:candidate-vibid:2472000754033": 15,
+      "gas:candidate-vibid:2472000749805": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000148&tvd=2472000671398&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671398&type=464",
@@ -3103,16 +3103,16 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананян Армен Гамлетович": 16,
-      "Габитов Александр Фирович": 20,
-      "Голосов Анатолий Иванович": 15,
-      "Дюбков Вячеслав Александрович": 43,
-      "Кузьмин Николай Алексеевич": 32,
-      "Любушкина Марина Викторовна": 29,
-      "Нарышкин Сергей Евгеньевич": 231,
-      "Перов Виктор Николаевич": 12,
-      "Сенотрусов Александр Иванович": 29,
-      "Скурихин Дмитрий Николаевич": 9
+      "gas:candidate-vibid:2472000752686": 16,
+      "gas:candidate-vibid:2472000751041": 20,
+      "gas:candidate-vibid:2472000754864": 15,
+      "gas:candidate-vibid:2472000711086": 43,
+      "gas:candidate-vibid:2472000749784": 32,
+      "gas:candidate-vibid:2472000749699": 29,
+      "gas:candidate-vibid:2472000754522": 231,
+      "gas:candidate-vibid:2472000744922": 12,
+      "gas:candidate-vibid:2472000754033": 29,
+      "gas:candidate-vibid:2472000749805": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000148&tvd=2472000671398&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671398&type=464",
@@ -3163,16 +3163,16 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананян Армен Гамлетович": 5,
-      "Габитов Александр Фирович": 3,
-      "Голосов Анатолий Иванович": 9,
-      "Дюбков Вячеслав Александрович": 22,
-      "Кузьмин Николай Алексеевич": 35,
-      "Любушкина Марина Викторовна": 16,
-      "Нарышкин Сергей Евгеньевич": 286,
-      "Перов Виктор Николаевич": 10,
-      "Сенотрусов Александр Иванович": 18,
-      "Скурихин Дмитрий Николаевич": 6
+      "gas:candidate-vibid:2472000752686": 5,
+      "gas:candidate-vibid:2472000751041": 3,
+      "gas:candidate-vibid:2472000754864": 9,
+      "gas:candidate-vibid:2472000711086": 22,
+      "gas:candidate-vibid:2472000749784": 35,
+      "gas:candidate-vibid:2472000749699": 16,
+      "gas:candidate-vibid:2472000754522": 286,
+      "gas:candidate-vibid:2472000744922": 10,
+      "gas:candidate-vibid:2472000754033": 18,
+      "gas:candidate-vibid:2472000749805": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000148&tvd=2472000671398&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671398&type=464",
@@ -3223,16 +3223,16 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананян Армен Гамлетович": 5,
-      "Габитов Александр Фирович": 2,
-      "Голосов Анатолий Иванович": 7,
-      "Дюбков Вячеслав Александрович": 33,
-      "Кузьмин Николай Алексеевич": 99,
-      "Любушкина Марина Викторовна": 25,
-      "Нарышкин Сергей Евгеньевич": 314,
-      "Перов Виктор Николаевич": 7,
-      "Сенотрусов Александр Иванович": 22,
-      "Скурихин Дмитрий Николаевич": 26
+      "gas:candidate-vibid:2472000752686": 5,
+      "gas:candidate-vibid:2472000751041": 2,
+      "gas:candidate-vibid:2472000754864": 7,
+      "gas:candidate-vibid:2472000711086": 33,
+      "gas:candidate-vibid:2472000749784": 99,
+      "gas:candidate-vibid:2472000749699": 25,
+      "gas:candidate-vibid:2472000754522": 314,
+      "gas:candidate-vibid:2472000744922": 7,
+      "gas:candidate-vibid:2472000754033": 22,
+      "gas:candidate-vibid:2472000749805": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000148&tvd=2472000671398&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671398&type=464",
@@ -3283,16 +3283,16 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананян Армен Гамлетович": 3,
-      "Габитов Александр Фирович": 3,
-      "Голосов Анатолий Иванович": 5,
-      "Дюбков Вячеслав Александрович": 11,
-      "Кузьмин Николай Алексеевич": 259,
-      "Любушкина Марина Викторовна": 10,
-      "Нарышкин Сергей Евгеньевич": 562,
-      "Перов Виктор Николаевич": 6,
-      "Сенотрусов Александр Иванович": 6,
-      "Скурихин Дмитрий Николаевич": 11
+      "gas:candidate-vibid:2472000752686": 3,
+      "gas:candidate-vibid:2472000751041": 3,
+      "gas:candidate-vibid:2472000754864": 5,
+      "gas:candidate-vibid:2472000711086": 11,
+      "gas:candidate-vibid:2472000749784": 259,
+      "gas:candidate-vibid:2472000749699": 10,
+      "gas:candidate-vibid:2472000754522": 562,
+      "gas:candidate-vibid:2472000744922": 6,
+      "gas:candidate-vibid:2472000754033": 6,
+      "gas:candidate-vibid:2472000749805": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000148&tvd=2472000671398&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671398&type=464",
@@ -3343,16 +3343,16 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананян Армен Гамлетович": 5,
-      "Габитов Александр Фирович": 6,
-      "Голосов Анатолий Иванович": 14,
-      "Дюбков Вячеслав Александрович": 40,
-      "Кузьмин Николай Алексеевич": 47,
-      "Любушкина Марина Викторовна": 39,
-      "Нарышкин Сергей Евгеньевич": 401,
-      "Перов Виктор Николаевич": 23,
-      "Сенотрусов Александр Иванович": 18,
-      "Скурихин Дмитрий Николаевич": 67
+      "gas:candidate-vibid:2472000752686": 5,
+      "gas:candidate-vibid:2472000751041": 6,
+      "gas:candidate-vibid:2472000754864": 14,
+      "gas:candidate-vibid:2472000711086": 40,
+      "gas:candidate-vibid:2472000749784": 47,
+      "gas:candidate-vibid:2472000749699": 39,
+      "gas:candidate-vibid:2472000754522": 401,
+      "gas:candidate-vibid:2472000744922": 23,
+      "gas:candidate-vibid:2472000754033": 18,
+      "gas:candidate-vibid:2472000749805": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000148&tvd=2472000671398&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671398&type=464",
@@ -3403,16 +3403,16 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананян Армен Гамлетович": 2,
-      "Габитов Александр Фирович": 5,
-      "Голосов Анатолий Иванович": 15,
-      "Дюбков Вячеслав Александрович": 49,
-      "Кузьмин Николай Алексеевич": 78,
-      "Любушкина Марина Викторовна": 40,
-      "Нарышкин Сергей Евгеньевич": 347,
-      "Перов Виктор Николаевич": 19,
-      "Сенотрусов Александр Иванович": 15,
-      "Скурихин Дмитрий Николаевич": 90
+      "gas:candidate-vibid:2472000752686": 2,
+      "gas:candidate-vibid:2472000751041": 5,
+      "gas:candidate-vibid:2472000754864": 15,
+      "gas:candidate-vibid:2472000711086": 49,
+      "gas:candidate-vibid:2472000749784": 78,
+      "gas:candidate-vibid:2472000749699": 40,
+      "gas:candidate-vibid:2472000754522": 347,
+      "gas:candidate-vibid:2472000744922": 19,
+      "gas:candidate-vibid:2472000754033": 15,
+      "gas:candidate-vibid:2472000749805": 90
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000148&tvd=2472000671398&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671398&type=464",
@@ -3463,16 +3463,16 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананян Армен Гамлетович": 5,
-      "Габитов Александр Фирович": 2,
-      "Голосов Анатолий Иванович": 6,
-      "Дюбков Вячеслав Александрович": 14,
-      "Кузьмин Николай Алексеевич": 7,
-      "Любушкина Марина Викторовна": 8,
-      "Нарышкин Сергей Евгеньевич": 88,
-      "Перов Виктор Николаевич": 5,
-      "Сенотрусов Александр Иванович": 5,
-      "Скурихин Дмитрий Николаевич": 4
+      "gas:candidate-vibid:2472000752686": 5,
+      "gas:candidate-vibid:2472000751041": 2,
+      "gas:candidate-vibid:2472000754864": 6,
+      "gas:candidate-vibid:2472000711086": 14,
+      "gas:candidate-vibid:2472000749784": 7,
+      "gas:candidate-vibid:2472000749699": 8,
+      "gas:candidate-vibid:2472000754522": 88,
+      "gas:candidate-vibid:2472000744922": 5,
+      "gas:candidate-vibid:2472000754033": 5,
+      "gas:candidate-vibid:2472000749805": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000148&tvd=2472000671398&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671398&type=464",
@@ -3523,16 +3523,16 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананян Армен Гамлетович": 10,
-      "Габитов Александр Фирович": 3,
-      "Голосов Анатолий Иванович": 13,
-      "Дюбков Вячеслав Александрович": 65,
-      "Кузьмин Николай Алексеевич": 46,
-      "Любушкина Марина Викторовна": 158,
-      "Нарышкин Сергей Евгеньевич": 331,
-      "Перов Виктор Николаевич": 28,
-      "Сенотрусов Александр Иванович": 14,
-      "Скурихин Дмитрий Николаевич": 12
+      "gas:candidate-vibid:2472000752686": 10,
+      "gas:candidate-vibid:2472000751041": 3,
+      "gas:candidate-vibid:2472000754864": 13,
+      "gas:candidate-vibid:2472000711086": 65,
+      "gas:candidate-vibid:2472000749784": 46,
+      "gas:candidate-vibid:2472000749699": 158,
+      "gas:candidate-vibid:2472000754522": 331,
+      "gas:candidate-vibid:2472000744922": 28,
+      "gas:candidate-vibid:2472000754033": 14,
+      "gas:candidate-vibid:2472000749805": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000148&tvd=2472000671399&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671399&type=464",
@@ -3583,16 +3583,16 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананян Армен Гамлетович": 7,
-      "Габитов Александр Фирович": 5,
-      "Голосов Анатолий Иванович": 8,
-      "Дюбков Вячеслав Александрович": 53,
-      "Кузьмин Николай Алексеевич": 70,
-      "Любушкина Марина Викторовна": 195,
-      "Нарышкин Сергей Евгеньевич": 311,
-      "Перов Виктор Николаевич": 15,
-      "Сенотрусов Александр Иванович": 16,
-      "Скурихин Дмитрий Николаевич": 16
+      "gas:candidate-vibid:2472000752686": 7,
+      "gas:candidate-vibid:2472000751041": 5,
+      "gas:candidate-vibid:2472000754864": 8,
+      "gas:candidate-vibid:2472000711086": 53,
+      "gas:candidate-vibid:2472000749784": 70,
+      "gas:candidate-vibid:2472000749699": 195,
+      "gas:candidate-vibid:2472000754522": 311,
+      "gas:candidate-vibid:2472000744922": 15,
+      "gas:candidate-vibid:2472000754033": 16,
+      "gas:candidate-vibid:2472000749805": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000148&tvd=2472000671399&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671399&type=464",
@@ -3643,16 +3643,16 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананян Армен Гамлетович": 6,
-      "Габитов Александр Фирович": 2,
-      "Голосов Анатолий Иванович": 18,
-      "Дюбков Вячеслав Александрович": 50,
-      "Кузьмин Николай Алексеевич": 54,
-      "Любушкина Марина Викторовна": 183,
-      "Нарышкин Сергей Евгеньевич": 294,
-      "Перов Виктор Николаевич": 21,
-      "Сенотрусов Александр Иванович": 9,
-      "Скурихин Дмитрий Николаевич": 5
+      "gas:candidate-vibid:2472000752686": 6,
+      "gas:candidate-vibid:2472000751041": 2,
+      "gas:candidate-vibid:2472000754864": 18,
+      "gas:candidate-vibid:2472000711086": 50,
+      "gas:candidate-vibid:2472000749784": 54,
+      "gas:candidate-vibid:2472000749699": 183,
+      "gas:candidate-vibid:2472000754522": 294,
+      "gas:candidate-vibid:2472000744922": 21,
+      "gas:candidate-vibid:2472000754033": 9,
+      "gas:candidate-vibid:2472000749805": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000148&tvd=2472000671399&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671399&type=464",
@@ -3703,16 +3703,16 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананян Армен Гамлетович": 7,
-      "Габитов Александр Фирович": 0,
-      "Голосов Анатолий Иванович": 20,
-      "Дюбков Вячеслав Александрович": 60,
-      "Кузьмин Николай Алексеевич": 56,
-      "Любушкина Марина Викторовна": 165,
-      "Нарышкин Сергей Евгеньевич": 328,
-      "Перов Виктор Николаевич": 10,
-      "Сенотрусов Александр Иванович": 8,
-      "Скурихин Дмитрий Николаевич": 7
+      "gas:candidate-vibid:2472000752686": 7,
+      "gas:candidate-vibid:2472000751041": 0,
+      "gas:candidate-vibid:2472000754864": 20,
+      "gas:candidate-vibid:2472000711086": 60,
+      "gas:candidate-vibid:2472000749784": 56,
+      "gas:candidate-vibid:2472000749699": 165,
+      "gas:candidate-vibid:2472000754522": 328,
+      "gas:candidate-vibid:2472000744922": 10,
+      "gas:candidate-vibid:2472000754033": 8,
+      "gas:candidate-vibid:2472000749805": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000148&tvd=2472000671399&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671399&type=464",
@@ -3763,16 +3763,16 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананян Армен Гамлетович": 7,
-      "Габитов Александр Фирович": 0,
-      "Голосов Анатолий Иванович": 9,
-      "Дюбков Вячеслав Александрович": 43,
-      "Кузьмин Николай Алексеевич": 24,
-      "Любушкина Марина Викторовна": 100,
-      "Нарышкин Сергей Евгеньевич": 251,
-      "Перов Виктор Николаевич": 4,
-      "Сенотрусов Александр Иванович": 10,
-      "Скурихин Дмитрий Николаевич": 7
+      "gas:candidate-vibid:2472000752686": 7,
+      "gas:candidate-vibid:2472000751041": 0,
+      "gas:candidate-vibid:2472000754864": 9,
+      "gas:candidate-vibid:2472000711086": 43,
+      "gas:candidate-vibid:2472000749784": 24,
+      "gas:candidate-vibid:2472000749699": 100,
+      "gas:candidate-vibid:2472000754522": 251,
+      "gas:candidate-vibid:2472000744922": 4,
+      "gas:candidate-vibid:2472000754033": 10,
+      "gas:candidate-vibid:2472000749805": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000148&tvd=2472000671399&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671399&type=464",
@@ -3823,16 +3823,16 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананян Армен Гамлетович": 1,
-      "Габитов Александр Фирович": 0,
-      "Голосов Анатолий Иванович": 2,
-      "Дюбков Вячеслав Александрович": 20,
-      "Кузьмин Николай Алексеевич": 17,
-      "Любушкина Марина Викторовна": 27,
-      "Нарышкин Сергей Евгеньевич": 100,
-      "Перов Виктор Николаевич": 8,
-      "Сенотрусов Александр Иванович": 0,
-      "Скурихин Дмитрий Николаевич": 1
+      "gas:candidate-vibid:2472000752686": 1,
+      "gas:candidate-vibid:2472000751041": 0,
+      "gas:candidate-vibid:2472000754864": 2,
+      "gas:candidate-vibid:2472000711086": 20,
+      "gas:candidate-vibid:2472000749784": 17,
+      "gas:candidate-vibid:2472000749699": 27,
+      "gas:candidate-vibid:2472000754522": 100,
+      "gas:candidate-vibid:2472000744922": 8,
+      "gas:candidate-vibid:2472000754033": 0,
+      "gas:candidate-vibid:2472000749805": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000148&tvd=2472000671399&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671399&type=464",
@@ -3883,16 +3883,16 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананян Армен Гамлетович": 8,
-      "Габитов Александр Фирович": 4,
-      "Голосов Анатолий Иванович": 11,
-      "Дюбков Вячеслав Александрович": 56,
-      "Кузьмин Николай Алексеевич": 67,
-      "Любушкина Марина Викторовна": 213,
-      "Нарышкин Сергей Евгеньевич": 358,
-      "Перов Виктор Николаевич": 20,
-      "Сенотрусов Александр Иванович": 17,
-      "Скурихин Дмитрий Николаевич": 13
+      "gas:candidate-vibid:2472000752686": 8,
+      "gas:candidate-vibid:2472000751041": 4,
+      "gas:candidate-vibid:2472000754864": 11,
+      "gas:candidate-vibid:2472000711086": 56,
+      "gas:candidate-vibid:2472000749784": 67,
+      "gas:candidate-vibid:2472000749699": 213,
+      "gas:candidate-vibid:2472000754522": 358,
+      "gas:candidate-vibid:2472000744922": 20,
+      "gas:candidate-vibid:2472000754033": 17,
+      "gas:candidate-vibid:2472000749805": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000148&tvd=2472000671399&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671399&type=464",
@@ -3943,16 +3943,16 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананян Армен Гамлетович": 8,
-      "Габитов Александр Фирович": 5,
-      "Голосов Анатолий Иванович": 19,
-      "Дюбков Вячеслав Александрович": 45,
-      "Кузьмин Николай Алексеевич": 56,
-      "Любушкина Марина Викторовна": 201,
-      "Нарышкин Сергей Евгеньевич": 365,
-      "Перов Виктор Николаевич": 15,
-      "Сенотрусов Александр Иванович": 11,
-      "Скурихин Дмитрий Николаевич": 6
+      "gas:candidate-vibid:2472000752686": 8,
+      "gas:candidate-vibid:2472000751041": 5,
+      "gas:candidate-vibid:2472000754864": 19,
+      "gas:candidate-vibid:2472000711086": 45,
+      "gas:candidate-vibid:2472000749784": 56,
+      "gas:candidate-vibid:2472000749699": 201,
+      "gas:candidate-vibid:2472000754522": 365,
+      "gas:candidate-vibid:2472000744922": 15,
+      "gas:candidate-vibid:2472000754033": 11,
+      "gas:candidate-vibid:2472000749805": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000148&tvd=2472000671399&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671399&type=464",
@@ -4003,16 +4003,16 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананян Армен Гамлетович": 8,
-      "Габитов Александр Фирович": 5,
-      "Голосов Анатолий Иванович": 12,
-      "Дюбков Вячеслав Александрович": 53,
-      "Кузьмин Николай Алексеевич": 107,
-      "Любушкина Марина Викторовна": 218,
-      "Нарышкин Сергей Евгеньевич": 433,
-      "Перов Виктор Николаевич": 24,
-      "Сенотрусов Александр Иванович": 26,
-      "Скурихин Дмитрий Николаевич": 14
+      "gas:candidate-vibid:2472000752686": 8,
+      "gas:candidate-vibid:2472000751041": 5,
+      "gas:candidate-vibid:2472000754864": 12,
+      "gas:candidate-vibid:2472000711086": 53,
+      "gas:candidate-vibid:2472000749784": 107,
+      "gas:candidate-vibid:2472000749699": 218,
+      "gas:candidate-vibid:2472000754522": 433,
+      "gas:candidate-vibid:2472000744922": 24,
+      "gas:candidate-vibid:2472000754033": 26,
+      "gas:candidate-vibid:2472000749805": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000148&tvd=2472000671399&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671399&type=464",
@@ -4063,16 +4063,16 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананян Армен Гамлетович": 4,
-      "Габитов Александр Фирович": 1,
-      "Голосов Анатолий Иванович": 12,
-      "Дюбков Вячеслав Александрович": 36,
-      "Кузьмин Николай Алексеевич": 67,
-      "Любушкина Марина Викторовна": 171,
-      "Нарышкин Сергей Евгеньевич": 346,
-      "Перов Виктор Николаевич": 11,
-      "Сенотрусов Александр Иванович": 14,
-      "Скурихин Дмитрий Николаевич": 10
+      "gas:candidate-vibid:2472000752686": 4,
+      "gas:candidate-vibid:2472000751041": 1,
+      "gas:candidate-vibid:2472000754864": 12,
+      "gas:candidate-vibid:2472000711086": 36,
+      "gas:candidate-vibid:2472000749784": 67,
+      "gas:candidate-vibid:2472000749699": 171,
+      "gas:candidate-vibid:2472000754522": 346,
+      "gas:candidate-vibid:2472000744922": 11,
+      "gas:candidate-vibid:2472000754033": 14,
+      "gas:candidate-vibid:2472000749805": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000148&tvd=2472000671399&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671399&type=464",
@@ -4123,16 +4123,16 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананян Армен Гамлетович": 8,
-      "Габитов Александр Фирович": 10,
-      "Голосов Анатолий Иванович": 23,
-      "Дюбков Вячеслав Александрович": 64,
-      "Кузьмин Николай Алексеевич": 73,
-      "Любушкина Марина Викторовна": 217,
-      "Нарышкин Сергей Евгеньевич": 370,
-      "Перов Виктор Николаевич": 21,
-      "Сенотрусов Александр Иванович": 17,
-      "Скурихин Дмитрий Николаевич": 12
+      "gas:candidate-vibid:2472000752686": 8,
+      "gas:candidate-vibid:2472000751041": 10,
+      "gas:candidate-vibid:2472000754864": 23,
+      "gas:candidate-vibid:2472000711086": 64,
+      "gas:candidate-vibid:2472000749784": 73,
+      "gas:candidate-vibid:2472000749699": 217,
+      "gas:candidate-vibid:2472000754522": 370,
+      "gas:candidate-vibid:2472000744922": 21,
+      "gas:candidate-vibid:2472000754033": 17,
+      "gas:candidate-vibid:2472000749805": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000148&tvd=2472000671399&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671399&type=464",
@@ -4183,16 +4183,16 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананян Армен Гамлетович": 9,
-      "Габитов Александр Фирович": 6,
-      "Голосов Анатолий Иванович": 17,
-      "Дюбков Вячеслав Александрович": 74,
-      "Кузьмин Николай Алексеевич": 48,
-      "Любушкина Марина Викторовна": 167,
-      "Нарышкин Сергей Евгеньевич": 343,
-      "Перов Виктор Николаевич": 18,
-      "Сенотрусов Александр Иванович": 13,
-      "Скурихин Дмитрий Николаевич": 15
+      "gas:candidate-vibid:2472000752686": 9,
+      "gas:candidate-vibid:2472000751041": 6,
+      "gas:candidate-vibid:2472000754864": 17,
+      "gas:candidate-vibid:2472000711086": 74,
+      "gas:candidate-vibid:2472000749784": 48,
+      "gas:candidate-vibid:2472000749699": 167,
+      "gas:candidate-vibid:2472000754522": 343,
+      "gas:candidate-vibid:2472000744922": 18,
+      "gas:candidate-vibid:2472000754033": 13,
+      "gas:candidate-vibid:2472000749805": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000148&tvd=2472000671399&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671399&type=464",
@@ -4243,16 +4243,16 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананян Армен Гамлетович": 5,
-      "Габитов Александр Фирович": 1,
-      "Голосов Анатолий Иванович": 18,
-      "Дюбков Вячеслав Александрович": 47,
-      "Кузьмин Николай Алексеевич": 54,
-      "Любушкина Марина Викторовна": 209,
-      "Нарышкин Сергей Евгеньевич": 380,
-      "Перов Виктор Николаевич": 14,
-      "Сенотрусов Александр Иванович": 6,
-      "Скурихин Дмитрий Николаевич": 9
+      "gas:candidate-vibid:2472000752686": 5,
+      "gas:candidate-vibid:2472000751041": 1,
+      "gas:candidate-vibid:2472000754864": 18,
+      "gas:candidate-vibid:2472000711086": 47,
+      "gas:candidate-vibid:2472000749784": 54,
+      "gas:candidate-vibid:2472000749699": 209,
+      "gas:candidate-vibid:2472000754522": 380,
+      "gas:candidate-vibid:2472000744922": 14,
+      "gas:candidate-vibid:2472000754033": 6,
+      "gas:candidate-vibid:2472000749805": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000148&tvd=2472000671399&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671399&type=464",
@@ -4303,16 +4303,16 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананян Армен Гамлетович": 10,
-      "Габитов Александр Фирович": 6,
-      "Голосов Анатолий Иванович": 18,
-      "Дюбков Вячеслав Александрович": 65,
-      "Кузьмин Николай Алексеевич": 71,
-      "Любушкина Марина Викторовна": 256,
-      "Нарышкин Сергей Евгеньевич": 531,
-      "Перов Виктор Николаевич": 23,
-      "Сенотрусов Александр Иванович": 13,
-      "Скурихин Дмитрий Николаевич": 14
+      "gas:candidate-vibid:2472000752686": 10,
+      "gas:candidate-vibid:2472000751041": 6,
+      "gas:candidate-vibid:2472000754864": 18,
+      "gas:candidate-vibid:2472000711086": 65,
+      "gas:candidate-vibid:2472000749784": 71,
+      "gas:candidate-vibid:2472000749699": 256,
+      "gas:candidate-vibid:2472000754522": 531,
+      "gas:candidate-vibid:2472000744922": 23,
+      "gas:candidate-vibid:2472000754033": 13,
+      "gas:candidate-vibid:2472000749805": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000148&tvd=2472000671399&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671399&type=464",
@@ -4363,16 +4363,16 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананян Армен Гамлетович": 4,
-      "Габитов Александр Фирович": 3,
-      "Голосов Анатолий Иванович": 13,
-      "Дюбков Вячеслав Александрович": 65,
-      "Кузьмин Николай Алексеевич": 55,
-      "Любушкина Марина Викторовна": 213,
-      "Нарышкин Сергей Евгеньевич": 401,
-      "Перов Виктор Николаевич": 11,
-      "Сенотрусов Александр Иванович": 7,
-      "Скурихин Дмитрий Николаевич": 12
+      "gas:candidate-vibid:2472000752686": 4,
+      "gas:candidate-vibid:2472000751041": 3,
+      "gas:candidate-vibid:2472000754864": 13,
+      "gas:candidate-vibid:2472000711086": 65,
+      "gas:candidate-vibid:2472000749784": 55,
+      "gas:candidate-vibid:2472000749699": 213,
+      "gas:candidate-vibid:2472000754522": 401,
+      "gas:candidate-vibid:2472000744922": 11,
+      "gas:candidate-vibid:2472000754033": 7,
+      "gas:candidate-vibid:2472000749805": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000148&tvd=2472000671399&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671399&type=464",
@@ -4423,16 +4423,16 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананян Армен Гамлетович": 9,
-      "Габитов Александр Фирович": 3,
-      "Голосов Анатолий Иванович": 25,
-      "Дюбков Вячеслав Александрович": 63,
-      "Кузьмин Николай Алексеевич": 72,
-      "Любушкина Марина Викторовна": 194,
-      "Нарышкин Сергей Евгеньевич": 395,
-      "Перов Виктор Николаевич": 15,
-      "Сенотрусов Александр Иванович": 22,
-      "Скурихин Дмитрий Николаевич": 15
+      "gas:candidate-vibid:2472000752686": 9,
+      "gas:candidate-vibid:2472000751041": 3,
+      "gas:candidate-vibid:2472000754864": 25,
+      "gas:candidate-vibid:2472000711086": 63,
+      "gas:candidate-vibid:2472000749784": 72,
+      "gas:candidate-vibid:2472000749699": 194,
+      "gas:candidate-vibid:2472000754522": 395,
+      "gas:candidate-vibid:2472000744922": 15,
+      "gas:candidate-vibid:2472000754033": 22,
+      "gas:candidate-vibid:2472000749805": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000148&tvd=2472000671399&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671399&type=464",
@@ -4483,16 +4483,16 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананян Армен Гамлетович": 10,
-      "Габитов Александр Фирович": 3,
-      "Голосов Анатолий Иванович": 7,
-      "Дюбков Вячеслав Александрович": 51,
-      "Кузьмин Николай Алексеевич": 64,
-      "Любушкина Марина Викторовна": 221,
-      "Нарышкин Сергей Евгеньевич": 369,
-      "Перов Виктор Николаевич": 19,
-      "Сенотрусов Александр Иванович": 13,
-      "Скурихин Дмитрий Николаевич": 15
+      "gas:candidate-vibid:2472000752686": 10,
+      "gas:candidate-vibid:2472000751041": 3,
+      "gas:candidate-vibid:2472000754864": 7,
+      "gas:candidate-vibid:2472000711086": 51,
+      "gas:candidate-vibid:2472000749784": 64,
+      "gas:candidate-vibid:2472000749699": 221,
+      "gas:candidate-vibid:2472000754522": 369,
+      "gas:candidate-vibid:2472000744922": 19,
+      "gas:candidate-vibid:2472000754033": 13,
+      "gas:candidate-vibid:2472000749805": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000148&tvd=2472000671399&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671399&type=464",
@@ -4543,16 +4543,16 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананян Армен Гамлетович": 12,
-      "Габитов Александр Фирович": 5,
-      "Голосов Анатолий Иванович": 19,
-      "Дюбков Вячеслав Александрович": 54,
-      "Кузьмин Николай Алексеевич": 63,
-      "Любушкина Марина Викторовна": 187,
-      "Нарышкин Сергей Евгеньевич": 401,
-      "Перов Виктор Николаевич": 18,
-      "Сенотрусов Александр Иванович": 9,
-      "Скурихин Дмитрий Николаевич": 9
+      "gas:candidate-vibid:2472000752686": 12,
+      "gas:candidate-vibid:2472000751041": 5,
+      "gas:candidate-vibid:2472000754864": 19,
+      "gas:candidate-vibid:2472000711086": 54,
+      "gas:candidate-vibid:2472000749784": 63,
+      "gas:candidate-vibid:2472000749699": 187,
+      "gas:candidate-vibid:2472000754522": 401,
+      "gas:candidate-vibid:2472000744922": 18,
+      "gas:candidate-vibid:2472000754033": 9,
+      "gas:candidate-vibid:2472000749805": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000148&tvd=2472000671399&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671399&type=464",
@@ -4603,16 +4603,16 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананян Армен Гамлетович": 8,
-      "Габитов Александр Фирович": 3,
-      "Голосов Анатолий Иванович": 12,
-      "Дюбков Вячеслав Александрович": 51,
-      "Кузьмин Николай Алексеевич": 66,
-      "Любушкина Марина Викторовна": 219,
-      "Нарышкин Сергей Евгеньевич": 373,
-      "Перов Виктор Николаевич": 26,
-      "Сенотрусов Александр Иванович": 13,
-      "Скурихин Дмитрий Николаевич": 13
+      "gas:candidate-vibid:2472000752686": 8,
+      "gas:candidate-vibid:2472000751041": 3,
+      "gas:candidate-vibid:2472000754864": 12,
+      "gas:candidate-vibid:2472000711086": 51,
+      "gas:candidate-vibid:2472000749784": 66,
+      "gas:candidate-vibid:2472000749699": 219,
+      "gas:candidate-vibid:2472000754522": 373,
+      "gas:candidate-vibid:2472000744922": 26,
+      "gas:candidate-vibid:2472000754033": 13,
+      "gas:candidate-vibid:2472000749805": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000148&tvd=2472000671399&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671399&type=464",
@@ -4663,16 +4663,16 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананян Армен Гамлетович": 12,
-      "Габитов Александр Фирович": 5,
-      "Голосов Анатолий Иванович": 13,
-      "Дюбков Вячеслав Александрович": 71,
-      "Кузьмин Николай Алексеевич": 72,
-      "Любушкина Марина Викторовна": 187,
-      "Нарышкин Сергей Евгеньевич": 380,
-      "Перов Виктор Николаевич": 27,
-      "Сенотрусов Александр Иванович": 14,
-      "Скурихин Дмитрий Николаевич": 14
+      "gas:candidate-vibid:2472000752686": 12,
+      "gas:candidate-vibid:2472000751041": 5,
+      "gas:candidate-vibid:2472000754864": 13,
+      "gas:candidate-vibid:2472000711086": 71,
+      "gas:candidate-vibid:2472000749784": 72,
+      "gas:candidate-vibid:2472000749699": 187,
+      "gas:candidate-vibid:2472000754522": 380,
+      "gas:candidate-vibid:2472000744922": 27,
+      "gas:candidate-vibid:2472000754033": 14,
+      "gas:candidate-vibid:2472000749805": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000148&tvd=2472000671399&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671399&type=464",
@@ -4723,16 +4723,16 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананян Армен Гамлетович": 12,
-      "Габитов Александр Фирович": 5,
-      "Голосов Анатолий Иванович": 22,
-      "Дюбков Вячеслав Александрович": 86,
-      "Кузьмин Николай Алексеевич": 75,
-      "Любушкина Марина Викторовна": 209,
-      "Нарышкин Сергей Евгеньевич": 444,
-      "Перов Виктор Николаевич": 27,
-      "Сенотрусов Александр Иванович": 13,
-      "Скурихин Дмитрий Николаевич": 15
+      "gas:candidate-vibid:2472000752686": 12,
+      "gas:candidate-vibid:2472000751041": 5,
+      "gas:candidate-vibid:2472000754864": 22,
+      "gas:candidate-vibid:2472000711086": 86,
+      "gas:candidate-vibid:2472000749784": 75,
+      "gas:candidate-vibid:2472000749699": 209,
+      "gas:candidate-vibid:2472000754522": 444,
+      "gas:candidate-vibid:2472000744922": 27,
+      "gas:candidate-vibid:2472000754033": 13,
+      "gas:candidate-vibid:2472000749805": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000148&tvd=2472000671399&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671399&type=464",
@@ -4783,16 +4783,16 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананян Армен Гамлетович": 13,
-      "Габитов Александр Фирович": 8,
-      "Голосов Анатолий Иванович": 20,
-      "Дюбков Вячеслав Александрович": 87,
-      "Кузьмин Николай Алексеевич": 96,
-      "Любушкина Марина Викторовна": 203,
-      "Нарышкин Сергей Евгеньевич": 544,
-      "Перов Виктор Николаевич": 39,
-      "Сенотрусов Александр Иванович": 13,
-      "Скурихин Дмитрий Николаевич": 20
+      "gas:candidate-vibid:2472000752686": 13,
+      "gas:candidate-vibid:2472000751041": 8,
+      "gas:candidate-vibid:2472000754864": 20,
+      "gas:candidate-vibid:2472000711086": 87,
+      "gas:candidate-vibid:2472000749784": 96,
+      "gas:candidate-vibid:2472000749699": 203,
+      "gas:candidate-vibid:2472000754522": 544,
+      "gas:candidate-vibid:2472000744922": 39,
+      "gas:candidate-vibid:2472000754033": 13,
+      "gas:candidate-vibid:2472000749805": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000148&tvd=2472000671399&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671399&type=464",
@@ -4843,16 +4843,16 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананян Армен Гамлетович": 1,
-      "Габитов Александр Фирович": 1,
-      "Голосов Анатолий Иванович": 12,
-      "Дюбков Вячеслав Александрович": 33,
-      "Кузьмин Николай Алексеевич": 53,
-      "Любушкина Марина Викторовна": 119,
-      "Нарышкин Сергей Евгеньевич": 209,
-      "Перов Виктор Николаевич": 15,
-      "Сенотрусов Александр Иванович": 5,
-      "Скурихин Дмитрий Николаевич": 3
+      "gas:candidate-vibid:2472000752686": 1,
+      "gas:candidate-vibid:2472000751041": 1,
+      "gas:candidate-vibid:2472000754864": 12,
+      "gas:candidate-vibid:2472000711086": 33,
+      "gas:candidate-vibid:2472000749784": 53,
+      "gas:candidate-vibid:2472000749699": 119,
+      "gas:candidate-vibid:2472000754522": 209,
+      "gas:candidate-vibid:2472000744922": 15,
+      "gas:candidate-vibid:2472000754033": 5,
+      "gas:candidate-vibid:2472000749805": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000148&tvd=2472000671399&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671399&type=464",
@@ -4903,16 +4903,16 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананян Армен Гамлетович": 4,
-      "Габитов Александр Фирович": 2,
-      "Голосов Анатолий Иванович": 5,
-      "Дюбков Вячеслав Александрович": 26,
-      "Кузьмин Николай Алексеевич": 21,
-      "Любушкина Марина Викторовна": 74,
-      "Нарышкин Сергей Евгеньевич": 186,
-      "Перов Виктор Николаевич": 11,
-      "Сенотрусов Александр Иванович": 4,
-      "Скурихин Дмитрий Николаевич": 10
+      "gas:candidate-vibid:2472000752686": 4,
+      "gas:candidate-vibid:2472000751041": 2,
+      "gas:candidate-vibid:2472000754864": 5,
+      "gas:candidate-vibid:2472000711086": 26,
+      "gas:candidate-vibid:2472000749784": 21,
+      "gas:candidate-vibid:2472000749699": 74,
+      "gas:candidate-vibid:2472000754522": 186,
+      "gas:candidate-vibid:2472000744922": 11,
+      "gas:candidate-vibid:2472000754033": 4,
+      "gas:candidate-vibid:2472000749805": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000148&tvd=2472000671399&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671399&type=464",
@@ -4963,16 +4963,16 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананян Армен Гамлетович": 15,
-      "Габитов Александр Фирович": 6,
-      "Голосов Анатолий Иванович": 19,
-      "Дюбков Вячеслав Александрович": 68,
-      "Кузьмин Николай Алексеевич": 39,
-      "Любушкина Марина Викторовна": 100,
-      "Нарышкин Сергей Евгеньевич": 295,
-      "Перов Виктор Николаевич": 17,
-      "Сенотрусов Александр Иванович": 5,
-      "Скурихин Дмитрий Николаевич": 4
+      "gas:candidate-vibid:2472000752686": 15,
+      "gas:candidate-vibid:2472000751041": 6,
+      "gas:candidate-vibid:2472000754864": 19,
+      "gas:candidate-vibid:2472000711086": 68,
+      "gas:candidate-vibid:2472000749784": 39,
+      "gas:candidate-vibid:2472000749699": 100,
+      "gas:candidate-vibid:2472000754522": 295,
+      "gas:candidate-vibid:2472000744922": 17,
+      "gas:candidate-vibid:2472000754033": 5,
+      "gas:candidate-vibid:2472000749805": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000148&tvd=2472000671399&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671399&type=464",
@@ -5023,16 +5023,16 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананян Армен Гамлетович": 11,
-      "Габитов Александр Фирович": 2,
-      "Голосов Анатолий Иванович": 9,
-      "Дюбков Вячеслав Александрович": 59,
-      "Кузьмин Николай Алексеевич": 50,
-      "Любушкина Марина Викторовна": 79,
-      "Нарышкин Сергей Евгеньевич": 289,
-      "Перов Виктор Николаевич": 23,
-      "Сенотрусов Александр Иванович": 3,
-      "Скурихин Дмитрий Николаевич": 4
+      "gas:candidate-vibid:2472000752686": 11,
+      "gas:candidate-vibid:2472000751041": 2,
+      "gas:candidate-vibid:2472000754864": 9,
+      "gas:candidate-vibid:2472000711086": 59,
+      "gas:candidate-vibid:2472000749784": 50,
+      "gas:candidate-vibid:2472000749699": 79,
+      "gas:candidate-vibid:2472000754522": 289,
+      "gas:candidate-vibid:2472000744922": 23,
+      "gas:candidate-vibid:2472000754033": 3,
+      "gas:candidate-vibid:2472000749805": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000148&tvd=2472000671399&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671399&type=464",
@@ -5083,16 +5083,16 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананян Армен Гамлетович": 7,
-      "Габитов Александр Фирович": 2,
-      "Голосов Анатолий Иванович": 9,
-      "Дюбков Вячеслав Александрович": 29,
-      "Кузьмин Николай Алексеевич": 21,
-      "Любушкина Марина Викторовна": 76,
-      "Нарышкин Сергей Евгеньевич": 372,
-      "Перов Виктор Николаевич": 7,
-      "Сенотрусов Александр Иванович": 4,
-      "Скурихин Дмитрий Николаевич": 3
+      "gas:candidate-vibid:2472000752686": 7,
+      "gas:candidate-vibid:2472000751041": 2,
+      "gas:candidate-vibid:2472000754864": 9,
+      "gas:candidate-vibid:2472000711086": 29,
+      "gas:candidate-vibid:2472000749784": 21,
+      "gas:candidate-vibid:2472000749699": 76,
+      "gas:candidate-vibid:2472000754522": 372,
+      "gas:candidate-vibid:2472000744922": 7,
+      "gas:candidate-vibid:2472000754033": 4,
+      "gas:candidate-vibid:2472000749805": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000148&tvd=2472000671399&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671399&type=464",
@@ -5143,16 +5143,16 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананян Армен Гамлетович": 1,
-      "Габитов Александр Фирович": 2,
-      "Голосов Анатолий Иванович": 0,
-      "Дюбков Вячеслав Александрович": 10,
-      "Кузьмин Николай Алексеевич": 6,
-      "Любушкина Марина Викторовна": 10,
-      "Нарышкин Сергей Евгеньевич": 64,
-      "Перов Виктор Николаевич": 2,
-      "Сенотрусов Александр Иванович": 0,
-      "Скурихин Дмитрий Николаевич": 1
+      "gas:candidate-vibid:2472000752686": 1,
+      "gas:candidate-vibid:2472000751041": 2,
+      "gas:candidate-vibid:2472000754864": 0,
+      "gas:candidate-vibid:2472000711086": 10,
+      "gas:candidate-vibid:2472000749784": 6,
+      "gas:candidate-vibid:2472000749699": 10,
+      "gas:candidate-vibid:2472000754522": 64,
+      "gas:candidate-vibid:2472000744922": 2,
+      "gas:candidate-vibid:2472000754033": 0,
+      "gas:candidate-vibid:2472000749805": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000148&tvd=2472000671399&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671399&type=464",
@@ -5203,16 +5203,16 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананян Армен Гамлетович": 0,
-      "Габитов Александр Фирович": 0,
-      "Голосов Анатолий Иванович": 4,
-      "Дюбков Вячеслав Александрович": 2,
-      "Кузьмин Николай Алексеевич": 7,
-      "Любушкина Марина Викторовна": 5,
-      "Нарышкин Сергей Евгеньевич": 42,
-      "Перов Виктор Николаевич": 5,
-      "Сенотрусов Александр Иванович": 0,
-      "Скурихин Дмитрий Николаевич": 1
+      "gas:candidate-vibid:2472000752686": 0,
+      "gas:candidate-vibid:2472000751041": 0,
+      "gas:candidate-vibid:2472000754864": 4,
+      "gas:candidate-vibid:2472000711086": 2,
+      "gas:candidate-vibid:2472000749784": 7,
+      "gas:candidate-vibid:2472000749699": 5,
+      "gas:candidate-vibid:2472000754522": 42,
+      "gas:candidate-vibid:2472000744922": 5,
+      "gas:candidate-vibid:2472000754033": 0,
+      "gas:candidate-vibid:2472000749805": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000148&tvd=2472000671399&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671399&type=464",
@@ -5263,16 +5263,16 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананян Армен Гамлетович": 7,
-      "Габитов Александр Фирович": 4,
-      "Голосов Анатолий Иванович": 4,
-      "Дюбков Вячеслав Александрович": 50,
-      "Кузьмин Николай Алексеевич": 17,
-      "Любушкина Марина Викторовна": 77,
-      "Нарышкин Сергей Евгеньевич": 221,
-      "Перов Виктор Николаевич": 11,
-      "Сенотрусов Александр Иванович": 3,
-      "Скурихин Дмитрий Николаевич": 2
+      "gas:candidate-vibid:2472000752686": 7,
+      "gas:candidate-vibid:2472000751041": 4,
+      "gas:candidate-vibid:2472000754864": 4,
+      "gas:candidate-vibid:2472000711086": 50,
+      "gas:candidate-vibid:2472000749784": 17,
+      "gas:candidate-vibid:2472000749699": 77,
+      "gas:candidate-vibid:2472000754522": 221,
+      "gas:candidate-vibid:2472000744922": 11,
+      "gas:candidate-vibid:2472000754033": 3,
+      "gas:candidate-vibid:2472000749805": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000148&tvd=2472000671399&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671399&type=464",
@@ -5323,16 +5323,16 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананян Армен Гамлетович": 14,
-      "Габитов Александр Фирович": 4,
-      "Голосов Анатолий Иванович": 16,
-      "Дюбков Вячеслав Александрович": 83,
-      "Кузьмин Николай Алексеевич": 80,
-      "Любушкина Марина Викторовна": 144,
-      "Нарышкин Сергей Евгеньевич": 447,
-      "Перов Виктор Николаевич": 18,
-      "Сенотрусов Александр Иванович": 19,
-      "Скурихин Дмитрий Николаевич": 7
+      "gas:candidate-vibid:2472000752686": 14,
+      "gas:candidate-vibid:2472000751041": 4,
+      "gas:candidate-vibid:2472000754864": 16,
+      "gas:candidate-vibid:2472000711086": 83,
+      "gas:candidate-vibid:2472000749784": 80,
+      "gas:candidate-vibid:2472000749699": 144,
+      "gas:candidate-vibid:2472000754522": 447,
+      "gas:candidate-vibid:2472000744922": 18,
+      "gas:candidate-vibid:2472000754033": 19,
+      "gas:candidate-vibid:2472000749805": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000148&tvd=2472000671399&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671399&type=464",
@@ -5383,16 +5383,16 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананян Армен Гамлетович": 9,
-      "Габитов Александр Фирович": 5,
-      "Голосов Анатолий Иванович": 9,
-      "Дюбков Вячеслав Александрович": 75,
-      "Кузьмин Николай Алексеевич": 69,
-      "Любушкина Марина Викторовна": 115,
-      "Нарышкин Сергей Евгеньевич": 272,
-      "Перов Виктор Николаевич": 22,
-      "Сенотрусов Александр Иванович": 12,
-      "Скурихин Дмитрий Николаевич": 4
+      "gas:candidate-vibid:2472000752686": 9,
+      "gas:candidate-vibid:2472000751041": 5,
+      "gas:candidate-vibid:2472000754864": 9,
+      "gas:candidate-vibid:2472000711086": 75,
+      "gas:candidate-vibid:2472000749784": 69,
+      "gas:candidate-vibid:2472000749699": 115,
+      "gas:candidate-vibid:2472000754522": 272,
+      "gas:candidate-vibid:2472000744922": 22,
+      "gas:candidate-vibid:2472000754033": 12,
+      "gas:candidate-vibid:2472000749805": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000148&tvd=2472000671399&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671399&type=464",
@@ -5443,16 +5443,16 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананян Армен Гамлетович": 1,
-      "Габитов Александр Фирович": 2,
-      "Голосов Анатолий Иванович": 1,
-      "Дюбков Вячеслав Александрович": 16,
-      "Кузьмин Николай Алексеевич": 20,
-      "Любушкина Марина Викторовна": 28,
-      "Нарышкин Сергей Евгеньевич": 135,
-      "Перов Виктор Николаевич": 2,
-      "Сенотрусов Александр Иванович": 3,
-      "Скурихин Дмитрий Николаевич": 3
+      "gas:candidate-vibid:2472000752686": 1,
+      "gas:candidate-vibid:2472000751041": 2,
+      "gas:candidate-vibid:2472000754864": 1,
+      "gas:candidate-vibid:2472000711086": 16,
+      "gas:candidate-vibid:2472000749784": 20,
+      "gas:candidate-vibid:2472000749699": 28,
+      "gas:candidate-vibid:2472000754522": 135,
+      "gas:candidate-vibid:2472000744922": 2,
+      "gas:candidate-vibid:2472000754033": 3,
+      "gas:candidate-vibid:2472000749805": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000148&tvd=2472000671399&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671399&type=464",
@@ -5503,16 +5503,16 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананян Армен Гамлетович": 10,
-      "Габитов Александр Фирович": 4,
-      "Голосов Анатолий Иванович": 20,
-      "Дюбков Вячеслав Александрович": 56,
-      "Кузьмин Николай Алексеевич": 55,
-      "Любушкина Марина Викторовна": 98,
-      "Нарышкин Сергей Евгеньевич": 284,
-      "Перов Виктор Николаевич": 16,
-      "Сенотрусов Александр Иванович": 9,
-      "Скурихин Дмитрий Николаевич": 7
+      "gas:candidate-vibid:2472000752686": 10,
+      "gas:candidate-vibid:2472000751041": 4,
+      "gas:candidate-vibid:2472000754864": 20,
+      "gas:candidate-vibid:2472000711086": 56,
+      "gas:candidate-vibid:2472000749784": 55,
+      "gas:candidate-vibid:2472000749699": 98,
+      "gas:candidate-vibid:2472000754522": 284,
+      "gas:candidate-vibid:2472000744922": 16,
+      "gas:candidate-vibid:2472000754033": 9,
+      "gas:candidate-vibid:2472000749805": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000148&tvd=2472000671399&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671399&type=464",
@@ -5563,16 +5563,16 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананян Армен Гамлетович": 18,
-      "Габитов Александр Фирович": 6,
-      "Голосов Анатолий Иванович": 15,
-      "Дюбков Вячеслав Александрович": 48,
-      "Кузьмин Николай Алексеевич": 36,
-      "Любушкина Марина Викторовна": 102,
-      "Нарышкин Сергей Евгеньевич": 327,
-      "Перов Виктор Николаевич": 12,
-      "Сенотрусов Александр Иванович": 7,
-      "Скурихин Дмитрий Николаевич": 5
+      "gas:candidate-vibid:2472000752686": 18,
+      "gas:candidate-vibid:2472000751041": 6,
+      "gas:candidate-vibid:2472000754864": 15,
+      "gas:candidate-vibid:2472000711086": 48,
+      "gas:candidate-vibid:2472000749784": 36,
+      "gas:candidate-vibid:2472000749699": 102,
+      "gas:candidate-vibid:2472000754522": 327,
+      "gas:candidate-vibid:2472000744922": 12,
+      "gas:candidate-vibid:2472000754033": 7,
+      "gas:candidate-vibid:2472000749805": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000148&tvd=2472000671399&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671399&type=464",
@@ -5623,16 +5623,16 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананян Армен Гамлетович": 5,
-      "Габитов Александр Фирович": 3,
-      "Голосов Анатолий Иванович": 7,
-      "Дюбков Вячеслав Александрович": 31,
-      "Кузьмин Николай Алексеевич": 32,
-      "Любушкина Марина Викторовна": 102,
-      "Нарышкин Сергей Евгеньевич": 222,
-      "Перов Виктор Николаевич": 9,
-      "Сенотрусов Александр Иванович": 3,
-      "Скурихин Дмитрий Николаевич": 4
+      "gas:candidate-vibid:2472000752686": 5,
+      "gas:candidate-vibid:2472000751041": 3,
+      "gas:candidate-vibid:2472000754864": 7,
+      "gas:candidate-vibid:2472000711086": 31,
+      "gas:candidate-vibid:2472000749784": 32,
+      "gas:candidate-vibid:2472000749699": 102,
+      "gas:candidate-vibid:2472000754522": 222,
+      "gas:candidate-vibid:2472000744922": 9,
+      "gas:candidate-vibid:2472000754033": 3,
+      "gas:candidate-vibid:2472000749805": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000148&tvd=2472000671399&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671399&type=464",
@@ -5683,16 +5683,16 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананян Армен Гамлетович": 10,
-      "Габитов Александр Фирович": 3,
-      "Голосов Анатолий Иванович": 9,
-      "Дюбков Вячеслав Александрович": 69,
-      "Кузьмин Николай Алексеевич": 63,
-      "Любушкина Марина Викторовна": 190,
-      "Нарышкин Сергей Евгеньевич": 430,
-      "Перов Виктор Николаевич": 111,
-      "Сенотрусов Александр Иванович": 8,
-      "Скурихин Дмитрий Николаевич": 16
+      "gas:candidate-vibid:2472000752686": 10,
+      "gas:candidate-vibid:2472000751041": 3,
+      "gas:candidate-vibid:2472000754864": 9,
+      "gas:candidate-vibid:2472000711086": 69,
+      "gas:candidate-vibid:2472000749784": 63,
+      "gas:candidate-vibid:2472000749699": 190,
+      "gas:candidate-vibid:2472000754522": 430,
+      "gas:candidate-vibid:2472000744922": 111,
+      "gas:candidate-vibid:2472000754033": 8,
+      "gas:candidate-vibid:2472000749805": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000148&tvd=2472000671399&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671399&type=464",
@@ -5743,16 +5743,16 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананян Армен Гамлетович": 0,
-      "Габитов Александр Фирович": 1,
-      "Голосов Анатолий Иванович": 2,
-      "Дюбков Вячеслав Александрович": 13,
-      "Кузьмин Николай Алексеевич": 12,
-      "Любушкина Марина Викторовна": 18,
-      "Нарышкин Сергей Евгеньевич": 84,
-      "Перов Виктор Николаевич": 6,
-      "Сенотрусов Александр Иванович": 0,
-      "Скурихин Дмитрий Николаевич": 3
+      "gas:candidate-vibid:2472000752686": 0,
+      "gas:candidate-vibid:2472000751041": 1,
+      "gas:candidate-vibid:2472000754864": 2,
+      "gas:candidate-vibid:2472000711086": 13,
+      "gas:candidate-vibid:2472000749784": 12,
+      "gas:candidate-vibid:2472000749699": 18,
+      "gas:candidate-vibid:2472000754522": 84,
+      "gas:candidate-vibid:2472000744922": 6,
+      "gas:candidate-vibid:2472000754033": 0,
+      "gas:candidate-vibid:2472000749805": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000148&tvd=2472000671399&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671399&type=464",
@@ -5803,16 +5803,16 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананян Армен Гамлетович": 2,
-      "Габитов Александр Фирович": 3,
-      "Голосов Анатолий Иванович": 1,
-      "Дюбков Вячеслав Александрович": 8,
-      "Кузьмин Николай Алексеевич": 11,
-      "Любушкина Марина Викторовна": 13,
-      "Нарышкин Сергей Евгеньевич": 114,
-      "Перов Виктор Николаевич": 9,
-      "Сенотрусов Александр Иванович": 0,
-      "Скурихин Дмитрий Николаевич": 2
+      "gas:candidate-vibid:2472000752686": 2,
+      "gas:candidate-vibid:2472000751041": 3,
+      "gas:candidate-vibid:2472000754864": 1,
+      "gas:candidate-vibid:2472000711086": 8,
+      "gas:candidate-vibid:2472000749784": 11,
+      "gas:candidate-vibid:2472000749699": 13,
+      "gas:candidate-vibid:2472000754522": 114,
+      "gas:candidate-vibid:2472000744922": 9,
+      "gas:candidate-vibid:2472000754033": 0,
+      "gas:candidate-vibid:2472000749805": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000148&tvd=2472000671399&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671399&type=464",
@@ -5863,16 +5863,16 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананян Армен Гамлетович": 4,
-      "Габитов Александр Фирович": 0,
-      "Голосов Анатолий Иванович": 1,
-      "Дюбков Вячеслав Александрович": 13,
-      "Кузьмин Николай Алексеевич": 5,
-      "Любушкина Марина Викторовна": 12,
-      "Нарышкин Сергей Евгеньевич": 125,
-      "Перов Виктор Николаевич": 18,
-      "Сенотрусов Александр Иванович": 1,
-      "Скурихин Дмитрий Николаевич": 3
+      "gas:candidate-vibid:2472000752686": 4,
+      "gas:candidate-vibid:2472000751041": 0,
+      "gas:candidate-vibid:2472000754864": 1,
+      "gas:candidate-vibid:2472000711086": 13,
+      "gas:candidate-vibid:2472000749784": 5,
+      "gas:candidate-vibid:2472000749699": 12,
+      "gas:candidate-vibid:2472000754522": 125,
+      "gas:candidate-vibid:2472000744922": 18,
+      "gas:candidate-vibid:2472000754033": 1,
+      "gas:candidate-vibid:2472000749805": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000148&tvd=2472000671399&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671399&type=464",
@@ -5923,16 +5923,16 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананян Армен Гамлетович": 12,
-      "Габитов Александр Фирович": 2,
-      "Голосов Анатолий Иванович": 11,
-      "Дюбков Вячеслав Александрович": 86,
-      "Кузьмин Николай Алексеевич": 56,
-      "Любушкина Марина Викторовна": 116,
-      "Нарышкин Сергей Евгеньевич": 578,
-      "Перов Виктор Николаевич": 116,
-      "Сенотрусов Александр Иванович": 6,
-      "Скурихин Дмитрий Николаевич": 11
+      "gas:candidate-vibid:2472000752686": 12,
+      "gas:candidate-vibid:2472000751041": 2,
+      "gas:candidate-vibid:2472000754864": 11,
+      "gas:candidate-vibid:2472000711086": 86,
+      "gas:candidate-vibid:2472000749784": 56,
+      "gas:candidate-vibid:2472000749699": 116,
+      "gas:candidate-vibid:2472000754522": 578,
+      "gas:candidate-vibid:2472000744922": 116,
+      "gas:candidate-vibid:2472000754033": 6,
+      "gas:candidate-vibid:2472000749805": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000148&tvd=2472000671399&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671399&type=464",
@@ -5983,16 +5983,16 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананян Армен Гамлетович": 16,
-      "Габитов Александр Фирович": 3,
-      "Голосов Анатолий Иванович": 19,
-      "Дюбков Вячеслав Александрович": 93,
-      "Кузьмин Николай Алексеевич": 82,
-      "Любушкина Марина Викторовна": 137,
-      "Нарышкин Сергей Евгеньевич": 489,
-      "Перов Виктор Николаевич": 100,
-      "Сенотрусов Александр Иванович": 18,
-      "Скурихин Дмитрий Николаевич": 6
+      "gas:candidate-vibid:2472000752686": 16,
+      "gas:candidate-vibid:2472000751041": 3,
+      "gas:candidate-vibid:2472000754864": 19,
+      "gas:candidate-vibid:2472000711086": 93,
+      "gas:candidate-vibid:2472000749784": 82,
+      "gas:candidate-vibid:2472000749699": 137,
+      "gas:candidate-vibid:2472000754522": 489,
+      "gas:candidate-vibid:2472000744922": 100,
+      "gas:candidate-vibid:2472000754033": 18,
+      "gas:candidate-vibid:2472000749805": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000148&tvd=2472000671399&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671399&type=464",
@@ -6043,16 +6043,16 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананян Армен Гамлетович": 17,
-      "Габитов Александр Фирович": 4,
-      "Голосов Анатолий Иванович": 9,
-      "Дюбков Вячеслав Александрович": 94,
-      "Кузьмин Николай Алексеевич": 100,
-      "Любушкина Марина Викторовна": 132,
-      "Нарышкин Сергей Евгеньевич": 503,
-      "Перов Виктор Николаевич": 99,
-      "Сенотрусов Александр Иванович": 15,
-      "Скурихин Дмитрий Николаевич": 16
+      "gas:candidate-vibid:2472000752686": 17,
+      "gas:candidate-vibid:2472000751041": 4,
+      "gas:candidate-vibid:2472000754864": 9,
+      "gas:candidate-vibid:2472000711086": 94,
+      "gas:candidate-vibid:2472000749784": 100,
+      "gas:candidate-vibid:2472000749699": 132,
+      "gas:candidate-vibid:2472000754522": 503,
+      "gas:candidate-vibid:2472000744922": 99,
+      "gas:candidate-vibid:2472000754033": 15,
+      "gas:candidate-vibid:2472000749805": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000148&tvd=2472000671399&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671399&type=464",
@@ -6103,16 +6103,16 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананян Армен Гамлетович": 4,
-      "Габитов Александр Фирович": 3,
-      "Голосов Анатолий Иванович": 19,
-      "Дюбков Вячеслав Александрович": 63,
-      "Кузьмин Николай Алексеевич": 48,
-      "Любушкина Марина Викторовна": 132,
-      "Нарышкин Сергей Евгеньевич": 330,
-      "Перов Виктор Николаевич": 77,
-      "Сенотрусов Александр Иванович": 13,
-      "Скурихин Дмитрий Николаевич": 7
+      "gas:candidate-vibid:2472000752686": 4,
+      "gas:candidate-vibid:2472000751041": 3,
+      "gas:candidate-vibid:2472000754864": 19,
+      "gas:candidate-vibid:2472000711086": 63,
+      "gas:candidate-vibid:2472000749784": 48,
+      "gas:candidate-vibid:2472000749699": 132,
+      "gas:candidate-vibid:2472000754522": 330,
+      "gas:candidate-vibid:2472000744922": 77,
+      "gas:candidate-vibid:2472000754033": 13,
+      "gas:candidate-vibid:2472000749805": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000148&tvd=2472000671399&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671399&type=464",
@@ -6163,16 +6163,16 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананян Армен Гамлетович": 10,
-      "Габитов Александр Фирович": 8,
-      "Голосов Анатолий Иванович": 27,
-      "Дюбков Вячеслав Александрович": 58,
-      "Кузьмин Николай Алексеевич": 82,
-      "Любушкина Марина Викторовна": 133,
-      "Нарышкин Сергей Евгеньевич": 508,
-      "Перов Виктор Николаевич": 23,
-      "Сенотрусов Александр Иванович": 12,
-      "Скурихин Дмитрий Николаевич": 16
+      "gas:candidate-vibid:2472000752686": 10,
+      "gas:candidate-vibid:2472000751041": 8,
+      "gas:candidate-vibid:2472000754864": 27,
+      "gas:candidate-vibid:2472000711086": 58,
+      "gas:candidate-vibid:2472000749784": 82,
+      "gas:candidate-vibid:2472000749699": 133,
+      "gas:candidate-vibid:2472000754522": 508,
+      "gas:candidate-vibid:2472000744922": 23,
+      "gas:candidate-vibid:2472000754033": 12,
+      "gas:candidate-vibid:2472000749805": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000148&tvd=2472000671400&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671400&type=464",
@@ -6223,16 +6223,16 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананян Армен Гамлетович": 9,
-      "Габитов Александр Фирович": 7,
-      "Голосов Анатолий Иванович": 11,
-      "Дюбков Вячеслав Александрович": 66,
-      "Кузьмин Николай Алексеевич": 81,
-      "Любушкина Марина Викторовна": 140,
-      "Нарышкин Сергей Евгеньевич": 515,
-      "Перов Виктор Николаевич": 25,
-      "Сенотрусов Александр Иванович": 15,
-      "Скурихин Дмитрий Николаевич": 9
+      "gas:candidate-vibid:2472000752686": 9,
+      "gas:candidate-vibid:2472000751041": 7,
+      "gas:candidate-vibid:2472000754864": 11,
+      "gas:candidate-vibid:2472000711086": 66,
+      "gas:candidate-vibid:2472000749784": 81,
+      "gas:candidate-vibid:2472000749699": 140,
+      "gas:candidate-vibid:2472000754522": 515,
+      "gas:candidate-vibid:2472000744922": 25,
+      "gas:candidate-vibid:2472000754033": 15,
+      "gas:candidate-vibid:2472000749805": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000148&tvd=2472000671400&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671400&type=464",
@@ -6283,16 +6283,16 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананян Армен Гамлетович": 15,
-      "Габитов Александр Фирович": 7,
-      "Голосов Анатолий Иванович": 17,
-      "Дюбков Вячеслав Александрович": 78,
-      "Кузьмин Николай Алексеевич": 88,
-      "Любушкина Марина Викторовна": 103,
-      "Нарышкин Сергей Евгеньевич": 485,
-      "Перов Виктор Николаевич": 25,
-      "Сенотрусов Александр Иванович": 16,
-      "Скурихин Дмитрий Николаевич": 19
+      "gas:candidate-vibid:2472000752686": 15,
+      "gas:candidate-vibid:2472000751041": 7,
+      "gas:candidate-vibid:2472000754864": 17,
+      "gas:candidate-vibid:2472000711086": 78,
+      "gas:candidate-vibid:2472000749784": 88,
+      "gas:candidate-vibid:2472000749699": 103,
+      "gas:candidate-vibid:2472000754522": 485,
+      "gas:candidate-vibid:2472000744922": 25,
+      "gas:candidate-vibid:2472000754033": 16,
+      "gas:candidate-vibid:2472000749805": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000148&tvd=2472000671400&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671400&type=464",
@@ -6343,16 +6343,16 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананян Армен Гамлетович": 11,
-      "Габитов Александр Фирович": 9,
-      "Голосов Анатолий Иванович": 11,
-      "Дюбков Вячеслав Александрович": 52,
-      "Кузьмин Николай Алексеевич": 70,
-      "Любушкина Марина Викторовна": 105,
-      "Нарышкин Сергей Евгеньевич": 501,
-      "Перов Виктор Николаевич": 18,
-      "Сенотрусов Александр Иванович": 10,
-      "Скурихин Дмитрий Николаевич": 9
+      "gas:candidate-vibid:2472000752686": 11,
+      "gas:candidate-vibid:2472000751041": 9,
+      "gas:candidate-vibid:2472000754864": 11,
+      "gas:candidate-vibid:2472000711086": 52,
+      "gas:candidate-vibid:2472000749784": 70,
+      "gas:candidate-vibid:2472000749699": 105,
+      "gas:candidate-vibid:2472000754522": 501,
+      "gas:candidate-vibid:2472000744922": 18,
+      "gas:candidate-vibid:2472000754033": 10,
+      "gas:candidate-vibid:2472000749805": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000148&tvd=2472000671400&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671400&type=464",
@@ -6403,16 +6403,16 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананян Армен Гамлетович": 2,
-      "Габитов Александр Фирович": 3,
-      "Голосов Анатолий Иванович": 5,
-      "Дюбков Вячеслав Александрович": 18,
-      "Кузьмин Николай Алексеевич": 23,
-      "Любушкина Марина Викторовна": 22,
-      "Нарышкин Сергей Евгеньевич": 170,
-      "Перов Виктор Николаевич": 4,
-      "Сенотрусов Александр Иванович": 3,
-      "Скурихин Дмитрий Николаевич": 2
+      "gas:candidate-vibid:2472000752686": 2,
+      "gas:candidate-vibid:2472000751041": 3,
+      "gas:candidate-vibid:2472000754864": 5,
+      "gas:candidate-vibid:2472000711086": 18,
+      "gas:candidate-vibid:2472000749784": 23,
+      "gas:candidate-vibid:2472000749699": 22,
+      "gas:candidate-vibid:2472000754522": 170,
+      "gas:candidate-vibid:2472000744922": 4,
+      "gas:candidate-vibid:2472000754033": 3,
+      "gas:candidate-vibid:2472000749805": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000148&tvd=2472000671400&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671400&type=464",
@@ -6463,16 +6463,16 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананян Армен Гамлетович": 3,
-      "Габитов Александр Фирович": 4,
-      "Голосов Анатолий Иванович": 9,
-      "Дюбков Вячеслав Александрович": 54,
-      "Кузьмин Николай Алексеевич": 43,
-      "Любушкина Марина Викторовна": 70,
-      "Нарышкин Сергей Евгеньевич": 960,
-      "Перов Виктор Николаевич": 19,
-      "Сенотрусов Александр Иванович": 8,
-      "Скурихин Дмитрий Николаевич": 5
+      "gas:candidate-vibid:2472000752686": 3,
+      "gas:candidate-vibid:2472000751041": 4,
+      "gas:candidate-vibid:2472000754864": 9,
+      "gas:candidate-vibid:2472000711086": 54,
+      "gas:candidate-vibid:2472000749784": 43,
+      "gas:candidate-vibid:2472000749699": 70,
+      "gas:candidate-vibid:2472000754522": 960,
+      "gas:candidate-vibid:2472000744922": 19,
+      "gas:candidate-vibid:2472000754033": 8,
+      "gas:candidate-vibid:2472000749805": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000148&tvd=2472000671400&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671400&type=464",
@@ -6523,16 +6523,16 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананян Армен Гамлетович": 5,
-      "Габитов Александр Фирович": 7,
-      "Голосов Анатолий Иванович": 12,
-      "Дюбков Вячеслав Александрович": 49,
-      "Кузьмин Николай Алексеевич": 45,
-      "Любушкина Марина Викторовна": 81,
-      "Нарышкин Сергей Евгеньевич": 855,
-      "Перов Виктор Николаевич": 21,
-      "Сенотрусов Александр Иванович": 7,
-      "Скурихин Дмитрий Николаевич": 8
+      "gas:candidate-vibid:2472000752686": 5,
+      "gas:candidate-vibid:2472000751041": 7,
+      "gas:candidate-vibid:2472000754864": 12,
+      "gas:candidate-vibid:2472000711086": 49,
+      "gas:candidate-vibid:2472000749784": 45,
+      "gas:candidate-vibid:2472000749699": 81,
+      "gas:candidate-vibid:2472000754522": 855,
+      "gas:candidate-vibid:2472000744922": 21,
+      "gas:candidate-vibid:2472000754033": 7,
+      "gas:candidate-vibid:2472000749805": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000148&tvd=2472000671400&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671400&type=464",
@@ -6583,16 +6583,16 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананян Армен Гамлетович": 6,
-      "Габитов Александр Фирович": 2,
-      "Голосов Анатолий Иванович": 5,
-      "Дюбков Вячеслав Александрович": 18,
-      "Кузьмин Николай Алексеевич": 37,
-      "Любушкина Марина Викторовна": 42,
-      "Нарышкин Сергей Евгеньевич": 250,
-      "Перов Виктор Николаевич": 15,
-      "Сенотрусов Александр Иванович": 5,
-      "Скурихин Дмитрий Николаевич": 6
+      "gas:candidate-vibid:2472000752686": 6,
+      "gas:candidate-vibid:2472000751041": 2,
+      "gas:candidate-vibid:2472000754864": 5,
+      "gas:candidate-vibid:2472000711086": 18,
+      "gas:candidate-vibid:2472000749784": 37,
+      "gas:candidate-vibid:2472000749699": 42,
+      "gas:candidate-vibid:2472000754522": 250,
+      "gas:candidate-vibid:2472000744922": 15,
+      "gas:candidate-vibid:2472000754033": 5,
+      "gas:candidate-vibid:2472000749805": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000148&tvd=2472000671400&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671400&type=464",
@@ -6643,16 +6643,16 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананян Армен Гамлетович": 15,
-      "Габитов Александр Фирович": 8,
-      "Голосов Анатолий Иванович": 11,
-      "Дюбков Вячеслав Александрович": 32,
-      "Кузьмин Николай Алексеевич": 38,
-      "Любушкина Марина Викторовна": 24,
-      "Нарышкин Сергей Евгеньевич": 1102,
-      "Перов Виктор Николаевич": 18,
-      "Сенотрусов Александр Иванович": 4,
-      "Скурихин Дмитрий Николаевич": 2
+      "gas:candidate-vibid:2472000752686": 15,
+      "gas:candidate-vibid:2472000751041": 8,
+      "gas:candidate-vibid:2472000754864": 11,
+      "gas:candidate-vibid:2472000711086": 32,
+      "gas:candidate-vibid:2472000749784": 38,
+      "gas:candidate-vibid:2472000749699": 24,
+      "gas:candidate-vibid:2472000754522": 1102,
+      "gas:candidate-vibid:2472000744922": 18,
+      "gas:candidate-vibid:2472000754033": 4,
+      "gas:candidate-vibid:2472000749805": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000148&tvd=2472000671400&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671400&type=464",
@@ -6703,16 +6703,16 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананян Армен Гамлетович": 1,
-      "Габитов Александр Фирович": 2,
-      "Голосов Анатолий Иванович": 4,
-      "Дюбков Вячеслав Александрович": 7,
-      "Кузьмин Николай Алексеевич": 2,
-      "Любушкина Марина Викторовна": 4,
-      "Нарышкин Сергей Евгеньевич": 142,
-      "Перов Виктор Николаевич": 6,
-      "Сенотрусов Александр Иванович": 3,
-      "Скурихин Дмитрий Николаевич": 1
+      "gas:candidate-vibid:2472000752686": 1,
+      "gas:candidate-vibid:2472000751041": 2,
+      "gas:candidate-vibid:2472000754864": 4,
+      "gas:candidate-vibid:2472000711086": 7,
+      "gas:candidate-vibid:2472000749784": 2,
+      "gas:candidate-vibid:2472000749699": 4,
+      "gas:candidate-vibid:2472000754522": 142,
+      "gas:candidate-vibid:2472000744922": 6,
+      "gas:candidate-vibid:2472000754033": 3,
+      "gas:candidate-vibid:2472000749805": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000148&tvd=2472000671400&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671400&type=464",
@@ -6763,16 +6763,16 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананян Армен Гамлетович": 1,
-      "Габитов Александр Фирович": 4,
-      "Голосов Анатолий Иванович": 6,
-      "Дюбков Вячеслав Александрович": 43,
-      "Кузьмин Николай Алексеевич": 51,
-      "Любушкина Марина Викторовна": 42,
-      "Нарышкин Сергей Евгеньевич": 335,
-      "Перов Виктор Николаевич": 10,
-      "Сенотрусов Александр Иванович": 2,
-      "Скурихин Дмитрий Николаевич": 7
+      "gas:candidate-vibid:2472000752686": 1,
+      "gas:candidate-vibid:2472000751041": 4,
+      "gas:candidate-vibid:2472000754864": 6,
+      "gas:candidate-vibid:2472000711086": 43,
+      "gas:candidate-vibid:2472000749784": 51,
+      "gas:candidate-vibid:2472000749699": 42,
+      "gas:candidate-vibid:2472000754522": 335,
+      "gas:candidate-vibid:2472000744922": 10,
+      "gas:candidate-vibid:2472000754033": 2,
+      "gas:candidate-vibid:2472000749805": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000148&tvd=2472000671400&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671400&type=464",
@@ -6823,16 +6823,16 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананян Армен Гамлетович": 6,
-      "Габитов Александр Фирович": 2,
-      "Голосов Анатолий Иванович": 6,
-      "Дюбков Вячеслав Александрович": 35,
-      "Кузьмин Николай Алексеевич": 31,
-      "Любушкина Марина Викторовна": 29,
-      "Нарышкин Сергей Евгеньевич": 361,
-      "Перов Виктор Николаевич": 12,
-      "Сенотрусов Александр Иванович": 3,
-      "Скурихин Дмитрий Николаевич": 6
+      "gas:candidate-vibid:2472000752686": 6,
+      "gas:candidate-vibid:2472000751041": 2,
+      "gas:candidate-vibid:2472000754864": 6,
+      "gas:candidate-vibid:2472000711086": 35,
+      "gas:candidate-vibid:2472000749784": 31,
+      "gas:candidate-vibid:2472000749699": 29,
+      "gas:candidate-vibid:2472000754522": 361,
+      "gas:candidate-vibid:2472000744922": 12,
+      "gas:candidate-vibid:2472000754033": 3,
+      "gas:candidate-vibid:2472000749805": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000148&tvd=2472000671400&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671400&type=464",
@@ -6883,16 +6883,16 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананян Армен Гамлетович": 4,
-      "Габитов Александр Фирович": 5,
-      "Голосов Анатолий Иванович": 13,
-      "Дюбков Вячеслав Александрович": 29,
-      "Кузьмин Николай Алексеевич": 32,
-      "Любушкина Марина Викторовна": 40,
-      "Нарышкин Сергей Евгеньевич": 490,
-      "Перов Виктор Николаевич": 12,
-      "Сенотрусов Александр Иванович": 9,
-      "Скурихин Дмитрий Николаевич": 5
+      "gas:candidate-vibid:2472000752686": 4,
+      "gas:candidate-vibid:2472000751041": 5,
+      "gas:candidate-vibid:2472000754864": 13,
+      "gas:candidate-vibid:2472000711086": 29,
+      "gas:candidate-vibid:2472000749784": 32,
+      "gas:candidate-vibid:2472000749699": 40,
+      "gas:candidate-vibid:2472000754522": 490,
+      "gas:candidate-vibid:2472000744922": 12,
+      "gas:candidate-vibid:2472000754033": 9,
+      "gas:candidate-vibid:2472000749805": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000148&tvd=2472000671400&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671400&type=464",
@@ -6943,16 +6943,16 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананян Армен Гамлетович": 12,
-      "Габитов Александр Фирович": 7,
-      "Голосов Анатолий Иванович": 13,
-      "Дюбков Вячеслав Александрович": 36,
-      "Кузьмин Николай Алексеевич": 59,
-      "Любушкина Марина Викторовна": 55,
-      "Нарышкин Сергей Евгеньевич": 477,
-      "Перов Виктор Николаевич": 13,
-      "Сенотрусов Александр Иванович": 4,
-      "Скурихин Дмитрий Николаевич": 12
+      "gas:candidate-vibid:2472000752686": 12,
+      "gas:candidate-vibid:2472000751041": 7,
+      "gas:candidate-vibid:2472000754864": 13,
+      "gas:candidate-vibid:2472000711086": 36,
+      "gas:candidate-vibid:2472000749784": 59,
+      "gas:candidate-vibid:2472000749699": 55,
+      "gas:candidate-vibid:2472000754522": 477,
+      "gas:candidate-vibid:2472000744922": 13,
+      "gas:candidate-vibid:2472000754033": 4,
+      "gas:candidate-vibid:2472000749805": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000148&tvd=2472000671400&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671400&type=464",
@@ -7003,16 +7003,16 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананян Армен Гамлетович": 1,
-      "Габитов Александр Фирович": 2,
-      "Голосов Анатолий Иванович": 0,
-      "Дюбков Вячеслав Александрович": 22,
-      "Кузьмин Николай Алексеевич": 7,
-      "Любушкина Марина Викторовна": 16,
-      "Нарышкин Сергей Евгеньевич": 162,
-      "Перов Виктор Николаевич": 2,
-      "Сенотрусов Александр Иванович": 2,
-      "Скурихин Дмитрий Николаевич": 5
+      "gas:candidate-vibid:2472000752686": 1,
+      "gas:candidate-vibid:2472000751041": 2,
+      "gas:candidate-vibid:2472000754864": 0,
+      "gas:candidate-vibid:2472000711086": 22,
+      "gas:candidate-vibid:2472000749784": 7,
+      "gas:candidate-vibid:2472000749699": 16,
+      "gas:candidate-vibid:2472000754522": 162,
+      "gas:candidate-vibid:2472000744922": 2,
+      "gas:candidate-vibid:2472000754033": 2,
+      "gas:candidate-vibid:2472000749805": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000148&tvd=2472000671400&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671400&type=464",
@@ -7063,16 +7063,16 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананян Армен Гамлетович": 3,
-      "Габитов Александр Фирович": 4,
-      "Голосов Анатолий Иванович": 7,
-      "Дюбков Вячеслав Александрович": 19,
-      "Кузьмин Николай Алексеевич": 19,
-      "Любушкина Марина Викторовна": 14,
-      "Нарышкин Сергей Евгеньевич": 258,
-      "Перов Виктор Николаевич": 7,
-      "Сенотрусов Александр Иванович": 2,
-      "Скурихин Дмитрий Николаевич": 1
+      "gas:candidate-vibid:2472000752686": 3,
+      "gas:candidate-vibid:2472000751041": 4,
+      "gas:candidate-vibid:2472000754864": 7,
+      "gas:candidate-vibid:2472000711086": 19,
+      "gas:candidate-vibid:2472000749784": 19,
+      "gas:candidate-vibid:2472000749699": 14,
+      "gas:candidate-vibid:2472000754522": 258,
+      "gas:candidate-vibid:2472000744922": 7,
+      "gas:candidate-vibid:2472000754033": 2,
+      "gas:candidate-vibid:2472000749805": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000148&tvd=2472000671400&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671400&type=464",
@@ -7123,16 +7123,16 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананян Армен Гамлетович": 6,
-      "Габитов Александр Фирович": 1,
-      "Голосов Анатолий Иванович": 5,
-      "Дюбков Вячеслав Александрович": 19,
-      "Кузьмин Николай Алексеевич": 15,
-      "Любушкина Марина Викторовна": 9,
-      "Нарышкин Сергей Евгеньевич": 376,
-      "Перов Виктор Николаевич": 5,
-      "Сенотрусов Александр Иванович": 1,
-      "Скурихин Дмитрий Николаевич": 1
+      "gas:candidate-vibid:2472000752686": 6,
+      "gas:candidate-vibid:2472000751041": 1,
+      "gas:candidate-vibid:2472000754864": 5,
+      "gas:candidate-vibid:2472000711086": 19,
+      "gas:candidate-vibid:2472000749784": 15,
+      "gas:candidate-vibid:2472000749699": 9,
+      "gas:candidate-vibid:2472000754522": 376,
+      "gas:candidate-vibid:2472000744922": 5,
+      "gas:candidate-vibid:2472000754033": 1,
+      "gas:candidate-vibid:2472000749805": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000148&tvd=2472000671400&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671400&type=464",
@@ -7183,16 +7183,16 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананян Армен Гамлетович": 4,
-      "Габитов Александр Фирович": 3,
-      "Голосов Анатолий Иванович": 6,
-      "Дюбков Вячеслав Александрович": 39,
-      "Кузьмин Николай Алексеевич": 79,
-      "Любушкина Марина Викторовна": 76,
-      "Нарышкин Сергей Евгеньевич": 420,
-      "Перов Виктор Николаевич": 20,
-      "Сенотрусов Александр Иванович": 4,
-      "Скурихин Дмитрий Николаевич": 7
+      "gas:candidate-vibid:2472000752686": 4,
+      "gas:candidate-vibid:2472000751041": 3,
+      "gas:candidate-vibid:2472000754864": 6,
+      "gas:candidate-vibid:2472000711086": 39,
+      "gas:candidate-vibid:2472000749784": 79,
+      "gas:candidate-vibid:2472000749699": 76,
+      "gas:candidate-vibid:2472000754522": 420,
+      "gas:candidate-vibid:2472000744922": 20,
+      "gas:candidate-vibid:2472000754033": 4,
+      "gas:candidate-vibid:2472000749805": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000148&tvd=2472000671400&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671400&type=464",
@@ -7243,16 +7243,16 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананян Армен Гамлетович": 5,
-      "Габитов Александр Фирович": 2,
-      "Голосов Анатолий Иванович": 6,
-      "Дюбков Вячеслав Александрович": 40,
-      "Кузьмин Николай Алексеевич": 38,
-      "Любушкина Марина Викторовна": 38,
-      "Нарышкин Сергей Евгеньевич": 337,
-      "Перов Виктор Николаевич": 13,
-      "Сенотрусов Александр Иванович": 3,
-      "Скурихин Дмитрий Николаевич": 1
+      "gas:candidate-vibid:2472000752686": 5,
+      "gas:candidate-vibid:2472000751041": 2,
+      "gas:candidate-vibid:2472000754864": 6,
+      "gas:candidate-vibid:2472000711086": 40,
+      "gas:candidate-vibid:2472000749784": 38,
+      "gas:candidate-vibid:2472000749699": 38,
+      "gas:candidate-vibid:2472000754522": 337,
+      "gas:candidate-vibid:2472000744922": 13,
+      "gas:candidate-vibid:2472000754033": 3,
+      "gas:candidate-vibid:2472000749805": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000148&tvd=2472000671400&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671400&type=464",
@@ -7303,16 +7303,16 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананян Армен Гамлетович": 3,
-      "Габитов Александр Фирович": 2,
-      "Голосов Анатолий Иванович": 15,
-      "Дюбков Вячеслав Александрович": 50,
-      "Кузьмин Николай Алексеевич": 66,
-      "Любушкина Марина Викторовна": 71,
-      "Нарышкин Сергей Евгеньевич": 427,
-      "Перов Виктор Николаевич": 17,
-      "Сенотрусов Александр Иванович": 8,
-      "Скурихин Дмитрий Николаевич": 7
+      "gas:candidate-vibid:2472000752686": 3,
+      "gas:candidate-vibid:2472000751041": 2,
+      "gas:candidate-vibid:2472000754864": 15,
+      "gas:candidate-vibid:2472000711086": 50,
+      "gas:candidate-vibid:2472000749784": 66,
+      "gas:candidate-vibid:2472000749699": 71,
+      "gas:candidate-vibid:2472000754522": 427,
+      "gas:candidate-vibid:2472000744922": 17,
+      "gas:candidate-vibid:2472000754033": 8,
+      "gas:candidate-vibid:2472000749805": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000148&tvd=2472000671400&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671400&type=464",
@@ -7363,16 +7363,16 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананян Армен Гамлетович": 7,
-      "Габитов Александр Фирович": 4,
-      "Голосов Анатолий Иванович": 3,
-      "Дюбков Вячеслав Александрович": 34,
-      "Кузьмин Николай Алексеевич": 15,
-      "Любушкина Марина Викторовна": 34,
-      "Нарышкин Сергей Евгеньевич": 310,
-      "Перов Виктор Николаевич": 5,
-      "Сенотрусов Александр Иванович": 3,
-      "Скурихин Дмитрий Николаевич": 5
+      "gas:candidate-vibid:2472000752686": 7,
+      "gas:candidate-vibid:2472000751041": 4,
+      "gas:candidate-vibid:2472000754864": 3,
+      "gas:candidate-vibid:2472000711086": 34,
+      "gas:candidate-vibid:2472000749784": 15,
+      "gas:candidate-vibid:2472000749699": 34,
+      "gas:candidate-vibid:2472000754522": 310,
+      "gas:candidate-vibid:2472000744922": 5,
+      "gas:candidate-vibid:2472000754033": 3,
+      "gas:candidate-vibid:2472000749805": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000148&tvd=2472000671400&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671400&type=464",
@@ -7423,16 +7423,16 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананян Армен Гамлетович": 6,
-      "Габитов Александр Фирович": 5,
-      "Голосов Анатолий Иванович": 16,
-      "Дюбков Вячеслав Александрович": 56,
-      "Кузьмин Николай Алексеевич": 59,
-      "Любушкина Марина Викторовна": 69,
-      "Нарышкин Сергей Евгеньевич": 420,
-      "Перов Виктор Николаевич": 14,
-      "Сенотрусов Александр Иванович": 5,
-      "Скурихин Дмитрий Николаевич": 8
+      "gas:candidate-vibid:2472000752686": 6,
+      "gas:candidate-vibid:2472000751041": 5,
+      "gas:candidate-vibid:2472000754864": 16,
+      "gas:candidate-vibid:2472000711086": 56,
+      "gas:candidate-vibid:2472000749784": 59,
+      "gas:candidate-vibid:2472000749699": 69,
+      "gas:candidate-vibid:2472000754522": 420,
+      "gas:candidate-vibid:2472000744922": 14,
+      "gas:candidate-vibid:2472000754033": 5,
+      "gas:candidate-vibid:2472000749805": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000148&tvd=2472000671400&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671400&type=464",
@@ -7483,16 +7483,16 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананян Армен Гамлетович": 4,
-      "Габитов Александр Фирович": 5,
-      "Голосов Анатолий Иванович": 24,
-      "Дюбков Вячеслав Александрович": 44,
-      "Кузьмин Николай Алексеевич": 45,
-      "Любушкина Марина Викторовна": 59,
-      "Нарышкин Сергей Евгеньевич": 528,
-      "Перов Виктор Николаевич": 18,
-      "Сенотрусов Александр Иванович": 9,
-      "Скурихин Дмитрий Николаевич": 10
+      "gas:candidate-vibid:2472000752686": 4,
+      "gas:candidate-vibid:2472000751041": 5,
+      "gas:candidate-vibid:2472000754864": 24,
+      "gas:candidate-vibid:2472000711086": 44,
+      "gas:candidate-vibid:2472000749784": 45,
+      "gas:candidate-vibid:2472000749699": 59,
+      "gas:candidate-vibid:2472000754522": 528,
+      "gas:candidate-vibid:2472000744922": 18,
+      "gas:candidate-vibid:2472000754033": 9,
+      "gas:candidate-vibid:2472000749805": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000148&tvd=2472000671400&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671400&type=464",
@@ -7543,16 +7543,16 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананян Армен Гамлетович": 4,
-      "Габитов Александр Фирович": 4,
-      "Голосов Анатолий Иванович": 13,
-      "Дюбков Вячеслав Александрович": 48,
-      "Кузьмин Николай Алексеевич": 63,
-      "Любушкина Марина Викторовна": 54,
-      "Нарышкин Сергей Евгеньевич": 317,
-      "Перов Виктор Николаевич": 28,
-      "Сенотрусов Александр Иванович": 6,
-      "Скурихин Дмитрий Николаевич": 1
+      "gas:candidate-vibid:2472000752686": 4,
+      "gas:candidate-vibid:2472000751041": 4,
+      "gas:candidate-vibid:2472000754864": 13,
+      "gas:candidate-vibid:2472000711086": 48,
+      "gas:candidate-vibid:2472000749784": 63,
+      "gas:candidate-vibid:2472000749699": 54,
+      "gas:candidate-vibid:2472000754522": 317,
+      "gas:candidate-vibid:2472000744922": 28,
+      "gas:candidate-vibid:2472000754033": 6,
+      "gas:candidate-vibid:2472000749805": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000148&tvd=2472000671400&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671400&type=464",
@@ -7603,16 +7603,16 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананян Армен Гамлетович": 10,
-      "Габитов Александр Фирович": 3,
-      "Голосов Анатолий Иванович": 17,
-      "Дюбков Вячеслав Александрович": 27,
-      "Кузьмин Николай Алексеевич": 41,
-      "Любушкина Марина Викторовна": 46,
-      "Нарышкин Сергей Евгеньевич": 586,
-      "Перов Виктор Николаевич": 13,
-      "Сенотрусов Александр Иванович": 9,
-      "Скурихин Дмитрий Николаевич": 8
+      "gas:candidate-vibid:2472000752686": 10,
+      "gas:candidate-vibid:2472000751041": 3,
+      "gas:candidate-vibid:2472000754864": 17,
+      "gas:candidate-vibid:2472000711086": 27,
+      "gas:candidate-vibid:2472000749784": 41,
+      "gas:candidate-vibid:2472000749699": 46,
+      "gas:candidate-vibid:2472000754522": 586,
+      "gas:candidate-vibid:2472000744922": 13,
+      "gas:candidate-vibid:2472000754033": 9,
+      "gas:candidate-vibid:2472000749805": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000148&tvd=2472000671400&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671400&type=464",
@@ -7663,16 +7663,16 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананян Армен Гамлетович": 8,
-      "Габитов Александр Фирович": 4,
-      "Голосов Анатолий Иванович": 6,
-      "Дюбков Вячеслав Александрович": 30,
-      "Кузьмин Николай Алексеевич": 40,
-      "Любушкина Марина Викторовна": 41,
-      "Нарышкин Сергей Евгеньевич": 425,
-      "Перов Виктор Николаевич": 12,
-      "Сенотрусов Александр Иванович": 4,
-      "Скурихин Дмитрий Николаевич": 11
+      "gas:candidate-vibid:2472000752686": 8,
+      "gas:candidate-vibid:2472000751041": 4,
+      "gas:candidate-vibid:2472000754864": 6,
+      "gas:candidate-vibid:2472000711086": 30,
+      "gas:candidate-vibid:2472000749784": 40,
+      "gas:candidate-vibid:2472000749699": 41,
+      "gas:candidate-vibid:2472000754522": 425,
+      "gas:candidate-vibid:2472000744922": 12,
+      "gas:candidate-vibid:2472000754033": 4,
+      "gas:candidate-vibid:2472000749805": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000148&tvd=2472000671400&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671400&type=464",
@@ -7723,16 +7723,16 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананян Армен Гамлетович": 0,
-      "Габитов Александр Фирович": 0,
-      "Голосов Анатолий Иванович": 0,
-      "Дюбков Вячеслав Александрович": 0,
-      "Кузьмин Николай Алексеевич": 0,
-      "Любушкина Марина Викторовна": 0,
-      "Нарышкин Сергей Евгеньевич": 44,
-      "Перов Виктор Николаевич": 0,
-      "Сенотрусов Александр Иванович": 0,
-      "Скурихин Дмитрий Николаевич": 0
+      "gas:candidate-vibid:2472000752686": 0,
+      "gas:candidate-vibid:2472000751041": 0,
+      "gas:candidate-vibid:2472000754864": 0,
+      "gas:candidate-vibid:2472000711086": 0,
+      "gas:candidate-vibid:2472000749784": 0,
+      "gas:candidate-vibid:2472000749699": 0,
+      "gas:candidate-vibid:2472000754522": 44,
+      "gas:candidate-vibid:2472000744922": 0,
+      "gas:candidate-vibid:2472000754033": 0,
+      "gas:candidate-vibid:2472000749805": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000148&tvd=2472000671400&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671400&type=464",
@@ -7783,17 +7783,17 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Максим Викторович": 20,
-      "Гиндос Андрей Евгеньевич": 31,
-      "Куликова Галина Васильевна": 47,
-      "Майоров Владимир Михайлович": 12,
-      "Морозенок Елена Олеговна": 11,
-      "Ожерельев Владимир Борисович": 54,
-      "Петров Сергей Валериевич": 180,
-      "Пониматкин Алексей Владимирович": 49,
-      "Расторгуев Александр Викторович": 22,
-      "Стоша Светлана Анатольевна": 20,
-      "Шинкаренко Валерий Викторович": 18
+      "gas:candidate-vibid:2472000752523": 20,
+      "gas:candidate-vibid:2472000749423": 31,
+      "gas:candidate-vibid:2472000749660": 47,
+      "gas:candidate-vibid:2472000751082": 12,
+      "gas:candidate-vibid:2472000752675": 11,
+      "gas:candidate-vibid:2472000749435": 54,
+      "gas:candidate-vibid:2472000753653": 180,
+      "gas:candidate-vibid:2472000711097": 49,
+      "gas:candidate-vibid:2472000749877": 22,
+      "gas:candidate-vibid:2472000753980": 20,
+      "gas:candidate-vibid:2472000752456": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000149&tvd=2472000671401&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671401&type=464",
@@ -7844,17 +7844,17 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Максим Викторович": 7,
-      "Гиндос Андрей Евгеньевич": 8,
-      "Куликова Галина Васильевна": 20,
-      "Майоров Владимир Михайлович": 4,
-      "Морозенок Елена Олеговна": 11,
-      "Ожерельев Владимир Борисович": 26,
-      "Петров Сергей Валериевич": 122,
-      "Пониматкин Алексей Владимирович": 22,
-      "Расторгуев Александр Викторович": 17,
-      "Стоша Светлана Анатольевна": 9,
-      "Шинкаренко Валерий Викторович": 17
+      "gas:candidate-vibid:2472000752523": 7,
+      "gas:candidate-vibid:2472000749423": 8,
+      "gas:candidate-vibid:2472000749660": 20,
+      "gas:candidate-vibid:2472000751082": 4,
+      "gas:candidate-vibid:2472000752675": 11,
+      "gas:candidate-vibid:2472000749435": 26,
+      "gas:candidate-vibid:2472000753653": 122,
+      "gas:candidate-vibid:2472000711097": 22,
+      "gas:candidate-vibid:2472000749877": 17,
+      "gas:candidate-vibid:2472000753980": 9,
+      "gas:candidate-vibid:2472000752456": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000149&tvd=2472000671401&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671401&type=464",
@@ -7905,17 +7905,17 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Максим Викторович": 10,
-      "Гиндос Андрей Евгеньевич": 11,
-      "Куликова Галина Васильевна": 27,
-      "Майоров Владимир Михайлович": 6,
-      "Морозенок Елена Олеговна": 3,
-      "Ожерельев Владимир Борисович": 18,
-      "Петров Сергей Валериевич": 98,
-      "Пониматкин Алексей Владимирович": 10,
-      "Расторгуев Александр Викторович": 8,
-      "Стоша Светлана Анатольевна": 7,
-      "Шинкаренко Валерий Викторович": 5
+      "gas:candidate-vibid:2472000752523": 10,
+      "gas:candidate-vibid:2472000749423": 11,
+      "gas:candidate-vibid:2472000749660": 27,
+      "gas:candidate-vibid:2472000751082": 6,
+      "gas:candidate-vibid:2472000752675": 3,
+      "gas:candidate-vibid:2472000749435": 18,
+      "gas:candidate-vibid:2472000753653": 98,
+      "gas:candidate-vibid:2472000711097": 10,
+      "gas:candidate-vibid:2472000749877": 8,
+      "gas:candidate-vibid:2472000753980": 7,
+      "gas:candidate-vibid:2472000752456": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000149&tvd=2472000671401&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671401&type=464",
@@ -7966,17 +7966,17 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Максим Викторович": 34,
-      "Гиндос Андрей Евгеньевич": 42,
-      "Куликова Галина Васильевна": 62,
-      "Майоров Владимир Михайлович": 27,
-      "Морозенок Елена Олеговна": 15,
-      "Ожерельев Владимир Борисович": 99,
-      "Петров Сергей Валериевич": 280,
-      "Пониматкин Алексей Владимирович": 86,
-      "Расторгуев Александр Викторович": 24,
-      "Стоша Светлана Анатольевна": 29,
-      "Шинкаренко Валерий Викторович": 31
+      "gas:candidate-vibid:2472000752523": 34,
+      "gas:candidate-vibid:2472000749423": 42,
+      "gas:candidate-vibid:2472000749660": 62,
+      "gas:candidate-vibid:2472000751082": 27,
+      "gas:candidate-vibid:2472000752675": 15,
+      "gas:candidate-vibid:2472000749435": 99,
+      "gas:candidate-vibid:2472000753653": 280,
+      "gas:candidate-vibid:2472000711097": 86,
+      "gas:candidate-vibid:2472000749877": 24,
+      "gas:candidate-vibid:2472000753980": 29,
+      "gas:candidate-vibid:2472000752456": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000149&tvd=2472000671401&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671401&type=464",
@@ -8027,17 +8027,17 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Максим Викторович": 6,
-      "Гиндос Андрей Евгеньевич": 10,
-      "Куликова Галина Васильевна": 23,
-      "Майоров Владимир Михайлович": 12,
-      "Морозенок Елена Олеговна": 5,
-      "Ожерельев Владимир Борисович": 35,
-      "Петров Сергей Валериевич": 111,
-      "Пониматкин Алексей Владимирович": 32,
-      "Расторгуев Александр Викторович": 14,
-      "Стоша Светлана Анатольевна": 13,
-      "Шинкаренко Валерий Викторович": 10
+      "gas:candidate-vibid:2472000752523": 6,
+      "gas:candidate-vibid:2472000749423": 10,
+      "gas:candidate-vibid:2472000749660": 23,
+      "gas:candidate-vibid:2472000751082": 12,
+      "gas:candidate-vibid:2472000752675": 5,
+      "gas:candidate-vibid:2472000749435": 35,
+      "gas:candidate-vibid:2472000753653": 111,
+      "gas:candidate-vibid:2472000711097": 32,
+      "gas:candidate-vibid:2472000749877": 14,
+      "gas:candidate-vibid:2472000753980": 13,
+      "gas:candidate-vibid:2472000752456": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000149&tvd=2472000671401&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671401&type=464",
@@ -8088,17 +8088,17 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Максим Викторович": 9,
-      "Гиндос Андрей Евгеньевич": 8,
-      "Куликова Галина Васильевна": 16,
-      "Майоров Владимир Михайлович": 3,
-      "Морозенок Елена Олеговна": 5,
-      "Ожерельев Владимир Борисович": 19,
-      "Петров Сергей Валериевич": 53,
-      "Пониматкин Алексей Владимирович": 16,
-      "Расторгуев Александр Викторович": 11,
-      "Стоша Светлана Анатольевна": 6,
-      "Шинкаренко Валерий Викторович": 6
+      "gas:candidate-vibid:2472000752523": 9,
+      "gas:candidate-vibid:2472000749423": 8,
+      "gas:candidate-vibid:2472000749660": 16,
+      "gas:candidate-vibid:2472000751082": 3,
+      "gas:candidate-vibid:2472000752675": 5,
+      "gas:candidate-vibid:2472000749435": 19,
+      "gas:candidate-vibid:2472000753653": 53,
+      "gas:candidate-vibid:2472000711097": 16,
+      "gas:candidate-vibid:2472000749877": 11,
+      "gas:candidate-vibid:2472000753980": 6,
+      "gas:candidate-vibid:2472000752456": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000149&tvd=2472000671401&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671401&type=464",
@@ -8149,17 +8149,17 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Максим Викторович": 9,
-      "Гиндос Андрей Евгеньевич": 12,
-      "Куликова Галина Васильевна": 16,
-      "Майоров Владимир Михайлович": 6,
-      "Морозенок Елена Олеговна": 5,
-      "Ожерельев Владимир Борисович": 9,
-      "Петров Сергей Валериевич": 93,
-      "Пониматкин Алексей Владимирович": 12,
-      "Расторгуев Александр Викторович": 10,
-      "Стоша Светлана Анатольевна": 2,
-      "Шинкаренко Валерий Викторович": 7
+      "gas:candidate-vibid:2472000752523": 9,
+      "gas:candidate-vibid:2472000749423": 12,
+      "gas:candidate-vibid:2472000749660": 16,
+      "gas:candidate-vibid:2472000751082": 6,
+      "gas:candidate-vibid:2472000752675": 5,
+      "gas:candidate-vibid:2472000749435": 9,
+      "gas:candidate-vibid:2472000753653": 93,
+      "gas:candidate-vibid:2472000711097": 12,
+      "gas:candidate-vibid:2472000749877": 10,
+      "gas:candidate-vibid:2472000753980": 2,
+      "gas:candidate-vibid:2472000752456": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000149&tvd=2472000671401&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671401&type=464",
@@ -8210,17 +8210,17 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Максим Викторович": 11,
-      "Гиндос Андрей Евгеньевич": 9,
-      "Куликова Галина Васильевна": 25,
-      "Майоров Владимир Михайлович": 13,
-      "Морозенок Елена Олеговна": 5,
-      "Ожерельев Владимир Борисович": 30,
-      "Петров Сергей Валериевич": 115,
-      "Пониматкин Алексей Владимирович": 34,
-      "Расторгуев Александр Викторович": 9,
-      "Стоша Светлана Анатольевна": 6,
-      "Шинкаренко Валерий Викторович": 9
+      "gas:candidate-vibid:2472000752523": 11,
+      "gas:candidate-vibid:2472000749423": 9,
+      "gas:candidate-vibid:2472000749660": 25,
+      "gas:candidate-vibid:2472000751082": 13,
+      "gas:candidate-vibid:2472000752675": 5,
+      "gas:candidate-vibid:2472000749435": 30,
+      "gas:candidate-vibid:2472000753653": 115,
+      "gas:candidate-vibid:2472000711097": 34,
+      "gas:candidate-vibid:2472000749877": 9,
+      "gas:candidate-vibid:2472000753980": 6,
+      "gas:candidate-vibid:2472000752456": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000149&tvd=2472000671401&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671401&type=464",
@@ -8271,17 +8271,17 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Максим Викторович": 8,
-      "Гиндос Андрей Евгеньевич": 20,
-      "Куликова Галина Васильевна": 8,
-      "Майоров Владимир Михайлович": 12,
-      "Морозенок Елена Олеговна": 5,
-      "Ожерельев Владимир Борисович": 35,
-      "Петров Сергей Валериевич": 89,
-      "Пониматкин Алексей Владимирович": 22,
-      "Расторгуев Александр Викторович": 7,
-      "Стоша Светлана Анатольевна": 8,
-      "Шинкаренко Валерий Викторович": 8
+      "gas:candidate-vibid:2472000752523": 8,
+      "gas:candidate-vibid:2472000749423": 20,
+      "gas:candidate-vibid:2472000749660": 8,
+      "gas:candidate-vibid:2472000751082": 12,
+      "gas:candidate-vibid:2472000752675": 5,
+      "gas:candidate-vibid:2472000749435": 35,
+      "gas:candidate-vibid:2472000753653": 89,
+      "gas:candidate-vibid:2472000711097": 22,
+      "gas:candidate-vibid:2472000749877": 7,
+      "gas:candidate-vibid:2472000753980": 8,
+      "gas:candidate-vibid:2472000752456": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000149&tvd=2472000671401&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671401&type=464",
@@ -8332,17 +8332,17 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Максим Викторович": 20,
-      "Гиндос Андрей Евгеньевич": 26,
-      "Куликова Галина Васильевна": 34,
-      "Майоров Владимир Михайлович": 12,
-      "Морозенок Елена Олеговна": 6,
-      "Ожерельев Владимир Борисович": 47,
-      "Петров Сергей Валериевич": 215,
-      "Пониматкин Алексей Владимирович": 35,
-      "Расторгуев Александр Викторович": 23,
-      "Стоша Светлана Анатольевна": 15,
-      "Шинкаренко Валерий Викторович": 16
+      "gas:candidate-vibid:2472000752523": 20,
+      "gas:candidate-vibid:2472000749423": 26,
+      "gas:candidate-vibid:2472000749660": 34,
+      "gas:candidate-vibid:2472000751082": 12,
+      "gas:candidate-vibid:2472000752675": 6,
+      "gas:candidate-vibid:2472000749435": 47,
+      "gas:candidate-vibid:2472000753653": 215,
+      "gas:candidate-vibid:2472000711097": 35,
+      "gas:candidate-vibid:2472000749877": 23,
+      "gas:candidate-vibid:2472000753980": 15,
+      "gas:candidate-vibid:2472000752456": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000149&tvd=2472000671401&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671401&type=464",
@@ -8393,17 +8393,17 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Максим Викторович": 2,
-      "Гиндос Андрей Евгеньевич": 4,
-      "Куликова Галина Васильевна": 3,
-      "Майоров Владимир Михайлович": 4,
-      "Морозенок Елена Олеговна": 1,
-      "Ожерельев Владимир Борисович": 8,
-      "Петров Сергей Валериевич": 25,
-      "Пониматкин Алексей Владимирович": 11,
-      "Расторгуев Александр Викторович": 3,
-      "Стоша Светлана Анатольевна": 4,
-      "Шинкаренко Валерий Викторович": 5
+      "gas:candidate-vibid:2472000752523": 2,
+      "gas:candidate-vibid:2472000749423": 4,
+      "gas:candidate-vibid:2472000749660": 3,
+      "gas:candidate-vibid:2472000751082": 4,
+      "gas:candidate-vibid:2472000752675": 1,
+      "gas:candidate-vibid:2472000749435": 8,
+      "gas:candidate-vibid:2472000753653": 25,
+      "gas:candidate-vibid:2472000711097": 11,
+      "gas:candidate-vibid:2472000749877": 3,
+      "gas:candidate-vibid:2472000753980": 4,
+      "gas:candidate-vibid:2472000752456": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000149&tvd=2472000671401&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671401&type=464",
@@ -8454,17 +8454,17 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Максим Викторович": 3,
-      "Гиндос Андрей Евгеньевич": 3,
-      "Куликова Галина Васильевна": 6,
-      "Майоров Владимир Михайлович": 1,
-      "Морозенок Елена Олеговна": 3,
-      "Ожерельев Владимир Борисович": 7,
-      "Петров Сергей Валериевич": 44,
-      "Пониматкин Алексей Владимирович": 9,
-      "Расторгуев Александр Викторович": 5,
-      "Стоша Светлана Анатольевна": 1,
-      "Шинкаренко Валерий Викторович": 0
+      "gas:candidate-vibid:2472000752523": 3,
+      "gas:candidate-vibid:2472000749423": 3,
+      "gas:candidate-vibid:2472000749660": 6,
+      "gas:candidate-vibid:2472000751082": 1,
+      "gas:candidate-vibid:2472000752675": 3,
+      "gas:candidate-vibid:2472000749435": 7,
+      "gas:candidate-vibid:2472000753653": 44,
+      "gas:candidate-vibid:2472000711097": 9,
+      "gas:candidate-vibid:2472000749877": 5,
+      "gas:candidate-vibid:2472000753980": 1,
+      "gas:candidate-vibid:2472000752456": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000149&tvd=2472000671401&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671401&type=464",
@@ -8515,17 +8515,17 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Максим Викторович": 23,
-      "Гиндос Андрей Евгеньевич": 25,
-      "Куликова Галина Васильевна": 70,
-      "Майоров Владимир Михайлович": 9,
-      "Морозенок Елена Олеговна": 9,
-      "Ожерельев Владимир Борисович": 79,
-      "Петров Сергей Валериевич": 235,
-      "Пониматкин Алексей Владимирович": 54,
-      "Расторгуев Александр Викторович": 24,
-      "Стоша Светлана Анатольевна": 7,
-      "Шинкаренко Валерий Викторович": 14
+      "gas:candidate-vibid:2472000752523": 23,
+      "gas:candidate-vibid:2472000749423": 25,
+      "gas:candidate-vibid:2472000749660": 70,
+      "gas:candidate-vibid:2472000751082": 9,
+      "gas:candidate-vibid:2472000752675": 9,
+      "gas:candidate-vibid:2472000749435": 79,
+      "gas:candidate-vibid:2472000753653": 235,
+      "gas:candidate-vibid:2472000711097": 54,
+      "gas:candidate-vibid:2472000749877": 24,
+      "gas:candidate-vibid:2472000753980": 7,
+      "gas:candidate-vibid:2472000752456": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000149&tvd=2472000671401&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671401&type=464",
@@ -8576,17 +8576,17 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Максим Викторович": 14,
-      "Гиндос Андрей Евгеньевич": 15,
-      "Куликова Галина Васильевна": 53,
-      "Майоров Владимир Михайлович": 5,
-      "Морозенок Елена Олеговна": 2,
-      "Ожерельев Владимир Борисович": 39,
-      "Петров Сергей Валериевич": 154,
-      "Пониматкин Алексей Владимирович": 52,
-      "Расторгуев Александр Викторович": 17,
-      "Стоша Светлана Анатольевна": 14,
-      "Шинкаренко Валерий Викторович": 4
+      "gas:candidate-vibid:2472000752523": 14,
+      "gas:candidate-vibid:2472000749423": 15,
+      "gas:candidate-vibid:2472000749660": 53,
+      "gas:candidate-vibid:2472000751082": 5,
+      "gas:candidate-vibid:2472000752675": 2,
+      "gas:candidate-vibid:2472000749435": 39,
+      "gas:candidate-vibid:2472000753653": 154,
+      "gas:candidate-vibid:2472000711097": 52,
+      "gas:candidate-vibid:2472000749877": 17,
+      "gas:candidate-vibid:2472000753980": 14,
+      "gas:candidate-vibid:2472000752456": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000149&tvd=2472000671401&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671401&type=464",
@@ -8637,17 +8637,17 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Максим Викторович": 17,
-      "Гиндос Андрей Евгеньевич": 33,
-      "Куликова Галина Васильевна": 44,
-      "Майоров Владимир Михайлович": 14,
-      "Морозенок Елена Олеговна": 11,
-      "Ожерельев Владимир Борисович": 53,
-      "Петров Сергей Валериевич": 244,
-      "Пониматкин Алексей Владимирович": 79,
-      "Расторгуев Александр Викторович": 19,
-      "Стоша Светлана Анатольевна": 13,
-      "Шинкаренко Валерий Викторович": 5
+      "gas:candidate-vibid:2472000752523": 17,
+      "gas:candidate-vibid:2472000749423": 33,
+      "gas:candidate-vibid:2472000749660": 44,
+      "gas:candidate-vibid:2472000751082": 14,
+      "gas:candidate-vibid:2472000752675": 11,
+      "gas:candidate-vibid:2472000749435": 53,
+      "gas:candidate-vibid:2472000753653": 244,
+      "gas:candidate-vibid:2472000711097": 79,
+      "gas:candidate-vibid:2472000749877": 19,
+      "gas:candidate-vibid:2472000753980": 13,
+      "gas:candidate-vibid:2472000752456": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000149&tvd=2472000671401&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671401&type=464",
@@ -8698,17 +8698,17 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Максим Викторович": 15,
-      "Гиндос Андрей Евгеньевич": 22,
-      "Куликова Галина Васильевна": 79,
-      "Майоров Владимир Михайлович": 12,
-      "Морозенок Елена Олеговна": 14,
-      "Ожерельев Владимир Борисович": 43,
-      "Петров Сергей Валериевич": 247,
-      "Пониматкин Алексей Владимирович": 57,
-      "Расторгуев Александр Викторович": 24,
-      "Стоша Светлана Анатольевна": 44,
-      "Шинкаренко Валерий Викторович": 9
+      "gas:candidate-vibid:2472000752523": 15,
+      "gas:candidate-vibid:2472000749423": 22,
+      "gas:candidate-vibid:2472000749660": 79,
+      "gas:candidate-vibid:2472000751082": 12,
+      "gas:candidate-vibid:2472000752675": 14,
+      "gas:candidate-vibid:2472000749435": 43,
+      "gas:candidate-vibid:2472000753653": 247,
+      "gas:candidate-vibid:2472000711097": 57,
+      "gas:candidate-vibid:2472000749877": 24,
+      "gas:candidate-vibid:2472000753980": 44,
+      "gas:candidate-vibid:2472000752456": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000149&tvd=2472000671401&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671401&type=464",
@@ -8759,17 +8759,17 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Максим Викторович": 16,
-      "Гиндос Андрей Евгеньевич": 19,
-      "Куликова Галина Васильевна": 103,
-      "Майоров Владимир Михайлович": 15,
-      "Морозенок Елена Олеговна": 20,
-      "Ожерельев Владимир Борисович": 49,
-      "Петров Сергей Валериевич": 304,
-      "Пониматкин Алексей Владимирович": 104,
-      "Расторгуев Александр Викторович": 22,
-      "Стоша Светлана Анатольевна": 43,
-      "Шинкаренко Валерий Викторович": 14
+      "gas:candidate-vibid:2472000752523": 16,
+      "gas:candidate-vibid:2472000749423": 19,
+      "gas:candidate-vibid:2472000749660": 103,
+      "gas:candidate-vibid:2472000751082": 15,
+      "gas:candidate-vibid:2472000752675": 20,
+      "gas:candidate-vibid:2472000749435": 49,
+      "gas:candidate-vibid:2472000753653": 304,
+      "gas:candidate-vibid:2472000711097": 104,
+      "gas:candidate-vibid:2472000749877": 22,
+      "gas:candidate-vibid:2472000753980": 43,
+      "gas:candidate-vibid:2472000752456": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000149&tvd=2472000671401&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671401&type=464",
@@ -8820,17 +8820,17 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Максим Викторович": 40,
-      "Гиндос Андрей Евгеньевич": 36,
-      "Куликова Галина Васильевна": 169,
-      "Майоров Владимир Михайлович": 15,
-      "Морозенок Елена Олеговна": 24,
-      "Ожерельев Владимир Борисович": 60,
-      "Петров Сергей Валериевич": 346,
-      "Пониматкин Алексей Владимирович": 70,
-      "Расторгуев Александр Викторович": 28,
-      "Стоша Светлана Анатольевна": 78,
-      "Шинкаренко Валерий Викторович": 34
+      "gas:candidate-vibid:2472000752523": 40,
+      "gas:candidate-vibid:2472000749423": 36,
+      "gas:candidate-vibid:2472000749660": 169,
+      "gas:candidate-vibid:2472000751082": 15,
+      "gas:candidate-vibid:2472000752675": 24,
+      "gas:candidate-vibid:2472000749435": 60,
+      "gas:candidate-vibid:2472000753653": 346,
+      "gas:candidate-vibid:2472000711097": 70,
+      "gas:candidate-vibid:2472000749877": 28,
+      "gas:candidate-vibid:2472000753980": 78,
+      "gas:candidate-vibid:2472000752456": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000149&tvd=2472000671401&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671401&type=464",
@@ -8881,17 +8881,17 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Максим Викторович": 17,
-      "Гиндос Андрей Евгеньевич": 13,
-      "Куликова Галина Васильевна": 95,
-      "Майоров Владимир Михайлович": 14,
-      "Морозенок Елена Олеговна": 10,
-      "Ожерельев Владимир Борисович": 21,
-      "Петров Сергей Валериевич": 162,
-      "Пониматкин Алексей Владимирович": 52,
-      "Расторгуев Александр Викторович": 18,
-      "Стоша Светлана Анатольевна": 48,
-      "Шинкаренко Валерий Викторович": 15
+      "gas:candidate-vibid:2472000752523": 17,
+      "gas:candidate-vibid:2472000749423": 13,
+      "gas:candidate-vibid:2472000749660": 95,
+      "gas:candidate-vibid:2472000751082": 14,
+      "gas:candidate-vibid:2472000752675": 10,
+      "gas:candidate-vibid:2472000749435": 21,
+      "gas:candidate-vibid:2472000753653": 162,
+      "gas:candidate-vibid:2472000711097": 52,
+      "gas:candidate-vibid:2472000749877": 18,
+      "gas:candidate-vibid:2472000753980": 48,
+      "gas:candidate-vibid:2472000752456": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000149&tvd=2472000671401&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671401&type=464",
@@ -8942,17 +8942,17 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Максим Викторович": 15,
-      "Гиндос Андрей Евгеньевич": 20,
-      "Куликова Галина Васильевна": 21,
-      "Майоров Владимир Михайлович": 12,
-      "Морозенок Елена Олеговна": 11,
-      "Ожерельев Владимир Борисович": 28,
-      "Петров Сергей Валериевич": 257,
-      "Пониматкин Алексей Владимирович": 171,
-      "Расторгуев Александр Викторович": 14,
-      "Стоша Светлана Анатольевна": 31,
-      "Шинкаренко Валерий Викторович": 13
+      "gas:candidate-vibid:2472000752523": 15,
+      "gas:candidate-vibid:2472000749423": 20,
+      "gas:candidate-vibid:2472000749660": 21,
+      "gas:candidate-vibid:2472000751082": 12,
+      "gas:candidate-vibid:2472000752675": 11,
+      "gas:candidate-vibid:2472000749435": 28,
+      "gas:candidate-vibid:2472000753653": 257,
+      "gas:candidate-vibid:2472000711097": 171,
+      "gas:candidate-vibid:2472000749877": 14,
+      "gas:candidate-vibid:2472000753980": 31,
+      "gas:candidate-vibid:2472000752456": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000149&tvd=2472000671401&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671401&type=464",
@@ -9003,17 +9003,17 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Максим Викторович": 23,
-      "Гиндос Андрей Евгеньевич": 18,
-      "Куликова Галина Васильевна": 108,
-      "Майоров Владимир Михайлович": 12,
-      "Морозенок Елена Олеговна": 12,
-      "Ожерельев Владимир Борисович": 37,
-      "Петров Сергей Валериевич": 209,
-      "Пониматкин Алексей Владимирович": 51,
-      "Расторгуев Александр Викторович": 22,
-      "Стоша Светлана Анатольевна": 36,
-      "Шинкаренко Валерий Викторович": 19
+      "gas:candidate-vibid:2472000752523": 23,
+      "gas:candidate-vibid:2472000749423": 18,
+      "gas:candidate-vibid:2472000749660": 108,
+      "gas:candidate-vibid:2472000751082": 12,
+      "gas:candidate-vibid:2472000752675": 12,
+      "gas:candidate-vibid:2472000749435": 37,
+      "gas:candidate-vibid:2472000753653": 209,
+      "gas:candidate-vibid:2472000711097": 51,
+      "gas:candidate-vibid:2472000749877": 22,
+      "gas:candidate-vibid:2472000753980": 36,
+      "gas:candidate-vibid:2472000752456": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000149&tvd=2472000671401&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671401&type=464",
@@ -9064,17 +9064,17 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Максим Викторович": 22,
-      "Гиндос Андрей Евгеньевич": 22,
-      "Куликова Галина Васильевна": 101,
-      "Майоров Владимир Михайлович": 7,
-      "Морозенок Елена Олеговна": 11,
-      "Ожерельев Владимир Борисович": 49,
-      "Петров Сергей Валериевич": 377,
-      "Пониматкин Алексей Владимирович": 53,
-      "Расторгуев Александр Викторович": 21,
-      "Стоша Светлана Анатольевна": 62,
-      "Шинкаренко Валерий Викторович": 10
+      "gas:candidate-vibid:2472000752523": 22,
+      "gas:candidate-vibid:2472000749423": 22,
+      "gas:candidate-vibid:2472000749660": 101,
+      "gas:candidate-vibid:2472000751082": 7,
+      "gas:candidate-vibid:2472000752675": 11,
+      "gas:candidate-vibid:2472000749435": 49,
+      "gas:candidate-vibid:2472000753653": 377,
+      "gas:candidate-vibid:2472000711097": 53,
+      "gas:candidate-vibid:2472000749877": 21,
+      "gas:candidate-vibid:2472000753980": 62,
+      "gas:candidate-vibid:2472000752456": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000149&tvd=2472000671401&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671401&type=464",
@@ -9125,17 +9125,17 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Максим Викторович": 52,
-      "Гиндос Андрей Евгеньевич": 33,
-      "Куликова Галина Васильевна": 194,
-      "Майоров Владимир Михайлович": 21,
-      "Морозенок Елена Олеговна": 30,
-      "Ожерельев Владимир Борисович": 98,
-      "Петров Сергей Валериевич": 476,
-      "Пониматкин Алексей Владимирович": 128,
-      "Расторгуев Александр Викторович": 39,
-      "Стоша Светлана Анатольевна": 84,
-      "Шинкаренко Валерий Викторович": 21
+      "gas:candidate-vibid:2472000752523": 52,
+      "gas:candidate-vibid:2472000749423": 33,
+      "gas:candidate-vibid:2472000749660": 194,
+      "gas:candidate-vibid:2472000751082": 21,
+      "gas:candidate-vibid:2472000752675": 30,
+      "gas:candidate-vibid:2472000749435": 98,
+      "gas:candidate-vibid:2472000753653": 476,
+      "gas:candidate-vibid:2472000711097": 128,
+      "gas:candidate-vibid:2472000749877": 39,
+      "gas:candidate-vibid:2472000753980": 84,
+      "gas:candidate-vibid:2472000752456": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000149&tvd=2472000671401&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671401&type=464",
@@ -9186,17 +9186,17 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Максим Викторович": 12,
-      "Гиндос Андрей Евгеньевич": 14,
-      "Куликова Галина Васильевна": 15,
-      "Майоров Владимир Михайлович": 3,
-      "Морозенок Елена Олеговна": 8,
-      "Ожерельев Владимир Борисович": 26,
-      "Петров Сергей Валериевич": 211,
-      "Пониматкин Алексей Владимирович": 30,
-      "Расторгуев Александр Викторович": 6,
-      "Стоша Светлана Анатольевна": 6,
-      "Шинкаренко Валерий Викторович": 14
+      "gas:candidate-vibid:2472000752523": 12,
+      "gas:candidate-vibid:2472000749423": 14,
+      "gas:candidate-vibid:2472000749660": 15,
+      "gas:candidate-vibid:2472000751082": 3,
+      "gas:candidate-vibid:2472000752675": 8,
+      "gas:candidate-vibid:2472000749435": 26,
+      "gas:candidate-vibid:2472000753653": 211,
+      "gas:candidate-vibid:2472000711097": 30,
+      "gas:candidate-vibid:2472000749877": 6,
+      "gas:candidate-vibid:2472000753980": 6,
+      "gas:candidate-vibid:2472000752456": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000149&tvd=2472000671401&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671401&type=464",
@@ -9247,17 +9247,17 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Максим Викторович": 18,
-      "Гиндос Андрей Евгеньевич": 18,
-      "Куликова Галина Васильевна": 21,
-      "Майоров Владимир Михайлович": 2,
-      "Морозенок Елена Олеговна": 3,
-      "Ожерельев Владимир Борисович": 43,
-      "Петров Сергей Валериевич": 134,
-      "Пониматкин Алексей Владимирович": 27,
-      "Расторгуев Александр Викторович": 20,
-      "Стоша Светлана Анатольевна": 8,
-      "Шинкаренко Валерий Викторович": 9
+      "gas:candidate-vibid:2472000752523": 18,
+      "gas:candidate-vibid:2472000749423": 18,
+      "gas:candidate-vibid:2472000749660": 21,
+      "gas:candidate-vibid:2472000751082": 2,
+      "gas:candidate-vibid:2472000752675": 3,
+      "gas:candidate-vibid:2472000749435": 43,
+      "gas:candidate-vibid:2472000753653": 134,
+      "gas:candidate-vibid:2472000711097": 27,
+      "gas:candidate-vibid:2472000749877": 20,
+      "gas:candidate-vibid:2472000753980": 8,
+      "gas:candidate-vibid:2472000752456": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000149&tvd=2472000671401&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671401&type=464",
@@ -9308,17 +9308,17 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Максим Викторович": 35,
-      "Гиндос Андрей Евгеньевич": 36,
-      "Куликова Галина Васильевна": 55,
-      "Майоров Владимир Михайлович": 11,
-      "Морозенок Елена Олеговна": 16,
-      "Ожерельев Владимир Борисович": 88,
-      "Петров Сергей Валериевич": 289,
-      "Пониматкин Алексей Владимирович": 55,
-      "Расторгуев Александр Викторович": 15,
-      "Стоша Светлана Анатольевна": 18,
-      "Шинкаренко Валерий Викторович": 16
+      "gas:candidate-vibid:2472000752523": 35,
+      "gas:candidate-vibid:2472000749423": 36,
+      "gas:candidate-vibid:2472000749660": 55,
+      "gas:candidate-vibid:2472000751082": 11,
+      "gas:candidate-vibid:2472000752675": 16,
+      "gas:candidate-vibid:2472000749435": 88,
+      "gas:candidate-vibid:2472000753653": 289,
+      "gas:candidate-vibid:2472000711097": 55,
+      "gas:candidate-vibid:2472000749877": 15,
+      "gas:candidate-vibid:2472000753980": 18,
+      "gas:candidate-vibid:2472000752456": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000149&tvd=2472000671401&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671401&type=464",
@@ -9369,17 +9369,17 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Максим Викторович": 9,
-      "Гиндос Андрей Евгеньевич": 14,
-      "Куликова Галина Васильевна": 31,
-      "Майоров Владимир Михайлович": 6,
-      "Морозенок Елена Олеговна": 3,
-      "Ожерельев Владимир Борисович": 17,
-      "Петров Сергей Валериевич": 375,
-      "Пониматкин Алексей Владимирович": 27,
-      "Расторгуев Александр Викторович": 11,
-      "Стоша Светлана Анатольевна": 11,
-      "Шинкаренко Валерий Викторович": 8
+      "gas:candidate-vibid:2472000752523": 9,
+      "gas:candidate-vibid:2472000749423": 14,
+      "gas:candidate-vibid:2472000749660": 31,
+      "gas:candidate-vibid:2472000751082": 6,
+      "gas:candidate-vibid:2472000752675": 3,
+      "gas:candidate-vibid:2472000749435": 17,
+      "gas:candidate-vibid:2472000753653": 375,
+      "gas:candidate-vibid:2472000711097": 27,
+      "gas:candidate-vibid:2472000749877": 11,
+      "gas:candidate-vibid:2472000753980": 11,
+      "gas:candidate-vibid:2472000752456": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000149&tvd=2472000671401&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671401&type=464",
@@ -9430,17 +9430,17 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Максим Викторович": 8,
-      "Гиндос Андрей Евгеньевич": 5,
-      "Куликова Галина Васильевна": 14,
-      "Майоров Владимир Михайлович": 4,
-      "Морозенок Елена Олеговна": 3,
-      "Ожерельев Владимир Борисович": 15,
-      "Петров Сергей Валериевич": 359,
-      "Пониматкин Алексей Владимирович": 25,
-      "Расторгуев Александр Викторович": 3,
-      "Стоша Светлана Анатольевна": 5,
-      "Шинкаренко Валерий Викторович": 4
+      "gas:candidate-vibid:2472000752523": 8,
+      "gas:candidate-vibid:2472000749423": 5,
+      "gas:candidate-vibid:2472000749660": 14,
+      "gas:candidate-vibid:2472000751082": 4,
+      "gas:candidate-vibid:2472000752675": 3,
+      "gas:candidate-vibid:2472000749435": 15,
+      "gas:candidate-vibid:2472000753653": 359,
+      "gas:candidate-vibid:2472000711097": 25,
+      "gas:candidate-vibid:2472000749877": 3,
+      "gas:candidate-vibid:2472000753980": 5,
+      "gas:candidate-vibid:2472000752456": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000149&tvd=2472000671401&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671401&type=464",
@@ -9491,17 +9491,17 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Максим Викторович": 9,
-      "Гиндос Андрей Евгеньевич": 11,
-      "Куликова Галина Васильевна": 17,
-      "Майоров Владимир Михайлович": 3,
-      "Морозенок Елена Олеговна": 9,
-      "Ожерельев Владимир Борисович": 21,
-      "Петров Сергей Валериевич": 129,
-      "Пониматкин Алексей Владимирович": 25,
-      "Расторгуев Александр Викторович": 3,
-      "Стоша Светлана Анатольевна": 4,
-      "Шинкаренко Валерий Викторович": 2
+      "gas:candidate-vibid:2472000752523": 9,
+      "gas:candidate-vibid:2472000749423": 11,
+      "gas:candidate-vibid:2472000749660": 17,
+      "gas:candidate-vibid:2472000751082": 3,
+      "gas:candidate-vibid:2472000752675": 9,
+      "gas:candidate-vibid:2472000749435": 21,
+      "gas:candidate-vibid:2472000753653": 129,
+      "gas:candidate-vibid:2472000711097": 25,
+      "gas:candidate-vibid:2472000749877": 3,
+      "gas:candidate-vibid:2472000753980": 4,
+      "gas:candidate-vibid:2472000752456": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000149&tvd=2472000671401&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671401&type=464",
@@ -9552,17 +9552,17 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Максим Викторович": 5,
-      "Гиндос Андрей Евгеньевич": 5,
-      "Куликова Галина Васильевна": 16,
-      "Майоров Владимир Михайлович": 6,
-      "Морозенок Елена Олеговна": 2,
-      "Ожерельев Владимир Борисович": 21,
-      "Петров Сергей Валериевич": 78,
-      "Пониматкин Алексей Владимирович": 25,
-      "Расторгуев Александр Викторович": 4,
-      "Стоша Светлана Анатольевна": 5,
-      "Шинкаренко Валерий Викторович": 3
+      "gas:candidate-vibid:2472000752523": 5,
+      "gas:candidate-vibid:2472000749423": 5,
+      "gas:candidate-vibid:2472000749660": 16,
+      "gas:candidate-vibid:2472000751082": 6,
+      "gas:candidate-vibid:2472000752675": 2,
+      "gas:candidate-vibid:2472000749435": 21,
+      "gas:candidate-vibid:2472000753653": 78,
+      "gas:candidate-vibid:2472000711097": 25,
+      "gas:candidate-vibid:2472000749877": 4,
+      "gas:candidate-vibid:2472000753980": 5,
+      "gas:candidate-vibid:2472000752456": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000149&tvd=2472000671401&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671401&type=464",
@@ -9613,17 +9613,17 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Максим Викторович": 15,
-      "Гиндос Андрей Евгеньевич": 15,
-      "Куликова Галина Васильевна": 64,
-      "Майоров Владимир Михайлович": 3,
-      "Морозенок Елена Олеговна": 6,
-      "Ожерельев Владимир Борисович": 34,
-      "Петров Сергей Валериевич": 165,
-      "Пониматкин Алексей Владимирович": 42,
-      "Расторгуев Александр Викторович": 20,
-      "Стоша Светлана Анатольевна": 15,
-      "Шинкаренко Валерий Викторович": 15
+      "gas:candidate-vibid:2472000752523": 15,
+      "gas:candidate-vibid:2472000749423": 15,
+      "gas:candidate-vibid:2472000749660": 64,
+      "gas:candidate-vibid:2472000751082": 3,
+      "gas:candidate-vibid:2472000752675": 6,
+      "gas:candidate-vibid:2472000749435": 34,
+      "gas:candidate-vibid:2472000753653": 165,
+      "gas:candidate-vibid:2472000711097": 42,
+      "gas:candidate-vibid:2472000749877": 20,
+      "gas:candidate-vibid:2472000753980": 15,
+      "gas:candidate-vibid:2472000752456": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000149&tvd=2472000671401&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671401&type=464",
@@ -9674,17 +9674,17 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Максим Викторович": 7,
-      "Гиндос Андрей Евгеньевич": 25,
-      "Куликова Галина Васильевна": 71,
-      "Майоров Владимир Михайлович": 5,
-      "Морозенок Елена Олеговна": 10,
-      "Ожерельев Владимир Борисович": 55,
-      "Петров Сергей Валериевич": 125,
-      "Пониматкин Алексей Владимирович": 28,
-      "Расторгуев Александр Викторович": 20,
-      "Стоша Светлана Анатольевна": 9,
-      "Шинкаренко Валерий Викторович": 9
+      "gas:candidate-vibid:2472000752523": 7,
+      "gas:candidate-vibid:2472000749423": 25,
+      "gas:candidate-vibid:2472000749660": 71,
+      "gas:candidate-vibid:2472000751082": 5,
+      "gas:candidate-vibid:2472000752675": 10,
+      "gas:candidate-vibid:2472000749435": 55,
+      "gas:candidate-vibid:2472000753653": 125,
+      "gas:candidate-vibid:2472000711097": 28,
+      "gas:candidate-vibid:2472000749877": 20,
+      "gas:candidate-vibid:2472000753980": 9,
+      "gas:candidate-vibid:2472000752456": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000149&tvd=2472000671401&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671401&type=464",
@@ -9735,17 +9735,17 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Максим Викторович": 11,
-      "Гиндос Андрей Евгеньевич": 21,
-      "Куликова Галина Васильевна": 73,
-      "Майоров Владимир Михайлович": 5,
-      "Морозенок Елена Олеговна": 6,
-      "Ожерельев Владимир Борисович": 40,
-      "Петров Сергей Валериевич": 112,
-      "Пониматкин Алексей Владимирович": 38,
-      "Расторгуев Александр Викторович": 13,
-      "Стоша Светлана Анатольевна": 14,
-      "Шинкаренко Валерий Викторович": 4
+      "gas:candidate-vibid:2472000752523": 11,
+      "gas:candidate-vibid:2472000749423": 21,
+      "gas:candidate-vibid:2472000749660": 73,
+      "gas:candidate-vibid:2472000751082": 5,
+      "gas:candidate-vibid:2472000752675": 6,
+      "gas:candidate-vibid:2472000749435": 40,
+      "gas:candidate-vibid:2472000753653": 112,
+      "gas:candidate-vibid:2472000711097": 38,
+      "gas:candidate-vibid:2472000749877": 13,
+      "gas:candidate-vibid:2472000753980": 14,
+      "gas:candidate-vibid:2472000752456": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000149&tvd=2472000671401&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671401&type=464",
@@ -9796,17 +9796,17 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Максим Викторович": 20,
-      "Гиндос Андрей Евгеньевич": 20,
-      "Куликова Галина Васильевна": 56,
-      "Майоров Владимир Михайлович": 7,
-      "Морозенок Елена Олеговна": 8,
-      "Ожерельев Владимир Борисович": 59,
-      "Петров Сергей Валериевич": 547,
-      "Пониматкин Алексей Владимирович": 47,
-      "Расторгуев Александр Викторович": 18,
-      "Стоша Светлана Анатольевна": 12,
-      "Шинкаренко Валерий Викторович": 12
+      "gas:candidate-vibid:2472000752523": 20,
+      "gas:candidate-vibid:2472000749423": 20,
+      "gas:candidate-vibid:2472000749660": 56,
+      "gas:candidate-vibid:2472000751082": 7,
+      "gas:candidate-vibid:2472000752675": 8,
+      "gas:candidate-vibid:2472000749435": 59,
+      "gas:candidate-vibid:2472000753653": 547,
+      "gas:candidate-vibid:2472000711097": 47,
+      "gas:candidate-vibid:2472000749877": 18,
+      "gas:candidate-vibid:2472000753980": 12,
+      "gas:candidate-vibid:2472000752456": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000149&tvd=2472000671401&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671401&type=464",
@@ -9857,17 +9857,17 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Максим Викторович": 25,
-      "Гиндос Андрей Евгеньевич": 54,
-      "Куликова Галина Васильевна": 102,
-      "Майоров Владимир Михайлович": 13,
-      "Морозенок Елена Олеговна": 25,
-      "Ожерельев Владимир Борисович": 125,
-      "Петров Сергей Валериевич": 278,
-      "Пониматкин Алексей Владимирович": 77,
-      "Расторгуев Александр Викторович": 28,
-      "Стоша Светлана Анатольевна": 18,
-      "Шинкаренко Валерий Викторович": 46
+      "gas:candidate-vibid:2472000752523": 25,
+      "gas:candidate-vibid:2472000749423": 54,
+      "gas:candidate-vibid:2472000749660": 102,
+      "gas:candidate-vibid:2472000751082": 13,
+      "gas:candidate-vibid:2472000752675": 25,
+      "gas:candidate-vibid:2472000749435": 125,
+      "gas:candidate-vibid:2472000753653": 278,
+      "gas:candidate-vibid:2472000711097": 77,
+      "gas:candidate-vibid:2472000749877": 28,
+      "gas:candidate-vibid:2472000753980": 18,
+      "gas:candidate-vibid:2472000752456": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000149&tvd=2472000671401&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671401&type=464",
@@ -9918,17 +9918,17 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Максим Викторович": 13,
-      "Гиндос Андрей Евгеньевич": 24,
-      "Куликова Галина Васильевна": 48,
-      "Майоров Владимир Михайлович": 1,
-      "Морозенок Елена Олеговна": 8,
-      "Ожерельев Владимир Борисович": 40,
-      "Петров Сергей Валериевич": 183,
-      "Пониматкин Алексей Владимирович": 49,
-      "Расторгуев Александр Викторович": 19,
-      "Стоша Светлана Анатольевна": 19,
-      "Шинкаренко Валерий Викторович": 8
+      "gas:candidate-vibid:2472000752523": 13,
+      "gas:candidate-vibid:2472000749423": 24,
+      "gas:candidate-vibid:2472000749660": 48,
+      "gas:candidate-vibid:2472000751082": 1,
+      "gas:candidate-vibid:2472000752675": 8,
+      "gas:candidate-vibid:2472000749435": 40,
+      "gas:candidate-vibid:2472000753653": 183,
+      "gas:candidate-vibid:2472000711097": 49,
+      "gas:candidate-vibid:2472000749877": 19,
+      "gas:candidate-vibid:2472000753980": 19,
+      "gas:candidate-vibid:2472000752456": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000149&tvd=2472000671401&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671401&type=464",
@@ -9979,17 +9979,17 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Максим Викторович": 15,
-      "Гиндос Андрей Евгеньевич": 17,
-      "Куликова Галина Васильевна": 48,
-      "Майоров Владимир Михайлович": 7,
-      "Морозенок Елена Олеговна": 15,
-      "Ожерельев Владимир Борисович": 35,
-      "Петров Сергей Валериевич": 247,
-      "Пониматкин Алексей Владимирович": 54,
-      "Расторгуев Александр Викторович": 14,
-      "Стоша Светлана Анатольевна": 12,
-      "Шинкаренко Валерий Викторович": 12
+      "gas:candidate-vibid:2472000752523": 15,
+      "gas:candidate-vibid:2472000749423": 17,
+      "gas:candidate-vibid:2472000749660": 48,
+      "gas:candidate-vibid:2472000751082": 7,
+      "gas:candidate-vibid:2472000752675": 15,
+      "gas:candidate-vibid:2472000749435": 35,
+      "gas:candidate-vibid:2472000753653": 247,
+      "gas:candidate-vibid:2472000711097": 54,
+      "gas:candidate-vibid:2472000749877": 14,
+      "gas:candidate-vibid:2472000753980": 12,
+      "gas:candidate-vibid:2472000752456": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000149&tvd=2472000671401&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671401&type=464",
@@ -10040,17 +10040,17 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Максим Викторович": 22,
-      "Гиндос Андрей Евгеньевич": 16,
-      "Куликова Галина Васильевна": 37,
-      "Майоров Владимир Михайлович": 4,
-      "Морозенок Елена Олеговна": 9,
-      "Ожерельев Владимир Борисович": 33,
-      "Петров Сергей Валериевич": 159,
-      "Пониматкин Алексей Владимирович": 35,
-      "Расторгуев Александр Викторович": 14,
-      "Стоша Светлана Анатольевна": 10,
-      "Шинкаренко Валерий Викторович": 19
+      "gas:candidate-vibid:2472000752523": 22,
+      "gas:candidate-vibid:2472000749423": 16,
+      "gas:candidate-vibid:2472000749660": 37,
+      "gas:candidate-vibid:2472000751082": 4,
+      "gas:candidate-vibid:2472000752675": 9,
+      "gas:candidate-vibid:2472000749435": 33,
+      "gas:candidate-vibid:2472000753653": 159,
+      "gas:candidate-vibid:2472000711097": 35,
+      "gas:candidate-vibid:2472000749877": 14,
+      "gas:candidate-vibid:2472000753980": 10,
+      "gas:candidate-vibid:2472000752456": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000149&tvd=2472000671401&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671401&type=464",
@@ -10101,17 +10101,17 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Максим Викторович": 5,
-      "Гиндос Андрей Евгеньевич": 4,
-      "Куликова Галина Васильевна": 14,
-      "Майоров Владимир Михайлович": 5,
-      "Морозенок Елена Олеговна": 3,
-      "Ожерельев Владимир Борисович": 10,
-      "Петров Сергей Валериевич": 281,
-      "Пониматкин Алексей Владимирович": 5,
-      "Расторгуев Александр Викторович": 7,
-      "Стоша Светлана Анатольевна": 1,
-      "Шинкаренко Валерий Викторович": 3
+      "gas:candidate-vibid:2472000752523": 5,
+      "gas:candidate-vibid:2472000749423": 4,
+      "gas:candidate-vibid:2472000749660": 14,
+      "gas:candidate-vibid:2472000751082": 5,
+      "gas:candidate-vibid:2472000752675": 3,
+      "gas:candidate-vibid:2472000749435": 10,
+      "gas:candidate-vibid:2472000753653": 281,
+      "gas:candidate-vibid:2472000711097": 5,
+      "gas:candidate-vibid:2472000749877": 7,
+      "gas:candidate-vibid:2472000753980": 1,
+      "gas:candidate-vibid:2472000752456": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000149&tvd=2472000671401&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671401&type=464",
@@ -10162,17 +10162,17 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Максим Викторович": 12,
-      "Гиндос Андрей Евгеньевич": 6,
-      "Куликова Галина Васильевна": 20,
-      "Майоров Владимир Михайлович": 5,
-      "Морозенок Елена Олеговна": 7,
-      "Ожерельев Владимир Борисович": 25,
-      "Петров Сергей Валериевич": 71,
-      "Пониматкин Алексей Владимирович": 18,
-      "Расторгуев Александр Викторович": 8,
-      "Стоша Светлана Анатольевна": 4,
-      "Шинкаренко Валерий Викторович": 5
+      "gas:candidate-vibid:2472000752523": 12,
+      "gas:candidate-vibid:2472000749423": 6,
+      "gas:candidate-vibid:2472000749660": 20,
+      "gas:candidate-vibid:2472000751082": 5,
+      "gas:candidate-vibid:2472000752675": 7,
+      "gas:candidate-vibid:2472000749435": 25,
+      "gas:candidate-vibid:2472000753653": 71,
+      "gas:candidate-vibid:2472000711097": 18,
+      "gas:candidate-vibid:2472000749877": 8,
+      "gas:candidate-vibid:2472000753980": 4,
+      "gas:candidate-vibid:2472000752456": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000149&tvd=2472000671401&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671401&type=464",
@@ -10223,17 +10223,17 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Максим Викторович": 3,
-      "Гиндос Андрей Евгеньевич": 6,
-      "Куликова Галина Васильевна": 26,
-      "Майоров Владимир Михайлович": 6,
-      "Морозенок Елена Олеговна": 5,
-      "Ожерельев Владимир Борисович": 10,
-      "Петров Сергей Валериевич": 108,
-      "Пониматкин Алексей Владимирович": 15,
-      "Расторгуев Александр Викторович": 1,
-      "Стоша Светлана Анатольевна": 5,
-      "Шинкаренко Валерий Викторович": 1
+      "gas:candidate-vibid:2472000752523": 3,
+      "gas:candidate-vibid:2472000749423": 6,
+      "gas:candidate-vibid:2472000749660": 26,
+      "gas:candidate-vibid:2472000751082": 6,
+      "gas:candidate-vibid:2472000752675": 5,
+      "gas:candidate-vibid:2472000749435": 10,
+      "gas:candidate-vibid:2472000753653": 108,
+      "gas:candidate-vibid:2472000711097": 15,
+      "gas:candidate-vibid:2472000749877": 1,
+      "gas:candidate-vibid:2472000753980": 5,
+      "gas:candidate-vibid:2472000752456": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000149&tvd=2472000671401&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671401&type=464",
@@ -10284,17 +10284,17 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Максим Викторович": 27,
-      "Гиндос Андрей Евгеньевич": 21,
-      "Куликова Галина Васильевна": 121,
-      "Майоров Владимир Михайлович": 11,
-      "Морозенок Елена Олеговна": 19,
-      "Ожерельев Владимир Борисович": 14,
-      "Петров Сергей Валериевич": 418,
-      "Пониматкин Алексей Владимирович": 22,
-      "Расторгуев Александр Викторович": 28,
-      "Стоша Светлана Анатольевна": 14,
-      "Шинкаренко Валерий Викторович": 7
+      "gas:candidate-vibid:2472000752523": 27,
+      "gas:candidate-vibid:2472000749423": 21,
+      "gas:candidate-vibid:2472000749660": 121,
+      "gas:candidate-vibid:2472000751082": 11,
+      "gas:candidate-vibid:2472000752675": 19,
+      "gas:candidate-vibid:2472000749435": 14,
+      "gas:candidate-vibid:2472000753653": 418,
+      "gas:candidate-vibid:2472000711097": 22,
+      "gas:candidate-vibid:2472000749877": 28,
+      "gas:candidate-vibid:2472000753980": 14,
+      "gas:candidate-vibid:2472000752456": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000149&tvd=2472000671401&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671401&type=464",
@@ -10345,17 +10345,17 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Максим Викторович": 24,
-      "Гиндос Андрей Евгеньевич": 25,
-      "Куликова Галина Васильевна": 115,
-      "Майоров Владимир Михайлович": 3,
-      "Морозенок Елена Олеговна": 11,
-      "Ожерельев Владимир Борисович": 31,
-      "Петров Сергей Валериевич": 430,
-      "Пониматкин Алексей Владимирович": 35,
-      "Расторгуев Александр Викторович": 25,
-      "Стоша Светлана Анатольевна": 23,
-      "Шинкаренко Валерий Викторович": 17
+      "gas:candidate-vibid:2472000752523": 24,
+      "gas:candidate-vibid:2472000749423": 25,
+      "gas:candidate-vibid:2472000749660": 115,
+      "gas:candidate-vibid:2472000751082": 3,
+      "gas:candidate-vibid:2472000752675": 11,
+      "gas:candidate-vibid:2472000749435": 31,
+      "gas:candidate-vibid:2472000753653": 430,
+      "gas:candidate-vibid:2472000711097": 35,
+      "gas:candidate-vibid:2472000749877": 25,
+      "gas:candidate-vibid:2472000753980": 23,
+      "gas:candidate-vibid:2472000752456": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000149&tvd=2472000671401&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671401&type=464",
@@ -10406,17 +10406,17 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Максим Викторович": 14,
-      "Гиндос Андрей Евгеньевич": 13,
-      "Куликова Галина Васильевна": 39,
-      "Майоров Владимир Михайлович": 9,
-      "Морозенок Елена Олеговна": 15,
-      "Ожерельев Владимир Борисович": 34,
-      "Петров Сергей Валериевич": 259,
-      "Пониматкин Алексей Владимирович": 27,
-      "Расторгуев Александр Викторович": 19,
-      "Стоша Светлана Анатольевна": 14,
-      "Шинкаренко Валерий Викторович": 13
+      "gas:candidate-vibid:2472000752523": 14,
+      "gas:candidate-vibid:2472000749423": 13,
+      "gas:candidate-vibid:2472000749660": 39,
+      "gas:candidate-vibid:2472000751082": 9,
+      "gas:candidate-vibid:2472000752675": 15,
+      "gas:candidate-vibid:2472000749435": 34,
+      "gas:candidate-vibid:2472000753653": 259,
+      "gas:candidate-vibid:2472000711097": 27,
+      "gas:candidate-vibid:2472000749877": 19,
+      "gas:candidate-vibid:2472000753980": 14,
+      "gas:candidate-vibid:2472000752456": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000149&tvd=2472000671401&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671401&type=464",
@@ -10467,17 +10467,17 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Максим Викторович": 6,
-      "Гиндос Андрей Евгеньевич": 7,
-      "Куликова Галина Васильевна": 16,
-      "Майоров Владимир Михайлович": 2,
-      "Морозенок Елена Олеговна": 5,
-      "Ожерельев Владимир Борисович": 22,
-      "Петров Сергей Валериевич": 111,
-      "Пониматкин Алексей Владимирович": 18,
-      "Расторгуев Александр Викторович": 5,
-      "Стоша Светлана Анатольевна": 7,
-      "Шинкаренко Валерий Викторович": 6
+      "gas:candidate-vibid:2472000752523": 6,
+      "gas:candidate-vibid:2472000749423": 7,
+      "gas:candidate-vibid:2472000749660": 16,
+      "gas:candidate-vibid:2472000751082": 2,
+      "gas:candidate-vibid:2472000752675": 5,
+      "gas:candidate-vibid:2472000749435": 22,
+      "gas:candidate-vibid:2472000753653": 111,
+      "gas:candidate-vibid:2472000711097": 18,
+      "gas:candidate-vibid:2472000749877": 5,
+      "gas:candidate-vibid:2472000753980": 7,
+      "gas:candidate-vibid:2472000752456": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000149&tvd=2472000671401&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671401&type=464",
@@ -10528,17 +10528,17 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Максим Викторович": 22,
-      "Гиндос Андрей Евгеньевич": 27,
-      "Куликова Галина Васильевна": 47,
-      "Майоров Владимир Михайлович": 9,
-      "Морозенок Елена Олеговна": 5,
-      "Ожерельев Владимир Борисович": 36,
-      "Петров Сергей Валериевич": 356,
-      "Пониматкин Алексей Владимирович": 76,
-      "Расторгуев Александр Викторович": 10,
-      "Стоша Светлана Анатольевна": 52,
-      "Шинкаренко Валерий Викторович": 11
+      "gas:candidate-vibid:2472000752523": 22,
+      "gas:candidate-vibid:2472000749423": 27,
+      "gas:candidate-vibid:2472000749660": 47,
+      "gas:candidate-vibid:2472000751082": 9,
+      "gas:candidate-vibid:2472000752675": 5,
+      "gas:candidate-vibid:2472000749435": 36,
+      "gas:candidate-vibid:2472000753653": 356,
+      "gas:candidate-vibid:2472000711097": 76,
+      "gas:candidate-vibid:2472000749877": 10,
+      "gas:candidate-vibid:2472000753980": 52,
+      "gas:candidate-vibid:2472000752456": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000149&tvd=2472000671401&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671401&type=464",
@@ -10589,17 +10589,17 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Максим Викторович": 29,
-      "Гиндос Андрей Евгеньевич": 43,
-      "Куликова Галина Васильевна": 65,
-      "Майоров Владимир Михайлович": 21,
-      "Морозенок Елена Олеговна": 16,
-      "Ожерельев Владимир Борисович": 77,
-      "Петров Сергей Валериевич": 312,
-      "Пониматкин Алексей Владимирович": 100,
-      "Расторгуев Александр Викторович": 26,
-      "Стоша Светлана Анатольевна": 39,
-      "Шинкаренко Валерий Викторович": 15
+      "gas:candidate-vibid:2472000752523": 29,
+      "gas:candidate-vibid:2472000749423": 43,
+      "gas:candidate-vibid:2472000749660": 65,
+      "gas:candidate-vibid:2472000751082": 21,
+      "gas:candidate-vibid:2472000752675": 16,
+      "gas:candidate-vibid:2472000749435": 77,
+      "gas:candidate-vibid:2472000753653": 312,
+      "gas:candidate-vibid:2472000711097": 100,
+      "gas:candidate-vibid:2472000749877": 26,
+      "gas:candidate-vibid:2472000753980": 39,
+      "gas:candidate-vibid:2472000752456": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000149&tvd=2472000671401&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671401&type=464",
@@ -10650,17 +10650,17 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Максим Викторович": 13,
-      "Гиндос Андрей Евгеньевич": 9,
-      "Куликова Галина Васильевна": 32,
-      "Майоров Владимир Михайлович": 11,
-      "Морозенок Елена Олеговна": 5,
-      "Ожерельев Владимир Борисович": 20,
-      "Петров Сергей Валериевич": 126,
-      "Пониматкин Алексей Владимирович": 19,
-      "Расторгуев Александр Викторович": 5,
-      "Стоша Светлана Анатольевна": 27,
-      "Шинкаренко Валерий Викторович": 5
+      "gas:candidate-vibid:2472000752523": 13,
+      "gas:candidate-vibid:2472000749423": 9,
+      "gas:candidate-vibid:2472000749660": 32,
+      "gas:candidate-vibid:2472000751082": 11,
+      "gas:candidate-vibid:2472000752675": 5,
+      "gas:candidate-vibid:2472000749435": 20,
+      "gas:candidate-vibid:2472000753653": 126,
+      "gas:candidate-vibid:2472000711097": 19,
+      "gas:candidate-vibid:2472000749877": 5,
+      "gas:candidate-vibid:2472000753980": 27,
+      "gas:candidate-vibid:2472000752456": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000149&tvd=2472000671401&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671401&type=464",
@@ -10711,17 +10711,17 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Максим Викторович": 17,
-      "Гиндос Андрей Евгеньевич": 6,
-      "Куликова Галина Васильевна": 20,
-      "Майоров Владимир Михайлович": 8,
-      "Морозенок Елена Олеговна": 10,
-      "Ожерельев Владимир Борисович": 27,
-      "Петров Сергей Валериевич": 159,
-      "Пониматкин Алексей Владимирович": 32,
-      "Расторгуев Александр Викторович": 11,
-      "Стоша Светлана Анатольевна": 8,
-      "Шинкаренко Валерий Викторович": 4
+      "gas:candidate-vibid:2472000752523": 17,
+      "gas:candidate-vibid:2472000749423": 6,
+      "gas:candidate-vibid:2472000749660": 20,
+      "gas:candidate-vibid:2472000751082": 8,
+      "gas:candidate-vibid:2472000752675": 10,
+      "gas:candidate-vibid:2472000749435": 27,
+      "gas:candidate-vibid:2472000753653": 159,
+      "gas:candidate-vibid:2472000711097": 32,
+      "gas:candidate-vibid:2472000749877": 11,
+      "gas:candidate-vibid:2472000753980": 8,
+      "gas:candidate-vibid:2472000752456": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000149&tvd=2472000671401&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671401&type=464",
@@ -10772,17 +10772,17 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Максим Викторович": 18,
-      "Гиндос Андрей Евгеньевич": 16,
-      "Куликова Галина Васильевна": 35,
-      "Майоров Владимир Михайлович": 6,
-      "Морозенок Елена Олеговна": 9,
-      "Ожерельев Владимир Борисович": 40,
-      "Петров Сергей Валериевич": 279,
-      "Пониматкин Алексей Владимирович": 31,
-      "Расторгуев Александр Викторович": 12,
-      "Стоша Светлана Анатольевна": 5,
-      "Шинкаренко Валерий Викторович": 9
+      "gas:candidate-vibid:2472000752523": 18,
+      "gas:candidate-vibid:2472000749423": 16,
+      "gas:candidate-vibid:2472000749660": 35,
+      "gas:candidate-vibid:2472000751082": 6,
+      "gas:candidate-vibid:2472000752675": 9,
+      "gas:candidate-vibid:2472000749435": 40,
+      "gas:candidate-vibid:2472000753653": 279,
+      "gas:candidate-vibid:2472000711097": 31,
+      "gas:candidate-vibid:2472000749877": 12,
+      "gas:candidate-vibid:2472000753980": 5,
+      "gas:candidate-vibid:2472000752456": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000149&tvd=2472000671401&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671401&type=464",
@@ -10833,17 +10833,17 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Максим Викторович": 31,
-      "Гиндос Андрей Евгеньевич": 18,
-      "Куликова Галина Васильевна": 54,
-      "Майоров Владимир Михайлович": 7,
-      "Морозенок Елена Олеговна": 13,
-      "Ожерельев Владимир Борисович": 54,
-      "Петров Сергей Валериевич": 324,
-      "Пониматкин Алексей Владимирович": 63,
-      "Расторгуев Александр Викторович": 25,
-      "Стоша Светлана Анатольевна": 19,
-      "Шинкаренко Валерий Викторович": 16
+      "gas:candidate-vibid:2472000752523": 31,
+      "gas:candidate-vibid:2472000749423": 18,
+      "gas:candidate-vibid:2472000749660": 54,
+      "gas:candidate-vibid:2472000751082": 7,
+      "gas:candidate-vibid:2472000752675": 13,
+      "gas:candidate-vibid:2472000749435": 54,
+      "gas:candidate-vibid:2472000753653": 324,
+      "gas:candidate-vibid:2472000711097": 63,
+      "gas:candidate-vibid:2472000749877": 25,
+      "gas:candidate-vibid:2472000753980": 19,
+      "gas:candidate-vibid:2472000752456": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000149&tvd=2472000671401&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671401&type=464",
@@ -10894,17 +10894,17 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Максим Викторович": 29,
-      "Гиндос Андрей Евгеньевич": 52,
-      "Куликова Галина Васильевна": 54,
-      "Майоров Владимир Михайлович": 11,
-      "Морозенок Елена Олеговна": 15,
-      "Ожерельев Владимир Борисович": 78,
-      "Петров Сергей Валериевич": 348,
-      "Пониматкин Алексей Владимирович": 74,
-      "Расторгуев Александр Викторович": 20,
-      "Стоша Светлана Анатольевна": 15,
-      "Шинкаренко Валерий Викторович": 12
+      "gas:candidate-vibid:2472000752523": 29,
+      "gas:candidate-vibid:2472000749423": 52,
+      "gas:candidate-vibid:2472000749660": 54,
+      "gas:candidate-vibid:2472000751082": 11,
+      "gas:candidate-vibid:2472000752675": 15,
+      "gas:candidate-vibid:2472000749435": 78,
+      "gas:candidate-vibid:2472000753653": 348,
+      "gas:candidate-vibid:2472000711097": 74,
+      "gas:candidate-vibid:2472000749877": 20,
+      "gas:candidate-vibid:2472000753980": 15,
+      "gas:candidate-vibid:2472000752456": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000149&tvd=2472000671401&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671401&type=464",
@@ -10955,17 +10955,17 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Максим Викторович": 20,
-      "Гиндос Андрей Евгеньевич": 40,
-      "Куликова Галина Васильевна": 110,
-      "Майоров Владимир Михайлович": 17,
-      "Морозенок Елена Олеговна": 16,
-      "Ожерельев Владимир Борисович": 64,
-      "Петров Сергей Валериевич": 198,
-      "Пониматкин Алексей Владимирович": 59,
-      "Расторгуев Александр Викторович": 14,
-      "Стоша Светлана Анатольевна": 18,
-      "Шинкаренко Валерий Викторович": 11
+      "gas:candidate-vibid:2472000752523": 20,
+      "gas:candidate-vibid:2472000749423": 40,
+      "gas:candidate-vibid:2472000749660": 110,
+      "gas:candidate-vibid:2472000751082": 17,
+      "gas:candidate-vibid:2472000752675": 16,
+      "gas:candidate-vibid:2472000749435": 64,
+      "gas:candidate-vibid:2472000753653": 198,
+      "gas:candidate-vibid:2472000711097": 59,
+      "gas:candidate-vibid:2472000749877": 14,
+      "gas:candidate-vibid:2472000753980": 18,
+      "gas:candidate-vibid:2472000752456": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000149&tvd=2472000671402&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671402&type=464",
@@ -11016,17 +11016,17 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Максим Викторович": 20,
-      "Гиндос Андрей Евгеньевич": 53,
-      "Куликова Галина Васильевна": 131,
-      "Майоров Владимир Михайлович": 8,
-      "Морозенок Елена Олеговна": 27,
-      "Ожерельев Владимир Борисович": 75,
-      "Петров Сергей Валериевич": 346,
-      "Пониматкин Алексей Владимирович": 61,
-      "Расторгуев Александр Викторович": 25,
-      "Стоша Светлана Анатольевна": 21,
-      "Шинкаренко Валерий Викторович": 25
+      "gas:candidate-vibid:2472000752523": 20,
+      "gas:candidate-vibid:2472000749423": 53,
+      "gas:candidate-vibid:2472000749660": 131,
+      "gas:candidate-vibid:2472000751082": 8,
+      "gas:candidate-vibid:2472000752675": 27,
+      "gas:candidate-vibid:2472000749435": 75,
+      "gas:candidate-vibid:2472000753653": 346,
+      "gas:candidate-vibid:2472000711097": 61,
+      "gas:candidate-vibid:2472000749877": 25,
+      "gas:candidate-vibid:2472000753980": 21,
+      "gas:candidate-vibid:2472000752456": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000149&tvd=2472000671402&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671402&type=464",
@@ -11077,17 +11077,17 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Максим Викторович": 24,
-      "Гиндос Андрей Евгеньевич": 47,
-      "Куликова Галина Васильевна": 114,
-      "Майоров Владимир Михайлович": 12,
-      "Морозенок Елена Олеговна": 23,
-      "Ожерельев Владимир Борисович": 68,
-      "Петров Сергей Валериевич": 242,
-      "Пониматкин Алексей Владимирович": 50,
-      "Расторгуев Александр Викторович": 20,
-      "Стоша Светлана Анатольевна": 22,
-      "Шинкаренко Валерий Викторович": 17
+      "gas:candidate-vibid:2472000752523": 24,
+      "gas:candidate-vibid:2472000749423": 47,
+      "gas:candidate-vibid:2472000749660": 114,
+      "gas:candidate-vibid:2472000751082": 12,
+      "gas:candidate-vibid:2472000752675": 23,
+      "gas:candidate-vibid:2472000749435": 68,
+      "gas:candidate-vibid:2472000753653": 242,
+      "gas:candidate-vibid:2472000711097": 50,
+      "gas:candidate-vibid:2472000749877": 20,
+      "gas:candidate-vibid:2472000753980": 22,
+      "gas:candidate-vibid:2472000752456": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000149&tvd=2472000671402&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671402&type=464",
@@ -11138,17 +11138,17 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Максим Викторович": 14,
-      "Гиндос Андрей Евгеньевич": 10,
-      "Куликова Галина Васильевна": 49,
-      "Майоров Владимир Михайлович": 9,
-      "Морозенок Елена Олеговна": 8,
-      "Ожерельев Владимир Борисович": 30,
-      "Петров Сергей Валериевич": 169,
-      "Пониматкин Алексей Владимирович": 24,
-      "Расторгуев Александр Викторович": 10,
-      "Стоша Светлана Анатольевна": 6,
-      "Шинкаренко Валерий Викторович": 6
+      "gas:candidate-vibid:2472000752523": 14,
+      "gas:candidate-vibid:2472000749423": 10,
+      "gas:candidate-vibid:2472000749660": 49,
+      "gas:candidate-vibid:2472000751082": 9,
+      "gas:candidate-vibid:2472000752675": 8,
+      "gas:candidate-vibid:2472000749435": 30,
+      "gas:candidate-vibid:2472000753653": 169,
+      "gas:candidate-vibid:2472000711097": 24,
+      "gas:candidate-vibid:2472000749877": 10,
+      "gas:candidate-vibid:2472000753980": 6,
+      "gas:candidate-vibid:2472000752456": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000149&tvd=2472000671402&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671402&type=464",
@@ -11199,17 +11199,17 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Максим Викторович": 31,
-      "Гиндос Андрей Евгеньевич": 52,
-      "Куликова Галина Васильевна": 123,
-      "Майоров Владимир Михайлович": 11,
-      "Морозенок Елена Олеговна": 22,
-      "Ожерельев Владимир Борисович": 91,
-      "Петров Сергей Валериевич": 344,
-      "Пониматкин Алексей Владимирович": 65,
-      "Расторгуев Александр Викторович": 16,
-      "Стоша Светлана Анатольевна": 28,
-      "Шинкаренко Валерий Викторович": 30
+      "gas:candidate-vibid:2472000752523": 31,
+      "gas:candidate-vibid:2472000749423": 52,
+      "gas:candidate-vibid:2472000749660": 123,
+      "gas:candidate-vibid:2472000751082": 11,
+      "gas:candidate-vibid:2472000752675": 22,
+      "gas:candidate-vibid:2472000749435": 91,
+      "gas:candidate-vibid:2472000753653": 344,
+      "gas:candidate-vibid:2472000711097": 65,
+      "gas:candidate-vibid:2472000749877": 16,
+      "gas:candidate-vibid:2472000753980": 28,
+      "gas:candidate-vibid:2472000752456": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000149&tvd=2472000671402&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671402&type=464",
@@ -11260,17 +11260,17 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Максим Викторович": 30,
-      "Гиндос Андрей Евгеньевич": 58,
-      "Куликова Галина Васильевна": 151,
-      "Майоров Владимир Михайлович": 12,
-      "Морозенок Елена Олеговна": 29,
-      "Ожерельев Владимир Борисович": 98,
-      "Петров Сергей Валериевич": 339,
-      "Пониматкин Алексей Владимирович": 78,
-      "Расторгуев Александр Викторович": 15,
-      "Стоша Светлана Анатольевна": 23,
-      "Шинкаренко Валерий Викторович": 24
+      "gas:candidate-vibid:2472000752523": 30,
+      "gas:candidate-vibid:2472000749423": 58,
+      "gas:candidate-vibid:2472000749660": 151,
+      "gas:candidate-vibid:2472000751082": 12,
+      "gas:candidate-vibid:2472000752675": 29,
+      "gas:candidate-vibid:2472000749435": 98,
+      "gas:candidate-vibid:2472000753653": 339,
+      "gas:candidate-vibid:2472000711097": 78,
+      "gas:candidate-vibid:2472000749877": 15,
+      "gas:candidate-vibid:2472000753980": 23,
+      "gas:candidate-vibid:2472000752456": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000149&tvd=2472000671402&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671402&type=464",
@@ -11321,17 +11321,17 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Максим Викторович": 19,
-      "Гиндос Андрей Евгеньевич": 35,
-      "Куликова Галина Васильевна": 103,
-      "Майоров Владимир Михайлович": 15,
-      "Морозенок Елена Олеговна": 16,
-      "Ожерельев Владимир Борисович": 84,
-      "Петров Сергей Валериевич": 238,
-      "Пониматкин Алексей Владимирович": 50,
-      "Расторгуев Александр Викторович": 21,
-      "Стоша Светлана Анатольевна": 17,
-      "Шинкаренко Валерий Викторович": 20
+      "gas:candidate-vibid:2472000752523": 19,
+      "gas:candidate-vibid:2472000749423": 35,
+      "gas:candidate-vibid:2472000749660": 103,
+      "gas:candidate-vibid:2472000751082": 15,
+      "gas:candidate-vibid:2472000752675": 16,
+      "gas:candidate-vibid:2472000749435": 84,
+      "gas:candidate-vibid:2472000753653": 238,
+      "gas:candidate-vibid:2472000711097": 50,
+      "gas:candidate-vibid:2472000749877": 21,
+      "gas:candidate-vibid:2472000753980": 17,
+      "gas:candidate-vibid:2472000752456": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000149&tvd=2472000671402&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671402&type=464",
@@ -11382,17 +11382,17 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Максим Викторович": 11,
-      "Гиндос Андрей Евгеньевич": 19,
-      "Куликова Галина Васильевна": 51,
-      "Майоров Владимир Михайлович": 4,
-      "Морозенок Елена Олеговна": 13,
-      "Ожерельев Владимир Борисович": 33,
-      "Петров Сергей Валериевич": 143,
-      "Пониматкин Алексей Владимирович": 18,
-      "Расторгуев Александр Викторович": 7,
-      "Стоша Светлана Анатольевна": 12,
-      "Шинкаренко Валерий Викторович": 8
+      "gas:candidate-vibid:2472000752523": 11,
+      "gas:candidate-vibid:2472000749423": 19,
+      "gas:candidate-vibid:2472000749660": 51,
+      "gas:candidate-vibid:2472000751082": 4,
+      "gas:candidate-vibid:2472000752675": 13,
+      "gas:candidate-vibid:2472000749435": 33,
+      "gas:candidate-vibid:2472000753653": 143,
+      "gas:candidate-vibid:2472000711097": 18,
+      "gas:candidate-vibid:2472000749877": 7,
+      "gas:candidate-vibid:2472000753980": 12,
+      "gas:candidate-vibid:2472000752456": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000149&tvd=2472000671402&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671402&type=464",
@@ -11443,17 +11443,17 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Максим Викторович": 21,
-      "Гиндос Андрей Евгеньевич": 36,
-      "Куликова Галина Васильевна": 98,
-      "Майоров Владимир Михайлович": 17,
-      "Морозенок Елена Олеговна": 26,
-      "Ожерельев Владимир Борисович": 74,
-      "Петров Сергей Валериевич": 268,
-      "Пониматкин Алексей Владимирович": 65,
-      "Расторгуев Александр Викторович": 19,
-      "Стоша Светлана Анатольевна": 20,
-      "Шинкаренко Валерий Викторович": 15
+      "gas:candidate-vibid:2472000752523": 21,
+      "gas:candidate-vibid:2472000749423": 36,
+      "gas:candidate-vibid:2472000749660": 98,
+      "gas:candidate-vibid:2472000751082": 17,
+      "gas:candidate-vibid:2472000752675": 26,
+      "gas:candidate-vibid:2472000749435": 74,
+      "gas:candidate-vibid:2472000753653": 268,
+      "gas:candidate-vibid:2472000711097": 65,
+      "gas:candidate-vibid:2472000749877": 19,
+      "gas:candidate-vibid:2472000753980": 20,
+      "gas:candidate-vibid:2472000752456": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000149&tvd=2472000671402&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671402&type=464",
@@ -11504,17 +11504,17 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Максим Викторович": 17,
-      "Гиндос Андрей Евгеньевич": 28,
-      "Куликова Галина Васильевна": 61,
-      "Майоров Владимир Михайлович": 8,
-      "Морозенок Елена Олеговна": 16,
-      "Ожерельев Владимир Борисович": 58,
-      "Петров Сергей Валериевич": 167,
-      "Пониматкин Алексей Владимирович": 51,
-      "Расторгуев Александр Викторович": 12,
-      "Стоша Светлана Анатольевна": 14,
-      "Шинкаренко Валерий Викторович": 12
+      "gas:candidate-vibid:2472000752523": 17,
+      "gas:candidate-vibid:2472000749423": 28,
+      "gas:candidate-vibid:2472000749660": 61,
+      "gas:candidate-vibid:2472000751082": 8,
+      "gas:candidate-vibid:2472000752675": 16,
+      "gas:candidate-vibid:2472000749435": 58,
+      "gas:candidate-vibid:2472000753653": 167,
+      "gas:candidate-vibid:2472000711097": 51,
+      "gas:candidate-vibid:2472000749877": 12,
+      "gas:candidate-vibid:2472000753980": 14,
+      "gas:candidate-vibid:2472000752456": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000149&tvd=2472000671402&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671402&type=464",
@@ -11565,17 +11565,17 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Максим Викторович": 38,
-      "Гиндос Андрей Евгеньевич": 52,
-      "Куликова Галина Васильевна": 104,
-      "Майоров Владимир Михайлович": 14,
-      "Морозенок Елена Олеговна": 22,
-      "Ожерельев Владимир Борисович": 77,
-      "Петров Сергей Валериевич": 290,
-      "Пониматкин Алексей Владимирович": 68,
-      "Расторгуев Александр Викторович": 12,
-      "Стоша Светлана Анатольевна": 24,
-      "Шинкаренко Валерий Викторович": 30
+      "gas:candidate-vibid:2472000752523": 38,
+      "gas:candidate-vibid:2472000749423": 52,
+      "gas:candidate-vibid:2472000749660": 104,
+      "gas:candidate-vibid:2472000751082": 14,
+      "gas:candidate-vibid:2472000752675": 22,
+      "gas:candidate-vibid:2472000749435": 77,
+      "gas:candidate-vibid:2472000753653": 290,
+      "gas:candidate-vibid:2472000711097": 68,
+      "gas:candidate-vibid:2472000749877": 12,
+      "gas:candidate-vibid:2472000753980": 24,
+      "gas:candidate-vibid:2472000752456": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000149&tvd=2472000671402&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671402&type=464",
@@ -11626,17 +11626,17 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Максим Викторович": 23,
-      "Гиндос Андрей Евгеньевич": 56,
-      "Куликова Галина Васильевна": 149,
-      "Майоров Владимир Михайлович": 15,
-      "Морозенок Елена Олеговна": 16,
-      "Ожерельев Владимир Борисович": 93,
-      "Петров Сергей Валериевич": 264,
-      "Пониматкин Алексей Владимирович": 63,
-      "Расторгуев Александр Викторович": 16,
-      "Стоша Светлана Анатольевна": 25,
-      "Шинкаренко Валерий Викторович": 21
+      "gas:candidate-vibid:2472000752523": 23,
+      "gas:candidate-vibid:2472000749423": 56,
+      "gas:candidate-vibid:2472000749660": 149,
+      "gas:candidate-vibid:2472000751082": 15,
+      "gas:candidate-vibid:2472000752675": 16,
+      "gas:candidate-vibid:2472000749435": 93,
+      "gas:candidate-vibid:2472000753653": 264,
+      "gas:candidate-vibid:2472000711097": 63,
+      "gas:candidate-vibid:2472000749877": 16,
+      "gas:candidate-vibid:2472000753980": 25,
+      "gas:candidate-vibid:2472000752456": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000149&tvd=2472000671402&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671402&type=464",
@@ -11687,17 +11687,17 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Максим Викторович": 37,
-      "Гиндос Андрей Евгеньевич": 38,
-      "Куликова Галина Васильевна": 118,
-      "Майоров Владимир Михайлович": 19,
-      "Морозенок Елена Олеговна": 26,
-      "Ожерельев Владимир Борисович": 75,
-      "Петров Сергей Валериевич": 382,
-      "Пониматкин Алексей Владимирович": 85,
-      "Расторгуев Александр Викторович": 22,
-      "Стоша Светлана Анатольевна": 23,
-      "Шинкаренко Валерий Викторович": 14
+      "gas:candidate-vibid:2472000752523": 37,
+      "gas:candidate-vibid:2472000749423": 38,
+      "gas:candidate-vibid:2472000749660": 118,
+      "gas:candidate-vibid:2472000751082": 19,
+      "gas:candidate-vibid:2472000752675": 26,
+      "gas:candidate-vibid:2472000749435": 75,
+      "gas:candidate-vibid:2472000753653": 382,
+      "gas:candidate-vibid:2472000711097": 85,
+      "gas:candidate-vibid:2472000749877": 22,
+      "gas:candidate-vibid:2472000753980": 23,
+      "gas:candidate-vibid:2472000752456": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000149&tvd=2472000671402&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671402&type=464",
@@ -11748,17 +11748,17 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Максим Викторович": 10,
-      "Гиндос Андрей Евгеньевич": 12,
-      "Куликова Галина Васильевна": 32,
-      "Майоров Владимир Михайлович": 1,
-      "Морозенок Елена Олеговна": 9,
-      "Ожерельев Владимир Борисович": 21,
-      "Петров Сергей Валериевич": 66,
-      "Пониматкин Алексей Владимирович": 27,
-      "Расторгуев Александр Викторович": 8,
-      "Стоша Светлана Анатольевна": 5,
-      "Шинкаренко Валерий Викторович": 7
+      "gas:candidate-vibid:2472000752523": 10,
+      "gas:candidate-vibid:2472000749423": 12,
+      "gas:candidate-vibid:2472000749660": 32,
+      "gas:candidate-vibid:2472000751082": 1,
+      "gas:candidate-vibid:2472000752675": 9,
+      "gas:candidate-vibid:2472000749435": 21,
+      "gas:candidate-vibid:2472000753653": 66,
+      "gas:candidate-vibid:2472000711097": 27,
+      "gas:candidate-vibid:2472000749877": 8,
+      "gas:candidate-vibid:2472000753980": 5,
+      "gas:candidate-vibid:2472000752456": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000149&tvd=2472000671402&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671402&type=464",
@@ -11809,17 +11809,17 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Максим Викторович": 7,
-      "Гиндос Андрей Евгеньевич": 9,
-      "Куликова Галина Васильевна": 21,
-      "Майоров Владимир Михайлович": 11,
-      "Морозенок Елена Олеговна": 15,
-      "Ожерельев Владимир Борисович": 15,
-      "Петров Сергей Валериевич": 106,
-      "Пониматкин Алексей Владимирович": 20,
-      "Расторгуев Александр Викторович": 4,
-      "Стоша Светлана Анатольевна": 6,
-      "Шинкаренко Валерий Викторович": 7
+      "gas:candidate-vibid:2472000752523": 7,
+      "gas:candidate-vibid:2472000749423": 9,
+      "gas:candidate-vibid:2472000749660": 21,
+      "gas:candidate-vibid:2472000751082": 11,
+      "gas:candidate-vibid:2472000752675": 15,
+      "gas:candidate-vibid:2472000749435": 15,
+      "gas:candidate-vibid:2472000753653": 106,
+      "gas:candidate-vibid:2472000711097": 20,
+      "gas:candidate-vibid:2472000749877": 4,
+      "gas:candidate-vibid:2472000753980": 6,
+      "gas:candidate-vibid:2472000752456": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000149&tvd=2472000671402&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671402&type=464",
@@ -11870,17 +11870,17 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Максим Викторович": 27,
-      "Гиндос Андрей Евгеньевич": 36,
-      "Куликова Галина Васильевна": 109,
-      "Майоров Владимир Михайлович": 13,
-      "Морозенок Елена Олеговна": 19,
-      "Ожерельев Владимир Борисович": 92,
-      "Петров Сергей Валериевич": 316,
-      "Пониматкин Алексей Владимирович": 107,
-      "Расторгуев Александр Викторович": 11,
-      "Стоша Светлана Анатольевна": 36,
-      "Шинкаренко Валерий Викторович": 37
+      "gas:candidate-vibid:2472000752523": 27,
+      "gas:candidate-vibid:2472000749423": 36,
+      "gas:candidate-vibid:2472000749660": 109,
+      "gas:candidate-vibid:2472000751082": 13,
+      "gas:candidate-vibid:2472000752675": 19,
+      "gas:candidate-vibid:2472000749435": 92,
+      "gas:candidate-vibid:2472000753653": 316,
+      "gas:candidate-vibid:2472000711097": 107,
+      "gas:candidate-vibid:2472000749877": 11,
+      "gas:candidate-vibid:2472000753980": 36,
+      "gas:candidate-vibid:2472000752456": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000149&tvd=2472000671402&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671402&type=464",
@@ -11931,17 +11931,17 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Максим Викторович": 8,
-      "Гиндос Андрей Евгеньевич": 20,
-      "Куликова Галина Васильевна": 14,
-      "Майоров Владимир Михайлович": 2,
-      "Морозенок Елена Олеговна": 8,
-      "Ожерельев Владимир Борисович": 29,
-      "Петров Сергей Валериевич": 87,
-      "Пониматкин Алексей Владимирович": 22,
-      "Расторгуев Александр Викторович": 9,
-      "Стоша Светлана Анатольевна": 6,
-      "Шинкаренко Валерий Викторович": 4
+      "gas:candidate-vibid:2472000752523": 8,
+      "gas:candidate-vibid:2472000749423": 20,
+      "gas:candidate-vibid:2472000749660": 14,
+      "gas:candidate-vibid:2472000751082": 2,
+      "gas:candidate-vibid:2472000752675": 8,
+      "gas:candidate-vibid:2472000749435": 29,
+      "gas:candidate-vibid:2472000753653": 87,
+      "gas:candidate-vibid:2472000711097": 22,
+      "gas:candidate-vibid:2472000749877": 9,
+      "gas:candidate-vibid:2472000753980": 6,
+      "gas:candidate-vibid:2472000752456": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000149&tvd=2472000671402&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671402&type=464",
@@ -11992,17 +11992,17 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Максим Викторович": 24,
-      "Гиндос Андрей Евгеньевич": 33,
-      "Куликова Галина Васильевна": 85,
-      "Майоров Владимир Михайлович": 2,
-      "Морозенок Елена Олеговна": 19,
-      "Ожерельев Владимир Борисович": 75,
-      "Петров Сергей Валериевич": 247,
-      "Пониматкин Алексей Владимирович": 55,
-      "Расторгуев Александр Викторович": 26,
-      "Стоша Светлана Анатольевна": 22,
-      "Шинкаренко Валерий Викторович": 21
+      "gas:candidate-vibid:2472000752523": 24,
+      "gas:candidate-vibid:2472000749423": 33,
+      "gas:candidate-vibid:2472000749660": 85,
+      "gas:candidate-vibid:2472000751082": 2,
+      "gas:candidate-vibid:2472000752675": 19,
+      "gas:candidate-vibid:2472000749435": 75,
+      "gas:candidate-vibid:2472000753653": 247,
+      "gas:candidate-vibid:2472000711097": 55,
+      "gas:candidate-vibid:2472000749877": 26,
+      "gas:candidate-vibid:2472000753980": 22,
+      "gas:candidate-vibid:2472000752456": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000149&tvd=2472000671402&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671402&type=464",
@@ -12053,17 +12053,17 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Максим Викторович": 20,
-      "Гиндос Андрей Евгеньевич": 27,
-      "Куликова Галина Васильевна": 68,
-      "Майоров Владимир Михайлович": 10,
-      "Морозенок Елена Олеговна": 15,
-      "Ожерельев Владимир Борисович": 45,
-      "Петров Сергей Валериевич": 249,
-      "Пониматкин Алексей Владимирович": 28,
-      "Расторгуев Александр Викторович": 12,
-      "Стоша Светлана Анатольевна": 7,
-      "Шинкаренко Валерий Викторович": 14
+      "gas:candidate-vibid:2472000752523": 20,
+      "gas:candidate-vibid:2472000749423": 27,
+      "gas:candidate-vibid:2472000749660": 68,
+      "gas:candidate-vibid:2472000751082": 10,
+      "gas:candidate-vibid:2472000752675": 15,
+      "gas:candidate-vibid:2472000749435": 45,
+      "gas:candidate-vibid:2472000753653": 249,
+      "gas:candidate-vibid:2472000711097": 28,
+      "gas:candidate-vibid:2472000749877": 12,
+      "gas:candidate-vibid:2472000753980": 7,
+      "gas:candidate-vibid:2472000752456": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000149&tvd=2472000671402&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671402&type=464",
@@ -12114,17 +12114,17 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Максим Викторович": 16,
-      "Гиндос Андрей Евгеньевич": 12,
-      "Куликова Галина Васильевна": 19,
-      "Майоров Владимир Михайлович": 5,
-      "Морозенок Елена Олеговна": 6,
-      "Ожерельев Владимир Борисович": 27,
-      "Петров Сергей Валериевич": 156,
-      "Пониматкин Алексей Владимирович": 39,
-      "Расторгуев Александр Викторович": 7,
-      "Стоша Светлана Анатольевна": 2,
-      "Шинкаренко Валерий Викторович": 7
+      "gas:candidate-vibid:2472000752523": 16,
+      "gas:candidate-vibid:2472000749423": 12,
+      "gas:candidate-vibid:2472000749660": 19,
+      "gas:candidate-vibid:2472000751082": 5,
+      "gas:candidate-vibid:2472000752675": 6,
+      "gas:candidate-vibid:2472000749435": 27,
+      "gas:candidate-vibid:2472000753653": 156,
+      "gas:candidate-vibid:2472000711097": 39,
+      "gas:candidate-vibid:2472000749877": 7,
+      "gas:candidate-vibid:2472000753980": 2,
+      "gas:candidate-vibid:2472000752456": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000149&tvd=2472000671402&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671402&type=464",
@@ -12175,17 +12175,17 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Максим Викторович": 8,
-      "Гиндос Андрей Евгеньевич": 17,
-      "Куликова Галина Васильевна": 27,
-      "Майоров Владимир Михайлович": 8,
-      "Морозенок Елена Олеговна": 7,
-      "Ожерельев Владимир Борисович": 20,
-      "Петров Сергей Валериевич": 204,
-      "Пониматкин Алексей Владимирович": 37,
-      "Расторгуев Александр Викторович": 10,
-      "Стоша Светлана Анатольевна": 7,
-      "Шинкаренко Валерий Викторович": 9
+      "gas:candidate-vibid:2472000752523": 8,
+      "gas:candidate-vibid:2472000749423": 17,
+      "gas:candidate-vibid:2472000749660": 27,
+      "gas:candidate-vibid:2472000751082": 8,
+      "gas:candidate-vibid:2472000752675": 7,
+      "gas:candidate-vibid:2472000749435": 20,
+      "gas:candidate-vibid:2472000753653": 204,
+      "gas:candidate-vibid:2472000711097": 37,
+      "gas:candidate-vibid:2472000749877": 10,
+      "gas:candidate-vibid:2472000753980": 7,
+      "gas:candidate-vibid:2472000752456": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000149&tvd=2472000671402&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671402&type=464",
@@ -12236,17 +12236,17 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Максим Викторович": 13,
-      "Гиндос Андрей Евгеньевич": 11,
-      "Куликова Галина Васильевна": 26,
-      "Майоров Владимир Михайлович": 4,
-      "Морозенок Елена Олеговна": 5,
-      "Ожерельев Владимир Борисович": 26,
-      "Петров Сергей Валериевич": 233,
-      "Пониматкин Алексей Владимирович": 22,
-      "Расторгуев Александр Викторович": 5,
-      "Стоша Светлана Анатольевна": 9,
-      "Шинкаренко Валерий Викторович": 6
+      "gas:candidate-vibid:2472000752523": 13,
+      "gas:candidate-vibid:2472000749423": 11,
+      "gas:candidate-vibid:2472000749660": 26,
+      "gas:candidate-vibid:2472000751082": 4,
+      "gas:candidate-vibid:2472000752675": 5,
+      "gas:candidate-vibid:2472000749435": 26,
+      "gas:candidate-vibid:2472000753653": 233,
+      "gas:candidate-vibid:2472000711097": 22,
+      "gas:candidate-vibid:2472000749877": 5,
+      "gas:candidate-vibid:2472000753980": 9,
+      "gas:candidate-vibid:2472000752456": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000149&tvd=2472000671402&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671402&type=464",
@@ -12297,17 +12297,17 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Максим Викторович": 3,
-      "Гиндос Андрей Евгеньевич": 16,
-      "Куликова Галина Васильевна": 9,
-      "Майоров Владимир Михайлович": 6,
-      "Морозенок Елена Олеговна": 3,
-      "Ожерельев Владимир Борисович": 17,
-      "Петров Сергей Валериевич": 166,
-      "Пониматкин Алексей Владимирович": 16,
-      "Расторгуев Александр Викторович": 2,
-      "Стоша Светлана Анатольевна": 0,
-      "Шинкаренко Валерий Викторович": 6
+      "gas:candidate-vibid:2472000752523": 3,
+      "gas:candidate-vibid:2472000749423": 16,
+      "gas:candidate-vibid:2472000749660": 9,
+      "gas:candidate-vibid:2472000751082": 6,
+      "gas:candidate-vibid:2472000752675": 3,
+      "gas:candidate-vibid:2472000749435": 17,
+      "gas:candidate-vibid:2472000753653": 166,
+      "gas:candidate-vibid:2472000711097": 16,
+      "gas:candidate-vibid:2472000749877": 2,
+      "gas:candidate-vibid:2472000753980": 0,
+      "gas:candidate-vibid:2472000752456": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000149&tvd=2472000671402&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671402&type=464",
@@ -12358,17 +12358,17 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Максим Викторович": 13,
-      "Гиндос Андрей Евгеньевич": 16,
-      "Куликова Галина Васильевна": 37,
-      "Майоров Владимир Михайлович": 13,
-      "Морозенок Елена Олеговна": 8,
-      "Ожерельев Владимир Борисович": 39,
-      "Петров Сергей Валериевич": 183,
-      "Пониматкин Алексей Владимирович": 50,
-      "Расторгуев Александр Викторович": 8,
-      "Стоша Светлана Анатольевна": 3,
-      "Шинкаренко Валерий Викторович": 6
+      "gas:candidate-vibid:2472000752523": 13,
+      "gas:candidate-vibid:2472000749423": 16,
+      "gas:candidate-vibid:2472000749660": 37,
+      "gas:candidate-vibid:2472000751082": 13,
+      "gas:candidate-vibid:2472000752675": 8,
+      "gas:candidate-vibid:2472000749435": 39,
+      "gas:candidate-vibid:2472000753653": 183,
+      "gas:candidate-vibid:2472000711097": 50,
+      "gas:candidate-vibid:2472000749877": 8,
+      "gas:candidate-vibid:2472000753980": 3,
+      "gas:candidate-vibid:2472000752456": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000149&tvd=2472000671402&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671402&type=464",
@@ -12419,17 +12419,17 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Максим Викторович": 14,
-      "Гиндос Андрей Евгеньевич": 31,
-      "Куликова Галина Васильевна": 37,
-      "Майоров Владимир Михайлович": 8,
-      "Морозенок Елена Олеговна": 11,
-      "Ожерельев Владимир Борисович": 47,
-      "Петров Сергей Валериевич": 226,
-      "Пониматкин Алексей Владимирович": 52,
-      "Расторгуев Александр Викторович": 5,
-      "Стоша Светлана Анатольевна": 3,
-      "Шинкаренко Валерий Викторович": 9
+      "gas:candidate-vibid:2472000752523": 14,
+      "gas:candidate-vibid:2472000749423": 31,
+      "gas:candidate-vibid:2472000749660": 37,
+      "gas:candidate-vibid:2472000751082": 8,
+      "gas:candidate-vibid:2472000752675": 11,
+      "gas:candidate-vibid:2472000749435": 47,
+      "gas:candidate-vibid:2472000753653": 226,
+      "gas:candidate-vibid:2472000711097": 52,
+      "gas:candidate-vibid:2472000749877": 5,
+      "gas:candidate-vibid:2472000753980": 3,
+      "gas:candidate-vibid:2472000752456": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000149&tvd=2472000671402&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671402&type=464",
@@ -12480,17 +12480,17 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Максим Викторович": 24,
-      "Гиндос Андрей Евгеньевич": 26,
-      "Куликова Галина Васильевна": 108,
-      "Майоров Владимир Михайлович": 12,
-      "Морозенок Елена Олеговна": 13,
-      "Ожерельев Владимир Борисович": 57,
-      "Петров Сергей Валериевич": 357,
-      "Пониматкин Алексей Владимирович": 67,
-      "Расторгуев Александр Викторович": 11,
-      "Стоша Светлана Анатольевна": 10,
-      "Шинкаренко Валерий Викторович": 11
+      "gas:candidate-vibid:2472000752523": 24,
+      "gas:candidate-vibid:2472000749423": 26,
+      "gas:candidate-vibid:2472000749660": 108,
+      "gas:candidate-vibid:2472000751082": 12,
+      "gas:candidate-vibid:2472000752675": 13,
+      "gas:candidate-vibid:2472000749435": 57,
+      "gas:candidate-vibid:2472000753653": 357,
+      "gas:candidate-vibid:2472000711097": 67,
+      "gas:candidate-vibid:2472000749877": 11,
+      "gas:candidate-vibid:2472000753980": 10,
+      "gas:candidate-vibid:2472000752456": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000149&tvd=2472000671402&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671402&type=464",
@@ -12541,17 +12541,17 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Максим Викторович": 18,
-      "Гиндос Андрей Евгеньевич": 13,
-      "Куликова Галина Васильевна": 44,
-      "Майоров Владимир Михайлович": 5,
-      "Морозенок Елена Олеговна": 6,
-      "Ожерельев Владимир Борисович": 35,
-      "Петров Сергей Валериевич": 367,
-      "Пониматкин Алексей Владимирович": 43,
-      "Расторгуев Александр Викторович": 12,
-      "Стоша Светлана Анатольевна": 12,
-      "Шинкаренко Валерий Викторович": 10
+      "gas:candidate-vibid:2472000752523": 18,
+      "gas:candidate-vibid:2472000749423": 13,
+      "gas:candidate-vibid:2472000749660": 44,
+      "gas:candidate-vibid:2472000751082": 5,
+      "gas:candidate-vibid:2472000752675": 6,
+      "gas:candidate-vibid:2472000749435": 35,
+      "gas:candidate-vibid:2472000753653": 367,
+      "gas:candidate-vibid:2472000711097": 43,
+      "gas:candidate-vibid:2472000749877": 12,
+      "gas:candidate-vibid:2472000753980": 12,
+      "gas:candidate-vibid:2472000752456": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000149&tvd=2472000671402&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671402&type=464",
@@ -12602,17 +12602,17 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Максим Викторович": 7,
-      "Гиндос Андрей Евгеньевич": 9,
-      "Куликова Галина Васильевна": 27,
-      "Майоров Владимир Михайлович": 3,
-      "Морозенок Елена Олеговна": 2,
-      "Ожерельев Владимир Борисович": 21,
-      "Петров Сергей Валериевич": 188,
-      "Пониматкин Алексей Владимирович": 16,
-      "Расторгуев Александр Викторович": 3,
-      "Стоша Светлана Анатольевна": 0,
-      "Шинкаренко Валерий Викторович": 2
+      "gas:candidate-vibid:2472000752523": 7,
+      "gas:candidate-vibid:2472000749423": 9,
+      "gas:candidate-vibid:2472000749660": 27,
+      "gas:candidate-vibid:2472000751082": 3,
+      "gas:candidate-vibid:2472000752675": 2,
+      "gas:candidate-vibid:2472000749435": 21,
+      "gas:candidate-vibid:2472000753653": 188,
+      "gas:candidate-vibid:2472000711097": 16,
+      "gas:candidate-vibid:2472000749877": 3,
+      "gas:candidate-vibid:2472000753980": 0,
+      "gas:candidate-vibid:2472000752456": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000149&tvd=2472000671402&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671402&type=464",
@@ -12663,17 +12663,17 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Максим Викторович": 4,
-      "Гиндос Андрей Евгеньевич": 13,
-      "Куликова Галина Васильевна": 36,
-      "Майоров Владимир Михайлович": 11,
-      "Морозенок Елена Олеговна": 4,
-      "Ожерельев Владимир Борисович": 17,
-      "Петров Сергей Валериевич": 133,
-      "Пониматкин Алексей Владимирович": 29,
-      "Расторгуев Александр Викторович": 11,
-      "Стоша Светлана Анатольевна": 9,
-      "Шинкаренко Валерий Викторович": 3
+      "gas:candidate-vibid:2472000752523": 4,
+      "gas:candidate-vibid:2472000749423": 13,
+      "gas:candidate-vibid:2472000749660": 36,
+      "gas:candidate-vibid:2472000751082": 11,
+      "gas:candidate-vibid:2472000752675": 4,
+      "gas:candidate-vibid:2472000749435": 17,
+      "gas:candidate-vibid:2472000753653": 133,
+      "gas:candidate-vibid:2472000711097": 29,
+      "gas:candidate-vibid:2472000749877": 11,
+      "gas:candidate-vibid:2472000753980": 9,
+      "gas:candidate-vibid:2472000752456": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000149&tvd=2472000671402&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671402&type=464",
@@ -12724,17 +12724,17 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Максим Викторович": 8,
-      "Гиндос Андрей Евгеньевич": 19,
-      "Куликова Галина Васильевна": 31,
-      "Майоров Владимир Михайлович": 5,
-      "Морозенок Елена Олеговна": 8,
-      "Ожерельев Владимир Борисович": 13,
-      "Петров Сергей Валериевич": 140,
-      "Пониматкин Алексей Владимирович": 16,
-      "Расторгуев Александр Викторович": 8,
-      "Стоша Светлана Анатольевна": 2,
-      "Шинкаренко Валерий Викторович": 7
+      "gas:candidate-vibid:2472000752523": 8,
+      "gas:candidate-vibid:2472000749423": 19,
+      "gas:candidate-vibid:2472000749660": 31,
+      "gas:candidate-vibid:2472000751082": 5,
+      "gas:candidate-vibid:2472000752675": 8,
+      "gas:candidate-vibid:2472000749435": 13,
+      "gas:candidate-vibid:2472000753653": 140,
+      "gas:candidate-vibid:2472000711097": 16,
+      "gas:candidate-vibid:2472000749877": 8,
+      "gas:candidate-vibid:2472000753980": 2,
+      "gas:candidate-vibid:2472000752456": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000149&tvd=2472000671402&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671402&type=464",
@@ -12785,17 +12785,17 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Максим Викторович": 7,
-      "Гиндос Андрей Евгеньевич": 9,
-      "Куликова Галина Васильевна": 28,
-      "Майоров Владимир Михайлович": 6,
-      "Морозенок Елена Олеговна": 5,
-      "Ожерельев Владимир Борисович": 24,
-      "Петров Сергей Валериевич": 98,
-      "Пониматкин Алексей Владимирович": 30,
-      "Расторгуев Александр Викторович": 10,
-      "Стоша Светлана Анатольевна": 6,
-      "Шинкаренко Валерий Викторович": 5
+      "gas:candidate-vibid:2472000752523": 7,
+      "gas:candidate-vibid:2472000749423": 9,
+      "gas:candidate-vibid:2472000749660": 28,
+      "gas:candidate-vibid:2472000751082": 6,
+      "gas:candidate-vibid:2472000752675": 5,
+      "gas:candidate-vibid:2472000749435": 24,
+      "gas:candidate-vibid:2472000753653": 98,
+      "gas:candidate-vibid:2472000711097": 30,
+      "gas:candidate-vibid:2472000749877": 10,
+      "gas:candidate-vibid:2472000753980": 6,
+      "gas:candidate-vibid:2472000752456": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000149&tvd=2472000671402&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671402&type=464",
@@ -12846,17 +12846,17 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Максим Викторович": 16,
-      "Гиндос Андрей Евгеньевич": 15,
-      "Куликова Галина Васильевна": 38,
-      "Майоров Владимир Михайлович": 5,
-      "Морозенок Елена Олеговна": 6,
-      "Ожерельев Владимир Борисович": 43,
-      "Петров Сергей Валериевич": 168,
-      "Пониматкин Алексей Владимирович": 38,
-      "Расторгуев Александр Викторович": 2,
-      "Стоша Светлана Анатольевна": 4,
-      "Шинкаренко Валерий Викторович": 6
+      "gas:candidate-vibid:2472000752523": 16,
+      "gas:candidate-vibid:2472000749423": 15,
+      "gas:candidate-vibid:2472000749660": 38,
+      "gas:candidate-vibid:2472000751082": 5,
+      "gas:candidate-vibid:2472000752675": 6,
+      "gas:candidate-vibid:2472000749435": 43,
+      "gas:candidate-vibid:2472000753653": 168,
+      "gas:candidate-vibid:2472000711097": 38,
+      "gas:candidate-vibid:2472000749877": 2,
+      "gas:candidate-vibid:2472000753980": 4,
+      "gas:candidate-vibid:2472000752456": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000149&tvd=2472000671402&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671402&type=464",
@@ -12907,17 +12907,17 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Максим Викторович": 3,
-      "Гиндос Андрей Евгеньевич": 6,
-      "Куликова Галина Васильевна": 16,
-      "Майоров Владимир Михайлович": 13,
-      "Морозенок Елена Олеговна": 1,
-      "Ожерельев Владимир Борисович": 22,
-      "Петров Сергей Валериевич": 181,
-      "Пониматкин Алексей Владимирович": 12,
-      "Расторгуев Александр Викторович": 3,
-      "Стоша Светлана Анатольевна": 3,
-      "Шинкаренко Валерий Викторович": 3
+      "gas:candidate-vibid:2472000752523": 3,
+      "gas:candidate-vibid:2472000749423": 6,
+      "gas:candidate-vibid:2472000749660": 16,
+      "gas:candidate-vibid:2472000751082": 13,
+      "gas:candidate-vibid:2472000752675": 1,
+      "gas:candidate-vibid:2472000749435": 22,
+      "gas:candidate-vibid:2472000753653": 181,
+      "gas:candidate-vibid:2472000711097": 12,
+      "gas:candidate-vibid:2472000749877": 3,
+      "gas:candidate-vibid:2472000753980": 3,
+      "gas:candidate-vibid:2472000752456": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000149&tvd=2472000671402&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671402&type=464",
@@ -12968,17 +12968,17 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Максим Викторович": 4,
-      "Гиндос Андрей Евгеньевич": 5,
-      "Куликова Галина Васильевна": 11,
-      "Майоров Владимир Михайлович": 2,
-      "Морозенок Елена Олеговна": 2,
-      "Ожерельев Владимир Борисович": 20,
-      "Петров Сергей Валериевич": 75,
-      "Пониматкин Алексей Владимирович": 5,
-      "Расторгуев Александр Викторович": 7,
-      "Стоша Светлана Анатольевна": 3,
-      "Шинкаренко Валерий Викторович": 2
+      "gas:candidate-vibid:2472000752523": 4,
+      "gas:candidate-vibid:2472000749423": 5,
+      "gas:candidate-vibid:2472000749660": 11,
+      "gas:candidate-vibid:2472000751082": 2,
+      "gas:candidate-vibid:2472000752675": 2,
+      "gas:candidate-vibid:2472000749435": 20,
+      "gas:candidate-vibid:2472000753653": 75,
+      "gas:candidate-vibid:2472000711097": 5,
+      "gas:candidate-vibid:2472000749877": 7,
+      "gas:candidate-vibid:2472000753980": 3,
+      "gas:candidate-vibid:2472000752456": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000149&tvd=2472000671402&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671402&type=464",
@@ -13029,17 +13029,17 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Максим Викторович": 4,
-      "Гиндос Андрей Евгеньевич": 3,
-      "Куликова Галина Васильевна": 6,
-      "Майоров Владимир Михайлович": 3,
-      "Морозенок Елена Олеговна": 4,
-      "Ожерельев Владимир Борисович": 8,
-      "Петров Сергей Валериевич": 36,
-      "Пониматкин Алексей Владимирович": 1,
-      "Расторгуев Александр Викторович": 1,
-      "Стоша Светлана Анатольевна": 0,
-      "Шинкаренко Валерий Викторович": 1
+      "gas:candidate-vibid:2472000752523": 4,
+      "gas:candidate-vibid:2472000749423": 3,
+      "gas:candidate-vibid:2472000749660": 6,
+      "gas:candidate-vibid:2472000751082": 3,
+      "gas:candidate-vibid:2472000752675": 4,
+      "gas:candidate-vibid:2472000749435": 8,
+      "gas:candidate-vibid:2472000753653": 36,
+      "gas:candidate-vibid:2472000711097": 1,
+      "gas:candidate-vibid:2472000749877": 1,
+      "gas:candidate-vibid:2472000753980": 0,
+      "gas:candidate-vibid:2472000752456": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000149&tvd=2472000671402&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671402&type=464",
@@ -13090,17 +13090,17 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Максим Викторович": 1,
-      "Гиндос Андрей Евгеньевич": 3,
-      "Куликова Галина Васильевна": 7,
-      "Майоров Владимир Михайлович": 2,
-      "Морозенок Елена Олеговна": 1,
-      "Ожерельев Владимир Борисович": 3,
-      "Петров Сергей Валериевич": 39,
-      "Пониматкин Алексей Владимирович": 9,
-      "Расторгуев Александр Викторович": 2,
-      "Стоша Светлана Анатольевна": 3,
-      "Шинкаренко Валерий Викторович": 2
+      "gas:candidate-vibid:2472000752523": 1,
+      "gas:candidate-vibid:2472000749423": 3,
+      "gas:candidate-vibid:2472000749660": 7,
+      "gas:candidate-vibid:2472000751082": 2,
+      "gas:candidate-vibid:2472000752675": 1,
+      "gas:candidate-vibid:2472000749435": 3,
+      "gas:candidate-vibid:2472000753653": 39,
+      "gas:candidate-vibid:2472000711097": 9,
+      "gas:candidate-vibid:2472000749877": 2,
+      "gas:candidate-vibid:2472000753980": 3,
+      "gas:candidate-vibid:2472000752456": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000149&tvd=2472000671402&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671402&type=464",
@@ -13151,17 +13151,17 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Максим Викторович": 36,
-      "Гиндос Андрей Евгеньевич": 40,
-      "Куликова Галина Васильевна": 98,
-      "Майоров Владимир Михайлович": 10,
-      "Морозенок Елена Олеговна": 30,
-      "Ожерельев Владимир Борисович": 72,
-      "Петров Сергей Валериевич": 443,
-      "Пониматкин Алексей Владимирович": 73,
-      "Расторгуев Александр Викторович": 22,
-      "Стоша Светлана Анатольевна": 10,
-      "Шинкаренко Валерий Викторович": 17
+      "gas:candidate-vibid:2472000752523": 36,
+      "gas:candidate-vibid:2472000749423": 40,
+      "gas:candidate-vibid:2472000749660": 98,
+      "gas:candidate-vibid:2472000751082": 10,
+      "gas:candidate-vibid:2472000752675": 30,
+      "gas:candidate-vibid:2472000749435": 72,
+      "gas:candidate-vibid:2472000753653": 443,
+      "gas:candidate-vibid:2472000711097": 73,
+      "gas:candidate-vibid:2472000749877": 22,
+      "gas:candidate-vibid:2472000753980": 10,
+      "gas:candidate-vibid:2472000752456": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000149&tvd=2472000671402&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671402&type=464",
@@ -13212,17 +13212,17 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Максим Викторович": 13,
-      "Гиндос Андрей Евгеньевич": 6,
-      "Куликова Галина Васильевна": 23,
-      "Майоров Владимир Михайлович": 5,
-      "Морозенок Елена Олеговна": 5,
-      "Ожерельев Владимир Борисович": 17,
-      "Петров Сергей Валериевич": 83,
-      "Пониматкин Алексей Владимирович": 20,
-      "Расторгуев Александр Викторович": 4,
-      "Стоша Светлана Анатольевна": 6,
-      "Шинкаренко Валерий Викторович": 5
+      "gas:candidate-vibid:2472000752523": 13,
+      "gas:candidate-vibid:2472000749423": 6,
+      "gas:candidate-vibid:2472000749660": 23,
+      "gas:candidate-vibid:2472000751082": 5,
+      "gas:candidate-vibid:2472000752675": 5,
+      "gas:candidate-vibid:2472000749435": 17,
+      "gas:candidate-vibid:2472000753653": 83,
+      "gas:candidate-vibid:2472000711097": 20,
+      "gas:candidate-vibid:2472000749877": 4,
+      "gas:candidate-vibid:2472000753980": 6,
+      "gas:candidate-vibid:2472000752456": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000149&tvd=2472000671402&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671402&type=464",
@@ -13273,17 +13273,17 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Максим Викторович": 30,
-      "Гиндос Андрей Евгеньевич": 38,
-      "Куликова Галина Васильевна": 97,
-      "Майоров Владимир Михайлович": 15,
-      "Морозенок Елена Олеговна": 13,
-      "Ожерельев Владимир Борисович": 68,
-      "Петров Сергей Валериевич": 430,
-      "Пониматкин Алексей Владимирович": 66,
-      "Расторгуев Александр Викторович": 31,
-      "Стоша Светлана Анатольевна": 15,
-      "Шинкаренко Валерий Викторович": 28
+      "gas:candidate-vibid:2472000752523": 30,
+      "gas:candidate-vibid:2472000749423": 38,
+      "gas:candidate-vibid:2472000749660": 97,
+      "gas:candidate-vibid:2472000751082": 15,
+      "gas:candidate-vibid:2472000752675": 13,
+      "gas:candidate-vibid:2472000749435": 68,
+      "gas:candidate-vibid:2472000753653": 430,
+      "gas:candidate-vibid:2472000711097": 66,
+      "gas:candidate-vibid:2472000749877": 31,
+      "gas:candidate-vibid:2472000753980": 15,
+      "gas:candidate-vibid:2472000752456": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000149&tvd=2472000671402&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671402&type=464",
@@ -13334,17 +13334,17 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Максим Викторович": 46,
-      "Гиндос Андрей Евгеньевич": 57,
-      "Куликова Галина Васильевна": 97,
-      "Майоров Владимир Михайлович": 23,
-      "Морозенок Елена Олеговна": 31,
-      "Ожерельев Владимир Борисович": 96,
-      "Петров Сергей Валериевич": 626,
-      "Пониматкин Алексей Владимирович": 93,
-      "Расторгуев Александр Викторович": 36,
-      "Стоша Светлана Анатольевна": 34,
-      "Шинкаренко Валерий Викторович": 35
+      "gas:candidate-vibid:2472000752523": 46,
+      "gas:candidate-vibid:2472000749423": 57,
+      "gas:candidate-vibid:2472000749660": 97,
+      "gas:candidate-vibid:2472000751082": 23,
+      "gas:candidate-vibid:2472000752675": 31,
+      "gas:candidate-vibid:2472000749435": 96,
+      "gas:candidate-vibid:2472000753653": 626,
+      "gas:candidate-vibid:2472000711097": 93,
+      "gas:candidate-vibid:2472000749877": 36,
+      "gas:candidate-vibid:2472000753980": 34,
+      "gas:candidate-vibid:2472000752456": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000149&tvd=2472000671402&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671402&type=464",
@@ -13395,17 +13395,17 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Максим Викторович": 33,
-      "Гиндос Андрей Евгеньевич": 44,
-      "Куликова Галина Васильевна": 102,
-      "Майоров Владимир Михайлович": 12,
-      "Морозенок Елена Олеговна": 23,
-      "Ожерельев Владимир Борисович": 58,
-      "Петров Сергей Валериевич": 415,
-      "Пониматкин Алексей Владимирович": 63,
-      "Расторгуев Александр Викторович": 21,
-      "Стоша Светлана Анатольевна": 20,
-      "Шинкаренко Валерий Викторович": 23
+      "gas:candidate-vibid:2472000752523": 33,
+      "gas:candidate-vibid:2472000749423": 44,
+      "gas:candidate-vibid:2472000749660": 102,
+      "gas:candidate-vibid:2472000751082": 12,
+      "gas:candidate-vibid:2472000752675": 23,
+      "gas:candidate-vibid:2472000749435": 58,
+      "gas:candidate-vibid:2472000753653": 415,
+      "gas:candidate-vibid:2472000711097": 63,
+      "gas:candidate-vibid:2472000749877": 21,
+      "gas:candidate-vibid:2472000753980": 20,
+      "gas:candidate-vibid:2472000752456": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000149&tvd=2472000671402&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671402&type=464",
@@ -13456,17 +13456,17 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Максим Викторович": 34,
-      "Гиндос Андрей Евгеньевич": 36,
-      "Куликова Галина Васильевна": 97,
-      "Майоров Владимир Михайлович": 18,
-      "Морозенок Елена Олеговна": 23,
-      "Ожерельев Владимир Борисович": 56,
-      "Петров Сергей Валериевич": 443,
-      "Пониматкин Алексей Владимирович": 41,
-      "Расторгуев Александр Викторович": 17,
-      "Стоша Светлана Анатольевна": 10,
-      "Шинкаренко Валерий Викторович": 17
+      "gas:candidate-vibid:2472000752523": 34,
+      "gas:candidate-vibid:2472000749423": 36,
+      "gas:candidate-vibid:2472000749660": 97,
+      "gas:candidate-vibid:2472000751082": 18,
+      "gas:candidate-vibid:2472000752675": 23,
+      "gas:candidate-vibid:2472000749435": 56,
+      "gas:candidate-vibid:2472000753653": 443,
+      "gas:candidate-vibid:2472000711097": 41,
+      "gas:candidate-vibid:2472000749877": 17,
+      "gas:candidate-vibid:2472000753980": 10,
+      "gas:candidate-vibid:2472000752456": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000149&tvd=2472000671402&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671402&type=464",
@@ -13517,17 +13517,17 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Максим Викторович": 27,
-      "Гиндос Андрей Евгеньевич": 19,
-      "Куликова Галина Васильевна": 69,
-      "Майоров Владимир Михайлович": 7,
-      "Морозенок Елена Олеговна": 21,
-      "Ожерельев Владимир Борисович": 29,
-      "Петров Сергей Валериевич": 262,
-      "Пониматкин Алексей Владимирович": 37,
-      "Расторгуев Александр Викторович": 12,
-      "Стоша Светлана Анатольевна": 9,
-      "Шинкаренко Валерий Викторович": 17
+      "gas:candidate-vibid:2472000752523": 27,
+      "gas:candidate-vibid:2472000749423": 19,
+      "gas:candidate-vibid:2472000749660": 69,
+      "gas:candidate-vibid:2472000751082": 7,
+      "gas:candidate-vibid:2472000752675": 21,
+      "gas:candidate-vibid:2472000749435": 29,
+      "gas:candidate-vibid:2472000753653": 262,
+      "gas:candidate-vibid:2472000711097": 37,
+      "gas:candidate-vibid:2472000749877": 12,
+      "gas:candidate-vibid:2472000753980": 9,
+      "gas:candidate-vibid:2472000752456": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000149&tvd=2472000671402&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671402&type=464",
@@ -13578,17 +13578,17 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Максим Викторович": 44,
-      "Гиндос Андрей Евгеньевич": 51,
-      "Куликова Галина Васильевна": 85,
-      "Майоров Владимир Михайлович": 12,
-      "Морозенок Елена Олеговна": 26,
-      "Ожерельев Владимир Борисович": 73,
-      "Петров Сергей Валериевич": 268,
-      "Пониматкин Алексей Владимирович": 81,
-      "Расторгуев Александр Викторович": 23,
-      "Стоша Светлана Анатольевна": 31,
-      "Шинкаренко Валерий Викторович": 20
+      "gas:candidate-vibid:2472000752523": 44,
+      "gas:candidate-vibid:2472000749423": 51,
+      "gas:candidate-vibid:2472000749660": 85,
+      "gas:candidate-vibid:2472000751082": 12,
+      "gas:candidate-vibid:2472000752675": 26,
+      "gas:candidate-vibid:2472000749435": 73,
+      "gas:candidate-vibid:2472000753653": 268,
+      "gas:candidate-vibid:2472000711097": 81,
+      "gas:candidate-vibid:2472000749877": 23,
+      "gas:candidate-vibid:2472000753980": 31,
+      "gas:candidate-vibid:2472000752456": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000149&tvd=2472000671402&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671402&type=464",
@@ -13639,17 +13639,17 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Максим Викторович": 26,
-      "Гиндос Андрей Евгеньевич": 29,
-      "Куликова Галина Васильевна": 65,
-      "Майоров Владимир Михайлович": 16,
-      "Морозенок Елена Олеговна": 14,
-      "Ожерельев Владимир Борисович": 30,
-      "Петров Сергей Валериевич": 478,
-      "Пониматкин Алексей Владимирович": 34,
-      "Расторгуев Александр Викторович": 15,
-      "Стоша Светлана Анатольевна": 21,
-      "Шинкаренко Валерий Викторович": 18
+      "gas:candidate-vibid:2472000752523": 26,
+      "gas:candidate-vibid:2472000749423": 29,
+      "gas:candidate-vibid:2472000749660": 65,
+      "gas:candidate-vibid:2472000751082": 16,
+      "gas:candidate-vibid:2472000752675": 14,
+      "gas:candidate-vibid:2472000749435": 30,
+      "gas:candidate-vibid:2472000753653": 478,
+      "gas:candidate-vibid:2472000711097": 34,
+      "gas:candidate-vibid:2472000749877": 15,
+      "gas:candidate-vibid:2472000753980": 21,
+      "gas:candidate-vibid:2472000752456": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000149&tvd=2472000671402&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671402&type=464",
@@ -13700,17 +13700,17 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Максим Викторович": 40,
-      "Гиндос Андрей Евгеньевич": 27,
-      "Куликова Галина Васильевна": 112,
-      "Майоров Владимир Михайлович": 15,
-      "Морозенок Елена Олеговна": 25,
-      "Ожерельев Владимир Борисович": 74,
-      "Петров Сергей Валериевич": 335,
-      "Пониматкин Алексей Владимирович": 49,
-      "Расторгуев Александр Викторович": 14,
-      "Стоша Светлана Анатольевна": 24,
-      "Шинкаренко Валерий Викторович": 18
+      "gas:candidate-vibid:2472000752523": 40,
+      "gas:candidate-vibid:2472000749423": 27,
+      "gas:candidate-vibid:2472000749660": 112,
+      "gas:candidate-vibid:2472000751082": 15,
+      "gas:candidate-vibid:2472000752675": 25,
+      "gas:candidate-vibid:2472000749435": 74,
+      "gas:candidate-vibid:2472000753653": 335,
+      "gas:candidate-vibid:2472000711097": 49,
+      "gas:candidate-vibid:2472000749877": 14,
+      "gas:candidate-vibid:2472000753980": 24,
+      "gas:candidate-vibid:2472000752456": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000149&tvd=2472000671402&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671402&type=464",
@@ -13761,17 +13761,17 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Максим Викторович": 24,
-      "Гиндос Андрей Евгеньевич": 18,
-      "Куликова Галина Васильевна": 54,
-      "Майоров Владимир Михайлович": 3,
-      "Морозенок Елена Олеговна": 16,
-      "Ожерельев Владимир Борисович": 35,
-      "Петров Сергей Валериевич": 194,
-      "Пониматкин Алексей Владимирович": 36,
-      "Расторгуев Александр Викторович": 8,
-      "Стоша Светлана Анатольевна": 11,
-      "Шинкаренко Валерий Викторович": 10
+      "gas:candidate-vibid:2472000752523": 24,
+      "gas:candidate-vibid:2472000749423": 18,
+      "gas:candidate-vibid:2472000749660": 54,
+      "gas:candidate-vibid:2472000751082": 3,
+      "gas:candidate-vibid:2472000752675": 16,
+      "gas:candidate-vibid:2472000749435": 35,
+      "gas:candidate-vibid:2472000753653": 194,
+      "gas:candidate-vibid:2472000711097": 36,
+      "gas:candidate-vibid:2472000749877": 8,
+      "gas:candidate-vibid:2472000753980": 11,
+      "gas:candidate-vibid:2472000752456": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000149&tvd=2472000671402&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671402&type=464",
@@ -13822,17 +13822,17 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Максим Викторович": 14,
-      "Гиндос Андрей Евгеньевич": 19,
-      "Куликова Галина Васильевна": 25,
-      "Майоров Владимир Михайлович": 5,
-      "Морозенок Елена Олеговна": 14,
-      "Ожерельев Владимир Борисович": 22,
-      "Петров Сергей Валериевич": 127,
-      "Пониматкин Алексей Владимирович": 24,
-      "Расторгуев Александр Викторович": 7,
-      "Стоша Светлана Анатольевна": 6,
-      "Шинкаренко Валерий Викторович": 4
+      "gas:candidate-vibid:2472000752523": 14,
+      "gas:candidate-vibid:2472000749423": 19,
+      "gas:candidate-vibid:2472000749660": 25,
+      "gas:candidate-vibid:2472000751082": 5,
+      "gas:candidate-vibid:2472000752675": 14,
+      "gas:candidate-vibid:2472000749435": 22,
+      "gas:candidate-vibid:2472000753653": 127,
+      "gas:candidate-vibid:2472000711097": 24,
+      "gas:candidate-vibid:2472000749877": 7,
+      "gas:candidate-vibid:2472000753980": 6,
+      "gas:candidate-vibid:2472000752456": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000149&tvd=2472000671402&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671402&type=464",
@@ -13883,17 +13883,17 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Максим Викторович": 10,
-      "Гиндос Андрей Евгеньевич": 10,
-      "Куликова Галина Васильевна": 26,
-      "Майоров Владимир Михайлович": 7,
-      "Морозенок Елена Олеговна": 7,
-      "Ожерельев Владимир Борисович": 15,
-      "Петров Сергей Валериевич": 120,
-      "Пониматкин Алексей Владимирович": 21,
-      "Расторгуев Александр Викторович": 5,
-      "Стоша Светлана Анатольевна": 7,
-      "Шинкаренко Валерий Викторович": 3
+      "gas:candidate-vibid:2472000752523": 10,
+      "gas:candidate-vibid:2472000749423": 10,
+      "gas:candidate-vibid:2472000749660": 26,
+      "gas:candidate-vibid:2472000751082": 7,
+      "gas:candidate-vibid:2472000752675": 7,
+      "gas:candidate-vibid:2472000749435": 15,
+      "gas:candidate-vibid:2472000753653": 120,
+      "gas:candidate-vibid:2472000711097": 21,
+      "gas:candidate-vibid:2472000749877": 5,
+      "gas:candidate-vibid:2472000753980": 7,
+      "gas:candidate-vibid:2472000752456": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000149&tvd=2472000671402&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671402&type=464",
@@ -13944,17 +13944,17 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Максим Викторович": 9,
-      "Гиндос Андрей Евгеньевич": 18,
-      "Куликова Галина Васильевна": 35,
-      "Майоров Владимир Михайлович": 7,
-      "Морозенок Елена Олеговна": 3,
-      "Ожерельев Владимир Борисович": 33,
-      "Петров Сергей Валериевич": 135,
-      "Пониматкин Алексей Владимирович": 26,
-      "Расторгуев Александр Викторович": 16,
-      "Стоша Светлана Анатольевна": 11,
-      "Шинкаренко Валерий Викторович": 8
+      "gas:candidate-vibid:2472000752523": 9,
+      "gas:candidate-vibid:2472000749423": 18,
+      "gas:candidate-vibid:2472000749660": 35,
+      "gas:candidate-vibid:2472000751082": 7,
+      "gas:candidate-vibid:2472000752675": 3,
+      "gas:candidate-vibid:2472000749435": 33,
+      "gas:candidate-vibid:2472000753653": 135,
+      "gas:candidate-vibid:2472000711097": 26,
+      "gas:candidate-vibid:2472000749877": 16,
+      "gas:candidate-vibid:2472000753980": 11,
+      "gas:candidate-vibid:2472000752456": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000149&tvd=2472000671402&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671402&type=464",
@@ -14005,17 +14005,17 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Максим Викторович": 22,
-      "Гиндос Андрей Евгеньевич": 30,
-      "Куликова Галина Васильевна": 35,
-      "Майоров Владимир Михайлович": 9,
-      "Морозенок Елена Олеговна": 12,
-      "Ожерельев Владимир Борисович": 32,
-      "Петров Сергей Валериевич": 192,
-      "Пониматкин Алексей Владимирович": 34,
-      "Расторгуев Александр Викторович": 10,
-      "Стоша Светлана Анатольевна": 13,
-      "Шинкаренко Валерий Викторович": 12
+      "gas:candidate-vibid:2472000752523": 22,
+      "gas:candidate-vibid:2472000749423": 30,
+      "gas:candidate-vibid:2472000749660": 35,
+      "gas:candidate-vibid:2472000751082": 9,
+      "gas:candidate-vibid:2472000752675": 12,
+      "gas:candidate-vibid:2472000749435": 32,
+      "gas:candidate-vibid:2472000753653": 192,
+      "gas:candidate-vibid:2472000711097": 34,
+      "gas:candidate-vibid:2472000749877": 10,
+      "gas:candidate-vibid:2472000753980": 13,
+      "gas:candidate-vibid:2472000752456": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000149&tvd=2472000671402&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671402&type=464",
@@ -14066,17 +14066,17 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Максим Викторович": 8,
-      "Гиндос Андрей Евгеньевич": 20,
-      "Куликова Галина Васильевна": 30,
-      "Майоров Владимир Михайлович": 7,
-      "Морозенок Елена Олеговна": 8,
-      "Ожерельев Владимир Борисович": 26,
-      "Петров Сергей Валериевич": 170,
-      "Пониматкин Алексей Владимирович": 21,
-      "Расторгуев Александр Викторович": 8,
-      "Стоша Светлана Анатольевна": 8,
-      "Шинкаренко Валерий Викторович": 10
+      "gas:candidate-vibid:2472000752523": 8,
+      "gas:candidate-vibid:2472000749423": 20,
+      "gas:candidate-vibid:2472000749660": 30,
+      "gas:candidate-vibid:2472000751082": 7,
+      "gas:candidate-vibid:2472000752675": 8,
+      "gas:candidate-vibid:2472000749435": 26,
+      "gas:candidate-vibid:2472000753653": 170,
+      "gas:candidate-vibid:2472000711097": 21,
+      "gas:candidate-vibid:2472000749877": 8,
+      "gas:candidate-vibid:2472000753980": 8,
+      "gas:candidate-vibid:2472000752456": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000149&tvd=2472000671402&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671402&type=464",
@@ -14127,17 +14127,17 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Максим Викторович": 16,
-      "Гиндос Андрей Евгеньевич": 39,
-      "Куликова Галина Васильевна": 44,
-      "Майоров Владимир Михайлович": 5,
-      "Морозенок Елена Олеговна": 12,
-      "Ожерельев Владимир Борисович": 36,
-      "Петров Сергей Валериевич": 222,
-      "Пониматкин Алексей Владимирович": 26,
-      "Расторгуев Александр Викторович": 9,
-      "Стоша Светлана Анатольевна": 10,
-      "Шинкаренко Валерий Викторович": 16
+      "gas:candidate-vibid:2472000752523": 16,
+      "gas:candidate-vibid:2472000749423": 39,
+      "gas:candidate-vibid:2472000749660": 44,
+      "gas:candidate-vibid:2472000751082": 5,
+      "gas:candidate-vibid:2472000752675": 12,
+      "gas:candidate-vibid:2472000749435": 36,
+      "gas:candidate-vibid:2472000753653": 222,
+      "gas:candidate-vibid:2472000711097": 26,
+      "gas:candidate-vibid:2472000749877": 9,
+      "gas:candidate-vibid:2472000753980": 10,
+      "gas:candidate-vibid:2472000752456": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000149&tvd=2472000671402&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671402&type=464",
@@ -14188,17 +14188,17 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Максим Викторович": 11,
-      "Гиндос Андрей Евгеньевич": 26,
-      "Куликова Галина Васильевна": 38,
-      "Майоров Владимир Михайлович": 5,
-      "Морозенок Елена Олеговна": 10,
-      "Ожерельев Владимир Борисович": 32,
-      "Петров Сергей Валериевич": 190,
-      "Пониматкин Алексей Владимирович": 24,
-      "Расторгуев Александр Викторович": 14,
-      "Стоша Светлана Анатольевна": 11,
-      "Шинкаренко Валерий Викторович": 18
+      "gas:candidate-vibid:2472000752523": 11,
+      "gas:candidate-vibid:2472000749423": 26,
+      "gas:candidate-vibid:2472000749660": 38,
+      "gas:candidate-vibid:2472000751082": 5,
+      "gas:candidate-vibid:2472000752675": 10,
+      "gas:candidate-vibid:2472000749435": 32,
+      "gas:candidate-vibid:2472000753653": 190,
+      "gas:candidate-vibid:2472000711097": 24,
+      "gas:candidate-vibid:2472000749877": 14,
+      "gas:candidate-vibid:2472000753980": 11,
+      "gas:candidate-vibid:2472000752456": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000149&tvd=2472000671402&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671402&type=464",
@@ -14249,17 +14249,17 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Максим Викторович": 18,
-      "Гиндос Андрей Евгеньевич": 50,
-      "Куликова Галина Васильевна": 129,
-      "Майоров Владимир Михайлович": 12,
-      "Морозенок Елена Олеговна": 14,
-      "Ожерельев Владимир Борисович": 46,
-      "Петров Сергей Валериевич": 241,
-      "Пониматкин Алексей Владимирович": 44,
-      "Расторгуев Александр Викторович": 16,
-      "Стоша Светлана Анатольевна": 7,
-      "Шинкаренко Валерий Викторович": 19
+      "gas:candidate-vibid:2472000752523": 18,
+      "gas:candidate-vibid:2472000749423": 50,
+      "gas:candidate-vibid:2472000749660": 129,
+      "gas:candidate-vibid:2472000751082": 12,
+      "gas:candidate-vibid:2472000752675": 14,
+      "gas:candidate-vibid:2472000749435": 46,
+      "gas:candidate-vibid:2472000753653": 241,
+      "gas:candidate-vibid:2472000711097": 44,
+      "gas:candidate-vibid:2472000749877": 16,
+      "gas:candidate-vibid:2472000753980": 7,
+      "gas:candidate-vibid:2472000752456": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000149&tvd=2472000671402&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671402&type=464",
@@ -14310,17 +14310,17 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Максим Викторович": 21,
-      "Гиндос Андрей Евгеньевич": 51,
-      "Куликова Галина Васильевна": 88,
-      "Майоров Владимир Михайлович": 7,
-      "Морозенок Елена Олеговна": 22,
-      "Ожерельев Владимир Борисович": 45,
-      "Петров Сергей Валериевич": 207,
-      "Пониматкин Алексей Владимирович": 54,
-      "Расторгуев Александр Викторович": 15,
-      "Стоша Светлана Анатольевна": 15,
-      "Шинкаренко Валерий Викторович": 9
+      "gas:candidate-vibid:2472000752523": 21,
+      "gas:candidate-vibid:2472000749423": 51,
+      "gas:candidate-vibid:2472000749660": 88,
+      "gas:candidate-vibid:2472000751082": 7,
+      "gas:candidate-vibid:2472000752675": 22,
+      "gas:candidate-vibid:2472000749435": 45,
+      "gas:candidate-vibid:2472000753653": 207,
+      "gas:candidate-vibid:2472000711097": 54,
+      "gas:candidate-vibid:2472000749877": 15,
+      "gas:candidate-vibid:2472000753980": 15,
+      "gas:candidate-vibid:2472000752456": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000149&tvd=2472000671402&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671402&type=464",
@@ -14371,17 +14371,17 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Максим Викторович": 6,
-      "Гиндос Андрей Евгеньевич": 55,
-      "Куликова Галина Васильевна": 77,
-      "Майоров Владимир Михайлович": 14,
-      "Морозенок Елена Олеговна": 12,
-      "Ожерельев Владимир Борисович": 44,
-      "Петров Сергей Валериевич": 209,
-      "Пониматкин Алексей Владимирович": 40,
-      "Расторгуев Александр Викторович": 13,
-      "Стоша Светлана Анатольевна": 7,
-      "Шинкаренко Валерий Викторович": 11
+      "gas:candidate-vibid:2472000752523": 6,
+      "gas:candidate-vibid:2472000749423": 55,
+      "gas:candidate-vibid:2472000749660": 77,
+      "gas:candidate-vibid:2472000751082": 14,
+      "gas:candidate-vibid:2472000752675": 12,
+      "gas:candidate-vibid:2472000749435": 44,
+      "gas:candidate-vibid:2472000753653": 209,
+      "gas:candidate-vibid:2472000711097": 40,
+      "gas:candidate-vibid:2472000749877": 13,
+      "gas:candidate-vibid:2472000753980": 7,
+      "gas:candidate-vibid:2472000752456": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000149&tvd=2472000671402&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671402&type=464",
@@ -14432,17 +14432,17 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Максим Викторович": 16,
-      "Гиндос Андрей Евгеньевич": 96,
-      "Куликова Галина Васильевна": 155,
-      "Майоров Владимир Михайлович": 11,
-      "Морозенок Елена Олеговна": 24,
-      "Ожерельев Владимир Борисович": 82,
-      "Петров Сергей Валериевич": 338,
-      "Пониматкин Алексей Владимирович": 50,
-      "Расторгуев Александр Викторович": 21,
-      "Стоша Светлана Анатольевна": 19,
-      "Шинкаренко Валерий Викторович": 20
+      "gas:candidate-vibid:2472000752523": 16,
+      "gas:candidate-vibid:2472000749423": 96,
+      "gas:candidate-vibid:2472000749660": 155,
+      "gas:candidate-vibid:2472000751082": 11,
+      "gas:candidate-vibid:2472000752675": 24,
+      "gas:candidate-vibid:2472000749435": 82,
+      "gas:candidate-vibid:2472000753653": 338,
+      "gas:candidate-vibid:2472000711097": 50,
+      "gas:candidate-vibid:2472000749877": 21,
+      "gas:candidate-vibid:2472000753980": 19,
+      "gas:candidate-vibid:2472000752456": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000149&tvd=2472000671402&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671402&type=464",
@@ -14493,17 +14493,17 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Максим Викторович": 28,
-      "Гиндос Андрей Евгеньевич": 82,
-      "Куликова Галина Васильевна": 154,
-      "Майоров Владимир Михайлович": 10,
-      "Морозенок Елена Олеговна": 15,
-      "Ожерельев Владимир Борисович": 62,
-      "Петров Сергей Валериевич": 300,
-      "Пониматкин Алексей Владимирович": 60,
-      "Расторгуев Александр Викторович": 13,
-      "Стоша Светлана Анатольевна": 17,
-      "Шинкаренко Валерий Викторович": 18
+      "gas:candidate-vibid:2472000752523": 28,
+      "gas:candidate-vibid:2472000749423": 82,
+      "gas:candidate-vibid:2472000749660": 154,
+      "gas:candidate-vibid:2472000751082": 10,
+      "gas:candidate-vibid:2472000752675": 15,
+      "gas:candidate-vibid:2472000749435": 62,
+      "gas:candidate-vibid:2472000753653": 300,
+      "gas:candidate-vibid:2472000711097": 60,
+      "gas:candidate-vibid:2472000749877": 13,
+      "gas:candidate-vibid:2472000753980": 17,
+      "gas:candidate-vibid:2472000752456": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000149&tvd=2472000671402&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671402&type=464",
@@ -14554,17 +14554,17 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Максим Викторович": 17,
-      "Гиндос Андрей Евгеньевич": 64,
-      "Куликова Галина Васильевна": 123,
-      "Майоров Владимир Михайлович": 13,
-      "Морозенок Елена Олеговна": 12,
-      "Ожерельев Владимир Борисович": 45,
-      "Петров Сергей Валериевич": 239,
-      "Пониматкин Алексей Владимирович": 41,
-      "Расторгуев Александр Викторович": 12,
-      "Стоша Светлана Анатольевна": 12,
-      "Шинкаренко Валерий Викторович": 18
+      "gas:candidate-vibid:2472000752523": 17,
+      "gas:candidate-vibid:2472000749423": 64,
+      "gas:candidate-vibid:2472000749660": 123,
+      "gas:candidate-vibid:2472000751082": 13,
+      "gas:candidate-vibid:2472000752675": 12,
+      "gas:candidate-vibid:2472000749435": 45,
+      "gas:candidate-vibid:2472000753653": 239,
+      "gas:candidate-vibid:2472000711097": 41,
+      "gas:candidate-vibid:2472000749877": 12,
+      "gas:candidate-vibid:2472000753980": 12,
+      "gas:candidate-vibid:2472000752456": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000149&tvd=2472000671402&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671402&type=464",
@@ -14615,17 +14615,17 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Максим Викторович": 29,
-      "Гиндос Андрей Евгеньевич": 117,
-      "Куликова Галина Васильевна": 172,
-      "Майоров Владимир Михайлович": 16,
-      "Морозенок Елена Олеговна": 26,
-      "Ожерельев Владимир Борисович": 78,
-      "Петров Сергей Валериевич": 348,
-      "Пониматкин Алексей Владимирович": 56,
-      "Расторгуев Александр Викторович": 24,
-      "Стоша Светлана Анатольевна": 22,
-      "Шинкаренко Валерий Викторович": 21
+      "gas:candidate-vibid:2472000752523": 29,
+      "gas:candidate-vibid:2472000749423": 117,
+      "gas:candidate-vibid:2472000749660": 172,
+      "gas:candidate-vibid:2472000751082": 16,
+      "gas:candidate-vibid:2472000752675": 26,
+      "gas:candidate-vibid:2472000749435": 78,
+      "gas:candidate-vibid:2472000753653": 348,
+      "gas:candidate-vibid:2472000711097": 56,
+      "gas:candidate-vibid:2472000749877": 24,
+      "gas:candidate-vibid:2472000753980": 22,
+      "gas:candidate-vibid:2472000752456": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000149&tvd=2472000671402&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671402&type=464",
@@ -14676,17 +14676,17 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Максим Викторович": 5,
-      "Гиндос Андрей Евгеньевич": 21,
-      "Куликова Галина Васильевна": 23,
-      "Майоров Владимир Михайлович": 7,
-      "Морозенок Елена Олеговна": 5,
-      "Ожерельев Владимир Борисович": 22,
-      "Петров Сергей Валериевич": 96,
-      "Пониматкин Алексей Владимирович": 18,
-      "Расторгуев Александр Викторович": 7,
-      "Стоша Светлана Анатольевна": 7,
-      "Шинкаренко Валерий Викторович": 4
+      "gas:candidate-vibid:2472000752523": 5,
+      "gas:candidate-vibid:2472000749423": 21,
+      "gas:candidate-vibid:2472000749660": 23,
+      "gas:candidate-vibid:2472000751082": 7,
+      "gas:candidate-vibid:2472000752675": 5,
+      "gas:candidate-vibid:2472000749435": 22,
+      "gas:candidate-vibid:2472000753653": 96,
+      "gas:candidate-vibid:2472000711097": 18,
+      "gas:candidate-vibid:2472000749877": 7,
+      "gas:candidate-vibid:2472000753980": 7,
+      "gas:candidate-vibid:2472000752456": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000149&tvd=2472000671402&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671402&type=464",
@@ -14737,17 +14737,17 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Максим Викторович": 20,
-      "Гиндос Андрей Евгеньевич": 26,
-      "Куликова Галина Васильевна": 41,
-      "Майоров Владимир Михайлович": 23,
-      "Морозенок Елена Олеговна": 18,
-      "Ожерельев Владимир Борисович": 42,
-      "Петров Сергей Валериевич": 217,
-      "Пониматкин Алексей Владимирович": 60,
-      "Расторгуев Александр Викторович": 12,
-      "Стоша Светлана Анатольевна": 6,
-      "Шинкаренко Валерий Викторович": 14
+      "gas:candidate-vibid:2472000752523": 20,
+      "gas:candidate-vibid:2472000749423": 26,
+      "gas:candidate-vibid:2472000749660": 41,
+      "gas:candidate-vibid:2472000751082": 23,
+      "gas:candidate-vibid:2472000752675": 18,
+      "gas:candidate-vibid:2472000749435": 42,
+      "gas:candidate-vibid:2472000753653": 217,
+      "gas:candidate-vibid:2472000711097": 60,
+      "gas:candidate-vibid:2472000749877": 12,
+      "gas:candidate-vibid:2472000753980": 6,
+      "gas:candidate-vibid:2472000752456": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000149&tvd=2472000671402&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671402&type=464",
@@ -14798,17 +14798,17 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Максим Викторович": 2,
-      "Гиндос Андрей Евгеньевич": 4,
-      "Куликова Галина Васильевна": 16,
-      "Майоров Владимир Михайлович": 2,
-      "Морозенок Елена Олеговна": 2,
-      "Ожерельев Владимир Борисович": 10,
-      "Петров Сергей Валериевич": 103,
-      "Пониматкин Алексей Владимирович": 3,
-      "Расторгуев Александр Викторович": 2,
-      "Стоша Светлана Анатольевна": 0,
-      "Шинкаренко Валерий Викторович": 0
+      "gas:candidate-vibid:2472000752523": 2,
+      "gas:candidate-vibid:2472000749423": 4,
+      "gas:candidate-vibid:2472000749660": 16,
+      "gas:candidate-vibid:2472000751082": 2,
+      "gas:candidate-vibid:2472000752675": 2,
+      "gas:candidate-vibid:2472000749435": 10,
+      "gas:candidate-vibid:2472000753653": 103,
+      "gas:candidate-vibid:2472000711097": 3,
+      "gas:candidate-vibid:2472000749877": 2,
+      "gas:candidate-vibid:2472000753980": 0,
+      "gas:candidate-vibid:2472000752456": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000149&tvd=2472000671403&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671403&type=464",
@@ -14859,17 +14859,17 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Максим Викторович": 16,
-      "Гиндос Андрей Евгеньевич": 24,
-      "Куликова Галина Васильевна": 275,
-      "Майоров Владимир Михайлович": 10,
-      "Морозенок Елена Олеговна": 20,
-      "Ожерельев Владимир Борисович": 94,
-      "Петров Сергей Валериевич": 395,
-      "Пониматкин Алексей Владимирович": 64,
-      "Расторгуев Александр Викторович": 14,
-      "Стоша Светлана Анатольевна": 9,
-      "Шинкаренко Валерий Викторович": 9
+      "gas:candidate-vibid:2472000752523": 16,
+      "gas:candidate-vibid:2472000749423": 24,
+      "gas:candidate-vibid:2472000749660": 275,
+      "gas:candidate-vibid:2472000751082": 10,
+      "gas:candidate-vibid:2472000752675": 20,
+      "gas:candidate-vibid:2472000749435": 94,
+      "gas:candidate-vibid:2472000753653": 395,
+      "gas:candidate-vibid:2472000711097": 64,
+      "gas:candidate-vibid:2472000749877": 14,
+      "gas:candidate-vibid:2472000753980": 9,
+      "gas:candidate-vibid:2472000752456": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000149&tvd=2472000671403&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671403&type=464",
@@ -14920,17 +14920,17 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Максим Викторович": 28,
-      "Гиндос Андрей Евгеньевич": 20,
-      "Куликова Галина Васильевна": 278,
-      "Майоров Владимир Михайлович": 10,
-      "Морозенок Елена Олеговна": 12,
-      "Ожерельев Владимир Борисович": 89,
-      "Петров Сергей Валериевич": 551,
-      "Пониматкин Алексей Владимирович": 78,
-      "Расторгуев Александр Викторович": 11,
-      "Стоша Светлана Анатольевна": 6,
-      "Шинкаренко Валерий Викторович": 34
+      "gas:candidate-vibid:2472000752523": 28,
+      "gas:candidate-vibid:2472000749423": 20,
+      "gas:candidate-vibid:2472000749660": 278,
+      "gas:candidate-vibid:2472000751082": 10,
+      "gas:candidate-vibid:2472000752675": 12,
+      "gas:candidate-vibid:2472000749435": 89,
+      "gas:candidate-vibid:2472000753653": 551,
+      "gas:candidate-vibid:2472000711097": 78,
+      "gas:candidate-vibid:2472000749877": 11,
+      "gas:candidate-vibid:2472000753980": 6,
+      "gas:candidate-vibid:2472000752456": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000149&tvd=2472000671403&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671403&type=464",
@@ -14981,17 +14981,17 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Максим Викторович": 9,
-      "Гиндос Андрей Евгеньевич": 26,
-      "Куликова Галина Васильевна": 240,
-      "Майоров Владимир Михайлович": 3,
-      "Морозенок Елена Олеговна": 11,
-      "Ожерельев Владимир Борисович": 95,
-      "Петров Сергей Валериевич": 414,
-      "Пониматкин Алексей Владимирович": 52,
-      "Расторгуев Александр Викторович": 11,
-      "Стоша Светлана Анатольевна": 9,
-      "Шинкаренко Валерий Викторович": 17
+      "gas:candidate-vibid:2472000752523": 9,
+      "gas:candidate-vibid:2472000749423": 26,
+      "gas:candidate-vibid:2472000749660": 240,
+      "gas:candidate-vibid:2472000751082": 3,
+      "gas:candidate-vibid:2472000752675": 11,
+      "gas:candidate-vibid:2472000749435": 95,
+      "gas:candidate-vibid:2472000753653": 414,
+      "gas:candidate-vibid:2472000711097": 52,
+      "gas:candidate-vibid:2472000749877": 11,
+      "gas:candidate-vibid:2472000753980": 9,
+      "gas:candidate-vibid:2472000752456": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000149&tvd=2472000671403&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671403&type=464",
@@ -15042,17 +15042,17 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Максим Викторович": 16,
-      "Гиндос Андрей Евгеньевич": 26,
-      "Куликова Галина Васильевна": 291,
-      "Майоров Владимир Михайлович": 14,
-      "Морозенок Елена Олеговна": 7,
-      "Ожерельев Владимир Борисович": 78,
-      "Петров Сергей Валериевич": 425,
-      "Пониматкин Алексей Владимирович": 48,
-      "Расторгуев Александр Викторович": 11,
-      "Стоша Светлана Анатольевна": 12,
-      "Шинкаренко Валерий Викторович": 17
+      "gas:candidate-vibid:2472000752523": 16,
+      "gas:candidate-vibid:2472000749423": 26,
+      "gas:candidate-vibid:2472000749660": 291,
+      "gas:candidate-vibid:2472000751082": 14,
+      "gas:candidate-vibid:2472000752675": 7,
+      "gas:candidate-vibid:2472000749435": 78,
+      "gas:candidate-vibid:2472000753653": 425,
+      "gas:candidate-vibid:2472000711097": 48,
+      "gas:candidate-vibid:2472000749877": 11,
+      "gas:candidate-vibid:2472000753980": 12,
+      "gas:candidate-vibid:2472000752456": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000149&tvd=2472000671403&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671403&type=464",
@@ -15103,17 +15103,17 @@ export const duma_2016_uik_463_region_47_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Волков Максим Викторович": 19,
-      "Гиндос Андрей Евгеньевич": 17,
-      "Куликова Галина Васильевна": 275,
-      "Майоров Владимир Михайлович": 10,
-      "Морозенок Елена Олеговна": 15,
-      "Ожерельев Владимир Борисович": 104,
-      "Петров Сергей Валериевич": 500,
-      "Пониматкин Алексей Владимирович": 44,
-      "Расторгуев Александр Викторович": 8,
-      "Стоша Светлана Анатольевна": 14,
-      "Шинкаренко Валерий Викторович": 20
+      "gas:candidate-vibid:2472000752523": 19,
+      "gas:candidate-vibid:2472000749423": 17,
+      "gas:candidate-vibid:2472000749660": 275,
+      "gas:candidate-vibid:2472000751082": 10,
+      "gas:candidate-vibid:2472000752675": 15,
+      "gas:candidate-vibid:2472000749435": 104,
+      "gas:candidate-vibid:2472000753653": 500,
+      "gas:candidate-vibid:2472000711097": 44,
+      "gas:candidate-vibid:2472000749877": 8,
+      "gas:candidate-vibid:2472000753980": 14,
+      "gas:candidate-vibid:2472000752456": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/leningrad-reg?action=show&root=1000149&tvd=2472000671403&vrn=100100067795849&region=47&global=&sub_region=47&prver=0&pronetvd=null&vibid=2472000671403&type=464",

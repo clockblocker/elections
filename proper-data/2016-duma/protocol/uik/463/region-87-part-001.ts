@@ -43,11 +43,11 @@ export const duma_2016_uik_463_region_87_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутакова Юлия Сергеевна": 45,
-      "Гальцов Владимир Анатольевич": 40,
-      "Колпаков Виктор Николаевич": 12,
-      "Половодова Елена Анатольевна": 17,
-      "Рудченко Валентина Васильевна": 112
+      "gas:candidate-vibid:2872000253974": 45,
+      "gas:candidate-vibid:2872000256317": 40,
+      "gas:candidate-vibid:2872000256198": 12,
+      "gas:candidate-vibid:2872000255360": 17,
+      "gas:candidate-vibid:2872000255865": 112
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chukot?action=show&root=1000292&tvd=2872000246653&vrn=100100067795849&region=87&global=&sub_region=87&prver=0&pronetvd=null&vibid=2872000246653&type=464",
@@ -98,11 +98,11 @@ export const duma_2016_uik_463_region_87_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутакова Юлия Сергеевна": 118,
-      "Гальцов Владимир Анатольевич": 52,
-      "Колпаков Виктор Николаевич": 20,
-      "Половодова Елена Анатольевна": 34,
-      "Рудченко Валентина Васильевна": 193
+      "gas:candidate-vibid:2872000253974": 118,
+      "gas:candidate-vibid:2872000256317": 52,
+      "gas:candidate-vibid:2872000256198": 20,
+      "gas:candidate-vibid:2872000255360": 34,
+      "gas:candidate-vibid:2872000255865": 193
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chukot?action=show&root=1000292&tvd=2872000246653&vrn=100100067795849&region=87&global=&sub_region=87&prver=0&pronetvd=null&vibid=2872000246653&type=464",
@@ -153,11 +153,11 @@ export const duma_2016_uik_463_region_87_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутакова Юлия Сергеевна": 49,
-      "Гальцов Владимир Анатольевич": 26,
-      "Колпаков Виктор Николаевич": 5,
-      "Половодова Елена Анатольевна": 8,
-      "Рудченко Валентина Васильевна": 115
+      "gas:candidate-vibid:2872000253974": 49,
+      "gas:candidate-vibid:2872000256317": 26,
+      "gas:candidate-vibid:2872000256198": 5,
+      "gas:candidate-vibid:2872000255360": 8,
+      "gas:candidate-vibid:2872000255865": 115
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chukot?action=show&root=1000292&tvd=2872000246653&vrn=100100067795849&region=87&global=&sub_region=87&prver=0&pronetvd=null&vibid=2872000246653&type=464",
@@ -208,11 +208,11 @@ export const duma_2016_uik_463_region_87_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутакова Юлия Сергеевна": 54,
-      "Гальцов Владимир Анатольевич": 27,
-      "Колпаков Виктор Николаевич": 23,
-      "Половодова Елена Анатольевна": 28,
-      "Рудченко Валентина Васильевна": 161
+      "gas:candidate-vibid:2872000253974": 54,
+      "gas:candidate-vibid:2872000256317": 27,
+      "gas:candidate-vibid:2872000256198": 23,
+      "gas:candidate-vibid:2872000255360": 28,
+      "gas:candidate-vibid:2872000255865": 161
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chukot?action=show&root=1000292&tvd=2872000246653&vrn=100100067795849&region=87&global=&sub_region=87&prver=0&pronetvd=null&vibid=2872000246653&type=464",
@@ -263,11 +263,11 @@ export const duma_2016_uik_463_region_87_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутакова Юлия Сергеевна": 11,
-      "Гальцов Владимир Анатольевич": 6,
-      "Колпаков Виктор Николаевич": 4,
-      "Половодова Елена Анатольевна": 10,
-      "Рудченко Валентина Васильевна": 189
+      "gas:candidate-vibid:2872000253974": 11,
+      "gas:candidate-vibid:2872000256317": 6,
+      "gas:candidate-vibid:2872000256198": 4,
+      "gas:candidate-vibid:2872000255360": 10,
+      "gas:candidate-vibid:2872000255865": 189
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chukot?action=show&root=1000292&tvd=2872000246653&vrn=100100067795849&region=87&global=&sub_region=87&prver=0&pronetvd=null&vibid=2872000246653&type=464",
@@ -318,11 +318,11 @@ export const duma_2016_uik_463_region_87_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутакова Юлия Сергеевна": 3,
-      "Гальцов Владимир Анатольевич": 6,
-      "Колпаков Виктор Николаевич": 4,
-      "Половодова Елена Анатольевна": 0,
-      "Рудченко Валентина Васильевна": 46
+      "gas:candidate-vibid:2872000253974": 3,
+      "gas:candidate-vibid:2872000256317": 6,
+      "gas:candidate-vibid:2872000256198": 4,
+      "gas:candidate-vibid:2872000255360": 0,
+      "gas:candidate-vibid:2872000255865": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chukot?action=show&root=1000292&tvd=2872000246653&vrn=100100067795849&region=87&global=&sub_region=87&prver=0&pronetvd=null&vibid=2872000246653&type=464",
@@ -373,11 +373,11 @@ export const duma_2016_uik_463_region_87_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутакова Юлия Сергеевна": 5,
-      "Гальцов Владимир Анатольевич": 3,
-      "Колпаков Виктор Николаевич": 2,
-      "Половодова Елена Анатольевна": 2,
-      "Рудченко Валентина Васильевна": 85
+      "gas:candidate-vibid:2872000253974": 5,
+      "gas:candidate-vibid:2872000256317": 3,
+      "gas:candidate-vibid:2872000256198": 2,
+      "gas:candidate-vibid:2872000255360": 2,
+      "gas:candidate-vibid:2872000255865": 85
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chukot?action=show&root=1000292&tvd=2872000246653&vrn=100100067795849&region=87&global=&sub_region=87&prver=0&pronetvd=null&vibid=2872000246653&type=464",
@@ -428,11 +428,11 @@ export const duma_2016_uik_463_region_87_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутакова Юлия Сергеевна": 17,
-      "Гальцов Владимир Анатольевич": 5,
-      "Колпаков Виктор Николаевич": 3,
-      "Половодова Елена Анатольевна": 3,
-      "Рудченко Валентина Васильевна": 268
+      "gas:candidate-vibid:2872000253974": 17,
+      "gas:candidate-vibid:2872000256317": 5,
+      "gas:candidate-vibid:2872000256198": 3,
+      "gas:candidate-vibid:2872000255360": 3,
+      "gas:candidate-vibid:2872000255865": 268
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chukot?action=show&root=1000292&tvd=2872000246653&vrn=100100067795849&region=87&global=&sub_region=87&prver=0&pronetvd=null&vibid=2872000246653&type=464",
@@ -483,11 +483,11 @@ export const duma_2016_uik_463_region_87_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутакова Юлия Сергеевна": 8,
-      "Гальцов Владимир Анатольевич": 12,
-      "Колпаков Виктор Николаевич": 3,
-      "Половодова Елена Анатольевна": 5,
-      "Рудченко Валентина Васильевна": 85
+      "gas:candidate-vibid:2872000253974": 8,
+      "gas:candidate-vibid:2872000256317": 12,
+      "gas:candidate-vibid:2872000256198": 3,
+      "gas:candidate-vibid:2872000255360": 5,
+      "gas:candidate-vibid:2872000255865": 85
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chukot?action=show&root=1000292&tvd=2872000246653&vrn=100100067795849&region=87&global=&sub_region=87&prver=0&pronetvd=null&vibid=2872000246653&type=464",
@@ -538,11 +538,11 @@ export const duma_2016_uik_463_region_87_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутакова Юлия Сергеевна": 56,
-      "Гальцов Владимир Анатольевич": 32,
-      "Колпаков Виктор Николаевич": 12,
-      "Половодова Елена Анатольевна": 18,
-      "Рудченко Валентина Васильевна": 186
+      "gas:candidate-vibid:2872000253974": 56,
+      "gas:candidate-vibid:2872000256317": 32,
+      "gas:candidate-vibid:2872000256198": 12,
+      "gas:candidate-vibid:2872000255360": 18,
+      "gas:candidate-vibid:2872000255865": 186
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chukot?action=show&root=1000292&tvd=2872000246653&vrn=100100067795849&region=87&global=&sub_region=87&prver=0&pronetvd=null&vibid=2872000246653&type=464",
@@ -593,11 +593,11 @@ export const duma_2016_uik_463_region_87_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутакова Юлия Сергеевна": 2,
-      "Гальцов Владимир Анатольевич": 4,
-      "Колпаков Виктор Николаевич": 2,
-      "Половодова Елена Анатольевна": 2,
-      "Рудченко Валентина Васильевна": 22
+      "gas:candidate-vibid:2872000253974": 2,
+      "gas:candidate-vibid:2872000256317": 4,
+      "gas:candidate-vibid:2872000256198": 2,
+      "gas:candidate-vibid:2872000255360": 2,
+      "gas:candidate-vibid:2872000255865": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chukot?action=show&root=1000292&tvd=2872000246653&vrn=100100067795849&region=87&global=&sub_region=87&prver=0&pronetvd=null&vibid=2872000246653&type=464",
@@ -648,11 +648,11 @@ export const duma_2016_uik_463_region_87_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутакова Юлия Сергеевна": 133,
-      "Гальцов Владимир Анатольевич": 38,
-      "Колпаков Виктор Николаевич": 13,
-      "Половодова Елена Анатольевна": 25,
-      "Рудченко Валентина Васильевна": 179
+      "gas:candidate-vibid:2872000253974": 133,
+      "gas:candidate-vibid:2872000256317": 38,
+      "gas:candidate-vibid:2872000256198": 13,
+      "gas:candidate-vibid:2872000255360": 25,
+      "gas:candidate-vibid:2872000255865": 179
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chukot?action=show&root=1000292&tvd=2872000246653&vrn=100100067795849&region=87&global=&sub_region=87&prver=0&pronetvd=null&vibid=2872000246653&type=464",
@@ -703,11 +703,11 @@ export const duma_2016_uik_463_region_87_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутакова Юлия Сергеевна": 17,
-      "Гальцов Владимир Анатольевич": 5,
-      "Колпаков Виктор Николаевич": 4,
-      "Половодова Елена Анатольевна": 7,
-      "Рудченко Валентина Васильевна": 89
+      "gas:candidate-vibid:2872000253974": 17,
+      "gas:candidate-vibid:2872000256317": 5,
+      "gas:candidate-vibid:2872000256198": 4,
+      "gas:candidate-vibid:2872000255360": 7,
+      "gas:candidate-vibid:2872000255865": 89
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chukot?action=show&root=1000292&tvd=2872000246653&vrn=100100067795849&region=87&global=&sub_region=87&prver=0&pronetvd=null&vibid=2872000246653&type=464",
@@ -758,11 +758,11 @@ export const duma_2016_uik_463_region_87_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутакова Юлия Сергеевна": 29,
-      "Гальцов Владимир Анатольевич": 12,
-      "Колпаков Виктор Николаевич": 3,
-      "Половодова Елена Анатольевна": 6,
-      "Рудченко Валентина Васильевна": 147
+      "gas:candidate-vibid:2872000253974": 29,
+      "gas:candidate-vibid:2872000256317": 12,
+      "gas:candidate-vibid:2872000256198": 3,
+      "gas:candidate-vibid:2872000255360": 6,
+      "gas:candidate-vibid:2872000255865": 147
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chukot?action=show&root=1000292&tvd=2872000246653&vrn=100100067795849&region=87&global=&sub_region=87&prver=0&pronetvd=null&vibid=2872000246653&type=464",
@@ -813,11 +813,11 @@ export const duma_2016_uik_463_region_87_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутакова Юлия Сергеевна": 16,
-      "Гальцов Владимир Анатольевич": 14,
-      "Колпаков Виктор Николаевич": 7,
-      "Половодова Елена Анатольевна": 9,
-      "Рудченко Валентина Васильевна": 166
+      "gas:candidate-vibid:2872000253974": 16,
+      "gas:candidate-vibid:2872000256317": 14,
+      "gas:candidate-vibid:2872000256198": 7,
+      "gas:candidate-vibid:2872000255360": 9,
+      "gas:candidate-vibid:2872000255865": 166
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chukot?action=show&root=1000292&tvd=2872000246653&vrn=100100067795849&region=87&global=&sub_region=87&prver=0&pronetvd=null&vibid=2872000246653&type=464",
@@ -868,11 +868,11 @@ export const duma_2016_uik_463_region_87_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутакова Юлия Сергеевна": 101,
-      "Гальцов Владимир Анатольевич": 55,
-      "Колпаков Виктор Николаевич": 19,
-      "Половодова Елена Анатольевна": 27,
-      "Рудченко Валентина Васильевна": 520
+      "gas:candidate-vibid:2872000253974": 101,
+      "gas:candidate-vibid:2872000256317": 55,
+      "gas:candidate-vibid:2872000256198": 19,
+      "gas:candidate-vibid:2872000255360": 27,
+      "gas:candidate-vibid:2872000255865": 520
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chukot?action=show&root=1000292&tvd=2872000246654&vrn=100100067795849&region=87&global=&sub_region=87&prver=0&pronetvd=null&vibid=2872000246654&type=464",
@@ -923,11 +923,11 @@ export const duma_2016_uik_463_region_87_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутакова Юлия Сергеевна": 45,
-      "Гальцов Владимир Анатольевич": 26,
-      "Колпаков Виктор Николаевич": 18,
-      "Половодова Елена Анатольевна": 21,
-      "Рудченко Валентина Васильевна": 232
+      "gas:candidate-vibid:2872000253974": 45,
+      "gas:candidate-vibid:2872000256317": 26,
+      "gas:candidate-vibid:2872000256198": 18,
+      "gas:candidate-vibid:2872000255360": 21,
+      "gas:candidate-vibid:2872000255865": 232
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chukot?action=show&root=1000292&tvd=2872000246654&vrn=100100067795849&region=87&global=&sub_region=87&prver=0&pronetvd=null&vibid=2872000246654&type=464",
@@ -978,11 +978,11 @@ export const duma_2016_uik_463_region_87_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутакова Юлия Сергеевна": 28,
-      "Гальцов Владимир Анатольевич": 16,
-      "Колпаков Виктор Николаевич": 14,
-      "Половодова Елена Анатольевна": 13,
-      "Рудченко Валентина Васильевна": 108
+      "gas:candidate-vibid:2872000253974": 28,
+      "gas:candidate-vibid:2872000256317": 16,
+      "gas:candidate-vibid:2872000256198": 14,
+      "gas:candidate-vibid:2872000255360": 13,
+      "gas:candidate-vibid:2872000255865": 108
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chukot?action=show&root=1000292&tvd=2872000246654&vrn=100100067795849&region=87&global=&sub_region=87&prver=0&pronetvd=null&vibid=2872000246654&type=464",
@@ -1033,11 +1033,11 @@ export const duma_2016_uik_463_region_87_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутакова Юлия Сергеевна": 17,
-      "Гальцов Владимир Анатольевич": 5,
-      "Колпаков Виктор Николаевич": 6,
-      "Половодова Елена Анатольевна": 5,
-      "Рудченко Валентина Васильевна": 49
+      "gas:candidate-vibid:2872000253974": 17,
+      "gas:candidate-vibid:2872000256317": 5,
+      "gas:candidate-vibid:2872000256198": 6,
+      "gas:candidate-vibid:2872000255360": 5,
+      "gas:candidate-vibid:2872000255865": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chukot?action=show&root=1000292&tvd=2872000246654&vrn=100100067795849&region=87&global=&sub_region=87&prver=0&pronetvd=null&vibid=2872000246654&type=464",
@@ -1088,11 +1088,11 @@ export const duma_2016_uik_463_region_87_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутакова Юлия Сергеевна": 22,
-      "Гальцов Владимир Анатольевич": 29,
-      "Колпаков Виктор Николаевич": 12,
-      "Половодова Елена Анатольевна": 20,
-      "Рудченко Валентина Васильевна": 174
+      "gas:candidate-vibid:2872000253974": 22,
+      "gas:candidate-vibid:2872000256317": 29,
+      "gas:candidate-vibid:2872000256198": 12,
+      "gas:candidate-vibid:2872000255360": 20,
+      "gas:candidate-vibid:2872000255865": 174
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chukot?action=show&root=1000292&tvd=2872000246654&vrn=100100067795849&region=87&global=&sub_region=87&prver=0&pronetvd=null&vibid=2872000246654&type=464",
@@ -1143,11 +1143,11 @@ export const duma_2016_uik_463_region_87_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутакова Юлия Сергеевна": 8,
-      "Гальцов Владимир Анатольевич": 9,
-      "Колпаков Виктор Николаевич": 7,
-      "Половодова Елена Анатольевна": 1,
-      "Рудченко Валентина Васильевна": 46
+      "gas:candidate-vibid:2872000253974": 8,
+      "gas:candidate-vibid:2872000256317": 9,
+      "gas:candidate-vibid:2872000256198": 7,
+      "gas:candidate-vibid:2872000255360": 1,
+      "gas:candidate-vibid:2872000255865": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chukot?action=show&root=1000292&tvd=2872000246654&vrn=100100067795849&region=87&global=&sub_region=87&prver=0&pronetvd=null&vibid=2872000246654&type=464",
@@ -1198,11 +1198,11 @@ export const duma_2016_uik_463_region_87_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутакова Юлия Сергеевна": 8,
-      "Гальцов Владимир Анатольевич": 3,
-      "Колпаков Виктор Николаевич": 4,
-      "Половодова Елена Анатольевна": 3,
-      "Рудченко Валентина Васильевна": 47
+      "gas:candidate-vibid:2872000253974": 8,
+      "gas:candidate-vibid:2872000256317": 3,
+      "gas:candidate-vibid:2872000256198": 4,
+      "gas:candidate-vibid:2872000255360": 3,
+      "gas:candidate-vibid:2872000255865": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chukot?action=show&root=1000292&tvd=2872000246654&vrn=100100067795849&region=87&global=&sub_region=87&prver=0&pronetvd=null&vibid=2872000246654&type=464",
@@ -1253,11 +1253,11 @@ export const duma_2016_uik_463_region_87_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутакова Юлия Сергеевна": 58,
-      "Гальцов Владимир Анатольевич": 29,
-      "Колпаков Виктор Николаевич": 22,
-      "Половодова Елена Анатольевна": 33,
-      "Рудченко Валентина Васильевна": 152
+      "gas:candidate-vibid:2872000253974": 58,
+      "gas:candidate-vibid:2872000256317": 29,
+      "gas:candidate-vibid:2872000256198": 22,
+      "gas:candidate-vibid:2872000255360": 33,
+      "gas:candidate-vibid:2872000255865": 152
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chukot?action=show&root=1000292&tvd=2872000246654&vrn=100100067795849&region=87&global=&sub_region=87&prver=0&pronetvd=null&vibid=2872000246654&type=464",
@@ -1308,11 +1308,11 @@ export const duma_2016_uik_463_region_87_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутакова Юлия Сергеевна": 44,
-      "Гальцов Владимир Анатольевич": 34,
-      "Колпаков Виктор Николаевич": 14,
-      "Половодова Елена Анатольевна": 15,
-      "Рудченко Валентина Васильевна": 167
+      "gas:candidate-vibid:2872000253974": 44,
+      "gas:candidate-vibid:2872000256317": 34,
+      "gas:candidate-vibid:2872000256198": 14,
+      "gas:candidate-vibid:2872000255360": 15,
+      "gas:candidate-vibid:2872000255865": 167
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chukot?action=show&root=1000292&tvd=2872000246655&vrn=100100067795849&region=87&global=&sub_region=87&prver=0&pronetvd=null&vibid=2872000246655&type=464",
@@ -1363,11 +1363,11 @@ export const duma_2016_uik_463_region_87_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутакова Юлия Сергеевна": 8,
-      "Гальцов Владимир Анатольевич": 6,
-      "Колпаков Виктор Николаевич": 1,
-      "Половодова Елена Анатольевна": 9,
-      "Рудченко Валентина Васильевна": 123
+      "gas:candidate-vibid:2872000253974": 8,
+      "gas:candidate-vibid:2872000256317": 6,
+      "gas:candidate-vibid:2872000256198": 1,
+      "gas:candidate-vibid:2872000255360": 9,
+      "gas:candidate-vibid:2872000255865": 123
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chukot?action=show&root=1000292&tvd=2872000246655&vrn=100100067795849&region=87&global=&sub_region=87&prver=0&pronetvd=null&vibid=2872000246655&type=464",
@@ -1418,11 +1418,11 @@ export const duma_2016_uik_463_region_87_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутакова Юлия Сергеевна": 20,
-      "Гальцов Владимир Анатольевич": 17,
-      "Колпаков Виктор Николаевич": 8,
-      "Половодова Елена Анатольевна": 8,
-      "Рудченко Валентина Васильевна": 116
+      "gas:candidate-vibid:2872000253974": 20,
+      "gas:candidate-vibid:2872000256317": 17,
+      "gas:candidate-vibid:2872000256198": 8,
+      "gas:candidate-vibid:2872000255360": 8,
+      "gas:candidate-vibid:2872000255865": 116
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chukot?action=show&root=1000292&tvd=2872000246655&vrn=100100067795849&region=87&global=&sub_region=87&prver=0&pronetvd=null&vibid=2872000246655&type=464",
@@ -1473,11 +1473,11 @@ export const duma_2016_uik_463_region_87_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутакова Юлия Сергеевна": 20,
-      "Гальцов Владимир Анатольевич": 16,
-      "Колпаков Виктор Николаевич": 14,
-      "Половодова Елена Анатольевна": 13,
-      "Рудченко Валентина Васильевна": 232
+      "gas:candidate-vibid:2872000253974": 20,
+      "gas:candidate-vibid:2872000256317": 16,
+      "gas:candidate-vibid:2872000256198": 14,
+      "gas:candidate-vibid:2872000255360": 13,
+      "gas:candidate-vibid:2872000255865": 232
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chukot?action=show&root=1000292&tvd=2872000246655&vrn=100100067795849&region=87&global=&sub_region=87&prver=0&pronetvd=null&vibid=2872000246655&type=464",
@@ -1528,11 +1528,11 @@ export const duma_2016_uik_463_region_87_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутакова Юлия Сергеевна": 94,
-      "Гальцов Владимир Анатольевич": 39,
-      "Колпаков Виктор Николаевич": 16,
-      "Половодова Елена Анатольевна": 23,
-      "Рудченко Валентина Васильевна": 275
+      "gas:candidate-vibid:2872000253974": 94,
+      "gas:candidate-vibid:2872000256317": 39,
+      "gas:candidate-vibid:2872000256198": 16,
+      "gas:candidate-vibid:2872000255360": 23,
+      "gas:candidate-vibid:2872000255865": 275
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chukot?action=show&root=1000292&tvd=2872000246655&vrn=100100067795849&region=87&global=&sub_region=87&prver=0&pronetvd=null&vibid=2872000246655&type=464",
@@ -1583,11 +1583,11 @@ export const duma_2016_uik_463_region_87_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутакова Юлия Сергеевна": 36,
-      "Гальцов Владимир Анатольевич": 27,
-      "Колпаков Виктор Николаевич": 13,
-      "Половодова Елена Анатольевна": 15,
-      "Рудченко Валентина Васильевна": 351
+      "gas:candidate-vibid:2872000253974": 36,
+      "gas:candidate-vibid:2872000256317": 27,
+      "gas:candidate-vibid:2872000256198": 13,
+      "gas:candidate-vibid:2872000255360": 15,
+      "gas:candidate-vibid:2872000255865": 351
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chukot?action=show&root=1000292&tvd=2872000246655&vrn=100100067795849&region=87&global=&sub_region=87&prver=0&pronetvd=null&vibid=2872000246655&type=464",
@@ -1638,11 +1638,11 @@ export const duma_2016_uik_463_region_87_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутакова Юлия Сергеевна": 163,
-      "Гальцов Владимир Анатольевич": 72,
-      "Колпаков Виктор Николаевич": 50,
-      "Половодова Елена Анатольевна": 60,
-      "Рудченко Валентина Васильевна": 418
+      "gas:candidate-vibid:2872000253974": 163,
+      "gas:candidate-vibid:2872000256317": 72,
+      "gas:candidate-vibid:2872000256198": 50,
+      "gas:candidate-vibid:2872000255360": 60,
+      "gas:candidate-vibid:2872000255865": 418
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chukot?action=show&root=1000292&tvd=2872000246656&vrn=100100067795849&region=87&global=&sub_region=87&prver=0&pronetvd=null&vibid=2872000246656&type=464",
@@ -1693,11 +1693,11 @@ export const duma_2016_uik_463_region_87_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутакова Юлия Сергеевна": 271,
-      "Гальцов Владимир Анатольевич": 85,
-      "Колпаков Виктор Николаевич": 36,
-      "Половодова Елена Анатольевна": 87,
-      "Рудченко Валентина Васильевна": 442
+      "gas:candidate-vibid:2872000253974": 271,
+      "gas:candidate-vibid:2872000256317": 85,
+      "gas:candidate-vibid:2872000256198": 36,
+      "gas:candidate-vibid:2872000255360": 87,
+      "gas:candidate-vibid:2872000255865": 442
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chukot?action=show&root=1000292&tvd=2872000246656&vrn=100100067795849&region=87&global=&sub_region=87&prver=0&pronetvd=null&vibid=2872000246656&type=464",
@@ -1748,11 +1748,11 @@ export const duma_2016_uik_463_region_87_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутакова Юлия Сергеевна": 231,
-      "Гальцов Владимир Анатольевич": 85,
-      "Колпаков Виктор Николаевич": 49,
-      "Половодова Елена Анатольевна": 83,
-      "Рудченко Валентина Васильевна": 426
+      "gas:candidate-vibid:2872000253974": 231,
+      "gas:candidate-vibid:2872000256317": 85,
+      "gas:candidate-vibid:2872000256198": 49,
+      "gas:candidate-vibid:2872000255360": 83,
+      "gas:candidate-vibid:2872000255865": 426
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chukot?action=show&root=1000292&tvd=2872000246656&vrn=100100067795849&region=87&global=&sub_region=87&prver=0&pronetvd=null&vibid=2872000246656&type=464",
@@ -1803,11 +1803,11 @@ export const duma_2016_uik_463_region_87_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутакова Юлия Сергеевна": 241,
-      "Гальцов Владимир Анатольевич": 99,
-      "Колпаков Виктор Николаевич": 55,
-      "Половодова Елена Анатольевна": 85,
-      "Рудченко Валентина Васильевна": 469
+      "gas:candidate-vibid:2872000253974": 241,
+      "gas:candidate-vibid:2872000256317": 99,
+      "gas:candidate-vibid:2872000256198": 55,
+      "gas:candidate-vibid:2872000255360": 85,
+      "gas:candidate-vibid:2872000255865": 469
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chukot?action=show&root=1000292&tvd=2872000246656&vrn=100100067795849&region=87&global=&sub_region=87&prver=0&pronetvd=null&vibid=2872000246656&type=464",
@@ -1858,11 +1858,11 @@ export const duma_2016_uik_463_region_87_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутакова Юлия Сергеевна": 68,
-      "Гальцов Владимир Анатольевич": 22,
-      "Колпаков Виктор Николаевич": 16,
-      "Половодова Елена Анатольевна": 23,
-      "Рудченко Валентина Васильевна": 155
+      "gas:candidate-vibid:2872000253974": 68,
+      "gas:candidate-vibid:2872000256317": 22,
+      "gas:candidate-vibid:2872000256198": 16,
+      "gas:candidate-vibid:2872000255360": 23,
+      "gas:candidate-vibid:2872000255865": 155
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chukot?action=show&root=1000292&tvd=2872000246656&vrn=100100067795849&region=87&global=&sub_region=87&prver=0&pronetvd=null&vibid=2872000246656&type=464",
@@ -1913,11 +1913,11 @@ export const duma_2016_uik_463_region_87_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутакова Юлия Сергеевна": 20,
-      "Гальцов Владимир Анатольевич": 16,
-      "Колпаков Виктор Николаевич": 2,
-      "Половодова Елена Анатольевна": 3,
-      "Рудченко Валентина Васильевна": 103
+      "gas:candidate-vibid:2872000253974": 20,
+      "gas:candidate-vibid:2872000256317": 16,
+      "gas:candidate-vibid:2872000256198": 2,
+      "gas:candidate-vibid:2872000255360": 3,
+      "gas:candidate-vibid:2872000255865": 103
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chukot?action=show&root=1000292&tvd=2872000246657&vrn=100100067795849&region=87&global=&sub_region=87&prver=0&pronetvd=null&vibid=2872000246657&type=464",
@@ -1968,11 +1968,11 @@ export const duma_2016_uik_463_region_87_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутакова Юлия Сергеевна": 129,
-      "Гальцов Владимир Анатольевич": 73,
-      "Колпаков Виктор Николаевич": 32,
-      "Половодова Елена Анатольевна": 45,
-      "Рудченко Валентина Васильевна": 383
+      "gas:candidate-vibid:2872000253974": 129,
+      "gas:candidate-vibid:2872000256317": 73,
+      "gas:candidate-vibid:2872000256198": 32,
+      "gas:candidate-vibid:2872000255360": 45,
+      "gas:candidate-vibid:2872000255865": 383
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chukot?action=show&root=1000292&tvd=2872000246657&vrn=100100067795849&region=87&global=&sub_region=87&prver=0&pronetvd=null&vibid=2872000246657&type=464",
@@ -2023,11 +2023,11 @@ export const duma_2016_uik_463_region_87_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутакова Юлия Сергеевна": 16,
-      "Гальцов Владимир Анатольевич": 6,
-      "Колпаков Виктор Николаевич": 2,
-      "Половодова Елена Анатольевна": 9,
-      "Рудченко Валентина Васильевна": 197
+      "gas:candidate-vibid:2872000253974": 16,
+      "gas:candidate-vibid:2872000256317": 6,
+      "gas:candidate-vibid:2872000256198": 2,
+      "gas:candidate-vibid:2872000255360": 9,
+      "gas:candidate-vibid:2872000255865": 197
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chukot?action=show&root=1000292&tvd=2872000246657&vrn=100100067795849&region=87&global=&sub_region=87&prver=0&pronetvd=null&vibid=2872000246657&type=464",
@@ -2078,11 +2078,11 @@ export const duma_2016_uik_463_region_87_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутакова Юлия Сергеевна": 8,
-      "Гальцов Владимир Анатольевич": 7,
-      "Колпаков Виктор Николаевич": 9,
-      "Половодова Елена Анатольевна": 8,
-      "Рудченко Валентина Васильевна": 115
+      "gas:candidate-vibid:2872000253974": 8,
+      "gas:candidate-vibid:2872000256317": 7,
+      "gas:candidate-vibid:2872000256198": 9,
+      "gas:candidate-vibid:2872000255360": 8,
+      "gas:candidate-vibid:2872000255865": 115
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chukot?action=show&root=1000292&tvd=2872000246657&vrn=100100067795849&region=87&global=&sub_region=87&prver=0&pronetvd=null&vibid=2872000246657&type=464",
@@ -2133,11 +2133,11 @@ export const duma_2016_uik_463_region_87_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутакова Юлия Сергеевна": 9,
-      "Гальцов Владимир Анатольевич": 11,
-      "Колпаков Виктор Николаевич": 5,
-      "Половодова Елена Анатольевна": 9,
-      "Рудченко Валентина Васильевна": 133
+      "gas:candidate-vibid:2872000253974": 9,
+      "gas:candidate-vibid:2872000256317": 11,
+      "gas:candidate-vibid:2872000256198": 5,
+      "gas:candidate-vibid:2872000255360": 9,
+      "gas:candidate-vibid:2872000255865": 133
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chukot?action=show&root=1000292&tvd=2872000246657&vrn=100100067795849&region=87&global=&sub_region=87&prver=0&pronetvd=null&vibid=2872000246657&type=464",
@@ -2188,11 +2188,11 @@ export const duma_2016_uik_463_region_87_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутакова Юлия Сергеевна": 20,
-      "Гальцов Владимир Анатольевич": 9,
-      "Колпаков Виктор Николаевич": 14,
-      "Половодова Елена Анатольевна": 12,
-      "Рудченко Валентина Васильевна": 127
+      "gas:candidate-vibid:2872000253974": 20,
+      "gas:candidate-vibid:2872000256317": 9,
+      "gas:candidate-vibid:2872000256198": 14,
+      "gas:candidate-vibid:2872000255360": 12,
+      "gas:candidate-vibid:2872000255865": 127
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chukot?action=show&root=1000292&tvd=2872000246657&vrn=100100067795849&region=87&global=&sub_region=87&prver=0&pronetvd=null&vibid=2872000246657&type=464",
@@ -2243,11 +2243,11 @@ export const duma_2016_uik_463_region_87_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутакова Юлия Сергеевна": 102,
-      "Гальцов Владимир Анатольевич": 30,
-      "Колпаков Виктор Николаевич": 23,
-      "Половодова Елена Анатольевна": 46,
-      "Рудченко Валентина Васильевна": 289
+      "gas:candidate-vibid:2872000253974": 102,
+      "gas:candidate-vibid:2872000256317": 30,
+      "gas:candidate-vibid:2872000256198": 23,
+      "gas:candidate-vibid:2872000255360": 46,
+      "gas:candidate-vibid:2872000255865": 289
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chukot?action=show&root=1000292&tvd=2872000246658&vrn=100100067795849&region=87&global=&sub_region=87&prver=0&pronetvd=null&vibid=2872000246658&type=464",
@@ -2298,11 +2298,11 @@ export const duma_2016_uik_463_region_87_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутакова Юлия Сергеевна": 96,
-      "Гальцов Владимир Анатольевич": 38,
-      "Колпаков Виктор Николаевич": 19,
-      "Половодова Елена Анатольевна": 30,
-      "Рудченко Валентина Васильевна": 621
+      "gas:candidate-vibid:2872000253974": 96,
+      "gas:candidate-vibid:2872000256317": 38,
+      "gas:candidate-vibid:2872000256198": 19,
+      "gas:candidate-vibid:2872000255360": 30,
+      "gas:candidate-vibid:2872000255865": 621
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chukot?action=show&root=1000292&tvd=2872000246658&vrn=100100067795849&region=87&global=&sub_region=87&prver=0&pronetvd=null&vibid=2872000246658&type=464",
@@ -2353,11 +2353,11 @@ export const duma_2016_uik_463_region_87_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутакова Юлия Сергеевна": 86,
-      "Гальцов Владимир Анатольевич": 55,
-      "Колпаков Виктор Николаевич": 27,
-      "Половодова Елена Анатольевна": 40,
-      "Рудченко Валентина Васильевна": 482
+      "gas:candidate-vibid:2872000253974": 86,
+      "gas:candidate-vibid:2872000256317": 55,
+      "gas:candidate-vibid:2872000256198": 27,
+      "gas:candidate-vibid:2872000255360": 40,
+      "gas:candidate-vibid:2872000255865": 482
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chukot?action=show&root=1000292&tvd=2872000246658&vrn=100100067795849&region=87&global=&sub_region=87&prver=0&pronetvd=null&vibid=2872000246658&type=464",
@@ -2408,11 +2408,11 @@ export const duma_2016_uik_463_region_87_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутакова Юлия Сергеевна": 23,
-      "Гальцов Владимир Анатольевич": 18,
-      "Колпаков Виктор Николаевич": 5,
-      "Половодова Елена Анатольевна": 13,
-      "Рудченко Валентина Васильевна": 161
+      "gas:candidate-vibid:2872000253974": 23,
+      "gas:candidate-vibid:2872000256317": 18,
+      "gas:candidate-vibid:2872000256198": 5,
+      "gas:candidate-vibid:2872000255360": 13,
+      "gas:candidate-vibid:2872000255865": 161
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chukot?action=show&root=1000292&tvd=2872000246658&vrn=100100067795849&region=87&global=&sub_region=87&prver=0&pronetvd=null&vibid=2872000246658&type=464",
@@ -2463,11 +2463,11 @@ export const duma_2016_uik_463_region_87_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутакова Юлия Сергеевна": 18,
-      "Гальцов Владимир Анатольевич": 8,
-      "Колпаков Виктор Николаевич": 6,
-      "Половодова Елена Анатольевна": 10,
-      "Рудченко Валентина Васильевна": 62
+      "gas:candidate-vibid:2872000253974": 18,
+      "gas:candidate-vibid:2872000256317": 8,
+      "gas:candidate-vibid:2872000256198": 6,
+      "gas:candidate-vibid:2872000255360": 10,
+      "gas:candidate-vibid:2872000255865": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chukot?action=show&root=1000292&tvd=2872000246658&vrn=100100067795849&region=87&global=&sub_region=87&prver=0&pronetvd=null&vibid=2872000246658&type=464",
@@ -2518,11 +2518,11 @@ export const duma_2016_uik_463_region_87_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутакова Юлия Сергеевна": 10,
-      "Гальцов Владимир Анатольевич": 9,
-      "Колпаков Виктор Николаевич": 6,
-      "Половодова Елена Анатольевна": 8,
-      "Рудченко Валентина Васильевна": 54
+      "gas:candidate-vibid:2872000253974": 10,
+      "gas:candidate-vibid:2872000256317": 9,
+      "gas:candidate-vibid:2872000256198": 6,
+      "gas:candidate-vibid:2872000255360": 8,
+      "gas:candidate-vibid:2872000255865": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chukot?action=show&root=1000292&tvd=2872000246658&vrn=100100067795849&region=87&global=&sub_region=87&prver=0&pronetvd=null&vibid=2872000246658&type=464",
@@ -2573,11 +2573,11 @@ export const duma_2016_uik_463_region_87_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутакова Юлия Сергеевна": 191,
-      "Гальцов Владимир Анатольевич": 102,
-      "Колпаков Виктор Николаевич": 56,
-      "Половодова Елена Анатольевна": 46,
-      "Рудченко Валентина Васильевна": 258
+      "gas:candidate-vibid:2872000253974": 191,
+      "gas:candidate-vibid:2872000256317": 102,
+      "gas:candidate-vibid:2872000256198": 56,
+      "gas:candidate-vibid:2872000255360": 46,
+      "gas:candidate-vibid:2872000255865": 258
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chukot?action=show&root=1000292&tvd=2872000246659&vrn=100100067795849&region=87&global=&sub_region=87&prver=0&pronetvd=null&vibid=2872000246659&type=464",
@@ -2628,11 +2628,11 @@ export const duma_2016_uik_463_region_87_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутакова Юлия Сергеевна": 114,
-      "Гальцов Владимир Анатольевич": 50,
-      "Колпаков Виктор Николаевич": 21,
-      "Половодова Елена Анатольевна": 19,
-      "Рудченко Валентина Васильевна": 157
+      "gas:candidate-vibid:2872000253974": 114,
+      "gas:candidate-vibid:2872000256317": 50,
+      "gas:candidate-vibid:2872000256198": 21,
+      "gas:candidate-vibid:2872000255360": 19,
+      "gas:candidate-vibid:2872000255865": 157
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chukot?action=show&root=1000292&tvd=2872000246659&vrn=100100067795849&region=87&global=&sub_region=87&prver=0&pronetvd=null&vibid=2872000246659&type=464",
@@ -2683,11 +2683,11 @@ export const duma_2016_uik_463_region_87_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутакова Юлия Сергеевна": 144,
-      "Гальцов Владимир Анатольевич": 108,
-      "Колпаков Виктор Николаевич": 41,
-      "Половодова Елена Анатольевна": 43,
-      "Рудченко Валентина Васильевна": 235
+      "gas:candidate-vibid:2872000253974": 144,
+      "gas:candidate-vibid:2872000256317": 108,
+      "gas:candidate-vibid:2872000256198": 41,
+      "gas:candidate-vibid:2872000255360": 43,
+      "gas:candidate-vibid:2872000255865": 235
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chukot?action=show&root=1000292&tvd=2872000246659&vrn=100100067795849&region=87&global=&sub_region=87&prver=0&pronetvd=null&vibid=2872000246659&type=464",
@@ -2738,11 +2738,11 @@ export const duma_2016_uik_463_region_87_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутакова Юлия Сергеевна": 40,
-      "Гальцов Владимир Анатольевич": 12,
-      "Колпаков Виктор Николаевич": 9,
-      "Половодова Елена Анатольевна": 13,
-      "Рудченко Валентина Васильевна": 64
+      "gas:candidate-vibid:2872000253974": 40,
+      "gas:candidate-vibid:2872000256317": 12,
+      "gas:candidate-vibid:2872000256198": 9,
+      "gas:candidate-vibid:2872000255360": 13,
+      "gas:candidate-vibid:2872000255865": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chukot?action=show&root=1000292&tvd=2872000246659&vrn=100100067795849&region=87&global=&sub_region=87&prver=0&pronetvd=null&vibid=2872000246659&type=464",
@@ -2793,11 +2793,11 @@ export const duma_2016_uik_463_region_87_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутакова Юлия Сергеевна": 43,
-      "Гальцов Владимир Анатольевич": 32,
-      "Колпаков Виктор Николаевич": 10,
-      "Половодова Елена Анатольевна": 14,
-      "Рудченко Валентина Васильевна": 168
+      "gas:candidate-vibid:2872000253974": 43,
+      "gas:candidate-vibid:2872000256317": 32,
+      "gas:candidate-vibid:2872000256198": 10,
+      "gas:candidate-vibid:2872000255360": 14,
+      "gas:candidate-vibid:2872000255865": 168
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chukot?action=show&root=1000292&tvd=2872000246659&vrn=100100067795849&region=87&global=&sub_region=87&prver=0&pronetvd=null&vibid=2872000246659&type=464",
@@ -2848,11 +2848,11 @@ export const duma_2016_uik_463_region_87_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутакова Юлия Сергеевна": 28,
-      "Гальцов Владимир Анатольевич": 22,
-      "Колпаков Виктор Николаевич": 13,
-      "Половодова Елена Анатольевна": 7,
-      "Рудченко Валентина Васильевна": 81
+      "gas:candidate-vibid:2872000253974": 28,
+      "gas:candidate-vibid:2872000256317": 22,
+      "gas:candidate-vibid:2872000256198": 13,
+      "gas:candidate-vibid:2872000255360": 7,
+      "gas:candidate-vibid:2872000255865": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chukot?action=show&root=1000292&tvd=2872000246659&vrn=100100067795849&region=87&global=&sub_region=87&prver=0&pronetvd=null&vibid=2872000246659&type=464",
@@ -2903,11 +2903,11 @@ export const duma_2016_uik_463_region_87_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутакова Юлия Сергеевна": 23,
-      "Гальцов Владимир Анатольевич": 43,
-      "Колпаков Виктор Николаевич": 18,
-      "Половодова Елена Анатольевна": 14,
-      "Рудченко Валентина Васильевна": 84
+      "gas:candidate-vibid:2872000253974": 23,
+      "gas:candidate-vibid:2872000256317": 43,
+      "gas:candidate-vibid:2872000256198": 18,
+      "gas:candidate-vibid:2872000255360": 14,
+      "gas:candidate-vibid:2872000255865": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chukot?action=show&root=1000292&tvd=2872000246659&vrn=100100067795849&region=87&global=&sub_region=87&prver=0&pronetvd=null&vibid=2872000246659&type=464",
@@ -2958,11 +2958,11 @@ export const duma_2016_uik_463_region_87_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутакова Юлия Сергеевна": 15,
-      "Гальцов Владимир Анатольевич": 9,
-      "Колпаков Виктор Николаевич": 4,
-      "Половодова Елена Анатольевна": 9,
-      "Рудченко Валентина Васильевна": 56
+      "gas:candidate-vibid:2872000253974": 15,
+      "gas:candidate-vibid:2872000256317": 9,
+      "gas:candidate-vibid:2872000256198": 4,
+      "gas:candidate-vibid:2872000255360": 9,
+      "gas:candidate-vibid:2872000255865": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chukot?action=show&root=1000292&tvd=2872000246659&vrn=100100067795849&region=87&global=&sub_region=87&prver=0&pronetvd=null&vibid=2872000246659&type=464",
@@ -3013,11 +3013,11 @@ export const duma_2016_uik_463_region_87_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутакова Юлия Сергеевна": 33,
-      "Гальцов Владимир Анатольевич": 17,
-      "Колпаков Виктор Николаевич": 7,
-      "Половодова Елена Анатольевна": 10,
-      "Рудченко Валентина Васильевна": 60
+      "gas:candidate-vibid:2872000253974": 33,
+      "gas:candidate-vibid:2872000256317": 17,
+      "gas:candidate-vibid:2872000256198": 7,
+      "gas:candidate-vibid:2872000255360": 10,
+      "gas:candidate-vibid:2872000255865": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chukot?action=show&root=1000292&tvd=2872000246659&vrn=100100067795849&region=87&global=&sub_region=87&prver=0&pronetvd=null&vibid=2872000246659&type=464",

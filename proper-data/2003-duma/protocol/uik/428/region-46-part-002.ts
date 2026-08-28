@@ -42,17 +42,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 20,
-      "Ещенко Денис Владимирович": 5,
-      "Иванов Николай Николаевич": 288,
-      "Иванов Сергей Владимирович": 59,
-      "Капелюш Александр Маратович": 9,
-      "Крюков Анатолий Федорович": 14,
-      "Сафонов Юрий Алексеевич": 14,
-      "Фалалеев Сергей Николаевич": 25,
-      "Федулов Александр Михайлович": 159,
-      "Чухраев Александр Михайлович": 179,
-      "Против всех": 113
+      "gas:candidate-vibid:346300170939": 20,
+      "gas:candidate-vibid:1001000195087": 5,
+      "gas:candidate-vibid:1001000121858": 288,
+      "gas:candidate-vibid:1001000136068": 59,
+      "gas:candidate-vibid:1001000112220": 9,
+      "gas:candidate-vibid:1001000220819": 14,
+      "gas:candidate-vibid:1001000113940": 14,
+      "gas:candidate-vibid:1001000131398": 25,
+      "gas:candidate-vibid:1001000202312": 159,
+      "gas:candidate-vibid:1001000225947": 179,
+      "special:against-all": 113
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300170562&region=0&sub_region=0&type=429",
@@ -102,17 +102,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 16,
-      "Ещенко Денис Владимирович": 6,
-      "Иванов Николай Николаевич": 336,
-      "Иванов Сергей Владимирович": 54,
-      "Капелюш Александр Маратович": 11,
-      "Крюков Анатолий Федорович": 23,
-      "Сафонов Юрий Алексеевич": 8,
-      "Фалалеев Сергей Николаевич": 18,
-      "Федулов Александр Михайлович": 122,
-      "Чухраев Александр Михайлович": 175,
-      "Против всех": 123
+      "gas:candidate-vibid:346300170939": 16,
+      "gas:candidate-vibid:1001000195087": 6,
+      "gas:candidate-vibid:1001000121858": 336,
+      "gas:candidate-vibid:1001000136068": 54,
+      "gas:candidate-vibid:1001000112220": 11,
+      "gas:candidate-vibid:1001000220819": 23,
+      "gas:candidate-vibid:1001000113940": 8,
+      "gas:candidate-vibid:1001000131398": 18,
+      "gas:candidate-vibid:1001000202312": 122,
+      "gas:candidate-vibid:1001000225947": 175,
+      "special:against-all": 123
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300170562&region=0&sub_region=0&type=429",
@@ -162,17 +162,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 13,
-      "Ещенко Денис Владимирович": 6,
-      "Иванов Николай Николаевич": 237,
-      "Иванов Сергей Владимирович": 42,
-      "Капелюш Александр Маратович": 12,
-      "Крюков Анатолий Федорович": 18,
-      "Сафонов Юрий Алексеевич": 9,
-      "Фалалеев Сергей Николаевич": 24,
-      "Федулов Александр Михайлович": 149,
-      "Чухраев Александр Михайлович": 210,
-      "Против всех": 105
+      "gas:candidate-vibid:346300170939": 13,
+      "gas:candidate-vibid:1001000195087": 6,
+      "gas:candidate-vibid:1001000121858": 237,
+      "gas:candidate-vibid:1001000136068": 42,
+      "gas:candidate-vibid:1001000112220": 12,
+      "gas:candidate-vibid:1001000220819": 18,
+      "gas:candidate-vibid:1001000113940": 9,
+      "gas:candidate-vibid:1001000131398": 24,
+      "gas:candidate-vibid:1001000202312": 149,
+      "gas:candidate-vibid:1001000225947": 210,
+      "special:against-all": 105
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300170562&region=0&sub_region=0&type=429",
@@ -222,17 +222,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 10,
-      "Ещенко Денис Владимирович": 6,
-      "Иванов Николай Николаевич": 278,
-      "Иванов Сергей Владимирович": 62,
-      "Капелюш Александр Маратович": 5,
-      "Крюков Анатолий Федорович": 11,
-      "Сафонов Юрий Алексеевич": 13,
-      "Фалалеев Сергей Николаевич": 13,
-      "Федулов Александр Михайлович": 146,
-      "Чухраев Александр Михайлович": 163,
-      "Против всех": 101
+      "gas:candidate-vibid:346300170939": 10,
+      "gas:candidate-vibid:1001000195087": 6,
+      "gas:candidate-vibid:1001000121858": 278,
+      "gas:candidate-vibid:1001000136068": 62,
+      "gas:candidate-vibid:1001000112220": 5,
+      "gas:candidate-vibid:1001000220819": 11,
+      "gas:candidate-vibid:1001000113940": 13,
+      "gas:candidate-vibid:1001000131398": 13,
+      "gas:candidate-vibid:1001000202312": 146,
+      "gas:candidate-vibid:1001000225947": 163,
+      "special:against-all": 101
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300170562&region=0&sub_region=0&type=429",
@@ -282,17 +282,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 14,
-      "Ещенко Денис Владимирович": 6,
-      "Иванов Николай Николаевич": 282,
-      "Иванов Сергей Владимирович": 68,
-      "Капелюш Александр Маратович": 3,
-      "Крюков Анатолий Федорович": 16,
-      "Сафонов Юрий Алексеевич": 10,
-      "Фалалеев Сергей Николаевич": 27,
-      "Федулов Александр Михайлович": 111,
-      "Чухраев Александр Михайлович": 151,
-      "Против всех": 92
+      "gas:candidate-vibid:346300170939": 14,
+      "gas:candidate-vibid:1001000195087": 6,
+      "gas:candidate-vibid:1001000121858": 282,
+      "gas:candidate-vibid:1001000136068": 68,
+      "gas:candidate-vibid:1001000112220": 3,
+      "gas:candidate-vibid:1001000220819": 16,
+      "gas:candidate-vibid:1001000113940": 10,
+      "gas:candidate-vibid:1001000131398": 27,
+      "gas:candidate-vibid:1001000202312": 111,
+      "gas:candidate-vibid:1001000225947": 151,
+      "special:against-all": 92
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300170562&region=0&sub_region=0&type=429",
@@ -342,17 +342,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 14,
-      "Ещенко Денис Владимирович": 11,
-      "Иванов Николай Николаевич": 383,
-      "Иванов Сергей Владимирович": 43,
-      "Капелюш Александр Маратович": 6,
-      "Крюков Анатолий Федорович": 11,
-      "Сафонов Юрий Алексеевич": 17,
-      "Фалалеев Сергей Николаевич": 28,
-      "Федулов Александр Михайлович": 192,
-      "Чухраев Александр Михайлович": 246,
-      "Против всех": 113
+      "gas:candidate-vibid:346300170939": 14,
+      "gas:candidate-vibid:1001000195087": 11,
+      "gas:candidate-vibid:1001000121858": 383,
+      "gas:candidate-vibid:1001000136068": 43,
+      "gas:candidate-vibid:1001000112220": 6,
+      "gas:candidate-vibid:1001000220819": 11,
+      "gas:candidate-vibid:1001000113940": 17,
+      "gas:candidate-vibid:1001000131398": 28,
+      "gas:candidate-vibid:1001000202312": 192,
+      "gas:candidate-vibid:1001000225947": 246,
+      "special:against-all": 113
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300170562&region=0&sub_region=0&type=429",
@@ -402,17 +402,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 12,
-      "Ещенко Денис Владимирович": 7,
-      "Иванов Николай Николаевич": 177,
-      "Иванов Сергей Владимирович": 32,
-      "Капелюш Александр Маратович": 1,
-      "Крюков Анатолий Федорович": 7,
-      "Сафонов Юрий Алексеевич": 4,
-      "Фалалеев Сергей Николаевич": 13,
-      "Федулов Александр Михайлович": 80,
-      "Чухраев Александр Михайлович": 102,
-      "Против всех": 52
+      "gas:candidate-vibid:346300170939": 12,
+      "gas:candidate-vibid:1001000195087": 7,
+      "gas:candidate-vibid:1001000121858": 177,
+      "gas:candidate-vibid:1001000136068": 32,
+      "gas:candidate-vibid:1001000112220": 1,
+      "gas:candidate-vibid:1001000220819": 7,
+      "gas:candidate-vibid:1001000113940": 4,
+      "gas:candidate-vibid:1001000131398": 13,
+      "gas:candidate-vibid:1001000202312": 80,
+      "gas:candidate-vibid:1001000225947": 102,
+      "special:against-all": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300170562&region=0&sub_region=0&type=429",
@@ -462,17 +462,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 8,
-      "Ещенко Денис Владимирович": 6,
-      "Иванов Николай Николаевич": 126,
-      "Иванов Сергей Владимирович": 18,
-      "Капелюш Александр Маратович": 2,
-      "Крюков Анатолий Федорович": 9,
-      "Сафонов Юрий Алексеевич": 4,
-      "Фалалеев Сергей Николаевич": 6,
-      "Федулов Александр Михайлович": 76,
-      "Чухраев Александр Михайлович": 57,
-      "Против всех": 39
+      "gas:candidate-vibid:346300170939": 8,
+      "gas:candidate-vibid:1001000195087": 6,
+      "gas:candidate-vibid:1001000121858": 126,
+      "gas:candidate-vibid:1001000136068": 18,
+      "gas:candidate-vibid:1001000112220": 2,
+      "gas:candidate-vibid:1001000220819": 9,
+      "gas:candidate-vibid:1001000113940": 4,
+      "gas:candidate-vibid:1001000131398": 6,
+      "gas:candidate-vibid:1001000202312": 76,
+      "gas:candidate-vibid:1001000225947": 57,
+      "special:against-all": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300170562&region=0&sub_region=0&type=429",
@@ -522,17 +522,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 10,
-      "Ещенко Денис Владимирович": 8,
-      "Иванов Николай Николаевич": 363,
-      "Иванов Сергей Владимирович": 44,
-      "Капелюш Александр Маратович": 8,
-      "Крюков Анатолий Федорович": 14,
-      "Сафонов Юрий Алексеевич": 10,
-      "Фалалеев Сергей Николаевич": 21,
-      "Федулов Александр Михайлович": 218,
-      "Чухраев Александр Михайлович": 186,
-      "Против всех": 88
+      "gas:candidate-vibid:346300170939": 10,
+      "gas:candidate-vibid:1001000195087": 8,
+      "gas:candidate-vibid:1001000121858": 363,
+      "gas:candidate-vibid:1001000136068": 44,
+      "gas:candidate-vibid:1001000112220": 8,
+      "gas:candidate-vibid:1001000220819": 14,
+      "gas:candidate-vibid:1001000113940": 10,
+      "gas:candidate-vibid:1001000131398": 21,
+      "gas:candidate-vibid:1001000202312": 218,
+      "gas:candidate-vibid:1001000225947": 186,
+      "special:against-all": 88
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300170562&region=0&sub_region=0&type=429",
@@ -582,17 +582,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 11,
-      "Ещенко Денис Владимирович": 0,
-      "Иванов Николай Николаевич": 54,
-      "Иванов Сергей Владимирович": 9,
-      "Капелюш Александр Маратович": 0,
-      "Крюков Анатолий Федорович": 8,
-      "Сафонов Юрий Алексеевич": 8,
-      "Фалалеев Сергей Николаевич": 18,
-      "Федулов Александр Михайлович": 37,
-      "Чухраев Александр Михайлович": 27,
-      "Против всех": 22
+      "gas:candidate-vibid:346300170939": 11,
+      "gas:candidate-vibid:1001000195087": 0,
+      "gas:candidate-vibid:1001000121858": 54,
+      "gas:candidate-vibid:1001000136068": 9,
+      "gas:candidate-vibid:1001000112220": 0,
+      "gas:candidate-vibid:1001000220819": 8,
+      "gas:candidate-vibid:1001000113940": 8,
+      "gas:candidate-vibid:1001000131398": 18,
+      "gas:candidate-vibid:1001000202312": 37,
+      "gas:candidate-vibid:1001000225947": 27,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172657&region=0&sub_region=0&type=429",
@@ -642,17 +642,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 6,
-      "Ещенко Денис Владимирович": 5,
-      "Иванов Николай Николаевич": 157,
-      "Иванов Сергей Владимирович": 44,
-      "Капелюш Александр Маратович": 5,
-      "Крюков Анатолий Федорович": 4,
-      "Сафонов Юрий Алексеевич": 9,
-      "Фалалеев Сергей Николаевич": 30,
-      "Федулов Александр Михайлович": 103,
-      "Чухраев Александр Михайлович": 140,
-      "Против всех": 107
+      "gas:candidate-vibid:346300170939": 6,
+      "gas:candidate-vibid:1001000195087": 5,
+      "gas:candidate-vibid:1001000121858": 157,
+      "gas:candidate-vibid:1001000136068": 44,
+      "gas:candidate-vibid:1001000112220": 5,
+      "gas:candidate-vibid:1001000220819": 4,
+      "gas:candidate-vibid:1001000113940": 9,
+      "gas:candidate-vibid:1001000131398": 30,
+      "gas:candidate-vibid:1001000202312": 103,
+      "gas:candidate-vibid:1001000225947": 140,
+      "special:against-all": 107
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172657&region=0&sub_region=0&type=429",
@@ -702,17 +702,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 5,
-      "Ещенко Денис Владимирович": 1,
-      "Иванов Николай Николаевич": 37,
-      "Иванов Сергей Владимирович": 15,
-      "Капелюш Александр Маратович": 2,
-      "Крюков Анатолий Федорович": 5,
-      "Сафонов Юрий Алексеевич": 2,
-      "Фалалеев Сергей Николаевич": 5,
-      "Федулов Александр Михайлович": 45,
-      "Чухраев Александр Михайлович": 32,
-      "Против всех": 21
+      "gas:candidate-vibid:346300170939": 5,
+      "gas:candidate-vibid:1001000195087": 1,
+      "gas:candidate-vibid:1001000121858": 37,
+      "gas:candidate-vibid:1001000136068": 15,
+      "gas:candidate-vibid:1001000112220": 2,
+      "gas:candidate-vibid:1001000220819": 5,
+      "gas:candidate-vibid:1001000113940": 2,
+      "gas:candidate-vibid:1001000131398": 5,
+      "gas:candidate-vibid:1001000202312": 45,
+      "gas:candidate-vibid:1001000225947": 32,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172657&region=0&sub_region=0&type=429",
@@ -762,17 +762,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 1,
-      "Ещенко Денис Владимирович": 3,
-      "Иванов Николай Николаевич": 30,
-      "Иванов Сергей Владимирович": 17,
-      "Капелюш Александр Маратович": 3,
-      "Крюков Анатолий Федорович": 4,
-      "Сафонов Юрий Алексеевич": 6,
-      "Фалалеев Сергей Николаевич": 6,
-      "Федулов Александр Михайлович": 43,
-      "Чухраев Александр Михайлович": 51,
-      "Против всех": 46
+      "gas:candidate-vibid:346300170939": 1,
+      "gas:candidate-vibid:1001000195087": 3,
+      "gas:candidate-vibid:1001000121858": 30,
+      "gas:candidate-vibid:1001000136068": 17,
+      "gas:candidate-vibid:1001000112220": 3,
+      "gas:candidate-vibid:1001000220819": 4,
+      "gas:candidate-vibid:1001000113940": 6,
+      "gas:candidate-vibid:1001000131398": 6,
+      "gas:candidate-vibid:1001000202312": 43,
+      "gas:candidate-vibid:1001000225947": 51,
+      "special:against-all": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172657&region=0&sub_region=0&type=429",
@@ -822,17 +822,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 6,
-      "Ещенко Денис Владимирович": 4,
-      "Иванов Николай Николаевич": 40,
-      "Иванов Сергей Владимирович": 12,
-      "Капелюш Александр Маратович": 2,
-      "Крюков Анатолий Федорович": 0,
-      "Сафонов Юрий Алексеевич": 0,
-      "Фалалеев Сергей Николаевич": 10,
-      "Федулов Александр Михайлович": 13,
-      "Чухраев Александр Михайлович": 19,
-      "Против всех": 16
+      "gas:candidate-vibid:346300170939": 6,
+      "gas:candidate-vibid:1001000195087": 4,
+      "gas:candidate-vibid:1001000121858": 40,
+      "gas:candidate-vibid:1001000136068": 12,
+      "gas:candidate-vibid:1001000112220": 2,
+      "gas:candidate-vibid:1001000220819": 0,
+      "gas:candidate-vibid:1001000113940": 0,
+      "gas:candidate-vibid:1001000131398": 10,
+      "gas:candidate-vibid:1001000202312": 13,
+      "gas:candidate-vibid:1001000225947": 19,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172657&region=0&sub_region=0&type=429",
@@ -882,17 +882,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 5,
-      "Ещенко Денис Владимирович": 9,
-      "Иванов Николай Николаевич": 69,
-      "Иванов Сергей Владимирович": 14,
-      "Капелюш Александр Маратович": 2,
-      "Крюков Анатолий Федорович": 1,
-      "Сафонов Юрий Алексеевич": 0,
-      "Фалалеев Сергей Николаевич": 7,
-      "Федулов Александр Михайлович": 32,
-      "Чухраев Александр Михайлович": 22,
-      "Против всех": 14
+      "gas:candidate-vibid:346300170939": 5,
+      "gas:candidate-vibid:1001000195087": 9,
+      "gas:candidate-vibid:1001000121858": 69,
+      "gas:candidate-vibid:1001000136068": 14,
+      "gas:candidate-vibid:1001000112220": 2,
+      "gas:candidate-vibid:1001000220819": 1,
+      "gas:candidate-vibid:1001000113940": 0,
+      "gas:candidate-vibid:1001000131398": 7,
+      "gas:candidate-vibid:1001000202312": 32,
+      "gas:candidate-vibid:1001000225947": 22,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172657&region=0&sub_region=0&type=429",
@@ -942,17 +942,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 2,
-      "Ещенко Денис Владимирович": 3,
-      "Иванов Николай Николаевич": 87,
-      "Иванов Сергей Владимирович": 19,
-      "Капелюш Александр Маратович": 1,
-      "Крюков Анатолий Федорович": 2,
-      "Сафонов Юрий Алексеевич": 2,
-      "Фалалеев Сергей Николаевич": 5,
-      "Федулов Александр Михайлович": 28,
-      "Чухраев Александр Михайлович": 94,
-      "Против всех": 37
+      "gas:candidate-vibid:346300170939": 2,
+      "gas:candidate-vibid:1001000195087": 3,
+      "gas:candidate-vibid:1001000121858": 87,
+      "gas:candidate-vibid:1001000136068": 19,
+      "gas:candidate-vibid:1001000112220": 1,
+      "gas:candidate-vibid:1001000220819": 2,
+      "gas:candidate-vibid:1001000113940": 2,
+      "gas:candidate-vibid:1001000131398": 5,
+      "gas:candidate-vibid:1001000202312": 28,
+      "gas:candidate-vibid:1001000225947": 94,
+      "special:against-all": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172657&region=0&sub_region=0&type=429",
@@ -1002,17 +1002,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 1,
-      "Ещенко Денис Владимирович": 1,
-      "Иванов Николай Николаевич": 31,
-      "Иванов Сергей Владимирович": 1,
-      "Капелюш Александр Маратович": 0,
-      "Крюков Анатолий Федорович": 10,
-      "Сафонов Юрий Алексеевич": 1,
-      "Фалалеев Сергей Николаевич": 1,
-      "Федулов Александр Михайлович": 14,
-      "Чухраев Александр Михайлович": 32,
-      "Против всех": 10
+      "gas:candidate-vibid:346300170939": 1,
+      "gas:candidate-vibid:1001000195087": 1,
+      "gas:candidate-vibid:1001000121858": 31,
+      "gas:candidate-vibid:1001000136068": 1,
+      "gas:candidate-vibid:1001000112220": 0,
+      "gas:candidate-vibid:1001000220819": 10,
+      "gas:candidate-vibid:1001000113940": 1,
+      "gas:candidate-vibid:1001000131398": 1,
+      "gas:candidate-vibid:1001000202312": 14,
+      "gas:candidate-vibid:1001000225947": 32,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172657&region=0&sub_region=0&type=429",
@@ -1062,17 +1062,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 7,
-      "Ещенко Денис Владимирович": 2,
-      "Иванов Николай Николаевич": 58,
-      "Иванов Сергей Владимирович": 18,
-      "Капелюш Александр Маратович": 2,
-      "Крюков Анатолий Федорович": 8,
-      "Сафонов Юрий Алексеевич": 4,
-      "Фалалеев Сергей Николаевич": 1,
-      "Федулов Александр Михайлович": 40,
-      "Чухраев Александр Михайлович": 50,
-      "Против всех": 28
+      "gas:candidate-vibid:346300170939": 7,
+      "gas:candidate-vibid:1001000195087": 2,
+      "gas:candidate-vibid:1001000121858": 58,
+      "gas:candidate-vibid:1001000136068": 18,
+      "gas:candidate-vibid:1001000112220": 2,
+      "gas:candidate-vibid:1001000220819": 8,
+      "gas:candidate-vibid:1001000113940": 4,
+      "gas:candidate-vibid:1001000131398": 1,
+      "gas:candidate-vibid:1001000202312": 40,
+      "gas:candidate-vibid:1001000225947": 50,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172657&region=0&sub_region=0&type=429",
@@ -1122,17 +1122,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 4,
-      "Ещенко Денис Владимирович": 5,
-      "Иванов Николай Николаевич": 57,
-      "Иванов Сергей Владимирович": 23,
-      "Капелюш Александр Маратович": 5,
-      "Крюков Анатолий Федорович": 19,
-      "Сафонов Юрий Алексеевич": 7,
-      "Фалалеев Сергей Николаевич": 4,
-      "Федулов Александр Михайлович": 52,
-      "Чухраев Александр Михайлович": 42,
-      "Против всех": 42
+      "gas:candidate-vibid:346300170939": 4,
+      "gas:candidate-vibid:1001000195087": 5,
+      "gas:candidate-vibid:1001000121858": 57,
+      "gas:candidate-vibid:1001000136068": 23,
+      "gas:candidate-vibid:1001000112220": 5,
+      "gas:candidate-vibid:1001000220819": 19,
+      "gas:candidate-vibid:1001000113940": 7,
+      "gas:candidate-vibid:1001000131398": 4,
+      "gas:candidate-vibid:1001000202312": 52,
+      "gas:candidate-vibid:1001000225947": 42,
+      "special:against-all": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172657&region=0&sub_region=0&type=429",
@@ -1182,17 +1182,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 6,
-      "Ещенко Денис Владимирович": 0,
-      "Иванов Николай Николаевич": 31,
-      "Иванов Сергей Владимирович": 12,
-      "Капелюш Александр Маратович": 0,
-      "Крюков Анатолий Федорович": 1,
-      "Сафонов Юрий Алексеевич": 1,
-      "Фалалеев Сергей Николаевич": 2,
-      "Федулов Александр Михайлович": 38,
-      "Чухраев Александр Михайлович": 31,
-      "Против всех": 22
+      "gas:candidate-vibid:346300170939": 6,
+      "gas:candidate-vibid:1001000195087": 0,
+      "gas:candidate-vibid:1001000121858": 31,
+      "gas:candidate-vibid:1001000136068": 12,
+      "gas:candidate-vibid:1001000112220": 0,
+      "gas:candidate-vibid:1001000220819": 1,
+      "gas:candidate-vibid:1001000113940": 1,
+      "gas:candidate-vibid:1001000131398": 2,
+      "gas:candidate-vibid:1001000202312": 38,
+      "gas:candidate-vibid:1001000225947": 31,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172657&region=0&sub_region=0&type=429",
@@ -1242,17 +1242,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 13,
-      "Ещенко Денис Владимирович": 7,
-      "Иванов Николай Николаевич": 122,
-      "Иванов Сергей Владимирович": 87,
-      "Капелюш Александр Маратович": 4,
-      "Крюков Анатолий Федорович": 21,
-      "Сафонов Юрий Алексеевич": 5,
-      "Фалалеев Сергей Николаевич": 19,
-      "Федулов Александр Михайлович": 310,
-      "Чухраев Александр Михайлович": 170,
-      "Против всех": 149
+      "gas:candidate-vibid:346300170939": 13,
+      "gas:candidate-vibid:1001000195087": 7,
+      "gas:candidate-vibid:1001000121858": 122,
+      "gas:candidate-vibid:1001000136068": 87,
+      "gas:candidate-vibid:1001000112220": 4,
+      "gas:candidate-vibid:1001000220819": 21,
+      "gas:candidate-vibid:1001000113940": 5,
+      "gas:candidate-vibid:1001000131398": 19,
+      "gas:candidate-vibid:1001000202312": 310,
+      "gas:candidate-vibid:1001000225947": 170,
+      "special:against-all": 149
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172657&region=0&sub_region=0&type=429",
@@ -1302,17 +1302,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 5,
-      "Ещенко Денис Владимирович": 5,
-      "Иванов Николай Николаевич": 104,
-      "Иванов Сергей Владимирович": 38,
-      "Капелюш Александр Маратович": 5,
-      "Крюков Анатолий Федорович": 13,
-      "Сафонов Юрий Алексеевич": 4,
-      "Фалалеев Сергей Николаевич": 13,
-      "Федулов Александр Михайлович": 204,
-      "Чухраев Александр Михайлович": 135,
-      "Против всех": 103
+      "gas:candidate-vibid:346300170939": 5,
+      "gas:candidate-vibid:1001000195087": 5,
+      "gas:candidate-vibid:1001000121858": 104,
+      "gas:candidate-vibid:1001000136068": 38,
+      "gas:candidate-vibid:1001000112220": 5,
+      "gas:candidate-vibid:1001000220819": 13,
+      "gas:candidate-vibid:1001000113940": 4,
+      "gas:candidate-vibid:1001000131398": 13,
+      "gas:candidate-vibid:1001000202312": 204,
+      "gas:candidate-vibid:1001000225947": 135,
+      "special:against-all": 103
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172657&region=0&sub_region=0&type=429",
@@ -1362,17 +1362,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 7,
-      "Ещенко Денис Владимирович": 4,
-      "Иванов Николай Николаевич": 31,
-      "Иванов Сергей Владимирович": 20,
-      "Капелюш Александр Маратович": 1,
-      "Крюков Анатолий Федорович": 8,
-      "Сафонов Юрий Алексеевич": 2,
-      "Фалалеев Сергей Николаевич": 11,
-      "Федулов Александр Михайлович": 67,
-      "Чухраев Александр Михайлович": 50,
-      "Против всех": 47
+      "gas:candidate-vibid:346300170939": 7,
+      "gas:candidate-vibid:1001000195087": 4,
+      "gas:candidate-vibid:1001000121858": 31,
+      "gas:candidate-vibid:1001000136068": 20,
+      "gas:candidate-vibid:1001000112220": 1,
+      "gas:candidate-vibid:1001000220819": 8,
+      "gas:candidate-vibid:1001000113940": 2,
+      "gas:candidate-vibid:1001000131398": 11,
+      "gas:candidate-vibid:1001000202312": 67,
+      "gas:candidate-vibid:1001000225947": 50,
+      "special:against-all": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172657&region=0&sub_region=0&type=429",
@@ -1422,17 +1422,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 6,
-      "Ещенко Денис Владимирович": 1,
-      "Иванов Николай Николаевич": 27,
-      "Иванов Сергей Владимирович": 13,
-      "Капелюш Александр Маратович": 2,
-      "Крюков Анатолий Федорович": 4,
-      "Сафонов Юрий Алексеевич": 0,
-      "Фалалеев Сергей Николаевич": 6,
-      "Федулов Александр Михайлович": 65,
-      "Чухраев Александр Михайлович": 38,
-      "Против всех": 40
+      "gas:candidate-vibid:346300170939": 6,
+      "gas:candidate-vibid:1001000195087": 1,
+      "gas:candidate-vibid:1001000121858": 27,
+      "gas:candidate-vibid:1001000136068": 13,
+      "gas:candidate-vibid:1001000112220": 2,
+      "gas:candidate-vibid:1001000220819": 4,
+      "gas:candidate-vibid:1001000113940": 0,
+      "gas:candidate-vibid:1001000131398": 6,
+      "gas:candidate-vibid:1001000202312": 65,
+      "gas:candidate-vibid:1001000225947": 38,
+      "special:against-all": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172657&region=0&sub_region=0&type=429",
@@ -1482,17 +1482,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 12,
-      "Ещенко Денис Владимирович": 4,
-      "Иванов Николай Николаевич": 125,
-      "Иванов Сергей Владимирович": 56,
-      "Капелюш Александр Маратович": 9,
-      "Крюков Анатолий Федорович": 19,
-      "Сафонов Юрий Алексеевич": 5,
-      "Фалалеев Сергей Николаевич": 23,
-      "Федулов Александр Михайлович": 108,
-      "Чухраев Александр Михайлович": 255,
-      "Против всех": 149
+      "gas:candidate-vibid:346300170939": 12,
+      "gas:candidate-vibid:1001000195087": 4,
+      "gas:candidate-vibid:1001000121858": 125,
+      "gas:candidate-vibid:1001000136068": 56,
+      "gas:candidate-vibid:1001000112220": 9,
+      "gas:candidate-vibid:1001000220819": 19,
+      "gas:candidate-vibid:1001000113940": 5,
+      "gas:candidate-vibid:1001000131398": 23,
+      "gas:candidate-vibid:1001000202312": 108,
+      "gas:candidate-vibid:1001000225947": 255,
+      "special:against-all": 149
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172657&region=0&sub_region=0&type=429",
@@ -1542,17 +1542,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 10,
-      "Ещенко Денис Владимирович": 1,
-      "Иванов Николай Николаевич": 67,
-      "Иванов Сергей Владимирович": 49,
-      "Капелюш Александр Маратович": 6,
-      "Крюков Анатолий Федорович": 8,
-      "Сафонов Юрий Алексеевич": 2,
-      "Фалалеев Сергей Николаевич": 23,
-      "Федулов Александр Михайлович": 90,
-      "Чухраев Александр Михайлович": 133,
-      "Против всех": 145
+      "gas:candidate-vibid:346300170939": 10,
+      "gas:candidate-vibid:1001000195087": 1,
+      "gas:candidate-vibid:1001000121858": 67,
+      "gas:candidate-vibid:1001000136068": 49,
+      "gas:candidate-vibid:1001000112220": 6,
+      "gas:candidate-vibid:1001000220819": 8,
+      "gas:candidate-vibid:1001000113940": 2,
+      "gas:candidate-vibid:1001000131398": 23,
+      "gas:candidate-vibid:1001000202312": 90,
+      "gas:candidate-vibid:1001000225947": 133,
+      "special:against-all": 145
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172657&region=0&sub_region=0&type=429",
@@ -1602,17 +1602,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 12,
-      "Ещенко Денис Владимирович": 4,
-      "Иванов Николай Николаевич": 23,
-      "Иванов Сергей Владимирович": 16,
-      "Капелюш Александр Маратович": 6,
-      "Крюков Анатолий Федорович": 2,
-      "Сафонов Юрий Алексеевич": 3,
-      "Фалалеев Сергей Николаевич": 12,
-      "Федулов Александр Михайлович": 85,
-      "Чухраев Александр Михайлович": 50,
-      "Против всех": 78
+      "gas:candidate-vibid:346300170939": 12,
+      "gas:candidate-vibid:1001000195087": 4,
+      "gas:candidate-vibid:1001000121858": 23,
+      "gas:candidate-vibid:1001000136068": 16,
+      "gas:candidate-vibid:1001000112220": 6,
+      "gas:candidate-vibid:1001000220819": 2,
+      "gas:candidate-vibid:1001000113940": 3,
+      "gas:candidate-vibid:1001000131398": 12,
+      "gas:candidate-vibid:1001000202312": 85,
+      "gas:candidate-vibid:1001000225947": 50,
+      "special:against-all": 78
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172657&region=0&sub_region=0&type=429",
@@ -1662,17 +1662,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 12,
-      "Ещенко Денис Владимирович": 3,
-      "Иванов Николай Николаевич": 83,
-      "Иванов Сергей Владимирович": 65,
-      "Капелюш Александр Маратович": 31,
-      "Крюков Анатолий Федорович": 26,
-      "Сафонов Юрий Алексеевич": 20,
-      "Фалалеев Сергей Николаевич": 38,
-      "Федулов Александр Михайлович": 192,
-      "Чухраев Александр Михайлович": 226,
-      "Против всех": 225
+      "gas:candidate-vibid:346300170939": 12,
+      "gas:candidate-vibid:1001000195087": 3,
+      "gas:candidate-vibid:1001000121858": 83,
+      "gas:candidate-vibid:1001000136068": 65,
+      "gas:candidate-vibid:1001000112220": 31,
+      "gas:candidate-vibid:1001000220819": 26,
+      "gas:candidate-vibid:1001000113940": 20,
+      "gas:candidate-vibid:1001000131398": 38,
+      "gas:candidate-vibid:1001000202312": 192,
+      "gas:candidate-vibid:1001000225947": 226,
+      "special:against-all": 225
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172657&region=0&sub_region=0&type=429",
@@ -1722,17 +1722,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 24,
-      "Ещенко Денис Владимирович": 26,
-      "Иванов Николай Николаевич": 94,
-      "Иванов Сергей Владимирович": 105,
-      "Капелюш Александр Маратович": 18,
-      "Крюков Анатолий Федорович": 21,
-      "Сафонов Юрий Алексеевич": 26,
-      "Фалалеев Сергей Николаевич": 34,
-      "Федулов Александр Михайлович": 226,
-      "Чухраев Александр Михайлович": 476,
-      "Против всех": 447
+      "gas:candidate-vibid:346300170939": 24,
+      "gas:candidate-vibid:1001000195087": 26,
+      "gas:candidate-vibid:1001000121858": 94,
+      "gas:candidate-vibid:1001000136068": 105,
+      "gas:candidate-vibid:1001000112220": 18,
+      "gas:candidate-vibid:1001000220819": 21,
+      "gas:candidate-vibid:1001000113940": 26,
+      "gas:candidate-vibid:1001000131398": 34,
+      "gas:candidate-vibid:1001000202312": 226,
+      "gas:candidate-vibid:1001000225947": 476,
+      "special:against-all": 447
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172657&region=0&sub_region=0&type=429",
@@ -1782,17 +1782,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 0,
-      "Ещенко Денис Владимирович": 3,
-      "Иванов Николай Николаевич": 24,
-      "Иванов Сергей Владимирович": 18,
-      "Капелюш Александр Маратович": 1,
-      "Крюков Анатолий Федорович": 1,
-      "Сафонов Юрий Алексеевич": 3,
-      "Фалалеев Сергей Николаевич": 3,
-      "Федулов Александр Михайлович": 24,
-      "Чухраев Александр Михайлович": 135,
-      "Против всех": 10
+      "gas:candidate-vibid:346300170939": 0,
+      "gas:candidate-vibid:1001000195087": 3,
+      "gas:candidate-vibid:1001000121858": 24,
+      "gas:candidate-vibid:1001000136068": 18,
+      "gas:candidate-vibid:1001000112220": 1,
+      "gas:candidate-vibid:1001000220819": 1,
+      "gas:candidate-vibid:1001000113940": 3,
+      "gas:candidate-vibid:1001000131398": 3,
+      "gas:candidate-vibid:1001000202312": 24,
+      "gas:candidate-vibid:1001000225947": 135,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172657&region=0&sub_region=0&type=429",
@@ -1842,17 +1842,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 5,
-      "Ещенко Денис Владимирович": 3,
-      "Иванов Николай Николаевич": 16,
-      "Иванов Сергей Владимирович": 18,
-      "Капелюш Александр Маратович": 1,
-      "Крюков Анатолий Федорович": 0,
-      "Сафонов Юрий Алексеевич": 2,
-      "Фалалеев Сергей Николаевич": 8,
-      "Федулов Александр Михайлович": 63,
-      "Чухраев Александр Михайлович": 75,
-      "Против всех": 23
+      "gas:candidate-vibid:346300170939": 5,
+      "gas:candidate-vibid:1001000195087": 3,
+      "gas:candidate-vibid:1001000121858": 16,
+      "gas:candidate-vibid:1001000136068": 18,
+      "gas:candidate-vibid:1001000112220": 1,
+      "gas:candidate-vibid:1001000220819": 0,
+      "gas:candidate-vibid:1001000113940": 2,
+      "gas:candidate-vibid:1001000131398": 8,
+      "gas:candidate-vibid:1001000202312": 63,
+      "gas:candidate-vibid:1001000225947": 75,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172657&region=0&sub_region=0&type=429",
@@ -1902,17 +1902,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 4,
-      "Ещенко Денис Владимирович": 1,
-      "Иванов Николай Николаевич": 32,
-      "Иванов Сергей Владимирович": 7,
-      "Капелюш Александр Маратович": 0,
-      "Крюков Анатолий Федорович": 4,
-      "Сафонов Юрий Алексеевич": 2,
-      "Фалалеев Сергей Николаевич": 6,
-      "Федулов Александр Михайлович": 57,
-      "Чухраев Александр Михайлович": 92,
-      "Против всех": 19
+      "gas:candidate-vibid:346300170939": 4,
+      "gas:candidate-vibid:1001000195087": 1,
+      "gas:candidate-vibid:1001000121858": 32,
+      "gas:candidate-vibid:1001000136068": 7,
+      "gas:candidate-vibid:1001000112220": 0,
+      "gas:candidate-vibid:1001000220819": 4,
+      "gas:candidate-vibid:1001000113940": 2,
+      "gas:candidate-vibid:1001000131398": 6,
+      "gas:candidate-vibid:1001000202312": 57,
+      "gas:candidate-vibid:1001000225947": 92,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172657&region=0&sub_region=0&type=429",
@@ -1962,17 +1962,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 10,
-      "Ещенко Денис Владимирович": 16,
-      "Иванов Николай Николаевич": 137,
-      "Иванов Сергей Владимирович": 50,
-      "Капелюш Александр Маратович": 3,
-      "Крюков Анатолий Федорович": 17,
-      "Сафонов Юрий Алексеевич": 4,
-      "Фалалеев Сергей Николаевич": 14,
-      "Федулов Александр Михайлович": 100,
-      "Чухраев Александр Михайлович": 133,
-      "Против всех": 79
+      "gas:candidate-vibid:346300170939": 10,
+      "gas:candidate-vibid:1001000195087": 16,
+      "gas:candidate-vibid:1001000121858": 137,
+      "gas:candidate-vibid:1001000136068": 50,
+      "gas:candidate-vibid:1001000112220": 3,
+      "gas:candidate-vibid:1001000220819": 17,
+      "gas:candidate-vibid:1001000113940": 4,
+      "gas:candidate-vibid:1001000131398": 14,
+      "gas:candidate-vibid:1001000202312": 100,
+      "gas:candidate-vibid:1001000225947": 133,
+      "special:against-all": 79
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172657&region=0&sub_region=0&type=429",
@@ -2022,17 +2022,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 10,
-      "Ещенко Денис Владимирович": 1,
-      "Иванов Николай Николаевич": 51,
-      "Иванов Сергей Владимирович": 33,
-      "Капелюш Александр Маратович": 1,
-      "Крюков Анатолий Федорович": 8,
-      "Сафонов Юрий Алексеевич": 4,
-      "Фалалеев Сергей Николаевич": 10,
-      "Федулов Александр Михайлович": 79,
-      "Чухраев Александр Михайлович": 36,
-      "Против всех": 54
+      "gas:candidate-vibid:346300170939": 10,
+      "gas:candidate-vibid:1001000195087": 1,
+      "gas:candidate-vibid:1001000121858": 51,
+      "gas:candidate-vibid:1001000136068": 33,
+      "gas:candidate-vibid:1001000112220": 1,
+      "gas:candidate-vibid:1001000220819": 8,
+      "gas:candidate-vibid:1001000113940": 4,
+      "gas:candidate-vibid:1001000131398": 10,
+      "gas:candidate-vibid:1001000202312": 79,
+      "gas:candidate-vibid:1001000225947": 36,
+      "special:against-all": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172657&region=0&sub_region=0&type=429",
@@ -2082,17 +2082,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 3,
-      "Ещенко Денис Владимирович": 0,
-      "Иванов Николай Николаевич": 31,
-      "Иванов Сергей Владимирович": 13,
-      "Капелюш Александр Маратович": 0,
-      "Крюков Анатолий Федорович": 0,
-      "Сафонов Юрий Алексеевич": 1,
-      "Фалалеев Сергей Николаевич": 0,
-      "Федулов Александр Михайлович": 20,
-      "Чухраев Александр Михайлович": 23,
-      "Против всех": 14
+      "gas:candidate-vibid:346300170939": 3,
+      "gas:candidate-vibid:1001000195087": 0,
+      "gas:candidate-vibid:1001000121858": 31,
+      "gas:candidate-vibid:1001000136068": 13,
+      "gas:candidate-vibid:1001000112220": 0,
+      "gas:candidate-vibid:1001000220819": 0,
+      "gas:candidate-vibid:1001000113940": 1,
+      "gas:candidate-vibid:1001000131398": 0,
+      "gas:candidate-vibid:1001000202312": 20,
+      "gas:candidate-vibid:1001000225947": 23,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172657&region=0&sub_region=0&type=429",
@@ -2142,17 +2142,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 14,
-      "Ещенко Денис Владимирович": 1,
-      "Иванов Николай Николаевич": 49,
-      "Иванов Сергей Владимирович": 26,
-      "Капелюш Александр Маратович": 0,
-      "Крюков Анатолий Федорович": 24,
-      "Сафонов Юрий Алексеевич": 3,
-      "Фалалеев Сергей Николаевич": 7,
-      "Федулов Александр Михайлович": 76,
-      "Чухраев Александр Михайлович": 48,
-      "Против всех": 43
+      "gas:candidate-vibid:346300170939": 14,
+      "gas:candidate-vibid:1001000195087": 1,
+      "gas:candidate-vibid:1001000121858": 49,
+      "gas:candidate-vibid:1001000136068": 26,
+      "gas:candidate-vibid:1001000112220": 0,
+      "gas:candidate-vibid:1001000220819": 24,
+      "gas:candidate-vibid:1001000113940": 3,
+      "gas:candidate-vibid:1001000131398": 7,
+      "gas:candidate-vibid:1001000202312": 76,
+      "gas:candidate-vibid:1001000225947": 48,
+      "special:against-all": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172657&region=0&sub_region=0&type=429",
@@ -2202,17 +2202,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 7,
-      "Ещенко Денис Владимирович": 5,
-      "Иванов Николай Николаевич": 115,
-      "Иванов Сергей Владимирович": 82,
-      "Капелюш Александр Маратович": 25,
-      "Крюков Анатолий Федорович": 12,
-      "Сафонов Юрий Алексеевич": 6,
-      "Фалалеев Сергей Николаевич": 9,
-      "Федулов Александр Михайлович": 165,
-      "Чухраев Александр Михайлович": 233,
-      "Против всех": 166
+      "gas:candidate-vibid:346300170939": 7,
+      "gas:candidate-vibid:1001000195087": 5,
+      "gas:candidate-vibid:1001000121858": 115,
+      "gas:candidate-vibid:1001000136068": 82,
+      "gas:candidate-vibid:1001000112220": 25,
+      "gas:candidate-vibid:1001000220819": 12,
+      "gas:candidate-vibid:1001000113940": 6,
+      "gas:candidate-vibid:1001000131398": 9,
+      "gas:candidate-vibid:1001000202312": 165,
+      "gas:candidate-vibid:1001000225947": 233,
+      "special:against-all": 166
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172657&region=0&sub_region=0&type=429",
@@ -2262,17 +2262,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 6,
-      "Ещенко Денис Владимирович": 3,
-      "Иванов Николай Николаевич": 14,
-      "Иванов Сергей Владимирович": 8,
-      "Капелюш Александр Маратович": 2,
-      "Крюков Анатолий Федорович": 1,
-      "Сафонов Юрий Алексеевич": 2,
-      "Фалалеев Сергей Николаевич": 5,
-      "Федулов Александр Михайлович": 72,
-      "Чухраев Александр Михайлович": 26,
-      "Против всех": 24
+      "gas:candidate-vibid:346300170939": 6,
+      "gas:candidate-vibid:1001000195087": 3,
+      "gas:candidate-vibid:1001000121858": 14,
+      "gas:candidate-vibid:1001000136068": 8,
+      "gas:candidate-vibid:1001000112220": 2,
+      "gas:candidate-vibid:1001000220819": 1,
+      "gas:candidate-vibid:1001000113940": 2,
+      "gas:candidate-vibid:1001000131398": 5,
+      "gas:candidate-vibid:1001000202312": 72,
+      "gas:candidate-vibid:1001000225947": 26,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172657&region=0&sub_region=0&type=429",
@@ -2322,17 +2322,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 1,
-      "Ещенко Денис Владимирович": 1,
-      "Иванов Николай Николаевич": 18,
-      "Иванов Сергей Владимирович": 14,
-      "Капелюш Александр Маратович": 8,
-      "Крюков Анатолий Федорович": 1,
-      "Сафонов Юрий Алексеевич": 4,
-      "Фалалеев Сергей Николаевич": 5,
-      "Федулов Александр Михайлович": 42,
-      "Чухраев Александр Михайлович": 16,
-      "Против всех": 12
+      "gas:candidate-vibid:346300170939": 1,
+      "gas:candidate-vibid:1001000195087": 1,
+      "gas:candidate-vibid:1001000121858": 18,
+      "gas:candidate-vibid:1001000136068": 14,
+      "gas:candidate-vibid:1001000112220": 8,
+      "gas:candidate-vibid:1001000220819": 1,
+      "gas:candidate-vibid:1001000113940": 4,
+      "gas:candidate-vibid:1001000131398": 5,
+      "gas:candidate-vibid:1001000202312": 42,
+      "gas:candidate-vibid:1001000225947": 16,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172657&region=0&sub_region=0&type=429",
@@ -2382,17 +2382,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 3,
-      "Ещенко Денис Владимирович": 0,
-      "Иванов Николай Николаевич": 110,
-      "Иванов Сергей Владимирович": 22,
-      "Капелюш Александр Маратович": 1,
-      "Крюков Анатолий Федорович": 9,
-      "Сафонов Юрий Алексеевич": 3,
-      "Фалалеев Сергей Николаевич": 8,
-      "Федулов Александр Михайлович": 32,
-      "Чухраев Александр Михайлович": 41,
-      "Против всех": 23
+      "gas:candidate-vibid:346300170939": 3,
+      "gas:candidate-vibid:1001000195087": 0,
+      "gas:candidate-vibid:1001000121858": 110,
+      "gas:candidate-vibid:1001000136068": 22,
+      "gas:candidate-vibid:1001000112220": 1,
+      "gas:candidate-vibid:1001000220819": 9,
+      "gas:candidate-vibid:1001000113940": 3,
+      "gas:candidate-vibid:1001000131398": 8,
+      "gas:candidate-vibid:1001000202312": 32,
+      "gas:candidate-vibid:1001000225947": 41,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172657&region=0&sub_region=0&type=429",
@@ -2442,17 +2442,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 2,
-      "Ещенко Денис Владимирович": 0,
-      "Иванов Николай Николаевич": 39,
-      "Иванов Сергей Владимирович": 12,
-      "Капелюш Александр Маратович": 0,
-      "Крюков Анатолий Федорович": 6,
-      "Сафонов Юрий Алексеевич": 2,
-      "Фалалеев Сергей Николаевич": 5,
-      "Федулов Александр Михайлович": 14,
-      "Чухраев Александр Михайлович": 11,
-      "Против всех": 8
+      "gas:candidate-vibid:346300170939": 2,
+      "gas:candidate-vibid:1001000195087": 0,
+      "gas:candidate-vibid:1001000121858": 39,
+      "gas:candidate-vibid:1001000136068": 12,
+      "gas:candidate-vibid:1001000112220": 0,
+      "gas:candidate-vibid:1001000220819": 6,
+      "gas:candidate-vibid:1001000113940": 2,
+      "gas:candidate-vibid:1001000131398": 5,
+      "gas:candidate-vibid:1001000202312": 14,
+      "gas:candidate-vibid:1001000225947": 11,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172657&region=0&sub_region=0&type=429",
@@ -2502,17 +2502,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 0,
-      "Ещенко Денис Владимирович": 2,
-      "Иванов Николай Николаевич": 41,
-      "Иванов Сергей Владимирович": 14,
-      "Капелюш Александр Маратович": 2,
-      "Крюков Анатолий Федорович": 7,
-      "Сафонов Юрий Алексеевич": 3,
-      "Фалалеев Сергей Николаевич": 1,
-      "Федулов Александр Михайлович": 81,
-      "Чухраев Александр Михайлович": 95,
-      "Против всех": 30
+      "gas:candidate-vibid:346300170939": 0,
+      "gas:candidate-vibid:1001000195087": 2,
+      "gas:candidate-vibid:1001000121858": 41,
+      "gas:candidate-vibid:1001000136068": 14,
+      "gas:candidate-vibid:1001000112220": 2,
+      "gas:candidate-vibid:1001000220819": 7,
+      "gas:candidate-vibid:1001000113940": 3,
+      "gas:candidate-vibid:1001000131398": 1,
+      "gas:candidate-vibid:1001000202312": 81,
+      "gas:candidate-vibid:1001000225947": 95,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172657&region=0&sub_region=0&type=429",
@@ -2562,17 +2562,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 7,
-      "Ещенко Денис Владимирович": 3,
-      "Иванов Николай Николаевич": 37,
-      "Иванов Сергей Владимирович": 7,
-      "Капелюш Александр Маратович": 1,
-      "Крюков Анатолий Федорович": 11,
-      "Сафонов Юрий Алексеевич": 3,
-      "Фалалеев Сергей Николаевич": 11,
-      "Федулов Александр Михайлович": 58,
-      "Чухраев Александр Михайлович": 139,
-      "Против всех": 47
+      "gas:candidate-vibid:346300170939": 7,
+      "gas:candidate-vibid:1001000195087": 3,
+      "gas:candidate-vibid:1001000121858": 37,
+      "gas:candidate-vibid:1001000136068": 7,
+      "gas:candidate-vibid:1001000112220": 1,
+      "gas:candidate-vibid:1001000220819": 11,
+      "gas:candidate-vibid:1001000113940": 3,
+      "gas:candidate-vibid:1001000131398": 11,
+      "gas:candidate-vibid:1001000202312": 58,
+      "gas:candidate-vibid:1001000225947": 139,
+      "special:against-all": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172657&region=0&sub_region=0&type=429",
@@ -2622,17 +2622,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 6,
-      "Ещенко Денис Владимирович": 2,
-      "Иванов Николай Николаевич": 43,
-      "Иванов Сергей Владимирович": 22,
-      "Капелюш Александр Маратович": 9,
-      "Крюков Анатолий Федорович": 11,
-      "Сафонов Юрий Алексеевич": 2,
-      "Фалалеев Сергей Николаевич": 16,
-      "Федулов Александр Михайлович": 124,
-      "Чухраев Александр Михайлович": 78,
-      "Против всех": 54
+      "gas:candidate-vibid:346300170939": 6,
+      "gas:candidate-vibid:1001000195087": 2,
+      "gas:candidate-vibid:1001000121858": 43,
+      "gas:candidate-vibid:1001000136068": 22,
+      "gas:candidate-vibid:1001000112220": 9,
+      "gas:candidate-vibid:1001000220819": 11,
+      "gas:candidate-vibid:1001000113940": 2,
+      "gas:candidate-vibid:1001000131398": 16,
+      "gas:candidate-vibid:1001000202312": 124,
+      "gas:candidate-vibid:1001000225947": 78,
+      "special:against-all": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172657&region=0&sub_region=0&type=429",
@@ -2682,17 +2682,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 6,
-      "Ещенко Денис Владимирович": 7,
-      "Иванов Николай Николаевич": 150,
-      "Иванов Сергей Владимирович": 57,
-      "Капелюш Александр Маратович": 5,
-      "Крюков Анатолий Федорович": 12,
-      "Сафонов Юрий Алексеевич": 1,
-      "Фалалеев Сергей Николаевич": 21,
-      "Федулов Александр Михайлович": 209,
-      "Чухраев Александр Михайлович": 164,
-      "Против всех": 90
+      "gas:candidate-vibid:346300170939": 6,
+      "gas:candidate-vibid:1001000195087": 7,
+      "gas:candidate-vibid:1001000121858": 150,
+      "gas:candidate-vibid:1001000136068": 57,
+      "gas:candidate-vibid:1001000112220": 5,
+      "gas:candidate-vibid:1001000220819": 12,
+      "gas:candidate-vibid:1001000113940": 1,
+      "gas:candidate-vibid:1001000131398": 21,
+      "gas:candidate-vibid:1001000202312": 209,
+      "gas:candidate-vibid:1001000225947": 164,
+      "special:against-all": 90
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172657&region=0&sub_region=0&type=429",
@@ -2742,17 +2742,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 1,
-      "Ещенко Денис Владимирович": 1,
-      "Иванов Николай Николаевич": 16,
-      "Иванов Сергей Владимирович": 20,
-      "Капелюш Александр Маратович": 3,
-      "Крюков Анатолий Федорович": 7,
-      "Сафонов Юрий Алексеевич": 1,
-      "Фалалеев Сергей Николаевич": 2,
-      "Федулов Александр Михайлович": 37,
-      "Чухраев Александр Михайлович": 53,
-      "Против всех": 24
+      "gas:candidate-vibid:346300170939": 1,
+      "gas:candidate-vibid:1001000195087": 1,
+      "gas:candidate-vibid:1001000121858": 16,
+      "gas:candidate-vibid:1001000136068": 20,
+      "gas:candidate-vibid:1001000112220": 3,
+      "gas:candidate-vibid:1001000220819": 7,
+      "gas:candidate-vibid:1001000113940": 1,
+      "gas:candidate-vibid:1001000131398": 2,
+      "gas:candidate-vibid:1001000202312": 37,
+      "gas:candidate-vibid:1001000225947": 53,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172657&region=0&sub_region=0&type=429",
@@ -2802,17 +2802,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 3,
-      "Ещенко Денис Владимирович": 1,
-      "Иванов Николай Николаевич": 63,
-      "Иванов Сергей Владимирович": 11,
-      "Капелюш Александр Маратович": 0,
-      "Крюков Анатолий Федорович": 1,
-      "Сафонов Юрий Алексеевич": 1,
-      "Фалалеев Сергей Николаевич": 7,
-      "Федулов Александр Михайлович": 51,
-      "Чухраев Александр Михайлович": 59,
-      "Против всех": 24
+      "gas:candidate-vibid:346300170939": 3,
+      "gas:candidate-vibid:1001000195087": 1,
+      "gas:candidate-vibid:1001000121858": 63,
+      "gas:candidate-vibid:1001000136068": 11,
+      "gas:candidate-vibid:1001000112220": 0,
+      "gas:candidate-vibid:1001000220819": 1,
+      "gas:candidate-vibid:1001000113940": 1,
+      "gas:candidate-vibid:1001000131398": 7,
+      "gas:candidate-vibid:1001000202312": 51,
+      "gas:candidate-vibid:1001000225947": 59,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172657&region=0&sub_region=0&type=429",
@@ -2862,17 +2862,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 9,
-      "Ещенко Денис Владимирович": 5,
-      "Иванов Николай Николаевич": 45,
-      "Иванов Сергей Владимирович": 40,
-      "Капелюш Александр Маратович": 0,
-      "Крюков Анатолий Федорович": 3,
-      "Сафонов Юрий Алексеевич": 10,
-      "Фалалеев Сергей Николаевич": 10,
-      "Федулов Александр Михайлович": 55,
-      "Чухраев Александр Михайлович": 225,
-      "Против всех": 60
+      "gas:candidate-vibid:346300170939": 9,
+      "gas:candidate-vibid:1001000195087": 5,
+      "gas:candidate-vibid:1001000121858": 45,
+      "gas:candidate-vibid:1001000136068": 40,
+      "gas:candidate-vibid:1001000112220": 0,
+      "gas:candidate-vibid:1001000220819": 3,
+      "gas:candidate-vibid:1001000113940": 10,
+      "gas:candidate-vibid:1001000131398": 10,
+      "gas:candidate-vibid:1001000202312": 55,
+      "gas:candidate-vibid:1001000225947": 225,
+      "special:against-all": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172657&region=0&sub_region=0&type=429",
@@ -2922,17 +2922,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 1,
-      "Ещенко Денис Владимирович": 0,
-      "Иванов Николай Николаевич": 38,
-      "Иванов Сергей Владимирович": 9,
-      "Капелюш Александр Маратович": 1,
-      "Крюков Анатолий Федорович": 0,
-      "Сафонов Юрий Алексеевич": 5,
-      "Фалалеев Сергей Николаевич": 6,
-      "Федулов Александр Михайлович": 53,
-      "Чухраев Александр Михайлович": 39,
-      "Против всех": 21
+      "gas:candidate-vibid:346300170939": 1,
+      "gas:candidate-vibid:1001000195087": 0,
+      "gas:candidate-vibid:1001000121858": 38,
+      "gas:candidate-vibid:1001000136068": 9,
+      "gas:candidate-vibid:1001000112220": 1,
+      "gas:candidate-vibid:1001000220819": 0,
+      "gas:candidate-vibid:1001000113940": 5,
+      "gas:candidate-vibid:1001000131398": 6,
+      "gas:candidate-vibid:1001000202312": 53,
+      "gas:candidate-vibid:1001000225947": 39,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172657&region=0&sub_region=0&type=429",
@@ -2982,17 +2982,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 3,
-      "Ещенко Денис Владимирович": 1,
-      "Иванов Николай Николаевич": 28,
-      "Иванов Сергей Владимирович": 9,
-      "Капелюш Александр Маратович": 0,
-      "Крюков Анатолий Федорович": 4,
-      "Сафонов Юрий Алексеевич": 4,
-      "Фалалеев Сергей Николаевич": 11,
-      "Федулов Александр Михайлович": 48,
-      "Чухраев Александр Михайлович": 36,
-      "Против всех": 11
+      "gas:candidate-vibid:346300170939": 3,
+      "gas:candidate-vibid:1001000195087": 1,
+      "gas:candidate-vibid:1001000121858": 28,
+      "gas:candidate-vibid:1001000136068": 9,
+      "gas:candidate-vibid:1001000112220": 0,
+      "gas:candidate-vibid:1001000220819": 4,
+      "gas:candidate-vibid:1001000113940": 4,
+      "gas:candidate-vibid:1001000131398": 11,
+      "gas:candidate-vibid:1001000202312": 48,
+      "gas:candidate-vibid:1001000225947": 36,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172657&region=0&sub_region=0&type=429",
@@ -3042,17 +3042,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 2,
-      "Ещенко Денис Владимирович": 5,
-      "Иванов Николай Николаевич": 39,
-      "Иванов Сергей Владимирович": 11,
-      "Капелюш Александр Маратович": 1,
-      "Крюков Анатолий Федорович": 7,
-      "Сафонов Юрий Алексеевич": 2,
-      "Фалалеев Сергей Николаевич": 5,
-      "Федулов Александр Михайлович": 57,
-      "Чухраев Александр Михайлович": 59,
-      "Против всех": 21
+      "gas:candidate-vibid:346300170939": 2,
+      "gas:candidate-vibid:1001000195087": 5,
+      "gas:candidate-vibid:1001000121858": 39,
+      "gas:candidate-vibid:1001000136068": 11,
+      "gas:candidate-vibid:1001000112220": 1,
+      "gas:candidate-vibid:1001000220819": 7,
+      "gas:candidate-vibid:1001000113940": 2,
+      "gas:candidate-vibid:1001000131398": 5,
+      "gas:candidate-vibid:1001000202312": 57,
+      "gas:candidate-vibid:1001000225947": 59,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172657&region=0&sub_region=0&type=429",
@@ -3102,17 +3102,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 20,
-      "Ещенко Денис Владимирович": 12,
-      "Иванов Николай Николаевич": 90,
-      "Иванов Сергей Владимирович": 50,
-      "Капелюш Александр Маратович": 1,
-      "Крюков Анатолий Федорович": 13,
-      "Сафонов Юрий Алексеевич": 7,
-      "Фалалеев Сергей Николаевич": 31,
-      "Федулов Александр Михайлович": 163,
-      "Чухраев Александр Михайлович": 204,
-      "Против всех": 84
+      "gas:candidate-vibid:346300170939": 20,
+      "gas:candidate-vibid:1001000195087": 12,
+      "gas:candidate-vibid:1001000121858": 90,
+      "gas:candidate-vibid:1001000136068": 50,
+      "gas:candidate-vibid:1001000112220": 1,
+      "gas:candidate-vibid:1001000220819": 13,
+      "gas:candidate-vibid:1001000113940": 7,
+      "gas:candidate-vibid:1001000131398": 31,
+      "gas:candidate-vibid:1001000202312": 163,
+      "gas:candidate-vibid:1001000225947": 204,
+      "special:against-all": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172657&region=0&sub_region=0&type=429",
@@ -3162,17 +3162,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 17,
-      "Ещенко Денис Владимирович": 6,
-      "Иванов Николай Николаевич": 78,
-      "Иванов Сергей Владимирович": 41,
-      "Капелюш Александр Маратович": 5,
-      "Крюков Анатолий Федорович": 15,
-      "Сафонов Юрий Алексеевич": 6,
-      "Фалалеев Сергей Николаевич": 17,
-      "Федулов Александр Михайлович": 87,
-      "Чухраев Александр Михайлович": 102,
-      "Против всех": 65
+      "gas:candidate-vibid:346300170939": 17,
+      "gas:candidate-vibid:1001000195087": 6,
+      "gas:candidate-vibid:1001000121858": 78,
+      "gas:candidate-vibid:1001000136068": 41,
+      "gas:candidate-vibid:1001000112220": 5,
+      "gas:candidate-vibid:1001000220819": 15,
+      "gas:candidate-vibid:1001000113940": 6,
+      "gas:candidate-vibid:1001000131398": 17,
+      "gas:candidate-vibid:1001000202312": 87,
+      "gas:candidate-vibid:1001000225947": 102,
+      "special:against-all": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172657&region=0&sub_region=0&type=429",
@@ -3222,17 +3222,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 3,
-      "Ещенко Денис Владимирович": 3,
-      "Иванов Николай Николаевич": 10,
-      "Иванов Сергей Владимирович": 5,
-      "Капелюш Александр Маратович": 3,
-      "Крюков Анатолий Федорович": 2,
-      "Сафонов Юрий Алексеевич": 2,
-      "Фалалеев Сергей Николаевич": 2,
-      "Федулов Александр Михайлович": 27,
-      "Чухраев Александр Михайлович": 7,
-      "Против всех": 6
+      "gas:candidate-vibid:346300170939": 3,
+      "gas:candidate-vibid:1001000195087": 3,
+      "gas:candidate-vibid:1001000121858": 10,
+      "gas:candidate-vibid:1001000136068": 5,
+      "gas:candidate-vibid:1001000112220": 3,
+      "gas:candidate-vibid:1001000220819": 2,
+      "gas:candidate-vibid:1001000113940": 2,
+      "gas:candidate-vibid:1001000131398": 2,
+      "gas:candidate-vibid:1001000202312": 27,
+      "gas:candidate-vibid:1001000225947": 7,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172657&region=0&sub_region=0&type=429",
@@ -3282,17 +3282,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 6,
-      "Ещенко Денис Владимирович": 1,
-      "Иванов Николай Николаевич": 26,
-      "Иванов Сергей Владимирович": 18,
-      "Капелюш Александр Маратович": 2,
-      "Крюков Анатолий Федорович": 4,
-      "Сафонов Юрий Алексеевич": 0,
-      "Фалалеев Сергей Николаевич": 6,
-      "Федулов Александр Михайлович": 39,
-      "Чухраев Александр Михайлович": 80,
-      "Против всех": 22
+      "gas:candidate-vibid:346300170939": 6,
+      "gas:candidate-vibid:1001000195087": 1,
+      "gas:candidate-vibid:1001000121858": 26,
+      "gas:candidate-vibid:1001000136068": 18,
+      "gas:candidate-vibid:1001000112220": 2,
+      "gas:candidate-vibid:1001000220819": 4,
+      "gas:candidate-vibid:1001000113940": 0,
+      "gas:candidate-vibid:1001000131398": 6,
+      "gas:candidate-vibid:1001000202312": 39,
+      "gas:candidate-vibid:1001000225947": 80,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172657&region=0&sub_region=0&type=429",
@@ -3342,17 +3342,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 0,
-      "Ещенко Денис Владимирович": 0,
-      "Иванов Николай Николаевич": 9,
-      "Иванов Сергей Владимирович": 13,
-      "Капелюш Александр Маратович": 3,
-      "Крюков Анатолий Федорович": 0,
-      "Сафонов Юрий Алексеевич": 1,
-      "Фалалеев Сергей Николаевич": 0,
-      "Федулов Александр Михайлович": 37,
-      "Чухраев Александр Михайлович": 52,
-      "Против всех": 4
+      "gas:candidate-vibid:346300170939": 0,
+      "gas:candidate-vibid:1001000195087": 0,
+      "gas:candidate-vibid:1001000121858": 9,
+      "gas:candidate-vibid:1001000136068": 13,
+      "gas:candidate-vibid:1001000112220": 3,
+      "gas:candidate-vibid:1001000220819": 0,
+      "gas:candidate-vibid:1001000113940": 1,
+      "gas:candidate-vibid:1001000131398": 0,
+      "gas:candidate-vibid:1001000202312": 37,
+      "gas:candidate-vibid:1001000225947": 52,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172657&region=0&sub_region=0&type=429",
@@ -3402,17 +3402,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 15,
-      "Ещенко Денис Владимирович": 6,
-      "Иванов Николай Николаевич": 82,
-      "Иванов Сергей Владимирович": 40,
-      "Капелюш Александр Маратович": 7,
-      "Крюков Анатолий Федорович": 14,
-      "Сафонов Юрий Алексеевич": 3,
-      "Фалалеев Сергей Николаевич": 21,
-      "Федулов Александр Михайлович": 157,
-      "Чухраев Александр Михайлович": 146,
-      "Против всех": 96
+      "gas:candidate-vibid:346300170939": 15,
+      "gas:candidate-vibid:1001000195087": 6,
+      "gas:candidate-vibid:1001000121858": 82,
+      "gas:candidate-vibid:1001000136068": 40,
+      "gas:candidate-vibid:1001000112220": 7,
+      "gas:candidate-vibid:1001000220819": 14,
+      "gas:candidate-vibid:1001000113940": 3,
+      "gas:candidate-vibid:1001000131398": 21,
+      "gas:candidate-vibid:1001000202312": 157,
+      "gas:candidate-vibid:1001000225947": 146,
+      "special:against-all": 96
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172657&region=0&sub_region=0&type=429",
@@ -3462,17 +3462,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 5,
-      "Ещенко Денис Владимирович": 5,
-      "Иванов Николай Николаевич": 61,
-      "Иванов Сергей Владимирович": 42,
-      "Капелюш Александр Маратович": 5,
-      "Крюков Анатолий Федорович": 15,
-      "Сафонов Юрий Алексеевич": 3,
-      "Фалалеев Сергей Николаевич": 9,
-      "Федулов Александр Михайлович": 165,
-      "Чухраев Александр Михайлович": 133,
-      "Против всех": 70
+      "gas:candidate-vibid:346300170939": 5,
+      "gas:candidate-vibid:1001000195087": 5,
+      "gas:candidate-vibid:1001000121858": 61,
+      "gas:candidate-vibid:1001000136068": 42,
+      "gas:candidate-vibid:1001000112220": 5,
+      "gas:candidate-vibid:1001000220819": 15,
+      "gas:candidate-vibid:1001000113940": 3,
+      "gas:candidate-vibid:1001000131398": 9,
+      "gas:candidate-vibid:1001000202312": 165,
+      "gas:candidate-vibid:1001000225947": 133,
+      "special:against-all": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172657&region=0&sub_region=0&type=429",
@@ -3522,17 +3522,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 4,
-      "Ещенко Денис Владимирович": 8,
-      "Иванов Николай Николаевич": 41,
-      "Иванов Сергей Владимирович": 18,
-      "Капелюш Александр Маратович": 1,
-      "Крюков Анатолий Федорович": 7,
-      "Сафонов Юрий Алексеевич": 5,
-      "Фалалеев Сергей Николаевич": 8,
-      "Федулов Александр Михайлович": 42,
-      "Чухраев Александр Михайлович": 68,
-      "Против всех": 28
+      "gas:candidate-vibid:346300170939": 4,
+      "gas:candidate-vibid:1001000195087": 8,
+      "gas:candidate-vibid:1001000121858": 41,
+      "gas:candidate-vibid:1001000136068": 18,
+      "gas:candidate-vibid:1001000112220": 1,
+      "gas:candidate-vibid:1001000220819": 7,
+      "gas:candidate-vibid:1001000113940": 5,
+      "gas:candidate-vibid:1001000131398": 8,
+      "gas:candidate-vibid:1001000202312": 42,
+      "gas:candidate-vibid:1001000225947": 68,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172657&region=0&sub_region=0&type=429",
@@ -3582,17 +3582,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 0,
-      "Ещенко Денис Владимирович": 3,
-      "Иванов Николай Николаевич": 9,
-      "Иванов Сергей Владимирович": 7,
-      "Капелюш Александр Маратович": 0,
-      "Крюков Анатолий Федорович": 12,
-      "Сафонов Юрий Алексеевич": 2,
-      "Фалалеев Сергей Николаевич": 5,
-      "Федулов Александр Михайлович": 24,
-      "Чухраев Александр Михайлович": 22,
-      "Против всех": 13
+      "gas:candidate-vibid:346300170939": 0,
+      "gas:candidate-vibid:1001000195087": 3,
+      "gas:candidate-vibid:1001000121858": 9,
+      "gas:candidate-vibid:1001000136068": 7,
+      "gas:candidate-vibid:1001000112220": 0,
+      "gas:candidate-vibid:1001000220819": 12,
+      "gas:candidate-vibid:1001000113940": 2,
+      "gas:candidate-vibid:1001000131398": 5,
+      "gas:candidate-vibid:1001000202312": 24,
+      "gas:candidate-vibid:1001000225947": 22,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172657&region=0&sub_region=0&type=429",
@@ -3642,17 +3642,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 2,
-      "Ещенко Денис Владимирович": 5,
-      "Иванов Николай Николаевич": 24,
-      "Иванов Сергей Владимирович": 10,
-      "Капелюш Александр Маратович": 1,
-      "Крюков Анатолий Федорович": 4,
-      "Сафонов Юрий Алексеевич": 0,
-      "Фалалеев Сергей Николаевич": 2,
-      "Федулов Александр Михайлович": 12,
-      "Чухраев Александр Михайлович": 68,
-      "Против всех": 7
+      "gas:candidate-vibid:346300170939": 2,
+      "gas:candidate-vibid:1001000195087": 5,
+      "gas:candidate-vibid:1001000121858": 24,
+      "gas:candidate-vibid:1001000136068": 10,
+      "gas:candidate-vibid:1001000112220": 1,
+      "gas:candidate-vibid:1001000220819": 4,
+      "gas:candidate-vibid:1001000113940": 0,
+      "gas:candidate-vibid:1001000131398": 2,
+      "gas:candidate-vibid:1001000202312": 12,
+      "gas:candidate-vibid:1001000225947": 68,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172657&region=0&sub_region=0&type=429",
@@ -3702,17 +3702,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 0,
-      "Ещенко Денис Владимирович": 1,
-      "Иванов Николай Николаевич": 69,
-      "Иванов Сергей Владимирович": 7,
-      "Капелюш Александр Маратович": 0,
-      "Крюков Анатолий Федорович": 2,
-      "Сафонов Юрий Алексеевич": 1,
-      "Фалалеев Сергей Николаевич": 0,
-      "Федулов Александр Михайлович": 16,
-      "Чухраев Александр Михайлович": 56,
-      "Против всех": 9
+      "gas:candidate-vibid:346300170939": 0,
+      "gas:candidate-vibid:1001000195087": 1,
+      "gas:candidate-vibid:1001000121858": 69,
+      "gas:candidate-vibid:1001000136068": 7,
+      "gas:candidate-vibid:1001000112220": 0,
+      "gas:candidate-vibid:1001000220819": 2,
+      "gas:candidate-vibid:1001000113940": 1,
+      "gas:candidate-vibid:1001000131398": 0,
+      "gas:candidate-vibid:1001000202312": 16,
+      "gas:candidate-vibid:1001000225947": 56,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172657&region=0&sub_region=0&type=429",
@@ -3762,17 +3762,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 14,
-      "Ещенко Денис Владимирович": 5,
-      "Иванов Николай Николаевич": 56,
-      "Иванов Сергей Владимирович": 22,
-      "Капелюш Александр Маратович": 2,
-      "Крюков Анатолий Федорович": 3,
-      "Сафонов Юрий Алексеевич": 5,
-      "Фалалеев Сергей Николаевич": 9,
-      "Федулов Александр Михайлович": 103,
-      "Чухраев Александр Михайлович": 187,
-      "Против всех": 67
+      "gas:candidate-vibid:346300170939": 14,
+      "gas:candidate-vibid:1001000195087": 5,
+      "gas:candidate-vibid:1001000121858": 56,
+      "gas:candidate-vibid:1001000136068": 22,
+      "gas:candidate-vibid:1001000112220": 2,
+      "gas:candidate-vibid:1001000220819": 3,
+      "gas:candidate-vibid:1001000113940": 5,
+      "gas:candidate-vibid:1001000131398": 9,
+      "gas:candidate-vibid:1001000202312": 103,
+      "gas:candidate-vibid:1001000225947": 187,
+      "special:against-all": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172657&region=0&sub_region=0&type=429",
@@ -3822,17 +3822,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 2,
-      "Ещенко Денис Владимирович": 3,
-      "Иванов Николай Николаевич": 112,
-      "Иванов Сергей Владимирович": 30,
-      "Капелюш Александр Маратович": 1,
-      "Крюков Анатолий Федорович": 4,
-      "Сафонов Юрий Алексеевич": 4,
-      "Фалалеев Сергей Николаевич": 10,
-      "Федулов Александр Михайлович": 64,
-      "Чухраев Александр Михайлович": 108,
-      "Против всех": 36
+      "gas:candidate-vibid:346300170939": 2,
+      "gas:candidate-vibid:1001000195087": 3,
+      "gas:candidate-vibid:1001000121858": 112,
+      "gas:candidate-vibid:1001000136068": 30,
+      "gas:candidate-vibid:1001000112220": 1,
+      "gas:candidate-vibid:1001000220819": 4,
+      "gas:candidate-vibid:1001000113940": 4,
+      "gas:candidate-vibid:1001000131398": 10,
+      "gas:candidate-vibid:1001000202312": 64,
+      "gas:candidate-vibid:1001000225947": 108,
+      "special:against-all": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172657&region=0&sub_region=0&type=429",
@@ -3882,17 +3882,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 3,
-      "Ещенко Денис Владимирович": 2,
-      "Иванов Николай Николаевич": 31,
-      "Иванов Сергей Владимирович": 20,
-      "Капелюш Александр Маратович": 10,
-      "Крюков Анатолий Федорович": 10,
-      "Сафонов Юрий Алексеевич": 4,
-      "Фалалеев Сергей Николаевич": 7,
-      "Федулов Александр Михайлович": 51,
-      "Чухраев Александр Михайлович": 84,
-      "Против всех": 44
+      "gas:candidate-vibid:346300170939": 3,
+      "gas:candidate-vibid:1001000195087": 2,
+      "gas:candidate-vibid:1001000121858": 31,
+      "gas:candidate-vibid:1001000136068": 20,
+      "gas:candidate-vibid:1001000112220": 10,
+      "gas:candidate-vibid:1001000220819": 10,
+      "gas:candidate-vibid:1001000113940": 4,
+      "gas:candidate-vibid:1001000131398": 7,
+      "gas:candidate-vibid:1001000202312": 51,
+      "gas:candidate-vibid:1001000225947": 84,
+      "special:against-all": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172657&region=0&sub_region=0&type=429",
@@ -3942,17 +3942,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 8,
-      "Ещенко Денис Владимирович": 4,
-      "Иванов Николай Николаевич": 89,
-      "Иванов Сергей Владимирович": 42,
-      "Капелюш Александр Маратович": 2,
-      "Крюков Анатолий Федорович": 6,
-      "Сафонов Юрий Алексеевич": 0,
-      "Фалалеев Сергей Николаевич": 8,
-      "Федулов Александр Михайлович": 98,
-      "Чухраев Александр Михайлович": 121,
-      "Против всех": 89
+      "gas:candidate-vibid:346300170939": 8,
+      "gas:candidate-vibid:1001000195087": 4,
+      "gas:candidate-vibid:1001000121858": 89,
+      "gas:candidate-vibid:1001000136068": 42,
+      "gas:candidate-vibid:1001000112220": 2,
+      "gas:candidate-vibid:1001000220819": 6,
+      "gas:candidate-vibid:1001000113940": 0,
+      "gas:candidate-vibid:1001000131398": 8,
+      "gas:candidate-vibid:1001000202312": 98,
+      "gas:candidate-vibid:1001000225947": 121,
+      "special:against-all": 89
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172657&region=0&sub_region=0&type=429",
@@ -4002,17 +4002,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 4,
-      "Ещенко Денис Владимирович": 2,
-      "Иванов Николай Николаевич": 34,
-      "Иванов Сергей Владимирович": 17,
-      "Капелюш Александр Маратович": 6,
-      "Крюков Анатолий Федорович": 4,
-      "Сафонов Юрий Алексеевич": 1,
-      "Фалалеев Сергей Николаевич": 11,
-      "Федулов Александр Михайлович": 61,
-      "Чухраев Александр Михайлович": 229,
-      "Против всех": 53
+      "gas:candidate-vibid:346300170939": 4,
+      "gas:candidate-vibid:1001000195087": 2,
+      "gas:candidate-vibid:1001000121858": 34,
+      "gas:candidate-vibid:1001000136068": 17,
+      "gas:candidate-vibid:1001000112220": 6,
+      "gas:candidate-vibid:1001000220819": 4,
+      "gas:candidate-vibid:1001000113940": 1,
+      "gas:candidate-vibid:1001000131398": 11,
+      "gas:candidate-vibid:1001000202312": 61,
+      "gas:candidate-vibid:1001000225947": 229,
+      "special:against-all": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172657&region=0&sub_region=0&type=429",
@@ -4062,17 +4062,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 8,
-      "Ещенко Денис Владимирович": 5,
-      "Иванов Николай Николаевич": 98,
-      "Иванов Сергей Владимирович": 46,
-      "Капелюш Александр Маратович": 7,
-      "Крюков Анатолий Федорович": 10,
-      "Сафонов Юрий Алексеевич": 8,
-      "Фалалеев Сергей Николаевич": 16,
-      "Федулов Александр Михайлович": 82,
-      "Чухраев Александр Михайлович": 167,
-      "Против всех": 150
+      "gas:candidate-vibid:346300170939": 8,
+      "gas:candidate-vibid:1001000195087": 5,
+      "gas:candidate-vibid:1001000121858": 98,
+      "gas:candidate-vibid:1001000136068": 46,
+      "gas:candidate-vibid:1001000112220": 7,
+      "gas:candidate-vibid:1001000220819": 10,
+      "gas:candidate-vibid:1001000113940": 8,
+      "gas:candidate-vibid:1001000131398": 16,
+      "gas:candidate-vibid:1001000202312": 82,
+      "gas:candidate-vibid:1001000225947": 167,
+      "special:against-all": 150
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172657&region=0&sub_region=0&type=429",
@@ -4122,17 +4122,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 0,
-      "Ещенко Денис Владимирович": 2,
-      "Иванов Николай Николаевич": 28,
-      "Иванов Сергей Владимирович": 5,
-      "Капелюш Александр Маратович": 1,
-      "Крюков Анатолий Федорович": 1,
-      "Сафонов Юрий Алексеевич": 1,
-      "Фалалеев Сергей Николаевич": 4,
-      "Федулов Александр Михайлович": 19,
-      "Чухраев Александр Михайлович": 36,
-      "Против всех": 14
+      "gas:candidate-vibid:346300170939": 0,
+      "gas:candidate-vibid:1001000195087": 2,
+      "gas:candidate-vibid:1001000121858": 28,
+      "gas:candidate-vibid:1001000136068": 5,
+      "gas:candidate-vibid:1001000112220": 1,
+      "gas:candidate-vibid:1001000220819": 1,
+      "gas:candidate-vibid:1001000113940": 1,
+      "gas:candidate-vibid:1001000131398": 4,
+      "gas:candidate-vibid:1001000202312": 19,
+      "gas:candidate-vibid:1001000225947": 36,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172657&region=0&sub_region=0&type=429",
@@ -4182,17 +4182,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 6,
-      "Ещенко Денис Владимирович": 3,
-      "Иванов Николай Николаевич": 44,
-      "Иванов Сергей Владимирович": 32,
-      "Капелюш Александр Маратович": 6,
-      "Крюков Анатолий Федорович": 3,
-      "Сафонов Юрий Алексеевич": 6,
-      "Фалалеев Сергей Николаевич": 7,
-      "Федулов Александр Михайлович": 61,
-      "Чухраев Александр Михайлович": 56,
-      "Против всех": 67
+      "gas:candidate-vibid:346300170939": 6,
+      "gas:candidate-vibid:1001000195087": 3,
+      "gas:candidate-vibid:1001000121858": 44,
+      "gas:candidate-vibid:1001000136068": 32,
+      "gas:candidate-vibid:1001000112220": 6,
+      "gas:candidate-vibid:1001000220819": 3,
+      "gas:candidate-vibid:1001000113940": 6,
+      "gas:candidate-vibid:1001000131398": 7,
+      "gas:candidate-vibid:1001000202312": 61,
+      "gas:candidate-vibid:1001000225947": 56,
+      "special:against-all": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172657&region=0&sub_region=0&type=429",
@@ -4242,17 +4242,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 12,
-      "Ещенко Денис Владимирович": 12,
-      "Иванов Николай Николаевич": 55,
-      "Иванов Сергей Владимирович": 91,
-      "Капелюш Александр Маратович": 15,
-      "Крюков Анатолий Федорович": 34,
-      "Сафонов Юрий Алексеевич": 11,
-      "Фалалеев Сергей Николаевич": 15,
-      "Федулов Александр Михайлович": 189,
-      "Чухраев Александр Михайлович": 200,
-      "Против всех": 248
+      "gas:candidate-vibid:346300170939": 12,
+      "gas:candidate-vibid:1001000195087": 12,
+      "gas:candidate-vibid:1001000121858": 55,
+      "gas:candidate-vibid:1001000136068": 91,
+      "gas:candidate-vibid:1001000112220": 15,
+      "gas:candidate-vibid:1001000220819": 34,
+      "gas:candidate-vibid:1001000113940": 11,
+      "gas:candidate-vibid:1001000131398": 15,
+      "gas:candidate-vibid:1001000202312": 189,
+      "gas:candidate-vibid:1001000225947": 200,
+      "special:against-all": 248
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172657&region=0&sub_region=0&type=429",
@@ -4302,17 +4302,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 10,
-      "Ещенко Денис Владимирович": 1,
-      "Иванов Николай Николаевич": 101,
-      "Иванов Сергей Владимирович": 37,
-      "Капелюш Александр Маратович": 15,
-      "Крюков Анатолий Федорович": 35,
-      "Сафонов Юрий Алексеевич": 6,
-      "Фалалеев Сергей Николаевич": 25,
-      "Федулов Александр Михайлович": 166,
-      "Чухраев Александр Михайлович": 198,
-      "Против всех": 221
+      "gas:candidate-vibid:346300170939": 10,
+      "gas:candidate-vibid:1001000195087": 1,
+      "gas:candidate-vibid:1001000121858": 101,
+      "gas:candidate-vibid:1001000136068": 37,
+      "gas:candidate-vibid:1001000112220": 15,
+      "gas:candidate-vibid:1001000220819": 35,
+      "gas:candidate-vibid:1001000113940": 6,
+      "gas:candidate-vibid:1001000131398": 25,
+      "gas:candidate-vibid:1001000202312": 166,
+      "gas:candidate-vibid:1001000225947": 198,
+      "special:against-all": 221
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172704&region=0&sub_region=0&type=429",
@@ -4362,17 +4362,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 11,
-      "Ещенко Денис Владимирович": 4,
-      "Иванов Николай Николаевич": 153,
-      "Иванов Сергей Владимирович": 62,
-      "Капелюш Александр Маратович": 17,
-      "Крюков Анатолий Федорович": 44,
-      "Сафонов Юрий Алексеевич": 6,
-      "Фалалеев Сергей Николаевич": 24,
-      "Федулов Александр Михайлович": 235,
-      "Чухраев Александр Михайлович": 225,
-      "Против всех": 204
+      "gas:candidate-vibid:346300170939": 11,
+      "gas:candidate-vibid:1001000195087": 4,
+      "gas:candidate-vibid:1001000121858": 153,
+      "gas:candidate-vibid:1001000136068": 62,
+      "gas:candidate-vibid:1001000112220": 17,
+      "gas:candidate-vibid:1001000220819": 44,
+      "gas:candidate-vibid:1001000113940": 6,
+      "gas:candidate-vibid:1001000131398": 24,
+      "gas:candidate-vibid:1001000202312": 235,
+      "gas:candidate-vibid:1001000225947": 225,
+      "special:against-all": 204
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172704&region=0&sub_region=0&type=429",
@@ -4422,17 +4422,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 10,
-      "Ещенко Денис Владимирович": 4,
-      "Иванов Николай Николаевич": 83,
-      "Иванов Сергей Владимирович": 23,
-      "Капелюш Александр Маратович": 7,
-      "Крюков Анатолий Федорович": 17,
-      "Сафонов Юрий Алексеевич": 2,
-      "Фалалеев Сергей Николаевич": 19,
-      "Федулов Александр Михайлович": 88,
-      "Чухраев Александр Михайлович": 153,
-      "Против всех": 129
+      "gas:candidate-vibid:346300170939": 10,
+      "gas:candidate-vibid:1001000195087": 4,
+      "gas:candidate-vibid:1001000121858": 83,
+      "gas:candidate-vibid:1001000136068": 23,
+      "gas:candidate-vibid:1001000112220": 7,
+      "gas:candidate-vibid:1001000220819": 17,
+      "gas:candidate-vibid:1001000113940": 2,
+      "gas:candidate-vibid:1001000131398": 19,
+      "gas:candidate-vibid:1001000202312": 88,
+      "gas:candidate-vibid:1001000225947": 153,
+      "special:against-all": 129
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172704&region=0&sub_region=0&type=429",
@@ -4482,17 +4482,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 20,
-      "Ещенко Денис Владимирович": 1,
-      "Иванов Николай Николаевич": 169,
-      "Иванов Сергей Владимирович": 71,
-      "Капелюш Александр Маратович": 31,
-      "Крюков Анатолий Федорович": 42,
-      "Сафонов Юрий Алексеевич": 13,
-      "Фалалеев Сергей Николаевич": 53,
-      "Федулов Александр Михайлович": 202,
-      "Чухраев Александр Михайлович": 323,
-      "Против всех": 219
+      "gas:candidate-vibid:346300170939": 20,
+      "gas:candidate-vibid:1001000195087": 1,
+      "gas:candidate-vibid:1001000121858": 169,
+      "gas:candidate-vibid:1001000136068": 71,
+      "gas:candidate-vibid:1001000112220": 31,
+      "gas:candidate-vibid:1001000220819": 42,
+      "gas:candidate-vibid:1001000113940": 13,
+      "gas:candidate-vibid:1001000131398": 53,
+      "gas:candidate-vibid:1001000202312": 202,
+      "gas:candidate-vibid:1001000225947": 323,
+      "special:against-all": 219
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172704&region=0&sub_region=0&type=429",
@@ -4542,17 +4542,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 5,
-      "Ещенко Денис Владимирович": 1,
-      "Иванов Николай Николаевич": 86,
-      "Иванов Сергей Владимирович": 49,
-      "Капелюш Александр Маратович": 13,
-      "Крюков Анатолий Федорович": 25,
-      "Сафонов Юрий Алексеевич": 5,
-      "Фалалеев Сергей Николаевич": 15,
-      "Федулов Александр Михайлович": 70,
-      "Чухраев Александр Михайлович": 137,
-      "Против всех": 87
+      "gas:candidate-vibid:346300170939": 5,
+      "gas:candidate-vibid:1001000195087": 1,
+      "gas:candidate-vibid:1001000121858": 86,
+      "gas:candidate-vibid:1001000136068": 49,
+      "gas:candidate-vibid:1001000112220": 13,
+      "gas:candidate-vibid:1001000220819": 25,
+      "gas:candidate-vibid:1001000113940": 5,
+      "gas:candidate-vibid:1001000131398": 15,
+      "gas:candidate-vibid:1001000202312": 70,
+      "gas:candidate-vibid:1001000225947": 137,
+      "special:against-all": 87
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172704&region=0&sub_region=0&type=429",
@@ -4602,17 +4602,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 17,
-      "Ещенко Денис Владимирович": 4,
-      "Иванов Николай Николаевич": 69,
-      "Иванов Сергей Владимирович": 26,
-      "Капелюш Александр Маратович": 16,
-      "Крюков Анатолий Федорович": 27,
-      "Сафонов Юрий Алексеевич": 6,
-      "Фалалеев Сергей Николаевич": 16,
-      "Федулов Александр Михайлович": 132,
-      "Чухраев Александр Михайлович": 118,
-      "Против всех": 91
+      "gas:candidate-vibid:346300170939": 17,
+      "gas:candidate-vibid:1001000195087": 4,
+      "gas:candidate-vibid:1001000121858": 69,
+      "gas:candidate-vibid:1001000136068": 26,
+      "gas:candidate-vibid:1001000112220": 16,
+      "gas:candidate-vibid:1001000220819": 27,
+      "gas:candidate-vibid:1001000113940": 6,
+      "gas:candidate-vibid:1001000131398": 16,
+      "gas:candidate-vibid:1001000202312": 132,
+      "gas:candidate-vibid:1001000225947": 118,
+      "special:against-all": 91
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172704&region=0&sub_region=0&type=429",
@@ -4662,17 +4662,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 27,
-      "Ещенко Денис Владимирович": 8,
-      "Иванов Николай Николаевич": 132,
-      "Иванов Сергей Владимирович": 69,
-      "Капелюш Александр Маратович": 22,
-      "Крюков Анатолий Федорович": 39,
-      "Сафонов Юрий Алексеевич": 6,
-      "Фалалеев Сергей Николаевич": 35,
-      "Федулов Александр Михайлович": 184,
-      "Чухраев Александр Михайлович": 264,
-      "Против всех": 207
+      "gas:candidate-vibid:346300170939": 27,
+      "gas:candidate-vibid:1001000195087": 8,
+      "gas:candidate-vibid:1001000121858": 132,
+      "gas:candidate-vibid:1001000136068": 69,
+      "gas:candidate-vibid:1001000112220": 22,
+      "gas:candidate-vibid:1001000220819": 39,
+      "gas:candidate-vibid:1001000113940": 6,
+      "gas:candidate-vibid:1001000131398": 35,
+      "gas:candidate-vibid:1001000202312": 184,
+      "gas:candidate-vibid:1001000225947": 264,
+      "special:against-all": 207
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172704&region=0&sub_region=0&type=429",
@@ -4722,17 +4722,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 7,
-      "Ещенко Денис Владимирович": 4,
-      "Иванов Николай Николаевич": 76,
-      "Иванов Сергей Владимирович": 22,
-      "Капелюш Александр Маратович": 14,
-      "Крюков Анатолий Федорович": 15,
-      "Сафонов Юрий Алексеевич": 7,
-      "Фалалеев Сергей Николаевич": 18,
-      "Федулов Александр Михайлович": 100,
-      "Чухраев Александр Михайлович": 154,
-      "Против всех": 123
+      "gas:candidate-vibid:346300170939": 7,
+      "gas:candidate-vibid:1001000195087": 4,
+      "gas:candidate-vibid:1001000121858": 76,
+      "gas:candidate-vibid:1001000136068": 22,
+      "gas:candidate-vibid:1001000112220": 14,
+      "gas:candidate-vibid:1001000220819": 15,
+      "gas:candidate-vibid:1001000113940": 7,
+      "gas:candidate-vibid:1001000131398": 18,
+      "gas:candidate-vibid:1001000202312": 100,
+      "gas:candidate-vibid:1001000225947": 154,
+      "special:against-all": 123
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172704&region=0&sub_region=0&type=429",
@@ -4782,17 +4782,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 7,
-      "Ещенко Денис Владимирович": 3,
-      "Иванов Николай Николаевич": 113,
-      "Иванов Сергей Владимирович": 31,
-      "Капелюш Александр Маратович": 14,
-      "Крюков Анатолий Федорович": 18,
-      "Сафонов Юрий Алексеевич": 11,
-      "Фалалеев Сергей Николаевич": 20,
-      "Федулов Александр Михайлович": 181,
-      "Чухраев Александр Михайлович": 179,
-      "Против всех": 152
+      "gas:candidate-vibid:346300170939": 7,
+      "gas:candidate-vibid:1001000195087": 3,
+      "gas:candidate-vibid:1001000121858": 113,
+      "gas:candidate-vibid:1001000136068": 31,
+      "gas:candidate-vibid:1001000112220": 14,
+      "gas:candidate-vibid:1001000220819": 18,
+      "gas:candidate-vibid:1001000113940": 11,
+      "gas:candidate-vibid:1001000131398": 20,
+      "gas:candidate-vibid:1001000202312": 181,
+      "gas:candidate-vibid:1001000225947": 179,
+      "special:against-all": 152
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172704&region=0&sub_region=0&type=429",
@@ -4842,17 +4842,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 7,
-      "Ещенко Денис Владимирович": 3,
-      "Иванов Николай Николаевич": 138,
-      "Иванов Сергей Владимирович": 70,
-      "Капелюш Александр Маратович": 11,
-      "Крюков Анатолий Федорович": 34,
-      "Сафонов Юрий Алексеевич": 9,
-      "Фалалеев Сергей Николаевич": 35,
-      "Федулов Александр Михайлович": 162,
-      "Чухраев Александр Михайлович": 199,
-      "Против всех": 144
+      "gas:candidate-vibid:346300170939": 7,
+      "gas:candidate-vibid:1001000195087": 3,
+      "gas:candidate-vibid:1001000121858": 138,
+      "gas:candidate-vibid:1001000136068": 70,
+      "gas:candidate-vibid:1001000112220": 11,
+      "gas:candidate-vibid:1001000220819": 34,
+      "gas:candidate-vibid:1001000113940": 9,
+      "gas:candidate-vibid:1001000131398": 35,
+      "gas:candidate-vibid:1001000202312": 162,
+      "gas:candidate-vibid:1001000225947": 199,
+      "special:against-all": 144
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172704&region=0&sub_region=0&type=429",
@@ -4902,17 +4902,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 6,
-      "Ещенко Денис Владимирович": 2,
-      "Иванов Николай Николаевич": 89,
-      "Иванов Сергей Владимирович": 58,
-      "Капелюш Александр Маратович": 14,
-      "Крюков Анатолий Федорович": 20,
-      "Сафонов Юрий Алексеевич": 12,
-      "Фалалеев Сергей Николаевич": 21,
-      "Федулов Александр Михайлович": 190,
-      "Чухраев Александр Михайлович": 210,
-      "Против всех": 138
+      "gas:candidate-vibid:346300170939": 6,
+      "gas:candidate-vibid:1001000195087": 2,
+      "gas:candidate-vibid:1001000121858": 89,
+      "gas:candidate-vibid:1001000136068": 58,
+      "gas:candidate-vibid:1001000112220": 14,
+      "gas:candidate-vibid:1001000220819": 20,
+      "gas:candidate-vibid:1001000113940": 12,
+      "gas:candidate-vibid:1001000131398": 21,
+      "gas:candidate-vibid:1001000202312": 190,
+      "gas:candidate-vibid:1001000225947": 210,
+      "special:against-all": 138
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172704&region=0&sub_region=0&type=429",
@@ -4962,17 +4962,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 6,
-      "Ещенко Денис Владимирович": 2,
-      "Иванов Николай Николаевич": 85,
-      "Иванов Сергей Владимирович": 34,
-      "Капелюш Александр Маратович": 13,
-      "Крюков Анатолий Федорович": 17,
-      "Сафонов Юрий Алексеевич": 8,
-      "Фалалеев Сергей Николаевич": 33,
-      "Федулов Александр Михайлович": 185,
-      "Чухраев Александр Михайлович": 184,
-      "Против всех": 116
+      "gas:candidate-vibid:346300170939": 6,
+      "gas:candidate-vibid:1001000195087": 2,
+      "gas:candidate-vibid:1001000121858": 85,
+      "gas:candidate-vibid:1001000136068": 34,
+      "gas:candidate-vibid:1001000112220": 13,
+      "gas:candidate-vibid:1001000220819": 17,
+      "gas:candidate-vibid:1001000113940": 8,
+      "gas:candidate-vibid:1001000131398": 33,
+      "gas:candidate-vibid:1001000202312": 185,
+      "gas:candidate-vibid:1001000225947": 184,
+      "special:against-all": 116
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172704&region=0&sub_region=0&type=429",
@@ -5022,17 +5022,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 10,
-      "Ещенко Денис Владимирович": 7,
-      "Иванов Николай Николаевич": 143,
-      "Иванов Сергей Владимирович": 50,
-      "Капелюш Александр Маратович": 9,
-      "Крюков Анатолий Федорович": 41,
-      "Сафонов Юрий Алексеевич": 18,
-      "Фалалеев Сергей Николаевич": 35,
-      "Федулов Александр Михайлович": 197,
-      "Чухраев Александр Михайлович": 262,
-      "Против всех": 162
+      "gas:candidate-vibid:346300170939": 10,
+      "gas:candidate-vibid:1001000195087": 7,
+      "gas:candidate-vibid:1001000121858": 143,
+      "gas:candidate-vibid:1001000136068": 50,
+      "gas:candidate-vibid:1001000112220": 9,
+      "gas:candidate-vibid:1001000220819": 41,
+      "gas:candidate-vibid:1001000113940": 18,
+      "gas:candidate-vibid:1001000131398": 35,
+      "gas:candidate-vibid:1001000202312": 197,
+      "gas:candidate-vibid:1001000225947": 262,
+      "special:against-all": 162
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172704&region=0&sub_region=0&type=429",
@@ -5082,17 +5082,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 15,
-      "Ещенко Денис Владимирович": 6,
-      "Иванов Николай Николаевич": 147,
-      "Иванов Сергей Владимирович": 69,
-      "Капелюш Александр Маратович": 16,
-      "Крюков Анатолий Федорович": 34,
-      "Сафонов Юрий Алексеевич": 18,
-      "Фалалеев Сергей Николаевич": 27,
-      "Федулов Александр Михайлович": 223,
-      "Чухраев Александр Михайлович": 310,
-      "Против всех": 200
+      "gas:candidate-vibid:346300170939": 15,
+      "gas:candidate-vibid:1001000195087": 6,
+      "gas:candidate-vibid:1001000121858": 147,
+      "gas:candidate-vibid:1001000136068": 69,
+      "gas:candidate-vibid:1001000112220": 16,
+      "gas:candidate-vibid:1001000220819": 34,
+      "gas:candidate-vibid:1001000113940": 18,
+      "gas:candidate-vibid:1001000131398": 27,
+      "gas:candidate-vibid:1001000202312": 223,
+      "gas:candidate-vibid:1001000225947": 310,
+      "special:against-all": 200
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172704&region=0&sub_region=0&type=429",
@@ -5142,17 +5142,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 8,
-      "Ещенко Денис Владимирович": 5,
-      "Иванов Николай Николаевич": 183,
-      "Иванов Сергей Владимирович": 60,
-      "Капелюш Александр Маратович": 22,
-      "Крюков Анатолий Федорович": 32,
-      "Сафонов Юрий Алексеевич": 23,
-      "Фалалеев Сергей Николаевич": 35,
-      "Федулов Александр Михайлович": 204,
-      "Чухраев Александр Михайлович": 227,
-      "Против всех": 184
+      "gas:candidate-vibid:346300170939": 8,
+      "gas:candidate-vibid:1001000195087": 5,
+      "gas:candidate-vibid:1001000121858": 183,
+      "gas:candidate-vibid:1001000136068": 60,
+      "gas:candidate-vibid:1001000112220": 22,
+      "gas:candidate-vibid:1001000220819": 32,
+      "gas:candidate-vibid:1001000113940": 23,
+      "gas:candidate-vibid:1001000131398": 35,
+      "gas:candidate-vibid:1001000202312": 204,
+      "gas:candidate-vibid:1001000225947": 227,
+      "special:against-all": 184
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172704&region=0&sub_region=0&type=429",
@@ -5202,17 +5202,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 15,
-      "Ещенко Денис Владимирович": 3,
-      "Иванов Николай Николаевич": 140,
-      "Иванов Сергей Владимирович": 47,
-      "Капелюш Александр Маратович": 17,
-      "Крюков Анатолий Федорович": 27,
-      "Сафонов Юрий Алексеевич": 15,
-      "Фалалеев Сергей Николаевич": 32,
-      "Федулов Александр Михайлович": 168,
-      "Чухраев Александр Михайлович": 275,
-      "Против всех": 169
+      "gas:candidate-vibid:346300170939": 15,
+      "gas:candidate-vibid:1001000195087": 3,
+      "gas:candidate-vibid:1001000121858": 140,
+      "gas:candidate-vibid:1001000136068": 47,
+      "gas:candidate-vibid:1001000112220": 17,
+      "gas:candidate-vibid:1001000220819": 27,
+      "gas:candidate-vibid:1001000113940": 15,
+      "gas:candidate-vibid:1001000131398": 32,
+      "gas:candidate-vibid:1001000202312": 168,
+      "gas:candidate-vibid:1001000225947": 275,
+      "special:against-all": 169
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172704&region=0&sub_region=0&type=429",
@@ -5262,17 +5262,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 17,
-      "Ещенко Денис Владимирович": 6,
-      "Иванов Николай Николаевич": 169,
-      "Иванов Сергей Владимирович": 79,
-      "Капелюш Александр Маратович": 21,
-      "Крюков Анатолий Федорович": 33,
-      "Сафонов Юрий Алексеевич": 13,
-      "Фалалеев Сергей Николаевич": 43,
-      "Федулов Александр Михайлович": 220,
-      "Чухраев Александр Михайлович": 307,
-      "Против всех": 238
+      "gas:candidate-vibid:346300170939": 17,
+      "gas:candidate-vibid:1001000195087": 6,
+      "gas:candidate-vibid:1001000121858": 169,
+      "gas:candidate-vibid:1001000136068": 79,
+      "gas:candidate-vibid:1001000112220": 21,
+      "gas:candidate-vibid:1001000220819": 33,
+      "gas:candidate-vibid:1001000113940": 13,
+      "gas:candidate-vibid:1001000131398": 43,
+      "gas:candidate-vibid:1001000202312": 220,
+      "gas:candidate-vibid:1001000225947": 307,
+      "special:against-all": 238
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172704&region=0&sub_region=0&type=429",
@@ -5322,17 +5322,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 9,
-      "Ещенко Денис Владимирович": 8,
-      "Иванов Николай Николаевич": 172,
-      "Иванов Сергей Владимирович": 98,
-      "Капелюш Александр Маратович": 12,
-      "Крюков Анатолий Федорович": 24,
-      "Сафонов Юрий Алексеевич": 13,
-      "Фалалеев Сергей Николаевич": 38,
-      "Федулов Александр Михайлович": 210,
-      "Чухраев Александр Михайлович": 301,
-      "Против всех": 211
+      "gas:candidate-vibid:346300170939": 9,
+      "gas:candidate-vibid:1001000195087": 8,
+      "gas:candidate-vibid:1001000121858": 172,
+      "gas:candidate-vibid:1001000136068": 98,
+      "gas:candidate-vibid:1001000112220": 12,
+      "gas:candidate-vibid:1001000220819": 24,
+      "gas:candidate-vibid:1001000113940": 13,
+      "gas:candidate-vibid:1001000131398": 38,
+      "gas:candidate-vibid:1001000202312": 210,
+      "gas:candidate-vibid:1001000225947": 301,
+      "special:against-all": 211
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172704&region=0&sub_region=0&type=429",
@@ -5382,17 +5382,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 12,
-      "Ещенко Денис Владимирович": 1,
-      "Иванов Николай Николаевич": 80,
-      "Иванов Сергей Владимирович": 32,
-      "Капелюш Александр Маратович": 5,
-      "Крюков Анатолий Федорович": 12,
-      "Сафонов Юрий Алексеевич": 4,
-      "Фалалеев Сергей Николаевич": 7,
-      "Федулов Александр Михайлович": 152,
-      "Чухраев Александр Михайлович": 107,
-      "Против всех": 125
+      "gas:candidate-vibid:346300170939": 12,
+      "gas:candidate-vibid:1001000195087": 1,
+      "gas:candidate-vibid:1001000121858": 80,
+      "gas:candidate-vibid:1001000136068": 32,
+      "gas:candidate-vibid:1001000112220": 5,
+      "gas:candidate-vibid:1001000220819": 12,
+      "gas:candidate-vibid:1001000113940": 4,
+      "gas:candidate-vibid:1001000131398": 7,
+      "gas:candidate-vibid:1001000202312": 152,
+      "gas:candidate-vibid:1001000225947": 107,
+      "special:against-all": 125
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172704&region=0&sub_region=0&type=429",
@@ -5442,17 +5442,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 13,
-      "Ещенко Денис Владимирович": 4,
-      "Иванов Николай Николаевич": 111,
-      "Иванов Сергей Владимирович": 56,
-      "Капелюш Александр Маратович": 8,
-      "Крюков Анатолий Федорович": 21,
-      "Сафонов Юрий Алексеевич": 7,
-      "Фалалеев Сергей Николаевич": 23,
-      "Федулов Александр Михайлович": 179,
-      "Чухраев Александр Михайлович": 165,
-      "Против всех": 157
+      "gas:candidate-vibid:346300170939": 13,
+      "gas:candidate-vibid:1001000195087": 4,
+      "gas:candidate-vibid:1001000121858": 111,
+      "gas:candidate-vibid:1001000136068": 56,
+      "gas:candidate-vibid:1001000112220": 8,
+      "gas:candidate-vibid:1001000220819": 21,
+      "gas:candidate-vibid:1001000113940": 7,
+      "gas:candidate-vibid:1001000131398": 23,
+      "gas:candidate-vibid:1001000202312": 179,
+      "gas:candidate-vibid:1001000225947": 165,
+      "special:against-all": 157
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172704&region=0&sub_region=0&type=429",
@@ -5502,17 +5502,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 16,
-      "Ещенко Денис Владимирович": 3,
-      "Иванов Николай Николаевич": 168,
-      "Иванов Сергей Владимирович": 48,
-      "Капелюш Александр Маратович": 14,
-      "Крюков Анатолий Федорович": 10,
-      "Сафонов Юрий Алексеевич": 7,
-      "Фалалеев Сергей Николаевич": 29,
-      "Федулов Александр Михайлович": 169,
-      "Чухраев Александр Михайлович": 218,
-      "Против всех": 144
+      "gas:candidate-vibid:346300170939": 16,
+      "gas:candidate-vibid:1001000195087": 3,
+      "gas:candidate-vibid:1001000121858": 168,
+      "gas:candidate-vibid:1001000136068": 48,
+      "gas:candidate-vibid:1001000112220": 14,
+      "gas:candidate-vibid:1001000220819": 10,
+      "gas:candidate-vibid:1001000113940": 7,
+      "gas:candidate-vibid:1001000131398": 29,
+      "gas:candidate-vibid:1001000202312": 169,
+      "gas:candidate-vibid:1001000225947": 218,
+      "special:against-all": 144
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172704&region=0&sub_region=0&type=429",
@@ -5562,17 +5562,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 2,
-      "Ещенко Денис Владимирович": 3,
-      "Иванов Николай Николаевич": 73,
-      "Иванов Сергей Владимирович": 35,
-      "Капелюш Александр Маратович": 7,
-      "Крюков Анатолий Федорович": 15,
-      "Сафонов Юрий Алексеевич": 5,
-      "Фалалеев Сергей Николаевич": 12,
-      "Федулов Александр Михайлович": 135,
-      "Чухраев Александр Михайлович": 156,
-      "Против всех": 78
+      "gas:candidate-vibid:346300170939": 2,
+      "gas:candidate-vibid:1001000195087": 3,
+      "gas:candidate-vibid:1001000121858": 73,
+      "gas:candidate-vibid:1001000136068": 35,
+      "gas:candidate-vibid:1001000112220": 7,
+      "gas:candidate-vibid:1001000220819": 15,
+      "gas:candidate-vibid:1001000113940": 5,
+      "gas:candidate-vibid:1001000131398": 12,
+      "gas:candidate-vibid:1001000202312": 135,
+      "gas:candidate-vibid:1001000225947": 156,
+      "special:against-all": 78
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172704&region=0&sub_region=0&type=429",
@@ -5622,17 +5622,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 17,
-      "Ещенко Денис Владимирович": 3,
-      "Иванов Николай Николаевич": 115,
-      "Иванов Сергей Владимирович": 63,
-      "Капелюш Александр Маратович": 15,
-      "Крюков Анатолий Федорович": 34,
-      "Сафонов Юрий Алексеевич": 8,
-      "Фалалеев Сергей Николаевич": 33,
-      "Федулов Александр Михайлович": 268,
-      "Чухраев Александр Михайлович": 283,
-      "Против всех": 192
+      "gas:candidate-vibid:346300170939": 17,
+      "gas:candidate-vibid:1001000195087": 3,
+      "gas:candidate-vibid:1001000121858": 115,
+      "gas:candidate-vibid:1001000136068": 63,
+      "gas:candidate-vibid:1001000112220": 15,
+      "gas:candidate-vibid:1001000220819": 34,
+      "gas:candidate-vibid:1001000113940": 8,
+      "gas:candidate-vibid:1001000131398": 33,
+      "gas:candidate-vibid:1001000202312": 268,
+      "gas:candidate-vibid:1001000225947": 283,
+      "special:against-all": 192
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172704&region=0&sub_region=0&type=429",
@@ -5682,17 +5682,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 8,
-      "Ещенко Денис Владимирович": 6,
-      "Иванов Николай Николаевич": 141,
-      "Иванов Сергей Владимирович": 60,
-      "Капелюш Александр Маратович": 19,
-      "Крюков Анатолий Федорович": 29,
-      "Сафонов Юрий Алексеевич": 2,
-      "Фалалеев Сергей Николаевич": 28,
-      "Федулов Александр Михайлович": 226,
-      "Чухраев Александр Михайлович": 220,
-      "Против всех": 140
+      "gas:candidate-vibid:346300170939": 8,
+      "gas:candidate-vibid:1001000195087": 6,
+      "gas:candidate-vibid:1001000121858": 141,
+      "gas:candidate-vibid:1001000136068": 60,
+      "gas:candidate-vibid:1001000112220": 19,
+      "gas:candidate-vibid:1001000220819": 29,
+      "gas:candidate-vibid:1001000113940": 2,
+      "gas:candidate-vibid:1001000131398": 28,
+      "gas:candidate-vibid:1001000202312": 226,
+      "gas:candidate-vibid:1001000225947": 220,
+      "special:against-all": 140
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172704&region=0&sub_region=0&type=429",
@@ -5742,17 +5742,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 10,
-      "Ещенко Денис Владимирович": 4,
-      "Иванов Николай Николаевич": 87,
-      "Иванов Сергей Владимирович": 47,
-      "Капелюш Александр Маратович": 8,
-      "Крюков Анатолий Федорович": 33,
-      "Сафонов Юрий Алексеевич": 2,
-      "Фалалеев Сергей Николаевич": 29,
-      "Федулов Александр Михайлович": 172,
-      "Чухраев Александр Михайлович": 231,
-      "Против всех": 108
+      "gas:candidate-vibid:346300170939": 10,
+      "gas:candidate-vibid:1001000195087": 4,
+      "gas:candidate-vibid:1001000121858": 87,
+      "gas:candidate-vibid:1001000136068": 47,
+      "gas:candidate-vibid:1001000112220": 8,
+      "gas:candidate-vibid:1001000220819": 33,
+      "gas:candidate-vibid:1001000113940": 2,
+      "gas:candidate-vibid:1001000131398": 29,
+      "gas:candidate-vibid:1001000202312": 172,
+      "gas:candidate-vibid:1001000225947": 231,
+      "special:against-all": 108
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172704&region=0&sub_region=0&type=429",
@@ -5802,17 +5802,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 5,
-      "Ещенко Денис Владимирович": 3,
-      "Иванов Николай Николаевич": 62,
-      "Иванов Сергей Владимирович": 22,
-      "Капелюш Александр Маратович": 4,
-      "Крюков Анатолий Федорович": 15,
-      "Сафонов Юрий Алексеевич": 3,
-      "Фалалеев Сергей Николаевич": 11,
-      "Федулов Александр Михайлович": 118,
-      "Чухраев Александр Михайлович": 82,
-      "Против всех": 55
+      "gas:candidate-vibid:346300170939": 5,
+      "gas:candidate-vibid:1001000195087": 3,
+      "gas:candidate-vibid:1001000121858": 62,
+      "gas:candidate-vibid:1001000136068": 22,
+      "gas:candidate-vibid:1001000112220": 4,
+      "gas:candidate-vibid:1001000220819": 15,
+      "gas:candidate-vibid:1001000113940": 3,
+      "gas:candidate-vibid:1001000131398": 11,
+      "gas:candidate-vibid:1001000202312": 118,
+      "gas:candidate-vibid:1001000225947": 82,
+      "special:against-all": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172704&region=0&sub_region=0&type=429",
@@ -5862,17 +5862,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 5,
-      "Ещенко Денис Владимирович": 7,
-      "Иванов Николай Николаевич": 99,
-      "Иванов Сергей Владимирович": 46,
-      "Капелюш Александр Маратович": 1,
-      "Крюков Анатолий Федорович": 5,
-      "Сафонов Юрий Алексеевич": 11,
-      "Фалалеев Сергей Николаевич": 14,
-      "Федулов Александр Михайлович": 56,
-      "Чухраев Александр Михайлович": 88,
-      "Против всех": 141
+      "gas:candidate-vibid:346300170939": 5,
+      "gas:candidate-vibid:1001000195087": 7,
+      "gas:candidate-vibid:1001000121858": 99,
+      "gas:candidate-vibid:1001000136068": 46,
+      "gas:candidate-vibid:1001000112220": 1,
+      "gas:candidate-vibid:1001000220819": 5,
+      "gas:candidate-vibid:1001000113940": 11,
+      "gas:candidate-vibid:1001000131398": 14,
+      "gas:candidate-vibid:1001000202312": 56,
+      "gas:candidate-vibid:1001000225947": 88,
+      "special:against-all": 141
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172704&region=0&sub_region=0&type=429",
@@ -5922,17 +5922,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 7,
-      "Ещенко Денис Владимирович": 5,
-      "Иванов Николай Николаевич": 100,
-      "Иванов Сергей Владимирович": 35,
-      "Капелюш Александр Маратович": 7,
-      "Крюков Анатолий Федорович": 29,
-      "Сафонов Юрий Алексеевич": 7,
-      "Фалалеев Сергей Николаевич": 27,
-      "Федулов Александр Михайлович": 103,
-      "Чухраев Александр Михайлович": 188,
-      "Против всех": 133
+      "gas:candidate-vibid:346300170939": 7,
+      "gas:candidate-vibid:1001000195087": 5,
+      "gas:candidate-vibid:1001000121858": 100,
+      "gas:candidate-vibid:1001000136068": 35,
+      "gas:candidate-vibid:1001000112220": 7,
+      "gas:candidate-vibid:1001000220819": 29,
+      "gas:candidate-vibid:1001000113940": 7,
+      "gas:candidate-vibid:1001000131398": 27,
+      "gas:candidate-vibid:1001000202312": 103,
+      "gas:candidate-vibid:1001000225947": 188,
+      "special:against-all": 133
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172704&region=0&sub_region=0&type=429",
@@ -5982,17 +5982,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 8,
-      "Ещенко Денис Владимирович": 5,
-      "Иванов Николай Николаевич": 173,
-      "Иванов Сергей Владимирович": 65,
-      "Капелюш Александр Маратович": 16,
-      "Крюков Анатолий Федорович": 45,
-      "Сафонов Юрий Алексеевич": 16,
-      "Фалалеев Сергей Николаевич": 25,
-      "Федулов Александр Михайлович": 203,
-      "Чухраев Александр Михайлович": 286,
-      "Против всех": 232
+      "gas:candidate-vibid:346300170939": 8,
+      "gas:candidate-vibid:1001000195087": 5,
+      "gas:candidate-vibid:1001000121858": 173,
+      "gas:candidate-vibid:1001000136068": 65,
+      "gas:candidate-vibid:1001000112220": 16,
+      "gas:candidate-vibid:1001000220819": 45,
+      "gas:candidate-vibid:1001000113940": 16,
+      "gas:candidate-vibid:1001000131398": 25,
+      "gas:candidate-vibid:1001000202312": 203,
+      "gas:candidate-vibid:1001000225947": 286,
+      "special:against-all": 232
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172704&region=0&sub_region=0&type=429",
@@ -6042,17 +6042,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 1,
-      "Ещенко Денис Владимирович": 0,
-      "Иванов Николай Николаевич": 2,
-      "Иванов Сергей Владимирович": 3,
-      "Капелюш Александр Маратович": 0,
-      "Крюков Анатолий Федорович": 0,
-      "Сафонов Юрий Алексеевич": 0,
-      "Фалалеев Сергей Николаевич": 0,
-      "Федулов Александр Михайлович": 16,
-      "Чухраев Александр Михайлович": 18,
-      "Против всех": 13
+      "gas:candidate-vibid:346300170939": 1,
+      "gas:candidate-vibid:1001000195087": 0,
+      "gas:candidate-vibid:1001000121858": 2,
+      "gas:candidate-vibid:1001000136068": 3,
+      "gas:candidate-vibid:1001000112220": 0,
+      "gas:candidate-vibid:1001000220819": 0,
+      "gas:candidate-vibid:1001000113940": 0,
+      "gas:candidate-vibid:1001000131398": 0,
+      "gas:candidate-vibid:1001000202312": 16,
+      "gas:candidate-vibid:1001000225947": 18,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172704&region=0&sub_region=0&type=429",
@@ -6102,17 +6102,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 12,
-      "Ещенко Денис Владимирович": 7,
-      "Иванов Николай Николаевич": 117,
-      "Иванов Сергей Владимирович": 41,
-      "Капелюш Александр Маратович": 21,
-      "Крюков Анатолий Федорович": 22,
-      "Сафонов Юрий Алексеевич": 24,
-      "Фалалеев Сергей Николаевич": 22,
-      "Федулов Александр Михайлович": 173,
-      "Чухраев Александр Михайлович": 184,
-      "Против всех": 190
+      "gas:candidate-vibid:346300170939": 12,
+      "gas:candidate-vibid:1001000195087": 7,
+      "gas:candidate-vibid:1001000121858": 117,
+      "gas:candidate-vibid:1001000136068": 41,
+      "gas:candidate-vibid:1001000112220": 21,
+      "gas:candidate-vibid:1001000220819": 22,
+      "gas:candidate-vibid:1001000113940": 24,
+      "gas:candidate-vibid:1001000131398": 22,
+      "gas:candidate-vibid:1001000202312": 173,
+      "gas:candidate-vibid:1001000225947": 184,
+      "special:against-all": 190
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172704&region=0&sub_region=0&type=429",
@@ -6162,17 +6162,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 1,
-      "Ещенко Денис Владимирович": 0,
-      "Иванов Николай Николаевич": 16,
-      "Иванов Сергей Владимирович": 7,
-      "Капелюш Александр Маратович": 0,
-      "Крюков Анатолий Федорович": 4,
-      "Сафонов Юрий Алексеевич": 0,
-      "Фалалеев Сергей Николаевич": 1,
-      "Федулов Александр Михайлович": 27,
-      "Чухраев Александр Михайлович": 32,
-      "Против всех": 19
+      "gas:candidate-vibid:346300170939": 1,
+      "gas:candidate-vibid:1001000195087": 0,
+      "gas:candidate-vibid:1001000121858": 16,
+      "gas:candidate-vibid:1001000136068": 7,
+      "gas:candidate-vibid:1001000112220": 0,
+      "gas:candidate-vibid:1001000220819": 4,
+      "gas:candidate-vibid:1001000113940": 0,
+      "gas:candidate-vibid:1001000131398": 1,
+      "gas:candidate-vibid:1001000202312": 27,
+      "gas:candidate-vibid:1001000225947": 32,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172704&region=0&sub_region=0&type=429",
@@ -6222,17 +6222,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 16,
-      "Ещенко Денис Владимирович": 5,
-      "Иванов Николай Николаевич": 78,
-      "Иванов Сергей Владимирович": 69,
-      "Капелюш Александр Маратович": 10,
-      "Крюков Анатолий Федорович": 31,
-      "Сафонов Юрий Алексеевич": 2,
-      "Фалалеев Сергей Николаевич": 19,
-      "Федулов Александр Михайлович": 195,
-      "Чухраев Александр Михайлович": 152,
-      "Против всех": 92
+      "gas:candidate-vibid:346300170939": 16,
+      "gas:candidate-vibid:1001000195087": 5,
+      "gas:candidate-vibid:1001000121858": 78,
+      "gas:candidate-vibid:1001000136068": 69,
+      "gas:candidate-vibid:1001000112220": 10,
+      "gas:candidate-vibid:1001000220819": 31,
+      "gas:candidate-vibid:1001000113940": 2,
+      "gas:candidate-vibid:1001000131398": 19,
+      "gas:candidate-vibid:1001000202312": 195,
+      "gas:candidate-vibid:1001000225947": 152,
+      "special:against-all": 92
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172705&region=0&sub_region=0&type=429",
@@ -6282,17 +6282,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 22,
-      "Ещенко Денис Владимирович": 5,
-      "Иванов Николай Николаевич": 177,
-      "Иванов Сергей Владимирович": 69,
-      "Капелюш Александр Маратович": 9,
-      "Крюков Анатолий Федорович": 43,
-      "Сафонов Юрий Алексеевич": 9,
-      "Фалалеев Сергей Николаевич": 46,
-      "Федулов Александр Михайлович": 241,
-      "Чухраев Александр Михайлович": 284,
-      "Против всех": 218
+      "gas:candidate-vibid:346300170939": 22,
+      "gas:candidate-vibid:1001000195087": 5,
+      "gas:candidate-vibid:1001000121858": 177,
+      "gas:candidate-vibid:1001000136068": 69,
+      "gas:candidate-vibid:1001000112220": 9,
+      "gas:candidate-vibid:1001000220819": 43,
+      "gas:candidate-vibid:1001000113940": 9,
+      "gas:candidate-vibid:1001000131398": 46,
+      "gas:candidate-vibid:1001000202312": 241,
+      "gas:candidate-vibid:1001000225947": 284,
+      "special:against-all": 218
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172705&region=0&sub_region=0&type=429",
@@ -6342,17 +6342,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 6,
-      "Ещенко Денис Владимирович": 1,
-      "Иванов Николай Николаевич": 34,
-      "Иванов Сергей Владимирович": 24,
-      "Капелюш Александр Маратович": 6,
-      "Крюков Анатолий Федорович": 15,
-      "Сафонов Юрий Алексеевич": 11,
-      "Фалалеев Сергей Николаевич": 8,
-      "Федулов Александр Михайлович": 84,
-      "Чухраев Александр Михайлович": 113,
-      "Против всех": 64
+      "gas:candidate-vibid:346300170939": 6,
+      "gas:candidate-vibid:1001000195087": 1,
+      "gas:candidate-vibid:1001000121858": 34,
+      "gas:candidate-vibid:1001000136068": 24,
+      "gas:candidate-vibid:1001000112220": 6,
+      "gas:candidate-vibid:1001000220819": 15,
+      "gas:candidate-vibid:1001000113940": 11,
+      "gas:candidate-vibid:1001000131398": 8,
+      "gas:candidate-vibid:1001000202312": 84,
+      "gas:candidate-vibid:1001000225947": 113,
+      "special:against-all": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172705&region=0&sub_region=0&type=429",
@@ -6402,17 +6402,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 7,
-      "Ещенко Денис Владимирович": 7,
-      "Иванов Николай Николаевич": 99,
-      "Иванов Сергей Владимирович": 35,
-      "Капелюш Александр Маратович": 4,
-      "Крюков Анатолий Федорович": 11,
-      "Сафонов Юрий Алексеевич": 6,
-      "Фалалеев Сергей Николаевич": 22,
-      "Федулов Александр Михайлович": 148,
-      "Чухраев Александр Михайлович": 120,
-      "Против всех": 78
+      "gas:candidate-vibid:346300170939": 7,
+      "gas:candidate-vibid:1001000195087": 7,
+      "gas:candidate-vibid:1001000121858": 99,
+      "gas:candidate-vibid:1001000136068": 35,
+      "gas:candidate-vibid:1001000112220": 4,
+      "gas:candidate-vibid:1001000220819": 11,
+      "gas:candidate-vibid:1001000113940": 6,
+      "gas:candidate-vibid:1001000131398": 22,
+      "gas:candidate-vibid:1001000202312": 148,
+      "gas:candidate-vibid:1001000225947": 120,
+      "special:against-all": 78
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172705&region=0&sub_region=0&type=429",
@@ -6462,17 +6462,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 9,
-      "Ещенко Денис Владимирович": 3,
-      "Иванов Николай Николаевич": 101,
-      "Иванов Сергей Владимирович": 56,
-      "Капелюш Александр Маратович": 18,
-      "Крюков Анатолий Федорович": 48,
-      "Сафонов Юрий Алексеевич": 12,
-      "Фалалеев Сергей Николаевич": 23,
-      "Федулов Александр Михайлович": 178,
-      "Чухраев Александр Михайлович": 232,
-      "Против всех": 167
+      "gas:candidate-vibid:346300170939": 9,
+      "gas:candidate-vibid:1001000195087": 3,
+      "gas:candidate-vibid:1001000121858": 101,
+      "gas:candidate-vibid:1001000136068": 56,
+      "gas:candidate-vibid:1001000112220": 18,
+      "gas:candidate-vibid:1001000220819": 48,
+      "gas:candidate-vibid:1001000113940": 12,
+      "gas:candidate-vibid:1001000131398": 23,
+      "gas:candidate-vibid:1001000202312": 178,
+      "gas:candidate-vibid:1001000225947": 232,
+      "special:against-all": 167
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172705&region=0&sub_region=0&type=429",
@@ -6522,17 +6522,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 28,
-      "Ещенко Денис Владимирович": 9,
-      "Иванов Николай Николаевич": 199,
-      "Иванов Сергей Владимирович": 69,
-      "Капелюш Александр Маратович": 26,
-      "Крюков Анатолий Федорович": 53,
-      "Сафонов Юрий Алексеевич": 15,
-      "Фалалеев Сергей Николаевич": 37,
-      "Федулов Александр Михайлович": 261,
-      "Чухраев Александр Михайлович": 333,
-      "Против всех": 166
+      "gas:candidate-vibid:346300170939": 28,
+      "gas:candidate-vibid:1001000195087": 9,
+      "gas:candidate-vibid:1001000121858": 199,
+      "gas:candidate-vibid:1001000136068": 69,
+      "gas:candidate-vibid:1001000112220": 26,
+      "gas:candidate-vibid:1001000220819": 53,
+      "gas:candidate-vibid:1001000113940": 15,
+      "gas:candidate-vibid:1001000131398": 37,
+      "gas:candidate-vibid:1001000202312": 261,
+      "gas:candidate-vibid:1001000225947": 333,
+      "special:against-all": 166
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172705&region=0&sub_region=0&type=429",
@@ -6582,17 +6582,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 6,
-      "Ещенко Денис Владимирович": 1,
-      "Иванов Николай Николаевич": 94,
-      "Иванов Сергей Владимирович": 48,
-      "Капелюш Александр Маратович": 14,
-      "Крюков Анатолий Федорович": 31,
-      "Сафонов Юрий Алексеевич": 3,
-      "Фалалеев Сергей Николаевич": 20,
-      "Федулов Александр Михайлович": 106,
-      "Чухраев Александр Михайлович": 181,
-      "Против всех": 103
+      "gas:candidate-vibid:346300170939": 6,
+      "gas:candidate-vibid:1001000195087": 1,
+      "gas:candidate-vibid:1001000121858": 94,
+      "gas:candidate-vibid:1001000136068": 48,
+      "gas:candidate-vibid:1001000112220": 14,
+      "gas:candidate-vibid:1001000220819": 31,
+      "gas:candidate-vibid:1001000113940": 3,
+      "gas:candidate-vibid:1001000131398": 20,
+      "gas:candidate-vibid:1001000202312": 106,
+      "gas:candidate-vibid:1001000225947": 181,
+      "special:against-all": 103
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172705&region=0&sub_region=0&type=429",
@@ -6642,17 +6642,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 10,
-      "Ещенко Денис Владимирович": 2,
-      "Иванов Николай Николаевич": 112,
-      "Иванов Сергей Владимирович": 39,
-      "Капелюш Александр Маратович": 9,
-      "Крюков Анатолий Федорович": 26,
-      "Сафонов Юрий Алексеевич": 14,
-      "Фалалеев Сергей Николаевич": 13,
-      "Федулов Александр Михайлович": 131,
-      "Чухраев Александр Михайлович": 217,
-      "Против всех": 126
+      "gas:candidate-vibid:346300170939": 10,
+      "gas:candidate-vibid:1001000195087": 2,
+      "gas:candidate-vibid:1001000121858": 112,
+      "gas:candidate-vibid:1001000136068": 39,
+      "gas:candidate-vibid:1001000112220": 9,
+      "gas:candidate-vibid:1001000220819": 26,
+      "gas:candidate-vibid:1001000113940": 14,
+      "gas:candidate-vibid:1001000131398": 13,
+      "gas:candidate-vibid:1001000202312": 131,
+      "gas:candidate-vibid:1001000225947": 217,
+      "special:against-all": 126
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172705&region=0&sub_region=0&type=429",
@@ -6702,17 +6702,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 7,
-      "Ещенко Денис Владимирович": 4,
-      "Иванов Николай Николаевич": 166,
-      "Иванов Сергей Владимирович": 54,
-      "Капелюш Александр Маратович": 27,
-      "Крюков Анатолий Федорович": 49,
-      "Сафонов Юрий Алексеевич": 16,
-      "Фалалеев Сергей Николаевич": 32,
-      "Федулов Александр Михайлович": 191,
-      "Чухраев Александр Михайлович": 379,
-      "Против всех": 185
+      "gas:candidate-vibid:346300170939": 7,
+      "gas:candidate-vibid:1001000195087": 4,
+      "gas:candidate-vibid:1001000121858": 166,
+      "gas:candidate-vibid:1001000136068": 54,
+      "gas:candidate-vibid:1001000112220": 27,
+      "gas:candidate-vibid:1001000220819": 49,
+      "gas:candidate-vibid:1001000113940": 16,
+      "gas:candidate-vibid:1001000131398": 32,
+      "gas:candidate-vibid:1001000202312": 191,
+      "gas:candidate-vibid:1001000225947": 379,
+      "special:against-all": 185
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172705&region=0&sub_region=0&type=429",
@@ -6762,17 +6762,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 19,
-      "Ещенко Денис Владимирович": 8,
-      "Иванов Николай Николаевич": 200,
-      "Иванов Сергей Владимирович": 67,
-      "Капелюш Александр Маратович": 17,
-      "Крюков Анатолий Федорович": 66,
-      "Сафонов Юрий Алексеевич": 7,
-      "Фалалеев Сергей Николаевич": 26,
-      "Федулов Александр Михайлович": 197,
-      "Чухраев Александр Михайлович": 365,
-      "Против всех": 170
+      "gas:candidate-vibid:346300170939": 19,
+      "gas:candidate-vibid:1001000195087": 8,
+      "gas:candidate-vibid:1001000121858": 200,
+      "gas:candidate-vibid:1001000136068": 67,
+      "gas:candidate-vibid:1001000112220": 17,
+      "gas:candidate-vibid:1001000220819": 66,
+      "gas:candidate-vibid:1001000113940": 7,
+      "gas:candidate-vibid:1001000131398": 26,
+      "gas:candidate-vibid:1001000202312": 197,
+      "gas:candidate-vibid:1001000225947": 365,
+      "special:against-all": 170
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172705&region=0&sub_region=0&type=429",
@@ -6822,17 +6822,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 14,
-      "Ещенко Денис Владимирович": 8,
-      "Иванов Николай Николаевич": 161,
-      "Иванов Сергей Владимирович": 67,
-      "Капелюш Александр Маратович": 25,
-      "Крюков Анатолий Федорович": 44,
-      "Сафонов Юрий Алексеевич": 18,
-      "Фалалеев Сергей Николаевич": 26,
-      "Федулов Александр Михайлович": 144,
-      "Чухраев Александр Михайлович": 295,
-      "Против всех": 133
+      "gas:candidate-vibid:346300170939": 14,
+      "gas:candidate-vibid:1001000195087": 8,
+      "gas:candidate-vibid:1001000121858": 161,
+      "gas:candidate-vibid:1001000136068": 67,
+      "gas:candidate-vibid:1001000112220": 25,
+      "gas:candidate-vibid:1001000220819": 44,
+      "gas:candidate-vibid:1001000113940": 18,
+      "gas:candidate-vibid:1001000131398": 26,
+      "gas:candidate-vibid:1001000202312": 144,
+      "gas:candidate-vibid:1001000225947": 295,
+      "special:against-all": 133
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172705&region=0&sub_region=0&type=429",
@@ -6882,17 +6882,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 17,
-      "Ещенко Денис Владимирович": 5,
-      "Иванов Николай Николаевич": 202,
-      "Иванов Сергей Владимирович": 61,
-      "Капелюш Александр Маратович": 28,
-      "Крюков Анатолий Федорович": 36,
-      "Сафонов Юрий Алексеевич": 14,
-      "Фалалеев Сергей Николаевич": 46,
-      "Федулов Александр Михайлович": 241,
-      "Чухраев Александр Михайлович": 288,
-      "Против всех": 161
+      "gas:candidate-vibid:346300170939": 17,
+      "gas:candidate-vibid:1001000195087": 5,
+      "gas:candidate-vibid:1001000121858": 202,
+      "gas:candidate-vibid:1001000136068": 61,
+      "gas:candidate-vibid:1001000112220": 28,
+      "gas:candidate-vibid:1001000220819": 36,
+      "gas:candidate-vibid:1001000113940": 14,
+      "gas:candidate-vibid:1001000131398": 46,
+      "gas:candidate-vibid:1001000202312": 241,
+      "gas:candidate-vibid:1001000225947": 288,
+      "special:against-all": 161
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172705&region=0&sub_region=0&type=429",
@@ -6942,17 +6942,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 13,
-      "Ещенко Денис Владимирович": 5,
-      "Иванов Николай Николаевич": 197,
-      "Иванов Сергей Владимирович": 84,
-      "Капелюш Александр Маратович": 35,
-      "Крюков Анатолий Федорович": 53,
-      "Сафонов Юрий Алексеевич": 15,
-      "Фалалеев Сергей Николаевич": 37,
-      "Федулов Александр Михайлович": 272,
-      "Чухраев Александр Михайлович": 390,
-      "Против всех": 186
+      "gas:candidate-vibid:346300170939": 13,
+      "gas:candidate-vibid:1001000195087": 5,
+      "gas:candidate-vibid:1001000121858": 197,
+      "gas:candidate-vibid:1001000136068": 84,
+      "gas:candidate-vibid:1001000112220": 35,
+      "gas:candidate-vibid:1001000220819": 53,
+      "gas:candidate-vibid:1001000113940": 15,
+      "gas:candidate-vibid:1001000131398": 37,
+      "gas:candidate-vibid:1001000202312": 272,
+      "gas:candidate-vibid:1001000225947": 390,
+      "special:against-all": 186
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172705&region=0&sub_region=0&type=429",
@@ -7002,17 +7002,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 14,
-      "Ещенко Денис Владимирович": 9,
-      "Иванов Николай Николаевич": 234,
-      "Иванов Сергей Владимирович": 63,
-      "Капелюш Александр Маратович": 45,
-      "Крюков Анатолий Федорович": 56,
-      "Сафонов Юрий Алексеевич": 17,
-      "Фалалеев Сергей Николаевич": 39,
-      "Федулов Александр Михайлович": 225,
-      "Чухраев Александр Михайлович": 334,
-      "Против всех": 167
+      "gas:candidate-vibid:346300170939": 14,
+      "gas:candidate-vibid:1001000195087": 9,
+      "gas:candidate-vibid:1001000121858": 234,
+      "gas:candidate-vibid:1001000136068": 63,
+      "gas:candidate-vibid:1001000112220": 45,
+      "gas:candidate-vibid:1001000220819": 56,
+      "gas:candidate-vibid:1001000113940": 17,
+      "gas:candidate-vibid:1001000131398": 39,
+      "gas:candidate-vibid:1001000202312": 225,
+      "gas:candidate-vibid:1001000225947": 334,
+      "special:against-all": 167
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172705&region=0&sub_region=0&type=429",
@@ -7062,17 +7062,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 10,
-      "Ещенко Денис Владимирович": 3,
-      "Иванов Николай Николаевич": 186,
-      "Иванов Сергей Владимирович": 49,
-      "Капелюш Александр Маратович": 26,
-      "Крюков Анатолий Федорович": 36,
-      "Сафонов Юрий Алексеевич": 12,
-      "Фалалеев Сергей Николаевич": 39,
-      "Федулов Александр Михайлович": 237,
-      "Чухраев Александр Михайлович": 329,
-      "Против всех": 164
+      "gas:candidate-vibid:346300170939": 10,
+      "gas:candidate-vibid:1001000195087": 3,
+      "gas:candidate-vibid:1001000121858": 186,
+      "gas:candidate-vibid:1001000136068": 49,
+      "gas:candidate-vibid:1001000112220": 26,
+      "gas:candidate-vibid:1001000220819": 36,
+      "gas:candidate-vibid:1001000113940": 12,
+      "gas:candidate-vibid:1001000131398": 39,
+      "gas:candidate-vibid:1001000202312": 237,
+      "gas:candidate-vibid:1001000225947": 329,
+      "special:against-all": 164
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172705&region=0&sub_region=0&type=429",
@@ -7122,17 +7122,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 17,
-      "Ещенко Денис Владимирович": 4,
-      "Иванов Николай Николаевич": 154,
-      "Иванов Сергей Владимирович": 69,
-      "Капелюш Александр Маратович": 14,
-      "Крюков Анатолий Федорович": 22,
-      "Сафонов Юрий Алексеевич": 14,
-      "Фалалеев Сергей Николаевич": 32,
-      "Федулов Александр Михайлович": 190,
-      "Чухраев Александр Михайлович": 308,
-      "Против всех": 136
+      "gas:candidate-vibid:346300170939": 17,
+      "gas:candidate-vibid:1001000195087": 4,
+      "gas:candidate-vibid:1001000121858": 154,
+      "gas:candidate-vibid:1001000136068": 69,
+      "gas:candidate-vibid:1001000112220": 14,
+      "gas:candidate-vibid:1001000220819": 22,
+      "gas:candidate-vibid:1001000113940": 14,
+      "gas:candidate-vibid:1001000131398": 32,
+      "gas:candidate-vibid:1001000202312": 190,
+      "gas:candidate-vibid:1001000225947": 308,
+      "special:against-all": 136
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172705&region=0&sub_region=0&type=429",
@@ -7182,17 +7182,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 13,
-      "Ещенко Денис Владимирович": 6,
-      "Иванов Николай Николаевич": 255,
-      "Иванов Сергей Владимирович": 61,
-      "Капелюш Александр Маратович": 27,
-      "Крюков Анатолий Федорович": 36,
-      "Сафонов Юрий Алексеевич": 25,
-      "Фалалеев Сергей Николаевич": 48,
-      "Федулов Александр Михайлович": 244,
-      "Чухраев Александр Михайлович": 256,
-      "Против всех": 165
+      "gas:candidate-vibid:346300170939": 13,
+      "gas:candidate-vibid:1001000195087": 6,
+      "gas:candidate-vibid:1001000121858": 255,
+      "gas:candidate-vibid:1001000136068": 61,
+      "gas:candidate-vibid:1001000112220": 27,
+      "gas:candidate-vibid:1001000220819": 36,
+      "gas:candidate-vibid:1001000113940": 25,
+      "gas:candidate-vibid:1001000131398": 48,
+      "gas:candidate-vibid:1001000202312": 244,
+      "gas:candidate-vibid:1001000225947": 256,
+      "special:against-all": 165
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172705&region=0&sub_region=0&type=429",
@@ -7242,17 +7242,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 9,
-      "Ещенко Денис Владимирович": 0,
-      "Иванов Николай Николаевич": 128,
-      "Иванов Сергей Владимирович": 30,
-      "Капелюш Александр Маратович": 14,
-      "Крюков Анатолий Федорович": 23,
-      "Сафонов Юрий Алексеевич": 6,
-      "Фалалеев Сергей Николаевич": 16,
-      "Федулов Александр Михайлович": 116,
-      "Чухраев Александр Михайлович": 184,
-      "Против всех": 73
+      "gas:candidate-vibid:346300170939": 9,
+      "gas:candidate-vibid:1001000195087": 0,
+      "gas:candidate-vibid:1001000121858": 128,
+      "gas:candidate-vibid:1001000136068": 30,
+      "gas:candidate-vibid:1001000112220": 14,
+      "gas:candidate-vibid:1001000220819": 23,
+      "gas:candidate-vibid:1001000113940": 6,
+      "gas:candidate-vibid:1001000131398": 16,
+      "gas:candidate-vibid:1001000202312": 116,
+      "gas:candidate-vibid:1001000225947": 184,
+      "special:against-all": 73
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172705&region=0&sub_region=0&type=429",
@@ -7302,17 +7302,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 9,
-      "Ещенко Денис Владимирович": 4,
-      "Иванов Николай Николаевич": 78,
-      "Иванов Сергей Владимирович": 21,
-      "Капелюш Александр Маратович": 5,
-      "Крюков Анатолий Федорович": 20,
-      "Сафонов Юрий Алексеевич": 3,
-      "Фалалеев Сергей Николаевич": 13,
-      "Федулов Александр Михайлович": 97,
-      "Чухраев Александр Михайлович": 124,
-      "Против всех": 51
+      "gas:candidate-vibid:346300170939": 9,
+      "gas:candidate-vibid:1001000195087": 4,
+      "gas:candidate-vibid:1001000121858": 78,
+      "gas:candidate-vibid:1001000136068": 21,
+      "gas:candidate-vibid:1001000112220": 5,
+      "gas:candidate-vibid:1001000220819": 20,
+      "gas:candidate-vibid:1001000113940": 3,
+      "gas:candidate-vibid:1001000131398": 13,
+      "gas:candidate-vibid:1001000202312": 97,
+      "gas:candidate-vibid:1001000225947": 124,
+      "special:against-all": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172705&region=0&sub_region=0&type=429",
@@ -7362,17 +7362,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 5,
-      "Ещенко Денис Владимирович": 6,
-      "Иванов Николай Николаевич": 121,
-      "Иванов Сергей Владимирович": 77,
-      "Капелюш Александр Маратович": 11,
-      "Крюков Анатолий Федорович": 19,
-      "Сафонов Юрий Алексеевич": 8,
-      "Фалалеев Сергей Николаевич": 12,
-      "Федулов Александр Михайлович": 243,
-      "Чухраев Александр Михайлович": 267,
-      "Против всех": 177
+      "gas:candidate-vibid:346300170939": 5,
+      "gas:candidate-vibid:1001000195087": 6,
+      "gas:candidate-vibid:1001000121858": 121,
+      "gas:candidate-vibid:1001000136068": 77,
+      "gas:candidate-vibid:1001000112220": 11,
+      "gas:candidate-vibid:1001000220819": 19,
+      "gas:candidate-vibid:1001000113940": 8,
+      "gas:candidate-vibid:1001000131398": 12,
+      "gas:candidate-vibid:1001000202312": 243,
+      "gas:candidate-vibid:1001000225947": 267,
+      "special:against-all": 177
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172705&region=0&sub_region=0&type=429",
@@ -7422,17 +7422,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 7,
-      "Ещенко Денис Владимирович": 5,
-      "Иванов Николай Николаевич": 118,
-      "Иванов Сергей Владимирович": 48,
-      "Капелюш Александр Маратович": 19,
-      "Крюков Анатолий Федорович": 12,
-      "Сафонов Юрий Алексеевич": 6,
-      "Фалалеев Сергей Николаевич": 27,
-      "Федулов Александр Михайлович": 200,
-      "Чухраев Александр Михайлович": 251,
-      "Против всех": 147
+      "gas:candidate-vibid:346300170939": 7,
+      "gas:candidate-vibid:1001000195087": 5,
+      "gas:candidate-vibid:1001000121858": 118,
+      "gas:candidate-vibid:1001000136068": 48,
+      "gas:candidate-vibid:1001000112220": 19,
+      "gas:candidate-vibid:1001000220819": 12,
+      "gas:candidate-vibid:1001000113940": 6,
+      "gas:candidate-vibid:1001000131398": 27,
+      "gas:candidate-vibid:1001000202312": 200,
+      "gas:candidate-vibid:1001000225947": 251,
+      "special:against-all": 147
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172705&region=0&sub_region=0&type=429",
@@ -7482,17 +7482,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 19,
-      "Ещенко Денис Владимирович": 7,
-      "Иванов Николай Николаевич": 170,
-      "Иванов Сергей Владимирович": 66,
-      "Капелюш Александр Маратович": 20,
-      "Крюков Анатолий Федорович": 30,
-      "Сафонов Юрий Алексеевич": 9,
-      "Фалалеев Сергей Николаевич": 48,
-      "Федулов Александр Михайлович": 308,
-      "Чухраев Александр Михайлович": 343,
-      "Против всех": 200
+      "gas:candidate-vibid:346300170939": 19,
+      "gas:candidate-vibid:1001000195087": 7,
+      "gas:candidate-vibid:1001000121858": 170,
+      "gas:candidate-vibid:1001000136068": 66,
+      "gas:candidate-vibid:1001000112220": 20,
+      "gas:candidate-vibid:1001000220819": 30,
+      "gas:candidate-vibid:1001000113940": 9,
+      "gas:candidate-vibid:1001000131398": 48,
+      "gas:candidate-vibid:1001000202312": 308,
+      "gas:candidate-vibid:1001000225947": 343,
+      "special:against-all": 200
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172705&region=0&sub_region=0&type=429",
@@ -7542,17 +7542,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 10,
-      "Ещенко Денис Владимирович": 2,
-      "Иванов Николай Николаевич": 93,
-      "Иванов Сергей Владимирович": 33,
-      "Капелюш Александр Маратович": 9,
-      "Крюков Анатолий Федорович": 14,
-      "Сафонов Юрий Алексеевич": 11,
-      "Фалалеев Сергей Николаевич": 13,
-      "Федулов Александр Михайлович": 158,
-      "Чухраев Александр Михайлович": 155,
-      "Против всех": 70
+      "gas:candidate-vibid:346300170939": 10,
+      "gas:candidate-vibid:1001000195087": 2,
+      "gas:candidate-vibid:1001000121858": 93,
+      "gas:candidate-vibid:1001000136068": 33,
+      "gas:candidate-vibid:1001000112220": 9,
+      "gas:candidate-vibid:1001000220819": 14,
+      "gas:candidate-vibid:1001000113940": 11,
+      "gas:candidate-vibid:1001000131398": 13,
+      "gas:candidate-vibid:1001000202312": 158,
+      "gas:candidate-vibid:1001000225947": 155,
+      "special:against-all": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172705&region=0&sub_region=0&type=429",
@@ -7602,17 +7602,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 14,
-      "Ещенко Денис Владимирович": 1,
-      "Иванов Николай Николаевич": 124,
-      "Иванов Сергей Владимирович": 65,
-      "Капелюш Александр Маратович": 15,
-      "Крюков Анатолий Федорович": 21,
-      "Сафонов Юрий Алексеевич": 16,
-      "Фалалеев Сергей Николаевич": 20,
-      "Федулов Александр Михайлович": 221,
-      "Чухраев Александр Михайлович": 235,
-      "Против всех": 123
+      "gas:candidate-vibid:346300170939": 14,
+      "gas:candidate-vibid:1001000195087": 1,
+      "gas:candidate-vibid:1001000121858": 124,
+      "gas:candidate-vibid:1001000136068": 65,
+      "gas:candidate-vibid:1001000112220": 15,
+      "gas:candidate-vibid:1001000220819": 21,
+      "gas:candidate-vibid:1001000113940": 16,
+      "gas:candidate-vibid:1001000131398": 20,
+      "gas:candidate-vibid:1001000202312": 221,
+      "gas:candidate-vibid:1001000225947": 235,
+      "special:against-all": 123
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172705&region=0&sub_region=0&type=429",
@@ -7662,17 +7662,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 12,
-      "Ещенко Денис Владимирович": 9,
-      "Иванов Николай Николаевич": 212,
-      "Иванов Сергей Владимирович": 51,
-      "Капелюш Александр Маратович": 22,
-      "Крюков Анатолий Федорович": 50,
-      "Сафонов Юрий Алексеевич": 9,
-      "Фалалеев Сергей Николаевич": 36,
-      "Федулов Александр Михайлович": 221,
-      "Чухраев Александр Михайлович": 310,
-      "Против всех": 132
+      "gas:candidate-vibid:346300170939": 12,
+      "gas:candidate-vibid:1001000195087": 9,
+      "gas:candidate-vibid:1001000121858": 212,
+      "gas:candidate-vibid:1001000136068": 51,
+      "gas:candidate-vibid:1001000112220": 22,
+      "gas:candidate-vibid:1001000220819": 50,
+      "gas:candidate-vibid:1001000113940": 9,
+      "gas:candidate-vibid:1001000131398": 36,
+      "gas:candidate-vibid:1001000202312": 221,
+      "gas:candidate-vibid:1001000225947": 310,
+      "special:against-all": 132
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172705&region=0&sub_region=0&type=429",
@@ -7722,17 +7722,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 13,
-      "Ещенко Денис Владимирович": 4,
-      "Иванов Николай Николаевич": 224,
-      "Иванов Сергей Владимирович": 79,
-      "Капелюш Александр Маратович": 14,
-      "Крюков Анатолий Федорович": 37,
-      "Сафонов Юрий Алексеевич": 23,
-      "Фалалеев Сергей Николаевич": 41,
-      "Федулов Александр Михайлович": 272,
-      "Чухраев Александр Михайлович": 231,
-      "Против всех": 178
+      "gas:candidate-vibid:346300170939": 13,
+      "gas:candidate-vibid:1001000195087": 4,
+      "gas:candidate-vibid:1001000121858": 224,
+      "gas:candidate-vibid:1001000136068": 79,
+      "gas:candidate-vibid:1001000112220": 14,
+      "gas:candidate-vibid:1001000220819": 37,
+      "gas:candidate-vibid:1001000113940": 23,
+      "gas:candidate-vibid:1001000131398": 41,
+      "gas:candidate-vibid:1001000202312": 272,
+      "gas:candidate-vibid:1001000225947": 231,
+      "special:against-all": 178
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172705&region=0&sub_region=0&type=429",
@@ -7782,17 +7782,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 8,
-      "Ещенко Денис Владимирович": 4,
-      "Иванов Николай Николаевич": 159,
-      "Иванов Сергей Владимирович": 64,
-      "Капелюш Александр Маратович": 23,
-      "Крюков Анатолий Федорович": 19,
-      "Сафонов Юрий Алексеевич": 8,
-      "Фалалеев Сергей Николаевич": 48,
-      "Федулов Александр Михайлович": 248,
-      "Чухраев Александр Михайлович": 306,
-      "Против всех": 164
+      "gas:candidate-vibid:346300170939": 8,
+      "gas:candidate-vibid:1001000195087": 4,
+      "gas:candidate-vibid:1001000121858": 159,
+      "gas:candidate-vibid:1001000136068": 64,
+      "gas:candidate-vibid:1001000112220": 23,
+      "gas:candidate-vibid:1001000220819": 19,
+      "gas:candidate-vibid:1001000113940": 8,
+      "gas:candidate-vibid:1001000131398": 48,
+      "gas:candidate-vibid:1001000202312": 248,
+      "gas:candidate-vibid:1001000225947": 306,
+      "special:against-all": 164
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172705&region=0&sub_region=0&type=429",
@@ -7842,17 +7842,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 17,
-      "Ещенко Денис Владимирович": 3,
-      "Иванов Николай Николаевич": 118,
-      "Иванов Сергей Владимирович": 52,
-      "Капелюш Александр Маратович": 7,
-      "Крюков Анатолий Федорович": 25,
-      "Сафонов Юрий Алексеевич": 10,
-      "Фалалеев Сергей Николаевич": 35,
-      "Федулов Александр Михайлович": 218,
-      "Чухраев Александр Михайлович": 225,
-      "Против всех": 123
+      "gas:candidate-vibid:346300170939": 17,
+      "gas:candidate-vibid:1001000195087": 3,
+      "gas:candidate-vibid:1001000121858": 118,
+      "gas:candidate-vibid:1001000136068": 52,
+      "gas:candidate-vibid:1001000112220": 7,
+      "gas:candidate-vibid:1001000220819": 25,
+      "gas:candidate-vibid:1001000113940": 10,
+      "gas:candidate-vibid:1001000131398": 35,
+      "gas:candidate-vibid:1001000202312": 218,
+      "gas:candidate-vibid:1001000225947": 225,
+      "special:against-all": 123
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172705&region=0&sub_region=0&type=429",
@@ -7902,17 +7902,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 10,
-      "Ещенко Денис Владимирович": 2,
-      "Иванов Николай Николаевич": 60,
-      "Иванов Сергей Владимирович": 19,
-      "Капелюш Александр Маратович": 12,
-      "Крюков Анатолий Федорович": 19,
-      "Сафонов Юрий Алексеевич": 3,
-      "Фалалеев Сергей Николаевич": 21,
-      "Федулов Александр Михайлович": 136,
-      "Чухраев Александр Михайлович": 132,
-      "Против всех": 128
+      "gas:candidate-vibid:346300170939": 10,
+      "gas:candidate-vibid:1001000195087": 2,
+      "gas:candidate-vibid:1001000121858": 60,
+      "gas:candidate-vibid:1001000136068": 19,
+      "gas:candidate-vibid:1001000112220": 12,
+      "gas:candidate-vibid:1001000220819": 19,
+      "gas:candidate-vibid:1001000113940": 3,
+      "gas:candidate-vibid:1001000131398": 21,
+      "gas:candidate-vibid:1001000202312": 136,
+      "gas:candidate-vibid:1001000225947": 132,
+      "special:against-all": 128
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172705&region=0&sub_region=0&type=429",
@@ -7962,17 +7962,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 6,
-      "Ещенко Денис Владимирович": 4,
-      "Иванов Николай Николаевич": 153,
-      "Иванов Сергей Владимирович": 56,
-      "Капелюш Александр Маратович": 27,
-      "Крюков Анатолий Федорович": 22,
-      "Сафонов Юрий Алексеевич": 12,
-      "Фалалеев Сергей Николаевич": 32,
-      "Федулов Александр Михайлович": 247,
-      "Чухраев Александр Михайлович": 310,
-      "Против всех": 186
+      "gas:candidate-vibid:346300170939": 6,
+      "gas:candidate-vibid:1001000195087": 4,
+      "gas:candidate-vibid:1001000121858": 153,
+      "gas:candidate-vibid:1001000136068": 56,
+      "gas:candidate-vibid:1001000112220": 27,
+      "gas:candidate-vibid:1001000220819": 22,
+      "gas:candidate-vibid:1001000113940": 12,
+      "gas:candidate-vibid:1001000131398": 32,
+      "gas:candidate-vibid:1001000202312": 247,
+      "gas:candidate-vibid:1001000225947": 310,
+      "special:against-all": 186
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172705&region=0&sub_region=0&type=429",
@@ -8022,17 +8022,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 9,
-      "Ещенко Денис Владимирович": 3,
-      "Иванов Николай Николаевич": 135,
-      "Иванов Сергей Владимирович": 65,
-      "Капелюш Александр Маратович": 11,
-      "Крюков Анатолий Федорович": 20,
-      "Сафонов Юрий Алексеевич": 14,
-      "Фалалеев Сергей Николаевич": 35,
-      "Федулов Александр Михайлович": 287,
-      "Чухраев Александр Михайлович": 255,
-      "Против всех": 179
+      "gas:candidate-vibid:346300170939": 9,
+      "gas:candidate-vibid:1001000195087": 3,
+      "gas:candidate-vibid:1001000121858": 135,
+      "gas:candidate-vibid:1001000136068": 65,
+      "gas:candidate-vibid:1001000112220": 11,
+      "gas:candidate-vibid:1001000220819": 20,
+      "gas:candidate-vibid:1001000113940": 14,
+      "gas:candidate-vibid:1001000131398": 35,
+      "gas:candidate-vibid:1001000202312": 287,
+      "gas:candidate-vibid:1001000225947": 255,
+      "special:against-all": 179
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172705&region=0&sub_region=0&type=429",
@@ -8082,17 +8082,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 11,
-      "Ещенко Денис Владимирович": 4,
-      "Иванов Николай Николаевич": 176,
-      "Иванов Сергей Владимирович": 67,
-      "Капелюш Александр Маратович": 28,
-      "Крюков Анатолий Федорович": 50,
-      "Сафонов Юрий Алексеевич": 6,
-      "Фалалеев Сергей Николаевич": 51,
-      "Федулов Александр Михайлович": 304,
-      "Чухраев Александр Михайлович": 294,
-      "Против всех": 224
+      "gas:candidate-vibid:346300170939": 11,
+      "gas:candidate-vibid:1001000195087": 4,
+      "gas:candidate-vibid:1001000121858": 176,
+      "gas:candidate-vibid:1001000136068": 67,
+      "gas:candidate-vibid:1001000112220": 28,
+      "gas:candidate-vibid:1001000220819": 50,
+      "gas:candidate-vibid:1001000113940": 6,
+      "gas:candidate-vibid:1001000131398": 51,
+      "gas:candidate-vibid:1001000202312": 304,
+      "gas:candidate-vibid:1001000225947": 294,
+      "special:against-all": 224
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172705&region=0&sub_region=0&type=429",
@@ -8142,17 +8142,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 13,
-      "Ещенко Денис Владимирович": 3,
-      "Иванов Николай Николаевич": 121,
-      "Иванов Сергей Владимирович": 57,
-      "Капелюш Александр Маратович": 6,
-      "Крюков Анатолий Федорович": 25,
-      "Сафонов Юрий Алексеевич": 12,
-      "Фалалеев Сергей Николаевич": 24,
-      "Федулов Александр Михайлович": 216,
-      "Чухраев Александр Михайлович": 241,
-      "Против всех": 157
+      "gas:candidate-vibid:346300170939": 13,
+      "gas:candidate-vibid:1001000195087": 3,
+      "gas:candidate-vibid:1001000121858": 121,
+      "gas:candidate-vibid:1001000136068": 57,
+      "gas:candidate-vibid:1001000112220": 6,
+      "gas:candidate-vibid:1001000220819": 25,
+      "gas:candidate-vibid:1001000113940": 12,
+      "gas:candidate-vibid:1001000131398": 24,
+      "gas:candidate-vibid:1001000202312": 216,
+      "gas:candidate-vibid:1001000225947": 241,
+      "special:against-all": 157
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172705&region=0&sub_region=0&type=429",
@@ -8202,17 +8202,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 7,
-      "Ещенко Денис Владимирович": 2,
-      "Иванов Николай Николаевич": 126,
-      "Иванов Сергей Владимирович": 39,
-      "Капелюш Александр Маратович": 5,
-      "Крюков Анатолий Федорович": 22,
-      "Сафонов Юрий Алексеевич": 6,
-      "Фалалеев Сергей Николаевич": 27,
-      "Федулов Александр Михайлович": 173,
-      "Чухраев Александр Михайлович": 184,
-      "Против всех": 143
+      "gas:candidate-vibid:346300170939": 7,
+      "gas:candidate-vibid:1001000195087": 2,
+      "gas:candidate-vibid:1001000121858": 126,
+      "gas:candidate-vibid:1001000136068": 39,
+      "gas:candidate-vibid:1001000112220": 5,
+      "gas:candidate-vibid:1001000220819": 22,
+      "gas:candidate-vibid:1001000113940": 6,
+      "gas:candidate-vibid:1001000131398": 27,
+      "gas:candidate-vibid:1001000202312": 173,
+      "gas:candidate-vibid:1001000225947": 184,
+      "special:against-all": 143
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172705&region=0&sub_region=0&type=429",
@@ -8262,17 +8262,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 15,
-      "Ещенко Денис Владимирович": 5,
-      "Иванов Николай Николаевич": 138,
-      "Иванов Сергей Владимирович": 48,
-      "Капелюш Александр Маратович": 8,
-      "Крюков Анатолий Федорович": 34,
-      "Сафонов Юрий Алексеевич": 15,
-      "Фалалеев Сергей Николаевич": 25,
-      "Федулов Александр Михайлович": 211,
-      "Чухраев Александр Михайлович": 239,
-      "Против всех": 155
+      "gas:candidate-vibid:346300170939": 15,
+      "gas:candidate-vibid:1001000195087": 5,
+      "gas:candidate-vibid:1001000121858": 138,
+      "gas:candidate-vibid:1001000136068": 48,
+      "gas:candidate-vibid:1001000112220": 8,
+      "gas:candidate-vibid:1001000220819": 34,
+      "gas:candidate-vibid:1001000113940": 15,
+      "gas:candidate-vibid:1001000131398": 25,
+      "gas:candidate-vibid:1001000202312": 211,
+      "gas:candidate-vibid:1001000225947": 239,
+      "special:against-all": 155
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172705&region=0&sub_region=0&type=429",
@@ -8322,17 +8322,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 10,
-      "Ещенко Денис Владимирович": 4,
-      "Иванов Николай Николаевич": 96,
-      "Иванов Сергей Владимирович": 33,
-      "Капелюш Александр Маратович": 9,
-      "Крюков Анатолий Федорович": 23,
-      "Сафонов Юрий Алексеевич": 4,
-      "Фалалеев Сергей Николаевич": 19,
-      "Федулов Александр Михайлович": 126,
-      "Чухраев Александр Михайлович": 114,
-      "Против всех": 93
+      "gas:candidate-vibid:346300170939": 10,
+      "gas:candidate-vibid:1001000195087": 4,
+      "gas:candidate-vibid:1001000121858": 96,
+      "gas:candidate-vibid:1001000136068": 33,
+      "gas:candidate-vibid:1001000112220": 9,
+      "gas:candidate-vibid:1001000220819": 23,
+      "gas:candidate-vibid:1001000113940": 4,
+      "gas:candidate-vibid:1001000131398": 19,
+      "gas:candidate-vibid:1001000202312": 126,
+      "gas:candidate-vibid:1001000225947": 114,
+      "special:against-all": 93
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172705&region=0&sub_region=0&type=429",
@@ -8382,17 +8382,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 7,
-      "Ещенко Денис Владимирович": 2,
-      "Иванов Николай Николаевич": 89,
-      "Иванов Сергей Владимирович": 26,
-      "Капелюш Александр Маратович": 12,
-      "Крюков Анатолий Федорович": 14,
-      "Сафонов Юрий Алексеевич": 13,
-      "Фалалеев Сергей Николаевич": 40,
-      "Федулов Александр Михайлович": 134,
-      "Чухраев Александр Михайлович": 182,
-      "Против всех": 107
+      "gas:candidate-vibid:346300170939": 7,
+      "gas:candidate-vibid:1001000195087": 2,
+      "gas:candidate-vibid:1001000121858": 89,
+      "gas:candidate-vibid:1001000136068": 26,
+      "gas:candidate-vibid:1001000112220": 12,
+      "gas:candidate-vibid:1001000220819": 14,
+      "gas:candidate-vibid:1001000113940": 13,
+      "gas:candidate-vibid:1001000131398": 40,
+      "gas:candidate-vibid:1001000202312": 134,
+      "gas:candidate-vibid:1001000225947": 182,
+      "special:against-all": 107
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172705&region=0&sub_region=0&type=429",
@@ -8442,17 +8442,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 12,
-      "Ещенко Денис Владимирович": 3,
-      "Иванов Николай Николаевич": 104,
-      "Иванов Сергей Владимирович": 55,
-      "Капелюш Александр Маратович": 15,
-      "Крюков Анатолий Федорович": 47,
-      "Сафонов Юрий Алексеевич": 7,
-      "Фалалеев Сергей Николаевич": 27,
-      "Федулов Александр Михайлович": 221,
-      "Чухраев Александр Михайлович": 165,
-      "Против всех": 134
+      "gas:candidate-vibid:346300170939": 12,
+      "gas:candidate-vibid:1001000195087": 3,
+      "gas:candidate-vibid:1001000121858": 104,
+      "gas:candidate-vibid:1001000136068": 55,
+      "gas:candidate-vibid:1001000112220": 15,
+      "gas:candidate-vibid:1001000220819": 47,
+      "gas:candidate-vibid:1001000113940": 7,
+      "gas:candidate-vibid:1001000131398": 27,
+      "gas:candidate-vibid:1001000202312": 221,
+      "gas:candidate-vibid:1001000225947": 165,
+      "special:against-all": 134
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172705&region=0&sub_region=0&type=429",
@@ -8502,17 +8502,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 5,
-      "Ещенко Денис Владимирович": 3,
-      "Иванов Николай Николаевич": 65,
-      "Иванов Сергей Владимирович": 43,
-      "Капелюш Александр Маратович": 4,
-      "Крюков Анатолий Федорович": 16,
-      "Сафонов Юрий Алексеевич": 4,
-      "Фалалеев Сергей Николаевич": 17,
-      "Федулов Александр Михайлович": 198,
-      "Чухраев Александр Михайлович": 145,
-      "Против всех": 119
+      "gas:candidate-vibid:346300170939": 5,
+      "gas:candidate-vibid:1001000195087": 3,
+      "gas:candidate-vibid:1001000121858": 65,
+      "gas:candidate-vibid:1001000136068": 43,
+      "gas:candidate-vibid:1001000112220": 4,
+      "gas:candidate-vibid:1001000220819": 16,
+      "gas:candidate-vibid:1001000113940": 4,
+      "gas:candidate-vibid:1001000131398": 17,
+      "gas:candidate-vibid:1001000202312": 198,
+      "gas:candidate-vibid:1001000225947": 145,
+      "special:against-all": 119
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172705&region=0&sub_region=0&type=429",
@@ -8562,17 +8562,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 9,
-      "Ещенко Денис Владимирович": 1,
-      "Иванов Николай Николаевич": 93,
-      "Иванов Сергей Владимирович": 55,
-      "Капелюш Александр Маратович": 15,
-      "Крюков Анатолий Федорович": 32,
-      "Сафонов Юрий Алексеевич": 6,
-      "Фалалеев Сергей Николаевич": 19,
-      "Федулов Александр Михайлович": 212,
-      "Чухраев Александр Михайлович": 157,
-      "Против всех": 144
+      "gas:candidate-vibid:346300170939": 9,
+      "gas:candidate-vibid:1001000195087": 1,
+      "gas:candidate-vibid:1001000121858": 93,
+      "gas:candidate-vibid:1001000136068": 55,
+      "gas:candidate-vibid:1001000112220": 15,
+      "gas:candidate-vibid:1001000220819": 32,
+      "gas:candidate-vibid:1001000113940": 6,
+      "gas:candidate-vibid:1001000131398": 19,
+      "gas:candidate-vibid:1001000202312": 212,
+      "gas:candidate-vibid:1001000225947": 157,
+      "special:against-all": 144
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172705&region=0&sub_region=0&type=429",
@@ -8622,17 +8622,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 6,
-      "Ещенко Денис Владимирович": 6,
-      "Иванов Николай Николаевич": 107,
-      "Иванов Сергей Владимирович": 61,
-      "Капелюш Александр Маратович": 23,
-      "Крюков Анатолий Федорович": 33,
-      "Сафонов Юрий Алексеевич": 24,
-      "Фалалеев Сергей Николаевич": 36,
-      "Федулов Александр Михайлович": 184,
-      "Чухраев Александр Михайлович": 242,
-      "Против всех": 128
+      "gas:candidate-vibid:346300170939": 6,
+      "gas:candidate-vibid:1001000195087": 6,
+      "gas:candidate-vibid:1001000121858": 107,
+      "gas:candidate-vibid:1001000136068": 61,
+      "gas:candidate-vibid:1001000112220": 23,
+      "gas:candidate-vibid:1001000220819": 33,
+      "gas:candidate-vibid:1001000113940": 24,
+      "gas:candidate-vibid:1001000131398": 36,
+      "gas:candidate-vibid:1001000202312": 184,
+      "gas:candidate-vibid:1001000225947": 242,
+      "special:against-all": 128
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172705&region=0&sub_region=0&type=429",
@@ -8682,17 +8682,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 15,
-      "Ещенко Денис Владимирович": 4,
-      "Иванов Николай Николаевич": 112,
-      "Иванов Сергей Владимирович": 105,
-      "Капелюш Александр Маратович": 10,
-      "Крюков Анатолий Федорович": 16,
-      "Сафонов Юрий Алексеевич": 11,
-      "Фалалеев Сергей Николаевич": 45,
-      "Федулов Александр Михайлович": 305,
-      "Чухраев Александр Михайлович": 269,
-      "Против всех": 214
+      "gas:candidate-vibid:346300170939": 15,
+      "gas:candidate-vibid:1001000195087": 4,
+      "gas:candidate-vibid:1001000121858": 112,
+      "gas:candidate-vibid:1001000136068": 105,
+      "gas:candidate-vibid:1001000112220": 10,
+      "gas:candidate-vibid:1001000220819": 16,
+      "gas:candidate-vibid:1001000113940": 11,
+      "gas:candidate-vibid:1001000131398": 45,
+      "gas:candidate-vibid:1001000202312": 305,
+      "gas:candidate-vibid:1001000225947": 269,
+      "special:against-all": 214
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172705&region=0&sub_region=0&type=429",
@@ -8742,17 +8742,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 10,
-      "Ещенко Денис Владимирович": 4,
-      "Иванов Николай Николаевич": 139,
-      "Иванов Сергей Владимирович": 68,
-      "Капелюш Александр Маратович": 8,
-      "Крюков Анатолий Федорович": 23,
-      "Сафонов Юрий Алексеевич": 6,
-      "Фалалеев Сергей Николаевич": 39,
-      "Федулов Александр Михайлович": 258,
-      "Чухраев Александр Михайлович": 203,
-      "Против всех": 145
+      "gas:candidate-vibid:346300170939": 10,
+      "gas:candidate-vibid:1001000195087": 4,
+      "gas:candidate-vibid:1001000121858": 139,
+      "gas:candidate-vibid:1001000136068": 68,
+      "gas:candidate-vibid:1001000112220": 8,
+      "gas:candidate-vibid:1001000220819": 23,
+      "gas:candidate-vibid:1001000113940": 6,
+      "gas:candidate-vibid:1001000131398": 39,
+      "gas:candidate-vibid:1001000202312": 258,
+      "gas:candidate-vibid:1001000225947": 203,
+      "special:against-all": 145
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172705&region=0&sub_region=0&type=429",
@@ -8802,17 +8802,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 14,
-      "Ещенко Денис Владимирович": 5,
-      "Иванов Николай Николаевич": 134,
-      "Иванов Сергей Владимирович": 85,
-      "Капелюш Александр Маратович": 12,
-      "Крюков Анатолий Федорович": 29,
-      "Сафонов Юрий Алексеевич": 7,
-      "Фалалеев Сергей Николаевич": 29,
-      "Федулов Александр Михайлович": 317,
-      "Чухраев Александр Михайлович": 219,
-      "Против всех": 172
+      "gas:candidate-vibid:346300170939": 14,
+      "gas:candidate-vibid:1001000195087": 5,
+      "gas:candidate-vibid:1001000121858": 134,
+      "gas:candidate-vibid:1001000136068": 85,
+      "gas:candidate-vibid:1001000112220": 12,
+      "gas:candidate-vibid:1001000220819": 29,
+      "gas:candidate-vibid:1001000113940": 7,
+      "gas:candidate-vibid:1001000131398": 29,
+      "gas:candidate-vibid:1001000202312": 317,
+      "gas:candidate-vibid:1001000225947": 219,
+      "special:against-all": 172
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172705&region=0&sub_region=0&type=429",
@@ -8862,17 +8862,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 9,
-      "Ещенко Денис Владимирович": 5,
-      "Иванов Николай Николаевич": 93,
-      "Иванов Сергей Владимирович": 57,
-      "Капелюш Александр Маратович": 5,
-      "Крюков Анатолий Федорович": 18,
-      "Сафонов Юрий Алексеевич": 11,
-      "Фалалеев Сергей Николаевич": 17,
-      "Федулов Александр Михайлович": 215,
-      "Чухраев Александр Михайлович": 213,
-      "Против всех": 144
+      "gas:candidate-vibid:346300170939": 9,
+      "gas:candidate-vibid:1001000195087": 5,
+      "gas:candidate-vibid:1001000121858": 93,
+      "gas:candidate-vibid:1001000136068": 57,
+      "gas:candidate-vibid:1001000112220": 5,
+      "gas:candidate-vibid:1001000220819": 18,
+      "gas:candidate-vibid:1001000113940": 11,
+      "gas:candidate-vibid:1001000131398": 17,
+      "gas:candidate-vibid:1001000202312": 215,
+      "gas:candidate-vibid:1001000225947": 213,
+      "special:against-all": 144
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172705&region=0&sub_region=0&type=429",
@@ -8922,17 +8922,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 7,
-      "Ещенко Денис Владимирович": 0,
-      "Иванов Николай Николаевич": 42,
-      "Иванов Сергей Владимирович": 16,
-      "Капелюш Александр Маратович": 4,
-      "Крюков Анатолий Федорович": 2,
-      "Сафонов Юрий Алексеевич": 4,
-      "Фалалеев Сергей Николаевич": 16,
-      "Федулов Александр Михайлович": 79,
-      "Чухраев Александр Михайлович": 57,
-      "Против всех": 20
+      "gas:candidate-vibid:346300170939": 7,
+      "gas:candidate-vibid:1001000195087": 0,
+      "gas:candidate-vibid:1001000121858": 42,
+      "gas:candidate-vibid:1001000136068": 16,
+      "gas:candidate-vibid:1001000112220": 4,
+      "gas:candidate-vibid:1001000220819": 2,
+      "gas:candidate-vibid:1001000113940": 4,
+      "gas:candidate-vibid:1001000131398": 16,
+      "gas:candidate-vibid:1001000202312": 79,
+      "gas:candidate-vibid:1001000225947": 57,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172705&region=0&sub_region=0&type=429",
@@ -8982,17 +8982,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 8,
-      "Ещенко Денис Владимирович": 2,
-      "Иванов Николай Николаевич": 92,
-      "Иванов Сергей Владимирович": 37,
-      "Капелюш Александр Маратович": 25,
-      "Крюков Анатолий Федорович": 16,
-      "Сафонов Юрий Алексеевич": 3,
-      "Фалалеев Сергей Николаевич": 33,
-      "Федулов Александр Михайлович": 542,
-      "Чухраев Александр Михайлович": 147,
-      "Против всех": 125
+      "gas:candidate-vibid:346300170939": 8,
+      "gas:candidate-vibid:1001000195087": 2,
+      "gas:candidate-vibid:1001000121858": 92,
+      "gas:candidate-vibid:1001000136068": 37,
+      "gas:candidate-vibid:1001000112220": 25,
+      "gas:candidate-vibid:1001000220819": 16,
+      "gas:candidate-vibid:1001000113940": 3,
+      "gas:candidate-vibid:1001000131398": 33,
+      "gas:candidate-vibid:1001000202312": 542,
+      "gas:candidate-vibid:1001000225947": 147,
+      "special:against-all": 125
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172705&region=0&sub_region=0&type=429",
@@ -9042,17 +9042,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 9,
-      "Ещенко Денис Владимирович": 3,
-      "Иванов Николай Николаевич": 148,
-      "Иванов Сергей Владимирович": 32,
-      "Капелюш Александр Маратович": 10,
-      "Крюков Анатолий Федорович": 22,
-      "Сафонов Юрий Алексеевич": 6,
-      "Фалалеев Сергей Николаевич": 31,
-      "Федулов Александр Михайлович": 442,
-      "Чухраев Александр Михайлович": 176,
-      "Против всех": 121
+      "gas:candidate-vibid:346300170939": 9,
+      "gas:candidate-vibid:1001000195087": 3,
+      "gas:candidate-vibid:1001000121858": 148,
+      "gas:candidate-vibid:1001000136068": 32,
+      "gas:candidate-vibid:1001000112220": 10,
+      "gas:candidate-vibid:1001000220819": 22,
+      "gas:candidate-vibid:1001000113940": 6,
+      "gas:candidate-vibid:1001000131398": 31,
+      "gas:candidate-vibid:1001000202312": 442,
+      "gas:candidate-vibid:1001000225947": 176,
+      "special:against-all": 121
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172705&region=0&sub_region=0&type=429",
@@ -9102,17 +9102,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 3,
-      "Ещенко Денис Владимирович": 3,
-      "Иванов Николай Николаевич": 67,
-      "Иванов Сергей Владимирович": 34,
-      "Капелюш Александр Маратович": 9,
-      "Крюков Анатолий Федорович": 14,
-      "Сафонов Юрий Алексеевич": 8,
-      "Фалалеев Сергей Николаевич": 32,
-      "Федулов Александр Михайлович": 474,
-      "Чухраев Александр Михайлович": 128,
-      "Против всех": 96
+      "gas:candidate-vibid:346300170939": 3,
+      "gas:candidate-vibid:1001000195087": 3,
+      "gas:candidate-vibid:1001000121858": 67,
+      "gas:candidate-vibid:1001000136068": 34,
+      "gas:candidate-vibid:1001000112220": 9,
+      "gas:candidate-vibid:1001000220819": 14,
+      "gas:candidate-vibid:1001000113940": 8,
+      "gas:candidate-vibid:1001000131398": 32,
+      "gas:candidate-vibid:1001000202312": 474,
+      "gas:candidate-vibid:1001000225947": 128,
+      "special:against-all": 96
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172705&region=0&sub_region=0&type=429",
@@ -9162,17 +9162,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 10,
-      "Ещенко Денис Владимирович": 2,
-      "Иванов Николай Николаевич": 102,
-      "Иванов Сергей Владимирович": 24,
-      "Капелюш Александр Маратович": 14,
-      "Крюков Анатолий Федорович": 14,
-      "Сафонов Юрий Алексеевич": 8,
-      "Фалалеев Сергей Николаевич": 27,
-      "Федулов Александр Михайлович": 334,
-      "Чухраев Александр Михайлович": 145,
-      "Против всех": 103
+      "gas:candidate-vibid:346300170939": 10,
+      "gas:candidate-vibid:1001000195087": 2,
+      "gas:candidate-vibid:1001000121858": 102,
+      "gas:candidate-vibid:1001000136068": 24,
+      "gas:candidate-vibid:1001000112220": 14,
+      "gas:candidate-vibid:1001000220819": 14,
+      "gas:candidate-vibid:1001000113940": 8,
+      "gas:candidate-vibid:1001000131398": 27,
+      "gas:candidate-vibid:1001000202312": 334,
+      "gas:candidate-vibid:1001000225947": 145,
+      "special:against-all": 103
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172705&region=0&sub_region=0&type=429",
@@ -9222,17 +9222,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 17,
-      "Ещенко Денис Владимирович": 6,
-      "Иванов Николай Николаевич": 155,
-      "Иванов Сергей Владимирович": 50,
-      "Капелюш Александр Маратович": 12,
-      "Крюков Анатолий Федорович": 15,
-      "Сафонов Юрий Алексеевич": 8,
-      "Фалалеев Сергей Николаевич": 16,
-      "Федулов Александр Михайлович": 246,
-      "Чухраев Александр Михайлович": 203,
-      "Против всех": 96
+      "gas:candidate-vibid:346300170939": 17,
+      "gas:candidate-vibid:1001000195087": 6,
+      "gas:candidate-vibid:1001000121858": 155,
+      "gas:candidate-vibid:1001000136068": 50,
+      "gas:candidate-vibid:1001000112220": 12,
+      "gas:candidate-vibid:1001000220819": 15,
+      "gas:candidate-vibid:1001000113940": 8,
+      "gas:candidate-vibid:1001000131398": 16,
+      "gas:candidate-vibid:1001000202312": 246,
+      "gas:candidate-vibid:1001000225947": 203,
+      "special:against-all": 96
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172705&region=0&sub_region=0&type=429",
@@ -9282,17 +9282,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 10,
-      "Ещенко Денис Владимирович": 6,
-      "Иванов Николай Николаевич": 210,
-      "Иванов Сергей Владимирович": 52,
-      "Капелюш Александр Маратович": 18,
-      "Крюков Анатолий Федорович": 35,
-      "Сафонов Юрий Алексеевич": 19,
-      "Фалалеев Сергей Николаевич": 28,
-      "Федулов Александр Михайлович": 401,
-      "Чухраев Александр Михайлович": 211,
-      "Против всех": 141
+      "gas:candidate-vibid:346300170939": 10,
+      "gas:candidate-vibid:1001000195087": 6,
+      "gas:candidate-vibid:1001000121858": 210,
+      "gas:candidate-vibid:1001000136068": 52,
+      "gas:candidate-vibid:1001000112220": 18,
+      "gas:candidate-vibid:1001000220819": 35,
+      "gas:candidate-vibid:1001000113940": 19,
+      "gas:candidate-vibid:1001000131398": 28,
+      "gas:candidate-vibid:1001000202312": 401,
+      "gas:candidate-vibid:1001000225947": 211,
+      "special:against-all": 141
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172705&region=0&sub_region=0&type=429",
@@ -9342,17 +9342,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 3,
-      "Ещенко Денис Владимирович": 1,
-      "Иванов Николай Николаевич": 113,
-      "Иванов Сергей Владимирович": 42,
-      "Капелюш Александр Маратович": 14,
-      "Крюков Анатолий Федорович": 27,
-      "Сафонов Юрий Алексеевич": 10,
-      "Фалалеев Сергей Николаевич": 23,
-      "Федулов Александр Михайлович": 241,
-      "Чухраев Александр Михайлович": 163,
-      "Против всех": 88
+      "gas:candidate-vibid:346300170939": 3,
+      "gas:candidate-vibid:1001000195087": 1,
+      "gas:candidate-vibid:1001000121858": 113,
+      "gas:candidate-vibid:1001000136068": 42,
+      "gas:candidate-vibid:1001000112220": 14,
+      "gas:candidate-vibid:1001000220819": 27,
+      "gas:candidate-vibid:1001000113940": 10,
+      "gas:candidate-vibid:1001000131398": 23,
+      "gas:candidate-vibid:1001000202312": 241,
+      "gas:candidate-vibid:1001000225947": 163,
+      "special:against-all": 88
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172705&region=0&sub_region=0&type=429",
@@ -9402,17 +9402,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 10,
-      "Ещенко Денис Владимирович": 1,
-      "Иванов Николай Николаевич": 147,
-      "Иванов Сергей Владимирович": 38,
-      "Капелюш Александр Маратович": 13,
-      "Крюков Анатолий Федорович": 17,
-      "Сафонов Юрий Алексеевич": 8,
-      "Фалалеев Сергей Николаевич": 33,
-      "Федулов Александр Михайлович": 230,
-      "Чухраев Александр Михайлович": 175,
-      "Против всех": 122
+      "gas:candidate-vibid:346300170939": 10,
+      "gas:candidate-vibid:1001000195087": 1,
+      "gas:candidate-vibid:1001000121858": 147,
+      "gas:candidate-vibid:1001000136068": 38,
+      "gas:candidate-vibid:1001000112220": 13,
+      "gas:candidate-vibid:1001000220819": 17,
+      "gas:candidate-vibid:1001000113940": 8,
+      "gas:candidate-vibid:1001000131398": 33,
+      "gas:candidate-vibid:1001000202312": 230,
+      "gas:candidate-vibid:1001000225947": 175,
+      "special:against-all": 122
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172705&region=0&sub_region=0&type=429",
@@ -9462,17 +9462,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 13,
-      "Ещенко Денис Владимирович": 1,
-      "Иванов Николай Николаевич": 113,
-      "Иванов Сергей Владимирович": 53,
-      "Капелюш Александр Маратович": 14,
-      "Крюков Анатолий Федорович": 27,
-      "Сафонов Юрий Алексеевич": 10,
-      "Фалалеев Сергей Николаевич": 17,
-      "Федулов Александр Михайлович": 308,
-      "Чухраев Александр Михайлович": 242,
-      "Против всех": 171
+      "gas:candidate-vibid:346300170939": 13,
+      "gas:candidate-vibid:1001000195087": 1,
+      "gas:candidate-vibid:1001000121858": 113,
+      "gas:candidate-vibid:1001000136068": 53,
+      "gas:candidate-vibid:1001000112220": 14,
+      "gas:candidate-vibid:1001000220819": 27,
+      "gas:candidate-vibid:1001000113940": 10,
+      "gas:candidate-vibid:1001000131398": 17,
+      "gas:candidate-vibid:1001000202312": 308,
+      "gas:candidate-vibid:1001000225947": 242,
+      "special:against-all": 171
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172705&region=0&sub_region=0&type=429",
@@ -9522,17 +9522,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 13,
-      "Ещенко Денис Владимирович": 3,
-      "Иванов Николай Николаевич": 154,
-      "Иванов Сергей Владимирович": 73,
-      "Капелюш Александр Маратович": 16,
-      "Крюков Анатолий Федорович": 40,
-      "Сафонов Юрий Алексеевич": 6,
-      "Фалалеев Сергей Николаевич": 35,
-      "Федулов Александр Михайлович": 391,
-      "Чухраев Александр Михайлович": 238,
-      "Против всех": 218
+      "gas:candidate-vibid:346300170939": 13,
+      "gas:candidate-vibid:1001000195087": 3,
+      "gas:candidate-vibid:1001000121858": 154,
+      "gas:candidate-vibid:1001000136068": 73,
+      "gas:candidate-vibid:1001000112220": 16,
+      "gas:candidate-vibid:1001000220819": 40,
+      "gas:candidate-vibid:1001000113940": 6,
+      "gas:candidate-vibid:1001000131398": 35,
+      "gas:candidate-vibid:1001000202312": 391,
+      "gas:candidate-vibid:1001000225947": 238,
+      "special:against-all": 218
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172705&region=0&sub_region=0&type=429",
@@ -9582,17 +9582,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 1,
-      "Ещенко Денис Владимирович": 1,
-      "Иванов Николай Николаевич": 76,
-      "Иванов Сергей Владимирович": 23,
-      "Капелюш Александр Маратович": 3,
-      "Крюков Анатолий Федорович": 10,
-      "Сафонов Юрий Алексеевич": 6,
-      "Фалалеев Сергей Николаевич": 8,
-      "Федулов Александр Михайлович": 159,
-      "Чухраев Александр Михайлович": 119,
-      "Против всех": 90
+      "gas:candidate-vibid:346300170939": 1,
+      "gas:candidate-vibid:1001000195087": 1,
+      "gas:candidate-vibid:1001000121858": 76,
+      "gas:candidate-vibid:1001000136068": 23,
+      "gas:candidate-vibid:1001000112220": 3,
+      "gas:candidate-vibid:1001000220819": 10,
+      "gas:candidate-vibid:1001000113940": 6,
+      "gas:candidate-vibid:1001000131398": 8,
+      "gas:candidate-vibid:1001000202312": 159,
+      "gas:candidate-vibid:1001000225947": 119,
+      "special:against-all": 90
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172705&region=0&sub_region=0&type=429",
@@ -9642,17 +9642,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 15,
-      "Ещенко Денис Владимирович": 6,
-      "Иванов Николай Николаевич": 193,
-      "Иванов Сергей Владимирович": 67,
-      "Капелюш Александр Маратович": 12,
-      "Крюков Анатолий Федорович": 15,
-      "Сафонов Юрий Алексеевич": 4,
-      "Фалалеев Сергей Николаевич": 31,
-      "Федулов Александр Михайлович": 357,
-      "Чухраев Александр Михайлович": 182,
-      "Против всех": 168
+      "gas:candidate-vibid:346300170939": 15,
+      "gas:candidate-vibid:1001000195087": 6,
+      "gas:candidate-vibid:1001000121858": 193,
+      "gas:candidate-vibid:1001000136068": 67,
+      "gas:candidate-vibid:1001000112220": 12,
+      "gas:candidate-vibid:1001000220819": 15,
+      "gas:candidate-vibid:1001000113940": 4,
+      "gas:candidate-vibid:1001000131398": 31,
+      "gas:candidate-vibid:1001000202312": 357,
+      "gas:candidate-vibid:1001000225947": 182,
+      "special:against-all": 168
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172705&region=0&sub_region=0&type=429",
@@ -9702,17 +9702,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 6,
-      "Ещенко Денис Владимирович": 1,
-      "Иванов Николай Николаевич": 177,
-      "Иванов Сергей Владимирович": 57,
-      "Капелюш Александр Маратович": 10,
-      "Крюков Анатолий Федорович": 29,
-      "Сафонов Юрий Алексеевич": 10,
-      "Фалалеев Сергей Николаевич": 34,
-      "Федулов Александр Михайлович": 354,
-      "Чухраев Александр Михайлович": 246,
-      "Против всех": 180
+      "gas:candidate-vibid:346300170939": 6,
+      "gas:candidate-vibid:1001000195087": 1,
+      "gas:candidate-vibid:1001000121858": 177,
+      "gas:candidate-vibid:1001000136068": 57,
+      "gas:candidate-vibid:1001000112220": 10,
+      "gas:candidate-vibid:1001000220819": 29,
+      "gas:candidate-vibid:1001000113940": 10,
+      "gas:candidate-vibid:1001000131398": 34,
+      "gas:candidate-vibid:1001000202312": 354,
+      "gas:candidate-vibid:1001000225947": 246,
+      "special:against-all": 180
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172705&region=0&sub_region=0&type=429",
@@ -9762,17 +9762,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 8,
-      "Ещенко Денис Владимирович": 3,
-      "Иванов Николай Николаевич": 216,
-      "Иванов Сергей Владимирович": 59,
-      "Капелюш Александр Маратович": 12,
-      "Крюков Анатолий Федорович": 28,
-      "Сафонов Юрий Алексеевич": 8,
-      "Фалалеев Сергей Николаевич": 36,
-      "Федулов Александр Михайлович": 308,
-      "Чухраев Александр Михайлович": 203,
-      "Против всех": 174
+      "gas:candidate-vibid:346300170939": 8,
+      "gas:candidate-vibid:1001000195087": 3,
+      "gas:candidate-vibid:1001000121858": 216,
+      "gas:candidate-vibid:1001000136068": 59,
+      "gas:candidate-vibid:1001000112220": 12,
+      "gas:candidate-vibid:1001000220819": 28,
+      "gas:candidate-vibid:1001000113940": 8,
+      "gas:candidate-vibid:1001000131398": 36,
+      "gas:candidate-vibid:1001000202312": 308,
+      "gas:candidate-vibid:1001000225947": 203,
+      "special:against-all": 174
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172705&region=0&sub_region=0&type=429",
@@ -9822,17 +9822,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 20,
-      "Ещенко Денис Владимирович": 1,
-      "Иванов Николай Николаевич": 71,
-      "Иванов Сергей Владимирович": 38,
-      "Капелюш Александр Маратович": 5,
-      "Крюков Анатолий Федорович": 10,
-      "Сафонов Юрий Алексеевич": 7,
-      "Фалалеев Сергей Николаевич": 22,
-      "Федулов Александр Михайлович": 228,
-      "Чухраев Александр Михайлович": 90,
-      "Против всех": 46
+      "gas:candidate-vibid:346300170939": 20,
+      "gas:candidate-vibid:1001000195087": 1,
+      "gas:candidate-vibid:1001000121858": 71,
+      "gas:candidate-vibid:1001000136068": 38,
+      "gas:candidate-vibid:1001000112220": 5,
+      "gas:candidate-vibid:1001000220819": 10,
+      "gas:candidate-vibid:1001000113940": 7,
+      "gas:candidate-vibid:1001000131398": 22,
+      "gas:candidate-vibid:1001000202312": 228,
+      "gas:candidate-vibid:1001000225947": 90,
+      "special:against-all": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172705&region=0&sub_region=0&type=429",
@@ -9882,17 +9882,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 2,
-      "Ещенко Денис Владимирович": 2,
-      "Иванов Николай Николаевич": 29,
-      "Иванов Сергей Владимирович": 7,
-      "Капелюш Александр Маратович": 2,
-      "Крюков Анатолий Федорович": 4,
-      "Сафонов Юрий Алексеевич": 2,
-      "Фалалеев Сергей Николаевич": 5,
-      "Федулов Александр Михайлович": 20,
-      "Чухраев Александр Михайлович": 265,
-      "Против всех": 23
+      "gas:candidate-vibid:346300170939": 2,
+      "gas:candidate-vibid:1001000195087": 2,
+      "gas:candidate-vibid:1001000121858": 29,
+      "gas:candidate-vibid:1001000136068": 7,
+      "gas:candidate-vibid:1001000112220": 2,
+      "gas:candidate-vibid:1001000220819": 4,
+      "gas:candidate-vibid:1001000113940": 2,
+      "gas:candidate-vibid:1001000131398": 5,
+      "gas:candidate-vibid:1001000202312": 20,
+      "gas:candidate-vibid:1001000225947": 265,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172705&region=0&sub_region=0&type=429",
@@ -9942,17 +9942,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 4,
-      "Ещенко Денис Владимирович": 0,
-      "Иванов Николай Николаевич": 9,
-      "Иванов Сергей Владимирович": 8,
-      "Капелюш Александр Маратович": 0,
-      "Крюков Анатолий Федорович": 2,
-      "Сафонов Юрий Алексеевич": 0,
-      "Фалалеев Сергей Николаевич": 0,
-      "Федулов Александр Михайлович": 26,
-      "Чухраев Александр Михайлович": 30,
-      "Против всех": 26
+      "gas:candidate-vibid:346300170939": 4,
+      "gas:candidate-vibid:1001000195087": 0,
+      "gas:candidate-vibid:1001000121858": 9,
+      "gas:candidate-vibid:1001000136068": 8,
+      "gas:candidate-vibid:1001000112220": 0,
+      "gas:candidate-vibid:1001000220819": 2,
+      "gas:candidate-vibid:1001000113940": 0,
+      "gas:candidate-vibid:1001000131398": 0,
+      "gas:candidate-vibid:1001000202312": 26,
+      "gas:candidate-vibid:1001000225947": 30,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172705&region=0&sub_region=0&type=429",
@@ -10002,17 +10002,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 1,
-      "Ещенко Денис Владимирович": 1,
-      "Иванов Николай Николаевич": 3,
-      "Иванов Сергей Владимирович": 1,
-      "Капелюш Александр Маратович": 1,
-      "Крюков Анатолий Федорович": 1,
-      "Сафонов Юрий Алексеевич": 2,
-      "Фалалеев Сергей Николаевич": 2,
-      "Федулов Александр Михайлович": 18,
-      "Чухраев Александр Михайлович": 17,
-      "Против всех": 21
+      "gas:candidate-vibid:346300170939": 1,
+      "gas:candidate-vibid:1001000195087": 1,
+      "gas:candidate-vibid:1001000121858": 3,
+      "gas:candidate-vibid:1001000136068": 1,
+      "gas:candidate-vibid:1001000112220": 1,
+      "gas:candidate-vibid:1001000220819": 1,
+      "gas:candidate-vibid:1001000113940": 2,
+      "gas:candidate-vibid:1001000131398": 2,
+      "gas:candidate-vibid:1001000202312": 18,
+      "gas:candidate-vibid:1001000225947": 17,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172705&region=0&sub_region=0&type=429",
@@ -10062,17 +10062,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 13,
-      "Ещенко Денис Владимирович": 2,
-      "Иванов Николай Николаевич": 149,
-      "Иванов Сергей Владимирович": 77,
-      "Капелюш Александр Маратович": 28,
-      "Крюков Анатолий Федорович": 22,
-      "Сафонов Юрий Алексеевич": 14,
-      "Фалалеев Сергей Николаевич": 28,
-      "Федулов Александр Михайлович": 192,
-      "Чухраев Александр Михайлович": 253,
-      "Против всех": 199
+      "gas:candidate-vibid:346300170939": 13,
+      "gas:candidate-vibid:1001000195087": 2,
+      "gas:candidate-vibid:1001000121858": 149,
+      "gas:candidate-vibid:1001000136068": 77,
+      "gas:candidate-vibid:1001000112220": 28,
+      "gas:candidate-vibid:1001000220819": 22,
+      "gas:candidate-vibid:1001000113940": 14,
+      "gas:candidate-vibid:1001000131398": 28,
+      "gas:candidate-vibid:1001000202312": 192,
+      "gas:candidate-vibid:1001000225947": 253,
+      "special:against-all": 199
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172706&region=0&sub_region=0&type=429",
@@ -10122,17 +10122,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 9,
-      "Ещенко Денис Владимирович": 0,
-      "Иванов Николай Николаевич": 32,
-      "Иванов Сергей Владимирович": 16,
-      "Капелюш Александр Маратович": 2,
-      "Крюков Анатолий Федорович": 7,
-      "Сафонов Юрий Алексеевич": 4,
-      "Фалалеев Сергей Николаевич": 12,
-      "Федулов Александр Михайлович": 42,
-      "Чухраев Александр Михайлович": 65,
-      "Против всех": 45
+      "gas:candidate-vibid:346300170939": 9,
+      "gas:candidate-vibid:1001000195087": 0,
+      "gas:candidate-vibid:1001000121858": 32,
+      "gas:candidate-vibid:1001000136068": 16,
+      "gas:candidate-vibid:1001000112220": 2,
+      "gas:candidate-vibid:1001000220819": 7,
+      "gas:candidate-vibid:1001000113940": 4,
+      "gas:candidate-vibid:1001000131398": 12,
+      "gas:candidate-vibid:1001000202312": 42,
+      "gas:candidate-vibid:1001000225947": 65,
+      "special:against-all": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172706&region=0&sub_region=0&type=429",
@@ -10182,17 +10182,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 7,
-      "Ещенко Денис Владимирович": 5,
-      "Иванов Николай Николаевич": 117,
-      "Иванов Сергей Владимирович": 50,
-      "Капелюш Александр Маратович": 16,
-      "Крюков Анатолий Федорович": 21,
-      "Сафонов Юрий Алексеевич": 11,
-      "Фалалеев Сергей Николаевич": 19,
-      "Федулов Александр Михайлович": 134,
-      "Чухраев Александр Михайлович": 172,
-      "Против всех": 140
+      "gas:candidate-vibid:346300170939": 7,
+      "gas:candidate-vibid:1001000195087": 5,
+      "gas:candidate-vibid:1001000121858": 117,
+      "gas:candidate-vibid:1001000136068": 50,
+      "gas:candidate-vibid:1001000112220": 16,
+      "gas:candidate-vibid:1001000220819": 21,
+      "gas:candidate-vibid:1001000113940": 11,
+      "gas:candidate-vibid:1001000131398": 19,
+      "gas:candidate-vibid:1001000202312": 134,
+      "gas:candidate-vibid:1001000225947": 172,
+      "special:against-all": 140
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172706&region=0&sub_region=0&type=429",
@@ -10242,17 +10242,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 12,
-      "Ещенко Денис Владимирович": 4,
-      "Иванов Николай Николаевич": 164,
-      "Иванов Сергей Владимирович": 83,
-      "Капелюш Александр Маратович": 40,
-      "Крюков Анатолий Федорович": 27,
-      "Сафонов Юрий Алексеевич": 23,
-      "Фалалеев Сергей Николаевич": 41,
-      "Федулов Александр Михайлович": 165,
-      "Чухраев Александр Михайлович": 257,
-      "Против всех": 190
+      "gas:candidate-vibid:346300170939": 12,
+      "gas:candidate-vibid:1001000195087": 4,
+      "gas:candidate-vibid:1001000121858": 164,
+      "gas:candidate-vibid:1001000136068": 83,
+      "gas:candidate-vibid:1001000112220": 40,
+      "gas:candidate-vibid:1001000220819": 27,
+      "gas:candidate-vibid:1001000113940": 23,
+      "gas:candidate-vibid:1001000131398": 41,
+      "gas:candidate-vibid:1001000202312": 165,
+      "gas:candidate-vibid:1001000225947": 257,
+      "special:against-all": 190
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172706&region=0&sub_region=0&type=429",
@@ -10302,17 +10302,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 15,
-      "Ещенко Денис Владимирович": 8,
-      "Иванов Николай Николаевич": 224,
-      "Иванов Сергей Владимирович": 63,
-      "Капелюш Александр Маратович": 26,
-      "Крюков Анатолий Федорович": 56,
-      "Сафонов Юрий Алексеевич": 24,
-      "Фалалеев Сергей Николаевич": 40,
-      "Федулов Александр Михайлович": 251,
-      "Чухраев Александр Михайлович": 390,
-      "Против всех": 262
+      "gas:candidate-vibid:346300170939": 15,
+      "gas:candidate-vibid:1001000195087": 8,
+      "gas:candidate-vibid:1001000121858": 224,
+      "gas:candidate-vibid:1001000136068": 63,
+      "gas:candidate-vibid:1001000112220": 26,
+      "gas:candidate-vibid:1001000220819": 56,
+      "gas:candidate-vibid:1001000113940": 24,
+      "gas:candidate-vibid:1001000131398": 40,
+      "gas:candidate-vibid:1001000202312": 251,
+      "gas:candidate-vibid:1001000225947": 390,
+      "special:against-all": 262
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172706&region=0&sub_region=0&type=429",
@@ -10362,17 +10362,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 7,
-      "Ещенко Денис Владимирович": 3,
-      "Иванов Николай Николаевич": 100,
-      "Иванов Сергей Владимирович": 28,
-      "Капелюш Александр Маратович": 20,
-      "Крюков Анатолий Федорович": 31,
-      "Сафонов Юрий Алексеевич": 10,
-      "Фалалеев Сергей Николаевич": 18,
-      "Федулов Александр Михайлович": 92,
-      "Чухраев Александр Михайлович": 166,
-      "Против всех": 104
+      "gas:candidate-vibid:346300170939": 7,
+      "gas:candidate-vibid:1001000195087": 3,
+      "gas:candidate-vibid:1001000121858": 100,
+      "gas:candidate-vibid:1001000136068": 28,
+      "gas:candidate-vibid:1001000112220": 20,
+      "gas:candidate-vibid:1001000220819": 31,
+      "gas:candidate-vibid:1001000113940": 10,
+      "gas:candidate-vibid:1001000131398": 18,
+      "gas:candidate-vibid:1001000202312": 92,
+      "gas:candidate-vibid:1001000225947": 166,
+      "special:against-all": 104
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172706&region=0&sub_region=0&type=429",
@@ -10422,17 +10422,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 2,
-      "Ещенко Денис Владимирович": 3,
-      "Иванов Николай Николаевич": 41,
-      "Иванов Сергей Владимирович": 21,
-      "Капелюш Александр Маратович": 9,
-      "Крюков Анатолий Федорович": 5,
-      "Сафонов Юрий Алексеевич": 6,
-      "Фалалеев Сергей Николаевич": 9,
-      "Федулов Александр Михайлович": 82,
-      "Чухраев Александр Михайлович": 84,
-      "Против всех": 37
+      "gas:candidate-vibid:346300170939": 2,
+      "gas:candidate-vibid:1001000195087": 3,
+      "gas:candidate-vibid:1001000121858": 41,
+      "gas:candidate-vibid:1001000136068": 21,
+      "gas:candidate-vibid:1001000112220": 9,
+      "gas:candidate-vibid:1001000220819": 5,
+      "gas:candidate-vibid:1001000113940": 6,
+      "gas:candidate-vibid:1001000131398": 9,
+      "gas:candidate-vibid:1001000202312": 82,
+      "gas:candidate-vibid:1001000225947": 84,
+      "special:against-all": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172706&region=0&sub_region=0&type=429",
@@ -10482,17 +10482,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 7,
-      "Ещенко Денис Владимирович": 3,
-      "Иванов Николай Николаевич": 55,
-      "Иванов Сергей Владимирович": 30,
-      "Капелюш Александр Маратович": 10,
-      "Крюков Анатолий Федорович": 8,
-      "Сафонов Юрий Алексеевич": 5,
-      "Фалалеев Сергей Николаевич": 15,
-      "Федулов Александр Михайлович": 90,
-      "Чухраев Александр Михайлович": 85,
-      "Против всех": 51
+      "gas:candidate-vibid:346300170939": 7,
+      "gas:candidate-vibid:1001000195087": 3,
+      "gas:candidate-vibid:1001000121858": 55,
+      "gas:candidate-vibid:1001000136068": 30,
+      "gas:candidate-vibid:1001000112220": 10,
+      "gas:candidate-vibid:1001000220819": 8,
+      "gas:candidate-vibid:1001000113940": 5,
+      "gas:candidate-vibid:1001000131398": 15,
+      "gas:candidate-vibid:1001000202312": 90,
+      "gas:candidate-vibid:1001000225947": 85,
+      "special:against-all": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172706&region=0&sub_region=0&type=429",
@@ -10542,17 +10542,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 10,
-      "Ещенко Денис Владимирович": 4,
-      "Иванов Николай Николаевич": 128,
-      "Иванов Сергей Владимирович": 81,
-      "Капелюш Александр Маратович": 31,
-      "Крюков Анатолий Федорович": 39,
-      "Сафонов Юрий Алексеевич": 35,
-      "Фалалеев Сергей Николаевич": 25,
-      "Федулов Александр Михайлович": 208,
-      "Чухраев Александр Михайлович": 287,
-      "Против всех": 179
+      "gas:candidate-vibid:346300170939": 10,
+      "gas:candidate-vibid:1001000195087": 4,
+      "gas:candidate-vibid:1001000121858": 128,
+      "gas:candidate-vibid:1001000136068": 81,
+      "gas:candidate-vibid:1001000112220": 31,
+      "gas:candidate-vibid:1001000220819": 39,
+      "gas:candidate-vibid:1001000113940": 35,
+      "gas:candidate-vibid:1001000131398": 25,
+      "gas:candidate-vibid:1001000202312": 208,
+      "gas:candidate-vibid:1001000225947": 287,
+      "special:against-all": 179
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172706&region=0&sub_region=0&type=429",
@@ -10602,17 +10602,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 17,
-      "Ещенко Денис Владимирович": 6,
-      "Иванов Николай Николаевич": 179,
-      "Иванов Сергей Владимирович": 82,
-      "Капелюш Александр Маратович": 37,
-      "Крюков Анатолий Федорович": 36,
-      "Сафонов Юрий Алексеевич": 13,
-      "Фалалеев Сергей Николаевич": 53,
-      "Федулов Александр Михайлович": 201,
-      "Чухраев Александр Михайлович": 377,
-      "Против всех": 204
+      "gas:candidate-vibid:346300170939": 17,
+      "gas:candidate-vibid:1001000195087": 6,
+      "gas:candidate-vibid:1001000121858": 179,
+      "gas:candidate-vibid:1001000136068": 82,
+      "gas:candidate-vibid:1001000112220": 37,
+      "gas:candidate-vibid:1001000220819": 36,
+      "gas:candidate-vibid:1001000113940": 13,
+      "gas:candidate-vibid:1001000131398": 53,
+      "gas:candidate-vibid:1001000202312": 201,
+      "gas:candidate-vibid:1001000225947": 377,
+      "special:against-all": 204
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172706&region=0&sub_region=0&type=429",
@@ -10662,17 +10662,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 12,
-      "Ещенко Денис Владимирович": 15,
-      "Иванов Николай Николаевич": 122,
-      "Иванов Сергей Владимирович": 88,
-      "Капелюш Александр Маратович": 29,
-      "Крюков Анатолий Федорович": 49,
-      "Сафонов Юрий Алексеевич": 28,
-      "Фалалеев Сергей Николаевич": 41,
-      "Федулов Александр Михайлович": 218,
-      "Чухраев Александр Михайлович": 346,
-      "Против всех": 304
+      "gas:candidate-vibid:346300170939": 12,
+      "gas:candidate-vibid:1001000195087": 15,
+      "gas:candidate-vibid:1001000121858": 122,
+      "gas:candidate-vibid:1001000136068": 88,
+      "gas:candidate-vibid:1001000112220": 29,
+      "gas:candidate-vibid:1001000220819": 49,
+      "gas:candidate-vibid:1001000113940": 28,
+      "gas:candidate-vibid:1001000131398": 41,
+      "gas:candidate-vibid:1001000202312": 218,
+      "gas:candidate-vibid:1001000225947": 346,
+      "special:against-all": 304
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172706&region=0&sub_region=0&type=429",
@@ -10722,17 +10722,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 12,
-      "Ещенко Денис Владимирович": 4,
-      "Иванов Николай Николаевич": 103,
-      "Иванов Сергей Владимирович": 52,
-      "Капелюш Александр Маратович": 15,
-      "Крюков Анатолий Федорович": 24,
-      "Сафонов Юрий Алексеевич": 7,
-      "Фалалеев Сергей Николаевич": 30,
-      "Федулов Александр Михайлович": 189,
-      "Чухраев Александр Михайлович": 226,
-      "Против всех": 158
+      "gas:candidate-vibid:346300170939": 12,
+      "gas:candidate-vibid:1001000195087": 4,
+      "gas:candidate-vibid:1001000121858": 103,
+      "gas:candidate-vibid:1001000136068": 52,
+      "gas:candidate-vibid:1001000112220": 15,
+      "gas:candidate-vibid:1001000220819": 24,
+      "gas:candidate-vibid:1001000113940": 7,
+      "gas:candidate-vibid:1001000131398": 30,
+      "gas:candidate-vibid:1001000202312": 189,
+      "gas:candidate-vibid:1001000225947": 226,
+      "special:against-all": 158
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172706&region=0&sub_region=0&type=429",
@@ -10782,17 +10782,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 16,
-      "Ещенко Денис Владимирович": 5,
-      "Иванов Николай Николаевич": 150,
-      "Иванов Сергей Владимирович": 82,
-      "Капелюш Александр Маратович": 11,
-      "Крюков Анатолий Федорович": 27,
-      "Сафонов Юрий Алексеевич": 16,
-      "Фалалеев Сергей Николаевич": 27,
-      "Федулов Александр Михайлович": 180,
-      "Чухраев Александр Михайлович": 226,
-      "Против всех": 157
+      "gas:candidate-vibid:346300170939": 16,
+      "gas:candidate-vibid:1001000195087": 5,
+      "gas:candidate-vibid:1001000121858": 150,
+      "gas:candidate-vibid:1001000136068": 82,
+      "gas:candidate-vibid:1001000112220": 11,
+      "gas:candidate-vibid:1001000220819": 27,
+      "gas:candidate-vibid:1001000113940": 16,
+      "gas:candidate-vibid:1001000131398": 27,
+      "gas:candidate-vibid:1001000202312": 180,
+      "gas:candidate-vibid:1001000225947": 226,
+      "special:against-all": 157
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172706&region=0&sub_region=0&type=429",
@@ -10842,17 +10842,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 5,
-      "Ещенко Денис Владимирович": 1,
-      "Иванов Николай Николаевич": 26,
-      "Иванов Сергей Владимирович": 6,
-      "Капелюш Александр Маратович": 1,
-      "Крюков Анатолий Федорович": 2,
-      "Сафонов Юрий Алексеевич": 4,
-      "Фалалеев Сергей Николаевич": 7,
-      "Федулов Александр Михайлович": 138,
-      "Чухраев Александр Михайлович": 46,
-      "Против всех": 29
+      "gas:candidate-vibid:346300170939": 5,
+      "gas:candidate-vibid:1001000195087": 1,
+      "gas:candidate-vibid:1001000121858": 26,
+      "gas:candidate-vibid:1001000136068": 6,
+      "gas:candidate-vibid:1001000112220": 1,
+      "gas:candidate-vibid:1001000220819": 2,
+      "gas:candidate-vibid:1001000113940": 4,
+      "gas:candidate-vibid:1001000131398": 7,
+      "gas:candidate-vibid:1001000202312": 138,
+      "gas:candidate-vibid:1001000225947": 46,
+      "special:against-all": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172706&region=0&sub_region=0&type=429",
@@ -10902,17 +10902,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 13,
-      "Ещенко Денис Владимирович": 2,
-      "Иванов Николай Николаевич": 136,
-      "Иванов Сергей Владимирович": 77,
-      "Капелюш Александр Маратович": 15,
-      "Крюков Анатолий Федорович": 18,
-      "Сафонов Юрий Алексеевич": 10,
-      "Фалалеев Сергей Николаевич": 51,
-      "Федулов Александр Михайлович": 184,
-      "Чухраев Александр Михайлович": 222,
-      "Против всех": 135
+      "gas:candidate-vibid:346300170939": 13,
+      "gas:candidate-vibid:1001000195087": 2,
+      "gas:candidate-vibid:1001000121858": 136,
+      "gas:candidate-vibid:1001000136068": 77,
+      "gas:candidate-vibid:1001000112220": 15,
+      "gas:candidate-vibid:1001000220819": 18,
+      "gas:candidate-vibid:1001000113940": 10,
+      "gas:candidate-vibid:1001000131398": 51,
+      "gas:candidate-vibid:1001000202312": 184,
+      "gas:candidate-vibid:1001000225947": 222,
+      "special:against-all": 135
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172706&region=0&sub_region=0&type=429",
@@ -10962,17 +10962,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 16,
-      "Ещенко Денис Владимирович": 3,
-      "Иванов Николай Николаевич": 122,
-      "Иванов Сергей Владимирович": 42,
-      "Капелюш Александр Маратович": 25,
-      "Крюков Анатолий Федорович": 40,
-      "Сафонов Юрий Алексеевич": 26,
-      "Фалалеев Сергей Николаевич": 20,
-      "Федулов Александр Михайлович": 206,
-      "Чухраев Александр Михайлович": 291,
-      "Против всех": 226
+      "gas:candidate-vibid:346300170939": 16,
+      "gas:candidate-vibid:1001000195087": 3,
+      "gas:candidate-vibid:1001000121858": 122,
+      "gas:candidate-vibid:1001000136068": 42,
+      "gas:candidate-vibid:1001000112220": 25,
+      "gas:candidate-vibid:1001000220819": 40,
+      "gas:candidate-vibid:1001000113940": 26,
+      "gas:candidate-vibid:1001000131398": 20,
+      "gas:candidate-vibid:1001000202312": 206,
+      "gas:candidate-vibid:1001000225947": 291,
+      "special:against-all": 226
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172706&region=0&sub_region=0&type=429",
@@ -11022,17 +11022,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 4,
-      "Ещенко Денис Владимирович": 6,
-      "Иванов Николай Николаевич": 211,
-      "Иванов Сергей Владимирович": 51,
-      "Капелюш Александр Маратович": 26,
-      "Крюков Анатолий Федорович": 35,
-      "Сафонов Юрий Алексеевич": 22,
-      "Фалалеев Сергей Николаевич": 37,
-      "Федулов Александр Михайлович": 230,
-      "Чухраев Александр Михайлович": 246,
-      "Против всех": 173
+      "gas:candidate-vibid:346300170939": 4,
+      "gas:candidate-vibid:1001000195087": 6,
+      "gas:candidate-vibid:1001000121858": 211,
+      "gas:candidate-vibid:1001000136068": 51,
+      "gas:candidate-vibid:1001000112220": 26,
+      "gas:candidate-vibid:1001000220819": 35,
+      "gas:candidate-vibid:1001000113940": 22,
+      "gas:candidate-vibid:1001000131398": 37,
+      "gas:candidate-vibid:1001000202312": 230,
+      "gas:candidate-vibid:1001000225947": 246,
+      "special:against-all": 173
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172706&region=0&sub_region=0&type=429",
@@ -11082,17 +11082,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 10,
-      "Ещенко Денис Владимирович": 2,
-      "Иванов Николай Николаевич": 197,
-      "Иванов Сергей Владимирович": 60,
-      "Капелюш Александр Маратович": 33,
-      "Крюков Анатолий Федорович": 36,
-      "Сафонов Юрий Алексеевич": 21,
-      "Фалалеев Сергей Николаевич": 35,
-      "Федулов Александр Михайлович": 217,
-      "Чухраев Александр Михайлович": 287,
-      "Против всех": 222
+      "gas:candidate-vibid:346300170939": 10,
+      "gas:candidate-vibid:1001000195087": 2,
+      "gas:candidate-vibid:1001000121858": 197,
+      "gas:candidate-vibid:1001000136068": 60,
+      "gas:candidate-vibid:1001000112220": 33,
+      "gas:candidate-vibid:1001000220819": 36,
+      "gas:candidate-vibid:1001000113940": 21,
+      "gas:candidate-vibid:1001000131398": 35,
+      "gas:candidate-vibid:1001000202312": 217,
+      "gas:candidate-vibid:1001000225947": 287,
+      "special:against-all": 222
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172706&region=0&sub_region=0&type=429",
@@ -11142,17 +11142,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 12,
-      "Ещенко Денис Владимирович": 4,
-      "Иванов Николай Николаевич": 228,
-      "Иванов Сергей Владимирович": 77,
-      "Капелюш Александр Маратович": 25,
-      "Крюков Анатолий Федорович": 27,
-      "Сафонов Юрий Алексеевич": 18,
-      "Фалалеев Сергей Николаевич": 35,
-      "Федулов Александр Михайлович": 295,
-      "Чухраев Александр Михайлович": 318,
-      "Против всех": 244
+      "gas:candidate-vibid:346300170939": 12,
+      "gas:candidate-vibid:1001000195087": 4,
+      "gas:candidate-vibid:1001000121858": 228,
+      "gas:candidate-vibid:1001000136068": 77,
+      "gas:candidate-vibid:1001000112220": 25,
+      "gas:candidate-vibid:1001000220819": 27,
+      "gas:candidate-vibid:1001000113940": 18,
+      "gas:candidate-vibid:1001000131398": 35,
+      "gas:candidate-vibid:1001000202312": 295,
+      "gas:candidate-vibid:1001000225947": 318,
+      "special:against-all": 244
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172706&region=0&sub_region=0&type=429",
@@ -11202,17 +11202,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 9,
-      "Ещенко Денис Владимирович": 6,
-      "Иванов Николай Николаевич": 111,
-      "Иванов Сергей Владимирович": 36,
-      "Капелюш Александр Маратович": 10,
-      "Крюков Анатолий Федорович": 11,
-      "Сафонов Юрий Алексеевич": 7,
-      "Фалалеев Сергей Николаевич": 22,
-      "Федулов Александр Михайлович": 142,
-      "Чухраев Александр Михайлович": 129,
-      "Против всех": 69
+      "gas:candidate-vibid:346300170939": 9,
+      "gas:candidate-vibid:1001000195087": 6,
+      "gas:candidate-vibid:1001000121858": 111,
+      "gas:candidate-vibid:1001000136068": 36,
+      "gas:candidate-vibid:1001000112220": 10,
+      "gas:candidate-vibid:1001000220819": 11,
+      "gas:candidate-vibid:1001000113940": 7,
+      "gas:candidate-vibid:1001000131398": 22,
+      "gas:candidate-vibid:1001000202312": 142,
+      "gas:candidate-vibid:1001000225947": 129,
+      "special:against-all": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172706&region=0&sub_region=0&type=429",
@@ -11262,17 +11262,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 10,
-      "Ещенко Денис Владимирович": 7,
-      "Иванов Николай Николаевич": 118,
-      "Иванов Сергей Владимирович": 61,
-      "Капелюш Александр Маратович": 15,
-      "Крюков Анатолий Федорович": 18,
-      "Сафонов Юрий Алексеевич": 16,
-      "Фалалеев Сергей Николаевич": 32,
-      "Федулов Александр Михайлович": 274,
-      "Чухраев Александр Михайлович": 233,
-      "Против всех": 173
+      "gas:candidate-vibid:346300170939": 10,
+      "gas:candidate-vibid:1001000195087": 7,
+      "gas:candidate-vibid:1001000121858": 118,
+      "gas:candidate-vibid:1001000136068": 61,
+      "gas:candidate-vibid:1001000112220": 15,
+      "gas:candidate-vibid:1001000220819": 18,
+      "gas:candidate-vibid:1001000113940": 16,
+      "gas:candidate-vibid:1001000131398": 32,
+      "gas:candidate-vibid:1001000202312": 274,
+      "gas:candidate-vibid:1001000225947": 233,
+      "special:against-all": 173
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172706&region=0&sub_region=0&type=429",
@@ -11322,17 +11322,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 14,
-      "Ещенко Денис Владимирович": 7,
-      "Иванов Николай Николаевич": 177,
-      "Иванов Сергей Владимирович": 68,
-      "Капелюш Александр Маратович": 27,
-      "Крюков Анатолий Федорович": 39,
-      "Сафонов Юрий Алексеевич": 16,
-      "Фалалеев Сергей Николаевич": 29,
-      "Федулов Александр Михайлович": 279,
-      "Чухраев Александр Михайлович": 307,
-      "Против всех": 202
+      "gas:candidate-vibid:346300170939": 14,
+      "gas:candidate-vibid:1001000195087": 7,
+      "gas:candidate-vibid:1001000121858": 177,
+      "gas:candidate-vibid:1001000136068": 68,
+      "gas:candidate-vibid:1001000112220": 27,
+      "gas:candidate-vibid:1001000220819": 39,
+      "gas:candidate-vibid:1001000113940": 16,
+      "gas:candidate-vibid:1001000131398": 29,
+      "gas:candidate-vibid:1001000202312": 279,
+      "gas:candidate-vibid:1001000225947": 307,
+      "special:against-all": 202
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172706&region=0&sub_region=0&type=429",
@@ -11382,17 +11382,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 11,
-      "Ещенко Денис Владимирович": 6,
-      "Иванов Николай Николаевич": 143,
-      "Иванов Сергей Владимирович": 75,
-      "Капелюш Александр Маратович": 24,
-      "Крюков Анатолий Федорович": 42,
-      "Сафонов Юрий Алексеевич": 16,
-      "Фалалеев Сергей Николаевич": 32,
-      "Федулов Александр Михайлович": 322,
-      "Чухраев Александр Михайлович": 281,
-      "Против всех": 217
+      "gas:candidate-vibid:346300170939": 11,
+      "gas:candidate-vibid:1001000195087": 6,
+      "gas:candidate-vibid:1001000121858": 143,
+      "gas:candidate-vibid:1001000136068": 75,
+      "gas:candidate-vibid:1001000112220": 24,
+      "gas:candidate-vibid:1001000220819": 42,
+      "gas:candidate-vibid:1001000113940": 16,
+      "gas:candidate-vibid:1001000131398": 32,
+      "gas:candidate-vibid:1001000202312": 322,
+      "gas:candidate-vibid:1001000225947": 281,
+      "special:against-all": 217
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172706&region=0&sub_region=0&type=429",
@@ -11442,17 +11442,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 10,
-      "Ещенко Денис Владимирович": 6,
-      "Иванов Николай Николаевич": 107,
-      "Иванов Сергей Владимирович": 49,
-      "Капелюш Александр Маратович": 22,
-      "Крюков Анатолий Федорович": 26,
-      "Сафонов Юрий Алексеевич": 11,
-      "Фалалеев Сергей Николаевич": 42,
-      "Федулов Александр Михайлович": 206,
-      "Чухраев Александр Михайлович": 260,
-      "Против всех": 201
+      "gas:candidate-vibid:346300170939": 10,
+      "gas:candidate-vibid:1001000195087": 6,
+      "gas:candidate-vibid:1001000121858": 107,
+      "gas:candidate-vibid:1001000136068": 49,
+      "gas:candidate-vibid:1001000112220": 22,
+      "gas:candidate-vibid:1001000220819": 26,
+      "gas:candidate-vibid:1001000113940": 11,
+      "gas:candidate-vibid:1001000131398": 42,
+      "gas:candidate-vibid:1001000202312": 206,
+      "gas:candidate-vibid:1001000225947": 260,
+      "special:against-all": 201
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172706&region=0&sub_region=0&type=429",
@@ -11502,17 +11502,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 10,
-      "Ещенко Денис Владимирович": 11,
-      "Иванов Николай Николаевич": 147,
-      "Иванов Сергей Владимирович": 86,
-      "Капелюш Александр Маратович": 32,
-      "Крюков Анатолий Федорович": 33,
-      "Сафонов Юрий Алексеевич": 14,
-      "Фалалеев Сергей Николаевич": 37,
-      "Федулов Александр Михайлович": 273,
-      "Чухраев Александр Михайлович": 289,
-      "Против всех": 229
+      "gas:candidate-vibid:346300170939": 10,
+      "gas:candidate-vibid:1001000195087": 11,
+      "gas:candidate-vibid:1001000121858": 147,
+      "gas:candidate-vibid:1001000136068": 86,
+      "gas:candidate-vibid:1001000112220": 32,
+      "gas:candidate-vibid:1001000220819": 33,
+      "gas:candidate-vibid:1001000113940": 14,
+      "gas:candidate-vibid:1001000131398": 37,
+      "gas:candidate-vibid:1001000202312": 273,
+      "gas:candidate-vibid:1001000225947": 289,
+      "special:against-all": 229
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172706&region=0&sub_region=0&type=429",
@@ -11562,17 +11562,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 7,
-      "Ещенко Денис Владимирович": 5,
-      "Иванов Николай Николаевич": 125,
-      "Иванов Сергей Владимирович": 64,
-      "Капелюш Александр Маратович": 13,
-      "Крюков Анатолий Федорович": 28,
-      "Сафонов Юрий Алексеевич": 15,
-      "Фалалеев Сергей Николаевич": 46,
-      "Федулов Александр Михайлович": 287,
-      "Чухраев Александр Михайлович": 309,
-      "Против всех": 233
+      "gas:candidate-vibid:346300170939": 7,
+      "gas:candidate-vibid:1001000195087": 5,
+      "gas:candidate-vibid:1001000121858": 125,
+      "gas:candidate-vibid:1001000136068": 64,
+      "gas:candidate-vibid:1001000112220": 13,
+      "gas:candidate-vibid:1001000220819": 28,
+      "gas:candidate-vibid:1001000113940": 15,
+      "gas:candidate-vibid:1001000131398": 46,
+      "gas:candidate-vibid:1001000202312": 287,
+      "gas:candidate-vibid:1001000225947": 309,
+      "special:against-all": 233
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172706&region=0&sub_region=0&type=429",
@@ -11622,17 +11622,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 6,
-      "Ещенко Денис Владимирович": 4,
-      "Иванов Николай Николаевич": 101,
-      "Иванов Сергей Владимирович": 63,
-      "Капелюш Александр Маратович": 29,
-      "Крюков Анатолий Федорович": 19,
-      "Сафонов Юрий Алексеевич": 10,
-      "Фалалеев Сергей Николаевич": 29,
-      "Федулов Александр Михайлович": 212,
-      "Чухраев Александр Михайлович": 254,
-      "Против всех": 189
+      "gas:candidate-vibid:346300170939": 6,
+      "gas:candidate-vibid:1001000195087": 4,
+      "gas:candidate-vibid:1001000121858": 101,
+      "gas:candidate-vibid:1001000136068": 63,
+      "gas:candidate-vibid:1001000112220": 29,
+      "gas:candidate-vibid:1001000220819": 19,
+      "gas:candidate-vibid:1001000113940": 10,
+      "gas:candidate-vibid:1001000131398": 29,
+      "gas:candidate-vibid:1001000202312": 212,
+      "gas:candidate-vibid:1001000225947": 254,
+      "special:against-all": 189
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172706&region=0&sub_region=0&type=429",
@@ -11682,17 +11682,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 15,
-      "Ещенко Денис Владимирович": 8,
-      "Иванов Николай Николаевич": 126,
-      "Иванов Сергей Владимирович": 105,
-      "Капелюш Александр Маратович": 22,
-      "Крюков Анатолий Федорович": 21,
-      "Сафонов Юрий Алексеевич": 25,
-      "Фалалеев Сергей Николаевич": 36,
-      "Федулов Александр Михайлович": 362,
-      "Чухраев Александр Михайлович": 324,
-      "Против всех": 279
+      "gas:candidate-vibid:346300170939": 15,
+      "gas:candidate-vibid:1001000195087": 8,
+      "gas:candidate-vibid:1001000121858": 126,
+      "gas:candidate-vibid:1001000136068": 105,
+      "gas:candidate-vibid:1001000112220": 22,
+      "gas:candidate-vibid:1001000220819": 21,
+      "gas:candidate-vibid:1001000113940": 25,
+      "gas:candidate-vibid:1001000131398": 36,
+      "gas:candidate-vibid:1001000202312": 362,
+      "gas:candidate-vibid:1001000225947": 324,
+      "special:against-all": 279
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172706&region=0&sub_region=0&type=429",
@@ -11742,17 +11742,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 9,
-      "Ещенко Денис Владимирович": 7,
-      "Иванов Николай Николаевич": 90,
-      "Иванов Сергей Владимирович": 48,
-      "Капелюш Александр Маратович": 12,
-      "Крюков Анатолий Федорович": 25,
-      "Сафонов Юрий Алексеевич": 21,
-      "Фалалеев Сергей Николаевич": 26,
-      "Федулов Александр Михайлович": 248,
-      "Чухраев Александр Михайлович": 219,
-      "Против всех": 201
+      "gas:candidate-vibid:346300170939": 9,
+      "gas:candidate-vibid:1001000195087": 7,
+      "gas:candidate-vibid:1001000121858": 90,
+      "gas:candidate-vibid:1001000136068": 48,
+      "gas:candidate-vibid:1001000112220": 12,
+      "gas:candidate-vibid:1001000220819": 25,
+      "gas:candidate-vibid:1001000113940": 21,
+      "gas:candidate-vibid:1001000131398": 26,
+      "gas:candidate-vibid:1001000202312": 248,
+      "gas:candidate-vibid:1001000225947": 219,
+      "special:against-all": 201
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172706&region=0&sub_region=0&type=429",
@@ -11802,17 +11802,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 10,
-      "Ещенко Денис Владимирович": 9,
-      "Иванов Николай Николаевич": 111,
-      "Иванов Сергей Владимирович": 67,
-      "Капелюш Александр Маратович": 19,
-      "Крюков Анатолий Федорович": 26,
-      "Сафонов Юрий Алексеевич": 23,
-      "Фалалеев Сергей Николаевич": 41,
-      "Федулов Александр Михайлович": 333,
-      "Чухраев Александр Михайлович": 317,
-      "Против всех": 225
+      "gas:candidate-vibid:346300170939": 10,
+      "gas:candidate-vibid:1001000195087": 9,
+      "gas:candidate-vibid:1001000121858": 111,
+      "gas:candidate-vibid:1001000136068": 67,
+      "gas:candidate-vibid:1001000112220": 19,
+      "gas:candidate-vibid:1001000220819": 26,
+      "gas:candidate-vibid:1001000113940": 23,
+      "gas:candidate-vibid:1001000131398": 41,
+      "gas:candidate-vibid:1001000202312": 333,
+      "gas:candidate-vibid:1001000225947": 317,
+      "special:against-all": 225
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172706&region=0&sub_region=0&type=429",
@@ -11862,17 +11862,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 4,
-      "Ещенко Денис Владимирович": 9,
-      "Иванов Николай Николаевич": 101,
-      "Иванов Сергей Владимирович": 44,
-      "Капелюш Александр Маратович": 21,
-      "Крюков Анатолий Федорович": 16,
-      "Сафонов Юрий Алексеевич": 16,
-      "Фалалеев Сергей Николаевич": 30,
-      "Федулов Александр Михайлович": 340,
-      "Чухраев Александр Михайлович": 226,
-      "Против всех": 196
+      "gas:candidate-vibid:346300170939": 4,
+      "gas:candidate-vibid:1001000195087": 9,
+      "gas:candidate-vibid:1001000121858": 101,
+      "gas:candidate-vibid:1001000136068": 44,
+      "gas:candidate-vibid:1001000112220": 21,
+      "gas:candidate-vibid:1001000220819": 16,
+      "gas:candidate-vibid:1001000113940": 16,
+      "gas:candidate-vibid:1001000131398": 30,
+      "gas:candidate-vibid:1001000202312": 340,
+      "gas:candidate-vibid:1001000225947": 226,
+      "special:against-all": 196
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172706&region=0&sub_region=0&type=429",
@@ -11922,17 +11922,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 18,
-      "Ещенко Денис Владимирович": 4,
-      "Иванов Николай Николаевич": 131,
-      "Иванов Сергей Владимирович": 53,
-      "Капелюш Александр Маратович": 16,
-      "Крюков Анатолий Федорович": 21,
-      "Сафонов Юрий Алексеевич": 11,
-      "Фалалеев Сергей Николаевич": 30,
-      "Федулов Александр Михайлович": 256,
-      "Чухраев Александр Михайлович": 312,
-      "Против всех": 234
+      "gas:candidate-vibid:346300170939": 18,
+      "gas:candidate-vibid:1001000195087": 4,
+      "gas:candidate-vibid:1001000121858": 131,
+      "gas:candidate-vibid:1001000136068": 53,
+      "gas:candidate-vibid:1001000112220": 16,
+      "gas:candidate-vibid:1001000220819": 21,
+      "gas:candidate-vibid:1001000113940": 11,
+      "gas:candidate-vibid:1001000131398": 30,
+      "gas:candidate-vibid:1001000202312": 256,
+      "gas:candidate-vibid:1001000225947": 312,
+      "special:against-all": 234
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172706&region=0&sub_region=0&type=429",
@@ -11982,17 +11982,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 7,
-      "Ещенко Денис Владимирович": 2,
-      "Иванов Николай Николаевич": 145,
-      "Иванов Сергей Владимирович": 79,
-      "Капелюш Александр Маратович": 32,
-      "Крюков Анатолий Федорович": 30,
-      "Сафонов Юрий Алексеевич": 15,
-      "Фалалеев Сергей Николаевич": 44,
-      "Федулов Александр Михайлович": 247,
-      "Чухраев Александр Михайлович": 303,
-      "Против всех": 227
+      "gas:candidate-vibid:346300170939": 7,
+      "gas:candidate-vibid:1001000195087": 2,
+      "gas:candidate-vibid:1001000121858": 145,
+      "gas:candidate-vibid:1001000136068": 79,
+      "gas:candidate-vibid:1001000112220": 32,
+      "gas:candidate-vibid:1001000220819": 30,
+      "gas:candidate-vibid:1001000113940": 15,
+      "gas:candidate-vibid:1001000131398": 44,
+      "gas:candidate-vibid:1001000202312": 247,
+      "gas:candidate-vibid:1001000225947": 303,
+      "special:against-all": 227
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172706&region=0&sub_region=0&type=429",
@@ -12042,17 +12042,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 11,
-      "Ещенко Денис Владимирович": 10,
-      "Иванов Николай Николаевич": 136,
-      "Иванов Сергей Владимирович": 68,
-      "Капелюш Александр Маратович": 20,
-      "Крюков Анатолий Федорович": 24,
-      "Сафонов Юрий Алексеевич": 18,
-      "Фалалеев Сергей Николаевич": 28,
-      "Федулов Александр Михайлович": 280,
-      "Чухраев Александр Михайлович": 309,
-      "Против всех": 188
+      "gas:candidate-vibid:346300170939": 11,
+      "gas:candidate-vibid:1001000195087": 10,
+      "gas:candidate-vibid:1001000121858": 136,
+      "gas:candidate-vibid:1001000136068": 68,
+      "gas:candidate-vibid:1001000112220": 20,
+      "gas:candidate-vibid:1001000220819": 24,
+      "gas:candidate-vibid:1001000113940": 18,
+      "gas:candidate-vibid:1001000131398": 28,
+      "gas:candidate-vibid:1001000202312": 280,
+      "gas:candidate-vibid:1001000225947": 309,
+      "special:against-all": 188
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172706&region=0&sub_region=0&type=429",
@@ -12102,17 +12102,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 10,
-      "Ещенко Денис Владимирович": 4,
-      "Иванов Николай Николаевич": 117,
-      "Иванов Сергей Владимирович": 59,
-      "Капелюш Александр Маратович": 28,
-      "Крюков Анатолий Федорович": 33,
-      "Сафонов Юрий Алексеевич": 20,
-      "Фалалеев Сергей Николаевич": 32,
-      "Федулов Александр Михайлович": 218,
-      "Чухраев Александр Михайлович": 227,
-      "Против всех": 174
+      "gas:candidate-vibid:346300170939": 10,
+      "gas:candidate-vibid:1001000195087": 4,
+      "gas:candidate-vibid:1001000121858": 117,
+      "gas:candidate-vibid:1001000136068": 59,
+      "gas:candidate-vibid:1001000112220": 28,
+      "gas:candidate-vibid:1001000220819": 33,
+      "gas:candidate-vibid:1001000113940": 20,
+      "gas:candidate-vibid:1001000131398": 32,
+      "gas:candidate-vibid:1001000202312": 218,
+      "gas:candidate-vibid:1001000225947": 227,
+      "special:against-all": 174
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172706&region=0&sub_region=0&type=429",
@@ -12162,17 +12162,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 7,
-      "Ещенко Денис Владимирович": 2,
-      "Иванов Николай Николаевич": 127,
-      "Иванов Сергей Владимирович": 57,
-      "Капелюш Александр Маратович": 21,
-      "Крюков Анатолий Федорович": 29,
-      "Сафонов Юрий Алексеевич": 14,
-      "Фалалеев Сергей Николаевич": 17,
-      "Федулов Александр Михайлович": 274,
-      "Чухраев Александр Михайлович": 267,
-      "Против всех": 174
+      "gas:candidate-vibid:346300170939": 7,
+      "gas:candidate-vibid:1001000195087": 2,
+      "gas:candidate-vibid:1001000121858": 127,
+      "gas:candidate-vibid:1001000136068": 57,
+      "gas:candidate-vibid:1001000112220": 21,
+      "gas:candidate-vibid:1001000220819": 29,
+      "gas:candidate-vibid:1001000113940": 14,
+      "gas:candidate-vibid:1001000131398": 17,
+      "gas:candidate-vibid:1001000202312": 274,
+      "gas:candidate-vibid:1001000225947": 267,
+      "special:against-all": 174
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172706&region=0&sub_region=0&type=429",
@@ -12222,17 +12222,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 11,
-      "Ещенко Денис Владимирович": 4,
-      "Иванов Николай Николаевич": 162,
-      "Иванов Сергей Владимирович": 71,
-      "Капелюш Александр Маратович": 42,
-      "Крюков Анатолий Федорович": 24,
-      "Сафонов Юрий Алексеевич": 43,
-      "Фалалеев Сергей Николаевич": 34,
-      "Федулов Александр Михайлович": 249,
-      "Чухраев Александр Михайлович": 385,
-      "Против всех": 240
+      "gas:candidate-vibid:346300170939": 11,
+      "gas:candidate-vibid:1001000195087": 4,
+      "gas:candidate-vibid:1001000121858": 162,
+      "gas:candidate-vibid:1001000136068": 71,
+      "gas:candidate-vibid:1001000112220": 42,
+      "gas:candidate-vibid:1001000220819": 24,
+      "gas:candidate-vibid:1001000113940": 43,
+      "gas:candidate-vibid:1001000131398": 34,
+      "gas:candidate-vibid:1001000202312": 249,
+      "gas:candidate-vibid:1001000225947": 385,
+      "special:against-all": 240
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172706&region=0&sub_region=0&type=429",
@@ -12282,17 +12282,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 17,
-      "Ещенко Денис Владимирович": 3,
-      "Иванов Николай Николаевич": 126,
-      "Иванов Сергей Владимирович": 55,
-      "Капелюш Александр Маратович": 11,
-      "Крюков Анатолий Федорович": 28,
-      "Сафонов Юрий Алексеевич": 10,
-      "Фалалеев Сергей Николаевич": 25,
-      "Федулов Александр Михайлович": 233,
-      "Чухраев Александр Михайлович": 229,
-      "Против всех": 165
+      "gas:candidate-vibid:346300170939": 17,
+      "gas:candidate-vibid:1001000195087": 3,
+      "gas:candidate-vibid:1001000121858": 126,
+      "gas:candidate-vibid:1001000136068": 55,
+      "gas:candidate-vibid:1001000112220": 11,
+      "gas:candidate-vibid:1001000220819": 28,
+      "gas:candidate-vibid:1001000113940": 10,
+      "gas:candidate-vibid:1001000131398": 25,
+      "gas:candidate-vibid:1001000202312": 233,
+      "gas:candidate-vibid:1001000225947": 229,
+      "special:against-all": 165
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172706&region=0&sub_region=0&type=429",
@@ -12342,17 +12342,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 10,
-      "Ещенко Денис Владимирович": 4,
-      "Иванов Николай Николаевич": 81,
-      "Иванов Сергей Владимирович": 28,
-      "Капелюш Александр Маратович": 10,
-      "Крюков Анатолий Федорович": 22,
-      "Сафонов Юрий Алексеевич": 7,
-      "Фалалеев Сергей Николаевич": 25,
-      "Федулов Александр Михайлович": 134,
-      "Чухраев Александр Михайлович": 191,
-      "Против всех": 118
+      "gas:candidate-vibid:346300170939": 10,
+      "gas:candidate-vibid:1001000195087": 4,
+      "gas:candidate-vibid:1001000121858": 81,
+      "gas:candidate-vibid:1001000136068": 28,
+      "gas:candidate-vibid:1001000112220": 10,
+      "gas:candidate-vibid:1001000220819": 22,
+      "gas:candidate-vibid:1001000113940": 7,
+      "gas:candidate-vibid:1001000131398": 25,
+      "gas:candidate-vibid:1001000202312": 134,
+      "gas:candidate-vibid:1001000225947": 191,
+      "special:against-all": 118
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172706&region=0&sub_region=0&type=429",
@@ -12402,17 +12402,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 10,
-      "Ещенко Денис Владимирович": 4,
-      "Иванов Николай Николаевич": 163,
-      "Иванов Сергей Владимирович": 40,
-      "Капелюш Александр Маратович": 16,
-      "Крюков Анатолий Федорович": 22,
-      "Сафонов Юрий Алексеевич": 9,
-      "Фалалеев Сергей Николаевич": 30,
-      "Федулов Александр Михайлович": 177,
-      "Чухраев Александр Михайлович": 179,
-      "Против всех": 105
+      "gas:candidate-vibid:346300170939": 10,
+      "gas:candidate-vibid:1001000195087": 4,
+      "gas:candidate-vibid:1001000121858": 163,
+      "gas:candidate-vibid:1001000136068": 40,
+      "gas:candidate-vibid:1001000112220": 16,
+      "gas:candidate-vibid:1001000220819": 22,
+      "gas:candidate-vibid:1001000113940": 9,
+      "gas:candidate-vibid:1001000131398": 30,
+      "gas:candidate-vibid:1001000202312": 177,
+      "gas:candidate-vibid:1001000225947": 179,
+      "special:against-all": 105
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172706&region=0&sub_region=0&type=429",
@@ -12462,17 +12462,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 4,
-      "Ещенко Денис Владимирович": 2,
-      "Иванов Николай Николаевич": 99,
-      "Иванов Сергей Владимирович": 35,
-      "Капелюш Александр Маратович": 7,
-      "Крюков Анатолий Федорович": 16,
-      "Сафонов Юрий Алексеевич": 7,
-      "Фалалеев Сергей Николаевич": 19,
-      "Федулов Александр Михайлович": 143,
-      "Чухраев Александр Михайлович": 144,
-      "Против всех": 93
+      "gas:candidate-vibid:346300170939": 4,
+      "gas:candidate-vibid:1001000195087": 2,
+      "gas:candidate-vibid:1001000121858": 99,
+      "gas:candidate-vibid:1001000136068": 35,
+      "gas:candidate-vibid:1001000112220": 7,
+      "gas:candidate-vibid:1001000220819": 16,
+      "gas:candidate-vibid:1001000113940": 7,
+      "gas:candidate-vibid:1001000131398": 19,
+      "gas:candidate-vibid:1001000202312": 143,
+      "gas:candidate-vibid:1001000225947": 144,
+      "special:against-all": 93
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172706&region=0&sub_region=0&type=429",
@@ -12522,17 +12522,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 6,
-      "Ещенко Денис Владимирович": 4,
-      "Иванов Николай Николаевич": 73,
-      "Иванов Сергей Владимирович": 28,
-      "Капелюш Александр Маратович": 15,
-      "Крюков Анатолий Федорович": 15,
-      "Сафонов Юрий Алексеевич": 5,
-      "Фалалеев Сергей Николаевич": 14,
-      "Федулов Александр Михайлович": 66,
-      "Чухраев Александр Михайлович": 126,
-      "Против всех": 64
+      "gas:candidate-vibid:346300170939": 6,
+      "gas:candidate-vibid:1001000195087": 4,
+      "gas:candidate-vibid:1001000121858": 73,
+      "gas:candidate-vibid:1001000136068": 28,
+      "gas:candidate-vibid:1001000112220": 15,
+      "gas:candidate-vibid:1001000220819": 15,
+      "gas:candidate-vibid:1001000113940": 5,
+      "gas:candidate-vibid:1001000131398": 14,
+      "gas:candidate-vibid:1001000202312": 66,
+      "gas:candidate-vibid:1001000225947": 126,
+      "special:against-all": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172706&region=0&sub_region=0&type=429",
@@ -12582,17 +12582,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 5,
-      "Ещенко Денис Владимирович": 3,
-      "Иванов Николай Николаевич": 69,
-      "Иванов Сергей Владимирович": 22,
-      "Капелюш Александр Маратович": 21,
-      "Крюков Анатолий Федорович": 24,
-      "Сафонов Юрий Алексеевич": 6,
-      "Фалалеев Сергей Николаевич": 20,
-      "Федулов Александр Михайлович": 80,
-      "Чухраев Александр Михайлович": 167,
-      "Против всех": 85
+      "gas:candidate-vibid:346300170939": 5,
+      "gas:candidate-vibid:1001000195087": 3,
+      "gas:candidate-vibid:1001000121858": 69,
+      "gas:candidate-vibid:1001000136068": 22,
+      "gas:candidate-vibid:1001000112220": 21,
+      "gas:candidate-vibid:1001000220819": 24,
+      "gas:candidate-vibid:1001000113940": 6,
+      "gas:candidate-vibid:1001000131398": 20,
+      "gas:candidate-vibid:1001000202312": 80,
+      "gas:candidate-vibid:1001000225947": 167,
+      "special:against-all": 85
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172706&region=0&sub_region=0&type=429",
@@ -12642,17 +12642,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 6,
-      "Ещенко Денис Владимирович": 6,
-      "Иванов Николай Николаевич": 192,
-      "Иванов Сергей Владимирович": 47,
-      "Капелюш Александр Маратович": 31,
-      "Крюков Анатолий Федорович": 36,
-      "Сафонов Юрий Алексеевич": 36,
-      "Фалалеев Сергей Николаевич": 53,
-      "Федулов Александр Михайлович": 157,
-      "Чухраев Александр Михайлович": 323,
-      "Против всех": 195
+      "gas:candidate-vibid:346300170939": 6,
+      "gas:candidate-vibid:1001000195087": 6,
+      "gas:candidate-vibid:1001000121858": 192,
+      "gas:candidate-vibid:1001000136068": 47,
+      "gas:candidate-vibid:1001000112220": 31,
+      "gas:candidate-vibid:1001000220819": 36,
+      "gas:candidate-vibid:1001000113940": 36,
+      "gas:candidate-vibid:1001000131398": 53,
+      "gas:candidate-vibid:1001000202312": 157,
+      "gas:candidate-vibid:1001000225947": 323,
+      "special:against-all": 195
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172706&region=0&sub_region=0&type=429",
@@ -12702,17 +12702,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 3,
-      "Ещенко Денис Владимирович": 0,
-      "Иванов Николай Николаевич": 57,
-      "Иванов Сергей Владимирович": 22,
-      "Капелюш Александр Маратович": 6,
-      "Крюков Анатолий Федорович": 14,
-      "Сафонов Юрий Алексеевич": 3,
-      "Фалалеев Сергей Николаевич": 9,
-      "Федулов Александр Михайлович": 54,
-      "Чухраев Александр Михайлович": 98,
-      "Против всех": 74
+      "gas:candidate-vibid:346300170939": 3,
+      "gas:candidate-vibid:1001000195087": 0,
+      "gas:candidate-vibid:1001000121858": 57,
+      "gas:candidate-vibid:1001000136068": 22,
+      "gas:candidate-vibid:1001000112220": 6,
+      "gas:candidate-vibid:1001000220819": 14,
+      "gas:candidate-vibid:1001000113940": 3,
+      "gas:candidate-vibid:1001000131398": 9,
+      "gas:candidate-vibid:1001000202312": 54,
+      "gas:candidate-vibid:1001000225947": 98,
+      "special:against-all": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172706&region=0&sub_region=0&type=429",
@@ -12762,17 +12762,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 13,
-      "Ещенко Денис Владимирович": 6,
-      "Иванов Николай Николаевич": 180,
-      "Иванов Сергей Владимирович": 43,
-      "Капелюш Александр Маратович": 24,
-      "Крюков Анатолий Федорович": 49,
-      "Сафонов Юрий Алексеевич": 18,
-      "Фалалеев Сергей Николаевич": 34,
-      "Федулов Александр Михайлович": 174,
-      "Чухраев Александр Михайлович": 337,
-      "Против всех": 138
+      "gas:candidate-vibid:346300170939": 13,
+      "gas:candidate-vibid:1001000195087": 6,
+      "gas:candidate-vibid:1001000121858": 180,
+      "gas:candidate-vibid:1001000136068": 43,
+      "gas:candidate-vibid:1001000112220": 24,
+      "gas:candidate-vibid:1001000220819": 49,
+      "gas:candidate-vibid:1001000113940": 18,
+      "gas:candidate-vibid:1001000131398": 34,
+      "gas:candidate-vibid:1001000202312": 174,
+      "gas:candidate-vibid:1001000225947": 337,
+      "special:against-all": 138
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172706&region=0&sub_region=0&type=429",
@@ -12822,17 +12822,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 10,
-      "Ещенко Денис Владимирович": 2,
-      "Иванов Николай Николаевич": 136,
-      "Иванов Сергей Владимирович": 46,
-      "Капелюш Александр Маратович": 17,
-      "Крюков Анатолий Федорович": 41,
-      "Сафонов Юрий Алексеевич": 20,
-      "Фалалеев Сергей Николаевич": 47,
-      "Федулов Александр Михайлович": 97,
-      "Чухраев Александр Михайлович": 250,
-      "Против всех": 152
+      "gas:candidate-vibid:346300170939": 10,
+      "gas:candidate-vibid:1001000195087": 2,
+      "gas:candidate-vibid:1001000121858": 136,
+      "gas:candidate-vibid:1001000136068": 46,
+      "gas:candidate-vibid:1001000112220": 17,
+      "gas:candidate-vibid:1001000220819": 41,
+      "gas:candidate-vibid:1001000113940": 20,
+      "gas:candidate-vibid:1001000131398": 47,
+      "gas:candidate-vibid:1001000202312": 97,
+      "gas:candidate-vibid:1001000225947": 250,
+      "special:against-all": 152
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172706&region=0&sub_region=0&type=429",
@@ -12882,17 +12882,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 6,
-      "Ещенко Денис Владимирович": 3,
-      "Иванов Николай Николаевич": 92,
-      "Иванов Сергей Владимирович": 38,
-      "Капелюш Александр Маратович": 20,
-      "Крюков Анатолий Федорович": 15,
-      "Сафонов Юрий Алексеевич": 7,
-      "Фалалеев Сергей Николаевич": 19,
-      "Федулов Александр Михайлович": 136,
-      "Чухраев Александр Михайлович": 163,
-      "Против всех": 97
+      "gas:candidate-vibid:346300170939": 6,
+      "gas:candidate-vibid:1001000195087": 3,
+      "gas:candidate-vibid:1001000121858": 92,
+      "gas:candidate-vibid:1001000136068": 38,
+      "gas:candidate-vibid:1001000112220": 20,
+      "gas:candidate-vibid:1001000220819": 15,
+      "gas:candidate-vibid:1001000113940": 7,
+      "gas:candidate-vibid:1001000131398": 19,
+      "gas:candidate-vibid:1001000202312": 136,
+      "gas:candidate-vibid:1001000225947": 163,
+      "special:against-all": 97
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172706&region=0&sub_region=0&type=429",
@@ -12942,17 +12942,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 6,
-      "Ещенко Денис Владимирович": 2,
-      "Иванов Николай Николаевич": 88,
-      "Иванов Сергей Владимирович": 25,
-      "Капелюш Александр Маратович": 8,
-      "Крюков Анатолий Федорович": 24,
-      "Сафонов Юрий Алексеевич": 13,
-      "Фалалеев Сергей Николаевич": 26,
-      "Федулов Александр Михайлович": 91,
-      "Чухраев Александр Михайлович": 148,
-      "Против всех": 101
+      "gas:candidate-vibid:346300170939": 6,
+      "gas:candidate-vibid:1001000195087": 2,
+      "gas:candidate-vibid:1001000121858": 88,
+      "gas:candidate-vibid:1001000136068": 25,
+      "gas:candidate-vibid:1001000112220": 8,
+      "gas:candidate-vibid:1001000220819": 24,
+      "gas:candidate-vibid:1001000113940": 13,
+      "gas:candidate-vibid:1001000131398": 26,
+      "gas:candidate-vibid:1001000202312": 91,
+      "gas:candidate-vibid:1001000225947": 148,
+      "special:against-all": 101
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172706&region=0&sub_region=0&type=429",
@@ -13002,17 +13002,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 15,
-      "Ещенко Денис Владимирович": 6,
-      "Иванов Николай Николаевич": 238,
-      "Иванов Сергей Владимирович": 60,
-      "Капелюш Александр Маратович": 36,
-      "Крюков Анатолий Федорович": 32,
-      "Сафонов Юрий Алексеевич": 36,
-      "Фалалеев Сергей Николаевич": 54,
-      "Федулов Александр Михайлович": 154,
-      "Чухраев Александр Михайлович": 358,
-      "Против всех": 209
+      "gas:candidate-vibid:346300170939": 15,
+      "gas:candidate-vibid:1001000195087": 6,
+      "gas:candidate-vibid:1001000121858": 238,
+      "gas:candidate-vibid:1001000136068": 60,
+      "gas:candidate-vibid:1001000112220": 36,
+      "gas:candidate-vibid:1001000220819": 32,
+      "gas:candidate-vibid:1001000113940": 36,
+      "gas:candidate-vibid:1001000131398": 54,
+      "gas:candidate-vibid:1001000202312": 154,
+      "gas:candidate-vibid:1001000225947": 358,
+      "special:against-all": 209
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172706&region=0&sub_region=0&type=429",
@@ -13062,17 +13062,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 6,
-      "Ещенко Денис Владимирович": 4,
-      "Иванов Николай Николаевич": 125,
-      "Иванов Сергей Владимирович": 53,
-      "Капелюш Александр Маратович": 16,
-      "Крюков Анатолий Федорович": 24,
-      "Сафонов Юрий Алексеевич": 19,
-      "Фалалеев Сергей Николаевич": 42,
-      "Федулов Александр Михайлович": 155,
-      "Чухраев Александр Михайлович": 278,
-      "Против всех": 159
+      "gas:candidate-vibid:346300170939": 6,
+      "gas:candidate-vibid:1001000195087": 4,
+      "gas:candidate-vibid:1001000121858": 125,
+      "gas:candidate-vibid:1001000136068": 53,
+      "gas:candidate-vibid:1001000112220": 16,
+      "gas:candidate-vibid:1001000220819": 24,
+      "gas:candidate-vibid:1001000113940": 19,
+      "gas:candidate-vibid:1001000131398": 42,
+      "gas:candidate-vibid:1001000202312": 155,
+      "gas:candidate-vibid:1001000225947": 278,
+      "special:against-all": 159
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172706&region=0&sub_region=0&type=429",
@@ -13122,17 +13122,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 6,
-      "Ещенко Денис Владимирович": 3,
-      "Иванов Николай Николаевич": 167,
-      "Иванов Сергей Владимирович": 50,
-      "Капелюш Александр Маратович": 31,
-      "Крюков Анатолий Федорович": 36,
-      "Сафонов Юрий Алексеевич": 22,
-      "Фалалеев Сергей Николаевич": 46,
-      "Федулов Александр Михайлович": 178,
-      "Чухраев Александр Михайлович": 281,
-      "Против всех": 198
+      "gas:candidate-vibid:346300170939": 6,
+      "gas:candidate-vibid:1001000195087": 3,
+      "gas:candidate-vibid:1001000121858": 167,
+      "gas:candidate-vibid:1001000136068": 50,
+      "gas:candidate-vibid:1001000112220": 31,
+      "gas:candidate-vibid:1001000220819": 36,
+      "gas:candidate-vibid:1001000113940": 22,
+      "gas:candidate-vibid:1001000131398": 46,
+      "gas:candidate-vibid:1001000202312": 178,
+      "gas:candidate-vibid:1001000225947": 281,
+      "special:against-all": 198
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172706&region=0&sub_region=0&type=429",
@@ -13182,17 +13182,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 14,
-      "Ещенко Денис Владимирович": 6,
-      "Иванов Николай Николаевич": 197,
-      "Иванов Сергей Владимирович": 40,
-      "Капелюш Александр Маратович": 28,
-      "Крюков Анатолий Федорович": 43,
-      "Сафонов Юрий Алексеевич": 14,
-      "Фалалеев Сергей Николаевич": 48,
-      "Федулов Александр Михайлович": 175,
-      "Чухраев Александр Михайлович": 360,
-      "Против всех": 171
+      "gas:candidate-vibid:346300170939": 14,
+      "gas:candidate-vibid:1001000195087": 6,
+      "gas:candidate-vibid:1001000121858": 197,
+      "gas:candidate-vibid:1001000136068": 40,
+      "gas:candidate-vibid:1001000112220": 28,
+      "gas:candidate-vibid:1001000220819": 43,
+      "gas:candidate-vibid:1001000113940": 14,
+      "gas:candidate-vibid:1001000131398": 48,
+      "gas:candidate-vibid:1001000202312": 175,
+      "gas:candidate-vibid:1001000225947": 360,
+      "special:against-all": 171
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172706&region=0&sub_region=0&type=429",
@@ -13242,17 +13242,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 15,
-      "Ещенко Денис Владимирович": 11,
-      "Иванов Николай Николаевич": 170,
-      "Иванов Сергей Владимирович": 58,
-      "Капелюш Александр Маратович": 33,
-      "Крюков Анатолий Федорович": 54,
-      "Сафонов Юрий Алексеевич": 29,
-      "Фалалеев Сергей Николаевич": 71,
-      "Федулов Александр Михайлович": 191,
-      "Чухраев Александр Михайлович": 410,
-      "Против всех": 200
+      "gas:candidate-vibid:346300170939": 15,
+      "gas:candidate-vibid:1001000195087": 11,
+      "gas:candidate-vibid:1001000121858": 170,
+      "gas:candidate-vibid:1001000136068": 58,
+      "gas:candidate-vibid:1001000112220": 33,
+      "gas:candidate-vibid:1001000220819": 54,
+      "gas:candidate-vibid:1001000113940": 29,
+      "gas:candidate-vibid:1001000131398": 71,
+      "gas:candidate-vibid:1001000202312": 191,
+      "gas:candidate-vibid:1001000225947": 410,
+      "special:against-all": 200
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172706&region=0&sub_region=0&type=429",
@@ -13302,17 +13302,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 8,
-      "Ещенко Денис Владимирович": 3,
-      "Иванов Николай Николаевич": 170,
-      "Иванов Сергей Владимирович": 37,
-      "Капелюш Александр Маратович": 23,
-      "Крюков Анатолий Федорович": 35,
-      "Сафонов Юрий Алексеевич": 17,
-      "Фалалеев Сергей Николаевич": 28,
-      "Федулов Александр Михайлович": 109,
-      "Чухраев Александр Михайлович": 243,
-      "Против всех": 136
+      "gas:candidate-vibid:346300170939": 8,
+      "gas:candidate-vibid:1001000195087": 3,
+      "gas:candidate-vibid:1001000121858": 170,
+      "gas:candidate-vibid:1001000136068": 37,
+      "gas:candidate-vibid:1001000112220": 23,
+      "gas:candidate-vibid:1001000220819": 35,
+      "gas:candidate-vibid:1001000113940": 17,
+      "gas:candidate-vibid:1001000131398": 28,
+      "gas:candidate-vibid:1001000202312": 109,
+      "gas:candidate-vibid:1001000225947": 243,
+      "special:against-all": 136
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172706&region=0&sub_region=0&type=429",
@@ -13362,17 +13362,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 6,
-      "Ещенко Денис Владимирович": 1,
-      "Иванов Николай Николаевич": 66,
-      "Иванов Сергей Владимирович": 31,
-      "Капелюш Александр Маратович": 12,
-      "Крюков Анатолий Федорович": 20,
-      "Сафонов Юрий Алексеевич": 29,
-      "Фалалеев Сергей Николаевич": 25,
-      "Федулов Александр Михайлович": 90,
-      "Чухраев Александр Михайлович": 290,
-      "Против всех": 132
+      "gas:candidate-vibid:346300170939": 6,
+      "gas:candidate-vibid:1001000195087": 1,
+      "gas:candidate-vibid:1001000121858": 66,
+      "gas:candidate-vibid:1001000136068": 31,
+      "gas:candidate-vibid:1001000112220": 12,
+      "gas:candidate-vibid:1001000220819": 20,
+      "gas:candidate-vibid:1001000113940": 29,
+      "gas:candidate-vibid:1001000131398": 25,
+      "gas:candidate-vibid:1001000202312": 90,
+      "gas:candidate-vibid:1001000225947": 290,
+      "special:against-all": 132
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172706&region=0&sub_region=0&type=429",
@@ -13422,17 +13422,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 5,
-      "Ещенко Денис Владимирович": 6,
-      "Иванов Николай Николаевич": 119,
-      "Иванов Сергей Владимирович": 29,
-      "Капелюш Александр Маратович": 16,
-      "Крюков Анатолий Федорович": 22,
-      "Сафонов Юрий Алексеевич": 19,
-      "Фалалеев Сергей Николаевич": 28,
-      "Федулов Александр Михайлович": 93,
-      "Чухраев Александр Михайлович": 168,
-      "Против всех": 127
+      "gas:candidate-vibid:346300170939": 5,
+      "gas:candidate-vibid:1001000195087": 6,
+      "gas:candidate-vibid:1001000121858": 119,
+      "gas:candidate-vibid:1001000136068": 29,
+      "gas:candidate-vibid:1001000112220": 16,
+      "gas:candidate-vibid:1001000220819": 22,
+      "gas:candidate-vibid:1001000113940": 19,
+      "gas:candidate-vibid:1001000131398": 28,
+      "gas:candidate-vibid:1001000202312": 93,
+      "gas:candidate-vibid:1001000225947": 168,
+      "special:against-all": 127
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172706&region=0&sub_region=0&type=429",
@@ -13482,17 +13482,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 15,
-      "Ещенко Денис Владимирович": 7,
-      "Иванов Николай Николаевич": 165,
-      "Иванов Сергей Владимирович": 23,
-      "Капелюш Александр Маратович": 30,
-      "Крюков Анатолий Федорович": 45,
-      "Сафонов Юрий Алексеевич": 11,
-      "Фалалеев Сергей Николаевич": 30,
-      "Федулов Александр Михайлович": 165,
-      "Чухраев Александр Михайлович": 215,
-      "Против всех": 113
+      "gas:candidate-vibid:346300170939": 15,
+      "gas:candidate-vibid:1001000195087": 7,
+      "gas:candidate-vibid:1001000121858": 165,
+      "gas:candidate-vibid:1001000136068": 23,
+      "gas:candidate-vibid:1001000112220": 30,
+      "gas:candidate-vibid:1001000220819": 45,
+      "gas:candidate-vibid:1001000113940": 11,
+      "gas:candidate-vibid:1001000131398": 30,
+      "gas:candidate-vibid:1001000202312": 165,
+      "gas:candidate-vibid:1001000225947": 215,
+      "special:against-all": 113
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172706&region=0&sub_region=0&type=429",
@@ -13542,17 +13542,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 12,
-      "Ещенко Денис Владимирович": 8,
-      "Иванов Николай Николаевич": 88,
-      "Иванов Сергей Владимирович": 39,
-      "Капелюш Александр Маратович": 10,
-      "Крюков Анатолий Федорович": 18,
-      "Сафонов Юрий Алексеевич": 8,
-      "Фалалеев Сергей Николаевич": 6,
-      "Федулов Александр Михайлович": 98,
-      "Чухраев Александр Михайлович": 170,
-      "Против всех": 147
+      "gas:candidate-vibid:346300170939": 12,
+      "gas:candidate-vibid:1001000195087": 8,
+      "gas:candidate-vibid:1001000121858": 88,
+      "gas:candidate-vibid:1001000136068": 39,
+      "gas:candidate-vibid:1001000112220": 10,
+      "gas:candidate-vibid:1001000220819": 18,
+      "gas:candidate-vibid:1001000113940": 8,
+      "gas:candidate-vibid:1001000131398": 6,
+      "gas:candidate-vibid:1001000202312": 98,
+      "gas:candidate-vibid:1001000225947": 170,
+      "special:against-all": 147
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172706&region=0&sub_region=0&type=429",
@@ -13602,17 +13602,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 16,
-      "Ещенко Денис Владимирович": 6,
-      "Иванов Николай Николаевич": 120,
-      "Иванов Сергей Владимирович": 37,
-      "Капелюш Александр Маратович": 9,
-      "Крюков Анатолий Федорович": 25,
-      "Сафонов Юрий Алексеевич": 16,
-      "Фалалеев Сергей Николаевич": 22,
-      "Федулов Александр Михайлович": 146,
-      "Чухраев Александр Михайлович": 133,
-      "Против всех": 134
+      "gas:candidate-vibid:346300170939": 16,
+      "gas:candidate-vibid:1001000195087": 6,
+      "gas:candidate-vibid:1001000121858": 120,
+      "gas:candidate-vibid:1001000136068": 37,
+      "gas:candidate-vibid:1001000112220": 9,
+      "gas:candidate-vibid:1001000220819": 25,
+      "gas:candidate-vibid:1001000113940": 16,
+      "gas:candidate-vibid:1001000131398": 22,
+      "gas:candidate-vibid:1001000202312": 146,
+      "gas:candidate-vibid:1001000225947": 133,
+      "special:against-all": 134
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172706&region=0&sub_region=0&type=429",
@@ -13662,17 +13662,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 17,
-      "Ещенко Денис Владимирович": 5,
-      "Иванов Николай Николаевич": 225,
-      "Иванов Сергей Владимирович": 53,
-      "Капелюш Александр Маратович": 25,
-      "Крюков Анатолий Федорович": 31,
-      "Сафонов Юрий Алексеевич": 23,
-      "Фалалеев Сергей Николаевич": 47,
-      "Федулов Александр Михайлович": 237,
-      "Чухраев Александр Михайлович": 331,
-      "Против всех": 241
+      "gas:candidate-vibid:346300170939": 17,
+      "gas:candidate-vibid:1001000195087": 5,
+      "gas:candidate-vibid:1001000121858": 225,
+      "gas:candidate-vibid:1001000136068": 53,
+      "gas:candidate-vibid:1001000112220": 25,
+      "gas:candidate-vibid:1001000220819": 31,
+      "gas:candidate-vibid:1001000113940": 23,
+      "gas:candidate-vibid:1001000131398": 47,
+      "gas:candidate-vibid:1001000202312": 237,
+      "gas:candidate-vibid:1001000225947": 331,
+      "special:against-all": 241
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172706&region=0&sub_region=0&type=429",
@@ -13722,17 +13722,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 10,
-      "Ещенко Денис Владимирович": 10,
-      "Иванов Николай Николаевич": 164,
-      "Иванов Сергей Владимирович": 43,
-      "Капелюш Александр Маратович": 20,
-      "Крюков Анатолий Федорович": 28,
-      "Сафонов Юрий Алексеевич": 32,
-      "Фалалеев Сергей Николаевич": 42,
-      "Федулов Александр Михайлович": 162,
-      "Чухраев Александр Михайлович": 255,
-      "Против всех": 136
+      "gas:candidate-vibid:346300170939": 10,
+      "gas:candidate-vibid:1001000195087": 10,
+      "gas:candidate-vibid:1001000121858": 164,
+      "gas:candidate-vibid:1001000136068": 43,
+      "gas:candidate-vibid:1001000112220": 20,
+      "gas:candidate-vibid:1001000220819": 28,
+      "gas:candidate-vibid:1001000113940": 32,
+      "gas:candidate-vibid:1001000131398": 42,
+      "gas:candidate-vibid:1001000202312": 162,
+      "gas:candidate-vibid:1001000225947": 255,
+      "special:against-all": 136
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172706&region=0&sub_region=0&type=429",
@@ -13782,17 +13782,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 17,
-      "Ещенко Денис Владимирович": 4,
-      "Иванов Николай Николаевич": 231,
-      "Иванов Сергей Владимирович": 56,
-      "Капелюш Александр Маратович": 34,
-      "Крюков Анатолий Федорович": 51,
-      "Сафонов Юрий Алексеевич": 27,
-      "Фалалеев Сергей Николаевич": 69,
-      "Федулов Александр Михайлович": 222,
-      "Чухраев Александр Михайлович": 321,
-      "Против всех": 229
+      "gas:candidate-vibid:346300170939": 17,
+      "gas:candidate-vibid:1001000195087": 4,
+      "gas:candidate-vibid:1001000121858": 231,
+      "gas:candidate-vibid:1001000136068": 56,
+      "gas:candidate-vibid:1001000112220": 34,
+      "gas:candidate-vibid:1001000220819": 51,
+      "gas:candidate-vibid:1001000113940": 27,
+      "gas:candidate-vibid:1001000131398": 69,
+      "gas:candidate-vibid:1001000202312": 222,
+      "gas:candidate-vibid:1001000225947": 321,
+      "special:against-all": 229
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172706&region=0&sub_region=0&type=429",
@@ -13842,17 +13842,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 11,
-      "Ещенко Денис Владимирович": 5,
-      "Иванов Николай Николаевич": 210,
-      "Иванов Сергей Владимирович": 37,
-      "Капелюш Александр Маратович": 22,
-      "Крюков Анатолий Федорович": 37,
-      "Сафонов Юрий Алексеевич": 32,
-      "Фалалеев Сергей Николаевич": 37,
-      "Федулов Александр Михайлович": 169,
-      "Чухраев Александр Михайлович": 292,
-      "Против всех": 153
+      "gas:candidate-vibid:346300170939": 11,
+      "gas:candidate-vibid:1001000195087": 5,
+      "gas:candidate-vibid:1001000121858": 210,
+      "gas:candidate-vibid:1001000136068": 37,
+      "gas:candidate-vibid:1001000112220": 22,
+      "gas:candidate-vibid:1001000220819": 37,
+      "gas:candidate-vibid:1001000113940": 32,
+      "gas:candidate-vibid:1001000131398": 37,
+      "gas:candidate-vibid:1001000202312": 169,
+      "gas:candidate-vibid:1001000225947": 292,
+      "special:against-all": 153
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172706&region=0&sub_region=0&type=429",
@@ -13902,17 +13902,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 7,
-      "Ещенко Денис Владимирович": 15,
-      "Иванов Николай Николаевич": 69,
-      "Иванов Сергей Владимирович": 56,
-      "Капелюш Александр Маратович": 12,
-      "Крюков Анатолий Федорович": 5,
-      "Сафонов Юрий Алексеевич": 18,
-      "Фалалеев Сергей Николаевич": 13,
-      "Федулов Александр Михайлович": 66,
-      "Чухраев Александр Михайлович": 146,
-      "Против всех": 168
+      "gas:candidate-vibid:346300170939": 7,
+      "gas:candidate-vibid:1001000195087": 15,
+      "gas:candidate-vibid:1001000121858": 69,
+      "gas:candidate-vibid:1001000136068": 56,
+      "gas:candidate-vibid:1001000112220": 12,
+      "gas:candidate-vibid:1001000220819": 5,
+      "gas:candidate-vibid:1001000113940": 18,
+      "gas:candidate-vibid:1001000131398": 13,
+      "gas:candidate-vibid:1001000202312": 66,
+      "gas:candidate-vibid:1001000225947": 146,
+      "special:against-all": 168
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172706&region=0&sub_region=0&type=429",
@@ -13962,17 +13962,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 18,
-      "Ещенко Денис Владимирович": 9,
-      "Иванов Николай Николаевич": 230,
-      "Иванов Сергей Владимирович": 76,
-      "Капелюш Александр Маратович": 29,
-      "Крюков Анатолий Федорович": 34,
-      "Сафонов Юрий Алексеевич": 30,
-      "Фалалеев Сергей Николаевич": 50,
-      "Федулов Александр Михайлович": 232,
-      "Чухраев Александр Михайлович": 478,
-      "Против всех": 258
+      "gas:candidate-vibid:346300170939": 18,
+      "gas:candidate-vibid:1001000195087": 9,
+      "gas:candidate-vibid:1001000121858": 230,
+      "gas:candidate-vibid:1001000136068": 76,
+      "gas:candidate-vibid:1001000112220": 29,
+      "gas:candidate-vibid:1001000220819": 34,
+      "gas:candidate-vibid:1001000113940": 30,
+      "gas:candidate-vibid:1001000131398": 50,
+      "gas:candidate-vibid:1001000202312": 232,
+      "gas:candidate-vibid:1001000225947": 478,
+      "special:against-all": 258
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172706&region=0&sub_region=0&type=429",
@@ -14022,17 +14022,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 8,
-      "Ещенко Денис Владимирович": 4,
-      "Иванов Николай Николаевич": 145,
-      "Иванов Сергей Владимирович": 40,
-      "Капелюш Александр Маратович": 19,
-      "Крюков Анатолий Федорович": 32,
-      "Сафонов Юрий Алексеевич": 20,
-      "Фалалеев Сергей Николаевич": 36,
-      "Федулов Александр Михайлович": 142,
-      "Чухраев Александр Михайлович": 317,
-      "Против всех": 199
+      "gas:candidate-vibid:346300170939": 8,
+      "gas:candidate-vibid:1001000195087": 4,
+      "gas:candidate-vibid:1001000121858": 145,
+      "gas:candidate-vibid:1001000136068": 40,
+      "gas:candidate-vibid:1001000112220": 19,
+      "gas:candidate-vibid:1001000220819": 32,
+      "gas:candidate-vibid:1001000113940": 20,
+      "gas:candidate-vibid:1001000131398": 36,
+      "gas:candidate-vibid:1001000202312": 142,
+      "gas:candidate-vibid:1001000225947": 317,
+      "special:against-all": 199
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172706&region=0&sub_region=0&type=429",
@@ -14082,17 +14082,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 9,
-      "Ещенко Денис Владимирович": 1,
-      "Иванов Николай Николаевич": 129,
-      "Иванов Сергей Владимирович": 50,
-      "Капелюш Александр Маратович": 15,
-      "Крюков Анатолий Федорович": 26,
-      "Сафонов Юрий Алексеевич": 12,
-      "Фалалеев Сергей Николаевич": 32,
-      "Федулов Александр Михайлович": 138,
-      "Чухраев Александр Михайлович": 222,
-      "Против всех": 164
+      "gas:candidate-vibid:346300170939": 9,
+      "gas:candidate-vibid:1001000195087": 1,
+      "gas:candidate-vibid:1001000121858": 129,
+      "gas:candidate-vibid:1001000136068": 50,
+      "gas:candidate-vibid:1001000112220": 15,
+      "gas:candidate-vibid:1001000220819": 26,
+      "gas:candidate-vibid:1001000113940": 12,
+      "gas:candidate-vibid:1001000131398": 32,
+      "gas:candidate-vibid:1001000202312": 138,
+      "gas:candidate-vibid:1001000225947": 222,
+      "special:against-all": 164
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172706&region=0&sub_region=0&type=429",
@@ -14142,17 +14142,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 16,
-      "Ещенко Денис Владимирович": 7,
-      "Иванов Николай Николаевич": 153,
-      "Иванов Сергей Владимирович": 65,
-      "Капелюш Александр Маратович": 26,
-      "Крюков Анатолий Федорович": 44,
-      "Сафонов Юрий Алексеевич": 17,
-      "Фалалеев Сергей Николаевич": 37,
-      "Федулов Александр Михайлович": 201,
-      "Чухраев Александр Михайлович": 269,
-      "Против всех": 233
+      "gas:candidate-vibid:346300170939": 16,
+      "gas:candidate-vibid:1001000195087": 7,
+      "gas:candidate-vibid:1001000121858": 153,
+      "gas:candidate-vibid:1001000136068": 65,
+      "gas:candidate-vibid:1001000112220": 26,
+      "gas:candidate-vibid:1001000220819": 44,
+      "gas:candidate-vibid:1001000113940": 17,
+      "gas:candidate-vibid:1001000131398": 37,
+      "gas:candidate-vibid:1001000202312": 201,
+      "gas:candidate-vibid:1001000225947": 269,
+      "special:against-all": 233
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172706&region=0&sub_region=0&type=429",
@@ -14202,17 +14202,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 5,
-      "Ещенко Денис Владимирович": 1,
-      "Иванов Николай Николаевич": 56,
-      "Иванов Сергей Владимирович": 33,
-      "Капелюш Александр Маратович": 11,
-      "Крюков Анатолий Федорович": 15,
-      "Сафонов Юрий Алексеевич": 9,
-      "Фалалеев Сергей Николаевич": 10,
-      "Федулов Александр Михайлович": 50,
-      "Чухраев Александр Михайлович": 92,
-      "Против всех": 64
+      "gas:candidate-vibid:346300170939": 5,
+      "gas:candidate-vibid:1001000195087": 1,
+      "gas:candidate-vibid:1001000121858": 56,
+      "gas:candidate-vibid:1001000136068": 33,
+      "gas:candidate-vibid:1001000112220": 11,
+      "gas:candidate-vibid:1001000220819": 15,
+      "gas:candidate-vibid:1001000113940": 9,
+      "gas:candidate-vibid:1001000131398": 10,
+      "gas:candidate-vibid:1001000202312": 50,
+      "gas:candidate-vibid:1001000225947": 92,
+      "special:against-all": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172706&region=0&sub_region=0&type=429",
@@ -14262,17 +14262,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 8,
-      "Ещенко Денис Владимирович": 2,
-      "Иванов Николай Николаевич": 266,
-      "Иванов Сергей Владимирович": 46,
-      "Капелюш Александр Маратович": 29,
-      "Крюков Анатолий Федорович": 45,
-      "Сафонов Юрий Алексеевич": 19,
-      "Фалалеев Сергей Николаевич": 50,
-      "Федулов Александр Михайлович": 147,
-      "Чухраев Александр Михайлович": 343,
-      "Против всех": 195
+      "gas:candidate-vibid:346300170939": 8,
+      "gas:candidate-vibid:1001000195087": 2,
+      "gas:candidate-vibid:1001000121858": 266,
+      "gas:candidate-vibid:1001000136068": 46,
+      "gas:candidate-vibid:1001000112220": 29,
+      "gas:candidate-vibid:1001000220819": 45,
+      "gas:candidate-vibid:1001000113940": 19,
+      "gas:candidate-vibid:1001000131398": 50,
+      "gas:candidate-vibid:1001000202312": 147,
+      "gas:candidate-vibid:1001000225947": 343,
+      "special:against-all": 195
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172706&region=0&sub_region=0&type=429",
@@ -14322,17 +14322,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 16,
-      "Ещенко Денис Владимирович": 13,
-      "Иванов Николай Николаевич": 139,
-      "Иванов Сергей Владимирович": 53,
-      "Капелюш Александр Маратович": 21,
-      "Крюков Анатолий Федорович": 47,
-      "Сафонов Юрий Алексеевич": 8,
-      "Фалалеев Сергей Николаевич": 36,
-      "Федулов Александр Михайлович": 137,
-      "Чухраев Александр Михайлович": 265,
-      "Против всех": 192
+      "gas:candidate-vibid:346300170939": 16,
+      "gas:candidate-vibid:1001000195087": 13,
+      "gas:candidate-vibid:1001000121858": 139,
+      "gas:candidate-vibid:1001000136068": 53,
+      "gas:candidate-vibid:1001000112220": 21,
+      "gas:candidate-vibid:1001000220819": 47,
+      "gas:candidate-vibid:1001000113940": 8,
+      "gas:candidate-vibid:1001000131398": 36,
+      "gas:candidate-vibid:1001000202312": 137,
+      "gas:candidate-vibid:1001000225947": 265,
+      "special:against-all": 192
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172706&region=0&sub_region=0&type=429",
@@ -14382,17 +14382,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 8,
-      "Ещенко Денис Владимирович": 9,
-      "Иванов Николай Николаевич": 83,
-      "Иванов Сергей Владимирович": 34,
-      "Капелюш Александр Маратович": 15,
-      "Крюков Анатолий Федорович": 27,
-      "Сафонов Юрий Алексеевич": 16,
-      "Фалалеев Сергей Николаевич": 21,
-      "Федулов Александр Михайлович": 141,
-      "Чухраев Александр Михайлович": 195,
-      "Против всех": 104
+      "gas:candidate-vibid:346300170939": 8,
+      "gas:candidate-vibid:1001000195087": 9,
+      "gas:candidate-vibid:1001000121858": 83,
+      "gas:candidate-vibid:1001000136068": 34,
+      "gas:candidate-vibid:1001000112220": 15,
+      "gas:candidate-vibid:1001000220819": 27,
+      "gas:candidate-vibid:1001000113940": 16,
+      "gas:candidate-vibid:1001000131398": 21,
+      "gas:candidate-vibid:1001000202312": 141,
+      "gas:candidate-vibid:1001000225947": 195,
+      "special:against-all": 104
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172706&region=0&sub_region=0&type=429",
@@ -14442,17 +14442,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 5,
-      "Ещенко Денис Владимирович": 3,
-      "Иванов Николай Николаевич": 38,
-      "Иванов Сергей Владимирович": 24,
-      "Капелюш Александр Маратович": 8,
-      "Крюков Анатолий Федорович": 1,
-      "Сафонов Юрий Алексеевич": 5,
-      "Фалалеев Сергей Николаевич": 11,
-      "Федулов Александр Михайлович": 100,
-      "Чухраев Александр Михайлович": 90,
-      "Против всех": 53
+      "gas:candidate-vibid:346300170939": 5,
+      "gas:candidate-vibid:1001000195087": 3,
+      "gas:candidate-vibid:1001000121858": 38,
+      "gas:candidate-vibid:1001000136068": 24,
+      "gas:candidate-vibid:1001000112220": 8,
+      "gas:candidate-vibid:1001000220819": 1,
+      "gas:candidate-vibid:1001000113940": 5,
+      "gas:candidate-vibid:1001000131398": 11,
+      "gas:candidate-vibid:1001000202312": 100,
+      "gas:candidate-vibid:1001000225947": 90,
+      "special:against-all": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172706&region=0&sub_region=0&type=429",
@@ -14502,17 +14502,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 16,
-      "Ещенко Денис Владимирович": 8,
-      "Иванов Николай Николаевич": 182,
-      "Иванов Сергей Владимирович": 59,
-      "Капелюш Александр Маратович": 28,
-      "Крюков Анатолий Федорович": 28,
-      "Сафонов Юрий Алексеевич": 18,
-      "Фалалеев Сергей Николаевич": 40,
-      "Федулов Александр Михайлович": 179,
-      "Чухраев Александр Михайлович": 309,
-      "Против всех": 239
+      "gas:candidate-vibid:346300170939": 16,
+      "gas:candidate-vibid:1001000195087": 8,
+      "gas:candidate-vibid:1001000121858": 182,
+      "gas:candidate-vibid:1001000136068": 59,
+      "gas:candidate-vibid:1001000112220": 28,
+      "gas:candidate-vibid:1001000220819": 28,
+      "gas:candidate-vibid:1001000113940": 18,
+      "gas:candidate-vibid:1001000131398": 40,
+      "gas:candidate-vibid:1001000202312": 179,
+      "gas:candidate-vibid:1001000225947": 309,
+      "special:against-all": 239
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172706&region=0&sub_region=0&type=429",
@@ -14562,17 +14562,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 1,
-      "Ещенко Денис Владимирович": 3,
-      "Иванов Николай Николаевич": 158,
-      "Иванов Сергей Владимирович": 7,
-      "Капелюш Александр Маратович": 2,
-      "Крюков Анатолий Федорович": 1,
-      "Сафонов Юрий Алексеевич": 1,
-      "Фалалеев Сергей Николаевич": 4,
-      "Федулов Александр Михайлович": 20,
-      "Чухраев Александр Михайлович": 3,
-      "Против всех": 6
+      "gas:candidate-vibid:346300170939": 1,
+      "gas:candidate-vibid:1001000195087": 3,
+      "gas:candidate-vibid:1001000121858": 158,
+      "gas:candidate-vibid:1001000136068": 7,
+      "gas:candidate-vibid:1001000112220": 2,
+      "gas:candidate-vibid:1001000220819": 1,
+      "gas:candidate-vibid:1001000113940": 1,
+      "gas:candidate-vibid:1001000131398": 4,
+      "gas:candidate-vibid:1001000202312": 20,
+      "gas:candidate-vibid:1001000225947": 3,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172706&region=0&sub_region=0&type=429",
@@ -14622,17 +14622,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 16,
-      "Ещенко Денис Владимирович": 8,
-      "Иванов Николай Николаевич": 162,
-      "Иванов Сергей Владимирович": 56,
-      "Капелюш Александр Маратович": 22,
-      "Крюков Анатолий Федорович": 41,
-      "Сафонов Юрий Алексеевич": 29,
-      "Фалалеев Сергей Николаевич": 35,
-      "Федулов Александр Михайлович": 196,
-      "Чухраев Александр Михайлович": 278,
-      "Против всех": 225
+      "gas:candidate-vibid:346300170939": 16,
+      "gas:candidate-vibid:1001000195087": 8,
+      "gas:candidate-vibid:1001000121858": 162,
+      "gas:candidate-vibid:1001000136068": 56,
+      "gas:candidate-vibid:1001000112220": 22,
+      "gas:candidate-vibid:1001000220819": 41,
+      "gas:candidate-vibid:1001000113940": 29,
+      "gas:candidate-vibid:1001000131398": 35,
+      "gas:candidate-vibid:1001000202312": 196,
+      "gas:candidate-vibid:1001000225947": 278,
+      "special:against-all": 225
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172706&region=0&sub_region=0&type=429",
@@ -14682,17 +14682,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 6,
-      "Ещенко Денис Владимирович": 2,
-      "Иванов Николай Николаевич": 79,
-      "Иванов Сергей Владимирович": 54,
-      "Капелюш Александр Маратович": 8,
-      "Крюков Анатолий Федорович": 27,
-      "Сафонов Юрий Алексеевич": 13,
-      "Фалалеев Сергей Николаевич": 12,
-      "Федулов Александр Михайлович": 109,
-      "Чухраев Александр Михайлович": 171,
-      "Против всех": 66
+      "gas:candidate-vibid:346300170939": 6,
+      "gas:candidate-vibid:1001000195087": 2,
+      "gas:candidate-vibid:1001000121858": 79,
+      "gas:candidate-vibid:1001000136068": 54,
+      "gas:candidate-vibid:1001000112220": 8,
+      "gas:candidate-vibid:1001000220819": 27,
+      "gas:candidate-vibid:1001000113940": 13,
+      "gas:candidate-vibid:1001000131398": 12,
+      "gas:candidate-vibid:1001000202312": 109,
+      "gas:candidate-vibid:1001000225947": 171,
+      "special:against-all": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172706&region=0&sub_region=0&type=429",
@@ -14742,17 +14742,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 9,
-      "Ещенко Денис Владимирович": 5,
-      "Иванов Николай Николаевич": 85,
-      "Иванов Сергей Владимирович": 47,
-      "Капелюш Александр Маратович": 13,
-      "Крюков Анатолий Федорович": 10,
-      "Сафонов Юрий Алексеевич": 9,
-      "Фалалеев Сергей Николаевич": 15,
-      "Федулов Александр Михайлович": 130,
-      "Чухраев Александр Михайлович": 159,
-      "Против всех": 84
+      "gas:candidate-vibid:346300170939": 9,
+      "gas:candidate-vibid:1001000195087": 5,
+      "gas:candidate-vibid:1001000121858": 85,
+      "gas:candidate-vibid:1001000136068": 47,
+      "gas:candidate-vibid:1001000112220": 13,
+      "gas:candidate-vibid:1001000220819": 10,
+      "gas:candidate-vibid:1001000113940": 9,
+      "gas:candidate-vibid:1001000131398": 15,
+      "gas:candidate-vibid:1001000202312": 130,
+      "gas:candidate-vibid:1001000225947": 159,
+      "special:against-all": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172706&region=0&sub_region=0&type=429",
@@ -14802,17 +14802,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 0,
-      "Ещенко Денис Владимирович": 0,
-      "Иванов Николай Николаевич": 7,
-      "Иванов Сергей Владимирович": 5,
-      "Капелюш Александр Маратович": 0,
-      "Крюков Анатолий Федорович": 1,
-      "Сафонов Юрий Алексеевич": 0,
-      "Фалалеев Сергей Николаевич": 3,
-      "Федулов Александр Михайлович": 9,
-      "Чухраев Александр Михайлович": 16,
-      "Против всех": 18
+      "gas:candidate-vibid:346300170939": 0,
+      "gas:candidate-vibid:1001000195087": 0,
+      "gas:candidate-vibid:1001000121858": 7,
+      "gas:candidate-vibid:1001000136068": 5,
+      "gas:candidate-vibid:1001000112220": 0,
+      "gas:candidate-vibid:1001000220819": 1,
+      "gas:candidate-vibid:1001000113940": 0,
+      "gas:candidate-vibid:1001000131398": 3,
+      "gas:candidate-vibid:1001000202312": 9,
+      "gas:candidate-vibid:1001000225947": 16,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172706&region=0&sub_region=0&type=429",
@@ -14862,17 +14862,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 2,
-      "Ещенко Денис Владимирович": 0,
-      "Иванов Николай Николаевич": 29,
-      "Иванов Сергей Владимирович": 3,
-      "Капелюш Александр Маратович": 1,
-      "Крюков Анатолий Федорович": 1,
-      "Сафонов Юрий Алексеевич": 0,
-      "Фалалеев Сергей Николаевич": 3,
-      "Федулов Александр Михайлович": 32,
-      "Чухраев Александр Михайлович": 37,
-      "Против всех": 23
+      "gas:candidate-vibid:346300170939": 2,
+      "gas:candidate-vibid:1001000195087": 0,
+      "gas:candidate-vibid:1001000121858": 29,
+      "gas:candidate-vibid:1001000136068": 3,
+      "gas:candidate-vibid:1001000112220": 1,
+      "gas:candidate-vibid:1001000220819": 1,
+      "gas:candidate-vibid:1001000113940": 0,
+      "gas:candidate-vibid:1001000131398": 3,
+      "gas:candidate-vibid:1001000202312": 32,
+      "gas:candidate-vibid:1001000225947": 37,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172706&region=0&sub_region=0&type=429",
@@ -14922,17 +14922,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 1,
-      "Ещенко Денис Владимирович": 0,
-      "Иванов Николай Николаевич": 5,
-      "Иванов Сергей Владимирович": 0,
-      "Капелюш Александр Маратович": 0,
-      "Крюков Анатолий Федорович": 0,
-      "Сафонов Юрий Алексеевич": 0,
-      "Фалалеев Сергей Николаевич": 1,
-      "Федулов Александр Михайлович": 1,
-      "Чухраев Александр Михайлович": 1,
-      "Против всех": 3
+      "gas:candidate-vibid:346300170939": 1,
+      "gas:candidate-vibid:1001000195087": 0,
+      "gas:candidate-vibid:1001000121858": 5,
+      "gas:candidate-vibid:1001000136068": 0,
+      "gas:candidate-vibid:1001000112220": 0,
+      "gas:candidate-vibid:1001000220819": 0,
+      "gas:candidate-vibid:1001000113940": 0,
+      "gas:candidate-vibid:1001000131398": 1,
+      "gas:candidate-vibid:1001000202312": 1,
+      "gas:candidate-vibid:1001000225947": 1,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172706&region=0&sub_region=0&type=429",
@@ -14982,17 +14982,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Долгополова Елизавета Михайловна": 0,
-      "Ещенко Денис Владимирович": 1,
-      "Иванов Николай Николаевич": 3,
-      "Иванов Сергей Владимирович": 1,
-      "Капелюш Александр Маратович": 0,
-      "Крюков Анатолий Федорович": 0,
-      "Сафонов Юрий Алексеевич": 0,
-      "Фалалеев Сергей Николаевич": 0,
-      "Федулов Александр Михайлович": 2,
-      "Чухраев Александр Михайлович": 2,
-      "Против всех": 1
+      "gas:candidate-vibid:346300170939": 0,
+      "gas:candidate-vibid:1001000195087": 1,
+      "gas:candidate-vibid:1001000121858": 3,
+      "gas:candidate-vibid:1001000136068": 1,
+      "gas:candidate-vibid:1001000112220": 0,
+      "gas:candidate-vibid:1001000220819": 0,
+      "gas:candidate-vibid:1001000113940": 0,
+      "gas:candidate-vibid:1001000131398": 0,
+      "gas:candidate-vibid:1001000202312": 2,
+      "gas:candidate-vibid:1001000225947": 2,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=463001017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=346300172706&region=0&sub_region=0&type=429",

@@ -42,11 +42,11 @@ export const duma_2003_uik_428_region_82_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Броневич Валентина Тадеевна": 19,
-      "Гималов Рафаэль Имамович": 15,
-      "Капцевич Александр Олегович": 0,
-      "Суворов Александр Сергеевич": 4,
-      "Против всех": 5
+      "gas:candidate-vibid:282200067164": 19,
+      "gas:candidate-vibid:282200067332": 15,
+      "gas:candidate-vibid:282200067173": 0,
+      "gas:candidate-vibid:1001000121953": 4,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=822000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=282200067448&region=0&sub_region=0&type=429",
@@ -96,11 +96,11 @@ export const duma_2003_uik_428_region_82_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Броневич Валентина Тадеевна": 10,
-      "Гималов Рафаэль Имамович": 331,
-      "Капцевич Александр Олегович": 3,
-      "Суворов Александр Сергеевич": 45,
-      "Против всех": 16
+      "gas:candidate-vibid:282200067164": 10,
+      "gas:candidate-vibid:282200067332": 331,
+      "gas:candidate-vibid:282200067173": 3,
+      "gas:candidate-vibid:1001000121953": 45,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=822000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=282200067448&region=0&sub_region=0&type=429",
@@ -150,11 +150,11 @@ export const duma_2003_uik_428_region_82_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Броневич Валентина Тадеевна": 24,
-      "Гималов Рафаэль Имамович": 106,
-      "Капцевич Александр Олегович": 3,
-      "Суворов Александр Сергеевич": 29,
-      "Против всех": 11
+      "gas:candidate-vibid:282200067164": 24,
+      "gas:candidate-vibid:282200067332": 106,
+      "gas:candidate-vibid:282200067173": 3,
+      "gas:candidate-vibid:1001000121953": 29,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=822000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=282200067448&region=0&sub_region=0&type=429",
@@ -204,11 +204,11 @@ export const duma_2003_uik_428_region_82_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Броневич Валентина Тадеевна": 19,
-      "Гималов Рафаэль Имамович": 191,
-      "Капцевич Александр Олегович": 14,
-      "Суворов Александр Сергеевич": 51,
-      "Против всех": 41
+      "gas:candidate-vibid:282200067164": 19,
+      "gas:candidate-vibid:282200067332": 191,
+      "gas:candidate-vibid:282200067173": 14,
+      "gas:candidate-vibid:1001000121953": 51,
+      "special:against-all": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=822000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=282200067448&region=0&sub_region=0&type=429",
@@ -258,11 +258,11 @@ export const duma_2003_uik_428_region_82_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Броневич Валентина Тадеевна": 8,
-      "Гималов Рафаэль Имамович": 15,
-      "Капцевич Александр Олегович": 1,
-      "Суворов Александр Сергеевич": 29,
-      "Против всех": 3
+      "gas:candidate-vibid:282200067164": 8,
+      "gas:candidate-vibid:282200067332": 15,
+      "gas:candidate-vibid:282200067173": 1,
+      "gas:candidate-vibid:1001000121953": 29,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=822000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=282200067448&region=0&sub_region=0&type=429",
@@ -312,11 +312,11 @@ export const duma_2003_uik_428_region_82_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Броневич Валентина Тадеевна": 14,
-      "Гималов Рафаэль Имамович": 121,
-      "Капцевич Александр Олегович": 4,
-      "Суворов Александр Сергеевич": 42,
-      "Против всех": 24
+      "gas:candidate-vibid:282200067164": 14,
+      "gas:candidate-vibid:282200067332": 121,
+      "gas:candidate-vibid:282200067173": 4,
+      "gas:candidate-vibid:1001000121953": 42,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=822000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=282200067448&region=0&sub_region=0&type=429",
@@ -366,11 +366,11 @@ export const duma_2003_uik_428_region_82_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Броневич Валентина Тадеевна": 26,
-      "Гималов Рафаэль Имамович": 98,
-      "Капцевич Александр Олегович": 0,
-      "Суворов Александр Сергеевич": 28,
-      "Против всех": 12
+      "gas:candidate-vibid:282200067164": 26,
+      "gas:candidate-vibid:282200067332": 98,
+      "gas:candidate-vibid:282200067173": 0,
+      "gas:candidate-vibid:1001000121953": 28,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=822000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=282200067448&region=0&sub_region=0&type=429",
@@ -420,11 +420,11 @@ export const duma_2003_uik_428_region_82_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Броневич Валентина Тадеевна": 60,
-      "Гималов Рафаэль Имамович": 47,
-      "Капцевич Александр Олегович": 0,
-      "Суворов Александр Сергеевич": 1,
-      "Против всех": 9
+      "gas:candidate-vibid:282200067164": 60,
+      "gas:candidate-vibid:282200067332": 47,
+      "gas:candidate-vibid:282200067173": 0,
+      "gas:candidate-vibid:1001000121953": 1,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=822000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=282200067450&region=0&sub_region=0&type=429",
@@ -474,11 +474,11 @@ export const duma_2003_uik_428_region_82_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Броневич Валентина Тадеевна": 148,
-      "Гималов Рафаэль Имамович": 316,
-      "Капцевич Александр Олегович": 33,
-      "Суворов Александр Сергеевич": 33,
-      "Против всех": 49
+      "gas:candidate-vibid:282200067164": 148,
+      "gas:candidate-vibid:282200067332": 316,
+      "gas:candidate-vibid:282200067173": 33,
+      "gas:candidate-vibid:1001000121953": 33,
+      "special:against-all": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=822000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=282200067450&region=0&sub_region=0&type=429",
@@ -528,11 +528,11 @@ export const duma_2003_uik_428_region_82_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Броневич Валентина Тадеевна": 133,
-      "Гималов Рафаэль Имамович": 56,
-      "Капцевич Александр Олегович": 2,
-      "Суворов Александр Сергеевич": 6,
-      "Против всех": 7
+      "gas:candidate-vibid:282200067164": 133,
+      "gas:candidate-vibid:282200067332": 56,
+      "gas:candidate-vibid:282200067173": 2,
+      "gas:candidate-vibid:1001000121953": 6,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=822000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=282200067450&region=0&sub_region=0&type=429",
@@ -582,11 +582,11 @@ export const duma_2003_uik_428_region_82_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Броневич Валентина Тадеевна": 56,
-      "Гималов Рафаэль Имамович": 185,
-      "Капцевич Александр Олегович": 3,
-      "Суворов Александр Сергеевич": 10,
-      "Против всех": 16
+      "gas:candidate-vibid:282200067164": 56,
+      "gas:candidate-vibid:282200067332": 185,
+      "gas:candidate-vibid:282200067173": 3,
+      "gas:candidate-vibid:1001000121953": 10,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=822000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=282200067450&region=0&sub_region=0&type=429",
@@ -636,11 +636,11 @@ export const duma_2003_uik_428_region_82_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Броневич Валентина Тадеевна": 92,
-      "Гималов Рафаэль Имамович": 756,
-      "Капцевич Александр Олегович": 38,
-      "Суворов Александр Сергеевич": 87,
-      "Против всех": 86
+      "gas:candidate-vibid:282200067164": 92,
+      "gas:candidate-vibid:282200067332": 756,
+      "gas:candidate-vibid:282200067173": 38,
+      "gas:candidate-vibid:1001000121953": 87,
+      "special:against-all": 86
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=822000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=282200067450&region=0&sub_region=0&type=429",
@@ -690,11 +690,11 @@ export const duma_2003_uik_428_region_82_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Броневич Валентина Тадеевна": 21,
-      "Гималов Рафаэль Имамович": 76,
-      "Капцевич Александр Олегович": 0,
-      "Суворов Александр Сергеевич": 5,
-      "Против всех": 9
+      "gas:candidate-vibid:282200067164": 21,
+      "gas:candidate-vibid:282200067332": 76,
+      "gas:candidate-vibid:282200067173": 0,
+      "gas:candidate-vibid:1001000121953": 5,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=822000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=282200067450&region=0&sub_region=0&type=429",
@@ -744,11 +744,11 @@ export const duma_2003_uik_428_region_82_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Броневич Валентина Тадеевна": 277,
-      "Гималов Рафаэль Имамович": 887,
-      "Капцевич Александр Олегович": 24,
-      "Суворов Александр Сергеевич": 336,
-      "Против всех": 219
+      "gas:candidate-vibid:282200067164": 277,
+      "gas:candidate-vibid:282200067332": 887,
+      "gas:candidate-vibid:282200067173": 24,
+      "gas:candidate-vibid:1001000121953": 336,
+      "special:against-all": 219
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=822000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=282200067450&region=0&sub_region=0&type=429",
@@ -798,11 +798,11 @@ export const duma_2003_uik_428_region_82_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Броневич Валентина Тадеевна": 84,
-      "Гималов Рафаэль Имамович": 101,
-      "Капцевич Александр Олегович": 1,
-      "Суворов Александр Сергеевич": 12,
-      "Против всех": 9
+      "gas:candidate-vibid:282200067164": 84,
+      "gas:candidate-vibid:282200067332": 101,
+      "gas:candidate-vibid:282200067173": 1,
+      "gas:candidate-vibid:1001000121953": 12,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=822000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=282200067450&region=0&sub_region=0&type=429",
@@ -852,11 +852,11 @@ export const duma_2003_uik_428_region_82_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Броневич Валентина Тадеевна": 106,
-      "Гималов Рафаэль Имамович": 289,
-      "Капцевич Александр Олегович": 21,
-      "Суворов Александр Сергеевич": 8,
-      "Против всех": 39
+      "gas:candidate-vibid:282200067164": 106,
+      "gas:candidate-vibid:282200067332": 289,
+      "gas:candidate-vibid:282200067173": 21,
+      "gas:candidate-vibid:1001000121953": 8,
+      "special:against-all": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=822000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=282200067987&region=0&sub_region=0&type=429",
@@ -906,11 +906,11 @@ export const duma_2003_uik_428_region_82_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Броневич Валентина Тадеевна": 2,
-      "Гималов Рафаэль Имамович": 31,
-      "Капцевич Александр Олегович": 0,
-      "Суворов Александр Сергеевич": 9,
-      "Против всех": 5
+      "gas:candidate-vibid:282200067164": 2,
+      "gas:candidate-vibid:282200067332": 31,
+      "gas:candidate-vibid:282200067173": 0,
+      "gas:candidate-vibid:1001000121953": 9,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=822000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=282200067987&region=0&sub_region=0&type=429",
@@ -960,11 +960,11 @@ export const duma_2003_uik_428_region_82_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Броневич Валентина Тадеевна": 50,
-      "Гималов Рафаэль Имамович": 104,
-      "Капцевич Александр Олегович": 3,
-      "Суворов Александр Сергеевич": 24,
-      "Против всех": 21
+      "gas:candidate-vibid:282200067164": 50,
+      "gas:candidate-vibid:282200067332": 104,
+      "gas:candidate-vibid:282200067173": 3,
+      "gas:candidate-vibid:1001000121953": 24,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=822000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=282200067987&region=0&sub_region=0&type=429",
@@ -1014,11 +1014,11 @@ export const duma_2003_uik_428_region_82_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Броневич Валентина Тадеевна": 187,
-      "Гималов Рафаэль Имамович": 758,
-      "Капцевич Александр Олегович": 21,
-      "Суворов Александр Сергеевич": 87,
-      "Против всех": 97
+      "gas:candidate-vibid:282200067164": 187,
+      "gas:candidate-vibid:282200067332": 758,
+      "gas:candidate-vibid:282200067173": 21,
+      "gas:candidate-vibid:1001000121953": 87,
+      "special:against-all": 97
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=822000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=282200067987&region=0&sub_region=0&type=429",
@@ -1068,11 +1068,11 @@ export const duma_2003_uik_428_region_82_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Броневич Валентина Тадеевна": 91,
-      "Гималов Рафаэль Имамович": 173,
-      "Капцевич Александр Олегович": 4,
-      "Суворов Александр Сергеевич": 22,
-      "Против всех": 18
+      "gas:candidate-vibid:282200067164": 91,
+      "gas:candidate-vibid:282200067332": 173,
+      "gas:candidate-vibid:282200067173": 4,
+      "gas:candidate-vibid:1001000121953": 22,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=822000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=282200067987&region=0&sub_region=0&type=429",
@@ -1122,11 +1122,11 @@ export const duma_2003_uik_428_region_82_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Броневич Валентина Тадеевна": 27,
-      "Гималов Рафаэль Имамович": 40,
-      "Капцевич Александр Олегович": 4,
-      "Суворов Александр Сергеевич": 14,
-      "Против всех": 16
+      "gas:candidate-vibid:282200067164": 27,
+      "gas:candidate-vibid:282200067332": 40,
+      "gas:candidate-vibid:282200067173": 4,
+      "gas:candidate-vibid:1001000121953": 14,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=822000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=282200067987&region=0&sub_region=0&type=429",
@@ -1176,11 +1176,11 @@ export const duma_2003_uik_428_region_82_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Броневич Валентина Тадеевна": 15,
-      "Гималов Рафаэль Имамович": 148,
-      "Капцевич Александр Олегович": 3,
-      "Суворов Александр Сергеевич": 9,
-      "Против всех": 17
+      "gas:candidate-vibid:282200067164": 15,
+      "gas:candidate-vibid:282200067332": 148,
+      "gas:candidate-vibid:282200067173": 3,
+      "gas:candidate-vibid:1001000121953": 9,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=822000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=282200068144&region=0&sub_region=0&type=429",
@@ -1230,11 +1230,11 @@ export const duma_2003_uik_428_region_82_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Броневич Валентина Тадеевна": 59,
-      "Гималов Рафаэль Имамович": 324,
-      "Капцевич Александр Олегович": 40,
-      "Суворов Александр Сергеевич": 91,
-      "Против всех": 122
+      "gas:candidate-vibid:282200067164": 59,
+      "gas:candidate-vibid:282200067332": 324,
+      "gas:candidate-vibid:282200067173": 40,
+      "gas:candidate-vibid:1001000121953": 91,
+      "special:against-all": 122
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=822000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=282200068144&region=0&sub_region=0&type=429",
@@ -1284,11 +1284,11 @@ export const duma_2003_uik_428_region_82_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Броневич Валентина Тадеевна": 72,
-      "Гималов Рафаэль Имамович": 485,
-      "Капцевич Александр Олегович": 43,
-      "Суворов Александр Сергеевич": 163,
-      "Против всех": 152
+      "gas:candidate-vibid:282200067164": 72,
+      "gas:candidate-vibid:282200067332": 485,
+      "gas:candidate-vibid:282200067173": 43,
+      "gas:candidate-vibid:1001000121953": 163,
+      "special:against-all": 152
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=822000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=282200068144&region=0&sub_region=0&type=429",
@@ -1338,11 +1338,11 @@ export const duma_2003_uik_428_region_82_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Броневич Валентина Тадеевна": 7,
-      "Гималов Рафаэль Имамович": 308,
-      "Капцевич Александр Олегович": 8,
-      "Суворов Александр Сергеевич": 21,
-      "Против всех": 23
+      "gas:candidate-vibid:282200067164": 7,
+      "gas:candidate-vibid:282200067332": 308,
+      "gas:candidate-vibid:282200067173": 8,
+      "gas:candidate-vibid:1001000121953": 21,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=822000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=282200068144&region=0&sub_region=0&type=429",
@@ -1392,11 +1392,11 @@ export const duma_2003_uik_428_region_82_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Броневич Валентина Тадеевна": 23,
-      "Гималов Рафаэль Имамович": 213,
-      "Капцевич Александр Олегович": 29,
-      "Суворов Александр Сергеевич": 73,
-      "Против всех": 34
+      "gas:candidate-vibid:282200067164": 23,
+      "gas:candidate-vibid:282200067332": 213,
+      "gas:candidate-vibid:282200067173": 29,
+      "gas:candidate-vibid:1001000121953": 73,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=822000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=282200068144&region=0&sub_region=0&type=429",
@@ -1446,11 +1446,11 @@ export const duma_2003_uik_428_region_82_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Броневич Валентина Тадеевна": 13,
-      "Гималов Рафаэль Имамович": 148,
-      "Капцевич Александр Олегович": 10,
-      "Суворов Александр Сергеевич": 10,
-      "Против всех": 13
+      "gas:candidate-vibid:282200067164": 13,
+      "gas:candidate-vibid:282200067332": 148,
+      "gas:candidate-vibid:282200067173": 10,
+      "gas:candidate-vibid:1001000121953": 10,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=822000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=282200068144&region=0&sub_region=0&type=429",
@@ -1500,11 +1500,11 @@ export const duma_2003_uik_428_region_82_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Броневич Валентина Тадеевна": 7,
-      "Гималов Рафаэль Имамович": 153,
-      "Капцевич Александр Олегович": 5,
-      "Суворов Александр Сергеевич": 7,
-      "Против всех": 24
+      "gas:candidate-vibid:282200067164": 7,
+      "gas:candidate-vibid:282200067332": 153,
+      "gas:candidate-vibid:282200067173": 5,
+      "gas:candidate-vibid:1001000121953": 7,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=822000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=282200068144&region=0&sub_region=0&type=429",
@@ -1554,11 +1554,11 @@ export const duma_2003_uik_428_region_82_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Броневич Валентина Тадеевна": 8,
-      "Гималов Рафаэль Имамович": 250,
-      "Капцевич Александр Олегович": 3,
-      "Суворов Александр Сергеевич": 14,
-      "Против всех": 7
+      "gas:candidate-vibid:282200067164": 8,
+      "gas:candidate-vibid:282200067332": 250,
+      "gas:candidate-vibid:282200067173": 3,
+      "gas:candidate-vibid:1001000121953": 14,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=822000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=282200068144&region=0&sub_region=0&type=429",

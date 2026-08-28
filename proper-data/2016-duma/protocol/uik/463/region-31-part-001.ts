@@ -43,14 +43,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 442,
-      "Порхун Вера Семёновна": 24,
-      "Свищёв Андрей Викторович": 25,
-      "Селиванов Юрий Алексеевич": 169,
-      "Старовойтов Александр Сергеевич": 115,
-      "Хорошилов Руслан Николаевич": 51,
-      "Чернышова Наталия Александровна": 43,
-      "Шевляков Валерий Алексеевич": 102
+      "gas:candidate-vibid:2312000566472": 442,
+      "gas:candidate-vibid:2312000565986": 24,
+      "gas:candidate-vibid:2312000566138": 25,
+      "gas:candidate-vibid:2312000564809": 169,
+      "gas:candidate-vibid:2312000538570": 115,
+      "gas:candidate-vibid:2312000566273": 51,
+      "gas:candidate-vibid:2312000565731": 43,
+      "gas:candidate-vibid:2312000564503": 102
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533594&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533594&type=464",
@@ -101,14 +101,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 246,
-      "Порхун Вера Семёновна": 9,
-      "Свищёв Андрей Викторович": 19,
-      "Селиванов Юрий Алексеевич": 108,
-      "Старовойтов Александр Сергеевич": 61,
-      "Хорошилов Руслан Николаевич": 25,
-      "Чернышова Наталия Александровна": 15,
-      "Шевляков Валерий Алексеевич": 51
+      "gas:candidate-vibid:2312000566472": 246,
+      "gas:candidate-vibid:2312000565986": 9,
+      "gas:candidate-vibid:2312000566138": 19,
+      "gas:candidate-vibid:2312000564809": 108,
+      "gas:candidate-vibid:2312000538570": 61,
+      "gas:candidate-vibid:2312000566273": 25,
+      "gas:candidate-vibid:2312000565731": 15,
+      "gas:candidate-vibid:2312000564503": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533594&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533594&type=464",
@@ -159,14 +159,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 50,
-      "Порхун Вера Семёновна": 3,
-      "Свищёв Андрей Викторович": 3,
-      "Селиванов Юрий Алексеевич": 34,
-      "Старовойтов Александр Сергеевич": 13,
-      "Хорошилов Руслан Николаевич": 3,
-      "Чернышова Наталия Александровна": 4,
-      "Шевляков Валерий Алексеевич": 1
+      "gas:candidate-vibid:2312000566472": 50,
+      "gas:candidate-vibid:2312000565986": 3,
+      "gas:candidate-vibid:2312000566138": 3,
+      "gas:candidate-vibid:2312000564809": 34,
+      "gas:candidate-vibid:2312000538570": 13,
+      "gas:candidate-vibid:2312000566273": 3,
+      "gas:candidate-vibid:2312000565731": 4,
+      "gas:candidate-vibid:2312000564503": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533594&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533594&type=464",
@@ -217,14 +217,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 339,
-      "Порхун Вера Семёновна": 15,
-      "Свищёв Андрей Викторович": 19,
-      "Селиванов Юрий Алексеевич": 82,
-      "Старовойтов Александр Сергеевич": 72,
-      "Хорошилов Руслан Николаевич": 37,
-      "Чернышова Наталия Александровна": 30,
-      "Шевляков Валерий Алексеевич": 71
+      "gas:candidate-vibid:2312000566472": 339,
+      "gas:candidate-vibid:2312000565986": 15,
+      "gas:candidate-vibid:2312000566138": 19,
+      "gas:candidate-vibid:2312000564809": 82,
+      "gas:candidate-vibid:2312000538570": 72,
+      "gas:candidate-vibid:2312000566273": 37,
+      "gas:candidate-vibid:2312000565731": 30,
+      "gas:candidate-vibid:2312000564503": 71
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533594&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533594&type=464",
@@ -275,14 +275,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 332,
-      "Порхун Вера Семёновна": 41,
-      "Свищёв Андрей Викторович": 25,
-      "Селиванов Юрий Алексеевич": 82,
-      "Старовойтов Александр Сергеевич": 79,
-      "Хорошилов Руслан Николаевич": 67,
-      "Чернышова Наталия Александровна": 30,
-      "Шевляков Валерий Алексеевич": 77
+      "gas:candidate-vibid:2312000566472": 332,
+      "gas:candidate-vibid:2312000565986": 41,
+      "gas:candidate-vibid:2312000566138": 25,
+      "gas:candidate-vibid:2312000564809": 82,
+      "gas:candidate-vibid:2312000538570": 79,
+      "gas:candidate-vibid:2312000566273": 67,
+      "gas:candidate-vibid:2312000565731": 30,
+      "gas:candidate-vibid:2312000564503": 77
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533594&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533594&type=464",
@@ -333,14 +333,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 198,
-      "Порхун Вера Семёновна": 11,
-      "Свищёв Андрей Викторович": 15,
-      "Селиванов Юрий Алексеевич": 20,
-      "Старовойтов Александр Сергеевич": 44,
-      "Хорошилов Руслан Николаевич": 11,
-      "Чернышова Наталия Александровна": 8,
-      "Шевляков Валерий Алексеевич": 16
+      "gas:candidate-vibid:2312000566472": 198,
+      "gas:candidate-vibid:2312000565986": 11,
+      "gas:candidate-vibid:2312000566138": 15,
+      "gas:candidate-vibid:2312000564809": 20,
+      "gas:candidate-vibid:2312000538570": 44,
+      "gas:candidate-vibid:2312000566273": 11,
+      "gas:candidate-vibid:2312000565731": 8,
+      "gas:candidate-vibid:2312000564503": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533594&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533594&type=464",
@@ -391,14 +391,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 116,
-      "Порхун Вера Семёновна": 4,
-      "Свищёв Андрей Викторович": 7,
-      "Селиванов Юрий Алексеевич": 18,
-      "Старовойтов Александр Сергеевич": 22,
-      "Хорошилов Руслан Николаевич": 12,
-      "Чернышова Наталия Александровна": 3,
-      "Шевляков Валерий Алексеевич": 17
+      "gas:candidate-vibid:2312000566472": 116,
+      "gas:candidate-vibid:2312000565986": 4,
+      "gas:candidate-vibid:2312000566138": 7,
+      "gas:candidate-vibid:2312000564809": 18,
+      "gas:candidate-vibid:2312000538570": 22,
+      "gas:candidate-vibid:2312000566273": 12,
+      "gas:candidate-vibid:2312000565731": 3,
+      "gas:candidate-vibid:2312000564503": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533594&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533594&type=464",
@@ -449,14 +449,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 395,
-      "Порхун Вера Семёновна": 20,
-      "Свищёв Андрей Викторович": 13,
-      "Селиванов Юрий Алексеевич": 96,
-      "Старовойтов Александр Сергеевич": 106,
-      "Хорошилов Руслан Николаевич": 31,
-      "Чернышова Наталия Александровна": 27,
-      "Шевляков Валерий Алексеевич": 52
+      "gas:candidate-vibid:2312000566472": 395,
+      "gas:candidate-vibid:2312000565986": 20,
+      "gas:candidate-vibid:2312000566138": 13,
+      "gas:candidate-vibid:2312000564809": 96,
+      "gas:candidate-vibid:2312000538570": 106,
+      "gas:candidate-vibid:2312000566273": 31,
+      "gas:candidate-vibid:2312000565731": 27,
+      "gas:candidate-vibid:2312000564503": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533594&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533594&type=464",
@@ -507,14 +507,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 396,
-      "Порхун Вера Семёновна": 22,
-      "Свищёв Андрей Викторович": 15,
-      "Селиванов Юрий Алексеевич": 82,
-      "Старовойтов Александр Сергеевич": 107,
-      "Хорошилов Руслан Николаевич": 52,
-      "Чернышова Наталия Александровна": 25,
-      "Шевляков Валерий Алексеевич": 58
+      "gas:candidate-vibid:2312000566472": 396,
+      "gas:candidate-vibid:2312000565986": 22,
+      "gas:candidate-vibid:2312000566138": 15,
+      "gas:candidate-vibid:2312000564809": 82,
+      "gas:candidate-vibid:2312000538570": 107,
+      "gas:candidate-vibid:2312000566273": 52,
+      "gas:candidate-vibid:2312000565731": 25,
+      "gas:candidate-vibid:2312000564503": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533594&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533594&type=464",
@@ -565,14 +565,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 165,
-      "Порхун Вера Семёновна": 1,
-      "Свищёв Андрей Викторович": 2,
-      "Селиванов Юрий Алексеевич": 9,
-      "Старовойтов Александр Сергеевич": 19,
-      "Хорошилов Руслан Николаевич": 7,
-      "Чернышова Наталия Александровна": 5,
-      "Шевляков Валерий Алексеевич": 12
+      "gas:candidate-vibid:2312000566472": 165,
+      "gas:candidate-vibid:2312000565986": 1,
+      "gas:candidate-vibid:2312000566138": 2,
+      "gas:candidate-vibid:2312000564809": 9,
+      "gas:candidate-vibid:2312000538570": 19,
+      "gas:candidate-vibid:2312000566273": 7,
+      "gas:candidate-vibid:2312000565731": 5,
+      "gas:candidate-vibid:2312000564503": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533594&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533594&type=464",
@@ -623,14 +623,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 131,
-      "Порхун Вера Семёновна": 2,
-      "Свищёв Андрей Викторович": 5,
-      "Селиванов Юрий Алексеевич": 86,
-      "Старовойтов Александр Сергеевич": 25,
-      "Хорошилов Руслан Николаевич": 11,
-      "Чернышова Наталия Александровна": 4,
-      "Шевляков Валерий Алексеевич": 18
+      "gas:candidate-vibid:2312000566472": 131,
+      "gas:candidate-vibid:2312000565986": 2,
+      "gas:candidate-vibid:2312000566138": 5,
+      "gas:candidate-vibid:2312000564809": 86,
+      "gas:candidate-vibid:2312000538570": 25,
+      "gas:candidate-vibid:2312000566273": 11,
+      "gas:candidate-vibid:2312000565731": 4,
+      "gas:candidate-vibid:2312000564503": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533594&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533594&type=464",
@@ -681,14 +681,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 125,
-      "Порхун Вера Семёновна": 6,
-      "Свищёв Андрей Викторович": 9,
-      "Селиванов Юрий Алексеевич": 15,
-      "Старовойтов Александр Сергеевич": 25,
-      "Хорошилов Руслан Николаевич": 15,
-      "Чернышова Наталия Александровна": 6,
-      "Шевляков Валерий Алексеевич": 14
+      "gas:candidate-vibid:2312000566472": 125,
+      "gas:candidate-vibid:2312000565986": 6,
+      "gas:candidate-vibid:2312000566138": 9,
+      "gas:candidate-vibid:2312000564809": 15,
+      "gas:candidate-vibid:2312000538570": 25,
+      "gas:candidate-vibid:2312000566273": 15,
+      "gas:candidate-vibid:2312000565731": 6,
+      "gas:candidate-vibid:2312000564503": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533594&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533594&type=464",
@@ -739,14 +739,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 197,
-      "Порхун Вера Семёновна": 12,
-      "Свищёв Андрей Викторович": 11,
-      "Селиванов Юрий Алексеевич": 57,
-      "Старовойтов Александр Сергеевич": 51,
-      "Хорошилов Руслан Николаевич": 16,
-      "Чернышова Наталия Александровна": 13,
-      "Шевляков Валерий Алексеевич": 23
+      "gas:candidate-vibid:2312000566472": 197,
+      "gas:candidate-vibid:2312000565986": 12,
+      "gas:candidate-vibid:2312000566138": 11,
+      "gas:candidate-vibid:2312000564809": 57,
+      "gas:candidate-vibid:2312000538570": 51,
+      "gas:candidate-vibid:2312000566273": 16,
+      "gas:candidate-vibid:2312000565731": 13,
+      "gas:candidate-vibid:2312000564503": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533594&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533594&type=464",
@@ -797,14 +797,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 298,
-      "Порхун Вера Семёновна": 20,
-      "Свищёв Андрей Викторович": 20,
-      "Селиванов Юрий Алексеевич": 129,
-      "Старовойтов Александр Сергеевич": 97,
-      "Хорошилов Руслан Николаевич": 63,
-      "Чернышова Наталия Александровна": 31,
-      "Шевляков Валерий Алексеевич": 64
+      "gas:candidate-vibid:2312000566472": 298,
+      "gas:candidate-vibid:2312000565986": 20,
+      "gas:candidate-vibid:2312000566138": 20,
+      "gas:candidate-vibid:2312000564809": 129,
+      "gas:candidate-vibid:2312000538570": 97,
+      "gas:candidate-vibid:2312000566273": 63,
+      "gas:candidate-vibid:2312000565731": 31,
+      "gas:candidate-vibid:2312000564503": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533594&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533594&type=464",
@@ -855,14 +855,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 326,
-      "Порхун Вера Семёновна": 14,
-      "Свищёв Андрей Викторович": 24,
-      "Селиванов Юрий Алексеевич": 110,
-      "Старовойтов Александр Сергеевич": 85,
-      "Хорошилов Руслан Николаевич": 45,
-      "Чернышова Наталия Александровна": 23,
-      "Шевляков Валерий Алексеевич": 62
+      "gas:candidate-vibid:2312000566472": 326,
+      "gas:candidate-vibid:2312000565986": 14,
+      "gas:candidate-vibid:2312000566138": 24,
+      "gas:candidate-vibid:2312000564809": 110,
+      "gas:candidate-vibid:2312000538570": 85,
+      "gas:candidate-vibid:2312000566273": 45,
+      "gas:candidate-vibid:2312000565731": 23,
+      "gas:candidate-vibid:2312000564503": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533594&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533594&type=464",
@@ -913,14 +913,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 178,
-      "Порхун Вера Семёновна": 12,
-      "Свищёв Андрей Викторович": 11,
-      "Селиванов Юрий Алексеевич": 31,
-      "Старовойтов Александр Сергеевич": 58,
-      "Хорошилов Руслан Николаевич": 31,
-      "Чернышова Наталия Александровна": 4,
-      "Шевляков Валерий Алексеевич": 51
+      "gas:candidate-vibid:2312000566472": 178,
+      "gas:candidate-vibid:2312000565986": 12,
+      "gas:candidate-vibid:2312000566138": 11,
+      "gas:candidate-vibid:2312000564809": 31,
+      "gas:candidate-vibid:2312000538570": 58,
+      "gas:candidate-vibid:2312000566273": 31,
+      "gas:candidate-vibid:2312000565731": 4,
+      "gas:candidate-vibid:2312000564503": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533594&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533594&type=464",
@@ -971,14 +971,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 255,
-      "Порхун Вера Семёновна": 20,
-      "Свищёв Андрей Викторович": 11,
-      "Селиванов Юрий Алексеевич": 77,
-      "Старовойтов Александр Сергеевич": 58,
-      "Хорошилов Руслан Николаевич": 37,
-      "Чернышова Наталия Александровна": 20,
-      "Шевляков Валерий Алексеевич": 47
+      "gas:candidate-vibid:2312000566472": 255,
+      "gas:candidate-vibid:2312000565986": 20,
+      "gas:candidate-vibid:2312000566138": 11,
+      "gas:candidate-vibid:2312000564809": 77,
+      "gas:candidate-vibid:2312000538570": 58,
+      "gas:candidate-vibid:2312000566273": 37,
+      "gas:candidate-vibid:2312000565731": 20,
+      "gas:candidate-vibid:2312000564503": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533594&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533594&type=464",
@@ -1029,14 +1029,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 116,
-      "Порхун Вера Семёновна": 8,
-      "Свищёв Андрей Викторович": 4,
-      "Селиванов Юрий Алексеевич": 16,
-      "Старовойтов Александр Сергеевич": 32,
-      "Хорошилов Руслан Николаевич": 12,
-      "Чернышова Наталия Александровна": 11,
-      "Шевляков Валерий Алексеевич": 26
+      "gas:candidate-vibid:2312000566472": 116,
+      "gas:candidate-vibid:2312000565986": 8,
+      "gas:candidate-vibid:2312000566138": 4,
+      "gas:candidate-vibid:2312000564809": 16,
+      "gas:candidate-vibid:2312000538570": 32,
+      "gas:candidate-vibid:2312000566273": 12,
+      "gas:candidate-vibid:2312000565731": 11,
+      "gas:candidate-vibid:2312000564503": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533594&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533594&type=464",
@@ -1087,14 +1087,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 91,
-      "Порхун Вера Семёновна": 4,
-      "Свищёв Андрей Викторович": 4,
-      "Селиванов Юрий Алексеевич": 27,
-      "Старовойтов Александр Сергеевич": 21,
-      "Хорошилов Руслан Николаевич": 15,
-      "Чернышова Наталия Александровна": 7,
-      "Шевляков Валерий Алексеевич": 12
+      "gas:candidate-vibid:2312000566472": 91,
+      "gas:candidate-vibid:2312000565986": 4,
+      "gas:candidate-vibid:2312000566138": 4,
+      "gas:candidate-vibid:2312000564809": 27,
+      "gas:candidate-vibid:2312000538570": 21,
+      "gas:candidate-vibid:2312000566273": 15,
+      "gas:candidate-vibid:2312000565731": 7,
+      "gas:candidate-vibid:2312000564503": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533594&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533594&type=464",
@@ -1145,14 +1145,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 855,
-      "Порхун Вера Семёновна": 31,
-      "Свищёв Андрей Викторович": 39,
-      "Селиванов Юрий Алексеевич": 199,
-      "Старовойтов Александр Сергеевич": 117,
-      "Хорошилов Руслан Николаевич": 55,
-      "Чернышова Наталия Александровна": 36,
-      "Шевляков Валерий Алексеевич": 104
+      "gas:candidate-vibid:2312000566472": 855,
+      "gas:candidate-vibid:2312000565986": 31,
+      "gas:candidate-vibid:2312000566138": 39,
+      "gas:candidate-vibid:2312000564809": 199,
+      "gas:candidate-vibid:2312000538570": 117,
+      "gas:candidate-vibid:2312000566273": 55,
+      "gas:candidate-vibid:2312000565731": 36,
+      "gas:candidate-vibid:2312000564503": 104
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533594&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533594&type=464",
@@ -1203,14 +1203,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 709,
-      "Порхун Вера Семёновна": 50,
-      "Свищёв Андрей Викторович": 44,
-      "Селиванов Юрий Алексеевич": 146,
-      "Старовойтов Александр Сергеевич": 131,
-      "Хорошилов Руслан Николаевич": 65,
-      "Чернышова Наталия Александровна": 34,
-      "Шевляков Валерий Алексеевич": 149
+      "gas:candidate-vibid:2312000566472": 709,
+      "gas:candidate-vibid:2312000565986": 50,
+      "gas:candidate-vibid:2312000566138": 44,
+      "gas:candidate-vibid:2312000564809": 146,
+      "gas:candidate-vibid:2312000538570": 131,
+      "gas:candidate-vibid:2312000566273": 65,
+      "gas:candidate-vibid:2312000565731": 34,
+      "gas:candidate-vibid:2312000564503": 149
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533594&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533594&type=464",
@@ -1261,14 +1261,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 505,
-      "Порхун Вера Семёновна": 34,
-      "Свищёв Андрей Викторович": 36,
-      "Селиванов Юрий Алексеевич": 237,
-      "Старовойтов Александр Сергеевич": 193,
-      "Хорошилов Руслан Николаевич": 52,
-      "Чернышова Наталия Александровна": 36,
-      "Шевляков Валерий Алексеевич": 126
+      "gas:candidate-vibid:2312000566472": 505,
+      "gas:candidate-vibid:2312000565986": 34,
+      "gas:candidate-vibid:2312000566138": 36,
+      "gas:candidate-vibid:2312000564809": 237,
+      "gas:candidate-vibid:2312000538570": 193,
+      "gas:candidate-vibid:2312000566273": 52,
+      "gas:candidate-vibid:2312000565731": 36,
+      "gas:candidate-vibid:2312000564503": 126
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533594&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533594&type=464",
@@ -1319,14 +1319,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 901,
-      "Порхун Вера Семёновна": 58,
-      "Свищёв Андрей Викторович": 48,
-      "Селиванов Юрий Алексеевич": 176,
-      "Старовойтов Александр Сергеевич": 170,
-      "Хорошилов Руслан Николаевич": 59,
-      "Чернышова Наталия Александровна": 50,
-      "Шевляков Валерий Алексеевич": 135
+      "gas:candidate-vibid:2312000566472": 901,
+      "gas:candidate-vibid:2312000565986": 58,
+      "gas:candidate-vibid:2312000566138": 48,
+      "gas:candidate-vibid:2312000564809": 176,
+      "gas:candidate-vibid:2312000538570": 170,
+      "gas:candidate-vibid:2312000566273": 59,
+      "gas:candidate-vibid:2312000565731": 50,
+      "gas:candidate-vibid:2312000564503": 135
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533594&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533594&type=464",
@@ -1377,14 +1377,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 210,
-      "Порхун Вера Семёновна": 9,
-      "Свищёв Андрей Викторович": 11,
-      "Селиванов Юрий Алексеевич": 59,
-      "Старовойтов Александр Сергеевич": 62,
-      "Хорошилов Руслан Николаевич": 27,
-      "Чернышова Наталия Александровна": 11,
-      "Шевляков Валерий Алексеевич": 52
+      "gas:candidate-vibid:2312000566472": 210,
+      "gas:candidate-vibid:2312000565986": 9,
+      "gas:candidate-vibid:2312000566138": 11,
+      "gas:candidate-vibid:2312000564809": 59,
+      "gas:candidate-vibid:2312000538570": 62,
+      "gas:candidate-vibid:2312000566273": 27,
+      "gas:candidate-vibid:2312000565731": 11,
+      "gas:candidate-vibid:2312000564503": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533594&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533594&type=464",
@@ -1435,14 +1435,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 420,
-      "Порхун Вера Семёновна": 6,
-      "Свищёв Андрей Викторович": 14,
-      "Селиванов Юрий Алексеевич": 50,
-      "Старовойтов Александр Сергеевич": 62,
-      "Хорошилов Руслан Николаевич": 15,
-      "Чернышова Наталия Александровна": 9,
-      "Шевляков Валерий Алексеевич": 29
+      "gas:candidate-vibid:2312000566472": 420,
+      "gas:candidate-vibid:2312000565986": 6,
+      "gas:candidate-vibid:2312000566138": 14,
+      "gas:candidate-vibid:2312000564809": 50,
+      "gas:candidate-vibid:2312000538570": 62,
+      "gas:candidate-vibid:2312000566273": 15,
+      "gas:candidate-vibid:2312000565731": 9,
+      "gas:candidate-vibid:2312000564503": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533594&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533594&type=464",
@@ -1493,14 +1493,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 515,
-      "Порхун Вера Семёновна": 15,
-      "Свищёв Андрей Викторович": 17,
-      "Селиванов Юрий Алексеевич": 38,
-      "Старовойтов Александр Сергеевич": 56,
-      "Хорошилов Руслан Николаевич": 33,
-      "Чернышова Наталия Александровна": 20,
-      "Шевляков Валерий Алексеевич": 37
+      "gas:candidate-vibid:2312000566472": 515,
+      "gas:candidate-vibid:2312000565986": 15,
+      "gas:candidate-vibid:2312000566138": 17,
+      "gas:candidate-vibid:2312000564809": 38,
+      "gas:candidate-vibid:2312000538570": 56,
+      "gas:candidate-vibid:2312000566273": 33,
+      "gas:candidate-vibid:2312000565731": 20,
+      "gas:candidate-vibid:2312000564503": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533594&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533594&type=464",
@@ -1551,14 +1551,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 38,
-      "Порхун Вера Семёновна": 7,
-      "Свищёв Андрей Викторович": 1,
-      "Селиванов Юрий Алексеевич": 13,
-      "Старовойтов Александр Сергеевич": 9,
-      "Хорошилов Руслан Николаевич": 5,
-      "Чернышова Наталия Александровна": 4,
-      "Шевляков Валерий Алексеевич": 8
+      "gas:candidate-vibid:2312000566472": 38,
+      "gas:candidate-vibid:2312000565986": 7,
+      "gas:candidate-vibid:2312000566138": 1,
+      "gas:candidate-vibid:2312000564809": 13,
+      "gas:candidate-vibid:2312000538570": 9,
+      "gas:candidate-vibid:2312000566273": 5,
+      "gas:candidate-vibid:2312000565731": 4,
+      "gas:candidate-vibid:2312000564503": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533594&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533594&type=464",
@@ -1609,14 +1609,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 372,
-      "Порхун Вера Семёновна": 16,
-      "Свищёв Андрей Викторович": 20,
-      "Селиванов Юрий Алексеевич": 51,
-      "Старовойтов Александр Сергеевич": 64,
-      "Хорошилов Руслан Николаевич": 29,
-      "Чернышова Наталия Александровна": 20,
-      "Шевляков Валерий Алексеевич": 37
+      "gas:candidate-vibid:2312000566472": 372,
+      "gas:candidate-vibid:2312000565986": 16,
+      "gas:candidate-vibid:2312000566138": 20,
+      "gas:candidate-vibid:2312000564809": 51,
+      "gas:candidate-vibid:2312000538570": 64,
+      "gas:candidate-vibid:2312000566273": 29,
+      "gas:candidate-vibid:2312000565731": 20,
+      "gas:candidate-vibid:2312000564503": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533594&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533594&type=464",
@@ -1667,14 +1667,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 423,
-      "Порхун Вера Семёновна": 18,
-      "Свищёв Андрей Викторович": 19,
-      "Селиванов Юрий Алексеевич": 108,
-      "Старовойтов Александр Сергеевич": 84,
-      "Хорошилов Руслан Николаевич": 51,
-      "Чернышова Наталия Александровна": 28,
-      "Шевляков Валерий Алексеевич": 70
+      "gas:candidate-vibid:2312000566472": 423,
+      "gas:candidate-vibid:2312000565986": 18,
+      "gas:candidate-vibid:2312000566138": 19,
+      "gas:candidate-vibid:2312000564809": 108,
+      "gas:candidate-vibid:2312000538570": 84,
+      "gas:candidate-vibid:2312000566273": 51,
+      "gas:candidate-vibid:2312000565731": 28,
+      "gas:candidate-vibid:2312000564503": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533594&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533594&type=464",
@@ -1725,14 +1725,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 274,
-      "Порхун Вера Семёновна": 12,
-      "Свищёв Андрей Викторович": 7,
-      "Селиванов Юрий Алексеевич": 59,
-      "Старовойтов Александр Сергеевич": 44,
-      "Хорошилов Руслан Николаевич": 16,
-      "Чернышова Наталия Александровна": 18,
-      "Шевляков Валерий Алексеевич": 77
+      "gas:candidate-vibid:2312000566472": 274,
+      "gas:candidate-vibid:2312000565986": 12,
+      "gas:candidate-vibid:2312000566138": 7,
+      "gas:candidate-vibid:2312000564809": 59,
+      "gas:candidate-vibid:2312000538570": 44,
+      "gas:candidate-vibid:2312000566273": 16,
+      "gas:candidate-vibid:2312000565731": 18,
+      "gas:candidate-vibid:2312000564503": 77
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533594&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533594&type=464",
@@ -1783,14 +1783,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 799,
-      "Порхун Вера Семёновна": 18,
-      "Свищёв Андрей Викторович": 23,
-      "Селиванов Юрий Алексеевич": 82,
-      "Старовойтов Александр Сергеевич": 83,
-      "Хорошилов Руслан Николаевич": 66,
-      "Чернышова Наталия Александровна": 34,
-      "Шевляков Валерий Алексеевич": 71
+      "gas:candidate-vibid:2312000566472": 799,
+      "gas:candidate-vibid:2312000565986": 18,
+      "gas:candidate-vibid:2312000566138": 23,
+      "gas:candidate-vibid:2312000564809": 82,
+      "gas:candidate-vibid:2312000538570": 83,
+      "gas:candidate-vibid:2312000566273": 66,
+      "gas:candidate-vibid:2312000565731": 34,
+      "gas:candidate-vibid:2312000564503": 71
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533594&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533594&type=464",
@@ -1841,14 +1841,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 412,
-      "Порхун Вера Семёновна": 6,
-      "Свищёв Андрей Викторович": 3,
-      "Селиванов Юрий Алексеевич": 17,
-      "Старовойтов Александр Сергеевич": 21,
-      "Хорошилов Руслан Николаевич": 12,
-      "Чернышова Наталия Александровна": 5,
-      "Шевляков Валерий Алексеевич": 32
+      "gas:candidate-vibid:2312000566472": 412,
+      "gas:candidate-vibid:2312000565986": 6,
+      "gas:candidate-vibid:2312000566138": 3,
+      "gas:candidate-vibid:2312000564809": 17,
+      "gas:candidate-vibid:2312000538570": 21,
+      "gas:candidate-vibid:2312000566273": 12,
+      "gas:candidate-vibid:2312000565731": 5,
+      "gas:candidate-vibid:2312000564503": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533594&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533594&type=464",
@@ -1899,14 +1899,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 300,
-      "Порхун Вера Семёновна": 14,
-      "Свищёв Андрей Викторович": 24,
-      "Селиванов Юрий Алексеевич": 86,
-      "Старовойтов Александр Сергеевич": 103,
-      "Хорошилов Руслан Николаевич": 34,
-      "Чернышова Наталия Александровна": 16,
-      "Шевляков Валерий Алексеевич": 74
+      "gas:candidate-vibid:2312000566472": 300,
+      "gas:candidate-vibid:2312000565986": 14,
+      "gas:candidate-vibid:2312000566138": 24,
+      "gas:candidate-vibid:2312000564809": 86,
+      "gas:candidate-vibid:2312000538570": 103,
+      "gas:candidate-vibid:2312000566273": 34,
+      "gas:candidate-vibid:2312000565731": 16,
+      "gas:candidate-vibid:2312000564503": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533594&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533594&type=464",
@@ -1957,14 +1957,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 105,
-      "Порхун Вера Семёновна": 7,
-      "Свищёв Андрей Викторович": 9,
-      "Селиванов Юрий Алексеевич": 47,
-      "Старовойтов Александр Сергеевич": 33,
-      "Хорошилов Руслан Николаевич": 11,
-      "Чернышова Наталия Александровна": 16,
-      "Шевляков Валерий Алексеевич": 35
+      "gas:candidate-vibid:2312000566472": 105,
+      "gas:candidate-vibid:2312000565986": 7,
+      "gas:candidate-vibid:2312000566138": 9,
+      "gas:candidate-vibid:2312000564809": 47,
+      "gas:candidate-vibid:2312000538570": 33,
+      "gas:candidate-vibid:2312000566273": 11,
+      "gas:candidate-vibid:2312000565731": 16,
+      "gas:candidate-vibid:2312000564503": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533594&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533594&type=464",
@@ -2015,14 +2015,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 365,
-      "Порхун Вера Семёновна": 33,
-      "Свищёв Андрей Викторович": 32,
-      "Селиванов Юрий Алексеевич": 161,
-      "Старовойтов Александр Сергеевич": 132,
-      "Хорошилов Руслан Николаевич": 71,
-      "Чернышова Наталия Александровна": 36,
-      "Шевляков Валерий Алексеевич": 125
+      "gas:candidate-vibid:2312000566472": 365,
+      "gas:candidate-vibid:2312000565986": 33,
+      "gas:candidate-vibid:2312000566138": 32,
+      "gas:candidate-vibid:2312000564809": 161,
+      "gas:candidate-vibid:2312000538570": 132,
+      "gas:candidate-vibid:2312000566273": 71,
+      "gas:candidate-vibid:2312000565731": 36,
+      "gas:candidate-vibid:2312000564503": 125
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533594&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533594&type=464",
@@ -2073,14 +2073,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 259,
-      "Порхун Вера Семёновна": 21,
-      "Свищёв Андрей Викторович": 14,
-      "Селиванов Юрий Алексеевич": 125,
-      "Старовойтов Александр Сергеевич": 71,
-      "Хорошилов Руслан Николаевич": 60,
-      "Чернышова Наталия Александровна": 18,
-      "Шевляков Валерий Алексеевич": 67
+      "gas:candidate-vibid:2312000566472": 259,
+      "gas:candidate-vibid:2312000565986": 21,
+      "gas:candidate-vibid:2312000566138": 14,
+      "gas:candidate-vibid:2312000564809": 125,
+      "gas:candidate-vibid:2312000538570": 71,
+      "gas:candidate-vibid:2312000566273": 60,
+      "gas:candidate-vibid:2312000565731": 18,
+      "gas:candidate-vibid:2312000564503": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533594&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533594&type=464",
@@ -2131,14 +2131,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 254,
-      "Порхун Вера Семёновна": 35,
-      "Свищёв Андрей Викторович": 19,
-      "Селиванов Юрий Алексеевич": 137,
-      "Старовойтов Александр Сергеевич": 95,
-      "Хорошилов Руслан Николаевич": 52,
-      "Чернышова Наталия Александровна": 29,
-      "Шевляков Валерий Алексеевич": 88
+      "gas:candidate-vibid:2312000566472": 254,
+      "gas:candidate-vibid:2312000565986": 35,
+      "gas:candidate-vibid:2312000566138": 19,
+      "gas:candidate-vibid:2312000564809": 137,
+      "gas:candidate-vibid:2312000538570": 95,
+      "gas:candidate-vibid:2312000566273": 52,
+      "gas:candidate-vibid:2312000565731": 29,
+      "gas:candidate-vibid:2312000564503": 88
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533594&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533594&type=464",
@@ -2189,14 +2189,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 171,
-      "Порхун Вера Семёновна": 8,
-      "Свищёв Андрей Викторович": 9,
-      "Селиванов Юрий Алексеевич": 28,
-      "Старовойтов Александр Сергеевич": 43,
-      "Хорошилов Руслан Николаевич": 38,
-      "Чернышова Наталия Александровна": 17,
-      "Шевляков Валерий Алексеевич": 32
+      "gas:candidate-vibid:2312000566472": 171,
+      "gas:candidate-vibid:2312000565986": 8,
+      "gas:candidate-vibid:2312000566138": 9,
+      "gas:candidate-vibid:2312000564809": 28,
+      "gas:candidate-vibid:2312000538570": 43,
+      "gas:candidate-vibid:2312000566273": 38,
+      "gas:candidate-vibid:2312000565731": 17,
+      "gas:candidate-vibid:2312000564503": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533594&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533594&type=464",
@@ -2247,14 +2247,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 245,
-      "Порхун Вера Семёновна": 28,
-      "Свищёв Андрей Викторович": 15,
-      "Селиванов Юрий Алексеевич": 120,
-      "Старовойтов Александр Сергеевич": 60,
-      "Хорошилов Руслан Николаевич": 42,
-      "Чернышова Наталия Александровна": 15,
-      "Шевляков Валерий Алексеевич": 76
+      "gas:candidate-vibid:2312000566472": 245,
+      "gas:candidate-vibid:2312000565986": 28,
+      "gas:candidate-vibid:2312000566138": 15,
+      "gas:candidate-vibid:2312000564809": 120,
+      "gas:candidate-vibid:2312000538570": 60,
+      "gas:candidate-vibid:2312000566273": 42,
+      "gas:candidate-vibid:2312000565731": 15,
+      "gas:candidate-vibid:2312000564503": 76
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533594&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533594&type=464",
@@ -2305,14 +2305,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 255,
-      "Порхун Вера Семёновна": 16,
-      "Свищёв Андрей Викторович": 11,
-      "Селиванов Юрий Алексеевич": 39,
-      "Старовойтов Александр Сергеевич": 55,
-      "Хорошилов Руслан Николаевич": 19,
-      "Чернышова Наталия Александровна": 20,
-      "Шевляков Валерий Алексеевич": 34
+      "gas:candidate-vibid:2312000566472": 255,
+      "gas:candidate-vibid:2312000565986": 16,
+      "gas:candidate-vibid:2312000566138": 11,
+      "gas:candidate-vibid:2312000564809": 39,
+      "gas:candidate-vibid:2312000538570": 55,
+      "gas:candidate-vibid:2312000566273": 19,
+      "gas:candidate-vibid:2312000565731": 20,
+      "gas:candidate-vibid:2312000564503": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533594&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533594&type=464",
@@ -2363,14 +2363,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 325,
-      "Порхун Вера Семёновна": 27,
-      "Свищёв Андрей Викторович": 33,
-      "Селиванов Юрий Алексеевич": 117,
-      "Старовойтов Александр Сергеевич": 105,
-      "Хорошилов Руслан Николаевич": 50,
-      "Чернышова Наталия Александровна": 39,
-      "Шевляков Валерий Алексеевич": 74
+      "gas:candidate-vibid:2312000566472": 325,
+      "gas:candidate-vibid:2312000565986": 27,
+      "gas:candidate-vibid:2312000566138": 33,
+      "gas:candidate-vibid:2312000564809": 117,
+      "gas:candidate-vibid:2312000538570": 105,
+      "gas:candidate-vibid:2312000566273": 50,
+      "gas:candidate-vibid:2312000565731": 39,
+      "gas:candidate-vibid:2312000564503": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533594&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533594&type=464",
@@ -2421,14 +2421,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 328,
-      "Порхун Вера Семёновна": 16,
-      "Свищёв Андрей Викторович": 14,
-      "Селиванов Юрий Алексеевич": 45,
-      "Старовойтов Александр Сергеевич": 91,
-      "Хорошилов Руслан Николаевич": 53,
-      "Чернышова Наталия Александровна": 22,
-      "Шевляков Валерий Алексеевич": 74
+      "gas:candidate-vibid:2312000566472": 328,
+      "gas:candidate-vibid:2312000565986": 16,
+      "gas:candidate-vibid:2312000566138": 14,
+      "gas:candidate-vibid:2312000564809": 45,
+      "gas:candidate-vibid:2312000538570": 91,
+      "gas:candidate-vibid:2312000566273": 53,
+      "gas:candidate-vibid:2312000565731": 22,
+      "gas:candidate-vibid:2312000564503": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533594&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533594&type=464",
@@ -2479,14 +2479,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 166,
-      "Порхун Вера Семёновна": 2,
-      "Свищёв Андрей Викторович": 2,
-      "Селиванов Юрий Алексеевич": 21,
-      "Старовойтов Александр Сергеевич": 22,
-      "Хорошилов Руслан Николаевич": 12,
-      "Чернышова Наталия Александровна": 4,
-      "Шевляков Валерий Алексеевич": 15
+      "gas:candidate-vibid:2312000566472": 166,
+      "gas:candidate-vibid:2312000565986": 2,
+      "gas:candidate-vibid:2312000566138": 2,
+      "gas:candidate-vibid:2312000564809": 21,
+      "gas:candidate-vibid:2312000538570": 22,
+      "gas:candidate-vibid:2312000566273": 12,
+      "gas:candidate-vibid:2312000565731": 4,
+      "gas:candidate-vibid:2312000564503": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533594&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533594&type=464",
@@ -2537,14 +2537,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 413,
-      "Порхун Вера Семёновна": 18,
-      "Свищёв Андрей Викторович": 26,
-      "Селиванов Юрий Алексеевич": 83,
-      "Старовойтов Александр Сергеевич": 89,
-      "Хорошилов Руслан Николаевич": 46,
-      "Чернышова Наталия Александровна": 35,
-      "Шевляков Валерий Алексеевич": 128
+      "gas:candidate-vibid:2312000566472": 413,
+      "gas:candidate-vibid:2312000565986": 18,
+      "gas:candidate-vibid:2312000566138": 26,
+      "gas:candidate-vibid:2312000564809": 83,
+      "gas:candidate-vibid:2312000538570": 89,
+      "gas:candidate-vibid:2312000566273": 46,
+      "gas:candidate-vibid:2312000565731": 35,
+      "gas:candidate-vibid:2312000564503": 128
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533594&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533594&type=464",
@@ -2595,14 +2595,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 617,
-      "Порхун Вера Семёновна": 29,
-      "Свищёв Андрей Викторович": 25,
-      "Селиванов Юрий Алексеевич": 121,
-      "Старовойтов Александр Сергеевич": 115,
-      "Хорошилов Руслан Николаевич": 58,
-      "Чернышова Наталия Александровна": 33,
-      "Шевляков Валерий Алексеевич": 111
+      "gas:candidate-vibid:2312000566472": 617,
+      "gas:candidate-vibid:2312000565986": 29,
+      "gas:candidate-vibid:2312000566138": 25,
+      "gas:candidate-vibid:2312000564809": 121,
+      "gas:candidate-vibid:2312000538570": 115,
+      "gas:candidate-vibid:2312000566273": 58,
+      "gas:candidate-vibid:2312000565731": 33,
+      "gas:candidate-vibid:2312000564503": 111
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533594&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533594&type=464",
@@ -2653,14 +2653,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 505,
-      "Порхун Вера Семёновна": 29,
-      "Свищёв Андрей Викторович": 31,
-      "Селиванов Юрий Алексеевич": 120,
-      "Старовойтов Александр Сергеевич": 107,
-      "Хорошилов Руслан Николаевич": 59,
-      "Чернышова Наталия Александровна": 41,
-      "Шевляков Валерий Алексеевич": 103
+      "gas:candidate-vibid:2312000566472": 505,
+      "gas:candidate-vibid:2312000565986": 29,
+      "gas:candidate-vibid:2312000566138": 31,
+      "gas:candidate-vibid:2312000564809": 120,
+      "gas:candidate-vibid:2312000538570": 107,
+      "gas:candidate-vibid:2312000566273": 59,
+      "gas:candidate-vibid:2312000565731": 41,
+      "gas:candidate-vibid:2312000564503": 103
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533594&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533594&type=464",
@@ -2711,14 +2711,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 417,
-      "Порхун Вера Семёновна": 25,
-      "Свищёв Андрей Викторович": 26,
-      "Селиванов Юрий Алексеевич": 102,
-      "Старовойтов Александр Сергеевич": 102,
-      "Хорошилов Руслан Николаевич": 53,
-      "Чернышова Наталия Александровна": 31,
-      "Шевляков Валерий Алексеевич": 103
+      "gas:candidate-vibid:2312000566472": 417,
+      "gas:candidate-vibid:2312000565986": 25,
+      "gas:candidate-vibid:2312000566138": 26,
+      "gas:candidate-vibid:2312000564809": 102,
+      "gas:candidate-vibid:2312000538570": 102,
+      "gas:candidate-vibid:2312000566273": 53,
+      "gas:candidate-vibid:2312000565731": 31,
+      "gas:candidate-vibid:2312000564503": 103
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533594&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533594&type=464",
@@ -2769,14 +2769,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 422,
-      "Порхун Вера Семёновна": 22,
-      "Свищёв Андрей Викторович": 24,
-      "Селиванов Юрий Алексеевич": 136,
-      "Старовойтов Александр Сергеевич": 107,
-      "Хорошилов Руслан Николаевич": 51,
-      "Чернышова Наталия Александровна": 30,
-      "Шевляков Валерий Алексеевич": 62
+      "gas:candidate-vibid:2312000566472": 422,
+      "gas:candidate-vibid:2312000565986": 22,
+      "gas:candidate-vibid:2312000566138": 24,
+      "gas:candidate-vibid:2312000564809": 136,
+      "gas:candidate-vibid:2312000538570": 107,
+      "gas:candidate-vibid:2312000566273": 51,
+      "gas:candidate-vibid:2312000565731": 30,
+      "gas:candidate-vibid:2312000564503": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533594&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533594&type=464",
@@ -2827,14 +2827,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 487,
-      "Порхун Вера Семёновна": 33,
-      "Свищёв Андрей Викторович": 39,
-      "Селиванов Юрий Алексеевич": 84,
-      "Старовойтов Александр Сергеевич": 130,
-      "Хорошилов Руслан Николаевич": 74,
-      "Чернышова Наталия Александровна": 30,
-      "Шевляков Валерий Алексеевич": 224
+      "gas:candidate-vibid:2312000566472": 487,
+      "gas:candidate-vibid:2312000565986": 33,
+      "gas:candidate-vibid:2312000566138": 39,
+      "gas:candidate-vibid:2312000564809": 84,
+      "gas:candidate-vibid:2312000538570": 130,
+      "gas:candidate-vibid:2312000566273": 74,
+      "gas:candidate-vibid:2312000565731": 30,
+      "gas:candidate-vibid:2312000564503": 224
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533594&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533594&type=464",
@@ -2885,14 +2885,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 304,
-      "Порхун Вера Семёновна": 8,
-      "Свищёв Андрей Викторович": 27,
-      "Селиванов Юрий Алексеевич": 84,
-      "Старовойтов Александр Сергеевич": 101,
-      "Хорошилов Руслан Николаевич": 62,
-      "Чернышова Наталия Александровна": 21,
-      "Шевляков Валерий Алексеевич": 93
+      "gas:candidate-vibid:2312000566472": 304,
+      "gas:candidate-vibid:2312000565986": 8,
+      "gas:candidate-vibid:2312000566138": 27,
+      "gas:candidate-vibid:2312000564809": 84,
+      "gas:candidate-vibid:2312000538570": 101,
+      "gas:candidate-vibid:2312000566273": 62,
+      "gas:candidate-vibid:2312000565731": 21,
+      "gas:candidate-vibid:2312000564503": 93
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533594&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533594&type=464",
@@ -2943,14 +2943,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 174,
-      "Порхун Вера Семёновна": 17,
-      "Свищёв Андрей Викторович": 9,
-      "Селиванов Юрий Алексеевич": 45,
-      "Старовойтов Александр Сергеевич": 91,
-      "Хорошилов Руслан Николаевич": 27,
-      "Чернышова Наталия Александровна": 15,
-      "Шевляков Валерий Алексеевич": 72
+      "gas:candidate-vibid:2312000566472": 174,
+      "gas:candidate-vibid:2312000565986": 17,
+      "gas:candidate-vibid:2312000566138": 9,
+      "gas:candidate-vibid:2312000564809": 45,
+      "gas:candidate-vibid:2312000538570": 91,
+      "gas:candidate-vibid:2312000566273": 27,
+      "gas:candidate-vibid:2312000565731": 15,
+      "gas:candidate-vibid:2312000564503": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533594&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533594&type=464",
@@ -3001,14 +3001,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 602,
-      "Порхун Вера Семёновна": 26,
-      "Свищёв Андрей Викторович": 36,
-      "Селиванов Юрий Алексеевич": 184,
-      "Старовойтов Александр Сергеевич": 124,
-      "Хорошилов Руслан Николаевич": 80,
-      "Чернышова Наталия Александровна": 51,
-      "Шевляков Валерий Алексеевич": 108
+      "gas:candidate-vibid:2312000566472": 602,
+      "gas:candidate-vibid:2312000565986": 26,
+      "gas:candidate-vibid:2312000566138": 36,
+      "gas:candidate-vibid:2312000564809": 184,
+      "gas:candidate-vibid:2312000538570": 124,
+      "gas:candidate-vibid:2312000566273": 80,
+      "gas:candidate-vibid:2312000565731": 51,
+      "gas:candidate-vibid:2312000564503": 108
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533594&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533594&type=464",
@@ -3059,14 +3059,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 536,
-      "Порхун Вера Семёновна": 24,
-      "Свищёв Андрей Викторович": 31,
-      "Селиванов Юрий Алексеевич": 75,
-      "Старовойтов Александр Сергеевич": 137,
-      "Хорошилов Руслан Николаевич": 65,
-      "Чернышова Наталия Александровна": 39,
-      "Шевляков Валерий Алексеевич": 101
+      "gas:candidate-vibid:2312000566472": 536,
+      "gas:candidate-vibid:2312000565986": 24,
+      "gas:candidate-vibid:2312000566138": 31,
+      "gas:candidate-vibid:2312000564809": 75,
+      "gas:candidate-vibid:2312000538570": 137,
+      "gas:candidate-vibid:2312000566273": 65,
+      "gas:candidate-vibid:2312000565731": 39,
+      "gas:candidate-vibid:2312000564503": 101
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533594&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533594&type=464",
@@ -3117,14 +3117,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 246,
-      "Порхун Вера Семёновна": 14,
-      "Свищёв Андрей Викторович": 15,
-      "Селиванов Юрий Алексеевич": 75,
-      "Старовойтов Александр Сергеевич": 88,
-      "Хорошилов Руслан Николаевич": 52,
-      "Чернышова Наталия Александровна": 23,
-      "Шевляков Валерий Алексеевич": 66
+      "gas:candidate-vibid:2312000566472": 246,
+      "gas:candidate-vibid:2312000565986": 14,
+      "gas:candidate-vibid:2312000566138": 15,
+      "gas:candidate-vibid:2312000564809": 75,
+      "gas:candidate-vibid:2312000538570": 88,
+      "gas:candidate-vibid:2312000566273": 52,
+      "gas:candidate-vibid:2312000565731": 23,
+      "gas:candidate-vibid:2312000564503": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533594&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533594&type=464",
@@ -3175,14 +3175,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 331,
-      "Порхун Вера Семёновна": 24,
-      "Свищёв Андрей Викторович": 15,
-      "Селиванов Юрий Алексеевич": 73,
-      "Старовойтов Александр Сергеевич": 127,
-      "Хорошилов Руслан Николаевич": 41,
-      "Чернышова Наталия Александровна": 42,
-      "Шевляков Валерий Алексеевич": 109
+      "gas:candidate-vibid:2312000566472": 331,
+      "gas:candidate-vibid:2312000565986": 24,
+      "gas:candidate-vibid:2312000566138": 15,
+      "gas:candidate-vibid:2312000564809": 73,
+      "gas:candidate-vibid:2312000538570": 127,
+      "gas:candidate-vibid:2312000566273": 41,
+      "gas:candidate-vibid:2312000565731": 42,
+      "gas:candidate-vibid:2312000564503": 109
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533594&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533594&type=464",
@@ -3233,14 +3233,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 537,
-      "Порхун Вера Семёновна": 33,
-      "Свищёв Андрей Викторович": 36,
-      "Селиванов Юрий Алексеевич": 181,
-      "Старовойтов Александр Сергеевич": 159,
-      "Хорошилов Руслан Николаевич": 72,
-      "Чернышова Наталия Александровна": 35,
-      "Шевляков Валерий Алексеевич": 132
+      "gas:candidate-vibid:2312000566472": 537,
+      "gas:candidate-vibid:2312000565986": 33,
+      "gas:candidate-vibid:2312000566138": 36,
+      "gas:candidate-vibid:2312000564809": 181,
+      "gas:candidate-vibid:2312000538570": 159,
+      "gas:candidate-vibid:2312000566273": 72,
+      "gas:candidate-vibid:2312000565731": 35,
+      "gas:candidate-vibid:2312000564503": 132
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533594&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533594&type=464",
@@ -3291,14 +3291,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 343,
-      "Порхун Вера Семёновна": 31,
-      "Свищёв Андрей Викторович": 21,
-      "Селиванов Юрий Алексеевич": 10,
-      "Старовойтов Александр Сергеевич": 128,
-      "Хорошилов Руслан Николаевич": 56,
-      "Чернышова Наталия Александровна": 44,
-      "Шевляков Валерий Алексеевич": 132
+      "gas:candidate-vibid:2312000566472": 343,
+      "gas:candidate-vibid:2312000565986": 31,
+      "gas:candidate-vibid:2312000566138": 21,
+      "gas:candidate-vibid:2312000564809": 10,
+      "gas:candidate-vibid:2312000538570": 128,
+      "gas:candidate-vibid:2312000566273": 56,
+      "gas:candidate-vibid:2312000565731": 44,
+      "gas:candidate-vibid:2312000564503": 132
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533594&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533594&type=464",
@@ -3349,14 +3349,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 354,
-      "Порхун Вера Семёновна": 33,
-      "Свищёв Андрей Викторович": 28,
-      "Селиванов Юрий Алексеевич": 90,
-      "Старовойтов Александр Сергеевич": 139,
-      "Хорошилов Руслан Николаевич": 50,
-      "Чернышова Наталия Александровна": 47,
-      "Шевляков Валерий Алексеевич": 85
+      "gas:candidate-vibid:2312000566472": 354,
+      "gas:candidate-vibid:2312000565986": 33,
+      "gas:candidate-vibid:2312000566138": 28,
+      "gas:candidate-vibid:2312000564809": 90,
+      "gas:candidate-vibid:2312000538570": 139,
+      "gas:candidate-vibid:2312000566273": 50,
+      "gas:candidate-vibid:2312000565731": 47,
+      "gas:candidate-vibid:2312000564503": 85
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533594&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533594&type=464",
@@ -3407,14 +3407,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 413,
-      "Порхун Вера Семёновна": 49,
-      "Свищёв Андрей Викторович": 30,
-      "Селиванов Юрий Алексеевич": 107,
-      "Старовойтов Александр Сергеевич": 176,
-      "Хорошилов Руслан Николаевич": 54,
-      "Чернышова Наталия Александровна": 45,
-      "Шевляков Валерий Алексеевич": 123
+      "gas:candidate-vibid:2312000566472": 413,
+      "gas:candidate-vibid:2312000565986": 49,
+      "gas:candidate-vibid:2312000566138": 30,
+      "gas:candidate-vibid:2312000564809": 107,
+      "gas:candidate-vibid:2312000538570": 176,
+      "gas:candidate-vibid:2312000566273": 54,
+      "gas:candidate-vibid:2312000565731": 45,
+      "gas:candidate-vibid:2312000564503": 123
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533594&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533594&type=464",
@@ -3465,14 +3465,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 282,
-      "Порхун Вера Семёновна": 9,
-      "Свищёв Андрей Викторович": 3,
-      "Селиванов Юрий Алексеевич": 59,
-      "Старовойтов Александр Сергеевич": 33,
-      "Хорошилов Руслан Николаевич": 17,
-      "Чернышова Наталия Александровна": 11,
-      "Шевляков Валерий Алексеевич": 29
+      "gas:candidate-vibid:2312000566472": 282,
+      "gas:candidate-vibid:2312000565986": 9,
+      "gas:candidate-vibid:2312000566138": 3,
+      "gas:candidate-vibid:2312000564809": 59,
+      "gas:candidate-vibid:2312000538570": 33,
+      "gas:candidate-vibid:2312000566273": 17,
+      "gas:candidate-vibid:2312000565731": 11,
+      "gas:candidate-vibid:2312000564503": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533594&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533594&type=464",
@@ -3523,14 +3523,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 204,
-      "Порхун Вера Семёновна": 2,
-      "Свищёв Андрей Викторович": 4,
-      "Селиванов Юрий Алексеевич": 9,
-      "Старовойтов Александр Сергеевич": 23,
-      "Хорошилов Руслан Николаевич": 6,
-      "Чернышова Наталия Александровна": 6,
-      "Шевляков Валерий Алексеевич": 13
+      "gas:candidate-vibid:2312000566472": 204,
+      "gas:candidate-vibid:2312000565986": 2,
+      "gas:candidate-vibid:2312000566138": 4,
+      "gas:candidate-vibid:2312000564809": 9,
+      "gas:candidate-vibid:2312000538570": 23,
+      "gas:candidate-vibid:2312000566273": 6,
+      "gas:candidate-vibid:2312000565731": 6,
+      "gas:candidate-vibid:2312000564503": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533594&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533594&type=464",
@@ -3581,14 +3581,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 458,
-      "Порхун Вера Семёновна": 9,
-      "Свищёв Андрей Викторович": 11,
-      "Селиванов Юрий Алексеевич": 47,
-      "Старовойтов Александр Сергеевич": 38,
-      "Хорошилов Руслан Николаевич": 14,
-      "Чернышова Наталия Александровна": 13,
-      "Шевляков Валерий Алексеевич": 16
+      "gas:candidate-vibid:2312000566472": 458,
+      "gas:candidate-vibid:2312000565986": 9,
+      "gas:candidate-vibid:2312000566138": 11,
+      "gas:candidate-vibid:2312000564809": 47,
+      "gas:candidate-vibid:2312000538570": 38,
+      "gas:candidate-vibid:2312000566273": 14,
+      "gas:candidate-vibid:2312000565731": 13,
+      "gas:candidate-vibid:2312000564503": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533594&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533594&type=464",
@@ -3639,14 +3639,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 589,
-      "Порхун Вера Семёновна": 13,
-      "Свищёв Андрей Викторович": 14,
-      "Селиванов Юрий Алексеевич": 124,
-      "Старовойтов Александр Сергеевич": 65,
-      "Хорошилов Руслан Николаевич": 59,
-      "Чернышова Наталия Александровна": 39,
-      "Шевляков Валерий Алексеевич": 79
+      "gas:candidate-vibid:2312000566472": 589,
+      "gas:candidate-vibid:2312000565986": 13,
+      "gas:candidate-vibid:2312000566138": 14,
+      "gas:candidate-vibid:2312000564809": 124,
+      "gas:candidate-vibid:2312000538570": 65,
+      "gas:candidate-vibid:2312000566273": 59,
+      "gas:candidate-vibid:2312000565731": 39,
+      "gas:candidate-vibid:2312000564503": 79
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533594&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533594&type=464",
@@ -3697,14 +3697,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 362,
-      "Порхун Вера Семёновна": 4,
-      "Свищёв Андрей Викторович": 1,
-      "Селиванов Юрий Алексеевич": 31,
-      "Старовойтов Александр Сергеевич": 20,
-      "Хорошилов Руслан Николаевич": 12,
-      "Чернышова Наталия Александровна": 7,
-      "Шевляков Валерий Алексеевич": 8
+      "gas:candidate-vibid:2312000566472": 362,
+      "gas:candidate-vibid:2312000565986": 4,
+      "gas:candidate-vibid:2312000566138": 1,
+      "gas:candidate-vibid:2312000564809": 31,
+      "gas:candidate-vibid:2312000538570": 20,
+      "gas:candidate-vibid:2312000566273": 12,
+      "gas:candidate-vibid:2312000565731": 7,
+      "gas:candidate-vibid:2312000564503": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533594&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533594&type=464",
@@ -3755,14 +3755,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 99,
-      "Порхун Вера Семёновна": 4,
-      "Свищёв Андрей Викторович": 6,
-      "Селиванов Юрий Алексеевич": 25,
-      "Старовойтов Александр Сергеевич": 26,
-      "Хорошилов Руслан Николаевич": 5,
-      "Чернышова Наталия Александровна": 8,
-      "Шевляков Валерий Алексеевич": 12
+      "gas:candidate-vibid:2312000566472": 99,
+      "gas:candidate-vibid:2312000565986": 4,
+      "gas:candidate-vibid:2312000566138": 6,
+      "gas:candidate-vibid:2312000564809": 25,
+      "gas:candidate-vibid:2312000538570": 26,
+      "gas:candidate-vibid:2312000566273": 5,
+      "gas:candidate-vibid:2312000565731": 8,
+      "gas:candidate-vibid:2312000564503": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533594&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533594&type=464",
@@ -3813,14 +3813,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 192,
-      "Порхун Вера Семёновна": 0,
-      "Свищёв Андрей Викторович": 5,
-      "Селиванов Юрий Алексеевич": 31,
-      "Старовойтов Александр Сергеевич": 24,
-      "Хорошилов Руслан Николаевич": 15,
-      "Чернышова Наталия Александровна": 8,
-      "Шевляков Валерий Алексеевич": 12
+      "gas:candidate-vibid:2312000566472": 192,
+      "gas:candidate-vibid:2312000565986": 0,
+      "gas:candidate-vibid:2312000566138": 5,
+      "gas:candidate-vibid:2312000564809": 31,
+      "gas:candidate-vibid:2312000538570": 24,
+      "gas:candidate-vibid:2312000566273": 15,
+      "gas:candidate-vibid:2312000565731": 8,
+      "gas:candidate-vibid:2312000564503": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533594&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533594&type=464",
@@ -3871,14 +3871,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 70,
-      "Порхун Вера Семёновна": 2,
-      "Свищёв Андрей Викторович": 2,
-      "Селиванов Юрий Алексеевич": 8,
-      "Старовойтов Александр Сергеевич": 12,
-      "Хорошилов Руслан Николаевич": 1,
-      "Чернышова Наталия Александровна": 2,
-      "Шевляков Валерий Алексеевич": 2
+      "gas:candidate-vibid:2312000566472": 70,
+      "gas:candidate-vibid:2312000565986": 2,
+      "gas:candidate-vibid:2312000566138": 2,
+      "gas:candidate-vibid:2312000564809": 8,
+      "gas:candidate-vibid:2312000538570": 12,
+      "gas:candidate-vibid:2312000566273": 1,
+      "gas:candidate-vibid:2312000565731": 2,
+      "gas:candidate-vibid:2312000564503": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533594&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533594&type=464",
@@ -3929,14 +3929,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 160,
-      "Порхун Вера Семёновна": 3,
-      "Свищёв Андрей Викторович": 3,
-      "Селиванов Юрий Алексеевич": 20,
-      "Старовойтов Александр Сергеевич": 12,
-      "Хорошилов Руслан Николаевич": 6,
-      "Чернышова Наталия Александровна": 2,
-      "Шевляков Валерий Алексеевич": 6
+      "gas:candidate-vibid:2312000566472": 160,
+      "gas:candidate-vibid:2312000565986": 3,
+      "gas:candidate-vibid:2312000566138": 3,
+      "gas:candidate-vibid:2312000564809": 20,
+      "gas:candidate-vibid:2312000538570": 12,
+      "gas:candidate-vibid:2312000566273": 6,
+      "gas:candidate-vibid:2312000565731": 2,
+      "gas:candidate-vibid:2312000564503": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533594&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533594&type=464",
@@ -3987,14 +3987,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 255,
-      "Порхун Вера Семёновна": 12,
-      "Свищёв Андрей Викторович": 14,
-      "Селиванов Юрий Алексеевич": 52,
-      "Старовойтов Александр Сергеевич": 69,
-      "Хорошилов Руслан Николаевич": 35,
-      "Чернышова Наталия Александровна": 21,
-      "Шевляков Валерий Алексеевич": 70
+      "gas:candidate-vibid:2312000566472": 255,
+      "gas:candidate-vibid:2312000565986": 12,
+      "gas:candidate-vibid:2312000566138": 14,
+      "gas:candidate-vibid:2312000564809": 52,
+      "gas:candidate-vibid:2312000538570": 69,
+      "gas:candidate-vibid:2312000566273": 35,
+      "gas:candidate-vibid:2312000565731": 21,
+      "gas:candidate-vibid:2312000564503": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533594&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533594&type=464",
@@ -4045,14 +4045,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 314,
-      "Порхун Вера Семёновна": 13,
-      "Свищёв Андрей Викторович": 17,
-      "Селиванов Юрий Алексеевич": 72,
-      "Старовойтов Александр Сергеевич": 69,
-      "Хорошилов Руслан Николаевич": 37,
-      "Чернышова Наталия Александровна": 21,
-      "Шевляков Валерий Алексеевич": 63
+      "gas:candidate-vibid:2312000566472": 314,
+      "gas:candidate-vibid:2312000565986": 13,
+      "gas:candidate-vibid:2312000566138": 17,
+      "gas:candidate-vibid:2312000564809": 72,
+      "gas:candidate-vibid:2312000538570": 69,
+      "gas:candidate-vibid:2312000566273": 37,
+      "gas:candidate-vibid:2312000565731": 21,
+      "gas:candidate-vibid:2312000564503": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533594&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533594&type=464",
@@ -4103,14 +4103,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 497,
-      "Порхун Вера Семёновна": 16,
-      "Свищёв Андрей Викторович": 34,
-      "Селиванов Юрий Алексеевич": 94,
-      "Старовойтов Александр Сергеевич": 132,
-      "Хорошилов Руслан Николаевич": 52,
-      "Чернышова Наталия Александровна": 35,
-      "Шевляков Валерий Алексеевич": 118
+      "gas:candidate-vibid:2312000566472": 497,
+      "gas:candidate-vibid:2312000565986": 16,
+      "gas:candidate-vibid:2312000566138": 34,
+      "gas:candidate-vibid:2312000564809": 94,
+      "gas:candidate-vibid:2312000538570": 132,
+      "gas:candidate-vibid:2312000566273": 52,
+      "gas:candidate-vibid:2312000565731": 35,
+      "gas:candidate-vibid:2312000564503": 118
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533594&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533594&type=464",
@@ -4161,14 +4161,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 311,
-      "Порхун Вера Семёновна": 20,
-      "Свищёв Андрей Викторович": 32,
-      "Селиванов Юрий Алексеевич": 56,
-      "Старовойтов Александр Сергеевич": 91,
-      "Хорошилов Руслан Николаевич": 42,
-      "Чернышова Наталия Александровна": 29,
-      "Шевляков Валерий Алексеевич": 81
+      "gas:candidate-vibid:2312000566472": 311,
+      "gas:candidate-vibid:2312000565986": 20,
+      "gas:candidate-vibid:2312000566138": 32,
+      "gas:candidate-vibid:2312000564809": 56,
+      "gas:candidate-vibid:2312000538570": 91,
+      "gas:candidate-vibid:2312000566273": 42,
+      "gas:candidate-vibid:2312000565731": 29,
+      "gas:candidate-vibid:2312000564503": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533594&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533594&type=464",
@@ -4219,14 +4219,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 343,
-      "Порхун Вера Семёновна": 11,
-      "Свищёв Андрей Викторович": 18,
-      "Селиванов Юрий Алексеевич": 56,
-      "Старовойтов Александр Сергеевич": 64,
-      "Хорошилов Руслан Николаевич": 41,
-      "Чернышова Наталия Александровна": 28,
-      "Шевляков Валерий Алексеевич": 40
+      "gas:candidate-vibid:2312000566472": 343,
+      "gas:candidate-vibid:2312000565986": 11,
+      "gas:candidate-vibid:2312000566138": 18,
+      "gas:candidate-vibid:2312000564809": 56,
+      "gas:candidate-vibid:2312000538570": 64,
+      "gas:candidate-vibid:2312000566273": 41,
+      "gas:candidate-vibid:2312000565731": 28,
+      "gas:candidate-vibid:2312000564503": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533594&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533594&type=464",
@@ -4277,14 +4277,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 298,
-      "Порхун Вера Семёновна": 14,
-      "Свищёв Андрей Викторович": 13,
-      "Селиванов Юрий Алексеевич": 161,
-      "Старовойтов Александр Сергеевич": 89,
-      "Хорошилов Руслан Николаевич": 46,
-      "Чернышова Наталия Александровна": 26,
-      "Шевляков Валерий Алексеевич": 104
+      "gas:candidate-vibid:2312000566472": 298,
+      "gas:candidate-vibid:2312000565986": 14,
+      "gas:candidate-vibid:2312000566138": 13,
+      "gas:candidate-vibid:2312000564809": 161,
+      "gas:candidate-vibid:2312000538570": 89,
+      "gas:candidate-vibid:2312000566273": 46,
+      "gas:candidate-vibid:2312000565731": 26,
+      "gas:candidate-vibid:2312000564503": 104
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533594&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533594&type=464",
@@ -4335,14 +4335,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 308,
-      "Порхун Вера Семёновна": 22,
-      "Свищёв Андрей Викторович": 11,
-      "Селиванов Юрий Алексеевич": 152,
-      "Старовойтов Александр Сергеевич": 87,
-      "Хорошилов Руслан Николаевич": 43,
-      "Чернышова Наталия Александровна": 24,
-      "Шевляков Валерий Алексеевич": 90
+      "gas:candidate-vibid:2312000566472": 308,
+      "gas:candidate-vibid:2312000565986": 22,
+      "gas:candidate-vibid:2312000566138": 11,
+      "gas:candidate-vibid:2312000564809": 152,
+      "gas:candidate-vibid:2312000538570": 87,
+      "gas:candidate-vibid:2312000566273": 43,
+      "gas:candidate-vibid:2312000565731": 24,
+      "gas:candidate-vibid:2312000564503": 90
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533594&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533594&type=464",
@@ -4393,14 +4393,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 334,
-      "Порхун Вера Семёновна": 24,
-      "Свищёв Андрей Викторович": 20,
-      "Селиванов Юрий Алексеевич": 189,
-      "Старовойтов Александр Сергеевич": 124,
-      "Хорошилов Руслан Николаевич": 48,
-      "Чернышова Наталия Александровна": 28,
-      "Шевляков Валерий Алексеевич": 106
+      "gas:candidate-vibid:2312000566472": 334,
+      "gas:candidate-vibid:2312000565986": 24,
+      "gas:candidate-vibid:2312000566138": 20,
+      "gas:candidate-vibid:2312000564809": 189,
+      "gas:candidate-vibid:2312000538570": 124,
+      "gas:candidate-vibid:2312000566273": 48,
+      "gas:candidate-vibid:2312000565731": 28,
+      "gas:candidate-vibid:2312000564503": 106
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533594&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533594&type=464",
@@ -4451,14 +4451,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 321,
-      "Порхун Вера Семёновна": 21,
-      "Свищёв Андрей Викторович": 17,
-      "Селиванов Юрий Алексеевич": 200,
-      "Старовойтов Александр Сергеевич": 103,
-      "Хорошилов Руслан Николаевич": 36,
-      "Чернышова Наталия Александровна": 13,
-      "Шевляков Валерий Алексеевич": 114
+      "gas:candidate-vibid:2312000566472": 321,
+      "gas:candidate-vibid:2312000565986": 21,
+      "gas:candidate-vibid:2312000566138": 17,
+      "gas:candidate-vibid:2312000564809": 200,
+      "gas:candidate-vibid:2312000538570": 103,
+      "gas:candidate-vibid:2312000566273": 36,
+      "gas:candidate-vibid:2312000565731": 13,
+      "gas:candidate-vibid:2312000564503": 114
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533594&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533594&type=464",
@@ -4509,14 +4509,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 260,
-      "Порхун Вера Семёновна": 12,
-      "Свищёв Андрей Викторович": 16,
-      "Селиванов Юрий Алексеевич": 200,
-      "Старовойтов Александр Сергеевич": 72,
-      "Хорошилов Руслан Николаевич": 36,
-      "Чернышова Наталия Александровна": 19,
-      "Шевляков Валерий Алексеевич": 160
+      "gas:candidate-vibid:2312000566472": 260,
+      "gas:candidate-vibid:2312000565986": 12,
+      "gas:candidate-vibid:2312000566138": 16,
+      "gas:candidate-vibid:2312000564809": 200,
+      "gas:candidate-vibid:2312000538570": 72,
+      "gas:candidate-vibid:2312000566273": 36,
+      "gas:candidate-vibid:2312000565731": 19,
+      "gas:candidate-vibid:2312000564503": 160
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533594&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533594&type=464",
@@ -4567,14 +4567,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 419,
-      "Порхун Вера Семёновна": 30,
-      "Свищёв Андрей Викторович": 35,
-      "Селиванов Юрий Алексеевич": 209,
-      "Старовойтов Александр Сергеевич": 170,
-      "Хорошилов Руслан Николаевич": 63,
-      "Чернышова Наталия Александровна": 38,
-      "Шевляков Валерий Алексеевич": 117
+      "gas:candidate-vibid:2312000566472": 419,
+      "gas:candidate-vibid:2312000565986": 30,
+      "gas:candidate-vibid:2312000566138": 35,
+      "gas:candidate-vibid:2312000564809": 209,
+      "gas:candidate-vibid:2312000538570": 170,
+      "gas:candidate-vibid:2312000566273": 63,
+      "gas:candidate-vibid:2312000565731": 38,
+      "gas:candidate-vibid:2312000564503": 117
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533594&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533594&type=464",
@@ -4625,14 +4625,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 223,
-      "Порхун Вера Семёновна": 32,
-      "Свищёв Андрей Викторович": 20,
-      "Селиванов Юрий Алексеевич": 81,
-      "Старовойтов Александр Сергеевич": 87,
-      "Хорошилов Руслан Николаевич": 58,
-      "Чернышова Наталия Александровна": 25,
-      "Шевляков Валерий Алексеевич": 63
+      "gas:candidate-vibid:2312000566472": 223,
+      "gas:candidate-vibid:2312000565986": 32,
+      "gas:candidate-vibid:2312000566138": 20,
+      "gas:candidate-vibid:2312000564809": 81,
+      "gas:candidate-vibid:2312000538570": 87,
+      "gas:candidate-vibid:2312000566273": 58,
+      "gas:candidate-vibid:2312000565731": 25,
+      "gas:candidate-vibid:2312000564503": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533594&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533594&type=464",
@@ -4683,14 +4683,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 230,
-      "Порхун Вера Семёновна": 19,
-      "Свищёв Андрей Викторович": 20,
-      "Селиванов Юрий Алексеевич": 99,
-      "Старовойтов Александр Сергеевич": 120,
-      "Хорошилов Руслан Николаевич": 43,
-      "Чернышова Наталия Александровна": 20,
-      "Шевляков Валерий Алексеевич": 104
+      "gas:candidate-vibid:2312000566472": 230,
+      "gas:candidate-vibid:2312000565986": 19,
+      "gas:candidate-vibid:2312000566138": 20,
+      "gas:candidate-vibid:2312000564809": 99,
+      "gas:candidate-vibid:2312000538570": 120,
+      "gas:candidate-vibid:2312000566273": 43,
+      "gas:candidate-vibid:2312000565731": 20,
+      "gas:candidate-vibid:2312000564503": 104
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533594&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533594&type=464",
@@ -4741,14 +4741,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 243,
-      "Порхун Вера Семёновна": 22,
-      "Свищёв Андрей Викторович": 14,
-      "Селиванов Юрий Алексеевич": 194,
-      "Старовойтов Александр Сергеевич": 88,
-      "Хорошилов Руслан Николаевич": 36,
-      "Чернышова Наталия Александровна": 29,
-      "Шевляков Валерий Алексеевич": 87
+      "gas:candidate-vibid:2312000566472": 243,
+      "gas:candidate-vibid:2312000565986": 22,
+      "gas:candidate-vibid:2312000566138": 14,
+      "gas:candidate-vibid:2312000564809": 194,
+      "gas:candidate-vibid:2312000538570": 88,
+      "gas:candidate-vibid:2312000566273": 36,
+      "gas:candidate-vibid:2312000565731": 29,
+      "gas:candidate-vibid:2312000564503": 87
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533594&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533594&type=464",
@@ -4799,14 +4799,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 99,
-      "Порхун Вера Семёновна": 5,
-      "Свищёв Андрей Викторович": 16,
-      "Селиванов Юрий Алексеевич": 35,
-      "Старовойтов Александр Сергеевич": 39,
-      "Хорошилов Руслан Николаевич": 26,
-      "Чернышова Наталия Александровна": 6,
-      "Шевляков Валерий Алексеевич": 41
+      "gas:candidate-vibid:2312000566472": 99,
+      "gas:candidate-vibid:2312000565986": 5,
+      "gas:candidate-vibid:2312000566138": 16,
+      "gas:candidate-vibid:2312000564809": 35,
+      "gas:candidate-vibid:2312000538570": 39,
+      "gas:candidate-vibid:2312000566273": 26,
+      "gas:candidate-vibid:2312000565731": 6,
+      "gas:candidate-vibid:2312000564503": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533594&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533594&type=464",
@@ -4857,14 +4857,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 612,
-      "Порхун Вера Семёновна": 20,
-      "Свищёв Андрей Викторович": 19,
-      "Селиванов Юрий Алексеевич": 166,
-      "Старовойтов Александр Сергеевич": 80,
-      "Хорошилов Руслан Николаевич": 41,
-      "Чернышова Наталия Александровна": 27,
-      "Шевляков Валерий Алексеевич": 123
+      "gas:candidate-vibid:2312000566472": 612,
+      "gas:candidate-vibid:2312000565986": 20,
+      "gas:candidate-vibid:2312000566138": 19,
+      "gas:candidate-vibid:2312000564809": 166,
+      "gas:candidate-vibid:2312000538570": 80,
+      "gas:candidate-vibid:2312000566273": 41,
+      "gas:candidate-vibid:2312000565731": 27,
+      "gas:candidate-vibid:2312000564503": 123
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533594&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533594&type=464",
@@ -4915,14 +4915,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 339,
-      "Порхун Вера Семёновна": 28,
-      "Свищёв Андрей Викторович": 24,
-      "Селиванов Юрий Алексеевич": 118,
-      "Старовойтов Александр Сергеевич": 88,
-      "Хорошилов Руслан Николаевич": 46,
-      "Чернышова Наталия Александровна": 42,
-      "Шевляков Валерий Алексеевич": 90
+      "gas:candidate-vibid:2312000566472": 339,
+      "gas:candidate-vibid:2312000565986": 28,
+      "gas:candidate-vibid:2312000566138": 24,
+      "gas:candidate-vibid:2312000564809": 118,
+      "gas:candidate-vibid:2312000538570": 88,
+      "gas:candidate-vibid:2312000566273": 46,
+      "gas:candidate-vibid:2312000565731": 42,
+      "gas:candidate-vibid:2312000564503": 90
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533594&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533594&type=464",
@@ -4973,14 +4973,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 654,
-      "Порхун Вера Семёновна": 31,
-      "Свищёв Андрей Викторович": 40,
-      "Селиванов Юрий Алексеевич": 196,
-      "Старовойтов Александр Сергеевич": 158,
-      "Хорошилов Руслан Николаевич": 58,
-      "Чернышова Наталия Александровна": 51,
-      "Шевляков Валерий Алексеевич": 157
+      "gas:candidate-vibid:2312000566472": 654,
+      "gas:candidate-vibid:2312000565986": 31,
+      "gas:candidate-vibid:2312000566138": 40,
+      "gas:candidate-vibid:2312000564809": 196,
+      "gas:candidate-vibid:2312000538570": 158,
+      "gas:candidate-vibid:2312000566273": 58,
+      "gas:candidate-vibid:2312000565731": 51,
+      "gas:candidate-vibid:2312000564503": 157
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533594&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533594&type=464",
@@ -5031,14 +5031,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 456,
-      "Порхун Вера Семёновна": 30,
-      "Свищёв Андрей Викторович": 26,
-      "Селиванов Юрий Алексеевич": 170,
-      "Старовойтов Александр Сергеевич": 97,
-      "Хорошилов Руслан Николаевич": 63,
-      "Чернышова Наталия Александровна": 49,
-      "Шевляков Валерий Алексеевич": 108
+      "gas:candidate-vibid:2312000566472": 456,
+      "gas:candidate-vibid:2312000565986": 30,
+      "gas:candidate-vibid:2312000566138": 26,
+      "gas:candidate-vibid:2312000564809": 170,
+      "gas:candidate-vibid:2312000538570": 97,
+      "gas:candidate-vibid:2312000566273": 63,
+      "gas:candidate-vibid:2312000565731": 49,
+      "gas:candidate-vibid:2312000564503": 108
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533594&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533594&type=464",
@@ -5089,14 +5089,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 371,
-      "Порхун Вера Семёновна": 22,
-      "Свищёв Андрей Викторович": 32,
-      "Селиванов Юрий Алексеевич": 187,
-      "Старовойтов Александр Сергеевич": 95,
-      "Хорошилов Руслан Николаевич": 49,
-      "Чернышова Наталия Александровна": 34,
-      "Шевляков Валерий Алексеевич": 132
+      "gas:candidate-vibid:2312000566472": 371,
+      "gas:candidate-vibid:2312000565986": 22,
+      "gas:candidate-vibid:2312000566138": 32,
+      "gas:candidate-vibid:2312000564809": 187,
+      "gas:candidate-vibid:2312000538570": 95,
+      "gas:candidate-vibid:2312000566273": 49,
+      "gas:candidate-vibid:2312000565731": 34,
+      "gas:candidate-vibid:2312000564503": 132
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533594&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533594&type=464",
@@ -5147,14 +5147,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 405,
-      "Порхун Вера Семёновна": 19,
-      "Свищёв Андрей Викторович": 10,
-      "Селиванов Юрий Алексеевич": 70,
-      "Старовойтов Александр Сергеевич": 63,
-      "Хорошилов Руслан Николаевич": 24,
-      "Чернышова Наталия Александровна": 21,
-      "Шевляков Валерий Алексеевич": 49
+      "gas:candidate-vibid:2312000566472": 405,
+      "gas:candidate-vibid:2312000565986": 19,
+      "gas:candidate-vibid:2312000566138": 10,
+      "gas:candidate-vibid:2312000564809": 70,
+      "gas:candidate-vibid:2312000538570": 63,
+      "gas:candidate-vibid:2312000566273": 24,
+      "gas:candidate-vibid:2312000565731": 21,
+      "gas:candidate-vibid:2312000564503": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533594&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533594&type=464",
@@ -5205,14 +5205,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 400,
-      "Порхун Вера Семёновна": 20,
-      "Свищёв Андрей Викторович": 30,
-      "Селиванов Юрий Алексеевич": 173,
-      "Старовойтов Александр Сергеевич": 169,
-      "Хорошилов Руслан Николаевич": 76,
-      "Чернышова Наталия Александровна": 74,
-      "Шевляков Валерий Алексеевич": 93
+      "gas:candidate-vibid:2312000566472": 400,
+      "gas:candidate-vibid:2312000565986": 20,
+      "gas:candidate-vibid:2312000566138": 30,
+      "gas:candidate-vibid:2312000564809": 173,
+      "gas:candidate-vibid:2312000538570": 169,
+      "gas:candidate-vibid:2312000566273": 76,
+      "gas:candidate-vibid:2312000565731": 74,
+      "gas:candidate-vibid:2312000564503": 93
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533595&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533595&type=464",
@@ -5263,14 +5263,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 509,
-      "Порхун Вера Семёновна": 19,
-      "Свищёв Андрей Викторович": 35,
-      "Селиванов Юрий Алексеевич": 154,
-      "Старовойтов Александр Сергеевич": 186,
-      "Хорошилов Руслан Николаевич": 71,
-      "Чернышова Наталия Александровна": 92,
-      "Шевляков Валерий Алексеевич": 140
+      "gas:candidate-vibid:2312000566472": 509,
+      "gas:candidate-vibid:2312000565986": 19,
+      "gas:candidate-vibid:2312000566138": 35,
+      "gas:candidate-vibid:2312000564809": 154,
+      "gas:candidate-vibid:2312000538570": 186,
+      "gas:candidate-vibid:2312000566273": 71,
+      "gas:candidate-vibid:2312000565731": 92,
+      "gas:candidate-vibid:2312000564503": 140
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533595&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533595&type=464",
@@ -5321,14 +5321,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 487,
-      "Порхун Вера Семёновна": 23,
-      "Свищёв Андрей Викторович": 32,
-      "Селиванов Юрий Алексеевич": 174,
-      "Старовойтов Александр Сергеевич": 148,
-      "Хорошилов Руслан Николаевич": 70,
-      "Чернышова Наталия Александровна": 78,
-      "Шевляков Валерий Алексеевич": 125
+      "gas:candidate-vibid:2312000566472": 487,
+      "gas:candidate-vibid:2312000565986": 23,
+      "gas:candidate-vibid:2312000566138": 32,
+      "gas:candidate-vibid:2312000564809": 174,
+      "gas:candidate-vibid:2312000538570": 148,
+      "gas:candidate-vibid:2312000566273": 70,
+      "gas:candidate-vibid:2312000565731": 78,
+      "gas:candidate-vibid:2312000564503": 125
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533595&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533595&type=464",
@@ -5379,14 +5379,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 448,
-      "Порхун Вера Семёновна": 23,
-      "Свищёв Андрей Викторович": 35,
-      "Селиванов Юрий Алексеевич": 120,
-      "Старовойтов Александр Сергеевич": 163,
-      "Хорошилов Руслан Николаевич": 69,
-      "Чернышова Наталия Александровна": 59,
-      "Шевляков Валерий Алексеевич": 120
+      "gas:candidate-vibid:2312000566472": 448,
+      "gas:candidate-vibid:2312000565986": 23,
+      "gas:candidate-vibid:2312000566138": 35,
+      "gas:candidate-vibid:2312000564809": 120,
+      "gas:candidate-vibid:2312000538570": 163,
+      "gas:candidate-vibid:2312000566273": 69,
+      "gas:candidate-vibid:2312000565731": 59,
+      "gas:candidate-vibid:2312000564503": 120
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533595&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533595&type=464",
@@ -5437,14 +5437,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 452,
-      "Порхун Вера Семёновна": 24,
-      "Свищёв Андрей Викторович": 28,
-      "Селиванов Юрий Алексеевич": 131,
-      "Старовойтов Александр Сергеевич": 113,
-      "Хорошилов Руслан Николаевич": 61,
-      "Чернышова Наталия Александровна": 83,
-      "Шевляков Валерий Алексеевич": 114
+      "gas:candidate-vibid:2312000566472": 452,
+      "gas:candidate-vibid:2312000565986": 24,
+      "gas:candidate-vibid:2312000566138": 28,
+      "gas:candidate-vibid:2312000564809": 131,
+      "gas:candidate-vibid:2312000538570": 113,
+      "gas:candidate-vibid:2312000566273": 61,
+      "gas:candidate-vibid:2312000565731": 83,
+      "gas:candidate-vibid:2312000564503": 114
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533595&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533595&type=464",
@@ -5495,14 +5495,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 450,
-      "Порхун Вера Семёновна": 16,
-      "Свищёв Андрей Викторович": 30,
-      "Селиванов Юрий Алексеевич": 158,
-      "Старовойтов Александр Сергеевич": 121,
-      "Хорошилов Руслан Николаевич": 63,
-      "Чернышова Наталия Александровна": 77,
-      "Шевляков Валерий Алексеевич": 130
+      "gas:candidate-vibid:2312000566472": 450,
+      "gas:candidate-vibid:2312000565986": 16,
+      "gas:candidate-vibid:2312000566138": 30,
+      "gas:candidate-vibid:2312000564809": 158,
+      "gas:candidate-vibid:2312000538570": 121,
+      "gas:candidate-vibid:2312000566273": 63,
+      "gas:candidate-vibid:2312000565731": 77,
+      "gas:candidate-vibid:2312000564503": 130
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533595&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533595&type=464",
@@ -5553,14 +5553,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 466,
-      "Порхун Вера Семёновна": 33,
-      "Свищёв Андрей Викторович": 43,
-      "Селиванов Юрий Алексеевич": 141,
-      "Старовойтов Александр Сергеевич": 180,
-      "Хорошилов Руслан Николаевич": 70,
-      "Чернышова Наталия Александровна": 72,
-      "Шевляков Валерий Алексеевич": 116
+      "gas:candidate-vibid:2312000566472": 466,
+      "gas:candidate-vibid:2312000565986": 33,
+      "gas:candidate-vibid:2312000566138": 43,
+      "gas:candidate-vibid:2312000564809": 141,
+      "gas:candidate-vibid:2312000538570": 180,
+      "gas:candidate-vibid:2312000566273": 70,
+      "gas:candidate-vibid:2312000565731": 72,
+      "gas:candidate-vibid:2312000564503": 116
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533595&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533595&type=464",
@@ -5611,14 +5611,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 319,
-      "Порхун Вера Семёновна": 25,
-      "Свищёв Андрей Викторович": 20,
-      "Селиванов Юрий Алексеевич": 129,
-      "Старовойтов Александр Сергеевич": 117,
-      "Хорошилов Руслан Николаевич": 47,
-      "Чернышова Наталия Александровна": 45,
-      "Шевляков Валерий Алексеевич": 79
+      "gas:candidate-vibid:2312000566472": 319,
+      "gas:candidate-vibid:2312000565986": 25,
+      "gas:candidate-vibid:2312000566138": 20,
+      "gas:candidate-vibid:2312000564809": 129,
+      "gas:candidate-vibid:2312000538570": 117,
+      "gas:candidate-vibid:2312000566273": 47,
+      "gas:candidate-vibid:2312000565731": 45,
+      "gas:candidate-vibid:2312000564503": 79
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533595&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533595&type=464",
@@ -5669,14 +5669,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 464,
-      "Порхун Вера Семёновна": 23,
-      "Свищёв Андрей Викторович": 36,
-      "Селиванов Юрий Алексеевич": 192,
-      "Старовойтов Александр Сергеевич": 166,
-      "Хорошилов Руслан Николаевич": 66,
-      "Чернышова Наталия Александровна": 98,
-      "Шевляков Валерий Алексеевич": 103
+      "gas:candidate-vibid:2312000566472": 464,
+      "gas:candidate-vibid:2312000565986": 23,
+      "gas:candidate-vibid:2312000566138": 36,
+      "gas:candidate-vibid:2312000564809": 192,
+      "gas:candidate-vibid:2312000538570": 166,
+      "gas:candidate-vibid:2312000566273": 66,
+      "gas:candidate-vibid:2312000565731": 98,
+      "gas:candidate-vibid:2312000564503": 103
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533595&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533595&type=464",
@@ -5727,14 +5727,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 484,
-      "Порхун Вера Семёновна": 30,
-      "Свищёв Андрей Викторович": 28,
-      "Селиванов Юрий Алексеевич": 103,
-      "Старовойтов Александр Сергеевич": 158,
-      "Хорошилов Руслан Николаевич": 85,
-      "Чернышова Наталия Александровна": 81,
-      "Шевляков Валерий Алексеевич": 125
+      "gas:candidate-vibid:2312000566472": 484,
+      "gas:candidate-vibid:2312000565986": 30,
+      "gas:candidate-vibid:2312000566138": 28,
+      "gas:candidate-vibid:2312000564809": 103,
+      "gas:candidate-vibid:2312000538570": 158,
+      "gas:candidate-vibid:2312000566273": 85,
+      "gas:candidate-vibid:2312000565731": 81,
+      "gas:candidate-vibid:2312000564503": 125
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533595&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533595&type=464",
@@ -5785,14 +5785,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 352,
-      "Порхун Вера Семёновна": 14,
-      "Свищёв Андрей Викторович": 16,
-      "Селиванов Юрий Алексеевич": 65,
-      "Старовойтов Александр Сергеевич": 148,
-      "Хорошилов Руслан Николаевич": 59,
-      "Чернышова Наталия Александровна": 43,
-      "Шевляков Валерий Алексеевич": 95
+      "gas:candidate-vibid:2312000566472": 352,
+      "gas:candidate-vibid:2312000565986": 14,
+      "gas:candidate-vibid:2312000566138": 16,
+      "gas:candidate-vibid:2312000564809": 65,
+      "gas:candidate-vibid:2312000538570": 148,
+      "gas:candidate-vibid:2312000566273": 59,
+      "gas:candidate-vibid:2312000565731": 43,
+      "gas:candidate-vibid:2312000564503": 95
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533595&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533595&type=464",
@@ -5843,14 +5843,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 234,
-      "Порхун Вера Семёновна": 12,
-      "Свищёв Андрей Викторович": 15,
-      "Селиванов Юрий Алексеевич": 52,
-      "Старовойтов Александр Сергеевич": 95,
-      "Хорошилов Руслан Николаевич": 25,
-      "Чернышова Наталия Александровна": 23,
-      "Шевляков Валерий Алексеевич": 48
+      "gas:candidate-vibid:2312000566472": 234,
+      "gas:candidate-vibid:2312000565986": 12,
+      "gas:candidate-vibid:2312000566138": 15,
+      "gas:candidate-vibid:2312000564809": 52,
+      "gas:candidate-vibid:2312000538570": 95,
+      "gas:candidate-vibid:2312000566273": 25,
+      "gas:candidate-vibid:2312000565731": 23,
+      "gas:candidate-vibid:2312000564503": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533595&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533595&type=464",
@@ -5901,14 +5901,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 170,
-      "Порхун Вера Семёновна": 5,
-      "Свищёв Андрей Викторович": 36,
-      "Селиванов Юрий Алексеевич": 19,
-      "Старовойтов Александр Сергеевич": 88,
-      "Хорошилов Руслан Николаевич": 13,
-      "Чернышова Наталия Александровна": 13,
-      "Шевляков Валерий Алексеевич": 26
+      "gas:candidate-vibid:2312000566472": 170,
+      "gas:candidate-vibid:2312000565986": 5,
+      "gas:candidate-vibid:2312000566138": 36,
+      "gas:candidate-vibid:2312000564809": 19,
+      "gas:candidate-vibid:2312000538570": 88,
+      "gas:candidate-vibid:2312000566273": 13,
+      "gas:candidate-vibid:2312000565731": 13,
+      "gas:candidate-vibid:2312000564503": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533595&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533595&type=464",
@@ -5959,14 +5959,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 567,
-      "Порхун Вера Семёновна": 13,
-      "Свищёв Андрей Викторович": 62,
-      "Селиванов Юрий Алексеевич": 60,
-      "Старовойтов Александр Сергеевич": 122,
-      "Хорошилов Руслан Николаевич": 56,
-      "Чернышова Наталия Александровна": 44,
-      "Шевляков Валерий Алексеевич": 91
+      "gas:candidate-vibid:2312000566472": 567,
+      "gas:candidate-vibid:2312000565986": 13,
+      "gas:candidate-vibid:2312000566138": 62,
+      "gas:candidate-vibid:2312000564809": 60,
+      "gas:candidate-vibid:2312000538570": 122,
+      "gas:candidate-vibid:2312000566273": 56,
+      "gas:candidate-vibid:2312000565731": 44,
+      "gas:candidate-vibid:2312000564503": 91
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533595&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533595&type=464",
@@ -6017,14 +6017,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 699,
-      "Порхун Вера Семёновна": 13,
-      "Свищёв Андрей Викторович": 33,
-      "Селиванов Юрий Алексеевич": 65,
-      "Старовойтов Александр Сергеевич": 94,
-      "Хорошилов Руслан Николаевич": 46,
-      "Чернышова Наталия Александровна": 34,
-      "Шевляков Валерий Алексеевич": 79
+      "gas:candidate-vibid:2312000566472": 699,
+      "gas:candidate-vibid:2312000565986": 13,
+      "gas:candidate-vibid:2312000566138": 33,
+      "gas:candidate-vibid:2312000564809": 65,
+      "gas:candidate-vibid:2312000538570": 94,
+      "gas:candidate-vibid:2312000566273": 46,
+      "gas:candidate-vibid:2312000565731": 34,
+      "gas:candidate-vibid:2312000564503": 79
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533595&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533595&type=464",
@@ -6075,14 +6075,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 350,
-      "Порхун Вера Семёновна": 13,
-      "Свищёв Андрей Викторович": 39,
-      "Селиванов Юрий Алексеевич": 20,
-      "Старовойтов Александр Сергеевич": 46,
-      "Хорошилов Руслан Николаевич": 29,
-      "Чернышова Наталия Александровна": 24,
-      "Шевляков Валерий Алексеевич": 28
+      "gas:candidate-vibid:2312000566472": 350,
+      "gas:candidate-vibid:2312000565986": 13,
+      "gas:candidate-vibid:2312000566138": 39,
+      "gas:candidate-vibid:2312000564809": 20,
+      "gas:candidate-vibid:2312000538570": 46,
+      "gas:candidate-vibid:2312000566273": 29,
+      "gas:candidate-vibid:2312000565731": 24,
+      "gas:candidate-vibid:2312000564503": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533595&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533595&type=464",
@@ -6133,14 +6133,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 755,
-      "Порхун Вера Семёновна": 44,
-      "Свищёв Андрей Викторович": 72,
-      "Селиванов Юрий Алексеевич": 90,
-      "Старовойтов Александр Сергеевич": 155,
-      "Хорошилов Руслан Николаевич": 80,
-      "Чернышова Наталия Александровна": 37,
-      "Шевляков Валерий Алексеевич": 102
+      "gas:candidate-vibid:2312000566472": 755,
+      "gas:candidate-vibid:2312000565986": 44,
+      "gas:candidate-vibid:2312000566138": 72,
+      "gas:candidate-vibid:2312000564809": 90,
+      "gas:candidate-vibid:2312000538570": 155,
+      "gas:candidate-vibid:2312000566273": 80,
+      "gas:candidate-vibid:2312000565731": 37,
+      "gas:candidate-vibid:2312000564503": 102
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533595&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533595&type=464",
@@ -6191,14 +6191,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 383,
-      "Порхун Вера Семёновна": 20,
-      "Свищёв Андрей Викторович": 17,
-      "Селиванов Юрий Алексеевич": 44,
-      "Старовойтов Александр Сергеевич": 69,
-      "Хорошилов Руслан Николаевич": 41,
-      "Чернышова Наталия Александровна": 41,
-      "Шевляков Валерий Алексеевич": 43
+      "gas:candidate-vibid:2312000566472": 383,
+      "gas:candidate-vibid:2312000565986": 20,
+      "gas:candidate-vibid:2312000566138": 17,
+      "gas:candidate-vibid:2312000564809": 44,
+      "gas:candidate-vibid:2312000538570": 69,
+      "gas:candidate-vibid:2312000566273": 41,
+      "gas:candidate-vibid:2312000565731": 41,
+      "gas:candidate-vibid:2312000564503": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533595&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533595&type=464",
@@ -6249,14 +6249,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 126,
-      "Порхун Вера Семёновна": 6,
-      "Свищёв Андрей Викторович": 0,
-      "Селиванов Юрий Алексеевич": 14,
-      "Старовойтов Александр Сергеевич": 28,
-      "Хорошилов Руслан Николаевич": 9,
-      "Чернышова Наталия Александровна": 12,
-      "Шевляков Валерий Алексеевич": 9
+      "gas:candidate-vibid:2312000566472": 126,
+      "gas:candidate-vibid:2312000565986": 6,
+      "gas:candidate-vibid:2312000566138": 0,
+      "gas:candidate-vibid:2312000564809": 14,
+      "gas:candidate-vibid:2312000538570": 28,
+      "gas:candidate-vibid:2312000566273": 9,
+      "gas:candidate-vibid:2312000565731": 12,
+      "gas:candidate-vibid:2312000564503": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533595&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533595&type=464",
@@ -6307,14 +6307,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 602,
-      "Порхун Вера Семёновна": 5,
-      "Свищёв Андрей Викторович": 8,
-      "Селиванов Юрий Алексеевич": 14,
-      "Старовойтов Александр Сергеевич": 10,
-      "Хорошилов Руслан Николаевич": 1,
-      "Чернышова Наталия Александровна": 11,
-      "Шевляков Валерий Алексеевич": 17
+      "gas:candidate-vibid:2312000566472": 602,
+      "gas:candidate-vibid:2312000565986": 5,
+      "gas:candidate-vibid:2312000566138": 8,
+      "gas:candidate-vibid:2312000564809": 14,
+      "gas:candidate-vibid:2312000538570": 10,
+      "gas:candidate-vibid:2312000566273": 1,
+      "gas:candidate-vibid:2312000565731": 11,
+      "gas:candidate-vibid:2312000564503": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533595&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533595&type=464",
@@ -6365,14 +6365,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 224,
-      "Порхун Вера Семёновна": 4,
-      "Свищёв Андрей Викторович": 5,
-      "Селиванов Юрий Алексеевич": 4,
-      "Старовойтов Александр Сергеевич": 21,
-      "Хорошилов Руслан Николаевич": 5,
-      "Чернышова Наталия Александровна": 14,
-      "Шевляков Валерий Алексеевич": 21
+      "gas:candidate-vibid:2312000566472": 224,
+      "gas:candidate-vibid:2312000565986": 4,
+      "gas:candidate-vibid:2312000566138": 5,
+      "gas:candidate-vibid:2312000564809": 4,
+      "gas:candidate-vibid:2312000538570": 21,
+      "gas:candidate-vibid:2312000566273": 5,
+      "gas:candidate-vibid:2312000565731": 14,
+      "gas:candidate-vibid:2312000564503": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533595&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533595&type=464",
@@ -6423,14 +6423,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 958,
-      "Порхун Вера Семёновна": 20,
-      "Свищёв Андрей Викторович": 18,
-      "Селиванов Юрий Алексеевич": 89,
-      "Старовойтов Александр Сергеевич": 119,
-      "Хорошилов Руслан Николаевич": 16,
-      "Чернышова Наталия Александровна": 35,
-      "Шевляков Валерий Алексеевич": 35
+      "gas:candidate-vibid:2312000566472": 958,
+      "gas:candidate-vibid:2312000565986": 20,
+      "gas:candidate-vibid:2312000566138": 18,
+      "gas:candidate-vibid:2312000564809": 89,
+      "gas:candidate-vibid:2312000538570": 119,
+      "gas:candidate-vibid:2312000566273": 16,
+      "gas:candidate-vibid:2312000565731": 35,
+      "gas:candidate-vibid:2312000564503": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533595&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533595&type=464",
@@ -6481,14 +6481,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 697,
-      "Порхун Вера Семёновна": 5,
-      "Свищёв Андрей Викторович": 4,
-      "Селиванов Юрий Алексеевич": 17,
-      "Старовойтов Александр Сергеевич": 6,
-      "Хорошилов Руслан Николаевич": 3,
-      "Чернышова Наталия Александровна": 1,
-      "Шевляков Валерий Алексеевич": 2
+      "gas:candidate-vibid:2312000566472": 697,
+      "gas:candidate-vibid:2312000565986": 5,
+      "gas:candidate-vibid:2312000566138": 4,
+      "gas:candidate-vibid:2312000564809": 17,
+      "gas:candidate-vibid:2312000538570": 6,
+      "gas:candidate-vibid:2312000566273": 3,
+      "gas:candidate-vibid:2312000565731": 1,
+      "gas:candidate-vibid:2312000564503": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533595&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533595&type=464",
@@ -6539,14 +6539,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 167,
-      "Порхун Вера Семёновна": 1,
-      "Свищёв Андрей Викторович": 2,
-      "Селиванов Юрий Алексеевич": 4,
-      "Старовойтов Александр Сергеевич": 7,
-      "Хорошилов Руслан Николаевич": 8,
-      "Чернышова Наталия Александровна": 5,
-      "Шевляков Валерий Алексеевич": 2
+      "gas:candidate-vibid:2312000566472": 167,
+      "gas:candidate-vibid:2312000565986": 1,
+      "gas:candidate-vibid:2312000566138": 2,
+      "gas:candidate-vibid:2312000564809": 4,
+      "gas:candidate-vibid:2312000538570": 7,
+      "gas:candidate-vibid:2312000566273": 8,
+      "gas:candidate-vibid:2312000565731": 5,
+      "gas:candidate-vibid:2312000564503": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533595&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533595&type=464",
@@ -6597,14 +6597,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 600,
-      "Порхун Вера Семёновна": 0,
-      "Свищёв Андрей Викторович": 2,
-      "Селиванов Юрий Алексеевич": 12,
-      "Старовойтов Александр Сергеевич": 19,
-      "Хорошилов Руслан Николаевич": 2,
-      "Чернышова Наталия Александровна": 0,
-      "Шевляков Валерий Алексеевич": 5
+      "gas:candidate-vibid:2312000566472": 600,
+      "gas:candidate-vibid:2312000565986": 0,
+      "gas:candidate-vibid:2312000566138": 2,
+      "gas:candidate-vibid:2312000564809": 12,
+      "gas:candidate-vibid:2312000538570": 19,
+      "gas:candidate-vibid:2312000566273": 2,
+      "gas:candidate-vibid:2312000565731": 0,
+      "gas:candidate-vibid:2312000564503": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533595&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533595&type=464",
@@ -6655,14 +6655,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 1201,
-      "Порхун Вера Семёновна": 5,
-      "Свищёв Андрей Викторович": 11,
-      "Селиванов Юрий Алексеевич": 36,
-      "Старовойтов Александр Сергеевич": 35,
-      "Хорошилов Руслан Николаевич": 13,
-      "Чернышова Наталия Александровна": 12,
-      "Шевляков Валерий Алексеевич": 26
+      "gas:candidate-vibid:2312000566472": 1201,
+      "gas:candidate-vibid:2312000565986": 5,
+      "gas:candidate-vibid:2312000566138": 11,
+      "gas:candidate-vibid:2312000564809": 36,
+      "gas:candidate-vibid:2312000538570": 35,
+      "gas:candidate-vibid:2312000566273": 13,
+      "gas:candidate-vibid:2312000565731": 12,
+      "gas:candidate-vibid:2312000564503": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533595&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533595&type=464",
@@ -6713,14 +6713,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 634,
-      "Порхун Вера Семёновна": 7,
-      "Свищёв Андрей Викторович": 6,
-      "Селиванов Юрий Алексеевич": 47,
-      "Старовойтов Александр Сергеевич": 39,
-      "Хорошилов Руслан Николаевич": 18,
-      "Чернышова Наталия Александровна": 13,
-      "Шевляков Валерий Алексеевич": 50
+      "gas:candidate-vibid:2312000566472": 634,
+      "gas:candidate-vibid:2312000565986": 7,
+      "gas:candidate-vibid:2312000566138": 6,
+      "gas:candidate-vibid:2312000564809": 47,
+      "gas:candidate-vibid:2312000538570": 39,
+      "gas:candidate-vibid:2312000566273": 18,
+      "gas:candidate-vibid:2312000565731": 13,
+      "gas:candidate-vibid:2312000564503": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533595&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533595&type=464",
@@ -6771,14 +6771,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 370,
-      "Порхун Вера Семёновна": 6,
-      "Свищёв Андрей Викторович": 13,
-      "Селиванов Юрий Алексеевич": 22,
-      "Старовойтов Александр Сергеевич": 22,
-      "Хорошилов Руслан Николаевич": 18,
-      "Чернышова Наталия Александровна": 5,
-      "Шевляков Валерий Алексеевич": 10
+      "gas:candidate-vibid:2312000566472": 370,
+      "gas:candidate-vibid:2312000565986": 6,
+      "gas:candidate-vibid:2312000566138": 13,
+      "gas:candidate-vibid:2312000564809": 22,
+      "gas:candidate-vibid:2312000538570": 22,
+      "gas:candidate-vibid:2312000566273": 18,
+      "gas:candidate-vibid:2312000565731": 5,
+      "gas:candidate-vibid:2312000564503": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533595&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533595&type=464",
@@ -6829,14 +6829,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 116,
-      "Порхун Вера Семёновна": 0,
-      "Свищёв Андрей Викторович": 0,
-      "Селиванов Юрий Алексеевич": 13,
-      "Старовойтов Александр Сергеевич": 17,
-      "Хорошилов Руслан Николаевич": 5,
-      "Чернышова Наталия Александровна": 3,
-      "Шевляков Валерий Алексеевич": 8
+      "gas:candidate-vibid:2312000566472": 116,
+      "gas:candidate-vibid:2312000565986": 0,
+      "gas:candidate-vibid:2312000566138": 0,
+      "gas:candidate-vibid:2312000564809": 13,
+      "gas:candidate-vibid:2312000538570": 17,
+      "gas:candidate-vibid:2312000566273": 5,
+      "gas:candidate-vibid:2312000565731": 3,
+      "gas:candidate-vibid:2312000564503": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533595&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533595&type=464",
@@ -6887,14 +6887,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 350,
-      "Порхун Вера Семёновна": 5,
-      "Свищёв Андрей Викторович": 6,
-      "Селиванов Юрий Алексеевич": 29,
-      "Старовойтов Александр Сергеевич": 24,
-      "Хорошилов Руслан Николаевич": 10,
-      "Чернышова Наталия Александровна": 21,
-      "Шевляков Валерий Алексеевич": 24
+      "gas:candidate-vibid:2312000566472": 350,
+      "gas:candidate-vibid:2312000565986": 5,
+      "gas:candidate-vibid:2312000566138": 6,
+      "gas:candidate-vibid:2312000564809": 29,
+      "gas:candidate-vibid:2312000538570": 24,
+      "gas:candidate-vibid:2312000566273": 10,
+      "gas:candidate-vibid:2312000565731": 21,
+      "gas:candidate-vibid:2312000564503": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533595&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533595&type=464",
@@ -6945,14 +6945,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 213,
-      "Порхун Вера Семёновна": 6,
-      "Свищёв Андрей Викторович": 7,
-      "Селиванов Юрий Алексеевич": 12,
-      "Старовойтов Александр Сергеевич": 15,
-      "Хорошилов Руслан Николаевич": 5,
-      "Чернышова Наталия Александровна": 5,
-      "Шевляков Валерий Алексеевич": 13
+      "gas:candidate-vibid:2312000566472": 213,
+      "gas:candidate-vibid:2312000565986": 6,
+      "gas:candidate-vibid:2312000566138": 7,
+      "gas:candidate-vibid:2312000564809": 12,
+      "gas:candidate-vibid:2312000538570": 15,
+      "gas:candidate-vibid:2312000566273": 5,
+      "gas:candidate-vibid:2312000565731": 5,
+      "gas:candidate-vibid:2312000564503": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533595&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533595&type=464",
@@ -7003,14 +7003,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 359,
-      "Порхун Вера Семёновна": 6,
-      "Свищёв Андрей Викторович": 6,
-      "Селиванов Юрий Алексеевич": 19,
-      "Старовойтов Александр Сергеевич": 13,
-      "Хорошилов Руслан Николаевич": 13,
-      "Чернышова Наталия Александровна": 8,
-      "Шевляков Валерий Алексеевич": 17
+      "gas:candidate-vibid:2312000566472": 359,
+      "gas:candidate-vibid:2312000565986": 6,
+      "gas:candidate-vibid:2312000566138": 6,
+      "gas:candidate-vibid:2312000564809": 19,
+      "gas:candidate-vibid:2312000538570": 13,
+      "gas:candidate-vibid:2312000566273": 13,
+      "gas:candidate-vibid:2312000565731": 8,
+      "gas:candidate-vibid:2312000564503": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533595&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533595&type=464",
@@ -7061,14 +7061,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 181,
-      "Порхун Вера Семёновна": 1,
-      "Свищёв Андрей Викторович": 0,
-      "Селиванов Юрий Алексеевич": 10,
-      "Старовойтов Александр Сергеевич": 3,
-      "Хорошилов Руслан Николаевич": 5,
-      "Чернышова Наталия Александровна": 3,
-      "Шевляков Валерий Алексеевич": 1
+      "gas:candidate-vibid:2312000566472": 181,
+      "gas:candidate-vibid:2312000565986": 1,
+      "gas:candidate-vibid:2312000566138": 0,
+      "gas:candidate-vibid:2312000564809": 10,
+      "gas:candidate-vibid:2312000538570": 3,
+      "gas:candidate-vibid:2312000566273": 5,
+      "gas:candidate-vibid:2312000565731": 3,
+      "gas:candidate-vibid:2312000564503": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533595&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533595&type=464",
@@ -7119,14 +7119,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 99,
-      "Порхун Вера Семёновна": 4,
-      "Свищёв Андрей Викторович": 8,
-      "Селиванов Юрий Алексеевич": 12,
-      "Старовойтов Александр Сергеевич": 6,
-      "Хорошилов Руслан Николаевич": 8,
-      "Чернышова Наталия Александровна": 7,
-      "Шевляков Валерий Алексеевич": 10
+      "gas:candidate-vibid:2312000566472": 99,
+      "gas:candidate-vibid:2312000565986": 4,
+      "gas:candidate-vibid:2312000566138": 8,
+      "gas:candidate-vibid:2312000564809": 12,
+      "gas:candidate-vibid:2312000538570": 6,
+      "gas:candidate-vibid:2312000566273": 8,
+      "gas:candidate-vibid:2312000565731": 7,
+      "gas:candidate-vibid:2312000564503": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533595&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533595&type=464",
@@ -7177,14 +7177,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 118,
-      "Порхун Вера Семёновна": 2,
-      "Свищёв Андрей Викторович": 2,
-      "Селиванов Юрий Алексеевич": 1,
-      "Старовойтов Александр Сергеевич": 3,
-      "Хорошилов Руслан Николаевич": 2,
-      "Чернышова Наталия Александровна": 3,
-      "Шевляков Валерий Алексеевич": 5
+      "gas:candidate-vibid:2312000566472": 118,
+      "gas:candidate-vibid:2312000565986": 2,
+      "gas:candidate-vibid:2312000566138": 2,
+      "gas:candidate-vibid:2312000564809": 1,
+      "gas:candidate-vibid:2312000538570": 3,
+      "gas:candidate-vibid:2312000566273": 2,
+      "gas:candidate-vibid:2312000565731": 3,
+      "gas:candidate-vibid:2312000564503": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533595&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533595&type=464",
@@ -7235,14 +7235,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 192,
-      "Порхун Вера Семёновна": 4,
-      "Свищёв Андрей Викторович": 1,
-      "Селиванов Юрий Алексеевич": 9,
-      "Старовойтов Александр Сергеевич": 14,
-      "Хорошилов Руслан Николаевич": 5,
-      "Чернышова Наталия Александровна": 5,
-      "Шевляков Валерий Алексеевич": 6
+      "gas:candidate-vibid:2312000566472": 192,
+      "gas:candidate-vibid:2312000565986": 4,
+      "gas:candidate-vibid:2312000566138": 1,
+      "gas:candidate-vibid:2312000564809": 9,
+      "gas:candidate-vibid:2312000538570": 14,
+      "gas:candidate-vibid:2312000566273": 5,
+      "gas:candidate-vibid:2312000565731": 5,
+      "gas:candidate-vibid:2312000564503": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533595&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533595&type=464",
@@ -7293,14 +7293,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 62,
-      "Порхун Вера Семёновна": 3,
-      "Свищёв Андрей Викторович": 4,
-      "Селиванов Юрий Алексеевич": 8,
-      "Старовойтов Александр Сергеевич": 6,
-      "Хорошилов Руслан Николаевич": 6,
-      "Чернышова Наталия Александровна": 1,
-      "Шевляков Валерий Алексеевич": 5
+      "gas:candidate-vibid:2312000566472": 62,
+      "gas:candidate-vibid:2312000565986": 3,
+      "gas:candidate-vibid:2312000566138": 4,
+      "gas:candidate-vibid:2312000564809": 8,
+      "gas:candidate-vibid:2312000538570": 6,
+      "gas:candidate-vibid:2312000566273": 6,
+      "gas:candidate-vibid:2312000565731": 1,
+      "gas:candidate-vibid:2312000564503": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533595&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533595&type=464",
@@ -7351,14 +7351,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 558,
-      "Порхун Вера Семёновна": 8,
-      "Свищёв Андрей Викторович": 32,
-      "Селиванов Юрий Алексеевич": 40,
-      "Старовойтов Александр Сергеевич": 67,
-      "Хорошилов Руслан Николаевич": 28,
-      "Чернышова Наталия Александровна": 40,
-      "Шевляков Валерий Алексеевич": 37
+      "gas:candidate-vibid:2312000566472": 558,
+      "gas:candidate-vibid:2312000565986": 8,
+      "gas:candidate-vibid:2312000566138": 32,
+      "gas:candidate-vibid:2312000564809": 40,
+      "gas:candidate-vibid:2312000538570": 67,
+      "gas:candidate-vibid:2312000566273": 28,
+      "gas:candidate-vibid:2312000565731": 40,
+      "gas:candidate-vibid:2312000564503": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533595&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533595&type=464",
@@ -7409,14 +7409,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 706,
-      "Порхун Вера Семёновна": 49,
-      "Свищёв Андрей Викторович": 232,
-      "Селиванов Юрий Алексеевич": 69,
-      "Старовойтов Александр Сергеевич": 95,
-      "Хорошилов Руслан Николаевич": 55,
-      "Чернышова Наталия Александровна": 36,
-      "Шевляков Валерий Алексеевич": 43
+      "gas:candidate-vibid:2312000566472": 706,
+      "gas:candidate-vibid:2312000565986": 49,
+      "gas:candidate-vibid:2312000566138": 232,
+      "gas:candidate-vibid:2312000564809": 69,
+      "gas:candidate-vibid:2312000538570": 95,
+      "gas:candidate-vibid:2312000566273": 55,
+      "gas:candidate-vibid:2312000565731": 36,
+      "gas:candidate-vibid:2312000564503": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533595&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533595&type=464",
@@ -7467,14 +7467,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 260,
-      "Порхун Вера Семёновна": 3,
-      "Свищёв Андрей Викторович": 20,
-      "Селиванов Юрий Алексеевич": 19,
-      "Старовойтов Александр Сергеевич": 27,
-      "Хорошилов Руслан Николаевич": 6,
-      "Чернышова Наталия Александровна": 13,
-      "Шевляков Валерий Алексеевич": 16
+      "gas:candidate-vibid:2312000566472": 260,
+      "gas:candidate-vibid:2312000565986": 3,
+      "gas:candidate-vibid:2312000566138": 20,
+      "gas:candidate-vibid:2312000564809": 19,
+      "gas:candidate-vibid:2312000538570": 27,
+      "gas:candidate-vibid:2312000566273": 6,
+      "gas:candidate-vibid:2312000565731": 13,
+      "gas:candidate-vibid:2312000564503": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533595&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533595&type=464",
@@ -7525,14 +7525,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 80,
-      "Порхун Вера Семёновна": 4,
-      "Свищёв Андрей Викторович": 2,
-      "Селиванов Юрий Алексеевич": 5,
-      "Старовойтов Александр Сергеевич": 2,
-      "Хорошилов Руслан Николаевич": 1,
-      "Чернышова Наталия Александровна": 4,
-      "Шевляков Валерий Алексеевич": 6
+      "gas:candidate-vibid:2312000566472": 80,
+      "gas:candidate-vibid:2312000565986": 4,
+      "gas:candidate-vibid:2312000566138": 2,
+      "gas:candidate-vibid:2312000564809": 5,
+      "gas:candidate-vibid:2312000538570": 2,
+      "gas:candidate-vibid:2312000566273": 1,
+      "gas:candidate-vibid:2312000565731": 4,
+      "gas:candidate-vibid:2312000564503": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533595&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533595&type=464",
@@ -7583,14 +7583,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 285,
-      "Порхун Вера Семёновна": 5,
-      "Свищёв Андрей Викторович": 24,
-      "Селиванов Юрий Алексеевич": 16,
-      "Старовойтов Александр Сергеевич": 24,
-      "Хорошилов Руслан Николаевич": 12,
-      "Чернышова Наталия Александровна": 12,
-      "Шевляков Валерий Алексеевич": 14
+      "gas:candidate-vibid:2312000566472": 285,
+      "gas:candidate-vibid:2312000565986": 5,
+      "gas:candidate-vibid:2312000566138": 24,
+      "gas:candidate-vibid:2312000564809": 16,
+      "gas:candidate-vibid:2312000538570": 24,
+      "gas:candidate-vibid:2312000566273": 12,
+      "gas:candidate-vibid:2312000565731": 12,
+      "gas:candidate-vibid:2312000564503": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533595&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533595&type=464",
@@ -7641,14 +7641,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 178,
-      "Порхун Вера Семёновна": 11,
-      "Свищёв Андрей Викторович": 10,
-      "Селиванов Юрий Алексеевич": 7,
-      "Старовойтов Александр Сергеевич": 16,
-      "Хорошилов Руслан Николаевич": 16,
-      "Чернышова Наталия Александровна": 10,
-      "Шевляков Валерий Алексеевич": 16
+      "gas:candidate-vibid:2312000566472": 178,
+      "gas:candidate-vibid:2312000565986": 11,
+      "gas:candidate-vibid:2312000566138": 10,
+      "gas:candidate-vibid:2312000564809": 7,
+      "gas:candidate-vibid:2312000538570": 16,
+      "gas:candidate-vibid:2312000566273": 16,
+      "gas:candidate-vibid:2312000565731": 10,
+      "gas:candidate-vibid:2312000564503": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533595&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533595&type=464",
@@ -7699,14 +7699,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 214,
-      "Порхун Вера Семёновна": 14,
-      "Свищёв Андрей Викторович": 13,
-      "Селиванов Юрий Алексеевич": 40,
-      "Старовойтов Александр Сергеевич": 49,
-      "Хорошилов Руслан Николаевич": 21,
-      "Чернышова Наталия Александровна": 18,
-      "Шевляков Валерий Алексеевич": 29
+      "gas:candidate-vibid:2312000566472": 214,
+      "gas:candidate-vibid:2312000565986": 14,
+      "gas:candidate-vibid:2312000566138": 13,
+      "gas:candidate-vibid:2312000564809": 40,
+      "gas:candidate-vibid:2312000538570": 49,
+      "gas:candidate-vibid:2312000566273": 21,
+      "gas:candidate-vibid:2312000565731": 18,
+      "gas:candidate-vibid:2312000564503": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533595&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533595&type=464",
@@ -7757,14 +7757,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 129,
-      "Порхун Вера Семёновна": 9,
-      "Свищёв Андрей Викторович": 11,
-      "Селиванов Юрий Алексеевич": 7,
-      "Старовойтов Александр Сергеевич": 22,
-      "Хорошилов Руслан Николаевич": 13,
-      "Чернышова Наталия Александровна": 9,
-      "Шевляков Валерий Алексеевич": 22
+      "gas:candidate-vibid:2312000566472": 129,
+      "gas:candidate-vibid:2312000565986": 9,
+      "gas:candidate-vibid:2312000566138": 11,
+      "gas:candidate-vibid:2312000564809": 7,
+      "gas:candidate-vibid:2312000538570": 22,
+      "gas:candidate-vibid:2312000566273": 13,
+      "gas:candidate-vibid:2312000565731": 9,
+      "gas:candidate-vibid:2312000564503": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533595&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533595&type=464",
@@ -7815,14 +7815,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 398,
-      "Порхун Вера Семёновна": 10,
-      "Свищёв Андрей Викторович": 15,
-      "Селиванов Юрий Алексеевич": 19,
-      "Старовойтов Александр Сергеевич": 59,
-      "Хорошилов Руслан Николаевич": 38,
-      "Чернышова Наталия Александровна": 22,
-      "Шевляков Валерий Алексеевич": 39
+      "gas:candidate-vibid:2312000566472": 398,
+      "gas:candidate-vibid:2312000565986": 10,
+      "gas:candidate-vibid:2312000566138": 15,
+      "gas:candidate-vibid:2312000564809": 19,
+      "gas:candidate-vibid:2312000538570": 59,
+      "gas:candidate-vibid:2312000566273": 38,
+      "gas:candidate-vibid:2312000565731": 22,
+      "gas:candidate-vibid:2312000564503": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533595&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533595&type=464",
@@ -7873,14 +7873,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 148,
-      "Порхун Вера Семёновна": 6,
-      "Свищёв Андрей Викторович": 1,
-      "Селиванов Юрий Алексеевич": 15,
-      "Старовойтов Александр Сергеевич": 19,
-      "Хорошилов Руслан Николаевич": 3,
-      "Чернышова Наталия Александровна": 8,
-      "Шевляков Валерий Алексеевич": 23
+      "gas:candidate-vibid:2312000566472": 148,
+      "gas:candidate-vibid:2312000565986": 6,
+      "gas:candidate-vibid:2312000566138": 1,
+      "gas:candidate-vibid:2312000564809": 15,
+      "gas:candidate-vibid:2312000538570": 19,
+      "gas:candidate-vibid:2312000566273": 3,
+      "gas:candidate-vibid:2312000565731": 8,
+      "gas:candidate-vibid:2312000564503": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533595&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533595&type=464",
@@ -7931,14 +7931,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 847,
-      "Порхун Вера Семёновна": 16,
-      "Свищёв Андрей Викторович": 61,
-      "Селиванов Юрий Алексеевич": 32,
-      "Старовойтов Александр Сергеевич": 86,
-      "Хорошилов Руслан Николаевич": 36,
-      "Чернышова Наталия Александровна": 32,
-      "Шевляков Валерий Алексеевич": 52
+      "gas:candidate-vibid:2312000566472": 847,
+      "gas:candidate-vibid:2312000565986": 16,
+      "gas:candidate-vibid:2312000566138": 61,
+      "gas:candidate-vibid:2312000564809": 32,
+      "gas:candidate-vibid:2312000538570": 86,
+      "gas:candidate-vibid:2312000566273": 36,
+      "gas:candidate-vibid:2312000565731": 32,
+      "gas:candidate-vibid:2312000564503": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533595&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533595&type=464",
@@ -7989,14 +7989,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 372,
-      "Порхун Вера Семёновна": 16,
-      "Свищёв Андрей Викторович": 14,
-      "Селиванов Юрий Алексеевич": 36,
-      "Старовойтов Александр Сергеевич": 42,
-      "Хорошилов Руслан Николаевич": 8,
-      "Чернышова Наталия Александровна": 8,
-      "Шевляков Валерий Алексеевич": 45
+      "gas:candidate-vibid:2312000566472": 372,
+      "gas:candidate-vibid:2312000565986": 16,
+      "gas:candidate-vibid:2312000566138": 14,
+      "gas:candidate-vibid:2312000564809": 36,
+      "gas:candidate-vibid:2312000538570": 42,
+      "gas:candidate-vibid:2312000566273": 8,
+      "gas:candidate-vibid:2312000565731": 8,
+      "gas:candidate-vibid:2312000564503": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533595&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533595&type=464",
@@ -8047,14 +8047,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 511,
-      "Порхун Вера Семёновна": 17,
-      "Свищёв Андрей Викторович": 23,
-      "Селиванов Юрий Алексеевич": 124,
-      "Старовойтов Александр Сергеевич": 119,
-      "Хорошилов Руслан Николаевич": 42,
-      "Чернышова Наталия Александровна": 61,
-      "Шевляков Валерий Алексеевич": 89
+      "gas:candidate-vibid:2312000566472": 511,
+      "gas:candidate-vibid:2312000565986": 17,
+      "gas:candidate-vibid:2312000566138": 23,
+      "gas:candidate-vibid:2312000564809": 124,
+      "gas:candidate-vibid:2312000538570": 119,
+      "gas:candidate-vibid:2312000566273": 42,
+      "gas:candidate-vibid:2312000565731": 61,
+      "gas:candidate-vibid:2312000564503": 89
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533595&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533595&type=464",
@@ -8105,14 +8105,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 349,
-      "Порхун Вера Семёновна": 1,
-      "Свищёв Андрей Викторович": 1,
-      "Селиванов Юрий Алексеевич": 4,
-      "Старовойтов Александр Сергеевич": 7,
-      "Хорошилов Руслан Николаевич": 1,
-      "Чернышова Наталия Александровна": 2,
-      "Шевляков Валерий Алексеевич": 23
+      "gas:candidate-vibid:2312000566472": 349,
+      "gas:candidate-vibid:2312000565986": 1,
+      "gas:candidate-vibid:2312000566138": 1,
+      "gas:candidate-vibid:2312000564809": 4,
+      "gas:candidate-vibid:2312000538570": 7,
+      "gas:candidate-vibid:2312000566273": 1,
+      "gas:candidate-vibid:2312000565731": 2,
+      "gas:candidate-vibid:2312000564503": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533597&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533597&type=464",
@@ -8163,14 +8163,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 962,
-      "Порхун Вера Семёновна": 7,
-      "Свищёв Андрей Викторович": 6,
-      "Селиванов Юрий Алексеевич": 37,
-      "Старовойтов Александр Сергеевич": 16,
-      "Хорошилов Руслан Николаевич": 12,
-      "Чернышова Наталия Александровна": 7,
-      "Шевляков Валерий Алексеевич": 8
+      "gas:candidate-vibid:2312000566472": 962,
+      "gas:candidate-vibid:2312000565986": 7,
+      "gas:candidate-vibid:2312000566138": 6,
+      "gas:candidate-vibid:2312000564809": 37,
+      "gas:candidate-vibid:2312000538570": 16,
+      "gas:candidate-vibid:2312000566273": 12,
+      "gas:candidate-vibid:2312000565731": 7,
+      "gas:candidate-vibid:2312000564503": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533597&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533597&type=464",
@@ -8221,14 +8221,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 533,
-      "Порхун Вера Семёновна": 0,
-      "Свищёв Андрей Викторович": 0,
-      "Селиванов Юрий Алексеевич": 21,
-      "Старовойтов Александр Сергеевич": 8,
-      "Хорошилов Руслан Николаевич": 3,
-      "Чернышова Наталия Александровна": 0,
-      "Шевляков Валерий Алексеевич": 22
+      "gas:candidate-vibid:2312000566472": 533,
+      "gas:candidate-vibid:2312000565986": 0,
+      "gas:candidate-vibid:2312000566138": 0,
+      "gas:candidate-vibid:2312000564809": 21,
+      "gas:candidate-vibid:2312000538570": 8,
+      "gas:candidate-vibid:2312000566273": 3,
+      "gas:candidate-vibid:2312000565731": 0,
+      "gas:candidate-vibid:2312000564503": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533597&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533597&type=464",
@@ -8279,14 +8279,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 157,
-      "Порхун Вера Семёновна": 0,
-      "Свищёв Андрей Викторович": 0,
-      "Селиванов Юрий Алексеевич": 6,
-      "Старовойтов Александр Сергеевич": 5,
-      "Хорошилов Руслан Николаевич": 6,
-      "Чернышова Наталия Александровна": 0,
-      "Шевляков Валерий Алексеевич": 7
+      "gas:candidate-vibid:2312000566472": 157,
+      "gas:candidate-vibid:2312000565986": 0,
+      "gas:candidate-vibid:2312000566138": 0,
+      "gas:candidate-vibid:2312000564809": 6,
+      "gas:candidate-vibid:2312000538570": 5,
+      "gas:candidate-vibid:2312000566273": 6,
+      "gas:candidate-vibid:2312000565731": 0,
+      "gas:candidate-vibid:2312000564503": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533597&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533597&type=464",
@@ -8337,14 +8337,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 310,
-      "Порхун Вера Семёновна": 0,
-      "Свищёв Андрей Викторович": 0,
-      "Селиванов Юрий Алексеевич": 20,
-      "Старовойтов Александр Сергеевич": 17,
-      "Хорошилов Руслан Николаевич": 0,
-      "Чернышова Наталия Александровна": 0,
-      "Шевляков Валерий Алексеевич": 30
+      "gas:candidate-vibid:2312000566472": 310,
+      "gas:candidate-vibid:2312000565986": 0,
+      "gas:candidate-vibid:2312000566138": 0,
+      "gas:candidate-vibid:2312000564809": 20,
+      "gas:candidate-vibid:2312000538570": 17,
+      "gas:candidate-vibid:2312000566273": 0,
+      "gas:candidate-vibid:2312000565731": 0,
+      "gas:candidate-vibid:2312000564503": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533597&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533597&type=464",
@@ -8395,14 +8395,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 144,
-      "Порхун Вера Семёновна": 0,
-      "Свищёв Андрей Викторович": 0,
-      "Селиванов Юрий Алексеевич": 11,
-      "Старовойтов Александр Сергеевич": 10,
-      "Хорошилов Руслан Николаевич": 0,
-      "Чернышова Наталия Александровна": 3,
-      "Шевляков Валерий Алексеевич": 10
+      "gas:candidate-vibid:2312000566472": 144,
+      "gas:candidate-vibid:2312000565986": 0,
+      "gas:candidate-vibid:2312000566138": 0,
+      "gas:candidate-vibid:2312000564809": 11,
+      "gas:candidate-vibid:2312000538570": 10,
+      "gas:candidate-vibid:2312000566273": 0,
+      "gas:candidate-vibid:2312000565731": 3,
+      "gas:candidate-vibid:2312000564503": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533597&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533597&type=464",
@@ -8453,14 +8453,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 579,
-      "Порхун Вера Семёновна": 2,
-      "Свищёв Андрей Викторович": 2,
-      "Селиванов Юрий Алексеевич": 95,
-      "Старовойтов Александр Сергеевич": 6,
-      "Хорошилов Руслан Николаевич": 3,
-      "Чернышова Наталия Александровна": 2,
-      "Шевляков Валерий Алексеевич": 42
+      "gas:candidate-vibid:2312000566472": 579,
+      "gas:candidate-vibid:2312000565986": 2,
+      "gas:candidate-vibid:2312000566138": 2,
+      "gas:candidate-vibid:2312000564809": 95,
+      "gas:candidate-vibid:2312000538570": 6,
+      "gas:candidate-vibid:2312000566273": 3,
+      "gas:candidate-vibid:2312000565731": 2,
+      "gas:candidate-vibid:2312000564503": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533597&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533597&type=464",
@@ -8511,14 +8511,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 222,
-      "Порхун Вера Семёновна": 0,
-      "Свищёв Андрей Викторович": 0,
-      "Селиванов Юрий Алексеевич": 15,
-      "Старовойтов Александр Сергеевич": 14,
-      "Хорошилов Руслан Николаевич": 4,
-      "Чернышова Наталия Александровна": 0,
-      "Шевляков Валерий Алексеевич": 0
+      "gas:candidate-vibid:2312000566472": 222,
+      "gas:candidate-vibid:2312000565986": 0,
+      "gas:candidate-vibid:2312000566138": 0,
+      "gas:candidate-vibid:2312000564809": 15,
+      "gas:candidate-vibid:2312000538570": 14,
+      "gas:candidate-vibid:2312000566273": 4,
+      "gas:candidate-vibid:2312000565731": 0,
+      "gas:candidate-vibid:2312000564503": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533597&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533597&type=464",
@@ -8569,14 +8569,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 419,
-      "Порхун Вера Семёновна": 0,
-      "Свищёв Андрей Викторович": 1,
-      "Селиванов Юрий Алексеевич": 20,
-      "Старовойтов Александр Сергеевич": 4,
-      "Хорошилов Руслан Николаевич": 45,
-      "Чернышова Наталия Александровна": 2,
-      "Шевляков Валерий Алексеевич": 0
+      "gas:candidate-vibid:2312000566472": 419,
+      "gas:candidate-vibid:2312000565986": 0,
+      "gas:candidate-vibid:2312000566138": 1,
+      "gas:candidate-vibid:2312000564809": 20,
+      "gas:candidate-vibid:2312000538570": 4,
+      "gas:candidate-vibid:2312000566273": 45,
+      "gas:candidate-vibid:2312000565731": 2,
+      "gas:candidate-vibid:2312000564503": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533597&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533597&type=464",
@@ -8627,14 +8627,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 687,
-      "Порхун Вера Семёновна": 0,
-      "Свищёв Андрей Викторович": 3,
-      "Селиванов Юрий Алексеевич": 25,
-      "Старовойтов Александр Сергеевич": 5,
-      "Хорошилов Руслан Николаевич": 0,
-      "Чернышова Наталия Александровна": 0,
-      "Шевляков Валерий Алексеевич": 51
+      "gas:candidate-vibid:2312000566472": 687,
+      "gas:candidate-vibid:2312000565986": 0,
+      "gas:candidate-vibid:2312000566138": 3,
+      "gas:candidate-vibid:2312000564809": 25,
+      "gas:candidate-vibid:2312000538570": 5,
+      "gas:candidate-vibid:2312000566273": 0,
+      "gas:candidate-vibid:2312000565731": 0,
+      "gas:candidate-vibid:2312000564503": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533597&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533597&type=464",
@@ -8685,14 +8685,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 254,
-      "Порхун Вера Семёновна": 2,
-      "Свищёв Андрей Викторович": 1,
-      "Селиванов Юрий Алексеевич": 5,
-      "Старовойтов Александр Сергеевич": 4,
-      "Хорошилов Руслан Николаевич": 2,
-      "Чернышова Наталия Александровна": 3,
-      "Шевляков Валерий Алексеевич": 9
+      "gas:candidate-vibid:2312000566472": 254,
+      "gas:candidate-vibid:2312000565986": 2,
+      "gas:candidate-vibid:2312000566138": 1,
+      "gas:candidate-vibid:2312000564809": 5,
+      "gas:candidate-vibid:2312000538570": 4,
+      "gas:candidate-vibid:2312000566273": 2,
+      "gas:candidate-vibid:2312000565731": 3,
+      "gas:candidate-vibid:2312000564503": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533597&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533597&type=464",
@@ -8743,14 +8743,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 592,
-      "Порхун Вера Семёновна": 0,
-      "Свищёв Андрей Викторович": 0,
-      "Селиванов Юрий Алексеевич": 66,
-      "Старовойтов Александр Сергеевич": 6,
-      "Хорошилов Руслан Николаевич": 0,
-      "Чернышова Наталия Александровна": 0,
-      "Шевляков Валерий Алексеевич": 25
+      "gas:candidate-vibid:2312000566472": 592,
+      "gas:candidate-vibid:2312000565986": 0,
+      "gas:candidate-vibid:2312000566138": 0,
+      "gas:candidate-vibid:2312000564809": 66,
+      "gas:candidate-vibid:2312000538570": 6,
+      "gas:candidate-vibid:2312000566273": 0,
+      "gas:candidate-vibid:2312000565731": 0,
+      "gas:candidate-vibid:2312000564503": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533597&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533597&type=464",
@@ -8801,14 +8801,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 565,
-      "Порхун Вера Семёновна": 0,
-      "Свищёв Андрей Викторович": 0,
-      "Селиванов Юрий Алексеевич": 27,
-      "Старовойтов Александр Сергеевич": 7,
-      "Хорошилов Руслан Николаевич": 1,
-      "Чернышова Наталия Александровна": 0,
-      "Шевляков Валерий Алексеевич": 23
+      "gas:candidate-vibid:2312000566472": 565,
+      "gas:candidate-vibid:2312000565986": 0,
+      "gas:candidate-vibid:2312000566138": 0,
+      "gas:candidate-vibid:2312000564809": 27,
+      "gas:candidate-vibid:2312000538570": 7,
+      "gas:candidate-vibid:2312000566273": 1,
+      "gas:candidate-vibid:2312000565731": 0,
+      "gas:candidate-vibid:2312000564503": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533597&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533597&type=464",
@@ -8859,14 +8859,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 249,
-      "Порхун Вера Семёновна": 2,
-      "Свищёв Андрей Викторович": 4,
-      "Селиванов Юрий Алексеевич": 8,
-      "Старовойтов Александр Сергеевич": 3,
-      "Хорошилов Руслан Николаевич": 4,
-      "Чернышова Наталия Александровна": 2,
-      "Шевляков Валерий Алексеевич": 16
+      "gas:candidate-vibid:2312000566472": 249,
+      "gas:candidate-vibid:2312000565986": 2,
+      "gas:candidate-vibid:2312000566138": 4,
+      "gas:candidate-vibid:2312000564809": 8,
+      "gas:candidate-vibid:2312000538570": 3,
+      "gas:candidate-vibid:2312000566273": 4,
+      "gas:candidate-vibid:2312000565731": 2,
+      "gas:candidate-vibid:2312000564503": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533597&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533597&type=464",
@@ -8917,14 +8917,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 388,
-      "Порхун Вера Семёновна": 5,
-      "Свищёв Андрей Викторович": 8,
-      "Селиванов Юрий Алексеевич": 19,
-      "Старовойтов Александр Сергеевич": 29,
-      "Хорошилов Руслан Николаевич": 34,
-      "Чернышова Наталия Александровна": 3,
-      "Шевляков Валерий Алексеевич": 10
+      "gas:candidate-vibid:2312000566472": 388,
+      "gas:candidate-vibid:2312000565986": 5,
+      "gas:candidate-vibid:2312000566138": 8,
+      "gas:candidate-vibid:2312000564809": 19,
+      "gas:candidate-vibid:2312000538570": 29,
+      "gas:candidate-vibid:2312000566273": 34,
+      "gas:candidate-vibid:2312000565731": 3,
+      "gas:candidate-vibid:2312000564503": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533597&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533597&type=464",
@@ -8975,14 +8975,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 317,
-      "Порхун Вера Семёновна": 4,
-      "Свищёв Андрей Викторович": 3,
-      "Селиванов Юрий Алексеевич": 7,
-      "Старовойтов Александр Сергеевич": 12,
-      "Хорошилов Руслан Николаевич": 4,
-      "Чернышова Наталия Александровна": 3,
-      "Шевляков Валерий Алексеевич": 12
+      "gas:candidate-vibid:2312000566472": 317,
+      "gas:candidate-vibid:2312000565986": 4,
+      "gas:candidate-vibid:2312000566138": 3,
+      "gas:candidate-vibid:2312000564809": 7,
+      "gas:candidate-vibid:2312000538570": 12,
+      "gas:candidate-vibid:2312000566273": 4,
+      "gas:candidate-vibid:2312000565731": 3,
+      "gas:candidate-vibid:2312000564503": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533597&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533597&type=464",
@@ -9033,14 +9033,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 270,
-      "Порхун Вера Семёновна": 2,
-      "Свищёв Андрей Викторович": 2,
-      "Селиванов Юрий Алексеевич": 6,
-      "Старовойтов Александр Сергеевич": 18,
-      "Хорошилов Руслан Николаевич": 7,
-      "Чернышова Наталия Александровна": 2,
-      "Шевляков Валерий Алексеевич": 8
+      "gas:candidate-vibid:2312000566472": 270,
+      "gas:candidate-vibid:2312000565986": 2,
+      "gas:candidate-vibid:2312000566138": 2,
+      "gas:candidate-vibid:2312000564809": 6,
+      "gas:candidate-vibid:2312000538570": 18,
+      "gas:candidate-vibid:2312000566273": 7,
+      "gas:candidate-vibid:2312000565731": 2,
+      "gas:candidate-vibid:2312000564503": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533597&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533597&type=464",
@@ -9091,14 +9091,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 333,
-      "Порхун Вера Семёновна": 3,
-      "Свищёв Андрей Викторович": 3,
-      "Селиванов Юрий Алексеевич": 9,
-      "Старовойтов Александр Сергеевич": 12,
-      "Хорошилов Руслан Николаевич": 8,
-      "Чернышова Наталия Александровна": 3,
-      "Шевляков Валерий Алексеевич": 6
+      "gas:candidate-vibid:2312000566472": 333,
+      "gas:candidate-vibid:2312000565986": 3,
+      "gas:candidate-vibid:2312000566138": 3,
+      "gas:candidate-vibid:2312000564809": 9,
+      "gas:candidate-vibid:2312000538570": 12,
+      "gas:candidate-vibid:2312000566273": 8,
+      "gas:candidate-vibid:2312000565731": 3,
+      "gas:candidate-vibid:2312000564503": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533597&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533597&type=464",
@@ -9149,14 +9149,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 836,
-      "Порхун Вера Семёновна": 11,
-      "Свищёв Андрей Викторович": 11,
-      "Селиванов Юрий Алексеевич": 37,
-      "Старовойтов Александр Сергеевич": 60,
-      "Хорошилов Руслан Николаевич": 58,
-      "Чернышова Наталия Александровна": 21,
-      "Шевляков Валерий Алексеевич": 61
+      "gas:candidate-vibid:2312000566472": 836,
+      "gas:candidate-vibid:2312000565986": 11,
+      "gas:candidate-vibid:2312000566138": 11,
+      "gas:candidate-vibid:2312000564809": 37,
+      "gas:candidate-vibid:2312000538570": 60,
+      "gas:candidate-vibid:2312000566273": 58,
+      "gas:candidate-vibid:2312000565731": 21,
+      "gas:candidate-vibid:2312000564503": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533597&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533597&type=464",
@@ -9207,14 +9207,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 981,
-      "Порхун Вера Семёновна": 2,
-      "Свищёв Андрей Викторович": 6,
-      "Селиванов Юрий Алексеевич": 121,
-      "Старовойтов Александр Сергеевич": 19,
-      "Хорошилов Руслан Николаевич": 10,
-      "Чернышова Наталия Александровна": 15,
-      "Шевляков Валерий Алексеевич": 188
+      "gas:candidate-vibid:2312000566472": 981,
+      "gas:candidate-vibid:2312000565986": 2,
+      "gas:candidate-vibid:2312000566138": 6,
+      "gas:candidate-vibid:2312000564809": 121,
+      "gas:candidate-vibid:2312000538570": 19,
+      "gas:candidate-vibid:2312000566273": 10,
+      "gas:candidate-vibid:2312000565731": 15,
+      "gas:candidate-vibid:2312000564503": 188
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533597&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533597&type=464",
@@ -9265,14 +9265,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 916,
-      "Порхун Вера Семёновна": 7,
-      "Свищёв Андрей Викторович": 11,
-      "Селиванов Юрий Алексеевич": 43,
-      "Старовойтов Александр Сергеевич": 41,
-      "Хорошилов Руслан Николаевич": 36,
-      "Чернышова Наталия Александровна": 12,
-      "Шевляков Валерий Алексеевич": 140
+      "gas:candidate-vibid:2312000566472": 916,
+      "gas:candidate-vibid:2312000565986": 7,
+      "gas:candidate-vibid:2312000566138": 11,
+      "gas:candidate-vibid:2312000564809": 43,
+      "gas:candidate-vibid:2312000538570": 41,
+      "gas:candidate-vibid:2312000566273": 36,
+      "gas:candidate-vibid:2312000565731": 12,
+      "gas:candidate-vibid:2312000564503": 140
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533597&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533597&type=464",
@@ -9323,14 +9323,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 352,
-      "Порхун Вера Семёновна": 3,
-      "Свищёв Андрей Викторович": 1,
-      "Селиванов Юрий Алексеевич": 36,
-      "Старовойтов Александр Сергеевич": 12,
-      "Хорошилов Руслан Николаевич": 5,
-      "Чернышова Наталия Александровна": 5,
-      "Шевляков Валерий Алексеевич": 63
+      "gas:candidate-vibid:2312000566472": 352,
+      "gas:candidate-vibid:2312000565986": 3,
+      "gas:candidate-vibid:2312000566138": 1,
+      "gas:candidate-vibid:2312000564809": 36,
+      "gas:candidate-vibid:2312000538570": 12,
+      "gas:candidate-vibid:2312000566273": 5,
+      "gas:candidate-vibid:2312000565731": 5,
+      "gas:candidate-vibid:2312000564503": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533597&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533597&type=464",
@@ -9381,14 +9381,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 994,
-      "Порхун Вера Семёновна": 10,
-      "Свищёв Андрей Викторович": 18,
-      "Селиванов Юрий Алексеевич": 79,
-      "Старовойтов Александр Сергеевич": 72,
-      "Хорошилов Руслан Николаевич": 59,
-      "Чернышова Наталия Александровна": 22,
-      "Шевляков Валерий Алексеевич": 60
+      "gas:candidate-vibid:2312000566472": 994,
+      "gas:candidate-vibid:2312000565986": 10,
+      "gas:candidate-vibid:2312000566138": 18,
+      "gas:candidate-vibid:2312000564809": 79,
+      "gas:candidate-vibid:2312000538570": 72,
+      "gas:candidate-vibid:2312000566273": 59,
+      "gas:candidate-vibid:2312000565731": 22,
+      "gas:candidate-vibid:2312000564503": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533597&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533597&type=464",
@@ -9439,14 +9439,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 853,
-      "Порхун Вера Семёновна": 3,
-      "Свищёв Андрей Викторович": 4,
-      "Селиванов Юрий Алексеевич": 50,
-      "Старовойтов Александр Сергеевич": 11,
-      "Хорошилов Руслан Николаевич": 12,
-      "Чернышова Наталия Александровна": 6,
-      "Шевляков Валерий Алексеевич": 82
+      "gas:candidate-vibid:2312000566472": 853,
+      "gas:candidate-vibid:2312000565986": 3,
+      "gas:candidate-vibid:2312000566138": 4,
+      "gas:candidate-vibid:2312000564809": 50,
+      "gas:candidate-vibid:2312000538570": 11,
+      "gas:candidate-vibid:2312000566273": 12,
+      "gas:candidate-vibid:2312000565731": 6,
+      "gas:candidate-vibid:2312000564503": 82
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533597&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533597&type=464",
@@ -9497,14 +9497,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 609,
-      "Порхун Вера Семёновна": 12,
-      "Свищёв Андрей Викторович": 4,
-      "Селиванов Юрий Алексеевич": 45,
-      "Старовойтов Александр Сергеевич": 54,
-      "Хорошилов Руслан Николаевич": 36,
-      "Чернышова Наталия Александровна": 25,
-      "Шевляков Валерий Алексеевич": 57
+      "gas:candidate-vibid:2312000566472": 609,
+      "gas:candidate-vibid:2312000565986": 12,
+      "gas:candidate-vibid:2312000566138": 4,
+      "gas:candidate-vibid:2312000564809": 45,
+      "gas:candidate-vibid:2312000538570": 54,
+      "gas:candidate-vibid:2312000566273": 36,
+      "gas:candidate-vibid:2312000565731": 25,
+      "gas:candidate-vibid:2312000564503": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533597&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533597&type=464",
@@ -9555,14 +9555,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 1096,
-      "Порхун Вера Семёновна": 19,
-      "Свищёв Андрей Викторович": 12,
-      "Селиванов Юрий Алексеевич": 86,
-      "Старовойтов Александр Сергеевич": 75,
-      "Хорошилов Руслан Николаевич": 54,
-      "Чернышова Наталия Александровна": 25,
-      "Шевляков Валерий Алексеевич": 78
+      "gas:candidate-vibid:2312000566472": 1096,
+      "gas:candidate-vibid:2312000565986": 19,
+      "gas:candidate-vibid:2312000566138": 12,
+      "gas:candidate-vibid:2312000564809": 86,
+      "gas:candidate-vibid:2312000538570": 75,
+      "gas:candidate-vibid:2312000566273": 54,
+      "gas:candidate-vibid:2312000565731": 25,
+      "gas:candidate-vibid:2312000564503": 78
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533597&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533597&type=464",
@@ -9613,14 +9613,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 816,
-      "Порхун Вера Семёновна": 10,
-      "Свищёв Андрей Викторович": 10,
-      "Селиванов Юрий Алексеевич": 45,
-      "Старовойтов Александр Сергеевич": 58,
-      "Хорошилов Руслан Николаевич": 39,
-      "Чернышова Наталия Александровна": 26,
-      "Шевляков Валерий Алексеевич": 60
+      "gas:candidate-vibid:2312000566472": 816,
+      "gas:candidate-vibid:2312000565986": 10,
+      "gas:candidate-vibid:2312000566138": 10,
+      "gas:candidate-vibid:2312000564809": 45,
+      "gas:candidate-vibid:2312000538570": 58,
+      "gas:candidate-vibid:2312000566273": 39,
+      "gas:candidate-vibid:2312000565731": 26,
+      "gas:candidate-vibid:2312000564503": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533597&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533597&type=464",
@@ -9671,14 +9671,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 845,
-      "Порхун Вера Семёновна": 17,
-      "Свищёв Андрей Викторович": 12,
-      "Селиванов Юрий Алексеевич": 108,
-      "Старовойтов Александр Сергеевич": 58,
-      "Хорошилов Руслан Николаевич": 44,
-      "Чернышова Наталия Александровна": 16,
-      "Шевляков Валерий Алексеевич": 52
+      "gas:candidate-vibid:2312000566472": 845,
+      "gas:candidate-vibid:2312000565986": 17,
+      "gas:candidate-vibid:2312000566138": 12,
+      "gas:candidate-vibid:2312000564809": 108,
+      "gas:candidate-vibid:2312000538570": 58,
+      "gas:candidate-vibid:2312000566273": 44,
+      "gas:candidate-vibid:2312000565731": 16,
+      "gas:candidate-vibid:2312000564503": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533597&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533597&type=464",
@@ -9729,14 +9729,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 272,
-      "Порхун Вера Семёновна": 7,
-      "Свищёв Андрей Викторович": 8,
-      "Селиванов Юрий Алексеевич": 12,
-      "Старовойтов Александр Сергеевич": 8,
-      "Хорошилов Руслан Николаевич": 9,
-      "Чернышова Наталия Александровна": 8,
-      "Шевляков Валерий Алексеевич": 6
+      "gas:candidate-vibid:2312000566472": 272,
+      "gas:candidate-vibid:2312000565986": 7,
+      "gas:candidate-vibid:2312000566138": 8,
+      "gas:candidate-vibid:2312000564809": 12,
+      "gas:candidate-vibid:2312000538570": 8,
+      "gas:candidate-vibid:2312000566273": 9,
+      "gas:candidate-vibid:2312000565731": 8,
+      "gas:candidate-vibid:2312000564503": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533597&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533597&type=464",
@@ -9787,14 +9787,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 522,
-      "Порхун Вера Семёновна": 0,
-      "Свищёв Андрей Викторович": 0,
-      "Селиванов Юрий Алексеевич": 16,
-      "Старовойтов Александр Сергеевич": 11,
-      "Хорошилов Руслан Николаевич": 0,
-      "Чернышова Наталия Александровна": 0,
-      "Шевляков Валерий Алексеевич": 7
+      "gas:candidate-vibid:2312000566472": 522,
+      "gas:candidate-vibid:2312000565986": 0,
+      "gas:candidate-vibid:2312000566138": 0,
+      "gas:candidate-vibid:2312000564809": 16,
+      "gas:candidate-vibid:2312000538570": 11,
+      "gas:candidate-vibid:2312000566273": 0,
+      "gas:candidate-vibid:2312000565731": 0,
+      "gas:candidate-vibid:2312000564503": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533597&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533597&type=464",
@@ -9845,14 +9845,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 730,
-      "Порхун Вера Семёновна": 9,
-      "Свищёв Андрей Викторович": 6,
-      "Селиванов Юрий Алексеевич": 48,
-      "Старовойтов Александр Сергеевич": 37,
-      "Хорошилов Руслан Николаевич": 42,
-      "Чернышова Наталия Александровна": 25,
-      "Шевляков Валерий Алексеевич": 91
+      "gas:candidate-vibid:2312000566472": 730,
+      "gas:candidate-vibid:2312000565986": 9,
+      "gas:candidate-vibid:2312000566138": 6,
+      "gas:candidate-vibid:2312000564809": 48,
+      "gas:candidate-vibid:2312000538570": 37,
+      "gas:candidate-vibid:2312000566273": 42,
+      "gas:candidate-vibid:2312000565731": 25,
+      "gas:candidate-vibid:2312000564503": 91
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533597&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533597&type=464",
@@ -9903,14 +9903,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 537,
-      "Порхун Вера Семёновна": 14,
-      "Свищёв Андрей Викторович": 4,
-      "Селиванов Юрий Алексеевич": 50,
-      "Старовойтов Александр Сергеевич": 14,
-      "Хорошилов Руслан Николаевич": 2,
-      "Чернышова Наталия Александровна": 3,
-      "Шевляков Валерий Алексеевич": 72
+      "gas:candidate-vibid:2312000566472": 537,
+      "gas:candidate-vibid:2312000565986": 14,
+      "gas:candidate-vibid:2312000566138": 4,
+      "gas:candidate-vibid:2312000564809": 50,
+      "gas:candidate-vibid:2312000538570": 14,
+      "gas:candidate-vibid:2312000566273": 2,
+      "gas:candidate-vibid:2312000565731": 3,
+      "gas:candidate-vibid:2312000564503": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533597&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533597&type=464",
@@ -9961,14 +9961,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 447,
-      "Порхун Вера Семёновна": 7,
-      "Свищёв Андрей Викторович": 13,
-      "Селиванов Юрий Алексеевич": 41,
-      "Старовойтов Александр Сергеевич": 42,
-      "Хорошилов Руслан Николаевич": 41,
-      "Чернышова Наталия Александровна": 15,
-      "Шевляков Валерий Алексеевич": 36
+      "gas:candidate-vibid:2312000566472": 447,
+      "gas:candidate-vibid:2312000565986": 7,
+      "gas:candidate-vibid:2312000566138": 13,
+      "gas:candidate-vibid:2312000564809": 41,
+      "gas:candidate-vibid:2312000538570": 42,
+      "gas:candidate-vibid:2312000566273": 41,
+      "gas:candidate-vibid:2312000565731": 15,
+      "gas:candidate-vibid:2312000564503": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533597&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533597&type=464",
@@ -10019,14 +10019,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 516,
-      "Порхун Вера Семёновна": 16,
-      "Свищёв Андрей Викторович": 16,
-      "Селиванов Юрий Алексеевич": 36,
-      "Старовойтов Александр Сергеевич": 64,
-      "Хорошилов Руслан Николаевич": 48,
-      "Чернышова Наталия Александровна": 23,
-      "Шевляков Валерий Алексеевич": 56
+      "gas:candidate-vibid:2312000566472": 516,
+      "gas:candidate-vibid:2312000565986": 16,
+      "gas:candidate-vibid:2312000566138": 16,
+      "gas:candidate-vibid:2312000564809": 36,
+      "gas:candidate-vibid:2312000538570": 64,
+      "gas:candidate-vibid:2312000566273": 48,
+      "gas:candidate-vibid:2312000565731": 23,
+      "gas:candidate-vibid:2312000564503": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533598&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533598&type=464",
@@ -10077,14 +10077,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 140,
-      "Порхун Вера Семёновна": 7,
-      "Свищёв Андрей Викторович": 7,
-      "Селиванов Юрий Алексеевич": 9,
-      "Старовойтов Александр Сергеевич": 19,
-      "Хорошилов Руслан Николаевич": 21,
-      "Чернышова Наталия Александровна": 4,
-      "Шевляков Валерий Алексеевич": 8
+      "gas:candidate-vibid:2312000566472": 140,
+      "gas:candidate-vibid:2312000565986": 7,
+      "gas:candidate-vibid:2312000566138": 7,
+      "gas:candidate-vibid:2312000564809": 9,
+      "gas:candidate-vibid:2312000538570": 19,
+      "gas:candidate-vibid:2312000566273": 21,
+      "gas:candidate-vibid:2312000565731": 4,
+      "gas:candidate-vibid:2312000564503": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533598&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533598&type=464",
@@ -10135,14 +10135,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 244,
-      "Порхун Вера Семёновна": 4,
-      "Свищёв Андрей Викторович": 7,
-      "Селиванов Юрий Алексеевич": 12,
-      "Старовойтов Александр Сергеевич": 27,
-      "Хорошилов Руслан Николаевич": 6,
-      "Чернышова Наталия Александровна": 8,
-      "Шевляков Валерий Алексеевич": 10
+      "gas:candidate-vibid:2312000566472": 244,
+      "gas:candidate-vibid:2312000565986": 4,
+      "gas:candidate-vibid:2312000566138": 7,
+      "gas:candidate-vibid:2312000564809": 12,
+      "gas:candidate-vibid:2312000538570": 27,
+      "gas:candidate-vibid:2312000566273": 6,
+      "gas:candidate-vibid:2312000565731": 8,
+      "gas:candidate-vibid:2312000564503": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533598&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533598&type=464",
@@ -10193,14 +10193,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 502,
-      "Порхун Вера Семёновна": 12,
-      "Свищёв Андрей Викторович": 11,
-      "Селиванов Юрий Алексеевич": 28,
-      "Старовойтов Александр Сергеевич": 45,
-      "Хорошилов Руслан Николаевич": 33,
-      "Чернышова Наталия Александровна": 21,
-      "Шевляков Валерий Алексеевич": 25
+      "gas:candidate-vibid:2312000566472": 502,
+      "gas:candidate-vibid:2312000565986": 12,
+      "gas:candidate-vibid:2312000566138": 11,
+      "gas:candidate-vibid:2312000564809": 28,
+      "gas:candidate-vibid:2312000538570": 45,
+      "gas:candidate-vibid:2312000566273": 33,
+      "gas:candidate-vibid:2312000565731": 21,
+      "gas:candidate-vibid:2312000564503": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533598&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533598&type=464",
@@ -10251,14 +10251,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 332,
-      "Порхун Вера Семёновна": 1,
-      "Свищёв Андрей Викторович": 0,
-      "Селиванов Юрий Алексеевич": 5,
-      "Старовойтов Александр Сергеевич": 12,
-      "Хорошилов Руслан Николаевич": 4,
-      "Чернышова Наталия Александровна": 1,
-      "Шевляков Валерий Алексеевич": 5
+      "gas:candidate-vibid:2312000566472": 332,
+      "gas:candidate-vibid:2312000565986": 1,
+      "gas:candidate-vibid:2312000566138": 0,
+      "gas:candidate-vibid:2312000564809": 5,
+      "gas:candidate-vibid:2312000538570": 12,
+      "gas:candidate-vibid:2312000566273": 4,
+      "gas:candidate-vibid:2312000565731": 1,
+      "gas:candidate-vibid:2312000564503": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533598&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533598&type=464",
@@ -10309,14 +10309,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 176,
-      "Порхун Вера Семёновна": 3,
-      "Свищёв Андрей Викторович": 5,
-      "Селиванов Юрий Алексеевич": 5,
-      "Старовойтов Александр Сергеевич": 23,
-      "Хорошилов Руслан Николаевич": 12,
-      "Чернышова Наталия Александровна": 8,
-      "Шевляков Валерий Алексеевич": 6
+      "gas:candidate-vibid:2312000566472": 176,
+      "gas:candidate-vibid:2312000565986": 3,
+      "gas:candidate-vibid:2312000566138": 5,
+      "gas:candidate-vibid:2312000564809": 5,
+      "gas:candidate-vibid:2312000538570": 23,
+      "gas:candidate-vibid:2312000566273": 12,
+      "gas:candidate-vibid:2312000565731": 8,
+      "gas:candidate-vibid:2312000564503": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533598&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533598&type=464",
@@ -10367,14 +10367,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 450,
-      "Порхун Вера Семёновна": 2,
-      "Свищёв Андрей Викторович": 6,
-      "Селиванов Юрий Алексеевич": 63,
-      "Старовойтов Александр Сергеевич": 9,
-      "Хорошилов Руслан Николаевич": 14,
-      "Чернышова Наталия Александровна": 3,
-      "Шевляков Валерий Алексеевич": 5
+      "gas:candidate-vibid:2312000566472": 450,
+      "gas:candidate-vibid:2312000565986": 2,
+      "gas:candidate-vibid:2312000566138": 6,
+      "gas:candidate-vibid:2312000564809": 63,
+      "gas:candidate-vibid:2312000538570": 9,
+      "gas:candidate-vibid:2312000566273": 14,
+      "gas:candidate-vibid:2312000565731": 3,
+      "gas:candidate-vibid:2312000564503": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533598&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533598&type=464",
@@ -10425,14 +10425,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 145,
-      "Порхун Вера Семёновна": 0,
-      "Свищёв Андрей Викторович": 1,
-      "Селиванов Юрий Алексеевич": 3,
-      "Старовойтов Александр Сергеевич": 9,
-      "Хорошилов Руслан Николаевич": 3,
-      "Чернышова Наталия Александровна": 2,
-      "Шевляков Валерий Алексеевич": 2
+      "gas:candidate-vibid:2312000566472": 145,
+      "gas:candidate-vibid:2312000565986": 0,
+      "gas:candidate-vibid:2312000566138": 1,
+      "gas:candidate-vibid:2312000564809": 3,
+      "gas:candidate-vibid:2312000538570": 9,
+      "gas:candidate-vibid:2312000566273": 3,
+      "gas:candidate-vibid:2312000565731": 2,
+      "gas:candidate-vibid:2312000564503": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533598&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533598&type=464",
@@ -10483,14 +10483,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 469,
-      "Порхун Вера Семёновна": 3,
-      "Свищёв Андрей Викторович": 7,
-      "Селиванов Юрий Алексеевич": 17,
-      "Старовойтов Александр Сергеевич": 35,
-      "Хорошилов Руслан Николаевич": 11,
-      "Чернышова Наталия Александровна": 5,
-      "Шевляков Валерий Алексеевич": 14
+      "gas:candidate-vibid:2312000566472": 469,
+      "gas:candidate-vibid:2312000565986": 3,
+      "gas:candidate-vibid:2312000566138": 7,
+      "gas:candidate-vibid:2312000564809": 17,
+      "gas:candidate-vibid:2312000538570": 35,
+      "gas:candidate-vibid:2312000566273": 11,
+      "gas:candidate-vibid:2312000565731": 5,
+      "gas:candidate-vibid:2312000564503": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533598&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533598&type=464",
@@ -10541,14 +10541,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 102,
-      "Порхун Вера Семёновна": 0,
-      "Свищёв Андрей Викторович": 2,
-      "Селиванов Юрий Алексеевич": 1,
-      "Старовойтов Александр Сергеевич": 2,
-      "Хорошилов Руслан Николаевич": 1,
-      "Чернышова Наталия Александровна": 1,
-      "Шевляков Валерий Алексеевич": 3
+      "gas:candidate-vibid:2312000566472": 102,
+      "gas:candidate-vibid:2312000565986": 0,
+      "gas:candidate-vibid:2312000566138": 2,
+      "gas:candidate-vibid:2312000564809": 1,
+      "gas:candidate-vibid:2312000538570": 2,
+      "gas:candidate-vibid:2312000566273": 1,
+      "gas:candidate-vibid:2312000565731": 1,
+      "gas:candidate-vibid:2312000564503": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533598&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533598&type=464",
@@ -10599,14 +10599,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 282,
-      "Порхун Вера Семёновна": 3,
-      "Свищёв Андрей Викторович": 1,
-      "Селиванов Юрий Алексеевич": 15,
-      "Старовойтов Александр Сергеевич": 5,
-      "Хорошилов Руслан Николаевич": 1,
-      "Чернышова Наталия Александровна": 3,
-      "Шевляков Валерий Алексеевич": 5
+      "gas:candidate-vibid:2312000566472": 282,
+      "gas:candidate-vibid:2312000565986": 3,
+      "gas:candidate-vibid:2312000566138": 1,
+      "gas:candidate-vibid:2312000564809": 15,
+      "gas:candidate-vibid:2312000538570": 5,
+      "gas:candidate-vibid:2312000566273": 1,
+      "gas:candidate-vibid:2312000565731": 3,
+      "gas:candidate-vibid:2312000564503": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533598&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533598&type=464",
@@ -10657,14 +10657,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 277,
-      "Порхун Вера Семёновна": 0,
-      "Свищёв Андрей Викторович": 0,
-      "Селиванов Юрий Алексеевич": 13,
-      "Старовойтов Александр Сергеевич": 10,
-      "Хорошилов Руслан Николаевич": 5,
-      "Чернышова Наталия Александровна": 4,
-      "Шевляков Валерий Алексеевич": 10
+      "gas:candidate-vibid:2312000566472": 277,
+      "gas:candidate-vibid:2312000565986": 0,
+      "gas:candidate-vibid:2312000566138": 0,
+      "gas:candidate-vibid:2312000564809": 13,
+      "gas:candidate-vibid:2312000538570": 10,
+      "gas:candidate-vibid:2312000566273": 5,
+      "gas:candidate-vibid:2312000565731": 4,
+      "gas:candidate-vibid:2312000564503": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533598&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533598&type=464",
@@ -10715,14 +10715,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 108,
-      "Порхун Вера Семёновна": 0,
-      "Свищёв Андрей Викторович": 0,
-      "Селиванов Юрий Алексеевич": 17,
-      "Старовойтов Александр Сергеевич": 1,
-      "Хорошилов Руслан Николаевич": 2,
-      "Чернышова Наталия Александровна": 0,
-      "Шевляков Валерий Алексеевич": 0
+      "gas:candidate-vibid:2312000566472": 108,
+      "gas:candidate-vibid:2312000565986": 0,
+      "gas:candidate-vibid:2312000566138": 0,
+      "gas:candidate-vibid:2312000564809": 17,
+      "gas:candidate-vibid:2312000538570": 1,
+      "gas:candidate-vibid:2312000566273": 2,
+      "gas:candidate-vibid:2312000565731": 0,
+      "gas:candidate-vibid:2312000564503": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533598&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533598&type=464",
@@ -10773,14 +10773,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 81,
-      "Порхун Вера Семёновна": 4,
-      "Свищёв Андрей Викторович": 3,
-      "Селиванов Юрий Алексеевич": 18,
-      "Старовойтов Александр Сергеевич": 7,
-      "Хорошилов Руслан Николаевич": 5,
-      "Чернышова Наталия Александровна": 3,
-      "Шевляков Валерий Алексеевич": 16
+      "gas:candidate-vibid:2312000566472": 81,
+      "gas:candidate-vibid:2312000565986": 4,
+      "gas:candidate-vibid:2312000566138": 3,
+      "gas:candidate-vibid:2312000564809": 18,
+      "gas:candidate-vibid:2312000538570": 7,
+      "gas:candidate-vibid:2312000566273": 5,
+      "gas:candidate-vibid:2312000565731": 3,
+      "gas:candidate-vibid:2312000564503": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533598&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533598&type=464",
@@ -10831,14 +10831,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 316,
-      "Порхун Вера Семёновна": 0,
-      "Свищёв Андрей Викторович": 0,
-      "Селиванов Юрий Алексеевич": 5,
-      "Старовойтов Александр Сергеевич": 2,
-      "Хорошилов Руслан Николаевич": 0,
-      "Чернышова Наталия Александровна": 0,
-      "Шевляков Валерий Алексеевич": 1
+      "gas:candidate-vibid:2312000566472": 316,
+      "gas:candidate-vibid:2312000565986": 0,
+      "gas:candidate-vibid:2312000566138": 0,
+      "gas:candidate-vibid:2312000564809": 5,
+      "gas:candidate-vibid:2312000538570": 2,
+      "gas:candidate-vibid:2312000566273": 0,
+      "gas:candidate-vibid:2312000565731": 0,
+      "gas:candidate-vibid:2312000564503": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533598&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533598&type=464",
@@ -10889,14 +10889,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 237,
-      "Порхун Вера Семёновна": 2,
-      "Свищёв Андрей Викторович": 3,
-      "Селиванов Юрий Алексеевич": 10,
-      "Старовойтов Александр Сергеевич": 5,
-      "Хорошилов Руслан Николаевич": 1,
-      "Чернышова Наталия Александровна": 3,
-      "Шевляков Валерий Алексеевич": 8
+      "gas:candidate-vibid:2312000566472": 237,
+      "gas:candidate-vibid:2312000565986": 2,
+      "gas:candidate-vibid:2312000566138": 3,
+      "gas:candidate-vibid:2312000564809": 10,
+      "gas:candidate-vibid:2312000538570": 5,
+      "gas:candidate-vibid:2312000566273": 1,
+      "gas:candidate-vibid:2312000565731": 3,
+      "gas:candidate-vibid:2312000564503": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533598&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533598&type=464",
@@ -10947,14 +10947,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 353,
-      "Порхун Вера Семёновна": 1,
-      "Свищёв Андрей Викторович": 0,
-      "Селиванов Юрий Алексеевич": 3,
-      "Старовойтов Александр Сергеевич": 8,
-      "Хорошилов Руслан Николаевич": 5,
-      "Чернышова Наталия Александровна": 3,
-      "Шевляков Валерий Алексеевич": 9
+      "gas:candidate-vibid:2312000566472": 353,
+      "gas:candidate-vibid:2312000565986": 1,
+      "gas:candidate-vibid:2312000566138": 0,
+      "gas:candidate-vibid:2312000564809": 3,
+      "gas:candidate-vibid:2312000538570": 8,
+      "gas:candidate-vibid:2312000566273": 5,
+      "gas:candidate-vibid:2312000565731": 3,
+      "gas:candidate-vibid:2312000564503": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533598&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533598&type=464",
@@ -11005,14 +11005,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 263,
-      "Порхун Вера Семёновна": 3,
-      "Свищёв Андрей Викторович": 5,
-      "Селиванов Юрий Алексеевич": 15,
-      "Старовойтов Александр Сергеевич": 22,
-      "Хорошилов Руслан Николаевич": 23,
-      "Чернышова Наталия Александровна": 10,
-      "Шевляков Валерий Алексеевич": 19
+      "gas:candidate-vibid:2312000566472": 263,
+      "gas:candidate-vibid:2312000565986": 3,
+      "gas:candidate-vibid:2312000566138": 5,
+      "gas:candidate-vibid:2312000564809": 15,
+      "gas:candidate-vibid:2312000538570": 22,
+      "gas:candidate-vibid:2312000566273": 23,
+      "gas:candidate-vibid:2312000565731": 10,
+      "gas:candidate-vibid:2312000564503": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533598&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533598&type=464",
@@ -11063,14 +11063,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 150,
-      "Порхун Вера Семёновна": 2,
-      "Свищёв Андрей Викторович": 2,
-      "Селиванов Юрий Алексеевич": 5,
-      "Старовойтов Александр Сергеевич": 4,
-      "Хорошилов Руслан Николаевич": 2,
-      "Чернышова Наталия Александровна": 0,
-      "Шевляков Валерий Алексеевич": 2
+      "gas:candidate-vibid:2312000566472": 150,
+      "gas:candidate-vibid:2312000565986": 2,
+      "gas:candidate-vibid:2312000566138": 2,
+      "gas:candidate-vibid:2312000564809": 5,
+      "gas:candidate-vibid:2312000538570": 4,
+      "gas:candidate-vibid:2312000566273": 2,
+      "gas:candidate-vibid:2312000565731": 0,
+      "gas:candidate-vibid:2312000564503": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533598&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533598&type=464",
@@ -11121,14 +11121,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 128,
-      "Порхун Вера Семёновна": 3,
-      "Свищёв Андрей Викторович": 1,
-      "Селиванов Юрий Алексеевич": 6,
-      "Старовойтов Александр Сергеевич": 16,
-      "Хорошилов Руслан Николаевич": 3,
-      "Чернышова Наталия Александровна": 0,
-      "Шевляков Валерий Алексеевич": 4
+      "gas:candidate-vibid:2312000566472": 128,
+      "gas:candidate-vibid:2312000565986": 3,
+      "gas:candidate-vibid:2312000566138": 1,
+      "gas:candidate-vibid:2312000564809": 6,
+      "gas:candidate-vibid:2312000538570": 16,
+      "gas:candidate-vibid:2312000566273": 3,
+      "gas:candidate-vibid:2312000565731": 0,
+      "gas:candidate-vibid:2312000564503": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533598&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533598&type=464",
@@ -11179,14 +11179,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 274,
-      "Порхун Вера Семёновна": 3,
-      "Свищёв Андрей Викторович": 2,
-      "Селиванов Юрий Алексеевич": 10,
-      "Старовойтов Александр Сергеевич": 19,
-      "Хорошилов Руслан Николаевич": 15,
-      "Чернышова Наталия Александровна": 5,
-      "Шевляков Валерий Алексеевич": 13
+      "gas:candidate-vibid:2312000566472": 274,
+      "gas:candidate-vibid:2312000565986": 3,
+      "gas:candidate-vibid:2312000566138": 2,
+      "gas:candidate-vibid:2312000564809": 10,
+      "gas:candidate-vibid:2312000538570": 19,
+      "gas:candidate-vibid:2312000566273": 15,
+      "gas:candidate-vibid:2312000565731": 5,
+      "gas:candidate-vibid:2312000564503": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533598&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533598&type=464",
@@ -11237,14 +11237,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 242,
-      "Порхун Вера Семёновна": 6,
-      "Свищёв Андрей Викторович": 3,
-      "Селиванов Юрий Алексеевич": 7,
-      "Старовойтов Александр Сергеевич": 8,
-      "Хорошилов Руслан Николаевич": 15,
-      "Чернышова Наталия Александровна": 2,
-      "Шевляков Валерий Алексеевич": 18
+      "gas:candidate-vibid:2312000566472": 242,
+      "gas:candidate-vibid:2312000565986": 6,
+      "gas:candidate-vibid:2312000566138": 3,
+      "gas:candidate-vibid:2312000564809": 7,
+      "gas:candidate-vibid:2312000538570": 8,
+      "gas:candidate-vibid:2312000566273": 15,
+      "gas:candidate-vibid:2312000565731": 2,
+      "gas:candidate-vibid:2312000564503": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533598&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533598&type=464",
@@ -11295,14 +11295,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 88,
-      "Порхун Вера Семёновна": 2,
-      "Свищёв Андрей Викторович": 2,
-      "Селиванов Юрий Алексеевич": 7,
-      "Старовойтов Александр Сергеевич": 5,
-      "Хорошилов Руслан Николаевич": 3,
-      "Чернышова Наталия Александровна": 0,
-      "Шевляков Валерий Алексеевич": 3
+      "gas:candidate-vibid:2312000566472": 88,
+      "gas:candidate-vibid:2312000565986": 2,
+      "gas:candidate-vibid:2312000566138": 2,
+      "gas:candidate-vibid:2312000564809": 7,
+      "gas:candidate-vibid:2312000538570": 5,
+      "gas:candidate-vibid:2312000566273": 3,
+      "gas:candidate-vibid:2312000565731": 0,
+      "gas:candidate-vibid:2312000564503": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533598&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533598&type=464",
@@ -11353,14 +11353,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 558,
-      "Порхун Вера Семёновна": 6,
-      "Свищёв Андрей Викторович": 7,
-      "Селиванов Юрий Алексеевич": 29,
-      "Старовойтов Александр Сергеевич": 25,
-      "Хорошилов Руслан Николаевич": 22,
-      "Чернышова Наталия Александровна": 9,
-      "Шевляков Валерий Алексеевич": 19
+      "gas:candidate-vibid:2312000566472": 558,
+      "gas:candidate-vibid:2312000565986": 6,
+      "gas:candidate-vibid:2312000566138": 7,
+      "gas:candidate-vibid:2312000564809": 29,
+      "gas:candidate-vibid:2312000538570": 25,
+      "gas:candidate-vibid:2312000566273": 22,
+      "gas:candidate-vibid:2312000565731": 9,
+      "gas:candidate-vibid:2312000564503": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533598&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533598&type=464",
@@ -11411,14 +11411,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 111,
-      "Порхун Вера Семёновна": 1,
-      "Свищёв Андрей Викторович": 0,
-      "Селиванов Юрий Алексеевич": 5,
-      "Старовойтов Александр Сергеевич": 8,
-      "Хорошилов Руслан Николаевич": 0,
-      "Чернышова Наталия Александровна": 5,
-      "Шевляков Валерий Алексеевич": 4
+      "gas:candidate-vibid:2312000566472": 111,
+      "gas:candidate-vibid:2312000565986": 1,
+      "gas:candidate-vibid:2312000566138": 0,
+      "gas:candidate-vibid:2312000564809": 5,
+      "gas:candidate-vibid:2312000538570": 8,
+      "gas:candidate-vibid:2312000566273": 0,
+      "gas:candidate-vibid:2312000565731": 5,
+      "gas:candidate-vibid:2312000564503": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533598&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533598&type=464",
@@ -11469,14 +11469,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 541,
-      "Порхун Вера Семёновна": 2,
-      "Свищёв Андрей Викторович": 3,
-      "Селиванов Юрий Алексеевич": 25,
-      "Старовойтов Александр Сергеевич": 38,
-      "Хорошилов Руслан Николаевич": 6,
-      "Чернышова Наталия Александровна": 2,
-      "Шевляков Валерий Алексеевич": 34
+      "gas:candidate-vibid:2312000566472": 541,
+      "gas:candidate-vibid:2312000565986": 2,
+      "gas:candidate-vibid:2312000566138": 3,
+      "gas:candidate-vibid:2312000564809": 25,
+      "gas:candidate-vibid:2312000538570": 38,
+      "gas:candidate-vibid:2312000566273": 6,
+      "gas:candidate-vibid:2312000565731": 2,
+      "gas:candidate-vibid:2312000564503": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533598&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533598&type=464",
@@ -11527,14 +11527,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 130,
-      "Порхун Вера Семёновна": 2,
-      "Свищёв Андрей Викторович": 0,
-      "Селиванов Юрий Алексеевич": 5,
-      "Старовойтов Александр Сергеевич": 4,
-      "Хорошилов Руслан Николаевич": 4,
-      "Чернышова Наталия Александровна": 2,
-      "Шевляков Валерий Алексеевич": 5
+      "gas:candidate-vibid:2312000566472": 130,
+      "gas:candidate-vibid:2312000565986": 2,
+      "gas:candidate-vibid:2312000566138": 0,
+      "gas:candidate-vibid:2312000564809": 5,
+      "gas:candidate-vibid:2312000538570": 4,
+      "gas:candidate-vibid:2312000566273": 4,
+      "gas:candidate-vibid:2312000565731": 2,
+      "gas:candidate-vibid:2312000564503": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533598&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533598&type=464",
@@ -11585,14 +11585,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 180,
-      "Порхун Вера Семёновна": 6,
-      "Свищёв Андрей Викторович": 1,
-      "Селиванов Юрий Алексеевич": 4,
-      "Старовойтов Александр Сергеевич": 10,
-      "Хорошилов Руслан Николаевич": 10,
-      "Чернышова Наталия Александровна": 4,
-      "Шевляков Валерий Алексеевич": 13
+      "gas:candidate-vibid:2312000566472": 180,
+      "gas:candidate-vibid:2312000565986": 6,
+      "gas:candidate-vibid:2312000566138": 1,
+      "gas:candidate-vibid:2312000564809": 4,
+      "gas:candidate-vibid:2312000538570": 10,
+      "gas:candidate-vibid:2312000566273": 10,
+      "gas:candidate-vibid:2312000565731": 4,
+      "gas:candidate-vibid:2312000564503": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533598&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533598&type=464",
@@ -11643,14 +11643,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 130,
-      "Порхун Вера Семёновна": 7,
-      "Свищёв Андрей Викторович": 7,
-      "Селиванов Юрий Алексеевич": 8,
-      "Старовойтов Александр Сергеевич": 9,
-      "Хорошилов Руслан Николаевич": 6,
-      "Чернышова Наталия Александровна": 0,
-      "Шевляков Валерий Алексеевич": 6
+      "gas:candidate-vibid:2312000566472": 130,
+      "gas:candidate-vibid:2312000565986": 7,
+      "gas:candidate-vibid:2312000566138": 7,
+      "gas:candidate-vibid:2312000564809": 8,
+      "gas:candidate-vibid:2312000538570": 9,
+      "gas:candidate-vibid:2312000566273": 6,
+      "gas:candidate-vibid:2312000565731": 0,
+      "gas:candidate-vibid:2312000564503": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533598&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533598&type=464",
@@ -11701,14 +11701,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 138,
-      "Порхун Вера Семёновна": 5,
-      "Свищёв Андрей Викторович": 2,
-      "Селиванов Юрий Алексеевич": 8,
-      "Старовойтов Александр Сергеевич": 19,
-      "Хорошилов Руслан Николаевич": 9,
-      "Чернышова Наталия Александровна": 16,
-      "Шевляков Валерий Алексеевич": 17
+      "gas:candidate-vibid:2312000566472": 138,
+      "gas:candidate-vibid:2312000565986": 5,
+      "gas:candidate-vibid:2312000566138": 2,
+      "gas:candidate-vibid:2312000564809": 8,
+      "gas:candidate-vibid:2312000538570": 19,
+      "gas:candidate-vibid:2312000566273": 9,
+      "gas:candidate-vibid:2312000565731": 16,
+      "gas:candidate-vibid:2312000564503": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533598&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533598&type=464",
@@ -11759,14 +11759,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 83,
-      "Порхун Вера Семёновна": 3,
-      "Свищёв Андрей Викторович": 1,
-      "Селиванов Юрий Алексеевич": 2,
-      "Старовойтов Александр Сергеевич": 10,
-      "Хорошилов Руслан Николаевич": 6,
-      "Чернышова Наталия Александровна": 0,
-      "Шевляков Валерий Алексеевич": 9
+      "gas:candidate-vibid:2312000566472": 83,
+      "gas:candidate-vibid:2312000565986": 3,
+      "gas:candidate-vibid:2312000566138": 1,
+      "gas:candidate-vibid:2312000564809": 2,
+      "gas:candidate-vibid:2312000538570": 10,
+      "gas:candidate-vibid:2312000566273": 6,
+      "gas:candidate-vibid:2312000565731": 0,
+      "gas:candidate-vibid:2312000564503": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533598&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533598&type=464",
@@ -11817,14 +11817,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 492,
-      "Порхун Вера Семёновна": 1,
-      "Свищёв Андрей Викторович": 2,
-      "Селиванов Юрий Алексеевич": 18,
-      "Старовойтов Александр Сергеевич": 21,
-      "Хорошилов Руслан Николаевич": 18,
-      "Чернышова Наталия Александровна": 8,
-      "Шевляков Валерий Алексеевич": 13
+      "gas:candidate-vibid:2312000566472": 492,
+      "gas:candidate-vibid:2312000565986": 1,
+      "gas:candidate-vibid:2312000566138": 2,
+      "gas:candidate-vibid:2312000564809": 18,
+      "gas:candidate-vibid:2312000538570": 21,
+      "gas:candidate-vibid:2312000566273": 18,
+      "gas:candidate-vibid:2312000565731": 8,
+      "gas:candidate-vibid:2312000564503": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533598&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533598&type=464",
@@ -11875,14 +11875,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 477,
-      "Порхун Вера Семёновна": 13,
-      "Свищёв Андрей Викторович": 8,
-      "Селиванов Юрий Алексеевич": 117,
-      "Старовойтов Александр Сергеевич": 115,
-      "Хорошилов Руслан Николаевич": 60,
-      "Чернышова Наталия Александровна": 24,
-      "Шевляков Валерий Алексеевич": 48
+      "gas:candidate-vibid:2312000566472": 477,
+      "gas:candidate-vibid:2312000565986": 13,
+      "gas:candidate-vibid:2312000566138": 8,
+      "gas:candidate-vibid:2312000564809": 117,
+      "gas:candidate-vibid:2312000538570": 115,
+      "gas:candidate-vibid:2312000566273": 60,
+      "gas:candidate-vibid:2312000565731": 24,
+      "gas:candidate-vibid:2312000564503": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533598&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533598&type=464",
@@ -11933,14 +11933,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 529,
-      "Порхун Вера Семёновна": 16,
-      "Свищёв Андрей Викторович": 8,
-      "Селиванов Юрий Алексеевич": 53,
-      "Старовойтов Александр Сергеевич": 75,
-      "Хорошилов Руслан Николаевич": 33,
-      "Чернышова Наталия Александровна": 28,
-      "Шевляков Валерий Алексеевич": 49
+      "gas:candidate-vibid:2312000566472": 529,
+      "gas:candidate-vibid:2312000565986": 16,
+      "gas:candidate-vibid:2312000566138": 8,
+      "gas:candidate-vibid:2312000564809": 53,
+      "gas:candidate-vibid:2312000538570": 75,
+      "gas:candidate-vibid:2312000566273": 33,
+      "gas:candidate-vibid:2312000565731": 28,
+      "gas:candidate-vibid:2312000564503": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533598&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533598&type=464",
@@ -11991,14 +11991,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 725,
-      "Порхун Вера Семёновна": 24,
-      "Свищёв Андрей Викторович": 21,
-      "Селиванов Юрий Алексеевич": 53,
-      "Старовойтов Александр Сергеевич": 70,
-      "Хорошилов Руслан Николаевич": 42,
-      "Чернышова Наталия Александровна": 39,
-      "Шевляков Валерий Алексеевич": 54
+      "gas:candidate-vibid:2312000566472": 725,
+      "gas:candidate-vibid:2312000565986": 24,
+      "gas:candidate-vibid:2312000566138": 21,
+      "gas:candidate-vibid:2312000564809": 53,
+      "gas:candidate-vibid:2312000538570": 70,
+      "gas:candidate-vibid:2312000566273": 42,
+      "gas:candidate-vibid:2312000565731": 39,
+      "gas:candidate-vibid:2312000564503": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533598&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533598&type=464",
@@ -12049,14 +12049,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 869,
-      "Порхун Вера Семёновна": 6,
-      "Свищёв Андрей Викторович": 4,
-      "Селиванов Юрий Алексеевич": 27,
-      "Старовойтов Александр Сергеевич": 37,
-      "Хорошилов Руслан Николаевич": 21,
-      "Чернышова Наталия Александровна": 17,
-      "Шевляков Валерий Алексеевич": 16
+      "gas:candidate-vibid:2312000566472": 869,
+      "gas:candidate-vibid:2312000565986": 6,
+      "gas:candidate-vibid:2312000566138": 4,
+      "gas:candidate-vibid:2312000564809": 27,
+      "gas:candidate-vibid:2312000538570": 37,
+      "gas:candidate-vibid:2312000566273": 21,
+      "gas:candidate-vibid:2312000565731": 17,
+      "gas:candidate-vibid:2312000564503": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533598&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533598&type=464",
@@ -12107,14 +12107,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 667,
-      "Порхун Вера Семёновна": 5,
-      "Свищёв Андрей Викторович": 6,
-      "Селиванов Юрий Алексеевич": 53,
-      "Старовойтов Александр Сергеевич": 62,
-      "Хорошилов Руслан Николаевич": 27,
-      "Чернышова Наталия Александровна": 17,
-      "Шевляков Валерий Алексеевич": 46
+      "gas:candidate-vibid:2312000566472": 667,
+      "gas:candidate-vibid:2312000565986": 5,
+      "gas:candidate-vibid:2312000566138": 6,
+      "gas:candidate-vibid:2312000564809": 53,
+      "gas:candidate-vibid:2312000538570": 62,
+      "gas:candidate-vibid:2312000566273": 27,
+      "gas:candidate-vibid:2312000565731": 17,
+      "gas:candidate-vibid:2312000564503": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533598&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533598&type=464",
@@ -12165,14 +12165,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 674,
-      "Порхун Вера Семёновна": 11,
-      "Свищёв Андрей Викторович": 13,
-      "Селиванов Юрий Алексеевич": 35,
-      "Старовойтов Александр Сергеевич": 86,
-      "Хорошилов Руслан Николаевич": 39,
-      "Чернышова Наталия Александровна": 24,
-      "Шевляков Валерий Алексеевич": 59
+      "gas:candidate-vibid:2312000566472": 674,
+      "gas:candidate-vibid:2312000565986": 11,
+      "gas:candidate-vibid:2312000566138": 13,
+      "gas:candidate-vibid:2312000564809": 35,
+      "gas:candidate-vibid:2312000538570": 86,
+      "gas:candidate-vibid:2312000566273": 39,
+      "gas:candidate-vibid:2312000565731": 24,
+      "gas:candidate-vibid:2312000564503": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533598&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533598&type=464",
@@ -12223,14 +12223,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 897,
-      "Порхун Вера Семёновна": 17,
-      "Свищёв Андрей Викторович": 16,
-      "Селиванов Юрий Алексеевич": 95,
-      "Старовойтов Александр Сергеевич": 47,
-      "Хорошилов Руслан Николаевич": 42,
-      "Чернышова Наталия Александровна": 30,
-      "Шевляков Валерий Алексеевич": 78
+      "gas:candidate-vibid:2312000566472": 897,
+      "gas:candidate-vibid:2312000565986": 17,
+      "gas:candidate-vibid:2312000566138": 16,
+      "gas:candidate-vibid:2312000564809": 95,
+      "gas:candidate-vibid:2312000538570": 47,
+      "gas:candidate-vibid:2312000566273": 42,
+      "gas:candidate-vibid:2312000565731": 30,
+      "gas:candidate-vibid:2312000564503": 78
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533598&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533598&type=464",
@@ -12281,14 +12281,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 115,
-      "Порхун Вера Семёновна": 1,
-      "Свищёв Андрей Викторович": 2,
-      "Селиванов Юрий Алексеевич": 23,
-      "Старовойтов Александр Сергеевич": 5,
-      "Хорошилов Руслан Николаевич": 0,
-      "Чернышова Наталия Александровна": 0,
-      "Шевляков Валерий Алексеевич": 2
+      "gas:candidate-vibid:2312000566472": 115,
+      "gas:candidate-vibid:2312000565986": 1,
+      "gas:candidate-vibid:2312000566138": 2,
+      "gas:candidate-vibid:2312000564809": 23,
+      "gas:candidate-vibid:2312000538570": 5,
+      "gas:candidate-vibid:2312000566273": 0,
+      "gas:candidate-vibid:2312000565731": 0,
+      "gas:candidate-vibid:2312000564503": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533598&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533598&type=464",
@@ -12339,14 +12339,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 89,
-      "Порхун Вера Семёновна": 6,
-      "Свищёв Андрей Викторович": 4,
-      "Селиванов Юрий Алексеевич": 21,
-      "Старовойтов Александр Сергеевич": 8,
-      "Хорошилов Руслан Николаевич": 7,
-      "Чернышова Наталия Александровна": 1,
-      "Шевляков Валерий Алексеевич": 2
+      "gas:candidate-vibid:2312000566472": 89,
+      "gas:candidate-vibid:2312000565986": 6,
+      "gas:candidate-vibid:2312000566138": 4,
+      "gas:candidate-vibid:2312000564809": 21,
+      "gas:candidate-vibid:2312000538570": 8,
+      "gas:candidate-vibid:2312000566273": 7,
+      "gas:candidate-vibid:2312000565731": 1,
+      "gas:candidate-vibid:2312000564503": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533598&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533598&type=464",
@@ -12397,14 +12397,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 266,
-      "Порхун Вера Семёновна": 8,
-      "Свищёв Андрей Викторович": 6,
-      "Селиванов Юрий Алексеевич": 39,
-      "Старовойтов Александр Сергеевич": 26,
-      "Хорошилов Руслан Николаевич": 21,
-      "Чернышова Наталия Александровна": 11,
-      "Шевляков Валерий Алексеевич": 17
+      "gas:candidate-vibid:2312000566472": 266,
+      "gas:candidate-vibid:2312000565986": 8,
+      "gas:candidate-vibid:2312000566138": 6,
+      "gas:candidate-vibid:2312000564809": 39,
+      "gas:candidate-vibid:2312000538570": 26,
+      "gas:candidate-vibid:2312000566273": 21,
+      "gas:candidate-vibid:2312000565731": 11,
+      "gas:candidate-vibid:2312000564503": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533598&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533598&type=464",
@@ -12455,14 +12455,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 98,
-      "Порхун Вера Семёновна": 0,
-      "Свищёв Андрей Викторович": 0,
-      "Селиванов Юрий Алексеевич": 3,
-      "Старовойтов Александр Сергеевич": 1,
-      "Хорошилов Руслан Николаевич": 1,
-      "Чернышова Наталия Александровна": 0,
-      "Шевляков Валерий Алексеевич": 0
+      "gas:candidate-vibid:2312000566472": 98,
+      "gas:candidate-vibid:2312000565986": 0,
+      "gas:candidate-vibid:2312000566138": 0,
+      "gas:candidate-vibid:2312000564809": 3,
+      "gas:candidate-vibid:2312000538570": 1,
+      "gas:candidate-vibid:2312000566273": 1,
+      "gas:candidate-vibid:2312000565731": 0,
+      "gas:candidate-vibid:2312000564503": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533598&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533598&type=464",
@@ -12513,14 +12513,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 380,
-      "Порхун Вера Семёновна": 0,
-      "Свищёв Андрей Викторович": 0,
-      "Селиванов Юрий Алексеевич": 39,
-      "Старовойтов Александр Сергеевич": 4,
-      "Хорошилов Руслан Николаевич": 0,
-      "Чернышова Наталия Александровна": 0,
-      "Шевляков Валерий Алексеевич": 2
+      "gas:candidate-vibid:2312000566472": 380,
+      "gas:candidate-vibid:2312000565986": 0,
+      "gas:candidate-vibid:2312000566138": 0,
+      "gas:candidate-vibid:2312000564809": 39,
+      "gas:candidate-vibid:2312000538570": 4,
+      "gas:candidate-vibid:2312000566273": 0,
+      "gas:candidate-vibid:2312000565731": 0,
+      "gas:candidate-vibid:2312000564503": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533598&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533598&type=464",
@@ -12571,14 +12571,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 169,
-      "Порхун Вера Семёновна": 0,
-      "Свищёв Андрей Викторович": 1,
-      "Селиванов Юрий Алексеевич": 8,
-      "Старовойтов Александр Сергеевич": 1,
-      "Хорошилов Руслан Николаевич": 2,
-      "Чернышова Наталия Александровна": 0,
-      "Шевляков Валерий Алексеевич": 1
+      "gas:candidate-vibid:2312000566472": 169,
+      "gas:candidate-vibid:2312000565986": 0,
+      "gas:candidate-vibid:2312000566138": 1,
+      "gas:candidate-vibid:2312000564809": 8,
+      "gas:candidate-vibid:2312000538570": 1,
+      "gas:candidate-vibid:2312000566273": 2,
+      "gas:candidate-vibid:2312000565731": 0,
+      "gas:candidate-vibid:2312000564503": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533598&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533598&type=464",
@@ -12629,14 +12629,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 99,
-      "Порхун Вера Семёновна": 0,
-      "Свищёв Андрей Викторович": 0,
-      "Селиванов Юрий Алексеевич": 2,
-      "Старовойтов Александр Сергеевич": 0,
-      "Хорошилов Руслан Николаевич": 0,
-      "Чернышова Наталия Александровна": 0,
-      "Шевляков Валерий Алексеевич": 0
+      "gas:candidate-vibid:2312000566472": 99,
+      "gas:candidate-vibid:2312000565986": 0,
+      "gas:candidate-vibid:2312000566138": 0,
+      "gas:candidate-vibid:2312000564809": 2,
+      "gas:candidate-vibid:2312000538570": 0,
+      "gas:candidate-vibid:2312000566273": 0,
+      "gas:candidate-vibid:2312000565731": 0,
+      "gas:candidate-vibid:2312000564503": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533598&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533598&type=464",
@@ -12687,14 +12687,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 619,
-      "Порхун Вера Семёновна": 0,
-      "Свищёв Андрей Викторович": 1,
-      "Селиванов Юрий Алексеевич": 6,
-      "Старовойтов Александр Сергеевич": 2,
-      "Хорошилов Руслан Николаевич": 1,
-      "Чернышова Наталия Александровна": 0,
-      "Шевляков Валерий Алексеевич": 3
+      "gas:candidate-vibid:2312000566472": 619,
+      "gas:candidate-vibid:2312000565986": 0,
+      "gas:candidate-vibid:2312000566138": 1,
+      "gas:candidate-vibid:2312000564809": 6,
+      "gas:candidate-vibid:2312000538570": 2,
+      "gas:candidate-vibid:2312000566273": 1,
+      "gas:candidate-vibid:2312000565731": 0,
+      "gas:candidate-vibid:2312000564503": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533598&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533598&type=464",
@@ -12745,14 +12745,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 254,
-      "Порхун Вера Семёновна": 1,
-      "Свищёв Андрей Викторович": 1,
-      "Селиванов Юрий Алексеевич": 10,
-      "Старовойтов Александр Сергеевич": 5,
-      "Хорошилов Руслан Николаевич": 2,
-      "Чернышова Наталия Александровна": 2,
-      "Шевляков Валерий Алексеевич": 10
+      "gas:candidate-vibid:2312000566472": 254,
+      "gas:candidate-vibid:2312000565986": 1,
+      "gas:candidate-vibid:2312000566138": 1,
+      "gas:candidate-vibid:2312000564809": 10,
+      "gas:candidate-vibid:2312000538570": 5,
+      "gas:candidate-vibid:2312000566273": 2,
+      "gas:candidate-vibid:2312000565731": 2,
+      "gas:candidate-vibid:2312000564503": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533598&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533598&type=464",
@@ -12803,14 +12803,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 434,
-      "Порхун Вера Семёновна": 9,
-      "Свищёв Андрей Викторович": 13,
-      "Селиванов Юрий Алексеевич": 36,
-      "Старовойтов Александр Сергеевич": 51,
-      "Хорошилов Руслан Николаевич": 30,
-      "Чернышова Наталия Александровна": 16,
-      "Шевляков Валерий Алексеевич": 34
+      "gas:candidate-vibid:2312000566472": 434,
+      "gas:candidate-vibid:2312000565986": 9,
+      "gas:candidate-vibid:2312000566138": 13,
+      "gas:candidate-vibid:2312000564809": 36,
+      "gas:candidate-vibid:2312000538570": 51,
+      "gas:candidate-vibid:2312000566273": 30,
+      "gas:candidate-vibid:2312000565731": 16,
+      "gas:candidate-vibid:2312000564503": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533599&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533599&type=464",
@@ -12861,14 +12861,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 449,
-      "Порхун Вера Семёновна": 8,
-      "Свищёв Андрей Викторович": 4,
-      "Селиванов Юрий Алексеевич": 22,
-      "Старовойтов Александр Сергеевич": 25,
-      "Хорошилов Руслан Николаевич": 25,
-      "Чернышова Наталия Александровна": 15,
-      "Шевляков Валерий Алексеевич": 16
+      "gas:candidate-vibid:2312000566472": 449,
+      "gas:candidate-vibid:2312000565986": 8,
+      "gas:candidate-vibid:2312000566138": 4,
+      "gas:candidate-vibid:2312000564809": 22,
+      "gas:candidate-vibid:2312000538570": 25,
+      "gas:candidate-vibid:2312000566273": 25,
+      "gas:candidate-vibid:2312000565731": 15,
+      "gas:candidate-vibid:2312000564503": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533599&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533599&type=464",
@@ -12919,14 +12919,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 187,
-      "Порхун Вера Семёновна": 3,
-      "Свищёв Андрей Викторович": 6,
-      "Селиванов Юрий Алексеевич": 29,
-      "Старовойтов Александр Сергеевич": 24,
-      "Хорошилов Руслан Николаевич": 17,
-      "Чернышова Наталия Александровна": 4,
-      "Шевляков Валерий Алексеевич": 8
+      "gas:candidate-vibid:2312000566472": 187,
+      "gas:candidate-vibid:2312000565986": 3,
+      "gas:candidate-vibid:2312000566138": 6,
+      "gas:candidate-vibid:2312000564809": 29,
+      "gas:candidate-vibid:2312000538570": 24,
+      "gas:candidate-vibid:2312000566273": 17,
+      "gas:candidate-vibid:2312000565731": 4,
+      "gas:candidate-vibid:2312000564503": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533599&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533599&type=464",
@@ -12977,14 +12977,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 523,
-      "Порхун Вера Семёновна": 3,
-      "Свищёв Андрей Викторович": 6,
-      "Селиванов Юрий Алексеевич": 33,
-      "Старовойтов Александр Сергеевич": 37,
-      "Хорошилов Руслан Николаевич": 18,
-      "Чернышова Наталия Александровна": 12,
-      "Шевляков Валерий Алексеевич": 10
+      "gas:candidate-vibid:2312000566472": 523,
+      "gas:candidate-vibid:2312000565986": 3,
+      "gas:candidate-vibid:2312000566138": 6,
+      "gas:candidate-vibid:2312000564809": 33,
+      "gas:candidate-vibid:2312000538570": 37,
+      "gas:candidate-vibid:2312000566273": 18,
+      "gas:candidate-vibid:2312000565731": 12,
+      "gas:candidate-vibid:2312000564503": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533599&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533599&type=464",
@@ -13035,14 +13035,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 274,
-      "Порхун Вера Семёновна": 0,
-      "Свищёв Андрей Викторович": 0,
-      "Селиванов Юрий Алексеевич": 6,
-      "Старовойтов Александр Сергеевич": 9,
-      "Хорошилов Руслан Николаевич": 5,
-      "Чернышова Наталия Александровна": 0,
-      "Шевляков Валерий Алексеевич": 2
+      "gas:candidate-vibid:2312000566472": 274,
+      "gas:candidate-vibid:2312000565986": 0,
+      "gas:candidate-vibid:2312000566138": 0,
+      "gas:candidate-vibid:2312000564809": 6,
+      "gas:candidate-vibid:2312000538570": 9,
+      "gas:candidate-vibid:2312000566273": 5,
+      "gas:candidate-vibid:2312000565731": 0,
+      "gas:candidate-vibid:2312000564503": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533599&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533599&type=464",
@@ -13093,14 +13093,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 441,
-      "Порхун Вера Семёновна": 8,
-      "Свищёв Андрей Викторович": 12,
-      "Селиванов Юрий Алексеевич": 16,
-      "Старовойтов Александр Сергеевич": 13,
-      "Хорошилов Руслан Николаевич": 15,
-      "Чернышова Наталия Александровна": 9,
-      "Шевляков Валерий Алексеевич": 12
+      "gas:candidate-vibid:2312000566472": 441,
+      "gas:candidate-vibid:2312000565986": 8,
+      "gas:candidate-vibid:2312000566138": 12,
+      "gas:candidate-vibid:2312000564809": 16,
+      "gas:candidate-vibid:2312000538570": 13,
+      "gas:candidate-vibid:2312000566273": 15,
+      "gas:candidate-vibid:2312000565731": 9,
+      "gas:candidate-vibid:2312000564503": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533599&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533599&type=464",
@@ -13151,14 +13151,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 477,
-      "Порхун Вера Семёновна": 7,
-      "Свищёв Андрей Викторович": 7,
-      "Селиванов Юрий Алексеевич": 40,
-      "Старовойтов Александр Сергеевич": 44,
-      "Хорошилов Руслан Николаевич": 31,
-      "Чернышова Наталия Александровна": 17,
-      "Шевляков Валерий Алексеевич": 40
+      "gas:candidate-vibid:2312000566472": 477,
+      "gas:candidate-vibid:2312000565986": 7,
+      "gas:candidate-vibid:2312000566138": 7,
+      "gas:candidate-vibid:2312000564809": 40,
+      "gas:candidate-vibid:2312000538570": 44,
+      "gas:candidate-vibid:2312000566273": 31,
+      "gas:candidate-vibid:2312000565731": 17,
+      "gas:candidate-vibid:2312000564503": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533599&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533599&type=464",
@@ -13209,14 +13209,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 346,
-      "Порхун Вера Семёновна": 8,
-      "Свищёв Андрей Викторович": 12,
-      "Селиванов Юрий Алексеевич": 21,
-      "Старовойтов Александр Сергеевич": 30,
-      "Хорошилов Руслан Николаевич": 29,
-      "Чернышова Наталия Александровна": 16,
-      "Шевляков Валерий Алексеевич": 25
+      "gas:candidate-vibid:2312000566472": 346,
+      "gas:candidate-vibid:2312000565986": 8,
+      "gas:candidate-vibid:2312000566138": 12,
+      "gas:candidate-vibid:2312000564809": 21,
+      "gas:candidate-vibid:2312000538570": 30,
+      "gas:candidate-vibid:2312000566273": 29,
+      "gas:candidate-vibid:2312000565731": 16,
+      "gas:candidate-vibid:2312000564503": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533599&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533599&type=464",
@@ -13267,14 +13267,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 176,
-      "Порхун Вера Семёновна": 3,
-      "Свищёв Андрей Викторович": 2,
-      "Селиванов Юрий Алексеевич": 8,
-      "Старовойтов Александр Сергеевич": 14,
-      "Хорошилов Руслан Николаевич": 20,
-      "Чернышова Наталия Александровна": 1,
-      "Шевляков Валерий Алексеевич": 15
+      "gas:candidate-vibid:2312000566472": 176,
+      "gas:candidate-vibid:2312000565986": 3,
+      "gas:candidate-vibid:2312000566138": 2,
+      "gas:candidate-vibid:2312000564809": 8,
+      "gas:candidate-vibid:2312000538570": 14,
+      "gas:candidate-vibid:2312000566273": 20,
+      "gas:candidate-vibid:2312000565731": 1,
+      "gas:candidate-vibid:2312000564503": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533599&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533599&type=464",
@@ -13325,14 +13325,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 243,
-      "Порхун Вера Семёновна": 11,
-      "Свищёв Андрей Викторович": 7,
-      "Селиванов Юрий Алексеевич": 14,
-      "Старовойтов Александр Сергеевич": 33,
-      "Хорошилов Руслан Николаевич": 21,
-      "Чернышова Наталия Александровна": 9,
-      "Шевляков Валерий Алексеевич": 18
+      "gas:candidate-vibid:2312000566472": 243,
+      "gas:candidate-vibid:2312000565986": 11,
+      "gas:candidate-vibid:2312000566138": 7,
+      "gas:candidate-vibid:2312000564809": 14,
+      "gas:candidate-vibid:2312000538570": 33,
+      "gas:candidate-vibid:2312000566273": 21,
+      "gas:candidate-vibid:2312000565731": 9,
+      "gas:candidate-vibid:2312000564503": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533599&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533599&type=464",
@@ -13383,14 +13383,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 130,
-      "Порхун Вера Семёновна": 2,
-      "Свищёв Андрей Викторович": 2,
-      "Селиванов Юрий Алексеевич": 4,
-      "Старовойтов Александр Сергеевич": 6,
-      "Хорошилов Руслан Николаевич": 4,
-      "Чернышова Наталия Александровна": 0,
-      "Шевляков Валерий Алексеевич": 6
+      "gas:candidate-vibid:2312000566472": 130,
+      "gas:candidate-vibid:2312000565986": 2,
+      "gas:candidate-vibid:2312000566138": 2,
+      "gas:candidate-vibid:2312000564809": 4,
+      "gas:candidate-vibid:2312000538570": 6,
+      "gas:candidate-vibid:2312000566273": 4,
+      "gas:candidate-vibid:2312000565731": 0,
+      "gas:candidate-vibid:2312000564503": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533599&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533599&type=464",
@@ -13441,14 +13441,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 980,
-      "Порхун Вера Семёновна": 6,
-      "Свищёв Андрей Викторович": 19,
-      "Селиванов Юрий Алексеевич": 75,
-      "Старовойтов Александр Сергеевич": 35,
-      "Хорошилов Руслан Николаевич": 37,
-      "Чернышова Наталия Александровна": 13,
-      "Шевляков Валерий Алексеевич": 63
+      "gas:candidate-vibid:2312000566472": 980,
+      "gas:candidate-vibid:2312000565986": 6,
+      "gas:candidate-vibid:2312000566138": 19,
+      "gas:candidate-vibid:2312000564809": 75,
+      "gas:candidate-vibid:2312000538570": 35,
+      "gas:candidate-vibid:2312000566273": 37,
+      "gas:candidate-vibid:2312000565731": 13,
+      "gas:candidate-vibid:2312000564503": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533599&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533599&type=464",
@@ -13499,14 +13499,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 451,
-      "Порхун Вера Семёновна": 17,
-      "Свищёв Андрей Викторович": 16,
-      "Селиванов Юрий Алексеевич": 25,
-      "Старовойтов Александр Сергеевич": 43,
-      "Хорошилов Руслан Николаевич": 30,
-      "Чернышова Наталия Александровна": 17,
-      "Шевляков Валерий Алексеевич": 35
+      "gas:candidate-vibid:2312000566472": 451,
+      "gas:candidate-vibid:2312000565986": 17,
+      "gas:candidate-vibid:2312000566138": 16,
+      "gas:candidate-vibid:2312000564809": 25,
+      "gas:candidate-vibid:2312000538570": 43,
+      "gas:candidate-vibid:2312000566273": 30,
+      "gas:candidate-vibid:2312000565731": 17,
+      "gas:candidate-vibid:2312000564503": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533599&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533599&type=464",
@@ -13557,14 +13557,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 551,
-      "Порхун Вера Семёновна": 13,
-      "Свищёв Андрей Викторович": 20,
-      "Селиванов Юрий Алексеевич": 58,
-      "Старовойтов Александр Сергеевич": 72,
-      "Хорошилов Руслан Николаевич": 57,
-      "Чернышова Наталия Александровна": 30,
-      "Шевляков Валерий Алексеевич": 64
+      "gas:candidate-vibid:2312000566472": 551,
+      "gas:candidate-vibid:2312000565986": 13,
+      "gas:candidate-vibid:2312000566138": 20,
+      "gas:candidate-vibid:2312000564809": 58,
+      "gas:candidate-vibid:2312000538570": 72,
+      "gas:candidate-vibid:2312000566273": 57,
+      "gas:candidate-vibid:2312000565731": 30,
+      "gas:candidate-vibid:2312000564503": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533599&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533599&type=464",
@@ -13615,14 +13615,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 442,
-      "Порхун Вера Семёновна": 14,
-      "Свищёв Андрей Викторович": 16,
-      "Селиванов Юрий Алексеевич": 63,
-      "Старовойтов Александр Сергеевич": 79,
-      "Хорошилов Руслан Николаевич": 58,
-      "Чернышова Наталия Александровна": 22,
-      "Шевляков Валерий Алексеевич": 54
+      "gas:candidate-vibid:2312000566472": 442,
+      "gas:candidate-vibid:2312000565986": 14,
+      "gas:candidate-vibid:2312000566138": 16,
+      "gas:candidate-vibid:2312000564809": 63,
+      "gas:candidate-vibid:2312000538570": 79,
+      "gas:candidate-vibid:2312000566273": 58,
+      "gas:candidate-vibid:2312000565731": 22,
+      "gas:candidate-vibid:2312000564503": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533599&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533599&type=464",
@@ -13673,14 +13673,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 796,
-      "Порхун Вера Семёновна": 5,
-      "Свищёв Андрей Викторович": 7,
-      "Селиванов Юрий Алексеевич": 24,
-      "Старовойтов Александр Сергеевич": 41,
-      "Хорошилов Руслан Николаевич": 16,
-      "Чернышова Наталия Александровна": 9,
-      "Шевляков Валерий Алексеевич": 16
+      "gas:candidate-vibid:2312000566472": 796,
+      "gas:candidate-vibid:2312000565986": 5,
+      "gas:candidate-vibid:2312000566138": 7,
+      "gas:candidate-vibid:2312000564809": 24,
+      "gas:candidate-vibid:2312000538570": 41,
+      "gas:candidate-vibid:2312000566273": 16,
+      "gas:candidate-vibid:2312000565731": 9,
+      "gas:candidate-vibid:2312000564503": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533599&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533599&type=464",
@@ -13731,14 +13731,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 497,
-      "Порхун Вера Семёновна": 15,
-      "Свищёв Андрей Викторович": 7,
-      "Селиванов Юрий Алексеевич": 48,
-      "Старовойтов Александр Сергеевич": 58,
-      "Хорошилов Руслан Николаевич": 37,
-      "Чернышова Наталия Александровна": 24,
-      "Шевляков Валерий Алексеевич": 44
+      "gas:candidate-vibid:2312000566472": 497,
+      "gas:candidate-vibid:2312000565986": 15,
+      "gas:candidate-vibid:2312000566138": 7,
+      "gas:candidate-vibid:2312000564809": 48,
+      "gas:candidate-vibid:2312000538570": 58,
+      "gas:candidate-vibid:2312000566273": 37,
+      "gas:candidate-vibid:2312000565731": 24,
+      "gas:candidate-vibid:2312000564503": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533599&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533599&type=464",
@@ -13789,14 +13789,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 410,
-      "Порхун Вера Семёновна": 33,
-      "Свищёв Андрей Викторович": 16,
-      "Селиванов Юрий Алексеевич": 77,
-      "Старовойтов Александр Сергеевич": 113,
-      "Хорошилов Руслан Николаевич": 63,
-      "Чернышова Наталия Александровна": 24,
-      "Шевляков Валерий Алексеевич": 147
+      "gas:candidate-vibid:2312000566472": 410,
+      "gas:candidate-vibid:2312000565986": 33,
+      "gas:candidate-vibid:2312000566138": 16,
+      "gas:candidate-vibid:2312000564809": 77,
+      "gas:candidate-vibid:2312000538570": 113,
+      "gas:candidate-vibid:2312000566273": 63,
+      "gas:candidate-vibid:2312000565731": 24,
+      "gas:candidate-vibid:2312000564503": 147
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533600&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533600&type=464",
@@ -13847,14 +13847,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 382,
-      "Порхун Вера Семёновна": 7,
-      "Свищёв Андрей Викторович": 8,
-      "Селиванов Юрий Алексеевич": 71,
-      "Старовойтов Александр Сергеевич": 92,
-      "Хорошилов Руслан Николаевич": 51,
-      "Чернышова Наталия Александровна": 28,
-      "Шевляков Валерий Алексеевич": 108
+      "gas:candidate-vibid:2312000566472": 382,
+      "gas:candidate-vibid:2312000565986": 7,
+      "gas:candidate-vibid:2312000566138": 8,
+      "gas:candidate-vibid:2312000564809": 71,
+      "gas:candidate-vibid:2312000538570": 92,
+      "gas:candidate-vibid:2312000566273": 51,
+      "gas:candidate-vibid:2312000565731": 28,
+      "gas:candidate-vibid:2312000564503": 108
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533600&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533600&type=464",
@@ -13905,14 +13905,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 551,
-      "Порхун Вера Семёновна": 16,
-      "Свищёв Андрей Викторович": 23,
-      "Селиванов Юрий Алексеевич": 89,
-      "Старовойтов Александр Сергеевич": 137,
-      "Хорошилов Руслан Николаевич": 68,
-      "Чернышова Наталия Александровна": 29,
-      "Шевляков Валерий Алексеевич": 169
+      "gas:candidate-vibid:2312000566472": 551,
+      "gas:candidate-vibid:2312000565986": 16,
+      "gas:candidate-vibid:2312000566138": 23,
+      "gas:candidate-vibid:2312000564809": 89,
+      "gas:candidate-vibid:2312000538570": 137,
+      "gas:candidate-vibid:2312000566273": 68,
+      "gas:candidate-vibid:2312000565731": 29,
+      "gas:candidate-vibid:2312000564503": 169
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533600&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533600&type=464",
@@ -13963,14 +13963,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 355,
-      "Порхун Вера Семёновна": 15,
-      "Свищёв Андрей Викторович": 14,
-      "Селиванов Юрий Алексеевич": 41,
-      "Старовойтов Александр Сергеевич": 66,
-      "Хорошилов Руслан Николаевич": 35,
-      "Чернышова Наталия Александровна": 13,
-      "Шевляков Валерий Алексеевич": 100
+      "gas:candidate-vibid:2312000566472": 355,
+      "gas:candidate-vibid:2312000565986": 15,
+      "gas:candidate-vibid:2312000566138": 14,
+      "gas:candidate-vibid:2312000564809": 41,
+      "gas:candidate-vibid:2312000538570": 66,
+      "gas:candidate-vibid:2312000566273": 35,
+      "gas:candidate-vibid:2312000565731": 13,
+      "gas:candidate-vibid:2312000564503": 100
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533600&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533600&type=464",
@@ -14021,14 +14021,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 609,
-      "Порхун Вера Семёновна": 25,
-      "Свищёв Андрей Викторович": 25,
-      "Селиванов Юрий Алексеевич": 76,
-      "Старовойтов Александр Сергеевич": 99,
-      "Хорошилов Руслан Николаевич": 61,
-      "Чернышова Наталия Александровна": 39,
-      "Шевляков Валерий Алексеевич": 146
+      "gas:candidate-vibid:2312000566472": 609,
+      "gas:candidate-vibid:2312000565986": 25,
+      "gas:candidate-vibid:2312000566138": 25,
+      "gas:candidate-vibid:2312000564809": 76,
+      "gas:candidate-vibid:2312000538570": 99,
+      "gas:candidate-vibid:2312000566273": 61,
+      "gas:candidate-vibid:2312000565731": 39,
+      "gas:candidate-vibid:2312000564503": 146
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533600&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533600&type=464",
@@ -14079,14 +14079,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 139,
-      "Порхун Вера Семёновна": 5,
-      "Свищёв Андрей Викторович": 6,
-      "Селиванов Юрий Алексеевич": 19,
-      "Старовойтов Александр Сергеевич": 16,
-      "Хорошилов Руслан Николаевич": 15,
-      "Чернышова Наталия Александровна": 5,
-      "Шевляков Валерий Алексеевич": 32
+      "gas:candidate-vibid:2312000566472": 139,
+      "gas:candidate-vibid:2312000565986": 5,
+      "gas:candidate-vibid:2312000566138": 6,
+      "gas:candidate-vibid:2312000564809": 19,
+      "gas:candidate-vibid:2312000538570": 16,
+      "gas:candidate-vibid:2312000566273": 15,
+      "gas:candidate-vibid:2312000565731": 5,
+      "gas:candidate-vibid:2312000564503": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533600&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533600&type=464",
@@ -14137,14 +14137,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 383,
-      "Порхун Вера Семёновна": 8,
-      "Свищёв Андрей Викторович": 7,
-      "Селиванов Юрий Алексеевич": 40,
-      "Старовойтов Александр Сергеевич": 48,
-      "Хорошилов Руслан Николаевич": 25,
-      "Чернышова Наталия Александровна": 12,
-      "Шевляков Валерий Алексеевич": 50
+      "gas:candidate-vibid:2312000566472": 383,
+      "gas:candidate-vibid:2312000565986": 8,
+      "gas:candidate-vibid:2312000566138": 7,
+      "gas:candidate-vibid:2312000564809": 40,
+      "gas:candidate-vibid:2312000538570": 48,
+      "gas:candidate-vibid:2312000566273": 25,
+      "gas:candidate-vibid:2312000565731": 12,
+      "gas:candidate-vibid:2312000564503": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533600&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533600&type=464",
@@ -14195,14 +14195,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 201,
-      "Порхун Вера Семёновна": 4,
-      "Свищёв Андрей Викторович": 2,
-      "Селиванов Юрий Алексеевич": 9,
-      "Старовойтов Александр Сергеевич": 15,
-      "Хорошилов Руслан Николаевич": 4,
-      "Чернышова Наталия Александровна": 4,
-      "Шевляков Валерий Алексеевич": 7
+      "gas:candidate-vibid:2312000566472": 201,
+      "gas:candidate-vibid:2312000565986": 4,
+      "gas:candidate-vibid:2312000566138": 2,
+      "gas:candidate-vibid:2312000564809": 9,
+      "gas:candidate-vibid:2312000538570": 15,
+      "gas:candidate-vibid:2312000566273": 4,
+      "gas:candidate-vibid:2312000565731": 4,
+      "gas:candidate-vibid:2312000564503": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533600&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533600&type=464",
@@ -14253,14 +14253,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 276,
-      "Порхун Вера Семёновна": 7,
-      "Свищёв Андрей Викторович": 13,
-      "Селиванов Юрий Алексеевич": 39,
-      "Старовойтов Александр Сергеевич": 31,
-      "Хорошилов Руслан Николаевич": 21,
-      "Чернышова Наталия Александровна": 11,
-      "Шевляков Валерий Алексеевич": 27
+      "gas:candidate-vibid:2312000566472": 276,
+      "gas:candidate-vibid:2312000565986": 7,
+      "gas:candidate-vibid:2312000566138": 13,
+      "gas:candidate-vibid:2312000564809": 39,
+      "gas:candidate-vibid:2312000538570": 31,
+      "gas:candidate-vibid:2312000566273": 21,
+      "gas:candidate-vibid:2312000565731": 11,
+      "gas:candidate-vibid:2312000564503": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533600&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533600&type=464",
@@ -14311,14 +14311,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 120,
-      "Порхун Вера Семёновна": 6,
-      "Свищёв Андрей Викторович": 3,
-      "Селиванов Юрий Алексеевич": 10,
-      "Старовойтов Александр Сергеевич": 18,
-      "Хорошилов Руслан Николаевич": 5,
-      "Чернышова Наталия Александровна": 4,
-      "Шевляков Валерий Алексеевич": 11
+      "gas:candidate-vibid:2312000566472": 120,
+      "gas:candidate-vibid:2312000565986": 6,
+      "gas:candidate-vibid:2312000566138": 3,
+      "gas:candidate-vibid:2312000564809": 10,
+      "gas:candidate-vibid:2312000538570": 18,
+      "gas:candidate-vibid:2312000566273": 5,
+      "gas:candidate-vibid:2312000565731": 4,
+      "gas:candidate-vibid:2312000564503": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533600&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533600&type=464",
@@ -14369,14 +14369,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 144,
-      "Порхун Вера Семёновна": 4,
-      "Свищёв Андрей Викторович": 4,
-      "Селиванов Юрий Алексеевич": 9,
-      "Старовойтов Александр Сергеевич": 23,
-      "Хорошилов Руслан Николаевич": 13,
-      "Чернышова Наталия Александровна": 6,
-      "Шевляков Валерий Алексеевич": 18
+      "gas:candidate-vibid:2312000566472": 144,
+      "gas:candidate-vibid:2312000565986": 4,
+      "gas:candidate-vibid:2312000566138": 4,
+      "gas:candidate-vibid:2312000564809": 9,
+      "gas:candidate-vibid:2312000538570": 23,
+      "gas:candidate-vibid:2312000566273": 13,
+      "gas:candidate-vibid:2312000565731": 6,
+      "gas:candidate-vibid:2312000564503": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533600&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533600&type=464",
@@ -14427,14 +14427,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 556,
-      "Порхун Вера Семёновна": 20,
-      "Свищёв Андрей Викторович": 8,
-      "Селиванов Юрий Алексеевич": 71,
-      "Старовойтов Александр Сергеевич": 117,
-      "Хорошилов Руслан Николаевич": 54,
-      "Чернышова Наталия Александровна": 19,
-      "Шевляков Валерий Алексеевич": 139
+      "gas:candidate-vibid:2312000566472": 556,
+      "gas:candidate-vibid:2312000565986": 20,
+      "gas:candidate-vibid:2312000566138": 8,
+      "gas:candidate-vibid:2312000564809": 71,
+      "gas:candidate-vibid:2312000538570": 117,
+      "gas:candidate-vibid:2312000566273": 54,
+      "gas:candidate-vibid:2312000565731": 19,
+      "gas:candidate-vibid:2312000564503": 139
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533600&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533600&type=464",
@@ -14485,14 +14485,14 @@ export const duma_2016_uik_463_region_31_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боженов Сергей Андреевич": 541,
-      "Порхун Вера Семёновна": 19,
-      "Свищёв Андрей Викторович": 12,
-      "Селиванов Юрий Алексеевич": 63,
-      "Старовойтов Александр Сергеевич": 110,
-      "Хорошилов Руслан Николаевич": 57,
-      "Чернышова Наталия Александровна": 26,
-      "Шевляков Валерий Алексеевич": 104
+      "gas:candidate-vibid:2312000566472": 541,
+      "gas:candidate-vibid:2312000565986": 19,
+      "gas:candidate-vibid:2312000566138": 12,
+      "gas:candidate-vibid:2312000564809": 63,
+      "gas:candidate-vibid:2312000538570": 110,
+      "gas:candidate-vibid:2312000566273": 57,
+      "gas:candidate-vibid:2312000565731": 26,
+      "gas:candidate-vibid:2312000564503": 104
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/belgorod?action=show&root=1000096&tvd=2312000533600&vrn=100100067795849&region=31&global=&sub_region=31&prver=0&pronetvd=null&vibid=2312000533600&type=464",

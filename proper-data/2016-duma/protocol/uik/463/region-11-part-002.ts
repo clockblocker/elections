@@ -43,11 +43,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 90,
-      "Медведев Иван Владимирович": 399,
-      "Михайлов Олег Алексеевич": 136,
-      "Саладина Татьяна Алексеевна": 222,
-      "Филипченко Иван Сергеевич": 158
+      "gas:candidate-vibid:2112000827691": 90,
+      "gas:candidate-vibid:2112000826448": 399,
+      "gas:candidate-vibid:2112000802098": 136,
+      "gas:candidate-vibid:2112000802136": 222,
+      "gas:candidate-vibid:2112000801224": 158
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769772&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769772&type=464",
@@ -98,11 +98,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 30,
-      "Медведев Иван Владимирович": 152,
-      "Михайлов Олег Алексеевич": 59,
-      "Саладина Татьяна Алексеевна": 93,
-      "Филипченко Иван Сергеевич": 73
+      "gas:candidate-vibid:2112000827691": 30,
+      "gas:candidate-vibid:2112000826448": 152,
+      "gas:candidate-vibid:2112000802098": 59,
+      "gas:candidate-vibid:2112000802136": 93,
+      "gas:candidate-vibid:2112000801224": 73
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769772&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769772&type=464",
@@ -153,11 +153,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 33,
-      "Медведев Иван Владимирович": 113,
-      "Михайлов Олег Алексеевич": 52,
-      "Саладина Татьяна Алексеевна": 72,
-      "Филипченко Иван Сергеевич": 76
+      "gas:candidate-vibid:2112000827691": 33,
+      "gas:candidate-vibid:2112000826448": 113,
+      "gas:candidate-vibid:2112000802098": 52,
+      "gas:candidate-vibid:2112000802136": 72,
+      "gas:candidate-vibid:2112000801224": 76
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769772&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769772&type=464",
@@ -208,11 +208,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 13,
-      "Медведев Иван Владимирович": 55,
-      "Михайлов Олег Алексеевич": 10,
-      "Саладина Татьяна Алексеевна": 38,
-      "Филипченко Иван Сергеевич": 28
+      "gas:candidate-vibid:2112000827691": 13,
+      "gas:candidate-vibid:2112000826448": 55,
+      "gas:candidate-vibid:2112000802098": 10,
+      "gas:candidate-vibid:2112000802136": 38,
+      "gas:candidate-vibid:2112000801224": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769772&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769772&type=464",
@@ -263,11 +263,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 62,
-      "Медведев Иван Владимирович": 279,
-      "Михайлов Олег Алексеевич": 88,
-      "Саладина Татьяна Алексеевна": 121,
-      "Филипченко Иван Сергеевич": 156
+      "gas:candidate-vibid:2112000827691": 62,
+      "gas:candidate-vibid:2112000826448": 279,
+      "gas:candidate-vibid:2112000802098": 88,
+      "gas:candidate-vibid:2112000802136": 121,
+      "gas:candidate-vibid:2112000801224": 156
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769772&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769772&type=464",
@@ -318,11 +318,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 33,
-      "Медведев Иван Владимирович": 131,
-      "Михайлов Олег Алексеевич": 42,
-      "Саладина Татьяна Алексеевна": 43,
-      "Филипченко Иван Сергеевич": 37
+      "gas:candidate-vibid:2112000827691": 33,
+      "gas:candidate-vibid:2112000826448": 131,
+      "gas:candidate-vibid:2112000802098": 42,
+      "gas:candidate-vibid:2112000802136": 43,
+      "gas:candidate-vibid:2112000801224": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769772&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769772&type=464",
@@ -373,11 +373,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 11,
-      "Медведев Иван Владимирович": 70,
-      "Михайлов Олег Алексеевич": 19,
-      "Саладина Татьяна Алексеевна": 30,
-      "Филипченко Иван Сергеевич": 12
+      "gas:candidate-vibid:2112000827691": 11,
+      "gas:candidate-vibid:2112000826448": 70,
+      "gas:candidate-vibid:2112000802098": 19,
+      "gas:candidate-vibid:2112000802136": 30,
+      "gas:candidate-vibid:2112000801224": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769772&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769772&type=464",
@@ -428,11 +428,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 16,
-      "Медведев Иван Владимирович": 99,
-      "Михайлов Олег Алексеевич": 14,
-      "Саладина Татьяна Алексеевна": 40,
-      "Филипченко Иван Сергеевич": 22
+      "gas:candidate-vibid:2112000827691": 16,
+      "gas:candidate-vibid:2112000826448": 99,
+      "gas:candidate-vibid:2112000802098": 14,
+      "gas:candidate-vibid:2112000802136": 40,
+      "gas:candidate-vibid:2112000801224": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769772&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769772&type=464",
@@ -483,11 +483,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 13,
-      "Медведев Иван Владимирович": 64,
-      "Михайлов Олег Алексеевич": 9,
-      "Саладина Татьяна Алексеевна": 20,
-      "Филипченко Иван Сергеевич": 7
+      "gas:candidate-vibid:2112000827691": 13,
+      "gas:candidate-vibid:2112000826448": 64,
+      "gas:candidate-vibid:2112000802098": 9,
+      "gas:candidate-vibid:2112000802136": 20,
+      "gas:candidate-vibid:2112000801224": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769772&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769772&type=464",
@@ -538,11 +538,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 7,
-      "Медведев Иван Владимирович": 84,
-      "Михайлов Олег Алексеевич": 10,
-      "Саладина Татьяна Алексеевна": 51,
-      "Филипченко Иван Сергеевич": 24
+      "gas:candidate-vibid:2112000827691": 7,
+      "gas:candidate-vibid:2112000826448": 84,
+      "gas:candidate-vibid:2112000802098": 10,
+      "gas:candidate-vibid:2112000802136": 51,
+      "gas:candidate-vibid:2112000801224": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769772&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769772&type=464",
@@ -593,11 +593,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 18,
-      "Медведев Иван Владимирович": 47,
-      "Михайлов Олег Алексеевич": 14,
-      "Саладина Татьяна Алексеевна": 43,
-      "Филипченко Иван Сергеевич": 9
+      "gas:candidate-vibid:2112000827691": 18,
+      "gas:candidate-vibid:2112000826448": 47,
+      "gas:candidate-vibid:2112000802098": 14,
+      "gas:candidate-vibid:2112000802136": 43,
+      "gas:candidate-vibid:2112000801224": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769772&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769772&type=464",
@@ -648,11 +648,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 26,
-      "Медведев Иван Владимирович": 144,
-      "Михайлов Олег Алексеевич": 21,
-      "Саладина Татьяна Алексеевна": 79,
-      "Филипченко Иван Сергеевич": 49
+      "gas:candidate-vibid:2112000827691": 26,
+      "gas:candidate-vibid:2112000826448": 144,
+      "gas:candidate-vibid:2112000802098": 21,
+      "gas:candidate-vibid:2112000802136": 79,
+      "gas:candidate-vibid:2112000801224": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769772&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769772&type=464",
@@ -703,11 +703,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 6,
-      "Медведев Иван Владимирович": 57,
-      "Михайлов Олег Алексеевич": 11,
-      "Саладина Татьяна Алексеевна": 3,
-      "Филипченко Иван Сергеевич": 6
+      "gas:candidate-vibid:2112000827691": 6,
+      "gas:candidate-vibid:2112000826448": 57,
+      "gas:candidate-vibid:2112000802098": 11,
+      "gas:candidate-vibid:2112000802136": 3,
+      "gas:candidate-vibid:2112000801224": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769772&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769772&type=464",
@@ -758,11 +758,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 13,
-      "Медведев Иван Владимирович": 108,
-      "Михайлов Олег Алексеевич": 24,
-      "Саладина Татьяна Алексеевна": 39,
-      "Филипченко Иван Сергеевич": 13
+      "gas:candidate-vibid:2112000827691": 13,
+      "gas:candidate-vibid:2112000826448": 108,
+      "gas:candidate-vibid:2112000802098": 24,
+      "gas:candidate-vibid:2112000802136": 39,
+      "gas:candidate-vibid:2112000801224": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769772&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769772&type=464",
@@ -813,11 +813,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 11,
-      "Медведев Иван Владимирович": 45,
-      "Михайлов Олег Алексеевич": 8,
-      "Саладина Татьяна Алексеевна": 12,
-      "Филипченко Иван Сергеевич": 10
+      "gas:candidate-vibid:2112000827691": 11,
+      "gas:candidate-vibid:2112000826448": 45,
+      "gas:candidate-vibid:2112000802098": 8,
+      "gas:candidate-vibid:2112000802136": 12,
+      "gas:candidate-vibid:2112000801224": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769772&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769772&type=464",
@@ -868,11 +868,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 12,
-      "Медведев Иван Владимирович": 45,
-      "Михайлов Олег Алексеевич": 8,
-      "Саладина Татьяна Алексеевна": 29,
-      "Филипченко Иван Сергеевич": 8
+      "gas:candidate-vibid:2112000827691": 12,
+      "gas:candidate-vibid:2112000826448": 45,
+      "gas:candidate-vibid:2112000802098": 8,
+      "gas:candidate-vibid:2112000802136": 29,
+      "gas:candidate-vibid:2112000801224": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769772&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769772&type=464",
@@ -923,11 +923,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 78,
-      "Медведев Иван Владимирович": 206,
-      "Михайлов Олег Алексеевич": 97,
-      "Саладина Татьяна Алексеевна": 91,
-      "Филипченко Иван Сергеевич": 123
+      "gas:candidate-vibid:2112000827691": 78,
+      "gas:candidate-vibid:2112000826448": 206,
+      "gas:candidate-vibid:2112000802098": 97,
+      "gas:candidate-vibid:2112000802136": 91,
+      "gas:candidate-vibid:2112000801224": 123
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769773&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769773&type=464",
@@ -978,11 +978,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 68,
-      "Медведев Иван Владимирович": 221,
-      "Михайлов Олег Алексеевич": 79,
-      "Саладина Татьяна Алексеевна": 112,
-      "Филипченко Иван Сергеевич": 100
+      "gas:candidate-vibid:2112000827691": 68,
+      "gas:candidate-vibid:2112000826448": 221,
+      "gas:candidate-vibid:2112000802098": 79,
+      "gas:candidate-vibid:2112000802136": 112,
+      "gas:candidate-vibid:2112000801224": 100
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769773&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769773&type=464",
@@ -1033,11 +1033,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 17,
-      "Медведев Иван Владимирович": 76,
-      "Михайлов Олег Алексеевич": 16,
-      "Саладина Татьяна Алексеевна": 43,
-      "Филипченко Иван Сергеевич": 32
+      "gas:candidate-vibid:2112000827691": 17,
+      "gas:candidate-vibid:2112000826448": 76,
+      "gas:candidate-vibid:2112000802098": 16,
+      "gas:candidate-vibid:2112000802136": 43,
+      "gas:candidate-vibid:2112000801224": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769773&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769773&type=464",
@@ -1088,11 +1088,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 38,
-      "Медведев Иван Владимирович": 261,
-      "Михайлов Олег Алексеевич": 67,
-      "Саладина Татьяна Алексеевна": 175,
-      "Филипченко Иван Сергеевич": 92
+      "gas:candidate-vibid:2112000827691": 38,
+      "gas:candidate-vibid:2112000826448": 261,
+      "gas:candidate-vibid:2112000802098": 67,
+      "gas:candidate-vibid:2112000802136": 175,
+      "gas:candidate-vibid:2112000801224": 92
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769773&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769773&type=464",
@@ -1143,11 +1143,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 6,
-      "Медведев Иван Владимирович": 26,
-      "Михайлов Олег Алексеевич": 7,
-      "Саладина Татьяна Алексеевна": 42,
-      "Филипченко Иван Сергеевич": 20
+      "gas:candidate-vibid:2112000827691": 6,
+      "gas:candidate-vibid:2112000826448": 26,
+      "gas:candidate-vibid:2112000802098": 7,
+      "gas:candidate-vibid:2112000802136": 42,
+      "gas:candidate-vibid:2112000801224": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769773&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769773&type=464",
@@ -1198,11 +1198,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 51,
-      "Медведев Иван Владимирович": 236,
-      "Михайлов Олег Алексеевич": 102,
-      "Саладина Татьяна Алексеевна": 105,
-      "Филипченко Иван Сергеевич": 99
+      "gas:candidate-vibid:2112000827691": 51,
+      "gas:candidate-vibid:2112000826448": 236,
+      "gas:candidate-vibid:2112000802098": 102,
+      "gas:candidate-vibid:2112000802136": 105,
+      "gas:candidate-vibid:2112000801224": 99
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769773&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769773&type=464",
@@ -1253,11 +1253,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 52,
-      "Медведев Иван Владимирович": 255,
-      "Михайлов Олег Алексеевич": 89,
-      "Саладина Татьяна Алексеевна": 156,
-      "Филипченко Иван Сергеевич": 88
+      "gas:candidate-vibid:2112000827691": 52,
+      "gas:candidate-vibid:2112000826448": 255,
+      "gas:candidate-vibid:2112000802098": 89,
+      "gas:candidate-vibid:2112000802136": 156,
+      "gas:candidate-vibid:2112000801224": 88
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769773&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769773&type=464",
@@ -1308,11 +1308,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 35,
-      "Медведев Иван Владимирович": 168,
-      "Михайлов Олег Алексеевич": 62,
-      "Саладина Татьяна Алексеевна": 121,
-      "Филипченко Иван Сергеевич": 88
+      "gas:candidate-vibid:2112000827691": 35,
+      "gas:candidate-vibid:2112000826448": 168,
+      "gas:candidate-vibid:2112000802098": 62,
+      "gas:candidate-vibid:2112000802136": 121,
+      "gas:candidate-vibid:2112000801224": 88
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769773&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769773&type=464",
@@ -1363,11 +1363,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 52,
-      "Медведев Иван Владимирович": 186,
-      "Михайлов Олег Алексеевич": 94,
-      "Саладина Татьяна Алексеевна": 133,
-      "Филипченко Иван Сергеевич": 86
+      "gas:candidate-vibid:2112000827691": 52,
+      "gas:candidate-vibid:2112000826448": 186,
+      "gas:candidate-vibid:2112000802098": 94,
+      "gas:candidate-vibid:2112000802136": 133,
+      "gas:candidate-vibid:2112000801224": 86
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769773&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769773&type=464",
@@ -1418,11 +1418,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 65,
-      "Медведев Иван Владимирович": 235,
-      "Михайлов Олег Алексеевич": 120,
-      "Саладина Татьяна Алексеевна": 169,
-      "Филипченко Иван Сергеевич": 110
+      "gas:candidate-vibid:2112000827691": 65,
+      "gas:candidate-vibid:2112000826448": 235,
+      "gas:candidate-vibid:2112000802098": 120,
+      "gas:candidate-vibid:2112000802136": 169,
+      "gas:candidate-vibid:2112000801224": 110
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769773&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769773&type=464",
@@ -1473,11 +1473,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 36,
-      "Медведев Иван Владимирович": 177,
-      "Михайлов Олег Алексеевич": 63,
-      "Саладина Татьяна Алексеевна": 121,
-      "Филипченко Иван Сергеевич": 69
+      "gas:candidate-vibid:2112000827691": 36,
+      "gas:candidate-vibid:2112000826448": 177,
+      "gas:candidate-vibid:2112000802098": 63,
+      "gas:candidate-vibid:2112000802136": 121,
+      "gas:candidate-vibid:2112000801224": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769773&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769773&type=464",
@@ -1528,11 +1528,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 38,
-      "Медведев Иван Владимирович": 181,
-      "Михайлов Олег Алексеевич": 64,
-      "Саладина Татьяна Алексеевна": 115,
-      "Филипченко Иван Сергеевич": 84
+      "gas:candidate-vibid:2112000827691": 38,
+      "gas:candidate-vibid:2112000826448": 181,
+      "gas:candidate-vibid:2112000802098": 64,
+      "gas:candidate-vibid:2112000802136": 115,
+      "gas:candidate-vibid:2112000801224": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769773&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769773&type=464",
@@ -1583,11 +1583,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 32,
-      "Медведев Иван Владимирович": 175,
-      "Михайлов Олег Алексеевич": 46,
-      "Саладина Татьяна Алексеевна": 93,
-      "Филипченко Иван Сергеевич": 72
+      "gas:candidate-vibid:2112000827691": 32,
+      "gas:candidate-vibid:2112000826448": 175,
+      "gas:candidate-vibid:2112000802098": 46,
+      "gas:candidate-vibid:2112000802136": 93,
+      "gas:candidate-vibid:2112000801224": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769773&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769773&type=464",
@@ -1638,11 +1638,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 83,
-      "Медведев Иван Владимирович": 241,
-      "Михайлов Олег Алексеевич": 106,
-      "Саладина Татьяна Алексеевна": 174,
-      "Филипченко Иван Сергеевич": 112
+      "gas:candidate-vibid:2112000827691": 83,
+      "gas:candidate-vibid:2112000826448": 241,
+      "gas:candidate-vibid:2112000802098": 106,
+      "gas:candidate-vibid:2112000802136": 174,
+      "gas:candidate-vibid:2112000801224": 112
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769773&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769773&type=464",
@@ -1693,11 +1693,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 41,
-      "Медведев Иван Владимирович": 168,
-      "Михайлов Олег Алексеевич": 69,
-      "Саладина Татьяна Алексеевна": 130,
-      "Филипченко Иван Сергеевич": 97
+      "gas:candidate-vibid:2112000827691": 41,
+      "gas:candidate-vibid:2112000826448": 168,
+      "gas:candidate-vibid:2112000802098": 69,
+      "gas:candidate-vibid:2112000802136": 130,
+      "gas:candidate-vibid:2112000801224": 97
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769773&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769773&type=464",
@@ -1748,11 +1748,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 50,
-      "Медведев Иван Владимирович": 208,
-      "Михайлов Олег Алексеевич": 89,
-      "Саладина Татьяна Алексеевна": 127,
-      "Филипченко Иван Сергеевич": 107
+      "gas:candidate-vibid:2112000827691": 50,
+      "gas:candidate-vibid:2112000826448": 208,
+      "gas:candidate-vibid:2112000802098": 89,
+      "gas:candidate-vibid:2112000802136": 127,
+      "gas:candidate-vibid:2112000801224": 107
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769773&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769773&type=464",
@@ -1803,11 +1803,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 17,
-      "Медведев Иван Владимирович": 70,
-      "Михайлов Олег Алексеевич": 17,
-      "Саладина Татьяна Алексеевна": 18,
-      "Филипченко Иван Сергеевич": 33
+      "gas:candidate-vibid:2112000827691": 17,
+      "gas:candidate-vibid:2112000826448": 70,
+      "gas:candidate-vibid:2112000802098": 17,
+      "gas:candidate-vibid:2112000802136": 18,
+      "gas:candidate-vibid:2112000801224": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769773&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769773&type=464",
@@ -1858,11 +1858,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 127,
-      "Медведев Иван Владимирович": 353,
-      "Михайлов Олег Алексеевич": 189,
-      "Саладина Татьяна Алексеевна": 267,
-      "Филипченко Иван Сергеевич": 155
+      "gas:candidate-vibid:2112000827691": 127,
+      "gas:candidate-vibid:2112000826448": 353,
+      "gas:candidate-vibid:2112000802098": 189,
+      "gas:candidate-vibid:2112000802136": 267,
+      "gas:candidate-vibid:2112000801224": 155
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769773&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769773&type=464",
@@ -1913,11 +1913,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 53,
-      "Медведев Иван Владимирович": 175,
-      "Михайлов Олег Алексеевич": 53,
-      "Саладина Татьяна Алексеевна": 108,
-      "Филипченко Иван Сергеевич": 62
+      "gas:candidate-vibid:2112000827691": 53,
+      "gas:candidate-vibid:2112000826448": 175,
+      "gas:candidate-vibid:2112000802098": 53,
+      "gas:candidate-vibid:2112000802136": 108,
+      "gas:candidate-vibid:2112000801224": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769773&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769773&type=464",
@@ -1968,11 +1968,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 90,
-      "Медведев Иван Владимирович": 226,
-      "Михайлов Олег Алексеевич": 102,
-      "Саладина Татьяна Алексеевна": 159,
-      "Филипченко Иван Сергеевич": 115
+      "gas:candidate-vibid:2112000827691": 90,
+      "gas:candidate-vibid:2112000826448": 226,
+      "gas:candidate-vibid:2112000802098": 102,
+      "gas:candidate-vibid:2112000802136": 159,
+      "gas:candidate-vibid:2112000801224": 115
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769773&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769773&type=464",
@@ -2023,11 +2023,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 117,
-      "Медведев Иван Владимирович": 265,
-      "Михайлов Олег Алексеевич": 141,
-      "Саладина Татьяна Алексеевна": 219,
-      "Филипченко Иван Сергеевич": 114
+      "gas:candidate-vibid:2112000827691": 117,
+      "gas:candidate-vibid:2112000826448": 265,
+      "gas:candidate-vibid:2112000802098": 141,
+      "gas:candidate-vibid:2112000802136": 219,
+      "gas:candidate-vibid:2112000801224": 114
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769773&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769773&type=464",
@@ -2078,11 +2078,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 63,
-      "Медведев Иван Владимирович": 252,
-      "Михайлов Олег Алексеевич": 101,
-      "Саладина Татьяна Алексеевна": 183,
-      "Филипченко Иван Сергеевич": 143
+      "gas:candidate-vibid:2112000827691": 63,
+      "gas:candidate-vibid:2112000826448": 252,
+      "gas:candidate-vibid:2112000802098": 101,
+      "gas:candidate-vibid:2112000802136": 183,
+      "gas:candidate-vibid:2112000801224": 143
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769773&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769773&type=464",
@@ -2133,11 +2133,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 67,
-      "Медведев Иван Владимирович": 219,
-      "Михайлов Олег Алексеевич": 109,
-      "Саладина Татьяна Алексеевна": 147,
-      "Филипченко Иван Сергеевич": 107
+      "gas:candidate-vibid:2112000827691": 67,
+      "gas:candidate-vibid:2112000826448": 219,
+      "gas:candidate-vibid:2112000802098": 109,
+      "gas:candidate-vibid:2112000802136": 147,
+      "gas:candidate-vibid:2112000801224": 107
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769773&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769773&type=464",
@@ -2188,11 +2188,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 27,
-      "Медведев Иван Владимирович": 83,
-      "Михайлов Олег Алексеевич": 45,
-      "Саладина Татьяна Алексеевна": 59,
-      "Филипченко Иван Сергеевич": 60
+      "gas:candidate-vibid:2112000827691": 27,
+      "gas:candidate-vibid:2112000826448": 83,
+      "gas:candidate-vibid:2112000802098": 45,
+      "gas:candidate-vibid:2112000802136": 59,
+      "gas:candidate-vibid:2112000801224": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769773&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769773&type=464",
@@ -2243,11 +2243,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 76,
-      "Медведев Иван Владимирович": 290,
-      "Михайлов Олег Алексеевич": 122,
-      "Саладина Татьяна Алексеевна": 178,
-      "Филипченко Иван Сергеевич": 106
+      "gas:candidate-vibid:2112000827691": 76,
+      "gas:candidate-vibid:2112000826448": 290,
+      "gas:candidate-vibid:2112000802098": 122,
+      "gas:candidate-vibid:2112000802136": 178,
+      "gas:candidate-vibid:2112000801224": 106
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769773&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769773&type=464",
@@ -2298,11 +2298,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 105,
-      "Медведев Иван Владимирович": 319,
-      "Михайлов Олег Алексеевич": 138,
-      "Саладина Татьяна Алексеевна": 212,
-      "Филипченко Иван Сергеевич": 167
+      "gas:candidate-vibid:2112000827691": 105,
+      "gas:candidate-vibid:2112000826448": 319,
+      "gas:candidate-vibid:2112000802098": 138,
+      "gas:candidate-vibid:2112000802136": 212,
+      "gas:candidate-vibid:2112000801224": 167
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769773&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769773&type=464",
@@ -2353,11 +2353,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 105,
-      "Медведев Иван Владимирович": 372,
-      "Михайлов Олег Алексеевич": 156,
-      "Саладина Татьяна Алексеевна": 278,
-      "Филипченко Иван Сергеевич": 176
+      "gas:candidate-vibid:2112000827691": 105,
+      "gas:candidate-vibid:2112000826448": 372,
+      "gas:candidate-vibid:2112000802098": 156,
+      "gas:candidate-vibid:2112000802136": 278,
+      "gas:candidate-vibid:2112000801224": 176
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769773&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769773&type=464",
@@ -2408,11 +2408,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 82,
-      "Медведев Иван Владимирович": 231,
-      "Михайлов Олег Алексеевич": 110,
-      "Саладина Татьяна Алексеевна": 235,
-      "Филипченко Иван Сергеевич": 115
+      "gas:candidate-vibid:2112000827691": 82,
+      "gas:candidate-vibid:2112000826448": 231,
+      "gas:candidate-vibid:2112000802098": 110,
+      "gas:candidate-vibid:2112000802136": 235,
+      "gas:candidate-vibid:2112000801224": 115
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769773&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769773&type=464",
@@ -2463,11 +2463,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 73,
-      "Медведев Иван Владимирович": 269,
-      "Михайлов Олег Алексеевич": 151,
-      "Саладина Татьяна Алексеевна": 215,
-      "Филипченко Иван Сергеевич": 142
+      "gas:candidate-vibid:2112000827691": 73,
+      "gas:candidate-vibid:2112000826448": 269,
+      "gas:candidate-vibid:2112000802098": 151,
+      "gas:candidate-vibid:2112000802136": 215,
+      "gas:candidate-vibid:2112000801224": 142
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769773&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769773&type=464",
@@ -2518,11 +2518,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 75,
-      "Медведев Иван Владимирович": 253,
-      "Михайлов Олег Алексеевич": 110,
-      "Саладина Татьяна Алексеевна": 145,
-      "Филипченко Иван Сергеевич": 118
+      "gas:candidate-vibid:2112000827691": 75,
+      "gas:candidate-vibid:2112000826448": 253,
+      "gas:candidate-vibid:2112000802098": 110,
+      "gas:candidate-vibid:2112000802136": 145,
+      "gas:candidate-vibid:2112000801224": 118
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769773&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769773&type=464",
@@ -2573,11 +2573,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 98,
-      "Медведев Иван Владимирович": 300,
-      "Михайлов Олег Алексеевич": 157,
-      "Саладина Татьяна Алексеевна": 198,
-      "Филипченко Иван Сергеевич": 129
+      "gas:candidate-vibid:2112000827691": 98,
+      "gas:candidate-vibid:2112000826448": 300,
+      "gas:candidate-vibid:2112000802098": 157,
+      "gas:candidate-vibid:2112000802136": 198,
+      "gas:candidate-vibid:2112000801224": 129
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769773&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769773&type=464",
@@ -2628,11 +2628,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 79,
-      "Медведев Иван Владимирович": 279,
-      "Михайлов Олег Алексеевич": 122,
-      "Саладина Татьяна Алексеевна": 197,
-      "Филипченко Иван Сергеевич": 133
+      "gas:candidate-vibid:2112000827691": 79,
+      "gas:candidate-vibid:2112000826448": 279,
+      "gas:candidate-vibid:2112000802098": 122,
+      "gas:candidate-vibid:2112000802136": 197,
+      "gas:candidate-vibid:2112000801224": 133
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769773&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769773&type=464",
@@ -2683,11 +2683,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 74,
-      "Медведев Иван Владимирович": 283,
-      "Михайлов Олег Алексеевич": 152,
-      "Саладина Татьяна Алексеевна": 254,
-      "Филипченко Иван Сергеевич": 150
+      "gas:candidate-vibid:2112000827691": 74,
+      "gas:candidate-vibid:2112000826448": 283,
+      "gas:candidate-vibid:2112000802098": 152,
+      "gas:candidate-vibid:2112000802136": 254,
+      "gas:candidate-vibid:2112000801224": 150
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769773&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769773&type=464",
@@ -2738,11 +2738,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 80,
-      "Медведев Иван Владимирович": 215,
-      "Михайлов Олег Алексеевич": 128,
-      "Саладина Татьяна Алексеевна": 212,
-      "Филипченко Иван Сергеевич": 112
+      "gas:candidate-vibid:2112000827691": 80,
+      "gas:candidate-vibid:2112000826448": 215,
+      "gas:candidate-vibid:2112000802098": 128,
+      "gas:candidate-vibid:2112000802136": 212,
+      "gas:candidate-vibid:2112000801224": 112
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769773&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769773&type=464",
@@ -2793,11 +2793,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 69,
-      "Медведев Иван Владимирович": 206,
-      "Михайлов Олег Алексеевич": 104,
-      "Саладина Татьяна Алексеевна": 225,
-      "Филипченко Иван Сергеевич": 107
+      "gas:candidate-vibid:2112000827691": 69,
+      "gas:candidate-vibid:2112000826448": 206,
+      "gas:candidate-vibid:2112000802098": 104,
+      "gas:candidate-vibid:2112000802136": 225,
+      "gas:candidate-vibid:2112000801224": 107
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769773&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769773&type=464",
@@ -2848,11 +2848,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 96,
-      "Медведев Иван Владимирович": 262,
-      "Михайлов Олег Алексеевич": 154,
-      "Саладина Татьяна Алексеевна": 172,
-      "Филипченко Иван Сергеевич": 137
+      "gas:candidate-vibid:2112000827691": 96,
+      "gas:candidate-vibid:2112000826448": 262,
+      "gas:candidate-vibid:2112000802098": 154,
+      "gas:candidate-vibid:2112000802136": 172,
+      "gas:candidate-vibid:2112000801224": 137
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769773&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769773&type=464",
@@ -2903,11 +2903,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 87,
-      "Медведев Иван Владимирович": 357,
-      "Михайлов Олег Алексеевич": 110,
-      "Саладина Татьяна Алексеевна": 217,
-      "Филипченко Иван Сергеевич": 138
+      "gas:candidate-vibid:2112000827691": 87,
+      "gas:candidate-vibid:2112000826448": 357,
+      "gas:candidate-vibid:2112000802098": 110,
+      "gas:candidate-vibid:2112000802136": 217,
+      "gas:candidate-vibid:2112000801224": 138
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769773&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769773&type=464",
@@ -2958,11 +2958,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 61,
-      "Медведев Иван Владимирович": 172,
-      "Михайлов Олег Алексеевич": 95,
-      "Саладина Татьяна Алексеевна": 148,
-      "Филипченко Иван Сергеевич": 85
+      "gas:candidate-vibid:2112000827691": 61,
+      "gas:candidate-vibid:2112000826448": 172,
+      "gas:candidate-vibid:2112000802098": 95,
+      "gas:candidate-vibid:2112000802136": 148,
+      "gas:candidate-vibid:2112000801224": 85
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769773&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769773&type=464",
@@ -3013,11 +3013,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 56,
-      "Медведев Иван Владимирович": 219,
-      "Михайлов Олег Алексеевич": 86,
-      "Саладина Татьяна Алексеевна": 129,
-      "Филипченко Иван Сергеевич": 92
+      "gas:candidate-vibid:2112000827691": 56,
+      "gas:candidate-vibid:2112000826448": 219,
+      "gas:candidate-vibid:2112000802098": 86,
+      "gas:candidate-vibid:2112000802136": 129,
+      "gas:candidate-vibid:2112000801224": 92
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769773&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769773&type=464",
@@ -3068,11 +3068,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 31,
-      "Медведев Иван Владимирович": 162,
-      "Михайлов Олег Алексеевич": 68,
-      "Саладина Татьяна Алексеевна": 174,
-      "Филипченко Иван Сергеевич": 79
+      "gas:candidate-vibid:2112000827691": 31,
+      "gas:candidate-vibid:2112000826448": 162,
+      "gas:candidate-vibid:2112000802098": 68,
+      "gas:candidate-vibid:2112000802136": 174,
+      "gas:candidate-vibid:2112000801224": 79
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769773&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769773&type=464",
@@ -3123,11 +3123,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 32,
-      "Медведев Иван Владимирович": 173,
-      "Михайлов Олег Алексеевич": 59,
-      "Саладина Татьяна Алексеевна": 152,
-      "Филипченко Иван Сергеевич": 64
+      "gas:candidate-vibid:2112000827691": 32,
+      "gas:candidate-vibid:2112000826448": 173,
+      "gas:candidate-vibid:2112000802098": 59,
+      "gas:candidate-vibid:2112000802136": 152,
+      "gas:candidate-vibid:2112000801224": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769773&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769773&type=464",
@@ -3178,11 +3178,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 43,
-      "Медведев Иван Владимирович": 173,
-      "Михайлов Олег Алексеевич": 70,
-      "Саладина Татьяна Алексеевна": 107,
-      "Филипченко Иван Сергеевич": 93
+      "gas:candidate-vibid:2112000827691": 43,
+      "gas:candidate-vibid:2112000826448": 173,
+      "gas:candidate-vibid:2112000802098": 70,
+      "gas:candidate-vibid:2112000802136": 107,
+      "gas:candidate-vibid:2112000801224": 93
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769773&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769773&type=464",
@@ -3233,11 +3233,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 52,
-      "Медведев Иван Владимирович": 156,
-      "Михайлов Олег Алексеевич": 45,
-      "Саладина Татьяна Алексеевна": 100,
-      "Филипченко Иван Сергеевич": 59
+      "gas:candidate-vibid:2112000827691": 52,
+      "gas:candidate-vibid:2112000826448": 156,
+      "gas:candidate-vibid:2112000802098": 45,
+      "gas:candidate-vibid:2112000802136": 100,
+      "gas:candidate-vibid:2112000801224": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769773&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769773&type=464",
@@ -3288,11 +3288,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 40,
-      "Медведев Иван Владимирович": 109,
-      "Михайлов Олег Алексеевич": 63,
-      "Саладина Татьяна Алексеевна": 70,
-      "Филипченко Иван Сергеевич": 45
+      "gas:candidate-vibid:2112000827691": 40,
+      "gas:candidate-vibid:2112000826448": 109,
+      "gas:candidate-vibid:2112000802098": 63,
+      "gas:candidate-vibid:2112000802136": 70,
+      "gas:candidate-vibid:2112000801224": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769773&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769773&type=464",
@@ -3343,11 +3343,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 54,
-      "Медведев Иван Владимирович": 162,
-      "Михайлов Олег Алексеевич": 89,
-      "Саладина Татьяна Алексеевна": 107,
-      "Филипченко Иван Сергеевич": 83
+      "gas:candidate-vibid:2112000827691": 54,
+      "gas:candidate-vibid:2112000826448": 162,
+      "gas:candidate-vibid:2112000802098": 89,
+      "gas:candidate-vibid:2112000802136": 107,
+      "gas:candidate-vibid:2112000801224": 83
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769773&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769773&type=464",
@@ -3398,11 +3398,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 47,
-      "Медведев Иван Владимирович": 180,
-      "Михайлов Олег Алексеевич": 85,
-      "Саладина Татьяна Алексеевна": 158,
-      "Филипченко Иван Сергеевич": 71
+      "gas:candidate-vibid:2112000827691": 47,
+      "gas:candidate-vibid:2112000826448": 180,
+      "gas:candidate-vibid:2112000802098": 85,
+      "gas:candidate-vibid:2112000802136": 158,
+      "gas:candidate-vibid:2112000801224": 71
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769773&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769773&type=464",
@@ -3453,11 +3453,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 47,
-      "Медведев Иван Владимирович": 187,
-      "Михайлов Олег Алексеевич": 82,
-      "Саладина Татьяна Алексеевна": 125,
-      "Филипченко Иван Сергеевич": 84
+      "gas:candidate-vibid:2112000827691": 47,
+      "gas:candidate-vibid:2112000826448": 187,
+      "gas:candidate-vibid:2112000802098": 82,
+      "gas:candidate-vibid:2112000802136": 125,
+      "gas:candidate-vibid:2112000801224": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769773&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769773&type=464",
@@ -3508,11 +3508,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 99,
-      "Медведев Иван Владимирович": 324,
-      "Михайлов Олег Алексеевич": 156,
-      "Саладина Татьяна Алексеевна": 292,
-      "Филипченко Иван Сергеевич": 185
+      "gas:candidate-vibid:2112000827691": 99,
+      "gas:candidate-vibid:2112000826448": 324,
+      "gas:candidate-vibid:2112000802098": 156,
+      "gas:candidate-vibid:2112000802136": 292,
+      "gas:candidate-vibid:2112000801224": 185
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769773&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769773&type=464",
@@ -3563,11 +3563,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 59,
-      "Медведев Иван Владимирович": 232,
-      "Михайлов Олег Алексеевич": 95,
-      "Саладина Татьяна Алексеевна": 138,
-      "Филипченко Иван Сергеевич": 107
+      "gas:candidate-vibid:2112000827691": 59,
+      "gas:candidate-vibid:2112000826448": 232,
+      "gas:candidate-vibid:2112000802098": 95,
+      "gas:candidate-vibid:2112000802136": 138,
+      "gas:candidate-vibid:2112000801224": 107
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769773&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769773&type=464",
@@ -3618,11 +3618,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 93,
-      "Медведев Иван Владимирович": 218,
-      "Михайлов Олег Алексеевич": 125,
-      "Саладина Татьяна Алексеевна": 205,
-      "Филипченко Иван Сергеевич": 106
+      "gas:candidate-vibid:2112000827691": 93,
+      "gas:candidate-vibid:2112000826448": 218,
+      "gas:candidate-vibid:2112000802098": 125,
+      "gas:candidate-vibid:2112000802136": 205,
+      "gas:candidate-vibid:2112000801224": 106
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769773&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769773&type=464",
@@ -3673,11 +3673,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 55,
-      "Медведев Иван Владимирович": 209,
-      "Михайлов Олег Алексеевич": 103,
-      "Саладина Татьяна Алексеевна": 184,
-      "Филипченко Иван Сергеевич": 86
+      "gas:candidate-vibid:2112000827691": 55,
+      "gas:candidate-vibid:2112000826448": 209,
+      "gas:candidate-vibid:2112000802098": 103,
+      "gas:candidate-vibid:2112000802136": 184,
+      "gas:candidate-vibid:2112000801224": 86
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769773&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769773&type=464",
@@ -3728,11 +3728,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 31,
-      "Медведев Иван Владимирович": 175,
-      "Михайлов Олег Алексеевич": 47,
-      "Саладина Татьяна Алексеевна": 99,
-      "Филипченко Иван Сергеевич": 70
+      "gas:candidate-vibid:2112000827691": 31,
+      "gas:candidate-vibid:2112000826448": 175,
+      "gas:candidate-vibid:2112000802098": 47,
+      "gas:candidate-vibid:2112000802136": 99,
+      "gas:candidate-vibid:2112000801224": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769773&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769773&type=464",
@@ -3783,11 +3783,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 34,
-      "Медведев Иван Владимирович": 155,
-      "Михайлов Олег Алексеевич": 44,
-      "Саладина Татьяна Алексеевна": 112,
-      "Филипченко Иван Сергеевич": 76
+      "gas:candidate-vibid:2112000827691": 34,
+      "gas:candidate-vibid:2112000826448": 155,
+      "gas:candidate-vibid:2112000802098": 44,
+      "gas:candidate-vibid:2112000802136": 112,
+      "gas:candidate-vibid:2112000801224": 76
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769773&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769773&type=464",
@@ -3838,11 +3838,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 71,
-      "Медведев Иван Владимирович": 246,
-      "Михайлов Олег Алексеевич": 117,
-      "Саладина Татьяна Алексеевна": 261,
-      "Филипченко Иван Сергеевич": 115
+      "gas:candidate-vibid:2112000827691": 71,
+      "gas:candidate-vibid:2112000826448": 246,
+      "gas:candidate-vibid:2112000802098": 117,
+      "gas:candidate-vibid:2112000802136": 261,
+      "gas:candidate-vibid:2112000801224": 115
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769773&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769773&type=464",
@@ -3893,11 +3893,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 86,
-      "Медведев Иван Владимирович": 300,
-      "Михайлов Олег Алексеевич": 133,
-      "Саладина Татьяна Алексеевна": 211,
-      "Филипченко Иван Сергеевич": 127
+      "gas:candidate-vibid:2112000827691": 86,
+      "gas:candidate-vibid:2112000826448": 300,
+      "gas:candidate-vibid:2112000802098": 133,
+      "gas:candidate-vibid:2112000802136": 211,
+      "gas:candidate-vibid:2112000801224": 127
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769773&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769773&type=464",
@@ -3948,11 +3948,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 58,
-      "Медведев Иван Владимирович": 216,
-      "Михайлов Олег Алексеевич": 111,
-      "Саладина Татьяна Алексеевна": 194,
-      "Филипченко Иван Сергеевич": 141
+      "gas:candidate-vibid:2112000827691": 58,
+      "gas:candidate-vibid:2112000826448": 216,
+      "gas:candidate-vibid:2112000802098": 111,
+      "gas:candidate-vibid:2112000802136": 194,
+      "gas:candidate-vibid:2112000801224": 141
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769773&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769773&type=464",
@@ -4003,11 +4003,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 95,
-      "Медведев Иван Владимирович": 319,
-      "Михайлов Олег Алексеевич": 157,
-      "Саладина Татьяна Алексеевна": 211,
-      "Филипченко Иван Сергеевич": 156
+      "gas:candidate-vibid:2112000827691": 95,
+      "gas:candidate-vibid:2112000826448": 319,
+      "gas:candidate-vibid:2112000802098": 157,
+      "gas:candidate-vibid:2112000802136": 211,
+      "gas:candidate-vibid:2112000801224": 156
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769773&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769773&type=464",
@@ -4058,11 +4058,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 80,
-      "Медведев Иван Владимирович": 246,
-      "Михайлов Олег Алексеевич": 156,
-      "Саладина Татьяна Алексеевна": 202,
-      "Филипченко Иван Сергеевич": 118
+      "gas:candidate-vibid:2112000827691": 80,
+      "gas:candidate-vibid:2112000826448": 246,
+      "gas:candidate-vibid:2112000802098": 156,
+      "gas:candidate-vibid:2112000802136": 202,
+      "gas:candidate-vibid:2112000801224": 118
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769773&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769773&type=464",
@@ -4113,11 +4113,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 101,
-      "Медведев Иван Владимирович": 214,
-      "Михайлов Олег Алексеевич": 118,
-      "Саладина Татьяна Алексеевна": 163,
-      "Филипченко Иван Сергеевич": 110
+      "gas:candidate-vibid:2112000827691": 101,
+      "gas:candidate-vibid:2112000826448": 214,
+      "gas:candidate-vibid:2112000802098": 118,
+      "gas:candidate-vibid:2112000802136": 163,
+      "gas:candidate-vibid:2112000801224": 110
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769773&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769773&type=464",
@@ -4168,11 +4168,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 84,
-      "Медведев Иван Владимирович": 295,
-      "Михайлов Олег Алексеевич": 131,
-      "Саладина Татьяна Алексеевна": 155,
-      "Филипченко Иван Сергеевич": 123
+      "gas:candidate-vibid:2112000827691": 84,
+      "gas:candidate-vibid:2112000826448": 295,
+      "gas:candidate-vibid:2112000802098": 131,
+      "gas:candidate-vibid:2112000802136": 155,
+      "gas:candidate-vibid:2112000801224": 123
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769773&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769773&type=464",
@@ -4223,11 +4223,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 143,
-      "Медведев Иван Владимирович": 364,
-      "Михайлов Олег Алексеевич": 226,
-      "Саладина Татьяна Алексеевна": 220,
-      "Филипченко Иван Сергеевич": 173
+      "gas:candidate-vibid:2112000827691": 143,
+      "gas:candidate-vibid:2112000826448": 364,
+      "gas:candidate-vibid:2112000802098": 226,
+      "gas:candidate-vibid:2112000802136": 220,
+      "gas:candidate-vibid:2112000801224": 173
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769773&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769773&type=464",
@@ -4278,11 +4278,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 93,
-      "Медведев Иван Владимирович": 318,
-      "Михайлов Олег Алексеевич": 160,
-      "Саладина Татьяна Алексеевна": 200,
-      "Филипченко Иван Сергеевич": 152
+      "gas:candidate-vibid:2112000827691": 93,
+      "gas:candidate-vibid:2112000826448": 318,
+      "gas:candidate-vibid:2112000802098": 160,
+      "gas:candidate-vibid:2112000802136": 200,
+      "gas:candidate-vibid:2112000801224": 152
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769773&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769773&type=464",
@@ -4333,11 +4333,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 74,
-      "Медведев Иван Владимирович": 230,
-      "Михайлов Олег Алексеевич": 123,
-      "Саладина Татьяна Алексеевна": 164,
-      "Филипченко Иван Сергеевич": 145
+      "gas:candidate-vibid:2112000827691": 74,
+      "gas:candidate-vibid:2112000826448": 230,
+      "gas:candidate-vibid:2112000802098": 123,
+      "gas:candidate-vibid:2112000802136": 164,
+      "gas:candidate-vibid:2112000801224": 145
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769773&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769773&type=464",
@@ -4388,11 +4388,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 74,
-      "Медведев Иван Владимирович": 207,
-      "Михайлов Олег Алексеевич": 129,
-      "Саладина Татьяна Алексеевна": 118,
-      "Филипченко Иван Сергеевич": 118
+      "gas:candidate-vibid:2112000827691": 74,
+      "gas:candidate-vibid:2112000826448": 207,
+      "gas:candidate-vibid:2112000802098": 129,
+      "gas:candidate-vibid:2112000802136": 118,
+      "gas:candidate-vibid:2112000801224": 118
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769773&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769773&type=464",
@@ -4443,11 +4443,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 88,
-      "Медведев Иван Владимирович": 312,
-      "Михайлов Олег Алексеевич": 167,
-      "Саладина Татьяна Алексеевна": 212,
-      "Филипченко Иван Сергеевич": 172
+      "gas:candidate-vibid:2112000827691": 88,
+      "gas:candidate-vibid:2112000826448": 312,
+      "gas:candidate-vibid:2112000802098": 167,
+      "gas:candidate-vibid:2112000802136": 212,
+      "gas:candidate-vibid:2112000801224": 172
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769773&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769773&type=464",
@@ -4498,11 +4498,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 97,
-      "Медведев Иван Владимирович": 300,
-      "Михайлов Олег Алексеевич": 140,
-      "Саладина Татьяна Алексеевна": 235,
-      "Филипченко Иван Сергеевич": 139
+      "gas:candidate-vibid:2112000827691": 97,
+      "gas:candidate-vibid:2112000826448": 300,
+      "gas:candidate-vibid:2112000802098": 140,
+      "gas:candidate-vibid:2112000802136": 235,
+      "gas:candidate-vibid:2112000801224": 139
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769773&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769773&type=464",
@@ -4553,11 +4553,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 51,
-      "Медведев Иван Владимирович": 175,
-      "Михайлов Олег Алексеевич": 70,
-      "Саладина Татьяна Алексеевна": 119,
-      "Филипченко Иван Сергеевич": 87
+      "gas:candidate-vibid:2112000827691": 51,
+      "gas:candidate-vibid:2112000826448": 175,
+      "gas:candidate-vibid:2112000802098": 70,
+      "gas:candidate-vibid:2112000802136": 119,
+      "gas:candidate-vibid:2112000801224": 87
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769773&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769773&type=464",
@@ -4608,11 +4608,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 32,
-      "Медведев Иван Владимирович": 106,
-      "Михайлов Олег Алексеевич": 62,
-      "Саладина Татьяна Алексеевна": 75,
-      "Филипченко Иван Сергеевич": 54
+      "gas:candidate-vibid:2112000827691": 32,
+      "gas:candidate-vibid:2112000826448": 106,
+      "gas:candidate-vibid:2112000802098": 62,
+      "gas:candidate-vibid:2112000802136": 75,
+      "gas:candidate-vibid:2112000801224": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769773&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769773&type=464",
@@ -4663,11 +4663,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 41,
-      "Медведев Иван Владимирович": 152,
-      "Михайлов Олег Алексеевич": 71,
-      "Саладина Татьяна Алексеевна": 151,
-      "Филипченко Иван Сергеевич": 76
+      "gas:candidate-vibid:2112000827691": 41,
+      "gas:candidate-vibid:2112000826448": 152,
+      "gas:candidate-vibid:2112000802098": 71,
+      "gas:candidate-vibid:2112000802136": 151,
+      "gas:candidate-vibid:2112000801224": 76
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769773&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769773&type=464",
@@ -4718,11 +4718,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 44,
-      "Медведев Иван Владимирович": 137,
-      "Михайлов Олег Алексеевич": 87,
-      "Саладина Татьяна Алексеевна": 131,
-      "Филипченко Иван Сергеевич": 55
+      "gas:candidate-vibid:2112000827691": 44,
+      "gas:candidate-vibid:2112000826448": 137,
+      "gas:candidate-vibid:2112000802098": 87,
+      "gas:candidate-vibid:2112000802136": 131,
+      "gas:candidate-vibid:2112000801224": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769773&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769773&type=464",
@@ -4773,11 +4773,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 95,
-      "Медведев Иван Владимирович": 296,
-      "Михайлов Олег Алексеевич": 148,
-      "Саладина Татьяна Алексеевна": 272,
-      "Филипченко Иван Сергеевич": 163
+      "gas:candidate-vibid:2112000827691": 95,
+      "gas:candidate-vibid:2112000826448": 296,
+      "gas:candidate-vibid:2112000802098": 148,
+      "gas:candidate-vibid:2112000802136": 272,
+      "gas:candidate-vibid:2112000801224": 163
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769773&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769773&type=464",
@@ -4828,11 +4828,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 94,
-      "Медведев Иван Владимирович": 306,
-      "Михайлов Олег Алексеевич": 177,
-      "Саладина Татьяна Алексеевна": 231,
-      "Филипченко Иван Сергеевич": 163
+      "gas:candidate-vibid:2112000827691": 94,
+      "gas:candidate-vibid:2112000826448": 306,
+      "gas:candidate-vibid:2112000802098": 177,
+      "gas:candidate-vibid:2112000802136": 231,
+      "gas:candidate-vibid:2112000801224": 163
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769773&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769773&type=464",
@@ -4883,11 +4883,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 71,
-      "Медведев Иван Владимирович": 282,
-      "Михайлов Олег Алексеевич": 115,
-      "Саладина Татьяна Алексеевна": 190,
-      "Филипченко Иван Сергеевич": 106
+      "gas:candidate-vibid:2112000827691": 71,
+      "gas:candidate-vibid:2112000826448": 282,
+      "gas:candidate-vibid:2112000802098": 115,
+      "gas:candidate-vibid:2112000802136": 190,
+      "gas:candidate-vibid:2112000801224": 106
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769773&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769773&type=464",
@@ -4938,11 +4938,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 85,
-      "Медведев Иван Владимирович": 325,
-      "Михайлов Олег Алексеевич": 164,
-      "Саладина Татьяна Алексеевна": 230,
-      "Филипченко Иван Сергеевич": 154
+      "gas:candidate-vibid:2112000827691": 85,
+      "gas:candidate-vibid:2112000826448": 325,
+      "gas:candidate-vibid:2112000802098": 164,
+      "gas:candidate-vibid:2112000802136": 230,
+      "gas:candidate-vibid:2112000801224": 154
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769773&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769773&type=464",
@@ -4993,11 +4993,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 77,
-      "Медведев Иван Владимирович": 222,
-      "Михайлов Олег Алексеевич": 112,
-      "Саладина Татьяна Алексеевна": 154,
-      "Филипченко Иван Сергеевич": 112
+      "gas:candidate-vibid:2112000827691": 77,
+      "gas:candidate-vibid:2112000826448": 222,
+      "gas:candidate-vibid:2112000802098": 112,
+      "gas:candidate-vibid:2112000802136": 154,
+      "gas:candidate-vibid:2112000801224": 112
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769773&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769773&type=464",
@@ -5048,11 +5048,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 78,
-      "Медведев Иван Владимирович": 346,
-      "Михайлов Олег Алексеевич": 145,
-      "Саладина Татьяна Алексеевна": 176,
-      "Филипченко Иван Сергеевич": 135
+      "gas:candidate-vibid:2112000827691": 78,
+      "gas:candidate-vibid:2112000826448": 346,
+      "gas:candidate-vibid:2112000802098": 145,
+      "gas:candidate-vibid:2112000802136": 176,
+      "gas:candidate-vibid:2112000801224": 135
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769773&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769773&type=464",
@@ -5103,11 +5103,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 103,
-      "Медведев Иван Владимирович": 294,
-      "Михайлов Олег Алексеевич": 168,
-      "Саладина Татьяна Алексеевна": 246,
-      "Филипченко Иван Сергеевич": 153
+      "gas:candidate-vibid:2112000827691": 103,
+      "gas:candidate-vibid:2112000826448": 294,
+      "gas:candidate-vibid:2112000802098": 168,
+      "gas:candidate-vibid:2112000802136": 246,
+      "gas:candidate-vibid:2112000801224": 153
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769773&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769773&type=464",
@@ -5158,11 +5158,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 108,
-      "Медведев Иван Владимирович": 426,
-      "Михайлов Олег Алексеевич": 189,
-      "Саладина Татьяна Алексеевна": 292,
-      "Филипченко Иван Сергеевич": 165
+      "gas:candidate-vibid:2112000827691": 108,
+      "gas:candidate-vibid:2112000826448": 426,
+      "gas:candidate-vibid:2112000802098": 189,
+      "gas:candidate-vibid:2112000802136": 292,
+      "gas:candidate-vibid:2112000801224": 165
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769773&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769773&type=464",
@@ -5213,11 +5213,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 84,
-      "Медведев Иван Владимирович": 292,
-      "Михайлов Олег Алексеевич": 140,
-      "Саладина Татьяна Алексеевна": 201,
-      "Филипченко Иван Сергеевич": 161
+      "gas:candidate-vibid:2112000827691": 84,
+      "gas:candidate-vibid:2112000826448": 292,
+      "gas:candidate-vibid:2112000802098": 140,
+      "gas:candidate-vibid:2112000802136": 201,
+      "gas:candidate-vibid:2112000801224": 161
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769773&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769773&type=464",
@@ -5268,11 +5268,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 66,
-      "Медведев Иван Владимирович": 304,
-      "Михайлов Олег Алексеевич": 72,
-      "Саладина Татьяна Алексеевна": 125,
-      "Филипченко Иван Сергеевич": 147
+      "gas:candidate-vibid:2112000827691": 66,
+      "gas:candidate-vibid:2112000826448": 304,
+      "gas:candidate-vibid:2112000802098": 72,
+      "gas:candidate-vibid:2112000802136": 125,
+      "gas:candidate-vibid:2112000801224": 147
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769773&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769773&type=464",
@@ -5323,11 +5323,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 48,
-      "Медведев Иван Владимирович": 251,
-      "Михайлов Олег Алексеевич": 75,
-      "Саладина Татьяна Алексеевна": 157,
-      "Филипченко Иван Сергеевич": 87
+      "gas:candidate-vibid:2112000827691": 48,
+      "gas:candidate-vibid:2112000826448": 251,
+      "gas:candidate-vibid:2112000802098": 75,
+      "gas:candidate-vibid:2112000802136": 157,
+      "gas:candidate-vibid:2112000801224": 87
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769773&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769773&type=464",
@@ -5378,11 +5378,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 36,
-      "Медведев Иван Владимирович": 185,
-      "Михайлов Олег Алексеевич": 59,
-      "Саладина Татьяна Алексеевна": 82,
-      "Филипченко Иван Сергеевич": 68
+      "gas:candidate-vibid:2112000827691": 36,
+      "gas:candidate-vibid:2112000826448": 185,
+      "gas:candidate-vibid:2112000802098": 59,
+      "gas:candidate-vibid:2112000802136": 82,
+      "gas:candidate-vibid:2112000801224": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769773&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769773&type=464",
@@ -5433,11 +5433,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 6,
-      "Медведев Иван Владимирович": 35,
-      "Михайлов Олег Алексеевич": 14,
-      "Саладина Татьяна Алексеевна": 26,
-      "Филипченко Иван Сергеевич": 7
+      "gas:candidate-vibid:2112000827691": 6,
+      "gas:candidate-vibid:2112000826448": 35,
+      "gas:candidate-vibid:2112000802098": 14,
+      "gas:candidate-vibid:2112000802136": 26,
+      "gas:candidate-vibid:2112000801224": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769773&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769773&type=464",
@@ -5488,11 +5488,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 26,
-      "Медведев Иван Владимирович": 107,
-      "Михайлов Олег Алексеевич": 36,
-      "Саладина Татьяна Алексеевна": 48,
-      "Филипченко Иван Сергеевич": 39
+      "gas:candidate-vibid:2112000827691": 26,
+      "gas:candidate-vibid:2112000826448": 107,
+      "gas:candidate-vibid:2112000802098": 36,
+      "gas:candidate-vibid:2112000802136": 48,
+      "gas:candidate-vibid:2112000801224": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769773&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769773&type=464",
@@ -5543,11 +5543,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 25,
-      "Медведев Иван Владимирович": 64,
-      "Михайлов Олег Алексеевич": 27,
-      "Саладина Татьяна Алексеевна": 34,
-      "Филипченко Иван Сергеевич": 34
+      "gas:candidate-vibid:2112000827691": 25,
+      "gas:candidate-vibid:2112000826448": 64,
+      "gas:candidate-vibid:2112000802098": 27,
+      "gas:candidate-vibid:2112000802136": 34,
+      "gas:candidate-vibid:2112000801224": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769773&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769773&type=464",
@@ -5598,11 +5598,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 40,
-      "Медведев Иван Владимирович": 180,
-      "Михайлов Олег Алексеевич": 61,
-      "Саладина Татьяна Алексеевна": 60,
-      "Филипченко Иван Сергеевич": 37
+      "gas:candidate-vibid:2112000827691": 40,
+      "gas:candidate-vibid:2112000826448": 180,
+      "gas:candidate-vibid:2112000802098": 61,
+      "gas:candidate-vibid:2112000802136": 60,
+      "gas:candidate-vibid:2112000801224": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769774&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769774&type=464",
@@ -5653,11 +5653,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 6,
-      "Медведев Иван Владимирович": 67,
-      "Михайлов Олег Алексеевич": 11,
-      "Саладина Татьяна Алексеевна": 24,
-      "Филипченко Иван Сергеевич": 26
+      "gas:candidate-vibid:2112000827691": 6,
+      "gas:candidate-vibid:2112000826448": 67,
+      "gas:candidate-vibid:2112000802098": 11,
+      "gas:candidate-vibid:2112000802136": 24,
+      "gas:candidate-vibid:2112000801224": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769774&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769774&type=464",
@@ -5708,11 +5708,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 22,
-      "Медведев Иван Владимирович": 128,
-      "Михайлов Олег Алексеевич": 27,
-      "Саладина Татьяна Алексеевна": 54,
-      "Филипченко Иван Сергеевич": 42
+      "gas:candidate-vibid:2112000827691": 22,
+      "gas:candidate-vibid:2112000826448": 128,
+      "gas:candidate-vibid:2112000802098": 27,
+      "gas:candidate-vibid:2112000802136": 54,
+      "gas:candidate-vibid:2112000801224": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769774&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769774&type=464",
@@ -5763,11 +5763,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 28,
-      "Медведев Иван Владимирович": 118,
-      "Михайлов Олег Алексеевич": 36,
-      "Саладина Татьяна Алексеевна": 64,
-      "Филипченко Иван Сергеевич": 35
+      "gas:candidate-vibid:2112000827691": 28,
+      "gas:candidate-vibid:2112000826448": 118,
+      "gas:candidate-vibid:2112000802098": 36,
+      "gas:candidate-vibid:2112000802136": 64,
+      "gas:candidate-vibid:2112000801224": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769774&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769774&type=464",
@@ -5818,11 +5818,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 34,
-      "Медведев Иван Владимирович": 215,
-      "Михайлов Олег Алексеевич": 60,
-      "Саладина Татьяна Алексеевна": 127,
-      "Филипченко Иван Сергеевич": 56
+      "gas:candidate-vibid:2112000827691": 34,
+      "gas:candidate-vibid:2112000826448": 215,
+      "gas:candidate-vibid:2112000802098": 60,
+      "gas:candidate-vibid:2112000802136": 127,
+      "gas:candidate-vibid:2112000801224": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769774&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769774&type=464",
@@ -5873,11 +5873,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 15,
-      "Медведев Иван Владимирович": 74,
-      "Михайлов Олег Алексеевич": 16,
-      "Саладина Татьяна Алексеевна": 46,
-      "Филипченко Иван Сергеевич": 27
+      "gas:candidate-vibid:2112000827691": 15,
+      "gas:candidate-vibid:2112000826448": 74,
+      "gas:candidate-vibid:2112000802098": 16,
+      "gas:candidate-vibid:2112000802136": 46,
+      "gas:candidate-vibid:2112000801224": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769774&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769774&type=464",
@@ -5928,11 +5928,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 15,
-      "Медведев Иван Владимирович": 130,
-      "Михайлов Олег Алексеевич": 17,
-      "Саладина Татьяна Алексеевна": 46,
-      "Филипченко Иван Сергеевич": 31
+      "gas:candidate-vibid:2112000827691": 15,
+      "gas:candidate-vibid:2112000826448": 130,
+      "gas:candidate-vibid:2112000802098": 17,
+      "gas:candidate-vibid:2112000802136": 46,
+      "gas:candidate-vibid:2112000801224": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769774&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769774&type=464",
@@ -5983,11 +5983,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 32,
-      "Медведев Иван Владимирович": 136,
-      "Михайлов Олег Алексеевич": 28,
-      "Саладина Татьяна Алексеевна": 31,
-      "Филипченко Иван Сергеевич": 29
+      "gas:candidate-vibid:2112000827691": 32,
+      "gas:candidate-vibid:2112000826448": 136,
+      "gas:candidate-vibid:2112000802098": 28,
+      "gas:candidate-vibid:2112000802136": 31,
+      "gas:candidate-vibid:2112000801224": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769774&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769774&type=464",
@@ -6038,11 +6038,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 56,
-      "Медведев Иван Владимирович": 180,
-      "Михайлов Олег Алексеевич": 70,
-      "Саладина Татьяна Алексеевна": 83,
-      "Филипченко Иван Сергеевич": 74
+      "gas:candidate-vibid:2112000827691": 56,
+      "gas:candidate-vibid:2112000826448": 180,
+      "gas:candidate-vibid:2112000802098": 70,
+      "gas:candidate-vibid:2112000802136": 83,
+      "gas:candidate-vibid:2112000801224": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769774&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769774&type=464",
@@ -6093,11 +6093,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 76,
-      "Медведев Иван Владимирович": 347,
-      "Михайлов Олег Алексеевич": 157,
-      "Саладина Татьяна Алексеевна": 176,
-      "Филипченко Иван Сергеевич": 143
+      "gas:candidate-vibid:2112000827691": 76,
+      "gas:candidate-vibid:2112000826448": 347,
+      "gas:candidate-vibid:2112000802098": 157,
+      "gas:candidate-vibid:2112000802136": 176,
+      "gas:candidate-vibid:2112000801224": 143
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769774&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769774&type=464",
@@ -6148,11 +6148,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 75,
-      "Медведев Иван Владимирович": 259,
-      "Михайлов Олег Алексеевич": 90,
-      "Саладина Татьяна Алексеевна": 137,
-      "Филипченко Иван Сергеевич": 124
+      "gas:candidate-vibid:2112000827691": 75,
+      "gas:candidate-vibid:2112000826448": 259,
+      "gas:candidate-vibid:2112000802098": 90,
+      "gas:candidate-vibid:2112000802136": 137,
+      "gas:candidate-vibid:2112000801224": 124
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769774&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769774&type=464",
@@ -6203,11 +6203,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 98,
-      "Медведев Иван Владимирович": 329,
-      "Михайлов Олег Алексеевич": 144,
-      "Саладина Татьяна Алексеевна": 196,
-      "Филипченко Иван Сергеевич": 131
+      "gas:candidate-vibid:2112000827691": 98,
+      "gas:candidate-vibid:2112000826448": 329,
+      "gas:candidate-vibid:2112000802098": 144,
+      "gas:candidate-vibid:2112000802136": 196,
+      "gas:candidate-vibid:2112000801224": 131
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769774&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769774&type=464",
@@ -6258,11 +6258,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 94,
-      "Медведев Иван Владимирович": 407,
-      "Михайлов Олег Алексеевич": 129,
-      "Саладина Татьяна Алексеевна": 201,
-      "Филипченко Иван Сергеевич": 129
+      "gas:candidate-vibid:2112000827691": 94,
+      "gas:candidate-vibid:2112000826448": 407,
+      "gas:candidate-vibid:2112000802098": 129,
+      "gas:candidate-vibid:2112000802136": 201,
+      "gas:candidate-vibid:2112000801224": 129
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769774&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769774&type=464",
@@ -6313,11 +6313,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 4,
-      "Медведев Иван Владимирович": 27,
-      "Михайлов Олег Алексеевич": 10,
-      "Саладина Татьяна Алексеевна": 19,
-      "Филипченко Иван Сергеевич": 10
+      "gas:candidate-vibid:2112000827691": 4,
+      "gas:candidate-vibid:2112000826448": 27,
+      "gas:candidate-vibid:2112000802098": 10,
+      "gas:candidate-vibid:2112000802136": 19,
+      "gas:candidate-vibid:2112000801224": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769774&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769774&type=464",
@@ -6368,11 +6368,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 6,
-      "Медведев Иван Владимирович": 19,
-      "Михайлов Олег Алексеевич": 5,
-      "Саладина Татьяна Алексеевна": 6,
-      "Филипченко Иван Сергеевич": 17
+      "gas:candidate-vibid:2112000827691": 6,
+      "gas:candidate-vibid:2112000826448": 19,
+      "gas:candidate-vibid:2112000802098": 5,
+      "gas:candidate-vibid:2112000802136": 6,
+      "gas:candidate-vibid:2112000801224": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769774&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769774&type=464",
@@ -6423,11 +6423,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 18,
-      "Медведев Иван Владимирович": 121,
-      "Михайлов Олег Алексеевич": 19,
-      "Саладина Татьяна Алексеевна": 65,
-      "Филипченко Иван Сергеевич": 36
+      "gas:candidate-vibid:2112000827691": 18,
+      "gas:candidate-vibid:2112000826448": 121,
+      "gas:candidate-vibid:2112000802098": 19,
+      "gas:candidate-vibid:2112000802136": 65,
+      "gas:candidate-vibid:2112000801224": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769774&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769774&type=464",
@@ -6478,11 +6478,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 2,
-      "Медведев Иван Владимирович": 37,
-      "Михайлов Олег Алексеевич": 3,
-      "Саладина Татьяна Алексеевна": 10,
-      "Филипченко Иван Сергеевич": 7
+      "gas:candidate-vibid:2112000827691": 2,
+      "gas:candidate-vibid:2112000826448": 37,
+      "gas:candidate-vibid:2112000802098": 3,
+      "gas:candidate-vibid:2112000802136": 10,
+      "gas:candidate-vibid:2112000801224": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769774&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769774&type=464",
@@ -6533,11 +6533,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 13,
-      "Медведев Иван Владимирович": 48,
-      "Михайлов Олег Алексеевич": 16,
-      "Саладина Татьяна Алексеевна": 26,
-      "Филипченко Иван Сергеевич": 16
+      "gas:candidate-vibid:2112000827691": 13,
+      "gas:candidate-vibid:2112000826448": 48,
+      "gas:candidate-vibid:2112000802098": 16,
+      "gas:candidate-vibid:2112000802136": 26,
+      "gas:candidate-vibid:2112000801224": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769774&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769774&type=464",
@@ -6588,11 +6588,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 28,
-      "Медведев Иван Владимирович": 173,
-      "Михайлов Олег Алексеевич": 34,
-      "Саладина Татьяна Алексеевна": 64,
-      "Филипченко Иван Сергеевич": 50
+      "gas:candidate-vibid:2112000827691": 28,
+      "gas:candidate-vibid:2112000826448": 173,
+      "gas:candidate-vibid:2112000802098": 34,
+      "gas:candidate-vibid:2112000802136": 64,
+      "gas:candidate-vibid:2112000801224": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769774&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769774&type=464",
@@ -6643,11 +6643,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 19,
-      "Медведев Иван Владимирович": 81,
-      "Михайлов Олег Алексеевич": 34,
-      "Саладина Татьяна Алексеевна": 53,
-      "Филипченко Иван Сергеевич": 51
+      "gas:candidate-vibid:2112000827691": 19,
+      "gas:candidate-vibid:2112000826448": 81,
+      "gas:candidate-vibid:2112000802098": 34,
+      "gas:candidate-vibid:2112000802136": 53,
+      "gas:candidate-vibid:2112000801224": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769774&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769774&type=464",
@@ -6698,11 +6698,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 18,
-      "Медведев Иван Владимирович": 92,
-      "Михайлов Олег Алексеевич": 33,
-      "Саладина Татьяна Алексеевна": 30,
-      "Филипченко Иван Сергеевич": 20
+      "gas:candidate-vibid:2112000827691": 18,
+      "gas:candidate-vibid:2112000826448": 92,
+      "gas:candidate-vibid:2112000802098": 33,
+      "gas:candidate-vibid:2112000802136": 30,
+      "gas:candidate-vibid:2112000801224": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769774&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769774&type=464",
@@ -6753,11 +6753,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 4,
-      "Медведев Иван Владимирович": 61,
-      "Михайлов Олег Алексеевич": 11,
-      "Саладина Татьяна Алексеевна": 32,
-      "Филипченко Иван Сергеевич": 23
+      "gas:candidate-vibid:2112000827691": 4,
+      "gas:candidate-vibid:2112000826448": 61,
+      "gas:candidate-vibid:2112000802098": 11,
+      "gas:candidate-vibid:2112000802136": 32,
+      "gas:candidate-vibid:2112000801224": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769774&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769774&type=464",
@@ -6808,11 +6808,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 3,
-      "Медведев Иван Владимирович": 12,
-      "Михайлов Олег Алексеевич": 3,
-      "Саладина Татьяна Алексеевна": 6,
-      "Филипченко Иван Сергеевич": 4
+      "gas:candidate-vibid:2112000827691": 3,
+      "gas:candidate-vibid:2112000826448": 12,
+      "gas:candidate-vibid:2112000802098": 3,
+      "gas:candidate-vibid:2112000802136": 6,
+      "gas:candidate-vibid:2112000801224": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769774&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769774&type=464",
@@ -6863,11 +6863,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 0,
-      "Медведев Иван Владимирович": 7,
-      "Михайлов Олег Алексеевич": 2,
-      "Саладина Татьяна Алексеевна": 1,
-      "Филипченко Иван Сергеевич": 2
+      "gas:candidate-vibid:2112000827691": 0,
+      "gas:candidate-vibid:2112000826448": 7,
+      "gas:candidate-vibid:2112000802098": 2,
+      "gas:candidate-vibid:2112000802136": 1,
+      "gas:candidate-vibid:2112000801224": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769774&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769774&type=464",
@@ -6918,11 +6918,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 38,
-      "Медведев Иван Владимирович": 157,
-      "Михайлов Олег Алексеевич": 32,
-      "Саладина Татьяна Алексеевна": 56,
-      "Филипченко Иван Сергеевич": 63
+      "gas:candidate-vibid:2112000827691": 38,
+      "gas:candidate-vibid:2112000826448": 157,
+      "gas:candidate-vibid:2112000802098": 32,
+      "gas:candidate-vibid:2112000802136": 56,
+      "gas:candidate-vibid:2112000801224": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769775&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769775&type=464",
@@ -6973,11 +6973,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 6,
-      "Медведев Иван Владимирович": 61,
-      "Михайлов Олег Алексеевич": 5,
-      "Саладина Татьяна Алексеевна": 5,
-      "Филипченко Иван Сергеевич": 1
+      "gas:candidate-vibid:2112000827691": 6,
+      "gas:candidate-vibid:2112000826448": 61,
+      "gas:candidate-vibid:2112000802098": 5,
+      "gas:candidate-vibid:2112000802136": 5,
+      "gas:candidate-vibid:2112000801224": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769775&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769775&type=464",
@@ -7028,11 +7028,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 32,
-      "Медведев Иван Владимирович": 121,
-      "Михайлов Олег Алексеевич": 52,
-      "Саладина Татьяна Алексеевна": 72,
-      "Филипченко Иван Сергеевич": 63
+      "gas:candidate-vibid:2112000827691": 32,
+      "gas:candidate-vibid:2112000826448": 121,
+      "gas:candidate-vibid:2112000802098": 52,
+      "gas:candidate-vibid:2112000802136": 72,
+      "gas:candidate-vibid:2112000801224": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769775&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769775&type=464",
@@ -7083,11 +7083,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 79,
-      "Медведев Иван Владимирович": 246,
-      "Михайлов Олег Алексеевич": 120,
-      "Саладина Татьяна Алексеевна": 121,
-      "Филипченко Иван Сергеевич": 140
+      "gas:candidate-vibid:2112000827691": 79,
+      "gas:candidate-vibid:2112000826448": 246,
+      "gas:candidate-vibid:2112000802098": 120,
+      "gas:candidate-vibid:2112000802136": 121,
+      "gas:candidate-vibid:2112000801224": 140
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769775&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769775&type=464",
@@ -7138,11 +7138,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 83,
-      "Медведев Иван Владимирович": 249,
-      "Михайлов Олег Алексеевич": 120,
-      "Саладина Татьяна Алексеевна": 140,
-      "Филипченко Иван Сергеевич": 183
+      "gas:candidate-vibid:2112000827691": 83,
+      "gas:candidate-vibid:2112000826448": 249,
+      "gas:candidate-vibid:2112000802098": 120,
+      "gas:candidate-vibid:2112000802136": 140,
+      "gas:candidate-vibid:2112000801224": 183
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769775&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769775&type=464",
@@ -7193,11 +7193,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 47,
-      "Медведев Иван Владимирович": 216,
-      "Михайлов Олег Алексеевич": 111,
-      "Саладина Татьяна Алексеевна": 108,
-      "Филипченко Иван Сергеевич": 106
+      "gas:candidate-vibid:2112000827691": 47,
+      "gas:candidate-vibid:2112000826448": 216,
+      "gas:candidate-vibid:2112000802098": 111,
+      "gas:candidate-vibid:2112000802136": 108,
+      "gas:candidate-vibid:2112000801224": 106
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769775&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769775&type=464",
@@ -7248,11 +7248,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 25,
-      "Медведев Иван Владимирович": 85,
-      "Михайлов Олег Алексеевич": 54,
-      "Саладина Татьяна Алексеевна": 55,
-      "Филипченко Иван Сергеевич": 84
+      "gas:candidate-vibid:2112000827691": 25,
+      "gas:candidate-vibid:2112000826448": 85,
+      "gas:candidate-vibid:2112000802098": 54,
+      "gas:candidate-vibid:2112000802136": 55,
+      "gas:candidate-vibid:2112000801224": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769775&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769775&type=464",
@@ -7303,11 +7303,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 76,
-      "Медведев Иван Владимирович": 223,
-      "Михайлов Олег Алексеевич": 111,
-      "Саладина Татьяна Алексеевна": 118,
-      "Филипченко Иван Сергеевич": 130
+      "gas:candidate-vibid:2112000827691": 76,
+      "gas:candidate-vibid:2112000826448": 223,
+      "gas:candidate-vibid:2112000802098": 111,
+      "gas:candidate-vibid:2112000802136": 118,
+      "gas:candidate-vibid:2112000801224": 130
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769775&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769775&type=464",
@@ -7358,11 +7358,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 94,
-      "Медведев Иван Владимирович": 351,
-      "Михайлов Олег Алексеевич": 133,
-      "Саладина Татьяна Алексеевна": 199,
-      "Филипченко Иван Сергеевич": 186
+      "gas:candidate-vibid:2112000827691": 94,
+      "gas:candidate-vibid:2112000826448": 351,
+      "gas:candidate-vibid:2112000802098": 133,
+      "gas:candidate-vibid:2112000802136": 199,
+      "gas:candidate-vibid:2112000801224": 186
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769775&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769775&type=464",
@@ -7413,11 +7413,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 88,
-      "Медведев Иван Владимирович": 529,
-      "Михайлов Олег Алексеевич": 146,
-      "Саладина Татьяна Алексеевна": 185,
-      "Филипченко Иван Сергеевич": 169
+      "gas:candidate-vibid:2112000827691": 88,
+      "gas:candidate-vibid:2112000826448": 529,
+      "gas:candidate-vibid:2112000802098": 146,
+      "gas:candidate-vibid:2112000802136": 185,
+      "gas:candidate-vibid:2112000801224": 169
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769775&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769775&type=464",
@@ -7468,11 +7468,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 18,
-      "Медведев Иван Владимирович": 84,
-      "Михайлов Олег Алексеевич": 39,
-      "Саладина Татьяна Алексеевна": 50,
-      "Филипченко Иван Сергеевич": 62
+      "gas:candidate-vibid:2112000827691": 18,
+      "gas:candidate-vibid:2112000826448": 84,
+      "gas:candidate-vibid:2112000802098": 39,
+      "gas:candidate-vibid:2112000802136": 50,
+      "gas:candidate-vibid:2112000801224": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769775&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769775&type=464",
@@ -7523,11 +7523,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 29,
-      "Медведев Иван Владимирович": 135,
-      "Михайлов Олег Алексеевич": 43,
-      "Саладина Татьяна Алексеевна": 63,
-      "Филипченко Иван Сергеевич": 80
+      "gas:candidate-vibid:2112000827691": 29,
+      "gas:candidate-vibid:2112000826448": 135,
+      "gas:candidate-vibid:2112000802098": 43,
+      "gas:candidate-vibid:2112000802136": 63,
+      "gas:candidate-vibid:2112000801224": 80
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769775&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769775&type=464",
@@ -7578,11 +7578,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 72,
-      "Медведев Иван Владимирович": 281,
-      "Михайлов Олег Алексеевич": 121,
-      "Саладина Татьяна Алексеевна": 154,
-      "Филипченко Иван Сергеевич": 180
+      "gas:candidate-vibid:2112000827691": 72,
+      "gas:candidate-vibid:2112000826448": 281,
+      "gas:candidate-vibid:2112000802098": 121,
+      "gas:candidate-vibid:2112000802136": 154,
+      "gas:candidate-vibid:2112000801224": 180
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769775&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769775&type=464",
@@ -7633,11 +7633,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 29,
-      "Медведев Иван Владимирович": 218,
-      "Михайлов Олег Алексеевич": 70,
-      "Саладина Татьяна Алексеевна": 98,
-      "Филипченко Иван Сергеевич": 119
+      "gas:candidate-vibid:2112000827691": 29,
+      "gas:candidate-vibid:2112000826448": 218,
+      "gas:candidate-vibid:2112000802098": 70,
+      "gas:candidate-vibid:2112000802136": 98,
+      "gas:candidate-vibid:2112000801224": 119
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769775&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769775&type=464",
@@ -7688,11 +7688,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 123,
-      "Медведев Иван Владимирович": 412,
-      "Михайлов Олег Алексеевич": 151,
-      "Саладина Татьяна Алексеевна": 179,
-      "Филипченко Иван Сергеевич": 190
+      "gas:candidate-vibid:2112000827691": 123,
+      "gas:candidate-vibid:2112000826448": 412,
+      "gas:candidate-vibid:2112000802098": 151,
+      "gas:candidate-vibid:2112000802136": 179,
+      "gas:candidate-vibid:2112000801224": 190
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769775&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769775&type=464",
@@ -7743,11 +7743,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 102,
-      "Медведев Иван Владимирович": 293,
-      "Михайлов Олег Алексеевич": 82,
-      "Саладина Татьяна Алексеевна": 142,
-      "Филипченко Иван Сергеевич": 138
+      "gas:candidate-vibid:2112000827691": 102,
+      "gas:candidate-vibid:2112000826448": 293,
+      "gas:candidate-vibid:2112000802098": 82,
+      "gas:candidate-vibid:2112000802136": 142,
+      "gas:candidate-vibid:2112000801224": 138
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769775&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769775&type=464",
@@ -7798,11 +7798,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 79,
-      "Медведев Иван Владимирович": 301,
-      "Михайлов Олег Алексеевич": 137,
-      "Саладина Татьяна Алексеевна": 145,
-      "Филипченко Иван Сергеевич": 212
+      "gas:candidate-vibid:2112000827691": 79,
+      "gas:candidate-vibid:2112000826448": 301,
+      "gas:candidate-vibid:2112000802098": 137,
+      "gas:candidate-vibid:2112000802136": 145,
+      "gas:candidate-vibid:2112000801224": 212
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769775&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769775&type=464",
@@ -7853,11 +7853,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 118,
-      "Медведев Иван Владимирович": 369,
-      "Михайлов Олег Алексеевич": 202,
-      "Саладина Татьяна Алексеевна": 95,
-      "Филипченко Иван Сергеевич": 128
+      "gas:candidate-vibid:2112000827691": 118,
+      "gas:candidate-vibid:2112000826448": 369,
+      "gas:candidate-vibid:2112000802098": 202,
+      "gas:candidate-vibid:2112000802136": 95,
+      "gas:candidate-vibid:2112000801224": 128
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769775&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769775&type=464",
@@ -7908,11 +7908,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 38,
-      "Медведев Иван Владимирович": 193,
-      "Михайлов Олег Алексеевич": 36,
-      "Саладина Татьяна Алексеевна": 24,
-      "Филипченко Иван Сергеевич": 45
+      "gas:candidate-vibid:2112000827691": 38,
+      "gas:candidate-vibid:2112000826448": 193,
+      "gas:candidate-vibid:2112000802098": 36,
+      "gas:candidate-vibid:2112000802136": 24,
+      "gas:candidate-vibid:2112000801224": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769775&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769775&type=464",
@@ -7963,11 +7963,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 14,
-      "Медведев Иван Владимирович": 94,
-      "Михайлов Олег Алексеевич": 25,
-      "Саладина Татьяна Алексеевна": 18,
-      "Филипченко Иван Сергеевич": 55
+      "gas:candidate-vibid:2112000827691": 14,
+      "gas:candidate-vibid:2112000826448": 94,
+      "gas:candidate-vibid:2112000802098": 25,
+      "gas:candidate-vibid:2112000802136": 18,
+      "gas:candidate-vibid:2112000801224": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769775&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769775&type=464",
@@ -8018,11 +8018,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 18,
-      "Медведев Иван Владимирович": 73,
-      "Михайлов Олег Алексеевич": 16,
-      "Саладина Татьяна Алексеевна": 24,
-      "Филипченко Иван Сергеевич": 21
+      "gas:candidate-vibid:2112000827691": 18,
+      "gas:candidate-vibid:2112000826448": 73,
+      "gas:candidate-vibid:2112000802098": 16,
+      "gas:candidate-vibid:2112000802136": 24,
+      "gas:candidate-vibid:2112000801224": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769775&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769775&type=464",
@@ -8073,11 +8073,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 28,
-      "Медведев Иван Владимирович": 117,
-      "Михайлов Олег Алексеевич": 13,
-      "Саладина Татьяна Алексеевна": 25,
-      "Филипченко Иван Сергеевич": 23
+      "gas:candidate-vibid:2112000827691": 28,
+      "gas:candidate-vibid:2112000826448": 117,
+      "gas:candidate-vibid:2112000802098": 13,
+      "gas:candidate-vibid:2112000802136": 25,
+      "gas:candidate-vibid:2112000801224": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769775&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769775&type=464",
@@ -8128,11 +8128,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 10,
-      "Медведев Иван Владимирович": 173,
-      "Михайлов Олег Алексеевич": 11,
-      "Саладина Татьяна Алексеевна": 4,
-      "Филипченко Иван Сергеевич": 12
+      "gas:candidate-vibid:2112000827691": 10,
+      "gas:candidate-vibid:2112000826448": 173,
+      "gas:candidate-vibid:2112000802098": 11,
+      "gas:candidate-vibid:2112000802136": 4,
+      "gas:candidate-vibid:2112000801224": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769775&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769775&type=464",
@@ -8183,11 +8183,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 29,
-      "Медведев Иван Владимирович": 100,
-      "Михайлов Олег Алексеевич": 37,
-      "Саладина Татьяна Алексеевна": 36,
-      "Филипченко Иван Сергеевич": 43
+      "gas:candidate-vibid:2112000827691": 29,
+      "gas:candidate-vibid:2112000826448": 100,
+      "gas:candidate-vibid:2112000802098": 37,
+      "gas:candidate-vibid:2112000802136": 36,
+      "gas:candidate-vibid:2112000801224": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769775&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769775&type=464",
@@ -8238,11 +8238,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 34,
-      "Медведев Иван Владимирович": 157,
-      "Михайлов Олег Алексеевич": 39,
-      "Саладина Татьяна Алексеевна": 27,
-      "Филипченко Иван Сергеевич": 54
+      "gas:candidate-vibid:2112000827691": 34,
+      "gas:candidate-vibid:2112000826448": 157,
+      "gas:candidate-vibid:2112000802098": 39,
+      "gas:candidate-vibid:2112000802136": 27,
+      "gas:candidate-vibid:2112000801224": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769775&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769775&type=464",
@@ -8293,11 +8293,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 4,
-      "Медведев Иван Владимирович": 29,
-      "Михайлов Олег Алексеевич": 5,
-      "Саладина Татьяна Алексеевна": 10,
-      "Филипченко Иван Сергеевич": 9
+      "gas:candidate-vibid:2112000827691": 4,
+      "gas:candidate-vibid:2112000826448": 29,
+      "gas:candidate-vibid:2112000802098": 5,
+      "gas:candidate-vibid:2112000802136": 10,
+      "gas:candidate-vibid:2112000801224": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769775&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769775&type=464",
@@ -8348,11 +8348,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 23,
-      "Медведев Иван Владимирович": 73,
-      "Михайлов Олег Алексеевич": 10,
-      "Саладина Татьяна Алексеевна": 25,
-      "Филипченко Иван Сергеевич": 53
+      "gas:candidate-vibid:2112000827691": 23,
+      "gas:candidate-vibid:2112000826448": 73,
+      "gas:candidate-vibid:2112000802098": 10,
+      "gas:candidate-vibid:2112000802136": 25,
+      "gas:candidate-vibid:2112000801224": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769775&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769775&type=464",
@@ -8403,11 +8403,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 15,
-      "Медведев Иван Владимирович": 44,
-      "Михайлов Олег Алексеевич": 14,
-      "Саладина Татьяна Алексеевна": 17,
-      "Филипченко Иван Сергеевич": 17
+      "gas:candidate-vibid:2112000827691": 15,
+      "gas:candidate-vibid:2112000826448": 44,
+      "gas:candidate-vibid:2112000802098": 14,
+      "gas:candidate-vibid:2112000802136": 17,
+      "gas:candidate-vibid:2112000801224": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769776&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769776&type=464",
@@ -8458,11 +8458,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 5,
-      "Медведев Иван Владимирович": 25,
-      "Михайлов Олег Алексеевич": 7,
-      "Саладина Татьяна Алексеевна": 5,
-      "Филипченко Иван Сергеевич": 7
+      "gas:candidate-vibid:2112000827691": 5,
+      "gas:candidate-vibid:2112000826448": 25,
+      "gas:candidate-vibid:2112000802098": 7,
+      "gas:candidate-vibid:2112000802136": 5,
+      "gas:candidate-vibid:2112000801224": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769776&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769776&type=464",
@@ -8513,11 +8513,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 15,
-      "Медведев Иван Владимирович": 94,
-      "Михайлов Олег Алексеевич": 21,
-      "Саладина Татьяна Алексеевна": 50,
-      "Филипченко Иван Сергеевич": 26
+      "gas:candidate-vibid:2112000827691": 15,
+      "gas:candidate-vibid:2112000826448": 94,
+      "gas:candidate-vibid:2112000802098": 21,
+      "gas:candidate-vibid:2112000802136": 50,
+      "gas:candidate-vibid:2112000801224": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769776&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769776&type=464",
@@ -8568,11 +8568,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 3,
-      "Медведев Иван Владимирович": 54,
-      "Михайлов Олег Алексеевич": 4,
-      "Саладина Татьяна Алексеевна": 9,
-      "Филипченко Иван Сергеевич": 10
+      "gas:candidate-vibid:2112000827691": 3,
+      "gas:candidate-vibid:2112000826448": 54,
+      "gas:candidate-vibid:2112000802098": 4,
+      "gas:candidate-vibid:2112000802136": 9,
+      "gas:candidate-vibid:2112000801224": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769776&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769776&type=464",
@@ -8623,11 +8623,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 6,
-      "Медведев Иван Владимирович": 29,
-      "Михайлов Олег Алексеевич": 8,
-      "Саладина Татьяна Алексеевна": 4,
-      "Филипченко Иван Сергеевич": 6
+      "gas:candidate-vibid:2112000827691": 6,
+      "gas:candidate-vibid:2112000826448": 29,
+      "gas:candidate-vibid:2112000802098": 8,
+      "gas:candidate-vibid:2112000802136": 4,
+      "gas:candidate-vibid:2112000801224": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769776&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769776&type=464",
@@ -8678,11 +8678,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 32,
-      "Медведев Иван Владимирович": 199,
-      "Михайлов Олег Алексеевич": 37,
-      "Саладина Татьяна Алексеевна": 45,
-      "Филипченко Иван Сергеевич": 69
+      "gas:candidate-vibid:2112000827691": 32,
+      "gas:candidate-vibid:2112000826448": 199,
+      "gas:candidate-vibid:2112000802098": 37,
+      "gas:candidate-vibid:2112000802136": 45,
+      "gas:candidate-vibid:2112000801224": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769776&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769776&type=464",
@@ -8733,11 +8733,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 6,
-      "Медведев Иван Владимирович": 33,
-      "Михайлов Олег Алексеевич": 7,
-      "Саладина Татьяна Алексеевна": 16,
-      "Филипченко Иван Сергеевич": 8
+      "gas:candidate-vibid:2112000827691": 6,
+      "gas:candidate-vibid:2112000826448": 33,
+      "gas:candidate-vibid:2112000802098": 7,
+      "gas:candidate-vibid:2112000802136": 16,
+      "gas:candidate-vibid:2112000801224": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769776&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769776&type=464",
@@ -8788,11 +8788,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 15,
-      "Медведев Иван Владимирович": 64,
-      "Михайлов Олег Алексеевич": 10,
-      "Саладина Татьяна Алексеевна": 28,
-      "Филипченко Иван Сергеевич": 13
+      "gas:candidate-vibid:2112000827691": 15,
+      "gas:candidate-vibid:2112000826448": 64,
+      "gas:candidate-vibid:2112000802098": 10,
+      "gas:candidate-vibid:2112000802136": 28,
+      "gas:candidate-vibid:2112000801224": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769776&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769776&type=464",
@@ -8843,11 +8843,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 19,
-      "Медведев Иван Владимирович": 96,
-      "Михайлов Олег Алексеевич": 12,
-      "Саладина Татьяна Алексеевна": 34,
-      "Филипченко Иван Сергеевич": 14
+      "gas:candidate-vibid:2112000827691": 19,
+      "gas:candidate-vibid:2112000826448": 96,
+      "gas:candidate-vibid:2112000802098": 12,
+      "gas:candidate-vibid:2112000802136": 34,
+      "gas:candidate-vibid:2112000801224": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769776&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769776&type=464",
@@ -8898,11 +8898,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 19,
-      "Медведев Иван Владимирович": 96,
-      "Михайлов Олег Алексеевич": 24,
-      "Саладина Татьяна Алексеевна": 46,
-      "Филипченко Иван Сергеевич": 21
+      "gas:candidate-vibid:2112000827691": 19,
+      "gas:candidate-vibid:2112000826448": 96,
+      "gas:candidate-vibid:2112000802098": 24,
+      "gas:candidate-vibid:2112000802136": 46,
+      "gas:candidate-vibid:2112000801224": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769776&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769776&type=464",
@@ -8953,11 +8953,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 20,
-      "Медведев Иван Владимирович": 89,
-      "Михайлов Олег Алексеевич": 11,
-      "Саладина Татьяна Алексеевна": 33,
-      "Филипченко Иван Сергеевич": 24
+      "gas:candidate-vibid:2112000827691": 20,
+      "gas:candidate-vibid:2112000826448": 89,
+      "gas:candidate-vibid:2112000802098": 11,
+      "gas:candidate-vibid:2112000802136": 33,
+      "gas:candidate-vibid:2112000801224": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769776&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769776&type=464",
@@ -9008,11 +9008,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 8,
-      "Медведев Иван Владимирович": 55,
-      "Михайлов Олег Алексеевич": 14,
-      "Саладина Татьяна Алексеевна": 46,
-      "Филипченко Иван Сергеевич": 32
+      "gas:candidate-vibid:2112000827691": 8,
+      "gas:candidate-vibid:2112000826448": 55,
+      "gas:candidate-vibid:2112000802098": 14,
+      "gas:candidate-vibid:2112000802136": 46,
+      "gas:candidate-vibid:2112000801224": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769776&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769776&type=464",
@@ -9063,11 +9063,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 26,
-      "Медведев Иван Владимирович": 153,
-      "Михайлов Олег Алексеевич": 37,
-      "Саладина Татьяна Алексеевна": 66,
-      "Филипченко Иван Сергеевич": 52
+      "gas:candidate-vibid:2112000827691": 26,
+      "gas:candidate-vibid:2112000826448": 153,
+      "gas:candidate-vibid:2112000802098": 37,
+      "gas:candidate-vibid:2112000802136": 66,
+      "gas:candidate-vibid:2112000801224": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769776&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769776&type=464",
@@ -9118,11 +9118,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 43,
-      "Медведев Иван Владимирович": 204,
-      "Михайлов Олег Алексеевич": 67,
-      "Саладина Татьяна Алексеевна": 159,
-      "Филипченко Иван Сергеевич": 128
+      "gas:candidate-vibid:2112000827691": 43,
+      "gas:candidate-vibid:2112000826448": 204,
+      "gas:candidate-vibid:2112000802098": 67,
+      "gas:candidate-vibid:2112000802136": 159,
+      "gas:candidate-vibid:2112000801224": 128
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769776&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769776&type=464",
@@ -9173,11 +9173,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 46,
-      "Медведев Иван Владимирович": 208,
-      "Михайлов Олег Алексеевич": 58,
-      "Саладина Татьяна Алексеевна": 172,
-      "Филипченко Иван Сергеевич": 84
+      "gas:candidate-vibid:2112000827691": 46,
+      "gas:candidate-vibid:2112000826448": 208,
+      "gas:candidate-vibid:2112000802098": 58,
+      "gas:candidate-vibid:2112000802136": 172,
+      "gas:candidate-vibid:2112000801224": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769776&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769776&type=464",
@@ -9228,11 +9228,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 68,
-      "Медведев Иван Владимирович": 252,
-      "Михайлов Олег Алексеевич": 87,
-      "Саладина Татьяна Алексеевна": 167,
-      "Филипченко Иван Сергеевич": 128
+      "gas:candidate-vibid:2112000827691": 68,
+      "gas:candidate-vibid:2112000826448": 252,
+      "gas:candidate-vibid:2112000802098": 87,
+      "gas:candidate-vibid:2112000802136": 167,
+      "gas:candidate-vibid:2112000801224": 128
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769776&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769776&type=464",
@@ -9283,11 +9283,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 22,
-      "Медведев Иван Владимирович": 89,
-      "Михайлов Олег Алексеевич": 30,
-      "Саладина Татьяна Алексеевна": 52,
-      "Филипченко Иван Сергеевич": 29
+      "gas:candidate-vibid:2112000827691": 22,
+      "gas:candidate-vibid:2112000826448": 89,
+      "gas:candidate-vibid:2112000802098": 30,
+      "gas:candidate-vibid:2112000802136": 52,
+      "gas:candidate-vibid:2112000801224": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769776&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769776&type=464",
@@ -9338,11 +9338,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 7,
-      "Медведев Иван Владимирович": 40,
-      "Михайлов Олег Алексеевич": 13,
-      "Саладина Татьяна Алексеевна": 36,
-      "Филипченко Иван Сергеевич": 27
+      "gas:candidate-vibid:2112000827691": 7,
+      "gas:candidate-vibid:2112000826448": 40,
+      "gas:candidate-vibid:2112000802098": 13,
+      "gas:candidate-vibid:2112000802136": 36,
+      "gas:candidate-vibid:2112000801224": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769776&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769776&type=464",
@@ -9393,11 +9393,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 8,
-      "Медведев Иван Владимирович": 64,
-      "Михайлов Олег Алексеевич": 8,
-      "Саладина Татьяна Алексеевна": 65,
-      "Филипченко Иван Сергеевич": 13
+      "gas:candidate-vibid:2112000827691": 8,
+      "gas:candidate-vibid:2112000826448": 64,
+      "gas:candidate-vibid:2112000802098": 8,
+      "gas:candidate-vibid:2112000802136": 65,
+      "gas:candidate-vibid:2112000801224": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769776&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769776&type=464",
@@ -9448,11 +9448,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 12,
-      "Медведев Иван Владимирович": 60,
-      "Михайлов Олег Алексеевич": 4,
-      "Саладина Татьяна Алексеевна": 25,
-      "Филипченко Иван Сергеевич": 20
+      "gas:candidate-vibid:2112000827691": 12,
+      "gas:candidate-vibid:2112000826448": 60,
+      "gas:candidate-vibid:2112000802098": 4,
+      "gas:candidate-vibid:2112000802136": 25,
+      "gas:candidate-vibid:2112000801224": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769776&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769776&type=464",
@@ -9503,11 +9503,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 14,
-      "Медведев Иван Владимирович": 125,
-      "Михайлов Олег Алексеевич": 8,
-      "Саладина Татьяна Алексеевна": 24,
-      "Филипченко Иван Сергеевич": 20
+      "gas:candidate-vibid:2112000827691": 14,
+      "gas:candidate-vibid:2112000826448": 125,
+      "gas:candidate-vibid:2112000802098": 8,
+      "gas:candidate-vibid:2112000802136": 24,
+      "gas:candidate-vibid:2112000801224": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769776&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769776&type=464",
@@ -9558,11 +9558,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 32,
-      "Медведев Иван Владимирович": 180,
-      "Михайлов Олег Алексеевич": 20,
-      "Саладина Татьяна Алексеевна": 71,
-      "Филипченко Иван Сергеевич": 33
+      "gas:candidate-vibid:2112000827691": 32,
+      "gas:candidate-vibid:2112000826448": 180,
+      "gas:candidate-vibid:2112000802098": 20,
+      "gas:candidate-vibid:2112000802136": 71,
+      "gas:candidate-vibid:2112000801224": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769776&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769776&type=464",
@@ -9613,11 +9613,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 18,
-      "Медведев Иван Владимирович": 58,
-      "Михайлов Олег Алексеевич": 5,
-      "Саладина Татьяна Алексеевна": 19,
-      "Филипченко Иван Сергеевич": 20
+      "gas:candidate-vibid:2112000827691": 18,
+      "gas:candidate-vibid:2112000826448": 58,
+      "gas:candidate-vibid:2112000802098": 5,
+      "gas:candidate-vibid:2112000802136": 19,
+      "gas:candidate-vibid:2112000801224": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769776&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769776&type=464",
@@ -9668,11 +9668,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 3,
-      "Медведев Иван Владимирович": 27,
-      "Михайлов Олег Алексеевич": 2,
-      "Саладина Татьяна Алексеевна": 4,
-      "Филипченко Иван Сергеевич": 8
+      "gas:candidate-vibid:2112000827691": 3,
+      "gas:candidate-vibid:2112000826448": 27,
+      "gas:candidate-vibid:2112000802098": 2,
+      "gas:candidate-vibid:2112000802136": 4,
+      "gas:candidate-vibid:2112000801224": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769776&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769776&type=464",
@@ -9723,11 +9723,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 7,
-      "Медведев Иван Владимирович": 35,
-      "Михайлов Олег Алексеевич": 3,
-      "Саладина Татьяна Алексеевна": 16,
-      "Филипченко Иван Сергеевич": 2
+      "gas:candidate-vibid:2112000827691": 7,
+      "gas:candidate-vibid:2112000826448": 35,
+      "gas:candidate-vibid:2112000802098": 3,
+      "gas:candidate-vibid:2112000802136": 16,
+      "gas:candidate-vibid:2112000801224": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769776&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769776&type=464",
@@ -9778,11 +9778,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 7,
-      "Медведев Иван Владимирович": 24,
-      "Михайлов Олег Алексеевич": 8,
-      "Саладина Татьяна Алексеевна": 13,
-      "Филипченко Иван Сергеевич": 4
+      "gas:candidate-vibid:2112000827691": 7,
+      "gas:candidate-vibid:2112000826448": 24,
+      "gas:candidate-vibid:2112000802098": 8,
+      "gas:candidate-vibid:2112000802136": 13,
+      "gas:candidate-vibid:2112000801224": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769776&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769776&type=464",
@@ -9833,11 +9833,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 10,
-      "Медведев Иван Владимирович": 9,
-      "Михайлов Олег Алексеевич": 2,
-      "Саладина Татьяна Алексеевна": 22,
-      "Филипченко Иван Сергеевич": 5
+      "gas:candidate-vibid:2112000827691": 10,
+      "gas:candidate-vibid:2112000826448": 9,
+      "gas:candidate-vibid:2112000802098": 2,
+      "gas:candidate-vibid:2112000802136": 22,
+      "gas:candidate-vibid:2112000801224": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769776&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769776&type=464",
@@ -9888,11 +9888,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 53,
-      "Медведев Иван Владимирович": 269,
-      "Михайлов Олег Алексеевич": 47,
-      "Саладина Татьяна Алексеевна": 209,
-      "Филипченко Иван Сергеевич": 68
+      "gas:candidate-vibid:2112000827691": 53,
+      "gas:candidate-vibid:2112000826448": 269,
+      "gas:candidate-vibid:2112000802098": 47,
+      "gas:candidate-vibid:2112000802136": 209,
+      "gas:candidate-vibid:2112000801224": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769776&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769776&type=464",
@@ -9943,11 +9943,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 56,
-      "Медведев Иван Владимирович": 140,
-      "Михайлов Олег Алексеевич": 25,
-      "Саладина Татьяна Алексеевна": 163,
-      "Филипченко Иван Сергеевич": 63
+      "gas:candidate-vibid:2112000827691": 56,
+      "gas:candidate-vibid:2112000826448": 140,
+      "gas:candidate-vibid:2112000802098": 25,
+      "gas:candidate-vibid:2112000802136": 163,
+      "gas:candidate-vibid:2112000801224": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769776&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769776&type=464",
@@ -9998,11 +9998,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 15,
-      "Медведев Иван Владимирович": 111,
-      "Михайлов Олег Алексеевич": 22,
-      "Саладина Татьяна Алексеевна": 60,
-      "Филипченко Иван Сергеевич": 13
+      "gas:candidate-vibid:2112000827691": 15,
+      "gas:candidate-vibid:2112000826448": 111,
+      "gas:candidate-vibid:2112000802098": 22,
+      "gas:candidate-vibid:2112000802136": 60,
+      "gas:candidate-vibid:2112000801224": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769776&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769776&type=464",
@@ -10053,11 +10053,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 20,
-      "Медведев Иван Владимирович": 62,
-      "Михайлов Олег Алексеевич": 12,
-      "Саладина Татьяна Алексеевна": 86,
-      "Филипченко Иван Сергеевич": 11
+      "gas:candidate-vibid:2112000827691": 20,
+      "gas:candidate-vibid:2112000826448": 62,
+      "gas:candidate-vibid:2112000802098": 12,
+      "gas:candidate-vibid:2112000802136": 86,
+      "gas:candidate-vibid:2112000801224": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769776&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769776&type=464",
@@ -10108,11 +10108,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 11,
-      "Медведев Иван Владимирович": 57,
-      "Михайлов Олег Алексеевич": 11,
-      "Саладина Татьяна Алексеевна": 37,
-      "Филипченко Иван Сергеевич": 18
+      "gas:candidate-vibid:2112000827691": 11,
+      "gas:candidate-vibid:2112000826448": 57,
+      "gas:candidate-vibid:2112000802098": 11,
+      "gas:candidate-vibid:2112000802136": 37,
+      "gas:candidate-vibid:2112000801224": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769776&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769776&type=464",
@@ -10163,11 +10163,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 8,
-      "Медведев Иван Владимирович": 56,
-      "Михайлов Олег Алексеевич": 15,
-      "Саладина Татьяна Алексеевна": 37,
-      "Филипченко Иван Сергеевич": 10
+      "gas:candidate-vibid:2112000827691": 8,
+      "gas:candidate-vibid:2112000826448": 56,
+      "gas:candidate-vibid:2112000802098": 15,
+      "gas:candidate-vibid:2112000802136": 37,
+      "gas:candidate-vibid:2112000801224": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769776&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769776&type=464",
@@ -10218,11 +10218,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 10,
-      "Медведев Иван Владимирович": 36,
-      "Михайлов Олег Алексеевич": 8,
-      "Саладина Татьяна Алексеевна": 39,
-      "Филипченко Иван Сергеевич": 9
+      "gas:candidate-vibid:2112000827691": 10,
+      "gas:candidate-vibid:2112000826448": 36,
+      "gas:candidate-vibid:2112000802098": 8,
+      "gas:candidate-vibid:2112000802136": 39,
+      "gas:candidate-vibid:2112000801224": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769776&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769776&type=464",
@@ -10273,11 +10273,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 4,
-      "Медведев Иван Владимирович": 30,
-      "Михайлов Олег Алексеевич": 2,
-      "Саладина Татьяна Алексеевна": 14,
-      "Филипченко Иван Сергеевич": 6
+      "gas:candidate-vibid:2112000827691": 4,
+      "gas:candidate-vibid:2112000826448": 30,
+      "gas:candidate-vibid:2112000802098": 2,
+      "gas:candidate-vibid:2112000802136": 14,
+      "gas:candidate-vibid:2112000801224": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769776&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769776&type=464",
@@ -10328,11 +10328,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 29,
-      "Медведев Иван Владимирович": 161,
-      "Михайлов Олег Алексеевич": 29,
-      "Саладина Татьяна Алексеевна": 84,
-      "Филипченко Иван Сергеевич": 42
+      "gas:candidate-vibid:2112000827691": 29,
+      "gas:candidate-vibid:2112000826448": 161,
+      "gas:candidate-vibid:2112000802098": 29,
+      "gas:candidate-vibid:2112000802136": 84,
+      "gas:candidate-vibid:2112000801224": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769776&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769776&type=464",
@@ -10383,11 +10383,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 2,
-      "Медведев Иван Владимирович": 42,
-      "Михайлов Олег Алексеевич": 6,
-      "Саладина Татьяна Алексеевна": 42,
-      "Филипченко Иван Сергеевич": 14
+      "gas:candidate-vibid:2112000827691": 2,
+      "gas:candidate-vibid:2112000826448": 42,
+      "gas:candidate-vibid:2112000802098": 6,
+      "gas:candidate-vibid:2112000802136": 42,
+      "gas:candidate-vibid:2112000801224": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769776&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769776&type=464",
@@ -10438,11 +10438,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 9,
-      "Медведев Иван Владимирович": 27,
-      "Михайлов Олег Алексеевич": 7,
-      "Саладина Татьяна Алексеевна": 35,
-      "Филипченко Иван Сергеевич": 18
+      "gas:candidate-vibid:2112000827691": 9,
+      "gas:candidate-vibid:2112000826448": 27,
+      "gas:candidate-vibid:2112000802098": 7,
+      "gas:candidate-vibid:2112000802136": 35,
+      "gas:candidate-vibid:2112000801224": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769776&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769776&type=464",
@@ -10493,11 +10493,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 9,
-      "Медведев Иван Владимирович": 85,
-      "Михайлов Олег Алексеевич": 6,
-      "Саладина Татьяна Алексеевна": 28,
-      "Филипченко Иван Сергеевич": 8
+      "gas:candidate-vibid:2112000827691": 9,
+      "gas:candidate-vibid:2112000826448": 85,
+      "gas:candidate-vibid:2112000802098": 6,
+      "gas:candidate-vibid:2112000802136": 28,
+      "gas:candidate-vibid:2112000801224": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769776&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769776&type=464",
@@ -10548,11 +10548,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 74,
-      "Медведев Иван Владимирович": 127,
-      "Михайлов Олег Алексеевич": 64,
-      "Саладина Татьяна Алексеевна": 76,
-      "Филипченко Иван Сергеевич": 99
+      "gas:candidate-vibid:2112000827691": 74,
+      "gas:candidate-vibid:2112000826448": 127,
+      "gas:candidate-vibid:2112000802098": 64,
+      "gas:candidate-vibid:2112000802136": 76,
+      "gas:candidate-vibid:2112000801224": 99
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769777&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769777&type=464",
@@ -10603,11 +10603,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 99,
-      "Медведев Иван Владимирович": 180,
-      "Михайлов Олег Алексеевич": 71,
-      "Саладина Татьяна Алексеевна": 89,
-      "Филипченко Иван Сергеевич": 137
+      "gas:candidate-vibid:2112000827691": 99,
+      "gas:candidate-vibid:2112000826448": 180,
+      "gas:candidate-vibid:2112000802098": 71,
+      "gas:candidate-vibid:2112000802136": 89,
+      "gas:candidate-vibid:2112000801224": 137
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769777&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769777&type=464",
@@ -10658,11 +10658,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 92,
-      "Медведев Иван Владимирович": 176,
-      "Михайлов Олег Алексеевич": 87,
-      "Саладина Татьяна Алексеевна": 91,
-      "Филипченко Иван Сергеевич": 124
+      "gas:candidate-vibid:2112000827691": 92,
+      "gas:candidate-vibid:2112000826448": 176,
+      "gas:candidate-vibid:2112000802098": 87,
+      "gas:candidate-vibid:2112000802136": 91,
+      "gas:candidate-vibid:2112000801224": 124
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769777&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769777&type=464",
@@ -10713,11 +10713,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 99,
-      "Медведев Иван Владимирович": 167,
-      "Михайлов Олег Алексеевич": 84,
-      "Саладина Татьяна Алексеевна": 105,
-      "Филипченко Иван Сергеевич": 134
+      "gas:candidate-vibid:2112000827691": 99,
+      "gas:candidate-vibid:2112000826448": 167,
+      "gas:candidate-vibid:2112000802098": 84,
+      "gas:candidate-vibid:2112000802136": 105,
+      "gas:candidate-vibid:2112000801224": 134
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769777&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769777&type=464",
@@ -10768,11 +10768,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 94,
-      "Медведев Иван Владимирович": 185,
-      "Михайлов Олег Алексеевич": 73,
-      "Саладина Татьяна Алексеевна": 106,
-      "Филипченко Иван Сергеевич": 118
+      "gas:candidate-vibid:2112000827691": 94,
+      "gas:candidate-vibid:2112000826448": 185,
+      "gas:candidate-vibid:2112000802098": 73,
+      "gas:candidate-vibid:2112000802136": 106,
+      "gas:candidate-vibid:2112000801224": 118
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769777&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769777&type=464",
@@ -10823,11 +10823,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 89,
-      "Медведев Иван Владимирович": 139,
-      "Михайлов Олег Алексеевич": 75,
-      "Саладина Татьяна Алексеевна": 73,
-      "Филипченко Иван Сергеевич": 109
+      "gas:candidate-vibid:2112000827691": 89,
+      "gas:candidate-vibid:2112000826448": 139,
+      "gas:candidate-vibid:2112000802098": 75,
+      "gas:candidate-vibid:2112000802136": 73,
+      "gas:candidate-vibid:2112000801224": 109
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769777&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769777&type=464",
@@ -10878,11 +10878,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 78,
-      "Медведев Иван Владимирович": 114,
-      "Михайлов Олег Алексеевич": 40,
-      "Саладина Татьяна Алексеевна": 48,
-      "Филипченко Иван Сергеевич": 78
+      "gas:candidate-vibid:2112000827691": 78,
+      "gas:candidate-vibid:2112000826448": 114,
+      "gas:candidate-vibid:2112000802098": 40,
+      "gas:candidate-vibid:2112000802136": 48,
+      "gas:candidate-vibid:2112000801224": 78
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769777&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769777&type=464",
@@ -10933,11 +10933,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 85,
-      "Медведев Иван Владимирович": 178,
-      "Михайлов Олег Алексеевич": 55,
-      "Саладина Татьяна Алексеевна": 81,
-      "Филипченко Иван Сергеевич": 121
+      "gas:candidate-vibid:2112000827691": 85,
+      "gas:candidate-vibid:2112000826448": 178,
+      "gas:candidate-vibid:2112000802098": 55,
+      "gas:candidate-vibid:2112000802136": 81,
+      "gas:candidate-vibid:2112000801224": 121
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769777&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769777&type=464",
@@ -10988,11 +10988,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 27,
-      "Медведев Иван Владимирович": 46,
-      "Михайлов Олег Алексеевич": 13,
-      "Саладина Татьяна Алексеевна": 8,
-      "Филипченко Иван Сергеевич": 10
+      "gas:candidate-vibid:2112000827691": 27,
+      "gas:candidate-vibid:2112000826448": 46,
+      "gas:candidate-vibid:2112000802098": 13,
+      "gas:candidate-vibid:2112000802136": 8,
+      "gas:candidate-vibid:2112000801224": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769777&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769777&type=464",
@@ -11043,11 +11043,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 29,
-      "Медведев Иван Владимирович": 32,
-      "Михайлов Олег Алексеевич": 2,
-      "Саладина Татьяна Алексеевна": 10,
-      "Филипченко Иван Сергеевич": 4
+      "gas:candidate-vibid:2112000827691": 29,
+      "gas:candidate-vibid:2112000826448": 32,
+      "gas:candidate-vibid:2112000802098": 2,
+      "gas:candidate-vibid:2112000802136": 10,
+      "gas:candidate-vibid:2112000801224": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769777&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769777&type=464",
@@ -11098,11 +11098,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 11,
-      "Медведев Иван Владимирович": 27,
-      "Михайлов Олег Алексеевич": 2,
-      "Саладина Татьяна Алексеевна": 3,
-      "Филипченко Иван Сергеевич": 8
+      "gas:candidate-vibid:2112000827691": 11,
+      "gas:candidate-vibid:2112000826448": 27,
+      "gas:candidate-vibid:2112000802098": 2,
+      "gas:candidate-vibid:2112000802136": 3,
+      "gas:candidate-vibid:2112000801224": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769777&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769777&type=464",
@@ -11153,11 +11153,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 33,
-      "Медведев Иван Владимирович": 43,
-      "Михайлов Олег Алексеевич": 11,
-      "Саладина Татьяна Алексеевна": 20,
-      "Филипченко Иван Сергеевич": 10
+      "gas:candidate-vibid:2112000827691": 33,
+      "gas:candidate-vibid:2112000826448": 43,
+      "gas:candidate-vibid:2112000802098": 11,
+      "gas:candidate-vibid:2112000802136": 20,
+      "gas:candidate-vibid:2112000801224": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769777&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769777&type=464",
@@ -11208,11 +11208,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 17,
-      "Медведев Иван Владимирович": 50,
-      "Михайлов Олег Алексеевич": 3,
-      "Саладина Татьяна Алексеевна": 11,
-      "Филипченко Иван Сергеевич": 18
+      "gas:candidate-vibid:2112000827691": 17,
+      "gas:candidate-vibid:2112000826448": 50,
+      "gas:candidate-vibid:2112000802098": 3,
+      "gas:candidate-vibid:2112000802136": 11,
+      "gas:candidate-vibid:2112000801224": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769777&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769777&type=464",
@@ -11263,11 +11263,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 56,
-      "Медведев Иван Владимирович": 58,
-      "Михайлов Олег Алексеевич": 8,
-      "Саладина Татьяна Алексеевна": 14,
-      "Филипченко Иван Сергеевич": 38
+      "gas:candidate-vibid:2112000827691": 56,
+      "gas:candidate-vibid:2112000826448": 58,
+      "gas:candidate-vibid:2112000802098": 8,
+      "gas:candidate-vibid:2112000802136": 14,
+      "gas:candidate-vibid:2112000801224": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769777&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769777&type=464",
@@ -11318,11 +11318,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 10,
-      "Медведев Иван Владимирович": 7,
-      "Михайлов Олег Алексеевич": 1,
-      "Саладина Татьяна Алексеевна": 0,
-      "Филипченко Иван Сергеевич": 8
+      "gas:candidate-vibid:2112000827691": 10,
+      "gas:candidate-vibid:2112000826448": 7,
+      "gas:candidate-vibid:2112000802098": 1,
+      "gas:candidate-vibid:2112000802136": 0,
+      "gas:candidate-vibid:2112000801224": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769777&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769777&type=464",
@@ -11373,11 +11373,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 13,
-      "Медведев Иван Владимирович": 26,
-      "Михайлов Олег Алексеевич": 6,
-      "Саладина Татьяна Алексеевна": 16,
-      "Филипченко Иван Сергеевич": 4
+      "gas:candidate-vibid:2112000827691": 13,
+      "gas:candidate-vibid:2112000826448": 26,
+      "gas:candidate-vibid:2112000802098": 6,
+      "gas:candidate-vibid:2112000802136": 16,
+      "gas:candidate-vibid:2112000801224": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769777&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769777&type=464",
@@ -11428,11 +11428,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 70,
-      "Медведев Иван Владимирович": 134,
-      "Михайлов Олег Алексеевич": 49,
-      "Саладина Татьяна Алексеевна": 66,
-      "Филипченко Иван Сергеевич": 92
+      "gas:candidate-vibid:2112000827691": 70,
+      "gas:candidate-vibid:2112000826448": 134,
+      "gas:candidate-vibid:2112000802098": 49,
+      "gas:candidate-vibid:2112000802136": 66,
+      "gas:candidate-vibid:2112000801224": 92
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769777&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769777&type=464",
@@ -11483,11 +11483,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 92,
-      "Медведев Иван Владимирович": 265,
-      "Михайлов Олег Алексеевич": 97,
-      "Саладина Татьяна Алексеевна": 104,
-      "Филипченко Иван Сергеевич": 147
+      "gas:candidate-vibid:2112000827691": 92,
+      "gas:candidate-vibid:2112000826448": 265,
+      "gas:candidate-vibid:2112000802098": 97,
+      "gas:candidate-vibid:2112000802136": 104,
+      "gas:candidate-vibid:2112000801224": 147
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769777&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769777&type=464",
@@ -11538,11 +11538,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 102,
-      "Медведев Иван Владимирович": 291,
-      "Михайлов Олег Алексеевич": 91,
-      "Саладина Татьяна Алексеевна": 131,
-      "Филипченко Иван Сергеевич": 161
+      "gas:candidate-vibid:2112000827691": 102,
+      "gas:candidate-vibid:2112000826448": 291,
+      "gas:candidate-vibid:2112000802098": 91,
+      "gas:candidate-vibid:2112000802136": 131,
+      "gas:candidate-vibid:2112000801224": 161
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769777&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769777&type=464",
@@ -11593,11 +11593,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 149,
-      "Медведев Иван Владимирович": 229,
-      "Михайлов Олег Алексеевич": 115,
-      "Саладина Татьяна Алексеевна": 130,
-      "Филипченко Иван Сергеевич": 139
+      "gas:candidate-vibid:2112000827691": 149,
+      "gas:candidate-vibid:2112000826448": 229,
+      "gas:candidate-vibid:2112000802098": 115,
+      "gas:candidate-vibid:2112000802136": 130,
+      "gas:candidate-vibid:2112000801224": 139
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769777&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769777&type=464",
@@ -11648,11 +11648,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 86,
-      "Медведев Иван Владимирович": 214,
-      "Михайлов Олег Алексеевич": 123,
-      "Саладина Татьяна Алексеевна": 119,
-      "Филипченко Иван Сергеевич": 129
+      "gas:candidate-vibid:2112000827691": 86,
+      "gas:candidate-vibid:2112000826448": 214,
+      "gas:candidate-vibid:2112000802098": 123,
+      "gas:candidate-vibid:2112000802136": 119,
+      "gas:candidate-vibid:2112000801224": 129
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769777&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769777&type=464",
@@ -11703,11 +11703,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 78,
-      "Медведев Иван Владимирович": 168,
-      "Михайлов Олег Алексеевич": 77,
-      "Саладина Татьяна Алексеевна": 84,
-      "Филипченко Иван Сергеевич": 106
+      "gas:candidate-vibid:2112000827691": 78,
+      "gas:candidate-vibid:2112000826448": 168,
+      "gas:candidate-vibid:2112000802098": 77,
+      "gas:candidate-vibid:2112000802136": 84,
+      "gas:candidate-vibid:2112000801224": 106
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769777&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769777&type=464",
@@ -11758,11 +11758,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 117,
-      "Медведев Иван Владимирович": 145,
-      "Михайлов Олег Алексеевич": 90,
-      "Саладина Татьяна Алексеевна": 133,
-      "Филипченко Иван Сергеевич": 130
+      "gas:candidate-vibid:2112000827691": 117,
+      "gas:candidate-vibid:2112000826448": 145,
+      "gas:candidate-vibid:2112000802098": 90,
+      "gas:candidate-vibid:2112000802136": 133,
+      "gas:candidate-vibid:2112000801224": 130
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769777&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769777&type=464",
@@ -11813,11 +11813,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 128,
-      "Медведев Иван Владимирович": 199,
-      "Михайлов Олег Алексеевич": 89,
-      "Саладина Татьяна Алексеевна": 104,
-      "Филипченко Иван Сергеевич": 103
+      "gas:candidate-vibid:2112000827691": 128,
+      "gas:candidate-vibid:2112000826448": 199,
+      "gas:candidate-vibid:2112000802098": 89,
+      "gas:candidate-vibid:2112000802136": 104,
+      "gas:candidate-vibid:2112000801224": 103
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769777&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769777&type=464",
@@ -11868,11 +11868,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 102,
-      "Медведев Иван Владимирович": 162,
-      "Михайлов Олег Алексеевич": 103,
-      "Саладина Татьяна Алексеевна": 108,
-      "Филипченко Иван Сергеевич": 127
+      "gas:candidate-vibid:2112000827691": 102,
+      "gas:candidate-vibid:2112000826448": 162,
+      "gas:candidate-vibid:2112000802098": 103,
+      "gas:candidate-vibid:2112000802136": 108,
+      "gas:candidate-vibid:2112000801224": 127
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769777&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769777&type=464",
@@ -11923,11 +11923,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 103,
-      "Медведев Иван Владимирович": 200,
-      "Михайлов Олег Алексеевич": 128,
-      "Саладина Татьяна Алексеевна": 94,
-      "Филипченко Иван Сергеевич": 133
+      "gas:candidate-vibid:2112000827691": 103,
+      "gas:candidate-vibid:2112000826448": 200,
+      "gas:candidate-vibid:2112000802098": 128,
+      "gas:candidate-vibid:2112000802136": 94,
+      "gas:candidate-vibid:2112000801224": 133
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769777&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769777&type=464",
@@ -11978,11 +11978,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 79,
-      "Медведев Иван Владимирович": 162,
-      "Михайлов Олег Алексеевич": 67,
-      "Саладина Татьяна Алексеевна": 97,
-      "Филипченко Иван Сергеевич": 101
+      "gas:candidate-vibid:2112000827691": 79,
+      "gas:candidate-vibid:2112000826448": 162,
+      "gas:candidate-vibid:2112000802098": 67,
+      "gas:candidate-vibid:2112000802136": 97,
+      "gas:candidate-vibid:2112000801224": 101
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769777&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769777&type=464",
@@ -12033,11 +12033,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 36,
-      "Медведев Иван Владимирович": 91,
-      "Михайлов Олег Алексеевич": 23,
-      "Саладина Татьяна Алексеевна": 47,
-      "Филипченко Иван Сергеевич": 38
+      "gas:candidate-vibid:2112000827691": 36,
+      "gas:candidate-vibid:2112000826448": 91,
+      "gas:candidate-vibid:2112000802098": 23,
+      "gas:candidate-vibid:2112000802136": 47,
+      "gas:candidate-vibid:2112000801224": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769777&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769777&type=464",
@@ -12088,11 +12088,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 127,
-      "Медведев Иван Владимирович": 172,
-      "Михайлов Олег Алексеевич": 93,
-      "Саладина Татьяна Алексеевна": 105,
-      "Филипченко Иван Сергеевич": 133
+      "gas:candidate-vibid:2112000827691": 127,
+      "gas:candidate-vibid:2112000826448": 172,
+      "gas:candidate-vibid:2112000802098": 93,
+      "gas:candidate-vibid:2112000802136": 105,
+      "gas:candidate-vibid:2112000801224": 133
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769777&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769777&type=464",
@@ -12143,11 +12143,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 70,
-      "Медведев Иван Владимирович": 101,
-      "Михайлов Олег Алексеевич": 38,
-      "Саладина Татьяна Алексеевна": 60,
-      "Филипченко Иван Сергеевич": 71
+      "gas:candidate-vibid:2112000827691": 70,
+      "gas:candidate-vibid:2112000826448": 101,
+      "gas:candidate-vibid:2112000802098": 38,
+      "gas:candidate-vibid:2112000802136": 60,
+      "gas:candidate-vibid:2112000801224": 71
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769777&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769777&type=464",
@@ -12198,11 +12198,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 33,
-      "Медведев Иван Владимирович": 53,
-      "Михайлов Олег Алексеевич": 22,
-      "Саладина Татьяна Алексеевна": 18,
-      "Филипченко Иван Сергеевич": 19
+      "gas:candidate-vibid:2112000827691": 33,
+      "gas:candidate-vibid:2112000826448": 53,
+      "gas:candidate-vibid:2112000802098": 22,
+      "gas:candidate-vibid:2112000802136": 18,
+      "gas:candidate-vibid:2112000801224": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769777&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769777&type=464",
@@ -12253,11 +12253,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 7,
-      "Медведев Иван Владимирович": 16,
-      "Михайлов Олег Алексеевич": 11,
-      "Саладина Татьяна Алексеевна": 1,
-      "Филипченко Иван Сергеевич": 3
+      "gas:candidate-vibid:2112000827691": 7,
+      "gas:candidate-vibid:2112000826448": 16,
+      "gas:candidate-vibid:2112000802098": 11,
+      "gas:candidate-vibid:2112000802136": 1,
+      "gas:candidate-vibid:2112000801224": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769777&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769777&type=464",
@@ -12308,11 +12308,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 11,
-      "Медведев Иван Владимирович": 9,
-      "Михайлов Олег Алексеевич": 7,
-      "Саладина Татьяна Алексеевна": 3,
-      "Филипченко Иван Сергеевич": 7
+      "gas:candidate-vibid:2112000827691": 11,
+      "gas:candidate-vibid:2112000826448": 9,
+      "gas:candidate-vibid:2112000802098": 7,
+      "gas:candidate-vibid:2112000802136": 3,
+      "gas:candidate-vibid:2112000801224": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769777&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769777&type=464",
@@ -12363,11 +12363,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 18,
-      "Медведев Иван Владимирович": 35,
-      "Михайлов Олег Алексеевич": 18,
-      "Саладина Татьяна Алексеевна": 18,
-      "Филипченко Иван Сергеевич": 25
+      "gas:candidate-vibid:2112000827691": 18,
+      "gas:candidate-vibid:2112000826448": 35,
+      "gas:candidate-vibid:2112000802098": 18,
+      "gas:candidate-vibid:2112000802136": 18,
+      "gas:candidate-vibid:2112000801224": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769777&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769777&type=464",
@@ -12418,11 +12418,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 113,
-      "Медведев Иван Владимирович": 289,
-      "Михайлов Олег Алексеевич": 111,
-      "Саладина Татьяна Алексеевна": 95,
-      "Филипченко Иван Сергеевич": 125
+      "gas:candidate-vibid:2112000827691": 113,
+      "gas:candidate-vibid:2112000826448": 289,
+      "gas:candidate-vibid:2112000802098": 111,
+      "gas:candidate-vibid:2112000802136": 95,
+      "gas:candidate-vibid:2112000801224": 125
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769777&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769777&type=464",
@@ -12473,11 +12473,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 41,
-      "Медведев Иван Владимирович": 129,
-      "Михайлов Олег Алексеевич": 58,
-      "Саладина Татьяна Алексеевна": 49,
-      "Филипченко Иван Сергеевич": 73
+      "gas:candidate-vibid:2112000827691": 41,
+      "gas:candidate-vibid:2112000826448": 129,
+      "gas:candidate-vibid:2112000802098": 58,
+      "gas:candidate-vibid:2112000802136": 49,
+      "gas:candidate-vibid:2112000801224": 73
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769777&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769777&type=464",
@@ -12528,11 +12528,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 14,
-      "Медведев Иван Владимирович": 67,
-      "Михайлов Олег Алексеевич": 19,
-      "Саладина Татьяна Алексеевна": 11,
-      "Филипченко Иван Сергеевич": 32
+      "gas:candidate-vibid:2112000827691": 14,
+      "gas:candidate-vibid:2112000826448": 67,
+      "gas:candidate-vibid:2112000802098": 19,
+      "gas:candidate-vibid:2112000802136": 11,
+      "gas:candidate-vibid:2112000801224": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769777&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769777&type=464",
@@ -12583,11 +12583,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 12,
-      "Медведев Иван Владимирович": 33,
-      "Михайлов Олег Алексеевич": 6,
-      "Саладина Татьяна Алексеевна": 7,
-      "Филипченко Иван Сергеевич": 8
+      "gas:candidate-vibid:2112000827691": 12,
+      "gas:candidate-vibid:2112000826448": 33,
+      "gas:candidate-vibid:2112000802098": 6,
+      "gas:candidate-vibid:2112000802136": 7,
+      "gas:candidate-vibid:2112000801224": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769777&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769777&type=464",
@@ -12638,11 +12638,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 62,
-      "Медведев Иван Владимирович": 54,
-      "Михайлов Олег Алексеевич": 3,
-      "Саладина Татьяна Алексеевна": 24,
-      "Филипченко Иван Сергеевич": 21
+      "gas:candidate-vibid:2112000827691": 62,
+      "gas:candidate-vibid:2112000826448": 54,
+      "gas:candidate-vibid:2112000802098": 3,
+      "gas:candidate-vibid:2112000802136": 24,
+      "gas:candidate-vibid:2112000801224": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769777&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769777&type=464",
@@ -12693,11 +12693,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 22,
-      "Медведев Иван Владимирович": 15,
-      "Михайлов Олег Алексеевич": 3,
-      "Саладина Татьяна Алексеевна": 6,
-      "Филипченко Иван Сергеевич": 6
+      "gas:candidate-vibid:2112000827691": 22,
+      "gas:candidate-vibid:2112000826448": 15,
+      "gas:candidate-vibid:2112000802098": 3,
+      "gas:candidate-vibid:2112000802136": 6,
+      "gas:candidate-vibid:2112000801224": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769777&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769777&type=464",
@@ -12748,11 +12748,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 17,
-      "Медведев Иван Владимирович": 25,
-      "Михайлов Олег Алексеевич": 11,
-      "Саладина Татьяна Алексеевна": 3,
-      "Филипченко Иван Сергеевич": 8
+      "gas:candidate-vibid:2112000827691": 17,
+      "gas:candidate-vibid:2112000826448": 25,
+      "gas:candidate-vibid:2112000802098": 11,
+      "gas:candidate-vibid:2112000802136": 3,
+      "gas:candidate-vibid:2112000801224": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769777&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769777&type=464",
@@ -12803,11 +12803,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 16,
-      "Медведев Иван Владимирович": 80,
-      "Михайлов Олег Алексеевич": 26,
-      "Саладина Татьяна Алексеевна": 30,
-      "Филипченко Иван Сергеевич": 55
+      "gas:candidate-vibid:2112000827691": 16,
+      "gas:candidate-vibid:2112000826448": 80,
+      "gas:candidate-vibid:2112000802098": 26,
+      "gas:candidate-vibid:2112000802136": 30,
+      "gas:candidate-vibid:2112000801224": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769777&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769777&type=464",
@@ -12858,11 +12858,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 126,
-      "Медведев Иван Владимирович": 163,
-      "Михайлов Олег Алексеевич": 55,
-      "Саладина Татьяна Алексеевна": 56,
-      "Филипченко Иван Сергеевич": 73
+      "gas:candidate-vibid:2112000827691": 126,
+      "gas:candidate-vibid:2112000826448": 163,
+      "gas:candidate-vibid:2112000802098": 55,
+      "gas:candidate-vibid:2112000802136": 56,
+      "gas:candidate-vibid:2112000801224": 73
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769777&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769777&type=464",
@@ -12913,11 +12913,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 8,
-      "Медведев Иван Владимирович": 25,
-      "Михайлов Олег Алексеевич": 4,
-      "Саладина Татьяна Алексеевна": 12,
-      "Филипченко Иван Сергеевич": 3
+      "gas:candidate-vibid:2112000827691": 8,
+      "gas:candidate-vibid:2112000826448": 25,
+      "gas:candidate-vibid:2112000802098": 4,
+      "gas:candidate-vibid:2112000802136": 12,
+      "gas:candidate-vibid:2112000801224": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769777&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769777&type=464",
@@ -12968,11 +12968,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 12,
-      "Медведев Иван Владимирович": 47,
-      "Михайлов Олег Алексеевич": 8,
-      "Саладина Татьяна Алексеевна": 7,
-      "Филипченко Иван Сергеевич": 19
+      "gas:candidate-vibid:2112000827691": 12,
+      "gas:candidate-vibid:2112000826448": 47,
+      "gas:candidate-vibid:2112000802098": 8,
+      "gas:candidate-vibid:2112000802136": 7,
+      "gas:candidate-vibid:2112000801224": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769777&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769777&type=464",
@@ -13023,11 +13023,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 25,
-      "Медведев Иван Владимирович": 12,
-      "Михайлов Олег Алексеевич": 8,
-      "Саладина Татьяна Алексеевна": 4,
-      "Филипченко Иван Сергеевич": 5
+      "gas:candidate-vibid:2112000827691": 25,
+      "gas:candidate-vibid:2112000826448": 12,
+      "gas:candidate-vibid:2112000802098": 8,
+      "gas:candidate-vibid:2112000802136": 4,
+      "gas:candidate-vibid:2112000801224": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769777&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769777&type=464",
@@ -13078,11 +13078,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 16,
-      "Медведев Иван Владимирович": 28,
-      "Михайлов Олег Алексеевич": 4,
-      "Саладина Татьяна Алексеевна": 5,
-      "Филипченко Иван Сергеевич": 3
+      "gas:candidate-vibid:2112000827691": 16,
+      "gas:candidate-vibid:2112000826448": 28,
+      "gas:candidate-vibid:2112000802098": 4,
+      "gas:candidate-vibid:2112000802136": 5,
+      "gas:candidate-vibid:2112000801224": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769777&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769777&type=464",
@@ -13133,11 +13133,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 19,
-      "Медведев Иван Владимирович": 46,
-      "Михайлов Олег Алексеевич": 26,
-      "Саладина Татьяна Алексеевна": 14,
-      "Филипченко Иван Сергеевич": 19
+      "gas:candidate-vibid:2112000827691": 19,
+      "gas:candidate-vibid:2112000826448": 46,
+      "gas:candidate-vibid:2112000802098": 26,
+      "gas:candidate-vibid:2112000802136": 14,
+      "gas:candidate-vibid:2112000801224": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769777&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769777&type=464",
@@ -13188,11 +13188,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 15,
-      "Медведев Иван Владимирович": 46,
-      "Михайлов Олег Алексеевич": 12,
-      "Саладина Татьяна Алексеевна": 20,
-      "Филипченко Иван Сергеевич": 23
+      "gas:candidate-vibid:2112000827691": 15,
+      "gas:candidate-vibid:2112000826448": 46,
+      "gas:candidate-vibid:2112000802098": 12,
+      "gas:candidate-vibid:2112000802136": 20,
+      "gas:candidate-vibid:2112000801224": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769777&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769777&type=464",
@@ -13243,11 +13243,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 18,
-      "Медведев Иван Владимирович": 96,
-      "Михайлов Олег Алексеевич": 20,
-      "Саладина Татьяна Алексеевна": 24,
-      "Филипченко Иван Сергеевич": 22
+      "gas:candidate-vibid:2112000827691": 18,
+      "gas:candidate-vibid:2112000826448": 96,
+      "gas:candidate-vibid:2112000802098": 20,
+      "gas:candidate-vibid:2112000802136": 24,
+      "gas:candidate-vibid:2112000801224": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769778&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769778&type=464",
@@ -13298,11 +13298,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 64,
-      "Медведев Иван Владимирович": 195,
-      "Михайлов Олег Алексеевич": 69,
-      "Саладина Татьяна Алексеевна": 43,
-      "Филипченко Иван Сергеевич": 68
+      "gas:candidate-vibid:2112000827691": 64,
+      "gas:candidate-vibid:2112000826448": 195,
+      "gas:candidate-vibid:2112000802098": 69,
+      "gas:candidate-vibid:2112000802136": 43,
+      "gas:candidate-vibid:2112000801224": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769778&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769778&type=464",
@@ -13353,11 +13353,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 12,
-      "Медведев Иван Владимирович": 26,
-      "Михайлов Олег Алексеевич": 8,
-      "Саладина Татьяна Алексеевна": 8,
-      "Филипченко Иван Сергеевич": 11
+      "gas:candidate-vibid:2112000827691": 12,
+      "gas:candidate-vibid:2112000826448": 26,
+      "gas:candidate-vibid:2112000802098": 8,
+      "gas:candidate-vibid:2112000802136": 8,
+      "gas:candidate-vibid:2112000801224": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769778&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769778&type=464",
@@ -13408,11 +13408,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 12,
-      "Медведев Иван Владимирович": 79,
-      "Михайлов Олег Алексеевич": 11,
-      "Саладина Татьяна Алексеевна": 19,
-      "Филипченко Иван Сергеевич": 8
+      "gas:candidate-vibid:2112000827691": 12,
+      "gas:candidate-vibid:2112000826448": 79,
+      "gas:candidate-vibid:2112000802098": 11,
+      "gas:candidate-vibid:2112000802136": 19,
+      "gas:candidate-vibid:2112000801224": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769778&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769778&type=464",
@@ -13463,11 +13463,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 28,
-      "Медведев Иван Владимирович": 135,
-      "Михайлов Олег Алексеевич": 33,
-      "Саладина Татьяна Алексеевна": 22,
-      "Филипченко Иван Сергеевич": 30
+      "gas:candidate-vibid:2112000827691": 28,
+      "gas:candidate-vibid:2112000826448": 135,
+      "gas:candidate-vibid:2112000802098": 33,
+      "gas:candidate-vibid:2112000802136": 22,
+      "gas:candidate-vibid:2112000801224": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769778&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769778&type=464",
@@ -13518,11 +13518,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 22,
-      "Медведев Иван Владимирович": 145,
-      "Михайлов Олег Алексеевич": 66,
-      "Саладина Татьяна Алексеевна": 58,
-      "Филипченко Иван Сергеевич": 43
+      "gas:candidate-vibid:2112000827691": 22,
+      "gas:candidate-vibid:2112000826448": 145,
+      "gas:candidate-vibid:2112000802098": 66,
+      "gas:candidate-vibid:2112000802136": 58,
+      "gas:candidate-vibid:2112000801224": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769778&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769778&type=464",
@@ -13573,11 +13573,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 63,
-      "Медведев Иван Владимирович": 234,
-      "Михайлов Олег Алексеевич": 124,
-      "Саладина Татьяна Алексеевна": 105,
-      "Филипченко Иван Сергеевич": 83
+      "gas:candidate-vibid:2112000827691": 63,
+      "gas:candidate-vibid:2112000826448": 234,
+      "gas:candidate-vibid:2112000802098": 124,
+      "gas:candidate-vibid:2112000802136": 105,
+      "gas:candidate-vibid:2112000801224": 83
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769778&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769778&type=464",
@@ -13628,11 +13628,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 59,
-      "Медведев Иван Владимирович": 181,
-      "Михайлов Олег Алексеевич": 59,
-      "Саладина Татьяна Алексеевна": 71,
-      "Филипченко Иван Сергеевич": 76
+      "gas:candidate-vibid:2112000827691": 59,
+      "gas:candidate-vibid:2112000826448": 181,
+      "gas:candidate-vibid:2112000802098": 59,
+      "gas:candidate-vibid:2112000802136": 71,
+      "gas:candidate-vibid:2112000801224": 76
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769778&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769778&type=464",
@@ -13683,11 +13683,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 14,
-      "Медведев Иван Владимирович": 76,
-      "Михайлов Олег Алексеевич": 28,
-      "Саладина Татьяна Алексеевна": 24,
-      "Филипченко Иван Сергеевич": 25
+      "gas:candidate-vibid:2112000827691": 14,
+      "gas:candidate-vibid:2112000826448": 76,
+      "gas:candidate-vibid:2112000802098": 28,
+      "gas:candidate-vibid:2112000802136": 24,
+      "gas:candidate-vibid:2112000801224": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769778&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769778&type=464",
@@ -13738,11 +13738,11 @@ export const duma_2016_uik_463_region_11_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Литвак Леонид Юрьевич": 4,
-      "Медведев Иван Владимирович": 42,
-      "Михайлов Олег Алексеевич": 14,
-      "Саладина Татьяна Алексеевна": 10,
-      "Филипченко Иван Сергеевич": 2
+      "gas:candidate-vibid:2112000827691": 4,
+      "gas:candidate-vibid:2112000826448": 42,
+      "gas:candidate-vibid:2112000802098": 14,
+      "gas:candidate-vibid:2112000802136": 10,
+      "gas:candidate-vibid:2112000801224": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/komi?action=show&root=1000029&tvd=2112000769778&vrn=100100067795849&region=11&global=&sub_region=11&prver=0&pronetvd=null&vibid=2112000769778&type=464",

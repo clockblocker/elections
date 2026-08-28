@@ -43,15 +43,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 324,
-      "Грищенко Олег Васильевич": 601,
-      "Ищенко Антон Анатольевич": 126,
-      "Коннычев Дмитрий Викторович": 6,
-      "Ледков Александр Владимирович": 16,
-      "Миронов Павел Васильевич": 58,
-      "Сафьянов Виктор Владимирович": 90,
-      "Фролов Александр Васильевич": 17,
-      "Ханенко Дмитрий Борисович": 13
+      "gas:candidate-vibid:4644035227992": 324,
+      "gas:candidate-vibid:4644035228365": 601,
+      "gas:candidate-vibid:4644035227535": 126,
+      "gas:candidate-vibid:4644035252744": 6,
+      "gas:candidate-vibid:4644035228712": 16,
+      "gas:candidate-vibid:4644035228237": 58,
+      "gas:candidate-vibid:4644035228622": 90,
+      "gas:candidate-vibid:4644035228693": 17,
+      "gas:candidate-vibid:4644035228608": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135246&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135246&type=464",
@@ -102,15 +102,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 306,
-      "Грищенко Олег Васильевич": 492,
-      "Ищенко Антон Анатольевич": 160,
-      "Коннычев Дмитрий Викторович": 12,
-      "Ледков Александр Владимирович": 9,
-      "Миронов Павел Васильевич": 70,
-      "Сафьянов Виктор Владимирович": 41,
-      "Фролов Александр Васильевич": 18,
-      "Ханенко Дмитрий Борисович": 15
+      "gas:candidate-vibid:4644035227992": 306,
+      "gas:candidate-vibid:4644035228365": 492,
+      "gas:candidate-vibid:4644035227535": 160,
+      "gas:candidate-vibid:4644035252744": 12,
+      "gas:candidate-vibid:4644035228712": 9,
+      "gas:candidate-vibid:4644035228237": 70,
+      "gas:candidate-vibid:4644035228622": 41,
+      "gas:candidate-vibid:4644035228693": 18,
+      "gas:candidate-vibid:4644035228608": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135246&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135246&type=464",
@@ -161,15 +161,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 152,
-      "Грищенко Олег Васильевич": 670,
-      "Ищенко Антон Анатольевич": 300,
-      "Коннычев Дмитрий Викторович": 73,
-      "Ледков Александр Владимирович": 53,
-      "Миронов Павел Васильевич": 189,
-      "Сафьянов Виктор Владимирович": 52,
-      "Фролов Александр Васильевич": 97,
-      "Ханенко Дмитрий Борисович": 25
+      "gas:candidate-vibid:4644035227992": 152,
+      "gas:candidate-vibid:4644035228365": 670,
+      "gas:candidate-vibid:4644035227535": 300,
+      "gas:candidate-vibid:4644035252744": 73,
+      "gas:candidate-vibid:4644035228712": 53,
+      "gas:candidate-vibid:4644035228237": 189,
+      "gas:candidate-vibid:4644035228622": 52,
+      "gas:candidate-vibid:4644035228693": 97,
+      "gas:candidate-vibid:4644035228608": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135246&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135246&type=464",
@@ -220,15 +220,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 1
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 300,
-      "Грищенко Олег Васильевич": 600,
-      "Ищенко Антон Анатольевич": 212,
-      "Коннычев Дмитрий Викторович": 25,
-      "Ледков Александр Владимирович": 24,
-      "Миронов Павел Васильевич": 79,
-      "Сафьянов Виктор Владимирович": 76,
-      "Фролов Александр Васильевич": 44,
-      "Ханенко Дмитрий Борисович": 16
+      "gas:candidate-vibid:4644035227992": 300,
+      "gas:candidate-vibid:4644035228365": 600,
+      "gas:candidate-vibid:4644035227535": 212,
+      "gas:candidate-vibid:4644035252744": 25,
+      "gas:candidate-vibid:4644035228712": 24,
+      "gas:candidate-vibid:4644035228237": 79,
+      "gas:candidate-vibid:4644035228622": 76,
+      "gas:candidate-vibid:4644035228693": 44,
+      "gas:candidate-vibid:4644035228608": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135246&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135246&type=464",
@@ -279,15 +279,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 0,
-      "Грищенко Олег Васильевич": 437,
-      "Ищенко Антон Анатольевич": 48,
-      "Коннычев Дмитрий Викторович": 20,
-      "Ледков Александр Владимирович": 0,
-      "Миронов Павел Васильевич": 0,
-      "Сафьянов Виктор Владимирович": 0,
-      "Фролов Александр Васильевич": 0,
-      "Ханенко Дмитрий Борисович": 0
+      "gas:candidate-vibid:4644035227992": 0,
+      "gas:candidate-vibid:4644035228365": 437,
+      "gas:candidate-vibid:4644035227535": 48,
+      "gas:candidate-vibid:4644035252744": 20,
+      "gas:candidate-vibid:4644035228712": 0,
+      "gas:candidate-vibid:4644035228237": 0,
+      "gas:candidate-vibid:4644035228622": 0,
+      "gas:candidate-vibid:4644035228693": 0,
+      "gas:candidate-vibid:4644035228608": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135247&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135247&type=464",
@@ -338,15 +338,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 17,
-      "Грищенко Олег Васильевич": 192,
-      "Ищенко Антон Анатольевич": 14,
-      "Коннычев Дмитрий Викторович": 1,
-      "Ледков Александр Владимирович": 0,
-      "Миронов Павел Васильевич": 3,
-      "Сафьянов Виктор Владимирович": 6,
-      "Фролов Александр Васильевич": 0,
-      "Ханенко Дмитрий Борисович": 1
+      "gas:candidate-vibid:4644035227992": 17,
+      "gas:candidate-vibid:4644035228365": 192,
+      "gas:candidate-vibid:4644035227535": 14,
+      "gas:candidate-vibid:4644035252744": 1,
+      "gas:candidate-vibid:4644035228712": 0,
+      "gas:candidate-vibid:4644035228237": 3,
+      "gas:candidate-vibid:4644035228622": 6,
+      "gas:candidate-vibid:4644035228693": 0,
+      "gas:candidate-vibid:4644035228608": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135247&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135247&type=464",
@@ -397,15 +397,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 59,
-      "Грищенко Олег Васильевич": 1668,
-      "Ищенко Антон Анатольевич": 78,
-      "Коннычев Дмитрий Викторович": 7,
-      "Ледков Александр Владимирович": 10,
-      "Миронов Павел Васильевич": 49,
-      "Сафьянов Виктор Владимирович": 24,
-      "Фролов Александр Васильевич": 13,
-      "Ханенко Дмитрий Борисович": 9
+      "gas:candidate-vibid:4644035227992": 59,
+      "gas:candidate-vibid:4644035228365": 1668,
+      "gas:candidate-vibid:4644035227535": 78,
+      "gas:candidate-vibid:4644035252744": 7,
+      "gas:candidate-vibid:4644035228712": 10,
+      "gas:candidate-vibid:4644035228237": 49,
+      "gas:candidate-vibid:4644035228622": 24,
+      "gas:candidate-vibid:4644035228693": 13,
+      "gas:candidate-vibid:4644035228608": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135247&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135247&type=464",
@@ -456,15 +456,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 3,
-      "Грищенко Олег Васильевич": 275,
-      "Ищенко Антон Анатольевич": 12,
-      "Коннычев Дмитрий Викторович": 2,
-      "Ледков Александр Владимирович": 1,
-      "Миронов Павел Васильевич": 7,
-      "Сафьянов Виктор Владимирович": 0,
-      "Фролов Александр Васильевич": 2,
-      "Ханенко Дмитрий Борисович": 1
+      "gas:candidate-vibid:4644035227992": 3,
+      "gas:candidate-vibid:4644035228365": 275,
+      "gas:candidate-vibid:4644035227535": 12,
+      "gas:candidate-vibid:4644035252744": 2,
+      "gas:candidate-vibid:4644035228712": 1,
+      "gas:candidate-vibid:4644035228237": 7,
+      "gas:candidate-vibid:4644035228622": 0,
+      "gas:candidate-vibid:4644035228693": 2,
+      "gas:candidate-vibid:4644035228608": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135247&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135247&type=464",
@@ -515,15 +515,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 15,
-      "Грищенко Олег Васильевич": 741,
-      "Ищенко Антон Анатольевич": 18,
-      "Коннычев Дмитрий Викторович": 22,
-      "Ледков Александр Владимирович": 23,
-      "Миронов Павел Васильевич": 0,
-      "Сафьянов Виктор Владимирович": 0,
-      "Фролов Александр Васильевич": 0,
-      "Ханенко Дмитрий Борисович": 0
+      "gas:candidate-vibid:4644035227992": 15,
+      "gas:candidate-vibid:4644035228365": 741,
+      "gas:candidate-vibid:4644035227535": 18,
+      "gas:candidate-vibid:4644035252744": 22,
+      "gas:candidate-vibid:4644035228712": 23,
+      "gas:candidate-vibid:4644035228237": 0,
+      "gas:candidate-vibid:4644035228622": 0,
+      "gas:candidate-vibid:4644035228693": 0,
+      "gas:candidate-vibid:4644035228608": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135247&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135247&type=464",
@@ -574,15 +574,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 7,
-      "Грищенко Олег Васильевич": 170,
-      "Ищенко Антон Анатольевич": 4,
-      "Коннычев Дмитрий Викторович": 2,
-      "Ледков Александр Владимирович": 0,
-      "Миронов Павел Васильевич": 3,
-      "Сафьянов Виктор Владимирович": 1,
-      "Фролов Александр Васильевич": 1,
-      "Ханенко Дмитрий Борисович": 2
+      "gas:candidate-vibid:4644035227992": 7,
+      "gas:candidate-vibid:4644035228365": 170,
+      "gas:candidate-vibid:4644035227535": 4,
+      "gas:candidate-vibid:4644035252744": 2,
+      "gas:candidate-vibid:4644035228712": 0,
+      "gas:candidate-vibid:4644035228237": 3,
+      "gas:candidate-vibid:4644035228622": 1,
+      "gas:candidate-vibid:4644035228693": 1,
+      "gas:candidate-vibid:4644035228608": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135247&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135247&type=464",
@@ -633,15 +633,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 11,
-      "Грищенко Олег Васильевич": 230,
-      "Ищенко Антон Анатольевич": 11,
-      "Коннычев Дмитрий Викторович": 0,
-      "Ледков Александр Владимирович": 0,
-      "Миронов Павел Васильевич": 0,
-      "Сафьянов Виктор Владимирович": 0,
-      "Фролов Александр Васильевич": 0,
-      "Ханенко Дмитрий Борисович": 0
+      "gas:candidate-vibid:4644035227992": 11,
+      "gas:candidate-vibid:4644035228365": 230,
+      "gas:candidate-vibid:4644035227535": 11,
+      "gas:candidate-vibid:4644035252744": 0,
+      "gas:candidate-vibid:4644035228712": 0,
+      "gas:candidate-vibid:4644035228237": 0,
+      "gas:candidate-vibid:4644035228622": 0,
+      "gas:candidate-vibid:4644035228693": 0,
+      "gas:candidate-vibid:4644035228608": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135247&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135247&type=464",
@@ -692,15 +692,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 14,
-      "Грищенко Олег Васильевич": 326,
-      "Ищенко Антон Анатольевич": 10,
-      "Коннычев Дмитрий Викторович": 0,
-      "Ледков Александр Владимирович": 1,
-      "Миронов Павел Васильевич": 5,
-      "Сафьянов Виктор Владимирович": 4,
-      "Фролов Александр Васильевич": 0,
-      "Ханенко Дмитрий Борисович": 0
+      "gas:candidate-vibid:4644035227992": 14,
+      "gas:candidate-vibid:4644035228365": 326,
+      "gas:candidate-vibid:4644035227535": 10,
+      "gas:candidate-vibid:4644035252744": 0,
+      "gas:candidate-vibid:4644035228712": 1,
+      "gas:candidate-vibid:4644035228237": 5,
+      "gas:candidate-vibid:4644035228622": 4,
+      "gas:candidate-vibid:4644035228693": 0,
+      "gas:candidate-vibid:4644035228608": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135247&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135247&type=464",
@@ -751,15 +751,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 16,
-      "Грищенко Олег Васильевич": 171,
-      "Ищенко Антон Анатольевич": 8,
-      "Коннычев Дмитрий Викторович": 3,
-      "Ледков Александр Владимирович": 0,
-      "Миронов Павел Васильевич": 0,
-      "Сафьянов Виктор Владимирович": 0,
-      "Фролов Александр Васильевич": 0,
-      "Ханенко Дмитрий Борисович": 1
+      "gas:candidate-vibid:4644035227992": 16,
+      "gas:candidate-vibid:4644035228365": 171,
+      "gas:candidate-vibid:4644035227535": 8,
+      "gas:candidate-vibid:4644035252744": 3,
+      "gas:candidate-vibid:4644035228712": 0,
+      "gas:candidate-vibid:4644035228237": 0,
+      "gas:candidate-vibid:4644035228622": 0,
+      "gas:candidate-vibid:4644035228693": 0,
+      "gas:candidate-vibid:4644035228608": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135247&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135247&type=464",
@@ -810,15 +810,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 17,
-      "Грищенко Олег Васильевич": 269,
-      "Ищенко Антон Анатольевич": 0,
-      "Коннычев Дмитрий Викторович": 1,
-      "Ледков Александр Владимирович": 0,
-      "Миронов Павел Васильевич": 7,
-      "Сафьянов Виктор Владимирович": 3,
-      "Фролов Александр Васильевич": 1,
-      "Ханенко Дмитрий Борисович": 0
+      "gas:candidate-vibid:4644035227992": 17,
+      "gas:candidate-vibid:4644035228365": 269,
+      "gas:candidate-vibid:4644035227535": 0,
+      "gas:candidate-vibid:4644035252744": 1,
+      "gas:candidate-vibid:4644035228712": 0,
+      "gas:candidate-vibid:4644035228237": 7,
+      "gas:candidate-vibid:4644035228622": 3,
+      "gas:candidate-vibid:4644035228693": 1,
+      "gas:candidate-vibid:4644035228608": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135247&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135247&type=464",
@@ -869,15 +869,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 29,
-      "Грищенко Олег Васильевич": 634,
-      "Ищенко Антон Анатольевич": 28,
-      "Коннычев Дмитрий Викторович": 19,
-      "Ледков Александр Владимирович": 0,
-      "Миронов Павел Васильевич": 24,
-      "Сафьянов Виктор Владимирович": 19,
-      "Фролов Александр Васильевич": 0,
-      "Ханенко Дмитрий Борисович": 0
+      "gas:candidate-vibid:4644035227992": 29,
+      "gas:candidate-vibid:4644035228365": 634,
+      "gas:candidate-vibid:4644035227535": 28,
+      "gas:candidate-vibid:4644035252744": 19,
+      "gas:candidate-vibid:4644035228712": 0,
+      "gas:candidate-vibid:4644035228237": 24,
+      "gas:candidate-vibid:4644035228622": 19,
+      "gas:candidate-vibid:4644035228693": 0,
+      "gas:candidate-vibid:4644035228608": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135247&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135247&type=464",
@@ -928,15 +928,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 13,
-      "Грищенко Олег Васильевич": 171,
-      "Ищенко Антон Анатольевич": 5,
-      "Коннычев Дмитрий Викторович": 0,
-      "Ледков Александр Владимирович": 0,
-      "Миронов Павел Васильевич": 2,
-      "Сафьянов Виктор Владимирович": 0,
-      "Фролов Александр Васильевич": 0,
-      "Ханенко Дмитрий Борисович": 3
+      "gas:candidate-vibid:4644035227992": 13,
+      "gas:candidate-vibid:4644035228365": 171,
+      "gas:candidate-vibid:4644035227535": 5,
+      "gas:candidate-vibid:4644035252744": 0,
+      "gas:candidate-vibid:4644035228712": 0,
+      "gas:candidate-vibid:4644035228237": 2,
+      "gas:candidate-vibid:4644035228622": 0,
+      "gas:candidate-vibid:4644035228693": 0,
+      "gas:candidate-vibid:4644035228608": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135247&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135247&type=464",
@@ -987,15 +987,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 28,
-      "Грищенко Олег Васильевич": 518,
-      "Ищенко Антон Анатольевич": 20,
-      "Коннычев Дмитрий Викторович": 5,
-      "Ледков Александр Владимирович": 5,
-      "Миронов Павел Васильевич": 25,
-      "Сафьянов Виктор Владимирович": 10,
-      "Фролов Александр Васильевич": 9,
-      "Ханенко Дмитрий Борисович": 6
+      "gas:candidate-vibid:4644035227992": 28,
+      "gas:candidate-vibid:4644035228365": 518,
+      "gas:candidate-vibid:4644035227535": 20,
+      "gas:candidate-vibid:4644035252744": 5,
+      "gas:candidate-vibid:4644035228712": 5,
+      "gas:candidate-vibid:4644035228237": 25,
+      "gas:candidate-vibid:4644035228622": 10,
+      "gas:candidate-vibid:4644035228693": 9,
+      "gas:candidate-vibid:4644035228608": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135247&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135247&type=464",
@@ -1046,15 +1046,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 51,
-      "Грищенко Олег Васильевич": 1069,
-      "Ищенко Антон Анатольевич": 30,
-      "Коннычев Дмитрий Викторович": 9,
-      "Ледков Александр Владимирович": 4,
-      "Миронов Павел Васильевич": 20,
-      "Сафьянов Виктор Владимирович": 27,
-      "Фролов Александр Васильевич": 3,
-      "Ханенко Дмитрий Борисович": 4
+      "gas:candidate-vibid:4644035227992": 51,
+      "gas:candidate-vibid:4644035228365": 1069,
+      "gas:candidate-vibid:4644035227535": 30,
+      "gas:candidate-vibid:4644035252744": 9,
+      "gas:candidate-vibid:4644035228712": 4,
+      "gas:candidate-vibid:4644035228237": 20,
+      "gas:candidate-vibid:4644035228622": 27,
+      "gas:candidate-vibid:4644035228693": 3,
+      "gas:candidate-vibid:4644035228608": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135247&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135247&type=464",
@@ -1105,15 +1105,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 16,
-      "Грищенко Олег Васильевич": 435,
-      "Ищенко Антон Анатольевич": 35,
-      "Коннычев Дмитрий Викторович": 0,
-      "Ледков Александр Владимирович": 0,
-      "Миронов Павел Васильевич": 12,
-      "Сафьянов Виктор Владимирович": 0,
-      "Фролов Александр Васильевич": 0,
-      "Ханенко Дмитрий Борисович": 0
+      "gas:candidate-vibid:4644035227992": 16,
+      "gas:candidate-vibid:4644035228365": 435,
+      "gas:candidate-vibid:4644035227535": 35,
+      "gas:candidate-vibid:4644035252744": 0,
+      "gas:candidate-vibid:4644035228712": 0,
+      "gas:candidate-vibid:4644035228237": 12,
+      "gas:candidate-vibid:4644035228622": 0,
+      "gas:candidate-vibid:4644035228693": 0,
+      "gas:candidate-vibid:4644035228608": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135247&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135247&type=464",
@@ -1164,15 +1164,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 29,
-      "Грищенко Олег Васильевич": 888,
-      "Ищенко Антон Анатольевич": 31,
-      "Коннычев Дмитрий Викторович": 8,
-      "Ледков Александр Владимирович": 8,
-      "Миронов Павел Васильевич": 26,
-      "Сафьянов Виктор Владимирович": 8,
-      "Фролов Александр Васильевич": 5,
-      "Ханенко Дмитрий Борисович": 2
+      "gas:candidate-vibid:4644035227992": 29,
+      "gas:candidate-vibid:4644035228365": 888,
+      "gas:candidate-vibid:4644035227535": 31,
+      "gas:candidate-vibid:4644035252744": 8,
+      "gas:candidate-vibid:4644035228712": 8,
+      "gas:candidate-vibid:4644035228237": 26,
+      "gas:candidate-vibid:4644035228622": 8,
+      "gas:candidate-vibid:4644035228693": 5,
+      "gas:candidate-vibid:4644035228608": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135247&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135247&type=464",
@@ -1223,15 +1223,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 4,
-      "Грищенко Олег Васильевич": 203,
-      "Ищенко Антон Анатольевич": 12,
-      "Коннычев Дмитрий Викторович": 3,
-      "Ледков Александр Владимирович": 0,
-      "Миронов Павел Васильевич": 9,
-      "Сафьянов Виктор Владимирович": 3,
-      "Фролов Александр Васильевич": 2,
-      "Ханенко Дмитрий Борисович": 2
+      "gas:candidate-vibid:4644035227992": 4,
+      "gas:candidate-vibid:4644035228365": 203,
+      "gas:candidate-vibid:4644035227535": 12,
+      "gas:candidate-vibid:4644035252744": 3,
+      "gas:candidate-vibid:4644035228712": 0,
+      "gas:candidate-vibid:4644035228237": 9,
+      "gas:candidate-vibid:4644035228622": 3,
+      "gas:candidate-vibid:4644035228693": 2,
+      "gas:candidate-vibid:4644035228608": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135247&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135247&type=464",
@@ -1282,15 +1282,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 45,
-      "Грищенко Олег Васильевич": 873,
-      "Ищенко Антон Анатольевич": 40,
-      "Коннычев Дмитрий Викторович": 13,
-      "Ледков Александр Владимирович": 0,
-      "Миронов Павел Васильевич": 10,
-      "Сафьянов Виктор Владимирович": 13,
-      "Фролов Александр Васильевич": 5,
-      "Ханенко Дмитрий Борисович": 5
+      "gas:candidate-vibid:4644035227992": 45,
+      "gas:candidate-vibid:4644035228365": 873,
+      "gas:candidate-vibid:4644035227535": 40,
+      "gas:candidate-vibid:4644035252744": 13,
+      "gas:candidate-vibid:4644035228712": 0,
+      "gas:candidate-vibid:4644035228237": 10,
+      "gas:candidate-vibid:4644035228622": 13,
+      "gas:candidate-vibid:4644035228693": 5,
+      "gas:candidate-vibid:4644035228608": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135247&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135247&type=464",
@@ -1341,15 +1341,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 67,
-      "Грищенко Олег Васильевич": 1291,
-      "Ищенко Антон Анатольевич": 86,
-      "Коннычев Дмитрий Викторович": 5,
-      "Ледков Александр Владимирович": 0,
-      "Миронов Павел Васильевич": 41,
-      "Сафьянов Виктор Владимирович": 14,
-      "Фролов Александр Васильевич": 0,
-      "Ханенко Дмитрий Борисович": 4
+      "gas:candidate-vibid:4644035227992": 67,
+      "gas:candidate-vibid:4644035228365": 1291,
+      "gas:candidate-vibid:4644035227535": 86,
+      "gas:candidate-vibid:4644035252744": 5,
+      "gas:candidate-vibid:4644035228712": 0,
+      "gas:candidate-vibid:4644035228237": 41,
+      "gas:candidate-vibid:4644035228622": 14,
+      "gas:candidate-vibid:4644035228693": 0,
+      "gas:candidate-vibid:4644035228608": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135247&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135247&type=464",
@@ -1400,15 +1400,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 6,
-      "Грищенко Олег Васильевич": 147,
-      "Ищенко Антон Анатольевич": 5,
-      "Коннычев Дмитрий Викторович": 2,
-      "Ледков Александр Владимирович": 0,
-      "Миронов Павел Васильевич": 5,
-      "Сафьянов Виктор Владимирович": 3,
-      "Фролов Александр Васильевич": 0,
-      "Ханенко Дмитрий Борисович": 0
+      "gas:candidate-vibid:4644035227992": 6,
+      "gas:candidate-vibid:4644035228365": 147,
+      "gas:candidate-vibid:4644035227535": 5,
+      "gas:candidate-vibid:4644035252744": 2,
+      "gas:candidate-vibid:4644035228712": 0,
+      "gas:candidate-vibid:4644035228237": 5,
+      "gas:candidate-vibid:4644035228622": 3,
+      "gas:candidate-vibid:4644035228693": 0,
+      "gas:candidate-vibid:4644035228608": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135247&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135247&type=464",
@@ -1459,15 +1459,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 21,
-      "Грищенко Олег Васильевич": 460,
-      "Ищенко Антон Анатольевич": 0,
-      "Коннычев Дмитрий Викторович": 13,
-      "Ледков Александр Владимирович": 0,
-      "Миронов Павел Васильевич": 40,
-      "Сафьянов Виктор Владимирович": 0,
-      "Фролов Александр Васильевич": 47,
-      "Ханенко Дмитрий Борисович": 0
+      "gas:candidate-vibid:4644035227992": 21,
+      "gas:candidate-vibid:4644035228365": 460,
+      "gas:candidate-vibid:4644035227535": 0,
+      "gas:candidate-vibid:4644035252744": 13,
+      "gas:candidate-vibid:4644035228712": 0,
+      "gas:candidate-vibid:4644035228237": 40,
+      "gas:candidate-vibid:4644035228622": 0,
+      "gas:candidate-vibid:4644035228693": 47,
+      "gas:candidate-vibid:4644035228608": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135247&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135247&type=464",
@@ -1518,15 +1518,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 28,
-      "Грищенко Олег Васильевич": 616,
-      "Ищенко Антон Анатольевич": 29,
-      "Коннычев Дмитрий Викторович": 1,
-      "Ледков Александр Владимирович": 0,
-      "Миронов Павел Васильевич": 34,
-      "Сафьянов Виктор Владимирович": 0,
-      "Фролов Александр Васильевич": 0,
-      "Ханенко Дмитрий Борисович": 0
+      "gas:candidate-vibid:4644035227992": 28,
+      "gas:candidate-vibid:4644035228365": 616,
+      "gas:candidate-vibid:4644035227535": 29,
+      "gas:candidate-vibid:4644035252744": 1,
+      "gas:candidate-vibid:4644035228712": 0,
+      "gas:candidate-vibid:4644035228237": 34,
+      "gas:candidate-vibid:4644035228622": 0,
+      "gas:candidate-vibid:4644035228693": 0,
+      "gas:candidate-vibid:4644035228608": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135247&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135247&type=464",
@@ -1577,15 +1577,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 41,
-      "Грищенко Олег Васильевич": 2550,
-      "Ищенко Антон Анатольевич": 88,
-      "Коннычев Дмитрий Викторович": 9,
-      "Ледков Александр Владимирович": 10,
-      "Миронов Павел Васильевич": 18,
-      "Сафьянов Виктор Владимирович": 37,
-      "Фролов Александр Васильевич": 3,
-      "Ханенко Дмитрий Борисович": 1
+      "gas:candidate-vibid:4644035227992": 41,
+      "gas:candidate-vibid:4644035228365": 2550,
+      "gas:candidate-vibid:4644035227535": 88,
+      "gas:candidate-vibid:4644035252744": 9,
+      "gas:candidate-vibid:4644035228712": 10,
+      "gas:candidate-vibid:4644035228237": 18,
+      "gas:candidate-vibid:4644035228622": 37,
+      "gas:candidate-vibid:4644035228693": 3,
+      "gas:candidate-vibid:4644035228608": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135247&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135247&type=464",
@@ -1636,15 +1636,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 10,
-      "Грищенко Олег Васильевич": 898,
-      "Ищенко Антон Анатольевич": 30,
-      "Коннычев Дмитрий Викторович": 0,
-      "Ледков Александр Владимирович": 0,
-      "Миронов Павел Васильевич": 25,
-      "Сафьянов Виктор Владимирович": 0,
-      "Фролов Александр Васильевич": 18,
-      "Ханенко Дмитрий Борисович": 35
+      "gas:candidate-vibid:4644035227992": 10,
+      "gas:candidate-vibid:4644035228365": 898,
+      "gas:candidate-vibid:4644035227535": 30,
+      "gas:candidate-vibid:4644035252744": 0,
+      "gas:candidate-vibid:4644035228712": 0,
+      "gas:candidate-vibid:4644035228237": 25,
+      "gas:candidate-vibid:4644035228622": 0,
+      "gas:candidate-vibid:4644035228693": 18,
+      "gas:candidate-vibid:4644035228608": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135247&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135247&type=464",
@@ -1695,15 +1695,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 51,
-      "Грищенко Олег Васильевич": 1642,
-      "Ищенко Антон Анатольевич": 77,
-      "Коннычев Дмитрий Викторович": 15,
-      "Ледков Александр Владимирович": 3,
-      "Миронов Павел Васильевич": 40,
-      "Сафьянов Виктор Владимирович": 14,
-      "Фролов Александр Васильевич": 10,
-      "Ханенко Дмитрий Борисович": 29
+      "gas:candidate-vibid:4644035227992": 51,
+      "gas:candidate-vibid:4644035228365": 1642,
+      "gas:candidate-vibid:4644035227535": 77,
+      "gas:candidate-vibid:4644035252744": 15,
+      "gas:candidate-vibid:4644035228712": 3,
+      "gas:candidate-vibid:4644035228237": 40,
+      "gas:candidate-vibid:4644035228622": 14,
+      "gas:candidate-vibid:4644035228693": 10,
+      "gas:candidate-vibid:4644035228608": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135247&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135247&type=464",
@@ -1754,15 +1754,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 34,
-      "Грищенко Олег Васильевич": 516,
-      "Ищенко Антон Анатольевич": 36,
-      "Коннычев Дмитрий Викторович": 2,
-      "Ледков Александр Владимирович": 1,
-      "Миронов Павел Васильевич": 11,
-      "Сафьянов Виктор Владимирович": 3,
-      "Фролов Александр Васильевич": 1,
-      "Ханенко Дмитрий Борисович": 2
+      "gas:candidate-vibid:4644035227992": 34,
+      "gas:candidate-vibid:4644035228365": 516,
+      "gas:candidate-vibid:4644035227535": 36,
+      "gas:candidate-vibid:4644035252744": 2,
+      "gas:candidate-vibid:4644035228712": 1,
+      "gas:candidate-vibid:4644035228237": 11,
+      "gas:candidate-vibid:4644035228622": 3,
+      "gas:candidate-vibid:4644035228693": 1,
+      "gas:candidate-vibid:4644035228608": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135247&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135247&type=464",
@@ -1813,15 +1813,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 39,
-      "Грищенко Олег Васильевич": 426,
-      "Ищенко Антон Анатольевич": 21,
-      "Коннычев Дмитрий Викторович": 0,
-      "Ледков Александр Владимирович": 0,
-      "Миронов Павел Васильевич": 4,
-      "Сафьянов Виктор Владимирович": 5,
-      "Фролов Александр Васильевич": 0,
-      "Ханенко Дмитрий Борисович": 0
+      "gas:candidate-vibid:4644035227992": 39,
+      "gas:candidate-vibid:4644035228365": 426,
+      "gas:candidate-vibid:4644035227535": 21,
+      "gas:candidate-vibid:4644035252744": 0,
+      "gas:candidate-vibid:4644035228712": 0,
+      "gas:candidate-vibid:4644035228237": 4,
+      "gas:candidate-vibid:4644035228622": 5,
+      "gas:candidate-vibid:4644035228693": 0,
+      "gas:candidate-vibid:4644035228608": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135247&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135247&type=464",
@@ -1872,15 +1872,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 10,
-      "Грищенко Олег Васильевич": 571,
-      "Ищенко Антон Анатольевич": 71,
-      "Коннычев Дмитрий Викторович": 10,
-      "Ледков Александр Владимирович": 0,
-      "Миронов Павел Васильевич": 10,
-      "Сафьянов Виктор Владимирович": 5,
-      "Фролов Александр Васильевич": 0,
-      "Ханенко Дмитрий Борисович": 0
+      "gas:candidate-vibid:4644035227992": 10,
+      "gas:candidate-vibid:4644035228365": 571,
+      "gas:candidate-vibid:4644035227535": 71,
+      "gas:candidate-vibid:4644035252744": 10,
+      "gas:candidate-vibid:4644035228712": 0,
+      "gas:candidate-vibid:4644035228237": 10,
+      "gas:candidate-vibid:4644035228622": 5,
+      "gas:candidate-vibid:4644035228693": 0,
+      "gas:candidate-vibid:4644035228608": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135247&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135247&type=464",
@@ -1931,15 +1931,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 13,
-      "Грищенко Олег Васильевич": 270,
-      "Ищенко Антон Анатольевич": 27,
-      "Коннычев Дмитрий Викторович": 3,
-      "Ледков Александр Владимирович": 4,
-      "Миронов Павел Васильевич": 7,
-      "Сафьянов Виктор Владимирович": 7,
-      "Фролов Александр Васильевич": 5,
-      "Ханенко Дмитрий Борисович": 0
+      "gas:candidate-vibid:4644035227992": 13,
+      "gas:candidate-vibid:4644035228365": 270,
+      "gas:candidate-vibid:4644035227535": 27,
+      "gas:candidate-vibid:4644035252744": 3,
+      "gas:candidate-vibid:4644035228712": 4,
+      "gas:candidate-vibid:4644035228237": 7,
+      "gas:candidate-vibid:4644035228622": 7,
+      "gas:candidate-vibid:4644035228693": 5,
+      "gas:candidate-vibid:4644035228608": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135247&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135247&type=464",
@@ -1990,15 +1990,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 81,
-      "Грищенко Олег Васильевич": 237,
-      "Ищенко Антон Анатольевич": 57,
-      "Коннычев Дмитрий Викторович": 57,
-      "Ледков Александр Владимирович": 7,
-      "Миронов Павел Васильевич": 57,
-      "Сафьянов Виктор Владимирович": 10,
-      "Фролов Александр Васильевич": 17,
-      "Ханенко Дмитрий Борисович": 23
+      "gas:candidate-vibid:4644035227992": 81,
+      "gas:candidate-vibid:4644035228365": 237,
+      "gas:candidate-vibid:4644035227535": 57,
+      "gas:candidate-vibid:4644035252744": 57,
+      "gas:candidate-vibid:4644035228712": 7,
+      "gas:candidate-vibid:4644035228237": 57,
+      "gas:candidate-vibid:4644035228622": 10,
+      "gas:candidate-vibid:4644035228693": 17,
+      "gas:candidate-vibid:4644035228608": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135248&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135248&type=464",
@@ -2049,15 +2049,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 56,
-      "Грищенко Олег Васильевич": 176,
-      "Ищенко Антон Анатольевич": 60,
-      "Коннычев Дмитрий Викторович": 53,
-      "Ледков Александр Владимирович": 13,
-      "Миронов Павел Васильевич": 31,
-      "Сафьянов Виктор Владимирович": 16,
-      "Фролов Александр Васильевич": 20,
-      "Ханенко Дмитрий Борисович": 18
+      "gas:candidate-vibid:4644035227992": 56,
+      "gas:candidate-vibid:4644035228365": 176,
+      "gas:candidate-vibid:4644035227535": 60,
+      "gas:candidate-vibid:4644035252744": 53,
+      "gas:candidate-vibid:4644035228712": 13,
+      "gas:candidate-vibid:4644035228237": 31,
+      "gas:candidate-vibid:4644035228622": 16,
+      "gas:candidate-vibid:4644035228693": 20,
+      "gas:candidate-vibid:4644035228608": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135248&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135248&type=464",
@@ -2108,15 +2108,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 74,
-      "Грищенко Олег Васильевич": 222,
-      "Ищенко Антон Анатольевич": 62,
-      "Коннычев Дмитрий Викторович": 48,
-      "Ледков Александр Владимирович": 17,
-      "Миронов Павел Васильевич": 47,
-      "Сафьянов Виктор Владимирович": 16,
-      "Фролов Александр Васильевич": 23,
-      "Ханенко Дмитрий Борисович": 12
+      "gas:candidate-vibid:4644035227992": 74,
+      "gas:candidate-vibid:4644035228365": 222,
+      "gas:candidate-vibid:4644035227535": 62,
+      "gas:candidate-vibid:4644035252744": 48,
+      "gas:candidate-vibid:4644035228712": 17,
+      "gas:candidate-vibid:4644035228237": 47,
+      "gas:candidate-vibid:4644035228622": 16,
+      "gas:candidate-vibid:4644035228693": 23,
+      "gas:candidate-vibid:4644035228608": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135248&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135248&type=464",
@@ -2167,15 +2167,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 111,
-      "Грищенко Олег Васильевич": 362,
-      "Ищенко Антон Анатольевич": 96,
-      "Коннычев Дмитрий Викторович": 30,
-      "Ледков Александр Владимирович": 8,
-      "Миронов Павел Васильевич": 75,
-      "Сафьянов Виктор Владимирович": 47,
-      "Фролов Александр Васильевич": 19,
-      "Ханенко Дмитрий Борисович": 44
+      "gas:candidate-vibid:4644035227992": 111,
+      "gas:candidate-vibid:4644035228365": 362,
+      "gas:candidate-vibid:4644035227535": 96,
+      "gas:candidate-vibid:4644035252744": 30,
+      "gas:candidate-vibid:4644035228712": 8,
+      "gas:candidate-vibid:4644035228237": 75,
+      "gas:candidate-vibid:4644035228622": 47,
+      "gas:candidate-vibid:4644035228693": 19,
+      "gas:candidate-vibid:4644035228608": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135248&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135248&type=464",
@@ -2226,15 +2226,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 150,
-      "Грищенко Олег Васильевич": 586,
-      "Ищенко Антон Анатольевич": 132,
-      "Коннычев Дмитрий Викторович": 102,
-      "Ледков Александр Владимирович": 39,
-      "Миронов Павел Васильевич": 57,
-      "Сафьянов Виктор Владимирович": 38,
-      "Фролов Александр Васильевич": 22,
-      "Ханенко Дмитрий Борисович": 76
+      "gas:candidate-vibid:4644035227992": 150,
+      "gas:candidate-vibid:4644035228365": 586,
+      "gas:candidate-vibid:4644035227535": 132,
+      "gas:candidate-vibid:4644035252744": 102,
+      "gas:candidate-vibid:4644035228712": 39,
+      "gas:candidate-vibid:4644035228237": 57,
+      "gas:candidate-vibid:4644035228622": 38,
+      "gas:candidate-vibid:4644035228693": 22,
+      "gas:candidate-vibid:4644035228608": 76
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135248&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135248&type=464",
@@ -2285,15 +2285,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 134,
-      "Грищенко Олег Васильевич": 511,
-      "Ищенко Антон Анатольевич": 105,
-      "Коннычев Дмитрий Викторович": 92,
-      "Ледков Александр Владимирович": 12,
-      "Миронов Павел Васильевич": 84,
-      "Сафьянов Виктор Владимирович": 36,
-      "Фролов Александр Васильевич": 39,
-      "Ханенко Дмитрий Борисович": 40
+      "gas:candidate-vibid:4644035227992": 134,
+      "gas:candidate-vibid:4644035228365": 511,
+      "gas:candidate-vibid:4644035227535": 105,
+      "gas:candidate-vibid:4644035252744": 92,
+      "gas:candidate-vibid:4644035228712": 12,
+      "gas:candidate-vibid:4644035228237": 84,
+      "gas:candidate-vibid:4644035228622": 36,
+      "gas:candidate-vibid:4644035228693": 39,
+      "gas:candidate-vibid:4644035228608": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135248&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135248&type=464",
@@ -2344,15 +2344,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 132,
-      "Грищенко Олег Васильевич": 502,
-      "Ищенко Антон Анатольевич": 120,
-      "Коннычев Дмитрий Викторович": 83,
-      "Ледков Александр Владимирович": 10,
-      "Миронов Павел Васильевич": 95,
-      "Сафьянов Виктор Владимирович": 45,
-      "Фролов Александр Васильевич": 17,
-      "Ханенко Дмитрий Борисович": 48
+      "gas:candidate-vibid:4644035227992": 132,
+      "gas:candidate-vibid:4644035228365": 502,
+      "gas:candidate-vibid:4644035227535": 120,
+      "gas:candidate-vibid:4644035252744": 83,
+      "gas:candidate-vibid:4644035228712": 10,
+      "gas:candidate-vibid:4644035228237": 95,
+      "gas:candidate-vibid:4644035228622": 45,
+      "gas:candidate-vibid:4644035228693": 17,
+      "gas:candidate-vibid:4644035228608": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135248&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135248&type=464",
@@ -2403,15 +2403,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 116,
-      "Грищенко Олег Васильевич": 377,
-      "Ищенко Антон Анатольевич": 100,
-      "Коннычев Дмитрий Викторович": 31,
-      "Ледков Александр Владимирович": 8,
-      "Миронов Павел Васильевич": 79,
-      "Сафьянов Виктор Владимирович": 50,
-      "Фролов Александр Васильевич": 20,
-      "Ханенко Дмитрий Борисович": 46
+      "gas:candidate-vibid:4644035227992": 116,
+      "gas:candidate-vibid:4644035228365": 377,
+      "gas:candidate-vibid:4644035227535": 100,
+      "gas:candidate-vibid:4644035252744": 31,
+      "gas:candidate-vibid:4644035228712": 8,
+      "gas:candidate-vibid:4644035228237": 79,
+      "gas:candidate-vibid:4644035228622": 50,
+      "gas:candidate-vibid:4644035228693": 20,
+      "gas:candidate-vibid:4644035228608": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135248&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135248&type=464",
@@ -2462,15 +2462,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 235,
-      "Грищенко Олег Васильевич": 546,
-      "Ищенко Антон Анатольевич": 145,
-      "Коннычев Дмитрий Викторович": 90,
-      "Ледков Александр Владимирович": 7,
-      "Миронов Павел Васильевич": 72,
-      "Сафьянов Виктор Владимирович": 46,
-      "Фролов Александр Васильевич": 24,
-      "Ханенко Дмитрий Борисович": 32
+      "gas:candidate-vibid:4644035227992": 235,
+      "gas:candidate-vibid:4644035228365": 546,
+      "gas:candidate-vibid:4644035227535": 145,
+      "gas:candidate-vibid:4644035252744": 90,
+      "gas:candidate-vibid:4644035228712": 7,
+      "gas:candidate-vibid:4644035228237": 72,
+      "gas:candidate-vibid:4644035228622": 46,
+      "gas:candidate-vibid:4644035228693": 24,
+      "gas:candidate-vibid:4644035228608": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135248&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135248&type=464",
@@ -2521,15 +2521,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 230,
-      "Грищенко Олег Васильевич": 745,
-      "Ищенко Антон Анатольевич": 198,
-      "Коннычев Дмитрий Викторович": 155,
-      "Ледков Александр Владимирович": 62,
-      "Миронов Павел Васильевич": 89,
-      "Сафьянов Виктор Владимирович": 41,
-      "Фролов Александр Васильевич": 16,
-      "Ханенко Дмитрий Борисович": 98
+      "gas:candidate-vibid:4644035227992": 230,
+      "gas:candidate-vibid:4644035228365": 745,
+      "gas:candidate-vibid:4644035227535": 198,
+      "gas:candidate-vibid:4644035252744": 155,
+      "gas:candidate-vibid:4644035228712": 62,
+      "gas:candidate-vibid:4644035228237": 89,
+      "gas:candidate-vibid:4644035228622": 41,
+      "gas:candidate-vibid:4644035228693": 16,
+      "gas:candidate-vibid:4644035228608": 98
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135248&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135248&type=464",
@@ -2580,15 +2580,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 104,
-      "Грищенко Олег Васильевич": 683,
-      "Ищенко Антон Анатольевич": 102,
-      "Коннычев Дмитрий Викторович": 63,
-      "Ледков Александр Владимирович": 15,
-      "Миронов Павел Васильевич": 89,
-      "Сафьянов Виктор Владимирович": 27,
-      "Фролов Александр Васильевич": 29,
-      "Ханенко Дмитрий Борисович": 20
+      "gas:candidate-vibid:4644035227992": 104,
+      "gas:candidate-vibid:4644035228365": 683,
+      "gas:candidate-vibid:4644035227535": 102,
+      "gas:candidate-vibid:4644035252744": 63,
+      "gas:candidate-vibid:4644035228712": 15,
+      "gas:candidate-vibid:4644035228237": 89,
+      "gas:candidate-vibid:4644035228622": 27,
+      "gas:candidate-vibid:4644035228693": 29,
+      "gas:candidate-vibid:4644035228608": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135248&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135248&type=464",
@@ -2639,15 +2639,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 162,
-      "Грищенко Олег Васильевич": 636,
-      "Ищенко Антон Анатольевич": 49,
-      "Коннычев Дмитрий Викторович": 60,
-      "Ледков Александр Владимирович": 8,
-      "Миронов Павел Васильевич": 60,
-      "Сафьянов Виктор Владимирович": 8,
-      "Фролов Александр Васильевич": 7,
-      "Ханенко Дмитрий Борисович": 12
+      "gas:candidate-vibid:4644035227992": 162,
+      "gas:candidate-vibid:4644035228365": 636,
+      "gas:candidate-vibid:4644035227535": 49,
+      "gas:candidate-vibid:4644035252744": 60,
+      "gas:candidate-vibid:4644035228712": 8,
+      "gas:candidate-vibid:4644035228237": 60,
+      "gas:candidate-vibid:4644035228622": 8,
+      "gas:candidate-vibid:4644035228693": 7,
+      "gas:candidate-vibid:4644035228608": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135248&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135248&type=464",
@@ -2698,15 +2698,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 91,
-      "Грищенко Олег Васильевич": 331,
-      "Ищенко Антон Анатольевич": 85,
-      "Коннычев Дмитрий Викторович": 28,
-      "Ледков Александр Владимирович": 10,
-      "Миронов Павел Васильевич": 72,
-      "Сафьянов Виктор Владимирович": 44,
-      "Фролов Александр Васильевич": 18,
-      "Ханенко Дмитрий Борисович": 40
+      "gas:candidate-vibid:4644035227992": 91,
+      "gas:candidate-vibid:4644035228365": 331,
+      "gas:candidate-vibid:4644035227535": 85,
+      "gas:candidate-vibid:4644035252744": 28,
+      "gas:candidate-vibid:4644035228712": 10,
+      "gas:candidate-vibid:4644035228237": 72,
+      "gas:candidate-vibid:4644035228622": 44,
+      "gas:candidate-vibid:4644035228693": 18,
+      "gas:candidate-vibid:4644035228608": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135248&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135248&type=464",
@@ -2757,15 +2757,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 84,
-      "Грищенко Олег Васильевич": 532,
-      "Ищенко Антон Анатольевич": 57,
-      "Коннычев Дмитрий Викторович": 57,
-      "Ледков Александр Владимирович": 12,
-      "Миронов Павел Васильевич": 65,
-      "Сафьянов Виктор Владимирович": 21,
-      "Фролов Александр Васильевич": 19,
-      "Ханенко Дмитрий Борисович": 18
+      "gas:candidate-vibid:4644035227992": 84,
+      "gas:candidate-vibid:4644035228365": 532,
+      "gas:candidate-vibid:4644035227535": 57,
+      "gas:candidate-vibid:4644035252744": 57,
+      "gas:candidate-vibid:4644035228712": 12,
+      "gas:candidate-vibid:4644035228237": 65,
+      "gas:candidate-vibid:4644035228622": 21,
+      "gas:candidate-vibid:4644035228693": 19,
+      "gas:candidate-vibid:4644035228608": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135248&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135248&type=464",
@@ -2816,15 +2816,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 83,
-      "Грищенко Олег Васильевич": 275,
-      "Ищенко Антон Анатольевич": 73,
-      "Коннычев Дмитрий Викторович": 23,
-      "Ледков Александр Владимирович": 6,
-      "Миронов Павел Васильевич": 58,
-      "Сафьянов Виктор Владимирович": 36,
-      "Фролов Александр Васильевич": 15,
-      "Ханенко Дмитрий Борисович": 34
+      "gas:candidate-vibid:4644035227992": 83,
+      "gas:candidate-vibid:4644035228365": 275,
+      "gas:candidate-vibid:4644035227535": 73,
+      "gas:candidate-vibid:4644035252744": 23,
+      "gas:candidate-vibid:4644035228712": 6,
+      "gas:candidate-vibid:4644035228237": 58,
+      "gas:candidate-vibid:4644035228622": 36,
+      "gas:candidate-vibid:4644035228693": 15,
+      "gas:candidate-vibid:4644035228608": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135248&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135248&type=464",
@@ -2875,15 +2875,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 126,
-      "Грищенко Олег Васильевич": 410,
-      "Ищенко Антон Анатольевич": 109,
-      "Коннычев Дмитрий Викторович": 85,
-      "Ледков Александр Владимирович": 34,
-      "Миронов Павел Васильевич": 49,
-      "Сафьянов Виктор Владимирович": 22,
-      "Фролов Александр Васильевич": 9,
-      "Ханенко Дмитрий Борисович": 54
+      "gas:candidate-vibid:4644035227992": 126,
+      "gas:candidate-vibid:4644035228365": 410,
+      "gas:candidate-vibid:4644035227535": 109,
+      "gas:candidate-vibid:4644035252744": 85,
+      "gas:candidate-vibid:4644035228712": 34,
+      "gas:candidate-vibid:4644035228237": 49,
+      "gas:candidate-vibid:4644035228622": 22,
+      "gas:candidate-vibid:4644035228693": 9,
+      "gas:candidate-vibid:4644035228608": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135248&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135248&type=464",
@@ -2934,15 +2934,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 125,
-      "Грищенко Олег Васильевич": 405,
-      "Ищенко Антон Анатольевич": 107,
-      "Коннычев Дмитрий Викторович": 34,
-      "Ледков Александр Владимирович": 9,
-      "Миронов Павел Васильевич": 84,
-      "Сафьянов Виктор Владимирович": 52,
-      "Фролов Александр Васильевич": 22,
-      "Ханенко Дмитрий Борисович": 48
+      "gas:candidate-vibid:4644035227992": 125,
+      "gas:candidate-vibid:4644035228365": 405,
+      "gas:candidate-vibid:4644035227535": 107,
+      "gas:candidate-vibid:4644035252744": 34,
+      "gas:candidate-vibid:4644035228712": 9,
+      "gas:candidate-vibid:4644035228237": 84,
+      "gas:candidate-vibid:4644035228622": 52,
+      "gas:candidate-vibid:4644035228693": 22,
+      "gas:candidate-vibid:4644035228608": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135248&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135248&type=464",
@@ -2993,15 +2993,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 57,
-      "Грищенко Олег Васильевич": 563,
-      "Ищенко Антон Анатольевич": 108,
-      "Коннычев Дмитрий Викторович": 31,
-      "Ледков Александр Владимирович": 10,
-      "Миронов Павел Васильевич": 62,
-      "Сафьянов Виктор Владимирович": 16,
-      "Фролов Александр Васильевич": 16,
-      "Ханенко Дмитрий Борисович": 29
+      "gas:candidate-vibid:4644035227992": 57,
+      "gas:candidate-vibid:4644035228365": 563,
+      "gas:candidate-vibid:4644035227535": 108,
+      "gas:candidate-vibid:4644035252744": 31,
+      "gas:candidate-vibid:4644035228712": 10,
+      "gas:candidate-vibid:4644035228237": 62,
+      "gas:candidate-vibid:4644035228622": 16,
+      "gas:candidate-vibid:4644035228693": 16,
+      "gas:candidate-vibid:4644035228608": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135248&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135248&type=464",
@@ -3052,15 +3052,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 36,
-      "Грищенко Олег Васильевич": 258,
-      "Ищенко Антон Анатольевич": 51,
-      "Коннычев Дмитрий Викторович": 18,
-      "Ледков Александр Владимирович": 5,
-      "Миронов Павел Васильевич": 36,
-      "Сафьянов Виктор Владимирович": 21,
-      "Фролов Александр Васильевич": 10,
-      "Ханенко Дмитрий Борисович": 13
+      "gas:candidate-vibid:4644035227992": 36,
+      "gas:candidate-vibid:4644035228365": 258,
+      "gas:candidate-vibid:4644035227535": 51,
+      "gas:candidate-vibid:4644035252744": 18,
+      "gas:candidate-vibid:4644035228712": 5,
+      "gas:candidate-vibid:4644035228237": 36,
+      "gas:candidate-vibid:4644035228622": 21,
+      "gas:candidate-vibid:4644035228693": 10,
+      "gas:candidate-vibid:4644035228608": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135248&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135248&type=464",
@@ -3111,15 +3111,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 193,
-      "Грищенко Олег Васильевич": 627,
-      "Ищенко Антон Анатольевич": 166,
-      "Коннычев Дмитрий Викторович": 52,
-      "Ледков Александр Владимирович": 14,
-      "Миронов Павел Васильевич": 131,
-      "Сафьянов Виктор Владимирович": 83,
-      "Фролов Александр Васильевич": 34,
-      "Ханенко Дмитрий Борисович": 76
+      "gas:candidate-vibid:4644035227992": 193,
+      "gas:candidate-vibid:4644035228365": 627,
+      "gas:candidate-vibid:4644035227535": 166,
+      "gas:candidate-vibid:4644035252744": 52,
+      "gas:candidate-vibid:4644035228712": 14,
+      "gas:candidate-vibid:4644035228237": 131,
+      "gas:candidate-vibid:4644035228622": 83,
+      "gas:candidate-vibid:4644035228693": 34,
+      "gas:candidate-vibid:4644035228608": 76
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135248&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135248&type=464",
@@ -3170,15 +3170,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 0,
-      "Грищенко Олег Васильевич": 47,
-      "Ищенко Антон Анатольевич": 0,
-      "Коннычев Дмитрий Викторович": 0,
-      "Ледков Александр Владимирович": 0,
-      "Миронов Павел Васильевич": 0,
-      "Сафьянов Виктор Владимирович": 0,
-      "Фролов Александр Васильевич": 0,
-      "Ханенко Дмитрий Борисович": 0
+      "gas:candidate-vibid:4644035227992": 0,
+      "gas:candidate-vibid:4644035228365": 47,
+      "gas:candidate-vibid:4644035227535": 0,
+      "gas:candidate-vibid:4644035252744": 0,
+      "gas:candidate-vibid:4644035228712": 0,
+      "gas:candidate-vibid:4644035228237": 0,
+      "gas:candidate-vibid:4644035228622": 0,
+      "gas:candidate-vibid:4644035228693": 0,
+      "gas:candidate-vibid:4644035228608": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135248&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135248&type=464",
@@ -3229,15 +3229,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 145,
-      "Грищенко Олег Васильевич": 633,
-      "Ищенко Антон Анатольевич": 127,
-      "Коннычев Дмитрий Викторович": 131,
-      "Ледков Александр Владимирович": 28,
-      "Миронов Павел Васильевич": 51,
-      "Сафьянов Виктор Владимирович": 21,
-      "Фролов Александр Васильевич": 13,
-      "Ханенко Дмитрий Борисович": 78
+      "gas:candidate-vibid:4644035227992": 145,
+      "gas:candidate-vibid:4644035228365": 633,
+      "gas:candidate-vibid:4644035227535": 127,
+      "gas:candidate-vibid:4644035252744": 131,
+      "gas:candidate-vibid:4644035228712": 28,
+      "gas:candidate-vibid:4644035228237": 51,
+      "gas:candidate-vibid:4644035228622": 21,
+      "gas:candidate-vibid:4644035228693": 13,
+      "gas:candidate-vibid:4644035228608": 78
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135248&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135248&type=464",
@@ -3288,15 +3288,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 194,
-      "Грищенко Олег Васильевич": 633,
-      "Ищенко Антон Анатольевич": 168,
-      "Коннычев Дмитрий Викторович": 53,
-      "Ледков Александр Владимирович": 15,
-      "Миронов Павел Васильевич": 132,
-      "Сафьянов Виктор Владимирович": 82,
-      "Фролов Александр Васильевич": 35,
-      "Ханенко Дмитрий Борисович": 76
+      "gas:candidate-vibid:4644035227992": 194,
+      "gas:candidate-vibid:4644035228365": 633,
+      "gas:candidate-vibid:4644035227535": 168,
+      "gas:candidate-vibid:4644035252744": 53,
+      "gas:candidate-vibid:4644035228712": 15,
+      "gas:candidate-vibid:4644035228237": 132,
+      "gas:candidate-vibid:4644035228622": 82,
+      "gas:candidate-vibid:4644035228693": 35,
+      "gas:candidate-vibid:4644035228608": 76
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135248&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135248&type=464",
@@ -3347,15 +3347,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 155,
-      "Грищенко Олег Васильевич": 640,
-      "Ищенко Антон Анатольевич": 135,
-      "Коннычев Дмитрий Викторович": 51,
-      "Ледков Александр Владимирович": 10,
-      "Миронов Павел Васильевич": 115,
-      "Сафьянов Виктор Владимирович": 68,
-      "Фролов Александр Васильевич": 30,
-      "Ханенко Дмитрий Борисович": 60
+      "gas:candidate-vibid:4644035227992": 155,
+      "gas:candidate-vibid:4644035228365": 640,
+      "gas:candidate-vibid:4644035227535": 135,
+      "gas:candidate-vibid:4644035252744": 51,
+      "gas:candidate-vibid:4644035228712": 10,
+      "gas:candidate-vibid:4644035228237": 115,
+      "gas:candidate-vibid:4644035228622": 68,
+      "gas:candidate-vibid:4644035228693": 30,
+      "gas:candidate-vibid:4644035228608": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135248&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135248&type=464",
@@ -3406,15 +3406,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 175,
-      "Грищенко Олег Васильевич": 571,
-      "Ищенко Антон Анатольевич": 152,
-      "Коннычев Дмитрий Викторович": 48,
-      "Ледков Александр Владимирович": 13,
-      "Миронов Павел Васильевич": 119,
-      "Сафьянов Виктор Владимирович": 75,
-      "Фролов Александр Васильевич": 31,
-      "Ханенко Дмитрий Борисович": 69
+      "gas:candidate-vibid:4644035227992": 175,
+      "gas:candidate-vibid:4644035228365": 571,
+      "gas:candidate-vibid:4644035227535": 152,
+      "gas:candidate-vibid:4644035252744": 48,
+      "gas:candidate-vibid:4644035228712": 13,
+      "gas:candidate-vibid:4644035228237": 119,
+      "gas:candidate-vibid:4644035228622": 75,
+      "gas:candidate-vibid:4644035228693": 31,
+      "gas:candidate-vibid:4644035228608": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135248&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135248&type=464",
@@ -3465,15 +3465,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 157,
-      "Грищенко Олег Васильевич": 511,
-      "Ищенко Антон Анатольевич": 136,
-      "Коннычев Дмитрий Викторович": 106,
-      "Ледков Александр Владимирович": 43,
-      "Миронов Павел Васильевич": 62,
-      "Сафьянов Виктор Владимирович": 28,
-      "Фролов Александр Васильевич": 11,
-      "Ханенко Дмитрий Борисович": 66
+      "gas:candidate-vibid:4644035227992": 157,
+      "gas:candidate-vibid:4644035228365": 511,
+      "gas:candidate-vibid:4644035227535": 136,
+      "gas:candidate-vibid:4644035252744": 106,
+      "gas:candidate-vibid:4644035228712": 43,
+      "gas:candidate-vibid:4644035228237": 62,
+      "gas:candidate-vibid:4644035228622": 28,
+      "gas:candidate-vibid:4644035228693": 11,
+      "gas:candidate-vibid:4644035228608": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135249&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135249&type=464",
@@ -3524,15 +3524,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 79,
-      "Грищенко Олег Васильевич": 515,
-      "Ищенко Антон Анатольевич": 59,
-      "Коннычев Дмитрий Викторович": 28,
-      "Ледков Александр Владимирович": 18,
-      "Миронов Павел Васильевич": 52,
-      "Сафьянов Виктор Владимирович": 16,
-      "Фролов Александр Васильевич": 21,
-      "Ханенко Дмитрий Борисович": 19
+      "gas:candidate-vibid:4644035227992": 79,
+      "gas:candidate-vibid:4644035228365": 515,
+      "gas:candidate-vibid:4644035227535": 59,
+      "gas:candidate-vibid:4644035252744": 28,
+      "gas:candidate-vibid:4644035228712": 18,
+      "gas:candidate-vibid:4644035228237": 52,
+      "gas:candidate-vibid:4644035228622": 16,
+      "gas:candidate-vibid:4644035228693": 21,
+      "gas:candidate-vibid:4644035228608": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135249&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135249&type=464",
@@ -3583,15 +3583,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 140,
-      "Грищенко Олег Васильевич": 457,
-      "Ищенко Антон Анатольевич": 121,
-      "Коннычев Дмитрий Викторович": 38,
-      "Ледков Александр Владимирович": 10,
-      "Миронов Павел Васильевич": 95,
-      "Сафьянов Виктор Владимирович": 60,
-      "Фролов Александр Васильевич": 25,
-      "Ханенко Дмитрий Борисович": 55
+      "gas:candidate-vibid:4644035227992": 140,
+      "gas:candidate-vibid:4644035228365": 457,
+      "gas:candidate-vibid:4644035227535": 121,
+      "gas:candidate-vibid:4644035252744": 38,
+      "gas:candidate-vibid:4644035228712": 10,
+      "gas:candidate-vibid:4644035228237": 95,
+      "gas:candidate-vibid:4644035228622": 60,
+      "gas:candidate-vibid:4644035228693": 25,
+      "gas:candidate-vibid:4644035228608": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135249&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135249&type=464",
@@ -3642,15 +3642,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 152,
-      "Грищенко Олег Васильевич": 531,
-      "Ищенко Антон Анатольевич": 123,
-      "Коннычев Дмитрий Викторович": 40,
-      "Ледков Александр Владимирович": 6,
-      "Миронов Павел Васильевич": 102,
-      "Сафьянов Виктор Владимирович": 55,
-      "Фролов Александр Васильевич": 20,
-      "Ханенко Дмитрий Борисович": 30
+      "gas:candidate-vibid:4644035227992": 152,
+      "gas:candidate-vibid:4644035228365": 531,
+      "gas:candidate-vibid:4644035227535": 123,
+      "gas:candidate-vibid:4644035252744": 40,
+      "gas:candidate-vibid:4644035228712": 6,
+      "gas:candidate-vibid:4644035228237": 102,
+      "gas:candidate-vibid:4644035228622": 55,
+      "gas:candidate-vibid:4644035228693": 20,
+      "gas:candidate-vibid:4644035228608": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135249&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135249&type=464",
@@ -3701,15 +3701,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 153,
-      "Грищенко Олег Васильевич": 502,
-      "Ищенко Антон Анатольевич": 131,
-      "Коннычев Дмитрий Викторович": 44,
-      "Ледков Александр Владимирович": 10,
-      "Миронов Павел Васильевич": 100,
-      "Сафьянов Виктор Владимирович": 65,
-      "Фролов Александр Васильевич": 28,
-      "Ханенко Дмитрий Борисович": 60
+      "gas:candidate-vibid:4644035227992": 153,
+      "gas:candidate-vibid:4644035228365": 502,
+      "gas:candidate-vibid:4644035227535": 131,
+      "gas:candidate-vibid:4644035252744": 44,
+      "gas:candidate-vibid:4644035228712": 10,
+      "gas:candidate-vibid:4644035228237": 100,
+      "gas:candidate-vibid:4644035228622": 65,
+      "gas:candidate-vibid:4644035228693": 28,
+      "gas:candidate-vibid:4644035228608": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135249&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135249&type=464",
@@ -3760,15 +3760,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 188,
-      "Грищенко Олег Васильевич": 769,
-      "Ищенко Антон Анатольевич": 162,
-      "Коннычев Дмитрий Викторович": 51,
-      "Ледков Александр Владимирович": 10,
-      "Миронов Павел Васильевич": 127,
-      "Сафьянов Виктор Владимирович": 20,
-      "Фролов Александр Васильевич": 4,
-      "Ханенко Дмитрий Борисович": 10
+      "gas:candidate-vibid:4644035227992": 188,
+      "gas:candidate-vibid:4644035228365": 769,
+      "gas:candidate-vibid:4644035227535": 162,
+      "gas:candidate-vibid:4644035252744": 51,
+      "gas:candidate-vibid:4644035228712": 10,
+      "gas:candidate-vibid:4644035228237": 127,
+      "gas:candidate-vibid:4644035228622": 20,
+      "gas:candidate-vibid:4644035228693": 4,
+      "gas:candidate-vibid:4644035228608": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135249&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135249&type=464",
@@ -3819,15 +3819,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 236,
-      "Грищенко Олег Васильевич": 877,
-      "Ищенко Антон Анатольевич": 207,
-      "Коннычев Дмитрий Викторович": 59,
-      "Ледков Александр Владимирович": 17,
-      "Миронов Павел Васильевич": 158,
-      "Сафьянов Виктор Владимирович": 101,
-      "Фролов Александр Васильевич": 42,
-      "Ханенко Дмитрий Борисович": 41
+      "gas:candidate-vibid:4644035227992": 236,
+      "gas:candidate-vibid:4644035228365": 877,
+      "gas:candidate-vibid:4644035227535": 207,
+      "gas:candidate-vibid:4644035252744": 59,
+      "gas:candidate-vibid:4644035228712": 17,
+      "gas:candidate-vibid:4644035228237": 158,
+      "gas:candidate-vibid:4644035228622": 101,
+      "gas:candidate-vibid:4644035228693": 42,
+      "gas:candidate-vibid:4644035228608": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135249&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135249&type=464",
@@ -3878,15 +3878,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 200,
-      "Грищенко Олег Васильевич": 653,
-      "Ищенко Антон Анатольевич": 173,
-      "Коннычев Дмитрий Викторович": 54,
-      "Ледков Александр Владимирович": 14,
-      "Миронов Павел Васильевич": 136,
-      "Сафьянов Виктор Владимирович": 86,
-      "Фролов Александр Васильевич": 36,
-      "Ханенко Дмитрий Борисович": 79
+      "gas:candidate-vibid:4644035227992": 200,
+      "gas:candidate-vibid:4644035228365": 653,
+      "gas:candidate-vibid:4644035227535": 173,
+      "gas:candidate-vibid:4644035252744": 54,
+      "gas:candidate-vibid:4644035228712": 14,
+      "gas:candidate-vibid:4644035228237": 136,
+      "gas:candidate-vibid:4644035228622": 86,
+      "gas:candidate-vibid:4644035228693": 36,
+      "gas:candidate-vibid:4644035228608": 79
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135249&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135249&type=464",
@@ -3937,15 +3937,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 191,
-      "Грищенко Олег Васильевич": 620,
-      "Ищенко Антон Анатольевич": 157,
-      "Коннычев Дмитрий Викторович": 39,
-      "Ледков Александр Владимирович": 13,
-      "Миронов Павел Васильевич": 124,
-      "Сафьянов Виктор Владимирович": 78,
-      "Фролов Александр Васильевич": 26,
-      "Ханенко Дмитрий Борисович": 65
+      "gas:candidate-vibid:4644035227992": 191,
+      "gas:candidate-vibid:4644035228365": 620,
+      "gas:candidate-vibid:4644035227535": 157,
+      "gas:candidate-vibid:4644035252744": 39,
+      "gas:candidate-vibid:4644035228712": 13,
+      "gas:candidate-vibid:4644035228237": 124,
+      "gas:candidate-vibid:4644035228622": 78,
+      "gas:candidate-vibid:4644035228693": 26,
+      "gas:candidate-vibid:4644035228608": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135249&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135249&type=464",
@@ -3996,15 +3996,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 119,
-      "Грищенко Олег Васильевич": 462,
-      "Ищенко Антон Анатольевич": 103,
-      "Коннычев Дмитрий Викторович": 32,
-      "Ледков Александр Владимирович": 8,
-      "Миронов Павел Васильевич": 81,
-      "Сафьянов Виктор Владимирович": 14,
-      "Фролов Александр Васильевич": 21,
-      "Ханенко Дмитрий Борисович": 10
+      "gas:candidate-vibid:4644035227992": 119,
+      "gas:candidate-vibid:4644035228365": 462,
+      "gas:candidate-vibid:4644035227535": 103,
+      "gas:candidate-vibid:4644035252744": 32,
+      "gas:candidate-vibid:4644035228712": 8,
+      "gas:candidate-vibid:4644035228237": 81,
+      "gas:candidate-vibid:4644035228622": 14,
+      "gas:candidate-vibid:4644035228693": 21,
+      "gas:candidate-vibid:4644035228608": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135249&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135249&type=464",
@@ -4055,15 +4055,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 208,
-      "Грищенко Олег Васильевич": 678,
-      "Ищенко Антон Анатольевич": 178,
-      "Коннычев Дмитрий Викторович": 56,
-      "Ледков Александр Владимирович": 15,
-      "Миронов Павел Васильевич": 141,
-      "Сафьянов Виктор Владимирович": 89,
-      "Фролов Александр Васильевич": 37,
-      "Ханенко Дмитрий Борисович": 82
+      "gas:candidate-vibid:4644035227992": 208,
+      "gas:candidate-vibid:4644035228365": 678,
+      "gas:candidate-vibid:4644035227535": 178,
+      "gas:candidate-vibid:4644035252744": 56,
+      "gas:candidate-vibid:4644035228712": 15,
+      "gas:candidate-vibid:4644035228237": 141,
+      "gas:candidate-vibid:4644035228622": 89,
+      "gas:candidate-vibid:4644035228693": 37,
+      "gas:candidate-vibid:4644035228608": 82
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135249&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135249&type=464",
@@ -4114,15 +4114,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 196,
-      "Грищенко Олег Васильевич": 643,
-      "Ищенко Антон Анатольевич": 170,
-      "Коннычев Дмитрий Викторович": 58,
-      "Ледков Александр Владимирович": 14,
-      "Миронов Павел Васильевич": 134,
-      "Сафьянов Виктор Владимирович": 84,
-      "Фролов Александр Васильевич": 35,
-      "Ханенко Дмитрий Борисович": 78
+      "gas:candidate-vibid:4644035227992": 196,
+      "gas:candidate-vibid:4644035228365": 643,
+      "gas:candidate-vibid:4644035227535": 170,
+      "gas:candidate-vibid:4644035252744": 58,
+      "gas:candidate-vibid:4644035228712": 14,
+      "gas:candidate-vibid:4644035228237": 134,
+      "gas:candidate-vibid:4644035228622": 84,
+      "gas:candidate-vibid:4644035228693": 35,
+      "gas:candidate-vibid:4644035228608": 78
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135249&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135249&type=464",
@@ -4173,15 +4173,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 183,
-      "Грищенко Олег Васильевич": 597,
-      "Ищенко Антон Анатольевич": 158,
-      "Коннычев Дмитрий Викторович": 50,
-      "Ледков Александр Владимирович": 13,
-      "Миронов Павел Васильевич": 124,
-      "Сафьянов Виктор Владимирович": 79,
-      "Фролов Александр Васильевич": 33,
-      "Ханенко Дмитрий Борисович": 72
+      "gas:candidate-vibid:4644035227992": 183,
+      "gas:candidate-vibid:4644035228365": 597,
+      "gas:candidate-vibid:4644035227535": 158,
+      "gas:candidate-vibid:4644035252744": 50,
+      "gas:candidate-vibid:4644035228712": 13,
+      "gas:candidate-vibid:4644035228237": 124,
+      "gas:candidate-vibid:4644035228622": 79,
+      "gas:candidate-vibid:4644035228693": 33,
+      "gas:candidate-vibid:4644035228608": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135249&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135249&type=464",
@@ -4232,15 +4232,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 175,
-      "Грищенко Олег Васильевич": 570,
-      "Ищенко Антон Анатольевич": 151,
-      "Коннычев Дмитрий Викторович": 47,
-      "Ледков Александр Владимирович": 12,
-      "Миронов Павел Васильевич": 119,
-      "Сафьянов Виктор Владимирович": 75,
-      "Фролов Александр Васильевич": 31,
-      "Ханенко Дмитрий Борисович": 69
+      "gas:candidate-vibid:4644035227992": 175,
+      "gas:candidate-vibid:4644035228365": 570,
+      "gas:candidate-vibid:4644035227535": 151,
+      "gas:candidate-vibid:4644035252744": 47,
+      "gas:candidate-vibid:4644035228712": 12,
+      "gas:candidate-vibid:4644035228237": 119,
+      "gas:candidate-vibid:4644035228622": 75,
+      "gas:candidate-vibid:4644035228693": 31,
+      "gas:candidate-vibid:4644035228608": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135249&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135249&type=464",
@@ -4291,15 +4291,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 207,
-      "Грищенко Олег Васильевич": 672,
-      "Ищенко Антон Анатольевич": 178,
-      "Коннычев Дмитрий Викторович": 56,
-      "Ледков Александр Владимирович": 15,
-      "Миронов Павел Васильевич": 140,
-      "Сафьянов Виктор Владимирович": 89,
-      "Фролов Александр Васильевич": 37,
-      "Ханенко Дмитрий Борисович": 81
+      "gas:candidate-vibid:4644035227992": 207,
+      "gas:candidate-vibid:4644035228365": 672,
+      "gas:candidate-vibid:4644035227535": 178,
+      "gas:candidate-vibid:4644035252744": 56,
+      "gas:candidate-vibid:4644035228712": 15,
+      "gas:candidate-vibid:4644035228237": 140,
+      "gas:candidate-vibid:4644035228622": 89,
+      "gas:candidate-vibid:4644035228693": 37,
+      "gas:candidate-vibid:4644035228608": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135249&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135249&type=464",
@@ -4350,15 +4350,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 186,
-      "Грищенко Олег Васильевич": 608,
-      "Ищенко Антон Анатольевич": 162,
-      "Коннычев Дмитрий Викторович": 50,
-      "Ледков Александр Владимирович": 13,
-      "Миронов Павел Васильевич": 127,
-      "Сафьянов Виктор Владимирович": 79,
-      "Фролов Александр Васильевич": 33,
-      "Ханенко Дмитрий Борисович": 74
+      "gas:candidate-vibid:4644035227992": 186,
+      "gas:candidate-vibid:4644035228365": 608,
+      "gas:candidate-vibid:4644035227535": 162,
+      "gas:candidate-vibid:4644035252744": 50,
+      "gas:candidate-vibid:4644035228712": 13,
+      "gas:candidate-vibid:4644035228237": 127,
+      "gas:candidate-vibid:4644035228622": 79,
+      "gas:candidate-vibid:4644035228693": 33,
+      "gas:candidate-vibid:4644035228608": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135249&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135249&type=464",
@@ -4409,15 +4409,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 169,
-      "Грищенко Олег Васильевич": 550,
-      "Ищенко Антон Анатольевич": 145,
-      "Коннычев Дмитрий Викторович": 45,
-      "Ледков Александр Владимирович": 12,
-      "Миронов Павел Васильевич": 114,
-      "Сафьянов Виктор Владимирович": 73,
-      "Фролов Александр Васильевич": 30,
-      "Ханенко Дмитрий Борисович": 66
+      "gas:candidate-vibid:4644035227992": 169,
+      "gas:candidate-vibid:4644035228365": 550,
+      "gas:candidate-vibid:4644035227535": 145,
+      "gas:candidate-vibid:4644035252744": 45,
+      "gas:candidate-vibid:4644035228712": 12,
+      "gas:candidate-vibid:4644035228237": 114,
+      "gas:candidate-vibid:4644035228622": 73,
+      "gas:candidate-vibid:4644035228693": 30,
+      "gas:candidate-vibid:4644035228608": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135249&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135249&type=464",
@@ -4468,15 +4468,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 186,
-      "Грищенко Олег Васильевич": 606,
-      "Ищенко Антон Анатольевич": 161,
-      "Коннычев Дмитрий Викторович": 51,
-      "Ледков Александр Владимирович": 13,
-      "Миронов Павел Васильевич": 116,
-      "Сафьянов Виктор Владимирович": 80,
-      "Фролов Александр Васильевич": 33,
-      "Ханенко Дмитрий Борисович": 58
+      "gas:candidate-vibid:4644035227992": 186,
+      "gas:candidate-vibid:4644035228365": 606,
+      "gas:candidate-vibid:4644035227535": 161,
+      "gas:candidate-vibid:4644035252744": 51,
+      "gas:candidate-vibid:4644035228712": 13,
+      "gas:candidate-vibid:4644035228237": 116,
+      "gas:candidate-vibid:4644035228622": 80,
+      "gas:candidate-vibid:4644035228693": 33,
+      "gas:candidate-vibid:4644035228608": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135249&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135249&type=464",
@@ -4527,15 +4527,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 206,
-      "Грищенко Олег Васильевич": 671,
-      "Ищенко Антон Анатольевич": 178,
-      "Коннычев Дмитрий Викторович": 56,
-      "Ледков Александр Владимирович": 15,
-      "Миронов Павел Васильевич": 140,
-      "Сафьянов Виктор Владимирович": 88,
-      "Фролов Александр Васильевич": 37,
-      "Ханенко Дмитрий Борисович": 80
+      "gas:candidate-vibid:4644035227992": 206,
+      "gas:candidate-vibid:4644035228365": 671,
+      "gas:candidate-vibid:4644035227535": 178,
+      "gas:candidate-vibid:4644035252744": 56,
+      "gas:candidate-vibid:4644035228712": 15,
+      "gas:candidate-vibid:4644035228237": 140,
+      "gas:candidate-vibid:4644035228622": 88,
+      "gas:candidate-vibid:4644035228693": 37,
+      "gas:candidate-vibid:4644035228608": 80
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135249&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135249&type=464",
@@ -4586,15 +4586,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 23,
-      "Грищенко Олег Васильевич": 467,
-      "Ищенко Антон Анатольевич": 39,
-      "Коннычев Дмитрий Викторович": 8,
-      "Ледков Александр Владимирович": 6,
-      "Миронов Павел Васильевич": 25,
-      "Сафьянов Виктор Владимирович": 8,
-      "Фролов Александр Васильевич": 7,
-      "Ханенко Дмитрий Борисович": 3
+      "gas:candidate-vibid:4644035227992": 23,
+      "gas:candidate-vibid:4644035228365": 467,
+      "gas:candidate-vibid:4644035227535": 39,
+      "gas:candidate-vibid:4644035252744": 8,
+      "gas:candidate-vibid:4644035228712": 6,
+      "gas:candidate-vibid:4644035228237": 25,
+      "gas:candidate-vibid:4644035228622": 8,
+      "gas:candidate-vibid:4644035228693": 7,
+      "gas:candidate-vibid:4644035228608": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135249&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135249&type=464",
@@ -4645,15 +4645,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 172,
-      "Грищенко Олег Васильевич": 562,
-      "Ищенко Антон Анатольевич": 149,
-      "Коннычев Дмитрий Викторович": 47,
-      "Ледков Александр Владимирович": 12,
-      "Миронов Павел Васильевич": 117,
-      "Сафьянов Виктор Владимирович": 74,
-      "Фролов Александр Васильевич": 31,
-      "Ханенко Дмитрий Борисович": 68
+      "gas:candidate-vibid:4644035227992": 172,
+      "gas:candidate-vibid:4644035228365": 562,
+      "gas:candidate-vibid:4644035227535": 149,
+      "gas:candidate-vibid:4644035252744": 47,
+      "gas:candidate-vibid:4644035228712": 12,
+      "gas:candidate-vibid:4644035228237": 117,
+      "gas:candidate-vibid:4644035228622": 74,
+      "gas:candidate-vibid:4644035228693": 31,
+      "gas:candidate-vibid:4644035228608": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135249&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135249&type=464",
@@ -4704,15 +4704,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 192,
-      "Грищенко Олег Васильевич": 620,
-      "Ищенко Антон Анатольевич": 162,
-      "Коннычев Дмитрий Викторович": 52,
-      "Ледков Александр Владимирович": 14,
-      "Миронов Павел Васильевич": 130,
-      "Сафьянов Виктор Владимирович": 82,
-      "Фролов Александр Васильевич": 22,
-      "Ханенко Дмитрий Борисович": 75
+      "gas:candidate-vibid:4644035227992": 192,
+      "gas:candidate-vibid:4644035228365": 620,
+      "gas:candidate-vibid:4644035227535": 162,
+      "gas:candidate-vibid:4644035252744": 52,
+      "gas:candidate-vibid:4644035228712": 14,
+      "gas:candidate-vibid:4644035228237": 130,
+      "gas:candidate-vibid:4644035228622": 82,
+      "gas:candidate-vibid:4644035228693": 22,
+      "gas:candidate-vibid:4644035228608": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135249&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135249&type=464",
@@ -4763,15 +4763,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 171,
-      "Грищенко Олег Васильевич": 556,
-      "Ищенко Антон Анатольевич": 147,
-      "Коннычев Дмитрий Викторович": 46,
-      "Ледков Александр Владимирович": 12,
-      "Миронов Павел Васильевич": 116,
-      "Сафьянов Виктор Владимирович": 73,
-      "Фролов Александр Васильевич": 30,
-      "Ханенко Дмитрий Борисович": 67
+      "gas:candidate-vibid:4644035227992": 171,
+      "gas:candidate-vibid:4644035228365": 556,
+      "gas:candidate-vibid:4644035227535": 147,
+      "gas:candidate-vibid:4644035252744": 46,
+      "gas:candidate-vibid:4644035228712": 12,
+      "gas:candidate-vibid:4644035228237": 116,
+      "gas:candidate-vibid:4644035228622": 73,
+      "gas:candidate-vibid:4644035228693": 30,
+      "gas:candidate-vibid:4644035228608": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135249&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135249&type=464",
@@ -4822,15 +4822,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 132,
-      "Грищенко Олег Васильевич": 437,
-      "Ищенко Антон Анатольевич": 116,
-      "Коннычев Дмитрий Викторович": 36,
-      "Ледков Александр Владимирович": 10,
-      "Миронов Павел Васильевич": 91,
-      "Сафьянов Виктор Владимирович": 57,
-      "Фролов Александр Васильевич": 24,
-      "Ханенко Дмитрий Борисович": 54
+      "gas:candidate-vibid:4644035227992": 132,
+      "gas:candidate-vibid:4644035228365": 437,
+      "gas:candidate-vibid:4644035227535": 116,
+      "gas:candidate-vibid:4644035252744": 36,
+      "gas:candidate-vibid:4644035228712": 10,
+      "gas:candidate-vibid:4644035228237": 91,
+      "gas:candidate-vibid:4644035228622": 57,
+      "gas:candidate-vibid:4644035228693": 24,
+      "gas:candidate-vibid:4644035228608": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135249&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135249&type=464",
@@ -4881,15 +4881,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 166,
-      "Грищенко Олег Васильевич": 540,
-      "Ищенко Антон Анатольевич": 143,
-      "Коннычев Дмитрий Викторович": 45,
-      "Ледков Александр Владимирович": 12,
-      "Миронов Павел Васильевич": 113,
-      "Сафьянов Виктор Владимирович": 71,
-      "Фролов Александр Васильевич": 30,
-      "Ханенко Дмитрий Борисович": 65
+      "gas:candidate-vibid:4644035227992": 166,
+      "gas:candidate-vibid:4644035228365": 540,
+      "gas:candidate-vibid:4644035227535": 143,
+      "gas:candidate-vibid:4644035252744": 45,
+      "gas:candidate-vibid:4644035228712": 12,
+      "gas:candidate-vibid:4644035228237": 113,
+      "gas:candidate-vibid:4644035228622": 71,
+      "gas:candidate-vibid:4644035228693": 30,
+      "gas:candidate-vibid:4644035228608": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135249&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135249&type=464",
@@ -4940,15 +4940,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 167,
-      "Грищенко Олег Васильевич": 543,
-      "Ищенко Антон Анатольевич": 144,
-      "Коннычев Дмитрий Викторович": 45,
-      "Ледков Александр Владимирович": 11,
-      "Миронов Павел Васильевич": 111,
-      "Сафьянов Виктор Владимирович": 72,
-      "Фролов Александр Васильевич": 30,
-      "Ханенко Дмитрий Борисович": 63
+      "gas:candidate-vibid:4644035227992": 167,
+      "gas:candidate-vibid:4644035228365": 543,
+      "gas:candidate-vibid:4644035227535": 144,
+      "gas:candidate-vibid:4644035252744": 45,
+      "gas:candidate-vibid:4644035228712": 11,
+      "gas:candidate-vibid:4644035228237": 111,
+      "gas:candidate-vibid:4644035228622": 72,
+      "gas:candidate-vibid:4644035228693": 30,
+      "gas:candidate-vibid:4644035228608": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135249&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135249&type=464",
@@ -4999,15 +4999,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 197,
-      "Грищенко Олег Васильевич": 642,
-      "Ищенко Антон Анатольевич": 170,
-      "Коннычев Дмитрий Викторович": 134,
-      "Ледков Александр Владимирович": 53,
-      "Миронов Павел Васильевич": 77,
-      "Сафьянов Виктор Владимирович": 35,
-      "Фролов Александр Васильевич": 14,
-      "Ханенко Дмитрий Борисович": 84
+      "gas:candidate-vibid:4644035227992": 197,
+      "gas:candidate-vibid:4644035228365": 642,
+      "gas:candidate-vibid:4644035227535": 170,
+      "gas:candidate-vibid:4644035252744": 134,
+      "gas:candidate-vibid:4644035228712": 53,
+      "gas:candidate-vibid:4644035228237": 77,
+      "gas:candidate-vibid:4644035228622": 35,
+      "gas:candidate-vibid:4644035228693": 14,
+      "gas:candidate-vibid:4644035228608": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135249&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135249&type=464",
@@ -5058,15 +5058,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 142,
-      "Грищенко Олег Васильевич": 465,
-      "Ищенко Антон Анатольевич": 122,
-      "Коннычев Дмитрий Викторович": 38,
-      "Ледков Александр Владимирович": 8,
-      "Миронов Павел Васильевич": 96,
-      "Сафьянов Виктор Владимирович": 55,
-      "Фролов Александр Васильевич": 25,
-      "Ханенко Дмитрий Борисович": 56
+      "gas:candidate-vibid:4644035227992": 142,
+      "gas:candidate-vibid:4644035228365": 465,
+      "gas:candidate-vibid:4644035227535": 122,
+      "gas:candidate-vibid:4644035252744": 38,
+      "gas:candidate-vibid:4644035228712": 8,
+      "gas:candidate-vibid:4644035228237": 96,
+      "gas:candidate-vibid:4644035228622": 55,
+      "gas:candidate-vibid:4644035228693": 25,
+      "gas:candidate-vibid:4644035228608": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135249&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135249&type=464",
@@ -5117,15 +5117,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 110,
-      "Грищенко Олег Васильевич": 211,
-      "Ищенко Антон Анатольевич": 56,
-      "Коннычев Дмитрий Викторович": 12,
-      "Ледков Александр Владимирович": 8,
-      "Миронов Павел Васильевич": 44,
-      "Сафьянов Виктор Владимирович": 7,
-      "Фролов Александр Васильевич": 12,
-      "Ханенко Дмитрий Борисович": 46
+      "gas:candidate-vibid:4644035227992": 110,
+      "gas:candidate-vibid:4644035228365": 211,
+      "gas:candidate-vibid:4644035227535": 56,
+      "gas:candidate-vibid:4644035252744": 12,
+      "gas:candidate-vibid:4644035228712": 8,
+      "gas:candidate-vibid:4644035228237": 44,
+      "gas:candidate-vibid:4644035228622": 7,
+      "gas:candidate-vibid:4644035228693": 12,
+      "gas:candidate-vibid:4644035228608": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135249&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135249&type=464",
@@ -5176,15 +5176,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 136,
-      "Грищенко Олег Васильевич": 447,
-      "Ищенко Антон Анатольевич": 118,
-      "Коннычев Дмитрий Викторович": 37,
-      "Ледков Александр Владимирович": 9,
-      "Миронов Павел Васильевич": 93,
-      "Сафьянов Виктор Владимирович": 58,
-      "Фролов Александр Васильевич": 24,
-      "Ханенко Дмитрий Борисович": 54
+      "gas:candidate-vibid:4644035227992": 136,
+      "gas:candidate-vibid:4644035228365": 447,
+      "gas:candidate-vibid:4644035227535": 118,
+      "gas:candidate-vibid:4644035252744": 37,
+      "gas:candidate-vibid:4644035228712": 9,
+      "gas:candidate-vibid:4644035228237": 93,
+      "gas:candidate-vibid:4644035228622": 58,
+      "gas:candidate-vibid:4644035228693": 24,
+      "gas:candidate-vibid:4644035228608": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135249&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135249&type=464",
@@ -5235,15 +5235,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 206,
-      "Грищенко Олег Васильевич": 670,
-      "Ищенко Антон Анатольевич": 178,
-      "Коннычев Дмитрий Викторович": 56,
-      "Ледков Александр Владимирович": 15,
-      "Миронов Павел Васильевич": 140,
-      "Сафьянов Виктор Владимирович": 88,
-      "Фролов Александр Васильевич": 37,
-      "Ханенко Дмитрий Борисович": 81
+      "gas:candidate-vibid:4644035227992": 206,
+      "gas:candidate-vibid:4644035228365": 670,
+      "gas:candidate-vibid:4644035227535": 178,
+      "gas:candidate-vibid:4644035252744": 56,
+      "gas:candidate-vibid:4644035228712": 15,
+      "gas:candidate-vibid:4644035228237": 140,
+      "gas:candidate-vibid:4644035228622": 88,
+      "gas:candidate-vibid:4644035228693": 37,
+      "gas:candidate-vibid:4644035228608": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135249&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135249&type=464",
@@ -5294,15 +5294,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 196,
-      "Грищенко Олег Васильевич": 629,
-      "Ищенко Антон Анатольевич": 169,
-      "Коннычев Дмитрий Викторович": 57,
-      "Ледков Александр Владимирович": 12,
-      "Миронов Павел Васильевич": 133,
-      "Сафьянов Виктор Владимирович": 84,
-      "Фролов Александр Васильевич": 33,
-      "Ханенко Дмитрий Борисович": 76
+      "gas:candidate-vibid:4644035227992": 196,
+      "gas:candidate-vibid:4644035228365": 629,
+      "gas:candidate-vibid:4644035227535": 169,
+      "gas:candidate-vibid:4644035252744": 57,
+      "gas:candidate-vibid:4644035228712": 12,
+      "gas:candidate-vibid:4644035228237": 133,
+      "gas:candidate-vibid:4644035228622": 84,
+      "gas:candidate-vibid:4644035228693": 33,
+      "gas:candidate-vibid:4644035228608": 76
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135249&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135249&type=464",
@@ -5353,15 +5353,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 75,
-      "Грищенко Олег Васильевич": 209,
-      "Ищенко Антон Анатольевич": 72,
-      "Коннычев Дмитрий Викторович": 32,
-      "Ледков Александр Владимирович": 12,
-      "Миронов Павел Васильевич": 31,
-      "Сафьянов Виктор Владимирович": 14,
-      "Фролов Александр Васильевич": 8,
-      "Ханенко Дмитрий Борисович": 24
+      "gas:candidate-vibid:4644035227992": 75,
+      "gas:candidate-vibid:4644035228365": 209,
+      "gas:candidate-vibid:4644035227535": 72,
+      "gas:candidate-vibid:4644035252744": 32,
+      "gas:candidate-vibid:4644035228712": 12,
+      "gas:candidate-vibid:4644035228237": 31,
+      "gas:candidate-vibid:4644035228622": 14,
+      "gas:candidate-vibid:4644035228693": 8,
+      "gas:candidate-vibid:4644035228608": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135249&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135249&type=464",
@@ -5412,15 +5412,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 231,
-      "Грищенко Олег Васильевич": 856,
-      "Ищенко Антон Анатольевич": 198,
-      "Коннычев Дмитрий Викторович": 55,
-      "Ледков Александр Владимирович": 17,
-      "Миронов Павел Васильевич": 154,
-      "Сафьянов Виктор Владимирович": 93,
-      "Фролов Александр Васильевич": 33,
-      "Ханенко Дмитрий Борисович": 85
+      "gas:candidate-vibid:4644035227992": 231,
+      "gas:candidate-vibid:4644035228365": 856,
+      "gas:candidate-vibid:4644035227535": 198,
+      "gas:candidate-vibid:4644035252744": 55,
+      "gas:candidate-vibid:4644035228712": 17,
+      "gas:candidate-vibid:4644035228237": 154,
+      "gas:candidate-vibid:4644035228622": 93,
+      "gas:candidate-vibid:4644035228693": 33,
+      "gas:candidate-vibid:4644035228608": 85
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135249&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135249&type=464",
@@ -5471,15 +5471,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 233,
-      "Грищенко Олег Васильевич": 765,
-      "Ищенко Антон Анатольевич": 201,
-      "Коннычев Дмитрий Викторович": 63,
-      "Ледков Александр Владимирович": 16,
-      "Миронов Павел Васильевич": 151,
-      "Сафьянов Виктор Владимирович": 101,
-      "Фролов Александр Васильевич": 42,
-      "Ханенко Дмитрий Борисович": 92
+      "gas:candidate-vibid:4644035227992": 233,
+      "gas:candidate-vibid:4644035228365": 765,
+      "gas:candidate-vibid:4644035227535": 201,
+      "gas:candidate-vibid:4644035252744": 63,
+      "gas:candidate-vibid:4644035228712": 16,
+      "gas:candidate-vibid:4644035228237": 151,
+      "gas:candidate-vibid:4644035228622": 101,
+      "gas:candidate-vibid:4644035228693": 42,
+      "gas:candidate-vibid:4644035228608": 92
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135249&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135249&type=464",
@@ -5530,15 +5530,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 156,
-      "Грищенко Олег Васильевич": 507,
-      "Ищенко Антон Анатольевич": 135,
-      "Коннычев Дмитрий Викторович": 41,
-      "Ледков Александр Владимирович": 11,
-      "Миронов Павел Васильевич": 106,
-      "Сафьянов Виктор Владимирович": 67,
-      "Фролов Александр Васильевич": 28,
-      "Ханенко Дмитрий Борисович": 61
+      "gas:candidate-vibid:4644035227992": 156,
+      "gas:candidate-vibid:4644035228365": 507,
+      "gas:candidate-vibid:4644035227535": 135,
+      "gas:candidate-vibid:4644035252744": 41,
+      "gas:candidate-vibid:4644035228712": 11,
+      "gas:candidate-vibid:4644035228237": 106,
+      "gas:candidate-vibid:4644035228622": 67,
+      "gas:candidate-vibid:4644035228693": 28,
+      "gas:candidate-vibid:4644035228608": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135249&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135249&type=464",
@@ -5589,15 +5589,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 157,
-      "Грищенко Олег Васильевич": 547,
-      "Ищенко Антон Анатольевич": 130,
-      "Коннычев Дмитрий Викторович": 41,
-      "Ледков Александр Владимирович": 9,
-      "Миронов Павел Васильевич": 104,
-      "Сафьянов Виктор Владимирович": 34,
-      "Фролов Александр Васильевич": 26,
-      "Ханенко Дмитрий Борисович": 59
+      "gas:candidate-vibid:4644035227992": 157,
+      "gas:candidate-vibid:4644035228365": 547,
+      "gas:candidate-vibid:4644035227535": 130,
+      "gas:candidate-vibid:4644035252744": 41,
+      "gas:candidate-vibid:4644035228712": 9,
+      "gas:candidate-vibid:4644035228237": 104,
+      "gas:candidate-vibid:4644035228622": 34,
+      "gas:candidate-vibid:4644035228693": 26,
+      "gas:candidate-vibid:4644035228608": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135249&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135249&type=464",
@@ -5648,15 +5648,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 163,
-      "Грищенко Олег Васильевич": 535,
-      "Ищенко Антон Анатольевич": 140,
-      "Коннычев Дмитрий Викторович": 44,
-      "Ледков Александр Владимирович": 12,
-      "Миронов Павел Васильевич": 111,
-      "Сафьянов Виктор Владимирович": 70,
-      "Фролов Александр Васильевич": 29,
-      "Ханенко Дмитрий Борисович": 59
+      "gas:candidate-vibid:4644035227992": 163,
+      "gas:candidate-vibid:4644035228365": 535,
+      "gas:candidate-vibid:4644035227535": 140,
+      "gas:candidate-vibid:4644035252744": 44,
+      "gas:candidate-vibid:4644035228712": 12,
+      "gas:candidate-vibid:4644035228237": 111,
+      "gas:candidate-vibid:4644035228622": 70,
+      "gas:candidate-vibid:4644035228693": 29,
+      "gas:candidate-vibid:4644035228608": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135249&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135249&type=464",
@@ -5707,15 +5707,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 167,
-      "Грищенко Олег Васильевич": 543,
-      "Ищенко Антон Анатольевич": 144,
-      "Коннычев Дмитрий Викторович": 12,
-      "Ледков Александр Владимирович": 72,
-      "Миронов Павел Васильевич": 45,
-      "Сафьянов Виктор Владимирович": 30,
-      "Фролов Александр Васильевич": 113,
-      "Ханенко Дмитрий Борисович": 65
+      "gas:candidate-vibid:4644035227992": 167,
+      "gas:candidate-vibid:4644035228365": 543,
+      "gas:candidate-vibid:4644035227535": 144,
+      "gas:candidate-vibid:4644035252744": 12,
+      "gas:candidate-vibid:4644035228712": 72,
+      "gas:candidate-vibid:4644035228237": 45,
+      "gas:candidate-vibid:4644035228622": 30,
+      "gas:candidate-vibid:4644035228693": 113,
+      "gas:candidate-vibid:4644035228608": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135249&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135249&type=464",
@@ -5766,15 +5766,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 6,
-      "Грищенко Олег Васильевич": 499,
-      "Ищенко Антон Анатольевич": 5,
-      "Коннычев Дмитрий Викторович": 5,
-      "Ледков Александр Владимирович": 0,
-      "Миронов Павел Васильевич": 0,
-      "Сафьянов Виктор Владимирович": 0,
-      "Фролов Александр Васильевич": 0,
-      "Ханенко Дмитрий Борисович": 0
+      "gas:candidate-vibid:4644035227992": 6,
+      "gas:candidate-vibid:4644035228365": 499,
+      "gas:candidate-vibid:4644035227535": 5,
+      "gas:candidate-vibid:4644035252744": 5,
+      "gas:candidate-vibid:4644035228712": 0,
+      "gas:candidate-vibid:4644035228237": 0,
+      "gas:candidate-vibid:4644035228622": 0,
+      "gas:candidate-vibid:4644035228693": 0,
+      "gas:candidate-vibid:4644035228608": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135249&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135249&type=464",
@@ -5825,15 +5825,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 172,
-      "Грищенко Олег Васильевич": 561,
-      "Ищенко Антон Анатольевич": 149,
-      "Коннычев Дмитрий Викторович": 42,
-      "Ледков Александр Владимирович": 12,
-      "Миронов Павел Васильевич": 117,
-      "Сафьянов Виктор Владимирович": 71,
-      "Фролов Александр Васильевич": 31,
-      "Ханенко Дмитрий Борисович": 68
+      "gas:candidate-vibid:4644035227992": 172,
+      "gas:candidate-vibid:4644035228365": 561,
+      "gas:candidate-vibid:4644035227535": 149,
+      "gas:candidate-vibid:4644035252744": 42,
+      "gas:candidate-vibid:4644035228712": 12,
+      "gas:candidate-vibid:4644035228237": 117,
+      "gas:candidate-vibid:4644035228622": 71,
+      "gas:candidate-vibid:4644035228693": 31,
+      "gas:candidate-vibid:4644035228608": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135249&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135249&type=464",
@@ -5884,15 +5884,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 188,
-      "Грищенко Олег Васильевич": 614,
-      "Ищенко Антон Анатольевич": 163,
-      "Коннычев Дмитрий Викторович": 51,
-      "Ледков Александр Владимирович": 13,
-      "Миронов Павел Васильевич": 127,
-      "Сафьянов Виктор Владимирович": 81,
-      "Фролов Александр Васильевич": 33,
-      "Ханенко Дмитрий Борисович": 74
+      "gas:candidate-vibid:4644035227992": 188,
+      "gas:candidate-vibid:4644035228365": 614,
+      "gas:candidate-vibid:4644035227535": 163,
+      "gas:candidate-vibid:4644035252744": 51,
+      "gas:candidate-vibid:4644035228712": 13,
+      "gas:candidate-vibid:4644035228237": 127,
+      "gas:candidate-vibid:4644035228622": 81,
+      "gas:candidate-vibid:4644035228693": 33,
+      "gas:candidate-vibid:4644035228608": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135249&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135249&type=464",
@@ -5943,15 +5943,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 185,
-      "Грищенко Олег Васильевич": 567,
-      "Ищенко Антон Анатольевич": 161,
-      "Коннычев Дмитрий Викторович": 58,
-      "Ледков Александр Владимирович": 23,
-      "Миронов Павел Васильевич": 129,
-      "Сафьянов Виктор Владимирович": 85,
-      "Фролов Александр Васильевич": 46,
-      "Ханенко Дмитрий Борисович": 78
+      "gas:candidate-vibid:4644035227992": 185,
+      "gas:candidate-vibid:4644035228365": 567,
+      "gas:candidate-vibid:4644035227535": 161,
+      "gas:candidate-vibid:4644035252744": 58,
+      "gas:candidate-vibid:4644035228712": 23,
+      "gas:candidate-vibid:4644035228237": 129,
+      "gas:candidate-vibid:4644035228622": 85,
+      "gas:candidate-vibid:4644035228693": 46,
+      "gas:candidate-vibid:4644035228608": 78
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135249&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135249&type=464",
@@ -6002,15 +6002,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 200,
-      "Грищенко Олег Васильевич": 666,
-      "Ищенко Антон Анатольевич": 177,
-      "Коннычев Дмитрий Викторович": 50,
-      "Ледков Александр Владимирович": 15,
-      "Миронов Павел Васильевич": 139,
-      "Сафьянов Виктор Владимирович": 88,
-      "Фролов Александр Васильевич": 37,
-      "Ханенко Дмитрий Борисович": 80
+      "gas:candidate-vibid:4644035227992": 200,
+      "gas:candidate-vibid:4644035228365": 666,
+      "gas:candidate-vibid:4644035227535": 177,
+      "gas:candidate-vibid:4644035252744": 50,
+      "gas:candidate-vibid:4644035228712": 15,
+      "gas:candidate-vibid:4644035228237": 139,
+      "gas:candidate-vibid:4644035228622": 88,
+      "gas:candidate-vibid:4644035228693": 37,
+      "gas:candidate-vibid:4644035228608": 80
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135249&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135249&type=464",
@@ -6061,15 +6061,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 182,
-      "Грищенко Олег Васильевич": 594,
-      "Ищенко Антон Анатольевич": 157,
-      "Коннычев Дмитрий Викторович": 50,
-      "Ледков Александр Владимирович": 13,
-      "Миронов Павел Васильевич": 124,
-      "Сафьянов Виктор Владимирович": 78,
-      "Фролов Александр Васильевич": 33,
-      "Ханенко Дмитрий Борисович": 72
+      "gas:candidate-vibid:4644035227992": 182,
+      "gas:candidate-vibid:4644035228365": 594,
+      "gas:candidate-vibid:4644035227535": 157,
+      "gas:candidate-vibid:4644035252744": 50,
+      "gas:candidate-vibid:4644035228712": 13,
+      "gas:candidate-vibid:4644035228237": 124,
+      "gas:candidate-vibid:4644035228622": 78,
+      "gas:candidate-vibid:4644035228693": 33,
+      "gas:candidate-vibid:4644035228608": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135249&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135249&type=464",
@@ -6120,15 +6120,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 175,
-      "Грищенко Олег Васильевич": 570,
-      "Ищенко Антон Анатольевич": 151,
-      "Коннычев Дмитрий Викторович": 48,
-      "Ледков Александр Владимирович": 13,
-      "Миронов Павел Васильевич": 119,
-      "Сафьянов Виктор Владимирович": 75,
-      "Фролов Александр Васильевич": 30,
-      "Ханенко Дмитрий Борисович": 69
+      "gas:candidate-vibid:4644035227992": 175,
+      "gas:candidate-vibid:4644035228365": 570,
+      "gas:candidate-vibid:4644035227535": 151,
+      "gas:candidate-vibid:4644035252744": 48,
+      "gas:candidate-vibid:4644035228712": 13,
+      "gas:candidate-vibid:4644035228237": 119,
+      "gas:candidate-vibid:4644035228622": 75,
+      "gas:candidate-vibid:4644035228693": 30,
+      "gas:candidate-vibid:4644035228608": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135249&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135249&type=464",
@@ -6179,15 +6179,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 187,
-      "Грищенко Олег Васильевич": 612,
-      "Ищенко Антон Анатольевич": 162,
-      "Коннычев Дмитрий Викторович": 51,
-      "Ледков Александр Владимирович": 13,
-      "Миронов Павел Васильевич": 127,
-      "Сафьянов Виктор Владимирович": 80,
-      "Фролов Александр Васильевич": 33,
-      "Ханенко Дмитрий Борисович": 74
+      "gas:candidate-vibid:4644035227992": 187,
+      "gas:candidate-vibid:4644035228365": 612,
+      "gas:candidate-vibid:4644035227535": 162,
+      "gas:candidate-vibid:4644035252744": 51,
+      "gas:candidate-vibid:4644035228712": 13,
+      "gas:candidate-vibid:4644035228237": 127,
+      "gas:candidate-vibid:4644035228622": 80,
+      "gas:candidate-vibid:4644035228693": 33,
+      "gas:candidate-vibid:4644035228608": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135249&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135249&type=464",
@@ -6238,15 +6238,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 197,
-      "Грищенко Олег Васильевич": 869,
-      "Ищенко Антон Анатольевич": 164,
-      "Коннычев Дмитрий Викторович": 16,
-      "Ледков Александр Владимирович": 7,
-      "Миронов Павел Васильевич": 86,
-      "Сафьянов Виктор Владимирович": 62,
-      "Фролов Александр Васильевич": 15,
-      "Ханенко Дмитрий Борисович": 10
+      "gas:candidate-vibid:4644035227992": 197,
+      "gas:candidate-vibid:4644035228365": 869,
+      "gas:candidate-vibid:4644035227535": 164,
+      "gas:candidate-vibid:4644035252744": 16,
+      "gas:candidate-vibid:4644035228712": 7,
+      "gas:candidate-vibid:4644035228237": 86,
+      "gas:candidate-vibid:4644035228622": 62,
+      "gas:candidate-vibid:4644035228693": 15,
+      "gas:candidate-vibid:4644035228608": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135249&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135249&type=464",
@@ -6297,15 +6297,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 203,
-      "Грищенко Олег Васильевич": 662,
-      "Ищенко Антон Анатольевич": 176,
-      "Коннычев Дмитрий Викторович": 55,
-      "Ледков Александр Владимирович": 14,
-      "Миронов Павел Васильевич": 138,
-      "Сафьянов Виктор Владимирович": 87,
-      "Фролов Александр Васильевич": 36,
-      "Ханенко Дмитрий Борисович": 80
+      "gas:candidate-vibid:4644035227992": 203,
+      "gas:candidate-vibid:4644035228365": 662,
+      "gas:candidate-vibid:4644035227535": 176,
+      "gas:candidate-vibid:4644035252744": 55,
+      "gas:candidate-vibid:4644035228712": 14,
+      "gas:candidate-vibid:4644035228237": 138,
+      "gas:candidate-vibid:4644035228622": 87,
+      "gas:candidate-vibid:4644035228693": 36,
+      "gas:candidate-vibid:4644035228608": 80
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135249&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135249&type=464",
@@ -6356,15 +6356,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 196,
-      "Грищенко Олег Васильевич": 643,
-      "Ищенко Антон Анатольевич": 170,
-      "Коннычев Дмитрий Викторович": 53,
-      "Ледков Александр Владимирович": 14,
-      "Миронов Павел Васильевич": 133,
-      "Сафьянов Виктор Владимирович": 84,
-      "Фролов Александр Васильевич": 25,
-      "Ханенко Дмитрий Борисович": 77
+      "gas:candidate-vibid:4644035227992": 196,
+      "gas:candidate-vibid:4644035228365": 643,
+      "gas:candidate-vibid:4644035227535": 170,
+      "gas:candidate-vibid:4644035252744": 53,
+      "gas:candidate-vibid:4644035228712": 14,
+      "gas:candidate-vibid:4644035228237": 133,
+      "gas:candidate-vibid:4644035228622": 84,
+      "gas:candidate-vibid:4644035228693": 25,
+      "gas:candidate-vibid:4644035228608": 77
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135249&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135249&type=464",
@@ -6415,15 +6415,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 190,
-      "Грищенко Олег Васильевич": 871,
-      "Ищенко Антон Анатольевич": 164,
-      "Коннычев Дмитрий Викторович": 0,
-      "Ледков Александр Владимирович": 2,
-      "Миронов Павел Васильевич": 129,
-      "Сафьянов Виктор Владимирович": 1,
-      "Фролов Александр Васильевич": 1,
-      "Ханенко Дмитрий Борисович": 0
+      "gas:candidate-vibid:4644035227992": 190,
+      "gas:candidate-vibid:4644035228365": 871,
+      "gas:candidate-vibid:4644035227535": 164,
+      "gas:candidate-vibid:4644035252744": 0,
+      "gas:candidate-vibid:4644035228712": 2,
+      "gas:candidate-vibid:4644035228237": 129,
+      "gas:candidate-vibid:4644035228622": 1,
+      "gas:candidate-vibid:4644035228693": 1,
+      "gas:candidate-vibid:4644035228608": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135249&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135249&type=464",
@@ -6474,15 +6474,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 126,
-      "Грищенко Олег Васильевич": 410,
-      "Ищенко Антон Анатольевич": 109,
-      "Коннычев Дмитрий Викторович": 34,
-      "Ледков Александр Владимирович": 10,
-      "Миронов Павел Васильевич": 85,
-      "Сафьянов Виктор Владимирович": 51,
-      "Фролов Александр Васильевич": 22,
-      "Ханенко Дмитрий Борисович": 49
+      "gas:candidate-vibid:4644035227992": 126,
+      "gas:candidate-vibid:4644035228365": 410,
+      "gas:candidate-vibid:4644035227535": 109,
+      "gas:candidate-vibid:4644035252744": 34,
+      "gas:candidate-vibid:4644035228712": 10,
+      "gas:candidate-vibid:4644035228237": 85,
+      "gas:candidate-vibid:4644035228622": 51,
+      "gas:candidate-vibid:4644035228693": 22,
+      "gas:candidate-vibid:4644035228608": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135249&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135249&type=464",
@@ -6533,15 +6533,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 170,
-      "Грищенко Олег Васильевич": 557,
-      "Ищенко Антон Анатольевич": 148,
-      "Коннычев Дмитрий Викторович": 46,
-      "Ледков Александр Владимирович": 12,
-      "Миронов Павел Васильевич": 116,
-      "Сафьянов Виктор Владимирович": 73,
-      "Фролов Александр Васильевич": 30,
-      "Ханенко Дмитрий Борисович": 66
+      "gas:candidate-vibid:4644035227992": 170,
+      "gas:candidate-vibid:4644035228365": 557,
+      "gas:candidate-vibid:4644035227535": 148,
+      "gas:candidate-vibid:4644035252744": 46,
+      "gas:candidate-vibid:4644035228712": 12,
+      "gas:candidate-vibid:4644035228237": 116,
+      "gas:candidate-vibid:4644035228622": 73,
+      "gas:candidate-vibid:4644035228693": 30,
+      "gas:candidate-vibid:4644035228608": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135249&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135249&type=464",
@@ -6592,15 +6592,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 161,
-      "Грищенко Олег Васильевич": 626,
-      "Ищенко Антон Анатольевич": 139,
-      "Коннычев Дмитрий Викторович": 44,
-      "Ледков Александр Владимирович": 5,
-      "Миронов Павел Васильевич": 109,
-      "Сафьянов Виктор Владимирович": 0,
-      "Фролов Александр Васильевич": 5,
-      "Ханенко Дмитрий Борисович": 63
+      "gas:candidate-vibid:4644035227992": 161,
+      "gas:candidate-vibid:4644035228365": 626,
+      "gas:candidate-vibid:4644035227535": 139,
+      "gas:candidate-vibid:4644035252744": 44,
+      "gas:candidate-vibid:4644035228712": 5,
+      "gas:candidate-vibid:4644035228237": 109,
+      "gas:candidate-vibid:4644035228622": 0,
+      "gas:candidate-vibid:4644035228693": 5,
+      "gas:candidate-vibid:4644035228608": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135249&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135249&type=464",
@@ -6651,15 +6651,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 200,
-      "Грищенко Олег Васильевич": 655,
-      "Ищенко Антон Анатольевич": 172,
-      "Коннычев Дмитрий Викторович": 54,
-      "Ледков Александр Владимирович": 14,
-      "Миронов Павел Васильевич": 135,
-      "Сафьянов Виктор Владимирович": 85,
-      "Фролов Александр Васильевич": 35,
-      "Ханенко Дмитрий Борисович": 77
+      "gas:candidate-vibid:4644035227992": 200,
+      "gas:candidate-vibid:4644035228365": 655,
+      "gas:candidate-vibid:4644035227535": 172,
+      "gas:candidate-vibid:4644035252744": 54,
+      "gas:candidate-vibid:4644035228712": 14,
+      "gas:candidate-vibid:4644035228237": 135,
+      "gas:candidate-vibid:4644035228622": 85,
+      "gas:candidate-vibid:4644035228693": 35,
+      "gas:candidate-vibid:4644035228608": 77
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135249&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135249&type=464",
@@ -6710,15 +6710,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 108,
-      "Грищенко Олег Васильевич": 987,
-      "Ищенко Антон Анатольевич": 102,
-      "Коннычев Дмитрий Викторович": 26,
-      "Ледков Александр Владимирович": 19,
-      "Миронов Павел Васильевич": 91,
-      "Сафьянов Виктор Владимирович": 36,
-      "Фролов Александр Васильевич": 19,
-      "Ханенко Дмитрий Борисович": 68
+      "gas:candidate-vibid:4644035227992": 108,
+      "gas:candidate-vibid:4644035228365": 987,
+      "gas:candidate-vibid:4644035227535": 102,
+      "gas:candidate-vibid:4644035252744": 26,
+      "gas:candidate-vibid:4644035228712": 19,
+      "gas:candidate-vibid:4644035228237": 91,
+      "gas:candidate-vibid:4644035228622": 36,
+      "gas:candidate-vibid:4644035228693": 19,
+      "gas:candidate-vibid:4644035228608": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135249&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135249&type=464",
@@ -6769,15 +6769,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 208,
-      "Грищенко Олег Васильевич": 677,
-      "Ищенко Антон Анатольевич": 180,
-      "Коннычев Дмитрий Викторович": 140,
-      "Ледков Александр Владимирович": 56,
-      "Миронов Павел Васильевич": 82,
-      "Сафьянов Виктор Владимирович": 37,
-      "Фролов Александр Васильевич": 15,
-      "Ханенко Дмитрий Борисович": 89
+      "gas:candidate-vibid:4644035227992": 208,
+      "gas:candidate-vibid:4644035228365": 677,
+      "gas:candidate-vibid:4644035227535": 180,
+      "gas:candidate-vibid:4644035252744": 140,
+      "gas:candidate-vibid:4644035228712": 56,
+      "gas:candidate-vibid:4644035228237": 82,
+      "gas:candidate-vibid:4644035228622": 37,
+      "gas:candidate-vibid:4644035228693": 15,
+      "gas:candidate-vibid:4644035228608": 89
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135249&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135249&type=464",
@@ -6828,15 +6828,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 174,
-      "Грищенко Олег Васильевич": 568,
-      "Ищенко Антон Анатольевич": 151,
-      "Коннычев Дмитрий Викторович": 47,
-      "Ледков Александр Владимирович": 13,
-      "Миронов Павел Васильевич": 118,
-      "Сафьянов Виктор Владимирович": 75,
-      "Фролов Александр Васильевич": 31,
-      "Ханенко Дмитрий Борисович": 68
+      "gas:candidate-vibid:4644035227992": 174,
+      "gas:candidate-vibid:4644035228365": 568,
+      "gas:candidate-vibid:4644035227535": 151,
+      "gas:candidate-vibid:4644035252744": 47,
+      "gas:candidate-vibid:4644035228712": 13,
+      "gas:candidate-vibid:4644035228237": 118,
+      "gas:candidate-vibid:4644035228622": 75,
+      "gas:candidate-vibid:4644035228693": 31,
+      "gas:candidate-vibid:4644035228608": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135249&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135249&type=464",
@@ -6887,15 +6887,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 215,
-      "Грищенко Олег Васильевич": 862,
-      "Ищенко Антон Анатольевич": 185,
-      "Коннычев Дмитрий Викторович": 57,
-      "Ледков Александр Владимирович": 0,
-      "Миронов Павел Васильевич": 146,
-      "Сафьянов Виктор Владимирович": 0,
-      "Фролов Александр Васильевич": 0,
-      "Ханенко Дмитрий Борисович": 83
+      "gas:candidate-vibid:4644035227992": 215,
+      "gas:candidate-vibid:4644035228365": 862,
+      "gas:candidate-vibid:4644035227535": 185,
+      "gas:candidate-vibid:4644035252744": 57,
+      "gas:candidate-vibid:4644035228712": 0,
+      "gas:candidate-vibid:4644035228237": 146,
+      "gas:candidate-vibid:4644035228622": 0,
+      "gas:candidate-vibid:4644035228693": 0,
+      "gas:candidate-vibid:4644035228608": 83
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135249&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135249&type=464",
@@ -6946,15 +6946,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 178,
-      "Грищенко Олег Васильевич": 581,
-      "Ищенко Антон Анатольевич": 154,
-      "Коннычев Дмитрий Викторович": 48,
-      "Ледков Александр Владимирович": 13,
-      "Миронов Павел Васильевич": 121,
-      "Сафьянов Виктор Владимирович": 77,
-      "Фролов Александр Васильевич": 32,
-      "Ханенко Дмитрий Борисович": 70
+      "gas:candidate-vibid:4644035227992": 178,
+      "gas:candidate-vibid:4644035228365": 581,
+      "gas:candidate-vibid:4644035227535": 154,
+      "gas:candidate-vibid:4644035252744": 48,
+      "gas:candidate-vibid:4644035228712": 13,
+      "gas:candidate-vibid:4644035228237": 121,
+      "gas:candidate-vibid:4644035228622": 77,
+      "gas:candidate-vibid:4644035228693": 32,
+      "gas:candidate-vibid:4644035228608": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135249&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135249&type=464",
@@ -7005,15 +7005,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 133,
-      "Грищенко Олег Васильевич": 433,
-      "Ищенко Антон Анатольевич": 115,
-      "Коннычев Дмитрий Викторович": 36,
-      "Ледков Александр Владимирович": 9,
-      "Миронов Павел Васильевич": 90,
-      "Сафьянов Виктор Владимирович": 57,
-      "Фролов Александр Васильевич": 24,
-      "Ханенко Дмитрий Борисович": 52
+      "gas:candidate-vibid:4644035227992": 133,
+      "gas:candidate-vibid:4644035228365": 433,
+      "gas:candidate-vibid:4644035227535": 115,
+      "gas:candidate-vibid:4644035252744": 36,
+      "gas:candidate-vibid:4644035228712": 9,
+      "gas:candidate-vibid:4644035228237": 90,
+      "gas:candidate-vibid:4644035228622": 57,
+      "gas:candidate-vibid:4644035228693": 24,
+      "gas:candidate-vibid:4644035228608": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135249&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135249&type=464",
@@ -7064,15 +7064,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 181,
-      "Грищенко Олег Васильевич": 716,
-      "Ищенко Антон Анатольевич": 157,
-      "Коннычев Дмитрий Викторович": 49,
-      "Ледков Александр Владимирович": 0,
-      "Миронов Павел Васильевич": 123,
-      "Сафьянов Виктор Владимирович": 0,
-      "Фролов Александр Васильевич": 0,
-      "Ханенко Дмитрий Борисович": 71
+      "gas:candidate-vibid:4644035227992": 181,
+      "gas:candidate-vibid:4644035228365": 716,
+      "gas:candidate-vibid:4644035227535": 157,
+      "gas:candidate-vibid:4644035252744": 49,
+      "gas:candidate-vibid:4644035228712": 0,
+      "gas:candidate-vibid:4644035228237": 123,
+      "gas:candidate-vibid:4644035228622": 0,
+      "gas:candidate-vibid:4644035228693": 0,
+      "gas:candidate-vibid:4644035228608": 71
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135249&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135249&type=464",
@@ -7123,15 +7123,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 194,
-      "Грищенко Олег Васильевич": 794,
-      "Ищенко Антон Анатольевич": 130,
-      "Коннычев Дмитрий Викторович": 10,
-      "Ледков Александр Владимирович": 7,
-      "Миронов Павел Васильевич": 128,
-      "Сафьянов Виктор Владимирович": 26,
-      "Фролов Александр Васильевич": 5,
-      "Ханенко Дмитрий Борисович": 7
+      "gas:candidate-vibid:4644035227992": 194,
+      "gas:candidate-vibid:4644035228365": 794,
+      "gas:candidate-vibid:4644035227535": 130,
+      "gas:candidate-vibid:4644035252744": 10,
+      "gas:candidate-vibid:4644035228712": 7,
+      "gas:candidate-vibid:4644035228237": 128,
+      "gas:candidate-vibid:4644035228622": 26,
+      "gas:candidate-vibid:4644035228693": 5,
+      "gas:candidate-vibid:4644035228608": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135249&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135249&type=464",
@@ -7182,15 +7182,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 116,
-      "Грищенко Олег Васильевич": 436,
-      "Ищенко Антон Анатольевич": 115,
-      "Коннычев Дмитрий Викторович": 45,
-      "Ледков Александр Владимирович": 15,
-      "Миронов Павел Васильевич": 104,
-      "Сафьянов Виктор Владимирович": 50,
-      "Фролов Александр Васильевич": 38,
-      "Ханенко Дмитрий Борисович": 63
+      "gas:candidate-vibid:4644035227992": 116,
+      "gas:candidate-vibid:4644035228365": 436,
+      "gas:candidate-vibid:4644035227535": 115,
+      "gas:candidate-vibid:4644035252744": 45,
+      "gas:candidate-vibid:4644035228712": 15,
+      "gas:candidate-vibid:4644035228237": 104,
+      "gas:candidate-vibid:4644035228622": 50,
+      "gas:candidate-vibid:4644035228693": 38,
+      "gas:candidate-vibid:4644035228608": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135249&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135249&type=464",
@@ -7241,15 +7241,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 129,
-      "Грищенко Олег Васильевич": 421,
-      "Ищенко Антон Анатольевич": 112,
-      "Коннычев Дмитрий Викторович": 35,
-      "Ледков Александр Владимирович": 9,
-      "Миронов Павел Васильевич": 88,
-      "Сафьянов Виктор Владимирович": 55,
-      "Фролов Александр Васильевич": 23,
-      "Ханенко Дмитрий Борисович": 51
+      "gas:candidate-vibid:4644035227992": 129,
+      "gas:candidate-vibid:4644035228365": 421,
+      "gas:candidate-vibid:4644035227535": 112,
+      "gas:candidate-vibid:4644035252744": 35,
+      "gas:candidate-vibid:4644035228712": 9,
+      "gas:candidate-vibid:4644035228237": 88,
+      "gas:candidate-vibid:4644035228622": 55,
+      "gas:candidate-vibid:4644035228693": 23,
+      "gas:candidate-vibid:4644035228608": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135249&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135249&type=464",
@@ -7300,15 +7300,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 134,
-      "Грищенко Олег Васильевич": 468,
-      "Ищенко Антон Анатольевич": 116,
-      "Коннычев Дмитрий Викторович": 91,
-      "Ледков Александр Владимирович": 36,
-      "Миронов Павел Васильевич": 53,
-      "Сафьянов Виктор Владимирович": 24,
-      "Фролов Александр Васильевич": 9,
-      "Ханенко Дмитрий Борисович": 57
+      "gas:candidate-vibid:4644035227992": 134,
+      "gas:candidate-vibid:4644035228365": 468,
+      "gas:candidate-vibid:4644035227535": 116,
+      "gas:candidate-vibid:4644035252744": 91,
+      "gas:candidate-vibid:4644035228712": 36,
+      "gas:candidate-vibid:4644035228237": 53,
+      "gas:candidate-vibid:4644035228622": 24,
+      "gas:candidate-vibid:4644035228693": 9,
+      "gas:candidate-vibid:4644035228608": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135249&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135249&type=464",
@@ -7359,15 +7359,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 138,
-      "Грищенко Олег Васильевич": 450,
-      "Ищенко Антон Анатольевич": 119,
-      "Коннычев Дмитрий Викторович": 37,
-      "Ледков Александр Владимирович": 10,
-      "Миронов Павел Васильевич": 94,
-      "Сафьянов Виктор Владимирович": 59,
-      "Фролов Александр Васильевич": 25,
-      "Ханенко Дмитрий Борисович": 54
+      "gas:candidate-vibid:4644035227992": 138,
+      "gas:candidate-vibid:4644035228365": 450,
+      "gas:candidate-vibid:4644035227535": 119,
+      "gas:candidate-vibid:4644035252744": 37,
+      "gas:candidate-vibid:4644035228712": 10,
+      "gas:candidate-vibid:4644035228237": 94,
+      "gas:candidate-vibid:4644035228622": 59,
+      "gas:candidate-vibid:4644035228693": 25,
+      "gas:candidate-vibid:4644035228608": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135249&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135249&type=464",
@@ -7418,15 +7418,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 131,
-      "Грищенко Олег Васильевич": 425,
-      "Ищенко Антон Анатольевич": 113,
-      "Коннычев Дмитрий Викторович": 89,
-      "Ледков Александр Владимирович": 35,
-      "Миронов Павел Васильевич": 51,
-      "Сафьянов Виктор Владимирович": 23,
-      "Фролов Александр Васильевич": 9,
-      "Ханенко Дмитрий Борисович": 56
+      "gas:candidate-vibid:4644035227992": 131,
+      "gas:candidate-vibid:4644035228365": 425,
+      "gas:candidate-vibid:4644035227535": 113,
+      "gas:candidate-vibid:4644035252744": 89,
+      "gas:candidate-vibid:4644035228712": 35,
+      "gas:candidate-vibid:4644035228237": 51,
+      "gas:candidate-vibid:4644035228622": 23,
+      "gas:candidate-vibid:4644035228693": 9,
+      "gas:candidate-vibid:4644035228608": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135249&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135249&type=464",
@@ -7477,15 +7477,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 177,
-      "Грищенко Олег Васильевич": 580,
-      "Ищенко Антон Анатольевич": 154,
-      "Коннычев Дмитрий Викторович": 48,
-      "Ледков Александр Владимирович": 13,
-      "Миронов Павел Васильевич": 121,
-      "Сафьянов Виктор Владимирович": 76,
-      "Фролов Александр Васильевич": 32,
-      "Ханенко Дмитрий Борисович": 70
+      "gas:candidate-vibid:4644035227992": 177,
+      "gas:candidate-vibid:4644035228365": 580,
+      "gas:candidate-vibid:4644035227535": 154,
+      "gas:candidate-vibid:4644035252744": 48,
+      "gas:candidate-vibid:4644035228712": 13,
+      "gas:candidate-vibid:4644035228237": 121,
+      "gas:candidate-vibid:4644035228622": 76,
+      "gas:candidate-vibid:4644035228693": 32,
+      "gas:candidate-vibid:4644035228608": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135249&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135249&type=464",
@@ -7536,15 +7536,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 217,
-      "Грищенко Олег Васильевич": 706,
-      "Ищенко Антон Анатольевич": 177,
-      "Коннычев Дмитрий Викторович": 147,
-      "Ледков Александр Владимирович": 15,
-      "Миронов Павел Васильевич": 147,
-      "Сафьянов Виктор Владимирович": 93,
-      "Фролов Александр Васильевич": 39,
-      "Ханенко Дмитрий Борисович": 14
+      "gas:candidate-vibid:4644035227992": 217,
+      "gas:candidate-vibid:4644035228365": 706,
+      "gas:candidate-vibid:4644035227535": 177,
+      "gas:candidate-vibid:4644035252744": 147,
+      "gas:candidate-vibid:4644035228712": 15,
+      "gas:candidate-vibid:4644035228237": 147,
+      "gas:candidate-vibid:4644035228622": 93,
+      "gas:candidate-vibid:4644035228693": 39,
+      "gas:candidate-vibid:4644035228608": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135249&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135249&type=464",
@@ -7595,15 +7595,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 197,
-      "Грищенко Олег Васильевич": 643,
-      "Ищенко Антон Анатольевич": 171,
-      "Коннычев Дмитрий Викторович": 53,
-      "Ледков Александр Владимирович": 14,
-      "Миронов Павел Васильевич": 134,
-      "Сафьянов Виктор Владимирович": 85,
-      "Фролов Александр Васильевич": 35,
-      "Ханенко Дмитрий Борисович": 78
+      "gas:candidate-vibid:4644035227992": 197,
+      "gas:candidate-vibid:4644035228365": 643,
+      "gas:candidate-vibid:4644035227535": 171,
+      "gas:candidate-vibid:4644035252744": 53,
+      "gas:candidate-vibid:4644035228712": 14,
+      "gas:candidate-vibid:4644035228237": 134,
+      "gas:candidate-vibid:4644035228622": 85,
+      "gas:candidate-vibid:4644035228693": 35,
+      "gas:candidate-vibid:4644035228608": 78
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135249&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135249&type=464",
@@ -7654,15 +7654,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 131,
-      "Грищенко Олег Васильевич": 427,
-      "Ищенко Антон Анатольевич": 113,
-      "Коннычев Дмитрий Викторович": 36,
-      "Ледков Александр Владимирович": 9,
-      "Миронов Павел Васильевич": 89,
-      "Сафьянов Виктор Владимирович": 56,
-      "Фролов Александр Васильевич": 24,
-      "Ханенко Дмитрий Борисович": 51
+      "gas:candidate-vibid:4644035227992": 131,
+      "gas:candidate-vibid:4644035228365": 427,
+      "gas:candidate-vibid:4644035227535": 113,
+      "gas:candidate-vibid:4644035252744": 36,
+      "gas:candidate-vibid:4644035228712": 9,
+      "gas:candidate-vibid:4644035228237": 89,
+      "gas:candidate-vibid:4644035228622": 56,
+      "gas:candidate-vibid:4644035228693": 24,
+      "gas:candidate-vibid:4644035228608": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135249&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135249&type=464",
@@ -7713,15 +7713,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 144,
-      "Грищенко Олег Васильевич": 468,
-      "Ищенко Антон Анатольевич": 124,
-      "Коннычев Дмитрий Викторович": 39,
-      "Ледков Александр Владимирович": 10,
-      "Миронов Павел Васильевич": 98,
-      "Сафьянов Виктор Владимирович": 62,
-      "Фролов Александр Васильевич": 26,
-      "Ханенко Дмитрий Борисович": 57
+      "gas:candidate-vibid:4644035227992": 144,
+      "gas:candidate-vibid:4644035228365": 468,
+      "gas:candidate-vibid:4644035227535": 124,
+      "gas:candidate-vibid:4644035252744": 39,
+      "gas:candidate-vibid:4644035228712": 10,
+      "gas:candidate-vibid:4644035228237": 98,
+      "gas:candidate-vibid:4644035228622": 62,
+      "gas:candidate-vibid:4644035228693": 26,
+      "gas:candidate-vibid:4644035228608": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135249&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135249&type=464",
@@ -7772,15 +7772,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 106,
-      "Грищенко Олег Васильевич": 511,
-      "Ищенко Антон Анатольевич": 97,
-      "Коннычев Дмитрий Викторович": 58,
-      "Ледков Александр Владимирович": 50,
-      "Миронов Павел Васильевич": 137,
-      "Сафьянов Виктор Владимирович": 64,
-      "Фролов Александр Васильевич": 60,
-      "Ханенко Дмитрий Борисович": 52
+      "gas:candidate-vibid:4644035227992": 106,
+      "gas:candidate-vibid:4644035228365": 511,
+      "gas:candidate-vibid:4644035227535": 97,
+      "gas:candidate-vibid:4644035252744": 58,
+      "gas:candidate-vibid:4644035228712": 50,
+      "gas:candidate-vibid:4644035228237": 137,
+      "gas:candidate-vibid:4644035228622": 64,
+      "gas:candidate-vibid:4644035228693": 60,
+      "gas:candidate-vibid:4644035228608": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135249&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135249&type=464",
@@ -7831,15 +7831,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 26,
-      "Грищенко Олег Васильевич": 85,
-      "Ищенко Антон Анатольевич": 23,
-      "Коннычев Дмитрий Викторович": 7,
-      "Ледков Александр Владимирович": 2,
-      "Миронов Павел Васильевич": 18,
-      "Сафьянов Виктор Владимирович": 11,
-      "Фролов Александр Васильевич": 4,
-      "Ханенко Дмитрий Борисович": 10
+      "gas:candidate-vibid:4644035227992": 26,
+      "gas:candidate-vibid:4644035228365": 85,
+      "gas:candidate-vibid:4644035227535": 23,
+      "gas:candidate-vibid:4644035252744": 7,
+      "gas:candidate-vibid:4644035228712": 2,
+      "gas:candidate-vibid:4644035228237": 18,
+      "gas:candidate-vibid:4644035228622": 11,
+      "gas:candidate-vibid:4644035228693": 4,
+      "gas:candidate-vibid:4644035228608": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135249&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135249&type=464",
@@ -7890,15 +7890,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 197,
-      "Грищенко Олег Васильевич": 643,
-      "Ищенко Антон Анатольевич": 170,
-      "Коннычев Дмитрий Викторович": 54,
-      "Ледков Александр Владимирович": 14,
-      "Миронов Павел Васильевич": 134,
-      "Сафьянов Виктор Владимирович": 84,
-      "Фролов Александр Васильевич": 35,
-      "Ханенко Дмитрий Борисович": 77
+      "gas:candidate-vibid:4644035227992": 197,
+      "gas:candidate-vibid:4644035228365": 643,
+      "gas:candidate-vibid:4644035227535": 170,
+      "gas:candidate-vibid:4644035252744": 54,
+      "gas:candidate-vibid:4644035228712": 14,
+      "gas:candidate-vibid:4644035228237": 134,
+      "gas:candidate-vibid:4644035228622": 84,
+      "gas:candidate-vibid:4644035228693": 35,
+      "gas:candidate-vibid:4644035228608": 77
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135249&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135249&type=464",
@@ -7949,15 +7949,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 215,
-      "Грищенко Олег Васильевич": 699,
-      "Ищенко Антон Анатольевич": 186,
-      "Коннычев Дмитрий Викторович": 58,
-      "Ледков Александр Владимирович": 16,
-      "Миронов Павел Васильевич": 146,
-      "Сафьянов Виктор Владимирович": 92,
-      "Фролов Александр Васильевич": 38,
-      "Ханенко Дмитрий Борисович": 84
+      "gas:candidate-vibid:4644035227992": 215,
+      "gas:candidate-vibid:4644035228365": 699,
+      "gas:candidate-vibid:4644035227535": 186,
+      "gas:candidate-vibid:4644035252744": 58,
+      "gas:candidate-vibid:4644035228712": 16,
+      "gas:candidate-vibid:4644035228237": 146,
+      "gas:candidate-vibid:4644035228622": 92,
+      "gas:candidate-vibid:4644035228693": 38,
+      "gas:candidate-vibid:4644035228608": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135249&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135249&type=464",
@@ -8008,15 +8008,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 203,
-      "Грищенко Олег Васильевич": 657,
-      "Ищенко Антон Анатольевич": 175,
-      "Коннычев Дмитрий Викторович": 55,
-      "Ледков Александр Владимирович": 17,
-      "Миронов Павел Васильевич": 140,
-      "Сафьянов Виктор Владимирович": 87,
-      "Фролов Александр Васильевич": 36,
-      "Ханенко Дмитрий Борисович": 80
+      "gas:candidate-vibid:4644035227992": 203,
+      "gas:candidate-vibid:4644035228365": 657,
+      "gas:candidate-vibid:4644035227535": 175,
+      "gas:candidate-vibid:4644035252744": 55,
+      "gas:candidate-vibid:4644035228712": 17,
+      "gas:candidate-vibid:4644035228237": 140,
+      "gas:candidate-vibid:4644035228622": 87,
+      "gas:candidate-vibid:4644035228693": 36,
+      "gas:candidate-vibid:4644035228608": 80
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135249&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135249&type=464",
@@ -8067,15 +8067,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 180,
-      "Грищенко Олег Васильевич": 588,
-      "Ищенко Антон Анатольевич": 156,
-      "Коннычев Дмитрий Викторович": 43,
-      "Ледков Александр Владимирович": 4,
-      "Миронов Павел Васильевич": 123,
-      "Сафьянов Виктор Владимирович": 78,
-      "Фролов Александр Васильевич": 30,
-      "Ханенко Дмитрий Борисович": 70
+      "gas:candidate-vibid:4644035227992": 180,
+      "gas:candidate-vibid:4644035228365": 588,
+      "gas:candidate-vibid:4644035227535": 156,
+      "gas:candidate-vibid:4644035252744": 43,
+      "gas:candidate-vibid:4644035228712": 4,
+      "gas:candidate-vibid:4644035228237": 123,
+      "gas:candidate-vibid:4644035228622": 78,
+      "gas:candidate-vibid:4644035228693": 30,
+      "gas:candidate-vibid:4644035228608": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135249&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135249&type=464",
@@ -8126,15 +8126,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 145,
-      "Грищенко Олег Васильевич": 474,
-      "Ищенко Антон Анатольевич": 125,
-      "Коннычев Дмитрий Викторович": 39,
-      "Ледков Александр Владимирович": 12,
-      "Миронов Павел Васильевич": 98,
-      "Сафьянов Виктор Владимирович": 65,
-      "Фролов Александр Васильевич": 26,
-      "Ханенко Дмитрий Борисович": 57
+      "gas:candidate-vibid:4644035227992": 145,
+      "gas:candidate-vibid:4644035228365": 474,
+      "gas:candidate-vibid:4644035227535": 125,
+      "gas:candidate-vibid:4644035252744": 39,
+      "gas:candidate-vibid:4644035228712": 12,
+      "gas:candidate-vibid:4644035228237": 98,
+      "gas:candidate-vibid:4644035228622": 65,
+      "gas:candidate-vibid:4644035228693": 26,
+      "gas:candidate-vibid:4644035228608": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135249&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135249&type=464",
@@ -8185,15 +8185,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 26,
-      "Грищенко Олег Васильевич": 178,
-      "Ищенко Антон Анатольевич": 35,
-      "Коннычев Дмитрий Викторович": 22,
-      "Ледков Александр Владимирович": 5,
-      "Миронов Павел Васильевич": 5,
-      "Сафьянов Виктор Владимирович": 5,
-      "Фролов Александр Васильевич": 7,
-      "Ханенко Дмитрий Борисович": 13
+      "gas:candidate-vibid:4644035227992": 26,
+      "gas:candidate-vibid:4644035228365": 178,
+      "gas:candidate-vibid:4644035227535": 35,
+      "gas:candidate-vibid:4644035252744": 22,
+      "gas:candidate-vibid:4644035228712": 5,
+      "gas:candidate-vibid:4644035228237": 5,
+      "gas:candidate-vibid:4644035228622": 5,
+      "gas:candidate-vibid:4644035228693": 7,
+      "gas:candidate-vibid:4644035228608": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135249&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135249&type=464",
@@ -8244,15 +8244,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 172,
-      "Грищенко Олег Васильевич": 566,
-      "Ищенко Антон Анатольевич": 151,
-      "Коннычев Дмитрий Викторович": 47,
-      "Ледков Александр Владимирович": 12,
-      "Миронов Павел Васильевич": 118,
-      "Сафьянов Виктор Владимирович": 75,
-      "Фролов Александр Васильевич": 32,
-      "Ханенко Дмитрий Борисович": 69
+      "gas:candidate-vibid:4644035227992": 172,
+      "gas:candidate-vibid:4644035228365": 566,
+      "gas:candidate-vibid:4644035227535": 151,
+      "gas:candidate-vibid:4644035252744": 47,
+      "gas:candidate-vibid:4644035228712": 12,
+      "gas:candidate-vibid:4644035228237": 118,
+      "gas:candidate-vibid:4644035228622": 75,
+      "gas:candidate-vibid:4644035228693": 32,
+      "gas:candidate-vibid:4644035228608": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135249&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135249&type=464",
@@ -8303,15 +8303,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 174,
-      "Грищенко Олег Васильевич": 568,
-      "Ищенко Антон Анатольевич": 151,
-      "Коннычев Дмитрий Викторович": 46,
-      "Ледков Александр Владимирович": 12,
-      "Миронов Павел Васильевич": 117,
-      "Сафьянов Виктор Владимирович": 74,
-      "Фролов Александр Васильевич": 30,
-      "Ханенко Дмитрий Борисович": 68
+      "gas:candidate-vibid:4644035227992": 174,
+      "gas:candidate-vibid:4644035228365": 568,
+      "gas:candidate-vibid:4644035227535": 151,
+      "gas:candidate-vibid:4644035252744": 46,
+      "gas:candidate-vibid:4644035228712": 12,
+      "gas:candidate-vibid:4644035228237": 117,
+      "gas:candidate-vibid:4644035228622": 74,
+      "gas:candidate-vibid:4644035228693": 30,
+      "gas:candidate-vibid:4644035228608": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135249&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135249&type=464",
@@ -8362,15 +8362,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 133,
-      "Грищенко Олег Васильевич": 434,
-      "Ищенко Антон Анатольевич": 115,
-      "Коннычев Дмитрий Викторович": 36,
-      "Ледков Александр Владимирович": 10,
-      "Миронов Павел Васильевич": 90,
-      "Сафьянов Виктор Владимирович": 57,
-      "Фролов Александр Васильевич": 24,
-      "Ханенко Дмитрий Борисович": 52
+      "gas:candidate-vibid:4644035227992": 133,
+      "gas:candidate-vibid:4644035228365": 434,
+      "gas:candidate-vibid:4644035227535": 115,
+      "gas:candidate-vibid:4644035252744": 36,
+      "gas:candidate-vibid:4644035228712": 10,
+      "gas:candidate-vibid:4644035228237": 90,
+      "gas:candidate-vibid:4644035228622": 57,
+      "gas:candidate-vibid:4644035228693": 24,
+      "gas:candidate-vibid:4644035228608": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135249&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135249&type=464",
@@ -8421,15 +8421,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 186,
-      "Грищенко Олег Васильевич": 609,
-      "Ищенко Антон Анатольевич": 161,
-      "Коннычев Дмитрий Викторович": 51,
-      "Ледков Александр Владимирович": 13,
-      "Миронов Павел Васильевич": 127,
-      "Сафьянов Виктор Владимирович": 80,
-      "Фролов Александр Васильевич": 33,
-      "Ханенко Дмитрий Борисович": 74
+      "gas:candidate-vibid:4644035227992": 186,
+      "gas:candidate-vibid:4644035228365": 609,
+      "gas:candidate-vibid:4644035227535": 161,
+      "gas:candidate-vibid:4644035252744": 51,
+      "gas:candidate-vibid:4644035228712": 13,
+      "gas:candidate-vibid:4644035228237": 127,
+      "gas:candidate-vibid:4644035228622": 80,
+      "gas:candidate-vibid:4644035228693": 33,
+      "gas:candidate-vibid:4644035228608": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135249&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135249&type=464",
@@ -8480,15 +8480,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 163,
-      "Грищенко Олег Васильевич": 530,
-      "Ищенко Антон Анатольевич": 141,
-      "Коннычев Дмитрий Викторович": 44,
-      "Ледков Александр Владимирович": 12,
-      "Миронов Павел Васильевич": 110,
-      "Сафьянов Виктор Владимирович": 70,
-      "Фролов Александр Васильевич": 29,
-      "Ханенко Дмитрий Борисович": 64
+      "gas:candidate-vibid:4644035227992": 163,
+      "gas:candidate-vibid:4644035228365": 530,
+      "gas:candidate-vibid:4644035227535": 141,
+      "gas:candidate-vibid:4644035252744": 44,
+      "gas:candidate-vibid:4644035228712": 12,
+      "gas:candidate-vibid:4644035228237": 110,
+      "gas:candidate-vibid:4644035228622": 70,
+      "gas:candidate-vibid:4644035228693": 29,
+      "gas:candidate-vibid:4644035228608": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135249&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135249&type=464",
@@ -8539,15 +8539,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 144,
-      "Грищенко Олег Васильевич": 430,
-      "Ищенко Антон Анатольевич": 119,
-      "Коннычев Дмитрий Викторович": 28,
-      "Ледков Александр Владимирович": 14,
-      "Миронов Павел Васильевич": 86,
-      "Сафьянов Виктор Владимирович": 58,
-      "Фролов Александр Васильевич": 23,
-      "Ханенко Дмитрий Борисович": 52
+      "gas:candidate-vibid:4644035227992": 144,
+      "gas:candidate-vibid:4644035228365": 430,
+      "gas:candidate-vibid:4644035227535": 119,
+      "gas:candidate-vibid:4644035252744": 28,
+      "gas:candidate-vibid:4644035228712": 14,
+      "gas:candidate-vibid:4644035228237": 86,
+      "gas:candidate-vibid:4644035228622": 58,
+      "gas:candidate-vibid:4644035228693": 23,
+      "gas:candidate-vibid:4644035228608": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135249&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135249&type=464",
@@ -8598,15 +8598,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 187,
-      "Грищенко Олег Васильевич": 622,
-      "Ищенко Антон Анатольевич": 161,
-      "Коннычев Дмитрий Викторович": 51,
-      "Ледков Александр Владимирович": 13,
-      "Миронов Павел Васильевич": 127,
-      "Сафьянов Виктор Владимирович": 80,
-      "Фролов Александр Васильевич": 33,
-      "Ханенко Дмитрий Борисович": 73
+      "gas:candidate-vibid:4644035227992": 187,
+      "gas:candidate-vibid:4644035228365": 622,
+      "gas:candidate-vibid:4644035227535": 161,
+      "gas:candidate-vibid:4644035252744": 51,
+      "gas:candidate-vibid:4644035228712": 13,
+      "gas:candidate-vibid:4644035228237": 127,
+      "gas:candidate-vibid:4644035228622": 80,
+      "gas:candidate-vibid:4644035228693": 33,
+      "gas:candidate-vibid:4644035228608": 73
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135249&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135249&type=464",
@@ -8657,15 +8657,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 178,
-      "Грищенко Олег Васильевич": 667,
-      "Ищенко Антон Анатольевич": 68,
-      "Коннычев Дмитрий Викторович": 24,
-      "Ледков Александр Владимирович": 5,
-      "Миронов Павел Васильевич": 272,
-      "Сафьянов Виктор Владимирович": 12,
-      "Фролов Александр Васильевич": 17,
-      "Ханенко Дмитрий Борисович": 14
+      "gas:candidate-vibid:4644035227992": 178,
+      "gas:candidate-vibid:4644035228365": 667,
+      "gas:candidate-vibid:4644035227535": 68,
+      "gas:candidate-vibid:4644035252744": 24,
+      "gas:candidate-vibid:4644035228712": 5,
+      "gas:candidate-vibid:4644035228237": 272,
+      "gas:candidate-vibid:4644035228622": 12,
+      "gas:candidate-vibid:4644035228693": 17,
+      "gas:candidate-vibid:4644035228608": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135249&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135249&type=464",
@@ -8716,15 +8716,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 184,
-      "Грищенко Олег Васильевич": 599,
-      "Ищенко Антон Анатольевич": 159,
-      "Коннычев Дмитрий Викторович": 50,
-      "Ледков Александр Владимирович": 13,
-      "Миронов Павел Васильевич": 125,
-      "Сафьянов Виктор Владимирович": 79,
-      "Фролов Александр Васильевич": 33,
-      "Ханенко Дмитрий Борисович": 72
+      "gas:candidate-vibid:4644035227992": 184,
+      "gas:candidate-vibid:4644035228365": 599,
+      "gas:candidate-vibid:4644035227535": 159,
+      "gas:candidate-vibid:4644035252744": 50,
+      "gas:candidate-vibid:4644035228712": 13,
+      "gas:candidate-vibid:4644035228237": 125,
+      "gas:candidate-vibid:4644035228622": 79,
+      "gas:candidate-vibid:4644035228693": 33,
+      "gas:candidate-vibid:4644035228608": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135249&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135249&type=464",
@@ -8775,15 +8775,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 170,
-      "Грищенко Олег Васильевич": 552,
-      "Ищенко Антон Анатольевич": 147,
-      "Коннычев Дмитрий Викторович": 46,
-      "Ледков Александр Владимирович": 12,
-      "Миронов Павел Васильевич": 104,
-      "Сафьянов Виктор Владимирович": 73,
-      "Фролов Александр Васильевич": 30,
-      "Ханенко Дмитрий Борисович": 67
+      "gas:candidate-vibid:4644035227992": 170,
+      "gas:candidate-vibid:4644035228365": 552,
+      "gas:candidate-vibid:4644035227535": 147,
+      "gas:candidate-vibid:4644035252744": 46,
+      "gas:candidate-vibid:4644035228712": 12,
+      "gas:candidate-vibid:4644035228237": 104,
+      "gas:candidate-vibid:4644035228622": 73,
+      "gas:candidate-vibid:4644035228693": 30,
+      "gas:candidate-vibid:4644035228608": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135249&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135249&type=464",
@@ -8834,15 +8834,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 168,
-      "Грищенко Олег Васильевич": 592,
-      "Ищенко Антон Анатольевич": 145,
-      "Коннычев Дмитрий Викторович": 46,
-      "Ледков Александр Владимирович": 12,
-      "Миронов Павел Васильевич": 114,
-      "Сафьянов Виктор Владимирович": 72,
-      "Фролов Александр Васильевич": 30,
-      "Ханенко Дмитрий Борисович": 66
+      "gas:candidate-vibid:4644035227992": 168,
+      "gas:candidate-vibid:4644035228365": 592,
+      "gas:candidate-vibid:4644035227535": 145,
+      "gas:candidate-vibid:4644035252744": 46,
+      "gas:candidate-vibid:4644035228712": 12,
+      "gas:candidate-vibid:4644035228237": 114,
+      "gas:candidate-vibid:4644035228622": 72,
+      "gas:candidate-vibid:4644035228693": 30,
+      "gas:candidate-vibid:4644035228608": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135249&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135249&type=464",
@@ -8893,15 +8893,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 165,
-      "Грищенко Олег Васильевич": 541,
-      "Ищенко Антон Анатольевич": 143,
-      "Коннычев Дмитрий Викторович": 45,
-      "Ледков Александр Владимирович": 12,
-      "Миронов Павел Васильевич": 112,
-      "Сафьянов Виктор Владимирович": 71,
-      "Фролов Александр Васильевич": 29,
-      "Ханенко Дмитрий Борисович": 65
+      "gas:candidate-vibid:4644035227992": 165,
+      "gas:candidate-vibid:4644035228365": 541,
+      "gas:candidate-vibid:4644035227535": 143,
+      "gas:candidate-vibid:4644035252744": 45,
+      "gas:candidate-vibid:4644035228712": 12,
+      "gas:candidate-vibid:4644035228237": 112,
+      "gas:candidate-vibid:4644035228622": 71,
+      "gas:candidate-vibid:4644035228693": 29,
+      "gas:candidate-vibid:4644035228608": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135249&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135249&type=464",
@@ -8952,15 +8952,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 152,
-      "Грищенко Олег Васильевич": 515,
-      "Ищенко Антон Анатольевич": 132,
-      "Коннычев Дмитрий Викторович": 14,
-      "Ледков Александр Владимирович": 5,
-      "Миронов Павел Васильевич": 105,
-      "Сафьянов Виктор Владимирович": 60,
-      "Фролов Александр Васильевич": 13,
-      "Ханенко Дмитрий Борисович": 55
+      "gas:candidate-vibid:4644035227992": 152,
+      "gas:candidate-vibid:4644035228365": 515,
+      "gas:candidate-vibid:4644035227535": 132,
+      "gas:candidate-vibid:4644035252744": 14,
+      "gas:candidate-vibid:4644035228712": 5,
+      "gas:candidate-vibid:4644035228237": 105,
+      "gas:candidate-vibid:4644035228622": 60,
+      "gas:candidate-vibid:4644035228693": 13,
+      "gas:candidate-vibid:4644035228608": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135249&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135249&type=464",
@@ -9011,15 +9011,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 149,
-      "Грищенко Олег Васильевич": 486,
-      "Ищенко Антон Анатольевич": 128,
-      "Коннычев Дмитрий Викторович": 40,
-      "Ледков Александр Владимирович": 10,
-      "Миронов Павел Васильевич": 101,
-      "Сафьянов Виктор Владимирович": 64,
-      "Фролов Александр Васильевич": 27,
-      "Ханенко Дмитрий Борисович": 59
+      "gas:candidate-vibid:4644035227992": 149,
+      "gas:candidate-vibid:4644035228365": 486,
+      "gas:candidate-vibid:4644035227535": 128,
+      "gas:candidate-vibid:4644035252744": 40,
+      "gas:candidate-vibid:4644035228712": 10,
+      "gas:candidate-vibid:4644035228237": 101,
+      "gas:candidate-vibid:4644035228622": 64,
+      "gas:candidate-vibid:4644035228693": 27,
+      "gas:candidate-vibid:4644035228608": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135249&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135249&type=464",
@@ -9070,15 +9070,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 235,
-      "Грищенко Олег Васильевич": 471,
-      "Ищенко Антон Анатольевич": 125,
-      "Коннычев Дмитрий Викторович": 39,
-      "Ледков Александр Владимирович": 0,
-      "Миронов Павел Васильевич": 98,
-      "Сафьянов Виктор Владимирович": 5,
-      "Фролов Александр Васильевич": 3,
-      "Ханенко Дмитрий Борисович": 57
+      "gas:candidate-vibid:4644035227992": 235,
+      "gas:candidate-vibid:4644035228365": 471,
+      "gas:candidate-vibid:4644035227535": 125,
+      "gas:candidate-vibid:4644035252744": 39,
+      "gas:candidate-vibid:4644035228712": 0,
+      "gas:candidate-vibid:4644035228237": 98,
+      "gas:candidate-vibid:4644035228622": 5,
+      "gas:candidate-vibid:4644035228693": 3,
+      "gas:candidate-vibid:4644035228608": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135249&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135249&type=464",
@@ -9129,15 +9129,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 234,
-      "Грищенко Олег Васильевич": 1069,
-      "Ищенко Антон Анатольевич": 204,
-      "Коннычев Дмитрий Викторович": 60,
-      "Ледков Александр Владимирович": 17,
-      "Миронов Павел Васильевич": 160,
-      "Сафьянов Виктор Владимирович": 101,
-      "Фролов Александр Васильевич": 42,
-      "Ханенко Дмитрий Борисович": 93
+      "gas:candidate-vibid:4644035227992": 234,
+      "gas:candidate-vibid:4644035228365": 1069,
+      "gas:candidate-vibid:4644035227535": 204,
+      "gas:candidate-vibid:4644035252744": 60,
+      "gas:candidate-vibid:4644035228712": 17,
+      "gas:candidate-vibid:4644035228237": 160,
+      "gas:candidate-vibid:4644035228622": 101,
+      "gas:candidate-vibid:4644035228693": 42,
+      "gas:candidate-vibid:4644035228608": 93
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135249&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135249&type=464",
@@ -9188,15 +9188,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 197,
-      "Грищенко Олег Васильевич": 640,
-      "Ищенко Антон Анатольевич": 170,
-      "Коннычев Дмитрий Викторович": 53,
-      "Ледков Александр Владимирович": 15,
-      "Миронов Павел Васильевич": 133,
-      "Сафьянов Виктор Владимирович": 84,
-      "Фролов Александр Васильевич": 35,
-      "Ханенко Дмитрий Борисович": 77
+      "gas:candidate-vibid:4644035227992": 197,
+      "gas:candidate-vibid:4644035228365": 640,
+      "gas:candidate-vibid:4644035227535": 170,
+      "gas:candidate-vibid:4644035252744": 53,
+      "gas:candidate-vibid:4644035228712": 15,
+      "gas:candidate-vibid:4644035228237": 133,
+      "gas:candidate-vibid:4644035228622": 84,
+      "gas:candidate-vibid:4644035228693": 35,
+      "gas:candidate-vibid:4644035228608": 77
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135249&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135249&type=464",
@@ -9247,15 +9247,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 130,
-      "Грищенко Олег Васильевич": 431,
-      "Ищенко Антон Анатольевич": 113,
-      "Коннычев Дмитрий Викторович": 34,
-      "Ледков Александр Владимирович": 9,
-      "Миронов Павел Васильевич": 90,
-      "Сафьянов Виктор Владимирович": 55,
-      "Фролов Александр Васильевич": 22,
-      "Ханенко Дмитрий Борисович": 50
+      "gas:candidate-vibid:4644035227992": 130,
+      "gas:candidate-vibid:4644035228365": 431,
+      "gas:candidate-vibid:4644035227535": 113,
+      "gas:candidate-vibid:4644035252744": 34,
+      "gas:candidate-vibid:4644035228712": 9,
+      "gas:candidate-vibid:4644035228237": 90,
+      "gas:candidate-vibid:4644035228622": 55,
+      "gas:candidate-vibid:4644035228693": 22,
+      "gas:candidate-vibid:4644035228608": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135249&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135249&type=464",
@@ -9306,15 +9306,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 190,
-      "Грищенко Олег Васильевич": 619,
-      "Ищенко Антон Анатольевич": 164,
-      "Коннычев Дмитрий Викторович": 52,
-      "Ледков Александр Владимирович": 14,
-      "Миронов Павел Васильевич": 129,
-      "Сафьянов Виктор Владимирович": 81,
-      "Фролов Александр Васильевич": 34,
-      "Ханенко Дмитрий Борисович": 75
+      "gas:candidate-vibid:4644035227992": 190,
+      "gas:candidate-vibid:4644035228365": 619,
+      "gas:candidate-vibid:4644035227535": 164,
+      "gas:candidate-vibid:4644035252744": 52,
+      "gas:candidate-vibid:4644035228712": 14,
+      "gas:candidate-vibid:4644035228237": 129,
+      "gas:candidate-vibid:4644035228622": 81,
+      "gas:candidate-vibid:4644035228693": 34,
+      "gas:candidate-vibid:4644035228608": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135249&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135249&type=464",
@@ -9365,15 +9365,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 151,
-      "Грищенко Олег Васильевич": 514,
-      "Ищенко Антон Анатольевич": 129,
-      "Коннычев Дмитрий Викторович": 108,
-      "Ледков Александр Владимирович": 43,
-      "Миронов Павел Васильевич": 62,
-      "Сафьянов Виктор Владимирович": 28,
-      "Фролов Александр Васильевич": 11,
-      "Ханенко Дмитрий Борисович": 68
+      "gas:candidate-vibid:4644035227992": 151,
+      "gas:candidate-vibid:4644035228365": 514,
+      "gas:candidate-vibid:4644035227535": 129,
+      "gas:candidate-vibid:4644035252744": 108,
+      "gas:candidate-vibid:4644035228712": 43,
+      "gas:candidate-vibid:4644035228237": 62,
+      "gas:candidate-vibid:4644035228622": 28,
+      "gas:candidate-vibid:4644035228693": 11,
+      "gas:candidate-vibid:4644035228608": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135249&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135249&type=464",
@@ -9424,15 +9424,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 176,
-      "Грищенко Олег Васильевич": 572,
-      "Ищенко Антон Анатольевич": 152,
-      "Коннычев Дмитрий Викторович": 48,
-      "Ледков Александр Владимирович": 13,
-      "Миронов Павел Васильевич": 119,
-      "Сафьянов Виктор Владимирович": 75,
-      "Фролов Александр Васильевич": 31,
-      "Ханенко Дмитрий Борисович": 69
+      "gas:candidate-vibid:4644035227992": 176,
+      "gas:candidate-vibid:4644035228365": 572,
+      "gas:candidate-vibid:4644035227535": 152,
+      "gas:candidate-vibid:4644035252744": 48,
+      "gas:candidate-vibid:4644035228712": 13,
+      "gas:candidate-vibid:4644035228237": 119,
+      "gas:candidate-vibid:4644035228622": 75,
+      "gas:candidate-vibid:4644035228693": 31,
+      "gas:candidate-vibid:4644035228608": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135249&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135249&type=464",
@@ -9483,15 +9483,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 196,
-      "Грищенко Олег Васильевич": 649,
-      "Ищенко Антон Анатольевич": 148,
-      "Коннычев Дмитрий Викторович": 56,
-      "Ледков Александр Владимирович": 15,
-      "Миронов Павел Васильевич": 131,
-      "Сафьянов Виктор Владимирович": 88,
-      "Фролов Александр Васильевич": 37,
-      "Ханенко Дмитрий Борисович": 81
+      "gas:candidate-vibid:4644035227992": 196,
+      "gas:candidate-vibid:4644035228365": 649,
+      "gas:candidate-vibid:4644035227535": 148,
+      "gas:candidate-vibid:4644035252744": 56,
+      "gas:candidate-vibid:4644035228712": 15,
+      "gas:candidate-vibid:4644035228237": 131,
+      "gas:candidate-vibid:4644035228622": 88,
+      "gas:candidate-vibid:4644035228693": 37,
+      "gas:candidate-vibid:4644035228608": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135249&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135249&type=464",
@@ -9542,15 +9542,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 124,
-      "Грищенко Олег Васильевич": 426,
-      "Ищенко Антон Анатольевич": 106,
-      "Коннычев Дмитрий Викторович": 36,
-      "Ледков Александр Владимирович": 10,
-      "Миронов Павел Васильевич": 84,
-      "Сафьянов Виктор Владимирович": 57,
-      "Фролов Александр Васильевич": 24,
-      "Ханенко Дмитрий Борисович": 53
+      "gas:candidate-vibid:4644035227992": 124,
+      "gas:candidate-vibid:4644035228365": 426,
+      "gas:candidate-vibid:4644035227535": 106,
+      "gas:candidate-vibid:4644035252744": 36,
+      "gas:candidate-vibid:4644035228712": 10,
+      "gas:candidate-vibid:4644035228237": 84,
+      "gas:candidate-vibid:4644035228622": 57,
+      "gas:candidate-vibid:4644035228693": 24,
+      "gas:candidate-vibid:4644035228608": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135249&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135249&type=464",
@@ -9601,15 +9601,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 123,
-      "Грищенко Олег Васильевич": 401,
-      "Ищенко Антон Анатольевич": 106,
-      "Коннычев Дмитрий Викторович": 34,
-      "Ледков Александр Владимирович": 9,
-      "Миронов Павел Васильевич": 84,
-      "Сафьянов Виктор Владимирович": 53,
-      "Фролов Александр Васильевич": 22,
-      "Ханенко Дмитрий Борисович": 48
+      "gas:candidate-vibid:4644035227992": 123,
+      "gas:candidate-vibid:4644035228365": 401,
+      "gas:candidate-vibid:4644035227535": 106,
+      "gas:candidate-vibid:4644035252744": 34,
+      "gas:candidate-vibid:4644035228712": 9,
+      "gas:candidate-vibid:4644035228237": 84,
+      "gas:candidate-vibid:4644035228622": 53,
+      "gas:candidate-vibid:4644035228693": 22,
+      "gas:candidate-vibid:4644035228608": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135249&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135249&type=464",
@@ -9660,15 +9660,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 146,
-      "Грищенко Олег Васильевич": 477,
-      "Ищенко Антон Анатольевич": 126,
-      "Коннычев Дмитрий Викторович": 40,
-      "Ледков Александр Владимирович": 10,
-      "Миронов Павел Васильевич": 99,
-      "Сафьянов Виктор Владимирович": 63,
-      "Фролов Александр Васильевич": 26,
-      "Ханенко Дмитрий Борисович": 58
+      "gas:candidate-vibid:4644035227992": 146,
+      "gas:candidate-vibid:4644035228365": 477,
+      "gas:candidate-vibid:4644035227535": 126,
+      "gas:candidate-vibid:4644035252744": 40,
+      "gas:candidate-vibid:4644035228712": 10,
+      "gas:candidate-vibid:4644035228237": 99,
+      "gas:candidate-vibid:4644035228622": 63,
+      "gas:candidate-vibid:4644035228693": 26,
+      "gas:candidate-vibid:4644035228608": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135249&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135249&type=464",
@@ -9719,15 +9719,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 174,
-      "Грищенко Олег Васильевич": 566,
-      "Ищенко Антон Анатольевич": 150,
-      "Коннычев Дмитрий Викторович": 47,
-      "Ледков Александр Владимирович": 12,
-      "Миронов Павел Васильевич": 118,
-      "Сафьянов Виктор Владимирович": 75,
-      "Фролов Александр Васильевич": 31,
-      "Ханенко Дмитрий Борисович": 68
+      "gas:candidate-vibid:4644035227992": 174,
+      "gas:candidate-vibid:4644035228365": 566,
+      "gas:candidate-vibid:4644035227535": 150,
+      "gas:candidate-vibid:4644035252744": 47,
+      "gas:candidate-vibid:4644035228712": 12,
+      "gas:candidate-vibid:4644035228237": 118,
+      "gas:candidate-vibid:4644035228622": 75,
+      "gas:candidate-vibid:4644035228693": 31,
+      "gas:candidate-vibid:4644035228608": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135249&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135249&type=464",
@@ -9778,15 +9778,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 133,
-      "Грищенко Олег Васильевич": 437,
-      "Ищенко Антон Анатольевич": 115,
-      "Коннычев Дмитрий Викторович": 36,
-      "Ледков Александр Владимирович": 9,
-      "Миронов Павел Васильевич": 90,
-      "Сафьянов Виктор Владимирович": 57,
-      "Фролов Александр Васильевич": 24,
-      "Ханенко Дмитрий Борисович": 52
+      "gas:candidate-vibid:4644035227992": 133,
+      "gas:candidate-vibid:4644035228365": 437,
+      "gas:candidate-vibid:4644035227535": 115,
+      "gas:candidate-vibid:4644035252744": 36,
+      "gas:candidate-vibid:4644035228712": 9,
+      "gas:candidate-vibid:4644035228237": 90,
+      "gas:candidate-vibid:4644035228622": 57,
+      "gas:candidate-vibid:4644035228693": 24,
+      "gas:candidate-vibid:4644035228608": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135249&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135249&type=464",
@@ -9837,15 +9837,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 195,
-      "Грищенко Олег Васильевич": 635,
-      "Ищенко Антон Анатольевич": 168,
-      "Коннычев Дмитрий Викторович": 53,
-      "Ледков Александр Владимирович": 14,
-      "Миронов Павел Васильевич": 132,
-      "Сафьянов Виктор Владимирович": 83,
-      "Фролов Александр Васильевич": 35,
-      "Ханенко Дмитрий Борисович": 76
+      "gas:candidate-vibid:4644035227992": 195,
+      "gas:candidate-vibid:4644035228365": 635,
+      "gas:candidate-vibid:4644035227535": 168,
+      "gas:candidate-vibid:4644035252744": 53,
+      "gas:candidate-vibid:4644035228712": 14,
+      "gas:candidate-vibid:4644035228237": 132,
+      "gas:candidate-vibid:4644035228622": 83,
+      "gas:candidate-vibid:4644035228693": 35,
+      "gas:candidate-vibid:4644035228608": 76
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135249&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135249&type=464",
@@ -9896,15 +9896,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 157,
-      "Грищенко Олег Васильевич": 514,
-      "Ищенко Антон Анатольевич": 136,
-      "Коннычев Дмитрий Викторович": 106,
-      "Ледков Александр Владимирович": 43,
-      "Миронов Павел Васильевич": 62,
-      "Сафьянов Виктор Владимирович": 28,
-      "Фролов Александр Васильевич": 10,
-      "Ханенко Дмитрий Борисович": 68
+      "gas:candidate-vibid:4644035227992": 157,
+      "gas:candidate-vibid:4644035228365": 514,
+      "gas:candidate-vibid:4644035227535": 136,
+      "gas:candidate-vibid:4644035252744": 106,
+      "gas:candidate-vibid:4644035228712": 43,
+      "gas:candidate-vibid:4644035228237": 62,
+      "gas:candidate-vibid:4644035228622": 28,
+      "gas:candidate-vibid:4644035228693": 10,
+      "gas:candidate-vibid:4644035228608": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135249&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135249&type=464",
@@ -9955,15 +9955,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 158,
-      "Грищенко Олег Васильевич": 515,
-      "Ищенко Антон Анатольевич": 137,
-      "Коннычев Дмитрий Викторович": 107,
-      "Ледков Александр Владимирович": 43,
-      "Миронов Павел Васильевич": 62,
-      "Сафьянов Виктор Владимирович": 28,
-      "Фролов Александр Васильевич": 11,
-      "Ханенко Дмитрий Борисович": 68
+      "gas:candidate-vibid:4644035227992": 158,
+      "gas:candidate-vibid:4644035228365": 515,
+      "gas:candidate-vibid:4644035227535": 137,
+      "gas:candidate-vibid:4644035252744": 107,
+      "gas:candidate-vibid:4644035228712": 43,
+      "gas:candidate-vibid:4644035228237": 62,
+      "gas:candidate-vibid:4644035228622": 28,
+      "gas:candidate-vibid:4644035228693": 11,
+      "gas:candidate-vibid:4644035228608": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135249&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135249&type=464",
@@ -10014,15 +10014,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 157,
-      "Грищенко Олег Васильевич": 511,
-      "Ищенко Антон Анатольевич": 136,
-      "Коннычев Дмитрий Викторович": 43,
-      "Ледков Александр Владимирович": 11,
-      "Миронов Павел Васильевич": 106,
-      "Сафьянов Виктор Владимирович": 67,
-      "Фролов Александр Васильевич": 28,
-      "Ханенко Дмитрий Борисович": 62
+      "gas:candidate-vibid:4644035227992": 157,
+      "gas:candidate-vibid:4644035228365": 511,
+      "gas:candidate-vibid:4644035227535": 136,
+      "gas:candidate-vibid:4644035252744": 43,
+      "gas:candidate-vibid:4644035228712": 11,
+      "gas:candidate-vibid:4644035228237": 106,
+      "gas:candidate-vibid:4644035228622": 67,
+      "gas:candidate-vibid:4644035228693": 28,
+      "gas:candidate-vibid:4644035228608": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135249&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135249&type=464",
@@ -10073,15 +10073,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 200,
-      "Грищенко Олег Васильевич": 652,
-      "Ищенко Антон Анатольевич": 173,
-      "Коннычев Дмитрий Викторович": 54,
-      "Ледков Александр Владимирович": 14,
-      "Миронов Павел Васильевич": 136,
-      "Сафьянов Виктор Владимирович": 85,
-      "Фролов Александр Васильевич": 36,
-      "Ханенко Дмитрий Борисович": 79
+      "gas:candidate-vibid:4644035227992": 200,
+      "gas:candidate-vibid:4644035228365": 652,
+      "gas:candidate-vibid:4644035227535": 173,
+      "gas:candidate-vibid:4644035252744": 54,
+      "gas:candidate-vibid:4644035228712": 14,
+      "gas:candidate-vibid:4644035228237": 136,
+      "gas:candidate-vibid:4644035228622": 85,
+      "gas:candidate-vibid:4644035228693": 36,
+      "gas:candidate-vibid:4644035228608": 79
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135249&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135249&type=464",
@@ -10132,15 +10132,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 155,
-      "Грищенко Олег Васильевич": 504,
-      "Ищенко Антон Анатольевич": 134,
-      "Коннычев Дмитрий Викторович": 42,
-      "Ледков Александр Владимирович": 11,
-      "Миронов Павел Васильевич": 105,
-      "Сафьянов Виктор Владимирович": 65,
-      "Фролов Александр Васильевич": 28,
-      "Ханенко Дмитрий Борисович": 61
+      "gas:candidate-vibid:4644035227992": 155,
+      "gas:candidate-vibid:4644035228365": 504,
+      "gas:candidate-vibid:4644035227535": 134,
+      "gas:candidate-vibid:4644035252744": 42,
+      "gas:candidate-vibid:4644035228712": 11,
+      "gas:candidate-vibid:4644035228237": 105,
+      "gas:candidate-vibid:4644035228622": 65,
+      "gas:candidate-vibid:4644035228693": 28,
+      "gas:candidate-vibid:4644035228608": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135249&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135249&type=464",
@@ -10191,15 +10191,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 181,
-      "Грищенко Олег Васильевич": 590,
-      "Ищенко Антон Анатольевич": 156,
-      "Коннычев Дмитрий Викторович": 49,
-      "Ледков Александр Владимирович": 13,
-      "Миронов Павел Васильевич": 123,
-      "Сафьянов Виктор Владимирович": 78,
-      "Фролов Александр Васильевич": 32,
-      "Ханенко Дмитрий Борисович": 71
+      "gas:candidate-vibid:4644035227992": 181,
+      "gas:candidate-vibid:4644035228365": 590,
+      "gas:candidate-vibid:4644035227535": 156,
+      "gas:candidate-vibid:4644035252744": 49,
+      "gas:candidate-vibid:4644035228712": 13,
+      "gas:candidate-vibid:4644035228237": 123,
+      "gas:candidate-vibid:4644035228622": 78,
+      "gas:candidate-vibid:4644035228693": 32,
+      "gas:candidate-vibid:4644035228608": 71
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135249&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135249&type=464",
@@ -10250,15 +10250,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 231,
-      "Грищенко Олег Васильевич": 638,
-      "Ищенко Антон Анатольевич": 198,
-      "Коннычев Дмитрий Викторович": 15,
-      "Ледков Александр Владимирович": 60,
-      "Миронов Павел Васильевич": 72,
-      "Сафьянов Виктор Владимирович": 83,
-      "Фролов Александр Васильевич": 68,
-      "Ханенко Дмитрий Борисович": 143
+      "gas:candidate-vibid:4644035227992": 231,
+      "gas:candidate-vibid:4644035228365": 638,
+      "gas:candidate-vibid:4644035227535": 198,
+      "gas:candidate-vibid:4644035252744": 15,
+      "gas:candidate-vibid:4644035228712": 60,
+      "gas:candidate-vibid:4644035228237": 72,
+      "gas:candidate-vibid:4644035228622": 83,
+      "gas:candidate-vibid:4644035228693": 68,
+      "gas:candidate-vibid:4644035228608": 143
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135250&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135250&type=464",
@@ -10309,15 +10309,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 185,
-      "Грищенко Олег Васильевич": 503,
-      "Ищенко Антон Анатольевич": 160,
-      "Коннычев Дмитрий Викторович": 50,
-      "Ледков Александр Владимирович": 13,
-      "Миронов Павел Васильевич": 126,
-      "Сафьянов Виктор Владимирович": 80,
-      "Фролов Александр Васильевич": 33,
-      "Ханенко Дмитрий Борисович": 73
+      "gas:candidate-vibid:4644035227992": 185,
+      "gas:candidate-vibid:4644035228365": 503,
+      "gas:candidate-vibid:4644035227535": 160,
+      "gas:candidate-vibid:4644035252744": 50,
+      "gas:candidate-vibid:4644035228712": 13,
+      "gas:candidate-vibid:4644035228237": 126,
+      "gas:candidate-vibid:4644035228622": 80,
+      "gas:candidate-vibid:4644035228693": 33,
+      "gas:candidate-vibid:4644035228608": 73
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135250&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135250&type=464",
@@ -10368,15 +10368,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 162,
-      "Грищенко Олег Васильевич": 453,
-      "Ищенко Антон Анатольевич": 156,
-      "Коннычев Дмитрий Викторович": 100,
-      "Ледков Александр Владимирович": 21,
-      "Миронов Павел Васильевич": 131,
-      "Сафьянов Виктор Владимирович": 40,
-      "Фролов Александр Васильевич": 34,
-      "Ханенко Дмитрий Борисович": 36
+      "gas:candidate-vibid:4644035227992": 162,
+      "gas:candidate-vibid:4644035228365": 453,
+      "gas:candidate-vibid:4644035227535": 156,
+      "gas:candidate-vibid:4644035252744": 100,
+      "gas:candidate-vibid:4644035228712": 21,
+      "gas:candidate-vibid:4644035228237": 131,
+      "gas:candidate-vibid:4644035228622": 40,
+      "gas:candidate-vibid:4644035228693": 34,
+      "gas:candidate-vibid:4644035228608": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135250&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135250&type=464",
@@ -10427,15 +10427,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 2,
-      "Грищенко Олег Васильевич": 5,
-      "Ищенко Антон Анатольевич": 1,
-      "Коннычев Дмитрий Викторович": 1,
-      "Ледков Александр Владимирович": 0,
-      "Миронов Павел Васильевич": 0,
-      "Сафьянов Виктор Владимирович": 0,
-      "Фролов Александр Васильевич": 0,
-      "Ханенко Дмитрий Борисович": 0
+      "gas:candidate-vibid:4644035227992": 2,
+      "gas:candidate-vibid:4644035228365": 5,
+      "gas:candidate-vibid:4644035227535": 1,
+      "gas:candidate-vibid:4644035252744": 1,
+      "gas:candidate-vibid:4644035228712": 0,
+      "gas:candidate-vibid:4644035228237": 0,
+      "gas:candidate-vibid:4644035228622": 0,
+      "gas:candidate-vibid:4644035228693": 0,
+      "gas:candidate-vibid:4644035228608": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135250&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135250&type=464",
@@ -10486,15 +10486,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 143,
-      "Грищенко Олег Васильевич": 452,
-      "Ищенко Антон Анатольевич": 117,
-      "Коннычев Дмитрий Викторович": 38,
-      "Ледков Александр Владимирович": 11,
-      "Миронов Павел Васильевич": 98,
-      "Сафьянов Виктор Владимирович": 59,
-      "Фролов Александр Васильевич": 27,
-      "Ханенко Дмитрий Борисович": 35
+      "gas:candidate-vibid:4644035227992": 143,
+      "gas:candidate-vibid:4644035228365": 452,
+      "gas:candidate-vibid:4644035227535": 117,
+      "gas:candidate-vibid:4644035252744": 38,
+      "gas:candidate-vibid:4644035228712": 11,
+      "gas:candidate-vibid:4644035228237": 98,
+      "gas:candidate-vibid:4644035228622": 59,
+      "gas:candidate-vibid:4644035228693": 27,
+      "gas:candidate-vibid:4644035228608": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135250&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135250&type=464",
@@ -10545,15 +10545,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 209,
-      "Грищенко Олег Васильевич": 608,
-      "Ищенко Антон Анатольевич": 184,
-      "Коннычев Дмитрий Викторович": 84,
-      "Ледков Александр Владимирович": 28,
-      "Миронов Павел Васильевич": 112,
-      "Сафьянов Виктор Владимирович": 38,
-      "Фролов Александр Васильевич": 5,
-      "Ханенко Дмитрий Борисович": 61
+      "gas:candidate-vibid:4644035227992": 209,
+      "gas:candidate-vibid:4644035228365": 608,
+      "gas:candidate-vibid:4644035227535": 184,
+      "gas:candidate-vibid:4644035252744": 84,
+      "gas:candidate-vibid:4644035228712": 28,
+      "gas:candidate-vibid:4644035228237": 112,
+      "gas:candidate-vibid:4644035228622": 38,
+      "gas:candidate-vibid:4644035228693": 5,
+      "gas:candidate-vibid:4644035228608": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135250&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135250&type=464",
@@ -10604,15 +10604,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 227,
-      "Грищенко Олег Васильевич": 758,
-      "Ищенко Антон Анатольевич": 195,
-      "Коннычев Дмитрий Викторович": 150,
-      "Ледков Александр Владимирович": 61,
-      "Миронов Павел Васильевич": 84,
-      "Сафьянов Виктор Владимирович": 38,
-      "Фролов Александр Васильевич": 16,
-      "Ханенко Дмитрий Борисович": 97
+      "gas:candidate-vibid:4644035227992": 227,
+      "gas:candidate-vibid:4644035228365": 758,
+      "gas:candidate-vibid:4644035227535": 195,
+      "gas:candidate-vibid:4644035252744": 150,
+      "gas:candidate-vibid:4644035228712": 61,
+      "gas:candidate-vibid:4644035228237": 84,
+      "gas:candidate-vibid:4644035228622": 38,
+      "gas:candidate-vibid:4644035228693": 16,
+      "gas:candidate-vibid:4644035228608": 97
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135250&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135250&type=464",
@@ -10663,15 +10663,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 131,
-      "Грищенко Олег Васильевич": 452,
-      "Ищенко Антон Анатольевич": 109,
-      "Коннычев Дмитрий Викторович": 36,
-      "Ледков Александр Владимирович": 10,
-      "Миронов Павел Васильевич": 86,
-      "Сафьянов Виктор Владимирович": 53,
-      "Фролов Александр Васильевич": 19,
-      "Ханенко Дмитрий Борисович": 45
+      "gas:candidate-vibid:4644035227992": 131,
+      "gas:candidate-vibid:4644035228365": 452,
+      "gas:candidate-vibid:4644035227535": 109,
+      "gas:candidate-vibid:4644035252744": 36,
+      "gas:candidate-vibid:4644035228712": 10,
+      "gas:candidate-vibid:4644035228237": 86,
+      "gas:candidate-vibid:4644035228622": 53,
+      "gas:candidate-vibid:4644035228693": 19,
+      "gas:candidate-vibid:4644035228608": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135250&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135250&type=464",
@@ -10722,15 +10722,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 114,
-      "Грищенко Олег Васильевич": 333,
-      "Ищенко Антон Анатольевич": 98,
-      "Коннычев Дмитрий Викторович": 39,
-      "Ледков Александр Владимирович": 28,
-      "Миронов Павел Васильевич": 82,
-      "Сафьянов Виктор Владимирович": 36,
-      "Фролов Александр Васильевич": 49,
-      "Ханенко Дмитрий Борисович": 53
+      "gas:candidate-vibid:4644035227992": 114,
+      "gas:candidate-vibid:4644035228365": 333,
+      "gas:candidate-vibid:4644035227535": 98,
+      "gas:candidate-vibid:4644035252744": 39,
+      "gas:candidate-vibid:4644035228712": 28,
+      "gas:candidate-vibid:4644035228237": 82,
+      "gas:candidate-vibid:4644035228622": 36,
+      "gas:candidate-vibid:4644035228693": 49,
+      "gas:candidate-vibid:4644035228608": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135250&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135250&type=464",
@@ -10781,15 +10781,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 246,
-      "Грищенко Олег Васильевич": 518,
-      "Ищенко Антон Анатольевич": 219,
-      "Коннычев Дмитрий Викторович": 55,
-      "Ледков Александр Владимирович": 14,
-      "Миронов Павел Васильевич": 154,
-      "Сафьянов Виктор Владимирович": 84,
-      "Фролов Александр Васильевич": 35,
-      "Ханенко Дмитрий Борисович": 77
+      "gas:candidate-vibid:4644035227992": 246,
+      "gas:candidate-vibid:4644035228365": 518,
+      "gas:candidate-vibid:4644035227535": 219,
+      "gas:candidate-vibid:4644035252744": 55,
+      "gas:candidate-vibid:4644035228712": 14,
+      "gas:candidate-vibid:4644035228237": 154,
+      "gas:candidate-vibid:4644035228622": 84,
+      "gas:candidate-vibid:4644035228693": 35,
+      "gas:candidate-vibid:4644035228608": 77
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135250&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135250&type=464",
@@ -10840,15 +10840,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 42,
-      "Грищенко Олег Васильевич": 348,
-      "Ищенко Антон Анатольевич": 42,
-      "Коннычев Дмитрий Викторович": 11,
-      "Ледков Александр Владимирович": 12,
-      "Миронов Павел Васильевич": 31,
-      "Сафьянов Виктор Владимирович": 11,
-      "Фролов Александр Васильевич": 11,
-      "Ханенко Дмитрий Борисович": 10
+      "gas:candidate-vibid:4644035227992": 42,
+      "gas:candidate-vibid:4644035228365": 348,
+      "gas:candidate-vibid:4644035227535": 42,
+      "gas:candidate-vibid:4644035252744": 11,
+      "gas:candidate-vibid:4644035228712": 12,
+      "gas:candidate-vibid:4644035228237": 31,
+      "gas:candidate-vibid:4644035228622": 11,
+      "gas:candidate-vibid:4644035228693": 11,
+      "gas:candidate-vibid:4644035228608": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135250&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135250&type=464",
@@ -10899,15 +10899,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 242,
-      "Грищенко Олег Васильевич": 973,
-      "Ищенко Антон Анатольевич": 136,
-      "Коннычев Дмитрий Викторович": 66,
-      "Ледков Александр Владимирович": 17,
-      "Миронов Павел Васильевич": 164,
-      "Сафьянов Виктор Владимирович": 53,
-      "Фролов Александр Васильевич": 33,
-      "Ханенко Дмитрий Борисович": 41
+      "gas:candidate-vibid:4644035227992": 242,
+      "gas:candidate-vibid:4644035228365": 973,
+      "gas:candidate-vibid:4644035227535": 136,
+      "gas:candidate-vibid:4644035252744": 66,
+      "gas:candidate-vibid:4644035228712": 17,
+      "gas:candidate-vibid:4644035228237": 164,
+      "gas:candidate-vibid:4644035228622": 53,
+      "gas:candidate-vibid:4644035228693": 33,
+      "gas:candidate-vibid:4644035228608": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135250&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135250&type=464",
@@ -10958,15 +10958,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 144,
-      "Грищенко Олег Васильевич": 411,
-      "Ищенко Антон Анатольевич": 75,
-      "Коннычев Дмитрий Викторович": 109,
-      "Ледков Александр Владимирович": 38,
-      "Миронов Павел Васильевич": 57,
-      "Сафьянов Виктор Владимирович": 26,
-      "Фролов Александр Васильевич": 11,
-      "Ханенко Дмитрий Борисович": 61
+      "gas:candidate-vibid:4644035227992": 144,
+      "gas:candidate-vibid:4644035228365": 411,
+      "gas:candidate-vibid:4644035227535": 75,
+      "gas:candidate-vibid:4644035252744": 109,
+      "gas:candidate-vibid:4644035228712": 38,
+      "gas:candidate-vibid:4644035228237": 57,
+      "gas:candidate-vibid:4644035228622": 26,
+      "gas:candidate-vibid:4644035228693": 11,
+      "gas:candidate-vibid:4644035228608": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135250&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135250&type=464",
@@ -11017,15 +11017,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 222,
-      "Грищенко Олег Васильевич": 689,
-      "Ищенко Антон Анатольевич": 196,
-      "Коннычев Дмитрий Викторович": 160,
-      "Ледков Александр Владимирович": 52,
-      "Миронов Павел Васильевич": 80,
-      "Сафьянов Виктор Владимирович": 34,
-      "Фролов Александр Васильевич": 87,
-      "Ханенко Дмитрий Борисович": 14
+      "gas:candidate-vibid:4644035227992": 222,
+      "gas:candidate-vibid:4644035228365": 689,
+      "gas:candidate-vibid:4644035227535": 196,
+      "gas:candidate-vibid:4644035252744": 160,
+      "gas:candidate-vibid:4644035228712": 52,
+      "gas:candidate-vibid:4644035228237": 80,
+      "gas:candidate-vibid:4644035228622": 34,
+      "gas:candidate-vibid:4644035228693": 87,
+      "gas:candidate-vibid:4644035228608": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135250&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135250&type=464",
@@ -11076,15 +11076,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 235,
-      "Грищенко Олег Васильевич": 589,
-      "Ищенко Антон Анатольевич": 211,
-      "Коннычев Дмитрий Викторович": 57,
-      "Ледков Александр Владимирович": 15,
-      "Миронов Павел Васильевич": 172,
-      "Сафьянов Виктор Владимирович": 90,
-      "Фролов Александр Васильевич": 37,
-      "Ханенко Дмитрий Борисович": 70
+      "gas:candidate-vibid:4644035227992": 235,
+      "gas:candidate-vibid:4644035228365": 589,
+      "gas:candidate-vibid:4644035227535": 211,
+      "gas:candidate-vibid:4644035252744": 57,
+      "gas:candidate-vibid:4644035228712": 15,
+      "gas:candidate-vibid:4644035228237": 172,
+      "gas:candidate-vibid:4644035228622": 90,
+      "gas:candidate-vibid:4644035228693": 37,
+      "gas:candidate-vibid:4644035228608": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135250&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135250&type=464",
@@ -11135,15 +11135,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 170,
-      "Грищенко Олег Васильевич": 554,
-      "Ищенко Антон Анатольевич": 147,
-      "Коннычев Дмитрий Викторович": 115,
-      "Ледков Александр Владимирович": 46,
-      "Миронов Павел Васильевич": 67,
-      "Сафьянов Виктор Владимирович": 30,
-      "Фролов Александр Васильевич": 12,
-      "Ханенко Дмитрий Борисович": 73
+      "gas:candidate-vibid:4644035227992": 170,
+      "gas:candidate-vibid:4644035228365": 554,
+      "gas:candidate-vibid:4644035227535": 147,
+      "gas:candidate-vibid:4644035252744": 115,
+      "gas:candidate-vibid:4644035228712": 46,
+      "gas:candidate-vibid:4644035228237": 67,
+      "gas:candidate-vibid:4644035228622": 30,
+      "gas:candidate-vibid:4644035228693": 12,
+      "gas:candidate-vibid:4644035228608": 73
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135250&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135250&type=464",
@@ -11194,15 +11194,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 99,
-      "Грищенко Олег Васильевич": 324,
-      "Ищенко Антон Анатольевич": 86,
-      "Коннычев Дмитрий Викторович": 27,
-      "Ледков Александр Владимирович": 10,
-      "Миронов Павел Васильевич": 68,
-      "Сафьянов Виктор Владимирович": 43,
-      "Фролов Александр Васильевич": 9,
-      "Ханенко Дмитрий Борисович": 39
+      "gas:candidate-vibid:4644035227992": 99,
+      "gas:candidate-vibid:4644035228365": 324,
+      "gas:candidate-vibid:4644035227535": 86,
+      "gas:candidate-vibid:4644035252744": 27,
+      "gas:candidate-vibid:4644035228712": 10,
+      "gas:candidate-vibid:4644035228237": 68,
+      "gas:candidate-vibid:4644035228622": 43,
+      "gas:candidate-vibid:4644035228693": 9,
+      "gas:candidate-vibid:4644035228608": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135250&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135250&type=464",
@@ -11253,15 +11253,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 207,
-      "Грищенко Олег Васильевич": 481,
-      "Ищенко Антон Анатольевич": 164,
-      "Коннычев Дмитрий Викторович": 27,
-      "Ледков Александр Владимирович": 11,
-      "Миронов Павел Васильевич": 85,
-      "Сафьянов Виктор Владимирович": 14,
-      "Фролов Александр Васильевич": 9,
-      "Ханенко Дмитрий Борисович": 56
+      "gas:candidate-vibid:4644035227992": 207,
+      "gas:candidate-vibid:4644035228365": 481,
+      "gas:candidate-vibid:4644035227535": 164,
+      "gas:candidate-vibid:4644035252744": 27,
+      "gas:candidate-vibid:4644035228712": 11,
+      "gas:candidate-vibid:4644035228237": 85,
+      "gas:candidate-vibid:4644035228622": 14,
+      "gas:candidate-vibid:4644035228693": 9,
+      "gas:candidate-vibid:4644035228608": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135250&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135250&type=464",
@@ -11312,15 +11312,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 195,
-      "Грищенко Олег Васильевич": 651,
-      "Ищенко Антон Анатольевич": 171,
-      "Коннычев Дмитрий Викторович": 53,
-      "Ледков Александр Владимирович": 14,
-      "Миронов Павел Васильевич": 129,
-      "Сафьянов Виктор Владимирович": 92,
-      "Фролов Александр Васильевич": 35,
-      "Ханенко Дмитрий Борисович": 77
+      "gas:candidate-vibid:4644035227992": 195,
+      "gas:candidate-vibid:4644035228365": 651,
+      "gas:candidate-vibid:4644035227535": 171,
+      "gas:candidate-vibid:4644035252744": 53,
+      "gas:candidate-vibid:4644035228712": 14,
+      "gas:candidate-vibid:4644035228237": 129,
+      "gas:candidate-vibid:4644035228622": 92,
+      "gas:candidate-vibid:4644035228693": 35,
+      "gas:candidate-vibid:4644035228608": 77
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135250&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135250&type=464",
@@ -11371,15 +11371,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 201,
-      "Грищенко Олег Васильевич": 676,
-      "Ищенко Антон Анатольевич": 170,
-      "Коннычев Дмитрий Викторович": 6,
-      "Ледков Александр Владимирович": 28,
-      "Миронов Павел Васильевич": 122,
-      "Сафьянов Виктор Владимирович": 41,
-      "Фролов Александр Васильевич": 59,
-      "Ханенко Дмитрий Борисович": 137
+      "gas:candidate-vibid:4644035227992": 201,
+      "gas:candidate-vibid:4644035228365": 676,
+      "gas:candidate-vibid:4644035227535": 170,
+      "gas:candidate-vibid:4644035252744": 6,
+      "gas:candidate-vibid:4644035228712": 28,
+      "gas:candidate-vibid:4644035228237": 122,
+      "gas:candidate-vibid:4644035228622": 41,
+      "gas:candidate-vibid:4644035228693": 59,
+      "gas:candidate-vibid:4644035228608": 137
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135250&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135250&type=464",
@@ -11430,15 +11430,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 231,
-      "Грищенко Олег Васильевич": 753,
-      "Ищенко Антон Анатольевич": 200,
-      "Коннычев Дмитрий Викторович": 62,
-      "Ледков Александр Владимирович": 17,
-      "Миронов Павел Васильевич": 157,
-      "Сафьянов Виктор Владимирович": 99,
-      "Фролов Александр Васильевич": 41,
-      "Ханенко Дмитрий Борисович": 90
+      "gas:candidate-vibid:4644035227992": 231,
+      "gas:candidate-vibid:4644035228365": 753,
+      "gas:candidate-vibid:4644035227535": 200,
+      "gas:candidate-vibid:4644035252744": 62,
+      "gas:candidate-vibid:4644035228712": 17,
+      "gas:candidate-vibid:4644035228237": 157,
+      "gas:candidate-vibid:4644035228622": 99,
+      "gas:candidate-vibid:4644035228693": 41,
+      "gas:candidate-vibid:4644035228608": 90
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135250&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135250&type=464",
@@ -11489,15 +11489,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 183,
-      "Грищенко Олег Васильевич": 596,
-      "Ищенко Антон Анатольевич": 157,
-      "Коннычев Дмитрий Викторович": 50,
-      "Ледков Александр Владимирович": 14,
-      "Миронов Павел Васильевич": 124,
-      "Сафьянов Виктор Владимирович": 78,
-      "Фролов Александр Васильевич": 33,
-      "Ханенко Дмитрий Борисович": 72
+      "gas:candidate-vibid:4644035227992": 183,
+      "gas:candidate-vibid:4644035228365": 596,
+      "gas:candidate-vibid:4644035227535": 157,
+      "gas:candidate-vibid:4644035252744": 50,
+      "gas:candidate-vibid:4644035228712": 14,
+      "gas:candidate-vibid:4644035228237": 124,
+      "gas:candidate-vibid:4644035228622": 78,
+      "gas:candidate-vibid:4644035228693": 33,
+      "gas:candidate-vibid:4644035228608": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135250&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135250&type=464",
@@ -11548,15 +11548,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 175,
-      "Грищенко Олег Васильевич": 590,
-      "Ищенко Антон Анатольевич": 146,
-      "Коннычев Дмитрий Викторович": 425,
-      "Ледков Александр Владимирович": 50,
-      "Миронов Павел Васильевич": 126,
-      "Сафьянов Виктор Владимирович": 73,
-      "Фролов Александр Васильевич": 40,
-      "Ханенко Дмитрий Борисович": 15
+      "gas:candidate-vibid:4644035227992": 175,
+      "gas:candidate-vibid:4644035228365": 590,
+      "gas:candidate-vibid:4644035227535": 146,
+      "gas:candidate-vibid:4644035252744": 425,
+      "gas:candidate-vibid:4644035228712": 50,
+      "gas:candidate-vibid:4644035228237": 126,
+      "gas:candidate-vibid:4644035228622": 73,
+      "gas:candidate-vibid:4644035228693": 40,
+      "gas:candidate-vibid:4644035228608": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135250&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135250&type=464",
@@ -11607,15 +11607,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 78,
-      "Грищенко Олег Васильевич": 855,
-      "Ищенко Антон Анатольевич": 151,
-      "Коннычев Дмитрий Викторович": 34,
-      "Ледков Александр Владимирович": 24,
-      "Миронов Павел Васильевич": 101,
-      "Сафьянов Виктор Владимирович": 35,
-      "Фролов Александр Васильевич": 34,
-      "Ханенко Дмитрий Борисович": 14
+      "gas:candidate-vibid:4644035227992": 78,
+      "gas:candidate-vibid:4644035228365": 855,
+      "gas:candidate-vibid:4644035227535": 151,
+      "gas:candidate-vibid:4644035252744": 34,
+      "gas:candidate-vibid:4644035228712": 24,
+      "gas:candidate-vibid:4644035228237": 101,
+      "gas:candidate-vibid:4644035228622": 35,
+      "gas:candidate-vibid:4644035228693": 34,
+      "gas:candidate-vibid:4644035228608": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135250&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135250&type=464",
@@ -11666,15 +11666,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 231,
-      "Грищенко Олег Васильевич": 551,
-      "Ищенко Антон Анатольевич": 199,
-      "Коннычев Дмитрий Викторович": 63,
-      "Ледков Александр Владимирович": 16,
-      "Миронов Павел Васильевич": 156,
-      "Сафьянов Виктор Владимирович": 85,
-      "Фролов Александр Васильевич": 41,
-      "Ханенко Дмитрий Борисович": 91
+      "gas:candidate-vibid:4644035227992": 231,
+      "gas:candidate-vibid:4644035228365": 551,
+      "gas:candidate-vibid:4644035227535": 199,
+      "gas:candidate-vibid:4644035252744": 63,
+      "gas:candidate-vibid:4644035228712": 16,
+      "gas:candidate-vibid:4644035228237": 156,
+      "gas:candidate-vibid:4644035228622": 85,
+      "gas:candidate-vibid:4644035228693": 41,
+      "gas:candidate-vibid:4644035228608": 91
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135250&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135250&type=464",
@@ -11725,15 +11725,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 350,
-      "Грищенко Олег Васильевич": 486,
-      "Ищенко Антон Анатольевич": 140,
-      "Коннычев Дмитрий Викторович": 62,
-      "Ледков Александр Владимирович": 38,
-      "Миронов Павел Васильевич": 126,
-      "Сафьянов Виктор Владимирович": 60,
-      "Фролов Александр Васильевич": 46,
-      "Ханенко Дмитрий Борисович": 30
+      "gas:candidate-vibid:4644035227992": 350,
+      "gas:candidate-vibid:4644035228365": 486,
+      "gas:candidate-vibid:4644035227535": 140,
+      "gas:candidate-vibid:4644035252744": 62,
+      "gas:candidate-vibid:4644035228712": 38,
+      "gas:candidate-vibid:4644035228237": 126,
+      "gas:candidate-vibid:4644035228622": 60,
+      "gas:candidate-vibid:4644035228693": 46,
+      "gas:candidate-vibid:4644035228608": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135250&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135250&type=464",
@@ -11784,15 +11784,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 51,
-      "Грищенко Олег Васильевич": 572,
-      "Ищенко Антон Анатольевич": 48,
-      "Коннычев Дмитрий Викторович": 13,
-      "Ледков Александр Владимирович": 5,
-      "Миронов Павел Васильевич": 22,
-      "Сафьянов Виктор Владимирович": 21,
-      "Фролов Александр Васильевич": 13,
-      "Ханенко Дмитрий Борисович": 15
+      "gas:candidate-vibid:4644035227992": 51,
+      "gas:candidate-vibid:4644035228365": 572,
+      "gas:candidate-vibid:4644035227535": 48,
+      "gas:candidate-vibid:4644035252744": 13,
+      "gas:candidate-vibid:4644035228712": 5,
+      "gas:candidate-vibid:4644035228237": 22,
+      "gas:candidate-vibid:4644035228622": 21,
+      "gas:candidate-vibid:4644035228693": 13,
+      "gas:candidate-vibid:4644035228608": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135250&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135250&type=464",
@@ -11843,15 +11843,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 147,
-      "Грищенко Олег Васильевич": 510,
-      "Ищенко Антон Анатольевич": 148,
-      "Коннычев Дмитрий Викторович": 28,
-      "Ледков Александр Владимирович": 3,
-      "Миронов Павел Васильевич": 240,
-      "Сафьянов Виктор Владимирович": 35,
-      "Фролов Александр Васильевич": 20,
-      "Ханенко Дмитрий Борисович": 30
+      "gas:candidate-vibid:4644035227992": 147,
+      "gas:candidate-vibid:4644035228365": 510,
+      "gas:candidate-vibid:4644035227535": 148,
+      "gas:candidate-vibid:4644035252744": 28,
+      "gas:candidate-vibid:4644035228712": 3,
+      "gas:candidate-vibid:4644035228237": 240,
+      "gas:candidate-vibid:4644035228622": 35,
+      "gas:candidate-vibid:4644035228693": 20,
+      "gas:candidate-vibid:4644035228608": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135250&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135250&type=464",
@@ -11902,15 +11902,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 188,
-      "Грищенко Олег Васильевич": 608,
-      "Ищенко Антон Анатольевич": 161,
-      "Коннычев Дмитрий Викторович": 51,
-      "Ледков Александр Владимирович": 13,
-      "Миронов Павел Васильевич": 127,
-      "Сафьянов Виктор Владимирович": 80,
-      "Фролов Александр Васильевич": 33,
-      "Ханенко Дмитрий Борисович": 73
+      "gas:candidate-vibid:4644035227992": 188,
+      "gas:candidate-vibid:4644035228365": 608,
+      "gas:candidate-vibid:4644035227535": 161,
+      "gas:candidate-vibid:4644035252744": 51,
+      "gas:candidate-vibid:4644035228712": 13,
+      "gas:candidate-vibid:4644035228237": 127,
+      "gas:candidate-vibid:4644035228622": 80,
+      "gas:candidate-vibid:4644035228693": 33,
+      "gas:candidate-vibid:4644035228608": 73
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135250&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135250&type=464",
@@ -11961,15 +11961,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 93,
-      "Грищенко Олег Васильевич": 310,
-      "Ищенко Антон Анатольевич": 91,
-      "Коннычев Дмитрий Викторович": 66,
-      "Ледков Александр Владимирович": 28,
-      "Миронов Павел Васильевич": 34,
-      "Сафьянов Виктор Владимирович": 13,
-      "Фролов Александр Васильевич": 9,
-      "Ханенко Дмитрий Борисович": 41
+      "gas:candidate-vibid:4644035227992": 93,
+      "gas:candidate-vibid:4644035228365": 310,
+      "gas:candidate-vibid:4644035227535": 91,
+      "gas:candidate-vibid:4644035252744": 66,
+      "gas:candidate-vibid:4644035228712": 28,
+      "gas:candidate-vibid:4644035228237": 34,
+      "gas:candidate-vibid:4644035228622": 13,
+      "gas:candidate-vibid:4644035228693": 9,
+      "gas:candidate-vibid:4644035228608": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135250&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135250&type=464",
@@ -12020,15 +12020,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 65,
-      "Грищенко Олег Васильевич": 341,
-      "Ищенко Антон Анатольевич": 52,
-      "Коннычев Дмитрий Викторович": 23,
-      "Ледков Александр Владимирович": 11,
-      "Миронов Павел Васильевич": 30,
-      "Сафьянов Виктор Владимирович": 22,
-      "Фролов Александр Васильевич": 7,
-      "Ханенко Дмитрий Борисович": 22
+      "gas:candidate-vibid:4644035227992": 65,
+      "gas:candidate-vibid:4644035228365": 341,
+      "gas:candidate-vibid:4644035227535": 52,
+      "gas:candidate-vibid:4644035252744": 23,
+      "gas:candidate-vibid:4644035228712": 11,
+      "gas:candidate-vibid:4644035228237": 30,
+      "gas:candidate-vibid:4644035228622": 22,
+      "gas:candidate-vibid:4644035228693": 7,
+      "gas:candidate-vibid:4644035228608": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135250&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135250&type=464",
@@ -12079,15 +12079,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 131,
-      "Грищенко Олег Васильевич": 330,
-      "Ищенко Антон Анатольевич": 114,
-      "Коннычев Дмитрий Викторович": 90,
-      "Ледков Александр Владимирович": 36,
-      "Миронов Павел Васильевич": 52,
-      "Сафьянов Виктор Владимирович": 24,
-      "Фролов Александр Васильевич": 9,
-      "Ханенко Дмитрий Борисович": 57
+      "gas:candidate-vibid:4644035227992": 131,
+      "gas:candidate-vibid:4644035228365": 330,
+      "gas:candidate-vibid:4644035227535": 114,
+      "gas:candidate-vibid:4644035252744": 90,
+      "gas:candidate-vibid:4644035228712": 36,
+      "gas:candidate-vibid:4644035228237": 52,
+      "gas:candidate-vibid:4644035228622": 24,
+      "gas:candidate-vibid:4644035228693": 9,
+      "gas:candidate-vibid:4644035228608": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135250&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135250&type=464",
@@ -12138,15 +12138,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 80,
-      "Грищенко Олег Васильевич": 480,
-      "Ищенко Антон Анатольевич": 105,
-      "Коннычев Дмитрий Викторович": 56,
-      "Ледков Александр Владимирович": 67,
-      "Миронов Павел Васильевич": 29,
-      "Сафьянов Виктор Владимирович": 23,
-      "Фролов Александр Васильевич": 17,
-      "Ханенко Дмитрий Борисович": 11
+      "gas:candidate-vibid:4644035227992": 80,
+      "gas:candidate-vibid:4644035228365": 480,
+      "gas:candidate-vibid:4644035227535": 105,
+      "gas:candidate-vibid:4644035252744": 56,
+      "gas:candidate-vibid:4644035228712": 67,
+      "gas:candidate-vibid:4644035228237": 29,
+      "gas:candidate-vibid:4644035228622": 23,
+      "gas:candidate-vibid:4644035228693": 17,
+      "gas:candidate-vibid:4644035228608": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135250&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135250&type=464",
@@ -12197,15 +12197,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 175,
-      "Грищенко Олег Васильевич": 365,
-      "Ищенко Антон Анатольевич": 105,
-      "Коннычев Дмитрий Викторович": 86,
-      "Ледков Александр Владимирович": 47,
-      "Миронов Павел Васильевич": 68,
-      "Сафьянов Виктор Владимирович": 37,
-      "Фролов Александр Васильевич": 24,
-      "Ханенко Дмитрий Борисович": 31
+      "gas:candidate-vibid:4644035227992": 175,
+      "gas:candidate-vibid:4644035228365": 365,
+      "gas:candidate-vibid:4644035227535": 105,
+      "gas:candidate-vibid:4644035252744": 86,
+      "gas:candidate-vibid:4644035228712": 47,
+      "gas:candidate-vibid:4644035228237": 68,
+      "gas:candidate-vibid:4644035228622": 37,
+      "gas:candidate-vibid:4644035228693": 24,
+      "gas:candidate-vibid:4644035228608": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135250&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135250&type=464",
@@ -12256,15 +12256,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 36,
-      "Грищенко Олег Васильевич": 254,
-      "Ищенко Антон Анатольевич": 55,
-      "Коннычев Дмитрий Викторович": 52,
-      "Ледков Александр Владимирович": 18,
-      "Миронов Павел Васильевич": 60,
-      "Сафьянов Виктор Владимирович": 34,
-      "Фролов Александр Васильевич": 29,
-      "Ханенко Дмитрий Борисович": 42
+      "gas:candidate-vibid:4644035227992": 36,
+      "gas:candidate-vibid:4644035228365": 254,
+      "gas:candidate-vibid:4644035227535": 55,
+      "gas:candidate-vibid:4644035252744": 52,
+      "gas:candidate-vibid:4644035228712": 18,
+      "gas:candidate-vibid:4644035228237": 60,
+      "gas:candidate-vibid:4644035228622": 34,
+      "gas:candidate-vibid:4644035228693": 29,
+      "gas:candidate-vibid:4644035228608": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135250&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135250&type=464",
@@ -12315,15 +12315,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 243,
-      "Грищенко Олег Васильевич": 533,
-      "Ищенко Антон Анатольевич": 208,
-      "Коннычев Дмитрий Викторович": 193,
-      "Ледков Александр Владимирович": 21,
-      "Миронов Павел Васильевич": 84,
-      "Сафьянов Виктор Владимирович": 41,
-      "Фролов Александр Васильевич": 17,
-      "Ханенко Дмитрий Борисович": 113
+      "gas:candidate-vibid:4644035227992": 243,
+      "gas:candidate-vibid:4644035228365": 533,
+      "gas:candidate-vibid:4644035227535": 208,
+      "gas:candidate-vibid:4644035252744": 193,
+      "gas:candidate-vibid:4644035228712": 21,
+      "gas:candidate-vibid:4644035228237": 84,
+      "gas:candidate-vibid:4644035228622": 41,
+      "gas:candidate-vibid:4644035228693": 17,
+      "gas:candidate-vibid:4644035228608": 113
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135250&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135250&type=464",
@@ -12374,15 +12374,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 163,
-      "Грищенко Олег Васильевич": 538,
-      "Ищенко Антон Анатольевич": 145,
-      "Коннычев Дмитрий Викторович": 43,
-      "Ледков Александр Владимирович": 10,
-      "Миронов Павел Васильевич": 111,
-      "Сафьянов Виктор Владимирович": 70,
-      "Фролов Александр Васильевич": 29,
-      "Ханенко Дмитрий Борисович": 61
+      "gas:candidate-vibid:4644035227992": 163,
+      "gas:candidate-vibid:4644035228365": 538,
+      "gas:candidate-vibid:4644035227535": 145,
+      "gas:candidate-vibid:4644035252744": 43,
+      "gas:candidate-vibid:4644035228712": 10,
+      "gas:candidate-vibid:4644035228237": 111,
+      "gas:candidate-vibid:4644035228622": 70,
+      "gas:candidate-vibid:4644035228693": 29,
+      "gas:candidate-vibid:4644035228608": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135250&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135250&type=464",
@@ -12433,15 +12433,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 163,
-      "Грищенко Олег Васильевич": 534,
-      "Ищенко Антон Анатольевич": 141,
-      "Коннычев Дмитрий Викторович": 44,
-      "Ледков Александр Владимирович": 11,
-      "Миронов Павел Васильевич": 110,
-      "Сафьянов Виктор Владимирович": 69,
-      "Фролов Александр Васильевич": 28,
-      "Ханенко Дмитрий Борисович": 62
+      "gas:candidate-vibid:4644035227992": 163,
+      "gas:candidate-vibid:4644035228365": 534,
+      "gas:candidate-vibid:4644035227535": 141,
+      "gas:candidate-vibid:4644035252744": 44,
+      "gas:candidate-vibid:4644035228712": 11,
+      "gas:candidate-vibid:4644035228237": 110,
+      "gas:candidate-vibid:4644035228622": 69,
+      "gas:candidate-vibid:4644035228693": 28,
+      "gas:candidate-vibid:4644035228608": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135250&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135250&type=464",
@@ -12492,15 +12492,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 78,
-      "Грищенко Олег Васильевич": 253,
-      "Ищенко Антон Анатольевич": 64,
-      "Коннычев Дмитрий Викторович": 53,
-      "Ледков Александр Владимирович": 21,
-      "Миронов Павел Васильевич": 31,
-      "Сафьянов Виктор Владимирович": 14,
-      "Фролов Александр Васильевич": 6,
-      "Ханенко Дмитрий Борисович": 33
+      "gas:candidate-vibid:4644035227992": 78,
+      "gas:candidate-vibid:4644035228365": 253,
+      "gas:candidate-vibid:4644035227535": 64,
+      "gas:candidate-vibid:4644035252744": 53,
+      "gas:candidate-vibid:4644035228712": 21,
+      "gas:candidate-vibid:4644035228237": 31,
+      "gas:candidate-vibid:4644035228622": 14,
+      "gas:candidate-vibid:4644035228693": 6,
+      "gas:candidate-vibid:4644035228608": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135250&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135250&type=464",
@@ -12551,15 +12551,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 113,
-      "Грищенко Олег Васильевич": 661,
-      "Ищенко Антон Анатольевич": 149,
-      "Коннычев Дмитрий Викторович": 47,
-      "Ледков Александр Владимирович": 18,
-      "Миронов Павел Васильевич": 100,
-      "Сафьянов Виктор Владимирович": 59,
-      "Фролов Александр Васильевич": 29,
-      "Ханенко Дмитрий Борисович": 64
+      "gas:candidate-vibid:4644035227992": 113,
+      "gas:candidate-vibid:4644035228365": 661,
+      "gas:candidate-vibid:4644035227535": 149,
+      "gas:candidate-vibid:4644035252744": 47,
+      "gas:candidate-vibid:4644035228712": 18,
+      "gas:candidate-vibid:4644035228237": 100,
+      "gas:candidate-vibid:4644035228622": 59,
+      "gas:candidate-vibid:4644035228693": 29,
+      "gas:candidate-vibid:4644035228608": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135250&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135250&type=464",
@@ -12610,15 +12610,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 213,
-      "Грищенко Олег Васильевич": 693,
-      "Ищенко Антон Анатольевич": 184,
-      "Коннычев Дмитрий Викторович": 58,
-      "Ледков Александр Владимирович": 15,
-      "Миронов Павел Васильевич": 145,
-      "Сафьянов Виктор Владимирович": 91,
-      "Фролов Александр Васильевич": 38,
-      "Ханенко Дмитрий Борисович": 84
+      "gas:candidate-vibid:4644035227992": 213,
+      "gas:candidate-vibid:4644035228365": 693,
+      "gas:candidate-vibid:4644035227535": 184,
+      "gas:candidate-vibid:4644035252744": 58,
+      "gas:candidate-vibid:4644035228712": 15,
+      "gas:candidate-vibid:4644035228237": 145,
+      "gas:candidate-vibid:4644035228622": 91,
+      "gas:candidate-vibid:4644035228693": 38,
+      "gas:candidate-vibid:4644035228608": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135250&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135250&type=464",
@@ -12669,15 +12669,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 230,
-      "Грищенко Олег Васильевич": 746,
-      "Ищенко Антон Анатольевич": 198,
-      "Коннычев Дмитрий Викторович": 62,
-      "Ледков Александр Владимирович": 16,
-      "Миронов Павел Васильевич": 155,
-      "Сафьянов Виктор Владимирович": 98,
-      "Фролов Александр Васильевич": 41,
-      "Ханенко Дмитрий Борисович": 90
+      "gas:candidate-vibid:4644035227992": 230,
+      "gas:candidate-vibid:4644035228365": 746,
+      "gas:candidate-vibid:4644035227535": 198,
+      "gas:candidate-vibid:4644035252744": 62,
+      "gas:candidate-vibid:4644035228712": 16,
+      "gas:candidate-vibid:4644035228237": 155,
+      "gas:candidate-vibid:4644035228622": 98,
+      "gas:candidate-vibid:4644035228693": 41,
+      "gas:candidate-vibid:4644035228608": 90
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135250&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135250&type=464",
@@ -12728,15 +12728,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 89,
-      "Грищенко Олег Васильевич": 543,
-      "Ищенко Антон Анатольевич": 86,
-      "Коннычев Дмитрий Викторович": 36,
-      "Ледков Александр Владимирович": 9,
-      "Миронов Павел Васильевич": 92,
-      "Сафьянов Виктор Владимирович": 39,
-      "Фролов Александр Васильевич": 24,
-      "Ханенко Дмитрий Борисович": 53
+      "gas:candidate-vibid:4644035227992": 89,
+      "gas:candidate-vibid:4644035228365": 543,
+      "gas:candidate-vibid:4644035227535": 86,
+      "gas:candidate-vibid:4644035252744": 36,
+      "gas:candidate-vibid:4644035228712": 9,
+      "gas:candidate-vibid:4644035228237": 92,
+      "gas:candidate-vibid:4644035228622": 39,
+      "gas:candidate-vibid:4644035228693": 24,
+      "gas:candidate-vibid:4644035228608": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135250&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135250&type=464",
@@ -12787,15 +12787,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 102,
-      "Грищенко Олег Васильевич": 329,
-      "Ищенко Антон Анатольевич": 87,
-      "Коннычев Дмитрий Викторович": 27,
-      "Ледков Александр Владимирович": 7,
-      "Миронов Павел Васильевич": 68,
-      "Сафьянов Виктор Владимирович": 43,
-      "Фролов Александр Васильевич": 18,
-      "Ханенко Дмитрий Борисович": 40
+      "gas:candidate-vibid:4644035227992": 102,
+      "gas:candidate-vibid:4644035228365": 329,
+      "gas:candidate-vibid:4644035227535": 87,
+      "gas:candidate-vibid:4644035252744": 27,
+      "gas:candidate-vibid:4644035228712": 7,
+      "gas:candidate-vibid:4644035228237": 68,
+      "gas:candidate-vibid:4644035228622": 43,
+      "gas:candidate-vibid:4644035228693": 18,
+      "gas:candidate-vibid:4644035228608": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135250&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135250&type=464",
@@ -12846,15 +12846,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 90,
-      "Грищенко Олег Васильевич": 400,
-      "Ищенко Антон Анатольевич": 78,
-      "Коннычев Дмитрий Викторович": 18,
-      "Ледков Александр Владимирович": 8,
-      "Миронов Павел Васильевич": 30,
-      "Сафьянов Виктор Владимирович": 13,
-      "Фролов Александр Васильевич": 12,
-      "Ханенко Дмитрий Борисович": 12
+      "gas:candidate-vibid:4644035227992": 90,
+      "gas:candidate-vibid:4644035228365": 400,
+      "gas:candidate-vibid:4644035227535": 78,
+      "gas:candidate-vibid:4644035252744": 18,
+      "gas:candidate-vibid:4644035228712": 8,
+      "gas:candidate-vibid:4644035228237": 30,
+      "gas:candidate-vibid:4644035228622": 13,
+      "gas:candidate-vibid:4644035228693": 12,
+      "gas:candidate-vibid:4644035228608": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135250&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135250&type=464",
@@ -12905,15 +12905,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 10,
-      "Грищенко Олег Васильевич": 799,
-      "Ищенко Антон Анатольевич": 12,
-      "Коннычев Дмитрий Викторович": 3,
-      "Ледков Александр Владимирович": 0,
-      "Миронов Павел Васильевич": 2,
-      "Сафьянов Виктор Владимирович": 0,
-      "Фролов Александр Васильевич": 1,
-      "Ханенко Дмитрий Борисович": 0
+      "gas:candidate-vibid:4644035227992": 10,
+      "gas:candidate-vibid:4644035228365": 799,
+      "gas:candidate-vibid:4644035227535": 12,
+      "gas:candidate-vibid:4644035252744": 3,
+      "gas:candidate-vibid:4644035228712": 0,
+      "gas:candidate-vibid:4644035228237": 2,
+      "gas:candidate-vibid:4644035228622": 0,
+      "gas:candidate-vibid:4644035228693": 1,
+      "gas:candidate-vibid:4644035228608": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135250&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135250&type=464",
@@ -12964,15 +12964,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 217,
-      "Грищенко Олег Васильевич": 644,
-      "Ищенко Антон Анатольевич": 185,
-      "Коннычев Дмитрий Викторович": 52,
-      "Ледков Александр Владимирович": 15,
-      "Миронов Павел Васильевич": 149,
-      "Сафьянов Виктор Владимирович": 67,
-      "Фролов Александр Васильевич": 35,
-      "Ханенко Дмитрий Борисович": 86
+      "gas:candidate-vibid:4644035227992": 217,
+      "gas:candidate-vibid:4644035228365": 644,
+      "gas:candidate-vibid:4644035227535": 185,
+      "gas:candidate-vibid:4644035252744": 52,
+      "gas:candidate-vibid:4644035228712": 15,
+      "gas:candidate-vibid:4644035228237": 149,
+      "gas:candidate-vibid:4644035228622": 67,
+      "gas:candidate-vibid:4644035228693": 35,
+      "gas:candidate-vibid:4644035228608": 86
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135250&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135250&type=464",
@@ -13023,15 +13023,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 104,
-      "Грищенко Олег Васильевич": 338,
-      "Ищенко Антон Анатольевич": 90,
-      "Коннычев Дмитрий Викторович": 28,
-      "Ледков Александр Владимирович": 7,
-      "Миронов Павел Васильевич": 70,
-      "Сафьянов Виктор Владимирович": 45,
-      "Фролов Александр Васильевич": 19,
-      "Ханенко Дмитрий Борисович": 41
+      "gas:candidate-vibid:4644035227992": 104,
+      "gas:candidate-vibid:4644035228365": 338,
+      "gas:candidate-vibid:4644035227535": 90,
+      "gas:candidate-vibid:4644035252744": 28,
+      "gas:candidate-vibid:4644035228712": 7,
+      "gas:candidate-vibid:4644035228237": 70,
+      "gas:candidate-vibid:4644035228622": 45,
+      "gas:candidate-vibid:4644035228693": 19,
+      "gas:candidate-vibid:4644035228608": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135250&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135250&type=464",
@@ -13082,15 +13082,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 132,
-      "Грищенко Олег Васильевич": 430,
-      "Ищенко Антон Анатольевич": 114,
-      "Коннычев Дмитрий Викторович": 35,
-      "Ледков Александр Владимирович": 9,
-      "Миронов Павел Васильевич": 90,
-      "Сафьянов Виктор Владимирович": 57,
-      "Фролов Александр Васильевич": 24,
-      "Ханенко Дмитрий Борисович": 52
+      "gas:candidate-vibid:4644035227992": 132,
+      "gas:candidate-vibid:4644035228365": 430,
+      "gas:candidate-vibid:4644035227535": 114,
+      "gas:candidate-vibid:4644035252744": 35,
+      "gas:candidate-vibid:4644035228712": 9,
+      "gas:candidate-vibid:4644035228237": 90,
+      "gas:candidate-vibid:4644035228622": 57,
+      "gas:candidate-vibid:4644035228693": 24,
+      "gas:candidate-vibid:4644035228608": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135250&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135250&type=464",
@@ -13141,15 +13141,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 108,
-      "Грищенко Олег Васильевич": 224,
-      "Ищенко Антон Анатольевич": 24,
-      "Коннычев Дмитрий Викторович": 34,
-      "Ледков Александр Владимирович": 6,
-      "Миронов Павел Васильевич": 33,
-      "Сафьянов Виктор Владимирович": 17,
-      "Фролов Александр Васильевич": 15,
-      "Ханенко Дмитрий Борисович": 17
+      "gas:candidate-vibid:4644035227992": 108,
+      "gas:candidate-vibid:4644035228365": 224,
+      "gas:candidate-vibid:4644035227535": 24,
+      "gas:candidate-vibid:4644035252744": 34,
+      "gas:candidate-vibid:4644035228712": 6,
+      "gas:candidate-vibid:4644035228237": 33,
+      "gas:candidate-vibid:4644035228622": 17,
+      "gas:candidate-vibid:4644035228693": 15,
+      "gas:candidate-vibid:4644035228608": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135250&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135250&type=464",
@@ -13200,15 +13200,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 101,
-      "Грищенко Олег Васильевич": 679,
-      "Ищенко Антон Анатольевич": 60,
-      "Коннычев Дмитрий Викторович": 24,
-      "Ледков Александр Владимирович": 8,
-      "Миронов Павел Васильевич": 75,
-      "Сафьянов Виктор Владимирович": 16,
-      "Фролов Александр Васильевич": 16,
-      "Ханенко Дмитрий Борисович": 14
+      "gas:candidate-vibid:4644035227992": 101,
+      "gas:candidate-vibid:4644035228365": 679,
+      "gas:candidate-vibid:4644035227535": 60,
+      "gas:candidate-vibid:4644035252744": 24,
+      "gas:candidate-vibid:4644035228712": 8,
+      "gas:candidate-vibid:4644035228237": 75,
+      "gas:candidate-vibid:4644035228622": 16,
+      "gas:candidate-vibid:4644035228693": 16,
+      "gas:candidate-vibid:4644035228608": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135250&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135250&type=464",
@@ -13259,15 +13259,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 192,
-      "Грищенко Олег Васильевич": 628,
-      "Ищенко Антон Анатольевич": 166,
-      "Коннычев Дмитрий Викторович": 52,
-      "Ледков Александр Владимирович": 14,
-      "Миронов Павел Васильевич": 130,
-      "Сафьянов Виктор Владимирович": 82,
-      "Фролов Александр Васильевич": 34,
-      "Ханенко Дмитрий Борисович": 76
+      "gas:candidate-vibid:4644035227992": 192,
+      "gas:candidate-vibid:4644035228365": 628,
+      "gas:candidate-vibid:4644035227535": 166,
+      "gas:candidate-vibid:4644035252744": 52,
+      "gas:candidate-vibid:4644035228712": 14,
+      "gas:candidate-vibid:4644035228237": 130,
+      "gas:candidate-vibid:4644035228622": 82,
+      "gas:candidate-vibid:4644035228693": 34,
+      "gas:candidate-vibid:4644035228608": 76
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135250&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135250&type=464",
@@ -13318,15 +13318,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 198,
-      "Грищенко Олег Васильевич": 647,
-      "Ищенко Антон Анатольевич": 172,
-      "Коннычев Дмитрий Викторович": 54,
-      "Ледков Александр Владимирович": 14,
-      "Миронов Павел Васильевич": 135,
-      "Сафьянов Виктор Владимирович": 85,
-      "Фролов Александр Васильевич": 35,
-      "Ханенко Дмитрий Борисович": 78
+      "gas:candidate-vibid:4644035227992": 198,
+      "gas:candidate-vibid:4644035228365": 647,
+      "gas:candidate-vibid:4644035227535": 172,
+      "gas:candidate-vibid:4644035252744": 54,
+      "gas:candidate-vibid:4644035228712": 14,
+      "gas:candidate-vibid:4644035228237": 135,
+      "gas:candidate-vibid:4644035228622": 85,
+      "gas:candidate-vibid:4644035228693": 35,
+      "gas:candidate-vibid:4644035228608": 78
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135250&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135250&type=464",
@@ -13377,15 +13377,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 97,
-      "Грищенко Олег Васильевич": 587,
-      "Ищенко Антон Анатольевич": 77,
-      "Коннычев Дмитрий Викторович": 33,
-      "Ледков Александр Владимирович": 16,
-      "Миронов Павел Васильевич": 46,
-      "Сафьянов Виктор Владимирович": 15,
-      "Фролов Александр Васильевич": 18,
-      "Ханенко Дмитрий Борисович": 13
+      "gas:candidate-vibid:4644035227992": 97,
+      "gas:candidate-vibid:4644035228365": 587,
+      "gas:candidate-vibid:4644035227535": 77,
+      "gas:candidate-vibid:4644035252744": 33,
+      "gas:candidate-vibid:4644035228712": 16,
+      "gas:candidate-vibid:4644035228237": 46,
+      "gas:candidate-vibid:4644035228622": 15,
+      "gas:candidate-vibid:4644035228693": 18,
+      "gas:candidate-vibid:4644035228608": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135250&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135250&type=464",
@@ -13436,15 +13436,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 163,
-      "Грищенко Олег Васильевич": 535,
-      "Ищенко Антон Анатольевич": 129,
-      "Коннычев Дмитрий Викторович": 34,
-      "Ледков Александр Владимирович": 43,
-      "Миронов Павел Васильевич": 93,
-      "Сафьянов Виктор Владимирович": 70,
-      "Фролов Александр Васильевич": 46,
-      "Ханенко Дмитрий Борисович": 65
+      "gas:candidate-vibid:4644035227992": 163,
+      "gas:candidate-vibid:4644035228365": 535,
+      "gas:candidate-vibid:4644035227535": 129,
+      "gas:candidate-vibid:4644035252744": 34,
+      "gas:candidate-vibid:4644035228712": 43,
+      "gas:candidate-vibid:4644035228237": 93,
+      "gas:candidate-vibid:4644035228622": 70,
+      "gas:candidate-vibid:4644035228693": 46,
+      "gas:candidate-vibid:4644035228608": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135250&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135250&type=464",
@@ -13495,15 +13495,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 107,
-      "Грищенко Олег Васильевич": 247,
-      "Ищенко Антон Анатольевич": 91,
-      "Коннычев Дмитрий Викторович": 29,
-      "Ледков Александр Владимирович": 8,
-      "Миронов Павел Васильевич": 72,
-      "Сафьянов Виктор Владимирович": 45,
-      "Фролов Александр Васильевич": 19,
-      "Ханенко Дмитрий Борисович": 42
+      "gas:candidate-vibid:4644035227992": 107,
+      "gas:candidate-vibid:4644035228365": 247,
+      "gas:candidate-vibid:4644035227535": 91,
+      "gas:candidate-vibid:4644035252744": 29,
+      "gas:candidate-vibid:4644035228712": 8,
+      "gas:candidate-vibid:4644035228237": 72,
+      "gas:candidate-vibid:4644035228622": 45,
+      "gas:candidate-vibid:4644035228693": 19,
+      "gas:candidate-vibid:4644035228608": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135250&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135250&type=464",
@@ -13554,15 +13554,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 232,
-      "Грищенко Олег Васильевич": 756,
-      "Ищенко Антон Анатольевич": 201,
-      "Коннычев Дмитрий Викторович": 157,
-      "Ледков Александр Владимирович": 63,
-      "Миронов Павел Васильевич": 91,
-      "Сафьянов Виктор Владимирович": 41,
-      "Фролов Александр Васильевич": 17,
-      "Ханенко Дмитрий Борисович": 101
+      "gas:candidate-vibid:4644035227992": 232,
+      "gas:candidate-vibid:4644035228365": 756,
+      "gas:candidate-vibid:4644035227535": 201,
+      "gas:candidate-vibid:4644035252744": 157,
+      "gas:candidate-vibid:4644035228712": 63,
+      "gas:candidate-vibid:4644035228237": 91,
+      "gas:candidate-vibid:4644035228622": 41,
+      "gas:candidate-vibid:4644035228693": 17,
+      "gas:candidate-vibid:4644035228608": 101
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135250&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135250&type=464",
@@ -13613,15 +13613,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 77,
-      "Грищенко Олег Васильевич": 251,
-      "Ищенко Антон Анатольевич": 67,
-      "Коннычев Дмитрий Викторович": 21,
-      "Ледков Александр Владимирович": 5,
-      "Миронов Павел Васильевич": 52,
-      "Сафьянов Виктор Владимирович": 33,
-      "Фролов Александр Васильевич": 14,
-      "Ханенко Дмитрий Борисович": 30
+      "gas:candidate-vibid:4644035227992": 77,
+      "gas:candidate-vibid:4644035228365": 251,
+      "gas:candidate-vibid:4644035227535": 67,
+      "gas:candidate-vibid:4644035252744": 21,
+      "gas:candidate-vibid:4644035228712": 5,
+      "gas:candidate-vibid:4644035228237": 52,
+      "gas:candidate-vibid:4644035228622": 33,
+      "gas:candidate-vibid:4644035228693": 14,
+      "gas:candidate-vibid:4644035228608": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135250&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135250&type=464",
@@ -13672,15 +13672,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 187,
-      "Грищенко Олег Васильевич": 603,
-      "Ищенко Антон Анатольевич": 160,
-      "Коннычев Дмитрий Викторович": 50,
-      "Ледков Александр Владимирович": 13,
-      "Миронов Павел Васильевич": 125,
-      "Сафьянов Виктор Владимирович": 79,
-      "Фролов Александр Васильевич": 33,
-      "Ханенко Дмитрий Борисович": 72
+      "gas:candidate-vibid:4644035227992": 187,
+      "gas:candidate-vibid:4644035228365": 603,
+      "gas:candidate-vibid:4644035227535": 160,
+      "gas:candidate-vibid:4644035252744": 50,
+      "gas:candidate-vibid:4644035228712": 13,
+      "gas:candidate-vibid:4644035228237": 125,
+      "gas:candidate-vibid:4644035228622": 79,
+      "gas:candidate-vibid:4644035228693": 33,
+      "gas:candidate-vibid:4644035228608": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135250&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135250&type=464",
@@ -13731,15 +13731,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 329,
-      "Грищенко Олег Васильевич": 520,
-      "Ищенко Антон Анатольевич": 204,
-      "Коннычев Дмитрий Викторович": 16,
-      "Ледков Александр Владимирович": 5,
-      "Миронов Павел Васильевич": 122,
-      "Сафьянов Виктор Владимирович": 25,
-      "Фролов Александр Васильевич": 3,
-      "Ханенко Дмитрий Борисович": 8
+      "gas:candidate-vibid:4644035227992": 329,
+      "gas:candidate-vibid:4644035228365": 520,
+      "gas:candidate-vibid:4644035227535": 204,
+      "gas:candidate-vibid:4644035252744": 16,
+      "gas:candidate-vibid:4644035228712": 5,
+      "gas:candidate-vibid:4644035228237": 122,
+      "gas:candidate-vibid:4644035228622": 25,
+      "gas:candidate-vibid:4644035228693": 3,
+      "gas:candidate-vibid:4644035228608": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135250&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135250&type=464",
@@ -13790,15 +13790,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 205,
-      "Грищенко Олег Васильевич": 670,
-      "Ищенко Антон Анатольевич": 177,
-      "Коннычев Дмитрий Викторович": 56,
-      "Ледков Александр Владимирович": 15,
-      "Миронов Павел Васильевич": 139,
-      "Сафьянов Виктор Владимирович": 88,
-      "Фролов Александр Васильевич": 37,
-      "Ханенко Дмитрий Борисович": 81
+      "gas:candidate-vibid:4644035227992": 205,
+      "gas:candidate-vibid:4644035228365": 670,
+      "gas:candidate-vibid:4644035227535": 177,
+      "gas:candidate-vibid:4644035252744": 56,
+      "gas:candidate-vibid:4644035228712": 15,
+      "gas:candidate-vibid:4644035228237": 139,
+      "gas:candidate-vibid:4644035228622": 88,
+      "gas:candidate-vibid:4644035228693": 37,
+      "gas:candidate-vibid:4644035228608": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135250&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135250&type=464",
@@ -13849,15 +13849,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 83,
-      "Грищенко Олег Васильевич": 301,
-      "Ищенко Антон Анатольевич": 72,
-      "Коннычев Дмитрий Викторович": 22,
-      "Ледков Александр Владимирович": 6,
-      "Миронов Павел Васильевич": 56,
-      "Сафьянов Виктор Владимирович": 37,
-      "Фролов Александр Васильевич": 14,
-      "Ханенко Дмитрий Борисович": 33
+      "gas:candidate-vibid:4644035227992": 83,
+      "gas:candidate-vibid:4644035228365": 301,
+      "gas:candidate-vibid:4644035227535": 72,
+      "gas:candidate-vibid:4644035252744": 22,
+      "gas:candidate-vibid:4644035228712": 6,
+      "gas:candidate-vibid:4644035228237": 56,
+      "gas:candidate-vibid:4644035228622": 37,
+      "gas:candidate-vibid:4644035228693": 14,
+      "gas:candidate-vibid:4644035228608": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135250&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135250&type=464",
@@ -13908,15 +13908,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 175,
-      "Грищенко Олег Васильевич": 388,
-      "Ищенко Антон Анатольевич": 138,
-      "Коннычев Дмитрий Викторович": 44,
-      "Ледков Александр Владимирович": 11,
-      "Миронов Павел Васильевич": 106,
-      "Сафьянов Виктор Владимирович": 69,
-      "Фролов Александр Васильевич": 28,
-      "Ханенко Дмитрий Борисович": 63
+      "gas:candidate-vibid:4644035227992": 175,
+      "gas:candidate-vibid:4644035228365": 388,
+      "gas:candidate-vibid:4644035227535": 138,
+      "gas:candidate-vibid:4644035252744": 44,
+      "gas:candidate-vibid:4644035228712": 11,
+      "gas:candidate-vibid:4644035228237": 106,
+      "gas:candidate-vibid:4644035228622": 69,
+      "gas:candidate-vibid:4644035228693": 28,
+      "gas:candidate-vibid:4644035228608": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135250&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135250&type=464",
@@ -13967,15 +13967,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 57,
-      "Грищенко Олег Васильевич": 273,
-      "Ищенко Антон Анатольевич": 39,
-      "Коннычев Дмитрий Викторович": 9,
-      "Ледков Александр Владимирович": 7,
-      "Миронов Павел Васильевич": 46,
-      "Сафьянов Виктор Владимирович": 18,
-      "Фролов Александр Васильевич": 17,
-      "Ханенко Дмитрий Борисович": 8
+      "gas:candidate-vibid:4644035227992": 57,
+      "gas:candidate-vibid:4644035228365": 273,
+      "gas:candidate-vibid:4644035227535": 39,
+      "gas:candidate-vibid:4644035252744": 9,
+      "gas:candidate-vibid:4644035228712": 7,
+      "gas:candidate-vibid:4644035228237": 46,
+      "gas:candidate-vibid:4644035228622": 18,
+      "gas:candidate-vibid:4644035228693": 17,
+      "gas:candidate-vibid:4644035228608": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135251&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135251&type=464",
@@ -14026,15 +14026,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 6,
-      "Грищенко Олег Васильевич": 41,
-      "Ищенко Антон Анатольевич": 6,
-      "Коннычев Дмитрий Викторович": 0,
-      "Ледков Александр Владимирович": 2,
-      "Миронов Павел Васильевич": 3,
-      "Сафьянов Виктор Владимирович": 3,
-      "Фролов Александр Васильевич": 2,
-      "Ханенко Дмитрий Борисович": 3
+      "gas:candidate-vibid:4644035227992": 6,
+      "gas:candidate-vibid:4644035228365": 41,
+      "gas:candidate-vibid:4644035227535": 6,
+      "gas:candidate-vibid:4644035252744": 0,
+      "gas:candidate-vibid:4644035228712": 2,
+      "gas:candidate-vibid:4644035228237": 3,
+      "gas:candidate-vibid:4644035228622": 3,
+      "gas:candidate-vibid:4644035228693": 2,
+      "gas:candidate-vibid:4644035228608": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135251&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135251&type=464",
@@ -14085,15 +14085,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 45,
-      "Грищенко Олег Васильевич": 208,
-      "Ищенко Антон Анатольевич": 54,
-      "Коннычев Дмитрий Викторович": 10,
-      "Ледков Александр Владимирович": 11,
-      "Миронов Павел Васильевич": 35,
-      "Сафьянов Виктор Владимирович": 18,
-      "Фролов Александр Васильевич": 12,
-      "Ханенко Дмитрий Борисович": 4
+      "gas:candidate-vibid:4644035227992": 45,
+      "gas:candidate-vibid:4644035228365": 208,
+      "gas:candidate-vibid:4644035227535": 54,
+      "gas:candidate-vibid:4644035252744": 10,
+      "gas:candidate-vibid:4644035228712": 11,
+      "gas:candidate-vibid:4644035228237": 35,
+      "gas:candidate-vibid:4644035228622": 18,
+      "gas:candidate-vibid:4644035228693": 12,
+      "gas:candidate-vibid:4644035228608": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135251&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135251&type=464",
@@ -14144,15 +14144,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 62,
-      "Грищенко Олег Васильевич": 390,
-      "Ищенко Антон Анатольевич": 66,
-      "Коннычев Дмитрий Викторович": 3,
-      "Ледков Александр Владимирович": 5,
-      "Миронов Павел Васильевич": 27,
-      "Сафьянов Виктор Владимирович": 9,
-      "Фролов Александр Васильевич": 7,
-      "Ханенко Дмитрий Борисович": 4
+      "gas:candidate-vibid:4644035227992": 62,
+      "gas:candidate-vibid:4644035228365": 390,
+      "gas:candidate-vibid:4644035227535": 66,
+      "gas:candidate-vibid:4644035252744": 3,
+      "gas:candidate-vibid:4644035228712": 5,
+      "gas:candidate-vibid:4644035228237": 27,
+      "gas:candidate-vibid:4644035228622": 9,
+      "gas:candidate-vibid:4644035228693": 7,
+      "gas:candidate-vibid:4644035228608": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135251&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135251&type=464",
@@ -14203,15 +14203,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 42,
-      "Грищенко Олег Васильевич": 464,
-      "Ищенко Антон Анатольевич": 69,
-      "Коннычев Дмитрий Викторович": 13,
-      "Ледков Александр Владимирович": 8,
-      "Миронов Павел Васильевич": 43,
-      "Сафьянов Виктор Владимирович": 34,
-      "Фролов Александр Васильевич": 2,
-      "Ханенко Дмитрий Борисович": 4
+      "gas:candidate-vibid:4644035227992": 42,
+      "gas:candidate-vibid:4644035228365": 464,
+      "gas:candidate-vibid:4644035227535": 69,
+      "gas:candidate-vibid:4644035252744": 13,
+      "gas:candidate-vibid:4644035228712": 8,
+      "gas:candidate-vibid:4644035228237": 43,
+      "gas:candidate-vibid:4644035228622": 34,
+      "gas:candidate-vibid:4644035228693": 2,
+      "gas:candidate-vibid:4644035228608": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135251&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135251&type=464",
@@ -14262,15 +14262,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 60,
-      "Грищенко Олег Васильевич": 226,
-      "Ищенко Антон Анатольевич": 68,
-      "Коннычев Дмитрий Викторович": 11,
-      "Ледков Александр Владимирович": 3,
-      "Миронов Павел Васильевич": 60,
-      "Сафьянов Виктор Владимирович": 13,
-      "Фролов Александр Васильевич": 8,
-      "Ханенко Дмитрий Борисович": 3
+      "gas:candidate-vibid:4644035227992": 60,
+      "gas:candidate-vibid:4644035228365": 226,
+      "gas:candidate-vibid:4644035227535": 68,
+      "gas:candidate-vibid:4644035252744": 11,
+      "gas:candidate-vibid:4644035228712": 3,
+      "gas:candidate-vibid:4644035228237": 60,
+      "gas:candidate-vibid:4644035228622": 13,
+      "gas:candidate-vibid:4644035228693": 8,
+      "gas:candidate-vibid:4644035228608": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135251&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135251&type=464",
@@ -14321,15 +14321,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 73,
-      "Грищенко Олег Васильевич": 298,
-      "Ищенко Антон Анатольевич": 62,
-      "Коннычев Дмитрий Викторович": 4,
-      "Ледков Александр Владимирович": 4,
-      "Миронов Павел Васильевич": 47,
-      "Сафьянов Виктор Владимирович": 17,
-      "Фролов Александр Васильевич": 8,
-      "Ханенко Дмитрий Борисович": 4
+      "gas:candidate-vibid:4644035227992": 73,
+      "gas:candidate-vibid:4644035228365": 298,
+      "gas:candidate-vibid:4644035227535": 62,
+      "gas:candidate-vibid:4644035252744": 4,
+      "gas:candidate-vibid:4644035228712": 4,
+      "gas:candidate-vibid:4644035228237": 47,
+      "gas:candidate-vibid:4644035228622": 17,
+      "gas:candidate-vibid:4644035228693": 8,
+      "gas:candidate-vibid:4644035228608": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135251&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135251&type=464",
@@ -14380,15 +14380,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 81,
-      "Грищенко Олег Васильевич": 293,
-      "Ищенко Антон Анатольевич": 74,
-      "Коннычев Дмитрий Викторович": 12,
-      "Ледков Александр Владимирович": 4,
-      "Миронов Павел Васильевич": 63,
-      "Сафьянов Виктор Владимирович": 12,
-      "Фролов Александр Васильевич": 11,
-      "Ханенко Дмитрий Борисович": 13
+      "gas:candidate-vibid:4644035227992": 81,
+      "gas:candidate-vibid:4644035228365": 293,
+      "gas:candidate-vibid:4644035227535": 74,
+      "gas:candidate-vibid:4644035252744": 12,
+      "gas:candidate-vibid:4644035228712": 4,
+      "gas:candidate-vibid:4644035228237": 63,
+      "gas:candidate-vibid:4644035228622": 12,
+      "gas:candidate-vibid:4644035228693": 11,
+      "gas:candidate-vibid:4644035228608": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135251&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135251&type=464",
@@ -14439,15 +14439,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 43,
-      "Грищенко Олег Васильевич": 119,
-      "Ищенко Антон Анатольевич": 29,
-      "Коннычев Дмитрий Викторович": 3,
-      "Ледков Александр Владимирович": 2,
-      "Миронов Павел Васильевич": 23,
-      "Сафьянов Виктор Владимирович": 6,
-      "Фролов Александр Васильевич": 2,
-      "Ханенко Дмитрий Борисович": 2
+      "gas:candidate-vibid:4644035227992": 43,
+      "gas:candidate-vibid:4644035228365": 119,
+      "gas:candidate-vibid:4644035227535": 29,
+      "gas:candidate-vibid:4644035252744": 3,
+      "gas:candidate-vibid:4644035228712": 2,
+      "gas:candidate-vibid:4644035228237": 23,
+      "gas:candidate-vibid:4644035228622": 6,
+      "gas:candidate-vibid:4644035228693": 2,
+      "gas:candidate-vibid:4644035228608": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135251&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135251&type=464",
@@ -14498,15 +14498,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 42,
-      "Грищенко Олег Васильевич": 337,
-      "Ищенко Антон Анатольевич": 35,
-      "Коннычев Дмитрий Викторович": 8,
-      "Ледков Александр Владимирович": 1,
-      "Миронов Павел Васильевич": 18,
-      "Сафьянов Виктор Владимирович": 10,
-      "Фролов Александр Васильевич": 4,
-      "Ханенко Дмитрий Борисович": 5
+      "gas:candidate-vibid:4644035227992": 42,
+      "gas:candidate-vibid:4644035228365": 337,
+      "gas:candidate-vibid:4644035227535": 35,
+      "gas:candidate-vibid:4644035252744": 8,
+      "gas:candidate-vibid:4644035228712": 1,
+      "gas:candidate-vibid:4644035228237": 18,
+      "gas:candidate-vibid:4644035228622": 10,
+      "gas:candidate-vibid:4644035228693": 4,
+      "gas:candidate-vibid:4644035228608": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135251&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135251&type=464",
@@ -14557,15 +14557,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 119,
-      "Грищенко Олег Васильевич": 449,
-      "Ищенко Антон Анатольевич": 58,
-      "Коннычев Дмитрий Викторович": 10,
-      "Ледков Александр Владимирович": 9,
-      "Миронов Павел Васильевич": 35,
-      "Сафьянов Виктор Владимирович": 11,
-      "Фролов Александр Васильевич": 11,
-      "Ханенко Дмитрий Борисович": 9
+      "gas:candidate-vibid:4644035227992": 119,
+      "gas:candidate-vibid:4644035228365": 449,
+      "gas:candidate-vibid:4644035227535": 58,
+      "gas:candidate-vibid:4644035252744": 10,
+      "gas:candidate-vibid:4644035228712": 9,
+      "gas:candidate-vibid:4644035228237": 35,
+      "gas:candidate-vibid:4644035228622": 11,
+      "gas:candidate-vibid:4644035228693": 11,
+      "gas:candidate-vibid:4644035228608": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135251&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135251&type=464",
@@ -14616,15 +14616,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 117,
-      "Грищенко Олег Васильевич": 564,
-      "Ищенко Антон Анатольевич": 61,
-      "Коннычев Дмитрий Викторович": 8,
-      "Ледков Александр Владимирович": 2,
-      "Миронов Павел Васильевич": 49,
-      "Сафьянов Виктор Владимирович": 19,
-      "Фролов Александр Васильевич": 9,
-      "Ханенко Дмитрий Борисович": 9
+      "gas:candidate-vibid:4644035227992": 117,
+      "gas:candidate-vibid:4644035228365": 564,
+      "gas:candidate-vibid:4644035227535": 61,
+      "gas:candidate-vibid:4644035252744": 8,
+      "gas:candidate-vibid:4644035228712": 2,
+      "gas:candidate-vibid:4644035228237": 49,
+      "gas:candidate-vibid:4644035228622": 19,
+      "gas:candidate-vibid:4644035228693": 9,
+      "gas:candidate-vibid:4644035228608": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135251&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135251&type=464",
@@ -14675,15 +14675,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 95,
-      "Грищенко Олег Васильевич": 173,
-      "Ищенко Антон Анатольевич": 28,
-      "Коннычев Дмитрий Викторович": 7,
-      "Ледков Александр Владимирович": 3,
-      "Миронов Павел Васильевич": 30,
-      "Сафьянов Виктор Владимирович": 10,
-      "Фролов Александр Васильевич": 7,
-      "Ханенко Дмитрий Борисович": 3
+      "gas:candidate-vibid:4644035227992": 95,
+      "gas:candidate-vibid:4644035228365": 173,
+      "gas:candidate-vibid:4644035227535": 28,
+      "gas:candidate-vibid:4644035252744": 7,
+      "gas:candidate-vibid:4644035228712": 3,
+      "gas:candidate-vibid:4644035228237": 30,
+      "gas:candidate-vibid:4644035228622": 10,
+      "gas:candidate-vibid:4644035228693": 7,
+      "gas:candidate-vibid:4644035228608": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135251&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135251&type=464",
@@ -14734,15 +14734,15 @@ export const duma_2016_uik_463_region_64_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 173,
-      "Грищенко Олег Васильевич": 412,
-      "Ищенко Антон Анатольевич": 52,
-      "Коннычев Дмитрий Викторович": 3,
-      "Ледков Александр Владимирович": 4,
-      "Миронов Павел Васильевич": 43,
-      "Сафьянов Виктор Владимирович": 13,
-      "Фролов Александр Васильевич": 10,
-      "Ханенко Дмитрий Борисович": 8
+      "gas:candidate-vibid:4644035227992": 173,
+      "gas:candidate-vibid:4644035228365": 412,
+      "gas:candidate-vibid:4644035227535": 52,
+      "gas:candidate-vibid:4644035252744": 3,
+      "gas:candidate-vibid:4644035228712": 4,
+      "gas:candidate-vibid:4644035228237": 43,
+      "gas:candidate-vibid:4644035228622": 13,
+      "gas:candidate-vibid:4644035228693": 10,
+      "gas:candidate-vibid:4644035228608": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135251&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135251&type=464",

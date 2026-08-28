@@ -42,14 +42,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 5,
-      "Денисенко Галина Алексеевна": 18,
-      "Земцова Маргарита Ивановна": 64,
-      "Меркачев Владимир Васильевич": 58,
-      "Ракуленко Андрей Георгиевич": 5,
-      "Харченко Иван Николаевич": 346,
-      "Шаплов Анатолий Анатольевич": 82,
-      "Против всех": 122
+      "gas:candidate-vibid:323300470746": 5,
+      "gas:candidate-vibid:1001000195048": 18,
+      "gas:candidate-vibid:1001000136019": 64,
+      "gas:candidate-vibid:1001000121816": 58,
+      "gas:candidate-vibid:1001000112194": 5,
+      "gas:candidate-vibid:1001000187995": 346,
+      "gas:candidate-vibid:323300470775": 82,
+      "special:against-all": 122
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000035&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070398&region=0&sub_region=0&type=429",
@@ -99,14 +99,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 4,
-      "Денисенко Галина Алексеевна": 30,
-      "Земцова Маргарита Ивановна": 51,
-      "Меркачев Владимир Васильевич": 82,
-      "Ракуленко Андрей Георгиевич": 17,
-      "Харченко Иван Николаевич": 252,
-      "Шаплов Анатолий Анатольевич": 61,
-      "Против всех": 53
+      "gas:candidate-vibid:323300470746": 4,
+      "gas:candidate-vibid:1001000195048": 30,
+      "gas:candidate-vibid:1001000136019": 51,
+      "gas:candidate-vibid:1001000121816": 82,
+      "gas:candidate-vibid:1001000112194": 17,
+      "gas:candidate-vibid:1001000187995": 252,
+      "gas:candidate-vibid:323300470775": 61,
+      "special:against-all": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000035&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070398&region=0&sub_region=0&type=429",
@@ -156,14 +156,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 22,
-      "Денисенко Галина Алексеевна": 35,
-      "Земцова Маргарита Ивановна": 61,
-      "Меркачев Владимир Васильевич": 161,
-      "Ракуленко Андрей Георгиевич": 34,
-      "Харченко Иван Николаевич": 642,
-      "Шаплов Анатолий Анатольевич": 153,
-      "Против всех": 184
+      "gas:candidate-vibid:323300470746": 22,
+      "gas:candidate-vibid:1001000195048": 35,
+      "gas:candidate-vibid:1001000136019": 61,
+      "gas:candidate-vibid:1001000121816": 161,
+      "gas:candidate-vibid:1001000112194": 34,
+      "gas:candidate-vibid:1001000187995": 642,
+      "gas:candidate-vibid:323300470775": 153,
+      "special:against-all": 184
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000035&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070398&region=0&sub_region=0&type=429",
@@ -213,14 +213,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 1,
-      "Денисенко Галина Алексеевна": 41,
-      "Земцова Маргарита Ивановна": 54,
-      "Меркачев Владимир Васильевич": 110,
-      "Ракуленко Андрей Георгиевич": 33,
-      "Харченко Иван Николаевич": 485,
-      "Шаплов Анатолий Анатольевич": 87,
-      "Против всех": 99
+      "gas:candidate-vibid:323300470746": 1,
+      "gas:candidate-vibid:1001000195048": 41,
+      "gas:candidate-vibid:1001000136019": 54,
+      "gas:candidate-vibid:1001000121816": 110,
+      "gas:candidate-vibid:1001000112194": 33,
+      "gas:candidate-vibid:1001000187995": 485,
+      "gas:candidate-vibid:323300470775": 87,
+      "special:against-all": 99
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000035&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070398&region=0&sub_region=0&type=429",
@@ -270,14 +270,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 10,
-      "Денисенко Галина Алексеевна": 24,
-      "Земцова Маргарита Ивановна": 71,
-      "Меркачев Владимир Васильевич": 141,
-      "Ракуленко Андрей Георгиевич": 24,
-      "Харченко Иван Николаевич": 467,
-      "Шаплов Анатолий Анатольевич": 73,
-      "Против всех": 143
+      "gas:candidate-vibid:323300470746": 10,
+      "gas:candidate-vibid:1001000195048": 24,
+      "gas:candidate-vibid:1001000136019": 71,
+      "gas:candidate-vibid:1001000121816": 141,
+      "gas:candidate-vibid:1001000112194": 24,
+      "gas:candidate-vibid:1001000187995": 467,
+      "gas:candidate-vibid:323300470775": 73,
+      "special:against-all": 143
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000035&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070398&region=0&sub_region=0&type=429",
@@ -327,14 +327,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 4,
-      "Денисенко Галина Алексеевна": 22,
-      "Земцова Маргарита Ивановна": 41,
-      "Меркачев Владимир Васильевич": 84,
-      "Ракуленко Андрей Георгиевич": 18,
-      "Харченко Иван Николаевич": 371,
-      "Шаплов Анатолий Анатольевич": 61,
-      "Против всех": 113
+      "gas:candidate-vibid:323300470746": 4,
+      "gas:candidate-vibid:1001000195048": 22,
+      "gas:candidate-vibid:1001000136019": 41,
+      "gas:candidate-vibid:1001000121816": 84,
+      "gas:candidate-vibid:1001000112194": 18,
+      "gas:candidate-vibid:1001000187995": 371,
+      "gas:candidate-vibid:323300470775": 61,
+      "special:against-all": 113
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000035&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070398&region=0&sub_region=0&type=429",
@@ -384,14 +384,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 6,
-      "Денисенко Галина Алексеевна": 23,
-      "Земцова Маргарита Ивановна": 29,
-      "Меркачев Владимир Васильевич": 77,
-      "Ракуленко Андрей Георгиевич": 20,
-      "Харченко Иван Николаевич": 267,
-      "Шаплов Анатолий Анатольевич": 72,
-      "Против всех": 68
+      "gas:candidate-vibid:323300470746": 6,
+      "gas:candidate-vibid:1001000195048": 23,
+      "gas:candidate-vibid:1001000136019": 29,
+      "gas:candidate-vibid:1001000121816": 77,
+      "gas:candidate-vibid:1001000112194": 20,
+      "gas:candidate-vibid:1001000187995": 267,
+      "gas:candidate-vibid:323300470775": 72,
+      "special:against-all": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000035&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070398&region=0&sub_region=0&type=429",
@@ -441,14 +441,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 11,
-      "Денисенко Галина Алексеевна": 60,
-      "Земцова Маргарита Ивановна": 108,
-      "Меркачев Владимир Васильевич": 104,
-      "Ракуленко Андрей Георгиевич": 39,
-      "Харченко Иван Николаевич": 496,
-      "Шаплов Анатолий Анатольевич": 166,
-      "Против всех": 166
+      "gas:candidate-vibid:323300470746": 11,
+      "gas:candidate-vibid:1001000195048": 60,
+      "gas:candidate-vibid:1001000136019": 108,
+      "gas:candidate-vibid:1001000121816": 104,
+      "gas:candidate-vibid:1001000112194": 39,
+      "gas:candidate-vibid:1001000187995": 496,
+      "gas:candidate-vibid:323300470775": 166,
+      "special:against-all": 166
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000035&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070398&region=0&sub_region=0&type=429",
@@ -498,14 +498,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 8,
-      "Денисенко Галина Алексеевна": 22,
-      "Земцова Маргарита Ивановна": 21,
-      "Меркачев Владимир Васильевич": 102,
-      "Ракуленко Андрей Георгиевич": 21,
-      "Харченко Иван Николаевич": 255,
-      "Шаплов Анатолий Анатольевич": 38,
-      "Против всех": 81
+      "gas:candidate-vibid:323300470746": 8,
+      "gas:candidate-vibid:1001000195048": 22,
+      "gas:candidate-vibid:1001000136019": 21,
+      "gas:candidate-vibid:1001000121816": 102,
+      "gas:candidate-vibid:1001000112194": 21,
+      "gas:candidate-vibid:1001000187995": 255,
+      "gas:candidate-vibid:323300470775": 38,
+      "special:against-all": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000035&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070398&region=0&sub_region=0&type=429",
@@ -555,14 +555,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 9,
-      "Денисенко Галина Алексеевна": 60,
-      "Земцова Маргарита Ивановна": 69,
-      "Меркачев Владимир Васильевич": 197,
-      "Ракуленко Андрей Георгиевич": 26,
-      "Харченко Иван Николаевич": 619,
-      "Шаплов Анатолий Анатольевич": 126,
-      "Против всех": 181
+      "gas:candidate-vibid:323300470746": 9,
+      "gas:candidate-vibid:1001000195048": 60,
+      "gas:candidate-vibid:1001000136019": 69,
+      "gas:candidate-vibid:1001000121816": 197,
+      "gas:candidate-vibid:1001000112194": 26,
+      "gas:candidate-vibid:1001000187995": 619,
+      "gas:candidate-vibid:323300470775": 126,
+      "special:against-all": 181
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000035&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070398&region=0&sub_region=0&type=429",
@@ -612,14 +612,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 10,
-      "Денисенко Галина Алексеевна": 46,
-      "Земцова Маргарита Ивановна": 51,
-      "Меркачев Владимир Васильевич": 106,
-      "Ракуленко Андрей Георгиевич": 47,
-      "Харченко Иван Николаевич": 620,
-      "Шаплов Анатолий Анатольевич": 79,
-      "Против всех": 185
+      "gas:candidate-vibid:323300470746": 10,
+      "gas:candidate-vibid:1001000195048": 46,
+      "gas:candidate-vibid:1001000136019": 51,
+      "gas:candidate-vibid:1001000121816": 106,
+      "gas:candidate-vibid:1001000112194": 47,
+      "gas:candidate-vibid:1001000187995": 620,
+      "gas:candidate-vibid:323300470775": 79,
+      "special:against-all": 185
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000035&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070398&region=0&sub_region=0&type=429",
@@ -669,14 +669,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 12,
-      "Денисенко Галина Алексеевна": 48,
-      "Земцова Маргарита Ивановна": 36,
-      "Меркачев Владимир Васильевич": 80,
-      "Ракуленко Андрей Георгиевич": 43,
-      "Харченко Иван Николаевич": 492,
-      "Шаплов Анатолий Анатольевич": 60,
-      "Против всех": 97
+      "gas:candidate-vibid:323300470746": 12,
+      "gas:candidate-vibid:1001000195048": 48,
+      "gas:candidate-vibid:1001000136019": 36,
+      "gas:candidate-vibid:1001000121816": 80,
+      "gas:candidate-vibid:1001000112194": 43,
+      "gas:candidate-vibid:1001000187995": 492,
+      "gas:candidate-vibid:323300470775": 60,
+      "special:against-all": 97
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000035&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070398&region=0&sub_region=0&type=429",
@@ -726,14 +726,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 10,
-      "Денисенко Галина Алексеевна": 39,
-      "Земцова Маргарита Ивановна": 44,
-      "Меркачев Владимир Васильевич": 91,
-      "Ракуленко Андрей Георгиевич": 26,
-      "Харченко Иван Николаевич": 463,
-      "Шаплов Анатолий Анатольевич": 122,
-      "Против всех": 88
+      "gas:candidate-vibid:323300470746": 10,
+      "gas:candidate-vibid:1001000195048": 39,
+      "gas:candidate-vibid:1001000136019": 44,
+      "gas:candidate-vibid:1001000121816": 91,
+      "gas:candidate-vibid:1001000112194": 26,
+      "gas:candidate-vibid:1001000187995": 463,
+      "gas:candidate-vibid:323300470775": 122,
+      "special:against-all": 88
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000035&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070398&region=0&sub_region=0&type=429",
@@ -783,14 +783,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 10,
-      "Денисенко Галина Алексеевна": 31,
-      "Земцова Маргарита Ивановна": 57,
-      "Меркачев Владимир Васильевич": 42,
-      "Ракуленко Андрей Георгиевич": 30,
-      "Харченко Иван Николаевич": 313,
-      "Шаплов Анатолий Анатольевич": 84,
-      "Против всех": 104
+      "gas:candidate-vibid:323300470746": 10,
+      "gas:candidate-vibid:1001000195048": 31,
+      "gas:candidate-vibid:1001000136019": 57,
+      "gas:candidate-vibid:1001000121816": 42,
+      "gas:candidate-vibid:1001000112194": 30,
+      "gas:candidate-vibid:1001000187995": 313,
+      "gas:candidate-vibid:323300470775": 84,
+      "special:against-all": 104
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000035&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070398&region=0&sub_region=0&type=429",
@@ -840,14 +840,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 22,
-      "Денисенко Галина Алексеевна": 58,
-      "Земцова Маргарита Ивановна": 95,
-      "Меркачев Владимир Васильевич": 102,
-      "Ракуленко Андрей Георгиевич": 41,
-      "Харченко Иван Николаевич": 507,
-      "Шаплов Анатолий Анатольевич": 161,
-      "Против всех": 194
+      "gas:candidate-vibid:323300470746": 22,
+      "gas:candidate-vibid:1001000195048": 58,
+      "gas:candidate-vibid:1001000136019": 95,
+      "gas:candidate-vibid:1001000121816": 102,
+      "gas:candidate-vibid:1001000112194": 41,
+      "gas:candidate-vibid:1001000187995": 507,
+      "gas:candidate-vibid:323300470775": 161,
+      "special:against-all": 194
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000035&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070398&region=0&sub_region=0&type=429",
@@ -897,14 +897,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 5,
-      "Денисенко Галина Алексеевна": 34,
-      "Земцова Маргарита Ивановна": 44,
-      "Меркачев Владимир Васильевич": 127,
-      "Ракуленко Андрей Георгиевич": 16,
-      "Харченко Иван Николаевич": 312,
-      "Шаплов Анатолий Анатольевич": 73,
-      "Против всех": 133
+      "gas:candidate-vibid:323300470746": 5,
+      "gas:candidate-vibid:1001000195048": 34,
+      "gas:candidate-vibid:1001000136019": 44,
+      "gas:candidate-vibid:1001000121816": 127,
+      "gas:candidate-vibid:1001000112194": 16,
+      "gas:candidate-vibid:1001000187995": 312,
+      "gas:candidate-vibid:323300470775": 73,
+      "special:against-all": 133
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000035&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070398&region=0&sub_region=0&type=429",
@@ -954,14 +954,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 6,
-      "Денисенко Галина Алексеевна": 46,
-      "Земцова Маргарита Ивановна": 78,
-      "Меркачев Владимир Васильевич": 135,
-      "Ракуленко Андрей Георгиевич": 35,
-      "Харченко Иван Николаевич": 597,
-      "Шаплов Анатолий Анатольевич": 116,
-      "Против всех": 119
+      "gas:candidate-vibid:323300470746": 6,
+      "gas:candidate-vibid:1001000195048": 46,
+      "gas:candidate-vibid:1001000136019": 78,
+      "gas:candidate-vibid:1001000121816": 135,
+      "gas:candidate-vibid:1001000112194": 35,
+      "gas:candidate-vibid:1001000187995": 597,
+      "gas:candidate-vibid:323300470775": 116,
+      "special:against-all": 119
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000035&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070398&region=0&sub_region=0&type=429",
@@ -1011,14 +1011,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 12,
-      "Денисенко Галина Алексеевна": 73,
-      "Земцова Маргарита Ивановна": 71,
-      "Меркачев Владимир Васильевич": 138,
-      "Ракуленко Андрей Георгиевич": 56,
-      "Харченко Иван Николаевич": 511,
-      "Шаплов Анатолий Анатольевич": 104,
-      "Против всех": 138
+      "gas:candidate-vibid:323300470746": 12,
+      "gas:candidate-vibid:1001000195048": 73,
+      "gas:candidate-vibid:1001000136019": 71,
+      "gas:candidate-vibid:1001000121816": 138,
+      "gas:candidate-vibid:1001000112194": 56,
+      "gas:candidate-vibid:1001000187995": 511,
+      "gas:candidate-vibid:323300470775": 104,
+      "special:against-all": 138
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000035&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070398&region=0&sub_region=0&type=429",
@@ -1068,14 +1068,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 13,
-      "Денисенко Галина Алексеевна": 27,
-      "Земцова Маргарита Ивановна": 55,
-      "Меркачев Владимир Васильевич": 96,
-      "Ракуленко Андрей Георгиевич": 13,
-      "Харченко Иван Николаевич": 464,
-      "Шаплов Анатолий Анатольевич": 67,
-      "Против всех": 100
+      "gas:candidate-vibid:323300470746": 13,
+      "gas:candidate-vibid:1001000195048": 27,
+      "gas:candidate-vibid:1001000136019": 55,
+      "gas:candidate-vibid:1001000121816": 96,
+      "gas:candidate-vibid:1001000112194": 13,
+      "gas:candidate-vibid:1001000187995": 464,
+      "gas:candidate-vibid:323300470775": 67,
+      "special:against-all": 100
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000035&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070398&region=0&sub_region=0&type=429",
@@ -1125,14 +1125,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 9,
-      "Денисенко Галина Алексеевна": 52,
-      "Земцова Маргарита Ивановна": 58,
-      "Меркачев Владимир Васильевич": 122,
-      "Ракуленко Андрей Георгиевич": 25,
-      "Харченко Иван Николаевич": 426,
-      "Шаплов Анатолий Анатольевич": 98,
-      "Против всех": 98
+      "gas:candidate-vibid:323300470746": 9,
+      "gas:candidate-vibid:1001000195048": 52,
+      "gas:candidate-vibid:1001000136019": 58,
+      "gas:candidate-vibid:1001000121816": 122,
+      "gas:candidate-vibid:1001000112194": 25,
+      "gas:candidate-vibid:1001000187995": 426,
+      "gas:candidate-vibid:323300470775": 98,
+      "special:against-all": 98
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000035&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070398&region=0&sub_region=0&type=429",
@@ -1182,14 +1182,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 10,
-      "Денисенко Галина Алексеевна": 33,
-      "Земцова Маргарита Ивановна": 47,
-      "Меркачев Владимир Васильевич": 62,
-      "Ракуленко Андрей Георгиевич": 21,
-      "Харченко Иван Николаевич": 350,
-      "Шаплов Анатолий Анатольевич": 62,
-      "Против всех": 98
+      "gas:candidate-vibid:323300470746": 10,
+      "gas:candidate-vibid:1001000195048": 33,
+      "gas:candidate-vibid:1001000136019": 47,
+      "gas:candidate-vibid:1001000121816": 62,
+      "gas:candidate-vibid:1001000112194": 21,
+      "gas:candidate-vibid:1001000187995": 350,
+      "gas:candidate-vibid:323300470775": 62,
+      "special:against-all": 98
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000035&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070398&region=0&sub_region=0&type=429",
@@ -1239,14 +1239,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 14,
-      "Денисенко Галина Алексеевна": 54,
-      "Земцова Маргарита Ивановна": 67,
-      "Меркачев Владимир Васильевич": 120,
-      "Ракуленко Андрей Георгиевич": 49,
-      "Харченко Иван Николаевич": 712,
-      "Шаплов Анатолий Анатольевич": 107,
-      "Против всех": 148
+      "gas:candidate-vibid:323300470746": 14,
+      "gas:candidate-vibid:1001000195048": 54,
+      "gas:candidate-vibid:1001000136019": 67,
+      "gas:candidate-vibid:1001000121816": 120,
+      "gas:candidate-vibid:1001000112194": 49,
+      "gas:candidate-vibid:1001000187995": 712,
+      "gas:candidate-vibid:323300470775": 107,
+      "special:against-all": 148
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000035&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070398&region=0&sub_region=0&type=429",
@@ -1296,14 +1296,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 13,
-      "Денисенко Галина Алексеевна": 22,
-      "Земцова Маргарита Ивановна": 27,
-      "Меркачев Владимир Васильевич": 71,
-      "Ракуленко Андрей Георгиевич": 23,
-      "Харченко Иван Николаевич": 356,
-      "Шаплов Анатолий Анатольевич": 36,
-      "Против всех": 142
+      "gas:candidate-vibid:323300470746": 13,
+      "gas:candidate-vibid:1001000195048": 22,
+      "gas:candidate-vibid:1001000136019": 27,
+      "gas:candidate-vibid:1001000121816": 71,
+      "gas:candidate-vibid:1001000112194": 23,
+      "gas:candidate-vibid:1001000187995": 356,
+      "gas:candidate-vibid:323300470775": 36,
+      "special:against-all": 142
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000035&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070398&region=0&sub_region=0&type=429",
@@ -1353,14 +1353,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 3,
-      "Денисенко Галина Алексеевна": 34,
-      "Земцова Маргарита Ивановна": 55,
-      "Меркачев Владимир Васильевич": 51,
-      "Ракуленко Андрей Георгиевич": 19,
-      "Харченко Иван Николаевич": 248,
-      "Шаплов Анатолий Анатольевич": 39,
-      "Против всех": 109
+      "gas:candidate-vibid:323300470746": 3,
+      "gas:candidate-vibid:1001000195048": 34,
+      "gas:candidate-vibid:1001000136019": 55,
+      "gas:candidate-vibid:1001000121816": 51,
+      "gas:candidate-vibid:1001000112194": 19,
+      "gas:candidate-vibid:1001000187995": 248,
+      "gas:candidate-vibid:323300470775": 39,
+      "special:against-all": 109
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000035&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070398&region=0&sub_region=0&type=429",
@@ -1410,14 +1410,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 13,
-      "Денисенко Галина Алексеевна": 42,
-      "Земцова Маргарита Ивановна": 58,
-      "Меркачев Владимир Васильевич": 110,
-      "Ракуленко Андрей Георгиевич": 23,
-      "Харченко Иван Николаевич": 567,
-      "Шаплов Анатолий Анатольевич": 91,
-      "Против всех": 122
+      "gas:candidate-vibid:323300470746": 13,
+      "gas:candidate-vibid:1001000195048": 42,
+      "gas:candidate-vibid:1001000136019": 58,
+      "gas:candidate-vibid:1001000121816": 110,
+      "gas:candidate-vibid:1001000112194": 23,
+      "gas:candidate-vibid:1001000187995": 567,
+      "gas:candidate-vibid:323300470775": 91,
+      "special:against-all": 122
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000035&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070398&region=0&sub_region=0&type=429",
@@ -1467,14 +1467,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 3,
-      "Денисенко Галина Алексеевна": 29,
-      "Земцова Маргарита Ивановна": 24,
-      "Меркачев Владимир Васильевич": 37,
-      "Ракуленко Андрей Георгиевич": 20,
-      "Харченко Иван Николаевич": 372,
-      "Шаплов Анатолий Анатольевич": 44,
-      "Против всех": 80
+      "gas:candidate-vibid:323300470746": 3,
+      "gas:candidate-vibid:1001000195048": 29,
+      "gas:candidate-vibid:1001000136019": 24,
+      "gas:candidate-vibid:1001000121816": 37,
+      "gas:candidate-vibid:1001000112194": 20,
+      "gas:candidate-vibid:1001000187995": 372,
+      "gas:candidate-vibid:323300470775": 44,
+      "special:against-all": 80
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000035&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070398&region=0&sub_region=0&type=429",
@@ -1524,14 +1524,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 8,
-      "Денисенко Галина Алексеевна": 32,
-      "Земцова Маргарита Ивановна": 62,
-      "Меркачев Владимир Васильевич": 78,
-      "Ракуленко Андрей Георгиевич": 114,
-      "Харченко Иван Николаевич": 581,
-      "Шаплов Анатолий Анатольевич": 66,
-      "Против всех": 195
+      "gas:candidate-vibid:323300470746": 8,
+      "gas:candidate-vibid:1001000195048": 32,
+      "gas:candidate-vibid:1001000136019": 62,
+      "gas:candidate-vibid:1001000121816": 78,
+      "gas:candidate-vibid:1001000112194": 114,
+      "gas:candidate-vibid:1001000187995": 581,
+      "gas:candidate-vibid:323300470775": 66,
+      "special:against-all": 195
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000035&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070398&region=0&sub_region=0&type=429",
@@ -1581,14 +1581,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 1,
-      "Денисенко Галина Алексеевна": 18,
-      "Земцова Маргарита Ивановна": 38,
-      "Меркачев Владимир Васильевич": 57,
-      "Ракуленко Андрей Георгиевич": 26,
-      "Харченко Иван Николаевич": 598,
-      "Шаплов Анатолий Анатольевич": 56,
-      "Против всех": 85
+      "gas:candidate-vibid:323300470746": 1,
+      "gas:candidate-vibid:1001000195048": 18,
+      "gas:candidate-vibid:1001000136019": 38,
+      "gas:candidate-vibid:1001000121816": 57,
+      "gas:candidate-vibid:1001000112194": 26,
+      "gas:candidate-vibid:1001000187995": 598,
+      "gas:candidate-vibid:323300470775": 56,
+      "special:against-all": 85
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000035&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070398&region=0&sub_region=0&type=429",
@@ -1638,14 +1638,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 2,
-      "Денисенко Галина Алексеевна": 22,
-      "Земцова Маргарита Ивановна": 27,
-      "Меркачев Владимир Васильевич": 60,
-      "Ракуленко Андрей Георгиевич": 20,
-      "Харченко Иван Николаевич": 233,
-      "Шаплов Анатолий Анатольевич": 25,
-      "Против всех": 80
+      "gas:candidate-vibid:323300470746": 2,
+      "gas:candidate-vibid:1001000195048": 22,
+      "gas:candidate-vibid:1001000136019": 27,
+      "gas:candidate-vibid:1001000121816": 60,
+      "gas:candidate-vibid:1001000112194": 20,
+      "gas:candidate-vibid:1001000187995": 233,
+      "gas:candidate-vibid:323300470775": 25,
+      "special:against-all": 80
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000035&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070398&region=0&sub_region=0&type=429",
@@ -1695,14 +1695,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 2,
-      "Денисенко Галина Алексеевна": 3,
-      "Земцова Маргарита Ивановна": 8,
-      "Меркачев Владимир Васильевич": 6,
-      "Ракуленко Андрей Георгиевич": 3,
-      "Харченко Иван Николаевич": 85,
-      "Шаплов Анатолий Анатольевич": 7,
-      "Против всех": 6
+      "gas:candidate-vibid:323300470746": 2,
+      "gas:candidate-vibid:1001000195048": 3,
+      "gas:candidate-vibid:1001000136019": 8,
+      "gas:candidate-vibid:1001000121816": 6,
+      "gas:candidate-vibid:1001000112194": 3,
+      "gas:candidate-vibid:1001000187995": 85,
+      "gas:candidate-vibid:323300470775": 7,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000035&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070398&region=0&sub_region=0&type=429",
@@ -1752,14 +1752,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 3,
-      "Денисенко Галина Алексеевна": 13,
-      "Земцова Маргарита Ивановна": 24,
-      "Меркачев Владимир Васильевич": 16,
-      "Ракуленко Андрей Георгиевич": 8,
-      "Харченко Иван Николаевич": 129,
-      "Шаплов Анатолий Анатольевич": 44,
-      "Против всех": 56
+      "gas:candidate-vibid:323300470746": 3,
+      "gas:candidate-vibid:1001000195048": 13,
+      "gas:candidate-vibid:1001000136019": 24,
+      "gas:candidate-vibid:1001000121816": 16,
+      "gas:candidate-vibid:1001000112194": 8,
+      "gas:candidate-vibid:1001000187995": 129,
+      "gas:candidate-vibid:323300470775": 44,
+      "special:against-all": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000035&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070398&region=0&sub_region=0&type=429",
@@ -1809,14 +1809,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 23,
-      "Денисенко Галина Алексеевна": 91,
-      "Земцова Маргарита Ивановна": 70,
-      "Меркачев Владимир Васильевич": 66,
-      "Ракуленко Андрей Георгиевич": 41,
-      "Харченко Иван Николаевич": 429,
-      "Шаплов Анатолий Анатольевич": 109,
-      "Против всех": 173
+      "gas:candidate-vibid:323300470746": 23,
+      "gas:candidate-vibid:1001000195048": 91,
+      "gas:candidate-vibid:1001000136019": 70,
+      "gas:candidate-vibid:1001000121816": 66,
+      "gas:candidate-vibid:1001000112194": 41,
+      "gas:candidate-vibid:1001000187995": 429,
+      "gas:candidate-vibid:323300470775": 109,
+      "special:against-all": 173
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000035&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070398&region=0&sub_region=0&type=429",
@@ -1866,14 +1866,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 12,
-      "Денисенко Галина Алексеевна": 83,
-      "Земцова Маргарита Ивановна": 63,
-      "Меркачев Владимир Васильевич": 81,
-      "Ракуленко Андрей Георгиевич": 50,
-      "Харченко Иван Николаевич": 389,
-      "Шаплов Анатолий Анатольевич": 115,
-      "Против всех": 119
+      "gas:candidate-vibid:323300470746": 12,
+      "gas:candidate-vibid:1001000195048": 83,
+      "gas:candidate-vibid:1001000136019": 63,
+      "gas:candidate-vibid:1001000121816": 81,
+      "gas:candidate-vibid:1001000112194": 50,
+      "gas:candidate-vibid:1001000187995": 389,
+      "gas:candidate-vibid:323300470775": 115,
+      "special:against-all": 119
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000035&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070398&region=0&sub_region=0&type=429",
@@ -1923,14 +1923,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 16,
-      "Денисенко Галина Алексеевна": 47,
-      "Земцова Маргарита Ивановна": 57,
-      "Меркачев Владимир Васильевич": 71,
-      "Ракуленко Андрей Георгиевич": 50,
-      "Харченко Иван Николаевич": 478,
-      "Шаплов Анатолий Анатольевич": 112,
-      "Против всех": 127
+      "gas:candidate-vibid:323300470746": 16,
+      "gas:candidate-vibid:1001000195048": 47,
+      "gas:candidate-vibid:1001000136019": 57,
+      "gas:candidate-vibid:1001000121816": 71,
+      "gas:candidate-vibid:1001000112194": 50,
+      "gas:candidate-vibid:1001000187995": 478,
+      "gas:candidate-vibid:323300470775": 112,
+      "special:against-all": 127
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000035&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070398&region=0&sub_region=0&type=429",
@@ -1980,14 +1980,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 4,
-      "Денисенко Галина Алексеевна": 19,
-      "Земцова Маргарита Ивановна": 25,
-      "Меркачев Владимир Васильевич": 33,
-      "Ракуленко Андрей Георгиевич": 17,
-      "Харченко Иван Николаевич": 184,
-      "Шаплов Анатолий Анатольевич": 52,
-      "Против всех": 115
+      "gas:candidate-vibid:323300470746": 4,
+      "gas:candidate-vibid:1001000195048": 19,
+      "gas:candidate-vibid:1001000136019": 25,
+      "gas:candidate-vibid:1001000121816": 33,
+      "gas:candidate-vibid:1001000112194": 17,
+      "gas:candidate-vibid:1001000187995": 184,
+      "gas:candidate-vibid:323300470775": 52,
+      "special:against-all": 115
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000035&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070398&region=0&sub_region=0&type=429",
@@ -2037,14 +2037,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 11,
-      "Денисенко Галина Алексеевна": 34,
-      "Земцова Маргарита Ивановна": 48,
-      "Меркачев Владимир Васильевич": 95,
-      "Ракуленко Андрей Георгиевич": 18,
-      "Харченко Иван Николаевич": 419,
-      "Шаплов Анатолий Анатольевич": 65,
-      "Против всех": 117
+      "gas:candidate-vibid:323300470746": 11,
+      "gas:candidate-vibid:1001000195048": 34,
+      "gas:candidate-vibid:1001000136019": 48,
+      "gas:candidate-vibid:1001000121816": 95,
+      "gas:candidate-vibid:1001000112194": 18,
+      "gas:candidate-vibid:1001000187995": 419,
+      "gas:candidate-vibid:323300470775": 65,
+      "special:against-all": 117
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000035&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070398&region=0&sub_region=0&type=429",
@@ -2094,14 +2094,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 9,
-      "Денисенко Галина Алексеевна": 21,
-      "Земцова Маргарита Ивановна": 33,
-      "Меркачев Владимир Васильевич": 43,
-      "Ракуленко Андрей Георгиевич": 18,
-      "Харченко Иван Николаевич": 330,
-      "Шаплов Анатолий Анатольевич": 47,
-      "Против всех": 132
+      "gas:candidate-vibid:323300470746": 9,
+      "gas:candidate-vibid:1001000195048": 21,
+      "gas:candidate-vibid:1001000136019": 33,
+      "gas:candidate-vibid:1001000121816": 43,
+      "gas:candidate-vibid:1001000112194": 18,
+      "gas:candidate-vibid:1001000187995": 330,
+      "gas:candidate-vibid:323300470775": 47,
+      "special:against-all": 132
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000035&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070398&region=0&sub_region=0&type=429",
@@ -2151,14 +2151,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 8,
-      "Денисенко Галина Алексеевна": 46,
-      "Земцова Маргарита Ивановна": 56,
-      "Меркачев Владимир Васильевич": 74,
-      "Ракуленко Андрей Георгиевич": 32,
-      "Харченко Иван Николаевич": 471,
-      "Шаплов Анатолий Анатольевич": 77,
-      "Против всех": 96
+      "gas:candidate-vibid:323300470746": 8,
+      "gas:candidate-vibid:1001000195048": 46,
+      "gas:candidate-vibid:1001000136019": 56,
+      "gas:candidate-vibid:1001000121816": 74,
+      "gas:candidate-vibid:1001000112194": 32,
+      "gas:candidate-vibid:1001000187995": 471,
+      "gas:candidate-vibid:323300470775": 77,
+      "special:against-all": 96
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000035&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070398&region=0&sub_region=0&type=429",
@@ -2208,14 +2208,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 5,
-      "Денисенко Галина Алексеевна": 28,
-      "Земцова Маргарита Ивановна": 86,
-      "Меркачев Владимир Васильевич": 286,
-      "Ракуленко Андрей Георгиевич": 166,
-      "Харченко Иван Николаевич": 328,
-      "Шаплов Анатолий Анатольевич": 104,
-      "Против всех": 200
+      "gas:candidate-vibid:323300470746": 5,
+      "gas:candidate-vibid:1001000195048": 28,
+      "gas:candidate-vibid:1001000136019": 86,
+      "gas:candidate-vibid:1001000121816": 286,
+      "gas:candidate-vibid:1001000112194": 166,
+      "gas:candidate-vibid:1001000187995": 328,
+      "gas:candidate-vibid:323300470775": 104,
+      "special:against-all": 200
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000036&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070399&region=0&sub_region=0&type=429",
@@ -2265,14 +2265,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 14,
-      "Денисенко Галина Алексеевна": 33,
-      "Земцова Маргарита Ивановна": 52,
-      "Меркачев Владимир Васильевич": 300,
-      "Ракуленко Андрей Георгиевич": 102,
-      "Харченко Иван Николаевич": 362,
-      "Шаплов Анатолий Анатольевич": 96,
-      "Против всех": 124
+      "gas:candidate-vibid:323300470746": 14,
+      "gas:candidate-vibid:1001000195048": 33,
+      "gas:candidate-vibid:1001000136019": 52,
+      "gas:candidate-vibid:1001000121816": 300,
+      "gas:candidate-vibid:1001000112194": 102,
+      "gas:candidate-vibid:1001000187995": 362,
+      "gas:candidate-vibid:323300470775": 96,
+      "special:against-all": 124
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000036&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070399&region=0&sub_region=0&type=429",
@@ -2322,14 +2322,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 4,
-      "Денисенко Галина Алексеевна": 30,
-      "Земцова Маргарита Ивановна": 52,
-      "Меркачев Владимир Васильевич": 185,
-      "Ракуленко Андрей Георгиевич": 117,
-      "Харченко Иван Николаевич": 328,
-      "Шаплов Анатолий Анатольевич": 68,
-      "Против всех": 147
+      "gas:candidate-vibid:323300470746": 4,
+      "gas:candidate-vibid:1001000195048": 30,
+      "gas:candidate-vibid:1001000136019": 52,
+      "gas:candidate-vibid:1001000121816": 185,
+      "gas:candidate-vibid:1001000112194": 117,
+      "gas:candidate-vibid:1001000187995": 328,
+      "gas:candidate-vibid:323300470775": 68,
+      "special:against-all": 147
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000036&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070399&region=0&sub_region=0&type=429",
@@ -2379,14 +2379,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 4,
-      "Денисенко Галина Алексеевна": 18,
-      "Земцова Маргарита Ивановна": 37,
-      "Меркачев Владимир Васильевич": 170,
-      "Ракуленко Андрей Георгиевич": 81,
-      "Харченко Иван Николаевич": 219,
-      "Шаплов Анатолий Анатольевич": 43,
-      "Против всех": 87
+      "gas:candidate-vibid:323300470746": 4,
+      "gas:candidate-vibid:1001000195048": 18,
+      "gas:candidate-vibid:1001000136019": 37,
+      "gas:candidate-vibid:1001000121816": 170,
+      "gas:candidate-vibid:1001000112194": 81,
+      "gas:candidate-vibid:1001000187995": 219,
+      "gas:candidate-vibid:323300470775": 43,
+      "special:against-all": 87
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000036&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070399&region=0&sub_region=0&type=429",
@@ -2436,14 +2436,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 9,
-      "Денисенко Галина Алексеевна": 15,
-      "Земцова Маргарита Ивановна": 45,
-      "Меркачев Владимир Васильевич": 237,
-      "Ракуленко Андрей Георгиевич": 132,
-      "Харченко Иван Николаевич": 386,
-      "Шаплов Анатолий Анатольевич": 83,
-      "Против всех": 125
+      "gas:candidate-vibid:323300470746": 9,
+      "gas:candidate-vibid:1001000195048": 15,
+      "gas:candidate-vibid:1001000136019": 45,
+      "gas:candidate-vibid:1001000121816": 237,
+      "gas:candidate-vibid:1001000112194": 132,
+      "gas:candidate-vibid:1001000187995": 386,
+      "gas:candidate-vibid:323300470775": 83,
+      "special:against-all": 125
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000036&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070399&region=0&sub_region=0&type=429",
@@ -2493,14 +2493,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 3,
-      "Денисенко Галина Алексеевна": 19,
-      "Земцова Маргарита Ивановна": 40,
-      "Меркачев Владимир Васильевич": 205,
-      "Ракуленко Андрей Георгиевич": 100,
-      "Харченко Иван Николаевич": 317,
-      "Шаплов Анатолий Анатольевич": 71,
-      "Против всех": 106
+      "gas:candidate-vibid:323300470746": 3,
+      "gas:candidate-vibid:1001000195048": 19,
+      "gas:candidate-vibid:1001000136019": 40,
+      "gas:candidate-vibid:1001000121816": 205,
+      "gas:candidate-vibid:1001000112194": 100,
+      "gas:candidate-vibid:1001000187995": 317,
+      "gas:candidate-vibid:323300470775": 71,
+      "special:against-all": 106
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000036&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070399&region=0&sub_region=0&type=429",
@@ -2550,14 +2550,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 10,
-      "Денисенко Галина Алексеевна": 26,
-      "Земцова Маргарита Ивановна": 58,
-      "Меркачев Владимир Васильевич": 292,
-      "Ракуленко Андрей Георгиевич": 188,
-      "Харченко Иван Николаевич": 605,
-      "Шаплов Анатолий Анатольевич": 82,
-      "Против всех": 167
+      "gas:candidate-vibid:323300470746": 10,
+      "gas:candidate-vibid:1001000195048": 26,
+      "gas:candidate-vibid:1001000136019": 58,
+      "gas:candidate-vibid:1001000121816": 292,
+      "gas:candidate-vibid:1001000112194": 188,
+      "gas:candidate-vibid:1001000187995": 605,
+      "gas:candidate-vibid:323300470775": 82,
+      "special:against-all": 167
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000036&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070399&region=0&sub_region=0&type=429",
@@ -2607,14 +2607,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 9,
-      "Денисенко Галина Алексеевна": 39,
-      "Земцова Маргарита Ивановна": 58,
-      "Меркачев Владимир Васильевич": 289,
-      "Ракуленко Андрей Георгиевич": 170,
-      "Харченко Иван Николаевич": 476,
-      "Шаплов Анатолий Анатольевич": 106,
-      "Против всех": 200
+      "gas:candidate-vibid:323300470746": 9,
+      "gas:candidate-vibid:1001000195048": 39,
+      "gas:candidate-vibid:1001000136019": 58,
+      "gas:candidate-vibid:1001000121816": 289,
+      "gas:candidate-vibid:1001000112194": 170,
+      "gas:candidate-vibid:1001000187995": 476,
+      "gas:candidate-vibid:323300470775": 106,
+      "special:against-all": 200
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000036&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070399&region=0&sub_region=0&type=429",
@@ -2664,14 +2664,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 15,
-      "Денисенко Галина Алексеевна": 42,
-      "Земцова Маргарита Ивановна": 73,
-      "Меркачев Владимир Васильевич": 387,
-      "Ракуленко Андрей Георгиевич": 178,
-      "Харченко Иван Николаевич": 335,
-      "Шаплов Анатолий Анатольевич": 120,
-      "Против всех": 159
+      "gas:candidate-vibid:323300470746": 15,
+      "gas:candidate-vibid:1001000195048": 42,
+      "gas:candidate-vibid:1001000136019": 73,
+      "gas:candidate-vibid:1001000121816": 387,
+      "gas:candidate-vibid:1001000112194": 178,
+      "gas:candidate-vibid:1001000187995": 335,
+      "gas:candidate-vibid:323300470775": 120,
+      "special:against-all": 159
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000036&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070399&region=0&sub_region=0&type=429",
@@ -2721,14 +2721,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 11,
-      "Денисенко Галина Алексеевна": 19,
-      "Земцова Маргарита Ивановна": 52,
-      "Меркачев Владимир Васильевич": 304,
-      "Ракуленко Андрей Георгиевич": 147,
-      "Харченко Иван Николаевич": 222,
-      "Шаплов Анатолий Анатольевич": 68,
-      "Против всех": 153
+      "gas:candidate-vibid:323300470746": 11,
+      "gas:candidate-vibid:1001000195048": 19,
+      "gas:candidate-vibid:1001000136019": 52,
+      "gas:candidate-vibid:1001000121816": 304,
+      "gas:candidate-vibid:1001000112194": 147,
+      "gas:candidate-vibid:1001000187995": 222,
+      "gas:candidate-vibid:323300470775": 68,
+      "special:against-all": 153
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000036&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070399&region=0&sub_region=0&type=429",
@@ -2778,14 +2778,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 10,
-      "Денисенко Галина Алексеевна": 34,
-      "Земцова Маргарита Ивановна": 65,
-      "Меркачев Владимир Васильевич": 397,
-      "Ракуленко Андрей Георгиевич": 240,
-      "Харченко Иван Николаевич": 363,
-      "Шаплов Анатолий Анатольевич": 105,
-      "Против всех": 199
+      "gas:candidate-vibid:323300470746": 10,
+      "gas:candidate-vibid:1001000195048": 34,
+      "gas:candidate-vibid:1001000136019": 65,
+      "gas:candidate-vibid:1001000121816": 397,
+      "gas:candidate-vibid:1001000112194": 240,
+      "gas:candidate-vibid:1001000187995": 363,
+      "gas:candidate-vibid:323300470775": 105,
+      "special:against-all": 199
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000036&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070399&region=0&sub_region=0&type=429",
@@ -2835,14 +2835,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 18,
-      "Денисенко Галина Алексеевна": 29,
-      "Земцова Маргарита Ивановна": 57,
-      "Меркачев Владимир Васильевич": 358,
-      "Ракуленко Андрей Георгиевич": 138,
-      "Харченко Иван Николаевич": 270,
-      "Шаплов Анатолий Анатольевич": 103,
-      "Против всех": 154
+      "gas:candidate-vibid:323300470746": 18,
+      "gas:candidate-vibid:1001000195048": 29,
+      "gas:candidate-vibid:1001000136019": 57,
+      "gas:candidate-vibid:1001000121816": 358,
+      "gas:candidate-vibid:1001000112194": 138,
+      "gas:candidate-vibid:1001000187995": 270,
+      "gas:candidate-vibid:323300470775": 103,
+      "special:against-all": 154
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000036&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070399&region=0&sub_region=0&type=429",
@@ -2892,14 +2892,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 7,
-      "Денисенко Галина Алексеевна": 11,
-      "Земцова Маргарита Ивановна": 59,
-      "Меркачев Владимир Васильевич": 206,
-      "Ракуленко Андрей Георгиевич": 79,
-      "Харченко Иван Николаевич": 399,
-      "Шаплов Анатолий Анатольевич": 46,
-      "Против всех": 105
+      "gas:candidate-vibid:323300470746": 7,
+      "gas:candidate-vibid:1001000195048": 11,
+      "gas:candidate-vibid:1001000136019": 59,
+      "gas:candidate-vibid:1001000121816": 206,
+      "gas:candidate-vibid:1001000112194": 79,
+      "gas:candidate-vibid:1001000187995": 399,
+      "gas:candidate-vibid:323300470775": 46,
+      "special:against-all": 105
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000036&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070399&region=0&sub_region=0&type=429",
@@ -2949,14 +2949,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 6,
-      "Денисенко Галина Алексеевна": 24,
-      "Земцова Маргарита Ивановна": 32,
-      "Меркачев Владимир Васильевич": 262,
-      "Ракуленко Андрей Георгиевич": 118,
-      "Харченко Иван Николаевич": 247,
-      "Шаплов Анатолий Анатольевич": 75,
-      "Против всех": 129
+      "gas:candidate-vibid:323300470746": 6,
+      "gas:candidate-vibid:1001000195048": 24,
+      "gas:candidate-vibid:1001000136019": 32,
+      "gas:candidate-vibid:1001000121816": 262,
+      "gas:candidate-vibid:1001000112194": 118,
+      "gas:candidate-vibid:1001000187995": 247,
+      "gas:candidate-vibid:323300470775": 75,
+      "special:against-all": 129
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000036&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070399&region=0&sub_region=0&type=429",
@@ -3006,14 +3006,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 8,
-      "Денисенко Галина Алексеевна": 25,
-      "Земцова Маргарита Ивановна": 89,
-      "Меркачев Владимир Васильевич": 314,
-      "Ракуленко Андрей Георгиевич": 172,
-      "Харченко Иван Николаевич": 376,
-      "Шаплов Анатолий Анатольевич": 109,
-      "Против всех": 202
+      "gas:candidate-vibid:323300470746": 8,
+      "gas:candidate-vibid:1001000195048": 25,
+      "gas:candidate-vibid:1001000136019": 89,
+      "gas:candidate-vibid:1001000121816": 314,
+      "gas:candidate-vibid:1001000112194": 172,
+      "gas:candidate-vibid:1001000187995": 376,
+      "gas:candidate-vibid:323300470775": 109,
+      "special:against-all": 202
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000036&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070399&region=0&sub_region=0&type=429",
@@ -3063,14 +3063,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 31,
-      "Денисенко Галина Алексеевна": 55,
-      "Земцова Маргарита Ивановна": 106,
-      "Меркачев Владимир Васильевич": 364,
-      "Ракуленко Андрей Георгиевич": 125,
-      "Харченко Иван Николаевич": 433,
-      "Шаплов Анатолий Анатольевич": 151,
-      "Против всех": 276
+      "gas:candidate-vibid:323300470746": 31,
+      "gas:candidate-vibid:1001000195048": 55,
+      "gas:candidate-vibid:1001000136019": 106,
+      "gas:candidate-vibid:1001000121816": 364,
+      "gas:candidate-vibid:1001000112194": 125,
+      "gas:candidate-vibid:1001000187995": 433,
+      "gas:candidate-vibid:323300470775": 151,
+      "special:against-all": 276
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000036&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070399&region=0&sub_region=0&type=429",
@@ -3120,14 +3120,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 7,
-      "Денисенко Галина Алексеевна": 18,
-      "Земцова Маргарита Ивановна": 53,
-      "Меркачев Владимир Васильевич": 272,
-      "Ракуленко Андрей Георгиевич": 99,
-      "Харченко Иван Николаевич": 415,
-      "Шаплов Анатолий Анатольевич": 93,
-      "Против всех": 127
+      "gas:candidate-vibid:323300470746": 7,
+      "gas:candidate-vibid:1001000195048": 18,
+      "gas:candidate-vibid:1001000136019": 53,
+      "gas:candidate-vibid:1001000121816": 272,
+      "gas:candidate-vibid:1001000112194": 99,
+      "gas:candidate-vibid:1001000187995": 415,
+      "gas:candidate-vibid:323300470775": 93,
+      "special:against-all": 127
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000036&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070399&region=0&sub_region=0&type=429",
@@ -3177,14 +3177,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 5,
-      "Денисенко Галина Алексеевна": 23,
-      "Земцова Маргарита Ивановна": 54,
-      "Меркачев Владимир Васильевич": 370,
-      "Ракуленко Андрей Георгиевич": 109,
-      "Харченко Иван Николаевич": 346,
-      "Шаплов Анатолий Анатольевич": 66,
-      "Против всех": 146
+      "gas:candidate-vibid:323300470746": 5,
+      "gas:candidate-vibid:1001000195048": 23,
+      "gas:candidate-vibid:1001000136019": 54,
+      "gas:candidate-vibid:1001000121816": 370,
+      "gas:candidate-vibid:1001000112194": 109,
+      "gas:candidate-vibid:1001000187995": 346,
+      "gas:candidate-vibid:323300470775": 66,
+      "special:against-all": 146
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000036&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070399&region=0&sub_region=0&type=429",
@@ -3234,14 +3234,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 14,
-      "Денисенко Галина Алексеевна": 29,
-      "Земцова Маргарита Ивановна": 48,
-      "Меркачев Владимир Васильевич": 234,
-      "Ракуленко Андрей Георгиевич": 138,
-      "Харченко Иван Николаевич": 316,
-      "Шаплов Анатолий Анатольевич": 96,
-      "Против всех": 187
+      "gas:candidate-vibid:323300470746": 14,
+      "gas:candidate-vibid:1001000195048": 29,
+      "gas:candidate-vibid:1001000136019": 48,
+      "gas:candidate-vibid:1001000121816": 234,
+      "gas:candidate-vibid:1001000112194": 138,
+      "gas:candidate-vibid:1001000187995": 316,
+      "gas:candidate-vibid:323300470775": 96,
+      "special:against-all": 187
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000036&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070399&region=0&sub_region=0&type=429",
@@ -3291,14 +3291,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 7,
-      "Денисенко Галина Алексеевна": 16,
-      "Земцова Маргарита Ивановна": 46,
-      "Меркачев Владимир Васильевич": 273,
-      "Ракуленко Андрей Георгиевич": 111,
-      "Харченко Иван Николаевич": 294,
-      "Шаплов Анатолий Анатольевич": 52,
-      "Против всех": 139
+      "gas:candidate-vibid:323300470746": 7,
+      "gas:candidate-vibid:1001000195048": 16,
+      "gas:candidate-vibid:1001000136019": 46,
+      "gas:candidate-vibid:1001000121816": 273,
+      "gas:candidate-vibid:1001000112194": 111,
+      "gas:candidate-vibid:1001000187995": 294,
+      "gas:candidate-vibid:323300470775": 52,
+      "special:against-all": 139
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000036&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070399&region=0&sub_region=0&type=429",
@@ -3348,14 +3348,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 16,
-      "Денисенко Галина Алексеевна": 38,
-      "Земцова Маргарита Ивановна": 65,
-      "Меркачев Владимир Васильевич": 234,
-      "Ракуленко Андрей Георгиевич": 114,
-      "Харченко Иван Николаевич": 335,
-      "Шаплов Анатолий Анатольевич": 89,
-      "Против всех": 140
+      "gas:candidate-vibid:323300470746": 16,
+      "gas:candidate-vibid:1001000195048": 38,
+      "gas:candidate-vibid:1001000136019": 65,
+      "gas:candidate-vibid:1001000121816": 234,
+      "gas:candidate-vibid:1001000112194": 114,
+      "gas:candidate-vibid:1001000187995": 335,
+      "gas:candidate-vibid:323300470775": 89,
+      "special:against-all": 140
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000036&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070399&region=0&sub_region=0&type=429",
@@ -3405,14 +3405,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 3,
-      "Денисенко Галина Алексеевна": 27,
-      "Земцова Маргарита Ивановна": 48,
-      "Меркачев Владимир Васильевич": 220,
-      "Ракуленко Андрей Георгиевич": 107,
-      "Харченко Иван Николаевич": 317,
-      "Шаплов Анатолий Анатольевич": 69,
-      "Против всех": 134
+      "gas:candidate-vibid:323300470746": 3,
+      "gas:candidate-vibid:1001000195048": 27,
+      "gas:candidate-vibid:1001000136019": 48,
+      "gas:candidate-vibid:1001000121816": 220,
+      "gas:candidate-vibid:1001000112194": 107,
+      "gas:candidate-vibid:1001000187995": 317,
+      "gas:candidate-vibid:323300470775": 69,
+      "special:against-all": 134
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000036&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070399&region=0&sub_region=0&type=429",
@@ -3462,14 +3462,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 1,
-      "Денисенко Галина Алексеевна": 9,
-      "Земцова Маргарита Ивановна": 35,
-      "Меркачев Владимир Васильевич": 165,
-      "Ракуленко Андрей Георгиевич": 69,
-      "Харченко Иван Николаевич": 176,
-      "Шаплов Анатолий Анатольевич": 48,
-      "Против всех": 65
+      "gas:candidate-vibid:323300470746": 1,
+      "gas:candidate-vibid:1001000195048": 9,
+      "gas:candidate-vibid:1001000136019": 35,
+      "gas:candidate-vibid:1001000121816": 165,
+      "gas:candidate-vibid:1001000112194": 69,
+      "gas:candidate-vibid:1001000187995": 176,
+      "gas:candidate-vibid:323300470775": 48,
+      "special:against-all": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000036&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070399&region=0&sub_region=0&type=429",
@@ -3519,14 +3519,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 11,
-      "Денисенко Галина Алексеевна": 38,
-      "Земцова Маргарита Ивановна": 94,
-      "Меркачев Владимир Васильевич": 426,
-      "Ракуленко Андрей Георгиевич": 100,
-      "Харченко Иван Николаевич": 663,
-      "Шаплов Анатолий Анатольевич": 114,
-      "Против всех": 171
+      "gas:candidate-vibid:323300470746": 11,
+      "gas:candidate-vibid:1001000195048": 38,
+      "gas:candidate-vibid:1001000136019": 94,
+      "gas:candidate-vibid:1001000121816": 426,
+      "gas:candidate-vibid:1001000112194": 100,
+      "gas:candidate-vibid:1001000187995": 663,
+      "gas:candidate-vibid:323300470775": 114,
+      "special:against-all": 171
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000036&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070399&region=0&sub_region=0&type=429",
@@ -3576,14 +3576,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 11,
-      "Денисенко Галина Алексеевна": 31,
-      "Земцова Маргарита Ивановна": 57,
-      "Меркачев Владимир Васильевич": 141,
-      "Ракуленко Андрей Георгиевич": 46,
-      "Харченко Иван Николаевич": 338,
-      "Шаплов Анатолий Анатольевич": 86,
-      "Против всех": 123
+      "gas:candidate-vibid:323300470746": 11,
+      "gas:candidate-vibid:1001000195048": 31,
+      "gas:candidate-vibid:1001000136019": 57,
+      "gas:candidate-vibid:1001000121816": 141,
+      "gas:candidate-vibid:1001000112194": 46,
+      "gas:candidate-vibid:1001000187995": 338,
+      "gas:candidate-vibid:323300470775": 86,
+      "special:against-all": 123
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000036&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070399&region=0&sub_region=0&type=429",
@@ -3633,14 +3633,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 6,
-      "Денисенко Галина Алексеевна": 21,
-      "Земцова Маргарита Ивановна": 60,
-      "Меркачев Владимир Васильевич": 155,
-      "Ракуленко Андрей Георгиевич": 54,
-      "Харченко Иван Николаевич": 342,
-      "Шаплов Анатолий Анатольевич": 76,
-      "Против всех": 105
+      "gas:candidate-vibid:323300470746": 6,
+      "gas:candidate-vibid:1001000195048": 21,
+      "gas:candidate-vibid:1001000136019": 60,
+      "gas:candidate-vibid:1001000121816": 155,
+      "gas:candidate-vibid:1001000112194": 54,
+      "gas:candidate-vibid:1001000187995": 342,
+      "gas:candidate-vibid:323300470775": 76,
+      "special:against-all": 105
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000036&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070399&region=0&sub_region=0&type=429",
@@ -3690,14 +3690,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 10,
-      "Денисенко Галина Алексеевна": 23,
-      "Земцова Маргарита Ивановна": 93,
-      "Меркачев Владимир Васильевич": 224,
-      "Ракуленко Андрей Георгиевич": 142,
-      "Харченко Иван Николаевич": 586,
-      "Шаплов Анатолий Анатольевич": 139,
-      "Против всех": 211
+      "gas:candidate-vibid:323300470746": 10,
+      "gas:candidate-vibid:1001000195048": 23,
+      "gas:candidate-vibid:1001000136019": 93,
+      "gas:candidate-vibid:1001000121816": 224,
+      "gas:candidate-vibid:1001000112194": 142,
+      "gas:candidate-vibid:1001000187995": 586,
+      "gas:candidate-vibid:323300470775": 139,
+      "special:against-all": 211
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000036&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070399&region=0&sub_region=0&type=429",
@@ -3747,14 +3747,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 2,
-      "Денисенко Галина Алексеевна": 0,
-      "Земцова Маргарита Ивановна": 7,
-      "Меркачев Владимир Васильевич": 1,
-      "Ракуленко Андрей Георгиевич": 5,
-      "Харченко Иван Николаевич": 170,
-      "Шаплов Анатолий Анатольевич": 7,
-      "Против всех": 5
+      "gas:candidate-vibid:323300470746": 2,
+      "gas:candidate-vibid:1001000195048": 0,
+      "gas:candidate-vibid:1001000136019": 7,
+      "gas:candidate-vibid:1001000121816": 1,
+      "gas:candidate-vibid:1001000112194": 5,
+      "gas:candidate-vibid:1001000187995": 170,
+      "gas:candidate-vibid:323300470775": 7,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000036&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070399&region=0&sub_region=0&type=429",
@@ -3804,14 +3804,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 8,
-      "Денисенко Галина Алексеевна": 10,
-      "Земцова Маргарита Ивановна": 28,
-      "Меркачев Владимир Васильевич": 210,
-      "Ракуленко Андрей Георгиевич": 49,
-      "Харченко Иван Николаевич": 422,
-      "Шаплов Анатолий Анатольевич": 61,
-      "Против всех": 94
+      "gas:candidate-vibid:323300470746": 8,
+      "gas:candidate-vibid:1001000195048": 10,
+      "gas:candidate-vibid:1001000136019": 28,
+      "gas:candidate-vibid:1001000121816": 210,
+      "gas:candidate-vibid:1001000112194": 49,
+      "gas:candidate-vibid:1001000187995": 422,
+      "gas:candidate-vibid:323300470775": 61,
+      "special:against-all": 94
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000036&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070399&region=0&sub_region=0&type=429",
@@ -3861,14 +3861,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 5,
-      "Денисенко Галина Алексеевна": 8,
-      "Земцова Маргарита Ивановна": 34,
-      "Меркачев Владимир Васильевич": 189,
-      "Ракуленко Андрей Георгиевич": 40,
-      "Харченко Иван Николаевич": 885,
-      "Шаплов Анатолий Анатольевич": 43,
-      "Против всех": 91
+      "gas:candidate-vibid:323300470746": 5,
+      "gas:candidate-vibid:1001000195048": 8,
+      "gas:candidate-vibid:1001000136019": 34,
+      "gas:candidate-vibid:1001000121816": 189,
+      "gas:candidate-vibid:1001000112194": 40,
+      "gas:candidate-vibid:1001000187995": 885,
+      "gas:candidate-vibid:323300470775": 43,
+      "special:against-all": 91
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000036&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070399&region=0&sub_region=0&type=429",
@@ -3918,14 +3918,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 0,
-      "Денисенко Галина Алексеевна": 6,
-      "Земцова Маргарита Ивановна": 1,
-      "Меркачев Владимир Васильевич": 5,
-      "Ракуленко Андрей Георгиевич": 1,
-      "Харченко Иван Николаевич": 164,
-      "Шаплов Анатолий Анатольевич": 6,
-      "Против всех": 7
+      "gas:candidate-vibid:323300470746": 0,
+      "gas:candidate-vibid:1001000195048": 6,
+      "gas:candidate-vibid:1001000136019": 1,
+      "gas:candidate-vibid:1001000121816": 5,
+      "gas:candidate-vibid:1001000112194": 1,
+      "gas:candidate-vibid:1001000187995": 164,
+      "gas:candidate-vibid:323300470775": 6,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000036&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070399&region=0&sub_region=0&type=429",
@@ -3975,14 +3975,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 6,
-      "Денисенко Галина Алексеевна": 16,
-      "Земцова Маргарита Ивановна": 33,
-      "Меркачев Владимир Васильевич": 157,
-      "Ракуленко Андрей Георгиевич": 49,
-      "Харченко Иван Николаевич": 596,
-      "Шаплов Анатолий Анатольевич": 56,
-      "Против всех": 192
+      "gas:candidate-vibid:323300470746": 6,
+      "gas:candidate-vibid:1001000195048": 16,
+      "gas:candidate-vibid:1001000136019": 33,
+      "gas:candidate-vibid:1001000121816": 157,
+      "gas:candidate-vibid:1001000112194": 49,
+      "gas:candidate-vibid:1001000187995": 596,
+      "gas:candidate-vibid:323300470775": 56,
+      "special:against-all": 192
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000036&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070399&region=0&sub_region=0&type=429",
@@ -4032,14 +4032,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 3,
-      "Денисенко Галина Алексеевна": 2,
-      "Земцова Маргарита Ивановна": 19,
-      "Меркачев Владимир Васильевич": 72,
-      "Ракуленко Андрей Георгиевич": 88,
-      "Харченко Иван Николаевич": 325,
-      "Шаплов Анатолий Анатольевич": 28,
-      "Против всех": 46
+      "gas:candidate-vibid:323300470746": 3,
+      "gas:candidate-vibid:1001000195048": 2,
+      "gas:candidate-vibid:1001000136019": 19,
+      "gas:candidate-vibid:1001000121816": 72,
+      "gas:candidate-vibid:1001000112194": 88,
+      "gas:candidate-vibid:1001000187995": 325,
+      "gas:candidate-vibid:323300470775": 28,
+      "special:against-all": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000036&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070399&region=0&sub_region=0&type=429",
@@ -4089,14 +4089,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 2,
-      "Денисенко Галина Алексеевна": 3,
-      "Земцова Маргарита Ивановна": 15,
-      "Меркачев Владимир Васильевич": 26,
-      "Ракуленко Андрей Георгиевич": 27,
-      "Харченко Иван Николаевич": 179,
-      "Шаплов Анатолий Анатольевич": 11,
-      "Против всех": 36
+      "gas:candidate-vibid:323300470746": 2,
+      "gas:candidate-vibid:1001000195048": 3,
+      "gas:candidate-vibid:1001000136019": 15,
+      "gas:candidate-vibid:1001000121816": 26,
+      "gas:candidate-vibid:1001000112194": 27,
+      "gas:candidate-vibid:1001000187995": 179,
+      "gas:candidate-vibid:323300470775": 11,
+      "special:against-all": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000036&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070399&region=0&sub_region=0&type=429",
@@ -4146,14 +4146,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 19,
-      "Денисенко Галина Алексеевна": 60,
-      "Земцова Маргарита Ивановна": 101,
-      "Меркачев Владимир Васильевич": 365,
-      "Ракуленко Андрей Георгиевич": 95,
-      "Харченко Иван Николаевич": 674,
-      "Шаплов Анатолий Анатольевич": 264,
-      "Против всех": 284
+      "gas:candidate-vibid:323300470746": 19,
+      "gas:candidate-vibid:1001000195048": 60,
+      "gas:candidate-vibid:1001000136019": 101,
+      "gas:candidate-vibid:1001000121816": 365,
+      "gas:candidate-vibid:1001000112194": 95,
+      "gas:candidate-vibid:1001000187995": 674,
+      "gas:candidate-vibid:323300470775": 264,
+      "special:against-all": 284
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000036&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070399&region=0&sub_region=0&type=429",
@@ -4203,14 +4203,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 5,
-      "Денисенко Галина Алексеевна": 9,
-      "Земцова Маргарита Ивановна": 16,
-      "Меркачев Владимир Васильевич": 104,
-      "Ракуленко Андрей Георгиевич": 45,
-      "Харченко Иван Николаевич": 129,
-      "Шаплов Анатолий Анатольевич": 26,
-      "Против всех": 54
+      "gas:candidate-vibid:323300470746": 5,
+      "gas:candidate-vibid:1001000195048": 9,
+      "gas:candidate-vibid:1001000136019": 16,
+      "gas:candidate-vibid:1001000121816": 104,
+      "gas:candidate-vibid:1001000112194": 45,
+      "gas:candidate-vibid:1001000187995": 129,
+      "gas:candidate-vibid:323300470775": 26,
+      "special:against-all": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000036&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070399&region=0&sub_region=0&type=429",
@@ -4260,14 +4260,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 1,
-      "Денисенко Галина Алексеевна": 12,
-      "Земцова Маргарита Ивановна": 16,
-      "Меркачев Владимир Васильевич": 85,
-      "Ракуленко Андрей Георгиевич": 49,
-      "Харченко Иван Николаевич": 154,
-      "Шаплов Анатолий Анатольевич": 40,
-      "Против всех": 62
+      "gas:candidate-vibid:323300470746": 1,
+      "gas:candidate-vibid:1001000195048": 12,
+      "gas:candidate-vibid:1001000136019": 16,
+      "gas:candidate-vibid:1001000121816": 85,
+      "gas:candidate-vibid:1001000112194": 49,
+      "gas:candidate-vibid:1001000187995": 154,
+      "gas:candidate-vibid:323300470775": 40,
+      "special:against-all": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000036&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070399&region=0&sub_region=0&type=429",
@@ -4317,14 +4317,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 5,
-      "Денисенко Галина Алексеевна": 12,
-      "Земцова Маргарита Ивановна": 35,
-      "Меркачев Владимир Васильевич": 108,
-      "Ракуленко Андрей Георгиевич": 58,
-      "Харченко Иван Николаевич": 456,
-      "Шаплов Анатолий Анатольевич": 47,
-      "Против всех": 81
+      "gas:candidate-vibid:323300470746": 5,
+      "gas:candidate-vibid:1001000195048": 12,
+      "gas:candidate-vibid:1001000136019": 35,
+      "gas:candidate-vibid:1001000121816": 108,
+      "gas:candidate-vibid:1001000112194": 58,
+      "gas:candidate-vibid:1001000187995": 456,
+      "gas:candidate-vibid:323300470775": 47,
+      "special:against-all": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000036&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070399&region=0&sub_region=0&type=429",
@@ -4374,14 +4374,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 6,
-      "Денисенко Галина Алексеевна": 14,
-      "Земцова Маргарита Ивановна": 53,
-      "Меркачев Владимир Васильевич": 267,
-      "Ракуленко Андрей Георгиевич": 33,
-      "Харченко Иван Николаевич": 825,
-      "Шаплов Анатолий Анатольевич": 67,
-      "Против всех": 109
+      "gas:candidate-vibid:323300470746": 6,
+      "gas:candidate-vibid:1001000195048": 14,
+      "gas:candidate-vibid:1001000136019": 53,
+      "gas:candidate-vibid:1001000121816": 267,
+      "gas:candidate-vibid:1001000112194": 33,
+      "gas:candidate-vibid:1001000187995": 825,
+      "gas:candidate-vibid:323300470775": 67,
+      "special:against-all": 109
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000036&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070399&region=0&sub_region=0&type=429",
@@ -4431,14 +4431,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 8,
-      "Денисенко Галина Алексеевна": 27,
-      "Земцова Маргарита Ивановна": 71,
-      "Меркачев Владимир Васильевич": 494,
-      "Ракуленко Андрей Георгиевич": 63,
-      "Харченко Иван Николаевич": 452,
-      "Шаплов Анатолий Анатольевич": 58,
-      "Против всех": 121
+      "gas:candidate-vibid:323300470746": 8,
+      "gas:candidate-vibid:1001000195048": 27,
+      "gas:candidate-vibid:1001000136019": 71,
+      "gas:candidate-vibid:1001000121816": 494,
+      "gas:candidate-vibid:1001000112194": 63,
+      "gas:candidate-vibid:1001000187995": 452,
+      "gas:candidate-vibid:323300470775": 58,
+      "special:against-all": 121
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000036&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070399&region=0&sub_region=0&type=429",
@@ -4488,14 +4488,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 6,
-      "Денисенко Галина Алексеевна": 17,
-      "Земцова Маргарита Ивановна": 37,
-      "Меркачев Владимир Васильевич": 272,
-      "Ракуленко Андрей Георгиевич": 43,
-      "Харченко Иван Николаевич": 584,
-      "Шаплов Анатолий Анатольевич": 51,
-      "Против всех": 80
+      "gas:candidate-vibid:323300470746": 6,
+      "gas:candidate-vibid:1001000195048": 17,
+      "gas:candidate-vibid:1001000136019": 37,
+      "gas:candidate-vibid:1001000121816": 272,
+      "gas:candidate-vibid:1001000112194": 43,
+      "gas:candidate-vibid:1001000187995": 584,
+      "gas:candidate-vibid:323300470775": 51,
+      "special:against-all": 80
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000036&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070399&region=0&sub_region=0&type=429",
@@ -4545,14 +4545,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 16,
-      "Денисенко Галина Алексеевна": 21,
-      "Земцова Маргарита Ивановна": 48,
-      "Меркачев Владимир Васильевич": 263,
-      "Ракуленко Андрей Георгиевич": 78,
-      "Харченко Иван Николаевич": 397,
-      "Шаплов Анатолий Анатольевич": 65,
-      "Против всех": 121
+      "gas:candidate-vibid:323300470746": 16,
+      "gas:candidate-vibid:1001000195048": 21,
+      "gas:candidate-vibid:1001000136019": 48,
+      "gas:candidate-vibid:1001000121816": 263,
+      "gas:candidate-vibid:1001000112194": 78,
+      "gas:candidate-vibid:1001000187995": 397,
+      "gas:candidate-vibid:323300470775": 65,
+      "special:against-all": 121
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000036&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070399&region=0&sub_region=0&type=429",
@@ -4602,14 +4602,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 2,
-      "Денисенко Галина Алексеевна": 11,
-      "Земцова Маргарита Ивановна": 52,
-      "Меркачев Владимир Васильевич": 201,
-      "Ракуленко Андрей Георгиевич": 77,
-      "Харченко Иван Николаевич": 588,
-      "Шаплов Анатолий Анатольевич": 33,
-      "Против всех": 108
+      "gas:candidate-vibid:323300470746": 2,
+      "gas:candidate-vibid:1001000195048": 11,
+      "gas:candidate-vibid:1001000136019": 52,
+      "gas:candidate-vibid:1001000121816": 201,
+      "gas:candidate-vibid:1001000112194": 77,
+      "gas:candidate-vibid:1001000187995": 588,
+      "gas:candidate-vibid:323300470775": 33,
+      "special:against-all": 108
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000036&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070399&region=0&sub_region=0&type=429",
@@ -4659,14 +4659,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 3,
-      "Денисенко Галина Алексеевна": 10,
-      "Земцова Маргарита Ивановна": 19,
-      "Меркачев Владимир Васильевич": 100,
-      "Ракуленко Андрей Георгиевич": 34,
-      "Харченко Иван Николаевич": 249,
-      "Шаплов Анатолий Анатольевич": 34,
-      "Против всех": 60
+      "gas:candidate-vibid:323300470746": 3,
+      "gas:candidate-vibid:1001000195048": 10,
+      "gas:candidate-vibid:1001000136019": 19,
+      "gas:candidate-vibid:1001000121816": 100,
+      "gas:candidate-vibid:1001000112194": 34,
+      "gas:candidate-vibid:1001000187995": 249,
+      "gas:candidate-vibid:323300470775": 34,
+      "special:against-all": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000036&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070399&region=0&sub_region=0&type=429",
@@ -4716,14 +4716,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 2,
-      "Денисенко Галина Алексеевна": 5,
-      "Земцова Маргарита Ивановна": 4,
-      "Меркачев Владимир Васильевич": 77,
-      "Ракуленко Андрей Георгиевич": 16,
-      "Харченко Иван Николаевич": 86,
-      "Шаплов Анатолий Анатольевич": 21,
-      "Против всех": 33
+      "gas:candidate-vibid:323300470746": 2,
+      "gas:candidate-vibid:1001000195048": 5,
+      "gas:candidate-vibid:1001000136019": 4,
+      "gas:candidate-vibid:1001000121816": 77,
+      "gas:candidate-vibid:1001000112194": 16,
+      "gas:candidate-vibid:1001000187995": 86,
+      "gas:candidate-vibid:323300470775": 21,
+      "special:against-all": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000036&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070399&region=0&sub_region=0&type=429",
@@ -4773,14 +4773,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 8,
-      "Денисенко Галина Алексеевна": 31,
-      "Земцова Маргарита Ивановна": 60,
-      "Меркачев Владимир Васильевич": 264,
-      "Ракуленко Андрей Георгиевич": 134,
-      "Харченко Иван Николаевич": 639,
-      "Шаплов Анатолий Анатольевич": 96,
-      "Против всех": 234
+      "gas:candidate-vibid:323300470746": 8,
+      "gas:candidate-vibid:1001000195048": 31,
+      "gas:candidate-vibid:1001000136019": 60,
+      "gas:candidate-vibid:1001000121816": 264,
+      "gas:candidate-vibid:1001000112194": 134,
+      "gas:candidate-vibid:1001000187995": 639,
+      "gas:candidate-vibid:323300470775": 96,
+      "special:against-all": 234
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000036&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070399&region=0&sub_region=0&type=429",
@@ -4830,14 +4830,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 4,
-      "Денисенко Галина Алексеевна": 26,
-      "Земцова Маргарита Ивановна": 35,
-      "Меркачев Владимир Васильевич": 155,
-      "Ракуленко Андрей Георгиевич": 55,
-      "Харченко Иван Николаевич": 365,
-      "Шаплов Анатолий Анатольевич": 57,
-      "Против всех": 123
+      "gas:candidate-vibid:323300470746": 4,
+      "gas:candidate-vibid:1001000195048": 26,
+      "gas:candidate-vibid:1001000136019": 35,
+      "gas:candidate-vibid:1001000121816": 155,
+      "gas:candidate-vibid:1001000112194": 55,
+      "gas:candidate-vibid:1001000187995": 365,
+      "gas:candidate-vibid:323300470775": 57,
+      "special:against-all": 123
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000036&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070399&region=0&sub_region=0&type=429",
@@ -4887,14 +4887,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 3,
-      "Денисенко Галина Алексеевна": 21,
-      "Земцова Маргарита Ивановна": 46,
-      "Меркачев Владимир Васильевич": 99,
-      "Ракуленко Андрей Георгиевич": 53,
-      "Харченко Иван Николаевич": 494,
-      "Шаплов Анатолий Анатольевич": 59,
-      "Против всех": 138
+      "gas:candidate-vibid:323300470746": 3,
+      "gas:candidate-vibid:1001000195048": 21,
+      "gas:candidate-vibid:1001000136019": 46,
+      "gas:candidate-vibid:1001000121816": 99,
+      "gas:candidate-vibid:1001000112194": 53,
+      "gas:candidate-vibid:1001000187995": 494,
+      "gas:candidate-vibid:323300470775": 59,
+      "special:against-all": 138
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000036&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070399&region=0&sub_region=0&type=429",
@@ -4944,14 +4944,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 9,
-      "Денисенко Галина Алексеевна": 20,
-      "Земцова Маргарита Ивановна": 51,
-      "Меркачев Владимир Васильевич": 183,
-      "Ракуленко Андрей Георгиевич": 77,
-      "Харченко Иван Николаевич": 1009,
-      "Шаплов Анатолий Анатольевич": 67,
-      "Против всех": 150
+      "gas:candidate-vibid:323300470746": 9,
+      "gas:candidate-vibid:1001000195048": 20,
+      "gas:candidate-vibid:1001000136019": 51,
+      "gas:candidate-vibid:1001000121816": 183,
+      "gas:candidate-vibid:1001000112194": 77,
+      "gas:candidate-vibid:1001000187995": 1009,
+      "gas:candidate-vibid:323300470775": 67,
+      "special:against-all": 150
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000036&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070399&region=0&sub_region=0&type=429",
@@ -5001,14 +5001,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 2,
-      "Денисенко Галина Алексеевна": 12,
-      "Земцова Маргарита Ивановна": 27,
-      "Меркачев Владимир Васильевич": 154,
-      "Ракуленко Андрей Георгиевич": 37,
-      "Харченко Иван Николаевич": 352,
-      "Шаплов Анатолий Анатольевич": 28,
-      "Против всех": 84
+      "gas:candidate-vibid:323300470746": 2,
+      "gas:candidate-vibid:1001000195048": 12,
+      "gas:candidate-vibid:1001000136019": 27,
+      "gas:candidate-vibid:1001000121816": 154,
+      "gas:candidate-vibid:1001000112194": 37,
+      "gas:candidate-vibid:1001000187995": 352,
+      "gas:candidate-vibid:323300470775": 28,
+      "special:against-all": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000036&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070399&region=0&sub_region=0&type=429",
@@ -5058,14 +5058,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 3,
-      "Денисенко Галина Алексеевна": 14,
-      "Земцова Маргарита Ивановна": 30,
-      "Меркачев Владимир Васильевич": 62,
-      "Ракуленко Андрей Георгиевич": 36,
-      "Харченко Иван Николаевич": 388,
-      "Шаплов Анатолий Анатольевич": 31,
-      "Против всех": 111
+      "gas:candidate-vibid:323300470746": 3,
+      "gas:candidate-vibid:1001000195048": 14,
+      "gas:candidate-vibid:1001000136019": 30,
+      "gas:candidate-vibid:1001000121816": 62,
+      "gas:candidate-vibid:1001000112194": 36,
+      "gas:candidate-vibid:1001000187995": 388,
+      "gas:candidate-vibid:323300470775": 31,
+      "special:against-all": 111
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000036&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070399&region=0&sub_region=0&type=429",
@@ -5115,14 +5115,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 13,
-      "Денисенко Галина Алексеевна": 8,
-      "Земцова Маргарита Ивановна": 35,
-      "Меркачев Владимир Васильевич": 277,
-      "Ракуленко Андрей Георгиевич": 42,
-      "Харченко Иван Николаевич": 326,
-      "Шаплов Анатолий Анатольевич": 49,
-      "Против всех": 145
+      "gas:candidate-vibid:323300470746": 13,
+      "gas:candidate-vibid:1001000195048": 8,
+      "gas:candidate-vibid:1001000136019": 35,
+      "gas:candidate-vibid:1001000121816": 277,
+      "gas:candidate-vibid:1001000112194": 42,
+      "gas:candidate-vibid:1001000187995": 326,
+      "gas:candidate-vibid:323300470775": 49,
+      "special:against-all": 145
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000036&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070399&region=0&sub_region=0&type=429",
@@ -5172,14 +5172,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 8,
-      "Денисенко Галина Алексеевна": 24,
-      "Земцова Маргарита Ивановна": 32,
-      "Меркачев Владимир Васильевич": 125,
-      "Ракуленко Андрей Георгиевич": 40,
-      "Харченко Иван Николаевич": 490,
-      "Шаплов Анатолий Анатольевич": 42,
-      "Против всех": 177
+      "gas:candidate-vibid:323300470746": 8,
+      "gas:candidate-vibid:1001000195048": 24,
+      "gas:candidate-vibid:1001000136019": 32,
+      "gas:candidate-vibid:1001000121816": 125,
+      "gas:candidate-vibid:1001000112194": 40,
+      "gas:candidate-vibid:1001000187995": 490,
+      "gas:candidate-vibid:323300470775": 42,
+      "special:against-all": 177
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000036&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070399&region=0&sub_region=0&type=429",
@@ -5229,14 +5229,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 17,
-      "Денисенко Галина Алексеевна": 15,
-      "Земцова Маргарита Ивановна": 36,
-      "Меркачев Владимир Васильевич": 112,
-      "Ракуленко Андрей Георгиевич": 47,
-      "Харченко Иван Николаевич": 304,
-      "Шаплов Анатолий Анатольевич": 57,
-      "Против всех": 104
+      "gas:candidate-vibid:323300470746": 17,
+      "gas:candidate-vibid:1001000195048": 15,
+      "gas:candidate-vibid:1001000136019": 36,
+      "gas:candidate-vibid:1001000121816": 112,
+      "gas:candidate-vibid:1001000112194": 47,
+      "gas:candidate-vibid:1001000187995": 304,
+      "gas:candidate-vibid:323300470775": 57,
+      "special:against-all": 104
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000036&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070399&region=0&sub_region=0&type=429",
@@ -5286,14 +5286,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 9,
-      "Денисенко Галина Алексеевна": 9,
-      "Земцова Маргарита Ивановна": 28,
-      "Меркачев Владимир Васильевич": 142,
-      "Ракуленко Андрей Георгиевич": 39,
-      "Харченко Иван Николаевич": 440,
-      "Шаплов Анатолий Анатольевич": 42,
-      "Против всех": 114
+      "gas:candidate-vibid:323300470746": 9,
+      "gas:candidate-vibid:1001000195048": 9,
+      "gas:candidate-vibid:1001000136019": 28,
+      "gas:candidate-vibid:1001000121816": 142,
+      "gas:candidate-vibid:1001000112194": 39,
+      "gas:candidate-vibid:1001000187995": 440,
+      "gas:candidate-vibid:323300470775": 42,
+      "special:against-all": 114
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000036&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070399&region=0&sub_region=0&type=429",
@@ -5343,14 +5343,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 6,
-      "Денисенко Галина Алексеевна": 8,
-      "Земцова Маргарита Ивановна": 27,
-      "Меркачев Владимир Васильевич": 108,
-      "Ракуленко Андрей Георгиевич": 22,
-      "Харченко Иван Николаевич": 462,
-      "Шаплов Анатолий Анатольевич": 30,
-      "Против всех": 70
+      "gas:candidate-vibid:323300470746": 6,
+      "gas:candidate-vibid:1001000195048": 8,
+      "gas:candidate-vibid:1001000136019": 27,
+      "gas:candidate-vibid:1001000121816": 108,
+      "gas:candidate-vibid:1001000112194": 22,
+      "gas:candidate-vibid:1001000187995": 462,
+      "gas:candidate-vibid:323300470775": 30,
+      "special:against-all": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000036&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070399&region=0&sub_region=0&type=429",
@@ -5400,14 +5400,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 3,
-      "Денисенко Галина Алексеевна": 6,
-      "Земцова Маргарита Ивановна": 15,
-      "Меркачев Владимир Васильевич": 35,
-      "Ракуленко Андрей Георгиевич": 7,
-      "Харченко Иван Николаевич": 289,
-      "Шаплов Анатолий Анатольевич": 12,
-      "Против всех": 30
+      "gas:candidate-vibid:323300470746": 3,
+      "gas:candidate-vibid:1001000195048": 6,
+      "gas:candidate-vibid:1001000136019": 15,
+      "gas:candidate-vibid:1001000121816": 35,
+      "gas:candidate-vibid:1001000112194": 7,
+      "gas:candidate-vibid:1001000187995": 289,
+      "gas:candidate-vibid:323300470775": 12,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000036&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070399&region=0&sub_region=0&type=429",
@@ -5457,14 +5457,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 0,
-      "Денисенко Галина Алексеевна": 1,
-      "Земцова Маргарита Ивановна": 3,
-      "Меркачев Владимир Васильевич": 6,
-      "Ракуленко Андрей Георгиевич": 6,
-      "Харченко Иван Николаевич": 282,
-      "Шаплов Анатолий Анатольевич": 6,
-      "Против всех": 16
+      "gas:candidate-vibid:323300470746": 0,
+      "gas:candidate-vibid:1001000195048": 1,
+      "gas:candidate-vibid:1001000136019": 3,
+      "gas:candidate-vibid:1001000121816": 6,
+      "gas:candidate-vibid:1001000112194": 6,
+      "gas:candidate-vibid:1001000187995": 282,
+      "gas:candidate-vibid:323300470775": 6,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000036&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070399&region=0&sub_region=0&type=429",
@@ -5514,14 +5514,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 1,
-      "Денисенко Галина Алексеевна": 7,
-      "Земцова Маргарита Ивановна": 8,
-      "Меркачев Владимир Васильевич": 14,
-      "Ракуленко Андрей Георгиевич": 10,
-      "Харченко Иван Николаевич": 293,
-      "Шаплов Анатолий Анатольевич": 10,
-      "Против всех": 28
+      "gas:candidate-vibid:323300470746": 1,
+      "gas:candidate-vibid:1001000195048": 7,
+      "gas:candidate-vibid:1001000136019": 8,
+      "gas:candidate-vibid:1001000121816": 14,
+      "gas:candidate-vibid:1001000112194": 10,
+      "gas:candidate-vibid:1001000187995": 293,
+      "gas:candidate-vibid:323300470775": 10,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000036&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070399&region=0&sub_region=0&type=429",
@@ -5571,14 +5571,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 2,
-      "Денисенко Галина Алексеевна": 7,
-      "Земцова Маргарита Ивановна": 12,
-      "Меркачев Владимир Васильевич": 48,
-      "Ракуленко Андрей Георгиевич": 24,
-      "Харченко Иван Николаевич": 198,
-      "Шаплов Анатолий Анатольевич": 10,
-      "Против всех": 53
+      "gas:candidate-vibid:323300470746": 2,
+      "gas:candidate-vibid:1001000195048": 7,
+      "gas:candidate-vibid:1001000136019": 12,
+      "gas:candidate-vibid:1001000121816": 48,
+      "gas:candidate-vibid:1001000112194": 24,
+      "gas:candidate-vibid:1001000187995": 198,
+      "gas:candidate-vibid:323300470775": 10,
+      "special:against-all": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000036&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070399&region=0&sub_region=0&type=429",
@@ -5628,14 +5628,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 7,
-      "Денисенко Галина Алексеевна": 34,
-      "Земцова Маргарита Ивановна": 119,
-      "Меркачев Владимир Васильевич": 197,
-      "Ракуленко Андрей Георгиевич": 35,
-      "Харченко Иван Николаевич": 307,
-      "Шаплов Анатолий Анатольевич": 166,
-      "Против всех": 191
+      "gas:candidate-vibid:323300470746": 7,
+      "gas:candidate-vibid:1001000195048": 34,
+      "gas:candidate-vibid:1001000136019": 119,
+      "gas:candidate-vibid:1001000121816": 197,
+      "gas:candidate-vibid:1001000112194": 35,
+      "gas:candidate-vibid:1001000187995": 307,
+      "gas:candidate-vibid:323300470775": 166,
+      "special:against-all": 191
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070400&region=0&sub_region=0&type=429",
@@ -5685,14 +5685,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 6,
-      "Денисенко Галина Алексеевна": 29,
-      "Земцова Маргарита Ивановна": 50,
-      "Меркачев Владимир Васильевич": 151,
-      "Ракуленко Андрей Георгиевич": 20,
-      "Харченко Иван Николаевич": 269,
-      "Шаплов Анатолий Анатольевич": 101,
-      "Против всех": 121
+      "gas:candidate-vibid:323300470746": 6,
+      "gas:candidate-vibid:1001000195048": 29,
+      "gas:candidate-vibid:1001000136019": 50,
+      "gas:candidate-vibid:1001000121816": 151,
+      "gas:candidate-vibid:1001000112194": 20,
+      "gas:candidate-vibid:1001000187995": 269,
+      "gas:candidate-vibid:323300470775": 101,
+      "special:against-all": 121
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070400&region=0&sub_region=0&type=429",
@@ -5742,14 +5742,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 10,
-      "Денисенко Галина Алексеевна": 28,
-      "Земцова Маргарита Ивановна": 60,
-      "Меркачев Владимир Васильевич": 216,
-      "Ракуленко Андрей Георгиевич": 36,
-      "Харченко Иван Николаевич": 300,
-      "Шаплов Анатолий Анатольевич": 143,
-      "Против всех": 155
+      "gas:candidate-vibid:323300470746": 10,
+      "gas:candidate-vibid:1001000195048": 28,
+      "gas:candidate-vibid:1001000136019": 60,
+      "gas:candidate-vibid:1001000121816": 216,
+      "gas:candidate-vibid:1001000112194": 36,
+      "gas:candidate-vibid:1001000187995": 300,
+      "gas:candidate-vibid:323300470775": 143,
+      "special:against-all": 155
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070400&region=0&sub_region=0&type=429",
@@ -5799,14 +5799,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 13,
-      "Денисенко Галина Алексеевна": 45,
-      "Земцова Маргарита Ивановна": 62,
-      "Меркачев Владимир Васильевич": 126,
-      "Ракуленко Андрей Георгиевич": 33,
-      "Харченко Иван Николаевич": 320,
-      "Шаплов Анатолий Анатольевич": 167,
-      "Против всех": 149
+      "gas:candidate-vibid:323300470746": 13,
+      "gas:candidate-vibid:1001000195048": 45,
+      "gas:candidate-vibid:1001000136019": 62,
+      "gas:candidate-vibid:1001000121816": 126,
+      "gas:candidate-vibid:1001000112194": 33,
+      "gas:candidate-vibid:1001000187995": 320,
+      "gas:candidate-vibid:323300470775": 167,
+      "special:against-all": 149
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070400&region=0&sub_region=0&type=429",
@@ -5856,14 +5856,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 5,
-      "Денисенко Галина Алексеевна": 28,
-      "Земцова Маргарита Ивановна": 65,
-      "Меркачев Владимир Васильевич": 162,
-      "Ракуленко Андрей Георгиевич": 35,
-      "Харченко Иван Николаевич": 253,
-      "Шаплов Анатолий Анатольевич": 154,
-      "Против всех": 142
+      "gas:candidate-vibid:323300470746": 5,
+      "gas:candidate-vibid:1001000195048": 28,
+      "gas:candidate-vibid:1001000136019": 65,
+      "gas:candidate-vibid:1001000121816": 162,
+      "gas:candidate-vibid:1001000112194": 35,
+      "gas:candidate-vibid:1001000187995": 253,
+      "gas:candidate-vibid:323300470775": 154,
+      "special:against-all": 142
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070400&region=0&sub_region=0&type=429",
@@ -5913,14 +5913,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 4,
-      "Денисенко Галина Алексеевна": 8,
-      "Земцова Маргарита Ивановна": 17,
-      "Меркачев Владимир Васильевич": 17,
-      "Ракуленко Андрей Георгиевич": 6,
-      "Харченко Иван Николаевич": 37,
-      "Шаплов Анатолий Анатольевич": 34,
-      "Против всех": 9
+      "gas:candidate-vibid:323300470746": 4,
+      "gas:candidate-vibid:1001000195048": 8,
+      "gas:candidate-vibid:1001000136019": 17,
+      "gas:candidate-vibid:1001000121816": 17,
+      "gas:candidate-vibid:1001000112194": 6,
+      "gas:candidate-vibid:1001000187995": 37,
+      "gas:candidate-vibid:323300470775": 34,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070400&region=0&sub_region=0&type=429",
@@ -5970,14 +5970,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 13,
-      "Денисенко Галина Алексеевна": 54,
-      "Земцова Маргарита Ивановна": 79,
-      "Меркачев Владимир Васильевич": 132,
-      "Ракуленко Андрей Георгиевич": 39,
-      "Харченко Иван Николаевич": 375,
-      "Шаплов Анатолий Анатольевич": 190,
-      "Против всех": 159
+      "gas:candidate-vibid:323300470746": 13,
+      "gas:candidate-vibid:1001000195048": 54,
+      "gas:candidate-vibid:1001000136019": 79,
+      "gas:candidate-vibid:1001000121816": 132,
+      "gas:candidate-vibid:1001000112194": 39,
+      "gas:candidate-vibid:1001000187995": 375,
+      "gas:candidate-vibid:323300470775": 190,
+      "special:against-all": 159
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070400&region=0&sub_region=0&type=429",
@@ -6027,14 +6027,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 9,
-      "Денисенко Галина Алексеевна": 28,
-      "Земцова Маргарита Ивановна": 45,
-      "Меркачев Владимир Васильевич": 52,
-      "Ракуленко Андрей Георгиевич": 15,
-      "Харченко Иван Николаевич": 184,
-      "Шаплов Анатолий Анатольевич": 63,
-      "Против всех": 79
+      "gas:candidate-vibid:323300470746": 9,
+      "gas:candidate-vibid:1001000195048": 28,
+      "gas:candidate-vibid:1001000136019": 45,
+      "gas:candidate-vibid:1001000121816": 52,
+      "gas:candidate-vibid:1001000112194": 15,
+      "gas:candidate-vibid:1001000187995": 184,
+      "gas:candidate-vibid:323300470775": 63,
+      "special:against-all": 79
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070400&region=0&sub_region=0&type=429",
@@ -6084,14 +6084,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 9,
-      "Денисенко Галина Алексеевна": 41,
-      "Земцова Маргарита Ивановна": 61,
-      "Меркачев Владимир Васильевич": 102,
-      "Ракуленко Андрей Георгиевич": 44,
-      "Харченко Иван Николаевич": 207,
-      "Шаплов Анатолий Анатольевич": 180,
-      "Против всех": 158
+      "gas:candidate-vibid:323300470746": 9,
+      "gas:candidate-vibid:1001000195048": 41,
+      "gas:candidate-vibid:1001000136019": 61,
+      "gas:candidate-vibid:1001000121816": 102,
+      "gas:candidate-vibid:1001000112194": 44,
+      "gas:candidate-vibid:1001000187995": 207,
+      "gas:candidate-vibid:323300470775": 180,
+      "special:against-all": 158
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070400&region=0&sub_region=0&type=429",
@@ -6141,14 +6141,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 12,
-      "Денисенко Галина Алексеевна": 44,
-      "Земцова Маргарита Ивановна": 90,
-      "Меркачев Владимир Васильевич": 169,
-      "Ракуленко Андрей Георгиевич": 51,
-      "Харченко Иван Николаевич": 381,
-      "Шаплов Анатолий Анатольевич": 218,
-      "Против всех": 206
+      "gas:candidate-vibid:323300470746": 12,
+      "gas:candidate-vibid:1001000195048": 44,
+      "gas:candidate-vibid:1001000136019": 90,
+      "gas:candidate-vibid:1001000121816": 169,
+      "gas:candidate-vibid:1001000112194": 51,
+      "gas:candidate-vibid:1001000187995": 381,
+      "gas:candidate-vibid:323300470775": 218,
+      "special:against-all": 206
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070400&region=0&sub_region=0&type=429",
@@ -6198,14 +6198,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 9,
-      "Денисенко Галина Алексеевна": 37,
-      "Земцова Маргарита Ивановна": 102,
-      "Меркачев Владимир Васильевич": 163,
-      "Ракуленко Андрей Георгиевич": 65,
-      "Харченко Иван Николаевич": 278,
-      "Шаплов Анатолий Анатольевич": 168,
-      "Против всех": 190
+      "gas:candidate-vibid:323300470746": 9,
+      "gas:candidate-vibid:1001000195048": 37,
+      "gas:candidate-vibid:1001000136019": 102,
+      "gas:candidate-vibid:1001000121816": 163,
+      "gas:candidate-vibid:1001000112194": 65,
+      "gas:candidate-vibid:1001000187995": 278,
+      "gas:candidate-vibid:323300470775": 168,
+      "special:against-all": 190
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070400&region=0&sub_region=0&type=429",
@@ -6255,14 +6255,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 12,
-      "Денисенко Галина Алексеевна": 40,
-      "Земцова Маргарита Ивановна": 64,
-      "Меркачев Владимир Васильевич": 215,
-      "Ракуленко Андрей Георгиевич": 40,
-      "Харченко Иван Николаевич": 299,
-      "Шаплов Анатолий Анатольевич": 131,
-      "Против всех": 193
+      "gas:candidate-vibid:323300470746": 12,
+      "gas:candidate-vibid:1001000195048": 40,
+      "gas:candidate-vibid:1001000136019": 64,
+      "gas:candidate-vibid:1001000121816": 215,
+      "gas:candidate-vibid:1001000112194": 40,
+      "gas:candidate-vibid:1001000187995": 299,
+      "gas:candidate-vibid:323300470775": 131,
+      "special:against-all": 193
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070400&region=0&sub_region=0&type=429",
@@ -6312,14 +6312,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 10,
-      "Денисенко Галина Алексеевна": 39,
-      "Земцова Маргарита Ивановна": 87,
-      "Меркачев Владимир Васильевич": 207,
-      "Ракуленко Андрей Георгиевич": 49,
-      "Харченко Иван Николаевич": 310,
-      "Шаплов Анатолий Анатольевич": 174,
-      "Против всех": 216
+      "gas:candidate-vibid:323300470746": 10,
+      "gas:candidate-vibid:1001000195048": 39,
+      "gas:candidate-vibid:1001000136019": 87,
+      "gas:candidate-vibid:1001000121816": 207,
+      "gas:candidate-vibid:1001000112194": 49,
+      "gas:candidate-vibid:1001000187995": 310,
+      "gas:candidate-vibid:323300470775": 174,
+      "special:against-all": 216
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070400&region=0&sub_region=0&type=429",
@@ -6369,14 +6369,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 12,
-      "Денисенко Галина Алексеевна": 46,
-      "Земцова Маргарита Ивановна": 77,
-      "Меркачев Владимир Васильевич": 201,
-      "Ракуленко Андрей Георгиевич": 45,
-      "Харченко Иван Николаевич": 346,
-      "Шаплов Анатолий Анатольевич": 169,
-      "Против всех": 168
+      "gas:candidate-vibid:323300470746": 12,
+      "gas:candidate-vibid:1001000195048": 46,
+      "gas:candidate-vibid:1001000136019": 77,
+      "gas:candidate-vibid:1001000121816": 201,
+      "gas:candidate-vibid:1001000112194": 45,
+      "gas:candidate-vibid:1001000187995": 346,
+      "gas:candidate-vibid:323300470775": 169,
+      "special:against-all": 168
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070400&region=0&sub_region=0&type=429",
@@ -6426,14 +6426,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 10,
-      "Денисенко Галина Алексеевна": 30,
-      "Земцова Маргарита Ивановна": 68,
-      "Меркачев Владимир Васильевич": 114,
-      "Ракуленко Андрей Георгиевич": 21,
-      "Харченко Иван Николаевич": 238,
-      "Шаплов Анатолий Анатольевич": 90,
-      "Против всех": 127
+      "gas:candidate-vibid:323300470746": 10,
+      "gas:candidate-vibid:1001000195048": 30,
+      "gas:candidate-vibid:1001000136019": 68,
+      "gas:candidate-vibid:1001000121816": 114,
+      "gas:candidate-vibid:1001000112194": 21,
+      "gas:candidate-vibid:1001000187995": 238,
+      "gas:candidate-vibid:323300470775": 90,
+      "special:against-all": 127
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070400&region=0&sub_region=0&type=429",
@@ -6483,14 +6483,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 13,
-      "Денисенко Галина Алексеевна": 45,
-      "Земцова Маргарита Ивановна": 104,
-      "Меркачев Владимир Васильевич": 144,
-      "Ракуленко Андрей Георгиевич": 47,
-      "Харченко Иван Николаевич": 353,
-      "Шаплов Анатолий Анатольевич": 214,
-      "Против всех": 209
+      "gas:candidate-vibid:323300470746": 13,
+      "gas:candidate-vibid:1001000195048": 45,
+      "gas:candidate-vibid:1001000136019": 104,
+      "gas:candidate-vibid:1001000121816": 144,
+      "gas:candidate-vibid:1001000112194": 47,
+      "gas:candidate-vibid:1001000187995": 353,
+      "gas:candidate-vibid:323300470775": 214,
+      "special:against-all": 209
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070400&region=0&sub_region=0&type=429",
@@ -6540,14 +6540,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 6,
-      "Денисенко Галина Алексеевна": 46,
-      "Земцова Маргарита Ивановна": 59,
-      "Меркачев Владимир Васильевич": 88,
-      "Ракуленко Андрей Георгиевич": 16,
-      "Харченко Иван Николаевич": 219,
-      "Шаплов Анатолий Анатольевич": 167,
-      "Против всех": 135
+      "gas:candidate-vibid:323300470746": 6,
+      "gas:candidate-vibid:1001000195048": 46,
+      "gas:candidate-vibid:1001000136019": 59,
+      "gas:candidate-vibid:1001000121816": 88,
+      "gas:candidate-vibid:1001000112194": 16,
+      "gas:candidate-vibid:1001000187995": 219,
+      "gas:candidate-vibid:323300470775": 167,
+      "special:against-all": 135
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070400&region=0&sub_region=0&type=429",
@@ -6597,14 +6597,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 7,
-      "Денисенко Галина Алексеевна": 37,
-      "Земцова Маргарита Ивановна": 62,
-      "Меркачев Владимир Васильевич": 89,
-      "Ракуленко Андрей Георгиевич": 25,
-      "Харченко Иван Николаевич": 174,
-      "Шаплов Анатолий Анатольевич": 146,
-      "Против всех": 85
+      "gas:candidate-vibid:323300470746": 7,
+      "gas:candidate-vibid:1001000195048": 37,
+      "gas:candidate-vibid:1001000136019": 62,
+      "gas:candidate-vibid:1001000121816": 89,
+      "gas:candidate-vibid:1001000112194": 25,
+      "gas:candidate-vibid:1001000187995": 174,
+      "gas:candidate-vibid:323300470775": 146,
+      "special:against-all": 85
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070400&region=0&sub_region=0&type=429",
@@ -6654,14 +6654,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 6,
-      "Денисенко Галина Алексеевна": 41,
-      "Земцова Маргарита Ивановна": 79,
-      "Меркачев Владимир Васильевич": 228,
-      "Ракуленко Андрей Георгиевич": 51,
-      "Харченко Иван Николаевич": 371,
-      "Шаплов Анатолий Анатольевич": 192,
-      "Против всех": 253
+      "gas:candidate-vibid:323300470746": 6,
+      "gas:candidate-vibid:1001000195048": 41,
+      "gas:candidate-vibid:1001000136019": 79,
+      "gas:candidate-vibid:1001000121816": 228,
+      "gas:candidate-vibid:1001000112194": 51,
+      "gas:candidate-vibid:1001000187995": 371,
+      "gas:candidate-vibid:323300470775": 192,
+      "special:against-all": 253
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070400&region=0&sub_region=0&type=429",
@@ -6711,14 +6711,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 13,
-      "Денисенко Галина Алексеевна": 48,
-      "Земцова Маргарита Ивановна": 92,
-      "Меркачев Владимир Васильевич": 134,
-      "Ракуленко Андрей Георгиевич": 46,
-      "Харченко Иван Николаевич": 295,
-      "Шаплов Анатолий Анатольевич": 146,
-      "Против всех": 151
+      "gas:candidate-vibid:323300470746": 13,
+      "gas:candidate-vibid:1001000195048": 48,
+      "gas:candidate-vibid:1001000136019": 92,
+      "gas:candidate-vibid:1001000121816": 134,
+      "gas:candidate-vibid:1001000112194": 46,
+      "gas:candidate-vibid:1001000187995": 295,
+      "gas:candidate-vibid:323300470775": 146,
+      "special:against-all": 151
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070400&region=0&sub_region=0&type=429",
@@ -6768,14 +6768,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 15,
-      "Денисенко Галина Алексеевна": 51,
-      "Земцова Маргарита Ивановна": 129,
-      "Меркачев Владимир Васильевич": 148,
-      "Ракуленко Андрей Георгиевич": 49,
-      "Харченко Иван Николаевич": 299,
-      "Шаплов Анатолий Анатольевич": 182,
-      "Против всех": 346
+      "gas:candidate-vibid:323300470746": 15,
+      "gas:candidate-vibid:1001000195048": 51,
+      "gas:candidate-vibid:1001000136019": 129,
+      "gas:candidate-vibid:1001000121816": 148,
+      "gas:candidate-vibid:1001000112194": 49,
+      "gas:candidate-vibid:1001000187995": 299,
+      "gas:candidate-vibid:323300470775": 182,
+      "special:against-all": 346
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070400&region=0&sub_region=0&type=429",
@@ -6825,14 +6825,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 6,
-      "Денисенко Галина Алексеевна": 27,
-      "Земцова Маргарита Ивановна": 64,
-      "Меркачев Владимир Васильевич": 81,
-      "Ракуленко Андрей Георгиевич": 18,
-      "Харченко Иван Николаевич": 282,
-      "Шаплов Анатолий Анатольевич": 170,
-      "Против всех": 141
+      "gas:candidate-vibid:323300470746": 6,
+      "gas:candidate-vibid:1001000195048": 27,
+      "gas:candidate-vibid:1001000136019": 64,
+      "gas:candidate-vibid:1001000121816": 81,
+      "gas:candidate-vibid:1001000112194": 18,
+      "gas:candidate-vibid:1001000187995": 282,
+      "gas:candidate-vibid:323300470775": 170,
+      "special:against-all": 141
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070400&region=0&sub_region=0&type=429",
@@ -6882,14 +6882,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 3,
-      "Денисенко Галина Алексеевна": 3,
-      "Земцова Маргарита Ивановна": 11,
-      "Меркачев Владимир Васильевич": 13,
-      "Ракуленко Андрей Георгиевич": 1,
-      "Харченко Иван Николаевич": 71,
-      "Шаплов Анатолий Анатольевич": 12,
-      "Против всех": 17
+      "gas:candidate-vibid:323300470746": 3,
+      "gas:candidate-vibid:1001000195048": 3,
+      "gas:candidate-vibid:1001000136019": 11,
+      "gas:candidate-vibid:1001000121816": 13,
+      "gas:candidate-vibid:1001000112194": 1,
+      "gas:candidate-vibid:1001000187995": 71,
+      "gas:candidate-vibid:323300470775": 12,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070400&region=0&sub_region=0&type=429",
@@ -6939,14 +6939,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 2,
-      "Денисенко Галина Алексеевна": 41,
-      "Земцова Маргарита Ивановна": 47,
-      "Меркачев Владимир Васильевич": 58,
-      "Ракуленко Андрей Георгиевич": 13,
-      "Харченко Иван Николаевич": 360,
-      "Шаплов Анатолий Анатольевич": 134,
-      "Против всех": 90
+      "gas:candidate-vibid:323300470746": 2,
+      "gas:candidate-vibid:1001000195048": 41,
+      "gas:candidate-vibid:1001000136019": 47,
+      "gas:candidate-vibid:1001000121816": 58,
+      "gas:candidate-vibid:1001000112194": 13,
+      "gas:candidate-vibid:1001000187995": 360,
+      "gas:candidate-vibid:323300470775": 134,
+      "special:against-all": 90
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070400&region=0&sub_region=0&type=429",
@@ -6996,14 +6996,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 12,
-      "Денисенко Галина Алексеевна": 56,
-      "Земцова Маргарита Ивановна": 56,
-      "Меркачев Владимир Васильевич": 142,
-      "Ракуленко Андрей Георгиевич": 17,
-      "Харченко Иван Николаевич": 313,
-      "Шаплов Анатолий Анатольевич": 228,
-      "Против всех": 146
+      "gas:candidate-vibid:323300470746": 12,
+      "gas:candidate-vibid:1001000195048": 56,
+      "gas:candidate-vibid:1001000136019": 56,
+      "gas:candidate-vibid:1001000121816": 142,
+      "gas:candidate-vibid:1001000112194": 17,
+      "gas:candidate-vibid:1001000187995": 313,
+      "gas:candidate-vibid:323300470775": 228,
+      "special:against-all": 146
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070400&region=0&sub_region=0&type=429",
@@ -7053,14 +7053,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 1,
-      "Денисенко Галина Алексеевна": 12,
-      "Земцова Маргарита Ивановна": 31,
-      "Меркачев Владимир Васильевич": 53,
-      "Ракуленко Андрей Георгиевич": 0,
-      "Харченко Иван Николаевич": 128,
-      "Шаплов Анатолий Анатольевич": 47,
-      "Против всех": 47
+      "gas:candidate-vibid:323300470746": 1,
+      "gas:candidate-vibid:1001000195048": 12,
+      "gas:candidate-vibid:1001000136019": 31,
+      "gas:candidate-vibid:1001000121816": 53,
+      "gas:candidate-vibid:1001000112194": 0,
+      "gas:candidate-vibid:1001000187995": 128,
+      "gas:candidate-vibid:323300470775": 47,
+      "special:against-all": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070400&region=0&sub_region=0&type=429",
@@ -7110,14 +7110,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 11,
-      "Денисенко Галина Алексеевна": 12,
-      "Земцова Маргарита Ивановна": 18,
-      "Меркачев Владимир Васильевич": 53,
-      "Ракуленко Андрей Георгиевич": 6,
-      "Харченко Иван Николаевич": 113,
-      "Шаплов Анатолий Анатольевич": 42,
-      "Против всех": 29
+      "gas:candidate-vibid:323300470746": 11,
+      "gas:candidate-vibid:1001000195048": 12,
+      "gas:candidate-vibid:1001000136019": 18,
+      "gas:candidate-vibid:1001000121816": 53,
+      "gas:candidate-vibid:1001000112194": 6,
+      "gas:candidate-vibid:1001000187995": 113,
+      "gas:candidate-vibid:323300470775": 42,
+      "special:against-all": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070400&region=0&sub_region=0&type=429",
@@ -7167,14 +7167,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 8,
-      "Денисенко Галина Алексеевна": 18,
-      "Земцова Маргарита Ивановна": 36,
-      "Меркачев Владимир Васильевич": 108,
-      "Ракуленко Андрей Георгиевич": 12,
-      "Харченко Иван Николаевич": 236,
-      "Шаплов Анатолий Анатольевич": 72,
-      "Против всех": 80
+      "gas:candidate-vibid:323300470746": 8,
+      "gas:candidate-vibid:1001000195048": 18,
+      "gas:candidate-vibid:1001000136019": 36,
+      "gas:candidate-vibid:1001000121816": 108,
+      "gas:candidate-vibid:1001000112194": 12,
+      "gas:candidate-vibid:1001000187995": 236,
+      "gas:candidate-vibid:323300470775": 72,
+      "special:against-all": 80
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070400&region=0&sub_region=0&type=429",
@@ -7224,14 +7224,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 3,
-      "Денисенко Галина Алексеевна": 4,
-      "Земцова Маргарита Ивановна": 6,
-      "Меркачев Владимир Васильевич": 46,
-      "Ракуленко Андрей Георгиевич": 4,
-      "Харченко Иван Николаевич": 41,
-      "Шаплов Анатолий Анатольевич": 43,
-      "Против всех": 13
+      "gas:candidate-vibid:323300470746": 3,
+      "gas:candidate-vibid:1001000195048": 4,
+      "gas:candidate-vibid:1001000136019": 6,
+      "gas:candidate-vibid:1001000121816": 46,
+      "gas:candidate-vibid:1001000112194": 4,
+      "gas:candidate-vibid:1001000187995": 41,
+      "gas:candidate-vibid:323300470775": 43,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070400&region=0&sub_region=0&type=429",
@@ -7281,14 +7281,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 4,
-      "Денисенко Галина Алексеевна": 17,
-      "Земцова Маргарита Ивановна": 29,
-      "Меркачев Владимир Васильевич": 53,
-      "Ракуленко Андрей Георгиевич": 6,
-      "Харченко Иван Николаевич": 155,
-      "Шаплов Анатолий Анатольевич": 62,
-      "Против всех": 55
+      "gas:candidate-vibid:323300470746": 4,
+      "gas:candidate-vibid:1001000195048": 17,
+      "gas:candidate-vibid:1001000136019": 29,
+      "gas:candidate-vibid:1001000121816": 53,
+      "gas:candidate-vibid:1001000112194": 6,
+      "gas:candidate-vibid:1001000187995": 155,
+      "gas:candidate-vibid:323300470775": 62,
+      "special:against-all": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070400&region=0&sub_region=0&type=429",
@@ -7338,14 +7338,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 0,
-      "Денисенко Галина Алексеевна": 5,
-      "Земцова Маргарита Ивановна": 13,
-      "Меркачев Владимир Васильевич": 11,
-      "Ракуленко Андрей Георгиевич": 1,
-      "Харченко Иван Николаевич": 91,
-      "Шаплов Анатолий Анатольевич": 20,
-      "Против всех": 17
+      "gas:candidate-vibid:323300470746": 0,
+      "gas:candidate-vibid:1001000195048": 5,
+      "gas:candidate-vibid:1001000136019": 13,
+      "gas:candidate-vibid:1001000121816": 11,
+      "gas:candidate-vibid:1001000112194": 1,
+      "gas:candidate-vibid:1001000187995": 91,
+      "gas:candidate-vibid:323300470775": 20,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070400&region=0&sub_region=0&type=429",
@@ -7395,14 +7395,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 13,
-      "Денисенко Галина Алексеевна": 29,
-      "Земцова Маргарита Ивановна": 65,
-      "Меркачев Владимир Васильевич": 111,
-      "Ракуленко Андрей Георгиевич": 24,
-      "Харченко Иван Николаевич": 536,
-      "Шаплов Анатолий Анатольевич": 122,
-      "Против всех": 132
+      "gas:candidate-vibid:323300470746": 13,
+      "gas:candidate-vibid:1001000195048": 29,
+      "gas:candidate-vibid:1001000136019": 65,
+      "gas:candidate-vibid:1001000121816": 111,
+      "gas:candidate-vibid:1001000112194": 24,
+      "gas:candidate-vibid:1001000187995": 536,
+      "gas:candidate-vibid:323300470775": 122,
+      "special:against-all": 132
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070400&region=0&sub_region=0&type=429",
@@ -7452,14 +7452,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 1,
-      "Денисенко Галина Алексеевна": 4,
-      "Земцова Маргарита Ивановна": 8,
-      "Меркачев Владимир Васильевич": 23,
-      "Ракуленко Андрей Георгиевич": 1,
-      "Харченко Иван Николаевич": 61,
-      "Шаплов Анатолий Анатольевич": 6,
-      "Против всех": 17
+      "gas:candidate-vibid:323300470746": 1,
+      "gas:candidate-vibid:1001000195048": 4,
+      "gas:candidate-vibid:1001000136019": 8,
+      "gas:candidate-vibid:1001000121816": 23,
+      "gas:candidate-vibid:1001000112194": 1,
+      "gas:candidate-vibid:1001000187995": 61,
+      "gas:candidate-vibid:323300470775": 6,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070400&region=0&sub_region=0&type=429",
@@ -7509,14 +7509,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 0,
-      "Денисенко Галина Алексеевна": 2,
-      "Земцова Маргарита Ивановна": 1,
-      "Меркачев Владимир Васильевич": 10,
-      "Ракуленко Андрей Георгиевич": 5,
-      "Харченко Иван Николаевич": 72,
-      "Шаплов Анатолий Анатольевич": 11,
-      "Против всех": 15
+      "gas:candidate-vibid:323300470746": 0,
+      "gas:candidate-vibid:1001000195048": 2,
+      "gas:candidate-vibid:1001000136019": 1,
+      "gas:candidate-vibid:1001000121816": 10,
+      "gas:candidate-vibid:1001000112194": 5,
+      "gas:candidate-vibid:1001000187995": 72,
+      "gas:candidate-vibid:323300470775": 11,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070400&region=0&sub_region=0&type=429",
@@ -7566,14 +7566,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 4,
-      "Денисенко Галина Алексеевна": 11,
-      "Земцова Маргарита Ивановна": 23,
-      "Меркачев Владимир Васильевич": 20,
-      "Ракуленко Андрей Георгиевич": 7,
-      "Харченко Иван Николаевич": 115,
-      "Шаплов Анатолий Анатольевич": 40,
-      "Против всех": 34
+      "gas:candidate-vibid:323300470746": 4,
+      "gas:candidate-vibid:1001000195048": 11,
+      "gas:candidate-vibid:1001000136019": 23,
+      "gas:candidate-vibid:1001000121816": 20,
+      "gas:candidate-vibid:1001000112194": 7,
+      "gas:candidate-vibid:1001000187995": 115,
+      "gas:candidate-vibid:323300470775": 40,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070400&region=0&sub_region=0&type=429",
@@ -7623,14 +7623,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 6,
-      "Денисенко Галина Алексеевна": 31,
-      "Земцова Маргарита Ивановна": 70,
-      "Меркачев Владимир Васильевич": 151,
-      "Ракуленко Андрей Георгиевич": 27,
-      "Харченко Иван Николаевич": 303,
-      "Шаплов Анатолий Анатольевич": 204,
-      "Против всех": 136
+      "gas:candidate-vibid:323300470746": 6,
+      "gas:candidate-vibid:1001000195048": 31,
+      "gas:candidate-vibid:1001000136019": 70,
+      "gas:candidate-vibid:1001000121816": 151,
+      "gas:candidate-vibid:1001000112194": 27,
+      "gas:candidate-vibid:1001000187995": 303,
+      "gas:candidate-vibid:323300470775": 204,
+      "special:against-all": 136
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070400&region=0&sub_region=0&type=429",
@@ -7680,14 +7680,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 17,
-      "Денисенко Галина Алексеевна": 67,
-      "Земцова Маргарита Ивановна": 51,
-      "Меркачев Владимир Васильевич": 154,
-      "Ракуленко Андрей Георгиевич": 39,
-      "Харченко Иван Николаевич": 317,
-      "Шаплов Анатолий Анатольевич": 228,
-      "Против всех": 137
+      "gas:candidate-vibid:323300470746": 17,
+      "gas:candidate-vibid:1001000195048": 67,
+      "gas:candidate-vibid:1001000136019": 51,
+      "gas:candidate-vibid:1001000121816": 154,
+      "gas:candidate-vibid:1001000112194": 39,
+      "gas:candidate-vibid:1001000187995": 317,
+      "gas:candidate-vibid:323300470775": 228,
+      "special:against-all": 137
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070400&region=0&sub_region=0&type=429",
@@ -7737,14 +7737,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 9,
-      "Денисенко Галина Алексеевна": 32,
-      "Земцова Маргарита Ивановна": 61,
-      "Меркачев Владимир Васильевич": 138,
-      "Ракуленко Андрей Георгиевич": 26,
-      "Харченко Иван Николаевич": 318,
-      "Шаплов Анатолий Анатольевич": 199,
-      "Против всех": 136
+      "gas:candidate-vibid:323300470746": 9,
+      "gas:candidate-vibid:1001000195048": 32,
+      "gas:candidate-vibid:1001000136019": 61,
+      "gas:candidate-vibid:1001000121816": 138,
+      "gas:candidate-vibid:1001000112194": 26,
+      "gas:candidate-vibid:1001000187995": 318,
+      "gas:candidate-vibid:323300470775": 199,
+      "special:against-all": 136
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070400&region=0&sub_region=0&type=429",
@@ -7794,14 +7794,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 6,
-      "Денисенко Галина Алексеевна": 41,
-      "Земцова Маргарита Ивановна": 87,
-      "Меркачев Владимир Васильевич": 99,
-      "Ракуленко Андрей Георгиевич": 24,
-      "Харченко Иван Николаевич": 352,
-      "Шаплов Анатолий Анатольевич": 273,
-      "Против всех": 177
+      "gas:candidate-vibid:323300470746": 6,
+      "gas:candidate-vibid:1001000195048": 41,
+      "gas:candidate-vibid:1001000136019": 87,
+      "gas:candidate-vibid:1001000121816": 99,
+      "gas:candidate-vibid:1001000112194": 24,
+      "gas:candidate-vibid:1001000187995": 352,
+      "gas:candidate-vibid:323300470775": 273,
+      "special:against-all": 177
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070400&region=0&sub_region=0&type=429",
@@ -7851,14 +7851,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 3,
-      "Денисенко Галина Алексеевна": 13,
-      "Земцова Маргарита Ивановна": 10,
-      "Меркачев Владимир Васильевич": 10,
-      "Ракуленко Андрей Георгиевич": 4,
-      "Харченко Иван Николаевич": 93,
-      "Шаплов Анатолий Анатольевич": 31,
-      "Против всех": 32
+      "gas:candidate-vibid:323300470746": 3,
+      "gas:candidate-vibid:1001000195048": 13,
+      "gas:candidate-vibid:1001000136019": 10,
+      "gas:candidate-vibid:1001000121816": 10,
+      "gas:candidate-vibid:1001000112194": 4,
+      "gas:candidate-vibid:1001000187995": 93,
+      "gas:candidate-vibid:323300470775": 31,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070400&region=0&sub_region=0&type=429",
@@ -7908,14 +7908,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 6,
-      "Денисенко Галина Алексеевна": 18,
-      "Земцова Маргарита Ивановна": 16,
-      "Меркачев Владимир Васильевич": 44,
-      "Ракуленко Андрей Георгиевич": 9,
-      "Харченко Иван Николаевич": 217,
-      "Шаплов Анатолий Анатольевич": 57,
-      "Против всех": 59
+      "gas:candidate-vibid:323300470746": 6,
+      "gas:candidate-vibid:1001000195048": 18,
+      "gas:candidate-vibid:1001000136019": 16,
+      "gas:candidate-vibid:1001000121816": 44,
+      "gas:candidate-vibid:1001000112194": 9,
+      "gas:candidate-vibid:1001000187995": 217,
+      "gas:candidate-vibid:323300470775": 57,
+      "special:against-all": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070400&region=0&sub_region=0&type=429",
@@ -7965,14 +7965,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 7,
-      "Денисенко Галина Алексеевна": 61,
-      "Земцова Маргарита Ивановна": 73,
-      "Меркачев Владимир Васильевич": 94,
-      "Ракуленко Андрей Георгиевич": 31,
-      "Харченко Иван Николаевич": 364,
-      "Шаплов Анатолий Анатольевич": 183,
-      "Против всех": 209
+      "gas:candidate-vibid:323300470746": 7,
+      "gas:candidate-vibid:1001000195048": 61,
+      "gas:candidate-vibid:1001000136019": 73,
+      "gas:candidate-vibid:1001000121816": 94,
+      "gas:candidate-vibid:1001000112194": 31,
+      "gas:candidate-vibid:1001000187995": 364,
+      "gas:candidate-vibid:323300470775": 183,
+      "special:against-all": 209
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070400&region=0&sub_region=0&type=429",
@@ -8022,14 +8022,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 3,
-      "Денисенко Галина Алексеевна": 16,
-      "Земцова Маргарита Ивановна": 41,
-      "Меркачев Владимир Васильевич": 48,
-      "Ракуленко Андрей Георгиевич": 8,
-      "Харченко Иван Николаевич": 131,
-      "Шаплов Анатолий Анатольевич": 88,
-      "Против всех": 104
+      "gas:candidate-vibid:323300470746": 3,
+      "gas:candidate-vibid:1001000195048": 16,
+      "gas:candidate-vibid:1001000136019": 41,
+      "gas:candidate-vibid:1001000121816": 48,
+      "gas:candidate-vibid:1001000112194": 8,
+      "gas:candidate-vibid:1001000187995": 131,
+      "gas:candidate-vibid:323300470775": 88,
+      "special:against-all": 104
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070400&region=0&sub_region=0&type=429",
@@ -8079,14 +8079,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 1,
-      "Денисенко Галина Алексеевна": 0,
-      "Земцова Маргарита Ивановна": 6,
-      "Меркачев Владимир Васильевич": 4,
-      "Ракуленко Андрей Георгиевич": 3,
-      "Харченко Иван Николаевич": 29,
-      "Шаплов Анатолий Анатольевич": 35,
-      "Против всех": 24
+      "gas:candidate-vibid:323300470746": 1,
+      "gas:candidate-vibid:1001000195048": 0,
+      "gas:candidate-vibid:1001000136019": 6,
+      "gas:candidate-vibid:1001000121816": 4,
+      "gas:candidate-vibid:1001000112194": 3,
+      "gas:candidate-vibid:1001000187995": 29,
+      "gas:candidate-vibid:323300470775": 35,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070400&region=0&sub_region=0&type=429",
@@ -8136,14 +8136,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 0,
-      "Денисенко Галина Алексеевна": 3,
-      "Земцова Маргарита Ивановна": 15,
-      "Меркачев Владимир Васильевич": 11,
-      "Ракуленко Андрей Георгиевич": 9,
-      "Харченко Иван Николаевич": 62,
-      "Шаплов Анатолий Анатольевич": 89,
-      "Против всех": 32
+      "gas:candidate-vibid:323300470746": 0,
+      "gas:candidate-vibid:1001000195048": 3,
+      "gas:candidate-vibid:1001000136019": 15,
+      "gas:candidate-vibid:1001000121816": 11,
+      "gas:candidate-vibid:1001000112194": 9,
+      "gas:candidate-vibid:1001000187995": 62,
+      "gas:candidate-vibid:323300470775": 89,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070400&region=0&sub_region=0&type=429",
@@ -8193,14 +8193,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 3,
-      "Денисенко Галина Алексеевна": 23,
-      "Земцова Маргарита Ивановна": 57,
-      "Меркачев Владимир Васильевич": 96,
-      "Ракуленко Андрей Георгиевич": 22,
-      "Харченко Иван Николаевич": 343,
-      "Шаплов Анатолий Анатольевич": 95,
-      "Против всех": 102
+      "gas:candidate-vibid:323300470746": 3,
+      "gas:candidate-vibid:1001000195048": 23,
+      "gas:candidate-vibid:1001000136019": 57,
+      "gas:candidate-vibid:1001000121816": 96,
+      "gas:candidate-vibid:1001000112194": 22,
+      "gas:candidate-vibid:1001000187995": 343,
+      "gas:candidate-vibid:323300470775": 95,
+      "special:against-all": 102
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070400&region=0&sub_region=0&type=429",
@@ -8250,14 +8250,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 5,
-      "Денисенко Галина Алексеевна": 9,
-      "Земцова Маргарита Ивановна": 17,
-      "Меркачев Владимир Васильевич": 25,
-      "Ракуленко Андрей Георгиевич": 2,
-      "Харченко Иван Николаевич": 100,
-      "Шаплов Анатолий Анатольевич": 55,
-      "Против всех": 69
+      "gas:candidate-vibid:323300470746": 5,
+      "gas:candidate-vibid:1001000195048": 9,
+      "gas:candidate-vibid:1001000136019": 17,
+      "gas:candidate-vibid:1001000121816": 25,
+      "gas:candidate-vibid:1001000112194": 2,
+      "gas:candidate-vibid:1001000187995": 100,
+      "gas:candidate-vibid:323300470775": 55,
+      "special:against-all": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070400&region=0&sub_region=0&type=429",
@@ -8307,14 +8307,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 5,
-      "Денисенко Галина Алексеевна": 34,
-      "Земцова Маргарита Ивановна": 86,
-      "Меркачев Владимир Васильевич": 103,
-      "Ракуленко Андрей Георгиевич": 22,
-      "Харченко Иван Николаевич": 340,
-      "Шаплов Анатолий Анатольевич": 138,
-      "Против всех": 193
+      "gas:candidate-vibid:323300470746": 5,
+      "gas:candidate-vibid:1001000195048": 34,
+      "gas:candidate-vibid:1001000136019": 86,
+      "gas:candidate-vibid:1001000121816": 103,
+      "gas:candidate-vibid:1001000112194": 22,
+      "gas:candidate-vibid:1001000187995": 340,
+      "gas:candidate-vibid:323300470775": 138,
+      "special:against-all": 193
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070400&region=0&sub_region=0&type=429",
@@ -8364,14 +8364,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 15,
-      "Денисенко Галина Алексеевна": 53,
-      "Земцова Маргарита Ивановна": 101,
-      "Меркачев Владимир Васильевич": 135,
-      "Ракуленко Андрей Георгиевич": 39,
-      "Харченко Иван Николаевич": 452,
-      "Шаплов Анатолий Анатольевич": 189,
-      "Против всех": 174
+      "gas:candidate-vibid:323300470746": 15,
+      "gas:candidate-vibid:1001000195048": 53,
+      "gas:candidate-vibid:1001000136019": 101,
+      "gas:candidate-vibid:1001000121816": 135,
+      "gas:candidate-vibid:1001000112194": 39,
+      "gas:candidate-vibid:1001000187995": 452,
+      "gas:candidate-vibid:323300470775": 189,
+      "special:against-all": 174
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070400&region=0&sub_region=0&type=429",
@@ -8421,14 +8421,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 9,
-      "Денисенко Галина Алексеевна": 15,
-      "Земцова Маргарита Ивановна": 42,
-      "Меркачев Владимир Васильевич": 97,
-      "Ракуленко Андрей Георгиевич": 11,
-      "Харченко Иван Николаевич": 282,
-      "Шаплов Анатолий Анатольевич": 74,
-      "Против всех": 88
+      "gas:candidate-vibid:323300470746": 9,
+      "gas:candidate-vibid:1001000195048": 15,
+      "gas:candidate-vibid:1001000136019": 42,
+      "gas:candidate-vibid:1001000121816": 97,
+      "gas:candidate-vibid:1001000112194": 11,
+      "gas:candidate-vibid:1001000187995": 282,
+      "gas:candidate-vibid:323300470775": 74,
+      "special:against-all": 88
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070400&region=0&sub_region=0&type=429",
@@ -8478,14 +8478,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 10,
-      "Денисенко Галина Алексеевна": 12,
-      "Земцова Маргарита Ивановна": 40,
-      "Меркачев Владимир Васильевич": 52,
-      "Ракуленко Андрей Георгиевич": 15,
-      "Харченко Иван Николаевич": 312,
-      "Шаплов Анатолий Анатольевич": 70,
-      "Против всех": 62
+      "gas:candidate-vibid:323300470746": 10,
+      "gas:candidate-vibid:1001000195048": 12,
+      "gas:candidate-vibid:1001000136019": 40,
+      "gas:candidate-vibid:1001000121816": 52,
+      "gas:candidate-vibid:1001000112194": 15,
+      "gas:candidate-vibid:1001000187995": 312,
+      "gas:candidate-vibid:323300470775": 70,
+      "special:against-all": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070400&region=0&sub_region=0&type=429",
@@ -8535,14 +8535,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 10,
-      "Денисенко Галина Алексеевна": 37,
-      "Земцова Маргарита Ивановна": 49,
-      "Меркачев Владимир Васильевич": 104,
-      "Ракуленко Андрей Георгиевич": 22,
-      "Харченко Иван Николаевич": 407,
-      "Шаплов Анатолий Анатольевич": 112,
-      "Против всех": 119
+      "gas:candidate-vibid:323300470746": 10,
+      "gas:candidate-vibid:1001000195048": 37,
+      "gas:candidate-vibid:1001000136019": 49,
+      "gas:candidate-vibid:1001000121816": 104,
+      "gas:candidate-vibid:1001000112194": 22,
+      "gas:candidate-vibid:1001000187995": 407,
+      "gas:candidate-vibid:323300470775": 112,
+      "special:against-all": 119
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070400&region=0&sub_region=0&type=429",
@@ -8592,14 +8592,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 12,
-      "Денисенко Галина Алексеевна": 26,
-      "Земцова Маргарита Ивановна": 100,
-      "Меркачев Владимир Васильевич": 130,
-      "Ракуленко Андрей Георгиевич": 39,
-      "Харченко Иван Николаевич": 639,
-      "Шаплов Анатолий Анатольевич": 187,
-      "Против всех": 201
+      "gas:candidate-vibid:323300470746": 12,
+      "gas:candidate-vibid:1001000195048": 26,
+      "gas:candidate-vibid:1001000136019": 100,
+      "gas:candidate-vibid:1001000121816": 130,
+      "gas:candidate-vibid:1001000112194": 39,
+      "gas:candidate-vibid:1001000187995": 639,
+      "gas:candidate-vibid:323300470775": 187,
+      "special:against-all": 201
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070400&region=0&sub_region=0&type=429",
@@ -8649,14 +8649,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 4,
-      "Денисенко Галина Алексеевна": 1,
-      "Земцова Маргарита Ивановна": 13,
-      "Меркачев Владимир Васильевич": 16,
-      "Ракуленко Андрей Георгиевич": 2,
-      "Харченко Иван Николаевич": 247,
-      "Шаплов Анатолий Анатольевич": 19,
-      "Против всех": 11
+      "gas:candidate-vibid:323300470746": 4,
+      "gas:candidate-vibid:1001000195048": 1,
+      "gas:candidate-vibid:1001000136019": 13,
+      "gas:candidate-vibid:1001000121816": 16,
+      "gas:candidate-vibid:1001000112194": 2,
+      "gas:candidate-vibid:1001000187995": 247,
+      "gas:candidate-vibid:323300470775": 19,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070400&region=0&sub_region=0&type=429",
@@ -8706,14 +8706,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 2,
-      "Денисенко Галина Алексеевна": 1,
-      "Земцова Маргарита Ивановна": 13,
-      "Меркачев Владимир Васильевич": 42,
-      "Ракуленко Андрей Георгиевич": 5,
-      "Харченко Иван Николаевич": 69,
-      "Шаплов Анатолий Анатольевич": 25,
-      "Против всех": 22
+      "gas:candidate-vibid:323300470746": 2,
+      "gas:candidate-vibid:1001000195048": 1,
+      "gas:candidate-vibid:1001000136019": 13,
+      "gas:candidate-vibid:1001000121816": 42,
+      "gas:candidate-vibid:1001000112194": 5,
+      "gas:candidate-vibid:1001000187995": 69,
+      "gas:candidate-vibid:323300470775": 25,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070400&region=0&sub_region=0&type=429",
@@ -8763,14 +8763,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 2,
-      "Денисенко Галина Алексеевна": 8,
-      "Земцова Маргарита Ивановна": 16,
-      "Меркачев Владимир Васильевич": 74,
-      "Ракуленко Андрей Георгиевич": 16,
-      "Харченко Иван Николаевич": 149,
-      "Шаплов Анатолий Анатольевич": 40,
-      "Против всех": 48
+      "gas:candidate-vibid:323300470746": 2,
+      "gas:candidate-vibid:1001000195048": 8,
+      "gas:candidate-vibid:1001000136019": 16,
+      "gas:candidate-vibid:1001000121816": 74,
+      "gas:candidate-vibid:1001000112194": 16,
+      "gas:candidate-vibid:1001000187995": 149,
+      "gas:candidate-vibid:323300470775": 40,
+      "special:against-all": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070400&region=0&sub_region=0&type=429",
@@ -8820,14 +8820,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 2,
-      "Денисенко Галина Алексеевна": 22,
-      "Земцова Маргарита Ивановна": 9,
-      "Меркачев Владимир Васильевич": 16,
-      "Ракуленко Андрей Георгиевич": 3,
-      "Харченко Иван Николаевич": 91,
-      "Шаплов Анатолий Анатольевич": 32,
-      "Против всех": 18
+      "gas:candidate-vibid:323300470746": 2,
+      "gas:candidate-vibid:1001000195048": 22,
+      "gas:candidate-vibid:1001000136019": 9,
+      "gas:candidate-vibid:1001000121816": 16,
+      "gas:candidate-vibid:1001000112194": 3,
+      "gas:candidate-vibid:1001000187995": 91,
+      "gas:candidate-vibid:323300470775": 32,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070400&region=0&sub_region=0&type=429",
@@ -8877,14 +8877,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 1,
-      "Денисенко Галина Алексеевна": 10,
-      "Земцова Маргарита Ивановна": 9,
-      "Меркачев Владимир Васильевич": 28,
-      "Ракуленко Андрей Георгиевич": 3,
-      "Харченко Иван Николаевич": 48,
-      "Шаплов Анатолий Анатольевич": 113,
-      "Против всех": 33
+      "gas:candidate-vibid:323300470746": 1,
+      "gas:candidate-vibid:1001000195048": 10,
+      "gas:candidate-vibid:1001000136019": 9,
+      "gas:candidate-vibid:1001000121816": 28,
+      "gas:candidate-vibid:1001000112194": 3,
+      "gas:candidate-vibid:1001000187995": 48,
+      "gas:candidate-vibid:323300470775": 113,
+      "special:against-all": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070400&region=0&sub_region=0&type=429",
@@ -8934,14 +8934,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 2,
-      "Денисенко Галина Алексеевна": 17,
-      "Земцова Маргарита Ивановна": 31,
-      "Меркачев Владимир Васильевич": 20,
-      "Ракуленко Андрей Георгиевич": 6,
-      "Харченко Иван Николаевич": 127,
-      "Шаплов Анатолий Анатольевич": 69,
-      "Против всех": 56
+      "gas:candidate-vibid:323300470746": 2,
+      "gas:candidate-vibid:1001000195048": 17,
+      "gas:candidate-vibid:1001000136019": 31,
+      "gas:candidate-vibid:1001000121816": 20,
+      "gas:candidate-vibid:1001000112194": 6,
+      "gas:candidate-vibid:1001000187995": 127,
+      "gas:candidate-vibid:323300470775": 69,
+      "special:against-all": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070400&region=0&sub_region=0&type=429",
@@ -8991,14 +8991,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 3,
-      "Денисенко Галина Алексеевна": 9,
-      "Земцова Маргарита Ивановна": 21,
-      "Меркачев Владимир Васильевич": 26,
-      "Ракуленко Андрей Георгиевич": 9,
-      "Харченко Иван Николаевич": 88,
-      "Шаплов Анатолий Анатольевич": 75,
-      "Против всех": 47
+      "gas:candidate-vibid:323300470746": 3,
+      "gas:candidate-vibid:1001000195048": 9,
+      "gas:candidate-vibid:1001000136019": 21,
+      "gas:candidate-vibid:1001000121816": 26,
+      "gas:candidate-vibid:1001000112194": 9,
+      "gas:candidate-vibid:1001000187995": 88,
+      "gas:candidate-vibid:323300470775": 75,
+      "special:against-all": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070400&region=0&sub_region=0&type=429",
@@ -9048,14 +9048,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 19,
-      "Денисенко Галина Алексеевна": 37,
-      "Земцова Маргарита Ивановна": 130,
-      "Меркачев Владимир Васильевич": 115,
-      "Ракуленко Андрей Георгиевич": 29,
-      "Харченко Иван Николаевич": 378,
-      "Шаплов Анатолий Анатольевич": 175,
-      "Против всех": 167
+      "gas:candidate-vibid:323300470746": 19,
+      "gas:candidate-vibid:1001000195048": 37,
+      "gas:candidate-vibid:1001000136019": 130,
+      "gas:candidate-vibid:1001000121816": 115,
+      "gas:candidate-vibid:1001000112194": 29,
+      "gas:candidate-vibid:1001000187995": 378,
+      "gas:candidate-vibid:323300470775": 175,
+      "special:against-all": 167
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070400&region=0&sub_region=0&type=429",
@@ -9105,14 +9105,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 18,
-      "Денисенко Галина Алексеевна": 48,
-      "Земцова Маргарита Ивановна": 132,
-      "Меркачев Владимир Васильевич": 126,
-      "Ракуленко Андрей Георгиевич": 28,
-      "Харченко Иван Николаевич": 488,
-      "Шаплов Анатолий Анатольевич": 170,
-      "Против всех": 201
+      "gas:candidate-vibid:323300470746": 18,
+      "gas:candidate-vibid:1001000195048": 48,
+      "gas:candidate-vibid:1001000136019": 132,
+      "gas:candidate-vibid:1001000121816": 126,
+      "gas:candidate-vibid:1001000112194": 28,
+      "gas:candidate-vibid:1001000187995": 488,
+      "gas:candidate-vibid:323300470775": 170,
+      "special:against-all": 201
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070400&region=0&sub_region=0&type=429",
@@ -9162,14 +9162,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 7,
-      "Денисенко Галина Алексеевна": 12,
-      "Земцова Маргарита Ивановна": 23,
-      "Меркачев Владимир Васильевич": 48,
-      "Ракуленко Андрей Георгиевич": 20,
-      "Харченко Иван Николаевич": 290,
-      "Шаплов Анатолий Анатольевич": 134,
-      "Против всех": 79
+      "gas:candidate-vibid:323300470746": 7,
+      "gas:candidate-vibid:1001000195048": 12,
+      "gas:candidate-vibid:1001000136019": 23,
+      "gas:candidate-vibid:1001000121816": 48,
+      "gas:candidate-vibid:1001000112194": 20,
+      "gas:candidate-vibid:1001000187995": 290,
+      "gas:candidate-vibid:323300470775": 134,
+      "special:against-all": 79
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070400&region=0&sub_region=0&type=429",
@@ -9219,14 +9219,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 18,
-      "Денисенко Галина Алексеевна": 143,
-      "Земцова Маргарита Ивановна": 65,
-      "Меркачев Владимир Васильевич": 113,
-      "Ракуленко Андрей Георгиевич": 66,
-      "Харченко Иван Николаевич": 386,
-      "Шаплов Анатолий Анатольевич": 336,
-      "Против всех": 258
+      "gas:candidate-vibid:323300470746": 18,
+      "gas:candidate-vibid:1001000195048": 143,
+      "gas:candidate-vibid:1001000136019": 65,
+      "gas:candidate-vibid:1001000121816": 113,
+      "gas:candidate-vibid:1001000112194": 66,
+      "gas:candidate-vibid:1001000187995": 386,
+      "gas:candidate-vibid:323300470775": 336,
+      "special:against-all": 258
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070401&region=0&sub_region=0&type=429",
@@ -9276,14 +9276,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 66,
-      "Денисенко Галина Алексеевна": 188,
-      "Земцова Маргарита Ивановна": 187,
-      "Меркачев Владимир Васильевич": 218,
-      "Ракуленко Андрей Георгиевич": 104,
-      "Харченко Иван Николаевич": 472,
-      "Шаплов Анатолий Анатольевич": 515,
-      "Против всех": 656
+      "gas:candidate-vibid:323300470746": 66,
+      "gas:candidate-vibid:1001000195048": 188,
+      "gas:candidate-vibid:1001000136019": 187,
+      "gas:candidate-vibid:1001000121816": 218,
+      "gas:candidate-vibid:1001000112194": 104,
+      "gas:candidate-vibid:1001000187995": 472,
+      "gas:candidate-vibid:323300470775": 515,
+      "special:against-all": 656
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070401&region=0&sub_region=0&type=429",
@@ -9333,14 +9333,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 74,
-      "Денисенко Галина Алексеевна": 202,
-      "Земцова Маргарита Ивановна": 209,
-      "Меркачев Владимир Васильевич": 150,
-      "Ракуленко Андрей Георгиевич": 83,
-      "Харченко Иван Николаевич": 441,
-      "Шаплов Анатолий Анатольевич": 299,
-      "Против всех": 500
+      "gas:candidate-vibid:323300470746": 74,
+      "gas:candidate-vibid:1001000195048": 202,
+      "gas:candidate-vibid:1001000136019": 209,
+      "gas:candidate-vibid:1001000121816": 150,
+      "gas:candidate-vibid:1001000112194": 83,
+      "gas:candidate-vibid:1001000187995": 441,
+      "gas:candidate-vibid:323300470775": 299,
+      "special:against-all": 500
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070401&region=0&sub_region=0&type=429",
@@ -9390,14 +9390,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 14,
-      "Денисенко Галина Алексеевна": 130,
-      "Земцова Маргарита Ивановна": 82,
-      "Меркачев Владимир Васильевич": 147,
-      "Ракуленко Андрей Георгиевич": 76,
-      "Харченко Иван Николаевич": 450,
-      "Шаплов Анатолий Анатольевич": 308,
-      "Против всех": 275
+      "gas:candidate-vibid:323300470746": 14,
+      "gas:candidate-vibid:1001000195048": 130,
+      "gas:candidate-vibid:1001000136019": 82,
+      "gas:candidate-vibid:1001000121816": 147,
+      "gas:candidate-vibid:1001000112194": 76,
+      "gas:candidate-vibid:1001000187995": 450,
+      "gas:candidate-vibid:323300470775": 308,
+      "special:against-all": 275
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070401&region=0&sub_region=0&type=429",
@@ -9447,14 +9447,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 6,
-      "Денисенко Галина Алексеевна": 87,
-      "Земцова Маргарита Ивановна": 44,
-      "Меркачев Владимир Васильевич": 59,
-      "Ракуленко Андрей Георгиевич": 53,
-      "Харченко Иван Николаевич": 235,
-      "Шаплов Анатолий Анатольевич": 258,
-      "Против всех": 194
+      "gas:candidate-vibid:323300470746": 6,
+      "gas:candidate-vibid:1001000195048": 87,
+      "gas:candidate-vibid:1001000136019": 44,
+      "gas:candidate-vibid:1001000121816": 59,
+      "gas:candidate-vibid:1001000112194": 53,
+      "gas:candidate-vibid:1001000187995": 235,
+      "gas:candidate-vibid:323300470775": 258,
+      "special:against-all": 194
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070401&region=0&sub_region=0&type=429",
@@ -9504,14 +9504,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 8,
-      "Денисенко Галина Алексеевна": 45,
-      "Земцова Маргарита Ивановна": 26,
-      "Меркачев Владимир Васильевич": 66,
-      "Ракуленко Андрей Георгиевич": 32,
-      "Харченко Иван Николаевич": 233,
-      "Шаплов Анатолий Анатольевич": 145,
-      "Против всех": 153
+      "gas:candidate-vibid:323300470746": 8,
+      "gas:candidate-vibid:1001000195048": 45,
+      "gas:candidate-vibid:1001000136019": 26,
+      "gas:candidate-vibid:1001000121816": 66,
+      "gas:candidate-vibid:1001000112194": 32,
+      "gas:candidate-vibid:1001000187995": 233,
+      "gas:candidate-vibid:323300470775": 145,
+      "special:against-all": 153
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070401&region=0&sub_region=0&type=429",
@@ -9561,14 +9561,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 9,
-      "Денисенко Галина Алексеевна": 127,
-      "Земцова Маргарита Ивановна": 57,
-      "Меркачев Владимир Васильевич": 102,
-      "Ракуленко Андрей Георгиевич": 66,
-      "Харченко Иван Николаевич": 338,
-      "Шаплов Анатолий Анатольевич": 274,
-      "Против всех": 215
+      "gas:candidate-vibid:323300470746": 9,
+      "gas:candidate-vibid:1001000195048": 127,
+      "gas:candidate-vibid:1001000136019": 57,
+      "gas:candidate-vibid:1001000121816": 102,
+      "gas:candidate-vibid:1001000112194": 66,
+      "gas:candidate-vibid:1001000187995": 338,
+      "gas:candidate-vibid:323300470775": 274,
+      "special:against-all": 215
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070401&region=0&sub_region=0&type=429",
@@ -9618,14 +9618,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 7,
-      "Денисенко Галина Алексеевна": 72,
-      "Земцова Маргарита Ивановна": 31,
-      "Меркачев Владимир Васильевич": 29,
-      "Ракуленко Андрей Георгиевич": 47,
-      "Харченко Иван Николаевич": 274,
-      "Шаплов Анатолий Анатольевич": 138,
-      "Против всех": 134
+      "gas:candidate-vibid:323300470746": 7,
+      "gas:candidate-vibid:1001000195048": 72,
+      "gas:candidate-vibid:1001000136019": 31,
+      "gas:candidate-vibid:1001000121816": 29,
+      "gas:candidate-vibid:1001000112194": 47,
+      "gas:candidate-vibid:1001000187995": 274,
+      "gas:candidate-vibid:323300470775": 138,
+      "special:against-all": 134
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070401&region=0&sub_region=0&type=429",
@@ -9675,14 +9675,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 3,
-      "Денисенко Галина Алексеевна": 76,
-      "Земцова Маргарита Ивановна": 46,
-      "Меркачев Владимир Васильевич": 42,
-      "Ракуленко Андрей Георгиевич": 30,
-      "Харченко Иван Николаевич": 173,
-      "Шаплов Анатолий Анатольевич": 160,
-      "Против всех": 162
+      "gas:candidate-vibid:323300470746": 3,
+      "gas:candidate-vibid:1001000195048": 76,
+      "gas:candidate-vibid:1001000136019": 46,
+      "gas:candidate-vibid:1001000121816": 42,
+      "gas:candidate-vibid:1001000112194": 30,
+      "gas:candidate-vibid:1001000187995": 173,
+      "gas:candidate-vibid:323300470775": 160,
+      "special:against-all": 162
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070401&region=0&sub_region=0&type=429",
@@ -9732,14 +9732,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 15,
-      "Денисенко Галина Алексеевна": 166,
-      "Земцова Маргарита Ивановна": 66,
-      "Меркачев Владимир Васильевич": 116,
-      "Ракуленко Андрей Георгиевич": 64,
-      "Харченко Иван Николаевич": 434,
-      "Шаплов Анатолий Анатольевич": 266,
-      "Против всех": 289
+      "gas:candidate-vibid:323300470746": 15,
+      "gas:candidate-vibid:1001000195048": 166,
+      "gas:candidate-vibid:1001000136019": 66,
+      "gas:candidate-vibid:1001000121816": 116,
+      "gas:candidate-vibid:1001000112194": 64,
+      "gas:candidate-vibid:1001000187995": 434,
+      "gas:candidate-vibid:323300470775": 266,
+      "special:against-all": 289
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070401&region=0&sub_region=0&type=429",
@@ -9789,14 +9789,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 13,
-      "Денисенко Галина Алексеевна": 96,
-      "Земцова Маргарита Ивановна": 35,
-      "Меркачев Владимир Васильевич": 54,
-      "Ракуленко Андрей Георгиевич": 63,
-      "Харченко Иван Николаевич": 257,
-      "Шаплов Анатолий Анатольевич": 325,
-      "Против всех": 220
+      "gas:candidate-vibid:323300470746": 13,
+      "gas:candidate-vibid:1001000195048": 96,
+      "gas:candidate-vibid:1001000136019": 35,
+      "gas:candidate-vibid:1001000121816": 54,
+      "gas:candidate-vibid:1001000112194": 63,
+      "gas:candidate-vibid:1001000187995": 257,
+      "gas:candidate-vibid:323300470775": 325,
+      "special:against-all": 220
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070401&region=0&sub_region=0&type=429",
@@ -9846,14 +9846,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 7,
-      "Денисенко Галина Алексеевна": 78,
-      "Земцова Маргарита Ивановна": 48,
-      "Меркачев Владимир Васильевич": 56,
-      "Ракуленко Андрей Георгиевич": 46,
-      "Харченко Иван Николаевич": 332,
-      "Шаплов Анатолий Анатольевич": 279,
-      "Против всех": 196
+      "gas:candidate-vibid:323300470746": 7,
+      "gas:candidate-vibid:1001000195048": 78,
+      "gas:candidate-vibid:1001000136019": 48,
+      "gas:candidate-vibid:1001000121816": 56,
+      "gas:candidate-vibid:1001000112194": 46,
+      "gas:candidate-vibid:1001000187995": 332,
+      "gas:candidate-vibid:323300470775": 279,
+      "special:against-all": 196
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070401&region=0&sub_region=0&type=429",
@@ -9903,14 +9903,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 7,
-      "Денисенко Галина Алексеевна": 138,
-      "Земцова Маргарита Ивановна": 75,
-      "Меркачев Владимир Васильевич": 106,
-      "Ракуленко Андрей Георгиевич": 59,
-      "Харченко Иван Николаевич": 353,
-      "Шаплов Анатолий Анатольевич": 381,
-      "Против всех": 268
+      "gas:candidate-vibid:323300470746": 7,
+      "gas:candidate-vibid:1001000195048": 138,
+      "gas:candidate-vibid:1001000136019": 75,
+      "gas:candidate-vibid:1001000121816": 106,
+      "gas:candidate-vibid:1001000112194": 59,
+      "gas:candidate-vibid:1001000187995": 353,
+      "gas:candidate-vibid:323300470775": 381,
+      "special:against-all": 268
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070401&region=0&sub_region=0&type=429",
@@ -9960,14 +9960,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 12,
-      "Денисенко Галина Алексеевна": 125,
-      "Земцова Маргарита Ивановна": 75,
-      "Меркачев Владимир Васильевич": 114,
-      "Ракуленко Андрей Георгиевич": 65,
-      "Харченко Иван Николаевич": 371,
-      "Шаплов Анатолий Анатольевич": 366,
-      "Против всех": 287
+      "gas:candidate-vibid:323300470746": 12,
+      "gas:candidate-vibid:1001000195048": 125,
+      "gas:candidate-vibid:1001000136019": 75,
+      "gas:candidate-vibid:1001000121816": 114,
+      "gas:candidate-vibid:1001000112194": 65,
+      "gas:candidate-vibid:1001000187995": 371,
+      "gas:candidate-vibid:323300470775": 366,
+      "special:against-all": 287
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070401&region=0&sub_region=0&type=429",
@@ -10017,14 +10017,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 11,
-      "Денисенко Галина Алексеевна": 97,
-      "Земцова Маргарита Ивановна": 48,
-      "Меркачев Владимир Васильевич": 106,
-      "Ракуленко Андрей Георгиевич": 58,
-      "Харченко Иван Николаевич": 303,
-      "Шаплов Анатолий Анатольевич": 284,
-      "Против всех": 201
+      "gas:candidate-vibid:323300470746": 11,
+      "gas:candidate-vibid:1001000195048": 97,
+      "gas:candidate-vibid:1001000136019": 48,
+      "gas:candidate-vibid:1001000121816": 106,
+      "gas:candidate-vibid:1001000112194": 58,
+      "gas:candidate-vibid:1001000187995": 303,
+      "gas:candidate-vibid:323300470775": 284,
+      "special:against-all": 201
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070401&region=0&sub_region=0&type=429",
@@ -10074,14 +10074,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 25,
-      "Денисенко Галина Алексеевна": 146,
-      "Земцова Маргарита Ивановна": 98,
-      "Меркачев Владимир Васильевич": 106,
-      "Ракуленко Андрей Георгиевич": 62,
-      "Харченко Иван Николаевич": 367,
-      "Шаплов Анатолий Анатольевич": 281,
-      "Против всех": 380
+      "gas:candidate-vibid:323300470746": 25,
+      "gas:candidate-vibid:1001000195048": 146,
+      "gas:candidate-vibid:1001000136019": 98,
+      "gas:candidate-vibid:1001000121816": 106,
+      "gas:candidate-vibid:1001000112194": 62,
+      "gas:candidate-vibid:1001000187995": 367,
+      "gas:candidate-vibid:323300470775": 281,
+      "special:against-all": 380
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070401&region=0&sub_region=0&type=429",
@@ -10131,14 +10131,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 9,
-      "Денисенко Галина Алексеевна": 96,
-      "Земцова Маргарита Ивановна": 50,
-      "Меркачев Владимир Васильевич": 70,
-      "Ракуленко Андрей Георгиевич": 71,
-      "Харченко Иван Николаевич": 355,
-      "Шаплов Анатолий Анатольевич": 316,
-      "Против всех": 239
+      "gas:candidate-vibid:323300470746": 9,
+      "gas:candidate-vibid:1001000195048": 96,
+      "gas:candidate-vibid:1001000136019": 50,
+      "gas:candidate-vibid:1001000121816": 70,
+      "gas:candidate-vibid:1001000112194": 71,
+      "gas:candidate-vibid:1001000187995": 355,
+      "gas:candidate-vibid:323300470775": 316,
+      "special:against-all": 239
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070401&region=0&sub_region=0&type=429",
@@ -10188,14 +10188,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 3,
-      "Денисенко Галина Алексеевна": 45,
-      "Земцова Маргарита Ивановна": 18,
-      "Меркачев Владимир Васильевич": 20,
-      "Ракуленко Андрей Георгиевич": 16,
-      "Харченко Иван Николаевич": 82,
-      "Шаплов Анатолий Анатольевич": 100,
-      "Против всех": 54
+      "gas:candidate-vibid:323300470746": 3,
+      "gas:candidate-vibid:1001000195048": 45,
+      "gas:candidate-vibid:1001000136019": 18,
+      "gas:candidate-vibid:1001000121816": 20,
+      "gas:candidate-vibid:1001000112194": 16,
+      "gas:candidate-vibid:1001000187995": 82,
+      "gas:candidate-vibid:323300470775": 100,
+      "special:against-all": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070401&region=0&sub_region=0&type=429",
@@ -10245,14 +10245,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 3,
-      "Денисенко Галина Алексеевна": 16,
-      "Земцова Маргарита Ивановна": 20,
-      "Меркачев Владимир Васильевич": 14,
-      "Ракуленко Андрей Георгиевич": 6,
-      "Харченко Иван Николаевич": 67,
-      "Шаплов Анатолий Анатольевич": 35,
-      "Против всех": 55
+      "gas:candidate-vibid:323300470746": 3,
+      "gas:candidate-vibid:1001000195048": 16,
+      "gas:candidate-vibid:1001000136019": 20,
+      "gas:candidate-vibid:1001000121816": 14,
+      "gas:candidate-vibid:1001000112194": 6,
+      "gas:candidate-vibid:1001000187995": 67,
+      "gas:candidate-vibid:323300470775": 35,
+      "special:against-all": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070401&region=0&sub_region=0&type=429",
@@ -10302,14 +10302,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 3,
-      "Денисенко Галина Алексеевна": 62,
-      "Земцова Маргарита Ивановна": 26,
-      "Меркачев Владимир Васильевич": 41,
-      "Ракуленко Андрей Георгиевич": 24,
-      "Харченко Иван Николаевич": 178,
-      "Шаплов Анатолий Анатольевич": 171,
-      "Против всех": 102
+      "gas:candidate-vibid:323300470746": 3,
+      "gas:candidate-vibid:1001000195048": 62,
+      "gas:candidate-vibid:1001000136019": 26,
+      "gas:candidate-vibid:1001000121816": 41,
+      "gas:candidate-vibid:1001000112194": 24,
+      "gas:candidate-vibid:1001000187995": 178,
+      "gas:candidate-vibid:323300470775": 171,
+      "special:against-all": 102
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070401&region=0&sub_region=0&type=429",
@@ -10359,14 +10359,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 15,
-      "Денисенко Галина Алексеевна": 90,
-      "Земцова Маргарита Ивановна": 56,
-      "Меркачев Владимир Васильевич": 102,
-      "Ракуленко Андрей Георгиевич": 43,
-      "Харченко Иван Николаевич": 306,
-      "Шаплов Анатолий Анатольевич": 336,
-      "Против всех": 159
+      "gas:candidate-vibid:323300470746": 15,
+      "gas:candidate-vibid:1001000195048": 90,
+      "gas:candidate-vibid:1001000136019": 56,
+      "gas:candidate-vibid:1001000121816": 102,
+      "gas:candidate-vibid:1001000112194": 43,
+      "gas:candidate-vibid:1001000187995": 306,
+      "gas:candidate-vibid:323300470775": 336,
+      "special:against-all": 159
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070401&region=0&sub_region=0&type=429",
@@ -10416,14 +10416,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 11,
-      "Денисенко Галина Алексеевна": 77,
-      "Земцова Маргарита Ивановна": 48,
-      "Меркачев Владимир Васильевич": 68,
-      "Ракуленко Андрей Георгиевич": 34,
-      "Харченко Иван Николаевич": 226,
-      "Шаплов Анатолий Анатольевич": 254,
-      "Против всех": 127
+      "gas:candidate-vibid:323300470746": 11,
+      "gas:candidate-vibid:1001000195048": 77,
+      "gas:candidate-vibid:1001000136019": 48,
+      "gas:candidate-vibid:1001000121816": 68,
+      "gas:candidate-vibid:1001000112194": 34,
+      "gas:candidate-vibid:1001000187995": 226,
+      "gas:candidate-vibid:323300470775": 254,
+      "special:against-all": 127
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070401&region=0&sub_region=0&type=429",
@@ -10473,14 +10473,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 14,
-      "Денисенко Галина Алексеевна": 108,
-      "Земцова Маргарита Ивановна": 48,
-      "Меркачев Владимир Васильевич": 91,
-      "Ракуленко Андрей Георгиевич": 30,
-      "Харченко Иван Николаевич": 255,
-      "Шаплов Анатолий Анатольевич": 207,
-      "Против всех": 124
+      "gas:candidate-vibid:323300470746": 14,
+      "gas:candidate-vibid:1001000195048": 108,
+      "gas:candidate-vibid:1001000136019": 48,
+      "gas:candidate-vibid:1001000121816": 91,
+      "gas:candidate-vibid:1001000112194": 30,
+      "gas:candidate-vibid:1001000187995": 255,
+      "gas:candidate-vibid:323300470775": 207,
+      "special:against-all": 124
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070401&region=0&sub_region=0&type=429",
@@ -10530,14 +10530,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 4,
-      "Денисенко Галина Алексеевна": 32,
-      "Земцова Маргарита Ивановна": 20,
-      "Меркачев Владимир Васильевич": 35,
-      "Ракуленко Андрей Георгиевич": 17,
-      "Харченко Иван Николаевич": 140,
-      "Шаплов Анатолий Анатольевич": 111,
-      "Против всех": 50
+      "gas:candidate-vibid:323300470746": 4,
+      "gas:candidate-vibid:1001000195048": 32,
+      "gas:candidate-vibid:1001000136019": 20,
+      "gas:candidate-vibid:1001000121816": 35,
+      "gas:candidate-vibid:1001000112194": 17,
+      "gas:candidate-vibid:1001000187995": 140,
+      "gas:candidate-vibid:323300470775": 111,
+      "special:against-all": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070401&region=0&sub_region=0&type=429",
@@ -10587,14 +10587,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 12,
-      "Денисенко Галина Алексеевна": 76,
-      "Земцова Маргарита Ивановна": 35,
-      "Меркачев Владимир Васильевич": 106,
-      "Ракуленко Андрей Георгиевич": 21,
-      "Харченко Иван Николаевич": 230,
-      "Шаплов Анатолий Анатольевич": 204,
-      "Против всех": 157
+      "gas:candidate-vibid:323300470746": 12,
+      "gas:candidate-vibid:1001000195048": 76,
+      "gas:candidate-vibid:1001000136019": 35,
+      "gas:candidate-vibid:1001000121816": 106,
+      "gas:candidate-vibid:1001000112194": 21,
+      "gas:candidate-vibid:1001000187995": 230,
+      "gas:candidate-vibid:323300470775": 204,
+      "special:against-all": 157
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070401&region=0&sub_region=0&type=429",
@@ -10644,14 +10644,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 2,
-      "Денисенко Галина Алексеевна": 60,
-      "Земцова Маргарита Ивановна": 45,
-      "Меркачев Владимир Васильевич": 61,
-      "Ракуленко Андрей Георгиевич": 33,
-      "Харченко Иван Николаевич": 158,
-      "Шаплов Анатолий Анатольевич": 196,
-      "Против всех": 125
+      "gas:candidate-vibid:323300470746": 2,
+      "gas:candidate-vibid:1001000195048": 60,
+      "gas:candidate-vibid:1001000136019": 45,
+      "gas:candidate-vibid:1001000121816": 61,
+      "gas:candidate-vibid:1001000112194": 33,
+      "gas:candidate-vibid:1001000187995": 158,
+      "gas:candidate-vibid:323300470775": 196,
+      "special:against-all": 125
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070401&region=0&sub_region=0&type=429",
@@ -10701,14 +10701,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 4,
-      "Денисенко Галина Алексеевна": 11,
-      "Земцова Маргарита Ивановна": 8,
-      "Меркачев Владимир Васильевич": 38,
-      "Ракуленко Андрей Георгиевич": 10,
-      "Харченко Иван Николаевич": 41,
-      "Шаплов Анатолий Анатольевич": 41,
-      "Против всех": 35
+      "gas:candidate-vibid:323300470746": 4,
+      "gas:candidate-vibid:1001000195048": 11,
+      "gas:candidate-vibid:1001000136019": 8,
+      "gas:candidate-vibid:1001000121816": 38,
+      "gas:candidate-vibid:1001000112194": 10,
+      "gas:candidate-vibid:1001000187995": 41,
+      "gas:candidate-vibid:323300470775": 41,
+      "special:against-all": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070401&region=0&sub_region=0&type=429",
@@ -10758,14 +10758,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 4,
-      "Денисенко Галина Алексеевна": 13,
-      "Земцова Маргарита Ивановна": 25,
-      "Меркачев Владимир Васильевич": 10,
-      "Ракуленко Андрей Георгиевич": 11,
-      "Харченко Иван Николаевич": 46,
-      "Шаплов Анатолий Анатольевич": 28,
-      "Против всех": 54
+      "gas:candidate-vibid:323300470746": 4,
+      "gas:candidate-vibid:1001000195048": 13,
+      "gas:candidate-vibid:1001000136019": 25,
+      "gas:candidate-vibid:1001000121816": 10,
+      "gas:candidate-vibid:1001000112194": 11,
+      "gas:candidate-vibid:1001000187995": 46,
+      "gas:candidate-vibid:323300470775": 28,
+      "special:against-all": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070401&region=0&sub_region=0&type=429",
@@ -10815,14 +10815,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 4,
-      "Денисенко Галина Алексеевна": 20,
-      "Земцова Маргарита Ивановна": 25,
-      "Меркачев Владимир Васильевич": 41,
-      "Ракуленко Андрей Георгиевич": 12,
-      "Харченко Иван Николаевич": 173,
-      "Шаплов Анатолий Анатольевич": 70,
-      "Против всех": 44
+      "gas:candidate-vibid:323300470746": 4,
+      "gas:candidate-vibid:1001000195048": 20,
+      "gas:candidate-vibid:1001000136019": 25,
+      "gas:candidate-vibid:1001000121816": 41,
+      "gas:candidate-vibid:1001000112194": 12,
+      "gas:candidate-vibid:1001000187995": 173,
+      "gas:candidate-vibid:323300470775": 70,
+      "special:against-all": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070401&region=0&sub_region=0&type=429",
@@ -10872,14 +10872,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 12,
-      "Денисенко Галина Алексеевна": 86,
-      "Земцова Маргарита Ивановна": 59,
-      "Меркачев Владимир Васильевич": 106,
-      "Ракуленко Андрей Георгиевич": 25,
-      "Харченко Иван Николаевич": 377,
-      "Шаплов Анатолий Анатольевич": 228,
-      "Против всех": 171
+      "gas:candidate-vibid:323300470746": 12,
+      "gas:candidate-vibid:1001000195048": 86,
+      "gas:candidate-vibid:1001000136019": 59,
+      "gas:candidate-vibid:1001000121816": 106,
+      "gas:candidate-vibid:1001000112194": 25,
+      "gas:candidate-vibid:1001000187995": 377,
+      "gas:candidate-vibid:323300470775": 228,
+      "special:against-all": 171
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070401&region=0&sub_region=0&type=429",
@@ -10929,14 +10929,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 18,
-      "Денисенко Галина Алексеевна": 104,
-      "Земцова Маргарита Ивановна": 60,
-      "Меркачев Владимир Васильевич": 94,
-      "Ракуленко Андрей Георгиевич": 34,
-      "Харченко Иван Николаевич": 297,
-      "Шаплов Анатолий Анатольевич": 431,
-      "Против всех": 179
+      "gas:candidate-vibid:323300470746": 18,
+      "gas:candidate-vibid:1001000195048": 104,
+      "gas:candidate-vibid:1001000136019": 60,
+      "gas:candidate-vibid:1001000121816": 94,
+      "gas:candidate-vibid:1001000112194": 34,
+      "gas:candidate-vibid:1001000187995": 297,
+      "gas:candidate-vibid:323300470775": 431,
+      "special:against-all": 179
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070401&region=0&sub_region=0&type=429",
@@ -10986,14 +10986,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 18,
-      "Денисенко Галина Алексеевна": 116,
-      "Земцова Маргарита Ивановна": 75,
-      "Меркачев Владимир Васильевич": 113,
-      "Ракуленко Андрей Георгиевич": 53,
-      "Харченко Иван Николаевич": 187,
-      "Шаплов Анатолий Анатольевич": 327,
-      "Против всех": 177
+      "gas:candidate-vibid:323300470746": 18,
+      "gas:candidate-vibid:1001000195048": 116,
+      "gas:candidate-vibid:1001000136019": 75,
+      "gas:candidate-vibid:1001000121816": 113,
+      "gas:candidate-vibid:1001000112194": 53,
+      "gas:candidate-vibid:1001000187995": 187,
+      "gas:candidate-vibid:323300470775": 327,
+      "special:against-all": 177
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070401&region=0&sub_region=0&type=429",
@@ -11043,14 +11043,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 3,
-      "Денисенко Галина Алексеевна": 101,
-      "Земцова Маргарита Ивановна": 68,
-      "Меркачев Владимир Васильевич": 90,
-      "Ракуленко Андрей Георгиевич": 40,
-      "Харченко Иван Николаевич": 595,
-      "Шаплов Анатолий Анатольевич": 201,
-      "Против всех": 246
+      "gas:candidate-vibid:323300470746": 3,
+      "gas:candidate-vibid:1001000195048": 101,
+      "gas:candidate-vibid:1001000136019": 68,
+      "gas:candidate-vibid:1001000121816": 90,
+      "gas:candidate-vibid:1001000112194": 40,
+      "gas:candidate-vibid:1001000187995": 595,
+      "gas:candidate-vibid:323300470775": 201,
+      "special:against-all": 246
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070401&region=0&sub_region=0&type=429",
@@ -11100,14 +11100,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 10,
-      "Денисенко Галина Алексеевна": 39,
-      "Земцова Маргарита Ивановна": 32,
-      "Меркачев Владимир Васильевич": 24,
-      "Ракуленко Андрей Георгиевич": 8,
-      "Харченко Иван Николаевич": 263,
-      "Шаплов Анатолий Анатольевич": 114,
-      "Против всех": 123
+      "gas:candidate-vibid:323300470746": 10,
+      "gas:candidate-vibid:1001000195048": 39,
+      "gas:candidate-vibid:1001000136019": 32,
+      "gas:candidate-vibid:1001000121816": 24,
+      "gas:candidate-vibid:1001000112194": 8,
+      "gas:candidate-vibid:1001000187995": 263,
+      "gas:candidate-vibid:323300470775": 114,
+      "special:against-all": 123
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070401&region=0&sub_region=0&type=429",
@@ -11157,14 +11157,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 3,
-      "Денисенко Галина Алексеевна": 26,
-      "Земцова Маргарита Ивановна": 22,
-      "Меркачев Владимир Васильевич": 19,
-      "Ракуленко Андрей Георгиевич": 12,
-      "Харченко Иван Николаевич": 160,
-      "Шаплов Анатолий Анатольевич": 56,
-      "Против всех": 80
+      "gas:candidate-vibid:323300470746": 3,
+      "gas:candidate-vibid:1001000195048": 26,
+      "gas:candidate-vibid:1001000136019": 22,
+      "gas:candidate-vibid:1001000121816": 19,
+      "gas:candidate-vibid:1001000112194": 12,
+      "gas:candidate-vibid:1001000187995": 160,
+      "gas:candidate-vibid:323300470775": 56,
+      "special:against-all": 80
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070401&region=0&sub_region=0&type=429",
@@ -11214,14 +11214,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 20,
-      "Денисенко Галина Алексеевна": 58,
-      "Земцова Маргарита Ивановна": 34,
-      "Меркачев Владимир Васильевич": 78,
-      "Ракуленко Андрей Георгиевич": 24,
-      "Харченко Иван Николаевич": 419,
-      "Шаплов Анатолий Анатольевич": 155,
-      "Против всех": 178
+      "gas:candidate-vibid:323300470746": 20,
+      "gas:candidate-vibid:1001000195048": 58,
+      "gas:candidate-vibid:1001000136019": 34,
+      "gas:candidate-vibid:1001000121816": 78,
+      "gas:candidate-vibid:1001000112194": 24,
+      "gas:candidate-vibid:1001000187995": 419,
+      "gas:candidate-vibid:323300470775": 155,
+      "special:against-all": 178
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070401&region=0&sub_region=0&type=429",
@@ -11271,14 +11271,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 11,
-      "Денисенко Галина Алексеевна": 46,
-      "Земцова Маргарита Ивановна": 18,
-      "Меркачев Владимир Васильевич": 10,
-      "Ракуленко Андрей Георгиевич": 7,
-      "Харченко Иван Николаевич": 143,
-      "Шаплов Анатолий Анатольевич": 89,
-      "Против всех": 108
+      "gas:candidate-vibid:323300470746": 11,
+      "gas:candidate-vibid:1001000195048": 46,
+      "gas:candidate-vibid:1001000136019": 18,
+      "gas:candidate-vibid:1001000121816": 10,
+      "gas:candidate-vibid:1001000112194": 7,
+      "gas:candidate-vibid:1001000187995": 143,
+      "gas:candidate-vibid:323300470775": 89,
+      "special:against-all": 108
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070401&region=0&sub_region=0&type=429",
@@ -11328,14 +11328,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 10,
-      "Денисенко Галина Алексеевна": 17,
-      "Земцова Маргарита Ивановна": 18,
-      "Меркачев Владимир Васильевич": 22,
-      "Ракуленко Андрей Георгиевич": 15,
-      "Харченко Иван Николаевич": 167,
-      "Шаплов Анатолий Анатольевич": 74,
-      "Против всех": 64
+      "gas:candidate-vibid:323300470746": 10,
+      "gas:candidate-vibid:1001000195048": 17,
+      "gas:candidate-vibid:1001000136019": 18,
+      "gas:candidate-vibid:1001000121816": 22,
+      "gas:candidate-vibid:1001000112194": 15,
+      "gas:candidate-vibid:1001000187995": 167,
+      "gas:candidate-vibid:323300470775": 74,
+      "special:against-all": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070401&region=0&sub_region=0&type=429",
@@ -11385,14 +11385,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 16,
-      "Денисенко Галина Алексеевна": 70,
-      "Земцова Маргарита Ивановна": 74,
-      "Меркачев Владимир Васильевич": 141,
-      "Ракуленко Андрей Георгиевич": 26,
-      "Харченко Иван Николаевич": 341,
-      "Шаплов Анатолий Анатольевич": 310,
-      "Против всех": 163
+      "gas:candidate-vibid:323300470746": 16,
+      "gas:candidate-vibid:1001000195048": 70,
+      "gas:candidate-vibid:1001000136019": 74,
+      "gas:candidate-vibid:1001000121816": 141,
+      "gas:candidate-vibid:1001000112194": 26,
+      "gas:candidate-vibid:1001000187995": 341,
+      "gas:candidate-vibid:323300470775": 310,
+      "special:against-all": 163
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070401&region=0&sub_region=0&type=429",
@@ -11442,14 +11442,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 12,
-      "Денисенко Галина Алексеевна": 58,
-      "Земцова Маргарита Ивановна": 45,
-      "Меркачев Владимир Васильевич": 125,
-      "Ракуленко Андрей Георгиевич": 15,
-      "Харченко Иван Николаевич": 288,
-      "Шаплов Анатолий Анатольевич": 276,
-      "Против всех": 132
+      "gas:candidate-vibid:323300470746": 12,
+      "gas:candidate-vibid:1001000195048": 58,
+      "gas:candidate-vibid:1001000136019": 45,
+      "gas:candidate-vibid:1001000121816": 125,
+      "gas:candidate-vibid:1001000112194": 15,
+      "gas:candidate-vibid:1001000187995": 288,
+      "gas:candidate-vibid:323300470775": 276,
+      "special:against-all": 132
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070401&region=0&sub_region=0&type=429",
@@ -11499,14 +11499,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 11,
-      "Денисенко Галина Алексеевна": 52,
-      "Земцова Маргарита Ивановна": 77,
-      "Меркачев Владимир Васильевич": 102,
-      "Ракуленко Андрей Георгиевич": 19,
-      "Харченко Иван Николаевич": 403,
-      "Шаплов Анатолий Анатольевич": 299,
-      "Против всех": 175
+      "gas:candidate-vibid:323300470746": 11,
+      "gas:candidate-vibid:1001000195048": 52,
+      "gas:candidate-vibid:1001000136019": 77,
+      "gas:candidate-vibid:1001000121816": 102,
+      "gas:candidate-vibid:1001000112194": 19,
+      "gas:candidate-vibid:1001000187995": 403,
+      "gas:candidate-vibid:323300470775": 299,
+      "special:against-all": 175
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070401&region=0&sub_region=0&type=429",
@@ -11556,14 +11556,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 10,
-      "Денисенко Галина Алексеевна": 40,
-      "Земцова Маргарита Ивановна": 54,
-      "Меркачев Владимир Васильевич": 44,
-      "Ракуленко Андрей Георгиевич": 25,
-      "Харченко Иван Николаевич": 315,
-      "Шаплов Анатолий Анатольевич": 153,
-      "Против всех": 150
+      "gas:candidate-vibid:323300470746": 10,
+      "gas:candidate-vibid:1001000195048": 40,
+      "gas:candidate-vibid:1001000136019": 54,
+      "gas:candidate-vibid:1001000121816": 44,
+      "gas:candidate-vibid:1001000112194": 25,
+      "gas:candidate-vibid:1001000187995": 315,
+      "gas:candidate-vibid:323300470775": 153,
+      "special:against-all": 150
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070401&region=0&sub_region=0&type=429",
@@ -11613,14 +11613,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 3,
-      "Денисенко Галина Алексеевна": 9,
-      "Земцова Маргарита Ивановна": 3,
-      "Меркачев Владимир Васильевич": 36,
-      "Ракуленко Андрей Георгиевич": 5,
-      "Харченко Иван Николаевич": 59,
-      "Шаплов Анатолий Анатольевич": 24,
-      "Против всех": 27
+      "gas:candidate-vibid:323300470746": 3,
+      "gas:candidate-vibid:1001000195048": 9,
+      "gas:candidate-vibid:1001000136019": 3,
+      "gas:candidate-vibid:1001000121816": 36,
+      "gas:candidate-vibid:1001000112194": 5,
+      "gas:candidate-vibid:1001000187995": 59,
+      "gas:candidate-vibid:323300470775": 24,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070401&region=0&sub_region=0&type=429",
@@ -11670,14 +11670,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 4,
-      "Денисенко Галина Алексеевна": 65,
-      "Земцова Маргарита Ивановна": 48,
-      "Меркачев Владимир Васильевич": 68,
-      "Ракуленко Андрей Георгиевич": 14,
-      "Харченко Иван Николаевич": 343,
-      "Шаплов Анатолий Анатольевич": 135,
-      "Против всех": 130
+      "gas:candidate-vibid:323300470746": 4,
+      "gas:candidate-vibid:1001000195048": 65,
+      "gas:candidate-vibid:1001000136019": 48,
+      "gas:candidate-vibid:1001000121816": 68,
+      "gas:candidate-vibid:1001000112194": 14,
+      "gas:candidate-vibid:1001000187995": 343,
+      "gas:candidate-vibid:323300470775": 135,
+      "special:against-all": 130
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070401&region=0&sub_region=0&type=429",
@@ -11727,14 +11727,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 4,
-      "Денисенко Галина Алексеевна": 27,
-      "Земцова Маргарита Ивановна": 23,
-      "Меркачев Владимир Васильевич": 23,
-      "Ракуленко Андрей Георгиевич": 12,
-      "Харченко Иван Николаевич": 329,
-      "Шаплов Анатолий Анатольевич": 61,
-      "Против всех": 88
+      "gas:candidate-vibid:323300470746": 4,
+      "gas:candidate-vibid:1001000195048": 27,
+      "gas:candidate-vibid:1001000136019": 23,
+      "gas:candidate-vibid:1001000121816": 23,
+      "gas:candidate-vibid:1001000112194": 12,
+      "gas:candidate-vibid:1001000187995": 329,
+      "gas:candidate-vibid:323300470775": 61,
+      "special:against-all": 88
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070401&region=0&sub_region=0&type=429",
@@ -11784,14 +11784,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 7,
-      "Денисенко Галина Алексеевна": 17,
-      "Земцова Маргарита Ивановна": 13,
-      "Меркачев Владимир Васильевич": 78,
-      "Ракуленко Андрей Георгиевич": 7,
-      "Харченко Иван Николаевич": 226,
-      "Шаплов Анатолий Анатольевич": 40,
-      "Против всех": 35
+      "gas:candidate-vibid:323300470746": 7,
+      "gas:candidate-vibid:1001000195048": 17,
+      "gas:candidate-vibid:1001000136019": 13,
+      "gas:candidate-vibid:1001000121816": 78,
+      "gas:candidate-vibid:1001000112194": 7,
+      "gas:candidate-vibid:1001000187995": 226,
+      "gas:candidate-vibid:323300470775": 40,
+      "special:against-all": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070401&region=0&sub_region=0&type=429",
@@ -11841,14 +11841,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 4,
-      "Денисенко Галина Алексеевна": 21,
-      "Земцова Маргарита Ивановна": 17,
-      "Меркачев Владимир Васильевич": 19,
-      "Ракуленко Андрей Георгиевич": 2,
-      "Харченко Иван Николаевич": 166,
-      "Шаплов Анатолий Анатольевич": 50,
-      "Против всех": 39
+      "gas:candidate-vibid:323300470746": 4,
+      "gas:candidate-vibid:1001000195048": 21,
+      "gas:candidate-vibid:1001000136019": 17,
+      "gas:candidate-vibid:1001000121816": 19,
+      "gas:candidate-vibid:1001000112194": 2,
+      "gas:candidate-vibid:1001000187995": 166,
+      "gas:candidate-vibid:323300470775": 50,
+      "special:against-all": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070401&region=0&sub_region=0&type=429",
@@ -11898,14 +11898,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 2,
-      "Денисенко Галина Алексеевна": 15,
-      "Земцова Маргарита Ивановна": 16,
-      "Меркачев Владимир Васильевич": 15,
-      "Ракуленко Андрей Георгиевич": 5,
-      "Харченко Иван Николаевич": 123,
-      "Шаплов Анатолий Анатольевич": 19,
-      "Против всех": 22
+      "gas:candidate-vibid:323300470746": 2,
+      "gas:candidate-vibid:1001000195048": 15,
+      "gas:candidate-vibid:1001000136019": 16,
+      "gas:candidate-vibid:1001000121816": 15,
+      "gas:candidate-vibid:1001000112194": 5,
+      "gas:candidate-vibid:1001000187995": 123,
+      "gas:candidate-vibid:323300470775": 19,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070401&region=0&sub_region=0&type=429",
@@ -11955,14 +11955,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 11,
-      "Денисенко Галина Алексеевна": 138,
-      "Земцова Маргарита Ивановна": 62,
-      "Меркачев Владимир Васильевич": 77,
-      "Ракуленко Андрей Георгиевич": 43,
-      "Харченко Иван Николаевич": 382,
-      "Шаплов Анатолий Анатольевич": 271,
-      "Против всех": 306
+      "gas:candidate-vibid:323300470746": 11,
+      "gas:candidate-vibid:1001000195048": 138,
+      "gas:candidate-vibid:1001000136019": 62,
+      "gas:candidate-vibid:1001000121816": 77,
+      "gas:candidate-vibid:1001000112194": 43,
+      "gas:candidate-vibid:1001000187995": 382,
+      "gas:candidate-vibid:323300470775": 271,
+      "special:against-all": 306
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070401&region=0&sub_region=0&type=429",
@@ -12012,14 +12012,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 2,
-      "Денисенко Галина Алексеевна": 56,
-      "Земцова Маргарита Ивановна": 37,
-      "Меркачев Владимир Васильевич": 33,
-      "Ракуленко Андрей Георгиевич": 7,
-      "Харченко Иван Николаевич": 360,
-      "Шаплов Анатолий Анатольевич": 121,
-      "Против всех": 79
+      "gas:candidate-vibid:323300470746": 2,
+      "gas:candidate-vibid:1001000195048": 56,
+      "gas:candidate-vibid:1001000136019": 37,
+      "gas:candidate-vibid:1001000121816": 33,
+      "gas:candidate-vibid:1001000112194": 7,
+      "gas:candidate-vibid:1001000187995": 360,
+      "gas:candidate-vibid:323300470775": 121,
+      "special:against-all": 79
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070401&region=0&sub_region=0&type=429",
@@ -12069,14 +12069,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 3,
-      "Денисенко Галина Алексеевна": 7,
-      "Земцова Маргарита Ивановна": 12,
-      "Меркачев Владимир Васильевич": 5,
-      "Ракуленко Андрей Георгиевич": 4,
-      "Харченко Иван Николаевич": 153,
-      "Шаплов Анатолий Анатольевич": 26,
-      "Против всех": 40
+      "gas:candidate-vibid:323300470746": 3,
+      "gas:candidate-vibid:1001000195048": 7,
+      "gas:candidate-vibid:1001000136019": 12,
+      "gas:candidate-vibid:1001000121816": 5,
+      "gas:candidate-vibid:1001000112194": 4,
+      "gas:candidate-vibid:1001000187995": 153,
+      "gas:candidate-vibid:323300470775": 26,
+      "special:against-all": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070401&region=0&sub_region=0&type=429",
@@ -12126,14 +12126,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 9,
-      "Денисенко Галина Алексеевна": 82,
-      "Земцова Маргарита Ивановна": 56,
-      "Меркачев Владимир Васильевич": 145,
-      "Ракуленко Андрей Георгиевич": 25,
-      "Харченко Иван Николаевич": 350,
-      "Шаплов Анатолий Анатольевич": 223,
-      "Против всех": 190
+      "gas:candidate-vibid:323300470746": 9,
+      "gas:candidate-vibid:1001000195048": 82,
+      "gas:candidate-vibid:1001000136019": 56,
+      "gas:candidate-vibid:1001000121816": 145,
+      "gas:candidate-vibid:1001000112194": 25,
+      "gas:candidate-vibid:1001000187995": 350,
+      "gas:candidate-vibid:323300470775": 223,
+      "special:against-all": 190
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070401&region=0&sub_region=0&type=429",
@@ -12183,14 +12183,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 4,
-      "Денисенко Галина Алексеевна": 36,
-      "Земцова Маргарита Ивановна": 34,
-      "Меркачев Владимир Васильевич": 43,
-      "Ракуленко Андрей Георгиевич": 15,
-      "Харченко Иван Николаевич": 120,
-      "Шаплов Анатолий Анатольевич": 83,
-      "Против всех": 79
+      "gas:candidate-vibid:323300470746": 4,
+      "gas:candidate-vibid:1001000195048": 36,
+      "gas:candidate-vibid:1001000136019": 34,
+      "gas:candidate-vibid:1001000121816": 43,
+      "gas:candidate-vibid:1001000112194": 15,
+      "gas:candidate-vibid:1001000187995": 120,
+      "gas:candidate-vibid:323300470775": 83,
+      "special:against-all": 79
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070401&region=0&sub_region=0&type=429",
@@ -12240,14 +12240,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 6,
-      "Денисенко Галина Алексеевна": 28,
-      "Земцова Маргарита Ивановна": 25,
-      "Меркачев Владимир Васильевич": 26,
-      "Ракуленко Андрей Георгиевич": 13,
-      "Харченко Иван Николаевич": 164,
-      "Шаплов Анатолий Анатольевич": 48,
-      "Против всех": 60
+      "gas:candidate-vibid:323300470746": 6,
+      "gas:candidate-vibid:1001000195048": 28,
+      "gas:candidate-vibid:1001000136019": 25,
+      "gas:candidate-vibid:1001000121816": 26,
+      "gas:candidate-vibid:1001000112194": 13,
+      "gas:candidate-vibid:1001000187995": 164,
+      "gas:candidate-vibid:323300470775": 48,
+      "special:against-all": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070401&region=0&sub_region=0&type=429",
@@ -12297,14 +12297,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 0,
-      "Денисенко Галина Алексеевна": 23,
-      "Земцова Маргарита Ивановна": 21,
-      "Меркачев Владимир Васильевич": 37,
-      "Ракуленко Андрей Георгиевич": 15,
-      "Харченко Иван Николаевич": 145,
-      "Шаплов Анатолий Анатольевич": 51,
-      "Против всех": 49
+      "gas:candidate-vibid:323300470746": 0,
+      "gas:candidate-vibid:1001000195048": 23,
+      "gas:candidate-vibid:1001000136019": 21,
+      "gas:candidate-vibid:1001000121816": 37,
+      "gas:candidate-vibid:1001000112194": 15,
+      "gas:candidate-vibid:1001000187995": 145,
+      "gas:candidate-vibid:323300470775": 51,
+      "special:against-all": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070401&region=0&sub_region=0&type=429",
@@ -12354,14 +12354,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 3,
-      "Денисенко Галина Алексеевна": 15,
-      "Земцова Маргарита Ивановна": 21,
-      "Меркачев Владимир Васильевич": 24,
-      "Ракуленко Андрей Георгиевич": 7,
-      "Харченко Иван Николаевич": 163,
-      "Шаплов Анатолий Анатольевич": 85,
-      "Против всех": 58
+      "gas:candidate-vibid:323300470746": 3,
+      "gas:candidate-vibid:1001000195048": 15,
+      "gas:candidate-vibid:1001000136019": 21,
+      "gas:candidate-vibid:1001000121816": 24,
+      "gas:candidate-vibid:1001000112194": 7,
+      "gas:candidate-vibid:1001000187995": 163,
+      "gas:candidate-vibid:323300470775": 85,
+      "special:against-all": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070401&region=0&sub_region=0&type=429",
@@ -12411,14 +12411,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 4,
-      "Денисенко Галина Алексеевна": 44,
-      "Земцова Маргарита Ивановна": 29,
-      "Меркачев Владимир Васильевич": 37,
-      "Ракуленко Андрей Георгиевич": 16,
-      "Харченко Иван Николаевич": 231,
-      "Шаплов Анатолий Анатольевич": 115,
-      "Против всех": 87
+      "gas:candidate-vibid:323300470746": 4,
+      "gas:candidate-vibid:1001000195048": 44,
+      "gas:candidate-vibid:1001000136019": 29,
+      "gas:candidate-vibid:1001000121816": 37,
+      "gas:candidate-vibid:1001000112194": 16,
+      "gas:candidate-vibid:1001000187995": 231,
+      "gas:candidate-vibid:323300470775": 115,
+      "special:against-all": 87
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070401&region=0&sub_region=0&type=429",
@@ -12468,14 +12468,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 9,
-      "Денисенко Галина Алексеевна": 92,
-      "Земцова Маргарита Ивановна": 57,
-      "Меркачев Владимир Васильевич": 85,
-      "Ракуленко Андрей Георгиевич": 31,
-      "Харченко Иван Николаевич": 367,
-      "Шаплов Анатолий Анатольевич": 271,
-      "Против всех": 231
+      "gas:candidate-vibid:323300470746": 9,
+      "gas:candidate-vibid:1001000195048": 92,
+      "gas:candidate-vibid:1001000136019": 57,
+      "gas:candidate-vibid:1001000121816": 85,
+      "gas:candidate-vibid:1001000112194": 31,
+      "gas:candidate-vibid:1001000187995": 367,
+      "gas:candidate-vibid:323300470775": 271,
+      "special:against-all": 231
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070401&region=0&sub_region=0&type=429",
@@ -12525,14 +12525,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 8,
-      "Денисенко Галина Алексеевна": 57,
-      "Земцова Маргарита Ивановна": 43,
-      "Меркачев Владимир Васильевич": 59,
-      "Ракуленко Андрей Георгиевич": 26,
-      "Харченко Иван Николаевич": 326,
-      "Шаплов Анатолий Анатольевич": 177,
-      "Против всех": 134
+      "gas:candidate-vibid:323300470746": 8,
+      "gas:candidate-vibid:1001000195048": 57,
+      "gas:candidate-vibid:1001000136019": 43,
+      "gas:candidate-vibid:1001000121816": 59,
+      "gas:candidate-vibid:1001000112194": 26,
+      "gas:candidate-vibid:1001000187995": 326,
+      "gas:candidate-vibid:323300470775": 177,
+      "special:against-all": 134
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070401&region=0&sub_region=0&type=429",
@@ -12582,14 +12582,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 4,
-      "Денисенко Галина Алексеевна": 48,
-      "Земцова Маргарита Ивановна": 43,
-      "Меркачев Владимир Васильевич": 31,
-      "Ракуленко Андрей Георгиевич": 17,
-      "Харченко Иван Николаевич": 283,
-      "Шаплов Анатолий Анатольевич": 131,
-      "Против всех": 100
+      "gas:candidate-vibid:323300470746": 4,
+      "gas:candidate-vibid:1001000195048": 48,
+      "gas:candidate-vibid:1001000136019": 43,
+      "gas:candidate-vibid:1001000121816": 31,
+      "gas:candidate-vibid:1001000112194": 17,
+      "gas:candidate-vibid:1001000187995": 283,
+      "gas:candidate-vibid:323300470775": 131,
+      "special:against-all": 100
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070401&region=0&sub_region=0&type=429",
@@ -12639,14 +12639,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 12,
-      "Денисенко Галина Алексеевна": 70,
-      "Земцова Маргарита Ивановна": 45,
-      "Меркачев Владимир Васильевич": 76,
-      "Ракуленко Андрей Георгиевич": 38,
-      "Харченко Иван Николаевич": 302,
-      "Шаплов Анатолий Анатольевич": 166,
-      "Против всех": 129
+      "gas:candidate-vibid:323300470746": 12,
+      "gas:candidate-vibid:1001000195048": 70,
+      "gas:candidate-vibid:1001000136019": 45,
+      "gas:candidate-vibid:1001000121816": 76,
+      "gas:candidate-vibid:1001000112194": 38,
+      "gas:candidate-vibid:1001000187995": 302,
+      "gas:candidate-vibid:323300470775": 166,
+      "special:against-all": 129
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070401&region=0&sub_region=0&type=429",
@@ -12696,14 +12696,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 4,
-      "Денисенко Галина Алексеевна": 15,
-      "Земцова Маргарита Ивановна": 24,
-      "Меркачев Владимир Васильевич": 14,
-      "Ракуленко Андрей Георгиевич": 4,
-      "Харченко Иван Николаевич": 133,
-      "Шаплов Анатолий Анатольевич": 55,
-      "Против всех": 57
+      "gas:candidate-vibid:323300470746": 4,
+      "gas:candidate-vibid:1001000195048": 15,
+      "gas:candidate-vibid:1001000136019": 24,
+      "gas:candidate-vibid:1001000121816": 14,
+      "gas:candidate-vibid:1001000112194": 4,
+      "gas:candidate-vibid:1001000187995": 133,
+      "gas:candidate-vibid:323300470775": 55,
+      "special:against-all": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070401&region=0&sub_region=0&type=429",
@@ -12753,14 +12753,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 8,
-      "Денисенко Галина Алексеевна": 72,
-      "Земцова Маргарита Ивановна": 51,
-      "Меркачев Владимир Васильевич": 60,
-      "Ракуленко Андрей Георгиевич": 31,
-      "Харченко Иван Николаевич": 317,
-      "Шаплов Анатолий Анатольевич": 144,
-      "Против всех": 162
+      "gas:candidate-vibid:323300470746": 8,
+      "gas:candidate-vibid:1001000195048": 72,
+      "gas:candidate-vibid:1001000136019": 51,
+      "gas:candidate-vibid:1001000121816": 60,
+      "gas:candidate-vibid:1001000112194": 31,
+      "gas:candidate-vibid:1001000187995": 317,
+      "gas:candidate-vibid:323300470775": 144,
+      "special:against-all": 162
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070401&region=0&sub_region=0&type=429",
@@ -12810,14 +12810,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 3,
-      "Денисенко Галина Алексеевна": 44,
-      "Земцова Маргарита Ивановна": 46,
-      "Меркачев Владимир Васильевич": 50,
-      "Ракуленко Андрей Георгиевич": 17,
-      "Харченко Иван Николаевич": 267,
-      "Шаплов Анатолий Анатольевич": 151,
-      "Против всех": 101
+      "gas:candidate-vibid:323300470746": 3,
+      "gas:candidate-vibid:1001000195048": 44,
+      "gas:candidate-vibid:1001000136019": 46,
+      "gas:candidate-vibid:1001000121816": 50,
+      "gas:candidate-vibid:1001000112194": 17,
+      "gas:candidate-vibid:1001000187995": 267,
+      "gas:candidate-vibid:323300470775": 151,
+      "special:against-all": 101
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070401&region=0&sub_region=0&type=429",
@@ -12867,14 +12867,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 16,
-      "Денисенко Галина Алексеевна": 51,
-      "Земцова Маргарита Ивановна": 110,
-      "Меркачев Владимир Васильевич": 95,
-      "Ракуленко Андрей Георгиевич": 55,
-      "Харченко Иван Николаевич": 585,
-      "Шаплов Анатолий Анатольевич": 210,
-      "Против всех": 248
+      "gas:candidate-vibid:323300470746": 16,
+      "gas:candidate-vibid:1001000195048": 51,
+      "gas:candidate-vibid:1001000136019": 110,
+      "gas:candidate-vibid:1001000121816": 95,
+      "gas:candidate-vibid:1001000112194": 55,
+      "gas:candidate-vibid:1001000187995": 585,
+      "gas:candidate-vibid:323300470775": 210,
+      "special:against-all": 248
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000039&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070402&region=0&sub_region=0&type=429",
@@ -12924,14 +12924,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 13,
-      "Денисенко Галина Алексеевна": 42,
-      "Земцова Маргарита Ивановна": 108,
-      "Меркачев Владимир Васильевич": 112,
-      "Ракуленко Андрей Георгиевич": 48,
-      "Харченко Иван Николаевич": 479,
-      "Шаплов Анатолий Анатольевич": 185,
-      "Против всех": 226
+      "gas:candidate-vibid:323300470746": 13,
+      "gas:candidate-vibid:1001000195048": 42,
+      "gas:candidate-vibid:1001000136019": 108,
+      "gas:candidate-vibid:1001000121816": 112,
+      "gas:candidate-vibid:1001000112194": 48,
+      "gas:candidate-vibid:1001000187995": 479,
+      "gas:candidate-vibid:323300470775": 185,
+      "special:against-all": 226
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000039&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070402&region=0&sub_region=0&type=429",
@@ -12981,14 +12981,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 7,
-      "Денисенко Галина Алексеевна": 40,
-      "Земцова Маргарита Ивановна": 60,
-      "Меркачев Владимир Васильевич": 68,
-      "Ракуленко Андрей Георгиевич": 29,
-      "Харченко Иван Николаевич": 443,
-      "Шаплов Анатолий Анатольевич": 185,
-      "Против всех": 180
+      "gas:candidate-vibid:323300470746": 7,
+      "gas:candidate-vibid:1001000195048": 40,
+      "gas:candidate-vibid:1001000136019": 60,
+      "gas:candidate-vibid:1001000121816": 68,
+      "gas:candidate-vibid:1001000112194": 29,
+      "gas:candidate-vibid:1001000187995": 443,
+      "gas:candidate-vibid:323300470775": 185,
+      "special:against-all": 180
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000039&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070402&region=0&sub_region=0&type=429",
@@ -13038,14 +13038,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 4,
-      "Денисенко Галина Алексеевна": 34,
-      "Земцова Маргарита Ивановна": 65,
-      "Меркачев Владимир Васильевич": 44,
-      "Ракуленко Андрей Георгиевич": 21,
-      "Харченко Иван Николаевич": 368,
-      "Шаплов Анатолий Анатольевич": 101,
-      "Против всех": 93
+      "gas:candidate-vibid:323300470746": 4,
+      "gas:candidate-vibid:1001000195048": 34,
+      "gas:candidate-vibid:1001000136019": 65,
+      "gas:candidate-vibid:1001000121816": 44,
+      "gas:candidate-vibid:1001000112194": 21,
+      "gas:candidate-vibid:1001000187995": 368,
+      "gas:candidate-vibid:323300470775": 101,
+      "special:against-all": 93
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000039&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070402&region=0&sub_region=0&type=429",
@@ -13095,14 +13095,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 17,
-      "Денисенко Галина Алексеевна": 48,
-      "Земцова Маргарита Ивановна": 70,
-      "Меркачев Владимир Васильевич": 94,
-      "Ракуленко Андрей Георгиевич": 25,
-      "Харченко Иван Николаевич": 513,
-      "Шаплов Анатолий Анатольевич": 136,
-      "Против всех": 186
+      "gas:candidate-vibid:323300470746": 17,
+      "gas:candidate-vibid:1001000195048": 48,
+      "gas:candidate-vibid:1001000136019": 70,
+      "gas:candidate-vibid:1001000121816": 94,
+      "gas:candidate-vibid:1001000112194": 25,
+      "gas:candidate-vibid:1001000187995": 513,
+      "gas:candidate-vibid:323300470775": 136,
+      "special:against-all": 186
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000039&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070402&region=0&sub_region=0&type=429",
@@ -13152,14 +13152,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 14,
-      "Денисенко Галина Алексеевна": 58,
-      "Земцова Маргарита Ивановна": 97,
-      "Меркачев Владимир Васильевич": 91,
-      "Ракуленко Андрей Георгиевич": 46,
-      "Харченко Иван Николаевич": 602,
-      "Шаплов Анатолий Анатольевич": 227,
-      "Против всех": 229
+      "gas:candidate-vibid:323300470746": 14,
+      "gas:candidate-vibid:1001000195048": 58,
+      "gas:candidate-vibid:1001000136019": 97,
+      "gas:candidate-vibid:1001000121816": 91,
+      "gas:candidate-vibid:1001000112194": 46,
+      "gas:candidate-vibid:1001000187995": 602,
+      "gas:candidate-vibid:323300470775": 227,
+      "special:against-all": 229
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000039&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070402&region=0&sub_region=0&type=429",
@@ -13209,14 +13209,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 26,
-      "Денисенко Галина Алексеевна": 82,
-      "Земцова Маргарита Ивановна": 125,
-      "Меркачев Владимир Васильевич": 114,
-      "Ракуленко Андрей Георгиевич": 53,
-      "Харченко Иван Николаевич": 649,
-      "Шаплов Анатолий Анатольевич": 250,
-      "Против всех": 205
+      "gas:candidate-vibid:323300470746": 26,
+      "gas:candidate-vibid:1001000195048": 82,
+      "gas:candidate-vibid:1001000136019": 125,
+      "gas:candidate-vibid:1001000121816": 114,
+      "gas:candidate-vibid:1001000112194": 53,
+      "gas:candidate-vibid:1001000187995": 649,
+      "gas:candidate-vibid:323300470775": 250,
+      "special:against-all": 205
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000039&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070402&region=0&sub_region=0&type=429",
@@ -13266,14 +13266,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 11,
-      "Денисенко Галина Алексеевна": 61,
-      "Земцова Маргарита Ивановна": 120,
-      "Меркачев Владимир Васильевич": 108,
-      "Ракуленко Андрей Георгиевич": 41,
-      "Харченко Иван Николаевич": 584,
-      "Шаплов Анатолий Анатольевич": 212,
-      "Против всех": 208
+      "gas:candidate-vibid:323300470746": 11,
+      "gas:candidate-vibid:1001000195048": 61,
+      "gas:candidate-vibid:1001000136019": 120,
+      "gas:candidate-vibid:1001000121816": 108,
+      "gas:candidate-vibid:1001000112194": 41,
+      "gas:candidate-vibid:1001000187995": 584,
+      "gas:candidate-vibid:323300470775": 212,
+      "special:against-all": 208
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000039&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070402&region=0&sub_region=0&type=429",
@@ -13323,14 +13323,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 12,
-      "Денисенко Галина Алексеевна": 60,
-      "Земцова Маргарита Ивановна": 88,
-      "Меркачев Владимир Васильевич": 68,
-      "Ракуленко Андрей Георгиевич": 42,
-      "Харченко Иван Николаевич": 538,
-      "Шаплов Анатолий Анатольевич": 137,
-      "Против всех": 182
+      "gas:candidate-vibid:323300470746": 12,
+      "gas:candidate-vibid:1001000195048": 60,
+      "gas:candidate-vibid:1001000136019": 88,
+      "gas:candidate-vibid:1001000121816": 68,
+      "gas:candidate-vibid:1001000112194": 42,
+      "gas:candidate-vibid:1001000187995": 538,
+      "gas:candidate-vibid:323300470775": 137,
+      "special:against-all": 182
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000039&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070402&region=0&sub_region=0&type=429",
@@ -13380,14 +13380,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 17,
-      "Денисенко Галина Алексеевна": 78,
-      "Земцова Маргарита Ивановна": 137,
-      "Меркачев Владимир Васильевич": 101,
-      "Ракуленко Андрей Георгиевич": 47,
-      "Харченко Иван Николаевич": 586,
-      "Шаплов Анатолий Анатольевич": 268,
-      "Против всех": 236
+      "gas:candidate-vibid:323300470746": 17,
+      "gas:candidate-vibid:1001000195048": 78,
+      "gas:candidate-vibid:1001000136019": 137,
+      "gas:candidate-vibid:1001000121816": 101,
+      "gas:candidate-vibid:1001000112194": 47,
+      "gas:candidate-vibid:1001000187995": 586,
+      "gas:candidate-vibid:323300470775": 268,
+      "special:against-all": 236
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000039&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070402&region=0&sub_region=0&type=429",
@@ -13437,14 +13437,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 2,
-      "Денисенко Галина Алексеевна": 15,
-      "Земцова Маргарита Ивановна": 27,
-      "Меркачев Владимир Васильевич": 4,
-      "Ракуленко Андрей Георгиевич": 8,
-      "Харченко Иван Николаевич": 59,
-      "Шаплов Анатолий Анатольевич": 55,
-      "Против всех": 32
+      "gas:candidate-vibid:323300470746": 2,
+      "gas:candidate-vibid:1001000195048": 15,
+      "gas:candidate-vibid:1001000136019": 27,
+      "gas:candidate-vibid:1001000121816": 4,
+      "gas:candidate-vibid:1001000112194": 8,
+      "gas:candidate-vibid:1001000187995": 59,
+      "gas:candidate-vibid:323300470775": 55,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000039&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070402&region=0&sub_region=0&type=429",
@@ -13494,14 +13494,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 2,
-      "Денисенко Галина Алексеевна": 25,
-      "Земцова Маргарита Ивановна": 16,
-      "Меркачев Владимир Васильевич": 8,
-      "Ракуленко Андрей Георгиевич": 6,
-      "Харченко Иван Николаевич": 81,
-      "Шаплов Анатолий Анатольевич": 25,
-      "Против всех": 25
+      "gas:candidate-vibid:323300470746": 2,
+      "gas:candidate-vibid:1001000195048": 25,
+      "gas:candidate-vibid:1001000136019": 16,
+      "gas:candidate-vibid:1001000121816": 8,
+      "gas:candidate-vibid:1001000112194": 6,
+      "gas:candidate-vibid:1001000187995": 81,
+      "gas:candidate-vibid:323300470775": 25,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000039&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070402&region=0&sub_region=0&type=429",
@@ -13551,14 +13551,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 26,
-      "Денисенко Галина Алексеевна": 69,
-      "Земцова Маргарита Ивановна": 120,
-      "Меркачев Владимир Васильевич": 86,
-      "Ракуленко Андрей Георгиевич": 58,
-      "Харченко Иван Николаевич": 526,
-      "Шаплов Анатолий Анатольевич": 252,
-      "Против всех": 211
+      "gas:candidate-vibid:323300470746": 26,
+      "gas:candidate-vibid:1001000195048": 69,
+      "gas:candidate-vibid:1001000136019": 120,
+      "gas:candidate-vibid:1001000121816": 86,
+      "gas:candidate-vibid:1001000112194": 58,
+      "gas:candidate-vibid:1001000187995": 526,
+      "gas:candidate-vibid:323300470775": 252,
+      "special:against-all": 211
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000039&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070402&region=0&sub_region=0&type=429",
@@ -13608,14 +13608,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 6,
-      "Денисенко Галина Алексеевна": 25,
-      "Земцова Маргарита Ивановна": 60,
-      "Меркачев Владимир Васильевич": 20,
-      "Ракуленко Андрей Георгиевич": 11,
-      "Харченко Иван Николаевич": 146,
-      "Шаплов Анатолий Анатольевич": 64,
-      "Против всех": 119
+      "gas:candidate-vibid:323300470746": 6,
+      "gas:candidate-vibid:1001000195048": 25,
+      "gas:candidate-vibid:1001000136019": 60,
+      "gas:candidate-vibid:1001000121816": 20,
+      "gas:candidate-vibid:1001000112194": 11,
+      "gas:candidate-vibid:1001000187995": 146,
+      "gas:candidate-vibid:323300470775": 64,
+      "special:against-all": 119
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000039&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070402&region=0&sub_region=0&type=429",
@@ -13665,14 +13665,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 8,
-      "Денисенко Галина Алексеевна": 10,
-      "Земцова Маргарита Ивановна": 33,
-      "Меркачев Владимир Васильевич": 8,
-      "Ракуленко Андрей Георгиевич": 3,
-      "Харченко Иван Николаевич": 188,
-      "Шаплов Анатолий Анатольевич": 54,
-      "Против всех": 35
+      "gas:candidate-vibid:323300470746": 8,
+      "gas:candidate-vibid:1001000195048": 10,
+      "gas:candidate-vibid:1001000136019": 33,
+      "gas:candidate-vibid:1001000121816": 8,
+      "gas:candidate-vibid:1001000112194": 3,
+      "gas:candidate-vibid:1001000187995": 188,
+      "gas:candidate-vibid:323300470775": 54,
+      "special:against-all": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000039&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070402&region=0&sub_region=0&type=429",
@@ -13722,14 +13722,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 5,
-      "Денисенко Галина Алексеевна": 8,
-      "Земцова Маргарита Ивановна": 35,
-      "Меркачев Владимир Васильевич": 62,
-      "Ракуленко Андрей Георгиевич": 6,
-      "Харченко Иван Николаевич": 284,
-      "Шаплов Анатолий Анатольевич": 51,
-      "Против всех": 41
+      "gas:candidate-vibid:323300470746": 5,
+      "gas:candidate-vibid:1001000195048": 8,
+      "gas:candidate-vibid:1001000136019": 35,
+      "gas:candidate-vibid:1001000121816": 62,
+      "gas:candidate-vibid:1001000112194": 6,
+      "gas:candidate-vibid:1001000187995": 284,
+      "gas:candidate-vibid:323300470775": 51,
+      "special:against-all": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000039&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070402&region=0&sub_region=0&type=429",
@@ -13779,14 +13779,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 8,
-      "Денисенко Галина Алексеевна": 48,
-      "Земцова Маргарита Ивановна": 75,
-      "Меркачев Владимир Васильевич": 221,
-      "Ракуленко Андрей Георгиевич": 43,
-      "Харченко Иван Николаевич": 449,
-      "Шаплов Анатолий Анатольевич": 149,
-      "Против всех": 177
+      "gas:candidate-vibid:323300470746": 8,
+      "gas:candidate-vibid:1001000195048": 48,
+      "gas:candidate-vibid:1001000136019": 75,
+      "gas:candidate-vibid:1001000121816": 221,
+      "gas:candidate-vibid:1001000112194": 43,
+      "gas:candidate-vibid:1001000187995": 449,
+      "gas:candidate-vibid:323300470775": 149,
+      "special:against-all": 177
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000039&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070402&region=0&sub_region=0&type=429",
@@ -13836,14 +13836,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 9,
-      "Денисенко Галина Алексеевна": 54,
-      "Земцова Маргарита Ивановна": 88,
-      "Меркачев Владимир Васильевич": 258,
-      "Ракуленко Андрей Георгиевич": 45,
-      "Харченко Иван Николаевич": 566,
-      "Шаплов Анатолий Анатольевич": 132,
-      "Против всех": 152
+      "gas:candidate-vibid:323300470746": 9,
+      "gas:candidate-vibid:1001000195048": 54,
+      "gas:candidate-vibid:1001000136019": 88,
+      "gas:candidate-vibid:1001000121816": 258,
+      "gas:candidate-vibid:1001000112194": 45,
+      "gas:candidate-vibid:1001000187995": 566,
+      "gas:candidate-vibid:323300470775": 132,
+      "special:against-all": 152
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000039&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070402&region=0&sub_region=0&type=429",
@@ -13893,14 +13893,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 5,
-      "Денисенко Галина Алексеевна": 41,
-      "Земцова Маргарита Ивановна": 78,
-      "Меркачев Владимир Васильевич": 202,
-      "Ракуленко Андрей Георгиевич": 46,
-      "Харченко Иван Николаевич": 596,
-      "Шаплов Анатолий Анатольевич": 125,
-      "Против всех": 152
+      "gas:candidate-vibid:323300470746": 5,
+      "gas:candidate-vibid:1001000195048": 41,
+      "gas:candidate-vibid:1001000136019": 78,
+      "gas:candidate-vibid:1001000121816": 202,
+      "gas:candidate-vibid:1001000112194": 46,
+      "gas:candidate-vibid:1001000187995": 596,
+      "gas:candidate-vibid:323300470775": 125,
+      "special:against-all": 152
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000039&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070402&region=0&sub_region=0&type=429",
@@ -13950,14 +13950,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 12,
-      "Денисенко Галина Алексеевна": 33,
-      "Земцова Маргарита Ивановна": 62,
-      "Меркачев Владимир Васильевич": 92,
-      "Ракуленко Андрей Георгиевич": 33,
-      "Харченко Иван Николаевич": 338,
-      "Шаплов Анатолий Анатольевич": 119,
-      "Против всех": 124
+      "gas:candidate-vibid:323300470746": 12,
+      "gas:candidate-vibid:1001000195048": 33,
+      "gas:candidate-vibid:1001000136019": 62,
+      "gas:candidate-vibid:1001000121816": 92,
+      "gas:candidate-vibid:1001000112194": 33,
+      "gas:candidate-vibid:1001000187995": 338,
+      "gas:candidate-vibid:323300470775": 119,
+      "special:against-all": 124
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000039&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070402&region=0&sub_region=0&type=429",
@@ -14007,14 +14007,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 6,
-      "Денисенко Галина Алексеевна": 33,
-      "Земцова Маргарита Ивановна": 58,
-      "Меркачев Владимир Васильевич": 149,
-      "Ракуленко Андрей Георгиевич": 56,
-      "Харченко Иван Николаевич": 563,
-      "Шаплов Анатолий Анатольевич": 138,
-      "Против всех": 116
+      "gas:candidate-vibid:323300470746": 6,
+      "gas:candidate-vibid:1001000195048": 33,
+      "gas:candidate-vibid:1001000136019": 58,
+      "gas:candidate-vibid:1001000121816": 149,
+      "gas:candidate-vibid:1001000112194": 56,
+      "gas:candidate-vibid:1001000187995": 563,
+      "gas:candidate-vibid:323300470775": 138,
+      "special:against-all": 116
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000039&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070402&region=0&sub_region=0&type=429",
@@ -14064,14 +14064,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 10,
-      "Денисенко Галина Алексеевна": 51,
-      "Земцова Маргарита Ивановна": 79,
-      "Меркачев Владимир Васильевич": 90,
-      "Ракуленко Андрей Георгиевич": 29,
-      "Харченко Иван Николаевич": 660,
-      "Шаплов Анатолий Анатольевич": 194,
-      "Против всех": 180
+      "gas:candidate-vibid:323300470746": 10,
+      "gas:candidate-vibid:1001000195048": 51,
+      "gas:candidate-vibid:1001000136019": 79,
+      "gas:candidate-vibid:1001000121816": 90,
+      "gas:candidate-vibid:1001000112194": 29,
+      "gas:candidate-vibid:1001000187995": 660,
+      "gas:candidate-vibid:323300470775": 194,
+      "special:against-all": 180
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000039&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070402&region=0&sub_region=0&type=429",
@@ -14121,14 +14121,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 11,
-      "Денисенко Галина Алексеевна": 33,
-      "Земцова Маргарита Ивановна": 49,
-      "Меркачев Владимир Васильевич": 146,
-      "Ракуленко Андрей Георгиевич": 16,
-      "Харченко Иван Николаевич": 249,
-      "Шаплов Анатолий Анатольевич": 88,
-      "Против всех": 77
+      "gas:candidate-vibid:323300470746": 11,
+      "gas:candidate-vibid:1001000195048": 33,
+      "gas:candidate-vibid:1001000136019": 49,
+      "gas:candidate-vibid:1001000121816": 146,
+      "gas:candidate-vibid:1001000112194": 16,
+      "gas:candidate-vibid:1001000187995": 249,
+      "gas:candidate-vibid:323300470775": 88,
+      "special:against-all": 77
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000039&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070402&region=0&sub_region=0&type=429",
@@ -14178,14 +14178,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 7,
-      "Денисенко Галина Алексеевна": 35,
-      "Земцова Маргарита Ивановна": 63,
-      "Меркачев Владимир Васильевич": 160,
-      "Ракуленко Андрей Георгиевич": 27,
-      "Харченко Иван Николаевич": 414,
-      "Шаплов Анатолий Анатольевич": 137,
-      "Против всех": 115
+      "gas:candidate-vibid:323300470746": 7,
+      "gas:candidate-vibid:1001000195048": 35,
+      "gas:candidate-vibid:1001000136019": 63,
+      "gas:candidate-vibid:1001000121816": 160,
+      "gas:candidate-vibid:1001000112194": 27,
+      "gas:candidate-vibid:1001000187995": 414,
+      "gas:candidate-vibid:323300470775": 137,
+      "special:against-all": 115
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000039&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070402&region=0&sub_region=0&type=429",
@@ -14235,14 +14235,14 @@ export const duma_2003_uik_428_region_23_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амичба Дмитрий Георгиевич": 13,
-      "Денисенко Галина Алексеевна": 38,
-      "Земцова Маргарита Ивановна": 78,
-      "Меркачев Владимир Васильевич": 116,
-      "Ракуленко Андрей Георгиевич": 18,
-      "Харченко Иван Николаевич": 520,
-      "Шаплов Анатолий Анатольевич": 115,
-      "Против всех": 162
+      "gas:candidate-vibid:323300470746": 13,
+      "gas:candidate-vibid:1001000195048": 38,
+      "gas:candidate-vibid:1001000136019": 78,
+      "gas:candidate-vibid:1001000121816": 116,
+      "gas:candidate-vibid:1001000112194": 18,
+      "gas:candidate-vibid:1001000187995": 520,
+      "gas:candidate-vibid:323300470775": 115,
+      "special:against-all": 162
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000039&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070402&region=0&sub_region=0&type=429",

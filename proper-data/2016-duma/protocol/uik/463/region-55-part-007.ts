@@ -43,16 +43,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 3,
-      "Голушко Андрей Иванович": 208,
-      "Денисенко Олег Иванович": 102,
-      "Колесников Олег Юрьевич": 4,
-      "Кочетков Сергей Петрович": 7,
-      "Кравцов Александр Владимирович": 15,
-      "Ложкин Алексей Николаевич": 60,
-      "Мельников Борис Викторович": 3,
-      "Подзоров Александр Георгиевич": 16,
-      "Якименко Алексей Евгеньевич": 2
+      "gas:candidate-vibid:2552000990706": 3,
+      "gas:candidate-vibid:2552000990468": 208,
+      "gas:candidate-vibid:2552000994508": 102,
+      "gas:candidate-vibid:2552000995687": 4,
+      "gas:candidate-vibid:2552000995793": 7,
+      "gas:candidate-vibid:2552000987502": 15,
+      "gas:candidate-vibid:2552000983027": 60,
+      "gas:candidate-vibid:2552000992049": 3,
+      "gas:candidate-vibid:2552000989939": 16,
+      "gas:candidate-vibid:2552000995754": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897362&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897362&type=464",
@@ -103,16 +103,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 6,
-      "Голушко Андрей Иванович": 104,
-      "Денисенко Олег Иванович": 58,
-      "Колесников Олег Юрьевич": 2,
-      "Кочетков Сергей Петрович": 6,
-      "Кравцов Александр Владимирович": 1,
-      "Ложкин Алексей Николаевич": 40,
-      "Мельников Борис Викторович": 1,
-      "Подзоров Александр Георгиевич": 14,
-      "Якименко Алексей Евгеньевич": 5
+      "gas:candidate-vibid:2552000990706": 6,
+      "gas:candidate-vibid:2552000990468": 104,
+      "gas:candidate-vibid:2552000994508": 58,
+      "gas:candidate-vibid:2552000995687": 2,
+      "gas:candidate-vibid:2552000995793": 6,
+      "gas:candidate-vibid:2552000987502": 1,
+      "gas:candidate-vibid:2552000983027": 40,
+      "gas:candidate-vibid:2552000992049": 1,
+      "gas:candidate-vibid:2552000989939": 14,
+      "gas:candidate-vibid:2552000995754": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897362&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897362&type=464",
@@ -163,16 +163,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 7,
-      "Голушко Андрей Иванович": 160,
-      "Денисенко Олег Иванович": 123,
-      "Колесников Олег Юрьевич": 2,
-      "Кочетков Сергей Петрович": 11,
-      "Кравцов Александр Владимирович": 20,
-      "Ложкин Алексей Николаевич": 54,
-      "Мельников Борис Викторович": 3,
-      "Подзоров Александр Георгиевич": 17,
-      "Якименко Алексей Евгеньевич": 4
+      "gas:candidate-vibid:2552000990706": 7,
+      "gas:candidate-vibid:2552000990468": 160,
+      "gas:candidate-vibid:2552000994508": 123,
+      "gas:candidate-vibid:2552000995687": 2,
+      "gas:candidate-vibid:2552000995793": 11,
+      "gas:candidate-vibid:2552000987502": 20,
+      "gas:candidate-vibid:2552000983027": 54,
+      "gas:candidate-vibid:2552000992049": 3,
+      "gas:candidate-vibid:2552000989939": 17,
+      "gas:candidate-vibid:2552000995754": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897362&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897362&type=464",
@@ -223,16 +223,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 1,
-      "Голушко Андрей Иванович": 8,
-      "Денисенко Олег Иванович": 11,
-      "Колесников Олег Юрьевич": 0,
-      "Кочетков Сергей Петрович": 1,
-      "Кравцов Александр Владимирович": 0,
-      "Ложкин Алексей Николаевич": 7,
-      "Мельников Борис Викторович": 0,
-      "Подзоров Александр Георгиевич": 4,
-      "Якименко Алексей Евгеньевич": 5
+      "gas:candidate-vibid:2552000990706": 1,
+      "gas:candidate-vibid:2552000990468": 8,
+      "gas:candidate-vibid:2552000994508": 11,
+      "gas:candidate-vibid:2552000995687": 0,
+      "gas:candidate-vibid:2552000995793": 1,
+      "gas:candidate-vibid:2552000987502": 0,
+      "gas:candidate-vibid:2552000983027": 7,
+      "gas:candidate-vibid:2552000992049": 0,
+      "gas:candidate-vibid:2552000989939": 4,
+      "gas:candidate-vibid:2552000995754": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897362&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897362&type=464",
@@ -283,16 +283,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 0,
-      "Голушко Андрей Иванович": 25,
-      "Денисенко Олег Иванович": 9,
-      "Колесников Олег Юрьевич": 1,
-      "Кочетков Сергей Петрович": 2,
-      "Кравцов Александр Владимирович": 4,
-      "Ложкин Алексей Николаевич": 2,
-      "Мельников Борис Викторович": 0,
-      "Подзоров Александр Георгиевич": 0,
-      "Якименко Алексей Евгеньевич": 2
+      "gas:candidate-vibid:2552000990706": 0,
+      "gas:candidate-vibid:2552000990468": 25,
+      "gas:candidate-vibid:2552000994508": 9,
+      "gas:candidate-vibid:2552000995687": 1,
+      "gas:candidate-vibid:2552000995793": 2,
+      "gas:candidate-vibid:2552000987502": 4,
+      "gas:candidate-vibid:2552000983027": 2,
+      "gas:candidate-vibid:2552000992049": 0,
+      "gas:candidate-vibid:2552000989939": 0,
+      "gas:candidate-vibid:2552000995754": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897362&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897362&type=464",
@@ -343,16 +343,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 5,
-      "Голушко Андрей Иванович": 34,
-      "Денисенко Олег Иванович": 31,
-      "Колесников Олег Юрьевич": 2,
-      "Кочетков Сергей Петрович": 1,
-      "Кравцов Александр Владимирович": 5,
-      "Ложкин Алексей Николаевич": 23,
-      "Мельников Борис Викторович": 0,
-      "Подзоров Александр Георгиевич": 12,
-      "Якименко Алексей Евгеньевич": 3
+      "gas:candidate-vibid:2552000990706": 5,
+      "gas:candidate-vibid:2552000990468": 34,
+      "gas:candidate-vibid:2552000994508": 31,
+      "gas:candidate-vibid:2552000995687": 2,
+      "gas:candidate-vibid:2552000995793": 1,
+      "gas:candidate-vibid:2552000987502": 5,
+      "gas:candidate-vibid:2552000983027": 23,
+      "gas:candidate-vibid:2552000992049": 0,
+      "gas:candidate-vibid:2552000989939": 12,
+      "gas:candidate-vibid:2552000995754": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897362&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897362&type=464",
@@ -403,16 +403,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 1,
-      "Голушко Андрей Иванович": 26,
-      "Денисенко Олег Иванович": 30,
-      "Колесников Олег Юрьевич": 2,
-      "Кочетков Сергей Петрович": 2,
-      "Кравцов Александр Владимирович": 2,
-      "Ложкин Алексей Николаевич": 4,
-      "Мельников Борис Викторович": 0,
-      "Подзоров Александр Георгиевич": 1,
-      "Якименко Алексей Евгеньевич": 0
+      "gas:candidate-vibid:2552000990706": 1,
+      "gas:candidate-vibid:2552000990468": 26,
+      "gas:candidate-vibid:2552000994508": 30,
+      "gas:candidate-vibid:2552000995687": 2,
+      "gas:candidate-vibid:2552000995793": 2,
+      "gas:candidate-vibid:2552000987502": 2,
+      "gas:candidate-vibid:2552000983027": 4,
+      "gas:candidate-vibid:2552000992049": 0,
+      "gas:candidate-vibid:2552000989939": 1,
+      "gas:candidate-vibid:2552000995754": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897362&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897362&type=464",
@@ -463,16 +463,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 6,
-      "Голушко Андрей Иванович": 175,
-      "Денисенко Олег Иванович": 45,
-      "Колесников Олег Юрьевич": 2,
-      "Кочетков Сергей Петрович": 4,
-      "Кравцов Александр Владимирович": 14,
-      "Ложкин Алексей Николаевич": 25,
-      "Мельников Борис Викторович": 2,
-      "Подзоров Александр Георгиевич": 12,
-      "Якименко Алексей Евгеньевич": 5
+      "gas:candidate-vibid:2552000990706": 6,
+      "gas:candidate-vibid:2552000990468": 175,
+      "gas:candidate-vibid:2552000994508": 45,
+      "gas:candidate-vibid:2552000995687": 2,
+      "gas:candidate-vibid:2552000995793": 4,
+      "gas:candidate-vibid:2552000987502": 14,
+      "gas:candidate-vibid:2552000983027": 25,
+      "gas:candidate-vibid:2552000992049": 2,
+      "gas:candidate-vibid:2552000989939": 12,
+      "gas:candidate-vibid:2552000995754": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897362&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897362&type=464",
@@ -523,16 +523,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 1,
-      "Голушко Андрей Иванович": 38,
-      "Денисенко Олег Иванович": 9,
-      "Колесников Олег Юрьевич": 2,
-      "Кочетков Сергей Петрович": 0,
-      "Кравцов Александр Владимирович": 2,
-      "Ложкин Алексей Николаевич": 5,
-      "Мельников Борис Викторович": 0,
-      "Подзоров Александр Георгиевич": 2,
-      "Якименко Алексей Евгеньевич": 1
+      "gas:candidate-vibid:2552000990706": 1,
+      "gas:candidate-vibid:2552000990468": 38,
+      "gas:candidate-vibid:2552000994508": 9,
+      "gas:candidate-vibid:2552000995687": 2,
+      "gas:candidate-vibid:2552000995793": 0,
+      "gas:candidate-vibid:2552000987502": 2,
+      "gas:candidate-vibid:2552000983027": 5,
+      "gas:candidate-vibid:2552000992049": 0,
+      "gas:candidate-vibid:2552000989939": 2,
+      "gas:candidate-vibid:2552000995754": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897362&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897362&type=464",
@@ -583,16 +583,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 5,
-      "Голушко Андрей Иванович": 65,
-      "Денисенко Олег Иванович": 91,
-      "Колесников Олег Юрьевич": 12,
-      "Кочетков Сергей Петрович": 3,
-      "Кравцов Александр Владимирович": 9,
-      "Ложкин Алексей Николаевич": 31,
-      "Мельников Борис Викторович": 4,
-      "Подзоров Александр Георгиевич": 20,
-      "Якименко Алексей Евгеньевич": 1
+      "gas:candidate-vibid:2552000990706": 5,
+      "gas:candidate-vibid:2552000990468": 65,
+      "gas:candidate-vibid:2552000994508": 91,
+      "gas:candidate-vibid:2552000995687": 12,
+      "gas:candidate-vibid:2552000995793": 3,
+      "gas:candidate-vibid:2552000987502": 9,
+      "gas:candidate-vibid:2552000983027": 31,
+      "gas:candidate-vibid:2552000992049": 4,
+      "gas:candidate-vibid:2552000989939": 20,
+      "gas:candidate-vibid:2552000995754": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897362&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897362&type=464",
@@ -643,16 +643,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 0,
-      "Голушко Андрей Иванович": 34,
-      "Денисенко Олег Иванович": 3,
-      "Колесников Олег Юрьевич": 3,
-      "Кочетков Сергей Петрович": 0,
-      "Кравцов Александр Владимирович": 1,
-      "Ложкин Алексей Николаевич": 8,
-      "Мельников Борис Викторович": 2,
-      "Подзоров Александр Георгиевич": 0,
-      "Якименко Алексей Евгеньевич": 0
+      "gas:candidate-vibid:2552000990706": 0,
+      "gas:candidate-vibid:2552000990468": 34,
+      "gas:candidate-vibid:2552000994508": 3,
+      "gas:candidate-vibid:2552000995687": 3,
+      "gas:candidate-vibid:2552000995793": 0,
+      "gas:candidate-vibid:2552000987502": 1,
+      "gas:candidate-vibid:2552000983027": 8,
+      "gas:candidate-vibid:2552000992049": 2,
+      "gas:candidate-vibid:2552000989939": 0,
+      "gas:candidate-vibid:2552000995754": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897362&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897362&type=464",
@@ -703,16 +703,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 1,
-      "Голушко Андрей Иванович": 22,
-      "Денисенко Олег Иванович": 22,
-      "Колесников Олег Юрьевич": 0,
-      "Кочетков Сергей Петрович": 0,
-      "Кравцов Александр Владимирович": 0,
-      "Ложкин Алексей Николаевич": 2,
-      "Мельников Борис Викторович": 0,
-      "Подзоров Александр Георгиевич": 2,
-      "Якименко Алексей Евгеньевич": 0
+      "gas:candidate-vibid:2552000990706": 1,
+      "gas:candidate-vibid:2552000990468": 22,
+      "gas:candidate-vibid:2552000994508": 22,
+      "gas:candidate-vibid:2552000995687": 0,
+      "gas:candidate-vibid:2552000995793": 0,
+      "gas:candidate-vibid:2552000987502": 0,
+      "gas:candidate-vibid:2552000983027": 2,
+      "gas:candidate-vibid:2552000992049": 0,
+      "gas:candidate-vibid:2552000989939": 2,
+      "gas:candidate-vibid:2552000995754": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897362&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897362&type=464",
@@ -763,16 +763,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 0,
-      "Голушко Андрей Иванович": 68,
-      "Денисенко Олег Иванович": 67,
-      "Колесников Олег Юрьевич": 5,
-      "Кочетков Сергей Петрович": 2,
-      "Кравцов Александр Владимирович": 8,
-      "Ложкин Алексей Николаевич": 39,
-      "Мельников Борис Викторович": 3,
-      "Подзоров Александр Георгиевич": 11,
-      "Якименко Алексей Евгеньевич": 2
+      "gas:candidate-vibid:2552000990706": 0,
+      "gas:candidate-vibid:2552000990468": 68,
+      "gas:candidate-vibid:2552000994508": 67,
+      "gas:candidate-vibid:2552000995687": 5,
+      "gas:candidate-vibid:2552000995793": 2,
+      "gas:candidate-vibid:2552000987502": 8,
+      "gas:candidate-vibid:2552000983027": 39,
+      "gas:candidate-vibid:2552000992049": 3,
+      "gas:candidate-vibid:2552000989939": 11,
+      "gas:candidate-vibid:2552000995754": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897362&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897362&type=464",
@@ -823,16 +823,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 1,
-      "Голушко Андрей Иванович": 29,
-      "Денисенко Олег Иванович": 7,
-      "Колесников Олег Юрьевич": 2,
-      "Кочетков Сергей Петрович": 1,
-      "Кравцов Александр Владимирович": 1,
-      "Ложкин Алексей Николаевич": 10,
-      "Мельников Борис Викторович": 1,
-      "Подзоров Александр Георгиевич": 2,
-      "Якименко Алексей Евгеньевич": 1
+      "gas:candidate-vibid:2552000990706": 1,
+      "gas:candidate-vibid:2552000990468": 29,
+      "gas:candidate-vibid:2552000994508": 7,
+      "gas:candidate-vibid:2552000995687": 2,
+      "gas:candidate-vibid:2552000995793": 1,
+      "gas:candidate-vibid:2552000987502": 1,
+      "gas:candidate-vibid:2552000983027": 10,
+      "gas:candidate-vibid:2552000992049": 1,
+      "gas:candidate-vibid:2552000989939": 2,
+      "gas:candidate-vibid:2552000995754": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897362&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897362&type=464",
@@ -883,16 +883,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 1,
-      "Голушко Андрей Иванович": 45,
-      "Денисенко Олег Иванович": 28,
-      "Колесников Олег Юрьевич": 5,
-      "Кочетков Сергей Петрович": 1,
-      "Кравцов Александр Владимирович": 2,
-      "Ложкин Алексей Николаевич": 2,
-      "Мельников Борис Викторович": 0,
-      "Подзоров Александр Георгиевич": 6,
-      "Якименко Алексей Евгеньевич": 4
+      "gas:candidate-vibid:2552000990706": 1,
+      "gas:candidate-vibid:2552000990468": 45,
+      "gas:candidate-vibid:2552000994508": 28,
+      "gas:candidate-vibid:2552000995687": 5,
+      "gas:candidate-vibid:2552000995793": 1,
+      "gas:candidate-vibid:2552000987502": 2,
+      "gas:candidate-vibid:2552000983027": 2,
+      "gas:candidate-vibid:2552000992049": 0,
+      "gas:candidate-vibid:2552000989939": 6,
+      "gas:candidate-vibid:2552000995754": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897362&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897362&type=464",
@@ -943,16 +943,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 2,
-      "Голушко Андрей Иванович": 36,
-      "Денисенко Олег Иванович": 16,
-      "Колесников Олег Юрьевич": 0,
-      "Кочетков Сергей Петрович": 0,
-      "Кравцов Александр Владимирович": 0,
-      "Ложкин Алексей Николаевич": 7,
-      "Мельников Борис Викторович": 0,
-      "Подзоров Александр Георгиевич": 7,
-      "Якименко Алексей Евгеньевич": 1
+      "gas:candidate-vibid:2552000990706": 2,
+      "gas:candidate-vibid:2552000990468": 36,
+      "gas:candidate-vibid:2552000994508": 16,
+      "gas:candidate-vibid:2552000995687": 0,
+      "gas:candidate-vibid:2552000995793": 0,
+      "gas:candidate-vibid:2552000987502": 0,
+      "gas:candidate-vibid:2552000983027": 7,
+      "gas:candidate-vibid:2552000992049": 0,
+      "gas:candidate-vibid:2552000989939": 7,
+      "gas:candidate-vibid:2552000995754": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897362&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897362&type=464",
@@ -1003,16 +1003,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 0,
-      "Голушко Андрей Иванович": 13,
-      "Денисенко Олег Иванович": 18,
-      "Колесников Олег Юрьевич": 0,
-      "Кочетков Сергей Петрович": 1,
-      "Кравцов Александр Владимирович": 0,
-      "Ложкин Алексей Николаевич": 2,
-      "Мельников Борис Викторович": 0,
-      "Подзоров Александр Георгиевич": 12,
-      "Якименко Алексей Евгеньевич": 0
+      "gas:candidate-vibid:2552000990706": 0,
+      "gas:candidate-vibid:2552000990468": 13,
+      "gas:candidate-vibid:2552000994508": 18,
+      "gas:candidate-vibid:2552000995687": 0,
+      "gas:candidate-vibid:2552000995793": 1,
+      "gas:candidate-vibid:2552000987502": 0,
+      "gas:candidate-vibid:2552000983027": 2,
+      "gas:candidate-vibid:2552000992049": 0,
+      "gas:candidate-vibid:2552000989939": 12,
+      "gas:candidate-vibid:2552000995754": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897362&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897362&type=464",
@@ -1063,16 +1063,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 3,
-      "Голушко Андрей Иванович": 189,
-      "Денисенко Олег Иванович": 43,
-      "Колесников Олег Юрьевич": 6,
-      "Кочетков Сергей Петрович": 5,
-      "Кравцов Александр Владимирович": 16,
-      "Ложкин Алексей Николаевич": 30,
-      "Мельников Борис Викторович": 3,
-      "Подзоров Александр Георгиевич": 20,
-      "Якименко Алексей Евгеньевич": 0
+      "gas:candidate-vibid:2552000990706": 3,
+      "gas:candidate-vibid:2552000990468": 189,
+      "gas:candidate-vibid:2552000994508": 43,
+      "gas:candidate-vibid:2552000995687": 6,
+      "gas:candidate-vibid:2552000995793": 5,
+      "gas:candidate-vibid:2552000987502": 16,
+      "gas:candidate-vibid:2552000983027": 30,
+      "gas:candidate-vibid:2552000992049": 3,
+      "gas:candidate-vibid:2552000989939": 20,
+      "gas:candidate-vibid:2552000995754": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897362&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897362&type=464",
@@ -1123,16 +1123,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 0,
-      "Голушко Андрей Иванович": 15,
-      "Денисенко Олег Иванович": 11,
-      "Колесников Олег Юрьевич": 0,
-      "Кочетков Сергей Петрович": 0,
-      "Кравцов Александр Владимирович": 2,
-      "Ложкин Алексей Николаевич": 0,
-      "Мельников Борис Викторович": 0,
-      "Подзоров Александр Георгиевич": 1,
-      "Якименко Алексей Евгеньевич": 0
+      "gas:candidate-vibid:2552000990706": 0,
+      "gas:candidate-vibid:2552000990468": 15,
+      "gas:candidate-vibid:2552000994508": 11,
+      "gas:candidate-vibid:2552000995687": 0,
+      "gas:candidate-vibid:2552000995793": 0,
+      "gas:candidate-vibid:2552000987502": 2,
+      "gas:candidate-vibid:2552000983027": 0,
+      "gas:candidate-vibid:2552000992049": 0,
+      "gas:candidate-vibid:2552000989939": 1,
+      "gas:candidate-vibid:2552000995754": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897362&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897362&type=464",
@@ -1183,16 +1183,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 0,
-      "Голушко Андрей Иванович": 24,
-      "Денисенко Олег Иванович": 3,
-      "Колесников Олег Юрьевич": 1,
-      "Кочетков Сергей Петрович": 0,
-      "Кравцов Александр Владимирович": 3,
-      "Ложкин Алексей Николаевич": 3,
-      "Мельников Борис Викторович": 0,
-      "Подзоров Александр Георгиевич": 2,
-      "Якименко Алексей Евгеньевич": 0
+      "gas:candidate-vibid:2552000990706": 0,
+      "gas:candidate-vibid:2552000990468": 24,
+      "gas:candidate-vibid:2552000994508": 3,
+      "gas:candidate-vibid:2552000995687": 1,
+      "gas:candidate-vibid:2552000995793": 0,
+      "gas:candidate-vibid:2552000987502": 3,
+      "gas:candidate-vibid:2552000983027": 3,
+      "gas:candidate-vibid:2552000992049": 0,
+      "gas:candidate-vibid:2552000989939": 2,
+      "gas:candidate-vibid:2552000995754": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897362&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897362&type=464",
@@ -1243,16 +1243,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 0,
-      "Голушко Андрей Иванович": 30,
-      "Денисенко Олег Иванович": 1,
-      "Колесников Олег Юрьевич": 0,
-      "Кочетков Сергей Петрович": 0,
-      "Кравцов Александр Владимирович": 2,
-      "Ложкин Алексей Николаевич": 5,
-      "Мельников Борис Викторович": 0,
-      "Подзоров Александр Георгиевич": 0,
-      "Якименко Алексей Евгеньевич": 0
+      "gas:candidate-vibid:2552000990706": 0,
+      "gas:candidate-vibid:2552000990468": 30,
+      "gas:candidate-vibid:2552000994508": 1,
+      "gas:candidate-vibid:2552000995687": 0,
+      "gas:candidate-vibid:2552000995793": 0,
+      "gas:candidate-vibid:2552000987502": 2,
+      "gas:candidate-vibid:2552000983027": 5,
+      "gas:candidate-vibid:2552000992049": 0,
+      "gas:candidate-vibid:2552000989939": 0,
+      "gas:candidate-vibid:2552000995754": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897362&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897362&type=464",
@@ -1303,16 +1303,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 3,
-      "Голушко Андрей Иванович": 129,
-      "Денисенко Олег Иванович": 42,
-      "Колесников Олег Юрьевич": 5,
-      "Кочетков Сергей Петрович": 4,
-      "Кравцов Александр Владимирович": 9,
-      "Ложкин Алексей Николаевич": 16,
-      "Мельников Борис Викторович": 3,
-      "Подзоров Александр Георгиевич": 14,
-      "Якименко Алексей Евгеньевич": 4
+      "gas:candidate-vibid:2552000990706": 3,
+      "gas:candidate-vibid:2552000990468": 129,
+      "gas:candidate-vibid:2552000994508": 42,
+      "gas:candidate-vibid:2552000995687": 5,
+      "gas:candidate-vibid:2552000995793": 4,
+      "gas:candidate-vibid:2552000987502": 9,
+      "gas:candidate-vibid:2552000983027": 16,
+      "gas:candidate-vibid:2552000992049": 3,
+      "gas:candidate-vibid:2552000989939": 14,
+      "gas:candidate-vibid:2552000995754": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897362&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897362&type=464",
@@ -1363,16 +1363,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 0,
-      "Голушко Андрей Иванович": 33,
-      "Денисенко Олег Иванович": 7,
-      "Колесников Олег Юрьевич": 2,
-      "Кочетков Сергей Петрович": 2,
-      "Кравцов Александр Владимирович": 6,
-      "Ложкин Алексей Николаевич": 10,
-      "Мельников Борис Викторович": 0,
-      "Подзоров Александр Георгиевич": 4,
-      "Якименко Алексей Евгеньевич": 0
+      "gas:candidate-vibid:2552000990706": 0,
+      "gas:candidate-vibid:2552000990468": 33,
+      "gas:candidate-vibid:2552000994508": 7,
+      "gas:candidate-vibid:2552000995687": 2,
+      "gas:candidate-vibid:2552000995793": 2,
+      "gas:candidate-vibid:2552000987502": 6,
+      "gas:candidate-vibid:2552000983027": 10,
+      "gas:candidate-vibid:2552000992049": 0,
+      "gas:candidate-vibid:2552000989939": 4,
+      "gas:candidate-vibid:2552000995754": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897362&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897362&type=464",
@@ -1423,16 +1423,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 4,
-      "Голушко Андрей Иванович": 25,
-      "Денисенко Олег Иванович": 9,
-      "Колесников Олег Юрьевич": 3,
-      "Кочетков Сергей Петрович": 0,
-      "Кравцов Александр Владимирович": 4,
-      "Ложкин Алексей Николаевич": 6,
-      "Мельников Борис Викторович": 0,
-      "Подзоров Александр Георгиевич": 6,
-      "Якименко Алексей Евгеньевич": 1
+      "gas:candidate-vibid:2552000990706": 4,
+      "gas:candidate-vibid:2552000990468": 25,
+      "gas:candidate-vibid:2552000994508": 9,
+      "gas:candidate-vibid:2552000995687": 3,
+      "gas:candidate-vibid:2552000995793": 0,
+      "gas:candidate-vibid:2552000987502": 4,
+      "gas:candidate-vibid:2552000983027": 6,
+      "gas:candidate-vibid:2552000992049": 0,
+      "gas:candidate-vibid:2552000989939": 6,
+      "gas:candidate-vibid:2552000995754": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897362&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897362&type=464",
@@ -1483,16 +1483,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 1,
-      "Голушко Андрей Иванович": 33,
-      "Денисенко Олег Иванович": 14,
-      "Колесников Олег Юрьевич": 2,
-      "Кочетков Сергей Петрович": 0,
-      "Кравцов Александр Владимирович": 4,
-      "Ложкин Алексей Николаевич": 20,
-      "Мельников Борис Викторович": 1,
-      "Подзоров Александр Георгиевич": 4,
-      "Якименко Алексей Евгеньевич": 2
+      "gas:candidate-vibid:2552000990706": 1,
+      "gas:candidate-vibid:2552000990468": 33,
+      "gas:candidate-vibid:2552000994508": 14,
+      "gas:candidate-vibid:2552000995687": 2,
+      "gas:candidate-vibid:2552000995793": 0,
+      "gas:candidate-vibid:2552000987502": 4,
+      "gas:candidate-vibid:2552000983027": 20,
+      "gas:candidate-vibid:2552000992049": 1,
+      "gas:candidate-vibid:2552000989939": 4,
+      "gas:candidate-vibid:2552000995754": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897362&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897362&type=464",
@@ -1543,16 +1543,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 3,
-      "Голушко Андрей Иванович": 85,
-      "Денисенко Олег Иванович": 53,
-      "Колесников Олег Юрьевич": 6,
-      "Кочетков Сергей Петрович": 3,
-      "Кравцов Александр Владимирович": 5,
-      "Ложкин Алексей Николаевич": 30,
-      "Мельников Борис Викторович": 1,
-      "Подзоров Александр Георгиевич": 12,
-      "Якименко Алексей Евгеньевич": 3
+      "gas:candidate-vibid:2552000990706": 3,
+      "gas:candidate-vibid:2552000990468": 85,
+      "gas:candidate-vibid:2552000994508": 53,
+      "gas:candidate-vibid:2552000995687": 6,
+      "gas:candidate-vibid:2552000995793": 3,
+      "gas:candidate-vibid:2552000987502": 5,
+      "gas:candidate-vibid:2552000983027": 30,
+      "gas:candidate-vibid:2552000992049": 1,
+      "gas:candidate-vibid:2552000989939": 12,
+      "gas:candidate-vibid:2552000995754": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897362&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897362&type=464",
@@ -1603,16 +1603,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 0,
-      "Голушко Андрей Иванович": 30,
-      "Денисенко Олег Иванович": 13,
-      "Колесников Олег Юрьевич": 2,
-      "Кочетков Сергей Петрович": 1,
-      "Кравцов Александр Владимирович": 1,
-      "Ложкин Алексей Николаевич": 3,
-      "Мельников Борис Викторович": 0,
-      "Подзоров Александр Георгиевич": 6,
-      "Якименко Алексей Евгеньевич": 0
+      "gas:candidate-vibid:2552000990706": 0,
+      "gas:candidate-vibid:2552000990468": 30,
+      "gas:candidate-vibid:2552000994508": 13,
+      "gas:candidate-vibid:2552000995687": 2,
+      "gas:candidate-vibid:2552000995793": 1,
+      "gas:candidate-vibid:2552000987502": 1,
+      "gas:candidate-vibid:2552000983027": 3,
+      "gas:candidate-vibid:2552000992049": 0,
+      "gas:candidate-vibid:2552000989939": 6,
+      "gas:candidate-vibid:2552000995754": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897362&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897362&type=464",
@@ -1663,16 +1663,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 1,
-      "Голушко Андрей Иванович": 62,
-      "Денисенко Олег Иванович": 19,
-      "Колесников Олег Юрьевич": 5,
-      "Кочетков Сергей Петрович": 1,
-      "Кравцов Александр Владимирович": 8,
-      "Ложкин Алексей Николаевич": 12,
-      "Мельников Борис Викторович": 0,
-      "Подзоров Александр Георгиевич": 1,
-      "Якименко Алексей Евгеньевич": 3
+      "gas:candidate-vibid:2552000990706": 1,
+      "gas:candidate-vibid:2552000990468": 62,
+      "gas:candidate-vibid:2552000994508": 19,
+      "gas:candidate-vibid:2552000995687": 5,
+      "gas:candidate-vibid:2552000995793": 1,
+      "gas:candidate-vibid:2552000987502": 8,
+      "gas:candidate-vibid:2552000983027": 12,
+      "gas:candidate-vibid:2552000992049": 0,
+      "gas:candidate-vibid:2552000989939": 1,
+      "gas:candidate-vibid:2552000995754": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897362&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897362&type=464",
@@ -1723,16 +1723,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 3,
-      "Голушко Андрей Иванович": 101,
-      "Денисенко Олег Иванович": 104,
-      "Колесников Олег Юрьевич": 4,
-      "Кочетков Сергей Петрович": 3,
-      "Кравцов Александр Владимирович": 4,
-      "Ложкин Алексей Николаевич": 35,
-      "Мельников Борис Викторович": 6,
-      "Подзоров Александр Георгиевич": 15,
-      "Якименко Алексей Евгеньевич": 3
+      "gas:candidate-vibid:2552000990706": 3,
+      "gas:candidate-vibid:2552000990468": 101,
+      "gas:candidate-vibid:2552000994508": 104,
+      "gas:candidate-vibid:2552000995687": 4,
+      "gas:candidate-vibid:2552000995793": 3,
+      "gas:candidate-vibid:2552000987502": 4,
+      "gas:candidate-vibid:2552000983027": 35,
+      "gas:candidate-vibid:2552000992049": 6,
+      "gas:candidate-vibid:2552000989939": 15,
+      "gas:candidate-vibid:2552000995754": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897362&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897362&type=464",
@@ -1783,16 +1783,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 1,
-      "Голушко Андрей Иванович": 24,
-      "Денисенко Олег Иванович": 24,
-      "Колесников Олег Юрьевич": 3,
-      "Кочетков Сергей Петрович": 1,
-      "Кравцов Александр Владимирович": 2,
-      "Ложкин Алексей Николаевич": 11,
-      "Мельников Борис Викторович": 0,
-      "Подзоров Александр Георгиевич": 6,
-      "Якименко Алексей Евгеньевич": 0
+      "gas:candidate-vibid:2552000990706": 1,
+      "gas:candidate-vibid:2552000990468": 24,
+      "gas:candidate-vibid:2552000994508": 24,
+      "gas:candidate-vibid:2552000995687": 3,
+      "gas:candidate-vibid:2552000995793": 1,
+      "gas:candidate-vibid:2552000987502": 2,
+      "gas:candidate-vibid:2552000983027": 11,
+      "gas:candidate-vibid:2552000992049": 0,
+      "gas:candidate-vibid:2552000989939": 6,
+      "gas:candidate-vibid:2552000995754": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897362&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897362&type=464",
@@ -1843,16 +1843,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 1,
-      "Голушко Андрей Иванович": 7,
-      "Денисенко Олег Иванович": 28,
-      "Колесников Олег Юрьевич": 3,
-      "Кочетков Сергей Петрович": 1,
-      "Кравцов Александр Владимирович": 1,
-      "Ложкин Алексей Николаевич": 6,
-      "Мельников Борис Викторович": 1,
-      "Подзоров Александр Георгиевич": 4,
-      "Якименко Алексей Евгеньевич": 0
+      "gas:candidate-vibid:2552000990706": 1,
+      "gas:candidate-vibid:2552000990468": 7,
+      "gas:candidate-vibid:2552000994508": 28,
+      "gas:candidate-vibid:2552000995687": 3,
+      "gas:candidate-vibid:2552000995793": 1,
+      "gas:candidate-vibid:2552000987502": 1,
+      "gas:candidate-vibid:2552000983027": 6,
+      "gas:candidate-vibid:2552000992049": 1,
+      "gas:candidate-vibid:2552000989939": 4,
+      "gas:candidate-vibid:2552000995754": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897362&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897362&type=464",
@@ -1903,16 +1903,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 2,
-      "Голушко Андрей Иванович": 15,
-      "Денисенко Олег Иванович": 17,
-      "Колесников Олег Юрьевич": 3,
-      "Кочетков Сергей Петрович": 0,
-      "Кравцов Александр Владимирович": 0,
-      "Ложкин Алексей Николаевич": 4,
-      "Мельников Борис Викторович": 0,
-      "Подзоров Александр Георгиевич": 1,
-      "Якименко Алексей Евгеньевич": 0
+      "gas:candidate-vibid:2552000990706": 2,
+      "gas:candidate-vibid:2552000990468": 15,
+      "gas:candidate-vibid:2552000994508": 17,
+      "gas:candidate-vibid:2552000995687": 3,
+      "gas:candidate-vibid:2552000995793": 0,
+      "gas:candidate-vibid:2552000987502": 0,
+      "gas:candidate-vibid:2552000983027": 4,
+      "gas:candidate-vibid:2552000992049": 0,
+      "gas:candidate-vibid:2552000989939": 1,
+      "gas:candidate-vibid:2552000995754": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897362&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897362&type=464",
@@ -1963,16 +1963,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 2,
-      "Голушко Андрей Иванович": 58,
-      "Денисенко Олег Иванович": 11,
-      "Колесников Олег Юрьевич": 7,
-      "Кочетков Сергей Петрович": 2,
-      "Кравцов Александр Владимирович": 3,
-      "Ложкин Алексей Николаевич": 5,
-      "Мельников Борис Викторович": 1,
-      "Подзоров Александр Георгиевич": 5,
-      "Якименко Алексей Евгеньевич": 2
+      "gas:candidate-vibid:2552000990706": 2,
+      "gas:candidate-vibid:2552000990468": 58,
+      "gas:candidate-vibid:2552000994508": 11,
+      "gas:candidate-vibid:2552000995687": 7,
+      "gas:candidate-vibid:2552000995793": 2,
+      "gas:candidate-vibid:2552000987502": 3,
+      "gas:candidate-vibid:2552000983027": 5,
+      "gas:candidate-vibid:2552000992049": 1,
+      "gas:candidate-vibid:2552000989939": 5,
+      "gas:candidate-vibid:2552000995754": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897362&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897362&type=464",
@@ -2023,16 +2023,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 1,
-      "Голушко Андрей Иванович": 56,
-      "Денисенко Олег Иванович": 28,
-      "Колесников Олег Юрьевич": 6,
-      "Кочетков Сергей Петрович": 0,
-      "Кравцов Александр Владимирович": 2,
-      "Ложкин Алексей Николаевич": 8,
-      "Мельников Борис Викторович": 0,
-      "Подзоров Александр Георгиевич": 8,
-      "Якименко Алексей Евгеньевич": 1
+      "gas:candidate-vibid:2552000990706": 1,
+      "gas:candidate-vibid:2552000990468": 56,
+      "gas:candidate-vibid:2552000994508": 28,
+      "gas:candidate-vibid:2552000995687": 6,
+      "gas:candidate-vibid:2552000995793": 0,
+      "gas:candidate-vibid:2552000987502": 2,
+      "gas:candidate-vibid:2552000983027": 8,
+      "gas:candidate-vibid:2552000992049": 0,
+      "gas:candidate-vibid:2552000989939": 8,
+      "gas:candidate-vibid:2552000995754": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897362&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897362&type=464",
@@ -2083,16 +2083,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 2,
-      "Голушко Андрей Иванович": 10,
-      "Денисенко Олег Иванович": 5,
-      "Колесников Олег Юрьевич": 3,
-      "Кочетков Сергей Петрович": 0,
-      "Кравцов Александр Владимирович": 2,
-      "Ложкин Алексей Николаевич": 1,
-      "Мельников Борис Викторович": 1,
-      "Подзоров Александр Георгиевич": 1,
-      "Якименко Алексей Евгеньевич": 0
+      "gas:candidate-vibid:2552000990706": 2,
+      "gas:candidate-vibid:2552000990468": 10,
+      "gas:candidate-vibid:2552000994508": 5,
+      "gas:candidate-vibid:2552000995687": 3,
+      "gas:candidate-vibid:2552000995793": 0,
+      "gas:candidate-vibid:2552000987502": 2,
+      "gas:candidate-vibid:2552000983027": 1,
+      "gas:candidate-vibid:2552000992049": 1,
+      "gas:candidate-vibid:2552000989939": 1,
+      "gas:candidate-vibid:2552000995754": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897362&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897362&type=464",
@@ -2143,16 +2143,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 5,
-      "Голушко Андрей Иванович": 161,
-      "Денисенко Олег Иванович": 31,
-      "Колесников Олег Юрьевич": 9,
-      "Кочетков Сергей Петрович": 2,
-      "Кравцов Александр Владимирович": 3,
-      "Ложкин Алексей Николаевич": 9,
-      "Мельников Борис Викторович": 3,
-      "Подзоров Александр Георгиевич": 7,
-      "Якименко Алексей Евгеньевич": 1
+      "gas:candidate-vibid:2552000990706": 5,
+      "gas:candidate-vibid:2552000990468": 161,
+      "gas:candidate-vibid:2552000994508": 31,
+      "gas:candidate-vibid:2552000995687": 9,
+      "gas:candidate-vibid:2552000995793": 2,
+      "gas:candidate-vibid:2552000987502": 3,
+      "gas:candidate-vibid:2552000983027": 9,
+      "gas:candidate-vibid:2552000992049": 3,
+      "gas:candidate-vibid:2552000989939": 7,
+      "gas:candidate-vibid:2552000995754": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897362&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897362&type=464",
@@ -2203,16 +2203,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 0,
-      "Голушко Андрей Иванович": 34,
-      "Денисенко Олег Иванович": 2,
-      "Колесников Олег Юрьевич": 1,
-      "Кочетков Сергей Петрович": 2,
-      "Кравцов Александр Владимирович": 1,
-      "Ложкин Алексей Николаевич": 4,
-      "Мельников Борис Викторович": 0,
-      "Подзоров Александр Георгиевич": 1,
-      "Якименко Алексей Евгеньевич": 1
+      "gas:candidate-vibid:2552000990706": 0,
+      "gas:candidate-vibid:2552000990468": 34,
+      "gas:candidate-vibid:2552000994508": 2,
+      "gas:candidate-vibid:2552000995687": 1,
+      "gas:candidate-vibid:2552000995793": 2,
+      "gas:candidate-vibid:2552000987502": 1,
+      "gas:candidate-vibid:2552000983027": 4,
+      "gas:candidate-vibid:2552000992049": 0,
+      "gas:candidate-vibid:2552000989939": 1,
+      "gas:candidate-vibid:2552000995754": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897362&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897362&type=464",
@@ -2263,16 +2263,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 0,
-      "Голушко Андрей Иванович": 7,
-      "Денисенко Олег Иванович": 2,
-      "Колесников Олег Юрьевич": 1,
-      "Кочетков Сергей Петрович": 0,
-      "Кравцов Александр Владимирович": 2,
-      "Ложкин Алексей Николаевич": 3,
-      "Мельников Борис Викторович": 0,
-      "Подзоров Александр Георгиевич": 0,
-      "Якименко Алексей Евгеньевич": 1
+      "gas:candidate-vibid:2552000990706": 0,
+      "gas:candidate-vibid:2552000990468": 7,
+      "gas:candidate-vibid:2552000994508": 2,
+      "gas:candidate-vibid:2552000995687": 1,
+      "gas:candidate-vibid:2552000995793": 0,
+      "gas:candidate-vibid:2552000987502": 2,
+      "gas:candidate-vibid:2552000983027": 3,
+      "gas:candidate-vibid:2552000992049": 0,
+      "gas:candidate-vibid:2552000989939": 0,
+      "gas:candidate-vibid:2552000995754": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897362&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897362&type=464",
@@ -2323,16 +2323,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 1,
-      "Голушко Андрей Иванович": 37,
-      "Денисенко Олег Иванович": 6,
-      "Колесников Олег Юрьевич": 2,
-      "Кочетков Сергей Петрович": 0,
-      "Кравцов Александр Владимирович": 6,
-      "Ложкин Алексей Николаевич": 12,
-      "Мельников Борис Викторович": 0,
-      "Подзоров Александр Георгиевич": 0,
-      "Якименко Алексей Евгеньевич": 0
+      "gas:candidate-vibid:2552000990706": 1,
+      "gas:candidate-vibid:2552000990468": 37,
+      "gas:candidate-vibid:2552000994508": 6,
+      "gas:candidate-vibid:2552000995687": 2,
+      "gas:candidate-vibid:2552000995793": 0,
+      "gas:candidate-vibid:2552000987502": 6,
+      "gas:candidate-vibid:2552000983027": 12,
+      "gas:candidate-vibid:2552000992049": 0,
+      "gas:candidate-vibid:2552000989939": 0,
+      "gas:candidate-vibid:2552000995754": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897362&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897362&type=464",
@@ -2383,16 +2383,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 2,
-      "Голушко Андрей Иванович": 39,
-      "Денисенко Олег Иванович": 6,
-      "Колесников Олег Юрьевич": 1,
-      "Кочетков Сергей Петрович": 1,
-      "Кравцов Александр Владимирович": 9,
-      "Ложкин Алексей Николаевич": 14,
-      "Мельников Борис Викторович": 0,
-      "Подзоров Александр Георгиевич": 1,
-      "Якименко Алексей Евгеньевич": 1
+      "gas:candidate-vibid:2552000990706": 2,
+      "gas:candidate-vibid:2552000990468": 39,
+      "gas:candidate-vibid:2552000994508": 6,
+      "gas:candidate-vibid:2552000995687": 1,
+      "gas:candidate-vibid:2552000995793": 1,
+      "gas:candidate-vibid:2552000987502": 9,
+      "gas:candidate-vibid:2552000983027": 14,
+      "gas:candidate-vibid:2552000992049": 0,
+      "gas:candidate-vibid:2552000989939": 1,
+      "gas:candidate-vibid:2552000995754": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897362&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897362&type=464",
@@ -2443,16 +2443,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 7,
-      "Голушко Андрей Иванович": 150,
-      "Денисенко Олег Иванович": 60,
-      "Колесников Олег Юрьевич": 7,
-      "Кочетков Сергей Петрович": 5,
-      "Кравцов Александр Владимирович": 19,
-      "Ложкин Алексей Николаевич": 50,
-      "Мельников Борис Викторович": 2,
-      "Подзоров Александр Георгиевич": 21,
-      "Якименко Алексей Евгеньевич": 1
+      "gas:candidate-vibid:2552000990706": 7,
+      "gas:candidate-vibid:2552000990468": 150,
+      "gas:candidate-vibid:2552000994508": 60,
+      "gas:candidate-vibid:2552000995687": 7,
+      "gas:candidate-vibid:2552000995793": 5,
+      "gas:candidate-vibid:2552000987502": 19,
+      "gas:candidate-vibid:2552000983027": 50,
+      "gas:candidate-vibid:2552000992049": 2,
+      "gas:candidate-vibid:2552000989939": 21,
+      "gas:candidate-vibid:2552000995754": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897362&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897362&type=464",
@@ -2503,16 +2503,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 1,
-      "Голушко Андрей Иванович": 90,
-      "Денисенко Олег Иванович": 61,
-      "Колесников Олег Юрьевич": 5,
-      "Кочетков Сергей Петрович": 4,
-      "Кравцов Александр Владимирович": 11,
-      "Ложкин Алексей Николаевич": 7,
-      "Мельников Борис Викторович": 1,
-      "Подзоров Александр Георгиевич": 9,
-      "Якименко Алексей Евгеньевич": 1
+      "gas:candidate-vibid:2552000990706": 1,
+      "gas:candidate-vibid:2552000990468": 90,
+      "gas:candidate-vibid:2552000994508": 61,
+      "gas:candidate-vibid:2552000995687": 5,
+      "gas:candidate-vibid:2552000995793": 4,
+      "gas:candidate-vibid:2552000987502": 11,
+      "gas:candidate-vibid:2552000983027": 7,
+      "gas:candidate-vibid:2552000992049": 1,
+      "gas:candidate-vibid:2552000989939": 9,
+      "gas:candidate-vibid:2552000995754": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897362&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897362&type=464",
@@ -2563,16 +2563,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 1,
-      "Голушко Андрей Иванович": 20,
-      "Денисенко Олег Иванович": 3,
-      "Колесников Олег Юрьевич": 2,
-      "Кочетков Сергей Петрович": 0,
-      "Кравцов Александр Владимирович": 1,
-      "Ложкин Алексей Николаевич": 4,
-      "Мельников Борис Викторович": 2,
-      "Подзоров Александр Георгиевич": 2,
-      "Якименко Алексей Евгеньевич": 1
+      "gas:candidate-vibid:2552000990706": 1,
+      "gas:candidate-vibid:2552000990468": 20,
+      "gas:candidate-vibid:2552000994508": 3,
+      "gas:candidate-vibid:2552000995687": 2,
+      "gas:candidate-vibid:2552000995793": 0,
+      "gas:candidate-vibid:2552000987502": 1,
+      "gas:candidate-vibid:2552000983027": 4,
+      "gas:candidate-vibid:2552000992049": 2,
+      "gas:candidate-vibid:2552000989939": 2,
+      "gas:candidate-vibid:2552000995754": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897362&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897362&type=464",
@@ -2623,16 +2623,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 0,
-      "Голушко Андрей Иванович": 23,
-      "Денисенко Олег Иванович": 2,
-      "Колесников Олег Юрьевич": 4,
-      "Кочетков Сергей Петрович": 1,
-      "Кравцов Александр Владимирович": 2,
-      "Ложкин Алексей Николаевич": 3,
-      "Мельников Борис Викторович": 0,
-      "Подзоров Александр Георгиевич": 0,
-      "Якименко Алексей Евгеньевич": 0
+      "gas:candidate-vibid:2552000990706": 0,
+      "gas:candidate-vibid:2552000990468": 23,
+      "gas:candidate-vibid:2552000994508": 2,
+      "gas:candidate-vibid:2552000995687": 4,
+      "gas:candidate-vibid:2552000995793": 1,
+      "gas:candidate-vibid:2552000987502": 2,
+      "gas:candidate-vibid:2552000983027": 3,
+      "gas:candidate-vibid:2552000992049": 0,
+      "gas:candidate-vibid:2552000989939": 0,
+      "gas:candidate-vibid:2552000995754": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897362&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897362&type=464",
@@ -2683,16 +2683,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 3,
-      "Голушко Андрей Иванович": 29,
-      "Денисенко Олег Иванович": 10,
-      "Колесников Олег Юрьевич": 0,
-      "Кочетков Сергей Петрович": 0,
-      "Кравцов Александр Владимирович": 8,
-      "Ложкин Алексей Николаевич": 2,
-      "Мельников Борис Викторович": 2,
-      "Подзоров Александр Георгиевич": 0,
-      "Якименко Алексей Евгеньевич": 1
+      "gas:candidate-vibid:2552000990706": 3,
+      "gas:candidate-vibid:2552000990468": 29,
+      "gas:candidate-vibid:2552000994508": 10,
+      "gas:candidate-vibid:2552000995687": 0,
+      "gas:candidate-vibid:2552000995793": 0,
+      "gas:candidate-vibid:2552000987502": 8,
+      "gas:candidate-vibid:2552000983027": 2,
+      "gas:candidate-vibid:2552000992049": 2,
+      "gas:candidate-vibid:2552000989939": 0,
+      "gas:candidate-vibid:2552000995754": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897362&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897362&type=464",
@@ -2743,16 +2743,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 28,
-      "Голушко Андрей Иванович": 308,
-      "Денисенко Олег Иванович": 289,
-      "Колесников Олег Юрьевич": 7,
-      "Кочетков Сергей Петрович": 8,
-      "Кравцов Александр Владимирович": 74,
-      "Ложкин Алексей Николаевич": 97,
-      "Мельников Борис Викторович": 16,
-      "Подзоров Александр Георгиевич": 43,
-      "Якименко Алексей Евгеньевич": 22
+      "gas:candidate-vibid:2552000990706": 28,
+      "gas:candidate-vibid:2552000990468": 308,
+      "gas:candidate-vibid:2552000994508": 289,
+      "gas:candidate-vibid:2552000995687": 7,
+      "gas:candidate-vibid:2552000995793": 8,
+      "gas:candidate-vibid:2552000987502": 74,
+      "gas:candidate-vibid:2552000983027": 97,
+      "gas:candidate-vibid:2552000992049": 16,
+      "gas:candidate-vibid:2552000989939": 43,
+      "gas:candidate-vibid:2552000995754": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897363&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897363&type=464",
@@ -2803,16 +2803,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 7,
-      "Голушко Андрей Иванович": 138,
-      "Денисенко Олег Иванович": 54,
-      "Колесников Олег Юрьевич": 4,
-      "Кочетков Сергей Петрович": 5,
-      "Кравцов Александр Владимирович": 23,
-      "Ложкин Алексей Николаевич": 20,
-      "Мельников Борис Викторович": 6,
-      "Подзоров Александр Георгиевич": 12,
-      "Якименко Алексей Евгеньевич": 2
+      "gas:candidate-vibid:2552000990706": 7,
+      "gas:candidate-vibid:2552000990468": 138,
+      "gas:candidate-vibid:2552000994508": 54,
+      "gas:candidate-vibid:2552000995687": 4,
+      "gas:candidate-vibid:2552000995793": 5,
+      "gas:candidate-vibid:2552000987502": 23,
+      "gas:candidate-vibid:2552000983027": 20,
+      "gas:candidate-vibid:2552000992049": 6,
+      "gas:candidate-vibid:2552000989939": 12,
+      "gas:candidate-vibid:2552000995754": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897363&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897363&type=464",
@@ -2863,16 +2863,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 33,
-      "Голушко Андрей Иванович": 212,
-      "Денисенко Олег Иванович": 285,
-      "Колесников Олег Юрьевич": 7,
-      "Кочетков Сергей Петрович": 21,
-      "Кравцов Александр Владимирович": 60,
-      "Ложкин Алексей Николаевич": 103,
-      "Мельников Борис Викторович": 17,
-      "Подзоров Александр Георгиевич": 55,
-      "Якименко Алексей Евгеньевич": 18
+      "gas:candidate-vibid:2552000990706": 33,
+      "gas:candidate-vibid:2552000990468": 212,
+      "gas:candidate-vibid:2552000994508": 285,
+      "gas:candidate-vibid:2552000995687": 7,
+      "gas:candidate-vibid:2552000995793": 21,
+      "gas:candidate-vibid:2552000987502": 60,
+      "gas:candidate-vibid:2552000983027": 103,
+      "gas:candidate-vibid:2552000992049": 17,
+      "gas:candidate-vibid:2552000989939": 55,
+      "gas:candidate-vibid:2552000995754": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897363&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897363&type=464",
@@ -2923,16 +2923,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 7,
-      "Голушко Андрей Иванович": 91,
-      "Денисенко Олег Иванович": 41,
-      "Колесников Олег Юрьевич": 10,
-      "Кочетков Сергей Петрович": 4,
-      "Кравцов Александр Владимирович": 18,
-      "Ложкин Алексей Николаевич": 31,
-      "Мельников Борис Викторович": 4,
-      "Подзоров Александр Георгиевич": 10,
-      "Якименко Алексей Евгеньевич": 3
+      "gas:candidate-vibid:2552000990706": 7,
+      "gas:candidate-vibid:2552000990468": 91,
+      "gas:candidate-vibid:2552000994508": 41,
+      "gas:candidate-vibid:2552000995687": 10,
+      "gas:candidate-vibid:2552000995793": 4,
+      "gas:candidate-vibid:2552000987502": 18,
+      "gas:candidate-vibid:2552000983027": 31,
+      "gas:candidate-vibid:2552000992049": 4,
+      "gas:candidate-vibid:2552000989939": 10,
+      "gas:candidate-vibid:2552000995754": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897363&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897363&type=464",
@@ -2983,16 +2983,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 32,
-      "Голушко Андрей Иванович": 119,
-      "Денисенко Олег Иванович": 174,
-      "Колесников Олег Юрьевич": 2,
-      "Кочетков Сергей Петрович": 4,
-      "Кравцов Александр Владимирович": 38,
-      "Ложкин Алексей Николаевич": 62,
-      "Мельников Борис Викторович": 8,
-      "Подзоров Александр Георгиевич": 28,
-      "Якименко Алексей Евгеньевич": 6
+      "gas:candidate-vibid:2552000990706": 32,
+      "gas:candidate-vibid:2552000990468": 119,
+      "gas:candidate-vibid:2552000994508": 174,
+      "gas:candidate-vibid:2552000995687": 2,
+      "gas:candidate-vibid:2552000995793": 4,
+      "gas:candidate-vibid:2552000987502": 38,
+      "gas:candidate-vibid:2552000983027": 62,
+      "gas:candidate-vibid:2552000992049": 8,
+      "gas:candidate-vibid:2552000989939": 28,
+      "gas:candidate-vibid:2552000995754": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897363&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897363&type=464",
@@ -3043,16 +3043,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 45,
-      "Голушко Андрей Иванович": 136,
-      "Денисенко Олег Иванович": 171,
-      "Колесников Олег Юрьевич": 5,
-      "Кочетков Сергей Петрович": 5,
-      "Кравцов Александр Владимирович": 31,
-      "Ложкин Алексей Николаевич": 67,
-      "Мельников Борис Викторович": 6,
-      "Подзоров Александр Георгиевич": 32,
-      "Якименко Алексей Евгеньевич": 4
+      "gas:candidate-vibid:2552000990706": 45,
+      "gas:candidate-vibid:2552000990468": 136,
+      "gas:candidate-vibid:2552000994508": 171,
+      "gas:candidate-vibid:2552000995687": 5,
+      "gas:candidate-vibid:2552000995793": 5,
+      "gas:candidate-vibid:2552000987502": 31,
+      "gas:candidate-vibid:2552000983027": 67,
+      "gas:candidate-vibid:2552000992049": 6,
+      "gas:candidate-vibid:2552000989939": 32,
+      "gas:candidate-vibid:2552000995754": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897363&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897363&type=464",
@@ -3103,16 +3103,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 21,
-      "Голушко Андрей Иванович": 87,
-      "Денисенко Олег Иванович": 100,
-      "Колесников Олег Юрьевич": 7,
-      "Кочетков Сергей Петрович": 4,
-      "Кравцов Александр Владимирович": 24,
-      "Ложкин Алексей Николаевич": 42,
-      "Мельников Борис Викторович": 6,
-      "Подзоров Александр Георгиевич": 16,
-      "Якименко Алексей Евгеньевич": 5
+      "gas:candidate-vibid:2552000990706": 21,
+      "gas:candidate-vibid:2552000990468": 87,
+      "gas:candidate-vibid:2552000994508": 100,
+      "gas:candidate-vibid:2552000995687": 7,
+      "gas:candidate-vibid:2552000995793": 4,
+      "gas:candidate-vibid:2552000987502": 24,
+      "gas:candidate-vibid:2552000983027": 42,
+      "gas:candidate-vibid:2552000992049": 6,
+      "gas:candidate-vibid:2552000989939": 16,
+      "gas:candidate-vibid:2552000995754": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897363&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897363&type=464",
@@ -3163,16 +3163,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 21,
-      "Голушко Андрей Иванович": 248,
-      "Денисенко Олег Иванович": 125,
-      "Колесников Олег Юрьевич": 8,
-      "Кочетков Сергей Петрович": 7,
-      "Кравцов Александр Владимирович": 41,
-      "Ложкин Алексей Николаевич": 91,
-      "Мельников Борис Викторович": 10,
-      "Подзоров Александр Георгиевич": 36,
-      "Якименко Алексей Евгеньевич": 10
+      "gas:candidate-vibid:2552000990706": 21,
+      "gas:candidate-vibid:2552000990468": 248,
+      "gas:candidate-vibid:2552000994508": 125,
+      "gas:candidate-vibid:2552000995687": 8,
+      "gas:candidate-vibid:2552000995793": 7,
+      "gas:candidate-vibid:2552000987502": 41,
+      "gas:candidate-vibid:2552000983027": 91,
+      "gas:candidate-vibid:2552000992049": 10,
+      "gas:candidate-vibid:2552000989939": 36,
+      "gas:candidate-vibid:2552000995754": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897363&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897363&type=464",
@@ -3223,16 +3223,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 9,
-      "Голушко Андрей Иванович": 87,
-      "Денисенко Олег Иванович": 19,
-      "Колесников Олег Юрьевич": 4,
-      "Кочетков Сергей Петрович": 3,
-      "Кравцов Александр Владимирович": 15,
-      "Ложкин Алексей Николаевич": 43,
-      "Мельников Борис Викторович": 6,
-      "Подзоров Александр Георгиевич": 5,
-      "Якименко Алексей Евгеньевич": 1
+      "gas:candidate-vibid:2552000990706": 9,
+      "gas:candidate-vibid:2552000990468": 87,
+      "gas:candidate-vibid:2552000994508": 19,
+      "gas:candidate-vibid:2552000995687": 4,
+      "gas:candidate-vibid:2552000995793": 3,
+      "gas:candidate-vibid:2552000987502": 15,
+      "gas:candidate-vibid:2552000983027": 43,
+      "gas:candidate-vibid:2552000992049": 6,
+      "gas:candidate-vibid:2552000989939": 5,
+      "gas:candidate-vibid:2552000995754": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897363&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897363&type=464",
@@ -3283,16 +3283,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 12,
-      "Голушко Андрей Иванович": 218,
-      "Денисенко Олег Иванович": 113,
-      "Колесников Олег Юрьевич": 6,
-      "Кочетков Сергей Петрович": 6,
-      "Кравцов Александр Владимирович": 38,
-      "Ложкин Алексей Николаевич": 79,
-      "Мельников Борис Викторович": 7,
-      "Подзоров Александр Георгиевич": 28,
-      "Якименко Алексей Евгеньевич": 12
+      "gas:candidate-vibid:2552000990706": 12,
+      "gas:candidate-vibid:2552000990468": 218,
+      "gas:candidate-vibid:2552000994508": 113,
+      "gas:candidate-vibid:2552000995687": 6,
+      "gas:candidate-vibid:2552000995793": 6,
+      "gas:candidate-vibid:2552000987502": 38,
+      "gas:candidate-vibid:2552000983027": 79,
+      "gas:candidate-vibid:2552000992049": 7,
+      "gas:candidate-vibid:2552000989939": 28,
+      "gas:candidate-vibid:2552000995754": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897363&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897363&type=464",
@@ -3343,16 +3343,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 1,
-      "Голушко Андрей Иванович": 31,
-      "Денисенко Олег Иванович": 14,
-      "Колесников Олег Юрьевич": 0,
-      "Кочетков Сергей Петрович": 2,
-      "Кравцов Александр Владимирович": 7,
-      "Ложкин Алексей Николаевич": 13,
-      "Мельников Борис Викторович": 0,
-      "Подзоров Александр Георгиевич": 5,
-      "Якименко Алексей Евгеньевич": 3
+      "gas:candidate-vibid:2552000990706": 1,
+      "gas:candidate-vibid:2552000990468": 31,
+      "gas:candidate-vibid:2552000994508": 14,
+      "gas:candidate-vibid:2552000995687": 0,
+      "gas:candidate-vibid:2552000995793": 2,
+      "gas:candidate-vibid:2552000987502": 7,
+      "gas:candidate-vibid:2552000983027": 13,
+      "gas:candidate-vibid:2552000992049": 0,
+      "gas:candidate-vibid:2552000989939": 5,
+      "gas:candidate-vibid:2552000995754": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897363&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897363&type=464",
@@ -3403,16 +3403,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 11,
-      "Голушко Андрей Иванович": 232,
-      "Денисенко Олег Иванович": 166,
-      "Колесников Олег Юрьевич": 7,
-      "Кочетков Сергей Петрович": 8,
-      "Кравцов Александр Владимирович": 31,
-      "Ложкин Алексей Николаевич": 74,
-      "Мельников Борис Викторович": 8,
-      "Подзоров Александр Георгиевич": 28,
-      "Якименко Алексей Евгеньевич": 15
+      "gas:candidate-vibid:2552000990706": 11,
+      "gas:candidate-vibid:2552000990468": 232,
+      "gas:candidate-vibid:2552000994508": 166,
+      "gas:candidate-vibid:2552000995687": 7,
+      "gas:candidate-vibid:2552000995793": 8,
+      "gas:candidate-vibid:2552000987502": 31,
+      "gas:candidate-vibid:2552000983027": 74,
+      "gas:candidate-vibid:2552000992049": 8,
+      "gas:candidate-vibid:2552000989939": 28,
+      "gas:candidate-vibid:2552000995754": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897363&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897363&type=464",
@@ -3463,16 +3463,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 0,
-      "Голушко Андрей Иванович": 54,
-      "Денисенко Олег Иванович": 13,
-      "Колесников Олег Юрьевич": 0,
-      "Кочетков Сергей Петрович": 0,
-      "Кравцов Александр Владимирович": 3,
-      "Ложкин Алексей Николаевич": 4,
-      "Мельников Борис Викторович": 4,
-      "Подзоров Александр Георгиевич": 2,
-      "Якименко Алексей Евгеньевич": 0
+      "gas:candidate-vibid:2552000990706": 0,
+      "gas:candidate-vibid:2552000990468": 54,
+      "gas:candidate-vibid:2552000994508": 13,
+      "gas:candidate-vibid:2552000995687": 0,
+      "gas:candidate-vibid:2552000995793": 0,
+      "gas:candidate-vibid:2552000987502": 3,
+      "gas:candidate-vibid:2552000983027": 4,
+      "gas:candidate-vibid:2552000992049": 4,
+      "gas:candidate-vibid:2552000989939": 2,
+      "gas:candidate-vibid:2552000995754": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897363&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897363&type=464",
@@ -3523,16 +3523,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 16,
-      "Голушко Андрей Иванович": 282,
-      "Денисенко Олег Иванович": 177,
-      "Колесников Олег Юрьевич": 9,
-      "Кочетков Сергей Петрович": 20,
-      "Кравцов Александр Владимирович": 70,
-      "Ложкин Алексей Николаевич": 70,
-      "Мельников Борис Викторович": 14,
-      "Подзоров Александр Георгиевич": 34,
-      "Якименко Алексей Евгеньевич": 14
+      "gas:candidate-vibid:2552000990706": 16,
+      "gas:candidate-vibid:2552000990468": 282,
+      "gas:candidate-vibid:2552000994508": 177,
+      "gas:candidate-vibid:2552000995687": 9,
+      "gas:candidate-vibid:2552000995793": 20,
+      "gas:candidate-vibid:2552000987502": 70,
+      "gas:candidate-vibid:2552000983027": 70,
+      "gas:candidate-vibid:2552000992049": 14,
+      "gas:candidate-vibid:2552000989939": 34,
+      "gas:candidate-vibid:2552000995754": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897363&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897363&type=464",
@@ -3583,16 +3583,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 4,
-      "Голушко Андрей Иванович": 73,
-      "Денисенко Олег Иванович": 60,
-      "Колесников Олег Юрьевич": 4,
-      "Кочетков Сергей Петрович": 2,
-      "Кравцов Александр Владимирович": 6,
-      "Ложкин Алексей Николаевич": 11,
-      "Мельников Борис Викторович": 2,
-      "Подзоров Александр Георгиевич": 11,
-      "Якименко Алексей Евгеньевич": 1
+      "gas:candidate-vibid:2552000990706": 4,
+      "gas:candidate-vibid:2552000990468": 73,
+      "gas:candidate-vibid:2552000994508": 60,
+      "gas:candidate-vibid:2552000995687": 4,
+      "gas:candidate-vibid:2552000995793": 2,
+      "gas:candidate-vibid:2552000987502": 6,
+      "gas:candidate-vibid:2552000983027": 11,
+      "gas:candidate-vibid:2552000992049": 2,
+      "gas:candidate-vibid:2552000989939": 11,
+      "gas:candidate-vibid:2552000995754": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897363&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897363&type=464",
@@ -3643,16 +3643,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 1,
-      "Голушко Андрей Иванович": 42,
-      "Денисенко Олег Иванович": 13,
-      "Колесников Олег Юрьевич": 3,
-      "Кочетков Сергей Петрович": 2,
-      "Кравцов Александр Владимирович": 3,
-      "Ложкин Алексей Николаевич": 7,
-      "Мельников Борис Викторович": 3,
-      "Подзоров Александр Георгиевич": 2,
-      "Якименко Алексей Евгеньевич": 3
+      "gas:candidate-vibid:2552000990706": 1,
+      "gas:candidate-vibid:2552000990468": 42,
+      "gas:candidate-vibid:2552000994508": 13,
+      "gas:candidate-vibid:2552000995687": 3,
+      "gas:candidate-vibid:2552000995793": 2,
+      "gas:candidate-vibid:2552000987502": 3,
+      "gas:candidate-vibid:2552000983027": 7,
+      "gas:candidate-vibid:2552000992049": 3,
+      "gas:candidate-vibid:2552000989939": 2,
+      "gas:candidate-vibid:2552000995754": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897363&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897363&type=464",
@@ -3703,16 +3703,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 1,
-      "Голушко Андрей Иванович": 70,
-      "Денисенко Олег Иванович": 35,
-      "Колесников Олег Юрьевич": 0,
-      "Кочетков Сергей Петрович": 4,
-      "Кравцов Александр Владимирович": 8,
-      "Ложкин Алексей Николаевич": 21,
-      "Мельников Борис Викторович": 2,
-      "Подзоров Александр Георгиевич": 6,
-      "Якименко Алексей Евгеньевич": 0
+      "gas:candidate-vibid:2552000990706": 1,
+      "gas:candidate-vibid:2552000990468": 70,
+      "gas:candidate-vibid:2552000994508": 35,
+      "gas:candidate-vibid:2552000995687": 0,
+      "gas:candidate-vibid:2552000995793": 4,
+      "gas:candidate-vibid:2552000987502": 8,
+      "gas:candidate-vibid:2552000983027": 21,
+      "gas:candidate-vibid:2552000992049": 2,
+      "gas:candidate-vibid:2552000989939": 6,
+      "gas:candidate-vibid:2552000995754": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897363&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897363&type=464",
@@ -3763,16 +3763,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 9,
-      "Голушко Андрей Иванович": 130,
-      "Денисенко Олег Иванович": 97,
-      "Колесников Олег Юрьевич": 6,
-      "Кочетков Сергей Петрович": 6,
-      "Кравцов Александр Владимирович": 29,
-      "Ложкин Алексей Николаевич": 41,
-      "Мельников Борис Викторович": 3,
-      "Подзоров Александр Георгиевич": 21,
-      "Якименко Алексей Евгеньевич": 5
+      "gas:candidate-vibid:2552000990706": 9,
+      "gas:candidate-vibid:2552000990468": 130,
+      "gas:candidate-vibid:2552000994508": 97,
+      "gas:candidate-vibid:2552000995687": 6,
+      "gas:candidate-vibid:2552000995793": 6,
+      "gas:candidate-vibid:2552000987502": 29,
+      "gas:candidate-vibid:2552000983027": 41,
+      "gas:candidate-vibid:2552000992049": 3,
+      "gas:candidate-vibid:2552000989939": 21,
+      "gas:candidate-vibid:2552000995754": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897363&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897363&type=464",
@@ -3823,16 +3823,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 2,
-      "Голушко Андрей Иванович": 172,
-      "Денисенко Олег Иванович": 57,
-      "Колесников Олег Юрьевич": 4,
-      "Кочетков Сергей Петрович": 3,
-      "Кравцов Александр Владимирович": 13,
-      "Ложкин Алексей Николаевич": 63,
-      "Мельников Борис Викторович": 5,
-      "Подзоров Александр Георгиевич": 17,
-      "Якименко Алексей Евгеньевич": 1
+      "gas:candidate-vibid:2552000990706": 2,
+      "gas:candidate-vibid:2552000990468": 172,
+      "gas:candidate-vibid:2552000994508": 57,
+      "gas:candidate-vibid:2552000995687": 4,
+      "gas:candidate-vibid:2552000995793": 3,
+      "gas:candidate-vibid:2552000987502": 13,
+      "gas:candidate-vibid:2552000983027": 63,
+      "gas:candidate-vibid:2552000992049": 5,
+      "gas:candidate-vibid:2552000989939": 17,
+      "gas:candidate-vibid:2552000995754": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897364&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897364&type=464",
@@ -3883,16 +3883,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 3,
-      "Голушко Андрей Иванович": 166,
-      "Денисенко Олег Иванович": 98,
-      "Колесников Олег Юрьевич": 3,
-      "Кочетков Сергей Петрович": 2,
-      "Кравцов Александр Владимирович": 11,
-      "Ложкин Алексей Николаевич": 74,
-      "Мельников Борис Викторович": 1,
-      "Подзоров Александр Георгиевич": 20,
-      "Якименко Алексей Евгеньевич": 5
+      "gas:candidate-vibid:2552000990706": 3,
+      "gas:candidate-vibid:2552000990468": 166,
+      "gas:candidate-vibid:2552000994508": 98,
+      "gas:candidate-vibid:2552000995687": 3,
+      "gas:candidate-vibid:2552000995793": 2,
+      "gas:candidate-vibid:2552000987502": 11,
+      "gas:candidate-vibid:2552000983027": 74,
+      "gas:candidate-vibid:2552000992049": 1,
+      "gas:candidate-vibid:2552000989939": 20,
+      "gas:candidate-vibid:2552000995754": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897364&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897364&type=464",
@@ -3943,16 +3943,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 5,
-      "Голушко Андрей Иванович": 199,
-      "Денисенко Олег Иванович": 106,
-      "Колесников Олег Юрьевич": 1,
-      "Кочетков Сергей Петрович": 4,
-      "Кравцов Александр Владимирович": 14,
-      "Ложкин Алексей Николаевич": 75,
-      "Мельников Борис Викторович": 4,
-      "Подзоров Александр Георгиевич": 20,
-      "Якименко Алексей Евгеньевич": 6
+      "gas:candidate-vibid:2552000990706": 5,
+      "gas:candidate-vibid:2552000990468": 199,
+      "gas:candidate-vibid:2552000994508": 106,
+      "gas:candidate-vibid:2552000995687": 1,
+      "gas:candidate-vibid:2552000995793": 4,
+      "gas:candidate-vibid:2552000987502": 14,
+      "gas:candidate-vibid:2552000983027": 75,
+      "gas:candidate-vibid:2552000992049": 4,
+      "gas:candidate-vibid:2552000989939": 20,
+      "gas:candidate-vibid:2552000995754": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897364&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897364&type=464",
@@ -4003,16 +4003,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 2,
-      "Голушко Андрей Иванович": 238,
-      "Денисенко Олег Иванович": 108,
-      "Колесников Олег Юрьевич": 5,
-      "Кочетков Сергей Петрович": 3,
-      "Кравцов Александр Владимирович": 22,
-      "Ложкин Алексей Николаевич": 74,
-      "Мельников Борис Викторович": 3,
-      "Подзоров Александр Георгиевич": 20,
-      "Якименко Алексей Евгеньевич": 6
+      "gas:candidate-vibid:2552000990706": 2,
+      "gas:candidate-vibid:2552000990468": 238,
+      "gas:candidate-vibid:2552000994508": 108,
+      "gas:candidate-vibid:2552000995687": 5,
+      "gas:candidate-vibid:2552000995793": 3,
+      "gas:candidate-vibid:2552000987502": 22,
+      "gas:candidate-vibid:2552000983027": 74,
+      "gas:candidate-vibid:2552000992049": 3,
+      "gas:candidate-vibid:2552000989939": 20,
+      "gas:candidate-vibid:2552000995754": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897364&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897364&type=464",
@@ -4063,16 +4063,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 1,
-      "Голушко Андрей Иванович": 28,
-      "Денисенко Олег Иванович": 20,
-      "Колесников Олег Юрьевич": 2,
-      "Кочетков Сергей Петрович": 1,
-      "Кравцов Александр Владимирович": 2,
-      "Ложкин Алексей Николаевич": 9,
-      "Мельников Борис Викторович": 1,
-      "Подзоров Александр Георгиевич": 1,
-      "Якименко Алексей Евгеньевич": 1
+      "gas:candidate-vibid:2552000990706": 1,
+      "gas:candidate-vibid:2552000990468": 28,
+      "gas:candidate-vibid:2552000994508": 20,
+      "gas:candidate-vibid:2552000995687": 2,
+      "gas:candidate-vibid:2552000995793": 1,
+      "gas:candidate-vibid:2552000987502": 2,
+      "gas:candidate-vibid:2552000983027": 9,
+      "gas:candidate-vibid:2552000992049": 1,
+      "gas:candidate-vibid:2552000989939": 1,
+      "gas:candidate-vibid:2552000995754": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897364&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897364&type=464",
@@ -4123,16 +4123,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 1,
-      "Голушко Андрей Иванович": 37,
-      "Денисенко Олег Иванович": 4,
-      "Колесников Олег Юрьевич": 1,
-      "Кочетков Сергей Петрович": 1,
-      "Кравцов Александр Владимирович": 2,
-      "Ложкин Алексей Николаевич": 4,
-      "Мельников Борис Викторович": 0,
-      "Подзоров Александр Георгиевич": 2,
-      "Якименко Алексей Евгеньевич": 0
+      "gas:candidate-vibid:2552000990706": 1,
+      "gas:candidate-vibid:2552000990468": 37,
+      "gas:candidate-vibid:2552000994508": 4,
+      "gas:candidate-vibid:2552000995687": 1,
+      "gas:candidate-vibid:2552000995793": 1,
+      "gas:candidate-vibid:2552000987502": 2,
+      "gas:candidate-vibid:2552000983027": 4,
+      "gas:candidate-vibid:2552000992049": 0,
+      "gas:candidate-vibid:2552000989939": 2,
+      "gas:candidate-vibid:2552000995754": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897364&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897364&type=464",
@@ -4183,16 +4183,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 2,
-      "Голушко Андрей Иванович": 187,
-      "Денисенко Олег Иванович": 80,
-      "Колесников Олег Юрьевич": 2,
-      "Кочетков Сергей Петрович": 4,
-      "Кравцов Александр Владимирович": 23,
-      "Ложкин Алексей Николаевич": 58,
-      "Мельников Борис Викторович": 5,
-      "Подзоров Александр Георгиевич": 15,
-      "Якименко Алексей Евгеньевич": 6
+      "gas:candidate-vibid:2552000990706": 2,
+      "gas:candidate-vibid:2552000990468": 187,
+      "gas:candidate-vibid:2552000994508": 80,
+      "gas:candidate-vibid:2552000995687": 2,
+      "gas:candidate-vibid:2552000995793": 4,
+      "gas:candidate-vibid:2552000987502": 23,
+      "gas:candidate-vibid:2552000983027": 58,
+      "gas:candidate-vibid:2552000992049": 5,
+      "gas:candidate-vibid:2552000989939": 15,
+      "gas:candidate-vibid:2552000995754": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897364&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897364&type=464",
@@ -4243,16 +4243,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 6,
-      "Голушко Андрей Иванович": 223,
-      "Денисенко Олег Иванович": 157,
-      "Колесников Олег Юрьевич": 2,
-      "Кочетков Сергей Петрович": 8,
-      "Кравцов Александр Владимирович": 13,
-      "Ложкин Алексей Николаевич": 81,
-      "Мельников Борис Викторович": 4,
-      "Подзоров Александр Георгиевич": 20,
-      "Якименко Алексей Евгеньевич": 2
+      "gas:candidate-vibid:2552000990706": 6,
+      "gas:candidate-vibid:2552000990468": 223,
+      "gas:candidate-vibid:2552000994508": 157,
+      "gas:candidate-vibid:2552000995687": 2,
+      "gas:candidate-vibid:2552000995793": 8,
+      "gas:candidate-vibid:2552000987502": 13,
+      "gas:candidate-vibid:2552000983027": 81,
+      "gas:candidate-vibid:2552000992049": 4,
+      "gas:candidate-vibid:2552000989939": 20,
+      "gas:candidate-vibid:2552000995754": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897364&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897364&type=464",
@@ -4303,16 +4303,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 1,
-      "Голушко Андрей Иванович": 147,
-      "Денисенко Олег Иванович": 57,
-      "Колесников Олег Юрьевич": 0,
-      "Кочетков Сергей Петрович": 1,
-      "Кравцов Александр Владимирович": 14,
-      "Ложкин Алексей Николаевич": 29,
-      "Мельников Борис Викторович": 2,
-      "Подзоров Александр Георгиевич": 13,
-      "Якименко Алексей Евгеньевич": 2
+      "gas:candidate-vibid:2552000990706": 1,
+      "gas:candidate-vibid:2552000990468": 147,
+      "gas:candidate-vibid:2552000994508": 57,
+      "gas:candidate-vibid:2552000995687": 0,
+      "gas:candidate-vibid:2552000995793": 1,
+      "gas:candidate-vibid:2552000987502": 14,
+      "gas:candidate-vibid:2552000983027": 29,
+      "gas:candidate-vibid:2552000992049": 2,
+      "gas:candidate-vibid:2552000989939": 13,
+      "gas:candidate-vibid:2552000995754": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897364&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897364&type=464",
@@ -4363,16 +4363,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 3,
-      "Голушко Андрей Иванович": 49,
-      "Денисенко Олег Иванович": 20,
-      "Колесников Олег Юрьевич": 4,
-      "Кочетков Сергей Петрович": 1,
-      "Кравцов Александр Владимирович": 0,
-      "Ложкин Алексей Николаевич": 3,
-      "Мельников Борис Викторович": 1,
-      "Подзоров Александр Георгиевич": 2,
-      "Якименко Алексей Евгеньевич": 1
+      "gas:candidate-vibid:2552000990706": 3,
+      "gas:candidate-vibid:2552000990468": 49,
+      "gas:candidate-vibid:2552000994508": 20,
+      "gas:candidate-vibid:2552000995687": 4,
+      "gas:candidate-vibid:2552000995793": 1,
+      "gas:candidate-vibid:2552000987502": 0,
+      "gas:candidate-vibid:2552000983027": 3,
+      "gas:candidate-vibid:2552000992049": 1,
+      "gas:candidate-vibid:2552000989939": 2,
+      "gas:candidate-vibid:2552000995754": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897364&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897364&type=464",
@@ -4423,16 +4423,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 7,
-      "Голушко Андрей Иванович": 101,
-      "Денисенко Олег Иванович": 40,
-      "Колесников Олег Юрьевич": 2,
-      "Кочетков Сергей Петрович": 3,
-      "Кравцов Александр Владимирович": 6,
-      "Ложкин Алексей Николаевич": 14,
-      "Мельников Борис Викторович": 1,
-      "Подзоров Александр Георгиевич": 9,
-      "Якименко Алексей Евгеньевич": 1
+      "gas:candidate-vibid:2552000990706": 7,
+      "gas:candidate-vibid:2552000990468": 101,
+      "gas:candidate-vibid:2552000994508": 40,
+      "gas:candidate-vibid:2552000995687": 2,
+      "gas:candidate-vibid:2552000995793": 3,
+      "gas:candidate-vibid:2552000987502": 6,
+      "gas:candidate-vibid:2552000983027": 14,
+      "gas:candidate-vibid:2552000992049": 1,
+      "gas:candidate-vibid:2552000989939": 9,
+      "gas:candidate-vibid:2552000995754": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897364&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897364&type=464",
@@ -4483,16 +4483,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 2,
-      "Голушко Андрей Иванович": 50,
-      "Денисенко Олег Иванович": 14,
-      "Колесников Олег Юрьевич": 2,
-      "Кочетков Сергей Петрович": 1,
-      "Кравцов Александр Владимирович": 1,
-      "Ложкин Алексей Николаевич": 14,
-      "Мельников Борис Викторович": 2,
-      "Подзоров Александр Георгиевич": 1,
-      "Якименко Алексей Евгеньевич": 0
+      "gas:candidate-vibid:2552000990706": 2,
+      "gas:candidate-vibid:2552000990468": 50,
+      "gas:candidate-vibid:2552000994508": 14,
+      "gas:candidate-vibid:2552000995687": 2,
+      "gas:candidate-vibid:2552000995793": 1,
+      "gas:candidate-vibid:2552000987502": 1,
+      "gas:candidate-vibid:2552000983027": 14,
+      "gas:candidate-vibid:2552000992049": 2,
+      "gas:candidate-vibid:2552000989939": 1,
+      "gas:candidate-vibid:2552000995754": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897364&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897364&type=464",
@@ -4543,16 +4543,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 1,
-      "Голушко Андрей Иванович": 151,
-      "Денисенко Олег Иванович": 68,
-      "Колесников Олег Юрьевич": 4,
-      "Кочетков Сергей Петрович": 5,
-      "Кравцов Александр Владимирович": 9,
-      "Ложкин Алексей Николаевич": 28,
-      "Мельников Борис Викторович": 5,
-      "Подзоров Александр Георгиевич": 7,
-      "Якименко Алексей Евгеньевич": 3
+      "gas:candidate-vibid:2552000990706": 1,
+      "gas:candidate-vibid:2552000990468": 151,
+      "gas:candidate-vibid:2552000994508": 68,
+      "gas:candidate-vibid:2552000995687": 4,
+      "gas:candidate-vibid:2552000995793": 5,
+      "gas:candidate-vibid:2552000987502": 9,
+      "gas:candidate-vibid:2552000983027": 28,
+      "gas:candidate-vibid:2552000992049": 5,
+      "gas:candidate-vibid:2552000989939": 7,
+      "gas:candidate-vibid:2552000995754": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897364&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897364&type=464",
@@ -4603,16 +4603,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 4,
-      "Голушко Андрей Иванович": 50,
-      "Денисенко Олег Иванович": 26,
-      "Колесников Олег Юрьевич": 2,
-      "Кочетков Сергей Петрович": 2,
-      "Кравцов Александр Владимирович": 6,
-      "Ложкин Алексей Николаевич": 8,
-      "Мельников Борис Викторович": 2,
-      "Подзоров Александр Георгиевич": 4,
-      "Якименко Алексей Евгеньевич": 0
+      "gas:candidate-vibid:2552000990706": 4,
+      "gas:candidate-vibid:2552000990468": 50,
+      "gas:candidate-vibid:2552000994508": 26,
+      "gas:candidate-vibid:2552000995687": 2,
+      "gas:candidate-vibid:2552000995793": 2,
+      "gas:candidate-vibid:2552000987502": 6,
+      "gas:candidate-vibid:2552000983027": 8,
+      "gas:candidate-vibid:2552000992049": 2,
+      "gas:candidate-vibid:2552000989939": 4,
+      "gas:candidate-vibid:2552000995754": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897364&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897364&type=464",
@@ -4663,16 +4663,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 1,
-      "Голушко Андрей Иванович": 46,
-      "Денисенко Олег Иванович": 8,
-      "Колесников Олег Юрьевич": 0,
-      "Кочетков Сергей Петрович": 0,
-      "Кравцов Александр Владимирович": 0,
-      "Ложкин Алексей Николаевич": 5,
-      "Мельников Борис Викторович": 0,
-      "Подзоров Александр Георгиевич": 0,
-      "Якименко Алексей Евгеньевич": 0
+      "gas:candidate-vibid:2552000990706": 1,
+      "gas:candidate-vibid:2552000990468": 46,
+      "gas:candidate-vibid:2552000994508": 8,
+      "gas:candidate-vibid:2552000995687": 0,
+      "gas:candidate-vibid:2552000995793": 0,
+      "gas:candidate-vibid:2552000987502": 0,
+      "gas:candidate-vibid:2552000983027": 5,
+      "gas:candidate-vibid:2552000992049": 0,
+      "gas:candidate-vibid:2552000989939": 0,
+      "gas:candidate-vibid:2552000995754": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897364&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897364&type=464",
@@ -4723,16 +4723,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 4,
-      "Голушко Андрей Иванович": 79,
-      "Денисенко Олег Иванович": 24,
-      "Колесников Олег Юрьевич": 1,
-      "Кочетков Сергей Петрович": 0,
-      "Кравцов Александр Владимирович": 5,
-      "Ложкин Алексей Николаевич": 10,
-      "Мельников Борис Викторович": 1,
-      "Подзоров Александр Георгиевич": 5,
-      "Якименко Алексей Евгеньевич": 0
+      "gas:candidate-vibid:2552000990706": 4,
+      "gas:candidate-vibid:2552000990468": 79,
+      "gas:candidate-vibid:2552000994508": 24,
+      "gas:candidate-vibid:2552000995687": 1,
+      "gas:candidate-vibid:2552000995793": 0,
+      "gas:candidate-vibid:2552000987502": 5,
+      "gas:candidate-vibid:2552000983027": 10,
+      "gas:candidate-vibid:2552000992049": 1,
+      "gas:candidate-vibid:2552000989939": 5,
+      "gas:candidate-vibid:2552000995754": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897364&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897364&type=464",
@@ -4783,16 +4783,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 4,
-      "Голушко Андрей Иванович": 163,
-      "Денисенко Олег Иванович": 146,
-      "Колесников Олег Юрьевич": 3,
-      "Кочетков Сергей Петрович": 2,
-      "Кравцов Александр Владимирович": 13,
-      "Ложкин Алексей Николаевич": 58,
-      "Мельников Борис Викторович": 4,
-      "Подзоров Александр Георгиевич": 20,
-      "Якименко Алексей Евгеньевич": 2
+      "gas:candidate-vibid:2552000990706": 4,
+      "gas:candidate-vibid:2552000990468": 163,
+      "gas:candidate-vibid:2552000994508": 146,
+      "gas:candidate-vibid:2552000995687": 3,
+      "gas:candidate-vibid:2552000995793": 2,
+      "gas:candidate-vibid:2552000987502": 13,
+      "gas:candidate-vibid:2552000983027": 58,
+      "gas:candidate-vibid:2552000992049": 4,
+      "gas:candidate-vibid:2552000989939": 20,
+      "gas:candidate-vibid:2552000995754": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897364&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897364&type=464",
@@ -4843,16 +4843,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 0,
-      "Голушко Андрей Иванович": 161,
-      "Денисенко Олег Иванович": 76,
-      "Колесников Олег Юрьевич": 3,
-      "Кочетков Сергей Петрович": 3,
-      "Кравцов Александр Владимирович": 22,
-      "Ложкин Алексей Николаевич": 29,
-      "Мельников Борис Викторович": 2,
-      "Подзоров Александр Георгиевич": 8,
-      "Якименко Алексей Евгеньевич": 3
+      "gas:candidate-vibid:2552000990706": 0,
+      "gas:candidate-vibid:2552000990468": 161,
+      "gas:candidate-vibid:2552000994508": 76,
+      "gas:candidate-vibid:2552000995687": 3,
+      "gas:candidate-vibid:2552000995793": 3,
+      "gas:candidate-vibid:2552000987502": 22,
+      "gas:candidate-vibid:2552000983027": 29,
+      "gas:candidate-vibid:2552000992049": 2,
+      "gas:candidate-vibid:2552000989939": 8,
+      "gas:candidate-vibid:2552000995754": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897364&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897364&type=464",
@@ -4903,16 +4903,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 1,
-      "Голушко Андрей Иванович": 29,
-      "Денисенко Олег Иванович": 18,
-      "Колесников Олег Юрьевич": 0,
-      "Кочетков Сергей Петрович": 1,
-      "Кравцов Александр Владимирович": 2,
-      "Ложкин Алексей Николаевич": 4,
-      "Мельников Борис Викторович": 0,
-      "Подзоров Александр Георгиевич": 2,
-      "Якименко Алексей Евгеньевич": 0
+      "gas:candidate-vibid:2552000990706": 1,
+      "gas:candidate-vibid:2552000990468": 29,
+      "gas:candidate-vibid:2552000994508": 18,
+      "gas:candidate-vibid:2552000995687": 0,
+      "gas:candidate-vibid:2552000995793": 1,
+      "gas:candidate-vibid:2552000987502": 2,
+      "gas:candidate-vibid:2552000983027": 4,
+      "gas:candidate-vibid:2552000992049": 0,
+      "gas:candidate-vibid:2552000989939": 2,
+      "gas:candidate-vibid:2552000995754": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897364&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897364&type=464",
@@ -4963,16 +4963,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 2,
-      "Голушко Андрей Иванович": 137,
-      "Денисенко Олег Иванович": 45,
-      "Колесников Олег Юрьевич": 2,
-      "Кочетков Сергей Петрович": 1,
-      "Кравцов Александр Владимирович": 3,
-      "Ложкин Алексей Николаевич": 31,
-      "Мельников Борис Викторович": 3,
-      "Подзоров Александр Георгиевич": 12,
-      "Якименко Алексей Евгеньевич": 0
+      "gas:candidate-vibid:2552000990706": 2,
+      "gas:candidate-vibid:2552000990468": 137,
+      "gas:candidate-vibid:2552000994508": 45,
+      "gas:candidate-vibid:2552000995687": 2,
+      "gas:candidate-vibid:2552000995793": 1,
+      "gas:candidate-vibid:2552000987502": 3,
+      "gas:candidate-vibid:2552000983027": 31,
+      "gas:candidate-vibid:2552000992049": 3,
+      "gas:candidate-vibid:2552000989939": 12,
+      "gas:candidate-vibid:2552000995754": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897364&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897364&type=464",
@@ -5023,16 +5023,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 0,
-      "Голушко Андрей Иванович": 9,
-      "Денисенко Олег Иванович": 9,
-      "Колесников Олег Юрьевич": 0,
-      "Кочетков Сергей Петрович": 0,
-      "Кравцов Александр Владимирович": 0,
-      "Ложкин Алексей Николаевич": 2,
-      "Мельников Борис Викторович": 0,
-      "Подзоров Александр Георгиевич": 0,
-      "Якименко Алексей Евгеньевич": 0
+      "gas:candidate-vibid:2552000990706": 0,
+      "gas:candidate-vibid:2552000990468": 9,
+      "gas:candidate-vibid:2552000994508": 9,
+      "gas:candidate-vibid:2552000995687": 0,
+      "gas:candidate-vibid:2552000995793": 0,
+      "gas:candidate-vibid:2552000987502": 0,
+      "gas:candidate-vibid:2552000983027": 2,
+      "gas:candidate-vibid:2552000992049": 0,
+      "gas:candidate-vibid:2552000989939": 0,
+      "gas:candidate-vibid:2552000995754": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897364&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897364&type=464",
@@ -5083,16 +5083,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 0,
-      "Голушко Андрей Иванович": 14,
-      "Денисенко Олег Иванович": 8,
-      "Колесников Олег Юрьевич": 2,
-      "Кочетков Сергей Петрович": 0,
-      "Кравцов Александр Владимирович": 2,
-      "Ложкин Алексей Николаевич": 6,
-      "Мельников Борис Викторович": 2,
-      "Подзоров Александр Георгиевич": 1,
-      "Якименко Алексей Евгеньевич": 0
+      "gas:candidate-vibid:2552000990706": 0,
+      "gas:candidate-vibid:2552000990468": 14,
+      "gas:candidate-vibid:2552000994508": 8,
+      "gas:candidate-vibid:2552000995687": 2,
+      "gas:candidate-vibid:2552000995793": 0,
+      "gas:candidate-vibid:2552000987502": 2,
+      "gas:candidate-vibid:2552000983027": 6,
+      "gas:candidate-vibid:2552000992049": 2,
+      "gas:candidate-vibid:2552000989939": 1,
+      "gas:candidate-vibid:2552000995754": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897364&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897364&type=464",
@@ -5143,16 +5143,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 2,
-      "Голушко Андрей Иванович": 77,
-      "Денисенко Олег Иванович": 75,
-      "Колесников Олег Юрьевич": 2,
-      "Кочетков Сергей Петрович": 2,
-      "Кравцов Александр Владимирович": 9,
-      "Ложкин Алексей Николаевич": 15,
-      "Мельников Борис Викторович": 4,
-      "Подзоров Александр Георгиевич": 5,
-      "Якименко Алексей Евгеньевич": 3
+      "gas:candidate-vibid:2552000990706": 2,
+      "gas:candidate-vibid:2552000990468": 77,
+      "gas:candidate-vibid:2552000994508": 75,
+      "gas:candidate-vibid:2552000995687": 2,
+      "gas:candidate-vibid:2552000995793": 2,
+      "gas:candidate-vibid:2552000987502": 9,
+      "gas:candidate-vibid:2552000983027": 15,
+      "gas:candidate-vibid:2552000992049": 4,
+      "gas:candidate-vibid:2552000989939": 5,
+      "gas:candidate-vibid:2552000995754": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897364&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897364&type=464",
@@ -5203,16 +5203,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 0,
-      "Голушко Андрей Иванович": 31,
-      "Денисенко Олег Иванович": 13,
-      "Колесников Олег Юрьевич": 0,
-      "Кочетков Сергей Петрович": 2,
-      "Кравцов Александр Владимирович": 2,
-      "Ложкин Алексей Николаевич": 0,
-      "Мельников Борис Викторович": 0,
-      "Подзоров Александр Георгиевич": 2,
-      "Якименко Алексей Евгеньевич": 0
+      "gas:candidate-vibid:2552000990706": 0,
+      "gas:candidate-vibid:2552000990468": 31,
+      "gas:candidate-vibid:2552000994508": 13,
+      "gas:candidate-vibid:2552000995687": 0,
+      "gas:candidate-vibid:2552000995793": 2,
+      "gas:candidate-vibid:2552000987502": 2,
+      "gas:candidate-vibid:2552000983027": 0,
+      "gas:candidate-vibid:2552000992049": 0,
+      "gas:candidate-vibid:2552000989939": 2,
+      "gas:candidate-vibid:2552000995754": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897364&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897364&type=464",
@@ -5263,16 +5263,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 0,
-      "Голушко Андрей Иванович": 4,
-      "Денисенко Олег Иванович": 12,
-      "Колесников Олег Юрьевич": 1,
-      "Кочетков Сергей Петрович": 0,
-      "Кравцов Александр Владимирович": 0,
-      "Ложкин Алексей Николаевич": 2,
-      "Мельников Борис Викторович": 0,
-      "Подзоров Александр Георгиевич": 2,
-      "Якименко Алексей Евгеньевич": 0
+      "gas:candidate-vibid:2552000990706": 0,
+      "gas:candidate-vibid:2552000990468": 4,
+      "gas:candidate-vibid:2552000994508": 12,
+      "gas:candidate-vibid:2552000995687": 1,
+      "gas:candidate-vibid:2552000995793": 0,
+      "gas:candidate-vibid:2552000987502": 0,
+      "gas:candidate-vibid:2552000983027": 2,
+      "gas:candidate-vibid:2552000992049": 0,
+      "gas:candidate-vibid:2552000989939": 2,
+      "gas:candidate-vibid:2552000995754": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897364&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897364&type=464",
@@ -5323,16 +5323,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 0,
-      "Голушко Андрей Иванович": 27,
-      "Денисенко Олег Иванович": 8,
-      "Колесников Олег Юрьевич": 0,
-      "Кочетков Сергей Петрович": 4,
-      "Кравцов Александр Владимирович": 1,
-      "Ложкин Алексей Николаевич": 5,
-      "Мельников Борис Викторович": 0,
-      "Подзоров Александр Георгиевич": 0,
-      "Якименко Алексей Евгеньевич": 0
+      "gas:candidate-vibid:2552000990706": 0,
+      "gas:candidate-vibid:2552000990468": 27,
+      "gas:candidate-vibid:2552000994508": 8,
+      "gas:candidate-vibid:2552000995687": 0,
+      "gas:candidate-vibid:2552000995793": 4,
+      "gas:candidate-vibid:2552000987502": 1,
+      "gas:candidate-vibid:2552000983027": 5,
+      "gas:candidate-vibid:2552000992049": 0,
+      "gas:candidate-vibid:2552000989939": 0,
+      "gas:candidate-vibid:2552000995754": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897364&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897364&type=464",
@@ -5383,16 +5383,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 3,
-      "Голушко Андрей Иванович": 182,
-      "Денисенко Олег Иванович": 48,
-      "Колесников Олег Юрьевич": 2,
-      "Кочетков Сергей Петрович": 2,
-      "Кравцов Александр Владимирович": 8,
-      "Ложкин Алексей Николаевич": 28,
-      "Мельников Борис Викторович": 1,
-      "Подзоров Александр Георгиевич": 8,
-      "Якименко Алексей Евгеньевич": 4
+      "gas:candidate-vibid:2552000990706": 3,
+      "gas:candidate-vibid:2552000990468": 182,
+      "gas:candidate-vibid:2552000994508": 48,
+      "gas:candidate-vibid:2552000995687": 2,
+      "gas:candidate-vibid:2552000995793": 2,
+      "gas:candidate-vibid:2552000987502": 8,
+      "gas:candidate-vibid:2552000983027": 28,
+      "gas:candidate-vibid:2552000992049": 1,
+      "gas:candidate-vibid:2552000989939": 8,
+      "gas:candidate-vibid:2552000995754": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897364&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897364&type=464",
@@ -5443,16 +5443,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 0,
-      "Голушко Андрей Иванович": 63,
-      "Денисенко Олег Иванович": 9,
-      "Колесников Олег Юрьевич": 1,
-      "Кочетков Сергей Петрович": 1,
-      "Кравцов Александр Владимирович": 2,
-      "Ложкин Алексей Николаевич": 7,
-      "Мельников Борис Викторович": 1,
-      "Подзоров Александр Георгиевич": 3,
-      "Якименко Алексей Евгеньевич": 1
+      "gas:candidate-vibid:2552000990706": 0,
+      "gas:candidate-vibid:2552000990468": 63,
+      "gas:candidate-vibid:2552000994508": 9,
+      "gas:candidate-vibid:2552000995687": 1,
+      "gas:candidate-vibid:2552000995793": 1,
+      "gas:candidate-vibid:2552000987502": 2,
+      "gas:candidate-vibid:2552000983027": 7,
+      "gas:candidate-vibid:2552000992049": 1,
+      "gas:candidate-vibid:2552000989939": 3,
+      "gas:candidate-vibid:2552000995754": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897364&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897364&type=464",
@@ -5503,16 +5503,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 0,
-      "Голушко Андрей Иванович": 15,
-      "Денисенко Олег Иванович": 10,
-      "Колесников Олег Юрьевич": 2,
-      "Кочетков Сергей Петрович": 0,
-      "Кравцов Александр Владимирович": 3,
-      "Ложкин Алексей Николаевич": 5,
-      "Мельников Борис Викторович": 1,
-      "Подзоров Александр Георгиевич": 3,
-      "Якименко Алексей Евгеньевич": 0
+      "gas:candidate-vibid:2552000990706": 0,
+      "gas:candidate-vibid:2552000990468": 15,
+      "gas:candidate-vibid:2552000994508": 10,
+      "gas:candidate-vibid:2552000995687": 2,
+      "gas:candidate-vibid:2552000995793": 0,
+      "gas:candidate-vibid:2552000987502": 3,
+      "gas:candidate-vibid:2552000983027": 5,
+      "gas:candidate-vibid:2552000992049": 1,
+      "gas:candidate-vibid:2552000989939": 3,
+      "gas:candidate-vibid:2552000995754": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897364&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897364&type=464",
@@ -5563,16 +5563,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 0,
-      "Голушко Андрей Иванович": 127,
-      "Денисенко Олег Иванович": 51,
-      "Колесников Олег Юрьевич": 4,
-      "Кочетков Сергей Петрович": 2,
-      "Кравцов Александр Владимирович": 9,
-      "Ложкин Алексей Николаевич": 23,
-      "Мельников Борис Викторович": 1,
-      "Подзоров Александр Георгиевич": 7,
-      "Якименко Алексей Евгеньевич": 0
+      "gas:candidate-vibid:2552000990706": 0,
+      "gas:candidate-vibid:2552000990468": 127,
+      "gas:candidate-vibid:2552000994508": 51,
+      "gas:candidate-vibid:2552000995687": 4,
+      "gas:candidate-vibid:2552000995793": 2,
+      "gas:candidate-vibid:2552000987502": 9,
+      "gas:candidate-vibid:2552000983027": 23,
+      "gas:candidate-vibid:2552000992049": 1,
+      "gas:candidate-vibid:2552000989939": 7,
+      "gas:candidate-vibid:2552000995754": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897364&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897364&type=464",
@@ -5623,16 +5623,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 0,
-      "Голушко Андрей Иванович": 31,
-      "Денисенко Олег Иванович": 9,
-      "Колесников Олег Юрьевич": 1,
-      "Кочетков Сергей Петрович": 2,
-      "Кравцов Александр Владимирович": 1,
-      "Ложкин Алексей Николаевич": 1,
-      "Мельников Борис Викторович": 1,
-      "Подзоров Александр Георгиевич": 4,
-      "Якименко Алексей Евгеньевич": 0
+      "gas:candidate-vibid:2552000990706": 0,
+      "gas:candidate-vibid:2552000990468": 31,
+      "gas:candidate-vibid:2552000994508": 9,
+      "gas:candidate-vibid:2552000995687": 1,
+      "gas:candidate-vibid:2552000995793": 2,
+      "gas:candidate-vibid:2552000987502": 1,
+      "gas:candidate-vibid:2552000983027": 1,
+      "gas:candidate-vibid:2552000992049": 1,
+      "gas:candidate-vibid:2552000989939": 4,
+      "gas:candidate-vibid:2552000995754": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897364&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897364&type=464",
@@ -5683,16 +5683,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 2,
-      "Голушко Андрей Иванович": 29,
-      "Денисенко Олег Иванович": 3,
-      "Колесников Олег Юрьевич": 0,
-      "Кочетков Сергей Петрович": 1,
-      "Кравцов Александр Владимирович": 0,
-      "Ложкин Алексей Николаевич": 5,
-      "Мельников Борис Викторович": 0,
-      "Подзоров Александр Георгиевич": 2,
-      "Якименко Алексей Евгеньевич": 0
+      "gas:candidate-vibid:2552000990706": 2,
+      "gas:candidate-vibid:2552000990468": 29,
+      "gas:candidate-vibid:2552000994508": 3,
+      "gas:candidate-vibid:2552000995687": 0,
+      "gas:candidate-vibid:2552000995793": 1,
+      "gas:candidate-vibid:2552000987502": 0,
+      "gas:candidate-vibid:2552000983027": 5,
+      "gas:candidate-vibid:2552000992049": 0,
+      "gas:candidate-vibid:2552000989939": 2,
+      "gas:candidate-vibid:2552000995754": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897364&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897364&type=464",
@@ -5743,16 +5743,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 0,
-      "Голушко Андрей Иванович": 22,
-      "Денисенко Олег Иванович": 6,
-      "Колесников Олег Юрьевич": 1,
-      "Кочетков Сергей Петрович": 1,
-      "Кравцов Александр Владимирович": 0,
-      "Ложкин Алексей Николаевич": 1,
-      "Мельников Борис Викторович": 0,
-      "Подзоров Александр Георгиевич": 1,
-      "Якименко Алексей Евгеньевич": 1
+      "gas:candidate-vibid:2552000990706": 0,
+      "gas:candidate-vibid:2552000990468": 22,
+      "gas:candidate-vibid:2552000994508": 6,
+      "gas:candidate-vibid:2552000995687": 1,
+      "gas:candidate-vibid:2552000995793": 1,
+      "gas:candidate-vibid:2552000987502": 0,
+      "gas:candidate-vibid:2552000983027": 1,
+      "gas:candidate-vibid:2552000992049": 0,
+      "gas:candidate-vibid:2552000989939": 1,
+      "gas:candidate-vibid:2552000995754": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897364&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897364&type=464",
@@ -5803,16 +5803,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 1,
-      "Голушко Андрей Иванович": 104,
-      "Денисенко Олег Иванович": 34,
-      "Колесников Олег Юрьевич": 4,
-      "Кочетков Сергей Петрович": 3,
-      "Кравцов Александр Владимирович": 11,
-      "Ложкин Алексей Николаевич": 26,
-      "Мельников Борис Викторович": 2,
-      "Подзоров Александр Георгиевич": 7,
-      "Якименко Алексей Евгеньевич": 6
+      "gas:candidate-vibid:2552000990706": 1,
+      "gas:candidate-vibid:2552000990468": 104,
+      "gas:candidate-vibid:2552000994508": 34,
+      "gas:candidate-vibid:2552000995687": 4,
+      "gas:candidate-vibid:2552000995793": 3,
+      "gas:candidate-vibid:2552000987502": 11,
+      "gas:candidate-vibid:2552000983027": 26,
+      "gas:candidate-vibid:2552000992049": 2,
+      "gas:candidate-vibid:2552000989939": 7,
+      "gas:candidate-vibid:2552000995754": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897364&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897364&type=464",
@@ -5863,16 +5863,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 1,
-      "Голушко Андрей Иванович": 20,
-      "Денисенко Олег Иванович": 12,
-      "Колесников Олег Юрьевич": 0,
-      "Кочетков Сергей Петрович": 0,
-      "Кравцов Александр Владимирович": 0,
-      "Ложкин Алексей Николаевич": 7,
-      "Мельников Борис Викторович": 0,
-      "Подзоров Александр Георгиевич": 0,
-      "Якименко Алексей Евгеньевич": 3
+      "gas:candidate-vibid:2552000990706": 1,
+      "gas:candidate-vibid:2552000990468": 20,
+      "gas:candidate-vibid:2552000994508": 12,
+      "gas:candidate-vibid:2552000995687": 0,
+      "gas:candidate-vibid:2552000995793": 0,
+      "gas:candidate-vibid:2552000987502": 0,
+      "gas:candidate-vibid:2552000983027": 7,
+      "gas:candidate-vibid:2552000992049": 0,
+      "gas:candidate-vibid:2552000989939": 0,
+      "gas:candidate-vibid:2552000995754": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897364&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897364&type=464",
@@ -5923,16 +5923,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 0,
-      "Голушко Андрей Иванович": 13,
-      "Денисенко Олег Иванович": 21,
-      "Колесников Олег Юрьевич": 0,
-      "Кочетков Сергей Петрович": 0,
-      "Кравцов Александр Владимирович": 0,
-      "Ложкин Алексей Николаевич": 2,
-      "Мельников Борис Викторович": 1,
-      "Подзоров Александр Георгиевич": 1,
-      "Якименко Алексей Евгеньевич": 1
+      "gas:candidate-vibid:2552000990706": 0,
+      "gas:candidate-vibid:2552000990468": 13,
+      "gas:candidate-vibid:2552000994508": 21,
+      "gas:candidate-vibid:2552000995687": 0,
+      "gas:candidate-vibid:2552000995793": 0,
+      "gas:candidate-vibid:2552000987502": 0,
+      "gas:candidate-vibid:2552000983027": 2,
+      "gas:candidate-vibid:2552000992049": 1,
+      "gas:candidate-vibid:2552000989939": 1,
+      "gas:candidate-vibid:2552000995754": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897364&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897364&type=464",
@@ -5983,16 +5983,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 1,
-      "Голушко Андрей Иванович": 95,
-      "Денисенко Олег Иванович": 14,
-      "Колесников Олег Юрьевич": 2,
-      "Кочетков Сергей Петрович": 2,
-      "Кравцов Александр Владимирович": 5,
-      "Ложкин Алексей Николаевич": 18,
-      "Мельников Борис Викторович": 0,
-      "Подзоров Александр Георгиевич": 9,
-      "Якименко Алексей Евгеньевич": 3
+      "gas:candidate-vibid:2552000990706": 1,
+      "gas:candidate-vibid:2552000990468": 95,
+      "gas:candidate-vibid:2552000994508": 14,
+      "gas:candidate-vibid:2552000995687": 2,
+      "gas:candidate-vibid:2552000995793": 2,
+      "gas:candidate-vibid:2552000987502": 5,
+      "gas:candidate-vibid:2552000983027": 18,
+      "gas:candidate-vibid:2552000992049": 0,
+      "gas:candidate-vibid:2552000989939": 9,
+      "gas:candidate-vibid:2552000995754": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897365&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897365&type=464",
@@ -6043,16 +6043,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 1,
-      "Голушко Андрей Иванович": 48,
-      "Денисенко Олег Иванович": 19,
-      "Колесников Олег Юрьевич": 1,
-      "Кочетков Сергей Петрович": 2,
-      "Кравцов Александр Владимирович": 1,
-      "Ложкин Алексей Николаевич": 2,
-      "Мельников Борис Викторович": 0,
-      "Подзоров Александр Георгиевич": 6,
-      "Якименко Алексей Евгеньевич": 0
+      "gas:candidate-vibid:2552000990706": 1,
+      "gas:candidate-vibid:2552000990468": 48,
+      "gas:candidate-vibid:2552000994508": 19,
+      "gas:candidate-vibid:2552000995687": 1,
+      "gas:candidate-vibid:2552000995793": 2,
+      "gas:candidate-vibid:2552000987502": 1,
+      "gas:candidate-vibid:2552000983027": 2,
+      "gas:candidate-vibid:2552000992049": 0,
+      "gas:candidate-vibid:2552000989939": 6,
+      "gas:candidate-vibid:2552000995754": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897365&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897365&type=464",
@@ -6103,16 +6103,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 2,
-      "Голушко Андрей Иванович": 199,
-      "Денисенко Олег Иванович": 34,
-      "Колесников Олег Юрьевич": 6,
-      "Кочетков Сергей Петрович": 3,
-      "Кравцов Александр Владимирович": 15,
-      "Ложкин Алексей Николаевич": 28,
-      "Мельников Борис Викторович": 3,
-      "Подзоров Александр Георгиевич": 8,
-      "Якименко Алексей Евгеньевич": 2
+      "gas:candidate-vibid:2552000990706": 2,
+      "gas:candidate-vibid:2552000990468": 199,
+      "gas:candidate-vibid:2552000994508": 34,
+      "gas:candidate-vibid:2552000995687": 6,
+      "gas:candidate-vibid:2552000995793": 3,
+      "gas:candidate-vibid:2552000987502": 15,
+      "gas:candidate-vibid:2552000983027": 28,
+      "gas:candidate-vibid:2552000992049": 3,
+      "gas:candidate-vibid:2552000989939": 8,
+      "gas:candidate-vibid:2552000995754": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897365&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897365&type=464",
@@ -6163,16 +6163,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 9,
-      "Голушко Андрей Иванович": 262,
-      "Денисенко Олег Иванович": 106,
-      "Колесников Олег Юрьевич": 9,
-      "Кочетков Сергей Петрович": 9,
-      "Кравцов Александр Владимирович": 20,
-      "Ложкин Алексей Николаевич": 38,
-      "Мельников Борис Викторович": 7,
-      "Подзоров Александр Георгиевич": 12,
-      "Якименко Алексей Евгеньевич": 5
+      "gas:candidate-vibid:2552000990706": 9,
+      "gas:candidate-vibid:2552000990468": 262,
+      "gas:candidate-vibid:2552000994508": 106,
+      "gas:candidate-vibid:2552000995687": 9,
+      "gas:candidate-vibid:2552000995793": 9,
+      "gas:candidate-vibid:2552000987502": 20,
+      "gas:candidate-vibid:2552000983027": 38,
+      "gas:candidate-vibid:2552000992049": 7,
+      "gas:candidate-vibid:2552000989939": 12,
+      "gas:candidate-vibid:2552000995754": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897365&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897365&type=464",
@@ -6223,16 +6223,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 8,
-      "Голушко Андрей Иванович": 54,
-      "Денисенко Олег Иванович": 39,
-      "Колесников Олег Юрьевич": 5,
-      "Кочетков Сергей Петрович": 0,
-      "Кравцов Александр Владимирович": 5,
-      "Ложкин Алексей Николаевич": 11,
-      "Мельников Борис Викторович": 1,
-      "Подзоров Александр Георгиевич": 4,
-      "Якименко Алексей Евгеньевич": 0
+      "gas:candidate-vibid:2552000990706": 8,
+      "gas:candidate-vibid:2552000990468": 54,
+      "gas:candidate-vibid:2552000994508": 39,
+      "gas:candidate-vibid:2552000995687": 5,
+      "gas:candidate-vibid:2552000995793": 0,
+      "gas:candidate-vibid:2552000987502": 5,
+      "gas:candidate-vibid:2552000983027": 11,
+      "gas:candidate-vibid:2552000992049": 1,
+      "gas:candidate-vibid:2552000989939": 4,
+      "gas:candidate-vibid:2552000995754": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897365&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897365&type=464",
@@ -6283,16 +6283,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 0,
-      "Голушко Андрей Иванович": 80,
-      "Денисенко Олег Иванович": 26,
-      "Колесников Олег Юрьевич": 2,
-      "Кочетков Сергей Петрович": 1,
-      "Кравцов Александр Владимирович": 4,
-      "Ложкин Алексей Николаевич": 18,
-      "Мельников Борис Викторович": 2,
-      "Подзоров Александр Георгиевич": 7,
-      "Якименко Алексей Евгеньевич": 2
+      "gas:candidate-vibid:2552000990706": 0,
+      "gas:candidate-vibid:2552000990468": 80,
+      "gas:candidate-vibid:2552000994508": 26,
+      "gas:candidate-vibid:2552000995687": 2,
+      "gas:candidate-vibid:2552000995793": 1,
+      "gas:candidate-vibid:2552000987502": 4,
+      "gas:candidate-vibid:2552000983027": 18,
+      "gas:candidate-vibid:2552000992049": 2,
+      "gas:candidate-vibid:2552000989939": 7,
+      "gas:candidate-vibid:2552000995754": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897365&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897365&type=464",
@@ -6343,16 +6343,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 2,
-      "Голушко Андрей Иванович": 63,
-      "Денисенко Олег Иванович": 14,
-      "Колесников Олег Юрьевич": 5,
-      "Кочетков Сергей Петрович": 2,
-      "Кравцов Александр Владимирович": 5,
-      "Ложкин Алексей Николаевич": 18,
-      "Мельников Борис Викторович": 3,
-      "Подзоров Александр Георгиевич": 7,
-      "Якименко Алексей Евгеньевич": 0
+      "gas:candidate-vibid:2552000990706": 2,
+      "gas:candidate-vibid:2552000990468": 63,
+      "gas:candidate-vibid:2552000994508": 14,
+      "gas:candidate-vibid:2552000995687": 5,
+      "gas:candidate-vibid:2552000995793": 2,
+      "gas:candidate-vibid:2552000987502": 5,
+      "gas:candidate-vibid:2552000983027": 18,
+      "gas:candidate-vibid:2552000992049": 3,
+      "gas:candidate-vibid:2552000989939": 7,
+      "gas:candidate-vibid:2552000995754": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897365&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897365&type=464",
@@ -6403,16 +6403,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 2,
-      "Голушко Андрей Иванович": 29,
-      "Денисенко Олег Иванович": 15,
-      "Колесников Олег Юрьевич": 2,
-      "Кочетков Сергей Петрович": 4,
-      "Кравцов Александр Владимирович": 4,
-      "Ложкин Алексей Николаевич": 13,
-      "Мельников Борис Викторович": 1,
-      "Подзоров Александр Георгиевич": 1,
-      "Якименко Алексей Евгеньевич": 0
+      "gas:candidate-vibid:2552000990706": 2,
+      "gas:candidate-vibid:2552000990468": 29,
+      "gas:candidate-vibid:2552000994508": 15,
+      "gas:candidate-vibid:2552000995687": 2,
+      "gas:candidate-vibid:2552000995793": 4,
+      "gas:candidate-vibid:2552000987502": 4,
+      "gas:candidate-vibid:2552000983027": 13,
+      "gas:candidate-vibid:2552000992049": 1,
+      "gas:candidate-vibid:2552000989939": 1,
+      "gas:candidate-vibid:2552000995754": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897365&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897365&type=464",
@@ -6463,16 +6463,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 2,
-      "Голушко Андрей Иванович": 62,
-      "Денисенко Олег Иванович": 8,
-      "Колесников Олег Юрьевич": 0,
-      "Кочетков Сергей Петрович": 3,
-      "Кравцов Александр Владимирович": 4,
-      "Ложкин Алексей Николаевич": 9,
-      "Мельников Борис Викторович": 1,
-      "Подзоров Александр Георгиевич": 0,
-      "Якименко Алексей Евгеньевич": 1
+      "gas:candidate-vibid:2552000990706": 2,
+      "gas:candidate-vibid:2552000990468": 62,
+      "gas:candidate-vibid:2552000994508": 8,
+      "gas:candidate-vibid:2552000995687": 0,
+      "gas:candidate-vibid:2552000995793": 3,
+      "gas:candidate-vibid:2552000987502": 4,
+      "gas:candidate-vibid:2552000983027": 9,
+      "gas:candidate-vibid:2552000992049": 1,
+      "gas:candidate-vibid:2552000989939": 0,
+      "gas:candidate-vibid:2552000995754": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897365&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897365&type=464",
@@ -6523,16 +6523,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 2,
-      "Голушко Андрей Иванович": 103,
-      "Денисенко Олег Иванович": 20,
-      "Колесников Олег Юрьевич": 5,
-      "Кочетков Сергей Петрович": 2,
-      "Кравцов Александр Владимирович": 7,
-      "Ложкин Алексей Николаевич": 15,
-      "Мельников Борис Викторович": 2,
-      "Подзоров Александр Георгиевич": 8,
-      "Якименко Алексей Евгеньевич": 2
+      "gas:candidate-vibid:2552000990706": 2,
+      "gas:candidate-vibid:2552000990468": 103,
+      "gas:candidate-vibid:2552000994508": 20,
+      "gas:candidate-vibid:2552000995687": 5,
+      "gas:candidate-vibid:2552000995793": 2,
+      "gas:candidate-vibid:2552000987502": 7,
+      "gas:candidate-vibid:2552000983027": 15,
+      "gas:candidate-vibid:2552000992049": 2,
+      "gas:candidate-vibid:2552000989939": 8,
+      "gas:candidate-vibid:2552000995754": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897365&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897365&type=464",
@@ -6583,16 +6583,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 5,
-      "Голушко Андрей Иванович": 72,
-      "Денисенко Олег Иванович": 9,
-      "Колесников Олег Юрьевич": 3,
-      "Кочетков Сергей Петрович": 1,
-      "Кравцов Александр Владимирович": 8,
-      "Ложкин Алексей Николаевич": 20,
-      "Мельников Борис Викторович": 0,
-      "Подзоров Александр Георгиевич": 3,
-      "Якименко Алексей Евгеньевич": 0
+      "gas:candidate-vibid:2552000990706": 5,
+      "gas:candidate-vibid:2552000990468": 72,
+      "gas:candidate-vibid:2552000994508": 9,
+      "gas:candidate-vibid:2552000995687": 3,
+      "gas:candidate-vibid:2552000995793": 1,
+      "gas:candidate-vibid:2552000987502": 8,
+      "gas:candidate-vibid:2552000983027": 20,
+      "gas:candidate-vibid:2552000992049": 0,
+      "gas:candidate-vibid:2552000989939": 3,
+      "gas:candidate-vibid:2552000995754": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897365&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897365&type=464",
@@ -6643,16 +6643,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 3,
-      "Голушко Андрей Иванович": 140,
-      "Денисенко Олег Иванович": 48,
-      "Колесников Олег Юрьевич": 5,
-      "Кочетков Сергей Петрович": 5,
-      "Кравцов Александр Владимирович": 21,
-      "Ложкин Алексей Николаевич": 35,
-      "Мельников Борис Викторович": 1,
-      "Подзоров Александр Георгиевич": 11,
-      "Якименко Алексей Евгеньевич": 2
+      "gas:candidate-vibid:2552000990706": 3,
+      "gas:candidate-vibid:2552000990468": 140,
+      "gas:candidate-vibid:2552000994508": 48,
+      "gas:candidate-vibid:2552000995687": 5,
+      "gas:candidate-vibid:2552000995793": 5,
+      "gas:candidate-vibid:2552000987502": 21,
+      "gas:candidate-vibid:2552000983027": 35,
+      "gas:candidate-vibid:2552000992049": 1,
+      "gas:candidate-vibid:2552000989939": 11,
+      "gas:candidate-vibid:2552000995754": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897365&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897365&type=464",
@@ -6703,16 +6703,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 0,
-      "Голушко Андрей Иванович": 33,
-      "Денисенко Олег Иванович": 7,
-      "Колесников Олег Юрьевич": 0,
-      "Кочетков Сергей Петрович": 4,
-      "Кравцов Александр Владимирович": 4,
-      "Ложкин Алексей Николаевич": 6,
-      "Мельников Борис Викторович": 2,
-      "Подзоров Александр Георгиевич": 0,
-      "Якименко Алексей Евгеньевич": 1
+      "gas:candidate-vibid:2552000990706": 0,
+      "gas:candidate-vibid:2552000990468": 33,
+      "gas:candidate-vibid:2552000994508": 7,
+      "gas:candidate-vibid:2552000995687": 0,
+      "gas:candidate-vibid:2552000995793": 4,
+      "gas:candidate-vibid:2552000987502": 4,
+      "gas:candidate-vibid:2552000983027": 6,
+      "gas:candidate-vibid:2552000992049": 2,
+      "gas:candidate-vibid:2552000989939": 0,
+      "gas:candidate-vibid:2552000995754": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897365&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897365&type=464",
@@ -6763,16 +6763,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 1,
-      "Голушко Андрей Иванович": 45,
-      "Денисенко Олег Иванович": 5,
-      "Колесников Олег Юрьевич": 2,
-      "Кочетков Сергей Петрович": 0,
-      "Кравцов Александр Владимирович": 0,
-      "Ложкин Алексей Николаевич": 8,
-      "Мельников Борис Викторович": 0,
-      "Подзоров Александр Георгиевич": 2,
-      "Якименко Алексей Евгеньевич": 0
+      "gas:candidate-vibid:2552000990706": 1,
+      "gas:candidate-vibid:2552000990468": 45,
+      "gas:candidate-vibid:2552000994508": 5,
+      "gas:candidate-vibid:2552000995687": 2,
+      "gas:candidate-vibid:2552000995793": 0,
+      "gas:candidate-vibid:2552000987502": 0,
+      "gas:candidate-vibid:2552000983027": 8,
+      "gas:candidate-vibid:2552000992049": 0,
+      "gas:candidate-vibid:2552000989939": 2,
+      "gas:candidate-vibid:2552000995754": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897365&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897365&type=464",
@@ -6823,16 +6823,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 0,
-      "Голушко Андрей Иванович": 34,
-      "Денисенко Олег Иванович": 10,
-      "Колесников Олег Юрьевич": 1,
-      "Кочетков Сергей Петрович": 0,
-      "Кравцов Александр Владимирович": 1,
-      "Ложкин Алексей Николаевич": 15,
-      "Мельников Борис Викторович": 0,
-      "Подзоров Александр Георгиевич": 6,
-      "Якименко Алексей Евгеньевич": 0
+      "gas:candidate-vibid:2552000990706": 0,
+      "gas:candidate-vibid:2552000990468": 34,
+      "gas:candidate-vibid:2552000994508": 10,
+      "gas:candidate-vibid:2552000995687": 1,
+      "gas:candidate-vibid:2552000995793": 0,
+      "gas:candidate-vibid:2552000987502": 1,
+      "gas:candidate-vibid:2552000983027": 15,
+      "gas:candidate-vibid:2552000992049": 0,
+      "gas:candidate-vibid:2552000989939": 6,
+      "gas:candidate-vibid:2552000995754": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897365&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897365&type=464",
@@ -6883,16 +6883,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 3,
-      "Голушко Андрей Иванович": 97,
-      "Денисенко Олег Иванович": 21,
-      "Колесников Олег Юрьевич": 0,
-      "Кочетков Сергей Петрович": 1,
-      "Кравцов Александр Владимирович": 5,
-      "Ложкин Алексей Николаевич": 19,
-      "Мельников Борис Викторович": 0,
-      "Подзоров Александр Георгиевич": 4,
-      "Якименко Алексей Евгеньевич": 0
+      "gas:candidate-vibid:2552000990706": 3,
+      "gas:candidate-vibid:2552000990468": 97,
+      "gas:candidate-vibid:2552000994508": 21,
+      "gas:candidate-vibid:2552000995687": 0,
+      "gas:candidate-vibid:2552000995793": 1,
+      "gas:candidate-vibid:2552000987502": 5,
+      "gas:candidate-vibid:2552000983027": 19,
+      "gas:candidate-vibid:2552000992049": 0,
+      "gas:candidate-vibid:2552000989939": 4,
+      "gas:candidate-vibid:2552000995754": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897365&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897365&type=464",
@@ -6943,16 +6943,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 0,
-      "Голушко Андрей Иванович": 50,
-      "Денисенко Олег Иванович": 12,
-      "Колесников Олег Юрьевич": 0,
-      "Кочетков Сергей Петрович": 1,
-      "Кравцов Александр Владимирович": 4,
-      "Ложкин Алексей Николаевич": 13,
-      "Мельников Борис Викторович": 1,
-      "Подзоров Александр Георгиевич": 1,
-      "Якименко Алексей Евгеньевич": 0
+      "gas:candidate-vibid:2552000990706": 0,
+      "gas:candidate-vibid:2552000990468": 50,
+      "gas:candidate-vibid:2552000994508": 12,
+      "gas:candidate-vibid:2552000995687": 0,
+      "gas:candidate-vibid:2552000995793": 1,
+      "gas:candidate-vibid:2552000987502": 4,
+      "gas:candidate-vibid:2552000983027": 13,
+      "gas:candidate-vibid:2552000992049": 1,
+      "gas:candidate-vibid:2552000989939": 1,
+      "gas:candidate-vibid:2552000995754": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897365&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897365&type=464",
@@ -7003,16 +7003,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 0,
-      "Голушко Андрей Иванович": 32,
-      "Денисенко Олег Иванович": 2,
-      "Колесников Олег Юрьевич": 0,
-      "Кочетков Сергей Петрович": 0,
-      "Кравцов Александр Владимирович": 0,
-      "Ложкин Алексей Николаевич": 9,
-      "Мельников Борис Викторович": 0,
-      "Подзоров Александр Георгиевич": 0,
-      "Якименко Алексей Евгеньевич": 0
+      "gas:candidate-vibid:2552000990706": 0,
+      "gas:candidate-vibid:2552000990468": 32,
+      "gas:candidate-vibid:2552000994508": 2,
+      "gas:candidate-vibid:2552000995687": 0,
+      "gas:candidate-vibid:2552000995793": 0,
+      "gas:candidate-vibid:2552000987502": 0,
+      "gas:candidate-vibid:2552000983027": 9,
+      "gas:candidate-vibid:2552000992049": 0,
+      "gas:candidate-vibid:2552000989939": 0,
+      "gas:candidate-vibid:2552000995754": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897365&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897365&type=464",
@@ -7063,16 +7063,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 3,
-      "Голушко Андрей Иванович": 86,
-      "Денисенко Олег Иванович": 41,
-      "Колесников Олег Юрьевич": 2,
-      "Кочетков Сергей Петрович": 1,
-      "Кравцов Александр Владимирович": 15,
-      "Ложкин Алексей Николаевич": 21,
-      "Мельников Борис Викторович": 0,
-      "Подзоров Александр Георгиевич": 12,
-      "Якименко Алексей Евгеньевич": 0
+      "gas:candidate-vibid:2552000990706": 3,
+      "gas:candidate-vibid:2552000990468": 86,
+      "gas:candidate-vibid:2552000994508": 41,
+      "gas:candidate-vibid:2552000995687": 2,
+      "gas:candidate-vibid:2552000995793": 1,
+      "gas:candidate-vibid:2552000987502": 15,
+      "gas:candidate-vibid:2552000983027": 21,
+      "gas:candidate-vibid:2552000992049": 0,
+      "gas:candidate-vibid:2552000989939": 12,
+      "gas:candidate-vibid:2552000995754": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897365&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897365&type=464",
@@ -7123,16 +7123,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 4,
-      "Голушко Андрей Иванович": 145,
-      "Денисенко Олег Иванович": 104,
-      "Колесников Олег Юрьевич": 3,
-      "Кочетков Сергей Петрович": 9,
-      "Кравцов Александр Владимирович": 13,
-      "Ложкин Алексей Николаевич": 53,
-      "Мельников Борис Викторович": 3,
-      "Подзоров Александр Георгиевич": 20,
-      "Якименко Алексей Евгеньевич": 1
+      "gas:candidate-vibid:2552000990706": 4,
+      "gas:candidate-vibid:2552000990468": 145,
+      "gas:candidate-vibid:2552000994508": 104,
+      "gas:candidate-vibid:2552000995687": 3,
+      "gas:candidate-vibid:2552000995793": 9,
+      "gas:candidate-vibid:2552000987502": 13,
+      "gas:candidate-vibid:2552000983027": 53,
+      "gas:candidate-vibid:2552000992049": 3,
+      "gas:candidate-vibid:2552000989939": 20,
+      "gas:candidate-vibid:2552000995754": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897365&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897365&type=464",
@@ -7183,16 +7183,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 4,
-      "Голушко Андрей Иванович": 185,
-      "Денисенко Олег Иванович": 101,
-      "Колесников Олег Юрьевич": 4,
-      "Кочетков Сергей Петрович": 2,
-      "Кравцов Александр Владимирович": 17,
-      "Ложкин Алексей Николаевич": 55,
-      "Мельников Борис Викторович": 1,
-      "Подзоров Александр Георгиевич": 17,
-      "Якименко Алексей Евгеньевич": 2
+      "gas:candidate-vibid:2552000990706": 4,
+      "gas:candidate-vibid:2552000990468": 185,
+      "gas:candidate-vibid:2552000994508": 101,
+      "gas:candidate-vibid:2552000995687": 4,
+      "gas:candidate-vibid:2552000995793": 2,
+      "gas:candidate-vibid:2552000987502": 17,
+      "gas:candidate-vibid:2552000983027": 55,
+      "gas:candidate-vibid:2552000992049": 1,
+      "gas:candidate-vibid:2552000989939": 17,
+      "gas:candidate-vibid:2552000995754": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897365&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897365&type=464",
@@ -7243,16 +7243,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 9,
-      "Голушко Андрей Иванович": 179,
-      "Денисенко Олег Иванович": 95,
-      "Колесников Олег Юрьевич": 6,
-      "Кочетков Сергей Петрович": 10,
-      "Кравцов Александр Владимирович": 11,
-      "Ложкин Алексей Николаевич": 60,
-      "Мельников Борис Викторович": 3,
-      "Подзоров Александр Георгиевич": 27,
-      "Якименко Алексей Евгеньевич": 6
+      "gas:candidate-vibid:2552000990706": 9,
+      "gas:candidate-vibid:2552000990468": 179,
+      "gas:candidate-vibid:2552000994508": 95,
+      "gas:candidate-vibid:2552000995687": 6,
+      "gas:candidate-vibid:2552000995793": 10,
+      "gas:candidate-vibid:2552000987502": 11,
+      "gas:candidate-vibid:2552000983027": 60,
+      "gas:candidate-vibid:2552000992049": 3,
+      "gas:candidate-vibid:2552000989939": 27,
+      "gas:candidate-vibid:2552000995754": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897365&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897365&type=464",
@@ -7303,16 +7303,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 4,
-      "Голушко Андрей Иванович": 168,
-      "Денисенко Олег Иванович": 57,
-      "Колесников Олег Юрьевич": 1,
-      "Кочетков Сергей Петрович": 4,
-      "Кравцов Александр Владимирович": 15,
-      "Ложкин Алексей Николаевич": 62,
-      "Мельников Борис Викторович": 1,
-      "Подзоров Александр Георгиевич": 18,
-      "Якименко Алексей Евгеньевич": 5
+      "gas:candidate-vibid:2552000990706": 4,
+      "gas:candidate-vibid:2552000990468": 168,
+      "gas:candidate-vibid:2552000994508": 57,
+      "gas:candidate-vibid:2552000995687": 1,
+      "gas:candidate-vibid:2552000995793": 4,
+      "gas:candidate-vibid:2552000987502": 15,
+      "gas:candidate-vibid:2552000983027": 62,
+      "gas:candidate-vibid:2552000992049": 1,
+      "gas:candidate-vibid:2552000989939": 18,
+      "gas:candidate-vibid:2552000995754": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897365&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897365&type=464",
@@ -7363,16 +7363,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 2,
-      "Голушко Андрей Иванович": 163,
-      "Денисенко Олег Иванович": 93,
-      "Колесников Олег Юрьевич": 1,
-      "Кочетков Сергей Петрович": 7,
-      "Кравцов Александр Владимирович": 18,
-      "Ложкин Алексей Николаевич": 43,
-      "Мельников Борис Викторович": 5,
-      "Подзоров Александр Георгиевич": 25,
-      "Якименко Алексей Евгеньевич": 0
+      "gas:candidate-vibid:2552000990706": 2,
+      "gas:candidate-vibid:2552000990468": 163,
+      "gas:candidate-vibid:2552000994508": 93,
+      "gas:candidate-vibid:2552000995687": 1,
+      "gas:candidate-vibid:2552000995793": 7,
+      "gas:candidate-vibid:2552000987502": 18,
+      "gas:candidate-vibid:2552000983027": 43,
+      "gas:candidate-vibid:2552000992049": 5,
+      "gas:candidate-vibid:2552000989939": 25,
+      "gas:candidate-vibid:2552000995754": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897365&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897365&type=464",
@@ -7423,16 +7423,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 4,
-      "Голушко Андрей Иванович": 189,
-      "Денисенко Олег Иванович": 127,
-      "Колесников Олег Юрьевич": 1,
-      "Кочетков Сергей Петрович": 3,
-      "Кравцов Александр Владимирович": 23,
-      "Ложкин Алексей Николаевич": 51,
-      "Мельников Борис Викторович": 6,
-      "Подзоров Александр Георгиевич": 20,
-      "Якименко Алексей Евгеньевич": 3
+      "gas:candidate-vibid:2552000990706": 4,
+      "gas:candidate-vibid:2552000990468": 189,
+      "gas:candidate-vibid:2552000994508": 127,
+      "gas:candidate-vibid:2552000995687": 1,
+      "gas:candidate-vibid:2552000995793": 3,
+      "gas:candidate-vibid:2552000987502": 23,
+      "gas:candidate-vibid:2552000983027": 51,
+      "gas:candidate-vibid:2552000992049": 6,
+      "gas:candidate-vibid:2552000989939": 20,
+      "gas:candidate-vibid:2552000995754": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897365&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897365&type=464",
@@ -7483,16 +7483,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 2,
-      "Голушко Андрей Иванович": 42,
-      "Денисенко Олег Иванович": 42,
-      "Колесников Олег Юрьевич": 0,
-      "Кочетков Сергей Петрович": 1,
-      "Кравцов Александр Владимирович": 2,
-      "Ложкин Алексей Николаевич": 5,
-      "Мельников Борис Викторович": 0,
-      "Подзоров Александр Георгиевич": 22,
-      "Якименко Алексей Евгеньевич": 2
+      "gas:candidate-vibid:2552000990706": 2,
+      "gas:candidate-vibid:2552000990468": 42,
+      "gas:candidate-vibid:2552000994508": 42,
+      "gas:candidate-vibid:2552000995687": 0,
+      "gas:candidate-vibid:2552000995793": 1,
+      "gas:candidate-vibid:2552000987502": 2,
+      "gas:candidate-vibid:2552000983027": 5,
+      "gas:candidate-vibid:2552000992049": 0,
+      "gas:candidate-vibid:2552000989939": 22,
+      "gas:candidate-vibid:2552000995754": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897365&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897365&type=464",
@@ -7543,16 +7543,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 6,
-      "Голушко Андрей Иванович": 162,
-      "Денисенко Олег Иванович": 94,
-      "Колесников Олег Юрьевич": 7,
-      "Кочетков Сергей Петрович": 4,
-      "Кравцов Александр Владимирович": 27,
-      "Ложкин Алексей Николаевич": 66,
-      "Мельников Борис Викторович": 2,
-      "Подзоров Александр Георгиевич": 24,
-      "Якименко Алексей Евгеньевич": 0
+      "gas:candidate-vibid:2552000990706": 6,
+      "gas:candidate-vibid:2552000990468": 162,
+      "gas:candidate-vibid:2552000994508": 94,
+      "gas:candidate-vibid:2552000995687": 7,
+      "gas:candidate-vibid:2552000995793": 4,
+      "gas:candidate-vibid:2552000987502": 27,
+      "gas:candidate-vibid:2552000983027": 66,
+      "gas:candidate-vibid:2552000992049": 2,
+      "gas:candidate-vibid:2552000989939": 24,
+      "gas:candidate-vibid:2552000995754": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897366&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897366&type=464",
@@ -7603,16 +7603,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 6,
-      "Голушко Андрей Иванович": 60,
-      "Денисенко Олег Иванович": 50,
-      "Колесников Олег Юрьевич": 2,
-      "Кочетков Сергей Петрович": 0,
-      "Кравцов Александр Владимирович": 3,
-      "Ложкин Алексей Николаевич": 20,
-      "Мельников Борис Викторович": 1,
-      "Подзоров Александр Георгиевич": 3,
-      "Якименко Алексей Евгеньевич": 0
+      "gas:candidate-vibid:2552000990706": 6,
+      "gas:candidate-vibid:2552000990468": 60,
+      "gas:candidate-vibid:2552000994508": 50,
+      "gas:candidate-vibid:2552000995687": 2,
+      "gas:candidate-vibid:2552000995793": 0,
+      "gas:candidate-vibid:2552000987502": 3,
+      "gas:candidate-vibid:2552000983027": 20,
+      "gas:candidate-vibid:2552000992049": 1,
+      "gas:candidate-vibid:2552000989939": 3,
+      "gas:candidate-vibid:2552000995754": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897366&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897366&type=464",
@@ -7663,16 +7663,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 2,
-      "Голушко Андрей Иванович": 80,
-      "Денисенко Олег Иванович": 62,
-      "Колесников Олег Юрьевич": 3,
-      "Кочетков Сергей Петрович": 1,
-      "Кравцов Александр Владимирович": 10,
-      "Ложкин Алексей Николаевич": 25,
-      "Мельников Борис Викторович": 1,
-      "Подзоров Александр Георгиевич": 8,
-      "Якименко Алексей Евгеньевич": 0
+      "gas:candidate-vibid:2552000990706": 2,
+      "gas:candidate-vibid:2552000990468": 80,
+      "gas:candidate-vibid:2552000994508": 62,
+      "gas:candidate-vibid:2552000995687": 3,
+      "gas:candidate-vibid:2552000995793": 1,
+      "gas:candidate-vibid:2552000987502": 10,
+      "gas:candidate-vibid:2552000983027": 25,
+      "gas:candidate-vibid:2552000992049": 1,
+      "gas:candidate-vibid:2552000989939": 8,
+      "gas:candidate-vibid:2552000995754": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897366&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897366&type=464",
@@ -7723,16 +7723,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 4,
-      "Голушко Андрей Иванович": 210,
-      "Денисенко Олег Иванович": 149,
-      "Колесников Олег Юрьевич": 10,
-      "Кочетков Сергей Петрович": 5,
-      "Кравцов Александр Владимирович": 16,
-      "Ложкин Алексей Николаевич": 62,
-      "Мельников Борис Викторович": 3,
-      "Подзоров Александр Георгиевич": 28,
-      "Якименко Алексей Евгеньевич": 3
+      "gas:candidate-vibid:2552000990706": 4,
+      "gas:candidate-vibid:2552000990468": 210,
+      "gas:candidate-vibid:2552000994508": 149,
+      "gas:candidate-vibid:2552000995687": 10,
+      "gas:candidate-vibid:2552000995793": 5,
+      "gas:candidate-vibid:2552000987502": 16,
+      "gas:candidate-vibid:2552000983027": 62,
+      "gas:candidate-vibid:2552000992049": 3,
+      "gas:candidate-vibid:2552000989939": 28,
+      "gas:candidate-vibid:2552000995754": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897366&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897366&type=464",
@@ -7783,16 +7783,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 4,
-      "Голушко Андрей Иванович": 55,
-      "Денисенко Олег Иванович": 17,
-      "Колесников Олег Юрьевич": 7,
-      "Кочетков Сергей Петрович": 2,
-      "Кравцов Александр Владимирович": 5,
-      "Ложкин Алексей Николаевич": 5,
-      "Мельников Борис Викторович": 2,
-      "Подзоров Александр Георгиевич": 0,
-      "Якименко Алексей Евгеньевич": 1
+      "gas:candidate-vibid:2552000990706": 4,
+      "gas:candidate-vibid:2552000990468": 55,
+      "gas:candidate-vibid:2552000994508": 17,
+      "gas:candidate-vibid:2552000995687": 7,
+      "gas:candidate-vibid:2552000995793": 2,
+      "gas:candidate-vibid:2552000987502": 5,
+      "gas:candidate-vibid:2552000983027": 5,
+      "gas:candidate-vibid:2552000992049": 2,
+      "gas:candidate-vibid:2552000989939": 0,
+      "gas:candidate-vibid:2552000995754": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897366&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897366&type=464",
@@ -7843,16 +7843,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 6,
-      "Голушко Андрей Иванович": 177,
-      "Денисенко Олег Иванович": 121,
-      "Колесников Олег Юрьевич": 2,
-      "Кочетков Сергей Петрович": 6,
-      "Кравцов Александр Владимирович": 19,
-      "Ложкин Алексей Николаевич": 52,
-      "Мельников Борис Викторович": 0,
-      "Подзоров Александр Георгиевич": 23,
-      "Якименко Алексей Евгеньевич": 0
+      "gas:candidate-vibid:2552000990706": 6,
+      "gas:candidate-vibid:2552000990468": 177,
+      "gas:candidate-vibid:2552000994508": 121,
+      "gas:candidate-vibid:2552000995687": 2,
+      "gas:candidate-vibid:2552000995793": 6,
+      "gas:candidate-vibid:2552000987502": 19,
+      "gas:candidate-vibid:2552000983027": 52,
+      "gas:candidate-vibid:2552000992049": 0,
+      "gas:candidate-vibid:2552000989939": 23,
+      "gas:candidate-vibid:2552000995754": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897366&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897366&type=464",
@@ -7903,16 +7903,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 3,
-      "Голушко Андрей Иванович": 202,
-      "Денисенко Олег Иванович": 98,
-      "Колесников Олег Юрьевич": 9,
-      "Кочетков Сергей Петрович": 5,
-      "Кравцов Александр Владимирович": 26,
-      "Ложкин Алексей Николаевич": 42,
-      "Мельников Борис Викторович": 3,
-      "Подзоров Александр Георгиевич": 15,
-      "Якименко Алексей Евгеньевич": 5
+      "gas:candidate-vibid:2552000990706": 3,
+      "gas:candidate-vibid:2552000990468": 202,
+      "gas:candidate-vibid:2552000994508": 98,
+      "gas:candidate-vibid:2552000995687": 9,
+      "gas:candidate-vibid:2552000995793": 5,
+      "gas:candidate-vibid:2552000987502": 26,
+      "gas:candidate-vibid:2552000983027": 42,
+      "gas:candidate-vibid:2552000992049": 3,
+      "gas:candidate-vibid:2552000989939": 15,
+      "gas:candidate-vibid:2552000995754": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897366&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897366&type=464",
@@ -7963,16 +7963,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 7,
-      "Голушко Андрей Иванович": 223,
-      "Денисенко Олег Иванович": 125,
-      "Колесников Олег Юрьевич": 8,
-      "Кочетков Сергей Петрович": 7,
-      "Кравцов Александр Владимирович": 26,
-      "Ложкин Алексей Николаевич": 81,
-      "Мельников Борис Викторович": 8,
-      "Подзоров Александр Георгиевич": 26,
-      "Якименко Алексей Евгеньевич": 5
+      "gas:candidate-vibid:2552000990706": 7,
+      "gas:candidate-vibid:2552000990468": 223,
+      "gas:candidate-vibid:2552000994508": 125,
+      "gas:candidate-vibid:2552000995687": 8,
+      "gas:candidate-vibid:2552000995793": 7,
+      "gas:candidate-vibid:2552000987502": 26,
+      "gas:candidate-vibid:2552000983027": 81,
+      "gas:candidate-vibid:2552000992049": 8,
+      "gas:candidate-vibid:2552000989939": 26,
+      "gas:candidate-vibid:2552000995754": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897366&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897366&type=464",
@@ -8023,16 +8023,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 4,
-      "Голушко Андрей Иванович": 162,
-      "Денисенко Олег Иванович": 134,
-      "Колесников Олег Юрьевич": 5,
-      "Кочетков Сергей Петрович": 7,
-      "Кравцов Александр Владимирович": 26,
-      "Ложкин Алексей Николаевич": 63,
-      "Мельников Борис Викторович": 8,
-      "Подзоров Александр Георгиевич": 13,
-      "Якименко Алексей Евгеньевич": 2
+      "gas:candidate-vibid:2552000990706": 4,
+      "gas:candidate-vibid:2552000990468": 162,
+      "gas:candidate-vibid:2552000994508": 134,
+      "gas:candidate-vibid:2552000995687": 5,
+      "gas:candidate-vibid:2552000995793": 7,
+      "gas:candidate-vibid:2552000987502": 26,
+      "gas:candidate-vibid:2552000983027": 63,
+      "gas:candidate-vibid:2552000992049": 8,
+      "gas:candidate-vibid:2552000989939": 13,
+      "gas:candidate-vibid:2552000995754": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897366&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897366&type=464",
@@ -8083,16 +8083,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 7,
-      "Голушко Андрей Иванович": 197,
-      "Денисенко Олег Иванович": 102,
-      "Колесников Олег Юрьевич": 6,
-      "Кочетков Сергей Петрович": 5,
-      "Кравцов Александр Владимирович": 33,
-      "Ложкин Алексей Николаевич": 44,
-      "Мельников Борис Викторович": 6,
-      "Подзоров Александр Георгиевич": 20,
-      "Якименко Алексей Евгеньевич": 7
+      "gas:candidate-vibid:2552000990706": 7,
+      "gas:candidate-vibid:2552000990468": 197,
+      "gas:candidate-vibid:2552000994508": 102,
+      "gas:candidate-vibid:2552000995687": 6,
+      "gas:candidate-vibid:2552000995793": 5,
+      "gas:candidate-vibid:2552000987502": 33,
+      "gas:candidate-vibid:2552000983027": 44,
+      "gas:candidate-vibid:2552000992049": 6,
+      "gas:candidate-vibid:2552000989939": 20,
+      "gas:candidate-vibid:2552000995754": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897366&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897366&type=464",
@@ -8143,16 +8143,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 3,
-      "Голушко Андрей Иванович": 205,
-      "Денисенко Олег Иванович": 201,
-      "Колесников Олег Юрьевич": 4,
-      "Кочетков Сергей Петрович": 4,
-      "Кравцов Александр Владимирович": 26,
-      "Ложкин Алексей Николаевич": 57,
-      "Мельников Борис Викторович": 6,
-      "Подзоров Александр Георгиевич": 25,
-      "Якименко Алексей Евгеньевич": 7
+      "gas:candidate-vibid:2552000990706": 3,
+      "gas:candidate-vibid:2552000990468": 205,
+      "gas:candidate-vibid:2552000994508": 201,
+      "gas:candidate-vibid:2552000995687": 4,
+      "gas:candidate-vibid:2552000995793": 4,
+      "gas:candidate-vibid:2552000987502": 26,
+      "gas:candidate-vibid:2552000983027": 57,
+      "gas:candidate-vibid:2552000992049": 6,
+      "gas:candidate-vibid:2552000989939": 25,
+      "gas:candidate-vibid:2552000995754": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897366&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897366&type=464",
@@ -8203,16 +8203,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 7,
-      "Голушко Андрей Иванович": 209,
-      "Денисенко Олег Иванович": 147,
-      "Колесников Олег Юрьевич": 5,
-      "Кочетков Сергей Петрович": 5,
-      "Кравцов Александр Владимирович": 32,
-      "Ложкин Алексей Николаевич": 48,
-      "Мельников Борис Викторович": 13,
-      "Подзоров Александр Георгиевич": 23,
-      "Якименко Алексей Евгеньевич": 7
+      "gas:candidate-vibid:2552000990706": 7,
+      "gas:candidate-vibid:2552000990468": 209,
+      "gas:candidate-vibid:2552000994508": 147,
+      "gas:candidate-vibid:2552000995687": 5,
+      "gas:candidate-vibid:2552000995793": 5,
+      "gas:candidate-vibid:2552000987502": 32,
+      "gas:candidate-vibid:2552000983027": 48,
+      "gas:candidate-vibid:2552000992049": 13,
+      "gas:candidate-vibid:2552000989939": 23,
+      "gas:candidate-vibid:2552000995754": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897366&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897366&type=464",
@@ -8263,16 +8263,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 2,
-      "Голушко Андрей Иванович": 92,
-      "Денисенко Олег Иванович": 54,
-      "Колесников Олег Юрьевич": 1,
-      "Кочетков Сергей Петрович": 5,
-      "Кравцов Александр Владимирович": 10,
-      "Ложкин Алексей Николаевич": 35,
-      "Мельников Борис Викторович": 3,
-      "Подзоров Александр Георгиевич": 11,
-      "Якименко Алексей Евгеньевич": 3
+      "gas:candidate-vibid:2552000990706": 2,
+      "gas:candidate-vibid:2552000990468": 92,
+      "gas:candidate-vibid:2552000994508": 54,
+      "gas:candidate-vibid:2552000995687": 1,
+      "gas:candidate-vibid:2552000995793": 5,
+      "gas:candidate-vibid:2552000987502": 10,
+      "gas:candidate-vibid:2552000983027": 35,
+      "gas:candidate-vibid:2552000992049": 3,
+      "gas:candidate-vibid:2552000989939": 11,
+      "gas:candidate-vibid:2552000995754": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897366&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897366&type=464",
@@ -8323,16 +8323,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 3,
-      "Голушко Андрей Иванович": 70,
-      "Денисенко Олег Иванович": 52,
-      "Колесников Олег Юрьевич": 3,
-      "Кочетков Сергей Петрович": 4,
-      "Кравцов Александр Владимирович": 23,
-      "Ложкин Алексей Николаевич": 31,
-      "Мельников Борис Викторович": 3,
-      "Подзоров Александр Георгиевич": 11,
-      "Якименко Алексей Евгеньевич": 3
+      "gas:candidate-vibid:2552000990706": 3,
+      "gas:candidate-vibid:2552000990468": 70,
+      "gas:candidate-vibid:2552000994508": 52,
+      "gas:candidate-vibid:2552000995687": 3,
+      "gas:candidate-vibid:2552000995793": 4,
+      "gas:candidate-vibid:2552000987502": 23,
+      "gas:candidate-vibid:2552000983027": 31,
+      "gas:candidate-vibid:2552000992049": 3,
+      "gas:candidate-vibid:2552000989939": 11,
+      "gas:candidate-vibid:2552000995754": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897366&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897366&type=464",
@@ -8383,16 +8383,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 3,
-      "Голушко Андрей Иванович": 138,
-      "Денисенко Олег Иванович": 94,
-      "Колесников Олег Юрьевич": 1,
-      "Кочетков Сергей Петрович": 6,
-      "Кравцов Александр Владимирович": 24,
-      "Ложкин Алексей Николаевич": 48,
-      "Мельников Борис Викторович": 9,
-      "Подзоров Александр Георгиевич": 11,
-      "Якименко Алексей Евгеньевич": 3
+      "gas:candidate-vibid:2552000990706": 3,
+      "gas:candidate-vibid:2552000990468": 138,
+      "gas:candidate-vibid:2552000994508": 94,
+      "gas:candidate-vibid:2552000995687": 1,
+      "gas:candidate-vibid:2552000995793": 6,
+      "gas:candidate-vibid:2552000987502": 24,
+      "gas:candidate-vibid:2552000983027": 48,
+      "gas:candidate-vibid:2552000992049": 9,
+      "gas:candidate-vibid:2552000989939": 11,
+      "gas:candidate-vibid:2552000995754": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897366&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897366&type=464",
@@ -8443,16 +8443,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 9,
-      "Голушко Андрей Иванович": 210,
-      "Денисенко Олег Иванович": 135,
-      "Колесников Олег Юрьевич": 11,
-      "Кочетков Сергей Петрович": 10,
-      "Кравцов Александр Владимирович": 23,
-      "Ложкин Алексей Николаевич": 85,
-      "Мельников Борис Викторович": 3,
-      "Подзоров Александр Георгиевич": 25,
-      "Якименко Алексей Евгеньевич": 4
+      "gas:candidate-vibid:2552000990706": 9,
+      "gas:candidate-vibid:2552000990468": 210,
+      "gas:candidate-vibid:2552000994508": 135,
+      "gas:candidate-vibid:2552000995687": 11,
+      "gas:candidate-vibid:2552000995793": 10,
+      "gas:candidate-vibid:2552000987502": 23,
+      "gas:candidate-vibid:2552000983027": 85,
+      "gas:candidate-vibid:2552000992049": 3,
+      "gas:candidate-vibid:2552000989939": 25,
+      "gas:candidate-vibid:2552000995754": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897366&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897366&type=464",
@@ -8503,16 +8503,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 2,
-      "Голушко Андрей Иванович": 128,
-      "Денисенко Олег Иванович": 78,
-      "Колесников Олег Юрьевич": 5,
-      "Кочетков Сергей Петрович": 6,
-      "Кравцов Александр Владимирович": 22,
-      "Ложкин Алексей Николаевич": 47,
-      "Мельников Борис Викторович": 5,
-      "Подзоров Александр Георгиевич": 23,
-      "Якименко Алексей Евгеньевич": 4
+      "gas:candidate-vibid:2552000990706": 2,
+      "gas:candidate-vibid:2552000990468": 128,
+      "gas:candidate-vibid:2552000994508": 78,
+      "gas:candidate-vibid:2552000995687": 5,
+      "gas:candidate-vibid:2552000995793": 6,
+      "gas:candidate-vibid:2552000987502": 22,
+      "gas:candidate-vibid:2552000983027": 47,
+      "gas:candidate-vibid:2552000992049": 5,
+      "gas:candidate-vibid:2552000989939": 23,
+      "gas:candidate-vibid:2552000995754": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897366&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897366&type=464",
@@ -8563,16 +8563,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 7,
-      "Голушко Андрей Иванович": 231,
-      "Денисенко Олег Иванович": 116,
-      "Колесников Олег Юрьевич": 9,
-      "Кочетков Сергей Петрович": 4,
-      "Кравцов Александр Владимирович": 24,
-      "Ложкин Алексей Николаевич": 59,
-      "Мельников Борис Викторович": 2,
-      "Подзоров Александр Георгиевич": 23,
-      "Якименко Алексей Евгеньевич": 3
+      "gas:candidate-vibid:2552000990706": 7,
+      "gas:candidate-vibid:2552000990468": 231,
+      "gas:candidate-vibid:2552000994508": 116,
+      "gas:candidate-vibid:2552000995687": 9,
+      "gas:candidate-vibid:2552000995793": 4,
+      "gas:candidate-vibid:2552000987502": 24,
+      "gas:candidate-vibid:2552000983027": 59,
+      "gas:candidate-vibid:2552000992049": 2,
+      "gas:candidate-vibid:2552000989939": 23,
+      "gas:candidate-vibid:2552000995754": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897366&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897366&type=464",
@@ -8623,16 +8623,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 8,
-      "Голушко Андрей Иванович": 184,
-      "Денисенко Олег Иванович": 122,
-      "Колесников Олег Юрьевич": 8,
-      "Кочетков Сергей Петрович": 6,
-      "Кравцов Александр Владимирович": 24,
-      "Ложкин Алексей Николаевич": 70,
-      "Мельников Борис Викторович": 10,
-      "Подзоров Александр Георгиевич": 16,
-      "Якименко Алексей Евгеньевич": 4
+      "gas:candidate-vibid:2552000990706": 8,
+      "gas:candidate-vibid:2552000990468": 184,
+      "gas:candidate-vibid:2552000994508": 122,
+      "gas:candidate-vibid:2552000995687": 8,
+      "gas:candidate-vibid:2552000995793": 6,
+      "gas:candidate-vibid:2552000987502": 24,
+      "gas:candidate-vibid:2552000983027": 70,
+      "gas:candidate-vibid:2552000992049": 10,
+      "gas:candidate-vibid:2552000989939": 16,
+      "gas:candidate-vibid:2552000995754": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897366&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897366&type=464",
@@ -8683,16 +8683,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 2,
-      "Голушко Андрей Иванович": 182,
-      "Денисенко Олег Иванович": 15,
-      "Колесников Олег Юрьевич": 4,
-      "Кочетков Сергей Петрович": 1,
-      "Кравцов Александр Владимирович": 6,
-      "Ложкин Алексей Николаевич": 6,
-      "Мельников Борис Викторович": 3,
-      "Подзоров Александр Георгиевич": 3,
-      "Якименко Алексей Евгеньевич": 2
+      "gas:candidate-vibid:2552000990706": 2,
+      "gas:candidate-vibid:2552000990468": 182,
+      "gas:candidate-vibid:2552000994508": 15,
+      "gas:candidate-vibid:2552000995687": 4,
+      "gas:candidate-vibid:2552000995793": 1,
+      "gas:candidate-vibid:2552000987502": 6,
+      "gas:candidate-vibid:2552000983027": 6,
+      "gas:candidate-vibid:2552000992049": 3,
+      "gas:candidate-vibid:2552000989939": 3,
+      "gas:candidate-vibid:2552000995754": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897366&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897366&type=464",
@@ -8743,16 +8743,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 0,
-      "Голушко Андрей Иванович": 141,
-      "Денисенко Олег Иванович": 2,
-      "Колесников Олег Юрьевич": 0,
-      "Кочетков Сергей Петрович": 0,
-      "Кравцов Александр Владимирович": 0,
-      "Ложкин Алексей Николаевич": 1,
-      "Мельников Борис Викторович": 0,
-      "Подзоров Александр Георгиевич": 0,
-      "Якименко Алексей Евгеньевич": 0
+      "gas:candidate-vibid:2552000990706": 0,
+      "gas:candidate-vibid:2552000990468": 141,
+      "gas:candidate-vibid:2552000994508": 2,
+      "gas:candidate-vibid:2552000995687": 0,
+      "gas:candidate-vibid:2552000995793": 0,
+      "gas:candidate-vibid:2552000987502": 0,
+      "gas:candidate-vibid:2552000983027": 1,
+      "gas:candidate-vibid:2552000992049": 0,
+      "gas:candidate-vibid:2552000989939": 0,
+      "gas:candidate-vibid:2552000995754": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897366&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897366&type=464",
@@ -8803,16 +8803,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 3,
-      "Голушко Андрей Иванович": 220,
-      "Денисенко Олег Иванович": 10,
-      "Колесников Олег Юрьевич": 4,
-      "Кочетков Сергей Петрович": 0,
-      "Кравцов Александр Владимирович": 5,
-      "Ложкин Алексей Николаевич": 9,
-      "Мельников Борис Викторович": 2,
-      "Подзоров Александр Георгиевич": 2,
-      "Якименко Алексей Евгеньевич": 0
+      "gas:candidate-vibid:2552000990706": 3,
+      "gas:candidate-vibid:2552000990468": 220,
+      "gas:candidate-vibid:2552000994508": 10,
+      "gas:candidate-vibid:2552000995687": 4,
+      "gas:candidate-vibid:2552000995793": 0,
+      "gas:candidate-vibid:2552000987502": 5,
+      "gas:candidate-vibid:2552000983027": 9,
+      "gas:candidate-vibid:2552000992049": 2,
+      "gas:candidate-vibid:2552000989939": 2,
+      "gas:candidate-vibid:2552000995754": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897366&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897366&type=464",
@@ -8863,16 +8863,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 0,
-      "Голушко Андрей Иванович": 31,
-      "Денисенко Олег Иванович": 0,
-      "Колесников Олег Юрьевич": 1,
-      "Кочетков Сергей Петрович": 0,
-      "Кравцов Александр Владимирович": 1,
-      "Ложкин Алексей Николаевич": 5,
-      "Мельников Борис Викторович": 0,
-      "Подзоров Александр Георгиевич": 1,
-      "Якименко Алексей Евгеньевич": 0
+      "gas:candidate-vibid:2552000990706": 0,
+      "gas:candidate-vibid:2552000990468": 31,
+      "gas:candidate-vibid:2552000994508": 0,
+      "gas:candidate-vibid:2552000995687": 1,
+      "gas:candidate-vibid:2552000995793": 0,
+      "gas:candidate-vibid:2552000987502": 1,
+      "gas:candidate-vibid:2552000983027": 5,
+      "gas:candidate-vibid:2552000992049": 0,
+      "gas:candidate-vibid:2552000989939": 1,
+      "gas:candidate-vibid:2552000995754": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897366&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897366&type=464",
@@ -8923,16 +8923,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 3,
-      "Голушко Андрей Иванович": 102,
-      "Денисенко Олег Иванович": 12,
-      "Колесников Олег Юрьевич": 2,
-      "Кочетков Сергей Петрович": 1,
-      "Кравцов Александр Владимирович": 3,
-      "Ложкин Алексей Николаевич": 10,
-      "Мельников Борис Викторович": 0,
-      "Подзоров Александр Георгиевич": 2,
-      "Якименко Алексей Евгеньевич": 2
+      "gas:candidate-vibid:2552000990706": 3,
+      "gas:candidate-vibid:2552000990468": 102,
+      "gas:candidate-vibid:2552000994508": 12,
+      "gas:candidate-vibid:2552000995687": 2,
+      "gas:candidate-vibid:2552000995793": 1,
+      "gas:candidate-vibid:2552000987502": 3,
+      "gas:candidate-vibid:2552000983027": 10,
+      "gas:candidate-vibid:2552000992049": 0,
+      "gas:candidate-vibid:2552000989939": 2,
+      "gas:candidate-vibid:2552000995754": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897366&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897366&type=464",
@@ -8983,16 +8983,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 2,
-      "Голушко Андрей Иванович": 78,
-      "Денисенко Олег Иванович": 22,
-      "Колесников Олег Юрьевич": 3,
-      "Кочетков Сергей Петрович": 0,
-      "Кравцов Александр Владимирович": 7,
-      "Ложкин Алексей Николаевич": 13,
-      "Мельников Борис Викторович": 1,
-      "Подзоров Александр Георгиевич": 3,
-      "Якименко Алексей Евгеньевич": 0
+      "gas:candidate-vibid:2552000990706": 2,
+      "gas:candidate-vibid:2552000990468": 78,
+      "gas:candidate-vibid:2552000994508": 22,
+      "gas:candidate-vibid:2552000995687": 3,
+      "gas:candidate-vibid:2552000995793": 0,
+      "gas:candidate-vibid:2552000987502": 7,
+      "gas:candidate-vibid:2552000983027": 13,
+      "gas:candidate-vibid:2552000992049": 1,
+      "gas:candidate-vibid:2552000989939": 3,
+      "gas:candidate-vibid:2552000995754": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897366&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897366&type=464",
@@ -9043,16 +9043,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 1,
-      "Голушко Андрей Иванович": 48,
-      "Денисенко Олег Иванович": 11,
-      "Колесников Олег Юрьевич": 1,
-      "Кочетков Сергей Петрович": 1,
-      "Кравцов Александр Владимирович": 6,
-      "Ложкин Алексей Николаевич": 8,
-      "Мельников Борис Викторович": 0,
-      "Подзоров Александр Георгиевич": 2,
-      "Якименко Алексей Евгеньевич": 0
+      "gas:candidate-vibid:2552000990706": 1,
+      "gas:candidate-vibid:2552000990468": 48,
+      "gas:candidate-vibid:2552000994508": 11,
+      "gas:candidate-vibid:2552000995687": 1,
+      "gas:candidate-vibid:2552000995793": 1,
+      "gas:candidate-vibid:2552000987502": 6,
+      "gas:candidate-vibid:2552000983027": 8,
+      "gas:candidate-vibid:2552000992049": 0,
+      "gas:candidate-vibid:2552000989939": 2,
+      "gas:candidate-vibid:2552000995754": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897366&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897366&type=464",
@@ -9103,16 +9103,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 3,
-      "Голушко Андрей Иванович": 162,
-      "Денисенко Олег Иванович": 53,
-      "Колесников Олег Юрьевич": 5,
-      "Кочетков Сергей Петрович": 2,
-      "Кравцов Александр Владимирович": 12,
-      "Ложкин Алексей Николаевич": 37,
-      "Мельников Борис Викторович": 2,
-      "Подзоров Александр Георгиевич": 10,
-      "Якименко Алексей Евгеньевич": 4
+      "gas:candidate-vibid:2552000990706": 3,
+      "gas:candidate-vibid:2552000990468": 162,
+      "gas:candidate-vibid:2552000994508": 53,
+      "gas:candidate-vibid:2552000995687": 5,
+      "gas:candidate-vibid:2552000995793": 2,
+      "gas:candidate-vibid:2552000987502": 12,
+      "gas:candidate-vibid:2552000983027": 37,
+      "gas:candidate-vibid:2552000992049": 2,
+      "gas:candidate-vibid:2552000989939": 10,
+      "gas:candidate-vibid:2552000995754": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897366&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897366&type=464",
@@ -9163,16 +9163,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 2,
-      "Голушко Андрей Иванович": 38,
-      "Денисенко Олег Иванович": 17,
-      "Колесников Олег Юрьевич": 2,
-      "Кочетков Сергей Петрович": 0,
-      "Кравцов Александр Владимирович": 2,
-      "Ложкин Алексей Николаевич": 7,
-      "Мельников Борис Викторович": 0,
-      "Подзоров Александр Георгиевич": 1,
-      "Якименко Алексей Евгеньевич": 1
+      "gas:candidate-vibid:2552000990706": 2,
+      "gas:candidate-vibid:2552000990468": 38,
+      "gas:candidate-vibid:2552000994508": 17,
+      "gas:candidate-vibid:2552000995687": 2,
+      "gas:candidate-vibid:2552000995793": 0,
+      "gas:candidate-vibid:2552000987502": 2,
+      "gas:candidate-vibid:2552000983027": 7,
+      "gas:candidate-vibid:2552000992049": 0,
+      "gas:candidate-vibid:2552000989939": 1,
+      "gas:candidate-vibid:2552000995754": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897366&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897366&type=464",
@@ -9223,16 +9223,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 1,
-      "Голушко Андрей Иванович": 43,
-      "Денисенко Олег Иванович": 25,
-      "Колесников Олег Юрьевич": 0,
-      "Кочетков Сергей Петрович": 2,
-      "Кравцов Александр Владимирович": 5,
-      "Ложкин Алексей Николаевич": 19,
-      "Мельников Борис Викторович": 1,
-      "Подзоров Александр Георгиевич": 9,
-      "Якименко Алексей Евгеньевич": 3
+      "gas:candidate-vibid:2552000990706": 1,
+      "gas:candidate-vibid:2552000990468": 43,
+      "gas:candidate-vibid:2552000994508": 25,
+      "gas:candidate-vibid:2552000995687": 0,
+      "gas:candidate-vibid:2552000995793": 2,
+      "gas:candidate-vibid:2552000987502": 5,
+      "gas:candidate-vibid:2552000983027": 19,
+      "gas:candidate-vibid:2552000992049": 1,
+      "gas:candidate-vibid:2552000989939": 9,
+      "gas:candidate-vibid:2552000995754": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897366&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897366&type=464",
@@ -9283,16 +9283,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 6,
-      "Голушко Андрей Иванович": 167,
-      "Денисенко Олег Иванович": 76,
-      "Колесников Олег Юрьевич": 8,
-      "Кочетков Сергей Петрович": 4,
-      "Кравцов Александр Владимирович": 15,
-      "Ложкин Алексей Николаевич": 29,
-      "Мельников Борис Викторович": 2,
-      "Подзоров Александр Георгиевич": 14,
-      "Якименко Алексей Евгеньевич": 1
+      "gas:candidate-vibid:2552000990706": 6,
+      "gas:candidate-vibid:2552000990468": 167,
+      "gas:candidate-vibid:2552000994508": 76,
+      "gas:candidate-vibid:2552000995687": 8,
+      "gas:candidate-vibid:2552000995793": 4,
+      "gas:candidate-vibid:2552000987502": 15,
+      "gas:candidate-vibid:2552000983027": 29,
+      "gas:candidate-vibid:2552000992049": 2,
+      "gas:candidate-vibid:2552000989939": 14,
+      "gas:candidate-vibid:2552000995754": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897366&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897366&type=464",
@@ -9343,16 +9343,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 4,
-      "Голушко Андрей Иванович": 39,
-      "Денисенко Олег Иванович": 21,
-      "Колесников Олег Юрьевич": 1,
-      "Кочетков Сергей Петрович": 0,
-      "Кравцов Александр Владимирович": 6,
-      "Ложкин Алексей Николаевич": 9,
-      "Мельников Борис Викторович": 0,
-      "Подзоров Александр Георгиевич": 1,
-      "Якименко Алексей Евгеньевич": 0
+      "gas:candidate-vibid:2552000990706": 4,
+      "gas:candidate-vibid:2552000990468": 39,
+      "gas:candidate-vibid:2552000994508": 21,
+      "gas:candidate-vibid:2552000995687": 1,
+      "gas:candidate-vibid:2552000995793": 0,
+      "gas:candidate-vibid:2552000987502": 6,
+      "gas:candidate-vibid:2552000983027": 9,
+      "gas:candidate-vibid:2552000992049": 0,
+      "gas:candidate-vibid:2552000989939": 1,
+      "gas:candidate-vibid:2552000995754": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897366&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897366&type=464",
@@ -9403,16 +9403,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 3,
-      "Голушко Андрей Иванович": 116,
-      "Денисенко Олег Иванович": 91,
-      "Колесников Олег Юрьевич": 6,
-      "Кочетков Сергей Петрович": 6,
-      "Кравцов Александр Владимирович": 10,
-      "Ложкин Алексей Николаевич": 21,
-      "Мельников Борис Викторович": 3,
-      "Подзоров Александр Георгиевич": 15,
-      "Якименко Алексей Евгеньевич": 0
+      "gas:candidate-vibid:2552000990706": 3,
+      "gas:candidate-vibid:2552000990468": 116,
+      "gas:candidate-vibid:2552000994508": 91,
+      "gas:candidate-vibid:2552000995687": 6,
+      "gas:candidate-vibid:2552000995793": 6,
+      "gas:candidate-vibid:2552000987502": 10,
+      "gas:candidate-vibid:2552000983027": 21,
+      "gas:candidate-vibid:2552000992049": 3,
+      "gas:candidate-vibid:2552000989939": 15,
+      "gas:candidate-vibid:2552000995754": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897366&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897366&type=464",
@@ -9463,16 +9463,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 1,
-      "Голушко Андрей Иванович": 24,
-      "Денисенко Олег Иванович": 7,
-      "Колесников Олег Юрьевич": 2,
-      "Кочетков Сергей Петрович": 2,
-      "Кравцов Александр Владимирович": 1,
-      "Ложкин Алексей Николаевич": 1,
-      "Мельников Борис Викторович": 0,
-      "Подзоров Александр Георгиевич": 1,
-      "Якименко Алексей Евгеньевич": 1
+      "gas:candidate-vibid:2552000990706": 1,
+      "gas:candidate-vibid:2552000990468": 24,
+      "gas:candidate-vibid:2552000994508": 7,
+      "gas:candidate-vibid:2552000995687": 2,
+      "gas:candidate-vibid:2552000995793": 2,
+      "gas:candidate-vibid:2552000987502": 1,
+      "gas:candidate-vibid:2552000983027": 1,
+      "gas:candidate-vibid:2552000992049": 0,
+      "gas:candidate-vibid:2552000989939": 1,
+      "gas:candidate-vibid:2552000995754": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897366&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897366&type=464",
@@ -9523,16 +9523,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 2,
-      "Голушко Андрей Иванович": 205,
-      "Денисенко Олег Иванович": 55,
-      "Колесников Олег Юрьевич": 11,
-      "Кочетков Сергей Петрович": 9,
-      "Кравцов Александр Владимирович": 27,
-      "Ложкин Алексей Николаевич": 32,
-      "Мельников Борис Викторович": 3,
-      "Подзоров Александр Георгиевич": 11,
-      "Якименко Алексей Евгеньевич": 2
+      "gas:candidate-vibid:2552000990706": 2,
+      "gas:candidate-vibid:2552000990468": 205,
+      "gas:candidate-vibid:2552000994508": 55,
+      "gas:candidate-vibid:2552000995687": 11,
+      "gas:candidate-vibid:2552000995793": 9,
+      "gas:candidate-vibid:2552000987502": 27,
+      "gas:candidate-vibid:2552000983027": 32,
+      "gas:candidate-vibid:2552000992049": 3,
+      "gas:candidate-vibid:2552000989939": 11,
+      "gas:candidate-vibid:2552000995754": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897366&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897366&type=464",
@@ -9583,16 +9583,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 3,
-      "Голушко Андрей Иванович": 61,
-      "Денисенко Олег Иванович": 8,
-      "Колесников Олег Юрьевич": 1,
-      "Кочетков Сергей Петрович": 3,
-      "Кравцов Александр Владимирович": 5,
-      "Ложкин Алексей Николаевич": 5,
-      "Мельников Борис Викторович": 1,
-      "Подзоров Александр Георгиевич": 4,
-      "Якименко Алексей Евгеньевич": 0
+      "gas:candidate-vibid:2552000990706": 3,
+      "gas:candidate-vibid:2552000990468": 61,
+      "gas:candidate-vibid:2552000994508": 8,
+      "gas:candidate-vibid:2552000995687": 1,
+      "gas:candidate-vibid:2552000995793": 3,
+      "gas:candidate-vibid:2552000987502": 5,
+      "gas:candidate-vibid:2552000983027": 5,
+      "gas:candidate-vibid:2552000992049": 1,
+      "gas:candidate-vibid:2552000989939": 4,
+      "gas:candidate-vibid:2552000995754": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897366&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897366&type=464",
@@ -9643,16 +9643,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 3,
-      "Голушко Андрей Иванович": 129,
-      "Денисенко Олег Иванович": 83,
-      "Колесников Олег Юрьевич": 5,
-      "Кочетков Сергей Петрович": 3,
-      "Кравцов Александр Владимирович": 15,
-      "Ложкин Алексей Николаевич": 38,
-      "Мельников Борис Викторович": 4,
-      "Подзоров Александр Георгиевич": 12,
-      "Якименко Алексей Евгеньевич": 2
+      "gas:candidate-vibid:2552000990706": 3,
+      "gas:candidate-vibid:2552000990468": 129,
+      "gas:candidate-vibid:2552000994508": 83,
+      "gas:candidate-vibid:2552000995687": 5,
+      "gas:candidate-vibid:2552000995793": 3,
+      "gas:candidate-vibid:2552000987502": 15,
+      "gas:candidate-vibid:2552000983027": 38,
+      "gas:candidate-vibid:2552000992049": 4,
+      "gas:candidate-vibid:2552000989939": 12,
+      "gas:candidate-vibid:2552000995754": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897366&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897366&type=464",
@@ -9703,16 +9703,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 2,
-      "Голушко Андрей Иванович": 74,
-      "Денисенко Олег Иванович": 6,
-      "Колесников Олег Юрьевич": 0,
-      "Кочетков Сергей Петрович": 1,
-      "Кравцов Александр Владимирович": 4,
-      "Ложкин Алексей Николаевич": 9,
-      "Мельников Борис Викторович": 0,
-      "Подзоров Александр Георгиевич": 0,
-      "Якименко Алексей Евгеньевич": 0
+      "gas:candidate-vibid:2552000990706": 2,
+      "gas:candidate-vibid:2552000990468": 74,
+      "gas:candidate-vibid:2552000994508": 6,
+      "gas:candidate-vibid:2552000995687": 0,
+      "gas:candidate-vibid:2552000995793": 1,
+      "gas:candidate-vibid:2552000987502": 4,
+      "gas:candidate-vibid:2552000983027": 9,
+      "gas:candidate-vibid:2552000992049": 0,
+      "gas:candidate-vibid:2552000989939": 0,
+      "gas:candidate-vibid:2552000995754": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897366&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897366&type=464",
@@ -9763,16 +9763,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 2,
-      "Голушко Андрей Иванович": 88,
-      "Денисенко Олег Иванович": 38,
-      "Колесников Олег Юрьевич": 4,
-      "Кочетков Сергей Петрович": 3,
-      "Кравцов Александр Владимирович": 10,
-      "Ложкин Алексей Николаевич": 25,
-      "Мельников Борис Викторович": 3,
-      "Подзоров Александр Георгиевич": 3,
-      "Якименко Алексей Евгеньевич": 1
+      "gas:candidate-vibid:2552000990706": 2,
+      "gas:candidate-vibid:2552000990468": 88,
+      "gas:candidate-vibid:2552000994508": 38,
+      "gas:candidate-vibid:2552000995687": 4,
+      "gas:candidate-vibid:2552000995793": 3,
+      "gas:candidate-vibid:2552000987502": 10,
+      "gas:candidate-vibid:2552000983027": 25,
+      "gas:candidate-vibid:2552000992049": 3,
+      "gas:candidate-vibid:2552000989939": 3,
+      "gas:candidate-vibid:2552000995754": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897366&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897366&type=464",
@@ -9823,16 +9823,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 3,
-      "Голушко Андрей Иванович": 29,
-      "Денисенко Олег Иванович": 3,
-      "Колесников Олег Юрьевич": 4,
-      "Кочетков Сергей Петрович": 1,
-      "Кравцов Александр Владимирович": 4,
-      "Ложкин Алексей Николаевич": 3,
-      "Мельников Борис Викторович": 0,
-      "Подзоров Александр Георгиевич": 2,
-      "Якименко Алексей Евгеньевич": 1
+      "gas:candidate-vibid:2552000990706": 3,
+      "gas:candidate-vibid:2552000990468": 29,
+      "gas:candidate-vibid:2552000994508": 3,
+      "gas:candidate-vibid:2552000995687": 4,
+      "gas:candidate-vibid:2552000995793": 1,
+      "gas:candidate-vibid:2552000987502": 4,
+      "gas:candidate-vibid:2552000983027": 3,
+      "gas:candidate-vibid:2552000992049": 0,
+      "gas:candidate-vibid:2552000989939": 2,
+      "gas:candidate-vibid:2552000995754": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897366&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897366&type=464",
@@ -9883,16 +9883,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 3,
-      "Голушко Андрей Иванович": 35,
-      "Денисенко Олег Иванович": 13,
-      "Колесников Олег Юрьевич": 9,
-      "Кочетков Сергей Петрович": 0,
-      "Кравцов Александр Владимирович": 0,
-      "Ложкин Алексей Николаевич": 3,
-      "Мельников Борис Викторович": 2,
-      "Подзоров Александр Георгиевич": 1,
-      "Якименко Алексей Евгеньевич": 1
+      "gas:candidate-vibid:2552000990706": 3,
+      "gas:candidate-vibid:2552000990468": 35,
+      "gas:candidate-vibid:2552000994508": 13,
+      "gas:candidate-vibid:2552000995687": 9,
+      "gas:candidate-vibid:2552000995793": 0,
+      "gas:candidate-vibid:2552000987502": 0,
+      "gas:candidate-vibid:2552000983027": 3,
+      "gas:candidate-vibid:2552000992049": 2,
+      "gas:candidate-vibid:2552000989939": 1,
+      "gas:candidate-vibid:2552000995754": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897366&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897366&type=464",
@@ -9943,16 +9943,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 0,
-      "Голушко Андрей Иванович": 40,
-      "Денисенко Олег Иванович": 14,
-      "Колесников Олег Юрьевич": 2,
-      "Кочетков Сергей Петрович": 0,
-      "Кравцов Александр Владимирович": 1,
-      "Ложкин Алексей Николаевич": 2,
-      "Мельников Борис Викторович": 2,
-      "Подзоров Александр Георгиевич": 8,
-      "Якименко Алексей Евгеньевич": 1
+      "gas:candidate-vibid:2552000990706": 0,
+      "gas:candidate-vibid:2552000990468": 40,
+      "gas:candidate-vibid:2552000994508": 14,
+      "gas:candidate-vibid:2552000995687": 2,
+      "gas:candidate-vibid:2552000995793": 0,
+      "gas:candidate-vibid:2552000987502": 1,
+      "gas:candidate-vibid:2552000983027": 2,
+      "gas:candidate-vibid:2552000992049": 2,
+      "gas:candidate-vibid:2552000989939": 8,
+      "gas:candidate-vibid:2552000995754": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897366&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897366&type=464",
@@ -10003,16 +10003,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 0,
-      "Голушко Андрей Иванович": 49,
-      "Денисенко Олег Иванович": 14,
-      "Колесников Олег Юрьевич": 5,
-      "Кочетков Сергей Петрович": 1,
-      "Кравцов Александр Владимирович": 1,
-      "Ложкин Алексей Николаевич": 0,
-      "Мельников Борис Викторович": 0,
-      "Подзоров Александр Георгиевич": 2,
-      "Якименко Алексей Евгеньевич": 0
+      "gas:candidate-vibid:2552000990706": 0,
+      "gas:candidate-vibid:2552000990468": 49,
+      "gas:candidate-vibid:2552000994508": 14,
+      "gas:candidate-vibid:2552000995687": 5,
+      "gas:candidate-vibid:2552000995793": 1,
+      "gas:candidate-vibid:2552000987502": 1,
+      "gas:candidate-vibid:2552000983027": 0,
+      "gas:candidate-vibid:2552000992049": 0,
+      "gas:candidate-vibid:2552000989939": 2,
+      "gas:candidate-vibid:2552000995754": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897366&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897366&type=464",
@@ -10063,16 +10063,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 0,
-      "Голушко Андрей Иванович": 17,
-      "Денисенко Олег Иванович": 5,
-      "Колесников Олег Юрьевич": 2,
-      "Кочетков Сергей Петрович": 0,
-      "Кравцов Александр Владимирович": 3,
-      "Ложкин Алексей Николаевич": 6,
-      "Мельников Борис Викторович": 0,
-      "Подзоров Александр Георгиевич": 3,
-      "Якименко Алексей Евгеньевич": 0
+      "gas:candidate-vibid:2552000990706": 0,
+      "gas:candidate-vibid:2552000990468": 17,
+      "gas:candidate-vibid:2552000994508": 5,
+      "gas:candidate-vibid:2552000995687": 2,
+      "gas:candidate-vibid:2552000995793": 0,
+      "gas:candidate-vibid:2552000987502": 3,
+      "gas:candidate-vibid:2552000983027": 6,
+      "gas:candidate-vibid:2552000992049": 0,
+      "gas:candidate-vibid:2552000989939": 3,
+      "gas:candidate-vibid:2552000995754": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897366&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897366&type=464",
@@ -10123,16 +10123,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 3,
-      "Голушко Андрей Иванович": 142,
-      "Денисенко Олег Иванович": 20,
-      "Колесников Олег Юрьевич": 4,
-      "Кочетков Сергей Петрович": 0,
-      "Кравцов Александр Владимирович": 7,
-      "Ложкин Алексей Николаевич": 24,
-      "Мельников Борис Викторович": 1,
-      "Подзоров Александр Георгиевич": 6,
-      "Якименко Алексей Евгеньевич": 0
+      "gas:candidate-vibid:2552000990706": 3,
+      "gas:candidate-vibid:2552000990468": 142,
+      "gas:candidate-vibid:2552000994508": 20,
+      "gas:candidate-vibid:2552000995687": 4,
+      "gas:candidate-vibid:2552000995793": 0,
+      "gas:candidate-vibid:2552000987502": 7,
+      "gas:candidate-vibid:2552000983027": 24,
+      "gas:candidate-vibid:2552000992049": 1,
+      "gas:candidate-vibid:2552000989939": 6,
+      "gas:candidate-vibid:2552000995754": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897366&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897366&type=464",
@@ -10183,16 +10183,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 0,
-      "Голушко Андрей Иванович": 33,
-      "Денисенко Олег Иванович": 9,
-      "Колесников Олег Юрьевич": 0,
-      "Кочетков Сергей Петрович": 1,
-      "Кравцов Александр Владимирович": 11,
-      "Ложкин Алексей Николаевич": 14,
-      "Мельников Борис Викторович": 0,
-      "Подзоров Александр Георгиевич": 6,
-      "Якименко Алексей Евгеньевич": 1
+      "gas:candidate-vibid:2552000990706": 0,
+      "gas:candidate-vibid:2552000990468": 33,
+      "gas:candidate-vibid:2552000994508": 9,
+      "gas:candidate-vibid:2552000995687": 0,
+      "gas:candidate-vibid:2552000995793": 1,
+      "gas:candidate-vibid:2552000987502": 11,
+      "gas:candidate-vibid:2552000983027": 14,
+      "gas:candidate-vibid:2552000992049": 0,
+      "gas:candidate-vibid:2552000989939": 6,
+      "gas:candidate-vibid:2552000995754": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897366&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897366&type=464",
@@ -10243,16 +10243,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 2,
-      "Голушко Андрей Иванович": 22,
-      "Денисенко Олег Иванович": 6,
-      "Колесников Олег Юрьевич": 1,
-      "Кочетков Сергей Петрович": 0,
-      "Кравцов Александр Владимирович": 2,
-      "Ложкин Алексей Николаевич": 1,
-      "Мельников Борис Викторович": 0,
-      "Подзоров Александр Георгиевич": 0,
-      "Якименко Алексей Евгеньевич": 0
+      "gas:candidate-vibid:2552000990706": 2,
+      "gas:candidate-vibid:2552000990468": 22,
+      "gas:candidate-vibid:2552000994508": 6,
+      "gas:candidate-vibid:2552000995687": 1,
+      "gas:candidate-vibid:2552000995793": 0,
+      "gas:candidate-vibid:2552000987502": 2,
+      "gas:candidate-vibid:2552000983027": 1,
+      "gas:candidate-vibid:2552000992049": 0,
+      "gas:candidate-vibid:2552000989939": 0,
+      "gas:candidate-vibid:2552000995754": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897366&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897366&type=464",
@@ -10303,16 +10303,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 2,
-      "Голушко Андрей Иванович": 195,
-      "Денисенко Олег Иванович": 29,
-      "Колесников Олег Юрьевич": 8,
-      "Кочетков Сергей Петрович": 1,
-      "Кравцов Александр Владимирович": 6,
-      "Ложкин Алексей Николаевич": 17,
-      "Мельников Борис Викторович": 5,
-      "Подзоров Александр Георгиевич": 2,
-      "Якименко Алексей Евгеньевич": 7
+      "gas:candidate-vibid:2552000990706": 2,
+      "gas:candidate-vibid:2552000990468": 195,
+      "gas:candidate-vibid:2552000994508": 29,
+      "gas:candidate-vibid:2552000995687": 8,
+      "gas:candidate-vibid:2552000995793": 1,
+      "gas:candidate-vibid:2552000987502": 6,
+      "gas:candidate-vibid:2552000983027": 17,
+      "gas:candidate-vibid:2552000992049": 5,
+      "gas:candidate-vibid:2552000989939": 2,
+      "gas:candidate-vibid:2552000995754": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897366&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897366&type=464",
@@ -10363,16 +10363,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 1,
-      "Голушко Андрей Иванович": 119,
-      "Денисенко Олег Иванович": 13,
-      "Колесников Олег Юрьевич": 4,
-      "Кочетков Сергей Петрович": 4,
-      "Кравцов Александр Владимирович": 8,
-      "Ложкин Алексей Николаевич": 22,
-      "Мельников Борис Викторович": 4,
-      "Подзоров Александр Георгиевич": 3,
-      "Якименко Алексей Евгеньевич": 3
+      "gas:candidate-vibid:2552000990706": 1,
+      "gas:candidate-vibid:2552000990468": 119,
+      "gas:candidate-vibid:2552000994508": 13,
+      "gas:candidate-vibid:2552000995687": 4,
+      "gas:candidate-vibid:2552000995793": 4,
+      "gas:candidate-vibid:2552000987502": 8,
+      "gas:candidate-vibid:2552000983027": 22,
+      "gas:candidate-vibid:2552000992049": 4,
+      "gas:candidate-vibid:2552000989939": 3,
+      "gas:candidate-vibid:2552000995754": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897366&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897366&type=464",
@@ -10423,16 +10423,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 3,
-      "Голушко Андрей Иванович": 48,
-      "Денисенко Олег Иванович": 2,
-      "Колесников Олег Юрьевич": 2,
-      "Кочетков Сергей Петрович": 0,
-      "Кравцов Александр Владимирович": 10,
-      "Ложкин Алексей Николаевич": 0,
-      "Мельников Борис Викторович": 0,
-      "Подзоров Александр Георгиевич": 0,
-      "Якименко Алексей Евгеньевич": 0
+      "gas:candidate-vibid:2552000990706": 3,
+      "gas:candidate-vibid:2552000990468": 48,
+      "gas:candidate-vibid:2552000994508": 2,
+      "gas:candidate-vibid:2552000995687": 2,
+      "gas:candidate-vibid:2552000995793": 0,
+      "gas:candidate-vibid:2552000987502": 10,
+      "gas:candidate-vibid:2552000983027": 0,
+      "gas:candidate-vibid:2552000992049": 0,
+      "gas:candidate-vibid:2552000989939": 0,
+      "gas:candidate-vibid:2552000995754": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897366&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897366&type=464",
@@ -10483,16 +10483,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 2,
-      "Голушко Андрей Иванович": 97,
-      "Денисенко Олег Иванович": 34,
-      "Колесников Олег Юрьевич": 3,
-      "Кочетков Сергей Петрович": 4,
-      "Кравцов Александр Владимирович": 4,
-      "Ложкин Алексей Николаевич": 21,
-      "Мельников Борис Викторович": 4,
-      "Подзоров Александр Георгиевич": 3,
-      "Якименко Алексей Евгеньевич": 5
+      "gas:candidate-vibid:2552000990706": 2,
+      "gas:candidate-vibid:2552000990468": 97,
+      "gas:candidate-vibid:2552000994508": 34,
+      "gas:candidate-vibid:2552000995687": 3,
+      "gas:candidate-vibid:2552000995793": 4,
+      "gas:candidate-vibid:2552000987502": 4,
+      "gas:candidate-vibid:2552000983027": 21,
+      "gas:candidate-vibid:2552000992049": 4,
+      "gas:candidate-vibid:2552000989939": 3,
+      "gas:candidate-vibid:2552000995754": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897366&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897366&type=464",
@@ -10543,16 +10543,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 6,
-      "Голушко Андрей Иванович": 232,
-      "Денисенко Олег Иванович": 64,
-      "Колесников Олег Юрьевич": 3,
-      "Кочетков Сергей Петрович": 0,
-      "Кравцов Александр Владимирович": 13,
-      "Ложкин Алексей Николаевич": 10,
-      "Мельников Борис Викторович": 5,
-      "Подзоров Александр Георгиевич": 11,
-      "Якименко Алексей Евгеньевич": 2
+      "gas:candidate-vibid:2552000990706": 6,
+      "gas:candidate-vibid:2552000990468": 232,
+      "gas:candidate-vibid:2552000994508": 64,
+      "gas:candidate-vibid:2552000995687": 3,
+      "gas:candidate-vibid:2552000995793": 0,
+      "gas:candidate-vibid:2552000987502": 13,
+      "gas:candidate-vibid:2552000983027": 10,
+      "gas:candidate-vibid:2552000992049": 5,
+      "gas:candidate-vibid:2552000989939": 11,
+      "gas:candidate-vibid:2552000995754": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897366&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897366&type=464",
@@ -10603,16 +10603,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 3,
-      "Голушко Андрей Иванович": 83,
-      "Денисенко Олег Иванович": 40,
-      "Колесников Олег Юрьевич": 5,
-      "Кочетков Сергей Петрович": 1,
-      "Кравцов Александр Владимирович": 8,
-      "Ложкин Алексей Николаевич": 22,
-      "Мельников Борис Викторович": 1,
-      "Подзоров Александр Георгиевич": 10,
-      "Якименко Алексей Евгеньевич": 0
+      "gas:candidate-vibid:2552000990706": 3,
+      "gas:candidate-vibid:2552000990468": 83,
+      "gas:candidate-vibid:2552000994508": 40,
+      "gas:candidate-vibid:2552000995687": 5,
+      "gas:candidate-vibid:2552000995793": 1,
+      "gas:candidate-vibid:2552000987502": 8,
+      "gas:candidate-vibid:2552000983027": 22,
+      "gas:candidate-vibid:2552000992049": 1,
+      "gas:candidate-vibid:2552000989939": 10,
+      "gas:candidate-vibid:2552000995754": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897366&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897366&type=464",
@@ -10663,16 +10663,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 0,
-      "Голушко Андрей Иванович": 44,
-      "Денисенко Олег Иванович": 6,
-      "Колесников Олег Юрьевич": 1,
-      "Кочетков Сергей Петрович": 2,
-      "Кравцов Александр Владимирович": 0,
-      "Ложкин Алексей Николаевич": 6,
-      "Мельников Борис Викторович": 0,
-      "Подзоров Александр Георгиевич": 4,
-      "Якименко Алексей Евгеньевич": 0
+      "gas:candidate-vibid:2552000990706": 0,
+      "gas:candidate-vibid:2552000990468": 44,
+      "gas:candidate-vibid:2552000994508": 6,
+      "gas:candidate-vibid:2552000995687": 1,
+      "gas:candidate-vibid:2552000995793": 2,
+      "gas:candidate-vibid:2552000987502": 0,
+      "gas:candidate-vibid:2552000983027": 6,
+      "gas:candidate-vibid:2552000992049": 0,
+      "gas:candidate-vibid:2552000989939": 4,
+      "gas:candidate-vibid:2552000995754": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897366&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897366&type=464",
@@ -10723,16 +10723,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 4,
-      "Голушко Андрей Иванович": 97,
-      "Денисенко Олег Иванович": 43,
-      "Колесников Олег Юрьевич": 3,
-      "Кочетков Сергей Петрович": 1,
-      "Кравцов Александр Владимирович": 13,
-      "Ложкин Алексей Николаевич": 10,
-      "Мельников Борис Викторович": 2,
-      "Подзоров Александр Георгиевич": 6,
-      "Якименко Алексей Евгеньевич": 1
+      "gas:candidate-vibid:2552000990706": 4,
+      "gas:candidate-vibid:2552000990468": 97,
+      "gas:candidate-vibid:2552000994508": 43,
+      "gas:candidate-vibid:2552000995687": 3,
+      "gas:candidate-vibid:2552000995793": 1,
+      "gas:candidate-vibid:2552000987502": 13,
+      "gas:candidate-vibid:2552000983027": 10,
+      "gas:candidate-vibid:2552000992049": 2,
+      "gas:candidate-vibid:2552000989939": 6,
+      "gas:candidate-vibid:2552000995754": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897366&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897366&type=464",
@@ -10783,16 +10783,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 3,
-      "Голушко Андрей Иванович": 239,
-      "Денисенко Олег Иванович": 89,
-      "Колесников Олег Юрьевич": 4,
-      "Кочетков Сергей Петрович": 3,
-      "Кравцов Александр Владимирович": 18,
-      "Ложкин Алексей Николаевич": 36,
-      "Мельников Борис Викторович": 2,
-      "Подзоров Александр Георгиевич": 14,
-      "Якименко Алексей Евгеньевич": 4
+      "gas:candidate-vibid:2552000990706": 3,
+      "gas:candidate-vibid:2552000990468": 239,
+      "gas:candidate-vibid:2552000994508": 89,
+      "gas:candidate-vibid:2552000995687": 4,
+      "gas:candidate-vibid:2552000995793": 3,
+      "gas:candidate-vibid:2552000987502": 18,
+      "gas:candidate-vibid:2552000983027": 36,
+      "gas:candidate-vibid:2552000992049": 2,
+      "gas:candidate-vibid:2552000989939": 14,
+      "gas:candidate-vibid:2552000995754": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897366&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897366&type=464",
@@ -10843,16 +10843,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 12,
-      "Голушко Андрей Иванович": 78,
-      "Денисенко Олег Иванович": 21,
-      "Колесников Олег Юрьевич": 12,
-      "Кочетков Сергей Петрович": 12,
-      "Кравцов Александр Владимирович": 13,
-      "Ложкин Алексей Николаевич": 16,
-      "Мельников Борис Викторович": 2,
-      "Подзоров Александр Георгиевич": 6,
-      "Якименко Алексей Евгеньевич": 0
+      "gas:candidate-vibid:2552000990706": 12,
+      "gas:candidate-vibid:2552000990468": 78,
+      "gas:candidate-vibid:2552000994508": 21,
+      "gas:candidate-vibid:2552000995687": 12,
+      "gas:candidate-vibid:2552000995793": 12,
+      "gas:candidate-vibid:2552000987502": 13,
+      "gas:candidate-vibid:2552000983027": 16,
+      "gas:candidate-vibid:2552000992049": 2,
+      "gas:candidate-vibid:2552000989939": 6,
+      "gas:candidate-vibid:2552000995754": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897366&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897366&type=464",
@@ -10903,16 +10903,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 2,
-      "Голушко Андрей Иванович": 114,
-      "Денисенко Олег Иванович": 10,
-      "Колесников Олег Юрьевич": 5,
-      "Кочетков Сергей Петрович": 1,
-      "Кравцов Александр Владимирович": 4,
-      "Ложкин Алексей Николаевич": 7,
-      "Мельников Борис Викторович": 0,
-      "Подзоров Александр Георгиевич": 5,
-      "Якименко Алексей Евгеньевич": 0
+      "gas:candidate-vibid:2552000990706": 2,
+      "gas:candidate-vibid:2552000990468": 114,
+      "gas:candidate-vibid:2552000994508": 10,
+      "gas:candidate-vibid:2552000995687": 5,
+      "gas:candidate-vibid:2552000995793": 1,
+      "gas:candidate-vibid:2552000987502": 4,
+      "gas:candidate-vibid:2552000983027": 7,
+      "gas:candidate-vibid:2552000992049": 0,
+      "gas:candidate-vibid:2552000989939": 5,
+      "gas:candidate-vibid:2552000995754": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897366&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897366&type=464",
@@ -10963,16 +10963,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 0,
-      "Голушко Андрей Иванович": 48,
-      "Денисенко Олег Иванович": 5,
-      "Колесников Олег Юрьевич": 0,
-      "Кочетков Сергей Петрович": 0,
-      "Кравцов Александр Владимирович": 3,
-      "Ложкин Алексей Николаевич": 6,
-      "Мельников Борис Викторович": 0,
-      "Подзоров Александр Георгиевич": 1,
-      "Якименко Алексей Евгеньевич": 0
+      "gas:candidate-vibid:2552000990706": 0,
+      "gas:candidate-vibid:2552000990468": 48,
+      "gas:candidate-vibid:2552000994508": 5,
+      "gas:candidate-vibid:2552000995687": 0,
+      "gas:candidate-vibid:2552000995793": 0,
+      "gas:candidate-vibid:2552000987502": 3,
+      "gas:candidate-vibid:2552000983027": 6,
+      "gas:candidate-vibid:2552000992049": 0,
+      "gas:candidate-vibid:2552000989939": 1,
+      "gas:candidate-vibid:2552000995754": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897366&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897366&type=464",
@@ -11023,16 +11023,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 4,
-      "Голушко Андрей Иванович": 173,
-      "Денисенко Олег Иванович": 84,
-      "Колесников Олег Юрьевич": 4,
-      "Кочетков Сергей Петрович": 6,
-      "Кравцов Александр Владимирович": 12,
-      "Ложкин Алексей Николаевич": 30,
-      "Мельников Борис Викторович": 4,
-      "Подзоров Александр Георгиевич": 21,
-      "Якименко Алексей Евгеньевич": 2
+      "gas:candidate-vibid:2552000990706": 4,
+      "gas:candidate-vibid:2552000990468": 173,
+      "gas:candidate-vibid:2552000994508": 84,
+      "gas:candidate-vibid:2552000995687": 4,
+      "gas:candidate-vibid:2552000995793": 6,
+      "gas:candidate-vibid:2552000987502": 12,
+      "gas:candidate-vibid:2552000983027": 30,
+      "gas:candidate-vibid:2552000992049": 4,
+      "gas:candidate-vibid:2552000989939": 21,
+      "gas:candidate-vibid:2552000995754": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897366&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897366&type=464",
@@ -11083,16 +11083,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 0,
-      "Голушко Андрей Иванович": 60,
-      "Денисенко Олег Иванович": 23,
-      "Колесников Олег Юрьевич": 2,
-      "Кочетков Сергей Петрович": 0,
-      "Кравцов Александр Владимирович": 4,
-      "Ложкин Алексей Николаевич": 25,
-      "Мельников Борис Викторович": 0,
-      "Подзоров Александр Георгиевич": 6,
-      "Якименко Алексей Евгеньевич": 1
+      "gas:candidate-vibid:2552000990706": 0,
+      "gas:candidate-vibid:2552000990468": 60,
+      "gas:candidate-vibid:2552000994508": 23,
+      "gas:candidate-vibid:2552000995687": 2,
+      "gas:candidate-vibid:2552000995793": 0,
+      "gas:candidate-vibid:2552000987502": 4,
+      "gas:candidate-vibid:2552000983027": 25,
+      "gas:candidate-vibid:2552000992049": 0,
+      "gas:candidate-vibid:2552000989939": 6,
+      "gas:candidate-vibid:2552000995754": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897366&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897366&type=464",
@@ -11143,16 +11143,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 2,
-      "Голушко Андрей Иванович": 80,
-      "Денисенко Олег Иванович": 21,
-      "Колесников Олег Юрьевич": 4,
-      "Кочетков Сергей Петрович": 3,
-      "Кравцов Александр Владимирович": 2,
-      "Ложкин Алексей Николаевич": 7,
-      "Мельников Борис Викторович": 0,
-      "Подзоров Александр Георгиевич": 5,
-      "Якименко Алексей Евгеньевич": 0
+      "gas:candidate-vibid:2552000990706": 2,
+      "gas:candidate-vibid:2552000990468": 80,
+      "gas:candidate-vibid:2552000994508": 21,
+      "gas:candidate-vibid:2552000995687": 4,
+      "gas:candidate-vibid:2552000995793": 3,
+      "gas:candidate-vibid:2552000987502": 2,
+      "gas:candidate-vibid:2552000983027": 7,
+      "gas:candidate-vibid:2552000992049": 0,
+      "gas:candidate-vibid:2552000989939": 5,
+      "gas:candidate-vibid:2552000995754": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897366&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897366&type=464",
@@ -11203,16 +11203,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 7,
-      "Голушко Андрей Иванович": 144,
-      "Денисенко Олег Иванович": 58,
-      "Колесников Олег Юрьевич": 3,
-      "Кочетков Сергей Петрович": 3,
-      "Кравцов Александр Владимирович": 20,
-      "Ложкин Алексей Николаевич": 27,
-      "Мельников Борис Викторович": 7,
-      "Подзоров Александр Георгиевич": 6,
-      "Якименко Алексей Евгеньевич": 2
+      "gas:candidate-vibid:2552000990706": 7,
+      "gas:candidate-vibid:2552000990468": 144,
+      "gas:candidate-vibid:2552000994508": 58,
+      "gas:candidate-vibid:2552000995687": 3,
+      "gas:candidate-vibid:2552000995793": 3,
+      "gas:candidate-vibid:2552000987502": 20,
+      "gas:candidate-vibid:2552000983027": 27,
+      "gas:candidate-vibid:2552000992049": 7,
+      "gas:candidate-vibid:2552000989939": 6,
+      "gas:candidate-vibid:2552000995754": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897366&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897366&type=464",
@@ -11263,16 +11263,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 5,
-      "Голушко Андрей Иванович": 51,
-      "Денисенко Олег Иванович": 39,
-      "Колесников Олег Юрьевич": 9,
-      "Кочетков Сергей Петрович": 2,
-      "Кравцов Александр Владимирович": 3,
-      "Ложкин Алексей Николаевич": 13,
-      "Мельников Борис Викторович": 2,
-      "Подзоров Александр Георгиевич": 5,
-      "Якименко Алексей Евгеньевич": 3
+      "gas:candidate-vibid:2552000990706": 5,
+      "gas:candidate-vibid:2552000990468": 51,
+      "gas:candidate-vibid:2552000994508": 39,
+      "gas:candidate-vibid:2552000995687": 9,
+      "gas:candidate-vibid:2552000995793": 2,
+      "gas:candidate-vibid:2552000987502": 3,
+      "gas:candidate-vibid:2552000983027": 13,
+      "gas:candidate-vibid:2552000992049": 2,
+      "gas:candidate-vibid:2552000989939": 5,
+      "gas:candidate-vibid:2552000995754": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897366&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897366&type=464",
@@ -11323,16 +11323,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 5,
-      "Голушко Андрей Иванович": 260,
-      "Денисенко Олег Иванович": 95,
-      "Колесников Олег Юрьевич": 7,
-      "Кочетков Сергей Петрович": 5,
-      "Кравцов Александр Владимирович": 27,
-      "Ложкин Алексей Николаевич": 70,
-      "Мельников Борис Викторович": 1,
-      "Подзоров Александр Георгиевич": 23,
-      "Якименко Алексей Евгеньевич": 2
+      "gas:candidate-vibid:2552000990706": 5,
+      "gas:candidate-vibid:2552000990468": 260,
+      "gas:candidate-vibid:2552000994508": 95,
+      "gas:candidate-vibid:2552000995687": 7,
+      "gas:candidate-vibid:2552000995793": 5,
+      "gas:candidate-vibid:2552000987502": 27,
+      "gas:candidate-vibid:2552000983027": 70,
+      "gas:candidate-vibid:2552000992049": 1,
+      "gas:candidate-vibid:2552000989939": 23,
+      "gas:candidate-vibid:2552000995754": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897366&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897366&type=464",
@@ -11383,16 +11383,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 4,
-      "Голушко Андрей Иванович": 111,
-      "Денисенко Олег Иванович": 41,
-      "Колесников Олег Юрьевич": 5,
-      "Кочетков Сергей Петрович": 1,
-      "Кравцов Александр Владимирович": 5,
-      "Ложкин Алексей Николаевич": 42,
-      "Мельников Борис Викторович": 1,
-      "Подзоров Александр Георгиевич": 9,
-      "Якименко Алексей Евгеньевич": 5
+      "gas:candidate-vibid:2552000990706": 4,
+      "gas:candidate-vibid:2552000990468": 111,
+      "gas:candidate-vibid:2552000994508": 41,
+      "gas:candidate-vibid:2552000995687": 5,
+      "gas:candidate-vibid:2552000995793": 1,
+      "gas:candidate-vibid:2552000987502": 5,
+      "gas:candidate-vibid:2552000983027": 42,
+      "gas:candidate-vibid:2552000992049": 1,
+      "gas:candidate-vibid:2552000989939": 9,
+      "gas:candidate-vibid:2552000995754": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897366&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897366&type=464",
@@ -11443,16 +11443,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 4,
-      "Голушко Андрей Иванович": 156,
-      "Денисенко Олег Иванович": 33,
-      "Колесников Олег Юрьевич": 13,
-      "Кочетков Сергей Петрович": 1,
-      "Кравцов Александр Владимирович": 11,
-      "Ложкин Алексей Николаевич": 15,
-      "Мельников Борис Викторович": 2,
-      "Подзоров Александр Георгиевич": 7,
-      "Якименко Алексей Евгеньевич": 0
+      "gas:candidate-vibid:2552000990706": 4,
+      "gas:candidate-vibid:2552000990468": 156,
+      "gas:candidate-vibid:2552000994508": 33,
+      "gas:candidate-vibid:2552000995687": 13,
+      "gas:candidate-vibid:2552000995793": 1,
+      "gas:candidate-vibid:2552000987502": 11,
+      "gas:candidate-vibid:2552000983027": 15,
+      "gas:candidate-vibid:2552000992049": 2,
+      "gas:candidate-vibid:2552000989939": 7,
+      "gas:candidate-vibid:2552000995754": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897366&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897366&type=464",
@@ -11503,16 +11503,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 1,
-      "Голушко Андрей Иванович": 163,
-      "Денисенко Олег Иванович": 27,
-      "Колесников Олег Юрьевич": 5,
-      "Кочетков Сергей Петрович": 0,
-      "Кравцов Александр Владимирович": 18,
-      "Ложкин Алексей Николаевич": 14,
-      "Мельников Борис Викторович": 1,
-      "Подзоров Александр Георгиевич": 16,
-      "Якименко Алексей Евгеньевич": 3
+      "gas:candidate-vibid:2552000990706": 1,
+      "gas:candidate-vibid:2552000990468": 163,
+      "gas:candidate-vibid:2552000994508": 27,
+      "gas:candidate-vibid:2552000995687": 5,
+      "gas:candidate-vibid:2552000995793": 0,
+      "gas:candidate-vibid:2552000987502": 18,
+      "gas:candidate-vibid:2552000983027": 14,
+      "gas:candidate-vibid:2552000992049": 1,
+      "gas:candidate-vibid:2552000989939": 16,
+      "gas:candidate-vibid:2552000995754": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897366&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897366&type=464",
@@ -11563,16 +11563,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 0,
-      "Голушко Андрей Иванович": 45,
-      "Денисенко Олег Иванович": 4,
-      "Колесников Олег Юрьевич": 0,
-      "Кочетков Сергей Петрович": 1,
-      "Кравцов Александр Владимирович": 1,
-      "Ложкин Алексей Николаевич": 5,
-      "Мельников Борис Викторович": 1,
-      "Подзоров Александр Георгиевич": 3,
-      "Якименко Алексей Евгеньевич": 0
+      "gas:candidate-vibid:2552000990706": 0,
+      "gas:candidate-vibid:2552000990468": 45,
+      "gas:candidate-vibid:2552000994508": 4,
+      "gas:candidate-vibid:2552000995687": 0,
+      "gas:candidate-vibid:2552000995793": 1,
+      "gas:candidate-vibid:2552000987502": 1,
+      "gas:candidate-vibid:2552000983027": 5,
+      "gas:candidate-vibid:2552000992049": 1,
+      "gas:candidate-vibid:2552000989939": 3,
+      "gas:candidate-vibid:2552000995754": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897366&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897366&type=464",
@@ -11623,16 +11623,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 3,
-      "Голушко Андрей Иванович": 97,
-      "Денисенко Олег Иванович": 45,
-      "Колесников Олег Юрьевич": 6,
-      "Кочетков Сергей Петрович": 2,
-      "Кравцов Александр Владимирович": 6,
-      "Ложкин Алексей Николаевич": 17,
-      "Мельников Борис Викторович": 1,
-      "Подзоров Александр Георгиевич": 6,
-      "Якименко Алексей Евгеньевич": 0
+      "gas:candidate-vibid:2552000990706": 3,
+      "gas:candidate-vibid:2552000990468": 97,
+      "gas:candidate-vibid:2552000994508": 45,
+      "gas:candidate-vibid:2552000995687": 6,
+      "gas:candidate-vibid:2552000995793": 2,
+      "gas:candidate-vibid:2552000987502": 6,
+      "gas:candidate-vibid:2552000983027": 17,
+      "gas:candidate-vibid:2552000992049": 1,
+      "gas:candidate-vibid:2552000989939": 6,
+      "gas:candidate-vibid:2552000995754": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897366&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897366&type=464",
@@ -11683,16 +11683,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 2,
-      "Голушко Андрей Иванович": 36,
-      "Денисенко Олег Иванович": 13,
-      "Колесников Олег Юрьевич": 1,
-      "Кочетков Сергей Петрович": 1,
-      "Кравцов Александр Владимирович": 4,
-      "Ложкин Алексей Николаевич": 1,
-      "Мельников Борис Викторович": 1,
-      "Подзоров Александр Георгиевич": 4,
-      "Якименко Алексей Евгеньевич": 0
+      "gas:candidate-vibid:2552000990706": 2,
+      "gas:candidate-vibid:2552000990468": 36,
+      "gas:candidate-vibid:2552000994508": 13,
+      "gas:candidate-vibid:2552000995687": 1,
+      "gas:candidate-vibid:2552000995793": 1,
+      "gas:candidate-vibid:2552000987502": 4,
+      "gas:candidate-vibid:2552000983027": 1,
+      "gas:candidate-vibid:2552000992049": 1,
+      "gas:candidate-vibid:2552000989939": 4,
+      "gas:candidate-vibid:2552000995754": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897366&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897366&type=464",
@@ -11743,16 +11743,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 9,
-      "Голушко Андрей Иванович": 23,
-      "Денисенко Олег Иванович": 6,
-      "Колесников Олег Юрьевич": 2,
-      "Кочетков Сергей Петрович": 1,
-      "Кравцов Александр Владимирович": 3,
-      "Ложкин Алексей Николаевич": 8,
-      "Мельников Борис Викторович": 1,
-      "Подзоров Александр Георгиевич": 3,
-      "Якименко Алексей Евгеньевич": 0
+      "gas:candidate-vibid:2552000990706": 9,
+      "gas:candidate-vibid:2552000990468": 23,
+      "gas:candidate-vibid:2552000994508": 6,
+      "gas:candidate-vibid:2552000995687": 2,
+      "gas:candidate-vibid:2552000995793": 1,
+      "gas:candidate-vibid:2552000987502": 3,
+      "gas:candidate-vibid:2552000983027": 8,
+      "gas:candidate-vibid:2552000992049": 1,
+      "gas:candidate-vibid:2552000989939": 3,
+      "gas:candidate-vibid:2552000995754": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897366&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897366&type=464",
@@ -11803,16 +11803,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 1,
-      "Голушко Андрей Иванович": 51,
-      "Денисенко Олег Иванович": 18,
-      "Колесников Олег Юрьевич": 1,
-      "Кочетков Сергей Петрович": 1,
-      "Кравцов Александр Владимирович": 11,
-      "Ложкин Алексей Николаевич": 14,
-      "Мельников Борис Викторович": 2,
-      "Подзоров Александр Георгиевич": 6,
-      "Якименко Алексей Евгеньевич": 0
+      "gas:candidate-vibid:2552000990706": 1,
+      "gas:candidate-vibid:2552000990468": 51,
+      "gas:candidate-vibid:2552000994508": 18,
+      "gas:candidate-vibid:2552000995687": 1,
+      "gas:candidate-vibid:2552000995793": 1,
+      "gas:candidate-vibid:2552000987502": 11,
+      "gas:candidate-vibid:2552000983027": 14,
+      "gas:candidate-vibid:2552000992049": 2,
+      "gas:candidate-vibid:2552000989939": 6,
+      "gas:candidate-vibid:2552000995754": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897366&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897366&type=464",
@@ -11863,16 +11863,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 1,
-      "Голушко Андрей Иванович": 12,
-      "Денисенко Олег Иванович": 5,
-      "Колесников Олег Юрьевич": 0,
-      "Кочетков Сергей Петрович": 1,
-      "Кравцов Александр Владимирович": 4,
-      "Ложкин Алексей Николаевич": 3,
-      "Мельников Борис Викторович": 0,
-      "Подзоров Александр Георгиевич": 1,
-      "Якименко Алексей Евгеньевич": 0
+      "gas:candidate-vibid:2552000990706": 1,
+      "gas:candidate-vibid:2552000990468": 12,
+      "gas:candidate-vibid:2552000994508": 5,
+      "gas:candidate-vibid:2552000995687": 0,
+      "gas:candidate-vibid:2552000995793": 1,
+      "gas:candidate-vibid:2552000987502": 4,
+      "gas:candidate-vibid:2552000983027": 3,
+      "gas:candidate-vibid:2552000992049": 0,
+      "gas:candidate-vibid:2552000989939": 1,
+      "gas:candidate-vibid:2552000995754": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897366&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897366&type=464",
@@ -11923,16 +11923,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 4,
-      "Голушко Андрей Иванович": 132,
-      "Денисенко Олег Иванович": 45,
-      "Колесников Олег Юрьевич": 4,
-      "Кочетков Сергей Петрович": 3,
-      "Кравцов Александр Владимирович": 56,
-      "Ложкин Алексей Николаевич": 37,
-      "Мельников Борис Викторович": 2,
-      "Подзоров Александр Георгиевич": 6,
-      "Якименко Алексей Евгеньевич": 1
+      "gas:candidate-vibid:2552000990706": 4,
+      "gas:candidate-vibid:2552000990468": 132,
+      "gas:candidate-vibid:2552000994508": 45,
+      "gas:candidate-vibid:2552000995687": 4,
+      "gas:candidate-vibid:2552000995793": 3,
+      "gas:candidate-vibid:2552000987502": 56,
+      "gas:candidate-vibid:2552000983027": 37,
+      "gas:candidate-vibid:2552000992049": 2,
+      "gas:candidate-vibid:2552000989939": 6,
+      "gas:candidate-vibid:2552000995754": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897367&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897367&type=464",
@@ -11983,16 +11983,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 3,
-      "Голушко Андрей Иванович": 167,
-      "Денисенко Олег Иванович": 71,
-      "Колесников Олег Юрьевич": 0,
-      "Кочетков Сергей Петрович": 1,
-      "Кравцов Александр Владимирович": 60,
-      "Ложкин Алексей Николаевич": 42,
-      "Мельников Борис Викторович": 0,
-      "Подзоров Александр Георгиевич": 9,
-      "Якименко Алексей Евгеньевич": 0
+      "gas:candidate-vibid:2552000990706": 3,
+      "gas:candidate-vibid:2552000990468": 167,
+      "gas:candidate-vibid:2552000994508": 71,
+      "gas:candidate-vibid:2552000995687": 0,
+      "gas:candidate-vibid:2552000995793": 1,
+      "gas:candidate-vibid:2552000987502": 60,
+      "gas:candidate-vibid:2552000983027": 42,
+      "gas:candidate-vibid:2552000992049": 0,
+      "gas:candidate-vibid:2552000989939": 9,
+      "gas:candidate-vibid:2552000995754": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897367&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897367&type=464",
@@ -12043,16 +12043,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 1,
-      "Голушко Андрей Иванович": 91,
-      "Денисенко Олег Иванович": 32,
-      "Колесников Олег Юрьевич": 0,
-      "Кочетков Сергей Петрович": 1,
-      "Кравцов Александр Владимирович": 43,
-      "Ложкин Алексей Николаевич": 32,
-      "Мельников Борис Викторович": 0,
-      "Подзоров Александр Георгиевич": 7,
-      "Якименко Алексей Евгеньевич": 1
+      "gas:candidate-vibid:2552000990706": 1,
+      "gas:candidate-vibid:2552000990468": 91,
+      "gas:candidate-vibid:2552000994508": 32,
+      "gas:candidate-vibid:2552000995687": 0,
+      "gas:candidate-vibid:2552000995793": 1,
+      "gas:candidate-vibid:2552000987502": 43,
+      "gas:candidate-vibid:2552000983027": 32,
+      "gas:candidate-vibid:2552000992049": 0,
+      "gas:candidate-vibid:2552000989939": 7,
+      "gas:candidate-vibid:2552000995754": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897367&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897367&type=464",
@@ -12103,16 +12103,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 1,
-      "Голушко Андрей Иванович": 97,
-      "Денисенко Олег Иванович": 29,
-      "Колесников Олег Юрьевич": 2,
-      "Кочетков Сергей Петрович": 0,
-      "Кравцов Александр Владимирович": 40,
-      "Ложкин Алексей Николаевич": 26,
-      "Мельников Борис Викторович": 3,
-      "Подзоров Александр Георгиевич": 9,
-      "Якименко Алексей Евгеньевич": 3
+      "gas:candidate-vibid:2552000990706": 1,
+      "gas:candidate-vibid:2552000990468": 97,
+      "gas:candidate-vibid:2552000994508": 29,
+      "gas:candidate-vibid:2552000995687": 2,
+      "gas:candidate-vibid:2552000995793": 0,
+      "gas:candidate-vibid:2552000987502": 40,
+      "gas:candidate-vibid:2552000983027": 26,
+      "gas:candidate-vibid:2552000992049": 3,
+      "gas:candidate-vibid:2552000989939": 9,
+      "gas:candidate-vibid:2552000995754": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897367&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897367&type=464",
@@ -12163,16 +12163,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 1,
-      "Голушко Андрей Иванович": 121,
-      "Денисенко Олег Иванович": 50,
-      "Колесников Олег Юрьевич": 0,
-      "Кочетков Сергей Петрович": 0,
-      "Кравцов Александр Владимирович": 35,
-      "Ложкин Алексей Николаевич": 28,
-      "Мельников Борис Викторович": 5,
-      "Подзоров Александр Георгиевич": 3,
-      "Якименко Алексей Евгеньевич": 0
+      "gas:candidate-vibid:2552000990706": 1,
+      "gas:candidate-vibid:2552000990468": 121,
+      "gas:candidate-vibid:2552000994508": 50,
+      "gas:candidate-vibid:2552000995687": 0,
+      "gas:candidate-vibid:2552000995793": 0,
+      "gas:candidate-vibid:2552000987502": 35,
+      "gas:candidate-vibid:2552000983027": 28,
+      "gas:candidate-vibid:2552000992049": 5,
+      "gas:candidate-vibid:2552000989939": 3,
+      "gas:candidate-vibid:2552000995754": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897367&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897367&type=464",
@@ -12223,16 +12223,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 5,
-      "Голушко Андрей Иванович": 105,
-      "Денисенко Олег Иванович": 42,
-      "Колесников Олег Юрьевич": 1,
-      "Кочетков Сергей Петрович": 1,
-      "Кравцов Александр Владимирович": 32,
-      "Ложкин Алексей Николаевич": 31,
-      "Мельников Борис Викторович": 0,
-      "Подзоров Александр Георгиевич": 7,
-      "Якименко Алексей Евгеньевич": 1
+      "gas:candidate-vibid:2552000990706": 5,
+      "gas:candidate-vibid:2552000990468": 105,
+      "gas:candidate-vibid:2552000994508": 42,
+      "gas:candidate-vibid:2552000995687": 1,
+      "gas:candidate-vibid:2552000995793": 1,
+      "gas:candidate-vibid:2552000987502": 32,
+      "gas:candidate-vibid:2552000983027": 31,
+      "gas:candidate-vibid:2552000992049": 0,
+      "gas:candidate-vibid:2552000989939": 7,
+      "gas:candidate-vibid:2552000995754": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897367&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897367&type=464",
@@ -12283,16 +12283,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 3,
-      "Голушко Андрей Иванович": 135,
-      "Денисенко Олег Иванович": 28,
-      "Колесников Олег Юрьевич": 1,
-      "Кочетков Сергей Петрович": 2,
-      "Кравцов Александр Владимирович": 46,
-      "Ложкин Алексей Николаевич": 29,
-      "Мельников Борис Викторович": 1,
-      "Подзоров Александр Георгиевич": 5,
-      "Якименко Алексей Евгеньевич": 0
+      "gas:candidate-vibid:2552000990706": 3,
+      "gas:candidate-vibid:2552000990468": 135,
+      "gas:candidate-vibid:2552000994508": 28,
+      "gas:candidate-vibid:2552000995687": 1,
+      "gas:candidate-vibid:2552000995793": 2,
+      "gas:candidate-vibid:2552000987502": 46,
+      "gas:candidate-vibid:2552000983027": 29,
+      "gas:candidate-vibid:2552000992049": 1,
+      "gas:candidate-vibid:2552000989939": 5,
+      "gas:candidate-vibid:2552000995754": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897367&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897367&type=464",
@@ -12343,16 +12343,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 7,
-      "Голушко Андрей Иванович": 93,
-      "Денисенко Олег Иванович": 26,
-      "Колесников Олег Юрьевич": 0,
-      "Кочетков Сергей Петрович": 2,
-      "Кравцов Александр Владимирович": 49,
-      "Ложкин Алексей Николаевич": 28,
-      "Мельников Борис Викторович": 2,
-      "Подзоров Александр Георгиевич": 4,
-      "Якименко Алексей Евгеньевич": 1
+      "gas:candidate-vibid:2552000990706": 7,
+      "gas:candidate-vibid:2552000990468": 93,
+      "gas:candidate-vibid:2552000994508": 26,
+      "gas:candidate-vibid:2552000995687": 0,
+      "gas:candidate-vibid:2552000995793": 2,
+      "gas:candidate-vibid:2552000987502": 49,
+      "gas:candidate-vibid:2552000983027": 28,
+      "gas:candidate-vibid:2552000992049": 2,
+      "gas:candidate-vibid:2552000989939": 4,
+      "gas:candidate-vibid:2552000995754": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897367&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897367&type=464",
@@ -12403,16 +12403,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 4,
-      "Голушко Андрей Иванович": 62,
-      "Денисенко Олег Иванович": 15,
-      "Колесников Олег Юрьевич": 0,
-      "Кочетков Сергей Петрович": 2,
-      "Кравцов Александр Владимирович": 41,
-      "Ложкин Алексей Николаевич": 14,
-      "Мельников Борис Викторович": 0,
-      "Подзоров Александр Георгиевич": 3,
-      "Якименко Алексей Евгеньевич": 1
+      "gas:candidate-vibid:2552000990706": 4,
+      "gas:candidate-vibid:2552000990468": 62,
+      "gas:candidate-vibid:2552000994508": 15,
+      "gas:candidate-vibid:2552000995687": 0,
+      "gas:candidate-vibid:2552000995793": 2,
+      "gas:candidate-vibid:2552000987502": 41,
+      "gas:candidate-vibid:2552000983027": 14,
+      "gas:candidate-vibid:2552000992049": 0,
+      "gas:candidate-vibid:2552000989939": 3,
+      "gas:candidate-vibid:2552000995754": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897367&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897367&type=464",
@@ -12463,16 +12463,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 0,
-      "Голушко Андрей Иванович": 78,
-      "Денисенко Олег Иванович": 23,
-      "Колесников Олег Юрьевич": 0,
-      "Кочетков Сергей Петрович": 0,
-      "Кравцов Александр Владимирович": 28,
-      "Ложкин Алексей Николаевич": 29,
-      "Мельников Борис Викторович": 0,
-      "Подзоров Александр Георгиевич": 5,
-      "Якименко Алексей Евгеньевич": 1
+      "gas:candidate-vibid:2552000990706": 0,
+      "gas:candidate-vibid:2552000990468": 78,
+      "gas:candidate-vibid:2552000994508": 23,
+      "gas:candidate-vibid:2552000995687": 0,
+      "gas:candidate-vibid:2552000995793": 0,
+      "gas:candidate-vibid:2552000987502": 28,
+      "gas:candidate-vibid:2552000983027": 29,
+      "gas:candidate-vibid:2552000992049": 0,
+      "gas:candidate-vibid:2552000989939": 5,
+      "gas:candidate-vibid:2552000995754": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897367&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897367&type=464",
@@ -12523,16 +12523,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 0,
-      "Голушко Андрей Иванович": 20,
-      "Денисенко Олег Иванович": 7,
-      "Колесников Олег Юрьевич": 0,
-      "Кочетков Сергей Петрович": 4,
-      "Кравцов Александр Владимирович": 26,
-      "Ложкин Алексей Николаевич": 1,
-      "Мельников Борис Викторович": 2,
-      "Подзоров Александр Георгиевич": 1,
-      "Якименко Алексей Евгеньевич": 0
+      "gas:candidate-vibid:2552000990706": 0,
+      "gas:candidate-vibid:2552000990468": 20,
+      "gas:candidate-vibid:2552000994508": 7,
+      "gas:candidate-vibid:2552000995687": 0,
+      "gas:candidate-vibid:2552000995793": 4,
+      "gas:candidate-vibid:2552000987502": 26,
+      "gas:candidate-vibid:2552000983027": 1,
+      "gas:candidate-vibid:2552000992049": 2,
+      "gas:candidate-vibid:2552000989939": 1,
+      "gas:candidate-vibid:2552000995754": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897367&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897367&type=464",
@@ -12583,16 +12583,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 0,
-      "Голушко Андрей Иванович": 34,
-      "Денисенко Олег Иванович": 7,
-      "Колесников Олег Юрьевич": 0,
-      "Кочетков Сергей Петрович": 0,
-      "Кравцов Александр Владимирович": 2,
-      "Ложкин Алексей Николаевич": 2,
-      "Мельников Борис Викторович": 0,
-      "Подзоров Александр Георгиевич": 3,
-      "Якименко Алексей Евгеньевич": 0
+      "gas:candidate-vibid:2552000990706": 0,
+      "gas:candidate-vibid:2552000990468": 34,
+      "gas:candidate-vibid:2552000994508": 7,
+      "gas:candidate-vibid:2552000995687": 0,
+      "gas:candidate-vibid:2552000995793": 0,
+      "gas:candidate-vibid:2552000987502": 2,
+      "gas:candidate-vibid:2552000983027": 2,
+      "gas:candidate-vibid:2552000992049": 0,
+      "gas:candidate-vibid:2552000989939": 3,
+      "gas:candidate-vibid:2552000995754": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897367&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897367&type=464",
@@ -12643,16 +12643,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 0,
-      "Голушко Андрей Иванович": 13,
-      "Денисенко Олег Иванович": 2,
-      "Колесников Олег Юрьевич": 0,
-      "Кочетков Сергей Петрович": 1,
-      "Кравцов Александр Владимирович": 2,
-      "Ложкин Алексей Николаевич": 3,
-      "Мельников Борис Викторович": 0,
-      "Подзоров Александр Георгиевич": 6,
-      "Якименко Алексей Евгеньевич": 0
+      "gas:candidate-vibid:2552000990706": 0,
+      "gas:candidate-vibid:2552000990468": 13,
+      "gas:candidate-vibid:2552000994508": 2,
+      "gas:candidate-vibid:2552000995687": 0,
+      "gas:candidate-vibid:2552000995793": 1,
+      "gas:candidate-vibid:2552000987502": 2,
+      "gas:candidate-vibid:2552000983027": 3,
+      "gas:candidate-vibid:2552000992049": 0,
+      "gas:candidate-vibid:2552000989939": 6,
+      "gas:candidate-vibid:2552000995754": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897367&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897367&type=464",
@@ -12703,16 +12703,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 2,
-      "Голушко Андрей Иванович": 110,
-      "Денисенко Олег Иванович": 35,
-      "Колесников Олег Юрьевич": 3,
-      "Кочетков Сергей Петрович": 4,
-      "Кравцов Александр Владимирович": 35,
-      "Ложкин Алексей Николаевич": 24,
-      "Мельников Борис Викторович": 5,
-      "Подзоров Александр Георгиевич": 8,
-      "Якименко Алексей Евгеньевич": 2
+      "gas:candidate-vibid:2552000990706": 2,
+      "gas:candidate-vibid:2552000990468": 110,
+      "gas:candidate-vibid:2552000994508": 35,
+      "gas:candidate-vibid:2552000995687": 3,
+      "gas:candidate-vibid:2552000995793": 4,
+      "gas:candidate-vibid:2552000987502": 35,
+      "gas:candidate-vibid:2552000983027": 24,
+      "gas:candidate-vibid:2552000992049": 5,
+      "gas:candidate-vibid:2552000989939": 8,
+      "gas:candidate-vibid:2552000995754": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897367&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897367&type=464",
@@ -12763,16 +12763,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 3,
-      "Голушко Андрей Иванович": 23,
-      "Денисенко Олег Иванович": 19,
-      "Колесников Олег Юрьевич": 0,
-      "Кочетков Сергей Петрович": 0,
-      "Кравцов Александр Владимирович": 37,
-      "Ложкин Алексей Николаевич": 3,
-      "Мельников Борис Викторович": 1,
-      "Подзоров Александр Георгиевич": 5,
-      "Якименко Алексей Евгеньевич": 0
+      "gas:candidate-vibid:2552000990706": 3,
+      "gas:candidate-vibid:2552000990468": 23,
+      "gas:candidate-vibid:2552000994508": 19,
+      "gas:candidate-vibid:2552000995687": 0,
+      "gas:candidate-vibid:2552000995793": 0,
+      "gas:candidate-vibid:2552000987502": 37,
+      "gas:candidate-vibid:2552000983027": 3,
+      "gas:candidate-vibid:2552000992049": 1,
+      "gas:candidate-vibid:2552000989939": 5,
+      "gas:candidate-vibid:2552000995754": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897367&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897367&type=464",
@@ -12823,16 +12823,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 1,
-      "Голушко Андрей Иванович": 74,
-      "Денисенко Олег Иванович": 16,
-      "Колесников Олег Юрьевич": 2,
-      "Кочетков Сергей Петрович": 0,
-      "Кравцов Александр Владимирович": 26,
-      "Ложкин Алексей Николаевич": 5,
-      "Мельников Борис Викторович": 3,
-      "Подзоров Александр Георгиевич": 7,
-      "Якименко Алексей Евгеньевич": 0
+      "gas:candidate-vibid:2552000990706": 1,
+      "gas:candidate-vibid:2552000990468": 74,
+      "gas:candidate-vibid:2552000994508": 16,
+      "gas:candidate-vibid:2552000995687": 2,
+      "gas:candidate-vibid:2552000995793": 0,
+      "gas:candidate-vibid:2552000987502": 26,
+      "gas:candidate-vibid:2552000983027": 5,
+      "gas:candidate-vibid:2552000992049": 3,
+      "gas:candidate-vibid:2552000989939": 7,
+      "gas:candidate-vibid:2552000995754": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897367&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897367&type=464",
@@ -12883,16 +12883,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 5,
-      "Голушко Андрей Иванович": 112,
-      "Денисенко Олег Иванович": 23,
-      "Колесников Олег Юрьевич": 2,
-      "Кочетков Сергей Петрович": 3,
-      "Кравцов Александр Владимирович": 32,
-      "Ложкин Алексей Николаевич": 36,
-      "Мельников Борис Викторович": 4,
-      "Подзоров Александр Георгиевич": 16,
-      "Якименко Алексей Евгеньевич": 11
+      "gas:candidate-vibid:2552000990706": 5,
+      "gas:candidate-vibid:2552000990468": 112,
+      "gas:candidate-vibid:2552000994508": 23,
+      "gas:candidate-vibid:2552000995687": 2,
+      "gas:candidate-vibid:2552000995793": 3,
+      "gas:candidate-vibid:2552000987502": 32,
+      "gas:candidate-vibid:2552000983027": 36,
+      "gas:candidate-vibid:2552000992049": 4,
+      "gas:candidate-vibid:2552000989939": 16,
+      "gas:candidate-vibid:2552000995754": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897367&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897367&type=464",
@@ -12943,16 +12943,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 1,
-      "Голушко Андрей Иванович": 72,
-      "Денисенко Олег Иванович": 32,
-      "Колесников Олег Юрьевич": 2,
-      "Кочетков Сергей Петрович": 1,
-      "Кравцов Александр Владимирович": 11,
-      "Ложкин Алексей Николаевич": 31,
-      "Мельников Борис Викторович": 4,
-      "Подзоров Александр Георгиевич": 6,
-      "Якименко Алексей Евгеньевич": 0
+      "gas:candidate-vibid:2552000990706": 1,
+      "gas:candidate-vibid:2552000990468": 72,
+      "gas:candidate-vibid:2552000994508": 32,
+      "gas:candidate-vibid:2552000995687": 2,
+      "gas:candidate-vibid:2552000995793": 1,
+      "gas:candidate-vibid:2552000987502": 11,
+      "gas:candidate-vibid:2552000983027": 31,
+      "gas:candidate-vibid:2552000992049": 4,
+      "gas:candidate-vibid:2552000989939": 6,
+      "gas:candidate-vibid:2552000995754": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897367&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897367&type=464",
@@ -13003,16 +13003,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 2,
-      "Голушко Андрей Иванович": 119,
-      "Денисенко Олег Иванович": 10,
-      "Колесников Олег Юрьевич": 1,
-      "Кочетков Сергей Петрович": 1,
-      "Кравцов Александр Владимирович": 14,
-      "Ложкин Алексей Николаевич": 7,
-      "Мельников Борис Викторович": 1,
-      "Подзоров Александр Георгиевич": 4,
-      "Якименко Алексей Евгеньевич": 0
+      "gas:candidate-vibid:2552000990706": 2,
+      "gas:candidate-vibid:2552000990468": 119,
+      "gas:candidate-vibid:2552000994508": 10,
+      "gas:candidate-vibid:2552000995687": 1,
+      "gas:candidate-vibid:2552000995793": 1,
+      "gas:candidate-vibid:2552000987502": 14,
+      "gas:candidate-vibid:2552000983027": 7,
+      "gas:candidate-vibid:2552000992049": 1,
+      "gas:candidate-vibid:2552000989939": 4,
+      "gas:candidate-vibid:2552000995754": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897367&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897367&type=464",
@@ -13063,16 +13063,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 0,
-      "Голушко Андрей Иванович": 63,
-      "Денисенко Олег Иванович": 8,
-      "Колесников Олег Юрьевич": 1,
-      "Кочетков Сергей Петрович": 5,
-      "Кравцов Александр Владимирович": 9,
-      "Ложкин Алексей Николаевич": 9,
-      "Мельников Борис Викторович": 0,
-      "Подзоров Александр Георгиевич": 4,
-      "Якименко Алексей Евгеньевич": 2
+      "gas:candidate-vibid:2552000990706": 0,
+      "gas:candidate-vibid:2552000990468": 63,
+      "gas:candidate-vibid:2552000994508": 8,
+      "gas:candidate-vibid:2552000995687": 1,
+      "gas:candidate-vibid:2552000995793": 5,
+      "gas:candidate-vibid:2552000987502": 9,
+      "gas:candidate-vibid:2552000983027": 9,
+      "gas:candidate-vibid:2552000992049": 0,
+      "gas:candidate-vibid:2552000989939": 4,
+      "gas:candidate-vibid:2552000995754": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897367&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897367&type=464",
@@ -13123,16 +13123,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 0,
-      "Голушко Андрей Иванович": 86,
-      "Денисенко Олег Иванович": 16,
-      "Колесников Олег Юрьевич": 0,
-      "Кочетков Сергей Петрович": 1,
-      "Кравцов Александр Владимирович": 24,
-      "Ложкин Алексей Николаевич": 13,
-      "Мельников Борис Викторович": 1,
-      "Подзоров Александр Георгиевич": 3,
-      "Якименко Алексей Евгеньевич": 3
+      "gas:candidate-vibid:2552000990706": 0,
+      "gas:candidate-vibid:2552000990468": 86,
+      "gas:candidate-vibid:2552000994508": 16,
+      "gas:candidate-vibid:2552000995687": 0,
+      "gas:candidate-vibid:2552000995793": 1,
+      "gas:candidate-vibid:2552000987502": 24,
+      "gas:candidate-vibid:2552000983027": 13,
+      "gas:candidate-vibid:2552000992049": 1,
+      "gas:candidate-vibid:2552000989939": 3,
+      "gas:candidate-vibid:2552000995754": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897367&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897367&type=464",
@@ -13183,16 +13183,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 0,
-      "Голушко Андрей Иванович": 55,
-      "Денисенко Олег Иванович": 37,
-      "Колесников Олег Юрьевич": 2,
-      "Кочетков Сергей Петрович": 2,
-      "Кравцов Александр Владимирович": 24,
-      "Ложкин Алексей Николаевич": 11,
-      "Мельников Борис Викторович": 1,
-      "Подзоров Александр Георгиевич": 8,
-      "Якименко Алексей Евгеньевич": 1
+      "gas:candidate-vibid:2552000990706": 0,
+      "gas:candidate-vibid:2552000990468": 55,
+      "gas:candidate-vibid:2552000994508": 37,
+      "gas:candidate-vibid:2552000995687": 2,
+      "gas:candidate-vibid:2552000995793": 2,
+      "gas:candidate-vibid:2552000987502": 24,
+      "gas:candidate-vibid:2552000983027": 11,
+      "gas:candidate-vibid:2552000992049": 1,
+      "gas:candidate-vibid:2552000989939": 8,
+      "gas:candidate-vibid:2552000995754": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897367&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897367&type=464",
@@ -13243,16 +13243,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 3,
-      "Голушко Андрей Иванович": 48,
-      "Денисенко Олег Иванович": 49,
-      "Колесников Олег Юрьевич": 1,
-      "Кочетков Сергей Петрович": 3,
-      "Кравцов Александр Владимирович": 62,
-      "Ложкин Алексей Николаевич": 3,
-      "Мельников Борис Викторович": 1,
-      "Подзоров Александр Георгиевич": 11,
-      "Якименко Алексей Евгеньевич": 0
+      "gas:candidate-vibid:2552000990706": 3,
+      "gas:candidate-vibid:2552000990468": 48,
+      "gas:candidate-vibid:2552000994508": 49,
+      "gas:candidate-vibid:2552000995687": 1,
+      "gas:candidate-vibid:2552000995793": 3,
+      "gas:candidate-vibid:2552000987502": 62,
+      "gas:candidate-vibid:2552000983027": 3,
+      "gas:candidate-vibid:2552000992049": 1,
+      "gas:candidate-vibid:2552000989939": 11,
+      "gas:candidate-vibid:2552000995754": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897367&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897367&type=464",
@@ -13303,16 +13303,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 1,
-      "Голушко Андрей Иванович": 44,
-      "Денисенко Олег Иванович": 20,
-      "Колесников Олег Юрьевич": 2,
-      "Кочетков Сергей Петрович": 1,
-      "Кравцов Александр Владимирович": 49,
-      "Ложкин Алексей Николаевич": 9,
-      "Мельников Борис Викторович": 0,
-      "Подзоров Александр Георгиевич": 10,
-      "Якименко Алексей Евгеньевич": 0
+      "gas:candidate-vibid:2552000990706": 1,
+      "gas:candidate-vibid:2552000990468": 44,
+      "gas:candidate-vibid:2552000994508": 20,
+      "gas:candidate-vibid:2552000995687": 2,
+      "gas:candidate-vibid:2552000995793": 1,
+      "gas:candidate-vibid:2552000987502": 49,
+      "gas:candidate-vibid:2552000983027": 9,
+      "gas:candidate-vibid:2552000992049": 0,
+      "gas:candidate-vibid:2552000989939": 10,
+      "gas:candidate-vibid:2552000995754": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897367&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897367&type=464",
@@ -13363,16 +13363,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 1,
-      "Голушко Андрей Иванович": 32,
-      "Денисенко Олег Иванович": 15,
-      "Колесников Олег Юрьевич": 1,
-      "Кочетков Сергей Петрович": 0,
-      "Кравцов Александр Владимирович": 35,
-      "Ложкин Алексей Николаевич": 1,
-      "Мельников Борис Викторович": 0,
-      "Подзоров Александр Георгиевич": 3,
-      "Якименко Алексей Евгеньевич": 0
+      "gas:candidate-vibid:2552000990706": 1,
+      "gas:candidate-vibid:2552000990468": 32,
+      "gas:candidate-vibid:2552000994508": 15,
+      "gas:candidate-vibid:2552000995687": 1,
+      "gas:candidate-vibid:2552000995793": 0,
+      "gas:candidate-vibid:2552000987502": 35,
+      "gas:candidate-vibid:2552000983027": 1,
+      "gas:candidate-vibid:2552000992049": 0,
+      "gas:candidate-vibid:2552000989939": 3,
+      "gas:candidate-vibid:2552000995754": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897367&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897367&type=464",
@@ -13423,16 +13423,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 0,
-      "Голушко Андрей Иванович": 30,
-      "Денисенко Олег Иванович": 6,
-      "Колесников Олег Юрьевич": 1,
-      "Кочетков Сергей Петрович": 0,
-      "Кравцов Александр Владимирович": 11,
-      "Ложкин Алексей Николаевич": 4,
-      "Мельников Борис Викторович": 0,
-      "Подзоров Александр Георгиевич": 3,
-      "Якименко Алексей Евгеньевич": 0
+      "gas:candidate-vibid:2552000990706": 0,
+      "gas:candidate-vibid:2552000990468": 30,
+      "gas:candidate-vibid:2552000994508": 6,
+      "gas:candidate-vibid:2552000995687": 1,
+      "gas:candidate-vibid:2552000995793": 0,
+      "gas:candidate-vibid:2552000987502": 11,
+      "gas:candidate-vibid:2552000983027": 4,
+      "gas:candidate-vibid:2552000992049": 0,
+      "gas:candidate-vibid:2552000989939": 3,
+      "gas:candidate-vibid:2552000995754": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897367&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897367&type=464",
@@ -13483,16 +13483,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 1,
-      "Голушко Андрей Иванович": 121,
-      "Денисенко Олег Иванович": 13,
-      "Колесников Олег Юрьевич": 1,
-      "Кочетков Сергей Петрович": 0,
-      "Кравцов Александр Владимирович": 20,
-      "Ложкин Алексей Николаевич": 7,
-      "Мельников Борис Викторович": 0,
-      "Подзоров Александр Георгиевич": 2,
-      "Якименко Алексей Евгеньевич": 0
+      "gas:candidate-vibid:2552000990706": 1,
+      "gas:candidate-vibid:2552000990468": 121,
+      "gas:candidate-vibid:2552000994508": 13,
+      "gas:candidate-vibid:2552000995687": 1,
+      "gas:candidate-vibid:2552000995793": 0,
+      "gas:candidate-vibid:2552000987502": 20,
+      "gas:candidate-vibid:2552000983027": 7,
+      "gas:candidate-vibid:2552000992049": 0,
+      "gas:candidate-vibid:2552000989939": 2,
+      "gas:candidate-vibid:2552000995754": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897367&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897367&type=464",
@@ -13543,16 +13543,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 1,
-      "Голушко Андрей Иванович": 65,
-      "Денисенко Олег Иванович": 14,
-      "Колесников Олег Юрьевич": 1,
-      "Кочетков Сергей Петрович": 1,
-      "Кравцов Александр Владимирович": 31,
-      "Ложкин Алексей Николаевич": 9,
-      "Мельников Борис Викторович": 4,
-      "Подзоров Александр Георгиевич": 5,
-      "Якименко Алексей Евгеньевич": 0
+      "gas:candidate-vibid:2552000990706": 1,
+      "gas:candidate-vibid:2552000990468": 65,
+      "gas:candidate-vibid:2552000994508": 14,
+      "gas:candidate-vibid:2552000995687": 1,
+      "gas:candidate-vibid:2552000995793": 1,
+      "gas:candidate-vibid:2552000987502": 31,
+      "gas:candidate-vibid:2552000983027": 9,
+      "gas:candidate-vibid:2552000992049": 4,
+      "gas:candidate-vibid:2552000989939": 5,
+      "gas:candidate-vibid:2552000995754": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897367&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897367&type=464",
@@ -13603,16 +13603,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 5,
-      "Голушко Андрей Иванович": 74,
-      "Денисенко Олег Иванович": 26,
-      "Колесников Олег Юрьевич": 2,
-      "Кочетков Сергей Петрович": 1,
-      "Кравцов Александр Владимирович": 39,
-      "Ложкин Алексей Николаевич": 7,
-      "Мельников Борис Викторович": 1,
-      "Подзоров Александр Георгиевич": 13,
-      "Якименко Алексей Евгеньевич": 0
+      "gas:candidate-vibid:2552000990706": 5,
+      "gas:candidate-vibid:2552000990468": 74,
+      "gas:candidate-vibid:2552000994508": 26,
+      "gas:candidate-vibid:2552000995687": 2,
+      "gas:candidate-vibid:2552000995793": 1,
+      "gas:candidate-vibid:2552000987502": 39,
+      "gas:candidate-vibid:2552000983027": 7,
+      "gas:candidate-vibid:2552000992049": 1,
+      "gas:candidate-vibid:2552000989939": 13,
+      "gas:candidate-vibid:2552000995754": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897367&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897367&type=464",
@@ -13663,16 +13663,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 3,
-      "Голушко Андрей Иванович": 96,
-      "Денисенко Олег Иванович": 33,
-      "Колесников Олег Юрьевич": 3,
-      "Кочетков Сергей Петрович": 1,
-      "Кравцов Александр Владимирович": 56,
-      "Ложкин Алексей Николаевич": 8,
-      "Мельников Борис Викторович": 3,
-      "Подзоров Александр Георгиевич": 6,
-      "Якименко Алексей Евгеньевич": 1
+      "gas:candidate-vibid:2552000990706": 3,
+      "gas:candidate-vibid:2552000990468": 96,
+      "gas:candidate-vibid:2552000994508": 33,
+      "gas:candidate-vibid:2552000995687": 3,
+      "gas:candidate-vibid:2552000995793": 1,
+      "gas:candidate-vibid:2552000987502": 56,
+      "gas:candidate-vibid:2552000983027": 8,
+      "gas:candidate-vibid:2552000992049": 3,
+      "gas:candidate-vibid:2552000989939": 6,
+      "gas:candidate-vibid:2552000995754": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897367&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897367&type=464",
@@ -13723,16 +13723,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 5,
-      "Голушко Андрей Иванович": 48,
-      "Денисенко Олег Иванович": 25,
-      "Колесников Олег Юрьевич": 1,
-      "Кочетков Сергей Петрович": 5,
-      "Кравцов Александр Владимирович": 70,
-      "Ложкин Алексей Николаевич": 3,
-      "Мельников Борис Викторович": 3,
-      "Подзоров Александр Георгиевич": 2,
-      "Якименко Алексей Евгеньевич": 0
+      "gas:candidate-vibid:2552000990706": 5,
+      "gas:candidate-vibid:2552000990468": 48,
+      "gas:candidate-vibid:2552000994508": 25,
+      "gas:candidate-vibid:2552000995687": 1,
+      "gas:candidate-vibid:2552000995793": 5,
+      "gas:candidate-vibid:2552000987502": 70,
+      "gas:candidate-vibid:2552000983027": 3,
+      "gas:candidate-vibid:2552000992049": 3,
+      "gas:candidate-vibid:2552000989939": 2,
+      "gas:candidate-vibid:2552000995754": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897367&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897367&type=464",
@@ -13783,16 +13783,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 0,
-      "Голушко Андрей Иванович": 10,
-      "Денисенко Олег Иванович": 2,
-      "Колесников Олег Юрьевич": 2,
-      "Кочетков Сергей Петрович": 0,
-      "Кравцов Александр Владимирович": 27,
-      "Ложкин Алексей Николаевич": 6,
-      "Мельников Борис Викторович": 0,
-      "Подзоров Александр Георгиевич": 1,
-      "Якименко Алексей Евгеньевич": 1
+      "gas:candidate-vibid:2552000990706": 0,
+      "gas:candidate-vibid:2552000990468": 10,
+      "gas:candidate-vibid:2552000994508": 2,
+      "gas:candidate-vibid:2552000995687": 2,
+      "gas:candidate-vibid:2552000995793": 0,
+      "gas:candidate-vibid:2552000987502": 27,
+      "gas:candidate-vibid:2552000983027": 6,
+      "gas:candidate-vibid:2552000992049": 0,
+      "gas:candidate-vibid:2552000989939": 1,
+      "gas:candidate-vibid:2552000995754": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897367&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897367&type=464",
@@ -13843,16 +13843,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 4,
-      "Голушко Андрей Иванович": 104,
-      "Денисенко Олег Иванович": 33,
-      "Колесников Олег Юрьевич": 1,
-      "Кочетков Сергей Петрович": 0,
-      "Кравцов Александр Владимирович": 20,
-      "Ложкин Алексей Николаевич": 20,
-      "Мельников Борис Викторович": 5,
-      "Подзоров Александр Георгиевич": 12,
-      "Якименко Алексей Евгеньевич": 2
+      "gas:candidate-vibid:2552000990706": 4,
+      "gas:candidate-vibid:2552000990468": 104,
+      "gas:candidate-vibid:2552000994508": 33,
+      "gas:candidate-vibid:2552000995687": 1,
+      "gas:candidate-vibid:2552000995793": 0,
+      "gas:candidate-vibid:2552000987502": 20,
+      "gas:candidate-vibid:2552000983027": 20,
+      "gas:candidate-vibid:2552000992049": 5,
+      "gas:candidate-vibid:2552000989939": 12,
+      "gas:candidate-vibid:2552000995754": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897367&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897367&type=464",
@@ -13903,16 +13903,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 2,
-      "Голушко Андрей Иванович": 74,
-      "Денисенко Олег Иванович": 14,
-      "Колесников Олег Юрьевич": 1,
-      "Кочетков Сергей Петрович": 2,
-      "Кравцов Александр Владимирович": 49,
-      "Ложкин Алексей Николаевич": 3,
-      "Мельников Борис Викторович": 2,
-      "Подзоров Александр Георгиевич": 7,
-      "Якименко Алексей Евгеньевич": 1
+      "gas:candidate-vibid:2552000990706": 2,
+      "gas:candidate-vibid:2552000990468": 74,
+      "gas:candidate-vibid:2552000994508": 14,
+      "gas:candidate-vibid:2552000995687": 1,
+      "gas:candidate-vibid:2552000995793": 2,
+      "gas:candidate-vibid:2552000987502": 49,
+      "gas:candidate-vibid:2552000983027": 3,
+      "gas:candidate-vibid:2552000992049": 2,
+      "gas:candidate-vibid:2552000989939": 7,
+      "gas:candidate-vibid:2552000995754": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897367&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897367&type=464",
@@ -13963,16 +13963,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 0,
-      "Голушко Андрей Иванович": 60,
-      "Денисенко Олег Иванович": 10,
-      "Колесников Олег Юрьевич": 1,
-      "Кочетков Сергей Петрович": 3,
-      "Кравцов Александр Владимирович": 6,
-      "Ложкин Алексей Николаевич": 10,
-      "Мельников Борис Викторович": 0,
-      "Подзоров Александр Георгиевич": 0,
-      "Якименко Алексей Евгеньевич": 0
+      "gas:candidate-vibid:2552000990706": 0,
+      "gas:candidate-vibid:2552000990468": 60,
+      "gas:candidate-vibid:2552000994508": 10,
+      "gas:candidate-vibid:2552000995687": 1,
+      "gas:candidate-vibid:2552000995793": 3,
+      "gas:candidate-vibid:2552000987502": 6,
+      "gas:candidate-vibid:2552000983027": 10,
+      "gas:candidate-vibid:2552000992049": 0,
+      "gas:candidate-vibid:2552000989939": 0,
+      "gas:candidate-vibid:2552000995754": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897367&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897367&type=464",
@@ -14023,16 +14023,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 13,
-      "Голушко Андрей Иванович": 174,
-      "Денисенко Олег Иванович": 127,
-      "Колесников Олег Юрьевич": 2,
-      "Кочетков Сергей Петрович": 6,
-      "Кравцов Александр Владимирович": 17,
-      "Ложкин Алексей Николаевич": 74,
-      "Мельников Борис Викторович": 7,
-      "Подзоров Александр Георгиевич": 22,
-      "Якименко Алексей Евгеньевич": 4
+      "gas:candidate-vibid:2552000990706": 13,
+      "gas:candidate-vibid:2552000990468": 174,
+      "gas:candidate-vibid:2552000994508": 127,
+      "gas:candidate-vibid:2552000995687": 2,
+      "gas:candidate-vibid:2552000995793": 6,
+      "gas:candidate-vibid:2552000987502": 17,
+      "gas:candidate-vibid:2552000983027": 74,
+      "gas:candidate-vibid:2552000992049": 7,
+      "gas:candidate-vibid:2552000989939": 22,
+      "gas:candidate-vibid:2552000995754": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897368&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897368&type=464",
@@ -14083,16 +14083,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 10,
-      "Голушко Андрей Иванович": 208,
-      "Денисенко Олег Иванович": 89,
-      "Колесников Олег Юрьевич": 4,
-      "Кочетков Сергей Петрович": 12,
-      "Кравцов Александр Владимирович": 29,
-      "Ложкин Алексей Николаевич": 60,
-      "Мельников Борис Викторович": 8,
-      "Подзоров Александр Георгиевич": 28,
-      "Якименко Алексей Евгеньевич": 7
+      "gas:candidate-vibid:2552000990706": 10,
+      "gas:candidate-vibid:2552000990468": 208,
+      "gas:candidate-vibid:2552000994508": 89,
+      "gas:candidate-vibid:2552000995687": 4,
+      "gas:candidate-vibid:2552000995793": 12,
+      "gas:candidate-vibid:2552000987502": 29,
+      "gas:candidate-vibid:2552000983027": 60,
+      "gas:candidate-vibid:2552000992049": 8,
+      "gas:candidate-vibid:2552000989939": 28,
+      "gas:candidate-vibid:2552000995754": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897368&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897368&type=464",
@@ -14143,16 +14143,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 6,
-      "Голушко Андрей Иванович": 187,
-      "Денисенко Олег Иванович": 89,
-      "Колесников Олег Юрьевич": 3,
-      "Кочетков Сергей Петрович": 9,
-      "Кравцов Александр Владимирович": 21,
-      "Ложкин Алексей Николаевич": 77,
-      "Мельников Борис Викторович": 1,
-      "Подзоров Александр Георгиевич": 25,
-      "Якименко Алексей Евгеньевич": 4
+      "gas:candidate-vibid:2552000990706": 6,
+      "gas:candidate-vibid:2552000990468": 187,
+      "gas:candidate-vibid:2552000994508": 89,
+      "gas:candidate-vibid:2552000995687": 3,
+      "gas:candidate-vibid:2552000995793": 9,
+      "gas:candidate-vibid:2552000987502": 21,
+      "gas:candidate-vibid:2552000983027": 77,
+      "gas:candidate-vibid:2552000992049": 1,
+      "gas:candidate-vibid:2552000989939": 25,
+      "gas:candidate-vibid:2552000995754": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897368&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897368&type=464",
@@ -14203,16 +14203,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 7,
-      "Голушко Андрей Иванович": 224,
-      "Денисенко Олег Иванович": 128,
-      "Колесников Олег Юрьевич": 6,
-      "Кочетков Сергей Петрович": 5,
-      "Кравцов Александр Владимирович": 20,
-      "Ложкин Алексей Николаевич": 67,
-      "Мельников Борис Викторович": 6,
-      "Подзоров Александр Георгиевич": 21,
-      "Якименко Алексей Евгеньевич": 6
+      "gas:candidate-vibid:2552000990706": 7,
+      "gas:candidate-vibid:2552000990468": 224,
+      "gas:candidate-vibid:2552000994508": 128,
+      "gas:candidate-vibid:2552000995687": 6,
+      "gas:candidate-vibid:2552000995793": 5,
+      "gas:candidate-vibid:2552000987502": 20,
+      "gas:candidate-vibid:2552000983027": 67,
+      "gas:candidate-vibid:2552000992049": 6,
+      "gas:candidate-vibid:2552000989939": 21,
+      "gas:candidate-vibid:2552000995754": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897368&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897368&type=464",
@@ -14263,16 +14263,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 5,
-      "Голушко Андрей Иванович": 247,
-      "Денисенко Олег Иванович": 141,
-      "Колесников Олег Юрьевич": 2,
-      "Кочетков Сергей Петрович": 4,
-      "Кравцов Александр Владимирович": 18,
-      "Ложкин Алексей Николаевич": 67,
-      "Мельников Борис Викторович": 3,
-      "Подзоров Александр Георгиевич": 28,
-      "Якименко Алексей Евгеньевич": 2
+      "gas:candidate-vibid:2552000990706": 5,
+      "gas:candidate-vibid:2552000990468": 247,
+      "gas:candidate-vibid:2552000994508": 141,
+      "gas:candidate-vibid:2552000995687": 2,
+      "gas:candidate-vibid:2552000995793": 4,
+      "gas:candidate-vibid:2552000987502": 18,
+      "gas:candidate-vibid:2552000983027": 67,
+      "gas:candidate-vibid:2552000992049": 3,
+      "gas:candidate-vibid:2552000989939": 28,
+      "gas:candidate-vibid:2552000995754": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897368&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897368&type=464",
@@ -14323,16 +14323,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 8,
-      "Голушко Андрей Иванович": 184,
-      "Денисенко Олег Иванович": 109,
-      "Колесников Олег Юрьевич": 1,
-      "Кочетков Сергей Петрович": 4,
-      "Кравцов Александр Владимирович": 17,
-      "Ложкин Алексей Николаевич": 56,
-      "Мельников Борис Викторович": 7,
-      "Подзоров Александр Георгиевич": 18,
-      "Якименко Алексей Евгеньевич": 2
+      "gas:candidate-vibid:2552000990706": 8,
+      "gas:candidate-vibid:2552000990468": 184,
+      "gas:candidate-vibid:2552000994508": 109,
+      "gas:candidate-vibid:2552000995687": 1,
+      "gas:candidate-vibid:2552000995793": 4,
+      "gas:candidate-vibid:2552000987502": 17,
+      "gas:candidate-vibid:2552000983027": 56,
+      "gas:candidate-vibid:2552000992049": 7,
+      "gas:candidate-vibid:2552000989939": 18,
+      "gas:candidate-vibid:2552000995754": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897368&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897368&type=464",
@@ -14383,16 +14383,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 7,
-      "Голушко Андрей Иванович": 145,
-      "Денисенко Олег Иванович": 103,
-      "Колесников Олег Юрьевич": 1,
-      "Кочетков Сергей Петрович": 3,
-      "Кравцов Александр Владимирович": 12,
-      "Ложкин Алексей Николаевич": 52,
-      "Мельников Борис Викторович": 5,
-      "Подзоров Александр Георгиевич": 21,
-      "Якименко Алексей Евгеньевич": 2
+      "gas:candidate-vibid:2552000990706": 7,
+      "gas:candidate-vibid:2552000990468": 145,
+      "gas:candidate-vibid:2552000994508": 103,
+      "gas:candidate-vibid:2552000995687": 1,
+      "gas:candidate-vibid:2552000995793": 3,
+      "gas:candidate-vibid:2552000987502": 12,
+      "gas:candidate-vibid:2552000983027": 52,
+      "gas:candidate-vibid:2552000992049": 5,
+      "gas:candidate-vibid:2552000989939": 21,
+      "gas:candidate-vibid:2552000995754": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897368&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897368&type=464",
@@ -14443,16 +14443,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 5,
-      "Голушко Андрей Иванович": 143,
-      "Денисенко Олег Иванович": 70,
-      "Колесников Олег Юрьевич": 6,
-      "Кочетков Сергей Петрович": 7,
-      "Кравцов Александр Владимирович": 9,
-      "Ложкин Алексей Николаевич": 74,
-      "Мельников Борис Викторович": 3,
-      "Подзоров Александр Георгиевич": 18,
-      "Якименко Алексей Евгеньевич": 4
+      "gas:candidate-vibid:2552000990706": 5,
+      "gas:candidate-vibid:2552000990468": 143,
+      "gas:candidate-vibid:2552000994508": 70,
+      "gas:candidate-vibid:2552000995687": 6,
+      "gas:candidate-vibid:2552000995793": 7,
+      "gas:candidate-vibid:2552000987502": 9,
+      "gas:candidate-vibid:2552000983027": 74,
+      "gas:candidate-vibid:2552000992049": 3,
+      "gas:candidate-vibid:2552000989939": 18,
+      "gas:candidate-vibid:2552000995754": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897368&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897368&type=464",
@@ -14503,16 +14503,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 3,
-      "Голушко Андрей Иванович": 95,
-      "Денисенко Олег Иванович": 62,
-      "Колесников Олег Юрьевич": 8,
-      "Кочетков Сергей Петрович": 4,
-      "Кравцов Александр Владимирович": 18,
-      "Ложкин Алексей Николаевич": 34,
-      "Мельников Борис Викторович": 6,
-      "Подзоров Александр Георгиевич": 21,
-      "Якименко Алексей Евгеньевич": 3
+      "gas:candidate-vibid:2552000990706": 3,
+      "gas:candidate-vibid:2552000990468": 95,
+      "gas:candidate-vibid:2552000994508": 62,
+      "gas:candidate-vibid:2552000995687": 8,
+      "gas:candidate-vibid:2552000995793": 4,
+      "gas:candidate-vibid:2552000987502": 18,
+      "gas:candidate-vibid:2552000983027": 34,
+      "gas:candidate-vibid:2552000992049": 6,
+      "gas:candidate-vibid:2552000989939": 21,
+      "gas:candidate-vibid:2552000995754": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897368&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897368&type=464",
@@ -14563,16 +14563,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 1,
-      "Голушко Андрей Иванович": 28,
-      "Денисенко Олег Иванович": 17,
-      "Колесников Олег Юрьевич": 1,
-      "Кочетков Сергей Петрович": 2,
-      "Кравцов Александр Владимирович": 4,
-      "Ложкин Алексей Николаевич": 11,
-      "Мельников Борис Викторович": 0,
-      "Подзоров Александр Георгиевич": 5,
-      "Якименко Алексей Евгеньевич": 0
+      "gas:candidate-vibid:2552000990706": 1,
+      "gas:candidate-vibid:2552000990468": 28,
+      "gas:candidate-vibid:2552000994508": 17,
+      "gas:candidate-vibid:2552000995687": 1,
+      "gas:candidate-vibid:2552000995793": 2,
+      "gas:candidate-vibid:2552000987502": 4,
+      "gas:candidate-vibid:2552000983027": 11,
+      "gas:candidate-vibid:2552000992049": 0,
+      "gas:candidate-vibid:2552000989939": 5,
+      "gas:candidate-vibid:2552000995754": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897368&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897368&type=464",
@@ -14623,16 +14623,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 2,
-      "Голушко Андрей Иванович": 87,
-      "Денисенко Олег Иванович": 12,
-      "Колесников Олег Юрьевич": 0,
-      "Кочетков Сергей Петрович": 13,
-      "Кравцов Александр Владимирович": 6,
-      "Ложкин Алексей Николаевич": 21,
-      "Мельников Борис Викторович": 0,
-      "Подзоров Александр Георгиевич": 14,
-      "Якименко Алексей Евгеньевич": 2
+      "gas:candidate-vibid:2552000990706": 2,
+      "gas:candidate-vibid:2552000990468": 87,
+      "gas:candidate-vibid:2552000994508": 12,
+      "gas:candidate-vibid:2552000995687": 0,
+      "gas:candidate-vibid:2552000995793": 13,
+      "gas:candidate-vibid:2552000987502": 6,
+      "gas:candidate-vibid:2552000983027": 21,
+      "gas:candidate-vibid:2552000992049": 0,
+      "gas:candidate-vibid:2552000989939": 14,
+      "gas:candidate-vibid:2552000995754": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897368&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897368&type=464",
@@ -14683,16 +14683,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 2,
-      "Голушко Андрей Иванович": 113,
-      "Денисенко Олег Иванович": 33,
-      "Колесников Олег Юрьевич": 5,
-      "Кочетков Сергей Петрович": 8,
-      "Кравцов Александр Владимирович": 5,
-      "Ложкин Алексей Николаевич": 33,
-      "Мельников Борис Викторович": 2,
-      "Подзоров Александр Георгиевич": 19,
-      "Якименко Алексей Евгеньевич": 4
+      "gas:candidate-vibid:2552000990706": 2,
+      "gas:candidate-vibid:2552000990468": 113,
+      "gas:candidate-vibid:2552000994508": 33,
+      "gas:candidate-vibid:2552000995687": 5,
+      "gas:candidate-vibid:2552000995793": 8,
+      "gas:candidate-vibid:2552000987502": 5,
+      "gas:candidate-vibid:2552000983027": 33,
+      "gas:candidate-vibid:2552000992049": 2,
+      "gas:candidate-vibid:2552000989939": 19,
+      "gas:candidate-vibid:2552000995754": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897368&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897368&type=464",
@@ -14743,16 +14743,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 1,
-      "Голушко Андрей Иванович": 44,
-      "Денисенко Олег Иванович": 11,
-      "Колесников Олег Юрьевич": 1,
-      "Кочетков Сергей Петрович": 3,
-      "Кравцов Александр Владимирович": 3,
-      "Ложкин Алексей Николаевич": 15,
-      "Мельников Борис Викторович": 2,
-      "Подзоров Александр Георгиевич": 6,
-      "Якименко Алексей Евгеньевич": 2
+      "gas:candidate-vibid:2552000990706": 1,
+      "gas:candidate-vibid:2552000990468": 44,
+      "gas:candidate-vibid:2552000994508": 11,
+      "gas:candidate-vibid:2552000995687": 1,
+      "gas:candidate-vibid:2552000995793": 3,
+      "gas:candidate-vibid:2552000987502": 3,
+      "gas:candidate-vibid:2552000983027": 15,
+      "gas:candidate-vibid:2552000992049": 2,
+      "gas:candidate-vibid:2552000989939": 6,
+      "gas:candidate-vibid:2552000995754": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897368&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897368&type=464",
@@ -14803,16 +14803,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 0,
-      "Голушко Андрей Иванович": 54,
-      "Денисенко Олег Иванович": 12,
-      "Колесников Олег Юрьевич": 2,
-      "Кочетков Сергей Петрович": 2,
-      "Кравцов Александр Владимирович": 7,
-      "Ложкин Алексей Николаевич": 15,
-      "Мельников Борис Викторович": 2,
-      "Подзоров Александр Георгиевич": 7,
-      "Якименко Алексей Евгеньевич": 0
+      "gas:candidate-vibid:2552000990706": 0,
+      "gas:candidate-vibid:2552000990468": 54,
+      "gas:candidate-vibid:2552000994508": 12,
+      "gas:candidate-vibid:2552000995687": 2,
+      "gas:candidate-vibid:2552000995793": 2,
+      "gas:candidate-vibid:2552000987502": 7,
+      "gas:candidate-vibid:2552000983027": 15,
+      "gas:candidate-vibid:2552000992049": 2,
+      "gas:candidate-vibid:2552000989939": 7,
+      "gas:candidate-vibid:2552000995754": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897368&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897368&type=464",
@@ -14863,16 +14863,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 2,
-      "Голушко Андрей Иванович": 90,
-      "Денисенко Олег Иванович": 27,
-      "Колесников Олег Юрьевич": 0,
-      "Кочетков Сергей Петрович": 5,
-      "Кравцов Александр Владимирович": 3,
-      "Ложкин Алексей Николаевич": 14,
-      "Мельников Борис Викторович": 1,
-      "Подзоров Александр Георгиевич": 9,
-      "Якименко Алексей Евгеньевич": 3
+      "gas:candidate-vibid:2552000990706": 2,
+      "gas:candidate-vibid:2552000990468": 90,
+      "gas:candidate-vibid:2552000994508": 27,
+      "gas:candidate-vibid:2552000995687": 0,
+      "gas:candidate-vibid:2552000995793": 5,
+      "gas:candidate-vibid:2552000987502": 3,
+      "gas:candidate-vibid:2552000983027": 14,
+      "gas:candidate-vibid:2552000992049": 1,
+      "gas:candidate-vibid:2552000989939": 9,
+      "gas:candidate-vibid:2552000995754": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897368&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897368&type=464",
@@ -14923,16 +14923,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 0,
-      "Голушко Андрей Иванович": 25,
-      "Денисенко Олег Иванович": 9,
-      "Колесников Олег Юрьевич": 0,
-      "Кочетков Сергей Петрович": 0,
-      "Кравцов Александр Владимирович": 0,
-      "Ложкин Алексей Николаевич": 7,
-      "Мельников Борис Викторович": 1,
-      "Подзоров Александр Георгиевич": 4,
-      "Якименко Алексей Евгеньевич": 0
+      "gas:candidate-vibid:2552000990706": 0,
+      "gas:candidate-vibid:2552000990468": 25,
+      "gas:candidate-vibid:2552000994508": 9,
+      "gas:candidate-vibid:2552000995687": 0,
+      "gas:candidate-vibid:2552000995793": 0,
+      "gas:candidate-vibid:2552000987502": 0,
+      "gas:candidate-vibid:2552000983027": 7,
+      "gas:candidate-vibid:2552000992049": 1,
+      "gas:candidate-vibid:2552000989939": 4,
+      "gas:candidate-vibid:2552000995754": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897368&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897368&type=464",
@@ -14983,16 +14983,16 @@ export const duma_2016_uik_463_region_55_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 0,
-      "Голушко Андрей Иванович": 27,
-      "Денисенко Олег Иванович": 6,
-      "Колесников Олег Юрьевич": 1,
-      "Кочетков Сергей Петрович": 2,
-      "Кравцов Александр Владимирович": 3,
-      "Ложкин Алексей Николаевич": 1,
-      "Мельников Борис Викторович": 0,
-      "Подзоров Александр Георгиевич": 2,
-      "Якименко Алексей Евгеньевич": 0
+      "gas:candidate-vibid:2552000990706": 0,
+      "gas:candidate-vibid:2552000990468": 27,
+      "gas:candidate-vibid:2552000994508": 6,
+      "gas:candidate-vibid:2552000995687": 1,
+      "gas:candidate-vibid:2552000995793": 2,
+      "gas:candidate-vibid:2552000987502": 3,
+      "gas:candidate-vibid:2552000983027": 1,
+      "gas:candidate-vibid:2552000992049": 0,
+      "gas:candidate-vibid:2552000989939": 2,
+      "gas:candidate-vibid:2552000995754": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897368&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897368&type=464",

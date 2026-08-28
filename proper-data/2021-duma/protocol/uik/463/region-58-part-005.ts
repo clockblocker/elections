@@ -11,8 +11,12 @@ export const duma_2021_uik_463_region_58_part_005 = [
     "ballot": "single-member",
     "uikNumber": 31,
     "uikTvd": "4584027463810",
+    "uikName": "УИК №31",
     "tikTvd": "25820001085618",
     "tikName": "Пенза, Октябрьская",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1408,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1200,
@@ -28,12 +32,12 @@ export const duma_2021_uik_463_region_58_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Метальников Кирилл Сергеевич": 31,
-      "Никитенко Игорь Владимирович": 35,
-      "Рекаев Андрей Юрьевич": 39,
-      "Самокутяев Александр Михайлович": 194,
-      "Трутнев Александр Васильевич": 139,
-      "Шпагин Алексей Николаевич": 102
+      "25820001090669": 31,
+      "25820001090692": 35,
+      "25820001089100": 39,
+      "25820001089693": 194,
+      "25820001090396": 139,
+      "25820001089480": 102
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=25820001085618&vrn=100100225883172&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=25820001085618&type=464",
@@ -43,6 +47,10 @@ export const duma_2021_uik_463_region_58_part_005 = [
       "retrievedAt": "2026-08-26T08:02:44.903076+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=25820001085618&vrn=100100225883172&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=25820001085618&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
     }
   },
   {
@@ -52,8 +60,12 @@ export const duma_2021_uik_463_region_58_part_005 = [
     "ballot": "single-member",
     "uikNumber": 32,
     "uikTvd": "4584027463811",
+    "uikName": "УИК №32",
     "tikTvd": "25820001085618",
     "tikName": "Пенза, Октябрьская",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2026,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1600,
@@ -69,12 +81,12 @@ export const duma_2021_uik_463_region_58_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Метальников Кирилл Сергеевич": 16,
-      "Никитенко Игорь Владимирович": 39,
-      "Рекаев Андрей Юрьевич": 65,
-      "Самокутяев Александр Михайлович": 296,
-      "Трутнев Александр Васильевич": 155,
-      "Шпагин Алексей Николаевич": 117
+      "25820001090669": 16,
+      "25820001090692": 39,
+      "25820001089100": 65,
+      "25820001089693": 296,
+      "25820001090396": 155,
+      "25820001089480": 117
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=25820001085618&vrn=100100225883172&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=25820001085618&type=464",
@@ -84,6 +96,10 @@ export const duma_2021_uik_463_region_58_part_005 = [
       "retrievedAt": "2026-08-26T08:02:44.903076+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=25820001085618&vrn=100100225883172&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=25820001085618&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
     }
   },
   {
@@ -93,8 +109,12 @@ export const duma_2021_uik_463_region_58_part_005 = [
     "ballot": "single-member",
     "uikNumber": 33,
     "uikTvd": "4584027463812",
+    "uikName": "УИК №33",
     "tikTvd": "25820001085618",
     "tikName": "Пенза, Октябрьская",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1523,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1100,
@@ -110,12 +130,12 @@ export const duma_2021_uik_463_region_58_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Метальников Кирилл Сергеевич": 38,
-      "Никитенко Игорь Владимирович": 40,
-      "Рекаев Андрей Юрьевич": 41,
-      "Самокутяев Александр Михайлович": 198,
-      "Трутнев Александр Васильевич": 115,
-      "Шпагин Алексей Николаевич": 107
+      "25820001090669": 38,
+      "25820001090692": 40,
+      "25820001089100": 41,
+      "25820001089693": 198,
+      "25820001090396": 115,
+      "25820001089480": 107
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=25820001085618&vrn=100100225883172&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=25820001085618&type=464",
@@ -125,6 +145,10 @@ export const duma_2021_uik_463_region_58_part_005 = [
       "retrievedAt": "2026-08-26T08:02:44.903076+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=25820001085618&vrn=100100225883172&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=25820001085618&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
     }
   },
   {
@@ -134,8 +158,12 @@ export const duma_2021_uik_463_region_58_part_005 = [
     "ballot": "single-member",
     "uikNumber": 34,
     "uikTvd": "4584027463813",
+    "uikName": "УИК №34",
     "tikTvd": "25820001085618",
     "tikName": "Пенза, Октябрьская",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2752,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2700,
@@ -151,12 +179,12 @@ export const duma_2021_uik_463_region_58_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Метальников Кирилл Сергеевич": 49,
-      "Никитенко Игорь Владимирович": 81,
-      "Рекаев Андрей Юрьевич": 91,
-      "Самокутяев Александр Михайлович": 483,
-      "Трутнев Александр Васильевич": 237,
-      "Шпагин Алексей Николаевич": 183
+      "25820001090669": 49,
+      "25820001090692": 81,
+      "25820001089100": 91,
+      "25820001089693": 483,
+      "25820001090396": 237,
+      "25820001089480": 183
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=25820001085618&vrn=100100225883172&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=25820001085618&type=464",
@@ -166,6 +194,10 @@ export const duma_2021_uik_463_region_58_part_005 = [
       "retrievedAt": "2026-08-26T08:02:44.903076+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=25820001085618&vrn=100100225883172&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=25820001085618&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
     }
   },
   {
@@ -175,8 +207,12 @@ export const duma_2021_uik_463_region_58_part_005 = [
     "ballot": "single-member",
     "uikNumber": 35,
     "uikTvd": "4584027463814",
+    "uikName": "УИК №35",
     "tikTvd": "25820001085618",
     "tikName": "Пенза, Октябрьская",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1867,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1800,
@@ -192,12 +228,12 @@ export const duma_2021_uik_463_region_58_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Метальников Кирилл Сергеевич": 32,
-      "Никитенко Игорь Владимирович": 44,
-      "Рекаев Андрей Юрьевич": 56,
-      "Самокутяев Александр Михайлович": 349,
-      "Трутнев Александр Васильевич": 150,
-      "Шпагин Алексей Николаевич": 131
+      "25820001090669": 32,
+      "25820001090692": 44,
+      "25820001089100": 56,
+      "25820001089693": 349,
+      "25820001090396": 150,
+      "25820001089480": 131
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=25820001085618&vrn=100100225883172&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=25820001085618&type=464",
@@ -207,6 +243,10 @@ export const duma_2021_uik_463_region_58_part_005 = [
       "retrievedAt": "2026-08-26T08:02:44.903076+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=25820001085618&vrn=100100225883172&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=25820001085618&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
     }
   },
   {
@@ -216,8 +256,12 @@ export const duma_2021_uik_463_region_58_part_005 = [
     "ballot": "single-member",
     "uikNumber": 36,
     "uikTvd": "4584027463815",
+    "uikName": "УИК №36",
     "tikTvd": "25820001085618",
     "tikName": "Пенза, Октябрьская",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2454,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2400,
@@ -233,12 +277,12 @@ export const duma_2021_uik_463_region_58_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Метальников Кирилл Сергеевич": 29,
-      "Никитенко Игорь Владимирович": 68,
-      "Рекаев Андрей Юрьевич": 78,
-      "Самокутяев Александр Михайлович": 372,
-      "Трутнев Александр Васильевич": 206,
-      "Шпагин Алексей Николаевич": 138
+      "25820001090669": 29,
+      "25820001090692": 68,
+      "25820001089100": 78,
+      "25820001089693": 372,
+      "25820001090396": 206,
+      "25820001089480": 138
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=25820001085618&vrn=100100225883172&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=25820001085618&type=464",
@@ -248,6 +292,10 @@ export const duma_2021_uik_463_region_58_part_005 = [
       "retrievedAt": "2026-08-26T08:02:44.903076+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=25820001085618&vrn=100100225883172&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=25820001085618&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
     }
   },
   {
@@ -257,8 +305,12 @@ export const duma_2021_uik_463_region_58_part_005 = [
     "ballot": "single-member",
     "uikNumber": 37,
     "uikTvd": "4584027463816",
+    "uikName": "УИК №37",
     "tikTvd": "25820001085618",
     "tikName": "Пенза, Октябрьская",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2368,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2300,
@@ -274,12 +326,12 @@ export const duma_2021_uik_463_region_58_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Метальников Кирилл Сергеевич": 20,
-      "Никитенко Игорь Владимирович": 30,
-      "Рекаев Андрей Юрьевич": 50,
-      "Самокутяев Александр Михайлович": 373,
-      "Трутнев Александр Васильевич": 183,
-      "Шпагин Алексей Николаевич": 141
+      "25820001090669": 20,
+      "25820001090692": 30,
+      "25820001089100": 50,
+      "25820001089693": 373,
+      "25820001090396": 183,
+      "25820001089480": 141
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=25820001085618&vrn=100100225883172&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=25820001085618&type=464",
@@ -289,6 +341,10 @@ export const duma_2021_uik_463_region_58_part_005 = [
       "retrievedAt": "2026-08-26T08:02:44.903076+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=25820001085618&vrn=100100225883172&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=25820001085618&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
     }
   },
   {
@@ -298,8 +354,12 @@ export const duma_2021_uik_463_region_58_part_005 = [
     "ballot": "single-member",
     "uikNumber": 38,
     "uikTvd": "4584027463817",
+    "uikName": "УИК №38",
     "tikTvd": "25820001085618",
     "tikName": "Пенза, Октябрьская",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2143,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1600,
@@ -315,12 +375,12 @@ export const duma_2021_uik_463_region_58_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Метальников Кирилл Сергеевич": 26,
-      "Никитенко Игорь Владимирович": 46,
-      "Рекаев Андрей Юрьевич": 59,
-      "Самокутяев Александр Михайлович": 436,
-      "Трутнев Александр Васильевич": 185,
-      "Шпагин Алексей Николаевич": 157
+      "25820001090669": 26,
+      "25820001090692": 46,
+      "25820001089100": 59,
+      "25820001089693": 436,
+      "25820001090396": 185,
+      "25820001089480": 157
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=25820001085618&vrn=100100225883172&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=25820001085618&type=464",
@@ -330,6 +390,10 @@ export const duma_2021_uik_463_region_58_part_005 = [
       "retrievedAt": "2026-08-26T08:02:44.903076+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=25820001085618&vrn=100100225883172&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=25820001085618&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
     }
   },
   {
@@ -339,8 +403,12 @@ export const duma_2021_uik_463_region_58_part_005 = [
     "ballot": "single-member",
     "uikNumber": 39,
     "uikTvd": "4584027463818",
+    "uikName": "УИК №39",
     "tikTvd": "25820001085618",
     "tikName": "Пенза, Октябрьская",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2555,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2100,
@@ -356,12 +424,12 @@ export const duma_2021_uik_463_region_58_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Метальников Кирилл Сергеевич": 43,
-      "Никитенко Игорь Владимирович": 60,
-      "Рекаев Андрей Юрьевич": 60,
-      "Самокутяев Александр Михайлович": 516,
-      "Трутнев Александр Васильевич": 182,
-      "Шпагин Алексей Николаевич": 158
+      "25820001090669": 43,
+      "25820001090692": 60,
+      "25820001089100": 60,
+      "25820001089693": 516,
+      "25820001090396": 182,
+      "25820001089480": 158
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=25820001085618&vrn=100100225883172&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=25820001085618&type=464",
@@ -371,6 +439,10 @@ export const duma_2021_uik_463_region_58_part_005 = [
       "retrievedAt": "2026-08-26T08:02:44.903076+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=25820001085618&vrn=100100225883172&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=25820001085618&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
     }
   },
   {
@@ -380,8 +452,12 @@ export const duma_2021_uik_463_region_58_part_005 = [
     "ballot": "single-member",
     "uikNumber": 40,
     "uikTvd": "4584027463819",
+    "uikName": "УИК №40",
     "tikTvd": "25820001085618",
     "tikName": "Пенза, Октябрьская",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 284,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 350,
@@ -397,12 +473,12 @@ export const duma_2021_uik_463_region_58_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Метальников Кирилл Сергеевич": 10,
-      "Никитенко Игорь Владимирович": 9,
-      "Рекаев Андрей Юрьевич": 6,
-      "Самокутяев Александр Михайлович": 230,
-      "Трутнев Александр Васильевич": 10,
-      "Шпагин Алексей Николаевич": 9
+      "25820001090669": 10,
+      "25820001090692": 9,
+      "25820001089100": 6,
+      "25820001089693": 230,
+      "25820001090396": 10,
+      "25820001089480": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=25820001085618&vrn=100100225883172&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=25820001085618&type=464",
@@ -412,6 +488,10 @@ export const duma_2021_uik_463_region_58_part_005 = [
       "retrievedAt": "2026-08-26T08:02:44.903076+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=25820001085618&vrn=100100225883172&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=25820001085618&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
     }
   },
   {
@@ -421,8 +501,12 @@ export const duma_2021_uik_463_region_58_part_005 = [
     "ballot": "single-member",
     "uikNumber": 41,
     "uikTvd": "4584027463820",
+    "uikName": "УИК №41",
     "tikTvd": "25820001085618",
     "tikName": "Пенза, Октябрьская",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1199,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1000,
@@ -438,12 +522,12 @@ export const duma_2021_uik_463_region_58_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Метальников Кирилл Сергеевич": 28,
-      "Никитенко Игорь Владимирович": 31,
-      "Рекаев Андрей Юрьевич": 36,
-      "Самокутяев Александр Михайлович": 218,
-      "Трутнев Александр Васильевич": 117,
-      "Шпагин Алексей Николаевич": 76
+      "25820001090669": 28,
+      "25820001090692": 31,
+      "25820001089100": 36,
+      "25820001089693": 218,
+      "25820001090396": 117,
+      "25820001089480": 76
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=25820001085618&vrn=100100225883172&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=25820001085618&type=464",
@@ -453,6 +537,10 @@ export const duma_2021_uik_463_region_58_part_005 = [
       "retrievedAt": "2026-08-26T08:02:44.903076+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=25820001085618&vrn=100100225883172&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=25820001085618&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
     }
   },
   {
@@ -462,8 +550,12 @@ export const duma_2021_uik_463_region_58_part_005 = [
     "ballot": "single-member",
     "uikNumber": 42,
     "uikTvd": "4584027463821",
+    "uikName": "УИК №42",
     "tikTvd": "25820001085618",
     "tikName": "Пенза, Октябрьская",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1706,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1400,
@@ -479,12 +571,12 @@ export const duma_2021_uik_463_region_58_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Метальников Кирилл Сергеевич": 26,
-      "Никитенко Игорь Владимирович": 36,
-      "Рекаев Андрей Юрьевич": 36,
-      "Самокутяев Александр Михайлович": 247,
-      "Трутнев Александр Васильевич": 130,
-      "Шпагин Алексей Николаевич": 102
+      "25820001090669": 26,
+      "25820001090692": 36,
+      "25820001089100": 36,
+      "25820001089693": 247,
+      "25820001090396": 130,
+      "25820001089480": 102
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=25820001085618&vrn=100100225883172&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=25820001085618&type=464",
@@ -494,6 +586,10 @@ export const duma_2021_uik_463_region_58_part_005 = [
       "retrievedAt": "2026-08-26T08:02:44.903076+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=25820001085618&vrn=100100225883172&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=25820001085618&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
     }
   },
   {
@@ -503,8 +599,12 @@ export const duma_2021_uik_463_region_58_part_005 = [
     "ballot": "single-member",
     "uikNumber": 43,
     "uikTvd": "4584027463822",
+    "uikName": "УИК №43",
     "tikTvd": "25820001085618",
     "tikName": "Пенза, Октябрьская",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2562,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2200,
@@ -520,12 +620,12 @@ export const duma_2021_uik_463_region_58_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Метальников Кирилл Сергеевич": 25,
-      "Никитенко Игорь Владимирович": 41,
-      "Рекаев Андрей Юрьевич": 69,
-      "Самокутяев Александр Михайлович": 457,
-      "Трутнев Александр Васильевич": 204,
-      "Шпагин Алексей Николаевич": 130
+      "25820001090669": 25,
+      "25820001090692": 41,
+      "25820001089100": 69,
+      "25820001089693": 457,
+      "25820001090396": 204,
+      "25820001089480": 130
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=25820001085618&vrn=100100225883172&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=25820001085618&type=464",
@@ -535,6 +635,10 @@ export const duma_2021_uik_463_region_58_part_005 = [
       "retrievedAt": "2026-08-26T08:02:44.903076+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=25820001085618&vrn=100100225883172&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=25820001085618&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
     }
   },
   {
@@ -544,8 +648,12 @@ export const duma_2021_uik_463_region_58_part_005 = [
     "ballot": "single-member",
     "uikNumber": 44,
     "uikTvd": "4584027463823",
+    "uikName": "УИК №44",
     "tikTvd": "25820001085618",
     "tikName": "Пенза, Октябрьская",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2320,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2000,
@@ -561,12 +669,12 @@ export const duma_2021_uik_463_region_58_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Метальников Кирилл Сергеевич": 37,
-      "Никитенко Игорь Владимирович": 56,
-      "Рекаев Андрей Юрьевич": 41,
-      "Самокутяев Александр Михайлович": 542,
-      "Трутнев Александр Васильевич": 165,
-      "Шпагин Алексей Николаевич": 107
+      "25820001090669": 37,
+      "25820001090692": 56,
+      "25820001089100": 41,
+      "25820001089693": 542,
+      "25820001090396": 165,
+      "25820001089480": 107
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=25820001085618&vrn=100100225883172&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=25820001085618&type=464",
@@ -576,6 +684,10 @@ export const duma_2021_uik_463_region_58_part_005 = [
       "retrievedAt": "2026-08-26T08:02:44.903076+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=25820001085618&vrn=100100225883172&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=25820001085618&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
     }
   },
   {
@@ -585,8 +697,12 @@ export const duma_2021_uik_463_region_58_part_005 = [
     "ballot": "single-member",
     "uikNumber": 45,
     "uikTvd": "4584027463824",
+    "uikName": "УИК №45",
     "tikTvd": "25820001085618",
     "tikName": "Пенза, Октябрьская",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2334,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2000,
@@ -602,12 +718,12 @@ export const duma_2021_uik_463_region_58_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Метальников Кирилл Сергеевич": 26,
-      "Никитенко Игорь Владимирович": 58,
-      "Рекаев Андрей Юрьевич": 54,
-      "Самокутяев Александр Михайлович": 568,
-      "Трутнев Александр Васильевич": 167,
-      "Шпагин Алексей Николаевич": 112
+      "25820001090669": 26,
+      "25820001090692": 58,
+      "25820001089100": 54,
+      "25820001089693": 568,
+      "25820001090396": 167,
+      "25820001089480": 112
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=25820001085618&vrn=100100225883172&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=25820001085618&type=464",
@@ -617,6 +733,10 @@ export const duma_2021_uik_463_region_58_part_005 = [
       "retrievedAt": "2026-08-26T08:02:44.903076+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=25820001085618&vrn=100100225883172&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=25820001085618&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
     }
   },
   {
@@ -626,8 +746,12 @@ export const duma_2021_uik_463_region_58_part_005 = [
     "ballot": "single-member",
     "uikNumber": 46,
     "uikTvd": "4584027463825",
+    "uikName": "УИК №46",
     "tikTvd": "25820001085618",
     "tikName": "Пенза, Октябрьская",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2009,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1900,
@@ -643,12 +767,12 @@ export const duma_2021_uik_463_region_58_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Метальников Кирилл Сергеевич": 26,
-      "Никитенко Игорь Владимирович": 33,
-      "Рекаев Андрей Юрьевич": 46,
-      "Самокутяев Александр Михайлович": 275,
-      "Трутнев Александр Васильевич": 197,
-      "Шпагин Алексей Николаевич": 114
+      "25820001090669": 26,
+      "25820001090692": 33,
+      "25820001089100": 46,
+      "25820001089693": 275,
+      "25820001090396": 197,
+      "25820001089480": 114
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=25820001085618&vrn=100100225883172&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=25820001085618&type=464",
@@ -658,6 +782,10 @@ export const duma_2021_uik_463_region_58_part_005 = [
       "retrievedAt": "2026-08-26T08:02:44.903076+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=25820001085618&vrn=100100225883172&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=25820001085618&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
     }
   },
   {
@@ -667,8 +795,12 @@ export const duma_2021_uik_463_region_58_part_005 = [
     "ballot": "single-member",
     "uikNumber": 47,
     "uikTvd": "4584027463826",
+    "uikName": "УИК №47",
     "tikTvd": "25820001085618",
     "tikName": "Пенза, Октябрьская",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1493,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1200,
@@ -684,12 +816,12 @@ export const duma_2021_uik_463_region_58_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Метальников Кирилл Сергеевич": 16,
-      "Никитенко Игорь Владимирович": 32,
-      "Рекаев Андрей Юрьевич": 32,
-      "Самокутяев Александр Михайлович": 181,
-      "Трутнев Александр Васильевич": 85,
-      "Шпагин Алексей Николаевич": 49
+      "25820001090669": 16,
+      "25820001090692": 32,
+      "25820001089100": 32,
+      "25820001089693": 181,
+      "25820001090396": 85,
+      "25820001089480": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=25820001085618&vrn=100100225883172&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=25820001085618&type=464",
@@ -699,6 +831,10 @@ export const duma_2021_uik_463_region_58_part_005 = [
       "retrievedAt": "2026-08-26T08:02:44.903076+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=25820001085618&vrn=100100225883172&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=25820001085618&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
     }
   },
   {
@@ -708,8 +844,12 @@ export const duma_2021_uik_463_region_58_part_005 = [
     "ballot": "single-member",
     "uikNumber": 48,
     "uikTvd": "4584027463827",
+    "uikName": "УИК №48",
     "tikTvd": "25820001085618",
     "tikName": "Пенза, Октябрьская",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2432,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2300,
@@ -725,12 +865,12 @@ export const duma_2021_uik_463_region_58_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Метальников Кирилл Сергеевич": 24,
-      "Никитенко Игорь Владимирович": 35,
-      "Рекаев Андрей Юрьевич": 56,
-      "Самокутяев Александр Михайлович": 271,
-      "Трутнев Александр Васильевич": 162,
-      "Шпагин Алексей Николаевич": 108
+      "25820001090669": 24,
+      "25820001090692": 35,
+      "25820001089100": 56,
+      "25820001089693": 271,
+      "25820001090396": 162,
+      "25820001089480": 108
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=25820001085618&vrn=100100225883172&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=25820001085618&type=464",
@@ -740,6 +880,10 @@ export const duma_2021_uik_463_region_58_part_005 = [
       "retrievedAt": "2026-08-26T08:02:44.903076+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=25820001085618&vrn=100100225883172&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=25820001085618&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
     }
   },
   {
@@ -749,8 +893,12 @@ export const duma_2021_uik_463_region_58_part_005 = [
     "ballot": "single-member",
     "uikNumber": 49,
     "uikTvd": "4584027463828",
+    "uikName": "УИК №49",
     "tikTvd": "25820001085618",
     "tikName": "Пенза, Октябрьская",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1500,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1300,
@@ -766,12 +914,12 @@ export const duma_2021_uik_463_region_58_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Метальников Кирилл Сергеевич": 25,
-      "Никитенко Игорь Владимирович": 37,
-      "Рекаев Андрей Юрьевич": 48,
-      "Самокутяев Александр Михайлович": 268,
-      "Трутнев Александр Васильевич": 138,
-      "Шпагин Алексей Николаевич": 91
+      "25820001090669": 25,
+      "25820001090692": 37,
+      "25820001089100": 48,
+      "25820001089693": 268,
+      "25820001090396": 138,
+      "25820001089480": 91
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=25820001085618&vrn=100100225883172&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=25820001085618&type=464",
@@ -781,6 +929,10 @@ export const duma_2021_uik_463_region_58_part_005 = [
       "retrievedAt": "2026-08-26T08:02:44.903076+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=25820001085618&vrn=100100225883172&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=25820001085618&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
     }
   },
   {
@@ -790,8 +942,12 @@ export const duma_2021_uik_463_region_58_part_005 = [
     "ballot": "single-member",
     "uikNumber": 50,
     "uikTvd": "4584027463829",
+    "uikName": "УИК №50",
     "tikTvd": "25820001085618",
     "tikName": "Пенза, Октябрьская",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1567,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1400,
@@ -807,12 +963,12 @@ export const duma_2021_uik_463_region_58_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Метальников Кирилл Сергеевич": 19,
-      "Никитенко Игорь Владимирович": 27,
-      "Рекаев Андрей Юрьевич": 33,
-      "Самокутяев Александр Михайлович": 352,
-      "Трутнев Александр Васильевич": 106,
-      "Шпагин Алексей Николаевич": 68
+      "25820001090669": 19,
+      "25820001090692": 27,
+      "25820001089100": 33,
+      "25820001089693": 352,
+      "25820001090396": 106,
+      "25820001089480": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=25820001085618&vrn=100100225883172&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=25820001085618&type=464",
@@ -822,6 +978,10 @@ export const duma_2021_uik_463_region_58_part_005 = [
       "retrievedAt": "2026-08-26T08:02:44.903076+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=25820001085618&vrn=100100225883172&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=25820001085618&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
     }
   },
   {
@@ -831,8 +991,12 @@ export const duma_2021_uik_463_region_58_part_005 = [
     "ballot": "single-member",
     "uikNumber": 51,
     "uikTvd": "4584027463830",
+    "uikName": "УИК №51",
     "tikTvd": "25820001085618",
     "tikName": "Пенза, Октябрьская",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2022,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1800,
@@ -848,12 +1012,12 @@ export const duma_2021_uik_463_region_58_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Метальников Кирилл Сергеевич": 25,
-      "Никитенко Игорь Владимирович": 50,
-      "Рекаев Андрей Юрьевич": 52,
-      "Самокутяев Александр Михайлович": 304,
-      "Трутнев Александр Васильевич": 130,
-      "Шпагин Алексей Николаевич": 106
+      "25820001090669": 25,
+      "25820001090692": 50,
+      "25820001089100": 52,
+      "25820001089693": 304,
+      "25820001090396": 130,
+      "25820001089480": 106
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=25820001085618&vrn=100100225883172&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=25820001085618&type=464",
@@ -863,6 +1027,10 @@ export const duma_2021_uik_463_region_58_part_005 = [
       "retrievedAt": "2026-08-26T08:02:44.903076+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=25820001085618&vrn=100100225883172&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=25820001085618&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
     }
   },
   {
@@ -872,8 +1040,12 @@ export const duma_2021_uik_463_region_58_part_005 = [
     "ballot": "single-member",
     "uikNumber": 52,
     "uikTvd": "4584027463831",
+    "uikName": "УИК №52",
     "tikTvd": "25820001085618",
     "tikName": "Пенза, Октябрьская",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2667,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2500,
@@ -889,12 +1061,12 @@ export const duma_2021_uik_463_region_58_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Метальников Кирилл Сергеевич": 46,
-      "Никитенко Игорь Владимирович": 74,
-      "Рекаев Андрей Юрьевич": 89,
-      "Самокутяев Александр Михайлович": 465,
-      "Трутнев Александр Васильевич": 195,
-      "Шпагин Алексей Николаевич": 188
+      "25820001090669": 46,
+      "25820001090692": 74,
+      "25820001089100": 89,
+      "25820001089693": 465,
+      "25820001090396": 195,
+      "25820001089480": 188
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=25820001085618&vrn=100100225883172&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=25820001085618&type=464",
@@ -904,6 +1076,10 @@ export const duma_2021_uik_463_region_58_part_005 = [
       "retrievedAt": "2026-08-26T08:02:44.903076+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=25820001085618&vrn=100100225883172&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=25820001085618&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
     }
   },
   {
@@ -913,8 +1089,12 @@ export const duma_2021_uik_463_region_58_part_005 = [
     "ballot": "single-member",
     "uikNumber": 53,
     "uikTvd": "4584027463832",
+    "uikName": "УИК №53",
     "tikTvd": "25820001085618",
     "tikName": "Пенза, Октябрьская",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2173,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2000,
@@ -930,12 +1110,12 @@ export const duma_2021_uik_463_region_58_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Метальников Кирилл Сергеевич": 26,
-      "Никитенко Игорь Владимирович": 49,
-      "Рекаев Андрей Юрьевич": 68,
-      "Самокутяев Александр Михайлович": 297,
-      "Трутнев Александр Васильевич": 138,
-      "Шпагин Алексей Николаевич": 126
+      "25820001090669": 26,
+      "25820001090692": 49,
+      "25820001089100": 68,
+      "25820001089693": 297,
+      "25820001090396": 138,
+      "25820001089480": 126
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=25820001085618&vrn=100100225883172&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=25820001085618&type=464",
@@ -945,6 +1125,10 @@ export const duma_2021_uik_463_region_58_part_005 = [
       "retrievedAt": "2026-08-26T08:02:44.903076+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=25820001085618&vrn=100100225883172&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=25820001085618&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
     }
   },
   {
@@ -954,8 +1138,12 @@ export const duma_2021_uik_463_region_58_part_005 = [
     "ballot": "single-member",
     "uikNumber": 54,
     "uikTvd": "4584027463833",
+    "uikName": "УИК №54",
     "tikTvd": "25820001085618",
     "tikName": "Пенза, Октябрьская",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1838,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1600,
@@ -971,12 +1159,12 @@ export const duma_2021_uik_463_region_58_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Метальников Кирилл Сергеевич": 27,
-      "Никитенко Игорь Владимирович": 51,
-      "Рекаев Андрей Юрьевич": 56,
-      "Самокутяев Александр Михайлович": 495,
-      "Трутнев Александр Васильевич": 138,
-      "Шпагин Алексей Николаевич": 115
+      "25820001090669": 27,
+      "25820001090692": 51,
+      "25820001089100": 56,
+      "25820001089693": 495,
+      "25820001090396": 138,
+      "25820001089480": 115
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=25820001085618&vrn=100100225883172&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=25820001085618&type=464",
@@ -986,6 +1174,10 @@ export const duma_2021_uik_463_region_58_part_005 = [
       "retrievedAt": "2026-08-26T08:02:44.903076+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=25820001085618&vrn=100100225883172&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=25820001085618&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
     }
   },
   {
@@ -995,8 +1187,12 @@ export const duma_2021_uik_463_region_58_part_005 = [
     "ballot": "single-member",
     "uikNumber": 55,
     "uikTvd": "4584027463834",
+    "uikName": "УИК №55",
     "tikTvd": "25820001085618",
     "tikName": "Пенза, Октябрьская",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2029,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1800,
@@ -1012,12 +1208,12 @@ export const duma_2021_uik_463_region_58_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Метальников Кирилл Сергеевич": 33,
-      "Никитенко Игорь Владимирович": 47,
-      "Рекаев Андрей Юрьевич": 68,
-      "Самокутяев Александр Михайлович": 327,
-      "Трутнев Александр Васильевич": 126,
-      "Шпагин Алексей Николаевич": 107
+      "25820001090669": 33,
+      "25820001090692": 47,
+      "25820001089100": 68,
+      "25820001089693": 327,
+      "25820001090396": 126,
+      "25820001089480": 107
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=25820001085618&vrn=100100225883172&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=25820001085618&type=464",
@@ -1027,6 +1223,10 @@ export const duma_2021_uik_463_region_58_part_005 = [
       "retrievedAt": "2026-08-26T08:02:44.903076+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=25820001085618&vrn=100100225883172&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=25820001085618&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
     }
   },
   {
@@ -1036,8 +1236,12 @@ export const duma_2021_uik_463_region_58_part_005 = [
     "ballot": "single-member",
     "uikNumber": 56,
     "uikTvd": "4584027463835",
+    "uikName": "УИК №56",
     "tikTvd": "25820001085618",
     "tikName": "Пенза, Октябрьская",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1502,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1400,
@@ -1053,12 +1257,12 @@ export const duma_2021_uik_463_region_58_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Метальников Кирилл Сергеевич": 12,
-      "Никитенко Игорь Владимирович": 19,
-      "Рекаев Андрей Юрьевич": 25,
-      "Самокутяев Александр Михайлович": 140,
-      "Трутнев Александр Васильевич": 81,
-      "Шпагин Алексей Николаевич": 69
+      "25820001090669": 12,
+      "25820001090692": 19,
+      "25820001089100": 25,
+      "25820001089693": 140,
+      "25820001090396": 81,
+      "25820001089480": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=25820001085618&vrn=100100225883172&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=25820001085618&type=464",
@@ -1068,6 +1272,10 @@ export const duma_2021_uik_463_region_58_part_005 = [
       "retrievedAt": "2026-08-26T08:02:44.903076+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=25820001085618&vrn=100100225883172&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=25820001085618&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
     }
   },
   {
@@ -1077,8 +1285,12 @@ export const duma_2021_uik_463_region_58_part_005 = [
     "ballot": "single-member",
     "uikNumber": 57,
     "uikTvd": "4584027463836",
+    "uikName": "УИК №57",
     "tikTvd": "25820001085618",
     "tikName": "Пенза, Октябрьская",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2407,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1900,
@@ -1094,12 +1306,12 @@ export const duma_2021_uik_463_region_58_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Метальников Кирилл Сергеевич": 29,
-      "Никитенко Игорь Владимирович": 70,
-      "Рекаев Андрей Юрьевич": 79,
-      "Самокутяев Александр Михайлович": 410,
-      "Трутнев Александр Васильевич": 201,
-      "Шпагин Алексей Николаевич": 150
+      "25820001090669": 29,
+      "25820001090692": 70,
+      "25820001089100": 79,
+      "25820001089693": 410,
+      "25820001090396": 201,
+      "25820001089480": 150
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=25820001085618&vrn=100100225883172&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=25820001085618&type=464",
@@ -1109,6 +1321,10 @@ export const duma_2021_uik_463_region_58_part_005 = [
       "retrievedAt": "2026-08-26T08:02:44.903076+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=25820001085618&vrn=100100225883172&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=25820001085618&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
     }
   },
   {
@@ -1118,8 +1334,12 @@ export const duma_2021_uik_463_region_58_part_005 = [
     "ballot": "single-member",
     "uikNumber": 58,
     "uikTvd": "4584027463837",
+    "uikName": "УИК №58",
     "tikTvd": "25820001085618",
     "tikName": "Пенза, Октябрьская",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2012,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1600,
@@ -1135,12 +1355,12 @@ export const duma_2021_uik_463_region_58_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Метальников Кирилл Сергеевич": 29,
-      "Никитенко Игорь Владимирович": 56,
-      "Рекаев Андрей Юрьевич": 57,
-      "Самокутяев Александр Михайлович": 295,
-      "Трутнев Александр Васильевич": 148,
-      "Шпагин Алексей Николаевич": 89
+      "25820001090669": 29,
+      "25820001090692": 56,
+      "25820001089100": 57,
+      "25820001089693": 295,
+      "25820001090396": 148,
+      "25820001089480": 89
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=25820001085618&vrn=100100225883172&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=25820001085618&type=464",
@@ -1150,6 +1370,10 @@ export const duma_2021_uik_463_region_58_part_005 = [
       "retrievedAt": "2026-08-26T08:02:44.903076+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=25820001085618&vrn=100100225883172&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=25820001085618&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
     }
   },
   {
@@ -1159,8 +1383,12 @@ export const duma_2021_uik_463_region_58_part_005 = [
     "ballot": "single-member",
     "uikNumber": 59,
     "uikTvd": "4584027463838",
+    "uikName": "УИК №59",
     "tikTvd": "25820001085618",
     "tikName": "Пенза, Октябрьская",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1044,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 800,
@@ -1176,12 +1404,12 @@ export const duma_2021_uik_463_region_58_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Метальников Кирилл Сергеевич": 10,
-      "Никитенко Игорь Владимирович": 15,
-      "Рекаев Андрей Юрьевич": 23,
-      "Самокутяев Александр Михайлович": 134,
-      "Трутнев Александр Васильевич": 65,
-      "Шпагин Алексей Николаевич": 40
+      "25820001090669": 10,
+      "25820001090692": 15,
+      "25820001089100": 23,
+      "25820001089693": 134,
+      "25820001090396": 65,
+      "25820001089480": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=25820001085618&vrn=100100225883172&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=25820001085618&type=464",
@@ -1191,6 +1419,10 @@ export const duma_2021_uik_463_region_58_part_005 = [
       "retrievedAt": "2026-08-26T08:02:44.903076+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=25820001085618&vrn=100100225883172&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=25820001085618&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
     }
   },
   {
@@ -1200,8 +1432,12 @@ export const duma_2021_uik_463_region_58_part_005 = [
     "ballot": "single-member",
     "uikNumber": 60,
     "uikTvd": "4584027463839",
+    "uikName": "УИК №60",
     "tikTvd": "25820001085618",
     "tikName": "Пенза, Октябрьская",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2191,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2000,
@@ -1217,12 +1453,12 @@ export const duma_2021_uik_463_region_58_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Метальников Кирилл Сергеевич": 16,
-      "Никитенко Игорь Владимирович": 59,
-      "Рекаев Андрей Юрьевич": 51,
-      "Самокутяев Александр Михайлович": 277,
-      "Трутнев Александр Васильевич": 154,
-      "Шпагин Алексей Николаевич": 74
+      "25820001090669": 16,
+      "25820001090692": 59,
+      "25820001089100": 51,
+      "25820001089693": 277,
+      "25820001090396": 154,
+      "25820001089480": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=25820001085618&vrn=100100225883172&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=25820001085618&type=464",
@@ -1232,6 +1468,10 @@ export const duma_2021_uik_463_region_58_part_005 = [
       "retrievedAt": "2026-08-26T08:02:44.903076+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=25820001085618&vrn=100100225883172&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=25820001085618&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
     }
   },
   {
@@ -1241,8 +1481,12 @@ export const duma_2021_uik_463_region_58_part_005 = [
     "ballot": "single-member",
     "uikNumber": 61,
     "uikTvd": "4584027463840",
+    "uikName": "УИК №61",
     "tikTvd": "25820001085618",
     "tikName": "Пенза, Октябрьская",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2179,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1800,
@@ -1258,12 +1502,12 @@ export const duma_2021_uik_463_region_58_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Метальников Кирилл Сергеевич": 26,
-      "Никитенко Игорь Владимирович": 54,
-      "Рекаев Андрей Юрьевич": 52,
-      "Самокутяев Александр Михайлович": 314,
-      "Трутнев Александр Васильевич": 209,
-      "Шпагин Алексей Николаевич": 128
+      "25820001090669": 26,
+      "25820001090692": 54,
+      "25820001089100": 52,
+      "25820001089693": 314,
+      "25820001090396": 209,
+      "25820001089480": 128
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=25820001085618&vrn=100100225883172&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=25820001085618&type=464",
@@ -1273,6 +1517,10 @@ export const duma_2021_uik_463_region_58_part_005 = [
       "retrievedAt": "2026-08-26T08:02:44.903076+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=25820001085618&vrn=100100225883172&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=25820001085618&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
     }
   },
   {
@@ -1282,8 +1530,12 @@ export const duma_2021_uik_463_region_58_part_005 = [
     "ballot": "single-member",
     "uikNumber": 62,
     "uikTvd": "4584027463841",
+    "uikName": "УИК №62",
     "tikTvd": "25820001085618",
     "tikName": "Пенза, Октябрьская",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1671,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1300,
@@ -1299,12 +1551,12 @@ export const duma_2021_uik_463_region_58_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Метальников Кирилл Сергеевич": 23,
-      "Никитенко Игорь Владимирович": 31,
-      "Рекаев Андрей Юрьевич": 40,
-      "Самокутяев Александр Михайлович": 227,
-      "Трутнев Александр Васильевич": 171,
-      "Шпагин Алексей Николаевич": 93
+      "25820001090669": 23,
+      "25820001090692": 31,
+      "25820001089100": 40,
+      "25820001089693": 227,
+      "25820001090396": 171,
+      "25820001089480": 93
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=25820001085618&vrn=100100225883172&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=25820001085618&type=464",
@@ -1314,6 +1566,10 @@ export const duma_2021_uik_463_region_58_part_005 = [
       "retrievedAt": "2026-08-26T08:02:44.903076+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=25820001085618&vrn=100100225883172&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=25820001085618&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
     }
   },
   {
@@ -1323,8 +1579,12 @@ export const duma_2021_uik_463_region_58_part_005 = [
     "ballot": "single-member",
     "uikNumber": 63,
     "uikTvd": "4584027463842",
+    "uikName": "УИК №63",
     "tikTvd": "25820001085618",
     "tikName": "Пенза, Октябрьская",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2343,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2000,
@@ -1340,12 +1600,12 @@ export const duma_2021_uik_463_region_58_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Метальников Кирилл Сергеевич": 39,
-      "Никитенко Игорь Владимирович": 48,
-      "Рекаев Андрей Юрьевич": 53,
-      "Самокутяев Александр Михайлович": 294,
-      "Трутнев Александр Васильевич": 381,
-      "Шпагин Алексей Николаевич": 111
+      "25820001090669": 39,
+      "25820001090692": 48,
+      "25820001089100": 53,
+      "25820001089693": 294,
+      "25820001090396": 381,
+      "25820001089480": 111
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=25820001085618&vrn=100100225883172&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=25820001085618&type=464",
@@ -1355,6 +1615,10 @@ export const duma_2021_uik_463_region_58_part_005 = [
       "retrievedAt": "2026-08-26T08:02:44.903076+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=25820001085618&vrn=100100225883172&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=25820001085618&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
     }
   },
   {
@@ -1364,8 +1628,12 @@ export const duma_2021_uik_463_region_58_part_005 = [
     "ballot": "single-member",
     "uikNumber": 64,
     "uikTvd": "4584027463843",
+    "uikName": "УИК №64",
     "tikTvd": "25820001085618",
     "tikName": "Пенза, Октябрьская",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2277,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1900,
@@ -1381,12 +1649,12 @@ export const duma_2021_uik_463_region_58_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Метальников Кирилл Сергеевич": 35,
-      "Никитенко Игорь Владимирович": 52,
-      "Рекаев Андрей Юрьевич": 37,
-      "Самокутяев Александр Михайлович": 262,
-      "Трутнев Александр Васильевич": 261,
-      "Шпагин Алексей Николаевич": 97
+      "25820001090669": 35,
+      "25820001090692": 52,
+      "25820001089100": 37,
+      "25820001089693": 262,
+      "25820001090396": 261,
+      "25820001089480": 97
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=25820001085618&vrn=100100225883172&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=25820001085618&type=464",
@@ -1396,6 +1664,10 @@ export const duma_2021_uik_463_region_58_part_005 = [
       "retrievedAt": "2026-08-26T08:02:44.903076+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=25820001085618&vrn=100100225883172&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=25820001085618&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
     }
   },
   {
@@ -1405,8 +1677,12 @@ export const duma_2021_uik_463_region_58_part_005 = [
     "ballot": "single-member",
     "uikNumber": 65,
     "uikTvd": "4584027463844",
+    "uikName": "УИК №65",
     "tikTvd": "25820001085618",
     "tikName": "Пенза, Октябрьская",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1479,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1000,
@@ -1422,12 +1698,12 @@ export const duma_2021_uik_463_region_58_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Метальников Кирилл Сергеевич": 24,
-      "Никитенко Игорь Владимирович": 8,
-      "Рекаев Андрей Юрьевич": 41,
-      "Самокутяев Александр Михайлович": 282,
-      "Трутнев Александр Васильевич": 141,
-      "Шпагин Алексей Николаевич": 76
+      "25820001090669": 24,
+      "25820001090692": 8,
+      "25820001089100": 41,
+      "25820001089693": 282,
+      "25820001090396": 141,
+      "25820001089480": 76
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=25820001085618&vrn=100100225883172&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=25820001085618&type=464",
@@ -1437,6 +1713,10 @@ export const duma_2021_uik_463_region_58_part_005 = [
       "retrievedAt": "2026-08-26T08:02:44.903076+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=25820001085618&vrn=100100225883172&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=25820001085618&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
     }
   },
   {
@@ -1446,8 +1726,12 @@ export const duma_2021_uik_463_region_58_part_005 = [
     "ballot": "single-member",
     "uikNumber": 66,
     "uikTvd": "4584027463845",
+    "uikName": "УИК №66",
     "tikTvd": "25820001085618",
     "tikName": "Пенза, Октябрьская",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1792,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1500,
@@ -1463,12 +1747,12 @@ export const duma_2021_uik_463_region_58_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Метальников Кирилл Сергеевич": 24,
-      "Никитенко Игорь Владимирович": 44,
-      "Рекаев Андрей Юрьевич": 42,
-      "Самокутяев Александр Михайлович": 300,
-      "Трутнев Александр Васильевич": 165,
-      "Шпагин Алексей Николаевич": 120
+      "25820001090669": 24,
+      "25820001090692": 44,
+      "25820001089100": 42,
+      "25820001089693": 300,
+      "25820001090396": 165,
+      "25820001089480": 120
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=25820001085618&vrn=100100225883172&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=25820001085618&type=464",
@@ -1478,6 +1762,10 @@ export const duma_2021_uik_463_region_58_part_005 = [
       "retrievedAt": "2026-08-26T08:02:44.903076+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=25820001085618&vrn=100100225883172&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=25820001085618&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
     }
   },
   {
@@ -1487,8 +1775,12 @@ export const duma_2021_uik_463_region_58_part_005 = [
     "ballot": "single-member",
     "uikNumber": 67,
     "uikTvd": "4584027463846",
+    "uikName": "УИК №67",
     "tikTvd": "25820001085618",
     "tikName": "Пенза, Октябрьская",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1825,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1500,
@@ -1504,12 +1796,12 @@ export const duma_2021_uik_463_region_58_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Метальников Кирилл Сергеевич": 30,
-      "Никитенко Игорь Владимирович": 46,
-      "Рекаев Андрей Юрьевич": 49,
-      "Самокутяев Александр Михайлович": 378,
-      "Трутнев Александр Васильевич": 131,
-      "Шпагин Алексей Николаевич": 110
+      "25820001090669": 30,
+      "25820001090692": 46,
+      "25820001089100": 49,
+      "25820001089693": 378,
+      "25820001090396": 131,
+      "25820001089480": 110
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=25820001085618&vrn=100100225883172&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=25820001085618&type=464",
@@ -1519,6 +1811,10 @@ export const duma_2021_uik_463_region_58_part_005 = [
       "retrievedAt": "2026-08-26T08:02:44.903076+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=25820001085618&vrn=100100225883172&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=25820001085618&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
     }
   },
   {
@@ -1528,8 +1824,12 @@ export const duma_2021_uik_463_region_58_part_005 = [
     "ballot": "single-member",
     "uikNumber": 68,
     "uikTvd": "4584027463847",
+    "uikName": "УИК №68",
     "tikTvd": "25820001085618",
     "tikName": "Пенза, Октябрьская",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1873,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1300,
@@ -1545,12 +1845,12 @@ export const duma_2021_uik_463_region_58_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Метальников Кирилл Сергеевич": 28,
-      "Никитенко Игорь Владимирович": 52,
-      "Рекаев Андрей Юрьевич": 62,
-      "Самокутяев Александр Михайлович": 287,
-      "Трутнев Александр Васильевич": 154,
-      "Шпагин Алексей Николаевич": 91
+      "25820001090669": 28,
+      "25820001090692": 52,
+      "25820001089100": 62,
+      "25820001089693": 287,
+      "25820001090396": 154,
+      "25820001089480": 91
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=25820001085618&vrn=100100225883172&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=25820001085618&type=464",
@@ -1560,6 +1860,10 @@ export const duma_2021_uik_463_region_58_part_005 = [
       "retrievedAt": "2026-08-26T08:02:44.903076+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=25820001085618&vrn=100100225883172&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=25820001085618&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
     }
   },
   {
@@ -1569,8 +1873,12 @@ export const duma_2021_uik_463_region_58_part_005 = [
     "ballot": "single-member",
     "uikNumber": 69,
     "uikTvd": "4584027463848",
+    "uikName": "УИК №69",
     "tikTvd": "25820001085618",
     "tikName": "Пенза, Октябрьская",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1308,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1100,
@@ -1586,12 +1894,12 @@ export const duma_2021_uik_463_region_58_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Метальников Кирилл Сергеевич": 31,
-      "Никитенко Игорь Владимирович": 42,
-      "Рекаев Андрей Юрьевич": 54,
-      "Самокутяев Александр Михайлович": 218,
-      "Трутнев Александр Васильевич": 65,
-      "Шпагин Алексей Николаевич": 107
+      "25820001090669": 31,
+      "25820001090692": 42,
+      "25820001089100": 54,
+      "25820001089693": 218,
+      "25820001090396": 65,
+      "25820001089480": 107
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=25820001085618&vrn=100100225883172&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=25820001085618&type=464",
@@ -1601,6 +1909,10 @@ export const duma_2021_uik_463_region_58_part_005 = [
       "retrievedAt": "2026-08-26T08:02:44.903076+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=25820001085618&vrn=100100225883172&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=25820001085618&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
     }
   },
   {
@@ -1610,8 +1922,12 @@ export const duma_2021_uik_463_region_58_part_005 = [
     "ballot": "single-member",
     "uikNumber": 70,
     "uikTvd": "4584027463849",
+    "uikName": "УИК №70",
     "tikTvd": "25820001085618",
     "tikName": "Пенза, Октябрьская",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2261,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2100,
@@ -1627,12 +1943,12 @@ export const duma_2021_uik_463_region_58_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Метальников Кирилл Сергеевич": 30,
-      "Никитенко Игорь Владимирович": 61,
-      "Рекаев Андрей Юрьевич": 78,
-      "Самокутяев Александр Михайлович": 456,
-      "Трутнев Александр Васильевич": 174,
-      "Шпагин Алексей Николаевич": 139
+      "25820001090669": 30,
+      "25820001090692": 61,
+      "25820001089100": 78,
+      "25820001089693": 456,
+      "25820001090396": 174,
+      "25820001089480": 139
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=25820001085618&vrn=100100225883172&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=25820001085618&type=464",
@@ -1642,6 +1958,10 @@ export const duma_2021_uik_463_region_58_part_005 = [
       "retrievedAt": "2026-08-26T08:02:44.903076+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=25820001085618&vrn=100100225883172&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=25820001085618&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
     }
   },
   {
@@ -1651,8 +1971,12 @@ export const duma_2021_uik_463_region_58_part_005 = [
     "ballot": "single-member",
     "uikNumber": 71,
     "uikTvd": "4584027463850",
+    "uikName": "УИК №71",
     "tikTvd": "25820001085618",
     "tikName": "Пенза, Октябрьская",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2491,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2300,
@@ -1668,12 +1992,12 @@ export const duma_2021_uik_463_region_58_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Метальников Кирилл Сергеевич": 56,
-      "Никитенко Игорь Владимирович": 52,
-      "Рекаев Андрей Юрьевич": 70,
-      "Самокутяев Александр Михайлович": 437,
-      "Трутнев Александр Васильевич": 200,
-      "Шпагин Алексей Николаевич": 134
+      "25820001090669": 56,
+      "25820001090692": 52,
+      "25820001089100": 70,
+      "25820001089693": 437,
+      "25820001090396": 200,
+      "25820001089480": 134
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=25820001085618&vrn=100100225883172&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=25820001085618&type=464",
@@ -1683,6 +2007,10 @@ export const duma_2021_uik_463_region_58_part_005 = [
       "retrievedAt": "2026-08-26T08:02:44.903076+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=25820001085618&vrn=100100225883172&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=25820001085618&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
     }
   },
   {
@@ -1692,8 +2020,12 @@ export const duma_2021_uik_463_region_58_part_005 = [
     "ballot": "single-member",
     "uikNumber": 72,
     "uikTvd": "4584027463851",
+    "uikName": "УИК №72",
     "tikTvd": "25820001085618",
     "tikName": "Пенза, Октябрьская",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2765,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2600,
@@ -1709,12 +2041,12 @@ export const duma_2021_uik_463_region_58_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Метальников Кирилл Сергеевич": 58,
-      "Никитенко Игорь Владимирович": 62,
-      "Рекаев Андрей Юрьевич": 101,
-      "Самокутяев Александр Михайлович": 649,
-      "Трутнев Александр Васильевич": 226,
-      "Шпагин Алексей Николаевич": 181
+      "25820001090669": 58,
+      "25820001090692": 62,
+      "25820001089100": 101,
+      "25820001089693": 649,
+      "25820001090396": 226,
+      "25820001089480": 181
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=25820001085618&vrn=100100225883172&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=25820001085618&type=464",
@@ -1724,6 +2056,10 @@ export const duma_2021_uik_463_region_58_part_005 = [
       "retrievedAt": "2026-08-26T08:02:44.903076+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=25820001085618&vrn=100100225883172&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=25820001085618&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
     }
   },
   {
@@ -1733,8 +2069,12 @@ export const duma_2021_uik_463_region_58_part_005 = [
     "ballot": "single-member",
     "uikNumber": 224,
     "uikTvd": "4584024251040",
+    "uikName": "УИК №224",
     "tikTvd": "25820001085619",
     "tikName": "Зареченская городская",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1865,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1400,
@@ -1750,12 +2090,12 @@ export const duma_2021_uik_463_region_58_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Метальников Кирилл Сергеевич": 39,
-      "Никитенко Игорь Владимирович": 74,
-      "Рекаев Андрей Юрьевич": 47,
-      "Самокутяев Александр Михайлович": 376,
-      "Трутнев Александр Васильевич": 194,
-      "Шпагин Алексей Николаевич": 136
+      "25820001090669": 39,
+      "25820001090692": 74,
+      "25820001089100": 47,
+      "25820001089693": 376,
+      "25820001090396": 194,
+      "25820001089480": 136
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=25820001085619&vrn=100100225883172&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=25820001085619&type=464",
@@ -1765,6 +2105,10 @@ export const duma_2021_uik_463_region_58_part_005 = [
       "retrievedAt": "2026-08-26T08:02:46.367127+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=25820001085619&vrn=100100225883172&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=25820001085619&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
     }
   },
   {
@@ -1774,8 +2118,12 @@ export const duma_2021_uik_463_region_58_part_005 = [
     "ballot": "single-member",
     "uikNumber": 225,
     "uikTvd": "4584024251041",
+    "uikName": "УИК №225",
     "tikTvd": "25820001085619",
     "tikName": "Зареченская городская",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2245,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1600,
@@ -1791,12 +2139,12 @@ export const duma_2021_uik_463_region_58_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Метальников Кирилл Сергеевич": 62,
-      "Никитенко Игорь Владимирович": 47,
-      "Рекаев Андрей Юрьевич": 77,
-      "Самокутяев Александр Михайлович": 425,
-      "Трутнев Александр Васильевич": 262,
-      "Шпагин Алексей Николаевич": 234
+      "25820001090669": 62,
+      "25820001090692": 47,
+      "25820001089100": 77,
+      "25820001089693": 425,
+      "25820001090396": 262,
+      "25820001089480": 234
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=25820001085619&vrn=100100225883172&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=25820001085619&type=464",
@@ -1806,6 +2154,10 @@ export const duma_2021_uik_463_region_58_part_005 = [
       "retrievedAt": "2026-08-26T08:02:46.367127+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=25820001085619&vrn=100100225883172&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=25820001085619&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
     }
   },
   {
@@ -1815,8 +2167,12 @@ export const duma_2021_uik_463_region_58_part_005 = [
     "ballot": "single-member",
     "uikNumber": 226,
     "uikTvd": "4584024251042",
+    "uikName": "УИК №226",
     "tikTvd": "25820001085619",
     "tikName": "Зареченская городская",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2436,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1800,
@@ -1832,12 +2188,12 @@ export const duma_2021_uik_463_region_58_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Метальников Кирилл Сергеевич": 59,
-      "Никитенко Игорь Владимирович": 69,
-      "Рекаев Андрей Юрьевич": 95,
-      "Самокутяев Александр Михайлович": 479,
-      "Трутнев Александр Васильевич": 279,
-      "Шпагин Алексей Николаевич": 216
+      "25820001090669": 59,
+      "25820001090692": 69,
+      "25820001089100": 95,
+      "25820001089693": 479,
+      "25820001090396": 279,
+      "25820001089480": 216
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=25820001085619&vrn=100100225883172&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=25820001085619&type=464",
@@ -1847,6 +2203,10 @@ export const duma_2021_uik_463_region_58_part_005 = [
       "retrievedAt": "2026-08-26T08:02:46.367127+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=25820001085619&vrn=100100225883172&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=25820001085619&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
     }
   },
   {
@@ -1856,8 +2216,12 @@ export const duma_2021_uik_463_region_58_part_005 = [
     "ballot": "single-member",
     "uikNumber": 227,
     "uikTvd": "4584024251043",
+    "uikName": "УИК №227",
     "tikTvd": "25820001085619",
     "tikName": "Зареченская городская",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2114,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1600,
@@ -1873,12 +2237,12 @@ export const duma_2021_uik_463_region_58_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Метальников Кирилл Сергеевич": 46,
-      "Никитенко Игорь Владимирович": 104,
-      "Рекаев Андрей Юрьевич": 51,
-      "Самокутяев Александр Михайлович": 413,
-      "Трутнев Александр Васильевич": 183,
-      "Шпагин Алексей Николаевич": 169
+      "25820001090669": 46,
+      "25820001090692": 104,
+      "25820001089100": 51,
+      "25820001089693": 413,
+      "25820001090396": 183,
+      "25820001089480": 169
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=25820001085619&vrn=100100225883172&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=25820001085619&type=464",
@@ -1888,6 +2252,10 @@ export const duma_2021_uik_463_region_58_part_005 = [
       "retrievedAt": "2026-08-26T08:02:46.367127+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=25820001085619&vrn=100100225883172&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=25820001085619&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
     }
   },
   {
@@ -1897,8 +2265,12 @@ export const duma_2021_uik_463_region_58_part_005 = [
     "ballot": "single-member",
     "uikNumber": 228,
     "uikTvd": "4584024251044",
+    "uikName": "УИК №228",
     "tikTvd": "25820001085619",
     "tikName": "Зареченская городская",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2133,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1600,
@@ -1914,12 +2286,12 @@ export const duma_2021_uik_463_region_58_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Метальников Кирилл Сергеевич": 52,
-      "Никитенко Игорь Владимирович": 76,
-      "Рекаев Андрей Юрьевич": 60,
-      "Самокутяев Александр Михайлович": 454,
-      "Трутнев Александр Васильевич": 202,
-      "Шпагин Алексей Николаевич": 198
+      "25820001090669": 52,
+      "25820001090692": 76,
+      "25820001089100": 60,
+      "25820001089693": 454,
+      "25820001090396": 202,
+      "25820001089480": 198
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=25820001085619&vrn=100100225883172&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=25820001085619&type=464",
@@ -1929,6 +2301,10 @@ export const duma_2021_uik_463_region_58_part_005 = [
       "retrievedAt": "2026-08-26T08:02:46.367127+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=25820001085619&vrn=100100225883172&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=25820001085619&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
     }
   },
   {
@@ -1938,8 +2314,12 @@ export const duma_2021_uik_463_region_58_part_005 = [
     "ballot": "single-member",
     "uikNumber": 229,
     "uikTvd": "4584024251045",
+    "uikName": "УИК №229",
     "tikTvd": "25820001085619",
     "tikName": "Зареченская городская",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1948,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1500,
@@ -1955,12 +2335,12 @@ export const duma_2021_uik_463_region_58_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Метальников Кирилл Сергеевич": 39,
-      "Никитенко Игорь Владимирович": 62,
-      "Рекаев Андрей Юрьевич": 72,
-      "Самокутяев Александр Михайлович": 361,
-      "Трутнев Александр Васильевич": 204,
-      "Шпагин Алексей Николаевич": 148
+      "25820001090669": 39,
+      "25820001090692": 62,
+      "25820001089100": 72,
+      "25820001089693": 361,
+      "25820001090396": 204,
+      "25820001089480": 148
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=25820001085619&vrn=100100225883172&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=25820001085619&type=464",
@@ -1970,6 +2350,10 @@ export const duma_2021_uik_463_region_58_part_005 = [
       "retrievedAt": "2026-08-26T08:02:46.367127+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=25820001085619&vrn=100100225883172&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=25820001085619&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
     }
   },
   {
@@ -1979,8 +2363,12 @@ export const duma_2021_uik_463_region_58_part_005 = [
     "ballot": "single-member",
     "uikNumber": 230,
     "uikTvd": "4584024251046",
+    "uikName": "УИК №230",
     "tikTvd": "25820001085619",
     "tikName": "Зареченская городская",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1841,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1400,
@@ -1996,12 +2384,12 @@ export const duma_2021_uik_463_region_58_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Метальников Кирилл Сергеевич": 43,
-      "Никитенко Игорь Владимирович": 57,
-      "Рекаев Андрей Юрьевич": 48,
-      "Самокутяев Александр Михайлович": 380,
-      "Трутнев Александр Васильевич": 186,
-      "Шпагин Алексей Николаевич": 182
+      "25820001090669": 43,
+      "25820001090692": 57,
+      "25820001089100": 48,
+      "25820001089693": 380,
+      "25820001090396": 186,
+      "25820001089480": 182
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=25820001085619&vrn=100100225883172&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=25820001085619&type=464",
@@ -2011,6 +2399,10 @@ export const duma_2021_uik_463_region_58_part_005 = [
       "retrievedAt": "2026-08-26T08:02:46.367127+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=25820001085619&vrn=100100225883172&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=25820001085619&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
     }
   },
   {
@@ -2020,8 +2412,12 @@ export const duma_2021_uik_463_region_58_part_005 = [
     "ballot": "single-member",
     "uikNumber": 231,
     "uikTvd": "4584024251047",
+    "uikName": "УИК №231",
     "tikTvd": "25820001085619",
     "tikName": "Зареченская городская",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2026,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1500,
@@ -2037,12 +2433,12 @@ export const duma_2021_uik_463_region_58_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Метальников Кирилл Сергеевич": 51,
-      "Никитенко Игорь Владимирович": 80,
-      "Рекаев Андрей Юрьевич": 71,
-      "Самокутяев Александр Михайлович": 347,
-      "Трутнев Александр Васильевич": 184,
-      "Шпагин Алексей Николаевич": 164
+      "25820001090669": 51,
+      "25820001090692": 80,
+      "25820001089100": 71,
+      "25820001089693": 347,
+      "25820001090396": 184,
+      "25820001089480": 164
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=25820001085619&vrn=100100225883172&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=25820001085619&type=464",
@@ -2052,6 +2448,10 @@ export const duma_2021_uik_463_region_58_part_005 = [
       "retrievedAt": "2026-08-26T08:02:46.367127+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=25820001085619&vrn=100100225883172&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=25820001085619&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
     }
   },
   {
@@ -2061,8 +2461,12 @@ export const duma_2021_uik_463_region_58_part_005 = [
     "ballot": "single-member",
     "uikNumber": 232,
     "uikTvd": "4584024251048",
+    "uikName": "УИК №232",
     "tikTvd": "25820001085619",
     "tikName": "Зареченская городская",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2073,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1500,
@@ -2078,12 +2482,12 @@ export const duma_2021_uik_463_region_58_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Метальников Кирилл Сергеевич": 26,
-      "Никитенко Игорь Владимирович": 76,
-      "Рекаев Андрей Юрьевич": 56,
-      "Самокутяев Александр Михайлович": 408,
-      "Трутнев Александр Васильевич": 231,
-      "Шпагин Алексей Николаевич": 164
+      "25820001090669": 26,
+      "25820001090692": 76,
+      "25820001089100": 56,
+      "25820001089693": 408,
+      "25820001090396": 231,
+      "25820001089480": 164
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=25820001085619&vrn=100100225883172&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=25820001085619&type=464",
@@ -2093,6 +2497,10 @@ export const duma_2021_uik_463_region_58_part_005 = [
       "retrievedAt": "2026-08-26T08:02:46.367127+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=25820001085619&vrn=100100225883172&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=25820001085619&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
     }
   },
   {
@@ -2102,8 +2510,12 @@ export const duma_2021_uik_463_region_58_part_005 = [
     "ballot": "single-member",
     "uikNumber": 233,
     "uikTvd": "4584024251049",
+    "uikName": "УИК №233",
     "tikTvd": "25820001085619",
     "tikName": "Зареченская городская",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2058,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1500,
@@ -2119,12 +2531,12 @@ export const duma_2021_uik_463_region_58_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Метальников Кирилл Сергеевич": 48,
-      "Никитенко Игорь Владимирович": 64,
-      "Рекаев Андрей Юрьевич": 67,
-      "Самокутяев Александр Михайлович": 349,
-      "Трутнев Александр Васильевич": 177,
-      "Шпагин Алексей Николаевич": 171
+      "25820001090669": 48,
+      "25820001090692": 64,
+      "25820001089100": 67,
+      "25820001089693": 349,
+      "25820001090396": 177,
+      "25820001089480": 171
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=25820001085619&vrn=100100225883172&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=25820001085619&type=464",
@@ -2134,6 +2546,10 @@ export const duma_2021_uik_463_region_58_part_005 = [
       "retrievedAt": "2026-08-26T08:02:46.367127+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=25820001085619&vrn=100100225883172&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=25820001085619&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
     }
   },
   {
@@ -2143,8 +2559,12 @@ export const duma_2021_uik_463_region_58_part_005 = [
     "ballot": "single-member",
     "uikNumber": 234,
     "uikTvd": "4584024251050",
+    "uikName": "УИК №234",
     "tikTvd": "25820001085619",
     "tikName": "Зареченская городская",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1949,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1500,
@@ -2160,12 +2580,12 @@ export const duma_2021_uik_463_region_58_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Метальников Кирилл Сергеевич": 34,
-      "Никитенко Игорь Владимирович": 70,
-      "Рекаев Андрей Юрьевич": 49,
-      "Самокутяев Александр Михайлович": 377,
-      "Трутнев Александр Васильевич": 225,
-      "Шпагин Алексей Николаевич": 184
+      "25820001090669": 34,
+      "25820001090692": 70,
+      "25820001089100": 49,
+      "25820001089693": 377,
+      "25820001090396": 225,
+      "25820001089480": 184
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=25820001085619&vrn=100100225883172&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=25820001085619&type=464",
@@ -2175,6 +2595,10 @@ export const duma_2021_uik_463_region_58_part_005 = [
       "retrievedAt": "2026-08-26T08:02:46.367127+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=25820001085619&vrn=100100225883172&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=25820001085619&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
     }
   },
   {
@@ -2184,8 +2608,12 @@ export const duma_2021_uik_463_region_58_part_005 = [
     "ballot": "single-member",
     "uikNumber": 235,
     "uikTvd": "4584024251051",
+    "uikName": "УИК №235",
     "tikTvd": "25820001085619",
     "tikName": "Зареченская городская",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1994,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1500,
@@ -2201,12 +2629,12 @@ export const duma_2021_uik_463_region_58_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Метальников Кирилл Сергеевич": 27,
-      "Никитенко Игорь Владимирович": 74,
-      "Рекаев Андрей Юрьевич": 47,
-      "Самокутяев Александр Михайлович": 364,
-      "Трутнев Александр Васильевич": 216,
-      "Шпагин Алексей Николаевич": 166
+      "25820001090669": 27,
+      "25820001090692": 74,
+      "25820001089100": 47,
+      "25820001089693": 364,
+      "25820001090396": 216,
+      "25820001089480": 166
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=25820001085619&vrn=100100225883172&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=25820001085619&type=464",
@@ -2216,6 +2644,10 @@ export const duma_2021_uik_463_region_58_part_005 = [
       "retrievedAt": "2026-08-26T08:02:46.367127+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=25820001085619&vrn=100100225883172&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=25820001085619&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
     }
   },
   {
@@ -2225,8 +2657,12 @@ export const duma_2021_uik_463_region_58_part_005 = [
     "ballot": "single-member",
     "uikNumber": 236,
     "uikTvd": "4584024251052",
+    "uikName": "УИК №236",
     "tikTvd": "25820001085619",
     "tikName": "Зареченская городская",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2103,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1500,
@@ -2242,12 +2678,12 @@ export const duma_2021_uik_463_region_58_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Метальников Кирилл Сергеевич": 50,
-      "Никитенко Игорь Владимирович": 69,
-      "Рекаев Андрей Юрьевич": 56,
-      "Самокутяев Александр Михайлович": 426,
-      "Трутнев Александр Васильевич": 215,
-      "Шпагин Алексей Николаевич": 170
+      "25820001090669": 50,
+      "25820001090692": 69,
+      "25820001089100": 56,
+      "25820001089693": 426,
+      "25820001090396": 215,
+      "25820001089480": 170
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=25820001085619&vrn=100100225883172&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=25820001085619&type=464",
@@ -2257,6 +2693,10 @@ export const duma_2021_uik_463_region_58_part_005 = [
       "retrievedAt": "2026-08-26T08:02:46.367127+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=25820001085619&vrn=100100225883172&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=25820001085619&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
     }
   },
   {
@@ -2266,8 +2706,12 @@ export const duma_2021_uik_463_region_58_part_005 = [
     "ballot": "single-member",
     "uikNumber": 237,
     "uikTvd": "4584024251053",
+    "uikName": "УИК №237",
     "tikTvd": "25820001085619",
     "tikName": "Зареченская городская",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1770,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1300,
@@ -2283,12 +2727,12 @@ export const duma_2021_uik_463_region_58_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Метальников Кирилл Сергеевич": 41,
-      "Никитенко Игорь Владимирович": 47,
-      "Рекаев Андрей Юрьевич": 53,
-      "Самокутяев Александр Михайлович": 376,
-      "Трутнев Александр Васильевич": 182,
-      "Шпагин Алексей Николаевич": 158
+      "25820001090669": 41,
+      "25820001090692": 47,
+      "25820001089100": 53,
+      "25820001089693": 376,
+      "25820001090396": 182,
+      "25820001089480": 158
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=25820001085619&vrn=100100225883172&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=25820001085619&type=464",
@@ -2298,6 +2742,10 @@ export const duma_2021_uik_463_region_58_part_005 = [
       "retrievedAt": "2026-08-26T08:02:46.367127+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=25820001085619&vrn=100100225883172&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=25820001085619&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
     }
   },
   {
@@ -2307,8 +2755,12 @@ export const duma_2021_uik_463_region_58_part_005 = [
     "ballot": "single-member",
     "uikNumber": 238,
     "uikTvd": "4584024251054",
+    "uikName": "УИК №238",
     "tikTvd": "25820001085619",
     "tikName": "Зареченская городская",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1833,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1400,
@@ -2324,12 +2776,12 @@ export const duma_2021_uik_463_region_58_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Метальников Кирилл Сергеевич": 35,
-      "Никитенко Игорь Владимирович": 65,
-      "Рекаев Андрей Юрьевич": 44,
-      "Самокутяев Александр Михайлович": 303,
-      "Трутнев Александр Васильевич": 152,
-      "Шпагин Алексей Николаевич": 140
+      "25820001090669": 35,
+      "25820001090692": 65,
+      "25820001089100": 44,
+      "25820001089693": 303,
+      "25820001090396": 152,
+      "25820001089480": 140
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=25820001085619&vrn=100100225883172&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=25820001085619&type=464",
@@ -2339,6 +2791,10 @@ export const duma_2021_uik_463_region_58_part_005 = [
       "retrievedAt": "2026-08-26T08:02:46.367127+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=25820001085619&vrn=100100225883172&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=25820001085619&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
     }
   },
   {
@@ -2348,8 +2804,12 @@ export const duma_2021_uik_463_region_58_part_005 = [
     "ballot": "single-member",
     "uikNumber": 239,
     "uikTvd": "4584024251055",
+    "uikName": "УИК №239",
     "tikTvd": "25820001085619",
     "tikName": "Зареченская городская",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1995,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1500,
@@ -2365,12 +2825,12 @@ export const duma_2021_uik_463_region_58_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Метальников Кирилл Сергеевич": 42,
-      "Никитенко Игорь Владимирович": 77,
-      "Рекаев Андрей Юрьевич": 64,
-      "Самокутяев Александр Михайлович": 442,
-      "Трутнев Александр Васильевич": 199,
-      "Шпагин Алексей Николаевич": 161
+      "25820001090669": 42,
+      "25820001090692": 77,
+      "25820001089100": 64,
+      "25820001089693": 442,
+      "25820001090396": 199,
+      "25820001089480": 161
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=25820001085619&vrn=100100225883172&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=25820001085619&type=464",
@@ -2380,6 +2840,10 @@ export const duma_2021_uik_463_region_58_part_005 = [
       "retrievedAt": "2026-08-26T08:02:46.367127+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=25820001085619&vrn=100100225883172&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=25820001085619&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
     }
   },
   {
@@ -2389,8 +2853,12 @@ export const duma_2021_uik_463_region_58_part_005 = [
     "ballot": "single-member",
     "uikNumber": 240,
     "uikTvd": "4584024251056",
+    "uikName": "УИК №240",
     "tikTvd": "25820001085619",
     "tikName": "Зареченская городская",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1898,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1400,
@@ -2406,12 +2874,12 @@ export const duma_2021_uik_463_region_58_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Метальников Кирилл Сергеевич": 30,
-      "Никитенко Игорь Владимирович": 69,
-      "Рекаев Андрей Юрьевич": 57,
-      "Самокутяев Александр Михайлович": 361,
-      "Трутнев Александр Васильевич": 163,
-      "Шпагин Алексей Николаевич": 139
+      "25820001090669": 30,
+      "25820001090692": 69,
+      "25820001089100": 57,
+      "25820001089693": 361,
+      "25820001090396": 163,
+      "25820001089480": 139
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=25820001085619&vrn=100100225883172&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=25820001085619&type=464",
@@ -2421,6 +2889,10 @@ export const duma_2021_uik_463_region_58_part_005 = [
       "retrievedAt": "2026-08-26T08:02:46.367127+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=25820001085619&vrn=100100225883172&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=25820001085619&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
     }
   },
   {
@@ -2430,8 +2902,12 @@ export const duma_2021_uik_463_region_58_part_005 = [
     "ballot": "single-member",
     "uikNumber": 241,
     "uikTvd": "4584024251057",
+    "uikName": "УИК №241",
     "tikTvd": "25820001085619",
     "tikName": "Зареченская городская",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1798,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1400,
@@ -2447,12 +2923,12 @@ export const duma_2021_uik_463_region_58_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Метальников Кирилл Сергеевич": 33,
-      "Никитенко Игорь Владимирович": 52,
-      "Рекаев Андрей Юрьевич": 51,
-      "Самокутяев Александр Михайлович": 345,
-      "Трутнев Александр Васильевич": 169,
-      "Шпагин Алексей Николаевич": 134
+      "25820001090669": 33,
+      "25820001090692": 52,
+      "25820001089100": 51,
+      "25820001089693": 345,
+      "25820001090396": 169,
+      "25820001089480": 134
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=25820001085619&vrn=100100225883172&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=25820001085619&type=464",
@@ -2462,6 +2938,10 @@ export const duma_2021_uik_463_region_58_part_005 = [
       "retrievedAt": "2026-08-26T08:02:46.367127+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=25820001085619&vrn=100100225883172&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=25820001085619&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
     }
   },
   {
@@ -2471,8 +2951,12 @@ export const duma_2021_uik_463_region_58_part_005 = [
     "ballot": "single-member",
     "uikNumber": 242,
     "uikTvd": "4584024251058",
+    "uikName": "УИК №242",
     "tikTvd": "25820001085619",
     "tikName": "Зареченская городская",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1907,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1500,
@@ -2488,12 +2972,12 @@ export const duma_2021_uik_463_region_58_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Метальников Кирилл Сергеевич": 33,
-      "Никитенко Игорь Владимирович": 73,
-      "Рекаев Андрей Юрьевич": 46,
-      "Самокутяев Александр Михайлович": 370,
-      "Трутнев Александр Васильевич": 209,
-      "Шпагин Алексей Николаевич": 146
+      "25820001090669": 33,
+      "25820001090692": 73,
+      "25820001089100": 46,
+      "25820001089693": 370,
+      "25820001090396": 209,
+      "25820001089480": 146
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=25820001085619&vrn=100100225883172&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=25820001085619&type=464",
@@ -2503,6 +2987,10 @@ export const duma_2021_uik_463_region_58_part_005 = [
       "retrievedAt": "2026-08-26T08:02:46.367127+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=25820001085619&vrn=100100225883172&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=25820001085619&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
     }
   },
   {
@@ -2512,8 +3000,12 @@ export const duma_2021_uik_463_region_58_part_005 = [
     "ballot": "single-member",
     "uikNumber": 243,
     "uikTvd": "4584024251059",
+    "uikName": "УИК №243",
     "tikTvd": "25820001085619",
     "tikName": "Зареченская городская",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1816,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1300,
@@ -2529,12 +3021,12 @@ export const duma_2021_uik_463_region_58_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Метальников Кирилл Сергеевич": 36,
-      "Никитенко Игорь Владимирович": 64,
-      "Рекаев Андрей Юрьевич": 49,
-      "Самокутяев Александр Михайлович": 335,
-      "Трутнев Александр Васильевич": 168,
-      "Шпагин Алексей Николаевич": 151
+      "25820001090669": 36,
+      "25820001090692": 64,
+      "25820001089100": 49,
+      "25820001089693": 335,
+      "25820001090396": 168,
+      "25820001089480": 151
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=25820001085619&vrn=100100225883172&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=25820001085619&type=464",
@@ -2544,6 +3036,10 @@ export const duma_2021_uik_463_region_58_part_005 = [
       "retrievedAt": "2026-08-26T08:02:46.367127+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=25820001085619&vrn=100100225883172&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=25820001085619&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
     }
   },
   {
@@ -2553,8 +3049,12 @@ export const duma_2021_uik_463_region_58_part_005 = [
     "ballot": "single-member",
     "uikNumber": 244,
     "uikTvd": "4584024251060",
+    "uikName": "УИК №244",
     "tikTvd": "25820001085619",
     "tikName": "Зареченская городская",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1838,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1400,
@@ -2570,12 +3070,12 @@ export const duma_2021_uik_463_region_58_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Метальников Кирилл Сергеевич": 35,
-      "Никитенко Игорь Владимирович": 49,
-      "Рекаев Андрей Юрьевич": 57,
-      "Самокутяев Александр Михайлович": 320,
-      "Трутнев Александр Васильевич": 158,
-      "Шпагин Алексей Николаевич": 147
+      "25820001090669": 35,
+      "25820001090692": 49,
+      "25820001089100": 57,
+      "25820001089693": 320,
+      "25820001090396": 158,
+      "25820001089480": 147
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=25820001085619&vrn=100100225883172&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=25820001085619&type=464",
@@ -2585,6 +3085,10 @@ export const duma_2021_uik_463_region_58_part_005 = [
       "retrievedAt": "2026-08-26T08:02:46.367127+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=25820001085619&vrn=100100225883172&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=25820001085619&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
     }
   },
   {
@@ -2594,8 +3098,12 @@ export const duma_2021_uik_463_region_58_part_005 = [
     "ballot": "single-member",
     "uikNumber": 245,
     "uikTvd": "4584024251061",
+    "uikName": "УИК №245",
     "tikTvd": "25820001085619",
     "tikName": "Зареченская городская",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2031,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1500,
@@ -2611,12 +3119,12 @@ export const duma_2021_uik_463_region_58_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Метальников Кирилл Сергеевич": 49,
-      "Никитенко Игорь Владимирович": 85,
-      "Рекаев Андрей Юрьевич": 56,
-      "Самокутяев Александр Михайлович": 356,
-      "Трутнев Александр Васильевич": 192,
-      "Шпагин Алексей Николаевич": 141
+      "25820001090669": 49,
+      "25820001090692": 85,
+      "25820001089100": 56,
+      "25820001089693": 356,
+      "25820001090396": 192,
+      "25820001089480": 141
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=25820001085619&vrn=100100225883172&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=25820001085619&type=464",
@@ -2626,6 +3134,10 @@ export const duma_2021_uik_463_region_58_part_005 = [
       "retrievedAt": "2026-08-26T08:02:46.367127+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=25820001085619&vrn=100100225883172&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=25820001085619&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
     }
   },
   {
@@ -2635,8 +3147,12 @@ export const duma_2021_uik_463_region_58_part_005 = [
     "ballot": "single-member",
     "uikNumber": 246,
     "uikTvd": "4584024251062",
+    "uikName": "УИК №246",
     "tikTvd": "25820001085619",
     "tikName": "Зареченская городская",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1835,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1400,
@@ -2652,12 +3168,12 @@ export const duma_2021_uik_463_region_58_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Метальников Кирилл Сергеевич": 36,
-      "Никитенко Игорь Владимирович": 54,
-      "Рекаев Андрей Юрьевич": 41,
-      "Самокутяев Александр Михайлович": 281,
-      "Трутнев Александр Васильевич": 178,
-      "Шпагин Алексей Николаевич": 143
+      "25820001090669": 36,
+      "25820001090692": 54,
+      "25820001089100": 41,
+      "25820001089693": 281,
+      "25820001090396": 178,
+      "25820001089480": 143
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=25820001085619&vrn=100100225883172&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=25820001085619&type=464",
@@ -2667,6 +3183,10 @@ export const duma_2021_uik_463_region_58_part_005 = [
       "retrievedAt": "2026-08-26T08:02:46.367127+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=25820001085619&vrn=100100225883172&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=25820001085619&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
     }
   },
   {
@@ -2676,8 +3196,12 @@ export const duma_2021_uik_463_region_58_part_005 = [
     "ballot": "single-member",
     "uikNumber": 247,
     "uikTvd": "4584024251063",
+    "uikName": "УИК №247",
     "tikTvd": "25820001085619",
     "tikName": "Зареченская городская",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2095,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1500,
@@ -2693,12 +3217,12 @@ export const duma_2021_uik_463_region_58_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Метальников Кирилл Сергеевич": 46,
-      "Никитенко Игорь Владимирович": 67,
-      "Рекаев Андрей Юрьевич": 59,
-      "Самокутяев Александр Михайлович": 314,
-      "Трутнев Александр Васильевич": 199,
-      "Шпагин Алексей Николаевич": 179
+      "25820001090669": 46,
+      "25820001090692": 67,
+      "25820001089100": 59,
+      "25820001089693": 314,
+      "25820001090396": 199,
+      "25820001089480": 179
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=25820001085619&vrn=100100225883172&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=25820001085619&type=464",
@@ -2708,6 +3232,10 @@ export const duma_2021_uik_463_region_58_part_005 = [
       "retrievedAt": "2026-08-26T08:02:46.367127+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=25820001085619&vrn=100100225883172&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=25820001085619&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
     }
   },
   {
@@ -2717,8 +3245,12 @@ export const duma_2021_uik_463_region_58_part_005 = [
     "ballot": "single-member",
     "uikNumber": 248,
     "uikTvd": "4584024251064",
+    "uikName": "УИК №248",
     "tikTvd": "25820001085619",
     "tikName": "Зареченская городская",
+    "regionCode": "58",
+    "regionTvd": "100100225883629",
+    "regionName": "Пензенская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2259,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1600,
@@ -2734,12 +3266,12 @@ export const duma_2021_uik_463_region_58_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Метальников Кирилл Сергеевич": 60,
-      "Никитенко Игорь Владимирович": 73,
-      "Рекаев Андрей Юрьевич": 85,
-      "Самокутяев Александр Михайлович": 465,
-      "Трутнев Александр Васильевич": 240,
-      "Шпагин Алексей Николаевич": 171
+      "25820001090669": 60,
+      "25820001090692": 73,
+      "25820001089100": 85,
+      "25820001089693": 465,
+      "25820001090396": 240,
+      "25820001089480": 171
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=25820001085619&vrn=100100225883172&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=25820001085619&type=464",
@@ -2749,6 +3281,10 @@ export const duma_2021_uik_463_region_58_part_005 = [
       "retrievedAt": "2026-08-26T08:02:46.367127+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/penza?action=show&root=1000194&tvd=25820001085619&vrn=100100225883172&region=58&global=&sub_region=58&prver=0&pronetvd=null&vibid=25820001085619&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100225883631"
     }
   }
 ] satisfies readonly UikProtocol[];

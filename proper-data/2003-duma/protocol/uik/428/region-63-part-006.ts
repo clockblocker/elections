@@ -42,12 +42,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 15,
-      "Евтушенко Николай Григорьевич": 31,
-      "Кузьмина Светлана Ивановна": 362,
-      "Минеев Евгений Степанович": 8,
-      "Мокрый Владимир Семенович": 660,
-      "Против всех": 70
+      "gas:candidate-vibid:1001000113974": 15,
+      "gas:candidate-vibid:1001000289713": 31,
+      "gas:candidate-vibid:1001000121903": 362,
+      "gas:candidate-vibid:1001000195136": 8,
+      "gas:candidate-vibid:1001000225980": 660,
+      "special:against-all": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000035&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070908&region=0&sub_region=0&type=429",
@@ -97,12 +97,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 10,
-      "Евтушенко Николай Григорьевич": 43,
-      "Кузьмина Светлана Ивановна": 336,
-      "Минеев Евгений Степанович": 7,
-      "Мокрый Владимир Семенович": 696,
-      "Против всех": 70
+      "gas:candidate-vibid:1001000113974": 10,
+      "gas:candidate-vibid:1001000289713": 43,
+      "gas:candidate-vibid:1001000121903": 336,
+      "gas:candidate-vibid:1001000195136": 7,
+      "gas:candidate-vibid:1001000225980": 696,
+      "special:against-all": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000035&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070908&region=0&sub_region=0&type=429",
@@ -152,12 +152,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 10,
-      "Евтушенко Николай Григорьевич": 47,
-      "Кузьмина Светлана Ивановна": 245,
-      "Минеев Евгений Степанович": 5,
-      "Мокрый Владимир Семенович": 552,
-      "Против всех": 55
+      "gas:candidate-vibid:1001000113974": 10,
+      "gas:candidate-vibid:1001000289713": 47,
+      "gas:candidate-vibid:1001000121903": 245,
+      "gas:candidate-vibid:1001000195136": 5,
+      "gas:candidate-vibid:1001000225980": 552,
+      "special:against-all": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000035&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070908&region=0&sub_region=0&type=429",
@@ -207,12 +207,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 6,
-      "Евтушенко Николай Григорьевич": 27,
-      "Кузьмина Светлана Ивановна": 113,
-      "Минеев Евгений Степанович": 6,
-      "Мокрый Владимир Семенович": 429,
-      "Против всех": 30
+      "gas:candidate-vibid:1001000113974": 6,
+      "gas:candidate-vibid:1001000289713": 27,
+      "gas:candidate-vibid:1001000121903": 113,
+      "gas:candidate-vibid:1001000195136": 6,
+      "gas:candidate-vibid:1001000225980": 429,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000035&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070908&region=0&sub_region=0&type=429",
@@ -262,12 +262,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 3,
-      "Евтушенко Николай Григорьевич": 12,
-      "Кузьмина Светлана Ивановна": 88,
-      "Минеев Евгений Степанович": 3,
-      "Мокрый Владимир Семенович": 300,
-      "Против всех": 25
+      "gas:candidate-vibid:1001000113974": 3,
+      "gas:candidate-vibid:1001000289713": 12,
+      "gas:candidate-vibid:1001000121903": 88,
+      "gas:candidate-vibid:1001000195136": 3,
+      "gas:candidate-vibid:1001000225980": 300,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000035&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070908&region=0&sub_region=0&type=429",
@@ -317,12 +317,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 2,
-      "Евтушенко Николай Григорьевич": 12,
-      "Кузьмина Светлана Ивановна": 84,
-      "Минеев Евгений Степанович": 5,
-      "Мокрый Владимир Семенович": 333,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000113974": 2,
+      "gas:candidate-vibid:1001000289713": 12,
+      "gas:candidate-vibid:1001000121903": 84,
+      "gas:candidate-vibid:1001000195136": 5,
+      "gas:candidate-vibid:1001000225980": 333,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000035&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070908&region=0&sub_region=0&type=429",
@@ -372,12 +372,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 14,
-      "Евтушенко Николай Григорьевич": 27,
-      "Кузьмина Светлана Ивановна": 158,
-      "Минеев Евгений Степанович": 7,
-      "Мокрый Владимир Семенович": 261,
-      "Против всех": 48
+      "gas:candidate-vibid:1001000113974": 14,
+      "gas:candidate-vibid:1001000289713": 27,
+      "gas:candidate-vibid:1001000121903": 158,
+      "gas:candidate-vibid:1001000195136": 7,
+      "gas:candidate-vibid:1001000225980": 261,
+      "special:against-all": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000035&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070908&region=0&sub_region=0&type=429",
@@ -427,12 +427,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 11,
-      "Евтушенко Николай Григорьевич": 28,
-      "Кузьмина Светлана Ивановна": 275,
-      "Минеев Евгений Степанович": 3,
-      "Мокрый Владимир Семенович": 482,
-      "Против всех": 45
+      "gas:candidate-vibid:1001000113974": 11,
+      "gas:candidate-vibid:1001000289713": 28,
+      "gas:candidate-vibid:1001000121903": 275,
+      "gas:candidate-vibid:1001000195136": 3,
+      "gas:candidate-vibid:1001000225980": 482,
+      "special:against-all": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000035&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070908&region=0&sub_region=0&type=429",
@@ -482,12 +482,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 12,
-      "Евтушенко Николай Григорьевич": 47,
-      "Кузьмина Светлана Ивановна": 301,
-      "Минеев Евгений Степанович": 9,
-      "Мокрый Владимир Семенович": 523,
-      "Против всех": 74
+      "gas:candidate-vibid:1001000113974": 12,
+      "gas:candidate-vibid:1001000289713": 47,
+      "gas:candidate-vibid:1001000121903": 301,
+      "gas:candidate-vibid:1001000195136": 9,
+      "gas:candidate-vibid:1001000225980": 523,
+      "special:against-all": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000035&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070908&region=0&sub_region=0&type=429",
@@ -537,12 +537,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 6,
-      "Евтушенко Николай Григорьевич": 28,
-      "Кузьмина Светлана Ивановна": 272,
-      "Минеев Евгений Степанович": 15,
-      "Мокрый Владимир Семенович": 447,
-      "Против всех": 53
+      "gas:candidate-vibid:1001000113974": 6,
+      "gas:candidate-vibid:1001000289713": 28,
+      "gas:candidate-vibid:1001000121903": 272,
+      "gas:candidate-vibid:1001000195136": 15,
+      "gas:candidate-vibid:1001000225980": 447,
+      "special:against-all": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000035&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070908&region=0&sub_region=0&type=429",
@@ -592,12 +592,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 2,
-      "Евтушенко Николай Григорьевич": 14,
-      "Кузьмина Светлана Ивановна": 286,
-      "Минеев Евгений Степанович": 4,
-      "Мокрый Владимир Семенович": 260,
-      "Против всех": 41
+      "gas:candidate-vibid:1001000113974": 2,
+      "gas:candidate-vibid:1001000289713": 14,
+      "gas:candidate-vibid:1001000121903": 286,
+      "gas:candidate-vibid:1001000195136": 4,
+      "gas:candidate-vibid:1001000225980": 260,
+      "special:against-all": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000035&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070908&region=0&sub_region=0&type=429",
@@ -647,12 +647,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 2,
-      "Евтушенко Николай Григорьевич": 16,
-      "Кузьмина Светлана Ивановна": 172,
-      "Минеев Евгений Степанович": 2,
-      "Мокрый Владимир Семенович": 250,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000113974": 2,
+      "gas:candidate-vibid:1001000289713": 16,
+      "gas:candidate-vibid:1001000121903": 172,
+      "gas:candidate-vibid:1001000195136": 2,
+      "gas:candidate-vibid:1001000225980": 250,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000035&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070908&region=0&sub_region=0&type=429",
@@ -702,12 +702,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 14,
-      "Евтушенко Николай Григорьевич": 36,
-      "Кузьмина Светлана Ивановна": 356,
-      "Минеев Евгений Степанович": 5,
-      "Мокрый Владимир Семенович": 661,
-      "Против всех": 80
+      "gas:candidate-vibid:1001000113974": 14,
+      "gas:candidate-vibid:1001000289713": 36,
+      "gas:candidate-vibid:1001000121903": 356,
+      "gas:candidate-vibid:1001000195136": 5,
+      "gas:candidate-vibid:1001000225980": 661,
+      "special:against-all": 80
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000035&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070908&region=0&sub_region=0&type=429",
@@ -757,12 +757,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 0,
-      "Евтушенко Николай Григорьевич": 2,
-      "Кузьмина Светлана Ивановна": 13,
-      "Минеев Евгений Степанович": 0,
-      "Мокрый Владимир Семенович": 31,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000113974": 0,
+      "gas:candidate-vibid:1001000289713": 2,
+      "gas:candidate-vibid:1001000121903": 13,
+      "gas:candidate-vibid:1001000195136": 0,
+      "gas:candidate-vibid:1001000225980": 31,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000035&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070908&region=0&sub_region=0&type=429",
@@ -812,12 +812,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 0,
-      "Евтушенко Николай Григорьевич": 2,
-      "Кузьмина Светлана Ивановна": 7,
-      "Минеев Евгений Степанович": 1,
-      "Мокрый Владимир Семенович": 26,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000113974": 0,
+      "gas:candidate-vibid:1001000289713": 2,
+      "gas:candidate-vibid:1001000121903": 7,
+      "gas:candidate-vibid:1001000195136": 1,
+      "gas:candidate-vibid:1001000225980": 26,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000035&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070908&region=0&sub_region=0&type=429",
@@ -867,12 +867,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 8,
-      "Евтушенко Николай Григорьевич": 10,
-      "Кузьмина Светлана Ивановна": 200,
-      "Минеев Евгений Степанович": 9,
-      "Мокрый Владимир Семенович": 246,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000113974": 8,
+      "gas:candidate-vibid:1001000289713": 10,
+      "gas:candidate-vibid:1001000121903": 200,
+      "gas:candidate-vibid:1001000195136": 9,
+      "gas:candidate-vibid:1001000225980": 246,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000036&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070909&region=0&sub_region=0&type=429",
@@ -922,12 +922,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 10,
-      "Евтушенко Николай Григорьевич": 18,
-      "Кузьмина Светлана Ивановна": 139,
-      "Минеев Евгений Степанович": 3,
-      "Мокрый Владимир Семенович": 217,
-      "Против всех": 40
+      "gas:candidate-vibid:1001000113974": 10,
+      "gas:candidate-vibid:1001000289713": 18,
+      "gas:candidate-vibid:1001000121903": 139,
+      "gas:candidate-vibid:1001000195136": 3,
+      "gas:candidate-vibid:1001000225980": 217,
+      "special:against-all": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000036&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070909&region=0&sub_region=0&type=429",
@@ -977,12 +977,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 2,
-      "Евтушенко Николай Григорьевич": 6,
-      "Кузьмина Светлана Ивановна": 41,
-      "Минеев Евгений Степанович": 0,
-      "Мокрый Владимир Семенович": 50,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000113974": 2,
+      "gas:candidate-vibid:1001000289713": 6,
+      "gas:candidate-vibid:1001000121903": 41,
+      "gas:candidate-vibid:1001000195136": 0,
+      "gas:candidate-vibid:1001000225980": 50,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000036&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070909&region=0&sub_region=0&type=429",
@@ -1032,12 +1032,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 5,
-      "Евтушенко Николай Григорьевич": 14,
-      "Кузьмина Светлана Ивановна": 207,
-      "Минеев Евгений Степанович": 3,
-      "Мокрый Владимир Семенович": 268,
-      "Против всех": 30
+      "gas:candidate-vibid:1001000113974": 5,
+      "gas:candidate-vibid:1001000289713": 14,
+      "gas:candidate-vibid:1001000121903": 207,
+      "gas:candidate-vibid:1001000195136": 3,
+      "gas:candidate-vibid:1001000225980": 268,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000036&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070909&region=0&sub_region=0&type=429",
@@ -1087,12 +1087,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 4,
-      "Евтушенко Николай Григорьевич": 7,
-      "Кузьмина Светлана Ивановна": 45,
-      "Минеев Евгений Степанович": 3,
-      "Мокрый Владимир Семенович": 97,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000113974": 4,
+      "gas:candidate-vibid:1001000289713": 7,
+      "gas:candidate-vibid:1001000121903": 45,
+      "gas:candidate-vibid:1001000195136": 3,
+      "gas:candidate-vibid:1001000225980": 97,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000036&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070909&region=0&sub_region=0&type=429",
@@ -1142,12 +1142,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 4,
-      "Евтушенко Николай Григорьевич": 16,
-      "Кузьмина Светлана Ивановна": 90,
-      "Минеев Евгений Степанович": 2,
-      "Мокрый Владимир Семенович": 176,
-      "Против всех": 46
+      "gas:candidate-vibid:1001000113974": 4,
+      "gas:candidate-vibid:1001000289713": 16,
+      "gas:candidate-vibid:1001000121903": 90,
+      "gas:candidate-vibid:1001000195136": 2,
+      "gas:candidate-vibid:1001000225980": 176,
+      "special:against-all": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000036&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070909&region=0&sub_region=0&type=429",
@@ -1197,12 +1197,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 6,
-      "Евтушенко Николай Григорьевич": 22,
-      "Кузьмина Светлана Ивановна": 148,
-      "Минеев Евгений Степанович": 7,
-      "Мокрый Владимир Семенович": 124,
-      "Против всех": 36
+      "gas:candidate-vibid:1001000113974": 6,
+      "gas:candidate-vibid:1001000289713": 22,
+      "gas:candidate-vibid:1001000121903": 148,
+      "gas:candidate-vibid:1001000195136": 7,
+      "gas:candidate-vibid:1001000225980": 124,
+      "special:against-all": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000036&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070909&region=0&sub_region=0&type=429",
@@ -1252,12 +1252,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 3,
-      "Евтушенко Николай Григорьевич": 1,
-      "Кузьмина Светлана Ивановна": 27,
-      "Минеев Евгений Степанович": 0,
-      "Мокрый Владимир Семенович": 56,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000113974": 3,
+      "gas:candidate-vibid:1001000289713": 1,
+      "gas:candidate-vibid:1001000121903": 27,
+      "gas:candidate-vibid:1001000195136": 0,
+      "gas:candidate-vibid:1001000225980": 56,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000036&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070909&region=0&sub_region=0&type=429",
@@ -1307,12 +1307,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 4,
-      "Евтушенко Николай Григорьевич": 9,
-      "Кузьмина Светлана Ивановна": 72,
-      "Минеев Евгений Степанович": 1,
-      "Мокрый Владимир Семенович": 167,
-      "Против всех": 28
+      "gas:candidate-vibid:1001000113974": 4,
+      "gas:candidate-vibid:1001000289713": 9,
+      "gas:candidate-vibid:1001000121903": 72,
+      "gas:candidate-vibid:1001000195136": 1,
+      "gas:candidate-vibid:1001000225980": 167,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000036&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070909&region=0&sub_region=0&type=429",
@@ -1362,12 +1362,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 5,
-      "Евтушенко Николай Григорьевич": 12,
-      "Кузьмина Светлана Ивановна": 108,
-      "Минеев Евгений Степанович": 11,
-      "Мокрый Владимир Семенович": 263,
-      "Против всех": 34
+      "gas:candidate-vibid:1001000113974": 5,
+      "gas:candidate-vibid:1001000289713": 12,
+      "gas:candidate-vibid:1001000121903": 108,
+      "gas:candidate-vibid:1001000195136": 11,
+      "gas:candidate-vibid:1001000225980": 263,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000036&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070909&region=0&sub_region=0&type=429",
@@ -1417,12 +1417,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 11,
-      "Евтушенко Николай Григорьевич": 34,
-      "Кузьмина Светлана Ивановна": 319,
-      "Минеев Евгений Степанович": 6,
-      "Мокрый Владимир Семенович": 321,
-      "Против всех": 81
+      "gas:candidate-vibid:1001000113974": 11,
+      "gas:candidate-vibid:1001000289713": 34,
+      "gas:candidate-vibid:1001000121903": 319,
+      "gas:candidate-vibid:1001000195136": 6,
+      "gas:candidate-vibid:1001000225980": 321,
+      "special:against-all": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000036&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070909&region=0&sub_region=0&type=429",
@@ -1472,12 +1472,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 9,
-      "Евтушенко Николай Григорьевич": 24,
-      "Кузьмина Светлана Ивановна": 320,
-      "Минеев Евгений Степанович": 9,
-      "Мокрый Владимир Семенович": 311,
-      "Против всех": 94
+      "gas:candidate-vibid:1001000113974": 9,
+      "gas:candidate-vibid:1001000289713": 24,
+      "gas:candidate-vibid:1001000121903": 320,
+      "gas:candidate-vibid:1001000195136": 9,
+      "gas:candidate-vibid:1001000225980": 311,
+      "special:against-all": 94
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000036&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070909&region=0&sub_region=0&type=429",
@@ -1527,12 +1527,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 1,
-      "Евтушенко Николай Григорьевич": 3,
-      "Кузьмина Светлана Ивановна": 36,
-      "Минеев Евгений Степанович": 0,
-      "Мокрый Владимир Семенович": 20,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000113974": 1,
+      "gas:candidate-vibid:1001000289713": 3,
+      "gas:candidate-vibid:1001000121903": 36,
+      "gas:candidate-vibid:1001000195136": 0,
+      "gas:candidate-vibid:1001000225980": 20,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000036&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070909&region=0&sub_region=0&type=429",
@@ -1582,12 +1582,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 1,
-      "Евтушенко Николай Григорьевич": 6,
-      "Кузьмина Светлана Ивановна": 92,
-      "Минеев Евгений Степанович": 1,
-      "Мокрый Владимир Семенович": 35,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000113974": 1,
+      "gas:candidate-vibid:1001000289713": 6,
+      "gas:candidate-vibid:1001000121903": 92,
+      "gas:candidate-vibid:1001000195136": 1,
+      "gas:candidate-vibid:1001000225980": 35,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000036&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070909&region=0&sub_region=0&type=429",
@@ -1637,12 +1637,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 1,
-      "Евтушенко Николай Григорьевич": 4,
-      "Кузьмина Светлана Ивановна": 16,
-      "Минеев Евгений Степанович": 1,
-      "Мокрый Владимир Семенович": 38,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000113974": 1,
+      "gas:candidate-vibid:1001000289713": 4,
+      "gas:candidate-vibid:1001000121903": 16,
+      "gas:candidate-vibid:1001000195136": 1,
+      "gas:candidate-vibid:1001000225980": 38,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000036&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070909&region=0&sub_region=0&type=429",
@@ -1692,12 +1692,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 28,
-      "Евтушенко Николай Григорьевич": 65,
-      "Кузьмина Светлана Ивановна": 356,
-      "Минеев Евгений Степанович": 20,
-      "Мокрый Владимир Семенович": 598,
-      "Против всех": 201
+      "gas:candidate-vibid:1001000113974": 28,
+      "gas:candidate-vibid:1001000289713": 65,
+      "gas:candidate-vibid:1001000121903": 356,
+      "gas:candidate-vibid:1001000195136": 20,
+      "gas:candidate-vibid:1001000225980": 598,
+      "special:against-all": 201
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000036&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070909&region=0&sub_region=0&type=429",
@@ -1747,12 +1747,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 21,
-      "Евтушенко Николай Григорьевич": 91,
-      "Кузьмина Светлана Ивановна": 365,
-      "Минеев Евгений Степанович": 23,
-      "Мокрый Владимир Семенович": 576,
-      "Против всех": 139
+      "gas:candidate-vibid:1001000113974": 21,
+      "gas:candidate-vibid:1001000289713": 91,
+      "gas:candidate-vibid:1001000121903": 365,
+      "gas:candidate-vibid:1001000195136": 23,
+      "gas:candidate-vibid:1001000225980": 576,
+      "special:against-all": 139
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000036&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070909&region=0&sub_region=0&type=429",
@@ -1802,12 +1802,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 21,
-      "Евтушенко Николай Григорьевич": 62,
-      "Кузьмина Светлана Ивановна": 476,
-      "Минеев Евгений Степанович": 14,
-      "Мокрый Владимир Семенович": 647,
-      "Против всех": 146
+      "gas:candidate-vibid:1001000113974": 21,
+      "gas:candidate-vibid:1001000289713": 62,
+      "gas:candidate-vibid:1001000121903": 476,
+      "gas:candidate-vibid:1001000195136": 14,
+      "gas:candidate-vibid:1001000225980": 647,
+      "special:against-all": 146
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000036&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070909&region=0&sub_region=0&type=429",
@@ -1857,12 +1857,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 32,
-      "Евтушенко Николай Григорьевич": 90,
-      "Кузьмина Светлана Ивановна": 408,
-      "Минеев Евгений Степанович": 22,
-      "Мокрый Владимир Семенович": 552,
-      "Против всех": 162
+      "gas:candidate-vibid:1001000113974": 32,
+      "gas:candidate-vibid:1001000289713": 90,
+      "gas:candidate-vibid:1001000121903": 408,
+      "gas:candidate-vibid:1001000195136": 22,
+      "gas:candidate-vibid:1001000225980": 552,
+      "special:against-all": 162
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000036&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070909&region=0&sub_region=0&type=429",
@@ -1912,12 +1912,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 29,
-      "Евтушенко Николай Григорьевич": 60,
-      "Кузьмина Светлана Ивановна": 425,
-      "Минеев Евгений Степанович": 21,
-      "Мокрый Владимир Семенович": 531,
-      "Против всех": 135
+      "gas:candidate-vibid:1001000113974": 29,
+      "gas:candidate-vibid:1001000289713": 60,
+      "gas:candidate-vibid:1001000121903": 425,
+      "gas:candidate-vibid:1001000195136": 21,
+      "gas:candidate-vibid:1001000225980": 531,
+      "special:against-all": 135
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000036&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070909&region=0&sub_region=0&type=429",
@@ -1967,12 +1967,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 21,
-      "Евтушенко Николай Григорьевич": 76,
-      "Кузьмина Светлана Ивановна": 386,
-      "Минеев Евгений Степанович": 12,
-      "Мокрый Владимир Семенович": 495,
-      "Против всех": 132
+      "gas:candidate-vibid:1001000113974": 21,
+      "gas:candidate-vibid:1001000289713": 76,
+      "gas:candidate-vibid:1001000121903": 386,
+      "gas:candidate-vibid:1001000195136": 12,
+      "gas:candidate-vibid:1001000225980": 495,
+      "special:against-all": 132
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000036&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070909&region=0&sub_region=0&type=429",
@@ -2022,12 +2022,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 7,
-      "Евтушенко Николай Григорьевич": 20,
-      "Кузьмина Светлана Ивановна": 325,
-      "Минеев Евгений Степанович": 4,
-      "Мокрый Владимир Семенович": 306,
-      "Против всех": 55
+      "gas:candidate-vibid:1001000113974": 7,
+      "gas:candidate-vibid:1001000289713": 20,
+      "gas:candidate-vibid:1001000121903": 325,
+      "gas:candidate-vibid:1001000195136": 4,
+      "gas:candidate-vibid:1001000225980": 306,
+      "special:against-all": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070910&region=0&sub_region=0&type=429",
@@ -2077,12 +2077,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 3,
-      "Евтушенко Николай Григорьевич": 14,
-      "Кузьмина Светлана Ивановна": 287,
-      "Минеев Евгений Степанович": 7,
-      "Мокрый Владимир Семенович": 300,
-      "Против всех": 48
+      "gas:candidate-vibid:1001000113974": 3,
+      "gas:candidate-vibid:1001000289713": 14,
+      "gas:candidate-vibid:1001000121903": 287,
+      "gas:candidate-vibid:1001000195136": 7,
+      "gas:candidate-vibid:1001000225980": 300,
+      "special:against-all": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070910&region=0&sub_region=0&type=429",
@@ -2132,12 +2132,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 8,
-      "Евтушенко Николай Григорьевич": 12,
-      "Кузьмина Светлана Ивановна": 192,
-      "Минеев Евгений Степанович": 7,
-      "Мокрый Владимир Семенович": 307,
-      "Против всех": 45
+      "gas:candidate-vibid:1001000113974": 8,
+      "gas:candidate-vibid:1001000289713": 12,
+      "gas:candidate-vibid:1001000121903": 192,
+      "gas:candidate-vibid:1001000195136": 7,
+      "gas:candidate-vibid:1001000225980": 307,
+      "special:against-all": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070910&region=0&sub_region=0&type=429",
@@ -2187,12 +2187,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 2,
-      "Евтушенко Николай Григорьевич": 1,
-      "Кузьмина Светлана Ивановна": 68,
-      "Минеев Евгений Степанович": 3,
-      "Мокрый Владимир Семенович": 117,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000113974": 2,
+      "gas:candidate-vibid:1001000289713": 1,
+      "gas:candidate-vibid:1001000121903": 68,
+      "gas:candidate-vibid:1001000195136": 3,
+      "gas:candidate-vibid:1001000225980": 117,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070910&region=0&sub_region=0&type=429",
@@ -2242,12 +2242,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 2,
-      "Евтушенко Николай Григорьевич": 10,
-      "Кузьмина Светлана Ивановна": 114,
-      "Минеев Евгений Степанович": 1,
-      "Мокрый Владимир Семенович": 134,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000113974": 2,
+      "gas:candidate-vibid:1001000289713": 10,
+      "gas:candidate-vibid:1001000121903": 114,
+      "gas:candidate-vibid:1001000195136": 1,
+      "gas:candidate-vibid:1001000225980": 134,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070910&region=0&sub_region=0&type=429",
@@ -2297,12 +2297,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 1,
-      "Евтушенко Николай Григорьевич": 8,
-      "Кузьмина Светлана Ивановна": 88,
-      "Минеев Евгений Степанович": 1,
-      "Мокрый Владимир Семенович": 74,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000113974": 1,
+      "gas:candidate-vibid:1001000289713": 8,
+      "gas:candidate-vibid:1001000121903": 88,
+      "gas:candidate-vibid:1001000195136": 1,
+      "gas:candidate-vibid:1001000225980": 74,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070910&region=0&sub_region=0&type=429",
@@ -2352,12 +2352,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 5,
-      "Евтушенко Николай Григорьевич": 10,
-      "Кузьмина Светлана Ивановна": 85,
-      "Минеев Евгений Степанович": 2,
-      "Мокрый Владимир Семенович": 150,
-      "Против всех": 64
+      "gas:candidate-vibid:1001000113974": 5,
+      "gas:candidate-vibid:1001000289713": 10,
+      "gas:candidate-vibid:1001000121903": 85,
+      "gas:candidate-vibid:1001000195136": 2,
+      "gas:candidate-vibid:1001000225980": 150,
+      "special:against-all": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070910&region=0&sub_region=0&type=429",
@@ -2407,12 +2407,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 0,
-      "Евтушенко Николай Григорьевич": 1,
-      "Кузьмина Светлана Ивановна": 51,
-      "Минеев Евгений Степанович": 2,
-      "Мокрый Владимир Семенович": 79,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000113974": 0,
+      "gas:candidate-vibid:1001000289713": 1,
+      "gas:candidate-vibid:1001000121903": 51,
+      "gas:candidate-vibid:1001000195136": 2,
+      "gas:candidate-vibid:1001000225980": 79,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070910&region=0&sub_region=0&type=429",
@@ -2462,12 +2462,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 0,
-      "Евтушенко Николай Григорьевич": 1,
-      "Кузьмина Светлана Ивановна": 29,
-      "Минеев Евгений Степанович": 1,
-      "Мокрый Владимир Семенович": 60,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000113974": 0,
+      "gas:candidate-vibid:1001000289713": 1,
+      "gas:candidate-vibid:1001000121903": 29,
+      "gas:candidate-vibid:1001000195136": 1,
+      "gas:candidate-vibid:1001000225980": 60,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070910&region=0&sub_region=0&type=429",
@@ -2517,12 +2517,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 0,
-      "Евтушенко Николай Григорьевич": 3,
-      "Кузьмина Светлана Ивановна": 26,
-      "Минеев Евгений Степанович": 0,
-      "Мокрый Владимир Семенович": 63,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000113974": 0,
+      "gas:candidate-vibid:1001000289713": 3,
+      "gas:candidate-vibid:1001000121903": 26,
+      "gas:candidate-vibid:1001000195136": 0,
+      "gas:candidate-vibid:1001000225980": 63,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070910&region=0&sub_region=0&type=429",
@@ -2572,12 +2572,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 4,
-      "Евтушенко Николай Григорьевич": 17,
-      "Кузьмина Светлана Ивановна": 88,
-      "Минеев Евгений Степанович": 2,
-      "Мокрый Владимир Семенович": 143,
-      "Против всех": 27
+      "gas:candidate-vibid:1001000113974": 4,
+      "gas:candidate-vibid:1001000289713": 17,
+      "gas:candidate-vibid:1001000121903": 88,
+      "gas:candidate-vibid:1001000195136": 2,
+      "gas:candidate-vibid:1001000225980": 143,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070910&region=0&sub_region=0&type=429",
@@ -2627,12 +2627,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 1,
-      "Евтушенко Николай Григорьевич": 3,
-      "Кузьмина Светлана Ивановна": 79,
-      "Минеев Евгений Степанович": 0,
-      "Мокрый Владимир Семенович": 164,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000113974": 1,
+      "gas:candidate-vibid:1001000289713": 3,
+      "gas:candidate-vibid:1001000121903": 79,
+      "gas:candidate-vibid:1001000195136": 0,
+      "gas:candidate-vibid:1001000225980": 164,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070910&region=0&sub_region=0&type=429",
@@ -2682,12 +2682,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 2,
-      "Евтушенко Николай Григорьевич": 1,
-      "Кузьмина Светлана Ивановна": 72,
-      "Минеев Евгений Степанович": 1,
-      "Мокрый Владимир Семенович": 136,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000113974": 2,
+      "gas:candidate-vibid:1001000289713": 1,
+      "gas:candidate-vibid:1001000121903": 72,
+      "gas:candidate-vibid:1001000195136": 1,
+      "gas:candidate-vibid:1001000225980": 136,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070910&region=0&sub_region=0&type=429",
@@ -2737,12 +2737,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 0,
-      "Евтушенко Николай Григорьевич": 5,
-      "Кузьмина Светлана Ивановна": 93,
-      "Минеев Евгений Степанович": 8,
-      "Мокрый Владимир Семенович": 133,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000113974": 0,
+      "gas:candidate-vibid:1001000289713": 5,
+      "gas:candidate-vibid:1001000121903": 93,
+      "gas:candidate-vibid:1001000195136": 8,
+      "gas:candidate-vibid:1001000225980": 133,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070910&region=0&sub_region=0&type=429",
@@ -2792,12 +2792,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 3,
-      "Евтушенко Николай Григорьевич": 8,
-      "Кузьмина Светлана Ивановна": 83,
-      "Минеев Евгений Степанович": 3,
-      "Мокрый Владимир Семенович": 132,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000113974": 3,
+      "gas:candidate-vibid:1001000289713": 8,
+      "gas:candidate-vibid:1001000121903": 83,
+      "gas:candidate-vibid:1001000195136": 3,
+      "gas:candidate-vibid:1001000225980": 132,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070910&region=0&sub_region=0&type=429",
@@ -2847,12 +2847,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 7,
-      "Евтушенко Николай Григорьевич": 15,
-      "Кузьмина Светлана Ивановна": 265,
-      "Минеев Евгений Степанович": 2,
-      "Мокрый Владимир Семенович": 157,
-      "Против всех": 66
+      "gas:candidate-vibid:1001000113974": 7,
+      "gas:candidate-vibid:1001000289713": 15,
+      "gas:candidate-vibid:1001000121903": 265,
+      "gas:candidate-vibid:1001000195136": 2,
+      "gas:candidate-vibid:1001000225980": 157,
+      "special:against-all": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070910&region=0&sub_region=0&type=429",
@@ -2902,12 +2902,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 2,
-      "Евтушенко Николай Григорьевич": 5,
-      "Кузьмина Светлана Ивановна": 84,
-      "Минеев Евгений Степанович": 0,
-      "Мокрый Владимир Семенович": 105,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000113974": 2,
+      "gas:candidate-vibid:1001000289713": 5,
+      "gas:candidate-vibid:1001000121903": 84,
+      "gas:candidate-vibid:1001000195136": 0,
+      "gas:candidate-vibid:1001000225980": 105,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070910&region=0&sub_region=0&type=429",
@@ -2957,12 +2957,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 3,
-      "Евтушенко Николай Григорьевич": 21,
-      "Кузьмина Светлана Ивановна": 177,
-      "Минеев Евгений Степанович": 7,
-      "Мокрый Владимир Семенович": 328,
-      "Против всех": 50
+      "gas:candidate-vibid:1001000113974": 3,
+      "gas:candidate-vibid:1001000289713": 21,
+      "gas:candidate-vibid:1001000121903": 177,
+      "gas:candidate-vibid:1001000195136": 7,
+      "gas:candidate-vibid:1001000225980": 328,
+      "special:against-all": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070910&region=0&sub_region=0&type=429",
@@ -3012,12 +3012,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 0,
-      "Евтушенко Николай Григорьевич": 2,
-      "Кузьмина Светлана Ивановна": 48,
-      "Минеев Евгений Степанович": 1,
-      "Мокрый Владимир Семенович": 71,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000113974": 0,
+      "gas:candidate-vibid:1001000289713": 2,
+      "gas:candidate-vibid:1001000121903": 48,
+      "gas:candidate-vibid:1001000195136": 1,
+      "gas:candidate-vibid:1001000225980": 71,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070910&region=0&sub_region=0&type=429",
@@ -3067,12 +3067,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 2,
-      "Евтушенко Николай Григорьевич": 2,
-      "Кузьмина Светлана Ивановна": 39,
-      "Минеев Евгений Степанович": 1,
-      "Мокрый Владимир Семенович": 36,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000113974": 2,
+      "gas:candidate-vibid:1001000289713": 2,
+      "gas:candidate-vibid:1001000121903": 39,
+      "gas:candidate-vibid:1001000195136": 1,
+      "gas:candidate-vibid:1001000225980": 36,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070910&region=0&sub_region=0&type=429",
@@ -3122,12 +3122,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 0,
-      "Евтушенко Николай Григорьевич": 7,
-      "Кузьмина Светлана Ивановна": 15,
-      "Минеев Евгений Степанович": 1,
-      "Мокрый Владимир Семенович": 41,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000113974": 0,
+      "gas:candidate-vibid:1001000289713": 7,
+      "gas:candidate-vibid:1001000121903": 15,
+      "gas:candidate-vibid:1001000195136": 1,
+      "gas:candidate-vibid:1001000225980": 41,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070910&region=0&sub_region=0&type=429",
@@ -3177,12 +3177,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 0,
-      "Евтушенко Николай Григорьевич": 8,
-      "Кузьмина Светлана Ивановна": 50,
-      "Минеев Евгений Степанович": 3,
-      "Мокрый Владимир Семенович": 237,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000113974": 0,
+      "gas:candidate-vibid:1001000289713": 8,
+      "gas:candidate-vibid:1001000121903": 50,
+      "gas:candidate-vibid:1001000195136": 3,
+      "gas:candidate-vibid:1001000225980": 237,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070910&region=0&sub_region=0&type=429",
@@ -3232,12 +3232,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 1,
-      "Евтушенко Николай Григорьевич": 1,
-      "Кузьмина Светлана Ивановна": 36,
-      "Минеев Евгений Степанович": 1,
-      "Мокрый Владимир Семенович": 173,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000113974": 1,
+      "gas:candidate-vibid:1001000289713": 1,
+      "gas:candidate-vibid:1001000121903": 36,
+      "gas:candidate-vibid:1001000195136": 1,
+      "gas:candidate-vibid:1001000225980": 173,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070910&region=0&sub_region=0&type=429",
@@ -3287,12 +3287,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 0,
-      "Евтушенко Николай Григорьевич": 5,
-      "Кузьмина Светлана Ивановна": 50,
-      "Минеев Евгений Степанович": 0,
-      "Мокрый Владимир Семенович": 96,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000113974": 0,
+      "gas:candidate-vibid:1001000289713": 5,
+      "gas:candidate-vibid:1001000121903": 50,
+      "gas:candidate-vibid:1001000195136": 0,
+      "gas:candidate-vibid:1001000225980": 96,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070910&region=0&sub_region=0&type=429",
@@ -3342,12 +3342,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 3,
-      "Евтушенко Николай Григорьевич": 15,
-      "Кузьмина Светлана Ивановна": 201,
-      "Минеев Евгений Степанович": 5,
-      "Мокрый Владимир Семенович": 179,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000113974": 3,
+      "gas:candidate-vibid:1001000289713": 15,
+      "gas:candidate-vibid:1001000121903": 201,
+      "gas:candidate-vibid:1001000195136": 5,
+      "gas:candidate-vibid:1001000225980": 179,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070910&region=0&sub_region=0&type=429",
@@ -3397,12 +3397,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 21,
-      "Евтушенко Николай Григорьевич": 106,
-      "Кузьмина Светлана Ивановна": 327,
-      "Минеев Евгений Степанович": 22,
-      "Мокрый Владимир Семенович": 588,
-      "Против всех": 187
+      "gas:candidate-vibid:1001000113974": 21,
+      "gas:candidate-vibid:1001000289713": 106,
+      "gas:candidate-vibid:1001000121903": 327,
+      "gas:candidate-vibid:1001000195136": 22,
+      "gas:candidate-vibid:1001000225980": 588,
+      "special:against-all": 187
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070911&region=0&sub_region=0&type=429",
@@ -3452,12 +3452,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 25,
-      "Евтушенко Николай Григорьевич": 118,
-      "Кузьмина Светлана Ивановна": 290,
-      "Минеев Евгений Степанович": 29,
-      "Мокрый Владимир Семенович": 538,
-      "Против всех": 170
+      "gas:candidate-vibid:1001000113974": 25,
+      "gas:candidate-vibid:1001000289713": 118,
+      "gas:candidate-vibid:1001000121903": 290,
+      "gas:candidate-vibid:1001000195136": 29,
+      "gas:candidate-vibid:1001000225980": 538,
+      "special:against-all": 170
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070911&region=0&sub_region=0&type=429",
@@ -3507,12 +3507,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 34,
-      "Евтушенко Николай Григорьевич": 77,
-      "Кузьмина Светлана Ивановна": 404,
-      "Минеев Евгений Степанович": 9,
-      "Мокрый Владимир Семенович": 605,
-      "Против всех": 123
+      "gas:candidate-vibid:1001000113974": 34,
+      "gas:candidate-vibid:1001000289713": 77,
+      "gas:candidate-vibid:1001000121903": 404,
+      "gas:candidate-vibid:1001000195136": 9,
+      "gas:candidate-vibid:1001000225980": 605,
+      "special:against-all": 123
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070911&region=0&sub_region=0&type=429",
@@ -3562,12 +3562,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 24,
-      "Евтушенко Николай Григорьевич": 66,
-      "Кузьмина Светлана Ивановна": 368,
-      "Минеев Евгений Степанович": 9,
-      "Мокрый Владимир Семенович": 602,
-      "Против всех": 128
+      "gas:candidate-vibid:1001000113974": 24,
+      "gas:candidate-vibid:1001000289713": 66,
+      "gas:candidate-vibid:1001000121903": 368,
+      "gas:candidate-vibid:1001000195136": 9,
+      "gas:candidate-vibid:1001000225980": 602,
+      "special:against-all": 128
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070911&region=0&sub_region=0&type=429",
@@ -3617,12 +3617,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 33,
-      "Евтушенко Николай Григорьевич": 46,
-      "Кузьмина Светлана Ивановна": 361,
-      "Минеев Евгений Степанович": 16,
-      "Мокрый Владимир Семенович": 481,
-      "Против всех": 100
+      "gas:candidate-vibid:1001000113974": 33,
+      "gas:candidate-vibid:1001000289713": 46,
+      "gas:candidate-vibid:1001000121903": 361,
+      "gas:candidate-vibid:1001000195136": 16,
+      "gas:candidate-vibid:1001000225980": 481,
+      "special:against-all": 100
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070911&region=0&sub_region=0&type=429",
@@ -3672,12 +3672,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 18,
-      "Евтушенко Николай Григорьевич": 54,
-      "Кузьмина Светлана Ивановна": 281,
-      "Минеев Евгений Степанович": 18,
-      "Мокрый Владимир Семенович": 387,
-      "Против всех": 91
+      "gas:candidate-vibid:1001000113974": 18,
+      "gas:candidate-vibid:1001000289713": 54,
+      "gas:candidate-vibid:1001000121903": 281,
+      "gas:candidate-vibid:1001000195136": 18,
+      "gas:candidate-vibid:1001000225980": 387,
+      "special:against-all": 91
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070911&region=0&sub_region=0&type=429",
@@ -3727,12 +3727,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 44,
-      "Евтушенко Николай Григорьевич": 47,
-      "Кузьмина Светлана Ивановна": 290,
-      "Минеев Евгений Степанович": 18,
-      "Мокрый Владимир Семенович": 440,
-      "Против всех": 98
+      "gas:candidate-vibid:1001000113974": 44,
+      "gas:candidate-vibid:1001000289713": 47,
+      "gas:candidate-vibid:1001000121903": 290,
+      "gas:candidate-vibid:1001000195136": 18,
+      "gas:candidate-vibid:1001000225980": 440,
+      "special:against-all": 98
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070911&region=0&sub_region=0&type=429",
@@ -3782,12 +3782,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 33,
-      "Евтушенко Николай Григорьевич": 61,
-      "Кузьмина Светлана Ивановна": 408,
-      "Минеев Евгений Степанович": 11,
-      "Мокрый Владимир Семенович": 551,
-      "Против всех": 102
+      "gas:candidate-vibid:1001000113974": 33,
+      "gas:candidate-vibid:1001000289713": 61,
+      "gas:candidate-vibid:1001000121903": 408,
+      "gas:candidate-vibid:1001000195136": 11,
+      "gas:candidate-vibid:1001000225980": 551,
+      "special:against-all": 102
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070911&region=0&sub_region=0&type=429",
@@ -3837,12 +3837,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 28,
-      "Евтушенко Николай Григорьевич": 51,
-      "Кузьмина Светлана Ивановна": 276,
-      "Минеев Евгений Степанович": 9,
-      "Мокрый Владимир Семенович": 402,
-      "Против всех": 96
+      "gas:candidate-vibid:1001000113974": 28,
+      "gas:candidate-vibid:1001000289713": 51,
+      "gas:candidate-vibid:1001000121903": 276,
+      "gas:candidate-vibid:1001000195136": 9,
+      "gas:candidate-vibid:1001000225980": 402,
+      "special:against-all": 96
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070911&region=0&sub_region=0&type=429",
@@ -3892,12 +3892,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 20,
-      "Евтушенко Николай Григорьевич": 60,
-      "Кузьмина Светлана Ивановна": 287,
-      "Минеев Евгений Степанович": 12,
-      "Мокрый Владимир Семенович": 386,
-      "Против всех": 71
+      "gas:candidate-vibid:1001000113974": 20,
+      "gas:candidate-vibid:1001000289713": 60,
+      "gas:candidate-vibid:1001000121903": 287,
+      "gas:candidate-vibid:1001000195136": 12,
+      "gas:candidate-vibid:1001000225980": 386,
+      "special:against-all": 71
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070911&region=0&sub_region=0&type=429",
@@ -3947,12 +3947,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 26,
-      "Евтушенко Николай Григорьевич": 57,
-      "Кузьмина Светлана Ивановна": 357,
-      "Минеев Евгений Степанович": 8,
-      "Мокрый Владимир Семенович": 428,
-      "Против всех": 105
+      "gas:candidate-vibid:1001000113974": 26,
+      "gas:candidate-vibid:1001000289713": 57,
+      "gas:candidate-vibid:1001000121903": 357,
+      "gas:candidate-vibid:1001000195136": 8,
+      "gas:candidate-vibid:1001000225980": 428,
+      "special:against-all": 105
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070911&region=0&sub_region=0&type=429",
@@ -4002,12 +4002,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 2,
-      "Евтушенко Николай Григорьевич": 13,
-      "Кузьмина Светлана Ивановна": 80,
-      "Минеев Евгений Степанович": 1,
-      "Мокрый Владимир Семенович": 109,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000113974": 2,
+      "gas:candidate-vibid:1001000289713": 13,
+      "gas:candidate-vibid:1001000121903": 80,
+      "gas:candidate-vibid:1001000195136": 1,
+      "gas:candidate-vibid:1001000225980": 109,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070911&region=0&sub_region=0&type=429",
@@ -4057,12 +4057,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 32,
-      "Евтушенко Николай Григорьевич": 79,
-      "Кузьмина Светлана Ивановна": 270,
-      "Минеев Евгений Степанович": 6,
-      "Мокрый Владимир Семенович": 353,
-      "Против всех": 93
+      "gas:candidate-vibid:1001000113974": 32,
+      "gas:candidate-vibid:1001000289713": 79,
+      "gas:candidate-vibid:1001000121903": 270,
+      "gas:candidate-vibid:1001000195136": 6,
+      "gas:candidate-vibid:1001000225980": 353,
+      "special:against-all": 93
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070911&region=0&sub_region=0&type=429",
@@ -4112,12 +4112,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 19,
-      "Евтушенко Николай Григорьевич": 97,
-      "Кузьмина Светлана Ивановна": 360,
-      "Минеев Евгений Степанович": 17,
-      "Мокрый Владимир Семенович": 520,
-      "Против всех": 111
+      "gas:candidate-vibid:1001000113974": 19,
+      "gas:candidate-vibid:1001000289713": 97,
+      "gas:candidate-vibid:1001000121903": 360,
+      "gas:candidate-vibid:1001000195136": 17,
+      "gas:candidate-vibid:1001000225980": 520,
+      "special:against-all": 111
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070911&region=0&sub_region=0&type=429",
@@ -4167,12 +4167,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 40,
-      "Евтушенко Николай Григорьевич": 79,
-      "Кузьмина Светлана Ивановна": 428,
-      "Минеев Евгений Степанович": 19,
-      "Мокрый Владимир Семенович": 400,
-      "Против всех": 131
+      "gas:candidate-vibid:1001000113974": 40,
+      "gas:candidate-vibid:1001000289713": 79,
+      "gas:candidate-vibid:1001000121903": 428,
+      "gas:candidate-vibid:1001000195136": 19,
+      "gas:candidate-vibid:1001000225980": 400,
+      "special:against-all": 131
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070911&region=0&sub_region=0&type=429",
@@ -4222,12 +4222,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 26,
-      "Евтушенко Николай Григорьевич": 77,
-      "Кузьмина Светлана Ивановна": 396,
-      "Минеев Евгений Степанович": 14,
-      "Мокрый Владимир Семенович": 624,
-      "Против всех": 144
+      "gas:candidate-vibid:1001000113974": 26,
+      "gas:candidate-vibid:1001000289713": 77,
+      "gas:candidate-vibid:1001000121903": 396,
+      "gas:candidate-vibid:1001000195136": 14,
+      "gas:candidate-vibid:1001000225980": 624,
+      "special:against-all": 144
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070911&region=0&sub_region=0&type=429",
@@ -4277,12 +4277,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 18,
-      "Евтушенко Николай Григорьевич": 86,
-      "Кузьмина Светлана Ивановна": 428,
-      "Минеев Евгений Степанович": 19,
-      "Мокрый Владимир Семенович": 589,
-      "Против всех": 144
+      "gas:candidate-vibid:1001000113974": 18,
+      "gas:candidate-vibid:1001000289713": 86,
+      "gas:candidate-vibid:1001000121903": 428,
+      "gas:candidate-vibid:1001000195136": 19,
+      "gas:candidate-vibid:1001000225980": 589,
+      "special:against-all": 144
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070911&region=0&sub_region=0&type=429",
@@ -4332,12 +4332,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 24,
-      "Евтушенко Николай Григорьевич": 18,
-      "Кузьмина Светлана Ивановна": 84,
-      "Минеев Евгений Степанович": 441,
-      "Мокрый Владимир Семенович": 321,
-      "Против всех": 116
+      "gas:candidate-vibid:1001000113974": 24,
+      "gas:candidate-vibid:1001000289713": 18,
+      "gas:candidate-vibid:1001000121903": 84,
+      "gas:candidate-vibid:1001000195136": 441,
+      "gas:candidate-vibid:1001000225980": 321,
+      "special:against-all": 116
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070911&region=0&sub_region=0&type=429",
@@ -4387,12 +4387,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 36,
-      "Евтушенко Николай Григорьевич": 90,
-      "Кузьмина Светлана Ивановна": 294,
-      "Минеев Евгений Степанович": 17,
-      "Мокрый Владимир Семенович": 628,
-      "Против всех": 157
+      "gas:candidate-vibid:1001000113974": 36,
+      "gas:candidate-vibid:1001000289713": 90,
+      "gas:candidate-vibid:1001000121903": 294,
+      "gas:candidate-vibid:1001000195136": 17,
+      "gas:candidate-vibid:1001000225980": 628,
+      "special:against-all": 157
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070911&region=0&sub_region=0&type=429",
@@ -4442,12 +4442,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 20,
-      "Евтушенко Николай Григорьевич": 64,
-      "Кузьмина Светлана Ивановна": 399,
-      "Минеев Евгений Степанович": 12,
-      "Мокрый Владимир Семенович": 592,
-      "Против всех": 114
+      "gas:candidate-vibid:1001000113974": 20,
+      "gas:candidate-vibid:1001000289713": 64,
+      "gas:candidate-vibid:1001000121903": 399,
+      "gas:candidate-vibid:1001000195136": 12,
+      "gas:candidate-vibid:1001000225980": 592,
+      "special:against-all": 114
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070911&region=0&sub_region=0&type=429",
@@ -4497,12 +4497,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 23,
-      "Евтушенко Николай Григорьевич": 66,
-      "Кузьмина Светлана Ивановна": 194,
-      "Минеев Евгений Степанович": 8,
-      "Мокрый Владимир Семенович": 253,
-      "Против всех": 63
+      "gas:candidate-vibid:1001000113974": 23,
+      "gas:candidate-vibid:1001000289713": 66,
+      "gas:candidate-vibid:1001000121903": 194,
+      "gas:candidate-vibid:1001000195136": 8,
+      "gas:candidate-vibid:1001000225980": 253,
+      "special:against-all": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070911&region=0&sub_region=0&type=429",
@@ -4552,12 +4552,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 26,
-      "Евтушенко Николай Григорьевич": 57,
-      "Кузьмина Светлана Ивановна": 240,
-      "Минеев Евгений Степанович": 17,
-      "Мокрый Владимир Семенович": 373,
-      "Против всех": 87
+      "gas:candidate-vibid:1001000113974": 26,
+      "gas:candidate-vibid:1001000289713": 57,
+      "gas:candidate-vibid:1001000121903": 240,
+      "gas:candidate-vibid:1001000195136": 17,
+      "gas:candidate-vibid:1001000225980": 373,
+      "special:against-all": 87
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070911&region=0&sub_region=0&type=429",
@@ -4607,12 +4607,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 0,
-      "Евтушенко Николай Григорьевич": 2,
-      "Кузьмина Светлана Ивановна": 27,
-      "Минеев Евгений Степанович": 1,
-      "Мокрый Владимир Семенович": 47,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000113974": 0,
+      "gas:candidate-vibid:1001000289713": 2,
+      "gas:candidate-vibid:1001000121903": 27,
+      "gas:candidate-vibid:1001000195136": 1,
+      "gas:candidate-vibid:1001000225980": 47,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070911&region=0&sub_region=0&type=429",
@@ -4662,12 +4662,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 47,
-      "Евтушенко Николай Григорьевич": 9,
-      "Кузьмина Светлана Ивановна": 328,
-      "Минеев Евгений Степанович": 9,
-      "Мокрый Владимир Семенович": 383,
-      "Против всех": 74
+      "gas:candidate-vibid:1001000113974": 47,
+      "gas:candidate-vibid:1001000289713": 9,
+      "gas:candidate-vibid:1001000121903": 328,
+      "gas:candidate-vibid:1001000195136": 9,
+      "gas:candidate-vibid:1001000225980": 383,
+      "special:against-all": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070911&region=0&sub_region=0&type=429",
@@ -4717,12 +4717,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 0,
-      "Евтушенко Николай Григорьевич": 2,
-      "Кузьмина Светлана Ивановна": 6,
-      "Минеев Евгений Степанович": 0,
-      "Мокрый Владимир Семенович": 128,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000113974": 0,
+      "gas:candidate-vibid:1001000289713": 2,
+      "gas:candidate-vibid:1001000121903": 6,
+      "gas:candidate-vibid:1001000195136": 0,
+      "gas:candidate-vibid:1001000225980": 128,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070911&region=0&sub_region=0&type=429",
@@ -4772,12 +4772,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 4,
-      "Евтушенко Николай Григорьевич": 26,
-      "Кузьмина Светлана Ивановна": 167,
-      "Минеев Евгений Степанович": 9,
-      "Мокрый Владимир Семенович": 350,
-      "Против всех": 43
+      "gas:candidate-vibid:1001000113974": 4,
+      "gas:candidate-vibid:1001000289713": 26,
+      "gas:candidate-vibid:1001000121903": 167,
+      "gas:candidate-vibid:1001000195136": 9,
+      "gas:candidate-vibid:1001000225980": 350,
+      "special:against-all": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070911&region=0&sub_region=0&type=429",
@@ -4827,12 +4827,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 16,
-      "Евтушенко Николай Григорьевич": 23,
-      "Кузьмина Светлана Ивановна": 191,
-      "Минеев Евгений Степанович": 7,
-      "Мокрый Владимир Семенович": 206,
-      "Против всех": 77
+      "gas:candidate-vibid:1001000113974": 16,
+      "gas:candidate-vibid:1001000289713": 23,
+      "gas:candidate-vibid:1001000121903": 191,
+      "gas:candidate-vibid:1001000195136": 7,
+      "gas:candidate-vibid:1001000225980": 206,
+      "special:against-all": 77
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070911&region=0&sub_region=0&type=429",
@@ -4882,12 +4882,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 4,
-      "Евтушенко Николай Григорьевич": 7,
-      "Кузьмина Светлана Ивановна": 97,
-      "Минеев Евгений Степанович": 1,
-      "Мокрый Владимир Семенович": 115,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000113974": 4,
+      "gas:candidate-vibid:1001000289713": 7,
+      "gas:candidate-vibid:1001000121903": 97,
+      "gas:candidate-vibid:1001000195136": 1,
+      "gas:candidate-vibid:1001000225980": 115,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070911&region=0&sub_region=0&type=429",
@@ -4937,12 +4937,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 1,
-      "Евтушенко Николай Григорьевич": 6,
-      "Кузьмина Светлана Ивановна": 75,
-      "Минеев Евгений Степанович": 0,
-      "Мокрый Владимир Семенович": 166,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000113974": 1,
+      "gas:candidate-vibid:1001000289713": 6,
+      "gas:candidate-vibid:1001000121903": 75,
+      "gas:candidate-vibid:1001000195136": 0,
+      "gas:candidate-vibid:1001000225980": 166,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000039&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070912&region=0&sub_region=0&type=429",
@@ -4992,12 +4992,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 5,
-      "Евтушенко Николай Григорьевич": 29,
-      "Кузьмина Светлана Ивановна": 351,
-      "Минеев Евгений Степанович": 3,
-      "Мокрый Владимир Семенович": 383,
-      "Против всех": 61
+      "gas:candidate-vibid:1001000113974": 5,
+      "gas:candidate-vibid:1001000289713": 29,
+      "gas:candidate-vibid:1001000121903": 351,
+      "gas:candidate-vibid:1001000195136": 3,
+      "gas:candidate-vibid:1001000225980": 383,
+      "special:against-all": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000039&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070912&region=0&sub_region=0&type=429",
@@ -5047,12 +5047,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 11,
-      "Евтушенко Николай Григорьевич": 17,
-      "Кузьмина Светлана Ивановна": 423,
-      "Минеев Евгений Степанович": 7,
-      "Мокрый Владимир Семенович": 333,
-      "Против всех": 54
+      "gas:candidate-vibid:1001000113974": 11,
+      "gas:candidate-vibid:1001000289713": 17,
+      "gas:candidate-vibid:1001000121903": 423,
+      "gas:candidate-vibid:1001000195136": 7,
+      "gas:candidate-vibid:1001000225980": 333,
+      "special:against-all": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000039&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070912&region=0&sub_region=0&type=429",
@@ -5102,12 +5102,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 17,
-      "Евтушенко Николай Григорьевич": 45,
-      "Кузьмина Светлана Ивановна": 422,
-      "Минеев Евгений Степанович": 1,
-      "Мокрый Владимир Семенович": 410,
-      "Против всех": 40
+      "gas:candidate-vibid:1001000113974": 17,
+      "gas:candidate-vibid:1001000289713": 45,
+      "gas:candidate-vibid:1001000121903": 422,
+      "gas:candidate-vibid:1001000195136": 1,
+      "gas:candidate-vibid:1001000225980": 410,
+      "special:against-all": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000039&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070912&region=0&sub_region=0&type=429",
@@ -5157,12 +5157,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 13,
-      "Евтушенко Николай Григорьевич": 31,
-      "Кузьмина Светлана Ивановна": 483,
-      "Минеев Евгений Степанович": 4,
-      "Мокрый Владимир Семенович": 454,
-      "Против всех": 84
+      "gas:candidate-vibid:1001000113974": 13,
+      "gas:candidate-vibid:1001000289713": 31,
+      "gas:candidate-vibid:1001000121903": 483,
+      "gas:candidate-vibid:1001000195136": 4,
+      "gas:candidate-vibid:1001000225980": 454,
+      "special:against-all": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000039&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070912&region=0&sub_region=0&type=429",
@@ -5212,12 +5212,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 5,
-      "Евтушенко Николай Григорьевич": 16,
-      "Кузьмина Светлана Ивановна": 98,
-      "Минеев Евгений Степанович": 2,
-      "Мокрый Владимир Семенович": 219,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000113974": 5,
+      "gas:candidate-vibid:1001000289713": 16,
+      "gas:candidate-vibid:1001000121903": 98,
+      "gas:candidate-vibid:1001000195136": 2,
+      "gas:candidate-vibid:1001000225980": 219,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000039&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070912&region=0&sub_region=0&type=429",
@@ -5267,12 +5267,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 0,
-      "Евтушенко Николай Григорьевич": 1,
-      "Кузьмина Светлана Ивановна": 32,
-      "Минеев Евгений Степанович": 2,
-      "Мокрый Владимир Семенович": 60,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000113974": 0,
+      "gas:candidate-vibid:1001000289713": 1,
+      "gas:candidate-vibid:1001000121903": 32,
+      "gas:candidate-vibid:1001000195136": 2,
+      "gas:candidate-vibid:1001000225980": 60,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000039&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070912&region=0&sub_region=0&type=429",
@@ -5322,12 +5322,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 4,
-      "Евтушенко Николай Григорьевич": 7,
-      "Кузьмина Светлана Ивановна": 109,
-      "Минеев Евгений Степанович": 2,
-      "Мокрый Владимир Семенович": 151,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000113974": 4,
+      "gas:candidate-vibid:1001000289713": 7,
+      "gas:candidate-vibid:1001000121903": 109,
+      "gas:candidate-vibid:1001000195136": 2,
+      "gas:candidate-vibid:1001000225980": 151,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000039&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070912&region=0&sub_region=0&type=429",
@@ -5377,12 +5377,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 1,
-      "Евтушенко Николай Григорьевич": 3,
-      "Кузьмина Светлана Ивановна": 65,
-      "Минеев Евгений Степанович": 2,
-      "Мокрый Владимир Семенович": 72,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000113974": 1,
+      "gas:candidate-vibid:1001000289713": 3,
+      "gas:candidate-vibid:1001000121903": 65,
+      "gas:candidate-vibid:1001000195136": 2,
+      "gas:candidate-vibid:1001000225980": 72,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000039&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070912&region=0&sub_region=0&type=429",
@@ -5432,12 +5432,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 5,
-      "Евтушенко Николай Григорьевич": 10,
-      "Кузьмина Светлана Ивановна": 142,
-      "Минеев Евгений Степанович": 1,
-      "Мокрый Владимир Семенович": 122,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000113974": 5,
+      "gas:candidate-vibid:1001000289713": 10,
+      "gas:candidate-vibid:1001000121903": 142,
+      "gas:candidate-vibid:1001000195136": 1,
+      "gas:candidate-vibid:1001000225980": 122,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000039&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070912&region=0&sub_region=0&type=429",
@@ -5487,12 +5487,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 0,
-      "Евтушенко Николай Григорьевич": 5,
-      "Кузьмина Светлана Ивановна": 84,
-      "Минеев Евгений Степанович": 1,
-      "Мокрый Владимир Семенович": 74,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000113974": 0,
+      "gas:candidate-vibid:1001000289713": 5,
+      "gas:candidate-vibid:1001000121903": 84,
+      "gas:candidate-vibid:1001000195136": 1,
+      "gas:candidate-vibid:1001000225980": 74,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000039&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070912&region=0&sub_region=0&type=429",
@@ -5542,12 +5542,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 1,
-      "Евтушенко Николай Григорьевич": 14,
-      "Кузьмина Светлана Ивановна": 166,
-      "Минеев Евгений Степанович": 1,
-      "Мокрый Владимир Семенович": 177,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000113974": 1,
+      "gas:candidate-vibid:1001000289713": 14,
+      "gas:candidate-vibid:1001000121903": 166,
+      "gas:candidate-vibid:1001000195136": 1,
+      "gas:candidate-vibid:1001000225980": 177,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000039&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070912&region=0&sub_region=0&type=429",
@@ -5597,12 +5597,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 3,
-      "Евтушенко Николай Григорьевич": 13,
-      "Кузьмина Светлана Ивановна": 215,
-      "Минеев Евгений Степанович": 1,
-      "Мокрый Владимир Семенович": 239,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000113974": 3,
+      "gas:candidate-vibid:1001000289713": 13,
+      "gas:candidate-vibid:1001000121903": 215,
+      "gas:candidate-vibid:1001000195136": 1,
+      "gas:candidate-vibid:1001000225980": 239,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000039&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070912&region=0&sub_region=0&type=429",
@@ -5652,12 +5652,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 5,
-      "Евтушенко Николай Григорьевич": 20,
-      "Кузьмина Светлана Ивановна": 150,
-      "Минеев Евгений Степанович": 5,
-      "Мокрый Владимир Семенович": 363,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000113974": 5,
+      "gas:candidate-vibid:1001000289713": 20,
+      "gas:candidate-vibid:1001000121903": 150,
+      "gas:candidate-vibid:1001000195136": 5,
+      "gas:candidate-vibid:1001000225980": 363,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000039&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070912&region=0&sub_region=0&type=429",
@@ -5707,12 +5707,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 8,
-      "Евтушенко Николай Григорьевич": 32,
-      "Кузьмина Светлана Ивановна": 397,
-      "Минеев Евгений Степанович": 5,
-      "Мокрый Владимир Семенович": 407,
-      "Против всех": 54
+      "gas:candidate-vibid:1001000113974": 8,
+      "gas:candidate-vibid:1001000289713": 32,
+      "gas:candidate-vibid:1001000121903": 397,
+      "gas:candidate-vibid:1001000195136": 5,
+      "gas:candidate-vibid:1001000225980": 407,
+      "special:against-all": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000039&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070912&region=0&sub_region=0&type=429",
@@ -5762,12 +5762,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 4,
-      "Евтушенко Николай Григорьевич": 6,
-      "Кузьмина Светлана Ивановна": 55,
-      "Минеев Евгений Степанович": 1,
-      "Мокрый Владимир Семенович": 56,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000113974": 4,
+      "gas:candidate-vibid:1001000289713": 6,
+      "gas:candidate-vibid:1001000121903": 55,
+      "gas:candidate-vibid:1001000195136": 1,
+      "gas:candidate-vibid:1001000225980": 56,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000039&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070912&region=0&sub_region=0&type=429",
@@ -5817,12 +5817,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 7,
-      "Евтушенко Николай Григорьевич": 12,
-      "Кузьмина Светлана Ивановна": 131,
-      "Минеев Евгений Степанович": 4,
-      "Мокрый Владимир Семенович": 290,
-      "Против всех": 41
+      "gas:candidate-vibid:1001000113974": 7,
+      "gas:candidate-vibid:1001000289713": 12,
+      "gas:candidate-vibid:1001000121903": 131,
+      "gas:candidate-vibid:1001000195136": 4,
+      "gas:candidate-vibid:1001000225980": 290,
+      "special:against-all": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000039&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070912&region=0&sub_region=0&type=429",
@@ -5872,12 +5872,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 1,
-      "Евтушенко Николай Григорьевич": 13,
-      "Кузьмина Светлана Ивановна": 27,
-      "Минеев Евгений Степанович": 1,
-      "Мокрый Владимир Семенович": 52,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000113974": 1,
+      "gas:candidate-vibid:1001000289713": 13,
+      "gas:candidate-vibid:1001000121903": 27,
+      "gas:candidate-vibid:1001000195136": 1,
+      "gas:candidate-vibid:1001000225980": 52,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000039&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070912&region=0&sub_region=0&type=429",
@@ -5927,12 +5927,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 9,
-      "Евтушенко Николай Григорьевич": 11,
-      "Кузьмина Светлана Ивановна": 134,
-      "Минеев Евгений Степанович": 0,
-      "Мокрый Владимир Семенович": 123,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000113974": 9,
+      "gas:candidate-vibid:1001000289713": 11,
+      "gas:candidate-vibid:1001000121903": 134,
+      "gas:candidate-vibid:1001000195136": 0,
+      "gas:candidate-vibid:1001000225980": 123,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000039&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070912&region=0&sub_region=0&type=429",
@@ -5982,12 +5982,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 11,
-      "Евтушенко Николай Григорьевич": 14,
-      "Кузьмина Светлана Ивановна": 89,
-      "Минеев Евгений Степанович": 1,
-      "Мокрый Владимир Семенович": 289,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000113974": 11,
+      "gas:candidate-vibid:1001000289713": 14,
+      "gas:candidate-vibid:1001000121903": 89,
+      "gas:candidate-vibid:1001000195136": 1,
+      "gas:candidate-vibid:1001000225980": 289,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000039&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070912&region=0&sub_region=0&type=429",
@@ -6037,12 +6037,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 0,
-      "Евтушенко Николай Григорьевич": 2,
-      "Кузьмина Светлана Ивановна": 85,
-      "Минеев Евгений Степанович": 2,
-      "Мокрый Владимир Семенович": 85,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000113974": 0,
+      "gas:candidate-vibid:1001000289713": 2,
+      "gas:candidate-vibid:1001000121903": 85,
+      "gas:candidate-vibid:1001000195136": 2,
+      "gas:candidate-vibid:1001000225980": 85,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000039&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070912&region=0&sub_region=0&type=429",
@@ -6092,12 +6092,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 2,
-      "Евтушенко Николай Григорьевич": 15,
-      "Кузьмина Светлана Ивановна": 69,
-      "Минеев Евгений Степанович": 1,
-      "Мокрый Владимир Семенович": 143,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000113974": 2,
+      "gas:candidate-vibid:1001000289713": 15,
+      "gas:candidate-vibid:1001000121903": 69,
+      "gas:candidate-vibid:1001000195136": 1,
+      "gas:candidate-vibid:1001000225980": 143,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000039&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070912&region=0&sub_region=0&type=429",
@@ -6147,12 +6147,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 1,
-      "Евтушенко Николай Григорьевич": 1,
-      "Кузьмина Светлана Ивановна": 60,
-      "Минеев Евгений Степанович": 1,
-      "Мокрый Владимир Семенович": 148,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000113974": 1,
+      "gas:candidate-vibid:1001000289713": 1,
+      "gas:candidate-vibid:1001000121903": 60,
+      "gas:candidate-vibid:1001000195136": 1,
+      "gas:candidate-vibid:1001000225980": 148,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000039&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070912&region=0&sub_region=0&type=429",
@@ -6202,12 +6202,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 1,
-      "Евтушенко Николай Григорьевич": 10,
-      "Кузьмина Светлана Ивановна": 37,
-      "Минеев Евгений Степанович": 1,
-      "Мокрый Владимир Семенович": 69,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000113974": 1,
+      "gas:candidate-vibid:1001000289713": 10,
+      "gas:candidate-vibid:1001000121903": 37,
+      "gas:candidate-vibid:1001000195136": 1,
+      "gas:candidate-vibid:1001000225980": 69,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000039&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070912&region=0&sub_region=0&type=429",
@@ -6257,12 +6257,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 3,
-      "Евтушенко Николай Григорьевич": 3,
-      "Кузьмина Светлана Ивановна": 53,
-      "Минеев Евгений Степанович": 1,
-      "Мокрый Владимир Семенович": 85,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000113974": 3,
+      "gas:candidate-vibid:1001000289713": 3,
+      "gas:candidate-vibid:1001000121903": 53,
+      "gas:candidate-vibid:1001000195136": 1,
+      "gas:candidate-vibid:1001000225980": 85,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000039&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070912&region=0&sub_region=0&type=429",
@@ -6312,12 +6312,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 0,
-      "Евтушенко Николай Григорьевич": 0,
-      "Кузьмина Светлана Ивановна": 51,
-      "Минеев Евгений Степанович": 0,
-      "Мокрый Владимир Семенович": 103,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000113974": 0,
+      "gas:candidate-vibid:1001000289713": 0,
+      "gas:candidate-vibid:1001000121903": 51,
+      "gas:candidate-vibid:1001000195136": 0,
+      "gas:candidate-vibid:1001000225980": 103,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000039&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070912&region=0&sub_region=0&type=429",
@@ -6367,12 +6367,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 2,
-      "Евтушенко Николай Григорьевич": 1,
-      "Кузьмина Светлана Ивановна": 66,
-      "Минеев Евгений Степанович": 0,
-      "Мокрый Владимир Семенович": 87,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000113974": 2,
+      "gas:candidate-vibid:1001000289713": 1,
+      "gas:candidate-vibid:1001000121903": 66,
+      "gas:candidate-vibid:1001000195136": 0,
+      "gas:candidate-vibid:1001000225980": 87,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000039&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070912&region=0&sub_region=0&type=429",
@@ -6422,12 +6422,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 1,
-      "Евтушенко Николай Григорьевич": 5,
-      "Кузьмина Светлана Ивановна": 57,
-      "Минеев Евгений Степанович": 2,
-      "Мокрый Владимир Семенович": 78,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000113974": 1,
+      "gas:candidate-vibid:1001000289713": 5,
+      "gas:candidate-vibid:1001000121903": 57,
+      "gas:candidate-vibid:1001000195136": 2,
+      "gas:candidate-vibid:1001000225980": 78,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000039&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070912&region=0&sub_region=0&type=429",
@@ -6477,12 +6477,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 4,
-      "Евтушенко Николай Григорьевич": 2,
-      "Кузьмина Светлана Ивановна": 50,
-      "Минеев Евгений Степанович": 2,
-      "Мокрый Владимир Семенович": 55,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000113974": 4,
+      "gas:candidate-vibid:1001000289713": 2,
+      "gas:candidate-vibid:1001000121903": 50,
+      "gas:candidate-vibid:1001000195136": 2,
+      "gas:candidate-vibid:1001000225980": 55,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000039&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070912&region=0&sub_region=0&type=429",
@@ -6532,12 +6532,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 6,
-      "Евтушенко Николай Григорьевич": 8,
-      "Кузьмина Светлана Ивановна": 131,
-      "Минеев Евгений Степанович": 6,
-      "Мокрый Владимир Семенович": 144,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000113974": 6,
+      "gas:candidate-vibid:1001000289713": 8,
+      "gas:candidate-vibid:1001000121903": 131,
+      "gas:candidate-vibid:1001000195136": 6,
+      "gas:candidate-vibid:1001000225980": 144,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000039&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070912&region=0&sub_region=0&type=429",
@@ -6587,12 +6587,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 7,
-      "Евтушенко Николай Григорьевич": 28,
-      "Кузьмина Светлана Ивановна": 147,
-      "Минеев Евгений Степанович": 4,
-      "Мокрый Владимир Семенович": 373,
-      "Против всех": 39
+      "gas:candidate-vibid:1001000113974": 7,
+      "gas:candidate-vibid:1001000289713": 28,
+      "gas:candidate-vibid:1001000121903": 147,
+      "gas:candidate-vibid:1001000195136": 4,
+      "gas:candidate-vibid:1001000225980": 373,
+      "special:against-all": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000040&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070913&region=0&sub_region=0&type=429",
@@ -6642,12 +6642,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 5,
-      "Евтушенко Николай Григорьевич": 8,
-      "Кузьмина Светлана Ивановна": 53,
-      "Минеев Евгений Степанович": 0,
-      "Мокрый Владимир Семенович": 126,
-      "Против всех": 25
+      "gas:candidate-vibid:1001000113974": 5,
+      "gas:candidate-vibid:1001000289713": 8,
+      "gas:candidate-vibid:1001000121903": 53,
+      "gas:candidate-vibid:1001000195136": 0,
+      "gas:candidate-vibid:1001000225980": 126,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000040&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070913&region=0&sub_region=0&type=429",
@@ -6697,12 +6697,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 2,
-      "Евтушенко Николай Григорьевич": 0,
-      "Кузьмина Светлана Ивановна": 21,
-      "Минеев Евгений Степанович": 0,
-      "Мокрый Владимир Семенович": 45,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000113974": 2,
+      "gas:candidate-vibid:1001000289713": 0,
+      "gas:candidate-vibid:1001000121903": 21,
+      "gas:candidate-vibid:1001000195136": 0,
+      "gas:candidate-vibid:1001000225980": 45,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000040&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070913&region=0&sub_region=0&type=429",
@@ -6752,12 +6752,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 4,
-      "Евтушенко Николай Григорьевич": 17,
-      "Кузьмина Светлана Ивановна": 39,
-      "Минеев Евгений Степанович": 1,
-      "Мокрый Владимир Семенович": 123,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000113974": 4,
+      "gas:candidate-vibid:1001000289713": 17,
+      "gas:candidate-vibid:1001000121903": 39,
+      "gas:candidate-vibid:1001000195136": 1,
+      "gas:candidate-vibid:1001000225980": 123,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000040&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070913&region=0&sub_region=0&type=429",
@@ -6807,12 +6807,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 3,
-      "Евтушенко Николай Григорьевич": 14,
-      "Кузьмина Светлана Ивановна": 110,
-      "Минеев Евгений Степанович": 1,
-      "Мокрый Владимир Семенович": 299,
-      "Против всех": 25
+      "gas:candidate-vibid:1001000113974": 3,
+      "gas:candidate-vibid:1001000289713": 14,
+      "gas:candidate-vibid:1001000121903": 110,
+      "gas:candidate-vibid:1001000195136": 1,
+      "gas:candidate-vibid:1001000225980": 299,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000040&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070913&region=0&sub_region=0&type=429",
@@ -6862,12 +6862,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 1,
-      "Евтушенко Николай Григорьевич": 12,
-      "Кузьмина Светлана Ивановна": 201,
-      "Минеев Евгений Степанович": 4,
-      "Мокрый Владимир Семенович": 234,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000113974": 1,
+      "gas:candidate-vibid:1001000289713": 12,
+      "gas:candidate-vibid:1001000121903": 201,
+      "gas:candidate-vibid:1001000195136": 4,
+      "gas:candidate-vibid:1001000225980": 234,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000040&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070913&region=0&sub_region=0&type=429",
@@ -6917,12 +6917,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 13,
-      "Евтушенко Николай Григорьевич": 25,
-      "Кузьмина Светлана Ивановна": 173,
-      "Минеев Евгений Степанович": 2,
-      "Мокрый Владимир Семенович": 290,
-      "Против всех": 30
+      "gas:candidate-vibid:1001000113974": 13,
+      "gas:candidate-vibid:1001000289713": 25,
+      "gas:candidate-vibid:1001000121903": 173,
+      "gas:candidate-vibid:1001000195136": 2,
+      "gas:candidate-vibid:1001000225980": 290,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000040&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070913&region=0&sub_region=0&type=429",
@@ -6972,12 +6972,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 13,
-      "Евтушенко Николай Григорьевич": 13,
-      "Кузьмина Светлана Ивановна": 211,
-      "Минеев Евгений Степанович": 2,
-      "Мокрый Владимир Семенович": 263,
-      "Против всех": 34
+      "gas:candidate-vibid:1001000113974": 13,
+      "gas:candidate-vibid:1001000289713": 13,
+      "gas:candidate-vibid:1001000121903": 211,
+      "gas:candidate-vibid:1001000195136": 2,
+      "gas:candidate-vibid:1001000225980": 263,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000040&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070913&region=0&sub_region=0&type=429",
@@ -7027,12 +7027,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 7,
-      "Евтушенко Николай Григорьевич": 12,
-      "Кузьмина Светлана Ивановна": 180,
-      "Минеев Евгений Степанович": 0,
-      "Мокрый Владимир Семенович": 298,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000113974": 7,
+      "gas:candidate-vibid:1001000289713": 12,
+      "gas:candidate-vibid:1001000121903": 180,
+      "gas:candidate-vibid:1001000195136": 0,
+      "gas:candidate-vibid:1001000225980": 298,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000040&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070913&region=0&sub_region=0&type=429",
@@ -7082,12 +7082,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 0,
-      "Евтушенко Николай Григорьевич": 2,
-      "Кузьмина Светлана Ивановна": 45,
-      "Минеев Евгений Степанович": 4,
-      "Мокрый Владимир Семенович": 60,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000113974": 0,
+      "gas:candidate-vibid:1001000289713": 2,
+      "gas:candidate-vibid:1001000121903": 45,
+      "gas:candidate-vibid:1001000195136": 4,
+      "gas:candidate-vibid:1001000225980": 60,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000040&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070913&region=0&sub_region=0&type=429",
@@ -7137,12 +7137,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 0,
-      "Евтушенко Николай Григорьевич": 1,
-      "Кузьмина Светлана Ивановна": 57,
-      "Минеев Евгений Степанович": 0,
-      "Мокрый Владимир Семенович": 35,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000113974": 0,
+      "gas:candidate-vibid:1001000289713": 1,
+      "gas:candidate-vibid:1001000121903": 57,
+      "gas:candidate-vibid:1001000195136": 0,
+      "gas:candidate-vibid:1001000225980": 35,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000040&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070913&region=0&sub_region=0&type=429",
@@ -7192,12 +7192,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 3,
-      "Евтушенко Николай Григорьевич": 9,
-      "Кузьмина Светлана Ивановна": 149,
-      "Минеев Евгений Степанович": 6,
-      "Мокрый Владимир Семенович": 150,
-      "Против всех": 24
+      "gas:candidate-vibid:1001000113974": 3,
+      "gas:candidate-vibid:1001000289713": 9,
+      "gas:candidate-vibid:1001000121903": 149,
+      "gas:candidate-vibid:1001000195136": 6,
+      "gas:candidate-vibid:1001000225980": 150,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000040&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070913&region=0&sub_region=0&type=429",
@@ -7247,12 +7247,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 2,
-      "Евтушенко Николай Григорьевич": 2,
-      "Кузьмина Светлана Ивановна": 53,
-      "Минеев Евгений Степанович": 0,
-      "Мокрый Владимир Семенович": 54,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000113974": 2,
+      "gas:candidate-vibid:1001000289713": 2,
+      "gas:candidate-vibid:1001000121903": 53,
+      "gas:candidate-vibid:1001000195136": 0,
+      "gas:candidate-vibid:1001000225980": 54,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000040&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070913&region=0&sub_region=0&type=429",
@@ -7302,12 +7302,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 1,
-      "Евтушенко Николай Григорьевич": 6,
-      "Кузьмина Светлана Ивановна": 38,
-      "Минеев Евгений Степанович": 0,
-      "Мокрый Владимир Семенович": 206,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000113974": 1,
+      "gas:candidate-vibid:1001000289713": 6,
+      "gas:candidate-vibid:1001000121903": 38,
+      "gas:candidate-vibid:1001000195136": 0,
+      "gas:candidate-vibid:1001000225980": 206,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000040&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070913&region=0&sub_region=0&type=429",
@@ -7357,12 +7357,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 4,
-      "Евтушенко Николай Григорьевич": 10,
-      "Кузьмина Светлана Ивановна": 156,
-      "Минеев Евгений Степанович": 8,
-      "Мокрый Владимир Семенович": 298,
-      "Против всех": 25
+      "gas:candidate-vibid:1001000113974": 4,
+      "gas:candidate-vibid:1001000289713": 10,
+      "gas:candidate-vibid:1001000121903": 156,
+      "gas:candidate-vibid:1001000195136": 8,
+      "gas:candidate-vibid:1001000225980": 298,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000040&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070913&region=0&sub_region=0&type=429",
@@ -7412,12 +7412,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 1,
-      "Евтушенко Николай Григорьевич": 1,
-      "Кузьмина Светлана Ивановна": 55,
-      "Минеев Евгений Степанович": 0,
-      "Мокрый Владимир Семенович": 93,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000113974": 1,
+      "gas:candidate-vibid:1001000289713": 1,
+      "gas:candidate-vibid:1001000121903": 55,
+      "gas:candidate-vibid:1001000195136": 0,
+      "gas:candidate-vibid:1001000225980": 93,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000040&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070913&region=0&sub_region=0&type=429",
@@ -7467,12 +7467,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 1,
-      "Евтушенко Николай Григорьевич": 6,
-      "Кузьмина Светлана Ивановна": 46,
-      "Минеев Евгений Степанович": 0,
-      "Мокрый Владимир Семенович": 164,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000113974": 1,
+      "gas:candidate-vibid:1001000289713": 6,
+      "gas:candidate-vibid:1001000121903": 46,
+      "gas:candidate-vibid:1001000195136": 0,
+      "gas:candidate-vibid:1001000225980": 164,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000040&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070913&region=0&sub_region=0&type=429",
@@ -7522,12 +7522,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 2,
-      "Евтушенко Николай Григорьевич": 3,
-      "Кузьмина Светлана Ивановна": 68,
-      "Минеев Евгений Степанович": 1,
-      "Мокрый Владимир Семенович": 98,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000113974": 2,
+      "gas:candidate-vibid:1001000289713": 3,
+      "gas:candidate-vibid:1001000121903": 68,
+      "gas:candidate-vibid:1001000195136": 1,
+      "gas:candidate-vibid:1001000225980": 98,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000040&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070913&region=0&sub_region=0&type=429",
@@ -7577,12 +7577,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 1,
-      "Евтушенко Николай Григорьевич": 6,
-      "Кузьмина Светлана Ивановна": 30,
-      "Минеев Евгений Степанович": 2,
-      "Мокрый Владимир Семенович": 29,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000113974": 1,
+      "gas:candidate-vibid:1001000289713": 6,
+      "gas:candidate-vibid:1001000121903": 30,
+      "gas:candidate-vibid:1001000195136": 2,
+      "gas:candidate-vibid:1001000225980": 29,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000040&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070913&region=0&sub_region=0&type=429",
@@ -7632,12 +7632,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 3,
-      "Евтушенко Николай Григорьевич": 7,
-      "Кузьмина Светлана Ивановна": 95,
-      "Минеев Евгений Степанович": 3,
-      "Мокрый Владимир Семенович": 284,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000113974": 3,
+      "gas:candidate-vibid:1001000289713": 7,
+      "gas:candidate-vibid:1001000121903": 95,
+      "gas:candidate-vibid:1001000195136": 3,
+      "gas:candidate-vibid:1001000225980": 284,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000040&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070913&region=0&sub_region=0&type=429",
@@ -7687,12 +7687,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 0,
-      "Евтушенко Николай Григорьевич": 2,
-      "Кузьмина Светлана Ивановна": 11,
-      "Минеев Евгений Степанович": 4,
-      "Мокрый Владимир Семенович": 116,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000113974": 0,
+      "gas:candidate-vibid:1001000289713": 2,
+      "gas:candidate-vibid:1001000121903": 11,
+      "gas:candidate-vibid:1001000195136": 4,
+      "gas:candidate-vibid:1001000225980": 116,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000040&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070913&region=0&sub_region=0&type=429",
@@ -7742,12 +7742,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 1,
-      "Евтушенко Николай Григорьевич": 0,
-      "Кузьмина Светлана Ивановна": 3,
-      "Минеев Евгений Степанович": 1,
-      "Мокрый Владимир Семенович": 117,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000113974": 1,
+      "gas:candidate-vibid:1001000289713": 0,
+      "gas:candidate-vibid:1001000121903": 3,
+      "gas:candidate-vibid:1001000195136": 1,
+      "gas:candidate-vibid:1001000225980": 117,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000040&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070913&region=0&sub_region=0&type=429",
@@ -7797,12 +7797,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 2,
-      "Евтушенко Николай Григорьевич": 2,
-      "Кузьмина Светлана Ивановна": 45,
-      "Минеев Евгений Степанович": 2,
-      "Мокрый Владимир Семенович": 199,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000113974": 2,
+      "gas:candidate-vibid:1001000289713": 2,
+      "gas:candidate-vibid:1001000121903": 45,
+      "gas:candidate-vibid:1001000195136": 2,
+      "gas:candidate-vibid:1001000225980": 199,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000040&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070913&region=0&sub_region=0&type=429",
@@ -7852,12 +7852,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 5,
-      "Евтушенко Николай Григорьевич": 7,
-      "Кузьмина Светлана Ивановна": 81,
-      "Минеев Евгений Степанович": 1,
-      "Мокрый Владимир Семенович": 111,
-      "Против всех": 31
+      "gas:candidate-vibid:1001000113974": 5,
+      "gas:candidate-vibid:1001000289713": 7,
+      "gas:candidate-vibid:1001000121903": 81,
+      "gas:candidate-vibid:1001000195136": 1,
+      "gas:candidate-vibid:1001000225980": 111,
+      "special:against-all": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000040&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070913&region=0&sub_region=0&type=429",
@@ -7907,12 +7907,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 5,
-      "Евтушенко Николай Григорьевич": 6,
-      "Кузьмина Светлана Ивановна": 147,
-      "Минеев Евгений Степанович": 1,
-      "Мокрый Владимир Семенович": 171,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000113974": 5,
+      "gas:candidate-vibid:1001000289713": 6,
+      "gas:candidate-vibid:1001000121903": 147,
+      "gas:candidate-vibid:1001000195136": 1,
+      "gas:candidate-vibid:1001000225980": 171,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000040&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070913&region=0&sub_region=0&type=429",
@@ -7962,12 +7962,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 1,
-      "Евтушенко Николай Григорьевич": 1,
-      "Кузьмина Светлана Ивановна": 49,
-      "Минеев Евгений Степанович": 0,
-      "Мокрый Владимир Семенович": 99,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000113974": 1,
+      "gas:candidate-vibid:1001000289713": 1,
+      "gas:candidate-vibid:1001000121903": 49,
+      "gas:candidate-vibid:1001000195136": 0,
+      "gas:candidate-vibid:1001000225980": 99,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000040&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070913&region=0&sub_region=0&type=429",
@@ -8017,12 +8017,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 2,
-      "Евтушенко Николай Григорьевич": 10,
-      "Кузьмина Светлана Ивановна": 130,
-      "Минеев Евгений Степанович": 5,
-      "Мокрый Владимир Семенович": 268,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000113974": 2,
+      "gas:candidate-vibid:1001000289713": 10,
+      "gas:candidate-vibid:1001000121903": 130,
+      "gas:candidate-vibid:1001000195136": 5,
+      "gas:candidate-vibid:1001000225980": 268,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000040&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070913&region=0&sub_region=0&type=429",
@@ -8072,12 +8072,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 3,
-      "Евтушенко Николай Григорьевич": 2,
-      "Кузьмина Светлана Ивановна": 23,
-      "Минеев Евгений Степанович": 0,
-      "Мокрый Владимир Семенович": 75,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000113974": 3,
+      "gas:candidate-vibid:1001000289713": 2,
+      "gas:candidate-vibid:1001000121903": 23,
+      "gas:candidate-vibid:1001000195136": 0,
+      "gas:candidate-vibid:1001000225980": 75,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000040&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070913&region=0&sub_region=0&type=429",
@@ -8127,12 +8127,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 0,
-      "Евтушенко Николай Григорьевич": 2,
-      "Кузьмина Светлана Ивановна": 18,
-      "Минеев Евгений Степанович": 0,
-      "Мокрый Владимир Семенович": 115,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000113974": 0,
+      "gas:candidate-vibid:1001000289713": 2,
+      "gas:candidate-vibid:1001000121903": 18,
+      "gas:candidate-vibid:1001000195136": 0,
+      "gas:candidate-vibid:1001000225980": 115,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000040&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070913&region=0&sub_region=0&type=429",
@@ -8182,12 +8182,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 3,
-      "Евтушенко Николай Григорьевич": 9,
-      "Кузьмина Светлана Ивановна": 64,
-      "Минеев Евгений Степанович": 3,
-      "Мокрый Владимир Семенович": 167,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000113974": 3,
+      "gas:candidate-vibid:1001000289713": 9,
+      "gas:candidate-vibid:1001000121903": 64,
+      "gas:candidate-vibid:1001000195136": 3,
+      "gas:candidate-vibid:1001000225980": 167,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000040&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070913&region=0&sub_region=0&type=429",
@@ -8237,12 +8237,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 9,
-      "Евтушенко Николай Григорьевич": 15,
-      "Кузьмина Светлана Ивановна": 62,
-      "Минеев Евгений Степанович": 5,
-      "Мокрый Владимир Семенович": 383,
-      "Против всех": 29
+      "gas:candidate-vibid:1001000113974": 9,
+      "gas:candidate-vibid:1001000289713": 15,
+      "gas:candidate-vibid:1001000121903": 62,
+      "gas:candidate-vibid:1001000195136": 5,
+      "gas:candidate-vibid:1001000225980": 383,
+      "special:against-all": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000041&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070914&region=0&sub_region=0&type=429",
@@ -8292,12 +8292,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 5,
-      "Евтушенко Николай Григорьевич": 13,
-      "Кузьмина Светлана Ивановна": 23,
-      "Минеев Евгений Степанович": 2,
-      "Мокрый Владимир Семенович": 214,
-      "Против всех": 26
+      "gas:candidate-vibid:1001000113974": 5,
+      "gas:candidate-vibid:1001000289713": 13,
+      "gas:candidate-vibid:1001000121903": 23,
+      "gas:candidate-vibid:1001000195136": 2,
+      "gas:candidate-vibid:1001000225980": 214,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000041&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070914&region=0&sub_region=0&type=429",
@@ -8347,12 +8347,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 2,
-      "Евтушенко Николай Григорьевич": 5,
-      "Кузьмина Светлана Ивановна": 11,
-      "Минеев Евгений Степанович": 2,
-      "Мокрый Владимир Семенович": 110,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000113974": 2,
+      "gas:candidate-vibid:1001000289713": 5,
+      "gas:candidate-vibid:1001000121903": 11,
+      "gas:candidate-vibid:1001000195136": 2,
+      "gas:candidate-vibid:1001000225980": 110,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000041&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070914&region=0&sub_region=0&type=429",
@@ -8402,12 +8402,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 7,
-      "Евтушенко Николай Григорьевич": 18,
-      "Кузьмина Светлана Ивановна": 162,
-      "Минеев Евгений Степанович": 2,
-      "Мокрый Владимир Семенович": 469,
-      "Против всех": 37
+      "gas:candidate-vibid:1001000113974": 7,
+      "gas:candidate-vibid:1001000289713": 18,
+      "gas:candidate-vibid:1001000121903": 162,
+      "gas:candidate-vibid:1001000195136": 2,
+      "gas:candidate-vibid:1001000225980": 469,
+      "special:against-all": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000041&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070914&region=0&sub_region=0&type=429",
@@ -8457,12 +8457,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 7,
-      "Евтушенко Николай Григорьевич": 17,
-      "Кузьмина Светлана Ивановна": 109,
-      "Минеев Евгений Степанович": 3,
-      "Мокрый Владимир Семенович": 340,
-      "Против всех": 32
+      "gas:candidate-vibid:1001000113974": 7,
+      "gas:candidate-vibid:1001000289713": 17,
+      "gas:candidate-vibid:1001000121903": 109,
+      "gas:candidate-vibid:1001000195136": 3,
+      "gas:candidate-vibid:1001000225980": 340,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000041&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070914&region=0&sub_region=0&type=429",
@@ -8512,12 +8512,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 10,
-      "Евтушенко Николай Григорьевич": 14,
-      "Кузьмина Светлана Ивановна": 111,
-      "Минеев Евгений Степанович": 3,
-      "Мокрый Владимир Семенович": 449,
-      "Против всех": 50
+      "gas:candidate-vibid:1001000113974": 10,
+      "gas:candidate-vibid:1001000289713": 14,
+      "gas:candidate-vibid:1001000121903": 111,
+      "gas:candidate-vibid:1001000195136": 3,
+      "gas:candidate-vibid:1001000225980": 449,
+      "special:against-all": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000041&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070914&region=0&sub_region=0&type=429",
@@ -8567,12 +8567,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 6,
-      "Евтушенко Николай Григорьевич": 19,
-      "Кузьмина Светлана Ивановна": 90,
-      "Минеев Евгений Степанович": 3,
-      "Мокрый Владимир Семенович": 318,
-      "Против всех": 25
+      "gas:candidate-vibid:1001000113974": 6,
+      "gas:candidate-vibid:1001000289713": 19,
+      "gas:candidate-vibid:1001000121903": 90,
+      "gas:candidate-vibid:1001000195136": 3,
+      "gas:candidate-vibid:1001000225980": 318,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000041&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070914&region=0&sub_region=0&type=429",
@@ -8622,12 +8622,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 8,
-      "Евтушенко Николай Григорьевич": 14,
-      "Кузьмина Светлана Ивановна": 71,
-      "Минеев Евгений Степанович": 2,
-      "Мокрый Владимир Семенович": 258,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000113974": 8,
+      "gas:candidate-vibid:1001000289713": 14,
+      "gas:candidate-vibid:1001000121903": 71,
+      "gas:candidate-vibid:1001000195136": 2,
+      "gas:candidate-vibid:1001000225980": 258,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000041&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070914&region=0&sub_region=0&type=429",
@@ -8677,12 +8677,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 10,
-      "Евтушенко Николай Григорьевич": 15,
-      "Кузьмина Светлана Ивановна": 89,
-      "Минеев Евгений Степанович": 5,
-      "Мокрый Владимир Семенович": 350,
-      "Против всех": 35
+      "gas:candidate-vibid:1001000113974": 10,
+      "gas:candidate-vibid:1001000289713": 15,
+      "gas:candidate-vibid:1001000121903": 89,
+      "gas:candidate-vibid:1001000195136": 5,
+      "gas:candidate-vibid:1001000225980": 350,
+      "special:against-all": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000041&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070914&region=0&sub_region=0&type=429",
@@ -8732,12 +8732,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 7,
-      "Евтушенко Николай Григорьевич": 14,
-      "Кузьмина Светлана Ивановна": 125,
-      "Минеев Евгений Степанович": 4,
-      "Мокрый Владимир Семенович": 313,
-      "Против всех": 36
+      "gas:candidate-vibid:1001000113974": 7,
+      "gas:candidate-vibid:1001000289713": 14,
+      "gas:candidate-vibid:1001000121903": 125,
+      "gas:candidate-vibid:1001000195136": 4,
+      "gas:candidate-vibid:1001000225980": 313,
+      "special:against-all": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000041&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070914&region=0&sub_region=0&type=429",
@@ -8787,12 +8787,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 2,
-      "Евтушенко Николай Григорьевич": 11,
-      "Кузьмина Светлана Ивановна": 18,
-      "Минеев Евгений Степанович": 3,
-      "Мокрый Владимир Семенович": 152,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000113974": 2,
+      "gas:candidate-vibid:1001000289713": 11,
+      "gas:candidate-vibid:1001000121903": 18,
+      "gas:candidate-vibid:1001000195136": 3,
+      "gas:candidate-vibid:1001000225980": 152,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000041&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070914&region=0&sub_region=0&type=429",
@@ -8842,12 +8842,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 2,
-      "Евтушенко Николай Григорьевич": 11,
-      "Кузьмина Светлана Ивановна": 34,
-      "Минеев Евгений Степанович": 4,
-      "Мокрый Владимир Семенович": 260,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000113974": 2,
+      "gas:candidate-vibid:1001000289713": 11,
+      "gas:candidate-vibid:1001000121903": 34,
+      "gas:candidate-vibid:1001000195136": 4,
+      "gas:candidate-vibid:1001000225980": 260,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000041&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070914&region=0&sub_region=0&type=429",
@@ -8897,12 +8897,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 2,
-      "Евтушенко Николай Григорьевич": 5,
-      "Кузьмина Светлана Ивановна": 34,
-      "Минеев Евгений Степанович": 0,
-      "Мокрый Владимир Семенович": 238,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000113974": 2,
+      "gas:candidate-vibid:1001000289713": 5,
+      "gas:candidate-vibid:1001000121903": 34,
+      "gas:candidate-vibid:1001000195136": 0,
+      "gas:candidate-vibid:1001000225980": 238,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000041&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070914&region=0&sub_region=0&type=429",
@@ -8952,12 +8952,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 2,
-      "Евтушенко Николай Григорьевич": 6,
-      "Кузьмина Светлана Ивановна": 50,
-      "Минеев Евгений Степанович": 5,
-      "Мокрый Владимир Семенович": 268,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000113974": 2,
+      "gas:candidate-vibid:1001000289713": 6,
+      "gas:candidate-vibid:1001000121903": 50,
+      "gas:candidate-vibid:1001000195136": 5,
+      "gas:candidate-vibid:1001000225980": 268,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000041&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070914&region=0&sub_region=0&type=429",
@@ -9007,12 +9007,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 4,
-      "Евтушенко Николай Григорьевич": 9,
-      "Кузьмина Светлана Ивановна": 78,
-      "Минеев Евгений Степанович": 3,
-      "Мокрый Владимир Семенович": 310,
-      "Против всех": 30
+      "gas:candidate-vibid:1001000113974": 4,
+      "gas:candidate-vibid:1001000289713": 9,
+      "gas:candidate-vibid:1001000121903": 78,
+      "gas:candidate-vibid:1001000195136": 3,
+      "gas:candidate-vibid:1001000225980": 310,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000041&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070914&region=0&sub_region=0&type=429",
@@ -9062,12 +9062,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 5,
-      "Евтушенко Николай Григорьевич": 7,
-      "Кузьмина Светлана Ивановна": 50,
-      "Минеев Евгений Степанович": 3,
-      "Мокрый Владимир Семенович": 219,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000113974": 5,
+      "gas:candidate-vibid:1001000289713": 7,
+      "gas:candidate-vibid:1001000121903": 50,
+      "gas:candidate-vibid:1001000195136": 3,
+      "gas:candidate-vibid:1001000225980": 219,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000041&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070914&region=0&sub_region=0&type=429",
@@ -9117,12 +9117,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 5,
-      "Евтушенко Николай Григорьевич": 13,
-      "Кузьмина Светлана Ивановна": 68,
-      "Минеев Евгений Степанович": 5,
-      "Мокрый Владимир Семенович": 411,
-      "Против всех": 24
+      "gas:candidate-vibid:1001000113974": 5,
+      "gas:candidate-vibid:1001000289713": 13,
+      "gas:candidate-vibid:1001000121903": 68,
+      "gas:candidate-vibid:1001000195136": 5,
+      "gas:candidate-vibid:1001000225980": 411,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000041&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070914&region=0&sub_region=0&type=429",
@@ -9172,12 +9172,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 2,
-      "Евтушенко Николай Григорьевич": 5,
-      "Кузьмина Светлана Ивановна": 33,
-      "Минеев Евгений Степанович": 3,
-      "Мокрый Владимир Семенович": 167,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000113974": 2,
+      "gas:candidate-vibid:1001000289713": 5,
+      "gas:candidate-vibid:1001000121903": 33,
+      "gas:candidate-vibid:1001000195136": 3,
+      "gas:candidate-vibid:1001000225980": 167,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000041&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070914&region=0&sub_region=0&type=429",
@@ -9227,12 +9227,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 6,
-      "Евтушенко Николай Григорьевич": 21,
-      "Кузьмина Светлана Ивановна": 89,
-      "Минеев Евгений Степанович": 1,
-      "Мокрый Владимир Семенович": 466,
-      "Против всех": 24
+      "gas:candidate-vibid:1001000113974": 6,
+      "gas:candidate-vibid:1001000289713": 21,
+      "gas:candidate-vibid:1001000121903": 89,
+      "gas:candidate-vibid:1001000195136": 1,
+      "gas:candidate-vibid:1001000225980": 466,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000041&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070914&region=0&sub_region=0&type=429",
@@ -9282,12 +9282,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 2,
-      "Евтушенко Николай Григорьевич": 1,
-      "Кузьмина Светлана Ивановна": 12,
-      "Минеев Евгений Степанович": 5,
-      "Мокрый Владимир Семенович": 115,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000113974": 2,
+      "gas:candidate-vibid:1001000289713": 1,
+      "gas:candidate-vibid:1001000121903": 12,
+      "gas:candidate-vibid:1001000195136": 5,
+      "gas:candidate-vibid:1001000225980": 115,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000041&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070914&region=0&sub_region=0&type=429",
@@ -9337,12 +9337,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 4,
-      "Евтушенко Николай Григорьевич": 22,
-      "Кузьмина Светлана Ивановна": 98,
-      "Минеев Евгений Степанович": 4,
-      "Мокрый Владимир Семенович": 161,
-      "Против всех": 40
+      "gas:candidate-vibid:1001000113974": 4,
+      "gas:candidate-vibid:1001000289713": 22,
+      "gas:candidate-vibid:1001000121903": 98,
+      "gas:candidate-vibid:1001000195136": 4,
+      "gas:candidate-vibid:1001000225980": 161,
+      "special:against-all": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000042&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070915&region=0&sub_region=0&type=429",
@@ -9392,12 +9392,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 1,
-      "Евтушенко Николай Григорьевич": 6,
-      "Кузьмина Светлана Ивановна": 86,
-      "Минеев Евгений Степанович": 2,
-      "Мокрый Владимир Семенович": 79,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000113974": 1,
+      "gas:candidate-vibid:1001000289713": 6,
+      "gas:candidate-vibid:1001000121903": 86,
+      "gas:candidate-vibid:1001000195136": 2,
+      "gas:candidate-vibid:1001000225980": 79,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000042&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070915&region=0&sub_region=0&type=429",
@@ -9447,12 +9447,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 2,
-      "Евтушенко Николай Григорьевич": 13,
-      "Кузьмина Светлана Ивановна": 93,
-      "Минеев Евгений Степанович": 3,
-      "Мокрый Владимир Семенович": 204,
-      "Против всех": 26
+      "gas:candidate-vibid:1001000113974": 2,
+      "gas:candidate-vibid:1001000289713": 13,
+      "gas:candidate-vibid:1001000121903": 93,
+      "gas:candidate-vibid:1001000195136": 3,
+      "gas:candidate-vibid:1001000225980": 204,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000042&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070915&region=0&sub_region=0&type=429",
@@ -9502,12 +9502,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 12,
-      "Евтушенко Николай Григорьевич": 50,
-      "Кузьмина Светлана Ивановна": 260,
-      "Минеев Евгений Степанович": 12,
-      "Мокрый Владимир Семенович": 337,
-      "Против всех": 81
+      "gas:candidate-vibid:1001000113974": 12,
+      "gas:candidate-vibid:1001000289713": 50,
+      "gas:candidate-vibid:1001000121903": 260,
+      "gas:candidate-vibid:1001000195136": 12,
+      "gas:candidate-vibid:1001000225980": 337,
+      "special:against-all": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000042&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070915&region=0&sub_region=0&type=429",
@@ -9557,12 +9557,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 16,
-      "Евтушенко Николай Григорьевич": 39,
-      "Кузьмина Светлана Ивановна": 253,
-      "Минеев Евгений Степанович": 5,
-      "Мокрый Владимир Семенович": 328,
-      "Против всех": 72
+      "gas:candidate-vibid:1001000113974": 16,
+      "gas:candidate-vibid:1001000289713": 39,
+      "gas:candidate-vibid:1001000121903": 253,
+      "gas:candidate-vibid:1001000195136": 5,
+      "gas:candidate-vibid:1001000225980": 328,
+      "special:against-all": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000042&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070915&region=0&sub_region=0&type=429",
@@ -9612,12 +9612,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 24,
-      "Евтушенко Николай Григорьевич": 75,
-      "Кузьмина Светлана Ивановна": 342,
-      "Минеев Евгений Степанович": 7,
-      "Мокрый Владимир Семенович": 410,
-      "Против всех": 115
+      "gas:candidate-vibid:1001000113974": 24,
+      "gas:candidate-vibid:1001000289713": 75,
+      "gas:candidate-vibid:1001000121903": 342,
+      "gas:candidate-vibid:1001000195136": 7,
+      "gas:candidate-vibid:1001000225980": 410,
+      "special:against-all": 115
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000042&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070915&region=0&sub_region=0&type=429",
@@ -9667,12 +9667,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 2,
-      "Евтушенко Николай Григорьевич": 12,
-      "Кузьмина Светлана Ивановна": 79,
-      "Минеев Евгений Степанович": 0,
-      "Мокрый Владимир Семенович": 130,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000113974": 2,
+      "gas:candidate-vibid:1001000289713": 12,
+      "gas:candidate-vibid:1001000121903": 79,
+      "gas:candidate-vibid:1001000195136": 0,
+      "gas:candidate-vibid:1001000225980": 130,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000042&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070915&region=0&sub_region=0&type=429",
@@ -9722,12 +9722,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 5,
-      "Евтушенко Николай Григорьевич": 18,
-      "Кузьмина Светлана Ивановна": 77,
-      "Минеев Евгений Степанович": 1,
-      "Мокрый Владимир Семенович": 123,
-      "Против всех": 27
+      "gas:candidate-vibid:1001000113974": 5,
+      "gas:candidate-vibid:1001000289713": 18,
+      "gas:candidate-vibid:1001000121903": 77,
+      "gas:candidate-vibid:1001000195136": 1,
+      "gas:candidate-vibid:1001000225980": 123,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000042&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070915&region=0&sub_region=0&type=429",
@@ -9777,12 +9777,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 5,
-      "Евтушенко Николай Григорьевич": 10,
-      "Кузьмина Светлана Ивановна": 62,
-      "Минеев Евгений Степанович": 2,
-      "Мокрый Владимир Семенович": 162,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000113974": 5,
+      "gas:candidate-vibid:1001000289713": 10,
+      "gas:candidate-vibid:1001000121903": 62,
+      "gas:candidate-vibid:1001000195136": 2,
+      "gas:candidate-vibid:1001000225980": 162,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000042&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070915&region=0&sub_region=0&type=429",
@@ -9832,12 +9832,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 2,
-      "Евтушенко Николай Григорьевич": 18,
-      "Кузьмина Светлана Ивановна": 55,
-      "Минеев Евгений Степанович": 2,
-      "Мокрый Владимир Семенович": 159,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000113974": 2,
+      "gas:candidate-vibid:1001000289713": 18,
+      "gas:candidate-vibid:1001000121903": 55,
+      "gas:candidate-vibid:1001000195136": 2,
+      "gas:candidate-vibid:1001000225980": 159,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000042&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070915&region=0&sub_region=0&type=429",
@@ -9887,12 +9887,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 8,
-      "Евтушенко Николай Григорьевич": 20,
-      "Кузьмина Светлана Ивановна": 95,
-      "Минеев Евгений Степанович": 4,
-      "Мокрый Владимир Семенович": 216,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000113974": 8,
+      "gas:candidate-vibid:1001000289713": 20,
+      "gas:candidate-vibid:1001000121903": 95,
+      "gas:candidate-vibid:1001000195136": 4,
+      "gas:candidate-vibid:1001000225980": 216,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000042&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070915&region=0&sub_region=0&type=429",
@@ -9942,12 +9942,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 6,
-      "Евтушенко Николай Григорьевич": 21,
-      "Кузьмина Светлана Ивановна": 135,
-      "Минеев Евгений Степанович": 0,
-      "Мокрый Владимир Семенович": 322,
-      "Против всех": 46
+      "gas:candidate-vibid:1001000113974": 6,
+      "gas:candidate-vibid:1001000289713": 21,
+      "gas:candidate-vibid:1001000121903": 135,
+      "gas:candidate-vibid:1001000195136": 0,
+      "gas:candidate-vibid:1001000225980": 322,
+      "special:against-all": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000042&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070915&region=0&sub_region=0&type=429",
@@ -9997,12 +9997,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 3,
-      "Евтушенко Николай Григорьевич": 7,
-      "Кузьмина Светлана Ивановна": 93,
-      "Минеев Евгений Степанович": 3,
-      "Мокрый Владимир Семенович": 139,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000113974": 3,
+      "gas:candidate-vibid:1001000289713": 7,
+      "gas:candidate-vibid:1001000121903": 93,
+      "gas:candidate-vibid:1001000195136": 3,
+      "gas:candidate-vibid:1001000225980": 139,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000042&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070915&region=0&sub_region=0&type=429",
@@ -10052,12 +10052,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 3,
-      "Евтушенко Николай Григорьевич": 13,
-      "Кузьмина Светлана Ивановна": 65,
-      "Минеев Евгений Степанович": 1,
-      "Мокрый Владимир Семенович": 155,
-      "Против всех": 28
+      "gas:candidate-vibid:1001000113974": 3,
+      "gas:candidate-vibid:1001000289713": 13,
+      "gas:candidate-vibid:1001000121903": 65,
+      "gas:candidate-vibid:1001000195136": 1,
+      "gas:candidate-vibid:1001000225980": 155,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000042&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070915&region=0&sub_region=0&type=429",
@@ -10107,12 +10107,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 2,
-      "Евтушенко Николай Григорьевич": 4,
-      "Кузьмина Светлана Ивановна": 42,
-      "Минеев Евгений Степанович": 3,
-      "Мокрый Владимир Семенович": 140,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000113974": 2,
+      "gas:candidate-vibid:1001000289713": 4,
+      "gas:candidate-vibid:1001000121903": 42,
+      "gas:candidate-vibid:1001000195136": 3,
+      "gas:candidate-vibid:1001000225980": 140,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000042&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070915&region=0&sub_region=0&type=429",
@@ -10162,12 +10162,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 1,
-      "Евтушенко Николай Григорьевич": 1,
-      "Кузьмина Светлана Ивановна": 10,
-      "Минеев Евгений Степанович": 1,
-      "Мокрый Владимир Семенович": 39,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000113974": 1,
+      "gas:candidate-vibid:1001000289713": 1,
+      "gas:candidate-vibid:1001000121903": 10,
+      "gas:candidate-vibid:1001000195136": 1,
+      "gas:candidate-vibid:1001000225980": 39,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000042&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070915&region=0&sub_region=0&type=429",
@@ -10217,12 +10217,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 4,
-      "Евтушенко Николай Григорьевич": 6,
-      "Кузьмина Светлана Ивановна": 31,
-      "Минеев Евгений Степанович": 0,
-      "Мокрый Владимир Семенович": 113,
-      "Против всех": 25
+      "gas:candidate-vibid:1001000113974": 4,
+      "gas:candidate-vibid:1001000289713": 6,
+      "gas:candidate-vibid:1001000121903": 31,
+      "gas:candidate-vibid:1001000195136": 0,
+      "gas:candidate-vibid:1001000225980": 113,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000042&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070915&region=0&sub_region=0&type=429",
@@ -10272,12 +10272,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 33,
-      "Евтушенко Николай Григорьевич": 47,
-      "Кузьмина Светлана Ивановна": 675,
-      "Минеев Евгений Степанович": 11,
-      "Мокрый Владимир Семенович": 369,
-      "Против всех": 111
+      "gas:candidate-vibid:1001000113974": 33,
+      "gas:candidate-vibid:1001000289713": 47,
+      "gas:candidate-vibid:1001000121903": 675,
+      "gas:candidate-vibid:1001000195136": 11,
+      "gas:candidate-vibid:1001000225980": 369,
+      "special:against-all": 111
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000043&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070916&region=0&sub_region=0&type=429",
@@ -10327,12 +10327,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 14,
-      "Евтушенко Николай Григорьевич": 36,
-      "Кузьмина Светлана Ивановна": 489,
-      "Минеев Евгений Степанович": 10,
-      "Мокрый Владимир Семенович": 283,
-      "Против всех": 112
+      "gas:candidate-vibid:1001000113974": 14,
+      "gas:candidate-vibid:1001000289713": 36,
+      "gas:candidate-vibid:1001000121903": 489,
+      "gas:candidate-vibid:1001000195136": 10,
+      "gas:candidate-vibid:1001000225980": 283,
+      "special:against-all": 112
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000043&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070916&region=0&sub_region=0&type=429",
@@ -10382,12 +10382,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 15,
-      "Евтушенко Николай Григорьевич": 60,
-      "Кузьмина Светлана Ивановна": 440,
-      "Минеев Евгений Степанович": 8,
-      "Мокрый Владимир Семенович": 376,
-      "Против всех": 136
+      "gas:candidate-vibid:1001000113974": 15,
+      "gas:candidate-vibid:1001000289713": 60,
+      "gas:candidate-vibid:1001000121903": 440,
+      "gas:candidate-vibid:1001000195136": 8,
+      "gas:candidate-vibid:1001000225980": 376,
+      "special:against-all": 136
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000043&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070916&region=0&sub_region=0&type=429",
@@ -10437,12 +10437,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 19,
-      "Евтушенко Николай Григорьевич": 50,
-      "Кузьмина Светлана Ивановна": 368,
-      "Минеев Евгений Степанович": 12,
-      "Мокрый Владимир Семенович": 378,
-      "Против всех": 102
+      "gas:candidate-vibid:1001000113974": 19,
+      "gas:candidate-vibid:1001000289713": 50,
+      "gas:candidate-vibid:1001000121903": 368,
+      "gas:candidate-vibid:1001000195136": 12,
+      "gas:candidate-vibid:1001000225980": 378,
+      "special:against-all": 102
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000043&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070916&region=0&sub_region=0&type=429",
@@ -10492,12 +10492,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 16,
-      "Евтушенко Николай Григорьевич": 43,
-      "Кузьмина Светлана Ивановна": 461,
-      "Минеев Евгений Степанович": 14,
-      "Мокрый Владимир Семенович": 348,
-      "Против всех": 122
+      "gas:candidate-vibid:1001000113974": 16,
+      "gas:candidate-vibid:1001000289713": 43,
+      "gas:candidate-vibid:1001000121903": 461,
+      "gas:candidate-vibid:1001000195136": 14,
+      "gas:candidate-vibid:1001000225980": 348,
+      "special:against-all": 122
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000043&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070916&region=0&sub_region=0&type=429",
@@ -10547,12 +10547,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 15,
-      "Евтушенко Николай Григорьевич": 27,
-      "Кузьмина Светлана Ивановна": 482,
-      "Минеев Евгений Степанович": 14,
-      "Мокрый Владимир Семенович": 345,
-      "Против всех": 102
+      "gas:candidate-vibid:1001000113974": 15,
+      "gas:candidate-vibid:1001000289713": 27,
+      "gas:candidate-vibid:1001000121903": 482,
+      "gas:candidate-vibid:1001000195136": 14,
+      "gas:candidate-vibid:1001000225980": 345,
+      "special:against-all": 102
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000043&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070916&region=0&sub_region=0&type=429",
@@ -10602,12 +10602,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 28,
-      "Евтушенко Николай Григорьевич": 54,
-      "Кузьмина Светлана Ивановна": 373,
-      "Минеев Евгений Степанович": 11,
-      "Мокрый Владимир Семенович": 336,
-      "Против всех": 163
+      "gas:candidate-vibid:1001000113974": 28,
+      "gas:candidate-vibid:1001000289713": 54,
+      "gas:candidate-vibid:1001000121903": 373,
+      "gas:candidate-vibid:1001000195136": 11,
+      "gas:candidate-vibid:1001000225980": 336,
+      "special:against-all": 163
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000043&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070916&region=0&sub_region=0&type=429",
@@ -10657,12 +10657,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 25,
-      "Евтушенко Николай Григорьевич": 64,
-      "Кузьмина Светлана Ивановна": 509,
-      "Минеев Евгений Степанович": 12,
-      "Мокрый Владимир Семенович": 364,
-      "Против всех": 94
+      "gas:candidate-vibid:1001000113974": 25,
+      "gas:candidate-vibid:1001000289713": 64,
+      "gas:candidate-vibid:1001000121903": 509,
+      "gas:candidate-vibid:1001000195136": 12,
+      "gas:candidate-vibid:1001000225980": 364,
+      "special:against-all": 94
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000043&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070916&region=0&sub_region=0&type=429",
@@ -10712,12 +10712,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 2,
-      "Евтушенко Николай Григорьевич": 16,
-      "Кузьмина Светлана Ивановна": 66,
-      "Минеев Евгений Степанович": 4,
-      "Мокрый Владимир Семенович": 72,
-      "Против всех": 27
+      "gas:candidate-vibid:1001000113974": 2,
+      "gas:candidate-vibid:1001000289713": 16,
+      "gas:candidate-vibid:1001000121903": 66,
+      "gas:candidate-vibid:1001000195136": 4,
+      "gas:candidate-vibid:1001000225980": 72,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000043&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070916&region=0&sub_region=0&type=429",
@@ -10767,12 +10767,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 1,
-      "Евтушенко Николай Григорьевич": 5,
-      "Кузьмина Светлана Ивановна": 21,
-      "Минеев Евгений Степанович": 0,
-      "Мокрый Владимир Семенович": 39,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000113974": 1,
+      "gas:candidate-vibid:1001000289713": 5,
+      "gas:candidate-vibid:1001000121903": 21,
+      "gas:candidate-vibid:1001000195136": 0,
+      "gas:candidate-vibid:1001000225980": 39,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000043&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070916&region=0&sub_region=0&type=429",
@@ -10822,12 +10822,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 6,
-      "Евтушенко Николай Григорьевич": 49,
-      "Кузьмина Светлана Ивановна": 484,
-      "Минеев Евгений Степанович": 7,
-      "Мокрый Владимир Семенович": 424,
-      "Против всех": 94
+      "gas:candidate-vibid:1001000113974": 6,
+      "gas:candidate-vibid:1001000289713": 49,
+      "gas:candidate-vibid:1001000121903": 484,
+      "gas:candidate-vibid:1001000195136": 7,
+      "gas:candidate-vibid:1001000225980": 424,
+      "special:against-all": 94
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000043&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070916&region=0&sub_region=0&type=429",
@@ -10877,12 +10877,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 3,
-      "Евтушенко Николай Григорьевич": 11,
-      "Кузьмина Светлана Ивановна": 49,
-      "Минеев Евгений Степанович": 3,
-      "Мокрый Владимир Семенович": 64,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000113974": 3,
+      "gas:candidate-vibid:1001000289713": 11,
+      "gas:candidate-vibid:1001000121903": 49,
+      "gas:candidate-vibid:1001000195136": 3,
+      "gas:candidate-vibid:1001000225980": 64,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000043&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070916&region=0&sub_region=0&type=429",
@@ -10932,12 +10932,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 5,
-      "Евтушенко Николай Григорьевич": 5,
-      "Кузьмина Светлана Ивановна": 14,
-      "Минеев Евгений Степанович": 0,
-      "Мокрый Владимир Семенович": 40,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000113974": 5,
+      "gas:candidate-vibid:1001000289713": 5,
+      "gas:candidate-vibid:1001000121903": 14,
+      "gas:candidate-vibid:1001000195136": 0,
+      "gas:candidate-vibid:1001000225980": 40,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000043&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070916&region=0&sub_region=0&type=429",
@@ -10987,12 +10987,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 0,
-      "Евтушенко Николай Григорьевич": 3,
-      "Кузьмина Светлана Ивановна": 18,
-      "Минеев Евгений Степанович": 1,
-      "Мокрый Владимир Семенович": 22,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000113974": 0,
+      "gas:candidate-vibid:1001000289713": 3,
+      "gas:candidate-vibid:1001000121903": 18,
+      "gas:candidate-vibid:1001000195136": 1,
+      "gas:candidate-vibid:1001000225980": 22,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000043&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070916&region=0&sub_region=0&type=429",
@@ -11042,12 +11042,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 5,
-      "Евтушенко Николай Григорьевич": 4,
-      "Кузьмина Светлана Ивановна": 54,
-      "Минеев Евгений Степанович": 4,
-      "Мокрый Владимир Семенович": 96,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000113974": 5,
+      "gas:candidate-vibid:1001000289713": 4,
+      "gas:candidate-vibid:1001000121903": 54,
+      "gas:candidate-vibid:1001000195136": 4,
+      "gas:candidate-vibid:1001000225980": 96,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000043&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070916&region=0&sub_region=0&type=429",
@@ -11097,12 +11097,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 10,
-      "Евтушенко Николай Григорьевич": 14,
-      "Кузьмина Светлана Ивановна": 150,
-      "Минеев Евгений Степанович": 3,
-      "Мокрый Владимир Семенович": 210,
-      "Против всех": 48
+      "gas:candidate-vibid:1001000113974": 10,
+      "gas:candidate-vibid:1001000289713": 14,
+      "gas:candidate-vibid:1001000121903": 150,
+      "gas:candidate-vibid:1001000195136": 3,
+      "gas:candidate-vibid:1001000225980": 210,
+      "special:against-all": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000043&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070916&region=0&sub_region=0&type=429",
@@ -11152,12 +11152,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 13,
-      "Евтушенко Николай Григорьевич": 21,
-      "Кузьмина Светлана Ивановна": 227,
-      "Минеев Евгений Степанович": 7,
-      "Мокрый Владимир Семенович": 270,
-      "Против всех": 59
+      "gas:candidate-vibid:1001000113974": 13,
+      "gas:candidate-vibid:1001000289713": 21,
+      "gas:candidate-vibid:1001000121903": 227,
+      "gas:candidate-vibid:1001000195136": 7,
+      "gas:candidate-vibid:1001000225980": 270,
+      "special:against-all": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000043&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070916&region=0&sub_region=0&type=429",
@@ -11207,12 +11207,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 3,
-      "Евтушенко Николай Григорьевич": 9,
-      "Кузьмина Светлана Ивановна": 54,
-      "Минеев Евгений Степанович": 5,
-      "Мокрый Владимир Семенович": 110,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000113974": 3,
+      "gas:candidate-vibid:1001000289713": 9,
+      "gas:candidate-vibid:1001000121903": 54,
+      "gas:candidate-vibid:1001000195136": 5,
+      "gas:candidate-vibid:1001000225980": 110,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000043&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070916&region=0&sub_region=0&type=429",
@@ -11262,12 +11262,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 8,
-      "Евтушенко Николай Григорьевич": 33,
-      "Кузьмина Светлана Ивановна": 162,
-      "Минеев Евгений Степанович": 5,
-      "Мокрый Владимир Семенович": 281,
-      "Против всех": 39
+      "gas:candidate-vibid:1001000113974": 8,
+      "gas:candidate-vibid:1001000289713": 33,
+      "gas:candidate-vibid:1001000121903": 162,
+      "gas:candidate-vibid:1001000195136": 5,
+      "gas:candidate-vibid:1001000225980": 281,
+      "special:against-all": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000043&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070916&region=0&sub_region=0&type=429",
@@ -11317,12 +11317,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 1,
-      "Евтушенко Николай Григорьевич": 6,
-      "Кузьмина Светлана Ивановна": 20,
-      "Минеев Евгений Степанович": 2,
-      "Мокрый Владимир Семенович": 71,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000113974": 1,
+      "gas:candidate-vibid:1001000289713": 6,
+      "gas:candidate-vibid:1001000121903": 20,
+      "gas:candidate-vibid:1001000195136": 2,
+      "gas:candidate-vibid:1001000225980": 71,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000043&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070916&region=0&sub_region=0&type=429",
@@ -11372,12 +11372,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 5,
-      "Евтушенко Николай Григорьевич": 13,
-      "Кузьмина Светлана Ивановна": 77,
-      "Минеев Евгений Степанович": 9,
-      "Мокрый Владимир Семенович": 257,
-      "Против всех": 44
+      "gas:candidate-vibid:1001000113974": 5,
+      "gas:candidate-vibid:1001000289713": 13,
+      "gas:candidate-vibid:1001000121903": 77,
+      "gas:candidate-vibid:1001000195136": 9,
+      "gas:candidate-vibid:1001000225980": 257,
+      "special:against-all": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000043&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070916&region=0&sub_region=0&type=429",
@@ -11427,12 +11427,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 3,
-      "Евтушенко Николай Григорьевич": 4,
-      "Кузьмина Светлана Ивановна": 168,
-      "Минеев Евгений Степанович": 2,
-      "Мокрый Владимир Семенович": 55,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000113974": 3,
+      "gas:candidate-vibid:1001000289713": 4,
+      "gas:candidate-vibid:1001000121903": 168,
+      "gas:candidate-vibid:1001000195136": 2,
+      "gas:candidate-vibid:1001000225980": 55,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000043&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070916&region=0&sub_region=0&type=429",
@@ -11482,12 +11482,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 7,
-      "Евтушенко Николай Григорьевич": 18,
-      "Кузьмина Светлана Ивановна": 162,
-      "Минеев Евгений Степанович": 5,
-      "Мокрый Владимир Семенович": 350,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000113974": 7,
+      "gas:candidate-vibid:1001000289713": 18,
+      "gas:candidate-vibid:1001000121903": 162,
+      "gas:candidate-vibid:1001000195136": 5,
+      "gas:candidate-vibid:1001000225980": 350,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000043&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070916&region=0&sub_region=0&type=429",
@@ -11537,12 +11537,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 2,
-      "Евтушенко Николай Григорьевич": 11,
-      "Кузьмина Светлана Ивановна": 41,
-      "Минеев Евгений Степанович": 1,
-      "Мокрый Владимир Семенович": 117,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000113974": 2,
+      "gas:candidate-vibid:1001000289713": 11,
+      "gas:candidate-vibid:1001000121903": 41,
+      "gas:candidate-vibid:1001000195136": 1,
+      "gas:candidate-vibid:1001000225980": 117,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000043&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070916&region=0&sub_region=0&type=429",
@@ -11592,12 +11592,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 9,
-      "Евтушенко Николай Григорьевич": 23,
-      "Кузьмина Светлана Ивановна": 220,
-      "Минеев Евгений Степанович": 8,
-      "Мокрый Владимир Семенович": 257,
-      "Против всех": 58
+      "gas:candidate-vibid:1001000113974": 9,
+      "gas:candidate-vibid:1001000289713": 23,
+      "gas:candidate-vibid:1001000121903": 220,
+      "gas:candidate-vibid:1001000195136": 8,
+      "gas:candidate-vibid:1001000225980": 257,
+      "special:against-all": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000043&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070916&region=0&sub_region=0&type=429",
@@ -11647,12 +11647,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 2,
-      "Евтушенко Николай Григорьевич": 7,
-      "Кузьмина Светлана Ивановна": 91,
-      "Минеев Евгений Степанович": 1,
-      "Мокрый Владимир Семенович": 133,
-      "Против всех": 24
+      "gas:candidate-vibid:1001000113974": 2,
+      "gas:candidate-vibid:1001000289713": 7,
+      "gas:candidate-vibid:1001000121903": 91,
+      "gas:candidate-vibid:1001000195136": 1,
+      "gas:candidate-vibid:1001000225980": 133,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000043&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070916&region=0&sub_region=0&type=429",
@@ -11702,12 +11702,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 1,
-      "Евтушенко Николай Григорьевич": 4,
-      "Кузьмина Светлана Ивановна": 44,
-      "Минеев Евгений Степанович": 1,
-      "Мокрый Владимир Семенович": 114,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000113974": 1,
+      "gas:candidate-vibid:1001000289713": 4,
+      "gas:candidate-vibid:1001000121903": 44,
+      "gas:candidate-vibid:1001000195136": 1,
+      "gas:candidate-vibid:1001000225980": 114,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000043&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070916&region=0&sub_region=0&type=429",
@@ -11757,12 +11757,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 3,
-      "Евтушенко Николай Григорьевич": 4,
-      "Кузьмина Светлана Ивановна": 52,
-      "Минеев Евгений Степанович": 0,
-      "Мокрый Владимир Семенович": 35,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000113974": 3,
+      "gas:candidate-vibid:1001000289713": 4,
+      "gas:candidate-vibid:1001000121903": 52,
+      "gas:candidate-vibid:1001000195136": 0,
+      "gas:candidate-vibid:1001000225980": 35,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000043&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070916&region=0&sub_region=0&type=429",
@@ -11812,12 +11812,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 5,
-      "Евтушенко Николай Григорьевич": 27,
-      "Кузьмина Светлана Ивановна": 56,
-      "Минеев Евгений Степанович": 2,
-      "Мокрый Владимир Семенович": 209,
-      "Против всех": 36
+      "gas:candidate-vibid:1001000113974": 5,
+      "gas:candidate-vibid:1001000289713": 27,
+      "gas:candidate-vibid:1001000121903": 56,
+      "gas:candidate-vibid:1001000195136": 2,
+      "gas:candidate-vibid:1001000225980": 209,
+      "special:against-all": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000043&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070916&region=0&sub_region=0&type=429",
@@ -11867,12 +11867,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 0,
-      "Евтушенко Николай Григорьевич": 1,
-      "Кузьмина Светлана Ивановна": 18,
-      "Минеев Евгений Степанович": 0,
-      "Мокрый Владимир Семенович": 69,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000113974": 0,
+      "gas:candidate-vibid:1001000289713": 1,
+      "gas:candidate-vibid:1001000121903": 18,
+      "gas:candidate-vibid:1001000195136": 0,
+      "gas:candidate-vibid:1001000225980": 69,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000043&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070916&region=0&sub_region=0&type=429",
@@ -11922,12 +11922,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 8,
-      "Евтушенко Николай Григорьевич": 10,
-      "Кузьмина Светлана Ивановна": 123,
-      "Минеев Евгений Степанович": 3,
-      "Мокрый Владимир Семенович": 180,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000113974": 8,
+      "gas:candidate-vibid:1001000289713": 10,
+      "gas:candidate-vibid:1001000121903": 123,
+      "gas:candidate-vibid:1001000195136": 3,
+      "gas:candidate-vibid:1001000225980": 180,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000043&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070916&region=0&sub_region=0&type=429",
@@ -11977,12 +11977,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 0,
-      "Евтушенко Николай Григорьевич": 2,
-      "Кузьмина Светлана Ивановна": 30,
-      "Минеев Евгений Степанович": 1,
-      "Мокрый Владимир Семенович": 69,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000113974": 0,
+      "gas:candidate-vibid:1001000289713": 2,
+      "gas:candidate-vibid:1001000121903": 30,
+      "gas:candidate-vibid:1001000195136": 1,
+      "gas:candidate-vibid:1001000225980": 69,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000043&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070916&region=0&sub_region=0&type=429",
@@ -12032,12 +12032,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 6,
-      "Евтушенко Николай Григорьевич": 6,
-      "Кузьмина Светлана Ивановна": 98,
-      "Минеев Евгений Степанович": 1,
-      "Мокрый Владимир Семенович": 225,
-      "Против всех": 26
+      "gas:candidate-vibid:1001000113974": 6,
+      "gas:candidate-vibid:1001000289713": 6,
+      "gas:candidate-vibid:1001000121903": 98,
+      "gas:candidate-vibid:1001000195136": 1,
+      "gas:candidate-vibid:1001000225980": 225,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000043&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070916&region=0&sub_region=0&type=429",
@@ -12087,12 +12087,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 1,
-      "Евтушенко Николай Григорьевич": 3,
-      "Кузьмина Светлана Ивановна": 22,
-      "Минеев Евгений Степанович": 2,
-      "Мокрый Владимир Семенович": 59,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000113974": 1,
+      "gas:candidate-vibid:1001000289713": 3,
+      "gas:candidate-vibid:1001000121903": 22,
+      "gas:candidate-vibid:1001000195136": 2,
+      "gas:candidate-vibid:1001000225980": 59,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000043&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070916&region=0&sub_region=0&type=429",
@@ -12142,12 +12142,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 9,
-      "Евтушенко Николай Григорьевич": 16,
-      "Кузьмина Светлана Ивановна": 162,
-      "Минеев Евгений Степанович": 3,
-      "Мокрый Владимир Семенович": 381,
-      "Против всех": 64
+      "gas:candidate-vibid:1001000113974": 9,
+      "gas:candidate-vibid:1001000289713": 16,
+      "gas:candidate-vibid:1001000121903": 162,
+      "gas:candidate-vibid:1001000195136": 3,
+      "gas:candidate-vibid:1001000225980": 381,
+      "special:against-all": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000044&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070917&region=0&sub_region=0&type=429",
@@ -12197,12 +12197,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 12,
-      "Евтушенко Николай Григорьевич": 15,
-      "Кузьмина Светлана Ивановна": 118,
-      "Минеев Евгений Степанович": 6,
-      "Мокрый Владимир Семенович": 301,
-      "Против всех": 37
+      "gas:candidate-vibid:1001000113974": 12,
+      "gas:candidate-vibid:1001000289713": 15,
+      "gas:candidate-vibid:1001000121903": 118,
+      "gas:candidate-vibid:1001000195136": 6,
+      "gas:candidate-vibid:1001000225980": 301,
+      "special:against-all": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000044&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070917&region=0&sub_region=0&type=429",
@@ -12252,12 +12252,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 8,
-      "Евтушенко Николай Григорьевич": 7,
-      "Кузьмина Светлана Ивановна": 119,
-      "Минеев Евгений Степанович": 1,
-      "Мокрый Владимир Семенович": 439,
-      "Против всех": 38
+      "gas:candidate-vibid:1001000113974": 8,
+      "gas:candidate-vibid:1001000289713": 7,
+      "gas:candidate-vibid:1001000121903": 119,
+      "gas:candidate-vibid:1001000195136": 1,
+      "gas:candidate-vibid:1001000225980": 439,
+      "special:against-all": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000044&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070917&region=0&sub_region=0&type=429",
@@ -12307,12 +12307,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 7,
-      "Евтушенко Николай Григорьевич": 15,
-      "Кузьмина Светлана Ивановна": 103,
-      "Минеев Евгений Степанович": 0,
-      "Мокрый Владимир Семенович": 324,
-      "Против всех": 25
+      "gas:candidate-vibid:1001000113974": 7,
+      "gas:candidate-vibid:1001000289713": 15,
+      "gas:candidate-vibid:1001000121903": 103,
+      "gas:candidate-vibid:1001000195136": 0,
+      "gas:candidate-vibid:1001000225980": 324,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000044&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070917&region=0&sub_region=0&type=429",
@@ -12362,12 +12362,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 2,
-      "Евтушенко Николай Григорьевич": 5,
-      "Кузьмина Светлана Ивановна": 28,
-      "Минеев Евгений Степанович": 4,
-      "Мокрый Владимир Семенович": 90,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000113974": 2,
+      "gas:candidate-vibid:1001000289713": 5,
+      "gas:candidate-vibid:1001000121903": 28,
+      "gas:candidate-vibid:1001000195136": 4,
+      "gas:candidate-vibid:1001000225980": 90,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000044&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070917&region=0&sub_region=0&type=429",
@@ -12417,12 +12417,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 3,
-      "Евтушенко Николай Григорьевич": 5,
-      "Кузьмина Светлана Ивановна": 27,
-      "Минеев Евгений Степанович": 1,
-      "Мокрый Владимир Семенович": 148,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000113974": 3,
+      "gas:candidate-vibid:1001000289713": 5,
+      "gas:candidate-vibid:1001000121903": 27,
+      "gas:candidate-vibid:1001000195136": 1,
+      "gas:candidate-vibid:1001000225980": 148,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000044&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070917&region=0&sub_region=0&type=429",
@@ -12472,12 +12472,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 3,
-      "Евтушенко Николай Григорьевич": 9,
-      "Кузьмина Светлана Ивановна": 68,
-      "Минеев Евгений Степанович": 2,
-      "Мокрый Владимир Семенович": 55,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000113974": 3,
+      "gas:candidate-vibid:1001000289713": 9,
+      "gas:candidate-vibid:1001000121903": 68,
+      "gas:candidate-vibid:1001000195136": 2,
+      "gas:candidate-vibid:1001000225980": 55,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000044&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070917&region=0&sub_region=0&type=429",
@@ -12527,12 +12527,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 2,
-      "Евтушенко Николай Григорьевич": 3,
-      "Кузьмина Светлана Ивановна": 48,
-      "Минеев Евгений Степанович": 1,
-      "Мокрый Владимир Семенович": 57,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000113974": 2,
+      "gas:candidate-vibid:1001000289713": 3,
+      "gas:candidate-vibid:1001000121903": 48,
+      "gas:candidate-vibid:1001000195136": 1,
+      "gas:candidate-vibid:1001000225980": 57,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000044&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070917&region=0&sub_region=0&type=429",
@@ -12582,12 +12582,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 0,
-      "Евтушенко Николай Григорьевич": 14,
-      "Кузьмина Светлана Ивановна": 160,
-      "Минеев Евгений Степанович": 1,
-      "Мокрый Владимир Семенович": 215,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000113974": 0,
+      "gas:candidate-vibid:1001000289713": 14,
+      "gas:candidate-vibid:1001000121903": 160,
+      "gas:candidate-vibid:1001000195136": 1,
+      "gas:candidate-vibid:1001000225980": 215,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000044&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070917&region=0&sub_region=0&type=429",
@@ -12637,12 +12637,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 0,
-      "Евтушенко Николай Григорьевич": 2,
-      "Кузьмина Светлана Ивановна": 60,
-      "Минеев Евгений Степанович": 3,
-      "Мокрый Владимир Семенович": 122,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000113974": 0,
+      "gas:candidate-vibid:1001000289713": 2,
+      "gas:candidate-vibid:1001000121903": 60,
+      "gas:candidate-vibid:1001000195136": 3,
+      "gas:candidate-vibid:1001000225980": 122,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000044&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070917&region=0&sub_region=0&type=429",
@@ -12692,12 +12692,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 1,
-      "Евтушенко Николай Григорьевич": 2,
-      "Кузьмина Светлана Ивановна": 23,
-      "Минеев Евгений Степанович": 3,
-      "Мокрый Владимир Семенович": 56,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000113974": 1,
+      "gas:candidate-vibid:1001000289713": 2,
+      "gas:candidate-vibid:1001000121903": 23,
+      "gas:candidate-vibid:1001000195136": 3,
+      "gas:candidate-vibid:1001000225980": 56,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000044&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070917&region=0&sub_region=0&type=429",
@@ -12747,12 +12747,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 0,
-      "Евтушенко Николай Григорьевич": 1,
-      "Кузьмина Светлана Ивановна": 5,
-      "Минеев Евгений Степанович": 0,
-      "Мокрый Владимир Семенович": 94,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000113974": 0,
+      "gas:candidate-vibid:1001000289713": 1,
+      "gas:candidate-vibid:1001000121903": 5,
+      "gas:candidate-vibid:1001000195136": 0,
+      "gas:candidate-vibid:1001000225980": 94,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000044&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070917&region=0&sub_region=0&type=429",
@@ -12802,12 +12802,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 6,
-      "Евтушенко Николай Григорьевич": 11,
-      "Кузьмина Светлана Ивановна": 113,
-      "Минеев Евгений Степанович": 3,
-      "Мокрый Владимир Семенович": 156,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000113974": 6,
+      "gas:candidate-vibid:1001000289713": 11,
+      "gas:candidate-vibid:1001000121903": 113,
+      "gas:candidate-vibid:1001000195136": 3,
+      "gas:candidate-vibid:1001000225980": 156,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000044&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070917&region=0&sub_region=0&type=429",
@@ -12857,12 +12857,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 4,
-      "Евтушенко Николай Григорьевич": 2,
-      "Кузьмина Светлана Ивановна": 47,
-      "Минеев Евгений Степанович": 2,
-      "Мокрый Владимир Семенович": 148,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000113974": 4,
+      "gas:candidate-vibid:1001000289713": 2,
+      "gas:candidate-vibid:1001000121903": 47,
+      "gas:candidate-vibid:1001000195136": 2,
+      "gas:candidate-vibid:1001000225980": 148,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000044&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070917&region=0&sub_region=0&type=429",
@@ -12912,12 +12912,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 4,
-      "Евтушенко Николай Григорьевич": 6,
-      "Кузьмина Светлана Ивановна": 100,
-      "Минеев Евгений Степанович": 1,
-      "Мокрый Владимир Семенович": 319,
-      "Против всех": 28
+      "gas:candidate-vibid:1001000113974": 4,
+      "gas:candidate-vibid:1001000289713": 6,
+      "gas:candidate-vibid:1001000121903": 100,
+      "gas:candidate-vibid:1001000195136": 1,
+      "gas:candidate-vibid:1001000225980": 319,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000044&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070917&region=0&sub_region=0&type=429",
@@ -12967,12 +12967,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 0,
-      "Евтушенко Николай Григорьевич": 9,
-      "Кузьмина Светлана Ивановна": 119,
-      "Минеев Евгений Степанович": 2,
-      "Мокрый Владимир Семенович": 109,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000113974": 0,
+      "gas:candidate-vibid:1001000289713": 9,
+      "gas:candidate-vibid:1001000121903": 119,
+      "gas:candidate-vibid:1001000195136": 2,
+      "gas:candidate-vibid:1001000225980": 109,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000044&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070917&region=0&sub_region=0&type=429",
@@ -13022,12 +13022,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 0,
-      "Евтушенко Николай Григорьевич": 2,
-      "Кузьмина Светлана Ивановна": 8,
-      "Минеев Евгений Степанович": 1,
-      "Мокрый Владимир Семенович": 57,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000113974": 0,
+      "gas:candidate-vibid:1001000289713": 2,
+      "gas:candidate-vibid:1001000121903": 8,
+      "gas:candidate-vibid:1001000195136": 1,
+      "gas:candidate-vibid:1001000225980": 57,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000044&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070917&region=0&sub_region=0&type=429",
@@ -13077,12 +13077,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 1,
-      "Евтушенко Николай Григорьевич": 10,
-      "Кузьмина Светлана Ивановна": 28,
-      "Минеев Евгений Степанович": 0,
-      "Мокрый Владимир Семенович": 104,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000113974": 1,
+      "gas:candidate-vibid:1001000289713": 10,
+      "gas:candidate-vibid:1001000121903": 28,
+      "gas:candidate-vibid:1001000195136": 0,
+      "gas:candidate-vibid:1001000225980": 104,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000044&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070917&region=0&sub_region=0&type=429",
@@ -13132,12 +13132,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 5,
-      "Евтушенко Николай Григорьевич": 3,
-      "Кузьмина Светлана Ивановна": 58,
-      "Минеев Евгений Степанович": 3,
-      "Мокрый Владимир Семенович": 175,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000113974": 5,
+      "gas:candidate-vibid:1001000289713": 3,
+      "gas:candidate-vibid:1001000121903": 58,
+      "gas:candidate-vibid:1001000195136": 3,
+      "gas:candidate-vibid:1001000225980": 175,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000044&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070917&region=0&sub_region=0&type=429",
@@ -13187,12 +13187,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 0,
-      "Евтушенко Николай Григорьевич": 3,
-      "Кузьмина Светлана Ивановна": 39,
-      "Минеев Евгений Степанович": 0,
-      "Мокрый Владимир Семенович": 83,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000113974": 0,
+      "gas:candidate-vibid:1001000289713": 3,
+      "gas:candidate-vibid:1001000121903": 39,
+      "gas:candidate-vibid:1001000195136": 0,
+      "gas:candidate-vibid:1001000225980": 83,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000044&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070917&region=0&sub_region=0&type=429",
@@ -13242,12 +13242,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 1,
-      "Евтушенко Николай Григорьевич": 11,
-      "Кузьмина Светлана Ивановна": 43,
-      "Минеев Евгений Степанович": 1,
-      "Мокрый Владимир Семенович": 84,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000113974": 1,
+      "gas:candidate-vibid:1001000289713": 11,
+      "gas:candidate-vibid:1001000121903": 43,
+      "gas:candidate-vibid:1001000195136": 1,
+      "gas:candidate-vibid:1001000225980": 84,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000044&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070917&region=0&sub_region=0&type=429",
@@ -13297,12 +13297,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 1,
-      "Евтушенко Николай Григорьевич": 8,
-      "Кузьмина Светлана Ивановна": 81,
-      "Минеев Евгений Степанович": 3,
-      "Мокрый Владимир Семенович": 174,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000113974": 1,
+      "gas:candidate-vibid:1001000289713": 8,
+      "gas:candidate-vibid:1001000121903": 81,
+      "gas:candidate-vibid:1001000195136": 3,
+      "gas:candidate-vibid:1001000225980": 174,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000044&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070917&region=0&sub_region=0&type=429",
@@ -13352,12 +13352,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 5,
-      "Евтушенко Николай Григорьевич": 12,
-      "Кузьмина Светлана Ивановна": 59,
-      "Минеев Евгений Степанович": 1,
-      "Мокрый Владимир Семенович": 101,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000113974": 5,
+      "gas:candidate-vibid:1001000289713": 12,
+      "gas:candidate-vibid:1001000121903": 59,
+      "gas:candidate-vibid:1001000195136": 1,
+      "gas:candidate-vibid:1001000225980": 101,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000044&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070917&region=0&sub_region=0&type=429",
@@ -13407,12 +13407,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 9,
-      "Евтушенко Николай Григорьевич": 7,
-      "Кузьмина Светлана Ивановна": 73,
-      "Минеев Евгений Степанович": 0,
-      "Мокрый Владимир Семенович": 169,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000113974": 9,
+      "gas:candidate-vibid:1001000289713": 7,
+      "gas:candidate-vibid:1001000121903": 73,
+      "gas:candidate-vibid:1001000195136": 0,
+      "gas:candidate-vibid:1001000225980": 169,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000044&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070917&region=0&sub_region=0&type=429",
@@ -13462,12 +13462,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 4,
-      "Евтушенко Николай Григорьевич": 11,
-      "Кузьмина Светлана Ивановна": 81,
-      "Минеев Евгений Степанович": 0,
-      "Мокрый Владимир Семенович": 208,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000113974": 4,
+      "gas:candidate-vibid:1001000289713": 11,
+      "gas:candidate-vibid:1001000121903": 81,
+      "gas:candidate-vibid:1001000195136": 0,
+      "gas:candidate-vibid:1001000225980": 208,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000044&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070917&region=0&sub_region=0&type=429",
@@ -13517,12 +13517,12 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бартенев Олег Петрович": 0,
-      "Евтушенко Николай Григорьевич": 8,
-      "Кузьмина Светлана Ивановна": 36,
-      "Минеев Евгений Степанович": 2,
-      "Мокрый Владимир Семенович": 100,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000113974": 0,
+      "gas:candidate-vibid:1001000289713": 8,
+      "gas:candidate-vibid:1001000121903": 36,
+      "gas:candidate-vibid:1001000195136": 2,
+      "gas:candidate-vibid:1001000225980": 100,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000044&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070917&region=0&sub_region=0&type=429",
@@ -13572,17 +13572,17 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 57,
-      "Гринблат Борислав Ефимович": 163,
-      "Жигалев Борис Николаевич": 22,
-      "Иванов Анатолий Семенович": 272,
-      "Колосов Роман Олегович": 4,
-      "Коновалов Владимир Григорьевич": 6,
-      "Пеунова Светлана Михайловна": 121,
-      "Сафонов Игорь Иванович": 21,
-      "Таратынов Александр Михайлович": 212,
-      "Чунгуров Владимир Ильич": 84,
-      "Против всех": 123
+      "gas:candidate-vibid:1001000136116": 57,
+      "gas:candidate-vibid:1001000113975": 163,
+      "gas:candidate-vibid:1001000217953": 22,
+      "gas:candidate-vibid:1001000131409": 272,
+      "gas:candidate-vibid:1001000195137": 4,
+      "gas:candidate-vibid:1001000250455": 6,
+      "gas:candidate-vibid:363300570748": 121,
+      "gas:candidate-vibid:363300570739": 21,
+      "gas:candidate-vibid:1001000225981": 212,
+      "gas:candidate-vibid:363300570733": 84,
+      "special:against-all": 123
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000045&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071428&region=0&sub_region=0&type=429",
@@ -13632,17 +13632,17 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 63,
-      "Гринблат Борислав Ефимович": 86,
-      "Жигалев Борис Николаевич": 17,
-      "Иванов Анатолий Семенович": 210,
-      "Колосов Роман Олегович": 6,
-      "Коновалов Владимир Григорьевич": 10,
-      "Пеунова Светлана Михайловна": 94,
-      "Сафонов Игорь Иванович": 18,
-      "Таратынов Александр Михайлович": 231,
-      "Чунгуров Владимир Ильич": 108,
-      "Против всех": 102
+      "gas:candidate-vibid:1001000136116": 63,
+      "gas:candidate-vibid:1001000113975": 86,
+      "gas:candidate-vibid:1001000217953": 17,
+      "gas:candidate-vibid:1001000131409": 210,
+      "gas:candidate-vibid:1001000195137": 6,
+      "gas:candidate-vibid:1001000250455": 10,
+      "gas:candidate-vibid:363300570748": 94,
+      "gas:candidate-vibid:363300570739": 18,
+      "gas:candidate-vibid:1001000225981": 231,
+      "gas:candidate-vibid:363300570733": 108,
+      "special:against-all": 102
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000045&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071428&region=0&sub_region=0&type=429",
@@ -13692,17 +13692,17 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 83,
-      "Гринблат Борислав Ефимович": 130,
-      "Жигалев Борис Николаевич": 15,
-      "Иванов Анатолий Семенович": 245,
-      "Колосов Роман Олегович": 4,
-      "Коновалов Владимир Григорьевич": 3,
-      "Пеунова Светлана Михайловна": 128,
-      "Сафонов Игорь Иванович": 23,
-      "Таратынов Александр Михайлович": 233,
-      "Чунгуров Владимир Ильич": 106,
-      "Против всех": 203
+      "gas:candidate-vibid:1001000136116": 83,
+      "gas:candidate-vibid:1001000113975": 130,
+      "gas:candidate-vibid:1001000217953": 15,
+      "gas:candidate-vibid:1001000131409": 245,
+      "gas:candidate-vibid:1001000195137": 4,
+      "gas:candidate-vibid:1001000250455": 3,
+      "gas:candidate-vibid:363300570748": 128,
+      "gas:candidate-vibid:363300570739": 23,
+      "gas:candidate-vibid:1001000225981": 233,
+      "gas:candidate-vibid:363300570733": 106,
+      "special:against-all": 203
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000045&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071428&region=0&sub_region=0&type=429",
@@ -13752,17 +13752,17 @@ export const duma_2003_uik_428_region_63_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Балашова Людмила Анатольевна": 64,
-      "Гринблат Борислав Ефимович": 115,
-      "Жигалев Борис Николаевич": 19,
-      "Иванов Анатолий Семенович": 418,
-      "Колосов Роман Олегович": 6,
-      "Коновалов Владимир Григорьевич": 23,
-      "Пеунова Светлана Михайловна": 152,
-      "Сафонов Игорь Иванович": 41,
-      "Таратынов Александр Михайлович": 242,
-      "Чунгуров Владимир Ильич": 117,
-      "Против всех": 160
+      "gas:candidate-vibid:1001000136116": 64,
+      "gas:candidate-vibid:1001000113975": 115,
+      "gas:candidate-vibid:1001000217953": 19,
+      "gas:candidate-vibid:1001000131409": 418,
+      "gas:candidate-vibid:1001000195137": 6,
+      "gas:candidate-vibid:1001000250455": 23,
+      "gas:candidate-vibid:363300570748": 152,
+      "gas:candidate-vibid:363300570739": 41,
+      "gas:candidate-vibid:1001000225981": 242,
+      "gas:candidate-vibid:363300570733": 117,
+      "special:against-all": 160
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000045&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200071428&region=0&sub_region=0&type=429",

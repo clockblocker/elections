@@ -43,14 +43,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 97,
-      "Барановский Дмитрий Андреевич": 28,
-      "Безлер Юрий Викторович": 91,
-      "Карлов Сергей Сергеевич": 19,
-      "Осипов Олег Борисович": 18,
-      "Серова Елена Олеговна": 334,
-      "Фёдоров Виталий Владимирович": 71,
-      "Чернышов Игорь Михайлович": 25
+      "gas:candidate-vibid:4504020153555": 97,
+      "gas:candidate-vibid:4504020153611": 28,
+      "gas:candidate-vibid:4504020153008": 91,
+      "gas:candidate-vibid:4504020153520": 19,
+      "gas:candidate-vibid:4504020153804": 18,
+      "gas:candidate-vibid:4504020153401": 334,
+      "gas:candidate-vibid:4504020153344": 71,
+      "gas:candidate-vibid:4504020153136": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005533&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005533&type=464",
@@ -101,14 +101,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 124,
-      "Барановский Дмитрий Андреевич": 31,
-      "Безлер Юрий Викторович": 74,
-      "Карлов Сергей Сергеевич": 24,
-      "Осипов Олег Борисович": 19,
-      "Серова Елена Олеговна": 323,
-      "Фёдоров Виталий Владимирович": 102,
-      "Чернышов Игорь Михайлович": 30
+      "gas:candidate-vibid:4504020153555": 124,
+      "gas:candidate-vibid:4504020153611": 31,
+      "gas:candidate-vibid:4504020153008": 74,
+      "gas:candidate-vibid:4504020153520": 24,
+      "gas:candidate-vibid:4504020153804": 19,
+      "gas:candidate-vibid:4504020153401": 323,
+      "gas:candidate-vibid:4504020153344": 102,
+      "gas:candidate-vibid:4504020153136": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005533&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005533&type=464",
@@ -159,14 +159,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 110,
-      "Барановский Дмитрий Андреевич": 35,
-      "Безлер Юрий Викторович": 135,
-      "Карлов Сергей Сергеевич": 25,
-      "Осипов Олег Борисович": 22,
-      "Серова Елена Олеговна": 333,
-      "Фёдоров Виталий Владимирович": 108,
-      "Чернышов Игорь Михайлович": 21
+      "gas:candidate-vibid:4504020153555": 110,
+      "gas:candidate-vibid:4504020153611": 35,
+      "gas:candidate-vibid:4504020153008": 135,
+      "gas:candidate-vibid:4504020153520": 25,
+      "gas:candidate-vibid:4504020153804": 22,
+      "gas:candidate-vibid:4504020153401": 333,
+      "gas:candidate-vibid:4504020153344": 108,
+      "gas:candidate-vibid:4504020153136": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005533&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005533&type=464",
@@ -217,14 +217,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 95,
-      "Барановский Дмитрий Андреевич": 17,
-      "Безлер Юрий Викторович": 77,
-      "Карлов Сергей Сергеевич": 29,
-      "Осипов Олег Борисович": 14,
-      "Серова Елена Олеговна": 347,
-      "Фёдоров Виталий Владимирович": 95,
-      "Чернышов Игорь Михайлович": 26
+      "gas:candidate-vibid:4504020153555": 95,
+      "gas:candidate-vibid:4504020153611": 17,
+      "gas:candidate-vibid:4504020153008": 77,
+      "gas:candidate-vibid:4504020153520": 29,
+      "gas:candidate-vibid:4504020153804": 14,
+      "gas:candidate-vibid:4504020153401": 347,
+      "gas:candidate-vibid:4504020153344": 95,
+      "gas:candidate-vibid:4504020153136": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005533&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005533&type=464",
@@ -275,14 +275,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 108,
-      "Барановский Дмитрий Андреевич": 26,
-      "Безлер Юрий Викторович": 83,
-      "Карлов Сергей Сергеевич": 13,
-      "Осипов Олег Борисович": 18,
-      "Серова Елена Олеговна": 328,
-      "Фёдоров Виталий Владимирович": 105,
-      "Чернышов Игорь Михайлович": 31
+      "gas:candidate-vibid:4504020153555": 108,
+      "gas:candidate-vibid:4504020153611": 26,
+      "gas:candidate-vibid:4504020153008": 83,
+      "gas:candidate-vibid:4504020153520": 13,
+      "gas:candidate-vibid:4504020153804": 18,
+      "gas:candidate-vibid:4504020153401": 328,
+      "gas:candidate-vibid:4504020153344": 105,
+      "gas:candidate-vibid:4504020153136": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005533&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005533&type=464",
@@ -333,14 +333,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 129,
-      "Барановский Дмитрий Андреевич": 18,
-      "Безлер Юрий Викторович": 86,
-      "Карлов Сергей Сергеевич": 40,
-      "Осипов Олег Борисович": 20,
-      "Серова Елена Олеговна": 394,
-      "Фёдоров Виталий Владимирович": 82,
-      "Чернышов Игорь Михайлович": 30
+      "gas:candidate-vibid:4504020153555": 129,
+      "gas:candidate-vibid:4504020153611": 18,
+      "gas:candidate-vibid:4504020153008": 86,
+      "gas:candidate-vibid:4504020153520": 40,
+      "gas:candidate-vibid:4504020153804": 20,
+      "gas:candidate-vibid:4504020153401": 394,
+      "gas:candidate-vibid:4504020153344": 82,
+      "gas:candidate-vibid:4504020153136": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005533&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005533&type=464",
@@ -391,14 +391,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 59,
-      "Барановский Дмитрий Андреевич": 16,
-      "Безлер Юрий Викторович": 52,
-      "Карлов Сергей Сергеевич": 13,
-      "Осипов Олег Борисович": 20,
-      "Серова Елена Олеговна": 206,
-      "Фёдоров Виталий Владимирович": 60,
-      "Чернышов Игорь Михайлович": 27
+      "gas:candidate-vibid:4504020153555": 59,
+      "gas:candidate-vibid:4504020153611": 16,
+      "gas:candidate-vibid:4504020153008": 52,
+      "gas:candidate-vibid:4504020153520": 13,
+      "gas:candidate-vibid:4504020153804": 20,
+      "gas:candidate-vibid:4504020153401": 206,
+      "gas:candidate-vibid:4504020153344": 60,
+      "gas:candidate-vibid:4504020153136": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005533&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005533&type=464",
@@ -449,14 +449,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 97,
-      "Барановский Дмитрий Андреевич": 18,
-      "Безлер Юрий Викторович": 78,
-      "Карлов Сергей Сергеевич": 21,
-      "Осипов Олег Борисович": 10,
-      "Серова Елена Олеговна": 287,
-      "Фёдоров Виталий Владимирович": 89,
-      "Чернышов Игорь Михайлович": 22
+      "gas:candidate-vibid:4504020153555": 97,
+      "gas:candidate-vibid:4504020153611": 18,
+      "gas:candidate-vibid:4504020153008": 78,
+      "gas:candidate-vibid:4504020153520": 21,
+      "gas:candidate-vibid:4504020153804": 10,
+      "gas:candidate-vibid:4504020153401": 287,
+      "gas:candidate-vibid:4504020153344": 89,
+      "gas:candidate-vibid:4504020153136": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005533&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005533&type=464",
@@ -507,14 +507,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 89,
-      "Барановский Дмитрий Андреевич": 18,
-      "Безлер Юрий Викторович": 76,
-      "Карлов Сергей Сергеевич": 23,
-      "Осипов Олег Борисович": 12,
-      "Серова Елена Олеговна": 224,
-      "Фёдоров Виталий Владимирович": 52,
-      "Чернышов Игорь Михайлович": 26
+      "gas:candidate-vibid:4504020153555": 89,
+      "gas:candidate-vibid:4504020153611": 18,
+      "gas:candidate-vibid:4504020153008": 76,
+      "gas:candidate-vibid:4504020153520": 23,
+      "gas:candidate-vibid:4504020153804": 12,
+      "gas:candidate-vibid:4504020153401": 224,
+      "gas:candidate-vibid:4504020153344": 52,
+      "gas:candidate-vibid:4504020153136": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005533&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005533&type=464",
@@ -565,14 +565,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 101,
-      "Барановский Дмитрий Андреевич": 28,
-      "Безлер Юрий Викторович": 61,
-      "Карлов Сергей Сергеевич": 19,
-      "Осипов Олег Борисович": 15,
-      "Серова Елена Олеговна": 267,
-      "Фёдоров Виталий Владимирович": 67,
-      "Чернышов Игорь Михайлович": 22
+      "gas:candidate-vibid:4504020153555": 101,
+      "gas:candidate-vibid:4504020153611": 28,
+      "gas:candidate-vibid:4504020153008": 61,
+      "gas:candidate-vibid:4504020153520": 19,
+      "gas:candidate-vibid:4504020153804": 15,
+      "gas:candidate-vibid:4504020153401": 267,
+      "gas:candidate-vibid:4504020153344": 67,
+      "gas:candidate-vibid:4504020153136": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005533&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005533&type=464",
@@ -623,14 +623,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 85,
-      "Барановский Дмитрий Андреевич": 29,
-      "Безлер Юрий Викторович": 101,
-      "Карлов Сергей Сергеевич": 25,
-      "Осипов Олег Борисович": 17,
-      "Серова Елена Олеговна": 307,
-      "Фёдоров Виталий Владимирович": 67,
-      "Чернышов Игорь Михайлович": 25
+      "gas:candidate-vibid:4504020153555": 85,
+      "gas:candidate-vibid:4504020153611": 29,
+      "gas:candidate-vibid:4504020153008": 101,
+      "gas:candidate-vibid:4504020153520": 25,
+      "gas:candidate-vibid:4504020153804": 17,
+      "gas:candidate-vibid:4504020153401": 307,
+      "gas:candidate-vibid:4504020153344": 67,
+      "gas:candidate-vibid:4504020153136": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005533&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005533&type=464",
@@ -681,14 +681,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 92,
-      "Барановский Дмитрий Андреевич": 26,
-      "Безлер Юрий Викторович": 95,
-      "Карлов Сергей Сергеевич": 31,
-      "Осипов Олег Борисович": 32,
-      "Серова Елена Олеговна": 344,
-      "Фёдоров Виталий Владимирович": 70,
-      "Чернышов Игорь Михайлович": 23
+      "gas:candidate-vibid:4504020153555": 92,
+      "gas:candidate-vibid:4504020153611": 26,
+      "gas:candidate-vibid:4504020153008": 95,
+      "gas:candidate-vibid:4504020153520": 31,
+      "gas:candidate-vibid:4504020153804": 32,
+      "gas:candidate-vibid:4504020153401": 344,
+      "gas:candidate-vibid:4504020153344": 70,
+      "gas:candidate-vibid:4504020153136": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005533&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005533&type=464",
@@ -739,14 +739,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 62,
-      "Барановский Дмитрий Андреевич": 26,
-      "Безлер Юрий Викторович": 71,
-      "Карлов Сергей Сергеевич": 18,
-      "Осипов Олег Борисович": 8,
-      "Серова Елена Олеговна": 279,
-      "Фёдоров Виталий Владимирович": 72,
-      "Чернышов Игорь Михайлович": 24
+      "gas:candidate-vibid:4504020153555": 62,
+      "gas:candidate-vibid:4504020153611": 26,
+      "gas:candidate-vibid:4504020153008": 71,
+      "gas:candidate-vibid:4504020153520": 18,
+      "gas:candidate-vibid:4504020153804": 8,
+      "gas:candidate-vibid:4504020153401": 279,
+      "gas:candidate-vibid:4504020153344": 72,
+      "gas:candidate-vibid:4504020153136": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005533&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005533&type=464",
@@ -797,14 +797,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 29,
-      "Барановский Дмитрий Андреевич": 7,
-      "Безлер Юрий Викторович": 25,
-      "Карлов Сергей Сергеевич": 6,
-      "Осипов Олег Борисович": 6,
-      "Серова Елена Олеговна": 92,
-      "Фёдоров Виталий Владимирович": 26,
-      "Чернышов Игорь Михайлович": 11
+      "gas:candidate-vibid:4504020153555": 29,
+      "gas:candidate-vibid:4504020153611": 7,
+      "gas:candidate-vibid:4504020153008": 25,
+      "gas:candidate-vibid:4504020153520": 6,
+      "gas:candidate-vibid:4504020153804": 6,
+      "gas:candidate-vibid:4504020153401": 92,
+      "gas:candidate-vibid:4504020153344": 26,
+      "gas:candidate-vibid:4504020153136": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005533&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005533&type=464",
@@ -855,14 +855,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 68,
-      "Барановский Дмитрий Андреевич": 14,
-      "Безлер Юрий Викторович": 59,
-      "Карлов Сергей Сергеевич": 11,
-      "Осипов Олег Борисович": 11,
-      "Серова Елена Олеговна": 196,
-      "Фёдоров Виталий Владимирович": 70,
-      "Чернышов Игорь Михайлович": 18
+      "gas:candidate-vibid:4504020153555": 68,
+      "gas:candidate-vibid:4504020153611": 14,
+      "gas:candidate-vibid:4504020153008": 59,
+      "gas:candidate-vibid:4504020153520": 11,
+      "gas:candidate-vibid:4504020153804": 11,
+      "gas:candidate-vibid:4504020153401": 196,
+      "gas:candidate-vibid:4504020153344": 70,
+      "gas:candidate-vibid:4504020153136": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005533&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005533&type=464",
@@ -913,14 +913,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 87,
-      "Барановский Дмитрий Андреевич": 16,
-      "Безлер Юрий Викторович": 73,
-      "Карлов Сергей Сергеевич": 12,
-      "Осипов Олег Борисович": 14,
-      "Серова Елена Олеговна": 247,
-      "Фёдоров Виталий Владимирович": 88,
-      "Чернышов Игорь Михайлович": 21
+      "gas:candidate-vibid:4504020153555": 87,
+      "gas:candidate-vibid:4504020153611": 16,
+      "gas:candidate-vibid:4504020153008": 73,
+      "gas:candidate-vibid:4504020153520": 12,
+      "gas:candidate-vibid:4504020153804": 14,
+      "gas:candidate-vibid:4504020153401": 247,
+      "gas:candidate-vibid:4504020153344": 88,
+      "gas:candidate-vibid:4504020153136": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005533&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005533&type=464",
@@ -971,14 +971,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 106,
-      "Барановский Дмитрий Андреевич": 27,
-      "Безлер Юрий Викторович": 81,
-      "Карлов Сергей Сергеевич": 22,
-      "Осипов Олег Борисович": 10,
-      "Серова Елена Олеговна": 309,
-      "Фёдоров Виталий Владимирович": 77,
-      "Чернышов Игорь Михайлович": 36
+      "gas:candidate-vibid:4504020153555": 106,
+      "gas:candidate-vibid:4504020153611": 27,
+      "gas:candidate-vibid:4504020153008": 81,
+      "gas:candidate-vibid:4504020153520": 22,
+      "gas:candidate-vibid:4504020153804": 10,
+      "gas:candidate-vibid:4504020153401": 309,
+      "gas:candidate-vibid:4504020153344": 77,
+      "gas:candidate-vibid:4504020153136": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005533&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005533&type=464",
@@ -1029,14 +1029,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 63,
-      "Барановский Дмитрий Андреевич": 9,
-      "Безлер Юрий Викторович": 46,
-      "Карлов Сергей Сергеевич": 11,
-      "Осипов Олег Борисович": 5,
-      "Серова Елена Олеговна": 184,
-      "Фёдоров Виталий Владимирович": 54,
-      "Чернышов Игорь Михайлович": 16
+      "gas:candidate-vibid:4504020153555": 63,
+      "gas:candidate-vibid:4504020153611": 9,
+      "gas:candidate-vibid:4504020153008": 46,
+      "gas:candidate-vibid:4504020153520": 11,
+      "gas:candidate-vibid:4504020153804": 5,
+      "gas:candidate-vibid:4504020153401": 184,
+      "gas:candidate-vibid:4504020153344": 54,
+      "gas:candidate-vibid:4504020153136": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005533&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005533&type=464",
@@ -1087,14 +1087,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 53,
-      "Барановский Дмитрий Андреевич": 17,
-      "Безлер Юрий Викторович": 58,
-      "Карлов Сергей Сергеевич": 13,
-      "Осипов Олег Борисович": 10,
-      "Серова Елена Олеговна": 165,
-      "Фёдоров Виталий Владимирович": 68,
-      "Чернышов Игорь Михайлович": 14
+      "gas:candidate-vibid:4504020153555": 53,
+      "gas:candidate-vibid:4504020153611": 17,
+      "gas:candidate-vibid:4504020153008": 58,
+      "gas:candidate-vibid:4504020153520": 13,
+      "gas:candidate-vibid:4504020153804": 10,
+      "gas:candidate-vibid:4504020153401": 165,
+      "gas:candidate-vibid:4504020153344": 68,
+      "gas:candidate-vibid:4504020153136": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005533&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005533&type=464",
@@ -1145,14 +1145,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 72,
-      "Барановский Дмитрий Андреевич": 31,
-      "Безлер Юрий Викторович": 76,
-      "Карлов Сергей Сергеевич": 42,
-      "Осипов Олег Борисович": 35,
-      "Серова Елена Олеговна": 539,
-      "Фёдоров Виталий Владимирович": 73,
-      "Чернышов Игорь Михайлович": 20
+      "gas:candidate-vibid:4504020153555": 72,
+      "gas:candidate-vibid:4504020153611": 31,
+      "gas:candidate-vibid:4504020153008": 76,
+      "gas:candidate-vibid:4504020153520": 42,
+      "gas:candidate-vibid:4504020153804": 35,
+      "gas:candidate-vibid:4504020153401": 539,
+      "gas:candidate-vibid:4504020153344": 73,
+      "gas:candidate-vibid:4504020153136": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005533&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005533&type=464",
@@ -1203,14 +1203,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 80,
-      "Барановский Дмитрий Андреевич": 14,
-      "Безлер Юрий Викторович": 59,
-      "Карлов Сергей Сергеевич": 6,
-      "Осипов Олег Борисович": 4,
-      "Серова Елена Олеговна": 164,
-      "Фёдоров Виталий Владимирович": 59,
-      "Чернышов Игорь Михайлович": 15
+      "gas:candidate-vibid:4504020153555": 80,
+      "gas:candidate-vibid:4504020153611": 14,
+      "gas:candidate-vibid:4504020153008": 59,
+      "gas:candidate-vibid:4504020153520": 6,
+      "gas:candidate-vibid:4504020153804": 4,
+      "gas:candidate-vibid:4504020153401": 164,
+      "gas:candidate-vibid:4504020153344": 59,
+      "gas:candidate-vibid:4504020153136": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005533&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005533&type=464",
@@ -1261,14 +1261,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 27,
-      "Барановский Дмитрий Андреевич": 5,
-      "Безлер Юрий Викторович": 17,
-      "Карлов Сергей Сергеевич": 10,
-      "Осипов Олег Борисович": 3,
-      "Серова Елена Олеговна": 89,
-      "Фёдоров Виталий Владимирович": 20,
-      "Чернышов Игорь Михайлович": 10
+      "gas:candidate-vibid:4504020153555": 27,
+      "gas:candidate-vibid:4504020153611": 5,
+      "gas:candidate-vibid:4504020153008": 17,
+      "gas:candidate-vibid:4504020153520": 10,
+      "gas:candidate-vibid:4504020153804": 3,
+      "gas:candidate-vibid:4504020153401": 89,
+      "gas:candidate-vibid:4504020153344": 20,
+      "gas:candidate-vibid:4504020153136": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005533&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005533&type=464",
@@ -1319,14 +1319,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 8,
-      "Барановский Дмитрий Андреевич": 4,
-      "Безлер Юрий Викторович": 7,
-      "Карлов Сергей Сергеевич": 3,
-      "Осипов Олег Борисович": 0,
-      "Серова Елена Олеговна": 40,
-      "Фёдоров Виталий Владимирович": 6,
-      "Чернышов Игорь Михайлович": 7
+      "gas:candidate-vibid:4504020153555": 8,
+      "gas:candidate-vibid:4504020153611": 4,
+      "gas:candidate-vibid:4504020153008": 7,
+      "gas:candidate-vibid:4504020153520": 3,
+      "gas:candidate-vibid:4504020153804": 0,
+      "gas:candidate-vibid:4504020153401": 40,
+      "gas:candidate-vibid:4504020153344": 6,
+      "gas:candidate-vibid:4504020153136": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005533&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005533&type=464",
@@ -1377,14 +1377,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 16,
-      "Барановский Дмитрий Андреевич": 4,
-      "Безлер Юрий Викторович": 7,
-      "Карлов Сергей Сергеевич": 5,
-      "Осипов Олег Борисович": 2,
-      "Серова Елена Олеговна": 54,
-      "Фёдоров Виталий Владимирович": 16,
-      "Чернышов Игорь Михайлович": 8
+      "gas:candidate-vibid:4504020153555": 16,
+      "gas:candidate-vibid:4504020153611": 4,
+      "gas:candidate-vibid:4504020153008": 7,
+      "gas:candidate-vibid:4504020153520": 5,
+      "gas:candidate-vibid:4504020153804": 2,
+      "gas:candidate-vibid:4504020153401": 54,
+      "gas:candidate-vibid:4504020153344": 16,
+      "gas:candidate-vibid:4504020153136": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005533&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005533&type=464",
@@ -1435,14 +1435,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 1,
-      "Барановский Дмитрий Андреевич": 0,
-      "Безлер Юрий Викторович": 3,
-      "Карлов Сергей Сергеевич": 1,
-      "Осипов Олег Борисович": 2,
-      "Серова Елена Олеговна": 26,
-      "Фёдоров Виталий Владимирович": 5,
-      "Чернышов Игорь Михайлович": 0
+      "gas:candidate-vibid:4504020153555": 1,
+      "gas:candidate-vibid:4504020153611": 0,
+      "gas:candidate-vibid:4504020153008": 3,
+      "gas:candidate-vibid:4504020153520": 1,
+      "gas:candidate-vibid:4504020153804": 2,
+      "gas:candidate-vibid:4504020153401": 26,
+      "gas:candidate-vibid:4504020153344": 5,
+      "gas:candidate-vibid:4504020153136": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005533&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005533&type=464",
@@ -1493,14 +1493,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 3,
-      "Барановский Дмитрий Андреевич": 2,
-      "Безлер Юрий Викторович": 7,
-      "Карлов Сергей Сергеевич": 0,
-      "Осипов Олег Борисович": 1,
-      "Серова Елена Олеговна": 11,
-      "Фёдоров Виталий Владимирович": 0,
-      "Чернышов Игорь Михайлович": 0
+      "gas:candidate-vibid:4504020153555": 3,
+      "gas:candidate-vibid:4504020153611": 2,
+      "gas:candidate-vibid:4504020153008": 7,
+      "gas:candidate-vibid:4504020153520": 0,
+      "gas:candidate-vibid:4504020153804": 1,
+      "gas:candidate-vibid:4504020153401": 11,
+      "gas:candidate-vibid:4504020153344": 0,
+      "gas:candidate-vibid:4504020153136": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005533&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005533&type=464",
@@ -1551,14 +1551,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 4,
-      "Барановский Дмитрий Андреевич": 0,
-      "Безлер Юрий Викторович": 4,
-      "Карлов Сергей Сергеевич": 1,
-      "Осипов Олег Борисович": 0,
-      "Серова Елена Олеговна": 7,
-      "Фёдоров Виталий Владимирович": 2,
-      "Чернышов Игорь Михайлович": 0
+      "gas:candidate-vibid:4504020153555": 4,
+      "gas:candidate-vibid:4504020153611": 0,
+      "gas:candidate-vibid:4504020153008": 4,
+      "gas:candidate-vibid:4504020153520": 1,
+      "gas:candidate-vibid:4504020153804": 0,
+      "gas:candidate-vibid:4504020153401": 7,
+      "gas:candidate-vibid:4504020153344": 2,
+      "gas:candidate-vibid:4504020153136": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005533&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005533&type=464",
@@ -1609,14 +1609,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 43,
-      "Барановский Дмитрий Андреевич": 25,
-      "Безлер Юрий Викторович": 59,
-      "Карлов Сергей Сергеевич": 32,
-      "Осипов Олег Борисович": 14,
-      "Серова Елена Олеговна": 322,
-      "Фёдоров Виталий Владимирович": 87,
-      "Чернышов Игорь Михайлович": 38
+      "gas:candidate-vibid:4504020153555": 43,
+      "gas:candidate-vibid:4504020153611": 25,
+      "gas:candidate-vibid:4504020153008": 59,
+      "gas:candidate-vibid:4504020153520": 32,
+      "gas:candidate-vibid:4504020153804": 14,
+      "gas:candidate-vibid:4504020153401": 322,
+      "gas:candidate-vibid:4504020153344": 87,
+      "gas:candidate-vibid:4504020153136": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005534&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005534&type=464",
@@ -1667,14 +1667,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 82,
-      "Барановский Дмитрий Андреевич": 32,
-      "Безлер Юрий Викторович": 76,
-      "Карлов Сергей Сергеевич": 29,
-      "Осипов Олег Борисович": 26,
-      "Серова Елена Олеговна": 281,
-      "Фёдоров Виталий Владимирович": 66,
-      "Чернышов Игорь Михайлович": 29
+      "gas:candidate-vibid:4504020153555": 82,
+      "gas:candidate-vibid:4504020153611": 32,
+      "gas:candidate-vibid:4504020153008": 76,
+      "gas:candidate-vibid:4504020153520": 29,
+      "gas:candidate-vibid:4504020153804": 26,
+      "gas:candidate-vibid:4504020153401": 281,
+      "gas:candidate-vibid:4504020153344": 66,
+      "gas:candidate-vibid:4504020153136": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005534&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005534&type=464",
@@ -1725,14 +1725,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 35,
-      "Барановский Дмитрий Андреевич": 17,
-      "Безлер Юрий Викторович": 45,
-      "Карлов Сергей Сергеевич": 8,
-      "Осипов Олег Борисович": 13,
-      "Серова Елена Олеговна": 194,
-      "Фёдоров Виталий Владимирович": 44,
-      "Чернышов Игорь Михайлович": 19
+      "gas:candidate-vibid:4504020153555": 35,
+      "gas:candidate-vibid:4504020153611": 17,
+      "gas:candidate-vibid:4504020153008": 45,
+      "gas:candidate-vibid:4504020153520": 8,
+      "gas:candidate-vibid:4504020153804": 13,
+      "gas:candidate-vibid:4504020153401": 194,
+      "gas:candidate-vibid:4504020153344": 44,
+      "gas:candidate-vibid:4504020153136": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005534&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005534&type=464",
@@ -1783,14 +1783,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 35,
-      "Барановский Дмитрий Андреевич": 11,
-      "Безлер Юрий Викторович": 66,
-      "Карлов Сергей Сергеевич": 19,
-      "Осипов Олег Борисович": 9,
-      "Серова Елена Олеговна": 306,
-      "Фёдоров Виталий Владимирович": 44,
-      "Чернышов Игорь Михайлович": 15
+      "gas:candidate-vibid:4504020153555": 35,
+      "gas:candidate-vibid:4504020153611": 11,
+      "gas:candidate-vibid:4504020153008": 66,
+      "gas:candidate-vibid:4504020153520": 19,
+      "gas:candidate-vibid:4504020153804": 9,
+      "gas:candidate-vibid:4504020153401": 306,
+      "gas:candidate-vibid:4504020153344": 44,
+      "gas:candidate-vibid:4504020153136": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005534&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005534&type=464",
@@ -1841,14 +1841,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 21,
-      "Барановский Дмитрий Андреевич": 16,
-      "Безлер Юрий Викторович": 55,
-      "Карлов Сергей Сергеевич": 7,
-      "Осипов Олег Борисович": 14,
-      "Серова Елена Олеговна": 148,
-      "Фёдоров Виталий Владимирович": 66,
-      "Чернышов Игорь Михайлович": 20
+      "gas:candidate-vibid:4504020153555": 21,
+      "gas:candidate-vibid:4504020153611": 16,
+      "gas:candidate-vibid:4504020153008": 55,
+      "gas:candidate-vibid:4504020153520": 7,
+      "gas:candidate-vibid:4504020153804": 14,
+      "gas:candidate-vibid:4504020153401": 148,
+      "gas:candidate-vibid:4504020153344": 66,
+      "gas:candidate-vibid:4504020153136": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005534&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005534&type=464",
@@ -1899,14 +1899,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 50,
-      "Барановский Дмитрий Андреевич": 25,
-      "Безлер Юрий Викторович": 70,
-      "Карлов Сергей Сергеевич": 15,
-      "Осипов Олег Борисович": 14,
-      "Серова Елена Олеговна": 296,
-      "Фёдоров Виталий Владимирович": 67,
-      "Чернышов Игорь Михайлович": 32
+      "gas:candidate-vibid:4504020153555": 50,
+      "gas:candidate-vibid:4504020153611": 25,
+      "gas:candidate-vibid:4504020153008": 70,
+      "gas:candidate-vibid:4504020153520": 15,
+      "gas:candidate-vibid:4504020153804": 14,
+      "gas:candidate-vibid:4504020153401": 296,
+      "gas:candidate-vibid:4504020153344": 67,
+      "gas:candidate-vibid:4504020153136": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005534&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005534&type=464",
@@ -1957,14 +1957,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 28,
-      "Барановский Дмитрий Андреевич": 13,
-      "Безлер Юрий Викторович": 64,
-      "Карлов Сергей Сергеевич": 7,
-      "Осипов Олег Борисович": 14,
-      "Серова Елена Олеговна": 246,
-      "Фёдоров Виталий Владимирович": 54,
-      "Чернышов Игорь Михайлович": 22
+      "gas:candidate-vibid:4504020153555": 28,
+      "gas:candidate-vibid:4504020153611": 13,
+      "gas:candidate-vibid:4504020153008": 64,
+      "gas:candidate-vibid:4504020153520": 7,
+      "gas:candidate-vibid:4504020153804": 14,
+      "gas:candidate-vibid:4504020153401": 246,
+      "gas:candidate-vibid:4504020153344": 54,
+      "gas:candidate-vibid:4504020153136": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005534&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005534&type=464",
@@ -2015,14 +2015,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 44,
-      "Барановский Дмитрий Андреевич": 19,
-      "Безлер Юрий Викторович": 81,
-      "Карлов Сергей Сергеевич": 14,
-      "Осипов Олег Борисович": 17,
-      "Серова Елена Олеговна": 281,
-      "Фёдоров Виталий Владимирович": 65,
-      "Чернышов Игорь Михайлович": 26
+      "gas:candidate-vibid:4504020153555": 44,
+      "gas:candidate-vibid:4504020153611": 19,
+      "gas:candidate-vibid:4504020153008": 81,
+      "gas:candidate-vibid:4504020153520": 14,
+      "gas:candidate-vibid:4504020153804": 17,
+      "gas:candidate-vibid:4504020153401": 281,
+      "gas:candidate-vibid:4504020153344": 65,
+      "gas:candidate-vibid:4504020153136": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005534&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005534&type=464",
@@ -2073,14 +2073,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 35,
-      "Барановский Дмитрий Андреевич": 18,
-      "Безлер Юрий Викторович": 33,
-      "Карлов Сергей Сергеевич": 20,
-      "Осипов Олег Борисович": 11,
-      "Серова Елена Олеговна": 218,
-      "Фёдоров Виталий Владимирович": 43,
-      "Чернышов Игорь Михайлович": 15
+      "gas:candidate-vibid:4504020153555": 35,
+      "gas:candidate-vibid:4504020153611": 18,
+      "gas:candidate-vibid:4504020153008": 33,
+      "gas:candidate-vibid:4504020153520": 20,
+      "gas:candidate-vibid:4504020153804": 11,
+      "gas:candidate-vibid:4504020153401": 218,
+      "gas:candidate-vibid:4504020153344": 43,
+      "gas:candidate-vibid:4504020153136": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005534&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005534&type=464",
@@ -2131,14 +2131,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 27,
-      "Барановский Дмитрий Андреевич": 10,
-      "Безлер Юрий Викторович": 36,
-      "Карлов Сергей Сергеевич": 12,
-      "Осипов Олег Борисович": 15,
-      "Серова Елена Олеговна": 340,
-      "Фёдоров Виталий Владимирович": 41,
-      "Чернышов Игорь Михайлович": 27
+      "gas:candidate-vibid:4504020153555": 27,
+      "gas:candidate-vibid:4504020153611": 10,
+      "gas:candidate-vibid:4504020153008": 36,
+      "gas:candidate-vibid:4504020153520": 12,
+      "gas:candidate-vibid:4504020153804": 15,
+      "gas:candidate-vibid:4504020153401": 340,
+      "gas:candidate-vibid:4504020153344": 41,
+      "gas:candidate-vibid:4504020153136": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005534&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005534&type=464",
@@ -2189,14 +2189,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 21,
-      "Барановский Дмитрий Андреевич": 12,
-      "Безлер Юрий Викторович": 42,
-      "Карлов Сергей Сергеевич": 4,
-      "Осипов Олег Борисович": 5,
-      "Серова Елена Олеговна": 168,
-      "Фёдоров Виталий Владимирович": 29,
-      "Чернышов Игорь Михайлович": 11
+      "gas:candidate-vibid:4504020153555": 21,
+      "gas:candidate-vibid:4504020153611": 12,
+      "gas:candidate-vibid:4504020153008": 42,
+      "gas:candidate-vibid:4504020153520": 4,
+      "gas:candidate-vibid:4504020153804": 5,
+      "gas:candidate-vibid:4504020153401": 168,
+      "gas:candidate-vibid:4504020153344": 29,
+      "gas:candidate-vibid:4504020153136": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005534&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005534&type=464",
@@ -2247,14 +2247,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 34,
-      "Барановский Дмитрий Андреевич": 18,
-      "Безлер Юрий Викторович": 71,
-      "Карлов Сергей Сергеевич": 22,
-      "Осипов Олег Борисович": 12,
-      "Серова Елена Олеговна": 323,
-      "Фёдоров Виталий Владимирович": 79,
-      "Чернышов Игорь Михайлович": 22
+      "gas:candidate-vibid:4504020153555": 34,
+      "gas:candidate-vibid:4504020153611": 18,
+      "gas:candidate-vibid:4504020153008": 71,
+      "gas:candidate-vibid:4504020153520": 22,
+      "gas:candidate-vibid:4504020153804": 12,
+      "gas:candidate-vibid:4504020153401": 323,
+      "gas:candidate-vibid:4504020153344": 79,
+      "gas:candidate-vibid:4504020153136": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005534&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005534&type=464",
@@ -2305,14 +2305,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 46,
-      "Барановский Дмитрий Андреевич": 31,
-      "Безлер Юрий Викторович": 80,
-      "Карлов Сергей Сергеевич": 27,
-      "Осипов Олег Борисович": 19,
-      "Серова Елена Олеговна": 418,
-      "Фёдоров Виталий Владимирович": 78,
-      "Чернышов Игорь Михайлович": 19
+      "gas:candidate-vibid:4504020153555": 46,
+      "gas:candidate-vibid:4504020153611": 31,
+      "gas:candidate-vibid:4504020153008": 80,
+      "gas:candidate-vibid:4504020153520": 27,
+      "gas:candidate-vibid:4504020153804": 19,
+      "gas:candidate-vibid:4504020153401": 418,
+      "gas:candidate-vibid:4504020153344": 78,
+      "gas:candidate-vibid:4504020153136": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005534&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005534&type=464",
@@ -2363,14 +2363,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 51,
-      "Барановский Дмитрий Андреевич": 14,
-      "Безлер Юрий Викторович": 30,
-      "Карлов Сергей Сергеевич": 12,
-      "Осипов Олег Борисович": 8,
-      "Серова Елена Олеговна": 241,
-      "Фёдоров Виталий Владимирович": 41,
-      "Чернышов Игорь Михайлович": 19
+      "gas:candidate-vibid:4504020153555": 51,
+      "gas:candidate-vibid:4504020153611": 14,
+      "gas:candidate-vibid:4504020153008": 30,
+      "gas:candidate-vibid:4504020153520": 12,
+      "gas:candidate-vibid:4504020153804": 8,
+      "gas:candidate-vibid:4504020153401": 241,
+      "gas:candidate-vibid:4504020153344": 41,
+      "gas:candidate-vibid:4504020153136": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005534&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005534&type=464",
@@ -2421,14 +2421,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 54,
-      "Барановский Дмитрий Андреевич": 18,
-      "Безлер Юрий Викторович": 74,
-      "Карлов Сергей Сергеевич": 11,
-      "Осипов Олег Борисович": 12,
-      "Серова Елена Олеговна": 263,
-      "Фёдоров Виталий Владимирович": 57,
-      "Чернышов Игорь Михайлович": 25
+      "gas:candidate-vibid:4504020153555": 54,
+      "gas:candidate-vibid:4504020153611": 18,
+      "gas:candidate-vibid:4504020153008": 74,
+      "gas:candidate-vibid:4504020153520": 11,
+      "gas:candidate-vibid:4504020153804": 12,
+      "gas:candidate-vibid:4504020153401": 263,
+      "gas:candidate-vibid:4504020153344": 57,
+      "gas:candidate-vibid:4504020153136": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005534&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005534&type=464",
@@ -2479,14 +2479,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 40,
-      "Барановский Дмитрий Андреевич": 13,
-      "Безлер Юрий Викторович": 66,
-      "Карлов Сергей Сергеевич": 15,
-      "Осипов Олег Борисович": 14,
-      "Серова Елена Олеговна": 237,
-      "Фёдоров Виталий Владимирович": 37,
-      "Чернышов Игорь Михайлович": 14
+      "gas:candidate-vibid:4504020153555": 40,
+      "gas:candidate-vibid:4504020153611": 13,
+      "gas:candidate-vibid:4504020153008": 66,
+      "gas:candidate-vibid:4504020153520": 15,
+      "gas:candidate-vibid:4504020153804": 14,
+      "gas:candidate-vibid:4504020153401": 237,
+      "gas:candidate-vibid:4504020153344": 37,
+      "gas:candidate-vibid:4504020153136": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005534&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005534&type=464",
@@ -2537,14 +2537,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 13,
-      "Барановский Дмитрий Андреевич": 8,
-      "Безлер Юрий Викторович": 34,
-      "Карлов Сергей Сергеевич": 8,
-      "Осипов Олег Борисович": 8,
-      "Серова Елена Олеговна": 154,
-      "Фёдоров Виталий Владимирович": 13,
-      "Чернышов Игорь Михайлович": 7
+      "gas:candidate-vibid:4504020153555": 13,
+      "gas:candidate-vibid:4504020153611": 8,
+      "gas:candidate-vibid:4504020153008": 34,
+      "gas:candidate-vibid:4504020153520": 8,
+      "gas:candidate-vibid:4504020153804": 8,
+      "gas:candidate-vibid:4504020153401": 154,
+      "gas:candidate-vibid:4504020153344": 13,
+      "gas:candidate-vibid:4504020153136": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005534&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005534&type=464",
@@ -2595,14 +2595,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 24,
-      "Барановский Дмитрий Андреевич": 7,
-      "Безлер Юрий Викторович": 41,
-      "Карлов Сергей Сергеевич": 9,
-      "Осипов Олег Борисович": 8,
-      "Серова Елена Олеговна": 102,
-      "Фёдоров Виталий Владимирович": 18,
-      "Чернышов Игорь Михайлович": 14
+      "gas:candidate-vibid:4504020153555": 24,
+      "gas:candidate-vibid:4504020153611": 7,
+      "gas:candidate-vibid:4504020153008": 41,
+      "gas:candidate-vibid:4504020153520": 9,
+      "gas:candidate-vibid:4504020153804": 8,
+      "gas:candidate-vibid:4504020153401": 102,
+      "gas:candidate-vibid:4504020153344": 18,
+      "gas:candidate-vibid:4504020153136": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005534&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005534&type=464",
@@ -2653,14 +2653,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 46,
-      "Барановский Дмитрий Андреевич": 19,
-      "Безлер Юрий Викторович": 37,
-      "Карлов Сергей Сергеевич": 10,
-      "Осипов Олег Борисович": 9,
-      "Серова Елена Олеговна": 167,
-      "Фёдоров Виталий Владимирович": 31,
-      "Чернышов Игорь Михайлович": 11
+      "gas:candidate-vibid:4504020153555": 46,
+      "gas:candidate-vibid:4504020153611": 19,
+      "gas:candidate-vibid:4504020153008": 37,
+      "gas:candidate-vibid:4504020153520": 10,
+      "gas:candidate-vibid:4504020153804": 9,
+      "gas:candidate-vibid:4504020153401": 167,
+      "gas:candidate-vibid:4504020153344": 31,
+      "gas:candidate-vibid:4504020153136": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005534&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005534&type=464",
@@ -2711,14 +2711,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 105,
-      "Барановский Дмитрий Андреевич": 37,
-      "Безлер Юрий Викторович": 98,
-      "Карлов Сергей Сергеевич": 21,
-      "Осипов Олег Борисович": 29,
-      "Серова Елена Олеговна": 442,
-      "Фёдоров Виталий Владимирович": 79,
-      "Чернышов Игорь Михайлович": 30
+      "gas:candidate-vibid:4504020153555": 105,
+      "gas:candidate-vibid:4504020153611": 37,
+      "gas:candidate-vibid:4504020153008": 98,
+      "gas:candidate-vibid:4504020153520": 21,
+      "gas:candidate-vibid:4504020153804": 29,
+      "gas:candidate-vibid:4504020153401": 442,
+      "gas:candidate-vibid:4504020153344": 79,
+      "gas:candidate-vibid:4504020153136": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005534&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005534&type=464",
@@ -2769,14 +2769,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 41,
-      "Барановский Дмитрий Андреевич": 9,
-      "Безлер Юрий Викторович": 39,
-      "Карлов Сергей Сергеевич": 10,
-      "Осипов Олег Борисович": 10,
-      "Серова Елена Олеговна": 172,
-      "Фёдоров Виталий Владимирович": 14,
-      "Чернышов Игорь Михайлович": 12
+      "gas:candidate-vibid:4504020153555": 41,
+      "gas:candidate-vibid:4504020153611": 9,
+      "gas:candidate-vibid:4504020153008": 39,
+      "gas:candidate-vibid:4504020153520": 10,
+      "gas:candidate-vibid:4504020153804": 10,
+      "gas:candidate-vibid:4504020153401": 172,
+      "gas:candidate-vibid:4504020153344": 14,
+      "gas:candidate-vibid:4504020153136": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005534&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005534&type=464",
@@ -2827,14 +2827,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 38,
-      "Барановский Дмитрий Андреевич": 11,
-      "Безлер Юрий Викторович": 32,
-      "Карлов Сергей Сергеевич": 15,
-      "Осипов Олег Борисович": 9,
-      "Серова Елена Олеговна": 118,
-      "Фёдоров Виталий Владимирович": 17,
-      "Чернышов Игорь Михайлович": 14
+      "gas:candidate-vibid:4504020153555": 38,
+      "gas:candidate-vibid:4504020153611": 11,
+      "gas:candidate-vibid:4504020153008": 32,
+      "gas:candidate-vibid:4504020153520": 15,
+      "gas:candidate-vibid:4504020153804": 9,
+      "gas:candidate-vibid:4504020153401": 118,
+      "gas:candidate-vibid:4504020153344": 17,
+      "gas:candidate-vibid:4504020153136": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005534&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005534&type=464",
@@ -2885,14 +2885,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 20,
-      "Барановский Дмитрий Андреевич": 11,
-      "Безлер Юрий Викторович": 53,
-      "Карлов Сергей Сергеевич": 8,
-      "Осипов Олег Борисович": 10,
-      "Серова Елена Олеговна": 158,
-      "Фёдоров Виталий Владимирович": 60,
-      "Чернышов Игорь Михайлович": 14
+      "gas:candidate-vibid:4504020153555": 20,
+      "gas:candidate-vibid:4504020153611": 11,
+      "gas:candidate-vibid:4504020153008": 53,
+      "gas:candidate-vibid:4504020153520": 8,
+      "gas:candidate-vibid:4504020153804": 10,
+      "gas:candidate-vibid:4504020153401": 158,
+      "gas:candidate-vibid:4504020153344": 60,
+      "gas:candidate-vibid:4504020153136": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005534&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005534&type=464",
@@ -2943,14 +2943,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 34,
-      "Барановский Дмитрий Андреевич": 12,
-      "Безлер Юрий Викторович": 63,
-      "Карлов Сергей Сергеевич": 15,
-      "Осипов Олег Борисович": 12,
-      "Серова Елена Олеговна": 199,
-      "Фёдоров Виталий Владимирович": 46,
-      "Чернышов Игорь Михайлович": 18
+      "gas:candidate-vibid:4504020153555": 34,
+      "gas:candidate-vibid:4504020153611": 12,
+      "gas:candidate-vibid:4504020153008": 63,
+      "gas:candidate-vibid:4504020153520": 15,
+      "gas:candidate-vibid:4504020153804": 12,
+      "gas:candidate-vibid:4504020153401": 199,
+      "gas:candidate-vibid:4504020153344": 46,
+      "gas:candidate-vibid:4504020153136": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005534&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005534&type=464",
@@ -3001,14 +3001,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 37,
-      "Барановский Дмитрий Андреевич": 20,
-      "Безлер Юрий Викторович": 30,
-      "Карлов Сергей Сергеевич": 15,
-      "Осипов Олег Борисович": 12,
-      "Серова Елена Олеговна": 266,
-      "Фёдоров Виталий Владимирович": 49,
-      "Чернышов Игорь Михайлович": 18
+      "gas:candidate-vibid:4504020153555": 37,
+      "gas:candidate-vibid:4504020153611": 20,
+      "gas:candidate-vibid:4504020153008": 30,
+      "gas:candidate-vibid:4504020153520": 15,
+      "gas:candidate-vibid:4504020153804": 12,
+      "gas:candidate-vibid:4504020153401": 266,
+      "gas:candidate-vibid:4504020153344": 49,
+      "gas:candidate-vibid:4504020153136": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005534&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005534&type=464",
@@ -3059,14 +3059,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 15,
-      "Барановский Дмитрий Андреевич": 3,
-      "Безлер Юрий Викторович": 7,
-      "Карлов Сергей Сергеевич": 7,
-      "Осипов Олег Борисович": 5,
-      "Серова Елена Олеговна": 81,
-      "Фёдоров Виталий Владимирович": 17,
-      "Чернышов Игорь Михайлович": 7
+      "gas:candidate-vibid:4504020153555": 15,
+      "gas:candidate-vibid:4504020153611": 3,
+      "gas:candidate-vibid:4504020153008": 7,
+      "gas:candidate-vibid:4504020153520": 7,
+      "gas:candidate-vibid:4504020153804": 5,
+      "gas:candidate-vibid:4504020153401": 81,
+      "gas:candidate-vibid:4504020153344": 17,
+      "gas:candidate-vibid:4504020153136": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005534&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005534&type=464",
@@ -3117,14 +3117,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 100,
-      "Барановский Дмитрий Андреевич": 33,
-      "Безлер Юрий Викторович": 78,
-      "Карлов Сергей Сергеевич": 23,
-      "Осипов Олег Борисович": 21,
-      "Серова Елена Олеговна": 345,
-      "Фёдоров Виталий Владимирович": 54,
-      "Чернышов Игорь Михайлович": 34
+      "gas:candidate-vibid:4504020153555": 100,
+      "gas:candidate-vibid:4504020153611": 33,
+      "gas:candidate-vibid:4504020153008": 78,
+      "gas:candidate-vibid:4504020153520": 23,
+      "gas:candidate-vibid:4504020153804": 21,
+      "gas:candidate-vibid:4504020153401": 345,
+      "gas:candidate-vibid:4504020153344": 54,
+      "gas:candidate-vibid:4504020153136": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005534&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005534&type=464",
@@ -3175,14 +3175,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 94,
-      "Барановский Дмитрий Андреевич": 18,
-      "Безлер Юрий Викторович": 67,
-      "Карлов Сергей Сергеевич": 26,
-      "Осипов Олег Борисович": 16,
-      "Серова Елена Олеговна": 295,
-      "Фёдоров Виталий Владимирович": 55,
-      "Чернышов Игорь Михайлович": 25
+      "gas:candidate-vibid:4504020153555": 94,
+      "gas:candidate-vibid:4504020153611": 18,
+      "gas:candidate-vibid:4504020153008": 67,
+      "gas:candidate-vibid:4504020153520": 26,
+      "gas:candidate-vibid:4504020153804": 16,
+      "gas:candidate-vibid:4504020153401": 295,
+      "gas:candidate-vibid:4504020153344": 55,
+      "gas:candidate-vibid:4504020153136": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005534&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005534&type=464",
@@ -3233,14 +3233,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 50,
-      "Барановский Дмитрий Андреевич": 29,
-      "Безлер Юрий Викторович": 58,
-      "Карлов Сергей Сергеевич": 39,
-      "Осипов Олег Борисович": 24,
-      "Серова Елена Олеговна": 309,
-      "Фёдоров Виталий Владимирович": 93,
-      "Чернышов Игорь Михайлович": 25
+      "gas:candidate-vibid:4504020153555": 50,
+      "gas:candidate-vibid:4504020153611": 29,
+      "gas:candidate-vibid:4504020153008": 58,
+      "gas:candidate-vibid:4504020153520": 39,
+      "gas:candidate-vibid:4504020153804": 24,
+      "gas:candidate-vibid:4504020153401": 309,
+      "gas:candidate-vibid:4504020153344": 93,
+      "gas:candidate-vibid:4504020153136": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005534&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005534&type=464",
@@ -3291,14 +3291,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 18,
-      "Барановский Дмитрий Андреевич": 14,
-      "Безлер Юрий Викторович": 28,
-      "Карлов Сергей Сергеевич": 8,
-      "Осипов Олег Борисович": 7,
-      "Серова Елена Олеговна": 160,
-      "Фёдоров Виталий Владимирович": 32,
-      "Чернышов Игорь Михайлович": 15
+      "gas:candidate-vibid:4504020153555": 18,
+      "gas:candidate-vibid:4504020153611": 14,
+      "gas:candidate-vibid:4504020153008": 28,
+      "gas:candidate-vibid:4504020153520": 8,
+      "gas:candidate-vibid:4504020153804": 7,
+      "gas:candidate-vibid:4504020153401": 160,
+      "gas:candidate-vibid:4504020153344": 32,
+      "gas:candidate-vibid:4504020153136": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005534&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005534&type=464",
@@ -3349,14 +3349,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 47,
-      "Барановский Дмитрий Андреевич": 27,
-      "Безлер Юрий Викторович": 99,
-      "Карлов Сергей Сергеевич": 27,
-      "Осипов Олег Борисович": 22,
-      "Серова Елена Олеговна": 366,
-      "Фёдоров Виталий Владимирович": 83,
-      "Чернышов Игорь Михайлович": 30
+      "gas:candidate-vibid:4504020153555": 47,
+      "gas:candidate-vibid:4504020153611": 27,
+      "gas:candidate-vibid:4504020153008": 99,
+      "gas:candidate-vibid:4504020153520": 27,
+      "gas:candidate-vibid:4504020153804": 22,
+      "gas:candidate-vibid:4504020153401": 366,
+      "gas:candidate-vibid:4504020153344": 83,
+      "gas:candidate-vibid:4504020153136": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005534&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005534&type=464",
@@ -3407,14 +3407,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 16,
-      "Барановский Дмитрий Андреевич": 7,
-      "Безлер Юрий Викторович": 44,
-      "Карлов Сергей Сергеевич": 8,
-      "Осипов Олег Борисович": 11,
-      "Серова Елена Олеговна": 102,
-      "Фёдоров Виталий Владимирович": 10,
-      "Чернышов Игорь Михайлович": 6
+      "gas:candidate-vibid:4504020153555": 16,
+      "gas:candidate-vibid:4504020153611": 7,
+      "gas:candidate-vibid:4504020153008": 44,
+      "gas:candidate-vibid:4504020153520": 8,
+      "gas:candidate-vibid:4504020153804": 11,
+      "gas:candidate-vibid:4504020153401": 102,
+      "gas:candidate-vibid:4504020153344": 10,
+      "gas:candidate-vibid:4504020153136": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005534&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005534&type=464",
@@ -3465,14 +3465,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 42,
-      "Барановский Дмитрий Андреевич": 17,
-      "Безлер Юрий Викторович": 78,
-      "Карлов Сергей Сергеевич": 19,
-      "Осипов Олег Борисович": 17,
-      "Серова Елена Олеговна": 187,
-      "Фёдоров Виталий Владимирович": 77,
-      "Чернышов Игорь Михайлович": 29
+      "gas:candidate-vibid:4504020153555": 42,
+      "gas:candidate-vibid:4504020153611": 17,
+      "gas:candidate-vibid:4504020153008": 78,
+      "gas:candidate-vibid:4504020153520": 19,
+      "gas:candidate-vibid:4504020153804": 17,
+      "gas:candidate-vibid:4504020153401": 187,
+      "gas:candidate-vibid:4504020153344": 77,
+      "gas:candidate-vibid:4504020153136": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005534&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005534&type=464",
@@ -3523,14 +3523,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 5,
-      "Барановский Дмитрий Андреевич": 0,
-      "Безлер Юрий Викторович": 5,
-      "Карлов Сергей Сергеевич": 1,
-      "Осипов Олег Борисович": 1,
-      "Серова Елена Олеговна": 10,
-      "Фёдоров Виталий Владимирович": 4,
-      "Чернышов Игорь Михайлович": 1
+      "gas:candidate-vibid:4504020153555": 5,
+      "gas:candidate-vibid:4504020153611": 0,
+      "gas:candidate-vibid:4504020153008": 5,
+      "gas:candidate-vibid:4504020153520": 1,
+      "gas:candidate-vibid:4504020153804": 1,
+      "gas:candidate-vibid:4504020153401": 10,
+      "gas:candidate-vibid:4504020153344": 4,
+      "gas:candidate-vibid:4504020153136": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005534&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005534&type=464",
@@ -3581,14 +3581,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 17,
-      "Барановский Дмитрий Андреевич": 5,
-      "Безлер Юрий Викторович": 28,
-      "Карлов Сергей Сергеевич": 12,
-      "Осипов Олег Борисович": 14,
-      "Серова Елена Олеговна": 79,
-      "Фёдоров Виталий Владимирович": 21,
-      "Чернышов Игорь Михайлович": 5
+      "gas:candidate-vibid:4504020153555": 17,
+      "gas:candidate-vibid:4504020153611": 5,
+      "gas:candidate-vibid:4504020153008": 28,
+      "gas:candidate-vibid:4504020153520": 12,
+      "gas:candidate-vibid:4504020153804": 14,
+      "gas:candidate-vibid:4504020153401": 79,
+      "gas:candidate-vibid:4504020153344": 21,
+      "gas:candidate-vibid:4504020153136": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005534&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005534&type=464",
@@ -3639,14 +3639,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 25,
-      "Барановский Дмитрий Андреевич": 4,
-      "Безлер Юрий Викторович": 17,
-      "Карлов Сергей Сергеевич": 8,
-      "Осипов Олег Борисович": 5,
-      "Серова Елена Олеговна": 68,
-      "Фёдоров Виталий Владимирович": 22,
-      "Чернышов Игорь Михайлович": 6
+      "gas:candidate-vibid:4504020153555": 25,
+      "gas:candidate-vibid:4504020153611": 4,
+      "gas:candidate-vibid:4504020153008": 17,
+      "gas:candidate-vibid:4504020153520": 8,
+      "gas:candidate-vibid:4504020153804": 5,
+      "gas:candidate-vibid:4504020153401": 68,
+      "gas:candidate-vibid:4504020153344": 22,
+      "gas:candidate-vibid:4504020153136": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005534&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005534&type=464",
@@ -3697,14 +3697,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 86,
-      "Барановский Дмитрий Андреевич": 25,
-      "Безлер Юрий Викторович": 73,
-      "Карлов Сергей Сергеевич": 42,
-      "Осипов Олег Борисович": 44,
-      "Серова Елена Олеговна": 243,
-      "Фёдоров Виталий Владимирович": 71,
-      "Чернышов Игорь Михайлович": 15
+      "gas:candidate-vibid:4504020153555": 86,
+      "gas:candidate-vibid:4504020153611": 25,
+      "gas:candidate-vibid:4504020153008": 73,
+      "gas:candidate-vibid:4504020153520": 42,
+      "gas:candidate-vibid:4504020153804": 44,
+      "gas:candidate-vibid:4504020153401": 243,
+      "gas:candidate-vibid:4504020153344": 71,
+      "gas:candidate-vibid:4504020153136": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005534&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005534&type=464",
@@ -3755,14 +3755,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 13,
-      "Барановский Дмитрий Андреевич": 3,
-      "Безлер Юрий Викторович": 16,
-      "Карлов Сергей Сергеевич": 4,
-      "Осипов Олег Борисович": 4,
-      "Серова Елена Олеговна": 72,
-      "Фёдоров Виталий Владимирович": 5,
-      "Чернышов Игорь Михайлович": 3
+      "gas:candidate-vibid:4504020153555": 13,
+      "gas:candidate-vibid:4504020153611": 3,
+      "gas:candidate-vibid:4504020153008": 16,
+      "gas:candidate-vibid:4504020153520": 4,
+      "gas:candidate-vibid:4504020153804": 4,
+      "gas:candidate-vibid:4504020153401": 72,
+      "gas:candidate-vibid:4504020153344": 5,
+      "gas:candidate-vibid:4504020153136": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005534&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005534&type=464",
@@ -3813,14 +3813,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 6,
-      "Барановский Дмитрий Андреевич": 0,
-      "Безлер Юрий Викторович": 6,
-      "Карлов Сергей Сергеевич": 3,
-      "Осипов Олег Борисович": 4,
-      "Серова Елена Олеговна": 45,
-      "Фёдоров Виталий Владимирович": 6,
-      "Чернышов Игорь Михайлович": 3
+      "gas:candidate-vibid:4504020153555": 6,
+      "gas:candidate-vibid:4504020153611": 0,
+      "gas:candidate-vibid:4504020153008": 6,
+      "gas:candidate-vibid:4504020153520": 3,
+      "gas:candidate-vibid:4504020153804": 4,
+      "gas:candidate-vibid:4504020153401": 45,
+      "gas:candidate-vibid:4504020153344": 6,
+      "gas:candidate-vibid:4504020153136": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005534&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005534&type=464",
@@ -3871,14 +3871,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 20,
-      "Барановский Дмитрий Андреевич": 4,
-      "Безлер Юрий Викторович": 14,
-      "Карлов Сергей Сергеевич": 4,
-      "Осипов Олег Борисович": 7,
-      "Серова Елена Олеговна": 55,
-      "Фёдоров Виталий Владимирович": 9,
-      "Чернышов Игорь Михайлович": 3
+      "gas:candidate-vibid:4504020153555": 20,
+      "gas:candidate-vibid:4504020153611": 4,
+      "gas:candidate-vibid:4504020153008": 14,
+      "gas:candidate-vibid:4504020153520": 4,
+      "gas:candidate-vibid:4504020153804": 7,
+      "gas:candidate-vibid:4504020153401": 55,
+      "gas:candidate-vibid:4504020153344": 9,
+      "gas:candidate-vibid:4504020153136": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005534&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005534&type=464",
@@ -3929,14 +3929,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 8,
-      "Барановский Дмитрий Андреевич": 5,
-      "Безлер Юрий Викторович": 23,
-      "Карлов Сергей Сергеевич": 7,
-      "Осипов Олег Борисович": 3,
-      "Серова Елена Олеговна": 87,
-      "Фёдоров Виталий Владимирович": 36,
-      "Чернышов Игорь Михайлович": 4
+      "gas:candidate-vibid:4504020153555": 8,
+      "gas:candidate-vibid:4504020153611": 5,
+      "gas:candidate-vibid:4504020153008": 23,
+      "gas:candidate-vibid:4504020153520": 7,
+      "gas:candidate-vibid:4504020153804": 3,
+      "gas:candidate-vibid:4504020153401": 87,
+      "gas:candidate-vibid:4504020153344": 36,
+      "gas:candidate-vibid:4504020153136": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005535&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005535&type=464",
@@ -3987,14 +3987,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 9,
-      "Барановский Дмитрий Андреевич": 9,
-      "Безлер Юрий Викторович": 34,
-      "Карлов Сергей Сергеевич": 6,
-      "Осипов Олег Борисович": 3,
-      "Серова Елена Олеговна": 111,
-      "Фёдоров Виталий Владимирович": 36,
-      "Чернышов Игорь Михайлович": 9
+      "gas:candidate-vibid:4504020153555": 9,
+      "gas:candidate-vibid:4504020153611": 9,
+      "gas:candidate-vibid:4504020153008": 34,
+      "gas:candidate-vibid:4504020153520": 6,
+      "gas:candidate-vibid:4504020153804": 3,
+      "gas:candidate-vibid:4504020153401": 111,
+      "gas:candidate-vibid:4504020153344": 36,
+      "gas:candidate-vibid:4504020153136": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005535&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005535&type=464",
@@ -4045,14 +4045,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 25,
-      "Барановский Дмитрий Андреевич": 4,
-      "Безлер Юрий Викторович": 52,
-      "Карлов Сергей Сергеевич": 8,
-      "Осипов Олег Борисович": 11,
-      "Серова Елена Олеговна": 165,
-      "Фёдоров Виталий Владимирович": 110,
-      "Чернышов Игорь Михайлович": 17
+      "gas:candidate-vibid:4504020153555": 25,
+      "gas:candidate-vibid:4504020153611": 4,
+      "gas:candidate-vibid:4504020153008": 52,
+      "gas:candidate-vibid:4504020153520": 8,
+      "gas:candidate-vibid:4504020153804": 11,
+      "gas:candidate-vibid:4504020153401": 165,
+      "gas:candidate-vibid:4504020153344": 110,
+      "gas:candidate-vibid:4504020153136": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005535&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005535&type=464",
@@ -4103,14 +4103,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 34,
-      "Барановский Дмитрий Андреевич": 3,
-      "Безлер Юрий Викторович": 64,
-      "Карлов Сергей Сергеевич": 14,
-      "Осипов Олег Борисович": 13,
-      "Серова Елена Олеговна": 240,
-      "Фёдоров Виталий Владимирович": 86,
-      "Чернышов Игорь Михайлович": 12
+      "gas:candidate-vibid:4504020153555": 34,
+      "gas:candidate-vibid:4504020153611": 3,
+      "gas:candidate-vibid:4504020153008": 64,
+      "gas:candidate-vibid:4504020153520": 14,
+      "gas:candidate-vibid:4504020153804": 13,
+      "gas:candidate-vibid:4504020153401": 240,
+      "gas:candidate-vibid:4504020153344": 86,
+      "gas:candidate-vibid:4504020153136": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005535&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005535&type=464",
@@ -4161,14 +4161,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 15,
-      "Барановский Дмитрий Андреевич": 9,
-      "Безлер Юрий Викторович": 35,
-      "Карлов Сергей Сергеевич": 12,
-      "Осипов Олег Борисович": 6,
-      "Серова Елена Олеговна": 155,
-      "Фёдоров Виталий Владимирович": 61,
-      "Чернышов Игорь Михайлович": 10
+      "gas:candidate-vibid:4504020153555": 15,
+      "gas:candidate-vibid:4504020153611": 9,
+      "gas:candidate-vibid:4504020153008": 35,
+      "gas:candidate-vibid:4504020153520": 12,
+      "gas:candidate-vibid:4504020153804": 6,
+      "gas:candidate-vibid:4504020153401": 155,
+      "gas:candidate-vibid:4504020153344": 61,
+      "gas:candidate-vibid:4504020153136": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005535&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005535&type=464",
@@ -4219,14 +4219,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 18,
-      "Барановский Дмитрий Андреевич": 3,
-      "Безлер Юрий Викторович": 31,
-      "Карлов Сергей Сергеевич": 6,
-      "Осипов Олег Борисович": 5,
-      "Серова Елена Олеговна": 121,
-      "Фёдоров Виталий Владимирович": 34,
-      "Чернышов Игорь Михайлович": 6
+      "gas:candidate-vibid:4504020153555": 18,
+      "gas:candidate-vibid:4504020153611": 3,
+      "gas:candidate-vibid:4504020153008": 31,
+      "gas:candidate-vibid:4504020153520": 6,
+      "gas:candidate-vibid:4504020153804": 5,
+      "gas:candidate-vibid:4504020153401": 121,
+      "gas:candidate-vibid:4504020153344": 34,
+      "gas:candidate-vibid:4504020153136": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005535&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005535&type=464",
@@ -4277,14 +4277,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 27,
-      "Барановский Дмитрий Андреевич": 12,
-      "Безлер Юрий Викторович": 43,
-      "Карлов Сергей Сергеевич": 11,
-      "Осипов Олег Борисович": 12,
-      "Серова Елена Олеговна": 185,
-      "Фёдоров Виталий Владимирович": 83,
-      "Чернышов Игорь Михайлович": 17
+      "gas:candidate-vibid:4504020153555": 27,
+      "gas:candidate-vibid:4504020153611": 12,
+      "gas:candidate-vibid:4504020153008": 43,
+      "gas:candidate-vibid:4504020153520": 11,
+      "gas:candidate-vibid:4504020153804": 12,
+      "gas:candidate-vibid:4504020153401": 185,
+      "gas:candidate-vibid:4504020153344": 83,
+      "gas:candidate-vibid:4504020153136": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005535&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005535&type=464",
@@ -4335,14 +4335,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 27,
-      "Барановский Дмитрий Андреевич": 3,
-      "Безлер Юрий Викторович": 33,
-      "Карлов Сергей Сергеевич": 8,
-      "Осипов Олег Борисович": 3,
-      "Серова Елена Олеговна": 129,
-      "Фёдоров Виталий Владимирович": 40,
-      "Чернышов Игорь Михайлович": 6
+      "gas:candidate-vibid:4504020153555": 27,
+      "gas:candidate-vibid:4504020153611": 3,
+      "gas:candidate-vibid:4504020153008": 33,
+      "gas:candidate-vibid:4504020153520": 8,
+      "gas:candidate-vibid:4504020153804": 3,
+      "gas:candidate-vibid:4504020153401": 129,
+      "gas:candidate-vibid:4504020153344": 40,
+      "gas:candidate-vibid:4504020153136": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005535&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005535&type=464",
@@ -4393,14 +4393,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 47,
-      "Барановский Дмитрий Андреевич": 20,
-      "Безлер Юрий Викторович": 79,
-      "Карлов Сергей Сергеевич": 12,
-      "Осипов Олег Борисович": 16,
-      "Серова Елена Олеговна": 256,
-      "Фёдоров Виталий Владимирович": 99,
-      "Чернышов Игорь Михайлович": 23
+      "gas:candidate-vibid:4504020153555": 47,
+      "gas:candidate-vibid:4504020153611": 20,
+      "gas:candidate-vibid:4504020153008": 79,
+      "gas:candidate-vibid:4504020153520": 12,
+      "gas:candidate-vibid:4504020153804": 16,
+      "gas:candidate-vibid:4504020153401": 256,
+      "gas:candidate-vibid:4504020153344": 99,
+      "gas:candidate-vibid:4504020153136": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005535&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005535&type=464",
@@ -4451,14 +4451,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 10,
-      "Барановский Дмитрий Андреевич": 4,
-      "Безлер Юрий Викторович": 21,
-      "Карлов Сергей Сергеевич": 3,
-      "Осипов Олег Борисович": 6,
-      "Серова Елена Олеговна": 110,
-      "Фёдоров Виталий Владимирович": 41,
-      "Чернышов Игорь Михайлович": 7
+      "gas:candidate-vibid:4504020153555": 10,
+      "gas:candidate-vibid:4504020153611": 4,
+      "gas:candidate-vibid:4504020153008": 21,
+      "gas:candidate-vibid:4504020153520": 3,
+      "gas:candidate-vibid:4504020153804": 6,
+      "gas:candidate-vibid:4504020153401": 110,
+      "gas:candidate-vibid:4504020153344": 41,
+      "gas:candidate-vibid:4504020153136": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005535&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005535&type=464",
@@ -4509,14 +4509,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 44,
-      "Барановский Дмитрий Андреевич": 6,
-      "Безлер Юрий Викторович": 46,
-      "Карлов Сергей Сергеевич": 12,
-      "Осипов Олег Борисович": 7,
-      "Серова Елена Олеговна": 260,
-      "Фёдоров Виталий Владимирович": 107,
-      "Чернышов Игорь Михайлович": 17
+      "gas:candidate-vibid:4504020153555": 44,
+      "gas:candidate-vibid:4504020153611": 6,
+      "gas:candidate-vibid:4504020153008": 46,
+      "gas:candidate-vibid:4504020153520": 12,
+      "gas:candidate-vibid:4504020153804": 7,
+      "gas:candidate-vibid:4504020153401": 260,
+      "gas:candidate-vibid:4504020153344": 107,
+      "gas:candidate-vibid:4504020153136": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005535&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005535&type=464",
@@ -4567,14 +4567,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 14,
-      "Барановский Дмитрий Андреевич": 10,
-      "Безлер Юрий Викторович": 34,
-      "Карлов Сергей Сергеевич": 5,
-      "Осипов Олег Борисович": 7,
-      "Серова Елена Олеговна": 159,
-      "Фёдоров Виталий Владимирович": 54,
-      "Чернышов Игорь Михайлович": 18
+      "gas:candidate-vibid:4504020153555": 14,
+      "gas:candidate-vibid:4504020153611": 10,
+      "gas:candidate-vibid:4504020153008": 34,
+      "gas:candidate-vibid:4504020153520": 5,
+      "gas:candidate-vibid:4504020153804": 7,
+      "gas:candidate-vibid:4504020153401": 159,
+      "gas:candidate-vibid:4504020153344": 54,
+      "gas:candidate-vibid:4504020153136": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005535&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005535&type=464",
@@ -4625,14 +4625,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 7,
-      "Барановский Дмитрий Андреевич": 4,
-      "Безлер Юрий Викторович": 31,
-      "Карлов Сергей Сергеевич": 6,
-      "Осипов Олег Борисович": 2,
-      "Серова Елена Олеговна": 111,
-      "Фёдоров Виталий Владимирович": 39,
-      "Чернышов Игорь Михайлович": 4
+      "gas:candidate-vibid:4504020153555": 7,
+      "gas:candidate-vibid:4504020153611": 4,
+      "gas:candidate-vibid:4504020153008": 31,
+      "gas:candidate-vibid:4504020153520": 6,
+      "gas:candidate-vibid:4504020153804": 2,
+      "gas:candidate-vibid:4504020153401": 111,
+      "gas:candidate-vibid:4504020153344": 39,
+      "gas:candidate-vibid:4504020153136": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005535&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005535&type=464",
@@ -4683,14 +4683,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 10,
-      "Барановский Дмитрий Андреевич": 2,
-      "Безлер Юрий Викторович": 24,
-      "Карлов Сергей Сергеевич": 0,
-      "Осипов Олег Борисович": 5,
-      "Серова Елена Олеговна": 168,
-      "Фёдоров Виталий Владимирович": 67,
-      "Чернышов Игорь Михайлович": 20
+      "gas:candidate-vibid:4504020153555": 10,
+      "gas:candidate-vibid:4504020153611": 2,
+      "gas:candidate-vibid:4504020153008": 24,
+      "gas:candidate-vibid:4504020153520": 0,
+      "gas:candidate-vibid:4504020153804": 5,
+      "gas:candidate-vibid:4504020153401": 168,
+      "gas:candidate-vibid:4504020153344": 67,
+      "gas:candidate-vibid:4504020153136": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005535&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005535&type=464",
@@ -4741,14 +4741,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 27,
-      "Барановский Дмитрий Андреевич": 10,
-      "Безлер Юрий Викторович": 47,
-      "Карлов Сергей Сергеевич": 10,
-      "Осипов Олег Борисович": 11,
-      "Серова Елена Олеговна": 236,
-      "Фёдоров Виталий Владимирович": 94,
-      "Чернышов Игорь Михайлович": 28
+      "gas:candidate-vibid:4504020153555": 27,
+      "gas:candidate-vibid:4504020153611": 10,
+      "gas:candidate-vibid:4504020153008": 47,
+      "gas:candidate-vibid:4504020153520": 10,
+      "gas:candidate-vibid:4504020153804": 11,
+      "gas:candidate-vibid:4504020153401": 236,
+      "gas:candidate-vibid:4504020153344": 94,
+      "gas:candidate-vibid:4504020153136": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005535&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005535&type=464",
@@ -4799,14 +4799,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 29,
-      "Барановский Дмитрий Андреевич": 16,
-      "Безлер Юрий Викторович": 61,
-      "Карлов Сергей Сергеевич": 13,
-      "Осипов Олег Борисович": 17,
-      "Серова Елена Олеговна": 271,
-      "Фёдоров Виталий Владимирович": 101,
-      "Чернышов Игорь Михайлович": 16
+      "gas:candidate-vibid:4504020153555": 29,
+      "gas:candidate-vibid:4504020153611": 16,
+      "gas:candidate-vibid:4504020153008": 61,
+      "gas:candidate-vibid:4504020153520": 13,
+      "gas:candidate-vibid:4504020153804": 17,
+      "gas:candidate-vibid:4504020153401": 271,
+      "gas:candidate-vibid:4504020153344": 101,
+      "gas:candidate-vibid:4504020153136": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005535&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005535&type=464",
@@ -4857,14 +4857,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 26,
-      "Барановский Дмитрий Андреевич": 5,
-      "Безлер Юрий Викторович": 42,
-      "Карлов Сергей Сергеевич": 17,
-      "Осипов Олег Борисович": 6,
-      "Серова Елена Олеговна": 187,
-      "Фёдоров Виталий Владимирович": 90,
-      "Чернышов Игорь Михайлович": 16
+      "gas:candidate-vibid:4504020153555": 26,
+      "gas:candidate-vibid:4504020153611": 5,
+      "gas:candidate-vibid:4504020153008": 42,
+      "gas:candidate-vibid:4504020153520": 17,
+      "gas:candidate-vibid:4504020153804": 6,
+      "gas:candidate-vibid:4504020153401": 187,
+      "gas:candidate-vibid:4504020153344": 90,
+      "gas:candidate-vibid:4504020153136": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005535&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005535&type=464",
@@ -4915,14 +4915,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 33,
-      "Барановский Дмитрий Андреевич": 10,
-      "Безлер Юрий Викторович": 51,
-      "Карлов Сергей Сергеевич": 9,
-      "Осипов Олег Борисович": 6,
-      "Серова Елена Олеговна": 232,
-      "Фёдоров Виталий Владимирович": 88,
-      "Чернышов Игорь Михайлович": 12
+      "gas:candidate-vibid:4504020153555": 33,
+      "gas:candidate-vibid:4504020153611": 10,
+      "gas:candidate-vibid:4504020153008": 51,
+      "gas:candidate-vibid:4504020153520": 9,
+      "gas:candidate-vibid:4504020153804": 6,
+      "gas:candidate-vibid:4504020153401": 232,
+      "gas:candidate-vibid:4504020153344": 88,
+      "gas:candidate-vibid:4504020153136": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005535&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005535&type=464",
@@ -4973,14 +4973,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 19,
-      "Барановский Дмитрий Андреевич": 15,
-      "Безлер Юрий Викторович": 68,
-      "Карлов Сергей Сергеевич": 12,
-      "Осипов Олег Борисович": 7,
-      "Серова Елена Олеговна": 224,
-      "Фёдоров Виталий Владимирович": 80,
-      "Чернышов Игорь Михайлович": 25
+      "gas:candidate-vibid:4504020153555": 19,
+      "gas:candidate-vibid:4504020153611": 15,
+      "gas:candidate-vibid:4504020153008": 68,
+      "gas:candidate-vibid:4504020153520": 12,
+      "gas:candidate-vibid:4504020153804": 7,
+      "gas:candidate-vibid:4504020153401": 224,
+      "gas:candidate-vibid:4504020153344": 80,
+      "gas:candidate-vibid:4504020153136": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005535&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005535&type=464",
@@ -5031,14 +5031,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 15,
-      "Барановский Дмитрий Андреевич": 4,
-      "Безлер Юрий Викторович": 34,
-      "Карлов Сергей Сергеевич": 4,
-      "Осипов Олег Борисович": 6,
-      "Серова Елена Олеговна": 300,
-      "Фёдоров Виталий Владимирович": 45,
-      "Чернышов Игорь Михайлович": 10
+      "gas:candidate-vibid:4504020153555": 15,
+      "gas:candidate-vibid:4504020153611": 4,
+      "gas:candidate-vibid:4504020153008": 34,
+      "gas:candidate-vibid:4504020153520": 4,
+      "gas:candidate-vibid:4504020153804": 6,
+      "gas:candidate-vibid:4504020153401": 300,
+      "gas:candidate-vibid:4504020153344": 45,
+      "gas:candidate-vibid:4504020153136": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005535&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005535&type=464",
@@ -5089,14 +5089,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 36,
-      "Барановский Дмитрий Андреевич": 13,
-      "Безлер Юрий Викторович": 72,
-      "Карлов Сергей Сергеевич": 18,
-      "Осипов Олег Борисович": 15,
-      "Серова Елена Олеговна": 293,
-      "Фёдоров Виталий Владимирович": 103,
-      "Чернышов Игорь Михайлович": 13
+      "gas:candidate-vibid:4504020153555": 36,
+      "gas:candidate-vibid:4504020153611": 13,
+      "gas:candidate-vibid:4504020153008": 72,
+      "gas:candidate-vibid:4504020153520": 18,
+      "gas:candidate-vibid:4504020153804": 15,
+      "gas:candidate-vibid:4504020153401": 293,
+      "gas:candidate-vibid:4504020153344": 103,
+      "gas:candidate-vibid:4504020153136": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005535&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005535&type=464",
@@ -5147,14 +5147,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 21,
-      "Барановский Дмитрий Андреевич": 5,
-      "Безлер Юрий Викторович": 54,
-      "Карлов Сергей Сергеевич": 9,
-      "Осипов Олег Борисович": 7,
-      "Серова Елена Олеговна": 164,
-      "Фёдоров Виталий Владимирович": 54,
-      "Чернышов Игорь Михайлович": 9
+      "gas:candidate-vibid:4504020153555": 21,
+      "gas:candidate-vibid:4504020153611": 5,
+      "gas:candidate-vibid:4504020153008": 54,
+      "gas:candidate-vibid:4504020153520": 9,
+      "gas:candidate-vibid:4504020153804": 7,
+      "gas:candidate-vibid:4504020153401": 164,
+      "gas:candidate-vibid:4504020153344": 54,
+      "gas:candidate-vibid:4504020153136": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005535&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005535&type=464",
@@ -5205,14 +5205,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 36,
-      "Барановский Дмитрий Андреевич": 24,
-      "Безлер Юрий Викторович": 58,
-      "Карлов Сергей Сергеевич": 18,
-      "Осипов Олег Борисович": 13,
-      "Серова Елена Олеговна": 348,
-      "Фёдоров Виталий Владимирович": 78,
-      "Чернышов Игорь Михайлович": 25
+      "gas:candidate-vibid:4504020153555": 36,
+      "gas:candidate-vibid:4504020153611": 24,
+      "gas:candidate-vibid:4504020153008": 58,
+      "gas:candidate-vibid:4504020153520": 18,
+      "gas:candidate-vibid:4504020153804": 13,
+      "gas:candidate-vibid:4504020153401": 348,
+      "gas:candidate-vibid:4504020153344": 78,
+      "gas:candidate-vibid:4504020153136": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005535&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005535&type=464",
@@ -5263,14 +5263,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 38,
-      "Барановский Дмитрий Андреевич": 14,
-      "Безлер Юрий Викторович": 84,
-      "Карлов Сергей Сергеевич": 20,
-      "Осипов Олег Борисович": 14,
-      "Серова Елена Олеговна": 261,
-      "Фёдоров Виталий Владимирович": 92,
-      "Чернышов Игорь Михайлович": 26
+      "gas:candidate-vibid:4504020153555": 38,
+      "gas:candidate-vibid:4504020153611": 14,
+      "gas:candidate-vibid:4504020153008": 84,
+      "gas:candidate-vibid:4504020153520": 20,
+      "gas:candidate-vibid:4504020153804": 14,
+      "gas:candidate-vibid:4504020153401": 261,
+      "gas:candidate-vibid:4504020153344": 92,
+      "gas:candidate-vibid:4504020153136": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005535&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005535&type=464",
@@ -5321,14 +5321,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 19,
-      "Барановский Дмитрий Андреевич": 9,
-      "Безлер Юрий Викторович": 43,
-      "Карлов Сергей Сергеевич": 7,
-      "Осипов Олег Борисович": 3,
-      "Серова Елена Олеговна": 202,
-      "Фёдоров Виталий Владимирович": 14,
-      "Чернышов Игорь Михайлович": 9
+      "gas:candidate-vibid:4504020153555": 19,
+      "gas:candidate-vibid:4504020153611": 9,
+      "gas:candidate-vibid:4504020153008": 43,
+      "gas:candidate-vibid:4504020153520": 7,
+      "gas:candidate-vibid:4504020153804": 3,
+      "gas:candidate-vibid:4504020153401": 202,
+      "gas:candidate-vibid:4504020153344": 14,
+      "gas:candidate-vibid:4504020153136": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005535&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005535&type=464",
@@ -5379,14 +5379,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 19,
-      "Барановский Дмитрий Андреевич": 6,
-      "Безлер Юрий Викторович": 38,
-      "Карлов Сергей Сергеевич": 7,
-      "Осипов Олег Борисович": 8,
-      "Серова Елена Олеговна": 151,
-      "Фёдоров Виталий Владимирович": 42,
-      "Чернышов Игорь Михайлович": 17
+      "gas:candidate-vibid:4504020153555": 19,
+      "gas:candidate-vibid:4504020153611": 6,
+      "gas:candidate-vibid:4504020153008": 38,
+      "gas:candidate-vibid:4504020153520": 7,
+      "gas:candidate-vibid:4504020153804": 8,
+      "gas:candidate-vibid:4504020153401": 151,
+      "gas:candidate-vibid:4504020153344": 42,
+      "gas:candidate-vibid:4504020153136": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005535&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005535&type=464",
@@ -5437,14 +5437,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 36,
-      "Барановский Дмитрий Андреевич": 14,
-      "Безлер Юрий Викторович": 73,
-      "Карлов Сергей Сергеевич": 13,
-      "Осипов Олег Борисович": 9,
-      "Серова Елена Олеговна": 301,
-      "Фёдоров Виталий Владимирович": 88,
-      "Чернышов Игорь Михайлович": 22
+      "gas:candidate-vibid:4504020153555": 36,
+      "gas:candidate-vibid:4504020153611": 14,
+      "gas:candidate-vibid:4504020153008": 73,
+      "gas:candidate-vibid:4504020153520": 13,
+      "gas:candidate-vibid:4504020153804": 9,
+      "gas:candidate-vibid:4504020153401": 301,
+      "gas:candidate-vibid:4504020153344": 88,
+      "gas:candidate-vibid:4504020153136": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005535&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005535&type=464",
@@ -5495,14 +5495,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 11,
-      "Барановский Дмитрий Андреевич": 10,
-      "Безлер Юрий Викторович": 16,
-      "Карлов Сергей Сергеевич": 2,
-      "Осипов Олег Борисович": 2,
-      "Серова Елена Олеговна": 76,
-      "Фёдоров Виталий Владимирович": 28,
-      "Чернышов Игорь Михайлович": 7
+      "gas:candidate-vibid:4504020153555": 11,
+      "gas:candidate-vibid:4504020153611": 10,
+      "gas:candidate-vibid:4504020153008": 16,
+      "gas:candidate-vibid:4504020153520": 2,
+      "gas:candidate-vibid:4504020153804": 2,
+      "gas:candidate-vibid:4504020153401": 76,
+      "gas:candidate-vibid:4504020153344": 28,
+      "gas:candidate-vibid:4504020153136": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005535&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005535&type=464",
@@ -5553,14 +5553,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 16,
-      "Барановский Дмитрий Андреевич": 9,
-      "Безлер Юрий Викторович": 32,
-      "Карлов Сергей Сергеевич": 5,
-      "Осипов Олег Борисович": 7,
-      "Серова Елена Олеговна": 196,
-      "Фёдоров Виталий Владимирович": 41,
-      "Чернышов Игорь Михайлович": 6
+      "gas:candidate-vibid:4504020153555": 16,
+      "gas:candidate-vibid:4504020153611": 9,
+      "gas:candidate-vibid:4504020153008": 32,
+      "gas:candidate-vibid:4504020153520": 5,
+      "gas:candidate-vibid:4504020153804": 7,
+      "gas:candidate-vibid:4504020153401": 196,
+      "gas:candidate-vibid:4504020153344": 41,
+      "gas:candidate-vibid:4504020153136": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005535&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005535&type=464",
@@ -5611,14 +5611,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 23,
-      "Барановский Дмитрий Андреевич": 11,
-      "Безлер Юрий Викторович": 35,
-      "Карлов Сергей Сергеевич": 5,
-      "Осипов Олег Борисович": 9,
-      "Серова Елена Олеговна": 205,
-      "Фёдоров Виталий Владимирович": 65,
-      "Чернышов Игорь Михайлович": 18
+      "gas:candidate-vibid:4504020153555": 23,
+      "gas:candidate-vibid:4504020153611": 11,
+      "gas:candidate-vibid:4504020153008": 35,
+      "gas:candidate-vibid:4504020153520": 5,
+      "gas:candidate-vibid:4504020153804": 9,
+      "gas:candidate-vibid:4504020153401": 205,
+      "gas:candidate-vibid:4504020153344": 65,
+      "gas:candidate-vibid:4504020153136": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005535&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005535&type=464",
@@ -5669,14 +5669,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 29,
-      "Барановский Дмитрий Андреевич": 12,
-      "Безлер Юрий Викторович": 74,
-      "Карлов Сергей Сергеевич": 19,
-      "Осипов Олег Борисович": 8,
-      "Серова Елена Олеговна": 289,
-      "Фёдоров Виталий Владимирович": 94,
-      "Чернышов Игорь Михайлович": 22
+      "gas:candidate-vibid:4504020153555": 29,
+      "gas:candidate-vibid:4504020153611": 12,
+      "gas:candidate-vibid:4504020153008": 74,
+      "gas:candidate-vibid:4504020153520": 19,
+      "gas:candidate-vibid:4504020153804": 8,
+      "gas:candidate-vibid:4504020153401": 289,
+      "gas:candidate-vibid:4504020153344": 94,
+      "gas:candidate-vibid:4504020153136": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005535&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005535&type=464",
@@ -5727,14 +5727,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 16,
-      "Барановский Дмитрий Андреевич": 8,
-      "Безлер Юрий Викторович": 24,
-      "Карлов Сергей Сергеевич": 7,
-      "Осипов Олег Борисович": 6,
-      "Серова Елена Олеговна": 99,
-      "Фёдоров Виталий Владимирович": 35,
-      "Чернышов Игорь Михайлович": 9
+      "gas:candidate-vibid:4504020153555": 16,
+      "gas:candidate-vibid:4504020153611": 8,
+      "gas:candidate-vibid:4504020153008": 24,
+      "gas:candidate-vibid:4504020153520": 7,
+      "gas:candidate-vibid:4504020153804": 6,
+      "gas:candidate-vibid:4504020153401": 99,
+      "gas:candidate-vibid:4504020153344": 35,
+      "gas:candidate-vibid:4504020153136": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005535&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005535&type=464",
@@ -5785,14 +5785,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 20,
-      "Барановский Дмитрий Андреевич": 8,
-      "Безлер Юрий Викторович": 31,
-      "Карлов Сергей Сергеевич": 10,
-      "Осипов Олег Борисович": 4,
-      "Серова Елена Олеговна": 182,
-      "Фёдоров Виталий Владимирович": 65,
-      "Чернышов Игорь Михайлович": 25
+      "gas:candidate-vibid:4504020153555": 20,
+      "gas:candidate-vibid:4504020153611": 8,
+      "gas:candidate-vibid:4504020153008": 31,
+      "gas:candidate-vibid:4504020153520": 10,
+      "gas:candidate-vibid:4504020153804": 4,
+      "gas:candidate-vibid:4504020153401": 182,
+      "gas:candidate-vibid:4504020153344": 65,
+      "gas:candidate-vibid:4504020153136": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005535&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005535&type=464",
@@ -5843,14 +5843,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 52,
-      "Барановский Дмитрий Андреевич": 20,
-      "Безлер Юрий Викторович": 55,
-      "Карлов Сергей Сергеевич": 4,
-      "Осипов Олег Борисович": 19,
-      "Серова Елена Олеговна": 273,
-      "Фёдоров Виталий Владимирович": 58,
-      "Чернышов Игорь Михайлович": 18
+      "gas:candidate-vibid:4504020153555": 52,
+      "gas:candidate-vibid:4504020153611": 20,
+      "gas:candidate-vibid:4504020153008": 55,
+      "gas:candidate-vibid:4504020153520": 4,
+      "gas:candidate-vibid:4504020153804": 19,
+      "gas:candidate-vibid:4504020153401": 273,
+      "gas:candidate-vibid:4504020153344": 58,
+      "gas:candidate-vibid:4504020153136": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005536&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005536&type=464",
@@ -5901,14 +5901,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 27,
-      "Барановский Дмитрий Андреевич": 13,
-      "Безлер Юрий Викторович": 53,
-      "Карлов Сергей Сергеевич": 9,
-      "Осипов Олег Борисович": 7,
-      "Серова Елена Олеговна": 185,
-      "Фёдоров Виталий Владимирович": 43,
-      "Чернышов Игорь Михайлович": 15
+      "gas:candidate-vibid:4504020153555": 27,
+      "gas:candidate-vibid:4504020153611": 13,
+      "gas:candidate-vibid:4504020153008": 53,
+      "gas:candidate-vibid:4504020153520": 9,
+      "gas:candidate-vibid:4504020153804": 7,
+      "gas:candidate-vibid:4504020153401": 185,
+      "gas:candidate-vibid:4504020153344": 43,
+      "gas:candidate-vibid:4504020153136": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005536&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005536&type=464",
@@ -5959,14 +5959,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 30,
-      "Барановский Дмитрий Андреевич": 11,
-      "Безлер Юрий Викторович": 51,
-      "Карлов Сергей Сергеевич": 11,
-      "Осипов Олег Борисович": 9,
-      "Серова Елена Олеговна": 236,
-      "Фёдоров Виталий Владимирович": 42,
-      "Чернышов Игорь Михайлович": 19
+      "gas:candidate-vibid:4504020153555": 30,
+      "gas:candidate-vibid:4504020153611": 11,
+      "gas:candidate-vibid:4504020153008": 51,
+      "gas:candidate-vibid:4504020153520": 11,
+      "gas:candidate-vibid:4504020153804": 9,
+      "gas:candidate-vibid:4504020153401": 236,
+      "gas:candidate-vibid:4504020153344": 42,
+      "gas:candidate-vibid:4504020153136": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005536&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005536&type=464",
@@ -6017,14 +6017,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 30,
-      "Барановский Дмитрий Андреевич": 16,
-      "Безлер Юрий Викторович": 27,
-      "Карлов Сергей Сергеевич": 14,
-      "Осипов Олег Борисович": 6,
-      "Серова Елена Олеговна": 197,
-      "Фёдоров Виталий Владимирович": 25,
-      "Чернышов Игорь Михайлович": 10
+      "gas:candidate-vibid:4504020153555": 30,
+      "gas:candidate-vibid:4504020153611": 16,
+      "gas:candidate-vibid:4504020153008": 27,
+      "gas:candidate-vibid:4504020153520": 14,
+      "gas:candidate-vibid:4504020153804": 6,
+      "gas:candidate-vibid:4504020153401": 197,
+      "gas:candidate-vibid:4504020153344": 25,
+      "gas:candidate-vibid:4504020153136": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005536&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005536&type=464",
@@ -6075,14 +6075,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 47,
-      "Барановский Дмитрий Андреевич": 11,
-      "Безлер Юрий Викторович": 58,
-      "Карлов Сергей Сергеевич": 16,
-      "Осипов Олег Борисович": 19,
-      "Серова Елена Олеговна": 380,
-      "Фёдоров Виталий Владимирович": 46,
-      "Чернышов Игорь Михайлович": 29
+      "gas:candidate-vibid:4504020153555": 47,
+      "gas:candidate-vibid:4504020153611": 11,
+      "gas:candidate-vibid:4504020153008": 58,
+      "gas:candidate-vibid:4504020153520": 16,
+      "gas:candidate-vibid:4504020153804": 19,
+      "gas:candidate-vibid:4504020153401": 380,
+      "gas:candidate-vibid:4504020153344": 46,
+      "gas:candidate-vibid:4504020153136": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005536&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005536&type=464",
@@ -6133,14 +6133,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 31,
-      "Барановский Дмитрий Андреевич": 14,
-      "Безлер Юрий Викторович": 38,
-      "Карлов Сергей Сергеевич": 9,
-      "Осипов Олег Борисович": 8,
-      "Серова Елена Олеговна": 153,
-      "Фёдоров Виталий Владимирович": 44,
-      "Чернышов Игорь Михайлович": 20
+      "gas:candidate-vibid:4504020153555": 31,
+      "gas:candidate-vibid:4504020153611": 14,
+      "gas:candidate-vibid:4504020153008": 38,
+      "gas:candidate-vibid:4504020153520": 9,
+      "gas:candidate-vibid:4504020153804": 8,
+      "gas:candidate-vibid:4504020153401": 153,
+      "gas:candidate-vibid:4504020153344": 44,
+      "gas:candidate-vibid:4504020153136": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005536&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005536&type=464",
@@ -6191,14 +6191,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 37,
-      "Барановский Дмитрий Андреевич": 20,
-      "Безлер Юрий Викторович": 67,
-      "Карлов Сергей Сергеевич": 8,
-      "Осипов Олег Борисович": 17,
-      "Серова Елена Олеговна": 243,
-      "Фёдоров Виталий Владимирович": 66,
-      "Чернышов Игорь Михайлович": 22
+      "gas:candidate-vibid:4504020153555": 37,
+      "gas:candidate-vibid:4504020153611": 20,
+      "gas:candidate-vibid:4504020153008": 67,
+      "gas:candidate-vibid:4504020153520": 8,
+      "gas:candidate-vibid:4504020153804": 17,
+      "gas:candidate-vibid:4504020153401": 243,
+      "gas:candidate-vibid:4504020153344": 66,
+      "gas:candidate-vibid:4504020153136": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005536&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005536&type=464",
@@ -6249,14 +6249,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 79,
-      "Барановский Дмитрий Андреевич": 45,
-      "Безлер Юрий Викторович": 118,
-      "Карлов Сергей Сергеевич": 27,
-      "Осипов Олег Борисович": 22,
-      "Серова Елена Олеговна": 382,
-      "Фёдоров Виталий Владимирович": 119,
-      "Чернышов Игорь Михайлович": 39
+      "gas:candidate-vibid:4504020153555": 79,
+      "gas:candidate-vibid:4504020153611": 45,
+      "gas:candidate-vibid:4504020153008": 118,
+      "gas:candidate-vibid:4504020153520": 27,
+      "gas:candidate-vibid:4504020153804": 22,
+      "gas:candidate-vibid:4504020153401": 382,
+      "gas:candidate-vibid:4504020153344": 119,
+      "gas:candidate-vibid:4504020153136": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005536&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005536&type=464",
@@ -6307,14 +6307,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 34,
-      "Барановский Дмитрий Андреевич": 13,
-      "Безлер Юрий Викторович": 39,
-      "Карлов Сергей Сергеевич": 7,
-      "Осипов Олег Борисович": 6,
-      "Серова Елена Олеговна": 198,
-      "Фёдоров Виталий Владимирович": 43,
-      "Чернышов Игорь Михайлович": 13
+      "gas:candidate-vibid:4504020153555": 34,
+      "gas:candidate-vibid:4504020153611": 13,
+      "gas:candidate-vibid:4504020153008": 39,
+      "gas:candidate-vibid:4504020153520": 7,
+      "gas:candidate-vibid:4504020153804": 6,
+      "gas:candidate-vibid:4504020153401": 198,
+      "gas:candidate-vibid:4504020153344": 43,
+      "gas:candidate-vibid:4504020153136": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005536&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005536&type=464",
@@ -6365,14 +6365,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 41,
-      "Барановский Дмитрий Андреевич": 14,
-      "Безлер Юрий Викторович": 27,
-      "Карлов Сергей Сергеевич": 7,
-      "Осипов Олег Борисович": 6,
-      "Серова Елена Олеговна": 137,
-      "Фёдоров Виталий Владимирович": 41,
-      "Чернышов Игорь Михайлович": 16
+      "gas:candidate-vibid:4504020153555": 41,
+      "gas:candidate-vibid:4504020153611": 14,
+      "gas:candidate-vibid:4504020153008": 27,
+      "gas:candidate-vibid:4504020153520": 7,
+      "gas:candidate-vibid:4504020153804": 6,
+      "gas:candidate-vibid:4504020153401": 137,
+      "gas:candidate-vibid:4504020153344": 41,
+      "gas:candidate-vibid:4504020153136": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005536&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005536&type=464",
@@ -6423,14 +6423,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 19,
-      "Барановский Дмитрий Андреевич": 8,
-      "Безлер Юрий Викторович": 34,
-      "Карлов Сергей Сергеевич": 7,
-      "Осипов Олег Борисович": 11,
-      "Серова Елена Олеговна": 158,
-      "Фёдоров Виталий Владимирович": 34,
-      "Чернышов Игорь Михайлович": 14
+      "gas:candidate-vibid:4504020153555": 19,
+      "gas:candidate-vibid:4504020153611": 8,
+      "gas:candidate-vibid:4504020153008": 34,
+      "gas:candidate-vibid:4504020153520": 7,
+      "gas:candidate-vibid:4504020153804": 11,
+      "gas:candidate-vibid:4504020153401": 158,
+      "gas:candidate-vibid:4504020153344": 34,
+      "gas:candidate-vibid:4504020153136": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005536&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005536&type=464",
@@ -6481,14 +6481,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 28,
-      "Барановский Дмитрий Андреевич": 9,
-      "Безлер Юрий Викторович": 44,
-      "Карлов Сергей Сергеевич": 12,
-      "Осипов Олег Борисович": 3,
-      "Серова Елена Олеговна": 182,
-      "Фёдоров Виталий Владимирович": 47,
-      "Чернышов Игорь Михайлович": 16
+      "gas:candidate-vibid:4504020153555": 28,
+      "gas:candidate-vibid:4504020153611": 9,
+      "gas:candidate-vibid:4504020153008": 44,
+      "gas:candidate-vibid:4504020153520": 12,
+      "gas:candidate-vibid:4504020153804": 3,
+      "gas:candidate-vibid:4504020153401": 182,
+      "gas:candidate-vibid:4504020153344": 47,
+      "gas:candidate-vibid:4504020153136": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005536&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005536&type=464",
@@ -6539,14 +6539,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 101,
-      "Барановский Дмитрий Андреевич": 21,
-      "Безлер Юрий Викторович": 115,
-      "Карлов Сергей Сергеевич": 25,
-      "Осипов Олег Борисович": 18,
-      "Серова Елена Олеговна": 438,
-      "Фёдоров Виталий Владимирович": 90,
-      "Чернышов Игорь Михайлович": 36
+      "gas:candidate-vibid:4504020153555": 101,
+      "gas:candidate-vibid:4504020153611": 21,
+      "gas:candidate-vibid:4504020153008": 115,
+      "gas:candidate-vibid:4504020153520": 25,
+      "gas:candidate-vibid:4504020153804": 18,
+      "gas:candidate-vibid:4504020153401": 438,
+      "gas:candidate-vibid:4504020153344": 90,
+      "gas:candidate-vibid:4504020153136": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005536&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005536&type=464",
@@ -6597,14 +6597,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 80,
-      "Барановский Дмитрий Андреевич": 25,
-      "Безлер Юрий Викторович": 107,
-      "Карлов Сергей Сергеевич": 18,
-      "Осипов Олег Борисович": 18,
-      "Серова Елена Олеговна": 471,
-      "Фёдоров Виталий Владимирович": 109,
-      "Чернышов Игорь Михайлович": 43
+      "gas:candidate-vibid:4504020153555": 80,
+      "gas:candidate-vibid:4504020153611": 25,
+      "gas:candidate-vibid:4504020153008": 107,
+      "gas:candidate-vibid:4504020153520": 18,
+      "gas:candidate-vibid:4504020153804": 18,
+      "gas:candidate-vibid:4504020153401": 471,
+      "gas:candidate-vibid:4504020153344": 109,
+      "gas:candidate-vibid:4504020153136": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005536&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005536&type=464",
@@ -6655,14 +6655,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 67,
-      "Барановский Дмитрий Андреевич": 27,
-      "Безлер Юрий Викторович": 75,
-      "Карлов Сергей Сергеевич": 18,
-      "Осипов Олег Борисович": 20,
-      "Серова Елена Олеговна": 435,
-      "Фёдоров Виталий Владимирович": 93,
-      "Чернышов Игорь Михайлович": 31
+      "gas:candidate-vibid:4504020153555": 67,
+      "gas:candidate-vibid:4504020153611": 27,
+      "gas:candidate-vibid:4504020153008": 75,
+      "gas:candidate-vibid:4504020153520": 18,
+      "gas:candidate-vibid:4504020153804": 20,
+      "gas:candidate-vibid:4504020153401": 435,
+      "gas:candidate-vibid:4504020153344": 93,
+      "gas:candidate-vibid:4504020153136": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005536&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005536&type=464",
@@ -6713,14 +6713,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 90,
-      "Барановский Дмитрий Андреевич": 46,
-      "Безлер Юрий Викторович": 89,
-      "Карлов Сергей Сергеевич": 21,
-      "Осипов Олег Борисович": 23,
-      "Серова Елена Олеговна": 424,
-      "Фёдоров Виталий Владимирович": 106,
-      "Чернышов Игорь Михайлович": 30
+      "gas:candidate-vibid:4504020153555": 90,
+      "gas:candidate-vibid:4504020153611": 46,
+      "gas:candidate-vibid:4504020153008": 89,
+      "gas:candidate-vibid:4504020153520": 21,
+      "gas:candidate-vibid:4504020153804": 23,
+      "gas:candidate-vibid:4504020153401": 424,
+      "gas:candidate-vibid:4504020153344": 106,
+      "gas:candidate-vibid:4504020153136": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005536&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005536&type=464",
@@ -6771,14 +6771,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 65,
-      "Барановский Дмитрий Андреевич": 26,
-      "Безлер Юрий Викторович": 92,
-      "Карлов Сергей Сергеевич": 17,
-      "Осипов Олег Борисович": 16,
-      "Серова Елена Олеговна": 451,
-      "Фёдоров Виталий Владимирович": 78,
-      "Чернышов Игорь Михайлович": 33
+      "gas:candidate-vibid:4504020153555": 65,
+      "gas:candidate-vibid:4504020153611": 26,
+      "gas:candidate-vibid:4504020153008": 92,
+      "gas:candidate-vibid:4504020153520": 17,
+      "gas:candidate-vibid:4504020153804": 16,
+      "gas:candidate-vibid:4504020153401": 451,
+      "gas:candidate-vibid:4504020153344": 78,
+      "gas:candidate-vibid:4504020153136": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005536&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005536&type=464",
@@ -6829,14 +6829,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 65,
-      "Барановский Дмитрий Андреевич": 6,
-      "Безлер Юрий Викторович": 87,
-      "Карлов Сергей Сергеевич": 17,
-      "Осипов Олег Борисович": 16,
-      "Серова Елена Олеговна": 299,
-      "Фёдоров Виталий Владимирович": 74,
-      "Чернышов Игорь Михайлович": 27
+      "gas:candidate-vibid:4504020153555": 65,
+      "gas:candidate-vibid:4504020153611": 6,
+      "gas:candidate-vibid:4504020153008": 87,
+      "gas:candidate-vibid:4504020153520": 17,
+      "gas:candidate-vibid:4504020153804": 16,
+      "gas:candidate-vibid:4504020153401": 299,
+      "gas:candidate-vibid:4504020153344": 74,
+      "gas:candidate-vibid:4504020153136": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005536&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005536&type=464",
@@ -6887,14 +6887,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 42,
-      "Барановский Дмитрий Андреевич": 13,
-      "Безлер Юрий Викторович": 52,
-      "Карлов Сергей Сергеевич": 8,
-      "Осипов Олег Борисович": 8,
-      "Серова Елена Олеговна": 230,
-      "Фёдоров Виталий Владимирович": 37,
-      "Чернышов Игорь Михайлович": 20
+      "gas:candidate-vibid:4504020153555": 42,
+      "gas:candidate-vibid:4504020153611": 13,
+      "gas:candidate-vibid:4504020153008": 52,
+      "gas:candidate-vibid:4504020153520": 8,
+      "gas:candidate-vibid:4504020153804": 8,
+      "gas:candidate-vibid:4504020153401": 230,
+      "gas:candidate-vibid:4504020153344": 37,
+      "gas:candidate-vibid:4504020153136": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005536&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005536&type=464",
@@ -6945,14 +6945,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 31,
-      "Барановский Дмитрий Андреевич": 8,
-      "Безлер Юрий Викторович": 56,
-      "Карлов Сергей Сергеевич": 13,
-      "Осипов Олег Борисович": 9,
-      "Серова Елена Олеговна": 271,
-      "Фёдоров Виталий Владимирович": 57,
-      "Чернышов Игорь Михайлович": 22
+      "gas:candidate-vibid:4504020153555": 31,
+      "gas:candidate-vibid:4504020153611": 8,
+      "gas:candidate-vibid:4504020153008": 56,
+      "gas:candidate-vibid:4504020153520": 13,
+      "gas:candidate-vibid:4504020153804": 9,
+      "gas:candidate-vibid:4504020153401": 271,
+      "gas:candidate-vibid:4504020153344": 57,
+      "gas:candidate-vibid:4504020153136": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005536&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005536&type=464",
@@ -7003,14 +7003,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 41,
-      "Барановский Дмитрий Андреевич": 18,
-      "Безлер Юрий Викторович": 85,
-      "Карлов Сергей Сергеевич": 19,
-      "Осипов Олег Борисович": 18,
-      "Серова Елена Олеговна": 289,
-      "Фёдоров Виталий Владимирович": 60,
-      "Чернышов Игорь Михайлович": 29
+      "gas:candidate-vibid:4504020153555": 41,
+      "gas:candidate-vibid:4504020153611": 18,
+      "gas:candidate-vibid:4504020153008": 85,
+      "gas:candidate-vibid:4504020153520": 19,
+      "gas:candidate-vibid:4504020153804": 18,
+      "gas:candidate-vibid:4504020153401": 289,
+      "gas:candidate-vibid:4504020153344": 60,
+      "gas:candidate-vibid:4504020153136": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005536&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005536&type=464",
@@ -7061,14 +7061,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 82,
-      "Барановский Дмитрий Андреевич": 23,
-      "Безлер Юрий Викторович": 90,
-      "Карлов Сергей Сергеевич": 18,
-      "Осипов Олег Борисович": 22,
-      "Серова Елена Олеговна": 321,
-      "Фёдоров Виталий Владимирович": 94,
-      "Чернышов Игорь Михайлович": 32
+      "gas:candidate-vibid:4504020153555": 82,
+      "gas:candidate-vibid:4504020153611": 23,
+      "gas:candidate-vibid:4504020153008": 90,
+      "gas:candidate-vibid:4504020153520": 18,
+      "gas:candidate-vibid:4504020153804": 22,
+      "gas:candidate-vibid:4504020153401": 321,
+      "gas:candidate-vibid:4504020153344": 94,
+      "gas:candidate-vibid:4504020153136": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005536&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005536&type=464",
@@ -7119,14 +7119,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 57,
-      "Барановский Дмитрий Андреевич": 21,
-      "Безлер Юрий Викторович": 46,
-      "Карлов Сергей Сергеевич": 15,
-      "Осипов Олег Борисович": 8,
-      "Серова Елена Олеговна": 243,
-      "Фёдоров Виталий Владимирович": 54,
-      "Чернышов Игорь Михайлович": 21
+      "gas:candidate-vibid:4504020153555": 57,
+      "gas:candidate-vibid:4504020153611": 21,
+      "gas:candidate-vibid:4504020153008": 46,
+      "gas:candidate-vibid:4504020153520": 15,
+      "gas:candidate-vibid:4504020153804": 8,
+      "gas:candidate-vibid:4504020153401": 243,
+      "gas:candidate-vibid:4504020153344": 54,
+      "gas:candidate-vibid:4504020153136": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005536&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005536&type=464",
@@ -7177,14 +7177,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 43,
-      "Барановский Дмитрий Андреевич": 17,
-      "Безлер Юрий Викторович": 80,
-      "Карлов Сергей Сергеевич": 14,
-      "Осипов Олег Борисович": 7,
-      "Серова Елена Олеговна": 333,
-      "Фёдоров Виталий Владимирович": 69,
-      "Чернышов Игорь Михайлович": 25
+      "gas:candidate-vibid:4504020153555": 43,
+      "gas:candidate-vibid:4504020153611": 17,
+      "gas:candidate-vibid:4504020153008": 80,
+      "gas:candidate-vibid:4504020153520": 14,
+      "gas:candidate-vibid:4504020153804": 7,
+      "gas:candidate-vibid:4504020153401": 333,
+      "gas:candidate-vibid:4504020153344": 69,
+      "gas:candidate-vibid:4504020153136": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005536&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005536&type=464",
@@ -7235,14 +7235,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 53,
-      "Барановский Дмитрий Андреевич": 14,
-      "Безлер Юрий Викторович": 78,
-      "Карлов Сергей Сергеевич": 17,
-      "Осипов Олег Борисович": 8,
-      "Серова Елена Олеговна": 309,
-      "Фёдоров Виталий Владимирович": 72,
-      "Чернышов Игорь Михайлович": 30
+      "gas:candidate-vibid:4504020153555": 53,
+      "gas:candidate-vibid:4504020153611": 14,
+      "gas:candidate-vibid:4504020153008": 78,
+      "gas:candidate-vibid:4504020153520": 17,
+      "gas:candidate-vibid:4504020153804": 8,
+      "gas:candidate-vibid:4504020153401": 309,
+      "gas:candidate-vibid:4504020153344": 72,
+      "gas:candidate-vibid:4504020153136": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005536&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005536&type=464",
@@ -7293,14 +7293,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 59,
-      "Барановский Дмитрий Андреевич": 25,
-      "Безлер Юрий Викторович": 90,
-      "Карлов Сергей Сергеевич": 15,
-      "Осипов Олег Борисович": 12,
-      "Серова Елена Олеговна": 391,
-      "Фёдоров Виталий Владимирович": 87,
-      "Чернышов Игорь Михайлович": 32
+      "gas:candidate-vibid:4504020153555": 59,
+      "gas:candidate-vibid:4504020153611": 25,
+      "gas:candidate-vibid:4504020153008": 90,
+      "gas:candidate-vibid:4504020153520": 15,
+      "gas:candidate-vibid:4504020153804": 12,
+      "gas:candidate-vibid:4504020153401": 391,
+      "gas:candidate-vibid:4504020153344": 87,
+      "gas:candidate-vibid:4504020153136": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005536&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005536&type=464",
@@ -7351,14 +7351,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 61,
-      "Барановский Дмитрий Андреевич": 21,
-      "Безлер Юрий Викторович": 67,
-      "Карлов Сергей Сергеевич": 25,
-      "Осипов Олег Борисович": 15,
-      "Серова Елена Олеговна": 319,
-      "Фёдоров Виталий Владимирович": 71,
-      "Чернышов Игорь Михайлович": 24
+      "gas:candidate-vibid:4504020153555": 61,
+      "gas:candidate-vibid:4504020153611": 21,
+      "gas:candidate-vibid:4504020153008": 67,
+      "gas:candidate-vibid:4504020153520": 25,
+      "gas:candidate-vibid:4504020153804": 15,
+      "gas:candidate-vibid:4504020153401": 319,
+      "gas:candidate-vibid:4504020153344": 71,
+      "gas:candidate-vibid:4504020153136": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005536&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005536&type=464",
@@ -7409,14 +7409,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 46,
-      "Барановский Дмитрий Андреевич": 17,
-      "Безлер Юрий Викторович": 58,
-      "Карлов Сергей Сергеевич": 24,
-      "Осипов Олег Борисович": 8,
-      "Серова Елена Олеговна": 285,
-      "Фёдоров Виталий Владимирович": 82,
-      "Чернышов Игорь Михайлович": 24
+      "gas:candidate-vibid:4504020153555": 46,
+      "gas:candidate-vibid:4504020153611": 17,
+      "gas:candidate-vibid:4504020153008": 58,
+      "gas:candidate-vibid:4504020153520": 24,
+      "gas:candidate-vibid:4504020153804": 8,
+      "gas:candidate-vibid:4504020153401": 285,
+      "gas:candidate-vibid:4504020153344": 82,
+      "gas:candidate-vibid:4504020153136": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005536&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005536&type=464",
@@ -7467,14 +7467,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 60,
-      "Барановский Дмитрий Андреевич": 22,
-      "Безлер Юрий Викторович": 60,
-      "Карлов Сергей Сергеевич": 28,
-      "Осипов Олег Борисович": 10,
-      "Серова Елена Олеговна": 438,
-      "Фёдоров Виталий Владимирович": 75,
-      "Чернышов Игорь Михайлович": 29
+      "gas:candidate-vibid:4504020153555": 60,
+      "gas:candidate-vibid:4504020153611": 22,
+      "gas:candidate-vibid:4504020153008": 60,
+      "gas:candidate-vibid:4504020153520": 28,
+      "gas:candidate-vibid:4504020153804": 10,
+      "gas:candidate-vibid:4504020153401": 438,
+      "gas:candidate-vibid:4504020153344": 75,
+      "gas:candidate-vibid:4504020153136": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005536&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005536&type=464",
@@ -7525,14 +7525,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 85,
-      "Барановский Дмитрий Андреевич": 26,
-      "Безлер Юрий Викторович": 76,
-      "Карлов Сергей Сергеевич": 15,
-      "Осипов Олег Борисович": 16,
-      "Серова Елена Олеговна": 406,
-      "Фёдоров Виталий Владимирович": 86,
-      "Чернышов Игорь Михайлович": 44
+      "gas:candidate-vibid:4504020153555": 85,
+      "gas:candidate-vibid:4504020153611": 26,
+      "gas:candidate-vibid:4504020153008": 76,
+      "gas:candidate-vibid:4504020153520": 15,
+      "gas:candidate-vibid:4504020153804": 16,
+      "gas:candidate-vibid:4504020153401": 406,
+      "gas:candidate-vibid:4504020153344": 86,
+      "gas:candidate-vibid:4504020153136": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005536&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005536&type=464",
@@ -7583,14 +7583,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 23,
-      "Барановский Дмитрий Андреевич": 8,
-      "Безлер Юрий Викторович": 44,
-      "Карлов Сергей Сергеевич": 12,
-      "Осипов Олег Борисович": 5,
-      "Серова Елена Олеговна": 145,
-      "Фёдоров Виталий Владимирович": 54,
-      "Чернышов Игорь Михайлович": 16
+      "gas:candidate-vibid:4504020153555": 23,
+      "gas:candidate-vibid:4504020153611": 8,
+      "gas:candidate-vibid:4504020153008": 44,
+      "gas:candidate-vibid:4504020153520": 12,
+      "gas:candidate-vibid:4504020153804": 5,
+      "gas:candidate-vibid:4504020153401": 145,
+      "gas:candidate-vibid:4504020153344": 54,
+      "gas:candidate-vibid:4504020153136": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005536&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005536&type=464",
@@ -7641,14 +7641,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 37,
-      "Барановский Дмитрий Андреевич": 4,
-      "Безлер Юрий Викторович": 36,
-      "Карлов Сергей Сергеевич": 9,
-      "Осипов Олег Борисович": 8,
-      "Серова Елена Олеговна": 176,
-      "Фёдоров Виталий Владимирович": 37,
-      "Чернышов Игорь Михайлович": 13
+      "gas:candidate-vibid:4504020153555": 37,
+      "gas:candidate-vibid:4504020153611": 4,
+      "gas:candidate-vibid:4504020153008": 36,
+      "gas:candidate-vibid:4504020153520": 9,
+      "gas:candidate-vibid:4504020153804": 8,
+      "gas:candidate-vibid:4504020153401": 176,
+      "gas:candidate-vibid:4504020153344": 37,
+      "gas:candidate-vibid:4504020153136": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005536&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005536&type=464",
@@ -7699,14 +7699,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 13,
-      "Барановский Дмитрий Андреевич": 5,
-      "Безлер Юрий Викторович": 34,
-      "Карлов Сергей Сергеевич": 5,
-      "Осипов Олег Борисович": 5,
-      "Серова Елена Олеговна": 116,
-      "Фёдоров Виталий Владимирович": 32,
-      "Чернышов Игорь Михайлович": 15
+      "gas:candidate-vibid:4504020153555": 13,
+      "gas:candidate-vibid:4504020153611": 5,
+      "gas:candidate-vibid:4504020153008": 34,
+      "gas:candidate-vibid:4504020153520": 5,
+      "gas:candidate-vibid:4504020153804": 5,
+      "gas:candidate-vibid:4504020153401": 116,
+      "gas:candidate-vibid:4504020153344": 32,
+      "gas:candidate-vibid:4504020153136": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005536&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005536&type=464",
@@ -7757,14 +7757,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 13,
-      "Барановский Дмитрий Андреевич": 10,
-      "Безлер Юрий Викторович": 67,
-      "Карлов Сергей Сергеевич": 28,
-      "Осипов Олег Борисович": 4,
-      "Серова Елена Олеговна": 71,
-      "Фёдоров Виталий Владимирович": 2,
-      "Чернышов Игорь Михайлович": 10
+      "gas:candidate-vibid:4504020153555": 13,
+      "gas:candidate-vibid:4504020153611": 10,
+      "gas:candidate-vibid:4504020153008": 67,
+      "gas:candidate-vibid:4504020153520": 28,
+      "gas:candidate-vibid:4504020153804": 4,
+      "gas:candidate-vibid:4504020153401": 71,
+      "gas:candidate-vibid:4504020153344": 2,
+      "gas:candidate-vibid:4504020153136": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005536&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005536&type=464",
@@ -7815,14 +7815,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 81,
-      "Барановский Дмитрий Андреевич": 39,
-      "Безлер Юрий Викторович": 109,
-      "Карлов Сергей Сергеевич": 28,
-      "Осипов Олег Борисович": 24,
-      "Серова Елена Олеговна": 526,
-      "Фёдоров Виталий Владимирович": 99,
-      "Чернышов Игорь Михайлович": 27
+      "gas:candidate-vibid:4504020153555": 81,
+      "gas:candidate-vibid:4504020153611": 39,
+      "gas:candidate-vibid:4504020153008": 109,
+      "gas:candidate-vibid:4504020153520": 28,
+      "gas:candidate-vibid:4504020153804": 24,
+      "gas:candidate-vibid:4504020153401": 526,
+      "gas:candidate-vibid:4504020153344": 99,
+      "gas:candidate-vibid:4504020153136": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005536&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005536&type=464",
@@ -7873,14 +7873,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 13,
-      "Барановский Дмитрий Андреевич": 3,
-      "Безлер Юрий Викторович": 20,
-      "Карлов Сергей Сергеевич": 2,
-      "Осипов Олег Борисович": 3,
-      "Серова Елена Олеговна": 59,
-      "Фёдоров Виталий Владимирович": 9,
-      "Чернышов Игорь Михайлович": 3
+      "gas:candidate-vibid:4504020153555": 13,
+      "gas:candidate-vibid:4504020153611": 3,
+      "gas:candidate-vibid:4504020153008": 20,
+      "gas:candidate-vibid:4504020153520": 2,
+      "gas:candidate-vibid:4504020153804": 3,
+      "gas:candidate-vibid:4504020153401": 59,
+      "gas:candidate-vibid:4504020153344": 9,
+      "gas:candidate-vibid:4504020153136": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005536&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005536&type=464",
@@ -7931,14 +7931,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 64,
-      "Барановский Дмитрий Андреевич": 26,
-      "Безлер Юрий Викторович": 95,
-      "Карлов Сергей Сергеевич": 31,
-      "Осипов Олег Борисович": 17,
-      "Серова Елена Олеговна": 372,
-      "Фёдоров Виталий Владимирович": 102,
-      "Чернышов Игорь Михайлович": 31
+      "gas:candidate-vibid:4504020153555": 64,
+      "gas:candidate-vibid:4504020153611": 26,
+      "gas:candidate-vibid:4504020153008": 95,
+      "gas:candidate-vibid:4504020153520": 31,
+      "gas:candidate-vibid:4504020153804": 17,
+      "gas:candidate-vibid:4504020153401": 372,
+      "gas:candidate-vibid:4504020153344": 102,
+      "gas:candidate-vibid:4504020153136": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005536&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005536&type=464",
@@ -7989,14 +7989,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 9,
-      "Барановский Дмитрий Андреевич": 4,
-      "Безлер Юрий Викторович": 12,
-      "Карлов Сергей Сергеевич": 4,
-      "Осипов Олег Борисович": 4,
-      "Серова Елена Олеговна": 65,
-      "Фёдоров Виталий Владимирович": 13,
-      "Чернышов Игорь Михайлович": 3
+      "gas:candidate-vibid:4504020153555": 9,
+      "gas:candidate-vibid:4504020153611": 4,
+      "gas:candidate-vibid:4504020153008": 12,
+      "gas:candidate-vibid:4504020153520": 4,
+      "gas:candidate-vibid:4504020153804": 4,
+      "gas:candidate-vibid:4504020153401": 65,
+      "gas:candidate-vibid:4504020153344": 13,
+      "gas:candidate-vibid:4504020153136": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005536&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005536&type=464",
@@ -8047,14 +8047,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 18,
-      "Барановский Дмитрий Андреевич": 4,
-      "Безлер Юрий Викторович": 21,
-      "Карлов Сергей Сергеевич": 5,
-      "Осипов Олег Борисович": 5,
-      "Серова Елена Олеговна": 95,
-      "Фёдоров Виталий Владимирович": 26,
-      "Чернышов Игорь Михайлович": 13
+      "gas:candidate-vibid:4504020153555": 18,
+      "gas:candidate-vibid:4504020153611": 4,
+      "gas:candidate-vibid:4504020153008": 21,
+      "gas:candidate-vibid:4504020153520": 5,
+      "gas:candidate-vibid:4504020153804": 5,
+      "gas:candidate-vibid:4504020153401": 95,
+      "gas:candidate-vibid:4504020153344": 26,
+      "gas:candidate-vibid:4504020153136": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005536&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005536&type=464",
@@ -8105,14 +8105,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 16,
-      "Барановский Дмитрий Андреевич": 4,
-      "Безлер Юрий Викторович": 30,
-      "Карлов Сергей Сергеевич": 6,
-      "Осипов Олег Борисович": 3,
-      "Серова Елена Олеговна": 96,
-      "Фёдоров Виталий Владимирович": 15,
-      "Чернышов Игорь Михайлович": 6
+      "gas:candidate-vibid:4504020153555": 16,
+      "gas:candidate-vibid:4504020153611": 4,
+      "gas:candidate-vibid:4504020153008": 30,
+      "gas:candidate-vibid:4504020153520": 6,
+      "gas:candidate-vibid:4504020153804": 3,
+      "gas:candidate-vibid:4504020153401": 96,
+      "gas:candidate-vibid:4504020153344": 15,
+      "gas:candidate-vibid:4504020153136": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005536&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005536&type=464",
@@ -8163,14 +8163,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 36,
-      "Барановский Дмитрий Андреевич": 16,
-      "Безлер Юрий Викторович": 67,
-      "Карлов Сергей Сергеевич": 17,
-      "Осипов Олег Борисович": 15,
-      "Серова Елена Олеговна": 296,
-      "Фёдоров Виталий Владимирович": 40,
-      "Чернышов Игорь Михайлович": 20
+      "gas:candidate-vibid:4504020153555": 36,
+      "gas:candidate-vibid:4504020153611": 16,
+      "gas:candidate-vibid:4504020153008": 67,
+      "gas:candidate-vibid:4504020153520": 17,
+      "gas:candidate-vibid:4504020153804": 15,
+      "gas:candidate-vibid:4504020153401": 296,
+      "gas:candidate-vibid:4504020153344": 40,
+      "gas:candidate-vibid:4504020153136": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005536&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005536&type=464",
@@ -8221,14 +8221,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 10,
-      "Барановский Дмитрий Андреевич": 9,
-      "Безлер Юрий Викторович": 20,
-      "Карлов Сергей Сергеевич": 2,
-      "Осипов Олег Борисович": 4,
-      "Серова Елена Олеговна": 110,
-      "Фёдоров Виталий Владимирович": 21,
-      "Чернышов Игорь Михайлович": 7
+      "gas:candidate-vibid:4504020153555": 10,
+      "gas:candidate-vibid:4504020153611": 9,
+      "gas:candidate-vibid:4504020153008": 20,
+      "gas:candidate-vibid:4504020153520": 2,
+      "gas:candidate-vibid:4504020153804": 4,
+      "gas:candidate-vibid:4504020153401": 110,
+      "gas:candidate-vibid:4504020153344": 21,
+      "gas:candidate-vibid:4504020153136": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005536&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005536&type=464",
@@ -8279,14 +8279,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 39,
-      "Барановский Дмитрий Андреевич": 14,
-      "Безлер Юрий Викторович": 79,
-      "Карлов Сергей Сергеевич": 12,
-      "Осипов Олег Борисович": 17,
-      "Серова Елена Олеговна": 327,
-      "Фёдоров Виталий Владимирович": 72,
-      "Чернышов Игорь Михайлович": 23
+      "gas:candidate-vibid:4504020153555": 39,
+      "gas:candidate-vibid:4504020153611": 14,
+      "gas:candidate-vibid:4504020153008": 79,
+      "gas:candidate-vibid:4504020153520": 12,
+      "gas:candidate-vibid:4504020153804": 17,
+      "gas:candidate-vibid:4504020153401": 327,
+      "gas:candidate-vibid:4504020153344": 72,
+      "gas:candidate-vibid:4504020153136": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005536&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005536&type=464",
@@ -8337,14 +8337,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 13,
-      "Барановский Дмитрий Андреевич": 6,
-      "Безлер Юрий Викторович": 18,
-      "Карлов Сергей Сергеевич": 8,
-      "Осипов Олег Борисович": 5,
-      "Серова Елена Олеговна": 114,
-      "Фёдоров Виталий Владимирович": 23,
-      "Чернышов Игорь Михайлович": 11
+      "gas:candidate-vibid:4504020153555": 13,
+      "gas:candidate-vibid:4504020153611": 6,
+      "gas:candidate-vibid:4504020153008": 18,
+      "gas:candidate-vibid:4504020153520": 8,
+      "gas:candidate-vibid:4504020153804": 5,
+      "gas:candidate-vibid:4504020153401": 114,
+      "gas:candidate-vibid:4504020153344": 23,
+      "gas:candidate-vibid:4504020153136": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005536&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005536&type=464",
@@ -8395,14 +8395,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 9,
-      "Барановский Дмитрий Андреевич": 9,
-      "Безлер Юрий Викторович": 21,
-      "Карлов Сергей Сергеевич": 4,
-      "Осипов Олег Борисович": 5,
-      "Серова Елена Олеговна": 253,
-      "Фёдоров Виталий Владимирович": 22,
-      "Чернышов Игорь Михайлович": 6
+      "gas:candidate-vibid:4504020153555": 9,
+      "gas:candidate-vibid:4504020153611": 9,
+      "gas:candidate-vibid:4504020153008": 21,
+      "gas:candidate-vibid:4504020153520": 4,
+      "gas:candidate-vibid:4504020153804": 5,
+      "gas:candidate-vibid:4504020153401": 253,
+      "gas:candidate-vibid:4504020153344": 22,
+      "gas:candidate-vibid:4504020153136": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005536&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005536&type=464",
@@ -8453,14 +8453,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 13,
-      "Барановский Дмитрий Андреевич": 11,
-      "Безлер Юрий Викторович": 36,
-      "Карлов Сергей Сергеевич": 6,
-      "Осипов Олег Борисович": 6,
-      "Серова Елена Олеговна": 132,
-      "Фёдоров Виталий Владимирович": 34,
-      "Чернышов Игорь Михайлович": 14
+      "gas:candidate-vibid:4504020153555": 13,
+      "gas:candidate-vibid:4504020153611": 11,
+      "gas:candidate-vibid:4504020153008": 36,
+      "gas:candidate-vibid:4504020153520": 6,
+      "gas:candidate-vibid:4504020153804": 6,
+      "gas:candidate-vibid:4504020153401": 132,
+      "gas:candidate-vibid:4504020153344": 34,
+      "gas:candidate-vibid:4504020153136": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005536&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005536&type=464",
@@ -8511,14 +8511,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 27,
-      "Барановский Дмитрий Андреевич": 12,
-      "Безлер Юрий Викторович": 47,
-      "Карлов Сергей Сергеевич": 7,
-      "Осипов Олег Борисович": 16,
-      "Серова Елена Олеговна": 421,
-      "Фёдоров Виталий Владимирович": 50,
-      "Чернышов Игорь Михайлович": 23
+      "gas:candidate-vibid:4504020153555": 27,
+      "gas:candidate-vibid:4504020153611": 12,
+      "gas:candidate-vibid:4504020153008": 47,
+      "gas:candidate-vibid:4504020153520": 7,
+      "gas:candidate-vibid:4504020153804": 16,
+      "gas:candidate-vibid:4504020153401": 421,
+      "gas:candidate-vibid:4504020153344": 50,
+      "gas:candidate-vibid:4504020153136": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005536&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005536&type=464",
@@ -8569,14 +8569,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 8,
-      "Барановский Дмитрий Андреевич": 3,
-      "Безлер Юрий Викторович": 14,
-      "Карлов Сергей Сергеевич": 4,
-      "Осипов Олег Борисович": 4,
-      "Серова Елена Олеговна": 86,
-      "Фёдоров Виталий Владимирович": 12,
-      "Чернышов Игорь Михайлович": 4
+      "gas:candidate-vibid:4504020153555": 8,
+      "gas:candidate-vibid:4504020153611": 3,
+      "gas:candidate-vibid:4504020153008": 14,
+      "gas:candidate-vibid:4504020153520": 4,
+      "gas:candidate-vibid:4504020153804": 4,
+      "gas:candidate-vibid:4504020153401": 86,
+      "gas:candidate-vibid:4504020153344": 12,
+      "gas:candidate-vibid:4504020153136": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005536&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005536&type=464",
@@ -8627,14 +8627,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 18,
-      "Барановский Дмитрий Андреевич": 10,
-      "Безлер Юрий Викторович": 34,
-      "Карлов Сергей Сергеевич": 4,
-      "Осипов Олег Борисович": 7,
-      "Серова Елена Олеговна": 220,
-      "Фёдоров Виталий Владимирович": 29,
-      "Чернышов Игорь Михайлович": 16
+      "gas:candidate-vibid:4504020153555": 18,
+      "gas:candidate-vibid:4504020153611": 10,
+      "gas:candidate-vibid:4504020153008": 34,
+      "gas:candidate-vibid:4504020153520": 4,
+      "gas:candidate-vibid:4504020153804": 7,
+      "gas:candidate-vibid:4504020153401": 220,
+      "gas:candidate-vibid:4504020153344": 29,
+      "gas:candidate-vibid:4504020153136": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005536&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005536&type=464",
@@ -8685,14 +8685,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 22,
-      "Барановский Дмитрий Андреевич": 15,
-      "Безлер Юрий Викторович": 45,
-      "Карлов Сергей Сергеевич": 10,
-      "Осипов Олег Борисович": 4,
-      "Серова Елена Олеговна": 454,
-      "Фёдоров Виталий Владимирович": 73,
-      "Чернышов Игорь Михайлович": 25
+      "gas:candidate-vibid:4504020153555": 22,
+      "gas:candidate-vibid:4504020153611": 15,
+      "gas:candidate-vibid:4504020153008": 45,
+      "gas:candidate-vibid:4504020153520": 10,
+      "gas:candidate-vibid:4504020153804": 4,
+      "gas:candidate-vibid:4504020153401": 454,
+      "gas:candidate-vibid:4504020153344": 73,
+      "gas:candidate-vibid:4504020153136": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005536&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005536&type=464",
@@ -8743,14 +8743,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 68,
-      "Барановский Дмитрий Андреевич": 50,
-      "Безлер Юрий Викторович": 163,
-      "Карлов Сергей Сергеевич": 33,
-      "Осипов Олег Борисович": 33,
-      "Серова Елена Олеговна": 563,
-      "Фёдоров Виталий Владимирович": 90,
-      "Чернышов Игорь Михайлович": 28
+      "gas:candidate-vibid:4504020153555": 68,
+      "gas:candidate-vibid:4504020153611": 50,
+      "gas:candidate-vibid:4504020153008": 163,
+      "gas:candidate-vibid:4504020153520": 33,
+      "gas:candidate-vibid:4504020153804": 33,
+      "gas:candidate-vibid:4504020153401": 563,
+      "gas:candidate-vibid:4504020153344": 90,
+      "gas:candidate-vibid:4504020153136": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005536&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005536&type=464",
@@ -8801,14 +8801,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 15,
-      "Барановский Дмитрий Андреевич": 12,
-      "Безлер Юрий Викторович": 37,
-      "Карлов Сергей Сергеевич": 15,
-      "Осипов Олег Борисович": 6,
-      "Серова Елена Олеговна": 288,
-      "Фёдоров Виталий Владимирович": 14,
-      "Чернышов Игорь Михайлович": 13
+      "gas:candidate-vibid:4504020153555": 15,
+      "gas:candidate-vibid:4504020153611": 12,
+      "gas:candidate-vibid:4504020153008": 37,
+      "gas:candidate-vibid:4504020153520": 15,
+      "gas:candidate-vibid:4504020153804": 6,
+      "gas:candidate-vibid:4504020153401": 288,
+      "gas:candidate-vibid:4504020153344": 14,
+      "gas:candidate-vibid:4504020153136": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005536&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005536&type=464",
@@ -8859,14 +8859,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 17,
-      "Барановский Дмитрий Андреевич": 6,
-      "Безлер Юрий Викторович": 56,
-      "Карлов Сергей Сергеевич": 9,
-      "Осипов Олег Борисович": 6,
-      "Серова Елена Олеговна": 406,
-      "Фёдоров Виталий Владимирович": 42,
-      "Чернышов Игорь Михайлович": 20
+      "gas:candidate-vibid:4504020153555": 17,
+      "gas:candidate-vibid:4504020153611": 6,
+      "gas:candidate-vibid:4504020153008": 56,
+      "gas:candidate-vibid:4504020153520": 9,
+      "gas:candidate-vibid:4504020153804": 6,
+      "gas:candidate-vibid:4504020153401": 406,
+      "gas:candidate-vibid:4504020153344": 42,
+      "gas:candidate-vibid:4504020153136": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005536&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005536&type=464",
@@ -8917,14 +8917,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 9,
-      "Барановский Дмитрий Андреевич": 18,
-      "Безлер Юрий Викторович": 38,
-      "Карлов Сергей Сергеевич": 7,
-      "Осипов Олег Борисович": 10,
-      "Серова Елена Олеговна": 349,
-      "Фёдоров Виталий Владимирович": 31,
-      "Чернышов Игорь Михайлович": 6
+      "gas:candidate-vibid:4504020153555": 9,
+      "gas:candidate-vibid:4504020153611": 18,
+      "gas:candidate-vibid:4504020153008": 38,
+      "gas:candidate-vibid:4504020153520": 7,
+      "gas:candidate-vibid:4504020153804": 10,
+      "gas:candidate-vibid:4504020153401": 349,
+      "gas:candidate-vibid:4504020153344": 31,
+      "gas:candidate-vibid:4504020153136": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005536&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005536&type=464",
@@ -8975,14 +8975,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 23,
-      "Барановский Дмитрий Андреевич": 9,
-      "Безлер Юрий Викторович": 50,
-      "Карлов Сергей Сергеевич": 10,
-      "Осипов Олег Борисович": 10,
-      "Серова Елена Олеговна": 312,
-      "Фёдоров Виталий Владимирович": 33,
-      "Чернышов Игорь Михайлович": 14
+      "gas:candidate-vibid:4504020153555": 23,
+      "gas:candidate-vibid:4504020153611": 9,
+      "gas:candidate-vibid:4504020153008": 50,
+      "gas:candidate-vibid:4504020153520": 10,
+      "gas:candidate-vibid:4504020153804": 10,
+      "gas:candidate-vibid:4504020153401": 312,
+      "gas:candidate-vibid:4504020153344": 33,
+      "gas:candidate-vibid:4504020153136": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005536&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005536&type=464",
@@ -9033,14 +9033,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 10,
-      "Барановский Дмитрий Андреевич": 4,
-      "Безлер Юрий Викторович": 14,
-      "Карлов Сергей Сергеевич": 6,
-      "Осипов Олег Борисович": 1,
-      "Серова Елена Олеговна": 137,
-      "Фёдоров Виталий Владимирович": 14,
-      "Чернышов Игорь Михайлович": 4
+      "gas:candidate-vibid:4504020153555": 10,
+      "gas:candidate-vibid:4504020153611": 4,
+      "gas:candidate-vibid:4504020153008": 14,
+      "gas:candidate-vibid:4504020153520": 6,
+      "gas:candidate-vibid:4504020153804": 1,
+      "gas:candidate-vibid:4504020153401": 137,
+      "gas:candidate-vibid:4504020153344": 14,
+      "gas:candidate-vibid:4504020153136": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005536&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005536&type=464",
@@ -9091,14 +9091,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 12,
-      "Барановский Дмитрий Андреевич": 1,
-      "Безлер Юрий Викторович": 19,
-      "Карлов Сергей Сергеевич": 0,
-      "Осипов Олег Борисович": 3,
-      "Серова Елена Олеговна": 211,
-      "Фёдоров Виталий Владимирович": 17,
-      "Чернышов Игорь Михайлович": 5
+      "gas:candidate-vibid:4504020153555": 12,
+      "gas:candidate-vibid:4504020153611": 1,
+      "gas:candidate-vibid:4504020153008": 19,
+      "gas:candidate-vibid:4504020153520": 0,
+      "gas:candidate-vibid:4504020153804": 3,
+      "gas:candidate-vibid:4504020153401": 211,
+      "gas:candidate-vibid:4504020153344": 17,
+      "gas:candidate-vibid:4504020153136": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005536&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005536&type=464",
@@ -9149,14 +9149,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 7,
-      "Барановский Дмитрий Андреевич": 0,
-      "Безлер Юрий Викторович": 7,
-      "Карлов Сергей Сергеевич": 0,
-      "Осипов Олег Борисович": 3,
-      "Серова Елена Олеговна": 97,
-      "Фёдоров Виталий Владимирович": 24,
-      "Чернышов Игорь Михайлович": 3
+      "gas:candidate-vibid:4504020153555": 7,
+      "gas:candidate-vibid:4504020153611": 0,
+      "gas:candidate-vibid:4504020153008": 7,
+      "gas:candidate-vibid:4504020153520": 0,
+      "gas:candidate-vibid:4504020153804": 3,
+      "gas:candidate-vibid:4504020153401": 97,
+      "gas:candidate-vibid:4504020153344": 24,
+      "gas:candidate-vibid:4504020153136": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005536&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005536&type=464",
@@ -9207,14 +9207,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 33,
-      "Барановский Дмитрий Андреевич": 17,
-      "Безлер Юрий Викторович": 61,
-      "Карлов Сергей Сергеевич": 20,
-      "Осипов Олег Борисович": 10,
-      "Серова Елена Олеговна": 612,
-      "Фёдоров Виталий Владимирович": 42,
-      "Чернышов Игорь Михайлович": 13
+      "gas:candidate-vibid:4504020153555": 33,
+      "gas:candidate-vibid:4504020153611": 17,
+      "gas:candidate-vibid:4504020153008": 61,
+      "gas:candidate-vibid:4504020153520": 20,
+      "gas:candidate-vibid:4504020153804": 10,
+      "gas:candidate-vibid:4504020153401": 612,
+      "gas:candidate-vibid:4504020153344": 42,
+      "gas:candidate-vibid:4504020153136": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005536&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005536&type=464",
@@ -9265,14 +9265,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 82,
-      "Барановский Дмитрий Андреевич": 40,
-      "Безлер Юрий Викторович": 59,
-      "Карлов Сергей Сергеевич": 22,
-      "Осипов Олег Борисович": 12,
-      "Серова Елена Олеговна": 239,
-      "Фёдоров Виталий Владимирович": 76,
-      "Чернышов Игорь Михайлович": 37
+      "gas:candidate-vibid:4504020153555": 82,
+      "gas:candidate-vibid:4504020153611": 40,
+      "gas:candidate-vibid:4504020153008": 59,
+      "gas:candidate-vibid:4504020153520": 22,
+      "gas:candidate-vibid:4504020153804": 12,
+      "gas:candidate-vibid:4504020153401": 239,
+      "gas:candidate-vibid:4504020153344": 76,
+      "gas:candidate-vibid:4504020153136": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005537&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005537&type=464",
@@ -9323,14 +9323,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 109,
-      "Барановский Дмитрий Андреевич": 50,
-      "Безлер Юрий Викторович": 71,
-      "Карлов Сергей Сергеевич": 15,
-      "Осипов Олег Борисович": 12,
-      "Серова Елена Олеговна": 263,
-      "Фёдоров Виталий Владимирович": 76,
-      "Чернышов Игорь Михайлович": 37
+      "gas:candidate-vibid:4504020153555": 109,
+      "gas:candidate-vibid:4504020153611": 50,
+      "gas:candidate-vibid:4504020153008": 71,
+      "gas:candidate-vibid:4504020153520": 15,
+      "gas:candidate-vibid:4504020153804": 12,
+      "gas:candidate-vibid:4504020153401": 263,
+      "gas:candidate-vibid:4504020153344": 76,
+      "gas:candidate-vibid:4504020153136": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005537&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005537&type=464",
@@ -9381,14 +9381,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 69,
-      "Барановский Дмитрий Андреевич": 65,
-      "Безлер Юрий Викторович": 54,
-      "Карлов Сергей Сергеевич": 22,
-      "Осипов Олег Борисович": 11,
-      "Серова Елена Олеговна": 248,
-      "Фёдоров Виталий Владимирович": 89,
-      "Чернышов Игорь Михайлович": 42
+      "gas:candidate-vibid:4504020153555": 69,
+      "gas:candidate-vibid:4504020153611": 65,
+      "gas:candidate-vibid:4504020153008": 54,
+      "gas:candidate-vibid:4504020153520": 22,
+      "gas:candidate-vibid:4504020153804": 11,
+      "gas:candidate-vibid:4504020153401": 248,
+      "gas:candidate-vibid:4504020153344": 89,
+      "gas:candidate-vibid:4504020153136": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005537&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005537&type=464",
@@ -9439,14 +9439,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 70,
-      "Барановский Дмитрий Андреевич": 46,
-      "Безлер Юрий Викторович": 68,
-      "Карлов Сергей Сергеевич": 12,
-      "Осипов Олег Борисович": 11,
-      "Серова Елена Олеговна": 253,
-      "Фёдоров Виталий Владимирович": 92,
-      "Чернышов Игорь Михайлович": 57
+      "gas:candidate-vibid:4504020153555": 70,
+      "gas:candidate-vibid:4504020153611": 46,
+      "gas:candidate-vibid:4504020153008": 68,
+      "gas:candidate-vibid:4504020153520": 12,
+      "gas:candidate-vibid:4504020153804": 11,
+      "gas:candidate-vibid:4504020153401": 253,
+      "gas:candidate-vibid:4504020153344": 92,
+      "gas:candidate-vibid:4504020153136": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005537&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005537&type=464",
@@ -9497,14 +9497,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 50,
-      "Барановский Дмитрий Андреевич": 35,
-      "Безлер Юрий Викторович": 67,
-      "Карлов Сергей Сергеевич": 10,
-      "Осипов Олег Борисович": 7,
-      "Серова Елена Олеговна": 233,
-      "Фёдоров Виталий Владимирович": 70,
-      "Чернышов Игорь Михайлович": 42
+      "gas:candidate-vibid:4504020153555": 50,
+      "gas:candidate-vibid:4504020153611": 35,
+      "gas:candidate-vibid:4504020153008": 67,
+      "gas:candidate-vibid:4504020153520": 10,
+      "gas:candidate-vibid:4504020153804": 7,
+      "gas:candidate-vibid:4504020153401": 233,
+      "gas:candidate-vibid:4504020153344": 70,
+      "gas:candidate-vibid:4504020153136": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005537&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005537&type=464",
@@ -9555,14 +9555,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 73,
-      "Барановский Дмитрий Андреевич": 50,
-      "Безлер Юрий Викторович": 74,
-      "Карлов Сергей Сергеевич": 13,
-      "Осипов Олег Борисович": 8,
-      "Серова Елена Олеговна": 232,
-      "Фёдоров Виталий Владимирович": 101,
-      "Чернышов Игорь Михайлович": 48
+      "gas:candidate-vibid:4504020153555": 73,
+      "gas:candidate-vibid:4504020153611": 50,
+      "gas:candidate-vibid:4504020153008": 74,
+      "gas:candidate-vibid:4504020153520": 13,
+      "gas:candidate-vibid:4504020153804": 8,
+      "gas:candidate-vibid:4504020153401": 232,
+      "gas:candidate-vibid:4504020153344": 101,
+      "gas:candidate-vibid:4504020153136": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005537&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005537&type=464",
@@ -9613,14 +9613,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 54,
-      "Барановский Дмитрий Андреевич": 51,
-      "Безлер Юрий Викторович": 50,
-      "Карлов Сергей Сергеевич": 8,
-      "Осипов Олег Борисович": 16,
-      "Серова Елена Олеговна": 218,
-      "Фёдоров Виталий Владимирович": 67,
-      "Чернышов Игорь Михайлович": 59
+      "gas:candidate-vibid:4504020153555": 54,
+      "gas:candidate-vibid:4504020153611": 51,
+      "gas:candidate-vibid:4504020153008": 50,
+      "gas:candidate-vibid:4504020153520": 8,
+      "gas:candidate-vibid:4504020153804": 16,
+      "gas:candidate-vibid:4504020153401": 218,
+      "gas:candidate-vibid:4504020153344": 67,
+      "gas:candidate-vibid:4504020153136": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005537&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005537&type=464",
@@ -9671,14 +9671,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 47,
-      "Барановский Дмитрий Андреевич": 27,
-      "Безлер Юрий Викторович": 49,
-      "Карлов Сергей Сергеевич": 15,
-      "Осипов Олег Борисович": 4,
-      "Серова Елена Олеговна": 232,
-      "Фёдоров Виталий Владимирович": 84,
-      "Чернышов Игорь Михайлович": 60
+      "gas:candidate-vibid:4504020153555": 47,
+      "gas:candidate-vibid:4504020153611": 27,
+      "gas:candidate-vibid:4504020153008": 49,
+      "gas:candidate-vibid:4504020153520": 15,
+      "gas:candidate-vibid:4504020153804": 4,
+      "gas:candidate-vibid:4504020153401": 232,
+      "gas:candidate-vibid:4504020153344": 84,
+      "gas:candidate-vibid:4504020153136": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005537&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005537&type=464",
@@ -9729,14 +9729,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 65,
-      "Барановский Дмитрий Андреевич": 43,
-      "Безлер Юрий Викторович": 66,
-      "Карлов Сергей Сергеевич": 18,
-      "Осипов Олег Борисович": 13,
-      "Серова Елена Олеговна": 270,
-      "Фёдоров Виталий Владимирович": 96,
-      "Чернышов Игорь Михайлович": 47
+      "gas:candidate-vibid:4504020153555": 65,
+      "gas:candidate-vibid:4504020153611": 43,
+      "gas:candidate-vibid:4504020153008": 66,
+      "gas:candidate-vibid:4504020153520": 18,
+      "gas:candidate-vibid:4504020153804": 13,
+      "gas:candidate-vibid:4504020153401": 270,
+      "gas:candidate-vibid:4504020153344": 96,
+      "gas:candidate-vibid:4504020153136": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005537&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005537&type=464",
@@ -9787,14 +9787,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 53,
-      "Барановский Дмитрий Андреевич": 38,
-      "Безлер Юрий Викторович": 47,
-      "Карлов Сергей Сергеевич": 12,
-      "Осипов Олег Борисович": 12,
-      "Серова Елена Олеговна": 231,
-      "Фёдоров Виталий Владимирович": 89,
-      "Чернышов Игорь Михайлович": 46
+      "gas:candidate-vibid:4504020153555": 53,
+      "gas:candidate-vibid:4504020153611": 38,
+      "gas:candidate-vibid:4504020153008": 47,
+      "gas:candidate-vibid:4504020153520": 12,
+      "gas:candidate-vibid:4504020153804": 12,
+      "gas:candidate-vibid:4504020153401": 231,
+      "gas:candidate-vibid:4504020153344": 89,
+      "gas:candidate-vibid:4504020153136": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005537&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005537&type=464",
@@ -9845,14 +9845,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 61,
-      "Барановский Дмитрий Андреевич": 35,
-      "Безлер Юрий Викторович": 53,
-      "Карлов Сергей Сергеевич": 12,
-      "Осипов Олег Борисович": 15,
-      "Серова Елена Олеговна": 212,
-      "Фёдоров Виталий Владимирович": 68,
-      "Чернышов Игорь Михайлович": 41
+      "gas:candidate-vibid:4504020153555": 61,
+      "gas:candidate-vibid:4504020153611": 35,
+      "gas:candidate-vibid:4504020153008": 53,
+      "gas:candidate-vibid:4504020153520": 12,
+      "gas:candidate-vibid:4504020153804": 15,
+      "gas:candidate-vibid:4504020153401": 212,
+      "gas:candidate-vibid:4504020153344": 68,
+      "gas:candidate-vibid:4504020153136": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005537&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005537&type=464",
@@ -9903,14 +9903,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 66,
-      "Барановский Дмитрий Андреевич": 41,
-      "Безлер Юрий Викторович": 57,
-      "Карлов Сергей Сергеевич": 22,
-      "Осипов Олег Борисович": 11,
-      "Серова Елена Олеговна": 237,
-      "Фёдоров Виталий Владимирович": 55,
-      "Чернышов Игорь Михайлович": 40
+      "gas:candidate-vibid:4504020153555": 66,
+      "gas:candidate-vibid:4504020153611": 41,
+      "gas:candidate-vibid:4504020153008": 57,
+      "gas:candidate-vibid:4504020153520": 22,
+      "gas:candidate-vibid:4504020153804": 11,
+      "gas:candidate-vibid:4504020153401": 237,
+      "gas:candidate-vibid:4504020153344": 55,
+      "gas:candidate-vibid:4504020153136": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005537&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005537&type=464",
@@ -9961,14 +9961,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 19,
-      "Барановский Дмитрий Андреевич": 10,
-      "Безлер Юрий Викторович": 18,
-      "Карлов Сергей Сергеевич": 7,
-      "Осипов Олег Борисович": 3,
-      "Серова Елена Олеговна": 129,
-      "Фёдоров Виталий Владимирович": 36,
-      "Чернышов Игорь Михайлович": 9
+      "gas:candidate-vibid:4504020153555": 19,
+      "gas:candidate-vibid:4504020153611": 10,
+      "gas:candidate-vibid:4504020153008": 18,
+      "gas:candidate-vibid:4504020153520": 7,
+      "gas:candidate-vibid:4504020153804": 3,
+      "gas:candidate-vibid:4504020153401": 129,
+      "gas:candidate-vibid:4504020153344": 36,
+      "gas:candidate-vibid:4504020153136": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005537&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005537&type=464",
@@ -10019,14 +10019,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 76,
-      "Барановский Дмитрий Андреевич": 65,
-      "Безлер Юрий Викторович": 48,
-      "Карлов Сергей Сергеевич": 23,
-      "Осипов Олег Борисович": 16,
-      "Серова Елена Олеговна": 252,
-      "Фёдоров Виталий Владимирович": 84,
-      "Чернышов Игорь Михайлович": 47
+      "gas:candidate-vibid:4504020153555": 76,
+      "gas:candidate-vibid:4504020153611": 65,
+      "gas:candidate-vibid:4504020153008": 48,
+      "gas:candidate-vibid:4504020153520": 23,
+      "gas:candidate-vibid:4504020153804": 16,
+      "gas:candidate-vibid:4504020153401": 252,
+      "gas:candidate-vibid:4504020153344": 84,
+      "gas:candidate-vibid:4504020153136": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005537&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005537&type=464",
@@ -10077,14 +10077,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 87,
-      "Барановский Дмитрий Андреевич": 52,
-      "Безлер Юрий Викторович": 74,
-      "Карлов Сергей Сергеевич": 24,
-      "Осипов Олег Борисович": 14,
-      "Серова Елена Олеговна": 257,
-      "Фёдоров Виталий Владимирович": 87,
-      "Чернышов Игорь Михайлович": 45
+      "gas:candidate-vibid:4504020153555": 87,
+      "gas:candidate-vibid:4504020153611": 52,
+      "gas:candidate-vibid:4504020153008": 74,
+      "gas:candidate-vibid:4504020153520": 24,
+      "gas:candidate-vibid:4504020153804": 14,
+      "gas:candidate-vibid:4504020153401": 257,
+      "gas:candidate-vibid:4504020153344": 87,
+      "gas:candidate-vibid:4504020153136": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005537&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005537&type=464",
@@ -10135,14 +10135,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 8,
-      "Барановский Дмитрий Андреевич": 7,
-      "Безлер Юрий Викторович": 15,
-      "Карлов Сергей Сергеевич": 1,
-      "Осипов Олег Борисович": 3,
-      "Серова Елена Олеговна": 45,
-      "Фёдоров Виталий Владимирович": 17,
-      "Чернышов Игорь Михайлович": 8
+      "gas:candidate-vibid:4504020153555": 8,
+      "gas:candidate-vibid:4504020153611": 7,
+      "gas:candidate-vibid:4504020153008": 15,
+      "gas:candidate-vibid:4504020153520": 1,
+      "gas:candidate-vibid:4504020153804": 3,
+      "gas:candidate-vibid:4504020153401": 45,
+      "gas:candidate-vibid:4504020153344": 17,
+      "gas:candidate-vibid:4504020153136": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005537&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005537&type=464",
@@ -10193,14 +10193,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 36,
-      "Барановский Дмитрий Андреевич": 34,
-      "Безлер Юрий Викторович": 40,
-      "Карлов Сергей Сергеевич": 13,
-      "Осипов Олег Борисович": 5,
-      "Серова Елена Олеговна": 140,
-      "Фёдоров Виталий Владимирович": 55,
-      "Чернышов Игорь Михайлович": 34
+      "gas:candidate-vibid:4504020153555": 36,
+      "gas:candidate-vibid:4504020153611": 34,
+      "gas:candidate-vibid:4504020153008": 40,
+      "gas:candidate-vibid:4504020153520": 13,
+      "gas:candidate-vibid:4504020153804": 5,
+      "gas:candidate-vibid:4504020153401": 140,
+      "gas:candidate-vibid:4504020153344": 55,
+      "gas:candidate-vibid:4504020153136": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005537&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005537&type=464",
@@ -10251,14 +10251,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 30,
-      "Барановский Дмитрий Андреевич": 21,
-      "Безлер Юрий Викторович": 34,
-      "Карлов Сергей Сергеевич": 9,
-      "Осипов Олег Борисович": 10,
-      "Серова Елена Олеговна": 121,
-      "Фёдоров Виталий Владимирович": 47,
-      "Чернышов Игорь Михайлович": 25
+      "gas:candidate-vibid:4504020153555": 30,
+      "gas:candidate-vibid:4504020153611": 21,
+      "gas:candidate-vibid:4504020153008": 34,
+      "gas:candidate-vibid:4504020153520": 9,
+      "gas:candidate-vibid:4504020153804": 10,
+      "gas:candidate-vibid:4504020153401": 121,
+      "gas:candidate-vibid:4504020153344": 47,
+      "gas:candidate-vibid:4504020153136": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005537&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005537&type=464",
@@ -10309,14 +10309,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 49,
-      "Барановский Дмитрий Андреевич": 29,
-      "Безлер Юрий Викторович": 56,
-      "Карлов Сергей Сергеевич": 17,
-      "Осипов Олег Борисович": 5,
-      "Серова Елена Олеговна": 254,
-      "Фёдоров Виталий Владимирович": 55,
-      "Чернышов Игорь Михайлович": 43
+      "gas:candidate-vibid:4504020153555": 49,
+      "gas:candidate-vibid:4504020153611": 29,
+      "gas:candidate-vibid:4504020153008": 56,
+      "gas:candidate-vibid:4504020153520": 17,
+      "gas:candidate-vibid:4504020153804": 5,
+      "gas:candidate-vibid:4504020153401": 254,
+      "gas:candidate-vibid:4504020153344": 55,
+      "gas:candidate-vibid:4504020153136": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005537&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005537&type=464",
@@ -10367,14 +10367,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 70,
-      "Барановский Дмитрий Андреевич": 48,
-      "Безлер Юрий Викторович": 40,
-      "Карлов Сергей Сергеевич": 23,
-      "Осипов Олег Борисович": 14,
-      "Серова Елена Олеговна": 219,
-      "Фёдоров Виталий Владимирович": 86,
-      "Чернышов Игорь Михайлович": 41
+      "gas:candidate-vibid:4504020153555": 70,
+      "gas:candidate-vibid:4504020153611": 48,
+      "gas:candidate-vibid:4504020153008": 40,
+      "gas:candidate-vibid:4504020153520": 23,
+      "gas:candidate-vibid:4504020153804": 14,
+      "gas:candidate-vibid:4504020153401": 219,
+      "gas:candidate-vibid:4504020153344": 86,
+      "gas:candidate-vibid:4504020153136": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005537&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005537&type=464",
@@ -10425,14 +10425,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 112,
-      "Барановский Дмитрий Андреевич": 64,
-      "Безлер Юрий Викторович": 75,
-      "Карлов Сергей Сергеевич": 29,
-      "Осипов Олег Борисович": 12,
-      "Серова Елена Олеговна": 349,
-      "Фёдоров Виталий Владимирович": 98,
-      "Чернышов Игорь Михайлович": 64
+      "gas:candidate-vibid:4504020153555": 112,
+      "gas:candidate-vibid:4504020153611": 64,
+      "gas:candidate-vibid:4504020153008": 75,
+      "gas:candidate-vibid:4504020153520": 29,
+      "gas:candidate-vibid:4504020153804": 12,
+      "gas:candidate-vibid:4504020153401": 349,
+      "gas:candidate-vibid:4504020153344": 98,
+      "gas:candidate-vibid:4504020153136": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005537&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005537&type=464",
@@ -10483,14 +10483,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 39,
-      "Барановский Дмитрий Андреевич": 27,
-      "Безлер Юрий Викторович": 49,
-      "Карлов Сергей Сергеевич": 7,
-      "Осипов Олег Борисович": 13,
-      "Серова Елена Олеговна": 144,
-      "Фёдоров Виталий Владимирович": 40,
-      "Чернышов Игорь Михайлович": 22
+      "gas:candidate-vibid:4504020153555": 39,
+      "gas:candidate-vibid:4504020153611": 27,
+      "gas:candidate-vibid:4504020153008": 49,
+      "gas:candidate-vibid:4504020153520": 7,
+      "gas:candidate-vibid:4504020153804": 13,
+      "gas:candidate-vibid:4504020153401": 144,
+      "gas:candidate-vibid:4504020153344": 40,
+      "gas:candidate-vibid:4504020153136": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005537&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005537&type=464",
@@ -10541,14 +10541,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 69,
-      "Барановский Дмитрий Андреевич": 53,
-      "Безлер Юрий Викторович": 100,
-      "Карлов Сергей Сергеевич": 28,
-      "Осипов Олег Борисович": 14,
-      "Серова Елена Олеговна": 366,
-      "Фёдоров Виталий Владимирович": 100,
-      "Чернышов Игорь Михайлович": 43
+      "gas:candidate-vibid:4504020153555": 69,
+      "gas:candidate-vibid:4504020153611": 53,
+      "gas:candidate-vibid:4504020153008": 100,
+      "gas:candidate-vibid:4504020153520": 28,
+      "gas:candidate-vibid:4504020153804": 14,
+      "gas:candidate-vibid:4504020153401": 366,
+      "gas:candidate-vibid:4504020153344": 100,
+      "gas:candidate-vibid:4504020153136": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005537&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005537&type=464",
@@ -10599,14 +10599,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 66,
-      "Барановский Дмитрий Андреевич": 41,
-      "Безлер Юрий Викторович": 73,
-      "Карлов Сергей Сергеевич": 20,
-      "Осипов Олег Борисович": 10,
-      "Серова Елена Олеговна": 338,
-      "Фёдоров Виталий Владимирович": 61,
-      "Чернышов Игорь Михайлович": 45
+      "gas:candidate-vibid:4504020153555": 66,
+      "gas:candidate-vibid:4504020153611": 41,
+      "gas:candidate-vibid:4504020153008": 73,
+      "gas:candidate-vibid:4504020153520": 20,
+      "gas:candidate-vibid:4504020153804": 10,
+      "gas:candidate-vibid:4504020153401": 338,
+      "gas:candidate-vibid:4504020153344": 61,
+      "gas:candidate-vibid:4504020153136": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005537&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005537&type=464",
@@ -10657,14 +10657,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 69,
-      "Барановский Дмитрий Андреевич": 44,
-      "Безлер Юрий Викторович": 66,
-      "Карлов Сергей Сергеевич": 12,
-      "Осипов Олег Борисович": 16,
-      "Серова Елена Олеговна": 276,
-      "Фёдоров Виталий Владимирович": 94,
-      "Чернышов Игорь Михайлович": 34
+      "gas:candidate-vibid:4504020153555": 69,
+      "gas:candidate-vibid:4504020153611": 44,
+      "gas:candidate-vibid:4504020153008": 66,
+      "gas:candidate-vibid:4504020153520": 12,
+      "gas:candidate-vibid:4504020153804": 16,
+      "gas:candidate-vibid:4504020153401": 276,
+      "gas:candidate-vibid:4504020153344": 94,
+      "gas:candidate-vibid:4504020153136": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005537&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005537&type=464",
@@ -10715,14 +10715,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 56,
-      "Барановский Дмитрий Андреевич": 41,
-      "Безлер Юрий Викторович": 66,
-      "Карлов Сергей Сергеевич": 16,
-      "Осипов Олег Борисович": 12,
-      "Серова Елена Олеговна": 295,
-      "Фёдоров Виталий Владимирович": 98,
-      "Чернышов Игорь Михайлович": 39
+      "gas:candidate-vibid:4504020153555": 56,
+      "gas:candidate-vibid:4504020153611": 41,
+      "gas:candidate-vibid:4504020153008": 66,
+      "gas:candidate-vibid:4504020153520": 16,
+      "gas:candidate-vibid:4504020153804": 12,
+      "gas:candidate-vibid:4504020153401": 295,
+      "gas:candidate-vibid:4504020153344": 98,
+      "gas:candidate-vibid:4504020153136": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005537&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005537&type=464",
@@ -10773,14 +10773,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 24,
-      "Барановский Дмитрий Андреевич": 24,
-      "Безлер Юрий Викторович": 58,
-      "Карлов Сергей Сергеевич": 11,
-      "Осипов Олег Борисович": 10,
-      "Серова Елена Олеговна": 172,
-      "Фёдоров Виталий Владимирович": 65,
-      "Чернышов Игорь Михайлович": 24
+      "gas:candidate-vibid:4504020153555": 24,
+      "gas:candidate-vibid:4504020153611": 24,
+      "gas:candidate-vibid:4504020153008": 58,
+      "gas:candidate-vibid:4504020153520": 11,
+      "gas:candidate-vibid:4504020153804": 10,
+      "gas:candidate-vibid:4504020153401": 172,
+      "gas:candidate-vibid:4504020153344": 65,
+      "gas:candidate-vibid:4504020153136": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005537&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005537&type=464",
@@ -10831,14 +10831,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 60,
-      "Барановский Дмитрий Андреевич": 46,
-      "Безлер Юрий Викторович": 72,
-      "Карлов Сергей Сергеевич": 18,
-      "Осипов Олег Борисович": 13,
-      "Серова Елена Олеговна": 278,
-      "Фёдоров Виталий Владимирович": 85,
-      "Чернышов Игорь Михайлович": 50
+      "gas:candidate-vibid:4504020153555": 60,
+      "gas:candidate-vibid:4504020153611": 46,
+      "gas:candidate-vibid:4504020153008": 72,
+      "gas:candidate-vibid:4504020153520": 18,
+      "gas:candidate-vibid:4504020153804": 13,
+      "gas:candidate-vibid:4504020153401": 278,
+      "gas:candidate-vibid:4504020153344": 85,
+      "gas:candidate-vibid:4504020153136": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005537&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005537&type=464",
@@ -10889,14 +10889,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 49,
-      "Барановский Дмитрий Андреевич": 35,
-      "Безлер Юрий Викторович": 63,
-      "Карлов Сергей Сергеевич": 13,
-      "Осипов Олег Борисович": 12,
-      "Серова Елена Олеговна": 188,
-      "Фёдоров Виталий Владимирович": 58,
-      "Чернышов Игорь Михайлович": 34
+      "gas:candidate-vibid:4504020153555": 49,
+      "gas:candidate-vibid:4504020153611": 35,
+      "gas:candidate-vibid:4504020153008": 63,
+      "gas:candidate-vibid:4504020153520": 13,
+      "gas:candidate-vibid:4504020153804": 12,
+      "gas:candidate-vibid:4504020153401": 188,
+      "gas:candidate-vibid:4504020153344": 58,
+      "gas:candidate-vibid:4504020153136": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005537&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005537&type=464",
@@ -10947,14 +10947,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 13,
-      "Барановский Дмитрий Андреевич": 4,
-      "Безлер Юрий Викторович": 13,
-      "Карлов Сергей Сергеевич": 6,
-      "Осипов Олег Борисович": 3,
-      "Серова Елена Олеговна": 80,
-      "Фёдоров Виталий Владимирович": 18,
-      "Чернышов Игорь Михайлович": 7
+      "gas:candidate-vibid:4504020153555": 13,
+      "gas:candidate-vibid:4504020153611": 4,
+      "gas:candidate-vibid:4504020153008": 13,
+      "gas:candidate-vibid:4504020153520": 6,
+      "gas:candidate-vibid:4504020153804": 3,
+      "gas:candidate-vibid:4504020153401": 80,
+      "gas:candidate-vibid:4504020153344": 18,
+      "gas:candidate-vibid:4504020153136": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005537&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005537&type=464",
@@ -11005,14 +11005,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 46,
-      "Барановский Дмитрий Андреевич": 29,
-      "Безлер Юрий Викторович": 58,
-      "Карлов Сергей Сергеевич": 12,
-      "Осипов Олег Борисович": 13,
-      "Серова Елена Олеговна": 236,
-      "Фёдоров Виталий Владимирович": 51,
-      "Чернышов Игорь Михайлович": 31
+      "gas:candidate-vibid:4504020153555": 46,
+      "gas:candidate-vibid:4504020153611": 29,
+      "gas:candidate-vibid:4504020153008": 58,
+      "gas:candidate-vibid:4504020153520": 12,
+      "gas:candidate-vibid:4504020153804": 13,
+      "gas:candidate-vibid:4504020153401": 236,
+      "gas:candidate-vibid:4504020153344": 51,
+      "gas:candidate-vibid:4504020153136": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005537&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005537&type=464",
@@ -11063,14 +11063,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 27,
-      "Барановский Дмитрий Андреевич": 27,
-      "Безлер Юрий Викторович": 35,
-      "Карлов Сергей Сергеевич": 17,
-      "Осипов Олег Борисович": 4,
-      "Серова Елена Олеговна": 166,
-      "Фёдоров Виталий Владимирович": 39,
-      "Чернышов Игорь Михайлович": 26
+      "gas:candidate-vibid:4504020153555": 27,
+      "gas:candidate-vibid:4504020153611": 27,
+      "gas:candidate-vibid:4504020153008": 35,
+      "gas:candidate-vibid:4504020153520": 17,
+      "gas:candidate-vibid:4504020153804": 4,
+      "gas:candidate-vibid:4504020153401": 166,
+      "gas:candidate-vibid:4504020153344": 39,
+      "gas:candidate-vibid:4504020153136": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005537&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005537&type=464",
@@ -11121,14 +11121,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 82,
-      "Барановский Дмитрий Андреевич": 52,
-      "Безлер Юрий Викторович": 59,
-      "Карлов Сергей Сергеевич": 18,
-      "Осипов Олег Борисович": 22,
-      "Серова Елена Олеговна": 342,
-      "Фёдоров Виталий Владимирович": 111,
-      "Чернышов Игорь Михайлович": 50
+      "gas:candidate-vibid:4504020153555": 82,
+      "gas:candidate-vibid:4504020153611": 52,
+      "gas:candidate-vibid:4504020153008": 59,
+      "gas:candidate-vibid:4504020153520": 18,
+      "gas:candidate-vibid:4504020153804": 22,
+      "gas:candidate-vibid:4504020153401": 342,
+      "gas:candidate-vibid:4504020153344": 111,
+      "gas:candidate-vibid:4504020153136": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005537&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005537&type=464",
@@ -11179,14 +11179,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 64,
-      "Барановский Дмитрий Андреевич": 46,
-      "Безлер Юрий Викторович": 48,
-      "Карлов Сергей Сергеевич": 14,
-      "Осипов Олег Борисович": 7,
-      "Серова Елена Олеговна": 220,
-      "Фёдоров Виталий Владимирович": 58,
-      "Чернышов Игорь Михайлович": 30
+      "gas:candidate-vibid:4504020153555": 64,
+      "gas:candidate-vibid:4504020153611": 46,
+      "gas:candidate-vibid:4504020153008": 48,
+      "gas:candidate-vibid:4504020153520": 14,
+      "gas:candidate-vibid:4504020153804": 7,
+      "gas:candidate-vibid:4504020153401": 220,
+      "gas:candidate-vibid:4504020153344": 58,
+      "gas:candidate-vibid:4504020153136": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005537&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005537&type=464",
@@ -11237,14 +11237,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 66,
-      "Барановский Дмитрий Андреевич": 44,
-      "Безлер Юрий Викторович": 82,
-      "Карлов Сергей Сергеевич": 15,
-      "Осипов Олег Борисович": 21,
-      "Серова Елена Олеговна": 342,
-      "Фёдоров Виталий Владимирович": 87,
-      "Чернышов Игорь Михайлович": 62
+      "gas:candidate-vibid:4504020153555": 66,
+      "gas:candidate-vibid:4504020153611": 44,
+      "gas:candidate-vibid:4504020153008": 82,
+      "gas:candidate-vibid:4504020153520": 15,
+      "gas:candidate-vibid:4504020153804": 21,
+      "gas:candidate-vibid:4504020153401": 342,
+      "gas:candidate-vibid:4504020153344": 87,
+      "gas:candidate-vibid:4504020153136": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005537&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005537&type=464",
@@ -11295,14 +11295,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 21,
-      "Барановский Дмитрий Андреевич": 16,
-      "Безлер Юрий Викторович": 19,
-      "Карлов Сергей Сергеевич": 6,
-      "Осипов Олег Борисович": 4,
-      "Серова Елена Олеговна": 78,
-      "Фёдоров Виталий Владимирович": 29,
-      "Чернышов Игорь Михайлович": 18
+      "gas:candidate-vibid:4504020153555": 21,
+      "gas:candidate-vibid:4504020153611": 16,
+      "gas:candidate-vibid:4504020153008": 19,
+      "gas:candidate-vibid:4504020153520": 6,
+      "gas:candidate-vibid:4504020153804": 4,
+      "gas:candidate-vibid:4504020153401": 78,
+      "gas:candidate-vibid:4504020153344": 29,
+      "gas:candidate-vibid:4504020153136": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005537&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005537&type=464",
@@ -11353,14 +11353,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 58,
-      "Барановский Дмитрий Андреевич": 51,
-      "Безлер Юрий Викторович": 64,
-      "Карлов Сергей Сергеевич": 14,
-      "Осипов Олег Борисович": 13,
-      "Серова Елена Олеговна": 255,
-      "Фёдоров Виталий Владимирович": 53,
-      "Чернышов Игорь Михайлович": 26
+      "gas:candidate-vibid:4504020153555": 58,
+      "gas:candidate-vibid:4504020153611": 51,
+      "gas:candidate-vibid:4504020153008": 64,
+      "gas:candidate-vibid:4504020153520": 14,
+      "gas:candidate-vibid:4504020153804": 13,
+      "gas:candidate-vibid:4504020153401": 255,
+      "gas:candidate-vibid:4504020153344": 53,
+      "gas:candidate-vibid:4504020153136": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005537&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005537&type=464",
@@ -11411,14 +11411,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 47,
-      "Барановский Дмитрий Андреевич": 44,
-      "Безлер Юрий Викторович": 61,
-      "Карлов Сергей Сергеевич": 11,
-      "Осипов Олег Борисович": 13,
-      "Серова Елена Олеговна": 232,
-      "Фёдоров Виталий Владимирович": 53,
-      "Чернышов Игорь Михайлович": 30
+      "gas:candidate-vibid:4504020153555": 47,
+      "gas:candidate-vibid:4504020153611": 44,
+      "gas:candidate-vibid:4504020153008": 61,
+      "gas:candidate-vibid:4504020153520": 11,
+      "gas:candidate-vibid:4504020153804": 13,
+      "gas:candidate-vibid:4504020153401": 232,
+      "gas:candidate-vibid:4504020153344": 53,
+      "gas:candidate-vibid:4504020153136": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005537&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005537&type=464",
@@ -11469,14 +11469,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 28,
-      "Барановский Дмитрий Андреевич": 32,
-      "Безлер Юрий Викторович": 42,
-      "Карлов Сергей Сергеевич": 10,
-      "Осипов Олег Борисович": 10,
-      "Серова Елена Олеговна": 167,
-      "Фёдоров Виталий Владимирович": 47,
-      "Чернышов Игорь Михайлович": 27
+      "gas:candidate-vibid:4504020153555": 28,
+      "gas:candidate-vibid:4504020153611": 32,
+      "gas:candidate-vibid:4504020153008": 42,
+      "gas:candidate-vibid:4504020153520": 10,
+      "gas:candidate-vibid:4504020153804": 10,
+      "gas:candidate-vibid:4504020153401": 167,
+      "gas:candidate-vibid:4504020153344": 47,
+      "gas:candidate-vibid:4504020153136": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005537&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005537&type=464",
@@ -11527,14 +11527,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 70,
-      "Барановский Дмитрий Андреевич": 40,
-      "Безлер Юрий Викторович": 80,
-      "Карлов Сергей Сергеевич": 19,
-      "Осипов Олег Борисович": 7,
-      "Серова Елена Олеговна": 321,
-      "Фёдоров Виталий Владимирович": 89,
-      "Чернышов Игорь Михайлович": 21
+      "gas:candidate-vibid:4504020153555": 70,
+      "gas:candidate-vibid:4504020153611": 40,
+      "gas:candidate-vibid:4504020153008": 80,
+      "gas:candidate-vibid:4504020153520": 19,
+      "gas:candidate-vibid:4504020153804": 7,
+      "gas:candidate-vibid:4504020153401": 321,
+      "gas:candidate-vibid:4504020153344": 89,
+      "gas:candidate-vibid:4504020153136": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005537&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005537&type=464",
@@ -11585,14 +11585,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 4,
-      "Барановский Дмитрий Андреевич": 2,
-      "Безлер Юрий Викторович": 9,
-      "Карлов Сергей Сергеевич": 4,
-      "Осипов Олег Борисович": 4,
-      "Серова Елена Олеговна": 110,
-      "Фёдоров Виталий Владимирович": 7,
-      "Чернышов Игорь Михайлович": 4
+      "gas:candidate-vibid:4504020153555": 4,
+      "gas:candidate-vibid:4504020153611": 2,
+      "gas:candidate-vibid:4504020153008": 9,
+      "gas:candidate-vibid:4504020153520": 4,
+      "gas:candidate-vibid:4504020153804": 4,
+      "gas:candidate-vibid:4504020153401": 110,
+      "gas:candidate-vibid:4504020153344": 7,
+      "gas:candidate-vibid:4504020153136": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005537&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005537&type=464",
@@ -11643,14 +11643,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 64,
-      "Барановский Дмитрий Андреевич": 44,
-      "Безлер Юрий Викторович": 53,
-      "Карлов Сергей Сергеевич": 11,
-      "Осипов Олег Борисович": 14,
-      "Серова Елена Олеговна": 247,
-      "Фёдоров Виталий Владимирович": 60,
-      "Чернышов Игорь Михайлович": 30
+      "gas:candidate-vibid:4504020153555": 64,
+      "gas:candidate-vibid:4504020153611": 44,
+      "gas:candidate-vibid:4504020153008": 53,
+      "gas:candidate-vibid:4504020153520": 11,
+      "gas:candidate-vibid:4504020153804": 14,
+      "gas:candidate-vibid:4504020153401": 247,
+      "gas:candidate-vibid:4504020153344": 60,
+      "gas:candidate-vibid:4504020153136": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005537&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005537&type=464",
@@ -11701,14 +11701,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 65,
-      "Барановский Дмитрий Андреевич": 38,
-      "Безлер Юрий Викторович": 66,
-      "Карлов Сергей Сергеевич": 12,
-      "Осипов Олег Борисович": 14,
-      "Серова Елена Олеговна": 258,
-      "Фёдоров Виталий Владимирович": 92,
-      "Чернышов Игорь Михайлович": 43
+      "gas:candidate-vibid:4504020153555": 65,
+      "gas:candidate-vibid:4504020153611": 38,
+      "gas:candidate-vibid:4504020153008": 66,
+      "gas:candidate-vibid:4504020153520": 12,
+      "gas:candidate-vibid:4504020153804": 14,
+      "gas:candidate-vibid:4504020153401": 258,
+      "gas:candidate-vibid:4504020153344": 92,
+      "gas:candidate-vibid:4504020153136": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005537&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005537&type=464",
@@ -11759,14 +11759,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 61,
-      "Барановский Дмитрий Андреевич": 51,
-      "Безлер Юрий Викторович": 54,
-      "Карлов Сергей Сергеевич": 11,
-      "Осипов Олег Борисович": 17,
-      "Серова Елена Олеговна": 237,
-      "Фёдоров Виталий Владимирович": 62,
-      "Чернышов Игорь Михайлович": 44
+      "gas:candidate-vibid:4504020153555": 61,
+      "gas:candidate-vibid:4504020153611": 51,
+      "gas:candidate-vibid:4504020153008": 54,
+      "gas:candidate-vibid:4504020153520": 11,
+      "gas:candidate-vibid:4504020153804": 17,
+      "gas:candidate-vibid:4504020153401": 237,
+      "gas:candidate-vibid:4504020153344": 62,
+      "gas:candidate-vibid:4504020153136": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005537&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005537&type=464",
@@ -11817,14 +11817,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 94,
-      "Барановский Дмитрий Андреевич": 37,
-      "Безлер Юрий Викторович": 78,
-      "Карлов Сергей Сергеевич": 17,
-      "Осипов Олег Борисович": 22,
-      "Серова Елена Олеговна": 270,
-      "Фёдоров Виталий Владимирович": 81,
-      "Чернышов Игорь Михайлович": 42
+      "gas:candidate-vibid:4504020153555": 94,
+      "gas:candidate-vibid:4504020153611": 37,
+      "gas:candidate-vibid:4504020153008": 78,
+      "gas:candidate-vibid:4504020153520": 17,
+      "gas:candidate-vibid:4504020153804": 22,
+      "gas:candidate-vibid:4504020153401": 270,
+      "gas:candidate-vibid:4504020153344": 81,
+      "gas:candidate-vibid:4504020153136": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005537&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005537&type=464",
@@ -11875,14 +11875,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 45,
-      "Барановский Дмитрий Андреевич": 36,
-      "Безлер Юрий Викторович": 66,
-      "Карлов Сергей Сергеевич": 17,
-      "Осипов Олег Борисович": 12,
-      "Серова Елена Олеговна": 362,
-      "Фёдоров Виталий Владимирович": 67,
-      "Чернышов Игорь Михайлович": 30
+      "gas:candidate-vibid:4504020153555": 45,
+      "gas:candidate-vibid:4504020153611": 36,
+      "gas:candidate-vibid:4504020153008": 66,
+      "gas:candidate-vibid:4504020153520": 17,
+      "gas:candidate-vibid:4504020153804": 12,
+      "gas:candidate-vibid:4504020153401": 362,
+      "gas:candidate-vibid:4504020153344": 67,
+      "gas:candidate-vibid:4504020153136": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005537&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005537&type=464",
@@ -11933,14 +11933,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 25,
-      "Барановский Дмитрий Андреевич": 9,
-      "Безлер Юрий Викторович": 33,
-      "Карлов Сергей Сергеевич": 7,
-      "Осипов Олег Борисович": 5,
-      "Серова Елена Олеговна": 117,
-      "Фёдоров Виталий Владимирович": 17,
-      "Чернышов Игорь Михайлович": 13
+      "gas:candidate-vibid:4504020153555": 25,
+      "gas:candidate-vibid:4504020153611": 9,
+      "gas:candidate-vibid:4504020153008": 33,
+      "gas:candidate-vibid:4504020153520": 7,
+      "gas:candidate-vibid:4504020153804": 5,
+      "gas:candidate-vibid:4504020153401": 117,
+      "gas:candidate-vibid:4504020153344": 17,
+      "gas:candidate-vibid:4504020153136": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005537&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005537&type=464",
@@ -11991,14 +11991,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 23,
-      "Барановский Дмитрий Андреевич": 20,
-      "Безлер Юрий Викторович": 43,
-      "Карлов Сергей Сергеевич": 8,
-      "Осипов Олег Борисович": 4,
-      "Серова Елена Олеговна": 164,
-      "Фёдоров Виталий Владимирович": 46,
-      "Чернышов Игорь Михайлович": 22
+      "gas:candidate-vibid:4504020153555": 23,
+      "gas:candidate-vibid:4504020153611": 20,
+      "gas:candidate-vibid:4504020153008": 43,
+      "gas:candidate-vibid:4504020153520": 8,
+      "gas:candidate-vibid:4504020153804": 4,
+      "gas:candidate-vibid:4504020153401": 164,
+      "gas:candidate-vibid:4504020153344": 46,
+      "gas:candidate-vibid:4504020153136": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005537&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005537&type=464",
@@ -12049,14 +12049,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 18,
-      "Барановский Дмитрий Андреевич": 15,
-      "Безлер Юрий Викторович": 22,
-      "Карлов Сергей Сергеевич": 9,
-      "Осипов Олег Борисович": 11,
-      "Серова Елена Олеговна": 229,
-      "Фёдоров Виталий Владимирович": 17,
-      "Чернышов Игорь Михайлович": 25
+      "gas:candidate-vibid:4504020153555": 18,
+      "gas:candidate-vibid:4504020153611": 15,
+      "gas:candidate-vibid:4504020153008": 22,
+      "gas:candidate-vibid:4504020153520": 9,
+      "gas:candidate-vibid:4504020153804": 11,
+      "gas:candidate-vibid:4504020153401": 229,
+      "gas:candidate-vibid:4504020153344": 17,
+      "gas:candidate-vibid:4504020153136": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005537&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005537&type=464",
@@ -12107,14 +12107,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 9,
-      "Барановский Дмитрий Андреевич": 6,
-      "Безлер Юрий Викторович": 15,
-      "Карлов Сергей Сергеевич": 8,
-      "Осипов Олег Борисович": 3,
-      "Серова Елена Олеговна": 91,
-      "Фёдоров Виталий Владимирович": 23,
-      "Чернышов Игорь Михайлович": 9
+      "gas:candidate-vibid:4504020153555": 9,
+      "gas:candidate-vibid:4504020153611": 6,
+      "gas:candidate-vibid:4504020153008": 15,
+      "gas:candidate-vibid:4504020153520": 8,
+      "gas:candidate-vibid:4504020153804": 3,
+      "gas:candidate-vibid:4504020153401": 91,
+      "gas:candidate-vibid:4504020153344": 23,
+      "gas:candidate-vibid:4504020153136": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005537&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005537&type=464",
@@ -12165,14 +12165,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 34,
-      "Барановский Дмитрий Андреевич": 22,
-      "Безлер Юрий Викторович": 46,
-      "Карлов Сергей Сергеевич": 13,
-      "Осипов Олег Борисович": 6,
-      "Серова Елена Олеговна": 261,
-      "Фёдоров Виталий Владимирович": 50,
-      "Чернышов Игорь Михайлович": 27
+      "gas:candidate-vibid:4504020153555": 34,
+      "gas:candidate-vibid:4504020153611": 22,
+      "gas:candidate-vibid:4504020153008": 46,
+      "gas:candidate-vibid:4504020153520": 13,
+      "gas:candidate-vibid:4504020153804": 6,
+      "gas:candidate-vibid:4504020153401": 261,
+      "gas:candidate-vibid:4504020153344": 50,
+      "gas:candidate-vibid:4504020153136": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005537&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005537&type=464",
@@ -12223,14 +12223,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 12,
-      "Барановский Дмитрий Андреевич": 3,
-      "Безлер Юрий Викторович": 7,
-      "Карлов Сергей Сергеевич": 3,
-      "Осипов Олег Борисович": 3,
-      "Серова Елена Олеговна": 52,
-      "Фёдоров Виталий Владимирович": 13,
-      "Чернышов Игорь Михайлович": 4
+      "gas:candidate-vibid:4504020153555": 12,
+      "gas:candidate-vibid:4504020153611": 3,
+      "gas:candidate-vibid:4504020153008": 7,
+      "gas:candidate-vibid:4504020153520": 3,
+      "gas:candidate-vibid:4504020153804": 3,
+      "gas:candidate-vibid:4504020153401": 52,
+      "gas:candidate-vibid:4504020153344": 13,
+      "gas:candidate-vibid:4504020153136": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005537&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005537&type=464",
@@ -12281,14 +12281,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 24,
-      "Барановский Дмитрий Андреевич": 25,
-      "Безлер Юрий Викторович": 32,
-      "Карлов Сергей Сергеевич": 12,
-      "Осипов Олег Борисович": 9,
-      "Серова Елена Олеговна": 211,
-      "Фёдоров Виталий Владимирович": 41,
-      "Чернышов Игорь Михайлович": 23
+      "gas:candidate-vibid:4504020153555": 24,
+      "gas:candidate-vibid:4504020153611": 25,
+      "gas:candidate-vibid:4504020153008": 32,
+      "gas:candidate-vibid:4504020153520": 12,
+      "gas:candidate-vibid:4504020153804": 9,
+      "gas:candidate-vibid:4504020153401": 211,
+      "gas:candidate-vibid:4504020153344": 41,
+      "gas:candidate-vibid:4504020153136": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005537&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005537&type=464",
@@ -12339,14 +12339,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 38,
-      "Барановский Дмитрий Андреевич": 28,
-      "Безлер Юрий Викторович": 55,
-      "Карлов Сергей Сергеевич": 13,
-      "Осипов Олег Борисович": 5,
-      "Серова Елена Олеговна": 189,
-      "Фёдоров Виталий Владимирович": 38,
-      "Чернышов Игорь Михайлович": 30
+      "gas:candidate-vibid:4504020153555": 38,
+      "gas:candidate-vibid:4504020153611": 28,
+      "gas:candidate-vibid:4504020153008": 55,
+      "gas:candidate-vibid:4504020153520": 13,
+      "gas:candidate-vibid:4504020153804": 5,
+      "gas:candidate-vibid:4504020153401": 189,
+      "gas:candidate-vibid:4504020153344": 38,
+      "gas:candidate-vibid:4504020153136": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005537&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005537&type=464",
@@ -12397,14 +12397,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 31,
-      "Барановский Дмитрий Андреевич": 37,
-      "Безлер Юрий Викторович": 45,
-      "Карлов Сергей Сергеевич": 18,
-      "Осипов Олег Борисович": 5,
-      "Серова Елена Олеговна": 238,
-      "Фёдоров Виталий Владимирович": 38,
-      "Чернышов Игорь Михайлович": 22
+      "gas:candidate-vibid:4504020153555": 31,
+      "gas:candidate-vibid:4504020153611": 37,
+      "gas:candidate-vibid:4504020153008": 45,
+      "gas:candidate-vibid:4504020153520": 18,
+      "gas:candidate-vibid:4504020153804": 5,
+      "gas:candidate-vibid:4504020153401": 238,
+      "gas:candidate-vibid:4504020153344": 38,
+      "gas:candidate-vibid:4504020153136": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005537&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005537&type=464",
@@ -12455,14 +12455,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 9,
-      "Барановский Дмитрий Андреевич": 9,
-      "Безлер Юрий Викторович": 29,
-      "Карлов Сергей Сергеевич": 3,
-      "Осипов Олег Борисович": 8,
-      "Серова Елена Олеговна": 112,
-      "Фёдоров Виталий Владимирович": 15,
-      "Чернышов Игорь Михайлович": 17
+      "gas:candidate-vibid:4504020153555": 9,
+      "gas:candidate-vibid:4504020153611": 9,
+      "gas:candidate-vibid:4504020153008": 29,
+      "gas:candidate-vibid:4504020153520": 3,
+      "gas:candidate-vibid:4504020153804": 8,
+      "gas:candidate-vibid:4504020153401": 112,
+      "gas:candidate-vibid:4504020153344": 15,
+      "gas:candidate-vibid:4504020153136": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005537&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005537&type=464",
@@ -12513,14 +12513,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 5,
-      "Барановский Дмитрий Андреевич": 7,
-      "Безлер Юрий Викторович": 21,
-      "Карлов Сергей Сергеевич": 7,
-      "Осипов Олег Борисович": 2,
-      "Серова Елена Олеговна": 91,
-      "Фёдоров Виталий Владимирович": 20,
-      "Чернышов Игорь Михайлович": 4
+      "gas:candidate-vibid:4504020153555": 5,
+      "gas:candidate-vibid:4504020153611": 7,
+      "gas:candidate-vibid:4504020153008": 21,
+      "gas:candidate-vibid:4504020153520": 7,
+      "gas:candidate-vibid:4504020153804": 2,
+      "gas:candidate-vibid:4504020153401": 91,
+      "gas:candidate-vibid:4504020153344": 20,
+      "gas:candidate-vibid:4504020153136": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005537&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005537&type=464",
@@ -12571,14 +12571,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 30,
-      "Барановский Дмитрий Андреевич": 34,
-      "Безлер Юрий Викторович": 66,
-      "Карлов Сергей Сергеевич": 12,
-      "Осипов Олег Борисович": 6,
-      "Серова Елена Олеговна": 199,
-      "Фёдоров Виталий Владимирович": 40,
-      "Чернышов Игорь Михайлович": 21
+      "gas:candidate-vibid:4504020153555": 30,
+      "gas:candidate-vibid:4504020153611": 34,
+      "gas:candidate-vibid:4504020153008": 66,
+      "gas:candidate-vibid:4504020153520": 12,
+      "gas:candidate-vibid:4504020153804": 6,
+      "gas:candidate-vibid:4504020153401": 199,
+      "gas:candidate-vibid:4504020153344": 40,
+      "gas:candidate-vibid:4504020153136": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005537&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005537&type=464",
@@ -12629,14 +12629,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 13,
-      "Барановский Дмитрий Андреевич": 16,
-      "Безлер Юрий Викторович": 26,
-      "Карлов Сергей Сергеевич": 10,
-      "Осипов Олег Борисович": 2,
-      "Серова Елена Олеговна": 125,
-      "Фёдоров Виталий Владимирович": 9,
-      "Чернышов Игорь Михайлович": 13
+      "gas:candidate-vibid:4504020153555": 13,
+      "gas:candidate-vibid:4504020153611": 16,
+      "gas:candidate-vibid:4504020153008": 26,
+      "gas:candidate-vibid:4504020153520": 10,
+      "gas:candidate-vibid:4504020153804": 2,
+      "gas:candidate-vibid:4504020153401": 125,
+      "gas:candidate-vibid:4504020153344": 9,
+      "gas:candidate-vibid:4504020153136": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005537&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005537&type=464",
@@ -12687,14 +12687,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 7,
-      "Барановский Дмитрий Андреевич": 5,
-      "Безлер Юрий Викторович": 7,
-      "Карлов Сергей Сергеевич": 0,
-      "Осипов Олег Борисович": 2,
-      "Серова Елена Олеговна": 30,
-      "Фёдоров Виталий Владимирович": 4,
-      "Чернышов Игорь Михайлович": 8
+      "gas:candidate-vibid:4504020153555": 7,
+      "gas:candidate-vibid:4504020153611": 5,
+      "gas:candidate-vibid:4504020153008": 7,
+      "gas:candidate-vibid:4504020153520": 0,
+      "gas:candidate-vibid:4504020153804": 2,
+      "gas:candidate-vibid:4504020153401": 30,
+      "gas:candidate-vibid:4504020153344": 4,
+      "gas:candidate-vibid:4504020153136": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005537&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005537&type=464",
@@ -12745,14 +12745,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 56,
-      "Барановский Дмитрий Андреевич": 45,
-      "Безлер Юрий Викторович": 115,
-      "Карлов Сергей Сергеевич": 24,
-      "Осипов Олег Борисович": 19,
-      "Серова Елена Олеговна": 309,
-      "Фёдоров Виталий Владимирович": 84,
-      "Чернышов Игорь Михайлович": 57
+      "gas:candidate-vibid:4504020153555": 56,
+      "gas:candidate-vibid:4504020153611": 45,
+      "gas:candidate-vibid:4504020153008": 115,
+      "gas:candidate-vibid:4504020153520": 24,
+      "gas:candidate-vibid:4504020153804": 19,
+      "gas:candidate-vibid:4504020153401": 309,
+      "gas:candidate-vibid:4504020153344": 84,
+      "gas:candidate-vibid:4504020153136": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005537&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005537&type=464",
@@ -12803,14 +12803,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 83,
-      "Барановский Дмитрий Андреевич": 49,
-      "Безлер Юрий Викторович": 91,
-      "Карлов Сергей Сергеевич": 33,
-      "Осипов Олег Борисович": 19,
-      "Серова Елена Олеговна": 310,
-      "Фёдоров Виталий Владимирович": 71,
-      "Чернышов Игорь Михайлович": 49
+      "gas:candidate-vibid:4504020153555": 83,
+      "gas:candidate-vibid:4504020153611": 49,
+      "gas:candidate-vibid:4504020153008": 91,
+      "gas:candidate-vibid:4504020153520": 33,
+      "gas:candidate-vibid:4504020153804": 19,
+      "gas:candidate-vibid:4504020153401": 310,
+      "gas:candidate-vibid:4504020153344": 71,
+      "gas:candidate-vibid:4504020153136": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005537&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005537&type=464",
@@ -12861,14 +12861,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 89,
-      "Барановский Дмитрий Андреевич": 50,
-      "Безлер Юрий Викторович": 86,
-      "Карлов Сергей Сергеевич": 24,
-      "Осипов Олег Борисович": 45,
-      "Серова Елена Олеговна": 397,
-      "Фёдоров Виталий Владимирович": 101,
-      "Чернышов Игорь Михайлович": 43
+      "gas:candidate-vibid:4504020153555": 89,
+      "gas:candidate-vibid:4504020153611": 50,
+      "gas:candidate-vibid:4504020153008": 86,
+      "gas:candidate-vibid:4504020153520": 24,
+      "gas:candidate-vibid:4504020153804": 45,
+      "gas:candidate-vibid:4504020153401": 397,
+      "gas:candidate-vibid:4504020153344": 101,
+      "gas:candidate-vibid:4504020153136": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005537&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005537&type=464",
@@ -12919,14 +12919,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 102,
-      "Барановский Дмитрий Андреевич": 40,
-      "Безлер Юрий Викторович": 95,
-      "Карлов Сергей Сергеевич": 29,
-      "Осипов Олег Борисович": 27,
-      "Серова Елена Олеговна": 371,
-      "Фёдоров Виталий Владимирович": 119,
-      "Чернышов Игорь Михайлович": 71
+      "gas:candidate-vibid:4504020153555": 102,
+      "gas:candidate-vibid:4504020153611": 40,
+      "gas:candidate-vibid:4504020153008": 95,
+      "gas:candidate-vibid:4504020153520": 29,
+      "gas:candidate-vibid:4504020153804": 27,
+      "gas:candidate-vibid:4504020153401": 371,
+      "gas:candidate-vibid:4504020153344": 119,
+      "gas:candidate-vibid:4504020153136": 71
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005537&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005537&type=464",
@@ -12977,14 +12977,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 96,
-      "Барановский Дмитрий Андреевич": 48,
-      "Безлер Юрий Викторович": 98,
-      "Карлов Сергей Сергеевич": 52,
-      "Осипов Олег Борисович": 40,
-      "Серова Елена Олеговна": 410,
-      "Фёдоров Виталий Владимирович": 108,
-      "Чернышов Игорь Михайлович": 68
+      "gas:candidate-vibid:4504020153555": 96,
+      "gas:candidate-vibid:4504020153611": 48,
+      "gas:candidate-vibid:4504020153008": 98,
+      "gas:candidate-vibid:4504020153520": 52,
+      "gas:candidate-vibid:4504020153804": 40,
+      "gas:candidate-vibid:4504020153401": 410,
+      "gas:candidate-vibid:4504020153344": 108,
+      "gas:candidate-vibid:4504020153136": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005537&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005537&type=464",
@@ -13035,14 +13035,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 106,
-      "Барановский Дмитрий Андреевич": 66,
-      "Безлер Юрий Викторович": 97,
-      "Карлов Сергей Сергеевич": 42,
-      "Осипов Олег Борисович": 32,
-      "Серова Елена Олеговна": 331,
-      "Фёдоров Виталий Владимирович": 107,
-      "Чернышов Игорь Михайлович": 69
+      "gas:candidate-vibid:4504020153555": 106,
+      "gas:candidate-vibid:4504020153611": 66,
+      "gas:candidate-vibid:4504020153008": 97,
+      "gas:candidate-vibid:4504020153520": 42,
+      "gas:candidate-vibid:4504020153804": 32,
+      "gas:candidate-vibid:4504020153401": 331,
+      "gas:candidate-vibid:4504020153344": 107,
+      "gas:candidate-vibid:4504020153136": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005537&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005537&type=464",
@@ -13093,14 +13093,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 44,
-      "Барановский Дмитрий Андреевич": 32,
-      "Безлер Юрий Викторович": 75,
-      "Карлов Сергей Сергеевич": 10,
-      "Осипов Олег Борисович": 20,
-      "Серова Елена Олеговна": 401,
-      "Фёдоров Виталий Владимирович": 100,
-      "Чернышов Игорь Михайлович": 66
+      "gas:candidate-vibid:4504020153555": 44,
+      "gas:candidate-vibid:4504020153611": 32,
+      "gas:candidate-vibid:4504020153008": 75,
+      "gas:candidate-vibid:4504020153520": 10,
+      "gas:candidate-vibid:4504020153804": 20,
+      "gas:candidate-vibid:4504020153401": 401,
+      "gas:candidate-vibid:4504020153344": 100,
+      "gas:candidate-vibid:4504020153136": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005537&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005537&type=464",
@@ -13151,14 +13151,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 12,
-      "Барановский Дмитрий Андреевич": 10,
-      "Безлер Юрий Викторович": 21,
-      "Карлов Сергей Сергеевич": 2,
-      "Осипов Олег Борисович": 3,
-      "Серова Елена Олеговна": 61,
-      "Фёдоров Виталий Владимирович": 22,
-      "Чернышов Игорь Михайлович": 7
+      "gas:candidate-vibid:4504020153555": 12,
+      "gas:candidate-vibid:4504020153611": 10,
+      "gas:candidate-vibid:4504020153008": 21,
+      "gas:candidate-vibid:4504020153520": 2,
+      "gas:candidate-vibid:4504020153804": 3,
+      "gas:candidate-vibid:4504020153401": 61,
+      "gas:candidate-vibid:4504020153344": 22,
+      "gas:candidate-vibid:4504020153136": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005537&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005537&type=464",
@@ -13209,14 +13209,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 18,
-      "Барановский Дмитрий Андреевич": 9,
-      "Безлер Юрий Викторович": 10,
-      "Карлов Сергей Сергеевич": 2,
-      "Осипов Олег Борисович": 2,
-      "Серова Елена Олеговна": 74,
-      "Фёдоров Виталий Владимирович": 19,
-      "Чернышов Игорь Михайлович": 11
+      "gas:candidate-vibid:4504020153555": 18,
+      "gas:candidate-vibid:4504020153611": 9,
+      "gas:candidate-vibid:4504020153008": 10,
+      "gas:candidate-vibid:4504020153520": 2,
+      "gas:candidate-vibid:4504020153804": 2,
+      "gas:candidate-vibid:4504020153401": 74,
+      "gas:candidate-vibid:4504020153344": 19,
+      "gas:candidate-vibid:4504020153136": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005537&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005537&type=464",
@@ -13267,14 +13267,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 13,
-      "Барановский Дмитрий Андреевич": 21,
-      "Безлер Юрий Викторович": 20,
-      "Карлов Сергей Сергеевич": 12,
-      "Осипов Олег Борисович": 5,
-      "Серова Елена Олеговна": 176,
-      "Фёдоров Виталий Владимирович": 23,
-      "Чернышов Игорь Михайлович": 14
+      "gas:candidate-vibid:4504020153555": 13,
+      "gas:candidate-vibid:4504020153611": 21,
+      "gas:candidate-vibid:4504020153008": 20,
+      "gas:candidate-vibid:4504020153520": 12,
+      "gas:candidate-vibid:4504020153804": 5,
+      "gas:candidate-vibid:4504020153401": 176,
+      "gas:candidate-vibid:4504020153344": 23,
+      "gas:candidate-vibid:4504020153136": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005537&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005537&type=464",
@@ -13325,14 +13325,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 25,
-      "Барановский Дмитрий Андреевич": 24,
-      "Безлер Юрий Викторович": 33,
-      "Карлов Сергей Сергеевич": 8,
-      "Осипов Олег Борисович": 7,
-      "Серова Елена Олеговна": 150,
-      "Фёдоров Виталий Владимирович": 39,
-      "Чернышов Игорь Михайлович": 16
+      "gas:candidate-vibid:4504020153555": 25,
+      "gas:candidate-vibid:4504020153611": 24,
+      "gas:candidate-vibid:4504020153008": 33,
+      "gas:candidate-vibid:4504020153520": 8,
+      "gas:candidate-vibid:4504020153804": 7,
+      "gas:candidate-vibid:4504020153401": 150,
+      "gas:candidate-vibid:4504020153344": 39,
+      "gas:candidate-vibid:4504020153136": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005537&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005537&type=464",
@@ -13383,14 +13383,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 25,
-      "Барановский Дмитрий Андреевич": 19,
-      "Безлер Юрий Викторович": 44,
-      "Карлов Сергей Сергеевич": 10,
-      "Осипов Олег Борисович": 7,
-      "Серова Елена Олеговна": 163,
-      "Фёдоров Виталий Владимирович": 53,
-      "Чернышов Игорь Михайлович": 30
+      "gas:candidate-vibid:4504020153555": 25,
+      "gas:candidate-vibid:4504020153611": 19,
+      "gas:candidate-vibid:4504020153008": 44,
+      "gas:candidate-vibid:4504020153520": 10,
+      "gas:candidate-vibid:4504020153804": 7,
+      "gas:candidate-vibid:4504020153401": 163,
+      "gas:candidate-vibid:4504020153344": 53,
+      "gas:candidate-vibid:4504020153136": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005537&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005537&type=464",
@@ -13441,14 +13441,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 11,
-      "Барановский Дмитрий Андреевич": 13,
-      "Безлер Юрий Викторович": 21,
-      "Карлов Сергей Сергеевич": 8,
-      "Осипов Олег Борисович": 2,
-      "Серова Елена Олеговна": 151,
-      "Фёдоров Виталий Владимирович": 13,
-      "Чернышов Игорь Михайлович": 11
+      "gas:candidate-vibid:4504020153555": 11,
+      "gas:candidate-vibid:4504020153611": 13,
+      "gas:candidate-vibid:4504020153008": 21,
+      "gas:candidate-vibid:4504020153520": 8,
+      "gas:candidate-vibid:4504020153804": 2,
+      "gas:candidate-vibid:4504020153401": 151,
+      "gas:candidate-vibid:4504020153344": 13,
+      "gas:candidate-vibid:4504020153136": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005537&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005537&type=464",
@@ -13499,14 +13499,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 29,
-      "Барановский Дмитрий Андреевич": 16,
-      "Безлер Юрий Викторович": 32,
-      "Карлов Сергей Сергеевич": 12,
-      "Осипов Олег Борисович": 6,
-      "Серова Елена Олеговна": 256,
-      "Фёдоров Виталий Владимирович": 53,
-      "Чернышов Игорь Михайлович": 34
+      "gas:candidate-vibid:4504020153555": 29,
+      "gas:candidate-vibid:4504020153611": 16,
+      "gas:candidate-vibid:4504020153008": 32,
+      "gas:candidate-vibid:4504020153520": 12,
+      "gas:candidate-vibid:4504020153804": 6,
+      "gas:candidate-vibid:4504020153401": 256,
+      "gas:candidate-vibid:4504020153344": 53,
+      "gas:candidate-vibid:4504020153136": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005537&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005537&type=464",
@@ -13557,14 +13557,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 21,
-      "Барановский Дмитрий Андреевич": 19,
-      "Безлер Юрий Викторович": 40,
-      "Карлов Сергей Сергеевич": 17,
-      "Осипов Олег Борисович": 6,
-      "Серова Елена Олеговна": 237,
-      "Фёдоров Виталий Владимирович": 72,
-      "Чернышов Игорь Михайлович": 36
+      "gas:candidate-vibid:4504020153555": 21,
+      "gas:candidate-vibid:4504020153611": 19,
+      "gas:candidate-vibid:4504020153008": 40,
+      "gas:candidate-vibid:4504020153520": 17,
+      "gas:candidate-vibid:4504020153804": 6,
+      "gas:candidate-vibid:4504020153401": 237,
+      "gas:candidate-vibid:4504020153344": 72,
+      "gas:candidate-vibid:4504020153136": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005537&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005537&type=464",
@@ -13615,14 +13615,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 4,
-      "Барановский Дмитрий Андреевич": 0,
-      "Безлер Юрий Викторович": 7,
-      "Карлов Сергей Сергеевич": 4,
-      "Осипов Олег Борисович": 3,
-      "Серова Елена Олеговна": 20,
-      "Фёдоров Виталий Владимирович": 23,
-      "Чернышов Игорь Михайлович": 1
+      "gas:candidate-vibid:4504020153555": 4,
+      "gas:candidate-vibid:4504020153611": 0,
+      "gas:candidate-vibid:4504020153008": 7,
+      "gas:candidate-vibid:4504020153520": 4,
+      "gas:candidate-vibid:4504020153804": 3,
+      "gas:candidate-vibid:4504020153401": 20,
+      "gas:candidate-vibid:4504020153344": 23,
+      "gas:candidate-vibid:4504020153136": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005537&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005537&type=464",
@@ -13673,14 +13673,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 40,
-      "Барановский Дмитрий Андреевич": 26,
-      "Безлер Юрий Викторович": 51,
-      "Карлов Сергей Сергеевич": 24,
-      "Осипов Олег Борисович": 9,
-      "Серова Елена Олеговна": 305,
-      "Фёдоров Виталий Владимирович": 47,
-      "Чернышов Игорь Михайлович": 28
+      "gas:candidate-vibid:4504020153555": 40,
+      "gas:candidate-vibid:4504020153611": 26,
+      "gas:candidate-vibid:4504020153008": 51,
+      "gas:candidate-vibid:4504020153520": 24,
+      "gas:candidate-vibid:4504020153804": 9,
+      "gas:candidate-vibid:4504020153401": 305,
+      "gas:candidate-vibid:4504020153344": 47,
+      "gas:candidate-vibid:4504020153136": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005537&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005537&type=464",
@@ -13731,14 +13731,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 40,
-      "Барановский Дмитрий Андреевич": 34,
-      "Безлер Юрий Викторович": 41,
-      "Карлов Сергей Сергеевич": 7,
-      "Осипов Олег Борисович": 15,
-      "Серова Елена Олеговна": 294,
-      "Фёдоров Виталий Владимирович": 53,
-      "Чернышов Игорь Михайлович": 39
+      "gas:candidate-vibid:4504020153555": 40,
+      "gas:candidate-vibid:4504020153611": 34,
+      "gas:candidate-vibid:4504020153008": 41,
+      "gas:candidate-vibid:4504020153520": 7,
+      "gas:candidate-vibid:4504020153804": 15,
+      "gas:candidate-vibid:4504020153401": 294,
+      "gas:candidate-vibid:4504020153344": 53,
+      "gas:candidate-vibid:4504020153136": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005537&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005537&type=464",
@@ -13789,14 +13789,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 28,
-      "Барановский Дмитрий Андреевич": 24,
-      "Безлер Юрий Викторович": 31,
-      "Карлов Сергей Сергеевич": 15,
-      "Осипов Олег Борисович": 16,
-      "Серова Елена Олеговна": 213,
-      "Фёдоров Виталий Владимирович": 52,
-      "Чернышов Игорь Михайлович": 23
+      "gas:candidate-vibid:4504020153555": 28,
+      "gas:candidate-vibid:4504020153611": 24,
+      "gas:candidate-vibid:4504020153008": 31,
+      "gas:candidate-vibid:4504020153520": 15,
+      "gas:candidate-vibid:4504020153804": 16,
+      "gas:candidate-vibid:4504020153401": 213,
+      "gas:candidate-vibid:4504020153344": 52,
+      "gas:candidate-vibid:4504020153136": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005537&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005537&type=464",
@@ -13847,14 +13847,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 27,
-      "Барановский Дмитрий Андреевич": 25,
-      "Безлер Юрий Викторович": 51,
-      "Карлов Сергей Сергеевич": 22,
-      "Осипов Олег Борисович": 18,
-      "Серова Елена Олеговна": 351,
-      "Фёдоров Виталий Владимирович": 84,
-      "Чернышов Игорь Михайлович": 34
+      "gas:candidate-vibid:4504020153555": 27,
+      "gas:candidate-vibid:4504020153611": 25,
+      "gas:candidate-vibid:4504020153008": 51,
+      "gas:candidate-vibid:4504020153520": 22,
+      "gas:candidate-vibid:4504020153804": 18,
+      "gas:candidate-vibid:4504020153401": 351,
+      "gas:candidate-vibid:4504020153344": 84,
+      "gas:candidate-vibid:4504020153136": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005537&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005537&type=464",
@@ -13905,14 +13905,14 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Багдасаров Семен Аркадьевич": 24,
-      "Барановский Дмитрий Андреевич": 11,
-      "Безлер Юрий Викторович": 13,
-      "Карлов Сергей Сергеевич": 4,
-      "Осипов Олег Борисович": 11,
-      "Серова Елена Олеговна": 87,
-      "Фёдоров Виталий Владимирович": 24,
-      "Чернышов Игорь Михайлович": 11
+      "gas:candidate-vibid:4504020153555": 24,
+      "gas:candidate-vibid:4504020153611": 11,
+      "gas:candidate-vibid:4504020153008": 13,
+      "gas:candidate-vibid:4504020153520": 4,
+      "gas:candidate-vibid:4504020153804": 11,
+      "gas:candidate-vibid:4504020153401": 87,
+      "gas:candidate-vibid:4504020153344": 24,
+      "gas:candidate-vibid:4504020153136": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000158&tvd=25020002005537&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005537&type=464",
@@ -13963,16 +13963,16 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришина Елена Владимировна": 22,
-      "Зайцев Игорь Владимирович": 8,
-      "Иванов Евгений Александрович": 25,
-      "Клименко Константин Петрович": 4,
-      "Мечтанов Николай Владимирович": 37,
-      "Романович Александр Леонидович": 17,
-      "Русских Алексей Юрьевич": 146,
-      "Харпак Василий Николаевич": 50,
-      "Холостов Вадим Валентинович": 6,
-      "Шаккум Мартин Люцианович": 450
+      "gas:candidate-vibid:4504023255224": 22,
+      "gas:candidate-vibid:4504023255404": 8,
+      "gas:candidate-vibid:4504023255072": 25,
+      "gas:candidate-vibid:4504023255345": 4,
+      "gas:candidate-vibid:4504023255157": 37,
+      "gas:candidate-vibid:4504023254827": 17,
+      "gas:candidate-vibid:4504023254943": 146,
+      "gas:candidate-vibid:4504023254763": 50,
+      "gas:candidate-vibid:4504023255046": 6,
+      "gas:candidate-vibid:4504023255108": 450
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000159&tvd=25020002005538&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005538&type=464",
@@ -14023,16 +14023,16 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришина Елена Владимировна": 20,
-      "Зайцев Игорь Владимирович": 18,
-      "Иванов Евгений Александрович": 9,
-      "Клименко Константин Петрович": 7,
-      "Мечтанов Николай Владимирович": 35,
-      "Романович Александр Леонидович": 13,
-      "Русских Алексей Юрьевич": 132,
-      "Харпак Василий Николаевич": 45,
-      "Холостов Вадим Валентинович": 6,
-      "Шаккум Мартин Люцианович": 420
+      "gas:candidate-vibid:4504023255224": 20,
+      "gas:candidate-vibid:4504023255404": 18,
+      "gas:candidate-vibid:4504023255072": 9,
+      "gas:candidate-vibid:4504023255345": 7,
+      "gas:candidate-vibid:4504023255157": 35,
+      "gas:candidate-vibid:4504023254827": 13,
+      "gas:candidate-vibid:4504023254943": 132,
+      "gas:candidate-vibid:4504023254763": 45,
+      "gas:candidate-vibid:4504023255046": 6,
+      "gas:candidate-vibid:4504023255108": 420
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000159&tvd=25020002005538&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005538&type=464",
@@ -14083,16 +14083,16 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришина Елена Владимировна": 19,
-      "Зайцев Игорь Владимирович": 18,
-      "Иванов Евгений Александрович": 9,
-      "Клименко Константин Петрович": 12,
-      "Мечтанов Николай Владимирович": 30,
-      "Романович Александр Леонидович": 18,
-      "Русских Алексей Юрьевич": 146,
-      "Харпак Василий Николаевич": 47,
-      "Холостов Вадим Валентинович": 8,
-      "Шаккум Мартин Люцианович": 490
+      "gas:candidate-vibid:4504023255224": 19,
+      "gas:candidate-vibid:4504023255404": 18,
+      "gas:candidate-vibid:4504023255072": 9,
+      "gas:candidate-vibid:4504023255345": 12,
+      "gas:candidate-vibid:4504023255157": 30,
+      "gas:candidate-vibid:4504023254827": 18,
+      "gas:candidate-vibid:4504023254943": 146,
+      "gas:candidate-vibid:4504023254763": 47,
+      "gas:candidate-vibid:4504023255046": 8,
+      "gas:candidate-vibid:4504023255108": 490
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000159&tvd=25020002005538&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005538&type=464",
@@ -14143,16 +14143,16 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришина Елена Владимировна": 28,
-      "Зайцев Игорь Владимирович": 14,
-      "Иванов Евгений Александрович": 19,
-      "Клименко Константин Петрович": 9,
-      "Мечтанов Николай Владимирович": 26,
-      "Романович Александр Леонидович": 25,
-      "Русских Алексей Юрьевич": 111,
-      "Харпак Василий Николаевич": 86,
-      "Холостов Вадим Валентинович": 11,
-      "Шаккум Мартин Люцианович": 489
+      "gas:candidate-vibid:4504023255224": 28,
+      "gas:candidate-vibid:4504023255404": 14,
+      "gas:candidate-vibid:4504023255072": 19,
+      "gas:candidate-vibid:4504023255345": 9,
+      "gas:candidate-vibid:4504023255157": 26,
+      "gas:candidate-vibid:4504023254827": 25,
+      "gas:candidate-vibid:4504023254943": 111,
+      "gas:candidate-vibid:4504023254763": 86,
+      "gas:candidate-vibid:4504023255046": 11,
+      "gas:candidate-vibid:4504023255108": 489
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000159&tvd=25020002005538&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005538&type=464",
@@ -14203,16 +14203,16 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришина Елена Владимировна": 4,
-      "Зайцев Игорь Владимирович": 3,
-      "Иванов Евгений Александрович": 6,
-      "Клименко Константин Петрович": 13,
-      "Мечтанов Николай Владимирович": 12,
-      "Романович Александр Леонидович": 8,
-      "Русских Алексей Юрьевич": 52,
-      "Харпак Василий Николаевич": 28,
-      "Холостов Вадим Валентинович": 1,
-      "Шаккум Мартин Люцианович": 234
+      "gas:candidate-vibid:4504023255224": 4,
+      "gas:candidate-vibid:4504023255404": 3,
+      "gas:candidate-vibid:4504023255072": 6,
+      "gas:candidate-vibid:4504023255345": 13,
+      "gas:candidate-vibid:4504023255157": 12,
+      "gas:candidate-vibid:4504023254827": 8,
+      "gas:candidate-vibid:4504023254943": 52,
+      "gas:candidate-vibid:4504023254763": 28,
+      "gas:candidate-vibid:4504023255046": 1,
+      "gas:candidate-vibid:4504023255108": 234
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000159&tvd=25020002005538&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005538&type=464",
@@ -14263,16 +14263,16 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришина Елена Владимировна": 12,
-      "Зайцев Игорь Владимирович": 5,
-      "Иванов Евгений Александрович": 6,
-      "Клименко Константин Петрович": 5,
-      "Мечтанов Николай Владимирович": 13,
-      "Романович Александр Леонидович": 8,
-      "Русских Алексей Юрьевич": 64,
-      "Харпак Василий Николаевич": 25,
-      "Холостов Вадим Валентинович": 5,
-      "Шаккум Мартин Люцианович": 255
+      "gas:candidate-vibid:4504023255224": 12,
+      "gas:candidate-vibid:4504023255404": 5,
+      "gas:candidate-vibid:4504023255072": 6,
+      "gas:candidate-vibid:4504023255345": 5,
+      "gas:candidate-vibid:4504023255157": 13,
+      "gas:candidate-vibid:4504023254827": 8,
+      "gas:candidate-vibid:4504023254943": 64,
+      "gas:candidate-vibid:4504023254763": 25,
+      "gas:candidate-vibid:4504023255046": 5,
+      "gas:candidate-vibid:4504023255108": 255
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000159&tvd=25020002005538&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005538&type=464",
@@ -14323,16 +14323,16 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришина Елена Владимировна": 4,
-      "Зайцев Игорь Владимирович": 12,
-      "Иванов Евгений Александрович": 10,
-      "Клименко Константин Петрович": 8,
-      "Мечтанов Николай Владимирович": 19,
-      "Романович Александр Леонидович": 8,
-      "Русских Алексей Юрьевич": 80,
-      "Харпак Василий Николаевич": 39,
-      "Холостов Вадим Валентинович": 4,
-      "Шаккум Мартин Люцианович": 234
+      "gas:candidate-vibid:4504023255224": 4,
+      "gas:candidate-vibid:4504023255404": 12,
+      "gas:candidate-vibid:4504023255072": 10,
+      "gas:candidate-vibid:4504023255345": 8,
+      "gas:candidate-vibid:4504023255157": 19,
+      "gas:candidate-vibid:4504023254827": 8,
+      "gas:candidate-vibid:4504023254943": 80,
+      "gas:candidate-vibid:4504023254763": 39,
+      "gas:candidate-vibid:4504023255046": 4,
+      "gas:candidate-vibid:4504023255108": 234
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000159&tvd=25020002005538&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005538&type=464",
@@ -14383,16 +14383,16 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришина Елена Владимировна": 12,
-      "Зайцев Игорь Владимирович": 4,
-      "Иванов Евгений Александрович": 11,
-      "Клименко Константин Петрович": 2,
-      "Мечтанов Николай Владимирович": 14,
-      "Романович Александр Леонидович": 9,
-      "Русских Алексей Юрьевич": 40,
-      "Харпак Василий Николаевич": 18,
-      "Холостов Вадим Валентинович": 1,
-      "Шаккум Мартин Люцианович": 256
+      "gas:candidate-vibid:4504023255224": 12,
+      "gas:candidate-vibid:4504023255404": 4,
+      "gas:candidate-vibid:4504023255072": 11,
+      "gas:candidate-vibid:4504023255345": 2,
+      "gas:candidate-vibid:4504023255157": 14,
+      "gas:candidate-vibid:4504023254827": 9,
+      "gas:candidate-vibid:4504023254943": 40,
+      "gas:candidate-vibid:4504023254763": 18,
+      "gas:candidate-vibid:4504023255046": 1,
+      "gas:candidate-vibid:4504023255108": 256
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000159&tvd=25020002005538&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005538&type=464",
@@ -14443,16 +14443,16 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришина Елена Владимировна": 12,
-      "Зайцев Игорь Владимирович": 3,
-      "Иванов Евгений Александрович": 6,
-      "Клименко Константин Петрович": 5,
-      "Мечтанов Николай Владимирович": 4,
-      "Романович Александр Леонидович": 11,
-      "Русских Алексей Юрьевич": 33,
-      "Харпак Василий Николаевич": 16,
-      "Холостов Вадим Валентинович": 2,
-      "Шаккум Мартин Люцианович": 148
+      "gas:candidate-vibid:4504023255224": 12,
+      "gas:candidate-vibid:4504023255404": 3,
+      "gas:candidate-vibid:4504023255072": 6,
+      "gas:candidate-vibid:4504023255345": 5,
+      "gas:candidate-vibid:4504023255157": 4,
+      "gas:candidate-vibid:4504023254827": 11,
+      "gas:candidate-vibid:4504023254943": 33,
+      "gas:candidate-vibid:4504023254763": 16,
+      "gas:candidate-vibid:4504023255046": 2,
+      "gas:candidate-vibid:4504023255108": 148
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000159&tvd=25020002005538&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005538&type=464",
@@ -14503,16 +14503,16 @@ export const duma_2016_uik_463_region_50_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гришина Елена Владимировна": 17,
-      "Зайцев Игорь Владимирович": 8,
-      "Иванов Евгений Александрович": 9,
-      "Клименко Константин Петрович": 4,
-      "Мечтанов Николай Владимирович": 12,
-      "Романович Александр Леонидович": 10,
-      "Русских Алексей Юрьевич": 39,
-      "Харпак Василий Николаевич": 41,
-      "Холостов Вадим Валентинович": 6,
-      "Шаккум Мартин Люцианович": 210
+      "gas:candidate-vibid:4504023255224": 17,
+      "gas:candidate-vibid:4504023255404": 8,
+      "gas:candidate-vibid:4504023255072": 9,
+      "gas:candidate-vibid:4504023255345": 4,
+      "gas:candidate-vibid:4504023255157": 12,
+      "gas:candidate-vibid:4504023254827": 10,
+      "gas:candidate-vibid:4504023254943": 39,
+      "gas:candidate-vibid:4504023254763": 41,
+      "gas:candidate-vibid:4504023255046": 6,
+      "gas:candidate-vibid:4504023255108": 210
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/moscow-reg?action=show&root=1000159&tvd=25020002005538&vrn=100100067795849&region=50&global=&sub_region=50&prver=0&pronetvd=null&vibid=25020002005538&type=464",

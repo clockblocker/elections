@@ -43,13 +43,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 15,
-      "Кулиева Василина Васильевна": 45,
-      "Линник Игорь Юрьевич": 2,
-      "Попов Андрей Олегович": 5,
-      "Федоров Олег Анатольевич": 3,
-      "Щебеньков Александр Викторович": 0,
-      "Щукин Геннадий Леонидович": 0
+      "gas:candidate-vibid:2752000880220": 15,
+      "gas:candidate-vibid:2752000858147": 45,
+      "gas:candidate-vibid:2752000883546": 2,
+      "gas:candidate-vibid:2752000880150": 5,
+      "gas:candidate-vibid:2752000881494": 3,
+      "gas:candidate-vibid:2752000883049": 0,
+      "gas:candidate-vibid:2752000881125": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824659&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824659&type=464",
@@ -100,13 +100,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 201,
-      "Кулиева Василина Васильевна": 384,
-      "Линник Игорь Юрьевич": 15,
-      "Попов Андрей Олегович": 91,
-      "Федоров Олег Анатольевич": 62,
-      "Щебеньков Александр Викторович": 40,
-      "Щукин Геннадий Леонидович": 49
+      "gas:candidate-vibid:2752000880220": 201,
+      "gas:candidate-vibid:2752000858147": 384,
+      "gas:candidate-vibid:2752000883546": 15,
+      "gas:candidate-vibid:2752000880150": 91,
+      "gas:candidate-vibid:2752000881494": 62,
+      "gas:candidate-vibid:2752000883049": 40,
+      "gas:candidate-vibid:2752000881125": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824660&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824660&type=464",
@@ -157,13 +157,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 118,
-      "Кулиева Василина Васильевна": 285,
-      "Линник Игорь Юрьевич": 12,
-      "Попов Андрей Олегович": 53,
-      "Федоров Олег Анатольевич": 90,
-      "Щебеньков Александр Викторович": 37,
-      "Щукин Геннадий Леонидович": 33
+      "gas:candidate-vibid:2752000880220": 118,
+      "gas:candidate-vibid:2752000858147": 285,
+      "gas:candidate-vibid:2752000883546": 12,
+      "gas:candidate-vibid:2752000880150": 53,
+      "gas:candidate-vibid:2752000881494": 90,
+      "gas:candidate-vibid:2752000883049": 37,
+      "gas:candidate-vibid:2752000881125": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824660&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824660&type=464",
@@ -214,13 +214,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 91,
-      "Кулиева Василина Васильевна": 284,
-      "Линник Игорь Юрьевич": 10,
-      "Попов Андрей Олегович": 54,
-      "Федоров Олег Анатольевич": 50,
-      "Щебеньков Александр Викторович": 16,
-      "Щукин Геннадий Леонидович": 35
+      "gas:candidate-vibid:2752000880220": 91,
+      "gas:candidate-vibid:2752000858147": 284,
+      "gas:candidate-vibid:2752000883546": 10,
+      "gas:candidate-vibid:2752000880150": 54,
+      "gas:candidate-vibid:2752000881494": 50,
+      "gas:candidate-vibid:2752000883049": 16,
+      "gas:candidate-vibid:2752000881125": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824660&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824660&type=464",
@@ -271,13 +271,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 191,
-      "Кулиева Василина Васильевна": 362,
-      "Линник Игорь Юрьевич": 23,
-      "Попов Андрей Олегович": 102,
-      "Федоров Олег Анатольевич": 90,
-      "Щебеньков Александр Викторович": 45,
-      "Щукин Геннадий Леонидович": 51
+      "gas:candidate-vibid:2752000880220": 191,
+      "gas:candidate-vibid:2752000858147": 362,
+      "gas:candidate-vibid:2752000883546": 23,
+      "gas:candidate-vibid:2752000880150": 102,
+      "gas:candidate-vibid:2752000881494": 90,
+      "gas:candidate-vibid:2752000883049": 45,
+      "gas:candidate-vibid:2752000881125": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824660&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824660&type=464",
@@ -328,13 +328,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 136,
-      "Кулиева Василина Васильевна": 292,
-      "Линник Игорь Юрьевич": 26,
-      "Попов Андрей Олегович": 101,
-      "Федоров Олег Анатольевич": 54,
-      "Щебеньков Александр Викторович": 22,
-      "Щукин Геннадий Леонидович": 40
+      "gas:candidate-vibid:2752000880220": 136,
+      "gas:candidate-vibid:2752000858147": 292,
+      "gas:candidate-vibid:2752000883546": 26,
+      "gas:candidate-vibid:2752000880150": 101,
+      "gas:candidate-vibid:2752000881494": 54,
+      "gas:candidate-vibid:2752000883049": 22,
+      "gas:candidate-vibid:2752000881125": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824660&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824660&type=464",
@@ -385,13 +385,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 106,
-      "Кулиева Василина Васильевна": 271,
-      "Линник Игорь Юрьевич": 19,
-      "Попов Андрей Олегович": 89,
-      "Федоров Олег Анатольевич": 76,
-      "Щебеньков Александр Викторович": 41,
-      "Щукин Геннадий Леонидович": 43
+      "gas:candidate-vibid:2752000880220": 106,
+      "gas:candidate-vibid:2752000858147": 271,
+      "gas:candidate-vibid:2752000883546": 19,
+      "gas:candidate-vibid:2752000880150": 89,
+      "gas:candidate-vibid:2752000881494": 76,
+      "gas:candidate-vibid:2752000883049": 41,
+      "gas:candidate-vibid:2752000881125": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824660&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824660&type=464",
@@ -442,13 +442,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 133,
-      "Кулиева Василина Васильевна": 257,
-      "Линник Игорь Юрьевич": 14,
-      "Попов Андрей Олегович": 92,
-      "Федоров Олег Анатольевич": 55,
-      "Щебеньков Александр Викторович": 19,
-      "Щукин Геннадий Леонидович": 29
+      "gas:candidate-vibid:2752000880220": 133,
+      "gas:candidate-vibid:2752000858147": 257,
+      "gas:candidate-vibid:2752000883546": 14,
+      "gas:candidate-vibid:2752000880150": 92,
+      "gas:candidate-vibid:2752000881494": 55,
+      "gas:candidate-vibid:2752000883049": 19,
+      "gas:candidate-vibid:2752000881125": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824660&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824660&type=464",
@@ -499,13 +499,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 142,
-      "Кулиева Василина Васильевна": 301,
-      "Линник Игорь Юрьевич": 21,
-      "Попов Андрей Олегович": 84,
-      "Федоров Олег Анатольевич": 52,
-      "Щебеньков Александр Викторович": 19,
-      "Щукин Геннадий Леонидович": 35
+      "gas:candidate-vibid:2752000880220": 142,
+      "gas:candidate-vibid:2752000858147": 301,
+      "gas:candidate-vibid:2752000883546": 21,
+      "gas:candidate-vibid:2752000880150": 84,
+      "gas:candidate-vibid:2752000881494": 52,
+      "gas:candidate-vibid:2752000883049": 19,
+      "gas:candidate-vibid:2752000881125": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824660&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824660&type=464",
@@ -556,13 +556,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 130,
-      "Кулиева Василина Васильевна": 283,
-      "Линник Игорь Юрьевич": 18,
-      "Попов Андрей Олегович": 71,
-      "Федоров Олег Анатольевич": 65,
-      "Щебеньков Александр Викторович": 33,
-      "Щукин Геннадий Леонидович": 29
+      "gas:candidate-vibid:2752000880220": 130,
+      "gas:candidate-vibid:2752000858147": 283,
+      "gas:candidate-vibid:2752000883546": 18,
+      "gas:candidate-vibid:2752000880150": 71,
+      "gas:candidate-vibid:2752000881494": 65,
+      "gas:candidate-vibid:2752000883049": 33,
+      "gas:candidate-vibid:2752000881125": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824660&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824660&type=464",
@@ -613,13 +613,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 110,
-      "Кулиева Василина Васильевна": 191,
-      "Линник Игорь Юрьевич": 13,
-      "Попов Андрей Олегович": 63,
-      "Федоров Олег Анатольевич": 46,
-      "Щебеньков Александр Викторович": 24,
-      "Щукин Геннадий Леонидович": 44
+      "gas:candidate-vibid:2752000880220": 110,
+      "gas:candidate-vibid:2752000858147": 191,
+      "gas:candidate-vibid:2752000883546": 13,
+      "gas:candidate-vibid:2752000880150": 63,
+      "gas:candidate-vibid:2752000881494": 46,
+      "gas:candidate-vibid:2752000883049": 24,
+      "gas:candidate-vibid:2752000881125": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824660&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824660&type=464",
@@ -670,13 +670,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 137,
-      "Кулиева Василина Васильевна": 298,
-      "Линник Игорь Юрьевич": 18,
-      "Попов Андрей Олегович": 77,
-      "Федоров Олег Анатольевич": 38,
-      "Щебеньков Александр Викторович": 30,
-      "Щукин Геннадий Леонидович": 30
+      "gas:candidate-vibid:2752000880220": 137,
+      "gas:candidate-vibid:2752000858147": 298,
+      "gas:candidate-vibid:2752000883546": 18,
+      "gas:candidate-vibid:2752000880150": 77,
+      "gas:candidate-vibid:2752000881494": 38,
+      "gas:candidate-vibid:2752000883049": 30,
+      "gas:candidate-vibid:2752000881125": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824660&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824660&type=464",
@@ -727,13 +727,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 144,
-      "Кулиева Василина Васильевна": 325,
-      "Линник Игорь Юрьевич": 15,
-      "Попов Андрей Олегович": 101,
-      "Федоров Олег Анатольевич": 78,
-      "Щебеньков Александр Викторович": 42,
-      "Щукин Геннадий Леонидович": 38
+      "gas:candidate-vibid:2752000880220": 144,
+      "gas:candidate-vibid:2752000858147": 325,
+      "gas:candidate-vibid:2752000883546": 15,
+      "gas:candidate-vibid:2752000880150": 101,
+      "gas:candidate-vibid:2752000881494": 78,
+      "gas:candidate-vibid:2752000883049": 42,
+      "gas:candidate-vibid:2752000881125": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824660&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824660&type=464",
@@ -784,13 +784,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 131,
-      "Кулиева Василина Васильевна": 305,
-      "Линник Игорь Юрьевич": 15,
-      "Попов Андрей Олегович": 75,
-      "Федоров Олег Анатольевич": 67,
-      "Щебеньков Александр Викторович": 39,
-      "Щукин Геннадий Леонидович": 46
+      "gas:candidate-vibid:2752000880220": 131,
+      "gas:candidate-vibid:2752000858147": 305,
+      "gas:candidate-vibid:2752000883546": 15,
+      "gas:candidate-vibid:2752000880150": 75,
+      "gas:candidate-vibid:2752000881494": 67,
+      "gas:candidate-vibid:2752000883049": 39,
+      "gas:candidate-vibid:2752000881125": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824660&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824660&type=464",
@@ -841,13 +841,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 175,
-      "Кулиева Василина Васильевна": 332,
-      "Линник Игорь Юрьевич": 24,
-      "Попов Андрей Олегович": 94,
-      "Федоров Олег Анатольевич": 60,
-      "Щебеньков Александр Викторович": 32,
-      "Щукин Геннадий Леонидович": 39
+      "gas:candidate-vibid:2752000880220": 175,
+      "gas:candidate-vibid:2752000858147": 332,
+      "gas:candidate-vibid:2752000883546": 24,
+      "gas:candidate-vibid:2752000880150": 94,
+      "gas:candidate-vibid:2752000881494": 60,
+      "gas:candidate-vibid:2752000883049": 32,
+      "gas:candidate-vibid:2752000881125": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824660&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824660&type=464",
@@ -898,13 +898,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 149,
-      "Кулиева Василина Васильевна": 270,
-      "Линник Игорь Юрьевич": 9,
-      "Попов Андрей Олегович": 88,
-      "Федоров Олег Анатольевич": 50,
-      "Щебеньков Александр Викторович": 21,
-      "Щукин Геннадий Леонидович": 31
+      "gas:candidate-vibid:2752000880220": 149,
+      "gas:candidate-vibid:2752000858147": 270,
+      "gas:candidate-vibid:2752000883546": 9,
+      "gas:candidate-vibid:2752000880150": 88,
+      "gas:candidate-vibid:2752000881494": 50,
+      "gas:candidate-vibid:2752000883049": 21,
+      "gas:candidate-vibid:2752000881125": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824660&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824660&type=464",
@@ -955,13 +955,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 146,
-      "Кулиева Василина Васильевна": 438,
-      "Линник Игорь Юрьевич": 15,
-      "Попов Андрей Олегович": 78,
-      "Федоров Олег Анатольевич": 56,
-      "Щебеньков Александр Викторович": 32,
-      "Щукин Геннадий Леонидович": 48
+      "gas:candidate-vibid:2752000880220": 146,
+      "gas:candidate-vibid:2752000858147": 438,
+      "gas:candidate-vibid:2752000883546": 15,
+      "gas:candidate-vibid:2752000880150": 78,
+      "gas:candidate-vibid:2752000881494": 56,
+      "gas:candidate-vibid:2752000883049": 32,
+      "gas:candidate-vibid:2752000881125": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824660&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824660&type=464",
@@ -1012,13 +1012,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 159,
-      "Кулиева Василина Васильевна": 335,
-      "Линник Игорь Юрьевич": 20,
-      "Попов Андрей Олегович": 74,
-      "Федоров Олег Анатольевич": 60,
-      "Щебеньков Александр Викторович": 41,
-      "Щукин Геннадий Леонидович": 30
+      "gas:candidate-vibid:2752000880220": 159,
+      "gas:candidate-vibid:2752000858147": 335,
+      "gas:candidate-vibid:2752000883546": 20,
+      "gas:candidate-vibid:2752000880150": 74,
+      "gas:candidate-vibid:2752000881494": 60,
+      "gas:candidate-vibid:2752000883049": 41,
+      "gas:candidate-vibid:2752000881125": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824660&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824660&type=464",
@@ -1069,13 +1069,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 158,
-      "Кулиева Василина Васильевна": 340,
-      "Линник Игорь Юрьевич": 16,
-      "Попов Андрей Олегович": 118,
-      "Федоров Олег Анатольевич": 57,
-      "Щебеньков Александр Викторович": 57,
-      "Щукин Геннадий Леонидович": 49
+      "gas:candidate-vibid:2752000880220": 158,
+      "gas:candidate-vibid:2752000858147": 340,
+      "gas:candidate-vibid:2752000883546": 16,
+      "gas:candidate-vibid:2752000880150": 118,
+      "gas:candidate-vibid:2752000881494": 57,
+      "gas:candidate-vibid:2752000883049": 57,
+      "gas:candidate-vibid:2752000881125": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824660&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824660&type=464",
@@ -1126,13 +1126,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 159,
-      "Кулиева Василина Васильевна": 349,
-      "Линник Игорь Юрьевич": 12,
-      "Попов Андрей Олегович": 67,
-      "Федоров Олег Анатольевич": 64,
-      "Щебеньков Александр Викторович": 41,
-      "Щукин Геннадий Леонидович": 35
+      "gas:candidate-vibid:2752000880220": 159,
+      "gas:candidate-vibid:2752000858147": 349,
+      "gas:candidate-vibid:2752000883546": 12,
+      "gas:candidate-vibid:2752000880150": 67,
+      "gas:candidate-vibid:2752000881494": 64,
+      "gas:candidate-vibid:2752000883049": 41,
+      "gas:candidate-vibid:2752000881125": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824660&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824660&type=464",
@@ -1183,13 +1183,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 8,
-      "Кулиева Василина Васильевна": 9,
-      "Линник Игорь Юрьевич": 1,
-      "Попов Андрей Олегович": 8,
-      "Федоров Олег Анатольевич": 3,
-      "Щебеньков Александр Викторович": 0,
-      "Щукин Геннадий Леонидович": 1
+      "gas:candidate-vibid:2752000880220": 8,
+      "gas:candidate-vibid:2752000858147": 9,
+      "gas:candidate-vibid:2752000883546": 1,
+      "gas:candidate-vibid:2752000880150": 8,
+      "gas:candidate-vibid:2752000881494": 3,
+      "gas:candidate-vibid:2752000883049": 0,
+      "gas:candidate-vibid:2752000881125": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824660&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824660&type=464",
@@ -1240,13 +1240,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 23,
-      "Кулиева Василина Васильевна": 54,
-      "Линник Игорь Юрьевич": 2,
-      "Попов Андрей Олегович": 21,
-      "Федоров Олег Анатольевич": 24,
-      "Щебеньков Александр Викторович": 6,
-      "Щукин Геннадий Леонидович": 17
+      "gas:candidate-vibid:2752000880220": 23,
+      "gas:candidate-vibid:2752000858147": 54,
+      "gas:candidate-vibid:2752000883546": 2,
+      "gas:candidate-vibid:2752000880150": 21,
+      "gas:candidate-vibid:2752000881494": 24,
+      "gas:candidate-vibid:2752000883049": 6,
+      "gas:candidate-vibid:2752000881125": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824660&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824660&type=464",
@@ -1297,13 +1297,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 47,
-      "Кулиева Василина Васильевна": 127,
-      "Линник Игорь Юрьевич": 9,
-      "Попов Андрей Олегович": 69,
-      "Федоров Олег Анатольевич": 84,
-      "Щебеньков Александр Викторович": 8,
-      "Щукин Геннадий Леонидович": 16
+      "gas:candidate-vibid:2752000880220": 47,
+      "gas:candidate-vibid:2752000858147": 127,
+      "gas:candidate-vibid:2752000883546": 9,
+      "gas:candidate-vibid:2752000880150": 69,
+      "gas:candidate-vibid:2752000881494": 84,
+      "gas:candidate-vibid:2752000883049": 8,
+      "gas:candidate-vibid:2752000881125": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824660&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824660&type=464",
@@ -1354,13 +1354,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 53,
-      "Кулиева Василина Васильевна": 180,
-      "Линник Игорь Юрьевич": 22,
-      "Попов Андрей Олегович": 77,
-      "Федоров Олег Анатольевич": 57,
-      "Щебеньков Александр Викторович": 19,
-      "Щукин Геннадий Леонидович": 21
+      "gas:candidate-vibid:2752000880220": 53,
+      "gas:candidate-vibid:2752000858147": 180,
+      "gas:candidate-vibid:2752000883546": 22,
+      "gas:candidate-vibid:2752000880150": 77,
+      "gas:candidate-vibid:2752000881494": 57,
+      "gas:candidate-vibid:2752000883049": 19,
+      "gas:candidate-vibid:2752000881125": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824660&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824660&type=464",
@@ -1411,13 +1411,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 57,
-      "Кулиева Василина Васильевна": 136,
-      "Линник Игорь Юрьевич": 10,
-      "Попов Андрей Олегович": 48,
-      "Федоров Олег Анатольевич": 54,
-      "Щебеньков Александр Викторович": 10,
-      "Щукин Геннадий Леонидович": 17
+      "gas:candidate-vibid:2752000880220": 57,
+      "gas:candidate-vibid:2752000858147": 136,
+      "gas:candidate-vibid:2752000883546": 10,
+      "gas:candidate-vibid:2752000880150": 48,
+      "gas:candidate-vibid:2752000881494": 54,
+      "gas:candidate-vibid:2752000883049": 10,
+      "gas:candidate-vibid:2752000881125": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824660&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824660&type=464",
@@ -1468,13 +1468,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 48,
-      "Кулиева Василина Васильевна": 86,
-      "Линник Игорь Юрьевич": 5,
-      "Попов Андрей Олегович": 26,
-      "Федоров Олег Анатольевич": 33,
-      "Щебеньков Александр Викторович": 11,
-      "Щукин Геннадий Леонидович": 8
+      "gas:candidate-vibid:2752000880220": 48,
+      "gas:candidate-vibid:2752000858147": 86,
+      "gas:candidate-vibid:2752000883546": 5,
+      "gas:candidate-vibid:2752000880150": 26,
+      "gas:candidate-vibid:2752000881494": 33,
+      "gas:candidate-vibid:2752000883049": 11,
+      "gas:candidate-vibid:2752000881125": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824660&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824660&type=464",
@@ -1525,13 +1525,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 12,
-      "Кулиева Василина Васильевна": 36,
-      "Линник Игорь Юрьевич": 3,
-      "Попов Андрей Олегович": 22,
-      "Федоров Олег Анатольевич": 18,
-      "Щебеньков Александр Викторович": 2,
-      "Щукин Геннадий Леонидович": 5
+      "gas:candidate-vibid:2752000880220": 12,
+      "gas:candidate-vibid:2752000858147": 36,
+      "gas:candidate-vibid:2752000883546": 3,
+      "gas:candidate-vibid:2752000880150": 22,
+      "gas:candidate-vibid:2752000881494": 18,
+      "gas:candidate-vibid:2752000883049": 2,
+      "gas:candidate-vibid:2752000881125": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824660&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824660&type=464",
@@ -1582,13 +1582,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 35,
-      "Кулиева Василина Васильевна": 97,
-      "Линник Игорь Юрьевич": 8,
-      "Попов Андрей Олегович": 29,
-      "Федоров Олег Анатольевич": 30,
-      "Щебеньков Александр Викторович": 10,
-      "Щукин Геннадий Леонидович": 18
+      "gas:candidate-vibid:2752000880220": 35,
+      "gas:candidate-vibid:2752000858147": 97,
+      "gas:candidate-vibid:2752000883546": 8,
+      "gas:candidate-vibid:2752000880150": 29,
+      "gas:candidate-vibid:2752000881494": 30,
+      "gas:candidate-vibid:2752000883049": 10,
+      "gas:candidate-vibid:2752000881125": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824660&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824660&type=464",
@@ -1639,13 +1639,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 25,
-      "Кулиева Василина Васильевна": 86,
-      "Линник Игорь Юрьевич": 1,
-      "Попов Андрей Олегович": 18,
-      "Федоров Олег Анатольевич": 19,
-      "Щебеньков Александр Викторович": 5,
-      "Щукин Геннадий Леонидович": 7
+      "gas:candidate-vibid:2752000880220": 25,
+      "gas:candidate-vibid:2752000858147": 86,
+      "gas:candidate-vibid:2752000883546": 1,
+      "gas:candidate-vibid:2752000880150": 18,
+      "gas:candidate-vibid:2752000881494": 19,
+      "gas:candidate-vibid:2752000883049": 5,
+      "gas:candidate-vibid:2752000881125": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824660&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824660&type=464",
@@ -1696,13 +1696,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 51,
-      "Кулиева Василина Васильевна": 86,
-      "Линник Игорь Юрьевич": 4,
-      "Попов Андрей Олегович": 25,
-      "Федоров Олег Анатольевич": 24,
-      "Щебеньков Александр Викторович": 7,
-      "Щукин Геннадий Леонидович": 47
+      "gas:candidate-vibid:2752000880220": 51,
+      "gas:candidate-vibid:2752000858147": 86,
+      "gas:candidate-vibid:2752000883546": 4,
+      "gas:candidate-vibid:2752000880150": 25,
+      "gas:candidate-vibid:2752000881494": 24,
+      "gas:candidate-vibid:2752000883049": 7,
+      "gas:candidate-vibid:2752000881125": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824660&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824660&type=464",
@@ -1753,13 +1753,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 23,
-      "Кулиева Василина Васильевна": 51,
-      "Линник Игорь Юрьевич": 2,
-      "Попов Андрей Олегович": 12,
-      "Федоров Олег Анатольевич": 28,
-      "Щебеньков Александр Викторович": 5,
-      "Щукин Геннадий Леонидович": 7
+      "gas:candidate-vibid:2752000880220": 23,
+      "gas:candidate-vibid:2752000858147": 51,
+      "gas:candidate-vibid:2752000883546": 2,
+      "gas:candidate-vibid:2752000880150": 12,
+      "gas:candidate-vibid:2752000881494": 28,
+      "gas:candidate-vibid:2752000883049": 5,
+      "gas:candidate-vibid:2752000881125": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824660&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824660&type=464",
@@ -1810,13 +1810,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 8,
-      "Кулиева Василина Васильевна": 16,
-      "Линник Игорь Юрьевич": 0,
-      "Попов Андрей Олегович": 7,
-      "Федоров Олег Анатольевич": 6,
-      "Щебеньков Александр Викторович": 0,
-      "Щукин Геннадий Леонидович": 6
+      "gas:candidate-vibid:2752000880220": 8,
+      "gas:candidate-vibid:2752000858147": 16,
+      "gas:candidate-vibid:2752000883546": 0,
+      "gas:candidate-vibid:2752000880150": 7,
+      "gas:candidate-vibid:2752000881494": 6,
+      "gas:candidate-vibid:2752000883049": 0,
+      "gas:candidate-vibid:2752000881125": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824660&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824660&type=464",
@@ -1867,13 +1867,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 214,
-      "Кулиева Василина Васильевна": 384,
-      "Линник Игорь Юрьевич": 39,
-      "Попов Андрей Олегович": 253,
-      "Федоров Олег Анатольевич": 68,
-      "Щебеньков Александр Викторович": 86,
-      "Щукин Геннадий Леонидович": 74
+      "gas:candidate-vibid:2752000880220": 214,
+      "gas:candidate-vibid:2752000858147": 384,
+      "gas:candidate-vibid:2752000883546": 39,
+      "gas:candidate-vibid:2752000880150": 253,
+      "gas:candidate-vibid:2752000881494": 68,
+      "gas:candidate-vibid:2752000883049": 86,
+      "gas:candidate-vibid:2752000881125": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824661&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824661&type=464",
@@ -1924,13 +1924,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 95,
-      "Кулиева Василина Васильевна": 266,
-      "Линник Игорь Юрьевич": 13,
-      "Попов Андрей Олегович": 173,
-      "Федоров Олег Анатольевич": 42,
-      "Щебеньков Александр Викторович": 50,
-      "Щукин Геннадий Леонидович": 34
+      "gas:candidate-vibid:2752000880220": 95,
+      "gas:candidate-vibid:2752000858147": 266,
+      "gas:candidate-vibid:2752000883546": 13,
+      "gas:candidate-vibid:2752000880150": 173,
+      "gas:candidate-vibid:2752000881494": 42,
+      "gas:candidate-vibid:2752000883049": 50,
+      "gas:candidate-vibid:2752000881125": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824661&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824661&type=464",
@@ -1981,13 +1981,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 119,
-      "Кулиева Василина Васильевна": 320,
-      "Линник Игорь Юрьевич": 26,
-      "Попов Андрей Олегович": 172,
-      "Федоров Олег Анатольевич": 60,
-      "Щебеньков Александр Викторович": 83,
-      "Щукин Геннадий Леонидович": 48
+      "gas:candidate-vibid:2752000880220": 119,
+      "gas:candidate-vibid:2752000858147": 320,
+      "gas:candidate-vibid:2752000883546": 26,
+      "gas:candidate-vibid:2752000880150": 172,
+      "gas:candidate-vibid:2752000881494": 60,
+      "gas:candidate-vibid:2752000883049": 83,
+      "gas:candidate-vibid:2752000881125": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824661&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824661&type=464",
@@ -2038,13 +2038,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 58,
-      "Кулиева Василина Васильевна": 159,
-      "Линник Игорь Юрьевич": 12,
-      "Попов Андрей Олегович": 77,
-      "Федоров Олег Анатольевич": 61,
-      "Щебеньков Александр Викторович": 26,
-      "Щукин Геннадий Леонидович": 17
+      "gas:candidate-vibid:2752000880220": 58,
+      "gas:candidate-vibid:2752000858147": 159,
+      "gas:candidate-vibid:2752000883546": 12,
+      "gas:candidate-vibid:2752000880150": 77,
+      "gas:candidate-vibid:2752000881494": 61,
+      "gas:candidate-vibid:2752000883049": 26,
+      "gas:candidate-vibid:2752000881125": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824661&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824661&type=464",
@@ -2095,13 +2095,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 68,
-      "Кулиева Василина Васильевна": 108,
-      "Линник Игорь Юрьевич": 6,
-      "Попов Андрей Олегович": 50,
-      "Федоров Олег Анатольевич": 47,
-      "Щебеньков Александр Викторович": 12,
-      "Щукин Геннадий Леонидович": 10
+      "gas:candidate-vibid:2752000880220": 68,
+      "gas:candidate-vibid:2752000858147": 108,
+      "gas:candidate-vibid:2752000883546": 6,
+      "gas:candidate-vibid:2752000880150": 50,
+      "gas:candidate-vibid:2752000881494": 47,
+      "gas:candidate-vibid:2752000883049": 12,
+      "gas:candidate-vibid:2752000881125": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824661&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824661&type=464",
@@ -2152,13 +2152,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 37,
-      "Кулиева Василина Васильевна": 92,
-      "Линник Игорь Юрьевич": 4,
-      "Попов Андрей Олегович": 27,
-      "Федоров Олег Анатольевич": 13,
-      "Щебеньков Александр Викторович": 11,
-      "Щукин Геннадий Леонидович": 15
+      "gas:candidate-vibid:2752000880220": 37,
+      "gas:candidate-vibid:2752000858147": 92,
+      "gas:candidate-vibid:2752000883546": 4,
+      "gas:candidate-vibid:2752000880150": 27,
+      "gas:candidate-vibid:2752000881494": 13,
+      "gas:candidate-vibid:2752000883049": 11,
+      "gas:candidate-vibid:2752000881125": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824661&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824661&type=464",
@@ -2209,13 +2209,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 19,
-      "Кулиева Василина Васильевна": 137,
-      "Линник Игорь Юрьевич": 0,
-      "Попов Андрей Олегович": 28,
-      "Федоров Олег Анатольевич": 29,
-      "Щебеньков Александр Викторович": 10,
-      "Щукин Геннадий Леонидович": 9
+      "gas:candidate-vibid:2752000880220": 19,
+      "gas:candidate-vibid:2752000858147": 137,
+      "gas:candidate-vibid:2752000883546": 0,
+      "gas:candidate-vibid:2752000880150": 28,
+      "gas:candidate-vibid:2752000881494": 29,
+      "gas:candidate-vibid:2752000883049": 10,
+      "gas:candidate-vibid:2752000881125": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824661&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824661&type=464",
@@ -2266,13 +2266,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 62,
-      "Кулиева Василина Васильевна": 227,
-      "Линник Игорь Юрьевич": 7,
-      "Попов Андрей Олегович": 38,
-      "Федоров Олег Анатольевич": 20,
-      "Щебеньков Александр Викторович": 14,
-      "Щукин Геннадий Леонидович": 18
+      "gas:candidate-vibid:2752000880220": 62,
+      "gas:candidate-vibid:2752000858147": 227,
+      "gas:candidate-vibid:2752000883546": 7,
+      "gas:candidate-vibid:2752000880150": 38,
+      "gas:candidate-vibid:2752000881494": 20,
+      "gas:candidate-vibid:2752000883049": 14,
+      "gas:candidate-vibid:2752000881125": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824661&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824661&type=464",
@@ -2323,13 +2323,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 29,
-      "Кулиева Василина Васильевна": 117,
-      "Линник Игорь Юрьевич": 3,
-      "Попов Андрей Олегович": 15,
-      "Федоров Олег Анатольевич": 22,
-      "Щебеньков Александр Викторович": 8,
-      "Щукин Геннадий Леонидович": 6
+      "gas:candidate-vibid:2752000880220": 29,
+      "gas:candidate-vibid:2752000858147": 117,
+      "gas:candidate-vibid:2752000883546": 3,
+      "gas:candidate-vibid:2752000880150": 15,
+      "gas:candidate-vibid:2752000881494": 22,
+      "gas:candidate-vibid:2752000883049": 8,
+      "gas:candidate-vibid:2752000881125": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824661&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824661&type=464",
@@ -2380,13 +2380,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 26,
-      "Кулиева Василина Васильевна": 46,
-      "Линник Игорь Юрьевич": 2,
-      "Попов Андрей Олегович": 19,
-      "Федоров Олег Анатольевич": 16,
-      "Щебеньков Александр Викторович": 8,
-      "Щукин Геннадий Леонидович": 4
+      "gas:candidate-vibid:2752000880220": 26,
+      "gas:candidate-vibid:2752000858147": 46,
+      "gas:candidate-vibid:2752000883546": 2,
+      "gas:candidate-vibid:2752000880150": 19,
+      "gas:candidate-vibid:2752000881494": 16,
+      "gas:candidate-vibid:2752000883049": 8,
+      "gas:candidate-vibid:2752000881125": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824661&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824661&type=464",
@@ -2437,13 +2437,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 2,
-      "Кулиева Василина Васильевна": 6,
-      "Линник Игорь Юрьевич": 1,
-      "Попов Андрей Олегович": 3,
-      "Федоров Олег Анатольевич": 10,
-      "Щебеньков Александр Викторович": 0,
-      "Щукин Геннадий Леонидович": 0
+      "gas:candidate-vibid:2752000880220": 2,
+      "gas:candidate-vibid:2752000858147": 6,
+      "gas:candidate-vibid:2752000883546": 1,
+      "gas:candidate-vibid:2752000880150": 3,
+      "gas:candidate-vibid:2752000881494": 10,
+      "gas:candidate-vibid:2752000883049": 0,
+      "gas:candidate-vibid:2752000881125": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824661&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824661&type=464",
@@ -2494,13 +2494,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 2,
-      "Кулиева Василина Васильевна": 20,
-      "Линник Игорь Юрьевич": 1,
-      "Попов Андрей Олегович": 10,
-      "Федоров Олег Анатольевич": 36,
-      "Щебеньков Александр Викторович": 0,
-      "Щукин Геннадий Леонидович": 1
+      "gas:candidate-vibid:2752000880220": 2,
+      "gas:candidate-vibid:2752000858147": 20,
+      "gas:candidate-vibid:2752000883546": 1,
+      "gas:candidate-vibid:2752000880150": 10,
+      "gas:candidate-vibid:2752000881494": 36,
+      "gas:candidate-vibid:2752000883049": 0,
+      "gas:candidate-vibid:2752000881125": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824661&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824661&type=464",
@@ -2551,13 +2551,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 19,
-      "Кулиева Василина Васильевна": 52,
-      "Линник Игорь Юрьевич": 3,
-      "Попов Андрей Олегович": 24,
-      "Федоров Олег Анатольевич": 18,
-      "Щебеньков Александр Викторович": 4,
-      "Щукин Геннадий Леонидович": 3
+      "gas:candidate-vibid:2752000880220": 19,
+      "gas:candidate-vibid:2752000858147": 52,
+      "gas:candidate-vibid:2752000883546": 3,
+      "gas:candidate-vibid:2752000880150": 24,
+      "gas:candidate-vibid:2752000881494": 18,
+      "gas:candidate-vibid:2752000883049": 4,
+      "gas:candidate-vibid:2752000881125": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824661&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824661&type=464",
@@ -2608,13 +2608,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 15,
-      "Кулиева Василина Васильевна": 27,
-      "Линник Игорь Юрьевич": 3,
-      "Попов Андрей Олегович": 22,
-      "Федоров Олег Анатольевич": 27,
-      "Щебеньков Александр Викторович": 1,
-      "Щукин Геннадий Леонидович": 5
+      "gas:candidate-vibid:2752000880220": 15,
+      "gas:candidate-vibid:2752000858147": 27,
+      "gas:candidate-vibid:2752000883546": 3,
+      "gas:candidate-vibid:2752000880150": 22,
+      "gas:candidate-vibid:2752000881494": 27,
+      "gas:candidate-vibid:2752000883049": 1,
+      "gas:candidate-vibid:2752000881125": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824661&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824661&type=464",
@@ -2665,13 +2665,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 30,
-      "Кулиева Василина Васильевна": 73,
-      "Линник Игорь Юрьевич": 5,
-      "Попов Андрей Олегович": 46,
-      "Федоров Олег Анатольевич": 29,
-      "Щебеньков Александр Викторович": 8,
-      "Щукин Геннадий Леонидович": 9
+      "gas:candidate-vibid:2752000880220": 30,
+      "gas:candidate-vibid:2752000858147": 73,
+      "gas:candidate-vibid:2752000883546": 5,
+      "gas:candidate-vibid:2752000880150": 46,
+      "gas:candidate-vibid:2752000881494": 29,
+      "gas:candidate-vibid:2752000883049": 8,
+      "gas:candidate-vibid:2752000881125": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824661&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824661&type=464",
@@ -2722,13 +2722,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 95,
-      "Кулиева Василина Васильевна": 139,
-      "Линник Игорь Юрьевич": 5,
-      "Попов Андрей Олегович": 70,
-      "Федоров Олег Анатольевич": 12,
-      "Щебеньков Александр Викторович": 15,
-      "Щукин Геннадий Леонидович": 5
+      "gas:candidate-vibid:2752000880220": 95,
+      "gas:candidate-vibid:2752000858147": 139,
+      "gas:candidate-vibid:2752000883546": 5,
+      "gas:candidate-vibid:2752000880150": 70,
+      "gas:candidate-vibid:2752000881494": 12,
+      "gas:candidate-vibid:2752000883049": 15,
+      "gas:candidate-vibid:2752000881125": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824662&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824662&type=464",
@@ -2779,13 +2779,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 146,
-      "Кулиева Василина Васильевна": 301,
-      "Линник Игорь Юрьевич": 6,
-      "Попов Андрей Олегович": 153,
-      "Федоров Олег Анатольевич": 19,
-      "Щебеньков Александр Викторович": 26,
-      "Щукин Геннадий Леонидович": 8
+      "gas:candidate-vibid:2752000880220": 146,
+      "gas:candidate-vibid:2752000858147": 301,
+      "gas:candidate-vibid:2752000883546": 6,
+      "gas:candidate-vibid:2752000880150": 153,
+      "gas:candidate-vibid:2752000881494": 19,
+      "gas:candidate-vibid:2752000883049": 26,
+      "gas:candidate-vibid:2752000881125": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824662&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824662&type=464",
@@ -2836,13 +2836,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 221,
-      "Кулиева Василина Васильевна": 378,
-      "Линник Игорь Юрьевич": 11,
-      "Попов Андрей Олегович": 133,
-      "Федоров Олег Анатольевич": 29,
-      "Щебеньков Александр Викторович": 56,
-      "Щукин Геннадий Леонидович": 19
+      "gas:candidate-vibid:2752000880220": 221,
+      "gas:candidate-vibid:2752000858147": 378,
+      "gas:candidate-vibid:2752000883546": 11,
+      "gas:candidate-vibid:2752000880150": 133,
+      "gas:candidate-vibid:2752000881494": 29,
+      "gas:candidate-vibid:2752000883049": 56,
+      "gas:candidate-vibid:2752000881125": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824662&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824662&type=464",
@@ -2893,13 +2893,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 17,
-      "Кулиева Василина Васильевна": 439,
-      "Линник Игорь Юрьевич": 5,
-      "Попов Андрей Олегович": 24,
-      "Федоров Олег Анатольевич": 4,
-      "Щебеньков Александр Викторович": 7,
-      "Щукин Геннадий Леонидович": 3
+      "gas:candidate-vibid:2752000880220": 17,
+      "gas:candidate-vibid:2752000858147": 439,
+      "gas:candidate-vibid:2752000883546": 5,
+      "gas:candidate-vibid:2752000880150": 24,
+      "gas:candidate-vibid:2752000881494": 4,
+      "gas:candidate-vibid:2752000883049": 7,
+      "gas:candidate-vibid:2752000881125": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824662&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824662&type=464",
@@ -2950,13 +2950,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 26,
-      "Кулиева Василина Васильевна": 91,
-      "Линник Игорь Юрьевич": 1,
-      "Попов Андрей Олегович": 16,
-      "Федоров Олег Анатольевич": 2,
-      "Щебеньков Александр Викторович": 7,
-      "Щукин Геннадий Леонидович": 5
+      "gas:candidate-vibid:2752000880220": 26,
+      "gas:candidate-vibid:2752000858147": 91,
+      "gas:candidate-vibid:2752000883546": 1,
+      "gas:candidate-vibid:2752000880150": 16,
+      "gas:candidate-vibid:2752000881494": 2,
+      "gas:candidate-vibid:2752000883049": 7,
+      "gas:candidate-vibid:2752000881125": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824662&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824662&type=464",
@@ -3007,13 +3007,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 62,
-      "Кулиева Василина Васильевна": 138,
-      "Линник Игорь Юрьевич": 4,
-      "Попов Андрей Олегович": 25,
-      "Федоров Олег Анатольевич": 14,
-      "Щебеньков Александр Викторович": 15,
-      "Щукин Геннадий Леонидович": 2
+      "gas:candidate-vibid:2752000880220": 62,
+      "gas:candidate-vibid:2752000858147": 138,
+      "gas:candidate-vibid:2752000883546": 4,
+      "gas:candidate-vibid:2752000880150": 25,
+      "gas:candidate-vibid:2752000881494": 14,
+      "gas:candidate-vibid:2752000883049": 15,
+      "gas:candidate-vibid:2752000881125": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824662&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824662&type=464",
@@ -3064,13 +3064,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 18,
-      "Кулиева Василина Васильевна": 52,
-      "Линник Игорь Юрьевич": 0,
-      "Попов Андрей Олегович": 5,
-      "Федоров Олег Анатольевич": 0,
-      "Щебеньков Александр Викторович": 8,
-      "Щукин Геннадий Леонидович": 2
+      "gas:candidate-vibid:2752000880220": 18,
+      "gas:candidate-vibid:2752000858147": 52,
+      "gas:candidate-vibid:2752000883546": 0,
+      "gas:candidate-vibid:2752000880150": 5,
+      "gas:candidate-vibid:2752000881494": 0,
+      "gas:candidate-vibid:2752000883049": 8,
+      "gas:candidate-vibid:2752000881125": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824662&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824662&type=464",
@@ -3121,13 +3121,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 16,
-      "Кулиева Василина Васильевна": 71,
-      "Линник Игорь Юрьевич": 2,
-      "Попов Андрей Олегович": 13,
-      "Федоров Олег Анатольевич": 4,
-      "Щебеньков Александр Викторович": 9,
-      "Щукин Геннадий Леонидович": 0
+      "gas:candidate-vibid:2752000880220": 16,
+      "gas:candidate-vibid:2752000858147": 71,
+      "gas:candidate-vibid:2752000883546": 2,
+      "gas:candidate-vibid:2752000880150": 13,
+      "gas:candidate-vibid:2752000881494": 4,
+      "gas:candidate-vibid:2752000883049": 9,
+      "gas:candidate-vibid:2752000881125": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824662&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824662&type=464",
@@ -3178,13 +3178,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 21,
-      "Кулиева Василина Васильевна": 305,
-      "Линник Игорь Юрьевич": 4,
-      "Попов Андрей Олегович": 34,
-      "Федоров Олег Анатольевич": 9,
-      "Щебеньков Александр Викторович": 5,
-      "Щукин Геннадий Леонидович": 2
+      "gas:candidate-vibid:2752000880220": 21,
+      "gas:candidate-vibid:2752000858147": 305,
+      "gas:candidate-vibid:2752000883546": 4,
+      "gas:candidate-vibid:2752000880150": 34,
+      "gas:candidate-vibid:2752000881494": 9,
+      "gas:candidate-vibid:2752000883049": 5,
+      "gas:candidate-vibid:2752000881125": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824662&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824662&type=464",
@@ -3235,13 +3235,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 43,
-      "Кулиева Василина Васильевна": 633,
-      "Линник Игорь Юрьевич": 3,
-      "Попов Андрей Олегович": 36,
-      "Федоров Олег Анатольевич": 23,
-      "Щебеньков Александр Викторович": 9,
-      "Щукин Геннадий Леонидович": 5
+      "gas:candidate-vibid:2752000880220": 43,
+      "gas:candidate-vibid:2752000858147": 633,
+      "gas:candidate-vibid:2752000883546": 3,
+      "gas:candidate-vibid:2752000880150": 36,
+      "gas:candidate-vibid:2752000881494": 23,
+      "gas:candidate-vibid:2752000883049": 9,
+      "gas:candidate-vibid:2752000881125": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824662&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824662&type=464",
@@ -3292,13 +3292,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 39,
-      "Кулиева Василина Васильевна": 442,
-      "Линник Игорь Юрьевич": 6,
-      "Попов Андрей Олегович": 34,
-      "Федоров Олег Анатольевич": 5,
-      "Щебеньков Александр Викторович": 5,
-      "Щукин Геннадий Леонидович": 15
+      "gas:candidate-vibid:2752000880220": 39,
+      "gas:candidate-vibid:2752000858147": 442,
+      "gas:candidate-vibid:2752000883546": 6,
+      "gas:candidate-vibid:2752000880150": 34,
+      "gas:candidate-vibid:2752000881494": 5,
+      "gas:candidate-vibid:2752000883049": 5,
+      "gas:candidate-vibid:2752000881125": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824662&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824662&type=464",
@@ -3349,13 +3349,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 70,
-      "Кулиева Василина Васильевна": 324,
-      "Линник Игорь Юрьевич": 4,
-      "Попов Андрей Олегович": 35,
-      "Федоров Олег Анатольевич": 7,
-      "Щебеньков Александр Викторович": 16,
-      "Щукин Геннадий Леонидович": 4
+      "gas:candidate-vibid:2752000880220": 70,
+      "gas:candidate-vibid:2752000858147": 324,
+      "gas:candidate-vibid:2752000883546": 4,
+      "gas:candidate-vibid:2752000880150": 35,
+      "gas:candidate-vibid:2752000881494": 7,
+      "gas:candidate-vibid:2752000883049": 16,
+      "gas:candidate-vibid:2752000881125": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824662&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824662&type=464",
@@ -3406,13 +3406,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 46,
-      "Кулиева Василина Васильевна": 467,
-      "Линник Игорь Юрьевич": 14,
-      "Попов Андрей Олегович": 92,
-      "Федоров Олег Анатольевич": 11,
-      "Щебеньков Александр Викторович": 16,
-      "Щукин Геннадий Леонидович": 9
+      "gas:candidate-vibid:2752000880220": 46,
+      "gas:candidate-vibid:2752000858147": 467,
+      "gas:candidate-vibid:2752000883546": 14,
+      "gas:candidate-vibid:2752000880150": 92,
+      "gas:candidate-vibid:2752000881494": 11,
+      "gas:candidate-vibid:2752000883049": 16,
+      "gas:candidate-vibid:2752000881125": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824662&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824662&type=464",
@@ -3463,13 +3463,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 23,
-      "Кулиева Василина Васильевна": 62,
-      "Линник Игорь Юрьевич": 8,
-      "Попов Андрей Олегович": 20,
-      "Федоров Олег Анатольевич": 44,
-      "Щебеньков Александр Викторович": 4,
-      "Щукин Геннадий Леонидович": 1
+      "gas:candidate-vibid:2752000880220": 23,
+      "gas:candidate-vibid:2752000858147": 62,
+      "gas:candidate-vibid:2752000883546": 8,
+      "gas:candidate-vibid:2752000880150": 20,
+      "gas:candidate-vibid:2752000881494": 44,
+      "gas:candidate-vibid:2752000883049": 4,
+      "gas:candidate-vibid:2752000881125": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824663&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824663&type=464",
@@ -3520,13 +3520,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 9,
-      "Кулиева Василина Васильевна": 49,
-      "Линник Игорь Юрьевич": 4,
-      "Попов Андрей Олегович": 4,
-      "Федоров Олег Анатольевич": 47,
-      "Щебеньков Александр Викторович": 4,
-      "Щукин Геннадий Леонидович": 1
+      "gas:candidate-vibid:2752000880220": 9,
+      "gas:candidate-vibid:2752000858147": 49,
+      "gas:candidate-vibid:2752000883546": 4,
+      "gas:candidate-vibid:2752000880150": 4,
+      "gas:candidate-vibid:2752000881494": 47,
+      "gas:candidate-vibid:2752000883049": 4,
+      "gas:candidate-vibid:2752000881125": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824663&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824663&type=464",
@@ -3577,13 +3577,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 27,
-      "Кулиева Василина Васильевна": 42,
-      "Линник Игорь Юрьевич": 3,
-      "Попов Андрей Олегович": 5,
-      "Федоров Олег Анатольевич": 9,
-      "Щебеньков Александр Викторович": 1,
-      "Щукин Геннадий Леонидович": 5
+      "gas:candidate-vibid:2752000880220": 27,
+      "gas:candidate-vibid:2752000858147": 42,
+      "gas:candidate-vibid:2752000883546": 3,
+      "gas:candidate-vibid:2752000880150": 5,
+      "gas:candidate-vibid:2752000881494": 9,
+      "gas:candidate-vibid:2752000883049": 1,
+      "gas:candidate-vibid:2752000881125": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824663&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824663&type=464",
@@ -3634,13 +3634,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 76,
-      "Кулиева Василина Васильевна": 96,
-      "Линник Игорь Юрьевич": 9,
-      "Попов Андрей Олегович": 23,
-      "Федоров Олег Анатольевич": 9,
-      "Щебеньков Александр Викторович": 3,
-      "Щукин Геннадий Леонидович": 9
+      "gas:candidate-vibid:2752000880220": 76,
+      "gas:candidate-vibid:2752000858147": 96,
+      "gas:candidate-vibid:2752000883546": 9,
+      "gas:candidate-vibid:2752000880150": 23,
+      "gas:candidate-vibid:2752000881494": 9,
+      "gas:candidate-vibid:2752000883049": 3,
+      "gas:candidate-vibid:2752000881125": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824663&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824663&type=464",
@@ -3691,13 +3691,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 22,
-      "Кулиева Василина Васильевна": 75,
-      "Линник Игорь Юрьевич": 1,
-      "Попов Андрей Олегович": 15,
-      "Федоров Олег Анатольевич": 23,
-      "Щебеньков Александр Викторович": 1,
-      "Щукин Геннадий Леонидович": 6
+      "gas:candidate-vibid:2752000880220": 22,
+      "gas:candidate-vibid:2752000858147": 75,
+      "gas:candidate-vibid:2752000883546": 1,
+      "gas:candidate-vibid:2752000880150": 15,
+      "gas:candidate-vibid:2752000881494": 23,
+      "gas:candidate-vibid:2752000883049": 1,
+      "gas:candidate-vibid:2752000881125": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824663&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824663&type=464",
@@ -3748,13 +3748,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 26,
-      "Кулиева Василина Васильевна": 87,
-      "Линник Игорь Юрьевич": 1,
-      "Попов Андрей Олегович": 33,
-      "Федоров Олег Анатольевич": 13,
-      "Щебеньков Александр Викторович": 1,
-      "Щукин Геннадий Леонидович": 1
+      "gas:candidate-vibid:2752000880220": 26,
+      "gas:candidate-vibid:2752000858147": 87,
+      "gas:candidate-vibid:2752000883546": 1,
+      "gas:candidate-vibid:2752000880150": 33,
+      "gas:candidate-vibid:2752000881494": 13,
+      "gas:candidate-vibid:2752000883049": 1,
+      "gas:candidate-vibid:2752000881125": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824663&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824663&type=464",
@@ -3805,13 +3805,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 44,
-      "Кулиева Василина Васильевна": 150,
-      "Линник Игорь Юрьевич": 4,
-      "Попов Андрей Олегович": 17,
-      "Федоров Олег Анатольевич": 36,
-      "Щебеньков Александр Викторович": 5,
-      "Щукин Геннадий Леонидович": 8
+      "gas:candidate-vibid:2752000880220": 44,
+      "gas:candidate-vibid:2752000858147": 150,
+      "gas:candidate-vibid:2752000883546": 4,
+      "gas:candidate-vibid:2752000880150": 17,
+      "gas:candidate-vibid:2752000881494": 36,
+      "gas:candidate-vibid:2752000883049": 5,
+      "gas:candidate-vibid:2752000881125": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824663&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824663&type=464",
@@ -3862,13 +3862,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 42,
-      "Кулиева Василина Васильевна": 67,
-      "Линник Игорь Юрьевич": 4,
-      "Попов Андрей Олегович": 30,
-      "Федоров Олег Анатольевич": 8,
-      "Щебеньков Александр Викторович": 4,
-      "Щукин Геннадий Леонидович": 11
+      "gas:candidate-vibid:2752000880220": 42,
+      "gas:candidate-vibid:2752000858147": 67,
+      "gas:candidate-vibid:2752000883546": 4,
+      "gas:candidate-vibid:2752000880150": 30,
+      "gas:candidate-vibid:2752000881494": 8,
+      "gas:candidate-vibid:2752000883049": 4,
+      "gas:candidate-vibid:2752000881125": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824663&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824663&type=464",
@@ -3919,13 +3919,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 38,
-      "Кулиева Василина Васильевна": 119,
-      "Линник Игорь Юрьевич": 8,
-      "Попов Андрей Олегович": 34,
-      "Федоров Олег Анатольевич": 11,
-      "Щебеньков Александр Викторович": 10,
-      "Щукин Геннадий Леонидович": 17
+      "gas:candidate-vibid:2752000880220": 38,
+      "gas:candidate-vibid:2752000858147": 119,
+      "gas:candidate-vibid:2752000883546": 8,
+      "gas:candidate-vibid:2752000880150": 34,
+      "gas:candidate-vibid:2752000881494": 11,
+      "gas:candidate-vibid:2752000883049": 10,
+      "gas:candidate-vibid:2752000881125": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824663&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824663&type=464",
@@ -3976,13 +3976,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 30,
-      "Кулиева Василина Васильевна": 55,
-      "Линник Игорь Юрьевич": 9,
-      "Попов Андрей Олегович": 19,
-      "Федоров Олег Анатольевич": 28,
-      "Щебеньков Александр Викторович": 2,
-      "Щукин Геннадий Леонидович": 3
+      "gas:candidate-vibid:2752000880220": 30,
+      "gas:candidate-vibid:2752000858147": 55,
+      "gas:candidate-vibid:2752000883546": 9,
+      "gas:candidate-vibid:2752000880150": 19,
+      "gas:candidate-vibid:2752000881494": 28,
+      "gas:candidate-vibid:2752000883049": 2,
+      "gas:candidate-vibid:2752000881125": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824663&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824663&type=464",
@@ -4033,13 +4033,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 30,
-      "Кулиева Василина Васильевна": 108,
-      "Линник Игорь Юрьевич": 6,
-      "Попов Андрей Олегович": 14,
-      "Федоров Олег Анатольевич": 17,
-      "Щебеньков Александр Викторович": 5,
-      "Щукин Геннадий Леонидович": 1
+      "gas:candidate-vibid:2752000880220": 30,
+      "gas:candidate-vibid:2752000858147": 108,
+      "gas:candidate-vibid:2752000883546": 6,
+      "gas:candidate-vibid:2752000880150": 14,
+      "gas:candidate-vibid:2752000881494": 17,
+      "gas:candidate-vibid:2752000883049": 5,
+      "gas:candidate-vibid:2752000881125": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824663&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824663&type=464",
@@ -4090,13 +4090,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 56,
-      "Кулиева Василина Васильевна": 111,
-      "Линник Игорь Юрьевич": 5,
-      "Попов Андрей Олегович": 15,
-      "Федоров Олег Анатольевич": 18,
-      "Щебеньков Александр Викторович": 7,
-      "Щукин Геннадий Леонидович": 5
+      "gas:candidate-vibid:2752000880220": 56,
+      "gas:candidate-vibid:2752000858147": 111,
+      "gas:candidate-vibid:2752000883546": 5,
+      "gas:candidate-vibid:2752000880150": 15,
+      "gas:candidate-vibid:2752000881494": 18,
+      "gas:candidate-vibid:2752000883049": 7,
+      "gas:candidate-vibid:2752000881125": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824663&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824663&type=464",
@@ -4147,13 +4147,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 59,
-      "Кулиева Василина Васильевна": 120,
-      "Линник Игорь Юрьевич": 7,
-      "Попов Андрей Олегович": 24,
-      "Федоров Олег Анатольевич": 41,
-      "Щебеньков Александр Викторович": 5,
-      "Щукин Геннадий Леонидович": 3
+      "gas:candidate-vibid:2752000880220": 59,
+      "gas:candidate-vibid:2752000858147": 120,
+      "gas:candidate-vibid:2752000883546": 7,
+      "gas:candidate-vibid:2752000880150": 24,
+      "gas:candidate-vibid:2752000881494": 41,
+      "gas:candidate-vibid:2752000883049": 5,
+      "gas:candidate-vibid:2752000881125": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824663&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824663&type=464",
@@ -4204,13 +4204,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 25,
-      "Кулиева Василина Васильевна": 36,
-      "Линник Игорь Юрьевич": 1,
-      "Попов Андрей Олегович": 7,
-      "Федоров Олег Анатольевич": 16,
-      "Щебеньков Александр Викторович": 3,
-      "Щукин Геннадий Леонидович": 1
+      "gas:candidate-vibid:2752000880220": 25,
+      "gas:candidate-vibid:2752000858147": 36,
+      "gas:candidate-vibid:2752000883546": 1,
+      "gas:candidate-vibid:2752000880150": 7,
+      "gas:candidate-vibid:2752000881494": 16,
+      "gas:candidate-vibid:2752000883049": 3,
+      "gas:candidate-vibid:2752000881125": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824663&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824663&type=464",
@@ -4261,13 +4261,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 38,
-      "Кулиева Василина Васильевна": 135,
-      "Линник Игорь Юрьевич": 0,
-      "Попов Андрей Олегович": 22,
-      "Федоров Олег Анатольевич": 33,
-      "Щебеньков Александр Викторович": 2,
-      "Щукин Геннадий Леонидович": 3
+      "gas:candidate-vibid:2752000880220": 38,
+      "gas:candidate-vibid:2752000858147": 135,
+      "gas:candidate-vibid:2752000883546": 0,
+      "gas:candidate-vibid:2752000880150": 22,
+      "gas:candidate-vibid:2752000881494": 33,
+      "gas:candidate-vibid:2752000883049": 2,
+      "gas:candidate-vibid:2752000881125": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824663&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824663&type=464",
@@ -4318,13 +4318,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 64,
-      "Кулиева Василина Васильевна": 144,
-      "Линник Игорь Юрьевич": 3,
-      "Попов Андрей Олегович": 36,
-      "Федоров Олег Анатольевич": 20,
-      "Щебеньков Александр Викторович": 14,
-      "Щукин Геннадий Леонидович": 12
+      "gas:candidate-vibid:2752000880220": 64,
+      "gas:candidate-vibid:2752000858147": 144,
+      "gas:candidate-vibid:2752000883546": 3,
+      "gas:candidate-vibid:2752000880150": 36,
+      "gas:candidate-vibid:2752000881494": 20,
+      "gas:candidate-vibid:2752000883049": 14,
+      "gas:candidate-vibid:2752000881125": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824663&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824663&type=464",
@@ -4375,13 +4375,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 152,
-      "Кулиева Василина Васильевна": 263,
-      "Линник Игорь Юрьевич": 18,
-      "Попов Андрей Олегович": 88,
-      "Федоров Олег Анатольевич": 43,
-      "Щебеньков Александр Викторович": 19,
-      "Щукин Геннадий Леонидович": 20
+      "gas:candidate-vibid:2752000880220": 152,
+      "gas:candidate-vibid:2752000858147": 263,
+      "gas:candidate-vibid:2752000883546": 18,
+      "gas:candidate-vibid:2752000880150": 88,
+      "gas:candidate-vibid:2752000881494": 43,
+      "gas:candidate-vibid:2752000883049": 19,
+      "gas:candidate-vibid:2752000881125": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824663&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824663&type=464",
@@ -4432,13 +4432,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 126,
-      "Кулиева Василина Васильевна": 380,
-      "Линник Игорь Юрьевич": 15,
-      "Попов Андрей Олегович": 97,
-      "Федоров Олег Анатольевич": 38,
-      "Щебеньков Александр Викторович": 24,
-      "Щукин Геннадий Леонидович": 25
+      "gas:candidate-vibid:2752000880220": 126,
+      "gas:candidate-vibid:2752000858147": 380,
+      "gas:candidate-vibid:2752000883546": 15,
+      "gas:candidate-vibid:2752000880150": 97,
+      "gas:candidate-vibid:2752000881494": 38,
+      "gas:candidate-vibid:2752000883049": 24,
+      "gas:candidate-vibid:2752000881125": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824663&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824663&type=464",
@@ -4489,13 +4489,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 154,
-      "Кулиева Василина Васильевна": 321,
-      "Линник Игорь Юрьевич": 18,
-      "Попов Андрей Олегович": 111,
-      "Федоров Олег Анатольевич": 27,
-      "Щебеньков Александр Викторович": 29,
-      "Щукин Геннадий Леонидович": 25
+      "gas:candidate-vibid:2752000880220": 154,
+      "gas:candidate-vibid:2752000858147": 321,
+      "gas:candidate-vibid:2752000883546": 18,
+      "gas:candidate-vibid:2752000880150": 111,
+      "gas:candidate-vibid:2752000881494": 27,
+      "gas:candidate-vibid:2752000883049": 29,
+      "gas:candidate-vibid:2752000881125": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824663&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824663&type=464",
@@ -4546,13 +4546,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 68,
-      "Кулиева Василина Васильевна": 96,
-      "Линник Игорь Юрьевич": 7,
-      "Попов Андрей Олегович": 41,
-      "Федоров Олег Анатольевич": 9,
-      "Щебеньков Александр Викторович": 12,
-      "Щукин Геннадий Леонидович": 16
+      "gas:candidate-vibid:2752000880220": 68,
+      "gas:candidate-vibid:2752000858147": 96,
+      "gas:candidate-vibid:2752000883546": 7,
+      "gas:candidate-vibid:2752000880150": 41,
+      "gas:candidate-vibid:2752000881494": 9,
+      "gas:candidate-vibid:2752000883049": 12,
+      "gas:candidate-vibid:2752000881125": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824663&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824663&type=464",
@@ -4603,13 +4603,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 233,
-      "Кулиева Василина Васильевна": 276,
-      "Линник Игорь Юрьевич": 13,
-      "Попов Андрей Олегович": 137,
-      "Федоров Олег Анатольевич": 21,
-      "Щебеньков Александр Викторович": 18,
-      "Щукин Геннадий Леонидович": 18
+      "gas:candidate-vibid:2752000880220": 233,
+      "gas:candidate-vibid:2752000858147": 276,
+      "gas:candidate-vibid:2752000883546": 13,
+      "gas:candidate-vibid:2752000880150": 137,
+      "gas:candidate-vibid:2752000881494": 21,
+      "gas:candidate-vibid:2752000883049": 18,
+      "gas:candidate-vibid:2752000881125": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824663&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824663&type=464",
@@ -4660,13 +4660,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 20,
-      "Кулиева Василина Васильевна": 40,
-      "Линник Игорь Юрьевич": 3,
-      "Попов Андрей Олегович": 14,
-      "Федоров Олег Анатольевич": 2,
-      "Щебеньков Александр Викторович": 2,
-      "Щукин Геннадий Леонидович": 1
+      "gas:candidate-vibid:2752000880220": 20,
+      "gas:candidate-vibid:2752000858147": 40,
+      "gas:candidate-vibid:2752000883546": 3,
+      "gas:candidate-vibid:2752000880150": 14,
+      "gas:candidate-vibid:2752000881494": 2,
+      "gas:candidate-vibid:2752000883049": 2,
+      "gas:candidate-vibid:2752000881125": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824663&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824663&type=464",
@@ -4717,13 +4717,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 207,
-      "Кулиева Василина Васильевна": 343,
-      "Линник Игорь Юрьевич": 8,
-      "Попов Андрей Олегович": 72,
-      "Федоров Олег Анатольевич": 56,
-      "Щебеньков Александр Викторович": 12,
-      "Щукин Геннадий Леонидович": 17
+      "gas:candidate-vibid:2752000880220": 207,
+      "gas:candidate-vibid:2752000858147": 343,
+      "gas:candidate-vibid:2752000883546": 8,
+      "gas:candidate-vibid:2752000880150": 72,
+      "gas:candidate-vibid:2752000881494": 56,
+      "gas:candidate-vibid:2752000883049": 12,
+      "gas:candidate-vibid:2752000881125": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824663&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824663&type=464",
@@ -4774,13 +4774,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 51,
-      "Кулиева Василина Васильевна": 98,
-      "Линник Игорь Юрьевич": 4,
-      "Попов Андрей Олегович": 10,
-      "Федоров Олег Анатольевич": 16,
-      "Щебеньков Александр Викторович": 3,
-      "Щукин Геннадий Леонидович": 7
+      "gas:candidate-vibid:2752000880220": 51,
+      "gas:candidate-vibid:2752000858147": 98,
+      "gas:candidate-vibid:2752000883546": 4,
+      "gas:candidate-vibid:2752000880150": 10,
+      "gas:candidate-vibid:2752000881494": 16,
+      "gas:candidate-vibid:2752000883049": 3,
+      "gas:candidate-vibid:2752000881125": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824663&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824663&type=464",
@@ -4831,13 +4831,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 97,
-      "Кулиева Василина Васильевна": 225,
-      "Линник Игорь Юрьевич": 9,
-      "Попов Андрей Олегович": 57,
-      "Федоров Олег Анатольевич": 48,
-      "Щебеньков Александр Викторович": 18,
-      "Щукин Геннадий Леонидович": 24
+      "gas:candidate-vibid:2752000880220": 97,
+      "gas:candidate-vibid:2752000858147": 225,
+      "gas:candidate-vibid:2752000883546": 9,
+      "gas:candidate-vibid:2752000880150": 57,
+      "gas:candidate-vibid:2752000881494": 48,
+      "gas:candidate-vibid:2752000883049": 18,
+      "gas:candidate-vibid:2752000881125": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824663&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824663&type=464",
@@ -4888,13 +4888,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 97,
-      "Кулиева Василина Васильевна": 175,
-      "Линник Игорь Юрьевич": 7,
-      "Попов Андрей Олегович": 49,
-      "Федоров Олег Анатольевич": 32,
-      "Щебеньков Александр Викторович": 15,
-      "Щукин Геннадий Леонидович": 14
+      "gas:candidate-vibid:2752000880220": 97,
+      "gas:candidate-vibid:2752000858147": 175,
+      "gas:candidate-vibid:2752000883546": 7,
+      "gas:candidate-vibid:2752000880150": 49,
+      "gas:candidate-vibid:2752000881494": 32,
+      "gas:candidate-vibid:2752000883049": 15,
+      "gas:candidate-vibid:2752000881125": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824663&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824663&type=464",
@@ -4945,13 +4945,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 78,
-      "Кулиева Василина Васильевна": 133,
-      "Линник Игорь Юрьевич": 9,
-      "Попов Андрей Олегович": 49,
-      "Федоров Олег Анатольевич": 20,
-      "Щебеньков Александр Викторович": 5,
-      "Щукин Геннадий Леонидович": 8
+      "gas:candidate-vibid:2752000880220": 78,
+      "gas:candidate-vibid:2752000858147": 133,
+      "gas:candidate-vibid:2752000883546": 9,
+      "gas:candidate-vibid:2752000880150": 49,
+      "gas:candidate-vibid:2752000881494": 20,
+      "gas:candidate-vibid:2752000883049": 5,
+      "gas:candidate-vibid:2752000881125": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824663&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824663&type=464",
@@ -5002,13 +5002,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 83,
-      "Кулиева Василина Васильевна": 184,
-      "Линник Игорь Юрьевич": 12,
-      "Попов Андрей Олегович": 56,
-      "Федоров Олег Анатольевич": 21,
-      "Щебеньков Александр Викторович": 8,
-      "Щукин Геннадий Леонидович": 10
+      "gas:candidate-vibid:2752000880220": 83,
+      "gas:candidate-vibid:2752000858147": 184,
+      "gas:candidate-vibid:2752000883546": 12,
+      "gas:candidate-vibid:2752000880150": 56,
+      "gas:candidate-vibid:2752000881494": 21,
+      "gas:candidate-vibid:2752000883049": 8,
+      "gas:candidate-vibid:2752000881125": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824663&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824663&type=464",
@@ -5059,13 +5059,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 84,
-      "Кулиева Василина Васильевна": 138,
-      "Линник Игорь Юрьевич": 7,
-      "Попов Андрей Олегович": 35,
-      "Федоров Олег Анатольевич": 8,
-      "Щебеньков Александр Викторович": 5,
-      "Щукин Геннадий Леонидович": 7
+      "gas:candidate-vibid:2752000880220": 84,
+      "gas:candidate-vibid:2752000858147": 138,
+      "gas:candidate-vibid:2752000883546": 7,
+      "gas:candidate-vibid:2752000880150": 35,
+      "gas:candidate-vibid:2752000881494": 8,
+      "gas:candidate-vibid:2752000883049": 5,
+      "gas:candidate-vibid:2752000881125": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824663&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824663&type=464",
@@ -5116,13 +5116,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 42,
-      "Кулиева Василина Васильевна": 132,
-      "Линник Игорь Юрьевич": 5,
-      "Попов Андрей Олегович": 15,
-      "Федоров Олег Анатольевич": 17,
-      "Щебеньков Александр Викторович": 16,
-      "Щукин Геннадий Леонидович": 6
+      "gas:candidate-vibid:2752000880220": 42,
+      "gas:candidate-vibid:2752000858147": 132,
+      "gas:candidate-vibid:2752000883546": 5,
+      "gas:candidate-vibid:2752000880150": 15,
+      "gas:candidate-vibid:2752000881494": 17,
+      "gas:candidate-vibid:2752000883049": 16,
+      "gas:candidate-vibid:2752000881125": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824663&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824663&type=464",
@@ -5173,13 +5173,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 68,
-      "Кулиева Василина Васильевна": 214,
-      "Линник Игорь Юрьевич": 5,
-      "Попов Андрей Олегович": 45,
-      "Федоров Олег Анатольевич": 41,
-      "Щебеньков Александр Викторович": 9,
-      "Щукин Геннадий Леонидович": 17
+      "gas:candidate-vibid:2752000880220": 68,
+      "gas:candidate-vibid:2752000858147": 214,
+      "gas:candidate-vibid:2752000883546": 5,
+      "gas:candidate-vibid:2752000880150": 45,
+      "gas:candidate-vibid:2752000881494": 41,
+      "gas:candidate-vibid:2752000883049": 9,
+      "gas:candidate-vibid:2752000881125": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824663&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824663&type=464",
@@ -5230,13 +5230,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 83,
-      "Кулиева Василина Васильевна": 184,
-      "Линник Игорь Юрьевич": 12,
-      "Попов Андрей Олегович": 42,
-      "Федоров Олег Анатольевич": 53,
-      "Щебеньков Александр Викторович": 18,
-      "Щукин Геннадий Леонидович": 17
+      "gas:candidate-vibid:2752000880220": 83,
+      "gas:candidate-vibid:2752000858147": 184,
+      "gas:candidate-vibid:2752000883546": 12,
+      "gas:candidate-vibid:2752000880150": 42,
+      "gas:candidate-vibid:2752000881494": 53,
+      "gas:candidate-vibid:2752000883049": 18,
+      "gas:candidate-vibid:2752000881125": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824663&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824663&type=464",
@@ -5287,13 +5287,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 42,
-      "Кулиева Василина Васильевна": 107,
-      "Линник Игорь Юрьевич": 7,
-      "Попов Андрей Олегович": 15,
-      "Федоров Олег Анатольевич": 62,
-      "Щебеньков Александр Викторович": 7,
-      "Щукин Геннадий Леонидович": 15
+      "gas:candidate-vibid:2752000880220": 42,
+      "gas:candidate-vibid:2752000858147": 107,
+      "gas:candidate-vibid:2752000883546": 7,
+      "gas:candidate-vibid:2752000880150": 15,
+      "gas:candidate-vibid:2752000881494": 62,
+      "gas:candidate-vibid:2752000883049": 7,
+      "gas:candidate-vibid:2752000881125": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824663&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824663&type=464",
@@ -5344,13 +5344,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 85,
-      "Кулиева Василина Васильевна": 193,
-      "Линник Игорь Юрьевич": 10,
-      "Попов Андрей Олегович": 39,
-      "Федоров Олег Анатольевич": 71,
-      "Щебеньков Александр Викторович": 21,
-      "Щукин Геннадий Леонидович": 12
+      "gas:candidate-vibid:2752000880220": 85,
+      "gas:candidate-vibid:2752000858147": 193,
+      "gas:candidate-vibid:2752000883546": 10,
+      "gas:candidate-vibid:2752000880150": 39,
+      "gas:candidate-vibid:2752000881494": 71,
+      "gas:candidate-vibid:2752000883049": 21,
+      "gas:candidate-vibid:2752000881125": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824663&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824663&type=464",
@@ -5401,13 +5401,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 104,
-      "Кулиева Василина Васильевна": 335,
-      "Линник Игорь Юрьевич": 7,
-      "Попов Андрей Олегович": 60,
-      "Федоров Олег Анатольевич": 73,
-      "Щебеньков Александр Викторович": 17,
-      "Щукин Геннадий Леонидович": 15
+      "gas:candidate-vibid:2752000880220": 104,
+      "gas:candidate-vibid:2752000858147": 335,
+      "gas:candidate-vibid:2752000883546": 7,
+      "gas:candidate-vibid:2752000880150": 60,
+      "gas:candidate-vibid:2752000881494": 73,
+      "gas:candidate-vibid:2752000883049": 17,
+      "gas:candidate-vibid:2752000881125": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824663&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824663&type=464",
@@ -5458,13 +5458,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 52,
-      "Кулиева Василина Васильевна": 192,
-      "Линник Игорь Юрьевич": 4,
-      "Попов Андрей Олегович": 36,
-      "Федоров Олег Анатольевич": 29,
-      "Щебеньков Александр Викторович": 7,
-      "Щукин Геннадий Леонидович": 23
+      "gas:candidate-vibid:2752000880220": 52,
+      "gas:candidate-vibid:2752000858147": 192,
+      "gas:candidate-vibid:2752000883546": 4,
+      "gas:candidate-vibid:2752000880150": 36,
+      "gas:candidate-vibid:2752000881494": 29,
+      "gas:candidate-vibid:2752000883049": 7,
+      "gas:candidate-vibid:2752000881125": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824663&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824663&type=464",
@@ -5515,13 +5515,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 220,
-      "Кулиева Василина Васильевна": 434,
-      "Линник Игорь Юрьевич": 126,
-      "Попов Андрей Олегович": 271,
-      "Федоров Олег Анатольевич": 135,
-      "Щебеньков Александр Викторович": 77,
-      "Щукин Геннадий Леонидович": 197
+      "gas:candidate-vibid:2752000880220": 220,
+      "gas:candidate-vibid:2752000858147": 434,
+      "gas:candidate-vibid:2752000883546": 126,
+      "gas:candidate-vibid:2752000880150": 271,
+      "gas:candidate-vibid:2752000881494": 135,
+      "gas:candidate-vibid:2752000883049": 77,
+      "gas:candidate-vibid:2752000881125": 197
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824663&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824663&type=464",
@@ -5572,13 +5572,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 19,
-      "Кулиева Василина Васильевна": 123,
-      "Линник Игорь Юрьевич": 2,
-      "Попов Андрей Олегович": 17,
-      "Федоров Олег Анатольевич": 16,
-      "Щебеньков Александр Викторович": 5,
-      "Щукин Геннадий Леонидович": 9
+      "gas:candidate-vibid:2752000880220": 19,
+      "gas:candidate-vibid:2752000858147": 123,
+      "gas:candidate-vibid:2752000883546": 2,
+      "gas:candidate-vibid:2752000880150": 17,
+      "gas:candidate-vibid:2752000881494": 16,
+      "gas:candidate-vibid:2752000883049": 5,
+      "gas:candidate-vibid:2752000881125": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824663&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824663&type=464",
@@ -5629,13 +5629,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 120,
-      "Кулиева Василина Васильевна": 317,
-      "Линник Игорь Юрьевич": 16,
-      "Попов Андрей Олегович": 89,
-      "Федоров Олег Анатольевич": 50,
-      "Щебеньков Александр Викторович": 29,
-      "Щукин Геннадий Леонидович": 23
+      "gas:candidate-vibid:2752000880220": 120,
+      "gas:candidate-vibid:2752000858147": 317,
+      "gas:candidate-vibid:2752000883546": 16,
+      "gas:candidate-vibid:2752000880150": 89,
+      "gas:candidate-vibid:2752000881494": 50,
+      "gas:candidate-vibid:2752000883049": 29,
+      "gas:candidate-vibid:2752000881125": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824664&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824664&type=464",
@@ -5686,13 +5686,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 119,
-      "Кулиева Василина Васильевна": 310,
-      "Линник Игорь Юрьевич": 10,
-      "Попов Андрей Олегович": 120,
-      "Федоров Олег Анатольевич": 47,
-      "Щебеньков Александр Викторович": 38,
-      "Щукин Геннадий Леонидович": 18
+      "gas:candidate-vibid:2752000880220": 119,
+      "gas:candidate-vibid:2752000858147": 310,
+      "gas:candidate-vibid:2752000883546": 10,
+      "gas:candidate-vibid:2752000880150": 120,
+      "gas:candidate-vibid:2752000881494": 47,
+      "gas:candidate-vibid:2752000883049": 38,
+      "gas:candidate-vibid:2752000881125": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824664&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824664&type=464",
@@ -5743,13 +5743,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 27,
-      "Кулиева Василина Васильевна": 87,
-      "Линник Игорь Юрьевич": 5,
-      "Попов Андрей Олегович": 27,
-      "Федоров Олег Анатольевич": 23,
-      "Щебеньков Александр Викторович": 4,
-      "Щукин Геннадий Леонидович": 4
+      "gas:candidate-vibid:2752000880220": 27,
+      "gas:candidate-vibid:2752000858147": 87,
+      "gas:candidate-vibid:2752000883546": 5,
+      "gas:candidate-vibid:2752000880150": 27,
+      "gas:candidate-vibid:2752000881494": 23,
+      "gas:candidate-vibid:2752000883049": 4,
+      "gas:candidate-vibid:2752000881125": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824664&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824664&type=464",
@@ -5800,13 +5800,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 8,
-      "Кулиева Василина Васильевна": 45,
-      "Линник Игорь Юрьевич": 0,
-      "Попов Андрей Олегович": 7,
-      "Федоров Олег Анатольевич": 6,
-      "Щебеньков Александр Викторович": 1,
-      "Щукин Геннадий Леонидович": 3
+      "gas:candidate-vibid:2752000880220": 8,
+      "gas:candidate-vibid:2752000858147": 45,
+      "gas:candidate-vibid:2752000883546": 0,
+      "gas:candidate-vibid:2752000880150": 7,
+      "gas:candidate-vibid:2752000881494": 6,
+      "gas:candidate-vibid:2752000883049": 1,
+      "gas:candidate-vibid:2752000881125": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824664&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824664&type=464",
@@ -5857,13 +5857,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 14,
-      "Кулиева Василина Васильевна": 63,
-      "Линник Игорь Юрьевич": 4,
-      "Попов Андрей Олегович": 11,
-      "Федоров Олег Анатольевич": 21,
-      "Щебеньков Александр Викторович": 3,
-      "Щукин Геннадий Леонидович": 2
+      "gas:candidate-vibid:2752000880220": 14,
+      "gas:candidate-vibid:2752000858147": 63,
+      "gas:candidate-vibid:2752000883546": 4,
+      "gas:candidate-vibid:2752000880150": 11,
+      "gas:candidate-vibid:2752000881494": 21,
+      "gas:candidate-vibid:2752000883049": 3,
+      "gas:candidate-vibid:2752000881125": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824664&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824664&type=464",
@@ -5914,13 +5914,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 43,
-      "Кулиева Василина Васильевна": 114,
-      "Линник Игорь Юрьевич": 6,
-      "Попов Андрей Олегович": 45,
-      "Федоров Олег Анатольевич": 29,
-      "Щебеньков Александр Викторович": 3,
-      "Щукин Геннадий Леонидович": 7
+      "gas:candidate-vibid:2752000880220": 43,
+      "gas:candidate-vibid:2752000858147": 114,
+      "gas:candidate-vibid:2752000883546": 6,
+      "gas:candidate-vibid:2752000880150": 45,
+      "gas:candidate-vibid:2752000881494": 29,
+      "gas:candidate-vibid:2752000883049": 3,
+      "gas:candidate-vibid:2752000881125": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824664&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824664&type=464",
@@ -5971,13 +5971,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 39,
-      "Кулиева Василина Васильевна": 160,
-      "Линник Игорь Юрьевич": 3,
-      "Попов Андрей Олегович": 17,
-      "Федоров Олег Анатольевич": 13,
-      "Щебеньков Александр Викторович": 13,
-      "Щукин Геннадий Леонидович": 2
+      "gas:candidate-vibid:2752000880220": 39,
+      "gas:candidate-vibid:2752000858147": 160,
+      "gas:candidate-vibid:2752000883546": 3,
+      "gas:candidate-vibid:2752000880150": 17,
+      "gas:candidate-vibid:2752000881494": 13,
+      "gas:candidate-vibid:2752000883049": 13,
+      "gas:candidate-vibid:2752000881125": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824664&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824664&type=464",
@@ -6028,13 +6028,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 7,
-      "Кулиева Василина Васильевна": 24,
-      "Линник Игорь Юрьевич": 1,
-      "Попов Андрей Олегович": 3,
-      "Федоров Олег Анатольевич": 53,
-      "Щебеньков Александр Викторович": 1,
-      "Щукин Геннадий Леонидович": 1
+      "gas:candidate-vibid:2752000880220": 7,
+      "gas:candidate-vibid:2752000858147": 24,
+      "gas:candidate-vibid:2752000883546": 1,
+      "gas:candidate-vibid:2752000880150": 3,
+      "gas:candidate-vibid:2752000881494": 53,
+      "gas:candidate-vibid:2752000883049": 1,
+      "gas:candidate-vibid:2752000881125": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824664&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824664&type=464",
@@ -6085,13 +6085,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 34,
-      "Кулиева Василина Васильевна": 102,
-      "Линник Игорь Юрьевич": 7,
-      "Попов Андрей Олегович": 11,
-      "Федоров Олег Анатольевич": 14,
-      "Щебеньков Александр Викторович": 2,
-      "Щукин Геннадий Леонидович": 4
+      "gas:candidate-vibid:2752000880220": 34,
+      "gas:candidate-vibid:2752000858147": 102,
+      "gas:candidate-vibid:2752000883546": 7,
+      "gas:candidate-vibid:2752000880150": 11,
+      "gas:candidate-vibid:2752000881494": 14,
+      "gas:candidate-vibid:2752000883049": 2,
+      "gas:candidate-vibid:2752000881125": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824664&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824664&type=464",
@@ -6142,13 +6142,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 14,
-      "Кулиева Василина Васильевна": 92,
-      "Линник Игорь Юрьевич": 6,
-      "Попов Андрей Олегович": 24,
-      "Федоров Олег Анатольевич": 34,
-      "Щебеньков Александр Викторович": 6,
-      "Щукин Геннадий Леонидович": 4
+      "gas:candidate-vibid:2752000880220": 14,
+      "gas:candidate-vibid:2752000858147": 92,
+      "gas:candidate-vibid:2752000883546": 6,
+      "gas:candidate-vibid:2752000880150": 24,
+      "gas:candidate-vibid:2752000881494": 34,
+      "gas:candidate-vibid:2752000883049": 6,
+      "gas:candidate-vibid:2752000881125": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824664&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824664&type=464",
@@ -6199,13 +6199,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 12,
-      "Кулиева Василина Васильевна": 35,
-      "Линник Игорь Юрьевич": 0,
-      "Попов Андрей Олегович": 0,
-      "Федоров Олег Анатольевич": 26,
-      "Щебеньков Александр Викторович": 0,
-      "Щукин Геннадий Леонидович": 0
+      "gas:candidate-vibid:2752000880220": 12,
+      "gas:candidate-vibid:2752000858147": 35,
+      "gas:candidate-vibid:2752000883546": 0,
+      "gas:candidate-vibid:2752000880150": 0,
+      "gas:candidate-vibid:2752000881494": 26,
+      "gas:candidate-vibid:2752000883049": 0,
+      "gas:candidate-vibid:2752000881125": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824664&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824664&type=464",
@@ -6256,13 +6256,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 19,
-      "Кулиева Василина Васильевна": 72,
-      "Линник Игорь Юрьевич": 4,
-      "Попов Андрей Олегович": 12,
-      "Федоров Олег Анатольевич": 12,
-      "Щебеньков Александр Викторович": 3,
-      "Щукин Геннадий Леонидович": 0
+      "gas:candidate-vibid:2752000880220": 19,
+      "gas:candidate-vibid:2752000858147": 72,
+      "gas:candidate-vibid:2752000883546": 4,
+      "gas:candidate-vibid:2752000880150": 12,
+      "gas:candidate-vibid:2752000881494": 12,
+      "gas:candidate-vibid:2752000883049": 3,
+      "gas:candidate-vibid:2752000881125": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824664&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824664&type=464",
@@ -6313,13 +6313,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 8,
-      "Кулиева Василина Васильевна": 57,
-      "Линник Игорь Юрьевич": 3,
-      "Попов Андрей Олегович": 10,
-      "Федоров Олег Анатольевич": 18,
-      "Щебеньков Александр Викторович": 5,
-      "Щукин Геннадий Леонидович": 3
+      "gas:candidate-vibid:2752000880220": 8,
+      "gas:candidate-vibid:2752000858147": 57,
+      "gas:candidate-vibid:2752000883546": 3,
+      "gas:candidate-vibid:2752000880150": 10,
+      "gas:candidate-vibid:2752000881494": 18,
+      "gas:candidate-vibid:2752000883049": 5,
+      "gas:candidate-vibid:2752000881125": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824664&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824664&type=464",
@@ -6370,13 +6370,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 19,
-      "Кулиева Василина Васильевна": 91,
-      "Линник Игорь Юрьевич": 5,
-      "Попов Андрей Олегович": 11,
-      "Федоров Олег Анатольевич": 16,
-      "Щебеньков Александр Викторович": 1,
-      "Щукин Геннадий Леонидович": 6
+      "gas:candidate-vibid:2752000880220": 19,
+      "gas:candidate-vibid:2752000858147": 91,
+      "gas:candidate-vibid:2752000883546": 5,
+      "gas:candidate-vibid:2752000880150": 11,
+      "gas:candidate-vibid:2752000881494": 16,
+      "gas:candidate-vibid:2752000883049": 1,
+      "gas:candidate-vibid:2752000881125": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824664&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824664&type=464",
@@ -6427,13 +6427,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 38,
-      "Кулиева Василина Васильевна": 154,
-      "Линник Игорь Юрьевич": 3,
-      "Попов Андрей Олегович": 27,
-      "Федоров Олег Анатольевич": 45,
-      "Щебеньков Александр Викторович": 5,
-      "Щукин Геннадий Леонидович": 7
+      "gas:candidate-vibid:2752000880220": 38,
+      "gas:candidate-vibid:2752000858147": 154,
+      "gas:candidate-vibid:2752000883546": 3,
+      "gas:candidate-vibid:2752000880150": 27,
+      "gas:candidate-vibid:2752000881494": 45,
+      "gas:candidate-vibid:2752000883049": 5,
+      "gas:candidate-vibid:2752000881125": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824664&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824664&type=464",
@@ -6484,13 +6484,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 19,
-      "Кулиева Василина Васильевна": 74,
-      "Линник Игорь Юрьевич": 3,
-      "Попов Андрей Олегович": 13,
-      "Федоров Олег Анатольевич": 41,
-      "Щебеньков Александр Викторович": 6,
-      "Щукин Геннадий Леонидович": 2
+      "gas:candidate-vibid:2752000880220": 19,
+      "gas:candidate-vibid:2752000858147": 74,
+      "gas:candidate-vibid:2752000883546": 3,
+      "gas:candidate-vibid:2752000880150": 13,
+      "gas:candidate-vibid:2752000881494": 41,
+      "gas:candidate-vibid:2752000883049": 6,
+      "gas:candidate-vibid:2752000881125": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824664&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824664&type=464",
@@ -6541,13 +6541,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 146,
-      "Кулиева Василина Васильевна": 628,
-      "Линник Игорь Юрьевич": 30,
-      "Попов Андрей Олегович": 135,
-      "Федоров Олег Анатольевич": 62,
-      "Щебеньков Александр Викторович": 59,
-      "Щукин Геннадий Леонидович": 33
+      "gas:candidate-vibid:2752000880220": 146,
+      "gas:candidate-vibid:2752000858147": 628,
+      "gas:candidate-vibid:2752000883546": 30,
+      "gas:candidate-vibid:2752000880150": 135,
+      "gas:candidate-vibid:2752000881494": 62,
+      "gas:candidate-vibid:2752000883049": 59,
+      "gas:candidate-vibid:2752000881125": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824665&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824665&type=464",
@@ -6598,13 +6598,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 40,
-      "Кулиева Василина Васильевна": 236,
-      "Линник Игорь Юрьевич": 5,
-      "Попов Андрей Олегович": 44,
-      "Федоров Олег Анатольевич": 35,
-      "Щебеньков Александр Викторович": 12,
-      "Щукин Геннадий Леонидович": 9
+      "gas:candidate-vibid:2752000880220": 40,
+      "gas:candidate-vibid:2752000858147": 236,
+      "gas:candidate-vibid:2752000883546": 5,
+      "gas:candidate-vibid:2752000880150": 44,
+      "gas:candidate-vibid:2752000881494": 35,
+      "gas:candidate-vibid:2752000883049": 12,
+      "gas:candidate-vibid:2752000881125": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824665&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824665&type=464",
@@ -6655,13 +6655,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 21,
-      "Кулиева Василина Васильевна": 184,
-      "Линник Игорь Юрьевич": 8,
-      "Попов Андрей Олегович": 50,
-      "Федоров Олег Анатольевич": 58,
-      "Щебеньков Александр Викторович": 13,
-      "Щукин Геннадий Леонидович": 11
+      "gas:candidate-vibid:2752000880220": 21,
+      "gas:candidate-vibid:2752000858147": 184,
+      "gas:candidate-vibid:2752000883546": 8,
+      "gas:candidate-vibid:2752000880150": 50,
+      "gas:candidate-vibid:2752000881494": 58,
+      "gas:candidate-vibid:2752000883049": 13,
+      "gas:candidate-vibid:2752000881125": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824665&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824665&type=464",
@@ -6712,13 +6712,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 46,
-      "Кулиева Василина Васильевна": 361,
-      "Линник Игорь Юрьевич": 4,
-      "Попов Андрей Олегович": 36,
-      "Федоров Олег Анатольевич": 16,
-      "Щебеньков Александр Викторович": 13,
-      "Щукин Геннадий Леонидович": 5
+      "gas:candidate-vibid:2752000880220": 46,
+      "gas:candidate-vibid:2752000858147": 361,
+      "gas:candidate-vibid:2752000883546": 4,
+      "gas:candidate-vibid:2752000880150": 36,
+      "gas:candidate-vibid:2752000881494": 16,
+      "gas:candidate-vibid:2752000883049": 13,
+      "gas:candidate-vibid:2752000881125": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824665&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824665&type=464",
@@ -6769,13 +6769,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 45,
-      "Кулиева Василина Васильевна": 231,
-      "Линник Игорь Юрьевич": 5,
-      "Попов Андрей Олегович": 46,
-      "Федоров Олег Анатольевич": 21,
-      "Щебеньков Александр Викторович": 11,
-      "Щукин Геннадий Леонидович": 14
+      "gas:candidate-vibid:2752000880220": 45,
+      "gas:candidate-vibid:2752000858147": 231,
+      "gas:candidate-vibid:2752000883546": 5,
+      "gas:candidate-vibid:2752000880150": 46,
+      "gas:candidate-vibid:2752000881494": 21,
+      "gas:candidate-vibid:2752000883049": 11,
+      "gas:candidate-vibid:2752000881125": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824665&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824665&type=464",
@@ -6826,13 +6826,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 48,
-      "Кулиева Василина Васильевна": 287,
-      "Линник Игорь Юрьевич": 11,
-      "Попов Андрей Олегович": 100,
-      "Федоров Олег Анатольевич": 57,
-      "Щебеньков Александр Викторович": 8,
-      "Щукин Геннадий Леонидович": 13
+      "gas:candidate-vibid:2752000880220": 48,
+      "gas:candidate-vibid:2752000858147": 287,
+      "gas:candidate-vibid:2752000883546": 11,
+      "gas:candidate-vibid:2752000880150": 100,
+      "gas:candidate-vibid:2752000881494": 57,
+      "gas:candidate-vibid:2752000883049": 8,
+      "gas:candidate-vibid:2752000881125": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824665&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824665&type=464",
@@ -6883,13 +6883,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 2,
-      "Кулиева Василина Васильевна": 95,
-      "Линник Игорь Юрьевич": 1,
-      "Попов Андрей Олегович": 2,
-      "Федоров Олег Анатольевич": 4,
-      "Щебеньков Александр Викторович": 1,
-      "Щукин Геннадий Леонидович": 1
+      "gas:candidate-vibid:2752000880220": 2,
+      "gas:candidate-vibid:2752000858147": 95,
+      "gas:candidate-vibid:2752000883546": 1,
+      "gas:candidate-vibid:2752000880150": 2,
+      "gas:candidate-vibid:2752000881494": 4,
+      "gas:candidate-vibid:2752000883049": 1,
+      "gas:candidate-vibid:2752000881125": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824665&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824665&type=464",
@@ -6940,13 +6940,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 2,
-      "Кулиева Василина Васильевна": 62,
-      "Линник Игорь Юрьевич": 1,
-      "Попов Андрей Олегович": 6,
-      "Федоров Олег Анатольевич": 0,
-      "Щебеньков Александр Викторович": 1,
-      "Щукин Геннадий Леонидович": 1
+      "gas:candidate-vibid:2752000880220": 2,
+      "gas:candidate-vibid:2752000858147": 62,
+      "gas:candidate-vibid:2752000883546": 1,
+      "gas:candidate-vibid:2752000880150": 6,
+      "gas:candidate-vibid:2752000881494": 0,
+      "gas:candidate-vibid:2752000883049": 1,
+      "gas:candidate-vibid:2752000881125": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824665&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824665&type=464",
@@ -6997,13 +6997,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 47,
-      "Кулиева Василина Васильевна": 453,
-      "Линник Игорь Юрьевич": 6,
-      "Попов Андрей Олегович": 81,
-      "Федоров Олег Анатольевич": 79,
-      "Щебеньков Александр Викторович": 20,
-      "Щукин Геннадий Леонидович": 20
+      "gas:candidate-vibid:2752000880220": 47,
+      "gas:candidate-vibid:2752000858147": 453,
+      "gas:candidate-vibid:2752000883546": 6,
+      "gas:candidate-vibid:2752000880150": 81,
+      "gas:candidate-vibid:2752000881494": 79,
+      "gas:candidate-vibid:2752000883049": 20,
+      "gas:candidate-vibid:2752000881125": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824665&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824665&type=464",
@@ -7054,13 +7054,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 71,
-      "Кулиева Василина Васильевна": 198,
-      "Линник Игорь Юрьевич": 14,
-      "Попов Андрей Олегович": 62,
-      "Федоров Олег Анатольевич": 22,
-      "Щебеньков Александр Викторович": 13,
-      "Щукин Геннадий Леонидович": 14
+      "gas:candidate-vibid:2752000880220": 71,
+      "gas:candidate-vibid:2752000858147": 198,
+      "gas:candidate-vibid:2752000883546": 14,
+      "gas:candidate-vibid:2752000880150": 62,
+      "gas:candidate-vibid:2752000881494": 22,
+      "gas:candidate-vibid:2752000883049": 13,
+      "gas:candidate-vibid:2752000881125": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824665&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824665&type=464",
@@ -7111,13 +7111,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 33,
-      "Кулиева Василина Васильевна": 352,
-      "Линник Игорь Юрьевич": 3,
-      "Попов Андрей Олегович": 51,
-      "Федоров Олег Анатольевич": 6,
-      "Щебеньков Александр Викторович": 11,
-      "Щукин Геннадий Леонидович": 11
+      "gas:candidate-vibid:2752000880220": 33,
+      "gas:candidate-vibid:2752000858147": 352,
+      "gas:candidate-vibid:2752000883546": 3,
+      "gas:candidate-vibid:2752000880150": 51,
+      "gas:candidate-vibid:2752000881494": 6,
+      "gas:candidate-vibid:2752000883049": 11,
+      "gas:candidate-vibid:2752000881125": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824665&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824665&type=464",
@@ -7168,13 +7168,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 43,
-      "Кулиева Василина Васильевна": 198,
-      "Линник Игорь Юрьевич": 8,
-      "Попов Андрей Олегович": 88,
-      "Федоров Олег Анатольевич": 7,
-      "Щебеньков Александр Викторович": 14,
-      "Щукин Геннадий Леонидович": 15
+      "gas:candidate-vibid:2752000880220": 43,
+      "gas:candidate-vibid:2752000858147": 198,
+      "gas:candidate-vibid:2752000883546": 8,
+      "gas:candidate-vibid:2752000880150": 88,
+      "gas:candidate-vibid:2752000881494": 7,
+      "gas:candidate-vibid:2752000883049": 14,
+      "gas:candidate-vibid:2752000881125": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824665&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824665&type=464",
@@ -7225,13 +7225,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 43,
-      "Кулиева Василина Васильевна": 218,
-      "Линник Игорь Юрьевич": 9,
-      "Попов Андрей Олегович": 57,
-      "Федоров Олег Анатольевич": 164,
-      "Щебеньков Александр Викторович": 14,
-      "Щукин Геннадий Леонидович": 10
+      "gas:candidate-vibid:2752000880220": 43,
+      "gas:candidate-vibid:2752000858147": 218,
+      "gas:candidate-vibid:2752000883546": 9,
+      "gas:candidate-vibid:2752000880150": 57,
+      "gas:candidate-vibid:2752000881494": 164,
+      "gas:candidate-vibid:2752000883049": 14,
+      "gas:candidate-vibid:2752000881125": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824665&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824665&type=464",
@@ -7282,13 +7282,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 86,
-      "Кулиева Василина Васильевна": 210,
-      "Линник Игорь Юрьевич": 15,
-      "Попов Андрей Олегович": 42,
-      "Федоров Олег Анатольевич": 22,
-      "Щебеньков Александр Викторович": 9,
-      "Щукин Геннадий Леонидович": 14
+      "gas:candidate-vibid:2752000880220": 86,
+      "gas:candidate-vibid:2752000858147": 210,
+      "gas:candidate-vibid:2752000883546": 15,
+      "gas:candidate-vibid:2752000880150": 42,
+      "gas:candidate-vibid:2752000881494": 22,
+      "gas:candidate-vibid:2752000883049": 9,
+      "gas:candidate-vibid:2752000881125": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824665&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824665&type=464",
@@ -7339,13 +7339,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 42,
-      "Кулиева Василина Васильевна": 118,
-      "Линник Игорь Юрьевич": 7,
-      "Попов Андрей Олегович": 26,
-      "Федоров Олег Анатольевич": 12,
-      "Щебеньков Александр Викторович": 12,
-      "Щукин Геннадий Леонидович": 5
+      "gas:candidate-vibid:2752000880220": 42,
+      "gas:candidate-vibid:2752000858147": 118,
+      "gas:candidate-vibid:2752000883546": 7,
+      "gas:candidate-vibid:2752000880150": 26,
+      "gas:candidate-vibid:2752000881494": 12,
+      "gas:candidate-vibid:2752000883049": 12,
+      "gas:candidate-vibid:2752000881125": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824665&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824665&type=464",
@@ -7396,13 +7396,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 24,
-      "Кулиева Василина Васильевна": 128,
-      "Линник Игорь Юрьевич": 7,
-      "Попов Андрей Олегович": 29,
-      "Федоров Олег Анатольевич": 6,
-      "Щебеньков Александр Викторович": 5,
-      "Щукин Геннадий Леонидович": 8
+      "gas:candidate-vibid:2752000880220": 24,
+      "gas:candidate-vibid:2752000858147": 128,
+      "gas:candidate-vibid:2752000883546": 7,
+      "gas:candidate-vibid:2752000880150": 29,
+      "gas:candidate-vibid:2752000881494": 6,
+      "gas:candidate-vibid:2752000883049": 5,
+      "gas:candidate-vibid:2752000881125": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824665&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824665&type=464",
@@ -7453,13 +7453,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 175,
-      "Кулиева Василина Васильевна": 371,
-      "Линник Игорь Юрьевич": 36,
-      "Попов Андрей Олегович": 177,
-      "Федоров Олег Анатольевич": 96,
-      "Щебеньков Александр Викторович": 70,
-      "Щукин Геннадий Леонидович": 41
+      "gas:candidate-vibid:2752000880220": 175,
+      "gas:candidate-vibid:2752000858147": 371,
+      "gas:candidate-vibid:2752000883546": 36,
+      "gas:candidate-vibid:2752000880150": 177,
+      "gas:candidate-vibid:2752000881494": 96,
+      "gas:candidate-vibid:2752000883049": 70,
+      "gas:candidate-vibid:2752000881125": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824665&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824665&type=464",
@@ -7510,13 +7510,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 20,
-      "Кулиева Василина Васильевна": 93,
-      "Линник Игорь Юрьевич": 4,
-      "Попов Андрей Олегович": 15,
-      "Федоров Олег Анатольевич": 41,
-      "Щебеньков Александр Викторович": 4,
-      "Щукин Геннадий Леонидович": 12
+      "gas:candidate-vibid:2752000880220": 20,
+      "gas:candidate-vibid:2752000858147": 93,
+      "gas:candidate-vibid:2752000883546": 4,
+      "gas:candidate-vibid:2752000880150": 15,
+      "gas:candidate-vibid:2752000881494": 41,
+      "gas:candidate-vibid:2752000883049": 4,
+      "gas:candidate-vibid:2752000881125": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824666&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824666&type=464",
@@ -7567,13 +7567,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 12,
-      "Кулиева Василина Васильевна": 53,
-      "Линник Игорь Юрьевич": 0,
-      "Попов Андрей Олегович": 11,
-      "Федоров Олег Анатольевич": 5,
-      "Щебеньков Александр Викторович": 5,
-      "Щукин Геннадий Леонидович": 17
+      "gas:candidate-vibid:2752000880220": 12,
+      "gas:candidate-vibid:2752000858147": 53,
+      "gas:candidate-vibid:2752000883546": 0,
+      "gas:candidate-vibid:2752000880150": 11,
+      "gas:candidate-vibid:2752000881494": 5,
+      "gas:candidate-vibid:2752000883049": 5,
+      "gas:candidate-vibid:2752000881125": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824666&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824666&type=464",
@@ -7624,13 +7624,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 8,
-      "Кулиева Василина Васильевна": 55,
-      "Линник Игорь Юрьевич": 0,
-      "Попов Андрей Олегович": 11,
-      "Федоров Олег Анатольевич": 4,
-      "Щебеньков Александр Викторович": 5,
-      "Щукин Геннадий Леонидович": 17
+      "gas:candidate-vibid:2752000880220": 8,
+      "gas:candidate-vibid:2752000858147": 55,
+      "gas:candidate-vibid:2752000883546": 0,
+      "gas:candidate-vibid:2752000880150": 11,
+      "gas:candidate-vibid:2752000881494": 4,
+      "gas:candidate-vibid:2752000883049": 5,
+      "gas:candidate-vibid:2752000881125": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824666&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824666&type=464",
@@ -7681,13 +7681,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 15,
-      "Кулиева Василина Васильевна": 34,
-      "Линник Игорь Юрьевич": 3,
-      "Попов Андрей Олегович": 9,
-      "Федоров Олег Анатольевич": 11,
-      "Щебеньков Александр Викторович": 1,
-      "Щукин Геннадий Леонидович": 2
+      "gas:candidate-vibid:2752000880220": 15,
+      "gas:candidate-vibid:2752000858147": 34,
+      "gas:candidate-vibid:2752000883546": 3,
+      "gas:candidate-vibid:2752000880150": 9,
+      "gas:candidate-vibid:2752000881494": 11,
+      "gas:candidate-vibid:2752000883049": 1,
+      "gas:candidate-vibid:2752000881125": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824666&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824666&type=464",
@@ -7738,13 +7738,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 65,
-      "Кулиева Василина Васильевна": 188,
-      "Линник Игорь Юрьевич": 2,
-      "Попов Андрей Олегович": 41,
-      "Федоров Олег Анатольевич": 64,
-      "Щебеньков Александр Викторович": 6,
-      "Щукин Геннадий Леонидович": 40
+      "gas:candidate-vibid:2752000880220": 65,
+      "gas:candidate-vibid:2752000858147": 188,
+      "gas:candidate-vibid:2752000883546": 2,
+      "gas:candidate-vibid:2752000880150": 41,
+      "gas:candidate-vibid:2752000881494": 64,
+      "gas:candidate-vibid:2752000883049": 6,
+      "gas:candidate-vibid:2752000881125": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824666&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824666&type=464",
@@ -7795,13 +7795,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 46,
-      "Кулиева Василина Васильевна": 147,
-      "Линник Игорь Юрьевич": 4,
-      "Попов Андрей Олегович": 39,
-      "Федоров Олег Анатольевич": 24,
-      "Щебеньков Александр Викторович": 7,
-      "Щукин Геннадий Леонидович": 22
+      "gas:candidate-vibid:2752000880220": 46,
+      "gas:candidate-vibid:2752000858147": 147,
+      "gas:candidate-vibid:2752000883546": 4,
+      "gas:candidate-vibid:2752000880150": 39,
+      "gas:candidate-vibid:2752000881494": 24,
+      "gas:candidate-vibid:2752000883049": 7,
+      "gas:candidate-vibid:2752000881125": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824666&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824666&type=464",
@@ -7852,13 +7852,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 36,
-      "Кулиева Василина Васильевна": 101,
-      "Линник Игорь Юрьевич": 6,
-      "Попов Андрей Олегович": 21,
-      "Федоров Олег Анатольевич": 12,
-      "Щебеньков Александр Викторович": 1,
-      "Щукин Геннадий Леонидович": 13
+      "gas:candidate-vibid:2752000880220": 36,
+      "gas:candidate-vibid:2752000858147": 101,
+      "gas:candidate-vibid:2752000883546": 6,
+      "gas:candidate-vibid:2752000880150": 21,
+      "gas:candidate-vibid:2752000881494": 12,
+      "gas:candidate-vibid:2752000883049": 1,
+      "gas:candidate-vibid:2752000881125": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824666&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824666&type=464",
@@ -7909,13 +7909,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 49,
-      "Кулиева Василина Васильевна": 102,
-      "Линник Игорь Юрьевич": 5,
-      "Попов Андрей Олегович": 18,
-      "Федоров Олег Анатольевич": 42,
-      "Щебеньков Александр Викторович": 8,
-      "Щукин Геннадий Леонидович": 10
+      "gas:candidate-vibid:2752000880220": 49,
+      "gas:candidate-vibid:2752000858147": 102,
+      "gas:candidate-vibid:2752000883546": 5,
+      "gas:candidate-vibid:2752000880150": 18,
+      "gas:candidate-vibid:2752000881494": 42,
+      "gas:candidate-vibid:2752000883049": 8,
+      "gas:candidate-vibid:2752000881125": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824666&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824666&type=464",
@@ -7966,13 +7966,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 52,
-      "Кулиева Василина Васильевна": 119,
-      "Линник Игорь Юрьевич": 1,
-      "Попов Андрей Олегович": 32,
-      "Федоров Олег Анатольевич": 8,
-      "Щебеньков Александр Викторович": 6,
-      "Щукин Геннадий Леонидович": 23
+      "gas:candidate-vibid:2752000880220": 52,
+      "gas:candidate-vibid:2752000858147": 119,
+      "gas:candidate-vibid:2752000883546": 1,
+      "gas:candidate-vibid:2752000880150": 32,
+      "gas:candidate-vibid:2752000881494": 8,
+      "gas:candidate-vibid:2752000883049": 6,
+      "gas:candidate-vibid:2752000881125": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824666&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824666&type=464",
@@ -8023,13 +8023,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 80,
-      "Кулиева Василина Васильевна": 125,
-      "Линник Игорь Юрьевич": 5,
-      "Попов Андрей Олегович": 27,
-      "Федоров Олег Анатольевич": 18,
-      "Щебеньков Александр Викторович": 3,
-      "Щукин Геннадий Леонидович": 27
+      "gas:candidate-vibid:2752000880220": 80,
+      "gas:candidate-vibid:2752000858147": 125,
+      "gas:candidate-vibid:2752000883546": 5,
+      "gas:candidate-vibid:2752000880150": 27,
+      "gas:candidate-vibid:2752000881494": 18,
+      "gas:candidate-vibid:2752000883049": 3,
+      "gas:candidate-vibid:2752000881125": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824666&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824666&type=464",
@@ -8080,13 +8080,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 67,
-      "Кулиева Василина Васильевна": 164,
-      "Линник Игорь Юрьевич": 8,
-      "Попов Андрей Олегович": 28,
-      "Федоров Олег Анатольевич": 28,
-      "Щебеньков Александр Викторович": 4,
-      "Щукин Геннадий Леонидович": 29
+      "gas:candidate-vibid:2752000880220": 67,
+      "gas:candidate-vibid:2752000858147": 164,
+      "gas:candidate-vibid:2752000883546": 8,
+      "gas:candidate-vibid:2752000880150": 28,
+      "gas:candidate-vibid:2752000881494": 28,
+      "gas:candidate-vibid:2752000883049": 4,
+      "gas:candidate-vibid:2752000881125": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824666&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824666&type=464",
@@ -8137,13 +8137,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 63,
-      "Кулиева Василина Васильевна": 124,
-      "Линник Игорь Юрьевич": 3,
-      "Попов Андрей Олегович": 20,
-      "Федоров Олег Анатольевич": 16,
-      "Щебеньков Александр Викторович": 5,
-      "Щукин Геннадий Леонидович": 16
+      "gas:candidate-vibid:2752000880220": 63,
+      "gas:candidate-vibid:2752000858147": 124,
+      "gas:candidate-vibid:2752000883546": 3,
+      "gas:candidate-vibid:2752000880150": 20,
+      "gas:candidate-vibid:2752000881494": 16,
+      "gas:candidate-vibid:2752000883049": 5,
+      "gas:candidate-vibid:2752000881125": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824666&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824666&type=464",
@@ -8194,13 +8194,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 63,
-      "Кулиева Василина Васильевна": 144,
-      "Линник Игорь Юрьевич": 8,
-      "Попов Андрей Олегович": 25,
-      "Федоров Олег Анатольевич": 23,
-      "Щебеньков Александр Викторович": 4,
-      "Щукин Геннадий Леонидович": 21
+      "gas:candidate-vibid:2752000880220": 63,
+      "gas:candidate-vibid:2752000858147": 144,
+      "gas:candidate-vibid:2752000883546": 8,
+      "gas:candidate-vibid:2752000880150": 25,
+      "gas:candidate-vibid:2752000881494": 23,
+      "gas:candidate-vibid:2752000883049": 4,
+      "gas:candidate-vibid:2752000881125": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824666&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824666&type=464",
@@ -8251,13 +8251,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 15,
-      "Кулиева Василина Васильевна": 77,
-      "Линник Игорь Юрьевич": 0,
-      "Попов Андрей Олегович": 13,
-      "Федоров Олег Анатольевич": 10,
-      "Щебеньков Александр Викторович": 3,
-      "Щукин Геннадий Леонидович": 8
+      "gas:candidate-vibid:2752000880220": 15,
+      "gas:candidate-vibid:2752000858147": 77,
+      "gas:candidate-vibid:2752000883546": 0,
+      "gas:candidate-vibid:2752000880150": 13,
+      "gas:candidate-vibid:2752000881494": 10,
+      "gas:candidate-vibid:2752000883049": 3,
+      "gas:candidate-vibid:2752000881125": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824666&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824666&type=464",
@@ -8308,13 +8308,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 38,
-      "Кулиева Василина Васильевна": 65,
-      "Линник Игорь Юрьевич": 2,
-      "Попов Андрей Олегович": 9,
-      "Федоров Олег Анатольевич": 12,
-      "Щебеньков Александр Викторович": 2,
-      "Щукин Геннадий Леонидович": 10
+      "gas:candidate-vibid:2752000880220": 38,
+      "gas:candidate-vibid:2752000858147": 65,
+      "gas:candidate-vibid:2752000883546": 2,
+      "gas:candidate-vibid:2752000880150": 9,
+      "gas:candidate-vibid:2752000881494": 12,
+      "gas:candidate-vibid:2752000883049": 2,
+      "gas:candidate-vibid:2752000881125": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824666&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824666&type=464",
@@ -8365,13 +8365,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 63,
-      "Кулиева Василина Васильевна": 173,
-      "Линник Игорь Юрьевич": 2,
-      "Попов Андрей Олегович": 35,
-      "Федоров Олег Анатольевич": 46,
-      "Щебеньков Александр Викторович": 6,
-      "Щукин Геннадий Леонидович": 25
+      "gas:candidate-vibid:2752000880220": 63,
+      "gas:candidate-vibid:2752000858147": 173,
+      "gas:candidate-vibid:2752000883546": 2,
+      "gas:candidate-vibid:2752000880150": 35,
+      "gas:candidate-vibid:2752000881494": 46,
+      "gas:candidate-vibid:2752000883049": 6,
+      "gas:candidate-vibid:2752000881125": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824666&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824666&type=464",
@@ -8422,13 +8422,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 30,
-      "Кулиева Василина Васильевна": 65,
-      "Линник Игорь Юрьевич": 5,
-      "Попов Андрей Олегович": 23,
-      "Федоров Олег Анатольевич": 6,
-      "Щебеньков Александр Викторович": 5,
-      "Щукин Геннадий Леонидович": 11
+      "gas:candidate-vibid:2752000880220": 30,
+      "gas:candidate-vibid:2752000858147": 65,
+      "gas:candidate-vibid:2752000883546": 5,
+      "gas:candidate-vibid:2752000880150": 23,
+      "gas:candidate-vibid:2752000881494": 6,
+      "gas:candidate-vibid:2752000883049": 5,
+      "gas:candidate-vibid:2752000881125": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824666&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824666&type=464",
@@ -8479,13 +8479,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 27,
-      "Кулиева Василина Васильевна": 88,
-      "Линник Игорь Юрьевич": 7,
-      "Попов Андрей Олегович": 13,
-      "Федоров Олег Анатольевич": 24,
-      "Щебеньков Александр Викторович": 6,
-      "Щукин Геннадий Леонидович": 23
+      "gas:candidate-vibid:2752000880220": 27,
+      "gas:candidate-vibid:2752000858147": 88,
+      "gas:candidate-vibid:2752000883546": 7,
+      "gas:candidate-vibid:2752000880150": 13,
+      "gas:candidate-vibid:2752000881494": 24,
+      "gas:candidate-vibid:2752000883049": 6,
+      "gas:candidate-vibid:2752000881125": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824666&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824666&type=464",
@@ -8536,13 +8536,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 17,
-      "Кулиева Василина Васильевна": 78,
-      "Линник Игорь Юрьевич": 3,
-      "Попов Андрей Олегович": 11,
-      "Федоров Олег Анатольевич": 3,
-      "Щебеньков Александр Викторович": 1,
-      "Щукин Геннадий Леонидович": 8
+      "gas:candidate-vibid:2752000880220": 17,
+      "gas:candidate-vibid:2752000858147": 78,
+      "gas:candidate-vibid:2752000883546": 3,
+      "gas:candidate-vibid:2752000880150": 11,
+      "gas:candidate-vibid:2752000881494": 3,
+      "gas:candidate-vibid:2752000883049": 1,
+      "gas:candidate-vibid:2752000881125": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824666&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824666&type=464",
@@ -8593,13 +8593,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 35,
-      "Кулиева Василина Васильевна": 103,
-      "Линник Игорь Юрьевич": 3,
-      "Попов Андрей Олегович": 15,
-      "Федоров Олег Анатольевич": 7,
-      "Щебеньков Александр Викторович": 3,
-      "Щукин Геннадий Леонидович": 13
+      "gas:candidate-vibid:2752000880220": 35,
+      "gas:candidate-vibid:2752000858147": 103,
+      "gas:candidate-vibid:2752000883546": 3,
+      "gas:candidate-vibid:2752000880150": 15,
+      "gas:candidate-vibid:2752000881494": 7,
+      "gas:candidate-vibid:2752000883049": 3,
+      "gas:candidate-vibid:2752000881125": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824666&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824666&type=464",
@@ -8650,13 +8650,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 148,
-      "Кулиева Василина Васильевна": 479,
-      "Линник Игорь Юрьевич": 36,
-      "Попов Андрей Олегович": 144,
-      "Федоров Олег Анатольевич": 287,
-      "Щебеньков Александр Викторович": 68,
-      "Щукин Геннадий Леонидович": 72
+      "gas:candidate-vibid:2752000880220": 148,
+      "gas:candidate-vibid:2752000858147": 479,
+      "gas:candidate-vibid:2752000883546": 36,
+      "gas:candidate-vibid:2752000880150": 144,
+      "gas:candidate-vibid:2752000881494": 287,
+      "gas:candidate-vibid:2752000883049": 68,
+      "gas:candidate-vibid:2752000881125": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824667&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824667&type=464",
@@ -8707,13 +8707,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 157,
-      "Кулиева Василина Васильевна": 398,
-      "Линник Игорь Юрьевич": 23,
-      "Попов Андрей Олегович": 114,
-      "Федоров Олег Анатольевич": 103,
-      "Щебеньков Александр Викторович": 62,
-      "Щукин Геннадий Леонидович": 51
+      "gas:candidate-vibid:2752000880220": 157,
+      "gas:candidate-vibid:2752000858147": 398,
+      "gas:candidate-vibid:2752000883546": 23,
+      "gas:candidate-vibid:2752000880150": 114,
+      "gas:candidate-vibid:2752000881494": 103,
+      "gas:candidate-vibid:2752000883049": 62,
+      "gas:candidate-vibid:2752000881125": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824667&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824667&type=464",
@@ -8764,13 +8764,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 23,
-      "Кулиева Василина Васильевна": 105,
-      "Линник Игорь Юрьевич": 5,
-      "Попов Андрей Олегович": 22,
-      "Федоров Олег Анатольевич": 12,
-      "Щебеньков Александр Викторович": 6,
-      "Щукин Геннадий Леонидович": 7
+      "gas:candidate-vibid:2752000880220": 23,
+      "gas:candidate-vibid:2752000858147": 105,
+      "gas:candidate-vibid:2752000883546": 5,
+      "gas:candidate-vibid:2752000880150": 22,
+      "gas:candidate-vibid:2752000881494": 12,
+      "gas:candidate-vibid:2752000883049": 6,
+      "gas:candidate-vibid:2752000881125": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824667&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824667&type=464",
@@ -8821,13 +8821,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 111,
-      "Кулиева Василина Васильевна": 294,
-      "Линник Игорь Юрьевич": 25,
-      "Попов Андрей Олегович": 114,
-      "Федоров Олег Анатольевич": 66,
-      "Щебеньков Александр Викторович": 45,
-      "Щукин Геннадий Леонидович": 21
+      "gas:candidate-vibid:2752000880220": 111,
+      "gas:candidate-vibid:2752000858147": 294,
+      "gas:candidate-vibid:2752000883546": 25,
+      "gas:candidate-vibid:2752000880150": 114,
+      "gas:candidate-vibid:2752000881494": 66,
+      "gas:candidate-vibid:2752000883049": 45,
+      "gas:candidate-vibid:2752000881125": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824668&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824668&type=464",
@@ -8878,13 +8878,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 125,
-      "Кулиева Василина Васильевна": 321,
-      "Линник Игорь Юрьевич": 24,
-      "Попов Андрей Олегович": 108,
-      "Федоров Олег Анатольевич": 36,
-      "Щебеньков Александр Викторович": 63,
-      "Щукин Геннадий Леонидович": 33
+      "gas:candidate-vibid:2752000880220": 125,
+      "gas:candidate-vibid:2752000858147": 321,
+      "gas:candidate-vibid:2752000883546": 24,
+      "gas:candidate-vibid:2752000880150": 108,
+      "gas:candidate-vibid:2752000881494": 36,
+      "gas:candidate-vibid:2752000883049": 63,
+      "gas:candidate-vibid:2752000881125": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824668&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824668&type=464",
@@ -8935,13 +8935,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 66,
-      "Кулиева Василина Васильевна": 267,
-      "Линник Игорь Юрьевич": 17,
-      "Попов Андрей Олегович": 90,
-      "Федоров Олег Анатольевич": 36,
-      "Щебеньков Александр Викторович": 28,
-      "Щукин Геннадий Леонидович": 19
+      "gas:candidate-vibid:2752000880220": 66,
+      "gas:candidate-vibid:2752000858147": 267,
+      "gas:candidate-vibid:2752000883546": 17,
+      "gas:candidate-vibid:2752000880150": 90,
+      "gas:candidate-vibid:2752000881494": 36,
+      "gas:candidate-vibid:2752000883049": 28,
+      "gas:candidate-vibid:2752000881125": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824668&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824668&type=464",
@@ -8992,13 +8992,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 62,
-      "Кулиева Василина Васильевна": 242,
-      "Линник Игорь Юрьевич": 5,
-      "Попов Андрей Олегович": 85,
-      "Федоров Олег Анатольевич": 33,
-      "Щебеньков Александр Викторович": 29,
-      "Щукин Геннадий Леонидович": 18
+      "gas:candidate-vibid:2752000880220": 62,
+      "gas:candidate-vibid:2752000858147": 242,
+      "gas:candidate-vibid:2752000883546": 5,
+      "gas:candidate-vibid:2752000880150": 85,
+      "gas:candidate-vibid:2752000881494": 33,
+      "gas:candidate-vibid:2752000883049": 29,
+      "gas:candidate-vibid:2752000881125": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824668&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824668&type=464",
@@ -9049,13 +9049,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 83,
-      "Кулиева Василина Васильевна": 302,
-      "Линник Игорь Юрьевич": 11,
-      "Попов Андрей Олегович": 93,
-      "Федоров Олег Анатольевич": 59,
-      "Щебеньков Александр Викторович": 40,
-      "Щукин Геннадий Леонидович": 12
+      "gas:candidate-vibid:2752000880220": 83,
+      "gas:candidate-vibid:2752000858147": 302,
+      "gas:candidate-vibid:2752000883546": 11,
+      "gas:candidate-vibid:2752000880150": 93,
+      "gas:candidate-vibid:2752000881494": 59,
+      "gas:candidate-vibid:2752000883049": 40,
+      "gas:candidate-vibid:2752000881125": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824668&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824668&type=464",
@@ -9106,13 +9106,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 123,
-      "Кулиева Василина Васильевна": 401,
-      "Линник Игорь Юрьевич": 19,
-      "Попов Андрей Олегович": 140,
-      "Федоров Олег Анатольевич": 55,
-      "Щебеньков Александр Викторович": 63,
-      "Щукин Геннадий Леонидович": 28
+      "gas:candidate-vibid:2752000880220": 123,
+      "gas:candidate-vibid:2752000858147": 401,
+      "gas:candidate-vibid:2752000883546": 19,
+      "gas:candidate-vibid:2752000880150": 140,
+      "gas:candidate-vibid:2752000881494": 55,
+      "gas:candidate-vibid:2752000883049": 63,
+      "gas:candidate-vibid:2752000881125": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824668&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824668&type=464",
@@ -9163,13 +9163,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 173,
-      "Кулиева Василина Васильевна": 323,
-      "Линник Игорь Юрьевич": 23,
-      "Попов Андрей Олегович": 94,
-      "Федоров Олег Анатольевич": 69,
-      "Щебеньков Александр Викторович": 35,
-      "Щукин Геннадий Леонидович": 37
+      "gas:candidate-vibid:2752000880220": 173,
+      "gas:candidate-vibid:2752000858147": 323,
+      "gas:candidate-vibid:2752000883546": 23,
+      "gas:candidate-vibid:2752000880150": 94,
+      "gas:candidate-vibid:2752000881494": 69,
+      "gas:candidate-vibid:2752000883049": 35,
+      "gas:candidate-vibid:2752000881125": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824669&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824669&type=464",
@@ -9220,13 +9220,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 161,
-      "Кулиева Василина Васильевна": 331,
-      "Линник Игорь Юрьевич": 22,
-      "Попов Андрей Олегович": 122,
-      "Федоров Олег Анатольевич": 67,
-      "Щебеньков Александр Викторович": 36,
-      "Щукин Геннадий Леонидович": 48
+      "gas:candidate-vibid:2752000880220": 161,
+      "gas:candidate-vibid:2752000858147": 331,
+      "gas:candidate-vibid:2752000883546": 22,
+      "gas:candidate-vibid:2752000880150": 122,
+      "gas:candidate-vibid:2752000881494": 67,
+      "gas:candidate-vibid:2752000883049": 36,
+      "gas:candidate-vibid:2752000881125": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824669&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824669&type=464",
@@ -9277,13 +9277,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 168,
-      "Кулиева Василина Васильевна": 305,
-      "Линник Игорь Юрьевич": 21,
-      "Попов Андрей Олегович": 117,
-      "Федоров Олег Анатольевич": 55,
-      "Щебеньков Александр Викторович": 37,
-      "Щукин Геннадий Леонидович": 30
+      "gas:candidate-vibid:2752000880220": 168,
+      "gas:candidate-vibid:2752000858147": 305,
+      "gas:candidate-vibid:2752000883546": 21,
+      "gas:candidate-vibid:2752000880150": 117,
+      "gas:candidate-vibid:2752000881494": 55,
+      "gas:candidate-vibid:2752000883049": 37,
+      "gas:candidate-vibid:2752000881125": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824669&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824669&type=464",
@@ -9334,13 +9334,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 170,
-      "Кулиева Василина Васильевна": 344,
-      "Линник Игорь Юрьевич": 8,
-      "Попов Андрей Олегович": 111,
-      "Федоров Олег Анатольевич": 52,
-      "Щебеньков Александр Викторович": 53,
-      "Щукин Геннадий Леонидович": 32
+      "gas:candidate-vibid:2752000880220": 170,
+      "gas:candidate-vibid:2752000858147": 344,
+      "gas:candidate-vibid:2752000883546": 8,
+      "gas:candidate-vibid:2752000880150": 111,
+      "gas:candidate-vibid:2752000881494": 52,
+      "gas:candidate-vibid:2752000883049": 53,
+      "gas:candidate-vibid:2752000881125": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824669&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824669&type=464",
@@ -9391,13 +9391,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 161,
-      "Кулиева Василина Васильевна": 384,
-      "Линник Игорь Юрьевич": 9,
-      "Попов Андрей Олегович": 93,
-      "Федоров Олег Анатольевич": 63,
-      "Щебеньков Александр Викторович": 42,
-      "Щукин Геннадий Леонидович": 41
+      "gas:candidate-vibid:2752000880220": 161,
+      "gas:candidate-vibid:2752000858147": 384,
+      "gas:candidate-vibid:2752000883546": 9,
+      "gas:candidate-vibid:2752000880150": 93,
+      "gas:candidate-vibid:2752000881494": 63,
+      "gas:candidate-vibid:2752000883049": 42,
+      "gas:candidate-vibid:2752000881125": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824669&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824669&type=464",
@@ -9448,13 +9448,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 175,
-      "Кулиева Василина Васильевна": 282,
-      "Линник Игорь Юрьевич": 22,
-      "Попов Андрей Олегович": 107,
-      "Федоров Олег Анатольевич": 74,
-      "Щебеньков Александр Викторович": 32,
-      "Щукин Геннадий Леонидович": 49
+      "gas:candidate-vibid:2752000880220": 175,
+      "gas:candidate-vibid:2752000858147": 282,
+      "gas:candidate-vibid:2752000883546": 22,
+      "gas:candidate-vibid:2752000880150": 107,
+      "gas:candidate-vibid:2752000881494": 74,
+      "gas:candidate-vibid:2752000883049": 32,
+      "gas:candidate-vibid:2752000881125": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824669&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824669&type=464",
@@ -9505,13 +9505,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 152,
-      "Кулиева Василина Васильевна": 349,
-      "Линник Игорь Юрьевич": 10,
-      "Попов Андрей Олегович": 95,
-      "Федоров Олег Анатольевич": 56,
-      "Щебеньков Александр Викторович": 32,
-      "Щукин Геннадий Леонидович": 57
+      "gas:candidate-vibid:2752000880220": 152,
+      "gas:candidate-vibid:2752000858147": 349,
+      "gas:candidate-vibid:2752000883546": 10,
+      "gas:candidate-vibid:2752000880150": 95,
+      "gas:candidate-vibid:2752000881494": 56,
+      "gas:candidate-vibid:2752000883049": 32,
+      "gas:candidate-vibid:2752000881125": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824669&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824669&type=464",
@@ -9562,13 +9562,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 43,
-      "Кулиева Василина Васильевна": 120,
-      "Линник Игорь Юрьевич": 7,
-      "Попов Андрей Олегович": 31,
-      "Федоров Олег Анатольевич": 16,
-      "Щебеньков Александр Викторович": 7,
-      "Щукин Геннадий Леонидович": 9
+      "gas:candidate-vibid:2752000880220": 43,
+      "gas:candidate-vibid:2752000858147": 120,
+      "gas:candidate-vibid:2752000883546": 7,
+      "gas:candidate-vibid:2752000880150": 31,
+      "gas:candidate-vibid:2752000881494": 16,
+      "gas:candidate-vibid:2752000883049": 7,
+      "gas:candidate-vibid:2752000881125": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824669&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824669&type=464",
@@ -9619,13 +9619,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 119,
-      "Кулиева Василина Васильевна": 267,
-      "Линник Игорь Юрьевич": 12,
-      "Попов Андрей Олегович": 89,
-      "Федоров Олег Анатольевич": 50,
-      "Щебеньков Александр Викторович": 42,
-      "Щукин Геннадий Леонидович": 47
+      "gas:candidate-vibid:2752000880220": 119,
+      "gas:candidate-vibid:2752000858147": 267,
+      "gas:candidate-vibid:2752000883546": 12,
+      "gas:candidate-vibid:2752000880150": 89,
+      "gas:candidate-vibid:2752000881494": 50,
+      "gas:candidate-vibid:2752000883049": 42,
+      "gas:candidate-vibid:2752000881125": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824669&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824669&type=464",
@@ -9676,13 +9676,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 106,
-      "Кулиева Василина Васильевна": 241,
-      "Линник Игорь Юрьевич": 14,
-      "Попов Андрей Олегович": 81,
-      "Федоров Олег Анатольевич": 40,
-      "Щебеньков Александр Викторович": 28,
-      "Щукин Геннадий Леонидович": 23
+      "gas:candidate-vibid:2752000880220": 106,
+      "gas:candidate-vibid:2752000858147": 241,
+      "gas:candidate-vibid:2752000883546": 14,
+      "gas:candidate-vibid:2752000880150": 81,
+      "gas:candidate-vibid:2752000881494": 40,
+      "gas:candidate-vibid:2752000883049": 28,
+      "gas:candidate-vibid:2752000881125": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824669&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824669&type=464",
@@ -9733,13 +9733,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 138,
-      "Кулиева Василина Васильевна": 290,
-      "Линник Игорь Юрьевич": 17,
-      "Попов Андрей Олегович": 74,
-      "Федоров Олег Анатольевич": 55,
-      "Щебеньков Александр Викторович": 20,
-      "Щукин Геннадий Леонидович": 31
+      "gas:candidate-vibid:2752000880220": 138,
+      "gas:candidate-vibid:2752000858147": 290,
+      "gas:candidate-vibid:2752000883546": 17,
+      "gas:candidate-vibid:2752000880150": 74,
+      "gas:candidate-vibid:2752000881494": 55,
+      "gas:candidate-vibid:2752000883049": 20,
+      "gas:candidate-vibid:2752000881125": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824669&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824669&type=464",
@@ -9790,13 +9790,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 126,
-      "Кулиева Василина Васильевна": 250,
-      "Линник Игорь Юрьевич": 22,
-      "Попов Андрей Олегович": 71,
-      "Федоров Олег Анатольевич": 44,
-      "Щебеньков Александр Викторович": 25,
-      "Щукин Геннадий Леонидович": 32
+      "gas:candidate-vibid:2752000880220": 126,
+      "gas:candidate-vibid:2752000858147": 250,
+      "gas:candidate-vibid:2752000883546": 22,
+      "gas:candidate-vibid:2752000880150": 71,
+      "gas:candidate-vibid:2752000881494": 44,
+      "gas:candidate-vibid:2752000883049": 25,
+      "gas:candidate-vibid:2752000881125": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824669&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824669&type=464",
@@ -9847,13 +9847,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 163,
-      "Кулиева Василина Васильевна": 263,
-      "Линник Игорь Юрьевич": 28,
-      "Попов Андрей Олегович": 95,
-      "Федоров Олег Анатольевич": 88,
-      "Щебеньков Александр Викторович": 36,
-      "Щукин Геннадий Леонидович": 33
+      "gas:candidate-vibid:2752000880220": 163,
+      "gas:candidate-vibid:2752000858147": 263,
+      "gas:candidate-vibid:2752000883546": 28,
+      "gas:candidate-vibid:2752000880150": 95,
+      "gas:candidate-vibid:2752000881494": 88,
+      "gas:candidate-vibid:2752000883049": 36,
+      "gas:candidate-vibid:2752000881125": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824669&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824669&type=464",
@@ -9904,13 +9904,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 94,
-      "Кулиева Василина Васильевна": 194,
-      "Линник Игорь Юрьевич": 14,
-      "Попов Андрей Олегович": 53,
-      "Федоров Олег Анатольевич": 35,
-      "Щебеньков Александр Викторович": 23,
-      "Щукин Геннадий Леонидович": 31
+      "gas:candidate-vibid:2752000880220": 94,
+      "gas:candidate-vibid:2752000858147": 194,
+      "gas:candidate-vibid:2752000883546": 14,
+      "gas:candidate-vibid:2752000880150": 53,
+      "gas:candidate-vibid:2752000881494": 35,
+      "gas:candidate-vibid:2752000883049": 23,
+      "gas:candidate-vibid:2752000881125": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824669&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824669&type=464",
@@ -9961,13 +9961,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 155,
-      "Кулиева Василина Васильевна": 305,
-      "Линник Игорь Юрьевич": 18,
-      "Попов Андрей Олегович": 115,
-      "Федоров Олег Анатольевич": 54,
-      "Щебеньков Александр Викторович": 35,
-      "Щукин Геннадий Леонидович": 54
+      "gas:candidate-vibid:2752000880220": 155,
+      "gas:candidate-vibid:2752000858147": 305,
+      "gas:candidate-vibid:2752000883546": 18,
+      "gas:candidate-vibid:2752000880150": 115,
+      "gas:candidate-vibid:2752000881494": 54,
+      "gas:candidate-vibid:2752000883049": 35,
+      "gas:candidate-vibid:2752000881125": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824669&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824669&type=464",
@@ -10018,13 +10018,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 173,
-      "Кулиева Василина Васильевна": 308,
-      "Линник Игорь Юрьевич": 14,
-      "Попов Андрей Олегович": 94,
-      "Федоров Олег Анатольевич": 37,
-      "Щебеньков Александр Викторович": 32,
-      "Щукин Геннадий Леонидович": 28
+      "gas:candidate-vibid:2752000880220": 173,
+      "gas:candidate-vibid:2752000858147": 308,
+      "gas:candidate-vibid:2752000883546": 14,
+      "gas:candidate-vibid:2752000880150": 94,
+      "gas:candidate-vibid:2752000881494": 37,
+      "gas:candidate-vibid:2752000883049": 32,
+      "gas:candidate-vibid:2752000881125": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824669&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824669&type=464",
@@ -10075,13 +10075,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 156,
-      "Кулиева Василина Васильевна": 224,
-      "Линник Игорь Юрьевич": 13,
-      "Попов Андрей Олегович": 92,
-      "Федоров Олег Анатольевич": 42,
-      "Щебеньков Александр Викторович": 31,
-      "Щукин Геннадий Леонидович": 33
+      "gas:candidate-vibid:2752000880220": 156,
+      "gas:candidate-vibid:2752000858147": 224,
+      "gas:candidate-vibid:2752000883546": 13,
+      "gas:candidate-vibid:2752000880150": 92,
+      "gas:candidate-vibid:2752000881494": 42,
+      "gas:candidate-vibid:2752000883049": 31,
+      "gas:candidate-vibid:2752000881125": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824669&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824669&type=464",
@@ -10132,13 +10132,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 169,
-      "Кулиева Василина Васильевна": 293,
-      "Линник Игорь Юрьевич": 12,
-      "Попов Андрей Олегович": 112,
-      "Федоров Олег Анатольевич": 39,
-      "Щебеньков Александр Викторович": 57,
-      "Щукин Геннадий Леонидович": 36
+      "gas:candidate-vibid:2752000880220": 169,
+      "gas:candidate-vibid:2752000858147": 293,
+      "gas:candidate-vibid:2752000883546": 12,
+      "gas:candidate-vibid:2752000880150": 112,
+      "gas:candidate-vibid:2752000881494": 39,
+      "gas:candidate-vibid:2752000883049": 57,
+      "gas:candidate-vibid:2752000881125": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824669&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824669&type=464",
@@ -10189,13 +10189,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 180,
-      "Кулиева Василина Васильевна": 247,
-      "Линник Игорь Юрьевич": 15,
-      "Попов Андрей Олегович": 106,
-      "Федоров Олег Анатольевич": 48,
-      "Щебеньков Александр Викторович": 27,
-      "Щукин Геннадий Леонидович": 36
+      "gas:candidate-vibid:2752000880220": 180,
+      "gas:candidate-vibid:2752000858147": 247,
+      "gas:candidate-vibid:2752000883546": 15,
+      "gas:candidate-vibid:2752000880150": 106,
+      "gas:candidate-vibid:2752000881494": 48,
+      "gas:candidate-vibid:2752000883049": 27,
+      "gas:candidate-vibid:2752000881125": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824669&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824669&type=464",
@@ -10246,13 +10246,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 52,
-      "Кулиева Василина Васильевна": 63,
-      "Линник Игорь Юрьевич": 13,
-      "Попов Андрей Олегович": 57,
-      "Федоров Олег Анатольевич": 12,
-      "Щебеньков Александр Викторович": 14,
-      "Щукин Геннадий Леонидович": 8
+      "gas:candidate-vibid:2752000880220": 52,
+      "gas:candidate-vibid:2752000858147": 63,
+      "gas:candidate-vibid:2752000883546": 13,
+      "gas:candidate-vibid:2752000880150": 57,
+      "gas:candidate-vibid:2752000881494": 12,
+      "gas:candidate-vibid:2752000883049": 14,
+      "gas:candidate-vibid:2752000881125": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824669&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824669&type=464",
@@ -10303,13 +10303,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 66,
-      "Кулиева Василина Васильевна": 153,
-      "Линник Игорь Юрьевич": 9,
-      "Попов Андрей Олегович": 29,
-      "Федоров Олег Анатольевич": 10,
-      "Щебеньков Александр Викторович": 20,
-      "Щукин Геннадий Леонидович": 14
+      "gas:candidate-vibid:2752000880220": 66,
+      "gas:candidate-vibid:2752000858147": 153,
+      "gas:candidate-vibid:2752000883546": 9,
+      "gas:candidate-vibid:2752000880150": 29,
+      "gas:candidate-vibid:2752000881494": 10,
+      "gas:candidate-vibid:2752000883049": 20,
+      "gas:candidate-vibid:2752000881125": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824669&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824669&type=464",
@@ -10360,13 +10360,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 134,
-      "Кулиева Василина Васильевна": 207,
-      "Линник Игорь Юрьевич": 10,
-      "Попов Андрей Олегович": 95,
-      "Федоров Олег Анатольевич": 35,
-      "Щебеньков Александр Викторович": 42,
-      "Щукин Геннадий Леонидович": 40
+      "gas:candidate-vibid:2752000880220": 134,
+      "gas:candidate-vibid:2752000858147": 207,
+      "gas:candidate-vibid:2752000883546": 10,
+      "gas:candidate-vibid:2752000880150": 95,
+      "gas:candidate-vibid:2752000881494": 35,
+      "gas:candidate-vibid:2752000883049": 42,
+      "gas:candidate-vibid:2752000881125": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824669&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824669&type=464",
@@ -10417,13 +10417,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 97,
-      "Кулиева Василина Васильевна": 265,
-      "Линник Игорь Юрьевич": 8,
-      "Попов Андрей Олегович": 50,
-      "Федоров Олег Анатольевич": 23,
-      "Щебеньков Александр Викторович": 12,
-      "Щукин Геннадий Леонидович": 16
+      "gas:candidate-vibid:2752000880220": 97,
+      "gas:candidate-vibid:2752000858147": 265,
+      "gas:candidate-vibid:2752000883546": 8,
+      "gas:candidate-vibid:2752000880150": 50,
+      "gas:candidate-vibid:2752000881494": 23,
+      "gas:candidate-vibid:2752000883049": 12,
+      "gas:candidate-vibid:2752000881125": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824669&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824669&type=464",
@@ -10474,13 +10474,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 104,
-      "Кулиева Василина Васильевна": 215,
-      "Линник Игорь Юрьевич": 9,
-      "Попов Андрей Олегович": 68,
-      "Федоров Олег Анатольевич": 23,
-      "Щебеньков Александр Викторович": 31,
-      "Щукин Геннадий Леонидович": 20
+      "gas:candidate-vibid:2752000880220": 104,
+      "gas:candidate-vibid:2752000858147": 215,
+      "gas:candidate-vibid:2752000883546": 9,
+      "gas:candidate-vibid:2752000880150": 68,
+      "gas:candidate-vibid:2752000881494": 23,
+      "gas:candidate-vibid:2752000883049": 31,
+      "gas:candidate-vibid:2752000881125": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824669&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824669&type=464",
@@ -10531,13 +10531,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 44,
-      "Кулиева Василина Васильевна": 129,
-      "Линник Игорь Юрьевич": 6,
-      "Попов Андрей Олегович": 24,
-      "Федоров Олег Анатольевич": 13,
-      "Щебеньков Александр Викторович": 18,
-      "Щукин Геннадий Леонидович": 2
+      "gas:candidate-vibid:2752000880220": 44,
+      "gas:candidate-vibid:2752000858147": 129,
+      "gas:candidate-vibid:2752000883546": 6,
+      "gas:candidate-vibid:2752000880150": 24,
+      "gas:candidate-vibid:2752000881494": 13,
+      "gas:candidate-vibid:2752000883049": 18,
+      "gas:candidate-vibid:2752000881125": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824669&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824669&type=464",
@@ -10588,13 +10588,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 78,
-      "Кулиева Василина Васильевна": 172,
-      "Линник Игорь Юрьевич": 4,
-      "Попов Андрей Олегович": 38,
-      "Федоров Олег Анатольевич": 32,
-      "Щебеньков Александр Викторович": 20,
-      "Щукин Геннадий Леонидович": 20
+      "gas:candidate-vibid:2752000880220": 78,
+      "gas:candidate-vibid:2752000858147": 172,
+      "gas:candidate-vibid:2752000883546": 4,
+      "gas:candidate-vibid:2752000880150": 38,
+      "gas:candidate-vibid:2752000881494": 32,
+      "gas:candidate-vibid:2752000883049": 20,
+      "gas:candidate-vibid:2752000881125": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824669&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824669&type=464",
@@ -10645,13 +10645,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 101,
-      "Кулиева Василина Васильевна": 191,
-      "Линник Игорь Юрьевич": 9,
-      "Попов Андрей Олегович": 41,
-      "Федоров Олег Анатольевич": 38,
-      "Щебеньков Александр Викторович": 19,
-      "Щукин Геннадий Леонидович": 19
+      "gas:candidate-vibid:2752000880220": 101,
+      "gas:candidate-vibid:2752000858147": 191,
+      "gas:candidate-vibid:2752000883546": 9,
+      "gas:candidate-vibid:2752000880150": 41,
+      "gas:candidate-vibid:2752000881494": 38,
+      "gas:candidate-vibid:2752000883049": 19,
+      "gas:candidate-vibid:2752000881125": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824669&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824669&type=464",
@@ -10702,13 +10702,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 37,
-      "Кулиева Василина Васильевна": 101,
-      "Линник Игорь Юрьевич": 2,
-      "Попов Андрей Олегович": 23,
-      "Федоров Олег Анатольевич": 22,
-      "Щебеньков Александр Викторович": 7,
-      "Щукин Геннадий Леонидович": 11
+      "gas:candidate-vibid:2752000880220": 37,
+      "gas:candidate-vibid:2752000858147": 101,
+      "gas:candidate-vibid:2752000883546": 2,
+      "gas:candidate-vibid:2752000880150": 23,
+      "gas:candidate-vibid:2752000881494": 22,
+      "gas:candidate-vibid:2752000883049": 7,
+      "gas:candidate-vibid:2752000881125": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824669&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824669&type=464",
@@ -10759,13 +10759,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 98,
-      "Кулиева Василина Васильевна": 195,
-      "Линник Игорь Юрьевич": 11,
-      "Попов Андрей Олегович": 42,
-      "Федоров Олег Анатольевич": 58,
-      "Щебеньков Александр Викторович": 12,
-      "Щукин Геннадий Леонидович": 20
+      "gas:candidate-vibid:2752000880220": 98,
+      "gas:candidate-vibid:2752000858147": 195,
+      "gas:candidate-vibid:2752000883546": 11,
+      "gas:candidate-vibid:2752000880150": 42,
+      "gas:candidate-vibid:2752000881494": 58,
+      "gas:candidate-vibid:2752000883049": 12,
+      "gas:candidate-vibid:2752000881125": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824669&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824669&type=464",
@@ -10816,13 +10816,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 13,
-      "Кулиева Василина Васильевна": 67,
-      "Линник Игорь Юрьевич": 1,
-      "Попов Андрей Олегович": 9,
-      "Федоров Олег Анатольевич": 14,
-      "Щебеньков Александр Викторович": 2,
-      "Щукин Геннадий Леонидович": 4
+      "gas:candidate-vibid:2752000880220": 13,
+      "gas:candidate-vibid:2752000858147": 67,
+      "gas:candidate-vibid:2752000883546": 1,
+      "gas:candidate-vibid:2752000880150": 9,
+      "gas:candidate-vibid:2752000881494": 14,
+      "gas:candidate-vibid:2752000883049": 2,
+      "gas:candidate-vibid:2752000881125": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824669&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824669&type=464",
@@ -10873,13 +10873,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 31,
-      "Кулиева Василина Васильевна": 103,
-      "Линник Игорь Юрьевич": 4,
-      "Попов Андрей Олегович": 19,
-      "Федоров Олег Анатольевич": 16,
-      "Щебеньков Александр Викторович": 4,
-      "Щукин Геннадий Леонидович": 6
+      "gas:candidate-vibid:2752000880220": 31,
+      "gas:candidate-vibid:2752000858147": 103,
+      "gas:candidate-vibid:2752000883546": 4,
+      "gas:candidate-vibid:2752000880150": 19,
+      "gas:candidate-vibid:2752000881494": 16,
+      "gas:candidate-vibid:2752000883049": 4,
+      "gas:candidate-vibid:2752000881125": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824669&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824669&type=464",
@@ -10930,13 +10930,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 20,
-      "Кулиева Василина Васильевна": 100,
-      "Линник Игорь Юрьевич": 2,
-      "Попов Андрей Олегович": 8,
-      "Федоров Олег Анатольевич": 23,
-      "Щебеньков Александр Викторович": 7,
-      "Щукин Геннадий Леонидович": 10
+      "gas:candidate-vibid:2752000880220": 20,
+      "gas:candidate-vibid:2752000858147": 100,
+      "gas:candidate-vibid:2752000883546": 2,
+      "gas:candidate-vibid:2752000880150": 8,
+      "gas:candidate-vibid:2752000881494": 23,
+      "gas:candidate-vibid:2752000883049": 7,
+      "gas:candidate-vibid:2752000881125": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824669&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824669&type=464",
@@ -10987,13 +10987,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 94,
-      "Кулиева Василина Васильевна": 104,
-      "Линник Игорь Юрьевич": 18,
-      "Попов Андрей Олегович": 34,
-      "Федоров Олег Анатольевич": 33,
-      "Щебеньков Александр Викторович": 17,
-      "Щукин Геннадий Леонидович": 71
+      "gas:candidate-vibid:2752000880220": 94,
+      "gas:candidate-vibid:2752000858147": 104,
+      "gas:candidate-vibid:2752000883546": 18,
+      "gas:candidate-vibid:2752000880150": 34,
+      "gas:candidate-vibid:2752000881494": 33,
+      "gas:candidate-vibid:2752000883049": 17,
+      "gas:candidate-vibid:2752000881125": 71
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824669&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824669&type=464",
@@ -11044,13 +11044,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 757,
-      "Кулиева Василина Васильевна": 686,
-      "Линник Игорь Юрьевич": 184,
-      "Попов Андрей Олегович": 840,
-      "Федоров Олег Анатольевич": 523,
-      "Щебеньков Александр Викторович": 165,
-      "Щукин Геннадий Леонидович": 165
+      "gas:candidate-vibid:2752000880220": 757,
+      "gas:candidate-vibid:2752000858147": 686,
+      "gas:candidate-vibid:2752000883546": 184,
+      "gas:candidate-vibid:2752000880150": 840,
+      "gas:candidate-vibid:2752000881494": 523,
+      "gas:candidate-vibid:2752000883049": 165,
+      "gas:candidate-vibid:2752000881125": 165
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824669&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824669&type=464",
@@ -11101,13 +11101,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 113,
-      "Кулиева Василина Васильевна": 282,
-      "Линник Игорь Юрьевич": 17,
-      "Попов Андрей Олегович": 92,
-      "Федоров Олег Анатольевич": 52,
-      "Щебеньков Александр Викторович": 33,
-      "Щукин Геннадий Леонидович": 34
+      "gas:candidate-vibid:2752000880220": 113,
+      "gas:candidate-vibid:2752000858147": 282,
+      "gas:candidate-vibid:2752000883546": 17,
+      "gas:candidate-vibid:2752000880150": 92,
+      "gas:candidate-vibid:2752000881494": 52,
+      "gas:candidate-vibid:2752000883049": 33,
+      "gas:candidate-vibid:2752000881125": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824670&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824670&type=464",
@@ -11158,13 +11158,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 125,
-      "Кулиева Василина Васильевна": 230,
-      "Линник Игорь Юрьевич": 26,
-      "Попов Андрей Олегович": 95,
-      "Федоров Олег Анатольевич": 37,
-      "Щебеньков Александр Викторович": 38,
-      "Щукин Геннадий Леонидович": 49
+      "gas:candidate-vibid:2752000880220": 125,
+      "gas:candidate-vibid:2752000858147": 230,
+      "gas:candidate-vibid:2752000883546": 26,
+      "gas:candidate-vibid:2752000880150": 95,
+      "gas:candidate-vibid:2752000881494": 37,
+      "gas:candidate-vibid:2752000883049": 38,
+      "gas:candidate-vibid:2752000881125": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824670&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824670&type=464",
@@ -11215,13 +11215,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 183,
-      "Кулиева Василина Васильевна": 265,
-      "Линник Игорь Юрьевич": 29,
-      "Попов Андрей Олегович": 129,
-      "Федоров Олег Анатольевич": 48,
-      "Щебеньков Александр Викторович": 40,
-      "Щукин Геннадий Леонидович": 40
+      "gas:candidate-vibid:2752000880220": 183,
+      "gas:candidate-vibid:2752000858147": 265,
+      "gas:candidate-vibid:2752000883546": 29,
+      "gas:candidate-vibid:2752000880150": 129,
+      "gas:candidate-vibid:2752000881494": 48,
+      "gas:candidate-vibid:2752000883049": 40,
+      "gas:candidate-vibid:2752000881125": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824670&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824670&type=464",
@@ -11272,13 +11272,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 182,
-      "Кулиева Василина Васильевна": 302,
-      "Линник Игорь Юрьевич": 26,
-      "Попов Андрей Олегович": 112,
-      "Федоров Олег Анатольевич": 47,
-      "Щебеньков Александр Викторович": 79,
-      "Щукин Геннадий Леонидович": 48
+      "gas:candidate-vibid:2752000880220": 182,
+      "gas:candidate-vibid:2752000858147": 302,
+      "gas:candidate-vibid:2752000883546": 26,
+      "gas:candidate-vibid:2752000880150": 112,
+      "gas:candidate-vibid:2752000881494": 47,
+      "gas:candidate-vibid:2752000883049": 79,
+      "gas:candidate-vibid:2752000881125": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824670&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824670&type=464",
@@ -11329,13 +11329,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 158,
-      "Кулиева Василина Васильевна": 264,
-      "Линник Игорь Юрьевич": 27,
-      "Попов Андрей Олегович": 125,
-      "Федоров Олег Анатольевич": 59,
-      "Щебеньков Александр Викторович": 50,
-      "Щукин Геннадий Леонидович": 37
+      "gas:candidate-vibid:2752000880220": 158,
+      "gas:candidate-vibid:2752000858147": 264,
+      "gas:candidate-vibid:2752000883546": 27,
+      "gas:candidate-vibid:2752000880150": 125,
+      "gas:candidate-vibid:2752000881494": 59,
+      "gas:candidate-vibid:2752000883049": 50,
+      "gas:candidate-vibid:2752000881125": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824670&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824670&type=464",
@@ -11386,13 +11386,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 127,
-      "Кулиева Василина Васильевна": 245,
-      "Линник Игорь Юрьевич": 21,
-      "Попов Андрей Олегович": 102,
-      "Федоров Олег Анатольевич": 29,
-      "Щебеньков Александр Викторович": 45,
-      "Щукин Геннадий Леонидович": 31
+      "gas:candidate-vibid:2752000880220": 127,
+      "gas:candidate-vibid:2752000858147": 245,
+      "gas:candidate-vibid:2752000883546": 21,
+      "gas:candidate-vibid:2752000880150": 102,
+      "gas:candidate-vibid:2752000881494": 29,
+      "gas:candidate-vibid:2752000883049": 45,
+      "gas:candidate-vibid:2752000881125": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824670&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824670&type=464",
@@ -11443,13 +11443,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 157,
-      "Кулиева Василина Васильевна": 264,
-      "Линник Игорь Юрьевич": 16,
-      "Попов Андрей Олегович": 85,
-      "Федоров Олег Анатольевич": 32,
-      "Щебеньков Александр Викторович": 36,
-      "Щукин Геннадий Леонидович": 36
+      "gas:candidate-vibid:2752000880220": 157,
+      "gas:candidate-vibid:2752000858147": 264,
+      "gas:candidate-vibid:2752000883546": 16,
+      "gas:candidate-vibid:2752000880150": 85,
+      "gas:candidate-vibid:2752000881494": 32,
+      "gas:candidate-vibid:2752000883049": 36,
+      "gas:candidate-vibid:2752000881125": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824670&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824670&type=464",
@@ -11500,13 +11500,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 127,
-      "Кулиева Василина Васильевна": 248,
-      "Линник Игорь Юрьевич": 20,
-      "Попов Андрей Олегович": 114,
-      "Федоров Олег Анатольевич": 34,
-      "Щебеньков Александр Викторович": 21,
-      "Щукин Геннадий Леонидович": 29
+      "gas:candidate-vibid:2752000880220": 127,
+      "gas:candidate-vibid:2752000858147": 248,
+      "gas:candidate-vibid:2752000883546": 20,
+      "gas:candidate-vibid:2752000880150": 114,
+      "gas:candidate-vibid:2752000881494": 34,
+      "gas:candidate-vibid:2752000883049": 21,
+      "gas:candidate-vibid:2752000881125": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824670&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824670&type=464",
@@ -11557,13 +11557,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 101,
-      "Кулиева Василина Васильевна": 215,
-      "Линник Игорь Юрьевич": 10,
-      "Попов Андрей Олегович": 57,
-      "Федоров Олег Анатольевич": 30,
-      "Щебеньков Александр Викторович": 23,
-      "Щукин Геннадий Леонидович": 28
+      "gas:candidate-vibid:2752000880220": 101,
+      "gas:candidate-vibid:2752000858147": 215,
+      "gas:candidate-vibid:2752000883546": 10,
+      "gas:candidate-vibid:2752000880150": 57,
+      "gas:candidate-vibid:2752000881494": 30,
+      "gas:candidate-vibid:2752000883049": 23,
+      "gas:candidate-vibid:2752000881125": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824670&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824670&type=464",
@@ -11614,13 +11614,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 115,
-      "Кулиева Василина Васильевна": 322,
-      "Линник Игорь Юрьевич": 16,
-      "Попов Андрей Олегович": 92,
-      "Федоров Олег Анатольевич": 25,
-      "Щебеньков Александр Викторович": 41,
-      "Щукин Геннадий Леонидович": 34
+      "gas:candidate-vibid:2752000880220": 115,
+      "gas:candidate-vibid:2752000858147": 322,
+      "gas:candidate-vibid:2752000883546": 16,
+      "gas:candidate-vibid:2752000880150": 92,
+      "gas:candidate-vibid:2752000881494": 25,
+      "gas:candidate-vibid:2752000883049": 41,
+      "gas:candidate-vibid:2752000881125": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824670&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824670&type=464",
@@ -11671,13 +11671,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 166,
-      "Кулиева Василина Васильевна": 471,
-      "Линник Игорь Юрьевич": 27,
-      "Попов Андрей Олегович": 113,
-      "Федоров Олег Анатольевич": 69,
-      "Щебеньков Александр Викторович": 72,
-      "Щукин Геннадий Леонидович": 75
+      "gas:candidate-vibid:2752000880220": 166,
+      "gas:candidate-vibid:2752000858147": 471,
+      "gas:candidate-vibid:2752000883546": 27,
+      "gas:candidate-vibid:2752000880150": 113,
+      "gas:candidate-vibid:2752000881494": 69,
+      "gas:candidate-vibid:2752000883049": 72,
+      "gas:candidate-vibid:2752000881125": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824670&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824670&type=464",
@@ -11728,13 +11728,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 120,
-      "Кулиева Василина Васильевна": 255,
-      "Линник Игорь Юрьевич": 13,
-      "Попов Андрей Олегович": 80,
-      "Федоров Олег Анатольевич": 41,
-      "Щебеньков Александр Викторович": 126,
-      "Щукин Геннадий Леонидович": 25
+      "gas:candidate-vibid:2752000880220": 120,
+      "gas:candidate-vibid:2752000858147": 255,
+      "gas:candidate-vibid:2752000883546": 13,
+      "gas:candidate-vibid:2752000880150": 80,
+      "gas:candidate-vibid:2752000881494": 41,
+      "gas:candidate-vibid:2752000883049": 126,
+      "gas:candidate-vibid:2752000881125": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824670&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824670&type=464",
@@ -11785,13 +11785,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 131,
-      "Кулиева Василина Васильевна": 307,
-      "Линник Игорь Юрьевич": 14,
-      "Попов Андрей Олегович": 78,
-      "Федоров Олег Анатольевич": 23,
-      "Щебеньков Александр Викторович": 162,
-      "Щукин Геннадий Леонидович": 33
+      "gas:candidate-vibid:2752000880220": 131,
+      "gas:candidate-vibid:2752000858147": 307,
+      "gas:candidate-vibid:2752000883546": 14,
+      "gas:candidate-vibid:2752000880150": 78,
+      "gas:candidate-vibid:2752000881494": 23,
+      "gas:candidate-vibid:2752000883049": 162,
+      "gas:candidate-vibid:2752000881125": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824670&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824670&type=464",
@@ -11842,13 +11842,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 85,
-      "Кулиева Василина Васильевна": 222,
-      "Линник Игорь Юрьевич": 12,
-      "Попов Андрей Олегович": 50,
-      "Федоров Олег Анатольевич": 26,
-      "Щебеньков Александр Викторович": 42,
-      "Щукин Геннадий Леонидович": 19
+      "gas:candidate-vibid:2752000880220": 85,
+      "gas:candidate-vibid:2752000858147": 222,
+      "gas:candidate-vibid:2752000883546": 12,
+      "gas:candidate-vibid:2752000880150": 50,
+      "gas:candidate-vibid:2752000881494": 26,
+      "gas:candidate-vibid:2752000883049": 42,
+      "gas:candidate-vibid:2752000881125": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824670&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824670&type=464",
@@ -11899,13 +11899,13 @@ export const duma_2016_uik_463_region_92_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гайдук Юрий Николаевич": 155,
-      "Кулиева Василина Васильевна": 289,
-      "Линник Игорь Юрьевич": 23,
-      "Попов Андрей Олегович": 140,
-      "Федоров Олег Анатольевич": 54,
-      "Щебеньков Александр Викторович": 44,
-      "Щукин Геннадий Леонидович": 44
+      "gas:candidate-vibid:2752000880220": 155,
+      "gas:candidate-vibid:2752000858147": 289,
+      "gas:candidate-vibid:2752000883546": 23,
+      "gas:candidate-vibid:2752000880150": 140,
+      "gas:candidate-vibid:2752000881494": 54,
+      "gas:candidate-vibid:2752000883049": 44,
+      "gas:candidate-vibid:2752000881125": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000304&tvd=2752000824670&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824670&type=464",

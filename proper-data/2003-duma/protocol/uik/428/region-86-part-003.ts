@@ -42,14 +42,14 @@ export const duma_2003_uik_428_region_86_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алитдинов Ярослав Андриянович": 37,
-      "Бидямшин Рашид Кешафович": 12,
-      "Кононов Виктор Васильевич": 94,
-      "Пимкин Вадим Валентинович": 54,
-      "Русанова Лидия Ивановна": 129,
-      "Сарычев Александр Викторович": 493,
-      "Смолин Владимир Васильевич": 81,
-      "Против всех": 300
+      "gas:candidate-vibid:386300266911": 37,
+      "gas:candidate-vibid:1001000202349": 12,
+      "gas:candidate-vibid:1001000121956": 94,
+      "gas:candidate-vibid:1001000114007": 54,
+      "gas:candidate-vibid:1001000195185": 129,
+      "gas:candidate-vibid:1001000226026": 493,
+      "gas:candidate-vibid:1001000136171": 81,
+      "special:against-all": 300
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066737&region=0&sub_region=0&type=429",
@@ -99,14 +99,14 @@ export const duma_2003_uik_428_region_86_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алитдинов Ярослав Андриянович": 36,
-      "Бидямшин Рашид Кешафович": 23,
-      "Кононов Виктор Васильевич": 72,
-      "Пимкин Вадим Валентинович": 39,
-      "Русанова Лидия Ивановна": 73,
-      "Сарычев Александр Викторович": 377,
-      "Смолин Владимир Васильевич": 57,
-      "Против всех": 210
+      "gas:candidate-vibid:386300266911": 36,
+      "gas:candidate-vibid:1001000202349": 23,
+      "gas:candidate-vibid:1001000121956": 72,
+      "gas:candidate-vibid:1001000114007": 39,
+      "gas:candidate-vibid:1001000195185": 73,
+      "gas:candidate-vibid:1001000226026": 377,
+      "gas:candidate-vibid:1001000136171": 57,
+      "special:against-all": 210
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066737&region=0&sub_region=0&type=429",
@@ -156,14 +156,14 @@ export const duma_2003_uik_428_region_86_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алитдинов Ярослав Андриянович": 29,
-      "Бидямшин Рашид Кешафович": 23,
-      "Кононов Виктор Васильевич": 75,
-      "Пимкин Вадим Валентинович": 31,
-      "Русанова Лидия Ивановна": 87,
-      "Сарычев Александр Викторович": 399,
-      "Смолин Владимир Васильевич": 78,
-      "Против всех": 224
+      "gas:candidate-vibid:386300266911": 29,
+      "gas:candidate-vibid:1001000202349": 23,
+      "gas:candidate-vibid:1001000121956": 75,
+      "gas:candidate-vibid:1001000114007": 31,
+      "gas:candidate-vibid:1001000195185": 87,
+      "gas:candidate-vibid:1001000226026": 399,
+      "gas:candidate-vibid:1001000136171": 78,
+      "special:against-all": 224
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066737&region=0&sub_region=0&type=429",
@@ -213,14 +213,14 @@ export const duma_2003_uik_428_region_86_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алитдинов Ярослав Андриянович": 26,
-      "Бидямшин Рашид Кешафович": 5,
-      "Кононов Виктор Васильевич": 16,
-      "Пимкин Вадим Валентинович": 39,
-      "Русанова Лидия Ивановна": 40,
-      "Сарычев Александр Викторович": 188,
-      "Смолин Владимир Васильевич": 19,
-      "Против всех": 178
+      "gas:candidate-vibid:386300266911": 26,
+      "gas:candidate-vibid:1001000202349": 5,
+      "gas:candidate-vibid:1001000121956": 16,
+      "gas:candidate-vibid:1001000114007": 39,
+      "gas:candidate-vibid:1001000195185": 40,
+      "gas:candidate-vibid:1001000226026": 188,
+      "gas:candidate-vibid:1001000136171": 19,
+      "special:against-all": 178
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066737&region=0&sub_region=0&type=429",
@@ -270,14 +270,14 @@ export const duma_2003_uik_428_region_86_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алитдинов Ярослав Андриянович": 45,
-      "Бидямшин Рашид Кешафович": 32,
-      "Кононов Виктор Васильевич": 89,
-      "Пимкин Вадим Валентинович": 45,
-      "Русанова Лидия Ивановна": 102,
-      "Сарычев Александр Викторович": 548,
-      "Смолин Владимир Васильевич": 74,
-      "Против всех": 245
+      "gas:candidate-vibid:386300266911": 45,
+      "gas:candidate-vibid:1001000202349": 32,
+      "gas:candidate-vibid:1001000121956": 89,
+      "gas:candidate-vibid:1001000114007": 45,
+      "gas:candidate-vibid:1001000195185": 102,
+      "gas:candidate-vibid:1001000226026": 548,
+      "gas:candidate-vibid:1001000136171": 74,
+      "special:against-all": 245
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066738&region=0&sub_region=0&type=429",
@@ -327,14 +327,14 @@ export const duma_2003_uik_428_region_86_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алитдинов Ярослав Андриянович": 27,
-      "Бидямшин Рашид Кешафович": 12,
-      "Кононов Виктор Васильевич": 78,
-      "Пимкин Вадим Валентинович": 28,
-      "Русанова Лидия Ивановна": 120,
-      "Сарычев Александр Викторович": 492,
-      "Смолин Владимир Васильевич": 83,
-      "Против всех": 200
+      "gas:candidate-vibid:386300266911": 27,
+      "gas:candidate-vibid:1001000202349": 12,
+      "gas:candidate-vibid:1001000121956": 78,
+      "gas:candidate-vibid:1001000114007": 28,
+      "gas:candidate-vibid:1001000195185": 120,
+      "gas:candidate-vibid:1001000226026": 492,
+      "gas:candidate-vibid:1001000136171": 83,
+      "special:against-all": 200
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066738&region=0&sub_region=0&type=429",
@@ -384,14 +384,14 @@ export const duma_2003_uik_428_region_86_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алитдинов Ярослав Андриянович": 56,
-      "Бидямшин Рашид Кешафович": 18,
-      "Кононов Виктор Васильевич": 72,
-      "Пимкин Вадим Валентинович": 98,
-      "Русанова Лидия Ивановна": 130,
-      "Сарычев Александр Викторович": 953,
-      "Смолин Владимир Васильевич": 66,
-      "Против всех": 333
+      "gas:candidate-vibid:386300266911": 56,
+      "gas:candidate-vibid:1001000202349": 18,
+      "gas:candidate-vibid:1001000121956": 72,
+      "gas:candidate-vibid:1001000114007": 98,
+      "gas:candidate-vibid:1001000195185": 130,
+      "gas:candidate-vibid:1001000226026": 953,
+      "gas:candidate-vibid:1001000136171": 66,
+      "special:against-all": 333
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066738&region=0&sub_region=0&type=429",
@@ -441,14 +441,14 @@ export const duma_2003_uik_428_region_86_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алитдинов Ярослав Андриянович": 39,
-      "Бидямшин Рашид Кешафович": 13,
-      "Кононов Виктор Васильевич": 65,
-      "Пимкин Вадим Валентинович": 54,
-      "Русанова Лидия Ивановна": 122,
-      "Сарычев Александр Викторович": 584,
-      "Смолин Владимир Васильевич": 60,
-      "Против всех": 206
+      "gas:candidate-vibid:386300266911": 39,
+      "gas:candidate-vibid:1001000202349": 13,
+      "gas:candidate-vibid:1001000121956": 65,
+      "gas:candidate-vibid:1001000114007": 54,
+      "gas:candidate-vibid:1001000195185": 122,
+      "gas:candidate-vibid:1001000226026": 584,
+      "gas:candidate-vibid:1001000136171": 60,
+      "special:against-all": 206
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066738&region=0&sub_region=0&type=429",
@@ -498,14 +498,14 @@ export const duma_2003_uik_428_region_86_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алитдинов Ярослав Андриянович": 30,
-      "Бидямшин Рашид Кешафович": 15,
-      "Кононов Виктор Васильевич": 67,
-      "Пимкин Вадим Валентинович": 44,
-      "Русанова Лидия Ивановна": 86,
-      "Сарычев Александр Викторович": 593,
-      "Смолин Владимир Васильевич": 47,
-      "Против всех": 222
+      "gas:candidate-vibid:386300266911": 30,
+      "gas:candidate-vibid:1001000202349": 15,
+      "gas:candidate-vibid:1001000121956": 67,
+      "gas:candidate-vibid:1001000114007": 44,
+      "gas:candidate-vibid:1001000195185": 86,
+      "gas:candidate-vibid:1001000226026": 593,
+      "gas:candidate-vibid:1001000136171": 47,
+      "special:against-all": 222
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066738&region=0&sub_region=0&type=429",
@@ -555,14 +555,14 @@ export const duma_2003_uik_428_region_86_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алитдинов Ярослав Андриянович": 42,
-      "Бидямшин Рашид Кешафович": 10,
-      "Кононов Виктор Васильевич": 77,
-      "Пимкин Вадим Валентинович": 57,
-      "Русанова Лидия Ивановна": 112,
-      "Сарычев Александр Викторович": 553,
-      "Смолин Владимир Васильевич": 81,
-      "Против всех": 260
+      "gas:candidate-vibid:386300266911": 42,
+      "gas:candidate-vibid:1001000202349": 10,
+      "gas:candidate-vibid:1001000121956": 77,
+      "gas:candidate-vibid:1001000114007": 57,
+      "gas:candidate-vibid:1001000195185": 112,
+      "gas:candidate-vibid:1001000226026": 553,
+      "gas:candidate-vibid:1001000136171": 81,
+      "special:against-all": 260
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066738&region=0&sub_region=0&type=429",
@@ -612,14 +612,14 @@ export const duma_2003_uik_428_region_86_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алитдинов Ярослав Андриянович": 37,
-      "Бидямшин Рашид Кешафович": 13,
-      "Кононов Виктор Васильевич": 68,
-      "Пимкин Вадим Валентинович": 44,
-      "Русанова Лидия Ивановна": 89,
-      "Сарычев Александр Викторович": 422,
-      "Смолин Владимир Васильевич": 70,
-      "Против всех": 212
+      "gas:candidate-vibid:386300266911": 37,
+      "gas:candidate-vibid:1001000202349": 13,
+      "gas:candidate-vibid:1001000121956": 68,
+      "gas:candidate-vibid:1001000114007": 44,
+      "gas:candidate-vibid:1001000195185": 89,
+      "gas:candidate-vibid:1001000226026": 422,
+      "gas:candidate-vibid:1001000136171": 70,
+      "special:against-all": 212
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066738&region=0&sub_region=0&type=429",
@@ -669,14 +669,14 @@ export const duma_2003_uik_428_region_86_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алитдинов Ярослав Андриянович": 26,
-      "Бидямшин Рашид Кешафович": 7,
-      "Кононов Виктор Васильевич": 64,
-      "Пимкин Вадим Валентинович": 29,
-      "Русанова Лидия Ивановна": 103,
-      "Сарычев Александр Викторович": 562,
-      "Смолин Владимир Васильевич": 65,
-      "Против всех": 240
+      "gas:candidate-vibid:386300266911": 26,
+      "gas:candidate-vibid:1001000202349": 7,
+      "gas:candidate-vibid:1001000121956": 64,
+      "gas:candidate-vibid:1001000114007": 29,
+      "gas:candidate-vibid:1001000195185": 103,
+      "gas:candidate-vibid:1001000226026": 562,
+      "gas:candidate-vibid:1001000136171": 65,
+      "special:against-all": 240
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066738&region=0&sub_region=0&type=429",
@@ -726,14 +726,14 @@ export const duma_2003_uik_428_region_86_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алитдинов Ярослав Андриянович": 53,
-      "Бидямшин Рашид Кешафович": 20,
-      "Кононов Виктор Васильевич": 101,
-      "Пимкин Вадим Валентинович": 36,
-      "Русанова Лидия Ивановна": 77,
-      "Сарычев Александр Викторович": 494,
-      "Смолин Владимир Васильевич": 76,
-      "Против всех": 174
+      "gas:candidate-vibid:386300266911": 53,
+      "gas:candidate-vibid:1001000202349": 20,
+      "gas:candidate-vibid:1001000121956": 101,
+      "gas:candidate-vibid:1001000114007": 36,
+      "gas:candidate-vibid:1001000195185": 77,
+      "gas:candidate-vibid:1001000226026": 494,
+      "gas:candidate-vibid:1001000136171": 76,
+      "special:against-all": 174
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066738&region=0&sub_region=0&type=429",
@@ -783,14 +783,14 @@ export const duma_2003_uik_428_region_86_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алитдинов Ярослав Андриянович": 46,
-      "Бидямшин Рашид Кешафович": 19,
-      "Кононов Виктор Васильевич": 84,
-      "Пимкин Вадим Валентинович": 39,
-      "Русанова Лидия Ивановна": 138,
-      "Сарычев Александр Викторович": 441,
-      "Смолин Владимир Васильевич": 96,
-      "Против всех": 226
+      "gas:candidate-vibid:386300266911": 46,
+      "gas:candidate-vibid:1001000202349": 19,
+      "gas:candidate-vibid:1001000121956": 84,
+      "gas:candidate-vibid:1001000114007": 39,
+      "gas:candidate-vibid:1001000195185": 138,
+      "gas:candidate-vibid:1001000226026": 441,
+      "gas:candidate-vibid:1001000136171": 96,
+      "special:against-all": 226
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066738&region=0&sub_region=0&type=429",
@@ -840,14 +840,14 @@ export const duma_2003_uik_428_region_86_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алитдинов Ярослав Андриянович": 16,
-      "Бидямшин Рашид Кешафович": 3,
-      "Кононов Виктор Васильевич": 26,
-      "Пимкин Вадим Валентинович": 22,
-      "Русанова Лидия Ивановна": 47,
-      "Сарычев Александр Викторович": 385,
-      "Смолин Владимир Васильевич": 29,
-      "Против всех": 127
+      "gas:candidate-vibid:386300266911": 16,
+      "gas:candidate-vibid:1001000202349": 3,
+      "gas:candidate-vibid:1001000121956": 26,
+      "gas:candidate-vibid:1001000114007": 22,
+      "gas:candidate-vibid:1001000195185": 47,
+      "gas:candidate-vibid:1001000226026": 385,
+      "gas:candidate-vibid:1001000136171": 29,
+      "special:against-all": 127
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066738&region=0&sub_region=0&type=429",
@@ -897,14 +897,14 @@ export const duma_2003_uik_428_region_86_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алитдинов Ярослав Андриянович": 30,
-      "Бидямшин Рашид Кешафович": 20,
-      "Кононов Виктор Васильевич": 115,
-      "Пимкин Вадим Валентинович": 15,
-      "Русанова Лидия Ивановна": 124,
-      "Сарычев Александр Викторович": 693,
-      "Смолин Владимир Васильевич": 98,
-      "Против всех": 296
+      "gas:candidate-vibid:386300266911": 30,
+      "gas:candidate-vibid:1001000202349": 20,
+      "gas:candidate-vibid:1001000121956": 115,
+      "gas:candidate-vibid:1001000114007": 15,
+      "gas:candidate-vibid:1001000195185": 124,
+      "gas:candidate-vibid:1001000226026": 693,
+      "gas:candidate-vibid:1001000136171": 98,
+      "special:against-all": 296
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=863002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=386300267050&region=0&sub_region=0&type=429",
@@ -954,14 +954,14 @@ export const duma_2003_uik_428_region_86_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алитдинов Ярослав Андриянович": 8,
-      "Бидямшин Рашид Кешафович": 3,
-      "Кононов Виктор Васильевич": 35,
-      "Пимкин Вадим Валентинович": 2,
-      "Русанова Лидия Ивановна": 54,
-      "Сарычев Александр Викторович": 289,
-      "Смолин Владимир Васильевич": 21,
-      "Против всех": 81
+      "gas:candidate-vibid:386300266911": 8,
+      "gas:candidate-vibid:1001000202349": 3,
+      "gas:candidate-vibid:1001000121956": 35,
+      "gas:candidate-vibid:1001000114007": 2,
+      "gas:candidate-vibid:1001000195185": 54,
+      "gas:candidate-vibid:1001000226026": 289,
+      "gas:candidate-vibid:1001000136171": 21,
+      "special:against-all": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=863002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=386300267050&region=0&sub_region=0&type=429",
@@ -1011,14 +1011,14 @@ export const duma_2003_uik_428_region_86_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алитдинов Ярослав Андриянович": 12,
-      "Бидямшин Рашид Кешафович": 5,
-      "Кононов Виктор Васильевич": 36,
-      "Пимкин Вадим Валентинович": 10,
-      "Русанова Лидия Ивановна": 51,
-      "Сарычев Александр Викторович": 355,
-      "Смолин Владимир Васильевич": 44,
-      "Против всех": 100
+      "gas:candidate-vibid:386300266911": 12,
+      "gas:candidate-vibid:1001000202349": 5,
+      "gas:candidate-vibid:1001000121956": 36,
+      "gas:candidate-vibid:1001000114007": 10,
+      "gas:candidate-vibid:1001000195185": 51,
+      "gas:candidate-vibid:1001000226026": 355,
+      "gas:candidate-vibid:1001000136171": 44,
+      "special:against-all": 100
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=863002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=386300267050&region=0&sub_region=0&type=429",
@@ -1068,14 +1068,14 @@ export const duma_2003_uik_428_region_86_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алитдинов Ярослав Андриянович": 5,
-      "Бидямшин Рашид Кешафович": 11,
-      "Кононов Виктор Васильевич": 57,
-      "Пимкин Вадим Валентинович": 4,
-      "Русанова Лидия Ивановна": 37,
-      "Сарычев Александр Викторович": 307,
-      "Смолин Владимир Васильевич": 41,
-      "Против всех": 118
+      "gas:candidate-vibid:386300266911": 5,
+      "gas:candidate-vibid:1001000202349": 11,
+      "gas:candidate-vibid:1001000121956": 57,
+      "gas:candidate-vibid:1001000114007": 4,
+      "gas:candidate-vibid:1001000195185": 37,
+      "gas:candidate-vibid:1001000226026": 307,
+      "gas:candidate-vibid:1001000136171": 41,
+      "special:against-all": 118
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=863002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=386300267050&region=0&sub_region=0&type=429",
@@ -1125,14 +1125,14 @@ export const duma_2003_uik_428_region_86_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алитдинов Ярослав Андриянович": 5,
-      "Бидямшин Рашид Кешафович": 6,
-      "Кононов Виктор Васильевич": 32,
-      "Пимкин Вадим Валентинович": 10,
-      "Русанова Лидия Ивановна": 41,
-      "Сарычев Александр Викторович": 376,
-      "Смолин Владимир Васильевич": 23,
-      "Против всех": 108
+      "gas:candidate-vibid:386300266911": 5,
+      "gas:candidate-vibid:1001000202349": 6,
+      "gas:candidate-vibid:1001000121956": 32,
+      "gas:candidate-vibid:1001000114007": 10,
+      "gas:candidate-vibid:1001000195185": 41,
+      "gas:candidate-vibid:1001000226026": 376,
+      "gas:candidate-vibid:1001000136171": 23,
+      "special:against-all": 108
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=863002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=386300267050&region=0&sub_region=0&type=429",
@@ -1182,14 +1182,14 @@ export const duma_2003_uik_428_region_86_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алитдинов Ярослав Андриянович": 7,
-      "Бидямшин Рашид Кешафович": 16,
-      "Кононов Виктор Васильевич": 30,
-      "Пимкин Вадим Валентинович": 7,
-      "Русанова Лидия Ивановна": 40,
-      "Сарычев Александр Викторович": 327,
-      "Смолин Владимир Васильевич": 36,
-      "Против всех": 93
+      "gas:candidate-vibid:386300266911": 7,
+      "gas:candidate-vibid:1001000202349": 16,
+      "gas:candidate-vibid:1001000121956": 30,
+      "gas:candidate-vibid:1001000114007": 7,
+      "gas:candidate-vibid:1001000195185": 40,
+      "gas:candidate-vibid:1001000226026": 327,
+      "gas:candidate-vibid:1001000136171": 36,
+      "special:against-all": 93
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=863002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=386300267050&region=0&sub_region=0&type=429",
@@ -1239,14 +1239,14 @@ export const duma_2003_uik_428_region_86_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алитдинов Ярослав Андриянович": 0,
-      "Бидямшин Рашид Кешафович": 4,
-      "Кононов Виктор Васильевич": 12,
-      "Пимкин Вадим Валентинович": 1,
-      "Русанова Лидия Ивановна": 12,
-      "Сарычев Александр Викторович": 104,
-      "Смолин Владимир Васильевич": 9,
-      "Против всех": 22
+      "gas:candidate-vibid:386300266911": 0,
+      "gas:candidate-vibid:1001000202349": 4,
+      "gas:candidate-vibid:1001000121956": 12,
+      "gas:candidate-vibid:1001000114007": 1,
+      "gas:candidate-vibid:1001000195185": 12,
+      "gas:candidate-vibid:1001000226026": 104,
+      "gas:candidate-vibid:1001000136171": 9,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=863002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=386300267050&region=0&sub_region=0&type=429",
@@ -1296,14 +1296,14 @@ export const duma_2003_uik_428_region_86_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алитдинов Ярослав Андриянович": 10,
-      "Бидямшин Рашид Кешафович": 11,
-      "Кононов Виктор Васильевич": 62,
-      "Пимкин Вадим Валентинович": 10,
-      "Русанова Лидия Ивановна": 58,
-      "Сарычев Александр Викторович": 362,
-      "Смолин Владимир Васильевич": 30,
-      "Против всех": 89
+      "gas:candidate-vibid:386300266911": 10,
+      "gas:candidate-vibid:1001000202349": 11,
+      "gas:candidate-vibid:1001000121956": 62,
+      "gas:candidate-vibid:1001000114007": 10,
+      "gas:candidate-vibid:1001000195185": 58,
+      "gas:candidate-vibid:1001000226026": 362,
+      "gas:candidate-vibid:1001000136171": 30,
+      "special:against-all": 89
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=863002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=386300267050&region=0&sub_region=0&type=429",
@@ -1353,14 +1353,14 @@ export const duma_2003_uik_428_region_86_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алитдинов Ярослав Андриянович": 4,
-      "Бидямшин Рашид Кешафович": 8,
-      "Кононов Виктор Васильевич": 42,
-      "Пимкин Вадим Валентинович": 2,
-      "Русанова Лидия Ивановна": 40,
-      "Сарычев Александр Викторович": 341,
-      "Смолин Владимир Васильевич": 47,
-      "Против всех": 122
+      "gas:candidate-vibid:386300266911": 4,
+      "gas:candidate-vibid:1001000202349": 8,
+      "gas:candidate-vibid:1001000121956": 42,
+      "gas:candidate-vibid:1001000114007": 2,
+      "gas:candidate-vibid:1001000195185": 40,
+      "gas:candidate-vibid:1001000226026": 341,
+      "gas:candidate-vibid:1001000136171": 47,
+      "special:against-all": 122
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=863002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=386300267050&region=0&sub_region=0&type=429",
@@ -1410,14 +1410,14 @@ export const duma_2003_uik_428_region_86_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алитдинов Ярослав Андриянович": 10,
-      "Бидямшин Рашид Кешафович": 27,
-      "Кононов Виктор Васильевич": 54,
-      "Пимкин Вадим Валентинович": 4,
-      "Русанова Лидия Ивановна": 69,
-      "Сарычев Александр Викторович": 611,
-      "Смолин Владимир Васильевич": 41,
-      "Против всех": 102
+      "gas:candidate-vibid:386300266911": 10,
+      "gas:candidate-vibid:1001000202349": 27,
+      "gas:candidate-vibid:1001000121956": 54,
+      "gas:candidate-vibid:1001000114007": 4,
+      "gas:candidate-vibid:1001000195185": 69,
+      "gas:candidate-vibid:1001000226026": 611,
+      "gas:candidate-vibid:1001000136171": 41,
+      "special:against-all": 102
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=863002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=386300267050&region=0&sub_region=0&type=429",
@@ -1467,14 +1467,14 @@ export const duma_2003_uik_428_region_86_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алитдинов Ярослав Андриянович": 10,
-      "Бидямшин Рашид Кешафович": 22,
-      "Кононов Виктор Васильевич": 69,
-      "Пимкин Вадим Валентинович": 5,
-      "Русанова Лидия Ивановна": 71,
-      "Сарычев Александр Викторович": 681,
-      "Смолин Владимир Васильевич": 52,
-      "Против всех": 140
+      "gas:candidate-vibid:386300266911": 10,
+      "gas:candidate-vibid:1001000202349": 22,
+      "gas:candidate-vibid:1001000121956": 69,
+      "gas:candidate-vibid:1001000114007": 5,
+      "gas:candidate-vibid:1001000195185": 71,
+      "gas:candidate-vibid:1001000226026": 681,
+      "gas:candidate-vibid:1001000136171": 52,
+      "special:against-all": 140
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=863002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=386300267050&region=0&sub_region=0&type=429",
@@ -1524,14 +1524,14 @@ export const duma_2003_uik_428_region_86_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алитдинов Ярослав Андриянович": 10,
-      "Бидямшин Рашид Кешафович": 12,
-      "Кононов Виктор Васильевич": 75,
-      "Пимкин Вадим Валентинович": 4,
-      "Русанова Лидия Ивановна": 70,
-      "Сарычев Александр Викторович": 701,
-      "Смолин Владимир Васильевич": 58,
-      "Против всех": 122
+      "gas:candidate-vibid:386300266911": 10,
+      "gas:candidate-vibid:1001000202349": 12,
+      "gas:candidate-vibid:1001000121956": 75,
+      "gas:candidate-vibid:1001000114007": 4,
+      "gas:candidate-vibid:1001000195185": 70,
+      "gas:candidate-vibid:1001000226026": 701,
+      "gas:candidate-vibid:1001000136171": 58,
+      "special:against-all": 122
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=863002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=386300267050&region=0&sub_region=0&type=429",
@@ -1581,14 +1581,14 @@ export const duma_2003_uik_428_region_86_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алитдинов Ярослав Андриянович": 23,
-      "Бидямшин Рашид Кешафович": 28,
-      "Кононов Виктор Васильевич": 116,
-      "Пимкин Вадим Валентинович": 8,
-      "Русанова Лидия Ивановна": 101,
-      "Сарычев Александр Викторович": 1021,
-      "Смолин Владимир Васильевич": 74,
-      "Против всех": 162
+      "gas:candidate-vibid:386300266911": 23,
+      "gas:candidate-vibid:1001000202349": 28,
+      "gas:candidate-vibid:1001000121956": 116,
+      "gas:candidate-vibid:1001000114007": 8,
+      "gas:candidate-vibid:1001000195185": 101,
+      "gas:candidate-vibid:1001000226026": 1021,
+      "gas:candidate-vibid:1001000136171": 74,
+      "special:against-all": 162
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=863002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=386300267050&region=0&sub_region=0&type=429",
@@ -1638,14 +1638,14 @@ export const duma_2003_uik_428_region_86_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алитдинов Ярослав Андриянович": 5,
-      "Бидямшин Рашид Кешафович": 24,
-      "Кононов Виктор Васильевич": 61,
-      "Пимкин Вадим Валентинович": 14,
-      "Русанова Лидия Ивановна": 68,
-      "Сарычев Александр Викторович": 768,
-      "Смолин Владимир Васильевич": 47,
-      "Против всех": 118
+      "gas:candidate-vibid:386300266911": 5,
+      "gas:candidate-vibid:1001000202349": 24,
+      "gas:candidate-vibid:1001000121956": 61,
+      "gas:candidate-vibid:1001000114007": 14,
+      "gas:candidate-vibid:1001000195185": 68,
+      "gas:candidate-vibid:1001000226026": 768,
+      "gas:candidate-vibid:1001000136171": 47,
+      "special:against-all": 118
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=863002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=386300267050&region=0&sub_region=0&type=429",
@@ -1695,14 +1695,14 @@ export const duma_2003_uik_428_region_86_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алитдинов Ярослав Андриянович": 14,
-      "Бидямшин Рашид Кешафович": 14,
-      "Кононов Виктор Васильевич": 83,
-      "Пимкин Вадим Валентинович": 6,
-      "Русанова Лидия Ивановна": 91,
-      "Сарычев Александр Викторович": 843,
-      "Смолин Владимир Васильевич": 49,
-      "Против всех": 151
+      "gas:candidate-vibid:386300266911": 14,
+      "gas:candidate-vibid:1001000202349": 14,
+      "gas:candidate-vibid:1001000121956": 83,
+      "gas:candidate-vibid:1001000114007": 6,
+      "gas:candidate-vibid:1001000195185": 91,
+      "gas:candidate-vibid:1001000226026": 843,
+      "gas:candidate-vibid:1001000136171": 49,
+      "special:against-all": 151
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=863002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=386300267050&region=0&sub_region=0&type=429",
@@ -1752,14 +1752,14 @@ export const duma_2003_uik_428_region_86_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алитдинов Ярослав Андриянович": 16,
-      "Бидямшин Рашид Кешафович": 6,
-      "Кононов Виктор Васильевич": 39,
-      "Пимкин Вадим Валентинович": 3,
-      "Русанова Лидия Ивановна": 36,
-      "Сарычев Александр Викторович": 478,
-      "Смолин Владимир Васильевич": 32,
-      "Против всех": 96
+      "gas:candidate-vibid:386300266911": 16,
+      "gas:candidate-vibid:1001000202349": 6,
+      "gas:candidate-vibid:1001000121956": 39,
+      "gas:candidate-vibid:1001000114007": 3,
+      "gas:candidate-vibid:1001000195185": 36,
+      "gas:candidate-vibid:1001000226026": 478,
+      "gas:candidate-vibid:1001000136171": 32,
+      "special:against-all": 96
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=863002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=386300267050&region=0&sub_region=0&type=429",
@@ -1809,14 +1809,14 @@ export const duma_2003_uik_428_region_86_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алитдинов Ярослав Андриянович": 0,
-      "Бидямшин Рашид Кешафович": 1,
-      "Кононов Виктор Васильевич": 2,
-      "Пимкин Вадим Валентинович": 0,
-      "Русанова Лидия Ивановна": 1,
-      "Сарычев Александр Викторович": 64,
-      "Смолин Владимир Васильевич": 5,
-      "Против всех": 8
+      "gas:candidate-vibid:386300266911": 0,
+      "gas:candidate-vibid:1001000202349": 1,
+      "gas:candidate-vibid:1001000121956": 2,
+      "gas:candidate-vibid:1001000114007": 0,
+      "gas:candidate-vibid:1001000195185": 1,
+      "gas:candidate-vibid:1001000226026": 64,
+      "gas:candidate-vibid:1001000136171": 5,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=863002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=386300267050&region=0&sub_region=0&type=429",
@@ -1866,14 +1866,14 @@ export const duma_2003_uik_428_region_86_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алитдинов Ярослав Андриянович": 3,
-      "Бидямшин Рашид Кешафович": 2,
-      "Кононов Виктор Васильевич": 17,
-      "Пимкин Вадим Валентинович": 3,
-      "Русанова Лидия Ивановна": 5,
-      "Сарычев Александр Викторович": 423,
-      "Смолин Владимир Васильевич": 10,
-      "Против всех": 35
+      "gas:candidate-vibid:386300266911": 3,
+      "gas:candidate-vibid:1001000202349": 2,
+      "gas:candidate-vibid:1001000121956": 17,
+      "gas:candidate-vibid:1001000114007": 3,
+      "gas:candidate-vibid:1001000195185": 5,
+      "gas:candidate-vibid:1001000226026": 423,
+      "gas:candidate-vibid:1001000136171": 10,
+      "special:against-all": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=863002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=386300267050&region=0&sub_region=0&type=429",
@@ -1923,14 +1923,14 @@ export const duma_2003_uik_428_region_86_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алитдинов Ярослав Андриянович": 40,
-      "Бидямшин Рашид Кешафович": 32,
-      "Кононов Виктор Васильевич": 151,
-      "Пимкин Вадим Валентинович": 21,
-      "Русанова Лидия Ивановна": 135,
-      "Сарычев Александр Викторович": 1114,
-      "Смолин Владимир Васильевич": 101,
-      "Против всех": 191
+      "gas:candidate-vibid:386300266911": 40,
+      "gas:candidate-vibid:1001000202349": 32,
+      "gas:candidate-vibid:1001000121956": 151,
+      "gas:candidate-vibid:1001000114007": 21,
+      "gas:candidate-vibid:1001000195185": 135,
+      "gas:candidate-vibid:1001000226026": 1114,
+      "gas:candidate-vibid:1001000136171": 101,
+      "special:against-all": 191
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=863002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=386300267050&region=0&sub_region=0&type=429",
@@ -1980,14 +1980,14 @@ export const duma_2003_uik_428_region_86_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алитдинов Ярослав Андриянович": 24,
-      "Бидямшин Рашид Кешафович": 36,
-      "Кононов Виктор Васильевич": 117,
-      "Пимкин Вадим Валентинович": 13,
-      "Русанова Лидия Ивановна": 100,
-      "Сарычев Александр Викторович": 709,
-      "Смолин Владимир Васильевич": 127,
-      "Против всех": 141
+      "gas:candidate-vibid:386300266911": 24,
+      "gas:candidate-vibid:1001000202349": 36,
+      "gas:candidate-vibid:1001000121956": 117,
+      "gas:candidate-vibid:1001000114007": 13,
+      "gas:candidate-vibid:1001000195185": 100,
+      "gas:candidate-vibid:1001000226026": 709,
+      "gas:candidate-vibid:1001000136171": 127,
+      "special:against-all": 141
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=863002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=386300267050&region=0&sub_region=0&type=429",
@@ -2037,14 +2037,14 @@ export const duma_2003_uik_428_region_86_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алитдинов Ярослав Андриянович": 24,
-      "Бидямшин Рашид Кешафович": 19,
-      "Кононов Виктор Васильевич": 94,
-      "Пимкин Вадим Валентинович": 21,
-      "Русанова Лидия Ивановна": 54,
-      "Сарычев Александр Викторович": 724,
-      "Смолин Владимир Васильевич": 78,
-      "Против всех": 134
+      "gas:candidate-vibid:386300266911": 24,
+      "gas:candidate-vibid:1001000202349": 19,
+      "gas:candidate-vibid:1001000121956": 94,
+      "gas:candidate-vibid:1001000114007": 21,
+      "gas:candidate-vibid:1001000195185": 54,
+      "gas:candidate-vibid:1001000226026": 724,
+      "gas:candidate-vibid:1001000136171": 78,
+      "special:against-all": 134
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=863002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=386300267050&region=0&sub_region=0&type=429",
@@ -2094,14 +2094,14 @@ export const duma_2003_uik_428_region_86_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алитдинов Ярослав Андриянович": 14,
-      "Бидямшин Рашид Кешафович": 23,
-      "Кононов Виктор Васильевич": 46,
-      "Пимкин Вадим Валентинович": 12,
-      "Русанова Лидия Ивановна": 42,
-      "Сарычев Александр Викторович": 367,
-      "Смолин Владимир Васильевич": 45,
-      "Против всех": 92
+      "gas:candidate-vibid:386300266911": 14,
+      "gas:candidate-vibid:1001000202349": 23,
+      "gas:candidate-vibid:1001000121956": 46,
+      "gas:candidate-vibid:1001000114007": 12,
+      "gas:candidate-vibid:1001000195185": 42,
+      "gas:candidate-vibid:1001000226026": 367,
+      "gas:candidate-vibid:1001000136171": 45,
+      "special:against-all": 92
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=863002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=386300267050&region=0&sub_region=0&type=429",
@@ -2151,14 +2151,14 @@ export const duma_2003_uik_428_region_86_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алитдинов Ярослав Андриянович": 20,
-      "Бидямшин Рашид Кешафович": 19,
-      "Кононов Виктор Васильевич": 49,
-      "Пимкин Вадим Валентинович": 9,
-      "Русанова Лидия Ивановна": 59,
-      "Сарычев Александр Викторович": 557,
-      "Смолин Владимир Васильевич": 47,
-      "Против всех": 143
+      "gas:candidate-vibid:386300266911": 20,
+      "gas:candidate-vibid:1001000202349": 19,
+      "gas:candidate-vibid:1001000121956": 49,
+      "gas:candidate-vibid:1001000114007": 9,
+      "gas:candidate-vibid:1001000195185": 59,
+      "gas:candidate-vibid:1001000226026": 557,
+      "gas:candidate-vibid:1001000136171": 47,
+      "special:against-all": 143
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=863002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=386300267050&region=0&sub_region=0&type=429",
@@ -2208,14 +2208,14 @@ export const duma_2003_uik_428_region_86_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алитдинов Ярослав Андриянович": 14,
-      "Бидямшин Рашид Кешафович": 12,
-      "Кононов Виктор Васильевич": 52,
-      "Пимкин Вадим Валентинович": 11,
-      "Русанова Лидия Ивановна": 41,
-      "Сарычев Александр Викторович": 332,
-      "Смолин Владимир Васильевич": 39,
-      "Против всех": 85
+      "gas:candidate-vibid:386300266911": 14,
+      "gas:candidate-vibid:1001000202349": 12,
+      "gas:candidate-vibid:1001000121956": 52,
+      "gas:candidate-vibid:1001000114007": 11,
+      "gas:candidate-vibid:1001000195185": 41,
+      "gas:candidate-vibid:1001000226026": 332,
+      "gas:candidate-vibid:1001000136171": 39,
+      "special:against-all": 85
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=863002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=386300267050&region=0&sub_region=0&type=429",
@@ -2265,14 +2265,14 @@ export const duma_2003_uik_428_region_86_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алитдинов Ярослав Андриянович": 22,
-      "Бидямшин Рашид Кешафович": 16,
-      "Кононов Виктор Васильевич": 72,
-      "Пимкин Вадим Валентинович": 23,
-      "Русанова Лидия Ивановна": 74,
-      "Сарычев Александр Викторович": 699,
-      "Смолин Владимир Васильевич": 78,
-      "Против всех": 147
+      "gas:candidate-vibid:386300266911": 22,
+      "gas:candidate-vibid:1001000202349": 16,
+      "gas:candidate-vibid:1001000121956": 72,
+      "gas:candidate-vibid:1001000114007": 23,
+      "gas:candidate-vibid:1001000195185": 74,
+      "gas:candidate-vibid:1001000226026": 699,
+      "gas:candidate-vibid:1001000136171": 78,
+      "special:against-all": 147
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=863002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=386300267050&region=0&sub_region=0&type=429",
@@ -2322,14 +2322,14 @@ export const duma_2003_uik_428_region_86_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алитдинов Ярослав Андриянович": 21,
-      "Бидямшин Рашид Кешафович": 24,
-      "Кононов Виктор Васильевич": 59,
-      "Пимкин Вадим Валентинович": 15,
-      "Русанова Лидия Ивановна": 66,
-      "Сарычев Александр Викторович": 661,
-      "Смолин Владимир Васильевич": 71,
-      "Против всех": 125
+      "gas:candidate-vibid:386300266911": 21,
+      "gas:candidate-vibid:1001000202349": 24,
+      "gas:candidate-vibid:1001000121956": 59,
+      "gas:candidate-vibid:1001000114007": 15,
+      "gas:candidate-vibid:1001000195185": 66,
+      "gas:candidate-vibid:1001000226026": 661,
+      "gas:candidate-vibid:1001000136171": 71,
+      "special:against-all": 125
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=863002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=386300267050&region=0&sub_region=0&type=429",
@@ -2379,14 +2379,14 @@ export const duma_2003_uik_428_region_86_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алитдинов Ярослав Андриянович": 19,
-      "Бидямшин Рашид Кешафович": 17,
-      "Кононов Виктор Васильевич": 49,
-      "Пимкин Вадим Валентинович": 10,
-      "Русанова Лидия Ивановна": 88,
-      "Сарычев Александр Викторович": 613,
-      "Смолин Владимир Васильевич": 57,
-      "Против всех": 139
+      "gas:candidate-vibid:386300266911": 19,
+      "gas:candidate-vibid:1001000202349": 17,
+      "gas:candidate-vibid:1001000121956": 49,
+      "gas:candidate-vibid:1001000114007": 10,
+      "gas:candidate-vibid:1001000195185": 88,
+      "gas:candidate-vibid:1001000226026": 613,
+      "gas:candidate-vibid:1001000136171": 57,
+      "special:against-all": 139
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=863002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=386300267050&region=0&sub_region=0&type=429",
@@ -2436,14 +2436,14 @@ export const duma_2003_uik_428_region_86_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алитдинов Ярослав Андриянович": 22,
-      "Бидямшин Рашид Кешафович": 9,
-      "Кононов Виктор Васильевич": 58,
-      "Пимкин Вадим Валентинович": 8,
-      "Русанова Лидия Ивановна": 78,
-      "Сарычев Александр Викторович": 626,
-      "Смолин Владимир Васильевич": 60,
-      "Против всех": 142
+      "gas:candidate-vibid:386300266911": 22,
+      "gas:candidate-vibid:1001000202349": 9,
+      "gas:candidate-vibid:1001000121956": 58,
+      "gas:candidate-vibid:1001000114007": 8,
+      "gas:candidate-vibid:1001000195185": 78,
+      "gas:candidate-vibid:1001000226026": 626,
+      "gas:candidate-vibid:1001000136171": 60,
+      "special:against-all": 142
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=863002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=386300267050&region=0&sub_region=0&type=429",
@@ -2493,14 +2493,14 @@ export const duma_2003_uik_428_region_86_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алитдинов Ярослав Андриянович": 23,
-      "Бидямшин Рашид Кешафович": 17,
-      "Кононов Виктор Васильевич": 111,
-      "Пимкин Вадим Валентинович": 25,
-      "Русанова Лидия Ивановна": 73,
-      "Сарычев Александр Викторович": 1078,
-      "Смолин Владимир Васильевич": 70,
-      "Против всех": 207
+      "gas:candidate-vibid:386300266911": 23,
+      "gas:candidate-vibid:1001000202349": 17,
+      "gas:candidate-vibid:1001000121956": 111,
+      "gas:candidate-vibid:1001000114007": 25,
+      "gas:candidate-vibid:1001000195185": 73,
+      "gas:candidate-vibid:1001000226026": 1078,
+      "gas:candidate-vibid:1001000136171": 70,
+      "special:against-all": 207
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=863002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=386300267050&region=0&sub_region=0&type=429",
@@ -2550,14 +2550,14 @@ export const duma_2003_uik_428_region_86_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алитдинов Ярослав Андриянович": 29,
-      "Бидямшин Рашид Кешафович": 41,
-      "Кононов Виктор Васильевич": 98,
-      "Пимкин Вадим Валентинович": 25,
-      "Русанова Лидия Ивановна": 135,
-      "Сарычев Александр Викторович": 1123,
-      "Смолин Владимир Васильевич": 89,
-      "Против всех": 204
+      "gas:candidate-vibid:386300266911": 29,
+      "gas:candidate-vibid:1001000202349": 41,
+      "gas:candidate-vibid:1001000121956": 98,
+      "gas:candidate-vibid:1001000114007": 25,
+      "gas:candidate-vibid:1001000195185": 135,
+      "gas:candidate-vibid:1001000226026": 1123,
+      "gas:candidate-vibid:1001000136171": 89,
+      "special:against-all": 204
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=863002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=386300267050&region=0&sub_region=0&type=429",
@@ -2607,14 +2607,14 @@ export const duma_2003_uik_428_region_86_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алитдинов Ярослав Андриянович": 8,
-      "Бидямшин Рашид Кешафович": 15,
-      "Кононов Виктор Васильевич": 57,
-      "Пимкин Вадим Валентинович": 10,
-      "Русанова Лидия Ивановна": 63,
-      "Сарычев Александр Викторович": 433,
-      "Смолин Владимир Васильевич": 39,
-      "Против всех": 127
+      "gas:candidate-vibid:386300266911": 8,
+      "gas:candidate-vibid:1001000202349": 15,
+      "gas:candidate-vibid:1001000121956": 57,
+      "gas:candidate-vibid:1001000114007": 10,
+      "gas:candidate-vibid:1001000195185": 63,
+      "gas:candidate-vibid:1001000226026": 433,
+      "gas:candidate-vibid:1001000136171": 39,
+      "special:against-all": 127
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=863002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=386300267050&region=0&sub_region=0&type=429",
@@ -2664,14 +2664,14 @@ export const duma_2003_uik_428_region_86_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алитдинов Ярослав Андриянович": 4,
-      "Бидямшин Рашид Кешафович": 2,
-      "Кононов Виктор Васильевич": 8,
-      "Пимкин Вадим Валентинович": 1,
-      "Русанова Лидия Ивановна": 4,
-      "Сарычев Александр Викторович": 264,
-      "Смолин Владимир Васильевич": 5,
-      "Против всех": 15
+      "gas:candidate-vibid:386300266911": 4,
+      "gas:candidate-vibid:1001000202349": 2,
+      "gas:candidate-vibid:1001000121956": 8,
+      "gas:candidate-vibid:1001000114007": 1,
+      "gas:candidate-vibid:1001000195185": 4,
+      "gas:candidate-vibid:1001000226026": 264,
+      "gas:candidate-vibid:1001000136171": 5,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=863002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=386300267050&region=0&sub_region=0&type=429",
@@ -2721,14 +2721,14 @@ export const duma_2003_uik_428_region_86_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алитдинов Ярослав Андриянович": 2,
-      "Бидямшин Рашид Кешафович": 3,
-      "Кононов Виктор Васильевич": 14,
-      "Пимкин Вадим Валентинович": 3,
-      "Русанова Лидия Ивановна": 19,
-      "Сарычев Александр Викторович": 220,
-      "Смолин Владимир Васильевич": 7,
-      "Против всех": 46
+      "gas:candidate-vibid:386300266911": 2,
+      "gas:candidate-vibid:1001000202349": 3,
+      "gas:candidate-vibid:1001000121956": 14,
+      "gas:candidate-vibid:1001000114007": 3,
+      "gas:candidate-vibid:1001000195185": 19,
+      "gas:candidate-vibid:1001000226026": 220,
+      "gas:candidate-vibid:1001000136171": 7,
+      "special:against-all": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=863002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=386300267050&region=0&sub_region=0&type=429",
@@ -2778,14 +2778,14 @@ export const duma_2003_uik_428_region_86_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алитдинов Ярослав Андриянович": 0,
-      "Бидямшин Рашид Кешафович": 0,
-      "Кононов Виктор Васильевич": 0,
-      "Пимкин Вадим Валентинович": 0,
-      "Русанова Лидия Ивановна": 1,
-      "Сарычев Александр Викторович": 56,
-      "Смолин Владимир Васильевич": 3,
-      "Против всех": 5
+      "gas:candidate-vibid:386300266911": 0,
+      "gas:candidate-vibid:1001000202349": 0,
+      "gas:candidate-vibid:1001000121956": 0,
+      "gas:candidate-vibid:1001000114007": 0,
+      "gas:candidate-vibid:1001000195185": 1,
+      "gas:candidate-vibid:1001000226026": 56,
+      "gas:candidate-vibid:1001000136171": 3,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=863002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=386300267050&region=0&sub_region=0&type=429",
@@ -2835,14 +2835,14 @@ export const duma_2003_uik_428_region_86_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алитдинов Ярослав Андриянович": 5,
-      "Бидямшин Рашид Кешафович": 4,
-      "Кононов Виктор Васильевич": 20,
-      "Пимкин Вадим Валентинович": 5,
-      "Русанова Лидия Ивановна": 31,
-      "Сарычев Александр Викторович": 356,
-      "Смолин Владимир Васильевич": 24,
-      "Против всех": 60
+      "gas:candidate-vibid:386300266911": 5,
+      "gas:candidate-vibid:1001000202349": 4,
+      "gas:candidate-vibid:1001000121956": 20,
+      "gas:candidate-vibid:1001000114007": 5,
+      "gas:candidate-vibid:1001000195185": 31,
+      "gas:candidate-vibid:1001000226026": 356,
+      "gas:candidate-vibid:1001000136171": 24,
+      "special:against-all": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=863002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=386300267050&region=0&sub_region=0&type=429",
@@ -2892,14 +2892,14 @@ export const duma_2003_uik_428_region_86_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алитдинов Ярослав Андриянович": 6,
-      "Бидямшин Рашид Кешафович": 2,
-      "Кононов Виктор Васильевич": 3,
-      "Пимкин Вадим Валентинович": 0,
-      "Русанова Лидия Ивановна": 12,
-      "Сарычев Александр Викторович": 57,
-      "Смолин Владимир Васильевич": 3,
-      "Против всех": 22
+      "gas:candidate-vibid:386300266911": 6,
+      "gas:candidate-vibid:1001000202349": 2,
+      "gas:candidate-vibid:1001000121956": 3,
+      "gas:candidate-vibid:1001000114007": 0,
+      "gas:candidate-vibid:1001000195185": 12,
+      "gas:candidate-vibid:1001000226026": 57,
+      "gas:candidate-vibid:1001000136171": 3,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=863002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=386300267050&region=0&sub_region=0&type=429",
@@ -2949,14 +2949,14 @@ export const duma_2003_uik_428_region_86_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алитдинов Ярослав Андриянович": 9,
-      "Бидямшин Рашид Кешафович": 9,
-      "Кононов Виктор Васильевич": 52,
-      "Пимкин Вадим Валентинович": 18,
-      "Русанова Лидия Ивановна": 76,
-      "Сарычев Александр Викторович": 508,
-      "Смолин Владимир Васильевич": 29,
-      "Против всех": 133
+      "gas:candidate-vibid:386300266911": 9,
+      "gas:candidate-vibid:1001000202349": 9,
+      "gas:candidate-vibid:1001000121956": 52,
+      "gas:candidate-vibid:1001000114007": 18,
+      "gas:candidate-vibid:1001000195185": 76,
+      "gas:candidate-vibid:1001000226026": 508,
+      "gas:candidate-vibid:1001000136171": 29,
+      "special:against-all": 133
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=863002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=386300267050&region=0&sub_region=0&type=429",
@@ -3006,14 +3006,14 @@ export const duma_2003_uik_428_region_86_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алитдинов Ярослав Андриянович": 0,
-      "Бидямшин Рашид Кешафович": 0,
-      "Кононов Виктор Васильевич": 0,
-      "Пимкин Вадим Валентинович": 0,
-      "Русанова Лидия Ивановна": 1,
-      "Сарычев Александр Викторович": 65,
-      "Смолин Владимир Васильевич": 0,
-      "Против всех": 9
+      "gas:candidate-vibid:386300266911": 0,
+      "gas:candidate-vibid:1001000202349": 0,
+      "gas:candidate-vibid:1001000121956": 0,
+      "gas:candidate-vibid:1001000114007": 0,
+      "gas:candidate-vibid:1001000195185": 1,
+      "gas:candidate-vibid:1001000226026": 65,
+      "gas:candidate-vibid:1001000136171": 0,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=863002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=386300267050&region=0&sub_region=0&type=429",
@@ -3063,14 +3063,14 @@ export const duma_2003_uik_428_region_86_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алитдинов Ярослав Андриянович": 10,
-      "Бидямшин Рашид Кешафович": 0,
-      "Кононов Виктор Васильевич": 8,
-      "Пимкин Вадим Валентинович": 2,
-      "Русанова Лидия Ивановна": 8,
-      "Сарычев Александр Викторович": 82,
-      "Смолин Владимир Васильевич": 9,
-      "Против всех": 41
+      "gas:candidate-vibid:386300266911": 10,
+      "gas:candidate-vibid:1001000202349": 0,
+      "gas:candidate-vibid:1001000121956": 8,
+      "gas:candidate-vibid:1001000114007": 2,
+      "gas:candidate-vibid:1001000195185": 8,
+      "gas:candidate-vibid:1001000226026": 82,
+      "gas:candidate-vibid:1001000136171": 9,
+      "special:against-all": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=863002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=386300267050&region=0&sub_region=0&type=429",

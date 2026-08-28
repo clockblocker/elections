@@ -42,15 +42,15 @@ export const duma_2003_uik_428_region_38_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дробышева Людмила Владимировна": 32,
-      "Зайцев Константин Борисович": 98,
-      "Колесников Сергей Иванович": 182,
-      "Курочкин Валерий Иванович": 7,
-      "Маньков Валерий Александрович": 106,
-      "Примачек Владимир Александрович": 88,
-      "Сафронова Ирина Акимовна": 13,
-      "Шабанов Владимир Николаевич": 25,
-      "Против всех": 65
+      "gas:candidate-vibid:1001000112210": 32,
+      "gas:candidate-vibid:1001000225937": 98,
+      "gas:candidate-vibid:1001000131395": 182,
+      "gas:candidate-vibid:1001000220816": 7,
+      "gas:candidate-vibid:338300366702": 106,
+      "gas:candidate-vibid:1001000121848": 88,
+      "gas:candidate-vibid:338300367125": 13,
+      "gas:candidate-vibid:1001000136054": 25,
+      "special:against-all": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383003014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300367535&region=0&sub_region=0&type=429",
@@ -100,15 +100,15 @@ export const duma_2003_uik_428_region_38_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дробышева Людмила Владимировна": 25,
-      "Зайцев Константин Борисович": 102,
-      "Колесников Сергей Иванович": 123,
-      "Курочкин Валерий Иванович": 7,
-      "Маньков Валерий Александрович": 73,
-      "Примачек Владимир Александрович": 40,
-      "Сафронова Ирина Акимовна": 13,
-      "Шабанов Владимир Николаевич": 22,
-      "Против всех": 57
+      "gas:candidate-vibid:1001000112210": 25,
+      "gas:candidate-vibid:1001000225937": 102,
+      "gas:candidate-vibid:1001000131395": 123,
+      "gas:candidate-vibid:1001000220816": 7,
+      "gas:candidate-vibid:338300366702": 73,
+      "gas:candidate-vibid:1001000121848": 40,
+      "gas:candidate-vibid:338300367125": 13,
+      "gas:candidate-vibid:1001000136054": 22,
+      "special:against-all": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383003014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300367535&region=0&sub_region=0&type=429",
@@ -158,15 +158,15 @@ export const duma_2003_uik_428_region_38_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дробышева Людмила Владимировна": 33,
-      "Зайцев Константин Борисович": 148,
-      "Колесников Сергей Иванович": 155,
-      "Курочкин Валерий Иванович": 7,
-      "Маньков Валерий Александрович": 99,
-      "Примачек Владимир Александрович": 49,
-      "Сафронова Ирина Акимовна": 5,
-      "Шабанов Владимир Николаевич": 35,
-      "Против всех": 66
+      "gas:candidate-vibid:1001000112210": 33,
+      "gas:candidate-vibid:1001000225937": 148,
+      "gas:candidate-vibid:1001000131395": 155,
+      "gas:candidate-vibid:1001000220816": 7,
+      "gas:candidate-vibid:338300366702": 99,
+      "gas:candidate-vibid:1001000121848": 49,
+      "gas:candidate-vibid:338300367125": 5,
+      "gas:candidate-vibid:1001000136054": 35,
+      "special:against-all": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383003014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300367535&region=0&sub_region=0&type=429",
@@ -216,15 +216,15 @@ export const duma_2003_uik_428_region_38_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дробышева Людмила Владимировна": 16,
-      "Зайцев Константин Борисович": 139,
-      "Колесников Сергей Иванович": 96,
-      "Курочкин Валерий Иванович": 9,
-      "Маньков Валерий Александрович": 90,
-      "Примачек Владимир Александрович": 53,
-      "Сафронова Ирина Акимовна": 9,
-      "Шабанов Владимир Николаевич": 17,
-      "Против всех": 37
+      "gas:candidate-vibid:1001000112210": 16,
+      "gas:candidate-vibid:1001000225937": 139,
+      "gas:candidate-vibid:1001000131395": 96,
+      "gas:candidate-vibid:1001000220816": 9,
+      "gas:candidate-vibid:338300366702": 90,
+      "gas:candidate-vibid:1001000121848": 53,
+      "gas:candidate-vibid:338300367125": 9,
+      "gas:candidate-vibid:1001000136054": 17,
+      "special:against-all": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383003014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300367535&region=0&sub_region=0&type=429",
@@ -274,15 +274,15 @@ export const duma_2003_uik_428_region_38_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дробышева Людмила Владимировна": 22,
-      "Зайцев Константин Борисович": 94,
-      "Колесников Сергей Иванович": 85,
-      "Курочкин Валерий Иванович": 7,
-      "Маньков Валерий Александрович": 39,
-      "Примачек Владимир Александрович": 47,
-      "Сафронова Ирина Акимовна": 7,
-      "Шабанов Владимир Николаевич": 8,
-      "Против всех": 43
+      "gas:candidate-vibid:1001000112210": 22,
+      "gas:candidate-vibid:1001000225937": 94,
+      "gas:candidate-vibid:1001000131395": 85,
+      "gas:candidate-vibid:1001000220816": 7,
+      "gas:candidate-vibid:338300366702": 39,
+      "gas:candidate-vibid:1001000121848": 47,
+      "gas:candidate-vibid:338300367125": 7,
+      "gas:candidate-vibid:1001000136054": 8,
+      "special:against-all": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383003014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300367535&region=0&sub_region=0&type=429",
@@ -332,15 +332,15 @@ export const duma_2003_uik_428_region_38_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дробышева Людмила Владимировна": 24,
-      "Зайцев Константин Борисович": 124,
-      "Колесников Сергей Иванович": 147,
-      "Курочкин Валерий Иванович": 15,
-      "Маньков Валерий Александрович": 92,
-      "Примачек Владимир Александрович": 52,
-      "Сафронова Ирина Акимовна": 14,
-      "Шабанов Владимир Николаевич": 33,
-      "Против всех": 56
+      "gas:candidate-vibid:1001000112210": 24,
+      "gas:candidate-vibid:1001000225937": 124,
+      "gas:candidate-vibid:1001000131395": 147,
+      "gas:candidate-vibid:1001000220816": 15,
+      "gas:candidate-vibid:338300366702": 92,
+      "gas:candidate-vibid:1001000121848": 52,
+      "gas:candidate-vibid:338300367125": 14,
+      "gas:candidate-vibid:1001000136054": 33,
+      "special:against-all": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383003014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300367535&region=0&sub_region=0&type=429",
@@ -390,15 +390,15 @@ export const duma_2003_uik_428_region_38_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дробышева Людмила Владимировна": 11,
-      "Зайцев Константин Борисович": 74,
-      "Колесников Сергей Иванович": 82,
-      "Курочкин Валерий Иванович": 9,
-      "Маньков Валерий Александрович": 60,
-      "Примачек Владимир Александрович": 13,
-      "Сафронова Ирина Акимовна": 9,
-      "Шабанов Владимир Николаевич": 16,
-      "Против всех": 24
+      "gas:candidate-vibid:1001000112210": 11,
+      "gas:candidate-vibid:1001000225937": 74,
+      "gas:candidate-vibid:1001000131395": 82,
+      "gas:candidate-vibid:1001000220816": 9,
+      "gas:candidate-vibid:338300366702": 60,
+      "gas:candidate-vibid:1001000121848": 13,
+      "gas:candidate-vibid:338300367125": 9,
+      "gas:candidate-vibid:1001000136054": 16,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383003014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300367535&region=0&sub_region=0&type=429",
@@ -448,15 +448,15 @@ export const duma_2003_uik_428_region_38_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дробышева Людмила Владимировна": 5,
-      "Зайцев Константин Борисович": 50,
-      "Колесников Сергей Иванович": 73,
-      "Курочкин Валерий Иванович": 5,
-      "Маньков Валерий Александрович": 24,
-      "Примачек Владимир Александрович": 11,
-      "Сафронова Ирина Акимовна": 4,
-      "Шабанов Владимир Николаевич": 13,
-      "Против всех": 30
+      "gas:candidate-vibid:1001000112210": 5,
+      "gas:candidate-vibid:1001000225937": 50,
+      "gas:candidate-vibid:1001000131395": 73,
+      "gas:candidate-vibid:1001000220816": 5,
+      "gas:candidate-vibid:338300366702": 24,
+      "gas:candidate-vibid:1001000121848": 11,
+      "gas:candidate-vibid:338300367125": 4,
+      "gas:candidate-vibid:1001000136054": 13,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383003014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300367535&region=0&sub_region=0&type=429",
@@ -506,15 +506,15 @@ export const duma_2003_uik_428_region_38_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дробышева Людмила Владимировна": 14,
-      "Зайцев Константин Борисович": 97,
-      "Колесников Сергей Иванович": 56,
-      "Курочкин Валерий Иванович": 6,
-      "Маньков Валерий Александрович": 69,
-      "Примачек Владимир Александрович": 28,
-      "Сафронова Ирина Акимовна": 10,
-      "Шабанов Владимир Николаевич": 15,
-      "Против всех": 41
+      "gas:candidate-vibid:1001000112210": 14,
+      "gas:candidate-vibid:1001000225937": 97,
+      "gas:candidate-vibid:1001000131395": 56,
+      "gas:candidate-vibid:1001000220816": 6,
+      "gas:candidate-vibid:338300366702": 69,
+      "gas:candidate-vibid:1001000121848": 28,
+      "gas:candidate-vibid:338300367125": 10,
+      "gas:candidate-vibid:1001000136054": 15,
+      "special:against-all": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383003014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300367535&region=0&sub_region=0&type=429",
@@ -564,15 +564,15 @@ export const duma_2003_uik_428_region_38_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дробышева Людмила Владимировна": 15,
-      "Зайцев Константин Борисович": 70,
-      "Колесников Сергей Иванович": 106,
-      "Курочкин Валерий Иванович": 8,
-      "Маньков Валерий Александрович": 76,
-      "Примачек Владимир Александрович": 22,
-      "Сафронова Ирина Акимовна": 16,
-      "Шабанов Владимир Николаевич": 13,
-      "Против всех": 39
+      "gas:candidate-vibid:1001000112210": 15,
+      "gas:candidate-vibid:1001000225937": 70,
+      "gas:candidate-vibid:1001000131395": 106,
+      "gas:candidate-vibid:1001000220816": 8,
+      "gas:candidate-vibid:338300366702": 76,
+      "gas:candidate-vibid:1001000121848": 22,
+      "gas:candidate-vibid:338300367125": 16,
+      "gas:candidate-vibid:1001000136054": 13,
+      "special:against-all": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383003014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300367535&region=0&sub_region=0&type=429",
@@ -622,15 +622,15 @@ export const duma_2003_uik_428_region_38_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дробышева Людмила Владимировна": 26,
-      "Зайцев Константин Борисович": 119,
-      "Колесников Сергей Иванович": 159,
-      "Курочкин Валерий Иванович": 18,
-      "Маньков Валерий Александрович": 110,
-      "Примачек Владимир Александрович": 22,
-      "Сафронова Ирина Акимовна": 10,
-      "Шабанов Владимир Николаевич": 21,
-      "Против всех": 54
+      "gas:candidate-vibid:1001000112210": 26,
+      "gas:candidate-vibid:1001000225937": 119,
+      "gas:candidate-vibid:1001000131395": 159,
+      "gas:candidate-vibid:1001000220816": 18,
+      "gas:candidate-vibid:338300366702": 110,
+      "gas:candidate-vibid:1001000121848": 22,
+      "gas:candidate-vibid:338300367125": 10,
+      "gas:candidate-vibid:1001000136054": 21,
+      "special:against-all": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383003014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300367535&region=0&sub_region=0&type=429",
@@ -680,15 +680,15 @@ export const duma_2003_uik_428_region_38_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дробышева Людмила Владимировна": 27,
-      "Зайцев Константин Борисович": 140,
-      "Колесников Сергей Иванович": 94,
-      "Курочкин Валерий Иванович": 7,
-      "Маньков Валерий Александрович": 123,
-      "Примачек Владимир Александрович": 49,
-      "Сафронова Ирина Акимовна": 15,
-      "Шабанов Владимир Николаевич": 34,
-      "Против всех": 66
+      "gas:candidate-vibid:1001000112210": 27,
+      "gas:candidate-vibid:1001000225937": 140,
+      "gas:candidate-vibid:1001000131395": 94,
+      "gas:candidate-vibid:1001000220816": 7,
+      "gas:candidate-vibid:338300366702": 123,
+      "gas:candidate-vibid:1001000121848": 49,
+      "gas:candidate-vibid:338300367125": 15,
+      "gas:candidate-vibid:1001000136054": 34,
+      "special:against-all": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383003014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300367535&region=0&sub_region=0&type=429",
@@ -738,15 +738,15 @@ export const duma_2003_uik_428_region_38_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дробышева Людмила Владимировна": 27,
-      "Зайцев Константин Борисович": 134,
-      "Колесников Сергей Иванович": 121,
-      "Курочкин Валерий Иванович": 17,
-      "Маньков Валерий Александрович": 97,
-      "Примачек Владимир Александрович": 39,
-      "Сафронова Ирина Акимовна": 15,
-      "Шабанов Владимир Николаевич": 27,
-      "Против всех": 41
+      "gas:candidate-vibid:1001000112210": 27,
+      "gas:candidate-vibid:1001000225937": 134,
+      "gas:candidate-vibid:1001000131395": 121,
+      "gas:candidate-vibid:1001000220816": 17,
+      "gas:candidate-vibid:338300366702": 97,
+      "gas:candidate-vibid:1001000121848": 39,
+      "gas:candidate-vibid:338300367125": 15,
+      "gas:candidate-vibid:1001000136054": 27,
+      "special:against-all": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383003014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300367535&region=0&sub_region=0&type=429",
@@ -796,15 +796,15 @@ export const duma_2003_uik_428_region_38_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дробышева Людмила Владимировна": 19,
-      "Зайцев Константин Борисович": 99,
-      "Колесников Сергей Иванович": 122,
-      "Курочкин Валерий Иванович": 12,
-      "Маньков Валерий Александрович": 64,
-      "Примачек Владимир Александрович": 57,
-      "Сафронова Ирина Акимовна": 13,
-      "Шабанов Владимир Николаевич": 27,
-      "Против всех": 64
+      "gas:candidate-vibid:1001000112210": 19,
+      "gas:candidate-vibid:1001000225937": 99,
+      "gas:candidate-vibid:1001000131395": 122,
+      "gas:candidate-vibid:1001000220816": 12,
+      "gas:candidate-vibid:338300366702": 64,
+      "gas:candidate-vibid:1001000121848": 57,
+      "gas:candidate-vibid:338300367125": 13,
+      "gas:candidate-vibid:1001000136054": 27,
+      "special:against-all": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383003014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300367535&region=0&sub_region=0&type=429",
@@ -854,15 +854,15 @@ export const duma_2003_uik_428_region_38_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дробышева Людмила Владимировна": 20,
-      "Зайцев Константин Борисович": 154,
-      "Колесников Сергей Иванович": 130,
-      "Курочкин Валерий Иванович": 12,
-      "Маньков Валерий Александрович": 108,
-      "Примачек Владимир Александрович": 84,
-      "Сафронова Ирина Акимовна": 20,
-      "Шабанов Владимир Николаевич": 51,
-      "Против всех": 66
+      "gas:candidate-vibid:1001000112210": 20,
+      "gas:candidate-vibid:1001000225937": 154,
+      "gas:candidate-vibid:1001000131395": 130,
+      "gas:candidate-vibid:1001000220816": 12,
+      "gas:candidate-vibid:338300366702": 108,
+      "gas:candidate-vibid:1001000121848": 84,
+      "gas:candidate-vibid:338300367125": 20,
+      "gas:candidate-vibid:1001000136054": 51,
+      "special:against-all": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383003014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300367535&region=0&sub_region=0&type=429",
@@ -912,15 +912,15 @@ export const duma_2003_uik_428_region_38_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дробышева Людмила Владимировна": 29,
-      "Зайцев Константин Борисович": 164,
-      "Колесников Сергей Иванович": 138,
-      "Курочкин Валерий Иванович": 14,
-      "Маньков Валерий Александрович": 107,
-      "Примачек Владимир Александрович": 67,
-      "Сафронова Ирина Акимовна": 15,
-      "Шабанов Владимир Николаевич": 27,
-      "Против всех": 68
+      "gas:candidate-vibid:1001000112210": 29,
+      "gas:candidate-vibid:1001000225937": 164,
+      "gas:candidate-vibid:1001000131395": 138,
+      "gas:candidate-vibid:1001000220816": 14,
+      "gas:candidate-vibid:338300366702": 107,
+      "gas:candidate-vibid:1001000121848": 67,
+      "gas:candidate-vibid:338300367125": 15,
+      "gas:candidate-vibid:1001000136054": 27,
+      "special:against-all": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383003014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300367535&region=0&sub_region=0&type=429",
@@ -970,15 +970,15 @@ export const duma_2003_uik_428_region_38_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дробышева Людмила Владимировна": 19,
-      "Зайцев Константин Борисович": 108,
-      "Колесников Сергей Иванович": 83,
-      "Курочкин Валерий Иванович": 7,
-      "Маньков Валерий Александрович": 65,
-      "Примачек Владимир Александрович": 30,
-      "Сафронова Ирина Акимовна": 12,
-      "Шабанов Владимир Николаевич": 26,
-      "Против всех": 49
+      "gas:candidate-vibid:1001000112210": 19,
+      "gas:candidate-vibid:1001000225937": 108,
+      "gas:candidate-vibid:1001000131395": 83,
+      "gas:candidate-vibid:1001000220816": 7,
+      "gas:candidate-vibid:338300366702": 65,
+      "gas:candidate-vibid:1001000121848": 30,
+      "gas:candidate-vibid:338300367125": 12,
+      "gas:candidate-vibid:1001000136054": 26,
+      "special:against-all": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383003014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300367535&region=0&sub_region=0&type=429",
@@ -1028,15 +1028,15 @@ export const duma_2003_uik_428_region_38_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дробышева Людмила Владимировна": 11,
-      "Зайцев Константин Борисович": 81,
-      "Колесников Сергей Иванович": 60,
-      "Курочкин Валерий Иванович": 3,
-      "Маньков Валерий Александрович": 33,
-      "Примачек Владимир Александрович": 24,
-      "Сафронова Ирина Акимовна": 6,
-      "Шабанов Владимир Николаевич": 13,
-      "Против всех": 26
+      "gas:candidate-vibid:1001000112210": 11,
+      "gas:candidate-vibid:1001000225937": 81,
+      "gas:candidate-vibid:1001000131395": 60,
+      "gas:candidate-vibid:1001000220816": 3,
+      "gas:candidate-vibid:338300366702": 33,
+      "gas:candidate-vibid:1001000121848": 24,
+      "gas:candidate-vibid:338300367125": 6,
+      "gas:candidate-vibid:1001000136054": 13,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383003014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300367535&region=0&sub_region=0&type=429",
@@ -1086,15 +1086,15 @@ export const duma_2003_uik_428_region_38_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дробышева Людмила Владимировна": 10,
-      "Зайцев Константин Борисович": 45,
-      "Колесников Сергей Иванович": 31,
-      "Курочкин Валерий Иванович": 6,
-      "Маньков Валерий Александрович": 26,
-      "Примачек Владимир Александрович": 10,
-      "Сафронова Ирина Акимовна": 5,
-      "Шабанов Владимир Николаевич": 5,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000112210": 10,
+      "gas:candidate-vibid:1001000225937": 45,
+      "gas:candidate-vibid:1001000131395": 31,
+      "gas:candidate-vibid:1001000220816": 6,
+      "gas:candidate-vibid:338300366702": 26,
+      "gas:candidate-vibid:1001000121848": 10,
+      "gas:candidate-vibid:338300367125": 5,
+      "gas:candidate-vibid:1001000136054": 5,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383003014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300367535&region=0&sub_region=0&type=429",
@@ -1144,15 +1144,15 @@ export const duma_2003_uik_428_region_38_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дробышева Людмила Владимировна": 5,
-      "Зайцев Константин Борисович": 40,
-      "Колесников Сергей Иванович": 42,
-      "Курочкин Валерий Иванович": 2,
-      "Маньков Валерий Александрович": 38,
-      "Примачек Владимир Александрович": 24,
-      "Сафронова Ирина Акимовна": 6,
-      "Шабанов Владимир Николаевич": 8,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000112210": 5,
+      "gas:candidate-vibid:1001000225937": 40,
+      "gas:candidate-vibid:1001000131395": 42,
+      "gas:candidate-vibid:1001000220816": 2,
+      "gas:candidate-vibid:338300366702": 38,
+      "gas:candidate-vibid:1001000121848": 24,
+      "gas:candidate-vibid:338300367125": 6,
+      "gas:candidate-vibid:1001000136054": 8,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383003014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300367535&region=0&sub_region=0&type=429",
@@ -1202,15 +1202,15 @@ export const duma_2003_uik_428_region_38_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дробышева Людмила Владимировна": 3,
-      "Зайцев Константин Борисович": 51,
-      "Колесников Сергей Иванович": 45,
-      "Курочкин Валерий Иванович": 4,
-      "Маньков Валерий Александрович": 28,
-      "Примачек Владимир Александрович": 13,
-      "Сафронова Ирина Акимовна": 6,
-      "Шабанов Владимир Николаевич": 8,
-      "Против всех": 27
+      "gas:candidate-vibid:1001000112210": 3,
+      "gas:candidate-vibid:1001000225937": 51,
+      "gas:candidate-vibid:1001000131395": 45,
+      "gas:candidate-vibid:1001000220816": 4,
+      "gas:candidate-vibid:338300366702": 28,
+      "gas:candidate-vibid:1001000121848": 13,
+      "gas:candidate-vibid:338300367125": 6,
+      "gas:candidate-vibid:1001000136054": 8,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383003014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300367535&region=0&sub_region=0&type=429",
@@ -1260,15 +1260,15 @@ export const duma_2003_uik_428_region_38_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дробышева Людмила Владимировна": 8,
-      "Зайцев Константин Борисович": 22,
-      "Колесников Сергей Иванович": 42,
-      "Курочкин Валерий Иванович": 5,
-      "Маньков Валерий Александрович": 18,
-      "Примачек Владимир Александрович": 16,
-      "Сафронова Ирина Акимовна": 4,
-      "Шабанов Владимир Николаевич": 14,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000112210": 8,
+      "gas:candidate-vibid:1001000225937": 22,
+      "gas:candidate-vibid:1001000131395": 42,
+      "gas:candidate-vibid:1001000220816": 5,
+      "gas:candidate-vibid:338300366702": 18,
+      "gas:candidate-vibid:1001000121848": 16,
+      "gas:candidate-vibid:338300367125": 4,
+      "gas:candidate-vibid:1001000136054": 14,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383003014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300367535&region=0&sub_region=0&type=429",
@@ -1318,15 +1318,15 @@ export const duma_2003_uik_428_region_38_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дробышева Людмила Владимировна": 11,
-      "Зайцев Константин Борисович": 123,
-      "Колесников Сергей Иванович": 64,
-      "Курочкин Валерий Иванович": 13,
-      "Маньков Валерий Александрович": 56,
-      "Примачек Владимир Александрович": 81,
-      "Сафронова Ирина Акимовна": 10,
-      "Шабанов Владимир Николаевич": 36,
-      "Против всех": 48
+      "gas:candidate-vibid:1001000112210": 11,
+      "gas:candidate-vibid:1001000225937": 123,
+      "gas:candidate-vibid:1001000131395": 64,
+      "gas:candidate-vibid:1001000220816": 13,
+      "gas:candidate-vibid:338300366702": 56,
+      "gas:candidate-vibid:1001000121848": 81,
+      "gas:candidate-vibid:338300367125": 10,
+      "gas:candidate-vibid:1001000136054": 36,
+      "special:against-all": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383003014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300367535&region=0&sub_region=0&type=429",
@@ -1376,15 +1376,15 @@ export const duma_2003_uik_428_region_38_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дробышева Людмила Владимировна": 23,
-      "Зайцев Константин Борисович": 313,
-      "Колесников Сергей Иванович": 143,
-      "Курочкин Валерий Иванович": 37,
-      "Маньков Валерий Александрович": 46,
-      "Примачек Владимир Александрович": 50,
-      "Сафронова Ирина Акимовна": 29,
-      "Шабанов Владимир Николаевич": 43,
-      "Против всех": 83
+      "gas:candidate-vibid:1001000112210": 23,
+      "gas:candidate-vibid:1001000225937": 313,
+      "gas:candidate-vibid:1001000131395": 143,
+      "gas:candidate-vibid:1001000220816": 37,
+      "gas:candidate-vibid:338300366702": 46,
+      "gas:candidate-vibid:1001000121848": 50,
+      "gas:candidate-vibid:338300367125": 29,
+      "gas:candidate-vibid:1001000136054": 43,
+      "special:against-all": 83
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383003014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300367535&region=0&sub_region=0&type=429",
@@ -1434,15 +1434,15 @@ export const duma_2003_uik_428_region_38_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дробышева Людмила Владимировна": 23,
-      "Зайцев Константин Борисович": 260,
-      "Колесников Сергей Иванович": 129,
-      "Курочкин Валерий Иванович": 35,
-      "Маньков Валерий Александрович": 48,
-      "Примачек Владимир Александрович": 65,
-      "Сафронова Ирина Акимовна": 13,
-      "Шабанов Владимир Николаевич": 34,
-      "Против всех": 76
+      "gas:candidate-vibid:1001000112210": 23,
+      "gas:candidate-vibid:1001000225937": 260,
+      "gas:candidate-vibid:1001000131395": 129,
+      "gas:candidate-vibid:1001000220816": 35,
+      "gas:candidate-vibid:338300366702": 48,
+      "gas:candidate-vibid:1001000121848": 65,
+      "gas:candidate-vibid:338300367125": 13,
+      "gas:candidate-vibid:1001000136054": 34,
+      "special:against-all": 76
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383003014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300367535&region=0&sub_region=0&type=429",
@@ -1492,15 +1492,15 @@ export const duma_2003_uik_428_region_38_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дробышева Людмила Владимировна": 27,
-      "Зайцев Константин Борисович": 178,
-      "Колесников Сергей Иванович": 106,
-      "Курочкин Валерий Иванович": 38,
-      "Маньков Валерий Александрович": 32,
-      "Примачек Владимир Александрович": 24,
-      "Сафронова Ирина Акимовна": 16,
-      "Шабанов Владимир Николаевич": 36,
-      "Против всех": 52
+      "gas:candidate-vibid:1001000112210": 27,
+      "gas:candidate-vibid:1001000225937": 178,
+      "gas:candidate-vibid:1001000131395": 106,
+      "gas:candidate-vibid:1001000220816": 38,
+      "gas:candidate-vibid:338300366702": 32,
+      "gas:candidate-vibid:1001000121848": 24,
+      "gas:candidate-vibid:338300367125": 16,
+      "gas:candidate-vibid:1001000136054": 36,
+      "special:against-all": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383003014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300367535&region=0&sub_region=0&type=429",
@@ -1550,15 +1550,15 @@ export const duma_2003_uik_428_region_38_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дробышева Людмила Владимировна": 14,
-      "Зайцев Константин Борисович": 199,
-      "Колесников Сергей Иванович": 131,
-      "Курочкин Валерий Иванович": 46,
-      "Маньков Валерий Александрович": 52,
-      "Примачек Владимир Александрович": 61,
-      "Сафронова Ирина Акимовна": 16,
-      "Шабанов Владимир Николаевич": 26,
-      "Против всех": 58
+      "gas:candidate-vibid:1001000112210": 14,
+      "gas:candidate-vibid:1001000225937": 199,
+      "gas:candidate-vibid:1001000131395": 131,
+      "gas:candidate-vibid:1001000220816": 46,
+      "gas:candidate-vibid:338300366702": 52,
+      "gas:candidate-vibid:1001000121848": 61,
+      "gas:candidate-vibid:338300367125": 16,
+      "gas:candidate-vibid:1001000136054": 26,
+      "special:against-all": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383003014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300367535&region=0&sub_region=0&type=429",
@@ -1608,15 +1608,15 @@ export const duma_2003_uik_428_region_38_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дробышева Людмила Владимировна": 23,
-      "Зайцев Константин Борисович": 220,
-      "Колесников Сергей Иванович": 168,
-      "Курочкин Валерий Иванович": 37,
-      "Маньков Валерий Александрович": 30,
-      "Примачек Владимир Александрович": 58,
-      "Сафронова Ирина Акимовна": 23,
-      "Шабанов Владимир Николаевич": 37,
-      "Против всех": 51
+      "gas:candidate-vibid:1001000112210": 23,
+      "gas:candidate-vibid:1001000225937": 220,
+      "gas:candidate-vibid:1001000131395": 168,
+      "gas:candidate-vibid:1001000220816": 37,
+      "gas:candidate-vibid:338300366702": 30,
+      "gas:candidate-vibid:1001000121848": 58,
+      "gas:candidate-vibid:338300367125": 23,
+      "gas:candidate-vibid:1001000136054": 37,
+      "special:against-all": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383003014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300367535&region=0&sub_region=0&type=429",
@@ -1666,15 +1666,15 @@ export const duma_2003_uik_428_region_38_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дробышева Людмила Владимировна": 21,
-      "Зайцев Константин Борисович": 172,
-      "Колесников Сергей Иванович": 145,
-      "Курочкин Валерий Иванович": 20,
-      "Маньков Валерий Александрович": 20,
-      "Примачек Владимир Александрович": 72,
-      "Сафронова Ирина Акимовна": 21,
-      "Шабанов Владимир Николаевич": 27,
-      "Против всех": 49
+      "gas:candidate-vibid:1001000112210": 21,
+      "gas:candidate-vibid:1001000225937": 172,
+      "gas:candidate-vibid:1001000131395": 145,
+      "gas:candidate-vibid:1001000220816": 20,
+      "gas:candidate-vibid:338300366702": 20,
+      "gas:candidate-vibid:1001000121848": 72,
+      "gas:candidate-vibid:338300367125": 21,
+      "gas:candidate-vibid:1001000136054": 27,
+      "special:against-all": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383003014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300367535&region=0&sub_region=0&type=429",
@@ -1724,15 +1724,15 @@ export const duma_2003_uik_428_region_38_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дробышева Людмила Владимировна": 16,
-      "Зайцев Константин Борисович": 171,
-      "Колесников Сергей Иванович": 150,
-      "Курочкин Валерий Иванович": 26,
-      "Маньков Валерий Александрович": 56,
-      "Примачек Владимир Александрович": 36,
-      "Сафронова Ирина Акимовна": 12,
-      "Шабанов Владимир Николаевич": 25,
-      "Против всех": 40
+      "gas:candidate-vibid:1001000112210": 16,
+      "gas:candidate-vibid:1001000225937": 171,
+      "gas:candidate-vibid:1001000131395": 150,
+      "gas:candidate-vibid:1001000220816": 26,
+      "gas:candidate-vibid:338300366702": 56,
+      "gas:candidate-vibid:1001000121848": 36,
+      "gas:candidate-vibid:338300367125": 12,
+      "gas:candidate-vibid:1001000136054": 25,
+      "special:against-all": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383003014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300367535&region=0&sub_region=0&type=429",
@@ -1782,15 +1782,15 @@ export const duma_2003_uik_428_region_38_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дробышева Людмила Владимировна": 7,
-      "Зайцев Константин Борисович": 66,
-      "Колесников Сергей Иванович": 41,
-      "Курочкин Валерий Иванович": 4,
-      "Маньков Валерий Александрович": 15,
-      "Примачек Владимир Александрович": 13,
-      "Сафронова Ирина Акимовна": 8,
-      "Шабанов Владимир Николаевич": 13,
-      "Против всех": 25
+      "gas:candidate-vibid:1001000112210": 7,
+      "gas:candidate-vibid:1001000225937": 66,
+      "gas:candidate-vibid:1001000131395": 41,
+      "gas:candidate-vibid:1001000220816": 4,
+      "gas:candidate-vibid:338300366702": 15,
+      "gas:candidate-vibid:1001000121848": 13,
+      "gas:candidate-vibid:338300367125": 8,
+      "gas:candidate-vibid:1001000136054": 13,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383003014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300367535&region=0&sub_region=0&type=429",
@@ -1840,15 +1840,15 @@ export const duma_2003_uik_428_region_38_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дробышева Людмила Владимировна": 17,
-      "Зайцев Константин Борисович": 98,
-      "Колесников Сергей Иванович": 86,
-      "Курочкин Валерий Иванович": 38,
-      "Маньков Валерий Александрович": 35,
-      "Примачек Владимир Александрович": 53,
-      "Сафронова Ирина Акимовна": 5,
-      "Шабанов Владимир Николаевич": 18,
-      "Против всех": 57
+      "gas:candidate-vibid:1001000112210": 17,
+      "gas:candidate-vibid:1001000225937": 98,
+      "gas:candidate-vibid:1001000131395": 86,
+      "gas:candidate-vibid:1001000220816": 38,
+      "gas:candidate-vibid:338300366702": 35,
+      "gas:candidate-vibid:1001000121848": 53,
+      "gas:candidate-vibid:338300367125": 5,
+      "gas:candidate-vibid:1001000136054": 18,
+      "special:against-all": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383003014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300367535&region=0&sub_region=0&type=429",
@@ -1898,15 +1898,15 @@ export const duma_2003_uik_428_region_38_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дробышева Людмила Владимировна": 11,
-      "Зайцев Константин Борисович": 69,
-      "Колесников Сергей Иванович": 19,
-      "Курочкин Валерий Иванович": 11,
-      "Маньков Валерий Александрович": 15,
-      "Примачек Владимир Александрович": 22,
-      "Сафронова Ирина Акимовна": 14,
-      "Шабанов Владимир Николаевич": 21,
-      "Против всех": 28
+      "gas:candidate-vibid:1001000112210": 11,
+      "gas:candidate-vibid:1001000225937": 69,
+      "gas:candidate-vibid:1001000131395": 19,
+      "gas:candidate-vibid:1001000220816": 11,
+      "gas:candidate-vibid:338300366702": 15,
+      "gas:candidate-vibid:1001000121848": 22,
+      "gas:candidate-vibid:338300367125": 14,
+      "gas:candidate-vibid:1001000136054": 21,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383003014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300367535&region=0&sub_region=0&type=429",
@@ -1956,15 +1956,15 @@ export const duma_2003_uik_428_region_38_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дробышева Людмила Владимировна": 1,
-      "Зайцев Константин Борисович": 8,
-      "Колесников Сергей Иванович": 17,
-      "Курочкин Валерий Иванович": 0,
-      "Маньков Валерий Александрович": 2,
-      "Примачек Владимир Александрович": 3,
-      "Сафронова Ирина Акимовна": 0,
-      "Шабанов Владимир Николаевич": 1,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000112210": 1,
+      "gas:candidate-vibid:1001000225937": 8,
+      "gas:candidate-vibid:1001000131395": 17,
+      "gas:candidate-vibid:1001000220816": 0,
+      "gas:candidate-vibid:338300366702": 2,
+      "gas:candidate-vibid:1001000121848": 3,
+      "gas:candidate-vibid:338300367125": 0,
+      "gas:candidate-vibid:1001000136054": 1,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383003014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300367535&region=0&sub_region=0&type=429",
@@ -2014,15 +2014,15 @@ export const duma_2003_uik_428_region_38_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дробышева Людмила Владимировна": 8,
-      "Зайцев Константин Борисович": 50,
-      "Колесников Сергей Иванович": 53,
-      "Курочкин Валерий Иванович": 13,
-      "Маньков Валерий Александрович": 67,
-      "Примачек Владимир Александрович": 22,
-      "Сафронова Ирина Акимовна": 6,
-      "Шабанов Владимир Николаевич": 12,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000112210": 8,
+      "gas:candidate-vibid:1001000225937": 50,
+      "gas:candidate-vibid:1001000131395": 53,
+      "gas:candidate-vibid:1001000220816": 13,
+      "gas:candidate-vibid:338300366702": 67,
+      "gas:candidate-vibid:1001000121848": 22,
+      "gas:candidate-vibid:338300367125": 6,
+      "gas:candidate-vibid:1001000136054": 12,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383003015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300367763&region=0&sub_region=0&type=429",
@@ -2072,15 +2072,15 @@ export const duma_2003_uik_428_region_38_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дробышева Людмила Владимировна": 20,
-      "Зайцев Константин Борисович": 97,
-      "Колесников Сергей Иванович": 75,
-      "Курочкин Валерий Иванович": 26,
-      "Маньков Валерий Александрович": 76,
-      "Примачек Владимир Александрович": 94,
-      "Сафронова Ирина Акимовна": 13,
-      "Шабанов Владимир Николаевич": 21,
-      "Против всех": 60
+      "gas:candidate-vibid:1001000112210": 20,
+      "gas:candidate-vibid:1001000225937": 97,
+      "gas:candidate-vibid:1001000131395": 75,
+      "gas:candidate-vibid:1001000220816": 26,
+      "gas:candidate-vibid:338300366702": 76,
+      "gas:candidate-vibid:1001000121848": 94,
+      "gas:candidate-vibid:338300367125": 13,
+      "gas:candidate-vibid:1001000136054": 21,
+      "special:against-all": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383003015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300367763&region=0&sub_region=0&type=429",
@@ -2130,15 +2130,15 @@ export const duma_2003_uik_428_region_38_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дробышева Людмила Владимировна": 33,
-      "Зайцев Константин Борисович": 104,
-      "Колесников Сергей Иванович": 110,
-      "Курочкин Валерий Иванович": 35,
-      "Маньков Валерий Александрович": 116,
-      "Примачек Владимир Александрович": 87,
-      "Сафронова Ирина Акимовна": 20,
-      "Шабанов Владимир Николаевич": 24,
-      "Против всех": 67
+      "gas:candidate-vibid:1001000112210": 33,
+      "gas:candidate-vibid:1001000225937": 104,
+      "gas:candidate-vibid:1001000131395": 110,
+      "gas:candidate-vibid:1001000220816": 35,
+      "gas:candidate-vibid:338300366702": 116,
+      "gas:candidate-vibid:1001000121848": 87,
+      "gas:candidate-vibid:338300367125": 20,
+      "gas:candidate-vibid:1001000136054": 24,
+      "special:against-all": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383003015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300367763&region=0&sub_region=0&type=429",
@@ -2188,15 +2188,15 @@ export const duma_2003_uik_428_region_38_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дробышева Людмила Владимировна": 12,
-      "Зайцев Константин Борисович": 33,
-      "Колесников Сергей Иванович": 53,
-      "Курочкин Валерий Иванович": 13,
-      "Маньков Валерий Александрович": 39,
-      "Примачек Владимир Александрович": 24,
-      "Сафронова Ирина Акимовна": 7,
-      "Шабанов Владимир Николаевич": 10,
-      "Против всех": 25
+      "gas:candidate-vibid:1001000112210": 12,
+      "gas:candidate-vibid:1001000225937": 33,
+      "gas:candidate-vibid:1001000131395": 53,
+      "gas:candidate-vibid:1001000220816": 13,
+      "gas:candidate-vibid:338300366702": 39,
+      "gas:candidate-vibid:1001000121848": 24,
+      "gas:candidate-vibid:338300367125": 7,
+      "gas:candidate-vibid:1001000136054": 10,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383003015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300367763&region=0&sub_region=0&type=429",
@@ -2246,15 +2246,15 @@ export const duma_2003_uik_428_region_38_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дробышева Людмила Владимировна": 6,
-      "Зайцев Константин Борисович": 13,
-      "Колесников Сергей Иванович": 5,
-      "Курочкин Валерий Иванович": 8,
-      "Маньков Валерий Александрович": 20,
-      "Примачек Владимир Александрович": 10,
-      "Сафронова Ирина Акимовна": 4,
-      "Шабанов Владимир Николаевич": 7,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000112210": 6,
+      "gas:candidate-vibid:1001000225937": 13,
+      "gas:candidate-vibid:1001000131395": 5,
+      "gas:candidate-vibid:1001000220816": 8,
+      "gas:candidate-vibid:338300366702": 20,
+      "gas:candidate-vibid:1001000121848": 10,
+      "gas:candidate-vibid:338300367125": 4,
+      "gas:candidate-vibid:1001000136054": 7,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383003015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300367763&region=0&sub_region=0&type=429",
@@ -2304,15 +2304,15 @@ export const duma_2003_uik_428_region_38_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дробышева Людмила Владимировна": 65,
-      "Зайцев Константин Борисович": 333,
-      "Колесников Сергей Иванович": 127,
-      "Курочкин Валерий Иванович": 66,
-      "Маньков Валерий Александрович": 107,
-      "Примачек Владимир Александрович": 63,
-      "Сафронова Ирина Акимовна": 106,
-      "Шабанов Владимир Николаевич": 124,
-      "Против всех": 257
+      "gas:candidate-vibid:1001000112210": 65,
+      "gas:candidate-vibid:1001000225937": 333,
+      "gas:candidate-vibid:1001000131395": 127,
+      "gas:candidate-vibid:1001000220816": 66,
+      "gas:candidate-vibid:338300366702": 107,
+      "gas:candidate-vibid:1001000121848": 63,
+      "gas:candidate-vibid:338300367125": 106,
+      "gas:candidate-vibid:1001000136054": 124,
+      "special:against-all": 257
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383003015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300367763&region=0&sub_region=0&type=429",
@@ -2362,15 +2362,15 @@ export const duma_2003_uik_428_region_38_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дробышева Людмила Владимировна": 7,
-      "Зайцев Константин Борисович": 60,
-      "Колесников Сергей Иванович": 65,
-      "Курочкин Валерий Иванович": 5,
-      "Маньков Валерий Александрович": 22,
-      "Примачек Владимир Александрович": 21,
-      "Сафронова Ирина Акимовна": 9,
-      "Шабанов Владимир Николаевич": 6,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000112210": 7,
+      "gas:candidate-vibid:1001000225937": 60,
+      "gas:candidate-vibid:1001000131395": 65,
+      "gas:candidate-vibid:1001000220816": 5,
+      "gas:candidate-vibid:338300366702": 22,
+      "gas:candidate-vibid:1001000121848": 21,
+      "gas:candidate-vibid:338300367125": 9,
+      "gas:candidate-vibid:1001000136054": 6,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383003015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300367763&region=0&sub_region=0&type=429",
@@ -2420,15 +2420,15 @@ export const duma_2003_uik_428_region_38_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дробышева Людмила Владимировна": 24,
-      "Зайцев Константин Борисович": 160,
-      "Колесников Сергей Иванович": 96,
-      "Курочкин Валерий Иванович": 64,
-      "Маньков Валерий Александрович": 415,
-      "Примачек Владимир Александрович": 210,
-      "Сафронова Ирина Акимовна": 18,
-      "Шабанов Владимир Николаевич": 42,
-      "Против всех": 92
+      "gas:candidate-vibid:1001000112210": 24,
+      "gas:candidate-vibid:1001000225937": 160,
+      "gas:candidate-vibid:1001000131395": 96,
+      "gas:candidate-vibid:1001000220816": 64,
+      "gas:candidate-vibid:338300366702": 415,
+      "gas:candidate-vibid:1001000121848": 210,
+      "gas:candidate-vibid:338300367125": 18,
+      "gas:candidate-vibid:1001000136054": 42,
+      "special:against-all": 92
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383003015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300367763&region=0&sub_region=0&type=429",
@@ -2478,15 +2478,15 @@ export const duma_2003_uik_428_region_38_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дробышева Людмила Владимировна": 9,
-      "Зайцев Константин Борисович": 186,
-      "Колесников Сергей Иванович": 125,
-      "Курочкин Валерий Иванович": 15,
-      "Маньков Валерий Александрович": 513,
-      "Примачек Владимир Александрович": 176,
-      "Сафронова Ирина Акимовна": 17,
-      "Шабанов Владимир Николаевич": 27,
-      "Против всех": 97
+      "gas:candidate-vibid:1001000112210": 9,
+      "gas:candidate-vibid:1001000225937": 186,
+      "gas:candidate-vibid:1001000131395": 125,
+      "gas:candidate-vibid:1001000220816": 15,
+      "gas:candidate-vibid:338300366702": 513,
+      "gas:candidate-vibid:1001000121848": 176,
+      "gas:candidate-vibid:338300367125": 17,
+      "gas:candidate-vibid:1001000136054": 27,
+      "special:against-all": 97
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383003015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300367763&region=0&sub_region=0&type=429",
@@ -2536,15 +2536,15 @@ export const duma_2003_uik_428_region_38_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дробышева Людмила Владимировна": 13,
-      "Зайцев Константин Борисович": 224,
-      "Колесников Сергей Иванович": 92,
-      "Курочкин Валерий Иванович": 17,
-      "Маньков Валерий Александрович": 455,
-      "Примачек Владимир Александрович": 201,
-      "Сафронова Ирина Акимовна": 9,
-      "Шабанов Владимир Николаевич": 36,
-      "Против всех": 98
+      "gas:candidate-vibid:1001000112210": 13,
+      "gas:candidate-vibid:1001000225937": 224,
+      "gas:candidate-vibid:1001000131395": 92,
+      "gas:candidate-vibid:1001000220816": 17,
+      "gas:candidate-vibid:338300366702": 455,
+      "gas:candidate-vibid:1001000121848": 201,
+      "gas:candidate-vibid:338300367125": 9,
+      "gas:candidate-vibid:1001000136054": 36,
+      "special:against-all": 98
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383003015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300367763&region=0&sub_region=0&type=429",
@@ -2594,15 +2594,15 @@ export const duma_2003_uik_428_region_38_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дробышева Людмила Владимировна": 12,
-      "Зайцев Константин Борисович": 148,
-      "Колесников Сергей Иванович": 137,
-      "Курочкин Валерий Иванович": 10,
-      "Маньков Валерий Александрович": 221,
-      "Примачек Владимир Александрович": 67,
-      "Сафронова Ирина Акимовна": 7,
-      "Шабанов Владимир Николаевич": 20,
-      "Против всех": 54
+      "gas:candidate-vibid:1001000112210": 12,
+      "gas:candidate-vibid:1001000225937": 148,
+      "gas:candidate-vibid:1001000131395": 137,
+      "gas:candidate-vibid:1001000220816": 10,
+      "gas:candidate-vibid:338300366702": 221,
+      "gas:candidate-vibid:1001000121848": 67,
+      "gas:candidate-vibid:338300367125": 7,
+      "gas:candidate-vibid:1001000136054": 20,
+      "special:against-all": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383003015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300367763&region=0&sub_region=0&type=429",
@@ -2652,15 +2652,15 @@ export const duma_2003_uik_428_region_38_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дробышева Людмила Владимировна": 1,
-      "Зайцев Константин Борисович": 8,
-      "Колесников Сергей Иванович": 11,
-      "Курочкин Валерий Иванович": 2,
-      "Маньков Валерий Александрович": 5,
-      "Примачек Владимир Александрович": 3,
-      "Сафронова Ирина Акимовна": 1,
-      "Шабанов Владимир Николаевич": 1,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000112210": 1,
+      "gas:candidate-vibid:1001000225937": 8,
+      "gas:candidate-vibid:1001000131395": 11,
+      "gas:candidate-vibid:1001000220816": 2,
+      "gas:candidate-vibid:338300366702": 5,
+      "gas:candidate-vibid:1001000121848": 3,
+      "gas:candidate-vibid:338300367125": 1,
+      "gas:candidate-vibid:1001000136054": 1,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383003015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300367763&region=0&sub_region=0&type=429",
@@ -2710,15 +2710,15 @@ export const duma_2003_uik_428_region_38_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дробышева Людмила Владимировна": 6,
-      "Зайцев Константин Борисович": 98,
-      "Колесников Сергей Иванович": 58,
-      "Курочкин Валерий Иванович": 8,
-      "Маньков Валерий Александрович": 235,
-      "Примачек Владимир Александрович": 39,
-      "Сафронова Ирина Акимовна": 5,
-      "Шабанов Владимир Николаевич": 13,
-      "Против всех": 53
+      "gas:candidate-vibid:1001000112210": 6,
+      "gas:candidate-vibid:1001000225937": 98,
+      "gas:candidate-vibid:1001000131395": 58,
+      "gas:candidate-vibid:1001000220816": 8,
+      "gas:candidate-vibid:338300366702": 235,
+      "gas:candidate-vibid:1001000121848": 39,
+      "gas:candidate-vibid:338300367125": 5,
+      "gas:candidate-vibid:1001000136054": 13,
+      "special:against-all": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383003015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300367763&region=0&sub_region=0&type=429",
@@ -2768,15 +2768,15 @@ export const duma_2003_uik_428_region_38_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дробышева Людмила Владимировна": 3,
-      "Зайцев Константин Борисович": 32,
-      "Колесников Сергей Иванович": 17,
-      "Курочкин Валерий Иванович": 5,
-      "Маньков Валерий Александрович": 105,
-      "Примачек Владимир Александрович": 19,
-      "Сафронова Ирина Акимовна": 1,
-      "Шабанов Владимир Николаевич": 1,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000112210": 3,
+      "gas:candidate-vibid:1001000225937": 32,
+      "gas:candidate-vibid:1001000131395": 17,
+      "gas:candidate-vibid:1001000220816": 5,
+      "gas:candidate-vibid:338300366702": 105,
+      "gas:candidate-vibid:1001000121848": 19,
+      "gas:candidate-vibid:338300367125": 1,
+      "gas:candidate-vibid:1001000136054": 1,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383003015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300367763&region=0&sub_region=0&type=429",
@@ -2826,15 +2826,15 @@ export const duma_2003_uik_428_region_38_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дробышева Людмила Владимировна": 24,
-      "Зайцев Константин Борисович": 192,
-      "Колесников Сергей Иванович": 78,
-      "Курочкин Валерий Иванович": 21,
-      "Маньков Валерий Александрович": 131,
-      "Примачек Владимир Александрович": 49,
-      "Сафронова Ирина Акимовна": 22,
-      "Шабанов Владимир Николаевич": 55,
-      "Против всех": 115
+      "gas:candidate-vibid:1001000112210": 24,
+      "gas:candidate-vibid:1001000225937": 192,
+      "gas:candidate-vibid:1001000131395": 78,
+      "gas:candidate-vibid:1001000220816": 21,
+      "gas:candidate-vibid:338300366702": 131,
+      "gas:candidate-vibid:1001000121848": 49,
+      "gas:candidate-vibid:338300367125": 22,
+      "gas:candidate-vibid:1001000136054": 55,
+      "special:against-all": 115
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383003015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300367763&region=0&sub_region=0&type=429",
@@ -2884,15 +2884,15 @@ export const duma_2003_uik_428_region_38_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дробышева Людмила Владимировна": 30,
-      "Зайцев Константин Борисович": 316,
-      "Колесников Сергей Иванович": 125,
-      "Курочкин Валерий Иванович": 33,
-      "Маньков Валерий Александрович": 225,
-      "Примачек Владимир Александрович": 80,
-      "Сафронова Ирина Акимовна": 46,
-      "Шабанов Владимир Николаевич": 117,
-      "Против всех": 175
+      "gas:candidate-vibid:1001000112210": 30,
+      "gas:candidate-vibid:1001000225937": 316,
+      "gas:candidate-vibid:1001000131395": 125,
+      "gas:candidate-vibid:1001000220816": 33,
+      "gas:candidate-vibid:338300366702": 225,
+      "gas:candidate-vibid:1001000121848": 80,
+      "gas:candidate-vibid:338300367125": 46,
+      "gas:candidate-vibid:1001000136054": 117,
+      "special:against-all": 175
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383003015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300367763&region=0&sub_region=0&type=429",
@@ -2942,15 +2942,15 @@ export const duma_2003_uik_428_region_38_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дробышева Людмила Владимировна": 12,
-      "Зайцев Константин Борисович": 86,
-      "Колесников Сергей Иванович": 85,
-      "Курочкин Валерий Иванович": 14,
-      "Маньков Валерий Александрович": 194,
-      "Примачек Владимир Александрович": 58,
-      "Сафронова Ирина Акимовна": 6,
-      "Шабанов Владимир Николаевич": 15,
-      "Против всех": 24
+      "gas:candidate-vibid:1001000112210": 12,
+      "gas:candidate-vibid:1001000225937": 86,
+      "gas:candidate-vibid:1001000131395": 85,
+      "gas:candidate-vibid:1001000220816": 14,
+      "gas:candidate-vibid:338300366702": 194,
+      "gas:candidate-vibid:1001000121848": 58,
+      "gas:candidate-vibid:338300367125": 6,
+      "gas:candidate-vibid:1001000136054": 15,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383003015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300367763&region=0&sub_region=0&type=429",
@@ -3000,15 +3000,15 @@ export const duma_2003_uik_428_region_38_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дробышева Людмила Владимировна": 23,
-      "Зайцев Константин Борисович": 136,
-      "Колесников Сергей Иванович": 159,
-      "Курочкин Валерий Иванович": 26,
-      "Маньков Валерий Александрович": 370,
-      "Примачек Владимир Александрович": 115,
-      "Сафронова Ирина Акимовна": 21,
-      "Шабанов Владимир Николаевич": 24,
-      "Против всех": 58
+      "gas:candidate-vibid:1001000112210": 23,
+      "gas:candidate-vibid:1001000225937": 136,
+      "gas:candidate-vibid:1001000131395": 159,
+      "gas:candidate-vibid:1001000220816": 26,
+      "gas:candidate-vibid:338300366702": 370,
+      "gas:candidate-vibid:1001000121848": 115,
+      "gas:candidate-vibid:338300367125": 21,
+      "gas:candidate-vibid:1001000136054": 24,
+      "special:against-all": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383003015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300367763&region=0&sub_region=0&type=429",
@@ -3058,15 +3058,15 @@ export const duma_2003_uik_428_region_38_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дробышева Людмила Владимировна": 3,
-      "Зайцев Константин Борисович": 19,
-      "Колесников Сергей Иванович": 24,
-      "Курочкин Валерий Иванович": 1,
-      "Маньков Валерий Александрович": 32,
-      "Примачек Владимир Александрович": 7,
-      "Сафронова Ирина Акимовна": 0,
-      "Шабанов Владимир Николаевич": 9,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000112210": 3,
+      "gas:candidate-vibid:1001000225937": 19,
+      "gas:candidate-vibid:1001000131395": 24,
+      "gas:candidate-vibid:1001000220816": 1,
+      "gas:candidate-vibid:338300366702": 32,
+      "gas:candidate-vibid:1001000121848": 7,
+      "gas:candidate-vibid:338300367125": 0,
+      "gas:candidate-vibid:1001000136054": 9,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383003015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300367763&region=0&sub_region=0&type=429",
@@ -3116,15 +3116,15 @@ export const duma_2003_uik_428_region_38_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дробышева Людмила Владимировна": 10,
-      "Зайцев Константин Борисович": 39,
-      "Колесников Сергей Иванович": 66,
-      "Курочкин Валерий Иванович": 3,
-      "Маньков Валерий Александрович": 34,
-      "Примачек Владимир Александрович": 13,
-      "Сафронова Ирина Акимовна": 6,
-      "Шабанов Владимир Николаевич": 5,
-      "Против всех": 31
+      "gas:candidate-vibid:1001000112210": 10,
+      "gas:candidate-vibid:1001000225937": 39,
+      "gas:candidate-vibid:1001000131395": 66,
+      "gas:candidate-vibid:1001000220816": 3,
+      "gas:candidate-vibid:338300366702": 34,
+      "gas:candidate-vibid:1001000121848": 13,
+      "gas:candidate-vibid:338300367125": 6,
+      "gas:candidate-vibid:1001000136054": 5,
+      "special:against-all": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383003015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300367763&region=0&sub_region=0&type=429",
@@ -3174,15 +3174,15 @@ export const duma_2003_uik_428_region_38_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дробышева Людмила Владимировна": 4,
-      "Зайцев Константин Борисович": 18,
-      "Колесников Сергей Иванович": 30,
-      "Курочкин Валерий Иванович": 3,
-      "Маньков Валерий Александрович": 27,
-      "Примачек Владимир Александрович": 9,
-      "Сафронова Ирина Акимовна": 0,
-      "Шабанов Владимир Николаевич": 6,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000112210": 4,
+      "gas:candidate-vibid:1001000225937": 18,
+      "gas:candidate-vibid:1001000131395": 30,
+      "gas:candidate-vibid:1001000220816": 3,
+      "gas:candidate-vibid:338300366702": 27,
+      "gas:candidate-vibid:1001000121848": 9,
+      "gas:candidate-vibid:338300367125": 0,
+      "gas:candidate-vibid:1001000136054": 6,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383003015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300367763&region=0&sub_region=0&type=429",
@@ -3232,15 +3232,15 @@ export const duma_2003_uik_428_region_38_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дробышева Людмила Владимировна": 18,
-      "Зайцев Константин Борисович": 115,
-      "Колесников Сергей Иванович": 62,
-      "Курочкин Валерий Иванович": 6,
-      "Маньков Валерий Александрович": 231,
-      "Примачек Владимир Александрович": 52,
-      "Сафронова Ирина Акимовна": 3,
-      "Шабанов Владимир Николаевич": 24,
-      "Против всех": 40
+      "gas:candidate-vibid:1001000112210": 18,
+      "gas:candidate-vibid:1001000225937": 115,
+      "gas:candidate-vibid:1001000131395": 62,
+      "gas:candidate-vibid:1001000220816": 6,
+      "gas:candidate-vibid:338300366702": 231,
+      "gas:candidate-vibid:1001000121848": 52,
+      "gas:candidate-vibid:338300367125": 3,
+      "gas:candidate-vibid:1001000136054": 24,
+      "special:against-all": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383003015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300367763&region=0&sub_region=0&type=429",
@@ -3290,15 +3290,15 @@ export const duma_2003_uik_428_region_38_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дробышева Людмила Владимировна": 9,
-      "Зайцев Константин Борисович": 108,
-      "Колесников Сергей Иванович": 80,
-      "Курочкин Валерий Иванович": 8,
-      "Маньков Валерий Александрович": 197,
-      "Примачек Владимир Александрович": 48,
-      "Сафронова Ирина Акимовна": 8,
-      "Шабанов Владимир Николаевич": 15,
-      "Против всех": 33
+      "gas:candidate-vibid:1001000112210": 9,
+      "gas:candidate-vibid:1001000225937": 108,
+      "gas:candidate-vibid:1001000131395": 80,
+      "gas:candidate-vibid:1001000220816": 8,
+      "gas:candidate-vibid:338300366702": 197,
+      "gas:candidate-vibid:1001000121848": 48,
+      "gas:candidate-vibid:338300367125": 8,
+      "gas:candidate-vibid:1001000136054": 15,
+      "special:against-all": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383003015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300367763&region=0&sub_region=0&type=429",
@@ -3348,15 +3348,15 @@ export const duma_2003_uik_428_region_38_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дробышева Людмила Владимировна": 22,
-      "Зайцев Константин Борисович": 69,
-      "Колесников Сергей Иванович": 67,
-      "Курочкин Валерий Иванович": 7,
-      "Маньков Валерий Александрович": 233,
-      "Примачек Владимир Александрович": 28,
-      "Сафронова Ирина Акимовна": 7,
-      "Шабанов Владимир Николаевич": 8,
-      "Против всех": 41
+      "gas:candidate-vibid:1001000112210": 22,
+      "gas:candidate-vibid:1001000225937": 69,
+      "gas:candidate-vibid:1001000131395": 67,
+      "gas:candidate-vibid:1001000220816": 7,
+      "gas:candidate-vibid:338300366702": 233,
+      "gas:candidate-vibid:1001000121848": 28,
+      "gas:candidate-vibid:338300367125": 7,
+      "gas:candidate-vibid:1001000136054": 8,
+      "special:against-all": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383003015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300367763&region=0&sub_region=0&type=429",
@@ -3406,15 +3406,15 @@ export const duma_2003_uik_428_region_38_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дробышева Людмила Владимировна": 0,
-      "Зайцев Константин Борисович": 11,
-      "Колесников Сергей Иванович": 25,
-      "Курочкин Валерий Иванович": 3,
-      "Маньков Валерий Александрович": 20,
-      "Примачек Владимир Александрович": 1,
-      "Сафронова Ирина Акимовна": 1,
-      "Шабанов Владимир Николаевич": 2,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000112210": 0,
+      "gas:candidate-vibid:1001000225937": 11,
+      "gas:candidate-vibid:1001000131395": 25,
+      "gas:candidate-vibid:1001000220816": 3,
+      "gas:candidate-vibid:338300366702": 20,
+      "gas:candidate-vibid:1001000121848": 1,
+      "gas:candidate-vibid:338300367125": 1,
+      "gas:candidate-vibid:1001000136054": 2,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383003015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300367763&region=0&sub_region=0&type=429",
@@ -3464,15 +3464,15 @@ export const duma_2003_uik_428_region_38_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дробышева Людмила Владимировна": 10,
-      "Зайцев Константин Борисович": 84,
-      "Колесников Сергей Иванович": 89,
-      "Курочкин Валерий Иванович": 11,
-      "Маньков Валерий Александрович": 99,
-      "Примачек Владимир Александрович": 45,
-      "Сафронова Ирина Акимовна": 7,
-      "Шабанов Владимир Николаевич": 4,
-      "Против всех": 45
+      "gas:candidate-vibid:1001000112210": 10,
+      "gas:candidate-vibid:1001000225937": 84,
+      "gas:candidate-vibid:1001000131395": 89,
+      "gas:candidate-vibid:1001000220816": 11,
+      "gas:candidate-vibid:338300366702": 99,
+      "gas:candidate-vibid:1001000121848": 45,
+      "gas:candidate-vibid:338300367125": 7,
+      "gas:candidate-vibid:1001000136054": 4,
+      "special:against-all": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383003015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300367763&region=0&sub_region=0&type=429",
@@ -3522,15 +3522,15 @@ export const duma_2003_uik_428_region_38_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дробышева Людмила Владимировна": 1,
-      "Зайцев Константин Борисович": 29,
-      "Колесников Сергей Иванович": 9,
-      "Курочкин Валерий Иванович": 2,
-      "Маньков Валерий Александрович": 28,
-      "Примачек Владимир Александрович": 4,
-      "Сафронова Ирина Акимовна": 4,
-      "Шабанов Владимир Николаевич": 1,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000112210": 1,
+      "gas:candidate-vibid:1001000225937": 29,
+      "gas:candidate-vibid:1001000131395": 9,
+      "gas:candidate-vibid:1001000220816": 2,
+      "gas:candidate-vibid:338300366702": 28,
+      "gas:candidate-vibid:1001000121848": 4,
+      "gas:candidate-vibid:338300367125": 4,
+      "gas:candidate-vibid:1001000136054": 1,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383003015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300367763&region=0&sub_region=0&type=429",
@@ -3580,15 +3580,15 @@ export const duma_2003_uik_428_region_38_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дробышева Людмила Владимировна": 7,
-      "Зайцев Константин Борисович": 76,
-      "Колесников Сергей Иванович": 60,
-      "Курочкин Валерий Иванович": 8,
-      "Маньков Валерий Александрович": 17,
-      "Примачек Владимир Александрович": 37,
-      "Сафронова Ирина Акимовна": 8,
-      "Шабанов Владимир Николаевич": 10,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000112210": 7,
+      "gas:candidate-vibid:1001000225937": 76,
+      "gas:candidate-vibid:1001000131395": 60,
+      "gas:candidate-vibid:1001000220816": 8,
+      "gas:candidate-vibid:338300366702": 17,
+      "gas:candidate-vibid:1001000121848": 37,
+      "gas:candidate-vibid:338300367125": 8,
+      "gas:candidate-vibid:1001000136054": 10,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383003015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300367763&region=0&sub_region=0&type=429",
@@ -3638,15 +3638,15 @@ export const duma_2003_uik_428_region_38_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дробышева Людмила Владимировна": 5,
-      "Зайцев Константин Борисович": 33,
-      "Колесников Сергей Иванович": 16,
-      "Курочкин Валерий Иванович": 5,
-      "Маньков Валерий Александрович": 6,
-      "Примачек Владимир Александрович": 7,
-      "Сафронова Ирина Акимовна": 2,
-      "Шабанов Владимир Николаевич": 3,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000112210": 5,
+      "gas:candidate-vibid:1001000225937": 33,
+      "gas:candidate-vibid:1001000131395": 16,
+      "gas:candidate-vibid:1001000220816": 5,
+      "gas:candidate-vibid:338300366702": 6,
+      "gas:candidate-vibid:1001000121848": 7,
+      "gas:candidate-vibid:338300367125": 2,
+      "gas:candidate-vibid:1001000136054": 3,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383003015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300367763&region=0&sub_region=0&type=429",
@@ -3696,15 +3696,15 @@ export const duma_2003_uik_428_region_38_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дробышева Людмила Владимировна": 12,
-      "Зайцев Константин Борисович": 67,
-      "Колесников Сергей Иванович": 113,
-      "Курочкин Валерий Иванович": 7,
-      "Маньков Валерий Александрович": 20,
-      "Примачек Владимир Александрович": 36,
-      "Сафронова Ирина Акимовна": 10,
-      "Шабанов Владимир Николаевич": 11,
-      "Против всех": 26
+      "gas:candidate-vibid:1001000112210": 12,
+      "gas:candidate-vibid:1001000225937": 67,
+      "gas:candidate-vibid:1001000131395": 113,
+      "gas:candidate-vibid:1001000220816": 7,
+      "gas:candidate-vibid:338300366702": 20,
+      "gas:candidate-vibid:1001000121848": 36,
+      "gas:candidate-vibid:338300367125": 10,
+      "gas:candidate-vibid:1001000136054": 11,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383003015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300367763&region=0&sub_region=0&type=429",
@@ -3754,15 +3754,15 @@ export const duma_2003_uik_428_region_38_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дробышева Людмила Владимировна": 6,
-      "Зайцев Константин Борисович": 30,
-      "Колесников Сергей Иванович": 74,
-      "Курочкин Валерий Иванович": 7,
-      "Маньков Валерий Александрович": 9,
-      "Примачек Владимир Александрович": 20,
-      "Сафронова Ирина Акимовна": 6,
-      "Шабанов Владимир Николаевич": 3,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000112210": 6,
+      "gas:candidate-vibid:1001000225937": 30,
+      "gas:candidate-vibid:1001000131395": 74,
+      "gas:candidate-vibid:1001000220816": 7,
+      "gas:candidate-vibid:338300366702": 9,
+      "gas:candidate-vibid:1001000121848": 20,
+      "gas:candidate-vibid:338300367125": 6,
+      "gas:candidate-vibid:1001000136054": 3,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383003015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300367763&region=0&sub_region=0&type=429",
@@ -3812,15 +3812,15 @@ export const duma_2003_uik_428_region_38_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дробышева Людмила Владимировна": 15,
-      "Зайцев Константин Борисович": 204,
-      "Колесников Сергей Иванович": 155,
-      "Курочкин Валерий Иванович": 13,
-      "Маньков Валерий Александрович": 49,
-      "Примачек Владимир Александрович": 50,
-      "Сафронова Ирина Акимовна": 14,
-      "Шабанов Владимир Николаевич": 19,
-      "Против всех": 45
+      "gas:candidate-vibid:1001000112210": 15,
+      "gas:candidate-vibid:1001000225937": 204,
+      "gas:candidate-vibid:1001000131395": 155,
+      "gas:candidate-vibid:1001000220816": 13,
+      "gas:candidate-vibid:338300366702": 49,
+      "gas:candidate-vibid:1001000121848": 50,
+      "gas:candidate-vibid:338300367125": 14,
+      "gas:candidate-vibid:1001000136054": 19,
+      "special:against-all": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383003015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300367763&region=0&sub_region=0&type=429",
@@ -3870,15 +3870,15 @@ export const duma_2003_uik_428_region_38_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дробышева Людмила Владимировна": 1,
-      "Зайцев Константин Борисович": 11,
-      "Колесников Сергей Иванович": 34,
-      "Курочкин Валерий Иванович": 1,
-      "Маньков Валерий Александрович": 6,
-      "Примачек Владимир Александрович": 9,
-      "Сафронова Ирина Акимовна": 0,
-      "Шабанов Владимир Николаевич": 3,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000112210": 1,
+      "gas:candidate-vibid:1001000225937": 11,
+      "gas:candidate-vibid:1001000131395": 34,
+      "gas:candidate-vibid:1001000220816": 1,
+      "gas:candidate-vibid:338300366702": 6,
+      "gas:candidate-vibid:1001000121848": 9,
+      "gas:candidate-vibid:338300367125": 0,
+      "gas:candidate-vibid:1001000136054": 3,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383003015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300367763&region=0&sub_region=0&type=429",
@@ -3928,15 +3928,15 @@ export const duma_2003_uik_428_region_38_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дробышева Людмила Владимировна": 9,
-      "Зайцев Константин Борисович": 49,
-      "Колесников Сергей Иванович": 54,
-      "Курочкин Валерий Иванович": 0,
-      "Маньков Валерий Александрович": 6,
-      "Примачек Владимир Александрович": 25,
-      "Сафронова Ирина Акимовна": 3,
-      "Шабанов Владимир Николаевич": 4,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000112210": 9,
+      "gas:candidate-vibid:1001000225937": 49,
+      "gas:candidate-vibid:1001000131395": 54,
+      "gas:candidate-vibid:1001000220816": 0,
+      "gas:candidate-vibid:338300366702": 6,
+      "gas:candidate-vibid:1001000121848": 25,
+      "gas:candidate-vibid:338300367125": 3,
+      "gas:candidate-vibid:1001000136054": 4,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383003015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300367763&region=0&sub_region=0&type=429",
@@ -3986,15 +3986,15 @@ export const duma_2003_uik_428_region_38_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дробышева Людмила Владимировна": 9,
-      "Зайцев Константин Борисович": 25,
-      "Колесников Сергей Иванович": 54,
-      "Курочкин Валерий Иванович": 8,
-      "Маньков Валерий Александрович": 7,
-      "Примачек Владимир Александрович": 1,
-      "Сафронова Ирина Акимовна": 1,
-      "Шабанов Владимир Николаевич": 1,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000112210": 9,
+      "gas:candidate-vibid:1001000225937": 25,
+      "gas:candidate-vibid:1001000131395": 54,
+      "gas:candidate-vibid:1001000220816": 8,
+      "gas:candidate-vibid:338300366702": 7,
+      "gas:candidate-vibid:1001000121848": 1,
+      "gas:candidate-vibid:338300367125": 1,
+      "gas:candidate-vibid:1001000136054": 1,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383003015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300367763&region=0&sub_region=0&type=429",
@@ -4044,15 +4044,15 @@ export const duma_2003_uik_428_region_38_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дробышева Людмила Владимировна": 10,
-      "Зайцев Константин Борисович": 75,
-      "Колесников Сергей Иванович": 155,
-      "Курочкин Валерий Иванович": 42,
-      "Маньков Валерий Александрович": 75,
-      "Примачек Владимир Александрович": 40,
-      "Сафронова Ирина Акимовна": 16,
-      "Шабанов Владимир Николаевич": 13,
-      "Против всех": 31
+      "gas:candidate-vibid:1001000112210": 10,
+      "gas:candidate-vibid:1001000225937": 75,
+      "gas:candidate-vibid:1001000131395": 155,
+      "gas:candidate-vibid:1001000220816": 42,
+      "gas:candidate-vibid:338300366702": 75,
+      "gas:candidate-vibid:1001000121848": 40,
+      "gas:candidate-vibid:338300367125": 16,
+      "gas:candidate-vibid:1001000136054": 13,
+      "special:against-all": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383003015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300367763&region=0&sub_region=0&type=429",
@@ -4102,15 +4102,15 @@ export const duma_2003_uik_428_region_38_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дробышева Людмила Владимировна": 6,
-      "Зайцев Константин Борисович": 15,
-      "Колесников Сергей Иванович": 16,
-      "Курочкин Валерий Иванович": 1,
-      "Маньков Валерий Александрович": 14,
-      "Примачек Владимир Александрович": 16,
-      "Сафронова Ирина Акимовна": 3,
-      "Шабанов Владимир Николаевич": 1,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000112210": 6,
+      "gas:candidate-vibid:1001000225937": 15,
+      "gas:candidate-vibid:1001000131395": 16,
+      "gas:candidate-vibid:1001000220816": 1,
+      "gas:candidate-vibid:338300366702": 14,
+      "gas:candidate-vibid:1001000121848": 16,
+      "gas:candidate-vibid:338300367125": 3,
+      "gas:candidate-vibid:1001000136054": 1,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383003015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300367763&region=0&sub_region=0&type=429",
@@ -4160,15 +4160,15 @@ export const duma_2003_uik_428_region_38_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дробышева Людмила Владимировна": 17,
-      "Зайцев Константин Борисович": 137,
-      "Колесников Сергей Иванович": 133,
-      "Курочкин Валерий Иванович": 29,
-      "Маньков Валерий Александрович": 34,
-      "Примачек Владимир Александрович": 38,
-      "Сафронова Ирина Акимовна": 15,
-      "Шабанов Владимир Николаевич": 22,
-      "Против всех": 38
+      "gas:candidate-vibid:1001000112210": 17,
+      "gas:candidate-vibid:1001000225937": 137,
+      "gas:candidate-vibid:1001000131395": 133,
+      "gas:candidate-vibid:1001000220816": 29,
+      "gas:candidate-vibid:338300366702": 34,
+      "gas:candidate-vibid:1001000121848": 38,
+      "gas:candidate-vibid:338300367125": 15,
+      "gas:candidate-vibid:1001000136054": 22,
+      "special:against-all": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383003015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300367763&region=0&sub_region=0&type=429",
@@ -4218,15 +4218,15 @@ export const duma_2003_uik_428_region_38_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дробышева Людмила Владимировна": 0,
-      "Зайцев Константин Борисович": 15,
-      "Колесников Сергей Иванович": 28,
-      "Курочкин Валерий Иванович": 5,
-      "Маньков Валерий Александрович": 1,
-      "Примачек Владимир Александрович": 7,
-      "Сафронова Ирина Акимовна": 0,
-      "Шабанов Владимир Николаевич": 2,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000112210": 0,
+      "gas:candidate-vibid:1001000225937": 15,
+      "gas:candidate-vibid:1001000131395": 28,
+      "gas:candidate-vibid:1001000220816": 5,
+      "gas:candidate-vibid:338300366702": 1,
+      "gas:candidate-vibid:1001000121848": 7,
+      "gas:candidate-vibid:338300367125": 0,
+      "gas:candidate-vibid:1001000136054": 2,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383003015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300367763&region=0&sub_region=0&type=429",
@@ -4276,15 +4276,15 @@ export const duma_2003_uik_428_region_38_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дробышева Людмила Владимировна": 0,
-      "Зайцев Константин Борисович": 15,
-      "Колесников Сергей Иванович": 7,
-      "Курочкин Валерий Иванович": 3,
-      "Маньков Валерий Александрович": 0,
-      "Примачек Владимир Александрович": 2,
-      "Сафронова Ирина Акимовна": 0,
-      "Шабанов Владимир Николаевич": 0,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000112210": 0,
+      "gas:candidate-vibid:1001000225937": 15,
+      "gas:candidate-vibid:1001000131395": 7,
+      "gas:candidate-vibid:1001000220816": 3,
+      "gas:candidate-vibid:338300366702": 0,
+      "gas:candidate-vibid:1001000121848": 2,
+      "gas:candidate-vibid:338300367125": 0,
+      "gas:candidate-vibid:1001000136054": 0,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383003015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300367763&region=0&sub_region=0&type=429",

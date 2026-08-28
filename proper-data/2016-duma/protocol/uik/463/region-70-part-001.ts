@@ -43,14 +43,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 17,
-      "Волков Андрей Григорьевич": 42,
-      "Диденко Алексей Николаевич": 162,
-      "Ерёмин Василий Васильевич": 47,
-      "Жабин Сергей Иванович": 24,
-      "Кротов Евгений Геннадьевич": 5,
-      "Ростовцев Александр Валерьевич": 72,
-      "Фёдоров Алексей Геннадьевич": 94
+      "gas:candidate-vibid:2702000525037": 17,
+      "gas:candidate-vibid:2702000515513": 42,
+      "gas:candidate-vibid:2702000473558": 162,
+      "gas:candidate-vibid:2702000525375": 47,
+      "gas:candidate-vibid:2702000525149": 24,
+      "gas:candidate-vibid:2702000523838": 5,
+      "gas:candidate-vibid:2702000523769": 72,
+      "gas:candidate-vibid:2702000524513": 94
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469002&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469002&type=464",
@@ -101,14 +101,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 25,
-      "Волков Андрей Григорьевич": 46,
-      "Диденко Алексей Николаевич": 219,
-      "Ерёмин Василий Васильевич": 44,
-      "Жабин Сергей Иванович": 46,
-      "Кротов Евгений Геннадьевич": 10,
-      "Ростовцев Александр Валерьевич": 119,
-      "Фёдоров Алексей Геннадьевич": 118
+      "gas:candidate-vibid:2702000525037": 25,
+      "gas:candidate-vibid:2702000515513": 46,
+      "gas:candidate-vibid:2702000473558": 219,
+      "gas:candidate-vibid:2702000525375": 44,
+      "gas:candidate-vibid:2702000525149": 46,
+      "gas:candidate-vibid:2702000523838": 10,
+      "gas:candidate-vibid:2702000523769": 119,
+      "gas:candidate-vibid:2702000524513": 118
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469002&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469002&type=464",
@@ -159,14 +159,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 11,
-      "Волков Андрей Григорьевич": 14,
-      "Диденко Алексей Николаевич": 126,
-      "Ерёмин Василий Васильевич": 15,
-      "Жабин Сергей Иванович": 10,
-      "Кротов Евгений Геннадьевич": 15,
-      "Ростовцев Александр Валерьевич": 32,
-      "Фёдоров Алексей Геннадьевич": 33
+      "gas:candidate-vibid:2702000525037": 11,
+      "gas:candidate-vibid:2702000515513": 14,
+      "gas:candidate-vibid:2702000473558": 126,
+      "gas:candidate-vibid:2702000525375": 15,
+      "gas:candidate-vibid:2702000525149": 10,
+      "gas:candidate-vibid:2702000523838": 15,
+      "gas:candidate-vibid:2702000523769": 32,
+      "gas:candidate-vibid:2702000524513": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469002&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469002&type=464",
@@ -217,14 +217,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 28,
-      "Волков Андрей Григорьевич": 55,
-      "Диденко Алексей Николаевич": 277,
-      "Ерёмин Василий Васильевич": 48,
-      "Жабин Сергей Иванович": 42,
-      "Кротов Евгений Геннадьевич": 18,
-      "Ростовцев Александр Валерьевич": 111,
-      "Фёдоров Алексей Геннадьевич": 139
+      "gas:candidate-vibid:2702000525037": 28,
+      "gas:candidate-vibid:2702000515513": 55,
+      "gas:candidate-vibid:2702000473558": 277,
+      "gas:candidate-vibid:2702000525375": 48,
+      "gas:candidate-vibid:2702000525149": 42,
+      "gas:candidate-vibid:2702000523838": 18,
+      "gas:candidate-vibid:2702000523769": 111,
+      "gas:candidate-vibid:2702000524513": 139
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469002&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469002&type=464",
@@ -275,14 +275,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 35,
-      "Волков Андрей Григорьевич": 41,
-      "Диденко Алексей Николаевич": 223,
-      "Ерёмин Василий Васильевич": 45,
-      "Жабин Сергей Иванович": 39,
-      "Кротов Евгений Геннадьевич": 11,
-      "Ростовцев Александр Валерьевич": 99,
-      "Фёдоров Алексей Геннадьевич": 90
+      "gas:candidate-vibid:2702000525037": 35,
+      "gas:candidate-vibid:2702000515513": 41,
+      "gas:candidate-vibid:2702000473558": 223,
+      "gas:candidate-vibid:2702000525375": 45,
+      "gas:candidate-vibid:2702000525149": 39,
+      "gas:candidate-vibid:2702000523838": 11,
+      "gas:candidate-vibid:2702000523769": 99,
+      "gas:candidate-vibid:2702000524513": 90
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469002&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469002&type=464",
@@ -333,14 +333,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 23,
-      "Волков Андрей Григорьевич": 29,
-      "Диденко Алексей Николаевич": 229,
-      "Ерёмин Василий Васильевич": 45,
-      "Жабин Сергей Иванович": 26,
-      "Кротов Евгений Геннадьевич": 14,
-      "Ростовцев Александр Валерьевич": 76,
-      "Фёдоров Алексей Геннадьевич": 78
+      "gas:candidate-vibid:2702000525037": 23,
+      "gas:candidate-vibid:2702000515513": 29,
+      "gas:candidate-vibid:2702000473558": 229,
+      "gas:candidate-vibid:2702000525375": 45,
+      "gas:candidate-vibid:2702000525149": 26,
+      "gas:candidate-vibid:2702000523838": 14,
+      "gas:candidate-vibid:2702000523769": 76,
+      "gas:candidate-vibid:2702000524513": 78
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469002&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469002&type=464",
@@ -391,14 +391,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 7,
-      "Волков Андрей Григорьевич": 18,
-      "Диденко Алексей Николаевич": 86,
-      "Ерёмин Василий Васильевич": 11,
-      "Жабин Сергей Иванович": 24,
-      "Кротов Евгений Геннадьевич": 5,
-      "Ростовцев Александр Валерьевич": 17,
-      "Фёдоров Алексей Геннадьевич": 45
+      "gas:candidate-vibid:2702000525037": 7,
+      "gas:candidate-vibid:2702000515513": 18,
+      "gas:candidate-vibid:2702000473558": 86,
+      "gas:candidate-vibid:2702000525375": 11,
+      "gas:candidate-vibid:2702000525149": 24,
+      "gas:candidate-vibid:2702000523838": 5,
+      "gas:candidate-vibid:2702000523769": 17,
+      "gas:candidate-vibid:2702000524513": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469002&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469002&type=464",
@@ -449,14 +449,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 2,
-      "Волков Андрей Григорьевич": 12,
-      "Диденко Алексей Николаевич": 75,
-      "Ерёмин Василий Васильевич": 8,
-      "Жабин Сергей Иванович": 6,
-      "Кротов Евгений Геннадьевич": 4,
-      "Ростовцев Александр Валерьевич": 22,
-      "Фёдоров Алексей Геннадьевич": 36
+      "gas:candidate-vibid:2702000525037": 2,
+      "gas:candidate-vibid:2702000515513": 12,
+      "gas:candidate-vibid:2702000473558": 75,
+      "gas:candidate-vibid:2702000525375": 8,
+      "gas:candidate-vibid:2702000525149": 6,
+      "gas:candidate-vibid:2702000523838": 4,
+      "gas:candidate-vibid:2702000523769": 22,
+      "gas:candidate-vibid:2702000524513": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469002&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469002&type=464",
@@ -507,14 +507,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 16,
-      "Волков Андрей Григорьевич": 50,
-      "Диденко Алексей Николаевич": 235,
-      "Ерёмин Василий Васильевич": 45,
-      "Жабин Сергей Иванович": 28,
-      "Кротов Евгений Геннадьевич": 18,
-      "Ростовцев Александр Валерьевич": 73,
-      "Фёдоров Алексей Геннадьевич": 91
+      "gas:candidate-vibid:2702000525037": 16,
+      "gas:candidate-vibid:2702000515513": 50,
+      "gas:candidate-vibid:2702000473558": 235,
+      "gas:candidate-vibid:2702000525375": 45,
+      "gas:candidate-vibid:2702000525149": 28,
+      "gas:candidate-vibid:2702000523838": 18,
+      "gas:candidate-vibid:2702000523769": 73,
+      "gas:candidate-vibid:2702000524513": 91
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469002&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469002&type=464",
@@ -565,14 +565,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 20,
-      "Волков Андрей Григорьевич": 38,
-      "Диденко Алексей Николаевич": 223,
-      "Ерёмин Василий Васильевич": 46,
-      "Жабин Сергей Иванович": 41,
-      "Кротов Евгений Геннадьевич": 21,
-      "Ростовцев Александр Валерьевич": 78,
-      "Фёдоров Алексей Геннадьевич": 91
+      "gas:candidate-vibid:2702000525037": 20,
+      "gas:candidate-vibid:2702000515513": 38,
+      "gas:candidate-vibid:2702000473558": 223,
+      "gas:candidate-vibid:2702000525375": 46,
+      "gas:candidate-vibid:2702000525149": 41,
+      "gas:candidate-vibid:2702000523838": 21,
+      "gas:candidate-vibid:2702000523769": 78,
+      "gas:candidate-vibid:2702000524513": 91
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469002&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469002&type=464",
@@ -623,14 +623,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 16,
-      "Волков Андрей Григорьевич": 36,
-      "Диденко Алексей Николаевич": 212,
-      "Ерёмин Василий Васильевич": 57,
-      "Жабин Сергей Иванович": 36,
-      "Кротов Евгений Геннадьевич": 13,
-      "Ростовцев Александр Валерьевич": 34,
-      "Фёдоров Алексей Геннадьевич": 82
+      "gas:candidate-vibid:2702000525037": 16,
+      "gas:candidate-vibid:2702000515513": 36,
+      "gas:candidate-vibid:2702000473558": 212,
+      "gas:candidate-vibid:2702000525375": 57,
+      "gas:candidate-vibid:2702000525149": 36,
+      "gas:candidate-vibid:2702000523838": 13,
+      "gas:candidate-vibid:2702000523769": 34,
+      "gas:candidate-vibid:2702000524513": 82
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469002&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469002&type=464",
@@ -681,14 +681,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 15,
-      "Волков Андрей Григорьевич": 24,
-      "Диденко Алексей Николаевич": 174,
-      "Ерёмин Василий Васильевич": 52,
-      "Жабин Сергей Иванович": 22,
-      "Кротов Евгений Геннадьевич": 12,
-      "Ростовцев Александр Валерьевич": 28,
-      "Фёдоров Алексей Геннадьевич": 86
+      "gas:candidate-vibid:2702000525037": 15,
+      "gas:candidate-vibid:2702000515513": 24,
+      "gas:candidate-vibid:2702000473558": 174,
+      "gas:candidate-vibid:2702000525375": 52,
+      "gas:candidate-vibid:2702000525149": 22,
+      "gas:candidate-vibid:2702000523838": 12,
+      "gas:candidate-vibid:2702000523769": 28,
+      "gas:candidate-vibid:2702000524513": 86
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469002&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469002&type=464",
@@ -739,14 +739,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 21,
-      "Волков Андрей Григорьевич": 27,
-      "Диденко Алексей Николаевич": 141,
-      "Ерёмин Василий Васильевич": 43,
-      "Жабин Сергей Иванович": 19,
-      "Кротов Евгений Геннадьевич": 12,
-      "Ростовцев Александр Валерьевич": 27,
-      "Фёдоров Алексей Геннадьевич": 42
+      "gas:candidate-vibid:2702000525037": 21,
+      "gas:candidate-vibid:2702000515513": 27,
+      "gas:candidate-vibid:2702000473558": 141,
+      "gas:candidate-vibid:2702000525375": 43,
+      "gas:candidate-vibid:2702000525149": 19,
+      "gas:candidate-vibid:2702000523838": 12,
+      "gas:candidate-vibid:2702000523769": 27,
+      "gas:candidate-vibid:2702000524513": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469002&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469002&type=464",
@@ -797,14 +797,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 11,
-      "Волков Андрей Григорьевич": 23,
-      "Диденко Алексей Николаевич": 173,
-      "Ерёмин Василий Васильевич": 44,
-      "Жабин Сергей Иванович": 22,
-      "Кротов Евгений Геннадьевич": 8,
-      "Ростовцев Александр Валерьевич": 58,
-      "Фёдоров Алексей Геннадьевич": 81
+      "gas:candidate-vibid:2702000525037": 11,
+      "gas:candidate-vibid:2702000515513": 23,
+      "gas:candidate-vibid:2702000473558": 173,
+      "gas:candidate-vibid:2702000525375": 44,
+      "gas:candidate-vibid:2702000525149": 22,
+      "gas:candidate-vibid:2702000523838": 8,
+      "gas:candidate-vibid:2702000523769": 58,
+      "gas:candidate-vibid:2702000524513": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469002&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469002&type=464",
@@ -855,14 +855,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 19,
-      "Волков Андрей Григорьевич": 37,
-      "Диденко Алексей Николаевич": 232,
-      "Ерёмин Василий Васильевич": 51,
-      "Жабин Сергей Иванович": 28,
-      "Кротов Евгений Геннадьевич": 21,
-      "Ростовцев Александр Валерьевич": 105,
-      "Фёдоров Алексей Геннадьевич": 85
+      "gas:candidate-vibid:2702000525037": 19,
+      "gas:candidate-vibid:2702000515513": 37,
+      "gas:candidate-vibid:2702000473558": 232,
+      "gas:candidate-vibid:2702000525375": 51,
+      "gas:candidate-vibid:2702000525149": 28,
+      "gas:candidate-vibid:2702000523838": 21,
+      "gas:candidate-vibid:2702000523769": 105,
+      "gas:candidate-vibid:2702000524513": 85
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469002&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469002&type=464",
@@ -913,14 +913,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 20,
-      "Волков Андрей Григорьевич": 39,
-      "Диденко Алексей Николаевич": 190,
-      "Ерёмин Василий Васильевич": 36,
-      "Жабин Сергей Иванович": 36,
-      "Кротов Евгений Геннадьевич": 20,
-      "Ростовцев Александр Валерьевич": 77,
-      "Фёдоров Алексей Геннадьевич": 100
+      "gas:candidate-vibid:2702000525037": 20,
+      "gas:candidate-vibid:2702000515513": 39,
+      "gas:candidate-vibid:2702000473558": 190,
+      "gas:candidate-vibid:2702000525375": 36,
+      "gas:candidate-vibid:2702000525149": 36,
+      "gas:candidate-vibid:2702000523838": 20,
+      "gas:candidate-vibid:2702000523769": 77,
+      "gas:candidate-vibid:2702000524513": 100
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469002&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469002&type=464",
@@ -971,14 +971,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 24,
-      "Волков Андрей Григорьевич": 24,
-      "Диденко Алексей Николаевич": 183,
-      "Ерёмин Василий Васильевич": 43,
-      "Жабин Сергей Иванович": 25,
-      "Кротов Евгений Геннадьевич": 12,
-      "Ростовцев Александр Валерьевич": 84,
-      "Фёдоров Алексей Геннадьевич": 87
+      "gas:candidate-vibid:2702000525037": 24,
+      "gas:candidate-vibid:2702000515513": 24,
+      "gas:candidate-vibid:2702000473558": 183,
+      "gas:candidate-vibid:2702000525375": 43,
+      "gas:candidate-vibid:2702000525149": 25,
+      "gas:candidate-vibid:2702000523838": 12,
+      "gas:candidate-vibid:2702000523769": 84,
+      "gas:candidate-vibid:2702000524513": 87
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469002&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469002&type=464",
@@ -1029,14 +1029,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 7,
-      "Волков Андрей Григорьевич": 26,
-      "Диденко Алексей Николаевич": 124,
-      "Ерёмин Василий Васильевич": 25,
-      "Жабин Сергей Иванович": 15,
-      "Кротов Евгений Геннадьевич": 13,
-      "Ростовцев Александр Валерьевич": 41,
-      "Фёдоров Алексей Геннадьевич": 46
+      "gas:candidate-vibid:2702000525037": 7,
+      "gas:candidate-vibid:2702000515513": 26,
+      "gas:candidate-vibid:2702000473558": 124,
+      "gas:candidate-vibid:2702000525375": 25,
+      "gas:candidate-vibid:2702000525149": 15,
+      "gas:candidate-vibid:2702000523838": 13,
+      "gas:candidate-vibid:2702000523769": 41,
+      "gas:candidate-vibid:2702000524513": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469002&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469002&type=464",
@@ -1087,14 +1087,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 26,
-      "Волков Андрей Григорьевич": 29,
-      "Диденко Алексей Николаевич": 188,
-      "Ерёмин Василий Васильевич": 64,
-      "Жабин Сергей Иванович": 26,
-      "Кротов Евгений Геннадьевич": 19,
-      "Ростовцев Александр Валерьевич": 35,
-      "Фёдоров Алексей Геннадьевич": 82
+      "gas:candidate-vibid:2702000525037": 26,
+      "gas:candidate-vibid:2702000515513": 29,
+      "gas:candidate-vibid:2702000473558": 188,
+      "gas:candidate-vibid:2702000525375": 64,
+      "gas:candidate-vibid:2702000525149": 26,
+      "gas:candidate-vibid:2702000523838": 19,
+      "gas:candidate-vibid:2702000523769": 35,
+      "gas:candidate-vibid:2702000524513": 82
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469002&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469002&type=464",
@@ -1145,14 +1145,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 13,
-      "Волков Андрей Григорьевич": 28,
-      "Диденко Алексей Николаевич": 144,
-      "Ерёмин Василий Васильевич": 53,
-      "Жабин Сергей Иванович": 16,
-      "Кротов Евгений Геннадьевич": 12,
-      "Ростовцев Александр Валерьевич": 40,
-      "Фёдоров Алексей Геннадьевич": 50
+      "gas:candidate-vibid:2702000525037": 13,
+      "gas:candidate-vibid:2702000515513": 28,
+      "gas:candidate-vibid:2702000473558": 144,
+      "gas:candidate-vibid:2702000525375": 53,
+      "gas:candidate-vibid:2702000525149": 16,
+      "gas:candidate-vibid:2702000523838": 12,
+      "gas:candidate-vibid:2702000523769": 40,
+      "gas:candidate-vibid:2702000524513": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469002&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469002&type=464",
@@ -1203,14 +1203,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 18,
-      "Волков Андрей Григорьевич": 23,
-      "Диденко Алексей Николаевич": 161,
-      "Ерёмин Василий Васильевич": 37,
-      "Жабин Сергей Иванович": 18,
-      "Кротов Евгений Геннадьевич": 17,
-      "Ростовцев Александр Валерьевич": 54,
-      "Фёдоров Алексей Геннадьевич": 74
+      "gas:candidate-vibid:2702000525037": 18,
+      "gas:candidate-vibid:2702000515513": 23,
+      "gas:candidate-vibid:2702000473558": 161,
+      "gas:candidate-vibid:2702000525375": 37,
+      "gas:candidate-vibid:2702000525149": 18,
+      "gas:candidate-vibid:2702000523838": 17,
+      "gas:candidate-vibid:2702000523769": 54,
+      "gas:candidate-vibid:2702000524513": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469002&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469002&type=464",
@@ -1261,14 +1261,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 15,
-      "Волков Андрей Григорьевич": 24,
-      "Диденко Алексей Николаевич": 156,
-      "Ерёмин Василий Васильевич": 35,
-      "Жабин Сергей Иванович": 8,
-      "Кротов Евгений Геннадьевич": 11,
-      "Ростовцев Александр Валерьевич": 72,
-      "Фёдоров Алексей Геннадьевич": 47
+      "gas:candidate-vibid:2702000525037": 15,
+      "gas:candidate-vibid:2702000515513": 24,
+      "gas:candidate-vibid:2702000473558": 156,
+      "gas:candidate-vibid:2702000525375": 35,
+      "gas:candidate-vibid:2702000525149": 8,
+      "gas:candidate-vibid:2702000523838": 11,
+      "gas:candidate-vibid:2702000523769": 72,
+      "gas:candidate-vibid:2702000524513": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469002&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469002&type=464",
@@ -1319,14 +1319,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 36,
-      "Волков Андрей Григорьевич": 41,
-      "Диденко Алексей Николаевич": 246,
-      "Ерёмин Василий Васильевич": 38,
-      "Жабин Сергей Иванович": 28,
-      "Кротов Евгений Геннадьевич": 17,
-      "Ростовцев Александр Валерьевич": 120,
-      "Фёдоров Алексей Геннадьевич": 77
+      "gas:candidate-vibid:2702000525037": 36,
+      "gas:candidate-vibid:2702000515513": 41,
+      "gas:candidate-vibid:2702000473558": 246,
+      "gas:candidate-vibid:2702000525375": 38,
+      "gas:candidate-vibid:2702000525149": 28,
+      "gas:candidate-vibid:2702000523838": 17,
+      "gas:candidate-vibid:2702000523769": 120,
+      "gas:candidate-vibid:2702000524513": 77
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469002&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469002&type=464",
@@ -1377,14 +1377,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 21,
-      "Волков Андрей Григорьевич": 30,
-      "Диденко Алексей Николаевич": 224,
-      "Ерёмин Василий Васильевич": 42,
-      "Жабин Сергей Иванович": 18,
-      "Кротов Евгений Геннадьевич": 27,
-      "Ростовцев Александр Валерьевич": 69,
-      "Фёдоров Алексей Геннадьевич": 82
+      "gas:candidate-vibid:2702000525037": 21,
+      "gas:candidate-vibid:2702000515513": 30,
+      "gas:candidate-vibid:2702000473558": 224,
+      "gas:candidate-vibid:2702000525375": 42,
+      "gas:candidate-vibid:2702000525149": 18,
+      "gas:candidate-vibid:2702000523838": 27,
+      "gas:candidate-vibid:2702000523769": 69,
+      "gas:candidate-vibid:2702000524513": 82
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469002&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469002&type=464",
@@ -1435,14 +1435,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 17,
-      "Волков Андрей Григорьевич": 40,
-      "Диденко Алексей Николаевич": 225,
-      "Ерёмин Василий Васильевич": 39,
-      "Жабин Сергей Иванович": 19,
-      "Кротов Евгений Геннадьевич": 15,
-      "Ростовцев Александр Валерьевич": 92,
-      "Фёдоров Алексей Геннадьевич": 106
+      "gas:candidate-vibid:2702000525037": 17,
+      "gas:candidate-vibid:2702000515513": 40,
+      "gas:candidate-vibid:2702000473558": 225,
+      "gas:candidate-vibid:2702000525375": 39,
+      "gas:candidate-vibid:2702000525149": 19,
+      "gas:candidate-vibid:2702000523838": 15,
+      "gas:candidate-vibid:2702000523769": 92,
+      "gas:candidate-vibid:2702000524513": 106
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469002&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469002&type=464",
@@ -1493,14 +1493,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 37,
-      "Волков Андрей Григорьевич": 44,
-      "Диденко Алексей Николаевич": 271,
-      "Ерёмин Василий Васильевич": 63,
-      "Жабин Сергей Иванович": 30,
-      "Кротов Евгений Геннадьевич": 24,
-      "Ростовцев Александр Валерьевич": 157,
-      "Фёдоров Алексей Геннадьевич": 109
+      "gas:candidate-vibid:2702000525037": 37,
+      "gas:candidate-vibid:2702000515513": 44,
+      "gas:candidate-vibid:2702000473558": 271,
+      "gas:candidate-vibid:2702000525375": 63,
+      "gas:candidate-vibid:2702000525149": 30,
+      "gas:candidate-vibid:2702000523838": 24,
+      "gas:candidate-vibid:2702000523769": 157,
+      "gas:candidate-vibid:2702000524513": 109
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469002&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469002&type=464",
@@ -1551,14 +1551,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 15,
-      "Волков Андрей Григорьевич": 28,
-      "Диденко Алексей Николаевич": 185,
-      "Ерёмин Василий Васильевич": 29,
-      "Жабин Сергей Иванович": 16,
-      "Кротов Евгений Геннадьевич": 15,
-      "Ростовцев Александр Валерьевич": 74,
-      "Фёдоров Алексей Геннадьевич": 63
+      "gas:candidate-vibid:2702000525037": 15,
+      "gas:candidate-vibid:2702000515513": 28,
+      "gas:candidate-vibid:2702000473558": 185,
+      "gas:candidate-vibid:2702000525375": 29,
+      "gas:candidate-vibid:2702000525149": 16,
+      "gas:candidate-vibid:2702000523838": 15,
+      "gas:candidate-vibid:2702000523769": 74,
+      "gas:candidate-vibid:2702000524513": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469002&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469002&type=464",
@@ -1609,14 +1609,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 23,
-      "Волков Андрей Григорьевич": 31,
-      "Диденко Алексей Николаевич": 191,
-      "Ерёмин Василий Васильевич": 24,
-      "Жабин Сергей Иванович": 20,
-      "Кротов Евгений Геннадьевич": 9,
-      "Ростовцев Александр Валерьевич": 40,
-      "Фёдоров Алексей Геннадьевич": 74
+      "gas:candidate-vibid:2702000525037": 23,
+      "gas:candidate-vibid:2702000515513": 31,
+      "gas:candidate-vibid:2702000473558": 191,
+      "gas:candidate-vibid:2702000525375": 24,
+      "gas:candidate-vibid:2702000525149": 20,
+      "gas:candidate-vibid:2702000523838": 9,
+      "gas:candidate-vibid:2702000523769": 40,
+      "gas:candidate-vibid:2702000524513": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469002&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469002&type=464",
@@ -1667,14 +1667,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 32,
-      "Волков Андрей Григорьевич": 49,
-      "Диденко Алексей Николаевич": 252,
-      "Ерёмин Василий Васильевич": 50,
-      "Жабин Сергей Иванович": 42,
-      "Кротов Евгений Геннадьевич": 19,
-      "Ростовцев Александр Валерьевич": 118,
-      "Фёдоров Алексей Геннадьевич": 87
+      "gas:candidate-vibid:2702000525037": 32,
+      "gas:candidate-vibid:2702000515513": 49,
+      "gas:candidate-vibid:2702000473558": 252,
+      "gas:candidate-vibid:2702000525375": 50,
+      "gas:candidate-vibid:2702000525149": 42,
+      "gas:candidate-vibid:2702000523838": 19,
+      "gas:candidate-vibid:2702000523769": 118,
+      "gas:candidate-vibid:2702000524513": 87
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469002&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469002&type=464",
@@ -1725,14 +1725,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 29,
-      "Волков Андрей Григорьевич": 40,
-      "Диденко Алексей Николаевич": 215,
-      "Ерёмин Василий Васильевич": 44,
-      "Жабин Сергей Иванович": 39,
-      "Кротов Евгений Геннадьевич": 27,
-      "Ростовцев Александр Валерьевич": 77,
-      "Фёдоров Алексей Геннадьевич": 91
+      "gas:candidate-vibid:2702000525037": 29,
+      "gas:candidate-vibid:2702000515513": 40,
+      "gas:candidate-vibid:2702000473558": 215,
+      "gas:candidate-vibid:2702000525375": 44,
+      "gas:candidate-vibid:2702000525149": 39,
+      "gas:candidate-vibid:2702000523838": 27,
+      "gas:candidate-vibid:2702000523769": 77,
+      "gas:candidate-vibid:2702000524513": 91
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469002&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469002&type=464",
@@ -1783,14 +1783,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 19,
-      "Волков Андрей Григорьевич": 19,
-      "Диденко Алексей Николаевич": 167,
-      "Ерёмин Василий Васильевич": 33,
-      "Жабин Сергей Иванович": 15,
-      "Кротов Евгений Геннадьевич": 17,
-      "Ростовцев Александр Валерьевич": 33,
-      "Фёдоров Алексей Геннадьевич": 63
+      "gas:candidate-vibid:2702000525037": 19,
+      "gas:candidate-vibid:2702000515513": 19,
+      "gas:candidate-vibid:2702000473558": 167,
+      "gas:candidate-vibid:2702000525375": 33,
+      "gas:candidate-vibid:2702000525149": 15,
+      "gas:candidate-vibid:2702000523838": 17,
+      "gas:candidate-vibid:2702000523769": 33,
+      "gas:candidate-vibid:2702000524513": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469002&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469002&type=464",
@@ -1841,14 +1841,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 15,
-      "Волков Андрей Григорьевич": 21,
-      "Диденко Алексей Николаевич": 147,
-      "Ерёмин Василий Васильевич": 23,
-      "Жабин Сергей Иванович": 21,
-      "Кротов Евгений Геннадьевич": 10,
-      "Ростовцев Александр Валерьевич": 47,
-      "Фёдоров Алексей Геннадьевич": 36
+      "gas:candidate-vibid:2702000525037": 15,
+      "gas:candidate-vibid:2702000515513": 21,
+      "gas:candidate-vibid:2702000473558": 147,
+      "gas:candidate-vibid:2702000525375": 23,
+      "gas:candidate-vibid:2702000525149": 21,
+      "gas:candidate-vibid:2702000523838": 10,
+      "gas:candidate-vibid:2702000523769": 47,
+      "gas:candidate-vibid:2702000524513": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469002&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469002&type=464",
@@ -1899,14 +1899,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 12,
-      "Волков Андрей Григорьевич": 32,
-      "Диденко Алексей Николаевич": 165,
-      "Ерёмин Василий Васильевич": 29,
-      "Жабин Сергей Иванович": 18,
-      "Кротов Евгений Геннадьевич": 27,
-      "Ростовцев Александр Валерьевич": 70,
-      "Фёдоров Алексей Геннадьевич": 47
+      "gas:candidate-vibid:2702000525037": 12,
+      "gas:candidate-vibid:2702000515513": 32,
+      "gas:candidate-vibid:2702000473558": 165,
+      "gas:candidate-vibid:2702000525375": 29,
+      "gas:candidate-vibid:2702000525149": 18,
+      "gas:candidate-vibid:2702000523838": 27,
+      "gas:candidate-vibid:2702000523769": 70,
+      "gas:candidate-vibid:2702000524513": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469002&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469002&type=464",
@@ -1957,14 +1957,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 3,
-      "Волков Андрей Григорьевич": 22,
-      "Диденко Алексей Николаевич": 157,
-      "Ерёмин Василий Васильевич": 15,
-      "Жабин Сергей Иванович": 11,
-      "Кротов Евгений Геннадьевич": 17,
-      "Ростовцев Александр Валерьевич": 39,
-      "Фёдоров Алексей Геннадьевич": 55
+      "gas:candidate-vibid:2702000525037": 3,
+      "gas:candidate-vibid:2702000515513": 22,
+      "gas:candidate-vibid:2702000473558": 157,
+      "gas:candidate-vibid:2702000525375": 15,
+      "gas:candidate-vibid:2702000525149": 11,
+      "gas:candidate-vibid:2702000523838": 17,
+      "gas:candidate-vibid:2702000523769": 39,
+      "gas:candidate-vibid:2702000524513": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469002&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469002&type=464",
@@ -2015,14 +2015,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 18,
-      "Волков Андрей Григорьевич": 33,
-      "Диденко Алексей Николаевич": 217,
-      "Ерёмин Василий Васильевич": 45,
-      "Жабин Сергей Иванович": 24,
-      "Кротов Евгений Геннадьевич": 12,
-      "Ростовцев Александр Валерьевич": 79,
-      "Фёдоров Алексей Геннадьевич": 88
+      "gas:candidate-vibid:2702000525037": 18,
+      "gas:candidate-vibid:2702000515513": 33,
+      "gas:candidate-vibid:2702000473558": 217,
+      "gas:candidate-vibid:2702000525375": 45,
+      "gas:candidate-vibid:2702000525149": 24,
+      "gas:candidate-vibid:2702000523838": 12,
+      "gas:candidate-vibid:2702000523769": 79,
+      "gas:candidate-vibid:2702000524513": 88
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469002&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469002&type=464",
@@ -2073,14 +2073,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 13,
-      "Волков Андрей Григорьевич": 43,
-      "Диденко Алексей Николаевич": 198,
-      "Ерёмин Василий Васильевич": 32,
-      "Жабин Сергей Иванович": 20,
-      "Кротов Евгений Геннадьевич": 11,
-      "Ростовцев Александр Валерьевич": 69,
-      "Фёдоров Алексей Геннадьевич": 85
+      "gas:candidate-vibid:2702000525037": 13,
+      "gas:candidate-vibid:2702000515513": 43,
+      "gas:candidate-vibid:2702000473558": 198,
+      "gas:candidate-vibid:2702000525375": 32,
+      "gas:candidate-vibid:2702000525149": 20,
+      "gas:candidate-vibid:2702000523838": 11,
+      "gas:candidate-vibid:2702000523769": 69,
+      "gas:candidate-vibid:2702000524513": 85
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469002&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469002&type=464",
@@ -2131,14 +2131,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 11,
-      "Волков Андрей Григорьевич": 37,
-      "Диденко Алексей Николаевич": 186,
-      "Ерёмин Василий Васильевич": 27,
-      "Жабин Сергей Иванович": 18,
-      "Кротов Евгений Геннадьевич": 31,
-      "Ростовцев Александр Валерьевич": 38,
-      "Фёдоров Алексей Геннадьевич": 63
+      "gas:candidate-vibid:2702000525037": 11,
+      "gas:candidate-vibid:2702000515513": 37,
+      "gas:candidate-vibid:2702000473558": 186,
+      "gas:candidate-vibid:2702000525375": 27,
+      "gas:candidate-vibid:2702000525149": 18,
+      "gas:candidate-vibid:2702000523838": 31,
+      "gas:candidate-vibid:2702000523769": 38,
+      "gas:candidate-vibid:2702000524513": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469002&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469002&type=464",
@@ -2189,14 +2189,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 11,
-      "Волков Андрей Григорьевич": 32,
-      "Диденко Алексей Николаевич": 193,
-      "Ерёмин Василий Васильевич": 28,
-      "Жабин Сергей Иванович": 15,
-      "Кротов Евгений Геннадьевич": 34,
-      "Ростовцев Александр Валерьевич": 62,
-      "Фёдоров Алексей Геннадьевич": 65
+      "gas:candidate-vibid:2702000525037": 11,
+      "gas:candidate-vibid:2702000515513": 32,
+      "gas:candidate-vibid:2702000473558": 193,
+      "gas:candidate-vibid:2702000525375": 28,
+      "gas:candidate-vibid:2702000525149": 15,
+      "gas:candidate-vibid:2702000523838": 34,
+      "gas:candidate-vibid:2702000523769": 62,
+      "gas:candidate-vibid:2702000524513": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469002&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469002&type=464",
@@ -2247,14 +2247,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 9,
-      "Волков Андрей Григорьевич": 36,
-      "Диденко Алексей Николаевич": 175,
-      "Ерёмин Василий Васильевич": 20,
-      "Жабин Сергей Иванович": 24,
-      "Кротов Евгений Геннадьевич": 34,
-      "Ростовцев Александр Валерьевич": 57,
-      "Фёдоров Алексей Геннадьевич": 47
+      "gas:candidate-vibid:2702000525037": 9,
+      "gas:candidate-vibid:2702000515513": 36,
+      "gas:candidate-vibid:2702000473558": 175,
+      "gas:candidate-vibid:2702000525375": 20,
+      "gas:candidate-vibid:2702000525149": 24,
+      "gas:candidate-vibid:2702000523838": 34,
+      "gas:candidate-vibid:2702000523769": 57,
+      "gas:candidate-vibid:2702000524513": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469002&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469002&type=464",
@@ -2305,14 +2305,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 15,
-      "Волков Андрей Григорьевич": 25,
-      "Диденко Алексей Николаевич": 134,
-      "Ерёмин Василий Васильевич": 13,
-      "Жабин Сергей Иванович": 28,
-      "Кротов Евгений Геннадьевич": 5,
-      "Ростовцев Александр Валерьевич": 45,
-      "Фёдоров Алексей Геннадьевич": 44
+      "gas:candidate-vibid:2702000525037": 15,
+      "gas:candidate-vibid:2702000515513": 25,
+      "gas:candidate-vibid:2702000473558": 134,
+      "gas:candidate-vibid:2702000525375": 13,
+      "gas:candidate-vibid:2702000525149": 28,
+      "gas:candidate-vibid:2702000523838": 5,
+      "gas:candidate-vibid:2702000523769": 45,
+      "gas:candidate-vibid:2702000524513": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469002&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469002&type=464",
@@ -2363,14 +2363,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 24,
-      "Волков Андрей Григорьевич": 53,
-      "Диденко Алексей Николаевич": 267,
-      "Ерёмин Василий Васильевич": 37,
-      "Жабин Сергей Иванович": 45,
-      "Кротов Евгений Геннадьевич": 10,
-      "Ростовцев Александр Валерьевич": 122,
-      "Фёдоров Алексей Геннадьевич": 119
+      "gas:candidate-vibid:2702000525037": 24,
+      "gas:candidate-vibid:2702000515513": 53,
+      "gas:candidate-vibid:2702000473558": 267,
+      "gas:candidate-vibid:2702000525375": 37,
+      "gas:candidate-vibid:2702000525149": 45,
+      "gas:candidate-vibid:2702000523838": 10,
+      "gas:candidate-vibid:2702000523769": 122,
+      "gas:candidate-vibid:2702000524513": 119
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469002&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469002&type=464",
@@ -2421,14 +2421,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 13,
-      "Волков Андрей Григорьевич": 41,
-      "Диденко Алексей Николаевич": 261,
-      "Ерёмин Василий Васильевич": 32,
-      "Жабин Сергей Иванович": 25,
-      "Кротов Евгений Геннадьевич": 15,
-      "Ростовцев Александр Валерьевич": 61,
-      "Фёдоров Алексей Геннадьевич": 67
+      "gas:candidate-vibid:2702000525037": 13,
+      "gas:candidate-vibid:2702000515513": 41,
+      "gas:candidate-vibid:2702000473558": 261,
+      "gas:candidate-vibid:2702000525375": 32,
+      "gas:candidate-vibid:2702000525149": 25,
+      "gas:candidate-vibid:2702000523838": 15,
+      "gas:candidate-vibid:2702000523769": 61,
+      "gas:candidate-vibid:2702000524513": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469002&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469002&type=464",
@@ -2479,14 +2479,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 16,
-      "Волков Андрей Григорьевич": 32,
-      "Диденко Алексей Николаевич": 152,
-      "Ерёмин Василий Васильевич": 44,
-      "Жабин Сергей Иванович": 29,
-      "Кротов Евгений Геннадьевич": 7,
-      "Ростовцев Александр Валерьевич": 95,
-      "Фёдоров Алексей Геннадьевич": 67
+      "gas:candidate-vibid:2702000525037": 16,
+      "gas:candidate-vibid:2702000515513": 32,
+      "gas:candidate-vibid:2702000473558": 152,
+      "gas:candidate-vibid:2702000525375": 44,
+      "gas:candidate-vibid:2702000525149": 29,
+      "gas:candidate-vibid:2702000523838": 7,
+      "gas:candidate-vibid:2702000523769": 95,
+      "gas:candidate-vibid:2702000524513": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469002&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469002&type=464",
@@ -2537,14 +2537,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 6,
-      "Волков Андрей Григорьевич": 29,
-      "Диденко Алексей Николаевич": 170,
-      "Ерёмин Василий Васильевич": 20,
-      "Жабин Сергей Иванович": 18,
-      "Кротов Евгений Геннадьевич": 10,
-      "Ростовцев Александр Валерьевич": 45,
-      "Фёдоров Алексей Геннадьевич": 54
+      "gas:candidate-vibid:2702000525037": 6,
+      "gas:candidate-vibid:2702000515513": 29,
+      "gas:candidate-vibid:2702000473558": 170,
+      "gas:candidate-vibid:2702000525375": 20,
+      "gas:candidate-vibid:2702000525149": 18,
+      "gas:candidate-vibid:2702000523838": 10,
+      "gas:candidate-vibid:2702000523769": 45,
+      "gas:candidate-vibid:2702000524513": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469002&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469002&type=464",
@@ -2595,14 +2595,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 22,
-      "Волков Андрей Григорьевич": 44,
-      "Диденко Алексей Николаевич": 200,
-      "Ерёмин Василий Васильевич": 44,
-      "Жабин Сергей Иванович": 35,
-      "Кротов Евгений Геннадьевич": 17,
-      "Ростовцев Александр Валерьевич": 105,
-      "Фёдоров Алексей Геннадьевич": 75
+      "gas:candidate-vibid:2702000525037": 22,
+      "gas:candidate-vibid:2702000515513": 44,
+      "gas:candidate-vibid:2702000473558": 200,
+      "gas:candidate-vibid:2702000525375": 44,
+      "gas:candidate-vibid:2702000525149": 35,
+      "gas:candidate-vibid:2702000523838": 17,
+      "gas:candidate-vibid:2702000523769": 105,
+      "gas:candidate-vibid:2702000524513": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469002&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469002&type=464",
@@ -2653,14 +2653,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 12,
-      "Волков Андрей Григорьевич": 20,
-      "Диденко Алексей Николаевич": 87,
-      "Ерёмин Василий Васильевич": 8,
-      "Жабин Сергей Иванович": 9,
-      "Кротов Евгений Геннадьевич": 15,
-      "Ростовцев Александр Валерьевич": 18,
-      "Фёдоров Алексей Геннадьевич": 53
+      "gas:candidate-vibid:2702000525037": 12,
+      "gas:candidate-vibid:2702000515513": 20,
+      "gas:candidate-vibid:2702000473558": 87,
+      "gas:candidate-vibid:2702000525375": 8,
+      "gas:candidate-vibid:2702000525149": 9,
+      "gas:candidate-vibid:2702000523838": 15,
+      "gas:candidate-vibid:2702000523769": 18,
+      "gas:candidate-vibid:2702000524513": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469002&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469002&type=464",
@@ -2711,14 +2711,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 37,
-      "Волков Андрей Григорьевич": 34,
-      "Диденко Алексей Николаевич": 237,
-      "Ерёмин Василий Васильевич": 57,
-      "Жабин Сергей Иванович": 37,
-      "Кротов Евгений Геннадьевич": 29,
-      "Ростовцев Александр Валерьевич": 134,
-      "Фёдоров Алексей Геннадьевич": 138
+      "gas:candidate-vibid:2702000525037": 37,
+      "gas:candidate-vibid:2702000515513": 34,
+      "gas:candidate-vibid:2702000473558": 237,
+      "gas:candidate-vibid:2702000525375": 57,
+      "gas:candidate-vibid:2702000525149": 37,
+      "gas:candidate-vibid:2702000523838": 29,
+      "gas:candidate-vibid:2702000523769": 134,
+      "gas:candidate-vibid:2702000524513": 138
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469002&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469002&type=464",
@@ -2769,14 +2769,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 7,
-      "Волков Андрей Григорьевич": 8,
-      "Диденко Алексей Николаевич": 108,
-      "Ерёмин Василий Васильевич": 10,
-      "Жабин Сергей Иванович": 6,
-      "Кротов Евгений Геннадьевич": 7,
-      "Ростовцев Александр Валерьевич": 12,
-      "Фёдоров Алексей Геннадьевич": 10
+      "gas:candidate-vibid:2702000525037": 7,
+      "gas:candidate-vibid:2702000515513": 8,
+      "gas:candidate-vibid:2702000473558": 108,
+      "gas:candidate-vibid:2702000525375": 10,
+      "gas:candidate-vibid:2702000525149": 6,
+      "gas:candidate-vibid:2702000523838": 7,
+      "gas:candidate-vibid:2702000523769": 12,
+      "gas:candidate-vibid:2702000524513": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469002&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469002&type=464",
@@ -2827,14 +2827,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 21,
-      "Волков Андрей Григорьевич": 35,
-      "Диденко Алексей Николаевич": 199,
-      "Ерёмин Василий Васильевич": 26,
-      "Жабин Сергей Иванович": 22,
-      "Кротов Евгений Геннадьевич": 11,
-      "Ростовцев Александр Валерьевич": 45,
-      "Фёдоров Алексей Геннадьевич": 61
+      "gas:candidate-vibid:2702000525037": 21,
+      "gas:candidate-vibid:2702000515513": 35,
+      "gas:candidate-vibid:2702000473558": 199,
+      "gas:candidate-vibid:2702000525375": 26,
+      "gas:candidate-vibid:2702000525149": 22,
+      "gas:candidate-vibid:2702000523838": 11,
+      "gas:candidate-vibid:2702000523769": 45,
+      "gas:candidate-vibid:2702000524513": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469002&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469002&type=464",
@@ -2885,14 +2885,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 12,
-      "Волков Андрей Григорьевич": 19,
-      "Диденко Алексей Николаевич": 114,
-      "Ерёмин Василий Васильевич": 25,
-      "Жабин Сергей Иванович": 19,
-      "Кротов Евгений Геннадьевич": 8,
-      "Ростовцев Александр Валерьевич": 52,
-      "Фёдоров Алексей Геннадьевич": 45
+      "gas:candidate-vibid:2702000525037": 12,
+      "gas:candidate-vibid:2702000515513": 19,
+      "gas:candidate-vibid:2702000473558": 114,
+      "gas:candidate-vibid:2702000525375": 25,
+      "gas:candidate-vibid:2702000525149": 19,
+      "gas:candidate-vibid:2702000523838": 8,
+      "gas:candidate-vibid:2702000523769": 52,
+      "gas:candidate-vibid:2702000524513": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469002&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469002&type=464",
@@ -2943,14 +2943,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 17,
-      "Волков Андрей Григорьевич": 26,
-      "Диденко Алексей Николаевич": 197,
-      "Ерёмин Василий Васильевич": 44,
-      "Жабин Сергей Иванович": 25,
-      "Кротов Евгений Геннадьевич": 13,
-      "Ростовцев Александр Валерьевич": 113,
-      "Фёдоров Алексей Геннадьевич": 82
+      "gas:candidate-vibid:2702000525037": 17,
+      "gas:candidate-vibid:2702000515513": 26,
+      "gas:candidate-vibid:2702000473558": 197,
+      "gas:candidate-vibid:2702000525375": 44,
+      "gas:candidate-vibid:2702000525149": 25,
+      "gas:candidate-vibid:2702000523838": 13,
+      "gas:candidate-vibid:2702000523769": 113,
+      "gas:candidate-vibid:2702000524513": 82
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469002&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469002&type=464",
@@ -3001,14 +3001,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 17,
-      "Волков Андрей Григорьевич": 42,
-      "Диденко Алексей Николаевич": 183,
-      "Ерёмин Василий Васильевич": 38,
-      "Жабин Сергей Иванович": 22,
-      "Кротов Евгений Геннадьевич": 11,
-      "Ростовцев Александр Валерьевич": 108,
-      "Фёдоров Алексей Геннадьевич": 60
+      "gas:candidate-vibid:2702000525037": 17,
+      "gas:candidate-vibid:2702000515513": 42,
+      "gas:candidate-vibid:2702000473558": 183,
+      "gas:candidate-vibid:2702000525375": 38,
+      "gas:candidate-vibid:2702000525149": 22,
+      "gas:candidate-vibid:2702000523838": 11,
+      "gas:candidate-vibid:2702000523769": 108,
+      "gas:candidate-vibid:2702000524513": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469002&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469002&type=464",
@@ -3059,14 +3059,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 32,
-      "Волков Андрей Григорьевич": 58,
-      "Диденко Алексей Николаевич": 254,
-      "Ерёмин Василий Васильевич": 58,
-      "Жабин Сергей Иванович": 40,
-      "Кротов Евгений Геннадьевич": 24,
-      "Ростовцев Александр Валерьевич": 156,
-      "Фёдоров Алексей Геннадьевич": 114
+      "gas:candidate-vibid:2702000525037": 32,
+      "gas:candidate-vibid:2702000515513": 58,
+      "gas:candidate-vibid:2702000473558": 254,
+      "gas:candidate-vibid:2702000525375": 58,
+      "gas:candidate-vibid:2702000525149": 40,
+      "gas:candidate-vibid:2702000523838": 24,
+      "gas:candidate-vibid:2702000523769": 156,
+      "gas:candidate-vibid:2702000524513": 114
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469002&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469002&type=464",
@@ -3117,14 +3117,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 24,
-      "Волков Андрей Григорьевич": 29,
-      "Диденко Алексей Николаевич": 190,
-      "Ерёмин Василий Васильевич": 26,
-      "Жабин Сергей Иванович": 17,
-      "Кротов Евгений Геннадьевич": 16,
-      "Ростовцев Александр Валерьевич": 56,
-      "Фёдоров Алексей Геннадьевич": 79
+      "gas:candidate-vibid:2702000525037": 24,
+      "gas:candidate-vibid:2702000515513": 29,
+      "gas:candidate-vibid:2702000473558": 190,
+      "gas:candidate-vibid:2702000525375": 26,
+      "gas:candidate-vibid:2702000525149": 17,
+      "gas:candidate-vibid:2702000523838": 16,
+      "gas:candidate-vibid:2702000523769": 56,
+      "gas:candidate-vibid:2702000524513": 79
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469002&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469002&type=464",
@@ -3175,14 +3175,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 28,
-      "Волков Андрей Григорьевич": 65,
-      "Диденко Алексей Николаевич": 258,
-      "Ерёмин Василий Васильевич": 37,
-      "Жабин Сергей Иванович": 30,
-      "Кротов Евгений Геннадьевич": 23,
-      "Ростовцев Александр Валерьевич": 66,
-      "Фёдоров Алексей Геннадьевич": 82
+      "gas:candidate-vibid:2702000525037": 28,
+      "gas:candidate-vibid:2702000515513": 65,
+      "gas:candidate-vibid:2702000473558": 258,
+      "gas:candidate-vibid:2702000525375": 37,
+      "gas:candidate-vibid:2702000525149": 30,
+      "gas:candidate-vibid:2702000523838": 23,
+      "gas:candidate-vibid:2702000523769": 66,
+      "gas:candidate-vibid:2702000524513": 82
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469002&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469002&type=464",
@@ -3233,14 +3233,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 17,
-      "Волков Андрей Григорьевич": 30,
-      "Диденко Алексей Николаевич": 177,
-      "Ерёмин Василий Васильевич": 34,
-      "Жабин Сергей Иванович": 41,
-      "Кротов Евгений Геннадьевич": 13,
-      "Ростовцев Александр Валерьевич": 70,
-      "Фёдоров Алексей Геннадьевич": 68
+      "gas:candidate-vibid:2702000525037": 17,
+      "gas:candidate-vibid:2702000515513": 30,
+      "gas:candidate-vibid:2702000473558": 177,
+      "gas:candidate-vibid:2702000525375": 34,
+      "gas:candidate-vibid:2702000525149": 41,
+      "gas:candidate-vibid:2702000523838": 13,
+      "gas:candidate-vibid:2702000523769": 70,
+      "gas:candidate-vibid:2702000524513": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469002&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469002&type=464",
@@ -3291,14 +3291,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 19,
-      "Волков Андрей Григорьевич": 24,
-      "Диденко Алексей Николаевич": 194,
-      "Ерёмин Василий Васильевич": 34,
-      "Жабин Сергей Иванович": 34,
-      "Кротов Евгений Геннадьевич": 18,
-      "Ростовцев Александр Валерьевич": 68,
-      "Фёдоров Алексей Геннадьевич": 86
+      "gas:candidate-vibid:2702000525037": 19,
+      "gas:candidate-vibid:2702000515513": 24,
+      "gas:candidate-vibid:2702000473558": 194,
+      "gas:candidate-vibid:2702000525375": 34,
+      "gas:candidate-vibid:2702000525149": 34,
+      "gas:candidate-vibid:2702000523838": 18,
+      "gas:candidate-vibid:2702000523769": 68,
+      "gas:candidate-vibid:2702000524513": 86
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469002&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469002&type=464",
@@ -3349,14 +3349,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 25,
-      "Волков Андрей Григорьевич": 41,
-      "Диденко Алексей Николаевич": 222,
-      "Ерёмин Василий Васильевич": 37,
-      "Жабин Сергей Иванович": 39,
-      "Кротов Евгений Геннадьевич": 10,
-      "Ростовцев Александр Валерьевич": 92,
-      "Фёдоров Алексей Геннадьевич": 94
+      "gas:candidate-vibid:2702000525037": 25,
+      "gas:candidate-vibid:2702000515513": 41,
+      "gas:candidate-vibid:2702000473558": 222,
+      "gas:candidate-vibid:2702000525375": 37,
+      "gas:candidate-vibid:2702000525149": 39,
+      "gas:candidate-vibid:2702000523838": 10,
+      "gas:candidate-vibid:2702000523769": 92,
+      "gas:candidate-vibid:2702000524513": 94
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469002&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469002&type=464",
@@ -3407,14 +3407,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 14,
-      "Волков Андрей Григорьевич": 35,
-      "Диденко Алексей Николаевич": 179,
-      "Ерёмин Василий Васильевич": 26,
-      "Жабин Сергей Иванович": 30,
-      "Кротов Евгений Геннадьевич": 18,
-      "Ростовцев Александр Валерьевич": 77,
-      "Фёдоров Алексей Геннадьевич": 56
+      "gas:candidate-vibid:2702000525037": 14,
+      "gas:candidate-vibid:2702000515513": 35,
+      "gas:candidate-vibid:2702000473558": 179,
+      "gas:candidate-vibid:2702000525375": 26,
+      "gas:candidate-vibid:2702000525149": 30,
+      "gas:candidate-vibid:2702000523838": 18,
+      "gas:candidate-vibid:2702000523769": 77,
+      "gas:candidate-vibid:2702000524513": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469002&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469002&type=464",
@@ -3465,14 +3465,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 25,
-      "Волков Андрей Григорьевич": 34,
-      "Диденко Алексей Николаевич": 181,
-      "Ерёмин Василий Васильевич": 32,
-      "Жабин Сергей Иванович": 38,
-      "Кротов Евгений Геннадьевич": 18,
-      "Ростовцев Александр Валерьевич": 91,
-      "Фёдоров Алексей Геннадьевич": 67
+      "gas:candidate-vibid:2702000525037": 25,
+      "gas:candidate-vibid:2702000515513": 34,
+      "gas:candidate-vibid:2702000473558": 181,
+      "gas:candidate-vibid:2702000525375": 32,
+      "gas:candidate-vibid:2702000525149": 38,
+      "gas:candidate-vibid:2702000523838": 18,
+      "gas:candidate-vibid:2702000523769": 91,
+      "gas:candidate-vibid:2702000524513": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469002&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469002&type=464",
@@ -3523,14 +3523,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 24,
-      "Волков Андрей Григорьевич": 32,
-      "Диденко Алексей Николаевич": 193,
-      "Ерёмин Василий Васильевич": 37,
-      "Жабин Сергей Иванович": 35,
-      "Кротов Евгений Геннадьевич": 17,
-      "Ростовцев Александр Валерьевич": 67,
-      "Фёдоров Алексей Геннадьевич": 64
+      "gas:candidate-vibid:2702000525037": 24,
+      "gas:candidate-vibid:2702000515513": 32,
+      "gas:candidate-vibid:2702000473558": 193,
+      "gas:candidate-vibid:2702000525375": 37,
+      "gas:candidate-vibid:2702000525149": 35,
+      "gas:candidate-vibid:2702000523838": 17,
+      "gas:candidate-vibid:2702000523769": 67,
+      "gas:candidate-vibid:2702000524513": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469002&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469002&type=464",
@@ -3581,14 +3581,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 17,
-      "Волков Андрей Григорьевич": 57,
-      "Диденко Алексей Николаевич": 214,
-      "Ерёмин Василий Васильевич": 38,
-      "Жабин Сергей Иванович": 36,
-      "Кротов Евгений Геннадьевич": 20,
-      "Ростовцев Александр Валерьевич": 73,
-      "Фёдоров Алексей Геннадьевич": 81
+      "gas:candidate-vibid:2702000525037": 17,
+      "gas:candidate-vibid:2702000515513": 57,
+      "gas:candidate-vibid:2702000473558": 214,
+      "gas:candidate-vibid:2702000525375": 38,
+      "gas:candidate-vibid:2702000525149": 36,
+      "gas:candidate-vibid:2702000523838": 20,
+      "gas:candidate-vibid:2702000523769": 73,
+      "gas:candidate-vibid:2702000524513": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469002&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469002&type=464",
@@ -3639,14 +3639,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 26,
-      "Волков Андрей Григорьевич": 31,
-      "Диденко Алексей Николаевич": 165,
-      "Ерёмин Василий Васильевич": 45,
-      "Жабин Сергей Иванович": 31,
-      "Кротов Евгений Геннадьевич": 15,
-      "Ростовцев Александр Валерьевич": 70,
-      "Фёдоров Алексей Геннадьевич": 85
+      "gas:candidate-vibid:2702000525037": 26,
+      "gas:candidate-vibid:2702000515513": 31,
+      "gas:candidate-vibid:2702000473558": 165,
+      "gas:candidate-vibid:2702000525375": 45,
+      "gas:candidate-vibid:2702000525149": 31,
+      "gas:candidate-vibid:2702000523838": 15,
+      "gas:candidate-vibid:2702000523769": 70,
+      "gas:candidate-vibid:2702000524513": 85
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469002&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469002&type=464",
@@ -3697,14 +3697,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 19,
-      "Волков Андрей Григорьевич": 22,
-      "Диденко Алексей Николаевич": 111,
-      "Ерёмин Василий Васильевич": 39,
-      "Жабин Сергей Иванович": 22,
-      "Кротов Евгений Геннадьевич": 8,
-      "Ростовцев Александр Валерьевич": 43,
-      "Фёдоров Алексей Геннадьевич": 50
+      "gas:candidate-vibid:2702000525037": 19,
+      "gas:candidate-vibid:2702000515513": 22,
+      "gas:candidate-vibid:2702000473558": 111,
+      "gas:candidate-vibid:2702000525375": 39,
+      "gas:candidate-vibid:2702000525149": 22,
+      "gas:candidate-vibid:2702000523838": 8,
+      "gas:candidate-vibid:2702000523769": 43,
+      "gas:candidate-vibid:2702000524513": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469002&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469002&type=464",
@@ -3755,14 +3755,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 22,
-      "Волков Андрей Григорьевич": 38,
-      "Диденко Алексей Николаевич": 199,
-      "Ерёмин Василий Васильевич": 32,
-      "Жабин Сергей Иванович": 39,
-      "Кротов Евгений Геннадьевич": 15,
-      "Ростовцев Александр Валерьевич": 74,
-      "Фёдоров Алексей Геннадьевич": 69
+      "gas:candidate-vibid:2702000525037": 22,
+      "gas:candidate-vibid:2702000515513": 38,
+      "gas:candidate-vibid:2702000473558": 199,
+      "gas:candidate-vibid:2702000525375": 32,
+      "gas:candidate-vibid:2702000525149": 39,
+      "gas:candidate-vibid:2702000523838": 15,
+      "gas:candidate-vibid:2702000523769": 74,
+      "gas:candidate-vibid:2702000524513": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469002&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469002&type=464",
@@ -3813,14 +3813,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 21,
-      "Волков Андрей Григорьевич": 29,
-      "Диденко Алексей Николаевич": 219,
-      "Ерёмин Василий Васильевич": 38,
-      "Жабин Сергей Иванович": 25,
-      "Кротов Евгений Геннадьевич": 25,
-      "Ростовцев Александр Валерьевич": 53,
-      "Фёдоров Алексей Геннадьевич": 99
+      "gas:candidate-vibid:2702000525037": 21,
+      "gas:candidate-vibid:2702000515513": 29,
+      "gas:candidate-vibid:2702000473558": 219,
+      "gas:candidate-vibid:2702000525375": 38,
+      "gas:candidate-vibid:2702000525149": 25,
+      "gas:candidate-vibid:2702000523838": 25,
+      "gas:candidate-vibid:2702000523769": 53,
+      "gas:candidate-vibid:2702000524513": 99
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469002&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469002&type=464",
@@ -3871,14 +3871,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 9,
-      "Волков Андрей Григорьевич": 26,
-      "Диденко Алексей Николаевич": 178,
-      "Ерёмин Василий Васильевич": 32,
-      "Жабин Сергей Иванович": 23,
-      "Кротов Евгений Геннадьевич": 8,
-      "Ростовцев Александр Валерьевич": 44,
-      "Фёдоров Алексей Геннадьевич": 41
+      "gas:candidate-vibid:2702000525037": 9,
+      "gas:candidate-vibid:2702000515513": 26,
+      "gas:candidate-vibid:2702000473558": 178,
+      "gas:candidate-vibid:2702000525375": 32,
+      "gas:candidate-vibid:2702000525149": 23,
+      "gas:candidate-vibid:2702000523838": 8,
+      "gas:candidate-vibid:2702000523769": 44,
+      "gas:candidate-vibid:2702000524513": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469002&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469002&type=464",
@@ -3929,14 +3929,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 26,
-      "Волков Андрей Григорьевич": 37,
-      "Диденко Алексей Николаевич": 194,
-      "Ерёмин Василий Васильевич": 53,
-      "Жабин Сергей Иванович": 24,
-      "Кротов Евгений Геннадьевич": 18,
-      "Ростовцев Александр Валерьевич": 57,
-      "Фёдоров Алексей Геннадьевич": 75
+      "gas:candidate-vibid:2702000525037": 26,
+      "gas:candidate-vibid:2702000515513": 37,
+      "gas:candidate-vibid:2702000473558": 194,
+      "gas:candidate-vibid:2702000525375": 53,
+      "gas:candidate-vibid:2702000525149": 24,
+      "gas:candidate-vibid:2702000523838": 18,
+      "gas:candidate-vibid:2702000523769": 57,
+      "gas:candidate-vibid:2702000524513": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469002&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469002&type=464",
@@ -3987,14 +3987,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 27,
-      "Волков Андрей Григорьевич": 31,
-      "Диденко Алексей Николаевич": 236,
-      "Ерёмин Василий Васильевич": 41,
-      "Жабин Сергей Иванович": 45,
-      "Кротов Евгений Геннадьевич": 18,
-      "Ростовцев Александр Валерьевич": 102,
-      "Фёдоров Алексей Геннадьевич": 86
+      "gas:candidate-vibid:2702000525037": 27,
+      "gas:candidate-vibid:2702000515513": 31,
+      "gas:candidate-vibid:2702000473558": 236,
+      "gas:candidate-vibid:2702000525375": 41,
+      "gas:candidate-vibid:2702000525149": 45,
+      "gas:candidate-vibid:2702000523838": 18,
+      "gas:candidate-vibid:2702000523769": 102,
+      "gas:candidate-vibid:2702000524513": 86
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469002&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469002&type=464",
@@ -4045,14 +4045,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 9,
-      "Волков Андрей Григорьевич": 16,
-      "Диденко Алексей Николаевич": 148,
-      "Ерёмин Василий Васильевич": 23,
-      "Жабин Сергей Иванович": 23,
-      "Кротов Евгений Геннадьевич": 6,
-      "Ростовцев Александр Валерьевич": 64,
-      "Фёдоров Алексей Геннадьевич": 47
+      "gas:candidate-vibid:2702000525037": 9,
+      "gas:candidate-vibid:2702000515513": 16,
+      "gas:candidate-vibid:2702000473558": 148,
+      "gas:candidate-vibid:2702000525375": 23,
+      "gas:candidate-vibid:2702000525149": 23,
+      "gas:candidate-vibid:2702000523838": 6,
+      "gas:candidate-vibid:2702000523769": 64,
+      "gas:candidate-vibid:2702000524513": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469002&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469002&type=464",
@@ -4103,14 +4103,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 28,
-      "Волков Андрей Григорьевич": 28,
-      "Диденко Алексей Николаевич": 185,
-      "Ерёмин Василий Васильевич": 64,
-      "Жабин Сергей Иванович": 57,
-      "Кротов Евгений Геннадьевич": 17,
-      "Ростовцев Александр Валерьевич": 84,
-      "Фёдоров Алексей Геннадьевич": 80
+      "gas:candidate-vibid:2702000525037": 28,
+      "gas:candidate-vibid:2702000515513": 28,
+      "gas:candidate-vibid:2702000473558": 185,
+      "gas:candidate-vibid:2702000525375": 64,
+      "gas:candidate-vibid:2702000525149": 57,
+      "gas:candidate-vibid:2702000523838": 17,
+      "gas:candidate-vibid:2702000523769": 84,
+      "gas:candidate-vibid:2702000524513": 80
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469002&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469002&type=464",
@@ -4161,14 +4161,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 168,
-      "Волков Андрей Григорьевич": 58,
-      "Диденко Алексей Николаевич": 100,
-      "Ерёмин Василий Васильевич": 797,
-      "Жабин Сергей Иванович": 101,
-      "Кротов Евгений Геннадьевич": 28,
-      "Ростовцев Александр Валерьевич": 142,
-      "Фёдоров Алексей Геннадьевич": 115
+      "gas:candidate-vibid:2702000525037": 168,
+      "gas:candidate-vibid:2702000515513": 58,
+      "gas:candidate-vibid:2702000473558": 100,
+      "gas:candidate-vibid:2702000525375": 797,
+      "gas:candidate-vibid:2702000525149": 101,
+      "gas:candidate-vibid:2702000523838": 28,
+      "gas:candidate-vibid:2702000523769": 142,
+      "gas:candidate-vibid:2702000524513": 115
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469002&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469002&type=464",
@@ -4219,14 +4219,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 7,
-      "Волков Андрей Григорьевич": 6,
-      "Диденко Алексей Николаевич": 12,
-      "Ерёмин Василий Васильевич": 43,
-      "Жабин Сергей Иванович": 8,
-      "Кротов Евгений Геннадьевич": 0,
-      "Ростовцев Александр Валерьевич": 13,
-      "Фёдоров Алексей Геннадьевич": 6
+      "gas:candidate-vibid:2702000525037": 7,
+      "gas:candidate-vibid:2702000515513": 6,
+      "gas:candidate-vibid:2702000473558": 12,
+      "gas:candidate-vibid:2702000525375": 43,
+      "gas:candidate-vibid:2702000525149": 8,
+      "gas:candidate-vibid:2702000523838": 0,
+      "gas:candidate-vibid:2702000523769": 13,
+      "gas:candidate-vibid:2702000524513": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469002&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469002&type=464",
@@ -4277,14 +4277,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 58,
-      "Волков Андрей Григорьевич": 105,
-      "Диденко Алексей Николаевич": 176,
-      "Ерёмин Василий Васильевич": 106,
-      "Жабин Сергей Иванович": 39,
-      "Кротов Евгений Геннадьевич": 59,
-      "Ростовцев Александр Валерьевич": 118,
-      "Фёдоров Алексей Геннадьевич": 261
+      "gas:candidate-vibid:2702000525037": 58,
+      "gas:candidate-vibid:2702000515513": 105,
+      "gas:candidate-vibid:2702000473558": 176,
+      "gas:candidate-vibid:2702000525375": 106,
+      "gas:candidate-vibid:2702000525149": 39,
+      "gas:candidate-vibid:2702000523838": 59,
+      "gas:candidate-vibid:2702000523769": 118,
+      "gas:candidate-vibid:2702000524513": 261
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469002&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469002&type=464",
@@ -4335,14 +4335,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 28,
-      "Волков Андрей Григорьевич": 36,
-      "Диденко Алексей Николаевич": 80,
-      "Ерёмин Василий Васильевич": 18,
-      "Жабин Сергей Иванович": 15,
-      "Кротов Евгений Геннадьевич": 29,
-      "Ростовцев Александр Валерьевич": 93,
-      "Фёдоров Алексей Геннадьевич": 84
+      "gas:candidate-vibid:2702000525037": 28,
+      "gas:candidate-vibid:2702000515513": 36,
+      "gas:candidate-vibid:2702000473558": 80,
+      "gas:candidate-vibid:2702000525375": 18,
+      "gas:candidate-vibid:2702000525149": 15,
+      "gas:candidate-vibid:2702000523838": 29,
+      "gas:candidate-vibid:2702000523769": 93,
+      "gas:candidate-vibid:2702000524513": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469002&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469002&type=464",
@@ -4393,14 +4393,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 23,
-      "Волков Андрей Григорьевич": 24,
-      "Диденко Алексей Николаевич": 75,
-      "Ерёмин Василий Васильевич": 22,
-      "Жабин Сергей Иванович": 11,
-      "Кротов Евгений Геннадьевич": 28,
-      "Ростовцев Александр Валерьевич": 41,
-      "Фёдоров Алексей Геннадьевич": 63
+      "gas:candidate-vibid:2702000525037": 23,
+      "gas:candidate-vibid:2702000515513": 24,
+      "gas:candidate-vibid:2702000473558": 75,
+      "gas:candidate-vibid:2702000525375": 22,
+      "gas:candidate-vibid:2702000525149": 11,
+      "gas:candidate-vibid:2702000523838": 28,
+      "gas:candidate-vibid:2702000523769": 41,
+      "gas:candidate-vibid:2702000524513": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469002&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469002&type=464",
@@ -4451,14 +4451,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 96,
-      "Волков Андрей Григорьевич": 55,
-      "Диденко Алексей Николаевич": 130,
-      "Ерёмин Василий Васильевич": 343,
-      "Жабин Сергей Иванович": 81,
-      "Кротов Евгений Геннадьевич": 46,
-      "Ростовцев Александр Валерьевич": 114,
-      "Фёдоров Алексей Геннадьевич": 141
+      "gas:candidate-vibid:2702000525037": 96,
+      "gas:candidate-vibid:2702000515513": 55,
+      "gas:candidate-vibid:2702000473558": 130,
+      "gas:candidate-vibid:2702000525375": 343,
+      "gas:candidate-vibid:2702000525149": 81,
+      "gas:candidate-vibid:2702000523838": 46,
+      "gas:candidate-vibid:2702000523769": 114,
+      "gas:candidate-vibid:2702000524513": 141
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469002&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469002&type=464",
@@ -4509,14 +4509,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 0,
-      "Волков Андрей Григорьевич": 1,
-      "Диденко Алексей Николаевич": 3,
-      "Ерёмин Василий Васильевич": 1,
-      "Жабин Сергей Иванович": 1,
-      "Кротов Евгений Геннадьевич": 2,
-      "Ростовцев Александр Валерьевич": 0,
-      "Фёдоров Алексей Геннадьевич": 0
+      "gas:candidate-vibid:2702000525037": 0,
+      "gas:candidate-vibid:2702000515513": 1,
+      "gas:candidate-vibid:2702000473558": 3,
+      "gas:candidate-vibid:2702000525375": 1,
+      "gas:candidate-vibid:2702000525149": 1,
+      "gas:candidate-vibid:2702000523838": 2,
+      "gas:candidate-vibid:2702000523769": 0,
+      "gas:candidate-vibid:2702000524513": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469002&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469002&type=464",
@@ -4567,14 +4567,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 5,
-      "Волков Андрей Григорьевич": 2,
-      "Диденко Алексей Николаевич": 2,
-      "Ерёмин Василий Васильевич": 12,
-      "Жабин Сергей Иванович": 5,
-      "Кротов Евгений Геннадьевич": 1,
-      "Ростовцев Александр Валерьевич": 6,
-      "Фёдоров Алексей Геннадьевич": 4
+      "gas:candidate-vibid:2702000525037": 5,
+      "gas:candidate-vibid:2702000515513": 2,
+      "gas:candidate-vibid:2702000473558": 2,
+      "gas:candidate-vibid:2702000525375": 12,
+      "gas:candidate-vibid:2702000525149": 5,
+      "gas:candidate-vibid:2702000523838": 1,
+      "gas:candidate-vibid:2702000523769": 6,
+      "gas:candidate-vibid:2702000524513": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469002&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469002&type=464",
@@ -4625,14 +4625,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 9,
-      "Волков Андрей Григорьевич": 2,
-      "Диденко Алексей Николаевич": 4,
-      "Ерёмин Василий Васильевич": 29,
-      "Жабин Сергей Иванович": 14,
-      "Кротов Евгений Геннадьевич": 3,
-      "Ростовцев Александр Валерьевич": 16,
-      "Фёдоров Алексей Геннадьевич": 18
+      "gas:candidate-vibid:2702000525037": 9,
+      "gas:candidate-vibid:2702000515513": 2,
+      "gas:candidate-vibid:2702000473558": 4,
+      "gas:candidate-vibid:2702000525375": 29,
+      "gas:candidate-vibid:2702000525149": 14,
+      "gas:candidate-vibid:2702000523838": 3,
+      "gas:candidate-vibid:2702000523769": 16,
+      "gas:candidate-vibid:2702000524513": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469002&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469002&type=464",
@@ -4683,14 +4683,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 14,
-      "Волков Андрей Григорьевич": 1,
-      "Диденко Алексей Николаевич": 3,
-      "Ерёмин Василий Васильевич": 19,
-      "Жабин Сергей Иванович": 7,
-      "Кротов Евгений Геннадьевич": 1,
-      "Ростовцев Александр Валерьевич": 4,
-      "Фёдоров Алексей Геннадьевич": 6
+      "gas:candidate-vibid:2702000525037": 14,
+      "gas:candidate-vibid:2702000515513": 1,
+      "gas:candidate-vibid:2702000473558": 3,
+      "gas:candidate-vibid:2702000525375": 19,
+      "gas:candidate-vibid:2702000525149": 7,
+      "gas:candidate-vibid:2702000523838": 1,
+      "gas:candidate-vibid:2702000523769": 4,
+      "gas:candidate-vibid:2702000524513": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469002&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469002&type=464",
@@ -4741,14 +4741,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 17,
-      "Волков Андрей Григорьевич": 11,
-      "Диденко Алексей Николаевич": 27,
-      "Ерёмин Василий Васильевич": 78,
-      "Жабин Сергей Иванович": 18,
-      "Кротов Евгений Геннадьевич": 10,
-      "Ростовцев Александр Валерьевич": 35,
-      "Фёдоров Алексей Геннадьевич": 38
+      "gas:candidate-vibid:2702000525037": 17,
+      "gas:candidate-vibid:2702000515513": 11,
+      "gas:candidate-vibid:2702000473558": 27,
+      "gas:candidate-vibid:2702000525375": 78,
+      "gas:candidate-vibid:2702000525149": 18,
+      "gas:candidate-vibid:2702000523838": 10,
+      "gas:candidate-vibid:2702000523769": 35,
+      "gas:candidate-vibid:2702000524513": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469002&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469002&type=464",
@@ -4799,14 +4799,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 28,
-      "Волков Андрей Григорьевич": 15,
-      "Диденко Алексей Николаевич": 34,
-      "Ерёмин Василий Васильевич": 94,
-      "Жабин Сергей Иванович": 30,
-      "Кротов Евгений Геннадьевич": 10,
-      "Ростовцев Александр Валерьевич": 27,
-      "Фёдоров Алексей Геннадьевич": 35
+      "gas:candidate-vibid:2702000525037": 28,
+      "gas:candidate-vibid:2702000515513": 15,
+      "gas:candidate-vibid:2702000473558": 34,
+      "gas:candidate-vibid:2702000525375": 94,
+      "gas:candidate-vibid:2702000525149": 30,
+      "gas:candidate-vibid:2702000523838": 10,
+      "gas:candidate-vibid:2702000523769": 27,
+      "gas:candidate-vibid:2702000524513": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469002&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469002&type=464",
@@ -4857,14 +4857,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 11,
-      "Волков Андрей Григорьевич": 31,
-      "Диденко Алексей Николаевич": 41,
-      "Ерёмин Василий Васильевич": 13,
-      "Жабин Сергей Иванович": 12,
-      "Кротов Евгений Геннадьевич": 21,
-      "Ростовцев Александр Валерьевич": 33,
-      "Фёдоров Алексей Геннадьевич": 63
+      "gas:candidate-vibid:2702000525037": 11,
+      "gas:candidate-vibid:2702000515513": 31,
+      "gas:candidate-vibid:2702000473558": 41,
+      "gas:candidate-vibid:2702000525375": 13,
+      "gas:candidate-vibid:2702000525149": 12,
+      "gas:candidate-vibid:2702000523838": 21,
+      "gas:candidate-vibid:2702000523769": 33,
+      "gas:candidate-vibid:2702000524513": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469002&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469002&type=464",
@@ -4915,14 +4915,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 22,
-      "Волков Андрей Григорьевич": 32,
-      "Диденко Алексей Николаевич": 260,
-      "Ерёмин Василий Васильевич": 58,
-      "Жабин Сергей Иванович": 26,
-      "Кротов Евгений Геннадьевич": 28,
-      "Ростовцев Александр Валерьевич": 104,
-      "Фёдоров Алексей Геннадьевич": 120
+      "gas:candidate-vibid:2702000525037": 22,
+      "gas:candidate-vibid:2702000515513": 32,
+      "gas:candidate-vibid:2702000473558": 260,
+      "gas:candidate-vibid:2702000525375": 58,
+      "gas:candidate-vibid:2702000525149": 26,
+      "gas:candidate-vibid:2702000523838": 28,
+      "gas:candidate-vibid:2702000523769": 104,
+      "gas:candidate-vibid:2702000524513": 120
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469003&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469003&type=464",
@@ -4973,14 +4973,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 10,
-      "Волков Андрей Григорьевич": 31,
-      "Диденко Алексей Николаевич": 210,
-      "Ерёмин Василий Васильевич": 38,
-      "Жабин Сергей Иванович": 42,
-      "Кротов Евгений Геннадьевич": 7,
-      "Ростовцев Александр Валерьевич": 68,
-      "Фёдоров Алексей Геннадьевич": 94
+      "gas:candidate-vibid:2702000525037": 10,
+      "gas:candidate-vibid:2702000515513": 31,
+      "gas:candidate-vibid:2702000473558": 210,
+      "gas:candidate-vibid:2702000525375": 38,
+      "gas:candidate-vibid:2702000525149": 42,
+      "gas:candidate-vibid:2702000523838": 7,
+      "gas:candidate-vibid:2702000523769": 68,
+      "gas:candidate-vibid:2702000524513": 94
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469003&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469003&type=464",
@@ -5031,14 +5031,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 37,
-      "Волков Андрей Григорьевич": 42,
-      "Диденко Алексей Николаевич": 263,
-      "Ерёмин Василий Васильевич": 65,
-      "Жабин Сергей Иванович": 46,
-      "Кротов Евгений Геннадьевич": 21,
-      "Ростовцев Александр Валерьевич": 103,
-      "Фёдоров Алексей Геннадьевич": 101
+      "gas:candidate-vibid:2702000525037": 37,
+      "gas:candidate-vibid:2702000515513": 42,
+      "gas:candidate-vibid:2702000473558": 263,
+      "gas:candidate-vibid:2702000525375": 65,
+      "gas:candidate-vibid:2702000525149": 46,
+      "gas:candidate-vibid:2702000523838": 21,
+      "gas:candidate-vibid:2702000523769": 103,
+      "gas:candidate-vibid:2702000524513": 101
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469003&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469003&type=464",
@@ -5089,14 +5089,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 24,
-      "Волков Андрей Григорьевич": 39,
-      "Диденко Алексей Николаевич": 284,
-      "Ерёмин Василий Васильевич": 55,
-      "Жабин Сергей Иванович": 83,
-      "Кротов Евгений Геннадьевич": 28,
-      "Ростовцев Александр Валерьевич": 83,
-      "Фёдоров Алексей Геннадьевич": 133
+      "gas:candidate-vibid:2702000525037": 24,
+      "gas:candidate-vibid:2702000515513": 39,
+      "gas:candidate-vibid:2702000473558": 284,
+      "gas:candidate-vibid:2702000525375": 55,
+      "gas:candidate-vibid:2702000525149": 83,
+      "gas:candidate-vibid:2702000523838": 28,
+      "gas:candidate-vibid:2702000523769": 83,
+      "gas:candidate-vibid:2702000524513": 133
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469003&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469003&type=464",
@@ -5147,14 +5147,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 14,
-      "Волков Андрей Григорьевич": 28,
-      "Диденко Алексей Николаевич": 158,
-      "Ерёмин Василий Васильевич": 43,
-      "Жабин Сергей Иванович": 36,
-      "Кротов Евгений Геннадьевич": 13,
-      "Ростовцев Александр Валерьевич": 87,
-      "Фёдоров Алексей Геннадьевич": 96
+      "gas:candidate-vibid:2702000525037": 14,
+      "gas:candidate-vibid:2702000515513": 28,
+      "gas:candidate-vibid:2702000473558": 158,
+      "gas:candidate-vibid:2702000525375": 43,
+      "gas:candidate-vibid:2702000525149": 36,
+      "gas:candidate-vibid:2702000523838": 13,
+      "gas:candidate-vibid:2702000523769": 87,
+      "gas:candidate-vibid:2702000524513": 96
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469003&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469003&type=464",
@@ -5205,14 +5205,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 16,
-      "Волков Андрей Григорьевич": 33,
-      "Диденко Алексей Николаевич": 163,
-      "Ерёмин Василий Васильевич": 50,
-      "Жабин Сергей Иванович": 30,
-      "Кротов Евгений Геннадьевич": 13,
-      "Ростовцев Александр Валерьевич": 85,
-      "Фёдоров Алексей Геннадьевич": 89
+      "gas:candidate-vibid:2702000525037": 16,
+      "gas:candidate-vibid:2702000515513": 33,
+      "gas:candidate-vibid:2702000473558": 163,
+      "gas:candidate-vibid:2702000525375": 50,
+      "gas:candidate-vibid:2702000525149": 30,
+      "gas:candidate-vibid:2702000523838": 13,
+      "gas:candidate-vibid:2702000523769": 85,
+      "gas:candidate-vibid:2702000524513": 89
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469003&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469003&type=464",
@@ -5263,14 +5263,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 31,
-      "Волков Андрей Григорьевич": 50,
-      "Диденко Алексей Николаевич": 299,
-      "Ерёмин Василий Васильевич": 77,
-      "Жабин Сергей Иванович": 58,
-      "Кротов Евгений Геннадьевич": 18,
-      "Ростовцев Александр Валерьевич": 118,
-      "Фёдоров Алексей Геннадьевич": 148
+      "gas:candidate-vibid:2702000525037": 31,
+      "gas:candidate-vibid:2702000515513": 50,
+      "gas:candidate-vibid:2702000473558": 299,
+      "gas:candidate-vibid:2702000525375": 77,
+      "gas:candidate-vibid:2702000525149": 58,
+      "gas:candidate-vibid:2702000523838": 18,
+      "gas:candidate-vibid:2702000523769": 118,
+      "gas:candidate-vibid:2702000524513": 148
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469003&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469003&type=464",
@@ -5321,14 +5321,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 26,
-      "Волков Андрей Григорьевич": 36,
-      "Диденко Алексей Николаевич": 196,
-      "Ерёмин Василий Васильевич": 68,
-      "Жабин Сергей Иванович": 55,
-      "Кротов Евгений Геннадьевич": 21,
-      "Ростовцев Александр Валерьевич": 72,
-      "Фёдоров Алексей Геннадьевич": 101
+      "gas:candidate-vibid:2702000525037": 26,
+      "gas:candidate-vibid:2702000515513": 36,
+      "gas:candidate-vibid:2702000473558": 196,
+      "gas:candidate-vibid:2702000525375": 68,
+      "gas:candidate-vibid:2702000525149": 55,
+      "gas:candidate-vibid:2702000523838": 21,
+      "gas:candidate-vibid:2702000523769": 72,
+      "gas:candidate-vibid:2702000524513": 101
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469003&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469003&type=464",
@@ -5379,14 +5379,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 26,
-      "Волков Андрей Григорьевич": 44,
-      "Диденко Алексей Николаевич": 276,
-      "Ерёмин Василий Васильевич": 70,
-      "Жабин Сергей Иванович": 64,
-      "Кротов Евгений Геннадьевич": 25,
-      "Ростовцев Александр Валерьевич": 96,
-      "Фёдоров Алексей Геннадьевич": 119
+      "gas:candidate-vibid:2702000525037": 26,
+      "gas:candidate-vibid:2702000515513": 44,
+      "gas:candidate-vibid:2702000473558": 276,
+      "gas:candidate-vibid:2702000525375": 70,
+      "gas:candidate-vibid:2702000525149": 64,
+      "gas:candidate-vibid:2702000523838": 25,
+      "gas:candidate-vibid:2702000523769": 96,
+      "gas:candidate-vibid:2702000524513": 119
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469003&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469003&type=464",
@@ -5437,14 +5437,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 25,
-      "Волков Андрей Григорьевич": 45,
-      "Диденко Алексей Николаевич": 241,
-      "Ерёмин Василий Васильевич": 58,
-      "Жабин Сергей Иванович": 51,
-      "Кротов Евгений Геннадьевич": 16,
-      "Ростовцев Александр Валерьевич": 87,
-      "Фёдоров Алексей Геннадьевич": 97
+      "gas:candidate-vibid:2702000525037": 25,
+      "gas:candidate-vibid:2702000515513": 45,
+      "gas:candidate-vibid:2702000473558": 241,
+      "gas:candidate-vibid:2702000525375": 58,
+      "gas:candidate-vibid:2702000525149": 51,
+      "gas:candidate-vibid:2702000523838": 16,
+      "gas:candidate-vibid:2702000523769": 87,
+      "gas:candidate-vibid:2702000524513": 97
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469003&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469003&type=464",
@@ -5495,14 +5495,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 15,
-      "Волков Андрей Григорьевич": 36,
-      "Диденко Алексей Николаевич": 227,
-      "Ерёмин Василий Васильевич": 40,
-      "Жабин Сергей Иванович": 50,
-      "Кротов Евгений Геннадьевич": 25,
-      "Ростовцев Александр Валерьевич": 71,
-      "Фёдоров Алексей Геннадьевич": 112
+      "gas:candidate-vibid:2702000525037": 15,
+      "gas:candidate-vibid:2702000515513": 36,
+      "gas:candidate-vibid:2702000473558": 227,
+      "gas:candidate-vibid:2702000525375": 40,
+      "gas:candidate-vibid:2702000525149": 50,
+      "gas:candidate-vibid:2702000523838": 25,
+      "gas:candidate-vibid:2702000523769": 71,
+      "gas:candidate-vibid:2702000524513": 112
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469003&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469003&type=464",
@@ -5553,14 +5553,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 16,
-      "Волков Андрей Григорьевич": 29,
-      "Диденко Алексей Николаевич": 157,
-      "Ерёмин Василий Васильевич": 41,
-      "Жабин Сергей Иванович": 44,
-      "Кротов Евгений Геннадьевич": 11,
-      "Ростовцев Александр Валерьевич": 76,
-      "Фёдоров Алексей Геннадьевич": 78
+      "gas:candidate-vibid:2702000525037": 16,
+      "gas:candidate-vibid:2702000515513": 29,
+      "gas:candidate-vibid:2702000473558": 157,
+      "gas:candidate-vibid:2702000525375": 41,
+      "gas:candidate-vibid:2702000525149": 44,
+      "gas:candidate-vibid:2702000523838": 11,
+      "gas:candidate-vibid:2702000523769": 76,
+      "gas:candidate-vibid:2702000524513": 78
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469003&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469003&type=464",
@@ -5611,14 +5611,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 19,
-      "Волков Андрей Григорьевич": 35,
-      "Диденко Алексей Николаевич": 167,
-      "Ерёмин Василий Васильевич": 44,
-      "Жабин Сергей Иванович": 31,
-      "Кротов Евгений Геннадьевич": 23,
-      "Ростовцев Александр Валерьевич": 83,
-      "Фёдоров Алексей Геннадьевич": 93
+      "gas:candidate-vibid:2702000525037": 19,
+      "gas:candidate-vibid:2702000515513": 35,
+      "gas:candidate-vibid:2702000473558": 167,
+      "gas:candidate-vibid:2702000525375": 44,
+      "gas:candidate-vibid:2702000525149": 31,
+      "gas:candidate-vibid:2702000523838": 23,
+      "gas:candidate-vibid:2702000523769": 83,
+      "gas:candidate-vibid:2702000524513": 93
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469003&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469003&type=464",
@@ -5669,14 +5669,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 16,
-      "Волков Андрей Григорьевич": 48,
-      "Диденко Алексей Николаевич": 169,
-      "Ерёмин Василий Васильевич": 43,
-      "Жабин Сергей Иванович": 34,
-      "Кротов Евгений Геннадьевич": 7,
-      "Ростовцев Александр Валерьевич": 70,
-      "Фёдоров Алексей Геннадьевич": 72
+      "gas:candidate-vibid:2702000525037": 16,
+      "gas:candidate-vibid:2702000515513": 48,
+      "gas:candidate-vibid:2702000473558": 169,
+      "gas:candidate-vibid:2702000525375": 43,
+      "gas:candidate-vibid:2702000525149": 34,
+      "gas:candidate-vibid:2702000523838": 7,
+      "gas:candidate-vibid:2702000523769": 70,
+      "gas:candidate-vibid:2702000524513": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469003&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469003&type=464",
@@ -5727,14 +5727,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 32,
-      "Волков Андрей Григорьевич": 38,
-      "Диденко Алексей Николаевич": 247,
-      "Ерёмин Василий Васильевич": 71,
-      "Жабин Сергей Иванович": 53,
-      "Кротов Евгений Геннадьевич": 19,
-      "Ростовцев Александр Валерьевич": 110,
-      "Фёдоров Алексей Геннадьевич": 121
+      "gas:candidate-vibid:2702000525037": 32,
+      "gas:candidate-vibid:2702000515513": 38,
+      "gas:candidate-vibid:2702000473558": 247,
+      "gas:candidate-vibid:2702000525375": 71,
+      "gas:candidate-vibid:2702000525149": 53,
+      "gas:candidate-vibid:2702000523838": 19,
+      "gas:candidate-vibid:2702000523769": 110,
+      "gas:candidate-vibid:2702000524513": 121
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469003&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469003&type=464",
@@ -5785,14 +5785,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 15,
-      "Волков Андрей Григорьевич": 34,
-      "Диденко Алексей Николаевич": 209,
-      "Ерёмин Василий Васильевич": 30,
-      "Жабин Сергей Иванович": 29,
-      "Кротов Евгений Геннадьевич": 17,
-      "Ростовцев Александр Валерьевич": 57,
-      "Фёдоров Алексей Геннадьевич": 119
+      "gas:candidate-vibid:2702000525037": 15,
+      "gas:candidate-vibid:2702000515513": 34,
+      "gas:candidate-vibid:2702000473558": 209,
+      "gas:candidate-vibid:2702000525375": 30,
+      "gas:candidate-vibid:2702000525149": 29,
+      "gas:candidate-vibid:2702000523838": 17,
+      "gas:candidate-vibid:2702000523769": 57,
+      "gas:candidate-vibid:2702000524513": 119
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469003&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469003&type=464",
@@ -5843,14 +5843,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 14,
-      "Волков Андрей Григорьевич": 21,
-      "Диденко Алексей Николаевич": 95,
-      "Ерёмин Василий Васильевич": 19,
-      "Жабин Сергей Иванович": 23,
-      "Кротов Евгений Геннадьевич": 14,
-      "Ростовцев Александр Валерьевич": 41,
-      "Фёдоров Алексей Геннадьевич": 46
+      "gas:candidate-vibid:2702000525037": 14,
+      "gas:candidate-vibid:2702000515513": 21,
+      "gas:candidate-vibid:2702000473558": 95,
+      "gas:candidate-vibid:2702000525375": 19,
+      "gas:candidate-vibid:2702000525149": 23,
+      "gas:candidate-vibid:2702000523838": 14,
+      "gas:candidate-vibid:2702000523769": 41,
+      "gas:candidate-vibid:2702000524513": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469003&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469003&type=464",
@@ -5901,14 +5901,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 19,
-      "Волков Андрей Григорьевич": 22,
-      "Диденко Алексей Николаевич": 209,
-      "Ерёмин Василий Васильевич": 51,
-      "Жабин Сергей Иванович": 36,
-      "Кротов Евгений Геннадьевич": 17,
-      "Ростовцев Александр Валерьевич": 71,
-      "Фёдоров Алексей Геннадьевич": 89
+      "gas:candidate-vibid:2702000525037": 19,
+      "gas:candidate-vibid:2702000515513": 22,
+      "gas:candidate-vibid:2702000473558": 209,
+      "gas:candidate-vibid:2702000525375": 51,
+      "gas:candidate-vibid:2702000525149": 36,
+      "gas:candidate-vibid:2702000523838": 17,
+      "gas:candidate-vibid:2702000523769": 71,
+      "gas:candidate-vibid:2702000524513": 89
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469003&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469003&type=464",
@@ -5959,14 +5959,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 24,
-      "Волков Андрей Григорьевич": 31,
-      "Диденко Алексей Николаевич": 192,
-      "Ерёмин Василий Васильевич": 59,
-      "Жабин Сергей Иванович": 30,
-      "Кротов Евгений Геннадьевич": 11,
-      "Ростовцев Александр Валерьевич": 85,
-      "Фёдоров Алексей Геннадьевич": 97
+      "gas:candidate-vibid:2702000525037": 24,
+      "gas:candidate-vibid:2702000515513": 31,
+      "gas:candidate-vibid:2702000473558": 192,
+      "gas:candidate-vibid:2702000525375": 59,
+      "gas:candidate-vibid:2702000525149": 30,
+      "gas:candidate-vibid:2702000523838": 11,
+      "gas:candidate-vibid:2702000523769": 85,
+      "gas:candidate-vibid:2702000524513": 97
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469003&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469003&type=464",
@@ -6017,14 +6017,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 8,
-      "Волков Андрей Григорьевич": 11,
-      "Диденко Алексей Николаевич": 136,
-      "Ерёмин Василий Васильевич": 39,
-      "Жабин Сергей Иванович": 19,
-      "Кротов Евгений Геннадьевич": 13,
-      "Ростовцев Александр Валерьевич": 55,
-      "Фёдоров Алексей Геннадьевич": 40
+      "gas:candidate-vibid:2702000525037": 8,
+      "gas:candidate-vibid:2702000515513": 11,
+      "gas:candidate-vibid:2702000473558": 136,
+      "gas:candidate-vibid:2702000525375": 39,
+      "gas:candidate-vibid:2702000525149": 19,
+      "gas:candidate-vibid:2702000523838": 13,
+      "gas:candidate-vibid:2702000523769": 55,
+      "gas:candidate-vibid:2702000524513": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469003&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469003&type=464",
@@ -6075,14 +6075,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 1,
-      "Волков Андрей Григорьевич": 30,
-      "Диденко Алексей Николаевич": 107,
-      "Ерёмин Василий Васильевич": 6,
-      "Жабин Сергей Иванович": 6,
-      "Кротов Евгений Геннадьевич": 8,
-      "Ростовцев Александр Валерьевич": 41,
-      "Фёдоров Алексей Геннадьевич": 47
+      "gas:candidate-vibid:2702000525037": 1,
+      "gas:candidate-vibid:2702000515513": 30,
+      "gas:candidate-vibid:2702000473558": 107,
+      "gas:candidate-vibid:2702000525375": 6,
+      "gas:candidate-vibid:2702000525149": 6,
+      "gas:candidate-vibid:2702000523838": 8,
+      "gas:candidate-vibid:2702000523769": 41,
+      "gas:candidate-vibid:2702000524513": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469003&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469003&type=464",
@@ -6133,14 +6133,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 18,
-      "Волков Андрей Григорьевич": 52,
-      "Диденко Алексей Николаевич": 267,
-      "Ерёмин Василий Васильевич": 41,
-      "Жабин Сергей Иванович": 29,
-      "Кротов Евгений Геннадьевич": 15,
-      "Ростовцев Александр Валерьевич": 60,
-      "Фёдоров Алексей Геннадьевич": 100
+      "gas:candidate-vibid:2702000525037": 18,
+      "gas:candidate-vibid:2702000515513": 52,
+      "gas:candidate-vibid:2702000473558": 267,
+      "gas:candidate-vibid:2702000525375": 41,
+      "gas:candidate-vibid:2702000525149": 29,
+      "gas:candidate-vibid:2702000523838": 15,
+      "gas:candidate-vibid:2702000523769": 60,
+      "gas:candidate-vibid:2702000524513": 100
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469003&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469003&type=464",
@@ -6191,14 +6191,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 7,
-      "Волков Андрей Григорьевич": 13,
-      "Диденко Алексей Николаевич": 102,
-      "Ерёмин Василий Васильевич": 10,
-      "Жабин Сергей Иванович": 14,
-      "Кротов Евгений Геннадьевич": 8,
-      "Ростовцев Александр Валерьевич": 16,
-      "Фёдоров Алексей Геннадьевич": 40
+      "gas:candidate-vibid:2702000525037": 7,
+      "gas:candidate-vibid:2702000515513": 13,
+      "gas:candidate-vibid:2702000473558": 102,
+      "gas:candidate-vibid:2702000525375": 10,
+      "gas:candidate-vibid:2702000525149": 14,
+      "gas:candidate-vibid:2702000523838": 8,
+      "gas:candidate-vibid:2702000523769": 16,
+      "gas:candidate-vibid:2702000524513": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469003&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469003&type=464",
@@ -6249,14 +6249,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 7,
-      "Волков Андрей Григорьевич": 18,
-      "Диденко Алексей Николаевич": 105,
-      "Ерёмин Василий Васильевич": 10,
-      "Жабин Сергей Иванович": 12,
-      "Кротов Евгений Геннадьевич": 7,
-      "Ростовцев Александр Валерьевич": 27,
-      "Фёдоров Алексей Геннадьевич": 41
+      "gas:candidate-vibid:2702000525037": 7,
+      "gas:candidate-vibid:2702000515513": 18,
+      "gas:candidate-vibid:2702000473558": 105,
+      "gas:candidate-vibid:2702000525375": 10,
+      "gas:candidate-vibid:2702000525149": 12,
+      "gas:candidate-vibid:2702000523838": 7,
+      "gas:candidate-vibid:2702000523769": 27,
+      "gas:candidate-vibid:2702000524513": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469003&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469003&type=464",
@@ -6307,14 +6307,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 16,
-      "Волков Андрей Григорьевич": 37,
-      "Диденко Алексей Николаевич": 197,
-      "Ерёмин Василий Васильевич": 20,
-      "Жабин Сергей Иванович": 33,
-      "Кротов Евгений Геннадьевич": 12,
-      "Ростовцев Александр Валерьевич": 69,
-      "Фёдоров Алексей Геннадьевич": 73
+      "gas:candidate-vibid:2702000525037": 16,
+      "gas:candidate-vibid:2702000515513": 37,
+      "gas:candidate-vibid:2702000473558": 197,
+      "gas:candidate-vibid:2702000525375": 20,
+      "gas:candidate-vibid:2702000525149": 33,
+      "gas:candidate-vibid:2702000523838": 12,
+      "gas:candidate-vibid:2702000523769": 69,
+      "gas:candidate-vibid:2702000524513": 73
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469003&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469003&type=464",
@@ -6365,14 +6365,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 21,
-      "Волков Андрей Григорьевич": 27,
-      "Диденко Алексей Николаевич": 228,
-      "Ерёмин Василий Васильевич": 20,
-      "Жабин Сергей Иванович": 24,
-      "Кротов Евгений Геннадьевич": 16,
-      "Ростовцев Александр Валерьевич": 46,
-      "Фёдоров Алексей Геннадьевич": 82
+      "gas:candidate-vibid:2702000525037": 21,
+      "gas:candidate-vibid:2702000515513": 27,
+      "gas:candidate-vibid:2702000473558": 228,
+      "gas:candidate-vibid:2702000525375": 20,
+      "gas:candidate-vibid:2702000525149": 24,
+      "gas:candidate-vibid:2702000523838": 16,
+      "gas:candidate-vibid:2702000523769": 46,
+      "gas:candidate-vibid:2702000524513": 82
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469003&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469003&type=464",
@@ -6423,14 +6423,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 11,
-      "Волков Андрей Григорьевич": 38,
-      "Диденко Алексей Николаевич": 199,
-      "Ерёмин Василий Васильевич": 39,
-      "Жабин Сергей Иванович": 24,
-      "Кротов Евгений Геннадьевич": 12,
-      "Ростовцев Александр Валерьевич": 47,
-      "Фёдоров Алексей Геннадьевич": 73
+      "gas:candidate-vibid:2702000525037": 11,
+      "gas:candidate-vibid:2702000515513": 38,
+      "gas:candidate-vibid:2702000473558": 199,
+      "gas:candidate-vibid:2702000525375": 39,
+      "gas:candidate-vibid:2702000525149": 24,
+      "gas:candidate-vibid:2702000523838": 12,
+      "gas:candidate-vibid:2702000523769": 47,
+      "gas:candidate-vibid:2702000524513": 73
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469003&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469003&type=464",
@@ -6481,14 +6481,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 16,
-      "Волков Андрей Григорьевич": 55,
-      "Диденко Алексей Николаевич": 224,
-      "Ерёмин Василий Васильевич": 49,
-      "Жабин Сергей Иванович": 37,
-      "Кротов Евгений Геннадьевич": 15,
-      "Ростовцев Александр Валерьевич": 50,
-      "Фёдоров Алексей Геннадьевич": 95
+      "gas:candidate-vibid:2702000525037": 16,
+      "gas:candidate-vibid:2702000515513": 55,
+      "gas:candidate-vibid:2702000473558": 224,
+      "gas:candidate-vibid:2702000525375": 49,
+      "gas:candidate-vibid:2702000525149": 37,
+      "gas:candidate-vibid:2702000523838": 15,
+      "gas:candidate-vibid:2702000523769": 50,
+      "gas:candidate-vibid:2702000524513": 95
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469003&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469003&type=464",
@@ -6539,14 +6539,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 11,
-      "Волков Андрей Григорьевич": 55,
-      "Диденко Алексей Николаевич": 177,
-      "Ерёмин Василий Васильевич": 18,
-      "Жабин Сергей Иванович": 34,
-      "Кротов Евгений Геннадьевич": 14,
-      "Ростовцев Александр Валерьевич": 62,
-      "Фёдоров Алексей Геннадьевич": 94
+      "gas:candidate-vibid:2702000525037": 11,
+      "gas:candidate-vibid:2702000515513": 55,
+      "gas:candidate-vibid:2702000473558": 177,
+      "gas:candidate-vibid:2702000525375": 18,
+      "gas:candidate-vibid:2702000525149": 34,
+      "gas:candidate-vibid:2702000523838": 14,
+      "gas:candidate-vibid:2702000523769": 62,
+      "gas:candidate-vibid:2702000524513": 94
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469003&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469003&type=464",
@@ -6597,14 +6597,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 8,
-      "Волков Андрей Григорьевич": 20,
-      "Диденко Алексей Николаевич": 107,
-      "Ерёмин Василий Васильевич": 32,
-      "Жабин Сергей Иванович": 26,
-      "Кротов Евгений Геннадьевич": 8,
-      "Ростовцев Александр Валерьевич": 29,
-      "Фёдоров Алексей Геннадьевич": 45
+      "gas:candidate-vibid:2702000525037": 8,
+      "gas:candidate-vibid:2702000515513": 20,
+      "gas:candidate-vibid:2702000473558": 107,
+      "gas:candidate-vibid:2702000525375": 32,
+      "gas:candidate-vibid:2702000525149": 26,
+      "gas:candidate-vibid:2702000523838": 8,
+      "gas:candidate-vibid:2702000523769": 29,
+      "gas:candidate-vibid:2702000524513": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469003&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469003&type=464",
@@ -6655,14 +6655,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 9,
-      "Волков Андрей Григорьевич": 31,
-      "Диденко Алексей Николаевич": 135,
-      "Ерёмин Василий Васильевич": 25,
-      "Жабин Сергей Иванович": 33,
-      "Кротов Евгений Геннадьевич": 9,
-      "Ростовцев Александр Валерьевич": 29,
-      "Фёдоров Алексей Геннадьевич": 47
+      "gas:candidate-vibid:2702000525037": 9,
+      "gas:candidate-vibid:2702000515513": 31,
+      "gas:candidate-vibid:2702000473558": 135,
+      "gas:candidate-vibid:2702000525375": 25,
+      "gas:candidate-vibid:2702000525149": 33,
+      "gas:candidate-vibid:2702000523838": 9,
+      "gas:candidate-vibid:2702000523769": 29,
+      "gas:candidate-vibid:2702000524513": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469003&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469003&type=464",
@@ -6713,14 +6713,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 13,
-      "Волков Андрей Григорьевич": 39,
-      "Диденко Алексей Николаевич": 129,
-      "Ерёмин Василий Васильевич": 27,
-      "Жабин Сергей Иванович": 24,
-      "Кротов Евгений Геннадьевич": 10,
-      "Ростовцев Александр Валерьевич": 63,
-      "Фёдоров Алексей Геннадьевич": 74
+      "gas:candidate-vibid:2702000525037": 13,
+      "gas:candidate-vibid:2702000515513": 39,
+      "gas:candidate-vibid:2702000473558": 129,
+      "gas:candidate-vibid:2702000525375": 27,
+      "gas:candidate-vibid:2702000525149": 24,
+      "gas:candidate-vibid:2702000523838": 10,
+      "gas:candidate-vibid:2702000523769": 63,
+      "gas:candidate-vibid:2702000524513": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469003&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469003&type=464",
@@ -6771,14 +6771,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 22,
-      "Волков Андрей Григорьевич": 37,
-      "Диденко Алексей Николаевич": 203,
-      "Ерёмин Василий Васильевич": 33,
-      "Жабин Сергей Иванович": 42,
-      "Кротов Евгений Геннадьевич": 13,
-      "Ростовцев Александр Валерьевич": 70,
-      "Фёдоров Алексей Геннадьевич": 107
+      "gas:candidate-vibid:2702000525037": 22,
+      "gas:candidate-vibid:2702000515513": 37,
+      "gas:candidate-vibid:2702000473558": 203,
+      "gas:candidate-vibid:2702000525375": 33,
+      "gas:candidate-vibid:2702000525149": 42,
+      "gas:candidate-vibid:2702000523838": 13,
+      "gas:candidate-vibid:2702000523769": 70,
+      "gas:candidate-vibid:2702000524513": 107
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469003&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469003&type=464",
@@ -6829,14 +6829,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 17,
-      "Волков Андрей Григорьевич": 45,
-      "Диденко Алексей Николаевич": 150,
-      "Ерёмин Василий Васильевич": 33,
-      "Жабин Сергей Иванович": 43,
-      "Кротов Евгений Геннадьевич": 16,
-      "Ростовцев Александр Валерьевич": 62,
-      "Фёдоров Алексей Геннадьевич": 67
+      "gas:candidate-vibid:2702000525037": 17,
+      "gas:candidate-vibid:2702000515513": 45,
+      "gas:candidate-vibid:2702000473558": 150,
+      "gas:candidate-vibid:2702000525375": 33,
+      "gas:candidate-vibid:2702000525149": 43,
+      "gas:candidate-vibid:2702000523838": 16,
+      "gas:candidate-vibid:2702000523769": 62,
+      "gas:candidate-vibid:2702000524513": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469003&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469003&type=464",
@@ -6887,14 +6887,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 25,
-      "Волков Андрей Григорьевич": 39,
-      "Диденко Алексей Николаевич": 162,
-      "Ерёмин Василий Васильевич": 49,
-      "Жабин Сергей Иванович": 47,
-      "Кротов Евгений Геннадьевич": 13,
-      "Ростовцев Александр Валерьевич": 60,
-      "Фёдоров Алексей Геннадьевич": 85
+      "gas:candidate-vibid:2702000525037": 25,
+      "gas:candidate-vibid:2702000515513": 39,
+      "gas:candidate-vibid:2702000473558": 162,
+      "gas:candidate-vibid:2702000525375": 49,
+      "gas:candidate-vibid:2702000525149": 47,
+      "gas:candidate-vibid:2702000523838": 13,
+      "gas:candidate-vibid:2702000523769": 60,
+      "gas:candidate-vibid:2702000524513": 85
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469003&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469003&type=464",
@@ -6945,14 +6945,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 13,
-      "Волков Андрей Григорьевич": 19,
-      "Диденко Алексей Николаевич": 138,
-      "Ерёмин Василий Васильевич": 33,
-      "Жабин Сергей Иванович": 27,
-      "Кротов Евгений Геннадьевич": 9,
-      "Ростовцев Александр Валерьевич": 58,
-      "Фёдоров Алексей Геннадьевич": 53
+      "gas:candidate-vibid:2702000525037": 13,
+      "gas:candidate-vibid:2702000515513": 19,
+      "gas:candidate-vibid:2702000473558": 138,
+      "gas:candidate-vibid:2702000525375": 33,
+      "gas:candidate-vibid:2702000525149": 27,
+      "gas:candidate-vibid:2702000523838": 9,
+      "gas:candidate-vibid:2702000523769": 58,
+      "gas:candidate-vibid:2702000524513": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469003&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469003&type=464",
@@ -7003,14 +7003,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 15,
-      "Волков Андрей Григорьевич": 28,
-      "Диденко Алексей Николаевич": 146,
-      "Ерёмин Василий Васильевич": 32,
-      "Жабин Сергей Иванович": 25,
-      "Кротов Евгений Геннадьевич": 14,
-      "Ростовцев Александр Валерьевич": 61,
-      "Фёдоров Алексей Геннадьевич": 81
+      "gas:candidate-vibid:2702000525037": 15,
+      "gas:candidate-vibid:2702000515513": 28,
+      "gas:candidate-vibid:2702000473558": 146,
+      "gas:candidate-vibid:2702000525375": 32,
+      "gas:candidate-vibid:2702000525149": 25,
+      "gas:candidate-vibid:2702000523838": 14,
+      "gas:candidate-vibid:2702000523769": 61,
+      "gas:candidate-vibid:2702000524513": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469003&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469003&type=464",
@@ -7061,14 +7061,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 21,
-      "Волков Андрей Григорьевич": 48,
-      "Диденко Алексей Николаевич": 173,
-      "Ерёмин Василий Васильевич": 29,
-      "Жабин Сергей Иванович": 32,
-      "Кротов Евгений Геннадьевич": 5,
-      "Ростовцев Александр Валерьевич": 63,
-      "Фёдоров Алексей Геннадьевич": 83
+      "gas:candidate-vibid:2702000525037": 21,
+      "gas:candidate-vibid:2702000515513": 48,
+      "gas:candidate-vibid:2702000473558": 173,
+      "gas:candidate-vibid:2702000525375": 29,
+      "gas:candidate-vibid:2702000525149": 32,
+      "gas:candidate-vibid:2702000523838": 5,
+      "gas:candidate-vibid:2702000523769": 63,
+      "gas:candidate-vibid:2702000524513": 83
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469003&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469003&type=464",
@@ -7119,14 +7119,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 16,
-      "Волков Андрей Григорьевич": 33,
-      "Диденко Алексей Николаевич": 201,
-      "Ерёмин Василий Васильевич": 26,
-      "Жабин Сергей Иванович": 26,
-      "Кротов Евгений Геннадьевич": 19,
-      "Ростовцев Александр Валерьевич": 67,
-      "Фёдоров Алексей Геннадьевич": 69
+      "gas:candidate-vibid:2702000525037": 16,
+      "gas:candidate-vibid:2702000515513": 33,
+      "gas:candidate-vibid:2702000473558": 201,
+      "gas:candidate-vibid:2702000525375": 26,
+      "gas:candidate-vibid:2702000525149": 26,
+      "gas:candidate-vibid:2702000523838": 19,
+      "gas:candidate-vibid:2702000523769": 67,
+      "gas:candidate-vibid:2702000524513": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469003&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469003&type=464",
@@ -7177,14 +7177,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 7,
-      "Волков Андрей Григорьевич": 30,
-      "Диденко Алексей Николаевич": 88,
-      "Ерёмин Василий Васильевич": 18,
-      "Жабин Сергей Иванович": 19,
-      "Кротов Евгений Геннадьевич": 7,
-      "Ростовцев Александр Валерьевич": 39,
-      "Фёдоров Алексей Геннадьевич": 45
+      "gas:candidate-vibid:2702000525037": 7,
+      "gas:candidate-vibid:2702000515513": 30,
+      "gas:candidate-vibid:2702000473558": 88,
+      "gas:candidate-vibid:2702000525375": 18,
+      "gas:candidate-vibid:2702000525149": 19,
+      "gas:candidate-vibid:2702000523838": 7,
+      "gas:candidate-vibid:2702000523769": 39,
+      "gas:candidate-vibid:2702000524513": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469003&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469003&type=464",
@@ -7235,14 +7235,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 14,
-      "Волков Андрей Григорьевич": 53,
-      "Диденко Алексей Николаевич": 255,
-      "Ерёмин Василий Васильевич": 30,
-      "Жабин Сергей Иванович": 21,
-      "Кротов Евгений Геннадьевич": 11,
-      "Ростовцев Александр Валерьевич": 44,
-      "Фёдоров Алексей Геннадьевич": 103
+      "gas:candidate-vibid:2702000525037": 14,
+      "gas:candidate-vibid:2702000515513": 53,
+      "gas:candidate-vibid:2702000473558": 255,
+      "gas:candidate-vibid:2702000525375": 30,
+      "gas:candidate-vibid:2702000525149": 21,
+      "gas:candidate-vibid:2702000523838": 11,
+      "gas:candidate-vibid:2702000523769": 44,
+      "gas:candidate-vibid:2702000524513": 103
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469003&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469003&type=464",
@@ -7293,14 +7293,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 28,
-      "Волков Андрей Григорьевич": 53,
-      "Диденко Алексей Николаевич": 206,
-      "Ерёмин Василий Васильевич": 69,
-      "Жабин Сергей Иванович": 50,
-      "Кротов Евгений Геннадьевич": 19,
-      "Ростовцев Александр Валерьевич": 86,
-      "Фёдоров Алексей Геннадьевич": 117
+      "gas:candidate-vibid:2702000525037": 28,
+      "gas:candidate-vibid:2702000515513": 53,
+      "gas:candidate-vibid:2702000473558": 206,
+      "gas:candidate-vibid:2702000525375": 69,
+      "gas:candidate-vibid:2702000525149": 50,
+      "gas:candidate-vibid:2702000523838": 19,
+      "gas:candidate-vibid:2702000523769": 86,
+      "gas:candidate-vibid:2702000524513": 117
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469003&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469003&type=464",
@@ -7351,14 +7351,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 15,
-      "Волков Андрей Григорьевич": 24,
-      "Диденко Алексей Николаевич": 136,
-      "Ерёмин Василий Васильевич": 25,
-      "Жабин Сергей Иванович": 28,
-      "Кротов Евгений Геннадьевич": 15,
-      "Ростовцев Александр Валерьевич": 55,
-      "Фёдоров Алексей Геннадьевич": 64
+      "gas:candidate-vibid:2702000525037": 15,
+      "gas:candidate-vibid:2702000515513": 24,
+      "gas:candidate-vibid:2702000473558": 136,
+      "gas:candidate-vibid:2702000525375": 25,
+      "gas:candidate-vibid:2702000525149": 28,
+      "gas:candidate-vibid:2702000523838": 15,
+      "gas:candidate-vibid:2702000523769": 55,
+      "gas:candidate-vibid:2702000524513": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469003&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469003&type=464",
@@ -7409,14 +7409,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 0,
-      "Волков Андрей Григорьевич": 4,
-      "Диденко Алексей Николаевич": 11,
-      "Ерёмин Василий Васильевич": 0,
-      "Жабин Сергей Иванович": 0,
-      "Кротов Евгений Геннадьевич": 1,
-      "Ростовцев Александр Валерьевич": 4,
-      "Фёдоров Алексей Геннадьевич": 1
+      "gas:candidate-vibid:2702000525037": 0,
+      "gas:candidate-vibid:2702000515513": 4,
+      "gas:candidate-vibid:2702000473558": 11,
+      "gas:candidate-vibid:2702000525375": 0,
+      "gas:candidate-vibid:2702000525149": 0,
+      "gas:candidate-vibid:2702000523838": 1,
+      "gas:candidate-vibid:2702000523769": 4,
+      "gas:candidate-vibid:2702000524513": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469004&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469004&type=464",
@@ -7467,14 +7467,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 1,
-      "Волков Андрей Григорьевич": 2,
-      "Диденко Алексей Николаевич": 15,
-      "Ерёмин Василий Васильевич": 3,
-      "Жабин Сергей Иванович": 1,
-      "Кротов Евгений Геннадьевич": 0,
-      "Ростовцев Александр Валерьевич": 3,
-      "Фёдоров Алексей Геннадьевич": 2
+      "gas:candidate-vibid:2702000525037": 1,
+      "gas:candidate-vibid:2702000515513": 2,
+      "gas:candidate-vibid:2702000473558": 15,
+      "gas:candidate-vibid:2702000525375": 3,
+      "gas:candidate-vibid:2702000525149": 1,
+      "gas:candidate-vibid:2702000523838": 0,
+      "gas:candidate-vibid:2702000523769": 3,
+      "gas:candidate-vibid:2702000524513": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469004&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469004&type=464",
@@ -7525,14 +7525,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 2,
-      "Волков Андрей Григорьевич": 3,
-      "Диденко Алексей Николаевич": 14,
-      "Ерёмин Василий Васильевич": 0,
-      "Жабин Сергей Иванович": 1,
-      "Кротов Евгений Геннадьевич": 2,
-      "Ростовцев Александр Валерьевич": 4,
-      "Фёдоров Алексей Геннадьевич": 5
+      "gas:candidate-vibid:2702000525037": 2,
+      "gas:candidate-vibid:2702000515513": 3,
+      "gas:candidate-vibid:2702000473558": 14,
+      "gas:candidate-vibid:2702000525375": 0,
+      "gas:candidate-vibid:2702000525149": 1,
+      "gas:candidate-vibid:2702000523838": 2,
+      "gas:candidate-vibid:2702000523769": 4,
+      "gas:candidate-vibid:2702000524513": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469004&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469004&type=464",
@@ -7583,14 +7583,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 3,
-      "Волков Андрей Григорьевич": 3,
-      "Диденко Алексей Николаевич": 25,
-      "Ерёмин Василий Васильевич": 2,
-      "Жабин Сергей Иванович": 7,
-      "Кротов Евгений Геннадьевич": 5,
-      "Ростовцев Александр Валерьевич": 7,
-      "Фёдоров Алексей Геннадьевич": 7
+      "gas:candidate-vibid:2702000525037": 3,
+      "gas:candidate-vibid:2702000515513": 3,
+      "gas:candidate-vibid:2702000473558": 25,
+      "gas:candidate-vibid:2702000525375": 2,
+      "gas:candidate-vibid:2702000525149": 7,
+      "gas:candidate-vibid:2702000523838": 5,
+      "gas:candidate-vibid:2702000523769": 7,
+      "gas:candidate-vibid:2702000524513": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469004&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469004&type=464",
@@ -7641,14 +7641,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 0,
-      "Волков Андрей Григорьевич": 0,
-      "Диденко Алексей Николаевич": 18,
-      "Ерёмин Василий Васильевич": 1,
-      "Жабин Сергей Иванович": 0,
-      "Кротов Евгений Геннадьевич": 1,
-      "Ростовцев Александр Валерьевич": 8,
-      "Фёдоров Алексей Геннадьевич": 4
+      "gas:candidate-vibid:2702000525037": 0,
+      "gas:candidate-vibid:2702000515513": 0,
+      "gas:candidate-vibid:2702000473558": 18,
+      "gas:candidate-vibid:2702000525375": 1,
+      "gas:candidate-vibid:2702000525149": 0,
+      "gas:candidate-vibid:2702000523838": 1,
+      "gas:candidate-vibid:2702000523769": 8,
+      "gas:candidate-vibid:2702000524513": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469004&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469004&type=464",
@@ -7699,14 +7699,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 4,
-      "Волков Андрей Григорьевич": 24,
-      "Диденко Алексей Николаевич": 71,
-      "Ерёмин Василий Васильевич": 5,
-      "Жабин Сергей Иванович": 6,
-      "Кротов Евгений Геннадьевич": 10,
-      "Ростовцев Александр Валерьевич": 12,
-      "Фёдоров Алексей Геннадьевич": 31
+      "gas:candidate-vibid:2702000525037": 4,
+      "gas:candidate-vibid:2702000515513": 24,
+      "gas:candidate-vibid:2702000473558": 71,
+      "gas:candidate-vibid:2702000525375": 5,
+      "gas:candidate-vibid:2702000525149": 6,
+      "gas:candidate-vibid:2702000523838": 10,
+      "gas:candidate-vibid:2702000523769": 12,
+      "gas:candidate-vibid:2702000524513": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469004&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469004&type=464",
@@ -7757,14 +7757,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 4,
-      "Волков Андрей Григорьевич": 12,
-      "Диденко Алексей Николаевич": 49,
-      "Ерёмин Василий Васильевич": 5,
-      "Жабин Сергей Иванович": 5,
-      "Кротов Евгений Геннадьевич": 8,
-      "Ростовцев Александр Валерьевич": 12,
-      "Фёдоров Алексей Геннадьевич": 20
+      "gas:candidate-vibid:2702000525037": 4,
+      "gas:candidate-vibid:2702000515513": 12,
+      "gas:candidate-vibid:2702000473558": 49,
+      "gas:candidate-vibid:2702000525375": 5,
+      "gas:candidate-vibid:2702000525149": 5,
+      "gas:candidate-vibid:2702000523838": 8,
+      "gas:candidate-vibid:2702000523769": 12,
+      "gas:candidate-vibid:2702000524513": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469004&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469004&type=464",
@@ -7815,14 +7815,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 5,
-      "Волков Андрей Григорьевич": 12,
-      "Диденко Алексей Николаевич": 68,
-      "Ерёмин Василий Васильевич": 5,
-      "Жабин Сергей Иванович": 11,
-      "Кротов Евгений Геннадьевич": 3,
-      "Ростовцев Александр Валерьевич": 15,
-      "Фёдоров Алексей Геннадьевич": 12
+      "gas:candidate-vibid:2702000525037": 5,
+      "gas:candidate-vibid:2702000515513": 12,
+      "gas:candidate-vibid:2702000473558": 68,
+      "gas:candidate-vibid:2702000525375": 5,
+      "gas:candidate-vibid:2702000525149": 11,
+      "gas:candidate-vibid:2702000523838": 3,
+      "gas:candidate-vibid:2702000523769": 15,
+      "gas:candidate-vibid:2702000524513": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469004&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469004&type=464",
@@ -7873,14 +7873,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 15,
-      "Волков Андрей Григорьевич": 30,
-      "Диденко Алексей Николаевич": 228,
-      "Ерёмин Василий Васильевич": 19,
-      "Жабин Сергей Иванович": 19,
-      "Кротов Евгений Геннадьевич": 17,
-      "Ростовцев Александр Валерьевич": 46,
-      "Фёдоров Алексей Геннадьевич": 47
+      "gas:candidate-vibid:2702000525037": 15,
+      "gas:candidate-vibid:2702000515513": 30,
+      "gas:candidate-vibid:2702000473558": 228,
+      "gas:candidate-vibid:2702000525375": 19,
+      "gas:candidate-vibid:2702000525149": 19,
+      "gas:candidate-vibid:2702000523838": 17,
+      "gas:candidate-vibid:2702000523769": 46,
+      "gas:candidate-vibid:2702000524513": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469004&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469004&type=464",
@@ -7931,14 +7931,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 10,
-      "Волков Андрей Григорьевич": 24,
-      "Диденко Алексей Николаевич": 163,
-      "Ерёмин Василий Васильевич": 8,
-      "Жабин Сергей Иванович": 10,
-      "Кротов Евгений Геннадьевич": 13,
-      "Ростовцев Александр Валерьевич": 36,
-      "Фёдоров Алексей Геннадьевич": 37
+      "gas:candidate-vibid:2702000525037": 10,
+      "gas:candidate-vibid:2702000515513": 24,
+      "gas:candidate-vibid:2702000473558": 163,
+      "gas:candidate-vibid:2702000525375": 8,
+      "gas:candidate-vibid:2702000525149": 10,
+      "gas:candidate-vibid:2702000523838": 13,
+      "gas:candidate-vibid:2702000523769": 36,
+      "gas:candidate-vibid:2702000524513": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469004&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469004&type=464",
@@ -7989,14 +7989,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 15,
-      "Волков Андрей Григорьевич": 23,
-      "Диденко Алексей Николаевич": 203,
-      "Ерёмин Василий Васильевич": 10,
-      "Жабин Сергей Иванович": 8,
-      "Кротов Евгений Геннадьевич": 9,
-      "Ростовцев Александр Валерьевич": 15,
-      "Фёдоров Алексей Геннадьевич": 48
+      "gas:candidate-vibid:2702000525037": 15,
+      "gas:candidate-vibid:2702000515513": 23,
+      "gas:candidate-vibid:2702000473558": 203,
+      "gas:candidate-vibid:2702000525375": 10,
+      "gas:candidate-vibid:2702000525149": 8,
+      "gas:candidate-vibid:2702000523838": 9,
+      "gas:candidate-vibid:2702000523769": 15,
+      "gas:candidate-vibid:2702000524513": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469004&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469004&type=464",
@@ -8047,14 +8047,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 2,
-      "Волков Андрей Григорьевич": 16,
-      "Диденко Алексей Николаевич": 37,
-      "Ерёмин Василий Васильевич": 5,
-      "Жабин Сергей Иванович": 1,
-      "Кротов Евгений Геннадьевич": 10,
-      "Ростовцев Александр Валерьевич": 14,
-      "Фёдоров Алексей Геннадьевич": 15
+      "gas:candidate-vibid:2702000525037": 2,
+      "gas:candidate-vibid:2702000515513": 16,
+      "gas:candidate-vibid:2702000473558": 37,
+      "gas:candidate-vibid:2702000525375": 5,
+      "gas:candidate-vibid:2702000525149": 1,
+      "gas:candidate-vibid:2702000523838": 10,
+      "gas:candidate-vibid:2702000523769": 14,
+      "gas:candidate-vibid:2702000524513": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469004&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469004&type=464",
@@ -8105,14 +8105,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 6,
-      "Волков Андрей Григорьевич": 23,
-      "Диденко Алексей Николаевич": 68,
-      "Ерёмин Василий Васильевич": 8,
-      "Жабин Сергей Иванович": 10,
-      "Кротов Евгений Геннадьевич": 8,
-      "Ростовцев Александр Валерьевич": 19,
-      "Фёдоров Алексей Геннадьевич": 14
+      "gas:candidate-vibid:2702000525037": 6,
+      "gas:candidate-vibid:2702000515513": 23,
+      "gas:candidate-vibid:2702000473558": 68,
+      "gas:candidate-vibid:2702000525375": 8,
+      "gas:candidate-vibid:2702000525149": 10,
+      "gas:candidate-vibid:2702000523838": 8,
+      "gas:candidate-vibid:2702000523769": 19,
+      "gas:candidate-vibid:2702000524513": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469004&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469004&type=464",
@@ -8163,14 +8163,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 1,
-      "Волков Андрей Григорьевич": 6,
-      "Диденко Алексей Николаевич": 19,
-      "Ерёмин Василий Васильевич": 1,
-      "Жабин Сергей Иванович": 1,
-      "Кротов Евгений Геннадьевич": 2,
-      "Ростовцев Александр Валерьевич": 4,
-      "Фёдоров Алексей Геннадьевич": 6
+      "gas:candidate-vibid:2702000525037": 1,
+      "gas:candidate-vibid:2702000515513": 6,
+      "gas:candidate-vibid:2702000473558": 19,
+      "gas:candidate-vibid:2702000525375": 1,
+      "gas:candidate-vibid:2702000525149": 1,
+      "gas:candidate-vibid:2702000523838": 2,
+      "gas:candidate-vibid:2702000523769": 4,
+      "gas:candidate-vibid:2702000524513": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469004&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469004&type=464",
@@ -8221,14 +8221,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 7,
-      "Волков Андрей Григорьевич": 13,
-      "Диденко Алексей Николаевич": 53,
-      "Ерёмин Василий Васильевич": 8,
-      "Жабин Сергей Иванович": 10,
-      "Кротов Евгений Геннадьевич": 10,
-      "Ростовцев Александр Валерьевич": 14,
-      "Фёдоров Алексей Геннадьевич": 22
+      "gas:candidate-vibid:2702000525037": 7,
+      "gas:candidate-vibid:2702000515513": 13,
+      "gas:candidate-vibid:2702000473558": 53,
+      "gas:candidate-vibid:2702000525375": 8,
+      "gas:candidate-vibid:2702000525149": 10,
+      "gas:candidate-vibid:2702000523838": 10,
+      "gas:candidate-vibid:2702000523769": 14,
+      "gas:candidate-vibid:2702000524513": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469004&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469004&type=464",
@@ -8279,14 +8279,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 14,
-      "Волков Андрей Григорьевич": 27,
-      "Диденко Алексей Николаевич": 63,
-      "Ерёмин Василий Васильевич": 16,
-      "Жабин Сергей Иванович": 9,
-      "Кротов Евгений Геннадьевич": 3,
-      "Ростовцев Александр Валерьевич": 59,
-      "Фёдоров Алексей Геннадьевич": 40
+      "gas:candidate-vibid:2702000525037": 14,
+      "gas:candidate-vibid:2702000515513": 27,
+      "gas:candidate-vibid:2702000473558": 63,
+      "gas:candidate-vibid:2702000525375": 16,
+      "gas:candidate-vibid:2702000525149": 9,
+      "gas:candidate-vibid:2702000523838": 3,
+      "gas:candidate-vibid:2702000523769": 59,
+      "gas:candidate-vibid:2702000524513": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469005&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469005&type=464",
@@ -8337,14 +8337,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 19,
-      "Волков Андрей Григорьевич": 38,
-      "Диденко Алексей Николаевич": 95,
-      "Ерёмин Василий Васильевич": 21,
-      "Жабин Сергей Иванович": 15,
-      "Кротов Евгений Геннадьевич": 10,
-      "Ростовцев Александр Валерьевич": 119,
-      "Фёдоров Алексей Геннадьевич": 65
+      "gas:candidate-vibid:2702000525037": 19,
+      "gas:candidate-vibid:2702000515513": 38,
+      "gas:candidate-vibid:2702000473558": 95,
+      "gas:candidate-vibid:2702000525375": 21,
+      "gas:candidate-vibid:2702000525149": 15,
+      "gas:candidate-vibid:2702000523838": 10,
+      "gas:candidate-vibid:2702000523769": 119,
+      "gas:candidate-vibid:2702000524513": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469005&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469005&type=464",
@@ -8395,14 +8395,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 51,
-      "Волков Андрей Григорьевич": 73,
-      "Диденко Алексей Николаевич": 287,
-      "Ерёмин Василий Васильевич": 38,
-      "Жабин Сергей Иванович": 24,
-      "Кротов Евгений Геннадьевич": 25,
-      "Ростовцев Александр Валерьевич": 362,
-      "Фёдоров Алексей Геннадьевич": 128
+      "gas:candidate-vibid:2702000525037": 51,
+      "gas:candidate-vibid:2702000515513": 73,
+      "gas:candidate-vibid:2702000473558": 287,
+      "gas:candidate-vibid:2702000525375": 38,
+      "gas:candidate-vibid:2702000525149": 24,
+      "gas:candidate-vibid:2702000523838": 25,
+      "gas:candidate-vibid:2702000523769": 362,
+      "gas:candidate-vibid:2702000524513": 128
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469005&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469005&type=464",
@@ -8453,14 +8453,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 10,
-      "Волков Андрей Григорьевич": 17,
-      "Диденко Алексей Николаевич": 40,
-      "Ерёмин Василий Васильевич": 6,
-      "Жабин Сергей Иванович": 4,
-      "Кротов Евгений Геннадьевич": 4,
-      "Ростовцев Александр Валерьевич": 46,
-      "Фёдоров Алексей Геннадьевич": 10
+      "gas:candidate-vibid:2702000525037": 10,
+      "gas:candidate-vibid:2702000515513": 17,
+      "gas:candidate-vibid:2702000473558": 40,
+      "gas:candidate-vibid:2702000525375": 6,
+      "gas:candidate-vibid:2702000525149": 4,
+      "gas:candidate-vibid:2702000523838": 4,
+      "gas:candidate-vibid:2702000523769": 46,
+      "gas:candidate-vibid:2702000524513": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469005&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469005&type=464",
@@ -8511,14 +8511,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 68,
-      "Волков Андрей Григорьевич": 68,
-      "Диденко Алексей Николаевич": 196,
-      "Ерёмин Василий Васильевич": 36,
-      "Жабин Сергей Иванович": 29,
-      "Кротов Евгений Геннадьевич": 16,
-      "Ростовцев Александр Валерьевич": 268,
-      "Фёдоров Алексей Геннадьевич": 136
+      "gas:candidate-vibid:2702000525037": 68,
+      "gas:candidate-vibid:2702000515513": 68,
+      "gas:candidate-vibid:2702000473558": 196,
+      "gas:candidate-vibid:2702000525375": 36,
+      "gas:candidate-vibid:2702000525149": 29,
+      "gas:candidate-vibid:2702000523838": 16,
+      "gas:candidate-vibid:2702000523769": 268,
+      "gas:candidate-vibid:2702000524513": 136
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469005&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469005&type=464",
@@ -8569,14 +8569,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 46,
-      "Волков Андрей Григорьевич": 62,
-      "Диденко Алексей Николаевич": 218,
-      "Ерёмин Василий Васильевич": 53,
-      "Жабин Сергей Иванович": 28,
-      "Кротов Евгений Геннадьевич": 28,
-      "Ростовцев Александр Валерьевич": 415,
-      "Фёдоров Алексей Геннадьевич": 122
+      "gas:candidate-vibid:2702000525037": 46,
+      "gas:candidate-vibid:2702000515513": 62,
+      "gas:candidate-vibid:2702000473558": 218,
+      "gas:candidate-vibid:2702000525375": 53,
+      "gas:candidate-vibid:2702000525149": 28,
+      "gas:candidate-vibid:2702000523838": 28,
+      "gas:candidate-vibid:2702000523769": 415,
+      "gas:candidate-vibid:2702000524513": 122
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469005&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469005&type=464",
@@ -8627,14 +8627,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 40,
-      "Волков Андрей Григорьевич": 56,
-      "Диденко Алексей Николаевич": 165,
-      "Ерёмин Василий Васильевич": 44,
-      "Жабин Сергей Иванович": 20,
-      "Кротов Евгений Геннадьевич": 22,
-      "Ростовцев Александр Валерьевич": 328,
-      "Фёдоров Алексей Геннадьевич": 140
+      "gas:candidate-vibid:2702000525037": 40,
+      "gas:candidate-vibid:2702000515513": 56,
+      "gas:candidate-vibid:2702000473558": 165,
+      "gas:candidate-vibid:2702000525375": 44,
+      "gas:candidate-vibid:2702000525149": 20,
+      "gas:candidate-vibid:2702000523838": 22,
+      "gas:candidate-vibid:2702000523769": 328,
+      "gas:candidate-vibid:2702000524513": 140
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469005&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469005&type=464",
@@ -8685,14 +8685,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 52,
-      "Волков Андрей Григорьевич": 64,
-      "Диденко Алексей Николаевич": 192,
-      "Ерёмин Василий Васильевич": 46,
-      "Жабин Сергей Иванович": 28,
-      "Кротов Евгений Геннадьевич": 22,
-      "Ростовцев Александр Валерьевич": 388,
-      "Фёдоров Алексей Геннадьевич": 155
+      "gas:candidate-vibid:2702000525037": 52,
+      "gas:candidate-vibid:2702000515513": 64,
+      "gas:candidate-vibid:2702000473558": 192,
+      "gas:candidate-vibid:2702000525375": 46,
+      "gas:candidate-vibid:2702000525149": 28,
+      "gas:candidate-vibid:2702000523838": 22,
+      "gas:candidate-vibid:2702000523769": 388,
+      "gas:candidate-vibid:2702000524513": 155
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469005&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469005&type=464",
@@ -8743,14 +8743,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 49,
-      "Волков Андрей Григорьевич": 61,
-      "Диденко Алексей Николаевич": 187,
-      "Ерёмин Василий Васильевич": 51,
-      "Жабин Сергей Иванович": 38,
-      "Кротов Евгений Геннадьевич": 16,
-      "Ростовцев Александр Валерьевич": 348,
-      "Фёдоров Алексей Геннадьевич": 150
+      "gas:candidate-vibid:2702000525037": 49,
+      "gas:candidate-vibid:2702000515513": 61,
+      "gas:candidate-vibid:2702000473558": 187,
+      "gas:candidate-vibid:2702000525375": 51,
+      "gas:candidate-vibid:2702000525149": 38,
+      "gas:candidate-vibid:2702000523838": 16,
+      "gas:candidate-vibid:2702000523769": 348,
+      "gas:candidate-vibid:2702000524513": 150
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469005&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469005&type=464",
@@ -8801,14 +8801,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 51,
-      "Волков Андрей Григорьевич": 57,
-      "Диденко Алексей Николаевич": 215,
-      "Ерёмин Василий Васильевич": 64,
-      "Жабин Сергей Иванович": 34,
-      "Кротов Евгений Геннадьевич": 19,
-      "Ростовцев Александр Валерьевич": 310,
-      "Фёдоров Алексей Геннадьевич": 141
+      "gas:candidate-vibid:2702000525037": 51,
+      "gas:candidate-vibid:2702000515513": 57,
+      "gas:candidate-vibid:2702000473558": 215,
+      "gas:candidate-vibid:2702000525375": 64,
+      "gas:candidate-vibid:2702000525149": 34,
+      "gas:candidate-vibid:2702000523838": 19,
+      "gas:candidate-vibid:2702000523769": 310,
+      "gas:candidate-vibid:2702000524513": 141
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469005&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469005&type=464",
@@ -8859,14 +8859,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 37,
-      "Волков Андрей Григорьевич": 53,
-      "Диденко Алексей Николаевич": 213,
-      "Ерёмин Василий Васильевич": 32,
-      "Жабин Сергей Иванович": 26,
-      "Кротов Евгений Геннадьевич": 10,
-      "Ростовцев Александр Валерьевич": 251,
-      "Фёдоров Алексей Геннадьевич": 130
+      "gas:candidate-vibid:2702000525037": 37,
+      "gas:candidate-vibid:2702000515513": 53,
+      "gas:candidate-vibid:2702000473558": 213,
+      "gas:candidate-vibid:2702000525375": 32,
+      "gas:candidate-vibid:2702000525149": 26,
+      "gas:candidate-vibid:2702000523838": 10,
+      "gas:candidate-vibid:2702000523769": 251,
+      "gas:candidate-vibid:2702000524513": 130
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469005&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469005&type=464",
@@ -8917,14 +8917,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 60,
-      "Волков Андрей Григорьевич": 78,
-      "Диденко Алексей Николаевич": 298,
-      "Ерёмин Василий Васильевич": 48,
-      "Жабин Сергей Иванович": 27,
-      "Кротов Евгений Геннадьевич": 23,
-      "Ростовцев Александр Валерьевич": 311,
-      "Фёдоров Алексей Геннадьевич": 173
+      "gas:candidate-vibid:2702000525037": 60,
+      "gas:candidate-vibid:2702000515513": 78,
+      "gas:candidate-vibid:2702000473558": 298,
+      "gas:candidate-vibid:2702000525375": 48,
+      "gas:candidate-vibid:2702000525149": 27,
+      "gas:candidate-vibid:2702000523838": 23,
+      "gas:candidate-vibid:2702000523769": 311,
+      "gas:candidate-vibid:2702000524513": 173
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469005&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469005&type=464",
@@ -8975,14 +8975,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 59,
-      "Волков Андрей Григорьевич": 87,
-      "Диденко Алексей Николаевич": 273,
-      "Ерёмин Василий Васильевич": 37,
-      "Жабин Сергей Иванович": 33,
-      "Кротов Евгений Геннадьевич": 20,
-      "Ростовцев Александр Валерьевич": 286,
-      "Фёдоров Алексей Геннадьевич": 121
+      "gas:candidate-vibid:2702000525037": 59,
+      "gas:candidate-vibid:2702000515513": 87,
+      "gas:candidate-vibid:2702000473558": 273,
+      "gas:candidate-vibid:2702000525375": 37,
+      "gas:candidate-vibid:2702000525149": 33,
+      "gas:candidate-vibid:2702000523838": 20,
+      "gas:candidate-vibid:2702000523769": 286,
+      "gas:candidate-vibid:2702000524513": 121
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469005&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469005&type=464",
@@ -9033,14 +9033,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 90,
-      "Волков Андрей Григорьевич": 90,
-      "Диденко Алексей Николаевич": 484,
-      "Ерёмин Василий Васильевич": 49,
-      "Жабин Сергей Иванович": 44,
-      "Кротов Евгений Геннадьевич": 53,
-      "Ростовцев Александр Валерьевич": 325,
-      "Фёдоров Алексей Геннадьевич": 138
+      "gas:candidate-vibid:2702000525037": 90,
+      "gas:candidate-vibid:2702000515513": 90,
+      "gas:candidate-vibid:2702000473558": 484,
+      "gas:candidate-vibid:2702000525375": 49,
+      "gas:candidate-vibid:2702000525149": 44,
+      "gas:candidate-vibid:2702000523838": 53,
+      "gas:candidate-vibid:2702000523769": 325,
+      "gas:candidate-vibid:2702000524513": 138
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469005&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469005&type=464",
@@ -9091,14 +9091,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 39,
-      "Волков Андрей Григорьевич": 58,
-      "Диденко Алексей Николаевич": 224,
-      "Ерёмин Василий Васильевич": 28,
-      "Жабин Сергей Иванович": 25,
-      "Кротов Евгений Геннадьевич": 17,
-      "Ростовцев Александр Валерьевич": 230,
-      "Фёдоров Алексей Геннадьевич": 104
+      "gas:candidate-vibid:2702000525037": 39,
+      "gas:candidate-vibid:2702000515513": 58,
+      "gas:candidate-vibid:2702000473558": 224,
+      "gas:candidate-vibid:2702000525375": 28,
+      "gas:candidate-vibid:2702000525149": 25,
+      "gas:candidate-vibid:2702000523838": 17,
+      "gas:candidate-vibid:2702000523769": 230,
+      "gas:candidate-vibid:2702000524513": 104
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469005&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469005&type=464",
@@ -9149,14 +9149,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 58,
-      "Волков Андрей Григорьевич": 57,
-      "Диденко Алексей Николаевич": 281,
-      "Ерёмин Василий Васильевич": 30,
-      "Жабин Сергей Иванович": 29,
-      "Кротов Евгений Геннадьевич": 23,
-      "Ростовцев Александр Валерьевич": 247,
-      "Фёдоров Алексей Геннадьевич": 111
+      "gas:candidate-vibid:2702000525037": 58,
+      "gas:candidate-vibid:2702000515513": 57,
+      "gas:candidate-vibid:2702000473558": 281,
+      "gas:candidate-vibid:2702000525375": 30,
+      "gas:candidate-vibid:2702000525149": 29,
+      "gas:candidate-vibid:2702000523838": 23,
+      "gas:candidate-vibid:2702000523769": 247,
+      "gas:candidate-vibid:2702000524513": 111
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469005&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469005&type=464",
@@ -9207,14 +9207,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 41,
-      "Волков Андрей Григорьевич": 55,
-      "Диденко Алексей Николаевич": 277,
-      "Ерёмин Василий Васильевич": 34,
-      "Жабин Сергей Иванович": 30,
-      "Кротов Евгений Геннадьевич": 19,
-      "Ростовцев Александр Валерьевич": 279,
-      "Фёдоров Алексей Геннадьевич": 143
+      "gas:candidate-vibid:2702000525037": 41,
+      "gas:candidate-vibid:2702000515513": 55,
+      "gas:candidate-vibid:2702000473558": 277,
+      "gas:candidate-vibid:2702000525375": 34,
+      "gas:candidate-vibid:2702000525149": 30,
+      "gas:candidate-vibid:2702000523838": 19,
+      "gas:candidate-vibid:2702000523769": 279,
+      "gas:candidate-vibid:2702000524513": 143
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469005&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469005&type=464",
@@ -9265,14 +9265,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 41,
-      "Волков Андрей Григорьевич": 79,
-      "Диденко Алексей Николаевич": 270,
-      "Ерёмин Василий Васильевич": 38,
-      "Жабин Сергей Иванович": 32,
-      "Кротов Евгений Геннадьевич": 20,
-      "Ростовцев Александр Валерьевич": 273,
-      "Фёдоров Алексей Геннадьевич": 112
+      "gas:candidate-vibid:2702000525037": 41,
+      "gas:candidate-vibid:2702000515513": 79,
+      "gas:candidate-vibid:2702000473558": 270,
+      "gas:candidate-vibid:2702000525375": 38,
+      "gas:candidate-vibid:2702000525149": 32,
+      "gas:candidate-vibid:2702000523838": 20,
+      "gas:candidate-vibid:2702000523769": 273,
+      "gas:candidate-vibid:2702000524513": 112
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469005&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469005&type=464",
@@ -9323,14 +9323,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 88,
-      "Волков Андрей Григорьевич": 71,
-      "Диденко Алексей Николаевич": 284,
-      "Ерёмин Василий Васильевич": 55,
-      "Жабин Сергей Иванович": 41,
-      "Кротов Евгений Геннадьевич": 14,
-      "Ростовцев Александр Валерьевич": 341,
-      "Фёдоров Алексей Геннадьевич": 187
+      "gas:candidate-vibid:2702000525037": 88,
+      "gas:candidate-vibid:2702000515513": 71,
+      "gas:candidate-vibid:2702000473558": 284,
+      "gas:candidate-vibid:2702000525375": 55,
+      "gas:candidate-vibid:2702000525149": 41,
+      "gas:candidate-vibid:2702000523838": 14,
+      "gas:candidate-vibid:2702000523769": 341,
+      "gas:candidate-vibid:2702000524513": 187
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469005&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469005&type=464",
@@ -9381,14 +9381,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 59,
-      "Волков Андрей Григорьевич": 96,
-      "Диденко Алексей Николаевич": 287,
-      "Ерёмин Василий Васильевич": 44,
-      "Жабин Сергей Иванович": 37,
-      "Кротов Евгений Геннадьевич": 24,
-      "Ростовцев Александр Валерьевич": 312,
-      "Фёдоров Алексей Геннадьевич": 157
+      "gas:candidate-vibid:2702000525037": 59,
+      "gas:candidate-vibid:2702000515513": 96,
+      "gas:candidate-vibid:2702000473558": 287,
+      "gas:candidate-vibid:2702000525375": 44,
+      "gas:candidate-vibid:2702000525149": 37,
+      "gas:candidate-vibid:2702000523838": 24,
+      "gas:candidate-vibid:2702000523769": 312,
+      "gas:candidate-vibid:2702000524513": 157
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469005&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469005&type=464",
@@ -9439,14 +9439,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 43,
-      "Волков Андрей Григорьевич": 89,
-      "Диденко Алексей Николаевич": 277,
-      "Ерёмин Василий Васильевич": 46,
-      "Жабин Сергей Иванович": 26,
-      "Кротов Евгений Геннадьевич": 20,
-      "Ростовцев Александр Валерьевич": 404,
-      "Фёдоров Алексей Геннадьевич": 161
+      "gas:candidate-vibid:2702000525037": 43,
+      "gas:candidate-vibid:2702000515513": 89,
+      "gas:candidate-vibid:2702000473558": 277,
+      "gas:candidate-vibid:2702000525375": 46,
+      "gas:candidate-vibid:2702000525149": 26,
+      "gas:candidate-vibid:2702000523838": 20,
+      "gas:candidate-vibid:2702000523769": 404,
+      "gas:candidate-vibid:2702000524513": 161
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469005&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469005&type=464",
@@ -9497,14 +9497,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 36,
-      "Волков Андрей Григорьевич": 64,
-      "Диденко Алексей Николаевич": 210,
-      "Ерёмин Василий Васильевич": 23,
-      "Жабин Сергей Иванович": 27,
-      "Кротов Евгений Геннадьевич": 20,
-      "Ростовцев Александр Валерьевич": 214,
-      "Фёдоров Алексей Геннадьевич": 109
+      "gas:candidate-vibid:2702000525037": 36,
+      "gas:candidate-vibid:2702000515513": 64,
+      "gas:candidate-vibid:2702000473558": 210,
+      "gas:candidate-vibid:2702000525375": 23,
+      "gas:candidate-vibid:2702000525149": 27,
+      "gas:candidate-vibid:2702000523838": 20,
+      "gas:candidate-vibid:2702000523769": 214,
+      "gas:candidate-vibid:2702000524513": 109
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469005&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469005&type=464",
@@ -9555,14 +9555,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 58,
-      "Волков Андрей Григорьевич": 64,
-      "Диденко Алексей Николаевич": 257,
-      "Ерёмин Василий Васильевич": 33,
-      "Жабин Сергей Иванович": 31,
-      "Кротов Евгений Геннадьевич": 21,
-      "Ростовцев Александр Валерьевич": 314,
-      "Фёдоров Алексей Геннадьевич": 146
+      "gas:candidate-vibid:2702000525037": 58,
+      "gas:candidate-vibid:2702000515513": 64,
+      "gas:candidate-vibid:2702000473558": 257,
+      "gas:candidate-vibid:2702000525375": 33,
+      "gas:candidate-vibid:2702000525149": 31,
+      "gas:candidate-vibid:2702000523838": 21,
+      "gas:candidate-vibid:2702000523769": 314,
+      "gas:candidate-vibid:2702000524513": 146
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469005&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469005&type=464",
@@ -9613,14 +9613,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 45,
-      "Волков Андрей Григорьевич": 84,
-      "Диденко Алексей Николаевич": 272,
-      "Ерёмин Василий Васильевич": 27,
-      "Жабин Сергей Иванович": 29,
-      "Кротов Евгений Геннадьевич": 19,
-      "Ростовцев Александр Валерьевич": 300,
-      "Фёдоров Алексей Геннадьевич": 142
+      "gas:candidate-vibid:2702000525037": 45,
+      "gas:candidate-vibid:2702000515513": 84,
+      "gas:candidate-vibid:2702000473558": 272,
+      "gas:candidate-vibid:2702000525375": 27,
+      "gas:candidate-vibid:2702000525149": 29,
+      "gas:candidate-vibid:2702000523838": 19,
+      "gas:candidate-vibid:2702000523769": 300,
+      "gas:candidate-vibid:2702000524513": 142
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469005&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469005&type=464",
@@ -9671,14 +9671,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 45,
-      "Волков Андрей Григорьевич": 55,
-      "Диденко Алексей Николаевич": 283,
-      "Ерёмин Василий Васильевич": 32,
-      "Жабин Сергей Иванович": 33,
-      "Кротов Евгений Геннадьевич": 14,
-      "Ростовцев Александр Валерьевич": 267,
-      "Фёдоров Алексей Геннадьевич": 139
+      "gas:candidate-vibid:2702000525037": 45,
+      "gas:candidate-vibid:2702000515513": 55,
+      "gas:candidate-vibid:2702000473558": 283,
+      "gas:candidate-vibid:2702000525375": 32,
+      "gas:candidate-vibid:2702000525149": 33,
+      "gas:candidate-vibid:2702000523838": 14,
+      "gas:candidate-vibid:2702000523769": 267,
+      "gas:candidate-vibid:2702000524513": 139
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469005&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469005&type=464",
@@ -9729,14 +9729,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 53,
-      "Волков Андрей Григорьевич": 52,
-      "Диденко Алексей Николаевич": 298,
-      "Ерёмин Василий Васильевич": 26,
-      "Жабин Сергей Иванович": 32,
-      "Кротов Евгений Геннадьевич": 30,
-      "Ростовцев Александр Валерьевич": 302,
-      "Фёдоров Алексей Геннадьевич": 135
+      "gas:candidate-vibid:2702000525037": 53,
+      "gas:candidate-vibid:2702000515513": 52,
+      "gas:candidate-vibid:2702000473558": 298,
+      "gas:candidate-vibid:2702000525375": 26,
+      "gas:candidate-vibid:2702000525149": 32,
+      "gas:candidate-vibid:2702000523838": 30,
+      "gas:candidate-vibid:2702000523769": 302,
+      "gas:candidate-vibid:2702000524513": 135
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469005&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469005&type=464",
@@ -9787,14 +9787,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 105,
-      "Волков Андрей Григорьевич": 82,
-      "Диденко Алексей Николаевич": 280,
-      "Ерёмин Василий Васильевич": 61,
-      "Жабин Сергей Иванович": 50,
-      "Кротов Евгений Геннадьевич": 23,
-      "Ростовцев Александр Валерьевич": 402,
-      "Фёдоров Алексей Геннадьевич": 158
+      "gas:candidate-vibid:2702000525037": 105,
+      "gas:candidate-vibid:2702000515513": 82,
+      "gas:candidate-vibid:2702000473558": 280,
+      "gas:candidate-vibid:2702000525375": 61,
+      "gas:candidate-vibid:2702000525149": 50,
+      "gas:candidate-vibid:2702000523838": 23,
+      "gas:candidate-vibid:2702000523769": 402,
+      "gas:candidate-vibid:2702000524513": 158
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469005&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469005&type=464",
@@ -9845,14 +9845,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 40,
-      "Волков Андрей Григорьевич": 48,
-      "Диденко Алексей Николаевич": 211,
-      "Ерёмин Василий Васильевич": 35,
-      "Жабин Сергей Иванович": 19,
-      "Кротов Евгений Геннадьевич": 17,
-      "Ростовцев Александр Валерьевич": 218,
-      "Фёдоров Алексей Геннадьевич": 126
+      "gas:candidate-vibid:2702000525037": 40,
+      "gas:candidate-vibid:2702000515513": 48,
+      "gas:candidate-vibid:2702000473558": 211,
+      "gas:candidate-vibid:2702000525375": 35,
+      "gas:candidate-vibid:2702000525149": 19,
+      "gas:candidate-vibid:2702000523838": 17,
+      "gas:candidate-vibid:2702000523769": 218,
+      "gas:candidate-vibid:2702000524513": 126
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469005&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469005&type=464",
@@ -9903,14 +9903,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 64,
-      "Волков Андрей Григорьевич": 102,
-      "Диденко Алексей Николаевич": 271,
-      "Ерёмин Василий Васильевич": 70,
-      "Жабин Сергей Иванович": 41,
-      "Кротов Евгений Геннадьевич": 20,
-      "Ростовцев Александр Валерьевич": 419,
-      "Фёдоров Алексей Геннадьевич": 216
+      "gas:candidate-vibid:2702000525037": 64,
+      "gas:candidate-vibid:2702000515513": 102,
+      "gas:candidate-vibid:2702000473558": 271,
+      "gas:candidate-vibid:2702000525375": 70,
+      "gas:candidate-vibid:2702000525149": 41,
+      "gas:candidate-vibid:2702000523838": 20,
+      "gas:candidate-vibid:2702000523769": 419,
+      "gas:candidate-vibid:2702000524513": 216
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469005&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469005&type=464",
@@ -9961,14 +9961,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 55,
-      "Волков Андрей Григорьевич": 71,
-      "Диденко Алексей Николаевич": 262,
-      "Ерёмин Василий Васильевич": 52,
-      "Жабин Сергей Иванович": 22,
-      "Кротов Евгений Геннадьевич": 20,
-      "Ростовцев Александр Валерьевич": 343,
-      "Фёдоров Алексей Геннадьевич": 179
+      "gas:candidate-vibid:2702000525037": 55,
+      "gas:candidate-vibid:2702000515513": 71,
+      "gas:candidate-vibid:2702000473558": 262,
+      "gas:candidate-vibid:2702000525375": 52,
+      "gas:candidate-vibid:2702000525149": 22,
+      "gas:candidate-vibid:2702000523838": 20,
+      "gas:candidate-vibid:2702000523769": 343,
+      "gas:candidate-vibid:2702000524513": 179
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469005&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469005&type=464",
@@ -10019,14 +10019,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 92,
-      "Волков Андрей Григорьевич": 87,
-      "Диденко Алексей Николаевич": 301,
-      "Ерёмин Василий Васильевич": 62,
-      "Жабин Сергей Иванович": 44,
-      "Кротов Евгений Геннадьевич": 21,
-      "Ростовцев Александр Валерьевич": 435,
-      "Фёдоров Алексей Геннадьевич": 198
+      "gas:candidate-vibid:2702000525037": 92,
+      "gas:candidate-vibid:2702000515513": 87,
+      "gas:candidate-vibid:2702000473558": 301,
+      "gas:candidate-vibid:2702000525375": 62,
+      "gas:candidate-vibid:2702000525149": 44,
+      "gas:candidate-vibid:2702000523838": 21,
+      "gas:candidate-vibid:2702000523769": 435,
+      "gas:candidate-vibid:2702000524513": 198
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469005&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469005&type=464",
@@ -10077,14 +10077,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 42,
-      "Волков Андрей Григорьевич": 59,
-      "Диденко Алексей Николаевич": 237,
-      "Ерёмин Василий Васильевич": 36,
-      "Жабин Сергей Иванович": 13,
-      "Кротов Евгений Геннадьевич": 18,
-      "Ростовцев Александр Валерьевич": 285,
-      "Фёдоров Алексей Геннадьевич": 107
+      "gas:candidate-vibid:2702000525037": 42,
+      "gas:candidate-vibid:2702000515513": 59,
+      "gas:candidate-vibid:2702000473558": 237,
+      "gas:candidate-vibid:2702000525375": 36,
+      "gas:candidate-vibid:2702000525149": 13,
+      "gas:candidate-vibid:2702000523838": 18,
+      "gas:candidate-vibid:2702000523769": 285,
+      "gas:candidate-vibid:2702000524513": 107
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469005&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469005&type=464",
@@ -10135,14 +10135,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 83,
-      "Волков Андрей Григорьевич": 63,
-      "Диденко Алексей Николаевич": 274,
-      "Ерёмин Василий Васильевич": 48,
-      "Жабин Сергей Иванович": 43,
-      "Кротов Евгений Геннадьевич": 25,
-      "Ростовцев Александр Валерьевич": 360,
-      "Фёдоров Алексей Геннадьевич": 154
+      "gas:candidate-vibid:2702000525037": 83,
+      "gas:candidate-vibid:2702000515513": 63,
+      "gas:candidate-vibid:2702000473558": 274,
+      "gas:candidate-vibid:2702000525375": 48,
+      "gas:candidate-vibid:2702000525149": 43,
+      "gas:candidate-vibid:2702000523838": 25,
+      "gas:candidate-vibid:2702000523769": 360,
+      "gas:candidate-vibid:2702000524513": 154
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469005&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469005&type=464",
@@ -10193,14 +10193,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 63,
-      "Волков Андрей Григорьевич": 69,
-      "Диденко Алексей Николаевич": 222,
-      "Ерёмин Василий Васильевич": 43,
-      "Жабин Сергей Иванович": 47,
-      "Кротов Евгений Геннадьевич": 17,
-      "Ростовцев Александр Валерьевич": 290,
-      "Фёдоров Алексей Геннадьевич": 140
+      "gas:candidate-vibid:2702000525037": 63,
+      "gas:candidate-vibid:2702000515513": 69,
+      "gas:candidate-vibid:2702000473558": 222,
+      "gas:candidate-vibid:2702000525375": 43,
+      "gas:candidate-vibid:2702000525149": 47,
+      "gas:candidate-vibid:2702000523838": 17,
+      "gas:candidate-vibid:2702000523769": 290,
+      "gas:candidate-vibid:2702000524513": 140
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469005&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469005&type=464",
@@ -10251,14 +10251,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 62,
-      "Волков Андрей Григорьевич": 75,
-      "Диденко Алексей Николаевич": 281,
-      "Ерёмин Василий Васильевич": 50,
-      "Жабин Сергей Иванович": 27,
-      "Кротов Евгений Геннадьевич": 24,
-      "Ростовцев Александр Валерьевич": 386,
-      "Фёдоров Алексей Геннадьевич": 156
+      "gas:candidate-vibid:2702000525037": 62,
+      "gas:candidate-vibid:2702000515513": 75,
+      "gas:candidate-vibid:2702000473558": 281,
+      "gas:candidate-vibid:2702000525375": 50,
+      "gas:candidate-vibid:2702000525149": 27,
+      "gas:candidate-vibid:2702000523838": 24,
+      "gas:candidate-vibid:2702000523769": 386,
+      "gas:candidate-vibid:2702000524513": 156
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469005&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469005&type=464",
@@ -10309,14 +10309,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 20,
-      "Волков Андрей Григорьевич": 21,
-      "Диденко Алексей Николаевич": 81,
-      "Ерёмин Василий Васильевич": 12,
-      "Жабин Сергей Иванович": 11,
-      "Кротов Евгений Геннадьевич": 9,
-      "Ростовцев Александр Валерьевич": 99,
-      "Фёдоров Алексей Геннадьевич": 41
+      "gas:candidate-vibid:2702000525037": 20,
+      "gas:candidate-vibid:2702000515513": 21,
+      "gas:candidate-vibid:2702000473558": 81,
+      "gas:candidate-vibid:2702000525375": 12,
+      "gas:candidate-vibid:2702000525149": 11,
+      "gas:candidate-vibid:2702000523838": 9,
+      "gas:candidate-vibid:2702000523769": 99,
+      "gas:candidate-vibid:2702000524513": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469005&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469005&type=464",
@@ -10367,14 +10367,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 71,
-      "Волков Андрей Григорьевич": 108,
-      "Диденко Алексей Николаевич": 413,
-      "Ерёмин Василий Васильевич": 52,
-      "Жабин Сергей Иванович": 50,
-      "Кротов Евгений Геннадьевич": 37,
-      "Ростовцев Александр Валерьевич": 370,
-      "Фёдоров Алексей Геннадьевич": 117
+      "gas:candidate-vibid:2702000525037": 71,
+      "gas:candidate-vibid:2702000515513": 108,
+      "gas:candidate-vibid:2702000473558": 413,
+      "gas:candidate-vibid:2702000525375": 52,
+      "gas:candidate-vibid:2702000525149": 50,
+      "gas:candidate-vibid:2702000523838": 37,
+      "gas:candidate-vibid:2702000523769": 370,
+      "gas:candidate-vibid:2702000524513": 117
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469005&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469005&type=464",
@@ -10425,14 +10425,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 82,
-      "Волков Андрей Григорьевич": 112,
-      "Диденко Алексей Николаевич": 308,
-      "Ерёмин Василий Васильевич": 65,
-      "Жабин Сергей Иванович": 42,
-      "Кротов Евгений Геннадьевич": 26,
-      "Ростовцев Александр Валерьевич": 373,
-      "Фёдоров Алексей Геннадьевич": 188
+      "gas:candidate-vibid:2702000525037": 82,
+      "gas:candidate-vibid:2702000515513": 112,
+      "gas:candidate-vibid:2702000473558": 308,
+      "gas:candidate-vibid:2702000525375": 65,
+      "gas:candidate-vibid:2702000525149": 42,
+      "gas:candidate-vibid:2702000523838": 26,
+      "gas:candidate-vibid:2702000523769": 373,
+      "gas:candidate-vibid:2702000524513": 188
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469005&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469005&type=464",
@@ -10483,14 +10483,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 10,
-      "Волков Андрей Григорьевич": 24,
-      "Диденко Алексей Николаевич": 41,
-      "Ерёмин Василий Васильевич": 3,
-      "Жабин Сергей Иванович": 6,
-      "Кротов Евгений Геннадьевич": 3,
-      "Ростовцев Александр Валерьевич": 52,
-      "Фёдоров Алексей Геннадьевич": 21
+      "gas:candidate-vibid:2702000525037": 10,
+      "gas:candidate-vibid:2702000515513": 24,
+      "gas:candidate-vibid:2702000473558": 41,
+      "gas:candidate-vibid:2702000525375": 3,
+      "gas:candidate-vibid:2702000525149": 6,
+      "gas:candidate-vibid:2702000523838": 3,
+      "gas:candidate-vibid:2702000523769": 52,
+      "gas:candidate-vibid:2702000524513": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469005&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469005&type=464",
@@ -10541,14 +10541,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 70,
-      "Волков Андрей Григорьевич": 81,
-      "Диденко Алексей Николаевич": 235,
-      "Ерёмин Василий Васильевич": 51,
-      "Жабин Сергей Иванович": 40,
-      "Кротов Евгений Геннадьевич": 16,
-      "Ростовцев Александр Валерьевич": 316,
-      "Фёдоров Алексей Геннадьевич": 138
+      "gas:candidate-vibid:2702000525037": 70,
+      "gas:candidate-vibid:2702000515513": 81,
+      "gas:candidate-vibid:2702000473558": 235,
+      "gas:candidate-vibid:2702000525375": 51,
+      "gas:candidate-vibid:2702000525149": 40,
+      "gas:candidate-vibid:2702000523838": 16,
+      "gas:candidate-vibid:2702000523769": 316,
+      "gas:candidate-vibid:2702000524513": 138
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469005&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469005&type=464",
@@ -10599,14 +10599,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 88,
-      "Волков Андрей Григорьевич": 76,
-      "Диденко Алексей Николаевич": 339,
-      "Ерёмин Василий Васильевич": 75,
-      "Жабин Сергей Иванович": 40,
-      "Кротов Евгений Геннадьевич": 27,
-      "Ростовцев Александр Валерьевич": 367,
-      "Фёдоров Алексей Геннадьевич": 163
+      "gas:candidate-vibid:2702000525037": 88,
+      "gas:candidate-vibid:2702000515513": 76,
+      "gas:candidate-vibid:2702000473558": 339,
+      "gas:candidate-vibid:2702000525375": 75,
+      "gas:candidate-vibid:2702000525149": 40,
+      "gas:candidate-vibid:2702000523838": 27,
+      "gas:candidate-vibid:2702000523769": 367,
+      "gas:candidate-vibid:2702000524513": 163
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469005&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469005&type=464",
@@ -10657,14 +10657,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 13,
-      "Волков Андрей Григорьевич": 22,
-      "Диденко Алексей Николаевич": 92,
-      "Ерёмин Василий Васильевич": 13,
-      "Жабин Сергей Иванович": 11,
-      "Кротов Евгений Геннадьевич": 5,
-      "Ростовцев Александр Валерьевич": 59,
-      "Фёдоров Алексей Геннадьевич": 31
+      "gas:candidate-vibid:2702000525037": 13,
+      "gas:candidate-vibid:2702000515513": 22,
+      "gas:candidate-vibid:2702000473558": 92,
+      "gas:candidate-vibid:2702000525375": 13,
+      "gas:candidate-vibid:2702000525149": 11,
+      "gas:candidate-vibid:2702000523838": 5,
+      "gas:candidate-vibid:2702000523769": 59,
+      "gas:candidate-vibid:2702000524513": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469005&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469005&type=464",
@@ -10715,14 +10715,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 14,
-      "Волков Андрей Григорьевич": 83,
-      "Диденко Алексей Николаевич": 330,
-      "Ерёмин Василий Васильевич": 22,
-      "Жабин Сергей Иванович": 13,
-      "Кротов Евгений Геннадьевич": 14,
-      "Ростовцев Александр Валерьевич": 127,
-      "Фёдоров Алексей Геннадьевич": 113
+      "gas:candidate-vibid:2702000525037": 14,
+      "gas:candidate-vibid:2702000515513": 83,
+      "gas:candidate-vibid:2702000473558": 330,
+      "gas:candidate-vibid:2702000525375": 22,
+      "gas:candidate-vibid:2702000525149": 13,
+      "gas:candidate-vibid:2702000523838": 14,
+      "gas:candidate-vibid:2702000523769": 127,
+      "gas:candidate-vibid:2702000524513": 113
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469005&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469005&type=464",
@@ -10773,14 +10773,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 21,
-      "Волков Андрей Григорьевич": 99,
-      "Диденко Алексей Николаевич": 300,
-      "Ерёмин Василий Васильевич": 18,
-      "Жабин Сергей Иванович": 30,
-      "Кротов Евгений Геннадьевич": 24,
-      "Ростовцев Александр Валерьевич": 140,
-      "Фёдоров Алексей Геннадьевич": 116
+      "gas:candidate-vibid:2702000525037": 21,
+      "gas:candidate-vibid:2702000515513": 99,
+      "gas:candidate-vibid:2702000473558": 300,
+      "gas:candidate-vibid:2702000525375": 18,
+      "gas:candidate-vibid:2702000525149": 30,
+      "gas:candidate-vibid:2702000523838": 24,
+      "gas:candidate-vibid:2702000523769": 140,
+      "gas:candidate-vibid:2702000524513": 116
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469005&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469005&type=464",
@@ -10831,14 +10831,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 8,
-      "Волков Андрей Григорьевич": 19,
-      "Диденко Алексей Николаевич": 117,
-      "Ерёмин Василий Васильевич": 6,
-      "Жабин Сергей Иванович": 13,
-      "Кротов Евгений Геннадьевич": 5,
-      "Ростовцев Александр Валерьевич": 18,
-      "Фёдоров Алексей Геннадьевич": 31
+      "gas:candidate-vibid:2702000525037": 8,
+      "gas:candidate-vibid:2702000515513": 19,
+      "gas:candidate-vibid:2702000473558": 117,
+      "gas:candidate-vibid:2702000525375": 6,
+      "gas:candidate-vibid:2702000525149": 13,
+      "gas:candidate-vibid:2702000523838": 5,
+      "gas:candidate-vibid:2702000523769": 18,
+      "gas:candidate-vibid:2702000524513": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469005&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469005&type=464",
@@ -10889,14 +10889,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 21,
-      "Волков Андрей Григорьевич": 43,
-      "Диденко Алексей Николаевич": 207,
-      "Ерёмин Василий Васильевич": 11,
-      "Жабин Сергей Иванович": 12,
-      "Кротов Евгений Геннадьевич": 13,
-      "Ростовцев Александр Валерьевич": 37,
-      "Фёдоров Алексей Геннадьевич": 62
+      "gas:candidate-vibid:2702000525037": 21,
+      "gas:candidate-vibid:2702000515513": 43,
+      "gas:candidate-vibid:2702000473558": 207,
+      "gas:candidate-vibid:2702000525375": 11,
+      "gas:candidate-vibid:2702000525149": 12,
+      "gas:candidate-vibid:2702000523838": 13,
+      "gas:candidate-vibid:2702000523769": 37,
+      "gas:candidate-vibid:2702000524513": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469006&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469006&type=464",
@@ -10947,14 +10947,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 4,
-      "Волков Андрей Григорьевич": 4,
-      "Диденко Алексей Николаевич": 49,
-      "Ерёмин Василий Васильевич": 3,
-      "Жабин Сергей Иванович": 3,
-      "Кротов Евгений Геннадьевич": 2,
-      "Ростовцев Александр Валерьевич": 10,
-      "Фёдоров Алексей Геннадьевич": 10
+      "gas:candidate-vibid:2702000525037": 4,
+      "gas:candidate-vibid:2702000515513": 4,
+      "gas:candidate-vibid:2702000473558": 49,
+      "gas:candidate-vibid:2702000525375": 3,
+      "gas:candidate-vibid:2702000525149": 3,
+      "gas:candidate-vibid:2702000523838": 2,
+      "gas:candidate-vibid:2702000523769": 10,
+      "gas:candidate-vibid:2702000524513": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469006&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469006&type=464",
@@ -11005,14 +11005,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 5,
-      "Волков Андрей Григорьевич": 17,
-      "Диденко Алексей Николаевич": 79,
-      "Ерёмин Василий Васильевич": 5,
-      "Жабин Сергей Иванович": 10,
-      "Кротов Евгений Геннадьевич": 7,
-      "Ростовцев Александр Валерьевич": 5,
-      "Фёдоров Алексей Геннадьевич": 20
+      "gas:candidate-vibid:2702000525037": 5,
+      "gas:candidate-vibid:2702000515513": 17,
+      "gas:candidate-vibid:2702000473558": 79,
+      "gas:candidate-vibid:2702000525375": 5,
+      "gas:candidate-vibid:2702000525149": 10,
+      "gas:candidate-vibid:2702000523838": 7,
+      "gas:candidate-vibid:2702000523769": 5,
+      "gas:candidate-vibid:2702000524513": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469006&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469006&type=464",
@@ -11063,14 +11063,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 12,
-      "Волков Андрей Григорьевич": 7,
-      "Диденко Алексей Николаевич": 48,
-      "Ерёмин Василий Васильевич": 2,
-      "Жабин Сергей Иванович": 1,
-      "Кротов Евгений Геннадьевич": 2,
-      "Ростовцев Александр Валерьевич": 6,
-      "Фёдоров Алексей Геннадьевич": 18
+      "gas:candidate-vibid:2702000525037": 12,
+      "gas:candidate-vibid:2702000515513": 7,
+      "gas:candidate-vibid:2702000473558": 48,
+      "gas:candidate-vibid:2702000525375": 2,
+      "gas:candidate-vibid:2702000525149": 1,
+      "gas:candidate-vibid:2702000523838": 2,
+      "gas:candidate-vibid:2702000523769": 6,
+      "gas:candidate-vibid:2702000524513": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469006&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469006&type=464",
@@ -11121,14 +11121,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 13,
-      "Волков Андрей Григорьевич": 16,
-      "Диденко Алексей Николаевич": 98,
-      "Ерёмин Василий Васильевич": 10,
-      "Жабин Сергей Иванович": 8,
-      "Кротов Евгений Геннадьевич": 11,
-      "Ростовцев Александр Валерьевич": 24,
-      "Фёдоров Алексей Геннадьевич": 68
+      "gas:candidate-vibid:2702000525037": 13,
+      "gas:candidate-vibid:2702000515513": 16,
+      "gas:candidate-vibid:2702000473558": 98,
+      "gas:candidate-vibid:2702000525375": 10,
+      "gas:candidate-vibid:2702000525149": 8,
+      "gas:candidate-vibid:2702000523838": 11,
+      "gas:candidate-vibid:2702000523769": 24,
+      "gas:candidate-vibid:2702000524513": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469006&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469006&type=464",
@@ -11179,14 +11179,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 4,
-      "Волков Андрей Григорьевич": 24,
-      "Диденко Алексей Николаевич": 135,
-      "Ерёмин Василий Васильевич": 7,
-      "Жабин Сергей Иванович": 12,
-      "Кротов Евгений Геннадьевич": 7,
-      "Ростовцев Александр Валерьевич": 25,
-      "Фёдоров Алексей Геннадьевич": 60
+      "gas:candidate-vibid:2702000525037": 4,
+      "gas:candidate-vibid:2702000515513": 24,
+      "gas:candidate-vibid:2702000473558": 135,
+      "gas:candidate-vibid:2702000525375": 7,
+      "gas:candidate-vibid:2702000525149": 12,
+      "gas:candidate-vibid:2702000523838": 7,
+      "gas:candidate-vibid:2702000523769": 25,
+      "gas:candidate-vibid:2702000524513": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469006&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469006&type=464",
@@ -11237,14 +11237,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 2,
-      "Волков Андрей Григорьевич": 6,
-      "Диденко Алексей Николаевич": 22,
-      "Ерёмин Василий Васильевич": 2,
-      "Жабин Сергей Иванович": 6,
-      "Кротов Евгений Геннадьевич": 1,
-      "Ростовцев Александр Валерьевич": 4,
-      "Фёдоров Алексей Геннадьевич": 4
+      "gas:candidate-vibid:2702000525037": 2,
+      "gas:candidate-vibid:2702000515513": 6,
+      "gas:candidate-vibid:2702000473558": 22,
+      "gas:candidate-vibid:2702000525375": 2,
+      "gas:candidate-vibid:2702000525149": 6,
+      "gas:candidate-vibid:2702000523838": 1,
+      "gas:candidate-vibid:2702000523769": 4,
+      "gas:candidate-vibid:2702000524513": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469006&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469006&type=464",
@@ -11295,14 +11295,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 0,
-      "Волков Андрей Григорьевич": 3,
-      "Диденко Алексей Николаевич": 8,
-      "Ерёмин Василий Васильевич": 1,
-      "Жабин Сергей Иванович": 0,
-      "Кротов Евгений Геннадьевич": 1,
-      "Ростовцев Александр Валерьевич": 1,
-      "Фёдоров Алексей Геннадьевич": 1
+      "gas:candidate-vibid:2702000525037": 0,
+      "gas:candidate-vibid:2702000515513": 3,
+      "gas:candidate-vibid:2702000473558": 8,
+      "gas:candidate-vibid:2702000525375": 1,
+      "gas:candidate-vibid:2702000525149": 0,
+      "gas:candidate-vibid:2702000523838": 1,
+      "gas:candidate-vibid:2702000523769": 1,
+      "gas:candidate-vibid:2702000524513": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469006&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469006&type=464",
@@ -11353,14 +11353,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 14,
-      "Волков Андрей Григорьевич": 20,
-      "Диденко Алексей Николаевич": 141,
-      "Ерёмин Василий Васильевич": 13,
-      "Жабин Сергей Иванович": 10,
-      "Кротов Евгений Геннадьевич": 7,
-      "Ростовцев Александр Валерьевич": 25,
-      "Фёдоров Алексей Геннадьевич": 29
+      "gas:candidate-vibid:2702000525037": 14,
+      "gas:candidate-vibid:2702000515513": 20,
+      "gas:candidate-vibid:2702000473558": 141,
+      "gas:candidate-vibid:2702000525375": 13,
+      "gas:candidate-vibid:2702000525149": 10,
+      "gas:candidate-vibid:2702000523838": 7,
+      "gas:candidate-vibid:2702000523769": 25,
+      "gas:candidate-vibid:2702000524513": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469006&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469006&type=464",
@@ -11411,14 +11411,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 2,
-      "Волков Андрей Григорьевич": 5,
-      "Диденко Алексей Николаевич": 25,
-      "Ерёмин Василий Васильевич": 3,
-      "Жабин Сергей Иванович": 1,
-      "Кротов Евгений Геннадьевич": 1,
-      "Ростовцев Александр Валерьевич": 4,
-      "Фёдоров Алексей Геннадьевич": 8
+      "gas:candidate-vibid:2702000525037": 2,
+      "gas:candidate-vibid:2702000515513": 5,
+      "gas:candidate-vibid:2702000473558": 25,
+      "gas:candidate-vibid:2702000525375": 3,
+      "gas:candidate-vibid:2702000525149": 1,
+      "gas:candidate-vibid:2702000523838": 1,
+      "gas:candidate-vibid:2702000523769": 4,
+      "gas:candidate-vibid:2702000524513": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469006&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469006&type=464",
@@ -11469,14 +11469,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 6,
-      "Волков Андрей Григорьевич": 7,
-      "Диденко Алексей Николаевич": 65,
-      "Ерёмин Василий Васильевич": 2,
-      "Жабин Сергей Иванович": 3,
-      "Кротов Евгений Геннадьевич": 0,
-      "Ростовцев Александр Валерьевич": 12,
-      "Фёдоров Алексей Геннадьевич": 13
+      "gas:candidate-vibid:2702000525037": 6,
+      "gas:candidate-vibid:2702000515513": 7,
+      "gas:candidate-vibid:2702000473558": 65,
+      "gas:candidate-vibid:2702000525375": 2,
+      "gas:candidate-vibid:2702000525149": 3,
+      "gas:candidate-vibid:2702000523838": 0,
+      "gas:candidate-vibid:2702000523769": 12,
+      "gas:candidate-vibid:2702000524513": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469006&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469006&type=464",
@@ -11527,14 +11527,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 3,
-      "Волков Андрей Григорьевич": 10,
-      "Диденко Алексей Николаевич": 31,
-      "Ерёмин Василий Васильевич": 3,
-      "Жабин Сергей Иванович": 3,
-      "Кротов Евгений Геннадьевич": 4,
-      "Ростовцев Александр Валерьевич": 6,
-      "Фёдоров Алексей Геннадьевич": 6
+      "gas:candidate-vibid:2702000525037": 3,
+      "gas:candidate-vibid:2702000515513": 10,
+      "gas:candidate-vibid:2702000473558": 31,
+      "gas:candidate-vibid:2702000525375": 3,
+      "gas:candidate-vibid:2702000525149": 3,
+      "gas:candidate-vibid:2702000523838": 4,
+      "gas:candidate-vibid:2702000523769": 6,
+      "gas:candidate-vibid:2702000524513": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469006&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469006&type=464",
@@ -11585,14 +11585,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 3,
-      "Волков Андрей Григорьевич": 11,
-      "Диденко Алексей Николаевич": 90,
-      "Ерёмин Василий Васильевич": 6,
-      "Жабин Сергей Иванович": 9,
-      "Кротов Евгений Геннадьевич": 5,
-      "Ростовцев Александр Валерьевич": 6,
-      "Фёдоров Алексей Геннадьевич": 16
+      "gas:candidate-vibid:2702000525037": 3,
+      "gas:candidate-vibid:2702000515513": 11,
+      "gas:candidate-vibid:2702000473558": 90,
+      "gas:candidate-vibid:2702000525375": 6,
+      "gas:candidate-vibid:2702000525149": 9,
+      "gas:candidate-vibid:2702000523838": 5,
+      "gas:candidate-vibid:2702000523769": 6,
+      "gas:candidate-vibid:2702000524513": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469006&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469006&type=464",
@@ -11643,14 +11643,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 1,
-      "Волков Андрей Григорьевич": 14,
-      "Диденко Алексей Николаевич": 57,
-      "Ерёмин Василий Васильевич": 8,
-      "Жабин Сергей Иванович": 3,
-      "Кротов Евгений Геннадьевич": 2,
-      "Ростовцев Александр Валерьевич": 9,
-      "Фёдоров Алексей Геннадьевич": 16
+      "gas:candidate-vibid:2702000525037": 1,
+      "gas:candidate-vibid:2702000515513": 14,
+      "gas:candidate-vibid:2702000473558": 57,
+      "gas:candidate-vibid:2702000525375": 8,
+      "gas:candidate-vibid:2702000525149": 3,
+      "gas:candidate-vibid:2702000523838": 2,
+      "gas:candidate-vibid:2702000523769": 9,
+      "gas:candidate-vibid:2702000524513": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469006&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469006&type=464",
@@ -11701,14 +11701,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 16,
-      "Волков Андрей Григорьевич": 39,
-      "Диденко Алексей Николаевич": 321,
-      "Ерёмин Василий Васильевич": 12,
-      "Жабин Сергей Иванович": 29,
-      "Кротов Евгений Геннадьевич": 22,
-      "Ростовцев Александр Валерьевич": 55,
-      "Фёдоров Алексей Геннадьевич": 140
+      "gas:candidate-vibid:2702000525037": 16,
+      "gas:candidate-vibid:2702000515513": 39,
+      "gas:candidate-vibid:2702000473558": 321,
+      "gas:candidate-vibid:2702000525375": 12,
+      "gas:candidate-vibid:2702000525149": 29,
+      "gas:candidate-vibid:2702000523838": 22,
+      "gas:candidate-vibid:2702000523769": 55,
+      "gas:candidate-vibid:2702000524513": 140
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469006&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469006&type=464",
@@ -11759,14 +11759,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 12,
-      "Волков Андрей Григорьевич": 36,
-      "Диденко Алексей Николаевич": 232,
-      "Ерёмин Василий Васильевич": 15,
-      "Жабин Сергей Иванович": 9,
-      "Кротов Евгений Геннадьевич": 22,
-      "Ростовцев Александр Валерьевич": 36,
-      "Фёдоров Алексей Геннадьевич": 77
+      "gas:candidate-vibid:2702000525037": 12,
+      "gas:candidate-vibid:2702000515513": 36,
+      "gas:candidate-vibid:2702000473558": 232,
+      "gas:candidate-vibid:2702000525375": 15,
+      "gas:candidate-vibid:2702000525149": 9,
+      "gas:candidate-vibid:2702000523838": 22,
+      "gas:candidate-vibid:2702000523769": 36,
+      "gas:candidate-vibid:2702000524513": 77
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469006&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469006&type=464",
@@ -11817,14 +11817,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 7,
-      "Волков Андрей Григорьевич": 52,
-      "Диденко Алексей Николаевич": 317,
-      "Ерёмин Василий Васильевич": 12,
-      "Жабин Сергей Иванович": 22,
-      "Кротов Евгений Геннадьевич": 21,
-      "Ростовцев Александр Валерьевич": 42,
-      "Фёдоров Алексей Геннадьевич": 89
+      "gas:candidate-vibid:2702000525037": 7,
+      "gas:candidate-vibid:2702000515513": 52,
+      "gas:candidate-vibid:2702000473558": 317,
+      "gas:candidate-vibid:2702000525375": 12,
+      "gas:candidate-vibid:2702000525149": 22,
+      "gas:candidate-vibid:2702000523838": 21,
+      "gas:candidate-vibid:2702000523769": 42,
+      "gas:candidate-vibid:2702000524513": 89
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469006&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469006&type=464",
@@ -11875,14 +11875,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 7,
-      "Волков Андрей Григорьевич": 35,
-      "Диденко Алексей Николаевич": 128,
-      "Ерёмин Василий Васильевич": 8,
-      "Жабин Сергей Иванович": 9,
-      "Кротов Евгений Геннадьевич": 14,
-      "Ростовцев Александр Валерьевич": 39,
-      "Фёдоров Алексей Геннадьевич": 51
+      "gas:candidate-vibid:2702000525037": 7,
+      "gas:candidate-vibid:2702000515513": 35,
+      "gas:candidate-vibid:2702000473558": 128,
+      "gas:candidate-vibid:2702000525375": 8,
+      "gas:candidate-vibid:2702000525149": 9,
+      "gas:candidate-vibid:2702000523838": 14,
+      "gas:candidate-vibid:2702000523769": 39,
+      "gas:candidate-vibid:2702000524513": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469006&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469006&type=464",
@@ -11933,14 +11933,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 3,
-      "Волков Андрей Григорьевич": 15,
-      "Диденко Алексей Николаевич": 128,
-      "Ерёмин Василий Васильевич": 6,
-      "Жабин Сергей Иванович": 13,
-      "Кротов Евгений Геннадьевич": 16,
-      "Ростовцев Александр Валерьевич": 30,
-      "Фёдоров Алексей Геннадьевич": 33
+      "gas:candidate-vibid:2702000525037": 3,
+      "gas:candidate-vibid:2702000515513": 15,
+      "gas:candidate-vibid:2702000473558": 128,
+      "gas:candidate-vibid:2702000525375": 6,
+      "gas:candidate-vibid:2702000525149": 13,
+      "gas:candidate-vibid:2702000523838": 16,
+      "gas:candidate-vibid:2702000523769": 30,
+      "gas:candidate-vibid:2702000524513": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469006&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469006&type=464",
@@ -11991,14 +11991,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 5,
-      "Волков Андрей Григорьевич": 4,
-      "Диденко Алексей Николаевич": 55,
-      "Ерёмин Василий Васильевич": 3,
-      "Жабин Сергей Иванович": 5,
-      "Кротов Евгений Геннадьевич": 8,
-      "Ростовцев Александр Валерьевич": 6,
-      "Фёдоров Алексей Геннадьевич": 13
+      "gas:candidate-vibid:2702000525037": 5,
+      "gas:candidate-vibid:2702000515513": 4,
+      "gas:candidate-vibid:2702000473558": 55,
+      "gas:candidate-vibid:2702000525375": 3,
+      "gas:candidate-vibid:2702000525149": 5,
+      "gas:candidate-vibid:2702000523838": 8,
+      "gas:candidate-vibid:2702000523769": 6,
+      "gas:candidate-vibid:2702000524513": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469006&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469006&type=464",
@@ -12049,14 +12049,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 5,
-      "Волков Андрей Григорьевич": 11,
-      "Диденко Алексей Николаевич": 56,
-      "Ерёмин Василий Васильевич": 4,
-      "Жабин Сергей Иванович": 2,
-      "Кротов Евгений Геннадьевич": 7,
-      "Ростовцев Александр Валерьевич": 6,
-      "Фёдоров Алексей Геннадьевич": 21
+      "gas:candidate-vibid:2702000525037": 5,
+      "gas:candidate-vibid:2702000515513": 11,
+      "gas:candidate-vibid:2702000473558": 56,
+      "gas:candidate-vibid:2702000525375": 4,
+      "gas:candidate-vibid:2702000525149": 2,
+      "gas:candidate-vibid:2702000523838": 7,
+      "gas:candidate-vibid:2702000523769": 6,
+      "gas:candidate-vibid:2702000524513": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469006&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469006&type=464",
@@ -12107,14 +12107,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 7,
-      "Волков Андрей Григорьевич": 11,
-      "Диденко Алексей Николаевич": 77,
-      "Ерёмин Василий Васильевич": 4,
-      "Жабин Сергей Иванович": 5,
-      "Кротов Евгений Геннадьевич": 8,
-      "Ростовцев Александр Валерьевич": 9,
-      "Фёдоров Алексей Геннадьевич": 36
+      "gas:candidate-vibid:2702000525037": 7,
+      "gas:candidate-vibid:2702000515513": 11,
+      "gas:candidate-vibid:2702000473558": 77,
+      "gas:candidate-vibid:2702000525375": 4,
+      "gas:candidate-vibid:2702000525149": 5,
+      "gas:candidate-vibid:2702000523838": 8,
+      "gas:candidate-vibid:2702000523769": 9,
+      "gas:candidate-vibid:2702000524513": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469006&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469006&type=464",
@@ -12165,14 +12165,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 1,
-      "Волков Андрей Григорьевич": 3,
-      "Диденко Алексей Николаевич": 39,
-      "Ерёмин Василий Васильевич": 5,
-      "Жабин Сергей Иванович": 3,
-      "Кротов Евгений Геннадьевич": 5,
-      "Ростовцев Александр Валерьевич": 2,
-      "Фёдоров Алексей Геннадьевич": 7
+      "gas:candidate-vibid:2702000525037": 1,
+      "gas:candidate-vibid:2702000515513": 3,
+      "gas:candidate-vibid:2702000473558": 39,
+      "gas:candidate-vibid:2702000525375": 5,
+      "gas:candidate-vibid:2702000525149": 3,
+      "gas:candidate-vibid:2702000523838": 5,
+      "gas:candidate-vibid:2702000523769": 2,
+      "gas:candidate-vibid:2702000524513": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469006&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469006&type=464",
@@ -12223,14 +12223,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 10,
-      "Волков Андрей Григорьевич": 12,
-      "Диденко Алексей Николаевич": 81,
-      "Ерёмин Василий Васильевич": 10,
-      "Жабин Сергей Иванович": 10,
-      "Кротов Евгений Геннадьевич": 6,
-      "Ростовцев Александр Валерьевич": 17,
-      "Фёдоров Алексей Геннадьевич": 24
+      "gas:candidate-vibid:2702000525037": 10,
+      "gas:candidate-vibid:2702000515513": 12,
+      "gas:candidate-vibid:2702000473558": 81,
+      "gas:candidate-vibid:2702000525375": 10,
+      "gas:candidate-vibid:2702000525149": 10,
+      "gas:candidate-vibid:2702000523838": 6,
+      "gas:candidate-vibid:2702000523769": 17,
+      "gas:candidate-vibid:2702000524513": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469006&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469006&type=464",
@@ -12281,14 +12281,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 8,
-      "Волков Андрей Григорьевич": 16,
-      "Диденко Алексей Николаевич": 107,
-      "Ерёмин Василий Васильевич": 9,
-      "Жабин Сергей Иванович": 5,
-      "Кротов Евгений Геннадьевич": 12,
-      "Ростовцев Александр Валерьевич": 18,
-      "Фёдоров Алексей Геннадьевич": 25
+      "gas:candidate-vibid:2702000525037": 8,
+      "gas:candidate-vibid:2702000515513": 16,
+      "gas:candidate-vibid:2702000473558": 107,
+      "gas:candidate-vibid:2702000525375": 9,
+      "gas:candidate-vibid:2702000525149": 5,
+      "gas:candidate-vibid:2702000523838": 12,
+      "gas:candidate-vibid:2702000523769": 18,
+      "gas:candidate-vibid:2702000524513": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469006&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469006&type=464",
@@ -12339,14 +12339,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 8,
-      "Волков Андрей Григорьевич": 12,
-      "Диденко Алексей Николаевич": 65,
-      "Ерёмин Василий Васильевич": 6,
-      "Жабин Сергей Иванович": 7,
-      "Кротов Евгений Геннадьевич": 5,
-      "Ростовцев Александр Валерьевич": 12,
-      "Фёдоров Алексей Геннадьевич": 29
+      "gas:candidate-vibid:2702000525037": 8,
+      "gas:candidate-vibid:2702000515513": 12,
+      "gas:candidate-vibid:2702000473558": 65,
+      "gas:candidate-vibid:2702000525375": 6,
+      "gas:candidate-vibid:2702000525149": 7,
+      "gas:candidate-vibid:2702000523838": 5,
+      "gas:candidate-vibid:2702000523769": 12,
+      "gas:candidate-vibid:2702000524513": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469006&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469006&type=464",
@@ -12397,14 +12397,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 0,
-      "Волков Андрей Григорьевич": 8,
-      "Диденко Алексей Николаевич": 29,
-      "Ерёмин Василий Васильевич": 1,
-      "Жабин Сергей Иванович": 3,
-      "Кротов Евгений Геннадьевич": 3,
-      "Ростовцев Александр Валерьевич": 4,
-      "Фёдоров Алексей Геннадьевич": 18
+      "gas:candidate-vibid:2702000525037": 0,
+      "gas:candidate-vibid:2702000515513": 8,
+      "gas:candidate-vibid:2702000473558": 29,
+      "gas:candidate-vibid:2702000525375": 1,
+      "gas:candidate-vibid:2702000525149": 3,
+      "gas:candidate-vibid:2702000523838": 3,
+      "gas:candidate-vibid:2702000523769": 4,
+      "gas:candidate-vibid:2702000524513": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469006&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469006&type=464",
@@ -12455,14 +12455,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 2,
-      "Волков Андрей Григорьевич": 7,
-      "Диденко Алексей Николаевич": 20,
-      "Ерёмин Василий Васильевич": 2,
-      "Жабин Сергей Иванович": 2,
-      "Кротов Евгений Геннадьевич": 1,
-      "Ростовцев Александр Валерьевич": 5,
-      "Фёдоров Алексей Геннадьевич": 15
+      "gas:candidate-vibid:2702000525037": 2,
+      "gas:candidate-vibid:2702000515513": 7,
+      "gas:candidate-vibid:2702000473558": 20,
+      "gas:candidate-vibid:2702000525375": 2,
+      "gas:candidate-vibid:2702000525149": 2,
+      "gas:candidate-vibid:2702000523838": 1,
+      "gas:candidate-vibid:2702000523769": 5,
+      "gas:candidate-vibid:2702000524513": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469006&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469006&type=464",
@@ -12513,14 +12513,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 3,
-      "Волков Андрей Григорьевич": 13,
-      "Диденко Алексей Николаевич": 98,
-      "Ерёмин Василий Васильевич": 6,
-      "Жабин Сергей Иванович": 2,
-      "Кротов Евгений Геннадьевич": 2,
-      "Ростовцев Александр Валерьевич": 10,
-      "Фёдоров Алексей Геннадьевич": 15
+      "gas:candidate-vibid:2702000525037": 3,
+      "gas:candidate-vibid:2702000515513": 13,
+      "gas:candidate-vibid:2702000473558": 98,
+      "gas:candidate-vibid:2702000525375": 6,
+      "gas:candidate-vibid:2702000525149": 2,
+      "gas:candidate-vibid:2702000523838": 2,
+      "gas:candidate-vibid:2702000523769": 10,
+      "gas:candidate-vibid:2702000524513": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469006&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469006&type=464",
@@ -12571,14 +12571,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 2,
-      "Волков Андрей Григорьевич": 2,
-      "Диденко Алексей Николаевич": 16,
-      "Ерёмин Василий Васильевич": 1,
-      "Жабин Сергей Иванович": 0,
-      "Кротов Евгений Геннадьевич": 3,
-      "Ростовцев Александр Валерьевич": 1,
-      "Фёдоров Алексей Геннадьевич": 1
+      "gas:candidate-vibid:2702000525037": 2,
+      "gas:candidate-vibid:2702000515513": 2,
+      "gas:candidate-vibid:2702000473558": 16,
+      "gas:candidate-vibid:2702000525375": 1,
+      "gas:candidate-vibid:2702000525149": 0,
+      "gas:candidate-vibid:2702000523838": 3,
+      "gas:candidate-vibid:2702000523769": 1,
+      "gas:candidate-vibid:2702000524513": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469006&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469006&type=464",
@@ -12629,14 +12629,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 12,
-      "Волков Андрей Григорьевич": 38,
-      "Диденко Алексей Николаевич": 74,
-      "Ерёмин Василий Васильевич": 5,
-      "Жабин Сергей Иванович": 6,
-      "Кротов Евгений Геннадьевич": 12,
-      "Ростовцев Александр Валерьевич": 20,
-      "Фёдоров Алексей Геннадьевич": 56
+      "gas:candidate-vibid:2702000525037": 12,
+      "gas:candidate-vibid:2702000515513": 38,
+      "gas:candidate-vibid:2702000473558": 74,
+      "gas:candidate-vibid:2702000525375": 5,
+      "gas:candidate-vibid:2702000525149": 6,
+      "gas:candidate-vibid:2702000523838": 12,
+      "gas:candidate-vibid:2702000523769": 20,
+      "gas:candidate-vibid:2702000524513": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469007&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469007&type=464",
@@ -12687,14 +12687,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 2,
-      "Волков Андрей Григорьевич": 3,
-      "Диденко Алексей Николаевич": 16,
-      "Ерёмин Василий Васильевич": 5,
-      "Жабин Сергей Иванович": 1,
-      "Кротов Евгений Геннадьевич": 0,
-      "Ростовцев Александр Валерьевич": 2,
-      "Фёдоров Алексей Геннадьевич": 2
+      "gas:candidate-vibid:2702000525037": 2,
+      "gas:candidate-vibid:2702000515513": 3,
+      "gas:candidate-vibid:2702000473558": 16,
+      "gas:candidate-vibid:2702000525375": 5,
+      "gas:candidate-vibid:2702000525149": 1,
+      "gas:candidate-vibid:2702000523838": 0,
+      "gas:candidate-vibid:2702000523769": 2,
+      "gas:candidate-vibid:2702000524513": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469007&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469007&type=464",
@@ -12745,14 +12745,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 1,
-      "Волков Андрей Григорьевич": 1,
-      "Диденко Алексей Николаевич": 14,
-      "Ерёмин Василий Васильевич": 0,
-      "Жабин Сергей Иванович": 0,
-      "Кротов Евгений Геннадьевич": 0,
-      "Ростовцев Александр Валерьевич": 0,
-      "Фёдоров Алексей Геннадьевич": 4
+      "gas:candidate-vibid:2702000525037": 1,
+      "gas:candidate-vibid:2702000515513": 1,
+      "gas:candidate-vibid:2702000473558": 14,
+      "gas:candidate-vibid:2702000525375": 0,
+      "gas:candidate-vibid:2702000525149": 0,
+      "gas:candidate-vibid:2702000523838": 0,
+      "gas:candidate-vibid:2702000523769": 0,
+      "gas:candidate-vibid:2702000524513": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469007&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469007&type=464",
@@ -12803,14 +12803,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 2,
-      "Волков Андрей Григорьевич": 18,
-      "Диденко Алексей Николаевич": 36,
-      "Ерёмин Василий Васильевич": 2,
-      "Жабин Сергей Иванович": 2,
-      "Кротов Евгений Геннадьевич": 3,
-      "Ростовцев Александр Валерьевич": 8,
-      "Фёдоров Алексей Геннадьевич": 27
+      "gas:candidate-vibid:2702000525037": 2,
+      "gas:candidate-vibid:2702000515513": 18,
+      "gas:candidate-vibid:2702000473558": 36,
+      "gas:candidate-vibid:2702000525375": 2,
+      "gas:candidate-vibid:2702000525149": 2,
+      "gas:candidate-vibid:2702000523838": 3,
+      "gas:candidate-vibid:2702000523769": 8,
+      "gas:candidate-vibid:2702000524513": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469007&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469007&type=464",
@@ -12861,14 +12861,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 6,
-      "Волков Андрей Григорьевич": 17,
-      "Диденко Алексей Николаевич": 57,
-      "Ерёмин Василий Васильевич": 8,
-      "Жабин Сергей Иванович": 3,
-      "Кротов Евгений Геннадьевич": 12,
-      "Ростовцев Александр Валерьевич": 24,
-      "Фёдоров Алексей Геннадьевич": 67
+      "gas:candidate-vibid:2702000525037": 6,
+      "gas:candidate-vibid:2702000515513": 17,
+      "gas:candidate-vibid:2702000473558": 57,
+      "gas:candidate-vibid:2702000525375": 8,
+      "gas:candidate-vibid:2702000525149": 3,
+      "gas:candidate-vibid:2702000523838": 12,
+      "gas:candidate-vibid:2702000523769": 24,
+      "gas:candidate-vibid:2702000524513": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469007&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469007&type=464",
@@ -12919,14 +12919,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 9,
-      "Волков Андрей Григорьевич": 8,
-      "Диденко Алексей Николаевич": 53,
-      "Ерёмин Василий Васильевич": 3,
-      "Жабин Сергей Иванович": 2,
-      "Кротов Евгений Геннадьевич": 5,
-      "Ростовцев Александр Валерьевич": 13,
-      "Фёдоров Алексей Геннадьевич": 16
+      "gas:candidate-vibid:2702000525037": 9,
+      "gas:candidate-vibid:2702000515513": 8,
+      "gas:candidate-vibid:2702000473558": 53,
+      "gas:candidate-vibid:2702000525375": 3,
+      "gas:candidate-vibid:2702000525149": 2,
+      "gas:candidate-vibid:2702000523838": 5,
+      "gas:candidate-vibid:2702000523769": 13,
+      "gas:candidate-vibid:2702000524513": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469007&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469007&type=464",
@@ -12977,14 +12977,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 3,
-      "Волков Андрей Григорьевич": 3,
-      "Диденко Алексей Николаевич": 7,
-      "Ерёмин Василий Васильевич": 2,
-      "Жабин Сергей Иванович": 1,
-      "Кротов Евгений Геннадьевич": 2,
-      "Ростовцев Александр Валерьевич": 2,
-      "Фёдоров Алексей Геннадьевич": 4
+      "gas:candidate-vibid:2702000525037": 3,
+      "gas:candidate-vibid:2702000515513": 3,
+      "gas:candidate-vibid:2702000473558": 7,
+      "gas:candidate-vibid:2702000525375": 2,
+      "gas:candidate-vibid:2702000525149": 1,
+      "gas:candidate-vibid:2702000523838": 2,
+      "gas:candidate-vibid:2702000523769": 2,
+      "gas:candidate-vibid:2702000524513": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469007&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469007&type=464",
@@ -13035,14 +13035,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 4,
-      "Волков Андрей Григорьевич": 7,
-      "Диденко Алексей Николаевич": 37,
-      "Ерёмин Василий Васильевич": 2,
-      "Жабин Сергей Иванович": 2,
-      "Кротов Евгений Геннадьевич": 1,
-      "Ростовцев Александр Валерьевич": 7,
-      "Фёдоров Алексей Геннадьевич": 11
+      "gas:candidate-vibid:2702000525037": 4,
+      "gas:candidate-vibid:2702000515513": 7,
+      "gas:candidate-vibid:2702000473558": 37,
+      "gas:candidate-vibid:2702000525375": 2,
+      "gas:candidate-vibid:2702000525149": 2,
+      "gas:candidate-vibid:2702000523838": 1,
+      "gas:candidate-vibid:2702000523769": 7,
+      "gas:candidate-vibid:2702000524513": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469007&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469007&type=464",
@@ -13093,14 +13093,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 0,
-      "Волков Андрей Григорьевич": 2,
-      "Диденко Алексей Николаевич": 24,
-      "Ерёмин Василий Васильевич": 2,
-      "Жабин Сергей Иванович": 1,
-      "Кротов Евгений Геннадьевич": 3,
-      "Ростовцев Александр Валерьевич": 8,
-      "Фёдоров Алексей Геннадьевич": 13
+      "gas:candidate-vibid:2702000525037": 0,
+      "gas:candidate-vibid:2702000515513": 2,
+      "gas:candidate-vibid:2702000473558": 24,
+      "gas:candidate-vibid:2702000525375": 2,
+      "gas:candidate-vibid:2702000525149": 1,
+      "gas:candidate-vibid:2702000523838": 3,
+      "gas:candidate-vibid:2702000523769": 8,
+      "gas:candidate-vibid:2702000524513": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469007&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469007&type=464",
@@ -13151,14 +13151,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 4,
-      "Волков Андрей Григорьевич": 8,
-      "Диденко Алексей Николаевич": 43,
-      "Ерёмин Василий Васильевич": 5,
-      "Жабин Сергей Иванович": 7,
-      "Кротов Евгений Геннадьевич": 6,
-      "Ростовцев Александр Валерьевич": 9,
-      "Фёдоров Алексей Геннадьевич": 18
+      "gas:candidate-vibid:2702000525037": 4,
+      "gas:candidate-vibid:2702000515513": 8,
+      "gas:candidate-vibid:2702000473558": 43,
+      "gas:candidate-vibid:2702000525375": 5,
+      "gas:candidate-vibid:2702000525149": 7,
+      "gas:candidate-vibid:2702000523838": 6,
+      "gas:candidate-vibid:2702000523769": 9,
+      "gas:candidate-vibid:2702000524513": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469007&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469007&type=464",
@@ -13209,14 +13209,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 3,
-      "Волков Андрей Григорьевич": 12,
-      "Диденко Алексей Николаевич": 38,
-      "Ерёмин Василий Васильевич": 11,
-      "Жабин Сергей Иванович": 2,
-      "Кротов Евгений Геннадьевич": 5,
-      "Ростовцев Александр Валерьевич": 7,
-      "Фёдоров Алексей Геннадьевич": 23
+      "gas:candidate-vibid:2702000525037": 3,
+      "gas:candidate-vibid:2702000515513": 12,
+      "gas:candidate-vibid:2702000473558": 38,
+      "gas:candidate-vibid:2702000525375": 11,
+      "gas:candidate-vibid:2702000525149": 2,
+      "gas:candidate-vibid:2702000523838": 5,
+      "gas:candidate-vibid:2702000523769": 7,
+      "gas:candidate-vibid:2702000524513": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469007&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469007&type=464",
@@ -13267,14 +13267,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 3,
-      "Волков Андрей Григорьевич": 8,
-      "Диденко Алексей Николаевич": 14,
-      "Ерёмин Василий Васильевич": 2,
-      "Жабин Сергей Иванович": 3,
-      "Кротов Евгений Геннадьевич": 0,
-      "Ростовцев Александр Валерьевич": 7,
-      "Фёдоров Алексей Геннадьевич": 10
+      "gas:candidate-vibid:2702000525037": 3,
+      "gas:candidate-vibid:2702000515513": 8,
+      "gas:candidate-vibid:2702000473558": 14,
+      "gas:candidate-vibid:2702000525375": 2,
+      "gas:candidate-vibid:2702000525149": 3,
+      "gas:candidate-vibid:2702000523838": 0,
+      "gas:candidate-vibid:2702000523769": 7,
+      "gas:candidate-vibid:2702000524513": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469007&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469007&type=464",
@@ -13325,14 +13325,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 10,
-      "Волков Андрей Григорьевич": 29,
-      "Диденко Алексей Николаевич": 137,
-      "Ерёмин Василий Васильевич": 24,
-      "Жабин Сергей Иванович": 5,
-      "Кротов Евгений Геннадьевич": 13,
-      "Ростовцев Александр Валерьевич": 16,
-      "Фёдоров Алексей Геннадьевич": 56
+      "gas:candidate-vibid:2702000525037": 10,
+      "gas:candidate-vibid:2702000515513": 29,
+      "gas:candidate-vibid:2702000473558": 137,
+      "gas:candidate-vibid:2702000525375": 24,
+      "gas:candidate-vibid:2702000525149": 5,
+      "gas:candidate-vibid:2702000523838": 13,
+      "gas:candidate-vibid:2702000523769": 16,
+      "gas:candidate-vibid:2702000524513": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469007&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469007&type=464",
@@ -13383,14 +13383,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 5,
-      "Волков Андрей Григорьевич": 8,
-      "Диденко Алексей Николаевич": 30,
-      "Ерёмин Василий Васильевич": 1,
-      "Жабин Сергей Иванович": 4,
-      "Кротов Евгений Геннадьевич": 2,
-      "Ростовцев Александр Валерьевич": 10,
-      "Фёдоров Алексей Геннадьевич": 24
+      "gas:candidate-vibid:2702000525037": 5,
+      "gas:candidate-vibid:2702000515513": 8,
+      "gas:candidate-vibid:2702000473558": 30,
+      "gas:candidate-vibid:2702000525375": 1,
+      "gas:candidate-vibid:2702000525149": 4,
+      "gas:candidate-vibid:2702000523838": 2,
+      "gas:candidate-vibid:2702000523769": 10,
+      "gas:candidate-vibid:2702000524513": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469007&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469007&type=464",
@@ -13441,14 +13441,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 6,
-      "Волков Андрей Григорьевич": 22,
-      "Диденко Алексей Николаевич": 47,
-      "Ерёмин Василий Васильевич": 3,
-      "Жабин Сергей Иванович": 4,
-      "Кротов Евгений Геннадьевич": 7,
-      "Ростовцев Александр Валерьевич": 10,
-      "Фёдоров Алексей Геннадьевич": 28
+      "gas:candidate-vibid:2702000525037": 6,
+      "gas:candidate-vibid:2702000515513": 22,
+      "gas:candidate-vibid:2702000473558": 47,
+      "gas:candidate-vibid:2702000525375": 3,
+      "gas:candidate-vibid:2702000525149": 4,
+      "gas:candidate-vibid:2702000523838": 7,
+      "gas:candidate-vibid:2702000523769": 10,
+      "gas:candidate-vibid:2702000524513": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469007&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469007&type=464",
@@ -13499,14 +13499,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 3,
-      "Волков Андрей Григорьевич": 18,
-      "Диденко Алексей Николаевич": 22,
-      "Ерёмин Василий Васильевич": 5,
-      "Жабин Сергей Иванович": 3,
-      "Кротов Евгений Геннадьевич": 5,
-      "Ростовцев Александр Валерьевич": 5,
-      "Фёдоров Алексей Геннадьевич": 24
+      "gas:candidate-vibid:2702000525037": 3,
+      "gas:candidate-vibid:2702000515513": 18,
+      "gas:candidate-vibid:2702000473558": 22,
+      "gas:candidate-vibid:2702000525375": 5,
+      "gas:candidate-vibid:2702000525149": 3,
+      "gas:candidate-vibid:2702000523838": 5,
+      "gas:candidate-vibid:2702000523769": 5,
+      "gas:candidate-vibid:2702000524513": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469007&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469007&type=464",
@@ -13557,14 +13557,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 4,
-      "Волков Андрей Григорьевич": 7,
-      "Диденко Алексей Николаевич": 33,
-      "Ерёмин Василий Васильевич": 1,
-      "Жабин Сергей Иванович": 0,
-      "Кротов Евгений Геннадьевич": 1,
-      "Ростовцев Александр Валерьевич": 6,
-      "Фёдоров Алексей Геннадьевич": 11
+      "gas:candidate-vibid:2702000525037": 4,
+      "gas:candidate-vibid:2702000515513": 7,
+      "gas:candidate-vibid:2702000473558": 33,
+      "gas:candidate-vibid:2702000525375": 1,
+      "gas:candidate-vibid:2702000525149": 0,
+      "gas:candidate-vibid:2702000523838": 1,
+      "gas:candidate-vibid:2702000523769": 6,
+      "gas:candidate-vibid:2702000524513": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469007&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469007&type=464",
@@ -13615,14 +13615,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 1,
-      "Волков Андрей Григорьевич": 15,
-      "Диденко Алексей Николаевич": 76,
-      "Ерёмин Василий Васильевич": 5,
-      "Жабин Сергей Иванович": 7,
-      "Кротов Евгений Геннадьевич": 5,
-      "Ростовцев Александр Валерьевич": 16,
-      "Фёдоров Алексей Геннадьевич": 57
+      "gas:candidate-vibid:2702000525037": 1,
+      "gas:candidate-vibid:2702000515513": 15,
+      "gas:candidate-vibid:2702000473558": 76,
+      "gas:candidate-vibid:2702000525375": 5,
+      "gas:candidate-vibid:2702000525149": 7,
+      "gas:candidate-vibid:2702000523838": 5,
+      "gas:candidate-vibid:2702000523769": 16,
+      "gas:candidate-vibid:2702000524513": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469007&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469007&type=464",
@@ -13673,14 +13673,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 3,
-      "Волков Андрей Григорьевич": 17,
-      "Диденко Алексей Николаевич": 39,
-      "Ерёмин Василий Васильевич": 2,
-      "Жабин Сергей Иванович": 2,
-      "Кротов Евгений Геннадьевич": 2,
-      "Ростовцев Александр Валерьевич": 5,
-      "Фёдоров Алексей Геннадьевич": 30
+      "gas:candidate-vibid:2702000525037": 3,
+      "gas:candidate-vibid:2702000515513": 17,
+      "gas:candidate-vibid:2702000473558": 39,
+      "gas:candidate-vibid:2702000525375": 2,
+      "gas:candidate-vibid:2702000525149": 2,
+      "gas:candidate-vibid:2702000523838": 2,
+      "gas:candidate-vibid:2702000523769": 5,
+      "gas:candidate-vibid:2702000524513": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469007&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469007&type=464",
@@ -13731,14 +13731,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 4,
-      "Волков Андрей Григорьевич": 7,
-      "Диденко Алексей Николаевич": 45,
-      "Ерёмин Василий Васильевич": 3,
-      "Жабин Сергей Иванович": 4,
-      "Кротов Евгений Геннадьевич": 6,
-      "Ростовцев Александр Валерьевич": 11,
-      "Фёдоров Алексей Геннадьевич": 26
+      "gas:candidate-vibid:2702000525037": 4,
+      "gas:candidate-vibid:2702000515513": 7,
+      "gas:candidate-vibid:2702000473558": 45,
+      "gas:candidate-vibid:2702000525375": 3,
+      "gas:candidate-vibid:2702000525149": 4,
+      "gas:candidate-vibid:2702000523838": 6,
+      "gas:candidate-vibid:2702000523769": 11,
+      "gas:candidate-vibid:2702000524513": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469007&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469007&type=464",
@@ -13789,14 +13789,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 3,
-      "Волков Андрей Григорьевич": 9,
-      "Диденко Алексей Николаевич": 18,
-      "Ерёмин Василий Васильевич": 3,
-      "Жабин Сергей Иванович": 0,
-      "Кротов Евгений Геннадьевич": 3,
-      "Ростовцев Александр Валерьевич": 3,
-      "Фёдоров Алексей Геннадьевич": 14
+      "gas:candidate-vibid:2702000525037": 3,
+      "gas:candidate-vibid:2702000515513": 9,
+      "gas:candidate-vibid:2702000473558": 18,
+      "gas:candidate-vibid:2702000525375": 3,
+      "gas:candidate-vibid:2702000525149": 0,
+      "gas:candidate-vibid:2702000523838": 3,
+      "gas:candidate-vibid:2702000523769": 3,
+      "gas:candidate-vibid:2702000524513": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469007&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469007&type=464",
@@ -13847,14 +13847,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 4,
-      "Волков Андрей Григорьевич": 19,
-      "Диденко Алексей Николаевич": 43,
-      "Ерёмин Василий Васильевич": 3,
-      "Жабин Сергей Иванович": 4,
-      "Кротов Евгений Геннадьевич": 5,
-      "Ростовцев Александр Валерьевич": 5,
-      "Фёдоров Алексей Геннадьевич": 58
+      "gas:candidate-vibid:2702000525037": 4,
+      "gas:candidate-vibid:2702000515513": 19,
+      "gas:candidate-vibid:2702000473558": 43,
+      "gas:candidate-vibid:2702000525375": 3,
+      "gas:candidate-vibid:2702000525149": 4,
+      "gas:candidate-vibid:2702000523838": 5,
+      "gas:candidate-vibid:2702000523769": 5,
+      "gas:candidate-vibid:2702000524513": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469007&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469007&type=464",
@@ -13905,14 +13905,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 7,
-      "Волков Андрей Григорьевич": 13,
-      "Диденко Алексей Николаевич": 46,
-      "Ерёмин Василий Васильевич": 6,
-      "Жабин Сергей Иванович": 1,
-      "Кротов Евгений Геннадьевич": 4,
-      "Ростовцев Александр Валерьевич": 5,
-      "Фёдоров Алексей Геннадьевич": 27
+      "gas:candidate-vibid:2702000525037": 7,
+      "gas:candidate-vibid:2702000515513": 13,
+      "gas:candidate-vibid:2702000473558": 46,
+      "gas:candidate-vibid:2702000525375": 6,
+      "gas:candidate-vibid:2702000525149": 1,
+      "gas:candidate-vibid:2702000523838": 4,
+      "gas:candidate-vibid:2702000523769": 5,
+      "gas:candidate-vibid:2702000524513": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469007&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469007&type=464",
@@ -13963,14 +13963,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 5,
-      "Волков Андрей Григорьевич": 12,
-      "Диденко Алексей Николаевич": 48,
-      "Ерёмин Василий Васильевич": 9,
-      "Жабин Сергей Иванович": 4,
-      "Кротов Евгений Геннадьевич": 3,
-      "Ростовцев Александр Валерьевич": 9,
-      "Фёдоров Алексей Геннадьевич": 39
+      "gas:candidate-vibid:2702000525037": 5,
+      "gas:candidate-vibid:2702000515513": 12,
+      "gas:candidate-vibid:2702000473558": 48,
+      "gas:candidate-vibid:2702000525375": 9,
+      "gas:candidate-vibid:2702000525149": 4,
+      "gas:candidate-vibid:2702000523838": 3,
+      "gas:candidate-vibid:2702000523769": 9,
+      "gas:candidate-vibid:2702000524513": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469007&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469007&type=464",
@@ -14021,14 +14021,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 4,
-      "Волков Андрей Григорьевич": 24,
-      "Диденко Алексей Николаевич": 83,
-      "Ерёмин Василий Васильевич": 3,
-      "Жабин Сергей Иванович": 6,
-      "Кротов Евгений Геннадьевич": 3,
-      "Ростовцев Александр Валерьевич": 12,
-      "Фёдоров Алексей Геннадьевич": 66
+      "gas:candidate-vibid:2702000525037": 4,
+      "gas:candidate-vibid:2702000515513": 24,
+      "gas:candidate-vibid:2702000473558": 83,
+      "gas:candidate-vibid:2702000525375": 3,
+      "gas:candidate-vibid:2702000525149": 6,
+      "gas:candidate-vibid:2702000523838": 3,
+      "gas:candidate-vibid:2702000523769": 12,
+      "gas:candidate-vibid:2702000524513": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469007&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469007&type=464",
@@ -14079,14 +14079,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 2,
-      "Волков Андрей Григорьевич": 4,
-      "Диденко Алексей Николаевич": 30,
-      "Ерёмин Василий Васильевич": 0,
-      "Жабин Сергей Иванович": 1,
-      "Кротов Евгений Геннадьевич": 2,
-      "Ростовцев Александр Валерьевич": 2,
-      "Фёдоров Алексей Геннадьевич": 20
+      "gas:candidate-vibid:2702000525037": 2,
+      "gas:candidate-vibid:2702000515513": 4,
+      "gas:candidate-vibid:2702000473558": 30,
+      "gas:candidate-vibid:2702000525375": 0,
+      "gas:candidate-vibid:2702000525149": 1,
+      "gas:candidate-vibid:2702000523838": 2,
+      "gas:candidate-vibid:2702000523769": 2,
+      "gas:candidate-vibid:2702000524513": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469007&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469007&type=464",
@@ -14137,14 +14137,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 5,
-      "Волков Андрей Григорьевич": 15,
-      "Диденко Алексей Николаевич": 83,
-      "Ерёмин Василий Васильевич": 4,
-      "Жабин Сергей Иванович": 5,
-      "Кротов Евгений Геннадьевич": 2,
-      "Ростовцев Александр Валерьевич": 12,
-      "Фёдоров Алексей Геннадьевич": 37
+      "gas:candidate-vibid:2702000525037": 5,
+      "gas:candidate-vibid:2702000515513": 15,
+      "gas:candidate-vibid:2702000473558": 83,
+      "gas:candidate-vibid:2702000525375": 4,
+      "gas:candidate-vibid:2702000525149": 5,
+      "gas:candidate-vibid:2702000523838": 2,
+      "gas:candidate-vibid:2702000523769": 12,
+      "gas:candidate-vibid:2702000524513": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469007&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469007&type=464",
@@ -14195,14 +14195,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 1,
-      "Волков Андрей Григорьевич": 3,
-      "Диденко Алексей Николаевич": 12,
-      "Ерёмин Василий Васильевич": 0,
-      "Жабин Сергей Иванович": 1,
-      "Кротов Евгений Геннадьевич": 1,
-      "Ростовцев Александр Валерьевич": 5,
-      "Фёдоров Алексей Геннадьевич": 9
+      "gas:candidate-vibid:2702000525037": 1,
+      "gas:candidate-vibid:2702000515513": 3,
+      "gas:candidate-vibid:2702000473558": 12,
+      "gas:candidate-vibid:2702000525375": 0,
+      "gas:candidate-vibid:2702000525149": 1,
+      "gas:candidate-vibid:2702000523838": 1,
+      "gas:candidate-vibid:2702000523769": 5,
+      "gas:candidate-vibid:2702000524513": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469007&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469007&type=464",
@@ -14253,14 +14253,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 2,
-      "Волков Андрей Григорьевич": 13,
-      "Диденко Алексей Николаевич": 85,
-      "Ерёмин Василий Васильевич": 3,
-      "Жабин Сергей Иванович": 1,
-      "Кротов Евгений Геннадьевич": 6,
-      "Ростовцев Александр Валерьевич": 12,
-      "Фёдоров Алексей Геннадьевич": 50
+      "gas:candidate-vibid:2702000525037": 2,
+      "gas:candidate-vibid:2702000515513": 13,
+      "gas:candidate-vibid:2702000473558": 85,
+      "gas:candidate-vibid:2702000525375": 3,
+      "gas:candidate-vibid:2702000525149": 1,
+      "gas:candidate-vibid:2702000523838": 6,
+      "gas:candidate-vibid:2702000523769": 12,
+      "gas:candidate-vibid:2702000524513": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469007&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469007&type=464",
@@ -14311,14 +14311,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 9,
-      "Волков Андрей Григорьевич": 28,
-      "Диденко Алексей Николаевич": 89,
-      "Ерёмин Василий Васильевич": 11,
-      "Жабин Сергей Иванович": 5,
-      "Кротов Евгений Геннадьевич": 9,
-      "Ростовцев Александр Валерьевич": 12,
-      "Фёдоров Алексей Геннадьевич": 82
+      "gas:candidate-vibid:2702000525037": 9,
+      "gas:candidate-vibid:2702000515513": 28,
+      "gas:candidate-vibid:2702000473558": 89,
+      "gas:candidate-vibid:2702000525375": 11,
+      "gas:candidate-vibid:2702000525149": 5,
+      "gas:candidate-vibid:2702000523838": 9,
+      "gas:candidate-vibid:2702000523769": 12,
+      "gas:candidate-vibid:2702000524513": 82
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469007&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469007&type=464",
@@ -14369,14 +14369,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 9,
-      "Волков Андрей Григорьевич": 35,
-      "Диденко Алексей Николаевич": 108,
-      "Ерёмин Василий Васильевич": 12,
-      "Жабин Сергей Иванович": 8,
-      "Кротов Евгений Геннадьевич": 10,
-      "Ростовцев Александр Валерьевич": 26,
-      "Фёдоров Алексей Геннадьевич": 117
+      "gas:candidate-vibid:2702000525037": 9,
+      "gas:candidate-vibid:2702000515513": 35,
+      "gas:candidate-vibid:2702000473558": 108,
+      "gas:candidate-vibid:2702000525375": 12,
+      "gas:candidate-vibid:2702000525149": 8,
+      "gas:candidate-vibid:2702000523838": 10,
+      "gas:candidate-vibid:2702000523769": 26,
+      "gas:candidate-vibid:2702000524513": 117
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469007&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469007&type=464",
@@ -14427,14 +14427,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 6,
-      "Волков Андрей Григорьевич": 12,
-      "Диденко Алексей Николаевич": 35,
-      "Ерёмин Василий Васильевич": 1,
-      "Жабин Сергей Иванович": 3,
-      "Кротов Евгений Геннадьевич": 1,
-      "Ростовцев Александр Валерьевич": 7,
-      "Фёдоров Алексей Геннадьевич": 33
+      "gas:candidate-vibid:2702000525037": 6,
+      "gas:candidate-vibid:2702000515513": 12,
+      "gas:candidate-vibid:2702000473558": 35,
+      "gas:candidate-vibid:2702000525375": 1,
+      "gas:candidate-vibid:2702000525149": 3,
+      "gas:candidate-vibid:2702000523838": 1,
+      "gas:candidate-vibid:2702000523769": 7,
+      "gas:candidate-vibid:2702000524513": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469007&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469007&type=464",
@@ -14485,14 +14485,14 @@ export const duma_2016_uik_463_region_70_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Белянко Егор Геннадьевич": 12,
-      "Волков Андрей Григорьевич": 45,
-      "Диденко Алексей Николаевич": 241,
-      "Ерёмин Василий Васильевич": 14,
-      "Жабин Сергей Иванович": 23,
-      "Кротов Евгений Геннадьевич": 9,
-      "Ростовцев Александр Валерьевич": 54,
-      "Фёдоров Алексей Геннадьевич": 120
+      "gas:candidate-vibid:2702000525037": 12,
+      "gas:candidate-vibid:2702000515513": 45,
+      "gas:candidate-vibid:2702000473558": 241,
+      "gas:candidate-vibid:2702000525375": 14,
+      "gas:candidate-vibid:2702000525149": 23,
+      "gas:candidate-vibid:2702000523838": 9,
+      "gas:candidate-vibid:2702000523769": 54,
+      "gas:candidate-vibid:2702000524513": 120
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tomsk?action=show&root=1000239&tvd=2702000469008&vrn=100100067795849&region=70&global=&sub_region=70&prver=0&pronetvd=null&vibid=2702000469008&type=464",

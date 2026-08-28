@@ -43,16 +43,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 18,
-      "Калинин Александр Владимирович": 5,
-      "Карпов Александр Николаевич": 9,
-      "Мищеряков Юрий Николаевич": 28,
-      "Рычагов Антон Владимирович": 0,
-      "Столпак Сергей Павлович": 0,
-      "Тишин Владимир Владимирович": 0,
-      "Фомин Сергей Александрович": 0,
-      "Фролов Владимир Иванович": 1,
-      "Химич Сергей Александрович": 0
+      "gas:candidate-vibid:2562000994789": 18,
+      "gas:candidate-vibid:25620001003788": 5,
+      "gas:candidate-vibid:2562000991818": 9,
+      "gas:candidate-vibid:25620001003464": 28,
+      "gas:candidate-vibid:25620001005325": 0,
+      "gas:candidate-vibid:25620001004283": 0,
+      "gas:candidate-vibid:25620001005338": 0,
+      "gas:candidate-vibid:25620001004865": 0,
+      "gas:candidate-vibid:2562000994730": 1,
+      "gas:candidate-vibid:25620001003230": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922488&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922488&type=464",
@@ -103,16 +103,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 9,
-      "Калинин Александр Владимирович": 4,
-      "Карпов Александр Николаевич": 14,
-      "Мищеряков Юрий Николаевич": 24,
-      "Рычагов Антон Владимирович": 3,
-      "Столпак Сергей Павлович": 0,
-      "Тишин Владимир Владимирович": 3,
-      "Фомин Сергей Александрович": 1,
-      "Фролов Владимир Иванович": 2,
-      "Химич Сергей Александрович": 0
+      "gas:candidate-vibid:2562000994789": 9,
+      "gas:candidate-vibid:25620001003788": 4,
+      "gas:candidate-vibid:2562000991818": 14,
+      "gas:candidate-vibid:25620001003464": 24,
+      "gas:candidate-vibid:25620001005325": 3,
+      "gas:candidate-vibid:25620001004283": 0,
+      "gas:candidate-vibid:25620001005338": 3,
+      "gas:candidate-vibid:25620001004865": 1,
+      "gas:candidate-vibid:2562000994730": 2,
+      "gas:candidate-vibid:25620001003230": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922488&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922488&type=464",
@@ -163,16 +163,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 12,
-      "Калинин Александр Владимирович": 15,
-      "Карпов Александр Николаевич": 17,
-      "Мищеряков Юрий Николаевич": 57,
-      "Рычагов Антон Владимирович": 2,
-      "Столпак Сергей Павлович": 0,
-      "Тишин Владимир Владимирович": 3,
-      "Фомин Сергей Александрович": 6,
-      "Фролов Владимир Иванович": 4,
-      "Химич Сергей Александрович": 1
+      "gas:candidate-vibid:2562000994789": 12,
+      "gas:candidate-vibid:25620001003788": 15,
+      "gas:candidate-vibid:2562000991818": 17,
+      "gas:candidate-vibid:25620001003464": 57,
+      "gas:candidate-vibid:25620001005325": 2,
+      "gas:candidate-vibid:25620001004283": 0,
+      "gas:candidate-vibid:25620001005338": 3,
+      "gas:candidate-vibid:25620001004865": 6,
+      "gas:candidate-vibid:2562000994730": 4,
+      "gas:candidate-vibid:25620001003230": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922488&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922488&type=464",
@@ -223,16 +223,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 28,
-      "Калинин Александр Владимирович": 8,
-      "Карпов Александр Николаевич": 13,
-      "Мищеряков Юрий Николаевич": 32,
-      "Рычагов Антон Владимирович": 3,
-      "Столпак Сергей Павлович": 0,
-      "Тишин Владимир Владимирович": 0,
-      "Фомин Сергей Александрович": 0,
-      "Фролов Владимир Иванович": 3,
-      "Химич Сергей Александрович": 0
+      "gas:candidate-vibid:2562000994789": 28,
+      "gas:candidate-vibid:25620001003788": 8,
+      "gas:candidate-vibid:2562000991818": 13,
+      "gas:candidate-vibid:25620001003464": 32,
+      "gas:candidate-vibid:25620001005325": 3,
+      "gas:candidate-vibid:25620001004283": 0,
+      "gas:candidate-vibid:25620001005338": 0,
+      "gas:candidate-vibid:25620001004865": 0,
+      "gas:candidate-vibid:2562000994730": 3,
+      "gas:candidate-vibid:25620001003230": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922488&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922488&type=464",
@@ -283,16 +283,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 39,
-      "Калинин Александр Владимирович": 41,
-      "Карпов Александр Николаевич": 56,
-      "Мищеряков Юрий Николаевич": 146,
-      "Рычагов Антон Владимирович": 8,
-      "Столпак Сергей Павлович": 2,
-      "Тишин Владимир Владимирович": 5,
-      "Фомин Сергей Александрович": 3,
-      "Фролов Владимир Иванович": 10,
-      "Химич Сергей Александрович": 3
+      "gas:candidate-vibid:2562000994789": 39,
+      "gas:candidate-vibid:25620001003788": 41,
+      "gas:candidate-vibid:2562000991818": 56,
+      "gas:candidate-vibid:25620001003464": 146,
+      "gas:candidate-vibid:25620001005325": 8,
+      "gas:candidate-vibid:25620001004283": 2,
+      "gas:candidate-vibid:25620001005338": 5,
+      "gas:candidate-vibid:25620001004865": 3,
+      "gas:candidate-vibid:2562000994730": 10,
+      "gas:candidate-vibid:25620001003230": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922488&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922488&type=464",
@@ -343,16 +343,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 54,
-      "Калинин Александр Владимирович": 38,
-      "Карпов Александр Николаевич": 44,
-      "Мищеряков Юрий Николаевич": 116,
-      "Рычагов Антон Владимирович": 11,
-      "Столпак Сергей Павлович": 2,
-      "Тишин Владимир Владимирович": 9,
-      "Фомин Сергей Александрович": 7,
-      "Фролов Владимир Иванович": 24,
-      "Химич Сергей Александрович": 5
+      "gas:candidate-vibid:2562000994789": 54,
+      "gas:candidate-vibid:25620001003788": 38,
+      "gas:candidate-vibid:2562000991818": 44,
+      "gas:candidate-vibid:25620001003464": 116,
+      "gas:candidate-vibid:25620001005325": 11,
+      "gas:candidate-vibid:25620001004283": 2,
+      "gas:candidate-vibid:25620001005338": 9,
+      "gas:candidate-vibid:25620001004865": 7,
+      "gas:candidate-vibid:2562000994730": 24,
+      "gas:candidate-vibid:25620001003230": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922488&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922488&type=464",
@@ -403,16 +403,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 123,
-      "Калинин Александр Владимирович": 79,
-      "Карпов Александр Николаевич": 130,
-      "Мищеряков Юрий Николаевич": 267,
-      "Рычагов Антон Владимирович": 17,
-      "Столпак Сергей Павлович": 9,
-      "Тишин Владимир Владимирович": 15,
-      "Фомин Сергей Александрович": 45,
-      "Фролов Владимир Иванович": 21,
-      "Химич Сергей Александрович": 19
+      "gas:candidate-vibid:2562000994789": 123,
+      "gas:candidate-vibid:25620001003788": 79,
+      "gas:candidate-vibid:2562000991818": 130,
+      "gas:candidate-vibid:25620001003464": 267,
+      "gas:candidate-vibid:25620001005325": 17,
+      "gas:candidate-vibid:25620001004283": 9,
+      "gas:candidate-vibid:25620001005338": 15,
+      "gas:candidate-vibid:25620001004865": 45,
+      "gas:candidate-vibid:2562000994730": 21,
+      "gas:candidate-vibid:25620001003230": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922488&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922488&type=464",
@@ -463,16 +463,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 75,
-      "Калинин Александр Владимирович": 49,
-      "Карпов Александр Николаевич": 88,
-      "Мищеряков Юрий Николаевич": 178,
-      "Рычагов Антон Владимирович": 14,
-      "Столпак Сергей Павлович": 5,
-      "Тишин Владимир Владимирович": 6,
-      "Фомин Сергей Александрович": 27,
-      "Фролов Владимир Иванович": 32,
-      "Химич Сергей Александрович": 8
+      "gas:candidate-vibid:2562000994789": 75,
+      "gas:candidate-vibid:25620001003788": 49,
+      "gas:candidate-vibid:2562000991818": 88,
+      "gas:candidate-vibid:25620001003464": 178,
+      "gas:candidate-vibid:25620001005325": 14,
+      "gas:candidate-vibid:25620001004283": 5,
+      "gas:candidate-vibid:25620001005338": 6,
+      "gas:candidate-vibid:25620001004865": 27,
+      "gas:candidate-vibid:2562000994730": 32,
+      "gas:candidate-vibid:25620001003230": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922488&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922488&type=464",
@@ -523,16 +523,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 157,
-      "Калинин Александр Владимирович": 64,
-      "Карпов Александр Николаевич": 129,
-      "Мищеряков Юрий Николаевич": 240,
-      "Рычагов Антон Владимирович": 8,
-      "Столпак Сергей Павлович": 10,
-      "Тишин Владимир Владимирович": 9,
-      "Фомин Сергей Александрович": 29,
-      "Фролов Владимир Иванович": 39,
-      "Химич Сергей Александрович": 12
+      "gas:candidate-vibid:2562000994789": 157,
+      "gas:candidate-vibid:25620001003788": 64,
+      "gas:candidate-vibid:2562000991818": 129,
+      "gas:candidate-vibid:25620001003464": 240,
+      "gas:candidate-vibid:25620001005325": 8,
+      "gas:candidate-vibid:25620001004283": 10,
+      "gas:candidate-vibid:25620001005338": 9,
+      "gas:candidate-vibid:25620001004865": 29,
+      "gas:candidate-vibid:2562000994730": 39,
+      "gas:candidate-vibid:25620001003230": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922488&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922488&type=464",
@@ -583,16 +583,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 102,
-      "Калинин Александр Владимирович": 60,
-      "Карпов Александр Николаевич": 120,
-      "Мищеряков Юрий Николаевич": 244,
-      "Рычагов Антон Владимирович": 5,
-      "Столпак Сергей Павлович": 4,
-      "Тишин Владимир Владимирович": 10,
-      "Фомин Сергей Александрович": 28,
-      "Фролов Владимир Иванович": 25,
-      "Химич Сергей Александрович": 6
+      "gas:candidate-vibid:2562000994789": 102,
+      "gas:candidate-vibid:25620001003788": 60,
+      "gas:candidate-vibid:2562000991818": 120,
+      "gas:candidate-vibid:25620001003464": 244,
+      "gas:candidate-vibid:25620001005325": 5,
+      "gas:candidate-vibid:25620001004283": 4,
+      "gas:candidate-vibid:25620001005338": 10,
+      "gas:candidate-vibid:25620001004865": 28,
+      "gas:candidate-vibid:2562000994730": 25,
+      "gas:candidate-vibid:25620001003230": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922488&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922488&type=464",
@@ -643,16 +643,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 21,
-      "Калинин Александр Владимирович": 27,
-      "Карпов Александр Николаевич": 22,
-      "Мищеряков Юрий Николаевич": 82,
-      "Рычагов Антон Владимирович": 3,
-      "Столпак Сергей Павлович": 2,
-      "Тишин Владимир Владимирович": 7,
-      "Фомин Сергей Александрович": 7,
-      "Фролов Владимир Иванович": 9,
-      "Химич Сергей Александрович": 3
+      "gas:candidate-vibid:2562000994789": 21,
+      "gas:candidate-vibid:25620001003788": 27,
+      "gas:candidate-vibid:2562000991818": 22,
+      "gas:candidate-vibid:25620001003464": 82,
+      "gas:candidate-vibid:25620001005325": 3,
+      "gas:candidate-vibid:25620001004283": 2,
+      "gas:candidate-vibid:25620001005338": 7,
+      "gas:candidate-vibid:25620001004865": 7,
+      "gas:candidate-vibid:2562000994730": 9,
+      "gas:candidate-vibid:25620001003230": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922488&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922488&type=464",
@@ -703,16 +703,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 7,
-      "Калинин Александр Владимирович": 5,
-      "Карпов Александр Николаевич": 14,
-      "Мищеряков Юрий Николаевич": 57,
-      "Рычагов Антон Владимирович": 2,
-      "Столпак Сергей Павлович": 0,
-      "Тишин Владимир Владимирович": 0,
-      "Фомин Сергей Александрович": 4,
-      "Фролов Владимир Иванович": 7,
-      "Химич Сергей Александрович": 1
+      "gas:candidate-vibid:2562000994789": 7,
+      "gas:candidate-vibid:25620001003788": 5,
+      "gas:candidate-vibid:2562000991818": 14,
+      "gas:candidate-vibid:25620001003464": 57,
+      "gas:candidate-vibid:25620001005325": 2,
+      "gas:candidate-vibid:25620001004283": 0,
+      "gas:candidate-vibid:25620001005338": 0,
+      "gas:candidate-vibid:25620001004865": 4,
+      "gas:candidate-vibid:2562000994730": 7,
+      "gas:candidate-vibid:25620001003230": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922488&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922488&type=464",
@@ -763,16 +763,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 7,
-      "Калинин Александр Владимирович": 7,
-      "Карпов Александр Николаевич": 15,
-      "Мищеряков Юрий Николаевич": 35,
-      "Рычагов Антон Владимирович": 1,
-      "Столпак Сергей Павлович": 2,
-      "Тишин Владимир Владимирович": 1,
-      "Фомин Сергей Александрович": 2,
-      "Фролов Владимир Иванович": 2,
-      "Химич Сергей Александрович": 0
+      "gas:candidate-vibid:2562000994789": 7,
+      "gas:candidate-vibid:25620001003788": 7,
+      "gas:candidate-vibid:2562000991818": 15,
+      "gas:candidate-vibid:25620001003464": 35,
+      "gas:candidate-vibid:25620001005325": 1,
+      "gas:candidate-vibid:25620001004283": 2,
+      "gas:candidate-vibid:25620001005338": 1,
+      "gas:candidate-vibid:25620001004865": 2,
+      "gas:candidate-vibid:2562000994730": 2,
+      "gas:candidate-vibid:25620001003230": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922488&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922488&type=464",
@@ -823,16 +823,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 9,
-      "Калинин Александр Владимирович": 4,
-      "Карпов Александр Николаевич": 4,
-      "Мищеряков Юрий Николаевич": 19,
-      "Рычагов Антон Владимирович": 0,
-      "Столпак Сергей Павлович": 1,
-      "Тишин Владимир Владимирович": 0,
-      "Фомин Сергей Александрович": 4,
-      "Фролов Владимир Иванович": 4,
-      "Химич Сергей Александрович": 1
+      "gas:candidate-vibid:2562000994789": 9,
+      "gas:candidate-vibid:25620001003788": 4,
+      "gas:candidate-vibid:2562000991818": 4,
+      "gas:candidate-vibid:25620001003464": 19,
+      "gas:candidate-vibid:25620001005325": 0,
+      "gas:candidate-vibid:25620001004283": 1,
+      "gas:candidate-vibid:25620001005338": 0,
+      "gas:candidate-vibid:25620001004865": 4,
+      "gas:candidate-vibid:2562000994730": 4,
+      "gas:candidate-vibid:25620001003230": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922488&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922488&type=464",
@@ -883,16 +883,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 10,
-      "Калинин Александр Владимирович": 10,
-      "Карпов Александр Николаевич": 9,
-      "Мищеряков Юрий Николаевич": 25,
-      "Рычагов Антон Владимирович": 3,
-      "Столпак Сергей Павлович": 1,
-      "Тишин Владимир Владимирович": 2,
-      "Фомин Сергей Александрович": 0,
-      "Фролов Владимир Иванович": 2,
-      "Химич Сергей Александрович": 1
+      "gas:candidate-vibid:2562000994789": 10,
+      "gas:candidate-vibid:25620001003788": 10,
+      "gas:candidate-vibid:2562000991818": 9,
+      "gas:candidate-vibid:25620001003464": 25,
+      "gas:candidate-vibid:25620001005325": 3,
+      "gas:candidate-vibid:25620001004283": 1,
+      "gas:candidate-vibid:25620001005338": 2,
+      "gas:candidate-vibid:25620001004865": 0,
+      "gas:candidate-vibid:2562000994730": 2,
+      "gas:candidate-vibid:25620001003230": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922488&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922488&type=464",
@@ -943,16 +943,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 15,
-      "Калинин Александр Владимирович": 9,
-      "Карпов Александр Николаевич": 21,
-      "Мищеряков Юрий Николаевич": 91,
-      "Рычагов Антон Владимирович": 0,
-      "Столпак Сергей Павлович": 2,
-      "Тишин Владимир Владимирович": 0,
-      "Фомин Сергей Александрович": 4,
-      "Фролов Владимир Иванович": 10,
-      "Химич Сергей Александрович": 2
+      "gas:candidate-vibid:2562000994789": 15,
+      "gas:candidate-vibid:25620001003788": 9,
+      "gas:candidate-vibid:2562000991818": 21,
+      "gas:candidate-vibid:25620001003464": 91,
+      "gas:candidate-vibid:25620001005325": 0,
+      "gas:candidate-vibid:25620001004283": 2,
+      "gas:candidate-vibid:25620001005338": 0,
+      "gas:candidate-vibid:25620001004865": 4,
+      "gas:candidate-vibid:2562000994730": 10,
+      "gas:candidate-vibid:25620001003230": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922488&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922488&type=464",
@@ -1003,16 +1003,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 17,
-      "Калинин Александр Владимирович": 25,
-      "Карпов Александр Николаевич": 28,
-      "Мищеряков Юрий Николаевич": 104,
-      "Рычагов Антон Владимирович": 3,
-      "Столпак Сергей Павлович": 0,
-      "Тишин Владимир Владимирович": 2,
-      "Фомин Сергей Александрович": 4,
-      "Фролов Владимир Иванович": 12,
-      "Химич Сергей Александрович": 0
+      "gas:candidate-vibid:2562000994789": 17,
+      "gas:candidate-vibid:25620001003788": 25,
+      "gas:candidate-vibid:2562000991818": 28,
+      "gas:candidate-vibid:25620001003464": 104,
+      "gas:candidate-vibid:25620001005325": 3,
+      "gas:candidate-vibid:25620001004283": 0,
+      "gas:candidate-vibid:25620001005338": 2,
+      "gas:candidate-vibid:25620001004865": 4,
+      "gas:candidate-vibid:2562000994730": 12,
+      "gas:candidate-vibid:25620001003230": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922488&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922488&type=464",
@@ -1063,16 +1063,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 46,
-      "Калинин Александр Владимирович": 40,
-      "Карпов Александр Николаевич": 39,
-      "Мищеряков Юрий Николаевич": 121,
-      "Рычагов Антон Владимирович": 4,
-      "Столпак Сергей Павлович": 0,
-      "Тишин Владимир Владимирович": 5,
-      "Фомин Сергей Александрович": 5,
-      "Фролов Владимир Иванович": 8,
-      "Химич Сергей Александрович": 5
+      "gas:candidate-vibid:2562000994789": 46,
+      "gas:candidate-vibid:25620001003788": 40,
+      "gas:candidate-vibid:2562000991818": 39,
+      "gas:candidate-vibid:25620001003464": 121,
+      "gas:candidate-vibid:25620001005325": 4,
+      "gas:candidate-vibid:25620001004283": 0,
+      "gas:candidate-vibid:25620001005338": 5,
+      "gas:candidate-vibid:25620001004865": 5,
+      "gas:candidate-vibid:2562000994730": 8,
+      "gas:candidate-vibid:25620001003230": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922488&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922488&type=464",
@@ -1123,16 +1123,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 20,
-      "Калинин Александр Владимирович": 25,
-      "Карпов Александр Николаевич": 40,
-      "Мищеряков Юрий Николаевич": 61,
-      "Рычагов Антон Владимирович": 6,
-      "Столпак Сергей Павлович": 1,
-      "Тишин Владимир Владимирович": 5,
-      "Фомин Сергей Александрович": 3,
-      "Фролов Владимир Иванович": 11,
-      "Химич Сергей Александрович": 3
+      "gas:candidate-vibid:2562000994789": 20,
+      "gas:candidate-vibid:25620001003788": 25,
+      "gas:candidate-vibid:2562000991818": 40,
+      "gas:candidate-vibid:25620001003464": 61,
+      "gas:candidate-vibid:25620001005325": 6,
+      "gas:candidate-vibid:25620001004283": 1,
+      "gas:candidate-vibid:25620001005338": 5,
+      "gas:candidate-vibid:25620001004865": 3,
+      "gas:candidate-vibid:2562000994730": 11,
+      "gas:candidate-vibid:25620001003230": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922488&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922488&type=464",
@@ -1183,16 +1183,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 20,
-      "Калинин Александр Владимирович": 20,
-      "Карпов Александр Николаевич": 39,
-      "Мищеряков Юрий Николаевич": 132,
-      "Рычагов Антон Владимирович": 6,
-      "Столпак Сергей Павлович": 4,
-      "Тишин Владимир Владимирович": 4,
-      "Фомин Сергей Александрович": 11,
-      "Фролов Владимир Иванович": 18,
-      "Химич Сергей Александрович": 5
+      "gas:candidate-vibid:2562000994789": 20,
+      "gas:candidate-vibid:25620001003788": 20,
+      "gas:candidate-vibid:2562000991818": 39,
+      "gas:candidate-vibid:25620001003464": 132,
+      "gas:candidate-vibid:25620001005325": 6,
+      "gas:candidate-vibid:25620001004283": 4,
+      "gas:candidate-vibid:25620001005338": 4,
+      "gas:candidate-vibid:25620001004865": 11,
+      "gas:candidate-vibid:2562000994730": 18,
+      "gas:candidate-vibid:25620001003230": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922488&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922488&type=464",
@@ -1243,16 +1243,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 5,
-      "Калинин Александр Владимирович": 10,
-      "Карпов Александр Николаевич": 13,
-      "Мищеряков Юрий Николаевич": 150,
-      "Рычагов Антон Владимирович": 2,
-      "Столпак Сергей Павлович": 2,
-      "Тишин Владимир Владимирович": 1,
-      "Фомин Сергей Александрович": 3,
-      "Фролов Владимир Иванович": 6,
-      "Химич Сергей Александрович": 1
+      "gas:candidate-vibid:2562000994789": 5,
+      "gas:candidate-vibid:25620001003788": 10,
+      "gas:candidate-vibid:2562000991818": 13,
+      "gas:candidate-vibid:25620001003464": 150,
+      "gas:candidate-vibid:25620001005325": 2,
+      "gas:candidate-vibid:25620001004283": 2,
+      "gas:candidate-vibid:25620001005338": 1,
+      "gas:candidate-vibid:25620001004865": 3,
+      "gas:candidate-vibid:2562000994730": 6,
+      "gas:candidate-vibid:25620001003230": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922488&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922488&type=464",
@@ -1303,16 +1303,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 32,
-      "Калинин Александр Владимирович": 41,
-      "Карпов Александр Николаевич": 35,
-      "Мищеряков Юрий Николаевич": 129,
-      "Рычагов Антон Владимирович": 7,
-      "Столпак Сергей Павлович": 3,
-      "Тишин Владимир Владимирович": 6,
-      "Фомин Сергей Александрович": 6,
-      "Фролов Владимир Иванович": 8,
-      "Химич Сергей Александрович": 6
+      "gas:candidate-vibid:2562000994789": 32,
+      "gas:candidate-vibid:25620001003788": 41,
+      "gas:candidate-vibid:2562000991818": 35,
+      "gas:candidate-vibid:25620001003464": 129,
+      "gas:candidate-vibid:25620001005325": 7,
+      "gas:candidate-vibid:25620001004283": 3,
+      "gas:candidate-vibid:25620001005338": 6,
+      "gas:candidate-vibid:25620001004865": 6,
+      "gas:candidate-vibid:2562000994730": 8,
+      "gas:candidate-vibid:25620001003230": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922488&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922488&type=464",
@@ -1363,16 +1363,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 35,
-      "Калинин Александр Владимирович": 29,
-      "Карпов Александр Николаевич": 24,
-      "Мищеряков Юрий Николаевич": 186,
-      "Рычагов Антон Владимирович": 7,
-      "Столпак Сергей Павлович": 3,
-      "Тишин Владимир Владимирович": 1,
-      "Фомин Сергей Александрович": 2,
-      "Фролов Владимир Иванович": 12,
-      "Химич Сергей Александрович": 2
+      "gas:candidate-vibid:2562000994789": 35,
+      "gas:candidate-vibid:25620001003788": 29,
+      "gas:candidate-vibid:2562000991818": 24,
+      "gas:candidate-vibid:25620001003464": 186,
+      "gas:candidate-vibid:25620001005325": 7,
+      "gas:candidate-vibid:25620001004283": 3,
+      "gas:candidate-vibid:25620001005338": 1,
+      "gas:candidate-vibid:25620001004865": 2,
+      "gas:candidate-vibid:2562000994730": 12,
+      "gas:candidate-vibid:25620001003230": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922488&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922488&type=464",
@@ -1423,16 +1423,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 47,
-      "Калинин Александр Владимирович": 70,
-      "Карпов Александр Николаевич": 84,
-      "Мищеряков Юрий Николаевич": 219,
-      "Рычагов Антон Владимирович": 9,
-      "Столпак Сергей Павлович": 10,
-      "Тишин Владимир Владимирович": 21,
-      "Фомин Сергей Александрович": 18,
-      "Фролов Владимир Иванович": 62,
-      "Химич Сергей Александрович": 10
+      "gas:candidate-vibid:2562000994789": 47,
+      "gas:candidate-vibid:25620001003788": 70,
+      "gas:candidate-vibid:2562000991818": 84,
+      "gas:candidate-vibid:25620001003464": 219,
+      "gas:candidate-vibid:25620001005325": 9,
+      "gas:candidate-vibid:25620001004283": 10,
+      "gas:candidate-vibid:25620001005338": 21,
+      "gas:candidate-vibid:25620001004865": 18,
+      "gas:candidate-vibid:2562000994730": 62,
+      "gas:candidate-vibid:25620001003230": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922489&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922489&type=464",
@@ -1483,16 +1483,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 52,
-      "Калинин Александр Владимирович": 29,
-      "Карпов Александр Николаевич": 68,
-      "Мищеряков Юрий Николаевич": 266,
-      "Рычагов Антон Владимирович": 12,
-      "Столпак Сергей Павлович": 4,
-      "Тишин Владимир Владимирович": 16,
-      "Фомин Сергей Александрович": 18,
-      "Фролов Владимир Иванович": 80,
-      "Химич Сергей Александрович": 5
+      "gas:candidate-vibid:2562000994789": 52,
+      "gas:candidate-vibid:25620001003788": 29,
+      "gas:candidate-vibid:2562000991818": 68,
+      "gas:candidate-vibid:25620001003464": 266,
+      "gas:candidate-vibid:25620001005325": 12,
+      "gas:candidate-vibid:25620001004283": 4,
+      "gas:candidate-vibid:25620001005338": 16,
+      "gas:candidate-vibid:25620001004865": 18,
+      "gas:candidate-vibid:2562000994730": 80,
+      "gas:candidate-vibid:25620001003230": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922489&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922489&type=464",
@@ -1543,16 +1543,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 24,
-      "Калинин Александр Владимирович": 15,
-      "Карпов Александр Николаевич": 20,
-      "Мищеряков Юрий Николаевич": 241,
-      "Рычагов Антон Владимирович": 6,
-      "Столпак Сергей Павлович": 5,
-      "Тишин Владимир Владимирович": 0,
-      "Фомин Сергей Александрович": 2,
-      "Фролов Владимир Иванович": 17,
-      "Химич Сергей Александрович": 2
+      "gas:candidate-vibid:2562000994789": 24,
+      "gas:candidate-vibid:25620001003788": 15,
+      "gas:candidate-vibid:2562000991818": 20,
+      "gas:candidate-vibid:25620001003464": 241,
+      "gas:candidate-vibid:25620001005325": 6,
+      "gas:candidate-vibid:25620001004283": 5,
+      "gas:candidate-vibid:25620001005338": 0,
+      "gas:candidate-vibid:25620001004865": 2,
+      "gas:candidate-vibid:2562000994730": 17,
+      "gas:candidate-vibid:25620001003230": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922489&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922489&type=464",
@@ -1603,16 +1603,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 19,
-      "Калинин Александр Владимирович": 5,
-      "Карпов Александр Николаевич": 17,
-      "Мищеряков Юрий Николаевич": 62,
-      "Рычагов Антон Владимирович": 2,
-      "Столпак Сергей Павлович": 0,
-      "Тишин Владимир Владимирович": 1,
-      "Фомин Сергей Александрович": 4,
-      "Фролов Владимир Иванович": 14,
-      "Химич Сергей Александрович": 1
+      "gas:candidate-vibid:2562000994789": 19,
+      "gas:candidate-vibid:25620001003788": 5,
+      "gas:candidate-vibid:2562000991818": 17,
+      "gas:candidate-vibid:25620001003464": 62,
+      "gas:candidate-vibid:25620001005325": 2,
+      "gas:candidate-vibid:25620001004283": 0,
+      "gas:candidate-vibid:25620001005338": 1,
+      "gas:candidate-vibid:25620001004865": 4,
+      "gas:candidate-vibid:2562000994730": 14,
+      "gas:candidate-vibid:25620001003230": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922489&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922489&type=464",
@@ -1663,16 +1663,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 7,
-      "Калинин Александр Владимирович": 4,
-      "Карпов Александр Николаевич": 8,
-      "Мищеряков Юрий Николаевич": 68,
-      "Рычагов Антон Владимирович": 0,
-      "Столпак Сергей Павлович": 0,
-      "Тишин Владимир Владимирович": 1,
-      "Фомин Сергей Александрович": 0,
-      "Фролов Владимир Иванович": 6,
-      "Химич Сергей Александрович": 3
+      "gas:candidate-vibid:2562000994789": 7,
+      "gas:candidate-vibid:25620001003788": 4,
+      "gas:candidate-vibid:2562000991818": 8,
+      "gas:candidate-vibid:25620001003464": 68,
+      "gas:candidate-vibid:25620001005325": 0,
+      "gas:candidate-vibid:25620001004283": 0,
+      "gas:candidate-vibid:25620001005338": 1,
+      "gas:candidate-vibid:25620001004865": 0,
+      "gas:candidate-vibid:2562000994730": 6,
+      "gas:candidate-vibid:25620001003230": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922489&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922489&type=464",
@@ -1723,16 +1723,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 19,
-      "Калинин Александр Владимирович": 15,
-      "Карпов Александр Николаевич": 45,
-      "Мищеряков Юрий Николаевич": 145,
-      "Рычагов Антон Владимирович": 5,
-      "Столпак Сергей Павлович": 5,
-      "Тишин Владимир Владимирович": 1,
-      "Фомин Сергей Александрович": 1,
-      "Фролов Владимир Иванович": 26,
-      "Химич Сергей Александрович": 3
+      "gas:candidate-vibid:2562000994789": 19,
+      "gas:candidate-vibid:25620001003788": 15,
+      "gas:candidate-vibid:2562000991818": 45,
+      "gas:candidate-vibid:25620001003464": 145,
+      "gas:candidate-vibid:25620001005325": 5,
+      "gas:candidate-vibid:25620001004283": 5,
+      "gas:candidate-vibid:25620001005338": 1,
+      "gas:candidate-vibid:25620001004865": 1,
+      "gas:candidate-vibid:2562000994730": 26,
+      "gas:candidate-vibid:25620001003230": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922489&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922489&type=464",
@@ -1783,16 +1783,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 8,
-      "Калинин Александр Владимирович": 8,
-      "Карпов Александр Николаевич": 19,
-      "Мищеряков Юрий Николаевич": 44,
-      "Рычагов Антон Владимирович": 2,
-      "Столпак Сергей Павлович": 6,
-      "Тишин Владимир Владимирович": 6,
-      "Фомин Сергей Александрович": 2,
-      "Фролов Владимир Иванович": 13,
-      "Химич Сергей Александрович": 6
+      "gas:candidate-vibid:2562000994789": 8,
+      "gas:candidate-vibid:25620001003788": 8,
+      "gas:candidate-vibid:2562000991818": 19,
+      "gas:candidate-vibid:25620001003464": 44,
+      "gas:candidate-vibid:25620001005325": 2,
+      "gas:candidate-vibid:25620001004283": 6,
+      "gas:candidate-vibid:25620001005338": 6,
+      "gas:candidate-vibid:25620001004865": 2,
+      "gas:candidate-vibid:2562000994730": 13,
+      "gas:candidate-vibid:25620001003230": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922489&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922489&type=464",
@@ -1843,16 +1843,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 23,
-      "Калинин Александр Владимирович": 32,
-      "Карпов Александр Николаевич": 49,
-      "Мищеряков Юрий Николаевич": 137,
-      "Рычагов Антон Владимирович": 6,
-      "Столпак Сергей Павлович": 2,
-      "Тишин Владимир Владимирович": 5,
-      "Фомин Сергей Александрович": 3,
-      "Фролов Владимир Иванович": 28,
-      "Химич Сергей Александрович": 4
+      "gas:candidate-vibid:2562000994789": 23,
+      "gas:candidate-vibid:25620001003788": 32,
+      "gas:candidate-vibid:2562000991818": 49,
+      "gas:candidate-vibid:25620001003464": 137,
+      "gas:candidate-vibid:25620001005325": 6,
+      "gas:candidate-vibid:25620001004283": 2,
+      "gas:candidate-vibid:25620001005338": 5,
+      "gas:candidate-vibid:25620001004865": 3,
+      "gas:candidate-vibid:2562000994730": 28,
+      "gas:candidate-vibid:25620001003230": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922489&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922489&type=464",
@@ -1903,16 +1903,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 46,
-      "Калинин Александр Владимирович": 39,
-      "Карпов Александр Николаевич": 81,
-      "Мищеряков Юрий Николаевич": 198,
-      "Рычагов Антон Владимирович": 5,
-      "Столпак Сергей Павлович": 4,
-      "Тишин Владимир Владимирович": 9,
-      "Фомин Сергей Александрович": 11,
-      "Фролов Владимир Иванович": 50,
-      "Химич Сергей Александрович": 9
+      "gas:candidate-vibid:2562000994789": 46,
+      "gas:candidate-vibid:25620001003788": 39,
+      "gas:candidate-vibid:2562000991818": 81,
+      "gas:candidate-vibid:25620001003464": 198,
+      "gas:candidate-vibid:25620001005325": 5,
+      "gas:candidate-vibid:25620001004283": 4,
+      "gas:candidate-vibid:25620001005338": 9,
+      "gas:candidate-vibid:25620001004865": 11,
+      "gas:candidate-vibid:2562000994730": 50,
+      "gas:candidate-vibid:25620001003230": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922489&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922489&type=464",
@@ -1963,16 +1963,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 22,
-      "Калинин Александр Владимирович": 12,
-      "Карпов Александр Николаевич": 13,
-      "Мищеряков Юрий Николаевич": 76,
-      "Рычагов Антон Владимирович": 0,
-      "Столпак Сергей Павлович": 0,
-      "Тишин Владимир Владимирович": 1,
-      "Фомин Сергей Александрович": 5,
-      "Фролов Владимир Иванович": 9,
-      "Химич Сергей Александрович": 1
+      "gas:candidate-vibid:2562000994789": 22,
+      "gas:candidate-vibid:25620001003788": 12,
+      "gas:candidate-vibid:2562000991818": 13,
+      "gas:candidate-vibid:25620001003464": 76,
+      "gas:candidate-vibid:25620001005325": 0,
+      "gas:candidate-vibid:25620001004283": 0,
+      "gas:candidate-vibid:25620001005338": 1,
+      "gas:candidate-vibid:25620001004865": 5,
+      "gas:candidate-vibid:2562000994730": 9,
+      "gas:candidate-vibid:25620001003230": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922489&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922489&type=464",
@@ -2023,16 +2023,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 40,
-      "Калинин Александр Владимирович": 15,
-      "Карпов Александр Николаевич": 29,
-      "Мищеряков Юрий Николаевич": 133,
-      "Рычагов Антон Владимирович": 5,
-      "Столпак Сергей Павлович": 2,
-      "Тишин Владимир Владимирович": 3,
-      "Фомин Сергей Александрович": 5,
-      "Фролов Владимир Иванович": 29,
-      "Химич Сергей Александрович": 2
+      "gas:candidate-vibid:2562000994789": 40,
+      "gas:candidate-vibid:25620001003788": 15,
+      "gas:candidate-vibid:2562000991818": 29,
+      "gas:candidate-vibid:25620001003464": 133,
+      "gas:candidate-vibid:25620001005325": 5,
+      "gas:candidate-vibid:25620001004283": 2,
+      "gas:candidate-vibid:25620001005338": 3,
+      "gas:candidate-vibid:25620001004865": 5,
+      "gas:candidate-vibid:2562000994730": 29,
+      "gas:candidate-vibid:25620001003230": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922489&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922489&type=464",
@@ -2083,16 +2083,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 31,
-      "Калинин Александр Владимирович": 27,
-      "Карпов Александр Николаевич": 57,
-      "Мищеряков Юрий Николаевич": 171,
-      "Рычагов Антон Владимирович": 6,
-      "Столпак Сергей Павлович": 1,
-      "Тишин Владимир Владимирович": 1,
-      "Фомин Сергей Александрович": 7,
-      "Фролов Владимир Иванович": 40,
-      "Химич Сергей Александрович": 5
+      "gas:candidate-vibid:2562000994789": 31,
+      "gas:candidate-vibid:25620001003788": 27,
+      "gas:candidate-vibid:2562000991818": 57,
+      "gas:candidate-vibid:25620001003464": 171,
+      "gas:candidate-vibid:25620001005325": 6,
+      "gas:candidate-vibid:25620001004283": 1,
+      "gas:candidate-vibid:25620001005338": 1,
+      "gas:candidate-vibid:25620001004865": 7,
+      "gas:candidate-vibid:2562000994730": 40,
+      "gas:candidate-vibid:25620001003230": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922489&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922489&type=464",
@@ -2143,16 +2143,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 16,
-      "Калинин Александр Владимирович": 22,
-      "Карпов Александр Николаевич": 46,
-      "Мищеряков Юрий Николаевич": 117,
-      "Рычагов Антон Владимирович": 4,
-      "Столпак Сергей Павлович": 2,
-      "Тишин Владимир Владимирович": 11,
-      "Фомин Сергей Александрович": 4,
-      "Фролов Владимир Иванович": 25,
-      "Химич Сергей Александрович": 5
+      "gas:candidate-vibid:2562000994789": 16,
+      "gas:candidate-vibid:25620001003788": 22,
+      "gas:candidate-vibid:2562000991818": 46,
+      "gas:candidate-vibid:25620001003464": 117,
+      "gas:candidate-vibid:25620001005325": 4,
+      "gas:candidate-vibid:25620001004283": 2,
+      "gas:candidate-vibid:25620001005338": 11,
+      "gas:candidate-vibid:25620001004865": 4,
+      "gas:candidate-vibid:2562000994730": 25,
+      "gas:candidate-vibid:25620001003230": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922489&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922489&type=464",
@@ -2203,16 +2203,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 56,
-      "Калинин Александр Владимирович": 30,
-      "Карпов Александр Николаевич": 100,
-      "Мищеряков Юрий Николаевич": 284,
-      "Рычагов Антон Владимирович": 9,
-      "Столпак Сергей Павлович": 3,
-      "Тишин Владимир Владимирович": 9,
-      "Фомин Сергей Александрович": 31,
-      "Фролов Владимир Иванович": 63,
-      "Химич Сергей Александрович": 3
+      "gas:candidate-vibid:2562000994789": 56,
+      "gas:candidate-vibid:25620001003788": 30,
+      "gas:candidate-vibid:2562000991818": 100,
+      "gas:candidate-vibid:25620001003464": 284,
+      "gas:candidate-vibid:25620001005325": 9,
+      "gas:candidate-vibid:25620001004283": 3,
+      "gas:candidate-vibid:25620001005338": 9,
+      "gas:candidate-vibid:25620001004865": 31,
+      "gas:candidate-vibid:2562000994730": 63,
+      "gas:candidate-vibid:25620001003230": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922489&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922489&type=464",
@@ -2263,16 +2263,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 74,
-      "Калинин Александр Владимирович": 38,
-      "Карпов Александр Николаевич": 117,
-      "Мищеряков Юрий Николаевич": 342,
-      "Рычагов Антон Владимирович": 15,
-      "Столпак Сергей Павлович": 7,
-      "Тишин Владимир Владимирович": 19,
-      "Фомин Сергей Александрович": 17,
-      "Фролов Владимир Иванович": 90,
-      "Химич Сергей Александрович": 12
+      "gas:candidate-vibid:2562000994789": 74,
+      "gas:candidate-vibid:25620001003788": 38,
+      "gas:candidate-vibid:2562000991818": 117,
+      "gas:candidate-vibid:25620001003464": 342,
+      "gas:candidate-vibid:25620001005325": 15,
+      "gas:candidate-vibid:25620001004283": 7,
+      "gas:candidate-vibid:25620001005338": 19,
+      "gas:candidate-vibid:25620001004865": 17,
+      "gas:candidate-vibid:2562000994730": 90,
+      "gas:candidate-vibid:25620001003230": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922489&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922489&type=464",
@@ -2323,16 +2323,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 45,
-      "Калинин Александр Владимирович": 35,
-      "Карпов Александр Николаевич": 107,
-      "Мищеряков Юрий Николаевич": 260,
-      "Рычагов Антон Владимирович": 9,
-      "Столпак Сергей Павлович": 9,
-      "Тишин Владимир Владимирович": 11,
-      "Фомин Сергей Александрович": 12,
-      "Фролов Владимир Иванович": 41,
-      "Химич Сергей Александрович": 5
+      "gas:candidate-vibid:2562000994789": 45,
+      "gas:candidate-vibid:25620001003788": 35,
+      "gas:candidate-vibid:2562000991818": 107,
+      "gas:candidate-vibid:25620001003464": 260,
+      "gas:candidate-vibid:25620001005325": 9,
+      "gas:candidate-vibid:25620001004283": 9,
+      "gas:candidate-vibid:25620001005338": 11,
+      "gas:candidate-vibid:25620001004865": 12,
+      "gas:candidate-vibid:2562000994730": 41,
+      "gas:candidate-vibid:25620001003230": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922489&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922489&type=464",
@@ -2383,16 +2383,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 56,
-      "Калинин Александр Владимирович": 41,
-      "Карпов Александр Николаевич": 134,
-      "Мищеряков Юрий Николаевич": 280,
-      "Рычагов Антон Владимирович": 13,
-      "Столпак Сергей Павлович": 8,
-      "Тишин Владимир Владимирович": 11,
-      "Фомин Сергей Александрович": 19,
-      "Фролов Владимир Иванович": 64,
-      "Химич Сергей Александрович": 7
+      "gas:candidate-vibid:2562000994789": 56,
+      "gas:candidate-vibid:25620001003788": 41,
+      "gas:candidate-vibid:2562000991818": 134,
+      "gas:candidate-vibid:25620001003464": 280,
+      "gas:candidate-vibid:25620001005325": 13,
+      "gas:candidate-vibid:25620001004283": 8,
+      "gas:candidate-vibid:25620001005338": 11,
+      "gas:candidate-vibid:25620001004865": 19,
+      "gas:candidate-vibid:2562000994730": 64,
+      "gas:candidate-vibid:25620001003230": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922489&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922489&type=464",
@@ -2443,16 +2443,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 89,
-      "Калинин Александр Владимирович": 54,
-      "Карпов Александр Николаевич": 181,
-      "Мищеряков Юрий Николаевич": 314,
-      "Рычагов Антон Владимирович": 10,
-      "Столпак Сергей Павлович": 7,
-      "Тишин Владимир Владимирович": 26,
-      "Фомин Сергей Александрович": 25,
-      "Фролов Владимир Иванович": 113,
-      "Химич Сергей Александрович": 12
+      "gas:candidate-vibid:2562000994789": 89,
+      "gas:candidate-vibid:25620001003788": 54,
+      "gas:candidate-vibid:2562000991818": 181,
+      "gas:candidate-vibid:25620001003464": 314,
+      "gas:candidate-vibid:25620001005325": 10,
+      "gas:candidate-vibid:25620001004283": 7,
+      "gas:candidate-vibid:25620001005338": 26,
+      "gas:candidate-vibid:25620001004865": 25,
+      "gas:candidate-vibid:2562000994730": 113,
+      "gas:candidate-vibid:25620001003230": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922489&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922489&type=464",
@@ -2503,16 +2503,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 42,
-      "Калинин Александр Владимирович": 31,
-      "Карпов Александр Николаевич": 62,
-      "Мищеряков Юрий Николаевич": 224,
-      "Рычагов Антон Владимирович": 5,
-      "Столпак Сергей Павлович": 6,
-      "Тишин Владимир Владимирович": 13,
-      "Фомин Сергей Александрович": 6,
-      "Фролов Владимир Иванович": 52,
-      "Химич Сергей Александрович": 4
+      "gas:candidate-vibid:2562000994789": 42,
+      "gas:candidate-vibid:25620001003788": 31,
+      "gas:candidate-vibid:2562000991818": 62,
+      "gas:candidate-vibid:25620001003464": 224,
+      "gas:candidate-vibid:25620001005325": 5,
+      "gas:candidate-vibid:25620001004283": 6,
+      "gas:candidate-vibid:25620001005338": 13,
+      "gas:candidate-vibid:25620001004865": 6,
+      "gas:candidate-vibid:2562000994730": 52,
+      "gas:candidate-vibid:25620001003230": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922489&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922489&type=464",
@@ -2563,16 +2563,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 44,
-      "Калинин Александр Владимирович": 37,
-      "Карпов Александр Николаевич": 73,
-      "Мищеряков Юрий Николаевич": 281,
-      "Рычагов Антон Владимирович": 6,
-      "Столпак Сергей Павлович": 7,
-      "Тишин Владимир Владимирович": 3,
-      "Фомин Сергей Александрович": 5,
-      "Фролов Владимир Иванович": 51,
-      "Химич Сергей Александрович": 4
+      "gas:candidate-vibid:2562000994789": 44,
+      "gas:candidate-vibid:25620001003788": 37,
+      "gas:candidate-vibid:2562000991818": 73,
+      "gas:candidate-vibid:25620001003464": 281,
+      "gas:candidate-vibid:25620001005325": 6,
+      "gas:candidate-vibid:25620001004283": 7,
+      "gas:candidate-vibid:25620001005338": 3,
+      "gas:candidate-vibid:25620001004865": 5,
+      "gas:candidate-vibid:2562000994730": 51,
+      "gas:candidate-vibid:25620001003230": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922489&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922489&type=464",
@@ -2623,16 +2623,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 15,
-      "Калинин Александр Владимирович": 17,
-      "Карпов Александр Николаевич": 51,
-      "Мищеряков Юрий Николаевич": 116,
-      "Рычагов Антон Владимирович": 4,
-      "Столпак Сергей Павлович": 2,
-      "Тишин Владимир Владимирович": 6,
-      "Фомин Сергей Александрович": 1,
-      "Фролов Владимир Иванович": 20,
-      "Химич Сергей Александрович": 2
+      "gas:candidate-vibid:2562000994789": 15,
+      "gas:candidate-vibid:25620001003788": 17,
+      "gas:candidate-vibid:2562000991818": 51,
+      "gas:candidate-vibid:25620001003464": 116,
+      "gas:candidate-vibid:25620001005325": 4,
+      "gas:candidate-vibid:25620001004283": 2,
+      "gas:candidate-vibid:25620001005338": 6,
+      "gas:candidate-vibid:25620001004865": 1,
+      "gas:candidate-vibid:2562000994730": 20,
+      "gas:candidate-vibid:25620001003230": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922489&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922489&type=464",
@@ -2683,16 +2683,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 45,
-      "Калинин Александр Владимирович": 45,
-      "Карпов Александр Николаевич": 69,
-      "Мищеряков Юрий Николаевич": 342,
-      "Рычагов Антон Владимирович": 6,
-      "Столпак Сергей Павлович": 9,
-      "Тишин Владимир Владимирович": 9,
-      "Фомин Сергей Александрович": 6,
-      "Фролов Владимир Иванович": 68,
-      "Химич Сергей Александрович": 5
+      "gas:candidate-vibid:2562000994789": 45,
+      "gas:candidate-vibid:25620001003788": 45,
+      "gas:candidate-vibid:2562000991818": 69,
+      "gas:candidate-vibid:25620001003464": 342,
+      "gas:candidate-vibid:25620001005325": 6,
+      "gas:candidate-vibid:25620001004283": 9,
+      "gas:candidate-vibid:25620001005338": 9,
+      "gas:candidate-vibid:25620001004865": 6,
+      "gas:candidate-vibid:2562000994730": 68,
+      "gas:candidate-vibid:25620001003230": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922489&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922489&type=464",
@@ -2743,16 +2743,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 40,
-      "Калинин Александр Владимирович": 43,
-      "Карпов Александр Николаевич": 57,
-      "Мищеряков Юрий Николаевич": 149,
-      "Рычагов Антон Владимирович": 1,
-      "Столпак Сергей Павлович": 0,
-      "Тишин Владимир Владимирович": 8,
-      "Фомин Сергей Александрович": 5,
-      "Фролов Владимир Иванович": 44,
-      "Химич Сергей Александрович": 3
+      "gas:candidate-vibid:2562000994789": 40,
+      "gas:candidate-vibid:25620001003788": 43,
+      "gas:candidate-vibid:2562000991818": 57,
+      "gas:candidate-vibid:25620001003464": 149,
+      "gas:candidate-vibid:25620001005325": 1,
+      "gas:candidate-vibid:25620001004283": 0,
+      "gas:candidate-vibid:25620001005338": 8,
+      "gas:candidate-vibid:25620001004865": 5,
+      "gas:candidate-vibid:2562000994730": 44,
+      "gas:candidate-vibid:25620001003230": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922489&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922489&type=464",
@@ -2803,16 +2803,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 94,
-      "Калинин Александр Владимирович": 80,
-      "Карпов Александр Николаевич": 113,
-      "Мищеряков Юрий Николаевич": 280,
-      "Рычагов Антон Владимирович": 6,
-      "Столпак Сергей Павлович": 3,
-      "Тишин Владимир Владимирович": 16,
-      "Фомин Сергей Александрович": 14,
-      "Фролов Владимир Иванович": 73,
-      "Химич Сергей Александрович": 11
+      "gas:candidate-vibid:2562000994789": 94,
+      "gas:candidate-vibid:25620001003788": 80,
+      "gas:candidate-vibid:2562000991818": 113,
+      "gas:candidate-vibid:25620001003464": 280,
+      "gas:candidate-vibid:25620001005325": 6,
+      "gas:candidate-vibid:25620001004283": 3,
+      "gas:candidate-vibid:25620001005338": 16,
+      "gas:candidate-vibid:25620001004865": 14,
+      "gas:candidate-vibid:2562000994730": 73,
+      "gas:candidate-vibid:25620001003230": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922489&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922489&type=464",
@@ -2863,16 +2863,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 86,
-      "Калинин Александр Владимирович": 83,
-      "Карпов Александр Николаевич": 148,
-      "Мищеряков Юрий Николаевич": 323,
-      "Рычагов Антон Владимирович": 16,
-      "Столпак Сергей Павлович": 8,
-      "Тишин Владимир Владимирович": 15,
-      "Фомин Сергей Александрович": 20,
-      "Фролов Владимир Иванович": 72,
-      "Химич Сергей Александрович": 10
+      "gas:candidate-vibid:2562000994789": 86,
+      "gas:candidate-vibid:25620001003788": 83,
+      "gas:candidate-vibid:2562000991818": 148,
+      "gas:candidate-vibid:25620001003464": 323,
+      "gas:candidate-vibid:25620001005325": 16,
+      "gas:candidate-vibid:25620001004283": 8,
+      "gas:candidate-vibid:25620001005338": 15,
+      "gas:candidate-vibid:25620001004865": 20,
+      "gas:candidate-vibid:2562000994730": 72,
+      "gas:candidate-vibid:25620001003230": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922489&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922489&type=464",
@@ -2923,16 +2923,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 37,
-      "Калинин Александр Владимирович": 38,
-      "Карпов Александр Николаевич": 69,
-      "Мищеряков Юрий Николаевич": 137,
-      "Рычагов Антон Владимирович": 8,
-      "Столпак Сергей Павлович": 5,
-      "Тишин Владимир Владимирович": 3,
-      "Фомин Сергей Александрович": 10,
-      "Фролов Владимир Иванович": 32,
-      "Химич Сергей Александрович": 6
+      "gas:candidate-vibid:2562000994789": 37,
+      "gas:candidate-vibid:25620001003788": 38,
+      "gas:candidate-vibid:2562000991818": 69,
+      "gas:candidate-vibid:25620001003464": 137,
+      "gas:candidate-vibid:25620001005325": 8,
+      "gas:candidate-vibid:25620001004283": 5,
+      "gas:candidate-vibid:25620001005338": 3,
+      "gas:candidate-vibid:25620001004865": 10,
+      "gas:candidate-vibid:2562000994730": 32,
+      "gas:candidate-vibid:25620001003230": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922489&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922489&type=464",
@@ -2983,16 +2983,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 43,
-      "Калинин Александр Владимирович": 35,
-      "Карпов Александр Николаевич": 54,
-      "Мищеряков Юрий Николаевич": 136,
-      "Рычагов Антон Владимирович": 7,
-      "Столпак Сергей Павлович": 2,
-      "Тишин Владимир Владимирович": 7,
-      "Фомин Сергей Александрович": 8,
-      "Фролов Владимир Иванович": 50,
-      "Химич Сергей Александрович": 7
+      "gas:candidate-vibid:2562000994789": 43,
+      "gas:candidate-vibid:25620001003788": 35,
+      "gas:candidate-vibid:2562000991818": 54,
+      "gas:candidate-vibid:25620001003464": 136,
+      "gas:candidate-vibid:25620001005325": 7,
+      "gas:candidate-vibid:25620001004283": 2,
+      "gas:candidate-vibid:25620001005338": 7,
+      "gas:candidate-vibid:25620001004865": 8,
+      "gas:candidate-vibid:2562000994730": 50,
+      "gas:candidate-vibid:25620001003230": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922489&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922489&type=464",
@@ -3043,16 +3043,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 27,
-      "Калинин Александр Владимирович": 18,
-      "Карпов Александр Николаевич": 32,
-      "Мищеряков Юрий Николаевич": 100,
-      "Рычагов Антон Владимирович": 8,
-      "Столпак Сергей Павлович": 1,
-      "Тишин Владимир Владимирович": 2,
-      "Фомин Сергей Александрович": 1,
-      "Фролов Владимир Иванович": 23,
-      "Химич Сергей Александрович": 3
+      "gas:candidate-vibid:2562000994789": 27,
+      "gas:candidate-vibid:25620001003788": 18,
+      "gas:candidate-vibid:2562000991818": 32,
+      "gas:candidate-vibid:25620001003464": 100,
+      "gas:candidate-vibid:25620001005325": 8,
+      "gas:candidate-vibid:25620001004283": 1,
+      "gas:candidate-vibid:25620001005338": 2,
+      "gas:candidate-vibid:25620001004865": 1,
+      "gas:candidate-vibid:2562000994730": 23,
+      "gas:candidate-vibid:25620001003230": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922489&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922489&type=464",
@@ -3103,16 +3103,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 19,
-      "Калинин Александр Владимирович": 5,
-      "Карпов Александр Николаевич": 4,
-      "Мищеряков Юрий Николаевич": 56,
-      "Рычагов Антон Владимирович": 3,
-      "Столпак Сергей Павлович": 1,
-      "Тишин Владимир Владимирович": 2,
-      "Фомин Сергей Александрович": 1,
-      "Фролов Владимир Иванович": 2,
-      "Химич Сергей Александрович": 2
+      "gas:candidate-vibid:2562000994789": 19,
+      "gas:candidate-vibid:25620001003788": 5,
+      "gas:candidate-vibid:2562000991818": 4,
+      "gas:candidate-vibid:25620001003464": 56,
+      "gas:candidate-vibid:25620001005325": 3,
+      "gas:candidate-vibid:25620001004283": 1,
+      "gas:candidate-vibid:25620001005338": 2,
+      "gas:candidate-vibid:25620001004865": 1,
+      "gas:candidate-vibid:2562000994730": 2,
+      "gas:candidate-vibid:25620001003230": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922489&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922489&type=464",
@@ -3163,16 +3163,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 65,
-      "Калинин Александр Владимирович": 58,
-      "Карпов Александр Николаевич": 91,
-      "Мищеряков Юрий Николаевич": 237,
-      "Рычагов Антон Владимирович": 12,
-      "Столпак Сергей Павлович": 5,
-      "Тишин Владимир Владимирович": 28,
-      "Фомин Сергей Александрович": 12,
-      "Фролов Владимир Иванович": 88,
-      "Химич Сергей Александрович": 10
+      "gas:candidate-vibid:2562000994789": 65,
+      "gas:candidate-vibid:25620001003788": 58,
+      "gas:candidate-vibid:2562000991818": 91,
+      "gas:candidate-vibid:25620001003464": 237,
+      "gas:candidate-vibid:25620001005325": 12,
+      "gas:candidate-vibid:25620001004283": 5,
+      "gas:candidate-vibid:25620001005338": 28,
+      "gas:candidate-vibid:25620001004865": 12,
+      "gas:candidate-vibid:2562000994730": 88,
+      "gas:candidate-vibid:25620001003230": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922489&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922489&type=464",
@@ -3223,16 +3223,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 12,
-      "Калинин Александр Владимирович": 22,
-      "Карпов Александр Николаевич": 46,
-      "Мищеряков Юрий Николаевич": 102,
-      "Рычагов Антон Владимирович": 9,
-      "Столпак Сергей Павлович": 2,
-      "Тишин Владимир Владимирович": 7,
-      "Фомин Сергей Александрович": 6,
-      "Фролов Владимир Иванович": 20,
-      "Химич Сергей Александрович": 3
+      "gas:candidate-vibid:2562000994789": 12,
+      "gas:candidate-vibid:25620001003788": 22,
+      "gas:candidate-vibid:2562000991818": 46,
+      "gas:candidate-vibid:25620001003464": 102,
+      "gas:candidate-vibid:25620001005325": 9,
+      "gas:candidate-vibid:25620001004283": 2,
+      "gas:candidate-vibid:25620001005338": 7,
+      "gas:candidate-vibid:25620001004865": 6,
+      "gas:candidate-vibid:2562000994730": 20,
+      "gas:candidate-vibid:25620001003230": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922489&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922489&type=464",
@@ -3283,16 +3283,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 58,
-      "Калинин Александр Владимирович": 58,
-      "Карпов Александр Николаевич": 102,
-      "Мищеряков Юрий Николаевич": 249,
-      "Рычагов Антон Владимирович": 10,
-      "Столпак Сергей Павлович": 6,
-      "Тишин Владимир Владимирович": 26,
-      "Фомин Сергей Александрович": 30,
-      "Фролов Владимир Иванович": 56,
-      "Химич Сергей Александрович": 14
+      "gas:candidate-vibid:2562000994789": 58,
+      "gas:candidate-vibid:25620001003788": 58,
+      "gas:candidate-vibid:2562000991818": 102,
+      "gas:candidate-vibid:25620001003464": 249,
+      "gas:candidate-vibid:25620001005325": 10,
+      "gas:candidate-vibid:25620001004283": 6,
+      "gas:candidate-vibid:25620001005338": 26,
+      "gas:candidate-vibid:25620001004865": 30,
+      "gas:candidate-vibid:2562000994730": 56,
+      "gas:candidate-vibid:25620001003230": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922489&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922489&type=464",
@@ -3343,16 +3343,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 81,
-      "Калинин Александр Владимирович": 46,
-      "Карпов Александр Николаевич": 107,
-      "Мищеряков Юрий Николаевич": 344,
-      "Рычагов Антон Владимирович": 14,
-      "Столпак Сергей Павлович": 12,
-      "Тишин Владимир Владимирович": 40,
-      "Фомин Сергей Александрович": 48,
-      "Фролов Владимир Иванович": 115,
-      "Химич Сергей Александрович": 17
+      "gas:candidate-vibid:2562000994789": 81,
+      "gas:candidate-vibid:25620001003788": 46,
+      "gas:candidate-vibid:2562000991818": 107,
+      "gas:candidate-vibid:25620001003464": 344,
+      "gas:candidate-vibid:25620001005325": 14,
+      "gas:candidate-vibid:25620001004283": 12,
+      "gas:candidate-vibid:25620001005338": 40,
+      "gas:candidate-vibid:25620001004865": 48,
+      "gas:candidate-vibid:2562000994730": 115,
+      "gas:candidate-vibid:25620001003230": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922489&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922489&type=464",
@@ -3403,16 +3403,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 46,
-      "Калинин Александр Владимирович": 35,
-      "Карпов Александр Николаевич": 69,
-      "Мищеряков Юрий Николаевич": 400,
-      "Рычагов Антон Владимирович": 13,
-      "Столпак Сергей Павлович": 4,
-      "Тишин Владимир Владимирович": 7,
-      "Фомин Сергей Александрович": 32,
-      "Фролов Владимир Иванович": 47,
-      "Химич Сергей Александрович": 3
+      "gas:candidate-vibid:2562000994789": 46,
+      "gas:candidate-vibid:25620001003788": 35,
+      "gas:candidate-vibid:2562000991818": 69,
+      "gas:candidate-vibid:25620001003464": 400,
+      "gas:candidate-vibid:25620001005325": 13,
+      "gas:candidate-vibid:25620001004283": 4,
+      "gas:candidate-vibid:25620001005338": 7,
+      "gas:candidate-vibid:25620001004865": 32,
+      "gas:candidate-vibid:2562000994730": 47,
+      "gas:candidate-vibid:25620001003230": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922489&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922489&type=464",
@@ -3463,16 +3463,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 121,
-      "Калинин Александр Владимирович": 55,
-      "Карпов Александр Николаевич": 88,
-      "Мищеряков Юрий Николаевич": 300,
-      "Рычагов Антон Владимирович": 7,
-      "Столпак Сергей Павлович": 3,
-      "Тишин Владимир Владимирович": 13,
-      "Фомин Сергей Александрович": 15,
-      "Фролов Владимир Иванович": 39,
-      "Химич Сергей Александрович": 10
+      "gas:candidate-vibid:2562000994789": 121,
+      "gas:candidate-vibid:25620001003788": 55,
+      "gas:candidate-vibid:2562000991818": 88,
+      "gas:candidate-vibid:25620001003464": 300,
+      "gas:candidate-vibid:25620001005325": 7,
+      "gas:candidate-vibid:25620001004283": 3,
+      "gas:candidate-vibid:25620001005338": 13,
+      "gas:candidate-vibid:25620001004865": 15,
+      "gas:candidate-vibid:2562000994730": 39,
+      "gas:candidate-vibid:25620001003230": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922489&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922489&type=464",
@@ -3523,16 +3523,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 29,
-      "Калинин Александр Владимирович": 22,
-      "Карпов Александр Николаевич": 13,
-      "Мищеряков Юрий Николаевич": 60,
-      "Рычагов Антон Владимирович": 0,
-      "Столпак Сергей Павлович": 1,
-      "Тишин Владимир Владимирович": 1,
-      "Фомин Сергей Александрович": 1,
-      "Фролов Владимир Иванович": 10,
-      "Химич Сергей Александрович": 1
+      "gas:candidate-vibid:2562000994789": 29,
+      "gas:candidate-vibid:25620001003788": 22,
+      "gas:candidate-vibid:2562000991818": 13,
+      "gas:candidate-vibid:25620001003464": 60,
+      "gas:candidate-vibid:25620001005325": 0,
+      "gas:candidate-vibid:25620001004283": 1,
+      "gas:candidate-vibid:25620001005338": 1,
+      "gas:candidate-vibid:25620001004865": 1,
+      "gas:candidate-vibid:2562000994730": 10,
+      "gas:candidate-vibid:25620001003230": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922489&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922489&type=464",
@@ -3583,16 +3583,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 77,
-      "Калинин Александр Владимирович": 61,
-      "Карпов Александр Николаевич": 89,
-      "Мищеряков Юрий Николаевич": 353,
-      "Рычагов Антон Владимирович": 11,
-      "Столпак Сергей Павлович": 7,
-      "Тишин Владимир Владимирович": 21,
-      "Фомин Сергей Александрович": 29,
-      "Фролов Владимир Иванович": 54,
-      "Химич Сергей Александрович": 10
+      "gas:candidate-vibid:2562000994789": 77,
+      "gas:candidate-vibid:25620001003788": 61,
+      "gas:candidate-vibid:2562000991818": 89,
+      "gas:candidate-vibid:25620001003464": 353,
+      "gas:candidate-vibid:25620001005325": 11,
+      "gas:candidate-vibid:25620001004283": 7,
+      "gas:candidate-vibid:25620001005338": 21,
+      "gas:candidate-vibid:25620001004865": 29,
+      "gas:candidate-vibid:2562000994730": 54,
+      "gas:candidate-vibid:25620001003230": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922489&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922489&type=464",
@@ -3643,16 +3643,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 41,
-      "Калинин Александр Владимирович": 89,
-      "Карпов Александр Николаевич": 50,
-      "Мищеряков Юрий Николаевич": 177,
-      "Рычагов Антон Владимирович": 4,
-      "Столпак Сергей Павлович": 6,
-      "Тишин Владимир Владимирович": 6,
-      "Фомин Сергей Александрович": 9,
-      "Фролов Владимир Иванович": 32,
-      "Химич Сергей Александрович": 7
+      "gas:candidate-vibid:2562000994789": 41,
+      "gas:candidate-vibid:25620001003788": 89,
+      "gas:candidate-vibid:2562000991818": 50,
+      "gas:candidate-vibid:25620001003464": 177,
+      "gas:candidate-vibid:25620001005325": 4,
+      "gas:candidate-vibid:25620001004283": 6,
+      "gas:candidate-vibid:25620001005338": 6,
+      "gas:candidate-vibid:25620001004865": 9,
+      "gas:candidate-vibid:2562000994730": 32,
+      "gas:candidate-vibid:25620001003230": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922489&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922489&type=464",
@@ -3703,16 +3703,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 14,
-      "Калинин Александр Владимирович": 26,
-      "Карпов Александр Николаевич": 18,
-      "Мищеряков Юрий Николаевич": 136,
-      "Рычагов Антон Владимирович": 2,
-      "Столпак Сергей Павлович": 3,
-      "Тишин Владимир Владимирович": 5,
-      "Фомин Сергей Александрович": 5,
-      "Фролов Владимир Иванович": 28,
-      "Химич Сергей Александрович": 1
+      "gas:candidate-vibid:2562000994789": 14,
+      "gas:candidate-vibid:25620001003788": 26,
+      "gas:candidate-vibid:2562000991818": 18,
+      "gas:candidate-vibid:25620001003464": 136,
+      "gas:candidate-vibid:25620001005325": 2,
+      "gas:candidate-vibid:25620001004283": 3,
+      "gas:candidate-vibid:25620001005338": 5,
+      "gas:candidate-vibid:25620001004865": 5,
+      "gas:candidate-vibid:2562000994730": 28,
+      "gas:candidate-vibid:25620001003230": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922489&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922489&type=464",
@@ -3763,16 +3763,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 6,
-      "Калинин Александр Владимирович": 12,
-      "Карпов Александр Николаевич": 30,
-      "Мищеряков Юрий Николаевич": 62,
-      "Рычагов Антон Владимирович": 1,
-      "Столпак Сергей Павлович": 1,
-      "Тишин Владимир Владимирович": 1,
-      "Фомин Сергей Александрович": 1,
-      "Фролов Владимир Иванович": 9,
-      "Химич Сергей Александрович": 1
+      "gas:candidate-vibid:2562000994789": 6,
+      "gas:candidate-vibid:25620001003788": 12,
+      "gas:candidate-vibid:2562000991818": 30,
+      "gas:candidate-vibid:25620001003464": 62,
+      "gas:candidate-vibid:25620001005325": 1,
+      "gas:candidate-vibid:25620001004283": 1,
+      "gas:candidate-vibid:25620001005338": 1,
+      "gas:candidate-vibid:25620001004865": 1,
+      "gas:candidate-vibid:2562000994730": 9,
+      "gas:candidate-vibid:25620001003230": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922489&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922489&type=464",
@@ -3823,16 +3823,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 4,
-      "Калинин Александр Владимирович": 9,
-      "Карпов Александр Николаевич": 3,
-      "Мищеряков Юрий Николаевич": 29,
-      "Рычагов Антон Владимирович": 0,
-      "Столпак Сергей Павлович": 1,
-      "Тишин Владимир Владимирович": 1,
-      "Фомин Сергей Александрович": 1,
-      "Фролов Владимир Иванович": 5,
-      "Химич Сергей Александрович": 1
+      "gas:candidate-vibid:2562000994789": 4,
+      "gas:candidate-vibid:25620001003788": 9,
+      "gas:candidate-vibid:2562000991818": 3,
+      "gas:candidate-vibid:25620001003464": 29,
+      "gas:candidate-vibid:25620001005325": 0,
+      "gas:candidate-vibid:25620001004283": 1,
+      "gas:candidate-vibid:25620001005338": 1,
+      "gas:candidate-vibid:25620001004865": 1,
+      "gas:candidate-vibid:2562000994730": 5,
+      "gas:candidate-vibid:25620001003230": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922489&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922489&type=464",
@@ -3883,16 +3883,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 67,
-      "Калинин Александр Владимирович": 30,
-      "Карпов Александр Николаевич": 119,
-      "Мищеряков Юрий Николаевич": 247,
-      "Рычагов Антон Владимирович": 7,
-      "Столпак Сергей Павлович": 5,
-      "Тишин Владимир Владимирович": 31,
-      "Фомин Сергей Александрович": 30,
-      "Фролов Владимир Иванович": 99,
-      "Химич Сергей Александрович": 8
+      "gas:candidate-vibid:2562000994789": 67,
+      "gas:candidate-vibid:25620001003788": 30,
+      "gas:candidate-vibid:2562000991818": 119,
+      "gas:candidate-vibid:25620001003464": 247,
+      "gas:candidate-vibid:25620001005325": 7,
+      "gas:candidate-vibid:25620001004283": 5,
+      "gas:candidate-vibid:25620001005338": 31,
+      "gas:candidate-vibid:25620001004865": 30,
+      "gas:candidate-vibid:2562000994730": 99,
+      "gas:candidate-vibid:25620001003230": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922489&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922489&type=464",
@@ -3943,16 +3943,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 54,
-      "Калинин Александр Владимирович": 36,
-      "Карпов Александр Николаевич": 90,
-      "Мищеряков Юрий Николаевич": 514,
-      "Рычагов Антон Владимирович": 6,
-      "Столпак Сергей Павлович": 14,
-      "Тишин Владимир Владимирович": 33,
-      "Фомин Сергей Александрович": 25,
-      "Фролов Владимир Иванович": 145,
-      "Химич Сергей Александрович": 17
+      "gas:candidate-vibid:2562000994789": 54,
+      "gas:candidate-vibid:25620001003788": 36,
+      "gas:candidate-vibid:2562000991818": 90,
+      "gas:candidate-vibid:25620001003464": 514,
+      "gas:candidate-vibid:25620001005325": 6,
+      "gas:candidate-vibid:25620001004283": 14,
+      "gas:candidate-vibid:25620001005338": 33,
+      "gas:candidate-vibid:25620001004865": 25,
+      "gas:candidate-vibid:2562000994730": 145,
+      "gas:candidate-vibid:25620001003230": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922489&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922489&type=464",
@@ -4003,16 +4003,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 6,
-      "Калинин Александр Владимирович": 4,
-      "Карпов Александр Николаевич": 14,
-      "Мищеряков Юрий Николаевич": 128,
-      "Рычагов Антон Владимирович": 4,
-      "Столпак Сергей Павлович": 4,
-      "Тишин Владимир Владимирович": 3,
-      "Фомин Сергей Александрович": 4,
-      "Фролов Владимир Иванович": 21,
-      "Химич Сергей Александрович": 1
+      "gas:candidate-vibid:2562000994789": 6,
+      "gas:candidate-vibid:25620001003788": 4,
+      "gas:candidate-vibid:2562000991818": 14,
+      "gas:candidate-vibid:25620001003464": 128,
+      "gas:candidate-vibid:25620001005325": 4,
+      "gas:candidate-vibid:25620001004283": 4,
+      "gas:candidate-vibid:25620001005338": 3,
+      "gas:candidate-vibid:25620001004865": 4,
+      "gas:candidate-vibid:2562000994730": 21,
+      "gas:candidate-vibid:25620001003230": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922489&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922489&type=464",
@@ -4063,16 +4063,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 93,
-      "Калинин Александр Владимирович": 49,
-      "Карпов Александр Николаевич": 113,
-      "Мищеряков Юрий Николаевич": 398,
-      "Рычагов Антон Владимирович": 19,
-      "Столпак Сергей Павлович": 11,
-      "Тишин Владимир Владимирович": 53,
-      "Фомин Сергей Александрович": 13,
-      "Фролов Владимир Иванович": 106,
-      "Химич Сергей Александрович": 13
+      "gas:candidate-vibid:2562000994789": 93,
+      "gas:candidate-vibid:25620001003788": 49,
+      "gas:candidate-vibid:2562000991818": 113,
+      "gas:candidate-vibid:25620001003464": 398,
+      "gas:candidate-vibid:25620001005325": 19,
+      "gas:candidate-vibid:25620001004283": 11,
+      "gas:candidate-vibid:25620001005338": 53,
+      "gas:candidate-vibid:25620001004865": 13,
+      "gas:candidate-vibid:2562000994730": 106,
+      "gas:candidate-vibid:25620001003230": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922489&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922489&type=464",
@@ -4123,16 +4123,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 81,
-      "Калинин Александр Владимирович": 50,
-      "Карпов Александр Николаевич": 128,
-      "Мищеряков Юрий Николаевич": 383,
-      "Рычагов Антон Владимирович": 6,
-      "Столпак Сергей Павлович": 10,
-      "Тишин Владимир Владимирович": 47,
-      "Фомин Сергей Александрович": 16,
-      "Фролов Владимир Иванович": 103,
-      "Химич Сергей Александрович": 9
+      "gas:candidate-vibid:2562000994789": 81,
+      "gas:candidate-vibid:25620001003788": 50,
+      "gas:candidate-vibid:2562000991818": 128,
+      "gas:candidate-vibid:25620001003464": 383,
+      "gas:candidate-vibid:25620001005325": 6,
+      "gas:candidate-vibid:25620001004283": 10,
+      "gas:candidate-vibid:25620001005338": 47,
+      "gas:candidate-vibid:25620001004865": 16,
+      "gas:candidate-vibid:2562000994730": 103,
+      "gas:candidate-vibid:25620001003230": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922489&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922489&type=464",
@@ -4183,16 +4183,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 33,
-      "Калинин Александр Владимирович": 32,
-      "Карпов Александр Николаевич": 44,
-      "Мищеряков Юрий Николаевич": 207,
-      "Рычагов Антон Владимирович": 4,
-      "Столпак Сергей Павлович": 1,
-      "Тишин Владимир Владимирович": 8,
-      "Фомин Сергей Александрович": 8,
-      "Фролов Владимир Иванович": 36,
-      "Химич Сергей Александрович": 6
+      "gas:candidate-vibid:2562000994789": 33,
+      "gas:candidate-vibid:25620001003788": 32,
+      "gas:candidate-vibid:2562000991818": 44,
+      "gas:candidate-vibid:25620001003464": 207,
+      "gas:candidate-vibid:25620001005325": 4,
+      "gas:candidate-vibid:25620001004283": 1,
+      "gas:candidate-vibid:25620001005338": 8,
+      "gas:candidate-vibid:25620001004865": 8,
+      "gas:candidate-vibid:2562000994730": 36,
+      "gas:candidate-vibid:25620001003230": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922489&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922489&type=464",
@@ -4243,16 +4243,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 17,
-      "Калинин Александр Владимирович": 11,
-      "Карпов Александр Николаевич": 17,
-      "Мищеряков Юрий Николаевич": 127,
-      "Рычагов Антон Владимирович": 1,
-      "Столпак Сергей Павлович": 2,
-      "Тишин Владимир Владимирович": 1,
-      "Фомин Сергей Александрович": 3,
-      "Фролов Владимир Иванович": 7,
-      "Химич Сергей Александрович": 1
+      "gas:candidate-vibid:2562000994789": 17,
+      "gas:candidate-vibid:25620001003788": 11,
+      "gas:candidate-vibid:2562000991818": 17,
+      "gas:candidate-vibid:25620001003464": 127,
+      "gas:candidate-vibid:25620001005325": 1,
+      "gas:candidate-vibid:25620001004283": 2,
+      "gas:candidate-vibid:25620001005338": 1,
+      "gas:candidate-vibid:25620001004865": 3,
+      "gas:candidate-vibid:2562000994730": 7,
+      "gas:candidate-vibid:25620001003230": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922489&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922489&type=464",
@@ -4303,16 +4303,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 48,
-      "Калинин Александр Владимирович": 53,
-      "Карпов Александр Николаевич": 61,
-      "Мищеряков Юрий Николаевич": 209,
-      "Рычагов Антон Владимирович": 9,
-      "Столпак Сергей Павлович": 3,
-      "Тишин Владимир Владимирович": 6,
-      "Фомин Сергей Александрович": 10,
-      "Фролов Владимир Иванович": 35,
-      "Химич Сергей Александрович": 5
+      "gas:candidate-vibid:2562000994789": 48,
+      "gas:candidate-vibid:25620001003788": 53,
+      "gas:candidate-vibid:2562000991818": 61,
+      "gas:candidate-vibid:25620001003464": 209,
+      "gas:candidate-vibid:25620001005325": 9,
+      "gas:candidate-vibid:25620001004283": 3,
+      "gas:candidate-vibid:25620001005338": 6,
+      "gas:candidate-vibid:25620001004865": 10,
+      "gas:candidate-vibid:2562000994730": 35,
+      "gas:candidate-vibid:25620001003230": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922489&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922489&type=464",
@@ -4363,16 +4363,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 23,
-      "Калинин Александр Владимирович": 15,
-      "Карпов Александр Николаевич": 4,
-      "Мищеряков Юрий Николаевич": 66,
-      "Рычагов Антон Владимирович": 3,
-      "Столпак Сергей Павлович": 2,
-      "Тишин Владимир Владимирович": 2,
-      "Фомин Сергей Александрович": 2,
-      "Фролов Владимир Иванович": 21,
-      "Химич Сергей Александрович": 1
+      "gas:candidate-vibid:2562000994789": 23,
+      "gas:candidate-vibid:25620001003788": 15,
+      "gas:candidate-vibid:2562000991818": 4,
+      "gas:candidate-vibid:25620001003464": 66,
+      "gas:candidate-vibid:25620001005325": 3,
+      "gas:candidate-vibid:25620001004283": 2,
+      "gas:candidate-vibid:25620001005338": 2,
+      "gas:candidate-vibid:25620001004865": 2,
+      "gas:candidate-vibid:2562000994730": 21,
+      "gas:candidate-vibid:25620001003230": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922489&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922489&type=464",
@@ -4423,16 +4423,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 7,
-      "Калинин Александр Владимирович": 13,
-      "Карпов Александр Николаевич": 21,
-      "Мищеряков Юрий Николаевич": 83,
-      "Рычагов Антон Владимирович": 1,
-      "Столпак Сергей Павлович": 2,
-      "Тишин Владимир Владимирович": 5,
-      "Фомин Сергей Александрович": 2,
-      "Фролов Владимир Иванович": 10,
-      "Химич Сергей Александрович": 1
+      "gas:candidate-vibid:2562000994789": 7,
+      "gas:candidate-vibid:25620001003788": 13,
+      "gas:candidate-vibid:2562000991818": 21,
+      "gas:candidate-vibid:25620001003464": 83,
+      "gas:candidate-vibid:25620001005325": 1,
+      "gas:candidate-vibid:25620001004283": 2,
+      "gas:candidate-vibid:25620001005338": 5,
+      "gas:candidate-vibid:25620001004865": 2,
+      "gas:candidate-vibid:2562000994730": 10,
+      "gas:candidate-vibid:25620001003230": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922489&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922489&type=464",
@@ -4483,16 +4483,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 5,
-      "Калинин Александр Владимирович": 8,
-      "Карпов Александр Николаевич": 4,
-      "Мищеряков Юрий Николаевич": 55,
-      "Рычагов Антон Владимирович": 0,
-      "Столпак Сергей Павлович": 0,
-      "Тишин Владимир Владимирович": 1,
-      "Фомин Сергей Александрович": 6,
-      "Фролов Владимир Иванович": 0,
-      "Химич Сергей Александрович": 0
+      "gas:candidate-vibid:2562000994789": 5,
+      "gas:candidate-vibid:25620001003788": 8,
+      "gas:candidate-vibid:2562000991818": 4,
+      "gas:candidate-vibid:25620001003464": 55,
+      "gas:candidate-vibid:25620001005325": 0,
+      "gas:candidate-vibid:25620001004283": 0,
+      "gas:candidate-vibid:25620001005338": 1,
+      "gas:candidate-vibid:25620001004865": 6,
+      "gas:candidate-vibid:2562000994730": 0,
+      "gas:candidate-vibid:25620001003230": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922489&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922489&type=464",
@@ -4543,16 +4543,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 45,
-      "Калинин Александр Владимирович": 26,
-      "Карпов Александр Николаевич": 45,
-      "Мищеряков Юрий Николаевич": 119,
-      "Рычагов Антон Владимирович": 4,
-      "Столпак Сергей Павлович": 1,
-      "Тишин Владимир Владимирович": 6,
-      "Фомин Сергей Александрович": 0,
-      "Фролов Владимир Иванович": 21,
-      "Химич Сергей Александрович": 15
+      "gas:candidate-vibid:2562000994789": 45,
+      "gas:candidate-vibid:25620001003788": 26,
+      "gas:candidate-vibid:2562000991818": 45,
+      "gas:candidate-vibid:25620001003464": 119,
+      "gas:candidate-vibid:25620001005325": 4,
+      "gas:candidate-vibid:25620001004283": 1,
+      "gas:candidate-vibid:25620001005338": 6,
+      "gas:candidate-vibid:25620001004865": 0,
+      "gas:candidate-vibid:2562000994730": 21,
+      "gas:candidate-vibid:25620001003230": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922489&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922489&type=464",
@@ -4603,16 +4603,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 91,
-      "Калинин Александр Владимирович": 43,
-      "Карпов Александр Николаевич": 53,
-      "Мищеряков Юрий Николаевич": 272,
-      "Рычагов Антон Владимирович": 7,
-      "Столпак Сергей Павлович": 3,
-      "Тишин Владимир Владимирович": 12,
-      "Фомин Сергей Александрович": 5,
-      "Фролов Владимир Иванович": 33,
-      "Химич Сергей Александрович": 16
+      "gas:candidate-vibid:2562000994789": 91,
+      "gas:candidate-vibid:25620001003788": 43,
+      "gas:candidate-vibid:2562000991818": 53,
+      "gas:candidate-vibid:25620001003464": 272,
+      "gas:candidate-vibid:25620001005325": 7,
+      "gas:candidate-vibid:25620001004283": 3,
+      "gas:candidate-vibid:25620001005338": 12,
+      "gas:candidate-vibid:25620001004865": 5,
+      "gas:candidate-vibid:2562000994730": 33,
+      "gas:candidate-vibid:25620001003230": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922489&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922489&type=464",
@@ -4663,16 +4663,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 51,
-      "Калинин Александр Владимирович": 29,
-      "Карпов Александр Николаевич": 46,
-      "Мищеряков Юрий Николаевич": 210,
-      "Рычагов Антон Владимирович": 6,
-      "Столпак Сергей Павлович": 8,
-      "Тишин Владимир Владимирович": 12,
-      "Фомин Сергей Александрович": 2,
-      "Фролов Владимир Иванович": 20,
-      "Химич Сергей Александрович": 12
+      "gas:candidate-vibid:2562000994789": 51,
+      "gas:candidate-vibid:25620001003788": 29,
+      "gas:candidate-vibid:2562000991818": 46,
+      "gas:candidate-vibid:25620001003464": 210,
+      "gas:candidate-vibid:25620001005325": 6,
+      "gas:candidate-vibid:25620001004283": 8,
+      "gas:candidate-vibid:25620001005338": 12,
+      "gas:candidate-vibid:25620001004865": 2,
+      "gas:candidate-vibid:2562000994730": 20,
+      "gas:candidate-vibid:25620001003230": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922489&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922489&type=464",
@@ -4723,16 +4723,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 4,
-      "Калинин Александр Владимирович": 7,
-      "Карпов Александр Николаевич": 4,
-      "Мищеряков Юрий Николаевич": 47,
-      "Рычагов Антон Владимирович": 0,
-      "Столпак Сергей Павлович": 1,
-      "Тишин Владимир Владимирович": 1,
-      "Фомин Сергей Александрович": 2,
-      "Фролов Владимир Иванович": 4,
-      "Химич Сергей Александрович": 0
+      "gas:candidate-vibid:2562000994789": 4,
+      "gas:candidate-vibid:25620001003788": 7,
+      "gas:candidate-vibid:2562000991818": 4,
+      "gas:candidate-vibid:25620001003464": 47,
+      "gas:candidate-vibid:25620001005325": 0,
+      "gas:candidate-vibid:25620001004283": 1,
+      "gas:candidate-vibid:25620001005338": 1,
+      "gas:candidate-vibid:25620001004865": 2,
+      "gas:candidate-vibid:2562000994730": 4,
+      "gas:candidate-vibid:25620001003230": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922489&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922489&type=464",
@@ -4783,16 +4783,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 7,
-      "Калинин Александр Владимирович": 0,
-      "Карпов Александр Николаевич": 7,
-      "Мищеряков Юрий Николаевич": 86,
-      "Рычагов Антон Владимирович": 1,
-      "Столпак Сергей Павлович": 1,
-      "Тишин Владимир Владимирович": 1,
-      "Фомин Сергей Александрович": 0,
-      "Фролов Владимир Иванович": 3,
-      "Химич Сергей Александрович": 2
+      "gas:candidate-vibid:2562000994789": 7,
+      "gas:candidate-vibid:25620001003788": 0,
+      "gas:candidate-vibid:2562000991818": 7,
+      "gas:candidate-vibid:25620001003464": 86,
+      "gas:candidate-vibid:25620001005325": 1,
+      "gas:candidate-vibid:25620001004283": 1,
+      "gas:candidate-vibid:25620001005338": 1,
+      "gas:candidate-vibid:25620001004865": 0,
+      "gas:candidate-vibid:2562000994730": 3,
+      "gas:candidate-vibid:25620001003230": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922489&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922489&type=464",
@@ -4843,16 +4843,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 19,
-      "Калинин Александр Владимирович": 12,
-      "Карпов Александр Николаевич": 11,
-      "Мищеряков Юрий Николаевич": 88,
-      "Рычагов Антон Владимирович": 1,
-      "Столпак Сергей Павлович": 2,
-      "Тишин Владимир Владимирович": 1,
-      "Фомин Сергей Александрович": 1,
-      "Фролов Владимир Иванович": 4,
-      "Химич Сергей Александрович": 2
+      "gas:candidate-vibid:2562000994789": 19,
+      "gas:candidate-vibid:25620001003788": 12,
+      "gas:candidate-vibid:2562000991818": 11,
+      "gas:candidate-vibid:25620001003464": 88,
+      "gas:candidate-vibid:25620001005325": 1,
+      "gas:candidate-vibid:25620001004283": 2,
+      "gas:candidate-vibid:25620001005338": 1,
+      "gas:candidate-vibid:25620001004865": 1,
+      "gas:candidate-vibid:2562000994730": 4,
+      "gas:candidate-vibid:25620001003230": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922489&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922489&type=464",
@@ -4903,16 +4903,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 114,
-      "Калинин Александр Владимирович": 46,
-      "Карпов Александр Николаевич": 161,
-      "Мищеряков Юрий Николаевич": 422,
-      "Рычагов Антон Владимирович": 20,
-      "Столпак Сергей Павлович": 12,
-      "Тишин Владимир Владимирович": 25,
-      "Фомин Сергей Александрович": 18,
-      "Фролов Владимир Иванович": 117,
-      "Химич Сергей Александрович": 7
+      "gas:candidate-vibid:2562000994789": 114,
+      "gas:candidate-vibid:25620001003788": 46,
+      "gas:candidate-vibid:2562000991818": 161,
+      "gas:candidate-vibid:25620001003464": 422,
+      "gas:candidate-vibid:25620001005325": 20,
+      "gas:candidate-vibid:25620001004283": 12,
+      "gas:candidate-vibid:25620001005338": 25,
+      "gas:candidate-vibid:25620001004865": 18,
+      "gas:candidate-vibid:2562000994730": 117,
+      "gas:candidate-vibid:25620001003230": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922489&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922489&type=464",
@@ -4963,16 +4963,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 19,
-      "Калинин Александр Владимирович": 10,
-      "Карпов Александр Николаевич": 31,
-      "Мищеряков Юрий Николаевич": 87,
-      "Рычагов Антон Владимирович": 1,
-      "Столпак Сергей Павлович": 3,
-      "Тишин Владимир Владимирович": 2,
-      "Фомин Сергей Александрович": 3,
-      "Фролов Владимир Иванович": 16,
-      "Химич Сергей Александрович": 1
+      "gas:candidate-vibid:2562000994789": 19,
+      "gas:candidate-vibid:25620001003788": 10,
+      "gas:candidate-vibid:2562000991818": 31,
+      "gas:candidate-vibid:25620001003464": 87,
+      "gas:candidate-vibid:25620001005325": 1,
+      "gas:candidate-vibid:25620001004283": 3,
+      "gas:candidate-vibid:25620001005338": 2,
+      "gas:candidate-vibid:25620001004865": 3,
+      "gas:candidate-vibid:2562000994730": 16,
+      "gas:candidate-vibid:25620001003230": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922489&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922489&type=464",
@@ -5023,16 +5023,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 63,
-      "Калинин Александр Владимирович": 73,
-      "Карпов Александр Николаевич": 84,
-      "Мищеряков Юрий Николаевич": 344,
-      "Рычагов Антон Владимирович": 10,
-      "Столпак Сергей Павлович": 5,
-      "Тишин Владимир Владимирович": 19,
-      "Фомин Сергей Александрович": 10,
-      "Фролов Владимир Иванович": 130,
-      "Химич Сергей Александрович": 7
+      "gas:candidate-vibid:2562000994789": 63,
+      "gas:candidate-vibid:25620001003788": 73,
+      "gas:candidate-vibid:2562000991818": 84,
+      "gas:candidate-vibid:25620001003464": 344,
+      "gas:candidate-vibid:25620001005325": 10,
+      "gas:candidate-vibid:25620001004283": 5,
+      "gas:candidate-vibid:25620001005338": 19,
+      "gas:candidate-vibid:25620001004865": 10,
+      "gas:candidate-vibid:2562000994730": 130,
+      "gas:candidate-vibid:25620001003230": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922489&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922489&type=464",
@@ -5083,16 +5083,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 60,
-      "Калинин Александр Владимирович": 28,
-      "Карпов Александр Николаевич": 66,
-      "Мищеряков Юрий Николаевич": 156,
-      "Рычагов Антон Владимирович": 7,
-      "Столпак Сергей Павлович": 4,
-      "Тишин Владимир Владимирович": 19,
-      "Фомин Сергей Александрович": 6,
-      "Фролов Владимир Иванович": 51,
-      "Химич Сергей Александрович": 5
+      "gas:candidate-vibid:2562000994789": 60,
+      "gas:candidate-vibid:25620001003788": 28,
+      "gas:candidate-vibid:2562000991818": 66,
+      "gas:candidate-vibid:25620001003464": 156,
+      "gas:candidate-vibid:25620001005325": 7,
+      "gas:candidate-vibid:25620001004283": 4,
+      "gas:candidate-vibid:25620001005338": 19,
+      "gas:candidate-vibid:25620001004865": 6,
+      "gas:candidate-vibid:2562000994730": 51,
+      "gas:candidate-vibid:25620001003230": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922489&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922489&type=464",
@@ -5143,16 +5143,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 36,
-      "Калинин Александр Владимирович": 21,
-      "Карпов Александр Николаевич": 66,
-      "Мищеряков Юрий Николаевич": 145,
-      "Рычагов Антон Владимирович": 4,
-      "Столпак Сергей Павлович": 8,
-      "Тишин Владимир Владимирович": 13,
-      "Фомин Сергей Александрович": 10,
-      "Фролов Владимир Иванович": 104,
-      "Химич Сергей Александрович": 8
+      "gas:candidate-vibid:2562000994789": 36,
+      "gas:candidate-vibid:25620001003788": 21,
+      "gas:candidate-vibid:2562000991818": 66,
+      "gas:candidate-vibid:25620001003464": 145,
+      "gas:candidate-vibid:25620001005325": 4,
+      "gas:candidate-vibid:25620001004283": 8,
+      "gas:candidate-vibid:25620001005338": 13,
+      "gas:candidate-vibid:25620001004865": 10,
+      "gas:candidate-vibid:2562000994730": 104,
+      "gas:candidate-vibid:25620001003230": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922490&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922490&type=464",
@@ -5203,16 +5203,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 45,
-      "Калинин Александр Владимирович": 49,
-      "Карпов Александр Николаевич": 110,
-      "Мищеряков Юрий Николаевич": 176,
-      "Рычагов Антон Владимирович": 7,
-      "Столпак Сергей Павлович": 8,
-      "Тишин Владимир Владимирович": 22,
-      "Фомин Сергей Александрович": 9,
-      "Фролов Владимир Иванович": 100,
-      "Химич Сергей Александрович": 7
+      "gas:candidate-vibid:2562000994789": 45,
+      "gas:candidate-vibid:25620001003788": 49,
+      "gas:candidate-vibid:2562000991818": 110,
+      "gas:candidate-vibid:25620001003464": 176,
+      "gas:candidate-vibid:25620001005325": 7,
+      "gas:candidate-vibid:25620001004283": 8,
+      "gas:candidate-vibid:25620001005338": 22,
+      "gas:candidate-vibid:25620001004865": 9,
+      "gas:candidate-vibid:2562000994730": 100,
+      "gas:candidate-vibid:25620001003230": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922490&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922490&type=464",
@@ -5263,16 +5263,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 64,
-      "Калинин Александр Владимирович": 47,
-      "Карпов Александр Николаевич": 94,
-      "Мищеряков Юрий Николаевич": 214,
-      "Рычагов Антон Владимирович": 9,
-      "Столпак Сергей Павлович": 11,
-      "Тишин Владимир Владимирович": 16,
-      "Фомин Сергей Александрович": 18,
-      "Фролов Владимир Иванович": 143,
-      "Химич Сергей Александрович": 9
+      "gas:candidate-vibid:2562000994789": 64,
+      "gas:candidate-vibid:25620001003788": 47,
+      "gas:candidate-vibid:2562000991818": 94,
+      "gas:candidate-vibid:25620001003464": 214,
+      "gas:candidate-vibid:25620001005325": 9,
+      "gas:candidate-vibid:25620001004283": 11,
+      "gas:candidate-vibid:25620001005338": 16,
+      "gas:candidate-vibid:25620001004865": 18,
+      "gas:candidate-vibid:2562000994730": 143,
+      "gas:candidate-vibid:25620001003230": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922490&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922490&type=464",
@@ -5323,16 +5323,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 25,
-      "Калинин Александр Владимирович": 16,
-      "Карпов Александр Николаевич": 46,
-      "Мищеряков Юрий Николаевич": 117,
-      "Рычагов Антон Владимирович": 3,
-      "Столпак Сергей Павлович": 3,
-      "Тишин Владимир Владимирович": 2,
-      "Фомин Сергей Александрович": 6,
-      "Фролов Владимир Иванович": 49,
-      "Химич Сергей Александрович": 2
+      "gas:candidate-vibid:2562000994789": 25,
+      "gas:candidate-vibid:25620001003788": 16,
+      "gas:candidate-vibid:2562000991818": 46,
+      "gas:candidate-vibid:25620001003464": 117,
+      "gas:candidate-vibid:25620001005325": 3,
+      "gas:candidate-vibid:25620001004283": 3,
+      "gas:candidate-vibid:25620001005338": 2,
+      "gas:candidate-vibid:25620001004865": 6,
+      "gas:candidate-vibid:2562000994730": 49,
+      "gas:candidate-vibid:25620001003230": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922490&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922490&type=464",
@@ -5383,16 +5383,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 49,
-      "Калинин Александр Владимирович": 34,
-      "Карпов Александр Николаевич": 114,
-      "Мищеряков Юрий Николаевич": 233,
-      "Рычагов Антон Владимирович": 4,
-      "Столпак Сергей Павлович": 0,
-      "Тишин Владимир Владимирович": 21,
-      "Фомин Сергей Александрович": 4,
-      "Фролов Владимир Иванович": 88,
-      "Химич Сергей Александрович": 12
+      "gas:candidate-vibid:2562000994789": 49,
+      "gas:candidate-vibid:25620001003788": 34,
+      "gas:candidate-vibid:2562000991818": 114,
+      "gas:candidate-vibid:25620001003464": 233,
+      "gas:candidate-vibid:25620001005325": 4,
+      "gas:candidate-vibid:25620001004283": 0,
+      "gas:candidate-vibid:25620001005338": 21,
+      "gas:candidate-vibid:25620001004865": 4,
+      "gas:candidate-vibid:2562000994730": 88,
+      "gas:candidate-vibid:25620001003230": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922490&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922490&type=464",
@@ -5443,16 +5443,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 78,
-      "Калинин Александр Владимирович": 37,
-      "Карпов Александр Николаевич": 121,
-      "Мищеряков Юрий Николаевич": 233,
-      "Рычагов Антон Владимирович": 17,
-      "Столпак Сергей Павлович": 17,
-      "Тишин Владимир Владимирович": 40,
-      "Фомин Сергей Александрович": 13,
-      "Фролов Владимир Иванович": 114,
-      "Химич Сергей Александрович": 8
+      "gas:candidate-vibid:2562000994789": 78,
+      "gas:candidate-vibid:25620001003788": 37,
+      "gas:candidate-vibid:2562000991818": 121,
+      "gas:candidate-vibid:25620001003464": 233,
+      "gas:candidate-vibid:25620001005325": 17,
+      "gas:candidate-vibid:25620001004283": 17,
+      "gas:candidate-vibid:25620001005338": 40,
+      "gas:candidate-vibid:25620001004865": 13,
+      "gas:candidate-vibid:2562000994730": 114,
+      "gas:candidate-vibid:25620001003230": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922490&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922490&type=464",
@@ -5503,16 +5503,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 66,
-      "Калинин Александр Владимирович": 25,
-      "Карпов Александр Николаевич": 142,
-      "Мищеряков Юрий Николаевич": 215,
-      "Рычагов Антон Владимирович": 10,
-      "Столпак Сергей Павлович": 6,
-      "Тишин Владимир Владимирович": 44,
-      "Фомин Сергей Александрович": 17,
-      "Фролов Владимир Иванович": 109,
-      "Химич Сергей Александрович": 13
+      "gas:candidate-vibid:2562000994789": 66,
+      "gas:candidate-vibid:25620001003788": 25,
+      "gas:candidate-vibid:2562000991818": 142,
+      "gas:candidate-vibid:25620001003464": 215,
+      "gas:candidate-vibid:25620001005325": 10,
+      "gas:candidate-vibid:25620001004283": 6,
+      "gas:candidate-vibid:25620001005338": 44,
+      "gas:candidate-vibid:25620001004865": 17,
+      "gas:candidate-vibid:2562000994730": 109,
+      "gas:candidate-vibid:25620001003230": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922490&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922490&type=464",
@@ -5563,16 +5563,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 77,
-      "Калинин Александр Владимирович": 33,
-      "Карпов Александр Николаевич": 83,
-      "Мищеряков Юрий Николаевич": 230,
-      "Рычагов Антон Владимирович": 10,
-      "Столпак Сергей Павлович": 5,
-      "Тишин Владимир Владимирович": 50,
-      "Фомин Сергей Александрович": 24,
-      "Фролов Владимир Иванович": 115,
-      "Химич Сергей Александрович": 12
+      "gas:candidate-vibid:2562000994789": 77,
+      "gas:candidate-vibid:25620001003788": 33,
+      "gas:candidate-vibid:2562000991818": 83,
+      "gas:candidate-vibid:25620001003464": 230,
+      "gas:candidate-vibid:25620001005325": 10,
+      "gas:candidate-vibid:25620001004283": 5,
+      "gas:candidate-vibid:25620001005338": 50,
+      "gas:candidate-vibid:25620001004865": 24,
+      "gas:candidate-vibid:2562000994730": 115,
+      "gas:candidate-vibid:25620001003230": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922490&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922490&type=464",
@@ -5623,16 +5623,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 72,
-      "Калинин Александр Владимирович": 27,
-      "Карпов Александр Николаевич": 86,
-      "Мищеряков Юрий Николаевич": 251,
-      "Рычагов Антон Владимирович": 15,
-      "Столпак Сергей Павлович": 12,
-      "Тишин Владимир Владимирович": 37,
-      "Фомин Сергей Александрович": 13,
-      "Фролов Владимир Иванович": 95,
-      "Химич Сергей Александрович": 10
+      "gas:candidate-vibid:2562000994789": 72,
+      "gas:candidate-vibid:25620001003788": 27,
+      "gas:candidate-vibid:2562000991818": 86,
+      "gas:candidate-vibid:25620001003464": 251,
+      "gas:candidate-vibid:25620001005325": 15,
+      "gas:candidate-vibid:25620001004283": 12,
+      "gas:candidate-vibid:25620001005338": 37,
+      "gas:candidate-vibid:25620001004865": 13,
+      "gas:candidate-vibid:2562000994730": 95,
+      "gas:candidate-vibid:25620001003230": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922490&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922490&type=464",
@@ -5683,16 +5683,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 52,
-      "Калинин Александр Владимирович": 22,
-      "Карпов Александр Николаевич": 85,
-      "Мищеряков Юрий Николаевич": 189,
-      "Рычагов Антон Владимирович": 5,
-      "Столпак Сергей Павлович": 4,
-      "Тишин Владимир Владимирович": 38,
-      "Фомин Сергей Александрович": 18,
-      "Фролов Владимир Иванович": 136,
-      "Химич Сергей Александрович": 4
+      "gas:candidate-vibid:2562000994789": 52,
+      "gas:candidate-vibid:25620001003788": 22,
+      "gas:candidate-vibid:2562000991818": 85,
+      "gas:candidate-vibid:25620001003464": 189,
+      "gas:candidate-vibid:25620001005325": 5,
+      "gas:candidate-vibid:25620001004283": 4,
+      "gas:candidate-vibid:25620001005338": 38,
+      "gas:candidate-vibid:25620001004865": 18,
+      "gas:candidate-vibid:2562000994730": 136,
+      "gas:candidate-vibid:25620001003230": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922490&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922490&type=464",
@@ -5743,16 +5743,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 59,
-      "Калинин Александр Владимирович": 41,
-      "Карпов Александр Николаевич": 119,
-      "Мищеряков Юрий Николаевич": 235,
-      "Рычагов Антон Владимирович": 16,
-      "Столпак Сергей Павлович": 12,
-      "Тишин Владимир Владимирович": 59,
-      "Фомин Сергей Александрович": 19,
-      "Фролов Владимир Иванович": 119,
-      "Химич Сергей Александрович": 5
+      "gas:candidate-vibid:2562000994789": 59,
+      "gas:candidate-vibid:25620001003788": 41,
+      "gas:candidate-vibid:2562000991818": 119,
+      "gas:candidate-vibid:25620001003464": 235,
+      "gas:candidate-vibid:25620001005325": 16,
+      "gas:candidate-vibid:25620001004283": 12,
+      "gas:candidate-vibid:25620001005338": 59,
+      "gas:candidate-vibid:25620001004865": 19,
+      "gas:candidate-vibid:2562000994730": 119,
+      "gas:candidate-vibid:25620001003230": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922490&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922490&type=464",
@@ -5803,16 +5803,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 95,
-      "Калинин Александр Владимирович": 88,
-      "Карпов Александр Николаевич": 176,
-      "Мищеряков Юрий Николаевич": 573,
-      "Рычагов Антон Владимирович": 50,
-      "Столпак Сергей Павлович": 34,
-      "Тишин Владимир Владимирович": 82,
-      "Фомин Сергей Александрович": 38,
-      "Фролов Владимир Иванович": 126,
-      "Химич Сергей Александрович": 23
+      "gas:candidate-vibid:2562000994789": 95,
+      "gas:candidate-vibid:25620001003788": 88,
+      "gas:candidate-vibid:2562000991818": 176,
+      "gas:candidate-vibid:25620001003464": 573,
+      "gas:candidate-vibid:25620001005325": 50,
+      "gas:candidate-vibid:25620001004283": 34,
+      "gas:candidate-vibid:25620001005338": 82,
+      "gas:candidate-vibid:25620001004865": 38,
+      "gas:candidate-vibid:2562000994730": 126,
+      "gas:candidate-vibid:25620001003230": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922490&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922490&type=464",
@@ -5863,16 +5863,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 84,
-      "Калинин Александр Владимирович": 35,
-      "Карпов Александр Николаевич": 148,
-      "Мищеряков Юрий Николаевич": 292,
-      "Рычагов Антон Владимирович": 9,
-      "Столпак Сергей Павлович": 2,
-      "Тишин Владимир Владимирович": 25,
-      "Фомин Сергей Александрович": 24,
-      "Фролов Владимир Иванович": 127,
-      "Химич Сергей Александрович": 13
+      "gas:candidate-vibid:2562000994789": 84,
+      "gas:candidate-vibid:25620001003788": 35,
+      "gas:candidate-vibid:2562000991818": 148,
+      "gas:candidate-vibid:25620001003464": 292,
+      "gas:candidate-vibid:25620001005325": 9,
+      "gas:candidate-vibid:25620001004283": 2,
+      "gas:candidate-vibid:25620001005338": 25,
+      "gas:candidate-vibid:25620001004865": 24,
+      "gas:candidate-vibid:2562000994730": 127,
+      "gas:candidate-vibid:25620001003230": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922490&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922490&type=464",
@@ -5923,16 +5923,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 78,
-      "Калинин Александр Владимирович": 37,
-      "Карпов Александр Николаевич": 75,
-      "Мищеряков Юрий Николаевич": 179,
-      "Рычагов Антон Владимирович": 8,
-      "Столпак Сергей Павлович": 3,
-      "Тишин Владимир Владимирович": 24,
-      "Фомин Сергей Александрович": 14,
-      "Фролов Владимир Иванович": 141,
-      "Химич Сергей Александрович": 4
+      "gas:candidate-vibid:2562000994789": 78,
+      "gas:candidate-vibid:25620001003788": 37,
+      "gas:candidate-vibid:2562000991818": 75,
+      "gas:candidate-vibid:25620001003464": 179,
+      "gas:candidate-vibid:25620001005325": 8,
+      "gas:candidate-vibid:25620001004283": 3,
+      "gas:candidate-vibid:25620001005338": 24,
+      "gas:candidate-vibid:25620001004865": 14,
+      "gas:candidate-vibid:2562000994730": 141,
+      "gas:candidate-vibid:25620001003230": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922490&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922490&type=464",
@@ -5983,16 +5983,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 66,
-      "Калинин Александр Владимирович": 31,
-      "Карпов Александр Николаевич": 98,
-      "Мищеряков Юрий Николаевич": 245,
-      "Рычагов Антон Владимирович": 23,
-      "Столпак Сергей Павлович": 14,
-      "Тишин Владимир Владимирович": 52,
-      "Фомин Сергей Александрович": 19,
-      "Фролов Владимир Иванович": 116,
-      "Химич Сергей Александрович": 12
+      "gas:candidate-vibid:2562000994789": 66,
+      "gas:candidate-vibid:25620001003788": 31,
+      "gas:candidate-vibid:2562000991818": 98,
+      "gas:candidate-vibid:25620001003464": 245,
+      "gas:candidate-vibid:25620001005325": 23,
+      "gas:candidate-vibid:25620001004283": 14,
+      "gas:candidate-vibid:25620001005338": 52,
+      "gas:candidate-vibid:25620001004865": 19,
+      "gas:candidate-vibid:2562000994730": 116,
+      "gas:candidate-vibid:25620001003230": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922490&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922490&type=464",
@@ -6043,16 +6043,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 83,
-      "Калинин Александр Владимирович": 39,
-      "Карпов Александр Николаевич": 174,
-      "Мищеряков Юрий Николаевич": 448,
-      "Рычагов Антон Владимирович": 12,
-      "Столпак Сергей Павлович": 12,
-      "Тишин Владимир Владимирович": 49,
-      "Фомин Сергей Александрович": 36,
-      "Фролов Владимир Иванович": 146,
-      "Химич Сергей Александрович": 16
+      "gas:candidate-vibid:2562000994789": 83,
+      "gas:candidate-vibid:25620001003788": 39,
+      "gas:candidate-vibid:2562000991818": 174,
+      "gas:candidate-vibid:25620001003464": 448,
+      "gas:candidate-vibid:25620001005325": 12,
+      "gas:candidate-vibid:25620001004283": 12,
+      "gas:candidate-vibid:25620001005338": 49,
+      "gas:candidate-vibid:25620001004865": 36,
+      "gas:candidate-vibid:2562000994730": 146,
+      "gas:candidate-vibid:25620001003230": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922490&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922490&type=464",
@@ -6103,16 +6103,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 74,
-      "Калинин Александр Владимирович": 36,
-      "Карпов Александр Николаевич": 158,
-      "Мищеряков Юрий Николаевич": 237,
-      "Рычагов Антон Владимирович": 8,
-      "Столпак Сергей Павлович": 9,
-      "Тишин Владимир Владимирович": 35,
-      "Фомин Сергей Александрович": 12,
-      "Фролов Владимир Иванович": 103,
-      "Химич Сергей Александрович": 10
+      "gas:candidate-vibid:2562000994789": 74,
+      "gas:candidate-vibid:25620001003788": 36,
+      "gas:candidate-vibid:2562000991818": 158,
+      "gas:candidate-vibid:25620001003464": 237,
+      "gas:candidate-vibid:25620001005325": 8,
+      "gas:candidate-vibid:25620001004283": 9,
+      "gas:candidate-vibid:25620001005338": 35,
+      "gas:candidate-vibid:25620001004865": 12,
+      "gas:candidate-vibid:2562000994730": 103,
+      "gas:candidate-vibid:25620001003230": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922490&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922490&type=464",
@@ -6163,16 +6163,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 76,
-      "Калинин Александр Владимирович": 46,
-      "Карпов Александр Николаевич": 154,
-      "Мищеряков Юрий Николаевич": 388,
-      "Рычагов Антон Владимирович": 18,
-      "Столпак Сергей Павлович": 4,
-      "Тишин Владимир Владимирович": 21,
-      "Фомин Сергей Александрович": 19,
-      "Фролов Владимир Иванович": 89,
-      "Химич Сергей Александрович": 11
+      "gas:candidate-vibid:2562000994789": 76,
+      "gas:candidate-vibid:25620001003788": 46,
+      "gas:candidate-vibid:2562000991818": 154,
+      "gas:candidate-vibid:25620001003464": 388,
+      "gas:candidate-vibid:25620001005325": 18,
+      "gas:candidate-vibid:25620001004283": 4,
+      "gas:candidate-vibid:25620001005338": 21,
+      "gas:candidate-vibid:25620001004865": 19,
+      "gas:candidate-vibid:2562000994730": 89,
+      "gas:candidate-vibid:25620001003230": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922490&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922490&type=464",
@@ -6223,16 +6223,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 85,
-      "Калинин Александр Владимирович": 48,
-      "Карпов Александр Николаевич": 113,
-      "Мищеряков Юрий Николаевич": 498,
-      "Рычагов Антон Владимирович": 14,
-      "Столпак Сергей Павлович": 6,
-      "Тишин Владимир Владимирович": 25,
-      "Фомин Сергей Александрович": 14,
-      "Фролов Владимир Иванович": 87,
-      "Химич Сергей Александрович": 15
+      "gas:candidate-vibid:2562000994789": 85,
+      "gas:candidate-vibid:25620001003788": 48,
+      "gas:candidate-vibid:2562000991818": 113,
+      "gas:candidate-vibid:25620001003464": 498,
+      "gas:candidate-vibid:25620001005325": 14,
+      "gas:candidate-vibid:25620001004283": 6,
+      "gas:candidate-vibid:25620001005338": 25,
+      "gas:candidate-vibid:25620001004865": 14,
+      "gas:candidate-vibid:2562000994730": 87,
+      "gas:candidate-vibid:25620001003230": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922490&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922490&type=464",
@@ -6283,16 +6283,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 60,
-      "Калинин Александр Владимирович": 44,
-      "Карпов Александр Николаевич": 138,
-      "Мищеряков Юрий Николаевич": 216,
-      "Рычагов Антон Владимирович": 5,
-      "Столпак Сергей Павлович": 7,
-      "Тишин Владимир Владимирович": 23,
-      "Фомин Сергей Александрович": 13,
-      "Фролов Владимир Иванович": 86,
-      "Химич Сергей Александрович": 10
+      "gas:candidate-vibid:2562000994789": 60,
+      "gas:candidate-vibid:25620001003788": 44,
+      "gas:candidate-vibid:2562000991818": 138,
+      "gas:candidate-vibid:25620001003464": 216,
+      "gas:candidate-vibid:25620001005325": 5,
+      "gas:candidate-vibid:25620001004283": 7,
+      "gas:candidate-vibid:25620001005338": 23,
+      "gas:candidate-vibid:25620001004865": 13,
+      "gas:candidate-vibid:2562000994730": 86,
+      "gas:candidate-vibid:25620001003230": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922490&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922490&type=464",
@@ -6343,16 +6343,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 54,
-      "Калинин Александр Владимирович": 42,
-      "Карпов Александр Николаевич": 150,
-      "Мищеряков Юрий Николаевич": 243,
-      "Рычагов Антон Владимирович": 12,
-      "Столпак Сергей Павлович": 5,
-      "Тишин Владимир Владимирович": 38,
-      "Фомин Сергей Александрович": 18,
-      "Фролов Владимир Иванович": 144,
-      "Химич Сергей Александрович": 6
+      "gas:candidate-vibid:2562000994789": 54,
+      "gas:candidate-vibid:25620001003788": 42,
+      "gas:candidate-vibid:2562000991818": 150,
+      "gas:candidate-vibid:25620001003464": 243,
+      "gas:candidate-vibid:25620001005325": 12,
+      "gas:candidate-vibid:25620001004283": 5,
+      "gas:candidate-vibid:25620001005338": 38,
+      "gas:candidate-vibid:25620001004865": 18,
+      "gas:candidate-vibid:2562000994730": 144,
+      "gas:candidate-vibid:25620001003230": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922490&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922490&type=464",
@@ -6403,16 +6403,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 105,
-      "Калинин Александр Владимирович": 52,
-      "Карпов Александр Николаевич": 180,
-      "Мищеряков Юрий Николаевич": 343,
-      "Рычагов Антон Владимирович": 14,
-      "Столпак Сергей Павлович": 11,
-      "Тишин Владимир Владимирович": 41,
-      "Фомин Сергей Александрович": 23,
-      "Фролов Владимир Иванович": 145,
-      "Химич Сергей Александрович": 10
+      "gas:candidate-vibid:2562000994789": 105,
+      "gas:candidate-vibid:25620001003788": 52,
+      "gas:candidate-vibid:2562000991818": 180,
+      "gas:candidate-vibid:25620001003464": 343,
+      "gas:candidate-vibid:25620001005325": 14,
+      "gas:candidate-vibid:25620001004283": 11,
+      "gas:candidate-vibid:25620001005338": 41,
+      "gas:candidate-vibid:25620001004865": 23,
+      "gas:candidate-vibid:2562000994730": 145,
+      "gas:candidate-vibid:25620001003230": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922490&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922490&type=464",
@@ -6463,16 +6463,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 38,
-      "Калинин Александр Владимирович": 25,
-      "Карпов Александр Николаевич": 79,
-      "Мищеряков Юрий Николаевич": 177,
-      "Рычагов Антон Владимирович": 9,
-      "Столпак Сергей Павлович": 2,
-      "Тишин Владимир Владимирович": 43,
-      "Фомин Сергей Александрович": 9,
-      "Фролов Владимир Иванович": 86,
-      "Химич Сергей Александрович": 12
+      "gas:candidate-vibid:2562000994789": 38,
+      "gas:candidate-vibid:25620001003788": 25,
+      "gas:candidate-vibid:2562000991818": 79,
+      "gas:candidate-vibid:25620001003464": 177,
+      "gas:candidate-vibid:25620001005325": 9,
+      "gas:candidate-vibid:25620001004283": 2,
+      "gas:candidate-vibid:25620001005338": 43,
+      "gas:candidate-vibid:25620001004865": 9,
+      "gas:candidate-vibid:2562000994730": 86,
+      "gas:candidate-vibid:25620001003230": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922490&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922490&type=464",
@@ -6523,16 +6523,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 115,
-      "Калинин Александр Владимирович": 26,
-      "Карпов Александр Николаевич": 209,
-      "Мищеряков Юрий Николаевич": 354,
-      "Рычагов Антон Владимирович": 17,
-      "Столпак Сергей Павлович": 13,
-      "Тишин Владимир Владимирович": 51,
-      "Фомин Сергей Александрович": 20,
-      "Фролов Владимир Иванович": 198,
-      "Химич Сергей Александрович": 25
+      "gas:candidate-vibid:2562000994789": 115,
+      "gas:candidate-vibid:25620001003788": 26,
+      "gas:candidate-vibid:2562000991818": 209,
+      "gas:candidate-vibid:25620001003464": 354,
+      "gas:candidate-vibid:25620001005325": 17,
+      "gas:candidate-vibid:25620001004283": 13,
+      "gas:candidate-vibid:25620001005338": 51,
+      "gas:candidate-vibid:25620001004865": 20,
+      "gas:candidate-vibid:2562000994730": 198,
+      "gas:candidate-vibid:25620001003230": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922490&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922490&type=464",
@@ -6583,16 +6583,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 87,
-      "Калинин Александр Владимирович": 37,
-      "Карпов Александр Николаевич": 182,
-      "Мищеряков Юрий Николаевич": 431,
-      "Рычагов Антон Владимирович": 11,
-      "Столпак Сергей Павлович": 11,
-      "Тишин Владимир Владимирович": 29,
-      "Фомин Сергей Александрович": 21,
-      "Фролов Владимир Иванович": 99,
-      "Химич Сергей Александрович": 17
+      "gas:candidate-vibid:2562000994789": 87,
+      "gas:candidate-vibid:25620001003788": 37,
+      "gas:candidate-vibid:2562000991818": 182,
+      "gas:candidate-vibid:25620001003464": 431,
+      "gas:candidate-vibid:25620001005325": 11,
+      "gas:candidate-vibid:25620001004283": 11,
+      "gas:candidate-vibid:25620001005338": 29,
+      "gas:candidate-vibid:25620001004865": 21,
+      "gas:candidate-vibid:2562000994730": 99,
+      "gas:candidate-vibid:25620001003230": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922490&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922490&type=464",
@@ -6643,16 +6643,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 85,
-      "Калинин Александр Владимирович": 48,
-      "Карпов Александр Николаевич": 137,
-      "Мищеряков Юрий Николаевич": 283,
-      "Рычагов Антон Владимирович": 8,
-      "Столпак Сергей Павлович": 9,
-      "Тишин Владимир Владимирович": 35,
-      "Фомин Сергей Александрович": 18,
-      "Фролов Владимир Иванович": 97,
-      "Химич Сергей Александрович": 12
+      "gas:candidate-vibid:2562000994789": 85,
+      "gas:candidate-vibid:25620001003788": 48,
+      "gas:candidate-vibid:2562000991818": 137,
+      "gas:candidate-vibid:25620001003464": 283,
+      "gas:candidate-vibid:25620001005325": 8,
+      "gas:candidate-vibid:25620001004283": 9,
+      "gas:candidate-vibid:25620001005338": 35,
+      "gas:candidate-vibid:25620001004865": 18,
+      "gas:candidate-vibid:2562000994730": 97,
+      "gas:candidate-vibid:25620001003230": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922490&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922490&type=464",
@@ -6703,16 +6703,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 75,
-      "Калинин Александр Владимирович": 57,
-      "Карпов Александр Николаевич": 197,
-      "Мищеряков Юрий Николаевич": 273,
-      "Рычагов Антон Владимирович": 15,
-      "Столпак Сергей Павлович": 9,
-      "Тишин Владимир Владимирович": 33,
-      "Фомин Сергей Александрович": 19,
-      "Фролов Владимир Иванович": 140,
-      "Химич Сергей Александрович": 20
+      "gas:candidate-vibid:2562000994789": 75,
+      "gas:candidate-vibid:25620001003788": 57,
+      "gas:candidate-vibid:2562000991818": 197,
+      "gas:candidate-vibid:25620001003464": 273,
+      "gas:candidate-vibid:25620001005325": 15,
+      "gas:candidate-vibid:25620001004283": 9,
+      "gas:candidate-vibid:25620001005338": 33,
+      "gas:candidate-vibid:25620001004865": 19,
+      "gas:candidate-vibid:2562000994730": 140,
+      "gas:candidate-vibid:25620001003230": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922490&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922490&type=464",
@@ -6763,16 +6763,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 44,
-      "Калинин Александр Владимирович": 40,
-      "Карпов Александр Николаевич": 91,
-      "Мищеряков Юрий Николаевич": 139,
-      "Рычагов Антон Владимирович": 8,
-      "Столпак Сергей Павлович": 3,
-      "Тишин Владимир Владимирович": 21,
-      "Фомин Сергей Александрович": 9,
-      "Фролов Владимир Иванович": 73,
-      "Химич Сергей Александрович": 6
+      "gas:candidate-vibid:2562000994789": 44,
+      "gas:candidate-vibid:25620001003788": 40,
+      "gas:candidate-vibid:2562000991818": 91,
+      "gas:candidate-vibid:25620001003464": 139,
+      "gas:candidate-vibid:25620001005325": 8,
+      "gas:candidate-vibid:25620001004283": 3,
+      "gas:candidate-vibid:25620001005338": 21,
+      "gas:candidate-vibid:25620001004865": 9,
+      "gas:candidate-vibid:2562000994730": 73,
+      "gas:candidate-vibid:25620001003230": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922490&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922490&type=464",
@@ -6823,16 +6823,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 64,
-      "Калинин Александр Владимирович": 57,
-      "Карпов Александр Николаевич": 142,
-      "Мищеряков Юрий Николаевич": 285,
-      "Рычагов Антон Владимирович": 8,
-      "Столпак Сергей Павлович": 7,
-      "Тишин Владимир Владимирович": 23,
-      "Фомин Сергей Александрович": 14,
-      "Фролов Владимир Иванович": 127,
-      "Химич Сергей Александрович": 12
+      "gas:candidate-vibid:2562000994789": 64,
+      "gas:candidate-vibid:25620001003788": 57,
+      "gas:candidate-vibid:2562000991818": 142,
+      "gas:candidate-vibid:25620001003464": 285,
+      "gas:candidate-vibid:25620001005325": 8,
+      "gas:candidate-vibid:25620001004283": 7,
+      "gas:candidate-vibid:25620001005338": 23,
+      "gas:candidate-vibid:25620001004865": 14,
+      "gas:candidate-vibid:2562000994730": 127,
+      "gas:candidate-vibid:25620001003230": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922490&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922490&type=464",
@@ -6883,16 +6883,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 80,
-      "Калинин Александр Владимирович": 34,
-      "Карпов Александр Николаевич": 117,
-      "Мищеряков Юрий Николаевич": 423,
-      "Рычагов Антон Владимирович": 12,
-      "Столпак Сергей Павлович": 4,
-      "Тишин Владимир Владимирович": 40,
-      "Фомин Сергей Александрович": 24,
-      "Фролов Владимир Иванович": 149,
-      "Химич Сергей Александрович": 12
+      "gas:candidate-vibid:2562000994789": 80,
+      "gas:candidate-vibid:25620001003788": 34,
+      "gas:candidate-vibid:2562000991818": 117,
+      "gas:candidate-vibid:25620001003464": 423,
+      "gas:candidate-vibid:25620001005325": 12,
+      "gas:candidate-vibid:25620001004283": 4,
+      "gas:candidate-vibid:25620001005338": 40,
+      "gas:candidate-vibid:25620001004865": 24,
+      "gas:candidate-vibid:2562000994730": 149,
+      "gas:candidate-vibid:25620001003230": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922490&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922490&type=464",
@@ -6943,16 +6943,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 62,
-      "Калинин Александр Владимирович": 33,
-      "Карпов Александр Николаевич": 90,
-      "Мищеряков Юрий Николаевич": 232,
-      "Рычагов Антон Владимирович": 8,
-      "Столпак Сергей Павлович": 5,
-      "Тишин Владимир Владимирович": 28,
-      "Фомин Сергей Александрович": 5,
-      "Фролов Владимир Иванович": 110,
-      "Химич Сергей Александрович": 4
+      "gas:candidate-vibid:2562000994789": 62,
+      "gas:candidate-vibid:25620001003788": 33,
+      "gas:candidate-vibid:2562000991818": 90,
+      "gas:candidate-vibid:25620001003464": 232,
+      "gas:candidate-vibid:25620001005325": 8,
+      "gas:candidate-vibid:25620001004283": 5,
+      "gas:candidate-vibid:25620001005338": 28,
+      "gas:candidate-vibid:25620001004865": 5,
+      "gas:candidate-vibid:2562000994730": 110,
+      "gas:candidate-vibid:25620001003230": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922490&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922490&type=464",
@@ -7003,16 +7003,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 73,
-      "Калинин Александр Владимирович": 52,
-      "Карпов Александр Николаевич": 102,
-      "Мищеряков Юрий Николаевич": 276,
-      "Рычагов Антон Владимирович": 15,
-      "Столпак Сергей Павлович": 7,
-      "Тишин Владимир Владимирович": 47,
-      "Фомин Сергей Александрович": 18,
-      "Фролов Владимир Иванович": 175,
-      "Химич Сергей Александрович": 13
+      "gas:candidate-vibid:2562000994789": 73,
+      "gas:candidate-vibid:25620001003788": 52,
+      "gas:candidate-vibid:2562000991818": 102,
+      "gas:candidate-vibid:25620001003464": 276,
+      "gas:candidate-vibid:25620001005325": 15,
+      "gas:candidate-vibid:25620001004283": 7,
+      "gas:candidate-vibid:25620001005338": 47,
+      "gas:candidate-vibid:25620001004865": 18,
+      "gas:candidate-vibid:2562000994730": 175,
+      "gas:candidate-vibid:25620001003230": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922490&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922490&type=464",
@@ -7063,16 +7063,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 89,
-      "Калинин Александр Владимирович": 41,
-      "Карпов Александр Николаевич": 163,
-      "Мищеряков Юрий Николаевич": 238,
-      "Рычагов Антон Владимирович": 14,
-      "Столпак Сергей Павлович": 13,
-      "Тишин Владимир Владимирович": 25,
-      "Фомин Сергей Александрович": 19,
-      "Фролов Владимир Иванович": 127,
-      "Химич Сергей Александрович": 14
+      "gas:candidate-vibid:2562000994789": 89,
+      "gas:candidate-vibid:25620001003788": 41,
+      "gas:candidate-vibid:2562000991818": 163,
+      "gas:candidate-vibid:25620001003464": 238,
+      "gas:candidate-vibid:25620001005325": 14,
+      "gas:candidate-vibid:25620001004283": 13,
+      "gas:candidate-vibid:25620001005338": 25,
+      "gas:candidate-vibid:25620001004865": 19,
+      "gas:candidate-vibid:2562000994730": 127,
+      "gas:candidate-vibid:25620001003230": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922490&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922490&type=464",
@@ -7123,16 +7123,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 73,
-      "Калинин Александр Владимирович": 35,
-      "Карпов Александр Николаевич": 143,
-      "Мищеряков Юрий Николаевич": 234,
-      "Рычагов Антон Владимирович": 7,
-      "Столпак Сергей Павлович": 8,
-      "Тишин Владимир Владимирович": 36,
-      "Фомин Сергей Александрович": 16,
-      "Фролов Владимир Иванович": 150,
-      "Химич Сергей Александрович": 5
+      "gas:candidate-vibid:2562000994789": 73,
+      "gas:candidate-vibid:25620001003788": 35,
+      "gas:candidate-vibid:2562000991818": 143,
+      "gas:candidate-vibid:25620001003464": 234,
+      "gas:candidate-vibid:25620001005325": 7,
+      "gas:candidate-vibid:25620001004283": 8,
+      "gas:candidate-vibid:25620001005338": 36,
+      "gas:candidate-vibid:25620001004865": 16,
+      "gas:candidate-vibid:2562000994730": 150,
+      "gas:candidate-vibid:25620001003230": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922490&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922490&type=464",
@@ -7183,16 +7183,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 71,
-      "Калинин Александр Владимирович": 43,
-      "Карпов Александр Николаевич": 153,
-      "Мищеряков Юрий Николаевич": 242,
-      "Рычагов Антон Владимирович": 5,
-      "Столпак Сергей Павлович": 8,
-      "Тишин Владимир Владимирович": 33,
-      "Фомин Сергей Александрович": 17,
-      "Фролов Владимир Иванович": 134,
-      "Химич Сергей Александрович": 13
+      "gas:candidate-vibid:2562000994789": 71,
+      "gas:candidate-vibid:25620001003788": 43,
+      "gas:candidate-vibid:2562000991818": 153,
+      "gas:candidate-vibid:25620001003464": 242,
+      "gas:candidate-vibid:25620001005325": 5,
+      "gas:candidate-vibid:25620001004283": 8,
+      "gas:candidate-vibid:25620001005338": 33,
+      "gas:candidate-vibid:25620001004865": 17,
+      "gas:candidate-vibid:2562000994730": 134,
+      "gas:candidate-vibid:25620001003230": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922490&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922490&type=464",
@@ -7243,16 +7243,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 67,
-      "Калинин Александр Владимирович": 50,
-      "Карпов Александр Николаевич": 87,
-      "Мищеряков Юрий Николаевич": 304,
-      "Рычагов Антон Владимирович": 6,
-      "Столпак Сергей Павлович": 15,
-      "Тишин Владимир Владимирович": 19,
-      "Фомин Сергей Александрович": 8,
-      "Фролов Владимир Иванович": 64,
-      "Химич Сергей Александрович": 3
+      "gas:candidate-vibid:2562000994789": 67,
+      "gas:candidate-vibid:25620001003788": 50,
+      "gas:candidate-vibid:2562000991818": 87,
+      "gas:candidate-vibid:25620001003464": 304,
+      "gas:candidate-vibid:25620001005325": 6,
+      "gas:candidate-vibid:25620001004283": 15,
+      "gas:candidate-vibid:25620001005338": 19,
+      "gas:candidate-vibid:25620001004865": 8,
+      "gas:candidate-vibid:2562000994730": 64,
+      "gas:candidate-vibid:25620001003230": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922490&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922490&type=464",
@@ -7303,16 +7303,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 113,
-      "Калинин Александр Владимирович": 45,
-      "Карпов Александр Николаевич": 147,
-      "Мищеряков Юрий Николаевич": 418,
-      "Рычагов Антон Владимирович": 19,
-      "Столпак Сергей Павлович": 18,
-      "Тишин Владимир Владимирович": 40,
-      "Фомин Сергей Александрович": 40,
-      "Фролов Владимир Иванович": 164,
-      "Химич Сергей Александрович": 18
+      "gas:candidate-vibid:2562000994789": 113,
+      "gas:candidate-vibid:25620001003788": 45,
+      "gas:candidate-vibid:2562000991818": 147,
+      "gas:candidate-vibid:25620001003464": 418,
+      "gas:candidate-vibid:25620001005325": 19,
+      "gas:candidate-vibid:25620001004283": 18,
+      "gas:candidate-vibid:25620001005338": 40,
+      "gas:candidate-vibid:25620001004865": 40,
+      "gas:candidate-vibid:2562000994730": 164,
+      "gas:candidate-vibid:25620001003230": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922491&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922491&type=464",
@@ -7363,16 +7363,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 60,
-      "Калинин Александр Владимирович": 47,
-      "Карпов Александр Николаевич": 124,
-      "Мищеряков Юрий Николаевич": 297,
-      "Рычагов Антон Владимирович": 20,
-      "Столпак Сергей Павлович": 14,
-      "Тишин Владимир Владимирович": 18,
-      "Фомин Сергей Александрович": 28,
-      "Фролов Владимир Иванович": 91,
-      "Химич Сергей Александрович": 24
+      "gas:candidate-vibid:2562000994789": 60,
+      "gas:candidate-vibid:25620001003788": 47,
+      "gas:candidate-vibid:2562000991818": 124,
+      "gas:candidate-vibid:25620001003464": 297,
+      "gas:candidate-vibid:25620001005325": 20,
+      "gas:candidate-vibid:25620001004283": 14,
+      "gas:candidate-vibid:25620001005338": 18,
+      "gas:candidate-vibid:25620001004865": 28,
+      "gas:candidate-vibid:2562000994730": 91,
+      "gas:candidate-vibid:25620001003230": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922491&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922491&type=464",
@@ -7423,16 +7423,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 86,
-      "Калинин Александр Владимирович": 38,
-      "Карпов Александр Николаевич": 114,
-      "Мищеряков Юрий Николаевич": 373,
-      "Рычагов Антон Владимирович": 16,
-      "Столпак Сергей Павлович": 15,
-      "Тишин Владимир Владимирович": 37,
-      "Фомин Сергей Александрович": 39,
-      "Фролов Владимир Иванович": 164,
-      "Химич Сергей Александрович": 13
+      "gas:candidate-vibid:2562000994789": 86,
+      "gas:candidate-vibid:25620001003788": 38,
+      "gas:candidate-vibid:2562000991818": 114,
+      "gas:candidate-vibid:25620001003464": 373,
+      "gas:candidate-vibid:25620001005325": 16,
+      "gas:candidate-vibid:25620001004283": 15,
+      "gas:candidate-vibid:25620001005338": 37,
+      "gas:candidate-vibid:25620001004865": 39,
+      "gas:candidate-vibid:2562000994730": 164,
+      "gas:candidate-vibid:25620001003230": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922491&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922491&type=464",
@@ -7483,16 +7483,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 127,
-      "Калинин Александр Владимирович": 32,
-      "Карпов Александр Николаевич": 138,
-      "Мищеряков Юрий Николаевич": 471,
-      "Рычагов Антон Владимирович": 15,
-      "Столпак Сергей Павлович": 17,
-      "Тишин Владимир Владимирович": 46,
-      "Фомин Сергей Александрович": 53,
-      "Фролов Владимир Иванович": 194,
-      "Химич Сергей Александрович": 31
+      "gas:candidate-vibid:2562000994789": 127,
+      "gas:candidate-vibid:25620001003788": 32,
+      "gas:candidate-vibid:2562000991818": 138,
+      "gas:candidate-vibid:25620001003464": 471,
+      "gas:candidate-vibid:25620001005325": 15,
+      "gas:candidate-vibid:25620001004283": 17,
+      "gas:candidate-vibid:25620001005338": 46,
+      "gas:candidate-vibid:25620001004865": 53,
+      "gas:candidate-vibid:2562000994730": 194,
+      "gas:candidate-vibid:25620001003230": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922491&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922491&type=464",
@@ -7543,16 +7543,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 23,
-      "Калинин Александр Владимирович": 21,
-      "Карпов Александр Николаевич": 31,
-      "Мищеряков Юрий Николаевич": 243,
-      "Рычагов Антон Владимирович": 1,
-      "Столпак Сергей Павлович": 2,
-      "Тишин Владимир Владимирович": 4,
-      "Фомин Сергей Александрович": 7,
-      "Фролов Владимир Иванович": 27,
-      "Химич Сергей Александрович": 3
+      "gas:candidate-vibid:2562000994789": 23,
+      "gas:candidate-vibid:25620001003788": 21,
+      "gas:candidate-vibid:2562000991818": 31,
+      "gas:candidate-vibid:25620001003464": 243,
+      "gas:candidate-vibid:25620001005325": 1,
+      "gas:candidate-vibid:25620001004283": 2,
+      "gas:candidate-vibid:25620001005338": 4,
+      "gas:candidate-vibid:25620001004865": 7,
+      "gas:candidate-vibid:2562000994730": 27,
+      "gas:candidate-vibid:25620001003230": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922491&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922491&type=464",
@@ -7603,16 +7603,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 97,
-      "Калинин Александр Владимирович": 52,
-      "Карпов Александр Николаевич": 155,
-      "Мищеряков Юрий Николаевич": 341,
-      "Рычагов Антон Владимирович": 24,
-      "Столпак Сергей Павлович": 9,
-      "Тишин Владимир Владимирович": 23,
-      "Фомин Сергей Александрович": 32,
-      "Фролов Владимир Иванович": 167,
-      "Химич Сергей Александрович": 12
+      "gas:candidate-vibid:2562000994789": 97,
+      "gas:candidate-vibid:25620001003788": 52,
+      "gas:candidate-vibid:2562000991818": 155,
+      "gas:candidate-vibid:25620001003464": 341,
+      "gas:candidate-vibid:25620001005325": 24,
+      "gas:candidate-vibid:25620001004283": 9,
+      "gas:candidate-vibid:25620001005338": 23,
+      "gas:candidate-vibid:25620001004865": 32,
+      "gas:candidate-vibid:2562000994730": 167,
+      "gas:candidate-vibid:25620001003230": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922491&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922491&type=464",
@@ -7663,16 +7663,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 87,
-      "Калинин Александр Владимирович": 67,
-      "Карпов Александр Николаевич": 175,
-      "Мищеряков Юрий Николаевич": 377,
-      "Рычагов Антон Владимирович": 15,
-      "Столпак Сергей Павлович": 7,
-      "Тишин Владимир Владимирович": 24,
-      "Фомин Сергей Александрович": 28,
-      "Фролов Владимир Иванович": 142,
-      "Химич Сергей Александрович": 20
+      "gas:candidate-vibid:2562000994789": 87,
+      "gas:candidate-vibid:25620001003788": 67,
+      "gas:candidate-vibid:2562000991818": 175,
+      "gas:candidate-vibid:25620001003464": 377,
+      "gas:candidate-vibid:25620001005325": 15,
+      "gas:candidate-vibid:25620001004283": 7,
+      "gas:candidate-vibid:25620001005338": 24,
+      "gas:candidate-vibid:25620001004865": 28,
+      "gas:candidate-vibid:2562000994730": 142,
+      "gas:candidate-vibid:25620001003230": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922491&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922491&type=464",
@@ -7723,16 +7723,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 104,
-      "Калинин Александр Владимирович": 47,
-      "Карпов Александр Николаевич": 178,
-      "Мищеряков Юрий Николаевич": 277,
-      "Рычагов Антон Владимирович": 14,
-      "Столпак Сергей Павлович": 6,
-      "Тишин Владимир Владимирович": 19,
-      "Фомин Сергей Александрович": 25,
-      "Фролов Владимир Иванович": 121,
-      "Химич Сергей Александрович": 13
+      "gas:candidate-vibid:2562000994789": 104,
+      "gas:candidate-vibid:25620001003788": 47,
+      "gas:candidate-vibid:2562000991818": 178,
+      "gas:candidate-vibid:25620001003464": 277,
+      "gas:candidate-vibid:25620001005325": 14,
+      "gas:candidate-vibid:25620001004283": 6,
+      "gas:candidate-vibid:25620001005338": 19,
+      "gas:candidate-vibid:25620001004865": 25,
+      "gas:candidate-vibid:2562000994730": 121,
+      "gas:candidate-vibid:25620001003230": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922491&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922491&type=464",
@@ -7783,16 +7783,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 72,
-      "Калинин Александр Владимирович": 23,
-      "Карпов Александр Николаевич": 120,
-      "Мищеряков Юрий Николаевич": 431,
-      "Рычагов Антон Владимирович": 14,
-      "Столпак Сергей Павлович": 6,
-      "Тишин Владимир Владимирович": 8,
-      "Фомин Сергей Александрович": 19,
-      "Фролов Владимир Иванович": 82,
-      "Химич Сергей Александрович": 7
+      "gas:candidate-vibid:2562000994789": 72,
+      "gas:candidate-vibid:25620001003788": 23,
+      "gas:candidate-vibid:2562000991818": 120,
+      "gas:candidate-vibid:25620001003464": 431,
+      "gas:candidate-vibid:25620001005325": 14,
+      "gas:candidate-vibid:25620001004283": 6,
+      "gas:candidate-vibid:25620001005338": 8,
+      "gas:candidate-vibid:25620001004865": 19,
+      "gas:candidate-vibid:2562000994730": 82,
+      "gas:candidate-vibid:25620001003230": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922491&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922491&type=464",
@@ -7843,16 +7843,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 86,
-      "Калинин Александр Владимирович": 58,
-      "Карпов Александр Николаевич": 247,
-      "Мищеряков Юрий Николаевич": 475,
-      "Рычагов Антон Владимирович": 17,
-      "Столпак Сергей Павлович": 14,
-      "Тишин Владимир Владимирович": 33,
-      "Фомин Сергей Александрович": 45,
-      "Фролов Владимир Иванович": 160,
-      "Химич Сергей Александрович": 20
+      "gas:candidate-vibid:2562000994789": 86,
+      "gas:candidate-vibid:25620001003788": 58,
+      "gas:candidate-vibid:2562000991818": 247,
+      "gas:candidate-vibid:25620001003464": 475,
+      "gas:candidate-vibid:25620001005325": 17,
+      "gas:candidate-vibid:25620001004283": 14,
+      "gas:candidate-vibid:25620001005338": 33,
+      "gas:candidate-vibid:25620001004865": 45,
+      "gas:candidate-vibid:2562000994730": 160,
+      "gas:candidate-vibid:25620001003230": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922491&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922491&type=464",
@@ -7903,16 +7903,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 107,
-      "Калинин Александр Владимирович": 51,
-      "Карпов Александр Николаевич": 184,
-      "Мищеряков Юрий Николаевич": 336,
-      "Рычагов Антон Владимирович": 22,
-      "Столпак Сергей Павлович": 14,
-      "Тишин Владимир Владимирович": 26,
-      "Фомин Сергей Александрович": 33,
-      "Фролов Владимир Иванович": 233,
-      "Химич Сергей Александрович": 9
+      "gas:candidate-vibid:2562000994789": 107,
+      "gas:candidate-vibid:25620001003788": 51,
+      "gas:candidate-vibid:2562000991818": 184,
+      "gas:candidate-vibid:25620001003464": 336,
+      "gas:candidate-vibid:25620001005325": 22,
+      "gas:candidate-vibid:25620001004283": 14,
+      "gas:candidate-vibid:25620001005338": 26,
+      "gas:candidate-vibid:25620001004865": 33,
+      "gas:candidate-vibid:2562000994730": 233,
+      "gas:candidate-vibid:25620001003230": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922491&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922491&type=464",
@@ -7963,16 +7963,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 87,
-      "Калинин Александр Владимирович": 60,
-      "Карпов Александр Николаевич": 208,
-      "Мищеряков Юрий Николаевич": 402,
-      "Рычагов Антон Владимирович": 16,
-      "Столпак Сергей Павлович": 17,
-      "Тишин Владимир Владимирович": 22,
-      "Фомин Сергей Александрович": 28,
-      "Фролов Владимир Иванович": 258,
-      "Химич Сергей Александрович": 23
+      "gas:candidate-vibid:2562000994789": 87,
+      "gas:candidate-vibid:25620001003788": 60,
+      "gas:candidate-vibid:2562000991818": 208,
+      "gas:candidate-vibid:25620001003464": 402,
+      "gas:candidate-vibid:25620001005325": 16,
+      "gas:candidate-vibid:25620001004283": 17,
+      "gas:candidate-vibid:25620001005338": 22,
+      "gas:candidate-vibid:25620001004865": 28,
+      "gas:candidate-vibid:2562000994730": 258,
+      "gas:candidate-vibid:25620001003230": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922491&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922491&type=464",
@@ -8023,16 +8023,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 125,
-      "Калинин Александр Владимирович": 48,
-      "Карпов Александр Николаевич": 266,
-      "Мищеряков Юрий Николаевич": 862,
-      "Рычагов Антон Владимирович": 14,
-      "Столпак Сергей Павлович": 11,
-      "Тишин Владимир Владимирович": 42,
-      "Фомин Сергей Александрович": 19,
-      "Фролов Владимир Иванович": 224,
-      "Химич Сергей Александрович": 17
+      "gas:candidate-vibid:2562000994789": 125,
+      "gas:candidate-vibid:25620001003788": 48,
+      "gas:candidate-vibid:2562000991818": 266,
+      "gas:candidate-vibid:25620001003464": 862,
+      "gas:candidate-vibid:25620001005325": 14,
+      "gas:candidate-vibid:25620001004283": 11,
+      "gas:candidate-vibid:25620001005338": 42,
+      "gas:candidate-vibid:25620001004865": 19,
+      "gas:candidate-vibid:2562000994730": 224,
+      "gas:candidate-vibid:25620001003230": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922491&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922491&type=464",
@@ -8083,16 +8083,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 94,
-      "Калинин Александр Владимирович": 35,
-      "Карпов Александр Николаевич": 113,
-      "Мищеряков Юрий Николаевич": 236,
-      "Рычагов Антон Владимирович": 9,
-      "Столпак Сергей Павлович": 10,
-      "Тишин Владимир Владимирович": 19,
-      "Фомин Сергей Александрович": 24,
-      "Фролов Владимир Иванович": 176,
-      "Химич Сергей Александрович": 13
+      "gas:candidate-vibid:2562000994789": 94,
+      "gas:candidate-vibid:25620001003788": 35,
+      "gas:candidate-vibid:2562000991818": 113,
+      "gas:candidate-vibid:25620001003464": 236,
+      "gas:candidate-vibid:25620001005325": 9,
+      "gas:candidate-vibid:25620001004283": 10,
+      "gas:candidate-vibid:25620001005338": 19,
+      "gas:candidate-vibid:25620001004865": 24,
+      "gas:candidate-vibid:2562000994730": 176,
+      "gas:candidate-vibid:25620001003230": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922491&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922491&type=464",
@@ -8143,16 +8143,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 114,
-      "Калинин Александр Владимирович": 55,
-      "Карпов Александр Николаевич": 192,
-      "Мищеряков Юрий Николаевич": 427,
-      "Рычагов Антон Владимирович": 15,
-      "Столпак Сергей Павлович": 9,
-      "Тишин Владимир Владимирович": 23,
-      "Фомин Сергей Александрович": 34,
-      "Фролов Владимир Иванович": 225,
-      "Химич Сергей Александрович": 22
+      "gas:candidate-vibid:2562000994789": 114,
+      "gas:candidate-vibid:25620001003788": 55,
+      "gas:candidate-vibid:2562000991818": 192,
+      "gas:candidate-vibid:25620001003464": 427,
+      "gas:candidate-vibid:25620001005325": 15,
+      "gas:candidate-vibid:25620001004283": 9,
+      "gas:candidate-vibid:25620001005338": 23,
+      "gas:candidate-vibid:25620001004865": 34,
+      "gas:candidate-vibid:2562000994730": 225,
+      "gas:candidate-vibid:25620001003230": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922491&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922491&type=464",
@@ -8203,16 +8203,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 154,
-      "Калинин Александр Владимирович": 61,
-      "Карпов Александр Николаевич": 241,
-      "Мищеряков Юрий Николаевич": 373,
-      "Рычагов Антон Владимирович": 18,
-      "Столпак Сергей Павлович": 16,
-      "Тишин Владимир Владимирович": 24,
-      "Фомин Сергей Александрович": 30,
-      "Фролов Владимир Иванович": 126,
-      "Химич Сергей Александрович": 25
+      "gas:candidate-vibid:2562000994789": 154,
+      "gas:candidate-vibid:25620001003788": 61,
+      "gas:candidate-vibid:2562000991818": 241,
+      "gas:candidate-vibid:25620001003464": 373,
+      "gas:candidate-vibid:25620001005325": 18,
+      "gas:candidate-vibid:25620001004283": 16,
+      "gas:candidate-vibid:25620001005338": 24,
+      "gas:candidate-vibid:25620001004865": 30,
+      "gas:candidate-vibid:2562000994730": 126,
+      "gas:candidate-vibid:25620001003230": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922491&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922491&type=464",
@@ -8263,16 +8263,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 109,
-      "Калинин Александр Владимирович": 66,
-      "Карпов Александр Николаевич": 173,
-      "Мищеряков Юрий Николаевич": 399,
-      "Рычагов Антон Владимирович": 21,
-      "Столпак Сергей Павлович": 6,
-      "Тишин Владимир Владимирович": 22,
-      "Фомин Сергей Александрович": 25,
-      "Фролов Владимир Иванович": 191,
-      "Химич Сергей Александрович": 21
+      "gas:candidate-vibid:2562000994789": 109,
+      "gas:candidate-vibid:25620001003788": 66,
+      "gas:candidate-vibid:2562000991818": 173,
+      "gas:candidate-vibid:25620001003464": 399,
+      "gas:candidate-vibid:25620001005325": 21,
+      "gas:candidate-vibid:25620001004283": 6,
+      "gas:candidate-vibid:25620001005338": 22,
+      "gas:candidate-vibid:25620001004865": 25,
+      "gas:candidate-vibid:2562000994730": 191,
+      "gas:candidate-vibid:25620001003230": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922491&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922491&type=464",
@@ -8323,16 +8323,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 106,
-      "Калинин Александр Владимирович": 51,
-      "Карпов Александр Николаевич": 157,
-      "Мищеряков Юрий Николаевич": 293,
-      "Рычагов Антон Владимирович": 16,
-      "Столпак Сергей Павлович": 17,
-      "Тишин Владимир Владимирович": 34,
-      "Фомин Сергей Александрович": 13,
-      "Фролов Владимир Иванович": 214,
-      "Химич Сергей Александрович": 16
+      "gas:candidate-vibid:2562000994789": 106,
+      "gas:candidate-vibid:25620001003788": 51,
+      "gas:candidate-vibid:2562000991818": 157,
+      "gas:candidate-vibid:25620001003464": 293,
+      "gas:candidate-vibid:25620001005325": 16,
+      "gas:candidate-vibid:25620001004283": 17,
+      "gas:candidate-vibid:25620001005338": 34,
+      "gas:candidate-vibid:25620001004865": 13,
+      "gas:candidate-vibid:2562000994730": 214,
+      "gas:candidate-vibid:25620001003230": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922491&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922491&type=464",
@@ -8383,16 +8383,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 94,
-      "Калинин Александр Владимирович": 50,
-      "Карпов Александр Николаевич": 150,
-      "Мищеряков Юрий Николаевич": 263,
-      "Рычагов Антон Владимирович": 5,
-      "Столпак Сергей Павлович": 8,
-      "Тишин Владимир Владимирович": 25,
-      "Фомин Сергей Александрович": 18,
-      "Фролов Владимир Иванович": 160,
-      "Химич Сергей Александрович": 14
+      "gas:candidate-vibid:2562000994789": 94,
+      "gas:candidate-vibid:25620001003788": 50,
+      "gas:candidate-vibid:2562000991818": 150,
+      "gas:candidate-vibid:25620001003464": 263,
+      "gas:candidate-vibid:25620001005325": 5,
+      "gas:candidate-vibid:25620001004283": 8,
+      "gas:candidate-vibid:25620001005338": 25,
+      "gas:candidate-vibid:25620001004865": 18,
+      "gas:candidate-vibid:2562000994730": 160,
+      "gas:candidate-vibid:25620001003230": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922491&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922491&type=464",
@@ -8443,16 +8443,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 70,
-      "Калинин Александр Владимирович": 37,
-      "Карпов Александр Николаевич": 136,
-      "Мищеряков Юрий Николаевич": 512,
-      "Рычагов Антон Владимирович": 11,
-      "Столпак Сергей Павлович": 11,
-      "Тишин Владимир Владимирович": 9,
-      "Фомин Сергей Александрович": 20,
-      "Фролов Владимир Иванович": 102,
-      "Химич Сергей Александрович": 11
+      "gas:candidate-vibid:2562000994789": 70,
+      "gas:candidate-vibid:25620001003788": 37,
+      "gas:candidate-vibid:2562000991818": 136,
+      "gas:candidate-vibid:25620001003464": 512,
+      "gas:candidate-vibid:25620001005325": 11,
+      "gas:candidate-vibid:25620001004283": 11,
+      "gas:candidate-vibid:25620001005338": 9,
+      "gas:candidate-vibid:25620001004865": 20,
+      "gas:candidate-vibid:2562000994730": 102,
+      "gas:candidate-vibid:25620001003230": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922491&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922491&type=464",
@@ -8503,16 +8503,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 68,
-      "Калинин Александр Владимирович": 35,
-      "Карпов Александр Николаевич": 130,
-      "Мищеряков Юрий Николаевич": 245,
-      "Рычагов Антон Владимирович": 13,
-      "Столпак Сергей Павлович": 10,
-      "Тишин Владимир Владимирович": 16,
-      "Фомин Сергей Александрович": 30,
-      "Фролов Владимир Иванович": 90,
-      "Химич Сергей Александрович": 8
+      "gas:candidate-vibid:2562000994789": 68,
+      "gas:candidate-vibid:25620001003788": 35,
+      "gas:candidate-vibid:2562000991818": 130,
+      "gas:candidate-vibid:25620001003464": 245,
+      "gas:candidate-vibid:25620001005325": 13,
+      "gas:candidate-vibid:25620001004283": 10,
+      "gas:candidate-vibid:25620001005338": 16,
+      "gas:candidate-vibid:25620001004865": 30,
+      "gas:candidate-vibid:2562000994730": 90,
+      "gas:candidate-vibid:25620001003230": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922491&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922491&type=464",
@@ -8563,16 +8563,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 71,
-      "Калинин Александр Владимирович": 65,
-      "Карпов Александр Николаевич": 162,
-      "Мищеряков Юрий Николаевич": 370,
-      "Рычагов Антон Владимирович": 22,
-      "Столпак Сергей Павлович": 20,
-      "Тишин Владимир Владимирович": 19,
-      "Фомин Сергей Александрович": 21,
-      "Фролов Владимир Иванович": 125,
-      "Химич Сергей Александрович": 17
+      "gas:candidate-vibid:2562000994789": 71,
+      "gas:candidate-vibid:25620001003788": 65,
+      "gas:candidate-vibid:2562000991818": 162,
+      "gas:candidate-vibid:25620001003464": 370,
+      "gas:candidate-vibid:25620001005325": 22,
+      "gas:candidate-vibid:25620001004283": 20,
+      "gas:candidate-vibid:25620001005338": 19,
+      "gas:candidate-vibid:25620001004865": 21,
+      "gas:candidate-vibid:2562000994730": 125,
+      "gas:candidate-vibid:25620001003230": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922491&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922491&type=464",
@@ -8623,16 +8623,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 69,
-      "Калинин Александр Владимирович": 62,
-      "Карпов Александр Николаевич": 165,
-      "Мищеряков Юрий Николаевич": 393,
-      "Рычагов Антон Владимирович": 24,
-      "Столпак Сергей Павлович": 19,
-      "Тишин Владимир Владимирович": 26,
-      "Фомин Сергей Александрович": 16,
-      "Фролов Владимир Иванович": 111,
-      "Химич Сергей Александрович": 13
+      "gas:candidate-vibid:2562000994789": 69,
+      "gas:candidate-vibid:25620001003788": 62,
+      "gas:candidate-vibid:2562000991818": 165,
+      "gas:candidate-vibid:25620001003464": 393,
+      "gas:candidate-vibid:25620001005325": 24,
+      "gas:candidate-vibid:25620001004283": 19,
+      "gas:candidate-vibid:25620001005338": 26,
+      "gas:candidate-vibid:25620001004865": 16,
+      "gas:candidate-vibid:2562000994730": 111,
+      "gas:candidate-vibid:25620001003230": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922491&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922491&type=464",
@@ -8683,16 +8683,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 56,
-      "Калинин Александр Владимирович": 39,
-      "Карпов Александр Николаевич": 135,
-      "Мищеряков Юрий Николаевич": 325,
-      "Рычагов Антон Владимирович": 6,
-      "Столпак Сергей Павлович": 15,
-      "Тишин Владимир Владимирович": 11,
-      "Фомин Сергей Александрович": 27,
-      "Фролов Владимир Иванович": 142,
-      "Химич Сергей Александрович": 5
+      "gas:candidate-vibid:2562000994789": 56,
+      "gas:candidate-vibid:25620001003788": 39,
+      "gas:candidate-vibid:2562000991818": 135,
+      "gas:candidate-vibid:25620001003464": 325,
+      "gas:candidate-vibid:25620001005325": 6,
+      "gas:candidate-vibid:25620001004283": 15,
+      "gas:candidate-vibid:25620001005338": 11,
+      "gas:candidate-vibid:25620001004865": 27,
+      "gas:candidate-vibid:2562000994730": 142,
+      "gas:candidate-vibid:25620001003230": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922491&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922491&type=464",
@@ -8743,16 +8743,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 75,
-      "Калинин Александр Владимирович": 47,
-      "Карпов Александр Николаевич": 116,
-      "Мищеряков Юрий Николаевич": 201,
-      "Рычагов Антон Владимирович": 13,
-      "Столпак Сергей Павлович": 4,
-      "Тишин Владимир Владимирович": 16,
-      "Фомин Сергей Александрович": 13,
-      "Фролов Владимир Иванович": 119,
-      "Химич Сергей Александрович": 16
+      "gas:candidate-vibid:2562000994789": 75,
+      "gas:candidate-vibid:25620001003788": 47,
+      "gas:candidate-vibid:2562000991818": 116,
+      "gas:candidate-vibid:25620001003464": 201,
+      "gas:candidate-vibid:25620001005325": 13,
+      "gas:candidate-vibid:25620001004283": 4,
+      "gas:candidate-vibid:25620001005338": 16,
+      "gas:candidate-vibid:25620001004865": 13,
+      "gas:candidate-vibid:2562000994730": 119,
+      "gas:candidate-vibid:25620001003230": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922491&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922491&type=464",
@@ -8803,16 +8803,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 85,
-      "Калинин Александр Владимирович": 56,
-      "Карпов Александр Николаевич": 184,
-      "Мищеряков Юрий Николаевич": 323,
-      "Рычагов Антон Владимирович": 19,
-      "Столпак Сергей Павлович": 16,
-      "Тишин Владимир Владимирович": 25,
-      "Фомин Сергей Александрович": 22,
-      "Фролов Владимир Иванович": 183,
-      "Химич Сергей Александрович": 13
+      "gas:candidate-vibid:2562000994789": 85,
+      "gas:candidate-vibid:25620001003788": 56,
+      "gas:candidate-vibid:2562000991818": 184,
+      "gas:candidate-vibid:25620001003464": 323,
+      "gas:candidate-vibid:25620001005325": 19,
+      "gas:candidate-vibid:25620001004283": 16,
+      "gas:candidate-vibid:25620001005338": 25,
+      "gas:candidate-vibid:25620001004865": 22,
+      "gas:candidate-vibid:2562000994730": 183,
+      "gas:candidate-vibid:25620001003230": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922491&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922491&type=464",
@@ -8863,16 +8863,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 80,
-      "Калинин Александр Владимирович": 34,
-      "Карпов Александр Николаевич": 134,
-      "Мищеряков Юрий Николаевич": 255,
-      "Рычагов Антон Владимирович": 7,
-      "Столпак Сергей Павлович": 18,
-      "Тишин Владимир Владимирович": 23,
-      "Фомин Сергей Александрович": 27,
-      "Фролов Владимир Иванович": 182,
-      "Химич Сергей Александрович": 7
+      "gas:candidate-vibid:2562000994789": 80,
+      "gas:candidate-vibid:25620001003788": 34,
+      "gas:candidate-vibid:2562000991818": 134,
+      "gas:candidate-vibid:25620001003464": 255,
+      "gas:candidate-vibid:25620001005325": 7,
+      "gas:candidate-vibid:25620001004283": 18,
+      "gas:candidate-vibid:25620001005338": 23,
+      "gas:candidate-vibid:25620001004865": 27,
+      "gas:candidate-vibid:2562000994730": 182,
+      "gas:candidate-vibid:25620001003230": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922491&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922491&type=464",
@@ -8923,16 +8923,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 68,
-      "Калинин Александр Владимирович": 25,
-      "Карпов Александр Николаевич": 84,
-      "Мищеряков Юрий Николаевич": 200,
-      "Рычагов Антон Владимирович": 9,
-      "Столпак Сергей Павлович": 6,
-      "Тишин Владимир Владимирович": 21,
-      "Фомин Сергей Александрович": 19,
-      "Фролов Владимир Иванович": 97,
-      "Химич Сергей Александрович": 10
+      "gas:candidate-vibid:2562000994789": 68,
+      "gas:candidate-vibid:25620001003788": 25,
+      "gas:candidate-vibid:2562000991818": 84,
+      "gas:candidate-vibid:25620001003464": 200,
+      "gas:candidate-vibid:25620001005325": 9,
+      "gas:candidate-vibid:25620001004283": 6,
+      "gas:candidate-vibid:25620001005338": 21,
+      "gas:candidate-vibid:25620001004865": 19,
+      "gas:candidate-vibid:2562000994730": 97,
+      "gas:candidate-vibid:25620001003230": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922491&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922491&type=464",
@@ -8983,16 +8983,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 77,
-      "Калинин Александр Владимирович": 27,
-      "Карпов Александр Николаевич": 120,
-      "Мищеряков Юрий Николаевич": 261,
-      "Рычагов Антон Владимирович": 14,
-      "Столпак Сергей Павлович": 18,
-      "Тишин Владимир Владимирович": 25,
-      "Фомин Сергей Александрович": 10,
-      "Фролов Владимир Иванович": 139,
-      "Химич Сергей Александрович": 15
+      "gas:candidate-vibid:2562000994789": 77,
+      "gas:candidate-vibid:25620001003788": 27,
+      "gas:candidate-vibid:2562000991818": 120,
+      "gas:candidate-vibid:25620001003464": 261,
+      "gas:candidate-vibid:25620001005325": 14,
+      "gas:candidate-vibid:25620001004283": 18,
+      "gas:candidate-vibid:25620001005338": 25,
+      "gas:candidate-vibid:25620001004865": 10,
+      "gas:candidate-vibid:2562000994730": 139,
+      "gas:candidate-vibid:25620001003230": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922491&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922491&type=464",
@@ -9043,16 +9043,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 45,
-      "Калинин Александр Владимирович": 16,
-      "Карпов Александр Николаевич": 62,
-      "Мищеряков Юрий Николаевич": 132,
-      "Рычагов Антон Владимирович": 8,
-      "Столпак Сергей Павлович": 6,
-      "Тишин Владимир Владимирович": 14,
-      "Фомин Сергей Александрович": 7,
-      "Фролов Владимир Иванович": 71,
-      "Химич Сергей Александрович": 9
+      "gas:candidate-vibid:2562000994789": 45,
+      "gas:candidate-vibid:25620001003788": 16,
+      "gas:candidate-vibid:2562000991818": 62,
+      "gas:candidate-vibid:25620001003464": 132,
+      "gas:candidate-vibid:25620001005325": 8,
+      "gas:candidate-vibid:25620001004283": 6,
+      "gas:candidate-vibid:25620001005338": 14,
+      "gas:candidate-vibid:25620001004865": 7,
+      "gas:candidate-vibid:2562000994730": 71,
+      "gas:candidate-vibid:25620001003230": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922491&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922491&type=464",
@@ -9103,16 +9103,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 125,
-      "Калинин Александр Владимирович": 52,
-      "Карпов Александр Николаевич": 138,
-      "Мищеряков Юрий Николаевич": 352,
-      "Рычагов Антон Владимирович": 8,
-      "Столпак Сергей Павлович": 12,
-      "Тишин Владимир Владимирович": 35,
-      "Фомин Сергей Александрович": 24,
-      "Фролов Владимир Иванович": 189,
-      "Химич Сергей Александрович": 6
+      "gas:candidate-vibid:2562000994789": 125,
+      "gas:candidate-vibid:25620001003788": 52,
+      "gas:candidate-vibid:2562000991818": 138,
+      "gas:candidate-vibid:25620001003464": 352,
+      "gas:candidate-vibid:25620001005325": 8,
+      "gas:candidate-vibid:25620001004283": 12,
+      "gas:candidate-vibid:25620001005338": 35,
+      "gas:candidate-vibid:25620001004865": 24,
+      "gas:candidate-vibid:2562000994730": 189,
+      "gas:candidate-vibid:25620001003230": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922491&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922491&type=464",
@@ -9163,16 +9163,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 132,
-      "Калинин Александр Владимирович": 49,
-      "Карпов Александр Николаевич": 122,
-      "Мищеряков Юрий Николаевич": 360,
-      "Рычагов Антон Владимирович": 17,
-      "Столпак Сергей Павлович": 9,
-      "Тишин Владимир Владимирович": 46,
-      "Фомин Сергей Александрович": 37,
-      "Фролов Владимир Иванович": 204,
-      "Химич Сергей Александрович": 13
+      "gas:candidate-vibid:2562000994789": 132,
+      "gas:candidate-vibid:25620001003788": 49,
+      "gas:candidate-vibid:2562000991818": 122,
+      "gas:candidate-vibid:25620001003464": 360,
+      "gas:candidate-vibid:25620001005325": 17,
+      "gas:candidate-vibid:25620001004283": 9,
+      "gas:candidate-vibid:25620001005338": 46,
+      "gas:candidate-vibid:25620001004865": 37,
+      "gas:candidate-vibid:2562000994730": 204,
+      "gas:candidate-vibid:25620001003230": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922491&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922491&type=464",
@@ -9223,16 +9223,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 118,
-      "Калинин Александр Владимирович": 46,
-      "Карпов Александр Николаевич": 100,
-      "Мищеряков Юрий Николаевич": 308,
-      "Рычагов Антон Владимирович": 14,
-      "Столпак Сергей Павлович": 9,
-      "Тишин Владимир Владимирович": 35,
-      "Фомин Сергей Александрович": 38,
-      "Фролов Владимир Иванович": 256,
-      "Химич Сергей Александрович": 9
+      "gas:candidate-vibid:2562000994789": 118,
+      "gas:candidate-vibid:25620001003788": 46,
+      "gas:candidate-vibid:2562000991818": 100,
+      "gas:candidate-vibid:25620001003464": 308,
+      "gas:candidate-vibid:25620001005325": 14,
+      "gas:candidate-vibid:25620001004283": 9,
+      "gas:candidate-vibid:25620001005338": 35,
+      "gas:candidate-vibid:25620001004865": 38,
+      "gas:candidate-vibid:2562000994730": 256,
+      "gas:candidate-vibid:25620001003230": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922491&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922491&type=464",
@@ -9283,16 +9283,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 134,
-      "Калинин Александр Владимирович": 40,
-      "Карпов Александр Николаевич": 192,
-      "Мищеряков Юрий Николаевич": 368,
-      "Рычагов Антон Владимирович": 18,
-      "Столпак Сергей Павлович": 23,
-      "Тишин Владимир Владимирович": 38,
-      "Фомин Сергей Александрович": 42,
-      "Фролов Владимир Иванович": 205,
-      "Химич Сергей Александрович": 15
+      "gas:candidate-vibid:2562000994789": 134,
+      "gas:candidate-vibid:25620001003788": 40,
+      "gas:candidate-vibid:2562000991818": 192,
+      "gas:candidate-vibid:25620001003464": 368,
+      "gas:candidate-vibid:25620001005325": 18,
+      "gas:candidate-vibid:25620001004283": 23,
+      "gas:candidate-vibid:25620001005338": 38,
+      "gas:candidate-vibid:25620001004865": 42,
+      "gas:candidate-vibid:2562000994730": 205,
+      "gas:candidate-vibid:25620001003230": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922491&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922491&type=464",
@@ -9343,16 +9343,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 107,
-      "Калинин Александр Владимирович": 59,
-      "Карпов Александр Николаевич": 125,
-      "Мищеряков Юрий Николаевич": 338,
-      "Рычагов Антон Владимирович": 15,
-      "Столпак Сергей Павлович": 11,
-      "Тишин Владимир Владимирович": 26,
-      "Фомин Сергей Александрович": 31,
-      "Фролов Владимир Иванович": 207,
-      "Химич Сергей Александрович": 17
+      "gas:candidate-vibid:2562000994789": 107,
+      "gas:candidate-vibid:25620001003788": 59,
+      "gas:candidate-vibid:2562000991818": 125,
+      "gas:candidate-vibid:25620001003464": 338,
+      "gas:candidate-vibid:25620001005325": 15,
+      "gas:candidate-vibid:25620001004283": 11,
+      "gas:candidate-vibid:25620001005338": 26,
+      "gas:candidate-vibid:25620001004865": 31,
+      "gas:candidate-vibid:2562000994730": 207,
+      "gas:candidate-vibid:25620001003230": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922491&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922491&type=464",
@@ -9403,16 +9403,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 60,
-      "Калинин Александр Владимирович": 32,
-      "Карпов Александр Николаевич": 62,
-      "Мищеряков Юрий Николаевич": 206,
-      "Рычагов Антон Владимирович": 8,
-      "Столпак Сергей Павлович": 5,
-      "Тишин Владимир Владимирович": 30,
-      "Фомин Сергей Александрович": 24,
-      "Фролов Владимир Иванович": 244,
-      "Химич Сергей Александрович": 26
+      "gas:candidate-vibid:2562000994789": 60,
+      "gas:candidate-vibid:25620001003788": 32,
+      "gas:candidate-vibid:2562000991818": 62,
+      "gas:candidate-vibid:25620001003464": 206,
+      "gas:candidate-vibid:25620001005325": 8,
+      "gas:candidate-vibid:25620001004283": 5,
+      "gas:candidate-vibid:25620001005338": 30,
+      "gas:candidate-vibid:25620001004865": 24,
+      "gas:candidate-vibid:2562000994730": 244,
+      "gas:candidate-vibid:25620001003230": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922491&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922491&type=464",
@@ -9463,16 +9463,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 84,
-      "Калинин Александр Владимирович": 32,
-      "Карпов Александр Николаевич": 78,
-      "Мищеряков Юрий Николаевич": 313,
-      "Рычагов Антон Владимирович": 7,
-      "Столпак Сергей Павлович": 8,
-      "Тишин Владимир Владимирович": 32,
-      "Фомин Сергей Александрович": 25,
-      "Фролов Владимир Иванович": 192,
-      "Химич Сергей Александрович": 13
+      "gas:candidate-vibid:2562000994789": 84,
+      "gas:candidate-vibid:25620001003788": 32,
+      "gas:candidate-vibid:2562000991818": 78,
+      "gas:candidate-vibid:25620001003464": 313,
+      "gas:candidate-vibid:25620001005325": 7,
+      "gas:candidate-vibid:25620001004283": 8,
+      "gas:candidate-vibid:25620001005338": 32,
+      "gas:candidate-vibid:25620001004865": 25,
+      "gas:candidate-vibid:2562000994730": 192,
+      "gas:candidate-vibid:25620001003230": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922491&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922491&type=464",
@@ -9523,16 +9523,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 79,
-      "Калинин Александр Владимирович": 38,
-      "Карпов Александр Николаевич": 109,
-      "Мищеряков Юрий Николаевич": 267,
-      "Рычагов Антон Владимирович": 22,
-      "Столпак Сергей Павлович": 14,
-      "Тишин Владимир Владимирович": 24,
-      "Фомин Сергей Александрович": 23,
-      "Фролов Владимир Иванович": 275,
-      "Химич Сергей Александрович": 8
+      "gas:candidate-vibid:2562000994789": 79,
+      "gas:candidate-vibid:25620001003788": 38,
+      "gas:candidate-vibid:2562000991818": 109,
+      "gas:candidate-vibid:25620001003464": 267,
+      "gas:candidate-vibid:25620001005325": 22,
+      "gas:candidate-vibid:25620001004283": 14,
+      "gas:candidate-vibid:25620001005338": 24,
+      "gas:candidate-vibid:25620001004865": 23,
+      "gas:candidate-vibid:2562000994730": 275,
+      "gas:candidate-vibid:25620001003230": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922491&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922491&type=464",
@@ -9583,16 +9583,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 61,
-      "Калинин Александр Владимирович": 47,
-      "Карпов Александр Николаевич": 85,
-      "Мищеряков Юрий Николаевич": 323,
-      "Рычагов Антон Владимирович": 20,
-      "Столпак Сергей Павлович": 9,
-      "Тишин Владимир Владимирович": 32,
-      "Фомин Сергей Александрович": 26,
-      "Фролов Владимир Иванович": 234,
-      "Химич Сергей Александрович": 12
+      "gas:candidate-vibid:2562000994789": 61,
+      "gas:candidate-vibid:25620001003788": 47,
+      "gas:candidate-vibid:2562000991818": 85,
+      "gas:candidate-vibid:25620001003464": 323,
+      "gas:candidate-vibid:25620001005325": 20,
+      "gas:candidate-vibid:25620001004283": 9,
+      "gas:candidate-vibid:25620001005338": 32,
+      "gas:candidate-vibid:25620001004865": 26,
+      "gas:candidate-vibid:2562000994730": 234,
+      "gas:candidate-vibid:25620001003230": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922491&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922491&type=464",
@@ -9643,16 +9643,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 107,
-      "Калинин Александр Владимирович": 45,
-      "Карпов Александр Николаевич": 107,
-      "Мищеряков Юрий Николаевич": 302,
-      "Рычагов Антон Владимирович": 9,
-      "Столпак Сергей Павлович": 12,
-      "Тишин Владимир Владимирович": 31,
-      "Фомин Сергей Александрович": 44,
-      "Фролов Владимир Иванович": 265,
-      "Химич Сергей Александрович": 20
+      "gas:candidate-vibid:2562000994789": 107,
+      "gas:candidate-vibid:25620001003788": 45,
+      "gas:candidate-vibid:2562000991818": 107,
+      "gas:candidate-vibid:25620001003464": 302,
+      "gas:candidate-vibid:25620001005325": 9,
+      "gas:candidate-vibid:25620001004283": 12,
+      "gas:candidate-vibid:25620001005338": 31,
+      "gas:candidate-vibid:25620001004865": 44,
+      "gas:candidate-vibid:2562000994730": 265,
+      "gas:candidate-vibid:25620001003230": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922491&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922491&type=464",
@@ -9703,16 +9703,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 102,
-      "Калинин Александр Владимирович": 45,
-      "Карпов Александр Николаевич": 103,
-      "Мищеряков Юрий Николаевич": 308,
-      "Рычагов Антон Владимирович": 12,
-      "Столпак Сергей Павлович": 8,
-      "Тишин Владимир Владимирович": 34,
-      "Фомин Сергей Александрович": 38,
-      "Фролов Владимир Иванович": 280,
-      "Химич Сергей Александрович": 9
+      "gas:candidate-vibid:2562000994789": 102,
+      "gas:candidate-vibid:25620001003788": 45,
+      "gas:candidate-vibid:2562000991818": 103,
+      "gas:candidate-vibid:25620001003464": 308,
+      "gas:candidate-vibid:25620001005325": 12,
+      "gas:candidate-vibid:25620001004283": 8,
+      "gas:candidate-vibid:25620001005338": 34,
+      "gas:candidate-vibid:25620001004865": 38,
+      "gas:candidate-vibid:2562000994730": 280,
+      "gas:candidate-vibid:25620001003230": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922491&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922491&type=464",
@@ -9763,16 +9763,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 105,
-      "Калинин Александр Владимирович": 48,
-      "Карпов Александр Николаевич": 122,
-      "Мищеряков Юрий Николаевич": 276,
-      "Рычагов Антон Владимирович": 12,
-      "Столпак Сергей Павлович": 13,
-      "Тишин Владимир Владимирович": 27,
-      "Фомин Сергей Александрович": 26,
-      "Фролов Владимир Иванович": 323,
-      "Химич Сергей Александрович": 18
+      "gas:candidate-vibid:2562000994789": 105,
+      "gas:candidate-vibid:25620001003788": 48,
+      "gas:candidate-vibid:2562000991818": 122,
+      "gas:candidate-vibid:25620001003464": 276,
+      "gas:candidate-vibid:25620001005325": 12,
+      "gas:candidate-vibid:25620001004283": 13,
+      "gas:candidate-vibid:25620001005338": 27,
+      "gas:candidate-vibid:25620001004865": 26,
+      "gas:candidate-vibid:2562000994730": 323,
+      "gas:candidate-vibid:25620001003230": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922491&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922491&type=464",
@@ -9823,16 +9823,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 82,
-      "Калинин Александр Владимирович": 50,
-      "Карпов Александр Николаевич": 104,
-      "Мищеряков Юрий Николаевич": 327,
-      "Рычагов Антон Владимирович": 9,
-      "Столпак Сергей Павлович": 10,
-      "Тишин Владимир Владимирович": 41,
-      "Фомин Сергей Александрович": 29,
-      "Фролов Владимир Иванович": 323,
-      "Химич Сергей Александрович": 16
+      "gas:candidate-vibid:2562000994789": 82,
+      "gas:candidate-vibid:25620001003788": 50,
+      "gas:candidate-vibid:2562000991818": 104,
+      "gas:candidate-vibid:25620001003464": 327,
+      "gas:candidate-vibid:25620001005325": 9,
+      "gas:candidate-vibid:25620001004283": 10,
+      "gas:candidate-vibid:25620001005338": 41,
+      "gas:candidate-vibid:25620001004865": 29,
+      "gas:candidate-vibid:2562000994730": 323,
+      "gas:candidate-vibid:25620001003230": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922491&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922491&type=464",
@@ -9883,16 +9883,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 57,
-      "Калинин Александр Владимирович": 22,
-      "Карпов Александр Николаевич": 51,
-      "Мищеряков Юрий Николаевич": 217,
-      "Рычагов Антон Владимирович": 10,
-      "Столпак Сергей Павлович": 8,
-      "Тишин Владимир Владимирович": 17,
-      "Фомин Сергей Александрович": 14,
-      "Фролов Владимир Иванович": 128,
-      "Химич Сергей Александрович": 5
+      "gas:candidate-vibid:2562000994789": 57,
+      "gas:candidate-vibid:25620001003788": 22,
+      "gas:candidate-vibid:2562000991818": 51,
+      "gas:candidate-vibid:25620001003464": 217,
+      "gas:candidate-vibid:25620001005325": 10,
+      "gas:candidate-vibid:25620001004283": 8,
+      "gas:candidate-vibid:25620001005338": 17,
+      "gas:candidate-vibid:25620001004865": 14,
+      "gas:candidate-vibid:2562000994730": 128,
+      "gas:candidate-vibid:25620001003230": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922491&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922491&type=464",
@@ -9943,16 +9943,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 50,
-      "Калинин Александр Владимирович": 15,
-      "Карпов Александр Николаевич": 50,
-      "Мищеряков Юрий Николаевич": 156,
-      "Рычагов Антон Владимирович": 5,
-      "Столпак Сергей Павлович": 8,
-      "Тишин Владимир Владимирович": 20,
-      "Фомин Сергей Александрович": 16,
-      "Фролов Владимир Иванович": 114,
-      "Химич Сергей Александрович": 7
+      "gas:candidate-vibid:2562000994789": 50,
+      "gas:candidate-vibid:25620001003788": 15,
+      "gas:candidate-vibid:2562000991818": 50,
+      "gas:candidate-vibid:25620001003464": 156,
+      "gas:candidate-vibid:25620001005325": 5,
+      "gas:candidate-vibid:25620001004283": 8,
+      "gas:candidate-vibid:25620001005338": 20,
+      "gas:candidate-vibid:25620001004865": 16,
+      "gas:candidate-vibid:2562000994730": 114,
+      "gas:candidate-vibid:25620001003230": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922491&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922491&type=464",
@@ -10003,16 +10003,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 61,
-      "Калинин Александр Владимирович": 21,
-      "Карпов Александр Николаевич": 93,
-      "Мищеряков Юрий Николаевич": 314,
-      "Рычагов Антон Владимирович": 16,
-      "Столпак Сергей Павлович": 12,
-      "Тишин Владимир Владимирович": 26,
-      "Фомин Сергей Александрович": 25,
-      "Фролов Владимир Иванович": 182,
-      "Химич Сергей Александрович": 7
+      "gas:candidate-vibid:2562000994789": 61,
+      "gas:candidate-vibid:25620001003788": 21,
+      "gas:candidate-vibid:2562000991818": 93,
+      "gas:candidate-vibid:25620001003464": 314,
+      "gas:candidate-vibid:25620001005325": 16,
+      "gas:candidate-vibid:25620001004283": 12,
+      "gas:candidate-vibid:25620001005338": 26,
+      "gas:candidate-vibid:25620001004865": 25,
+      "gas:candidate-vibid:2562000994730": 182,
+      "gas:candidate-vibid:25620001003230": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922491&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922491&type=464",
@@ -10063,16 +10063,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 80,
-      "Калинин Александр Владимирович": 26,
-      "Карпов Александр Николаевич": 98,
-      "Мищеряков Юрий Николаевич": 193,
-      "Рычагов Антон Владимирович": 17,
-      "Столпак Сергей Павлович": 6,
-      "Тишин Владимир Владимирович": 35,
-      "Фомин Сергей Александрович": 23,
-      "Фролов Владимир Иванович": 216,
-      "Химич Сергей Александрович": 12
+      "gas:candidate-vibid:2562000994789": 80,
+      "gas:candidate-vibid:25620001003788": 26,
+      "gas:candidate-vibid:2562000991818": 98,
+      "gas:candidate-vibid:25620001003464": 193,
+      "gas:candidate-vibid:25620001005325": 17,
+      "gas:candidate-vibid:25620001004283": 6,
+      "gas:candidate-vibid:25620001005338": 35,
+      "gas:candidate-vibid:25620001004865": 23,
+      "gas:candidate-vibid:2562000994730": 216,
+      "gas:candidate-vibid:25620001003230": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922491&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922491&type=464",
@@ -10123,16 +10123,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 41,
-      "Калинин Александр Владимирович": 21,
-      "Карпов Александр Николаевич": 56,
-      "Мищеряков Юрий Николаевич": 128,
-      "Рычагов Антон Владимирович": 11,
-      "Столпак Сергей Павлович": 10,
-      "Тишин Владимир Владимирович": 17,
-      "Фомин Сергей Александрович": 6,
-      "Фролов Владимир Иванович": 102,
-      "Химич Сергей Александрович": 8
+      "gas:candidate-vibid:2562000994789": 41,
+      "gas:candidate-vibid:25620001003788": 21,
+      "gas:candidate-vibid:2562000991818": 56,
+      "gas:candidate-vibid:25620001003464": 128,
+      "gas:candidate-vibid:25620001005325": 11,
+      "gas:candidate-vibid:25620001004283": 10,
+      "gas:candidate-vibid:25620001005338": 17,
+      "gas:candidate-vibid:25620001004865": 6,
+      "gas:candidate-vibid:2562000994730": 102,
+      "gas:candidate-vibid:25620001003230": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922491&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922491&type=464",
@@ -10183,16 +10183,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 52,
-      "Калинин Александр Владимирович": 7,
-      "Карпов Александр Николаевич": 43,
-      "Мищеряков Юрий Николаевич": 80,
-      "Рычагов Антон Владимирович": 4,
-      "Столпак Сергей Павлович": 2,
-      "Тишин Владимир Владимирович": 20,
-      "Фомин Сергей Александрович": 10,
-      "Фролов Владимир Иванович": 121,
-      "Химич Сергей Александрович": 0
+      "gas:candidate-vibid:2562000994789": 52,
+      "gas:candidate-vibid:25620001003788": 7,
+      "gas:candidate-vibid:2562000991818": 43,
+      "gas:candidate-vibid:25620001003464": 80,
+      "gas:candidate-vibid:25620001005325": 4,
+      "gas:candidate-vibid:25620001004283": 2,
+      "gas:candidate-vibid:25620001005338": 20,
+      "gas:candidate-vibid:25620001004865": 10,
+      "gas:candidate-vibid:2562000994730": 121,
+      "gas:candidate-vibid:25620001003230": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922491&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922491&type=464",
@@ -10243,16 +10243,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 71,
-      "Калинин Александр Владимирович": 33,
-      "Карпов Александр Николаевич": 67,
-      "Мищеряков Юрий Николаевич": 253,
-      "Рычагов Антон Владимирович": 13,
-      "Столпак Сергей Павлович": 13,
-      "Тишин Владимир Владимирович": 30,
-      "Фомин Сергей Александрович": 17,
-      "Фролов Владимир Иванович": 173,
-      "Химич Сергей Александрович": 6
+      "gas:candidate-vibid:2562000994789": 71,
+      "gas:candidate-vibid:25620001003788": 33,
+      "gas:candidate-vibid:2562000991818": 67,
+      "gas:candidate-vibid:25620001003464": 253,
+      "gas:candidate-vibid:25620001005325": 13,
+      "gas:candidate-vibid:25620001004283": 13,
+      "gas:candidate-vibid:25620001005338": 30,
+      "gas:candidate-vibid:25620001004865": 17,
+      "gas:candidate-vibid:2562000994730": 173,
+      "gas:candidate-vibid:25620001003230": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922491&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922491&type=464",
@@ -10303,16 +10303,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 66,
-      "Калинин Александр Владимирович": 32,
-      "Карпов Александр Николаевич": 104,
-      "Мищеряков Юрий Николаевич": 242,
-      "Рычагов Антон Владимирович": 7,
-      "Столпак Сергей Павлович": 16,
-      "Тишин Владимир Владимирович": 25,
-      "Фомин Сергей Александрович": 20,
-      "Фролов Владимир Иванович": 150,
-      "Химич Сергей Александрович": 8
+      "gas:candidate-vibid:2562000994789": 66,
+      "gas:candidate-vibid:25620001003788": 32,
+      "gas:candidate-vibid:2562000991818": 104,
+      "gas:candidate-vibid:25620001003464": 242,
+      "gas:candidate-vibid:25620001005325": 7,
+      "gas:candidate-vibid:25620001004283": 16,
+      "gas:candidate-vibid:25620001005338": 25,
+      "gas:candidate-vibid:25620001004865": 20,
+      "gas:candidate-vibid:2562000994730": 150,
+      "gas:candidate-vibid:25620001003230": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922491&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922491&type=464",
@@ -10363,16 +10363,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 68,
-      "Калинин Александр Владимирович": 40,
-      "Карпов Александр Николаевич": 82,
-      "Мищеряков Юрий Николаевич": 214,
-      "Рычагов Антон Владимирович": 9,
-      "Столпак Сергей Павлович": 11,
-      "Тишин Владимир Владимирович": 15,
-      "Фомин Сергей Александрович": 13,
-      "Фролов Владимир Иванович": 149,
-      "Химич Сергей Александрович": 5
+      "gas:candidate-vibid:2562000994789": 68,
+      "gas:candidate-vibid:25620001003788": 40,
+      "gas:candidate-vibid:2562000991818": 82,
+      "gas:candidate-vibid:25620001003464": 214,
+      "gas:candidate-vibid:25620001005325": 9,
+      "gas:candidate-vibid:25620001004283": 11,
+      "gas:candidate-vibid:25620001005338": 15,
+      "gas:candidate-vibid:25620001004865": 13,
+      "gas:candidate-vibid:2562000994730": 149,
+      "gas:candidate-vibid:25620001003230": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922491&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922491&type=464",
@@ -10423,16 +10423,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 51,
-      "Калинин Александр Владимирович": 40,
-      "Карпов Александр Николаевич": 80,
-      "Мищеряков Юрий Николаевич": 176,
-      "Рычагов Антон Владимирович": 8,
-      "Столпак Сергей Павлович": 5,
-      "Тишин Владимир Владимирович": 9,
-      "Фомин Сергей Александрович": 10,
-      "Фролов Владимир Иванович": 128,
-      "Химич Сергей Александрович": 5
+      "gas:candidate-vibid:2562000994789": 51,
+      "gas:candidate-vibid:25620001003788": 40,
+      "gas:candidate-vibid:2562000991818": 80,
+      "gas:candidate-vibid:25620001003464": 176,
+      "gas:candidate-vibid:25620001005325": 8,
+      "gas:candidate-vibid:25620001004283": 5,
+      "gas:candidate-vibid:25620001005338": 9,
+      "gas:candidate-vibid:25620001004865": 10,
+      "gas:candidate-vibid:2562000994730": 128,
+      "gas:candidate-vibid:25620001003230": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922491&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922491&type=464",
@@ -10483,16 +10483,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 76,
-      "Калинин Александр Владимирович": 49,
-      "Карпов Александр Николаевич": 109,
-      "Мищеряков Юрий Николаевич": 360,
-      "Рычагов Антон Владимирович": 14,
-      "Столпак Сергей Павлович": 11,
-      "Тишин Владимир Владимирович": 19,
-      "Фомин Сергей Александрович": 18,
-      "Фролов Владимир Иванович": 274,
-      "Химич Сергей Александрович": 9
+      "gas:candidate-vibid:2562000994789": 76,
+      "gas:candidate-vibid:25620001003788": 49,
+      "gas:candidate-vibid:2562000991818": 109,
+      "gas:candidate-vibid:25620001003464": 360,
+      "gas:candidate-vibid:25620001005325": 14,
+      "gas:candidate-vibid:25620001004283": 11,
+      "gas:candidate-vibid:25620001005338": 19,
+      "gas:candidate-vibid:25620001004865": 18,
+      "gas:candidate-vibid:2562000994730": 274,
+      "gas:candidate-vibid:25620001003230": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922491&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922491&type=464",
@@ -10543,16 +10543,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 74,
-      "Калинин Александр Владимирович": 59,
-      "Карпов Александр Николаевич": 131,
-      "Мищеряков Юрий Николаевич": 348,
-      "Рычагов Антон Владимирович": 25,
-      "Столпак Сергей Павлович": 10,
-      "Тишин Владимир Владимирович": 19,
-      "Фомин Сергей Александрович": 34,
-      "Фролов Владимир Иванович": 152,
-      "Химич Сергей Александрович": 19
+      "gas:candidate-vibid:2562000994789": 74,
+      "gas:candidate-vibid:25620001003788": 59,
+      "gas:candidate-vibid:2562000991818": 131,
+      "gas:candidate-vibid:25620001003464": 348,
+      "gas:candidate-vibid:25620001005325": 25,
+      "gas:candidate-vibid:25620001004283": 10,
+      "gas:candidate-vibid:25620001005338": 19,
+      "gas:candidate-vibid:25620001004865": 34,
+      "gas:candidate-vibid:2562000994730": 152,
+      "gas:candidate-vibid:25620001003230": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922491&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922491&type=464",
@@ -10603,16 +10603,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 78,
-      "Калинин Александр Владимирович": 57,
-      "Карпов Александр Николаевич": 129,
-      "Мищеряков Юрий Николаевич": 326,
-      "Рычагов Антон Владимирович": 7,
-      "Столпак Сергей Павлович": 7,
-      "Тишин Владимир Владимирович": 18,
-      "Фомин Сергей Александрович": 18,
-      "Фролов Владимир Иванович": 148,
-      "Химич Сергей Александрович": 5
+      "gas:candidate-vibid:2562000994789": 78,
+      "gas:candidate-vibid:25620001003788": 57,
+      "gas:candidate-vibid:2562000991818": 129,
+      "gas:candidate-vibid:25620001003464": 326,
+      "gas:candidate-vibid:25620001005325": 7,
+      "gas:candidate-vibid:25620001004283": 7,
+      "gas:candidate-vibid:25620001005338": 18,
+      "gas:candidate-vibid:25620001004865": 18,
+      "gas:candidate-vibid:2562000994730": 148,
+      "gas:candidate-vibid:25620001003230": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922491&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922491&type=464",
@@ -10663,16 +10663,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 54,
-      "Калинин Александр Владимирович": 39,
-      "Карпов Александр Николаевич": 105,
-      "Мищеряков Юрий Николаевич": 230,
-      "Рычагов Антон Владимирович": 6,
-      "Столпак Сергей Павлович": 2,
-      "Тишин Владимир Владимирович": 10,
-      "Фомин Сергей Александрович": 18,
-      "Фролов Владимир Иванович": 121,
-      "Химич Сергей Александрович": 6
+      "gas:candidate-vibid:2562000994789": 54,
+      "gas:candidate-vibid:25620001003788": 39,
+      "gas:candidate-vibid:2562000991818": 105,
+      "gas:candidate-vibid:25620001003464": 230,
+      "gas:candidate-vibid:25620001005325": 6,
+      "gas:candidate-vibid:25620001004283": 2,
+      "gas:candidate-vibid:25620001005338": 10,
+      "gas:candidate-vibid:25620001004865": 18,
+      "gas:candidate-vibid:2562000994730": 121,
+      "gas:candidate-vibid:25620001003230": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922491&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922491&type=464",
@@ -10723,16 +10723,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 111,
-      "Калинин Александр Владимирович": 61,
-      "Карпов Александр Николаевич": 115,
-      "Мищеряков Юрий Николаевич": 316,
-      "Рычагов Антон Владимирович": 11,
-      "Столпак Сергей Павлович": 13,
-      "Тишин Владимир Владимирович": 17,
-      "Фомин Сергей Александрович": 13,
-      "Фролов Владимир Иванович": 217,
-      "Химич Сергей Александрович": 10
+      "gas:candidate-vibid:2562000994789": 111,
+      "gas:candidate-vibid:25620001003788": 61,
+      "gas:candidate-vibid:2562000991818": 115,
+      "gas:candidate-vibid:25620001003464": 316,
+      "gas:candidate-vibid:25620001005325": 11,
+      "gas:candidate-vibid:25620001004283": 13,
+      "gas:candidate-vibid:25620001005338": 17,
+      "gas:candidate-vibid:25620001004865": 13,
+      "gas:candidate-vibid:2562000994730": 217,
+      "gas:candidate-vibid:25620001003230": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922491&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922491&type=464",
@@ -10783,16 +10783,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 96,
-      "Калинин Александр Владимирович": 51,
-      "Карпов Александр Николаевич": 144,
-      "Мищеряков Юрий Николаевич": 297,
-      "Рычагов Антон Владимирович": 12,
-      "Столпак Сергей Павлович": 11,
-      "Тишин Владимир Владимирович": 9,
-      "Фомин Сергей Александрович": 17,
-      "Фролов Владимир Иванович": 245,
-      "Химич Сергей Александрович": 9
+      "gas:candidate-vibid:2562000994789": 96,
+      "gas:candidate-vibid:25620001003788": 51,
+      "gas:candidate-vibid:2562000991818": 144,
+      "gas:candidate-vibid:25620001003464": 297,
+      "gas:candidate-vibid:25620001005325": 12,
+      "gas:candidate-vibid:25620001004283": 11,
+      "gas:candidate-vibid:25620001005338": 9,
+      "gas:candidate-vibid:25620001004865": 17,
+      "gas:candidate-vibid:2562000994730": 245,
+      "gas:candidate-vibid:25620001003230": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922491&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922491&type=464",
@@ -10843,16 +10843,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 69,
-      "Калинин Александр Владимирович": 37,
-      "Карпов Александр Николаевич": 108,
-      "Мищеряков Юрий Николаевич": 207,
-      "Рычагов Антон Владимирович": 10,
-      "Столпак Сергей Павлович": 9,
-      "Тишин Владимир Владимирович": 11,
-      "Фомин Сергей Александрович": 10,
-      "Фролов Владимир Иванович": 144,
-      "Химич Сергей Александрович": 5
+      "gas:candidate-vibid:2562000994789": 69,
+      "gas:candidate-vibid:25620001003788": 37,
+      "gas:candidate-vibid:2562000991818": 108,
+      "gas:candidate-vibid:25620001003464": 207,
+      "gas:candidate-vibid:25620001005325": 10,
+      "gas:candidate-vibid:25620001004283": 9,
+      "gas:candidate-vibid:25620001005338": 11,
+      "gas:candidate-vibid:25620001004865": 10,
+      "gas:candidate-vibid:2562000994730": 144,
+      "gas:candidate-vibid:25620001003230": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922491&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922491&type=464",
@@ -10903,16 +10903,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 73,
-      "Калинин Александр Владимирович": 44,
-      "Карпов Александр Николаевич": 115,
-      "Мищеряков Юрий Николаевич": 294,
-      "Рычагов Антон Владимирович": 9,
-      "Столпак Сергей Павлович": 11,
-      "Тишин Владимир Владимирович": 10,
-      "Фомин Сергей Александрович": 5,
-      "Фролов Владимир Иванович": 218,
-      "Химич Сергей Александрович": 10
+      "gas:candidate-vibid:2562000994789": 73,
+      "gas:candidate-vibid:25620001003788": 44,
+      "gas:candidate-vibid:2562000991818": 115,
+      "gas:candidate-vibid:25620001003464": 294,
+      "gas:candidate-vibid:25620001005325": 9,
+      "gas:candidate-vibid:25620001004283": 11,
+      "gas:candidate-vibid:25620001005338": 10,
+      "gas:candidate-vibid:25620001004865": 5,
+      "gas:candidate-vibid:2562000994730": 218,
+      "gas:candidate-vibid:25620001003230": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922491&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922491&type=464",
@@ -10963,16 +10963,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 65,
-      "Калинин Александр Владимирович": 49,
-      "Карпов Александр Николаевич": 106,
-      "Мищеряков Юрий Николаевич": 264,
-      "Рычагов Антон Владимирович": 9,
-      "Столпак Сергей Павлович": 8,
-      "Тишин Владимир Владимирович": 19,
-      "Фомин Сергей Александрович": 9,
-      "Фролов Владимир Иванович": 118,
-      "Химич Сергей Александрович": 5
+      "gas:candidate-vibid:2562000994789": 65,
+      "gas:candidate-vibid:25620001003788": 49,
+      "gas:candidate-vibid:2562000991818": 106,
+      "gas:candidate-vibid:25620001003464": 264,
+      "gas:candidate-vibid:25620001005325": 9,
+      "gas:candidate-vibid:25620001004283": 8,
+      "gas:candidate-vibid:25620001005338": 19,
+      "gas:candidate-vibid:25620001004865": 9,
+      "gas:candidate-vibid:2562000994730": 118,
+      "gas:candidate-vibid:25620001003230": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922491&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922491&type=464",
@@ -11023,16 +11023,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 52,
-      "Калинин Александр Владимирович": 49,
-      "Карпов Александр Николаевич": 59,
-      "Мищеряков Юрий Николаевич": 412,
-      "Рычагов Антон Владимирович": 14,
-      "Столпак Сергей Павлович": 3,
-      "Тишин Владимир Владимирович": 7,
-      "Фомин Сергей Александрович": 24,
-      "Фролов Владимир Иванович": 271,
-      "Химич Сергей Александрович": 5
+      "gas:candidate-vibid:2562000994789": 52,
+      "gas:candidate-vibid:25620001003788": 49,
+      "gas:candidate-vibid:2562000991818": 59,
+      "gas:candidate-vibid:25620001003464": 412,
+      "gas:candidate-vibid:25620001005325": 14,
+      "gas:candidate-vibid:25620001004283": 3,
+      "gas:candidate-vibid:25620001005338": 7,
+      "gas:candidate-vibid:25620001004865": 24,
+      "gas:candidate-vibid:2562000994730": 271,
+      "gas:candidate-vibid:25620001003230": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922491&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922491&type=464",
@@ -11083,16 +11083,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 19,
-      "Калинин Александр Владимирович": 33,
-      "Карпов Александр Николаевич": 55,
-      "Мищеряков Юрий Николаевич": 175,
-      "Рычагов Антон Владимирович": 5,
-      "Столпак Сергей Павлович": 4,
-      "Тишин Владимир Владимирович": 7,
-      "Фомин Сергей Александрович": 4,
-      "Фролов Владимир Иванович": 25,
-      "Химич Сергей Александрович": 6
+      "gas:candidate-vibid:2562000994789": 19,
+      "gas:candidate-vibid:25620001003788": 33,
+      "gas:candidate-vibid:2562000991818": 55,
+      "gas:candidate-vibid:25620001003464": 175,
+      "gas:candidate-vibid:25620001005325": 5,
+      "gas:candidate-vibid:25620001004283": 4,
+      "gas:candidate-vibid:25620001005338": 7,
+      "gas:candidate-vibid:25620001004865": 4,
+      "gas:candidate-vibid:2562000994730": 25,
+      "gas:candidate-vibid:25620001003230": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922491&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922491&type=464",
@@ -11143,16 +11143,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 87,
-      "Калинин Александр Владимирович": 52,
-      "Карпов Александр Николаевич": 130,
-      "Мищеряков Юрий Николаевич": 272,
-      "Рычагов Антон Владимирович": 19,
-      "Столпак Сергей Павлович": 10,
-      "Тишин Владимир Владимирович": 13,
-      "Фомин Сергей Александрович": 18,
-      "Фролов Владимир Иванович": 208,
-      "Химич Сергей Александрович": 11
+      "gas:candidate-vibid:2562000994789": 87,
+      "gas:candidate-vibid:25620001003788": 52,
+      "gas:candidate-vibid:2562000991818": 130,
+      "gas:candidate-vibid:25620001003464": 272,
+      "gas:candidate-vibid:25620001005325": 19,
+      "gas:candidate-vibid:25620001004283": 10,
+      "gas:candidate-vibid:25620001005338": 13,
+      "gas:candidate-vibid:25620001004865": 18,
+      "gas:candidate-vibid:2562000994730": 208,
+      "gas:candidate-vibid:25620001003230": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922491&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922491&type=464",
@@ -11203,16 +11203,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 15,
-      "Калинин Александр Владимирович": 16,
-      "Карпов Александр Николаевич": 45,
-      "Мищеряков Юрий Николаевич": 113,
-      "Рычагов Антон Владимирович": 6,
-      "Столпак Сергей Павлович": 4,
-      "Тишин Владимир Владимирович": 9,
-      "Фомин Сергей Александрович": 5,
-      "Фролов Владимир Иванович": 26,
-      "Химич Сергей Александрович": 14
+      "gas:candidate-vibid:2562000994789": 15,
+      "gas:candidate-vibid:25620001003788": 16,
+      "gas:candidate-vibid:2562000991818": 45,
+      "gas:candidate-vibid:25620001003464": 113,
+      "gas:candidate-vibid:25620001005325": 6,
+      "gas:candidate-vibid:25620001004283": 4,
+      "gas:candidate-vibid:25620001005338": 9,
+      "gas:candidate-vibid:25620001004865": 5,
+      "gas:candidate-vibid:2562000994730": 26,
+      "gas:candidate-vibid:25620001003230": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922491&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922491&type=464",
@@ -11263,16 +11263,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 72,
-      "Калинин Александр Владимирович": 63,
-      "Карпов Александр Николаевич": 283,
-      "Мищеряков Юрий Николаевич": 430,
-      "Рычагов Антон Владимирович": 8,
-      "Столпак Сергей Павлович": 16,
-      "Тишин Владимир Владимирович": 28,
-      "Фомин Сергей Александрович": 34,
-      "Фролов Владимир Иванович": 135,
-      "Химич Сергей Александрович": 15
+      "gas:candidate-vibid:2562000994789": 72,
+      "gas:candidate-vibid:25620001003788": 63,
+      "gas:candidate-vibid:2562000991818": 283,
+      "gas:candidate-vibid:25620001003464": 430,
+      "gas:candidate-vibid:25620001005325": 8,
+      "gas:candidate-vibid:25620001004283": 16,
+      "gas:candidate-vibid:25620001005338": 28,
+      "gas:candidate-vibid:25620001004865": 34,
+      "gas:candidate-vibid:2562000994730": 135,
+      "gas:candidate-vibid:25620001003230": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922491&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922491&type=464",
@@ -11323,16 +11323,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 53,
-      "Калинин Александр Владимирович": 37,
-      "Карпов Александр Николаевич": 120,
-      "Мищеряков Юрий Николаевич": 204,
-      "Рычагов Антон Владимирович": 7,
-      "Столпак Сергей Павлович": 7,
-      "Тишин Владимир Владимирович": 15,
-      "Фомин Сергей Александрович": 19,
-      "Фролов Владимир Иванович": 178,
-      "Химич Сергей Александрович": 9
+      "gas:candidate-vibid:2562000994789": 53,
+      "gas:candidate-vibid:25620001003788": 37,
+      "gas:candidate-vibid:2562000991818": 120,
+      "gas:candidate-vibid:25620001003464": 204,
+      "gas:candidate-vibid:25620001005325": 7,
+      "gas:candidate-vibid:25620001004283": 7,
+      "gas:candidate-vibid:25620001005338": 15,
+      "gas:candidate-vibid:25620001004865": 19,
+      "gas:candidate-vibid:2562000994730": 178,
+      "gas:candidate-vibid:25620001003230": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922491&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922491&type=464",
@@ -11383,16 +11383,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 187,
-      "Калинин Александр Владимирович": 94,
-      "Карпов Александр Николаевич": 210,
-      "Мищеряков Юрий Николаевич": 433,
-      "Рычагов Антон Владимирович": 16,
-      "Столпак Сергей Павлович": 11,
-      "Тишин Владимир Владимирович": 12,
-      "Фомин Сергей Александрович": 12,
-      "Фролов Владимир Иванович": 64,
-      "Химич Сергей Александрович": 9
+      "gas:candidate-vibid:2562000994789": 187,
+      "gas:candidate-vibid:25620001003788": 94,
+      "gas:candidate-vibid:2562000991818": 210,
+      "gas:candidate-vibid:25620001003464": 433,
+      "gas:candidate-vibid:25620001005325": 16,
+      "gas:candidate-vibid:25620001004283": 11,
+      "gas:candidate-vibid:25620001005338": 12,
+      "gas:candidate-vibid:25620001004865": 12,
+      "gas:candidate-vibid:2562000994730": 64,
+      "gas:candidate-vibid:25620001003230": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922492&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922492&type=464",
@@ -11443,16 +11443,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 110,
-      "Калинин Александр Владимирович": 63,
-      "Карпов Александр Николаевич": 134,
-      "Мищеряков Юрий Николаевич": 263,
-      "Рычагов Антон Владимирович": 16,
-      "Столпак Сергей Павлович": 8,
-      "Тишин Владимир Владимирович": 12,
-      "Фомин Сергей Александрович": 16,
-      "Фролов Владимир Иванович": 38,
-      "Химич Сергей Александрович": 13
+      "gas:candidate-vibid:2562000994789": 110,
+      "gas:candidate-vibid:25620001003788": 63,
+      "gas:candidate-vibid:2562000991818": 134,
+      "gas:candidate-vibid:25620001003464": 263,
+      "gas:candidate-vibid:25620001005325": 16,
+      "gas:candidate-vibid:25620001004283": 8,
+      "gas:candidate-vibid:25620001005338": 12,
+      "gas:candidate-vibid:25620001004865": 16,
+      "gas:candidate-vibid:2562000994730": 38,
+      "gas:candidate-vibid:25620001003230": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922492&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922492&type=464",
@@ -11503,16 +11503,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 150,
-      "Калинин Александр Владимирович": 64,
-      "Карпов Александр Николаевич": 167,
-      "Мищеряков Юрий Николаевич": 282,
-      "Рычагов Антон Владимирович": 11,
-      "Столпак Сергей Павлович": 10,
-      "Тишин Владимир Владимирович": 17,
-      "Фомин Сергей Александрович": 21,
-      "Фролов Владимир Иванович": 52,
-      "Химич Сергей Александрович": 15
+      "gas:candidate-vibid:2562000994789": 150,
+      "gas:candidate-vibid:25620001003788": 64,
+      "gas:candidate-vibid:2562000991818": 167,
+      "gas:candidate-vibid:25620001003464": 282,
+      "gas:candidate-vibid:25620001005325": 11,
+      "gas:candidate-vibid:25620001004283": 10,
+      "gas:candidate-vibid:25620001005338": 17,
+      "gas:candidate-vibid:25620001004865": 21,
+      "gas:candidate-vibid:2562000994730": 52,
+      "gas:candidate-vibid:25620001003230": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922492&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922492&type=464",
@@ -11563,16 +11563,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 115,
-      "Калинин Александр Владимирович": 49,
-      "Карпов Александр Николаевич": 97,
-      "Мищеряков Юрий Николаевич": 264,
-      "Рычагов Антон Владимирович": 15,
-      "Столпак Сергей Павлович": 2,
-      "Тишин Владимир Владимирович": 12,
-      "Фомин Сергей Александрович": 13,
-      "Фролов Владимир Иванович": 37,
-      "Химич Сергей Александрович": 21
+      "gas:candidate-vibid:2562000994789": 115,
+      "gas:candidate-vibid:25620001003788": 49,
+      "gas:candidate-vibid:2562000991818": 97,
+      "gas:candidate-vibid:25620001003464": 264,
+      "gas:candidate-vibid:25620001005325": 15,
+      "gas:candidate-vibid:25620001004283": 2,
+      "gas:candidate-vibid:25620001005338": 12,
+      "gas:candidate-vibid:25620001004865": 13,
+      "gas:candidate-vibid:2562000994730": 37,
+      "gas:candidate-vibid:25620001003230": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922492&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922492&type=464",
@@ -11623,16 +11623,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 117,
-      "Калинин Александр Владимирович": 60,
-      "Карпов Александр Николаевич": 134,
-      "Мищеряков Юрий Николаевич": 285,
-      "Рычагов Антон Владимирович": 9,
-      "Столпак Сергей Павлович": 5,
-      "Тишин Владимир Владимирович": 10,
-      "Фомин Сергей Александрович": 14,
-      "Фролов Владимир Иванович": 46,
-      "Химич Сергей Александрович": 13
+      "gas:candidate-vibid:2562000994789": 117,
+      "gas:candidate-vibid:25620001003788": 60,
+      "gas:candidate-vibid:2562000991818": 134,
+      "gas:candidate-vibid:25620001003464": 285,
+      "gas:candidate-vibid:25620001005325": 9,
+      "gas:candidate-vibid:25620001004283": 5,
+      "gas:candidate-vibid:25620001005338": 10,
+      "gas:candidate-vibid:25620001004865": 14,
+      "gas:candidate-vibid:2562000994730": 46,
+      "gas:candidate-vibid:25620001003230": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922492&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922492&type=464",
@@ -11683,16 +11683,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 86,
-      "Калинин Александр Владимирович": 67,
-      "Карпов Александр Николаевич": 123,
-      "Мищеряков Юрий Николаевич": 235,
-      "Рычагов Антон Владимирович": 10,
-      "Столпак Сергей Павлович": 4,
-      "Тишин Владимир Владимирович": 10,
-      "Фомин Сергей Александрович": 10,
-      "Фролов Владимир Иванович": 42,
-      "Химич Сергей Александрович": 14
+      "gas:candidate-vibid:2562000994789": 86,
+      "gas:candidate-vibid:25620001003788": 67,
+      "gas:candidate-vibid:2562000991818": 123,
+      "gas:candidate-vibid:25620001003464": 235,
+      "gas:candidate-vibid:25620001005325": 10,
+      "gas:candidate-vibid:25620001004283": 4,
+      "gas:candidate-vibid:25620001005338": 10,
+      "gas:candidate-vibid:25620001004865": 10,
+      "gas:candidate-vibid:2562000994730": 42,
+      "gas:candidate-vibid:25620001003230": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922492&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922492&type=464",
@@ -11743,16 +11743,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 32,
-      "Калинин Александр Владимирович": 29,
-      "Карпов Александр Николаевич": 43,
-      "Мищеряков Юрий Николаевич": 97,
-      "Рычагов Антон Владимирович": 0,
-      "Столпак Сергей Павлович": 0,
-      "Тишин Владимир Владимирович": 3,
-      "Фомин Сергей Александрович": 2,
-      "Фролов Владимир Иванович": 6,
-      "Химич Сергей Александрович": 4
+      "gas:candidate-vibid:2562000994789": 32,
+      "gas:candidate-vibid:25620001003788": 29,
+      "gas:candidate-vibid:2562000991818": 43,
+      "gas:candidate-vibid:25620001003464": 97,
+      "gas:candidate-vibid:25620001005325": 0,
+      "gas:candidate-vibid:25620001004283": 0,
+      "gas:candidate-vibid:25620001005338": 3,
+      "gas:candidate-vibid:25620001004865": 2,
+      "gas:candidate-vibid:2562000994730": 6,
+      "gas:candidate-vibid:25620001003230": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922492&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922492&type=464",
@@ -11803,16 +11803,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 0,
-      "Калинин Александр Владимирович": 2,
-      "Карпов Александр Николаевич": 0,
-      "Мищеряков Юрий Николаевич": 36,
-      "Рычагов Антон Владимирович": 0,
-      "Столпак Сергей Павлович": 0,
-      "Тишин Владимир Владимирович": 0,
-      "Фомин Сергей Александрович": 0,
-      "Фролов Владимир Иванович": 2,
-      "Химич Сергей Александрович": 0
+      "gas:candidate-vibid:2562000994789": 0,
+      "gas:candidate-vibid:25620001003788": 2,
+      "gas:candidate-vibid:2562000991818": 0,
+      "gas:candidate-vibid:25620001003464": 36,
+      "gas:candidate-vibid:25620001005325": 0,
+      "gas:candidate-vibid:25620001004283": 0,
+      "gas:candidate-vibid:25620001005338": 0,
+      "gas:candidate-vibid:25620001004865": 0,
+      "gas:candidate-vibid:2562000994730": 2,
+      "gas:candidate-vibid:25620001003230": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922492&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922492&type=464",
@@ -11863,16 +11863,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 3,
-      "Калинин Александр Владимирович": 2,
-      "Карпов Александр Николаевич": 2,
-      "Мищеряков Юрий Николаевич": 41,
-      "Рычагов Антон Владимирович": 0,
-      "Столпак Сергей Павлович": 0,
-      "Тишин Владимир Владимирович": 0,
-      "Фомин Сергей Александрович": 0,
-      "Фролов Владимир Иванович": 2,
-      "Химич Сергей Александрович": 0
+      "gas:candidate-vibid:2562000994789": 3,
+      "gas:candidate-vibid:25620001003788": 2,
+      "gas:candidate-vibid:2562000991818": 2,
+      "gas:candidate-vibid:25620001003464": 41,
+      "gas:candidate-vibid:25620001005325": 0,
+      "gas:candidate-vibid:25620001004283": 0,
+      "gas:candidate-vibid:25620001005338": 0,
+      "gas:candidate-vibid:25620001004865": 0,
+      "gas:candidate-vibid:2562000994730": 2,
+      "gas:candidate-vibid:25620001003230": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922492&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922492&type=464",
@@ -11923,16 +11923,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 48,
-      "Калинин Александр Владимирович": 46,
-      "Карпов Александр Николаевич": 40,
-      "Мищеряков Юрий Николаевич": 141,
-      "Рычагов Антон Владимирович": 9,
-      "Столпак Сергей Павлович": 2,
-      "Тишин Владимир Владимирович": 4,
-      "Фомин Сергей Александрович": 4,
-      "Фролов Владимир Иванович": 23,
-      "Химич Сергей Александрович": 17
+      "gas:candidate-vibid:2562000994789": 48,
+      "gas:candidate-vibid:25620001003788": 46,
+      "gas:candidate-vibid:2562000991818": 40,
+      "gas:candidate-vibid:25620001003464": 141,
+      "gas:candidate-vibid:25620001005325": 9,
+      "gas:candidate-vibid:25620001004283": 2,
+      "gas:candidate-vibid:25620001005338": 4,
+      "gas:candidate-vibid:25620001004865": 4,
+      "gas:candidate-vibid:2562000994730": 23,
+      "gas:candidate-vibid:25620001003230": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922492&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922492&type=464",
@@ -11983,16 +11983,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 3,
-      "Калинин Александр Владимирович": 5,
-      "Карпов Александр Николаевич": 10,
-      "Мищеряков Юрий Николаевич": 36,
-      "Рычагов Антон Владимирович": 0,
-      "Столпак Сергей Павлович": 1,
-      "Тишин Владимир Владимирович": 0,
-      "Фомин Сергей Александрович": 1,
-      "Фролов Владимир Иванович": 1,
-      "Химич Сергей Александрович": 0
+      "gas:candidate-vibid:2562000994789": 3,
+      "gas:candidate-vibid:25620001003788": 5,
+      "gas:candidate-vibid:2562000991818": 10,
+      "gas:candidate-vibid:25620001003464": 36,
+      "gas:candidate-vibid:25620001005325": 0,
+      "gas:candidate-vibid:25620001004283": 1,
+      "gas:candidate-vibid:25620001005338": 0,
+      "gas:candidate-vibid:25620001004865": 1,
+      "gas:candidate-vibid:2562000994730": 1,
+      "gas:candidate-vibid:25620001003230": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922492&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922492&type=464",
@@ -12043,16 +12043,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 39,
-      "Калинин Александр Владимирович": 25,
-      "Карпов Александр Николаевич": 34,
-      "Мищеряков Юрий Николаевич": 161,
-      "Рычагов Антон Владимирович": 7,
-      "Столпак Сергей Павлович": 1,
-      "Тишин Владимир Владимирович": 3,
-      "Фомин Сергей Александрович": 1,
-      "Фролов Владимир Иванович": 6,
-      "Химич Сергей Александрович": 0
+      "gas:candidate-vibid:2562000994789": 39,
+      "gas:candidate-vibid:25620001003788": 25,
+      "gas:candidate-vibid:2562000991818": 34,
+      "gas:candidate-vibid:25620001003464": 161,
+      "gas:candidate-vibid:25620001005325": 7,
+      "gas:candidate-vibid:25620001004283": 1,
+      "gas:candidate-vibid:25620001005338": 3,
+      "gas:candidate-vibid:25620001004865": 1,
+      "gas:candidate-vibid:2562000994730": 6,
+      "gas:candidate-vibid:25620001003230": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922492&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922492&type=464",
@@ -12103,16 +12103,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 6,
-      "Калинин Александр Владимирович": 3,
-      "Карпов Александр Николаевич": 5,
-      "Мищеряков Юрий Николаевич": 39,
-      "Рычагов Антон Владимирович": 0,
-      "Столпак Сергей Павлович": 1,
-      "Тишин Владимир Владимирович": 0,
-      "Фомин Сергей Александрович": 0,
-      "Фролов Владимир Иванович": 3,
-      "Химич Сергей Александрович": 0
+      "gas:candidate-vibid:2562000994789": 6,
+      "gas:candidate-vibid:25620001003788": 3,
+      "gas:candidate-vibid:2562000991818": 5,
+      "gas:candidate-vibid:25620001003464": 39,
+      "gas:candidate-vibid:25620001005325": 0,
+      "gas:candidate-vibid:25620001004283": 1,
+      "gas:candidate-vibid:25620001005338": 0,
+      "gas:candidate-vibid:25620001004865": 0,
+      "gas:candidate-vibid:2562000994730": 3,
+      "gas:candidate-vibid:25620001003230": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922492&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922492&type=464",
@@ -12163,16 +12163,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 2,
-      "Калинин Александр Владимирович": 1,
-      "Карпов Александр Николаевич": 17,
-      "Мищеряков Юрий Николаевич": 52,
-      "Рычагов Антон Владимирович": 0,
-      "Столпак Сергей Павлович": 0,
-      "Тишин Владимир Владимирович": 0,
-      "Фомин Сергей Александрович": 0,
-      "Фролов Владимир Иванович": 5,
-      "Химич Сергей Александрович": 0
+      "gas:candidate-vibid:2562000994789": 2,
+      "gas:candidate-vibid:25620001003788": 1,
+      "gas:candidate-vibid:2562000991818": 17,
+      "gas:candidate-vibid:25620001003464": 52,
+      "gas:candidate-vibid:25620001005325": 0,
+      "gas:candidate-vibid:25620001004283": 0,
+      "gas:candidate-vibid:25620001005338": 0,
+      "gas:candidate-vibid:25620001004865": 0,
+      "gas:candidate-vibid:2562000994730": 5,
+      "gas:candidate-vibid:25620001003230": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922492&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922492&type=464",
@@ -12223,16 +12223,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 17,
-      "Калинин Александр Владимирович": 11,
-      "Карпов Александр Николаевич": 13,
-      "Мищеряков Юрий Николаевич": 48,
-      "Рычагов Антон Владимирович": 0,
-      "Столпак Сергей Павлович": 0,
-      "Тишин Владимир Владимирович": 2,
-      "Фомин Сергей Александрович": 0,
-      "Фролов Владимир Иванович": 5,
-      "Химич Сергей Александрович": 3
+      "gas:candidate-vibid:2562000994789": 17,
+      "gas:candidate-vibid:25620001003788": 11,
+      "gas:candidate-vibid:2562000991818": 13,
+      "gas:candidate-vibid:25620001003464": 48,
+      "gas:candidate-vibid:25620001005325": 0,
+      "gas:candidate-vibid:25620001004283": 0,
+      "gas:candidate-vibid:25620001005338": 2,
+      "gas:candidate-vibid:25620001004865": 0,
+      "gas:candidate-vibid:2562000994730": 5,
+      "gas:candidate-vibid:25620001003230": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922492&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922492&type=464",
@@ -12283,16 +12283,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 17,
-      "Калинин Александр Владимирович": 18,
-      "Карпов Александр Николаевич": 23,
-      "Мищеряков Юрий Николаевич": 104,
-      "Рычагов Антон Владимирович": 4,
-      "Столпак Сергей Павлович": 3,
-      "Тишин Владимир Владимирович": 3,
-      "Фомин Сергей Александрович": 1,
-      "Фролов Владимир Иванович": 17,
-      "Химич Сергей Александрович": 6
+      "gas:candidate-vibid:2562000994789": 17,
+      "gas:candidate-vibid:25620001003788": 18,
+      "gas:candidate-vibid:2562000991818": 23,
+      "gas:candidate-vibid:25620001003464": 104,
+      "gas:candidate-vibid:25620001005325": 4,
+      "gas:candidate-vibid:25620001004283": 3,
+      "gas:candidate-vibid:25620001005338": 3,
+      "gas:candidate-vibid:25620001004865": 1,
+      "gas:candidate-vibid:2562000994730": 17,
+      "gas:candidate-vibid:25620001003230": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922492&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922492&type=464",
@@ -12343,16 +12343,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 83,
-      "Калинин Александр Владимирович": 46,
-      "Карпов Александр Николаевич": 83,
-      "Мищеряков Юрий Николаевич": 208,
-      "Рычагов Антон Владимирович": 12,
-      "Столпак Сергей Павлович": 4,
-      "Тишин Владимир Владимирович": 9,
-      "Фомин Сергей Александрович": 3,
-      "Фролов Владимир Иванович": 6,
-      "Химич Сергей Александрович": 5
+      "gas:candidate-vibid:2562000994789": 83,
+      "gas:candidate-vibid:25620001003788": 46,
+      "gas:candidate-vibid:2562000991818": 83,
+      "gas:candidate-vibid:25620001003464": 208,
+      "gas:candidate-vibid:25620001005325": 12,
+      "gas:candidate-vibid:25620001004283": 4,
+      "gas:candidate-vibid:25620001005338": 9,
+      "gas:candidate-vibid:25620001004865": 3,
+      "gas:candidate-vibid:2562000994730": 6,
+      "gas:candidate-vibid:25620001003230": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922492&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922492&type=464",
@@ -12403,16 +12403,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 4,
-      "Калинин Александр Владимирович": 2,
-      "Карпов Александр Николаевич": 11,
-      "Мищеряков Юрий Николаевич": 63,
-      "Рычагов Антон Владимирович": 0,
-      "Столпак Сергей Павлович": 1,
-      "Тишин Владимир Владимирович": 0,
-      "Фомин Сергей Александрович": 1,
-      "Фролов Владимир Иванович": 2,
-      "Химич Сергей Александрович": 0
+      "gas:candidate-vibid:2562000994789": 4,
+      "gas:candidate-vibid:25620001003788": 2,
+      "gas:candidate-vibid:2562000991818": 11,
+      "gas:candidate-vibid:25620001003464": 63,
+      "gas:candidate-vibid:25620001005325": 0,
+      "gas:candidate-vibid:25620001004283": 1,
+      "gas:candidate-vibid:25620001005338": 0,
+      "gas:candidate-vibid:25620001004865": 1,
+      "gas:candidate-vibid:2562000994730": 2,
+      "gas:candidate-vibid:25620001003230": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922492&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922492&type=464",
@@ -12463,16 +12463,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 45,
-      "Калинин Александр Владимирович": 49,
-      "Карпов Александр Николаевич": 69,
-      "Мищеряков Юрий Николаевич": 178,
-      "Рычагов Антон Владимирович": 4,
-      "Столпак Сергей Павлович": 4,
-      "Тишин Владимир Владимирович": 3,
-      "Фомин Сергей Александрович": 4,
-      "Фролов Владимир Иванович": 23,
-      "Химич Сергей Александрович": 2
+      "gas:candidate-vibid:2562000994789": 45,
+      "gas:candidate-vibid:25620001003788": 49,
+      "gas:candidate-vibid:2562000991818": 69,
+      "gas:candidate-vibid:25620001003464": 178,
+      "gas:candidate-vibid:25620001005325": 4,
+      "gas:candidate-vibid:25620001004283": 4,
+      "gas:candidate-vibid:25620001005338": 3,
+      "gas:candidate-vibid:25620001004865": 4,
+      "gas:candidate-vibid:2562000994730": 23,
+      "gas:candidate-vibid:25620001003230": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922492&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922492&type=464",
@@ -12523,16 +12523,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 15,
-      "Калинин Александр Владимирович": 10,
-      "Карпов Александр Николаевич": 18,
-      "Мищеряков Юрий Николаевич": 39,
-      "Рычагов Антон Владимирович": 1,
-      "Столпак Сергей Павлович": 2,
-      "Тишин Владимир Владимирович": 2,
-      "Фомин Сергей Александрович": 0,
-      "Фролов Владимир Иванович": 1,
-      "Химич Сергей Александрович": 0
+      "gas:candidate-vibid:2562000994789": 15,
+      "gas:candidate-vibid:25620001003788": 10,
+      "gas:candidate-vibid:2562000991818": 18,
+      "gas:candidate-vibid:25620001003464": 39,
+      "gas:candidate-vibid:25620001005325": 1,
+      "gas:candidate-vibid:25620001004283": 2,
+      "gas:candidate-vibid:25620001005338": 2,
+      "gas:candidate-vibid:25620001004865": 0,
+      "gas:candidate-vibid:2562000994730": 1,
+      "gas:candidate-vibid:25620001003230": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922492&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922492&type=464",
@@ -12583,16 +12583,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 4,
-      "Калинин Александр Владимирович": 14,
-      "Карпов Александр Николаевич": 16,
-      "Мищеряков Юрий Николаевич": 41,
-      "Рычагов Антон Владимирович": 0,
-      "Столпак Сергей Павлович": 0,
-      "Тишин Владимир Владимирович": 0,
-      "Фомин Сергей Александрович": 1,
-      "Фролов Владимир Иванович": 1,
-      "Химич Сергей Александрович": 0
+      "gas:candidate-vibid:2562000994789": 4,
+      "gas:candidate-vibid:25620001003788": 14,
+      "gas:candidate-vibid:2562000991818": 16,
+      "gas:candidate-vibid:25620001003464": 41,
+      "gas:candidate-vibid:25620001005325": 0,
+      "gas:candidate-vibid:25620001004283": 0,
+      "gas:candidate-vibid:25620001005338": 0,
+      "gas:candidate-vibid:25620001004865": 1,
+      "gas:candidate-vibid:2562000994730": 1,
+      "gas:candidate-vibid:25620001003230": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922492&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922492&type=464",
@@ -12643,16 +12643,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 43,
-      "Калинин Александр Владимирович": 46,
-      "Карпов Александр Николаевич": 72,
-      "Мищеряков Юрий Николаевич": 196,
-      "Рычагов Антон Владимирович": 0,
-      "Столпак Сергей Павлович": 4,
-      "Тишин Владимир Владимирович": 2,
-      "Фомин Сергей Александрович": 3,
-      "Фролов Владимир Иванович": 11,
-      "Химич Сергей Александрович": 2
+      "gas:candidate-vibid:2562000994789": 43,
+      "gas:candidate-vibid:25620001003788": 46,
+      "gas:candidate-vibid:2562000991818": 72,
+      "gas:candidate-vibid:25620001003464": 196,
+      "gas:candidate-vibid:25620001005325": 0,
+      "gas:candidate-vibid:25620001004283": 4,
+      "gas:candidate-vibid:25620001005338": 2,
+      "gas:candidate-vibid:25620001004865": 3,
+      "gas:candidate-vibid:2562000994730": 11,
+      "gas:candidate-vibid:25620001003230": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922492&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922492&type=464",
@@ -12703,16 +12703,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 47,
-      "Калинин Александр Владимирович": 37,
-      "Карпов Александр Николаевич": 44,
-      "Мищеряков Юрий Николаевич": 243,
-      "Рычагов Антон Владимирович": 6,
-      "Столпак Сергей Павлович": 1,
-      "Тишин Владимир Владимирович": 3,
-      "Фомин Сергей Александрович": 1,
-      "Фролов Владимир Иванович": 5,
-      "Химич Сергей Александрович": 7
+      "gas:candidate-vibid:2562000994789": 47,
+      "gas:candidate-vibid:25620001003788": 37,
+      "gas:candidate-vibid:2562000991818": 44,
+      "gas:candidate-vibid:25620001003464": 243,
+      "gas:candidate-vibid:25620001005325": 6,
+      "gas:candidate-vibid:25620001004283": 1,
+      "gas:candidate-vibid:25620001005338": 3,
+      "gas:candidate-vibid:25620001004865": 1,
+      "gas:candidate-vibid:2562000994730": 5,
+      "gas:candidate-vibid:25620001003230": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922492&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922492&type=464",
@@ -12763,16 +12763,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 10,
-      "Калинин Александр Владимирович": 11,
-      "Карпов Александр Николаевич": 20,
-      "Мищеряков Юрий Николаевич": 117,
-      "Рычагов Антон Владимирович": 2,
-      "Столпак Сергей Павлович": 1,
-      "Тишин Владимир Владимирович": 6,
-      "Фомин Сергей Александрович": 0,
-      "Фролов Владимир Иванович": 5,
-      "Химич Сергей Александрович": 0
+      "gas:candidate-vibid:2562000994789": 10,
+      "gas:candidate-vibid:25620001003788": 11,
+      "gas:candidate-vibid:2562000991818": 20,
+      "gas:candidate-vibid:25620001003464": 117,
+      "gas:candidate-vibid:25620001005325": 2,
+      "gas:candidate-vibid:25620001004283": 1,
+      "gas:candidate-vibid:25620001005338": 6,
+      "gas:candidate-vibid:25620001004865": 0,
+      "gas:candidate-vibid:2562000994730": 5,
+      "gas:candidate-vibid:25620001003230": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922492&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922492&type=464",
@@ -12823,16 +12823,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 44,
-      "Калинин Александр Владимирович": 41,
-      "Карпов Александр Николаевич": 53,
-      "Мищеряков Юрий Николаевич": 141,
-      "Рычагов Антон Владимирович": 7,
-      "Столпак Сергей Павлович": 6,
-      "Тишин Владимир Владимирович": 8,
-      "Фомин Сергей Александрович": 5,
-      "Фролов Владимир Иванович": 18,
-      "Химич Сергей Александрович": 8
+      "gas:candidate-vibid:2562000994789": 44,
+      "gas:candidate-vibid:25620001003788": 41,
+      "gas:candidate-vibid:2562000991818": 53,
+      "gas:candidate-vibid:25620001003464": 141,
+      "gas:candidate-vibid:25620001005325": 7,
+      "gas:candidate-vibid:25620001004283": 6,
+      "gas:candidate-vibid:25620001005338": 8,
+      "gas:candidate-vibid:25620001004865": 5,
+      "gas:candidate-vibid:2562000994730": 18,
+      "gas:candidate-vibid:25620001003230": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922492&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922492&type=464",
@@ -12883,16 +12883,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 34,
-      "Калинин Александр Владимирович": 18,
-      "Карпов Александр Николаевич": 41,
-      "Мищеряков Юрий Николаевич": 212,
-      "Рычагов Антон Владимирович": 8,
-      "Столпак Сергей Павлович": 5,
-      "Тишин Владимир Владимирович": 2,
-      "Фомин Сергей Александрович": 9,
-      "Фролов Владимир Иванович": 16,
-      "Химич Сергей Александрович": 3
+      "gas:candidate-vibid:2562000994789": 34,
+      "gas:candidate-vibid:25620001003788": 18,
+      "gas:candidate-vibid:2562000991818": 41,
+      "gas:candidate-vibid:25620001003464": 212,
+      "gas:candidate-vibid:25620001005325": 8,
+      "gas:candidate-vibid:25620001004283": 5,
+      "gas:candidate-vibid:25620001005338": 2,
+      "gas:candidate-vibid:25620001004865": 9,
+      "gas:candidate-vibid:2562000994730": 16,
+      "gas:candidate-vibid:25620001003230": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922492&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922492&type=464",
@@ -12943,16 +12943,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 71,
-      "Калинин Александр Владимирович": 32,
-      "Карпов Александр Николаевич": 46,
-      "Мищеряков Юрий Николаевич": 110,
-      "Рычагов Антон Владимирович": 5,
-      "Столпак Сергей Павлович": 8,
-      "Тишин Владимир Владимирович": 3,
-      "Фомин Сергей Александрович": 5,
-      "Фролов Владимир Иванович": 20,
-      "Химич Сергей Александрович": 5
+      "gas:candidate-vibid:2562000994789": 71,
+      "gas:candidate-vibid:25620001003788": 32,
+      "gas:candidate-vibid:2562000991818": 46,
+      "gas:candidate-vibid:25620001003464": 110,
+      "gas:candidate-vibid:25620001005325": 5,
+      "gas:candidate-vibid:25620001004283": 8,
+      "gas:candidate-vibid:25620001005338": 3,
+      "gas:candidate-vibid:25620001004865": 5,
+      "gas:candidate-vibid:2562000994730": 20,
+      "gas:candidate-vibid:25620001003230": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922492&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922492&type=464",
@@ -13003,16 +13003,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 58,
-      "Калинин Александр Владимирович": 49,
-      "Карпов Александр Николаевич": 69,
-      "Мищеряков Юрий Николаевич": 245,
-      "Рычагов Антон Владимирович": 3,
-      "Столпак Сергей Павлович": 1,
-      "Тишин Владимир Владимирович": 9,
-      "Фомин Сергей Александрович": 13,
-      "Фролов Владимир Иванович": 28,
-      "Химич Сергей Александрович": 10
+      "gas:candidate-vibid:2562000994789": 58,
+      "gas:candidate-vibid:25620001003788": 49,
+      "gas:candidate-vibid:2562000991818": 69,
+      "gas:candidate-vibid:25620001003464": 245,
+      "gas:candidate-vibid:25620001005325": 3,
+      "gas:candidate-vibid:25620001004283": 1,
+      "gas:candidate-vibid:25620001005338": 9,
+      "gas:candidate-vibid:25620001004865": 13,
+      "gas:candidate-vibid:2562000994730": 28,
+      "gas:candidate-vibid:25620001003230": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922492&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922492&type=464",
@@ -13063,16 +13063,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 7,
-      "Калинин Александр Владимирович": 3,
-      "Карпов Александр Николаевич": 12,
-      "Мищеряков Юрий Николаевич": 48,
-      "Рычагов Антон Владимирович": 2,
-      "Столпак Сергей Павлович": 0,
-      "Тишин Владимир Владимирович": 1,
-      "Фомин Сергей Александрович": 1,
-      "Фролов Владимир Иванович": 8,
-      "Химич Сергей Александрович": 1
+      "gas:candidate-vibid:2562000994789": 7,
+      "gas:candidate-vibid:25620001003788": 3,
+      "gas:candidate-vibid:2562000991818": 12,
+      "gas:candidate-vibid:25620001003464": 48,
+      "gas:candidate-vibid:25620001005325": 2,
+      "gas:candidate-vibid:25620001004283": 0,
+      "gas:candidate-vibid:25620001005338": 1,
+      "gas:candidate-vibid:25620001004865": 1,
+      "gas:candidate-vibid:2562000994730": 8,
+      "gas:candidate-vibid:25620001003230": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922492&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922492&type=464",
@@ -13123,16 +13123,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 12,
-      "Калинин Александр Владимирович": 4,
-      "Карпов Александр Николаевич": 7,
-      "Мищеряков Юрий Николаевич": 15,
-      "Рычагов Антон Владимирович": 1,
-      "Столпак Сергей Павлович": 1,
-      "Тишин Владимир Владимирович": 0,
-      "Фомин Сергей Александрович": 2,
-      "Фролов Владимир Иванович": 3,
-      "Химич Сергей Александрович": 1
+      "gas:candidate-vibid:2562000994789": 12,
+      "gas:candidate-vibid:25620001003788": 4,
+      "gas:candidate-vibid:2562000991818": 7,
+      "gas:candidate-vibid:25620001003464": 15,
+      "gas:candidate-vibid:25620001005325": 1,
+      "gas:candidate-vibid:25620001004283": 1,
+      "gas:candidate-vibid:25620001005338": 0,
+      "gas:candidate-vibid:25620001004865": 2,
+      "gas:candidate-vibid:2562000994730": 3,
+      "gas:candidate-vibid:25620001003230": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922492&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922492&type=464",
@@ -13183,16 +13183,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 20,
-      "Калинин Александр Владимирович": 8,
-      "Карпов Александр Николаевич": 23,
-      "Мищеряков Юрий Николаевич": 29,
-      "Рычагов Антон Владимирович": 0,
-      "Столпак Сергей Павлович": 0,
-      "Тишин Владимир Владимирович": 0,
-      "Фомин Сергей Александрович": 0,
-      "Фролов Владимир Иванович": 2,
-      "Химич Сергей Александрович": 0
+      "gas:candidate-vibid:2562000994789": 20,
+      "gas:candidate-vibid:25620001003788": 8,
+      "gas:candidate-vibid:2562000991818": 23,
+      "gas:candidate-vibid:25620001003464": 29,
+      "gas:candidate-vibid:25620001005325": 0,
+      "gas:candidate-vibid:25620001004283": 0,
+      "gas:candidate-vibid:25620001005338": 0,
+      "gas:candidate-vibid:25620001004865": 0,
+      "gas:candidate-vibid:2562000994730": 2,
+      "gas:candidate-vibid:25620001003230": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922492&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922492&type=464",
@@ -13243,16 +13243,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 29,
-      "Калинин Александр Владимирович": 39,
-      "Карпов Александр Николаевич": 59,
-      "Мищеряков Юрий Николаевич": 136,
-      "Рычагов Антон Владимирович": 12,
-      "Столпак Сергей Павлович": 2,
-      "Тишин Владимир Владимирович": 2,
-      "Фомин Сергей Александрович": 3,
-      "Фролов Владимир Иванович": 21,
-      "Химич Сергей Александрович": 0
+      "gas:candidate-vibid:2562000994789": 29,
+      "gas:candidate-vibid:25620001003788": 39,
+      "gas:candidate-vibid:2562000991818": 59,
+      "gas:candidate-vibid:25620001003464": 136,
+      "gas:candidate-vibid:25620001005325": 12,
+      "gas:candidate-vibid:25620001004283": 2,
+      "gas:candidate-vibid:25620001005338": 2,
+      "gas:candidate-vibid:25620001004865": 3,
+      "gas:candidate-vibid:2562000994730": 21,
+      "gas:candidate-vibid:25620001003230": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922492&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922492&type=464",
@@ -13303,16 +13303,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 18,
-      "Калинин Александр Владимирович": 11,
-      "Карпов Александр Николаевич": 10,
-      "Мищеряков Юрий Николаевич": 65,
-      "Рычагов Антон Владимирович": 1,
-      "Столпак Сергей Павлович": 0,
-      "Тишин Владимир Владимирович": 1,
-      "Фомин Сергей Александрович": 2,
-      "Фролов Владимир Иванович": 5,
-      "Химич Сергей Александрович": 0
+      "gas:candidate-vibid:2562000994789": 18,
+      "gas:candidate-vibid:25620001003788": 11,
+      "gas:candidate-vibid:2562000991818": 10,
+      "gas:candidate-vibid:25620001003464": 65,
+      "gas:candidate-vibid:25620001005325": 1,
+      "gas:candidate-vibid:25620001004283": 0,
+      "gas:candidate-vibid:25620001005338": 1,
+      "gas:candidate-vibid:25620001004865": 2,
+      "gas:candidate-vibid:2562000994730": 5,
+      "gas:candidate-vibid:25620001003230": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922492&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922492&type=464",
@@ -13363,16 +13363,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 5,
-      "Калинин Александр Владимирович": 1,
-      "Карпов Александр Николаевич": 5,
-      "Мищеряков Юрий Николаевич": 23,
-      "Рычагов Антон Владимирович": 1,
-      "Столпак Сергей Павлович": 0,
-      "Тишин Владимир Владимирович": 1,
-      "Фомин Сергей Александрович": 1,
-      "Фролов Владимир Иванович": 2,
-      "Химич Сергей Александрович": 1
+      "gas:candidate-vibid:2562000994789": 5,
+      "gas:candidate-vibid:25620001003788": 1,
+      "gas:candidate-vibid:2562000991818": 5,
+      "gas:candidate-vibid:25620001003464": 23,
+      "gas:candidate-vibid:25620001005325": 1,
+      "gas:candidate-vibid:25620001004283": 0,
+      "gas:candidate-vibid:25620001005338": 1,
+      "gas:candidate-vibid:25620001004865": 1,
+      "gas:candidate-vibid:2562000994730": 2,
+      "gas:candidate-vibid:25620001003230": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922492&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922492&type=464",
@@ -13423,16 +13423,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 12,
-      "Калинин Александр Владимирович": 8,
-      "Карпов Александр Николаевич": 9,
-      "Мищеряков Юрий Николаевич": 42,
-      "Рычагов Антон Владимирович": 1,
-      "Столпак Сергей Павлович": 0,
-      "Тишин Владимир Владимирович": 0,
-      "Фомин Сергей Александрович": 1,
-      "Фролов Владимир Иванович": 7,
-      "Химич Сергей Александрович": 1
+      "gas:candidate-vibid:2562000994789": 12,
+      "gas:candidate-vibid:25620001003788": 8,
+      "gas:candidate-vibid:2562000991818": 9,
+      "gas:candidate-vibid:25620001003464": 42,
+      "gas:candidate-vibid:25620001005325": 1,
+      "gas:candidate-vibid:25620001004283": 0,
+      "gas:candidate-vibid:25620001005338": 0,
+      "gas:candidate-vibid:25620001004865": 1,
+      "gas:candidate-vibid:2562000994730": 7,
+      "gas:candidate-vibid:25620001003230": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922492&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922492&type=464",
@@ -13483,16 +13483,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 44,
-      "Калинин Александр Владимирович": 28,
-      "Карпов Александр Николаевич": 32,
-      "Мищеряков Юрий Николаевич": 252,
-      "Рычагов Антон Владимирович": 3,
-      "Столпак Сергей Павлович": 2,
-      "Тишин Владимир Владимирович": 7,
-      "Фомин Сергей Александрович": 2,
-      "Фролов Владимир Иванович": 13,
-      "Химич Сергей Александрович": 2
+      "gas:candidate-vibid:2562000994789": 44,
+      "gas:candidate-vibid:25620001003788": 28,
+      "gas:candidate-vibid:2562000991818": 32,
+      "gas:candidate-vibid:25620001003464": 252,
+      "gas:candidate-vibid:25620001005325": 3,
+      "gas:candidate-vibid:25620001004283": 2,
+      "gas:candidate-vibid:25620001005338": 7,
+      "gas:candidate-vibid:25620001004865": 2,
+      "gas:candidate-vibid:2562000994730": 13,
+      "gas:candidate-vibid:25620001003230": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922492&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922492&type=464",
@@ -13543,16 +13543,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 8,
-      "Калинин Александр Владимирович": 8,
-      "Карпов Александр Николаевич": 9,
-      "Мищеряков Юрий Николаевич": 35,
-      "Рычагов Антон Владимирович": 1,
-      "Столпак Сергей Павлович": 1,
-      "Тишин Владимир Владимирович": 0,
-      "Фомин Сергей Александрович": 1,
-      "Фролов Владимир Иванович": 2,
-      "Химич Сергей Александрович": 1
+      "gas:candidate-vibid:2562000994789": 8,
+      "gas:candidate-vibid:25620001003788": 8,
+      "gas:candidate-vibid:2562000991818": 9,
+      "gas:candidate-vibid:25620001003464": 35,
+      "gas:candidate-vibid:25620001005325": 1,
+      "gas:candidate-vibid:25620001004283": 1,
+      "gas:candidate-vibid:25620001005338": 0,
+      "gas:candidate-vibid:25620001004865": 1,
+      "gas:candidate-vibid:2562000994730": 2,
+      "gas:candidate-vibid:25620001003230": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922492&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922492&type=464",
@@ -13603,16 +13603,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 2,
-      "Калинин Александр Владимирович": 6,
-      "Карпов Александр Николаевич": 4,
-      "Мищеряков Юрий Николаевич": 38,
-      "Рычагов Антон Владимирович": 0,
-      "Столпак Сергей Павлович": 0,
-      "Тишин Владимир Владимирович": 0,
-      "Фомин Сергей Александрович": 0,
-      "Фролов Владимир Иванович": 2,
-      "Химич Сергей Александрович": 2
+      "gas:candidate-vibid:2562000994789": 2,
+      "gas:candidate-vibid:25620001003788": 6,
+      "gas:candidate-vibid:2562000991818": 4,
+      "gas:candidate-vibid:25620001003464": 38,
+      "gas:candidate-vibid:25620001005325": 0,
+      "gas:candidate-vibid:25620001004283": 0,
+      "gas:candidate-vibid:25620001005338": 0,
+      "gas:candidate-vibid:25620001004865": 0,
+      "gas:candidate-vibid:2562000994730": 2,
+      "gas:candidate-vibid:25620001003230": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922492&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922492&type=464",
@@ -13663,16 +13663,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 74,
-      "Калинин Александр Владимирович": 28,
-      "Карпов Александр Николаевич": 14,
-      "Мищеряков Юрий Николаевич": 126,
-      "Рычагов Антон Владимирович": 1,
-      "Столпак Сергей Павлович": 0,
-      "Тишин Владимир Владимирович": 2,
-      "Фомин Сергей Александрович": 2,
-      "Фролов Владимир Иванович": 9,
-      "Химич Сергей Александрович": 2
+      "gas:candidate-vibid:2562000994789": 74,
+      "gas:candidate-vibid:25620001003788": 28,
+      "gas:candidate-vibid:2562000991818": 14,
+      "gas:candidate-vibid:25620001003464": 126,
+      "gas:candidate-vibid:25620001005325": 1,
+      "gas:candidate-vibid:25620001004283": 0,
+      "gas:candidate-vibid:25620001005338": 2,
+      "gas:candidate-vibid:25620001004865": 2,
+      "gas:candidate-vibid:2562000994730": 9,
+      "gas:candidate-vibid:25620001003230": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922492&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922492&type=464",
@@ -13723,16 +13723,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 107,
-      "Калинин Александр Владимирович": 57,
-      "Карпов Александр Николаевич": 57,
-      "Мищеряков Юрий Николаевич": 187,
-      "Рычагов Антон Владимирович": 3,
-      "Столпак Сергей Павлович": 5,
-      "Тишин Владимир Владимирович": 5,
-      "Фомин Сергей Александрович": 7,
-      "Фролов Владимир Иванович": 18,
-      "Химич Сергей Александрович": 4
+      "gas:candidate-vibid:2562000994789": 107,
+      "gas:candidate-vibid:25620001003788": 57,
+      "gas:candidate-vibid:2562000991818": 57,
+      "gas:candidate-vibid:25620001003464": 187,
+      "gas:candidate-vibid:25620001005325": 3,
+      "gas:candidate-vibid:25620001004283": 5,
+      "gas:candidate-vibid:25620001005338": 5,
+      "gas:candidate-vibid:25620001004865": 7,
+      "gas:candidate-vibid:2562000994730": 18,
+      "gas:candidate-vibid:25620001003230": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922492&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922492&type=464",
@@ -13783,16 +13783,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 8,
-      "Калинин Александр Владимирович": 17,
-      "Карпов Александр Николаевич": 7,
-      "Мищеряков Юрий Николаевич": 44,
-      "Рычагов Антон Владимирович": 2,
-      "Столпак Сергей Павлович": 2,
-      "Тишин Владимир Владимирович": 1,
-      "Фомин Сергей Александрович": 1,
-      "Фролов Владимир Иванович": 6,
-      "Химич Сергей Александрович": 0
+      "gas:candidate-vibid:2562000994789": 8,
+      "gas:candidate-vibid:25620001003788": 17,
+      "gas:candidate-vibid:2562000991818": 7,
+      "gas:candidate-vibid:25620001003464": 44,
+      "gas:candidate-vibid:25620001005325": 2,
+      "gas:candidate-vibid:25620001004283": 2,
+      "gas:candidate-vibid:25620001005338": 1,
+      "gas:candidate-vibid:25620001004865": 1,
+      "gas:candidate-vibid:2562000994730": 6,
+      "gas:candidate-vibid:25620001003230": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922492&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922492&type=464",
@@ -13843,16 +13843,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 24,
-      "Калинин Александр Владимирович": 15,
-      "Карпов Александр Николаевич": 11,
-      "Мищеряков Юрий Николаевич": 76,
-      "Рычагов Антон Владимирович": 0,
-      "Столпак Сергей Павлович": 1,
-      "Тишин Владимир Владимирович": 2,
-      "Фомин Сергей Александрович": 1,
-      "Фролов Владимир Иванович": 6,
-      "Химич Сергей Александрович": 2
+      "gas:candidate-vibid:2562000994789": 24,
+      "gas:candidate-vibid:25620001003788": 15,
+      "gas:candidate-vibid:2562000991818": 11,
+      "gas:candidate-vibid:25620001003464": 76,
+      "gas:candidate-vibid:25620001005325": 0,
+      "gas:candidate-vibid:25620001004283": 1,
+      "gas:candidate-vibid:25620001005338": 2,
+      "gas:candidate-vibid:25620001004865": 1,
+      "gas:candidate-vibid:2562000994730": 6,
+      "gas:candidate-vibid:25620001003230": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922492&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922492&type=464",
@@ -13903,16 +13903,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 17,
-      "Калинин Александр Владимирович": 27,
-      "Карпов Александр Николаевич": 7,
-      "Мищеряков Юрий Николаевич": 87,
-      "Рычагов Антон Владимирович": 0,
-      "Столпак Сергей Павлович": 1,
-      "Тишин Владимир Владимирович": 0,
-      "Фомин Сергей Александрович": 0,
-      "Фролов Владимир Иванович": 2,
-      "Химич Сергей Александрович": 1
+      "gas:candidate-vibid:2562000994789": 17,
+      "gas:candidate-vibid:25620001003788": 27,
+      "gas:candidate-vibid:2562000991818": 7,
+      "gas:candidate-vibid:25620001003464": 87,
+      "gas:candidate-vibid:25620001005325": 0,
+      "gas:candidate-vibid:25620001004283": 1,
+      "gas:candidate-vibid:25620001005338": 0,
+      "gas:candidate-vibid:25620001004865": 0,
+      "gas:candidate-vibid:2562000994730": 2,
+      "gas:candidate-vibid:25620001003230": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922492&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922492&type=464",
@@ -13963,16 +13963,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 85,
-      "Калинин Александр Владимирович": 23,
-      "Карпов Александр Николаевич": 28,
-      "Мищеряков Юрий Николаевич": 192,
-      "Рычагов Антон Владимирович": 4,
-      "Столпак Сергей Павлович": 4,
-      "Тишин Владимир Владимирович": 3,
-      "Фомин Сергей Александрович": 5,
-      "Фролов Владимир Иванович": 9,
-      "Химич Сергей Александрович": 0
+      "gas:candidate-vibid:2562000994789": 85,
+      "gas:candidate-vibid:25620001003788": 23,
+      "gas:candidate-vibid:2562000991818": 28,
+      "gas:candidate-vibid:25620001003464": 192,
+      "gas:candidate-vibid:25620001005325": 4,
+      "gas:candidate-vibid:25620001004283": 4,
+      "gas:candidate-vibid:25620001005338": 3,
+      "gas:candidate-vibid:25620001004865": 5,
+      "gas:candidate-vibid:2562000994730": 9,
+      "gas:candidate-vibid:25620001003230": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922492&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922492&type=464",
@@ -14023,16 +14023,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 7,
-      "Калинин Александр Владимирович": 5,
-      "Карпов Александр Николаевич": 9,
-      "Мищеряков Юрий Николаевич": 33,
-      "Рычагов Антон Владимирович": 3,
-      "Столпак Сергей Павлович": 1,
-      "Тишин Владимир Владимирович": 1,
-      "Фомин Сергей Александрович": 0,
-      "Фролов Владимир Иванович": 3,
-      "Химич Сергей Александрович": 0
+      "gas:candidate-vibid:2562000994789": 7,
+      "gas:candidate-vibid:25620001003788": 5,
+      "gas:candidate-vibid:2562000991818": 9,
+      "gas:candidate-vibid:25620001003464": 33,
+      "gas:candidate-vibid:25620001005325": 3,
+      "gas:candidate-vibid:25620001004283": 1,
+      "gas:candidate-vibid:25620001005338": 1,
+      "gas:candidate-vibid:25620001004865": 0,
+      "gas:candidate-vibid:2562000994730": 3,
+      "gas:candidate-vibid:25620001003230": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922492&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922492&type=464",
@@ -14083,16 +14083,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 11,
-      "Калинин Александр Владимирович": 8,
-      "Карпов Александр Николаевич": 11,
-      "Мищеряков Юрий Николаевич": 77,
-      "Рычагов Антон Владимирович": 1,
-      "Столпак Сергей Павлович": 0,
-      "Тишин Владимир Владимирович": 0,
-      "Фомин Сергей Александрович": 1,
-      "Фролов Владимир Иванович": 4,
-      "Химич Сергей Александрович": 2
+      "gas:candidate-vibid:2562000994789": 11,
+      "gas:candidate-vibid:25620001003788": 8,
+      "gas:candidate-vibid:2562000991818": 11,
+      "gas:candidate-vibid:25620001003464": 77,
+      "gas:candidate-vibid:25620001005325": 1,
+      "gas:candidate-vibid:25620001004283": 0,
+      "gas:candidate-vibid:25620001005338": 0,
+      "gas:candidate-vibid:25620001004865": 1,
+      "gas:candidate-vibid:2562000994730": 4,
+      "gas:candidate-vibid:25620001003230": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922492&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922492&type=464",
@@ -14143,16 +14143,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 47,
-      "Калинин Александр Владимирович": 26,
-      "Карпов Александр Николаевич": 27,
-      "Мищеряков Юрий Николаевич": 159,
-      "Рычагов Антон Владимирович": 7,
-      "Столпак Сергей Павлович": 3,
-      "Тишин Владимир Владимирович": 6,
-      "Фомин Сергей Александрович": 8,
-      "Фролов Владимир Иванович": 0,
-      "Химич Сергей Александрович": 0
+      "gas:candidate-vibid:2562000994789": 47,
+      "gas:candidate-vibid:25620001003788": 26,
+      "gas:candidate-vibid:2562000991818": 27,
+      "gas:candidate-vibid:25620001003464": 159,
+      "gas:candidate-vibid:25620001005325": 7,
+      "gas:candidate-vibid:25620001004283": 3,
+      "gas:candidate-vibid:25620001005338": 6,
+      "gas:candidate-vibid:25620001004865": 8,
+      "gas:candidate-vibid:2562000994730": 0,
+      "gas:candidate-vibid:25620001003230": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922492&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922492&type=464",
@@ -14203,16 +14203,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 31,
-      "Калинин Александр Владимирович": 23,
-      "Карпов Александр Николаевич": 14,
-      "Мищеряков Юрий Николаевич": 82,
-      "Рычагов Антон Владимирович": 4,
-      "Столпак Сергей Павлович": 1,
-      "Тишин Владимир Владимирович": 2,
-      "Фомин Сергей Александрович": 3,
-      "Фролов Владимир Иванович": 8,
-      "Химич Сергей Александрович": 0
+      "gas:candidate-vibid:2562000994789": 31,
+      "gas:candidate-vibid:25620001003788": 23,
+      "gas:candidate-vibid:2562000991818": 14,
+      "gas:candidate-vibid:25620001003464": 82,
+      "gas:candidate-vibid:25620001005325": 4,
+      "gas:candidate-vibid:25620001004283": 1,
+      "gas:candidate-vibid:25620001005338": 2,
+      "gas:candidate-vibid:25620001004865": 3,
+      "gas:candidate-vibid:2562000994730": 8,
+      "gas:candidate-vibid:25620001003230": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922492&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922492&type=464",
@@ -14263,16 +14263,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 47,
-      "Калинин Александр Владимирович": 21,
-      "Карпов Александр Николаевич": 31,
-      "Мищеряков Юрий Николаевич": 171,
-      "Рычагов Антон Владимирович": 5,
-      "Столпак Сергей Павлович": 2,
-      "Тишин Владимир Владимирович": 2,
-      "Фомин Сергей Александрович": 2,
-      "Фролов Владимир Иванович": 6,
-      "Химич Сергей Александрович": 2
+      "gas:candidate-vibid:2562000994789": 47,
+      "gas:candidate-vibid:25620001003788": 21,
+      "gas:candidate-vibid:2562000991818": 31,
+      "gas:candidate-vibid:25620001003464": 171,
+      "gas:candidate-vibid:25620001005325": 5,
+      "gas:candidate-vibid:25620001004283": 2,
+      "gas:candidate-vibid:25620001005338": 2,
+      "gas:candidate-vibid:25620001004865": 2,
+      "gas:candidate-vibid:2562000994730": 6,
+      "gas:candidate-vibid:25620001003230": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922492&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922492&type=464",
@@ -14323,16 +14323,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 74,
-      "Калинин Александр Владимирович": 26,
-      "Карпов Александр Николаевич": 35,
-      "Мищеряков Юрий Николаевич": 160,
-      "Рычагов Антон Владимирович": 1,
-      "Столпак Сергей Павлович": 1,
-      "Тишин Владимир Владимирович": 2,
-      "Фомин Сергей Александрович": 0,
-      "Фролов Владимир Иванович": 9,
-      "Химич Сергей Александрович": 3
+      "gas:candidate-vibid:2562000994789": 74,
+      "gas:candidate-vibid:25620001003788": 26,
+      "gas:candidate-vibid:2562000991818": 35,
+      "gas:candidate-vibid:25620001003464": 160,
+      "gas:candidate-vibid:25620001005325": 1,
+      "gas:candidate-vibid:25620001004283": 1,
+      "gas:candidate-vibid:25620001005338": 2,
+      "gas:candidate-vibid:25620001004865": 0,
+      "gas:candidate-vibid:2562000994730": 9,
+      "gas:candidate-vibid:25620001003230": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922492&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922492&type=464",
@@ -14383,16 +14383,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 28,
-      "Калинин Александр Владимирович": 19,
-      "Карпов Александр Николаевич": 22,
-      "Мищеряков Юрий Николаевич": 131,
-      "Рычагов Антон Владимирович": 0,
-      "Столпак Сергей Павлович": 0,
-      "Тишин Владимир Владимирович": 1,
-      "Фомин Сергей Александрович": 0,
-      "Фролов Владимир Иванович": 1,
-      "Химич Сергей Александрович": 0
+      "gas:candidate-vibid:2562000994789": 28,
+      "gas:candidate-vibid:25620001003788": 19,
+      "gas:candidate-vibid:2562000991818": 22,
+      "gas:candidate-vibid:25620001003464": 131,
+      "gas:candidate-vibid:25620001005325": 0,
+      "gas:candidate-vibid:25620001004283": 0,
+      "gas:candidate-vibid:25620001005338": 1,
+      "gas:candidate-vibid:25620001004865": 0,
+      "gas:candidate-vibid:2562000994730": 1,
+      "gas:candidate-vibid:25620001003230": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922492&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922492&type=464",
@@ -14443,16 +14443,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 20,
-      "Калинин Александр Владимирович": 21,
-      "Карпов Александр Николаевич": 46,
-      "Мищеряков Юрий Николаевич": 190,
-      "Рычагов Антон Владимирович": 4,
-      "Столпак Сергей Павлович": 4,
-      "Тишин Владимир Владимирович": 7,
-      "Фомин Сергей Александрович": 7,
-      "Фролов Владимир Иванович": 17,
-      "Химич Сергей Александрович": 1
+      "gas:candidate-vibid:2562000994789": 20,
+      "gas:candidate-vibid:25620001003788": 21,
+      "gas:candidate-vibid:2562000991818": 46,
+      "gas:candidate-vibid:25620001003464": 190,
+      "gas:candidate-vibid:25620001005325": 4,
+      "gas:candidate-vibid:25620001004283": 4,
+      "gas:candidate-vibid:25620001005338": 7,
+      "gas:candidate-vibid:25620001004865": 7,
+      "gas:candidate-vibid:2562000994730": 17,
+      "gas:candidate-vibid:25620001003230": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922492&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922492&type=464",
@@ -14503,16 +14503,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 132,
-      "Калинин Александр Владимирович": 77,
-      "Карпов Александр Николаевич": 122,
-      "Мищеряков Юрий Николаевич": 334,
-      "Рычагов Антон Владимирович": 14,
-      "Столпак Сергей Павлович": 4,
-      "Тишин Владимир Владимирович": 15,
-      "Фомин Сергей Александрович": 24,
-      "Фролов Владимир Иванович": 52,
-      "Химич Сергей Александрович": 8
+      "gas:candidate-vibid:2562000994789": 132,
+      "gas:candidate-vibid:25620001003788": 77,
+      "gas:candidate-vibid:2562000991818": 122,
+      "gas:candidate-vibid:25620001003464": 334,
+      "gas:candidate-vibid:25620001005325": 14,
+      "gas:candidate-vibid:25620001004283": 4,
+      "gas:candidate-vibid:25620001005338": 15,
+      "gas:candidate-vibid:25620001004865": 24,
+      "gas:candidate-vibid:2562000994730": 52,
+      "gas:candidate-vibid:25620001003230": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922493&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922493&type=464",
@@ -14563,16 +14563,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 96,
-      "Калинин Александр Владимирович": 56,
-      "Карпов Александр Николаевич": 133,
-      "Мищеряков Юрий Николаевич": 297,
-      "Рычагов Антон Владимирович": 8,
-      "Столпак Сергей Павлович": 10,
-      "Тишин Владимир Владимирович": 13,
-      "Фомин Сергей Александрович": 23,
-      "Фролов Владимир Иванович": 48,
-      "Химич Сергей Александрович": 8
+      "gas:candidate-vibid:2562000994789": 96,
+      "gas:candidate-vibid:25620001003788": 56,
+      "gas:candidate-vibid:2562000991818": 133,
+      "gas:candidate-vibid:25620001003464": 297,
+      "gas:candidate-vibid:25620001005325": 8,
+      "gas:candidate-vibid:25620001004283": 10,
+      "gas:candidate-vibid:25620001005338": 13,
+      "gas:candidate-vibid:25620001004865": 23,
+      "gas:candidate-vibid:2562000994730": 48,
+      "gas:candidate-vibid:25620001003230": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922493&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922493&type=464",
@@ -14623,16 +14623,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 7,
-      "Калинин Александр Владимирович": 7,
-      "Карпов Александр Николаевич": 8,
-      "Мищеряков Юрий Николаевич": 45,
-      "Рычагов Антон Владимирович": 1,
-      "Столпак Сергей Павлович": 2,
-      "Тишин Владимир Владимирович": 0,
-      "Фомин Сергей Александрович": 4,
-      "Фролов Владимир Иванович": 0,
-      "Химич Сергей Александрович": 0
+      "gas:candidate-vibid:2562000994789": 7,
+      "gas:candidate-vibid:25620001003788": 7,
+      "gas:candidate-vibid:2562000991818": 8,
+      "gas:candidate-vibid:25620001003464": 45,
+      "gas:candidate-vibid:25620001005325": 1,
+      "gas:candidate-vibid:25620001004283": 2,
+      "gas:candidate-vibid:25620001005338": 0,
+      "gas:candidate-vibid:25620001004865": 4,
+      "gas:candidate-vibid:2562000994730": 0,
+      "gas:candidate-vibid:25620001003230": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922493&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922493&type=464",
@@ -14683,16 +14683,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 48,
-      "Калинин Александр Владимирович": 78,
-      "Карпов Александр Николаевич": 50,
-      "Мищеряков Юрий Николаевич": 210,
-      "Рычагов Антон Владимирович": 11,
-      "Столпак Сергей Павлович": 1,
-      "Тишин Владимир Владимирович": 5,
-      "Фомин Сергей Александрович": 7,
-      "Фролов Владимир Иванович": 16,
-      "Химич Сергей Александрович": 7
+      "gas:candidate-vibid:2562000994789": 48,
+      "gas:candidate-vibid:25620001003788": 78,
+      "gas:candidate-vibid:2562000991818": 50,
+      "gas:candidate-vibid:25620001003464": 210,
+      "gas:candidate-vibid:25620001005325": 11,
+      "gas:candidate-vibid:25620001004283": 1,
+      "gas:candidate-vibid:25620001005338": 5,
+      "gas:candidate-vibid:25620001004865": 7,
+      "gas:candidate-vibid:2562000994730": 16,
+      "gas:candidate-vibid:25620001003230": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922493&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922493&type=464",
@@ -14743,16 +14743,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 36,
-      "Калинин Александр Владимирович": 27,
-      "Карпов Александр Николаевич": 33,
-      "Мищеряков Юрий Николаевич": 202,
-      "Рычагов Антон Владимирович": 2,
-      "Столпак Сергей Павлович": 1,
-      "Тишин Владимир Владимирович": 4,
-      "Фомин Сергей Александрович": 5,
-      "Фролов Владимир Иванович": 19,
-      "Химич Сергей Александрович": 3
+      "gas:candidate-vibid:2562000994789": 36,
+      "gas:candidate-vibid:25620001003788": 27,
+      "gas:candidate-vibid:2562000991818": 33,
+      "gas:candidate-vibid:25620001003464": 202,
+      "gas:candidate-vibid:25620001005325": 2,
+      "gas:candidate-vibid:25620001004283": 1,
+      "gas:candidate-vibid:25620001005338": 4,
+      "gas:candidate-vibid:25620001004865": 5,
+      "gas:candidate-vibid:2562000994730": 19,
+      "gas:candidate-vibid:25620001003230": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922493&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922493&type=464",
@@ -14803,16 +14803,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 4,
-      "Калинин Александр Владимирович": 4,
-      "Карпов Александр Николаевич": 14,
-      "Мищеряков Юрий Николаевич": 35,
-      "Рычагов Антон Владимирович": 4,
-      "Столпак Сергей Павлович": 2,
-      "Тишин Владимир Владимирович": 0,
-      "Фомин Сергей Александрович": 1,
-      "Фролов Владимир Иванович": 1,
-      "Химич Сергей Александрович": 0
+      "gas:candidate-vibid:2562000994789": 4,
+      "gas:candidate-vibid:25620001003788": 4,
+      "gas:candidate-vibid:2562000991818": 14,
+      "gas:candidate-vibid:25620001003464": 35,
+      "gas:candidate-vibid:25620001005325": 4,
+      "gas:candidate-vibid:25620001004283": 2,
+      "gas:candidate-vibid:25620001005338": 0,
+      "gas:candidate-vibid:25620001004865": 1,
+      "gas:candidate-vibid:2562000994730": 1,
+      "gas:candidate-vibid:25620001003230": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922493&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922493&type=464",
@@ -14863,16 +14863,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 37,
-      "Калинин Александр Владимирович": 45,
-      "Карпов Александр Николаевич": 87,
-      "Мищеряков Юрий Николаевич": 391,
-      "Рычагов Антон Владимирович": 21,
-      "Столпак Сергей Павлович": 6,
-      "Тишин Владимир Владимирович": 8,
-      "Фомин Сергей Александрович": 18,
-      "Фролов Владимир Иванович": 32,
-      "Химич Сергей Александрович": 13
+      "gas:candidate-vibid:2562000994789": 37,
+      "gas:candidate-vibid:25620001003788": 45,
+      "gas:candidate-vibid:2562000991818": 87,
+      "gas:candidate-vibid:25620001003464": 391,
+      "gas:candidate-vibid:25620001005325": 21,
+      "gas:candidate-vibid:25620001004283": 6,
+      "gas:candidate-vibid:25620001005338": 8,
+      "gas:candidate-vibid:25620001004865": 18,
+      "gas:candidate-vibid:2562000994730": 32,
+      "gas:candidate-vibid:25620001003230": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922493&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922493&type=464",
@@ -14923,16 +14923,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 3,
-      "Калинин Александр Владимирович": 2,
-      "Карпов Александр Николаевич": 7,
-      "Мищеряков Юрий Николаевич": 48,
-      "Рычагов Антон Владимирович": 1,
-      "Столпак Сергей Павлович": 1,
-      "Тишин Владимир Владимирович": 1,
-      "Фомин Сергей Александрович": 1,
-      "Фролов Владимир Иванович": 3,
-      "Химич Сергей Александрович": 0
+      "gas:candidate-vibid:2562000994789": 3,
+      "gas:candidate-vibid:25620001003788": 2,
+      "gas:candidate-vibid:2562000991818": 7,
+      "gas:candidate-vibid:25620001003464": 48,
+      "gas:candidate-vibid:25620001005325": 1,
+      "gas:candidate-vibid:25620001004283": 1,
+      "gas:candidate-vibid:25620001005338": 1,
+      "gas:candidate-vibid:25620001004865": 1,
+      "gas:candidate-vibid:2562000994730": 3,
+      "gas:candidate-vibid:25620001003230": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922493&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922493&type=464",
@@ -14983,16 +14983,16 @@ export const duma_2016_uik_463_region_56_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 31,
-      "Калинин Александр Владимирович": 22,
-      "Карпов Александр Николаевич": 19,
-      "Мищеряков Юрий Николаевич": 58,
-      "Рычагов Антон Владимирович": 0,
-      "Столпак Сергей Павлович": 2,
-      "Тишин Владимир Владимирович": 0,
-      "Фомин Сергей Александрович": 4,
-      "Фролов Владимир Иванович": 5,
-      "Химич Сергей Александрович": 1
+      "gas:candidate-vibid:2562000994789": 31,
+      "gas:candidate-vibid:25620001003788": 22,
+      "gas:candidate-vibid:2562000991818": 19,
+      "gas:candidate-vibid:25620001003464": 58,
+      "gas:candidate-vibid:25620001005325": 0,
+      "gas:candidate-vibid:25620001004283": 2,
+      "gas:candidate-vibid:25620001005338": 0,
+      "gas:candidate-vibid:25620001004865": 4,
+      "gas:candidate-vibid:2562000994730": 5,
+      "gas:candidate-vibid:25620001003230": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922493&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922493&type=464",

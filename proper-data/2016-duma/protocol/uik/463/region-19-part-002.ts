@@ -43,12 +43,12 @@ export const duma_2016_uik_463_region_19_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буреев Дмитрий Викторович": 38,
-      "Верьясов Виктор Викторович": 16,
-      "Иванов Олег Альбертович": 76,
-      "Максимова Надежда Сергеевна": 168,
-      "Миндибекова Людмила Анатольевна": 101,
-      "Семенов Александр Геннадьевич": 138
+      "gas:candidate-vibid:2192000461017": 38,
+      "gas:candidate-vibid:2192000463107": 16,
+      "gas:candidate-vibid:2192000462955": 76,
+      "gas:candidate-vibid:2192000463096": 168,
+      "gas:candidate-vibid:2192000461913": 101,
+      "gas:candidate-vibid:2192000461790": 138
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khakas?action=show&root=1000051&tvd=2192000448413&vrn=100100067795849&region=19&global=&sub_region=19&prver=0&pronetvd=null&vibid=2192000448413&type=464",
@@ -99,12 +99,12 @@ export const duma_2016_uik_463_region_19_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буреев Дмитрий Викторович": 68,
-      "Верьясов Виктор Викторович": 43,
-      "Иванов Олег Альбертович": 88,
-      "Максимова Надежда Сергеевна": 186,
-      "Миндибекова Людмила Анатольевна": 108,
-      "Семенов Александр Геннадьевич": 175
+      "gas:candidate-vibid:2192000461017": 68,
+      "gas:candidate-vibid:2192000463107": 43,
+      "gas:candidate-vibid:2192000462955": 88,
+      "gas:candidate-vibid:2192000463096": 186,
+      "gas:candidate-vibid:2192000461913": 108,
+      "gas:candidate-vibid:2192000461790": 175
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khakas?action=show&root=1000051&tvd=2192000448413&vrn=100100067795849&region=19&global=&sub_region=19&prver=0&pronetvd=null&vibid=2192000448413&type=464",
@@ -155,12 +155,12 @@ export const duma_2016_uik_463_region_19_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буреев Дмитрий Викторович": 77,
-      "Верьясов Виктор Викторович": 43,
-      "Иванов Олег Альбертович": 92,
-      "Максимова Надежда Сергеевна": 204,
-      "Миндибекова Людмила Анатольевна": 93,
-      "Семенов Александр Геннадьевич": 231
+      "gas:candidate-vibid:2192000461017": 77,
+      "gas:candidate-vibid:2192000463107": 43,
+      "gas:candidate-vibid:2192000462955": 92,
+      "gas:candidate-vibid:2192000463096": 204,
+      "gas:candidate-vibid:2192000461913": 93,
+      "gas:candidate-vibid:2192000461790": 231
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khakas?action=show&root=1000051&tvd=2192000448413&vrn=100100067795849&region=19&global=&sub_region=19&prver=0&pronetvd=null&vibid=2192000448413&type=464",
@@ -211,12 +211,12 @@ export const duma_2016_uik_463_region_19_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буреев Дмитрий Викторович": 55,
-      "Верьясов Виктор Викторович": 45,
-      "Иванов Олег Альбертович": 89,
-      "Максимова Надежда Сергеевна": 184,
-      "Миндибекова Людмила Анатольевна": 89,
-      "Семенов Александр Геннадьевич": 214
+      "gas:candidate-vibid:2192000461017": 55,
+      "gas:candidate-vibid:2192000463107": 45,
+      "gas:candidate-vibid:2192000462955": 89,
+      "gas:candidate-vibid:2192000463096": 184,
+      "gas:candidate-vibid:2192000461913": 89,
+      "gas:candidate-vibid:2192000461790": 214
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khakas?action=show&root=1000051&tvd=2192000448413&vrn=100100067795849&region=19&global=&sub_region=19&prver=0&pronetvd=null&vibid=2192000448413&type=464",
@@ -267,12 +267,12 @@ export const duma_2016_uik_463_region_19_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буреев Дмитрий Викторович": 47,
-      "Верьясов Виктор Викторович": 24,
-      "Иванов Олег Альбертович": 71,
-      "Максимова Надежда Сергеевна": 142,
-      "Миндибекова Людмила Анатольевна": 53,
-      "Семенов Александр Геннадьевич": 112
+      "gas:candidate-vibid:2192000461017": 47,
+      "gas:candidate-vibid:2192000463107": 24,
+      "gas:candidate-vibid:2192000462955": 71,
+      "gas:candidate-vibid:2192000463096": 142,
+      "gas:candidate-vibid:2192000461913": 53,
+      "gas:candidate-vibid:2192000461790": 112
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khakas?action=show&root=1000051&tvd=2192000448413&vrn=100100067795849&region=19&global=&sub_region=19&prver=0&pronetvd=null&vibid=2192000448413&type=464",
@@ -323,12 +323,12 @@ export const duma_2016_uik_463_region_19_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буреев Дмитрий Викторович": 49,
-      "Верьясов Виктор Викторович": 20,
-      "Иванов Олег Альбертович": 49,
-      "Максимова Надежда Сергеевна": 133,
-      "Миндибекова Людмила Анатольевна": 84,
-      "Семенов Александр Геннадьевич": 142
+      "gas:candidate-vibid:2192000461017": 49,
+      "gas:candidate-vibid:2192000463107": 20,
+      "gas:candidate-vibid:2192000462955": 49,
+      "gas:candidate-vibid:2192000463096": 133,
+      "gas:candidate-vibid:2192000461913": 84,
+      "gas:candidate-vibid:2192000461790": 142
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khakas?action=show&root=1000051&tvd=2192000448413&vrn=100100067795849&region=19&global=&sub_region=19&prver=0&pronetvd=null&vibid=2192000448413&type=464",
@@ -379,12 +379,12 @@ export const duma_2016_uik_463_region_19_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буреев Дмитрий Викторович": 35,
-      "Верьясов Виктор Викторович": 11,
-      "Иванов Олег Альбертович": 40,
-      "Максимова Надежда Сергеевна": 81,
-      "Миндибекова Людмила Анатольевна": 40,
-      "Семенов Александр Геннадьевич": 98
+      "gas:candidate-vibid:2192000461017": 35,
+      "gas:candidate-vibid:2192000463107": 11,
+      "gas:candidate-vibid:2192000462955": 40,
+      "gas:candidate-vibid:2192000463096": 81,
+      "gas:candidate-vibid:2192000461913": 40,
+      "gas:candidate-vibid:2192000461790": 98
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khakas?action=show&root=1000051&tvd=2192000448413&vrn=100100067795849&region=19&global=&sub_region=19&prver=0&pronetvd=null&vibid=2192000448413&type=464",
@@ -435,12 +435,12 @@ export const duma_2016_uik_463_region_19_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буреев Дмитрий Викторович": 63,
-      "Верьясов Виктор Викторович": 44,
-      "Иванов Олег Альбертович": 80,
-      "Максимова Надежда Сергеевна": 175,
-      "Миндибекова Людмила Анатольевна": 69,
-      "Семенов Александр Геннадьевич": 135
+      "gas:candidate-vibid:2192000461017": 63,
+      "gas:candidate-vibid:2192000463107": 44,
+      "gas:candidate-vibid:2192000462955": 80,
+      "gas:candidate-vibid:2192000463096": 175,
+      "gas:candidate-vibid:2192000461913": 69,
+      "gas:candidate-vibid:2192000461790": 135
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khakas?action=show&root=1000051&tvd=2192000448413&vrn=100100067795849&region=19&global=&sub_region=19&prver=0&pronetvd=null&vibid=2192000448413&type=464",
@@ -491,12 +491,12 @@ export const duma_2016_uik_463_region_19_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буреев Дмитрий Викторович": 85,
-      "Верьясов Виктор Викторович": 23,
-      "Иванов Олег Альбертович": 76,
-      "Максимова Надежда Сергеевна": 223,
-      "Миндибекова Людмила Анатольевна": 86,
-      "Семенов Александр Геннадьевич": 336
+      "gas:candidate-vibid:2192000461017": 85,
+      "gas:candidate-vibid:2192000463107": 23,
+      "gas:candidate-vibid:2192000462955": 76,
+      "gas:candidate-vibid:2192000463096": 223,
+      "gas:candidate-vibid:2192000461913": 86,
+      "gas:candidate-vibid:2192000461790": 336
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khakas?action=show&root=1000051&tvd=2192000448413&vrn=100100067795849&region=19&global=&sub_region=19&prver=0&pronetvd=null&vibid=2192000448413&type=464",
@@ -547,12 +547,12 @@ export const duma_2016_uik_463_region_19_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буреев Дмитрий Викторович": 98,
-      "Верьясов Виктор Викторович": 30,
-      "Иванов Олег Альбертович": 90,
-      "Максимова Надежда Сергеевна": 270,
-      "Миндибекова Людмила Анатольевна": 121,
-      "Семенов Александр Геннадьевич": 280
+      "gas:candidate-vibid:2192000461017": 98,
+      "gas:candidate-vibid:2192000463107": 30,
+      "gas:candidate-vibid:2192000462955": 90,
+      "gas:candidate-vibid:2192000463096": 270,
+      "gas:candidate-vibid:2192000461913": 121,
+      "gas:candidate-vibid:2192000461790": 280
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khakas?action=show&root=1000051&tvd=2192000448413&vrn=100100067795849&region=19&global=&sub_region=19&prver=0&pronetvd=null&vibid=2192000448413&type=464",
@@ -603,12 +603,12 @@ export const duma_2016_uik_463_region_19_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буреев Дмитрий Викторович": 77,
-      "Верьясов Виктор Викторович": 22,
-      "Иванов Олег Альбертович": 64,
-      "Максимова Надежда Сергеевна": 200,
-      "Миндибекова Людмила Анатольевна": 93,
-      "Семенов Александр Геннадьевич": 305
+      "gas:candidate-vibid:2192000461017": 77,
+      "gas:candidate-vibid:2192000463107": 22,
+      "gas:candidate-vibid:2192000462955": 64,
+      "gas:candidate-vibid:2192000463096": 200,
+      "gas:candidate-vibid:2192000461913": 93,
+      "gas:candidate-vibid:2192000461790": 305
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khakas?action=show&root=1000051&tvd=2192000448413&vrn=100100067795849&region=19&global=&sub_region=19&prver=0&pronetvd=null&vibid=2192000448413&type=464",
@@ -659,12 +659,12 @@ export const duma_2016_uik_463_region_19_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буреев Дмитрий Викторович": 45,
-      "Верьясов Виктор Викторович": 12,
-      "Иванов Олег Альбертович": 40,
-      "Максимова Надежда Сергеевна": 107,
-      "Миндибекова Людмила Анатольевна": 21,
-      "Семенов Александр Геннадьевич": 97
+      "gas:candidate-vibid:2192000461017": 45,
+      "gas:candidate-vibid:2192000463107": 12,
+      "gas:candidate-vibid:2192000462955": 40,
+      "gas:candidate-vibid:2192000463096": 107,
+      "gas:candidate-vibid:2192000461913": 21,
+      "gas:candidate-vibid:2192000461790": 97
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khakas?action=show&root=1000051&tvd=2192000448413&vrn=100100067795849&region=19&global=&sub_region=19&prver=0&pronetvd=null&vibid=2192000448413&type=464",
@@ -715,12 +715,12 @@ export const duma_2016_uik_463_region_19_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буреев Дмитрий Викторович": 160,
-      "Верьясов Виктор Викторович": 48,
-      "Иванов Олег Альбертович": 120,
-      "Максимова Надежда Сергеевна": 522,
-      "Миндибекова Людмила Анатольевна": 120,
-      "Семенов Александр Геннадьевич": 291
+      "gas:candidate-vibid:2192000461017": 160,
+      "gas:candidate-vibid:2192000463107": 48,
+      "gas:candidate-vibid:2192000462955": 120,
+      "gas:candidate-vibid:2192000463096": 522,
+      "gas:candidate-vibid:2192000461913": 120,
+      "gas:candidate-vibid:2192000461790": 291
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khakas?action=show&root=1000051&tvd=2192000448413&vrn=100100067795849&region=19&global=&sub_region=19&prver=0&pronetvd=null&vibid=2192000448413&type=464",
@@ -771,12 +771,12 @@ export const duma_2016_uik_463_region_19_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буреев Дмитрий Викторович": 68,
-      "Верьясов Виктор Викторович": 25,
-      "Иванов Олег Альбертович": 57,
-      "Максимова Надежда Сергеевна": 153,
-      "Миндибекова Людмила Анатольевна": 49,
-      "Семенов Александр Геннадьевич": 161
+      "gas:candidate-vibid:2192000461017": 68,
+      "gas:candidate-vibid:2192000463107": 25,
+      "gas:candidate-vibid:2192000462955": 57,
+      "gas:candidate-vibid:2192000463096": 153,
+      "gas:candidate-vibid:2192000461913": 49,
+      "gas:candidate-vibid:2192000461790": 161
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khakas?action=show&root=1000051&tvd=2192000448413&vrn=100100067795849&region=19&global=&sub_region=19&prver=0&pronetvd=null&vibid=2192000448413&type=464",
@@ -827,12 +827,12 @@ export const duma_2016_uik_463_region_19_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буреев Дмитрий Викторович": 79,
-      "Верьясов Виктор Викторович": 18,
-      "Иванов Олег Альбертович": 49,
-      "Максимова Надежда Сергеевна": 159,
-      "Миндибекова Людмила Анатольевна": 66,
-      "Семенов Александр Геннадьевич": 174
+      "gas:candidate-vibid:2192000461017": 79,
+      "gas:candidate-vibid:2192000463107": 18,
+      "gas:candidate-vibid:2192000462955": 49,
+      "gas:candidate-vibid:2192000463096": 159,
+      "gas:candidate-vibid:2192000461913": 66,
+      "gas:candidate-vibid:2192000461790": 174
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khakas?action=show&root=1000051&tvd=2192000448413&vrn=100100067795849&region=19&global=&sub_region=19&prver=0&pronetvd=null&vibid=2192000448413&type=464",
@@ -883,12 +883,12 @@ export const duma_2016_uik_463_region_19_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буреев Дмитрий Викторович": 73,
-      "Верьясов Виктор Викторович": 5,
-      "Иванов Олег Альбертович": 29,
-      "Максимова Надежда Сергеевна": 150,
-      "Миндибекова Людмила Анатольевна": 57,
-      "Семенов Александр Геннадьевич": 170
+      "gas:candidate-vibid:2192000461017": 73,
+      "gas:candidate-vibid:2192000463107": 5,
+      "gas:candidate-vibid:2192000462955": 29,
+      "gas:candidate-vibid:2192000463096": 150,
+      "gas:candidate-vibid:2192000461913": 57,
+      "gas:candidate-vibid:2192000461790": 170
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khakas?action=show&root=1000051&tvd=2192000448413&vrn=100100067795849&region=19&global=&sub_region=19&prver=0&pronetvd=null&vibid=2192000448413&type=464",
@@ -939,12 +939,12 @@ export const duma_2016_uik_463_region_19_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буреев Дмитрий Викторович": 40,
-      "Верьясов Виктор Викторович": 18,
-      "Иванов Олег Альбертович": 38,
-      "Максимова Надежда Сергеевна": 137,
-      "Миндибекова Людмила Анатольевна": 34,
-      "Семенов Александр Геннадьевич": 140
+      "gas:candidate-vibid:2192000461017": 40,
+      "gas:candidate-vibid:2192000463107": 18,
+      "gas:candidate-vibid:2192000462955": 38,
+      "gas:candidate-vibid:2192000463096": 137,
+      "gas:candidate-vibid:2192000461913": 34,
+      "gas:candidate-vibid:2192000461790": 140
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khakas?action=show&root=1000051&tvd=2192000448413&vrn=100100067795849&region=19&global=&sub_region=19&prver=0&pronetvd=null&vibid=2192000448413&type=464",
@@ -995,12 +995,12 @@ export const duma_2016_uik_463_region_19_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буреев Дмитрий Викторович": 45,
-      "Верьясов Виктор Викторович": 9,
-      "Иванов Олег Альбертович": 30,
-      "Максимова Надежда Сергеевна": 122,
-      "Миндибекова Людмила Анатольевна": 37,
-      "Семенов Александр Геннадьевич": 90
+      "gas:candidate-vibid:2192000461017": 45,
+      "gas:candidate-vibid:2192000463107": 9,
+      "gas:candidate-vibid:2192000462955": 30,
+      "gas:candidate-vibid:2192000463096": 122,
+      "gas:candidate-vibid:2192000461913": 37,
+      "gas:candidate-vibid:2192000461790": 90
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khakas?action=show&root=1000051&tvd=2192000448413&vrn=100100067795849&region=19&global=&sub_region=19&prver=0&pronetvd=null&vibid=2192000448413&type=464",
@@ -1051,12 +1051,12 @@ export const duma_2016_uik_463_region_19_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буреев Дмитрий Викторович": 41,
-      "Верьясов Виктор Викторович": 15,
-      "Иванов Олег Альбертович": 46,
-      "Максимова Надежда Сергеевна": 161,
-      "Миндибекова Людмила Анатольевна": 45,
-      "Семенов Александр Геннадьевич": 164
+      "gas:candidate-vibid:2192000461017": 41,
+      "gas:candidate-vibid:2192000463107": 15,
+      "gas:candidate-vibid:2192000462955": 46,
+      "gas:candidate-vibid:2192000463096": 161,
+      "gas:candidate-vibid:2192000461913": 45,
+      "gas:candidate-vibid:2192000461790": 164
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khakas?action=show&root=1000051&tvd=2192000448413&vrn=100100067795849&region=19&global=&sub_region=19&prver=0&pronetvd=null&vibid=2192000448413&type=464",
@@ -1107,12 +1107,12 @@ export const duma_2016_uik_463_region_19_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буреев Дмитрий Викторович": 52,
-      "Верьясов Виктор Викторович": 13,
-      "Иванов Олег Альбертович": 21,
-      "Максимова Надежда Сергеевна": 120,
-      "Миндибекова Людмила Анатольевна": 49,
-      "Семенов Александр Геннадьевич": 142
+      "gas:candidate-vibid:2192000461017": 52,
+      "gas:candidate-vibid:2192000463107": 13,
+      "gas:candidate-vibid:2192000462955": 21,
+      "gas:candidate-vibid:2192000463096": 120,
+      "gas:candidate-vibid:2192000461913": 49,
+      "gas:candidate-vibid:2192000461790": 142
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khakas?action=show&root=1000051&tvd=2192000448413&vrn=100100067795849&region=19&global=&sub_region=19&prver=0&pronetvd=null&vibid=2192000448413&type=464",
@@ -1163,12 +1163,12 @@ export const duma_2016_uik_463_region_19_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буреев Дмитрий Викторович": 66,
-      "Верьясов Виктор Викторович": 23,
-      "Иванов Олег Альбертович": 54,
-      "Максимова Надежда Сергеевна": 131,
-      "Миндибекова Людмила Анатольевна": 82,
-      "Семенов Александр Геннадьевич": 145
+      "gas:candidate-vibid:2192000461017": 66,
+      "gas:candidate-vibid:2192000463107": 23,
+      "gas:candidate-vibid:2192000462955": 54,
+      "gas:candidate-vibid:2192000463096": 131,
+      "gas:candidate-vibid:2192000461913": 82,
+      "gas:candidate-vibid:2192000461790": 145
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khakas?action=show&root=1000051&tvd=2192000448413&vrn=100100067795849&region=19&global=&sub_region=19&prver=0&pronetvd=null&vibid=2192000448413&type=464",
@@ -1219,12 +1219,12 @@ export const duma_2016_uik_463_region_19_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буреев Дмитрий Викторович": 35,
-      "Верьясов Виктор Викторович": 15,
-      "Иванов Олег Альбертович": 44,
-      "Максимова Надежда Сергеевна": 103,
-      "Миндибекова Людмила Анатольевна": 41,
-      "Семенов Александр Геннадьевич": 102
+      "gas:candidate-vibid:2192000461017": 35,
+      "gas:candidate-vibid:2192000463107": 15,
+      "gas:candidate-vibid:2192000462955": 44,
+      "gas:candidate-vibid:2192000463096": 103,
+      "gas:candidate-vibid:2192000461913": 41,
+      "gas:candidate-vibid:2192000461790": 102
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khakas?action=show&root=1000051&tvd=2192000448413&vrn=100100067795849&region=19&global=&sub_region=19&prver=0&pronetvd=null&vibid=2192000448413&type=464",
@@ -1275,12 +1275,12 @@ export const duma_2016_uik_463_region_19_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буреев Дмитрий Викторович": 27,
-      "Верьясов Виктор Викторович": 19,
-      "Иванов Олег Альбертович": 62,
-      "Максимова Надежда Сергеевна": 136,
-      "Миндибекова Людмила Анатольевна": 77,
-      "Семенов Александр Геннадьевич": 140
+      "gas:candidate-vibid:2192000461017": 27,
+      "gas:candidate-vibid:2192000463107": 19,
+      "gas:candidate-vibid:2192000462955": 62,
+      "gas:candidate-vibid:2192000463096": 136,
+      "gas:candidate-vibid:2192000461913": 77,
+      "gas:candidate-vibid:2192000461790": 140
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khakas?action=show&root=1000051&tvd=2192000448413&vrn=100100067795849&region=19&global=&sub_region=19&prver=0&pronetvd=null&vibid=2192000448413&type=464",
@@ -1331,12 +1331,12 @@ export const duma_2016_uik_463_region_19_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буреев Дмитрий Викторович": 44,
-      "Верьясов Виктор Викторович": 34,
-      "Иванов Олег Альбертович": 91,
-      "Максимова Надежда Сергеевна": 222,
-      "Миндибекова Людмила Анатольевна": 68,
-      "Семенов Александр Геннадьевич": 192
+      "gas:candidate-vibid:2192000461017": 44,
+      "gas:candidate-vibid:2192000463107": 34,
+      "gas:candidate-vibid:2192000462955": 91,
+      "gas:candidate-vibid:2192000463096": 222,
+      "gas:candidate-vibid:2192000461913": 68,
+      "gas:candidate-vibid:2192000461790": 192
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khakas?action=show&root=1000051&tvd=2192000448413&vrn=100100067795849&region=19&global=&sub_region=19&prver=0&pronetvd=null&vibid=2192000448413&type=464",
@@ -1387,12 +1387,12 @@ export const duma_2016_uik_463_region_19_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буреев Дмитрий Викторович": 52,
-      "Верьясов Виктор Викторович": 21,
-      "Иванов Олег Альбертович": 126,
-      "Максимова Надежда Сергеевна": 186,
-      "Миндибекова Людмила Анатольевна": 82,
-      "Семенов Александр Геннадьевич": 151
+      "gas:candidate-vibid:2192000461017": 52,
+      "gas:candidate-vibid:2192000463107": 21,
+      "gas:candidate-vibid:2192000462955": 126,
+      "gas:candidate-vibid:2192000463096": 186,
+      "gas:candidate-vibid:2192000461913": 82,
+      "gas:candidate-vibid:2192000461790": 151
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khakas?action=show&root=1000051&tvd=2192000448413&vrn=100100067795849&region=19&global=&sub_region=19&prver=0&pronetvd=null&vibid=2192000448413&type=464",
@@ -1443,12 +1443,12 @@ export const duma_2016_uik_463_region_19_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буреев Дмитрий Викторович": 45,
-      "Верьясов Виктор Викторович": 23,
-      "Иванов Олег Альбертович": 96,
-      "Максимова Надежда Сергеевна": 189,
-      "Миндибекова Людмила Анатольевна": 57,
-      "Семенов Александр Геннадьевич": 133
+      "gas:candidate-vibid:2192000461017": 45,
+      "gas:candidate-vibid:2192000463107": 23,
+      "gas:candidate-vibid:2192000462955": 96,
+      "gas:candidate-vibid:2192000463096": 189,
+      "gas:candidate-vibid:2192000461913": 57,
+      "gas:candidate-vibid:2192000461790": 133
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khakas?action=show&root=1000051&tvd=2192000448413&vrn=100100067795849&region=19&global=&sub_region=19&prver=0&pronetvd=null&vibid=2192000448413&type=464",
@@ -1499,12 +1499,12 @@ export const duma_2016_uik_463_region_19_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буреев Дмитрий Викторович": 58,
-      "Верьясов Виктор Викторович": 12,
-      "Иванов Олег Альбертович": 45,
-      "Максимова Надежда Сергеевна": 132,
-      "Миндибекова Людмила Анатольевна": 50,
-      "Семенов Александр Геннадьевич": 122
+      "gas:candidate-vibid:2192000461017": 58,
+      "gas:candidate-vibid:2192000463107": 12,
+      "gas:candidate-vibid:2192000462955": 45,
+      "gas:candidate-vibid:2192000463096": 132,
+      "gas:candidate-vibid:2192000461913": 50,
+      "gas:candidate-vibid:2192000461790": 122
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khakas?action=show&root=1000051&tvd=2192000448413&vrn=100100067795849&region=19&global=&sub_region=19&prver=0&pronetvd=null&vibid=2192000448413&type=464",
@@ -1555,12 +1555,12 @@ export const duma_2016_uik_463_region_19_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буреев Дмитрий Викторович": 60,
-      "Верьясов Виктор Викторович": 23,
-      "Иванов Олег Альбертович": 45,
-      "Максимова Надежда Сергеевна": 141,
-      "Миндибекова Людмила Анатольевна": 39,
-      "Семенов Александр Геннадьевич": 125
+      "gas:candidate-vibid:2192000461017": 60,
+      "gas:candidate-vibid:2192000463107": 23,
+      "gas:candidate-vibid:2192000462955": 45,
+      "gas:candidate-vibid:2192000463096": 141,
+      "gas:candidate-vibid:2192000461913": 39,
+      "gas:candidate-vibid:2192000461790": 125
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khakas?action=show&root=1000051&tvd=2192000448413&vrn=100100067795849&region=19&global=&sub_region=19&prver=0&pronetvd=null&vibid=2192000448413&type=464",
@@ -1611,12 +1611,12 @@ export const duma_2016_uik_463_region_19_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буреев Дмитрий Викторович": 50,
-      "Верьясов Виктор Викторович": 17,
-      "Иванов Олег Альбертович": 47,
-      "Максимова Надежда Сергеевна": 167,
-      "Миндибекова Людмила Анатольевна": 41,
-      "Семенов Александр Геннадьевич": 99
+      "gas:candidate-vibid:2192000461017": 50,
+      "gas:candidate-vibid:2192000463107": 17,
+      "gas:candidate-vibid:2192000462955": 47,
+      "gas:candidate-vibid:2192000463096": 167,
+      "gas:candidate-vibid:2192000461913": 41,
+      "gas:candidate-vibid:2192000461790": 99
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khakas?action=show&root=1000051&tvd=2192000448413&vrn=100100067795849&region=19&global=&sub_region=19&prver=0&pronetvd=null&vibid=2192000448413&type=464",
@@ -1667,12 +1667,12 @@ export const duma_2016_uik_463_region_19_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буреев Дмитрий Викторович": 69,
-      "Верьясов Виктор Викторович": 29,
-      "Иванов Олег Альбертович": 62,
-      "Максимова Надежда Сергеевна": 267,
-      "Миндибекова Людмила Анатольевна": 85,
-      "Семенов Александр Геннадьевич": 203
+      "gas:candidate-vibid:2192000461017": 69,
+      "gas:candidate-vibid:2192000463107": 29,
+      "gas:candidate-vibid:2192000462955": 62,
+      "gas:candidate-vibid:2192000463096": 267,
+      "gas:candidate-vibid:2192000461913": 85,
+      "gas:candidate-vibid:2192000461790": 203
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khakas?action=show&root=1000051&tvd=2192000448413&vrn=100100067795849&region=19&global=&sub_region=19&prver=0&pronetvd=null&vibid=2192000448413&type=464",
@@ -1723,12 +1723,12 @@ export const duma_2016_uik_463_region_19_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буреев Дмитрий Викторович": 86,
-      "Верьясов Виктор Викторович": 34,
-      "Иванов Олег Альбертович": 98,
-      "Максимова Надежда Сергеевна": 244,
-      "Миндибекова Людмила Анатольевна": 103,
-      "Семенов Александр Геннадьевич": 216
+      "gas:candidate-vibid:2192000461017": 86,
+      "gas:candidate-vibid:2192000463107": 34,
+      "gas:candidate-vibid:2192000462955": 98,
+      "gas:candidate-vibid:2192000463096": 244,
+      "gas:candidate-vibid:2192000461913": 103,
+      "gas:candidate-vibid:2192000461790": 216
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khakas?action=show&root=1000051&tvd=2192000448413&vrn=100100067795849&region=19&global=&sub_region=19&prver=0&pronetvd=null&vibid=2192000448413&type=464",
@@ -1779,12 +1779,12 @@ export const duma_2016_uik_463_region_19_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буреев Дмитрий Викторович": 46,
-      "Верьясов Виктор Викторович": 21,
-      "Иванов Олег Альбертович": 77,
-      "Максимова Надежда Сергеевна": 187,
-      "Миндибекова Людмила Анатольевна": 68,
-      "Семенов Александр Геннадьевич": 187
+      "gas:candidate-vibid:2192000461017": 46,
+      "gas:candidate-vibid:2192000463107": 21,
+      "gas:candidate-vibid:2192000462955": 77,
+      "gas:candidate-vibid:2192000463096": 187,
+      "gas:candidate-vibid:2192000461913": 68,
+      "gas:candidate-vibid:2192000461790": 187
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khakas?action=show&root=1000051&tvd=2192000448413&vrn=100100067795849&region=19&global=&sub_region=19&prver=0&pronetvd=null&vibid=2192000448413&type=464",
@@ -1835,12 +1835,12 @@ export const duma_2016_uik_463_region_19_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буреев Дмитрий Викторович": 53,
-      "Верьясов Виктор Викторович": 29,
-      "Иванов Олег Альбертович": 77,
-      "Максимова Надежда Сергеевна": 185,
-      "Миндибекова Людмила Анатольевна": 79,
-      "Семенов Александр Геннадьевич": 178
+      "gas:candidate-vibid:2192000461017": 53,
+      "gas:candidate-vibid:2192000463107": 29,
+      "gas:candidate-vibid:2192000462955": 77,
+      "gas:candidate-vibid:2192000463096": 185,
+      "gas:candidate-vibid:2192000461913": 79,
+      "gas:candidate-vibid:2192000461790": 178
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khakas?action=show&root=1000051&tvd=2192000448413&vrn=100100067795849&region=19&global=&sub_region=19&prver=0&pronetvd=null&vibid=2192000448413&type=464",
@@ -1891,12 +1891,12 @@ export const duma_2016_uik_463_region_19_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буреев Дмитрий Викторович": 51,
-      "Верьясов Виктор Викторович": 12,
-      "Иванов Олег Альбертович": 40,
-      "Максимова Надежда Сергеевна": 116,
-      "Миндибекова Людмила Анатольевна": 43,
-      "Семенов Александр Геннадьевич": 151
+      "gas:candidate-vibid:2192000461017": 51,
+      "gas:candidate-vibid:2192000463107": 12,
+      "gas:candidate-vibid:2192000462955": 40,
+      "gas:candidate-vibid:2192000463096": 116,
+      "gas:candidate-vibid:2192000461913": 43,
+      "gas:candidate-vibid:2192000461790": 151
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khakas?action=show&root=1000051&tvd=2192000448413&vrn=100100067795849&region=19&global=&sub_region=19&prver=0&pronetvd=null&vibid=2192000448413&type=464",
@@ -1947,12 +1947,12 @@ export const duma_2016_uik_463_region_19_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буреев Дмитрий Викторович": 41,
-      "Верьясов Виктор Викторович": 24,
-      "Иванов Олег Альбертович": 51,
-      "Максимова Надежда Сергеевна": 128,
-      "Миндибекова Людмила Анатольевна": 35,
-      "Семенов Александр Геннадьевич": 145
+      "gas:candidate-vibid:2192000461017": 41,
+      "gas:candidate-vibid:2192000463107": 24,
+      "gas:candidate-vibid:2192000462955": 51,
+      "gas:candidate-vibid:2192000463096": 128,
+      "gas:candidate-vibid:2192000461913": 35,
+      "gas:candidate-vibid:2192000461790": 145
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khakas?action=show&root=1000051&tvd=2192000448413&vrn=100100067795849&region=19&global=&sub_region=19&prver=0&pronetvd=null&vibid=2192000448413&type=464",
@@ -2003,12 +2003,12 @@ export const duma_2016_uik_463_region_19_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буреев Дмитрий Викторович": 42,
-      "Верьясов Виктор Викторович": 25,
-      "Иванов Олег Альбертович": 80,
-      "Максимова Надежда Сергеевна": 140,
-      "Миндибекова Людмила Анатольевна": 46,
-      "Семенов Александр Геннадьевич": 170
+      "gas:candidate-vibid:2192000461017": 42,
+      "gas:candidate-vibid:2192000463107": 25,
+      "gas:candidate-vibid:2192000462955": 80,
+      "gas:candidate-vibid:2192000463096": 140,
+      "gas:candidate-vibid:2192000461913": 46,
+      "gas:candidate-vibid:2192000461790": 170
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khakas?action=show&root=1000051&tvd=2192000448413&vrn=100100067795849&region=19&global=&sub_region=19&prver=0&pronetvd=null&vibid=2192000448413&type=464",
@@ -2059,12 +2059,12 @@ export const duma_2016_uik_463_region_19_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буреев Дмитрий Викторович": 43,
-      "Верьясов Виктор Викторович": 23,
-      "Иванов Олег Альбертович": 45,
-      "Максимова Надежда Сергеевна": 128,
-      "Миндибекова Людмила Анатольевна": 33,
-      "Семенов Александр Геннадьевич": 133
+      "gas:candidate-vibid:2192000461017": 43,
+      "gas:candidate-vibid:2192000463107": 23,
+      "gas:candidate-vibid:2192000462955": 45,
+      "gas:candidate-vibid:2192000463096": 128,
+      "gas:candidate-vibid:2192000461913": 33,
+      "gas:candidate-vibid:2192000461790": 133
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khakas?action=show&root=1000051&tvd=2192000448413&vrn=100100067795849&region=19&global=&sub_region=19&prver=0&pronetvd=null&vibid=2192000448413&type=464",
@@ -2115,12 +2115,12 @@ export const duma_2016_uik_463_region_19_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буреев Дмитрий Викторович": 65,
-      "Верьясов Виктор Викторович": 25,
-      "Иванов Олег Альбертович": 60,
-      "Максимова Надежда Сергеевна": 198,
-      "Миндибекова Людмила Анатольевна": 55,
-      "Семенов Александр Геннадьевич": 148
+      "gas:candidate-vibid:2192000461017": 65,
+      "gas:candidate-vibid:2192000463107": 25,
+      "gas:candidate-vibid:2192000462955": 60,
+      "gas:candidate-vibid:2192000463096": 198,
+      "gas:candidate-vibid:2192000461913": 55,
+      "gas:candidate-vibid:2192000461790": 148
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khakas?action=show&root=1000051&tvd=2192000448413&vrn=100100067795849&region=19&global=&sub_region=19&prver=0&pronetvd=null&vibid=2192000448413&type=464",
@@ -2171,12 +2171,12 @@ export const duma_2016_uik_463_region_19_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буреев Дмитрий Викторович": 49,
-      "Верьясов Виктор Викторович": 28,
-      "Иванов Олег Альбертович": 93,
-      "Максимова Надежда Сергеевна": 194,
-      "Миндибекова Людмила Анатольевна": 73,
-      "Семенов Александр Геннадьевич": 168
+      "gas:candidate-vibid:2192000461017": 49,
+      "gas:candidate-vibid:2192000463107": 28,
+      "gas:candidate-vibid:2192000462955": 93,
+      "gas:candidate-vibid:2192000463096": 194,
+      "gas:candidate-vibid:2192000461913": 73,
+      "gas:candidate-vibid:2192000461790": 168
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khakas?action=show&root=1000051&tvd=2192000448413&vrn=100100067795849&region=19&global=&sub_region=19&prver=0&pronetvd=null&vibid=2192000448413&type=464",
@@ -2227,12 +2227,12 @@ export const duma_2016_uik_463_region_19_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буреев Дмитрий Викторович": 44,
-      "Верьясов Виктор Викторович": 27,
-      "Иванов Олег Альбертович": 60,
-      "Максимова Надежда Сергеевна": 133,
-      "Миндибекова Людмила Анатольевна": 44,
-      "Семенов Александр Геннадьевич": 130
+      "gas:candidate-vibid:2192000461017": 44,
+      "gas:candidate-vibid:2192000463107": 27,
+      "gas:candidate-vibid:2192000462955": 60,
+      "gas:candidate-vibid:2192000463096": 133,
+      "gas:candidate-vibid:2192000461913": 44,
+      "gas:candidate-vibid:2192000461790": 130
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khakas?action=show&root=1000051&tvd=2192000448413&vrn=100100067795849&region=19&global=&sub_region=19&prver=0&pronetvd=null&vibid=2192000448413&type=464",
@@ -2283,12 +2283,12 @@ export const duma_2016_uik_463_region_19_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буреев Дмитрий Викторович": 17,
-      "Верьясов Виктор Викторович": 13,
-      "Иванов Олег Альбертович": 38,
-      "Максимова Надежда Сергеевна": 109,
-      "Миндибекова Людмила Анатольевна": 53,
-      "Семенов Александр Геннадьевич": 110
+      "gas:candidate-vibid:2192000461017": 17,
+      "gas:candidate-vibid:2192000463107": 13,
+      "gas:candidate-vibid:2192000462955": 38,
+      "gas:candidate-vibid:2192000463096": 109,
+      "gas:candidate-vibid:2192000461913": 53,
+      "gas:candidate-vibid:2192000461790": 110
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khakas?action=show&root=1000051&tvd=2192000448413&vrn=100100067795849&region=19&global=&sub_region=19&prver=0&pronetvd=null&vibid=2192000448413&type=464",
@@ -2339,12 +2339,12 @@ export const duma_2016_uik_463_region_19_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буреев Дмитрий Викторович": 54,
-      "Верьясов Виктор Викторович": 22,
-      "Иванов Олег Альбертович": 71,
-      "Максимова Надежда Сергеевна": 217,
-      "Миндибекова Людмила Анатольевна": 93,
-      "Семенов Александр Геннадьевич": 219
+      "gas:candidate-vibid:2192000461017": 54,
+      "gas:candidate-vibid:2192000463107": 22,
+      "gas:candidate-vibid:2192000462955": 71,
+      "gas:candidate-vibid:2192000463096": 217,
+      "gas:candidate-vibid:2192000461913": 93,
+      "gas:candidate-vibid:2192000461790": 219
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khakas?action=show&root=1000051&tvd=2192000448413&vrn=100100067795849&region=19&global=&sub_region=19&prver=0&pronetvd=null&vibid=2192000448413&type=464",
@@ -2395,12 +2395,12 @@ export const duma_2016_uik_463_region_19_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буреев Дмитрий Викторович": 66,
-      "Верьясов Виктор Викторович": 26,
-      "Иванов Олег Альбертович": 62,
-      "Максимова Надежда Сергеевна": 194,
-      "Миндибекова Людмила Анатольевна": 85,
-      "Семенов Александр Геннадьевич": 135
+      "gas:candidate-vibid:2192000461017": 66,
+      "gas:candidate-vibid:2192000463107": 26,
+      "gas:candidate-vibid:2192000462955": 62,
+      "gas:candidate-vibid:2192000463096": 194,
+      "gas:candidate-vibid:2192000461913": 85,
+      "gas:candidate-vibid:2192000461790": 135
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khakas?action=show&root=1000051&tvd=2192000448413&vrn=100100067795849&region=19&global=&sub_region=19&prver=0&pronetvd=null&vibid=2192000448413&type=464",
@@ -2451,12 +2451,12 @@ export const duma_2016_uik_463_region_19_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буреев Дмитрий Викторович": 54,
-      "Верьясов Виктор Викторович": 35,
-      "Иванов Олег Альбертович": 66,
-      "Максимова Надежда Сергеевна": 189,
-      "Миндибекова Людмила Анатольевна": 75,
-      "Семенов Александр Геннадьевич": 183
+      "gas:candidate-vibid:2192000461017": 54,
+      "gas:candidate-vibid:2192000463107": 35,
+      "gas:candidate-vibid:2192000462955": 66,
+      "gas:candidate-vibid:2192000463096": 189,
+      "gas:candidate-vibid:2192000461913": 75,
+      "gas:candidate-vibid:2192000461790": 183
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khakas?action=show&root=1000051&tvd=2192000448413&vrn=100100067795849&region=19&global=&sub_region=19&prver=0&pronetvd=null&vibid=2192000448413&type=464",
@@ -2507,12 +2507,12 @@ export const duma_2016_uik_463_region_19_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буреев Дмитрий Викторович": 79,
-      "Верьясов Виктор Викторович": 34,
-      "Иванов Олег Альбертович": 117,
-      "Максимова Надежда Сергеевна": 236,
-      "Миндибекова Людмила Анатольевна": 103,
-      "Семенов Александр Геннадьевич": 189
+      "gas:candidate-vibid:2192000461017": 79,
+      "gas:candidate-vibid:2192000463107": 34,
+      "gas:candidate-vibid:2192000462955": 117,
+      "gas:candidate-vibid:2192000463096": 236,
+      "gas:candidate-vibid:2192000461913": 103,
+      "gas:candidate-vibid:2192000461790": 189
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khakas?action=show&root=1000051&tvd=2192000448413&vrn=100100067795849&region=19&global=&sub_region=19&prver=0&pronetvd=null&vibid=2192000448413&type=464",
@@ -2563,12 +2563,12 @@ export const duma_2016_uik_463_region_19_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буреев Дмитрий Викторович": 74,
-      "Верьясов Виктор Викторович": 41,
-      "Иванов Олег Альбертович": 105,
-      "Максимова Надежда Сергеевна": 248,
-      "Миндибекова Людмила Анатольевна": 105,
-      "Семенов Александр Геннадьевич": 224
+      "gas:candidate-vibid:2192000461017": 74,
+      "gas:candidate-vibid:2192000463107": 41,
+      "gas:candidate-vibid:2192000462955": 105,
+      "gas:candidate-vibid:2192000463096": 248,
+      "gas:candidate-vibid:2192000461913": 105,
+      "gas:candidate-vibid:2192000461790": 224
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khakas?action=show&root=1000051&tvd=2192000448413&vrn=100100067795849&region=19&global=&sub_region=19&prver=0&pronetvd=null&vibid=2192000448413&type=464",
@@ -2619,12 +2619,12 @@ export const duma_2016_uik_463_region_19_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буреев Дмитрий Викторович": 54,
-      "Верьясов Виктор Викторович": 36,
-      "Иванов Олег Альбертович": 95,
-      "Максимова Надежда Сергеевна": 177,
-      "Миндибекова Людмила Анатольевна": 71,
-      "Семенов Александр Геннадьевич": 172
+      "gas:candidate-vibid:2192000461017": 54,
+      "gas:candidate-vibid:2192000463107": 36,
+      "gas:candidate-vibid:2192000462955": 95,
+      "gas:candidate-vibid:2192000463096": 177,
+      "gas:candidate-vibid:2192000461913": 71,
+      "gas:candidate-vibid:2192000461790": 172
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khakas?action=show&root=1000051&tvd=2192000448413&vrn=100100067795849&region=19&global=&sub_region=19&prver=0&pronetvd=null&vibid=2192000448413&type=464",
@@ -2675,12 +2675,12 @@ export const duma_2016_uik_463_region_19_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буреев Дмитрий Викторович": 44,
-      "Верьясов Виктор Викторович": 24,
-      "Иванов Олег Альбертович": 42,
-      "Максимова Надежда Сергеевна": 156,
-      "Миндибекова Людмила Анатольевна": 72,
-      "Семенов Александр Геннадьевич": 128
+      "gas:candidate-vibid:2192000461017": 44,
+      "gas:candidate-vibid:2192000463107": 24,
+      "gas:candidate-vibid:2192000462955": 42,
+      "gas:candidate-vibid:2192000463096": 156,
+      "gas:candidate-vibid:2192000461913": 72,
+      "gas:candidate-vibid:2192000461790": 128
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khakas?action=show&root=1000051&tvd=2192000448413&vrn=100100067795849&region=19&global=&sub_region=19&prver=0&pronetvd=null&vibid=2192000448413&type=464",
@@ -2731,12 +2731,12 @@ export const duma_2016_uik_463_region_19_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буреев Дмитрий Викторович": 88,
-      "Верьясов Виктор Викторович": 22,
-      "Иванов Олег Альбертович": 91,
-      "Максимова Надежда Сергеевна": 242,
-      "Миндибекова Людмила Анатольевна": 93,
-      "Семенов Александр Геннадьевич": 278
+      "gas:candidate-vibid:2192000461017": 88,
+      "gas:candidate-vibid:2192000463107": 22,
+      "gas:candidate-vibid:2192000462955": 91,
+      "gas:candidate-vibid:2192000463096": 242,
+      "gas:candidate-vibid:2192000461913": 93,
+      "gas:candidate-vibid:2192000461790": 278
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khakas?action=show&root=1000051&tvd=2192000448413&vrn=100100067795849&region=19&global=&sub_region=19&prver=0&pronetvd=null&vibid=2192000448413&type=464",
@@ -2787,12 +2787,12 @@ export const duma_2016_uik_463_region_19_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буреев Дмитрий Викторович": 72,
-      "Верьясов Виктор Викторович": 30,
-      "Иванов Олег Альбертович": 91,
-      "Максимова Надежда Сергеевна": 607,
-      "Миндибекова Людмила Анатольевна": 87,
-      "Семенов Александр Геннадьевич": 207
+      "gas:candidate-vibid:2192000461017": 72,
+      "gas:candidate-vibid:2192000463107": 30,
+      "gas:candidate-vibid:2192000462955": 91,
+      "gas:candidate-vibid:2192000463096": 607,
+      "gas:candidate-vibid:2192000461913": 87,
+      "gas:candidate-vibid:2192000461790": 207
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khakas?action=show&root=1000051&tvd=2192000448413&vrn=100100067795849&region=19&global=&sub_region=19&prver=0&pronetvd=null&vibid=2192000448413&type=464",
@@ -2843,12 +2843,12 @@ export const duma_2016_uik_463_region_19_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буреев Дмитрий Викторович": 54,
-      "Верьясов Виктор Викторович": 28,
-      "Иванов Олег Альбертович": 64,
-      "Максимова Надежда Сергеевна": 205,
-      "Миндибекова Людмила Анатольевна": 103,
-      "Семенов Александр Геннадьевич": 222
+      "gas:candidate-vibid:2192000461017": 54,
+      "gas:candidate-vibid:2192000463107": 28,
+      "gas:candidate-vibid:2192000462955": 64,
+      "gas:candidate-vibid:2192000463096": 205,
+      "gas:candidate-vibid:2192000461913": 103,
+      "gas:candidate-vibid:2192000461790": 222
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khakas?action=show&root=1000051&tvd=2192000448413&vrn=100100067795849&region=19&global=&sub_region=19&prver=0&pronetvd=null&vibid=2192000448413&type=464",
@@ -2899,12 +2899,12 @@ export const duma_2016_uik_463_region_19_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буреев Дмитрий Викторович": 77,
-      "Верьясов Виктор Викторович": 49,
-      "Иванов Олег Альбертович": 89,
-      "Максимова Надежда Сергеевна": 292,
-      "Миндибекова Людмила Анатольевна": 65,
-      "Семенов Александр Геннадьевич": 206
+      "gas:candidate-vibid:2192000461017": 77,
+      "gas:candidate-vibid:2192000463107": 49,
+      "gas:candidate-vibid:2192000462955": 89,
+      "gas:candidate-vibid:2192000463096": 292,
+      "gas:candidate-vibid:2192000461913": 65,
+      "gas:candidate-vibid:2192000461790": 206
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khakas?action=show&root=1000051&tvd=2192000448413&vrn=100100067795849&region=19&global=&sub_region=19&prver=0&pronetvd=null&vibid=2192000448413&type=464",
@@ -2955,12 +2955,12 @@ export const duma_2016_uik_463_region_19_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буреев Дмитрий Викторович": 71,
-      "Верьясов Виктор Викторович": 29,
-      "Иванов Олег Альбертович": 108,
-      "Максимова Надежда Сергеевна": 278,
-      "Миндибекова Людмила Анатольевна": 108,
-      "Семенов Александр Геннадьевич": 241
+      "gas:candidate-vibid:2192000461017": 71,
+      "gas:candidate-vibid:2192000463107": 29,
+      "gas:candidate-vibid:2192000462955": 108,
+      "gas:candidate-vibid:2192000463096": 278,
+      "gas:candidate-vibid:2192000461913": 108,
+      "gas:candidate-vibid:2192000461790": 241
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khakas?action=show&root=1000051&tvd=2192000448413&vrn=100100067795849&region=19&global=&sub_region=19&prver=0&pronetvd=null&vibid=2192000448413&type=464",
@@ -3011,12 +3011,12 @@ export const duma_2016_uik_463_region_19_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буреев Дмитрий Викторович": 75,
-      "Верьясов Виктор Викторович": 52,
-      "Иванов Олег Альбертович": 101,
-      "Максимова Надежда Сергеевна": 257,
-      "Миндибекова Людмила Анатольевна": 135,
-      "Семенов Александр Геннадьевич": 211
+      "gas:candidate-vibid:2192000461017": 75,
+      "gas:candidate-vibid:2192000463107": 52,
+      "gas:candidate-vibid:2192000462955": 101,
+      "gas:candidate-vibid:2192000463096": 257,
+      "gas:candidate-vibid:2192000461913": 135,
+      "gas:candidate-vibid:2192000461790": 211
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khakas?action=show&root=1000051&tvd=2192000448413&vrn=100100067795849&region=19&global=&sub_region=19&prver=0&pronetvd=null&vibid=2192000448413&type=464",
@@ -3067,12 +3067,12 @@ export const duma_2016_uik_463_region_19_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буреев Дмитрий Викторович": 39,
-      "Верьясов Виктор Викторович": 18,
-      "Иванов Олег Альбертович": 62,
-      "Максимова Надежда Сергеевна": 124,
-      "Миндибекова Людмила Анатольевна": 49,
-      "Семенов Александр Геннадьевич": 130
+      "gas:candidate-vibid:2192000461017": 39,
+      "gas:candidate-vibid:2192000463107": 18,
+      "gas:candidate-vibid:2192000462955": 62,
+      "gas:candidate-vibid:2192000463096": 124,
+      "gas:candidate-vibid:2192000461913": 49,
+      "gas:candidate-vibid:2192000461790": 130
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khakas?action=show&root=1000051&tvd=2192000448413&vrn=100100067795849&region=19&global=&sub_region=19&prver=0&pronetvd=null&vibid=2192000448413&type=464",
@@ -3123,12 +3123,12 @@ export const duma_2016_uik_463_region_19_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буреев Дмитрий Викторович": 54,
-      "Верьясов Виктор Викторович": 22,
-      "Иванов Олег Альбертович": 56,
-      "Максимова Надежда Сергеевна": 154,
-      "Миндибекова Людмила Анатольевна": 76,
-      "Семенов Александр Геннадьевич": 140
+      "gas:candidate-vibid:2192000461017": 54,
+      "gas:candidate-vibid:2192000463107": 22,
+      "gas:candidate-vibid:2192000462955": 56,
+      "gas:candidate-vibid:2192000463096": 154,
+      "gas:candidate-vibid:2192000461913": 76,
+      "gas:candidate-vibid:2192000461790": 140
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khakas?action=show&root=1000051&tvd=2192000448413&vrn=100100067795849&region=19&global=&sub_region=19&prver=0&pronetvd=null&vibid=2192000448413&type=464",
@@ -3179,12 +3179,12 @@ export const duma_2016_uik_463_region_19_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буреев Дмитрий Викторович": 68,
-      "Верьясов Виктор Викторович": 25,
-      "Иванов Олег Альбертович": 74,
-      "Максимова Надежда Сергеевна": 211,
-      "Миндибекова Людмила Анатольевна": 75,
-      "Семенов Александр Геннадьевич": 156
+      "gas:candidate-vibid:2192000461017": 68,
+      "gas:candidate-vibid:2192000463107": 25,
+      "gas:candidate-vibid:2192000462955": 74,
+      "gas:candidate-vibid:2192000463096": 211,
+      "gas:candidate-vibid:2192000461913": 75,
+      "gas:candidate-vibid:2192000461790": 156
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khakas?action=show&root=1000051&tvd=2192000448413&vrn=100100067795849&region=19&global=&sub_region=19&prver=0&pronetvd=null&vibid=2192000448413&type=464",
@@ -3235,12 +3235,12 @@ export const duma_2016_uik_463_region_19_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буреев Дмитрий Викторович": 76,
-      "Верьясов Виктор Викторович": 27,
-      "Иванов Олег Альбертович": 85,
-      "Максимова Надежда Сергеевна": 195,
-      "Миндибекова Людмила Анатольевна": 83,
-      "Семенов Александр Геннадьевич": 162
+      "gas:candidate-vibid:2192000461017": 76,
+      "gas:candidate-vibid:2192000463107": 27,
+      "gas:candidate-vibid:2192000462955": 85,
+      "gas:candidate-vibid:2192000463096": 195,
+      "gas:candidate-vibid:2192000461913": 83,
+      "gas:candidate-vibid:2192000461790": 162
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khakas?action=show&root=1000051&tvd=2192000448413&vrn=100100067795849&region=19&global=&sub_region=19&prver=0&pronetvd=null&vibid=2192000448413&type=464",
@@ -3291,12 +3291,12 @@ export const duma_2016_uik_463_region_19_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буреев Дмитрий Викторович": 54,
-      "Верьясов Виктор Викторович": 36,
-      "Иванов Олег Альбертович": 75,
-      "Максимова Надежда Сергеевна": 225,
-      "Миндибекова Людмила Анатольевна": 134,
-      "Семенов Александр Геннадьевич": 209
+      "gas:candidate-vibid:2192000461017": 54,
+      "gas:candidate-vibid:2192000463107": 36,
+      "gas:candidate-vibid:2192000462955": 75,
+      "gas:candidate-vibid:2192000463096": 225,
+      "gas:candidate-vibid:2192000461913": 134,
+      "gas:candidate-vibid:2192000461790": 209
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khakas?action=show&root=1000051&tvd=2192000448413&vrn=100100067795849&region=19&global=&sub_region=19&prver=0&pronetvd=null&vibid=2192000448413&type=464",
@@ -3347,12 +3347,12 @@ export const duma_2016_uik_463_region_19_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буреев Дмитрий Викторович": 22,
-      "Верьясов Виктор Викторович": 8,
-      "Иванов Олег Альбертович": 11,
-      "Максимова Надежда Сергеевна": 50,
-      "Миндибекова Людмила Анатольевна": 9,
-      "Семенов Александр Геннадьевич": 30
+      "gas:candidate-vibid:2192000461017": 22,
+      "gas:candidate-vibid:2192000463107": 8,
+      "gas:candidate-vibid:2192000462955": 11,
+      "gas:candidate-vibid:2192000463096": 50,
+      "gas:candidate-vibid:2192000461913": 9,
+      "gas:candidate-vibid:2192000461790": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khakas?action=show&root=1000051&tvd=2192000448413&vrn=100100067795849&region=19&global=&sub_region=19&prver=0&pronetvd=null&vibid=2192000448413&type=464",
@@ -3403,12 +3403,12 @@ export const duma_2016_uik_463_region_19_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буреев Дмитрий Викторович": 117,
-      "Верьясов Виктор Викторович": 48,
-      "Иванов Олег Альбертович": 111,
-      "Максимова Надежда Сергеевна": 318,
-      "Миндибекова Людмила Анатольевна": 97,
-      "Семенов Александр Геннадьевич": 306
+      "gas:candidate-vibid:2192000461017": 117,
+      "gas:candidate-vibid:2192000463107": 48,
+      "gas:candidate-vibid:2192000462955": 111,
+      "gas:candidate-vibid:2192000463096": 318,
+      "gas:candidate-vibid:2192000461913": 97,
+      "gas:candidate-vibid:2192000461790": 306
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khakas?action=show&root=1000051&tvd=2192000448413&vrn=100100067795849&region=19&global=&sub_region=19&prver=0&pronetvd=null&vibid=2192000448413&type=464",
@@ -3459,12 +3459,12 @@ export const duma_2016_uik_463_region_19_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буреев Дмитрий Викторович": 58,
-      "Верьясов Виктор Викторович": 16,
-      "Иванов Олег Альбертович": 43,
-      "Максимова Надежда Сергеевна": 136,
-      "Миндибекова Людмила Анатольевна": 34,
-      "Семенов Александр Геннадьевич": 155
+      "gas:candidate-vibid:2192000461017": 58,
+      "gas:candidate-vibid:2192000463107": 16,
+      "gas:candidate-vibid:2192000462955": 43,
+      "gas:candidate-vibid:2192000463096": 136,
+      "gas:candidate-vibid:2192000461913": 34,
+      "gas:candidate-vibid:2192000461790": 155
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khakas?action=show&root=1000051&tvd=2192000448413&vrn=100100067795849&region=19&global=&sub_region=19&prver=0&pronetvd=null&vibid=2192000448413&type=464",
@@ -3515,12 +3515,12 @@ export const duma_2016_uik_463_region_19_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буреев Дмитрий Викторович": 64,
-      "Верьясов Виктор Викторович": 25,
-      "Иванов Олег Альбертович": 55,
-      "Максимова Надежда Сергеевна": 170,
-      "Миндибекова Людмила Анатольевна": 49,
-      "Семенов Александр Геннадьевич": 161
+      "gas:candidate-vibid:2192000461017": 64,
+      "gas:candidate-vibid:2192000463107": 25,
+      "gas:candidate-vibid:2192000462955": 55,
+      "gas:candidate-vibid:2192000463096": 170,
+      "gas:candidate-vibid:2192000461913": 49,
+      "gas:candidate-vibid:2192000461790": 161
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khakas?action=show&root=1000051&tvd=2192000448413&vrn=100100067795849&region=19&global=&sub_region=19&prver=0&pronetvd=null&vibid=2192000448413&type=464",
@@ -3571,12 +3571,12 @@ export const duma_2016_uik_463_region_19_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буреев Дмитрий Викторович": 65,
-      "Верьясов Виктор Викторович": 35,
-      "Иванов Олег Альбертович": 70,
-      "Максимова Надежда Сергеевна": 204,
-      "Миндибекова Людмила Анатольевна": 67,
-      "Семенов Александр Геннадьевич": 119
+      "gas:candidate-vibid:2192000461017": 65,
+      "gas:candidate-vibid:2192000463107": 35,
+      "gas:candidate-vibid:2192000462955": 70,
+      "gas:candidate-vibid:2192000463096": 204,
+      "gas:candidate-vibid:2192000461913": 67,
+      "gas:candidate-vibid:2192000461790": 119
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khakas?action=show&root=1000051&tvd=2192000448413&vrn=100100067795849&region=19&global=&sub_region=19&prver=0&pronetvd=null&vibid=2192000448413&type=464",
@@ -3627,12 +3627,12 @@ export const duma_2016_uik_463_region_19_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буреев Дмитрий Викторович": 72,
-      "Верьясов Виктор Викторович": 17,
-      "Иванов Олег Альбертович": 54,
-      "Максимова Надежда Сергеевна": 211,
-      "Миндибекова Людмила Анатольевна": 41,
-      "Семенов Александр Геннадьевич": 92
+      "gas:candidate-vibid:2192000461017": 72,
+      "gas:candidate-vibid:2192000463107": 17,
+      "gas:candidate-vibid:2192000462955": 54,
+      "gas:candidate-vibid:2192000463096": 211,
+      "gas:candidate-vibid:2192000461913": 41,
+      "gas:candidate-vibid:2192000461790": 92
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khakas?action=show&root=1000051&tvd=2192000448413&vrn=100100067795849&region=19&global=&sub_region=19&prver=0&pronetvd=null&vibid=2192000448413&type=464",
@@ -3683,12 +3683,12 @@ export const duma_2016_uik_463_region_19_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буреев Дмитрий Викторович": 13,
-      "Верьясов Виктор Викторович": 10,
-      "Иванов Олег Альбертович": 13,
-      "Максимова Надежда Сергеевна": 52,
-      "Миндибекова Людмила Анатольевна": 18,
-      "Семенов Александр Геннадьевич": 69
+      "gas:candidate-vibid:2192000461017": 13,
+      "gas:candidate-vibid:2192000463107": 10,
+      "gas:candidate-vibid:2192000462955": 13,
+      "gas:candidate-vibid:2192000463096": 52,
+      "gas:candidate-vibid:2192000461913": 18,
+      "gas:candidate-vibid:2192000461790": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khakas?action=show&root=1000051&tvd=2192000448413&vrn=100100067795849&region=19&global=&sub_region=19&prver=0&pronetvd=null&vibid=2192000448413&type=464",
@@ -3739,12 +3739,12 @@ export const duma_2016_uik_463_region_19_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буреев Дмитрий Викторович": 68,
-      "Верьясов Виктор Викторович": 41,
-      "Иванов Олег Альбертович": 38,
-      "Максимова Надежда Сергеевна": 164,
-      "Миндибекова Людмила Анатольевна": 52,
-      "Семенов Александр Геннадьевич": 197
+      "gas:candidate-vibid:2192000461017": 68,
+      "gas:candidate-vibid:2192000463107": 41,
+      "gas:candidate-vibid:2192000462955": 38,
+      "gas:candidate-vibid:2192000463096": 164,
+      "gas:candidate-vibid:2192000461913": 52,
+      "gas:candidate-vibid:2192000461790": 197
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khakas?action=show&root=1000051&tvd=2192000448414&vrn=100100067795849&region=19&global=&sub_region=19&prver=0&pronetvd=null&vibid=2192000448414&type=464",
@@ -3795,12 +3795,12 @@ export const duma_2016_uik_463_region_19_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буреев Дмитрий Викторович": 47,
-      "Верьясов Виктор Викторович": 50,
-      "Иванов Олег Альбертович": 37,
-      "Максимова Надежда Сергеевна": 209,
-      "Миндибекова Людмила Анатольевна": 35,
-      "Семенов Александр Геннадьевич": 157
+      "gas:candidate-vibid:2192000461017": 47,
+      "gas:candidate-vibid:2192000463107": 50,
+      "gas:candidate-vibid:2192000462955": 37,
+      "gas:candidate-vibid:2192000463096": 209,
+      "gas:candidate-vibid:2192000461913": 35,
+      "gas:candidate-vibid:2192000461790": 157
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khakas?action=show&root=1000051&tvd=2192000448414&vrn=100100067795849&region=19&global=&sub_region=19&prver=0&pronetvd=null&vibid=2192000448414&type=464",
@@ -3851,12 +3851,12 @@ export const duma_2016_uik_463_region_19_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буреев Дмитрий Викторович": 23,
-      "Верьясов Виктор Викторович": 6,
-      "Иванов Олег Альбертович": 20,
-      "Максимова Надежда Сергеевна": 150,
-      "Миндибекова Людмила Анатольевна": 20,
-      "Семенов Александр Геннадьевич": 45
+      "gas:candidate-vibid:2192000461017": 23,
+      "gas:candidate-vibid:2192000463107": 6,
+      "gas:candidate-vibid:2192000462955": 20,
+      "gas:candidate-vibid:2192000463096": 150,
+      "gas:candidate-vibid:2192000461913": 20,
+      "gas:candidate-vibid:2192000461790": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khakas?action=show&root=1000051&tvd=2192000448414&vrn=100100067795849&region=19&global=&sub_region=19&prver=0&pronetvd=null&vibid=2192000448414&type=464",
@@ -3907,12 +3907,12 @@ export const duma_2016_uik_463_region_19_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буреев Дмитрий Викторович": 55,
-      "Верьясов Виктор Викторович": 12,
-      "Иванов Олег Альбертович": 27,
-      "Максимова Надежда Сергеевна": 145,
-      "Миндибекова Людмила Анатольевна": 29,
-      "Семенов Александр Геннадьевич": 135
+      "gas:candidate-vibid:2192000461017": 55,
+      "gas:candidate-vibid:2192000463107": 12,
+      "gas:candidate-vibid:2192000462955": 27,
+      "gas:candidate-vibid:2192000463096": 145,
+      "gas:candidate-vibid:2192000461913": 29,
+      "gas:candidate-vibid:2192000461790": 135
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khakas?action=show&root=1000051&tvd=2192000448414&vrn=100100067795849&region=19&global=&sub_region=19&prver=0&pronetvd=null&vibid=2192000448414&type=464",
@@ -3963,12 +3963,12 @@ export const duma_2016_uik_463_region_19_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буреев Дмитрий Викторович": 64,
-      "Верьясов Виктор Викторович": 13,
-      "Иванов Олег Альбертович": 32,
-      "Максимова Надежда Сергеевна": 175,
-      "Миндибекова Людмила Анатольевна": 37,
-      "Семенов Александр Геннадьевич": 197
+      "gas:candidate-vibid:2192000461017": 64,
+      "gas:candidate-vibid:2192000463107": 13,
+      "gas:candidate-vibid:2192000462955": 32,
+      "gas:candidate-vibid:2192000463096": 175,
+      "gas:candidate-vibid:2192000461913": 37,
+      "gas:candidate-vibid:2192000461790": 197
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khakas?action=show&root=1000051&tvd=2192000448414&vrn=100100067795849&region=19&global=&sub_region=19&prver=0&pronetvd=null&vibid=2192000448414&type=464",
@@ -4019,12 +4019,12 @@ export const duma_2016_uik_463_region_19_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буреев Дмитрий Викторович": 50,
-      "Верьясов Виктор Викторович": 9,
-      "Иванов Олег Альбертович": 28,
-      "Максимова Надежда Сергеевна": 173,
-      "Миндибекова Людмила Анатольевна": 27,
-      "Семенов Александр Геннадьевич": 139
+      "gas:candidate-vibid:2192000461017": 50,
+      "gas:candidate-vibid:2192000463107": 9,
+      "gas:candidate-vibid:2192000462955": 28,
+      "gas:candidate-vibid:2192000463096": 173,
+      "gas:candidate-vibid:2192000461913": 27,
+      "gas:candidate-vibid:2192000461790": 139
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khakas?action=show&root=1000051&tvd=2192000448414&vrn=100100067795849&region=19&global=&sub_region=19&prver=0&pronetvd=null&vibid=2192000448414&type=464",
@@ -4075,12 +4075,12 @@ export const duma_2016_uik_463_region_19_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буреев Дмитрий Викторович": 43,
-      "Верьясов Виктор Викторович": 7,
-      "Иванов Олег Альбертович": 48,
-      "Максимова Надежда Сергеевна": 250,
-      "Миндибекова Людмила Анатольевна": 33,
-      "Семенов Александр Геннадьевич": 237
+      "gas:candidate-vibid:2192000461017": 43,
+      "gas:candidate-vibid:2192000463107": 7,
+      "gas:candidate-vibid:2192000462955": 48,
+      "gas:candidate-vibid:2192000463096": 250,
+      "gas:candidate-vibid:2192000461913": 33,
+      "gas:candidate-vibid:2192000461790": 237
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khakas?action=show&root=1000051&tvd=2192000448414&vrn=100100067795849&region=19&global=&sub_region=19&prver=0&pronetvd=null&vibid=2192000448414&type=464",
@@ -4131,12 +4131,12 @@ export const duma_2016_uik_463_region_19_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буреев Дмитрий Викторович": 58,
-      "Верьясов Виктор Викторович": 16,
-      "Иванов Олег Альбертович": 35,
-      "Максимова Надежда Сергеевна": 180,
-      "Миндибекова Людмила Анатольевна": 32,
-      "Семенов Александр Геннадьевич": 149
+      "gas:candidate-vibid:2192000461017": 58,
+      "gas:candidate-vibid:2192000463107": 16,
+      "gas:candidate-vibid:2192000462955": 35,
+      "gas:candidate-vibid:2192000463096": 180,
+      "gas:candidate-vibid:2192000461913": 32,
+      "gas:candidate-vibid:2192000461790": 149
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khakas?action=show&root=1000051&tvd=2192000448414&vrn=100100067795849&region=19&global=&sub_region=19&prver=0&pronetvd=null&vibid=2192000448414&type=464",
@@ -4187,12 +4187,12 @@ export const duma_2016_uik_463_region_19_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буреев Дмитрий Викторович": 86,
-      "Верьясов Виктор Викторович": 14,
-      "Иванов Олег Альбертович": 51,
-      "Максимова Надежда Сергеевна": 255,
-      "Миндибекова Людмила Анатольевна": 42,
-      "Семенов Александр Геннадьевич": 213
+      "gas:candidate-vibid:2192000461017": 86,
+      "gas:candidate-vibid:2192000463107": 14,
+      "gas:candidate-vibid:2192000462955": 51,
+      "gas:candidate-vibid:2192000463096": 255,
+      "gas:candidate-vibid:2192000461913": 42,
+      "gas:candidate-vibid:2192000461790": 213
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khakas?action=show&root=1000051&tvd=2192000448414&vrn=100100067795849&region=19&global=&sub_region=19&prver=0&pronetvd=null&vibid=2192000448414&type=464",
@@ -4243,12 +4243,12 @@ export const duma_2016_uik_463_region_19_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буреев Дмитрий Викторович": 33,
-      "Верьясов Виктор Викторович": 7,
-      "Иванов Олег Альбертович": 31,
-      "Максимова Надежда Сергеевна": 155,
-      "Миндибекова Людмила Анатольевна": 34,
-      "Семенов Александр Геннадьевич": 165
+      "gas:candidate-vibid:2192000461017": 33,
+      "gas:candidate-vibid:2192000463107": 7,
+      "gas:candidate-vibid:2192000462955": 31,
+      "gas:candidate-vibid:2192000463096": 155,
+      "gas:candidate-vibid:2192000461913": 34,
+      "gas:candidate-vibid:2192000461790": 165
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khakas?action=show&root=1000051&tvd=2192000448414&vrn=100100067795849&region=19&global=&sub_region=19&prver=0&pronetvd=null&vibid=2192000448414&type=464",
@@ -4299,12 +4299,12 @@ export const duma_2016_uik_463_region_19_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буреев Дмитрий Викторович": 3,
-      "Верьясов Виктор Викторович": 1,
-      "Иванов Олег Альбертович": 2,
-      "Максимова Надежда Сергеевна": 88,
-      "Миндибекова Людмила Анатольевна": 4,
-      "Семенов Александр Геннадьевич": 23
+      "gas:candidate-vibid:2192000461017": 3,
+      "gas:candidate-vibid:2192000463107": 1,
+      "gas:candidate-vibid:2192000462955": 2,
+      "gas:candidate-vibid:2192000463096": 88,
+      "gas:candidate-vibid:2192000461913": 4,
+      "gas:candidate-vibid:2192000461790": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khakas?action=show&root=1000051&tvd=2192000448414&vrn=100100067795849&region=19&global=&sub_region=19&prver=0&pronetvd=null&vibid=2192000448414&type=464",
@@ -4355,12 +4355,12 @@ export const duma_2016_uik_463_region_19_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буреев Дмитрий Викторович": 14,
-      "Верьясов Виктор Викторович": 3,
-      "Иванов Олег Альбертович": 18,
-      "Максимова Надежда Сергеевна": 188,
-      "Миндибекова Людмила Анатольевна": 47,
-      "Семенов Александр Геннадьевич": 130
+      "gas:candidate-vibid:2192000461017": 14,
+      "gas:candidate-vibid:2192000463107": 3,
+      "gas:candidate-vibid:2192000462955": 18,
+      "gas:candidate-vibid:2192000463096": 188,
+      "gas:candidate-vibid:2192000461913": 47,
+      "gas:candidate-vibid:2192000461790": 130
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khakas?action=show&root=1000051&tvd=2192000448414&vrn=100100067795849&region=19&global=&sub_region=19&prver=0&pronetvd=null&vibid=2192000448414&type=464",
@@ -4411,12 +4411,12 @@ export const duma_2016_uik_463_region_19_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буреев Дмитрий Викторович": 19,
-      "Верьясов Виктор Викторович": 3,
-      "Иванов Олег Альбертович": 10,
-      "Максимова Надежда Сергеевна": 128,
-      "Миндибекова Людмила Анатольевна": 10,
-      "Семенов Александр Геннадьевич": 80
+      "gas:candidate-vibid:2192000461017": 19,
+      "gas:candidate-vibid:2192000463107": 3,
+      "gas:candidate-vibid:2192000462955": 10,
+      "gas:candidate-vibid:2192000463096": 128,
+      "gas:candidate-vibid:2192000461913": 10,
+      "gas:candidate-vibid:2192000461790": 80
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khakas?action=show&root=1000051&tvd=2192000448414&vrn=100100067795849&region=19&global=&sub_region=19&prver=0&pronetvd=null&vibid=2192000448414&type=464",
@@ -4467,12 +4467,12 @@ export const duma_2016_uik_463_region_19_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буреев Дмитрий Викторович": 5,
-      "Верьясов Виктор Викторович": 0,
-      "Иванов Олег Альбертович": 2,
-      "Максимова Надежда Сергеевна": 31,
-      "Миндибекова Людмила Анатольевна": 6,
-      "Семенов Александр Геннадьевич": 27
+      "gas:candidate-vibid:2192000461017": 5,
+      "gas:candidate-vibid:2192000463107": 0,
+      "gas:candidate-vibid:2192000462955": 2,
+      "gas:candidate-vibid:2192000463096": 31,
+      "gas:candidate-vibid:2192000461913": 6,
+      "gas:candidate-vibid:2192000461790": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khakas?action=show&root=1000051&tvd=2192000448414&vrn=100100067795849&region=19&global=&sub_region=19&prver=0&pronetvd=null&vibid=2192000448414&type=464",
@@ -4523,12 +4523,12 @@ export const duma_2016_uik_463_region_19_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буреев Дмитрий Викторович": 26,
-      "Верьясов Виктор Викторович": 9,
-      "Иванов Олег Альбертович": 21,
-      "Максимова Надежда Сергеевна": 187,
-      "Миндибекова Людмила Анатольевна": 15,
-      "Семенов Александр Геннадьевич": 124
+      "gas:candidate-vibid:2192000461017": 26,
+      "gas:candidate-vibid:2192000463107": 9,
+      "gas:candidate-vibid:2192000462955": 21,
+      "gas:candidate-vibid:2192000463096": 187,
+      "gas:candidate-vibid:2192000461913": 15,
+      "gas:candidate-vibid:2192000461790": 124
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khakas?action=show&root=1000051&tvd=2192000448414&vrn=100100067795849&region=19&global=&sub_region=19&prver=0&pronetvd=null&vibid=2192000448414&type=464",
@@ -4579,12 +4579,12 @@ export const duma_2016_uik_463_region_19_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буреев Дмитрий Викторович": 6,
-      "Верьясов Виктор Викторович": 4,
-      "Иванов Олег Альбертович": 2,
-      "Максимова Надежда Сергеевна": 54,
-      "Миндибекова Людмила Анатольевна": 4,
-      "Семенов Александр Геннадьевич": 30
+      "gas:candidate-vibid:2192000461017": 6,
+      "gas:candidate-vibid:2192000463107": 4,
+      "gas:candidate-vibid:2192000462955": 2,
+      "gas:candidate-vibid:2192000463096": 54,
+      "gas:candidate-vibid:2192000461913": 4,
+      "gas:candidate-vibid:2192000461790": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khakas?action=show&root=1000051&tvd=2192000448414&vrn=100100067795849&region=19&global=&sub_region=19&prver=0&pronetvd=null&vibid=2192000448414&type=464",
@@ -4635,12 +4635,12 @@ export const duma_2016_uik_463_region_19_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буреев Дмитрий Викторович": 4,
-      "Верьясов Виктор Викторович": 0,
-      "Иванов Олег Альбертович": 3,
-      "Максимова Надежда Сергеевна": 20,
-      "Миндибекова Людмила Анатольевна": 1,
-      "Семенов Александр Геннадьевич": 17
+      "gas:candidate-vibid:2192000461017": 4,
+      "gas:candidate-vibid:2192000463107": 0,
+      "gas:candidate-vibid:2192000462955": 3,
+      "gas:candidate-vibid:2192000463096": 20,
+      "gas:candidate-vibid:2192000461913": 1,
+      "gas:candidate-vibid:2192000461790": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khakas?action=show&root=1000051&tvd=2192000448414&vrn=100100067795849&region=19&global=&sub_region=19&prver=0&pronetvd=null&vibid=2192000448414&type=464",
@@ -4691,12 +4691,12 @@ export const duma_2016_uik_463_region_19_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буреев Дмитрий Викторович": 8,
-      "Верьясов Виктор Викторович": 2,
-      "Иванов Олег Альбертович": 8,
-      "Максимова Надежда Сергеевна": 100,
-      "Миндибекова Людмила Анатольевна": 1,
-      "Семенов Александр Геннадьевич": 30
+      "gas:candidate-vibid:2192000461017": 8,
+      "gas:candidate-vibid:2192000463107": 2,
+      "gas:candidate-vibid:2192000462955": 8,
+      "gas:candidate-vibid:2192000463096": 100,
+      "gas:candidate-vibid:2192000461913": 1,
+      "gas:candidate-vibid:2192000461790": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khakas?action=show&root=1000051&tvd=2192000448414&vrn=100100067795849&region=19&global=&sub_region=19&prver=0&pronetvd=null&vibid=2192000448414&type=464",
@@ -4747,12 +4747,12 @@ export const duma_2016_uik_463_region_19_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буреев Дмитрий Викторович": 5,
-      "Верьясов Виктор Викторович": 6,
-      "Иванов Олег Альбертович": 2,
-      "Максимова Надежда Сергеевна": 58,
-      "Миндибекова Людмила Анатольевна": 6,
-      "Семенов Александр Геннадьевич": 50
+      "gas:candidate-vibid:2192000461017": 5,
+      "gas:candidate-vibid:2192000463107": 6,
+      "gas:candidate-vibid:2192000462955": 2,
+      "gas:candidate-vibid:2192000463096": 58,
+      "gas:candidate-vibid:2192000461913": 6,
+      "gas:candidate-vibid:2192000461790": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khakas?action=show&root=1000051&tvd=2192000448414&vrn=100100067795849&region=19&global=&sub_region=19&prver=0&pronetvd=null&vibid=2192000448414&type=464",
@@ -4803,12 +4803,12 @@ export const duma_2016_uik_463_region_19_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буреев Дмитрий Викторович": 19,
-      "Верьясов Виктор Викторович": 6,
-      "Иванов Олег Альбертович": 2,
-      "Максимова Надежда Сергеевна": 49,
-      "Миндибекова Людмила Анатольевна": 5,
-      "Семенов Александр Геннадьевич": 29
+      "gas:candidate-vibid:2192000461017": 19,
+      "gas:candidate-vibid:2192000463107": 6,
+      "gas:candidate-vibid:2192000462955": 2,
+      "gas:candidate-vibid:2192000463096": 49,
+      "gas:candidate-vibid:2192000461913": 5,
+      "gas:candidate-vibid:2192000461790": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khakas?action=show&root=1000051&tvd=2192000448414&vrn=100100067795849&region=19&global=&sub_region=19&prver=0&pronetvd=null&vibid=2192000448414&type=464",
@@ -4859,12 +4859,12 @@ export const duma_2016_uik_463_region_19_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буреев Дмитрий Викторович": 38,
-      "Верьясов Виктор Викторович": 19,
-      "Иванов Олег Альбертович": 34,
-      "Максимова Надежда Сергеевна": 191,
-      "Миндибекова Людмила Анатольевна": 12,
-      "Семенов Александр Геннадьевич": 114
+      "gas:candidate-vibid:2192000461017": 38,
+      "gas:candidate-vibid:2192000463107": 19,
+      "gas:candidate-vibid:2192000462955": 34,
+      "gas:candidate-vibid:2192000463096": 191,
+      "gas:candidate-vibid:2192000461913": 12,
+      "gas:candidate-vibid:2192000461790": 114
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khakas?action=show&root=1000051&tvd=2192000448414&vrn=100100067795849&region=19&global=&sub_region=19&prver=0&pronetvd=null&vibid=2192000448414&type=464",
@@ -4915,12 +4915,12 @@ export const duma_2016_uik_463_region_19_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буреев Дмитрий Викторович": 37,
-      "Верьясов Виктор Викторович": 10,
-      "Иванов Олег Альбертович": 12,
-      "Максимова Надежда Сергеевна": 100,
-      "Миндибекова Людмила Анатольевна": 8,
-      "Семенов Александр Геннадьевич": 113
+      "gas:candidate-vibid:2192000461017": 37,
+      "gas:candidate-vibid:2192000463107": 10,
+      "gas:candidate-vibid:2192000462955": 12,
+      "gas:candidate-vibid:2192000463096": 100,
+      "gas:candidate-vibid:2192000461913": 8,
+      "gas:candidate-vibid:2192000461790": 113
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khakas?action=show&root=1000051&tvd=2192000448414&vrn=100100067795849&region=19&global=&sub_region=19&prver=0&pronetvd=null&vibid=2192000448414&type=464",
@@ -4971,12 +4971,12 @@ export const duma_2016_uik_463_region_19_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буреев Дмитрий Викторович": 45,
-      "Верьясов Виктор Викторович": 3,
-      "Иванов Олег Альбертович": 17,
-      "Максимова Надежда Сергеевна": 82,
-      "Миндибекова Людмила Анатольевна": 11,
-      "Семенов Александр Геннадьевич": 103
+      "gas:candidate-vibid:2192000461017": 45,
+      "gas:candidate-vibid:2192000463107": 3,
+      "gas:candidate-vibid:2192000462955": 17,
+      "gas:candidate-vibid:2192000463096": 82,
+      "gas:candidate-vibid:2192000461913": 11,
+      "gas:candidate-vibid:2192000461790": 103
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khakas?action=show&root=1000051&tvd=2192000448414&vrn=100100067795849&region=19&global=&sub_region=19&prver=0&pronetvd=null&vibid=2192000448414&type=464",
@@ -5027,12 +5027,12 @@ export const duma_2016_uik_463_region_19_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буреев Дмитрий Викторович": 47,
-      "Верьясов Виктор Викторович": 9,
-      "Иванов Олег Альбертович": 27,
-      "Максимова Надежда Сергеевна": 139,
-      "Миндибекова Людмила Анатольевна": 18,
-      "Семенов Александр Геннадьевич": 139
+      "gas:candidate-vibid:2192000461017": 47,
+      "gas:candidate-vibid:2192000463107": 9,
+      "gas:candidate-vibid:2192000462955": 27,
+      "gas:candidate-vibid:2192000463096": 139,
+      "gas:candidate-vibid:2192000461913": 18,
+      "gas:candidate-vibid:2192000461790": 139
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khakas?action=show&root=1000051&tvd=2192000448414&vrn=100100067795849&region=19&global=&sub_region=19&prver=0&pronetvd=null&vibid=2192000448414&type=464",
@@ -5083,12 +5083,12 @@ export const duma_2016_uik_463_region_19_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буреев Дмитрий Викторович": 40,
-      "Верьясов Виктор Викторович": 2,
-      "Иванов Олег Альбертович": 7,
-      "Максимова Надежда Сергеевна": 198,
-      "Миндибекова Людмила Анатольевна": 21,
-      "Семенов Александр Геннадьевич": 113
+      "gas:candidate-vibid:2192000461017": 40,
+      "gas:candidate-vibid:2192000463107": 2,
+      "gas:candidate-vibid:2192000462955": 7,
+      "gas:candidate-vibid:2192000463096": 198,
+      "gas:candidate-vibid:2192000461913": 21,
+      "gas:candidate-vibid:2192000461790": 113
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khakas?action=show&root=1000051&tvd=2192000448415&vrn=100100067795849&region=19&global=&sub_region=19&prver=0&pronetvd=null&vibid=2192000448415&type=464",
@@ -5139,12 +5139,12 @@ export const duma_2016_uik_463_region_19_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буреев Дмитрий Викторович": 18,
-      "Верьясов Виктор Викторович": 3,
-      "Иванов Олег Альбертович": 4,
-      "Максимова Надежда Сергеевна": 334,
-      "Миндибекова Людмила Анатольевна": 44,
-      "Семенов Александр Геннадьевич": 176
+      "gas:candidate-vibid:2192000461017": 18,
+      "gas:candidate-vibid:2192000463107": 3,
+      "gas:candidate-vibid:2192000462955": 4,
+      "gas:candidate-vibid:2192000463096": 334,
+      "gas:candidate-vibid:2192000461913": 44,
+      "gas:candidate-vibid:2192000461790": 176
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khakas?action=show&root=1000051&tvd=2192000448415&vrn=100100067795849&region=19&global=&sub_region=19&prver=0&pronetvd=null&vibid=2192000448415&type=464",
@@ -5195,12 +5195,12 @@ export const duma_2016_uik_463_region_19_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буреев Дмитрий Викторович": 85,
-      "Верьясов Виктор Викторович": 13,
-      "Иванов Олег Альбертович": 16,
-      "Максимова Надежда Сергеевна": 231,
-      "Миндибекова Людмила Анатольевна": 38,
-      "Семенов Александр Геннадьевич": 104
+      "gas:candidate-vibid:2192000461017": 85,
+      "gas:candidate-vibid:2192000463107": 13,
+      "gas:candidate-vibid:2192000462955": 16,
+      "gas:candidate-vibid:2192000463096": 231,
+      "gas:candidate-vibid:2192000461913": 38,
+      "gas:candidate-vibid:2192000461790": 104
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khakas?action=show&root=1000051&tvd=2192000448415&vrn=100100067795849&region=19&global=&sub_region=19&prver=0&pronetvd=null&vibid=2192000448415&type=464",
@@ -5251,12 +5251,12 @@ export const duma_2016_uik_463_region_19_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буреев Дмитрий Викторович": 113,
-      "Верьясов Виктор Викторович": 12,
-      "Иванов Олег Альбертович": 14,
-      "Максимова Надежда Сергеевна": 304,
-      "Миндибекова Людмила Анатольевна": 78,
-      "Семенов Александр Геннадьевич": 234
+      "gas:candidate-vibid:2192000461017": 113,
+      "gas:candidate-vibid:2192000463107": 12,
+      "gas:candidate-vibid:2192000462955": 14,
+      "gas:candidate-vibid:2192000463096": 304,
+      "gas:candidate-vibid:2192000461913": 78,
+      "gas:candidate-vibid:2192000461790": 234
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khakas?action=show&root=1000051&tvd=2192000448415&vrn=100100067795849&region=19&global=&sub_region=19&prver=0&pronetvd=null&vibid=2192000448415&type=464",
@@ -5307,12 +5307,12 @@ export const duma_2016_uik_463_region_19_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буреев Дмитрий Викторович": 52,
-      "Верьясов Виктор Викторович": 4,
-      "Иванов Олег Альбертович": 11,
-      "Максимова Надежда Сергеевна": 178,
-      "Миндибекова Людмила Анатольевна": 29,
-      "Семенов Александр Геннадьевич": 112
+      "gas:candidate-vibid:2192000461017": 52,
+      "gas:candidate-vibid:2192000463107": 4,
+      "gas:candidate-vibid:2192000462955": 11,
+      "gas:candidate-vibid:2192000463096": 178,
+      "gas:candidate-vibid:2192000461913": 29,
+      "gas:candidate-vibid:2192000461790": 112
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khakas?action=show&root=1000051&tvd=2192000448415&vrn=100100067795849&region=19&global=&sub_region=19&prver=0&pronetvd=null&vibid=2192000448415&type=464",
@@ -5363,12 +5363,12 @@ export const duma_2016_uik_463_region_19_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буреев Дмитрий Викторович": 15,
-      "Верьясов Виктор Викторович": 1,
-      "Иванов Олег Альбертович": 3,
-      "Максимова Надежда Сергеевна": 31,
-      "Миндибекова Людмила Анатольевна": 6,
-      "Семенов Александр Геннадьевич": 13
+      "gas:candidate-vibid:2192000461017": 15,
+      "gas:candidate-vibid:2192000463107": 1,
+      "gas:candidate-vibid:2192000462955": 3,
+      "gas:candidate-vibid:2192000463096": 31,
+      "gas:candidate-vibid:2192000461913": 6,
+      "gas:candidate-vibid:2192000461790": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khakas?action=show&root=1000051&tvd=2192000448415&vrn=100100067795849&region=19&global=&sub_region=19&prver=0&pronetvd=null&vibid=2192000448415&type=464",
@@ -5419,12 +5419,12 @@ export const duma_2016_uik_463_region_19_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буреев Дмитрий Викторович": 2,
-      "Верьясов Виктор Викторович": 1,
-      "Иванов Олег Альбертович": 2,
-      "Максимова Надежда Сергеевна": 56,
-      "Миндибекова Людмила Анатольевна": 6,
-      "Семенов Александр Геннадьевич": 18
+      "gas:candidate-vibid:2192000461017": 2,
+      "gas:candidate-vibid:2192000463107": 1,
+      "gas:candidate-vibid:2192000462955": 2,
+      "gas:candidate-vibid:2192000463096": 56,
+      "gas:candidate-vibid:2192000461913": 6,
+      "gas:candidate-vibid:2192000461790": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khakas?action=show&root=1000051&tvd=2192000448415&vrn=100100067795849&region=19&global=&sub_region=19&prver=0&pronetvd=null&vibid=2192000448415&type=464",
@@ -5475,12 +5475,12 @@ export const duma_2016_uik_463_region_19_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буреев Дмитрий Викторович": 6,
-      "Верьясов Виктор Викторович": 1,
-      "Иванов Олег Альбертович": 5,
-      "Максимова Надежда Сергеевна": 45,
-      "Миндибекова Людмила Анатольевна": 9,
-      "Семенов Александр Геннадьевич": 18
+      "gas:candidate-vibid:2192000461017": 6,
+      "gas:candidate-vibid:2192000463107": 1,
+      "gas:candidate-vibid:2192000462955": 5,
+      "gas:candidate-vibid:2192000463096": 45,
+      "gas:candidate-vibid:2192000461913": 9,
+      "gas:candidate-vibid:2192000461790": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khakas?action=show&root=1000051&tvd=2192000448415&vrn=100100067795849&region=19&global=&sub_region=19&prver=0&pronetvd=null&vibid=2192000448415&type=464",
@@ -5531,12 +5531,12 @@ export const duma_2016_uik_463_region_19_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буреев Дмитрий Викторович": 101,
-      "Верьясов Виктор Викторович": 6,
-      "Иванов Олег Альбертович": 24,
-      "Максимова Надежда Сергеевна": 191,
-      "Миндибекова Людмила Анатольевна": 48,
-      "Семенов Александр Геннадьевич": 119
+      "gas:candidate-vibid:2192000461017": 101,
+      "gas:candidate-vibid:2192000463107": 6,
+      "gas:candidate-vibid:2192000462955": 24,
+      "gas:candidate-vibid:2192000463096": 191,
+      "gas:candidate-vibid:2192000461913": 48,
+      "gas:candidate-vibid:2192000461790": 119
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khakas?action=show&root=1000051&tvd=2192000448415&vrn=100100067795849&region=19&global=&sub_region=19&prver=0&pronetvd=null&vibid=2192000448415&type=464",
@@ -5587,12 +5587,12 @@ export const duma_2016_uik_463_region_19_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буреев Дмитрий Викторович": 94,
-      "Верьясов Виктор Викторович": 5,
-      "Иванов Олег Альбертович": 17,
-      "Максимова Надежда Сергеевна": 178,
-      "Миндибекова Людмила Анатольевна": 32,
-      "Семенов Александр Геннадьевич": 187
+      "gas:candidate-vibid:2192000461017": 94,
+      "gas:candidate-vibid:2192000463107": 5,
+      "gas:candidate-vibid:2192000462955": 17,
+      "gas:candidate-vibid:2192000463096": 178,
+      "gas:candidate-vibid:2192000461913": 32,
+      "gas:candidate-vibid:2192000461790": 187
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khakas?action=show&root=1000051&tvd=2192000448415&vrn=100100067795849&region=19&global=&sub_region=19&prver=0&pronetvd=null&vibid=2192000448415&type=464",
@@ -5643,12 +5643,12 @@ export const duma_2016_uik_463_region_19_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буреев Дмитрий Викторович": 5,
-      "Верьясов Виктор Викторович": 0,
-      "Иванов Олег Альбертович": 4,
-      "Максимова Надежда Сергеевна": 27,
-      "Миндибекова Людмила Анатольевна": 7,
-      "Семенов Александр Геннадьевич": 28
+      "gas:candidate-vibid:2192000461017": 5,
+      "gas:candidate-vibid:2192000463107": 0,
+      "gas:candidate-vibid:2192000462955": 4,
+      "gas:candidate-vibid:2192000463096": 27,
+      "gas:candidate-vibid:2192000461913": 7,
+      "gas:candidate-vibid:2192000461790": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khakas?action=show&root=1000051&tvd=2192000448415&vrn=100100067795849&region=19&global=&sub_region=19&prver=0&pronetvd=null&vibid=2192000448415&type=464",
@@ -5699,12 +5699,12 @@ export const duma_2016_uik_463_region_19_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буреев Дмитрий Викторович": 46,
-      "Верьясов Виктор Викторович": 2,
-      "Иванов Олег Альбертович": 12,
-      "Максимова Надежда Сергеевна": 204,
-      "Миндибекова Людмила Анатольевна": 46,
-      "Семенов Александр Геннадьевич": 183
+      "gas:candidate-vibid:2192000461017": 46,
+      "gas:candidate-vibid:2192000463107": 2,
+      "gas:candidate-vibid:2192000462955": 12,
+      "gas:candidate-vibid:2192000463096": 204,
+      "gas:candidate-vibid:2192000461913": 46,
+      "gas:candidate-vibid:2192000461790": 183
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khakas?action=show&root=1000051&tvd=2192000448415&vrn=100100067795849&region=19&global=&sub_region=19&prver=0&pronetvd=null&vibid=2192000448415&type=464",
@@ -5755,12 +5755,12 @@ export const duma_2016_uik_463_region_19_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буреев Дмитрий Викторович": 79,
-      "Верьясов Виктор Викторович": 12,
-      "Иванов Олег Альбертович": 13,
-      "Максимова Надежда Сергеевна": 116,
-      "Миндибекова Людмила Анатольевна": 23,
-      "Семенов Александр Геннадьевич": 148
+      "gas:candidate-vibid:2192000461017": 79,
+      "gas:candidate-vibid:2192000463107": 12,
+      "gas:candidate-vibid:2192000462955": 13,
+      "gas:candidate-vibid:2192000463096": 116,
+      "gas:candidate-vibid:2192000461913": 23,
+      "gas:candidate-vibid:2192000461790": 148
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khakas?action=show&root=1000051&tvd=2192000448415&vrn=100100067795849&region=19&global=&sub_region=19&prver=0&pronetvd=null&vibid=2192000448415&type=464",
@@ -5811,12 +5811,12 @@ export const duma_2016_uik_463_region_19_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буреев Дмитрий Викторович": 48,
-      "Верьясов Виктор Викторович": 8,
-      "Иванов Олег Альбертович": 4,
-      "Максимова Надежда Сергеевна": 51,
-      "Миндибекова Людмила Анатольевна": 11,
-      "Семенов Александр Геннадьевич": 59
+      "gas:candidate-vibid:2192000461017": 48,
+      "gas:candidate-vibid:2192000463107": 8,
+      "gas:candidate-vibid:2192000462955": 4,
+      "gas:candidate-vibid:2192000463096": 51,
+      "gas:candidate-vibid:2192000461913": 11,
+      "gas:candidate-vibid:2192000461790": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khakas?action=show&root=1000051&tvd=2192000448415&vrn=100100067795849&region=19&global=&sub_region=19&prver=0&pronetvd=null&vibid=2192000448415&type=464",
@@ -5867,12 +5867,12 @@ export const duma_2016_uik_463_region_19_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буреев Дмитрий Викторович": 35,
-      "Верьясов Виктор Викторович": 5,
-      "Иванов Олег Альбертович": 11,
-      "Максимова Надежда Сергеевна": 100,
-      "Миндибекова Людмила Анатольевна": 27,
-      "Семенов Александр Геннадьевич": 53
+      "gas:candidate-vibid:2192000461017": 35,
+      "gas:candidate-vibid:2192000463107": 5,
+      "gas:candidate-vibid:2192000462955": 11,
+      "gas:candidate-vibid:2192000463096": 100,
+      "gas:candidate-vibid:2192000461913": 27,
+      "gas:candidate-vibid:2192000461790": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khakas?action=show&root=1000051&tvd=2192000448415&vrn=100100067795849&region=19&global=&sub_region=19&prver=0&pronetvd=null&vibid=2192000448415&type=464",
@@ -5923,12 +5923,12 @@ export const duma_2016_uik_463_region_19_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буреев Дмитрий Викторович": 6,
-      "Верьясов Виктор Викторович": 2,
-      "Иванов Олег Альбертович": 0,
-      "Максимова Надежда Сергеевна": 18,
-      "Миндибекова Людмила Анатольевна": 1,
-      "Семенов Александр Геннадьевич": 5
+      "gas:candidate-vibid:2192000461017": 6,
+      "gas:candidate-vibid:2192000463107": 2,
+      "gas:candidate-vibid:2192000462955": 0,
+      "gas:candidate-vibid:2192000463096": 18,
+      "gas:candidate-vibid:2192000461913": 1,
+      "gas:candidate-vibid:2192000461790": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khakas?action=show&root=1000051&tvd=2192000448415&vrn=100100067795849&region=19&global=&sub_region=19&prver=0&pronetvd=null&vibid=2192000448415&type=464",
@@ -5979,12 +5979,12 @@ export const duma_2016_uik_463_region_19_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буреев Дмитрий Викторович": 18,
-      "Верьясов Виктор Викторович": 3,
-      "Иванов Олег Альбертович": 13,
-      "Максимова Надежда Сергеевна": 88,
-      "Миндибекова Людмила Анатольевна": 8,
-      "Семенов Александр Геннадьевич": 42
+      "gas:candidate-vibid:2192000461017": 18,
+      "gas:candidate-vibid:2192000463107": 3,
+      "gas:candidate-vibid:2192000462955": 13,
+      "gas:candidate-vibid:2192000463096": 88,
+      "gas:candidate-vibid:2192000461913": 8,
+      "gas:candidate-vibid:2192000461790": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khakas?action=show&root=1000051&tvd=2192000448415&vrn=100100067795849&region=19&global=&sub_region=19&prver=0&pronetvd=null&vibid=2192000448415&type=464",
@@ -6035,12 +6035,12 @@ export const duma_2016_uik_463_region_19_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буреев Дмитрий Викторович": 2,
-      "Верьясов Виктор Викторович": 2,
-      "Иванов Олег Альбертович": 3,
-      "Максимова Надежда Сергеевна": 46,
-      "Миндибекова Людмила Анатольевна": 14,
-      "Семенов Александр Геннадьевич": 20
+      "gas:candidate-vibid:2192000461017": 2,
+      "gas:candidate-vibid:2192000463107": 2,
+      "gas:candidate-vibid:2192000462955": 3,
+      "gas:candidate-vibid:2192000463096": 46,
+      "gas:candidate-vibid:2192000461913": 14,
+      "gas:candidate-vibid:2192000461790": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khakas?action=show&root=1000051&tvd=2192000448415&vrn=100100067795849&region=19&global=&sub_region=19&prver=0&pronetvd=null&vibid=2192000448415&type=464",
@@ -6091,12 +6091,12 @@ export const duma_2016_uik_463_region_19_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буреев Дмитрий Викторович": 22,
-      "Верьясов Виктор Викторович": 6,
-      "Иванов Олег Альбертович": 9,
-      "Максимова Надежда Сергеевна": 83,
-      "Миндибекова Людмила Анатольевна": 14,
-      "Семенов Александр Геннадьевич": 73
+      "gas:candidate-vibid:2192000461017": 22,
+      "gas:candidate-vibid:2192000463107": 6,
+      "gas:candidate-vibid:2192000462955": 9,
+      "gas:candidate-vibid:2192000463096": 83,
+      "gas:candidate-vibid:2192000461913": 14,
+      "gas:candidate-vibid:2192000461790": 73
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khakas?action=show&root=1000051&tvd=2192000448415&vrn=100100067795849&region=19&global=&sub_region=19&prver=0&pronetvd=null&vibid=2192000448415&type=464",
@@ -6147,12 +6147,12 @@ export const duma_2016_uik_463_region_19_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буреев Дмитрий Викторович": 0,
-      "Верьясов Виктор Викторович": 0,
-      "Иванов Олег Альбертович": 0,
-      "Максимова Надежда Сергеевна": 52,
-      "Миндибекова Людмила Анатольевна": 5,
-      "Семенов Александр Геннадьевич": 14
+      "gas:candidate-vibid:2192000461017": 0,
+      "gas:candidate-vibid:2192000463107": 0,
+      "gas:candidate-vibid:2192000462955": 0,
+      "gas:candidate-vibid:2192000463096": 52,
+      "gas:candidate-vibid:2192000461913": 5,
+      "gas:candidate-vibid:2192000461790": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khakas?action=show&root=1000051&tvd=2192000448415&vrn=100100067795849&region=19&global=&sub_region=19&prver=0&pronetvd=null&vibid=2192000448415&type=464",
@@ -6203,12 +6203,12 @@ export const duma_2016_uik_463_region_19_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буреев Дмитрий Викторович": 7,
-      "Верьясов Виктор Викторович": 4,
-      "Иванов Олег Альбертович": 2,
-      "Максимова Надежда Сергеевна": 46,
-      "Миндибекова Людмила Анатольевна": 8,
-      "Семенов Александр Геннадьевич": 24
+      "gas:candidate-vibid:2192000461017": 7,
+      "gas:candidate-vibid:2192000463107": 4,
+      "gas:candidate-vibid:2192000462955": 2,
+      "gas:candidate-vibid:2192000463096": 46,
+      "gas:candidate-vibid:2192000461913": 8,
+      "gas:candidate-vibid:2192000461790": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khakas?action=show&root=1000051&tvd=2192000448415&vrn=100100067795849&region=19&global=&sub_region=19&prver=0&pronetvd=null&vibid=2192000448415&type=464",
@@ -6259,12 +6259,12 @@ export const duma_2016_uik_463_region_19_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буреев Дмитрий Викторович": 6,
-      "Верьясов Виктор Викторович": 0,
-      "Иванов Олег Альбертович": 2,
-      "Максимова Надежда Сергеевна": 229,
-      "Миндибекова Людмила Анатольевна": 27,
-      "Семенов Александр Геннадьевич": 73
+      "gas:candidate-vibid:2192000461017": 6,
+      "gas:candidate-vibid:2192000463107": 0,
+      "gas:candidate-vibid:2192000462955": 2,
+      "gas:candidate-vibid:2192000463096": 229,
+      "gas:candidate-vibid:2192000461913": 27,
+      "gas:candidate-vibid:2192000461790": 73
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khakas?action=show&root=1000051&tvd=2192000448415&vrn=100100067795849&region=19&global=&sub_region=19&prver=0&pronetvd=null&vibid=2192000448415&type=464",
@@ -6315,12 +6315,12 @@ export const duma_2016_uik_463_region_19_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буреев Дмитрий Викторович": 1,
-      "Верьясов Виктор Викторович": 0,
-      "Иванов Олег Альбертович": 3,
-      "Максимова Надежда Сергеевна": 182,
-      "Миндибекова Людмила Анатольевна": 3,
-      "Семенов Александр Геннадьевич": 41
+      "gas:candidate-vibid:2192000461017": 1,
+      "gas:candidate-vibid:2192000463107": 0,
+      "gas:candidate-vibid:2192000462955": 3,
+      "gas:candidate-vibid:2192000463096": 182,
+      "gas:candidate-vibid:2192000461913": 3,
+      "gas:candidate-vibid:2192000461790": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khakas?action=show&root=1000051&tvd=2192000448415&vrn=100100067795849&region=19&global=&sub_region=19&prver=0&pronetvd=null&vibid=2192000448415&type=464",
@@ -6371,12 +6371,12 @@ export const duma_2016_uik_463_region_19_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буреев Дмитрий Викторович": 72,
-      "Верьясов Виктор Викторович": 9,
-      "Иванов Олег Альбертович": 17,
-      "Максимова Надежда Сергеевна": 190,
-      "Миндибекова Людмила Анатольевна": 26,
-      "Семенов Александр Геннадьевич": 147
+      "gas:candidate-vibid:2192000461017": 72,
+      "gas:candidate-vibid:2192000463107": 9,
+      "gas:candidate-vibid:2192000462955": 17,
+      "gas:candidate-vibid:2192000463096": 190,
+      "gas:candidate-vibid:2192000461913": 26,
+      "gas:candidate-vibid:2192000461790": 147
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khakas?action=show&root=1000051&tvd=2192000448415&vrn=100100067795849&region=19&global=&sub_region=19&prver=0&pronetvd=null&vibid=2192000448415&type=464",
@@ -6427,12 +6427,12 @@ export const duma_2016_uik_463_region_19_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буреев Дмитрий Викторович": 11,
-      "Верьясов Виктор Викторович": 0,
-      "Иванов Олег Альбертович": 2,
-      "Максимова Надежда Сергеевна": 213,
-      "Миндибекова Людмила Анатольевна": 5,
-      "Семенов Александр Геннадьевич": 52
+      "gas:candidate-vibid:2192000461017": 11,
+      "gas:candidate-vibid:2192000463107": 0,
+      "gas:candidate-vibid:2192000462955": 2,
+      "gas:candidate-vibid:2192000463096": 213,
+      "gas:candidate-vibid:2192000461913": 5,
+      "gas:candidate-vibid:2192000461790": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khakas?action=show&root=1000051&tvd=2192000448415&vrn=100100067795849&region=19&global=&sub_region=19&prver=0&pronetvd=null&vibid=2192000448415&type=464",
@@ -6483,12 +6483,12 @@ export const duma_2016_uik_463_region_19_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буреев Дмитрий Викторович": 26,
-      "Верьясов Виктор Викторович": 4,
-      "Иванов Олег Альбертович": 8,
-      "Максимова Надежда Сергеевна": 83,
-      "Миндибекова Людмила Анатольевна": 18,
-      "Семенов Александр Геннадьевич": 63
+      "gas:candidate-vibid:2192000461017": 26,
+      "gas:candidate-vibid:2192000463107": 4,
+      "gas:candidate-vibid:2192000462955": 8,
+      "gas:candidate-vibid:2192000463096": 83,
+      "gas:candidate-vibid:2192000461913": 18,
+      "gas:candidate-vibid:2192000461790": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khakas?action=show&root=1000051&tvd=2192000448415&vrn=100100067795849&region=19&global=&sub_region=19&prver=0&pronetvd=null&vibid=2192000448415&type=464",
@@ -6539,12 +6539,12 @@ export const duma_2016_uik_463_region_19_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буреев Дмитрий Викторович": 50,
-      "Верьясов Виктор Викторович": 6,
-      "Иванов Олег Альбертович": 5,
-      "Максимова Надежда Сергеевна": 140,
-      "Миндибекова Людмила Анатольевна": 36,
-      "Семенов Александр Геннадьевич": 164
+      "gas:candidate-vibid:2192000461017": 50,
+      "gas:candidate-vibid:2192000463107": 6,
+      "gas:candidate-vibid:2192000462955": 5,
+      "gas:candidate-vibid:2192000463096": 140,
+      "gas:candidate-vibid:2192000461913": 36,
+      "gas:candidate-vibid:2192000461790": 164
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khakas?action=show&root=1000051&tvd=2192000448415&vrn=100100067795849&region=19&global=&sub_region=19&prver=0&pronetvd=null&vibid=2192000448415&type=464",
@@ -6595,12 +6595,12 @@ export const duma_2016_uik_463_region_19_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буреев Дмитрий Викторович": 0,
-      "Верьясов Виктор Викторович": 0,
-      "Иванов Олег Альбертович": 0,
-      "Максимова Надежда Сергеевна": 32,
-      "Миндибекова Людмила Анатольевна": 0,
-      "Семенов Александр Геннадьевич": 32
+      "gas:candidate-vibid:2192000461017": 0,
+      "gas:candidate-vibid:2192000463107": 0,
+      "gas:candidate-vibid:2192000462955": 0,
+      "gas:candidate-vibid:2192000463096": 32,
+      "gas:candidate-vibid:2192000461913": 0,
+      "gas:candidate-vibid:2192000461790": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khakas?action=show&root=1000051&tvd=2192000448415&vrn=100100067795849&region=19&global=&sub_region=19&prver=0&pronetvd=null&vibid=2192000448415&type=464",
@@ -6651,12 +6651,12 @@ export const duma_2016_uik_463_region_19_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буреев Дмитрий Викторович": 23,
-      "Верьясов Виктор Викторович": 3,
-      "Иванов Олег Альбертович": 8,
-      "Максимова Надежда Сергеевна": 94,
-      "Миндибекова Людмила Анатольевна": 13,
-      "Семенов Александр Геннадьевич": 80
+      "gas:candidate-vibid:2192000461017": 23,
+      "gas:candidate-vibid:2192000463107": 3,
+      "gas:candidate-vibid:2192000462955": 8,
+      "gas:candidate-vibid:2192000463096": 94,
+      "gas:candidate-vibid:2192000461913": 13,
+      "gas:candidate-vibid:2192000461790": 80
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khakas?action=show&root=1000051&tvd=2192000448415&vrn=100100067795849&region=19&global=&sub_region=19&prver=0&pronetvd=null&vibid=2192000448415&type=464",
@@ -6707,12 +6707,12 @@ export const duma_2016_uik_463_region_19_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буреев Дмитрий Викторович": 10,
-      "Верьясов Виктор Викторович": 2,
-      "Иванов Олег Альбертович": 2,
-      "Максимова Надежда Сергеевна": 30,
-      "Миндибекова Людмила Анатольевна": 4,
-      "Семенов Александр Геннадьевич": 18
+      "gas:candidate-vibid:2192000461017": 10,
+      "gas:candidate-vibid:2192000463107": 2,
+      "gas:candidate-vibid:2192000462955": 2,
+      "gas:candidate-vibid:2192000463096": 30,
+      "gas:candidate-vibid:2192000461913": 4,
+      "gas:candidate-vibid:2192000461790": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khakas?action=show&root=1000051&tvd=2192000448415&vrn=100100067795849&region=19&global=&sub_region=19&prver=0&pronetvd=null&vibid=2192000448415&type=464",
@@ -6763,12 +6763,12 @@ export const duma_2016_uik_463_region_19_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буреев Дмитрий Викторович": 3,
-      "Верьясов Виктор Викторович": 3,
-      "Иванов Олег Альбертович": 2,
-      "Максимова Надежда Сергеевна": 77,
-      "Миндибекова Людмила Анатольевна": 7,
-      "Семенов Александр Геннадьевич": 9
+      "gas:candidate-vibid:2192000461017": 3,
+      "gas:candidate-vibid:2192000463107": 3,
+      "gas:candidate-vibid:2192000462955": 2,
+      "gas:candidate-vibid:2192000463096": 77,
+      "gas:candidate-vibid:2192000461913": 7,
+      "gas:candidate-vibid:2192000461790": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khakas?action=show&root=1000051&tvd=2192000448415&vrn=100100067795849&region=19&global=&sub_region=19&prver=0&pronetvd=null&vibid=2192000448415&type=464",
@@ -6819,12 +6819,12 @@ export const duma_2016_uik_463_region_19_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буреев Дмитрий Викторович": 133,
-      "Верьясов Виктор Викторович": 12,
-      "Иванов Олег Альбертович": 15,
-      "Максимова Надежда Сергеевна": 312,
-      "Миндибекова Людмила Анатольевна": 37,
-      "Семенов Александр Геннадьевич": 196
+      "gas:candidate-vibid:2192000461017": 133,
+      "gas:candidate-vibid:2192000463107": 12,
+      "gas:candidate-vibid:2192000462955": 15,
+      "gas:candidate-vibid:2192000463096": 312,
+      "gas:candidate-vibid:2192000461913": 37,
+      "gas:candidate-vibid:2192000461790": 196
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khakas?action=show&root=1000051&tvd=2192000448416&vrn=100100067795849&region=19&global=&sub_region=19&prver=0&pronetvd=null&vibid=2192000448416&type=464",
@@ -6875,12 +6875,12 @@ export const duma_2016_uik_463_region_19_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буреев Дмитрий Викторович": 105,
-      "Верьясов Виктор Викторович": 15,
-      "Иванов Олег Альбертович": 30,
-      "Максимова Надежда Сергеевна": 303,
-      "Миндибекова Людмила Анатольевна": 79,
-      "Семенов Александр Геннадьевич": 259
+      "gas:candidate-vibid:2192000461017": 105,
+      "gas:candidate-vibid:2192000463107": 15,
+      "gas:candidate-vibid:2192000462955": 30,
+      "gas:candidate-vibid:2192000463096": 303,
+      "gas:candidate-vibid:2192000461913": 79,
+      "gas:candidate-vibid:2192000461790": 259
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khakas?action=show&root=1000051&tvd=2192000448416&vrn=100100067795849&region=19&global=&sub_region=19&prver=0&pronetvd=null&vibid=2192000448416&type=464",
@@ -6931,12 +6931,12 @@ export const duma_2016_uik_463_region_19_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буреев Дмитрий Викторович": 27,
-      "Верьясов Виктор Викторович": 2,
-      "Иванов Олег Альбертович": 7,
-      "Максимова Надежда Сергеевна": 52,
-      "Миндибекова Людмила Анатольевна": 16,
-      "Семенов Александр Геннадьевич": 35
+      "gas:candidate-vibid:2192000461017": 27,
+      "gas:candidate-vibid:2192000463107": 2,
+      "gas:candidate-vibid:2192000462955": 7,
+      "gas:candidate-vibid:2192000463096": 52,
+      "gas:candidate-vibid:2192000461913": 16,
+      "gas:candidate-vibid:2192000461790": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khakas?action=show&root=1000051&tvd=2192000448416&vrn=100100067795849&region=19&global=&sub_region=19&prver=0&pronetvd=null&vibid=2192000448416&type=464",
@@ -6987,12 +6987,12 @@ export const duma_2016_uik_463_region_19_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буреев Дмитрий Викторович": 38,
-      "Верьясов Виктор Викторович": 7,
-      "Иванов Олег Альбертович": 12,
-      "Максимова Надежда Сергеевна": 128,
-      "Миндибекова Людмила Анатольевна": 15,
-      "Семенов Александр Геннадьевич": 113
+      "gas:candidate-vibid:2192000461017": 38,
+      "gas:candidate-vibid:2192000463107": 7,
+      "gas:candidate-vibid:2192000462955": 12,
+      "gas:candidate-vibid:2192000463096": 128,
+      "gas:candidate-vibid:2192000461913": 15,
+      "gas:candidate-vibid:2192000461790": 113
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khakas?action=show&root=1000051&tvd=2192000448416&vrn=100100067795849&region=19&global=&sub_region=19&prver=0&pronetvd=null&vibid=2192000448416&type=464",
@@ -7043,12 +7043,12 @@ export const duma_2016_uik_463_region_19_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буреев Дмитрий Викторович": 12,
-      "Верьясов Виктор Викторович": 1,
-      "Иванов Олег Альбертович": 1,
-      "Максимова Надежда Сергеевна": 55,
-      "Миндибекова Людмила Анатольевна": 5,
-      "Семенов Александр Геннадьевич": 27
+      "gas:candidate-vibid:2192000461017": 12,
+      "gas:candidate-vibid:2192000463107": 1,
+      "gas:candidate-vibid:2192000462955": 1,
+      "gas:candidate-vibid:2192000463096": 55,
+      "gas:candidate-vibid:2192000461913": 5,
+      "gas:candidate-vibid:2192000461790": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khakas?action=show&root=1000051&tvd=2192000448416&vrn=100100067795849&region=19&global=&sub_region=19&prver=0&pronetvd=null&vibid=2192000448416&type=464",
@@ -7099,12 +7099,12 @@ export const duma_2016_uik_463_region_19_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буреев Дмитрий Викторович": 7,
-      "Верьясов Виктор Викторович": 0,
-      "Иванов Олег Альбертович": 1,
-      "Максимова Надежда Сергеевна": 38,
-      "Миндибекова Людмила Анатольевна": 1,
-      "Семенов Александр Геннадьевич": 11
+      "gas:candidate-vibid:2192000461017": 7,
+      "gas:candidate-vibid:2192000463107": 0,
+      "gas:candidate-vibid:2192000462955": 1,
+      "gas:candidate-vibid:2192000463096": 38,
+      "gas:candidate-vibid:2192000461913": 1,
+      "gas:candidate-vibid:2192000461790": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khakas?action=show&root=1000051&tvd=2192000448416&vrn=100100067795849&region=19&global=&sub_region=19&prver=0&pronetvd=null&vibid=2192000448416&type=464",
@@ -7155,12 +7155,12 @@ export const duma_2016_uik_463_region_19_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буреев Дмитрий Викторович": 89,
-      "Верьясов Виктор Викторович": 22,
-      "Иванов Олег Альбертович": 24,
-      "Максимова Надежда Сергеевна": 243,
-      "Миндибекова Людмила Анатольевна": 24,
-      "Семенов Александр Геннадьевич": 157
+      "gas:candidate-vibid:2192000461017": 89,
+      "gas:candidate-vibid:2192000463107": 22,
+      "gas:candidate-vibid:2192000462955": 24,
+      "gas:candidate-vibid:2192000463096": 243,
+      "gas:candidate-vibid:2192000461913": 24,
+      "gas:candidate-vibid:2192000461790": 157
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khakas?action=show&root=1000051&tvd=2192000448416&vrn=100100067795849&region=19&global=&sub_region=19&prver=0&pronetvd=null&vibid=2192000448416&type=464",
@@ -7211,12 +7211,12 @@ export const duma_2016_uik_463_region_19_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буреев Дмитрий Викторович": 18,
-      "Верьясов Виктор Викторович": 2,
-      "Иванов Олег Альбертович": 2,
-      "Максимова Надежда Сергеевна": 55,
-      "Миндибекова Людмила Анатольевна": 11,
-      "Семенов Александр Геннадьевич": 11
+      "gas:candidate-vibid:2192000461017": 18,
+      "gas:candidate-vibid:2192000463107": 2,
+      "gas:candidate-vibid:2192000462955": 2,
+      "gas:candidate-vibid:2192000463096": 55,
+      "gas:candidate-vibid:2192000461913": 11,
+      "gas:candidate-vibid:2192000461790": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khakas?action=show&root=1000051&tvd=2192000448416&vrn=100100067795849&region=19&global=&sub_region=19&prver=0&pronetvd=null&vibid=2192000448416&type=464",
@@ -7267,12 +7267,12 @@ export const duma_2016_uik_463_region_19_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буреев Дмитрий Викторович": 14,
-      "Верьясов Виктор Викторович": 5,
-      "Иванов Олег Альбертович": 6,
-      "Максимова Надежда Сергеевна": 43,
-      "Миндибекова Людмила Анатольевна": 2,
-      "Семенов Александр Геннадьевич": 38
+      "gas:candidate-vibid:2192000461017": 14,
+      "gas:candidate-vibid:2192000463107": 5,
+      "gas:candidate-vibid:2192000462955": 6,
+      "gas:candidate-vibid:2192000463096": 43,
+      "gas:candidate-vibid:2192000461913": 2,
+      "gas:candidate-vibid:2192000461790": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khakas?action=show&root=1000051&tvd=2192000448416&vrn=100100067795849&region=19&global=&sub_region=19&prver=0&pronetvd=null&vibid=2192000448416&type=464",
@@ -7323,12 +7323,12 @@ export const duma_2016_uik_463_region_19_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буреев Дмитрий Викторович": 5,
-      "Верьясов Виктор Викторович": 0,
-      "Иванов Олег Альбертович": 6,
-      "Максимова Надежда Сергеевна": 23,
-      "Миндибекова Людмила Анатольевна": 5,
-      "Семенов Александр Геннадьевич": 16
+      "gas:candidate-vibid:2192000461017": 5,
+      "gas:candidate-vibid:2192000463107": 0,
+      "gas:candidate-vibid:2192000462955": 6,
+      "gas:candidate-vibid:2192000463096": 23,
+      "gas:candidate-vibid:2192000461913": 5,
+      "gas:candidate-vibid:2192000461790": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khakas?action=show&root=1000051&tvd=2192000448416&vrn=100100067795849&region=19&global=&sub_region=19&prver=0&pronetvd=null&vibid=2192000448416&type=464",
@@ -7379,12 +7379,12 @@ export const duma_2016_uik_463_region_19_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буреев Дмитрий Викторович": 4,
-      "Верьясов Виктор Викторович": 2,
-      "Иванов Олег Альбертович": 1,
-      "Максимова Надежда Сергеевна": 110,
-      "Миндибекова Людмила Анатольевна": 11,
-      "Семенов Александр Геннадьевич": 15
+      "gas:candidate-vibid:2192000461017": 4,
+      "gas:candidate-vibid:2192000463107": 2,
+      "gas:candidate-vibid:2192000462955": 1,
+      "gas:candidate-vibid:2192000463096": 110,
+      "gas:candidate-vibid:2192000461913": 11,
+      "gas:candidate-vibid:2192000461790": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khakas?action=show&root=1000051&tvd=2192000448416&vrn=100100067795849&region=19&global=&sub_region=19&prver=0&pronetvd=null&vibid=2192000448416&type=464",
@@ -7435,12 +7435,12 @@ export const duma_2016_uik_463_region_19_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буреев Дмитрий Викторович": 41,
-      "Верьясов Виктор Викторович": 3,
-      "Иванов Олег Альбертович": 14,
-      "Максимова Надежда Сергеевна": 122,
-      "Миндибекова Людмила Анатольевна": 27,
-      "Семенов Александр Геннадьевич": 128
+      "gas:candidate-vibid:2192000461017": 41,
+      "gas:candidate-vibid:2192000463107": 3,
+      "gas:candidate-vibid:2192000462955": 14,
+      "gas:candidate-vibid:2192000463096": 122,
+      "gas:candidate-vibid:2192000461913": 27,
+      "gas:candidate-vibid:2192000461790": 128
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khakas?action=show&root=1000051&tvd=2192000448416&vrn=100100067795849&region=19&global=&sub_region=19&prver=0&pronetvd=null&vibid=2192000448416&type=464",
@@ -7491,12 +7491,12 @@ export const duma_2016_uik_463_region_19_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буреев Дмитрий Викторович": 7,
-      "Верьясов Виктор Викторович": 3,
-      "Иванов Олег Альбертович": 3,
-      "Максимова Надежда Сергеевна": 22,
-      "Миндибекова Людмила Анатольевна": 5,
-      "Семенов Александр Геннадьевич": 19
+      "gas:candidate-vibid:2192000461017": 7,
+      "gas:candidate-vibid:2192000463107": 3,
+      "gas:candidate-vibid:2192000462955": 3,
+      "gas:candidate-vibid:2192000463096": 22,
+      "gas:candidate-vibid:2192000461913": 5,
+      "gas:candidate-vibid:2192000461790": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khakas?action=show&root=1000051&tvd=2192000448416&vrn=100100067795849&region=19&global=&sub_region=19&prver=0&pronetvd=null&vibid=2192000448416&type=464",
@@ -7547,12 +7547,12 @@ export const duma_2016_uik_463_region_19_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буреев Дмитрий Викторович": 1,
-      "Верьясов Виктор Викторович": 1,
-      "Иванов Олег Альбертович": 2,
-      "Максимова Надежда Сергеевна": 23,
-      "Миндибекова Людмила Анатольевна": 8,
-      "Семенов Александр Геннадьевич": 10
+      "gas:candidate-vibid:2192000461017": 1,
+      "gas:candidate-vibid:2192000463107": 1,
+      "gas:candidate-vibid:2192000462955": 2,
+      "gas:candidate-vibid:2192000463096": 23,
+      "gas:candidate-vibid:2192000461913": 8,
+      "gas:candidate-vibid:2192000461790": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khakas?action=show&root=1000051&tvd=2192000448416&vrn=100100067795849&region=19&global=&sub_region=19&prver=0&pronetvd=null&vibid=2192000448416&type=464",
@@ -7603,12 +7603,12 @@ export const duma_2016_uik_463_region_19_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буреев Дмитрий Викторович": 4,
-      "Верьясов Виктор Викторович": 2,
-      "Иванов Олег Альбертович": 3,
-      "Максимова Надежда Сергеевна": 51,
-      "Миндибекова Людмила Анатольевна": 4,
-      "Семенов Александр Геннадьевич": 20
+      "gas:candidate-vibid:2192000461017": 4,
+      "gas:candidate-vibid:2192000463107": 2,
+      "gas:candidate-vibid:2192000462955": 3,
+      "gas:candidate-vibid:2192000463096": 51,
+      "gas:candidate-vibid:2192000461913": 4,
+      "gas:candidate-vibid:2192000461790": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khakas?action=show&root=1000051&tvd=2192000448416&vrn=100100067795849&region=19&global=&sub_region=19&prver=0&pronetvd=null&vibid=2192000448416&type=464",
@@ -7659,12 +7659,12 @@ export const duma_2016_uik_463_region_19_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буреев Дмитрий Викторович": 2,
-      "Верьясов Виктор Викторович": 0,
-      "Иванов Олег Альбертович": 2,
-      "Максимова Надежда Сергеевна": 53,
-      "Миндибекова Людмила Анатольевна": 5,
-      "Семенов Александр Геннадьевич": 18
+      "gas:candidate-vibid:2192000461017": 2,
+      "gas:candidate-vibid:2192000463107": 0,
+      "gas:candidate-vibid:2192000462955": 2,
+      "gas:candidate-vibid:2192000463096": 53,
+      "gas:candidate-vibid:2192000461913": 5,
+      "gas:candidate-vibid:2192000461790": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khakas?action=show&root=1000051&tvd=2192000448416&vrn=100100067795849&region=19&global=&sub_region=19&prver=0&pronetvd=null&vibid=2192000448416&type=464",
@@ -7715,12 +7715,12 @@ export const duma_2016_uik_463_region_19_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буреев Дмитрий Викторович": 128,
-      "Верьясов Виктор Викторович": 4,
-      "Иванов Олег Альбертович": 11,
-      "Максимова Надежда Сергеевна": 153,
-      "Миндибекова Людмила Анатольевна": 12,
-      "Семенов Александр Геннадьевич": 85
+      "gas:candidate-vibid:2192000461017": 128,
+      "gas:candidate-vibid:2192000463107": 4,
+      "gas:candidate-vibid:2192000462955": 11,
+      "gas:candidate-vibid:2192000463096": 153,
+      "gas:candidate-vibid:2192000461913": 12,
+      "gas:candidate-vibid:2192000461790": 85
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khakas?action=show&root=1000051&tvd=2192000448416&vrn=100100067795849&region=19&global=&sub_region=19&prver=0&pronetvd=null&vibid=2192000448416&type=464",
@@ -7771,12 +7771,12 @@ export const duma_2016_uik_463_region_19_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буреев Дмитрий Викторович": 5,
-      "Верьясов Виктор Викторович": 1,
-      "Иванов Олег Альбертович": 2,
-      "Максимова Надежда Сергеевна": 30,
-      "Миндибекова Людмила Анатольевна": 2,
-      "Семенов Александр Геннадьевич": 18
+      "gas:candidate-vibid:2192000461017": 5,
+      "gas:candidate-vibid:2192000463107": 1,
+      "gas:candidate-vibid:2192000462955": 2,
+      "gas:candidate-vibid:2192000463096": 30,
+      "gas:candidate-vibid:2192000461913": 2,
+      "gas:candidate-vibid:2192000461790": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khakas?action=show&root=1000051&tvd=2192000448416&vrn=100100067795849&region=19&global=&sub_region=19&prver=0&pronetvd=null&vibid=2192000448416&type=464",
@@ -7827,12 +7827,12 @@ export const duma_2016_uik_463_region_19_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буреев Дмитрий Викторович": 13,
-      "Верьясов Виктор Викторович": 5,
-      "Иванов Олег Альбертович": 8,
-      "Максимова Надежда Сергеевна": 99,
-      "Миндибекова Людмила Анатольевна": 11,
-      "Семенов Александр Геннадьевич": 22
+      "gas:candidate-vibid:2192000461017": 13,
+      "gas:candidate-vibid:2192000463107": 5,
+      "gas:candidate-vibid:2192000462955": 8,
+      "gas:candidate-vibid:2192000463096": 99,
+      "gas:candidate-vibid:2192000461913": 11,
+      "gas:candidate-vibid:2192000461790": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khakas?action=show&root=1000051&tvd=2192000448416&vrn=100100067795849&region=19&global=&sub_region=19&prver=0&pronetvd=null&vibid=2192000448416&type=464",
@@ -7883,12 +7883,12 @@ export const duma_2016_uik_463_region_19_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буреев Дмитрий Викторович": 57,
-      "Верьясов Виктор Викторович": 10,
-      "Иванов Олег Альбертович": 21,
-      "Максимова Надежда Сергеевна": 167,
-      "Миндибекова Людмила Анатольевна": 26,
-      "Семенов Александр Геннадьевич": 121
+      "gas:candidate-vibid:2192000461017": 57,
+      "gas:candidate-vibid:2192000463107": 10,
+      "gas:candidate-vibid:2192000462955": 21,
+      "gas:candidate-vibid:2192000463096": 167,
+      "gas:candidate-vibid:2192000461913": 26,
+      "gas:candidate-vibid:2192000461790": 121
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khakas?action=show&root=1000051&tvd=2192000448416&vrn=100100067795849&region=19&global=&sub_region=19&prver=0&pronetvd=null&vibid=2192000448416&type=464",
@@ -7939,12 +7939,12 @@ export const duma_2016_uik_463_region_19_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буреев Дмитрий Викторович": 35,
-      "Верьясов Виктор Викторович": 4,
-      "Иванов Олег Альбертович": 15,
-      "Максимова Надежда Сергеевна": 100,
-      "Миндибекова Людмила Анатольевна": 19,
-      "Семенов Александр Геннадьевич": 68
+      "gas:candidate-vibid:2192000461017": 35,
+      "gas:candidate-vibid:2192000463107": 4,
+      "gas:candidate-vibid:2192000462955": 15,
+      "gas:candidate-vibid:2192000463096": 100,
+      "gas:candidate-vibid:2192000461913": 19,
+      "gas:candidate-vibid:2192000461790": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khakas?action=show&root=1000051&tvd=2192000448416&vrn=100100067795849&region=19&global=&sub_region=19&prver=0&pronetvd=null&vibid=2192000448416&type=464",
@@ -7995,12 +7995,12 @@ export const duma_2016_uik_463_region_19_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Буреев Дмитрий Викторович": 29,
-      "Верьясов Виктор Викторович": 8,
-      "Иванов Олег Альбертович": 8,
-      "Максимова Надежда Сергеевна": 88,
-      "Миндибекова Людмила Анатольевна": 7,
-      "Семенов Александр Геннадьевич": 49
+      "gas:candidate-vibid:2192000461017": 29,
+      "gas:candidate-vibid:2192000463107": 8,
+      "gas:candidate-vibid:2192000462955": 8,
+      "gas:candidate-vibid:2192000463096": 88,
+      "gas:candidate-vibid:2192000461913": 7,
+      "gas:candidate-vibid:2192000461790": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/khakas?action=show&root=1000051&tvd=2192000448416&vrn=100100067795849&region=19&global=&sub_region=19&prver=0&pronetvd=null&vibid=2192000448416&type=464",

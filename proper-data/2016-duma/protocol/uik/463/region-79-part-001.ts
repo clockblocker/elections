@@ -43,13 +43,13 @@ export const duma_2016_uik_463_region_79_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дмитриенко Василий Васильевич": 4,
-      "Дудин Владимир Николаевич": 12,
-      "Лазарев Константин Александрович": 48,
-      "Ларионов Константин Иванович": 9,
-      "Проходцев Иван Дмитриевич": 11,
-      "Тимченко Галина Леонидовна": 26,
-      "Тихомиров Анатолий Федорович": 103
+      "gas:candidate-vibid:2792000318091": 4,
+      "gas:candidate-vibid:2792000311444": 12,
+      "gas:candidate-vibid:2792000311593": 48,
+      "gas:candidate-vibid:2792000311620": 9,
+      "gas:candidate-vibid:2792000296789": 11,
+      "gas:candidate-vibid:2792000304638": 26,
+      "gas:candidate-vibid:2792000318167": 103
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/jewish-aut?action=show&root=1000285&tvd=2792000296131&vrn=100100067795849&region=79&global=&sub_region=79&prver=0&pronetvd=null&vibid=2792000296131&type=464",
@@ -100,13 +100,13 @@ export const duma_2016_uik_463_region_79_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дмитриенко Василий Васильевич": 0,
-      "Дудин Владимир Николаевич": 4,
-      "Лазарев Константин Александрович": 15,
-      "Ларионов Константин Иванович": 2,
-      "Проходцев Иван Дмитриевич": 11,
-      "Тимченко Галина Леонидовна": 25,
-      "Тихомиров Анатолий Федорович": 143
+      "gas:candidate-vibid:2792000318091": 0,
+      "gas:candidate-vibid:2792000311444": 4,
+      "gas:candidate-vibid:2792000311593": 15,
+      "gas:candidate-vibid:2792000311620": 2,
+      "gas:candidate-vibid:2792000296789": 11,
+      "gas:candidate-vibid:2792000304638": 25,
+      "gas:candidate-vibid:2792000318167": 143
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/jewish-aut?action=show&root=1000285&tvd=2792000296131&vrn=100100067795849&region=79&global=&sub_region=79&prver=0&pronetvd=null&vibid=2792000296131&type=464",
@@ -157,13 +157,13 @@ export const duma_2016_uik_463_region_79_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дмитриенко Василий Васильевич": 2,
-      "Дудин Владимир Николаевич": 30,
-      "Лазарев Константин Александрович": 52,
-      "Ларионов Константин Иванович": 12,
-      "Проходцев Иван Дмитриевич": 19,
-      "Тимченко Галина Леонидовна": 86,
-      "Тихомиров Анатолий Федорович": 381
+      "gas:candidate-vibid:2792000318091": 2,
+      "gas:candidate-vibid:2792000311444": 30,
+      "gas:candidate-vibid:2792000311593": 52,
+      "gas:candidate-vibid:2792000311620": 12,
+      "gas:candidate-vibid:2792000296789": 19,
+      "gas:candidate-vibid:2792000304638": 86,
+      "gas:candidate-vibid:2792000318167": 381
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/jewish-aut?action=show&root=1000285&tvd=2792000296131&vrn=100100067795849&region=79&global=&sub_region=79&prver=0&pronetvd=null&vibid=2792000296131&type=464",
@@ -214,13 +214,13 @@ export const duma_2016_uik_463_region_79_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дмитриенко Василий Васильевич": 16,
-      "Дудин Владимир Николаевич": 33,
-      "Лазарев Константин Александрович": 97,
-      "Ларионов Константин Иванович": 19,
-      "Проходцев Иван Дмитриевич": 48,
-      "Тимченко Галина Леонидовна": 122,
-      "Тихомиров Анатолий Федорович": 391
+      "gas:candidate-vibid:2792000318091": 16,
+      "gas:candidate-vibid:2792000311444": 33,
+      "gas:candidate-vibid:2792000311593": 97,
+      "gas:candidate-vibid:2792000311620": 19,
+      "gas:candidate-vibid:2792000296789": 48,
+      "gas:candidate-vibid:2792000304638": 122,
+      "gas:candidate-vibid:2792000318167": 391
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/jewish-aut?action=show&root=1000285&tvd=2792000296131&vrn=100100067795849&region=79&global=&sub_region=79&prver=0&pronetvd=null&vibid=2792000296131&type=464",
@@ -271,13 +271,13 @@ export const duma_2016_uik_463_region_79_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дмитриенко Василий Васильевич": 12,
-      "Дудин Владимир Николаевич": 27,
-      "Лазарев Константин Александрович": 95,
-      "Ларионов Константин Иванович": 35,
-      "Проходцев Иван Дмитриевич": 20,
-      "Тимченко Галина Леонидовна": 91,
-      "Тихомиров Анатолий Федорович": 272
+      "gas:candidate-vibid:2792000318091": 12,
+      "gas:candidate-vibid:2792000311444": 27,
+      "gas:candidate-vibid:2792000311593": 95,
+      "gas:candidate-vibid:2792000311620": 35,
+      "gas:candidate-vibid:2792000296789": 20,
+      "gas:candidate-vibid:2792000304638": 91,
+      "gas:candidate-vibid:2792000318167": 272
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/jewish-aut?action=show&root=1000285&tvd=2792000296131&vrn=100100067795849&region=79&global=&sub_region=79&prver=0&pronetvd=null&vibid=2792000296131&type=464",
@@ -328,13 +328,13 @@ export const duma_2016_uik_463_region_79_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дмитриенко Василий Васильевич": 18,
-      "Дудин Владимир Николаевич": 0,
-      "Лазарев Константин Александрович": 43,
-      "Ларионов Константин Иванович": 9,
-      "Проходцев Иван Дмитриевич": 29,
-      "Тимченко Галина Леонидовна": 48,
-      "Тихомиров Анатолий Федорович": 280
+      "gas:candidate-vibid:2792000318091": 18,
+      "gas:candidate-vibid:2792000311444": 0,
+      "gas:candidate-vibid:2792000311593": 43,
+      "gas:candidate-vibid:2792000311620": 9,
+      "gas:candidate-vibid:2792000296789": 29,
+      "gas:candidate-vibid:2792000304638": 48,
+      "gas:candidate-vibid:2792000318167": 280
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/jewish-aut?action=show&root=1000285&tvd=2792000296131&vrn=100100067795849&region=79&global=&sub_region=79&prver=0&pronetvd=null&vibid=2792000296131&type=464",
@@ -385,13 +385,13 @@ export const duma_2016_uik_463_region_79_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дмитриенко Василий Васильевич": 4,
-      "Дудин Владимир Николаевич": 10,
-      "Лазарев Константин Александрович": 51,
-      "Ларионов Константин Иванович": 14,
-      "Проходцев Иван Дмитриевич": 25,
-      "Тимченко Галина Леонидовна": 36,
-      "Тихомиров Анатолий Федорович": 198
+      "gas:candidate-vibid:2792000318091": 4,
+      "gas:candidate-vibid:2792000311444": 10,
+      "gas:candidate-vibid:2792000311593": 51,
+      "gas:candidate-vibid:2792000311620": 14,
+      "gas:candidate-vibid:2792000296789": 25,
+      "gas:candidate-vibid:2792000304638": 36,
+      "gas:candidate-vibid:2792000318167": 198
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/jewish-aut?action=show&root=1000285&tvd=2792000296131&vrn=100100067795849&region=79&global=&sub_region=79&prver=0&pronetvd=null&vibid=2792000296131&type=464",
@@ -442,13 +442,13 @@ export const duma_2016_uik_463_region_79_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дмитриенко Василий Васильевич": 6,
-      "Дудин Владимир Николаевич": 7,
-      "Лазарев Константин Александрович": 70,
-      "Ларионов Константин Иванович": 15,
-      "Проходцев Иван Дмитриевич": 22,
-      "Тимченко Галина Леонидовна": 53,
-      "Тихомиров Анатолий Федорович": 167
+      "gas:candidate-vibid:2792000318091": 6,
+      "gas:candidate-vibid:2792000311444": 7,
+      "gas:candidate-vibid:2792000311593": 70,
+      "gas:candidate-vibid:2792000311620": 15,
+      "gas:candidate-vibid:2792000296789": 22,
+      "gas:candidate-vibid:2792000304638": 53,
+      "gas:candidate-vibid:2792000318167": 167
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/jewish-aut?action=show&root=1000285&tvd=2792000296131&vrn=100100067795849&region=79&global=&sub_region=79&prver=0&pronetvd=null&vibid=2792000296131&type=464",
@@ -499,13 +499,13 @@ export const duma_2016_uik_463_region_79_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дмитриенко Василий Васильевич": 5,
-      "Дудин Владимир Николаевич": 18,
-      "Лазарев Константин Александрович": 85,
-      "Ларионов Константин Иванович": 18,
-      "Проходцев Иван Дмитриевич": 4,
-      "Тимченко Галина Леонидовна": 51,
-      "Тихомиров Анатолий Федорович": 107
+      "gas:candidate-vibid:2792000318091": 5,
+      "gas:candidate-vibid:2792000311444": 18,
+      "gas:candidate-vibid:2792000311593": 85,
+      "gas:candidate-vibid:2792000311620": 18,
+      "gas:candidate-vibid:2792000296789": 4,
+      "gas:candidate-vibid:2792000304638": 51,
+      "gas:candidate-vibid:2792000318167": 107
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/jewish-aut?action=show&root=1000285&tvd=2792000296131&vrn=100100067795849&region=79&global=&sub_region=79&prver=0&pronetvd=null&vibid=2792000296131&type=464",
@@ -556,13 +556,13 @@ export const duma_2016_uik_463_region_79_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дмитриенко Василий Васильевич": 3,
-      "Дудин Владимир Николаевич": 14,
-      "Лазарев Константин Александрович": 32,
-      "Ларионов Константин Иванович": 11,
-      "Проходцев Иван Дмитриевич": 4,
-      "Тимченко Галина Леонидовна": 52,
-      "Тихомиров Анатолий Федорович": 145
+      "gas:candidate-vibid:2792000318091": 3,
+      "gas:candidate-vibid:2792000311444": 14,
+      "gas:candidate-vibid:2792000311593": 32,
+      "gas:candidate-vibid:2792000311620": 11,
+      "gas:candidate-vibid:2792000296789": 4,
+      "gas:candidate-vibid:2792000304638": 52,
+      "gas:candidate-vibid:2792000318167": 145
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/jewish-aut?action=show&root=1000285&tvd=2792000296131&vrn=100100067795849&region=79&global=&sub_region=79&prver=0&pronetvd=null&vibid=2792000296131&type=464",
@@ -613,13 +613,13 @@ export const duma_2016_uik_463_region_79_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дмитриенко Василий Васильевич": 12,
-      "Дудин Владимир Николаевич": 10,
-      "Лазарев Константин Александрович": 30,
-      "Ларионов Константин Иванович": 3,
-      "Проходцев Иван Дмитриевич": 8,
-      "Тимченко Галина Леонидовна": 32,
-      "Тихомиров Анатолий Федорович": 225
+      "gas:candidate-vibid:2792000318091": 12,
+      "gas:candidate-vibid:2792000311444": 10,
+      "gas:candidate-vibid:2792000311593": 30,
+      "gas:candidate-vibid:2792000311620": 3,
+      "gas:candidate-vibid:2792000296789": 8,
+      "gas:candidate-vibid:2792000304638": 32,
+      "gas:candidate-vibid:2792000318167": 225
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/jewish-aut?action=show&root=1000285&tvd=2792000296131&vrn=100100067795849&region=79&global=&sub_region=79&prver=0&pronetvd=null&vibid=2792000296131&type=464",
@@ -670,13 +670,13 @@ export const duma_2016_uik_463_region_79_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дмитриенко Василий Васильевич": 2,
-      "Дудин Владимир Николаевич": 8,
-      "Лазарев Константин Александрович": 40,
-      "Ларионов Константин Иванович": 11,
-      "Проходцев Иван Дмитриевич": 10,
-      "Тимченко Галина Леонидовна": 48,
-      "Тихомиров Анатолий Федорович": 233
+      "gas:candidate-vibid:2792000318091": 2,
+      "gas:candidate-vibid:2792000311444": 8,
+      "gas:candidate-vibid:2792000311593": 40,
+      "gas:candidate-vibid:2792000311620": 11,
+      "gas:candidate-vibid:2792000296789": 10,
+      "gas:candidate-vibid:2792000304638": 48,
+      "gas:candidate-vibid:2792000318167": 233
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/jewish-aut?action=show&root=1000285&tvd=2792000296131&vrn=100100067795849&region=79&global=&sub_region=79&prver=0&pronetvd=null&vibid=2792000296131&type=464",
@@ -727,13 +727,13 @@ export const duma_2016_uik_463_region_79_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дмитриенко Василий Васильевич": 3,
-      "Дудин Владимир Николаевич": 4,
-      "Лазарев Константин Александрович": 23,
-      "Ларионов Константин Иванович": 6,
-      "Проходцев Иван Дмитриевич": 5,
-      "Тимченко Галина Леонидовна": 26,
-      "Тихомиров Анатолий Федорович": 119
+      "gas:candidate-vibid:2792000318091": 3,
+      "gas:candidate-vibid:2792000311444": 4,
+      "gas:candidate-vibid:2792000311593": 23,
+      "gas:candidate-vibid:2792000311620": 6,
+      "gas:candidate-vibid:2792000296789": 5,
+      "gas:candidate-vibid:2792000304638": 26,
+      "gas:candidate-vibid:2792000318167": 119
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/jewish-aut?action=show&root=1000285&tvd=2792000296131&vrn=100100067795849&region=79&global=&sub_region=79&prver=0&pronetvd=null&vibid=2792000296131&type=464",
@@ -784,13 +784,13 @@ export const duma_2016_uik_463_region_79_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дмитриенко Василий Васильевич": 9,
-      "Дудин Владимир Николаевич": 12,
-      "Лазарев Константин Александрович": 59,
-      "Ларионов Константин Иванович": 17,
-      "Проходцев Иван Дмитриевич": 6,
-      "Тимченко Галина Леонидовна": 8,
-      "Тихомиров Анатолий Федорович": 263
+      "gas:candidate-vibid:2792000318091": 9,
+      "gas:candidate-vibid:2792000311444": 12,
+      "gas:candidate-vibid:2792000311593": 59,
+      "gas:candidate-vibid:2792000311620": 17,
+      "gas:candidate-vibid:2792000296789": 6,
+      "gas:candidate-vibid:2792000304638": 8,
+      "gas:candidate-vibid:2792000318167": 263
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/jewish-aut?action=show&root=1000285&tvd=2792000296131&vrn=100100067795849&region=79&global=&sub_region=79&prver=0&pronetvd=null&vibid=2792000296131&type=464",
@@ -841,13 +841,13 @@ export const duma_2016_uik_463_region_79_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дмитриенко Василий Васильевич": 18,
-      "Дудин Владимир Николаевич": 16,
-      "Лазарев Константин Александрович": 78,
-      "Ларионов Константин Иванович": 23,
-      "Проходцев Иван Дмитриевич": 6,
-      "Тимченко Галина Леонидовна": 97,
-      "Тихомиров Анатолий Федорович": 240
+      "gas:candidate-vibid:2792000318091": 18,
+      "gas:candidate-vibid:2792000311444": 16,
+      "gas:candidate-vibid:2792000311593": 78,
+      "gas:candidate-vibid:2792000311620": 23,
+      "gas:candidate-vibid:2792000296789": 6,
+      "gas:candidate-vibid:2792000304638": 97,
+      "gas:candidate-vibid:2792000318167": 240
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/jewish-aut?action=show&root=1000285&tvd=2792000296131&vrn=100100067795849&region=79&global=&sub_region=79&prver=0&pronetvd=null&vibid=2792000296131&type=464",
@@ -898,13 +898,13 @@ export const duma_2016_uik_463_region_79_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дмитриенко Василий Васильевич": 7,
-      "Дудин Владимир Николаевич": 20,
-      "Лазарев Константин Александрович": 108,
-      "Ларионов Константин Иванович": 21,
-      "Проходцев Иван Дмитриевич": 13,
-      "Тимченко Галина Леонидовна": 98,
-      "Тихомиров Анатолий Федорович": 202
+      "gas:candidate-vibid:2792000318091": 7,
+      "gas:candidate-vibid:2792000311444": 20,
+      "gas:candidate-vibid:2792000311593": 108,
+      "gas:candidate-vibid:2792000311620": 21,
+      "gas:candidate-vibid:2792000296789": 13,
+      "gas:candidate-vibid:2792000304638": 98,
+      "gas:candidate-vibid:2792000318167": 202
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/jewish-aut?action=show&root=1000285&tvd=2792000296131&vrn=100100067795849&region=79&global=&sub_region=79&prver=0&pronetvd=null&vibid=2792000296131&type=464",
@@ -955,13 +955,13 @@ export const duma_2016_uik_463_region_79_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дмитриенко Василий Васильевич": 9,
-      "Дудин Владимир Николаевич": 20,
-      "Лазарев Константин Александрович": 89,
-      "Ларионов Константин Иванович": 10,
-      "Проходцев Иван Дмитриевич": 6,
-      "Тимченко Галина Леонидовна": 76,
-      "Тихомиров Анатолий Федорович": 221
+      "gas:candidate-vibid:2792000318091": 9,
+      "gas:candidate-vibid:2792000311444": 20,
+      "gas:candidate-vibid:2792000311593": 89,
+      "gas:candidate-vibid:2792000311620": 10,
+      "gas:candidate-vibid:2792000296789": 6,
+      "gas:candidate-vibid:2792000304638": 76,
+      "gas:candidate-vibid:2792000318167": 221
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/jewish-aut?action=show&root=1000285&tvd=2792000296131&vrn=100100067795849&region=79&global=&sub_region=79&prver=0&pronetvd=null&vibid=2792000296131&type=464",
@@ -1012,13 +1012,13 @@ export const duma_2016_uik_463_region_79_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дмитриенко Василий Васильевич": 9,
-      "Дудин Владимир Николаевич": 26,
-      "Лазарев Константин Александрович": 53,
-      "Ларионов Константин Иванович": 13,
-      "Проходцев Иван Дмитриевич": 16,
-      "Тимченко Галина Леонидовна": 99,
-      "Тихомиров Анатолий Федорович": 144
+      "gas:candidate-vibid:2792000318091": 9,
+      "gas:candidate-vibid:2792000311444": 26,
+      "gas:candidate-vibid:2792000311593": 53,
+      "gas:candidate-vibid:2792000311620": 13,
+      "gas:candidate-vibid:2792000296789": 16,
+      "gas:candidate-vibid:2792000304638": 99,
+      "gas:candidate-vibid:2792000318167": 144
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/jewish-aut?action=show&root=1000285&tvd=2792000296131&vrn=100100067795849&region=79&global=&sub_region=79&prver=0&pronetvd=null&vibid=2792000296131&type=464",
@@ -1069,13 +1069,13 @@ export const duma_2016_uik_463_region_79_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дмитриенко Василий Васильевич": 13,
-      "Дудин Владимир Николаевич": 22,
-      "Лазарев Константин Александрович": 50,
-      "Ларионов Константин Иванович": 23,
-      "Проходцев Иван Дмитриевич": 23,
-      "Тимченко Галина Леонидовна": 65,
-      "Тихомиров Анатолий Федорович": 165
+      "gas:candidate-vibid:2792000318091": 13,
+      "gas:candidate-vibid:2792000311444": 22,
+      "gas:candidate-vibid:2792000311593": 50,
+      "gas:candidate-vibid:2792000311620": 23,
+      "gas:candidate-vibid:2792000296789": 23,
+      "gas:candidate-vibid:2792000304638": 65,
+      "gas:candidate-vibid:2792000318167": 165
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/jewish-aut?action=show&root=1000285&tvd=2792000296131&vrn=100100067795849&region=79&global=&sub_region=79&prver=0&pronetvd=null&vibid=2792000296131&type=464",
@@ -1126,13 +1126,13 @@ export const duma_2016_uik_463_region_79_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дмитриенко Василий Васильевич": 6,
-      "Дудин Владимир Николаевич": 3,
-      "Лазарев Константин Александрович": 33,
-      "Ларионов Константин Иванович": 7,
-      "Проходцев Иван Дмитриевич": 3,
-      "Тимченко Галина Леонидовна": 22,
-      "Тихомиров Анатолий Федорович": 63
+      "gas:candidate-vibid:2792000318091": 6,
+      "gas:candidate-vibid:2792000311444": 3,
+      "gas:candidate-vibid:2792000311593": 33,
+      "gas:candidate-vibid:2792000311620": 7,
+      "gas:candidate-vibid:2792000296789": 3,
+      "gas:candidate-vibid:2792000304638": 22,
+      "gas:candidate-vibid:2792000318167": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/jewish-aut?action=show&root=1000285&tvd=2792000296131&vrn=100100067795849&region=79&global=&sub_region=79&prver=0&pronetvd=null&vibid=2792000296131&type=464",
@@ -1183,13 +1183,13 @@ export const duma_2016_uik_463_region_79_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дмитриенко Василий Васильевич": 7,
-      "Дудин Владимир Николаевич": 12,
-      "Лазарев Константин Александрович": 33,
-      "Ларионов Константин Иванович": 4,
-      "Проходцев Иван Дмитриевич": 0,
-      "Тимченко Галина Леонидовна": 43,
-      "Тихомиров Анатолий Федорович": 283
+      "gas:candidate-vibid:2792000318091": 7,
+      "gas:candidate-vibid:2792000311444": 12,
+      "gas:candidate-vibid:2792000311593": 33,
+      "gas:candidate-vibid:2792000311620": 4,
+      "gas:candidate-vibid:2792000296789": 0,
+      "gas:candidate-vibid:2792000304638": 43,
+      "gas:candidate-vibid:2792000318167": 283
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/jewish-aut?action=show&root=1000285&tvd=2792000296131&vrn=100100067795849&region=79&global=&sub_region=79&prver=0&pronetvd=null&vibid=2792000296131&type=464",
@@ -1240,13 +1240,13 @@ export const duma_2016_uik_463_region_79_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дмитриенко Василий Васильевич": 11,
-      "Дудин Владимир Николаевич": 46,
-      "Лазарев Константин Александрович": 182,
-      "Ларионов Константин Иванович": 32,
-      "Проходцев Иван Дмитриевич": 54,
-      "Тимченко Галина Леонидовна": 93,
-      "Тихомиров Анатолий Федорович": 310
+      "gas:candidate-vibid:2792000318091": 11,
+      "gas:candidate-vibid:2792000311444": 46,
+      "gas:candidate-vibid:2792000311593": 182,
+      "gas:candidate-vibid:2792000311620": 32,
+      "gas:candidate-vibid:2792000296789": 54,
+      "gas:candidate-vibid:2792000304638": 93,
+      "gas:candidate-vibid:2792000318167": 310
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/jewish-aut?action=show&root=1000285&tvd=2792000296132&vrn=100100067795849&region=79&global=&sub_region=79&prver=0&pronetvd=null&vibid=2792000296132&type=464",
@@ -1297,13 +1297,13 @@ export const duma_2016_uik_463_region_79_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дмитриенко Василий Васильевич": 6,
-      "Дудин Владимир Николаевич": 24,
-      "Лазарев Константин Александрович": 143,
-      "Ларионов Константин Иванович": 21,
-      "Проходцев Иван Дмитриевич": 42,
-      "Тимченко Галина Леонидовна": 85,
-      "Тихомиров Анатолий Федорович": 238
+      "gas:candidate-vibid:2792000318091": 6,
+      "gas:candidate-vibid:2792000311444": 24,
+      "gas:candidate-vibid:2792000311593": 143,
+      "gas:candidate-vibid:2792000311620": 21,
+      "gas:candidate-vibid:2792000296789": 42,
+      "gas:candidate-vibid:2792000304638": 85,
+      "gas:candidate-vibid:2792000318167": 238
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/jewish-aut?action=show&root=1000285&tvd=2792000296132&vrn=100100067795849&region=79&global=&sub_region=79&prver=0&pronetvd=null&vibid=2792000296132&type=464",
@@ -1354,13 +1354,13 @@ export const duma_2016_uik_463_region_79_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дмитриенко Василий Васильевич": 1,
-      "Дудин Владимир Николаевич": 4,
-      "Лазарев Константин Александрович": 18,
-      "Ларионов Константин Иванович": 1,
-      "Проходцев Иван Дмитриевич": 4,
-      "Тимченко Галина Леонидовна": 19,
-      "Тихомиров Анатолий Федорович": 37
+      "gas:candidate-vibid:2792000318091": 1,
+      "gas:candidate-vibid:2792000311444": 4,
+      "gas:candidate-vibid:2792000311593": 18,
+      "gas:candidate-vibid:2792000311620": 1,
+      "gas:candidate-vibid:2792000296789": 4,
+      "gas:candidate-vibid:2792000304638": 19,
+      "gas:candidate-vibid:2792000318167": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/jewish-aut?action=show&root=1000285&tvd=2792000296132&vrn=100100067795849&region=79&global=&sub_region=79&prver=0&pronetvd=null&vibid=2792000296132&type=464",
@@ -1411,13 +1411,13 @@ export const duma_2016_uik_463_region_79_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дмитриенко Василий Васильевич": 3,
-      "Дудин Владимир Николаевич": 23,
-      "Лазарев Константин Александрович": 83,
-      "Ларионов Константин Иванович": 25,
-      "Проходцев Иван Дмитриевич": 17,
-      "Тимченко Галина Леонидовна": 49,
-      "Тихомиров Анатолий Федорович": 234
+      "gas:candidate-vibid:2792000318091": 3,
+      "gas:candidate-vibid:2792000311444": 23,
+      "gas:candidate-vibid:2792000311593": 83,
+      "gas:candidate-vibid:2792000311620": 25,
+      "gas:candidate-vibid:2792000296789": 17,
+      "gas:candidate-vibid:2792000304638": 49,
+      "gas:candidate-vibid:2792000318167": 234
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/jewish-aut?action=show&root=1000285&tvd=2792000296132&vrn=100100067795849&region=79&global=&sub_region=79&prver=0&pronetvd=null&vibid=2792000296132&type=464",
@@ -1468,13 +1468,13 @@ export const duma_2016_uik_463_region_79_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дмитриенко Василий Васильевич": 1,
-      "Дудин Владимир Николаевич": 1,
-      "Лазарев Константин Александрович": 11,
-      "Ларионов Константин Иванович": 3,
-      "Проходцев Иван Дмитриевич": 2,
-      "Тимченко Галина Леонидовна": 3,
-      "Тихомиров Анатолий Федорович": 36
+      "gas:candidate-vibid:2792000318091": 1,
+      "gas:candidate-vibid:2792000311444": 1,
+      "gas:candidate-vibid:2792000311593": 11,
+      "gas:candidate-vibid:2792000311620": 3,
+      "gas:candidate-vibid:2792000296789": 2,
+      "gas:candidate-vibid:2792000304638": 3,
+      "gas:candidate-vibid:2792000318167": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/jewish-aut?action=show&root=1000285&tvd=2792000296132&vrn=100100067795849&region=79&global=&sub_region=79&prver=0&pronetvd=null&vibid=2792000296132&type=464",
@@ -1525,13 +1525,13 @@ export const duma_2016_uik_463_region_79_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дмитриенко Василий Васильевич": 3,
-      "Дудин Владимир Николаевич": 3,
-      "Лазарев Константин Александрович": 47,
-      "Ларионов Константин Иванович": 11,
-      "Проходцев Иван Дмитриевич": 11,
-      "Тимченко Галина Леонидовна": 20,
-      "Тихомиров Анатолий Федорович": 122
+      "gas:candidate-vibid:2792000318091": 3,
+      "gas:candidate-vibid:2792000311444": 3,
+      "gas:candidate-vibid:2792000311593": 47,
+      "gas:candidate-vibid:2792000311620": 11,
+      "gas:candidate-vibid:2792000296789": 11,
+      "gas:candidate-vibid:2792000304638": 20,
+      "gas:candidate-vibid:2792000318167": 122
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/jewish-aut?action=show&root=1000285&tvd=2792000296132&vrn=100100067795849&region=79&global=&sub_region=79&prver=0&pronetvd=null&vibid=2792000296132&type=464",
@@ -1582,13 +1582,13 @@ export const duma_2016_uik_463_region_79_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дмитриенко Василий Васильевич": 3,
-      "Дудин Владимир Николаевич": 5,
-      "Лазарев Константин Александрович": 12,
-      "Ларионов Константин Иванович": 4,
-      "Проходцев Иван Дмитриевич": 5,
-      "Тимченко Галина Леонидовна": 6,
-      "Тихомиров Анатолий Федорович": 56
+      "gas:candidate-vibid:2792000318091": 3,
+      "gas:candidate-vibid:2792000311444": 5,
+      "gas:candidate-vibid:2792000311593": 12,
+      "gas:candidate-vibid:2792000311620": 4,
+      "gas:candidate-vibid:2792000296789": 5,
+      "gas:candidate-vibid:2792000304638": 6,
+      "gas:candidate-vibid:2792000318167": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/jewish-aut?action=show&root=1000285&tvd=2792000296132&vrn=100100067795849&region=79&global=&sub_region=79&prver=0&pronetvd=null&vibid=2792000296132&type=464",
@@ -1639,13 +1639,13 @@ export const duma_2016_uik_463_region_79_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дмитриенко Василий Васильевич": 0,
-      "Дудин Владимир Николаевич": 4,
-      "Лазарев Константин Александрович": 15,
-      "Ларионов Константин Иванович": 5,
-      "Проходцев Иван Дмитриевич": 6,
-      "Тимченко Галина Леонидовна": 12,
-      "Тихомиров Анатолий Федорович": 68
+      "gas:candidate-vibid:2792000318091": 0,
+      "gas:candidate-vibid:2792000311444": 4,
+      "gas:candidate-vibid:2792000311593": 15,
+      "gas:candidate-vibid:2792000311620": 5,
+      "gas:candidate-vibid:2792000296789": 6,
+      "gas:candidate-vibid:2792000304638": 12,
+      "gas:candidate-vibid:2792000318167": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/jewish-aut?action=show&root=1000285&tvd=2792000296132&vrn=100100067795849&region=79&global=&sub_region=79&prver=0&pronetvd=null&vibid=2792000296132&type=464",
@@ -1696,13 +1696,13 @@ export const duma_2016_uik_463_region_79_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дмитриенко Василий Васильевич": 3,
-      "Дудин Владимир Николаевич": 4,
-      "Лазарев Константин Александрович": 30,
-      "Ларионов Константин Иванович": 4,
-      "Проходцев Иван Дмитриевич": 6,
-      "Тимченко Галина Леонидовна": 21,
-      "Тихомиров Анатолий Федорович": 103
+      "gas:candidate-vibid:2792000318091": 3,
+      "gas:candidate-vibid:2792000311444": 4,
+      "gas:candidate-vibid:2792000311593": 30,
+      "gas:candidate-vibid:2792000311620": 4,
+      "gas:candidate-vibid:2792000296789": 6,
+      "gas:candidate-vibid:2792000304638": 21,
+      "gas:candidate-vibid:2792000318167": 103
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/jewish-aut?action=show&root=1000285&tvd=2792000296132&vrn=100100067795849&region=79&global=&sub_region=79&prver=0&pronetvd=null&vibid=2792000296132&type=464",
@@ -1753,13 +1753,13 @@ export const duma_2016_uik_463_region_79_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дмитриенко Василий Васильевич": 0,
-      "Дудин Владимир Николаевич": 0,
-      "Лазарев Константин Александрович": 18,
-      "Ларионов Константин Иванович": 1,
-      "Проходцев Иван Дмитриевич": 8,
-      "Тимченко Галина Леонидовна": 9,
-      "Тихомиров Анатолий Федорович": 19
+      "gas:candidate-vibid:2792000318091": 0,
+      "gas:candidate-vibid:2792000311444": 0,
+      "gas:candidate-vibid:2792000311593": 18,
+      "gas:candidate-vibid:2792000311620": 1,
+      "gas:candidate-vibid:2792000296789": 8,
+      "gas:candidate-vibid:2792000304638": 9,
+      "gas:candidate-vibid:2792000318167": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/jewish-aut?action=show&root=1000285&tvd=2792000296132&vrn=100100067795849&region=79&global=&sub_region=79&prver=0&pronetvd=null&vibid=2792000296132&type=464",
@@ -1810,13 +1810,13 @@ export const duma_2016_uik_463_region_79_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дмитриенко Василий Васильевич": 3,
-      "Дудин Владимир Николаевич": 10,
-      "Лазарев Константин Александрович": 111,
-      "Ларионов Константин Иванович": 10,
-      "Проходцев Иван Дмитриевич": 9,
-      "Тимченко Галина Леонидовна": 31,
-      "Тихомиров Анатолий Федорович": 102
+      "gas:candidate-vibid:2792000318091": 3,
+      "gas:candidate-vibid:2792000311444": 10,
+      "gas:candidate-vibid:2792000311593": 111,
+      "gas:candidate-vibid:2792000311620": 10,
+      "gas:candidate-vibid:2792000296789": 9,
+      "gas:candidate-vibid:2792000304638": 31,
+      "gas:candidate-vibid:2792000318167": 102
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/jewish-aut?action=show&root=1000285&tvd=2792000296132&vrn=100100067795849&region=79&global=&sub_region=79&prver=0&pronetvd=null&vibid=2792000296132&type=464",
@@ -1867,13 +1867,13 @@ export const duma_2016_uik_463_region_79_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дмитриенко Василий Васильевич": 4,
-      "Дудин Владимир Николаевич": 2,
-      "Лазарев Константин Александрович": 12,
-      "Ларионов Константин Иванович": 3,
-      "Проходцев Иван Дмитриевич": 7,
-      "Тимченко Галина Леонидовна": 14,
-      "Тихомиров Анатолий Федорович": 76
+      "gas:candidate-vibid:2792000318091": 4,
+      "gas:candidate-vibid:2792000311444": 2,
+      "gas:candidate-vibid:2792000311593": 12,
+      "gas:candidate-vibid:2792000311620": 3,
+      "gas:candidate-vibid:2792000296789": 7,
+      "gas:candidate-vibid:2792000304638": 14,
+      "gas:candidate-vibid:2792000318167": 76
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/jewish-aut?action=show&root=1000285&tvd=2792000296132&vrn=100100067795849&region=79&global=&sub_region=79&prver=0&pronetvd=null&vibid=2792000296132&type=464",
@@ -1924,13 +1924,13 @@ export const duma_2016_uik_463_region_79_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дмитриенко Василий Васильевич": 6,
-      "Дудин Владимир Николаевич": 5,
-      "Лазарев Константин Александрович": 30,
-      "Ларионов Константин Иванович": 10,
-      "Проходцев Иван Дмитриевич": 25,
-      "Тимченко Галина Леонидовна": 21,
-      "Тихомиров Анатолий Федорович": 77
+      "gas:candidate-vibid:2792000318091": 6,
+      "gas:candidate-vibid:2792000311444": 5,
+      "gas:candidate-vibid:2792000311593": 30,
+      "gas:candidate-vibid:2792000311620": 10,
+      "gas:candidate-vibid:2792000296789": 25,
+      "gas:candidate-vibid:2792000304638": 21,
+      "gas:candidate-vibid:2792000318167": 77
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/jewish-aut?action=show&root=1000285&tvd=2792000296132&vrn=100100067795849&region=79&global=&sub_region=79&prver=0&pronetvd=null&vibid=2792000296132&type=464",
@@ -1981,13 +1981,13 @@ export const duma_2016_uik_463_region_79_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дмитриенко Василий Васильевич": 4,
-      "Дудин Владимир Николаевич": 3,
-      "Лазарев Константин Александрович": 22,
-      "Ларионов Константин Иванович": 2,
-      "Проходцев Иван Дмитриевич": 1,
-      "Тимченко Галина Леонидовна": 8,
-      "Тихомиров Анатолий Федорович": 32
+      "gas:candidate-vibid:2792000318091": 4,
+      "gas:candidate-vibid:2792000311444": 3,
+      "gas:candidate-vibid:2792000311593": 22,
+      "gas:candidate-vibid:2792000311620": 2,
+      "gas:candidate-vibid:2792000296789": 1,
+      "gas:candidate-vibid:2792000304638": 8,
+      "gas:candidate-vibid:2792000318167": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/jewish-aut?action=show&root=1000285&tvd=2792000296132&vrn=100100067795849&region=79&global=&sub_region=79&prver=0&pronetvd=null&vibid=2792000296132&type=464",
@@ -2038,13 +2038,13 @@ export const duma_2016_uik_463_region_79_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дмитриенко Василий Васильевич": 1,
-      "Дудин Владимир Николаевич": 2,
-      "Лазарев Константин Александрович": 7,
-      "Ларионов Константин Иванович": 2,
-      "Проходцев Иван Дмитриевич": 2,
-      "Тимченко Галина Леонидовна": 4,
-      "Тихомиров Анатолий Федорович": 42
+      "gas:candidate-vibid:2792000318091": 1,
+      "gas:candidate-vibid:2792000311444": 2,
+      "gas:candidate-vibid:2792000311593": 7,
+      "gas:candidate-vibid:2792000311620": 2,
+      "gas:candidate-vibid:2792000296789": 2,
+      "gas:candidate-vibid:2792000304638": 4,
+      "gas:candidate-vibid:2792000318167": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/jewish-aut?action=show&root=1000285&tvd=2792000296132&vrn=100100067795849&region=79&global=&sub_region=79&prver=0&pronetvd=null&vibid=2792000296132&type=464",
@@ -2095,13 +2095,13 @@ export const duma_2016_uik_463_region_79_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дмитриенко Василий Васильевич": 4,
-      "Дудин Владимир Николаевич": 10,
-      "Лазарев Константин Александрович": 33,
-      "Ларионов Константин Иванович": 15,
-      "Проходцев Иван Дмитриевич": 5,
-      "Тимченко Галина Леонидовна": 43,
-      "Тихомиров Анатолий Федорович": 94
+      "gas:candidate-vibid:2792000318091": 4,
+      "gas:candidate-vibid:2792000311444": 10,
+      "gas:candidate-vibid:2792000311593": 33,
+      "gas:candidate-vibid:2792000311620": 15,
+      "gas:candidate-vibid:2792000296789": 5,
+      "gas:candidate-vibid:2792000304638": 43,
+      "gas:candidate-vibid:2792000318167": 94
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/jewish-aut?action=show&root=1000285&tvd=2792000296133&vrn=100100067795849&region=79&global=&sub_region=79&prver=0&pronetvd=null&vibid=2792000296133&type=464",
@@ -2152,13 +2152,13 @@ export const duma_2016_uik_463_region_79_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дмитриенко Василий Васильевич": 6,
-      "Дудин Владимир Николаевич": 49,
-      "Лазарев Константин Александрович": 129,
-      "Ларионов Константин Иванович": 28,
-      "Проходцев Иван Дмитриевич": 34,
-      "Тимченко Галина Леонидовна": 117,
-      "Тихомиров Анатолий Федорович": 375
+      "gas:candidate-vibid:2792000318091": 6,
+      "gas:candidate-vibid:2792000311444": 49,
+      "gas:candidate-vibid:2792000311593": 129,
+      "gas:candidate-vibid:2792000311620": 28,
+      "gas:candidate-vibid:2792000296789": 34,
+      "gas:candidate-vibid:2792000304638": 117,
+      "gas:candidate-vibid:2792000318167": 375
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/jewish-aut?action=show&root=1000285&tvd=2792000296133&vrn=100100067795849&region=79&global=&sub_region=79&prver=0&pronetvd=null&vibid=2792000296133&type=464",
@@ -2209,13 +2209,13 @@ export const duma_2016_uik_463_region_79_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дмитриенко Василий Васильевич": 5,
-      "Дудин Владимир Николаевич": 30,
-      "Лазарев Константин Александрович": 66,
-      "Ларионов Константин Иванович": 16,
-      "Проходцев Иван Дмитриевич": 4,
-      "Тимченко Галина Леонидовна": 63,
-      "Тихомиров Анатолий Федорович": 175
+      "gas:candidate-vibid:2792000318091": 5,
+      "gas:candidate-vibid:2792000311444": 30,
+      "gas:candidate-vibid:2792000311593": 66,
+      "gas:candidate-vibid:2792000311620": 16,
+      "gas:candidate-vibid:2792000296789": 4,
+      "gas:candidate-vibid:2792000304638": 63,
+      "gas:candidate-vibid:2792000318167": 175
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/jewish-aut?action=show&root=1000285&tvd=2792000296133&vrn=100100067795849&region=79&global=&sub_region=79&prver=0&pronetvd=null&vibid=2792000296133&type=464",
@@ -2266,13 +2266,13 @@ export const duma_2016_uik_463_region_79_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дмитриенко Василий Васильевич": 5,
-      "Дудин Владимир Николаевич": 24,
-      "Лазарев Константин Александрович": 43,
-      "Ларионов Константин Иванович": 15,
-      "Проходцев Иван Дмитриевич": 10,
-      "Тимченко Галина Леонидовна": 59,
-      "Тихомиров Анатолий Федорович": 144
+      "gas:candidate-vibid:2792000318091": 5,
+      "gas:candidate-vibid:2792000311444": 24,
+      "gas:candidate-vibid:2792000311593": 43,
+      "gas:candidate-vibid:2792000311620": 15,
+      "gas:candidate-vibid:2792000296789": 10,
+      "gas:candidate-vibid:2792000304638": 59,
+      "gas:candidate-vibid:2792000318167": 144
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/jewish-aut?action=show&root=1000285&tvd=2792000296133&vrn=100100067795849&region=79&global=&sub_region=79&prver=0&pronetvd=null&vibid=2792000296133&type=464",
@@ -2323,13 +2323,13 @@ export const duma_2016_uik_463_region_79_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дмитриенко Василий Васильевич": 3,
-      "Дудин Владимир Николаевич": 12,
-      "Лазарев Константин Александрович": 38,
-      "Ларионов Константин Иванович": 12,
-      "Проходцев Иван Дмитриевич": 4,
-      "Тимченко Галина Леонидовна": 31,
-      "Тихомиров Анатолий Федорович": 123
+      "gas:candidate-vibid:2792000318091": 3,
+      "gas:candidate-vibid:2792000311444": 12,
+      "gas:candidate-vibid:2792000311593": 38,
+      "gas:candidate-vibid:2792000311620": 12,
+      "gas:candidate-vibid:2792000296789": 4,
+      "gas:candidate-vibid:2792000304638": 31,
+      "gas:candidate-vibid:2792000318167": 123
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/jewish-aut?action=show&root=1000285&tvd=2792000296133&vrn=100100067795849&region=79&global=&sub_region=79&prver=0&pronetvd=null&vibid=2792000296133&type=464",
@@ -2380,13 +2380,13 @@ export const duma_2016_uik_463_region_79_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дмитриенко Василий Васильевич": 9,
-      "Дудин Владимир Николаевич": 14,
-      "Лазарев Константин Александрович": 49,
-      "Ларионов Константин Иванович": 19,
-      "Проходцев Иван Дмитриевич": 12,
-      "Тимченко Галина Леонидовна": 51,
-      "Тихомиров Анатолий Федорович": 138
+      "gas:candidate-vibid:2792000318091": 9,
+      "gas:candidate-vibid:2792000311444": 14,
+      "gas:candidate-vibid:2792000311593": 49,
+      "gas:candidate-vibid:2792000311620": 19,
+      "gas:candidate-vibid:2792000296789": 12,
+      "gas:candidate-vibid:2792000304638": 51,
+      "gas:candidate-vibid:2792000318167": 138
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/jewish-aut?action=show&root=1000285&tvd=2792000296133&vrn=100100067795849&region=79&global=&sub_region=79&prver=0&pronetvd=null&vibid=2792000296133&type=464",
@@ -2437,13 +2437,13 @@ export const duma_2016_uik_463_region_79_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дмитриенко Василий Васильевич": 6,
-      "Дудин Владимир Николаевич": 50,
-      "Лазарев Константин Александрович": 94,
-      "Ларионов Константин Иванович": 20,
-      "Проходцев Иван Дмитриевич": 16,
-      "Тимченко Галина Леонидовна": 91,
-      "Тихомиров Анатолий Федорович": 205
+      "gas:candidate-vibid:2792000318091": 6,
+      "gas:candidate-vibid:2792000311444": 50,
+      "gas:candidate-vibid:2792000311593": 94,
+      "gas:candidate-vibid:2792000311620": 20,
+      "gas:candidate-vibid:2792000296789": 16,
+      "gas:candidate-vibid:2792000304638": 91,
+      "gas:candidate-vibid:2792000318167": 205
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/jewish-aut?action=show&root=1000285&tvd=2792000296133&vrn=100100067795849&region=79&global=&sub_region=79&prver=0&pronetvd=null&vibid=2792000296133&type=464",
@@ -2494,13 +2494,13 @@ export const duma_2016_uik_463_region_79_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дмитриенко Василий Васильевич": 8,
-      "Дудин Владимир Николаевич": 16,
-      "Лазарев Константин Александрович": 17,
-      "Ларионов Константин Иванович": 9,
-      "Проходцев Иван Дмитриевич": 4,
-      "Тимченко Галина Леонидовна": 23,
-      "Тихомиров Анатолий Федорович": 155
+      "gas:candidate-vibid:2792000318091": 8,
+      "gas:candidate-vibid:2792000311444": 16,
+      "gas:candidate-vibid:2792000311593": 17,
+      "gas:candidate-vibid:2792000311620": 9,
+      "gas:candidate-vibid:2792000296789": 4,
+      "gas:candidate-vibid:2792000304638": 23,
+      "gas:candidate-vibid:2792000318167": 155
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/jewish-aut?action=show&root=1000285&tvd=2792000296133&vrn=100100067795849&region=79&global=&sub_region=79&prver=0&pronetvd=null&vibid=2792000296133&type=464",
@@ -2551,13 +2551,13 @@ export const duma_2016_uik_463_region_79_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дмитриенко Василий Васильевич": 2,
-      "Дудин Владимир Николаевич": 6,
-      "Лазарев Константин Александрович": 13,
-      "Ларионов Константин Иванович": 2,
-      "Проходцев Иван Дмитриевич": 6,
-      "Тимченко Галина Леонидовна": 33,
-      "Тихомиров Анатолий Федорович": 104
+      "gas:candidate-vibid:2792000318091": 2,
+      "gas:candidate-vibid:2792000311444": 6,
+      "gas:candidate-vibid:2792000311593": 13,
+      "gas:candidate-vibid:2792000311620": 2,
+      "gas:candidate-vibid:2792000296789": 6,
+      "gas:candidate-vibid:2792000304638": 33,
+      "gas:candidate-vibid:2792000318167": 104
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/jewish-aut?action=show&root=1000285&tvd=2792000296133&vrn=100100067795849&region=79&global=&sub_region=79&prver=0&pronetvd=null&vibid=2792000296133&type=464",
@@ -2608,13 +2608,13 @@ export const duma_2016_uik_463_region_79_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дмитриенко Василий Васильевич": 3,
-      "Дудин Владимир Николаевич": 21,
-      "Лазарев Константин Александрович": 80,
-      "Ларионов Константин Иванович": 14,
-      "Проходцев Иван Дмитриевич": 7,
-      "Тимченко Галина Леонидовна": 56,
-      "Тихомиров Анатолий Федорович": 113
+      "gas:candidate-vibid:2792000318091": 3,
+      "gas:candidate-vibid:2792000311444": 21,
+      "gas:candidate-vibid:2792000311593": 80,
+      "gas:candidate-vibid:2792000311620": 14,
+      "gas:candidate-vibid:2792000296789": 7,
+      "gas:candidate-vibid:2792000304638": 56,
+      "gas:candidate-vibid:2792000318167": 113
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/jewish-aut?action=show&root=1000285&tvd=2792000296133&vrn=100100067795849&region=79&global=&sub_region=79&prver=0&pronetvd=null&vibid=2792000296133&type=464",
@@ -2665,13 +2665,13 @@ export const duma_2016_uik_463_region_79_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дмитриенко Василий Васильевич": 8,
-      "Дудин Владимир Николаевич": 20,
-      "Лазарев Константин Александрович": 68,
-      "Ларионов Константин Иванович": 14,
-      "Проходцев Иван Дмитриевич": 16,
-      "Тимченко Галина Леонидовна": 44,
-      "Тихомиров Анатолий Федорович": 106
+      "gas:candidate-vibid:2792000318091": 8,
+      "gas:candidate-vibid:2792000311444": 20,
+      "gas:candidate-vibid:2792000311593": 68,
+      "gas:candidate-vibid:2792000311620": 14,
+      "gas:candidate-vibid:2792000296789": 16,
+      "gas:candidate-vibid:2792000304638": 44,
+      "gas:candidate-vibid:2792000318167": 106
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/jewish-aut?action=show&root=1000285&tvd=2792000296133&vrn=100100067795849&region=79&global=&sub_region=79&prver=0&pronetvd=null&vibid=2792000296133&type=464",
@@ -2722,13 +2722,13 @@ export const duma_2016_uik_463_region_79_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дмитриенко Василий Васильевич": 3,
-      "Дудин Владимир Николаевич": 13,
-      "Лазарев Константин Александрович": 35,
-      "Ларионов Константин Иванович": 6,
-      "Проходцев Иван Дмитриевич": 4,
-      "Тимченко Галина Леонидовна": 40,
-      "Тихомиров Анатолий Федорович": 149
+      "gas:candidate-vibid:2792000318091": 3,
+      "gas:candidate-vibid:2792000311444": 13,
+      "gas:candidate-vibid:2792000311593": 35,
+      "gas:candidate-vibid:2792000311620": 6,
+      "gas:candidate-vibid:2792000296789": 4,
+      "gas:candidate-vibid:2792000304638": 40,
+      "gas:candidate-vibid:2792000318167": 149
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/jewish-aut?action=show&root=1000285&tvd=2792000296133&vrn=100100067795849&region=79&global=&sub_region=79&prver=0&pronetvd=null&vibid=2792000296133&type=464",
@@ -2779,13 +2779,13 @@ export const duma_2016_uik_463_region_79_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дмитриенко Василий Васильевич": 7,
-      "Дудин Владимир Николаевич": 19,
-      "Лазарев Константин Александрович": 172,
-      "Ларионов Константин Иванович": 14,
-      "Проходцев Иван Дмитриевич": 39,
-      "Тимченко Галина Леонидовна": 81,
-      "Тихомиров Анатолий Федорович": 273
+      "gas:candidate-vibid:2792000318091": 7,
+      "gas:candidate-vibid:2792000311444": 19,
+      "gas:candidate-vibid:2792000311593": 172,
+      "gas:candidate-vibid:2792000311620": 14,
+      "gas:candidate-vibid:2792000296789": 39,
+      "gas:candidate-vibid:2792000304638": 81,
+      "gas:candidate-vibid:2792000318167": 273
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/jewish-aut?action=show&root=1000285&tvd=2792000296133&vrn=100100067795849&region=79&global=&sub_region=79&prver=0&pronetvd=null&vibid=2792000296133&type=464",
@@ -2836,13 +2836,13 @@ export const duma_2016_uik_463_region_79_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дмитриенко Василий Васильевич": 0,
-      "Дудин Владимир Николаевич": 7,
-      "Лазарев Константин Александрович": 35,
-      "Ларионов Константин Иванович": 3,
-      "Проходцев Иван Дмитриевич": 5,
-      "Тимченко Галина Леонидовна": 25,
-      "Тихомиров Анатолий Федорович": 35
+      "gas:candidate-vibid:2792000318091": 0,
+      "gas:candidate-vibid:2792000311444": 7,
+      "gas:candidate-vibid:2792000311593": 35,
+      "gas:candidate-vibid:2792000311620": 3,
+      "gas:candidate-vibid:2792000296789": 5,
+      "gas:candidate-vibid:2792000304638": 25,
+      "gas:candidate-vibid:2792000318167": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/jewish-aut?action=show&root=1000285&tvd=2792000296133&vrn=100100067795849&region=79&global=&sub_region=79&prver=0&pronetvd=null&vibid=2792000296133&type=464",
@@ -2893,13 +2893,13 @@ export const duma_2016_uik_463_region_79_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дмитриенко Василий Васильевич": 0,
-      "Дудин Владимир Николаевич": 6,
-      "Лазарев Константин Александрович": 40,
-      "Ларионов Константин Иванович": 4,
-      "Проходцев Иван Дмитриевич": 6,
-      "Тимченко Галина Леонидовна": 18,
-      "Тихомиров Анатолий Федорович": 38
+      "gas:candidate-vibid:2792000318091": 0,
+      "gas:candidate-vibid:2792000311444": 6,
+      "gas:candidate-vibid:2792000311593": 40,
+      "gas:candidate-vibid:2792000311620": 4,
+      "gas:candidate-vibid:2792000296789": 6,
+      "gas:candidate-vibid:2792000304638": 18,
+      "gas:candidate-vibid:2792000318167": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/jewish-aut?action=show&root=1000285&tvd=2792000296133&vrn=100100067795849&region=79&global=&sub_region=79&prver=0&pronetvd=null&vibid=2792000296133&type=464",
@@ -2950,13 +2950,13 @@ export const duma_2016_uik_463_region_79_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дмитриенко Василий Васильевич": 2,
-      "Дудин Владимир Николаевич": 5,
-      "Лазарев Константин Александрович": 28,
-      "Ларионов Константин Иванович": 6,
-      "Проходцев Иван Дмитриевич": 5,
-      "Тимченко Галина Леонидовна": 16,
-      "Тихомиров Анатолий Федорович": 34
+      "gas:candidate-vibid:2792000318091": 2,
+      "gas:candidate-vibid:2792000311444": 5,
+      "gas:candidate-vibid:2792000311593": 28,
+      "gas:candidate-vibid:2792000311620": 6,
+      "gas:candidate-vibid:2792000296789": 5,
+      "gas:candidate-vibid:2792000304638": 16,
+      "gas:candidate-vibid:2792000318167": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/jewish-aut?action=show&root=1000285&tvd=2792000296133&vrn=100100067795849&region=79&global=&sub_region=79&prver=0&pronetvd=null&vibid=2792000296133&type=464",
@@ -3007,13 +3007,13 @@ export const duma_2016_uik_463_region_79_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дмитриенко Василий Васильевич": 10,
-      "Дудин Владимир Николаевич": 41,
-      "Лазарев Константин Александрович": 69,
-      "Ларионов Константин Иванович": 29,
-      "Проходцев Иван Дмитриевич": 29,
-      "Тимченко Галина Леонидовна": 95,
-      "Тихомиров Анатолий Федорович": 249
+      "gas:candidate-vibid:2792000318091": 10,
+      "gas:candidate-vibid:2792000311444": 41,
+      "gas:candidate-vibid:2792000311593": 69,
+      "gas:candidate-vibid:2792000311620": 29,
+      "gas:candidate-vibid:2792000296789": 29,
+      "gas:candidate-vibid:2792000304638": 95,
+      "gas:candidate-vibid:2792000318167": 249
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/jewish-aut?action=show&root=1000285&tvd=2792000296133&vrn=100100067795849&region=79&global=&sub_region=79&prver=0&pronetvd=null&vibid=2792000296133&type=464",
@@ -3064,13 +3064,13 @@ export const duma_2016_uik_463_region_79_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дмитриенко Василий Васильевич": 6,
-      "Дудин Владимир Николаевич": 35,
-      "Лазарев Константин Александрович": 94,
-      "Ларионов Константин Иванович": 18,
-      "Проходцев Иван Дмитриевич": 14,
-      "Тимченко Галина Леонидовна": 60,
-      "Тихомиров Анатолий Федорович": 162
+      "gas:candidate-vibid:2792000318091": 6,
+      "gas:candidate-vibid:2792000311444": 35,
+      "gas:candidate-vibid:2792000311593": 94,
+      "gas:candidate-vibid:2792000311620": 18,
+      "gas:candidate-vibid:2792000296789": 14,
+      "gas:candidate-vibid:2792000304638": 60,
+      "gas:candidate-vibid:2792000318167": 162
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/jewish-aut?action=show&root=1000285&tvd=2792000296133&vrn=100100067795849&region=79&global=&sub_region=79&prver=0&pronetvd=null&vibid=2792000296133&type=464",
@@ -3121,13 +3121,13 @@ export const duma_2016_uik_463_region_79_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дмитриенко Василий Васильевич": 3,
-      "Дудин Владимир Николаевич": 16,
-      "Лазарев Константин Александрович": 43,
-      "Ларионов Константин Иванович": 12,
-      "Проходцев Иван Дмитриевич": 6,
-      "Тимченко Галина Леонидовна": 36,
-      "Тихомиров Анатолий Федорович": 81
+      "gas:candidate-vibid:2792000318091": 3,
+      "gas:candidate-vibid:2792000311444": 16,
+      "gas:candidate-vibid:2792000311593": 43,
+      "gas:candidate-vibid:2792000311620": 12,
+      "gas:candidate-vibid:2792000296789": 6,
+      "gas:candidate-vibid:2792000304638": 36,
+      "gas:candidate-vibid:2792000318167": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/jewish-aut?action=show&root=1000285&tvd=2792000296133&vrn=100100067795849&region=79&global=&sub_region=79&prver=0&pronetvd=null&vibid=2792000296133&type=464",
@@ -3178,13 +3178,13 @@ export const duma_2016_uik_463_region_79_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дмитриенко Василий Васильевич": 3,
-      "Дудин Владимир Николаевич": 8,
-      "Лазарев Константин Александрович": 26,
-      "Ларионов Константин Иванович": 8,
-      "Проходцев Иван Дмитриевич": 4,
-      "Тимченко Галина Леонидовна": 30,
-      "Тихомиров Анатолий Федорович": 52
+      "gas:candidate-vibid:2792000318091": 3,
+      "gas:candidate-vibid:2792000311444": 8,
+      "gas:candidate-vibid:2792000311593": 26,
+      "gas:candidate-vibid:2792000311620": 8,
+      "gas:candidate-vibid:2792000296789": 4,
+      "gas:candidate-vibid:2792000304638": 30,
+      "gas:candidate-vibid:2792000318167": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/jewish-aut?action=show&root=1000285&tvd=2792000296133&vrn=100100067795849&region=79&global=&sub_region=79&prver=0&pronetvd=null&vibid=2792000296133&type=464",
@@ -3235,13 +3235,13 @@ export const duma_2016_uik_463_region_79_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дмитриенко Василий Васильевич": 1,
-      "Дудин Владимир Николаевич": 4,
-      "Лазарев Константин Александрович": 24,
-      "Ларионов Константин Иванович": 7,
-      "Проходцев Иван Дмитриевич": 8,
-      "Тимченко Галина Леонидовна": 13,
-      "Тихомиров Анатолий Федорович": 47
+      "gas:candidate-vibid:2792000318091": 1,
+      "gas:candidate-vibid:2792000311444": 4,
+      "gas:candidate-vibid:2792000311593": 24,
+      "gas:candidate-vibid:2792000311620": 7,
+      "gas:candidate-vibid:2792000296789": 8,
+      "gas:candidate-vibid:2792000304638": 13,
+      "gas:candidate-vibid:2792000318167": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/jewish-aut?action=show&root=1000285&tvd=2792000296133&vrn=100100067795849&region=79&global=&sub_region=79&prver=0&pronetvd=null&vibid=2792000296133&type=464",
@@ -3292,13 +3292,13 @@ export const duma_2016_uik_463_region_79_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дмитриенко Василий Васильевич": 0,
-      "Дудин Владимир Николаевич": 1,
-      "Лазарев Константин Александрович": 6,
-      "Ларионов Константин Иванович": 2,
-      "Проходцев Иван Дмитриевич": 0,
-      "Тимченко Галина Леонидовна": 6,
-      "Тихомиров Анатолий Федорович": 24
+      "gas:candidate-vibid:2792000318091": 0,
+      "gas:candidate-vibid:2792000311444": 1,
+      "gas:candidate-vibid:2792000311593": 6,
+      "gas:candidate-vibid:2792000311620": 2,
+      "gas:candidate-vibid:2792000296789": 0,
+      "gas:candidate-vibid:2792000304638": 6,
+      "gas:candidate-vibid:2792000318167": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/jewish-aut?action=show&root=1000285&tvd=2792000296133&vrn=100100067795849&region=79&global=&sub_region=79&prver=0&pronetvd=null&vibid=2792000296133&type=464",
@@ -3349,13 +3349,13 @@ export const duma_2016_uik_463_region_79_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дмитриенко Василий Васильевич": 1,
-      "Дудин Владимир Николаевич": 2,
-      "Лазарев Константин Александрович": 8,
-      "Ларионов Константин Иванович": 2,
-      "Проходцев Иван Дмитриевич": 4,
-      "Тимченко Галина Леонидовна": 10,
-      "Тихомиров Анатолий Федорович": 64
+      "gas:candidate-vibid:2792000318091": 1,
+      "gas:candidate-vibid:2792000311444": 2,
+      "gas:candidate-vibid:2792000311593": 8,
+      "gas:candidate-vibid:2792000311620": 2,
+      "gas:candidate-vibid:2792000296789": 4,
+      "gas:candidate-vibid:2792000304638": 10,
+      "gas:candidate-vibid:2792000318167": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/jewish-aut?action=show&root=1000285&tvd=2792000296133&vrn=100100067795849&region=79&global=&sub_region=79&prver=0&pronetvd=null&vibid=2792000296133&type=464",
@@ -3406,13 +3406,13 @@ export const duma_2016_uik_463_region_79_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дмитриенко Василий Васильевич": 1,
-      "Дудин Владимир Николаевич": 2,
-      "Лазарев Константин Александрович": 37,
-      "Ларионов Константин Иванович": 3,
-      "Проходцев Иван Дмитриевич": 4,
-      "Тимченко Галина Леонидовна": 17,
-      "Тихомиров Анатолий Федорович": 26
+      "gas:candidate-vibid:2792000318091": 1,
+      "gas:candidate-vibid:2792000311444": 2,
+      "gas:candidate-vibid:2792000311593": 37,
+      "gas:candidate-vibid:2792000311620": 3,
+      "gas:candidate-vibid:2792000296789": 4,
+      "gas:candidate-vibid:2792000304638": 17,
+      "gas:candidate-vibid:2792000318167": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/jewish-aut?action=show&root=1000285&tvd=2792000296133&vrn=100100067795849&region=79&global=&sub_region=79&prver=0&pronetvd=null&vibid=2792000296133&type=464",
@@ -3463,13 +3463,13 @@ export const duma_2016_uik_463_region_79_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дмитриенко Василий Васильевич": 2,
-      "Дудин Владимир Николаевич": 9,
-      "Лазарев Константин Александрович": 19,
-      "Ларионов Константин Иванович": 4,
-      "Проходцев Иван Дмитриевич": 13,
-      "Тимченко Галина Леонидовна": 22,
-      "Тихомиров Анатолий Федорович": 32
+      "gas:candidate-vibid:2792000318091": 2,
+      "gas:candidate-vibid:2792000311444": 9,
+      "gas:candidate-vibid:2792000311593": 19,
+      "gas:candidate-vibid:2792000311620": 4,
+      "gas:candidate-vibid:2792000296789": 13,
+      "gas:candidate-vibid:2792000304638": 22,
+      "gas:candidate-vibid:2792000318167": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/jewish-aut?action=show&root=1000285&tvd=2792000296133&vrn=100100067795849&region=79&global=&sub_region=79&prver=0&pronetvd=null&vibid=2792000296133&type=464",
@@ -3520,13 +3520,13 @@ export const duma_2016_uik_463_region_79_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дмитриенко Василий Васильевич": 2,
-      "Дудин Владимир Николаевич": 6,
-      "Лазарев Константин Александрович": 47,
-      "Ларионов Константин Иванович": 2,
-      "Проходцев Иван Дмитриевич": 4,
-      "Тимченко Галина Леонидовна": 34,
-      "Тихомиров Анатолий Федорович": 34
+      "gas:candidate-vibid:2792000318091": 2,
+      "gas:candidate-vibid:2792000311444": 6,
+      "gas:candidate-vibid:2792000311593": 47,
+      "gas:candidate-vibid:2792000311620": 2,
+      "gas:candidate-vibid:2792000296789": 4,
+      "gas:candidate-vibid:2792000304638": 34,
+      "gas:candidate-vibid:2792000318167": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/jewish-aut?action=show&root=1000285&tvd=2792000296133&vrn=100100067795849&region=79&global=&sub_region=79&prver=0&pronetvd=null&vibid=2792000296133&type=464",
@@ -3577,13 +3577,13 @@ export const duma_2016_uik_463_region_79_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дмитриенко Василий Васильевич": 2,
-      "Дудин Владимир Николаевич": 2,
-      "Лазарев Константин Александрович": 12,
-      "Ларионов Константин Иванович": 2,
-      "Проходцев Иван Дмитриевич": 4,
-      "Тимченко Галина Леонидовна": 25,
-      "Тихомиров Анатолий Федорович": 22
+      "gas:candidate-vibid:2792000318091": 2,
+      "gas:candidate-vibid:2792000311444": 2,
+      "gas:candidate-vibid:2792000311593": 12,
+      "gas:candidate-vibid:2792000311620": 2,
+      "gas:candidate-vibid:2792000296789": 4,
+      "gas:candidate-vibid:2792000304638": 25,
+      "gas:candidate-vibid:2792000318167": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/jewish-aut?action=show&root=1000285&tvd=2792000296133&vrn=100100067795849&region=79&global=&sub_region=79&prver=0&pronetvd=null&vibid=2792000296133&type=464",
@@ -3634,13 +3634,13 @@ export const duma_2016_uik_463_region_79_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дмитриенко Василий Васильевич": 4,
-      "Дудин Владимир Николаевич": 9,
-      "Лазарев Константин Александрович": 42,
-      "Ларионов Константин Иванович": 11,
-      "Проходцев Иван Дмитриевич": 14,
-      "Тимченко Галина Леонидовна": 39,
-      "Тихомиров Анатолий Федорович": 48
+      "gas:candidate-vibid:2792000318091": 4,
+      "gas:candidate-vibid:2792000311444": 9,
+      "gas:candidate-vibid:2792000311593": 42,
+      "gas:candidate-vibid:2792000311620": 11,
+      "gas:candidate-vibid:2792000296789": 14,
+      "gas:candidate-vibid:2792000304638": 39,
+      "gas:candidate-vibid:2792000318167": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/jewish-aut?action=show&root=1000285&tvd=2792000296133&vrn=100100067795849&region=79&global=&sub_region=79&prver=0&pronetvd=null&vibid=2792000296133&type=464",
@@ -3691,13 +3691,13 @@ export const duma_2016_uik_463_region_79_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дмитриенко Василий Васильевич": 1,
-      "Дудин Владимир Николаевич": 9,
-      "Лазарев Константин Александрович": 51,
-      "Ларионов Константин Иванович": 5,
-      "Проходцев Иван Дмитриевич": 8,
-      "Тимченко Галина Леонидовна": 32,
-      "Тихомиров Анатолий Федорович": 37
+      "gas:candidate-vibid:2792000318091": 1,
+      "gas:candidate-vibid:2792000311444": 9,
+      "gas:candidate-vibid:2792000311593": 51,
+      "gas:candidate-vibid:2792000311620": 5,
+      "gas:candidate-vibid:2792000296789": 8,
+      "gas:candidate-vibid:2792000304638": 32,
+      "gas:candidate-vibid:2792000318167": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/jewish-aut?action=show&root=1000285&tvd=2792000296133&vrn=100100067795849&region=79&global=&sub_region=79&prver=0&pronetvd=null&vibid=2792000296133&type=464",
@@ -3748,13 +3748,13 @@ export const duma_2016_uik_463_region_79_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дмитриенко Василий Васильевич": 2,
-      "Дудин Владимир Николаевич": 12,
-      "Лазарев Константин Александрович": 53,
-      "Ларионов Константин Иванович": 3,
-      "Проходцев Иван Дмитриевич": 14,
-      "Тимченко Галина Леонидовна": 39,
-      "Тихомиров Анатолий Федорович": 58
+      "gas:candidate-vibid:2792000318091": 2,
+      "gas:candidate-vibid:2792000311444": 12,
+      "gas:candidate-vibid:2792000311593": 53,
+      "gas:candidate-vibid:2792000311620": 3,
+      "gas:candidate-vibid:2792000296789": 14,
+      "gas:candidate-vibid:2792000304638": 39,
+      "gas:candidate-vibid:2792000318167": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/jewish-aut?action=show&root=1000285&tvd=2792000296133&vrn=100100067795849&region=79&global=&sub_region=79&prver=0&pronetvd=null&vibid=2792000296133&type=464",
@@ -3805,13 +3805,13 @@ export const duma_2016_uik_463_region_79_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дмитриенко Василий Васильевич": 2,
-      "Дудин Владимир Николаевич": 4,
-      "Лазарев Константин Александрович": 25,
-      "Ларионов Константин Иванович": 3,
-      "Проходцев Иван Дмитриевич": 9,
-      "Тимченко Галина Леонидовна": 18,
-      "Тихомиров Анатолий Федорович": 59
+      "gas:candidate-vibid:2792000318091": 2,
+      "gas:candidate-vibid:2792000311444": 4,
+      "gas:candidate-vibid:2792000311593": 25,
+      "gas:candidate-vibid:2792000311620": 3,
+      "gas:candidate-vibid:2792000296789": 9,
+      "gas:candidate-vibid:2792000304638": 18,
+      "gas:candidate-vibid:2792000318167": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/jewish-aut?action=show&root=1000285&tvd=2792000296133&vrn=100100067795849&region=79&global=&sub_region=79&prver=0&pronetvd=null&vibid=2792000296133&type=464",
@@ -3862,13 +3862,13 @@ export const duma_2016_uik_463_region_79_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дмитриенко Василий Васильевич": 3,
-      "Дудин Владимир Николаевич": 5,
-      "Лазарев Константин Александрович": 20,
-      "Ларионов Константин Иванович": 1,
-      "Проходцев Иван Дмитриевич": 7,
-      "Тимченко Галина Леонидовна": 28,
-      "Тихомиров Анатолий Федорович": 73
+      "gas:candidate-vibid:2792000318091": 3,
+      "gas:candidate-vibid:2792000311444": 5,
+      "gas:candidate-vibid:2792000311593": 20,
+      "gas:candidate-vibid:2792000311620": 1,
+      "gas:candidate-vibid:2792000296789": 7,
+      "gas:candidate-vibid:2792000304638": 28,
+      "gas:candidate-vibid:2792000318167": 73
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/jewish-aut?action=show&root=1000285&tvd=2792000296133&vrn=100100067795849&region=79&global=&sub_region=79&prver=0&pronetvd=null&vibid=2792000296133&type=464",
@@ -3919,13 +3919,13 @@ export const duma_2016_uik_463_region_79_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дмитриенко Василий Васильевич": 4,
-      "Дудин Владимир Николаевич": 4,
-      "Лазарев Константин Александрович": 33,
-      "Ларионов Константин Иванович": 6,
-      "Проходцев Иван Дмитриевич": 9,
-      "Тимченко Галина Леонидовна": 31,
-      "Тихомиров Анатолий Федорович": 72
+      "gas:candidate-vibid:2792000318091": 4,
+      "gas:candidate-vibid:2792000311444": 4,
+      "gas:candidate-vibid:2792000311593": 33,
+      "gas:candidate-vibid:2792000311620": 6,
+      "gas:candidate-vibid:2792000296789": 9,
+      "gas:candidate-vibid:2792000304638": 31,
+      "gas:candidate-vibid:2792000318167": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/jewish-aut?action=show&root=1000285&tvd=2792000296134&vrn=100100067795849&region=79&global=&sub_region=79&prver=0&pronetvd=null&vibid=2792000296134&type=464",
@@ -3976,13 +3976,13 @@ export const duma_2016_uik_463_region_79_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дмитриенко Василий Васильевич": 0,
-      "Дудин Владимир Николаевич": 6,
-      "Лазарев Константин Александрович": 24,
-      "Ларионов Константин Иванович": 2,
-      "Проходцев Иван Дмитриевич": 11,
-      "Тимченко Галина Леонидовна": 29,
-      "Тихомиров Анатолий Федорович": 97
+      "gas:candidate-vibid:2792000318091": 0,
+      "gas:candidate-vibid:2792000311444": 6,
+      "gas:candidate-vibid:2792000311593": 24,
+      "gas:candidate-vibid:2792000311620": 2,
+      "gas:candidate-vibid:2792000296789": 11,
+      "gas:candidate-vibid:2792000304638": 29,
+      "gas:candidate-vibid:2792000318167": 97
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/jewish-aut?action=show&root=1000285&tvd=2792000296134&vrn=100100067795849&region=79&global=&sub_region=79&prver=0&pronetvd=null&vibid=2792000296134&type=464",
@@ -4033,13 +4033,13 @@ export const duma_2016_uik_463_region_79_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дмитриенко Василий Васильевич": 11,
-      "Дудин Владимир Николаевич": 20,
-      "Лазарев Константин Александрович": 60,
-      "Ларионов Константин Иванович": 14,
-      "Проходцев Иван Дмитриевич": 24,
-      "Тимченко Галина Леонидовна": 83,
-      "Тихомиров Анатолий Федорович": 189
+      "gas:candidate-vibid:2792000318091": 11,
+      "gas:candidate-vibid:2792000311444": 20,
+      "gas:candidate-vibid:2792000311593": 60,
+      "gas:candidate-vibid:2792000311620": 14,
+      "gas:candidate-vibid:2792000296789": 24,
+      "gas:candidate-vibid:2792000304638": 83,
+      "gas:candidate-vibid:2792000318167": 189
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/jewish-aut?action=show&root=1000285&tvd=2792000296134&vrn=100100067795849&region=79&global=&sub_region=79&prver=0&pronetvd=null&vibid=2792000296134&type=464",
@@ -4090,13 +4090,13 @@ export const duma_2016_uik_463_region_79_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дмитриенко Василий Васильевич": 0,
-      "Дудин Владимир Николаевич": 1,
-      "Лазарев Константин Александрович": 15,
-      "Ларионов Константин Иванович": 6,
-      "Проходцев Иван Дмитриевич": 5,
-      "Тимченко Галина Леонидовна": 6,
-      "Тихомиров Анатолий Федорович": 36
+      "gas:candidate-vibid:2792000318091": 0,
+      "gas:candidate-vibid:2792000311444": 1,
+      "gas:candidate-vibid:2792000311593": 15,
+      "gas:candidate-vibid:2792000311620": 6,
+      "gas:candidate-vibid:2792000296789": 5,
+      "gas:candidate-vibid:2792000304638": 6,
+      "gas:candidate-vibid:2792000318167": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/jewish-aut?action=show&root=1000285&tvd=2792000296134&vrn=100100067795849&region=79&global=&sub_region=79&prver=0&pronetvd=null&vibid=2792000296134&type=464",
@@ -4147,13 +4147,13 @@ export const duma_2016_uik_463_region_79_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дмитриенко Василий Васильевич": 1,
-      "Дудин Владимир Николаевич": 4,
-      "Лазарев Константин Александрович": 12,
-      "Ларионов Константин Иванович": 2,
-      "Проходцев Иван Дмитриевич": 3,
-      "Тимченко Галина Леонидовна": 14,
-      "Тихомиров Анатолий Федорович": 23
+      "gas:candidate-vibid:2792000318091": 1,
+      "gas:candidate-vibid:2792000311444": 4,
+      "gas:candidate-vibid:2792000311593": 12,
+      "gas:candidate-vibid:2792000311620": 2,
+      "gas:candidate-vibid:2792000296789": 3,
+      "gas:candidate-vibid:2792000304638": 14,
+      "gas:candidate-vibid:2792000318167": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/jewish-aut?action=show&root=1000285&tvd=2792000296134&vrn=100100067795849&region=79&global=&sub_region=79&prver=0&pronetvd=null&vibid=2792000296134&type=464",
@@ -4204,13 +4204,13 @@ export const duma_2016_uik_463_region_79_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дмитриенко Василий Васильевич": 123,
-      "Дудин Владимир Николаевич": 109,
-      "Лазарев Константин Александрович": 214,
-      "Ларионов Константин Иванович": 85,
-      "Проходцев Иван Дмитриевич": 44,
-      "Тимченко Галина Леонидовна": 244,
-      "Тихомиров Анатолий Федорович": 396
+      "gas:candidate-vibid:2792000318091": 123,
+      "gas:candidate-vibid:2792000311444": 109,
+      "gas:candidate-vibid:2792000311593": 214,
+      "gas:candidate-vibid:2792000311620": 85,
+      "gas:candidate-vibid:2792000296789": 44,
+      "gas:candidate-vibid:2792000304638": 244,
+      "gas:candidate-vibid:2792000318167": 396
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/jewish-aut?action=show&root=1000285&tvd=2792000296134&vrn=100100067795849&region=79&global=&sub_region=79&prver=0&pronetvd=null&vibid=2792000296134&type=464",
@@ -4261,13 +4261,13 @@ export const duma_2016_uik_463_region_79_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дмитриенко Василий Васильевич": 0,
-      "Дудин Владимир Николаевич": 2,
-      "Лазарев Константин Александрович": 10,
-      "Ларионов Константин Иванович": 5,
-      "Проходцев Иван Дмитриевич": 2,
-      "Тимченко Галина Леонидовна": 17,
-      "Тихомиров Анатолий Федорович": 40
+      "gas:candidate-vibid:2792000318091": 0,
+      "gas:candidate-vibid:2792000311444": 2,
+      "gas:candidate-vibid:2792000311593": 10,
+      "gas:candidate-vibid:2792000311620": 5,
+      "gas:candidate-vibid:2792000296789": 2,
+      "gas:candidate-vibid:2792000304638": 17,
+      "gas:candidate-vibid:2792000318167": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/jewish-aut?action=show&root=1000285&tvd=2792000296134&vrn=100100067795849&region=79&global=&sub_region=79&prver=0&pronetvd=null&vibid=2792000296134&type=464",
@@ -4318,13 +4318,13 @@ export const duma_2016_uik_463_region_79_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дмитриенко Василий Васильевич": 12,
-      "Дудин Владимир Николаевич": 22,
-      "Лазарев Константин Александрович": 119,
-      "Ларионов Константин Иванович": 18,
-      "Проходцев Иван Дмитриевич": 60,
-      "Тимченко Галина Леонидовна": 107,
-      "Тихомиров Анатолий Федорович": 342
+      "gas:candidate-vibid:2792000318091": 12,
+      "gas:candidate-vibid:2792000311444": 22,
+      "gas:candidate-vibid:2792000311593": 119,
+      "gas:candidate-vibid:2792000311620": 18,
+      "gas:candidate-vibid:2792000296789": 60,
+      "gas:candidate-vibid:2792000304638": 107,
+      "gas:candidate-vibid:2792000318167": 342
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/jewish-aut?action=show&root=1000285&tvd=2792000296134&vrn=100100067795849&region=79&global=&sub_region=79&prver=0&pronetvd=null&vibid=2792000296134&type=464",
@@ -4375,13 +4375,13 @@ export const duma_2016_uik_463_region_79_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дмитриенко Василий Васильевич": 4,
-      "Дудин Владимир Николаевич": 15,
-      "Лазарев Константин Александрович": 41,
-      "Ларионов Константин Иванович": 10,
-      "Проходцев Иван Дмитриевич": 18,
-      "Тимченко Галина Леонидовна": 34,
-      "Тихомиров Анатолий Федорович": 139
+      "gas:candidate-vibid:2792000318091": 4,
+      "gas:candidate-vibid:2792000311444": 15,
+      "gas:candidate-vibid:2792000311593": 41,
+      "gas:candidate-vibid:2792000311620": 10,
+      "gas:candidate-vibid:2792000296789": 18,
+      "gas:candidate-vibid:2792000304638": 34,
+      "gas:candidate-vibid:2792000318167": 139
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/jewish-aut?action=show&root=1000285&tvd=2792000296134&vrn=100100067795849&region=79&global=&sub_region=79&prver=0&pronetvd=null&vibid=2792000296134&type=464",
@@ -4432,13 +4432,13 @@ export const duma_2016_uik_463_region_79_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дмитриенко Василий Васильевич": 7,
-      "Дудин Владимир Николаевич": 17,
-      "Лазарев Константин Александрович": 120,
-      "Ларионов Константин Иванович": 16,
-      "Проходцев Иван Дмитриевич": 45,
-      "Тимченко Галина Леонидовна": 77,
-      "Тихомиров Анатолий Федорович": 266
+      "gas:candidate-vibid:2792000318091": 7,
+      "gas:candidate-vibid:2792000311444": 17,
+      "gas:candidate-vibid:2792000311593": 120,
+      "gas:candidate-vibid:2792000311620": 16,
+      "gas:candidate-vibid:2792000296789": 45,
+      "gas:candidate-vibid:2792000304638": 77,
+      "gas:candidate-vibid:2792000318167": 266
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/jewish-aut?action=show&root=1000285&tvd=2792000296134&vrn=100100067795849&region=79&global=&sub_region=79&prver=0&pronetvd=null&vibid=2792000296134&type=464",
@@ -4489,13 +4489,13 @@ export const duma_2016_uik_463_region_79_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дмитриенко Василий Васильевич": 2,
-      "Дудин Владимир Николаевич": 7,
-      "Лазарев Константин Александрович": 26,
-      "Ларионов Константин Иванович": 4,
-      "Проходцев Иван Дмитриевич": 17,
-      "Тимченко Галина Леонидовна": 18,
-      "Тихомиров Анатолий Федорович": 53
+      "gas:candidate-vibid:2792000318091": 2,
+      "gas:candidate-vibid:2792000311444": 7,
+      "gas:candidate-vibid:2792000311593": 26,
+      "gas:candidate-vibid:2792000311620": 4,
+      "gas:candidate-vibid:2792000296789": 17,
+      "gas:candidate-vibid:2792000304638": 18,
+      "gas:candidate-vibid:2792000318167": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/jewish-aut?action=show&root=1000285&tvd=2792000296134&vrn=100100067795849&region=79&global=&sub_region=79&prver=0&pronetvd=null&vibid=2792000296134&type=464",
@@ -4546,13 +4546,13 @@ export const duma_2016_uik_463_region_79_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дмитриенко Василий Васильевич": 2,
-      "Дудин Владимир Николаевич": 14,
-      "Лазарев Константин Александрович": 37,
-      "Ларионов Константин Иванович": 11,
-      "Проходцев Иван Дмитриевич": 19,
-      "Тимченко Галина Леонидовна": 45,
-      "Тихомиров Анатолий Федорович": 100
+      "gas:candidate-vibid:2792000318091": 2,
+      "gas:candidate-vibid:2792000311444": 14,
+      "gas:candidate-vibid:2792000311593": 37,
+      "gas:candidate-vibid:2792000311620": 11,
+      "gas:candidate-vibid:2792000296789": 19,
+      "gas:candidate-vibid:2792000304638": 45,
+      "gas:candidate-vibid:2792000318167": 100
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/jewish-aut?action=show&root=1000285&tvd=2792000296134&vrn=100100067795849&region=79&global=&sub_region=79&prver=0&pronetvd=null&vibid=2792000296134&type=464",
@@ -4603,13 +4603,13 @@ export const duma_2016_uik_463_region_79_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дмитриенко Василий Васильевич": 0,
-      "Дудин Владимир Николаевич": 8,
-      "Лазарев Константин Александрович": 37,
-      "Ларионов Константин Иванович": 5,
-      "Проходцев Иван Дмитриевич": 3,
-      "Тимченко Галина Леонидовна": 18,
-      "Тихомиров Анатолий Федорович": 68
+      "gas:candidate-vibid:2792000318091": 0,
+      "gas:candidate-vibid:2792000311444": 8,
+      "gas:candidate-vibid:2792000311593": 37,
+      "gas:candidate-vibid:2792000311620": 5,
+      "gas:candidate-vibid:2792000296789": 3,
+      "gas:candidate-vibid:2792000304638": 18,
+      "gas:candidate-vibid:2792000318167": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/jewish-aut?action=show&root=1000285&tvd=2792000296134&vrn=100100067795849&region=79&global=&sub_region=79&prver=0&pronetvd=null&vibid=2792000296134&type=464",
@@ -4660,13 +4660,13 @@ export const duma_2016_uik_463_region_79_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дмитриенко Василий Васильевич": 0,
-      "Дудин Владимир Николаевич": 5,
-      "Лазарев Константин Александрович": 9,
-      "Ларионов Константин Иванович": 7,
-      "Проходцев Иван Дмитриевич": 2,
-      "Тимченко Галина Леонидовна": 8,
-      "Тихомиров Анатолий Федорович": 25
+      "gas:candidate-vibid:2792000318091": 0,
+      "gas:candidate-vibid:2792000311444": 5,
+      "gas:candidate-vibid:2792000311593": 9,
+      "gas:candidate-vibid:2792000311620": 7,
+      "gas:candidate-vibid:2792000296789": 2,
+      "gas:candidate-vibid:2792000304638": 8,
+      "gas:candidate-vibid:2792000318167": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/jewish-aut?action=show&root=1000285&tvd=2792000296134&vrn=100100067795849&region=79&global=&sub_region=79&prver=0&pronetvd=null&vibid=2792000296134&type=464",
@@ -4717,13 +4717,13 @@ export const duma_2016_uik_463_region_79_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дмитриенко Василий Васильевич": 1,
-      "Дудин Владимир Николаевич": 9,
-      "Лазарев Константин Александрович": 13,
-      "Ларионов Константин Иванович": 3,
-      "Проходцев Иван Дмитриевич": 10,
-      "Тимченко Галина Леонидовна": 24,
-      "Тихомиров Анатолий Федорович": 109
+      "gas:candidate-vibid:2792000318091": 1,
+      "gas:candidate-vibid:2792000311444": 9,
+      "gas:candidate-vibid:2792000311593": 13,
+      "gas:candidate-vibid:2792000311620": 3,
+      "gas:candidate-vibid:2792000296789": 10,
+      "gas:candidate-vibid:2792000304638": 24,
+      "gas:candidate-vibid:2792000318167": 109
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/jewish-aut?action=show&root=1000285&tvd=2792000296134&vrn=100100067795849&region=79&global=&sub_region=79&prver=0&pronetvd=null&vibid=2792000296134&type=464",
@@ -4774,13 +4774,13 @@ export const duma_2016_uik_463_region_79_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дмитриенко Василий Васильевич": 0,
-      "Дудин Владимир Николаевич": 1,
-      "Лазарев Константин Александрович": 6,
-      "Ларионов Константин Иванович": 0,
-      "Проходцев Иван Дмитриевич": 3,
-      "Тимченко Галина Леонидовна": 2,
-      "Тихомиров Анатолий Федорович": 60
+      "gas:candidate-vibid:2792000318091": 0,
+      "gas:candidate-vibid:2792000311444": 1,
+      "gas:candidate-vibid:2792000311593": 6,
+      "gas:candidate-vibid:2792000311620": 0,
+      "gas:candidate-vibid:2792000296789": 3,
+      "gas:candidate-vibid:2792000304638": 2,
+      "gas:candidate-vibid:2792000318167": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/jewish-aut?action=show&root=1000285&tvd=2792000296134&vrn=100100067795849&region=79&global=&sub_region=79&prver=0&pronetvd=null&vibid=2792000296134&type=464",
@@ -4831,13 +4831,13 @@ export const duma_2016_uik_463_region_79_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дмитриенко Василий Васильевич": 0,
-      "Дудин Владимир Николаевич": 4,
-      "Лазарев Константин Александрович": 31,
-      "Ларионов Константин Иванович": 2,
-      "Проходцев Иван Дмитриевич": 1,
-      "Тимченко Галина Леонидовна": 18,
-      "Тихомиров Анатолий Федорович": 99
+      "gas:candidate-vibid:2792000318091": 0,
+      "gas:candidate-vibid:2792000311444": 4,
+      "gas:candidate-vibid:2792000311593": 31,
+      "gas:candidate-vibid:2792000311620": 2,
+      "gas:candidate-vibid:2792000296789": 1,
+      "gas:candidate-vibid:2792000304638": 18,
+      "gas:candidate-vibid:2792000318167": 99
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/jewish-aut?action=show&root=1000285&tvd=2792000296134&vrn=100100067795849&region=79&global=&sub_region=79&prver=0&pronetvd=null&vibid=2792000296134&type=464",
@@ -4888,13 +4888,13 @@ export const duma_2016_uik_463_region_79_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дмитриенко Василий Васильевич": 2,
-      "Дудин Владимир Николаевич": 3,
-      "Лазарев Константин Александрович": 31,
-      "Ларионов Константин Иванович": 13,
-      "Проходцев Иван Дмитриевич": 26,
-      "Тимченко Галина Леонидовна": 25,
-      "Тихомиров Анатолий Федорович": 101
+      "gas:candidate-vibid:2792000318091": 2,
+      "gas:candidate-vibid:2792000311444": 3,
+      "gas:candidate-vibid:2792000311593": 31,
+      "gas:candidate-vibid:2792000311620": 13,
+      "gas:candidate-vibid:2792000296789": 26,
+      "gas:candidate-vibid:2792000304638": 25,
+      "gas:candidate-vibid:2792000318167": 101
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/jewish-aut?action=show&root=1000285&tvd=2792000296134&vrn=100100067795849&region=79&global=&sub_region=79&prver=0&pronetvd=null&vibid=2792000296134&type=464",
@@ -4945,13 +4945,13 @@ export const duma_2016_uik_463_region_79_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дмитриенко Василий Васильевич": 1,
-      "Дудин Владимир Николаевич": 3,
-      "Лазарев Константин Александрович": 16,
-      "Ларионов Константин Иванович": 6,
-      "Проходцев Иван Дмитриевич": 4,
-      "Тимченко Галина Леонидовна": 12,
-      "Тихомиров Анатолий Федорович": 41
+      "gas:candidate-vibid:2792000318091": 1,
+      "gas:candidate-vibid:2792000311444": 3,
+      "gas:candidate-vibid:2792000311593": 16,
+      "gas:candidate-vibid:2792000311620": 6,
+      "gas:candidate-vibid:2792000296789": 4,
+      "gas:candidate-vibid:2792000304638": 12,
+      "gas:candidate-vibid:2792000318167": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/jewish-aut?action=show&root=1000285&tvd=2792000296134&vrn=100100067795849&region=79&global=&sub_region=79&prver=0&pronetvd=null&vibid=2792000296134&type=464",
@@ -5002,13 +5002,13 @@ export const duma_2016_uik_463_region_79_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дмитриенко Василий Васильевич": 0,
-      "Дудин Владимир Николаевич": 5,
-      "Лазарев Константин Александрович": 15,
-      "Ларионов Константин Иванович": 9,
-      "Проходцев Иван Дмитриевич": 3,
-      "Тимченко Галина Леонидовна": 4,
-      "Тихомиров Анатолий Федорович": 40
+      "gas:candidate-vibid:2792000318091": 0,
+      "gas:candidate-vibid:2792000311444": 5,
+      "gas:candidate-vibid:2792000311593": 15,
+      "gas:candidate-vibid:2792000311620": 9,
+      "gas:candidate-vibid:2792000296789": 3,
+      "gas:candidate-vibid:2792000304638": 4,
+      "gas:candidate-vibid:2792000318167": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/jewish-aut?action=show&root=1000285&tvd=2792000296134&vrn=100100067795849&region=79&global=&sub_region=79&prver=0&pronetvd=null&vibid=2792000296134&type=464",
@@ -5059,13 +5059,13 @@ export const duma_2016_uik_463_region_79_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дмитриенко Василий Васильевич": 1,
-      "Дудин Владимир Николаевич": 6,
-      "Лазарев Константин Александрович": 17,
-      "Ларионов Константин Иванович": 3,
-      "Проходцев Иван Дмитриевич": 11,
-      "Тимченко Галина Леонидовна": 23,
-      "Тихомиров Анатолий Федорович": 74
+      "gas:candidate-vibid:2792000318091": 1,
+      "gas:candidate-vibid:2792000311444": 6,
+      "gas:candidate-vibid:2792000311593": 17,
+      "gas:candidate-vibid:2792000311620": 3,
+      "gas:candidate-vibid:2792000296789": 11,
+      "gas:candidate-vibid:2792000304638": 23,
+      "gas:candidate-vibid:2792000318167": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/jewish-aut?action=show&root=1000285&tvd=2792000296134&vrn=100100067795849&region=79&global=&sub_region=79&prver=0&pronetvd=null&vibid=2792000296134&type=464",
@@ -5116,13 +5116,13 @@ export const duma_2016_uik_463_region_79_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дмитриенко Василий Васильевич": 4,
-      "Дудин Владимир Николаевич": 10,
-      "Лазарев Константин Александрович": 106,
-      "Ларионов Константин Иванович": 24,
-      "Проходцев Иван Дмитриевич": 14,
-      "Тимченко Галина Леонидовна": 24,
-      "Тихомиров Анатолий Федорович": 183
+      "gas:candidate-vibid:2792000318091": 4,
+      "gas:candidate-vibid:2792000311444": 10,
+      "gas:candidate-vibid:2792000311593": 106,
+      "gas:candidate-vibid:2792000311620": 24,
+      "gas:candidate-vibid:2792000296789": 14,
+      "gas:candidate-vibid:2792000304638": 24,
+      "gas:candidate-vibid:2792000318167": 183
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/jewish-aut?action=show&root=1000285&tvd=2792000296134&vrn=100100067795849&region=79&global=&sub_region=79&prver=0&pronetvd=null&vibid=2792000296134&type=464",
@@ -5173,13 +5173,13 @@ export const duma_2016_uik_463_region_79_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дмитриенко Василий Васильевич": 3,
-      "Дудин Владимир Николаевич": 6,
-      "Лазарев Константин Александрович": 31,
-      "Ларионов Константин Иванович": 9,
-      "Проходцев Иван Дмитриевич": 4,
-      "Тимченко Галина Леонидовна": 13,
-      "Тихомиров Анатолий Федорович": 89
+      "gas:candidate-vibid:2792000318091": 3,
+      "gas:candidate-vibid:2792000311444": 6,
+      "gas:candidate-vibid:2792000311593": 31,
+      "gas:candidate-vibid:2792000311620": 9,
+      "gas:candidate-vibid:2792000296789": 4,
+      "gas:candidate-vibid:2792000304638": 13,
+      "gas:candidate-vibid:2792000318167": 89
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/jewish-aut?action=show&root=1000285&tvd=2792000296134&vrn=100100067795849&region=79&global=&sub_region=79&prver=0&pronetvd=null&vibid=2792000296134&type=464",
@@ -5230,13 +5230,13 @@ export const duma_2016_uik_463_region_79_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дмитриенко Василий Васильевич": 1,
-      "Дудин Владимир Николаевич": 1,
-      "Лазарев Константин Александрович": 28,
-      "Ларионов Константин Иванович": 9,
-      "Проходцев Иван Дмитриевич": 2,
-      "Тимченко Галина Леонидовна": 8,
-      "Тихомиров Анатолий Федорович": 77
+      "gas:candidate-vibid:2792000318091": 1,
+      "gas:candidate-vibid:2792000311444": 1,
+      "gas:candidate-vibid:2792000311593": 28,
+      "gas:candidate-vibid:2792000311620": 9,
+      "gas:candidate-vibid:2792000296789": 2,
+      "gas:candidate-vibid:2792000304638": 8,
+      "gas:candidate-vibid:2792000318167": 77
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/jewish-aut?action=show&root=1000285&tvd=2792000296134&vrn=100100067795849&region=79&global=&sub_region=79&prver=0&pronetvd=null&vibid=2792000296134&type=464",
@@ -5287,13 +5287,13 @@ export const duma_2016_uik_463_region_79_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дмитриенко Василий Васильевич": 3,
-      "Дудин Владимир Николаевич": 8,
-      "Лазарев Константин Александрович": 31,
-      "Ларионов Константин Иванович": 5,
-      "Проходцев Иван Дмитриевич": 6,
-      "Тимченко Галина Леонидовна": 9,
-      "Тихомиров Анатолий Федорович": 58
+      "gas:candidate-vibid:2792000318091": 3,
+      "gas:candidate-vibid:2792000311444": 8,
+      "gas:candidate-vibid:2792000311593": 31,
+      "gas:candidate-vibid:2792000311620": 5,
+      "gas:candidate-vibid:2792000296789": 6,
+      "gas:candidate-vibid:2792000304638": 9,
+      "gas:candidate-vibid:2792000318167": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/jewish-aut?action=show&root=1000285&tvd=2792000296134&vrn=100100067795849&region=79&global=&sub_region=79&prver=0&pronetvd=null&vibid=2792000296134&type=464",
@@ -5344,13 +5344,13 @@ export const duma_2016_uik_463_region_79_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дмитриенко Василий Васильевич": 1,
-      "Дудин Владимир Николаевич": 4,
-      "Лазарев Константин Александрович": 43,
-      "Ларионов Константин Иванович": 8,
-      "Проходцев Иван Дмитриевич": 1,
-      "Тимченко Галина Леонидовна": 10,
-      "Тихомиров Анатолий Федорович": 140
+      "gas:candidate-vibid:2792000318091": 1,
+      "gas:candidate-vibid:2792000311444": 4,
+      "gas:candidate-vibid:2792000311593": 43,
+      "gas:candidate-vibid:2792000311620": 8,
+      "gas:candidate-vibid:2792000296789": 1,
+      "gas:candidate-vibid:2792000304638": 10,
+      "gas:candidate-vibid:2792000318167": 140
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/jewish-aut?action=show&root=1000285&tvd=2792000296134&vrn=100100067795849&region=79&global=&sub_region=79&prver=0&pronetvd=null&vibid=2792000296134&type=464",
@@ -5401,13 +5401,13 @@ export const duma_2016_uik_463_region_79_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дмитриенко Василий Васильевич": 0,
-      "Дудин Владимир Николаевич": 3,
-      "Лазарев Константин Александрович": 23,
-      "Ларионов Константин Иванович": 5,
-      "Проходцев Иван Дмитриевич": 6,
-      "Тимченко Галина Леонидовна": 10,
-      "Тихомиров Анатолий Федорович": 41
+      "gas:candidate-vibid:2792000318091": 0,
+      "gas:candidate-vibid:2792000311444": 3,
+      "gas:candidate-vibid:2792000311593": 23,
+      "gas:candidate-vibid:2792000311620": 5,
+      "gas:candidate-vibid:2792000296789": 6,
+      "gas:candidate-vibid:2792000304638": 10,
+      "gas:candidate-vibid:2792000318167": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/jewish-aut?action=show&root=1000285&tvd=2792000296134&vrn=100100067795849&region=79&global=&sub_region=79&prver=0&pronetvd=null&vibid=2792000296134&type=464",
@@ -5458,13 +5458,13 @@ export const duma_2016_uik_463_region_79_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дмитриенко Василий Васильевич": 1,
-      "Дудин Владимир Николаевич": 1,
-      "Лазарев Константин Александрович": 18,
-      "Ларионов Константин Иванович": 4,
-      "Проходцев Иван Дмитриевич": 4,
-      "Тимченко Галина Леонидовна": 17,
-      "Тихомиров Анатолий Федорович": 64
+      "gas:candidate-vibid:2792000318091": 1,
+      "gas:candidate-vibid:2792000311444": 1,
+      "gas:candidate-vibid:2792000311593": 18,
+      "gas:candidate-vibid:2792000311620": 4,
+      "gas:candidate-vibid:2792000296789": 4,
+      "gas:candidate-vibid:2792000304638": 17,
+      "gas:candidate-vibid:2792000318167": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/jewish-aut?action=show&root=1000285&tvd=2792000296134&vrn=100100067795849&region=79&global=&sub_region=79&prver=0&pronetvd=null&vibid=2792000296134&type=464",
@@ -5515,13 +5515,13 @@ export const duma_2016_uik_463_region_79_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дмитриенко Василий Васильевич": 2,
-      "Дудин Владимир Николаевич": 4,
-      "Лазарев Константин Александрович": 19,
-      "Ларионов Константин Иванович": 7,
-      "Проходцев Иван Дмитриевич": 0,
-      "Тимченко Галина Леонидовна": 13,
-      "Тихомиров Анатолий Федорович": 75
+      "gas:candidate-vibid:2792000318091": 2,
+      "gas:candidate-vibid:2792000311444": 4,
+      "gas:candidate-vibid:2792000311593": 19,
+      "gas:candidate-vibid:2792000311620": 7,
+      "gas:candidate-vibid:2792000296789": 0,
+      "gas:candidate-vibid:2792000304638": 13,
+      "gas:candidate-vibid:2792000318167": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/jewish-aut?action=show&root=1000285&tvd=2792000296134&vrn=100100067795849&region=79&global=&sub_region=79&prver=0&pronetvd=null&vibid=2792000296134&type=464",
@@ -5572,13 +5572,13 @@ export const duma_2016_uik_463_region_79_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дмитриенко Василий Васильевич": 2,
-      "Дудин Владимир Николаевич": 6,
-      "Лазарев Константин Александрович": 18,
-      "Ларионов Константин Иванович": 3,
-      "Проходцев Иван Дмитриевич": 3,
-      "Тимченко Галина Леонидовна": 28,
-      "Тихомиров Анатолий Федорович": 39
+      "gas:candidate-vibid:2792000318091": 2,
+      "gas:candidate-vibid:2792000311444": 6,
+      "gas:candidate-vibid:2792000311593": 18,
+      "gas:candidate-vibid:2792000311620": 3,
+      "gas:candidate-vibid:2792000296789": 3,
+      "gas:candidate-vibid:2792000304638": 28,
+      "gas:candidate-vibid:2792000318167": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/jewish-aut?action=show&root=1000285&tvd=2792000296135&vrn=100100067795849&region=79&global=&sub_region=79&prver=0&pronetvd=null&vibid=2792000296135&type=464",
@@ -5629,13 +5629,13 @@ export const duma_2016_uik_463_region_79_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дмитриенко Василий Васильевич": 1,
-      "Дудин Владимир Николаевич": 8,
-      "Лазарев Константин Александрович": 26,
-      "Ларионов Константин Иванович": 7,
-      "Проходцев Иван Дмитриевич": 14,
-      "Тимченко Галина Леонидовна": 27,
-      "Тихомиров Анатолий Федорович": 46
+      "gas:candidate-vibid:2792000318091": 1,
+      "gas:candidate-vibid:2792000311444": 8,
+      "gas:candidate-vibid:2792000311593": 26,
+      "gas:candidate-vibid:2792000311620": 7,
+      "gas:candidate-vibid:2792000296789": 14,
+      "gas:candidate-vibid:2792000304638": 27,
+      "gas:candidate-vibid:2792000318167": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/jewish-aut?action=show&root=1000285&tvd=2792000296135&vrn=100100067795849&region=79&global=&sub_region=79&prver=0&pronetvd=null&vibid=2792000296135&type=464",
@@ -5686,13 +5686,13 @@ export const duma_2016_uik_463_region_79_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дмитриенко Василий Васильевич": 7,
-      "Дудин Владимир Николаевич": 23,
-      "Лазарев Константин Александрович": 72,
-      "Ларионов Константин Иванович": 9,
-      "Проходцев Иван Дмитриевич": 55,
-      "Тимченко Галина Леонидовна": 67,
-      "Тихомиров Анатолий Федорович": 120
+      "gas:candidate-vibid:2792000318091": 7,
+      "gas:candidate-vibid:2792000311444": 23,
+      "gas:candidate-vibid:2792000311593": 72,
+      "gas:candidate-vibid:2792000311620": 9,
+      "gas:candidate-vibid:2792000296789": 55,
+      "gas:candidate-vibid:2792000304638": 67,
+      "gas:candidate-vibid:2792000318167": 120
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/jewish-aut?action=show&root=1000285&tvd=2792000296135&vrn=100100067795849&region=79&global=&sub_region=79&prver=0&pronetvd=null&vibid=2792000296135&type=464",
@@ -5743,13 +5743,13 @@ export const duma_2016_uik_463_region_79_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дмитриенко Василий Васильевич": 1,
-      "Дудин Владимир Николаевич": 36,
-      "Лазарев Константин Александрович": 32,
-      "Ларионов Константин Иванович": 7,
-      "Проходцев Иван Дмитриевич": 30,
-      "Тимченко Галина Леонидовна": 51,
-      "Тихомиров Анатолий Федорович": 102
+      "gas:candidate-vibid:2792000318091": 1,
+      "gas:candidate-vibid:2792000311444": 36,
+      "gas:candidate-vibid:2792000311593": 32,
+      "gas:candidate-vibid:2792000311620": 7,
+      "gas:candidate-vibid:2792000296789": 30,
+      "gas:candidate-vibid:2792000304638": 51,
+      "gas:candidate-vibid:2792000318167": 102
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/jewish-aut?action=show&root=1000285&tvd=2792000296135&vrn=100100067795849&region=79&global=&sub_region=79&prver=0&pronetvd=null&vibid=2792000296135&type=464",
@@ -5800,13 +5800,13 @@ export const duma_2016_uik_463_region_79_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дмитриенко Василий Васильевич": 0,
-      "Дудин Владимир Николаевич": 4,
-      "Лазарев Константин Александрович": 11,
-      "Ларионов Константин Иванович": 3,
-      "Проходцев Иван Дмитриевич": 9,
-      "Тимченко Галина Леонидовна": 7,
-      "Тихомиров Анатолий Федорович": 53
+      "gas:candidate-vibid:2792000318091": 0,
+      "gas:candidate-vibid:2792000311444": 4,
+      "gas:candidate-vibid:2792000311593": 11,
+      "gas:candidate-vibid:2792000311620": 3,
+      "gas:candidate-vibid:2792000296789": 9,
+      "gas:candidate-vibid:2792000304638": 7,
+      "gas:candidate-vibid:2792000318167": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/jewish-aut?action=show&root=1000285&tvd=2792000296135&vrn=100100067795849&region=79&global=&sub_region=79&prver=0&pronetvd=null&vibid=2792000296135&type=464",
@@ -5857,13 +5857,13 @@ export const duma_2016_uik_463_region_79_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дмитриенко Василий Васильевич": 4,
-      "Дудин Владимир Николаевич": 2,
-      "Лазарев Константин Александрович": 10,
-      "Ларионов Константин Иванович": 3,
-      "Проходцев Иван Дмитриевич": 7,
-      "Тимченко Галина Леонидовна": 13,
-      "Тихомиров Анатолий Федорович": 36
+      "gas:candidate-vibid:2792000318091": 4,
+      "gas:candidate-vibid:2792000311444": 2,
+      "gas:candidate-vibid:2792000311593": 10,
+      "gas:candidate-vibid:2792000311620": 3,
+      "gas:candidate-vibid:2792000296789": 7,
+      "gas:candidate-vibid:2792000304638": 13,
+      "gas:candidate-vibid:2792000318167": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/jewish-aut?action=show&root=1000285&tvd=2792000296135&vrn=100100067795849&region=79&global=&sub_region=79&prver=0&pronetvd=null&vibid=2792000296135&type=464",
@@ -5914,13 +5914,13 @@ export const duma_2016_uik_463_region_79_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дмитриенко Василий Васильевич": 0,
-      "Дудин Владимир Николаевич": 2,
-      "Лазарев Константин Александрович": 14,
-      "Ларионов Константин Иванович": 2,
-      "Проходцев Иван Дмитриевич": 8,
-      "Тимченко Галина Леонидовна": 10,
-      "Тихомиров Анатолий Федорович": 24
+      "gas:candidate-vibid:2792000318091": 0,
+      "gas:candidate-vibid:2792000311444": 2,
+      "gas:candidate-vibid:2792000311593": 14,
+      "gas:candidate-vibid:2792000311620": 2,
+      "gas:candidate-vibid:2792000296789": 8,
+      "gas:candidate-vibid:2792000304638": 10,
+      "gas:candidate-vibid:2792000318167": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/jewish-aut?action=show&root=1000285&tvd=2792000296135&vrn=100100067795849&region=79&global=&sub_region=79&prver=0&pronetvd=null&vibid=2792000296135&type=464",
@@ -5971,13 +5971,13 @@ export const duma_2016_uik_463_region_79_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дмитриенко Василий Васильевич": 1,
-      "Дудин Владимир Николаевич": 4,
-      "Лазарев Константин Александрович": 14,
-      "Ларионов Константин Иванович": 1,
-      "Проходцев Иван Дмитриевич": 9,
-      "Тимченко Галина Леонидовна": 7,
-      "Тихомиров Анатолий Федорович": 51
+      "gas:candidate-vibid:2792000318091": 1,
+      "gas:candidate-vibid:2792000311444": 4,
+      "gas:candidate-vibid:2792000311593": 14,
+      "gas:candidate-vibid:2792000311620": 1,
+      "gas:candidate-vibid:2792000296789": 9,
+      "gas:candidate-vibid:2792000304638": 7,
+      "gas:candidate-vibid:2792000318167": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/jewish-aut?action=show&root=1000285&tvd=2792000296135&vrn=100100067795849&region=79&global=&sub_region=79&prver=0&pronetvd=null&vibid=2792000296135&type=464",
@@ -6028,13 +6028,13 @@ export const duma_2016_uik_463_region_79_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дмитриенко Василий Васильевич": 1,
-      "Дудин Владимир Николаевич": 1,
-      "Лазарев Константин Александрович": 12,
-      "Ларионов Константин Иванович": 2,
-      "Проходцев Иван Дмитриевич": 0,
-      "Тимченко Галина Леонидовна": 2,
-      "Тихомиров Анатолий Федорович": 45
+      "gas:candidate-vibid:2792000318091": 1,
+      "gas:candidate-vibid:2792000311444": 1,
+      "gas:candidate-vibid:2792000311593": 12,
+      "gas:candidate-vibid:2792000311620": 2,
+      "gas:candidate-vibid:2792000296789": 0,
+      "gas:candidate-vibid:2792000304638": 2,
+      "gas:candidate-vibid:2792000318167": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/jewish-aut?action=show&root=1000285&tvd=2792000296135&vrn=100100067795849&region=79&global=&sub_region=79&prver=0&pronetvd=null&vibid=2792000296135&type=464",
@@ -6085,13 +6085,13 @@ export const duma_2016_uik_463_region_79_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дмитриенко Василий Васильевич": 0,
-      "Дудин Владимир Николаевич": 2,
-      "Лазарев Константин Александрович": 5,
-      "Ларионов Константин Иванович": 0,
-      "Проходцев Иван Дмитриевич": 1,
-      "Тимченко Галина Леонидовна": 2,
-      "Тихомиров Анатолий Федорович": 40
+      "gas:candidate-vibid:2792000318091": 0,
+      "gas:candidate-vibid:2792000311444": 2,
+      "gas:candidate-vibid:2792000311593": 5,
+      "gas:candidate-vibid:2792000311620": 0,
+      "gas:candidate-vibid:2792000296789": 1,
+      "gas:candidate-vibid:2792000304638": 2,
+      "gas:candidate-vibid:2792000318167": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/jewish-aut?action=show&root=1000285&tvd=2792000296135&vrn=100100067795849&region=79&global=&sub_region=79&prver=0&pronetvd=null&vibid=2792000296135&type=464",
@@ -6142,13 +6142,13 @@ export const duma_2016_uik_463_region_79_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дмитриенко Василий Васильевич": 1,
-      "Дудин Владимир Николаевич": 1,
-      "Лазарев Константин Александрович": 43,
-      "Ларионов Константин Иванович": 6,
-      "Проходцев Иван Дмитриевич": 22,
-      "Тимченко Галина Леонидовна": 36,
-      "Тихомиров Анатолий Федорович": 95
+      "gas:candidate-vibid:2792000318091": 1,
+      "gas:candidate-vibid:2792000311444": 1,
+      "gas:candidate-vibid:2792000311593": 43,
+      "gas:candidate-vibid:2792000311620": 6,
+      "gas:candidate-vibid:2792000296789": 22,
+      "gas:candidate-vibid:2792000304638": 36,
+      "gas:candidate-vibid:2792000318167": 95
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/jewish-aut?action=show&root=1000285&tvd=2792000296135&vrn=100100067795849&region=79&global=&sub_region=79&prver=0&pronetvd=null&vibid=2792000296135&type=464",
@@ -6199,13 +6199,13 @@ export const duma_2016_uik_463_region_79_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дмитриенко Василий Васильевич": 1,
-      "Дудин Владимир Николаевич": 11,
-      "Лазарев Константин Александрович": 31,
-      "Ларионов Константин Иванович": 8,
-      "Проходцев Иван Дмитриевич": 25,
-      "Тимченко Галина Леонидовна": 26,
-      "Тихомиров Анатолий Федорович": 124
+      "gas:candidate-vibid:2792000318091": 1,
+      "gas:candidate-vibid:2792000311444": 11,
+      "gas:candidate-vibid:2792000311593": 31,
+      "gas:candidate-vibid:2792000311620": 8,
+      "gas:candidate-vibid:2792000296789": 25,
+      "gas:candidate-vibid:2792000304638": 26,
+      "gas:candidate-vibid:2792000318167": 124
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/jewish-aut?action=show&root=1000285&tvd=2792000296135&vrn=100100067795849&region=79&global=&sub_region=79&prver=0&pronetvd=null&vibid=2792000296135&type=464",
@@ -6256,13 +6256,13 @@ export const duma_2016_uik_463_region_79_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дмитриенко Василий Васильевич": 1,
-      "Дудин Владимир Николаевич": 1,
-      "Лазарев Константин Александрович": 13,
-      "Ларионов Константин Иванович": 5,
-      "Проходцев Иван Дмитриевич": 4,
-      "Тимченко Галина Леонидовна": 10,
-      "Тихомиров Анатолий Федорович": 68
+      "gas:candidate-vibid:2792000318091": 1,
+      "gas:candidate-vibid:2792000311444": 1,
+      "gas:candidate-vibid:2792000311593": 13,
+      "gas:candidate-vibid:2792000311620": 5,
+      "gas:candidate-vibid:2792000296789": 4,
+      "gas:candidate-vibid:2792000304638": 10,
+      "gas:candidate-vibid:2792000318167": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/jewish-aut?action=show&root=1000285&tvd=2792000296135&vrn=100100067795849&region=79&global=&sub_region=79&prver=0&pronetvd=null&vibid=2792000296135&type=464",
@@ -6313,13 +6313,13 @@ export const duma_2016_uik_463_region_79_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дмитриенко Василий Васильевич": 0,
-      "Дудин Владимир Николаевич": 7,
-      "Лазарев Константин Александрович": 16,
-      "Ларионов Константин Иванович": 2,
-      "Проходцев Иван Дмитриевич": 6,
-      "Тимченко Галина Леонидовна": 21,
-      "Тихомиров Анатолий Федорович": 97
+      "gas:candidate-vibid:2792000318091": 0,
+      "gas:candidate-vibid:2792000311444": 7,
+      "gas:candidate-vibid:2792000311593": 16,
+      "gas:candidate-vibid:2792000311620": 2,
+      "gas:candidate-vibid:2792000296789": 6,
+      "gas:candidate-vibid:2792000304638": 21,
+      "gas:candidate-vibid:2792000318167": 97
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/jewish-aut?action=show&root=1000285&tvd=2792000296135&vrn=100100067795849&region=79&global=&sub_region=79&prver=0&pronetvd=null&vibid=2792000296135&type=464",
@@ -6370,13 +6370,13 @@ export const duma_2016_uik_463_region_79_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дмитриенко Василий Васильевич": 0,
-      "Дудин Владимир Николаевич": 4,
-      "Лазарев Константин Александрович": 18,
-      "Ларионов Константин Иванович": 7,
-      "Проходцев Иван Дмитриевич": 11,
-      "Тимченко Галина Леонидовна": 21,
-      "Тихомиров Анатолий Федорович": 170
+      "gas:candidate-vibid:2792000318091": 0,
+      "gas:candidate-vibid:2792000311444": 4,
+      "gas:candidate-vibid:2792000311593": 18,
+      "gas:candidate-vibid:2792000311620": 7,
+      "gas:candidate-vibid:2792000296789": 11,
+      "gas:candidate-vibid:2792000304638": 21,
+      "gas:candidate-vibid:2792000318167": 170
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/jewish-aut?action=show&root=1000285&tvd=2792000296135&vrn=100100067795849&region=79&global=&sub_region=79&prver=0&pronetvd=null&vibid=2792000296135&type=464",
@@ -6427,13 +6427,13 @@ export const duma_2016_uik_463_region_79_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дмитриенко Василий Васильевич": 0,
-      "Дудин Владимир Николаевич": 5,
-      "Лазарев Константин Александрович": 8,
-      "Ларионов Константин Иванович": 5,
-      "Проходцев Иван Дмитриевич": 11,
-      "Тимченко Галина Леонидовна": 8,
-      "Тихомиров Анатолий Федорович": 97
+      "gas:candidate-vibid:2792000318091": 0,
+      "gas:candidate-vibid:2792000311444": 5,
+      "gas:candidate-vibid:2792000311593": 8,
+      "gas:candidate-vibid:2792000311620": 5,
+      "gas:candidate-vibid:2792000296789": 11,
+      "gas:candidate-vibid:2792000304638": 8,
+      "gas:candidate-vibid:2792000318167": 97
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/jewish-aut?action=show&root=1000285&tvd=2792000296135&vrn=100100067795849&region=79&global=&sub_region=79&prver=0&pronetvd=null&vibid=2792000296135&type=464",
@@ -6484,13 +6484,13 @@ export const duma_2016_uik_463_region_79_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дмитриенко Василий Васильевич": 0,
-      "Дудин Владимир Николаевич": 3,
-      "Лазарев Константин Александрович": 9,
-      "Ларионов Константин Иванович": 1,
-      "Проходцев Иван Дмитриевич": 0,
-      "Тимченко Галина Леонидовна": 7,
-      "Тихомиров Анатолий Федорович": 46
+      "gas:candidate-vibid:2792000318091": 0,
+      "gas:candidate-vibid:2792000311444": 3,
+      "gas:candidate-vibid:2792000311593": 9,
+      "gas:candidate-vibid:2792000311620": 1,
+      "gas:candidate-vibid:2792000296789": 0,
+      "gas:candidate-vibid:2792000304638": 7,
+      "gas:candidate-vibid:2792000318167": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/jewish-aut?action=show&root=1000285&tvd=2792000296135&vrn=100100067795849&region=79&global=&sub_region=79&prver=0&pronetvd=null&vibid=2792000296135&type=464",
@@ -6541,13 +6541,13 @@ export const duma_2016_uik_463_region_79_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дмитриенко Василий Васильевич": 0,
-      "Дудин Владимир Николаевич": 3,
-      "Лазарев Константин Александрович": 23,
-      "Ларионов Константин Иванович": 2,
-      "Проходцев Иван Дмитриевич": 7,
-      "Тимченко Галина Леонидовна": 11,
-      "Тихомиров Анатолий Федорович": 28
+      "gas:candidate-vibid:2792000318091": 0,
+      "gas:candidate-vibid:2792000311444": 3,
+      "gas:candidate-vibid:2792000311593": 23,
+      "gas:candidate-vibid:2792000311620": 2,
+      "gas:candidate-vibid:2792000296789": 7,
+      "gas:candidate-vibid:2792000304638": 11,
+      "gas:candidate-vibid:2792000318167": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/jewish-aut?action=show&root=1000285&tvd=2792000296135&vrn=100100067795849&region=79&global=&sub_region=79&prver=0&pronetvd=null&vibid=2792000296135&type=464",
@@ -6598,13 +6598,13 @@ export const duma_2016_uik_463_region_79_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дмитриенко Василий Васильевич": 1,
-      "Дудин Владимир Николаевич": 4,
-      "Лазарев Константин Александрович": 15,
-      "Ларионов Константин Иванович": 2,
-      "Проходцев Иван Дмитриевич": 1,
-      "Тимченко Галина Леонидовна": 3,
-      "Тихомиров Анатолий Федорович": 66
+      "gas:candidate-vibid:2792000318091": 1,
+      "gas:candidate-vibid:2792000311444": 4,
+      "gas:candidate-vibid:2792000311593": 15,
+      "gas:candidate-vibid:2792000311620": 2,
+      "gas:candidate-vibid:2792000296789": 1,
+      "gas:candidate-vibid:2792000304638": 3,
+      "gas:candidate-vibid:2792000318167": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/jewish-aut?action=show&root=1000285&tvd=2792000296135&vrn=100100067795849&region=79&global=&sub_region=79&prver=0&pronetvd=null&vibid=2792000296135&type=464",
@@ -6655,13 +6655,13 @@ export const duma_2016_uik_463_region_79_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дмитриенко Василий Васильевич": 2,
-      "Дудин Владимир Николаевич": 9,
-      "Лазарев Константин Александрович": 32,
-      "Ларионов Константин Иванович": 4,
-      "Проходцев Иван Дмитриевич": 14,
-      "Тимченко Галина Леонидовна": 20,
-      "Тихомиров Анатолий Федорович": 133
+      "gas:candidate-vibid:2792000318091": 2,
+      "gas:candidate-vibid:2792000311444": 9,
+      "gas:candidate-vibid:2792000311593": 32,
+      "gas:candidate-vibid:2792000311620": 4,
+      "gas:candidate-vibid:2792000296789": 14,
+      "gas:candidate-vibid:2792000304638": 20,
+      "gas:candidate-vibid:2792000318167": 133
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/jewish-aut?action=show&root=1000285&tvd=2792000296135&vrn=100100067795849&region=79&global=&sub_region=79&prver=0&pronetvd=null&vibid=2792000296135&type=464",
@@ -6712,13 +6712,13 @@ export const duma_2016_uik_463_region_79_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дмитриенко Василий Васильевич": 2,
-      "Дудин Владимир Николаевич": 4,
-      "Лазарев Константин Александрович": 42,
-      "Ларионов Константин Иванович": 5,
-      "Проходцев Иван Дмитриевич": 6,
-      "Тимченко Галина Леонидовна": 6,
-      "Тихомиров Анатолий Федорович": 124
+      "gas:candidate-vibid:2792000318091": 2,
+      "gas:candidate-vibid:2792000311444": 4,
+      "gas:candidate-vibid:2792000311593": 42,
+      "gas:candidate-vibid:2792000311620": 5,
+      "gas:candidate-vibid:2792000296789": 6,
+      "gas:candidate-vibid:2792000304638": 6,
+      "gas:candidate-vibid:2792000318167": 124
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/jewish-aut?action=show&root=1000285&tvd=2792000296135&vrn=100100067795849&region=79&global=&sub_region=79&prver=0&pronetvd=null&vibid=2792000296135&type=464",
@@ -6769,13 +6769,13 @@ export const duma_2016_uik_463_region_79_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дмитриенко Василий Васильевич": 0,
-      "Дудин Владимир Николаевич": 1,
-      "Лазарев Константин Александрович": 7,
-      "Ларионов Константин Иванович": 1,
-      "Проходцев Иван Дмитриевич": 1,
-      "Тимченко Галина Леонидовна": 0,
-      "Тихомиров Анатолий Федорович": 78
+      "gas:candidate-vibid:2792000318091": 0,
+      "gas:candidate-vibid:2792000311444": 1,
+      "gas:candidate-vibid:2792000311593": 7,
+      "gas:candidate-vibid:2792000311620": 1,
+      "gas:candidate-vibid:2792000296789": 1,
+      "gas:candidate-vibid:2792000304638": 0,
+      "gas:candidate-vibid:2792000318167": 78
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/jewish-aut?action=show&root=1000285&tvd=2792000296135&vrn=100100067795849&region=79&global=&sub_region=79&prver=0&pronetvd=null&vibid=2792000296135&type=464",
@@ -6826,13 +6826,13 @@ export const duma_2016_uik_463_region_79_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дмитриенко Василий Васильевич": 3,
-      "Дудин Владимир Николаевич": 2,
-      "Лазарев Константин Александрович": 18,
-      "Ларионов Константин Иванович": 3,
-      "Проходцев Иван Дмитриевич": 3,
-      "Тимченко Галина Леонидовна": 10,
-      "Тихомиров Анатолий Федорович": 70
+      "gas:candidate-vibid:2792000318091": 3,
+      "gas:candidate-vibid:2792000311444": 2,
+      "gas:candidate-vibid:2792000311593": 18,
+      "gas:candidate-vibid:2792000311620": 3,
+      "gas:candidate-vibid:2792000296789": 3,
+      "gas:candidate-vibid:2792000304638": 10,
+      "gas:candidate-vibid:2792000318167": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/jewish-aut?action=show&root=1000285&tvd=2792000296135&vrn=100100067795849&region=79&global=&sub_region=79&prver=0&pronetvd=null&vibid=2792000296135&type=464",
@@ -6883,13 +6883,13 @@ export const duma_2016_uik_463_region_79_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дмитриенко Василий Васильевич": 10,
-      "Дудин Владимир Николаевич": 6,
-      "Лазарев Константин Александрович": 34,
-      "Ларионов Константин Иванович": 10,
-      "Проходцев Иван Дмитриевич": 14,
-      "Тимченко Галина Леонидовна": 37,
-      "Тихомиров Анатолий Федорович": 71
+      "gas:candidate-vibid:2792000318091": 10,
+      "gas:candidate-vibid:2792000311444": 6,
+      "gas:candidate-vibid:2792000311593": 34,
+      "gas:candidate-vibid:2792000311620": 10,
+      "gas:candidate-vibid:2792000296789": 14,
+      "gas:candidate-vibid:2792000304638": 37,
+      "gas:candidate-vibid:2792000318167": 71
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/jewish-aut?action=show&root=1000285&tvd=2792000296135&vrn=100100067795849&region=79&global=&sub_region=79&prver=0&pronetvd=null&vibid=2792000296135&type=464",
@@ -6940,13 +6940,13 @@ export const duma_2016_uik_463_region_79_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дмитриенко Василий Васильевич": 2,
-      "Дудин Владимир Николаевич": 7,
-      "Лазарев Константин Александрович": 16,
-      "Ларионов Константин Иванович": 5,
-      "Проходцев Иван Дмитриевич": 15,
-      "Тимченко Галина Леонидовна": 12,
-      "Тихомиров Анатолий Федорович": 48
+      "gas:candidate-vibid:2792000318091": 2,
+      "gas:candidate-vibid:2792000311444": 7,
+      "gas:candidate-vibid:2792000311593": 16,
+      "gas:candidate-vibid:2792000311620": 5,
+      "gas:candidate-vibid:2792000296789": 15,
+      "gas:candidate-vibid:2792000304638": 12,
+      "gas:candidate-vibid:2792000318167": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/jewish-aut?action=show&root=1000285&tvd=2792000296135&vrn=100100067795849&region=79&global=&sub_region=79&prver=0&pronetvd=null&vibid=2792000296135&type=464",
@@ -6997,13 +6997,13 @@ export const duma_2016_uik_463_region_79_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дмитриенко Василий Васильевич": 2,
-      "Дудин Владимир Николаевич": 2,
-      "Лазарев Константин Александрович": 7,
-      "Ларионов Константин Иванович": 0,
-      "Проходцев Иван Дмитриевич": 6,
-      "Тимченко Галина Леонидовна": 13,
-      "Тихомиров Анатолий Федорович": 33
+      "gas:candidate-vibid:2792000318091": 2,
+      "gas:candidate-vibid:2792000311444": 2,
+      "gas:candidate-vibid:2792000311593": 7,
+      "gas:candidate-vibid:2792000311620": 0,
+      "gas:candidate-vibid:2792000296789": 6,
+      "gas:candidate-vibid:2792000304638": 13,
+      "gas:candidate-vibid:2792000318167": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/jewish-aut?action=show&root=1000285&tvd=2792000296135&vrn=100100067795849&region=79&global=&sub_region=79&prver=0&pronetvd=null&vibid=2792000296135&type=464",
@@ -7054,13 +7054,13 @@ export const duma_2016_uik_463_region_79_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дмитриенко Василий Васильевич": 0,
-      "Дудин Владимир Николаевич": 0,
-      "Лазарев Константин Александрович": 11,
-      "Ларионов Константин Иванович": 1,
-      "Проходцев Иван Дмитриевич": 5,
-      "Тимченко Галина Леонидовна": 6,
-      "Тихомиров Анатолий Федорович": 45
+      "gas:candidate-vibid:2792000318091": 0,
+      "gas:candidate-vibid:2792000311444": 0,
+      "gas:candidate-vibid:2792000311593": 11,
+      "gas:candidate-vibid:2792000311620": 1,
+      "gas:candidate-vibid:2792000296789": 5,
+      "gas:candidate-vibid:2792000304638": 6,
+      "gas:candidate-vibid:2792000318167": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/jewish-aut?action=show&root=1000285&tvd=2792000296135&vrn=100100067795849&region=79&global=&sub_region=79&prver=0&pronetvd=null&vibid=2792000296135&type=464",
@@ -7111,13 +7111,13 @@ export const duma_2016_uik_463_region_79_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дмитриенко Василий Васильевич": 0,
-      "Дудин Владимир Николаевич": 5,
-      "Лазарев Константин Александрович": 12,
-      "Ларионов Константин Иванович": 5,
-      "Проходцев Иван Дмитриевич": 3,
-      "Тимченко Галина Леонидовна": 14,
-      "Тихомиров Анатолий Федорович": 33
+      "gas:candidate-vibid:2792000318091": 0,
+      "gas:candidate-vibid:2792000311444": 5,
+      "gas:candidate-vibid:2792000311593": 12,
+      "gas:candidate-vibid:2792000311620": 5,
+      "gas:candidate-vibid:2792000296789": 3,
+      "gas:candidate-vibid:2792000304638": 14,
+      "gas:candidate-vibid:2792000318167": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/jewish-aut?action=show&root=1000285&tvd=2792000296135&vrn=100100067795849&region=79&global=&sub_region=79&prver=0&pronetvd=null&vibid=2792000296135&type=464",
@@ -7168,13 +7168,13 @@ export const duma_2016_uik_463_region_79_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дмитриенко Василий Васильевич": 0,
-      "Дудин Владимир Николаевич": 3,
-      "Лазарев Константин Александрович": 15,
-      "Ларионов Константин Иванович": 0,
-      "Проходцев Иван Дмитриевич": 3,
-      "Тимченко Галина Леонидовна": 15,
-      "Тихомиров Анатолий Федорович": 28
+      "gas:candidate-vibid:2792000318091": 0,
+      "gas:candidate-vibid:2792000311444": 3,
+      "gas:candidate-vibid:2792000311593": 15,
+      "gas:candidate-vibid:2792000311620": 0,
+      "gas:candidate-vibid:2792000296789": 3,
+      "gas:candidate-vibid:2792000304638": 15,
+      "gas:candidate-vibid:2792000318167": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/jewish-aut?action=show&root=1000285&tvd=2792000296135&vrn=100100067795849&region=79&global=&sub_region=79&prver=0&pronetvd=null&vibid=2792000296135&type=464",
@@ -7225,13 +7225,13 @@ export const duma_2016_uik_463_region_79_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дмитриенко Василий Васильевич": 3,
-      "Дудин Владимир Николаевич": 2,
-      "Лазарев Константин Александрович": 9,
-      "Ларионов Константин Иванович": 1,
-      "Проходцев Иван Дмитриевич": 3,
-      "Тимченко Галина Леонидовна": 9,
-      "Тихомиров Анатолий Федорович": 58
+      "gas:candidate-vibid:2792000318091": 3,
+      "gas:candidate-vibid:2792000311444": 2,
+      "gas:candidate-vibid:2792000311593": 9,
+      "gas:candidate-vibid:2792000311620": 1,
+      "gas:candidate-vibid:2792000296789": 3,
+      "gas:candidate-vibid:2792000304638": 9,
+      "gas:candidate-vibid:2792000318167": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/jewish-aut?action=show&root=1000285&tvd=2792000296135&vrn=100100067795849&region=79&global=&sub_region=79&prver=0&pronetvd=null&vibid=2792000296135&type=464",
@@ -7282,13 +7282,13 @@ export const duma_2016_uik_463_region_79_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дмитриенко Василий Васильевич": 9,
-      "Дудин Владимир Николаевич": 49,
-      "Лазарев Константин Александрович": 223,
-      "Ларионов Константин Иванович": 28,
-      "Проходцев Иван Дмитриевич": 95,
-      "Тимченко Галина Леонидовна": 136,
-      "Тихомиров Анатолий Федорович": 239
+      "gas:candidate-vibid:2792000318091": 9,
+      "gas:candidate-vibid:2792000311444": 49,
+      "gas:candidate-vibid:2792000311593": 223,
+      "gas:candidate-vibid:2792000311620": 28,
+      "gas:candidate-vibid:2792000296789": 95,
+      "gas:candidate-vibid:2792000304638": 136,
+      "gas:candidate-vibid:2792000318167": 239
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/jewish-aut?action=show&root=1000285&tvd=2792000296136&vrn=100100067795849&region=79&global=&sub_region=79&prver=0&pronetvd=null&vibid=2792000296136&type=464",
@@ -7339,13 +7339,13 @@ export const duma_2016_uik_463_region_79_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дмитриенко Василий Васильевич": 13,
-      "Дудин Владимир Николаевич": 50,
-      "Лазарев Константин Александрович": 205,
-      "Ларионов Константин Иванович": 31,
-      "Проходцев Иван Дмитриевич": 88,
-      "Тимченко Галина Леонидовна": 150,
-      "Тихомиров Анатолий Федорович": 233
+      "gas:candidate-vibid:2792000318091": 13,
+      "gas:candidate-vibid:2792000311444": 50,
+      "gas:candidate-vibid:2792000311593": 205,
+      "gas:candidate-vibid:2792000311620": 31,
+      "gas:candidate-vibid:2792000296789": 88,
+      "gas:candidate-vibid:2792000304638": 150,
+      "gas:candidate-vibid:2792000318167": 233
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/jewish-aut?action=show&root=1000285&tvd=2792000296136&vrn=100100067795849&region=79&global=&sub_region=79&prver=0&pronetvd=null&vibid=2792000296136&type=464",
@@ -7396,13 +7396,13 @@ export const duma_2016_uik_463_region_79_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дмитриенко Василий Васильевич": 15,
-      "Дудин Владимир Николаевич": 35,
-      "Лазарев Константин Александрович": 210,
-      "Ларионов Константин Иванович": 27,
-      "Проходцев Иван Дмитриевич": 111,
-      "Тимченко Галина Леонидовна": 111,
-      "Тихомиров Анатолий Федорович": 180
+      "gas:candidate-vibid:2792000318091": 15,
+      "gas:candidate-vibid:2792000311444": 35,
+      "gas:candidate-vibid:2792000311593": 210,
+      "gas:candidate-vibid:2792000311620": 27,
+      "gas:candidate-vibid:2792000296789": 111,
+      "gas:candidate-vibid:2792000304638": 111,
+      "gas:candidate-vibid:2792000318167": 180
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/jewish-aut?action=show&root=1000285&tvd=2792000296136&vrn=100100067795849&region=79&global=&sub_region=79&prver=0&pronetvd=null&vibid=2792000296136&type=464",
@@ -7453,13 +7453,13 @@ export const duma_2016_uik_463_region_79_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дмитриенко Василий Васильевич": 12,
-      "Дудин Владимир Николаевич": 22,
-      "Лазарев Константин Александрович": 162,
-      "Ларионов Константин Иванович": 21,
-      "Проходцев Иван Дмитриевич": 52,
-      "Тимченко Галина Леонидовна": 100,
-      "Тихомиров Анатолий Федорович": 142
+      "gas:candidate-vibid:2792000318091": 12,
+      "gas:candidate-vibid:2792000311444": 22,
+      "gas:candidate-vibid:2792000311593": 162,
+      "gas:candidate-vibid:2792000311620": 21,
+      "gas:candidate-vibid:2792000296789": 52,
+      "gas:candidate-vibid:2792000304638": 100,
+      "gas:candidate-vibid:2792000318167": 142
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/jewish-aut?action=show&root=1000285&tvd=2792000296136&vrn=100100067795849&region=79&global=&sub_region=79&prver=0&pronetvd=null&vibid=2792000296136&type=464",
@@ -7510,13 +7510,13 @@ export const duma_2016_uik_463_region_79_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дмитриенко Василий Васильевич": 22,
-      "Дудин Владимир Николаевич": 65,
-      "Лазарев Константин Александрович": 278,
-      "Ларионов Константин Иванович": 29,
-      "Проходцев Иван Дмитриевич": 102,
-      "Тимченко Галина Леонидовна": 192,
-      "Тихомиров Анатолий Федорович": 252
+      "gas:candidate-vibid:2792000318091": 22,
+      "gas:candidate-vibid:2792000311444": 65,
+      "gas:candidate-vibid:2792000311593": 278,
+      "gas:candidate-vibid:2792000311620": 29,
+      "gas:candidate-vibid:2792000296789": 102,
+      "gas:candidate-vibid:2792000304638": 192,
+      "gas:candidate-vibid:2792000318167": 252
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/jewish-aut?action=show&root=1000285&tvd=2792000296136&vrn=100100067795849&region=79&global=&sub_region=79&prver=0&pronetvd=null&vibid=2792000296136&type=464",
@@ -7567,13 +7567,13 @@ export const duma_2016_uik_463_region_79_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дмитриенко Василий Васильевич": 8,
-      "Дудин Владимир Николаевич": 45,
-      "Лазарев Константин Александрович": 195,
-      "Ларионов Константин Иванович": 28,
-      "Проходцев Иван Дмитриевич": 53,
-      "Тимченко Галина Леонидовна": 174,
-      "Тихомиров Анатолий Федорович": 272
+      "gas:candidate-vibid:2792000318091": 8,
+      "gas:candidate-vibid:2792000311444": 45,
+      "gas:candidate-vibid:2792000311593": 195,
+      "gas:candidate-vibid:2792000311620": 28,
+      "gas:candidate-vibid:2792000296789": 53,
+      "gas:candidate-vibid:2792000304638": 174,
+      "gas:candidate-vibid:2792000318167": 272
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/jewish-aut?action=show&root=1000285&tvd=2792000296136&vrn=100100067795849&region=79&global=&sub_region=79&prver=0&pronetvd=null&vibid=2792000296136&type=464",
@@ -7624,13 +7624,13 @@ export const duma_2016_uik_463_region_79_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дмитриенко Василий Васильевич": 23,
-      "Дудин Владимир Николаевич": 56,
-      "Лазарев Константин Александрович": 276,
-      "Ларионов Константин Иванович": 58,
-      "Проходцев Иван Дмитриевич": 87,
-      "Тимченко Галина Леонидовна": 172,
-      "Тихомиров Анатолий Федорович": 247
+      "gas:candidate-vibid:2792000318091": 23,
+      "gas:candidate-vibid:2792000311444": 56,
+      "gas:candidate-vibid:2792000311593": 276,
+      "gas:candidate-vibid:2792000311620": 58,
+      "gas:candidate-vibid:2792000296789": 87,
+      "gas:candidate-vibid:2792000304638": 172,
+      "gas:candidate-vibid:2792000318167": 247
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/jewish-aut?action=show&root=1000285&tvd=2792000296136&vrn=100100067795849&region=79&global=&sub_region=79&prver=0&pronetvd=null&vibid=2792000296136&type=464",
@@ -7681,13 +7681,13 @@ export const duma_2016_uik_463_region_79_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дмитриенко Василий Васильевич": 18,
-      "Дудин Владимир Николаевич": 65,
-      "Лазарев Константин Александрович": 249,
-      "Ларионов Константин Иванович": 30,
-      "Проходцев Иван Дмитриевич": 98,
-      "Тимченко Галина Леонидовна": 199,
-      "Тихомиров Анатолий Федорович": 253
+      "gas:candidate-vibid:2792000318091": 18,
+      "gas:candidate-vibid:2792000311444": 65,
+      "gas:candidate-vibid:2792000311593": 249,
+      "gas:candidate-vibid:2792000311620": 30,
+      "gas:candidate-vibid:2792000296789": 98,
+      "gas:candidate-vibid:2792000304638": 199,
+      "gas:candidate-vibid:2792000318167": 253
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/jewish-aut?action=show&root=1000285&tvd=2792000296136&vrn=100100067795849&region=79&global=&sub_region=79&prver=0&pronetvd=null&vibid=2792000296136&type=464",
@@ -7738,13 +7738,13 @@ export const duma_2016_uik_463_region_79_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дмитриенко Василий Васильевич": 22,
-      "Дудин Владимир Николаевич": 68,
-      "Лазарев Константин Александрович": 282,
-      "Ларионов Константин Иванович": 31,
-      "Проходцев Иван Дмитриевич": 129,
-      "Тимченко Галина Леонидовна": 187,
-      "Тихомиров Анатолий Федорович": 303
+      "gas:candidate-vibid:2792000318091": 22,
+      "gas:candidate-vibid:2792000311444": 68,
+      "gas:candidate-vibid:2792000311593": 282,
+      "gas:candidate-vibid:2792000311620": 31,
+      "gas:candidate-vibid:2792000296789": 129,
+      "gas:candidate-vibid:2792000304638": 187,
+      "gas:candidate-vibid:2792000318167": 303
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/jewish-aut?action=show&root=1000285&tvd=2792000296136&vrn=100100067795849&region=79&global=&sub_region=79&prver=0&pronetvd=null&vibid=2792000296136&type=464",
@@ -7795,13 +7795,13 @@ export const duma_2016_uik_463_region_79_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дмитриенко Василий Васильевич": 11,
-      "Дудин Владимир Николаевич": 41,
-      "Лазарев Константин Александрович": 137,
-      "Ларионов Константин Иванович": 17,
-      "Проходцев Иван Дмитриевич": 55,
-      "Тимченко Галина Леонидовна": 94,
-      "Тихомиров Анатолий Федорович": 173
+      "gas:candidate-vibid:2792000318091": 11,
+      "gas:candidate-vibid:2792000311444": 41,
+      "gas:candidate-vibid:2792000311593": 137,
+      "gas:candidate-vibid:2792000311620": 17,
+      "gas:candidate-vibid:2792000296789": 55,
+      "gas:candidate-vibid:2792000304638": 94,
+      "gas:candidate-vibid:2792000318167": 173
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/jewish-aut?action=show&root=1000285&tvd=2792000296136&vrn=100100067795849&region=79&global=&sub_region=79&prver=0&pronetvd=null&vibid=2792000296136&type=464",
@@ -7852,13 +7852,13 @@ export const duma_2016_uik_463_region_79_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дмитриенко Василий Васильевич": 9,
-      "Дудин Владимир Николаевич": 34,
-      "Лазарев Константин Александрович": 155,
-      "Ларионов Константин Иванович": 9,
-      "Проходцев Иван Дмитриевич": 74,
-      "Тимченко Галина Леонидовна": 65,
-      "Тихомиров Анатолий Федорович": 146
+      "gas:candidate-vibid:2792000318091": 9,
+      "gas:candidate-vibid:2792000311444": 34,
+      "gas:candidate-vibid:2792000311593": 155,
+      "gas:candidate-vibid:2792000311620": 9,
+      "gas:candidate-vibid:2792000296789": 74,
+      "gas:candidate-vibid:2792000304638": 65,
+      "gas:candidate-vibid:2792000318167": 146
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/jewish-aut?action=show&root=1000285&tvd=2792000296136&vrn=100100067795849&region=79&global=&sub_region=79&prver=0&pronetvd=null&vibid=2792000296136&type=464",
@@ -7909,13 +7909,13 @@ export const duma_2016_uik_463_region_79_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дмитриенко Василий Васильевич": 7,
-      "Дудин Владимир Николаевич": 34,
-      "Лазарев Константин Александрович": 123,
-      "Ларионов Константин Иванович": 8,
-      "Проходцев Иван Дмитриевич": 48,
-      "Тимченко Галина Леонидовна": 56,
-      "Тихомиров Анатолий Федорович": 104
+      "gas:candidate-vibid:2792000318091": 7,
+      "gas:candidate-vibid:2792000311444": 34,
+      "gas:candidate-vibid:2792000311593": 123,
+      "gas:candidate-vibid:2792000311620": 8,
+      "gas:candidate-vibid:2792000296789": 48,
+      "gas:candidate-vibid:2792000304638": 56,
+      "gas:candidate-vibid:2792000318167": 104
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/jewish-aut?action=show&root=1000285&tvd=2792000296136&vrn=100100067795849&region=79&global=&sub_region=79&prver=0&pronetvd=null&vibid=2792000296136&type=464",
@@ -7966,13 +7966,13 @@ export const duma_2016_uik_463_region_79_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дмитриенко Василий Васильевич": 7,
-      "Дудин Владимир Николаевич": 44,
-      "Лазарев Константин Александрович": 108,
-      "Ларионов Константин Иванович": 13,
-      "Проходцев Иван Дмитриевич": 57,
-      "Тимченко Галина Леонидовна": 63,
-      "Тихомиров Анатолий Федорович": 115
+      "gas:candidate-vibid:2792000318091": 7,
+      "gas:candidate-vibid:2792000311444": 44,
+      "gas:candidate-vibid:2792000311593": 108,
+      "gas:candidate-vibid:2792000311620": 13,
+      "gas:candidate-vibid:2792000296789": 57,
+      "gas:candidate-vibid:2792000304638": 63,
+      "gas:candidate-vibid:2792000318167": 115
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/jewish-aut?action=show&root=1000285&tvd=2792000296136&vrn=100100067795849&region=79&global=&sub_region=79&prver=0&pronetvd=null&vibid=2792000296136&type=464",
@@ -8023,13 +8023,13 @@ export const duma_2016_uik_463_region_79_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дмитриенко Василий Васильевич": 2,
-      "Дудин Владимир Николаевич": 2,
-      "Лазарев Константин Александрович": 17,
-      "Ларионов Константин Иванович": 8,
-      "Проходцев Иван Дмитриевич": 5,
-      "Тимченко Галина Леонидовна": 24,
-      "Тихомиров Анатолий Федорович": 25
+      "gas:candidate-vibid:2792000318091": 2,
+      "gas:candidate-vibid:2792000311444": 2,
+      "gas:candidate-vibid:2792000311593": 17,
+      "gas:candidate-vibid:2792000311620": 8,
+      "gas:candidate-vibid:2792000296789": 5,
+      "gas:candidate-vibid:2792000304638": 24,
+      "gas:candidate-vibid:2792000318167": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/jewish-aut?action=show&root=1000285&tvd=2792000296136&vrn=100100067795849&region=79&global=&sub_region=79&prver=0&pronetvd=null&vibid=2792000296136&type=464",
@@ -8080,13 +8080,13 @@ export const duma_2016_uik_463_region_79_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дмитриенко Василий Васильевич": 3,
-      "Дудин Владимир Николаевич": 16,
-      "Лазарев Константин Александрович": 69,
-      "Ларионов Константин Иванович": 7,
-      "Проходцев Иван Дмитриевич": 23,
-      "Тимченко Галина Леонидовна": 69,
-      "Тихомиров Анатолий Федорович": 64
+      "gas:candidate-vibid:2792000318091": 3,
+      "gas:candidate-vibid:2792000311444": 16,
+      "gas:candidate-vibid:2792000311593": 69,
+      "gas:candidate-vibid:2792000311620": 7,
+      "gas:candidate-vibid:2792000296789": 23,
+      "gas:candidate-vibid:2792000304638": 69,
+      "gas:candidate-vibid:2792000318167": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/jewish-aut?action=show&root=1000285&tvd=2792000296136&vrn=100100067795849&region=79&global=&sub_region=79&prver=0&pronetvd=null&vibid=2792000296136&type=464",
@@ -8137,13 +8137,13 @@ export const duma_2016_uik_463_region_79_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дмитриенко Василий Васильевич": 11,
-      "Дудин Владимир Николаевич": 13,
-      "Лазарев Константин Александрович": 108,
-      "Ларионов Константин Иванович": 15,
-      "Проходцев Иван Дмитриевич": 60,
-      "Тимченко Галина Леонидовна": 57,
-      "Тихомиров Анатолий Федорович": 117
+      "gas:candidate-vibid:2792000318091": 11,
+      "gas:candidate-vibid:2792000311444": 13,
+      "gas:candidate-vibid:2792000311593": 108,
+      "gas:candidate-vibid:2792000311620": 15,
+      "gas:candidate-vibid:2792000296789": 60,
+      "gas:candidate-vibid:2792000304638": 57,
+      "gas:candidate-vibid:2792000318167": 117
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/jewish-aut?action=show&root=1000285&tvd=2792000296136&vrn=100100067795849&region=79&global=&sub_region=79&prver=0&pronetvd=null&vibid=2792000296136&type=464",
@@ -8194,13 +8194,13 @@ export const duma_2016_uik_463_region_79_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дмитриенко Василий Васильевич": 9,
-      "Дудин Владимир Николаевич": 32,
-      "Лазарев Константин Александрович": 127,
-      "Ларионов Константин Иванович": 12,
-      "Проходцев Иван Дмитриевич": 74,
-      "Тимченко Галина Леонидовна": 95,
-      "Тихомиров Анатолий Федорович": 141
+      "gas:candidate-vibid:2792000318091": 9,
+      "gas:candidate-vibid:2792000311444": 32,
+      "gas:candidate-vibid:2792000311593": 127,
+      "gas:candidate-vibid:2792000311620": 12,
+      "gas:candidate-vibid:2792000296789": 74,
+      "gas:candidate-vibid:2792000304638": 95,
+      "gas:candidate-vibid:2792000318167": 141
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/jewish-aut?action=show&root=1000285&tvd=2792000296136&vrn=100100067795849&region=79&global=&sub_region=79&prver=0&pronetvd=null&vibid=2792000296136&type=464",
@@ -8251,13 +8251,13 @@ export const duma_2016_uik_463_region_79_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дмитриенко Василий Васильевич": 10,
-      "Дудин Владимир Николаевич": 23,
-      "Лазарев Константин Александрович": 74,
-      "Ларионов Константин Иванович": 7,
-      "Проходцев Иван Дмитриевич": 54,
-      "Тимченко Галина Леонидовна": 48,
-      "Тихомиров Анатолий Федорович": 120
+      "gas:candidate-vibid:2792000318091": 10,
+      "gas:candidate-vibid:2792000311444": 23,
+      "gas:candidate-vibid:2792000311593": 74,
+      "gas:candidate-vibid:2792000311620": 7,
+      "gas:candidate-vibid:2792000296789": 54,
+      "gas:candidate-vibid:2792000304638": 48,
+      "gas:candidate-vibid:2792000318167": 120
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/jewish-aut?action=show&root=1000285&tvd=2792000296136&vrn=100100067795849&region=79&global=&sub_region=79&prver=0&pronetvd=null&vibid=2792000296136&type=464",
@@ -8308,13 +8308,13 @@ export const duma_2016_uik_463_region_79_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дмитриенко Василий Васильевич": 3,
-      "Дудин Владимир Николаевич": 9,
-      "Лазарев Константин Александрович": 9,
-      "Ларионов Константин Иванович": 5,
-      "Проходцев Иван Дмитриевич": 3,
-      "Тимченко Галина Леонидовна": 16,
-      "Тихомиров Анатолий Федорович": 35
+      "gas:candidate-vibid:2792000318091": 3,
+      "gas:candidate-vibid:2792000311444": 9,
+      "gas:candidate-vibid:2792000311593": 9,
+      "gas:candidate-vibid:2792000311620": 5,
+      "gas:candidate-vibid:2792000296789": 3,
+      "gas:candidate-vibid:2792000304638": 16,
+      "gas:candidate-vibid:2792000318167": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/jewish-aut?action=show&root=1000285&tvd=2792000296136&vrn=100100067795849&region=79&global=&sub_region=79&prver=0&pronetvd=null&vibid=2792000296136&type=464",
@@ -8365,13 +8365,13 @@ export const duma_2016_uik_463_region_79_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дмитриенко Василий Васильевич": 3,
-      "Дудин Владимир Николаевич": 7,
-      "Лазарев Константин Александрович": 13,
-      "Ларионов Константин Иванович": 7,
-      "Проходцев Иван Дмитриевич": 10,
-      "Тимченко Галина Леонидовна": 29,
-      "Тихомиров Анатолий Федорович": 56
+      "gas:candidate-vibid:2792000318091": 3,
+      "gas:candidate-vibid:2792000311444": 7,
+      "gas:candidate-vibid:2792000311593": 13,
+      "gas:candidate-vibid:2792000311620": 7,
+      "gas:candidate-vibid:2792000296789": 10,
+      "gas:candidate-vibid:2792000304638": 29,
+      "gas:candidate-vibid:2792000318167": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/jewish-aut?action=show&root=1000285&tvd=2792000296136&vrn=100100067795849&region=79&global=&sub_region=79&prver=0&pronetvd=null&vibid=2792000296136&type=464",
@@ -8422,13 +8422,13 @@ export const duma_2016_uik_463_region_79_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дмитриенко Василий Васильевич": 0,
-      "Дудин Владимир Николаевич": 11,
-      "Лазарев Константин Александрович": 24,
-      "Ларионов Константин Иванович": 6,
-      "Проходцев Иван Дмитриевич": 17,
-      "Тимченко Галина Леонидовна": 73,
-      "Тихомиров Анатолий Федорович": 52
+      "gas:candidate-vibid:2792000318091": 0,
+      "gas:candidate-vibid:2792000311444": 11,
+      "gas:candidate-vibid:2792000311593": 24,
+      "gas:candidate-vibid:2792000311620": 6,
+      "gas:candidate-vibid:2792000296789": 17,
+      "gas:candidate-vibid:2792000304638": 73,
+      "gas:candidate-vibid:2792000318167": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/jewish-aut?action=show&root=1000285&tvd=2792000296136&vrn=100100067795849&region=79&global=&sub_region=79&prver=0&pronetvd=null&vibid=2792000296136&type=464",
@@ -8479,13 +8479,13 @@ export const duma_2016_uik_463_region_79_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дмитриенко Василий Васильевич": 9,
-      "Дудин Владимир Николаевич": 14,
-      "Лазарев Константин Александрович": 109,
-      "Ларионов Константин Иванович": 18,
-      "Проходцев Иван Дмитриевич": 37,
-      "Тимченко Галина Леонидовна": 38,
-      "Тихомиров Анатолий Федорович": 105
+      "gas:candidate-vibid:2792000318091": 9,
+      "gas:candidate-vibid:2792000311444": 14,
+      "gas:candidate-vibid:2792000311593": 109,
+      "gas:candidate-vibid:2792000311620": 18,
+      "gas:candidate-vibid:2792000296789": 37,
+      "gas:candidate-vibid:2792000304638": 38,
+      "gas:candidate-vibid:2792000318167": 105
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/jewish-aut?action=show&root=1000285&tvd=2792000296136&vrn=100100067795849&region=79&global=&sub_region=79&prver=0&pronetvd=null&vibid=2792000296136&type=464",
@@ -8536,13 +8536,13 @@ export const duma_2016_uik_463_region_79_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дмитриенко Василий Васильевич": 13,
-      "Дудин Владимир Николаевич": 50,
-      "Лазарев Константин Александрович": 168,
-      "Ларионов Константин Иванович": 23,
-      "Проходцев Иван Дмитриевич": 70,
-      "Тимченко Галина Леонидовна": 139,
-      "Тихомиров Анатолий Федорович": 247
+      "gas:candidate-vibid:2792000318091": 13,
+      "gas:candidate-vibid:2792000311444": 50,
+      "gas:candidate-vibid:2792000311593": 168,
+      "gas:candidate-vibid:2792000311620": 23,
+      "gas:candidate-vibid:2792000296789": 70,
+      "gas:candidate-vibid:2792000304638": 139,
+      "gas:candidate-vibid:2792000318167": 247
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/jewish-aut?action=show&root=1000285&tvd=2792000296136&vrn=100100067795849&region=79&global=&sub_region=79&prver=0&pronetvd=null&vibid=2792000296136&type=464",
@@ -8593,13 +8593,13 @@ export const duma_2016_uik_463_region_79_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дмитриенко Василий Васильевич": 3,
-      "Дудин Владимир Николаевич": 12,
-      "Лазарев Константин Александрович": 21,
-      "Ларионов Константин Иванович": 8,
-      "Проходцев Иван Дмитриевич": 9,
-      "Тимченко Галина Леонидовна": 34,
-      "Тихомиров Анатолий Федорович": 33
+      "gas:candidate-vibid:2792000318091": 3,
+      "gas:candidate-vibid:2792000311444": 12,
+      "gas:candidate-vibid:2792000311593": 21,
+      "gas:candidate-vibid:2792000311620": 8,
+      "gas:candidate-vibid:2792000296789": 9,
+      "gas:candidate-vibid:2792000304638": 34,
+      "gas:candidate-vibid:2792000318167": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/jewish-aut?action=show&root=1000285&tvd=2792000296136&vrn=100100067795849&region=79&global=&sub_region=79&prver=0&pronetvd=null&vibid=2792000296136&type=464",
@@ -8650,13 +8650,13 @@ export const duma_2016_uik_463_region_79_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дмитриенко Василий Васильевич": 1,
-      "Дудин Владимир Николаевич": 12,
-      "Лазарев Константин Александрович": 41,
-      "Ларионов Константин Иванович": 11,
-      "Проходцев Иван Дмитриевич": 31,
-      "Тимченко Галина Леонидовна": 44,
-      "Тихомиров Анатолий Федорович": 60
+      "gas:candidate-vibid:2792000318091": 1,
+      "gas:candidate-vibid:2792000311444": 12,
+      "gas:candidate-vibid:2792000311593": 41,
+      "gas:candidate-vibid:2792000311620": 11,
+      "gas:candidate-vibid:2792000296789": 31,
+      "gas:candidate-vibid:2792000304638": 44,
+      "gas:candidate-vibid:2792000318167": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/jewish-aut?action=show&root=1000285&tvd=2792000296136&vrn=100100067795849&region=79&global=&sub_region=79&prver=0&pronetvd=null&vibid=2792000296136&type=464",
@@ -8707,13 +8707,13 @@ export const duma_2016_uik_463_region_79_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дмитриенко Василий Васильевич": 11,
-      "Дудин Владимир Николаевич": 50,
-      "Лазарев Константин Александрович": 164,
-      "Ларионов Константин Иванович": 27,
-      "Проходцев Иван Дмитриевич": 72,
-      "Тимченко Галина Леонидовна": 89,
-      "Тихомиров Анатолий Федорович": 186
+      "gas:candidate-vibid:2792000318091": 11,
+      "gas:candidate-vibid:2792000311444": 50,
+      "gas:candidate-vibid:2792000311593": 164,
+      "gas:candidate-vibid:2792000311620": 27,
+      "gas:candidate-vibid:2792000296789": 72,
+      "gas:candidate-vibid:2792000304638": 89,
+      "gas:candidate-vibid:2792000318167": 186
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/jewish-aut?action=show&root=1000285&tvd=2792000296136&vrn=100100067795849&region=79&global=&sub_region=79&prver=0&pronetvd=null&vibid=2792000296136&type=464",
@@ -8764,13 +8764,13 @@ export const duma_2016_uik_463_region_79_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дмитриенко Василий Васильевич": 6,
-      "Дудин Владимир Николаевич": 9,
-      "Лазарев Константин Александрович": 50,
-      "Ларионов Константин Иванович": 9,
-      "Проходцев Иван Дмитриевич": 30,
-      "Тимченко Галина Леонидовна": 47,
-      "Тихомиров Анатолий Федорович": 61
+      "gas:candidate-vibid:2792000318091": 6,
+      "gas:candidate-vibid:2792000311444": 9,
+      "gas:candidate-vibid:2792000311593": 50,
+      "gas:candidate-vibid:2792000311620": 9,
+      "gas:candidate-vibid:2792000296789": 30,
+      "gas:candidate-vibid:2792000304638": 47,
+      "gas:candidate-vibid:2792000318167": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/jewish-aut?action=show&root=1000285&tvd=2792000296136&vrn=100100067795849&region=79&global=&sub_region=79&prver=0&pronetvd=null&vibid=2792000296136&type=464",
@@ -8821,13 +8821,13 @@ export const duma_2016_uik_463_region_79_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дмитриенко Василий Васильевич": 14,
-      "Дудин Владимир Николаевич": 26,
-      "Лазарев Константин Александрович": 128,
-      "Ларионов Константин Иванович": 21,
-      "Проходцев Иван Дмитриевич": 46,
-      "Тимченко Галина Леонидовна": 80,
-      "Тихомиров Анатолий Федорович": 171
+      "gas:candidate-vibid:2792000318091": 14,
+      "gas:candidate-vibid:2792000311444": 26,
+      "gas:candidate-vibid:2792000311593": 128,
+      "gas:candidate-vibid:2792000311620": 21,
+      "gas:candidate-vibid:2792000296789": 46,
+      "gas:candidate-vibid:2792000304638": 80,
+      "gas:candidate-vibid:2792000318167": 171
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/jewish-aut?action=show&root=1000285&tvd=2792000296136&vrn=100100067795849&region=79&global=&sub_region=79&prver=0&pronetvd=null&vibid=2792000296136&type=464",
@@ -8878,13 +8878,13 @@ export const duma_2016_uik_463_region_79_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дмитриенко Василий Васильевич": 1,
-      "Дудин Владимир Николаевич": 4,
-      "Лазарев Константин Александрович": 33,
-      "Ларионов Константин Иванович": 2,
-      "Проходцев Иван Дмитриевич": 20,
-      "Тимченко Галина Леонидовна": 31,
-      "Тихомиров Анатолий Федорович": 46
+      "gas:candidate-vibid:2792000318091": 1,
+      "gas:candidate-vibid:2792000311444": 4,
+      "gas:candidate-vibid:2792000311593": 33,
+      "gas:candidate-vibid:2792000311620": 2,
+      "gas:candidate-vibid:2792000296789": 20,
+      "gas:candidate-vibid:2792000304638": 31,
+      "gas:candidate-vibid:2792000318167": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/jewish-aut?action=show&root=1000285&tvd=2792000296136&vrn=100100067795849&region=79&global=&sub_region=79&prver=0&pronetvd=null&vibid=2792000296136&type=464",
@@ -8935,13 +8935,13 @@ export const duma_2016_uik_463_region_79_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дмитриенко Василий Васильевич": 18,
-      "Дудин Владимир Николаевич": 57,
-      "Лазарев Константин Александрович": 236,
-      "Ларионов Константин Иванович": 34,
-      "Проходцев Иван Дмитриевич": 92,
-      "Тимченко Галина Леонидовна": 143,
-      "Тихомиров Анатолий Федорович": 230
+      "gas:candidate-vibid:2792000318091": 18,
+      "gas:candidate-vibid:2792000311444": 57,
+      "gas:candidate-vibid:2792000311593": 236,
+      "gas:candidate-vibid:2792000311620": 34,
+      "gas:candidate-vibid:2792000296789": 92,
+      "gas:candidate-vibid:2792000304638": 143,
+      "gas:candidate-vibid:2792000318167": 230
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/jewish-aut?action=show&root=1000285&tvd=2792000296136&vrn=100100067795849&region=79&global=&sub_region=79&prver=0&pronetvd=null&vibid=2792000296136&type=464",
@@ -8992,13 +8992,13 @@ export const duma_2016_uik_463_region_79_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дмитриенко Василий Васильевич": 28,
-      "Дудин Владимир Николаевич": 55,
-      "Лазарев Константин Александрович": 238,
-      "Ларионов Константин Иванович": 34,
-      "Проходцев Иван Дмитриевич": 99,
-      "Тимченко Галина Леонидовна": 139,
-      "Тихомиров Анатолий Федорович": 270
+      "gas:candidate-vibid:2792000318091": 28,
+      "gas:candidate-vibid:2792000311444": 55,
+      "gas:candidate-vibid:2792000311593": 238,
+      "gas:candidate-vibid:2792000311620": 34,
+      "gas:candidate-vibid:2792000296789": 99,
+      "gas:candidate-vibid:2792000304638": 139,
+      "gas:candidate-vibid:2792000318167": 270
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/jewish-aut?action=show&root=1000285&tvd=2792000296136&vrn=100100067795849&region=79&global=&sub_region=79&prver=0&pronetvd=null&vibid=2792000296136&type=464",
@@ -9049,13 +9049,13 @@ export const duma_2016_uik_463_region_79_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дмитриенко Василий Васильевич": 10,
-      "Дудин Владимир Николаевич": 39,
-      "Лазарев Константин Александрович": 128,
-      "Ларионов Константин Иванович": 18,
-      "Проходцев Иван Дмитриевич": 70,
-      "Тимченко Галина Леонидовна": 89,
-      "Тихомиров Анатолий Федорович": 149
+      "gas:candidate-vibid:2792000318091": 10,
+      "gas:candidate-vibid:2792000311444": 39,
+      "gas:candidate-vibid:2792000311593": 128,
+      "gas:candidate-vibid:2792000311620": 18,
+      "gas:candidate-vibid:2792000296789": 70,
+      "gas:candidate-vibid:2792000304638": 89,
+      "gas:candidate-vibid:2792000318167": 149
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/jewish-aut?action=show&root=1000285&tvd=2792000296136&vrn=100100067795849&region=79&global=&sub_region=79&prver=0&pronetvd=null&vibid=2792000296136&type=464",
@@ -9106,13 +9106,13 @@ export const duma_2016_uik_463_region_79_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дмитриенко Василий Васильевич": 5,
-      "Дудин Владимир Николаевич": 17,
-      "Лазарев Константин Александрович": 44,
-      "Ларионов Константин Иванович": 6,
-      "Проходцев Иван Дмитриевич": 26,
-      "Тимченко Галина Леонидовна": 55,
-      "Тихомиров Анатолий Федорович": 69
+      "gas:candidate-vibid:2792000318091": 5,
+      "gas:candidate-vibid:2792000311444": 17,
+      "gas:candidate-vibid:2792000311593": 44,
+      "gas:candidate-vibid:2792000311620": 6,
+      "gas:candidate-vibid:2792000296789": 26,
+      "gas:candidate-vibid:2792000304638": 55,
+      "gas:candidate-vibid:2792000318167": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/jewish-aut?action=show&root=1000285&tvd=2792000296136&vrn=100100067795849&region=79&global=&sub_region=79&prver=0&pronetvd=null&vibid=2792000296136&type=464",
@@ -9163,13 +9163,13 @@ export const duma_2016_uik_463_region_79_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дмитриенко Василий Васильевич": 6,
-      "Дудин Владимир Николаевич": 25,
-      "Лазарев Константин Александрович": 100,
-      "Ларионов Константин Иванович": 16,
-      "Проходцев Иван Дмитриевич": 36,
-      "Тимченко Галина Леонидовна": 111,
-      "Тихомиров Анатолий Федорович": 108
+      "gas:candidate-vibid:2792000318091": 6,
+      "gas:candidate-vibid:2792000311444": 25,
+      "gas:candidate-vibid:2792000311593": 100,
+      "gas:candidate-vibid:2792000311620": 16,
+      "gas:candidate-vibid:2792000296789": 36,
+      "gas:candidate-vibid:2792000304638": 111,
+      "gas:candidate-vibid:2792000318167": 108
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/jewish-aut?action=show&root=1000285&tvd=2792000296136&vrn=100100067795849&region=79&global=&sub_region=79&prver=0&pronetvd=null&vibid=2792000296136&type=464",
@@ -9220,13 +9220,13 @@ export const duma_2016_uik_463_region_79_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дмитриенко Василий Васильевич": 0,
-      "Дудин Владимир Николаевич": 2,
-      "Лазарев Константин Александрович": 0,
-      "Ларионов Константин Иванович": 0,
-      "Проходцев Иван Дмитриевич": 1,
-      "Тимченко Галина Леонидовна": 1,
-      "Тихомиров Анатолий Федорович": 3
+      "gas:candidate-vibid:2792000318091": 0,
+      "gas:candidate-vibid:2792000311444": 2,
+      "gas:candidate-vibid:2792000311593": 0,
+      "gas:candidate-vibid:2792000311620": 0,
+      "gas:candidate-vibid:2792000296789": 1,
+      "gas:candidate-vibid:2792000304638": 1,
+      "gas:candidate-vibid:2792000318167": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/jewish-aut?action=show&root=1000285&tvd=2792000296136&vrn=100100067795849&region=79&global=&sub_region=79&prver=0&pronetvd=null&vibid=2792000296136&type=464",
@@ -9277,13 +9277,13 @@ export const duma_2016_uik_463_region_79_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дмитриенко Василий Васильевич": 2,
-      "Дудин Владимир Николаевич": 15,
-      "Лазарев Константин Александрович": 72,
-      "Ларионов Константин Иванович": 10,
-      "Проходцев Иван Дмитриевич": 26,
-      "Тимченко Галина Леонидовна": 75,
-      "Тихомиров Анатолий Федорович": 67
+      "gas:candidate-vibid:2792000318091": 2,
+      "gas:candidate-vibid:2792000311444": 15,
+      "gas:candidate-vibid:2792000311593": 72,
+      "gas:candidate-vibid:2792000311620": 10,
+      "gas:candidate-vibid:2792000296789": 26,
+      "gas:candidate-vibid:2792000304638": 75,
+      "gas:candidate-vibid:2792000318167": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/jewish-aut?action=show&root=1000285&tvd=2792000296136&vrn=100100067795849&region=79&global=&sub_region=79&prver=0&pronetvd=null&vibid=2792000296136&type=464",
@@ -9334,13 +9334,13 @@ export const duma_2016_uik_463_region_79_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дмитриенко Василий Васильевич": 6,
-      "Дудин Владимир Николаевич": 19,
-      "Лазарев Константин Александрович": 117,
-      "Ларионов Константин Иванович": 19,
-      "Проходцев Иван Дмитриевич": 87,
-      "Тимченко Галина Леонидовна": 101,
-      "Тихомиров Анатолий Федорович": 130
+      "gas:candidate-vibid:2792000318091": 6,
+      "gas:candidate-vibid:2792000311444": 19,
+      "gas:candidate-vibid:2792000311593": 117,
+      "gas:candidate-vibid:2792000311620": 19,
+      "gas:candidate-vibid:2792000296789": 87,
+      "gas:candidate-vibid:2792000304638": 101,
+      "gas:candidate-vibid:2792000318167": 130
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/jewish-aut?action=show&root=1000285&tvd=2792000296136&vrn=100100067795849&region=79&global=&sub_region=79&prver=0&pronetvd=null&vibid=2792000296136&type=464",
@@ -9391,13 +9391,13 @@ export const duma_2016_uik_463_region_79_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дмитриенко Василий Васильевич": 7,
-      "Дудин Владимир Николаевич": 30,
-      "Лазарев Константин Александрович": 81,
-      "Ларионов Константин Иванович": 13,
-      "Проходцев Иван Дмитриевич": 53,
-      "Тимченко Галина Леонидовна": 82,
-      "Тихомиров Анатолий Федорович": 158
+      "gas:candidate-vibid:2792000318091": 7,
+      "gas:candidate-vibid:2792000311444": 30,
+      "gas:candidate-vibid:2792000311593": 81,
+      "gas:candidate-vibid:2792000311620": 13,
+      "gas:candidate-vibid:2792000296789": 53,
+      "gas:candidate-vibid:2792000304638": 82,
+      "gas:candidate-vibid:2792000318167": 158
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/jewish-aut?action=show&root=1000285&tvd=2792000296136&vrn=100100067795849&region=79&global=&sub_region=79&prver=0&pronetvd=null&vibid=2792000296136&type=464",
@@ -9448,13 +9448,13 @@ export const duma_2016_uik_463_region_79_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дмитриенко Василий Васильевич": 10,
-      "Дудин Владимир Николаевич": 24,
-      "Лазарев Константин Александрович": 50,
-      "Ларионов Константин Иванович": 18,
-      "Проходцев Иван Дмитриевич": 50,
-      "Тимченко Галина Леонидовна": 70,
-      "Тихомиров Анатолий Федорович": 117
+      "gas:candidate-vibid:2792000318091": 10,
+      "gas:candidate-vibid:2792000311444": 24,
+      "gas:candidate-vibid:2792000311593": 50,
+      "gas:candidate-vibid:2792000311620": 18,
+      "gas:candidate-vibid:2792000296789": 50,
+      "gas:candidate-vibid:2792000304638": 70,
+      "gas:candidate-vibid:2792000318167": 117
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/jewish-aut?action=show&root=1000285&tvd=2792000296136&vrn=100100067795849&region=79&global=&sub_region=79&prver=0&pronetvd=null&vibid=2792000296136&type=464",
@@ -9505,13 +9505,13 @@ export const duma_2016_uik_463_region_79_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дмитриенко Василий Васильевич": 2,
-      "Дудин Владимир Николаевич": 2,
-      "Лазарев Константин Александрович": 23,
-      "Ларионов Константин Иванович": 30,
-      "Проходцев Иван Дмитриевич": 19,
-      "Тимченко Галина Леонидовна": 1,
-      "Тихомиров Анатолий Федорович": 45
+      "gas:candidate-vibid:2792000318091": 2,
+      "gas:candidate-vibid:2792000311444": 2,
+      "gas:candidate-vibid:2792000311593": 23,
+      "gas:candidate-vibid:2792000311620": 30,
+      "gas:candidate-vibid:2792000296789": 19,
+      "gas:candidate-vibid:2792000304638": 1,
+      "gas:candidate-vibid:2792000318167": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/jewish-aut?action=show&root=1000285&tvd=2792000296136&vrn=100100067795849&region=79&global=&sub_region=79&prver=0&pronetvd=null&vibid=2792000296136&type=464",
@@ -9562,13 +9562,13 @@ export const duma_2016_uik_463_region_79_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дмитриенко Василий Васильевич": 3,
-      "Дудин Владимир Николаевич": 16,
-      "Лазарев Константин Александрович": 70,
-      "Ларионов Константин Иванович": 7,
-      "Проходцев Иван Дмитриевич": 19,
-      "Тимченко Галина Леонидовна": 70,
-      "Тихомиров Анатолий Федорович": 81
+      "gas:candidate-vibid:2792000318091": 3,
+      "gas:candidate-vibid:2792000311444": 16,
+      "gas:candidate-vibid:2792000311593": 70,
+      "gas:candidate-vibid:2792000311620": 7,
+      "gas:candidate-vibid:2792000296789": 19,
+      "gas:candidate-vibid:2792000304638": 70,
+      "gas:candidate-vibid:2792000318167": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/jewish-aut?action=show&root=1000285&tvd=2792000296136&vrn=100100067795849&region=79&global=&sub_region=79&prver=0&pronetvd=null&vibid=2792000296136&type=464",
@@ -9619,13 +9619,13 @@ export const duma_2016_uik_463_region_79_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дмитриенко Василий Васильевич": 57,
-      "Дудин Владимир Николаевич": 119,
-      "Лазарев Константин Александрович": 248,
-      "Ларионов Константин Иванович": 98,
-      "Проходцев Иван Дмитриевич": 40,
-      "Тимченко Галина Леонидовна": 156,
-      "Тихомиров Анатолий Федорович": 1787
+      "gas:candidate-vibid:2792000318091": 57,
+      "gas:candidate-vibid:2792000311444": 119,
+      "gas:candidate-vibid:2792000311593": 248,
+      "gas:candidate-vibid:2792000311620": 98,
+      "gas:candidate-vibid:2792000296789": 40,
+      "gas:candidate-vibid:2792000304638": 156,
+      "gas:candidate-vibid:2792000318167": 1787
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/jewish-aut?action=show&root=1000285&tvd=2792000296136&vrn=100100067795849&region=79&global=&sub_region=79&prver=0&pronetvd=null&vibid=2792000296136&type=464",

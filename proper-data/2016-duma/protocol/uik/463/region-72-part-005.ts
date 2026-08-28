@@ -43,15 +43,15 @@ export const duma_2016_uik_463_region_72_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агарков Андрей Александрович": 25,
-      "Ергалиев Алексей Аликович": 8,
-      "Зайцев Артем Николаевич": 107,
-      "Квитка Иван Иванович": 306,
-      "Кириллов Дмитрий Александрович": 26,
-      "Куниловский Александр Александрович": 11,
-      "Нестерова Наталия Владимировна": 40,
-      "Чепик Александр Федорович": 58,
-      "Шарпатов Владимир Ильич": 60
+      "gas:candidate-vibid:2722000850643": 25,
+      "gas:candidate-vibid:2722000850033": 8,
+      "gas:candidate-vibid:2722000842504": 107,
+      "gas:candidate-vibid:2722000850022": 306,
+      "gas:candidate-vibid:2722000850011": 26,
+      "gas:candidate-vibid:2722000849307": 11,
+      "gas:candidate-vibid:2722000850045": 40,
+      "gas:candidate-vibid:2722000850654": 58,
+      "gas:candidate-vibid:2722000850632": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=2722000792609&vrn=100100067795849&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=2722000792609&type=464",
@@ -102,15 +102,15 @@ export const duma_2016_uik_463_region_72_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агарков Андрей Александрович": 63,
-      "Ергалиев Алексей Аликович": 31,
-      "Зайцев Артем Николаевич": 358,
-      "Квитка Иван Иванович": 973,
-      "Кириллов Дмитрий Александрович": 47,
-      "Куниловский Александр Александрович": 30,
-      "Нестерова Наталия Владимировна": 118,
-      "Чепик Александр Федорович": 144,
-      "Шарпатов Владимир Ильич": 181
+      "gas:candidate-vibid:2722000850643": 63,
+      "gas:candidate-vibid:2722000850033": 31,
+      "gas:candidate-vibid:2722000842504": 358,
+      "gas:candidate-vibid:2722000850022": 973,
+      "gas:candidate-vibid:2722000850011": 47,
+      "gas:candidate-vibid:2722000849307": 30,
+      "gas:candidate-vibid:2722000850045": 118,
+      "gas:candidate-vibid:2722000850654": 144,
+      "gas:candidate-vibid:2722000850632": 181
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=2722000792609&vrn=100100067795849&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=2722000792609&type=464",
@@ -161,15 +161,15 @@ export const duma_2016_uik_463_region_72_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агарков Андрей Александрович": 32,
-      "Ергалиев Алексей Аликович": 14,
-      "Зайцев Артем Николаевич": 172,
-      "Квитка Иван Иванович": 757,
-      "Кириллов Дмитрий Александрович": 26,
-      "Куниловский Александр Александрович": 11,
-      "Нестерова Наталия Владимировна": 69,
-      "Чепик Александр Федорович": 87,
-      "Шарпатов Владимир Ильич": 146
+      "gas:candidate-vibid:2722000850643": 32,
+      "gas:candidate-vibid:2722000850033": 14,
+      "gas:candidate-vibid:2722000842504": 172,
+      "gas:candidate-vibid:2722000850022": 757,
+      "gas:candidate-vibid:2722000850011": 26,
+      "gas:candidate-vibid:2722000849307": 11,
+      "gas:candidate-vibid:2722000850045": 69,
+      "gas:candidate-vibid:2722000850654": 87,
+      "gas:candidate-vibid:2722000850632": 146
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=2722000792609&vrn=100100067795849&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=2722000792609&type=464",
@@ -220,15 +220,15 @@ export const duma_2016_uik_463_region_72_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агарков Андрей Александрович": 9,
-      "Ергалиев Алексей Аликович": 11,
-      "Зайцев Артем Николаевич": 64,
-      "Квитка Иван Иванович": 199,
-      "Кириллов Дмитрий Александрович": 84,
-      "Куниловский Александр Александрович": 5,
-      "Нестерова Наталия Владимировна": 28,
-      "Чепик Александр Федорович": 30,
-      "Шарпатов Владимир Ильич": 45
+      "gas:candidate-vibid:2722000850643": 9,
+      "gas:candidate-vibid:2722000850033": 11,
+      "gas:candidate-vibid:2722000842504": 64,
+      "gas:candidate-vibid:2722000850022": 199,
+      "gas:candidate-vibid:2722000850011": 84,
+      "gas:candidate-vibid:2722000849307": 5,
+      "gas:candidate-vibid:2722000850045": 28,
+      "gas:candidate-vibid:2722000850654": 30,
+      "gas:candidate-vibid:2722000850632": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=2722000792609&vrn=100100067795849&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=2722000792609&type=464",
@@ -279,15 +279,15 @@ export const duma_2016_uik_463_region_72_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агарков Андрей Александрович": 26,
-      "Ергалиев Алексей Аликович": 6,
-      "Зайцев Артем Николаевич": 113,
-      "Квитка Иван Иванович": 451,
-      "Кириллов Дмитрий Александрович": 13,
-      "Куниловский Александр Александрович": 5,
-      "Нестерова Наталия Владимировна": 41,
-      "Чепик Александр Федорович": 54,
-      "Шарпатов Владимир Ильич": 78
+      "gas:candidate-vibid:2722000850643": 26,
+      "gas:candidate-vibid:2722000850033": 6,
+      "gas:candidate-vibid:2722000842504": 113,
+      "gas:candidate-vibid:2722000850022": 451,
+      "gas:candidate-vibid:2722000850011": 13,
+      "gas:candidate-vibid:2722000849307": 5,
+      "gas:candidate-vibid:2722000850045": 41,
+      "gas:candidate-vibid:2722000850654": 54,
+      "gas:candidate-vibid:2722000850632": 78
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=2722000792609&vrn=100100067795849&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=2722000792609&type=464",
@@ -338,15 +338,15 @@ export const duma_2016_uik_463_region_72_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агарков Андрей Александрович": 18,
-      "Ергалиев Алексей Аликович": 8,
-      "Зайцев Артем Николаевич": 242,
-      "Квитка Иван Иванович": 665,
-      "Кириллов Дмитрий Александрович": 13,
-      "Куниловский Александр Александрович": 7,
-      "Нестерова Наталия Владимировна": 42,
-      "Чепик Александр Федорович": 47,
-      "Шарпатов Владимир Ильич": 48
+      "gas:candidate-vibid:2722000850643": 18,
+      "gas:candidate-vibid:2722000850033": 8,
+      "gas:candidate-vibid:2722000842504": 242,
+      "gas:candidate-vibid:2722000850022": 665,
+      "gas:candidate-vibid:2722000850011": 13,
+      "gas:candidate-vibid:2722000849307": 7,
+      "gas:candidate-vibid:2722000850045": 42,
+      "gas:candidate-vibid:2722000850654": 47,
+      "gas:candidate-vibid:2722000850632": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=2722000792609&vrn=100100067795849&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=2722000792609&type=464",
@@ -397,15 +397,15 @@ export const duma_2016_uik_463_region_72_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агарков Андрей Александрович": 10,
-      "Ергалиев Алексей Аликович": 0,
-      "Зайцев Артем Николаевич": 41,
-      "Квитка Иван Иванович": 124,
-      "Кириллов Дмитрий Александрович": 4,
-      "Куниловский Александр Александрович": 0,
-      "Нестерова Наталия Владимировна": 7,
-      "Чепик Александр Федорович": 13,
-      "Шарпатов Владимир Ильич": 6
+      "gas:candidate-vibid:2722000850643": 10,
+      "gas:candidate-vibid:2722000850033": 0,
+      "gas:candidate-vibid:2722000842504": 41,
+      "gas:candidate-vibid:2722000850022": 124,
+      "gas:candidate-vibid:2722000850011": 4,
+      "gas:candidate-vibid:2722000849307": 0,
+      "gas:candidate-vibid:2722000850045": 7,
+      "gas:candidate-vibid:2722000850654": 13,
+      "gas:candidate-vibid:2722000850632": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=2722000792609&vrn=100100067795849&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=2722000792609&type=464",
@@ -456,15 +456,15 @@ export const duma_2016_uik_463_region_72_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агарков Андрей Александрович": 25,
-      "Ергалиев Алексей Аликович": 9,
-      "Зайцев Артем Николаевич": 197,
-      "Квитка Иван Иванович": 433,
-      "Кириллов Дмитрий Александрович": 24,
-      "Куниловский Александр Александрович": 5,
-      "Нестерова Наталия Владимировна": 54,
-      "Чепик Александр Федорович": 59,
-      "Шарпатов Владимир Ильич": 54
+      "gas:candidate-vibid:2722000850643": 25,
+      "gas:candidate-vibid:2722000850033": 9,
+      "gas:candidate-vibid:2722000842504": 197,
+      "gas:candidate-vibid:2722000850022": 433,
+      "gas:candidate-vibid:2722000850011": 24,
+      "gas:candidate-vibid:2722000849307": 5,
+      "gas:candidate-vibid:2722000850045": 54,
+      "gas:candidate-vibid:2722000850654": 59,
+      "gas:candidate-vibid:2722000850632": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=2722000792609&vrn=100100067795849&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=2722000792609&type=464",
@@ -515,15 +515,15 @@ export const duma_2016_uik_463_region_72_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агарков Андрей Александрович": 34,
-      "Ергалиев Алексей Аликович": 14,
-      "Зайцев Артем Николаевич": 145,
-      "Квитка Иван Иванович": 546,
-      "Кириллов Дмитрий Александрович": 14,
-      "Куниловский Александр Александрович": 8,
-      "Нестерова Наталия Владимировна": 31,
-      "Чепик Александр Федорович": 43,
-      "Шарпатов Владимир Ильич": 30
+      "gas:candidate-vibid:2722000850643": 34,
+      "gas:candidate-vibid:2722000850033": 14,
+      "gas:candidate-vibid:2722000842504": 145,
+      "gas:candidate-vibid:2722000850022": 546,
+      "gas:candidate-vibid:2722000850011": 14,
+      "gas:candidate-vibid:2722000849307": 8,
+      "gas:candidate-vibid:2722000850045": 31,
+      "gas:candidate-vibid:2722000850654": 43,
+      "gas:candidate-vibid:2722000850632": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=2722000792609&vrn=100100067795849&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=2722000792609&type=464",
@@ -574,15 +574,15 @@ export const duma_2016_uik_463_region_72_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агарков Андрей Александрович": 14,
-      "Ергалиев Алексей Аликович": 0,
-      "Зайцев Артем Николаевич": 82,
-      "Квитка Иван Иванович": 255,
-      "Кириллов Дмитрий Александрович": 0,
-      "Куниловский Александр Александрович": 0,
-      "Нестерова Наталия Владимировна": 25,
-      "Чепик Александр Федорович": 34,
-      "Шарпатов Владимир Ильич": 16
+      "gas:candidate-vibid:2722000850643": 14,
+      "gas:candidate-vibid:2722000850033": 0,
+      "gas:candidate-vibid:2722000842504": 82,
+      "gas:candidate-vibid:2722000850022": 255,
+      "gas:candidate-vibid:2722000850011": 0,
+      "gas:candidate-vibid:2722000849307": 0,
+      "gas:candidate-vibid:2722000850045": 25,
+      "gas:candidate-vibid:2722000850654": 34,
+      "gas:candidate-vibid:2722000850632": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=2722000792609&vrn=100100067795849&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=2722000792609&type=464",
@@ -633,15 +633,15 @@ export const duma_2016_uik_463_region_72_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агарков Андрей Александрович": 4,
-      "Ергалиев Алексей Аликович": 5,
-      "Зайцев Артем Николаевич": 37,
-      "Квитка Иван Иванович": 112,
-      "Кириллов Дмитрий Александрович": 4,
-      "Куниловский Александр Александрович": 3,
-      "Нестерова Наталия Владимировна": 9,
-      "Чепик Александр Федорович": 3,
-      "Шарпатов Владимир Ильич": 7
+      "gas:candidate-vibid:2722000850643": 4,
+      "gas:candidate-vibid:2722000850033": 5,
+      "gas:candidate-vibid:2722000842504": 37,
+      "gas:candidate-vibid:2722000850022": 112,
+      "gas:candidate-vibid:2722000850011": 4,
+      "gas:candidate-vibid:2722000849307": 3,
+      "gas:candidate-vibid:2722000850045": 9,
+      "gas:candidate-vibid:2722000850654": 3,
+      "gas:candidate-vibid:2722000850632": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=2722000792609&vrn=100100067795849&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=2722000792609&type=464",
@@ -692,15 +692,15 @@ export const duma_2016_uik_463_region_72_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агарков Андрей Александрович": 10,
-      "Ергалиев Алексей Аликович": 5,
-      "Зайцев Артем Николаевич": 53,
-      "Квитка Иван Иванович": 112,
-      "Кириллов Дмитрий Александрович": 6,
-      "Куниловский Александр Александрович": 3,
-      "Нестерова Наталия Владимировна": 13,
-      "Чепик Александр Федорович": 33,
-      "Шарпатов Владимир Ильич": 24
+      "gas:candidate-vibid:2722000850643": 10,
+      "gas:candidate-vibid:2722000850033": 5,
+      "gas:candidate-vibid:2722000842504": 53,
+      "gas:candidate-vibid:2722000850022": 112,
+      "gas:candidate-vibid:2722000850011": 6,
+      "gas:candidate-vibid:2722000849307": 3,
+      "gas:candidate-vibid:2722000850045": 13,
+      "gas:candidate-vibid:2722000850654": 33,
+      "gas:candidate-vibid:2722000850632": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=2722000792609&vrn=100100067795849&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=2722000792609&type=464",
@@ -751,15 +751,15 @@ export const duma_2016_uik_463_region_72_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агарков Андрей Александрович": 3,
-      "Ергалиев Алексей Аликович": 3,
-      "Зайцев Артем Николаевич": 35,
-      "Квитка Иван Иванович": 128,
-      "Кириллов Дмитрий Александрович": 3,
-      "Куниловский Александр Александрович": 1,
-      "Нестерова Наталия Владимировна": 12,
-      "Чепик Александр Федорович": 12,
-      "Шарпатов Владимир Ильич": 4
+      "gas:candidate-vibid:2722000850643": 3,
+      "gas:candidate-vibid:2722000850033": 3,
+      "gas:candidate-vibid:2722000842504": 35,
+      "gas:candidate-vibid:2722000850022": 128,
+      "gas:candidate-vibid:2722000850011": 3,
+      "gas:candidate-vibid:2722000849307": 1,
+      "gas:candidate-vibid:2722000850045": 12,
+      "gas:candidate-vibid:2722000850654": 12,
+      "gas:candidate-vibid:2722000850632": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=2722000792609&vrn=100100067795849&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=2722000792609&type=464",
@@ -810,15 +810,15 @@ export const duma_2016_uik_463_region_72_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агарков Андрей Александрович": 11,
-      "Ергалиев Алексей Аликович": 6,
-      "Зайцев Артем Николаевич": 46,
-      "Квитка Иван Иванович": 156,
-      "Кириллов Дмитрий Александрович": 5,
-      "Куниловский Александр Александрович": 2,
-      "Нестерова Наталия Владимировна": 13,
-      "Чепик Александр Федорович": 15,
-      "Шарпатов Владимир Ильич": 9
+      "gas:candidate-vibid:2722000850643": 11,
+      "gas:candidate-vibid:2722000850033": 6,
+      "gas:candidate-vibid:2722000842504": 46,
+      "gas:candidate-vibid:2722000850022": 156,
+      "gas:candidate-vibid:2722000850011": 5,
+      "gas:candidate-vibid:2722000849307": 2,
+      "gas:candidate-vibid:2722000850045": 13,
+      "gas:candidate-vibid:2722000850654": 15,
+      "gas:candidate-vibid:2722000850632": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=2722000792609&vrn=100100067795849&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=2722000792609&type=464",
@@ -869,15 +869,15 @@ export const duma_2016_uik_463_region_72_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агарков Андрей Александрович": 8,
-      "Ергалиев Алексей Аликович": 0,
-      "Зайцев Артем Николаевич": 54,
-      "Квитка Иван Иванович": 197,
-      "Кириллов Дмитрий Александрович": 13,
-      "Куниловский Александр Александрович": 0,
-      "Нестерова Наталия Владимировна": 0,
-      "Чепик Александр Федорович": 25,
-      "Шарпатов Владимир Ильич": 23
+      "gas:candidate-vibid:2722000850643": 8,
+      "gas:candidate-vibid:2722000850033": 0,
+      "gas:candidate-vibid:2722000842504": 54,
+      "gas:candidate-vibid:2722000850022": 197,
+      "gas:candidate-vibid:2722000850011": 13,
+      "gas:candidate-vibid:2722000849307": 0,
+      "gas:candidate-vibid:2722000850045": 0,
+      "gas:candidate-vibid:2722000850654": 25,
+      "gas:candidate-vibid:2722000850632": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=2722000792609&vrn=100100067795849&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=2722000792609&type=464",
@@ -928,15 +928,15 @@ export const duma_2016_uik_463_region_72_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агарков Андрей Александрович": 0,
-      "Ергалиев Алексей Аликович": 0,
-      "Зайцев Артем Николаевич": 18,
-      "Квитка Иван Иванович": 100,
-      "Кириллов Дмитрий Александрович": 0,
-      "Куниловский Александр Александрович": 0,
-      "Нестерова Наталия Владимировна": 0,
-      "Чепик Александр Федорович": 17,
-      "Шарпатов Владимир Ильич": 11
+      "gas:candidate-vibid:2722000850643": 0,
+      "gas:candidate-vibid:2722000850033": 0,
+      "gas:candidate-vibid:2722000842504": 18,
+      "gas:candidate-vibid:2722000850022": 100,
+      "gas:candidate-vibid:2722000850011": 0,
+      "gas:candidate-vibid:2722000849307": 0,
+      "gas:candidate-vibid:2722000850045": 0,
+      "gas:candidate-vibid:2722000850654": 17,
+      "gas:candidate-vibid:2722000850632": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=2722000792609&vrn=100100067795849&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=2722000792609&type=464",
@@ -987,15 +987,15 @@ export const duma_2016_uik_463_region_72_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агарков Андрей Александрович": 12,
-      "Ергалиев Алексей Аликович": 11,
-      "Зайцев Артем Николаевич": 128,
-      "Квитка Иван Иванович": 531,
-      "Кириллов Дмитрий Александрович": 11,
-      "Куниловский Александр Александрович": 12,
-      "Нестерова Наталия Владимировна": 62,
-      "Чепик Александр Федорович": 51,
-      "Шарпатов Владимир Ильич": 30
+      "gas:candidate-vibid:2722000850643": 12,
+      "gas:candidate-vibid:2722000850033": 11,
+      "gas:candidate-vibid:2722000842504": 128,
+      "gas:candidate-vibid:2722000850022": 531,
+      "gas:candidate-vibid:2722000850011": 11,
+      "gas:candidate-vibid:2722000849307": 12,
+      "gas:candidate-vibid:2722000850045": 62,
+      "gas:candidate-vibid:2722000850654": 51,
+      "gas:candidate-vibid:2722000850632": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=2722000792609&vrn=100100067795849&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=2722000792609&type=464",
@@ -1046,15 +1046,15 @@ export const duma_2016_uik_463_region_72_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агарков Андрей Александрович": 11,
-      "Ергалиев Алексей Аликович": 3,
-      "Зайцев Артем Николаевич": 61,
-      "Квитка Иван Иванович": 196,
-      "Кириллов Дмитрий Александрович": 5,
-      "Куниловский Александр Александрович": 5,
-      "Нестерова Наталия Владимировна": 8,
-      "Чепик Александр Федорович": 13,
-      "Шарпатов Владимир Ильич": 15
+      "gas:candidate-vibid:2722000850643": 11,
+      "gas:candidate-vibid:2722000850033": 3,
+      "gas:candidate-vibid:2722000842504": 61,
+      "gas:candidate-vibid:2722000850022": 196,
+      "gas:candidate-vibid:2722000850011": 5,
+      "gas:candidate-vibid:2722000849307": 5,
+      "gas:candidate-vibid:2722000850045": 8,
+      "gas:candidate-vibid:2722000850654": 13,
+      "gas:candidate-vibid:2722000850632": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=2722000792609&vrn=100100067795849&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=2722000792609&type=464",
@@ -1105,15 +1105,15 @@ export const duma_2016_uik_463_region_72_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агарков Андрей Александрович": 8,
-      "Ергалиев Алексей Аликович": 0,
-      "Зайцев Артем Николаевич": 12,
-      "Квитка Иван Иванович": 65,
-      "Кириллов Дмитрий Александрович": 6,
-      "Куниловский Александр Александрович": 0,
-      "Нестерова Наталия Владимировна": 1,
-      "Чепик Александр Федорович": 15,
-      "Шарпатов Владимир Ильич": 8
+      "gas:candidate-vibid:2722000850643": 8,
+      "gas:candidate-vibid:2722000850033": 0,
+      "gas:candidate-vibid:2722000842504": 12,
+      "gas:candidate-vibid:2722000850022": 65,
+      "gas:candidate-vibid:2722000850011": 6,
+      "gas:candidate-vibid:2722000849307": 0,
+      "gas:candidate-vibid:2722000850045": 1,
+      "gas:candidate-vibid:2722000850654": 15,
+      "gas:candidate-vibid:2722000850632": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=2722000792609&vrn=100100067795849&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=2722000792609&type=464",
@@ -1164,15 +1164,15 @@ export const duma_2016_uik_463_region_72_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агарков Андрей Александрович": 2,
-      "Ергалиев Алексей Аликович": 4,
-      "Зайцев Артем Николаевич": 82,
-      "Квитка Иван Иванович": 257,
-      "Кириллов Дмитрий Александрович": 2,
-      "Куниловский Александр Александрович": 5,
-      "Нестерова Наталия Владимировна": 5,
-      "Чепик Александр Федорович": 40,
-      "Шарпатов Владимир Ильич": 12
+      "gas:candidate-vibid:2722000850643": 2,
+      "gas:candidate-vibid:2722000850033": 4,
+      "gas:candidate-vibid:2722000842504": 82,
+      "gas:candidate-vibid:2722000850022": 257,
+      "gas:candidate-vibid:2722000850011": 2,
+      "gas:candidate-vibid:2722000849307": 5,
+      "gas:candidate-vibid:2722000850045": 5,
+      "gas:candidate-vibid:2722000850654": 40,
+      "gas:candidate-vibid:2722000850632": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=2722000792609&vrn=100100067795849&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=2722000792609&type=464",
@@ -1223,15 +1223,15 @@ export const duma_2016_uik_463_region_72_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агарков Андрей Александрович": 12,
-      "Ергалиев Алексей Аликович": 10,
-      "Зайцев Артем Николаевич": 80,
-      "Квитка Иван Иванович": 330,
-      "Кириллов Дмитрий Александрович": 11,
-      "Куниловский Александр Александрович": 7,
-      "Нестерова Наталия Владимировна": 17,
-      "Чепик Александр Федорович": 45,
-      "Шарпатов Владимир Ильич": 18
+      "gas:candidate-vibid:2722000850643": 12,
+      "gas:candidate-vibid:2722000850033": 10,
+      "gas:candidate-vibid:2722000842504": 80,
+      "gas:candidate-vibid:2722000850022": 330,
+      "gas:candidate-vibid:2722000850011": 11,
+      "gas:candidate-vibid:2722000849307": 7,
+      "gas:candidate-vibid:2722000850045": 17,
+      "gas:candidate-vibid:2722000850654": 45,
+      "gas:candidate-vibid:2722000850632": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=2722000792609&vrn=100100067795849&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=2722000792609&type=464",
@@ -1282,15 +1282,15 @@ export const duma_2016_uik_463_region_72_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агарков Андрей Александрович": 7,
-      "Ергалиев Алексей Аликович": 7,
-      "Зайцев Артем Николаевич": 84,
-      "Квитка Иван Иванович": 262,
-      "Кириллов Дмитрий Александрович": 4,
-      "Куниловский Александр Александрович": 2,
-      "Нестерова Наталия Владимировна": 10,
-      "Чепик Александр Федорович": 47,
-      "Шарпатов Владимир Ильич": 6
+      "gas:candidate-vibid:2722000850643": 7,
+      "gas:candidate-vibid:2722000850033": 7,
+      "gas:candidate-vibid:2722000842504": 84,
+      "gas:candidate-vibid:2722000850022": 262,
+      "gas:candidate-vibid:2722000850011": 4,
+      "gas:candidate-vibid:2722000849307": 2,
+      "gas:candidate-vibid:2722000850045": 10,
+      "gas:candidate-vibid:2722000850654": 47,
+      "gas:candidate-vibid:2722000850632": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=2722000792609&vrn=100100067795849&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=2722000792609&type=464",
@@ -1341,15 +1341,15 @@ export const duma_2016_uik_463_region_72_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агарков Андрей Александрович": 18,
-      "Ергалиев Алексей Аликович": 9,
-      "Зайцев Артем Николаевич": 46,
-      "Квитка Иван Иванович": 182,
-      "Кириллов Дмитрий Александрович": 4,
-      "Куниловский Александр Александрович": 4,
-      "Нестерова Наталия Владимировна": 16,
-      "Чепик Александр Федорович": 27,
-      "Шарпатов Владимир Ильич": 14
+      "gas:candidate-vibid:2722000850643": 18,
+      "gas:candidate-vibid:2722000850033": 9,
+      "gas:candidate-vibid:2722000842504": 46,
+      "gas:candidate-vibid:2722000850022": 182,
+      "gas:candidate-vibid:2722000850011": 4,
+      "gas:candidate-vibid:2722000849307": 4,
+      "gas:candidate-vibid:2722000850045": 16,
+      "gas:candidate-vibid:2722000850654": 27,
+      "gas:candidate-vibid:2722000850632": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=2722000792609&vrn=100100067795849&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=2722000792609&type=464",
@@ -1400,15 +1400,15 @@ export const duma_2016_uik_463_region_72_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агарков Андрей Александрович": 7,
-      "Ергалиев Алексей Аликович": 10,
-      "Зайцев Артем Николаевич": 120,
-      "Квитка Иван Иванович": 381,
-      "Кириллов Дмитрий Александрович": 0,
-      "Куниловский Александр Александрович": 7,
-      "Нестерова Наталия Владимировна": 8,
-      "Чепик Александр Федорович": 7,
-      "Шарпатов Владимир Ильич": 14
+      "gas:candidate-vibid:2722000850643": 7,
+      "gas:candidate-vibid:2722000850033": 10,
+      "gas:candidate-vibid:2722000842504": 120,
+      "gas:candidate-vibid:2722000850022": 381,
+      "gas:candidate-vibid:2722000850011": 0,
+      "gas:candidate-vibid:2722000849307": 7,
+      "gas:candidate-vibid:2722000850045": 8,
+      "gas:candidate-vibid:2722000850654": 7,
+      "gas:candidate-vibid:2722000850632": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=2722000792609&vrn=100100067795849&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=2722000792609&type=464",
@@ -1459,15 +1459,15 @@ export const duma_2016_uik_463_region_72_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агарков Андрей Александрович": 3,
-      "Ергалиев Алексей Аликович": 4,
-      "Зайцев Артем Николаевич": 7,
-      "Квитка Иван Иванович": 85,
-      "Кириллов Дмитрий Александрович": 1,
-      "Куниловский Александр Александрович": 0,
-      "Нестерова Наталия Владимировна": 4,
-      "Чепик Александр Федорович": 6,
-      "Шарпатов Владимир Ильич": 7
+      "gas:candidate-vibid:2722000850643": 3,
+      "gas:candidate-vibid:2722000850033": 4,
+      "gas:candidate-vibid:2722000842504": 7,
+      "gas:candidate-vibid:2722000850022": 85,
+      "gas:candidate-vibid:2722000850011": 1,
+      "gas:candidate-vibid:2722000849307": 0,
+      "gas:candidate-vibid:2722000850045": 4,
+      "gas:candidate-vibid:2722000850654": 6,
+      "gas:candidate-vibid:2722000850632": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=2722000792609&vrn=100100067795849&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=2722000792609&type=464",
@@ -1518,15 +1518,15 @@ export const duma_2016_uik_463_region_72_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агарков Андрей Александрович": 11,
-      "Ергалиев Алексей Аликович": 9,
-      "Зайцев Артем Николаевич": 142,
-      "Квитка Иван Иванович": 312,
-      "Кириллов Дмитрий Александрович": 15,
-      "Куниловский Александр Александрович": 0,
-      "Нестерова Наталия Владимировна": 17,
-      "Чепик Александр Федорович": 8,
-      "Шарпатов Владимир Ильич": 6
+      "gas:candidate-vibid:2722000850643": 11,
+      "gas:candidate-vibid:2722000850033": 9,
+      "gas:candidate-vibid:2722000842504": 142,
+      "gas:candidate-vibid:2722000850022": 312,
+      "gas:candidate-vibid:2722000850011": 15,
+      "gas:candidate-vibid:2722000849307": 0,
+      "gas:candidate-vibid:2722000850045": 17,
+      "gas:candidate-vibid:2722000850654": 8,
+      "gas:candidate-vibid:2722000850632": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=2722000792609&vrn=100100067795849&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=2722000792609&type=464",
@@ -1577,15 +1577,15 @@ export const duma_2016_uik_463_region_72_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агарков Андрей Александрович": 15,
-      "Ергалиев Алексей Аликович": 11,
-      "Зайцев Артем Николаевич": 96,
-      "Квитка Иван Иванович": 294,
-      "Кириллов Дмитрий Александрович": 3,
-      "Куниловский Александр Александрович": 4,
-      "Нестерова Наталия Владимировна": 20,
-      "Чепик Александр Федорович": 20,
-      "Шарпатов Владимир Ильич": 22
+      "gas:candidate-vibid:2722000850643": 15,
+      "gas:candidate-vibid:2722000850033": 11,
+      "gas:candidate-vibid:2722000842504": 96,
+      "gas:candidate-vibid:2722000850022": 294,
+      "gas:candidate-vibid:2722000850011": 3,
+      "gas:candidate-vibid:2722000849307": 4,
+      "gas:candidate-vibid:2722000850045": 20,
+      "gas:candidate-vibid:2722000850654": 20,
+      "gas:candidate-vibid:2722000850632": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=2722000792609&vrn=100100067795849&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=2722000792609&type=464",
@@ -1636,15 +1636,15 @@ export const duma_2016_uik_463_region_72_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агарков Андрей Александрович": 0,
-      "Ергалиев Алексей Аликович": 0,
-      "Зайцев Артем Николаевич": 15,
-      "Квитка Иван Иванович": 69,
-      "Кириллов Дмитрий Александрович": 0,
-      "Куниловский Александр Александрович": 0,
-      "Нестерова Наталия Владимировна": 8,
-      "Чепик Александр Федорович": 13,
-      "Шарпатов Владимир Ильич": 6
+      "gas:candidate-vibid:2722000850643": 0,
+      "gas:candidate-vibid:2722000850033": 0,
+      "gas:candidate-vibid:2722000842504": 15,
+      "gas:candidate-vibid:2722000850022": 69,
+      "gas:candidate-vibid:2722000850011": 0,
+      "gas:candidate-vibid:2722000849307": 0,
+      "gas:candidate-vibid:2722000850045": 8,
+      "gas:candidate-vibid:2722000850654": 13,
+      "gas:candidate-vibid:2722000850632": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=2722000792609&vrn=100100067795849&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=2722000792609&type=464",
@@ -1695,15 +1695,15 @@ export const duma_2016_uik_463_region_72_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агарков Андрей Александрович": 9,
-      "Ергалиев Алексей Аликович": 11,
-      "Зайцев Артем Николаевич": 75,
-      "Квитка Иван Иванович": 324,
-      "Кириллов Дмитрий Александрович": 12,
-      "Куниловский Александр Александрович": 5,
-      "Нестерова Наталия Владимировна": 30,
-      "Чепик Александр Федорович": 32,
-      "Шарпатов Владимир Ильич": 40
+      "gas:candidate-vibid:2722000850643": 9,
+      "gas:candidate-vibid:2722000850033": 11,
+      "gas:candidate-vibid:2722000842504": 75,
+      "gas:candidate-vibid:2722000850022": 324,
+      "gas:candidate-vibid:2722000850011": 12,
+      "gas:candidate-vibid:2722000849307": 5,
+      "gas:candidate-vibid:2722000850045": 30,
+      "gas:candidate-vibid:2722000850654": 32,
+      "gas:candidate-vibid:2722000850632": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=2722000792609&vrn=100100067795849&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=2722000792609&type=464",
@@ -1754,15 +1754,15 @@ export const duma_2016_uik_463_region_72_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агарков Андрей Александрович": 4,
-      "Ергалиев Алексей Аликович": 5,
-      "Зайцев Артем Николаевич": 6,
-      "Квитка Иван Иванович": 53,
-      "Кириллов Дмитрий Александрович": 1,
-      "Куниловский Александр Александрович": 0,
-      "Нестерова Наталия Владимировна": 1,
-      "Чепик Александр Федорович": 4,
-      "Шарпатов Владимир Ильич": 3
+      "gas:candidate-vibid:2722000850643": 4,
+      "gas:candidate-vibid:2722000850033": 5,
+      "gas:candidate-vibid:2722000842504": 6,
+      "gas:candidate-vibid:2722000850022": 53,
+      "gas:candidate-vibid:2722000850011": 1,
+      "gas:candidate-vibid:2722000849307": 0,
+      "gas:candidate-vibid:2722000850045": 1,
+      "gas:candidate-vibid:2722000850654": 4,
+      "gas:candidate-vibid:2722000850632": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=2722000792609&vrn=100100067795849&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=2722000792609&type=464",
@@ -1813,15 +1813,15 @@ export const duma_2016_uik_463_region_72_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агарков Андрей Александрович": 11,
-      "Ергалиев Алексей Аликович": 8,
-      "Зайцев Артем Николаевич": 82,
-      "Квитка Иван Иванович": 273,
-      "Кириллов Дмитрий Александрович": 4,
-      "Куниловский Александр Александрович": 5,
-      "Нестерова Наталия Владимировна": 18,
-      "Чепик Александр Федорович": 20,
-      "Шарпатов Владимир Ильич": 21
+      "gas:candidate-vibid:2722000850643": 11,
+      "gas:candidate-vibid:2722000850033": 8,
+      "gas:candidate-vibid:2722000842504": 82,
+      "gas:candidate-vibid:2722000850022": 273,
+      "gas:candidate-vibid:2722000850011": 4,
+      "gas:candidate-vibid:2722000849307": 5,
+      "gas:candidate-vibid:2722000850045": 18,
+      "gas:candidate-vibid:2722000850654": 20,
+      "gas:candidate-vibid:2722000850632": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=2722000792609&vrn=100100067795849&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=2722000792609&type=464",
@@ -1872,15 +1872,15 @@ export const duma_2016_uik_463_region_72_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агарков Андрей Александрович": 31,
-      "Ергалиев Алексей Аликович": 41,
-      "Зайцев Артем Николаевич": 303,
-      "Квитка Иван Иванович": 657,
-      "Кириллов Дмитрий Александрович": 28,
-      "Куниловский Александр Александрович": 14,
-      "Нестерова Наталия Владимировна": 21,
-      "Чепик Александр Федорович": 17,
-      "Шарпатов Владимир Ильич": 13
+      "gas:candidate-vibid:2722000850643": 31,
+      "gas:candidate-vibid:2722000850033": 41,
+      "gas:candidate-vibid:2722000842504": 303,
+      "gas:candidate-vibid:2722000850022": 657,
+      "gas:candidate-vibid:2722000850011": 28,
+      "gas:candidate-vibid:2722000849307": 14,
+      "gas:candidate-vibid:2722000850045": 21,
+      "gas:candidate-vibid:2722000850654": 17,
+      "gas:candidate-vibid:2722000850632": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=2722000792609&vrn=100100067795849&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=2722000792609&type=464",
@@ -1931,15 +1931,15 @@ export const duma_2016_uik_463_region_72_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агарков Андрей Александрович": 23,
-      "Ергалиев Алексей Аликович": 5,
-      "Зайцев Артем Николаевич": 38,
-      "Квитка Иван Иванович": 266,
-      "Кириллов Дмитрий Александрович": 10,
-      "Куниловский Александр Александрович": 5,
-      "Нестерова Наталия Владимировна": 21,
-      "Чепик Александр Федорович": 27,
-      "Шарпатов Владимир Ильич": 31
+      "gas:candidate-vibid:2722000850643": 23,
+      "gas:candidate-vibid:2722000850033": 5,
+      "gas:candidate-vibid:2722000842504": 38,
+      "gas:candidate-vibid:2722000850022": 266,
+      "gas:candidate-vibid:2722000850011": 10,
+      "gas:candidate-vibid:2722000849307": 5,
+      "gas:candidate-vibid:2722000850045": 21,
+      "gas:candidate-vibid:2722000850654": 27,
+      "gas:candidate-vibid:2722000850632": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=2722000792609&vrn=100100067795849&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=2722000792609&type=464",
@@ -1990,15 +1990,15 @@ export const duma_2016_uik_463_region_72_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агарков Андрей Александрович": 30,
-      "Ергалиев Алексей Аликович": 15,
-      "Зайцев Артем Николаевич": 153,
-      "Квитка Иван Иванович": 495,
-      "Кириллов Дмитрий Александрович": 13,
-      "Куниловский Александр Александрович": 8,
-      "Нестерова Наталия Владимировна": 51,
-      "Чепик Александр Федорович": 53,
-      "Шарпатов Владимир Ильич": 37
+      "gas:candidate-vibid:2722000850643": 30,
+      "gas:candidate-vibid:2722000850033": 15,
+      "gas:candidate-vibid:2722000842504": 153,
+      "gas:candidate-vibid:2722000850022": 495,
+      "gas:candidate-vibid:2722000850011": 13,
+      "gas:candidate-vibid:2722000849307": 8,
+      "gas:candidate-vibid:2722000850045": 51,
+      "gas:candidate-vibid:2722000850654": 53,
+      "gas:candidate-vibid:2722000850632": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=2722000792609&vrn=100100067795849&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=2722000792609&type=464",
@@ -2049,15 +2049,15 @@ export const duma_2016_uik_463_region_72_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агарков Андрей Александрович": 4,
-      "Ергалиев Алексей Аликович": 6,
-      "Зайцев Артем Николаевич": 28,
-      "Квитка Иван Иванович": 137,
-      "Кириллов Дмитрий Александрович": 4,
-      "Куниловский Александр Александрович": 1,
-      "Нестерова Наталия Владимировна": 15,
-      "Чепик Александр Федорович": 11,
-      "Шарпатов Владимир Ильич": 0
+      "gas:candidate-vibid:2722000850643": 4,
+      "gas:candidate-vibid:2722000850033": 6,
+      "gas:candidate-vibid:2722000842504": 28,
+      "gas:candidate-vibid:2722000850022": 137,
+      "gas:candidate-vibid:2722000850011": 4,
+      "gas:candidate-vibid:2722000849307": 1,
+      "gas:candidate-vibid:2722000850045": 15,
+      "gas:candidate-vibid:2722000850654": 11,
+      "gas:candidate-vibid:2722000850632": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=2722000792609&vrn=100100067795849&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=2722000792609&type=464",
@@ -2108,15 +2108,15 @@ export const duma_2016_uik_463_region_72_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агарков Андрей Александрович": 7,
-      "Ергалиев Алексей Аликович": 4,
-      "Зайцев Артем Николаевич": 26,
-      "Квитка Иван Иванович": 160,
-      "Кириллов Дмитрий Александрович": 1,
-      "Куниловский Александр Александрович": 1,
-      "Нестерова Наталия Владимировна": 6,
-      "Чепик Александр Федорович": 21,
-      "Шарпатов Владимир Ильич": 6
+      "gas:candidate-vibid:2722000850643": 7,
+      "gas:candidate-vibid:2722000850033": 4,
+      "gas:candidate-vibid:2722000842504": 26,
+      "gas:candidate-vibid:2722000850022": 160,
+      "gas:candidate-vibid:2722000850011": 1,
+      "gas:candidate-vibid:2722000849307": 1,
+      "gas:candidate-vibid:2722000850045": 6,
+      "gas:candidate-vibid:2722000850654": 21,
+      "gas:candidate-vibid:2722000850632": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=2722000792609&vrn=100100067795849&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=2722000792609&type=464",
@@ -2167,15 +2167,15 @@ export const duma_2016_uik_463_region_72_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агарков Андрей Александрович": 5,
-      "Ергалиев Алексей Аликович": 0,
-      "Зайцев Артем Николаевич": 39,
-      "Квитка Иван Иванович": 116,
-      "Кириллов Дмитрий Александрович": 8,
-      "Куниловский Александр Александрович": 1,
-      "Нестерова Наталия Владимировна": 2,
-      "Чепик Александр Федорович": 19,
-      "Шарпатов Владимир Ильич": 8
+      "gas:candidate-vibid:2722000850643": 5,
+      "gas:candidate-vibid:2722000850033": 0,
+      "gas:candidate-vibid:2722000842504": 39,
+      "gas:candidate-vibid:2722000850022": 116,
+      "gas:candidate-vibid:2722000850011": 8,
+      "gas:candidate-vibid:2722000849307": 1,
+      "gas:candidate-vibid:2722000850045": 2,
+      "gas:candidate-vibid:2722000850654": 19,
+      "gas:candidate-vibid:2722000850632": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=2722000792609&vrn=100100067795849&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=2722000792609&type=464",
@@ -2226,15 +2226,15 @@ export const duma_2016_uik_463_region_72_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агарков Андрей Александрович": 5,
-      "Ергалиев Алексей Аликович": 9,
-      "Зайцев Артем Николаевич": 30,
-      "Квитка Иван Иванович": 91,
-      "Кириллов Дмитрий Александрович": 4,
-      "Куниловский Александр Александрович": 3,
-      "Нестерова Наталия Владимировна": 5,
-      "Чепик Александр Федорович": 2,
-      "Шарпатов Владимир Ильич": 1
+      "gas:candidate-vibid:2722000850643": 5,
+      "gas:candidate-vibid:2722000850033": 9,
+      "gas:candidate-vibid:2722000842504": 30,
+      "gas:candidate-vibid:2722000850022": 91,
+      "gas:candidate-vibid:2722000850011": 4,
+      "gas:candidate-vibid:2722000849307": 3,
+      "gas:candidate-vibid:2722000850045": 5,
+      "gas:candidate-vibid:2722000850654": 2,
+      "gas:candidate-vibid:2722000850632": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=2722000792609&vrn=100100067795849&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=2722000792609&type=464",
@@ -2285,15 +2285,15 @@ export const duma_2016_uik_463_region_72_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агарков Андрей Александрович": 15,
-      "Ергалиев Алексей Аликович": 6,
-      "Зайцев Артем Николаевич": 92,
-      "Квитка Иван Иванович": 214,
-      "Кириллов Дмитрий Александрович": 9,
-      "Куниловский Александр Александрович": 4,
-      "Нестерова Наталия Владимировна": 6,
-      "Чепик Александр Федорович": 5,
-      "Шарпатов Владимир Ильич": 13
+      "gas:candidate-vibid:2722000850643": 15,
+      "gas:candidate-vibid:2722000850033": 6,
+      "gas:candidate-vibid:2722000842504": 92,
+      "gas:candidate-vibid:2722000850022": 214,
+      "gas:candidate-vibid:2722000850011": 9,
+      "gas:candidate-vibid:2722000849307": 4,
+      "gas:candidate-vibid:2722000850045": 6,
+      "gas:candidate-vibid:2722000850654": 5,
+      "gas:candidate-vibid:2722000850632": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=2722000792609&vrn=100100067795849&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=2722000792609&type=464",
@@ -2344,15 +2344,15 @@ export const duma_2016_uik_463_region_72_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агарков Андрей Александрович": 7,
-      "Ергалиев Алексей Аликович": 2,
-      "Зайцев Артем Николаевич": 35,
-      "Квитка Иван Иванович": 148,
-      "Кириллов Дмитрий Александрович": 0,
-      "Куниловский Александр Александрович": 2,
-      "Нестерова Наталия Владимировна": 4,
-      "Чепик Александр Федорович": 13,
-      "Шарпатов Владимир Ильич": 19
+      "gas:candidate-vibid:2722000850643": 7,
+      "gas:candidate-vibid:2722000850033": 2,
+      "gas:candidate-vibid:2722000842504": 35,
+      "gas:candidate-vibid:2722000850022": 148,
+      "gas:candidate-vibid:2722000850011": 0,
+      "gas:candidate-vibid:2722000849307": 2,
+      "gas:candidate-vibid:2722000850045": 4,
+      "gas:candidate-vibid:2722000850654": 13,
+      "gas:candidate-vibid:2722000850632": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=2722000792609&vrn=100100067795849&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=2722000792609&type=464",
@@ -2403,15 +2403,15 @@ export const duma_2016_uik_463_region_72_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агарков Андрей Александрович": 24,
-      "Ергалиев Алексей Аликович": 16,
-      "Зайцев Артем Николаевич": 119,
-      "Квитка Иван Иванович": 425,
-      "Кириллов Дмитрий Александрович": 25,
-      "Куниловский Александр Александрович": 6,
-      "Нестерова Наталия Владимировна": 16,
-      "Чепик Александр Федорович": 38,
-      "Шарпатов Владимир Ильич": 28
+      "gas:candidate-vibid:2722000850643": 24,
+      "gas:candidate-vibid:2722000850033": 16,
+      "gas:candidate-vibid:2722000842504": 119,
+      "gas:candidate-vibid:2722000850022": 425,
+      "gas:candidate-vibid:2722000850011": 25,
+      "gas:candidate-vibid:2722000849307": 6,
+      "gas:candidate-vibid:2722000850045": 16,
+      "gas:candidate-vibid:2722000850654": 38,
+      "gas:candidate-vibid:2722000850632": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=2722000792609&vrn=100100067795849&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=2722000792609&type=464",
@@ -2462,15 +2462,15 @@ export const duma_2016_uik_463_region_72_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агарков Андрей Александрович": 0,
-      "Ергалиев Алексей Аликович": 3,
-      "Зайцев Артем Николаевич": 13,
-      "Квитка Иван Иванович": 63,
-      "Кириллов Дмитрий Александрович": 0,
-      "Куниловский Александр Александрович": 0,
-      "Нестерова Наталия Владимировна": 0,
-      "Чепик Александр Федорович": 6,
-      "Шарпатов Владимир Ильич": 3
+      "gas:candidate-vibid:2722000850643": 0,
+      "gas:candidate-vibid:2722000850033": 3,
+      "gas:candidate-vibid:2722000842504": 13,
+      "gas:candidate-vibid:2722000850022": 63,
+      "gas:candidate-vibid:2722000850011": 0,
+      "gas:candidate-vibid:2722000849307": 0,
+      "gas:candidate-vibid:2722000850045": 0,
+      "gas:candidate-vibid:2722000850654": 6,
+      "gas:candidate-vibid:2722000850632": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=2722000792609&vrn=100100067795849&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=2722000792609&type=464",
@@ -2521,15 +2521,15 @@ export const duma_2016_uik_463_region_72_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агарков Андрей Александрович": 6,
-      "Ергалиев Алексей Аликович": 2,
-      "Зайцев Артем Николаевич": 24,
-      "Квитка Иван Иванович": 105,
-      "Кириллов Дмитрий Александрович": 11,
-      "Куниловский Александр Александрович": 0,
-      "Нестерова Наталия Владимировна": 8,
-      "Чепик Александр Федорович": 14,
-      "Шарпатов Владимир Ильич": 7
+      "gas:candidate-vibid:2722000850643": 6,
+      "gas:candidate-vibid:2722000850033": 2,
+      "gas:candidate-vibid:2722000842504": 24,
+      "gas:candidate-vibid:2722000850022": 105,
+      "gas:candidate-vibid:2722000850011": 11,
+      "gas:candidate-vibid:2722000849307": 0,
+      "gas:candidate-vibid:2722000850045": 8,
+      "gas:candidate-vibid:2722000850654": 14,
+      "gas:candidate-vibid:2722000850632": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=2722000792609&vrn=100100067795849&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=2722000792609&type=464",
@@ -2580,15 +2580,15 @@ export const duma_2016_uik_463_region_72_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агарков Андрей Александрович": 2,
-      "Ергалиев Алексей Аликович": 0,
-      "Зайцев Артем Николаевич": 6,
-      "Квитка Иван Иванович": 65,
-      "Кириллов Дмитрий Александрович": 1,
-      "Куниловский Александр Александрович": 0,
-      "Нестерова Наталия Владимировна": 0,
-      "Чепик Александр Федорович": 6,
-      "Шарпатов Владимир Ильич": 6
+      "gas:candidate-vibid:2722000850643": 2,
+      "gas:candidate-vibid:2722000850033": 0,
+      "gas:candidate-vibid:2722000842504": 6,
+      "gas:candidate-vibid:2722000850022": 65,
+      "gas:candidate-vibid:2722000850011": 1,
+      "gas:candidate-vibid:2722000849307": 0,
+      "gas:candidate-vibid:2722000850045": 0,
+      "gas:candidate-vibid:2722000850654": 6,
+      "gas:candidate-vibid:2722000850632": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=2722000792609&vrn=100100067795849&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=2722000792609&type=464",
@@ -2639,15 +2639,15 @@ export const duma_2016_uik_463_region_72_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агарков Андрей Александрович": 9,
-      "Ергалиев Алексей Аликович": 6,
-      "Зайцев Артем Николаевич": 15,
-      "Квитка Иван Иванович": 87,
-      "Кириллов Дмитрий Александрович": 1,
-      "Куниловский Александр Александрович": 0,
-      "Нестерова Наталия Владимировна": 8,
-      "Чепик Александр Федорович": 13,
-      "Шарпатов Владимир Ильич": 6
+      "gas:candidate-vibid:2722000850643": 9,
+      "gas:candidate-vibid:2722000850033": 6,
+      "gas:candidate-vibid:2722000842504": 15,
+      "gas:candidate-vibid:2722000850022": 87,
+      "gas:candidate-vibid:2722000850011": 1,
+      "gas:candidate-vibid:2722000849307": 0,
+      "gas:candidate-vibid:2722000850045": 8,
+      "gas:candidate-vibid:2722000850654": 13,
+      "gas:candidate-vibid:2722000850632": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=2722000792609&vrn=100100067795849&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=2722000792609&type=464",
@@ -2698,15 +2698,15 @@ export const duma_2016_uik_463_region_72_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агарков Андрей Александрович": 6,
-      "Ергалиев Алексей Аликович": 9,
-      "Зайцев Артем Николаевич": 71,
-      "Квитка Иван Иванович": 310,
-      "Кириллов Дмитрий Александрович": 10,
-      "Куниловский Александр Александрович": 4,
-      "Нестерова Наталия Владимировна": 29,
-      "Чепик Александр Федорович": 35,
-      "Шарпатов Владимир Ильич": 39
+      "gas:candidate-vibid:2722000850643": 6,
+      "gas:candidate-vibid:2722000850033": 9,
+      "gas:candidate-vibid:2722000842504": 71,
+      "gas:candidate-vibid:2722000850022": 310,
+      "gas:candidate-vibid:2722000850011": 10,
+      "gas:candidate-vibid:2722000849307": 4,
+      "gas:candidate-vibid:2722000850045": 29,
+      "gas:candidate-vibid:2722000850654": 35,
+      "gas:candidate-vibid:2722000850632": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=2722000792609&vrn=100100067795849&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=2722000792609&type=464",
@@ -2757,15 +2757,15 @@ export const duma_2016_uik_463_region_72_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агарков Андрей Александрович": 11,
-      "Ергалиев Алексей Аликович": 11,
-      "Зайцев Артем Николаевич": 87,
-      "Квитка Иван Иванович": 294,
-      "Кириллов Дмитрий Александрович": 18,
-      "Куниловский Александр Александрович": 8,
-      "Нестерова Наталия Владимировна": 19,
-      "Чепик Александр Федорович": 9,
-      "Шарпатов Владимир Ильич": 29
+      "gas:candidate-vibid:2722000850643": 11,
+      "gas:candidate-vibid:2722000850033": 11,
+      "gas:candidate-vibid:2722000842504": 87,
+      "gas:candidate-vibid:2722000850022": 294,
+      "gas:candidate-vibid:2722000850011": 18,
+      "gas:candidate-vibid:2722000849307": 8,
+      "gas:candidate-vibid:2722000850045": 19,
+      "gas:candidate-vibid:2722000850654": 9,
+      "gas:candidate-vibid:2722000850632": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=2722000792609&vrn=100100067795849&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=2722000792609&type=464",
@@ -2816,15 +2816,15 @@ export const duma_2016_uik_463_region_72_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агарков Андрей Александрович": 0,
-      "Ергалиев Алексей Аликович": 0,
-      "Зайцев Артем Николаевич": 50,
-      "Квитка Иван Иванович": 133,
-      "Кириллов Дмитрий Александрович": 7,
-      "Куниловский Александр Александрович": 0,
-      "Нестерова Наталия Владимировна": 0,
-      "Чепик Александр Федорович": 9,
-      "Шарпатов Владимир Ильич": 5
+      "gas:candidate-vibid:2722000850643": 0,
+      "gas:candidate-vibid:2722000850033": 0,
+      "gas:candidate-vibid:2722000842504": 50,
+      "gas:candidate-vibid:2722000850022": 133,
+      "gas:candidate-vibid:2722000850011": 7,
+      "gas:candidate-vibid:2722000849307": 0,
+      "gas:candidate-vibid:2722000850045": 0,
+      "gas:candidate-vibid:2722000850654": 9,
+      "gas:candidate-vibid:2722000850632": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=2722000792609&vrn=100100067795849&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=2722000792609&type=464",
@@ -2875,15 +2875,15 @@ export const duma_2016_uik_463_region_72_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агарков Андрей Александрович": 10,
-      "Ергалиев Алексей Аликович": 4,
-      "Зайцев Артем Николаевич": 48,
-      "Квитка Иван Иванович": 283,
-      "Кириллов Дмитрий Александрович": 3,
-      "Куниловский Александр Александрович": 2,
-      "Нестерова Наталия Владимировна": 6,
-      "Чепик Александр Федорович": 15,
-      "Шарпатов Владимир Ильич": 9
+      "gas:candidate-vibid:2722000850643": 10,
+      "gas:candidate-vibid:2722000850033": 4,
+      "gas:candidate-vibid:2722000842504": 48,
+      "gas:candidate-vibid:2722000850022": 283,
+      "gas:candidate-vibid:2722000850011": 3,
+      "gas:candidate-vibid:2722000849307": 2,
+      "gas:candidate-vibid:2722000850045": 6,
+      "gas:candidate-vibid:2722000850654": 15,
+      "gas:candidate-vibid:2722000850632": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=2722000792609&vrn=100100067795849&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=2722000792609&type=464",
@@ -2934,15 +2934,15 @@ export const duma_2016_uik_463_region_72_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агарков Андрей Александрович": 8,
-      "Ергалиев Алексей Аликович": 0,
-      "Зайцев Артем Николаевич": 25,
-      "Квитка Иван Иванович": 115,
-      "Кириллов Дмитрий Александрович": 0,
-      "Куниловский Александр Александрович": 0,
-      "Нестерова Наталия Владимировна": 4,
-      "Чепик Александр Федорович": 7,
-      "Шарпатов Владимир Ильич": 3
+      "gas:candidate-vibid:2722000850643": 8,
+      "gas:candidate-vibid:2722000850033": 0,
+      "gas:candidate-vibid:2722000842504": 25,
+      "gas:candidate-vibid:2722000850022": 115,
+      "gas:candidate-vibid:2722000850011": 0,
+      "gas:candidate-vibid:2722000849307": 0,
+      "gas:candidate-vibid:2722000850045": 4,
+      "gas:candidate-vibid:2722000850654": 7,
+      "gas:candidate-vibid:2722000850632": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=2722000792609&vrn=100100067795849&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=2722000792609&type=464",
@@ -2993,15 +2993,15 @@ export const duma_2016_uik_463_region_72_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агарков Андрей Александрович": 1,
-      "Ергалиев Алексей Аликович": 0,
-      "Зайцев Артем Николаевич": 19,
-      "Квитка Иван Иванович": 40,
-      "Кириллов Дмитрий Александрович": 0,
-      "Куниловский Александр Александрович": 0,
-      "Нестерова Наталия Владимировна": 1,
-      "Чепик Александр Федорович": 0,
-      "Шарпатов Владимир Ильич": 1
+      "gas:candidate-vibid:2722000850643": 1,
+      "gas:candidate-vibid:2722000850033": 0,
+      "gas:candidate-vibid:2722000842504": 19,
+      "gas:candidate-vibid:2722000850022": 40,
+      "gas:candidate-vibid:2722000850011": 0,
+      "gas:candidate-vibid:2722000849307": 0,
+      "gas:candidate-vibid:2722000850045": 1,
+      "gas:candidate-vibid:2722000850654": 0,
+      "gas:candidate-vibid:2722000850632": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=2722000792609&vrn=100100067795849&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=2722000792609&type=464",
@@ -3052,15 +3052,15 @@ export const duma_2016_uik_463_region_72_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агарков Андрей Александрович": 0,
-      "Ергалиев Алексей Аликович": 0,
-      "Зайцев Артем Николаевич": 33,
-      "Квитка Иван Иванович": 246,
-      "Кириллов Дмитрий Александрович": 0,
-      "Куниловский Александр Александрович": 0,
-      "Нестерова Наталия Владимировна": 46,
-      "Чепик Александр Федорович": 26,
-      "Шарпатов Владимир Ильич": 33
+      "gas:candidate-vibid:2722000850643": 0,
+      "gas:candidate-vibid:2722000850033": 0,
+      "gas:candidate-vibid:2722000842504": 33,
+      "gas:candidate-vibid:2722000850022": 246,
+      "gas:candidate-vibid:2722000850011": 0,
+      "gas:candidate-vibid:2722000849307": 0,
+      "gas:candidate-vibid:2722000850045": 46,
+      "gas:candidate-vibid:2722000850654": 26,
+      "gas:candidate-vibid:2722000850632": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=2722000792610&vrn=100100067795849&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=2722000792610&type=464",
@@ -3111,15 +3111,15 @@ export const duma_2016_uik_463_region_72_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агарков Андрей Александрович": 10,
-      "Ергалиев Алексей Аликович": 7,
-      "Зайцев Артем Николаевич": 32,
-      "Квитка Иван Иванович": 314,
-      "Кириллов Дмитрий Александрович": 15,
-      "Куниловский Александр Александрович": 5,
-      "Нестерова Наталия Владимировна": 27,
-      "Чепик Александр Федорович": 29,
-      "Шарпатов Владимир Ильич": 33
+      "gas:candidate-vibid:2722000850643": 10,
+      "gas:candidate-vibid:2722000850033": 7,
+      "gas:candidate-vibid:2722000842504": 32,
+      "gas:candidate-vibid:2722000850022": 314,
+      "gas:candidate-vibid:2722000850011": 15,
+      "gas:candidate-vibid:2722000849307": 5,
+      "gas:candidate-vibid:2722000850045": 27,
+      "gas:candidate-vibid:2722000850654": 29,
+      "gas:candidate-vibid:2722000850632": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=2722000792610&vrn=100100067795849&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=2722000792610&type=464",
@@ -3170,15 +3170,15 @@ export const duma_2016_uik_463_region_72_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агарков Андрей Александрович": 14,
-      "Ергалиев Алексей Аликович": 11,
-      "Зайцев Артем Николаевич": 57,
-      "Квитка Иван Иванович": 577,
-      "Кириллов Дмитрий Александрович": 9,
-      "Куниловский Александр Александрович": 5,
-      "Нестерова Наталия Владимировна": 15,
-      "Чепик Александр Федорович": 40,
-      "Шарпатов Владимир Ильич": 43
+      "gas:candidate-vibid:2722000850643": 14,
+      "gas:candidate-vibid:2722000850033": 11,
+      "gas:candidate-vibid:2722000842504": 57,
+      "gas:candidate-vibid:2722000850022": 577,
+      "gas:candidate-vibid:2722000850011": 9,
+      "gas:candidate-vibid:2722000849307": 5,
+      "gas:candidate-vibid:2722000850045": 15,
+      "gas:candidate-vibid:2722000850654": 40,
+      "gas:candidate-vibid:2722000850632": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=2722000792610&vrn=100100067795849&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=2722000792610&type=464",
@@ -3229,15 +3229,15 @@ export const duma_2016_uik_463_region_72_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агарков Андрей Александрович": 0,
-      "Ергалиев Алексей Аликович": 0,
-      "Зайцев Артем Николаевич": 2,
-      "Квитка Иван Иванович": 384,
-      "Кириллов Дмитрий Александрович": 0,
-      "Куниловский Александр Александрович": 0,
-      "Нестерова Наталия Владимировна": 3,
-      "Чепик Александр Федорович": 25,
-      "Шарпатов Владимир Ильич": 0
+      "gas:candidate-vibid:2722000850643": 0,
+      "gas:candidate-vibid:2722000850033": 0,
+      "gas:candidate-vibid:2722000842504": 2,
+      "gas:candidate-vibid:2722000850022": 384,
+      "gas:candidate-vibid:2722000850011": 0,
+      "gas:candidate-vibid:2722000849307": 0,
+      "gas:candidate-vibid:2722000850045": 3,
+      "gas:candidate-vibid:2722000850654": 25,
+      "gas:candidate-vibid:2722000850632": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=2722000792610&vrn=100100067795849&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=2722000792610&type=464",
@@ -3288,15 +3288,15 @@ export const duma_2016_uik_463_region_72_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агарков Андрей Александрович": 0,
-      "Ергалиев Алексей Аликович": 2,
-      "Зайцев Артем Николаевич": 6,
-      "Квитка Иван Иванович": 207,
-      "Кириллов Дмитрий Александрович": 0,
-      "Куниловский Александр Александрович": 1,
-      "Нестерова Наталия Владимировна": 4,
-      "Чепик Александр Федорович": 18,
-      "Шарпатов Владимир Ильич": 0
+      "gas:candidate-vibid:2722000850643": 0,
+      "gas:candidate-vibid:2722000850033": 2,
+      "gas:candidate-vibid:2722000842504": 6,
+      "gas:candidate-vibid:2722000850022": 207,
+      "gas:candidate-vibid:2722000850011": 0,
+      "gas:candidate-vibid:2722000849307": 1,
+      "gas:candidate-vibid:2722000850045": 4,
+      "gas:candidate-vibid:2722000850654": 18,
+      "gas:candidate-vibid:2722000850632": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=2722000792610&vrn=100100067795849&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=2722000792610&type=464",
@@ -3347,15 +3347,15 @@ export const duma_2016_uik_463_region_72_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агарков Андрей Александрович": 0,
-      "Ергалиев Алексей Аликович": 0,
-      "Зайцев Артем Николаевич": 0,
-      "Квитка Иван Иванович": 283,
-      "Кириллов Дмитрий Александрович": 0,
-      "Куниловский Александр Александрович": 0,
-      "Нестерова Наталия Владимировна": 0,
-      "Чепик Александр Федорович": 45,
-      "Шарпатов Владимир Ильич": 0
+      "gas:candidate-vibid:2722000850643": 0,
+      "gas:candidate-vibid:2722000850033": 0,
+      "gas:candidate-vibid:2722000842504": 0,
+      "gas:candidate-vibid:2722000850022": 283,
+      "gas:candidate-vibid:2722000850011": 0,
+      "gas:candidate-vibid:2722000849307": 0,
+      "gas:candidate-vibid:2722000850045": 0,
+      "gas:candidate-vibid:2722000850654": 45,
+      "gas:candidate-vibid:2722000850632": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=2722000792610&vrn=100100067795849&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=2722000792610&type=464",
@@ -3406,15 +3406,15 @@ export const duma_2016_uik_463_region_72_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агарков Андрей Александрович": 13,
-      "Ергалиев Алексей Аликович": 22,
-      "Зайцев Артем Николаевич": 71,
-      "Квитка Иван Иванович": 666,
-      "Кириллов Дмитрий Александрович": 0,
-      "Куниловский Александр Александрович": 4,
-      "Нестерова Наталия Владимировна": 70,
-      "Чепик Александр Федорович": 20,
-      "Шарпатов Владимир Ильич": 49
+      "gas:candidate-vibid:2722000850643": 13,
+      "gas:candidate-vibid:2722000850033": 22,
+      "gas:candidate-vibid:2722000842504": 71,
+      "gas:candidate-vibid:2722000850022": 666,
+      "gas:candidate-vibid:2722000850011": 0,
+      "gas:candidate-vibid:2722000849307": 4,
+      "gas:candidate-vibid:2722000850045": 70,
+      "gas:candidate-vibid:2722000850654": 20,
+      "gas:candidate-vibid:2722000850632": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=2722000792610&vrn=100100067795849&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=2722000792610&type=464",
@@ -3465,15 +3465,15 @@ export const duma_2016_uik_463_region_72_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агарков Андрей Александрович": 82,
-      "Ергалиев Алексей Аликович": 67,
-      "Зайцев Артем Николаевич": 108,
-      "Квитка Иван Иванович": 279,
-      "Кириллов Дмитрий Александрович": 30,
-      "Куниловский Александр Александрович": 60,
-      "Нестерова Наталия Владимировна": 91,
-      "Чепик Александр Федорович": 92,
-      "Шарпатов Владимир Ильич": 127
+      "gas:candidate-vibid:2722000850643": 82,
+      "gas:candidate-vibid:2722000850033": 67,
+      "gas:candidate-vibid:2722000842504": 108,
+      "gas:candidate-vibid:2722000850022": 279,
+      "gas:candidate-vibid:2722000850011": 30,
+      "gas:candidate-vibid:2722000849307": 60,
+      "gas:candidate-vibid:2722000850045": 91,
+      "gas:candidate-vibid:2722000850654": 92,
+      "gas:candidate-vibid:2722000850632": 127
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=2722000792610&vrn=100100067795849&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=2722000792610&type=464",
@@ -3524,15 +3524,15 @@ export const duma_2016_uik_463_region_72_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агарков Андрей Александрович": 30,
-      "Ергалиев Алексей Аликович": 13,
-      "Зайцев Артем Николаевич": 100,
-      "Квитка Иван Иванович": 494,
-      "Кириллов Дмитрий Александрович": 20,
-      "Куниловский Александр Александрович": 10,
-      "Нестерова Наталия Владимировна": 56,
-      "Чепик Александр Федорович": 70,
-      "Шарпатов Владимир Ильич": 133
+      "gas:candidate-vibid:2722000850643": 30,
+      "gas:candidate-vibid:2722000850033": 13,
+      "gas:candidate-vibid:2722000842504": 100,
+      "gas:candidate-vibid:2722000850022": 494,
+      "gas:candidate-vibid:2722000850011": 20,
+      "gas:candidate-vibid:2722000849307": 10,
+      "gas:candidate-vibid:2722000850045": 56,
+      "gas:candidate-vibid:2722000850654": 70,
+      "gas:candidate-vibid:2722000850632": 133
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=2722000792610&vrn=100100067795849&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=2722000792610&type=464",
@@ -3583,15 +3583,15 @@ export const duma_2016_uik_463_region_72_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агарков Андрей Александрович": 27,
-      "Ергалиев Алексей Аликович": 10,
-      "Зайцев Артем Николаевич": 79,
-      "Квитка Иван Иванович": 321,
-      "Кириллов Дмитрий Александрович": 19,
-      "Куниловский Александр Александрович": 5,
-      "Нестерова Наталия Владимировна": 48,
-      "Чепик Александр Федорович": 41,
-      "Шарпатов Владимир Ильич": 80
+      "gas:candidate-vibid:2722000850643": 27,
+      "gas:candidate-vibid:2722000850033": 10,
+      "gas:candidate-vibid:2722000842504": 79,
+      "gas:candidate-vibid:2722000850022": 321,
+      "gas:candidate-vibid:2722000850011": 19,
+      "gas:candidate-vibid:2722000849307": 5,
+      "gas:candidate-vibid:2722000850045": 48,
+      "gas:candidate-vibid:2722000850654": 41,
+      "gas:candidate-vibid:2722000850632": 80
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=2722000792610&vrn=100100067795849&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=2722000792610&type=464",
@@ -3642,15 +3642,15 @@ export const duma_2016_uik_463_region_72_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агарков Андрей Александрович": 8,
-      "Ергалиев Алексей Аликович": 4,
-      "Зайцев Артем Николаевич": 46,
-      "Квитка Иван Иванович": 489,
-      "Кириллов Дмитрий Александрович": 14,
-      "Куниловский Александр Александрович": 12,
-      "Нестерова Наталия Владимировна": 23,
-      "Чепик Александр Федорович": 164,
-      "Шарпатов Владимир Ильич": 49
+      "gas:candidate-vibid:2722000850643": 8,
+      "gas:candidate-vibid:2722000850033": 4,
+      "gas:candidate-vibid:2722000842504": 46,
+      "gas:candidate-vibid:2722000850022": 489,
+      "gas:candidate-vibid:2722000850011": 14,
+      "gas:candidate-vibid:2722000849307": 12,
+      "gas:candidate-vibid:2722000850045": 23,
+      "gas:candidate-vibid:2722000850654": 164,
+      "gas:candidate-vibid:2722000850632": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=2722000792610&vrn=100100067795849&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=2722000792610&type=464",
@@ -3701,15 +3701,15 @@ export const duma_2016_uik_463_region_72_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агарков Андрей Александрович": 21,
-      "Ергалиев Алексей Аликович": 17,
-      "Зайцев Артем Николаевич": 21,
-      "Квитка Иван Иванович": 653,
-      "Кириллов Дмитрий Александрович": 0,
-      "Куниловский Александр Александрович": 0,
-      "Нестерова Наталия Владимировна": 46,
-      "Чепик Александр Федорович": 30,
-      "Шарпатов Владимир Ильич": 77
+      "gas:candidate-vibid:2722000850643": 21,
+      "gas:candidate-vibid:2722000850033": 17,
+      "gas:candidate-vibid:2722000842504": 21,
+      "gas:candidate-vibid:2722000850022": 653,
+      "gas:candidate-vibid:2722000850011": 0,
+      "gas:candidate-vibid:2722000849307": 0,
+      "gas:candidate-vibid:2722000850045": 46,
+      "gas:candidate-vibid:2722000850654": 30,
+      "gas:candidate-vibid:2722000850632": 77
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=2722000792610&vrn=100100067795849&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=2722000792610&type=464",
@@ -3760,15 +3760,15 @@ export const duma_2016_uik_463_region_72_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агарков Андрей Александрович": 8,
-      "Ергалиев Алексей Аликович": 9,
-      "Зайцев Артем Николаевич": 31,
-      "Квитка Иван Иванович": 701,
-      "Кириллов Дмитрий Александрович": 9,
-      "Куниловский Александр Александрович": 3,
-      "Нестерова Наталия Владимировна": 50,
-      "Чепик Александр Федорович": 30,
-      "Шарпатов Владимир Ильич": 12
+      "gas:candidate-vibid:2722000850643": 8,
+      "gas:candidate-vibid:2722000850033": 9,
+      "gas:candidate-vibid:2722000842504": 31,
+      "gas:candidate-vibid:2722000850022": 701,
+      "gas:candidate-vibid:2722000850011": 9,
+      "gas:candidate-vibid:2722000849307": 3,
+      "gas:candidate-vibid:2722000850045": 50,
+      "gas:candidate-vibid:2722000850654": 30,
+      "gas:candidate-vibid:2722000850632": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=2722000792610&vrn=100100067795849&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=2722000792610&type=464",
@@ -3819,15 +3819,15 @@ export const duma_2016_uik_463_region_72_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агарков Андрей Александрович": 3,
-      "Ергалиев Алексей Аликович": 3,
-      "Зайцев Артем Николаевич": 32,
-      "Квитка Иван Иванович": 797,
-      "Кириллов Дмитрий Александрович": 11,
-      "Куниловский Александр Александрович": 1,
-      "Нестерова Наталия Владимировна": 26,
-      "Чепик Александр Федорович": 48,
-      "Шарпатов Владимир Ильич": 41
+      "gas:candidate-vibid:2722000850643": 3,
+      "gas:candidate-vibid:2722000850033": 3,
+      "gas:candidate-vibid:2722000842504": 32,
+      "gas:candidate-vibid:2722000850022": 797,
+      "gas:candidate-vibid:2722000850011": 11,
+      "gas:candidate-vibid:2722000849307": 1,
+      "gas:candidate-vibid:2722000850045": 26,
+      "gas:candidate-vibid:2722000850654": 48,
+      "gas:candidate-vibid:2722000850632": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=2722000792610&vrn=100100067795849&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=2722000792610&type=464",
@@ -3878,15 +3878,15 @@ export const duma_2016_uik_463_region_72_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агарков Андрей Александрович": 3,
-      "Ергалиев Алексей Аликович": 2,
-      "Зайцев Артем Николаевич": 20,
-      "Квитка Иван Иванович": 1004,
-      "Кириллов Дмитрий Александрович": 0,
-      "Куниловский Александр Александрович": 3,
-      "Нестерова Наталия Владимировна": 39,
-      "Чепик Александр Федорович": 14,
-      "Шарпатов Владимир Ильич": 10
+      "gas:candidate-vibid:2722000850643": 3,
+      "gas:candidate-vibid:2722000850033": 2,
+      "gas:candidate-vibid:2722000842504": 20,
+      "gas:candidate-vibid:2722000850022": 1004,
+      "gas:candidate-vibid:2722000850011": 0,
+      "gas:candidate-vibid:2722000849307": 3,
+      "gas:candidate-vibid:2722000850045": 39,
+      "gas:candidate-vibid:2722000850654": 14,
+      "gas:candidate-vibid:2722000850632": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=2722000792610&vrn=100100067795849&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=2722000792610&type=464",
@@ -3937,15 +3937,15 @@ export const duma_2016_uik_463_region_72_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агарков Андрей Александрович": 41,
-      "Ергалиев Алексей Аликович": 15,
-      "Зайцев Артем Николаевич": 125,
-      "Квитка Иван Иванович": 854,
-      "Кириллов Дмитрий Александрович": 15,
-      "Куниловский Александр Александрович": 12,
-      "Нестерова Наталия Владимировна": 103,
-      "Чепик Александр Федорович": 84,
-      "Шарпатов Владимир Ильич": 111
+      "gas:candidate-vibid:2722000850643": 41,
+      "gas:candidate-vibid:2722000850033": 15,
+      "gas:candidate-vibid:2722000842504": 125,
+      "gas:candidate-vibid:2722000850022": 854,
+      "gas:candidate-vibid:2722000850011": 15,
+      "gas:candidate-vibid:2722000849307": 12,
+      "gas:candidate-vibid:2722000850045": 103,
+      "gas:candidate-vibid:2722000850654": 84,
+      "gas:candidate-vibid:2722000850632": 111
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=2722000792610&vrn=100100067795849&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=2722000792610&type=464",
@@ -3996,15 +3996,15 @@ export const duma_2016_uik_463_region_72_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агарков Андрей Александрович": 1,
-      "Ергалиев Алексей Аликович": 3,
-      "Зайцев Артем Николаевич": 3,
-      "Квитка Иван Иванович": 437,
-      "Кириллов Дмитрий Александрович": 2,
-      "Куниловский Александр Александрович": 3,
-      "Нестерова Наталия Владимировна": 4,
-      "Чепик Александр Федорович": 3,
-      "Шарпатов Владимир Ильич": 4
+      "gas:candidate-vibid:2722000850643": 1,
+      "gas:candidate-vibid:2722000850033": 3,
+      "gas:candidate-vibid:2722000842504": 3,
+      "gas:candidate-vibid:2722000850022": 437,
+      "gas:candidate-vibid:2722000850011": 2,
+      "gas:candidate-vibid:2722000849307": 3,
+      "gas:candidate-vibid:2722000850045": 4,
+      "gas:candidate-vibid:2722000850654": 3,
+      "gas:candidate-vibid:2722000850632": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=2722000792610&vrn=100100067795849&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=2722000792610&type=464",
@@ -4055,15 +4055,15 @@ export const duma_2016_uik_463_region_72_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агарков Андрей Александрович": 0,
-      "Ергалиев Алексей Аликович": 0,
-      "Зайцев Артем Николаевич": 5,
-      "Квитка Иван Иванович": 76,
-      "Кириллов Дмитрий Александрович": 2,
-      "Куниловский Александр Александрович": 9,
-      "Нестерова Наталия Владимировна": 3,
-      "Чепик Александр Федорович": 4,
-      "Шарпатов Владимир Ильич": 0
+      "gas:candidate-vibid:2722000850643": 0,
+      "gas:candidate-vibid:2722000850033": 0,
+      "gas:candidate-vibid:2722000842504": 5,
+      "gas:candidate-vibid:2722000850022": 76,
+      "gas:candidate-vibid:2722000850011": 2,
+      "gas:candidate-vibid:2722000849307": 9,
+      "gas:candidate-vibid:2722000850045": 3,
+      "gas:candidate-vibid:2722000850654": 4,
+      "gas:candidate-vibid:2722000850632": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=2722000792610&vrn=100100067795849&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=2722000792610&type=464",
@@ -4114,15 +4114,15 @@ export const duma_2016_uik_463_region_72_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агарков Андрей Александрович": 0,
-      "Ергалиев Алексей Аликович": 0,
-      "Зайцев Артем Николаевич": 8,
-      "Квитка Иван Иванович": 137,
-      "Кириллов Дмитрий Александрович": 0,
-      "Куниловский Александр Александрович": 0,
-      "Нестерова Наталия Владимировна": 10,
-      "Чепик Александр Федорович": 4,
-      "Шарпатов Владимир Ильич": 0
+      "gas:candidate-vibid:2722000850643": 0,
+      "gas:candidate-vibid:2722000850033": 0,
+      "gas:candidate-vibid:2722000842504": 8,
+      "gas:candidate-vibid:2722000850022": 137,
+      "gas:candidate-vibid:2722000850011": 0,
+      "gas:candidate-vibid:2722000849307": 0,
+      "gas:candidate-vibid:2722000850045": 10,
+      "gas:candidate-vibid:2722000850654": 4,
+      "gas:candidate-vibid:2722000850632": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=2722000792610&vrn=100100067795849&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=2722000792610&type=464",
@@ -4173,15 +4173,15 @@ export const duma_2016_uik_463_region_72_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агарков Андрей Александрович": 2,
-      "Ергалиев Алексей Аликович": 2,
-      "Зайцев Артем Николаевич": 3,
-      "Квитка Иван Иванович": 306,
-      "Кириллов Дмитрий Александрович": 1,
-      "Куниловский Александр Александрович": 2,
-      "Нестерова Наталия Владимировна": 4,
-      "Чепик Александр Федорович": 5,
-      "Шарпатов Владимир Ильич": 3
+      "gas:candidate-vibid:2722000850643": 2,
+      "gas:candidate-vibid:2722000850033": 2,
+      "gas:candidate-vibid:2722000842504": 3,
+      "gas:candidate-vibid:2722000850022": 306,
+      "gas:candidate-vibid:2722000850011": 1,
+      "gas:candidate-vibid:2722000849307": 2,
+      "gas:candidate-vibid:2722000850045": 4,
+      "gas:candidate-vibid:2722000850654": 5,
+      "gas:candidate-vibid:2722000850632": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=2722000792610&vrn=100100067795849&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=2722000792610&type=464",
@@ -4232,15 +4232,15 @@ export const duma_2016_uik_463_region_72_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агарков Андрей Александрович": 0,
-      "Ергалиев Алексей Аликович": 0,
-      "Зайцев Артем Николаевич": 4,
-      "Квитка Иван Иванович": 544,
-      "Кириллов Дмитрий Александрович": 14,
-      "Куниловский Александр Александрович": 0,
-      "Нестерова Наталия Владимировна": 0,
-      "Чепик Александр Федорович": 5,
-      "Шарпатов Владимир Ильич": 3
+      "gas:candidate-vibid:2722000850643": 0,
+      "gas:candidate-vibid:2722000850033": 0,
+      "gas:candidate-vibid:2722000842504": 4,
+      "gas:candidate-vibid:2722000850022": 544,
+      "gas:candidate-vibid:2722000850011": 14,
+      "gas:candidate-vibid:2722000849307": 0,
+      "gas:candidate-vibid:2722000850045": 0,
+      "gas:candidate-vibid:2722000850654": 5,
+      "gas:candidate-vibid:2722000850632": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=2722000792610&vrn=100100067795849&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=2722000792610&type=464",
@@ -4291,15 +4291,15 @@ export const duma_2016_uik_463_region_72_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агарков Андрей Александрович": 6,
-      "Ергалиев Алексей Аликович": 6,
-      "Зайцев Артем Николаевич": 4,
-      "Квитка Иван Иванович": 478,
-      "Кириллов Дмитрий Александрович": 9,
-      "Куниловский Александр Александрович": 4,
-      "Нестерова Наталия Владимировна": 39,
-      "Чепик Александр Федорович": 43,
-      "Шарпатов Владимир Ильич": 47
+      "gas:candidate-vibid:2722000850643": 6,
+      "gas:candidate-vibid:2722000850033": 6,
+      "gas:candidate-vibid:2722000842504": 4,
+      "gas:candidate-vibid:2722000850022": 478,
+      "gas:candidate-vibid:2722000850011": 9,
+      "gas:candidate-vibid:2722000849307": 4,
+      "gas:candidate-vibid:2722000850045": 39,
+      "gas:candidate-vibid:2722000850654": 43,
+      "gas:candidate-vibid:2722000850632": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=2722000792610&vrn=100100067795849&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=2722000792610&type=464",
@@ -4350,15 +4350,15 @@ export const duma_2016_uik_463_region_72_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агарков Андрей Александрович": 20,
-      "Ергалиев Алексей Аликович": 10,
-      "Зайцев Артем Николаевич": 58,
-      "Квитка Иван Иванович": 414,
-      "Кириллов Дмитрий Александрович": 25,
-      "Куниловский Александр Александрович": 8,
-      "Нестерова Наталия Владимировна": 47,
-      "Чепик Александр Федорович": 49,
-      "Шарпатов Владимир Ильич": 36
+      "gas:candidate-vibid:2722000850643": 20,
+      "gas:candidate-vibid:2722000850033": 10,
+      "gas:candidate-vibid:2722000842504": 58,
+      "gas:candidate-vibid:2722000850022": 414,
+      "gas:candidate-vibid:2722000850011": 25,
+      "gas:candidate-vibid:2722000849307": 8,
+      "gas:candidate-vibid:2722000850045": 47,
+      "gas:candidate-vibid:2722000850654": 49,
+      "gas:candidate-vibid:2722000850632": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=2722000792610&vrn=100100067795849&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=2722000792610&type=464",
@@ -4409,15 +4409,15 @@ export const duma_2016_uik_463_region_72_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агарков Андрей Александрович": 24,
-      "Ергалиев Алексей Аликович": 6,
-      "Зайцев Артем Николаевич": 42,
-      "Квитка Иван Иванович": 343,
-      "Кириллов Дмитрий Александрович": 7,
-      "Куниловский Александр Александрович": 0,
-      "Нестерова Наталия Владимировна": 31,
-      "Чепик Александр Федорович": 45,
-      "Шарпатов Владимир Ильич": 44
+      "gas:candidate-vibid:2722000850643": 24,
+      "gas:candidate-vibid:2722000850033": 6,
+      "gas:candidate-vibid:2722000842504": 42,
+      "gas:candidate-vibid:2722000850022": 343,
+      "gas:candidate-vibid:2722000850011": 7,
+      "gas:candidate-vibid:2722000849307": 0,
+      "gas:candidate-vibid:2722000850045": 31,
+      "gas:candidate-vibid:2722000850654": 45,
+      "gas:candidate-vibid:2722000850632": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=2722000792610&vrn=100100067795849&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=2722000792610&type=464",
@@ -4468,15 +4468,15 @@ export const duma_2016_uik_463_region_72_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агарков Андрей Александрович": 0,
-      "Ергалиев Алексей Аликович": 3,
-      "Зайцев Артем Николаевич": 11,
-      "Квитка Иван Иванович": 476,
-      "Кириллов Дмитрий Александрович": 4,
-      "Куниловский Александр Александрович": 8,
-      "Нестерова Наталия Владимировна": 20,
-      "Чепик Александр Федорович": 32,
-      "Шарпатов Владимир Ильич": 12
+      "gas:candidate-vibid:2722000850643": 0,
+      "gas:candidate-vibid:2722000850033": 3,
+      "gas:candidate-vibid:2722000842504": 11,
+      "gas:candidate-vibid:2722000850022": 476,
+      "gas:candidate-vibid:2722000850011": 4,
+      "gas:candidate-vibid:2722000849307": 8,
+      "gas:candidate-vibid:2722000850045": 20,
+      "gas:candidate-vibid:2722000850654": 32,
+      "gas:candidate-vibid:2722000850632": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=2722000792610&vrn=100100067795849&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=2722000792610&type=464",
@@ -4527,15 +4527,15 @@ export const duma_2016_uik_463_region_72_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агарков Андрей Александрович": 8,
-      "Ергалиев Алексей Аликович": 3,
-      "Зайцев Артем Николаевич": 10,
-      "Квитка Иван Иванович": 481,
-      "Кириллов Дмитрий Александрович": 6,
-      "Куниловский Александр Александрович": 1,
-      "Нестерова Наталия Владимировна": 7,
-      "Чепик Александр Федорович": 11,
-      "Шарпатов Владимир Ильич": 11
+      "gas:candidate-vibid:2722000850643": 8,
+      "gas:candidate-vibid:2722000850033": 3,
+      "gas:candidate-vibid:2722000842504": 10,
+      "gas:candidate-vibid:2722000850022": 481,
+      "gas:candidate-vibid:2722000850011": 6,
+      "gas:candidate-vibid:2722000849307": 1,
+      "gas:candidate-vibid:2722000850045": 7,
+      "gas:candidate-vibid:2722000850654": 11,
+      "gas:candidate-vibid:2722000850632": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=2722000792610&vrn=100100067795849&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=2722000792610&type=464",
@@ -4586,15 +4586,15 @@ export const duma_2016_uik_463_region_72_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агарков Андрей Александрович": 3,
-      "Ергалиев Алексей Аликович": 0,
-      "Зайцев Артем Николаевич": 10,
-      "Квитка Иван Иванович": 37,
-      "Кириллов Дмитрий Александрович": 0,
-      "Куниловский Александр Александрович": 0,
-      "Нестерова Наталия Владимировна": 5,
-      "Чепик Александр Федорович": 2,
-      "Шарпатов Владимир Ильич": 2
+      "gas:candidate-vibid:2722000850643": 3,
+      "gas:candidate-vibid:2722000850033": 0,
+      "gas:candidate-vibid:2722000842504": 10,
+      "gas:candidate-vibid:2722000850022": 37,
+      "gas:candidate-vibid:2722000850011": 0,
+      "gas:candidate-vibid:2722000849307": 0,
+      "gas:candidate-vibid:2722000850045": 5,
+      "gas:candidate-vibid:2722000850654": 2,
+      "gas:candidate-vibid:2722000850632": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=2722000792610&vrn=100100067795849&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=2722000792610&type=464",
@@ -4645,15 +4645,15 @@ export const duma_2016_uik_463_region_72_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агарков Андрей Александрович": 20,
-      "Ергалиев Алексей Аликович": 11,
-      "Зайцев Артем Николаевич": 48,
-      "Квитка Иван Иванович": 330,
-      "Кириллов Дмитрий Александрович": 14,
-      "Куниловский Александр Александрович": 7,
-      "Нестерова Наталия Владимировна": 53,
-      "Чепик Александр Федорович": 23,
-      "Шарпатов Владимир Ильич": 42
+      "gas:candidate-vibid:2722000850643": 20,
+      "gas:candidate-vibid:2722000850033": 11,
+      "gas:candidate-vibid:2722000842504": 48,
+      "gas:candidate-vibid:2722000850022": 330,
+      "gas:candidate-vibid:2722000850011": 14,
+      "gas:candidate-vibid:2722000849307": 7,
+      "gas:candidate-vibid:2722000850045": 53,
+      "gas:candidate-vibid:2722000850654": 23,
+      "gas:candidate-vibid:2722000850632": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=2722000792610&vrn=100100067795849&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=2722000792610&type=464",
@@ -4704,15 +4704,15 @@ export const duma_2016_uik_463_region_72_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агарков Андрей Александрович": 7,
-      "Ергалиев Алексей Аликович": 5,
-      "Зайцев Артем Николаевич": 21,
-      "Квитка Иван Иванович": 202,
-      "Кириллов Дмитрий Александрович": 3,
-      "Куниловский Александр Александрович": 2,
-      "Нестерова Наталия Владимировна": 19,
-      "Чепик Александр Федорович": 8,
-      "Шарпатов Владимир Ильич": 14
+      "gas:candidate-vibid:2722000850643": 7,
+      "gas:candidate-vibid:2722000850033": 5,
+      "gas:candidate-vibid:2722000842504": 21,
+      "gas:candidate-vibid:2722000850022": 202,
+      "gas:candidate-vibid:2722000850011": 3,
+      "gas:candidate-vibid:2722000849307": 2,
+      "gas:candidate-vibid:2722000850045": 19,
+      "gas:candidate-vibid:2722000850654": 8,
+      "gas:candidate-vibid:2722000850632": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=2722000792610&vrn=100100067795849&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=2722000792610&type=464",
@@ -4763,15 +4763,15 @@ export const duma_2016_uik_463_region_72_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агарков Андрей Александрович": 17,
-      "Ергалиев Алексей Аликович": 0,
-      "Зайцев Артем Николаевич": 27,
-      "Квитка Иван Иванович": 218,
-      "Кириллов Дмитрий Александрович": 0,
-      "Куниловский Александр Александрович": 0,
-      "Нестерова Наталия Владимировна": 26,
-      "Чепик Александр Федорович": 37,
-      "Шарпатов Владимир Ильич": 15
+      "gas:candidate-vibid:2722000850643": 17,
+      "gas:candidate-vibid:2722000850033": 0,
+      "gas:candidate-vibid:2722000842504": 27,
+      "gas:candidate-vibid:2722000850022": 218,
+      "gas:candidate-vibid:2722000850011": 0,
+      "gas:candidate-vibid:2722000849307": 0,
+      "gas:candidate-vibid:2722000850045": 26,
+      "gas:candidate-vibid:2722000850654": 37,
+      "gas:candidate-vibid:2722000850632": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=2722000792611&vrn=100100067795849&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=2722000792611&type=464",
@@ -4822,15 +4822,15 @@ export const duma_2016_uik_463_region_72_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агарков Андрей Александрович": 10,
-      "Ергалиев Алексей Аликович": 7,
-      "Зайцев Артем Николаевич": 54,
-      "Квитка Иван Иванович": 321,
-      "Кириллов Дмитрий Александрович": 3,
-      "Куниловский Александр Александрович": 2,
-      "Нестерова Наталия Владимировна": 22,
-      "Чепик Александр Федорович": 31,
-      "Шарпатов Владимир Ильич": 5
+      "gas:candidate-vibid:2722000850643": 10,
+      "gas:candidate-vibid:2722000850033": 7,
+      "gas:candidate-vibid:2722000842504": 54,
+      "gas:candidate-vibid:2722000850022": 321,
+      "gas:candidate-vibid:2722000850011": 3,
+      "gas:candidate-vibid:2722000849307": 2,
+      "gas:candidate-vibid:2722000850045": 22,
+      "gas:candidate-vibid:2722000850654": 31,
+      "gas:candidate-vibid:2722000850632": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=2722000792611&vrn=100100067795849&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=2722000792611&type=464",
@@ -4881,15 +4881,15 @@ export const duma_2016_uik_463_region_72_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агарков Андрей Александрович": 6,
-      "Ергалиев Алексей Аликович": 1,
-      "Зайцев Артем Николаевич": 52,
-      "Квитка Иван Иванович": 319,
-      "Кириллов Дмитрий Александрович": 1,
-      "Куниловский Александр Александрович": 1,
-      "Нестерова Наталия Владимировна": 29,
-      "Чепик Александр Федорович": 18,
-      "Шарпатов Владимир Ильич": 13
+      "gas:candidate-vibid:2722000850643": 6,
+      "gas:candidate-vibid:2722000850033": 1,
+      "gas:candidate-vibid:2722000842504": 52,
+      "gas:candidate-vibid:2722000850022": 319,
+      "gas:candidate-vibid:2722000850011": 1,
+      "gas:candidate-vibid:2722000849307": 1,
+      "gas:candidate-vibid:2722000850045": 29,
+      "gas:candidate-vibid:2722000850654": 18,
+      "gas:candidate-vibid:2722000850632": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=2722000792611&vrn=100100067795849&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=2722000792611&type=464",
@@ -4940,15 +4940,15 @@ export const duma_2016_uik_463_region_72_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агарков Андрей Александрович": 3,
-      "Ергалиев Алексей Аликович": 0,
-      "Зайцев Артем Николаевич": 71,
-      "Квитка Иван Иванович": 280,
-      "Кириллов Дмитрий Александрович": 1,
-      "Куниловский Александр Александрович": 0,
-      "Нестерова Наталия Владимировна": 39,
-      "Чепик Александр Федорович": 18,
-      "Шарпатов Владимир Ильич": 20
+      "gas:candidate-vibid:2722000850643": 3,
+      "gas:candidate-vibid:2722000850033": 0,
+      "gas:candidate-vibid:2722000842504": 71,
+      "gas:candidate-vibid:2722000850022": 280,
+      "gas:candidate-vibid:2722000850011": 1,
+      "gas:candidate-vibid:2722000849307": 0,
+      "gas:candidate-vibid:2722000850045": 39,
+      "gas:candidate-vibid:2722000850654": 18,
+      "gas:candidate-vibid:2722000850632": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=2722000792611&vrn=100100067795849&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=2722000792611&type=464",
@@ -4999,15 +4999,15 @@ export const duma_2016_uik_463_region_72_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агарков Андрей Александрович": 2,
-      "Ергалиев Алексей Аликович": 1,
-      "Зайцев Артем Николаевич": 15,
-      "Квитка Иван Иванович": 272,
-      "Кириллов Дмитрий Александрович": 3,
-      "Куниловский Александр Александрович": 2,
-      "Нестерова Наталия Владимировна": 0,
-      "Чепик Александр Федорович": 60,
-      "Шарпатов Владимир Ильич": 17
+      "gas:candidate-vibid:2722000850643": 2,
+      "gas:candidate-vibid:2722000850033": 1,
+      "gas:candidate-vibid:2722000842504": 15,
+      "gas:candidate-vibid:2722000850022": 272,
+      "gas:candidate-vibid:2722000850011": 3,
+      "gas:candidate-vibid:2722000849307": 2,
+      "gas:candidate-vibid:2722000850045": 0,
+      "gas:candidate-vibid:2722000850654": 60,
+      "gas:candidate-vibid:2722000850632": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=2722000792611&vrn=100100067795849&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=2722000792611&type=464",
@@ -5058,15 +5058,15 @@ export const duma_2016_uik_463_region_72_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агарков Андрей Александрович": 4,
-      "Ергалиев Алексей Аликович": 3,
-      "Зайцев Артем Николаевич": 98,
-      "Квитка Иван Иванович": 325,
-      "Кириллов Дмитрий Александрович": 0,
-      "Куниловский Александр Александрович": 3,
-      "Нестерова Наталия Владимировна": 2,
-      "Чепик Александр Федорович": 20,
-      "Шарпатов Владимир Ильич": 3
+      "gas:candidate-vibid:2722000850643": 4,
+      "gas:candidate-vibid:2722000850033": 3,
+      "gas:candidate-vibid:2722000842504": 98,
+      "gas:candidate-vibid:2722000850022": 325,
+      "gas:candidate-vibid:2722000850011": 0,
+      "gas:candidate-vibid:2722000849307": 3,
+      "gas:candidate-vibid:2722000850045": 2,
+      "gas:candidate-vibid:2722000850654": 20,
+      "gas:candidate-vibid:2722000850632": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=2722000792611&vrn=100100067795849&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=2722000792611&type=464",
@@ -5117,15 +5117,15 @@ export const duma_2016_uik_463_region_72_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агарков Андрей Александрович": 1,
-      "Ергалиев Алексей Аликович": 1,
-      "Зайцев Артем Николаевич": 106,
-      "Квитка Иван Иванович": 257,
-      "Кириллов Дмитрий Александрович": 1,
-      "Куниловский Александр Александрович": 1,
-      "Нестерова Наталия Владимировна": 26,
-      "Чепик Александр Федорович": 31,
-      "Шарпатов Владимир Ильич": 6
+      "gas:candidate-vibid:2722000850643": 1,
+      "gas:candidate-vibid:2722000850033": 1,
+      "gas:candidate-vibid:2722000842504": 106,
+      "gas:candidate-vibid:2722000850022": 257,
+      "gas:candidate-vibid:2722000850011": 1,
+      "gas:candidate-vibid:2722000849307": 1,
+      "gas:candidate-vibid:2722000850045": 26,
+      "gas:candidate-vibid:2722000850654": 31,
+      "gas:candidate-vibid:2722000850632": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=2722000792611&vrn=100100067795849&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=2722000792611&type=464",
@@ -5176,15 +5176,15 @@ export const duma_2016_uik_463_region_72_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агарков Андрей Александрович": 2,
-      "Ергалиев Алексей Аликович": 0,
-      "Зайцев Артем Николаевич": 88,
-      "Квитка Иван Иванович": 257,
-      "Кириллов Дмитрий Александрович": 0,
-      "Куниловский Александр Александрович": 0,
-      "Нестерова Наталия Владимировна": 0,
-      "Чепик Александр Федорович": 95,
-      "Шарпатов Владимир Ильич": 13
+      "gas:candidate-vibid:2722000850643": 2,
+      "gas:candidate-vibid:2722000850033": 0,
+      "gas:candidate-vibid:2722000842504": 88,
+      "gas:candidate-vibid:2722000850022": 257,
+      "gas:candidate-vibid:2722000850011": 0,
+      "gas:candidate-vibid:2722000849307": 0,
+      "gas:candidate-vibid:2722000850045": 0,
+      "gas:candidate-vibid:2722000850654": 95,
+      "gas:candidate-vibid:2722000850632": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=2722000792611&vrn=100100067795849&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=2722000792611&type=464",
@@ -5235,15 +5235,15 @@ export const duma_2016_uik_463_region_72_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агарков Андрей Александрович": 1,
-      "Ергалиев Алексей Аликович": 1,
-      "Зайцев Артем Николаевич": 34,
-      "Квитка Иван Иванович": 296,
-      "Кириллов Дмитрий Александрович": 0,
-      "Куниловский Александр Александрович": 1,
-      "Нестерова Наталия Владимировна": 10,
-      "Чепик Александр Федорович": 28,
-      "Шарпатов Владимир Ильич": 29
+      "gas:candidate-vibid:2722000850643": 1,
+      "gas:candidate-vibid:2722000850033": 1,
+      "gas:candidate-vibid:2722000842504": 34,
+      "gas:candidate-vibid:2722000850022": 296,
+      "gas:candidate-vibid:2722000850011": 0,
+      "gas:candidate-vibid:2722000849307": 1,
+      "gas:candidate-vibid:2722000850045": 10,
+      "gas:candidate-vibid:2722000850654": 28,
+      "gas:candidate-vibid:2722000850632": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=2722000792611&vrn=100100067795849&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=2722000792611&type=464",
@@ -5294,15 +5294,15 @@ export const duma_2016_uik_463_region_72_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агарков Андрей Александрович": 4,
-      "Ергалиев Алексей Аликович": 1,
-      "Зайцев Артем Николаевич": 60,
-      "Квитка Иван Иванович": 408,
-      "Кириллов Дмитрий Александрович": 0,
-      "Куниловский Александр Александрович": 0,
-      "Нестерова Наталия Владимировна": 36,
-      "Чепик Александр Федорович": 7,
-      "Шарпатов Владимир Ильич": 5
+      "gas:candidate-vibid:2722000850643": 4,
+      "gas:candidate-vibid:2722000850033": 1,
+      "gas:candidate-vibid:2722000842504": 60,
+      "gas:candidate-vibid:2722000850022": 408,
+      "gas:candidate-vibid:2722000850011": 0,
+      "gas:candidate-vibid:2722000849307": 0,
+      "gas:candidate-vibid:2722000850045": 36,
+      "gas:candidate-vibid:2722000850654": 7,
+      "gas:candidate-vibid:2722000850632": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=2722000792611&vrn=100100067795849&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=2722000792611&type=464",
@@ -5353,15 +5353,15 @@ export const duma_2016_uik_463_region_72_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агарков Андрей Александрович": 0,
-      "Ергалиев Алексей Аликович": 0,
-      "Зайцев Артем Николаевич": 35,
-      "Квитка Иван Иванович": 139,
-      "Кириллов Дмитрий Александрович": 0,
-      "Куниловский Александр Александрович": 0,
-      "Нестерова Наталия Владимировна": 10,
-      "Чепик Александр Федорович": 0,
-      "Шарпатов Владимир Ильич": 0
+      "gas:candidate-vibid:2722000850643": 0,
+      "gas:candidate-vibid:2722000850033": 0,
+      "gas:candidate-vibid:2722000842504": 35,
+      "gas:candidate-vibid:2722000850022": 139,
+      "gas:candidate-vibid:2722000850011": 0,
+      "gas:candidate-vibid:2722000849307": 0,
+      "gas:candidate-vibid:2722000850045": 10,
+      "gas:candidate-vibid:2722000850654": 0,
+      "gas:candidate-vibid:2722000850632": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=2722000792611&vrn=100100067795849&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=2722000792611&type=464",
@@ -5412,15 +5412,15 @@ export const duma_2016_uik_463_region_72_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агарков Андрей Александрович": 5,
-      "Ергалиев Алексей Аликович": 5,
-      "Зайцев Артем Николаевич": 53,
-      "Квитка Иван Иванович": 263,
-      "Кириллов Дмитрий Александрович": 4,
-      "Куниловский Александр Александрович": 2,
-      "Нестерова Наталия Владимировна": 26,
-      "Чепик Александр Федорович": 5,
-      "Шарпатов Владимир Ильич": 16
+      "gas:candidate-vibid:2722000850643": 5,
+      "gas:candidate-vibid:2722000850033": 5,
+      "gas:candidate-vibid:2722000842504": 53,
+      "gas:candidate-vibid:2722000850022": 263,
+      "gas:candidate-vibid:2722000850011": 4,
+      "gas:candidate-vibid:2722000849307": 2,
+      "gas:candidate-vibid:2722000850045": 26,
+      "gas:candidate-vibid:2722000850654": 5,
+      "gas:candidate-vibid:2722000850632": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=2722000792611&vrn=100100067795849&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=2722000792611&type=464",
@@ -5471,15 +5471,15 @@ export const duma_2016_uik_463_region_72_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агарков Андрей Александрович": 0,
-      "Ергалиев Алексей Аликович": 0,
-      "Зайцев Артем Николаевич": 34,
-      "Квитка Иван Иванович": 362,
-      "Кириллов Дмитрий Александрович": 0,
-      "Куниловский Александр Александрович": 0,
-      "Нестерова Наталия Владимировна": 25,
-      "Чепик Александр Федорович": 0,
-      "Шарпатов Владимир Ильич": 30
+      "gas:candidate-vibid:2722000850643": 0,
+      "gas:candidate-vibid:2722000850033": 0,
+      "gas:candidate-vibid:2722000842504": 34,
+      "gas:candidate-vibid:2722000850022": 362,
+      "gas:candidate-vibid:2722000850011": 0,
+      "gas:candidate-vibid:2722000849307": 0,
+      "gas:candidate-vibid:2722000850045": 25,
+      "gas:candidate-vibid:2722000850654": 0,
+      "gas:candidate-vibid:2722000850632": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=2722000792611&vrn=100100067795849&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=2722000792611&type=464",
@@ -5530,15 +5530,15 @@ export const duma_2016_uik_463_region_72_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агарков Андрей Александрович": 0,
-      "Ергалиев Алексей Аликович": 0,
-      "Зайцев Артем Николаевич": 1,
-      "Квитка Иван Иванович": 79,
-      "Кириллов Дмитрий Александрович": 1,
-      "Куниловский Александр Александрович": 0,
-      "Нестерова Наталия Владимировна": 0,
-      "Чепик Александр Федорович": 1,
-      "Шарпатов Владимир Ильич": 2
+      "gas:candidate-vibid:2722000850643": 0,
+      "gas:candidate-vibid:2722000850033": 0,
+      "gas:candidate-vibid:2722000842504": 1,
+      "gas:candidate-vibid:2722000850022": 79,
+      "gas:candidate-vibid:2722000850011": 1,
+      "gas:candidate-vibid:2722000849307": 0,
+      "gas:candidate-vibid:2722000850045": 0,
+      "gas:candidate-vibid:2722000850654": 1,
+      "gas:candidate-vibid:2722000850632": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=2722000792611&vrn=100100067795849&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=2722000792611&type=464",
@@ -5589,15 +5589,15 @@ export const duma_2016_uik_463_region_72_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агарков Андрей Александрович": 2,
-      "Ергалиев Алексей Аликович": 0,
-      "Зайцев Артем Николаевич": 16,
-      "Квитка Иван Иванович": 80,
-      "Кириллов Дмитрий Александрович": 1,
-      "Куниловский Александр Александрович": 1,
-      "Нестерова Наталия Владимировна": 11,
-      "Чепик Александр Федорович": 7,
-      "Шарпатов Владимир Ильич": 0
+      "gas:candidate-vibid:2722000850643": 2,
+      "gas:candidate-vibid:2722000850033": 0,
+      "gas:candidate-vibid:2722000842504": 16,
+      "gas:candidate-vibid:2722000850022": 80,
+      "gas:candidate-vibid:2722000850011": 1,
+      "gas:candidate-vibid:2722000849307": 1,
+      "gas:candidate-vibid:2722000850045": 11,
+      "gas:candidate-vibid:2722000850654": 7,
+      "gas:candidate-vibid:2722000850632": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=2722000792611&vrn=100100067795849&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=2722000792611&type=464",
@@ -5648,15 +5648,15 @@ export const duma_2016_uik_463_region_72_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агарков Андрей Александрович": 0,
-      "Ергалиев Алексей Аликович": 0,
-      "Зайцев Артем Николаевич": 4,
-      "Квитка Иван Иванович": 34,
-      "Кириллов Дмитрий Александрович": 7,
-      "Куниловский Александр Александрович": 1,
-      "Нестерова Наталия Владимировна": 4,
-      "Чепик Александр Федорович": 3,
-      "Шарпатов Владимир Ильич": 5
+      "gas:candidate-vibid:2722000850643": 0,
+      "gas:candidate-vibid:2722000850033": 0,
+      "gas:candidate-vibid:2722000842504": 4,
+      "gas:candidate-vibid:2722000850022": 34,
+      "gas:candidate-vibid:2722000850011": 7,
+      "gas:candidate-vibid:2722000849307": 1,
+      "gas:candidate-vibid:2722000850045": 4,
+      "gas:candidate-vibid:2722000850654": 3,
+      "gas:candidate-vibid:2722000850632": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=2722000792611&vrn=100100067795849&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=2722000792611&type=464",
@@ -5707,15 +5707,15 @@ export const duma_2016_uik_463_region_72_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агарков Андрей Александрович": 1,
-      "Ергалиев Алексей Аликович": 1,
-      "Зайцев Артем Николаевич": 16,
-      "Квитка Иван Иванович": 118,
-      "Кириллов Дмитрий Александрович": 1,
-      "Куниловский Александр Александрович": 0,
-      "Нестерова Наталия Владимировна": 8,
-      "Чепик Александр Федорович": 16,
-      "Шарпатов Владимир Ильич": 4
+      "gas:candidate-vibid:2722000850643": 1,
+      "gas:candidate-vibid:2722000850033": 1,
+      "gas:candidate-vibid:2722000842504": 16,
+      "gas:candidate-vibid:2722000850022": 118,
+      "gas:candidate-vibid:2722000850011": 1,
+      "gas:candidate-vibid:2722000849307": 0,
+      "gas:candidate-vibid:2722000850045": 8,
+      "gas:candidate-vibid:2722000850654": 16,
+      "gas:candidate-vibid:2722000850632": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=2722000792611&vrn=100100067795849&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=2722000792611&type=464",
@@ -5766,15 +5766,15 @@ export const duma_2016_uik_463_region_72_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агарков Андрей Александрович": 2,
-      "Ергалиев Алексей Аликович": 2,
-      "Зайцев Артем Николаевич": 2,
-      "Квитка Иван Иванович": 49,
-      "Кириллов Дмитрий Александрович": 4,
-      "Куниловский Александр Александрович": 0,
-      "Нестерова Наталия Владимировна": 3,
-      "Чепик Александр Федорович": 4,
-      "Шарпатов Владимир Ильич": 1
+      "gas:candidate-vibid:2722000850643": 2,
+      "gas:candidate-vibid:2722000850033": 2,
+      "gas:candidate-vibid:2722000842504": 2,
+      "gas:candidate-vibid:2722000850022": 49,
+      "gas:candidate-vibid:2722000850011": 4,
+      "gas:candidate-vibid:2722000849307": 0,
+      "gas:candidate-vibid:2722000850045": 3,
+      "gas:candidate-vibid:2722000850654": 4,
+      "gas:candidate-vibid:2722000850632": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=2722000792611&vrn=100100067795849&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=2722000792611&type=464",
@@ -5825,15 +5825,15 @@ export const duma_2016_uik_463_region_72_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агарков Андрей Александрович": 21,
-      "Ергалиев Алексей Аликович": 2,
-      "Зайцев Артем Николаевич": 51,
-      "Квитка Иван Иванович": 284,
-      "Кириллов Дмитрий Александрович": 4,
-      "Куниловский Александр Александрович": 7,
-      "Нестерова Наталия Владимировна": 55,
-      "Чепик Александр Федорович": 50,
-      "Шарпатов Владимир Ильич": 16
+      "gas:candidate-vibid:2722000850643": 21,
+      "gas:candidate-vibid:2722000850033": 2,
+      "gas:candidate-vibid:2722000842504": 51,
+      "gas:candidate-vibid:2722000850022": 284,
+      "gas:candidate-vibid:2722000850011": 4,
+      "gas:candidate-vibid:2722000849307": 7,
+      "gas:candidate-vibid:2722000850045": 55,
+      "gas:candidate-vibid:2722000850654": 50,
+      "gas:candidate-vibid:2722000850632": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=2722000792611&vrn=100100067795849&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=2722000792611&type=464",
@@ -5884,15 +5884,15 @@ export const duma_2016_uik_463_region_72_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агарков Андрей Александрович": 0,
-      "Ергалиев Алексей Аликович": 0,
-      "Зайцев Артем Николаевич": 9,
-      "Квитка Иван Иванович": 60,
-      "Кириллов Дмитрий Александрович": 0,
-      "Куниловский Александр Александрович": 0,
-      "Нестерова Наталия Владимировна": 0,
-      "Чепик Александр Федорович": 8,
-      "Шарпатов Владимир Ильич": 0
+      "gas:candidate-vibid:2722000850643": 0,
+      "gas:candidate-vibid:2722000850033": 0,
+      "gas:candidate-vibid:2722000842504": 9,
+      "gas:candidate-vibid:2722000850022": 60,
+      "gas:candidate-vibid:2722000850011": 0,
+      "gas:candidate-vibid:2722000849307": 0,
+      "gas:candidate-vibid:2722000850045": 0,
+      "gas:candidate-vibid:2722000850654": 8,
+      "gas:candidate-vibid:2722000850632": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=2722000792611&vrn=100100067795849&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=2722000792611&type=464",
@@ -5943,15 +5943,15 @@ export const duma_2016_uik_463_region_72_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агарков Андрей Александрович": 3,
-      "Ергалиев Алексей Аликович": 6,
-      "Зайцев Артем Николаевич": 65,
-      "Квитка Иван Иванович": 376,
-      "Кириллов Дмитрий Александрович": 9,
-      "Куниловский Александр Александрович": 1,
-      "Нестерова Наталия Владимировна": 31,
-      "Чепик Александр Федорович": 7,
-      "Шарпатов Владимир Ильич": 32
+      "gas:candidate-vibid:2722000850643": 3,
+      "gas:candidate-vibid:2722000850033": 6,
+      "gas:candidate-vibid:2722000842504": 65,
+      "gas:candidate-vibid:2722000850022": 376,
+      "gas:candidate-vibid:2722000850011": 9,
+      "gas:candidate-vibid:2722000849307": 1,
+      "gas:candidate-vibid:2722000850045": 31,
+      "gas:candidate-vibid:2722000850654": 7,
+      "gas:candidate-vibid:2722000850632": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=2722000792611&vrn=100100067795849&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=2722000792611&type=464",
@@ -6002,15 +6002,15 @@ export const duma_2016_uik_463_region_72_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агарков Андрей Александрович": 1,
-      "Ергалиев Алексей Аликович": 0,
-      "Зайцев Артем Николаевич": 10,
-      "Квитка Иван Иванович": 30,
-      "Кириллов Дмитрий Александрович": 1,
-      "Куниловский Александр Александрович": 0,
-      "Нестерова Наталия Владимировна": 6,
-      "Чепик Александр Федорович": 12,
-      "Шарпатов Владимир Ильич": 2
+      "gas:candidate-vibid:2722000850643": 1,
+      "gas:candidate-vibid:2722000850033": 0,
+      "gas:candidate-vibid:2722000842504": 10,
+      "gas:candidate-vibid:2722000850022": 30,
+      "gas:candidate-vibid:2722000850011": 1,
+      "gas:candidate-vibid:2722000849307": 0,
+      "gas:candidate-vibid:2722000850045": 6,
+      "gas:candidate-vibid:2722000850654": 12,
+      "gas:candidate-vibid:2722000850632": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=2722000792611&vrn=100100067795849&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=2722000792611&type=464",
@@ -6061,15 +6061,15 @@ export const duma_2016_uik_463_region_72_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агарков Андрей Александрович": 0,
-      "Ергалиев Алексей Аликович": 0,
-      "Зайцев Артем Николаевич": 1,
-      "Квитка Иван Иванович": 49,
-      "Кириллов Дмитрий Александрович": 0,
-      "Куниловский Александр Александрович": 0,
-      "Нестерова Наталия Владимировна": 4,
-      "Чепик Александр Федорович": 4,
-      "Шарпатов Владимир Ильич": 0
+      "gas:candidate-vibid:2722000850643": 0,
+      "gas:candidate-vibid:2722000850033": 0,
+      "gas:candidate-vibid:2722000842504": 1,
+      "gas:candidate-vibid:2722000850022": 49,
+      "gas:candidate-vibid:2722000850011": 0,
+      "gas:candidate-vibid:2722000849307": 0,
+      "gas:candidate-vibid:2722000850045": 4,
+      "gas:candidate-vibid:2722000850654": 4,
+      "gas:candidate-vibid:2722000850632": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=2722000792611&vrn=100100067795849&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=2722000792611&type=464",
@@ -6120,15 +6120,15 @@ export const duma_2016_uik_463_region_72_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агарков Андрей Александрович": 3,
-      "Ергалиев Алексей Аликович": 0,
-      "Зайцев Артем Николаевич": 5,
-      "Квитка Иван Иванович": 38,
-      "Кириллов Дмитрий Александрович": 0,
-      "Куниловский Александр Александрович": 1,
-      "Нестерова Наталия Владимировна": 2,
-      "Чепик Александр Федорович": 1,
-      "Шарпатов Владимир Ильич": 3
+      "gas:candidate-vibid:2722000850643": 3,
+      "gas:candidate-vibid:2722000850033": 0,
+      "gas:candidate-vibid:2722000842504": 5,
+      "gas:candidate-vibid:2722000850022": 38,
+      "gas:candidate-vibid:2722000850011": 0,
+      "gas:candidate-vibid:2722000849307": 1,
+      "gas:candidate-vibid:2722000850045": 2,
+      "gas:candidate-vibid:2722000850654": 1,
+      "gas:candidate-vibid:2722000850632": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=2722000792611&vrn=100100067795849&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=2722000792611&type=464",
@@ -6179,15 +6179,15 @@ export const duma_2016_uik_463_region_72_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агарков Андрей Александрович": 24,
-      "Ергалиев Алексей Аликович": 11,
-      "Зайцев Артем Николаевич": 58,
-      "Квитка Иван Иванович": 376,
-      "Кириллов Дмитрий Александрович": 13,
-      "Куниловский Александр Александрович": 5,
-      "Нестерова Наталия Владимировна": 45,
-      "Чепик Александр Федорович": 27,
-      "Шарпатов Владимир Ильич": 20
+      "gas:candidate-vibid:2722000850643": 24,
+      "gas:candidate-vibid:2722000850033": 11,
+      "gas:candidate-vibid:2722000842504": 58,
+      "gas:candidate-vibid:2722000850022": 376,
+      "gas:candidate-vibid:2722000850011": 13,
+      "gas:candidate-vibid:2722000849307": 5,
+      "gas:candidate-vibid:2722000850045": 45,
+      "gas:candidate-vibid:2722000850654": 27,
+      "gas:candidate-vibid:2722000850632": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=2722000792611&vrn=100100067795849&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=2722000792611&type=464",
@@ -6238,15 +6238,15 @@ export const duma_2016_uik_463_region_72_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агарков Андрей Александрович": 0,
-      "Ергалиев Алексей Аликович": 0,
-      "Зайцев Артем Николаевич": 36,
-      "Квитка Иван Иванович": 242,
-      "Кириллов Дмитрий Александрович": 0,
-      "Куниловский Александр Александрович": 0,
-      "Нестерова Наталия Владимировна": 0,
-      "Чепик Александр Федорович": 48,
-      "Шарпатов Владимир Ильич": 0
+      "gas:candidate-vibid:2722000850643": 0,
+      "gas:candidate-vibid:2722000850033": 0,
+      "gas:candidate-vibid:2722000842504": 36,
+      "gas:candidate-vibid:2722000850022": 242,
+      "gas:candidate-vibid:2722000850011": 0,
+      "gas:candidate-vibid:2722000849307": 0,
+      "gas:candidate-vibid:2722000850045": 0,
+      "gas:candidate-vibid:2722000850654": 48,
+      "gas:candidate-vibid:2722000850632": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=2722000792611&vrn=100100067795849&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=2722000792611&type=464",
@@ -6297,15 +6297,15 @@ export const duma_2016_uik_463_region_72_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агарков Андрей Александрович": 2,
-      "Ергалиев Алексей Аликович": 0,
-      "Зайцев Артем Николаевич": 4,
-      "Квитка Иван Иванович": 78,
-      "Кириллов Дмитрий Александрович": 4,
-      "Куниловский Александр Александрович": 0,
-      "Нестерова Наталия Владимировна": 4,
-      "Чепик Александр Федорович": 2,
-      "Шарпатов Владимир Ильич": 1
+      "gas:candidate-vibid:2722000850643": 2,
+      "gas:candidate-vibid:2722000850033": 0,
+      "gas:candidate-vibid:2722000842504": 4,
+      "gas:candidate-vibid:2722000850022": 78,
+      "gas:candidate-vibid:2722000850011": 4,
+      "gas:candidate-vibid:2722000849307": 0,
+      "gas:candidate-vibid:2722000850045": 4,
+      "gas:candidate-vibid:2722000850654": 2,
+      "gas:candidate-vibid:2722000850632": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=2722000792611&vrn=100100067795849&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=2722000792611&type=464",
@@ -6356,15 +6356,15 @@ export const duma_2016_uik_463_region_72_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агарков Андрей Александрович": 0,
-      "Ергалиев Алексей Аликович": 0,
-      "Зайцев Артем Николаевич": 7,
-      "Квитка Иван Иванович": 47,
-      "Кириллов Дмитрий Александрович": 0,
-      "Куниловский Александр Александрович": 0,
-      "Нестерова Наталия Владимировна": 1,
-      "Чепик Александр Федорович": 4,
-      "Шарпатов Владимир Ильич": 0
+      "gas:candidate-vibid:2722000850643": 0,
+      "gas:candidate-vibid:2722000850033": 0,
+      "gas:candidate-vibid:2722000842504": 7,
+      "gas:candidate-vibid:2722000850022": 47,
+      "gas:candidate-vibid:2722000850011": 0,
+      "gas:candidate-vibid:2722000849307": 0,
+      "gas:candidate-vibid:2722000850045": 1,
+      "gas:candidate-vibid:2722000850654": 4,
+      "gas:candidate-vibid:2722000850632": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=2722000792611&vrn=100100067795849&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=2722000792611&type=464",
@@ -6415,15 +6415,15 @@ export const duma_2016_uik_463_region_72_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агарков Андрей Александрович": 0,
-      "Ергалиев Алексей Аликович": 0,
-      "Зайцев Артем Николаевич": 2,
-      "Квитка Иван Иванович": 44,
-      "Кириллов Дмитрий Александрович": 0,
-      "Куниловский Александр Александрович": 0,
-      "Нестерова Наталия Владимировна": 2,
-      "Чепик Александр Федорович": 0,
-      "Шарпатов Владимир Ильич": 1
+      "gas:candidate-vibid:2722000850643": 0,
+      "gas:candidate-vibid:2722000850033": 0,
+      "gas:candidate-vibid:2722000842504": 2,
+      "gas:candidate-vibid:2722000850022": 44,
+      "gas:candidate-vibid:2722000850011": 0,
+      "gas:candidate-vibid:2722000849307": 0,
+      "gas:candidate-vibid:2722000850045": 2,
+      "gas:candidate-vibid:2722000850654": 0,
+      "gas:candidate-vibid:2722000850632": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=2722000792611&vrn=100100067795849&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=2722000792611&type=464",
@@ -6474,15 +6474,15 @@ export const duma_2016_uik_463_region_72_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агарков Андрей Александрович": 1,
-      "Ергалиев Алексей Аликович": 0,
-      "Зайцев Артем Николаевич": 15,
-      "Квитка Иван Иванович": 52,
-      "Кириллов Дмитрий Александрович": 0,
-      "Куниловский Александр Александрович": 0,
-      "Нестерова Наталия Владимировна": 3,
-      "Чепик Александр Федорович": 13,
-      "Шарпатов Владимир Ильич": 3
+      "gas:candidate-vibid:2722000850643": 1,
+      "gas:candidate-vibid:2722000850033": 0,
+      "gas:candidate-vibid:2722000842504": 15,
+      "gas:candidate-vibid:2722000850022": 52,
+      "gas:candidate-vibid:2722000850011": 0,
+      "gas:candidate-vibid:2722000849307": 0,
+      "gas:candidate-vibid:2722000850045": 3,
+      "gas:candidate-vibid:2722000850654": 13,
+      "gas:candidate-vibid:2722000850632": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=2722000792611&vrn=100100067795849&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=2722000792611&type=464",
@@ -6533,15 +6533,15 @@ export const duma_2016_uik_463_region_72_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агарков Андрей Александрович": 20,
-      "Ергалиев Алексей Аликович": 3,
-      "Зайцев Артем Николаевич": 10,
-      "Квитка Иван Иванович": 234,
-      "Кириллов Дмитрий Александрович": 9,
-      "Куниловский Александр Александрович": 6,
-      "Нестерова Наталия Владимировна": 22,
-      "Чепик Александр Федорович": 17,
-      "Шарпатов Владимир Ильич": 11
+      "gas:candidate-vibid:2722000850643": 20,
+      "gas:candidate-vibid:2722000850033": 3,
+      "gas:candidate-vibid:2722000842504": 10,
+      "gas:candidate-vibid:2722000850022": 234,
+      "gas:candidate-vibid:2722000850011": 9,
+      "gas:candidate-vibid:2722000849307": 6,
+      "gas:candidate-vibid:2722000850045": 22,
+      "gas:candidate-vibid:2722000850654": 17,
+      "gas:candidate-vibid:2722000850632": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=2722000792611&vrn=100100067795849&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=2722000792611&type=464",
@@ -6592,15 +6592,15 @@ export const duma_2016_uik_463_region_72_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агарков Андрей Александрович": 17,
-      "Ергалиев Алексей Аликович": 8,
-      "Зайцев Артем Николаевич": 86,
-      "Квитка Иван Иванович": 682,
-      "Кириллов Дмитрий Александрович": 9,
-      "Куниловский Александр Александрович": 5,
-      "Нестерова Наталия Владимировна": 68,
-      "Чепик Александр Федорович": 50,
-      "Шарпатов Владимир Ильич": 61
+      "gas:candidate-vibid:2722000850643": 17,
+      "gas:candidate-vibid:2722000850033": 8,
+      "gas:candidate-vibid:2722000842504": 86,
+      "gas:candidate-vibid:2722000850022": 682,
+      "gas:candidate-vibid:2722000850011": 9,
+      "gas:candidate-vibid:2722000849307": 5,
+      "gas:candidate-vibid:2722000850045": 68,
+      "gas:candidate-vibid:2722000850654": 50,
+      "gas:candidate-vibid:2722000850632": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=2722000792612&vrn=100100067795849&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=2722000792612&type=464",
@@ -6651,15 +6651,15 @@ export const duma_2016_uik_463_region_72_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агарков Андрей Александрович": 23,
-      "Ергалиев Алексей Аликович": 10,
-      "Зайцев Артем Николаевич": 85,
-      "Квитка Иван Иванович": 376,
-      "Кириллов Дмитрий Александрович": 14,
-      "Куниловский Александр Александрович": 6,
-      "Нестерова Наталия Владимировна": 52,
-      "Чепик Александр Федорович": 28,
-      "Шарпатов Владимир Ильич": 74
+      "gas:candidate-vibid:2722000850643": 23,
+      "gas:candidate-vibid:2722000850033": 10,
+      "gas:candidate-vibid:2722000842504": 85,
+      "gas:candidate-vibid:2722000850022": 376,
+      "gas:candidate-vibid:2722000850011": 14,
+      "gas:candidate-vibid:2722000849307": 6,
+      "gas:candidate-vibid:2722000850045": 52,
+      "gas:candidate-vibid:2722000850654": 28,
+      "gas:candidate-vibid:2722000850632": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=2722000792612&vrn=100100067795849&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=2722000792612&type=464",
@@ -6710,15 +6710,15 @@ export const duma_2016_uik_463_region_72_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агарков Андрей Александрович": 15,
-      "Ергалиев Алексей Аликович": 15,
-      "Зайцев Артем Николаевич": 102,
-      "Квитка Иван Иванович": 445,
-      "Кириллов Дмитрий Александрович": 12,
-      "Куниловский Александр Александрович": 13,
-      "Нестерова Наталия Владимировна": 28,
-      "Чепик Александр Федорович": 50,
-      "Шарпатов Владимир Ильич": 51
+      "gas:candidate-vibid:2722000850643": 15,
+      "gas:candidate-vibid:2722000850033": 15,
+      "gas:candidate-vibid:2722000842504": 102,
+      "gas:candidate-vibid:2722000850022": 445,
+      "gas:candidate-vibid:2722000850011": 12,
+      "gas:candidate-vibid:2722000849307": 13,
+      "gas:candidate-vibid:2722000850045": 28,
+      "gas:candidate-vibid:2722000850654": 50,
+      "gas:candidate-vibid:2722000850632": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=2722000792612&vrn=100100067795849&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=2722000792612&type=464",
@@ -6769,15 +6769,15 @@ export const duma_2016_uik_463_region_72_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агарков Андрей Александрович": 12,
-      "Ергалиев Алексей Аликович": 7,
-      "Зайцев Артем Николаевич": 91,
-      "Квитка Иван Иванович": 610,
-      "Кириллов Дмитрий Александрович": 27,
-      "Куниловский Александр Александрович": 30,
-      "Нестерова Наталия Владимировна": 23,
-      "Чепик Александр Федорович": 97,
-      "Шарпатов Владимир Ильич": 85
+      "gas:candidate-vibid:2722000850643": 12,
+      "gas:candidate-vibid:2722000850033": 7,
+      "gas:candidate-vibid:2722000842504": 91,
+      "gas:candidate-vibid:2722000850022": 610,
+      "gas:candidate-vibid:2722000850011": 27,
+      "gas:candidate-vibid:2722000849307": 30,
+      "gas:candidate-vibid:2722000850045": 23,
+      "gas:candidate-vibid:2722000850654": 97,
+      "gas:candidate-vibid:2722000850632": 85
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=2722000792612&vrn=100100067795849&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=2722000792612&type=464",
@@ -6828,15 +6828,15 @@ export const duma_2016_uik_463_region_72_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агарков Андрей Александрович": 2,
-      "Ергалиев Алексей Аликович": 0,
-      "Зайцев Артем Николаевич": 15,
-      "Квитка Иван Иванович": 90,
-      "Кириллов Дмитрий Александрович": 1,
-      "Куниловский Александр Александрович": 0,
-      "Нестерова Наталия Владимировна": 3,
-      "Чепик Александр Федорович": 2,
-      "Шарпатов Владимир Ильич": 2
+      "gas:candidate-vibid:2722000850643": 2,
+      "gas:candidate-vibid:2722000850033": 0,
+      "gas:candidate-vibid:2722000842504": 15,
+      "gas:candidate-vibid:2722000850022": 90,
+      "gas:candidate-vibid:2722000850011": 1,
+      "gas:candidate-vibid:2722000849307": 0,
+      "gas:candidate-vibid:2722000850045": 3,
+      "gas:candidate-vibid:2722000850654": 2,
+      "gas:candidate-vibid:2722000850632": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=2722000792612&vrn=100100067795849&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=2722000792612&type=464",
@@ -6887,15 +6887,15 @@ export const duma_2016_uik_463_region_72_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агарков Андрей Александрович": 2,
-      "Ергалиев Алексей Аликович": 1,
-      "Зайцев Артем Николаевич": 10,
-      "Квитка Иван Иванович": 149,
-      "Кириллов Дмитрий Александрович": 3,
-      "Куниловский Александр Александрович": 2,
-      "Нестерова Наталия Владимировна": 7,
-      "Чепик Александр Федорович": 10,
-      "Шарпатов Владимир Ильич": 8
+      "gas:candidate-vibid:2722000850643": 2,
+      "gas:candidate-vibid:2722000850033": 1,
+      "gas:candidate-vibid:2722000842504": 10,
+      "gas:candidate-vibid:2722000850022": 149,
+      "gas:candidate-vibid:2722000850011": 3,
+      "gas:candidate-vibid:2722000849307": 2,
+      "gas:candidate-vibid:2722000850045": 7,
+      "gas:candidate-vibid:2722000850654": 10,
+      "gas:candidate-vibid:2722000850632": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=2722000792612&vrn=100100067795849&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=2722000792612&type=464",
@@ -6946,15 +6946,15 @@ export const duma_2016_uik_463_region_72_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агарков Андрей Александрович": 2,
-      "Ергалиев Алексей Аликович": 0,
-      "Зайцев Артем Николаевич": 6,
-      "Квитка Иван Иванович": 50,
-      "Кириллов Дмитрий Александрович": 2,
-      "Куниловский Александр Александрович": 0,
-      "Нестерова Наталия Владимировна": 3,
-      "Чепик Александр Федорович": 0,
-      "Шарпатов Владимир Ильич": 1
+      "gas:candidate-vibid:2722000850643": 2,
+      "gas:candidate-vibid:2722000850033": 0,
+      "gas:candidate-vibid:2722000842504": 6,
+      "gas:candidate-vibid:2722000850022": 50,
+      "gas:candidate-vibid:2722000850011": 2,
+      "gas:candidate-vibid:2722000849307": 0,
+      "gas:candidate-vibid:2722000850045": 3,
+      "gas:candidate-vibid:2722000850654": 0,
+      "gas:candidate-vibid:2722000850632": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=2722000792612&vrn=100100067795849&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=2722000792612&type=464",
@@ -7005,15 +7005,15 @@ export const duma_2016_uik_463_region_72_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агарков Андрей Александрович": 3,
-      "Ергалиев Алексей Аликович": 2,
-      "Зайцев Артем Николаевич": 111,
-      "Квитка Иван Иванович": 214,
-      "Кириллов Дмитрий Александрович": 5,
-      "Куниловский Александр Александрович": 3,
-      "Нестерова Наталия Владимировна": 5,
-      "Чепик Александр Федорович": 4,
-      "Шарпатов Владимир Ильич": 3
+      "gas:candidate-vibid:2722000850643": 3,
+      "gas:candidate-vibid:2722000850033": 2,
+      "gas:candidate-vibid:2722000842504": 111,
+      "gas:candidate-vibid:2722000850022": 214,
+      "gas:candidate-vibid:2722000850011": 5,
+      "gas:candidate-vibid:2722000849307": 3,
+      "gas:candidate-vibid:2722000850045": 5,
+      "gas:candidate-vibid:2722000850654": 4,
+      "gas:candidate-vibid:2722000850632": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=2722000792612&vrn=100100067795849&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=2722000792612&type=464",
@@ -7064,15 +7064,15 @@ export const duma_2016_uik_463_region_72_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агарков Андрей Александрович": 0,
-      "Ергалиев Алексей Аликович": 2,
-      "Зайцев Артем Николаевич": 5,
-      "Квитка Иван Иванович": 56,
-      "Кириллов Дмитрий Александрович": 1,
-      "Куниловский Александр Александрович": 0,
-      "Нестерова Наталия Владимировна": 2,
-      "Чепик Александр Федорович": 0,
-      "Шарпатов Владимир Ильич": 1
+      "gas:candidate-vibid:2722000850643": 0,
+      "gas:candidate-vibid:2722000850033": 2,
+      "gas:candidate-vibid:2722000842504": 5,
+      "gas:candidate-vibid:2722000850022": 56,
+      "gas:candidate-vibid:2722000850011": 1,
+      "gas:candidate-vibid:2722000849307": 0,
+      "gas:candidate-vibid:2722000850045": 2,
+      "gas:candidate-vibid:2722000850654": 0,
+      "gas:candidate-vibid:2722000850632": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=2722000792612&vrn=100100067795849&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=2722000792612&type=464",
@@ -7123,15 +7123,15 @@ export const duma_2016_uik_463_region_72_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агарков Андрей Александрович": 1,
-      "Ергалиев Алексей Аликович": 0,
-      "Зайцев Артем Николаевич": 6,
-      "Квитка Иван Иванович": 65,
-      "Кириллов Дмитрий Александрович": 0,
-      "Куниловский Александр Александрович": 0,
-      "Нестерова Наталия Владимировна": 3,
-      "Чепик Александр Федорович": 4,
-      "Шарпатов Владимир Ильич": 1
+      "gas:candidate-vibid:2722000850643": 1,
+      "gas:candidate-vibid:2722000850033": 0,
+      "gas:candidate-vibid:2722000842504": 6,
+      "gas:candidate-vibid:2722000850022": 65,
+      "gas:candidate-vibid:2722000850011": 0,
+      "gas:candidate-vibid:2722000849307": 0,
+      "gas:candidate-vibid:2722000850045": 3,
+      "gas:candidate-vibid:2722000850654": 4,
+      "gas:candidate-vibid:2722000850632": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=2722000792612&vrn=100100067795849&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=2722000792612&type=464",
@@ -7182,15 +7182,15 @@ export const duma_2016_uik_463_region_72_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агарков Андрей Александрович": 0,
-      "Ергалиев Алексей Аликович": 0,
-      "Зайцев Артем Николаевич": 51,
-      "Квитка Иван Иванович": 273,
-      "Кириллов Дмитрий Александрович": 0,
-      "Куниловский Александр Александрович": 0,
-      "Нестерова Наталия Владимировна": 10,
-      "Чепик Александр Федорович": 40,
-      "Шарпатов Владимир Ильич": 51
+      "gas:candidate-vibid:2722000850643": 0,
+      "gas:candidate-vibid:2722000850033": 0,
+      "gas:candidate-vibid:2722000842504": 51,
+      "gas:candidate-vibid:2722000850022": 273,
+      "gas:candidate-vibid:2722000850011": 0,
+      "gas:candidate-vibid:2722000849307": 0,
+      "gas:candidate-vibid:2722000850045": 10,
+      "gas:candidate-vibid:2722000850654": 40,
+      "gas:candidate-vibid:2722000850632": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=2722000792612&vrn=100100067795849&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=2722000792612&type=464",
@@ -7241,15 +7241,15 @@ export const duma_2016_uik_463_region_72_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агарков Андрей Александрович": 0,
-      "Ергалиев Алексей Аликович": 1,
-      "Зайцев Артем Николаевич": 11,
-      "Квитка Иван Иванович": 52,
-      "Кириллов Дмитрий Александрович": 0,
-      "Куниловский Александр Александрович": 2,
-      "Нестерова Наталия Владимировна": 3,
-      "Чепик Александр Федорович": 2,
-      "Шарпатов Владимир Ильич": 3
+      "gas:candidate-vibid:2722000850643": 0,
+      "gas:candidate-vibid:2722000850033": 1,
+      "gas:candidate-vibid:2722000842504": 11,
+      "gas:candidate-vibid:2722000850022": 52,
+      "gas:candidate-vibid:2722000850011": 0,
+      "gas:candidate-vibid:2722000849307": 2,
+      "gas:candidate-vibid:2722000850045": 3,
+      "gas:candidate-vibid:2722000850654": 2,
+      "gas:candidate-vibid:2722000850632": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=2722000792612&vrn=100100067795849&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=2722000792612&type=464",
@@ -7300,15 +7300,15 @@ export const duma_2016_uik_463_region_72_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агарков Андрей Александрович": 1,
-      "Ергалиев Алексей Аликович": 2,
-      "Зайцев Артем Николаевич": 20,
-      "Квитка Иван Иванович": 131,
-      "Кириллов Дмитрий Александрович": 1,
-      "Куниловский Александр Александрович": 3,
-      "Нестерова Наталия Владимировна": 5,
-      "Чепик Александр Федорович": 14,
-      "Шарпатов Владимир Ильич": 13
+      "gas:candidate-vibid:2722000850643": 1,
+      "gas:candidate-vibid:2722000850033": 2,
+      "gas:candidate-vibid:2722000842504": 20,
+      "gas:candidate-vibid:2722000850022": 131,
+      "gas:candidate-vibid:2722000850011": 1,
+      "gas:candidate-vibid:2722000849307": 3,
+      "gas:candidate-vibid:2722000850045": 5,
+      "gas:candidate-vibid:2722000850654": 14,
+      "gas:candidate-vibid:2722000850632": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=2722000792612&vrn=100100067795849&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=2722000792612&type=464",
@@ -7359,15 +7359,15 @@ export const duma_2016_uik_463_region_72_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агарков Андрей Александрович": 2,
-      "Ергалиев Алексей Аликович": 4,
-      "Зайцев Артем Николаевич": 34,
-      "Квитка Иван Иванович": 226,
-      "Кириллов Дмитрий Александрович": 5,
-      "Куниловский Александр Александрович": 5,
-      "Нестерова Наталия Владимировна": 22,
-      "Чепик Александр Федорович": 12,
-      "Шарпатов Владимир Ильич": 7
+      "gas:candidate-vibid:2722000850643": 2,
+      "gas:candidate-vibid:2722000850033": 4,
+      "gas:candidate-vibid:2722000842504": 34,
+      "gas:candidate-vibid:2722000850022": 226,
+      "gas:candidate-vibid:2722000850011": 5,
+      "gas:candidate-vibid:2722000849307": 5,
+      "gas:candidate-vibid:2722000850045": 22,
+      "gas:candidate-vibid:2722000850654": 12,
+      "gas:candidate-vibid:2722000850632": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=2722000792612&vrn=100100067795849&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=2722000792612&type=464",
@@ -7418,15 +7418,15 @@ export const duma_2016_uik_463_region_72_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агарков Андрей Александрович": 1,
-      "Ергалиев Алексей Аликович": 0,
-      "Зайцев Артем Николаевич": 6,
-      "Квитка Иван Иванович": 33,
-      "Кириллов Дмитрий Александрович": 0,
-      "Куниловский Александр Александрович": 0,
-      "Нестерова Наталия Владимировна": 3,
-      "Чепик Александр Федорович": 3,
-      "Шарпатов Владимир Ильич": 1
+      "gas:candidate-vibid:2722000850643": 1,
+      "gas:candidate-vibid:2722000850033": 0,
+      "gas:candidate-vibid:2722000842504": 6,
+      "gas:candidate-vibid:2722000850022": 33,
+      "gas:candidate-vibid:2722000850011": 0,
+      "gas:candidate-vibid:2722000849307": 0,
+      "gas:candidate-vibid:2722000850045": 3,
+      "gas:candidate-vibid:2722000850654": 3,
+      "gas:candidate-vibid:2722000850632": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=2722000792612&vrn=100100067795849&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=2722000792612&type=464",
@@ -7477,15 +7477,15 @@ export const duma_2016_uik_463_region_72_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агарков Андрей Александрович": 4,
-      "Ергалиев Алексей Аликович": 6,
-      "Зайцев Артем Николаевич": 38,
-      "Квитка Иван Иванович": 231,
-      "Кириллов Дмитрий Александрович": 8,
-      "Куниловский Александр Александрович": 6,
-      "Нестерова Наталия Владимировна": 39,
-      "Чепик Александр Федорович": 21,
-      "Шарпатов Владимир Ильич": 26
+      "gas:candidate-vibid:2722000850643": 4,
+      "gas:candidate-vibid:2722000850033": 6,
+      "gas:candidate-vibid:2722000842504": 38,
+      "gas:candidate-vibid:2722000850022": 231,
+      "gas:candidate-vibid:2722000850011": 8,
+      "gas:candidate-vibid:2722000849307": 6,
+      "gas:candidate-vibid:2722000850045": 39,
+      "gas:candidate-vibid:2722000850654": 21,
+      "gas:candidate-vibid:2722000850632": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=2722000792612&vrn=100100067795849&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=2722000792612&type=464",
@@ -7536,15 +7536,15 @@ export const duma_2016_uik_463_region_72_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агарков Андрей Александрович": 3,
-      "Ергалиев Алексей Аликович": 1,
-      "Зайцев Артем Николаевич": 6,
-      "Квитка Иван Иванович": 73,
-      "Кириллов Дмитрий Александрович": 4,
-      "Куниловский Александр Александрович": 0,
-      "Нестерова Наталия Владимировна": 6,
-      "Чепик Александр Федорович": 3,
-      "Шарпатов Владимир Ильич": 0
+      "gas:candidate-vibid:2722000850643": 3,
+      "gas:candidate-vibid:2722000850033": 1,
+      "gas:candidate-vibid:2722000842504": 6,
+      "gas:candidate-vibid:2722000850022": 73,
+      "gas:candidate-vibid:2722000850011": 4,
+      "gas:candidate-vibid:2722000849307": 0,
+      "gas:candidate-vibid:2722000850045": 6,
+      "gas:candidate-vibid:2722000850654": 3,
+      "gas:candidate-vibid:2722000850632": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=2722000792612&vrn=100100067795849&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=2722000792612&type=464",
@@ -7595,15 +7595,15 @@ export const duma_2016_uik_463_region_72_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агарков Андрей Александрович": 5,
-      "Ергалиев Алексей Аликович": 6,
-      "Зайцев Артем Николаевич": 28,
-      "Квитка Иван Иванович": 171,
-      "Кириллов Дмитрий Александрович": 4,
-      "Куниловский Александр Александрович": 4,
-      "Нестерова Наталия Владимировна": 18,
-      "Чепик Александр Федорович": 10,
-      "Шарпатов Владимир Ильич": 39
+      "gas:candidate-vibid:2722000850643": 5,
+      "gas:candidate-vibid:2722000850033": 6,
+      "gas:candidate-vibid:2722000842504": 28,
+      "gas:candidate-vibid:2722000850022": 171,
+      "gas:candidate-vibid:2722000850011": 4,
+      "gas:candidate-vibid:2722000849307": 4,
+      "gas:candidate-vibid:2722000850045": 18,
+      "gas:candidate-vibid:2722000850654": 10,
+      "gas:candidate-vibid:2722000850632": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=2722000792612&vrn=100100067795849&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=2722000792612&type=464",
@@ -7654,15 +7654,15 @@ export const duma_2016_uik_463_region_72_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агарков Андрей Александрович": 0,
-      "Ергалиев Алексей Аликович": 1,
-      "Зайцев Артем Николаевич": 18,
-      "Квитка Иван Иванович": 36,
-      "Кириллов Дмитрий Александрович": 1,
-      "Куниловский Александр Александрович": 2,
-      "Нестерова Наталия Владимировна": 2,
-      "Чепик Александр Федорович": 13,
-      "Шарпатов Владимир Ильич": 6
+      "gas:candidate-vibid:2722000850643": 0,
+      "gas:candidate-vibid:2722000850033": 1,
+      "gas:candidate-vibid:2722000842504": 18,
+      "gas:candidate-vibid:2722000850022": 36,
+      "gas:candidate-vibid:2722000850011": 1,
+      "gas:candidate-vibid:2722000849307": 2,
+      "gas:candidate-vibid:2722000850045": 2,
+      "gas:candidate-vibid:2722000850654": 13,
+      "gas:candidate-vibid:2722000850632": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=2722000792612&vrn=100100067795849&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=2722000792612&type=464",
@@ -7713,15 +7713,15 @@ export const duma_2016_uik_463_region_72_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агарков Андрей Александрович": 4,
-      "Ергалиев Алексей Аликович": 4,
-      "Зайцев Артем Николаевич": 19,
-      "Квитка Иван Иванович": 101,
-      "Кириллов Дмитрий Александрович": 0,
-      "Куниловский Александр Александрович": 0,
-      "Нестерова Наталия Владимировна": 8,
-      "Чепик Александр Федорович": 4,
-      "Шарпатов Владимир Ильич": 0
+      "gas:candidate-vibid:2722000850643": 4,
+      "gas:candidate-vibid:2722000850033": 4,
+      "gas:candidate-vibid:2722000842504": 19,
+      "gas:candidate-vibid:2722000850022": 101,
+      "gas:candidate-vibid:2722000850011": 0,
+      "gas:candidate-vibid:2722000849307": 0,
+      "gas:candidate-vibid:2722000850045": 8,
+      "gas:candidate-vibid:2722000850654": 4,
+      "gas:candidate-vibid:2722000850632": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=2722000792612&vrn=100100067795849&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=2722000792612&type=464",
@@ -7772,15 +7772,15 @@ export const duma_2016_uik_463_region_72_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агарков Андрей Александрович": 6,
-      "Ергалиев Алексей Аликович": 1,
-      "Зайцев Артем Николаевич": 15,
-      "Квитка Иван Иванович": 92,
-      "Кириллов Дмитрий Александрович": 2,
-      "Куниловский Александр Александрович": 1,
-      "Нестерова Наталия Владимировна": 13,
-      "Чепик Александр Федорович": 10,
-      "Шарпатов Владимир Ильич": 4
+      "gas:candidate-vibid:2722000850643": 6,
+      "gas:candidate-vibid:2722000850033": 1,
+      "gas:candidate-vibid:2722000842504": 15,
+      "gas:candidate-vibid:2722000850022": 92,
+      "gas:candidate-vibid:2722000850011": 2,
+      "gas:candidate-vibid:2722000849307": 1,
+      "gas:candidate-vibid:2722000850045": 13,
+      "gas:candidate-vibid:2722000850654": 10,
+      "gas:candidate-vibid:2722000850632": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=2722000792612&vrn=100100067795849&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=2722000792612&type=464",
@@ -7831,15 +7831,15 @@ export const duma_2016_uik_463_region_72_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Агарков Андрей Александрович": 10,
-      "Ергалиев Алексей Аликович": 5,
-      "Зайцев Артем Николаевич": 36,
-      "Квитка Иван Иванович": 301,
-      "Кириллов Дмитрий Александрович": 9,
-      "Куниловский Александр Александрович": 9,
-      "Нестерова Наталия Владимировна": 19,
-      "Чепик Александр Федорович": 18,
-      "Шарпатов Владимир Ильич": 53
+      "gas:candidate-vibid:2722000850643": 10,
+      "gas:candidate-vibid:2722000850033": 5,
+      "gas:candidate-vibid:2722000842504": 36,
+      "gas:candidate-vibid:2722000850022": 301,
+      "gas:candidate-vibid:2722000850011": 9,
+      "gas:candidate-vibid:2722000849307": 9,
+      "gas:candidate-vibid:2722000850045": 19,
+      "gas:candidate-vibid:2722000850654": 18,
+      "gas:candidate-vibid:2722000850632": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000246&tvd=2722000792612&vrn=100100067795849&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=2722000792612&type=464",

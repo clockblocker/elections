@@ -43,14 +43,14 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверьянова Оксана Владимировна": 8,
-      "Измайлова Светлана Викторовна": 15,
-      "Кочетов Сергей Николаевич": 7,
-      "Овсянников Александр Александрович": 9,
-      "Осинин Кирилл Сергеевич": 7,
-      "Померанцев Андрей Сергеевич": 25,
-      "Пономарев Геннадий Викторович": 8,
-      "Чижов Сергей Викторович": 373
+      "gas:candidate-vibid:4364013273300": 8,
+      "gas:candidate-vibid:4364013273638": 15,
+      "gas:candidate-vibid:4364013273534": 7,
+      "gas:candidate-vibid:4364013273005": 9,
+      "gas:candidate-vibid:4364013273451": 7,
+      "gas:candidate-vibid:4364013273330": 25,
+      "gas:candidate-vibid:4364013273602": 8,
+      "gas:candidate-vibid:4364013273379": 373
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000114&tvd=23620001147695&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147695&type=464",
@@ -101,14 +101,14 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверьянова Оксана Владимировна": 4,
-      "Измайлова Светлана Викторовна": 1,
-      "Кочетов Сергей Николаевич": 1,
-      "Овсянников Александр Александрович": 5,
-      "Осинин Кирилл Сергеевич": 1,
-      "Померанцев Андрей Сергеевич": 2,
-      "Пономарев Геннадий Викторович": 0,
-      "Чижов Сергей Викторович": 108
+      "gas:candidate-vibid:4364013273300": 4,
+      "gas:candidate-vibid:4364013273638": 1,
+      "gas:candidate-vibid:4364013273534": 1,
+      "gas:candidate-vibid:4364013273005": 5,
+      "gas:candidate-vibid:4364013273451": 1,
+      "gas:candidate-vibid:4364013273330": 2,
+      "gas:candidate-vibid:4364013273602": 0,
+      "gas:candidate-vibid:4364013273379": 108
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000114&tvd=23620001147695&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147695&type=464",
@@ -159,14 +159,14 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверьянова Оксана Владимировна": 102,
-      "Измайлова Светлана Викторовна": 105,
-      "Кочетов Сергей Николаевич": 23,
-      "Овсянников Александр Александрович": 109,
-      "Осинин Кирилл Сергеевич": 23,
-      "Померанцев Андрей Сергеевич": 166,
-      "Пономарев Геннадий Викторович": 36,
-      "Чижов Сергей Викторович": 506
+      "gas:candidate-vibid:4364013273300": 102,
+      "gas:candidate-vibid:4364013273638": 105,
+      "gas:candidate-vibid:4364013273534": 23,
+      "gas:candidate-vibid:4364013273005": 109,
+      "gas:candidate-vibid:4364013273451": 23,
+      "gas:candidate-vibid:4364013273330": 166,
+      "gas:candidate-vibid:4364013273602": 36,
+      "gas:candidate-vibid:4364013273379": 506
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000114&tvd=23620001147696&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147696&type=464",
@@ -217,14 +217,14 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверьянова Оксана Владимировна": 106,
-      "Измайлова Светлана Викторовна": 120,
-      "Кочетов Сергей Николаевич": 13,
-      "Овсянников Александр Александрович": 112,
-      "Осинин Кирилл Сергеевич": 21,
-      "Померанцев Андрей Сергеевич": 191,
-      "Пономарев Геннадий Викторович": 42,
-      "Чижов Сергей Викторович": 481
+      "gas:candidate-vibid:4364013273300": 106,
+      "gas:candidate-vibid:4364013273638": 120,
+      "gas:candidate-vibid:4364013273534": 13,
+      "gas:candidate-vibid:4364013273005": 112,
+      "gas:candidate-vibid:4364013273451": 21,
+      "gas:candidate-vibid:4364013273330": 191,
+      "gas:candidate-vibid:4364013273602": 42,
+      "gas:candidate-vibid:4364013273379": 481
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000114&tvd=23620001147696&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147696&type=464",
@@ -275,14 +275,14 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверьянова Оксана Владимировна": 94,
-      "Измайлова Светлана Викторовна": 106,
-      "Кочетов Сергей Николаевич": 34,
-      "Овсянников Александр Александрович": 117,
-      "Осинин Кирилл Сергеевич": 18,
-      "Померанцев Андрей Сергеевич": 155,
-      "Пономарев Геннадий Викторович": 35,
-      "Чижов Сергей Викторович": 498
+      "gas:candidate-vibid:4364013273300": 94,
+      "gas:candidate-vibid:4364013273638": 106,
+      "gas:candidate-vibid:4364013273534": 34,
+      "gas:candidate-vibid:4364013273005": 117,
+      "gas:candidate-vibid:4364013273451": 18,
+      "gas:candidate-vibid:4364013273330": 155,
+      "gas:candidate-vibid:4364013273602": 35,
+      "gas:candidate-vibid:4364013273379": 498
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000114&tvd=23620001147696&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147696&type=464",
@@ -333,14 +333,14 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверьянова Оксана Владимировна": 65,
-      "Измайлова Светлана Викторовна": 73,
-      "Кочетов Сергей Николаевич": 24,
-      "Овсянников Александр Александрович": 83,
-      "Осинин Кирилл Сергеевич": 11,
-      "Померанцев Андрей Сергеевич": 155,
-      "Пономарев Геннадий Викторович": 30,
-      "Чижов Сергей Викторович": 330
+      "gas:candidate-vibid:4364013273300": 65,
+      "gas:candidate-vibid:4364013273638": 73,
+      "gas:candidate-vibid:4364013273534": 24,
+      "gas:candidate-vibid:4364013273005": 83,
+      "gas:candidate-vibid:4364013273451": 11,
+      "gas:candidate-vibid:4364013273330": 155,
+      "gas:candidate-vibid:4364013273602": 30,
+      "gas:candidate-vibid:4364013273379": 330
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000114&tvd=23620001147696&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147696&type=464",
@@ -391,14 +391,14 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверьянова Оксана Владимировна": 89,
-      "Измайлова Светлана Викторовна": 106,
-      "Кочетов Сергей Николаевич": 18,
-      "Овсянников Александр Александрович": 111,
-      "Осинин Кирилл Сергеевич": 22,
-      "Померанцев Андрей Сергеевич": 182,
-      "Пономарев Геннадий Викторович": 49,
-      "Чижов Сергей Викторович": 502
+      "gas:candidate-vibid:4364013273300": 89,
+      "gas:candidate-vibid:4364013273638": 106,
+      "gas:candidate-vibid:4364013273534": 18,
+      "gas:candidate-vibid:4364013273005": 111,
+      "gas:candidate-vibid:4364013273451": 22,
+      "gas:candidate-vibid:4364013273330": 182,
+      "gas:candidate-vibid:4364013273602": 49,
+      "gas:candidate-vibid:4364013273379": 502
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000114&tvd=23620001147696&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147696&type=464",
@@ -449,14 +449,14 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверьянова Оксана Владимировна": 87,
-      "Измайлова Светлана Викторовна": 93,
-      "Кочетов Сергей Николаевич": 18,
-      "Овсянников Александр Александрович": 120,
-      "Осинин Кирилл Сергеевич": 19,
-      "Померанцев Андрей Сергеевич": 195,
-      "Пономарев Геннадий Викторович": 31,
-      "Чижов Сергей Викторович": 535
+      "gas:candidate-vibid:4364013273300": 87,
+      "gas:candidate-vibid:4364013273638": 93,
+      "gas:candidate-vibid:4364013273534": 18,
+      "gas:candidate-vibid:4364013273005": 120,
+      "gas:candidate-vibid:4364013273451": 19,
+      "gas:candidate-vibid:4364013273330": 195,
+      "gas:candidate-vibid:4364013273602": 31,
+      "gas:candidate-vibid:4364013273379": 535
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000114&tvd=23620001147696&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147696&type=464",
@@ -507,14 +507,14 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверьянова Оксана Владимировна": 83,
-      "Измайлова Светлана Викторовна": 101,
-      "Кочетов Сергей Николаевич": 31,
-      "Овсянников Александр Александрович": 105,
-      "Осинин Кирилл Сергеевич": 24,
-      "Померанцев Андрей Сергеевич": 205,
-      "Пономарев Геннадий Викторович": 35,
-      "Чижов Сергей Викторович": 458
+      "gas:candidate-vibid:4364013273300": 83,
+      "gas:candidate-vibid:4364013273638": 101,
+      "gas:candidate-vibid:4364013273534": 31,
+      "gas:candidate-vibid:4364013273005": 105,
+      "gas:candidate-vibid:4364013273451": 24,
+      "gas:candidate-vibid:4364013273330": 205,
+      "gas:candidate-vibid:4364013273602": 35,
+      "gas:candidate-vibid:4364013273379": 458
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000114&tvd=23620001147696&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147696&type=464",
@@ -565,14 +565,14 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверьянова Оксана Владимировна": 92,
-      "Измайлова Светлана Викторовна": 109,
-      "Кочетов Сергей Николаевич": 22,
-      "Овсянников Александр Александрович": 104,
-      "Осинин Кирилл Сергеевич": 15,
-      "Померанцев Андрей Сергеевич": 225,
-      "Пономарев Геннадий Викторович": 55,
-      "Чижов Сергей Викторович": 468
+      "gas:candidate-vibid:4364013273300": 92,
+      "gas:candidate-vibid:4364013273638": 109,
+      "gas:candidate-vibid:4364013273534": 22,
+      "gas:candidate-vibid:4364013273005": 104,
+      "gas:candidate-vibid:4364013273451": 15,
+      "gas:candidate-vibid:4364013273330": 225,
+      "gas:candidate-vibid:4364013273602": 55,
+      "gas:candidate-vibid:4364013273379": 468
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000114&tvd=23620001147696&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147696&type=464",
@@ -623,14 +623,14 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверьянова Оксана Владимировна": 92,
-      "Измайлова Светлана Викторовна": 107,
-      "Кочетов Сергей Николаевич": 17,
-      "Овсянников Александр Александрович": 108,
-      "Осинин Кирилл Сергеевич": 20,
-      "Померанцев Андрей Сергеевич": 218,
-      "Пономарев Геннадий Викторович": 40,
-      "Чижов Сергей Викторович": 465
+      "gas:candidate-vibid:4364013273300": 92,
+      "gas:candidate-vibid:4364013273638": 107,
+      "gas:candidate-vibid:4364013273534": 17,
+      "gas:candidate-vibid:4364013273005": 108,
+      "gas:candidate-vibid:4364013273451": 20,
+      "gas:candidate-vibid:4364013273330": 218,
+      "gas:candidate-vibid:4364013273602": 40,
+      "gas:candidate-vibid:4364013273379": 465
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000114&tvd=23620001147696&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147696&type=464",
@@ -681,14 +681,14 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверьянова Оксана Владимировна": 96,
-      "Измайлова Светлана Викторовна": 105,
-      "Кочетов Сергей Николаевич": 25,
-      "Овсянников Александр Александрович": 95,
-      "Осинин Кирилл Сергеевич": 11,
-      "Померанцев Андрей Сергеевич": 200,
-      "Пономарев Геннадий Викторович": 39,
-      "Чижов Сергей Викторович": 467
+      "gas:candidate-vibid:4364013273300": 96,
+      "gas:candidate-vibid:4364013273638": 105,
+      "gas:candidate-vibid:4364013273534": 25,
+      "gas:candidate-vibid:4364013273005": 95,
+      "gas:candidate-vibid:4364013273451": 11,
+      "gas:candidate-vibid:4364013273330": 200,
+      "gas:candidate-vibid:4364013273602": 39,
+      "gas:candidate-vibid:4364013273379": 467
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000114&tvd=23620001147696&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147696&type=464",
@@ -739,14 +739,14 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверьянова Оксана Владимировна": 73,
-      "Измайлова Светлана Викторовна": 103,
-      "Кочетов Сергей Николаевич": 38,
-      "Овсянников Александр Александрович": 113,
-      "Осинин Кирилл Сергеевич": 19,
-      "Померанцев Андрей Сергеевич": 181,
-      "Пономарев Геннадий Викторович": 27,
-      "Чижов Сергей Викторович": 454
+      "gas:candidate-vibid:4364013273300": 73,
+      "gas:candidate-vibid:4364013273638": 103,
+      "gas:candidate-vibid:4364013273534": 38,
+      "gas:candidate-vibid:4364013273005": 113,
+      "gas:candidate-vibid:4364013273451": 19,
+      "gas:candidate-vibid:4364013273330": 181,
+      "gas:candidate-vibid:4364013273602": 27,
+      "gas:candidate-vibid:4364013273379": 454
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000114&tvd=23620001147696&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147696&type=464",
@@ -797,14 +797,14 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверьянова Оксана Владимировна": 91,
-      "Измайлова Светлана Викторовна": 117,
-      "Кочетов Сергей Николаевич": 31,
-      "Овсянников Александр Александрович": 158,
-      "Осинин Кирилл Сергеевич": 24,
-      "Померанцев Андрей Сергеевич": 174,
-      "Пономарев Геннадий Викторович": 53,
-      "Чижов Сергей Викторович": 636
+      "gas:candidate-vibid:4364013273300": 91,
+      "gas:candidate-vibid:4364013273638": 117,
+      "gas:candidate-vibid:4364013273534": 31,
+      "gas:candidate-vibid:4364013273005": 158,
+      "gas:candidate-vibid:4364013273451": 24,
+      "gas:candidate-vibid:4364013273330": 174,
+      "gas:candidate-vibid:4364013273602": 53,
+      "gas:candidate-vibid:4364013273379": 636
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000114&tvd=23620001147696&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147696&type=464",
@@ -855,14 +855,14 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверьянова Оксана Владимировна": 69,
-      "Измайлова Светлана Викторовна": 170,
-      "Кочетов Сергей Николаевич": 47,
-      "Овсянников Александр Александрович": 76,
-      "Осинин Кирилл Сергеевич": 18,
-      "Померанцев Андрей Сергеевич": 139,
-      "Пономарев Геннадий Викторович": 3,
-      "Чижов Сергей Викторович": 1230
+      "gas:candidate-vibid:4364013273300": 69,
+      "gas:candidate-vibid:4364013273638": 170,
+      "gas:candidate-vibid:4364013273534": 47,
+      "gas:candidate-vibid:4364013273005": 76,
+      "gas:candidate-vibid:4364013273451": 18,
+      "gas:candidate-vibid:4364013273330": 139,
+      "gas:candidate-vibid:4364013273602": 3,
+      "gas:candidate-vibid:4364013273379": 1230
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000114&tvd=23620001147697&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147697&type=464",
@@ -913,14 +913,14 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверьянова Оксана Владимировна": 80,
-      "Измайлова Светлана Викторовна": 54,
-      "Кочетов Сергей Николаевич": 51,
-      "Овсянников Александр Александрович": 69,
-      "Осинин Кирилл Сергеевич": 14,
-      "Померанцев Андрей Сергеевич": 231,
-      "Пономарев Геннадий Викторович": 31,
-      "Чижов Сергей Викторович": 1068
+      "gas:candidate-vibid:4364013273300": 80,
+      "gas:candidate-vibid:4364013273638": 54,
+      "gas:candidate-vibid:4364013273534": 51,
+      "gas:candidate-vibid:4364013273005": 69,
+      "gas:candidate-vibid:4364013273451": 14,
+      "gas:candidate-vibid:4364013273330": 231,
+      "gas:candidate-vibid:4364013273602": 31,
+      "gas:candidate-vibid:4364013273379": 1068
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000114&tvd=23620001147697&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147697&type=464",
@@ -971,14 +971,14 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверьянова Оксана Владимировна": 30,
-      "Измайлова Светлана Викторовна": 21,
-      "Кочетов Сергей Николаевич": 12,
-      "Овсянников Александр Александрович": 26,
-      "Осинин Кирилл Сергеевич": 3,
-      "Померанцев Андрей Сергеевич": 78,
-      "Пономарев Геннадий Викторович": 4,
-      "Чижов Сергей Викторович": 454
+      "gas:candidate-vibid:4364013273300": 30,
+      "gas:candidate-vibid:4364013273638": 21,
+      "gas:candidate-vibid:4364013273534": 12,
+      "gas:candidate-vibid:4364013273005": 26,
+      "gas:candidate-vibid:4364013273451": 3,
+      "gas:candidate-vibid:4364013273330": 78,
+      "gas:candidate-vibid:4364013273602": 4,
+      "gas:candidate-vibid:4364013273379": 454
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000114&tvd=23620001147697&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147697&type=464",
@@ -1029,14 +1029,14 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверьянова Оксана Владимировна": 28,
-      "Измайлова Светлана Викторовна": 17,
-      "Кочетов Сергей Николаевич": 9,
-      "Овсянников Александр Александрович": 29,
-      "Осинин Кирилл Сергеевич": 2,
-      "Померанцев Андрей Сергеевич": 68,
-      "Пономарев Геннадий Викторович": 5,
-      "Чижов Сергей Викторович": 269
+      "gas:candidate-vibid:4364013273300": 28,
+      "gas:candidate-vibid:4364013273638": 17,
+      "gas:candidate-vibid:4364013273534": 9,
+      "gas:candidate-vibid:4364013273005": 29,
+      "gas:candidate-vibid:4364013273451": 2,
+      "gas:candidate-vibid:4364013273330": 68,
+      "gas:candidate-vibid:4364013273602": 5,
+      "gas:candidate-vibid:4364013273379": 269
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000114&tvd=23620001147697&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147697&type=464",
@@ -1087,14 +1087,14 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверьянова Оксана Владимировна": 28,
-      "Измайлова Светлана Викторовна": 7,
-      "Кочетов Сергей Николаевич": 7,
-      "Овсянников Александр Александрович": 9,
-      "Осинин Кирилл Сергеевич": 4,
-      "Померанцев Андрей Сергеевич": 20,
-      "Пономарев Геннадий Викторович": 4,
-      "Чижов Сергей Викторович": 156
+      "gas:candidate-vibid:4364013273300": 28,
+      "gas:candidate-vibid:4364013273638": 7,
+      "gas:candidate-vibid:4364013273534": 7,
+      "gas:candidate-vibid:4364013273005": 9,
+      "gas:candidate-vibid:4364013273451": 4,
+      "gas:candidate-vibid:4364013273330": 20,
+      "gas:candidate-vibid:4364013273602": 4,
+      "gas:candidate-vibid:4364013273379": 156
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000114&tvd=23620001147697&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147697&type=464",
@@ -1145,14 +1145,14 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверьянова Оксана Владимировна": 11,
-      "Измайлова Светлана Викторовна": 9,
-      "Кочетов Сергей Николаевич": 10,
-      "Овсянников Александр Александрович": 10,
-      "Осинин Кирилл Сергеевич": 1,
-      "Померанцев Андрей Сергеевич": 26,
-      "Пономарев Геннадий Викторович": 5,
-      "Чижов Сергей Викторович": 151
+      "gas:candidate-vibid:4364013273300": 11,
+      "gas:candidate-vibid:4364013273638": 9,
+      "gas:candidate-vibid:4364013273534": 10,
+      "gas:candidate-vibid:4364013273005": 10,
+      "gas:candidate-vibid:4364013273451": 1,
+      "gas:candidate-vibid:4364013273330": 26,
+      "gas:candidate-vibid:4364013273602": 5,
+      "gas:candidate-vibid:4364013273379": 151
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000114&tvd=23620001147697&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147697&type=464",
@@ -1203,14 +1203,14 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверьянова Оксана Владимировна": 5,
-      "Измайлова Светлана Викторовна": 7,
-      "Кочетов Сергей Николаевич": 4,
-      "Овсянников Александр Александрович": 2,
-      "Осинин Кирилл Сергеевич": 1,
-      "Померанцев Андрей Сергеевич": 6,
-      "Пономарев Геннадий Викторович": 3,
-      "Чижов Сергей Викторович": 118
+      "gas:candidate-vibid:4364013273300": 5,
+      "gas:candidate-vibid:4364013273638": 7,
+      "gas:candidate-vibid:4364013273534": 4,
+      "gas:candidate-vibid:4364013273005": 2,
+      "gas:candidate-vibid:4364013273451": 1,
+      "gas:candidate-vibid:4364013273330": 6,
+      "gas:candidate-vibid:4364013273602": 3,
+      "gas:candidate-vibid:4364013273379": 118
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000114&tvd=23620001147697&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147697&type=464",
@@ -1261,14 +1261,14 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверьянова Оксана Владимировна": 12,
-      "Измайлова Светлана Викторовна": 5,
-      "Кочетов Сергей Николаевич": 2,
-      "Овсянников Александр Александрович": 8,
-      "Осинин Кирилл Сергеевич": 2,
-      "Померанцев Андрей Сергеевич": 12,
-      "Пономарев Геннадий Викторович": 3,
-      "Чижов Сергей Викторович": 212
+      "gas:candidate-vibid:4364013273300": 12,
+      "gas:candidate-vibid:4364013273638": 5,
+      "gas:candidate-vibid:4364013273534": 2,
+      "gas:candidate-vibid:4364013273005": 8,
+      "gas:candidate-vibid:4364013273451": 2,
+      "gas:candidate-vibid:4364013273330": 12,
+      "gas:candidate-vibid:4364013273602": 3,
+      "gas:candidate-vibid:4364013273379": 212
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000114&tvd=23620001147697&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147697&type=464",
@@ -1319,14 +1319,14 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверьянова Оксана Владимировна": 17,
-      "Измайлова Светлана Викторовна": 15,
-      "Кочетов Сергей Николаевич": 6,
-      "Овсянников Александр Александрович": 14,
-      "Осинин Кирилл Сергеевич": 0,
-      "Померанцев Андрей Сергеевич": 23,
-      "Пономарев Геннадий Викторович": 10,
-      "Чижов Сергей Викторович": 322
+      "gas:candidate-vibid:4364013273300": 17,
+      "gas:candidate-vibid:4364013273638": 15,
+      "gas:candidate-vibid:4364013273534": 6,
+      "gas:candidate-vibid:4364013273005": 14,
+      "gas:candidate-vibid:4364013273451": 0,
+      "gas:candidate-vibid:4364013273330": 23,
+      "gas:candidate-vibid:4364013273602": 10,
+      "gas:candidate-vibid:4364013273379": 322
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000114&tvd=23620001147697&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147697&type=464",
@@ -1377,14 +1377,14 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверьянова Оксана Владимировна": 4,
-      "Измайлова Светлана Викторовна": 10,
-      "Кочетов Сергей Николаевич": 2,
-      "Овсянников Александр Александрович": 7,
-      "Осинин Кирилл Сергеевич": 2,
-      "Померанцев Андрей Сергеевич": 13,
-      "Пономарев Геннадий Викторович": 6,
-      "Чижов Сергей Викторович": 217
+      "gas:candidate-vibid:4364013273300": 4,
+      "gas:candidate-vibid:4364013273638": 10,
+      "gas:candidate-vibid:4364013273534": 2,
+      "gas:candidate-vibid:4364013273005": 7,
+      "gas:candidate-vibid:4364013273451": 2,
+      "gas:candidate-vibid:4364013273330": 13,
+      "gas:candidate-vibid:4364013273602": 6,
+      "gas:candidate-vibid:4364013273379": 217
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000114&tvd=23620001147697&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147697&type=464",
@@ -1435,14 +1435,14 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверьянова Оксана Владимировна": 11,
-      "Измайлова Светлана Викторовна": 15,
-      "Кочетов Сергей Николаевич": 2,
-      "Овсянников Александр Александрович": 12,
-      "Осинин Кирилл Сергеевич": 3,
-      "Померанцев Андрей Сергеевич": 10,
-      "Пономарев Геннадий Викторович": 5,
-      "Чижов Сергей Викторович": 198
+      "gas:candidate-vibid:4364013273300": 11,
+      "gas:candidate-vibid:4364013273638": 15,
+      "gas:candidate-vibid:4364013273534": 2,
+      "gas:candidate-vibid:4364013273005": 12,
+      "gas:candidate-vibid:4364013273451": 3,
+      "gas:candidate-vibid:4364013273330": 10,
+      "gas:candidate-vibid:4364013273602": 5,
+      "gas:candidate-vibid:4364013273379": 198
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000114&tvd=23620001147697&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147697&type=464",
@@ -1493,14 +1493,14 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверьянова Оксана Владимировна": 11,
-      "Измайлова Светлана Викторовна": 20,
-      "Кочетов Сергей Николаевич": 3,
-      "Овсянников Александр Александрович": 10,
-      "Осинин Кирилл Сергеевич": 1,
-      "Померанцев Андрей Сергеевич": 17,
-      "Пономарев Геннадий Викторович": 2,
-      "Чижов Сергей Викторович": 240
+      "gas:candidate-vibid:4364013273300": 11,
+      "gas:candidate-vibid:4364013273638": 20,
+      "gas:candidate-vibid:4364013273534": 3,
+      "gas:candidate-vibid:4364013273005": 10,
+      "gas:candidate-vibid:4364013273451": 1,
+      "gas:candidate-vibid:4364013273330": 17,
+      "gas:candidate-vibid:4364013273602": 2,
+      "gas:candidate-vibid:4364013273379": 240
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000114&tvd=23620001147697&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147697&type=464",
@@ -1551,14 +1551,14 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверьянова Оксана Владимировна": 12,
-      "Измайлова Светлана Викторовна": 6,
-      "Кочетов Сергей Николаевич": 5,
-      "Овсянников Александр Александрович": 8,
-      "Осинин Кирилл Сергеевич": 1,
-      "Померанцев Андрей Сергеевич": 65,
-      "Пономарев Геннадий Викторович": 6,
-      "Чижов Сергей Викторович": 170
+      "gas:candidate-vibid:4364013273300": 12,
+      "gas:candidate-vibid:4364013273638": 6,
+      "gas:candidate-vibid:4364013273534": 5,
+      "gas:candidate-vibid:4364013273005": 8,
+      "gas:candidate-vibid:4364013273451": 1,
+      "gas:candidate-vibid:4364013273330": 65,
+      "gas:candidate-vibid:4364013273602": 6,
+      "gas:candidate-vibid:4364013273379": 170
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000114&tvd=23620001147697&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147697&type=464",
@@ -1609,14 +1609,14 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверьянова Оксана Владимировна": 8,
-      "Измайлова Светлана Викторовна": 6,
-      "Кочетов Сергей Николаевич": 10,
-      "Овсянников Александр Александрович": 8,
-      "Осинин Кирилл Сергеевич": 2,
-      "Померанцев Андрей Сергеевич": 31,
-      "Пономарев Геннадий Викторович": 5,
-      "Чижов Сергей Викторович": 113
+      "gas:candidate-vibid:4364013273300": 8,
+      "gas:candidate-vibid:4364013273638": 6,
+      "gas:candidate-vibid:4364013273534": 10,
+      "gas:candidate-vibid:4364013273005": 8,
+      "gas:candidate-vibid:4364013273451": 2,
+      "gas:candidate-vibid:4364013273330": 31,
+      "gas:candidate-vibid:4364013273602": 5,
+      "gas:candidate-vibid:4364013273379": 113
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000114&tvd=23620001147697&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147697&type=464",
@@ -1667,14 +1667,14 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверьянова Оксана Владимировна": 7,
-      "Измайлова Светлана Викторовна": 7,
-      "Кочетов Сергей Николаевич": 2,
-      "Овсянников Александр Александрович": 7,
-      "Осинин Кирилл Сергеевич": 2,
-      "Померанцев Андрей Сергеевич": 6,
-      "Пономарев Геннадий Викторович": 1,
-      "Чижов Сергей Викторович": 181
+      "gas:candidate-vibid:4364013273300": 7,
+      "gas:candidate-vibid:4364013273638": 7,
+      "gas:candidate-vibid:4364013273534": 2,
+      "gas:candidate-vibid:4364013273005": 7,
+      "gas:candidate-vibid:4364013273451": 2,
+      "gas:candidate-vibid:4364013273330": 6,
+      "gas:candidate-vibid:4364013273602": 1,
+      "gas:candidate-vibid:4364013273379": 181
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000114&tvd=23620001147697&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147697&type=464",
@@ -1725,14 +1725,14 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверьянова Оксана Владимировна": 15,
-      "Измайлова Светлана Викторовна": 12,
-      "Кочетов Сергей Николаевич": 7,
-      "Овсянников Александр Александрович": 11,
-      "Осинин Кирилл Сергеевич": 6,
-      "Померанцев Андрей Сергеевич": 47,
-      "Пономарев Геннадий Викторович": 4,
-      "Чижов Сергей Викторович": 166
+      "gas:candidate-vibid:4364013273300": 15,
+      "gas:candidate-vibid:4364013273638": 12,
+      "gas:candidate-vibid:4364013273534": 7,
+      "gas:candidate-vibid:4364013273005": 11,
+      "gas:candidate-vibid:4364013273451": 6,
+      "gas:candidate-vibid:4364013273330": 47,
+      "gas:candidate-vibid:4364013273602": 4,
+      "gas:candidate-vibid:4364013273379": 166
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000114&tvd=23620001147697&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147697&type=464",
@@ -1783,14 +1783,14 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверьянова Оксана Владимировна": 4,
-      "Измайлова Светлана Викторовна": 7,
-      "Кочетов Сергей Николаевич": 3,
-      "Овсянников Александр Александрович": 9,
-      "Осинин Кирилл Сергеевич": 0,
-      "Померанцев Андрей Сергеевич": 22,
-      "Пономарев Геннадий Викторович": 4,
-      "Чижов Сергей Викторович": 97
+      "gas:candidate-vibid:4364013273300": 4,
+      "gas:candidate-vibid:4364013273638": 7,
+      "gas:candidate-vibid:4364013273534": 3,
+      "gas:candidate-vibid:4364013273005": 9,
+      "gas:candidate-vibid:4364013273451": 0,
+      "gas:candidate-vibid:4364013273330": 22,
+      "gas:candidate-vibid:4364013273602": 4,
+      "gas:candidate-vibid:4364013273379": 97
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000114&tvd=23620001147697&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147697&type=464",
@@ -1841,14 +1841,14 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверьянова Оксана Владимировна": 12,
-      "Измайлова Светлана Викторовна": 8,
-      "Кочетов Сергей Николаевич": 14,
-      "Овсянников Александр Александрович": 20,
-      "Осинин Кирилл Сергеевич": 7,
-      "Померанцев Андрей Сергеевич": 36,
-      "Пономарев Геннадий Викторович": 2,
-      "Чижов Сергей Викторович": 230
+      "gas:candidate-vibid:4364013273300": 12,
+      "gas:candidate-vibid:4364013273638": 8,
+      "gas:candidate-vibid:4364013273534": 14,
+      "gas:candidate-vibid:4364013273005": 20,
+      "gas:candidate-vibid:4364013273451": 7,
+      "gas:candidate-vibid:4364013273330": 36,
+      "gas:candidate-vibid:4364013273602": 2,
+      "gas:candidate-vibid:4364013273379": 230
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000114&tvd=23620001147697&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147697&type=464",
@@ -1899,14 +1899,14 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверьянова Оксана Владимировна": 5,
-      "Измайлова Светлана Викторовна": 5,
-      "Кочетов Сергей Николаевич": 4,
-      "Овсянников Александр Александрович": 9,
-      "Осинин Кирилл Сергеевич": 2,
-      "Померанцев Андрей Сергеевич": 18,
-      "Пономарев Геннадий Викторович": 1,
-      "Чижов Сергей Викторович": 179
+      "gas:candidate-vibid:4364013273300": 5,
+      "gas:candidate-vibid:4364013273638": 5,
+      "gas:candidate-vibid:4364013273534": 4,
+      "gas:candidate-vibid:4364013273005": 9,
+      "gas:candidate-vibid:4364013273451": 2,
+      "gas:candidate-vibid:4364013273330": 18,
+      "gas:candidate-vibid:4364013273602": 1,
+      "gas:candidate-vibid:4364013273379": 179
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000114&tvd=23620001147697&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147697&type=464",
@@ -1957,14 +1957,14 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверьянова Оксана Владимировна": 11,
-      "Измайлова Светлана Викторовна": 1,
-      "Кочетов Сергей Николаевич": 2,
-      "Овсянников Александр Александрович": 2,
-      "Осинин Кирилл Сергеевич": 0,
-      "Померанцев Андрей Сергеевич": 16,
-      "Пономарев Геннадий Викторович": 1,
-      "Чижов Сергей Викторович": 61
+      "gas:candidate-vibid:4364013273300": 11,
+      "gas:candidate-vibid:4364013273638": 1,
+      "gas:candidate-vibid:4364013273534": 2,
+      "gas:candidate-vibid:4364013273005": 2,
+      "gas:candidate-vibid:4364013273451": 0,
+      "gas:candidate-vibid:4364013273330": 16,
+      "gas:candidate-vibid:4364013273602": 1,
+      "gas:candidate-vibid:4364013273379": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000114&tvd=23620001147697&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147697&type=464",
@@ -2015,14 +2015,14 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверьянова Оксана Владимировна": 11,
-      "Измайлова Светлана Викторовна": 3,
-      "Кочетов Сергей Николаевич": 8,
-      "Овсянников Александр Александрович": 8,
-      "Осинин Кирилл Сергеевич": 2,
-      "Померанцев Андрей Сергеевич": 42,
-      "Пономарев Геннадий Викторович": 8,
-      "Чижов Сергей Викторович": 166
+      "gas:candidate-vibid:4364013273300": 11,
+      "gas:candidate-vibid:4364013273638": 3,
+      "gas:candidate-vibid:4364013273534": 8,
+      "gas:candidate-vibid:4364013273005": 8,
+      "gas:candidate-vibid:4364013273451": 2,
+      "gas:candidate-vibid:4364013273330": 42,
+      "gas:candidate-vibid:4364013273602": 8,
+      "gas:candidate-vibid:4364013273379": 166
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000114&tvd=23620001147697&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147697&type=464",
@@ -2073,14 +2073,14 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверьянова Оксана Владимировна": 13,
-      "Измайлова Светлана Викторовна": 16,
-      "Кочетов Сергей Николаевич": 21,
-      "Овсянников Александр Александрович": 13,
-      "Осинин Кирилл Сергеевич": 1,
-      "Померанцев Андрей Сергеевич": 22,
-      "Пономарев Геннадий Викторович": 8,
-      "Чижов Сергей Викторович": 210
+      "gas:candidate-vibid:4364013273300": 13,
+      "gas:candidate-vibid:4364013273638": 16,
+      "gas:candidate-vibid:4364013273534": 21,
+      "gas:candidate-vibid:4364013273005": 13,
+      "gas:candidate-vibid:4364013273451": 1,
+      "gas:candidate-vibid:4364013273330": 22,
+      "gas:candidate-vibid:4364013273602": 8,
+      "gas:candidate-vibid:4364013273379": 210
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000114&tvd=23620001147697&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147697&type=464",
@@ -2131,14 +2131,14 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверьянова Оксана Владимировна": 14,
-      "Измайлова Светлана Викторовна": 8,
-      "Кочетов Сергей Николаевич": 10,
-      "Овсянников Александр Александрович": 18,
-      "Осинин Кирилл Сергеевич": 1,
-      "Померанцев Андрей Сергеевич": 49,
-      "Пономарев Геннадий Викторович": 6,
-      "Чижов Сергей Викторович": 200
+      "gas:candidate-vibid:4364013273300": 14,
+      "gas:candidate-vibid:4364013273638": 8,
+      "gas:candidate-vibid:4364013273534": 10,
+      "gas:candidate-vibid:4364013273005": 18,
+      "gas:candidate-vibid:4364013273451": 1,
+      "gas:candidate-vibid:4364013273330": 49,
+      "gas:candidate-vibid:4364013273602": 6,
+      "gas:candidate-vibid:4364013273379": 200
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000114&tvd=23620001147697&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147697&type=464",
@@ -2189,14 +2189,14 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверьянова Оксана Владимировна": 0,
-      "Измайлова Светлана Викторовна": 4,
-      "Кочетов Сергей Николаевич": 0,
-      "Овсянников Александр Александрович": 0,
-      "Осинин Кирилл Сергеевич": 0,
-      "Померанцев Андрей Сергеевич": 3,
-      "Пономарев Геннадий Викторович": 0,
-      "Чижов Сергей Викторович": 79
+      "gas:candidate-vibid:4364013273300": 0,
+      "gas:candidate-vibid:4364013273638": 4,
+      "gas:candidate-vibid:4364013273534": 0,
+      "gas:candidate-vibid:4364013273005": 0,
+      "gas:candidate-vibid:4364013273451": 0,
+      "gas:candidate-vibid:4364013273330": 3,
+      "gas:candidate-vibid:4364013273602": 0,
+      "gas:candidate-vibid:4364013273379": 79
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000114&tvd=23620001147697&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147697&type=464",
@@ -2247,14 +2247,14 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверьянова Оксана Владимировна": 19,
-      "Измайлова Светлана Викторовна": 7,
-      "Кочетов Сергей Николаевич": 74,
-      "Овсянников Александр Александрович": 21,
-      "Осинин Кирилл Сергеевич": 4,
-      "Померанцев Андрей Сергеевич": 46,
-      "Пономарев Геннадий Викторович": 7,
-      "Чижов Сергей Викторович": 125
+      "gas:candidate-vibid:4364013273300": 19,
+      "gas:candidate-vibid:4364013273638": 7,
+      "gas:candidate-vibid:4364013273534": 74,
+      "gas:candidate-vibid:4364013273005": 21,
+      "gas:candidate-vibid:4364013273451": 4,
+      "gas:candidate-vibid:4364013273330": 46,
+      "gas:candidate-vibid:4364013273602": 7,
+      "gas:candidate-vibid:4364013273379": 125
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000114&tvd=23620001147697&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147697&type=464",
@@ -2305,14 +2305,14 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверьянова Оксана Владимировна": 11,
-      "Измайлова Светлана Викторовна": 0,
-      "Кочетов Сергей Николаевич": 100,
-      "Овсянников Александр Александрович": 5,
-      "Осинин Кирилл Сергеевич": 2,
-      "Померанцев Андрей Сергеевич": 34,
-      "Пономарев Геннадий Викторович": 4,
-      "Чижов Сергей Викторович": 243
+      "gas:candidate-vibid:4364013273300": 11,
+      "gas:candidate-vibid:4364013273638": 0,
+      "gas:candidate-vibid:4364013273534": 100,
+      "gas:candidate-vibid:4364013273005": 5,
+      "gas:candidate-vibid:4364013273451": 2,
+      "gas:candidate-vibid:4364013273330": 34,
+      "gas:candidate-vibid:4364013273602": 4,
+      "gas:candidate-vibid:4364013273379": 243
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000114&tvd=23620001147697&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147697&type=464",
@@ -2363,14 +2363,14 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверьянова Оксана Владимировна": 11,
-      "Измайлова Светлана Викторовна": 5,
-      "Кочетов Сергей Николаевич": 39,
-      "Овсянников Александр Александрович": 17,
-      "Осинин Кирилл Сергеевич": 2,
-      "Померанцев Андрей Сергеевич": 39,
-      "Пономарев Геннадий Викторович": 1,
-      "Чижов Сергей Викторович": 239
+      "gas:candidate-vibid:4364013273300": 11,
+      "gas:candidate-vibid:4364013273638": 5,
+      "gas:candidate-vibid:4364013273534": 39,
+      "gas:candidate-vibid:4364013273005": 17,
+      "gas:candidate-vibid:4364013273451": 2,
+      "gas:candidate-vibid:4364013273330": 39,
+      "gas:candidate-vibid:4364013273602": 1,
+      "gas:candidate-vibid:4364013273379": 239
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000114&tvd=23620001147697&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147697&type=464",
@@ -2421,14 +2421,14 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверьянова Оксана Владимировна": 0,
-      "Измайлова Светлана Викторовна": 5,
-      "Кочетов Сергей Николаевич": 7,
-      "Овсянников Александр Александрович": 6,
-      "Осинин Кирилл Сергеевич": 0,
-      "Померанцев Андрей Сергеевич": 30,
-      "Пономарев Геннадий Викторович": 0,
-      "Чижов Сергей Викторович": 165
+      "gas:candidate-vibid:4364013273300": 0,
+      "gas:candidate-vibid:4364013273638": 5,
+      "gas:candidate-vibid:4364013273534": 7,
+      "gas:candidate-vibid:4364013273005": 6,
+      "gas:candidate-vibid:4364013273451": 0,
+      "gas:candidate-vibid:4364013273330": 30,
+      "gas:candidate-vibid:4364013273602": 0,
+      "gas:candidate-vibid:4364013273379": 165
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000114&tvd=23620001147697&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147697&type=464",
@@ -2479,14 +2479,14 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверьянова Оксана Владимировна": 8,
-      "Измайлова Светлана Викторовна": 11,
-      "Кочетов Сергей Николаевич": 6,
-      "Овсянников Александр Александрович": 8,
-      "Осинин Кирилл Сергеевич": 0,
-      "Померанцев Андрей Сергеевич": 9,
-      "Пономарев Геннадий Викторович": 2,
-      "Чижов Сергей Викторович": 106
+      "gas:candidate-vibid:4364013273300": 8,
+      "gas:candidate-vibid:4364013273638": 11,
+      "gas:candidate-vibid:4364013273534": 6,
+      "gas:candidate-vibid:4364013273005": 8,
+      "gas:candidate-vibid:4364013273451": 0,
+      "gas:candidate-vibid:4364013273330": 9,
+      "gas:candidate-vibid:4364013273602": 2,
+      "gas:candidate-vibid:4364013273379": 106
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000114&tvd=23620001147697&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147697&type=464",
@@ -2537,14 +2537,14 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверьянова Оксана Владимировна": 0,
-      "Измайлова Светлана Викторовна": 0,
-      "Кочетов Сергей Николаевич": 8,
-      "Овсянников Александр Александрович": 6,
-      "Осинин Кирилл Сергеевич": 0,
-      "Померанцев Андрей Сергеевич": 6,
-      "Пономарев Геннадий Викторович": 4,
-      "Чижов Сергей Викторович": 176
+      "gas:candidate-vibid:4364013273300": 0,
+      "gas:candidate-vibid:4364013273638": 0,
+      "gas:candidate-vibid:4364013273534": 8,
+      "gas:candidate-vibid:4364013273005": 6,
+      "gas:candidate-vibid:4364013273451": 0,
+      "gas:candidate-vibid:4364013273330": 6,
+      "gas:candidate-vibid:4364013273602": 4,
+      "gas:candidate-vibid:4364013273379": 176
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000114&tvd=23620001147697&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147697&type=464",
@@ -2595,14 +2595,14 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверьянова Оксана Владимировна": 23,
-      "Измайлова Светлана Викторовна": 10,
-      "Кочетов Сергей Николаевич": 2,
-      "Овсянников Александр Александрович": 15,
-      "Осинин Кирилл Сергеевич": 3,
-      "Померанцев Андрей Сергеевич": 27,
-      "Пономарев Геннадий Викторович": 5,
-      "Чижов Сергей Викторович": 181
+      "gas:candidate-vibid:4364013273300": 23,
+      "gas:candidate-vibid:4364013273638": 10,
+      "gas:candidate-vibid:4364013273534": 2,
+      "gas:candidate-vibid:4364013273005": 15,
+      "gas:candidate-vibid:4364013273451": 3,
+      "gas:candidate-vibid:4364013273330": 27,
+      "gas:candidate-vibid:4364013273602": 5,
+      "gas:candidate-vibid:4364013273379": 181
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000114&tvd=23620001147697&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147697&type=464",
@@ -2653,14 +2653,14 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверьянова Оксана Владимировна": 17,
-      "Измайлова Светлана Викторовна": 12,
-      "Кочетов Сергей Николаевич": 4,
-      "Овсянников Александр Александрович": 13,
-      "Осинин Кирилл Сергеевич": 3,
-      "Померанцев Андрей Сергеевич": 32,
-      "Пономарев Геннадий Викторович": 8,
-      "Чижов Сергей Викторович": 309
+      "gas:candidate-vibid:4364013273300": 17,
+      "gas:candidate-vibid:4364013273638": 12,
+      "gas:candidate-vibid:4364013273534": 4,
+      "gas:candidate-vibid:4364013273005": 13,
+      "gas:candidate-vibid:4364013273451": 3,
+      "gas:candidate-vibid:4364013273330": 32,
+      "gas:candidate-vibid:4364013273602": 8,
+      "gas:candidate-vibid:4364013273379": 309
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000114&tvd=23620001147697&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147697&type=464",
@@ -2711,14 +2711,14 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверьянова Оксана Владимировна": 17,
-      "Измайлова Светлана Викторовна": 17,
-      "Кочетов Сергей Николаевич": 6,
-      "Овсянников Александр Александрович": 18,
-      "Осинин Кирилл Сергеевич": 3,
-      "Померанцев Андрей Сергеевич": 26,
-      "Пономарев Геннадий Викторович": 3,
-      "Чижов Сергей Викторович": 266
+      "gas:candidate-vibid:4364013273300": 17,
+      "gas:candidate-vibid:4364013273638": 17,
+      "gas:candidate-vibid:4364013273534": 6,
+      "gas:candidate-vibid:4364013273005": 18,
+      "gas:candidate-vibid:4364013273451": 3,
+      "gas:candidate-vibid:4364013273330": 26,
+      "gas:candidate-vibid:4364013273602": 3,
+      "gas:candidate-vibid:4364013273379": 266
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000114&tvd=23620001147697&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147697&type=464",
@@ -2769,14 +2769,14 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверьянова Оксана Владимировна": 17,
-      "Измайлова Светлана Викторовна": 6,
-      "Кочетов Сергей Николаевич": 10,
-      "Овсянников Александр Александрович": 10,
-      "Осинин Кирилл Сергеевич": 2,
-      "Померанцев Андрей Сергеевич": 63,
-      "Пономарев Геннадий Викторович": 8,
-      "Чижов Сергей Викторович": 107
+      "gas:candidate-vibid:4364013273300": 17,
+      "gas:candidate-vibid:4364013273638": 6,
+      "gas:candidate-vibid:4364013273534": 10,
+      "gas:candidate-vibid:4364013273005": 10,
+      "gas:candidate-vibid:4364013273451": 2,
+      "gas:candidate-vibid:4364013273330": 63,
+      "gas:candidate-vibid:4364013273602": 8,
+      "gas:candidate-vibid:4364013273379": 107
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000114&tvd=23620001147697&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147697&type=464",
@@ -2827,14 +2827,14 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверьянова Оксана Владимировна": 69,
-      "Измайлова Светлана Викторовна": 65,
-      "Кочетов Сергей Николаевич": 24,
-      "Овсянников Александр Александрович": 85,
-      "Осинин Кирилл Сергеевич": 10,
-      "Померанцев Андрей Сергеевич": 160,
-      "Пономарев Геннадий Викторович": 27,
-      "Чижов Сергей Викторович": 316
+      "gas:candidate-vibid:4364013273300": 69,
+      "gas:candidate-vibid:4364013273638": 65,
+      "gas:candidate-vibid:4364013273534": 24,
+      "gas:candidate-vibid:4364013273005": 85,
+      "gas:candidate-vibid:4364013273451": 10,
+      "gas:candidate-vibid:4364013273330": 160,
+      "gas:candidate-vibid:4364013273602": 27,
+      "gas:candidate-vibid:4364013273379": 316
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000114&tvd=23620001147698&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147698&type=464",
@@ -2885,14 +2885,14 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверьянова Оксана Владимировна": 81,
-      "Измайлова Светлана Викторовна": 122,
-      "Кочетов Сергей Николаевич": 25,
-      "Овсянников Александр Александрович": 75,
-      "Осинин Кирилл Сергеевич": 11,
-      "Померанцев Андрей Сергеевич": 145,
-      "Пономарев Геннадий Викторович": 35,
-      "Чижов Сергей Викторович": 273
+      "gas:candidate-vibid:4364013273300": 81,
+      "gas:candidate-vibid:4364013273638": 122,
+      "gas:candidate-vibid:4364013273534": 25,
+      "gas:candidate-vibid:4364013273005": 75,
+      "gas:candidate-vibid:4364013273451": 11,
+      "gas:candidate-vibid:4364013273330": 145,
+      "gas:candidate-vibid:4364013273602": 35,
+      "gas:candidate-vibid:4364013273379": 273
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000114&tvd=23620001147698&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147698&type=464",
@@ -2943,14 +2943,14 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверьянова Оксана Владимировна": 70,
-      "Измайлова Светлана Викторовна": 106,
-      "Кочетов Сергей Николаевич": 16,
-      "Овсянников Александр Александрович": 75,
-      "Осинин Кирилл Сергеевич": 7,
-      "Померанцев Андрей Сергеевич": 164,
-      "Пономарев Геннадий Викторович": 34,
-      "Чижов Сергей Викторович": 321
+      "gas:candidate-vibid:4364013273300": 70,
+      "gas:candidate-vibid:4364013273638": 106,
+      "gas:candidate-vibid:4364013273534": 16,
+      "gas:candidate-vibid:4364013273005": 75,
+      "gas:candidate-vibid:4364013273451": 7,
+      "gas:candidate-vibid:4364013273330": 164,
+      "gas:candidate-vibid:4364013273602": 34,
+      "gas:candidate-vibid:4364013273379": 321
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000114&tvd=23620001147698&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147698&type=464",
@@ -3001,14 +3001,14 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверьянова Оксана Владимировна": 66,
-      "Измайлова Светлана Викторовна": 105,
-      "Кочетов Сергей Николаевич": 18,
-      "Овсянников Александр Александрович": 91,
-      "Осинин Кирилл Сергеевич": 16,
-      "Померанцев Андрей Сергеевич": 169,
-      "Пономарев Геннадий Викторович": 19,
-      "Чижов Сергей Викторович": 276
+      "gas:candidate-vibid:4364013273300": 66,
+      "gas:candidate-vibid:4364013273638": 105,
+      "gas:candidate-vibid:4364013273534": 18,
+      "gas:candidate-vibid:4364013273005": 91,
+      "gas:candidate-vibid:4364013273451": 16,
+      "gas:candidate-vibid:4364013273330": 169,
+      "gas:candidate-vibid:4364013273602": 19,
+      "gas:candidate-vibid:4364013273379": 276
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000114&tvd=23620001147698&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147698&type=464",
@@ -3059,14 +3059,14 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверьянова Оксана Владимировна": 77,
-      "Измайлова Светлана Викторовна": 145,
-      "Кочетов Сергей Николаевич": 18,
-      "Овсянников Александр Александрович": 92,
-      "Осинин Кирилл Сергеевич": 18,
-      "Померанцев Андрей Сергеевич": 169,
-      "Пономарев Геннадий Викторович": 20,
-      "Чижов Сергей Викторович": 423
+      "gas:candidate-vibid:4364013273300": 77,
+      "gas:candidate-vibid:4364013273638": 145,
+      "gas:candidate-vibid:4364013273534": 18,
+      "gas:candidate-vibid:4364013273005": 92,
+      "gas:candidate-vibid:4364013273451": 18,
+      "gas:candidate-vibid:4364013273330": 169,
+      "gas:candidate-vibid:4364013273602": 20,
+      "gas:candidate-vibid:4364013273379": 423
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000114&tvd=23620001147698&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147698&type=464",
@@ -3117,14 +3117,14 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверьянова Оксана Владимировна": 72,
-      "Измайлова Светлана Викторовна": 73,
-      "Кочетов Сергей Николаевич": 21,
-      "Овсянников Александр Александрович": 81,
-      "Осинин Кирилл Сергеевич": 15,
-      "Померанцев Андрей Сергеевич": 128,
-      "Пономарев Геннадий Викторович": 21,
-      "Чижов Сергей Викторович": 234
+      "gas:candidate-vibid:4364013273300": 72,
+      "gas:candidate-vibid:4364013273638": 73,
+      "gas:candidate-vibid:4364013273534": 21,
+      "gas:candidate-vibid:4364013273005": 81,
+      "gas:candidate-vibid:4364013273451": 15,
+      "gas:candidate-vibid:4364013273330": 128,
+      "gas:candidate-vibid:4364013273602": 21,
+      "gas:candidate-vibid:4364013273379": 234
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000114&tvd=23620001147698&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147698&type=464",
@@ -3175,14 +3175,14 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверьянова Оксана Владимировна": 48,
-      "Измайлова Светлана Викторовна": 53,
-      "Кочетов Сергей Николаевич": 12,
-      "Овсянников Александр Александрович": 65,
-      "Осинин Кирилл Сергеевич": 10,
-      "Померанцев Андрей Сергеевич": 97,
-      "Пономарев Геннадий Викторович": 17,
-      "Чижов Сергей Викторович": 175
+      "gas:candidate-vibid:4364013273300": 48,
+      "gas:candidate-vibid:4364013273638": 53,
+      "gas:candidate-vibid:4364013273534": 12,
+      "gas:candidate-vibid:4364013273005": 65,
+      "gas:candidate-vibid:4364013273451": 10,
+      "gas:candidate-vibid:4364013273330": 97,
+      "gas:candidate-vibid:4364013273602": 17,
+      "gas:candidate-vibid:4364013273379": 175
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000114&tvd=23620001147698&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147698&type=464",
@@ -3233,14 +3233,14 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверьянова Оксана Владимировна": 55,
-      "Измайлова Светлана Викторовна": 97,
-      "Кочетов Сергей Николаевич": 8,
-      "Овсянников Александр Александрович": 68,
-      "Осинин Кирилл Сергеевич": 15,
-      "Померанцев Андрей Сергеевич": 220,
-      "Пономарев Геннадий Викторович": 36,
-      "Чижов Сергей Викторович": 295
+      "gas:candidate-vibid:4364013273300": 55,
+      "gas:candidate-vibid:4364013273638": 97,
+      "gas:candidate-vibid:4364013273534": 8,
+      "gas:candidate-vibid:4364013273005": 68,
+      "gas:candidate-vibid:4364013273451": 15,
+      "gas:candidate-vibid:4364013273330": 220,
+      "gas:candidate-vibid:4364013273602": 36,
+      "gas:candidate-vibid:4364013273379": 295
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000114&tvd=23620001147698&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147698&type=464",
@@ -3291,14 +3291,14 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверьянова Оксана Владимировна": 59,
-      "Измайлова Светлана Викторовна": 87,
-      "Кочетов Сергей Николаевич": 9,
-      "Овсянников Александр Александрович": 62,
-      "Осинин Кирилл Сергеевич": 19,
-      "Померанцев Андрей Сергеевич": 145,
-      "Пономарев Геннадий Викторович": 30,
-      "Чижов Сергей Викторович": 219
+      "gas:candidate-vibid:4364013273300": 59,
+      "gas:candidate-vibid:4364013273638": 87,
+      "gas:candidate-vibid:4364013273534": 9,
+      "gas:candidate-vibid:4364013273005": 62,
+      "gas:candidate-vibid:4364013273451": 19,
+      "gas:candidate-vibid:4364013273330": 145,
+      "gas:candidate-vibid:4364013273602": 30,
+      "gas:candidate-vibid:4364013273379": 219
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000114&tvd=23620001147698&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147698&type=464",
@@ -3349,14 +3349,14 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверьянова Оксана Владимировна": 49,
-      "Измайлова Светлана Викторовна": 99,
-      "Кочетов Сергей Николаевич": 10,
-      "Овсянников Александр Александрович": 65,
-      "Осинин Кирилл Сергеевич": 19,
-      "Померанцев Андрей Сергеевич": 165,
-      "Пономарев Геннадий Викторович": 22,
-      "Чижов Сергей Викторович": 282
+      "gas:candidate-vibid:4364013273300": 49,
+      "gas:candidate-vibid:4364013273638": 99,
+      "gas:candidate-vibid:4364013273534": 10,
+      "gas:candidate-vibid:4364013273005": 65,
+      "gas:candidate-vibid:4364013273451": 19,
+      "gas:candidate-vibid:4364013273330": 165,
+      "gas:candidate-vibid:4364013273602": 22,
+      "gas:candidate-vibid:4364013273379": 282
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000114&tvd=23620001147698&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147698&type=464",
@@ -3407,14 +3407,14 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверьянова Оксана Владимировна": 41,
-      "Измайлова Светлана Викторовна": 78,
-      "Кочетов Сергей Николаевич": 13,
-      "Овсянников Александр Александрович": 54,
-      "Осинин Кирилл Сергеевич": 12,
-      "Померанцев Андрей Сергеевич": 134,
-      "Пономарев Геннадий Викторович": 46,
-      "Чижов Сергей Викторович": 173
+      "gas:candidate-vibid:4364013273300": 41,
+      "gas:candidate-vibid:4364013273638": 78,
+      "gas:candidate-vibid:4364013273534": 13,
+      "gas:candidate-vibid:4364013273005": 54,
+      "gas:candidate-vibid:4364013273451": 12,
+      "gas:candidate-vibid:4364013273330": 134,
+      "gas:candidate-vibid:4364013273602": 46,
+      "gas:candidate-vibid:4364013273379": 173
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000114&tvd=23620001147698&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147698&type=464",
@@ -3465,14 +3465,14 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверьянова Оксана Владимировна": 53,
-      "Измайлова Светлана Викторовна": 108,
-      "Кочетов Сергей Николаевич": 17,
-      "Овсянников Александр Александрович": 79,
-      "Осинин Кирилл Сергеевич": 12,
-      "Померанцев Андрей Сергеевич": 153,
-      "Пономарев Геннадий Викторович": 29,
-      "Чижов Сергей Викторович": 273
+      "gas:candidate-vibid:4364013273300": 53,
+      "gas:candidate-vibid:4364013273638": 108,
+      "gas:candidate-vibid:4364013273534": 17,
+      "gas:candidate-vibid:4364013273005": 79,
+      "gas:candidate-vibid:4364013273451": 12,
+      "gas:candidate-vibid:4364013273330": 153,
+      "gas:candidate-vibid:4364013273602": 29,
+      "gas:candidate-vibid:4364013273379": 273
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000114&tvd=23620001147698&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147698&type=464",
@@ -3523,14 +3523,14 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверьянова Оксана Владимировна": 52,
-      "Измайлова Светлана Викторовна": 55,
-      "Кочетов Сергей Николаевич": 9,
-      "Овсянников Александр Александрович": 54,
-      "Осинин Кирилл Сергеевич": 14,
-      "Померанцев Андрей Сергеевич": 124,
-      "Пономарев Геннадий Викторович": 29,
-      "Чижов Сергей Викторович": 190
+      "gas:candidate-vibid:4364013273300": 52,
+      "gas:candidate-vibid:4364013273638": 55,
+      "gas:candidate-vibid:4364013273534": 9,
+      "gas:candidate-vibid:4364013273005": 54,
+      "gas:candidate-vibid:4364013273451": 14,
+      "gas:candidate-vibid:4364013273330": 124,
+      "gas:candidate-vibid:4364013273602": 29,
+      "gas:candidate-vibid:4364013273379": 190
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000114&tvd=23620001147698&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147698&type=464",
@@ -3581,14 +3581,14 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверьянова Оксана Владимировна": 36,
-      "Измайлова Светлана Викторовна": 34,
-      "Кочетов Сергей Николаевич": 16,
-      "Овсянников Александр Александрович": 39,
-      "Осинин Кирилл Сергеевич": 7,
-      "Померанцев Андрей Сергеевич": 120,
-      "Пономарев Геннадий Викторович": 20,
-      "Чижов Сергей Викторович": 178
+      "gas:candidate-vibid:4364013273300": 36,
+      "gas:candidate-vibid:4364013273638": 34,
+      "gas:candidate-vibid:4364013273534": 16,
+      "gas:candidate-vibid:4364013273005": 39,
+      "gas:candidate-vibid:4364013273451": 7,
+      "gas:candidate-vibid:4364013273330": 120,
+      "gas:candidate-vibid:4364013273602": 20,
+      "gas:candidate-vibid:4364013273379": 178
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000114&tvd=23620001147698&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147698&type=464",
@@ -3639,14 +3639,14 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверьянова Оксана Владимировна": 72,
-      "Измайлова Светлана Викторовна": 71,
-      "Кочетов Сергей Николаевич": 17,
-      "Овсянников Александр Александрович": 67,
-      "Осинин Кирилл Сергеевич": 17,
-      "Померанцев Андрей Сергеевич": 200,
-      "Пономарев Геннадий Викторович": 43,
-      "Чижов Сергей Викторович": 231
+      "gas:candidate-vibid:4364013273300": 72,
+      "gas:candidate-vibid:4364013273638": 71,
+      "gas:candidate-vibid:4364013273534": 17,
+      "gas:candidate-vibid:4364013273005": 67,
+      "gas:candidate-vibid:4364013273451": 17,
+      "gas:candidate-vibid:4364013273330": 200,
+      "gas:candidate-vibid:4364013273602": 43,
+      "gas:candidate-vibid:4364013273379": 231
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000114&tvd=23620001147698&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147698&type=464",
@@ -3697,14 +3697,14 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверьянова Оксана Владимировна": 67,
-      "Измайлова Светлана Викторовна": 165,
-      "Кочетов Сергей Николаевич": 14,
-      "Овсянников Александр Александрович": 84,
-      "Осинин Кирилл Сергеевич": 31,
-      "Померанцев Андрей Сергеевич": 167,
-      "Пономарев Геннадий Викторович": 44,
-      "Чижов Сергей Викторович": 348
+      "gas:candidate-vibid:4364013273300": 67,
+      "gas:candidate-vibid:4364013273638": 165,
+      "gas:candidate-vibid:4364013273534": 14,
+      "gas:candidate-vibid:4364013273005": 84,
+      "gas:candidate-vibid:4364013273451": 31,
+      "gas:candidate-vibid:4364013273330": 167,
+      "gas:candidate-vibid:4364013273602": 44,
+      "gas:candidate-vibid:4364013273379": 348
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000114&tvd=23620001147698&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147698&type=464",
@@ -3755,14 +3755,14 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверьянова Оксана Владимировна": 55,
-      "Измайлова Светлана Викторовна": 82,
-      "Кочетов Сергей Николаевич": 16,
-      "Овсянников Александр Александрович": 66,
-      "Осинин Кирилл Сергеевич": 20,
-      "Померанцев Андрей Сергеевич": 141,
-      "Пономарев Геннадий Викторович": 24,
-      "Чижов Сергей Викторович": 245
+      "gas:candidate-vibid:4364013273300": 55,
+      "gas:candidate-vibid:4364013273638": 82,
+      "gas:candidate-vibid:4364013273534": 16,
+      "gas:candidate-vibid:4364013273005": 66,
+      "gas:candidate-vibid:4364013273451": 20,
+      "gas:candidate-vibid:4364013273330": 141,
+      "gas:candidate-vibid:4364013273602": 24,
+      "gas:candidate-vibid:4364013273379": 245
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000114&tvd=23620001147698&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147698&type=464",
@@ -3813,14 +3813,14 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверьянова Оксана Владимировна": 5,
-      "Измайлова Светлана Викторовна": 1,
-      "Кочетов Сергей Николаевич": 5,
-      "Овсянников Александр Александрович": 3,
-      "Осинин Кирилл Сергеевич": 2,
-      "Померанцев Андрей Сергеевич": 5,
-      "Пономарев Геннадий Викторович": 0,
-      "Чижов Сергей Викторович": 38
+      "gas:candidate-vibid:4364013273300": 5,
+      "gas:candidate-vibid:4364013273638": 1,
+      "gas:candidate-vibid:4364013273534": 5,
+      "gas:candidate-vibid:4364013273005": 3,
+      "gas:candidate-vibid:4364013273451": 2,
+      "gas:candidate-vibid:4364013273330": 5,
+      "gas:candidate-vibid:4364013273602": 0,
+      "gas:candidate-vibid:4364013273379": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000114&tvd=23620001147698&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147698&type=464",
@@ -3871,14 +3871,14 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверьянова Оксана Владимировна": 4,
-      "Измайлова Светлана Викторовна": 6,
-      "Кочетов Сергей Николаевич": 0,
-      "Овсянников Александр Александрович": 0,
-      "Осинин Кирилл Сергеевич": 0,
-      "Померанцев Андрей Сергеевич": 5,
-      "Пономарев Геннадий Викторович": 1,
-      "Чижов Сергей Викторович": 23
+      "gas:candidate-vibid:4364013273300": 4,
+      "gas:candidate-vibid:4364013273638": 6,
+      "gas:candidate-vibid:4364013273534": 0,
+      "gas:candidate-vibid:4364013273005": 0,
+      "gas:candidate-vibid:4364013273451": 0,
+      "gas:candidate-vibid:4364013273330": 5,
+      "gas:candidate-vibid:4364013273602": 1,
+      "gas:candidate-vibid:4364013273379": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000114&tvd=23620001147698&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147698&type=464",
@@ -3929,14 +3929,14 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверьянова Оксана Владимировна": 49,
-      "Измайлова Светлана Викторовна": 95,
-      "Кочетов Сергей Николаевич": 17,
-      "Овсянников Александр Александрович": 70,
-      "Осинин Кирилл Сергеевич": 23,
-      "Померанцев Андрей Сергеевич": 184,
-      "Пономарев Геннадий Викторович": 26,
-      "Чижов Сергей Викторович": 289
+      "gas:candidate-vibid:4364013273300": 49,
+      "gas:candidate-vibid:4364013273638": 95,
+      "gas:candidate-vibid:4364013273534": 17,
+      "gas:candidate-vibid:4364013273005": 70,
+      "gas:candidate-vibid:4364013273451": 23,
+      "gas:candidate-vibid:4364013273330": 184,
+      "gas:candidate-vibid:4364013273602": 26,
+      "gas:candidate-vibid:4364013273379": 289
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000114&tvd=23620001147698&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147698&type=464",
@@ -3987,14 +3987,14 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверьянова Оксана Владимировна": 0,
-      "Измайлова Светлана Викторовна": 3,
-      "Кочетов Сергей Николаевич": 1,
-      "Овсянников Александр Александрович": 0,
-      "Осинин Кирилл Сергеевич": 5,
-      "Померанцев Андрей Сергеевич": 5,
-      "Пономарев Геннадий Викторович": 0,
-      "Чижов Сергей Викторович": 21
+      "gas:candidate-vibid:4364013273300": 0,
+      "gas:candidate-vibid:4364013273638": 3,
+      "gas:candidate-vibid:4364013273534": 1,
+      "gas:candidate-vibid:4364013273005": 0,
+      "gas:candidate-vibid:4364013273451": 5,
+      "gas:candidate-vibid:4364013273330": 5,
+      "gas:candidate-vibid:4364013273602": 0,
+      "gas:candidate-vibid:4364013273379": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000114&tvd=23620001147698&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147698&type=464",
@@ -4045,14 +4045,14 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверьянова Оксана Владимировна": 41,
-      "Измайлова Светлана Викторовна": 115,
-      "Кочетов Сергей Николаевич": 14,
-      "Овсянников Александр Александрович": 86,
-      "Осинин Кирилл Сергеевич": 20,
-      "Померанцев Андрей Сергеевич": 167,
-      "Пономарев Геннадий Викторович": 39,
-      "Чижов Сергей Викторович": 214
+      "gas:candidate-vibid:4364013273300": 41,
+      "gas:candidate-vibid:4364013273638": 115,
+      "gas:candidate-vibid:4364013273534": 14,
+      "gas:candidate-vibid:4364013273005": 86,
+      "gas:candidate-vibid:4364013273451": 20,
+      "gas:candidate-vibid:4364013273330": 167,
+      "gas:candidate-vibid:4364013273602": 39,
+      "gas:candidate-vibid:4364013273379": 214
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000114&tvd=23620001147698&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147698&type=464",
@@ -4103,14 +4103,14 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверьянова Оксана Владимировна": 64,
-      "Измайлова Светлана Викторовна": 79,
-      "Кочетов Сергей Николаевич": 14,
-      "Овсянников Александр Александрович": 87,
-      "Осинин Кирилл Сергеевич": 20,
-      "Померанцев Андрей Сергеевич": 148,
-      "Пономарев Геннадий Викторович": 27,
-      "Чижов Сергей Викторович": 225
+      "gas:candidate-vibid:4364013273300": 64,
+      "gas:candidate-vibid:4364013273638": 79,
+      "gas:candidate-vibid:4364013273534": 14,
+      "gas:candidate-vibid:4364013273005": 87,
+      "gas:candidate-vibid:4364013273451": 20,
+      "gas:candidate-vibid:4364013273330": 148,
+      "gas:candidate-vibid:4364013273602": 27,
+      "gas:candidate-vibid:4364013273379": 225
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000114&tvd=23620001147698&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147698&type=464",
@@ -4161,14 +4161,14 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверьянова Оксана Владимировна": 38,
-      "Измайлова Светлана Викторовна": 97,
-      "Кочетов Сергей Николаевич": 11,
-      "Овсянников Александр Александрович": 49,
-      "Осинин Кирилл Сергеевич": 15,
-      "Померанцев Андрей Сергеевич": 167,
-      "Пономарев Геннадий Викторович": 38,
-      "Чижов Сергей Викторович": 253
+      "gas:candidate-vibid:4364013273300": 38,
+      "gas:candidate-vibid:4364013273638": 97,
+      "gas:candidate-vibid:4364013273534": 11,
+      "gas:candidate-vibid:4364013273005": 49,
+      "gas:candidate-vibid:4364013273451": 15,
+      "gas:candidate-vibid:4364013273330": 167,
+      "gas:candidate-vibid:4364013273602": 38,
+      "gas:candidate-vibid:4364013273379": 253
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000114&tvd=23620001147698&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147698&type=464",
@@ -4219,14 +4219,14 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверьянова Оксана Владимировна": 41,
-      "Измайлова Светлана Викторовна": 91,
-      "Кочетов Сергей Николаевич": 19,
-      "Овсянников Александр Александрович": 54,
-      "Осинин Кирилл Сергеевич": 14,
-      "Померанцев Андрей Сергеевич": 156,
-      "Пономарев Геннадий Викторович": 28,
-      "Чижов Сергей Викторович": 181
+      "gas:candidate-vibid:4364013273300": 41,
+      "gas:candidate-vibid:4364013273638": 91,
+      "gas:candidate-vibid:4364013273534": 19,
+      "gas:candidate-vibid:4364013273005": 54,
+      "gas:candidate-vibid:4364013273451": 14,
+      "gas:candidate-vibid:4364013273330": 156,
+      "gas:candidate-vibid:4364013273602": 28,
+      "gas:candidate-vibid:4364013273379": 181
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000114&tvd=23620001147698&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147698&type=464",
@@ -4277,14 +4277,14 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверьянова Оксана Владимировна": 36,
-      "Измайлова Светлана Викторовна": 86,
-      "Кочетов Сергей Николаевич": 11,
-      "Овсянников Александр Александрович": 37,
-      "Осинин Кирилл Сергеевич": 8,
-      "Померанцев Андрей Сергеевич": 158,
-      "Пономарев Геннадий Викторович": 42,
-      "Чижов Сергей Викторович": 196
+      "gas:candidate-vibid:4364013273300": 36,
+      "gas:candidate-vibid:4364013273638": 86,
+      "gas:candidate-vibid:4364013273534": 11,
+      "gas:candidate-vibid:4364013273005": 37,
+      "gas:candidate-vibid:4364013273451": 8,
+      "gas:candidate-vibid:4364013273330": 158,
+      "gas:candidate-vibid:4364013273602": 42,
+      "gas:candidate-vibid:4364013273379": 196
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000114&tvd=23620001147698&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147698&type=464",
@@ -4335,14 +4335,14 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверьянова Оксана Владимировна": 60,
-      "Измайлова Светлана Викторовна": 65,
-      "Кочетов Сергей Николаевич": 13,
-      "Овсянников Александр Александрович": 48,
-      "Осинин Кирилл Сергеевич": 19,
-      "Померанцев Андрей Сергеевич": 127,
-      "Пономарев Геннадий Викторович": 25,
-      "Чижов Сергей Викторович": 184
+      "gas:candidate-vibid:4364013273300": 60,
+      "gas:candidate-vibid:4364013273638": 65,
+      "gas:candidate-vibid:4364013273534": 13,
+      "gas:candidate-vibid:4364013273005": 48,
+      "gas:candidate-vibid:4364013273451": 19,
+      "gas:candidate-vibid:4364013273330": 127,
+      "gas:candidate-vibid:4364013273602": 25,
+      "gas:candidate-vibid:4364013273379": 184
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000114&tvd=23620001147698&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147698&type=464",
@@ -4393,14 +4393,14 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверьянова Оксана Владимировна": 38,
-      "Измайлова Светлана Викторовна": 115,
-      "Кочетов Сергей Николаевич": 17,
-      "Овсянников Александр Александрович": 73,
-      "Осинин Кирилл Сергеевич": 14,
-      "Померанцев Андрей Сергеевич": 174,
-      "Пономарев Геннадий Викторович": 36,
-      "Чижов Сергей Викторович": 293
+      "gas:candidate-vibid:4364013273300": 38,
+      "gas:candidate-vibid:4364013273638": 115,
+      "gas:candidate-vibid:4364013273534": 17,
+      "gas:candidate-vibid:4364013273005": 73,
+      "gas:candidate-vibid:4364013273451": 14,
+      "gas:candidate-vibid:4364013273330": 174,
+      "gas:candidate-vibid:4364013273602": 36,
+      "gas:candidate-vibid:4364013273379": 293
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000114&tvd=23620001147698&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147698&type=464",
@@ -4451,14 +4451,14 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверьянова Оксана Владимировна": 52,
-      "Измайлова Светлана Викторовна": 121,
-      "Кочетов Сергей Николаевич": 7,
-      "Овсянников Александр Александрович": 73,
-      "Осинин Кирилл Сергеевич": 24,
-      "Померанцев Андрей Сергеевич": 163,
-      "Пономарев Геннадий Викторович": 21,
-      "Чижов Сергей Викторович": 251
+      "gas:candidate-vibid:4364013273300": 52,
+      "gas:candidate-vibid:4364013273638": 121,
+      "gas:candidate-vibid:4364013273534": 7,
+      "gas:candidate-vibid:4364013273005": 73,
+      "gas:candidate-vibid:4364013273451": 24,
+      "gas:candidate-vibid:4364013273330": 163,
+      "gas:candidate-vibid:4364013273602": 21,
+      "gas:candidate-vibid:4364013273379": 251
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000114&tvd=23620001147698&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147698&type=464",
@@ -4509,14 +4509,14 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверьянова Оксана Владимировна": 68,
-      "Измайлова Светлана Викторовна": 86,
-      "Кочетов Сергей Николаевич": 17,
-      "Овсянников Александр Александрович": 50,
-      "Осинин Кирилл Сергеевич": 16,
-      "Померанцев Андрей Сергеевич": 180,
-      "Пономарев Геннадий Викторович": 27,
-      "Чижов Сергей Викторович": 263
+      "gas:candidate-vibid:4364013273300": 68,
+      "gas:candidate-vibid:4364013273638": 86,
+      "gas:candidate-vibid:4364013273534": 17,
+      "gas:candidate-vibid:4364013273005": 50,
+      "gas:candidate-vibid:4364013273451": 16,
+      "gas:candidate-vibid:4364013273330": 180,
+      "gas:candidate-vibid:4364013273602": 27,
+      "gas:candidate-vibid:4364013273379": 263
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000114&tvd=23620001147698&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147698&type=464",
@@ -4567,14 +4567,14 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверьянова Оксана Владимировна": 43,
-      "Измайлова Светлана Викторовна": 72,
-      "Кочетов Сергей Николаевич": 12,
-      "Овсянников Александр Александрович": 59,
-      "Осинин Кирилл Сергеевич": 17,
-      "Померанцев Андрей Сергеевич": 123,
-      "Пономарев Геннадий Викторович": 27,
-      "Чижов Сергей Викторович": 209
+      "gas:candidate-vibid:4364013273300": 43,
+      "gas:candidate-vibid:4364013273638": 72,
+      "gas:candidate-vibid:4364013273534": 12,
+      "gas:candidate-vibid:4364013273005": 59,
+      "gas:candidate-vibid:4364013273451": 17,
+      "gas:candidate-vibid:4364013273330": 123,
+      "gas:candidate-vibid:4364013273602": 27,
+      "gas:candidate-vibid:4364013273379": 209
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000114&tvd=23620001147698&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147698&type=464",
@@ -4625,14 +4625,14 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверьянова Оксана Владимировна": 50,
-      "Измайлова Светлана Викторовна": 109,
-      "Кочетов Сергей Николаевич": 10,
-      "Овсянников Александр Александрович": 56,
-      "Осинин Кирилл Сергеевич": 21,
-      "Померанцев Андрей Сергеевич": 197,
-      "Пономарев Геннадий Викторович": 30,
-      "Чижов Сергей Викторович": 242
+      "gas:candidate-vibid:4364013273300": 50,
+      "gas:candidate-vibid:4364013273638": 109,
+      "gas:candidate-vibid:4364013273534": 10,
+      "gas:candidate-vibid:4364013273005": 56,
+      "gas:candidate-vibid:4364013273451": 21,
+      "gas:candidate-vibid:4364013273330": 197,
+      "gas:candidate-vibid:4364013273602": 30,
+      "gas:candidate-vibid:4364013273379": 242
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000114&tvd=23620001147698&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147698&type=464",
@@ -4683,14 +4683,14 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверьянова Оксана Владимировна": 37,
-      "Измайлова Светлана Викторовна": 64,
-      "Кочетов Сергей Николаевич": 18,
-      "Овсянников Александр Александрович": 64,
-      "Осинин Кирилл Сергеевич": 10,
-      "Померанцев Андрей Сергеевич": 112,
-      "Пономарев Геннадий Викторович": 23,
-      "Чижов Сергей Викторович": 221
+      "gas:candidate-vibid:4364013273300": 37,
+      "gas:candidate-vibid:4364013273638": 64,
+      "gas:candidate-vibid:4364013273534": 18,
+      "gas:candidate-vibid:4364013273005": 64,
+      "gas:candidate-vibid:4364013273451": 10,
+      "gas:candidate-vibid:4364013273330": 112,
+      "gas:candidate-vibid:4364013273602": 23,
+      "gas:candidate-vibid:4364013273379": 221
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000114&tvd=23620001147698&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147698&type=464",
@@ -4741,14 +4741,14 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверьянова Оксана Владимировна": 51,
-      "Измайлова Светлана Викторовна": 98,
-      "Кочетов Сергей Николаевич": 16,
-      "Овсянников Александр Александрович": 75,
-      "Осинин Кирилл Сергеевич": 17,
-      "Померанцев Андрей Сергеевич": 206,
-      "Пономарев Геннадий Викторович": 37,
-      "Чижов Сергей Викторович": 219
+      "gas:candidate-vibid:4364013273300": 51,
+      "gas:candidate-vibid:4364013273638": 98,
+      "gas:candidate-vibid:4364013273534": 16,
+      "gas:candidate-vibid:4364013273005": 75,
+      "gas:candidate-vibid:4364013273451": 17,
+      "gas:candidate-vibid:4364013273330": 206,
+      "gas:candidate-vibid:4364013273602": 37,
+      "gas:candidate-vibid:4364013273379": 219
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000114&tvd=23620001147698&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147698&type=464",
@@ -4799,14 +4799,14 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверьянова Оксана Владимировна": 48,
-      "Измайлова Светлана Викторовна": 99,
-      "Кочетов Сергей Николаевич": 8,
-      "Овсянников Александр Александрович": 54,
-      "Осинин Кирилл Сергеевич": 23,
-      "Померанцев Андрей Сергеевич": 165,
-      "Пономарев Геннадий Викторович": 23,
-      "Чижов Сергей Викторович": 220
+      "gas:candidate-vibid:4364013273300": 48,
+      "gas:candidate-vibid:4364013273638": 99,
+      "gas:candidate-vibid:4364013273534": 8,
+      "gas:candidate-vibid:4364013273005": 54,
+      "gas:candidate-vibid:4364013273451": 23,
+      "gas:candidate-vibid:4364013273330": 165,
+      "gas:candidate-vibid:4364013273602": 23,
+      "gas:candidate-vibid:4364013273379": 220
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000114&tvd=23620001147698&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147698&type=464",
@@ -4857,14 +4857,14 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверьянова Оксана Владимировна": 46,
-      "Измайлова Светлана Викторовна": 108,
-      "Кочетов Сергей Николаевич": 17,
-      "Овсянников Александр Александрович": 79,
-      "Осинин Кирилл Сергеевич": 13,
-      "Померанцев Андрей Сергеевич": 205,
-      "Пономарев Геннадий Викторович": 36,
-      "Чижов Сергей Викторович": 277
+      "gas:candidate-vibid:4364013273300": 46,
+      "gas:candidate-vibid:4364013273638": 108,
+      "gas:candidate-vibid:4364013273534": 17,
+      "gas:candidate-vibid:4364013273005": 79,
+      "gas:candidate-vibid:4364013273451": 13,
+      "gas:candidate-vibid:4364013273330": 205,
+      "gas:candidate-vibid:4364013273602": 36,
+      "gas:candidate-vibid:4364013273379": 277
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000114&tvd=23620001147698&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147698&type=464",
@@ -4915,14 +4915,14 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверьянова Оксана Владимировна": 25,
-      "Измайлова Светлана Викторовна": 40,
-      "Кочетов Сергей Николаевич": 7,
-      "Овсянников Александр Александрович": 24,
-      "Осинин Кирилл Сергеевич": 7,
-      "Померанцев Андрей Сергеевич": 51,
-      "Пономарев Геннадий Викторович": 7,
-      "Чижов Сергей Викторович": 97
+      "gas:candidate-vibid:4364013273300": 25,
+      "gas:candidate-vibid:4364013273638": 40,
+      "gas:candidate-vibid:4364013273534": 7,
+      "gas:candidate-vibid:4364013273005": 24,
+      "gas:candidate-vibid:4364013273451": 7,
+      "gas:candidate-vibid:4364013273330": 51,
+      "gas:candidate-vibid:4364013273602": 7,
+      "gas:candidate-vibid:4364013273379": 97
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000114&tvd=23620001147698&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147698&type=464",
@@ -4973,14 +4973,14 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверьянова Оксана Владимировна": 60,
-      "Измайлова Светлана Викторовна": 140,
-      "Кочетов Сергей Николаевич": 15,
-      "Овсянников Александр Александрович": 75,
-      "Осинин Кирилл Сергеевич": 18,
-      "Померанцев Андрей Сергеевич": 214,
-      "Пономарев Геннадий Викторович": 40,
-      "Чижов Сергей Викторович": 372
+      "gas:candidate-vibid:4364013273300": 60,
+      "gas:candidate-vibid:4364013273638": 140,
+      "gas:candidate-vibid:4364013273534": 15,
+      "gas:candidate-vibid:4364013273005": 75,
+      "gas:candidate-vibid:4364013273451": 18,
+      "gas:candidate-vibid:4364013273330": 214,
+      "gas:candidate-vibid:4364013273602": 40,
+      "gas:candidate-vibid:4364013273379": 372
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000114&tvd=23620001147698&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147698&type=464",
@@ -5031,14 +5031,14 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверьянова Оксана Владимировна": 50,
-      "Измайлова Светлана Викторовна": 120,
-      "Кочетов Сергей Николаевич": 17,
-      "Овсянников Александр Александрович": 80,
-      "Осинин Кирилл Сергеевич": 21,
-      "Померанцев Андрей Сергеевич": 232,
-      "Пономарев Геннадий Викторович": 53,
-      "Чижов Сергей Викторович": 276
+      "gas:candidate-vibid:4364013273300": 50,
+      "gas:candidate-vibid:4364013273638": 120,
+      "gas:candidate-vibid:4364013273534": 17,
+      "gas:candidate-vibid:4364013273005": 80,
+      "gas:candidate-vibid:4364013273451": 21,
+      "gas:candidate-vibid:4364013273330": 232,
+      "gas:candidate-vibid:4364013273602": 53,
+      "gas:candidate-vibid:4364013273379": 276
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000114&tvd=23620001147698&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147698&type=464",
@@ -5089,14 +5089,14 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверьянова Оксана Владимировна": 60,
-      "Измайлова Светлана Викторовна": 93,
-      "Кочетов Сергей Николаевич": 17,
-      "Овсянников Александр Александрович": 64,
-      "Осинин Кирилл Сергеевич": 10,
-      "Померанцев Андрей Сергеевич": 150,
-      "Пономарев Геннадий Викторович": 31,
-      "Чижов Сергей Викторович": 206
+      "gas:candidate-vibid:4364013273300": 60,
+      "gas:candidate-vibid:4364013273638": 93,
+      "gas:candidate-vibid:4364013273534": 17,
+      "gas:candidate-vibid:4364013273005": 64,
+      "gas:candidate-vibid:4364013273451": 10,
+      "gas:candidate-vibid:4364013273330": 150,
+      "gas:candidate-vibid:4364013273602": 31,
+      "gas:candidate-vibid:4364013273379": 206
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000114&tvd=23620001147698&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147698&type=464",
@@ -5147,14 +5147,14 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверьянова Оксана Владимировна": 20,
-      "Измайлова Светлана Викторовна": 17,
-      "Кочетов Сергей Николаевич": 4,
-      "Овсянников Александр Александрович": 16,
-      "Осинин Кирилл Сергеевич": 2,
-      "Померанцев Андрей Сергеевич": 12,
-      "Пономарев Геннадий Викторович": 4,
-      "Чижов Сергей Викторович": 85
+      "gas:candidate-vibid:4364013273300": 20,
+      "gas:candidate-vibid:4364013273638": 17,
+      "gas:candidate-vibid:4364013273534": 4,
+      "gas:candidate-vibid:4364013273005": 16,
+      "gas:candidate-vibid:4364013273451": 2,
+      "gas:candidate-vibid:4364013273330": 12,
+      "gas:candidate-vibid:4364013273602": 4,
+      "gas:candidate-vibid:4364013273379": 85
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000114&tvd=23620001147698&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147698&type=464",
@@ -5205,14 +5205,14 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверьянова Оксана Владимировна": 12,
-      "Измайлова Светлана Викторовна": 7,
-      "Кочетов Сергей Николаевич": 4,
-      "Овсянников Александр Александрович": 14,
-      "Осинин Кирилл Сергеевич": 2,
-      "Померанцев Андрей Сергеевич": 22,
-      "Пономарев Геннадий Викторович": 6,
-      "Чижов Сергей Викторович": 60
+      "gas:candidate-vibid:4364013273300": 12,
+      "gas:candidate-vibid:4364013273638": 7,
+      "gas:candidate-vibid:4364013273534": 4,
+      "gas:candidate-vibid:4364013273005": 14,
+      "gas:candidate-vibid:4364013273451": 2,
+      "gas:candidate-vibid:4364013273330": 22,
+      "gas:candidate-vibid:4364013273602": 6,
+      "gas:candidate-vibid:4364013273379": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000114&tvd=23620001147698&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147698&type=464",
@@ -5263,14 +5263,14 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверьянова Оксана Владимировна": 12,
-      "Измайлова Светлана Викторовна": 20,
-      "Кочетов Сергей Николаевич": 1,
-      "Овсянников Александр Александрович": 12,
-      "Осинин Кирилл Сергеевич": 3,
-      "Померанцев Андрей Сергеевич": 19,
-      "Пономарев Геннадий Викторович": 10,
-      "Чижов Сергей Викторович": 63
+      "gas:candidate-vibid:4364013273300": 12,
+      "gas:candidate-vibid:4364013273638": 20,
+      "gas:candidate-vibid:4364013273534": 1,
+      "gas:candidate-vibid:4364013273005": 12,
+      "gas:candidate-vibid:4364013273451": 3,
+      "gas:candidate-vibid:4364013273330": 19,
+      "gas:candidate-vibid:4364013273602": 10,
+      "gas:candidate-vibid:4364013273379": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000114&tvd=23620001147698&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147698&type=464",
@@ -5321,14 +5321,14 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверьянова Оксана Владимировна": 47,
-      "Измайлова Светлана Викторовна": 108,
-      "Кочетов Сергей Николаевич": 17,
-      "Овсянников Александр Александрович": 49,
-      "Осинин Кирилл Сергеевич": 18,
-      "Померанцев Андрей Сергеевич": 142,
-      "Пономарев Геннадий Викторович": 27,
-      "Чижов Сергей Викторович": 233
+      "gas:candidate-vibid:4364013273300": 47,
+      "gas:candidate-vibid:4364013273638": 108,
+      "gas:candidate-vibid:4364013273534": 17,
+      "gas:candidate-vibid:4364013273005": 49,
+      "gas:candidate-vibid:4364013273451": 18,
+      "gas:candidate-vibid:4364013273330": 142,
+      "gas:candidate-vibid:4364013273602": 27,
+      "gas:candidate-vibid:4364013273379": 233
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000114&tvd=23620001147698&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147698&type=464",
@@ -5379,14 +5379,14 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверьянова Оксана Владимировна": 54,
-      "Измайлова Светлана Викторовна": 91,
-      "Кочетов Сергей Николаевич": 13,
-      "Овсянников Александр Александрович": 43,
-      "Осинин Кирилл Сергеевич": 13,
-      "Померанцев Андрей Сергеевич": 136,
-      "Пономарев Геннадий Викторович": 36,
-      "Чижов Сергей Викторович": 208
+      "gas:candidate-vibid:4364013273300": 54,
+      "gas:candidate-vibid:4364013273638": 91,
+      "gas:candidate-vibid:4364013273534": 13,
+      "gas:candidate-vibid:4364013273005": 43,
+      "gas:candidate-vibid:4364013273451": 13,
+      "gas:candidate-vibid:4364013273330": 136,
+      "gas:candidate-vibid:4364013273602": 36,
+      "gas:candidate-vibid:4364013273379": 208
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000114&tvd=23620001147698&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147698&type=464",
@@ -5437,14 +5437,14 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверьянова Оксана Владимировна": 44,
-      "Измайлова Светлана Викторовна": 106,
-      "Кочетов Сергей Николаевич": 13,
-      "Овсянников Александр Александрович": 56,
-      "Осинин Кирилл Сергеевич": 5,
-      "Померанцев Андрей Сергеевич": 135,
-      "Пономарев Геннадий Викторович": 18,
-      "Чижов Сергей Викторович": 237
+      "gas:candidate-vibid:4364013273300": 44,
+      "gas:candidate-vibid:4364013273638": 106,
+      "gas:candidate-vibid:4364013273534": 13,
+      "gas:candidate-vibid:4364013273005": 56,
+      "gas:candidate-vibid:4364013273451": 5,
+      "gas:candidate-vibid:4364013273330": 135,
+      "gas:candidate-vibid:4364013273602": 18,
+      "gas:candidate-vibid:4364013273379": 237
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000114&tvd=23620001147698&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147698&type=464",
@@ -5495,14 +5495,14 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверьянова Оксана Владимировна": 43,
-      "Измайлова Светлана Викторовна": 90,
-      "Кочетов Сергей Николаевич": 8,
-      "Овсянников Александр Александрович": 58,
-      "Осинин Кирилл Сергеевич": 26,
-      "Померанцев Андрей Сергеевич": 153,
-      "Пономарев Геннадий Викторович": 38,
-      "Чижов Сергей Викторович": 258
+      "gas:candidate-vibid:4364013273300": 43,
+      "gas:candidate-vibid:4364013273638": 90,
+      "gas:candidate-vibid:4364013273534": 8,
+      "gas:candidate-vibid:4364013273005": 58,
+      "gas:candidate-vibid:4364013273451": 26,
+      "gas:candidate-vibid:4364013273330": 153,
+      "gas:candidate-vibid:4364013273602": 38,
+      "gas:candidate-vibid:4364013273379": 258
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000114&tvd=23620001147698&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147698&type=464",
@@ -5553,14 +5553,14 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверьянова Оксана Владимировна": 17,
-      "Измайлова Светлана Викторовна": 33,
-      "Кочетов Сергей Николаевич": 4,
-      "Овсянников Александр Александрович": 24,
-      "Осинин Кирилл Сергеевич": 5,
-      "Померанцев Андрей Сергеевич": 63,
-      "Пономарев Геннадий Викторович": 17,
-      "Чижов Сергей Викторович": 122
+      "gas:candidate-vibid:4364013273300": 17,
+      "gas:candidate-vibid:4364013273638": 33,
+      "gas:candidate-vibid:4364013273534": 4,
+      "gas:candidate-vibid:4364013273005": 24,
+      "gas:candidate-vibid:4364013273451": 5,
+      "gas:candidate-vibid:4364013273330": 63,
+      "gas:candidate-vibid:4364013273602": 17,
+      "gas:candidate-vibid:4364013273379": 122
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000114&tvd=23620001147698&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147698&type=464",
@@ -5611,14 +5611,14 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверьянова Оксана Владимировна": 45,
-      "Измайлова Светлана Викторовна": 90,
-      "Кочетов Сергей Николаевич": 16,
-      "Овсянников Александр Александрович": 62,
-      "Осинин Кирилл Сергеевич": 15,
-      "Померанцев Андрей Сергеевич": 177,
-      "Пономарев Геннадий Викторович": 25,
-      "Чижов Сергей Викторович": 292
+      "gas:candidate-vibid:4364013273300": 45,
+      "gas:candidate-vibid:4364013273638": 90,
+      "gas:candidate-vibid:4364013273534": 16,
+      "gas:candidate-vibid:4364013273005": 62,
+      "gas:candidate-vibid:4364013273451": 15,
+      "gas:candidate-vibid:4364013273330": 177,
+      "gas:candidate-vibid:4364013273602": 25,
+      "gas:candidate-vibid:4364013273379": 292
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000114&tvd=23620001147698&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147698&type=464",
@@ -5669,14 +5669,14 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверьянова Оксана Владимировна": 63,
-      "Измайлова Светлана Викторовна": 71,
-      "Кочетов Сергей Николаевич": 15,
-      "Овсянников Александр Александрович": 65,
-      "Осинин Кирилл Сергеевич": 13,
-      "Померанцев Андрей Сергеевич": 155,
-      "Пономарев Геннадий Викторович": 31,
-      "Чижов Сергей Викторович": 251
+      "gas:candidate-vibid:4364013273300": 63,
+      "gas:candidate-vibid:4364013273638": 71,
+      "gas:candidate-vibid:4364013273534": 15,
+      "gas:candidate-vibid:4364013273005": 65,
+      "gas:candidate-vibid:4364013273451": 13,
+      "gas:candidate-vibid:4364013273330": 155,
+      "gas:candidate-vibid:4364013273602": 31,
+      "gas:candidate-vibid:4364013273379": 251
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000114&tvd=23620001147698&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147698&type=464",
@@ -5727,14 +5727,14 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверьянова Оксана Владимировна": 68,
-      "Измайлова Светлана Викторовна": 119,
-      "Кочетов Сергей Николаевич": 14,
-      "Овсянников Александр Александрович": 81,
-      "Осинин Кирилл Сергеевич": 21,
-      "Померанцев Андрей Сергеевич": 196,
-      "Пономарев Геннадий Викторович": 40,
-      "Чижов Сергей Викторович": 483
+      "gas:candidate-vibid:4364013273300": 68,
+      "gas:candidate-vibid:4364013273638": 119,
+      "gas:candidate-vibid:4364013273534": 14,
+      "gas:candidate-vibid:4364013273005": 81,
+      "gas:candidate-vibid:4364013273451": 21,
+      "gas:candidate-vibid:4364013273330": 196,
+      "gas:candidate-vibid:4364013273602": 40,
+      "gas:candidate-vibid:4364013273379": 483
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000114&tvd=23620001147698&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147698&type=464",
@@ -5785,14 +5785,14 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверьянова Оксана Владимировна": 61,
-      "Измайлова Светлана Викторовна": 103,
-      "Кочетов Сергей Николаевич": 19,
-      "Овсянников Александр Александрович": 75,
-      "Осинин Кирилл Сергеевич": 14,
-      "Померанцев Андрей Сергеевич": 133,
-      "Пономарев Геннадий Викторович": 26,
-      "Чижов Сергей Викторович": 280
+      "gas:candidate-vibid:4364013273300": 61,
+      "gas:candidate-vibid:4364013273638": 103,
+      "gas:candidate-vibid:4364013273534": 19,
+      "gas:candidate-vibid:4364013273005": 75,
+      "gas:candidate-vibid:4364013273451": 14,
+      "gas:candidate-vibid:4364013273330": 133,
+      "gas:candidate-vibid:4364013273602": 26,
+      "gas:candidate-vibid:4364013273379": 280
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000114&tvd=23620001147698&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147698&type=464",
@@ -5843,14 +5843,14 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверьянова Оксана Владимировна": 50,
-      "Измайлова Светлана Викторовна": 61,
-      "Кочетов Сергей Николаевич": 11,
-      "Овсянников Александр Александрович": 54,
-      "Осинин Кирилл Сергеевич": 14,
-      "Померанцев Андрей Сергеевич": 160,
-      "Пономарев Геннадий Викторович": 41,
-      "Чижов Сергей Викторович": 215
+      "gas:candidate-vibid:4364013273300": 50,
+      "gas:candidate-vibid:4364013273638": 61,
+      "gas:candidate-vibid:4364013273534": 11,
+      "gas:candidate-vibid:4364013273005": 54,
+      "gas:candidate-vibid:4364013273451": 14,
+      "gas:candidate-vibid:4364013273330": 160,
+      "gas:candidate-vibid:4364013273602": 41,
+      "gas:candidate-vibid:4364013273379": 215
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000114&tvd=23620001147698&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147698&type=464",
@@ -5901,14 +5901,14 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверьянова Оксана Владимировна": 50,
-      "Измайлова Светлана Викторовна": 73,
-      "Кочетов Сергей Николаевич": 19,
-      "Овсянников Александр Александрович": 58,
-      "Осинин Кирилл Сергеевич": 17,
-      "Померанцев Андрей Сергеевич": 127,
-      "Пономарев Геннадий Викторович": 21,
-      "Чижов Сергей Викторович": 149
+      "gas:candidate-vibid:4364013273300": 50,
+      "gas:candidate-vibid:4364013273638": 73,
+      "gas:candidate-vibid:4364013273534": 19,
+      "gas:candidate-vibid:4364013273005": 58,
+      "gas:candidate-vibid:4364013273451": 17,
+      "gas:candidate-vibid:4364013273330": 127,
+      "gas:candidate-vibid:4364013273602": 21,
+      "gas:candidate-vibid:4364013273379": 149
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000114&tvd=23620001147698&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147698&type=464",
@@ -5959,14 +5959,14 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверьянова Оксана Владимировна": 44,
-      "Измайлова Светлана Викторовна": 73,
-      "Кочетов Сергей Николаевич": 7,
-      "Овсянников Александр Александрович": 55,
-      "Осинин Кирилл Сергеевич": 15,
-      "Померанцев Андрей Сергеевич": 168,
-      "Пономарев Геннадий Викторович": 22,
-      "Чижов Сергей Викторович": 224
+      "gas:candidate-vibid:4364013273300": 44,
+      "gas:candidate-vibid:4364013273638": 73,
+      "gas:candidate-vibid:4364013273534": 7,
+      "gas:candidate-vibid:4364013273005": 55,
+      "gas:candidate-vibid:4364013273451": 15,
+      "gas:candidate-vibid:4364013273330": 168,
+      "gas:candidate-vibid:4364013273602": 22,
+      "gas:candidate-vibid:4364013273379": 224
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000114&tvd=23620001147698&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147698&type=464",
@@ -6017,14 +6017,14 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверьянова Оксана Владимировна": 50,
-      "Измайлова Светлана Викторовна": 84,
-      "Кочетов Сергей Николаевич": 15,
-      "Овсянников Александр Александрович": 72,
-      "Осинин Кирилл Сергеевич": 9,
-      "Померанцев Андрей Сергеевич": 144,
-      "Пономарев Геннадий Викторович": 22,
-      "Чижов Сергей Викторович": 217
+      "gas:candidate-vibid:4364013273300": 50,
+      "gas:candidate-vibid:4364013273638": 84,
+      "gas:candidate-vibid:4364013273534": 15,
+      "gas:candidate-vibid:4364013273005": 72,
+      "gas:candidate-vibid:4364013273451": 9,
+      "gas:candidate-vibid:4364013273330": 144,
+      "gas:candidate-vibid:4364013273602": 22,
+      "gas:candidate-vibid:4364013273379": 217
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000114&tvd=23620001147698&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147698&type=464",
@@ -6075,14 +6075,14 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверьянова Оксана Владимировна": 68,
-      "Измайлова Светлана Викторовна": 107,
-      "Кочетов Сергей Николаевич": 14,
-      "Овсянников Александр Александрович": 63,
-      "Осинин Кирилл Сергеевич": 21,
-      "Померанцев Андрей Сергеевич": 177,
-      "Пономарев Геннадий Викторович": 45,
-      "Чижов Сергей Викторович": 349
+      "gas:candidate-vibid:4364013273300": 68,
+      "gas:candidate-vibid:4364013273638": 107,
+      "gas:candidate-vibid:4364013273534": 14,
+      "gas:candidate-vibid:4364013273005": 63,
+      "gas:candidate-vibid:4364013273451": 21,
+      "gas:candidate-vibid:4364013273330": 177,
+      "gas:candidate-vibid:4364013273602": 45,
+      "gas:candidate-vibid:4364013273379": 349
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000114&tvd=23620001147698&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147698&type=464",
@@ -6133,14 +6133,14 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверьянова Оксана Владимировна": 49,
-      "Измайлова Светлана Викторовна": 70,
-      "Кочетов Сергей Николаевич": 14,
-      "Овсянников Александр Александрович": 59,
-      "Осинин Кирилл Сергеевич": 18,
-      "Померанцев Андрей Сергеевич": 157,
-      "Пономарев Геннадий Викторович": 22,
-      "Чижов Сергей Викторович": 177
+      "gas:candidate-vibid:4364013273300": 49,
+      "gas:candidate-vibid:4364013273638": 70,
+      "gas:candidate-vibid:4364013273534": 14,
+      "gas:candidate-vibid:4364013273005": 59,
+      "gas:candidate-vibid:4364013273451": 18,
+      "gas:candidate-vibid:4364013273330": 157,
+      "gas:candidate-vibid:4364013273602": 22,
+      "gas:candidate-vibid:4364013273379": 177
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000114&tvd=23620001147698&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147698&type=464",
@@ -6191,14 +6191,14 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверьянова Оксана Владимировна": 27,
-      "Измайлова Светлана Викторовна": 63,
-      "Кочетов Сергей Николаевич": 9,
-      "Овсянников Александр Александрович": 60,
-      "Осинин Кирилл Сергеевич": 23,
-      "Померанцев Андрей Сергеевич": 181,
-      "Пономарев Геннадий Викторович": 45,
-      "Чижов Сергей Викторович": 214
+      "gas:candidate-vibid:4364013273300": 27,
+      "gas:candidate-vibid:4364013273638": 63,
+      "gas:candidate-vibid:4364013273534": 9,
+      "gas:candidate-vibid:4364013273005": 60,
+      "gas:candidate-vibid:4364013273451": 23,
+      "gas:candidate-vibid:4364013273330": 181,
+      "gas:candidate-vibid:4364013273602": 45,
+      "gas:candidate-vibid:4364013273379": 214
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000114&tvd=23620001147698&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147698&type=464",
@@ -6249,14 +6249,14 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверьянова Оксана Владимировна": 33,
-      "Измайлова Светлана Викторовна": 67,
-      "Кочетов Сергей Николаевич": 12,
-      "Овсянников Александр Александрович": 50,
-      "Осинин Кирилл Сергеевич": 14,
-      "Померанцев Андрей Сергеевич": 144,
-      "Пономарев Геннадий Викторович": 27,
-      "Чижов Сергей Викторович": 181
+      "gas:candidate-vibid:4364013273300": 33,
+      "gas:candidate-vibid:4364013273638": 67,
+      "gas:candidate-vibid:4364013273534": 12,
+      "gas:candidate-vibid:4364013273005": 50,
+      "gas:candidate-vibid:4364013273451": 14,
+      "gas:candidate-vibid:4364013273330": 144,
+      "gas:candidate-vibid:4364013273602": 27,
+      "gas:candidate-vibid:4364013273379": 181
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000114&tvd=23620001147698&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147698&type=464",
@@ -6307,14 +6307,14 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверьянова Оксана Владимировна": 77,
-      "Измайлова Светлана Викторовна": 101,
-      "Кочетов Сергей Николаевич": 18,
-      "Овсянников Александр Александрович": 96,
-      "Осинин Кирилл Сергеевич": 22,
-      "Померанцев Андрей Сергеевич": 120,
-      "Пономарев Геннадий Викторович": 30,
-      "Чижов Сергей Викторович": 347
+      "gas:candidate-vibid:4364013273300": 77,
+      "gas:candidate-vibid:4364013273638": 101,
+      "gas:candidate-vibid:4364013273534": 18,
+      "gas:candidate-vibid:4364013273005": 96,
+      "gas:candidate-vibid:4364013273451": 22,
+      "gas:candidate-vibid:4364013273330": 120,
+      "gas:candidate-vibid:4364013273602": 30,
+      "gas:candidate-vibid:4364013273379": 347
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000114&tvd=23620001147698&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147698&type=464",
@@ -6365,14 +6365,14 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверьянова Оксана Владимировна": 30,
-      "Измайлова Светлана Викторовна": 56,
-      "Кочетов Сергей Николаевич": 4,
-      "Овсянников Александр Александрович": 29,
-      "Осинин Кирилл Сергеевич": 8,
-      "Померанцев Андрей Сергеевич": 104,
-      "Пономарев Геннадий Викторович": 14,
-      "Чижов Сергей Викторович": 132
+      "gas:candidate-vibid:4364013273300": 30,
+      "gas:candidate-vibid:4364013273638": 56,
+      "gas:candidate-vibid:4364013273534": 4,
+      "gas:candidate-vibid:4364013273005": 29,
+      "gas:candidate-vibid:4364013273451": 8,
+      "gas:candidate-vibid:4364013273330": 104,
+      "gas:candidate-vibid:4364013273602": 14,
+      "gas:candidate-vibid:4364013273379": 132
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000114&tvd=23620001147698&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147698&type=464",
@@ -6423,14 +6423,14 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверьянова Оксана Владимировна": 62,
-      "Измайлова Светлана Викторовна": 98,
-      "Кочетов Сергей Николаевич": 20,
-      "Овсянников Александр Александрович": 98,
-      "Осинин Кирилл Сергеевич": 11,
-      "Померанцев Андрей Сергеевич": 139,
-      "Пономарев Геннадий Викторович": 13,
-      "Чижов Сергей Викторович": 329
+      "gas:candidate-vibid:4364013273300": 62,
+      "gas:candidate-vibid:4364013273638": 98,
+      "gas:candidate-vibid:4364013273534": 20,
+      "gas:candidate-vibid:4364013273005": 98,
+      "gas:candidate-vibid:4364013273451": 11,
+      "gas:candidate-vibid:4364013273330": 139,
+      "gas:candidate-vibid:4364013273602": 13,
+      "gas:candidate-vibid:4364013273379": 329
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000114&tvd=23620001147698&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147698&type=464",
@@ -6481,14 +6481,14 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверьянова Оксана Владимировна": 45,
-      "Измайлова Светлана Викторовна": 74,
-      "Кочетов Сергей Николаевич": 9,
-      "Овсянников Александр Александрович": 55,
-      "Осинин Кирилл Сергеевич": 16,
-      "Померанцев Андрей Сергеевич": 115,
-      "Пономарев Геннадий Викторович": 16,
-      "Чижов Сергей Викторович": 182
+      "gas:candidate-vibid:4364013273300": 45,
+      "gas:candidate-vibid:4364013273638": 74,
+      "gas:candidate-vibid:4364013273534": 9,
+      "gas:candidate-vibid:4364013273005": 55,
+      "gas:candidate-vibid:4364013273451": 16,
+      "gas:candidate-vibid:4364013273330": 115,
+      "gas:candidate-vibid:4364013273602": 16,
+      "gas:candidate-vibid:4364013273379": 182
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000114&tvd=23620001147698&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147698&type=464",
@@ -6539,14 +6539,14 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверьянова Оксана Владимировна": 52,
-      "Измайлова Светлана Викторовна": 45,
-      "Кочетов Сергей Николаевич": 23,
-      "Овсянников Александр Александрович": 71,
-      "Осинин Кирилл Сергеевич": 18,
-      "Померанцев Андрей Сергеевич": 130,
-      "Пономарев Геннадий Викторович": 24,
-      "Чижов Сергей Викторович": 396
+      "gas:candidate-vibid:4364013273300": 52,
+      "gas:candidate-vibid:4364013273638": 45,
+      "gas:candidate-vibid:4364013273534": 23,
+      "gas:candidate-vibid:4364013273005": 71,
+      "gas:candidate-vibid:4364013273451": 18,
+      "gas:candidate-vibid:4364013273330": 130,
+      "gas:candidate-vibid:4364013273602": 24,
+      "gas:candidate-vibid:4364013273379": 396
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000114&tvd=23620001147698&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147698&type=464",
@@ -6597,14 +6597,14 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверьянова Оксана Владимировна": 48,
-      "Измайлова Светлана Викторовна": 74,
-      "Кочетов Сергей Николаевич": 6,
-      "Овсянников Александр Александрович": 79,
-      "Осинин Кирилл Сергеевич": 13,
-      "Померанцев Андрей Сергеевич": 140,
-      "Пономарев Геннадий Викторович": 30,
-      "Чижов Сергей Викторович": 262
+      "gas:candidate-vibid:4364013273300": 48,
+      "gas:candidate-vibid:4364013273638": 74,
+      "gas:candidate-vibid:4364013273534": 6,
+      "gas:candidate-vibid:4364013273005": 79,
+      "gas:candidate-vibid:4364013273451": 13,
+      "gas:candidate-vibid:4364013273330": 140,
+      "gas:candidate-vibid:4364013273602": 30,
+      "gas:candidate-vibid:4364013273379": 262
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000114&tvd=23620001147698&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147698&type=464",
@@ -6655,14 +6655,14 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверьянова Оксана Владимировна": 53,
-      "Измайлова Светлана Викторовна": 98,
-      "Кочетов Сергей Николаевич": 15,
-      "Овсянников Александр Александрович": 86,
-      "Осинин Кирилл Сергеевич": 14,
-      "Померанцев Андрей Сергеевич": 161,
-      "Пономарев Геннадий Викторович": 13,
-      "Чижов Сергей Викторович": 240
+      "gas:candidate-vibid:4364013273300": 53,
+      "gas:candidate-vibid:4364013273638": 98,
+      "gas:candidate-vibid:4364013273534": 15,
+      "gas:candidate-vibid:4364013273005": 86,
+      "gas:candidate-vibid:4364013273451": 14,
+      "gas:candidate-vibid:4364013273330": 161,
+      "gas:candidate-vibid:4364013273602": 13,
+      "gas:candidate-vibid:4364013273379": 240
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000114&tvd=23620001147698&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147698&type=464",
@@ -6713,14 +6713,14 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверьянова Оксана Владимировна": 60,
-      "Измайлова Светлана Викторовна": 113,
-      "Кочетов Сергей Николаевич": 14,
-      "Овсянников Александр Александрович": 88,
-      "Осинин Кирилл Сергеевич": 15,
-      "Померанцев Андрей Сергеевич": 185,
-      "Пономарев Геннадий Викторович": 31,
-      "Чижов Сергей Викторович": 262
+      "gas:candidate-vibid:4364013273300": 60,
+      "gas:candidate-vibid:4364013273638": 113,
+      "gas:candidate-vibid:4364013273534": 14,
+      "gas:candidate-vibid:4364013273005": 88,
+      "gas:candidate-vibid:4364013273451": 15,
+      "gas:candidate-vibid:4364013273330": 185,
+      "gas:candidate-vibid:4364013273602": 31,
+      "gas:candidate-vibid:4364013273379": 262
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000114&tvd=23620001147698&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147698&type=464",
@@ -6771,14 +6771,14 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверьянова Оксана Владимировна": 57,
-      "Измайлова Светлана Викторовна": 77,
-      "Кочетов Сергей Николаевич": 27,
-      "Овсянников Александр Александрович": 80,
-      "Осинин Кирилл Сергеевич": 23,
-      "Померанцев Андрей Сергеевич": 174,
-      "Пономарев Геннадий Викторович": 37,
-      "Чижов Сергей Викторович": 344
+      "gas:candidate-vibid:4364013273300": 57,
+      "gas:candidate-vibid:4364013273638": 77,
+      "gas:candidate-vibid:4364013273534": 27,
+      "gas:candidate-vibid:4364013273005": 80,
+      "gas:candidate-vibid:4364013273451": 23,
+      "gas:candidate-vibid:4364013273330": 174,
+      "gas:candidate-vibid:4364013273602": 37,
+      "gas:candidate-vibid:4364013273379": 344
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000114&tvd=23620001147698&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147698&type=464",
@@ -6829,14 +6829,14 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверьянова Оксана Владимировна": 8,
-      "Измайлова Светлана Викторовна": 3,
-      "Кочетов Сергей Николаевич": 3,
-      "Овсянников Александр Александрович": 4,
-      "Осинин Кирилл Сергеевич": 0,
-      "Померанцев Андрей Сергеевич": 1,
-      "Пономарев Геннадий Викторович": 4,
-      "Чижов Сергей Викторович": 25
+      "gas:candidate-vibid:4364013273300": 8,
+      "gas:candidate-vibid:4364013273638": 3,
+      "gas:candidate-vibid:4364013273534": 3,
+      "gas:candidate-vibid:4364013273005": 4,
+      "gas:candidate-vibid:4364013273451": 0,
+      "gas:candidate-vibid:4364013273330": 1,
+      "gas:candidate-vibid:4364013273602": 4,
+      "gas:candidate-vibid:4364013273379": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000114&tvd=23620001147698&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147698&type=464",
@@ -6887,14 +6887,14 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверьянова Оксана Владимировна": 28,
-      "Измайлова Светлана Викторовна": 33,
-      "Кочетов Сергей Николаевич": 8,
-      "Овсянников Александр Александрович": 28,
-      "Осинин Кирилл Сергеевич": 3,
-      "Померанцев Андрей Сергеевич": 23,
-      "Пономарев Геннадий Викторович": 7,
-      "Чижов Сергей Викторович": 233
+      "gas:candidate-vibid:4364013273300": 28,
+      "gas:candidate-vibid:4364013273638": 33,
+      "gas:candidate-vibid:4364013273534": 8,
+      "gas:candidate-vibid:4364013273005": 28,
+      "gas:candidate-vibid:4364013273451": 3,
+      "gas:candidate-vibid:4364013273330": 23,
+      "gas:candidate-vibid:4364013273602": 7,
+      "gas:candidate-vibid:4364013273379": 233
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000114&tvd=23620001147698&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147698&type=464",
@@ -6945,14 +6945,14 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверьянова Оксана Владимировна": 40,
-      "Измайлова Светлана Викторовна": 59,
-      "Кочетов Сергей Николаевич": 18,
-      "Овсянников Александр Александрович": 52,
-      "Осинин Кирилл Сергеевич": 16,
-      "Померанцев Андрей Сергеевич": 74,
-      "Пономарев Геннадий Викторович": 27,
-      "Чижов Сергей Викторович": 243
+      "gas:candidate-vibid:4364013273300": 40,
+      "gas:candidate-vibid:4364013273638": 59,
+      "gas:candidate-vibid:4364013273534": 18,
+      "gas:candidate-vibid:4364013273005": 52,
+      "gas:candidate-vibid:4364013273451": 16,
+      "gas:candidate-vibid:4364013273330": 74,
+      "gas:candidate-vibid:4364013273602": 27,
+      "gas:candidate-vibid:4364013273379": 243
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000114&tvd=23620001147698&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147698&type=464",
@@ -7003,14 +7003,14 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверьянова Оксана Владимировна": 80,
-      "Измайлова Светлана Викторовна": 77,
-      "Кочетов Сергей Николаевич": 23,
-      "Овсянников Александр Александрович": 89,
-      "Осинин Кирилл Сергеевич": 17,
-      "Померанцев Андрей Сергеевич": 189,
-      "Пономарев Геннадий Викторович": 39,
-      "Чижов Сергей Викторович": 391
+      "gas:candidate-vibid:4364013273300": 80,
+      "gas:candidate-vibid:4364013273638": 77,
+      "gas:candidate-vibid:4364013273534": 23,
+      "gas:candidate-vibid:4364013273005": 89,
+      "gas:candidate-vibid:4364013273451": 17,
+      "gas:candidate-vibid:4364013273330": 189,
+      "gas:candidate-vibid:4364013273602": 39,
+      "gas:candidate-vibid:4364013273379": 391
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000114&tvd=23620001147698&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147698&type=464",
@@ -7061,14 +7061,14 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверьянова Оксана Владимировна": 28,
-      "Измайлова Светлана Викторовна": 42,
-      "Кочетов Сергей Николаевич": 12,
-      "Овсянников Александр Александрович": 67,
-      "Осинин Кирилл Сергеевич": 7,
-      "Померанцев Андрей Сергеевич": 56,
-      "Пономарев Геннадий Викторович": 16,
-      "Чижов Сергей Викторович": 261
+      "gas:candidate-vibid:4364013273300": 28,
+      "gas:candidate-vibid:4364013273638": 42,
+      "gas:candidate-vibid:4364013273534": 12,
+      "gas:candidate-vibid:4364013273005": 67,
+      "gas:candidate-vibid:4364013273451": 7,
+      "gas:candidate-vibid:4364013273330": 56,
+      "gas:candidate-vibid:4364013273602": 16,
+      "gas:candidate-vibid:4364013273379": 261
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000114&tvd=23620001147698&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147698&type=464",
@@ -7119,14 +7119,14 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверьянова Оксана Владимировна": 61,
-      "Измайлова Светлана Викторовна": 110,
-      "Кочетов Сергей Николаевич": 18,
-      "Овсянников Александр Александрович": 51,
-      "Осинин Кирилл Сергеевич": 18,
-      "Померанцев Андрей Сергеевич": 153,
-      "Пономарев Геннадий Викторович": 34,
-      "Чижов Сергей Викторович": 260
+      "gas:candidate-vibid:4364013273300": 61,
+      "gas:candidate-vibid:4364013273638": 110,
+      "gas:candidate-vibid:4364013273534": 18,
+      "gas:candidate-vibid:4364013273005": 51,
+      "gas:candidate-vibid:4364013273451": 18,
+      "gas:candidate-vibid:4364013273330": 153,
+      "gas:candidate-vibid:4364013273602": 34,
+      "gas:candidate-vibid:4364013273379": 260
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000114&tvd=23620001147698&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147698&type=464",
@@ -7177,14 +7177,14 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверьянова Оксана Владимировна": 25,
-      "Измайлова Светлана Викторовна": 45,
-      "Кочетов Сергей Николаевич": 6,
-      "Овсянников Александр Александрович": 47,
-      "Осинин Кирилл Сергеевич": 13,
-      "Померанцев Андрей Сергеевич": 68,
-      "Пономарев Геннадий Викторович": 21,
-      "Чижов Сергей Викторович": 129
+      "gas:candidate-vibid:4364013273300": 25,
+      "gas:candidate-vibid:4364013273638": 45,
+      "gas:candidate-vibid:4364013273534": 6,
+      "gas:candidate-vibid:4364013273005": 47,
+      "gas:candidate-vibid:4364013273451": 13,
+      "gas:candidate-vibid:4364013273330": 68,
+      "gas:candidate-vibid:4364013273602": 21,
+      "gas:candidate-vibid:4364013273379": 129
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000114&tvd=23620001147698&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147698&type=464",
@@ -7235,14 +7235,14 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверьянова Оксана Владимировна": 23,
-      "Измайлова Светлана Викторовна": 29,
-      "Кочетов Сергей Николаевич": 9,
-      "Овсянников Александр Александрович": 28,
-      "Осинин Кирилл Сергеевич": 2,
-      "Померанцев Андрей Сергеевич": 63,
-      "Пономарев Геннадий Викторович": 18,
-      "Чижов Сергей Викторович": 93
+      "gas:candidate-vibid:4364013273300": 23,
+      "gas:candidate-vibid:4364013273638": 29,
+      "gas:candidate-vibid:4364013273534": 9,
+      "gas:candidate-vibid:4364013273005": 28,
+      "gas:candidate-vibid:4364013273451": 2,
+      "gas:candidate-vibid:4364013273330": 63,
+      "gas:candidate-vibid:4364013273602": 18,
+      "gas:candidate-vibid:4364013273379": 93
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000114&tvd=23620001147698&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147698&type=464",
@@ -7293,14 +7293,14 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверьянова Оксана Владимировна": 72,
-      "Измайлова Светлана Викторовна": 105,
-      "Кочетов Сергей Николаевич": 12,
-      "Овсянников Александр Александрович": 87,
-      "Осинин Кирилл Сергеевич": 21,
-      "Померанцев Андрей Сергеевич": 147,
-      "Пономарев Геннадий Викторович": 14,
-      "Чижов Сергей Викторович": 289
+      "gas:candidate-vibid:4364013273300": 72,
+      "gas:candidate-vibid:4364013273638": 105,
+      "gas:candidate-vibid:4364013273534": 12,
+      "gas:candidate-vibid:4364013273005": 87,
+      "gas:candidate-vibid:4364013273451": 21,
+      "gas:candidate-vibid:4364013273330": 147,
+      "gas:candidate-vibid:4364013273602": 14,
+      "gas:candidate-vibid:4364013273379": 289
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000114&tvd=23620001147698&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147698&type=464",
@@ -7351,14 +7351,14 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверьянова Оксана Владимировна": 69,
-      "Измайлова Светлана Викторовна": 101,
-      "Кочетов Сергей Николаевич": 14,
-      "Овсянников Александр Александрович": 55,
-      "Осинин Кирилл Сергеевич": 8,
-      "Померанцев Андрей Сергеевич": 119,
-      "Пономарев Геннадий Викторович": 29,
-      "Чижов Сергей Викторович": 262
+      "gas:candidate-vibid:4364013273300": 69,
+      "gas:candidate-vibid:4364013273638": 101,
+      "gas:candidate-vibid:4364013273534": 14,
+      "gas:candidate-vibid:4364013273005": 55,
+      "gas:candidate-vibid:4364013273451": 8,
+      "gas:candidate-vibid:4364013273330": 119,
+      "gas:candidate-vibid:4364013273602": 29,
+      "gas:candidate-vibid:4364013273379": 262
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000114&tvd=23620001147698&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147698&type=464",
@@ -7409,14 +7409,14 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверьянова Оксана Владимировна": 81,
-      "Измайлова Светлана Викторовна": 73,
-      "Кочетов Сергей Николаевич": 19,
-      "Овсянников Александр Александрович": 93,
-      "Осинин Кирилл Сергеевич": 15,
-      "Померанцев Андрей Сергеевич": 151,
-      "Пономарев Геннадий Викторович": 32,
-      "Чижов Сергей Викторович": 619
+      "gas:candidate-vibid:4364013273300": 81,
+      "gas:candidate-vibid:4364013273638": 73,
+      "gas:candidate-vibid:4364013273534": 19,
+      "gas:candidate-vibid:4364013273005": 93,
+      "gas:candidate-vibid:4364013273451": 15,
+      "gas:candidate-vibid:4364013273330": 151,
+      "gas:candidate-vibid:4364013273602": 32,
+      "gas:candidate-vibid:4364013273379": 619
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000114&tvd=23620001147698&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147698&type=464",
@@ -7467,14 +7467,14 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверьянова Оксана Владимировна": 45,
-      "Измайлова Светлана Викторовна": 70,
-      "Кочетов Сергей Николаевич": 17,
-      "Овсянников Александр Александрович": 72,
-      "Осинин Кирилл Сергеевич": 12,
-      "Померанцев Андрей Сергеевич": 145,
-      "Пономарев Геннадий Викторович": 22,
-      "Чижов Сергей Викторович": 232
+      "gas:candidate-vibid:4364013273300": 45,
+      "gas:candidate-vibid:4364013273638": 70,
+      "gas:candidate-vibid:4364013273534": 17,
+      "gas:candidate-vibid:4364013273005": 72,
+      "gas:candidate-vibid:4364013273451": 12,
+      "gas:candidate-vibid:4364013273330": 145,
+      "gas:candidate-vibid:4364013273602": 22,
+      "gas:candidate-vibid:4364013273379": 232
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000114&tvd=23620001147698&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147698&type=464",
@@ -7525,14 +7525,14 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверьянова Оксана Владимировна": 26,
-      "Измайлова Светлана Викторовна": 39,
-      "Кочетов Сергей Николаевич": 7,
-      "Овсянников Александр Александрович": 26,
-      "Осинин Кирилл Сергеевич": 6,
-      "Померанцев Андрей Сергеевич": 84,
-      "Пономарев Геннадий Викторович": 9,
-      "Чижов Сергей Викторович": 105
+      "gas:candidate-vibid:4364013273300": 26,
+      "gas:candidate-vibid:4364013273638": 39,
+      "gas:candidate-vibid:4364013273534": 7,
+      "gas:candidate-vibid:4364013273005": 26,
+      "gas:candidate-vibid:4364013273451": 6,
+      "gas:candidate-vibid:4364013273330": 84,
+      "gas:candidate-vibid:4364013273602": 9,
+      "gas:candidate-vibid:4364013273379": 105
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000114&tvd=23620001147698&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147698&type=464",
@@ -7583,14 +7583,14 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверьянова Оксана Владимировна": 28,
-      "Измайлова Светлана Викторовна": 39,
-      "Кочетов Сергей Николаевич": 5,
-      "Овсянников Александр Александрович": 35,
-      "Осинин Кирилл Сергеевич": 4,
-      "Померанцев Андрей Сергеевич": 69,
-      "Пономарев Геннадий Викторович": 16,
-      "Чижов Сергей Викторович": 144
+      "gas:candidate-vibid:4364013273300": 28,
+      "gas:candidate-vibid:4364013273638": 39,
+      "gas:candidate-vibid:4364013273534": 5,
+      "gas:candidate-vibid:4364013273005": 35,
+      "gas:candidate-vibid:4364013273451": 4,
+      "gas:candidate-vibid:4364013273330": 69,
+      "gas:candidate-vibid:4364013273602": 16,
+      "gas:candidate-vibid:4364013273379": 144
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000114&tvd=23620001147698&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147698&type=464",
@@ -7641,14 +7641,14 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверьянова Оксана Владимировна": 59,
-      "Измайлова Светлана Викторовна": 85,
-      "Кочетов Сергей Николаевич": 17,
-      "Овсянников Александр Александрович": 116,
-      "Осинин Кирилл Сергеевич": 30,
-      "Померанцев Андрей Сергеевич": 172,
-      "Пономарев Геннадий Викторович": 55,
-      "Чижов Сергей Викторович": 797
+      "gas:candidate-vibid:4364013273300": 59,
+      "gas:candidate-vibid:4364013273638": 85,
+      "gas:candidate-vibid:4364013273534": 17,
+      "gas:candidate-vibid:4364013273005": 116,
+      "gas:candidate-vibid:4364013273451": 30,
+      "gas:candidate-vibid:4364013273330": 172,
+      "gas:candidate-vibid:4364013273602": 55,
+      "gas:candidate-vibid:4364013273379": 797
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000114&tvd=23620001147699&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147699&type=464",
@@ -7699,14 +7699,14 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверьянова Оксана Владимировна": 50,
-      "Измайлова Светлана Викторовна": 48,
-      "Кочетов Сергей Николаевич": 20,
-      "Овсянников Александр Александрович": 71,
-      "Осинин Кирилл Сергеевич": 17,
-      "Померанцев Андрей Сергеевич": 164,
-      "Пономарев Геннадий Викторович": 37,
-      "Чижов Сергей Викторович": 809
+      "gas:candidate-vibid:4364013273300": 50,
+      "gas:candidate-vibid:4364013273638": 48,
+      "gas:candidate-vibid:4364013273534": 20,
+      "gas:candidate-vibid:4364013273005": 71,
+      "gas:candidate-vibid:4364013273451": 17,
+      "gas:candidate-vibid:4364013273330": 164,
+      "gas:candidate-vibid:4364013273602": 37,
+      "gas:candidate-vibid:4364013273379": 809
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000114&tvd=23620001147699&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147699&type=464",
@@ -7757,14 +7757,14 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверьянова Оксана Владимировна": 63,
-      "Измайлова Светлана Викторовна": 69,
-      "Кочетов Сергей Николаевич": 30,
-      "Овсянников Александр Александрович": 83,
-      "Осинин Кирилл Сергеевич": 25,
-      "Померанцев Андрей Сергеевич": 162,
-      "Пономарев Геннадий Викторович": 43,
-      "Чижов Сергей Викторович": 699
+      "gas:candidate-vibid:4364013273300": 63,
+      "gas:candidate-vibid:4364013273638": 69,
+      "gas:candidate-vibid:4364013273534": 30,
+      "gas:candidate-vibid:4364013273005": 83,
+      "gas:candidate-vibid:4364013273451": 25,
+      "gas:candidate-vibid:4364013273330": 162,
+      "gas:candidate-vibid:4364013273602": 43,
+      "gas:candidate-vibid:4364013273379": 699
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000114&tvd=23620001147699&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147699&type=464",
@@ -7815,14 +7815,14 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверьянова Оксана Владимировна": 72,
-      "Измайлова Светлана Викторовна": 83,
-      "Кочетов Сергей Николаевич": 51,
-      "Овсянников Александр Александрович": 114,
-      "Осинин Кирилл Сергеевич": 27,
-      "Померанцев Андрей Сергеевич": 184,
-      "Пономарев Геннадий Викторович": 56,
-      "Чижов Сергей Викторович": 722
+      "gas:candidate-vibid:4364013273300": 72,
+      "gas:candidate-vibid:4364013273638": 83,
+      "gas:candidate-vibid:4364013273534": 51,
+      "gas:candidate-vibid:4364013273005": 114,
+      "gas:candidate-vibid:4364013273451": 27,
+      "gas:candidate-vibid:4364013273330": 184,
+      "gas:candidate-vibid:4364013273602": 56,
+      "gas:candidate-vibid:4364013273379": 722
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000114&tvd=23620001147699&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147699&type=464",
@@ -7873,14 +7873,14 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверьянова Оксана Владимировна": 36,
-      "Измайлова Светлана Викторовна": 49,
-      "Кочетов Сергей Николаевич": 16,
-      "Овсянников Александр Александрович": 52,
-      "Осинин Кирилл Сергеевич": 15,
-      "Померанцев Андрей Сергеевич": 89,
-      "Пономарев Геннадий Викторович": 10,
-      "Чижов Сергей Викторович": 233
+      "gas:candidate-vibid:4364013273300": 36,
+      "gas:candidate-vibid:4364013273638": 49,
+      "gas:candidate-vibid:4364013273534": 16,
+      "gas:candidate-vibid:4364013273005": 52,
+      "gas:candidate-vibid:4364013273451": 15,
+      "gas:candidate-vibid:4364013273330": 89,
+      "gas:candidate-vibid:4364013273602": 10,
+      "gas:candidate-vibid:4364013273379": 233
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000114&tvd=23620001147699&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147699&type=464",
@@ -7931,14 +7931,14 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверьянова Оксана Владимировна": 52,
-      "Измайлова Светлана Викторовна": 66,
-      "Кочетов Сергей Николаевич": 18,
-      "Овсянников Александр Александрович": 69,
-      "Осинин Кирилл Сергеевич": 17,
-      "Померанцев Андрей Сергеевич": 162,
-      "Пономарев Геннадий Викторович": 37,
-      "Чижов Сергей Викторович": 252
+      "gas:candidate-vibid:4364013273300": 52,
+      "gas:candidate-vibid:4364013273638": 66,
+      "gas:candidate-vibid:4364013273534": 18,
+      "gas:candidate-vibid:4364013273005": 69,
+      "gas:candidate-vibid:4364013273451": 17,
+      "gas:candidate-vibid:4364013273330": 162,
+      "gas:candidate-vibid:4364013273602": 37,
+      "gas:candidate-vibid:4364013273379": 252
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000114&tvd=23620001147699&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147699&type=464",
@@ -7989,14 +7989,14 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверьянова Оксана Владимировна": 72,
-      "Измайлова Светлана Викторовна": 105,
-      "Кочетов Сергей Николаевич": 23,
-      "Овсянников Александр Александрович": 76,
-      "Осинин Кирилл Сергеевич": 21,
-      "Померанцев Андрей Сергеевич": 173,
-      "Пономарев Геннадий Викторович": 46,
-      "Чижов Сергей Викторович": 310
+      "gas:candidate-vibid:4364013273300": 72,
+      "gas:candidate-vibid:4364013273638": 105,
+      "gas:candidate-vibid:4364013273534": 23,
+      "gas:candidate-vibid:4364013273005": 76,
+      "gas:candidate-vibid:4364013273451": 21,
+      "gas:candidate-vibid:4364013273330": 173,
+      "gas:candidate-vibid:4364013273602": 46,
+      "gas:candidate-vibid:4364013273379": 310
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000114&tvd=23620001147699&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147699&type=464",
@@ -8047,14 +8047,14 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверьянова Оксана Владимировна": 81,
-      "Измайлова Светлана Викторовна": 111,
-      "Кочетов Сергей Николаевич": 47,
-      "Овсянников Александр Александрович": 117,
-      "Осинин Кирилл Сергеевич": 33,
-      "Померанцев Андрей Сергеевич": 155,
-      "Пономарев Геннадий Викторович": 58,
-      "Чижов Сергей Викторович": 903
+      "gas:candidate-vibid:4364013273300": 81,
+      "gas:candidate-vibid:4364013273638": 111,
+      "gas:candidate-vibid:4364013273534": 47,
+      "gas:candidate-vibid:4364013273005": 117,
+      "gas:candidate-vibid:4364013273451": 33,
+      "gas:candidate-vibid:4364013273330": 155,
+      "gas:candidate-vibid:4364013273602": 58,
+      "gas:candidate-vibid:4364013273379": 903
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000114&tvd=23620001147699&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147699&type=464",
@@ -8105,14 +8105,14 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверьянова Оксана Владимировна": 62,
-      "Измайлова Светлана Викторовна": 59,
-      "Кочетов Сергей Николаевич": 14,
-      "Овсянников Александр Александрович": 61,
-      "Осинин Кирилл Сергеевич": 22,
-      "Померанцев Андрей Сергеевич": 150,
-      "Пономарев Геннадий Викторович": 34,
-      "Чижов Сергей Викторович": 744
+      "gas:candidate-vibid:4364013273300": 62,
+      "gas:candidate-vibid:4364013273638": 59,
+      "gas:candidate-vibid:4364013273534": 14,
+      "gas:candidate-vibid:4364013273005": 61,
+      "gas:candidate-vibid:4364013273451": 22,
+      "gas:candidate-vibid:4364013273330": 150,
+      "gas:candidate-vibid:4364013273602": 34,
+      "gas:candidate-vibid:4364013273379": 744
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000114&tvd=23620001147699&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147699&type=464",
@@ -8163,14 +8163,14 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверьянова Оксана Владимировна": 62,
-      "Измайлова Светлана Викторовна": 50,
-      "Кочетов Сергей Николаевич": 15,
-      "Овсянников Александр Александрович": 74,
-      "Осинин Кирилл Сергеевич": 23,
-      "Померанцев Андрей Сергеевич": 154,
-      "Пономарев Геннадий Викторович": 41,
-      "Чижов Сергей Викторович": 790
+      "gas:candidate-vibid:4364013273300": 62,
+      "gas:candidate-vibid:4364013273638": 50,
+      "gas:candidate-vibid:4364013273534": 15,
+      "gas:candidate-vibid:4364013273005": 74,
+      "gas:candidate-vibid:4364013273451": 23,
+      "gas:candidate-vibid:4364013273330": 154,
+      "gas:candidate-vibid:4364013273602": 41,
+      "gas:candidate-vibid:4364013273379": 790
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000114&tvd=23620001147699&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147699&type=464",
@@ -8221,14 +8221,14 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверьянова Оксана Владимировна": 44,
-      "Измайлова Светлана Викторовна": 59,
-      "Кочетов Сергей Николаевич": 13,
-      "Овсянников Александр Александрович": 89,
-      "Осинин Кирилл Сергеевич": 11,
-      "Померанцев Андрей Сергеевич": 97,
-      "Пономарев Геннадий Викторович": 27,
-      "Чижов Сергей Викторович": 652
+      "gas:candidate-vibid:4364013273300": 44,
+      "gas:candidate-vibid:4364013273638": 59,
+      "gas:candidate-vibid:4364013273534": 13,
+      "gas:candidate-vibid:4364013273005": 89,
+      "gas:candidate-vibid:4364013273451": 11,
+      "gas:candidate-vibid:4364013273330": 97,
+      "gas:candidate-vibid:4364013273602": 27,
+      "gas:candidate-vibid:4364013273379": 652
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000114&tvd=23620001147699&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147699&type=464",
@@ -8279,14 +8279,14 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверьянова Оксана Владимировна": 38,
-      "Измайлова Светлана Викторовна": 34,
-      "Кочетов Сергей Николаевич": 8,
-      "Овсянников Александр Александрович": 39,
-      "Осинин Кирилл Сергеевич": 5,
-      "Померанцев Андрей Сергеевич": 110,
-      "Пономарев Геннадий Викторович": 22,
-      "Чижов Сергей Викторович": 166
+      "gas:candidate-vibid:4364013273300": 38,
+      "gas:candidate-vibid:4364013273638": 34,
+      "gas:candidate-vibid:4364013273534": 8,
+      "gas:candidate-vibid:4364013273005": 39,
+      "gas:candidate-vibid:4364013273451": 5,
+      "gas:candidate-vibid:4364013273330": 110,
+      "gas:candidate-vibid:4364013273602": 22,
+      "gas:candidate-vibid:4364013273379": 166
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000114&tvd=23620001147699&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147699&type=464",
@@ -8337,14 +8337,14 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверьянова Оксана Владимировна": 34,
-      "Измайлова Светлана Викторовна": 70,
-      "Кочетов Сергей Николаевич": 10,
-      "Овсянников Александр Александрович": 40,
-      "Осинин Кирилл Сергеевич": 14,
-      "Померанцев Андрей Сергеевич": 139,
-      "Пономарев Геннадий Викторович": 12,
-      "Чижов Сергей Викторович": 209
+      "gas:candidate-vibid:4364013273300": 34,
+      "gas:candidate-vibid:4364013273638": 70,
+      "gas:candidate-vibid:4364013273534": 10,
+      "gas:candidate-vibid:4364013273005": 40,
+      "gas:candidate-vibid:4364013273451": 14,
+      "gas:candidate-vibid:4364013273330": 139,
+      "gas:candidate-vibid:4364013273602": 12,
+      "gas:candidate-vibid:4364013273379": 209
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000114&tvd=23620001147699&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147699&type=464",
@@ -8395,14 +8395,14 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверьянова Оксана Владимировна": 34,
-      "Измайлова Светлана Викторовна": 41,
-      "Кочетов Сергей Николаевич": 13,
-      "Овсянников Александр Александрович": 42,
-      "Осинин Кирилл Сергеевич": 9,
-      "Померанцев Андрей Сергеевич": 81,
-      "Пономарев Геннадий Викторович": 14,
-      "Чижов Сергей Викторович": 190
+      "gas:candidate-vibid:4364013273300": 34,
+      "gas:candidate-vibid:4364013273638": 41,
+      "gas:candidate-vibid:4364013273534": 13,
+      "gas:candidate-vibid:4364013273005": 42,
+      "gas:candidate-vibid:4364013273451": 9,
+      "gas:candidate-vibid:4364013273330": 81,
+      "gas:candidate-vibid:4364013273602": 14,
+      "gas:candidate-vibid:4364013273379": 190
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000114&tvd=23620001147699&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147699&type=464",
@@ -8453,14 +8453,14 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверьянова Оксана Владимировна": 76,
-      "Измайлова Светлана Викторовна": 90,
-      "Кочетов Сергей Николаевич": 44,
-      "Овсянников Александр Александрович": 138,
-      "Осинин Кирилл Сергеевич": 29,
-      "Померанцев Андрей Сергеевич": 140,
-      "Пономарев Геннадий Викторович": 47,
-      "Чижов Сергей Викторович": 764
+      "gas:candidate-vibid:4364013273300": 76,
+      "gas:candidate-vibid:4364013273638": 90,
+      "gas:candidate-vibid:4364013273534": 44,
+      "gas:candidate-vibid:4364013273005": 138,
+      "gas:candidate-vibid:4364013273451": 29,
+      "gas:candidate-vibid:4364013273330": 140,
+      "gas:candidate-vibid:4364013273602": 47,
+      "gas:candidate-vibid:4364013273379": 764
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000114&tvd=23620001147699&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147699&type=464",
@@ -8511,14 +8511,14 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверьянова Оксана Владимировна": 44,
-      "Измайлова Светлана Викторовна": 43,
-      "Кочетов Сергей Николаевич": 12,
-      "Овсянников Александр Александрович": 54,
-      "Осинин Кирилл Сергеевич": 15,
-      "Померанцев Андрей Сергеевич": 104,
-      "Пономарев Геннадий Викторович": 19,
-      "Чижов Сергей Викторович": 292
+      "gas:candidate-vibid:4364013273300": 44,
+      "gas:candidate-vibid:4364013273638": 43,
+      "gas:candidate-vibid:4364013273534": 12,
+      "gas:candidate-vibid:4364013273005": 54,
+      "gas:candidate-vibid:4364013273451": 15,
+      "gas:candidate-vibid:4364013273330": 104,
+      "gas:candidate-vibid:4364013273602": 19,
+      "gas:candidate-vibid:4364013273379": 292
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000114&tvd=23620001147699&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147699&type=464",
@@ -8569,14 +8569,14 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверьянова Оксана Владимировна": 65,
-      "Измайлова Светлана Викторовна": 72,
-      "Кочетов Сергей Николаевич": 29,
-      "Овсянников Александр Александрович": 86,
-      "Осинин Кирилл Сергеевич": 23,
-      "Померанцев Андрей Сергеевич": 170,
-      "Пономарев Геннадий Викторович": 23,
-      "Чижов Сергей Викторович": 438
+      "gas:candidate-vibid:4364013273300": 65,
+      "gas:candidate-vibid:4364013273638": 72,
+      "gas:candidate-vibid:4364013273534": 29,
+      "gas:candidate-vibid:4364013273005": 86,
+      "gas:candidate-vibid:4364013273451": 23,
+      "gas:candidate-vibid:4364013273330": 170,
+      "gas:candidate-vibid:4364013273602": 23,
+      "gas:candidate-vibid:4364013273379": 438
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000114&tvd=23620001147699&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147699&type=464",
@@ -8627,14 +8627,14 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверьянова Оксана Владимировна": 73,
-      "Измайлова Светлана Викторовна": 83,
-      "Кочетов Сергей Николаевич": 21,
-      "Овсянников Александр Александрович": 73,
-      "Осинин Кирилл Сергеевич": 33,
-      "Померанцев Андрей Сергеевич": 265,
-      "Пономарев Геннадий Викторович": 44,
-      "Чижов Сергей Викторович": 351
+      "gas:candidate-vibid:4364013273300": 73,
+      "gas:candidate-vibid:4364013273638": 83,
+      "gas:candidate-vibid:4364013273534": 21,
+      "gas:candidate-vibid:4364013273005": 73,
+      "gas:candidate-vibid:4364013273451": 33,
+      "gas:candidate-vibid:4364013273330": 265,
+      "gas:candidate-vibid:4364013273602": 44,
+      "gas:candidate-vibid:4364013273379": 351
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000114&tvd=23620001147699&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147699&type=464",
@@ -8685,14 +8685,14 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверьянова Оксана Владимировна": 62,
-      "Измайлова Светлана Викторовна": 77,
-      "Кочетов Сергей Николаевич": 17,
-      "Овсянников Александр Александрович": 92,
-      "Осинин Кирилл Сергеевич": 29,
-      "Померанцев Андрей Сергеевич": 182,
-      "Пономарев Геннадий Викторович": 31,
-      "Чижов Сергей Викторович": 378
+      "gas:candidate-vibid:4364013273300": 62,
+      "gas:candidate-vibid:4364013273638": 77,
+      "gas:candidate-vibid:4364013273534": 17,
+      "gas:candidate-vibid:4364013273005": 92,
+      "gas:candidate-vibid:4364013273451": 29,
+      "gas:candidate-vibid:4364013273330": 182,
+      "gas:candidate-vibid:4364013273602": 31,
+      "gas:candidate-vibid:4364013273379": 378
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000114&tvd=23620001147699&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147699&type=464",
@@ -8743,14 +8743,14 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверьянова Оксана Владимировна": 9,
-      "Измайлова Светлана Викторовна": 4,
-      "Кочетов Сергей Николаевич": 7,
-      "Овсянников Александр Александрович": 5,
-      "Осинин Кирилл Сергеевич": 4,
-      "Померанцев Андрей Сергеевич": 15,
-      "Пономарев Геннадий Викторович": 2,
-      "Чижов Сергей Викторович": 220
+      "gas:candidate-vibid:4364013273300": 9,
+      "gas:candidate-vibid:4364013273638": 4,
+      "gas:candidate-vibid:4364013273534": 7,
+      "gas:candidate-vibid:4364013273005": 5,
+      "gas:candidate-vibid:4364013273451": 4,
+      "gas:candidate-vibid:4364013273330": 15,
+      "gas:candidate-vibid:4364013273602": 2,
+      "gas:candidate-vibid:4364013273379": 220
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000114&tvd=23620001147699&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147699&type=464",
@@ -8801,14 +8801,14 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверьянова Оксана Владимировна": 69,
-      "Измайлова Светлана Викторовна": 52,
-      "Кочетов Сергей Николаевич": 16,
-      "Овсянников Александр Александрович": 66,
-      "Осинин Кирилл Сергеевич": 21,
-      "Померанцев Андрей Сергеевич": 118,
-      "Пономарев Геннадий Викторович": 19,
-      "Чижов Сергей Викторович": 305
+      "gas:candidate-vibid:4364013273300": 69,
+      "gas:candidate-vibid:4364013273638": 52,
+      "gas:candidate-vibid:4364013273534": 16,
+      "gas:candidate-vibid:4364013273005": 66,
+      "gas:candidate-vibid:4364013273451": 21,
+      "gas:candidate-vibid:4364013273330": 118,
+      "gas:candidate-vibid:4364013273602": 19,
+      "gas:candidate-vibid:4364013273379": 305
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000114&tvd=23620001147699&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147699&type=464",
@@ -8859,14 +8859,14 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверьянова Оксана Владимировна": 40,
-      "Измайлова Светлана Викторовна": 23,
-      "Кочетов Сергей Николаевич": 10,
-      "Овсянников Александр Александрович": 28,
-      "Осинин Кирилл Сергеевич": 4,
-      "Померанцев Андрей Сергеевич": 80,
-      "Пономарев Геннадий Викторович": 16,
-      "Чижов Сергей Викторович": 194
+      "gas:candidate-vibid:4364013273300": 40,
+      "gas:candidate-vibid:4364013273638": 23,
+      "gas:candidate-vibid:4364013273534": 10,
+      "gas:candidate-vibid:4364013273005": 28,
+      "gas:candidate-vibid:4364013273451": 4,
+      "gas:candidate-vibid:4364013273330": 80,
+      "gas:candidate-vibid:4364013273602": 16,
+      "gas:candidate-vibid:4364013273379": 194
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000114&tvd=23620001147699&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147699&type=464",
@@ -8917,14 +8917,14 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверьянова Оксана Владимировна": 41,
-      "Измайлова Светлана Викторовна": 70,
-      "Кочетов Сергей Николаевич": 29,
-      "Овсянников Александр Александрович": 58,
-      "Осинин Кирилл Сергеевич": 27,
-      "Померанцев Андрей Сергеевич": 200,
-      "Пономарев Геннадий Викторович": 34,
-      "Чижов Сергей Викторович": 250
+      "gas:candidate-vibid:4364013273300": 41,
+      "gas:candidate-vibid:4364013273638": 70,
+      "gas:candidate-vibid:4364013273534": 29,
+      "gas:candidate-vibid:4364013273005": 58,
+      "gas:candidate-vibid:4364013273451": 27,
+      "gas:candidate-vibid:4364013273330": 200,
+      "gas:candidate-vibid:4364013273602": 34,
+      "gas:candidate-vibid:4364013273379": 250
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000114&tvd=23620001147699&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147699&type=464",
@@ -8975,14 +8975,14 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверьянова Оксана Владимировна": 47,
-      "Измайлова Светлана Викторовна": 49,
-      "Кочетов Сергей Николаевич": 13,
-      "Овсянников Александр Александрович": 51,
-      "Осинин Кирилл Сергеевич": 30,
-      "Померанцев Андрей Сергеевич": 146,
-      "Пономарев Геннадий Викторович": 31,
-      "Чижов Сергей Викторович": 230
+      "gas:candidate-vibid:4364013273300": 47,
+      "gas:candidate-vibid:4364013273638": 49,
+      "gas:candidate-vibid:4364013273534": 13,
+      "gas:candidate-vibid:4364013273005": 51,
+      "gas:candidate-vibid:4364013273451": 30,
+      "gas:candidate-vibid:4364013273330": 146,
+      "gas:candidate-vibid:4364013273602": 31,
+      "gas:candidate-vibid:4364013273379": 230
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000114&tvd=23620001147699&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147699&type=464",
@@ -9033,14 +9033,14 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверьянова Оксана Владимировна": 32,
-      "Измайлова Светлана Викторовна": 37,
-      "Кочетов Сергей Николаевич": 9,
-      "Овсянников Александр Александрович": 61,
-      "Осинин Кирилл Сергеевич": 9,
-      "Померанцев Андрей Сергеевич": 116,
-      "Пономарев Геннадий Викторович": 32,
-      "Чижов Сергей Викторович": 170
+      "gas:candidate-vibid:4364013273300": 32,
+      "gas:candidate-vibid:4364013273638": 37,
+      "gas:candidate-vibid:4364013273534": 9,
+      "gas:candidate-vibid:4364013273005": 61,
+      "gas:candidate-vibid:4364013273451": 9,
+      "gas:candidate-vibid:4364013273330": 116,
+      "gas:candidate-vibid:4364013273602": 32,
+      "gas:candidate-vibid:4364013273379": 170
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000114&tvd=23620001147699&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147699&type=464",
@@ -9091,14 +9091,14 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверьянова Оксана Владимировна": 66,
-      "Измайлова Светлана Викторовна": 60,
-      "Кочетов Сергей Николаевич": 16,
-      "Овсянников Александр Александрович": 83,
-      "Осинин Кирилл Сергеевич": 23,
-      "Померанцев Андрей Сергеевич": 142,
-      "Пономарев Геннадий Викторович": 33,
-      "Чижов Сергей Викторович": 344
+      "gas:candidate-vibid:4364013273300": 66,
+      "gas:candidate-vibid:4364013273638": 60,
+      "gas:candidate-vibid:4364013273534": 16,
+      "gas:candidate-vibid:4364013273005": 83,
+      "gas:candidate-vibid:4364013273451": 23,
+      "gas:candidate-vibid:4364013273330": 142,
+      "gas:candidate-vibid:4364013273602": 33,
+      "gas:candidate-vibid:4364013273379": 344
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000114&tvd=23620001147699&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147699&type=464",
@@ -9149,14 +9149,14 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверьянова Оксана Владимировна": 46,
-      "Измайлова Светлана Викторовна": 57,
-      "Кочетов Сергей Николаевич": 18,
-      "Овсянников Александр Александрович": 53,
-      "Осинин Кирилл Сергеевич": 19,
-      "Померанцев Андрей Сергеевич": 175,
-      "Пономарев Геннадий Викторович": 34,
-      "Чижов Сергей Викторович": 232
+      "gas:candidate-vibid:4364013273300": 46,
+      "gas:candidate-vibid:4364013273638": 57,
+      "gas:candidate-vibid:4364013273534": 18,
+      "gas:candidate-vibid:4364013273005": 53,
+      "gas:candidate-vibid:4364013273451": 19,
+      "gas:candidate-vibid:4364013273330": 175,
+      "gas:candidate-vibid:4364013273602": 34,
+      "gas:candidate-vibid:4364013273379": 232
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000114&tvd=23620001147699&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147699&type=464",
@@ -9207,14 +9207,14 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверьянова Оксана Владимировна": 25,
-      "Измайлова Светлана Викторовна": 19,
-      "Кочетов Сергей Николаевич": 5,
-      "Овсянников Александр Александрович": 27,
-      "Осинин Кирилл Сергеевич": 10,
-      "Померанцев Андрей Сергеевич": 142,
-      "Пономарев Геннадий Викторович": 6,
-      "Чижов Сергей Викторович": 119
+      "gas:candidate-vibid:4364013273300": 25,
+      "gas:candidate-vibid:4364013273638": 19,
+      "gas:candidate-vibid:4364013273534": 5,
+      "gas:candidate-vibid:4364013273005": 27,
+      "gas:candidate-vibid:4364013273451": 10,
+      "gas:candidate-vibid:4364013273330": 142,
+      "gas:candidate-vibid:4364013273602": 6,
+      "gas:candidate-vibid:4364013273379": 119
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000114&tvd=23620001147699&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147699&type=464",
@@ -9265,14 +9265,14 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверьянова Оксана Владимировна": 28,
-      "Измайлова Светлана Викторовна": 33,
-      "Кочетов Сергей Николаевич": 10,
-      "Овсянников Александр Александрович": 30,
-      "Осинин Кирилл Сергеевич": 5,
-      "Померанцев Андрей Сергеевич": 132,
-      "Пономарев Геннадий Викторович": 13,
-      "Чижов Сергей Викторович": 112
+      "gas:candidate-vibid:4364013273300": 28,
+      "gas:candidate-vibid:4364013273638": 33,
+      "gas:candidate-vibid:4364013273534": 10,
+      "gas:candidate-vibid:4364013273005": 30,
+      "gas:candidate-vibid:4364013273451": 5,
+      "gas:candidate-vibid:4364013273330": 132,
+      "gas:candidate-vibid:4364013273602": 13,
+      "gas:candidate-vibid:4364013273379": 112
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000114&tvd=23620001147699&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147699&type=464",
@@ -9323,14 +9323,14 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверьянова Оксана Владимировна": 43,
-      "Измайлова Светлана Викторовна": 67,
-      "Кочетов Сергей Николаевич": 8,
-      "Овсянников Александр Александрович": 41,
-      "Осинин Кирилл Сергеевич": 24,
-      "Померанцев Андрей Сергеевич": 187,
-      "Пономарев Геннадий Викторович": 35,
-      "Чижов Сергей Викторович": 187
+      "gas:candidate-vibid:4364013273300": 43,
+      "gas:candidate-vibid:4364013273638": 67,
+      "gas:candidate-vibid:4364013273534": 8,
+      "gas:candidate-vibid:4364013273005": 41,
+      "gas:candidate-vibid:4364013273451": 24,
+      "gas:candidate-vibid:4364013273330": 187,
+      "gas:candidate-vibid:4364013273602": 35,
+      "gas:candidate-vibid:4364013273379": 187
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000114&tvd=23620001147699&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147699&type=464",
@@ -9381,14 +9381,14 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверьянова Оксана Владимировна": 27,
-      "Измайлова Светлана Викторовна": 66,
-      "Кочетов Сергей Николаевич": 4,
-      "Овсянников Александр Александрович": 43,
-      "Осинин Кирилл Сергеевич": 20,
-      "Померанцев Андрей Сергеевич": 120,
-      "Пономарев Геннадий Викторович": 22,
-      "Чижов Сергей Викторович": 151
+      "gas:candidate-vibid:4364013273300": 27,
+      "gas:candidate-vibid:4364013273638": 66,
+      "gas:candidate-vibid:4364013273534": 4,
+      "gas:candidate-vibid:4364013273005": 43,
+      "gas:candidate-vibid:4364013273451": 20,
+      "gas:candidate-vibid:4364013273330": 120,
+      "gas:candidate-vibid:4364013273602": 22,
+      "gas:candidate-vibid:4364013273379": 151
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000114&tvd=23620001147699&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147699&type=464",
@@ -9439,14 +9439,14 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверьянова Оксана Владимировна": 34,
-      "Измайлова Светлана Викторовна": 73,
-      "Кочетов Сергей Николаевич": 19,
-      "Овсянников Александр Александрович": 51,
-      "Осинин Кирилл Сергеевич": 38,
-      "Померанцев Андрей Сергеевич": 241,
-      "Пономарев Геннадий Викторович": 58,
-      "Чижов Сергей Викторович": 217
+      "gas:candidate-vibid:4364013273300": 34,
+      "gas:candidate-vibid:4364013273638": 73,
+      "gas:candidate-vibid:4364013273534": 19,
+      "gas:candidate-vibid:4364013273005": 51,
+      "gas:candidate-vibid:4364013273451": 38,
+      "gas:candidate-vibid:4364013273330": 241,
+      "gas:candidate-vibid:4364013273602": 58,
+      "gas:candidate-vibid:4364013273379": 217
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000114&tvd=23620001147699&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147699&type=464",
@@ -9497,14 +9497,14 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверьянова Оксана Владимировна": 36,
-      "Измайлова Светлана Викторовна": 57,
-      "Кочетов Сергей Николаевич": 8,
-      "Овсянников Александр Александрович": 57,
-      "Осинин Кирилл Сергеевич": 42,
-      "Померанцев Андрей Сергеевич": 159,
-      "Пономарев Геннадий Викторович": 51,
-      "Чижов Сергей Викторович": 192
+      "gas:candidate-vibid:4364013273300": 36,
+      "gas:candidate-vibid:4364013273638": 57,
+      "gas:candidate-vibid:4364013273534": 8,
+      "gas:candidate-vibid:4364013273005": 57,
+      "gas:candidate-vibid:4364013273451": 42,
+      "gas:candidate-vibid:4364013273330": 159,
+      "gas:candidate-vibid:4364013273602": 51,
+      "gas:candidate-vibid:4364013273379": 192
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000114&tvd=23620001147699&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147699&type=464",
@@ -9555,14 +9555,14 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверьянова Оксана Владимировна": 31,
-      "Измайлова Светлана Викторовна": 41,
-      "Кочетов Сергей Николаевич": 17,
-      "Овсянников Александр Александрович": 41,
-      "Осинин Кирилл Сергеевич": 21,
-      "Померанцев Андрей Сергеевич": 185,
-      "Пономарев Геннадий Викторович": 63,
-      "Чижов Сергей Викторович": 200
+      "gas:candidate-vibid:4364013273300": 31,
+      "gas:candidate-vibid:4364013273638": 41,
+      "gas:candidate-vibid:4364013273534": 17,
+      "gas:candidate-vibid:4364013273005": 41,
+      "gas:candidate-vibid:4364013273451": 21,
+      "gas:candidate-vibid:4364013273330": 185,
+      "gas:candidate-vibid:4364013273602": 63,
+      "gas:candidate-vibid:4364013273379": 200
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000114&tvd=23620001147699&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147699&type=464",
@@ -9613,14 +9613,14 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверьянова Оксана Владимировна": 27,
-      "Измайлова Светлана Викторовна": 44,
-      "Кочетов Сергей Николаевич": 6,
-      "Овсянников Александр Александрович": 44,
-      "Осинин Кирилл Сергеевич": 19,
-      "Померанцев Андрей Сергеевич": 124,
-      "Пономарев Геннадий Викторович": 44,
-      "Чижов Сергей Викторович": 156
+      "gas:candidate-vibid:4364013273300": 27,
+      "gas:candidate-vibid:4364013273638": 44,
+      "gas:candidate-vibid:4364013273534": 6,
+      "gas:candidate-vibid:4364013273005": 44,
+      "gas:candidate-vibid:4364013273451": 19,
+      "gas:candidate-vibid:4364013273330": 124,
+      "gas:candidate-vibid:4364013273602": 44,
+      "gas:candidate-vibid:4364013273379": 156
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000114&tvd=23620001147699&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147699&type=464",
@@ -9671,14 +9671,14 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверьянова Оксана Владимировна": 19,
-      "Измайлова Светлана Викторовна": 42,
-      "Кочетов Сергей Николаевич": 4,
-      "Овсянников Александр Александрович": 33,
-      "Осинин Кирилл Сергеевич": 11,
-      "Померанцев Андрей Сергеевич": 94,
-      "Пономарев Геннадий Викторович": 32,
-      "Чижов Сергей Викторович": 128
+      "gas:candidate-vibid:4364013273300": 19,
+      "gas:candidate-vibid:4364013273638": 42,
+      "gas:candidate-vibid:4364013273534": 4,
+      "gas:candidate-vibid:4364013273005": 33,
+      "gas:candidate-vibid:4364013273451": 11,
+      "gas:candidate-vibid:4364013273330": 94,
+      "gas:candidate-vibid:4364013273602": 32,
+      "gas:candidate-vibid:4364013273379": 128
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000114&tvd=23620001147699&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147699&type=464",
@@ -9729,14 +9729,14 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверьянова Оксана Владимировна": 26,
-      "Измайлова Светлана Викторовна": 39,
-      "Кочетов Сергей Николаевич": 14,
-      "Овсянников Александр Александрович": 63,
-      "Осинин Кирилл Сергеевич": 12,
-      "Померанцев Андрей Сергеевич": 135,
-      "Пономарев Геннадий Викторович": 37,
-      "Чижов Сергей Викторович": 219
+      "gas:candidate-vibid:4364013273300": 26,
+      "gas:candidate-vibid:4364013273638": 39,
+      "gas:candidate-vibid:4364013273534": 14,
+      "gas:candidate-vibid:4364013273005": 63,
+      "gas:candidate-vibid:4364013273451": 12,
+      "gas:candidate-vibid:4364013273330": 135,
+      "gas:candidate-vibid:4364013273602": 37,
+      "gas:candidate-vibid:4364013273379": 219
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000114&tvd=23620001147699&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147699&type=464",
@@ -9787,14 +9787,14 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверьянова Оксана Владимировна": 52,
-      "Измайлова Светлана Викторовна": 102,
-      "Кочетов Сергей Николаевич": 18,
-      "Овсянников Александр Александрович": 51,
-      "Осинин Кирилл Сергеевич": 32,
-      "Померанцев Андрей Сергеевич": 207,
-      "Пономарев Геннадий Викторович": 45,
-      "Чижов Сергей Викторович": 251
+      "gas:candidate-vibid:4364013273300": 52,
+      "gas:candidate-vibid:4364013273638": 102,
+      "gas:candidate-vibid:4364013273534": 18,
+      "gas:candidate-vibid:4364013273005": 51,
+      "gas:candidate-vibid:4364013273451": 32,
+      "gas:candidate-vibid:4364013273330": 207,
+      "gas:candidate-vibid:4364013273602": 45,
+      "gas:candidate-vibid:4364013273379": 251
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000114&tvd=23620001147699&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147699&type=464",
@@ -9845,14 +9845,14 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверьянова Оксана Владимировна": 62,
-      "Измайлова Светлана Викторовна": 103,
-      "Кочетов Сергей Николаевич": 14,
-      "Овсянников Александр Александрович": 60,
-      "Осинин Кирилл Сергеевич": 36,
-      "Померанцев Андрей Сергеевич": 199,
-      "Пономарев Геннадий Викторович": 47,
-      "Чижов Сергей Викторович": 346
+      "gas:candidate-vibid:4364013273300": 62,
+      "gas:candidate-vibid:4364013273638": 103,
+      "gas:candidate-vibid:4364013273534": 14,
+      "gas:candidate-vibid:4364013273005": 60,
+      "gas:candidate-vibid:4364013273451": 36,
+      "gas:candidate-vibid:4364013273330": 199,
+      "gas:candidate-vibid:4364013273602": 47,
+      "gas:candidate-vibid:4364013273379": 346
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000114&tvd=23620001147699&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147699&type=464",
@@ -9903,14 +9903,14 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверьянова Оксана Владимировна": 51,
-      "Измайлова Светлана Викторовна": 88,
-      "Кочетов Сергей Николаевич": 15,
-      "Овсянников Александр Александрович": 71,
-      "Осинин Кирилл Сергеевич": 31,
-      "Померанцев Андрей Сергеевич": 240,
-      "Пономарев Геннадий Викторович": 61,
-      "Чижов Сергей Викторович": 298
+      "gas:candidate-vibid:4364013273300": 51,
+      "gas:candidate-vibid:4364013273638": 88,
+      "gas:candidate-vibid:4364013273534": 15,
+      "gas:candidate-vibid:4364013273005": 71,
+      "gas:candidate-vibid:4364013273451": 31,
+      "gas:candidate-vibid:4364013273330": 240,
+      "gas:candidate-vibid:4364013273602": 61,
+      "gas:candidate-vibid:4364013273379": 298
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000114&tvd=23620001147699&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147699&type=464",
@@ -9961,14 +9961,14 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверьянова Оксана Владимировна": 56,
-      "Измайлова Светлана Викторовна": 88,
-      "Кочетов Сергей Николаевич": 15,
-      "Овсянников Александр Александрович": 66,
-      "Осинин Кирилл Сергеевич": 32,
-      "Померанцев Андрей Сергеевич": 217,
-      "Пономарев Геннадий Викторович": 47,
-      "Чижов Сергей Викторович": 246
+      "gas:candidate-vibid:4364013273300": 56,
+      "gas:candidate-vibid:4364013273638": 88,
+      "gas:candidate-vibid:4364013273534": 15,
+      "gas:candidate-vibid:4364013273005": 66,
+      "gas:candidate-vibid:4364013273451": 32,
+      "gas:candidate-vibid:4364013273330": 217,
+      "gas:candidate-vibid:4364013273602": 47,
+      "gas:candidate-vibid:4364013273379": 246
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000114&tvd=23620001147699&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147699&type=464",
@@ -10019,14 +10019,14 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверьянова Оксана Владимировна": 40,
-      "Измайлова Светлана Викторовна": 44,
-      "Кочетов Сергей Николаевич": 8,
-      "Овсянников Александр Александрович": 34,
-      "Осинин Кирилл Сергеевич": 14,
-      "Померанцев Андрей Сергеевич": 114,
-      "Пономарев Геннадий Викторович": 14,
-      "Чижов Сергей Викторович": 131
+      "gas:candidate-vibid:4364013273300": 40,
+      "gas:candidate-vibid:4364013273638": 44,
+      "gas:candidate-vibid:4364013273534": 8,
+      "gas:candidate-vibid:4364013273005": 34,
+      "gas:candidate-vibid:4364013273451": 14,
+      "gas:candidate-vibid:4364013273330": 114,
+      "gas:candidate-vibid:4364013273602": 14,
+      "gas:candidate-vibid:4364013273379": 131
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000114&tvd=23620001147699&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147699&type=464",
@@ -10077,14 +10077,14 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверьянова Оксана Владимировна": 22,
-      "Измайлова Светлана Викторовна": 35,
-      "Кочетов Сергей Николаевич": 8,
-      "Овсянников Александр Александрович": 35,
-      "Осинин Кирилл Сергеевич": 11,
-      "Померанцев Андрей Сергеевич": 100,
-      "Пономарев Геннадий Викторович": 21,
-      "Чижов Сергей Викторович": 84
+      "gas:candidate-vibid:4364013273300": 22,
+      "gas:candidate-vibid:4364013273638": 35,
+      "gas:candidate-vibid:4364013273534": 8,
+      "gas:candidate-vibid:4364013273005": 35,
+      "gas:candidate-vibid:4364013273451": 11,
+      "gas:candidate-vibid:4364013273330": 100,
+      "gas:candidate-vibid:4364013273602": 21,
+      "gas:candidate-vibid:4364013273379": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000114&tvd=23620001147699&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147699&type=464",
@@ -10135,14 +10135,14 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверьянова Оксана Владимировна": 44,
-      "Измайлова Светлана Викторовна": 74,
-      "Кочетов Сергей Николаевич": 15,
-      "Овсянников Александр Александрович": 50,
-      "Осинин Кирилл Сергеевич": 21,
-      "Померанцев Андрей Сергеевич": 208,
-      "Пономарев Геннадий Викторович": 36,
-      "Чижов Сергей Викторович": 251
+      "gas:candidate-vibid:4364013273300": 44,
+      "gas:candidate-vibid:4364013273638": 74,
+      "gas:candidate-vibid:4364013273534": 15,
+      "gas:candidate-vibid:4364013273005": 50,
+      "gas:candidate-vibid:4364013273451": 21,
+      "gas:candidate-vibid:4364013273330": 208,
+      "gas:candidate-vibid:4364013273602": 36,
+      "gas:candidate-vibid:4364013273379": 251
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000114&tvd=23620001147699&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147699&type=464",
@@ -10193,14 +10193,14 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверьянова Оксана Владимировна": 51,
-      "Измайлова Светлана Викторовна": 84,
-      "Кочетов Сергей Николаевич": 18,
-      "Овсянников Александр Александрович": 66,
-      "Осинин Кирилл Сергеевич": 14,
-      "Померанцев Андрей Сергеевич": 229,
-      "Пономарев Геннадий Викторович": 24,
-      "Чижов Сергей Викторович": 251
+      "gas:candidate-vibid:4364013273300": 51,
+      "gas:candidate-vibid:4364013273638": 84,
+      "gas:candidate-vibid:4364013273534": 18,
+      "gas:candidate-vibid:4364013273005": 66,
+      "gas:candidate-vibid:4364013273451": 14,
+      "gas:candidate-vibid:4364013273330": 229,
+      "gas:candidate-vibid:4364013273602": 24,
+      "gas:candidate-vibid:4364013273379": 251
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000114&tvd=23620001147699&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147699&type=464",
@@ -10251,14 +10251,14 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверьянова Оксана Владимировна": 36,
-      "Измайлова Светлана Викторовна": 53,
-      "Кочетов Сергей Николаевич": 12,
-      "Овсянников Александр Александрович": 42,
-      "Осинин Кирилл Сергеевич": 15,
-      "Померанцев Андрей Сергеевич": 136,
-      "Пономарев Геннадий Викторович": 30,
-      "Чижов Сергей Викторович": 176
+      "gas:candidate-vibid:4364013273300": 36,
+      "gas:candidate-vibid:4364013273638": 53,
+      "gas:candidate-vibid:4364013273534": 12,
+      "gas:candidate-vibid:4364013273005": 42,
+      "gas:candidate-vibid:4364013273451": 15,
+      "gas:candidate-vibid:4364013273330": 136,
+      "gas:candidate-vibid:4364013273602": 30,
+      "gas:candidate-vibid:4364013273379": 176
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000114&tvd=23620001147699&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147699&type=464",
@@ -10309,14 +10309,14 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверьянова Оксана Владимировна": 54,
-      "Измайлова Светлана Викторовна": 85,
-      "Кочетов Сергей Николаевич": 15,
-      "Овсянников Александр Александрович": 70,
-      "Осинин Кирилл Сергеевич": 27,
-      "Померанцев Андрей Сергеевич": 188,
-      "Пономарев Геннадий Викторович": 34,
-      "Чижов Сергей Викторович": 253
+      "gas:candidate-vibid:4364013273300": 54,
+      "gas:candidate-vibid:4364013273638": 85,
+      "gas:candidate-vibid:4364013273534": 15,
+      "gas:candidate-vibid:4364013273005": 70,
+      "gas:candidate-vibid:4364013273451": 27,
+      "gas:candidate-vibid:4364013273330": 188,
+      "gas:candidate-vibid:4364013273602": 34,
+      "gas:candidate-vibid:4364013273379": 253
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000114&tvd=23620001147699&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147699&type=464",
@@ -10367,14 +10367,14 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверьянова Оксана Владимировна": 66,
-      "Измайлова Светлана Викторовна": 65,
-      "Кочетов Сергей Николаевич": 46,
-      "Овсянников Александр Александрович": 202,
-      "Осинин Кирилл Сергеевич": 30,
-      "Померанцев Андрей Сергеевич": 135,
-      "Пономарев Геннадий Викторович": 29,
-      "Чижов Сергей Викторович": 2647
+      "gas:candidate-vibid:4364013273300": 66,
+      "gas:candidate-vibid:4364013273638": 65,
+      "gas:candidate-vibid:4364013273534": 46,
+      "gas:candidate-vibid:4364013273005": 202,
+      "gas:candidate-vibid:4364013273451": 30,
+      "gas:candidate-vibid:4364013273330": 135,
+      "gas:candidate-vibid:4364013273602": 29,
+      "gas:candidate-vibid:4364013273379": 2647
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000114&tvd=23620001147699&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147699&type=464",
@@ -10425,14 +10425,14 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверьянова Оксана Владимировна": 55,
-      "Измайлова Светлана Викторовна": 28,
-      "Кочетов Сергей Николаевич": 33,
-      "Овсянников Александр Александрович": 124,
-      "Осинин Кирилл Сергеевич": 21,
-      "Померанцев Андрей Сергеевич": 39,
-      "Пономарев Геннадий Викторович": 20,
-      "Чижов Сергей Викторович": 1703
+      "gas:candidate-vibid:4364013273300": 55,
+      "gas:candidate-vibid:4364013273638": 28,
+      "gas:candidate-vibid:4364013273534": 33,
+      "gas:candidate-vibid:4364013273005": 124,
+      "gas:candidate-vibid:4364013273451": 21,
+      "gas:candidate-vibid:4364013273330": 39,
+      "gas:candidate-vibid:4364013273602": 20,
+      "gas:candidate-vibid:4364013273379": 1703
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000114&tvd=23620001147699&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147699&type=464",
@@ -10483,14 +10483,14 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверьянова Оксана Владимировна": 46,
-      "Измайлова Светлана Викторовна": 35,
-      "Кочетов Сергей Николаевич": 17,
-      "Овсянников Александр Александрович": 126,
-      "Осинин Кирилл Сергеевич": 17,
-      "Померанцев Андрей Сергеевич": 78,
-      "Пономарев Геннадий Викторович": 16,
-      "Чижов Сергей Викторович": 1468
+      "gas:candidate-vibid:4364013273300": 46,
+      "gas:candidate-vibid:4364013273638": 35,
+      "gas:candidate-vibid:4364013273534": 17,
+      "gas:candidate-vibid:4364013273005": 126,
+      "gas:candidate-vibid:4364013273451": 17,
+      "gas:candidate-vibid:4364013273330": 78,
+      "gas:candidate-vibid:4364013273602": 16,
+      "gas:candidate-vibid:4364013273379": 1468
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000114&tvd=23620001147699&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147699&type=464",
@@ -10541,14 +10541,14 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверьянова Оксана Владимировна": 56,
-      "Измайлова Светлана Викторовна": 70,
-      "Кочетов Сергей Николаевич": 55,
-      "Овсянников Александр Александрович": 156,
-      "Осинин Кирилл Сергеевич": 29,
-      "Померанцев Андрей Сергеевич": 38,
-      "Пономарев Геннадий Викторович": 23,
-      "Чижов Сергей Викторович": 1201
+      "gas:candidate-vibid:4364013273300": 56,
+      "gas:candidate-vibid:4364013273638": 70,
+      "gas:candidate-vibid:4364013273534": 55,
+      "gas:candidate-vibid:4364013273005": 156,
+      "gas:candidate-vibid:4364013273451": 29,
+      "gas:candidate-vibid:4364013273330": 38,
+      "gas:candidate-vibid:4364013273602": 23,
+      "gas:candidate-vibid:4364013273379": 1201
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000114&tvd=23620001147699&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147699&type=464",
@@ -10599,14 +10599,14 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверьянова Оксана Владимировна": 88,
-      "Измайлова Светлана Викторовна": 76,
-      "Кочетов Сергей Николаевич": 51,
-      "Овсянников Александр Александрович": 181,
-      "Осинин Кирилл Сергеевич": 34,
-      "Померанцев Андрей Сергеевич": 89,
-      "Пономарев Геннадий Викторович": 38,
-      "Чижов Сергей Викторович": 2742
+      "gas:candidate-vibid:4364013273300": 88,
+      "gas:candidate-vibid:4364013273638": 76,
+      "gas:candidate-vibid:4364013273534": 51,
+      "gas:candidate-vibid:4364013273005": 181,
+      "gas:candidate-vibid:4364013273451": 34,
+      "gas:candidate-vibid:4364013273330": 89,
+      "gas:candidate-vibid:4364013273602": 38,
+      "gas:candidate-vibid:4364013273379": 2742
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000114&tvd=23620001147699&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147699&type=464",
@@ -10657,14 +10657,14 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аверьянова Оксана Владимировна": 86,
-      "Измайлова Светлана Викторовна": 52,
-      "Кочетов Сергей Николаевич": 54,
-      "Овсянников Александр Александрович": 163,
-      "Осинин Кирилл Сергеевич": 26,
-      "Померанцев Андрей Сергеевич": 95,
-      "Пономарев Геннадий Викторович": 38,
-      "Чижов Сергей Викторович": 2161
+      "gas:candidate-vibid:4364013273300": 86,
+      "gas:candidate-vibid:4364013273638": 52,
+      "gas:candidate-vibid:4364013273534": 54,
+      "gas:candidate-vibid:4364013273005": 163,
+      "gas:candidate-vibid:4364013273451": 26,
+      "gas:candidate-vibid:4364013273330": 95,
+      "gas:candidate-vibid:4364013273602": 38,
+      "gas:candidate-vibid:4364013273379": 2161
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000114&tvd=23620001147699&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147699&type=464",
@@ -10715,16 +10715,16 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боброва Валентина Валерьевна": 7,
-      "Бурцев Олег Николаевич": 6,
-      "Гуллов Илья Николаевич": 7,
-      "Журавлев Алексей Александрович": 181,
-      "Каменев Иван Игоревич": 4,
-      "Ковтун Алексей Вадимович": 2,
-      "Рудаков Сергей Иванович": 19,
-      "Свиридов Андрей Анатольевич": 5,
-      "Харцызов Роман Александрович": 3,
-      "Ходаковский Владислав Валериевич": 1
+      "gas:candidate-vibid:4364010373741": 7,
+      "gas:candidate-vibid:4364010373365": 6,
+      "gas:candidate-vibid:4364010373419": 7,
+      "gas:candidate-vibid:4364010373576": 181,
+      "gas:candidate-vibid:4364010373442": 4,
+      "gas:candidate-vibid:4364010373836": 2,
+      "gas:candidate-vibid:4364010373530": 19,
+      "gas:candidate-vibid:4364010373651": 5,
+      "gas:candidate-vibid:4364010373626": 3,
+      "gas:candidate-vibid:4364010373430": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000115&tvd=23620001147700&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147700&type=464",
@@ -10775,16 +10775,16 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боброва Валентина Валерьевна": 18,
-      "Бурцев Олег Николаевич": 18,
-      "Гуллов Илья Николаевич": 14,
-      "Журавлев Алексей Александрович": 196,
-      "Каменев Иван Игоревич": 4,
-      "Ковтун Алексей Вадимович": 5,
-      "Рудаков Сергей Иванович": 49,
-      "Свиридов Андрей Анатольевич": 5,
-      "Харцызов Роман Александрович": 12,
-      "Ходаковский Владислав Валериевич": 4
+      "gas:candidate-vibid:4364010373741": 18,
+      "gas:candidate-vibid:4364010373365": 18,
+      "gas:candidate-vibid:4364010373419": 14,
+      "gas:candidate-vibid:4364010373576": 196,
+      "gas:candidate-vibid:4364010373442": 4,
+      "gas:candidate-vibid:4364010373836": 5,
+      "gas:candidate-vibid:4364010373530": 49,
+      "gas:candidate-vibid:4364010373651": 5,
+      "gas:candidate-vibid:4364010373626": 12,
+      "gas:candidate-vibid:4364010373430": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000115&tvd=23620001147700&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147700&type=464",
@@ -10835,16 +10835,16 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боброва Валентина Валерьевна": 27,
-      "Бурцев Олег Николаевич": 53,
-      "Гуллов Илья Николаевич": 27,
-      "Журавлев Алексей Александрович": 611,
-      "Каменев Иван Игоревич": 16,
-      "Ковтун Алексей Вадимович": 4,
-      "Рудаков Сергей Иванович": 86,
-      "Свиридов Андрей Анатольевич": 14,
-      "Харцызов Роман Александрович": 13,
-      "Ходаковский Владислав Валериевич": 7
+      "gas:candidate-vibid:4364010373741": 27,
+      "gas:candidate-vibid:4364010373365": 53,
+      "gas:candidate-vibid:4364010373419": 27,
+      "gas:candidate-vibid:4364010373576": 611,
+      "gas:candidate-vibid:4364010373442": 16,
+      "gas:candidate-vibid:4364010373836": 4,
+      "gas:candidate-vibid:4364010373530": 86,
+      "gas:candidate-vibid:4364010373651": 14,
+      "gas:candidate-vibid:4364010373626": 13,
+      "gas:candidate-vibid:4364010373430": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000115&tvd=23620001147700&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147700&type=464",
@@ -10895,16 +10895,16 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боброва Валентина Валерьевна": 13,
-      "Бурцев Олег Николаевич": 20,
-      "Гуллов Илья Николаевич": 4,
-      "Журавлев Алексей Александрович": 249,
-      "Каменев Иван Игоревич": 4,
-      "Ковтун Алексей Вадимович": 3,
-      "Рудаков Сергей Иванович": 64,
-      "Свиридов Андрей Анатольевич": 1,
-      "Харцызов Роман Александрович": 7,
-      "Ходаковский Владислав Валериевич": 2
+      "gas:candidate-vibid:4364010373741": 13,
+      "gas:candidate-vibid:4364010373365": 20,
+      "gas:candidate-vibid:4364010373419": 4,
+      "gas:candidate-vibid:4364010373576": 249,
+      "gas:candidate-vibid:4364010373442": 4,
+      "gas:candidate-vibid:4364010373836": 3,
+      "gas:candidate-vibid:4364010373530": 64,
+      "gas:candidate-vibid:4364010373651": 1,
+      "gas:candidate-vibid:4364010373626": 7,
+      "gas:candidate-vibid:4364010373430": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000115&tvd=23620001147700&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147700&type=464",
@@ -10955,16 +10955,16 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боброва Валентина Валерьевна": 27,
-      "Бурцев Олег Николаевич": 10,
-      "Гуллов Илья Николаевич": 13,
-      "Журавлев Алексей Александрович": 252,
-      "Каменев Иван Игоревич": 5,
-      "Ковтун Алексей Вадимович": 2,
-      "Рудаков Сергей Иванович": 25,
-      "Свиридов Андрей Анатольевич": 3,
-      "Харцызов Роман Александрович": 13,
-      "Ходаковский Владислав Валериевич": 4
+      "gas:candidate-vibid:4364010373741": 27,
+      "gas:candidate-vibid:4364010373365": 10,
+      "gas:candidate-vibid:4364010373419": 13,
+      "gas:candidate-vibid:4364010373576": 252,
+      "gas:candidate-vibid:4364010373442": 5,
+      "gas:candidate-vibid:4364010373836": 2,
+      "gas:candidate-vibid:4364010373530": 25,
+      "gas:candidate-vibid:4364010373651": 3,
+      "gas:candidate-vibid:4364010373626": 13,
+      "gas:candidate-vibid:4364010373430": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000115&tvd=23620001147700&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147700&type=464",
@@ -11015,16 +11015,16 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боброва Валентина Валерьевна": 2,
-      "Бурцев Олег Николаевич": 10,
-      "Гуллов Илья Николаевич": 4,
-      "Журавлев Алексей Александрович": 172,
-      "Каменев Иван Игоревич": 3,
-      "Ковтун Алексей Вадимович": 0,
-      "Рудаков Сергей Иванович": 12,
-      "Свиридов Андрей Анатольевич": 0,
-      "Харцызов Роман Александрович": 0,
-      "Ходаковский Владислав Валериевич": 4
+      "gas:candidate-vibid:4364010373741": 2,
+      "gas:candidate-vibid:4364010373365": 10,
+      "gas:candidate-vibid:4364010373419": 4,
+      "gas:candidate-vibid:4364010373576": 172,
+      "gas:candidate-vibid:4364010373442": 3,
+      "gas:candidate-vibid:4364010373836": 0,
+      "gas:candidate-vibid:4364010373530": 12,
+      "gas:candidate-vibid:4364010373651": 0,
+      "gas:candidate-vibid:4364010373626": 0,
+      "gas:candidate-vibid:4364010373430": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000115&tvd=23620001147700&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147700&type=464",
@@ -11075,16 +11075,16 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боброва Валентина Валерьевна": 7,
-      "Бурцев Олег Николаевич": 10,
-      "Гуллов Илья Николаевич": 5,
-      "Журавлев Алексей Александрович": 65,
-      "Каменев Иван Игоревич": 2,
-      "Ковтун Алексей Вадимович": 2,
-      "Рудаков Сергей Иванович": 7,
-      "Свиридов Андрей Анатольевич": 2,
-      "Харцызов Роман Александрович": 6,
-      "Ходаковский Владислав Валериевич": 1
+      "gas:candidate-vibid:4364010373741": 7,
+      "gas:candidate-vibid:4364010373365": 10,
+      "gas:candidate-vibid:4364010373419": 5,
+      "gas:candidate-vibid:4364010373576": 65,
+      "gas:candidate-vibid:4364010373442": 2,
+      "gas:candidate-vibid:4364010373836": 2,
+      "gas:candidate-vibid:4364010373530": 7,
+      "gas:candidate-vibid:4364010373651": 2,
+      "gas:candidate-vibid:4364010373626": 6,
+      "gas:candidate-vibid:4364010373430": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000115&tvd=23620001147700&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147700&type=464",
@@ -11135,16 +11135,16 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боброва Валентина Валерьевна": 16,
-      "Бурцев Олег Николаевич": 34,
-      "Гуллов Илья Николаевич": 6,
-      "Журавлев Алексей Александрович": 114,
-      "Каменев Иван Игоревич": 4,
-      "Ковтун Алексей Вадимович": 2,
-      "Рудаков Сергей Иванович": 7,
-      "Свиридов Андрей Анатольевич": 2,
-      "Харцызов Роман Александрович": 5,
-      "Ходаковский Владислав Валериевич": 2
+      "gas:candidate-vibid:4364010373741": 16,
+      "gas:candidate-vibid:4364010373365": 34,
+      "gas:candidate-vibid:4364010373419": 6,
+      "gas:candidate-vibid:4364010373576": 114,
+      "gas:candidate-vibid:4364010373442": 4,
+      "gas:candidate-vibid:4364010373836": 2,
+      "gas:candidate-vibid:4364010373530": 7,
+      "gas:candidate-vibid:4364010373651": 2,
+      "gas:candidate-vibid:4364010373626": 5,
+      "gas:candidate-vibid:4364010373430": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000115&tvd=23620001147700&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147700&type=464",
@@ -11195,16 +11195,16 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боброва Валентина Валерьевна": 17,
-      "Бурцев Олег Николаевич": 29,
-      "Гуллов Илья Николаевич": 14,
-      "Журавлев Алексей Александрович": 182,
-      "Каменев Иван Игоревич": 10,
-      "Ковтун Алексей Вадимович": 5,
-      "Рудаков Сергей Иванович": 101,
-      "Свиридов Андрей Анатольевич": 4,
-      "Харцызов Роман Александрович": 17,
-      "Ходаковский Владислав Валериевич": 3
+      "gas:candidate-vibid:4364010373741": 17,
+      "gas:candidate-vibid:4364010373365": 29,
+      "gas:candidate-vibid:4364010373419": 14,
+      "gas:candidate-vibid:4364010373576": 182,
+      "gas:candidate-vibid:4364010373442": 10,
+      "gas:candidate-vibid:4364010373836": 5,
+      "gas:candidate-vibid:4364010373530": 101,
+      "gas:candidate-vibid:4364010373651": 4,
+      "gas:candidate-vibid:4364010373626": 17,
+      "gas:candidate-vibid:4364010373430": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000115&tvd=23620001147700&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147700&type=464",
@@ -11255,16 +11255,16 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боброва Валентина Валерьевна": 2,
-      "Бурцев Олег Николаевич": 11,
-      "Гуллов Илья Николаевич": 3,
-      "Журавлев Алексей Александрович": 93,
-      "Каменев Иван Игоревич": 1,
-      "Ковтун Алексей Вадимович": 1,
-      "Рудаков Сергей Иванович": 24,
-      "Свиридов Андрей Анатольевич": 0,
-      "Харцызов Роман Александрович": 8,
-      "Ходаковский Владислав Валериевич": 0
+      "gas:candidate-vibid:4364010373741": 2,
+      "gas:candidate-vibid:4364010373365": 11,
+      "gas:candidate-vibid:4364010373419": 3,
+      "gas:candidate-vibid:4364010373576": 93,
+      "gas:candidate-vibid:4364010373442": 1,
+      "gas:candidate-vibid:4364010373836": 1,
+      "gas:candidate-vibid:4364010373530": 24,
+      "gas:candidate-vibid:4364010373651": 0,
+      "gas:candidate-vibid:4364010373626": 8,
+      "gas:candidate-vibid:4364010373430": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000115&tvd=23620001147700&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147700&type=464",
@@ -11315,16 +11315,16 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боброва Валентина Валерьевна": 8,
-      "Бурцев Олег Николаевич": 9,
-      "Гуллов Илья Николаевич": 14,
-      "Журавлев Алексей Александрович": 170,
-      "Каменев Иван Игоревич": 3,
-      "Ковтун Алексей Вадимович": 1,
-      "Рудаков Сергей Иванович": 42,
-      "Свиридов Андрей Анатольевич": 1,
-      "Харцызов Роман Александрович": 7,
-      "Ходаковский Владислав Валериевич": 4
+      "gas:candidate-vibid:4364010373741": 8,
+      "gas:candidate-vibid:4364010373365": 9,
+      "gas:candidate-vibid:4364010373419": 14,
+      "gas:candidate-vibid:4364010373576": 170,
+      "gas:candidate-vibid:4364010373442": 3,
+      "gas:candidate-vibid:4364010373836": 1,
+      "gas:candidate-vibid:4364010373530": 42,
+      "gas:candidate-vibid:4364010373651": 1,
+      "gas:candidate-vibid:4364010373626": 7,
+      "gas:candidate-vibid:4364010373430": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000115&tvd=23620001147700&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147700&type=464",
@@ -11375,16 +11375,16 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боброва Валентина Валерьевна": 1,
-      "Бурцев Олег Николаевич": 4,
-      "Гуллов Илья Николаевич": 1,
-      "Журавлев Алексей Александрович": 57,
-      "Каменев Иван Игоревич": 0,
-      "Ковтун Алексей Вадимович": 0,
-      "Рудаков Сергей Иванович": 1,
-      "Свиридов Андрей Анатольевич": 0,
-      "Харцызов Роман Александрович": 0,
-      "Ходаковский Владислав Валериевич": 0
+      "gas:candidate-vibid:4364010373741": 1,
+      "gas:candidate-vibid:4364010373365": 4,
+      "gas:candidate-vibid:4364010373419": 1,
+      "gas:candidate-vibid:4364010373576": 57,
+      "gas:candidate-vibid:4364010373442": 0,
+      "gas:candidate-vibid:4364010373836": 0,
+      "gas:candidate-vibid:4364010373530": 1,
+      "gas:candidate-vibid:4364010373651": 0,
+      "gas:candidate-vibid:4364010373626": 0,
+      "gas:candidate-vibid:4364010373430": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000115&tvd=23620001147700&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147700&type=464",
@@ -11435,16 +11435,16 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боброва Валентина Валерьевна": 1,
-      "Бурцев Олег Николаевич": 1,
-      "Гуллов Илья Николаевич": 3,
-      "Журавлев Алексей Александрович": 99,
-      "Каменев Иван Игоревич": 2,
-      "Ковтун Алексей Вадимович": 1,
-      "Рудаков Сергей Иванович": 2,
-      "Свиридов Андрей Анатольевич": 1,
-      "Харцызов Роман Александрович": 2,
-      "Ходаковский Владислав Валериевич": 1
+      "gas:candidate-vibid:4364010373741": 1,
+      "gas:candidate-vibid:4364010373365": 1,
+      "gas:candidate-vibid:4364010373419": 3,
+      "gas:candidate-vibid:4364010373576": 99,
+      "gas:candidate-vibid:4364010373442": 2,
+      "gas:candidate-vibid:4364010373836": 1,
+      "gas:candidate-vibid:4364010373530": 2,
+      "gas:candidate-vibid:4364010373651": 1,
+      "gas:candidate-vibid:4364010373626": 2,
+      "gas:candidate-vibid:4364010373430": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000115&tvd=23620001147700&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147700&type=464",
@@ -11495,16 +11495,16 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боброва Валентина Валерьевна": 10,
-      "Бурцев Олег Николаевич": 26,
-      "Гуллов Илья Николаевич": 14,
-      "Журавлев Алексей Александрович": 346,
-      "Каменев Иван Игоревич": 6,
-      "Ковтун Алексей Вадимович": 6,
-      "Рудаков Сергей Иванович": 35,
-      "Свиридов Андрей Анатольевич": 3,
-      "Харцызов Роман Александрович": 16,
-      "Ходаковский Владислав Валериевич": 5
+      "gas:candidate-vibid:4364010373741": 10,
+      "gas:candidate-vibid:4364010373365": 26,
+      "gas:candidate-vibid:4364010373419": 14,
+      "gas:candidate-vibid:4364010373576": 346,
+      "gas:candidate-vibid:4364010373442": 6,
+      "gas:candidate-vibid:4364010373836": 6,
+      "gas:candidate-vibid:4364010373530": 35,
+      "gas:candidate-vibid:4364010373651": 3,
+      "gas:candidate-vibid:4364010373626": 16,
+      "gas:candidate-vibid:4364010373430": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000115&tvd=23620001147700&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147700&type=464",
@@ -11555,16 +11555,16 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боброва Валентина Валерьевна": 21,
-      "Бурцев Олег Николаевич": 28,
-      "Гуллов Илья Николаевич": 22,
-      "Журавлев Алексей Александрович": 272,
-      "Каменев Иван Игоревич": 6,
-      "Ковтун Алексей Вадимович": 0,
-      "Рудаков Сергей Иванович": 51,
-      "Свиридов Андрей Анатольевич": 2,
-      "Харцызов Роман Александрович": 9,
-      "Ходаковский Владислав Валериевич": 1
+      "gas:candidate-vibid:4364010373741": 21,
+      "gas:candidate-vibid:4364010373365": 28,
+      "gas:candidate-vibid:4364010373419": 22,
+      "gas:candidate-vibid:4364010373576": 272,
+      "gas:candidate-vibid:4364010373442": 6,
+      "gas:candidate-vibid:4364010373836": 0,
+      "gas:candidate-vibid:4364010373530": 51,
+      "gas:candidate-vibid:4364010373651": 2,
+      "gas:candidate-vibid:4364010373626": 9,
+      "gas:candidate-vibid:4364010373430": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000115&tvd=23620001147700&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147700&type=464",
@@ -11615,16 +11615,16 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боброва Валентина Валерьевна": 31,
-      "Бурцев Олег Николаевич": 71,
-      "Гуллов Илья Николаевич": 36,
-      "Журавлев Алексей Александрович": 213,
-      "Каменев Иван Игоревич": 11,
-      "Ковтун Алексей Вадимович": 7,
-      "Рудаков Сергей Иванович": 116,
-      "Свиридов Андрей Анатольевич": 11,
-      "Харцызов Роман Александрович": 29,
-      "Ходаковский Владислав Валериевич": 8
+      "gas:candidate-vibid:4364010373741": 31,
+      "gas:candidate-vibid:4364010373365": 71,
+      "gas:candidate-vibid:4364010373419": 36,
+      "gas:candidate-vibid:4364010373576": 213,
+      "gas:candidate-vibid:4364010373442": 11,
+      "gas:candidate-vibid:4364010373836": 7,
+      "gas:candidate-vibid:4364010373530": 116,
+      "gas:candidate-vibid:4364010373651": 11,
+      "gas:candidate-vibid:4364010373626": 29,
+      "gas:candidate-vibid:4364010373430": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000115&tvd=23620001147700&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147700&type=464",
@@ -11675,16 +11675,16 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боброва Валентина Валерьевна": 1,
-      "Бурцев Олег Николаевич": 2,
-      "Гуллов Илья Николаевич": 5,
-      "Журавлев Алексей Александрович": 52,
-      "Каменев Иван Игоревич": 0,
-      "Ковтун Алексей Вадимович": 0,
-      "Рудаков Сергей Иванович": 8,
-      "Свиридов Андрей Анатольевич": 1,
-      "Харцызов Роман Александрович": 2,
-      "Ходаковский Владислав Валериевич": 0
+      "gas:candidate-vibid:4364010373741": 1,
+      "gas:candidate-vibid:4364010373365": 2,
+      "gas:candidate-vibid:4364010373419": 5,
+      "gas:candidate-vibid:4364010373576": 52,
+      "gas:candidate-vibid:4364010373442": 0,
+      "gas:candidate-vibid:4364010373836": 0,
+      "gas:candidate-vibid:4364010373530": 8,
+      "gas:candidate-vibid:4364010373651": 1,
+      "gas:candidate-vibid:4364010373626": 2,
+      "gas:candidate-vibid:4364010373430": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000115&tvd=23620001147700&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147700&type=464",
@@ -11735,16 +11735,16 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боброва Валентина Валерьевна": 10,
-      "Бурцев Олег Николаевич": 10,
-      "Гуллов Илья Николаевич": 3,
-      "Журавлев Алексей Александрович": 170,
-      "Каменев Иван Игоревич": 4,
-      "Ковтун Алексей Вадимович": 6,
-      "Рудаков Сергей Иванович": 22,
-      "Свиридов Андрей Анатольевич": 1,
-      "Харцызов Роман Александрович": 5,
-      "Ходаковский Владислав Валериевич": 0
+      "gas:candidate-vibid:4364010373741": 10,
+      "gas:candidate-vibid:4364010373365": 10,
+      "gas:candidate-vibid:4364010373419": 3,
+      "gas:candidate-vibid:4364010373576": 170,
+      "gas:candidate-vibid:4364010373442": 4,
+      "gas:candidate-vibid:4364010373836": 6,
+      "gas:candidate-vibid:4364010373530": 22,
+      "gas:candidate-vibid:4364010373651": 1,
+      "gas:candidate-vibid:4364010373626": 5,
+      "gas:candidate-vibid:4364010373430": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000115&tvd=23620001147700&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147700&type=464",
@@ -11795,16 +11795,16 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боброва Валентина Валерьевна": 14,
-      "Бурцев Олег Николаевич": 28,
-      "Гуллов Илья Николаевич": 20,
-      "Журавлев Алексей Александрович": 181,
-      "Каменев Иван Игоревич": 6,
-      "Ковтун Алексей Вадимович": 0,
-      "Рудаков Сергей Иванович": 52,
-      "Свиридов Андрей Анатольевич": 10,
-      "Харцызов Роман Александрович": 6,
-      "Ходаковский Владислав Валериевич": 4
+      "gas:candidate-vibid:4364010373741": 14,
+      "gas:candidate-vibid:4364010373365": 28,
+      "gas:candidate-vibid:4364010373419": 20,
+      "gas:candidate-vibid:4364010373576": 181,
+      "gas:candidate-vibid:4364010373442": 6,
+      "gas:candidate-vibid:4364010373836": 0,
+      "gas:candidate-vibid:4364010373530": 52,
+      "gas:candidate-vibid:4364010373651": 10,
+      "gas:candidate-vibid:4364010373626": 6,
+      "gas:candidate-vibid:4364010373430": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000115&tvd=23620001147700&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147700&type=464",
@@ -11855,16 +11855,16 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боброва Валентина Валерьевна": 5,
-      "Бурцев Олег Николаевич": 14,
-      "Гуллов Илья Николаевич": 9,
-      "Журавлев Алексей Александрович": 71,
-      "Каменев Иван Игоревич": 2,
-      "Ковтун Алексей Вадимович": 1,
-      "Рудаков Сергей Иванович": 25,
-      "Свиридов Андрей Анатольевич": 2,
-      "Харцызов Роман Александрович": 3,
-      "Ходаковский Владислав Валериевич": 0
+      "gas:candidate-vibid:4364010373741": 5,
+      "gas:candidate-vibid:4364010373365": 14,
+      "gas:candidate-vibid:4364010373419": 9,
+      "gas:candidate-vibid:4364010373576": 71,
+      "gas:candidate-vibid:4364010373442": 2,
+      "gas:candidate-vibid:4364010373836": 1,
+      "gas:candidate-vibid:4364010373530": 25,
+      "gas:candidate-vibid:4364010373651": 2,
+      "gas:candidate-vibid:4364010373626": 3,
+      "gas:candidate-vibid:4364010373430": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000115&tvd=23620001147700&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147700&type=464",
@@ -11915,16 +11915,16 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боброва Валентина Валерьевна": 6,
-      "Бурцев Олег Николаевич": 9,
-      "Гуллов Илья Николаевич": 3,
-      "Журавлев Алексей Александрович": 47,
-      "Каменев Иван Игоревич": 2,
-      "Ковтун Алексей Вадимович": 2,
-      "Рудаков Сергей Иванович": 12,
-      "Свиридов Андрей Анатольевич": 3,
-      "Харцызов Роман Александрович": 3,
-      "Ходаковский Владислав Валериевич": 0
+      "gas:candidate-vibid:4364010373741": 6,
+      "gas:candidate-vibid:4364010373365": 9,
+      "gas:candidate-vibid:4364010373419": 3,
+      "gas:candidate-vibid:4364010373576": 47,
+      "gas:candidate-vibid:4364010373442": 2,
+      "gas:candidate-vibid:4364010373836": 2,
+      "gas:candidate-vibid:4364010373530": 12,
+      "gas:candidate-vibid:4364010373651": 3,
+      "gas:candidate-vibid:4364010373626": 3,
+      "gas:candidate-vibid:4364010373430": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000115&tvd=23620001147700&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147700&type=464",
@@ -11975,16 +11975,16 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боброва Валентина Валерьевна": 17,
-      "Бурцев Олег Николаевич": 42,
-      "Гуллов Илья Николаевич": 14,
-      "Журавлев Алексей Александрович": 371,
-      "Каменев Иван Игоревич": 12,
-      "Ковтун Алексей Вадимович": 3,
-      "Рудаков Сергей Иванович": 41,
-      "Свиридов Андрей Анатольевич": 3,
-      "Харцызов Роман Александрович": 11,
-      "Ходаковский Владислав Валериевич": 6
+      "gas:candidate-vibid:4364010373741": 17,
+      "gas:candidate-vibid:4364010373365": 42,
+      "gas:candidate-vibid:4364010373419": 14,
+      "gas:candidate-vibid:4364010373576": 371,
+      "gas:candidate-vibid:4364010373442": 12,
+      "gas:candidate-vibid:4364010373836": 3,
+      "gas:candidate-vibid:4364010373530": 41,
+      "gas:candidate-vibid:4364010373651": 3,
+      "gas:candidate-vibid:4364010373626": 11,
+      "gas:candidate-vibid:4364010373430": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000115&tvd=23620001147700&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147700&type=464",
@@ -12035,16 +12035,16 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боброва Валентина Валерьевна": 4,
-      "Бурцев Олег Николаевич": 14,
-      "Гуллов Илья Николаевич": 0,
-      "Журавлев Алексей Александрович": 81,
-      "Каменев Иван Игоревич": 4,
-      "Ковтун Алексей Вадимович": 1,
-      "Рудаков Сергей Иванович": 4,
-      "Свиридов Андрей Анатольевич": 0,
-      "Харцызов Роман Александрович": 5,
-      "Ходаковский Владислав Валериевич": 1
+      "gas:candidate-vibid:4364010373741": 4,
+      "gas:candidate-vibid:4364010373365": 14,
+      "gas:candidate-vibid:4364010373419": 0,
+      "gas:candidate-vibid:4364010373576": 81,
+      "gas:candidate-vibid:4364010373442": 4,
+      "gas:candidate-vibid:4364010373836": 1,
+      "gas:candidate-vibid:4364010373530": 4,
+      "gas:candidate-vibid:4364010373651": 0,
+      "gas:candidate-vibid:4364010373626": 5,
+      "gas:candidate-vibid:4364010373430": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000115&tvd=23620001147700&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147700&type=464",
@@ -12095,16 +12095,16 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боброва Валентина Валерьевна": 13,
-      "Бурцев Олег Николаевич": 17,
-      "Гуллов Илья Николаевич": 4,
-      "Журавлев Алексей Александрович": 264,
-      "Каменев Иван Игоревич": 4,
-      "Ковтун Алексей Вадимович": 2,
-      "Рудаков Сергей Иванович": 34,
-      "Свиридов Андрей Анатольевич": 2,
-      "Харцызов Роман Александрович": 8,
-      "Ходаковский Владислав Валериевич": 2
+      "gas:candidate-vibid:4364010373741": 13,
+      "gas:candidate-vibid:4364010373365": 17,
+      "gas:candidate-vibid:4364010373419": 4,
+      "gas:candidate-vibid:4364010373576": 264,
+      "gas:candidate-vibid:4364010373442": 4,
+      "gas:candidate-vibid:4364010373836": 2,
+      "gas:candidate-vibid:4364010373530": 34,
+      "gas:candidate-vibid:4364010373651": 2,
+      "gas:candidate-vibid:4364010373626": 8,
+      "gas:candidate-vibid:4364010373430": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000115&tvd=23620001147700&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147700&type=464",
@@ -12155,16 +12155,16 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боброва Валентина Валерьевна": 8,
-      "Бурцев Олег Николаевич": 14,
-      "Гуллов Илья Николаевич": 9,
-      "Журавлев Алексей Александрович": 176,
-      "Каменев Иван Игоревич": 3,
-      "Ковтун Алексей Вадимович": 1,
-      "Рудаков Сергей Иванович": 24,
-      "Свиридов Андрей Анатольевич": 1,
-      "Харцызов Роман Александрович": 5,
-      "Ходаковский Владислав Валериевич": 3
+      "gas:candidate-vibid:4364010373741": 8,
+      "gas:candidate-vibid:4364010373365": 14,
+      "gas:candidate-vibid:4364010373419": 9,
+      "gas:candidate-vibid:4364010373576": 176,
+      "gas:candidate-vibid:4364010373442": 3,
+      "gas:candidate-vibid:4364010373836": 1,
+      "gas:candidate-vibid:4364010373530": 24,
+      "gas:candidate-vibid:4364010373651": 1,
+      "gas:candidate-vibid:4364010373626": 5,
+      "gas:candidate-vibid:4364010373430": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000115&tvd=23620001147700&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147700&type=464",
@@ -12215,16 +12215,16 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боброва Валентина Валерьевна": 8,
-      "Бурцев Олег Николаевич": 22,
-      "Гуллов Илья Николаевич": 7,
-      "Журавлев Алексей Александрович": 304,
-      "Каменев Иван Игоревич": 2,
-      "Ковтун Алексей Вадимович": 0,
-      "Рудаков Сергей Иванович": 15,
-      "Свиридов Андрей Анатольевич": 3,
-      "Харцызов Роман Александрович": 6,
-      "Ходаковский Владислав Валериевич": 3
+      "gas:candidate-vibid:4364010373741": 8,
+      "gas:candidate-vibid:4364010373365": 22,
+      "gas:candidate-vibid:4364010373419": 7,
+      "gas:candidate-vibid:4364010373576": 304,
+      "gas:candidate-vibid:4364010373442": 2,
+      "gas:candidate-vibid:4364010373836": 0,
+      "gas:candidate-vibid:4364010373530": 15,
+      "gas:candidate-vibid:4364010373651": 3,
+      "gas:candidate-vibid:4364010373626": 6,
+      "gas:candidate-vibid:4364010373430": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000115&tvd=23620001147700&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147700&type=464",
@@ -12275,16 +12275,16 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боброва Валентина Валерьевна": 18,
-      "Бурцев Олег Николаевич": 31,
-      "Гуллов Илья Николаевич": 16,
-      "Журавлев Алексей Александрович": 289,
-      "Каменев Иван Игоревич": 8,
-      "Ковтун Алексей Вадимович": 5,
-      "Рудаков Сергей Иванович": 163,
-      "Свиридов Андрей Анатольевич": 7,
-      "Харцызов Роман Александрович": 43,
-      "Ходаковский Владислав Валериевич": 1
+      "gas:candidate-vibid:4364010373741": 18,
+      "gas:candidate-vibid:4364010373365": 31,
+      "gas:candidate-vibid:4364010373419": 16,
+      "gas:candidate-vibid:4364010373576": 289,
+      "gas:candidate-vibid:4364010373442": 8,
+      "gas:candidate-vibid:4364010373836": 5,
+      "gas:candidate-vibid:4364010373530": 163,
+      "gas:candidate-vibid:4364010373651": 7,
+      "gas:candidate-vibid:4364010373626": 43,
+      "gas:candidate-vibid:4364010373430": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000115&tvd=23620001147700&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147700&type=464",
@@ -12335,16 +12335,16 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боброва Валентина Валерьевна": 55,
-      "Бурцев Олег Николаевич": 65,
-      "Гуллов Илья Николаевич": 19,
-      "Журавлев Алексей Александрович": 346,
-      "Каменев Иван Игоревич": 19,
-      "Ковтун Алексей Вадимович": 13,
-      "Рудаков Сергей Иванович": 96,
-      "Свиридов Андрей Анатольевич": 15,
-      "Харцызов Роман Александрович": 13,
-      "Ходаковский Владислав Валериевич": 14
+      "gas:candidate-vibid:4364010373741": 55,
+      "gas:candidate-vibid:4364010373365": 65,
+      "gas:candidate-vibid:4364010373419": 19,
+      "gas:candidate-vibid:4364010373576": 346,
+      "gas:candidate-vibid:4364010373442": 19,
+      "gas:candidate-vibid:4364010373836": 13,
+      "gas:candidate-vibid:4364010373530": 96,
+      "gas:candidate-vibid:4364010373651": 15,
+      "gas:candidate-vibid:4364010373626": 13,
+      "gas:candidate-vibid:4364010373430": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000115&tvd=23620001147700&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147700&type=464",
@@ -12395,16 +12395,16 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боброва Валентина Валерьевна": 18,
-      "Бурцев Олег Николаевич": 33,
-      "Гуллов Илья Николаевич": 17,
-      "Журавлев Алексей Александрович": 429,
-      "Каменев Иван Игоревич": 11,
-      "Ковтун Алексей Вадимович": 1,
-      "Рудаков Сергей Иванович": 72,
-      "Свиридов Андрей Анатольевич": 1,
-      "Харцызов Роман Александрович": 11,
-      "Ходаковский Владислав Валериевич": 2
+      "gas:candidate-vibid:4364010373741": 18,
+      "gas:candidate-vibid:4364010373365": 33,
+      "gas:candidate-vibid:4364010373419": 17,
+      "gas:candidate-vibid:4364010373576": 429,
+      "gas:candidate-vibid:4364010373442": 11,
+      "gas:candidate-vibid:4364010373836": 1,
+      "gas:candidate-vibid:4364010373530": 72,
+      "gas:candidate-vibid:4364010373651": 1,
+      "gas:candidate-vibid:4364010373626": 11,
+      "gas:candidate-vibid:4364010373430": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000115&tvd=23620001147700&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147700&type=464",
@@ -12455,16 +12455,16 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боброва Валентина Валерьевна": 5,
-      "Бурцев Олег Николаевич": 30,
-      "Гуллов Илья Николаевич": 11,
-      "Журавлев Алексей Александрович": 457,
-      "Каменев Иван Игоревич": 2,
-      "Ковтун Алексей Вадимович": 2,
-      "Рудаков Сергей Иванович": 60,
-      "Свиридов Андрей Анатольевич": 5,
-      "Харцызов Роман Александрович": 20,
-      "Ходаковский Владислав Валериевич": 5
+      "gas:candidate-vibid:4364010373741": 5,
+      "gas:candidate-vibid:4364010373365": 30,
+      "gas:candidate-vibid:4364010373419": 11,
+      "gas:candidate-vibid:4364010373576": 457,
+      "gas:candidate-vibid:4364010373442": 2,
+      "gas:candidate-vibid:4364010373836": 2,
+      "gas:candidate-vibid:4364010373530": 60,
+      "gas:candidate-vibid:4364010373651": 5,
+      "gas:candidate-vibid:4364010373626": 20,
+      "gas:candidate-vibid:4364010373430": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000115&tvd=23620001147700&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147700&type=464",
@@ -12515,16 +12515,16 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боброва Валентина Валерьевна": 22,
-      "Бурцев Олег Николаевич": 61,
-      "Гуллов Илья Николаевич": 17,
-      "Журавлев Алексей Александрович": 337,
-      "Каменев Иван Игоревич": 15,
-      "Ковтун Алексей Вадимович": 6,
-      "Рудаков Сергей Иванович": 167,
-      "Свиридов Андрей Анатольевич": 6,
-      "Харцызов Роман Александрович": 14,
-      "Ходаковский Владислав Валериевич": 5
+      "gas:candidate-vibid:4364010373741": 22,
+      "gas:candidate-vibid:4364010373365": 61,
+      "gas:candidate-vibid:4364010373419": 17,
+      "gas:candidate-vibid:4364010373576": 337,
+      "gas:candidate-vibid:4364010373442": 15,
+      "gas:candidate-vibid:4364010373836": 6,
+      "gas:candidate-vibid:4364010373530": 167,
+      "gas:candidate-vibid:4364010373651": 6,
+      "gas:candidate-vibid:4364010373626": 14,
+      "gas:candidate-vibid:4364010373430": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000115&tvd=23620001147700&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147700&type=464",
@@ -12575,16 +12575,16 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боброва Валентина Валерьевна": 11,
-      "Бурцев Олег Николаевич": 41,
-      "Гуллов Илья Николаевич": 17,
-      "Журавлев Алексей Александрович": 452,
-      "Каменев Иван Игоревич": 5,
-      "Ковтун Алексей Вадимович": 3,
-      "Рудаков Сергей Иванович": 95,
-      "Свиридов Андрей Анатольевич": 6,
-      "Харцызов Роман Александрович": 10,
-      "Ходаковский Владислав Валериевич": 9
+      "gas:candidate-vibid:4364010373741": 11,
+      "gas:candidate-vibid:4364010373365": 41,
+      "gas:candidate-vibid:4364010373419": 17,
+      "gas:candidate-vibid:4364010373576": 452,
+      "gas:candidate-vibid:4364010373442": 5,
+      "gas:candidate-vibid:4364010373836": 3,
+      "gas:candidate-vibid:4364010373530": 95,
+      "gas:candidate-vibid:4364010373651": 6,
+      "gas:candidate-vibid:4364010373626": 10,
+      "gas:candidate-vibid:4364010373430": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000115&tvd=23620001147700&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147700&type=464",
@@ -12635,16 +12635,16 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боброва Валентина Валерьевна": 17,
-      "Бурцев Олег Николаевич": 47,
-      "Гуллов Илья Николаевич": 23,
-      "Журавлев Алексей Александрович": 199,
-      "Каменев Иван Игоревич": 15,
-      "Ковтун Алексей Вадимович": 8,
-      "Рудаков Сергей Иванович": 163,
-      "Свиридов Андрей Анатольевич": 3,
-      "Харцызов Роман Александрович": 25,
-      "Ходаковский Владислав Валериевич": 7
+      "gas:candidate-vibid:4364010373741": 17,
+      "gas:candidate-vibid:4364010373365": 47,
+      "gas:candidate-vibid:4364010373419": 23,
+      "gas:candidate-vibid:4364010373576": 199,
+      "gas:candidate-vibid:4364010373442": 15,
+      "gas:candidate-vibid:4364010373836": 8,
+      "gas:candidate-vibid:4364010373530": 163,
+      "gas:candidate-vibid:4364010373651": 3,
+      "gas:candidate-vibid:4364010373626": 25,
+      "gas:candidate-vibid:4364010373430": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000115&tvd=23620001147700&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147700&type=464",
@@ -12695,16 +12695,16 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боброва Валентина Валерьевна": 26,
-      "Бурцев Олег Николаевич": 35,
-      "Гуллов Илья Николаевич": 18,
-      "Журавлев Алексей Александрович": 527,
-      "Каменев Иван Игоревич": 9,
-      "Ковтун Алексей Вадимович": 5,
-      "Рудаков Сергей Иванович": 193,
-      "Свиридов Андрей Анатольевич": 5,
-      "Харцызов Роман Александрович": 16,
-      "Ходаковский Владислав Валериевич": 4
+      "gas:candidate-vibid:4364010373741": 26,
+      "gas:candidate-vibid:4364010373365": 35,
+      "gas:candidate-vibid:4364010373419": 18,
+      "gas:candidate-vibid:4364010373576": 527,
+      "gas:candidate-vibid:4364010373442": 9,
+      "gas:candidate-vibid:4364010373836": 5,
+      "gas:candidate-vibid:4364010373530": 193,
+      "gas:candidate-vibid:4364010373651": 5,
+      "gas:candidate-vibid:4364010373626": 16,
+      "gas:candidate-vibid:4364010373430": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000115&tvd=23620001147700&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147700&type=464",
@@ -12755,16 +12755,16 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боброва Валентина Валерьевна": 23,
-      "Бурцев Олег Николаевич": 63,
-      "Гуллов Илья Николаевич": 26,
-      "Журавлев Алексей Александрович": 239,
-      "Каменев Иван Игоревич": 7,
-      "Ковтун Алексей Вадимович": 7,
-      "Рудаков Сергей Иванович": 91,
-      "Свиридов Андрей Анатольевич": 7,
-      "Харцызов Роман Александрович": 17,
-      "Ходаковский Владислав Валериевич": 7
+      "gas:candidate-vibid:4364010373741": 23,
+      "gas:candidate-vibid:4364010373365": 63,
+      "gas:candidate-vibid:4364010373419": 26,
+      "gas:candidate-vibid:4364010373576": 239,
+      "gas:candidate-vibid:4364010373442": 7,
+      "gas:candidate-vibid:4364010373836": 7,
+      "gas:candidate-vibid:4364010373530": 91,
+      "gas:candidate-vibid:4364010373651": 7,
+      "gas:candidate-vibid:4364010373626": 17,
+      "gas:candidate-vibid:4364010373430": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000115&tvd=23620001147700&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147700&type=464",
@@ -12815,16 +12815,16 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боброва Валентина Валерьевна": 11,
-      "Бурцев Олег Николаевич": 32,
-      "Гуллов Илья Николаевич": 9,
-      "Журавлев Алексей Александрович": 156,
-      "Каменев Иван Игоревич": 10,
-      "Ковтун Алексей Вадимович": 7,
-      "Рудаков Сергей Иванович": 25,
-      "Свиридов Андрей Анатольевич": 1,
-      "Харцызов Роман Александрович": 5,
-      "Ходаковский Владислав Валериевич": 3
+      "gas:candidate-vibid:4364010373741": 11,
+      "gas:candidate-vibid:4364010373365": 32,
+      "gas:candidate-vibid:4364010373419": 9,
+      "gas:candidate-vibid:4364010373576": 156,
+      "gas:candidate-vibid:4364010373442": 10,
+      "gas:candidate-vibid:4364010373836": 7,
+      "gas:candidate-vibid:4364010373530": 25,
+      "gas:candidate-vibid:4364010373651": 1,
+      "gas:candidate-vibid:4364010373626": 5,
+      "gas:candidate-vibid:4364010373430": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000115&tvd=23620001147700&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147700&type=464",
@@ -12875,16 +12875,16 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боброва Валентина Валерьевна": 18,
-      "Бурцев Олег Николаевич": 32,
-      "Гуллов Илья Николаевич": 6,
-      "Журавлев Алексей Александрович": 262,
-      "Каменев Иван Игоревич": 5,
-      "Ковтун Алексей Вадимович": 4,
-      "Рудаков Сергей Иванович": 114,
-      "Свиридов Андрей Анатольевич": 4,
-      "Харцызов Роман Александрович": 7,
-      "Ходаковский Владислав Валериевич": 2
+      "gas:candidate-vibid:4364010373741": 18,
+      "gas:candidate-vibid:4364010373365": 32,
+      "gas:candidate-vibid:4364010373419": 6,
+      "gas:candidate-vibid:4364010373576": 262,
+      "gas:candidate-vibid:4364010373442": 5,
+      "gas:candidate-vibid:4364010373836": 4,
+      "gas:candidate-vibid:4364010373530": 114,
+      "gas:candidate-vibid:4364010373651": 4,
+      "gas:candidate-vibid:4364010373626": 7,
+      "gas:candidate-vibid:4364010373430": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000115&tvd=23620001147700&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147700&type=464",
@@ -12935,16 +12935,16 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боброва Валентина Валерьевна": 18,
-      "Бурцев Олег Николаевич": 32,
-      "Гуллов Илья Николаевич": 16,
-      "Журавлев Алексей Александрович": 133,
-      "Каменев Иван Игоревич": 2,
-      "Ковтун Алексей Вадимович": 2,
-      "Рудаков Сергей Иванович": 38,
-      "Свиридов Андрей Анатольевич": 2,
-      "Харцызов Роман Александрович": 7,
-      "Ходаковский Владислав Валериевич": 2
+      "gas:candidate-vibid:4364010373741": 18,
+      "gas:candidate-vibid:4364010373365": 32,
+      "gas:candidate-vibid:4364010373419": 16,
+      "gas:candidate-vibid:4364010373576": 133,
+      "gas:candidate-vibid:4364010373442": 2,
+      "gas:candidate-vibid:4364010373836": 2,
+      "gas:candidate-vibid:4364010373530": 38,
+      "gas:candidate-vibid:4364010373651": 2,
+      "gas:candidate-vibid:4364010373626": 7,
+      "gas:candidate-vibid:4364010373430": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000115&tvd=23620001147700&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147700&type=464",
@@ -12995,16 +12995,16 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боброва Валентина Валерьевна": 25,
-      "Бурцев Олег Николаевич": 50,
-      "Гуллов Илья Николаевич": 20,
-      "Журавлев Алексей Александрович": 200,
-      "Каменев Иван Игоревич": 11,
-      "Ковтун Алексей Вадимович": 1,
-      "Рудаков Сергей Иванович": 92,
-      "Свиридов Андрей Анатольевич": 5,
-      "Харцызов Роман Александрович": 15,
-      "Ходаковский Владислав Валериевич": 2
+      "gas:candidate-vibid:4364010373741": 25,
+      "gas:candidate-vibid:4364010373365": 50,
+      "gas:candidate-vibid:4364010373419": 20,
+      "gas:candidate-vibid:4364010373576": 200,
+      "gas:candidate-vibid:4364010373442": 11,
+      "gas:candidate-vibid:4364010373836": 1,
+      "gas:candidate-vibid:4364010373530": 92,
+      "gas:candidate-vibid:4364010373651": 5,
+      "gas:candidate-vibid:4364010373626": 15,
+      "gas:candidate-vibid:4364010373430": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000115&tvd=23620001147700&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147700&type=464",
@@ -13055,16 +13055,16 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боброва Валентина Валерьевна": 25,
-      "Бурцев Олег Николаевич": 50,
-      "Гуллов Илья Николаевич": 24,
-      "Журавлев Алексей Александрович": 318,
-      "Каменев Иван Игоревич": 5,
-      "Ковтун Алексей Вадимович": 5,
-      "Рудаков Сергей Иванович": 112,
-      "Свиридов Андрей Анатольевич": 4,
-      "Харцызов Роман Александрович": 7,
-      "Ходаковский Владислав Валериевич": 8
+      "gas:candidate-vibid:4364010373741": 25,
+      "gas:candidate-vibid:4364010373365": 50,
+      "gas:candidate-vibid:4364010373419": 24,
+      "gas:candidate-vibid:4364010373576": 318,
+      "gas:candidate-vibid:4364010373442": 5,
+      "gas:candidate-vibid:4364010373836": 5,
+      "gas:candidate-vibid:4364010373530": 112,
+      "gas:candidate-vibid:4364010373651": 4,
+      "gas:candidate-vibid:4364010373626": 7,
+      "gas:candidate-vibid:4364010373430": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000115&tvd=23620001147700&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147700&type=464",
@@ -13115,16 +13115,16 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боброва Валентина Валерьевна": 9,
-      "Бурцев Олег Николаевич": 15,
-      "Гуллов Илья Николаевич": 6,
-      "Журавлев Алексей Александрович": 319,
-      "Каменев Иван Игоревич": 4,
-      "Ковтун Алексей Вадимович": 4,
-      "Рудаков Сергей Иванович": 34,
-      "Свиридов Андрей Анатольевич": 4,
-      "Харцызов Роман Александрович": 7,
-      "Ходаковский Владислав Валериевич": 4
+      "gas:candidate-vibid:4364010373741": 9,
+      "gas:candidate-vibid:4364010373365": 15,
+      "gas:candidate-vibid:4364010373419": 6,
+      "gas:candidate-vibid:4364010373576": 319,
+      "gas:candidate-vibid:4364010373442": 4,
+      "gas:candidate-vibid:4364010373836": 4,
+      "gas:candidate-vibid:4364010373530": 34,
+      "gas:candidate-vibid:4364010373651": 4,
+      "gas:candidate-vibid:4364010373626": 7,
+      "gas:candidate-vibid:4364010373430": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000115&tvd=23620001147700&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147700&type=464",
@@ -13175,16 +13175,16 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боброва Валентина Валерьевна": 10,
-      "Бурцев Олег Николаевич": 40,
-      "Гуллов Илья Николаевич": 14,
-      "Журавлев Алексей Александрович": 111,
-      "Каменев Иван Игоревич": 11,
-      "Ковтун Алексей Вадимович": 5,
-      "Рудаков Сергей Иванович": 49,
-      "Свиридов Андрей Анатольевич": 0,
-      "Харцызов Роман Александрович": 10,
-      "Ходаковский Владислав Валериевич": 1
+      "gas:candidate-vibid:4364010373741": 10,
+      "gas:candidate-vibid:4364010373365": 40,
+      "gas:candidate-vibid:4364010373419": 14,
+      "gas:candidate-vibid:4364010373576": 111,
+      "gas:candidate-vibid:4364010373442": 11,
+      "gas:candidate-vibid:4364010373836": 5,
+      "gas:candidate-vibid:4364010373530": 49,
+      "gas:candidate-vibid:4364010373651": 0,
+      "gas:candidate-vibid:4364010373626": 10,
+      "gas:candidate-vibid:4364010373430": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000115&tvd=23620001147700&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147700&type=464",
@@ -13235,16 +13235,16 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боброва Валентина Валерьевна": 12,
-      "Бурцев Олег Николаевич": 19,
-      "Гуллов Илья Николаевич": 11,
-      "Журавлев Алексей Александрович": 269,
-      "Каменев Иван Игоревич": 5,
-      "Ковтун Алексей Вадимович": 2,
-      "Рудаков Сергей Иванович": 58,
-      "Свиридов Андрей Анатольевич": 4,
-      "Харцызов Роман Александрович": 4,
-      "Ходаковский Владислав Валериевич": 0
+      "gas:candidate-vibid:4364010373741": 12,
+      "gas:candidate-vibid:4364010373365": 19,
+      "gas:candidate-vibid:4364010373419": 11,
+      "gas:candidate-vibid:4364010373576": 269,
+      "gas:candidate-vibid:4364010373442": 5,
+      "gas:candidate-vibid:4364010373836": 2,
+      "gas:candidate-vibid:4364010373530": 58,
+      "gas:candidate-vibid:4364010373651": 4,
+      "gas:candidate-vibid:4364010373626": 4,
+      "gas:candidate-vibid:4364010373430": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000115&tvd=23620001147701&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147701&type=464",
@@ -13295,16 +13295,16 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боброва Валентина Валерьевна": 3,
-      "Бурцев Олег Николаевич": 21,
-      "Гуллов Илья Николаевич": 8,
-      "Журавлев Алексей Александрович": 354,
-      "Каменев Иван Игоревич": 2,
-      "Ковтун Алексей Вадимович": 9,
-      "Рудаков Сергей Иванович": 43,
-      "Свиридов Андрей Анатольевич": 3,
-      "Харцызов Роман Александрович": 3,
-      "Ходаковский Владислав Валериевич": 3
+      "gas:candidate-vibid:4364010373741": 3,
+      "gas:candidate-vibid:4364010373365": 21,
+      "gas:candidate-vibid:4364010373419": 8,
+      "gas:candidate-vibid:4364010373576": 354,
+      "gas:candidate-vibid:4364010373442": 2,
+      "gas:candidate-vibid:4364010373836": 9,
+      "gas:candidate-vibid:4364010373530": 43,
+      "gas:candidate-vibid:4364010373651": 3,
+      "gas:candidate-vibid:4364010373626": 3,
+      "gas:candidate-vibid:4364010373430": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000115&tvd=23620001147701&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147701&type=464",
@@ -13355,16 +13355,16 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боброва Валентина Валерьевна": 4,
-      "Бурцев Олег Николаевич": 16,
-      "Гуллов Илья Николаевич": 11,
-      "Журавлев Алексей Александрович": 82,
-      "Каменев Иван Игоревич": 6,
-      "Ковтун Алексей Вадимович": 0,
-      "Рудаков Сергей Иванович": 63,
-      "Свиридов Андрей Анатольевич": 6,
-      "Харцызов Роман Александрович": 5,
-      "Ходаковский Владислав Валериевич": 6
+      "gas:candidate-vibid:4364010373741": 4,
+      "gas:candidate-vibid:4364010373365": 16,
+      "gas:candidate-vibid:4364010373419": 11,
+      "gas:candidate-vibid:4364010373576": 82,
+      "gas:candidate-vibid:4364010373442": 6,
+      "gas:candidate-vibid:4364010373836": 0,
+      "gas:candidate-vibid:4364010373530": 63,
+      "gas:candidate-vibid:4364010373651": 6,
+      "gas:candidate-vibid:4364010373626": 5,
+      "gas:candidate-vibid:4364010373430": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000115&tvd=23620001147701&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147701&type=464",
@@ -13415,16 +13415,16 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боброва Валентина Валерьевна": 3,
-      "Бурцев Олег Николаевич": 3,
-      "Гуллов Илья Николаевич": 1,
-      "Журавлев Алексей Александрович": 110,
-      "Каменев Иван Игоревич": 3,
-      "Ковтун Алексей Вадимович": 5,
-      "Рудаков Сергей Иванович": 10,
-      "Свиридов Андрей Анатольевич": 1,
-      "Харцызов Роман Александрович": 4,
-      "Ходаковский Владислав Валериевич": 0
+      "gas:candidate-vibid:4364010373741": 3,
+      "gas:candidate-vibid:4364010373365": 3,
+      "gas:candidate-vibid:4364010373419": 1,
+      "gas:candidate-vibid:4364010373576": 110,
+      "gas:candidate-vibid:4364010373442": 3,
+      "gas:candidate-vibid:4364010373836": 5,
+      "gas:candidate-vibid:4364010373530": 10,
+      "gas:candidate-vibid:4364010373651": 1,
+      "gas:candidate-vibid:4364010373626": 4,
+      "gas:candidate-vibid:4364010373430": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000115&tvd=23620001147701&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147701&type=464",
@@ -13475,16 +13475,16 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боброва Валентина Валерьевна": 20,
-      "Бурцев Олег Николаевич": 26,
-      "Гуллов Илья Николаевич": 20,
-      "Журавлев Алексей Александрович": 441,
-      "Каменев Иван Игоревич": 5,
-      "Ковтун Алексей Вадимович": 6,
-      "Рудаков Сергей Иванович": 69,
-      "Свиридов Андрей Анатольевич": 6,
-      "Харцызов Роман Александрович": 12,
-      "Ходаковский Владислав Валериевич": 3
+      "gas:candidate-vibid:4364010373741": 20,
+      "gas:candidate-vibid:4364010373365": 26,
+      "gas:candidate-vibid:4364010373419": 20,
+      "gas:candidate-vibid:4364010373576": 441,
+      "gas:candidate-vibid:4364010373442": 5,
+      "gas:candidate-vibid:4364010373836": 6,
+      "gas:candidate-vibid:4364010373530": 69,
+      "gas:candidate-vibid:4364010373651": 6,
+      "gas:candidate-vibid:4364010373626": 12,
+      "gas:candidate-vibid:4364010373430": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000115&tvd=23620001147701&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147701&type=464",
@@ -13535,16 +13535,16 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боброва Валентина Валерьевна": 20,
-      "Бурцев Олег Николаевич": 31,
-      "Гуллов Илья Николаевич": 23,
-      "Журавлев Алексей Александрович": 553,
-      "Каменев Иван Игоревич": 9,
-      "Ковтун Алексей Вадимович": 18,
-      "Рудаков Сергей Иванович": 196,
-      "Свиридов Андрей Анатольевич": 9,
-      "Харцызов Роман Александрович": 18,
-      "Ходаковский Владислав Валериевич": 4
+      "gas:candidate-vibid:4364010373741": 20,
+      "gas:candidate-vibid:4364010373365": 31,
+      "gas:candidate-vibid:4364010373419": 23,
+      "gas:candidate-vibid:4364010373576": 553,
+      "gas:candidate-vibid:4364010373442": 9,
+      "gas:candidate-vibid:4364010373836": 18,
+      "gas:candidate-vibid:4364010373530": 196,
+      "gas:candidate-vibid:4364010373651": 9,
+      "gas:candidate-vibid:4364010373626": 18,
+      "gas:candidate-vibid:4364010373430": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000115&tvd=23620001147701&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147701&type=464",
@@ -13595,16 +13595,16 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боброва Валентина Валерьевна": 7,
-      "Бурцев Олег Николаевич": 13,
-      "Гуллов Илья Николаевич": 6,
-      "Журавлев Алексей Александрович": 56,
-      "Каменев Иван Игоревич": 0,
-      "Ковтун Алексей Вадимович": 3,
-      "Рудаков Сергей Иванович": 9,
-      "Свиридов Андрей Анатольевич": 5,
-      "Харцызов Роман Александрович": 11,
-      "Ходаковский Владислав Валериевич": 2
+      "gas:candidate-vibid:4364010373741": 7,
+      "gas:candidate-vibid:4364010373365": 13,
+      "gas:candidate-vibid:4364010373419": 6,
+      "gas:candidate-vibid:4364010373576": 56,
+      "gas:candidate-vibid:4364010373442": 0,
+      "gas:candidate-vibid:4364010373836": 3,
+      "gas:candidate-vibid:4364010373530": 9,
+      "gas:candidate-vibid:4364010373651": 5,
+      "gas:candidate-vibid:4364010373626": 11,
+      "gas:candidate-vibid:4364010373430": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000115&tvd=23620001147701&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147701&type=464",
@@ -13655,16 +13655,16 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боброва Валентина Валерьевна": 48,
-      "Бурцев Олег Николаевич": 17,
-      "Гуллов Илья Николаевич": 10,
-      "Журавлев Алексей Александрович": 241,
-      "Каменев Иван Игоревич": 3,
-      "Ковтун Алексей Вадимович": 5,
-      "Рудаков Сергей Иванович": 22,
-      "Свиридов Андрей Анатольевич": 11,
-      "Харцызов Роман Александрович": 14,
-      "Ходаковский Владислав Валериевич": 7
+      "gas:candidate-vibid:4364010373741": 48,
+      "gas:candidate-vibid:4364010373365": 17,
+      "gas:candidate-vibid:4364010373419": 10,
+      "gas:candidate-vibid:4364010373576": 241,
+      "gas:candidate-vibid:4364010373442": 3,
+      "gas:candidate-vibid:4364010373836": 5,
+      "gas:candidate-vibid:4364010373530": 22,
+      "gas:candidate-vibid:4364010373651": 11,
+      "gas:candidate-vibid:4364010373626": 14,
+      "gas:candidate-vibid:4364010373430": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000115&tvd=23620001147701&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147701&type=464",
@@ -13715,16 +13715,16 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боброва Валентина Валерьевна": 1,
-      "Бурцев Олег Николаевич": 7,
-      "Гуллов Илья Николаевич": 2,
-      "Журавлев Алексей Александрович": 150,
-      "Каменев Иван Игоревич": 1,
-      "Ковтун Алексей Вадимович": 1,
-      "Рудаков Сергей Иванович": 10,
-      "Свиридов Андрей Анатольевич": 1,
-      "Харцызов Роман Александрович": 2,
-      "Ходаковский Владислав Валериевич": 0
+      "gas:candidate-vibid:4364010373741": 1,
+      "gas:candidate-vibid:4364010373365": 7,
+      "gas:candidate-vibid:4364010373419": 2,
+      "gas:candidate-vibid:4364010373576": 150,
+      "gas:candidate-vibid:4364010373442": 1,
+      "gas:candidate-vibid:4364010373836": 1,
+      "gas:candidate-vibid:4364010373530": 10,
+      "gas:candidate-vibid:4364010373651": 1,
+      "gas:candidate-vibid:4364010373626": 2,
+      "gas:candidate-vibid:4364010373430": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000115&tvd=23620001147701&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147701&type=464",
@@ -13775,16 +13775,16 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боброва Валентина Валерьевна": 0,
-      "Бурцев Олег Николаевич": 5,
-      "Гуллов Илья Николаевич": 1,
-      "Журавлев Алексей Александрович": 71,
-      "Каменев Иван Игоревич": 1,
-      "Ковтун Алексей Вадимович": 0,
-      "Рудаков Сергей Иванович": 13,
-      "Свиридов Андрей Анатольевич": 2,
-      "Харцызов Роман Александрович": 4,
-      "Ходаковский Владислав Валериевич": 0
+      "gas:candidate-vibid:4364010373741": 0,
+      "gas:candidate-vibid:4364010373365": 5,
+      "gas:candidate-vibid:4364010373419": 1,
+      "gas:candidate-vibid:4364010373576": 71,
+      "gas:candidate-vibid:4364010373442": 1,
+      "gas:candidate-vibid:4364010373836": 0,
+      "gas:candidate-vibid:4364010373530": 13,
+      "gas:candidate-vibid:4364010373651": 2,
+      "gas:candidate-vibid:4364010373626": 4,
+      "gas:candidate-vibid:4364010373430": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000115&tvd=23620001147701&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147701&type=464",
@@ -13835,16 +13835,16 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боброва Валентина Валерьевна": 21,
-      "Бурцев Олег Николаевич": 44,
-      "Гуллов Илья Николаевич": 26,
-      "Журавлев Алексей Александрович": 631,
-      "Каменев Иван Игоревич": 5,
-      "Ковтун Алексей Вадимович": 6,
-      "Рудаков Сергей Иванович": 101,
-      "Свиридов Андрей Анатольевич": 7,
-      "Харцызов Роман Александрович": 16,
-      "Ходаковский Владислав Валериевич": 30
+      "gas:candidate-vibid:4364010373741": 21,
+      "gas:candidate-vibid:4364010373365": 44,
+      "gas:candidate-vibid:4364010373419": 26,
+      "gas:candidate-vibid:4364010373576": 631,
+      "gas:candidate-vibid:4364010373442": 5,
+      "gas:candidate-vibid:4364010373836": 6,
+      "gas:candidate-vibid:4364010373530": 101,
+      "gas:candidate-vibid:4364010373651": 7,
+      "gas:candidate-vibid:4364010373626": 16,
+      "gas:candidate-vibid:4364010373430": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000115&tvd=23620001147701&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147701&type=464",
@@ -13895,16 +13895,16 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боброва Валентина Валерьевна": 5,
-      "Бурцев Олег Николаевич": 29,
-      "Гуллов Илья Николаевич": 12,
-      "Журавлев Алексей Александрович": 492,
-      "Каменев Иван Игоревич": 5,
-      "Ковтун Алексей Вадимович": 6,
-      "Рудаков Сергей Иванович": 64,
-      "Свиридов Андрей Анатольевич": 4,
-      "Харцызов Роман Александрович": 9,
-      "Ходаковский Владислав Валериевич": 3
+      "gas:candidate-vibid:4364010373741": 5,
+      "gas:candidate-vibid:4364010373365": 29,
+      "gas:candidate-vibid:4364010373419": 12,
+      "gas:candidate-vibid:4364010373576": 492,
+      "gas:candidate-vibid:4364010373442": 5,
+      "gas:candidate-vibid:4364010373836": 6,
+      "gas:candidate-vibid:4364010373530": 64,
+      "gas:candidate-vibid:4364010373651": 4,
+      "gas:candidate-vibid:4364010373626": 9,
+      "gas:candidate-vibid:4364010373430": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000115&tvd=23620001147701&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147701&type=464",
@@ -13955,16 +13955,16 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боброва Валентина Валерьевна": 33,
-      "Бурцев Олег Николаевич": 29,
-      "Гуллов Илья Николаевич": 16,
-      "Журавлев Алексей Александрович": 577,
-      "Каменев Иван Игоревич": 11,
-      "Ковтун Алексей Вадимович": 17,
-      "Рудаков Сергей Иванович": 58,
-      "Свиридов Андрей Анатольевич": 21,
-      "Харцызов Роман Александрович": 18,
-      "Ходаковский Владислав Валериевич": 14
+      "gas:candidate-vibid:4364010373741": 33,
+      "gas:candidate-vibid:4364010373365": 29,
+      "gas:candidate-vibid:4364010373419": 16,
+      "gas:candidate-vibid:4364010373576": 577,
+      "gas:candidate-vibid:4364010373442": 11,
+      "gas:candidate-vibid:4364010373836": 17,
+      "gas:candidate-vibid:4364010373530": 58,
+      "gas:candidate-vibid:4364010373651": 21,
+      "gas:candidate-vibid:4364010373626": 18,
+      "gas:candidate-vibid:4364010373430": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000115&tvd=23620001147701&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147701&type=464",
@@ -14015,16 +14015,16 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боброва Валентина Валерьевна": 3,
-      "Бурцев Олег Николаевич": 2,
-      "Гуллов Илья Николаевич": 3,
-      "Журавлев Алексей Александрович": 76,
-      "Каменев Иван Игоревич": 2,
-      "Ковтун Алексей Вадимович": 2,
-      "Рудаков Сергей Иванович": 6,
-      "Свиридов Андрей Анатольевич": 1,
-      "Харцызов Роман Александрович": 2,
-      "Ходаковский Владислав Валериевич": 1
+      "gas:candidate-vibid:4364010373741": 3,
+      "gas:candidate-vibid:4364010373365": 2,
+      "gas:candidate-vibid:4364010373419": 3,
+      "gas:candidate-vibid:4364010373576": 76,
+      "gas:candidate-vibid:4364010373442": 2,
+      "gas:candidate-vibid:4364010373836": 2,
+      "gas:candidate-vibid:4364010373530": 6,
+      "gas:candidate-vibid:4364010373651": 1,
+      "gas:candidate-vibid:4364010373626": 2,
+      "gas:candidate-vibid:4364010373430": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000115&tvd=23620001147701&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147701&type=464",
@@ -14075,16 +14075,16 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боброва Валентина Валерьевна": 9,
-      "Бурцев Олег Николаевич": 38,
-      "Гуллов Илья Николаевич": 14,
-      "Журавлев Алексей Александрович": 303,
-      "Каменев Иван Игоревич": 1,
-      "Ковтун Алексей Вадимович": 6,
-      "Рудаков Сергей Иванович": 64,
-      "Свиридов Андрей Анатольевич": 4,
-      "Харцызов Роман Александрович": 7,
-      "Ходаковский Владислав Валериевич": 3
+      "gas:candidate-vibid:4364010373741": 9,
+      "gas:candidate-vibid:4364010373365": 38,
+      "gas:candidate-vibid:4364010373419": 14,
+      "gas:candidate-vibid:4364010373576": 303,
+      "gas:candidate-vibid:4364010373442": 1,
+      "gas:candidate-vibid:4364010373836": 6,
+      "gas:candidate-vibid:4364010373530": 64,
+      "gas:candidate-vibid:4364010373651": 4,
+      "gas:candidate-vibid:4364010373626": 7,
+      "gas:candidate-vibid:4364010373430": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000115&tvd=23620001147701&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147701&type=464",
@@ -14135,16 +14135,16 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боброва Валентина Валерьевна": 21,
-      "Бурцев Олег Николаевич": 28,
-      "Гуллов Илья Николаевич": 12,
-      "Журавлев Алексей Александрович": 311,
-      "Каменев Иван Игоревич": 7,
-      "Ковтун Алексей Вадимович": 6,
-      "Рудаков Сергей Иванович": 76,
-      "Свиридов Андрей Анатольевич": 7,
-      "Харцызов Роман Александрович": 9,
-      "Ходаковский Владислав Валериевич": 4
+      "gas:candidate-vibid:4364010373741": 21,
+      "gas:candidate-vibid:4364010373365": 28,
+      "gas:candidate-vibid:4364010373419": 12,
+      "gas:candidate-vibid:4364010373576": 311,
+      "gas:candidate-vibid:4364010373442": 7,
+      "gas:candidate-vibid:4364010373836": 6,
+      "gas:candidate-vibid:4364010373530": 76,
+      "gas:candidate-vibid:4364010373651": 7,
+      "gas:candidate-vibid:4364010373626": 9,
+      "gas:candidate-vibid:4364010373430": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000115&tvd=23620001147701&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147701&type=464",
@@ -14195,16 +14195,16 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боброва Валентина Валерьевна": 8,
-      "Бурцев Олег Николаевич": 14,
-      "Гуллов Илья Николаевич": 2,
-      "Журавлев Алексей Александрович": 119,
-      "Каменев Иван Игоревич": 4,
-      "Ковтун Алексей Вадимович": 1,
-      "Рудаков Сергей Иванович": 21,
-      "Свиридов Андрей Анатольевич": 2,
-      "Харцызов Роман Александрович": 3,
-      "Ходаковский Владислав Валериевич": 1
+      "gas:candidate-vibid:4364010373741": 8,
+      "gas:candidate-vibid:4364010373365": 14,
+      "gas:candidate-vibid:4364010373419": 2,
+      "gas:candidate-vibid:4364010373576": 119,
+      "gas:candidate-vibid:4364010373442": 4,
+      "gas:candidate-vibid:4364010373836": 1,
+      "gas:candidate-vibid:4364010373530": 21,
+      "gas:candidate-vibid:4364010373651": 2,
+      "gas:candidate-vibid:4364010373626": 3,
+      "gas:candidate-vibid:4364010373430": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000115&tvd=23620001147701&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147701&type=464",
@@ -14255,16 +14255,16 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боброва Валентина Валерьевна": 5,
-      "Бурцев Олег Николаевич": 25,
-      "Гуллов Илья Николаевич": 8,
-      "Журавлев Алексей Александрович": 183,
-      "Каменев Иван Игоревич": 4,
-      "Ковтун Алексей Вадимович": 4,
-      "Рудаков Сергей Иванович": 12,
-      "Свиридов Андрей Анатольевич": 2,
-      "Харцызов Роман Александрович": 2,
-      "Ходаковский Владислав Валериевич": 2
+      "gas:candidate-vibid:4364010373741": 5,
+      "gas:candidate-vibid:4364010373365": 25,
+      "gas:candidate-vibid:4364010373419": 8,
+      "gas:candidate-vibid:4364010373576": 183,
+      "gas:candidate-vibid:4364010373442": 4,
+      "gas:candidate-vibid:4364010373836": 4,
+      "gas:candidate-vibid:4364010373530": 12,
+      "gas:candidate-vibid:4364010373651": 2,
+      "gas:candidate-vibid:4364010373626": 2,
+      "gas:candidate-vibid:4364010373430": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000115&tvd=23620001147701&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147701&type=464",
@@ -14315,16 +14315,16 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боброва Валентина Валерьевна": 1,
-      "Бурцев Олег Николаевич": 4,
-      "Гуллов Илья Николаевич": 1,
-      "Журавлев Алексей Александрович": 79,
-      "Каменев Иван Игоревич": 0,
-      "Ковтун Алексей Вадимович": 2,
-      "Рудаков Сергей Иванович": 2,
-      "Свиридов Андрей Анатольевич": 0,
-      "Харцызов Роман Александрович": 2,
-      "Ходаковский Владислав Валериевич": 0
+      "gas:candidate-vibid:4364010373741": 1,
+      "gas:candidate-vibid:4364010373365": 4,
+      "gas:candidate-vibid:4364010373419": 1,
+      "gas:candidate-vibid:4364010373576": 79,
+      "gas:candidate-vibid:4364010373442": 0,
+      "gas:candidate-vibid:4364010373836": 2,
+      "gas:candidate-vibid:4364010373530": 2,
+      "gas:candidate-vibid:4364010373651": 0,
+      "gas:candidate-vibid:4364010373626": 2,
+      "gas:candidate-vibid:4364010373430": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000115&tvd=23620001147701&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147701&type=464",
@@ -14375,16 +14375,16 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боброва Валентина Валерьевна": 18,
-      "Бурцев Олег Николаевич": 8,
-      "Гуллов Илья Николаевич": 7,
-      "Журавлев Алексей Александрович": 314,
-      "Каменев Иван Игоревич": 2,
-      "Ковтун Алексей Вадимович": 3,
-      "Рудаков Сергей Иванович": 24,
-      "Свиридов Андрей Анатольевич": 3,
-      "Харцызов Роман Александрович": 11,
-      "Ходаковский Владислав Валериевич": 3
+      "gas:candidate-vibid:4364010373741": 18,
+      "gas:candidate-vibid:4364010373365": 8,
+      "gas:candidate-vibid:4364010373419": 7,
+      "gas:candidate-vibid:4364010373576": 314,
+      "gas:candidate-vibid:4364010373442": 2,
+      "gas:candidate-vibid:4364010373836": 3,
+      "gas:candidate-vibid:4364010373530": 24,
+      "gas:candidate-vibid:4364010373651": 3,
+      "gas:candidate-vibid:4364010373626": 11,
+      "gas:candidate-vibid:4364010373430": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000115&tvd=23620001147701&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147701&type=464",
@@ -14435,16 +14435,16 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боброва Валентина Валерьевна": 6,
-      "Бурцев Олег Николаевич": 9,
-      "Гуллов Илья Николаевич": 9,
-      "Журавлев Алексей Александрович": 98,
-      "Каменев Иван Игоревич": 1,
-      "Ковтун Алексей Вадимович": 3,
-      "Рудаков Сергей Иванович": 27,
-      "Свиридов Андрей Анатольевич": 5,
-      "Харцызов Роман Александрович": 8,
-      "Ходаковский Владислав Валериевич": 2
+      "gas:candidate-vibid:4364010373741": 6,
+      "gas:candidate-vibid:4364010373365": 9,
+      "gas:candidate-vibid:4364010373419": 9,
+      "gas:candidate-vibid:4364010373576": 98,
+      "gas:candidate-vibid:4364010373442": 1,
+      "gas:candidate-vibid:4364010373836": 3,
+      "gas:candidate-vibid:4364010373530": 27,
+      "gas:candidate-vibid:4364010373651": 5,
+      "gas:candidate-vibid:4364010373626": 8,
+      "gas:candidate-vibid:4364010373430": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000115&tvd=23620001147701&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147701&type=464",
@@ -14495,16 +14495,16 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боброва Валентина Валерьевна": 46,
-      "Бурцев Олег Николаевич": 44,
-      "Гуллов Илья Николаевич": 31,
-      "Журавлев Алексей Александрович": 223,
-      "Каменев Иван Игоревич": 12,
-      "Ковтун Алексей Вадимович": 11,
-      "Рудаков Сергей Иванович": 80,
-      "Свиридов Андрей Анатольевич": 12,
-      "Харцызов Роман Александрович": 23,
-      "Ходаковский Владислав Валериевич": 15
+      "gas:candidate-vibid:4364010373741": 46,
+      "gas:candidate-vibid:4364010373365": 44,
+      "gas:candidate-vibid:4364010373419": 31,
+      "gas:candidate-vibid:4364010373576": 223,
+      "gas:candidate-vibid:4364010373442": 12,
+      "gas:candidate-vibid:4364010373836": 11,
+      "gas:candidate-vibid:4364010373530": 80,
+      "gas:candidate-vibid:4364010373651": 12,
+      "gas:candidate-vibid:4364010373626": 23,
+      "gas:candidate-vibid:4364010373430": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000115&tvd=23620001147701&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147701&type=464",
@@ -14555,16 +14555,16 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боброва Валентина Валерьевна": 24,
-      "Бурцев Олег Николаевич": 22,
-      "Гуллов Илья Николаевич": 8,
-      "Журавлев Алексей Александрович": 151,
-      "Каменев Иван Игоревич": 6,
-      "Ковтун Алексей Вадимович": 7,
-      "Рудаков Сергей Иванович": 23,
-      "Свиридов Андрей Анатольевич": 2,
-      "Харцызов Роман Александрович": 10,
-      "Ходаковский Владислав Валериевич": 0
+      "gas:candidate-vibid:4364010373741": 24,
+      "gas:candidate-vibid:4364010373365": 22,
+      "gas:candidate-vibid:4364010373419": 8,
+      "gas:candidate-vibid:4364010373576": 151,
+      "gas:candidate-vibid:4364010373442": 6,
+      "gas:candidate-vibid:4364010373836": 7,
+      "gas:candidate-vibid:4364010373530": 23,
+      "gas:candidate-vibid:4364010373651": 2,
+      "gas:candidate-vibid:4364010373626": 10,
+      "gas:candidate-vibid:4364010373430": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000115&tvd=23620001147701&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147701&type=464",
@@ -14615,16 +14615,16 @@ export const duma_2016_uik_463_region_36_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Боброва Валентина Валерьевна": 14,
-      "Бурцев Олег Николаевич": 13,
-      "Гуллов Илья Николаевич": 12,
-      "Журавлев Алексей Александрович": 183,
-      "Каменев Иван Игоревич": 5,
-      "Ковтун Алексей Вадимович": 4,
-      "Рудаков Сергей Иванович": 18,
-      "Свиридов Андрей Анатольевич": 3,
-      "Харцызов Роман Александрович": 3,
-      "Ходаковский Владислав Валериевич": 3
+      "gas:candidate-vibid:4364010373741": 14,
+      "gas:candidate-vibid:4364010373365": 13,
+      "gas:candidate-vibid:4364010373419": 12,
+      "gas:candidate-vibid:4364010373576": 183,
+      "gas:candidate-vibid:4364010373442": 5,
+      "gas:candidate-vibid:4364010373836": 4,
+      "gas:candidate-vibid:4364010373530": 18,
+      "gas:candidate-vibid:4364010373651": 3,
+      "gas:candidate-vibid:4364010373626": 3,
+      "gas:candidate-vibid:4364010373430": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/voronezh?action=show&root=1000115&tvd=23620001147701&vrn=100100067795849&region=36&global=&sub_region=36&prver=0&pronetvd=null&vibid=23620001147701&type=464",

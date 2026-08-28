@@ -42,16 +42,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 22,
-      "Бобков Александр Николаевич": 19,
-      "Бочаров Андрей Иванович": 28,
-      "Жданов-Луценко Николай Иванович": 8,
-      "Моганова Нина Семеновна": 2,
-      "Попик Василий Михайлович": 5,
-      "Рогонов Петр Петрович": 123,
-      "Семеньков Василий Иванович": 167,
-      "Шенкарев Олег Александрович": 23,
-      "Против всех": 15
+      "gas:candidate-vibid:332300270388": 22,
+      "gas:candidate-vibid:1001000217916": 19,
+      "gas:candidate-vibid:1001000190332": 28,
+      "gas:candidate-vibid:1001000136040": 8,
+      "gas:candidate-vibid:1001000195062": 2,
+      "gas:candidate-vibid:332300270608": 5,
+      "gas:candidate-vibid:1001000121836": 123,
+      "gas:candidate-vibid:1001000225928": 167,
+      "gas:candidate-vibid:1001000131393": 23,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070379&region=0&sub_region=0&type=429",
@@ -101,16 +101,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 17,
-      "Бобков Александр Николаевич": 6,
-      "Бочаров Андрей Иванович": 6,
-      "Жданов-Луценко Николай Иванович": 10,
-      "Моганова Нина Семеновна": 2,
-      "Попик Василий Михайлович": 13,
-      "Рогонов Петр Петрович": 114,
-      "Семеньков Василий Иванович": 169,
-      "Шенкарев Олег Александрович": 11,
-      "Против всех": 22
+      "gas:candidate-vibid:332300270388": 17,
+      "gas:candidate-vibid:1001000217916": 6,
+      "gas:candidate-vibid:1001000190332": 6,
+      "gas:candidate-vibid:1001000136040": 10,
+      "gas:candidate-vibid:1001000195062": 2,
+      "gas:candidate-vibid:332300270608": 13,
+      "gas:candidate-vibid:1001000121836": 114,
+      "gas:candidate-vibid:1001000225928": 169,
+      "gas:candidate-vibid:1001000131393": 11,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070379&region=0&sub_region=0&type=429",
@@ -160,16 +160,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 11,
-      "Бобков Александр Николаевич": 3,
-      "Бочаров Андрей Иванович": 0,
-      "Жданов-Луценко Николай Иванович": 5,
-      "Моганова Нина Семеновна": 0,
-      "Попик Василий Михайлович": 1,
-      "Рогонов Петр Петрович": 89,
-      "Семеньков Василий Иванович": 85,
-      "Шенкарев Олег Александрович": 15,
-      "Против всех": 3
+      "gas:candidate-vibid:332300270388": 11,
+      "gas:candidate-vibid:1001000217916": 3,
+      "gas:candidate-vibid:1001000190332": 0,
+      "gas:candidate-vibid:1001000136040": 5,
+      "gas:candidate-vibid:1001000195062": 0,
+      "gas:candidate-vibid:332300270608": 1,
+      "gas:candidate-vibid:1001000121836": 89,
+      "gas:candidate-vibid:1001000225928": 85,
+      "gas:candidate-vibid:1001000131393": 15,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070379&region=0&sub_region=0&type=429",
@@ -219,16 +219,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 1,
-      "Бобков Александр Николаевич": 2,
-      "Бочаров Андрей Иванович": 0,
-      "Жданов-Луценко Николай Иванович": 6,
-      "Моганова Нина Семеновна": 0,
-      "Попик Василий Михайлович": 3,
-      "Рогонов Петр Петрович": 9,
-      "Семеньков Василий Иванович": 66,
-      "Шенкарев Олег Александрович": 1,
-      "Против всех": 2
+      "gas:candidate-vibid:332300270388": 1,
+      "gas:candidate-vibid:1001000217916": 2,
+      "gas:candidate-vibid:1001000190332": 0,
+      "gas:candidate-vibid:1001000136040": 6,
+      "gas:candidate-vibid:1001000195062": 0,
+      "gas:candidate-vibid:332300270608": 3,
+      "gas:candidate-vibid:1001000121836": 9,
+      "gas:candidate-vibid:1001000225928": 66,
+      "gas:candidate-vibid:1001000131393": 1,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070379&region=0&sub_region=0&type=429",
@@ -278,16 +278,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 13,
-      "Бобков Александр Николаевич": 4,
-      "Бочаров Андрей Иванович": 4,
-      "Жданов-Луценко Николай Иванович": 7,
-      "Моганова Нина Семеновна": 0,
-      "Попик Василий Михайлович": 2,
-      "Рогонов Петр Петрович": 78,
-      "Семеньков Василий Иванович": 121,
-      "Шенкарев Олег Александрович": 13,
-      "Против всех": 20
+      "gas:candidate-vibid:332300270388": 13,
+      "gas:candidate-vibid:1001000217916": 4,
+      "gas:candidate-vibid:1001000190332": 4,
+      "gas:candidate-vibid:1001000136040": 7,
+      "gas:candidate-vibid:1001000195062": 0,
+      "gas:candidate-vibid:332300270608": 2,
+      "gas:candidate-vibid:1001000121836": 78,
+      "gas:candidate-vibid:1001000225928": 121,
+      "gas:candidate-vibid:1001000131393": 13,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070379&region=0&sub_region=0&type=429",
@@ -337,16 +337,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 17,
-      "Бобков Александр Николаевич": 11,
-      "Бочаров Андрей Иванович": 9,
-      "Жданов-Луценко Николай Иванович": 7,
-      "Моганова Нина Семеновна": 3,
-      "Попик Василий Михайлович": 5,
-      "Рогонов Петр Петрович": 99,
-      "Семеньков Василий Иванович": 133,
-      "Шенкарев Олег Александрович": 14,
-      "Против всех": 21
+      "gas:candidate-vibid:332300270388": 17,
+      "gas:candidate-vibid:1001000217916": 11,
+      "gas:candidate-vibid:1001000190332": 9,
+      "gas:candidate-vibid:1001000136040": 7,
+      "gas:candidate-vibid:1001000195062": 3,
+      "gas:candidate-vibid:332300270608": 5,
+      "gas:candidate-vibid:1001000121836": 99,
+      "gas:candidate-vibid:1001000225928": 133,
+      "gas:candidate-vibid:1001000131393": 14,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070379&region=0&sub_region=0&type=429",
@@ -396,16 +396,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 10,
-      "Бобков Александр Николаевич": 4,
-      "Бочаров Андрей Иванович": 2,
-      "Жданов-Луценко Николай Иванович": 0,
-      "Моганова Нина Семеновна": 1,
-      "Попик Василий Михайлович": 1,
-      "Рогонов Петр Петрович": 19,
-      "Семеньков Василий Иванович": 66,
-      "Шенкарев Олег Александрович": 1,
-      "Против всех": 0
+      "gas:candidate-vibid:332300270388": 10,
+      "gas:candidate-vibid:1001000217916": 4,
+      "gas:candidate-vibid:1001000190332": 2,
+      "gas:candidate-vibid:1001000136040": 0,
+      "gas:candidate-vibid:1001000195062": 1,
+      "gas:candidate-vibid:332300270608": 1,
+      "gas:candidate-vibid:1001000121836": 19,
+      "gas:candidate-vibid:1001000225928": 66,
+      "gas:candidate-vibid:1001000131393": 1,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070379&region=0&sub_region=0&type=429",
@@ -455,16 +455,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 13,
-      "Бобков Александр Николаевич": 2,
-      "Бочаров Андрей Иванович": 3,
-      "Жданов-Луценко Николай Иванович": 11,
-      "Моганова Нина Семеновна": 3,
-      "Попик Василий Михайлович": 36,
-      "Рогонов Петр Петрович": 76,
-      "Семеньков Василий Иванович": 82,
-      "Шенкарев Олег Александрович": 7,
-      "Против всех": 20
+      "gas:candidate-vibid:332300270388": 13,
+      "gas:candidate-vibid:1001000217916": 2,
+      "gas:candidate-vibid:1001000190332": 3,
+      "gas:candidate-vibid:1001000136040": 11,
+      "gas:candidate-vibid:1001000195062": 3,
+      "gas:candidate-vibid:332300270608": 36,
+      "gas:candidate-vibid:1001000121836": 76,
+      "gas:candidate-vibid:1001000225928": 82,
+      "gas:candidate-vibid:1001000131393": 7,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070379&region=0&sub_region=0&type=429",
@@ -514,16 +514,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 29,
-      "Бобков Александр Николаевич": 6,
-      "Бочаров Андрей Иванович": 4,
-      "Жданов-Луценко Николай Иванович": 24,
-      "Моганова Нина Семеновна": 2,
-      "Попик Василий Михайлович": 14,
-      "Рогонов Петр Петрович": 86,
-      "Семеньков Василий Иванович": 224,
-      "Шенкарев Олег Александрович": 15,
-      "Против всех": 31
+      "gas:candidate-vibid:332300270388": 29,
+      "gas:candidate-vibid:1001000217916": 6,
+      "gas:candidate-vibid:1001000190332": 4,
+      "gas:candidate-vibid:1001000136040": 24,
+      "gas:candidate-vibid:1001000195062": 2,
+      "gas:candidate-vibid:332300270608": 14,
+      "gas:candidate-vibid:1001000121836": 86,
+      "gas:candidate-vibid:1001000225928": 224,
+      "gas:candidate-vibid:1001000131393": 15,
+      "special:against-all": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070379&region=0&sub_region=0&type=429",
@@ -573,16 +573,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 36,
-      "Бобков Александр Николаевич": 4,
-      "Бочаров Андрей Иванович": 15,
-      "Жданов-Луценко Николай Иванович": 25,
-      "Моганова Нина Семеновна": 6,
-      "Попик Василий Михайлович": 16,
-      "Рогонов Петр Петрович": 108,
-      "Семеньков Василий Иванович": 192,
-      "Шенкарев Олег Александрович": 5,
-      "Против всех": 29
+      "gas:candidate-vibid:332300270388": 36,
+      "gas:candidate-vibid:1001000217916": 4,
+      "gas:candidate-vibid:1001000190332": 15,
+      "gas:candidate-vibid:1001000136040": 25,
+      "gas:candidate-vibid:1001000195062": 6,
+      "gas:candidate-vibid:332300270608": 16,
+      "gas:candidate-vibid:1001000121836": 108,
+      "gas:candidate-vibid:1001000225928": 192,
+      "gas:candidate-vibid:1001000131393": 5,
+      "special:against-all": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070379&region=0&sub_region=0&type=429",
@@ -632,16 +632,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 18,
-      "Бобков Александр Николаевич": 7,
-      "Бочаров Андрей Иванович": 9,
-      "Жданов-Луценко Николай Иванович": 7,
-      "Моганова Нина Семеновна": 1,
-      "Попик Василий Михайлович": 0,
-      "Рогонов Петр Петрович": 39,
-      "Семеньков Василий Иванович": 123,
-      "Шенкарев Олег Александрович": 8,
-      "Против всех": 11
+      "gas:candidate-vibid:332300270388": 18,
+      "gas:candidate-vibid:1001000217916": 7,
+      "gas:candidate-vibid:1001000190332": 9,
+      "gas:candidate-vibid:1001000136040": 7,
+      "gas:candidate-vibid:1001000195062": 1,
+      "gas:candidate-vibid:332300270608": 0,
+      "gas:candidate-vibid:1001000121836": 39,
+      "gas:candidate-vibid:1001000225928": 123,
+      "gas:candidate-vibid:1001000131393": 8,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070379&region=0&sub_region=0&type=429",
@@ -691,16 +691,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 29,
-      "Бобков Александр Николаевич": 13,
-      "Бочаров Андрей Иванович": 7,
-      "Жданов-Луценко Николай Иванович": 21,
-      "Моганова Нина Семеновна": 2,
-      "Попик Василий Михайлович": 12,
-      "Рогонов Петр Петрович": 79,
-      "Семеньков Василий Иванович": 198,
-      "Шенкарев Олег Александрович": 11,
-      "Против всех": 23
+      "gas:candidate-vibid:332300270388": 29,
+      "gas:candidate-vibid:1001000217916": 13,
+      "gas:candidate-vibid:1001000190332": 7,
+      "gas:candidate-vibid:1001000136040": 21,
+      "gas:candidate-vibid:1001000195062": 2,
+      "gas:candidate-vibid:332300270608": 12,
+      "gas:candidate-vibid:1001000121836": 79,
+      "gas:candidate-vibid:1001000225928": 198,
+      "gas:candidate-vibid:1001000131393": 11,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070379&region=0&sub_region=0&type=429",
@@ -750,16 +750,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 3,
-      "Бобков Александр Николаевич": 0,
-      "Бочаров Андрей Иванович": 0,
-      "Жданов-Луценко Николай Иванович": 0,
-      "Моганова Нина Семеновна": 0,
-      "Попик Василий Михайлович": 0,
-      "Рогонов Петр Петрович": 66,
-      "Семеньков Василий Иванович": 16,
-      "Шенкарев Олег Александрович": 0,
-      "Против всех": 4
+      "gas:candidate-vibid:332300270388": 3,
+      "gas:candidate-vibid:1001000217916": 0,
+      "gas:candidate-vibid:1001000190332": 0,
+      "gas:candidate-vibid:1001000136040": 0,
+      "gas:candidate-vibid:1001000195062": 0,
+      "gas:candidate-vibid:332300270608": 0,
+      "gas:candidate-vibid:1001000121836": 66,
+      "gas:candidate-vibid:1001000225928": 16,
+      "gas:candidate-vibid:1001000131393": 0,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070379&region=0&sub_region=0&type=429",
@@ -809,16 +809,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 16,
-      "Бобков Александр Николаевич": 4,
-      "Бочаров Андрей Иванович": 9,
-      "Жданов-Луценко Николай Иванович": 9,
-      "Моганова Нина Семеновна": 3,
-      "Попик Василий Михайлович": 6,
-      "Рогонов Петр Петрович": 49,
-      "Семеньков Василий Иванович": 114,
-      "Шенкарев Олег Александрович": 8,
-      "Против всех": 9
+      "gas:candidate-vibid:332300270388": 16,
+      "gas:candidate-vibid:1001000217916": 4,
+      "gas:candidate-vibid:1001000190332": 9,
+      "gas:candidate-vibid:1001000136040": 9,
+      "gas:candidate-vibid:1001000195062": 3,
+      "gas:candidate-vibid:332300270608": 6,
+      "gas:candidate-vibid:1001000121836": 49,
+      "gas:candidate-vibid:1001000225928": 114,
+      "gas:candidate-vibid:1001000131393": 8,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070379&region=0&sub_region=0&type=429",
@@ -868,16 +868,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 20,
-      "Бобков Александр Николаевич": 5,
-      "Бочаров Андрей Иванович": 11,
-      "Жданов-Луценко Николай Иванович": 6,
-      "Моганова Нина Семеновна": 2,
-      "Попик Василий Михайлович": 4,
-      "Рогонов Петр Петрович": 90,
-      "Семеньков Василий Иванович": 185,
-      "Шенкарев Олег Александрович": 16,
-      "Против всех": 33
+      "gas:candidate-vibid:332300270388": 20,
+      "gas:candidate-vibid:1001000217916": 5,
+      "gas:candidate-vibid:1001000190332": 11,
+      "gas:candidate-vibid:1001000136040": 6,
+      "gas:candidate-vibid:1001000195062": 2,
+      "gas:candidate-vibid:332300270608": 4,
+      "gas:candidate-vibid:1001000121836": 90,
+      "gas:candidate-vibid:1001000225928": 185,
+      "gas:candidate-vibid:1001000131393": 16,
+      "special:against-all": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070379&region=0&sub_region=0&type=429",
@@ -927,16 +927,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 37,
-      "Бобков Александр Николаевич": 36,
-      "Бочаров Андрей Иванович": 17,
-      "Жданов-Луценко Николай Иванович": 14,
-      "Моганова Нина Семеновна": 2,
-      "Попик Василий Михайлович": 7,
-      "Рогонов Петр Петрович": 52,
-      "Семеньков Василий Иванович": 243,
-      "Шенкарев Олег Александрович": 18,
-      "Против всех": 43
+      "gas:candidate-vibid:332300270388": 37,
+      "gas:candidate-vibid:1001000217916": 36,
+      "gas:candidate-vibid:1001000190332": 17,
+      "gas:candidate-vibid:1001000136040": 14,
+      "gas:candidate-vibid:1001000195062": 2,
+      "gas:candidate-vibid:332300270608": 7,
+      "gas:candidate-vibid:1001000121836": 52,
+      "gas:candidate-vibid:1001000225928": 243,
+      "gas:candidate-vibid:1001000131393": 18,
+      "special:against-all": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070379&region=0&sub_region=0&type=429",
@@ -986,16 +986,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 16,
-      "Бобков Александр Николаевич": 14,
-      "Бочаров Андрей Иванович": 5,
-      "Жданов-Луценко Николай Иванович": 12,
-      "Моганова Нина Семеновна": 0,
-      "Попик Василий Михайлович": 3,
-      "Рогонов Петр Петрович": 48,
-      "Семеньков Василий Иванович": 248,
-      "Шенкарев Олег Александрович": 4,
-      "Против всех": 10
+      "gas:candidate-vibid:332300270388": 16,
+      "gas:candidate-vibid:1001000217916": 14,
+      "gas:candidate-vibid:1001000190332": 5,
+      "gas:candidate-vibid:1001000136040": 12,
+      "gas:candidate-vibid:1001000195062": 0,
+      "gas:candidate-vibid:332300270608": 3,
+      "gas:candidate-vibid:1001000121836": 48,
+      "gas:candidate-vibid:1001000225928": 248,
+      "gas:candidate-vibid:1001000131393": 4,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070379&region=0&sub_region=0&type=429",
@@ -1045,16 +1045,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 7,
-      "Бобков Александр Николаевич": 0,
-      "Бочаров Андрей Иванович": 0,
-      "Жданов-Луценко Николай Иванович": 7,
-      "Моганова Нина Семеновна": 0,
-      "Попик Василий Михайлович": 0,
-      "Рогонов Петр Петрович": 9,
-      "Семеньков Василий Иванович": 76,
-      "Шенкарев Олег Александрович": 0,
-      "Против всех": 5
+      "gas:candidate-vibid:332300270388": 7,
+      "gas:candidate-vibid:1001000217916": 0,
+      "gas:candidate-vibid:1001000190332": 0,
+      "gas:candidate-vibid:1001000136040": 7,
+      "gas:candidate-vibid:1001000195062": 0,
+      "gas:candidate-vibid:332300270608": 0,
+      "gas:candidate-vibid:1001000121836": 9,
+      "gas:candidate-vibid:1001000225928": 76,
+      "gas:candidate-vibid:1001000131393": 0,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070379&region=0&sub_region=0&type=429",
@@ -1104,16 +1104,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 15,
-      "Бобков Александр Николаевич": 55,
-      "Бочаров Андрей Иванович": 8,
-      "Жданов-Луценко Николай Иванович": 31,
-      "Моганова Нина Семеновна": 1,
-      "Попик Василий Михайлович": 4,
-      "Рогонов Петр Петрович": 37,
-      "Семеньков Василий Иванович": 165,
-      "Шенкарев Олег Александрович": 3,
-      "Против всех": 15
+      "gas:candidate-vibid:332300270388": 15,
+      "gas:candidate-vibid:1001000217916": 55,
+      "gas:candidate-vibid:1001000190332": 8,
+      "gas:candidate-vibid:1001000136040": 31,
+      "gas:candidate-vibid:1001000195062": 1,
+      "gas:candidate-vibid:332300270608": 4,
+      "gas:candidate-vibid:1001000121836": 37,
+      "gas:candidate-vibid:1001000225928": 165,
+      "gas:candidate-vibid:1001000131393": 3,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070379&region=0&sub_region=0&type=429",
@@ -1163,16 +1163,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 2,
-      "Бобков Александр Николаевич": 4,
-      "Бочаров Андрей Иванович": 3,
-      "Жданов-Луценко Николай Иванович": 7,
-      "Моганова Нина Семеновна": 1,
-      "Попик Василий Михайлович": 0,
-      "Рогонов Петр Петрович": 8,
-      "Семеньков Василий Иванович": 66,
-      "Шенкарев Олег Александрович": 2,
-      "Против всех": 2
+      "gas:candidate-vibid:332300270388": 2,
+      "gas:candidate-vibid:1001000217916": 4,
+      "gas:candidate-vibid:1001000190332": 3,
+      "gas:candidate-vibid:1001000136040": 7,
+      "gas:candidate-vibid:1001000195062": 1,
+      "gas:candidate-vibid:332300270608": 0,
+      "gas:candidate-vibid:1001000121836": 8,
+      "gas:candidate-vibid:1001000225928": 66,
+      "gas:candidate-vibid:1001000131393": 2,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070379&region=0&sub_region=0&type=429",
@@ -1222,16 +1222,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 31,
-      "Бобков Александр Николаевич": 7,
-      "Бочаров Андрей Иванович": 25,
-      "Жданов-Луценко Николай Иванович": 16,
-      "Моганова Нина Семеновна": 4,
-      "Попик Василий Михайлович": 9,
-      "Рогонов Петр Петрович": 79,
-      "Семеньков Василий Иванович": 174,
-      "Шенкарев Олег Александрович": 4,
-      "Против всех": 27
+      "gas:candidate-vibid:332300270388": 31,
+      "gas:candidate-vibid:1001000217916": 7,
+      "gas:candidate-vibid:1001000190332": 25,
+      "gas:candidate-vibid:1001000136040": 16,
+      "gas:candidate-vibid:1001000195062": 4,
+      "gas:candidate-vibid:332300270608": 9,
+      "gas:candidate-vibid:1001000121836": 79,
+      "gas:candidate-vibid:1001000225928": 174,
+      "gas:candidate-vibid:1001000131393": 4,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070379&region=0&sub_region=0&type=429",
@@ -1281,16 +1281,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 4,
-      "Бобков Александр Николаевич": 2,
-      "Бочаров Андрей Иванович": 1,
-      "Жданов-Луценко Николай Иванович": 1,
-      "Моганова Нина Семеновна": 0,
-      "Попик Василий Михайлович": 3,
-      "Рогонов Петр Петрович": 13,
-      "Семеньков Василий Иванович": 76,
-      "Шенкарев Олег Александрович": 4,
-      "Против всех": 3
+      "gas:candidate-vibid:332300270388": 4,
+      "gas:candidate-vibid:1001000217916": 2,
+      "gas:candidate-vibid:1001000190332": 1,
+      "gas:candidate-vibid:1001000136040": 1,
+      "gas:candidate-vibid:1001000195062": 0,
+      "gas:candidate-vibid:332300270608": 3,
+      "gas:candidate-vibid:1001000121836": 13,
+      "gas:candidate-vibid:1001000225928": 76,
+      "gas:candidate-vibid:1001000131393": 4,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070379&region=0&sub_region=0&type=429",
@@ -1340,16 +1340,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 0,
-      "Бобков Александр Николаевич": 0,
-      "Бочаров Андрей Иванович": 0,
-      "Жданов-Луценко Николай Иванович": 20,
-      "Моганова Нина Семеновна": 0,
-      "Попик Василий Михайлович": 1,
-      "Рогонов Петр Петрович": 15,
-      "Семеньков Василий Иванович": 73,
-      "Шенкарев Олег Александрович": 0,
-      "Против всех": 8
+      "gas:candidate-vibid:332300270388": 0,
+      "gas:candidate-vibid:1001000217916": 0,
+      "gas:candidate-vibid:1001000190332": 0,
+      "gas:candidate-vibid:1001000136040": 20,
+      "gas:candidate-vibid:1001000195062": 0,
+      "gas:candidate-vibid:332300270608": 1,
+      "gas:candidate-vibid:1001000121836": 15,
+      "gas:candidate-vibid:1001000225928": 73,
+      "gas:candidate-vibid:1001000131393": 0,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070379&region=0&sub_region=0&type=429",
@@ -1399,16 +1399,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 5,
-      "Бобков Александр Николаевич": 46,
-      "Бочаров Андрей Иванович": 8,
-      "Жданов-Луценко Николай Иванович": 5,
-      "Моганова Нина Семеновна": 0,
-      "Попик Василий Михайлович": 3,
-      "Рогонов Петр Петрович": 47,
-      "Семеньков Василий Иванович": 66,
-      "Шенкарев Олег Александрович": 5,
-      "Против всех": 8
+      "gas:candidate-vibid:332300270388": 5,
+      "gas:candidate-vibid:1001000217916": 46,
+      "gas:candidate-vibid:1001000190332": 8,
+      "gas:candidate-vibid:1001000136040": 5,
+      "gas:candidate-vibid:1001000195062": 0,
+      "gas:candidate-vibid:332300270608": 3,
+      "gas:candidate-vibid:1001000121836": 47,
+      "gas:candidate-vibid:1001000225928": 66,
+      "gas:candidate-vibid:1001000131393": 5,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070379&region=0&sub_region=0&type=429",
@@ -1458,16 +1458,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 3,
-      "Бобков Александр Николаевич": 0,
-      "Бочаров Андрей Иванович": 1,
-      "Жданов-Луценко Николай Иванович": 5,
-      "Моганова Нина Семеновна": 0,
-      "Попик Василий Михайлович": 1,
-      "Рогонов Петр Петрович": 1,
-      "Семеньков Василий Иванович": 39,
-      "Шенкарев Олег Александрович": 2,
-      "Против всех": 1
+      "gas:candidate-vibid:332300270388": 3,
+      "gas:candidate-vibid:1001000217916": 0,
+      "gas:candidate-vibid:1001000190332": 1,
+      "gas:candidate-vibid:1001000136040": 5,
+      "gas:candidate-vibid:1001000195062": 0,
+      "gas:candidate-vibid:332300270608": 1,
+      "gas:candidate-vibid:1001000121836": 1,
+      "gas:candidate-vibid:1001000225928": 39,
+      "gas:candidate-vibid:1001000131393": 2,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070379&region=0&sub_region=0&type=429",
@@ -1517,16 +1517,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 12,
-      "Бобков Александр Николаевич": 0,
-      "Бочаров Андрей Иванович": 7,
-      "Жданов-Луценко Николай Иванович": 5,
-      "Моганова Нина Семеновна": 3,
-      "Попик Василий Михайлович": 0,
-      "Рогонов Петр Петрович": 72,
-      "Семеньков Василий Иванович": 149,
-      "Шенкарев Олег Александрович": 3,
-      "Против всех": 13
+      "gas:candidate-vibid:332300270388": 12,
+      "gas:candidate-vibid:1001000217916": 0,
+      "gas:candidate-vibid:1001000190332": 7,
+      "gas:candidate-vibid:1001000136040": 5,
+      "gas:candidate-vibid:1001000195062": 3,
+      "gas:candidate-vibid:332300270608": 0,
+      "gas:candidate-vibid:1001000121836": 72,
+      "gas:candidate-vibid:1001000225928": 149,
+      "gas:candidate-vibid:1001000131393": 3,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070379&region=0&sub_region=0&type=429",
@@ -1576,16 +1576,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 9,
-      "Бобков Александр Николаевич": 3,
-      "Бочаров Андрей Иванович": 3,
-      "Жданов-Луценко Николай Иванович": 2,
-      "Моганова Нина Семеновна": 0,
-      "Попик Василий Михайлович": 1,
-      "Рогонов Петр Петрович": 41,
-      "Семеньков Василий Иванович": 37,
-      "Шенкарев Олег Александрович": 9,
-      "Против всех": 5
+      "gas:candidate-vibid:332300270388": 9,
+      "gas:candidate-vibid:1001000217916": 3,
+      "gas:candidate-vibid:1001000190332": 3,
+      "gas:candidate-vibid:1001000136040": 2,
+      "gas:candidate-vibid:1001000195062": 0,
+      "gas:candidate-vibid:332300270608": 1,
+      "gas:candidate-vibid:1001000121836": 41,
+      "gas:candidate-vibid:1001000225928": 37,
+      "gas:candidate-vibid:1001000131393": 9,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070379&region=0&sub_region=0&type=429",
@@ -1635,16 +1635,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 27,
-      "Бобков Александр Николаевич": 6,
-      "Бочаров Андрей Иванович": 19,
-      "Жданов-Луценко Николай Иванович": 11,
-      "Моганова Нина Семеновна": 5,
-      "Попик Василий Михайлович": 4,
-      "Рогонов Петр Петрович": 56,
-      "Семеньков Василий Иванович": 178,
-      "Шенкарев Олег Александрович": 16,
-      "Против всех": 18
+      "gas:candidate-vibid:332300270388": 27,
+      "gas:candidate-vibid:1001000217916": 6,
+      "gas:candidate-vibid:1001000190332": 19,
+      "gas:candidate-vibid:1001000136040": 11,
+      "gas:candidate-vibid:1001000195062": 5,
+      "gas:candidate-vibid:332300270608": 4,
+      "gas:candidate-vibid:1001000121836": 56,
+      "gas:candidate-vibid:1001000225928": 178,
+      "gas:candidate-vibid:1001000131393": 16,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070379&region=0&sub_region=0&type=429",
@@ -1694,16 +1694,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 44,
-      "Бобков Александр Николаевич": 11,
-      "Бочаров Андрей Иванович": 22,
-      "Жданов-Луценко Николай Иванович": 37,
-      "Моганова Нина Семеновна": 3,
-      "Попик Василий Михайлович": 10,
-      "Рогонов Петр Петрович": 67,
-      "Семеньков Василий Иванович": 194,
-      "Шенкарев Олег Александрович": 12,
-      "Против всех": 67
+      "gas:candidate-vibid:332300270388": 44,
+      "gas:candidate-vibid:1001000217916": 11,
+      "gas:candidate-vibid:1001000190332": 22,
+      "gas:candidate-vibid:1001000136040": 37,
+      "gas:candidate-vibid:1001000195062": 3,
+      "gas:candidate-vibid:332300270608": 10,
+      "gas:candidate-vibid:1001000121836": 67,
+      "gas:candidate-vibid:1001000225928": 194,
+      "gas:candidate-vibid:1001000131393": 12,
+      "special:against-all": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070379&region=0&sub_region=0&type=429",
@@ -1753,16 +1753,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 24,
-      "Бобков Александр Николаевич": 10,
-      "Бочаров Андрей Иванович": 21,
-      "Жданов-Луценко Николай Иванович": 12,
-      "Моганова Нина Семеновна": 0,
-      "Попик Василий Михайлович": 16,
-      "Рогонов Петр Петрович": 81,
-      "Семеньков Василий Иванович": 206,
-      "Шенкарев Олег Александрович": 16,
-      "Против всех": 34
+      "gas:candidate-vibid:332300270388": 24,
+      "gas:candidate-vibid:1001000217916": 10,
+      "gas:candidate-vibid:1001000190332": 21,
+      "gas:candidate-vibid:1001000136040": 12,
+      "gas:candidate-vibid:1001000195062": 0,
+      "gas:candidate-vibid:332300270608": 16,
+      "gas:candidate-vibid:1001000121836": 81,
+      "gas:candidate-vibid:1001000225928": 206,
+      "gas:candidate-vibid:1001000131393": 16,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070379&region=0&sub_region=0&type=429",
@@ -1812,16 +1812,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 9,
-      "Бобков Александр Николаевич": 1,
-      "Бочаров Андрей Иванович": 5,
-      "Жданов-Луценко Николай Иванович": 5,
-      "Моганова Нина Семеновна": 0,
-      "Попик Василий Михайлович": 18,
-      "Рогонов Петр Петрович": 21,
-      "Семеньков Василий Иванович": 91,
-      "Шенкарев Олег Александрович": 7,
-      "Против всех": 6
+      "gas:candidate-vibid:332300270388": 9,
+      "gas:candidate-vibid:1001000217916": 1,
+      "gas:candidate-vibid:1001000190332": 5,
+      "gas:candidate-vibid:1001000136040": 5,
+      "gas:candidate-vibid:1001000195062": 0,
+      "gas:candidate-vibid:332300270608": 18,
+      "gas:candidate-vibid:1001000121836": 21,
+      "gas:candidate-vibid:1001000225928": 91,
+      "gas:candidate-vibid:1001000131393": 7,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070379&region=0&sub_region=0&type=429",
@@ -1871,16 +1871,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 17,
-      "Бобков Александр Николаевич": 0,
-      "Бочаров Андрей Иванович": 1,
-      "Жданов-Луценко Николай Иванович": 0,
-      "Моганова Нина Семеновна": 0,
-      "Попик Василий Михайлович": 2,
-      "Рогонов Петр Петрович": 18,
-      "Семеньков Василий Иванович": 102,
-      "Шенкарев Олег Александрович": 1,
-      "Против всех": 6
+      "gas:candidate-vibid:332300270388": 17,
+      "gas:candidate-vibid:1001000217916": 0,
+      "gas:candidate-vibid:1001000190332": 1,
+      "gas:candidate-vibid:1001000136040": 0,
+      "gas:candidate-vibid:1001000195062": 0,
+      "gas:candidate-vibid:332300270608": 2,
+      "gas:candidate-vibid:1001000121836": 18,
+      "gas:candidate-vibid:1001000225928": 102,
+      "gas:candidate-vibid:1001000131393": 1,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070379&region=0&sub_region=0&type=429",
@@ -1930,16 +1930,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 38,
-      "Бобков Александр Николаевич": 14,
-      "Бочаров Андрей Иванович": 7,
-      "Жданов-Луценко Николай Иванович": 13,
-      "Моганова Нина Семеновна": 0,
-      "Попик Василий Михайлович": 3,
-      "Рогонов Петр Петрович": 19,
-      "Семеньков Василий Иванович": 125,
-      "Шенкарев Олег Александрович": 11,
-      "Против всех": 20
+      "gas:candidate-vibid:332300270388": 38,
+      "gas:candidate-vibid:1001000217916": 14,
+      "gas:candidate-vibid:1001000190332": 7,
+      "gas:candidate-vibid:1001000136040": 13,
+      "gas:candidate-vibid:1001000195062": 0,
+      "gas:candidate-vibid:332300270608": 3,
+      "gas:candidate-vibid:1001000121836": 19,
+      "gas:candidate-vibid:1001000225928": 125,
+      "gas:candidate-vibid:1001000131393": 11,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070379&region=0&sub_region=0&type=429",
@@ -1989,16 +1989,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 6,
-      "Бобков Александр Николаевич": 7,
-      "Бочаров Андрей Иванович": 8,
-      "Жданов-Луценко Николай Иванович": 11,
-      "Моганова Нина Семеновна": 2,
-      "Попик Василий Михайлович": 0,
-      "Рогонов Петр Петрович": 50,
-      "Семеньков Василий Иванович": 136,
-      "Шенкарев Олег Александрович": 1,
-      "Против всех": 14
+      "gas:candidate-vibid:332300270388": 6,
+      "gas:candidate-vibid:1001000217916": 7,
+      "gas:candidate-vibid:1001000190332": 8,
+      "gas:candidate-vibid:1001000136040": 11,
+      "gas:candidate-vibid:1001000195062": 2,
+      "gas:candidate-vibid:332300270608": 0,
+      "gas:candidate-vibid:1001000121836": 50,
+      "gas:candidate-vibid:1001000225928": 136,
+      "gas:candidate-vibid:1001000131393": 1,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070379&region=0&sub_region=0&type=429",
@@ -2048,16 +2048,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 1,
-      "Бобков Александр Николаевич": 2,
-      "Бочаров Андрей Иванович": 0,
-      "Жданов-Луценко Николай Иванович": 4,
-      "Моганова Нина Семеновна": 0,
-      "Попик Василий Михайлович": 0,
-      "Рогонов Петр Петрович": 18,
-      "Семеньков Василий Иванович": 32,
-      "Шенкарев Олег Александрович": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:332300270388": 1,
+      "gas:candidate-vibid:1001000217916": 2,
+      "gas:candidate-vibid:1001000190332": 0,
+      "gas:candidate-vibid:1001000136040": 4,
+      "gas:candidate-vibid:1001000195062": 0,
+      "gas:candidate-vibid:332300270608": 0,
+      "gas:candidate-vibid:1001000121836": 18,
+      "gas:candidate-vibid:1001000225928": 32,
+      "gas:candidate-vibid:1001000131393": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070379&region=0&sub_region=0&type=429",
@@ -2107,16 +2107,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 11,
-      "Бобков Александр Николаевич": 3,
-      "Бочаров Андрей Иванович": 2,
-      "Жданов-Луценко Николай Иванович": 28,
-      "Моганова Нина Семеновна": 1,
-      "Попик Василий Михайлович": 18,
-      "Рогонов Петр Петрович": 178,
-      "Семеньков Василий Иванович": 204,
-      "Шенкарев Олег Александрович": 14,
-      "Против всех": 15
+      "gas:candidate-vibid:332300270388": 11,
+      "gas:candidate-vibid:1001000217916": 3,
+      "gas:candidate-vibid:1001000190332": 2,
+      "gas:candidate-vibid:1001000136040": 28,
+      "gas:candidate-vibid:1001000195062": 1,
+      "gas:candidate-vibid:332300270608": 18,
+      "gas:candidate-vibid:1001000121836": 178,
+      "gas:candidate-vibid:1001000225928": 204,
+      "gas:candidate-vibid:1001000131393": 14,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070379&region=0&sub_region=0&type=429",
@@ -2166,16 +2166,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 14,
-      "Бобков Александр Николаевич": 5,
-      "Бочаров Андрей Иванович": 40,
-      "Жданов-Луценко Николай Иванович": 13,
-      "Моганова Нина Семеновна": 1,
-      "Попик Василий Михайлович": 27,
-      "Рогонов Петр Петрович": 73,
-      "Семеньков Василий Иванович": 371,
-      "Шенкарев Олег Александрович": 24,
-      "Против всех": 33
+      "gas:candidate-vibid:332300270388": 14,
+      "gas:candidate-vibid:1001000217916": 5,
+      "gas:candidate-vibid:1001000190332": 40,
+      "gas:candidate-vibid:1001000136040": 13,
+      "gas:candidate-vibid:1001000195062": 1,
+      "gas:candidate-vibid:332300270608": 27,
+      "gas:candidate-vibid:1001000121836": 73,
+      "gas:candidate-vibid:1001000225928": 371,
+      "gas:candidate-vibid:1001000131393": 24,
+      "special:against-all": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070380&region=0&sub_region=0&type=429",
@@ -2225,16 +2225,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 32,
-      "Бобков Александр Николаевич": 6,
-      "Бочаров Андрей Иванович": 35,
-      "Жданов-Луценко Николай Иванович": 11,
-      "Моганова Нина Семеновна": 4,
-      "Попик Василий Михайлович": 0,
-      "Рогонов Петр Петрович": 74,
-      "Семеньков Василий Иванович": 325,
-      "Шенкарев Олег Александрович": 21,
-      "Против всех": 33
+      "gas:candidate-vibid:332300270388": 32,
+      "gas:candidate-vibid:1001000217916": 6,
+      "gas:candidate-vibid:1001000190332": 35,
+      "gas:candidate-vibid:1001000136040": 11,
+      "gas:candidate-vibid:1001000195062": 4,
+      "gas:candidate-vibid:332300270608": 0,
+      "gas:candidate-vibid:1001000121836": 74,
+      "gas:candidate-vibid:1001000225928": 325,
+      "gas:candidate-vibid:1001000131393": 21,
+      "special:against-all": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070380&region=0&sub_region=0&type=429",
@@ -2284,16 +2284,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 2,
-      "Бобков Александр Николаевич": 4,
-      "Бочаров Андрей Иванович": 13,
-      "Жданов-Луценко Николай Иванович": 5,
-      "Моганова Нина Семеновна": 0,
-      "Попик Василий Михайлович": 0,
-      "Рогонов Петр Петрович": 16,
-      "Семеньков Василий Иванович": 108,
-      "Шенкарев Олег Александрович": 3,
-      "Против всех": 11
+      "gas:candidate-vibid:332300270388": 2,
+      "gas:candidate-vibid:1001000217916": 4,
+      "gas:candidate-vibid:1001000190332": 13,
+      "gas:candidate-vibid:1001000136040": 5,
+      "gas:candidate-vibid:1001000195062": 0,
+      "gas:candidate-vibid:332300270608": 0,
+      "gas:candidate-vibid:1001000121836": 16,
+      "gas:candidate-vibid:1001000225928": 108,
+      "gas:candidate-vibid:1001000131393": 3,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070380&region=0&sub_region=0&type=429",
@@ -2343,16 +2343,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 10,
-      "Бобков Александр Николаевич": 1,
-      "Бочаров Андрей Иванович": 1,
-      "Жданов-Луценко Николай Иванович": 1,
-      "Моганова Нина Семеновна": 0,
-      "Попик Василий Михайлович": 1,
-      "Рогонов Петр Петрович": 18,
-      "Семеньков Василий Иванович": 99,
-      "Шенкарев Олег Александрович": 5,
-      "Против всех": 8
+      "gas:candidate-vibid:332300270388": 10,
+      "gas:candidate-vibid:1001000217916": 1,
+      "gas:candidate-vibid:1001000190332": 1,
+      "gas:candidate-vibid:1001000136040": 1,
+      "gas:candidate-vibid:1001000195062": 0,
+      "gas:candidate-vibid:332300270608": 1,
+      "gas:candidate-vibid:1001000121836": 18,
+      "gas:candidate-vibid:1001000225928": 99,
+      "gas:candidate-vibid:1001000131393": 5,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070380&region=0&sub_region=0&type=429",
@@ -2402,16 +2402,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 17,
-      "Бобков Александр Николаевич": 6,
-      "Бочаров Андрей Иванович": 3,
-      "Жданов-Луценко Николай Иванович": 2,
-      "Моганова Нина Семеновна": 1,
-      "Попик Василий Михайлович": 0,
-      "Рогонов Петр Петрович": 17,
-      "Семеньков Василий Иванович": 82,
-      "Шенкарев Олег Александрович": 5,
-      "Против всех": 18
+      "gas:candidate-vibid:332300270388": 17,
+      "gas:candidate-vibid:1001000217916": 6,
+      "gas:candidate-vibid:1001000190332": 3,
+      "gas:candidate-vibid:1001000136040": 2,
+      "gas:candidate-vibid:1001000195062": 1,
+      "gas:candidate-vibid:332300270608": 0,
+      "gas:candidate-vibid:1001000121836": 17,
+      "gas:candidate-vibid:1001000225928": 82,
+      "gas:candidate-vibid:1001000131393": 5,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070380&region=0&sub_region=0&type=429",
@@ -2461,16 +2461,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 2,
-      "Бобков Александр Николаевич": 3,
-      "Бочаров Андрей Иванович": 3,
-      "Жданов-Луценко Николай Иванович": 3,
-      "Моганова Нина Семеновна": 1,
-      "Попик Василий Михайлович": 0,
-      "Рогонов Петр Петрович": 16,
-      "Семеньков Василий Иванович": 96,
-      "Шенкарев Олег Александрович": 2,
-      "Против всех": 10
+      "gas:candidate-vibid:332300270388": 2,
+      "gas:candidate-vibid:1001000217916": 3,
+      "gas:candidate-vibid:1001000190332": 3,
+      "gas:candidate-vibid:1001000136040": 3,
+      "gas:candidate-vibid:1001000195062": 1,
+      "gas:candidate-vibid:332300270608": 0,
+      "gas:candidate-vibid:1001000121836": 16,
+      "gas:candidate-vibid:1001000225928": 96,
+      "gas:candidate-vibid:1001000131393": 2,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070380&region=0&sub_region=0&type=429",
@@ -2520,16 +2520,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 24,
-      "Бобков Александр Николаевич": 7,
-      "Бочаров Андрей Иванович": 5,
-      "Жданов-Луценко Николай Иванович": 8,
-      "Моганова Нина Семеновна": 1,
-      "Попик Василий Михайлович": 4,
-      "Рогонов Петр Петрович": 46,
-      "Семеньков Василий Иванович": 125,
-      "Шенкарев Олег Александрович": 12,
-      "Против всех": 20
+      "gas:candidate-vibid:332300270388": 24,
+      "gas:candidate-vibid:1001000217916": 7,
+      "gas:candidate-vibid:1001000190332": 5,
+      "gas:candidate-vibid:1001000136040": 8,
+      "gas:candidate-vibid:1001000195062": 1,
+      "gas:candidate-vibid:332300270608": 4,
+      "gas:candidate-vibid:1001000121836": 46,
+      "gas:candidate-vibid:1001000225928": 125,
+      "gas:candidate-vibid:1001000131393": 12,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070380&region=0&sub_region=0&type=429",
@@ -2579,16 +2579,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 29,
-      "Бобков Александр Николаевич": 16,
-      "Бочаров Андрей Иванович": 11,
-      "Жданов-Луценко Николай Иванович": 3,
-      "Моганова Нина Семеновна": 1,
-      "Попик Василий Михайлович": 4,
-      "Рогонов Петр Петрович": 41,
-      "Семеньков Василий Иванович": 156,
-      "Шенкарев Олег Александрович": 9,
-      "Против всех": 28
+      "gas:candidate-vibid:332300270388": 29,
+      "gas:candidate-vibid:1001000217916": 16,
+      "gas:candidate-vibid:1001000190332": 11,
+      "gas:candidate-vibid:1001000136040": 3,
+      "gas:candidate-vibid:1001000195062": 1,
+      "gas:candidate-vibid:332300270608": 4,
+      "gas:candidate-vibid:1001000121836": 41,
+      "gas:candidate-vibid:1001000225928": 156,
+      "gas:candidate-vibid:1001000131393": 9,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070380&region=0&sub_region=0&type=429",
@@ -2638,16 +2638,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 7,
-      "Бобков Александр Николаевич": 3,
-      "Бочаров Андрей Иванович": 10,
-      "Жданов-Луценко Николай Иванович": 2,
-      "Моганова Нина Семеновна": 1,
-      "Попик Василий Михайлович": 1,
-      "Рогонов Петр Петрович": 26,
-      "Семеньков Василий Иванович": 37,
-      "Шенкарев Олег Александрович": 5,
-      "Против всех": 19
+      "gas:candidate-vibid:332300270388": 7,
+      "gas:candidate-vibid:1001000217916": 3,
+      "gas:candidate-vibid:1001000190332": 10,
+      "gas:candidate-vibid:1001000136040": 2,
+      "gas:candidate-vibid:1001000195062": 1,
+      "gas:candidate-vibid:332300270608": 1,
+      "gas:candidate-vibid:1001000121836": 26,
+      "gas:candidate-vibid:1001000225928": 37,
+      "gas:candidate-vibid:1001000131393": 5,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070380&region=0&sub_region=0&type=429",
@@ -2697,16 +2697,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 38,
-      "Бобков Александр Николаевич": 13,
-      "Бочаров Андрей Иванович": 10,
-      "Жданов-Луценко Николай Иванович": 4,
-      "Моганова Нина Семеновна": 2,
-      "Попик Василий Михайлович": 5,
-      "Рогонов Петр Петрович": 155,
-      "Семеньков Василий Иванович": 93,
-      "Шенкарев Олег Александрович": 15,
-      "Против всех": 21
+      "gas:candidate-vibid:332300270388": 38,
+      "gas:candidate-vibid:1001000217916": 13,
+      "gas:candidate-vibid:1001000190332": 10,
+      "gas:candidate-vibid:1001000136040": 4,
+      "gas:candidate-vibid:1001000195062": 2,
+      "gas:candidate-vibid:332300270608": 5,
+      "gas:candidate-vibid:1001000121836": 155,
+      "gas:candidate-vibid:1001000225928": 93,
+      "gas:candidate-vibid:1001000131393": 15,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070380&region=0&sub_region=0&type=429",
@@ -2756,16 +2756,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 10,
-      "Бобков Александр Николаевич": 0,
-      "Бочаров Андрей Иванович": 0,
-      "Жданов-Луценко Николай Иванович": 2,
-      "Моганова Нина Семеновна": 0,
-      "Попик Василий Михайлович": 0,
-      "Рогонов Петр Петрович": 11,
-      "Семеньков Василий Иванович": 60,
-      "Шенкарев Олег Александрович": 9,
-      "Против всех": 1
+      "gas:candidate-vibid:332300270388": 10,
+      "gas:candidate-vibid:1001000217916": 0,
+      "gas:candidate-vibid:1001000190332": 0,
+      "gas:candidate-vibid:1001000136040": 2,
+      "gas:candidate-vibid:1001000195062": 0,
+      "gas:candidate-vibid:332300270608": 0,
+      "gas:candidate-vibid:1001000121836": 11,
+      "gas:candidate-vibid:1001000225928": 60,
+      "gas:candidate-vibid:1001000131393": 9,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070380&region=0&sub_region=0&type=429",
@@ -2815,16 +2815,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 26,
-      "Бобков Александр Николаевич": 6,
-      "Бочаров Андрей Иванович": 7,
-      "Жданов-Луценко Николай Иванович": 2,
-      "Моганова Нина Семеновна": 2,
-      "Попик Василий Михайлович": 1,
-      "Рогонов Петр Петрович": 50,
-      "Семеньков Василий Иванович": 175,
-      "Шенкарев Олег Александрович": 17,
-      "Против всех": 10
+      "gas:candidate-vibid:332300270388": 26,
+      "gas:candidate-vibid:1001000217916": 6,
+      "gas:candidate-vibid:1001000190332": 7,
+      "gas:candidate-vibid:1001000136040": 2,
+      "gas:candidate-vibid:1001000195062": 2,
+      "gas:candidate-vibid:332300270608": 1,
+      "gas:candidate-vibid:1001000121836": 50,
+      "gas:candidate-vibid:1001000225928": 175,
+      "gas:candidate-vibid:1001000131393": 17,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070380&region=0&sub_region=0&type=429",
@@ -2874,16 +2874,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 10,
-      "Бобков Александр Николаевич": 34,
-      "Бочаров Андрей Иванович": 4,
-      "Жданов-Луценко Николай Иванович": 5,
-      "Моганова Нина Семеновна": 1,
-      "Попик Василий Михайлович": 6,
-      "Рогонов Петр Петрович": 41,
-      "Семеньков Василий Иванович": 141,
-      "Шенкарев Олег Александрович": 11,
-      "Против всех": 35
+      "gas:candidate-vibid:332300270388": 10,
+      "gas:candidate-vibid:1001000217916": 34,
+      "gas:candidate-vibid:1001000190332": 4,
+      "gas:candidate-vibid:1001000136040": 5,
+      "gas:candidate-vibid:1001000195062": 1,
+      "gas:candidate-vibid:332300270608": 6,
+      "gas:candidate-vibid:1001000121836": 41,
+      "gas:candidate-vibid:1001000225928": 141,
+      "gas:candidate-vibid:1001000131393": 11,
+      "special:against-all": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070380&region=0&sub_region=0&type=429",
@@ -2933,16 +2933,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 7,
-      "Бобков Александр Николаевич": 0,
-      "Бочаров Андрей Иванович": 3,
-      "Жданов-Луценко Николай Иванович": 1,
-      "Моганова Нина Семеновна": 2,
-      "Попик Василий Михайлович": 1,
-      "Рогонов Петр Петрович": 16,
-      "Семеньков Василий Иванович": 82,
-      "Шенкарев Олег Александрович": 6,
-      "Против всех": 9
+      "gas:candidate-vibid:332300270388": 7,
+      "gas:candidate-vibid:1001000217916": 0,
+      "gas:candidate-vibid:1001000190332": 3,
+      "gas:candidate-vibid:1001000136040": 1,
+      "gas:candidate-vibid:1001000195062": 2,
+      "gas:candidate-vibid:332300270608": 1,
+      "gas:candidate-vibid:1001000121836": 16,
+      "gas:candidate-vibid:1001000225928": 82,
+      "gas:candidate-vibid:1001000131393": 6,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070380&region=0&sub_region=0&type=429",
@@ -2992,16 +2992,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 8,
-      "Бобков Александр Николаевич": 9,
-      "Бочаров Андрей Иванович": 6,
-      "Жданов-Луценко Николай Иванович": 13,
-      "Моганова Нина Семеновна": 0,
-      "Попик Василий Михайлович": 0,
-      "Рогонов Петр Петрович": 58,
-      "Семеньков Василий Иванович": 115,
-      "Шенкарев Олег Александрович": 12,
-      "Против всех": 26
+      "gas:candidate-vibid:332300270388": 8,
+      "gas:candidate-vibid:1001000217916": 9,
+      "gas:candidate-vibid:1001000190332": 6,
+      "gas:candidate-vibid:1001000136040": 13,
+      "gas:candidate-vibid:1001000195062": 0,
+      "gas:candidate-vibid:332300270608": 0,
+      "gas:candidate-vibid:1001000121836": 58,
+      "gas:candidate-vibid:1001000225928": 115,
+      "gas:candidate-vibid:1001000131393": 12,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070380&region=0&sub_region=0&type=429",
@@ -3051,16 +3051,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 1,
-      "Бобков Александр Николаевич": 0,
-      "Бочаров Андрей Иванович": 0,
-      "Жданов-Луценко Николай Иванович": 0,
-      "Моганова Нина Семеновна": 0,
-      "Попик Василий Михайлович": 0,
-      "Рогонов Петр Петрович": 1,
-      "Семеньков Василий Иванович": 45,
-      "Шенкарев Олег Александрович": 3,
-      "Против всех": 1
+      "gas:candidate-vibid:332300270388": 1,
+      "gas:candidate-vibid:1001000217916": 0,
+      "gas:candidate-vibid:1001000190332": 0,
+      "gas:candidate-vibid:1001000136040": 0,
+      "gas:candidate-vibid:1001000195062": 0,
+      "gas:candidate-vibid:332300270608": 0,
+      "gas:candidate-vibid:1001000121836": 1,
+      "gas:candidate-vibid:1001000225928": 45,
+      "gas:candidate-vibid:1001000131393": 3,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070380&region=0&sub_region=0&type=429",
@@ -3110,16 +3110,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 33,
-      "Бобков Александр Николаевич": 2,
-      "Бочаров Андрей Иванович": 8,
-      "Жданов-Луценко Николай Иванович": 8,
-      "Моганова Нина Семеновна": 0,
-      "Попик Василий Михайлович": 1,
-      "Рогонов Петр Петрович": 20,
-      "Семеньков Василий Иванович": 104,
-      "Шенкарев Олег Александрович": 14,
-      "Против всех": 12
+      "gas:candidate-vibid:332300270388": 33,
+      "gas:candidate-vibid:1001000217916": 2,
+      "gas:candidate-vibid:1001000190332": 8,
+      "gas:candidate-vibid:1001000136040": 8,
+      "gas:candidate-vibid:1001000195062": 0,
+      "gas:candidate-vibid:332300270608": 1,
+      "gas:candidate-vibid:1001000121836": 20,
+      "gas:candidate-vibid:1001000225928": 104,
+      "gas:candidate-vibid:1001000131393": 14,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070380&region=0&sub_region=0&type=429",
@@ -3169,16 +3169,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 14,
-      "Бобков Александр Николаевич": 24,
-      "Бочаров Андрей Иванович": 12,
-      "Жданов-Луценко Николай Иванович": 5,
-      "Моганова Нина Семеновна": 1,
-      "Попик Василий Михайлович": 5,
-      "Рогонов Петр Петрович": 58,
-      "Семеньков Василий Иванович": 195,
-      "Шенкарев Олег Александрович": 9,
-      "Против всех": 26
+      "gas:candidate-vibid:332300270388": 14,
+      "gas:candidate-vibid:1001000217916": 24,
+      "gas:candidate-vibid:1001000190332": 12,
+      "gas:candidate-vibid:1001000136040": 5,
+      "gas:candidate-vibid:1001000195062": 1,
+      "gas:candidate-vibid:332300270608": 5,
+      "gas:candidate-vibid:1001000121836": 58,
+      "gas:candidate-vibid:1001000225928": 195,
+      "gas:candidate-vibid:1001000131393": 9,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070380&region=0&sub_region=0&type=429",
@@ -3228,16 +3228,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 30,
-      "Бобков Александр Николаевич": 46,
-      "Бочаров Андрей Иванович": 19,
-      "Жданов-Луценко Николай Иванович": 25,
-      "Моганова Нина Семеновна": 5,
-      "Попик Василий Михайлович": 2,
-      "Рогонов Петр Петрович": 71,
-      "Семеньков Василий Иванович": 298,
-      "Шенкарев Олег Александрович": 21,
-      "Против всех": 32
+      "gas:candidate-vibid:332300270388": 30,
+      "gas:candidate-vibid:1001000217916": 46,
+      "gas:candidate-vibid:1001000190332": 19,
+      "gas:candidate-vibid:1001000136040": 25,
+      "gas:candidate-vibid:1001000195062": 5,
+      "gas:candidate-vibid:332300270608": 2,
+      "gas:candidate-vibid:1001000121836": 71,
+      "gas:candidate-vibid:1001000225928": 298,
+      "gas:candidate-vibid:1001000131393": 21,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070380&region=0&sub_region=0&type=429",
@@ -3287,16 +3287,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 28,
-      "Бобков Александр Николаевич": 31,
-      "Бочаров Андрей Иванович": 9,
-      "Жданов-Луценко Николай Иванович": 3,
-      "Моганова Нина Семеновна": 1,
-      "Попик Василий Михайлович": 4,
-      "Рогонов Петр Петрович": 91,
-      "Семеньков Василий Иванович": 152,
-      "Шенкарев Олег Александрович": 37,
-      "Против всех": 28
+      "gas:candidate-vibid:332300270388": 28,
+      "gas:candidate-vibid:1001000217916": 31,
+      "gas:candidate-vibid:1001000190332": 9,
+      "gas:candidate-vibid:1001000136040": 3,
+      "gas:candidate-vibid:1001000195062": 1,
+      "gas:candidate-vibid:332300270608": 4,
+      "gas:candidate-vibid:1001000121836": 91,
+      "gas:candidate-vibid:1001000225928": 152,
+      "gas:candidate-vibid:1001000131393": 37,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070380&region=0&sub_region=0&type=429",
@@ -3346,16 +3346,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 3,
-      "Бобков Александр Николаевич": 1,
-      "Бочаров Андрей Иванович": 0,
-      "Жданов-Луценко Николай Иванович": 5,
-      "Моганова Нина Семеновна": 0,
-      "Попик Василий Михайлович": 1,
-      "Рогонов Петр Петрович": 170,
-      "Семеньков Василий Иванович": 92,
-      "Шенкарев Олег Александрович": 1,
-      "Против всех": 12
+      "gas:candidate-vibid:332300270388": 3,
+      "gas:candidate-vibid:1001000217916": 1,
+      "gas:candidate-vibid:1001000190332": 0,
+      "gas:candidate-vibid:1001000136040": 5,
+      "gas:candidate-vibid:1001000195062": 0,
+      "gas:candidate-vibid:332300270608": 1,
+      "gas:candidate-vibid:1001000121836": 170,
+      "gas:candidate-vibid:1001000225928": 92,
+      "gas:candidate-vibid:1001000131393": 1,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070380&region=0&sub_region=0&type=429",
@@ -3405,16 +3405,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 8,
-      "Бобков Александр Николаевич": 122,
-      "Бочаров Андрей Иванович": 2,
-      "Жданов-Луценко Николай Иванович": 7,
-      "Моганова Нина Семеновна": 1,
-      "Попик Василий Михайлович": 4,
-      "Рогонов Петр Петрович": 37,
-      "Семеньков Василий Иванович": 159,
-      "Шенкарев Олег Александрович": 6,
-      "Против всех": 18
+      "gas:candidate-vibid:332300270388": 8,
+      "gas:candidate-vibid:1001000217916": 122,
+      "gas:candidate-vibid:1001000190332": 2,
+      "gas:candidate-vibid:1001000136040": 7,
+      "gas:candidate-vibid:1001000195062": 1,
+      "gas:candidate-vibid:332300270608": 4,
+      "gas:candidate-vibid:1001000121836": 37,
+      "gas:candidate-vibid:1001000225928": 159,
+      "gas:candidate-vibid:1001000131393": 6,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070380&region=0&sub_region=0&type=429",
@@ -3464,16 +3464,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 29,
-      "Бобков Александр Николаевич": 20,
-      "Бочаров Андрей Иванович": 7,
-      "Жданов-Луценко Николай Иванович": 4,
-      "Моганова Нина Семеновна": 0,
-      "Попик Василий Михайлович": 0,
-      "Рогонов Петр Петрович": 129,
-      "Семеньков Василий Иванович": 211,
-      "Шенкарев Олег Александрович": 17,
-      "Против всех": 12
+      "gas:candidate-vibid:332300270388": 29,
+      "gas:candidate-vibid:1001000217916": 20,
+      "gas:candidate-vibid:1001000190332": 7,
+      "gas:candidate-vibid:1001000136040": 4,
+      "gas:candidate-vibid:1001000195062": 0,
+      "gas:candidate-vibid:332300270608": 0,
+      "gas:candidate-vibid:1001000121836": 129,
+      "gas:candidate-vibid:1001000225928": 211,
+      "gas:candidate-vibid:1001000131393": 17,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070380&region=0&sub_region=0&type=429",
@@ -3523,16 +3523,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 5,
-      "Бобков Александр Николаевич": 10,
-      "Бочаров Андрей Иванович": 5,
-      "Жданов-Луценко Николай Иванович": 0,
-      "Моганова Нина Семеновна": 0,
-      "Попик Василий Михайлович": 0,
-      "Рогонов Петр Петрович": 12,
-      "Семеньков Василий Иванович": 53,
-      "Шенкарев Олег Александрович": 25,
-      "Против всех": 2
+      "gas:candidate-vibid:332300270388": 5,
+      "gas:candidate-vibid:1001000217916": 10,
+      "gas:candidate-vibid:1001000190332": 5,
+      "gas:candidate-vibid:1001000136040": 0,
+      "gas:candidate-vibid:1001000195062": 0,
+      "gas:candidate-vibid:332300270608": 0,
+      "gas:candidate-vibid:1001000121836": 12,
+      "gas:candidate-vibid:1001000225928": 53,
+      "gas:candidate-vibid:1001000131393": 25,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070380&region=0&sub_region=0&type=429",
@@ -3582,16 +3582,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 63,
-      "Бобков Александр Николаевич": 14,
-      "Бочаров Андрей Иванович": 29,
-      "Жданов-Луценко Николай Иванович": 55,
-      "Моганова Нина Семеновна": 5,
-      "Попик Василий Михайлович": 38,
-      "Рогонов Петр Петрович": 224,
-      "Семеньков Василий Иванович": 290,
-      "Шенкарев Олег Александрович": 25,
-      "Против всех": 77
+      "gas:candidate-vibid:332300270388": 63,
+      "gas:candidate-vibid:1001000217916": 14,
+      "gas:candidate-vibid:1001000190332": 29,
+      "gas:candidate-vibid:1001000136040": 55,
+      "gas:candidate-vibid:1001000195062": 5,
+      "gas:candidate-vibid:332300270608": 38,
+      "gas:candidate-vibid:1001000121836": 224,
+      "gas:candidate-vibid:1001000225928": 290,
+      "gas:candidate-vibid:1001000131393": 25,
+      "special:against-all": 77
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070381&region=0&sub_region=0&type=429",
@@ -3641,16 +3641,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 64,
-      "Бобков Александр Николаевич": 21,
-      "Бочаров Андрей Иванович": 54,
-      "Жданов-Луценко Николай Иванович": 87,
-      "Моганова Нина Семеновна": 9,
-      "Попик Василий Михайлович": 39,
-      "Рогонов Петр Петрович": 206,
-      "Семеньков Василий Иванович": 353,
-      "Шенкарев Олег Александрович": 23,
-      "Против всех": 96
+      "gas:candidate-vibid:332300270388": 64,
+      "gas:candidate-vibid:1001000217916": 21,
+      "gas:candidate-vibid:1001000190332": 54,
+      "gas:candidate-vibid:1001000136040": 87,
+      "gas:candidate-vibid:1001000195062": 9,
+      "gas:candidate-vibid:332300270608": 39,
+      "gas:candidate-vibid:1001000121836": 206,
+      "gas:candidate-vibid:1001000225928": 353,
+      "gas:candidate-vibid:1001000131393": 23,
+      "special:against-all": 96
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070381&region=0&sub_region=0&type=429",
@@ -3700,16 +3700,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 83,
-      "Бобков Александр Николаевич": 33,
-      "Бочаров Андрей Иванович": 76,
-      "Жданов-Луценко Николай Иванович": 78,
-      "Моганова Нина Семеновна": 4,
-      "Попик Василий Михайлович": 40,
-      "Рогонов Петр Петрович": 279,
-      "Семеньков Василий Иванович": 467,
-      "Шенкарев Олег Александрович": 22,
-      "Против всех": 124
+      "gas:candidate-vibid:332300270388": 83,
+      "gas:candidate-vibid:1001000217916": 33,
+      "gas:candidate-vibid:1001000190332": 76,
+      "gas:candidate-vibid:1001000136040": 78,
+      "gas:candidate-vibid:1001000195062": 4,
+      "gas:candidate-vibid:332300270608": 40,
+      "gas:candidate-vibid:1001000121836": 279,
+      "gas:candidate-vibid:1001000225928": 467,
+      "gas:candidate-vibid:1001000131393": 22,
+      "special:against-all": 124
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070381&region=0&sub_region=0&type=429",
@@ -3759,16 +3759,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 79,
-      "Бобков Александр Николаевич": 23,
-      "Бочаров Андрей Иванович": 79,
-      "Жданов-Луценко Николай Иванович": 43,
-      "Моганова Нина Семеновна": 5,
-      "Попик Василий Михайлович": 27,
-      "Рогонов Петр Петрович": 351,
-      "Семеньков Василий Иванович": 442,
-      "Шенкарев Олег Александрович": 30,
-      "Против всех": 114
+      "gas:candidate-vibid:332300270388": 79,
+      "gas:candidate-vibid:1001000217916": 23,
+      "gas:candidate-vibid:1001000190332": 79,
+      "gas:candidate-vibid:1001000136040": 43,
+      "gas:candidate-vibid:1001000195062": 5,
+      "gas:candidate-vibid:332300270608": 27,
+      "gas:candidate-vibid:1001000121836": 351,
+      "gas:candidate-vibid:1001000225928": 442,
+      "gas:candidate-vibid:1001000131393": 30,
+      "special:against-all": 114
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070381&region=0&sub_region=0&type=429",
@@ -3818,16 +3818,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 59,
-      "Бобков Александр Николаевич": 33,
-      "Бочаров Андрей Иванович": 34,
-      "Жданов-Луценко Николай Иванович": 46,
-      "Моганова Нина Семеновна": 10,
-      "Попик Василий Михайлович": 15,
-      "Рогонов Петр Петрович": 191,
-      "Семеньков Василий Иванович": 302,
-      "Шенкарев Олег Александрович": 16,
-      "Против всех": 72
+      "gas:candidate-vibid:332300270388": 59,
+      "gas:candidate-vibid:1001000217916": 33,
+      "gas:candidate-vibid:1001000190332": 34,
+      "gas:candidate-vibid:1001000136040": 46,
+      "gas:candidate-vibid:1001000195062": 10,
+      "gas:candidate-vibid:332300270608": 15,
+      "gas:candidate-vibid:1001000121836": 191,
+      "gas:candidate-vibid:1001000225928": 302,
+      "gas:candidate-vibid:1001000131393": 16,
+      "special:against-all": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070381&region=0&sub_region=0&type=429",
@@ -3877,16 +3877,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 49,
-      "Бобков Александр Николаевич": 24,
-      "Бочаров Андрей Иванович": 62,
-      "Жданов-Луценко Николай Иванович": 75,
-      "Моганова Нина Семеновна": 3,
-      "Попик Василий Михайлович": 30,
-      "Рогонов Петр Петрович": 196,
-      "Семеньков Василий Иванович": 287,
-      "Шенкарев Олег Александрович": 24,
-      "Против всех": 73
+      "gas:candidate-vibid:332300270388": 49,
+      "gas:candidate-vibid:1001000217916": 24,
+      "gas:candidate-vibid:1001000190332": 62,
+      "gas:candidate-vibid:1001000136040": 75,
+      "gas:candidate-vibid:1001000195062": 3,
+      "gas:candidate-vibid:332300270608": 30,
+      "gas:candidate-vibid:1001000121836": 196,
+      "gas:candidate-vibid:1001000225928": 287,
+      "gas:candidate-vibid:1001000131393": 24,
+      "special:against-all": 73
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070381&region=0&sub_region=0&type=429",
@@ -3936,16 +3936,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 89,
-      "Бобков Александр Николаевич": 22,
-      "Бочаров Андрей Иванович": 74,
-      "Жданов-Луценко Николай Иванович": 62,
-      "Моганова Нина Семеновна": 3,
-      "Попик Василий Михайлович": 36,
-      "Рогонов Петр Петрович": 269,
-      "Семеньков Василий Иванович": 322,
-      "Шенкарев Олег Александрович": 28,
-      "Против всех": 84
+      "gas:candidate-vibid:332300270388": 89,
+      "gas:candidate-vibid:1001000217916": 22,
+      "gas:candidate-vibid:1001000190332": 74,
+      "gas:candidate-vibid:1001000136040": 62,
+      "gas:candidate-vibid:1001000195062": 3,
+      "gas:candidate-vibid:332300270608": 36,
+      "gas:candidate-vibid:1001000121836": 269,
+      "gas:candidate-vibid:1001000225928": 322,
+      "gas:candidate-vibid:1001000131393": 28,
+      "special:against-all": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070381&region=0&sub_region=0&type=429",
@@ -3995,16 +3995,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 75,
-      "Бобков Александр Николаевич": 21,
-      "Бочаров Андрей Иванович": 130,
-      "Жданов-Луценко Николай Иванович": 58,
-      "Моганова Нина Семеновна": 5,
-      "Попик Василий Михайлович": 26,
-      "Рогонов Петр Петрович": 336,
-      "Семеньков Василий Иванович": 376,
-      "Шенкарев Олег Александрович": 35,
-      "Против всех": 86
+      "gas:candidate-vibid:332300270388": 75,
+      "gas:candidate-vibid:1001000217916": 21,
+      "gas:candidate-vibid:1001000190332": 130,
+      "gas:candidate-vibid:1001000136040": 58,
+      "gas:candidate-vibid:1001000195062": 5,
+      "gas:candidate-vibid:332300270608": 26,
+      "gas:candidate-vibid:1001000121836": 336,
+      "gas:candidate-vibid:1001000225928": 376,
+      "gas:candidate-vibid:1001000131393": 35,
+      "special:against-all": 86
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070381&region=0&sub_region=0&type=429",
@@ -4054,16 +4054,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 75,
-      "Бобков Александр Николаевич": 29,
-      "Бочаров Андрей Иванович": 73,
-      "Жданов-Луценко Николай Иванович": 65,
-      "Моганова Нина Семеновна": 2,
-      "Попик Василий Михайлович": 24,
-      "Рогонов Петр Петрович": 303,
-      "Семеньков Василий Иванович": 291,
-      "Шенкарев Олег Александрович": 35,
-      "Против всех": 75
+      "gas:candidate-vibid:332300270388": 75,
+      "gas:candidate-vibid:1001000217916": 29,
+      "gas:candidate-vibid:1001000190332": 73,
+      "gas:candidate-vibid:1001000136040": 65,
+      "gas:candidate-vibid:1001000195062": 2,
+      "gas:candidate-vibid:332300270608": 24,
+      "gas:candidate-vibid:1001000121836": 303,
+      "gas:candidate-vibid:1001000225928": 291,
+      "gas:candidate-vibid:1001000131393": 35,
+      "special:against-all": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070381&region=0&sub_region=0&type=429",
@@ -4113,16 +4113,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 40,
-      "Бобков Александр Николаевич": 10,
-      "Бочаров Андрей Иванович": 50,
-      "Жданов-Луценко Николай Иванович": 25,
-      "Моганова Нина Семеновна": 3,
-      "Попик Василий Михайлович": 21,
-      "Рогонов Петр Петрович": 163,
-      "Семеньков Василий Иванович": 238,
-      "Шенкарев Олег Александрович": 14,
-      "Против всех": 45
+      "gas:candidate-vibid:332300270388": 40,
+      "gas:candidate-vibid:1001000217916": 10,
+      "gas:candidate-vibid:1001000190332": 50,
+      "gas:candidate-vibid:1001000136040": 25,
+      "gas:candidate-vibid:1001000195062": 3,
+      "gas:candidate-vibid:332300270608": 21,
+      "gas:candidate-vibid:1001000121836": 163,
+      "gas:candidate-vibid:1001000225928": 238,
+      "gas:candidate-vibid:1001000131393": 14,
+      "special:against-all": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070381&region=0&sub_region=0&type=429",
@@ -4172,16 +4172,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 21,
-      "Бобков Александр Николаевич": 31,
-      "Бочаров Андрей Иванович": 75,
-      "Жданов-Луценко Николай Иванович": 91,
-      "Моганова Нина Семеновна": 4,
-      "Попик Василий Михайлович": 21,
-      "Рогонов Петр Петрович": 336,
-      "Семеньков Василий Иванович": 457,
-      "Шенкарев Олег Александрович": 33,
-      "Против всех": 106
+      "gas:candidate-vibid:332300270388": 21,
+      "gas:candidate-vibid:1001000217916": 31,
+      "gas:candidate-vibid:1001000190332": 75,
+      "gas:candidate-vibid:1001000136040": 91,
+      "gas:candidate-vibid:1001000195062": 4,
+      "gas:candidate-vibid:332300270608": 21,
+      "gas:candidate-vibid:1001000121836": 336,
+      "gas:candidate-vibid:1001000225928": 457,
+      "gas:candidate-vibid:1001000131393": 33,
+      "special:against-all": 106
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070381&region=0&sub_region=0&type=429",
@@ -4231,16 +4231,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 4,
-      "Бобков Александр Николаевич": 4,
-      "Бочаров Андрей Иванович": 7,
-      "Жданов-Луценко Николай Иванович": 13,
-      "Моганова Нина Семеновна": 2,
-      "Попик Василий Михайлович": 0,
-      "Рогонов Петр Петрович": 35,
-      "Семеньков Василий Иванович": 50,
-      "Шенкарев Олег Александрович": 1,
-      "Против всех": 14
+      "gas:candidate-vibid:332300270388": 4,
+      "gas:candidate-vibid:1001000217916": 4,
+      "gas:candidate-vibid:1001000190332": 7,
+      "gas:candidate-vibid:1001000136040": 13,
+      "gas:candidate-vibid:1001000195062": 2,
+      "gas:candidate-vibid:332300270608": 0,
+      "gas:candidate-vibid:1001000121836": 35,
+      "gas:candidate-vibid:1001000225928": 50,
+      "gas:candidate-vibid:1001000131393": 1,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070381&region=0&sub_region=0&type=429",
@@ -4290,16 +4290,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 24,
-      "Бобков Александр Николаевич": 10,
-      "Бочаров Андрей Иванович": 18,
-      "Жданов-Луценко Николай Иванович": 28,
-      "Моганова Нина Семеновна": 0,
-      "Попик Василий Михайлович": 15,
-      "Рогонов Петр Петрович": 49,
-      "Семеньков Василий Иванович": 168,
-      "Шенкарев Олег Александрович": 19,
-      "Против всех": 22
+      "gas:candidate-vibid:332300270388": 24,
+      "gas:candidate-vibid:1001000217916": 10,
+      "gas:candidate-vibid:1001000190332": 18,
+      "gas:candidate-vibid:1001000136040": 28,
+      "gas:candidate-vibid:1001000195062": 0,
+      "gas:candidate-vibid:332300270608": 15,
+      "gas:candidate-vibid:1001000121836": 49,
+      "gas:candidate-vibid:1001000225928": 168,
+      "gas:candidate-vibid:1001000131393": 19,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070381&region=0&sub_region=0&type=429",
@@ -4349,16 +4349,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 12,
-      "Бобков Александр Николаевич": 5,
-      "Бочаров Андрей Иванович": 6,
-      "Жданов-Луценко Николай Иванович": 8,
-      "Моганова Нина Семеновна": 1,
-      "Попик Василий Михайлович": 3,
-      "Рогонов Петр Петрович": 24,
-      "Семеньков Василий Иванович": 60,
-      "Шенкарев Олег Александрович": 8,
-      "Против всех": 11
+      "gas:candidate-vibid:332300270388": 12,
+      "gas:candidate-vibid:1001000217916": 5,
+      "gas:candidate-vibid:1001000190332": 6,
+      "gas:candidate-vibid:1001000136040": 8,
+      "gas:candidate-vibid:1001000195062": 1,
+      "gas:candidate-vibid:332300270608": 3,
+      "gas:candidate-vibid:1001000121836": 24,
+      "gas:candidate-vibid:1001000225928": 60,
+      "gas:candidate-vibid:1001000131393": 8,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070381&region=0&sub_region=0&type=429",
@@ -4408,16 +4408,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 19,
-      "Бобков Александр Николаевич": 1,
-      "Бочаров Андрей Иванович": 27,
-      "Жданов-Луценко Николай Иванович": 1,
-      "Моганова Нина Семеновна": 0,
-      "Попик Василий Михайлович": 0,
-      "Рогонов Петр Петрович": 35,
-      "Семеньков Василий Иванович": 114,
-      "Шенкарев Олег Александрович": 3,
-      "Против всех": 12
+      "gas:candidate-vibid:332300270388": 19,
+      "gas:candidate-vibid:1001000217916": 1,
+      "gas:candidate-vibid:1001000190332": 27,
+      "gas:candidate-vibid:1001000136040": 1,
+      "gas:candidate-vibid:1001000195062": 0,
+      "gas:candidate-vibid:332300270608": 0,
+      "gas:candidate-vibid:1001000121836": 35,
+      "gas:candidate-vibid:1001000225928": 114,
+      "gas:candidate-vibid:1001000131393": 3,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070381&region=0&sub_region=0&type=429",
@@ -4467,16 +4467,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 25,
-      "Бобков Александр Николаевич": 3,
-      "Бочаров Андрей Иванович": 7,
-      "Жданов-Луценко Николай Иванович": 19,
-      "Моганова Нина Семеновна": 3,
-      "Попик Василий Михайлович": 2,
-      "Рогонов Петр Петрович": 65,
-      "Семеньков Василий Иванович": 239,
-      "Шенкарев Олег Александрович": 11,
-      "Против всех": 14
+      "gas:candidate-vibid:332300270388": 25,
+      "gas:candidate-vibid:1001000217916": 3,
+      "gas:candidate-vibid:1001000190332": 7,
+      "gas:candidate-vibid:1001000136040": 19,
+      "gas:candidate-vibid:1001000195062": 3,
+      "gas:candidate-vibid:332300270608": 2,
+      "gas:candidate-vibid:1001000121836": 65,
+      "gas:candidate-vibid:1001000225928": 239,
+      "gas:candidate-vibid:1001000131393": 11,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070381&region=0&sub_region=0&type=429",
@@ -4526,16 +4526,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 5,
-      "Бобков Александр Николаевич": 4,
-      "Бочаров Андрей Иванович": 2,
-      "Жданов-Луценко Николай Иванович": 12,
-      "Моганова Нина Семеновна": 0,
-      "Попик Василий Михайлович": 1,
-      "Рогонов Петр Петрович": 17,
-      "Семеньков Василий Иванович": 143,
-      "Шенкарев Олег Александрович": 2,
-      "Против всех": 7
+      "gas:candidate-vibid:332300270388": 5,
+      "gas:candidate-vibid:1001000217916": 4,
+      "gas:candidate-vibid:1001000190332": 2,
+      "gas:candidate-vibid:1001000136040": 12,
+      "gas:candidate-vibid:1001000195062": 0,
+      "gas:candidate-vibid:332300270608": 1,
+      "gas:candidate-vibid:1001000121836": 17,
+      "gas:candidate-vibid:1001000225928": 143,
+      "gas:candidate-vibid:1001000131393": 2,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070381&region=0&sub_region=0&type=429",
@@ -4585,16 +4585,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 18,
-      "Бобков Александр Николаевич": 3,
-      "Бочаров Андрей Иванович": 6,
-      "Жданов-Луценко Николай Иванович": 13,
-      "Моганова Нина Семеновна": 1,
-      "Попик Василий Михайлович": 2,
-      "Рогонов Петр Петрович": 22,
-      "Семеньков Василий Иванович": 74,
-      "Шенкарев Олег Александрович": 1,
-      "Против всех": 2
+      "gas:candidate-vibid:332300270388": 18,
+      "gas:candidate-vibid:1001000217916": 3,
+      "gas:candidate-vibid:1001000190332": 6,
+      "gas:candidate-vibid:1001000136040": 13,
+      "gas:candidate-vibid:1001000195062": 1,
+      "gas:candidate-vibid:332300270608": 2,
+      "gas:candidate-vibid:1001000121836": 22,
+      "gas:candidate-vibid:1001000225928": 74,
+      "gas:candidate-vibid:1001000131393": 1,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070381&region=0&sub_region=0&type=429",
@@ -4644,16 +4644,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 26,
-      "Бобков Александр Николаевич": 5,
-      "Бочаров Андрей Иванович": 7,
-      "Жданов-Луценко Николай Иванович": 14,
-      "Моганова Нина Семеновна": 3,
-      "Попик Василий Михайлович": 4,
-      "Рогонов Петр Петрович": 62,
-      "Семеньков Василий Иванович": 170,
-      "Шенкарев Олег Александрович": 13,
-      "Против всех": 11
+      "gas:candidate-vibid:332300270388": 26,
+      "gas:candidate-vibid:1001000217916": 5,
+      "gas:candidate-vibid:1001000190332": 7,
+      "gas:candidate-vibid:1001000136040": 14,
+      "gas:candidate-vibid:1001000195062": 3,
+      "gas:candidate-vibid:332300270608": 4,
+      "gas:candidate-vibid:1001000121836": 62,
+      "gas:candidate-vibid:1001000225928": 170,
+      "gas:candidate-vibid:1001000131393": 13,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070381&region=0&sub_region=0&type=429",
@@ -4703,16 +4703,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 20,
-      "Бобков Александр Николаевич": 2,
-      "Бочаров Андрей Иванович": 11,
-      "Жданов-Луценко Николай Иванович": 7,
-      "Моганова Нина Семеновна": 1,
-      "Попик Василий Михайлович": 11,
-      "Рогонов Петр Петрович": 52,
-      "Семеньков Василий Иванович": 113,
-      "Шенкарев Олег Александрович": 12,
-      "Против всех": 14
+      "gas:candidate-vibid:332300270388": 20,
+      "gas:candidate-vibid:1001000217916": 2,
+      "gas:candidate-vibid:1001000190332": 11,
+      "gas:candidate-vibid:1001000136040": 7,
+      "gas:candidate-vibid:1001000195062": 1,
+      "gas:candidate-vibid:332300270608": 11,
+      "gas:candidate-vibid:1001000121836": 52,
+      "gas:candidate-vibid:1001000225928": 113,
+      "gas:candidate-vibid:1001000131393": 12,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070381&region=0&sub_region=0&type=429",
@@ -4762,16 +4762,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 24,
-      "Бобков Александр Николаевич": 4,
-      "Бочаров Андрей Иванович": 6,
-      "Жданов-Луценко Николай Иванович": 14,
-      "Моганова Нина Семеновна": 3,
-      "Попик Василий Михайлович": 4,
-      "Рогонов Петр Петрович": 59,
-      "Семеньков Василий Иванович": 123,
-      "Шенкарев Олег Александрович": 17,
-      "Против всех": 16
+      "gas:candidate-vibid:332300270388": 24,
+      "gas:candidate-vibid:1001000217916": 4,
+      "gas:candidate-vibid:1001000190332": 6,
+      "gas:candidate-vibid:1001000136040": 14,
+      "gas:candidate-vibid:1001000195062": 3,
+      "gas:candidate-vibid:332300270608": 4,
+      "gas:candidate-vibid:1001000121836": 59,
+      "gas:candidate-vibid:1001000225928": 123,
+      "gas:candidate-vibid:1001000131393": 17,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070381&region=0&sub_region=0&type=429",
@@ -4821,16 +4821,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 47,
-      "Бобков Александр Николаевич": 28,
-      "Бочаров Андрей Иванович": 59,
-      "Жданов-Луценко Николай Иванович": 22,
-      "Моганова Нина Семеновна": 5,
-      "Попик Василий Михайлович": 6,
-      "Рогонов Петр Петрович": 66,
-      "Семеньков Василий Иванович": 175,
-      "Шенкарев Олег Александрович": 9,
-      "Против всех": 40
+      "gas:candidate-vibid:332300270388": 47,
+      "gas:candidate-vibid:1001000217916": 28,
+      "gas:candidate-vibid:1001000190332": 59,
+      "gas:candidate-vibid:1001000136040": 22,
+      "gas:candidate-vibid:1001000195062": 5,
+      "gas:candidate-vibid:332300270608": 6,
+      "gas:candidate-vibid:1001000121836": 66,
+      "gas:candidate-vibid:1001000225928": 175,
+      "gas:candidate-vibid:1001000131393": 9,
+      "special:against-all": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070381&region=0&sub_region=0&type=429",
@@ -4880,16 +4880,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 7,
-      "Бобков Александр Николаевич": 5,
-      "Бочаров Андрей Иванович": 3,
-      "Жданов-Луценко Николай Иванович": 7,
-      "Моганова Нина Семеновна": 0,
-      "Попик Василий Михайлович": 1,
-      "Рогонов Петр Петрович": 32,
-      "Семеньков Василий Иванович": 92,
-      "Шенкарев Олег Александрович": 3,
-      "Против всех": 12
+      "gas:candidate-vibid:332300270388": 7,
+      "gas:candidate-vibid:1001000217916": 5,
+      "gas:candidate-vibid:1001000190332": 3,
+      "gas:candidate-vibid:1001000136040": 7,
+      "gas:candidate-vibid:1001000195062": 0,
+      "gas:candidate-vibid:332300270608": 1,
+      "gas:candidate-vibid:1001000121836": 32,
+      "gas:candidate-vibid:1001000225928": 92,
+      "gas:candidate-vibid:1001000131393": 3,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070381&region=0&sub_region=0&type=429",
@@ -4939,16 +4939,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 28,
-      "Бобков Александр Николаевич": 3,
-      "Бочаров Андрей Иванович": 2,
-      "Жданов-Луценко Николай Иванович": 13,
-      "Моганова Нина Семеновна": 1,
-      "Попик Василий Михайлович": 3,
-      "Рогонов Петр Петрович": 22,
-      "Семеньков Василий Иванович": 83,
-      "Шенкарев Олег Александрович": 7,
-      "Против всех": 3
+      "gas:candidate-vibid:332300270388": 28,
+      "gas:candidate-vibid:1001000217916": 3,
+      "gas:candidate-vibid:1001000190332": 2,
+      "gas:candidate-vibid:1001000136040": 13,
+      "gas:candidate-vibid:1001000195062": 1,
+      "gas:candidate-vibid:332300270608": 3,
+      "gas:candidate-vibid:1001000121836": 22,
+      "gas:candidate-vibid:1001000225928": 83,
+      "gas:candidate-vibid:1001000131393": 7,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070381&region=0&sub_region=0&type=429",
@@ -4998,16 +4998,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 52,
-      "Бобков Александр Николаевич": 6,
-      "Бочаров Андрей Иванович": 7,
-      "Жданов-Луценко Николай Иванович": 7,
-      "Моганова Нина Семеновна": 1,
-      "Попик Василий Михайлович": 5,
-      "Рогонов Петр Петрович": 44,
-      "Семеньков Василий Иванович": 106,
-      "Шенкарев Олег Александрович": 7,
-      "Против всех": 10
+      "gas:candidate-vibid:332300270388": 52,
+      "gas:candidate-vibid:1001000217916": 6,
+      "gas:candidate-vibid:1001000190332": 7,
+      "gas:candidate-vibid:1001000136040": 7,
+      "gas:candidate-vibid:1001000195062": 1,
+      "gas:candidate-vibid:332300270608": 5,
+      "gas:candidate-vibid:1001000121836": 44,
+      "gas:candidate-vibid:1001000225928": 106,
+      "gas:candidate-vibid:1001000131393": 7,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070381&region=0&sub_region=0&type=429",
@@ -5057,16 +5057,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 24,
-      "Бобков Александр Николаевич": 12,
-      "Бочаров Андрей Иванович": 4,
-      "Жданов-Луценко Николай Иванович": 16,
-      "Моганова Нина Семеновна": 2,
-      "Попик Василий Михайлович": 0,
-      "Рогонов Петр Петрович": 88,
-      "Семеньков Василий Иванович": 139,
-      "Шенкарев Олег Александрович": 7,
-      "Против всех": 27
+      "gas:candidate-vibid:332300270388": 24,
+      "gas:candidate-vibid:1001000217916": 12,
+      "gas:candidate-vibid:1001000190332": 4,
+      "gas:candidate-vibid:1001000136040": 16,
+      "gas:candidate-vibid:1001000195062": 2,
+      "gas:candidate-vibid:332300270608": 0,
+      "gas:candidate-vibid:1001000121836": 88,
+      "gas:candidate-vibid:1001000225928": 139,
+      "gas:candidate-vibid:1001000131393": 7,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070381&region=0&sub_region=0&type=429",
@@ -5116,16 +5116,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 5,
-      "Бобков Александр Николаевич": 11,
-      "Бочаров Андрей Иванович": 1,
-      "Жданов-Луценко Николай Иванович": 10,
-      "Моганова Нина Семеновна": 1,
-      "Попик Василий Михайлович": 0,
-      "Рогонов Петр Петрович": 19,
-      "Семеньков Василий Иванович": 42,
-      "Шенкарев Олег Александрович": 4,
-      "Против всех": 0
+      "gas:candidate-vibid:332300270388": 5,
+      "gas:candidate-vibid:1001000217916": 11,
+      "gas:candidate-vibid:1001000190332": 1,
+      "gas:candidate-vibid:1001000136040": 10,
+      "gas:candidate-vibid:1001000195062": 1,
+      "gas:candidate-vibid:332300270608": 0,
+      "gas:candidate-vibid:1001000121836": 19,
+      "gas:candidate-vibid:1001000225928": 42,
+      "gas:candidate-vibid:1001000131393": 4,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070381&region=0&sub_region=0&type=429",
@@ -5175,16 +5175,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 43,
-      "Бобков Александр Николаевич": 4,
-      "Бочаров Андрей Иванович": 29,
-      "Жданов-Луценко Николай Иванович": 4,
-      "Моганова Нина Семеновна": 2,
-      "Попик Василий Михайлович": 0,
-      "Рогонов Петр Петрович": 116,
-      "Семеньков Василий Иванович": 105,
-      "Шенкарев Олег Александрович": 14,
-      "Против всех": 9
+      "gas:candidate-vibid:332300270388": 43,
+      "gas:candidate-vibid:1001000217916": 4,
+      "gas:candidate-vibid:1001000190332": 29,
+      "gas:candidate-vibid:1001000136040": 4,
+      "gas:candidate-vibid:1001000195062": 2,
+      "gas:candidate-vibid:332300270608": 0,
+      "gas:candidate-vibid:1001000121836": 116,
+      "gas:candidate-vibid:1001000225928": 105,
+      "gas:candidate-vibid:1001000131393": 14,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070381&region=0&sub_region=0&type=429",
@@ -5234,16 +5234,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 24,
-      "Бобков Александр Николаевич": 13,
-      "Бочаров Андрей Иванович": 10,
-      "Жданов-Луценко Николай Иванович": 8,
-      "Моганова Нина Семеновна": 6,
-      "Попик Василий Михайлович": 0,
-      "Рогонов Петр Петрович": 59,
-      "Семеньков Василий Иванович": 68,
-      "Шенкарев Олег Александрович": 7,
-      "Против всех": 11
+      "gas:candidate-vibid:332300270388": 24,
+      "gas:candidate-vibid:1001000217916": 13,
+      "gas:candidate-vibid:1001000190332": 10,
+      "gas:candidate-vibid:1001000136040": 8,
+      "gas:candidate-vibid:1001000195062": 6,
+      "gas:candidate-vibid:332300270608": 0,
+      "gas:candidate-vibid:1001000121836": 59,
+      "gas:candidate-vibid:1001000225928": 68,
+      "gas:candidate-vibid:1001000131393": 7,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070381&region=0&sub_region=0&type=429",
@@ -5293,16 +5293,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 17,
-      "Бобков Александр Николаевич": 4,
-      "Бочаров Андрей Иванович": 2,
-      "Жданов-Луценко Николай Иванович": 9,
-      "Моганова Нина Семеновна": 4,
-      "Попик Василий Михайлович": 1,
-      "Рогонов Петр Петрович": 34,
-      "Семеньков Василий Иванович": 135,
-      "Шенкарев Олег Александрович": 7,
-      "Против всех": 10
+      "gas:candidate-vibid:332300270388": 17,
+      "gas:candidate-vibid:1001000217916": 4,
+      "gas:candidate-vibid:1001000190332": 2,
+      "gas:candidate-vibid:1001000136040": 9,
+      "gas:candidate-vibid:1001000195062": 4,
+      "gas:candidate-vibid:332300270608": 1,
+      "gas:candidate-vibid:1001000121836": 34,
+      "gas:candidate-vibid:1001000225928": 135,
+      "gas:candidate-vibid:1001000131393": 7,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070381&region=0&sub_region=0&type=429",
@@ -5352,16 +5352,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 17,
-      "Бобков Александр Николаевич": 2,
-      "Бочаров Андрей Иванович": 3,
-      "Жданов-Луценко Николай Иванович": 4,
-      "Моганова Нина Семеновна": 2,
-      "Попик Василий Михайлович": 8,
-      "Рогонов Петр Петрович": 24,
-      "Семеньков Василий Иванович": 2,
-      "Шенкарев Олег Александрович": 14,
-      "Против всех": 2
+      "gas:candidate-vibid:332300270388": 17,
+      "gas:candidate-vibid:1001000217916": 2,
+      "gas:candidate-vibid:1001000190332": 3,
+      "gas:candidate-vibid:1001000136040": 4,
+      "gas:candidate-vibid:1001000195062": 2,
+      "gas:candidate-vibid:332300270608": 8,
+      "gas:candidate-vibid:1001000121836": 24,
+      "gas:candidate-vibid:1001000225928": 2,
+      "gas:candidate-vibid:1001000131393": 14,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070381&region=0&sub_region=0&type=429",
@@ -5411,16 +5411,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 67,
-      "Бобков Александр Николаевич": 4,
-      "Бочаров Андрей Иванович": 43,
-      "Жданов-Луценко Николай Иванович": 26,
-      "Моганова Нина Семеновна": 6,
-      "Попик Василий Михайлович": 4,
-      "Рогонов Петр Петрович": 47,
-      "Семеньков Василий Иванович": 231,
-      "Шенкарев Олег Александрович": 19,
-      "Против всех": 43
+      "gas:candidate-vibid:332300270388": 67,
+      "gas:candidate-vibid:1001000217916": 4,
+      "gas:candidate-vibid:1001000190332": 43,
+      "gas:candidate-vibid:1001000136040": 26,
+      "gas:candidate-vibid:1001000195062": 6,
+      "gas:candidate-vibid:332300270608": 4,
+      "gas:candidate-vibid:1001000121836": 47,
+      "gas:candidate-vibid:1001000225928": 231,
+      "gas:candidate-vibid:1001000131393": 19,
+      "special:against-all": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070381&region=0&sub_region=0&type=429",
@@ -5470,16 +5470,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 41,
-      "Бобков Александр Николаевич": 23,
-      "Бочаров Андрей Иванович": 12,
-      "Жданов-Луценко Николай Иванович": 6,
-      "Моганова Нина Семеновна": 1,
-      "Попик Василий Михайлович": 2,
-      "Рогонов Петр Петрович": 88,
-      "Семеньков Василий Иванович": 117,
-      "Шенкарев Олег Александрович": 6,
-      "Против всех": 14
+      "gas:candidate-vibid:332300270388": 41,
+      "gas:candidate-vibid:1001000217916": 23,
+      "gas:candidate-vibid:1001000190332": 12,
+      "gas:candidate-vibid:1001000136040": 6,
+      "gas:candidate-vibid:1001000195062": 1,
+      "gas:candidate-vibid:332300270608": 2,
+      "gas:candidate-vibid:1001000121836": 88,
+      "gas:candidate-vibid:1001000225928": 117,
+      "gas:candidate-vibid:1001000131393": 6,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070381&region=0&sub_region=0&type=429",
@@ -5529,16 +5529,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 19,
-      "Бобков Александр Николаевич": 4,
-      "Бочаров Андрей Иванович": 2,
-      "Жданов-Луценко Николай Иванович": 12,
-      "Моганова Нина Семеновна": 1,
-      "Попик Василий Михайлович": 4,
-      "Рогонов Петр Петрович": 41,
-      "Семеньков Василий Иванович": 154,
-      "Шенкарев Олег Александрович": 3,
-      "Против всех": 17
+      "gas:candidate-vibid:332300270388": 19,
+      "gas:candidate-vibid:1001000217916": 4,
+      "gas:candidate-vibid:1001000190332": 2,
+      "gas:candidate-vibid:1001000136040": 12,
+      "gas:candidate-vibid:1001000195062": 1,
+      "gas:candidate-vibid:332300270608": 4,
+      "gas:candidate-vibid:1001000121836": 41,
+      "gas:candidate-vibid:1001000225928": 154,
+      "gas:candidate-vibid:1001000131393": 3,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070381&region=0&sub_region=0&type=429",
@@ -5588,16 +5588,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 4,
-      "Бобков Александр Николаевич": 0,
-      "Бочаров Андрей Иванович": 19,
-      "Жданов-Луценко Николай Иванович": 29,
-      "Моганова Нина Семеновна": 0,
-      "Попик Василий Михайлович": 3,
-      "Рогонов Петр Петрович": 28,
-      "Семеньков Василий Иванович": 87,
-      "Шенкарев Олег Александрович": 3,
-      "Против всех": 10
+      "gas:candidate-vibid:332300270388": 4,
+      "gas:candidate-vibid:1001000217916": 0,
+      "gas:candidate-vibid:1001000190332": 19,
+      "gas:candidate-vibid:1001000136040": 29,
+      "gas:candidate-vibid:1001000195062": 0,
+      "gas:candidate-vibid:332300270608": 3,
+      "gas:candidate-vibid:1001000121836": 28,
+      "gas:candidate-vibid:1001000225928": 87,
+      "gas:candidate-vibid:1001000131393": 3,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070381&region=0&sub_region=0&type=429",
@@ -5647,16 +5647,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 41,
-      "Бобков Александр Николаевич": 5,
-      "Бочаров Андрей Иванович": 5,
-      "Жданов-Луценко Николай Иванович": 29,
-      "Моганова Нина Семеновна": 1,
-      "Попик Василий Михайлович": 9,
-      "Рогонов Петр Петрович": 31,
-      "Семеньков Василий Иванович": 125,
-      "Шенкарев Олег Александрович": 8,
-      "Против всех": 19
+      "gas:candidate-vibid:332300270388": 41,
+      "gas:candidate-vibid:1001000217916": 5,
+      "gas:candidate-vibid:1001000190332": 5,
+      "gas:candidate-vibid:1001000136040": 29,
+      "gas:candidate-vibid:1001000195062": 1,
+      "gas:candidate-vibid:332300270608": 9,
+      "gas:candidate-vibid:1001000121836": 31,
+      "gas:candidate-vibid:1001000225928": 125,
+      "gas:candidate-vibid:1001000131393": 8,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070381&region=0&sub_region=0&type=429",
@@ -5706,16 +5706,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 33,
-      "Бобков Александр Николаевич": 6,
-      "Бочаров Андрей Иванович": 14,
-      "Жданов-Луценко Николай Иванович": 11,
-      "Моганова Нина Семеновна": 0,
-      "Попик Василий Михайлович": 8,
-      "Рогонов Петр Петрович": 124,
-      "Семеньков Василий Иванович": 120,
-      "Шенкарев Олег Александрович": 7,
-      "Против всех": 28
+      "gas:candidate-vibid:332300270388": 33,
+      "gas:candidate-vibid:1001000217916": 6,
+      "gas:candidate-vibid:1001000190332": 14,
+      "gas:candidate-vibid:1001000136040": 11,
+      "gas:candidate-vibid:1001000195062": 0,
+      "gas:candidate-vibid:332300270608": 8,
+      "gas:candidate-vibid:1001000121836": 124,
+      "gas:candidate-vibid:1001000225928": 120,
+      "gas:candidate-vibid:1001000131393": 7,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070381&region=0&sub_region=0&type=429",
@@ -5765,16 +5765,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 1,
-      "Бобков Александр Николаевич": 2,
-      "Бочаров Андрей Иванович": 0,
-      "Жданов-Луценко Николай Иванович": 0,
-      "Моганова Нина Семеновна": 0,
-      "Попик Василий Михайлович": 2,
-      "Рогонов Петр Петрович": 29,
-      "Семеньков Василий Иванович": 24,
-      "Шенкарев Олег Александрович": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:332300270388": 1,
+      "gas:candidate-vibid:1001000217916": 2,
+      "gas:candidate-vibid:1001000190332": 0,
+      "gas:candidate-vibid:1001000136040": 0,
+      "gas:candidate-vibid:1001000195062": 0,
+      "gas:candidate-vibid:332300270608": 2,
+      "gas:candidate-vibid:1001000121836": 29,
+      "gas:candidate-vibid:1001000225928": 24,
+      "gas:candidate-vibid:1001000131393": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070381&region=0&sub_region=0&type=429",
@@ -5824,16 +5824,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 3,
-      "Бобков Александр Николаевич": 1,
-      "Бочаров Андрей Иванович": 2,
-      "Жданов-Луценко Николай Иванович": 3,
-      "Моганова Нина Семеновна": 0,
-      "Попик Василий Михайлович": 4,
-      "Рогонов Петр Петрович": 65,
-      "Семеньков Василий Иванович": 85,
-      "Шенкарев Олег Александрович": 0,
-      "Против всех": 4
+      "gas:candidate-vibid:332300270388": 3,
+      "gas:candidate-vibid:1001000217916": 1,
+      "gas:candidate-vibid:1001000190332": 2,
+      "gas:candidate-vibid:1001000136040": 3,
+      "gas:candidate-vibid:1001000195062": 0,
+      "gas:candidate-vibid:332300270608": 4,
+      "gas:candidate-vibid:1001000121836": 65,
+      "gas:candidate-vibid:1001000225928": 85,
+      "gas:candidate-vibid:1001000131393": 0,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070381&region=0&sub_region=0&type=429",
@@ -5883,16 +5883,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 14,
-      "Бобков Александр Николаевич": 4,
-      "Бочаров Андрей Иванович": 13,
-      "Жданов-Луценко Николай Иванович": 20,
-      "Моганова Нина Семеновна": 1,
-      "Попик Василий Михайлович": 3,
-      "Рогонов Петр Петрович": 52,
-      "Семеньков Василий Иванович": 103,
-      "Шенкарев Олег Александрович": 9,
-      "Против всех": 15
+      "gas:candidate-vibid:332300270388": 14,
+      "gas:candidate-vibid:1001000217916": 4,
+      "gas:candidate-vibid:1001000190332": 13,
+      "gas:candidate-vibid:1001000136040": 20,
+      "gas:candidate-vibid:1001000195062": 1,
+      "gas:candidate-vibid:332300270608": 3,
+      "gas:candidate-vibid:1001000121836": 52,
+      "gas:candidate-vibid:1001000225928": 103,
+      "gas:candidate-vibid:1001000131393": 9,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070381&region=0&sub_region=0&type=429",
@@ -5942,16 +5942,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 5,
-      "Бобков Александр Николаевич": 1,
-      "Бочаров Андрей Иванович": 7,
-      "Жданов-Луценко Николай Иванович": 2,
-      "Моганова Нина Семеновна": 2,
-      "Попик Василий Михайлович": 3,
-      "Рогонов Петр Петрович": 8,
-      "Семеньков Василий Иванович": 22,
-      "Шенкарев Олег Александрович": 2,
-      "Против всех": 1
+      "gas:candidate-vibid:332300270388": 5,
+      "gas:candidate-vibid:1001000217916": 1,
+      "gas:candidate-vibid:1001000190332": 7,
+      "gas:candidate-vibid:1001000136040": 2,
+      "gas:candidate-vibid:1001000195062": 2,
+      "gas:candidate-vibid:332300270608": 3,
+      "gas:candidate-vibid:1001000121836": 8,
+      "gas:candidate-vibid:1001000225928": 22,
+      "gas:candidate-vibid:1001000131393": 2,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070381&region=0&sub_region=0&type=429",
@@ -6001,16 +6001,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 40,
-      "Бобков Александр Николаевич": 21,
-      "Бочаров Андрей Иванович": 34,
-      "Жданов-Луценко Николай Иванович": 43,
-      "Моганова Нина Семеновна": 4,
-      "Попик Василий Михайлович": 87,
-      "Рогонов Петр Петрович": 220,
-      "Семеньков Василий Иванович": 206,
-      "Шенкарев Олег Александрович": 15,
-      "Против всех": 89
+      "gas:candidate-vibid:332300270388": 40,
+      "gas:candidate-vibid:1001000217916": 21,
+      "gas:candidate-vibid:1001000190332": 34,
+      "gas:candidate-vibid:1001000136040": 43,
+      "gas:candidate-vibid:1001000195062": 4,
+      "gas:candidate-vibid:332300270608": 87,
+      "gas:candidate-vibid:1001000121836": 220,
+      "gas:candidate-vibid:1001000225928": 206,
+      "gas:candidate-vibid:1001000131393": 15,
+      "special:against-all": 89
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070382&region=0&sub_region=0&type=429",
@@ -6060,16 +6060,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 48,
-      "Бобков Александр Николаевич": 23,
-      "Бочаров Андрей Иванович": 53,
-      "Жданов-Луценко Николай Иванович": 27,
-      "Моганова Нина Семеновна": 5,
-      "Попик Василий Михайлович": 52,
-      "Рогонов Петр Петрович": 173,
-      "Семеньков Василий Иванович": 189,
-      "Шенкарев Олег Александрович": 20,
-      "Против всех": 73
+      "gas:candidate-vibid:332300270388": 48,
+      "gas:candidate-vibid:1001000217916": 23,
+      "gas:candidate-vibid:1001000190332": 53,
+      "gas:candidate-vibid:1001000136040": 27,
+      "gas:candidate-vibid:1001000195062": 5,
+      "gas:candidate-vibid:332300270608": 52,
+      "gas:candidate-vibid:1001000121836": 173,
+      "gas:candidate-vibid:1001000225928": 189,
+      "gas:candidate-vibid:1001000131393": 20,
+      "special:against-all": 73
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070382&region=0&sub_region=0&type=429",
@@ -6119,16 +6119,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 85,
-      "Бобков Александр Николаевич": 30,
-      "Бочаров Андрей Иванович": 53,
-      "Жданов-Луценко Николай Иванович": 49,
-      "Моганова Нина Семеновна": 7,
-      "Попик Василий Михайлович": 80,
-      "Рогонов Петр Петрович": 367,
-      "Семеньков Василий Иванович": 380,
-      "Шенкарев Олег Александрович": 34,
-      "Против всех": 132
+      "gas:candidate-vibid:332300270388": 85,
+      "gas:candidate-vibid:1001000217916": 30,
+      "gas:candidate-vibid:1001000190332": 53,
+      "gas:candidate-vibid:1001000136040": 49,
+      "gas:candidate-vibid:1001000195062": 7,
+      "gas:candidate-vibid:332300270608": 80,
+      "gas:candidate-vibid:1001000121836": 367,
+      "gas:candidate-vibid:1001000225928": 380,
+      "gas:candidate-vibid:1001000131393": 34,
+      "special:against-all": 132
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070382&region=0&sub_region=0&type=429",
@@ -6178,16 +6178,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 78,
-      "Бобков Александр Николаевич": 40,
-      "Бочаров Андрей Иванович": 67,
-      "Жданов-Луценко Николай Иванович": 52,
-      "Моганова Нина Семеновна": 6,
-      "Попик Василий Михайлович": 55,
-      "Рогонов Петр Петрович": 402,
-      "Семеньков Василий Иванович": 266,
-      "Шенкарев Олег Александрович": 30,
-      "Против всех": 14
+      "gas:candidate-vibid:332300270388": 78,
+      "gas:candidate-vibid:1001000217916": 40,
+      "gas:candidate-vibid:1001000190332": 67,
+      "gas:candidate-vibid:1001000136040": 52,
+      "gas:candidate-vibid:1001000195062": 6,
+      "gas:candidate-vibid:332300270608": 55,
+      "gas:candidate-vibid:1001000121836": 402,
+      "gas:candidate-vibid:1001000225928": 266,
+      "gas:candidate-vibid:1001000131393": 30,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070382&region=0&sub_region=0&type=429",
@@ -6237,16 +6237,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 56,
-      "Бобков Александр Николаевич": 42,
-      "Бочаров Андрей Иванович": 46,
-      "Жданов-Луценко Николай Иванович": 64,
-      "Моганова Нина Семеновна": 5,
-      "Попик Василий Михайлович": 71,
-      "Рогонов Петр Петрович": 367,
-      "Семеньков Василий Иванович": 299,
-      "Шенкарев Олег Александрович": 19,
-      "Против всех": 113
+      "gas:candidate-vibid:332300270388": 56,
+      "gas:candidate-vibid:1001000217916": 42,
+      "gas:candidate-vibid:1001000190332": 46,
+      "gas:candidate-vibid:1001000136040": 64,
+      "gas:candidate-vibid:1001000195062": 5,
+      "gas:candidate-vibid:332300270608": 71,
+      "gas:candidate-vibid:1001000121836": 367,
+      "gas:candidate-vibid:1001000225928": 299,
+      "gas:candidate-vibid:1001000131393": 19,
+      "special:against-all": 113
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070382&region=0&sub_region=0&type=429",
@@ -6296,16 +6296,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 43,
-      "Бобков Александр Николаевич": 50,
-      "Бочаров Андрей Иванович": 25,
-      "Жданов-Луценко Николай Иванович": 38,
-      "Моганова Нина Семеновна": 5,
-      "Попик Василий Михайлович": 25,
-      "Рогонов Петр Петрович": 140,
-      "Семеньков Василий Иванович": 170,
-      "Шенкарев Олег Александрович": 16,
-      "Против всех": 82
+      "gas:candidate-vibid:332300270388": 43,
+      "gas:candidate-vibid:1001000217916": 50,
+      "gas:candidate-vibid:1001000190332": 25,
+      "gas:candidate-vibid:1001000136040": 38,
+      "gas:candidate-vibid:1001000195062": 5,
+      "gas:candidate-vibid:332300270608": 25,
+      "gas:candidate-vibid:1001000121836": 140,
+      "gas:candidate-vibid:1001000225928": 170,
+      "gas:candidate-vibid:1001000131393": 16,
+      "special:against-all": 82
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070382&region=0&sub_region=0&type=429",
@@ -6355,16 +6355,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 33,
-      "Бобков Александр Николаевич": 3,
-      "Бочаров Андрей Иванович": 15,
-      "Жданов-Луценко Николай Иванович": 20,
-      "Моганова Нина Семеновна": 3,
-      "Попик Василий Михайлович": 14,
-      "Рогонов Петр Петрович": 27,
-      "Семеньков Василий Иванович": 127,
-      "Шенкарев Олег Александрович": 21,
-      "Против всех": 20
+      "gas:candidate-vibid:332300270388": 33,
+      "gas:candidate-vibid:1001000217916": 3,
+      "gas:candidate-vibid:1001000190332": 15,
+      "gas:candidate-vibid:1001000136040": 20,
+      "gas:candidate-vibid:1001000195062": 3,
+      "gas:candidate-vibid:332300270608": 14,
+      "gas:candidate-vibid:1001000121836": 27,
+      "gas:candidate-vibid:1001000225928": 127,
+      "gas:candidate-vibid:1001000131393": 21,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070382&region=0&sub_region=0&type=429",
@@ -6414,16 +6414,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 44,
-      "Бобков Александр Николаевич": 21,
-      "Бочаров Андрей Иванович": 41,
-      "Жданов-Луценко Николай Иванович": 21,
-      "Моганова Нина Семеновна": 2,
-      "Попик Василий Михайлович": 28,
-      "Рогонов Петр Петрович": 192,
-      "Семеньков Василий Иванович": 308,
-      "Шенкарев Олег Александрович": 21,
-      "Против всех": 56
+      "gas:candidate-vibid:332300270388": 44,
+      "gas:candidate-vibid:1001000217916": 21,
+      "gas:candidate-vibid:1001000190332": 41,
+      "gas:candidate-vibid:1001000136040": 21,
+      "gas:candidate-vibid:1001000195062": 2,
+      "gas:candidate-vibid:332300270608": 28,
+      "gas:candidate-vibid:1001000121836": 192,
+      "gas:candidate-vibid:1001000225928": 308,
+      "gas:candidate-vibid:1001000131393": 21,
+      "special:against-all": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070382&region=0&sub_region=0&type=429",
@@ -6473,16 +6473,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 38,
-      "Бобков Александр Николаевич": 14,
-      "Бочаров Андрей Иванович": 45,
-      "Жданов-Луценко Николай Иванович": 30,
-      "Моганова Нина Семеновна": 5,
-      "Попик Василий Михайлович": 56,
-      "Рогонов Петр Петрович": 280,
-      "Семеньков Василий Иванович": 391,
-      "Шенкарев Олег Александрович": 16,
-      "Против всех": 74
+      "gas:candidate-vibid:332300270388": 38,
+      "gas:candidate-vibid:1001000217916": 14,
+      "gas:candidate-vibid:1001000190332": 45,
+      "gas:candidate-vibid:1001000136040": 30,
+      "gas:candidate-vibid:1001000195062": 5,
+      "gas:candidate-vibid:332300270608": 56,
+      "gas:candidate-vibid:1001000121836": 280,
+      "gas:candidate-vibid:1001000225928": 391,
+      "gas:candidate-vibid:1001000131393": 16,
+      "special:against-all": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070382&region=0&sub_region=0&type=429",
@@ -6532,16 +6532,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 35,
-      "Бобков Александр Николаевич": 8,
-      "Бочаров Андрей Иванович": 22,
-      "Жданов-Луценко Николай Иванович": 30,
-      "Моганова Нина Семеновна": 1,
-      "Попик Василий Михайлович": 14,
-      "Рогонов Петр Петрович": 122,
-      "Семеньков Василий Иванович": 319,
-      "Шенкарев Олег Александрович": 15,
-      "Против всех": 51
+      "gas:candidate-vibid:332300270388": 35,
+      "gas:candidate-vibid:1001000217916": 8,
+      "gas:candidate-vibid:1001000190332": 22,
+      "gas:candidate-vibid:1001000136040": 30,
+      "gas:candidate-vibid:1001000195062": 1,
+      "gas:candidate-vibid:332300270608": 14,
+      "gas:candidate-vibid:1001000121836": 122,
+      "gas:candidate-vibid:1001000225928": 319,
+      "gas:candidate-vibid:1001000131393": 15,
+      "special:against-all": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070382&region=0&sub_region=0&type=429",
@@ -6591,16 +6591,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 41,
-      "Бобков Александр Николаевич": 16,
-      "Бочаров Андрей Иванович": 38,
-      "Жданов-Луценко Николай Иванович": 20,
-      "Моганова Нина Семеновна": 2,
-      "Попик Василий Михайлович": 23,
-      "Рогонов Петр Петрович": 170,
-      "Семеньков Василий Иванович": 375,
-      "Шенкарев Олег Александрович": 11,
-      "Против всех": 87
+      "gas:candidate-vibid:332300270388": 41,
+      "gas:candidate-vibid:1001000217916": 16,
+      "gas:candidate-vibid:1001000190332": 38,
+      "gas:candidate-vibid:1001000136040": 20,
+      "gas:candidate-vibid:1001000195062": 2,
+      "gas:candidate-vibid:332300270608": 23,
+      "gas:candidate-vibid:1001000121836": 170,
+      "gas:candidate-vibid:1001000225928": 375,
+      "gas:candidate-vibid:1001000131393": 11,
+      "special:against-all": 87
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070382&region=0&sub_region=0&type=429",
@@ -6650,16 +6650,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 50,
-      "Бобков Александр Николаевич": 66,
-      "Бочаров Андрей Иванович": 4,
-      "Жданов-Луценко Николай Иванович": 9,
-      "Моганова Нина Семеновна": 6,
-      "Попик Василий Михайлович": 10,
-      "Рогонов Петр Петрович": 32,
-      "Семеньков Василий Иванович": 93,
-      "Шенкарев Олег Александрович": 12,
-      "Против всех": 11
+      "gas:candidate-vibid:332300270388": 50,
+      "gas:candidate-vibid:1001000217916": 66,
+      "gas:candidate-vibid:1001000190332": 4,
+      "gas:candidate-vibid:1001000136040": 9,
+      "gas:candidate-vibid:1001000195062": 6,
+      "gas:candidate-vibid:332300270608": 10,
+      "gas:candidate-vibid:1001000121836": 32,
+      "gas:candidate-vibid:1001000225928": 93,
+      "gas:candidate-vibid:1001000131393": 12,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070382&region=0&sub_region=0&type=429",
@@ -6709,16 +6709,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 3,
-      "Бобков Александр Николаевич": 0,
-      "Бочаров Андрей Иванович": 2,
-      "Жданов-Луценко Николай Иванович": 1,
-      "Моганова Нина Семеновна": 0,
-      "Попик Василий Михайлович": 0,
-      "Рогонов Петр Петрович": 25,
-      "Семеньков Василий Иванович": 11,
-      "Шенкарев Олег Александрович": 2,
-      "Против всех": 2
+      "gas:candidate-vibid:332300270388": 3,
+      "gas:candidate-vibid:1001000217916": 0,
+      "gas:candidate-vibid:1001000190332": 2,
+      "gas:candidate-vibid:1001000136040": 1,
+      "gas:candidate-vibid:1001000195062": 0,
+      "gas:candidate-vibid:332300270608": 0,
+      "gas:candidate-vibid:1001000121836": 25,
+      "gas:candidate-vibid:1001000225928": 11,
+      "gas:candidate-vibid:1001000131393": 2,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070382&region=0&sub_region=0&type=429",
@@ -6768,16 +6768,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 49,
-      "Бобков Александр Николаевич": 42,
-      "Бочаров Андрей Иванович": 7,
-      "Жданов-Луценко Николай Иванович": 17,
-      "Моганова Нина Семеновна": 0,
-      "Попик Василий Михайлович": 5,
-      "Рогонов Петр Петрович": 38,
-      "Семеньков Василий Иванович": 48,
-      "Шенкарев Олег Александрович": 20,
-      "Против всех": 34
+      "gas:candidate-vibid:332300270388": 49,
+      "gas:candidate-vibid:1001000217916": 42,
+      "gas:candidate-vibid:1001000190332": 7,
+      "gas:candidate-vibid:1001000136040": 17,
+      "gas:candidate-vibid:1001000195062": 0,
+      "gas:candidate-vibid:332300270608": 5,
+      "gas:candidate-vibid:1001000121836": 38,
+      "gas:candidate-vibid:1001000225928": 48,
+      "gas:candidate-vibid:1001000131393": 20,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070382&region=0&sub_region=0&type=429",
@@ -6827,16 +6827,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 20,
-      "Бобков Александр Николаевич": 22,
-      "Бочаров Андрей Иванович": 29,
-      "Жданов-Луценко Николай Иванович": 27,
-      "Моганова Нина Семеновна": 4,
-      "Попик Василий Михайлович": 17,
-      "Рогонов Петр Петрович": 77,
-      "Семеньков Василий Иванович": 203,
-      "Шенкарев Олег Александрович": 14,
-      "Против всех": 34
+      "gas:candidate-vibid:332300270388": 20,
+      "gas:candidate-vibid:1001000217916": 22,
+      "gas:candidate-vibid:1001000190332": 29,
+      "gas:candidate-vibid:1001000136040": 27,
+      "gas:candidate-vibid:1001000195062": 4,
+      "gas:candidate-vibid:332300270608": 17,
+      "gas:candidate-vibid:1001000121836": 77,
+      "gas:candidate-vibid:1001000225928": 203,
+      "gas:candidate-vibid:1001000131393": 14,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070382&region=0&sub_region=0&type=429",
@@ -6886,16 +6886,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 24,
-      "Бобков Александр Николаевич": 7,
-      "Бочаров Андрей Иванович": 19,
-      "Жданов-Луценко Николай Иванович": 18,
-      "Моганова Нина Семеновна": 3,
-      "Попик Василий Михайлович": 10,
-      "Рогонов Петр Петрович": 76,
-      "Семеньков Василий Иванович": 86,
-      "Шенкарев Олег Александрович": 8,
-      "Против всех": 12
+      "gas:candidate-vibid:332300270388": 24,
+      "gas:candidate-vibid:1001000217916": 7,
+      "gas:candidate-vibid:1001000190332": 19,
+      "gas:candidate-vibid:1001000136040": 18,
+      "gas:candidate-vibid:1001000195062": 3,
+      "gas:candidate-vibid:332300270608": 10,
+      "gas:candidate-vibid:1001000121836": 76,
+      "gas:candidate-vibid:1001000225928": 86,
+      "gas:candidate-vibid:1001000131393": 8,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070382&region=0&sub_region=0&type=429",
@@ -6945,16 +6945,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 47,
-      "Бобков Александр Николаевич": 21,
-      "Бочаров Андрей Иванович": 19,
-      "Жданов-Луценко Николай Иванович": 13,
-      "Моганова Нина Семеновна": 1,
-      "Попик Василий Михайлович": 5,
-      "Рогонов Петр Петрович": 101,
-      "Семеньков Василий Иванович": 123,
-      "Шенкарев Олег Александрович": 18,
-      "Против всех": 33
+      "gas:candidate-vibid:332300270388": 47,
+      "gas:candidate-vibid:1001000217916": 21,
+      "gas:candidate-vibid:1001000190332": 19,
+      "gas:candidate-vibid:1001000136040": 13,
+      "gas:candidate-vibid:1001000195062": 1,
+      "gas:candidate-vibid:332300270608": 5,
+      "gas:candidate-vibid:1001000121836": 101,
+      "gas:candidate-vibid:1001000225928": 123,
+      "gas:candidate-vibid:1001000131393": 18,
+      "special:against-all": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070382&region=0&sub_region=0&type=429",
@@ -7004,16 +7004,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 75,
-      "Бобков Александр Николаевич": 3,
-      "Бочаров Андрей Иванович": 31,
-      "Жданов-Луценко Николай Иванович": 18,
-      "Моганова Нина Семеновна": 3,
-      "Попик Василий Михайлович": 21,
-      "Рогонов Петр Петрович": 152,
-      "Семеньков Василий Иванович": 200,
-      "Шенкарев Олег Александрович": 18,
-      "Против всех": 18
+      "gas:candidate-vibid:332300270388": 75,
+      "gas:candidate-vibid:1001000217916": 3,
+      "gas:candidate-vibid:1001000190332": 31,
+      "gas:candidate-vibid:1001000136040": 18,
+      "gas:candidate-vibid:1001000195062": 3,
+      "gas:candidate-vibid:332300270608": 21,
+      "gas:candidate-vibid:1001000121836": 152,
+      "gas:candidate-vibid:1001000225928": 200,
+      "gas:candidate-vibid:1001000131393": 18,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070382&region=0&sub_region=0&type=429",
@@ -7063,16 +7063,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 19,
-      "Бобков Александр Николаевич": 3,
-      "Бочаров Андрей Иванович": 4,
-      "Жданов-Луценко Николай Иванович": 9,
-      "Моганова Нина Семеновна": 0,
-      "Попик Василий Михайлович": 5,
-      "Рогонов Петр Петрович": 44,
-      "Семеньков Василий Иванович": 16,
-      "Шенкарев Олег Александрович": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:332300270388": 19,
+      "gas:candidate-vibid:1001000217916": 3,
+      "gas:candidate-vibid:1001000190332": 4,
+      "gas:candidate-vibid:1001000136040": 9,
+      "gas:candidate-vibid:1001000195062": 0,
+      "gas:candidate-vibid:332300270608": 5,
+      "gas:candidate-vibid:1001000121836": 44,
+      "gas:candidate-vibid:1001000225928": 16,
+      "gas:candidate-vibid:1001000131393": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070382&region=0&sub_region=0&type=429",
@@ -7122,16 +7122,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 9,
-      "Бобков Александр Николаевич": 0,
-      "Бочаров Андрей Иванович": 3,
-      "Жданов-Луценко Николай Иванович": 0,
-      "Моганова Нина Семеновна": 3,
-      "Попик Василий Михайлович": 7,
-      "Рогонов Петр Петрович": 5,
-      "Семеньков Василий Иванович": 25,
-      "Шенкарев Олег Александрович": 8,
-      "Против всех": 0
+      "gas:candidate-vibid:332300270388": 9,
+      "gas:candidate-vibid:1001000217916": 0,
+      "gas:candidate-vibid:1001000190332": 3,
+      "gas:candidate-vibid:1001000136040": 0,
+      "gas:candidate-vibid:1001000195062": 3,
+      "gas:candidate-vibid:332300270608": 7,
+      "gas:candidate-vibid:1001000121836": 5,
+      "gas:candidate-vibid:1001000225928": 25,
+      "gas:candidate-vibid:1001000131393": 8,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070382&region=0&sub_region=0&type=429",
@@ -7181,16 +7181,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 24,
-      "Бобков Александр Николаевич": 17,
-      "Бочаров Андрей Иванович": 15,
-      "Жданов-Луценко Николай Иванович": 6,
-      "Моганова Нина Семеновна": 2,
-      "Попик Василий Михайлович": 11,
-      "Рогонов Петр Петрович": 181,
-      "Семеньков Василий Иванович": 81,
-      "Шенкарев Олег Александрович": 12,
-      "Против всех": 12
+      "gas:candidate-vibid:332300270388": 24,
+      "gas:candidate-vibid:1001000217916": 17,
+      "gas:candidate-vibid:1001000190332": 15,
+      "gas:candidate-vibid:1001000136040": 6,
+      "gas:candidate-vibid:1001000195062": 2,
+      "gas:candidate-vibid:332300270608": 11,
+      "gas:candidate-vibid:1001000121836": 181,
+      "gas:candidate-vibid:1001000225928": 81,
+      "gas:candidate-vibid:1001000131393": 12,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070382&region=0&sub_region=0&type=429",
@@ -7240,16 +7240,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 21,
-      "Бобков Александр Николаевич": 10,
-      "Бочаров Андрей Иванович": 5,
-      "Жданов-Луценко Николай Иванович": 2,
-      "Моганова Нина Семеновна": 3,
-      "Попик Василий Михайлович": 9,
-      "Рогонов Петр Петрович": 99,
-      "Семеньков Василий Иванович": 47,
-      "Шенкарев Олег Александрович": 9,
-      "Против всех": 31
+      "gas:candidate-vibid:332300270388": 21,
+      "gas:candidate-vibid:1001000217916": 10,
+      "gas:candidate-vibid:1001000190332": 5,
+      "gas:candidate-vibid:1001000136040": 2,
+      "gas:candidate-vibid:1001000195062": 3,
+      "gas:candidate-vibid:332300270608": 9,
+      "gas:candidate-vibid:1001000121836": 99,
+      "gas:candidate-vibid:1001000225928": 47,
+      "gas:candidate-vibid:1001000131393": 9,
+      "special:against-all": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070382&region=0&sub_region=0&type=429",
@@ -7299,16 +7299,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 22,
-      "Бобков Александр Николаевич": 18,
-      "Бочаров Андрей Иванович": 8,
-      "Жданов-Луценко Николай Иванович": 8,
-      "Моганова Нина Семеновна": 1,
-      "Попик Василий Михайлович": 20,
-      "Рогонов Петр Петрович": 54,
-      "Семеньков Василий Иванович": 75,
-      "Шенкарев Олег Александрович": 6,
-      "Против всех": 13
+      "gas:candidate-vibid:332300270388": 22,
+      "gas:candidate-vibid:1001000217916": 18,
+      "gas:candidate-vibid:1001000190332": 8,
+      "gas:candidate-vibid:1001000136040": 8,
+      "gas:candidate-vibid:1001000195062": 1,
+      "gas:candidate-vibid:332300270608": 20,
+      "gas:candidate-vibid:1001000121836": 54,
+      "gas:candidate-vibid:1001000225928": 75,
+      "gas:candidate-vibid:1001000131393": 6,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070382&region=0&sub_region=0&type=429",
@@ -7358,16 +7358,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 5,
-      "Бобков Александр Николаевич": 2,
-      "Бочаров Андрей Иванович": 2,
-      "Жданов-Луценко Николай Иванович": 0,
-      "Моганова Нина Семеновна": 1,
-      "Попик Василий Михайлович": 0,
-      "Рогонов Петр Петрович": 20,
-      "Семеньков Василий Иванович": 30,
-      "Шенкарев Олег Александрович": 1,
-      "Против всех": 1
+      "gas:candidate-vibid:332300270388": 5,
+      "gas:candidate-vibid:1001000217916": 2,
+      "gas:candidate-vibid:1001000190332": 2,
+      "gas:candidate-vibid:1001000136040": 0,
+      "gas:candidate-vibid:1001000195062": 1,
+      "gas:candidate-vibid:332300270608": 0,
+      "gas:candidate-vibid:1001000121836": 20,
+      "gas:candidate-vibid:1001000225928": 30,
+      "gas:candidate-vibid:1001000131393": 1,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070382&region=0&sub_region=0&type=429",
@@ -7417,16 +7417,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 22,
-      "Бобков Александр Николаевич": 11,
-      "Бочаров Андрей Иванович": 8,
-      "Жданов-Луценко Николай Иванович": 6,
-      "Моганова Нина Семеновна": 1,
-      "Попик Василий Михайлович": 3,
-      "Рогонов Петр Петрович": 113,
-      "Семеньков Василий Иванович": 56,
-      "Шенкарев Олег Александрович": 6,
-      "Против всех": 15
+      "gas:candidate-vibid:332300270388": 22,
+      "gas:candidate-vibid:1001000217916": 11,
+      "gas:candidate-vibid:1001000190332": 8,
+      "gas:candidate-vibid:1001000136040": 6,
+      "gas:candidate-vibid:1001000195062": 1,
+      "gas:candidate-vibid:332300270608": 3,
+      "gas:candidate-vibid:1001000121836": 113,
+      "gas:candidate-vibid:1001000225928": 56,
+      "gas:candidate-vibid:1001000131393": 6,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070382&region=0&sub_region=0&type=429",
@@ -7476,16 +7476,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 7,
-      "Бобков Александр Николаевич": 1,
-      "Бочаров Андрей Иванович": 4,
-      "Жданов-Луценко Николай Иванович": 17,
-      "Моганова Нина Семеновна": 0,
-      "Попик Василий Михайлович": 2,
-      "Рогонов Петр Петрович": 30,
-      "Семеньков Василий Иванович": 48,
-      "Шенкарев Олег Александрович": 2,
-      "Против всех": 2
+      "gas:candidate-vibid:332300270388": 7,
+      "gas:candidate-vibid:1001000217916": 1,
+      "gas:candidate-vibid:1001000190332": 4,
+      "gas:candidate-vibid:1001000136040": 17,
+      "gas:candidate-vibid:1001000195062": 0,
+      "gas:candidate-vibid:332300270608": 2,
+      "gas:candidate-vibid:1001000121836": 30,
+      "gas:candidate-vibid:1001000225928": 48,
+      "gas:candidate-vibid:1001000131393": 2,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070382&region=0&sub_region=0&type=429",
@@ -7535,16 +7535,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 31,
-      "Бобков Александр Николаевич": 4,
-      "Бочаров Андрей Иванович": 2,
-      "Жданов-Луценко Николай Иванович": 7,
-      "Моганова Нина Семеновна": 3,
-      "Попик Василий Михайлович": 2,
-      "Рогонов Петр Петрович": 29,
-      "Семеньков Василий Иванович": 52,
-      "Шенкарев Олег Александрович": 6,
-      "Против всех": 9
+      "gas:candidate-vibid:332300270388": 31,
+      "gas:candidate-vibid:1001000217916": 4,
+      "gas:candidate-vibid:1001000190332": 2,
+      "gas:candidate-vibid:1001000136040": 7,
+      "gas:candidate-vibid:1001000195062": 3,
+      "gas:candidate-vibid:332300270608": 2,
+      "gas:candidate-vibid:1001000121836": 29,
+      "gas:candidate-vibid:1001000225928": 52,
+      "gas:candidate-vibid:1001000131393": 6,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070382&region=0&sub_region=0&type=429",
@@ -7594,16 +7594,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 16,
-      "Бобков Александр Николаевич": 8,
-      "Бочаров Андрей Иванович": 4,
-      "Жданов-Луценко Николай Иванович": 18,
-      "Моганова Нина Семеновна": 3,
-      "Попик Василий Михайлович": 11,
-      "Рогонов Петр Петрович": 75,
-      "Семеньков Василий Иванович": 53,
-      "Шенкарев Олег Александрович": 14,
-      "Против всех": 18
+      "gas:candidate-vibid:332300270388": 16,
+      "gas:candidate-vibid:1001000217916": 8,
+      "gas:candidate-vibid:1001000190332": 4,
+      "gas:candidate-vibid:1001000136040": 18,
+      "gas:candidate-vibid:1001000195062": 3,
+      "gas:candidate-vibid:332300270608": 11,
+      "gas:candidate-vibid:1001000121836": 75,
+      "gas:candidate-vibid:1001000225928": 53,
+      "gas:candidate-vibid:1001000131393": 14,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070382&region=0&sub_region=0&type=429",
@@ -7653,16 +7653,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 20,
-      "Бобков Александр Николаевич": 20,
-      "Бочаров Андрей Иванович": 0,
-      "Жданов-Луценко Николай Иванович": 11,
-      "Моганова Нина Семеновна": 0,
-      "Попик Василий Михайлович": 1,
-      "Рогонов Петр Петрович": 20,
-      "Семеньков Василий Иванович": 45,
-      "Шенкарев Олег Александрович": 8,
-      "Против всех": 10
+      "gas:candidate-vibid:332300270388": 20,
+      "gas:candidate-vibid:1001000217916": 20,
+      "gas:candidate-vibid:1001000190332": 0,
+      "gas:candidate-vibid:1001000136040": 11,
+      "gas:candidate-vibid:1001000195062": 0,
+      "gas:candidate-vibid:332300270608": 1,
+      "gas:candidate-vibid:1001000121836": 20,
+      "gas:candidate-vibid:1001000225928": 45,
+      "gas:candidate-vibid:1001000131393": 8,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070382&region=0&sub_region=0&type=429",
@@ -7712,16 +7712,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 22,
-      "Бобков Александр Николаевич": 28,
-      "Бочаров Андрей Иванович": 13,
-      "Жданов-Луценко Николай Иванович": 20,
-      "Моганова Нина Семеновна": 7,
-      "Попик Василий Михайлович": 12,
-      "Рогонов Петр Петрович": 177,
-      "Семеньков Василий Иванович": 138,
-      "Шенкарев Олег Александрович": 10,
-      "Против всех": 24
+      "gas:candidate-vibid:332300270388": 22,
+      "gas:candidate-vibid:1001000217916": 28,
+      "gas:candidate-vibid:1001000190332": 13,
+      "gas:candidate-vibid:1001000136040": 20,
+      "gas:candidate-vibid:1001000195062": 7,
+      "gas:candidate-vibid:332300270608": 12,
+      "gas:candidate-vibid:1001000121836": 177,
+      "gas:candidate-vibid:1001000225928": 138,
+      "gas:candidate-vibid:1001000131393": 10,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070382&region=0&sub_region=0&type=429",
@@ -7771,16 +7771,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 26,
-      "Бобков Александр Николаевич": 6,
-      "Бочаров Андрей Иванович": 9,
-      "Жданов-Луценко Николай Иванович": 14,
-      "Моганова Нина Семеновна": 4,
-      "Попик Василий Михайлович": 14,
-      "Рогонов Петр Петрович": 71,
-      "Семеньков Василий Иванович": 57,
-      "Шенкарев Олег Александрович": 10,
-      "Против всех": 12
+      "gas:candidate-vibid:332300270388": 26,
+      "gas:candidate-vibid:1001000217916": 6,
+      "gas:candidate-vibid:1001000190332": 9,
+      "gas:candidate-vibid:1001000136040": 14,
+      "gas:candidate-vibid:1001000195062": 4,
+      "gas:candidate-vibid:332300270608": 14,
+      "gas:candidate-vibid:1001000121836": 71,
+      "gas:candidate-vibid:1001000225928": 57,
+      "gas:candidate-vibid:1001000131393": 10,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070382&region=0&sub_region=0&type=429",
@@ -7830,16 +7830,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 26,
-      "Бобков Александр Николаевич": 8,
-      "Бочаров Андрей Иванович": 5,
-      "Жданов-Луценко Николай Иванович": 5,
-      "Моганова Нина Семеновна": 4,
-      "Попик Василий Михайлович": 9,
-      "Рогонов Петр Петрович": 56,
-      "Семеньков Василий Иванович": 60,
-      "Шенкарев Олег Александрович": 3,
-      "Против всех": 10
+      "gas:candidate-vibid:332300270388": 26,
+      "gas:candidate-vibid:1001000217916": 8,
+      "gas:candidate-vibid:1001000190332": 5,
+      "gas:candidate-vibid:1001000136040": 5,
+      "gas:candidate-vibid:1001000195062": 4,
+      "gas:candidate-vibid:332300270608": 9,
+      "gas:candidate-vibid:1001000121836": 56,
+      "gas:candidate-vibid:1001000225928": 60,
+      "gas:candidate-vibid:1001000131393": 3,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070382&region=0&sub_region=0&type=429",
@@ -7889,16 +7889,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 8,
-      "Бобков Александр Николаевич": 0,
-      "Бочаров Андрей Иванович": 4,
-      "Жданов-Луценко Николай Иванович": 8,
-      "Моганова Нина Семеновна": 1,
-      "Попик Василий Михайлович": 3,
-      "Рогонов Петр Петрович": 28,
-      "Семеньков Василий Иванович": 51,
-      "Шенкарев Олег Александрович": 6,
-      "Против всех": 7
+      "gas:candidate-vibid:332300270388": 8,
+      "gas:candidate-vibid:1001000217916": 0,
+      "gas:candidate-vibid:1001000190332": 4,
+      "gas:candidate-vibid:1001000136040": 8,
+      "gas:candidate-vibid:1001000195062": 1,
+      "gas:candidate-vibid:332300270608": 3,
+      "gas:candidate-vibid:1001000121836": 28,
+      "gas:candidate-vibid:1001000225928": 51,
+      "gas:candidate-vibid:1001000131393": 6,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070382&region=0&sub_region=0&type=429",
@@ -7948,16 +7948,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 49,
-      "Бобков Александр Николаевич": 7,
-      "Бочаров Андрей Иванович": 13,
-      "Жданов-Луценко Николай Иванович": 14,
-      "Моганова Нина Семеновна": 5,
-      "Попик Василий Михайлович": 13,
-      "Рогонов Петр Петрович": 34,
-      "Семеньков Василий Иванович": 46,
-      "Шенкарев Олег Александрович": 16,
-      "Против всех": 8
+      "gas:candidate-vibid:332300270388": 49,
+      "gas:candidate-vibid:1001000217916": 7,
+      "gas:candidate-vibid:1001000190332": 13,
+      "gas:candidate-vibid:1001000136040": 14,
+      "gas:candidate-vibid:1001000195062": 5,
+      "gas:candidate-vibid:332300270608": 13,
+      "gas:candidate-vibid:1001000121836": 34,
+      "gas:candidate-vibid:1001000225928": 46,
+      "gas:candidate-vibid:1001000131393": 16,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070382&region=0&sub_region=0&type=429",
@@ -8007,16 +8007,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 15,
-      "Бобков Александр Николаевич": 1,
-      "Бочаров Андрей Иванович": 10,
-      "Жданов-Луценко Николай Иванович": 6,
-      "Моганова Нина Семеновна": 1,
-      "Попик Василий Михайлович": 3,
-      "Рогонов Петр Петрович": 28,
-      "Семеньков Василий Иванович": 13,
-      "Шенкарев Олег Александрович": 9,
-      "Против всех": 8
+      "gas:candidate-vibid:332300270388": 15,
+      "gas:candidate-vibid:1001000217916": 1,
+      "gas:candidate-vibid:1001000190332": 10,
+      "gas:candidate-vibid:1001000136040": 6,
+      "gas:candidate-vibid:1001000195062": 1,
+      "gas:candidate-vibid:332300270608": 3,
+      "gas:candidate-vibid:1001000121836": 28,
+      "gas:candidate-vibid:1001000225928": 13,
+      "gas:candidate-vibid:1001000131393": 9,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070382&region=0&sub_region=0&type=429",
@@ -8066,16 +8066,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 82,
-      "Бобков Александр Николаевич": 3,
-      "Бочаров Андрей Иванович": 7,
-      "Жданов-Луценко Николай Иванович": 5,
-      "Моганова Нина Семеновна": 4,
-      "Попик Василий Михайлович": 7,
-      "Рогонов Петр Петрович": 30,
-      "Семеньков Василий Иванович": 36,
-      "Шенкарев Олег Александрович": 6,
-      "Против всех": 7
+      "gas:candidate-vibid:332300270388": 82,
+      "gas:candidate-vibid:1001000217916": 3,
+      "gas:candidate-vibid:1001000190332": 7,
+      "gas:candidate-vibid:1001000136040": 5,
+      "gas:candidate-vibid:1001000195062": 4,
+      "gas:candidate-vibid:332300270608": 7,
+      "gas:candidate-vibid:1001000121836": 30,
+      "gas:candidate-vibid:1001000225928": 36,
+      "gas:candidate-vibid:1001000131393": 6,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070382&region=0&sub_region=0&type=429",
@@ -8125,16 +8125,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 35,
-      "Бобков Александр Николаевич": 9,
-      "Бочаров Андрей Иванович": 12,
-      "Жданов-Луценко Николай Иванович": 6,
-      "Моганова Нина Семеновна": 1,
-      "Попик Василий Михайлович": 13,
-      "Рогонов Петр Петрович": 70,
-      "Семеньков Василий Иванович": 38,
-      "Шенкарев Олег Александрович": 14,
-      "Против всех": 11
+      "gas:candidate-vibid:332300270388": 35,
+      "gas:candidate-vibid:1001000217916": 9,
+      "gas:candidate-vibid:1001000190332": 12,
+      "gas:candidate-vibid:1001000136040": 6,
+      "gas:candidate-vibid:1001000195062": 1,
+      "gas:candidate-vibid:332300270608": 13,
+      "gas:candidate-vibid:1001000121836": 70,
+      "gas:candidate-vibid:1001000225928": 38,
+      "gas:candidate-vibid:1001000131393": 14,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070382&region=0&sub_region=0&type=429",
@@ -8184,16 +8184,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 19,
-      "Бобков Александр Николаевич": 3,
-      "Бочаров Андрей Иванович": 3,
-      "Жданов-Луценко Николай Иванович": 1,
-      "Моганова Нина Семеновна": 0,
-      "Попик Василий Михайлович": 7,
-      "Рогонов Петр Петрович": 26,
-      "Семеньков Василий Иванович": 41,
-      "Шенкарев Олег Александрович": 6,
-      "Против всех": 2
+      "gas:candidate-vibid:332300270388": 19,
+      "gas:candidate-vibid:1001000217916": 3,
+      "gas:candidate-vibid:1001000190332": 3,
+      "gas:candidate-vibid:1001000136040": 1,
+      "gas:candidate-vibid:1001000195062": 0,
+      "gas:candidate-vibid:332300270608": 7,
+      "gas:candidate-vibid:1001000121836": 26,
+      "gas:candidate-vibid:1001000225928": 41,
+      "gas:candidate-vibid:1001000131393": 6,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070382&region=0&sub_region=0&type=429",
@@ -8243,16 +8243,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 14,
-      "Бобков Александр Николаевич": 8,
-      "Бочаров Андрей Иванович": 8,
-      "Жданов-Луценко Николай Иванович": 6,
-      "Моганова Нина Семеновна": 1,
-      "Попик Василий Михайлович": 7,
-      "Рогонов Петр Петрович": 41,
-      "Семеньков Василий Иванович": 51,
-      "Шенкарев Олег Александрович": 9,
-      "Против всех": 5
+      "gas:candidate-vibid:332300270388": 14,
+      "gas:candidate-vibid:1001000217916": 8,
+      "gas:candidate-vibid:1001000190332": 8,
+      "gas:candidate-vibid:1001000136040": 6,
+      "gas:candidate-vibid:1001000195062": 1,
+      "gas:candidate-vibid:332300270608": 7,
+      "gas:candidate-vibid:1001000121836": 41,
+      "gas:candidate-vibid:1001000225928": 51,
+      "gas:candidate-vibid:1001000131393": 9,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070382&region=0&sub_region=0&type=429",
@@ -8302,16 +8302,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 46,
-      "Бобков Александр Николаевич": 5,
-      "Бочаров Андрей Иванович": 5,
-      "Жданов-Луценко Николай Иванович": 3,
-      "Моганова Нина Семеновна": 3,
-      "Попик Василий Михайлович": 8,
-      "Рогонов Петр Петрович": 41,
-      "Семеньков Василий Иванович": 68,
-      "Шенкарев Олег Александрович": 1,
-      "Против всех": 11
+      "gas:candidate-vibid:332300270388": 46,
+      "gas:candidate-vibid:1001000217916": 5,
+      "gas:candidate-vibid:1001000190332": 5,
+      "gas:candidate-vibid:1001000136040": 3,
+      "gas:candidate-vibid:1001000195062": 3,
+      "gas:candidate-vibid:332300270608": 8,
+      "gas:candidate-vibid:1001000121836": 41,
+      "gas:candidate-vibid:1001000225928": 68,
+      "gas:candidate-vibid:1001000131393": 1,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070382&region=0&sub_region=0&type=429",
@@ -8361,16 +8361,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 28,
-      "Бобков Александр Николаевич": 4,
-      "Бочаров Андрей Иванович": 3,
-      "Жданов-Луценко Николай Иванович": 3,
-      "Моганова Нина Семеновна": 3,
-      "Попик Василий Михайлович": 4,
-      "Рогонов Петр Петрович": 59,
-      "Семеньков Василий Иванович": 34,
-      "Шенкарев Олег Александрович": 3,
-      "Против всех": 12
+      "gas:candidate-vibid:332300270388": 28,
+      "gas:candidate-vibid:1001000217916": 4,
+      "gas:candidate-vibid:1001000190332": 3,
+      "gas:candidate-vibid:1001000136040": 3,
+      "gas:candidate-vibid:1001000195062": 3,
+      "gas:candidate-vibid:332300270608": 4,
+      "gas:candidate-vibid:1001000121836": 59,
+      "gas:candidate-vibid:1001000225928": 34,
+      "gas:candidate-vibid:1001000131393": 3,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070382&region=0&sub_region=0&type=429",
@@ -8420,16 +8420,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 28,
-      "Бобков Александр Николаевич": 21,
-      "Бочаров Андрей Иванович": 9,
-      "Жданов-Луценко Николай Иванович": 9,
-      "Моганова Нина Семеновна": 4,
-      "Попик Василий Михайлович": 13,
-      "Рогонов Петр Петрович": 75,
-      "Семеньков Василий Иванович": 86,
-      "Шенкарев Олег Александрович": 16,
-      "Против всех": 22
+      "gas:candidate-vibid:332300270388": 28,
+      "gas:candidate-vibid:1001000217916": 21,
+      "gas:candidate-vibid:1001000190332": 9,
+      "gas:candidate-vibid:1001000136040": 9,
+      "gas:candidate-vibid:1001000195062": 4,
+      "gas:candidate-vibid:332300270608": 13,
+      "gas:candidate-vibid:1001000121836": 75,
+      "gas:candidate-vibid:1001000225928": 86,
+      "gas:candidate-vibid:1001000131393": 16,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070382&region=0&sub_region=0&type=429",
@@ -8479,16 +8479,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 9,
-      "Бобков Александр Николаевич": 3,
-      "Бочаров Андрей Иванович": 4,
-      "Жданов-Луценко Николай Иванович": 2,
-      "Моганова Нина Семеновна": 1,
-      "Попик Василий Михайлович": 1,
-      "Рогонов Петр Петрович": 4,
-      "Семеньков Василий Иванович": 39,
-      "Шенкарев Олег Александрович": 1,
-      "Против всех": 6
+      "gas:candidate-vibid:332300270388": 9,
+      "gas:candidate-vibid:1001000217916": 3,
+      "gas:candidate-vibid:1001000190332": 4,
+      "gas:candidate-vibid:1001000136040": 2,
+      "gas:candidate-vibid:1001000195062": 1,
+      "gas:candidate-vibid:332300270608": 1,
+      "gas:candidate-vibid:1001000121836": 4,
+      "gas:candidate-vibid:1001000225928": 39,
+      "gas:candidate-vibid:1001000131393": 1,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070382&region=0&sub_region=0&type=429",
@@ -8538,16 +8538,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 16,
-      "Бобков Александр Николаевич": 7,
-      "Бочаров Андрей Иванович": 4,
-      "Жданов-Луценко Николай Иванович": 1,
-      "Моганова Нина Семеновна": 0,
-      "Попик Василий Михайлович": 1,
-      "Рогонов Петр Петрович": 37,
-      "Семеньков Василий Иванович": 22,
-      "Шенкарев Олег Александрович": 2,
-      "Против всех": 6
+      "gas:candidate-vibid:332300270388": 16,
+      "gas:candidate-vibid:1001000217916": 7,
+      "gas:candidate-vibid:1001000190332": 4,
+      "gas:candidate-vibid:1001000136040": 1,
+      "gas:candidate-vibid:1001000195062": 0,
+      "gas:candidate-vibid:332300270608": 1,
+      "gas:candidate-vibid:1001000121836": 37,
+      "gas:candidate-vibid:1001000225928": 22,
+      "gas:candidate-vibid:1001000131393": 2,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070382&region=0&sub_region=0&type=429",
@@ -8597,16 +8597,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 88,
-      "Бобков Александр Николаевич": 38,
-      "Бочаров Андрей Иванович": 71,
-      "Жданов-Луценко Николай Иванович": 58,
-      "Моганова Нина Семеновна": 1,
-      "Попик Василий Михайлович": 81,
-      "Рогонов Петр Петрович": 419,
-      "Семеньков Василий Иванович": 427,
-      "Шенкарев Олег Александрович": 66,
-      "Против всех": 170
+      "gas:candidate-vibid:332300270388": 88,
+      "gas:candidate-vibid:1001000217916": 38,
+      "gas:candidate-vibid:1001000190332": 71,
+      "gas:candidate-vibid:1001000136040": 58,
+      "gas:candidate-vibid:1001000195062": 1,
+      "gas:candidate-vibid:332300270608": 81,
+      "gas:candidate-vibid:1001000121836": 419,
+      "gas:candidate-vibid:1001000225928": 427,
+      "gas:candidate-vibid:1001000131393": 66,
+      "special:against-all": 170
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070385&region=0&sub_region=0&type=429",
@@ -8656,16 +8656,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 74,
-      "Бобков Александр Николаевич": 38,
-      "Бочаров Андрей Иванович": 89,
-      "Жданов-Луценко Николай Иванович": 49,
-      "Моганова Нина Семеновна": 6,
-      "Попик Василий Михайлович": 46,
-      "Рогонов Петр Петрович": 367,
-      "Семеньков Василий Иванович": 376,
-      "Шенкарев Олег Александрович": 44,
-      "Против всех": 159
+      "gas:candidate-vibid:332300270388": 74,
+      "gas:candidate-vibid:1001000217916": 38,
+      "gas:candidate-vibid:1001000190332": 89,
+      "gas:candidate-vibid:1001000136040": 49,
+      "gas:candidate-vibid:1001000195062": 6,
+      "gas:candidate-vibid:332300270608": 46,
+      "gas:candidate-vibid:1001000121836": 367,
+      "gas:candidate-vibid:1001000225928": 376,
+      "gas:candidate-vibid:1001000131393": 44,
+      "special:against-all": 159
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070385&region=0&sub_region=0&type=429",
@@ -8715,16 +8715,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 71,
-      "Бобков Александр Николаевич": 25,
-      "Бочаров Андрей Иванович": 69,
-      "Жданов-Луценко Николай Иванович": 48,
-      "Моганова Нина Семеновна": 7,
-      "Попик Василий Михайлович": 39,
-      "Рогонов Петр Петрович": 210,
-      "Семеньков Василий Иванович": 223,
-      "Шенкарев Олег Александрович": 40,
-      "Против всех": 85
+      "gas:candidate-vibid:332300270388": 71,
+      "gas:candidate-vibid:1001000217916": 25,
+      "gas:candidate-vibid:1001000190332": 69,
+      "gas:candidate-vibid:1001000136040": 48,
+      "gas:candidate-vibid:1001000195062": 7,
+      "gas:candidate-vibid:332300270608": 39,
+      "gas:candidate-vibid:1001000121836": 210,
+      "gas:candidate-vibid:1001000225928": 223,
+      "gas:candidate-vibid:1001000131393": 40,
+      "special:against-all": 85
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070385&region=0&sub_region=0&type=429",
@@ -8774,16 +8774,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 149,
-      "Бобков Александр Николаевич": 57,
-      "Бочаров Андрей Иванович": 142,
-      "Жданов-Луценко Николай Иванович": 68,
-      "Моганова Нина Семеновна": 12,
-      "Попик Василий Михайлович": 50,
-      "Рогонов Петр Петрович": 442,
-      "Семеньков Василий Иванович": 564,
-      "Шенкарев Олег Александрович": 61,
-      "Против всех": 227
+      "gas:candidate-vibid:332300270388": 149,
+      "gas:candidate-vibid:1001000217916": 57,
+      "gas:candidate-vibid:1001000190332": 142,
+      "gas:candidate-vibid:1001000136040": 68,
+      "gas:candidate-vibid:1001000195062": 12,
+      "gas:candidate-vibid:332300270608": 50,
+      "gas:candidate-vibid:1001000121836": 442,
+      "gas:candidate-vibid:1001000225928": 564,
+      "gas:candidate-vibid:1001000131393": 61,
+      "special:against-all": 227
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070385&region=0&sub_region=0&type=429",
@@ -8833,16 +8833,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 57,
-      "Бобков Александр Николаевич": 29,
-      "Бочаров Андрей Иванович": 63,
-      "Жданов-Луценко Николай Иванович": 31,
-      "Моганова Нина Семеновна": 5,
-      "Попик Василий Михайлович": 23,
-      "Рогонов Петр Петрович": 163,
-      "Семеньков Василий Иванович": 282,
-      "Шенкарев Олег Александрович": 38,
-      "Против всех": 56
+      "gas:candidate-vibid:332300270388": 57,
+      "gas:candidate-vibid:1001000217916": 29,
+      "gas:candidate-vibid:1001000190332": 63,
+      "gas:candidate-vibid:1001000136040": 31,
+      "gas:candidate-vibid:1001000195062": 5,
+      "gas:candidate-vibid:332300270608": 23,
+      "gas:candidate-vibid:1001000121836": 163,
+      "gas:candidate-vibid:1001000225928": 282,
+      "gas:candidate-vibid:1001000131393": 38,
+      "special:against-all": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070385&region=0&sub_region=0&type=429",
@@ -8892,16 +8892,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 93,
-      "Бобков Александр Николаевич": 35,
-      "Бочаров Андрей Иванович": 63,
-      "Жданов-Луценко Николай Иванович": 37,
-      "Моганова Нина Семеновна": 8,
-      "Попик Василий Михайлович": 28,
-      "Рогонов Петр Петрович": 240,
-      "Семеньков Василий Иванович": 315,
-      "Шенкарев Олег Александрович": 36,
-      "Против всех": 87
+      "gas:candidate-vibid:332300270388": 93,
+      "gas:candidate-vibid:1001000217916": 35,
+      "gas:candidate-vibid:1001000190332": 63,
+      "gas:candidate-vibid:1001000136040": 37,
+      "gas:candidate-vibid:1001000195062": 8,
+      "gas:candidate-vibid:332300270608": 28,
+      "gas:candidate-vibid:1001000121836": 240,
+      "gas:candidate-vibid:1001000225928": 315,
+      "gas:candidate-vibid:1001000131393": 36,
+      "special:against-all": 87
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070385&region=0&sub_region=0&type=429",
@@ -8951,16 +8951,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 67,
-      "Бобков Александр Николаевич": 26,
-      "Бочаров Андрей Иванович": 47,
-      "Жданов-Луценко Николай Иванович": 43,
-      "Моганова Нина Семеновна": 0,
-      "Попик Василий Михайлович": 22,
-      "Рогонов Петр Петрович": 201,
-      "Семеньков Василий Иванович": 222,
-      "Шенкарев Олег Александрович": 28,
-      "Против всех": 110
+      "gas:candidate-vibid:332300270388": 67,
+      "gas:candidate-vibid:1001000217916": 26,
+      "gas:candidate-vibid:1001000190332": 47,
+      "gas:candidate-vibid:1001000136040": 43,
+      "gas:candidate-vibid:1001000195062": 0,
+      "gas:candidate-vibid:332300270608": 22,
+      "gas:candidate-vibid:1001000121836": 201,
+      "gas:candidate-vibid:1001000225928": 222,
+      "gas:candidate-vibid:1001000131393": 28,
+      "special:against-all": 110
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070385&region=0&sub_region=0&type=429",
@@ -9010,16 +9010,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 67,
-      "Бобков Александр Николаевич": 34,
-      "Бочаров Андрей Иванович": 70,
-      "Жданов-Луценко Николай Иванович": 56,
-      "Моганова Нина Семеновна": 3,
-      "Попик Василий Михайлович": 45,
-      "Рогонов Петр Петрович": 309,
-      "Семеньков Василий Иванович": 397,
-      "Шенкарев Олег Александрович": 62,
-      "Против всех": 124
+      "gas:candidate-vibid:332300270388": 67,
+      "gas:candidate-vibid:1001000217916": 34,
+      "gas:candidate-vibid:1001000190332": 70,
+      "gas:candidate-vibid:1001000136040": 56,
+      "gas:candidate-vibid:1001000195062": 3,
+      "gas:candidate-vibid:332300270608": 45,
+      "gas:candidate-vibid:1001000121836": 309,
+      "gas:candidate-vibid:1001000225928": 397,
+      "gas:candidate-vibid:1001000131393": 62,
+      "special:against-all": 124
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070385&region=0&sub_region=0&type=429",
@@ -9069,16 +9069,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 122,
-      "Бобков Александр Николаевич": 2,
-      "Бочаров Андрей Иванович": 7,
-      "Жданов-Луценко Николай Иванович": 4,
-      "Моганова Нина Семеновна": 3,
-      "Попик Василий Михайлович": 7,
-      "Рогонов Петр Петрович": 55,
-      "Семеньков Василий Иванович": 24,
-      "Шенкарев Олег Александрович": 3,
-      "Против всех": 2
+      "gas:candidate-vibid:332300270388": 122,
+      "gas:candidate-vibid:1001000217916": 2,
+      "gas:candidate-vibid:1001000190332": 7,
+      "gas:candidate-vibid:1001000136040": 4,
+      "gas:candidate-vibid:1001000195062": 3,
+      "gas:candidate-vibid:332300270608": 7,
+      "gas:candidate-vibid:1001000121836": 55,
+      "gas:candidate-vibid:1001000225928": 24,
+      "gas:candidate-vibid:1001000131393": 3,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070385&region=0&sub_region=0&type=429",
@@ -9128,16 +9128,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 169,
-      "Бобков Александр Николаевич": 34,
-      "Бочаров Андрей Иванович": 55,
-      "Жданов-Луценко Николай Иванович": 42,
-      "Моганова Нина Семеновна": 9,
-      "Попик Василий Михайлович": 21,
-      "Рогонов Петр Петрович": 217,
-      "Семеньков Василий Иванович": 320,
-      "Шенкарев Олег Александрович": 50,
-      "Против всех": 152
+      "gas:candidate-vibid:332300270388": 169,
+      "gas:candidate-vibid:1001000217916": 34,
+      "gas:candidate-vibid:1001000190332": 55,
+      "gas:candidate-vibid:1001000136040": 42,
+      "gas:candidate-vibid:1001000195062": 9,
+      "gas:candidate-vibid:332300270608": 21,
+      "gas:candidate-vibid:1001000121836": 217,
+      "gas:candidate-vibid:1001000225928": 320,
+      "gas:candidate-vibid:1001000131393": 50,
+      "special:against-all": 152
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070385&region=0&sub_region=0&type=429",
@@ -9187,16 +9187,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 35,
-      "Бобков Александр Николаевич": 16,
-      "Бочаров Андрей Иванович": 10,
-      "Жданов-Луценко Николай Иванович": 32,
-      "Моганова Нина Семеновна": 5,
-      "Попик Василий Михайлович": 6,
-      "Рогонов Петр Петрович": 111,
-      "Семеньков Василий Иванович": 67,
-      "Шенкарев Олег Александрович": 10,
-      "Против всех": 29
+      "gas:candidate-vibid:332300270388": 35,
+      "gas:candidate-vibid:1001000217916": 16,
+      "gas:candidate-vibid:1001000190332": 10,
+      "gas:candidate-vibid:1001000136040": 32,
+      "gas:candidate-vibid:1001000195062": 5,
+      "gas:candidate-vibid:332300270608": 6,
+      "gas:candidate-vibid:1001000121836": 111,
+      "gas:candidate-vibid:1001000225928": 67,
+      "gas:candidate-vibid:1001000131393": 10,
+      "special:against-all": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070385&region=0&sub_region=0&type=429",
@@ -9246,16 +9246,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 15,
-      "Бобков Александр Николаевич": 114,
-      "Бочаров Андрей Иванович": 8,
-      "Жданов-Луценко Николай Иванович": 20,
-      "Моганова Нина Семеновна": 3,
-      "Попик Василий Михайлович": 8,
-      "Рогонов Петр Петрович": 70,
-      "Семеньков Василий Иванович": 113,
-      "Шенкарев Олег Александрович": 24,
-      "Против всех": 45
+      "gas:candidate-vibid:332300270388": 15,
+      "gas:candidate-vibid:1001000217916": 114,
+      "gas:candidate-vibid:1001000190332": 8,
+      "gas:candidate-vibid:1001000136040": 20,
+      "gas:candidate-vibid:1001000195062": 3,
+      "gas:candidate-vibid:332300270608": 8,
+      "gas:candidate-vibid:1001000121836": 70,
+      "gas:candidate-vibid:1001000225928": 113,
+      "gas:candidate-vibid:1001000131393": 24,
+      "special:against-all": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070385&region=0&sub_region=0&type=429",
@@ -9305,16 +9305,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 62,
-      "Бобков Александр Николаевич": 9,
-      "Бочаров Андрей Иванович": 5,
-      "Жданов-Луценко Николай Иванович": 2,
-      "Моганова Нина Семеновна": 3,
-      "Попик Василий Михайлович": 0,
-      "Рогонов Петр Петрович": 151,
-      "Семеньков Василий Иванович": 33,
-      "Шенкарев Олег Александрович": 8,
-      "Против всех": 14
+      "gas:candidate-vibid:332300270388": 62,
+      "gas:candidate-vibid:1001000217916": 9,
+      "gas:candidate-vibid:1001000190332": 5,
+      "gas:candidate-vibid:1001000136040": 2,
+      "gas:candidate-vibid:1001000195062": 3,
+      "gas:candidate-vibid:332300270608": 0,
+      "gas:candidate-vibid:1001000121836": 151,
+      "gas:candidate-vibid:1001000225928": 33,
+      "gas:candidate-vibid:1001000131393": 8,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070385&region=0&sub_region=0&type=429",
@@ -9364,16 +9364,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 32,
-      "Бобков Александр Николаевич": 1,
-      "Бочаров Андрей Иванович": 3,
-      "Жданов-Луценко Николай Иванович": 2,
-      "Моганова Нина Семеновна": 3,
-      "Попик Василий Михайлович": 0,
-      "Рогонов Петр Петрович": 18,
-      "Семеньков Василий Иванович": 15,
-      "Шенкарев Олег Александрович": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:332300270388": 32,
+      "gas:candidate-vibid:1001000217916": 1,
+      "gas:candidate-vibid:1001000190332": 3,
+      "gas:candidate-vibid:1001000136040": 2,
+      "gas:candidate-vibid:1001000195062": 3,
+      "gas:candidate-vibid:332300270608": 0,
+      "gas:candidate-vibid:1001000121836": 18,
+      "gas:candidate-vibid:1001000225928": 15,
+      "gas:candidate-vibid:1001000131393": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070385&region=0&sub_region=0&type=429",
@@ -9423,16 +9423,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 16,
-      "Бобков Александр Николаевич": 13,
-      "Бочаров Андрей Иванович": 7,
-      "Жданов-Луценко Николай Иванович": 12,
-      "Моганова Нина Семеновна": 3,
-      "Попик Василий Михайлович": 2,
-      "Рогонов Петр Петрович": 65,
-      "Семеньков Василий Иванович": 71,
-      "Шенкарев Олег Александрович": 2,
-      "Против всех": 23
+      "gas:candidate-vibid:332300270388": 16,
+      "gas:candidate-vibid:1001000217916": 13,
+      "gas:candidate-vibid:1001000190332": 7,
+      "gas:candidate-vibid:1001000136040": 12,
+      "gas:candidate-vibid:1001000195062": 3,
+      "gas:candidate-vibid:332300270608": 2,
+      "gas:candidate-vibid:1001000121836": 65,
+      "gas:candidate-vibid:1001000225928": 71,
+      "gas:candidate-vibid:1001000131393": 2,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070385&region=0&sub_region=0&type=429",
@@ -9482,16 +9482,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 42,
-      "Бобков Александр Николаевич": 15,
-      "Бочаров Андрей Иванович": 13,
-      "Жданов-Луценко Николай Иванович": 18,
-      "Моганова Нина Семеновна": 3,
-      "Попик Василий Михайлович": 1,
-      "Рогонов Петр Петрович": 157,
-      "Семеньков Василий Иванович": 73,
-      "Шенкарев Олег Александрович": 4,
-      "Против всех": 15
+      "gas:candidate-vibid:332300270388": 42,
+      "gas:candidate-vibid:1001000217916": 15,
+      "gas:candidate-vibid:1001000190332": 13,
+      "gas:candidate-vibid:1001000136040": 18,
+      "gas:candidate-vibid:1001000195062": 3,
+      "gas:candidate-vibid:332300270608": 1,
+      "gas:candidate-vibid:1001000121836": 157,
+      "gas:candidate-vibid:1001000225928": 73,
+      "gas:candidate-vibid:1001000131393": 4,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070385&region=0&sub_region=0&type=429",
@@ -9541,16 +9541,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 17,
-      "Бобков Александр Николаевич": 9,
-      "Бочаров Андрей Иванович": 9,
-      "Жданов-Луценко Николай Иванович": 15,
-      "Моганова Нина Семеновна": 2,
-      "Попик Василий Михайлович": 17,
-      "Рогонов Петр Петрович": 100,
-      "Семеньков Василий Иванович": 58,
-      "Шенкарев Олег Александрович": 13,
-      "Против всех": 14
+      "gas:candidate-vibid:332300270388": 17,
+      "gas:candidate-vibid:1001000217916": 9,
+      "gas:candidate-vibid:1001000190332": 9,
+      "gas:candidate-vibid:1001000136040": 15,
+      "gas:candidate-vibid:1001000195062": 2,
+      "gas:candidate-vibid:332300270608": 17,
+      "gas:candidate-vibid:1001000121836": 100,
+      "gas:candidate-vibid:1001000225928": 58,
+      "gas:candidate-vibid:1001000131393": 13,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070385&region=0&sub_region=0&type=429",
@@ -9600,16 +9600,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 25,
-      "Бобков Александр Николаевич": 16,
-      "Бочаров Андрей Иванович": 16,
-      "Жданов-Луценко Николай Иванович": 13,
-      "Моганова Нина Семеновна": 2,
-      "Попик Василий Михайлович": 9,
-      "Рогонов Петр Петрович": 140,
-      "Семеньков Василий Иванович": 100,
-      "Шенкарев Олег Александрович": 11,
-      "Против всех": 28
+      "gas:candidate-vibid:332300270388": 25,
+      "gas:candidate-vibid:1001000217916": 16,
+      "gas:candidate-vibid:1001000190332": 16,
+      "gas:candidate-vibid:1001000136040": 13,
+      "gas:candidate-vibid:1001000195062": 2,
+      "gas:candidate-vibid:332300270608": 9,
+      "gas:candidate-vibid:1001000121836": 140,
+      "gas:candidate-vibid:1001000225928": 100,
+      "gas:candidate-vibid:1001000131393": 11,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070385&region=0&sub_region=0&type=429",
@@ -9659,16 +9659,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 2,
-      "Бобков Александр Николаевич": 0,
-      "Бочаров Андрей Иванович": 2,
-      "Жданов-Луценко Николай Иванович": 6,
-      "Моганова Нина Семеновна": 2,
-      "Попик Василий Михайлович": 0,
-      "Рогонов Петр Петрович": 55,
-      "Семеньков Василий Иванович": 8,
-      "Шенкарев Олег Александрович": 8,
-      "Против всех": 2
+      "gas:candidate-vibid:332300270388": 2,
+      "gas:candidate-vibid:1001000217916": 0,
+      "gas:candidate-vibid:1001000190332": 2,
+      "gas:candidate-vibid:1001000136040": 6,
+      "gas:candidate-vibid:1001000195062": 2,
+      "gas:candidate-vibid:332300270608": 0,
+      "gas:candidate-vibid:1001000121836": 55,
+      "gas:candidate-vibid:1001000225928": 8,
+      "gas:candidate-vibid:1001000131393": 8,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070385&region=0&sub_region=0&type=429",
@@ -9718,16 +9718,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 9,
-      "Бобков Александр Николаевич": 6,
-      "Бочаров Андрей Иванович": 44,
-      "Жданов-Луценко Николай Иванович": 5,
-      "Моганова Нина Семеновна": 3,
-      "Попик Василий Михайлович": 0,
-      "Рогонов Петр Петрович": 75,
-      "Семеньков Василий Иванович": 48,
-      "Шенкарев Олег Александрович": 4,
-      "Против всех": 21
+      "gas:candidate-vibid:332300270388": 9,
+      "gas:candidate-vibid:1001000217916": 6,
+      "gas:candidate-vibid:1001000190332": 44,
+      "gas:candidate-vibid:1001000136040": 5,
+      "gas:candidate-vibid:1001000195062": 3,
+      "gas:candidate-vibid:332300270608": 0,
+      "gas:candidate-vibid:1001000121836": 75,
+      "gas:candidate-vibid:1001000225928": 48,
+      "gas:candidate-vibid:1001000131393": 4,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070385&region=0&sub_region=0&type=429",
@@ -9777,16 +9777,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 15,
-      "Бобков Александр Николаевич": 17,
-      "Бочаров Андрей Иванович": 13,
-      "Жданов-Луценко Николай Иванович": 5,
-      "Моганова Нина Семеновна": 1,
-      "Попик Василий Михайлович": 3,
-      "Рогонов Петр Петрович": 50,
-      "Семеньков Василий Иванович": 13,
-      "Шенкарев Олег Александрович": 7,
-      "Против всех": 14
+      "gas:candidate-vibid:332300270388": 15,
+      "gas:candidate-vibid:1001000217916": 17,
+      "gas:candidate-vibid:1001000190332": 13,
+      "gas:candidate-vibid:1001000136040": 5,
+      "gas:candidate-vibid:1001000195062": 1,
+      "gas:candidate-vibid:332300270608": 3,
+      "gas:candidate-vibid:1001000121836": 50,
+      "gas:candidate-vibid:1001000225928": 13,
+      "gas:candidate-vibid:1001000131393": 7,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070385&region=0&sub_region=0&type=429",
@@ -9836,16 +9836,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 3,
-      "Бобков Александр Николаевич": 0,
-      "Бочаров Андрей Иванович": 2,
-      "Жданов-Луценко Николай Иванович": 0,
-      "Моганова Нина Семеновна": 0,
-      "Попик Василий Михайлович": 1,
-      "Рогонов Петр Петрович": 35,
-      "Семеньков Василий Иванович": 16,
-      "Шенкарев Олег Александрович": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:332300270388": 3,
+      "gas:candidate-vibid:1001000217916": 0,
+      "gas:candidate-vibid:1001000190332": 2,
+      "gas:candidate-vibid:1001000136040": 0,
+      "gas:candidate-vibid:1001000195062": 0,
+      "gas:candidate-vibid:332300270608": 1,
+      "gas:candidate-vibid:1001000121836": 35,
+      "gas:candidate-vibid:1001000225928": 16,
+      "gas:candidate-vibid:1001000131393": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070385&region=0&sub_region=0&type=429",
@@ -9895,16 +9895,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 50,
-      "Бобков Александр Николаевич": 14,
-      "Бочаров Андрей Иванович": 29,
-      "Жданов-Луценко Николай Иванович": 13,
-      "Моганова Нина Семеновна": 5,
-      "Попик Василий Михайлович": 5,
-      "Рогонов Петр Петрович": 268,
-      "Семеньков Василий Иванович": 86,
-      "Шенкарев Олег Александрович": 21,
-      "Против всех": 26
+      "gas:candidate-vibid:332300270388": 50,
+      "gas:candidate-vibid:1001000217916": 14,
+      "gas:candidate-vibid:1001000190332": 29,
+      "gas:candidate-vibid:1001000136040": 13,
+      "gas:candidate-vibid:1001000195062": 5,
+      "gas:candidate-vibid:332300270608": 5,
+      "gas:candidate-vibid:1001000121836": 268,
+      "gas:candidate-vibid:1001000225928": 86,
+      "gas:candidate-vibid:1001000131393": 21,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070385&region=0&sub_region=0&type=429",
@@ -9954,16 +9954,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 49,
-      "Бобков Александр Николаевич": 18,
-      "Бочаров Андрей Иванович": 26,
-      "Жданов-Луценко Николай Иванович": 20,
-      "Моганова Нина Семеновна": 5,
-      "Попик Василий Михайлович": 9,
-      "Рогонов Петр Петрович": 185,
-      "Семеньков Василий Иванович": 128,
-      "Шенкарев Олег Александрович": 21,
-      "Против всех": 43
+      "gas:candidate-vibid:332300270388": 49,
+      "gas:candidate-vibid:1001000217916": 18,
+      "gas:candidate-vibid:1001000190332": 26,
+      "gas:candidate-vibid:1001000136040": 20,
+      "gas:candidate-vibid:1001000195062": 5,
+      "gas:candidate-vibid:332300270608": 9,
+      "gas:candidate-vibid:1001000121836": 185,
+      "gas:candidate-vibid:1001000225928": 128,
+      "gas:candidate-vibid:1001000131393": 21,
+      "special:against-all": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070385&region=0&sub_region=0&type=429",
@@ -10013,16 +10013,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 1,
-      "Бобков Александр Николаевич": 0,
-      "Бочаров Андрей Иванович": 2,
-      "Жданов-Луценко Николай Иванович": 2,
-      "Моганова Нина Семеновна": 2,
-      "Попик Василий Михайлович": 3,
-      "Рогонов Петр Петрович": 18,
-      "Семеньков Василий Иванович": 19,
-      "Шенкарев Олег Александрович": 4,
-      "Против всех": 2
+      "gas:candidate-vibid:332300270388": 1,
+      "gas:candidate-vibid:1001000217916": 0,
+      "gas:candidate-vibid:1001000190332": 2,
+      "gas:candidate-vibid:1001000136040": 2,
+      "gas:candidate-vibid:1001000195062": 2,
+      "gas:candidate-vibid:332300270608": 3,
+      "gas:candidate-vibid:1001000121836": 18,
+      "gas:candidate-vibid:1001000225928": 19,
+      "gas:candidate-vibid:1001000131393": 4,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070385&region=0&sub_region=0&type=429",
@@ -10072,16 +10072,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 121,
-      "Бобков Александр Николаевич": 14,
-      "Бочаров Андрей Иванович": 34,
-      "Жданов-Луценко Николай Иванович": 35,
-      "Моганова Нина Семеновна": 10,
-      "Попик Василий Михайлович": 17,
-      "Рогонов Петр Петрович": 141,
-      "Семеньков Василий Иванович": 232,
-      "Шенкарев Олег Александрович": 34,
-      "Против всех": 85
+      "gas:candidate-vibid:332300270388": 121,
+      "gas:candidate-vibid:1001000217916": 14,
+      "gas:candidate-vibid:1001000190332": 34,
+      "gas:candidate-vibid:1001000136040": 35,
+      "gas:candidate-vibid:1001000195062": 10,
+      "gas:candidate-vibid:332300270608": 17,
+      "gas:candidate-vibid:1001000121836": 141,
+      "gas:candidate-vibid:1001000225928": 232,
+      "gas:candidate-vibid:1001000131393": 34,
+      "special:against-all": 85
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070385&region=0&sub_region=0&type=429",
@@ -10131,16 +10131,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 31,
-      "Бобков Александр Николаевич": 27,
-      "Бочаров Андрей Иванович": 29,
-      "Жданов-Луценко Николай Иванович": 12,
-      "Моганова Нина Семеновна": 1,
-      "Попик Василий Михайлович": 12,
-      "Рогонов Петр Петрович": 48,
-      "Семеньков Василий Иванович": 146,
-      "Шенкарев Олег Александрович": 11,
-      "Против всех": 34
+      "gas:candidate-vibid:332300270388": 31,
+      "gas:candidate-vibid:1001000217916": 27,
+      "gas:candidate-vibid:1001000190332": 29,
+      "gas:candidate-vibid:1001000136040": 12,
+      "gas:candidate-vibid:1001000195062": 1,
+      "gas:candidate-vibid:332300270608": 12,
+      "gas:candidate-vibid:1001000121836": 48,
+      "gas:candidate-vibid:1001000225928": 146,
+      "gas:candidate-vibid:1001000131393": 11,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070385&region=0&sub_region=0&type=429",
@@ -10190,16 +10190,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 2,
-      "Бобков Александр Николаевич": 3,
-      "Бочаров Андрей Иванович": 1,
-      "Жданов-Луценко Николай Иванович": 5,
-      "Моганова Нина Семеновна": 0,
-      "Попик Василий Михайлович": 0,
-      "Рогонов Петр Петрович": 62,
-      "Семеньков Василий Иванович": 5,
-      "Шенкарев Олег Александрович": 4,
-      "Против всех": 0
+      "gas:candidate-vibid:332300270388": 2,
+      "gas:candidate-vibid:1001000217916": 3,
+      "gas:candidate-vibid:1001000190332": 1,
+      "gas:candidate-vibid:1001000136040": 5,
+      "gas:candidate-vibid:1001000195062": 0,
+      "gas:candidate-vibid:332300270608": 0,
+      "gas:candidate-vibid:1001000121836": 62,
+      "gas:candidate-vibid:1001000225928": 5,
+      "gas:candidate-vibid:1001000131393": 4,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070385&region=0&sub_region=0&type=429",
@@ -10249,16 +10249,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 26,
-      "Бобков Александр Николаевич": 18,
-      "Бочаров Андрей Иванович": 11,
-      "Жданов-Луценко Николай Иванович": 7,
-      "Моганова Нина Семеновна": 1,
-      "Попик Василий Михайлович": 3,
-      "Рогонов Петр Петрович": 124,
-      "Семеньков Василий Иванович": 41,
-      "Шенкарев Олег Александрович": 11,
-      "Против всех": 23
+      "gas:candidate-vibid:332300270388": 26,
+      "gas:candidate-vibid:1001000217916": 18,
+      "gas:candidate-vibid:1001000190332": 11,
+      "gas:candidate-vibid:1001000136040": 7,
+      "gas:candidate-vibid:1001000195062": 1,
+      "gas:candidate-vibid:332300270608": 3,
+      "gas:candidate-vibid:1001000121836": 124,
+      "gas:candidate-vibid:1001000225928": 41,
+      "gas:candidate-vibid:1001000131393": 11,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070385&region=0&sub_region=0&type=429",
@@ -10308,16 +10308,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 21,
-      "Бобков Александр Николаевич": 5,
-      "Бочаров Андрей Иванович": 20,
-      "Жданов-Луценко Николай Иванович": 13,
-      "Моганова Нина Семеновна": 2,
-      "Попик Василий Михайлович": 0,
-      "Рогонов Петр Петрович": 179,
-      "Семеньков Василий Иванович": 71,
-      "Шенкарев Олег Александрович": 9,
-      "Против всех": 29
+      "gas:candidate-vibid:332300270388": 21,
+      "gas:candidate-vibid:1001000217916": 5,
+      "gas:candidate-vibid:1001000190332": 20,
+      "gas:candidate-vibid:1001000136040": 13,
+      "gas:candidate-vibid:1001000195062": 2,
+      "gas:candidate-vibid:332300270608": 0,
+      "gas:candidate-vibid:1001000121836": 179,
+      "gas:candidate-vibid:1001000225928": 71,
+      "gas:candidate-vibid:1001000131393": 9,
+      "special:against-all": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070385&region=0&sub_region=0&type=429",
@@ -10367,16 +10367,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 35,
-      "Бобков Александр Николаевич": 27,
-      "Бочаров Андрей Иванович": 30,
-      "Жданов-Луценко Николай Иванович": 15,
-      "Моганова Нина Семеновна": 5,
-      "Попик Василий Михайлович": 17,
-      "Рогонов Петр Петрович": 86,
-      "Семеньков Василий Иванович": 142,
-      "Шенкарев Олег Александрович": 20,
-      "Против всех": 54
+      "gas:candidate-vibid:332300270388": 35,
+      "gas:candidate-vibid:1001000217916": 27,
+      "gas:candidate-vibid:1001000190332": 30,
+      "gas:candidate-vibid:1001000136040": 15,
+      "gas:candidate-vibid:1001000195062": 5,
+      "gas:candidate-vibid:332300270608": 17,
+      "gas:candidate-vibid:1001000121836": 86,
+      "gas:candidate-vibid:1001000225928": 142,
+      "gas:candidate-vibid:1001000131393": 20,
+      "special:against-all": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070385&region=0&sub_region=0&type=429",
@@ -10426,16 +10426,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 28,
-      "Бобков Александр Николаевич": 45,
-      "Бочаров Андрей Иванович": 22,
-      "Жданов-Луценко Николай Иванович": 25,
-      "Моганова Нина Семеновна": 1,
-      "Попик Василий Михайлович": 5,
-      "Рогонов Петр Петрович": 82,
-      "Семеньков Василий Иванович": 161,
-      "Шенкарев Олег Александрович": 7,
-      "Против всех": 31
+      "gas:candidate-vibid:332300270388": 28,
+      "gas:candidate-vibid:1001000217916": 45,
+      "gas:candidate-vibid:1001000190332": 22,
+      "gas:candidate-vibid:1001000136040": 25,
+      "gas:candidate-vibid:1001000195062": 1,
+      "gas:candidate-vibid:332300270608": 5,
+      "gas:candidate-vibid:1001000121836": 82,
+      "gas:candidate-vibid:1001000225928": 161,
+      "gas:candidate-vibid:1001000131393": 7,
+      "special:against-all": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070385&region=0&sub_region=0&type=429",
@@ -10485,16 +10485,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 8,
-      "Бобков Александр Николаевич": 2,
-      "Бочаров Андрей Иванович": 2,
-      "Жданов-Луценко Николай Иванович": 6,
-      "Моганова Нина Семеновна": 1,
-      "Попик Василий Михайлович": 3,
-      "Рогонов Петр Петрович": 228,
-      "Семеньков Василий Иванович": 31,
-      "Шенкарев Олег Александрович": 0,
-      "Против всех": 16
+      "gas:candidate-vibid:332300270388": 8,
+      "gas:candidate-vibid:1001000217916": 2,
+      "gas:candidate-vibid:1001000190332": 2,
+      "gas:candidate-vibid:1001000136040": 6,
+      "gas:candidate-vibid:1001000195062": 1,
+      "gas:candidate-vibid:332300270608": 3,
+      "gas:candidate-vibid:1001000121836": 228,
+      "gas:candidate-vibid:1001000225928": 31,
+      "gas:candidate-vibid:1001000131393": 0,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070385&region=0&sub_region=0&type=429",
@@ -10544,16 +10544,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 76,
-      "Бобков Александр Николаевич": 45,
-      "Бочаров Андрей Иванович": 211,
-      "Жданов-Луценко Николай Иванович": 50,
-      "Моганова Нина Семеновна": 18,
-      "Попик Василий Михайлович": 11,
-      "Рогонов Петр Петрович": 108,
-      "Семеньков Василий Иванович": 491,
-      "Шенкарев Олег Александрович": 74,
-      "Против всех": 233
+      "gas:candidate-vibid:332300270388": 76,
+      "gas:candidate-vibid:1001000217916": 45,
+      "gas:candidate-vibid:1001000190332": 211,
+      "gas:candidate-vibid:1001000136040": 50,
+      "gas:candidate-vibid:1001000195062": 18,
+      "gas:candidate-vibid:332300270608": 11,
+      "gas:candidate-vibid:1001000121836": 108,
+      "gas:candidate-vibid:1001000225928": 491,
+      "gas:candidate-vibid:1001000131393": 74,
+      "special:against-all": 233
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070385&region=0&sub_region=0&type=429",
@@ -10603,16 +10603,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 12,
-      "Бобков Александр Николаевич": 11,
-      "Бочаров Андрей Иванович": 5,
-      "Жданов-Луценко Николай Иванович": 8,
-      "Моганова Нина Семеновна": 3,
-      "Попик Василий Михайлович": 8,
-      "Рогонов Петр Петрович": 5,
-      "Семеньков Василий Иванович": 283,
-      "Шенкарев Олег Александрович": 6,
-      "Против всех": 59
+      "gas:candidate-vibid:332300270388": 12,
+      "gas:candidate-vibid:1001000217916": 11,
+      "gas:candidate-vibid:1001000190332": 5,
+      "gas:candidate-vibid:1001000136040": 8,
+      "gas:candidate-vibid:1001000195062": 3,
+      "gas:candidate-vibid:332300270608": 8,
+      "gas:candidate-vibid:1001000121836": 5,
+      "gas:candidate-vibid:1001000225928": 283,
+      "gas:candidate-vibid:1001000131393": 6,
+      "special:against-all": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070385&region=0&sub_region=0&type=429",
@@ -10662,16 +10662,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 35,
-      "Бобков Александр Николаевич": 3,
-      "Бочаров Андрей Иванович": 10,
-      "Жданов-Луценко Николай Иванович": 9,
-      "Моганова Нина Семеновна": 0,
-      "Попик Василий Михайлович": 1,
-      "Рогонов Петр Петрович": 13,
-      "Семеньков Василий Иванович": 32,
-      "Шенкарев Олег Александрович": 2,
-      "Против всех": 29
+      "gas:candidate-vibid:332300270388": 35,
+      "gas:candidate-vibid:1001000217916": 3,
+      "gas:candidate-vibid:1001000190332": 10,
+      "gas:candidate-vibid:1001000136040": 9,
+      "gas:candidate-vibid:1001000195062": 0,
+      "gas:candidate-vibid:332300270608": 1,
+      "gas:candidate-vibid:1001000121836": 13,
+      "gas:candidate-vibid:1001000225928": 32,
+      "gas:candidate-vibid:1001000131393": 2,
+      "special:against-all": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070385&region=0&sub_region=0&type=429",
@@ -10721,16 +10721,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 45,
-      "Бобков Александр Николаевич": 36,
-      "Бочаров Андрей Иванович": 34,
-      "Жданов-Луценко Николай Иванович": 43,
-      "Моганова Нина Семеновна": 2,
-      "Попик Василий Михайлович": 89,
-      "Рогонов Петр Петрович": 122,
-      "Семеньков Василий Иванович": 269,
-      "Шенкарев Олег Александрович": 17,
-      "Против всех": 71
+      "gas:candidate-vibid:332300270388": 45,
+      "gas:candidate-vibid:1001000217916": 36,
+      "gas:candidate-vibid:1001000190332": 34,
+      "gas:candidate-vibid:1001000136040": 43,
+      "gas:candidate-vibid:1001000195062": 2,
+      "gas:candidate-vibid:332300270608": 89,
+      "gas:candidate-vibid:1001000121836": 122,
+      "gas:candidate-vibid:1001000225928": 269,
+      "gas:candidate-vibid:1001000131393": 17,
+      "special:against-all": 71
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070386&region=0&sub_region=0&type=429",
@@ -10780,16 +10780,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 10,
-      "Бобков Александр Николаевич": 6,
-      "Бочаров Андрей Иванович": 7,
-      "Жданов-Луценко Николай Иванович": 3,
-      "Моганова Нина Семеновна": 2,
-      "Попик Василий Михайлович": 15,
-      "Рогонов Петр Петрович": 34,
-      "Семеньков Василий Иванович": 26,
-      "Шенкарев Олег Александрович": 2,
-      "Против всех": 12
+      "gas:candidate-vibid:332300270388": 10,
+      "gas:candidate-vibid:1001000217916": 6,
+      "gas:candidate-vibid:1001000190332": 7,
+      "gas:candidate-vibid:1001000136040": 3,
+      "gas:candidate-vibid:1001000195062": 2,
+      "gas:candidate-vibid:332300270608": 15,
+      "gas:candidate-vibid:1001000121836": 34,
+      "gas:candidate-vibid:1001000225928": 26,
+      "gas:candidate-vibid:1001000131393": 2,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070386&region=0&sub_region=0&type=429",
@@ -10839,16 +10839,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 22,
-      "Бобков Александр Николаевич": 7,
-      "Бочаров Андрей Иванович": 10,
-      "Жданов-Луценко Николай Иванович": 14,
-      "Моганова Нина Семеновна": 3,
-      "Попик Василий Михайлович": 23,
-      "Рогонов Петр Петрович": 66,
-      "Семеньков Василий Иванович": 66,
-      "Шенкарев Олег Александрович": 11,
-      "Против всех": 19
+      "gas:candidate-vibid:332300270388": 22,
+      "gas:candidate-vibid:1001000217916": 7,
+      "gas:candidate-vibid:1001000190332": 10,
+      "gas:candidate-vibid:1001000136040": 14,
+      "gas:candidate-vibid:1001000195062": 3,
+      "gas:candidate-vibid:332300270608": 23,
+      "gas:candidate-vibid:1001000121836": 66,
+      "gas:candidate-vibid:1001000225928": 66,
+      "gas:candidate-vibid:1001000131393": 11,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070386&region=0&sub_region=0&type=429",
@@ -10898,16 +10898,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 34,
-      "Бобков Александр Николаевич": 27,
-      "Бочаров Андрей Иванович": 20,
-      "Жданов-Луценко Николай Иванович": 13,
-      "Моганова Нина Семеновна": 4,
-      "Попик Василий Михайлович": 15,
-      "Рогонов Петр Петрович": 125,
-      "Семеньков Василий Иванович": 69,
-      "Шенкарев Олег Александрович": 19,
-      "Против всех": 40
+      "gas:candidate-vibid:332300270388": 34,
+      "gas:candidate-vibid:1001000217916": 27,
+      "gas:candidate-vibid:1001000190332": 20,
+      "gas:candidate-vibid:1001000136040": 13,
+      "gas:candidate-vibid:1001000195062": 4,
+      "gas:candidate-vibid:332300270608": 15,
+      "gas:candidate-vibid:1001000121836": 125,
+      "gas:candidate-vibid:1001000225928": 69,
+      "gas:candidate-vibid:1001000131393": 19,
+      "special:against-all": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070386&region=0&sub_region=0&type=429",
@@ -10957,16 +10957,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 15,
-      "Бобков Александр Николаевич": 11,
-      "Бочаров Андрей Иванович": 5,
-      "Жданов-Луценко Николай Иванович": 10,
-      "Моганова Нина Семеновна": 2,
-      "Попик Василий Михайлович": 8,
-      "Рогонов Петр Петрович": 58,
-      "Семеньков Василий Иванович": 50,
-      "Шенкарев Олег Александрович": 10,
-      "Против всех": 14
+      "gas:candidate-vibid:332300270388": 15,
+      "gas:candidate-vibid:1001000217916": 11,
+      "gas:candidate-vibid:1001000190332": 5,
+      "gas:candidate-vibid:1001000136040": 10,
+      "gas:candidate-vibid:1001000195062": 2,
+      "gas:candidate-vibid:332300270608": 8,
+      "gas:candidate-vibid:1001000121836": 58,
+      "gas:candidate-vibid:1001000225928": 50,
+      "gas:candidate-vibid:1001000131393": 10,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070386&region=0&sub_region=0&type=429",
@@ -11016,16 +11016,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 16,
-      "Бобков Александр Николаевич": 2,
-      "Бочаров Андрей Иванович": 4,
-      "Жданов-Луценко Николай Иванович": 1,
-      "Моганова Нина Семеновна": 2,
-      "Попик Василий Михайлович": 1,
-      "Рогонов Петр Петрович": 48,
-      "Семеньков Василий Иванович": 37,
-      "Шенкарев Олег Александрович": 5,
-      "Против всех": 3
+      "gas:candidate-vibid:332300270388": 16,
+      "gas:candidate-vibid:1001000217916": 2,
+      "gas:candidate-vibid:1001000190332": 4,
+      "gas:candidate-vibid:1001000136040": 1,
+      "gas:candidate-vibid:1001000195062": 2,
+      "gas:candidate-vibid:332300270608": 1,
+      "gas:candidate-vibid:1001000121836": 48,
+      "gas:candidate-vibid:1001000225928": 37,
+      "gas:candidate-vibid:1001000131393": 5,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070386&region=0&sub_region=0&type=429",
@@ -11075,16 +11075,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 17,
-      "Бобков Александр Николаевич": 6,
-      "Бочаров Андрей Иванович": 4,
-      "Жданов-Луценко Николай Иванович": 1,
-      "Моганова Нина Семеновна": 0,
-      "Попик Василий Михайлович": 1,
-      "Рогонов Петр Петрович": 138,
-      "Семеньков Василий Иванович": 17,
-      "Шенкарев Олег Александрович": 3,
-      "Против всех": 10
+      "gas:candidate-vibid:332300270388": 17,
+      "gas:candidate-vibid:1001000217916": 6,
+      "gas:candidate-vibid:1001000190332": 4,
+      "gas:candidate-vibid:1001000136040": 1,
+      "gas:candidate-vibid:1001000195062": 0,
+      "gas:candidate-vibid:332300270608": 1,
+      "gas:candidate-vibid:1001000121836": 138,
+      "gas:candidate-vibid:1001000225928": 17,
+      "gas:candidate-vibid:1001000131393": 3,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070386&region=0&sub_region=0&type=429",
@@ -11134,16 +11134,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 69,
-      "Бобков Александр Николаевич": 18,
-      "Бочаров Андрей Иванович": 14,
-      "Жданов-Луценко Николай Иванович": 8,
-      "Моганова Нина Семеновна": 6,
-      "Попик Василий Михайлович": 3,
-      "Рогонов Петр Петрович": 55,
-      "Семеньков Василий Иванович": 53,
-      "Шенкарев Олег Александрович": 7,
-      "Против всех": 15
+      "gas:candidate-vibid:332300270388": 69,
+      "gas:candidate-vibid:1001000217916": 18,
+      "gas:candidate-vibid:1001000190332": 14,
+      "gas:candidate-vibid:1001000136040": 8,
+      "gas:candidate-vibid:1001000195062": 6,
+      "gas:candidate-vibid:332300270608": 3,
+      "gas:candidate-vibid:1001000121836": 55,
+      "gas:candidate-vibid:1001000225928": 53,
+      "gas:candidate-vibid:1001000131393": 7,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070386&region=0&sub_region=0&type=429",
@@ -11193,16 +11193,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 73,
-      "Бобков Александр Николаевич": 27,
-      "Бочаров Андрей Иванович": 4,
-      "Жданов-Луценко Николай Иванович": 9,
-      "Моганова Нина Семеновна": 4,
-      "Попик Василий Михайлович": 4,
-      "Рогонов Петр Петрович": 47,
-      "Семеньков Василий Иванович": 46,
-      "Шенкарев Олег Александрович": 10,
-      "Против всех": 13
+      "gas:candidate-vibid:332300270388": 73,
+      "gas:candidate-vibid:1001000217916": 27,
+      "gas:candidate-vibid:1001000190332": 4,
+      "gas:candidate-vibid:1001000136040": 9,
+      "gas:candidate-vibid:1001000195062": 4,
+      "gas:candidate-vibid:332300270608": 4,
+      "gas:candidate-vibid:1001000121836": 47,
+      "gas:candidate-vibid:1001000225928": 46,
+      "gas:candidate-vibid:1001000131393": 10,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070386&region=0&sub_region=0&type=429",
@@ -11252,16 +11252,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 22,
-      "Бобков Александр Николаевич": 16,
-      "Бочаров Андрей Иванович": 10,
-      "Жданов-Луценко Николай Иванович": 12,
-      "Моганова Нина Семеновна": 3,
-      "Попик Василий Михайлович": 6,
-      "Рогонов Петр Петрович": 94,
-      "Семеньков Василий Иванович": 29,
-      "Шенкарев Олег Александрович": 16,
-      "Против всех": 24
+      "gas:candidate-vibid:332300270388": 22,
+      "gas:candidate-vibid:1001000217916": 16,
+      "gas:candidate-vibid:1001000190332": 10,
+      "gas:candidate-vibid:1001000136040": 12,
+      "gas:candidate-vibid:1001000195062": 3,
+      "gas:candidate-vibid:332300270608": 6,
+      "gas:candidate-vibid:1001000121836": 94,
+      "gas:candidate-vibid:1001000225928": 29,
+      "gas:candidate-vibid:1001000131393": 16,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070386&region=0&sub_region=0&type=429",
@@ -11311,16 +11311,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 8,
-      "Бобков Александр Николаевич": 29,
-      "Бочаров Андрей Иванович": 6,
-      "Жданов-Луценко Николай Иванович": 8,
-      "Моганова Нина Семеновна": 6,
-      "Попик Василий Михайлович": 4,
-      "Рогонов Петр Петрович": 36,
-      "Семеньков Василий Иванович": 28,
-      "Шенкарев Олег Александрович": 23,
-      "Против всех": 6
+      "gas:candidate-vibid:332300270388": 8,
+      "gas:candidate-vibid:1001000217916": 29,
+      "gas:candidate-vibid:1001000190332": 6,
+      "gas:candidate-vibid:1001000136040": 8,
+      "gas:candidate-vibid:1001000195062": 6,
+      "gas:candidate-vibid:332300270608": 4,
+      "gas:candidate-vibid:1001000121836": 36,
+      "gas:candidate-vibid:1001000225928": 28,
+      "gas:candidate-vibid:1001000131393": 23,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070386&region=0&sub_region=0&type=429",
@@ -11370,16 +11370,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 30,
-      "Бобков Александр Николаевич": 21,
-      "Бочаров Андрей Иванович": 7,
-      "Жданов-Луценко Николай Иванович": 13,
-      "Моганова Нина Семеновна": 2,
-      "Попик Василий Михайлович": 2,
-      "Рогонов Петр Петрович": 77,
-      "Семеньков Василий Иванович": 47,
-      "Шенкарев Олег Александрович": 6,
-      "Против всех": 15
+      "gas:candidate-vibid:332300270388": 30,
+      "gas:candidate-vibid:1001000217916": 21,
+      "gas:candidate-vibid:1001000190332": 7,
+      "gas:candidate-vibid:1001000136040": 13,
+      "gas:candidate-vibid:1001000195062": 2,
+      "gas:candidate-vibid:332300270608": 2,
+      "gas:candidate-vibid:1001000121836": 77,
+      "gas:candidate-vibid:1001000225928": 47,
+      "gas:candidate-vibid:1001000131393": 6,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070386&region=0&sub_region=0&type=429",
@@ -11429,16 +11429,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 16,
-      "Бобков Александр Николаевич": 34,
-      "Бочаров Андрей Иванович": 4,
-      "Жданов-Луценко Николай Иванович": 6,
-      "Моганова Нина Семеновна": 1,
-      "Попик Василий Михайлович": 5,
-      "Рогонов Петр Петрович": 37,
-      "Семеньков Василий Иванович": 40,
-      "Шенкарев Олег Александрович": 4,
-      "Против всех": 12
+      "gas:candidate-vibid:332300270388": 16,
+      "gas:candidate-vibid:1001000217916": 34,
+      "gas:candidate-vibid:1001000190332": 4,
+      "gas:candidate-vibid:1001000136040": 6,
+      "gas:candidate-vibid:1001000195062": 1,
+      "gas:candidate-vibid:332300270608": 5,
+      "gas:candidate-vibid:1001000121836": 37,
+      "gas:candidate-vibid:1001000225928": 40,
+      "gas:candidate-vibid:1001000131393": 4,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070386&region=0&sub_region=0&type=429",
@@ -11488,16 +11488,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 3,
-      "Бобков Александр Николаевич": 0,
-      "Бочаров Андрей Иванович": 6,
-      "Жданов-Луценко Николай Иванович": 5,
-      "Моганова Нина Семеновна": 3,
-      "Попик Василий Михайлович": 4,
-      "Рогонов Петр Петрович": 81,
-      "Семеньков Василий Иванович": 9,
-      "Шенкарев Олег Александрович": 13,
-      "Против всех": 3
+      "gas:candidate-vibid:332300270388": 3,
+      "gas:candidate-vibid:1001000217916": 0,
+      "gas:candidate-vibid:1001000190332": 6,
+      "gas:candidate-vibid:1001000136040": 5,
+      "gas:candidate-vibid:1001000195062": 3,
+      "gas:candidate-vibid:332300270608": 4,
+      "gas:candidate-vibid:1001000121836": 81,
+      "gas:candidate-vibid:1001000225928": 9,
+      "gas:candidate-vibid:1001000131393": 13,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070386&region=0&sub_region=0&type=429",
@@ -11547,16 +11547,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 41,
-      "Бобков Александр Николаевич": 32,
-      "Бочаров Андрей Иванович": 137,
-      "Жданов-Луценко Николай Иванович": 48,
-      "Моганова Нина Семеновна": 11,
-      "Попик Василий Михайлович": 84,
-      "Рогонов Петр Петрович": 308,
-      "Семеньков Василий Иванович": 208,
-      "Шенкарев Олег Александрович": 36,
-      "Против всех": 87
+      "gas:candidate-vibid:332300270388": 41,
+      "gas:candidate-vibid:1001000217916": 32,
+      "gas:candidate-vibid:1001000190332": 137,
+      "gas:candidate-vibid:1001000136040": 48,
+      "gas:candidate-vibid:1001000195062": 11,
+      "gas:candidate-vibid:332300270608": 84,
+      "gas:candidate-vibid:1001000121836": 308,
+      "gas:candidate-vibid:1001000225928": 208,
+      "gas:candidate-vibid:1001000131393": 36,
+      "special:against-all": 87
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070388&region=0&sub_region=0&type=429",
@@ -11606,16 +11606,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 41,
-      "Бобков Александр Николаевич": 38,
-      "Бочаров Андрей Иванович": 110,
-      "Жданов-Луценко Николай Иванович": 29,
-      "Моганова Нина Семеновна": 4,
-      "Попик Василий Михайлович": 62,
-      "Рогонов Петр Петрович": 340,
-      "Семеньков Василий Иванович": 199,
-      "Шенкарев Олег Александрович": 33,
-      "Против всех": 81
+      "gas:candidate-vibid:332300270388": 41,
+      "gas:candidate-vibid:1001000217916": 38,
+      "gas:candidate-vibid:1001000190332": 110,
+      "gas:candidate-vibid:1001000136040": 29,
+      "gas:candidate-vibid:1001000195062": 4,
+      "gas:candidate-vibid:332300270608": 62,
+      "gas:candidate-vibid:1001000121836": 340,
+      "gas:candidate-vibid:1001000225928": 199,
+      "gas:candidate-vibid:1001000131393": 33,
+      "special:against-all": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070388&region=0&sub_region=0&type=429",
@@ -11665,16 +11665,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 35,
-      "Бобков Александр Николаевич": 28,
-      "Бочаров Андрей Иванович": 99,
-      "Жданов-Луценко Николай Иванович": 33,
-      "Моганова Нина Семеновна": 6,
-      "Попик Василий Михайлович": 55,
-      "Рогонов Петр Петрович": 272,
-      "Семеньков Василий Иванович": 160,
-      "Шенкарев Олег Александрович": 27,
-      "Против всех": 70
+      "gas:candidate-vibid:332300270388": 35,
+      "gas:candidate-vibid:1001000217916": 28,
+      "gas:candidate-vibid:1001000190332": 99,
+      "gas:candidate-vibid:1001000136040": 33,
+      "gas:candidate-vibid:1001000195062": 6,
+      "gas:candidate-vibid:332300270608": 55,
+      "gas:candidate-vibid:1001000121836": 272,
+      "gas:candidate-vibid:1001000225928": 160,
+      "gas:candidate-vibid:1001000131393": 27,
+      "special:against-all": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070388&region=0&sub_region=0&type=429",
@@ -11724,16 +11724,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 33,
-      "Бобков Александр Николаевич": 37,
-      "Бочаров Андрей Иванович": 73,
-      "Жданов-Луценко Николай Иванович": 13,
-      "Моганова Нина Семеновна": 3,
-      "Попик Василий Михайлович": 33,
-      "Рогонов Петр Петрович": 164,
-      "Семеньков Василий Иванович": 107,
-      "Шенкарев Олег Александрович": 19,
-      "Против всех": 52
+      "gas:candidate-vibid:332300270388": 33,
+      "gas:candidate-vibid:1001000217916": 37,
+      "gas:candidate-vibid:1001000190332": 73,
+      "gas:candidate-vibid:1001000136040": 13,
+      "gas:candidate-vibid:1001000195062": 3,
+      "gas:candidate-vibid:332300270608": 33,
+      "gas:candidate-vibid:1001000121836": 164,
+      "gas:candidate-vibid:1001000225928": 107,
+      "gas:candidate-vibid:1001000131393": 19,
+      "special:against-all": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070388&region=0&sub_region=0&type=429",
@@ -11783,16 +11783,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 3,
-      "Бобков Александр Николаевич": 6,
-      "Бочаров Андрей Иванович": 22,
-      "Жданов-Луценко Николай Иванович": 5,
-      "Моганова Нина Семеновна": 3,
-      "Попик Василий Михайлович": 8,
-      "Рогонов Петр Петрович": 194,
-      "Семеньков Василий Иванович": 37,
-      "Шенкарев Олег Александрович": 8,
-      "Против всех": 33
+      "gas:candidate-vibid:332300270388": 3,
+      "gas:candidate-vibid:1001000217916": 6,
+      "gas:candidate-vibid:1001000190332": 22,
+      "gas:candidate-vibid:1001000136040": 5,
+      "gas:candidate-vibid:1001000195062": 3,
+      "gas:candidate-vibid:332300270608": 8,
+      "gas:candidate-vibid:1001000121836": 194,
+      "gas:candidate-vibid:1001000225928": 37,
+      "gas:candidate-vibid:1001000131393": 8,
+      "special:against-all": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070388&region=0&sub_region=0&type=429",
@@ -11842,16 +11842,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 2,
-      "Бобков Александр Николаевич": 6,
-      "Бочаров Андрей Иванович": 3,
-      "Жданов-Луценко Николай Иванович": 4,
-      "Моганова Нина Семеновна": 0,
-      "Попик Василий Михайлович": 0,
-      "Рогонов Петр Петрович": 18,
-      "Семеньков Василий Иванович": 40,
-      "Шенкарев Олег Александрович": 1,
-      "Против всех": 0
+      "gas:candidate-vibid:332300270388": 2,
+      "gas:candidate-vibid:1001000217916": 6,
+      "gas:candidate-vibid:1001000190332": 3,
+      "gas:candidate-vibid:1001000136040": 4,
+      "gas:candidate-vibid:1001000195062": 0,
+      "gas:candidate-vibid:332300270608": 0,
+      "gas:candidate-vibid:1001000121836": 18,
+      "gas:candidate-vibid:1001000225928": 40,
+      "gas:candidate-vibid:1001000131393": 1,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070388&region=0&sub_region=0&type=429",
@@ -11901,16 +11901,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 20,
-      "Бобков Александр Николаевич": 2,
-      "Бочаров Андрей Иванович": 29,
-      "Жданов-Луценко Николай Иванович": 11,
-      "Моганова Нина Семеновна": 1,
-      "Попик Василий Михайлович": 10,
-      "Рогонов Петр Петрович": 226,
-      "Семеньков Василий Иванович": 66,
-      "Шенкарев Олег Александрович": 18,
-      "Против всех": 17
+      "gas:candidate-vibid:332300270388": 20,
+      "gas:candidate-vibid:1001000217916": 2,
+      "gas:candidate-vibid:1001000190332": 29,
+      "gas:candidate-vibid:1001000136040": 11,
+      "gas:candidate-vibid:1001000195062": 1,
+      "gas:candidate-vibid:332300270608": 10,
+      "gas:candidate-vibid:1001000121836": 226,
+      "gas:candidate-vibid:1001000225928": 66,
+      "gas:candidate-vibid:1001000131393": 18,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070388&region=0&sub_region=0&type=429",
@@ -11960,16 +11960,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 5,
-      "Бобков Александр Николаевич": 1,
-      "Бочаров Андрей Иванович": 12,
-      "Жданов-Луценко Николай Иванович": 0,
-      "Моганова Нина Семеновна": 1,
-      "Попик Василий Михайлович": 0,
-      "Рогонов Петр Петрович": 58,
-      "Семеньков Василий Иванович": 10,
-      "Шенкарев Олег Александрович": 3,
-      "Против всех": 2
+      "gas:candidate-vibid:332300270388": 5,
+      "gas:candidate-vibid:1001000217916": 1,
+      "gas:candidate-vibid:1001000190332": 12,
+      "gas:candidate-vibid:1001000136040": 0,
+      "gas:candidate-vibid:1001000195062": 1,
+      "gas:candidate-vibid:332300270608": 0,
+      "gas:candidate-vibid:1001000121836": 58,
+      "gas:candidate-vibid:1001000225928": 10,
+      "gas:candidate-vibid:1001000131393": 3,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070388&region=0&sub_region=0&type=429",
@@ -12019,16 +12019,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 25,
-      "Бобков Александр Николаевич": 5,
-      "Бочаров Андрей Иванович": 3,
-      "Жданов-Луценко Николай Иванович": 6,
-      "Моганова Нина Семеновна": 0,
-      "Попик Василий Михайлович": 2,
-      "Рогонов Петр Петрович": 155,
-      "Семеньков Василий Иванович": 40,
-      "Шенкарев Олег Александрович": 4,
-      "Против всех": 5
+      "gas:candidate-vibid:332300270388": 25,
+      "gas:candidate-vibid:1001000217916": 5,
+      "gas:candidate-vibid:1001000190332": 3,
+      "gas:candidate-vibid:1001000136040": 6,
+      "gas:candidate-vibid:1001000195062": 0,
+      "gas:candidate-vibid:332300270608": 2,
+      "gas:candidate-vibid:1001000121836": 155,
+      "gas:candidate-vibid:1001000225928": 40,
+      "gas:candidate-vibid:1001000131393": 4,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070388&region=0&sub_region=0&type=429",
@@ -12078,16 +12078,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 16,
-      "Бобков Александр Николаевич": 8,
-      "Бочаров Андрей Иванович": 20,
-      "Жданов-Луценко Николай Иванович": 11,
-      "Моганова Нина Семеновна": 2,
-      "Попик Василий Михайлович": 5,
-      "Рогонов Петр Петрович": 158,
-      "Семеньков Василий Иванович": 52,
-      "Шенкарев Олег Александрович": 19,
-      "Против всех": 27
+      "gas:candidate-vibid:332300270388": 16,
+      "gas:candidate-vibid:1001000217916": 8,
+      "gas:candidate-vibid:1001000190332": 20,
+      "gas:candidate-vibid:1001000136040": 11,
+      "gas:candidate-vibid:1001000195062": 2,
+      "gas:candidate-vibid:332300270608": 5,
+      "gas:candidate-vibid:1001000121836": 158,
+      "gas:candidate-vibid:1001000225928": 52,
+      "gas:candidate-vibid:1001000131393": 19,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070388&region=0&sub_region=0&type=429",
@@ -12137,16 +12137,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 44,
-      "Бобков Александр Николаевич": 17,
-      "Бочаров Андрей Иванович": 41,
-      "Жданов-Луценко Николай Иванович": 8,
-      "Моганова Нина Семеновна": 6,
-      "Попик Василий Михайлович": 5,
-      "Рогонов Петр Петрович": 168,
-      "Семеньков Василий Иванович": 76,
-      "Шенкарев Олег Александрович": 22,
-      "Против всех": 31
+      "gas:candidate-vibid:332300270388": 44,
+      "gas:candidate-vibid:1001000217916": 17,
+      "gas:candidate-vibid:1001000190332": 41,
+      "gas:candidate-vibid:1001000136040": 8,
+      "gas:candidate-vibid:1001000195062": 6,
+      "gas:candidate-vibid:332300270608": 5,
+      "gas:candidate-vibid:1001000121836": 168,
+      "gas:candidate-vibid:1001000225928": 76,
+      "gas:candidate-vibid:1001000131393": 22,
+      "special:against-all": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070388&region=0&sub_region=0&type=429",
@@ -12196,16 +12196,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 18,
-      "Бобков Александр Николаевич": 5,
-      "Бочаров Андрей Иванович": 3,
-      "Жданов-Луценко Николай Иванович": 8,
-      "Моганова Нина Семеновна": 1,
-      "Попик Василий Михайлович": 0,
-      "Рогонов Петр Петрович": 43,
-      "Семеньков Василий Иванович": 16,
-      "Шенкарев Олег Александрович": 1,
-      "Против всех": 6
+      "gas:candidate-vibid:332300270388": 18,
+      "gas:candidate-vibid:1001000217916": 5,
+      "gas:candidate-vibid:1001000190332": 3,
+      "gas:candidate-vibid:1001000136040": 8,
+      "gas:candidate-vibid:1001000195062": 1,
+      "gas:candidate-vibid:332300270608": 0,
+      "gas:candidate-vibid:1001000121836": 43,
+      "gas:candidate-vibid:1001000225928": 16,
+      "gas:candidate-vibid:1001000131393": 1,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070388&region=0&sub_region=0&type=429",
@@ -12255,16 +12255,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 13,
-      "Бобков Александр Николаевич": 17,
-      "Бочаров Андрей Иванович": 18,
-      "Жданов-Луценко Николай Иванович": 3,
-      "Моганова Нина Семеновна": 2,
-      "Попик Василий Михайлович": 6,
-      "Рогонов Петр Петрович": 128,
-      "Семеньков Василий Иванович": 41,
-      "Шенкарев Олег Александрович": 17,
-      "Против всех": 22
+      "gas:candidate-vibid:332300270388": 13,
+      "gas:candidate-vibid:1001000217916": 17,
+      "gas:candidate-vibid:1001000190332": 18,
+      "gas:candidate-vibid:1001000136040": 3,
+      "gas:candidate-vibid:1001000195062": 2,
+      "gas:candidate-vibid:332300270608": 6,
+      "gas:candidate-vibid:1001000121836": 128,
+      "gas:candidate-vibid:1001000225928": 41,
+      "gas:candidate-vibid:1001000131393": 17,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070388&region=0&sub_region=0&type=429",
@@ -12314,16 +12314,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 0,
-      "Бобков Александр Николаевич": 5,
-      "Бочаров Андрей Иванович": 6,
-      "Жданов-Луценко Николай Иванович": 1,
-      "Моганова Нина Семеновна": 1,
-      "Попик Василий Михайлович": 2,
-      "Рогонов Петр Петрович": 72,
-      "Семеньков Василий Иванович": 9,
-      "Шенкарев Олег Александрович": 2,
-      "Против всех": 6
+      "gas:candidate-vibid:332300270388": 0,
+      "gas:candidate-vibid:1001000217916": 5,
+      "gas:candidate-vibid:1001000190332": 6,
+      "gas:candidate-vibid:1001000136040": 1,
+      "gas:candidate-vibid:1001000195062": 1,
+      "gas:candidate-vibid:332300270608": 2,
+      "gas:candidate-vibid:1001000121836": 72,
+      "gas:candidate-vibid:1001000225928": 9,
+      "gas:candidate-vibid:1001000131393": 2,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070388&region=0&sub_region=0&type=429",
@@ -12373,16 +12373,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 18,
-      "Бобков Александр Николаевич": 25,
-      "Бочаров Андрей Иванович": 20,
-      "Жданов-Луценко Николай Иванович": 3,
-      "Моганова Нина Семеновна": 0,
-      "Попик Василий Михайлович": 11,
-      "Рогонов Петр Петрович": 123,
-      "Семеньков Василий Иванович": 70,
-      "Шенкарев Олег Александрович": 3,
-      "Против всех": 28
+      "gas:candidate-vibid:332300270388": 18,
+      "gas:candidate-vibid:1001000217916": 25,
+      "gas:candidate-vibid:1001000190332": 20,
+      "gas:candidate-vibid:1001000136040": 3,
+      "gas:candidate-vibid:1001000195062": 0,
+      "gas:candidate-vibid:332300270608": 11,
+      "gas:candidate-vibid:1001000121836": 123,
+      "gas:candidate-vibid:1001000225928": 70,
+      "gas:candidate-vibid:1001000131393": 3,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070388&region=0&sub_region=0&type=429",
@@ -12432,16 +12432,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 26,
-      "Бобков Александр Николаевич": 11,
-      "Бочаров Андрей Иванович": 21,
-      "Жданов-Луценко Николай Иванович": 10,
-      "Моганова Нина Семеновна": 1,
-      "Попик Василий Михайлович": 8,
-      "Рогонов Петр Петрович": 183,
-      "Семеньков Василий Иванович": 50,
-      "Шенкарев Олег Александрович": 27,
-      "Против всех": 30
+      "gas:candidate-vibid:332300270388": 26,
+      "gas:candidate-vibid:1001000217916": 11,
+      "gas:candidate-vibid:1001000190332": 21,
+      "gas:candidate-vibid:1001000136040": 10,
+      "gas:candidate-vibid:1001000195062": 1,
+      "gas:candidate-vibid:332300270608": 8,
+      "gas:candidate-vibid:1001000121836": 183,
+      "gas:candidate-vibid:1001000225928": 50,
+      "gas:candidate-vibid:1001000131393": 27,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070388&region=0&sub_region=0&type=429",
@@ -12491,16 +12491,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 4,
-      "Бобков Александр Николаевич": 0,
-      "Бочаров Андрей Иванович": 3,
-      "Жданов-Луценко Николай Иванович": 1,
-      "Моганова Нина Семеновна": 0,
-      "Попик Василий Михайлович": 3,
-      "Рогонов Петр Петрович": 41,
-      "Семеньков Василий Иванович": 21,
-      "Шенкарев Олег Александрович": 2,
-      "Против всех": 1
+      "gas:candidate-vibid:332300270388": 4,
+      "gas:candidate-vibid:1001000217916": 0,
+      "gas:candidate-vibid:1001000190332": 3,
+      "gas:candidate-vibid:1001000136040": 1,
+      "gas:candidate-vibid:1001000195062": 0,
+      "gas:candidate-vibid:332300270608": 3,
+      "gas:candidate-vibid:1001000121836": 41,
+      "gas:candidate-vibid:1001000225928": 21,
+      "gas:candidate-vibid:1001000131393": 2,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070388&region=0&sub_region=0&type=429",
@@ -12550,16 +12550,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 38,
-      "Бобков Александр Николаевич": 10,
-      "Бочаров Андрей Иванович": 37,
-      "Жданов-Луценко Николай Иванович": 17,
-      "Моганова Нина Семеновна": 10,
-      "Попик Василий Михайлович": 29,
-      "Рогонов Петр Петрович": 165,
-      "Семеньков Василий Иванович": 301,
-      "Шенкарев Олег Александрович": 18,
-      "Против всех": 66
+      "gas:candidate-vibid:332300270388": 38,
+      "gas:candidate-vibid:1001000217916": 10,
+      "gas:candidate-vibid:1001000190332": 37,
+      "gas:candidate-vibid:1001000136040": 17,
+      "gas:candidate-vibid:1001000195062": 10,
+      "gas:candidate-vibid:332300270608": 29,
+      "gas:candidate-vibid:1001000121836": 165,
+      "gas:candidate-vibid:1001000225928": 301,
+      "gas:candidate-vibid:1001000131393": 18,
+      "special:against-all": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070388&region=0&sub_region=0&type=429",
@@ -12609,16 +12609,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 63,
-      "Бобков Александр Николаевич": 37,
-      "Бочаров Андрей Иванович": 176,
-      "Жданов-Луценко Николай Иванович": 108,
-      "Моганова Нина Семеновна": 10,
-      "Попик Василий Михайлович": 59,
-      "Рогонов Петр Петрович": 163,
-      "Семеньков Василий Иванович": 698,
-      "Шенкарев Олег Александрович": 28,
-      "Против всех": 270
+      "gas:candidate-vibid:332300270388": 63,
+      "gas:candidate-vibid:1001000217916": 37,
+      "gas:candidate-vibid:1001000190332": 176,
+      "gas:candidate-vibid:1001000136040": 108,
+      "gas:candidate-vibid:1001000195062": 10,
+      "gas:candidate-vibid:332300270608": 59,
+      "gas:candidate-vibid:1001000121836": 163,
+      "gas:candidate-vibid:1001000225928": 698,
+      "gas:candidate-vibid:1001000131393": 28,
+      "special:against-all": 270
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070388&region=0&sub_region=0&type=429",
@@ -12668,16 +12668,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 11,
-      "Бобков Александр Николаевич": 4,
-      "Бочаров Андрей Иванович": 20,
-      "Жданов-Луценко Николай Иванович": 11,
-      "Моганова Нина Семеновна": 0,
-      "Попик Василий Михайлович": 111,
-      "Рогонов Петр Петрович": 45,
-      "Семеньков Василий Иванович": 95,
-      "Шенкарев Олег Александрович": 6,
-      "Против всех": 34
+      "gas:candidate-vibid:332300270388": 11,
+      "gas:candidate-vibid:1001000217916": 4,
+      "gas:candidate-vibid:1001000190332": 20,
+      "gas:candidate-vibid:1001000136040": 11,
+      "gas:candidate-vibid:1001000195062": 0,
+      "gas:candidate-vibid:332300270608": 111,
+      "gas:candidate-vibid:1001000121836": 45,
+      "gas:candidate-vibid:1001000225928": 95,
+      "gas:candidate-vibid:1001000131393": 6,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070388&region=0&sub_region=0&type=429",
@@ -12727,16 +12727,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 11,
-      "Бобков Александр Николаевич": 37,
-      "Бочаров Андрей Иванович": 13,
-      "Жданов-Луценко Николай Иванович": 6,
-      "Моганова Нина Семеновна": 1,
-      "Попик Василий Михайлович": 9,
-      "Рогонов Петр Петрович": 84,
-      "Семеньков Василий Иванович": 57,
-      "Шенкарев Олег Александрович": 4,
-      "Против всех": 11
+      "gas:candidate-vibid:332300270388": 11,
+      "gas:candidate-vibid:1001000217916": 37,
+      "gas:candidate-vibid:1001000190332": 13,
+      "gas:candidate-vibid:1001000136040": 6,
+      "gas:candidate-vibid:1001000195062": 1,
+      "gas:candidate-vibid:332300270608": 9,
+      "gas:candidate-vibid:1001000121836": 84,
+      "gas:candidate-vibid:1001000225928": 57,
+      "gas:candidate-vibid:1001000131393": 4,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070388&region=0&sub_region=0&type=429",
@@ -12786,16 +12786,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 8,
-      "Бобков Александр Николаевич": 4,
-      "Бочаров Андрей Иванович": 7,
-      "Жданов-Луценко Николай Иванович": 11,
-      "Моганова Нина Семеновна": 1,
-      "Попик Василий Михайлович": 2,
-      "Рогонов Петр Петрович": 30,
-      "Семеньков Василий Иванович": 88,
-      "Шенкарев Олег Александрович": 1,
-      "Против всех": 17
+      "gas:candidate-vibid:332300270388": 8,
+      "gas:candidate-vibid:1001000217916": 4,
+      "gas:candidate-vibid:1001000190332": 7,
+      "gas:candidate-vibid:1001000136040": 11,
+      "gas:candidate-vibid:1001000195062": 1,
+      "gas:candidate-vibid:332300270608": 2,
+      "gas:candidate-vibid:1001000121836": 30,
+      "gas:candidate-vibid:1001000225928": 88,
+      "gas:candidate-vibid:1001000131393": 1,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070388&region=0&sub_region=0&type=429",
@@ -12845,16 +12845,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 10,
-      "Бобков Александр Николаевич": 6,
-      "Бочаров Андрей Иванович": 9,
-      "Жданов-Луценко Николай Иванович": 9,
-      "Моганова Нина Семеновна": 1,
-      "Попик Василий Михайлович": 2,
-      "Рогонов Петр Петрович": 83,
-      "Семеньков Василий Иванович": 59,
-      "Шенкарев Олег Александрович": 9,
-      "Против всех": 11
+      "gas:candidate-vibid:332300270388": 10,
+      "gas:candidate-vibid:1001000217916": 6,
+      "gas:candidate-vibid:1001000190332": 9,
+      "gas:candidate-vibid:1001000136040": 9,
+      "gas:candidate-vibid:1001000195062": 1,
+      "gas:candidate-vibid:332300270608": 2,
+      "gas:candidate-vibid:1001000121836": 83,
+      "gas:candidate-vibid:1001000225928": 59,
+      "gas:candidate-vibid:1001000131393": 9,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070388&region=0&sub_region=0&type=429",
@@ -12904,16 +12904,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 1,
-      "Бобков Александр Николаевич": 0,
-      "Бочаров Андрей Иванович": 6,
-      "Жданов-Луценко Николай Иванович": 0,
-      "Моганова Нина Семеновна": 0,
-      "Попик Василий Михайлович": 0,
-      "Рогонов Петр Петрович": 20,
-      "Семеньков Василий Иванович": 1,
-      "Шенкарев Олег Александрович": 1,
-      "Против всех": 0
+      "gas:candidate-vibid:332300270388": 1,
+      "gas:candidate-vibid:1001000217916": 0,
+      "gas:candidate-vibid:1001000190332": 6,
+      "gas:candidate-vibid:1001000136040": 0,
+      "gas:candidate-vibid:1001000195062": 0,
+      "gas:candidate-vibid:332300270608": 0,
+      "gas:candidate-vibid:1001000121836": 20,
+      "gas:candidate-vibid:1001000225928": 1,
+      "gas:candidate-vibid:1001000131393": 1,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070388&region=0&sub_region=0&type=429",
@@ -12963,16 +12963,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 15,
-      "Бобков Александр Николаевич": 1,
-      "Бочаров Андрей Иванович": 8,
-      "Жданов-Луценко Николай Иванович": 10,
-      "Моганова Нина Семеновна": 2,
-      "Попик Василий Михайлович": 7,
-      "Рогонов Петр Петрович": 59,
-      "Семеньков Василий Иванович": 53,
-      "Шенкарев Олег Александрович": 3,
-      "Против всех": 10
+      "gas:candidate-vibid:332300270388": 15,
+      "gas:candidate-vibid:1001000217916": 1,
+      "gas:candidate-vibid:1001000190332": 8,
+      "gas:candidate-vibid:1001000136040": 10,
+      "gas:candidate-vibid:1001000195062": 2,
+      "gas:candidate-vibid:332300270608": 7,
+      "gas:candidate-vibid:1001000121836": 59,
+      "gas:candidate-vibid:1001000225928": 53,
+      "gas:candidate-vibid:1001000131393": 3,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070388&region=0&sub_region=0&type=429",
@@ -13022,16 +13022,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 7,
-      "Бобков Александр Николаевич": 0,
-      "Бочаров Андрей Иванович": 9,
-      "Жданов-Луценко Николай Иванович": 1,
-      "Моганова Нина Семеновна": 2,
-      "Попик Василий Михайлович": 0,
-      "Рогонов Петр Петрович": 43,
-      "Семеньков Василий Иванович": 4,
-      "Шенкарев Олег Александрович": 1,
-      "Против всех": 2
+      "gas:candidate-vibid:332300270388": 7,
+      "gas:candidate-vibid:1001000217916": 0,
+      "gas:candidate-vibid:1001000190332": 9,
+      "gas:candidate-vibid:1001000136040": 1,
+      "gas:candidate-vibid:1001000195062": 2,
+      "gas:candidate-vibid:332300270608": 0,
+      "gas:candidate-vibid:1001000121836": 43,
+      "gas:candidate-vibid:1001000225928": 4,
+      "gas:candidate-vibid:1001000131393": 1,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070388&region=0&sub_region=0&type=429",
@@ -13081,16 +13081,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 5,
-      "Бобков Александр Николаевич": 5,
-      "Бочаров Андрей Иванович": 8,
-      "Жданов-Луценко Николай Иванович": 1,
-      "Моганова Нина Семеновна": 0,
-      "Попик Василий Михайлович": 4,
-      "Рогонов Петр Петрович": 46,
-      "Семеньков Василий Иванович": 68,
-      "Шенкарев Олег Александрович": 7,
-      "Против всех": 7
+      "gas:candidate-vibid:332300270388": 5,
+      "gas:candidate-vibid:1001000217916": 5,
+      "gas:candidate-vibid:1001000190332": 8,
+      "gas:candidate-vibid:1001000136040": 1,
+      "gas:candidate-vibid:1001000195062": 0,
+      "gas:candidate-vibid:332300270608": 4,
+      "gas:candidate-vibid:1001000121836": 46,
+      "gas:candidate-vibid:1001000225928": 68,
+      "gas:candidate-vibid:1001000131393": 7,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070388&region=0&sub_region=0&type=429",
@@ -13140,16 +13140,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 147,
-      "Бобков Александр Николаевич": 26,
-      "Бочаров Андрей Иванович": 67,
-      "Жданов-Луценко Николай Иванович": 40,
-      "Моганова Нина Семеновна": 3,
-      "Попик Василий Михайлович": 42,
-      "Рогонов Петр Петрович": 267,
-      "Семеньков Василий Иванович": 524,
-      "Шенкарев Олег Александрович": 22,
-      "Против всех": 71
+      "gas:candidate-vibid:332300270388": 147,
+      "gas:candidate-vibid:1001000217916": 26,
+      "gas:candidate-vibid:1001000190332": 67,
+      "gas:candidate-vibid:1001000136040": 40,
+      "gas:candidate-vibid:1001000195062": 3,
+      "gas:candidate-vibid:332300270608": 42,
+      "gas:candidate-vibid:1001000121836": 267,
+      "gas:candidate-vibid:1001000225928": 524,
+      "gas:candidate-vibid:1001000131393": 22,
+      "special:against-all": 71
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070389&region=0&sub_region=0&type=429",
@@ -13199,16 +13199,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 2,
-      "Бобков Александр Николаевич": 1,
-      "Бочаров Андрей Иванович": 31,
-      "Жданов-Луценко Николай Иванович": 4,
-      "Моганова Нина Семеновна": 0,
-      "Попик Василий Михайлович": 0,
-      "Рогонов Петр Петрович": 13,
-      "Семеньков Василий Иванович": 17,
-      "Шенкарев Олег Александрович": 3,
-      "Против всех": 0
+      "gas:candidate-vibid:332300270388": 2,
+      "gas:candidate-vibid:1001000217916": 1,
+      "gas:candidate-vibid:1001000190332": 31,
+      "gas:candidate-vibid:1001000136040": 4,
+      "gas:candidate-vibid:1001000195062": 0,
+      "gas:candidate-vibid:332300270608": 0,
+      "gas:candidate-vibid:1001000121836": 13,
+      "gas:candidate-vibid:1001000225928": 17,
+      "gas:candidate-vibid:1001000131393": 3,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070389&region=0&sub_region=0&type=429",
@@ -13258,16 +13258,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 9,
-      "Бобков Александр Николаевич": 0,
-      "Бочаров Андрей Иванович": 3,
-      "Жданов-Луценко Николай Иванович": 1,
-      "Моганова Нина Семеновна": 0,
-      "Попик Василий Михайлович": 4,
-      "Рогонов Петр Петрович": 27,
-      "Семеньков Василий Иванович": 79,
-      "Шенкарев Олег Александрович": 0,
-      "Против всех": 12
+      "gas:candidate-vibid:332300270388": 9,
+      "gas:candidate-vibid:1001000217916": 0,
+      "gas:candidate-vibid:1001000190332": 3,
+      "gas:candidate-vibid:1001000136040": 1,
+      "gas:candidate-vibid:1001000195062": 0,
+      "gas:candidate-vibid:332300270608": 4,
+      "gas:candidate-vibid:1001000121836": 27,
+      "gas:candidate-vibid:1001000225928": 79,
+      "gas:candidate-vibid:1001000131393": 0,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070389&region=0&sub_region=0&type=429",
@@ -13317,16 +13317,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 11,
-      "Бобков Александр Николаевич": 2,
-      "Бочаров Андрей Иванович": 7,
-      "Жданов-Луценко Николай Иванович": 2,
-      "Моганова Нина Семеновна": 1,
-      "Попик Василий Михайлович": 4,
-      "Рогонов Петр Петрович": 32,
-      "Семеньков Василий Иванович": 57,
-      "Шенкарев Олег Александрович": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:332300270388": 11,
+      "gas:candidate-vibid:1001000217916": 2,
+      "gas:candidate-vibid:1001000190332": 7,
+      "gas:candidate-vibid:1001000136040": 2,
+      "gas:candidate-vibid:1001000195062": 1,
+      "gas:candidate-vibid:332300270608": 4,
+      "gas:candidate-vibid:1001000121836": 32,
+      "gas:candidate-vibid:1001000225928": 57,
+      "gas:candidate-vibid:1001000131393": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070389&region=0&sub_region=0&type=429",
@@ -13376,16 +13376,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 41,
-      "Бобков Александр Николаевич": 3,
-      "Бочаров Андрей Иванович": 27,
-      "Жданов-Луценко Николай Иванович": 10,
-      "Моганова Нина Семеновна": 1,
-      "Попик Василий Михайлович": 4,
-      "Рогонов Петр Петрович": 57,
-      "Семеньков Василий Иванович": 362,
-      "Шенкарев Олег Александрович": 3,
-      "Против всех": 15
+      "gas:candidate-vibid:332300270388": 41,
+      "gas:candidate-vibid:1001000217916": 3,
+      "gas:candidate-vibid:1001000190332": 27,
+      "gas:candidate-vibid:1001000136040": 10,
+      "gas:candidate-vibid:1001000195062": 1,
+      "gas:candidate-vibid:332300270608": 4,
+      "gas:candidate-vibid:1001000121836": 57,
+      "gas:candidate-vibid:1001000225928": 362,
+      "gas:candidate-vibid:1001000131393": 3,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070389&region=0&sub_region=0&type=429",
@@ -13435,16 +13435,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 47,
-      "Бобков Александр Николаевич": 6,
-      "Бочаров Андрей Иванович": 0,
-      "Жданов-Луценко Николай Иванович": 5,
-      "Моганова Нина Семеновна": 1,
-      "Попик Василий Михайлович": 10,
-      "Рогонов Петр Петрович": 56,
-      "Семеньков Василий Иванович": 38,
-      "Шенкарев Олег Александрович": 1,
-      "Против всех": 7
+      "gas:candidate-vibid:332300270388": 47,
+      "gas:candidate-vibid:1001000217916": 6,
+      "gas:candidate-vibid:1001000190332": 0,
+      "gas:candidate-vibid:1001000136040": 5,
+      "gas:candidate-vibid:1001000195062": 1,
+      "gas:candidate-vibid:332300270608": 10,
+      "gas:candidate-vibid:1001000121836": 56,
+      "gas:candidate-vibid:1001000225928": 38,
+      "gas:candidate-vibid:1001000131393": 1,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070389&region=0&sub_region=0&type=429",
@@ -13494,16 +13494,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 20,
-      "Бобков Александр Николаевич": 5,
-      "Бочаров Андрей Иванович": 0,
-      "Жданов-Луценко Николай Иванович": 0,
-      "Моганова Нина Семеновна": 0,
-      "Попик Василий Михайлович": 0,
-      "Рогонов Петр Петрович": 13,
-      "Семеньков Василий Иванович": 16,
-      "Шенкарев Олег Александрович": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:332300270388": 20,
+      "gas:candidate-vibid:1001000217916": 5,
+      "gas:candidate-vibid:1001000190332": 0,
+      "gas:candidate-vibid:1001000136040": 0,
+      "gas:candidate-vibid:1001000195062": 0,
+      "gas:candidate-vibid:332300270608": 0,
+      "gas:candidate-vibid:1001000121836": 13,
+      "gas:candidate-vibid:1001000225928": 16,
+      "gas:candidate-vibid:1001000131393": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070389&region=0&sub_region=0&type=429",
@@ -13553,16 +13553,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 41,
-      "Бобков Александр Николаевич": 9,
-      "Бочаров Андрей Иванович": 10,
-      "Жданов-Луценко Николай Иванович": 3,
-      "Моганова Нина Семеновна": 0,
-      "Попик Василий Михайлович": 7,
-      "Рогонов Петр Петрович": 29,
-      "Семеньков Василий Иванович": 120,
-      "Шенкарев Олег Александрович": 5,
-      "Против всех": 14
+      "gas:candidate-vibid:332300270388": 41,
+      "gas:candidate-vibid:1001000217916": 9,
+      "gas:candidate-vibid:1001000190332": 10,
+      "gas:candidate-vibid:1001000136040": 3,
+      "gas:candidate-vibid:1001000195062": 0,
+      "gas:candidate-vibid:332300270608": 7,
+      "gas:candidate-vibid:1001000121836": 29,
+      "gas:candidate-vibid:1001000225928": 120,
+      "gas:candidate-vibid:1001000131393": 5,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070389&region=0&sub_region=0&type=429",
@@ -13612,16 +13612,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 57,
-      "Бобков Александр Николаевич": 0,
-      "Бочаров Андрей Иванович": 3,
-      "Жданов-Луценко Николай Иванович": 2,
-      "Моганова Нина Семеновна": 0,
-      "Попик Василий Михайлович": 0,
-      "Рогонов Петр Петрович": 4,
-      "Семеньков Василий Иванович": 61,
-      "Шенкарев Олег Александрович": 1,
-      "Против всех": 1
+      "gas:candidate-vibid:332300270388": 57,
+      "gas:candidate-vibid:1001000217916": 0,
+      "gas:candidate-vibid:1001000190332": 3,
+      "gas:candidate-vibid:1001000136040": 2,
+      "gas:candidate-vibid:1001000195062": 0,
+      "gas:candidate-vibid:332300270608": 0,
+      "gas:candidate-vibid:1001000121836": 4,
+      "gas:candidate-vibid:1001000225928": 61,
+      "gas:candidate-vibid:1001000131393": 1,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070389&region=0&sub_region=0&type=429",
@@ -13671,16 +13671,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 97,
-      "Бобков Александр Николаевич": 2,
-      "Бочаров Андрей Иванович": 9,
-      "Жданов-Луценко Николай Иванович": 3,
-      "Моганова Нина Семеновна": 1,
-      "Попик Василий Михайлович": 6,
-      "Рогонов Петр Петрович": 11,
-      "Семеньков Василий Иванович": 49,
-      "Шенкарев Олег Александрович": 1,
-      "Против всех": 12
+      "gas:candidate-vibid:332300270388": 97,
+      "gas:candidate-vibid:1001000217916": 2,
+      "gas:candidate-vibid:1001000190332": 9,
+      "gas:candidate-vibid:1001000136040": 3,
+      "gas:candidate-vibid:1001000195062": 1,
+      "gas:candidate-vibid:332300270608": 6,
+      "gas:candidate-vibid:1001000121836": 11,
+      "gas:candidate-vibid:1001000225928": 49,
+      "gas:candidate-vibid:1001000131393": 1,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070389&region=0&sub_region=0&type=429",
@@ -13730,16 +13730,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 49,
-      "Бобков Александр Николаевич": 1,
-      "Бочаров Андрей Иванович": 8,
-      "Жданов-Луценко Николай Иванович": 2,
-      "Моганова Нина Семеновна": 1,
-      "Попик Василий Михайлович": 1,
-      "Рогонов Петр Петрович": 12,
-      "Семеньков Василий Иванович": 71,
-      "Шенкарев Олег Александрович": 8,
-      "Против всех": 10
+      "gas:candidate-vibid:332300270388": 49,
+      "gas:candidate-vibid:1001000217916": 1,
+      "gas:candidate-vibid:1001000190332": 8,
+      "gas:candidate-vibid:1001000136040": 2,
+      "gas:candidate-vibid:1001000195062": 1,
+      "gas:candidate-vibid:332300270608": 1,
+      "gas:candidate-vibid:1001000121836": 12,
+      "gas:candidate-vibid:1001000225928": 71,
+      "gas:candidate-vibid:1001000131393": 8,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070389&region=0&sub_region=0&type=429",
@@ -13789,16 +13789,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 157,
-      "Бобков Александр Николаевич": 2,
-      "Бочаров Андрей Иванович": 9,
-      "Жданов-Луценко Николай Иванович": 1,
-      "Моганова Нина Семеновна": 1,
-      "Попик Василий Михайлович": 2,
-      "Рогонов Петр Петрович": 92,
-      "Семеньков Василий Иванович": 67,
-      "Шенкарев Олег Александрович": 2,
-      "Против всех": 13
+      "gas:candidate-vibid:332300270388": 157,
+      "gas:candidate-vibid:1001000217916": 2,
+      "gas:candidate-vibid:1001000190332": 9,
+      "gas:candidate-vibid:1001000136040": 1,
+      "gas:candidate-vibid:1001000195062": 1,
+      "gas:candidate-vibid:332300270608": 2,
+      "gas:candidate-vibid:1001000121836": 92,
+      "gas:candidate-vibid:1001000225928": 67,
+      "gas:candidate-vibid:1001000131393": 2,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070389&region=0&sub_region=0&type=429",
@@ -13848,16 +13848,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 124,
-      "Бобков Александр Николаевич": 1,
-      "Бочаров Андрей Иванович": 4,
-      "Жданов-Луценко Николай Иванович": 2,
-      "Моганова Нина Семеновна": 1,
-      "Попик Василий Михайлович": 2,
-      "Рогонов Петр Петрович": 15,
-      "Семеньков Василий Иванович": 42,
-      "Шенкарев Олег Александрович": 2,
-      "Против всех": 15
+      "gas:candidate-vibid:332300270388": 124,
+      "gas:candidate-vibid:1001000217916": 1,
+      "gas:candidate-vibid:1001000190332": 4,
+      "gas:candidate-vibid:1001000136040": 2,
+      "gas:candidate-vibid:1001000195062": 1,
+      "gas:candidate-vibid:332300270608": 2,
+      "gas:candidate-vibid:1001000121836": 15,
+      "gas:candidate-vibid:1001000225928": 42,
+      "gas:candidate-vibid:1001000131393": 2,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070389&region=0&sub_region=0&type=429",
@@ -13907,16 +13907,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 20,
-      "Бобков Александр Николаевич": 1,
-      "Бочаров Андрей Иванович": 3,
-      "Жданов-Луценко Николай Иванович": 2,
-      "Моганова Нина Семеновна": 0,
-      "Попик Василий Михайлович": 0,
-      "Рогонов Петр Петрович": 3,
-      "Семеньков Василий Иванович": 19,
-      "Шенкарев Олег Александрович": 4,
-      "Против всех": 9
+      "gas:candidate-vibid:332300270388": 20,
+      "gas:candidate-vibid:1001000217916": 1,
+      "gas:candidate-vibid:1001000190332": 3,
+      "gas:candidate-vibid:1001000136040": 2,
+      "gas:candidate-vibid:1001000195062": 0,
+      "gas:candidate-vibid:332300270608": 0,
+      "gas:candidate-vibid:1001000121836": 3,
+      "gas:candidate-vibid:1001000225928": 19,
+      "gas:candidate-vibid:1001000131393": 4,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070389&region=0&sub_region=0&type=429",
@@ -13966,16 +13966,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 112,
-      "Бобков Александр Николаевич": 10,
-      "Бочаров Андрей Иванович": 22,
-      "Жданов-Луценко Николай Иванович": 23,
-      "Моганова Нина Семеновна": 4,
-      "Попик Василий Михайлович": 5,
-      "Рогонов Петр Петрович": 232,
-      "Семеньков Василий Иванович": 280,
-      "Шенкарев Олег Александрович": 18,
-      "Против всех": 52
+      "gas:candidate-vibid:332300270388": 112,
+      "gas:candidate-vibid:1001000217916": 10,
+      "gas:candidate-vibid:1001000190332": 22,
+      "gas:candidate-vibid:1001000136040": 23,
+      "gas:candidate-vibid:1001000195062": 4,
+      "gas:candidate-vibid:332300270608": 5,
+      "gas:candidate-vibid:1001000121836": 232,
+      "gas:candidate-vibid:1001000225928": 280,
+      "gas:candidate-vibid:1001000131393": 18,
+      "special:against-all": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070389&region=0&sub_region=0&type=429",
@@ -14025,16 +14025,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 37,
-      "Бобков Александр Николаевич": 1,
-      "Бочаров Андрей Иванович": 12,
-      "Жданов-Луценко Николай Иванович": 2,
-      "Моганова Нина Семеновна": 1,
-      "Попик Василий Михайлович": 1,
-      "Рогонов Петр Петрович": 113,
-      "Семеньков Василий Иванович": 85,
-      "Шенкарев Олег Александрович": 3,
-      "Против всех": 13
+      "gas:candidate-vibid:332300270388": 37,
+      "gas:candidate-vibid:1001000217916": 1,
+      "gas:candidate-vibid:1001000190332": 12,
+      "gas:candidate-vibid:1001000136040": 2,
+      "gas:candidate-vibid:1001000195062": 1,
+      "gas:candidate-vibid:332300270608": 1,
+      "gas:candidate-vibid:1001000121836": 113,
+      "gas:candidate-vibid:1001000225928": 85,
+      "gas:candidate-vibid:1001000131393": 3,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070389&region=0&sub_region=0&type=429",
@@ -14084,16 +14084,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 19,
-      "Бобков Александр Николаевич": 3,
-      "Бочаров Андрей Иванович": 2,
-      "Жданов-Луценко Николай Иванович": 8,
-      "Моганова Нина Семеновна": 0,
-      "Попик Василий Михайлович": 0,
-      "Рогонов Петр Петрович": 62,
-      "Семеньков Василий Иванович": 67,
-      "Шенкарев Олег Александрович": 4,
-      "Против всех": 3
+      "gas:candidate-vibid:332300270388": 19,
+      "gas:candidate-vibid:1001000217916": 3,
+      "gas:candidate-vibid:1001000190332": 2,
+      "gas:candidate-vibid:1001000136040": 8,
+      "gas:candidate-vibid:1001000195062": 0,
+      "gas:candidate-vibid:332300270608": 0,
+      "gas:candidate-vibid:1001000121836": 62,
+      "gas:candidate-vibid:1001000225928": 67,
+      "gas:candidate-vibid:1001000131393": 4,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070389&region=0&sub_region=0&type=429",
@@ -14143,16 +14143,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 11,
-      "Бобков Александр Николаевич": 1,
-      "Бочаров Андрей Иванович": 2,
-      "Жданов-Луценко Николай Иванович": 0,
-      "Моганова Нина Семеновна": 1,
-      "Попик Василий Михайлович": 0,
-      "Рогонов Петр Петрович": 49,
-      "Семеньков Василий Иванович": 41,
-      "Шенкарев Олег Александрович": 7,
-      "Против всех": 5
+      "gas:candidate-vibid:332300270388": 11,
+      "gas:candidate-vibid:1001000217916": 1,
+      "gas:candidate-vibid:1001000190332": 2,
+      "gas:candidate-vibid:1001000136040": 0,
+      "gas:candidate-vibid:1001000195062": 1,
+      "gas:candidate-vibid:332300270608": 0,
+      "gas:candidate-vibid:1001000121836": 49,
+      "gas:candidate-vibid:1001000225928": 41,
+      "gas:candidate-vibid:1001000131393": 7,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070389&region=0&sub_region=0&type=429",
@@ -14202,16 +14202,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 140,
-      "Бобков Александр Николаевич": 2,
-      "Бочаров Андрей Иванович": 10,
-      "Жданов-Луценко Николай Иванович": 2,
-      "Моганова Нина Семеновна": 1,
-      "Попик Василий Михайлович": 0,
-      "Рогонов Петр Петрович": 13,
-      "Семеньков Василий Иванович": 53,
-      "Шенкарев Олег Александрович": 8,
-      "Против всех": 15
+      "gas:candidate-vibid:332300270388": 140,
+      "gas:candidate-vibid:1001000217916": 2,
+      "gas:candidate-vibid:1001000190332": 10,
+      "gas:candidate-vibid:1001000136040": 2,
+      "gas:candidate-vibid:1001000195062": 1,
+      "gas:candidate-vibid:332300270608": 0,
+      "gas:candidate-vibid:1001000121836": 13,
+      "gas:candidate-vibid:1001000225928": 53,
+      "gas:candidate-vibid:1001000131393": 8,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070389&region=0&sub_region=0&type=429",
@@ -14261,16 +14261,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 58,
-      "Бобков Александр Николаевич": 2,
-      "Бочаров Андрей Иванович": 6,
-      "Жданов-Луценко Николай Иванович": 9,
-      "Моганова Нина Семеновна": 0,
-      "Попик Василий Михайлович": 0,
-      "Рогонов Петр Петрович": 54,
-      "Семеньков Василий Иванович": 51,
-      "Шенкарев Олег Александрович": 4,
-      "Против всех": 5
+      "gas:candidate-vibid:332300270388": 58,
+      "gas:candidate-vibid:1001000217916": 2,
+      "gas:candidate-vibid:1001000190332": 6,
+      "gas:candidate-vibid:1001000136040": 9,
+      "gas:candidate-vibid:1001000195062": 0,
+      "gas:candidate-vibid:332300270608": 0,
+      "gas:candidate-vibid:1001000121836": 54,
+      "gas:candidate-vibid:1001000225928": 51,
+      "gas:candidate-vibid:1001000131393": 4,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070389&region=0&sub_region=0&type=429",
@@ -14320,16 +14320,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 69,
-      "Бобков Александр Николаевич": 3,
-      "Бочаров Андрей Иванович": 21,
-      "Жданов-Луценко Николай Иванович": 8,
-      "Моганова Нина Семеновна": 1,
-      "Попик Василий Михайлович": 3,
-      "Рогонов Петр Петрович": 33,
-      "Семеньков Василий Иванович": 84,
-      "Шенкарев Олег Александрович": 5,
-      "Против всех": 19
+      "gas:candidate-vibid:332300270388": 69,
+      "gas:candidate-vibid:1001000217916": 3,
+      "gas:candidate-vibid:1001000190332": 21,
+      "gas:candidate-vibid:1001000136040": 8,
+      "gas:candidate-vibid:1001000195062": 1,
+      "gas:candidate-vibid:332300270608": 3,
+      "gas:candidate-vibid:1001000121836": 33,
+      "gas:candidate-vibid:1001000225928": 84,
+      "gas:candidate-vibid:1001000131393": 5,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070389&region=0&sub_region=0&type=429",
@@ -14379,16 +14379,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 19,
-      "Бобков Александр Николаевич": 0,
-      "Бочаров Андрей Иванович": 2,
-      "Жданов-Луценко Николай Иванович": 2,
-      "Моганова Нина Семеновна": 2,
-      "Попик Василий Михайлович": 3,
-      "Рогонов Петр Петрович": 8,
-      "Семеньков Василий Иванович": 36,
-      "Шенкарев Олег Александрович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:332300270388": 19,
+      "gas:candidate-vibid:1001000217916": 0,
+      "gas:candidate-vibid:1001000190332": 2,
+      "gas:candidate-vibid:1001000136040": 2,
+      "gas:candidate-vibid:1001000195062": 2,
+      "gas:candidate-vibid:332300270608": 3,
+      "gas:candidate-vibid:1001000121836": 8,
+      "gas:candidate-vibid:1001000225928": 36,
+      "gas:candidate-vibid:1001000131393": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070389&region=0&sub_region=0&type=429",
@@ -14438,16 +14438,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 32,
-      "Бобков Александр Николаевич": 0,
-      "Бочаров Андрей Иванович": 26,
-      "Жданов-Луценко Николай Иванович": 0,
-      "Моганова Нина Семеновна": 1,
-      "Попик Василий Михайлович": 1,
-      "Рогонов Петр Петрович": 20,
-      "Семеньков Василий Иванович": 47,
-      "Шенкарев Олег Александрович": 1,
-      "Против всех": 8
+      "gas:candidate-vibid:332300270388": 32,
+      "gas:candidate-vibid:1001000217916": 0,
+      "gas:candidate-vibid:1001000190332": 26,
+      "gas:candidate-vibid:1001000136040": 0,
+      "gas:candidate-vibid:1001000195062": 1,
+      "gas:candidate-vibid:332300270608": 1,
+      "gas:candidate-vibid:1001000121836": 20,
+      "gas:candidate-vibid:1001000225928": 47,
+      "gas:candidate-vibid:1001000131393": 1,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070389&region=0&sub_region=0&type=429",
@@ -14497,16 +14497,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 26,
-      "Бобков Александр Николаевич": 2,
-      "Бочаров Андрей Иванович": 4,
-      "Жданов-Луценко Николай Иванович": 6,
-      "Моганова Нина Семеновна": 0,
-      "Попик Василий Михайлович": 2,
-      "Рогонов Петр Петрович": 70,
-      "Семеньков Василий Иванович": 41,
-      "Шенкарев Олег Александрович": 1,
-      "Против всех": 9
+      "gas:candidate-vibid:332300270388": 26,
+      "gas:candidate-vibid:1001000217916": 2,
+      "gas:candidate-vibid:1001000190332": 4,
+      "gas:candidate-vibid:1001000136040": 6,
+      "gas:candidate-vibid:1001000195062": 0,
+      "gas:candidate-vibid:332300270608": 2,
+      "gas:candidate-vibid:1001000121836": 70,
+      "gas:candidate-vibid:1001000225928": 41,
+      "gas:candidate-vibid:1001000131393": 1,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070389&region=0&sub_region=0&type=429",
@@ -14556,16 +14556,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 35,
-      "Бобков Александр Николаевич": 0,
-      "Бочаров Андрей Иванович": 9,
-      "Жданов-Луценко Николай Иванович": 2,
-      "Моганова Нина Семеновна": 0,
-      "Попик Василий Михайлович": 6,
-      "Рогонов Петр Петрович": 27,
-      "Семеньков Василий Иванович": 89,
-      "Шенкарев Олег Александрович": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:332300270388": 35,
+      "gas:candidate-vibid:1001000217916": 0,
+      "gas:candidate-vibid:1001000190332": 9,
+      "gas:candidate-vibid:1001000136040": 2,
+      "gas:candidate-vibid:1001000195062": 0,
+      "gas:candidate-vibid:332300270608": 6,
+      "gas:candidate-vibid:1001000121836": 27,
+      "gas:candidate-vibid:1001000225928": 89,
+      "gas:candidate-vibid:1001000131393": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070389&region=0&sub_region=0&type=429",
@@ -14615,16 +14615,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 78,
-      "Бобков Александр Николаевич": 3,
-      "Бочаров Андрей Иванович": 4,
-      "Жданов-Луценко Николай Иванович": 5,
-      "Моганова Нина Семеновна": 1,
-      "Попик Василий Михайлович": 4,
-      "Рогонов Петр Петрович": 37,
-      "Семеньков Василий Иванович": 99,
-      "Шенкарев Олег Александрович": 3,
-      "Против всех": 12
+      "gas:candidate-vibid:332300270388": 78,
+      "gas:candidate-vibid:1001000217916": 3,
+      "gas:candidate-vibid:1001000190332": 4,
+      "gas:candidate-vibid:1001000136040": 5,
+      "gas:candidate-vibid:1001000195062": 1,
+      "gas:candidate-vibid:332300270608": 4,
+      "gas:candidate-vibid:1001000121836": 37,
+      "gas:candidate-vibid:1001000225928": 99,
+      "gas:candidate-vibid:1001000131393": 3,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070389&region=0&sub_region=0&type=429",
@@ -14674,16 +14674,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 111,
-      "Бобков Александр Николаевич": 38,
-      "Бочаров Андрей Иванович": 84,
-      "Жданов-Луценко Николай Иванович": 73,
-      "Моганова Нина Семеновна": 9,
-      "Попик Василий Михайлович": 143,
-      "Рогонов Петр Петрович": 289,
-      "Семеньков Василий Иванович": 522,
-      "Шенкарев Олег Александрович": 71,
-      "Против всех": 233
+      "gas:candidate-vibid:332300270388": 111,
+      "gas:candidate-vibid:1001000217916": 38,
+      "gas:candidate-vibid:1001000190332": 84,
+      "gas:candidate-vibid:1001000136040": 73,
+      "gas:candidate-vibid:1001000195062": 9,
+      "gas:candidate-vibid:332300270608": 143,
+      "gas:candidate-vibid:1001000121836": 289,
+      "gas:candidate-vibid:1001000225928": 522,
+      "gas:candidate-vibid:1001000131393": 71,
+      "special:against-all": 233
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070390&region=0&sub_region=0&type=429",
@@ -14733,16 +14733,16 @@ export const duma_2003_uik_428_region_32_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Блохина Лидия Васильевна": 33,
-      "Бобков Александр Николаевич": 10,
-      "Бочаров Андрей Иванович": 21,
-      "Жданов-Луценко Николай Иванович": 19,
-      "Моганова Нина Семеновна": 7,
-      "Попик Василий Михайлович": 22,
-      "Рогонов Петр Петрович": 120,
-      "Семеньков Василий Иванович": 151,
-      "Шенкарев Олег Александрович": 5,
-      "Против всех": 42
+      "gas:candidate-vibid:332300270388": 33,
+      "gas:candidate-vibid:1001000217916": 10,
+      "gas:candidate-vibid:1001000190332": 21,
+      "gas:candidate-vibid:1001000136040": 19,
+      "gas:candidate-vibid:1001000195062": 7,
+      "gas:candidate-vibid:332300270608": 22,
+      "gas:candidate-vibid:1001000121836": 120,
+      "gas:candidate-vibid:1001000225928": 151,
+      "gas:candidate-vibid:1001000131393": 5,
+      "special:against-all": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=322000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=232200070390&region=0&sub_region=0&type=429",

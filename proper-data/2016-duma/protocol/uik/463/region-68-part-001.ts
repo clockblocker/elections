@@ -43,15 +43,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 24,
-      "Грекова Ольга Александровна": 9,
-      "Жидков Андрей Игоревич": 100,
-      "Копьев Василий Владимирович": 21,
-      "Мисанова Ирина Николаевна": 5,
-      "Панфилов Сергей Анатольевич": 9,
-      "Поляков Александр Алексеевич": 1155,
-      "Попова Ирина Степановна": 70,
-      "Сусаков Константин Валерьевич": 35
+      "gas:candidate-vibid:2682000570241": 24,
+      "gas:candidate-vibid:2682000571442": 9,
+      "gas:candidate-vibid:2682000549747": 100,
+      "gas:candidate-vibid:2682000551519": 21,
+      "gas:candidate-vibid:2682000570751": 5,
+      "gas:candidate-vibid:2682000570220": 9,
+      "gas:candidate-vibid:2682000570300": 1155,
+      "gas:candidate-vibid:2682000569650": 70,
+      "gas:candidate-vibid:2682000529925": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507722&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507722&type=464",
@@ -102,15 +102,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 12,
-      "Грекова Ольга Александровна": 6,
-      "Жидков Андрей Игоревич": 43,
-      "Копьев Василий Владимирович": 12,
-      "Мисанова Ирина Николаевна": 4,
-      "Панфилов Сергей Анатольевич": 3,
-      "Поляков Александр Алексеевич": 1400,
-      "Попова Ирина Степановна": 30,
-      "Сусаков Константин Валерьевич": 32
+      "gas:candidate-vibid:2682000570241": 12,
+      "gas:candidate-vibid:2682000571442": 6,
+      "gas:candidate-vibid:2682000549747": 43,
+      "gas:candidate-vibid:2682000551519": 12,
+      "gas:candidate-vibid:2682000570751": 4,
+      "gas:candidate-vibid:2682000570220": 3,
+      "gas:candidate-vibid:2682000570300": 1400,
+      "gas:candidate-vibid:2682000569650": 30,
+      "gas:candidate-vibid:2682000529925": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507722&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507722&type=464",
@@ -161,15 +161,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 23,
-      "Грекова Ольга Александровна": 2,
-      "Жидков Андрей Игоревич": 118,
-      "Копьев Василий Владимирович": 22,
-      "Мисанова Ирина Николаевна": 4,
-      "Панфилов Сергей Анатольевич": 6,
-      "Поляков Александр Алексеевич": 1098,
-      "Попова Ирина Степановна": 74,
-      "Сусаков Константин Валерьевич": 3
+      "gas:candidate-vibid:2682000570241": 23,
+      "gas:candidate-vibid:2682000571442": 2,
+      "gas:candidate-vibid:2682000549747": 118,
+      "gas:candidate-vibid:2682000551519": 22,
+      "gas:candidate-vibid:2682000570751": 4,
+      "gas:candidate-vibid:2682000570220": 6,
+      "gas:candidate-vibid:2682000570300": 1098,
+      "gas:candidate-vibid:2682000569650": 74,
+      "gas:candidate-vibid:2682000529925": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507722&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507722&type=464",
@@ -220,15 +220,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 0,
-      "Грекова Ольга Александровна": 0,
-      "Жидков Андрей Игоревич": 28,
-      "Копьев Василий Владимирович": 0,
-      "Мисанова Ирина Николаевна": 0,
-      "Панфилов Сергей Анатольевич": 0,
-      "Поляков Александр Алексеевич": 597,
-      "Попова Ирина Степановна": 18,
-      "Сусаков Константин Валерьевич": 9
+      "gas:candidate-vibid:2682000570241": 0,
+      "gas:candidate-vibid:2682000571442": 0,
+      "gas:candidate-vibid:2682000549747": 28,
+      "gas:candidate-vibid:2682000551519": 0,
+      "gas:candidate-vibid:2682000570751": 0,
+      "gas:candidate-vibid:2682000570220": 0,
+      "gas:candidate-vibid:2682000570300": 597,
+      "gas:candidate-vibid:2682000569650": 18,
+      "gas:candidate-vibid:2682000529925": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507722&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507722&type=464",
@@ -279,15 +279,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 3,
-      "Грекова Ольга Александровна": 1,
-      "Жидков Андрей Игоревич": 10,
-      "Копьев Василий Владимирович": 6,
-      "Мисанова Ирина Николаевна": 1,
-      "Панфилов Сергей Анатольевич": 3,
-      "Поляков Александр Алексеевич": 908,
-      "Попова Ирина Степановна": 6,
-      "Сусаков Константин Валерьевич": 8
+      "gas:candidate-vibid:2682000570241": 3,
+      "gas:candidate-vibid:2682000571442": 1,
+      "gas:candidate-vibid:2682000549747": 10,
+      "gas:candidate-vibid:2682000551519": 6,
+      "gas:candidate-vibid:2682000570751": 1,
+      "gas:candidate-vibid:2682000570220": 3,
+      "gas:candidate-vibid:2682000570300": 908,
+      "gas:candidate-vibid:2682000569650": 6,
+      "gas:candidate-vibid:2682000529925": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507722&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507722&type=464",
@@ -338,15 +338,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 2,
-      "Грекова Ольга Александровна": 2,
-      "Жидков Андрей Игоревич": 20,
-      "Копьев Василий Владимирович": 7,
-      "Мисанова Ирина Николаевна": 1,
-      "Панфилов Сергей Анатольевич": 3,
-      "Поляков Александр Алексеевич": 170,
-      "Попова Ирина Степановна": 7,
-      "Сусаков Константин Валерьевич": 4
+      "gas:candidate-vibid:2682000570241": 2,
+      "gas:candidate-vibid:2682000571442": 2,
+      "gas:candidate-vibid:2682000549747": 20,
+      "gas:candidate-vibid:2682000551519": 7,
+      "gas:candidate-vibid:2682000570751": 1,
+      "gas:candidate-vibid:2682000570220": 3,
+      "gas:candidate-vibid:2682000570300": 170,
+      "gas:candidate-vibid:2682000569650": 7,
+      "gas:candidate-vibid:2682000529925": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507722&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507722&type=464",
@@ -397,15 +397,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 3,
-      "Грекова Ольга Александровна": 4,
-      "Жидков Андрей Игоревич": 7,
-      "Копьев Василий Владимирович": 3,
-      "Мисанова Ирина Николаевна": 1,
-      "Панфилов Сергей Анатольевич": 0,
-      "Поляков Александр Алексеевич": 197,
-      "Попова Ирина Степановна": 4,
-      "Сусаков Константин Валерьевич": 4
+      "gas:candidate-vibid:2682000570241": 3,
+      "gas:candidate-vibid:2682000571442": 4,
+      "gas:candidate-vibid:2682000549747": 7,
+      "gas:candidate-vibid:2682000551519": 3,
+      "gas:candidate-vibid:2682000570751": 1,
+      "gas:candidate-vibid:2682000570220": 0,
+      "gas:candidate-vibid:2682000570300": 197,
+      "gas:candidate-vibid:2682000569650": 4,
+      "gas:candidate-vibid:2682000529925": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507722&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507722&type=464",
@@ -456,15 +456,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 14,
-      "Грекова Ольга Александровна": 1,
-      "Жидков Андрей Игоревич": 29,
-      "Копьев Василий Владимирович": 7,
-      "Мисанова Ирина Николаевна": 3,
-      "Панфилов Сергей Анатольевич": 5,
-      "Поляков Александр Алексеевич": 474,
-      "Попова Ирина Степановна": 28,
-      "Сусаков Константин Валерьевич": 19
+      "gas:candidate-vibid:2682000570241": 14,
+      "gas:candidate-vibid:2682000571442": 1,
+      "gas:candidate-vibid:2682000549747": 29,
+      "gas:candidate-vibid:2682000551519": 7,
+      "gas:candidate-vibid:2682000570751": 3,
+      "gas:candidate-vibid:2682000570220": 5,
+      "gas:candidate-vibid:2682000570300": 474,
+      "gas:candidate-vibid:2682000569650": 28,
+      "gas:candidate-vibid:2682000529925": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507722&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507722&type=464",
@@ -515,15 +515,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 12,
-      "Грекова Ольга Александровна": 5,
-      "Жидков Андрей Игоревич": 44,
-      "Копьев Василий Владимирович": 18,
-      "Мисанова Ирина Николаевна": 1,
-      "Панфилов Сергей Анатольевич": 8,
-      "Поляков Александр Алексеевич": 605,
-      "Попова Ирина Степановна": 40,
-      "Сусаков Константин Валерьевич": 21
+      "gas:candidate-vibid:2682000570241": 12,
+      "gas:candidate-vibid:2682000571442": 5,
+      "gas:candidate-vibid:2682000549747": 44,
+      "gas:candidate-vibid:2682000551519": 18,
+      "gas:candidate-vibid:2682000570751": 1,
+      "gas:candidate-vibid:2682000570220": 8,
+      "gas:candidate-vibid:2682000570300": 605,
+      "gas:candidate-vibid:2682000569650": 40,
+      "gas:candidate-vibid:2682000529925": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507722&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507722&type=464",
@@ -574,15 +574,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 5,
-      "Грекова Ольга Александровна": 0,
-      "Жидков Андрей Игоревич": 8,
-      "Копьев Василий Владимирович": 10,
-      "Мисанова Ирина Николаевна": 0,
-      "Панфилов Сергей Анатольевич": 4,
-      "Поляков Александр Алексеевич": 200,
-      "Попова Ирина Степановна": 11,
-      "Сусаков Константин Валерьевич": 12
+      "gas:candidate-vibid:2682000570241": 5,
+      "gas:candidate-vibid:2682000571442": 0,
+      "gas:candidate-vibid:2682000549747": 8,
+      "gas:candidate-vibid:2682000551519": 10,
+      "gas:candidate-vibid:2682000570751": 0,
+      "gas:candidate-vibid:2682000570220": 4,
+      "gas:candidate-vibid:2682000570300": 200,
+      "gas:candidate-vibid:2682000569650": 11,
+      "gas:candidate-vibid:2682000529925": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507722&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507722&type=464",
@@ -633,15 +633,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 6,
-      "Грекова Ольга Александровна": 0,
-      "Жидков Андрей Игоревич": 20,
-      "Копьев Василий Владимирович": 7,
-      "Мисанова Ирина Николаевна": 3,
-      "Панфилов Сергей Анатольевич": 0,
-      "Поляков Александр Алексеевич": 234,
-      "Попова Ирина Степановна": 6,
-      "Сусаков Константин Валерьевич": 3
+      "gas:candidate-vibid:2682000570241": 6,
+      "gas:candidate-vibid:2682000571442": 0,
+      "gas:candidate-vibid:2682000549747": 20,
+      "gas:candidate-vibid:2682000551519": 7,
+      "gas:candidate-vibid:2682000570751": 3,
+      "gas:candidate-vibid:2682000570220": 0,
+      "gas:candidate-vibid:2682000570300": 234,
+      "gas:candidate-vibid:2682000569650": 6,
+      "gas:candidate-vibid:2682000529925": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507722&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507722&type=464",
@@ -692,15 +692,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 3,
-      "Грекова Ольга Александровна": 0,
-      "Жидков Андрей Игоревич": 4,
-      "Копьев Василий Владимирович": 0,
-      "Мисанова Ирина Николаевна": 2,
-      "Панфилов Сергей Анатольевич": 1,
-      "Поляков Александр Алексеевич": 79,
-      "Попова Ирина Степановна": 3,
-      "Сусаков Константин Валерьевич": 6
+      "gas:candidate-vibid:2682000570241": 3,
+      "gas:candidate-vibid:2682000571442": 0,
+      "gas:candidate-vibid:2682000549747": 4,
+      "gas:candidate-vibid:2682000551519": 0,
+      "gas:candidate-vibid:2682000570751": 2,
+      "gas:candidate-vibid:2682000570220": 1,
+      "gas:candidate-vibid:2682000570300": 79,
+      "gas:candidate-vibid:2682000569650": 3,
+      "gas:candidate-vibid:2682000529925": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507722&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507722&type=464",
@@ -751,15 +751,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 3,
-      "Грекова Ольга Александровна": 1,
-      "Жидков Андрей Игоревич": 9,
-      "Копьев Василий Владимирович": 4,
-      "Мисанова Ирина Николаевна": 2,
-      "Панфилов Сергей Анатольевич": 3,
-      "Поляков Александр Алексеевич": 114,
-      "Попова Ирина Степановна": 4,
-      "Сусаков Константин Валерьевич": 4
+      "gas:candidate-vibid:2682000570241": 3,
+      "gas:candidate-vibid:2682000571442": 1,
+      "gas:candidate-vibid:2682000549747": 9,
+      "gas:candidate-vibid:2682000551519": 4,
+      "gas:candidate-vibid:2682000570751": 2,
+      "gas:candidate-vibid:2682000570220": 3,
+      "gas:candidate-vibid:2682000570300": 114,
+      "gas:candidate-vibid:2682000569650": 4,
+      "gas:candidate-vibid:2682000529925": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507722&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507722&type=464",
@@ -810,15 +810,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 6,
-      "Грекова Ольга Александровна": 1,
-      "Жидков Андрей Игоревич": 20,
-      "Копьев Василий Владимирович": 2,
-      "Мисанова Ирина Николаевна": 0,
-      "Панфилов Сергей Анатольевич": 5,
-      "Поляков Александр Алексеевич": 170,
-      "Попова Ирина Степановна": 7,
-      "Сусаков Константин Валерьевич": 5
+      "gas:candidate-vibid:2682000570241": 6,
+      "gas:candidate-vibid:2682000571442": 1,
+      "gas:candidate-vibid:2682000549747": 20,
+      "gas:candidate-vibid:2682000551519": 2,
+      "gas:candidate-vibid:2682000570751": 0,
+      "gas:candidate-vibid:2682000570220": 5,
+      "gas:candidate-vibid:2682000570300": 170,
+      "gas:candidate-vibid:2682000569650": 7,
+      "gas:candidate-vibid:2682000529925": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507722&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507722&type=464",
@@ -869,15 +869,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 4,
-      "Грекова Ольга Александровна": 0,
-      "Жидков Андрей Игоревич": 9,
-      "Копьев Василий Владимирович": 3,
-      "Мисанова Ирина Николаевна": 0,
-      "Панфилов Сергей Анатольевич": 2,
-      "Поляков Александр Алексеевич": 144,
-      "Попова Ирина Степановна": 6,
-      "Сусаков Константин Валерьевич": 4
+      "gas:candidate-vibid:2682000570241": 4,
+      "gas:candidate-vibid:2682000571442": 0,
+      "gas:candidate-vibid:2682000549747": 9,
+      "gas:candidate-vibid:2682000551519": 3,
+      "gas:candidate-vibid:2682000570751": 0,
+      "gas:candidate-vibid:2682000570220": 2,
+      "gas:candidate-vibid:2682000570300": 144,
+      "gas:candidate-vibid:2682000569650": 6,
+      "gas:candidate-vibid:2682000529925": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507722&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507722&type=464",
@@ -928,15 +928,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 14,
-      "Грекова Ольга Александровна": 4,
-      "Жидков Андрей Игоревич": 12,
-      "Копьев Василий Владимирович": 2,
-      "Мисанова Ирина Николаевна": 1,
-      "Панфилов Сергей Анатольевич": 2,
-      "Поляков Александр Алексеевич": 638,
-      "Попова Ирина Степановна": 35,
-      "Сусаков Константин Валерьевич": 18
+      "gas:candidate-vibid:2682000570241": 14,
+      "gas:candidate-vibid:2682000571442": 4,
+      "gas:candidate-vibid:2682000549747": 12,
+      "gas:candidate-vibid:2682000551519": 2,
+      "gas:candidate-vibid:2682000570751": 1,
+      "gas:candidate-vibid:2682000570220": 2,
+      "gas:candidate-vibid:2682000570300": 638,
+      "gas:candidate-vibid:2682000569650": 35,
+      "gas:candidate-vibid:2682000529925": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507722&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507722&type=464",
@@ -987,15 +987,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 18,
-      "Грекова Ольга Александровна": 3,
-      "Жидков Андрей Игоревич": 41,
-      "Копьев Василий Владимирович": 13,
-      "Мисанова Ирина Николаевна": 3,
-      "Панфилов Сергей Анатольевич": 5,
-      "Поляков Александр Алексеевич": 675,
-      "Попова Ирина Степановна": 36,
-      "Сусаков Константин Валерьевич": 20
+      "gas:candidate-vibid:2682000570241": 18,
+      "gas:candidate-vibid:2682000571442": 3,
+      "gas:candidate-vibid:2682000549747": 41,
+      "gas:candidate-vibid:2682000551519": 13,
+      "gas:candidate-vibid:2682000570751": 3,
+      "gas:candidate-vibid:2682000570220": 5,
+      "gas:candidate-vibid:2682000570300": 675,
+      "gas:candidate-vibid:2682000569650": 36,
+      "gas:candidate-vibid:2682000529925": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507722&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507722&type=464",
@@ -1046,15 +1046,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 3,
-      "Грекова Ольга Александровна": 0,
-      "Жидков Андрей Игоревич": 1,
-      "Копьев Василий Владимирович": 0,
-      "Мисанова Ирина Николаевна": 0,
-      "Панфилов Сергей Анатольевич": 0,
-      "Поляков Александр Алексеевич": 72,
-      "Попова Ирина Степановна": 3,
-      "Сусаков Константин Валерьевич": 2
+      "gas:candidate-vibid:2682000570241": 3,
+      "gas:candidate-vibid:2682000571442": 0,
+      "gas:candidate-vibid:2682000549747": 1,
+      "gas:candidate-vibid:2682000551519": 0,
+      "gas:candidate-vibid:2682000570751": 0,
+      "gas:candidate-vibid:2682000570220": 0,
+      "gas:candidate-vibid:2682000570300": 72,
+      "gas:candidate-vibid:2682000569650": 3,
+      "gas:candidate-vibid:2682000529925": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507722&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507722&type=464",
@@ -1105,15 +1105,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 7,
-      "Грекова Ольга Александровна": 2,
-      "Жидков Андрей Игоревич": 26,
-      "Копьев Василий Владимирович": 4,
-      "Мисанова Ирина Николаевна": 1,
-      "Панфилов Сергей Анатольевич": 3,
-      "Поляков Александр Алексеевич": 583,
-      "Попова Ирина Степановна": 15,
-      "Сусаков Константин Валерьевич": 9
+      "gas:candidate-vibid:2682000570241": 7,
+      "gas:candidate-vibid:2682000571442": 2,
+      "gas:candidate-vibid:2682000549747": 26,
+      "gas:candidate-vibid:2682000551519": 4,
+      "gas:candidate-vibid:2682000570751": 1,
+      "gas:candidate-vibid:2682000570220": 3,
+      "gas:candidate-vibid:2682000570300": 583,
+      "gas:candidate-vibid:2682000569650": 15,
+      "gas:candidate-vibid:2682000529925": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507722&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507722&type=464",
@@ -1164,15 +1164,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 2,
-      "Грекова Ольга Александровна": 0,
-      "Жидков Андрей Игоревич": 5,
-      "Копьев Василий Владимирович": 2,
-      "Мисанова Ирина Николаевна": 0,
-      "Панфилов Сергей Анатольевич": 2,
-      "Поляков Александр Алексеевич": 229,
-      "Попова Ирина Степановна": 8,
-      "Сусаков Константин Валерьевич": 4
+      "gas:candidate-vibid:2682000570241": 2,
+      "gas:candidate-vibid:2682000571442": 0,
+      "gas:candidate-vibid:2682000549747": 5,
+      "gas:candidate-vibid:2682000551519": 2,
+      "gas:candidate-vibid:2682000570751": 0,
+      "gas:candidate-vibid:2682000570220": 2,
+      "gas:candidate-vibid:2682000570300": 229,
+      "gas:candidate-vibid:2682000569650": 8,
+      "gas:candidate-vibid:2682000529925": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507722&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507722&type=464",
@@ -1223,15 +1223,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 4,
-      "Грекова Ольга Александровна": 1,
-      "Жидков Андрей Игоревич": 25,
-      "Копьев Василий Владимирович": 0,
-      "Мисанова Ирина Николаевна": 1,
-      "Панфилов Сергей Анатольевич": 0,
-      "Поляков Александр Алексеевич": 265,
-      "Попова Ирина Степановна": 4,
-      "Сусаков Константин Валерьевич": 5
+      "gas:candidate-vibid:2682000570241": 4,
+      "gas:candidate-vibid:2682000571442": 1,
+      "gas:candidate-vibid:2682000549747": 25,
+      "gas:candidate-vibid:2682000551519": 0,
+      "gas:candidate-vibid:2682000570751": 1,
+      "gas:candidate-vibid:2682000570220": 0,
+      "gas:candidate-vibid:2682000570300": 265,
+      "gas:candidate-vibid:2682000569650": 4,
+      "gas:candidate-vibid:2682000529925": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507722&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507722&type=464",
@@ -1282,15 +1282,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 1,
-      "Грекова Ольга Александровна": 1,
-      "Жидков Андрей Игоревич": 9,
-      "Копьев Василий Владимирович": 3,
-      "Мисанова Ирина Николаевна": 0,
-      "Панфилов Сергей Анатольевич": 1,
-      "Поляков Александр Алексеевич": 112,
-      "Попова Ирина Степановна": 2,
-      "Сусаков Константин Валерьевич": 6
+      "gas:candidate-vibid:2682000570241": 1,
+      "gas:candidate-vibid:2682000571442": 1,
+      "gas:candidate-vibid:2682000549747": 9,
+      "gas:candidate-vibid:2682000551519": 3,
+      "gas:candidate-vibid:2682000570751": 0,
+      "gas:candidate-vibid:2682000570220": 1,
+      "gas:candidate-vibid:2682000570300": 112,
+      "gas:candidate-vibid:2682000569650": 2,
+      "gas:candidate-vibid:2682000529925": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507722&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507722&type=464",
@@ -1341,15 +1341,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 0,
-      "Грекова Ольга Александровна": 3,
-      "Жидков Андрей Игоревич": 39,
-      "Копьев Василий Владимирович": 9,
-      "Мисанова Ирина Николаевна": 2,
-      "Панфилов Сергей Анатольевич": 2,
-      "Поляков Александр Алексеевич": 415,
-      "Попова Ирина Степановна": 40,
-      "Сусаков Константин Валерьевич": 9
+      "gas:candidate-vibid:2682000570241": 0,
+      "gas:candidate-vibid:2682000571442": 3,
+      "gas:candidate-vibid:2682000549747": 39,
+      "gas:candidate-vibid:2682000551519": 9,
+      "gas:candidate-vibid:2682000570751": 2,
+      "gas:candidate-vibid:2682000570220": 2,
+      "gas:candidate-vibid:2682000570300": 415,
+      "gas:candidate-vibid:2682000569650": 40,
+      "gas:candidate-vibid:2682000529925": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507722&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507722&type=464",
@@ -1400,15 +1400,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 2,
-      "Грекова Ольга Александровна": 1,
-      "Жидков Андрей Игоревич": 2,
-      "Копьев Василий Владимирович": 2,
-      "Мисанова Ирина Николаевна": 0,
-      "Панфилов Сергей Анатольевич": 1,
-      "Поляков Александр Алексеевич": 85,
-      "Попова Ирина Степановна": 3,
-      "Сусаков Константин Валерьевич": 2
+      "gas:candidate-vibid:2682000570241": 2,
+      "gas:candidate-vibid:2682000571442": 1,
+      "gas:candidate-vibid:2682000549747": 2,
+      "gas:candidate-vibid:2682000551519": 2,
+      "gas:candidate-vibid:2682000570751": 0,
+      "gas:candidate-vibid:2682000570220": 1,
+      "gas:candidate-vibid:2682000570300": 85,
+      "gas:candidate-vibid:2682000569650": 3,
+      "gas:candidate-vibid:2682000529925": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507722&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507722&type=464",
@@ -1459,15 +1459,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 4,
-      "Грекова Ольга Александровна": 0,
-      "Жидков Андрей Игоревич": 7,
-      "Копьев Василий Владимирович": 2,
-      "Мисанова Ирина Николаевна": 0,
-      "Панфилов Сергей Анатольевич": 1,
-      "Поляков Александр Алексеевич": 249,
-      "Попова Ирина Степановна": 18,
-      "Сусаков Константин Валерьевич": 5
+      "gas:candidate-vibid:2682000570241": 4,
+      "gas:candidate-vibid:2682000571442": 0,
+      "gas:candidate-vibid:2682000549747": 7,
+      "gas:candidate-vibid:2682000551519": 2,
+      "gas:candidate-vibid:2682000570751": 0,
+      "gas:candidate-vibid:2682000570220": 1,
+      "gas:candidate-vibid:2682000570300": 249,
+      "gas:candidate-vibid:2682000569650": 18,
+      "gas:candidate-vibid:2682000529925": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507722&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507722&type=464",
@@ -1518,15 +1518,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 3,
-      "Грекова Ольга Александровна": 3,
-      "Жидков Андрей Игоревич": 8,
-      "Копьев Василий Владимирович": 8,
-      "Мисанова Ирина Николаевна": 0,
-      "Панфилов Сергей Анатольевич": 1,
-      "Поляков Александр Алексеевич": 212,
-      "Попова Ирина Степановна": 12,
-      "Сусаков Константин Валерьевич": 10
+      "gas:candidate-vibid:2682000570241": 3,
+      "gas:candidate-vibid:2682000571442": 3,
+      "gas:candidate-vibid:2682000549747": 8,
+      "gas:candidate-vibid:2682000551519": 8,
+      "gas:candidate-vibid:2682000570751": 0,
+      "gas:candidate-vibid:2682000570220": 1,
+      "gas:candidate-vibid:2682000570300": 212,
+      "gas:candidate-vibid:2682000569650": 12,
+      "gas:candidate-vibid:2682000529925": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507722&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507722&type=464",
@@ -1577,15 +1577,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 4,
-      "Грекова Ольга Александровна": 0,
-      "Жидков Андрей Игоревич": 2,
-      "Копьев Василий Владимирович": 0,
-      "Мисанова Ирина Николаевна": 0,
-      "Панфилов Сергей Анатольевич": 0,
-      "Поляков Александр Алексеевич": 180,
-      "Попова Ирина Степановна": 5,
-      "Сусаков Константин Валерьевич": 3
+      "gas:candidate-vibid:2682000570241": 4,
+      "gas:candidate-vibid:2682000571442": 0,
+      "gas:candidate-vibid:2682000549747": 2,
+      "gas:candidate-vibid:2682000551519": 0,
+      "gas:candidate-vibid:2682000570751": 0,
+      "gas:candidate-vibid:2682000570220": 0,
+      "gas:candidate-vibid:2682000570300": 180,
+      "gas:candidate-vibid:2682000569650": 5,
+      "gas:candidate-vibid:2682000529925": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507722&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507722&type=464",
@@ -1636,15 +1636,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 17,
-      "Грекова Ольга Александровна": 9,
-      "Жидков Андрей Игоревич": 81,
-      "Копьев Василий Владимирович": 23,
-      "Мисанова Ирина Николаевна": 17,
-      "Панфилов Сергей Анатольевич": 8,
-      "Поляков Александр Алексеевич": 342,
-      "Попова Ирина Степановна": 39,
-      "Сусаков Константин Валерьевич": 42
+      "gas:candidate-vibid:2682000570241": 17,
+      "gas:candidate-vibid:2682000571442": 9,
+      "gas:candidate-vibid:2682000549747": 81,
+      "gas:candidate-vibid:2682000551519": 23,
+      "gas:candidate-vibid:2682000570751": 17,
+      "gas:candidate-vibid:2682000570220": 8,
+      "gas:candidate-vibid:2682000570300": 342,
+      "gas:candidate-vibid:2682000569650": 39,
+      "gas:candidate-vibid:2682000529925": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507724&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507724&type=464",
@@ -1695,15 +1695,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 8,
-      "Грекова Ольга Александровна": 7,
-      "Жидков Андрей Игоревич": 88,
-      "Копьев Василий Владимирович": 23,
-      "Мисанова Ирина Николаевна": 10,
-      "Панфилов Сергей Анатольевич": 4,
-      "Поляков Александр Алексеевич": 297,
-      "Попова Ирина Степановна": 39,
-      "Сусаков Константин Валерьевич": 42
+      "gas:candidate-vibid:2682000570241": 8,
+      "gas:candidate-vibid:2682000571442": 7,
+      "gas:candidate-vibid:2682000549747": 88,
+      "gas:candidate-vibid:2682000551519": 23,
+      "gas:candidate-vibid:2682000570751": 10,
+      "gas:candidate-vibid:2682000570220": 4,
+      "gas:candidate-vibid:2682000570300": 297,
+      "gas:candidate-vibid:2682000569650": 39,
+      "gas:candidate-vibid:2682000529925": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507724&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507724&type=464",
@@ -1754,15 +1754,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 8,
-      "Грекова Ольга Александровна": 3,
-      "Жидков Андрей Игоревич": 49,
-      "Копьев Василий Владимирович": 23,
-      "Мисанова Ирина Николаевна": 15,
-      "Панфилов Сергей Анатольевич": 10,
-      "Поляков Александр Алексеевич": 427,
-      "Попова Ирина Степановна": 29,
-      "Сусаков Константин Валерьевич": 47
+      "gas:candidate-vibid:2682000570241": 8,
+      "gas:candidate-vibid:2682000571442": 3,
+      "gas:candidate-vibid:2682000549747": 49,
+      "gas:candidate-vibid:2682000551519": 23,
+      "gas:candidate-vibid:2682000570751": 15,
+      "gas:candidate-vibid:2682000570220": 10,
+      "gas:candidate-vibid:2682000570300": 427,
+      "gas:candidate-vibid:2682000569650": 29,
+      "gas:candidate-vibid:2682000529925": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507724&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507724&type=464",
@@ -1813,15 +1813,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 27,
-      "Грекова Ольга Александровна": 14,
-      "Жидков Андрей Игоревич": 81,
-      "Копьев Василий Владимирович": 11,
-      "Мисанова Ирина Николаевна": 14,
-      "Панфилов Сергей Анатольевич": 25,
-      "Поляков Александр Алексеевич": 433,
-      "Попова Ирина Степановна": 55,
-      "Сусаков Константин Валерьевич": 46
+      "gas:candidate-vibid:2682000570241": 27,
+      "gas:candidate-vibid:2682000571442": 14,
+      "gas:candidate-vibid:2682000549747": 81,
+      "gas:candidate-vibid:2682000551519": 11,
+      "gas:candidate-vibid:2682000570751": 14,
+      "gas:candidate-vibid:2682000570220": 25,
+      "gas:candidate-vibid:2682000570300": 433,
+      "gas:candidate-vibid:2682000569650": 55,
+      "gas:candidate-vibid:2682000529925": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507724&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507724&type=464",
@@ -1872,15 +1872,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 17,
-      "Грекова Ольга Александровна": 15,
-      "Жидков Андрей Игоревич": 81,
-      "Копьев Василий Владимирович": 21,
-      "Мисанова Ирина Николаевна": 10,
-      "Панфилов Сергей Анатольевич": 12,
-      "Поляков Александр Алексеевич": 312,
-      "Попова Ирина Степановна": 41,
-      "Сусаков Константин Валерьевич": 36
+      "gas:candidate-vibid:2682000570241": 17,
+      "gas:candidate-vibid:2682000571442": 15,
+      "gas:candidate-vibid:2682000549747": 81,
+      "gas:candidate-vibid:2682000551519": 21,
+      "gas:candidate-vibid:2682000570751": 10,
+      "gas:candidate-vibid:2682000570220": 12,
+      "gas:candidate-vibid:2682000570300": 312,
+      "gas:candidate-vibid:2682000569650": 41,
+      "gas:candidate-vibid:2682000529925": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507724&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507724&type=464",
@@ -1931,15 +1931,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 7,
-      "Грекова Ольга Александровна": 4,
-      "Жидков Андрей Игоревич": 49,
-      "Копьев Василий Владимирович": 10,
-      "Мисанова Ирина Николаевна": 3,
-      "Панфилов Сергей Анатольевич": 6,
-      "Поляков Александр Алексеевич": 192,
-      "Попова Ирина Степановна": 25,
-      "Сусаков Константин Валерьевич": 31
+      "gas:candidate-vibid:2682000570241": 7,
+      "gas:candidate-vibid:2682000571442": 4,
+      "gas:candidate-vibid:2682000549747": 49,
+      "gas:candidate-vibid:2682000551519": 10,
+      "gas:candidate-vibid:2682000570751": 3,
+      "gas:candidate-vibid:2682000570220": 6,
+      "gas:candidate-vibid:2682000570300": 192,
+      "gas:candidate-vibid:2682000569650": 25,
+      "gas:candidate-vibid:2682000529925": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507724&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507724&type=464",
@@ -1990,15 +1990,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 21,
-      "Грекова Ольга Александровна": 5,
-      "Жидков Андрей Игоревич": 57,
-      "Копьев Василий Владимирович": 12,
-      "Мисанова Ирина Николаевна": 7,
-      "Панфилов Сергей Анатольевич": 12,
-      "Поляков Александр Алексеевич": 274,
-      "Попова Ирина Степановна": 52,
-      "Сусаков Константин Валерьевич": 46
+      "gas:candidate-vibid:2682000570241": 21,
+      "gas:candidate-vibid:2682000571442": 5,
+      "gas:candidate-vibid:2682000549747": 57,
+      "gas:candidate-vibid:2682000551519": 12,
+      "gas:candidate-vibid:2682000570751": 7,
+      "gas:candidate-vibid:2682000570220": 12,
+      "gas:candidate-vibid:2682000570300": 274,
+      "gas:candidate-vibid:2682000569650": 52,
+      "gas:candidate-vibid:2682000529925": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507724&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507724&type=464",
@@ -2049,15 +2049,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 11,
-      "Грекова Ольга Александровна": 2,
-      "Жидков Андрей Игоревич": 41,
-      "Копьев Василий Владимирович": 12,
-      "Мисанова Ирина Николаевна": 8,
-      "Панфилов Сергей Анатольевич": 14,
-      "Поляков Александр Алексеевич": 240,
-      "Попова Ирина Степановна": 24,
-      "Сусаков Константин Валерьевич": 37
+      "gas:candidate-vibid:2682000570241": 11,
+      "gas:candidate-vibid:2682000571442": 2,
+      "gas:candidate-vibid:2682000549747": 41,
+      "gas:candidate-vibid:2682000551519": 12,
+      "gas:candidate-vibid:2682000570751": 8,
+      "gas:candidate-vibid:2682000570220": 14,
+      "gas:candidate-vibid:2682000570300": 240,
+      "gas:candidate-vibid:2682000569650": 24,
+      "gas:candidate-vibid:2682000529925": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507724&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507724&type=464",
@@ -2108,15 +2108,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 16,
-      "Грекова Ольга Александровна": 10,
-      "Жидков Андрей Игоревич": 107,
-      "Копьев Василий Владимирович": 17,
-      "Мисанова Ирина Николаевна": 16,
-      "Панфилов Сергей Анатольевич": 6,
-      "Поляков Александр Алексеевич": 386,
-      "Попова Ирина Степановна": 19,
-      "Сусаков Константин Валерьевич": 38
+      "gas:candidate-vibid:2682000570241": 16,
+      "gas:candidate-vibid:2682000571442": 10,
+      "gas:candidate-vibid:2682000549747": 107,
+      "gas:candidate-vibid:2682000551519": 17,
+      "gas:candidate-vibid:2682000570751": 16,
+      "gas:candidate-vibid:2682000570220": 6,
+      "gas:candidate-vibid:2682000570300": 386,
+      "gas:candidate-vibid:2682000569650": 19,
+      "gas:candidate-vibid:2682000529925": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507724&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507724&type=464",
@@ -2167,15 +2167,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 24,
-      "Грекова Ольга Александровна": 13,
-      "Жидков Андрей Игоревич": 60,
-      "Копьев Василий Владимирович": 18,
-      "Мисанова Ирина Николаевна": 15,
-      "Панфилов Сергей Анатольевич": 11,
-      "Поляков Александр Алексеевич": 199,
-      "Попова Ирина Степановна": 53,
-      "Сусаков Константин Валерьевич": 57
+      "gas:candidate-vibid:2682000570241": 24,
+      "gas:candidate-vibid:2682000571442": 13,
+      "gas:candidate-vibid:2682000549747": 60,
+      "gas:candidate-vibid:2682000551519": 18,
+      "gas:candidate-vibid:2682000570751": 15,
+      "gas:candidate-vibid:2682000570220": 11,
+      "gas:candidate-vibid:2682000570300": 199,
+      "gas:candidate-vibid:2682000569650": 53,
+      "gas:candidate-vibid:2682000529925": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507724&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507724&type=464",
@@ -2226,15 +2226,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 20,
-      "Грекова Ольга Александровна": 6,
-      "Жидков Андрей Игоревич": 72,
-      "Копьев Василий Владимирович": 12,
-      "Мисанова Ирина Николаевна": 10,
-      "Панфилов Сергей Анатольевич": 10,
-      "Поляков Александр Алексеевич": 365,
-      "Попова Ирина Степановна": 44,
-      "Сусаков Константин Валерьевич": 58
+      "gas:candidate-vibid:2682000570241": 20,
+      "gas:candidate-vibid:2682000571442": 6,
+      "gas:candidate-vibid:2682000549747": 72,
+      "gas:candidate-vibid:2682000551519": 12,
+      "gas:candidate-vibid:2682000570751": 10,
+      "gas:candidate-vibid:2682000570220": 10,
+      "gas:candidate-vibid:2682000570300": 365,
+      "gas:candidate-vibid:2682000569650": 44,
+      "gas:candidate-vibid:2682000529925": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507724&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507724&type=464",
@@ -2285,15 +2285,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 10,
-      "Грекова Ольга Александровна": 5,
-      "Жидков Андрей Игоревич": 40,
-      "Копьев Василий Владимирович": 13,
-      "Мисанова Ирина Николаевна": 6,
-      "Панфилов Сергей Анатольевич": 4,
-      "Поляков Александр Алексеевич": 280,
-      "Попова Ирина Степановна": 33,
-      "Сусаков Константин Валерьевич": 25
+      "gas:candidate-vibid:2682000570241": 10,
+      "gas:candidate-vibid:2682000571442": 5,
+      "gas:candidate-vibid:2682000549747": 40,
+      "gas:candidate-vibid:2682000551519": 13,
+      "gas:candidate-vibid:2682000570751": 6,
+      "gas:candidate-vibid:2682000570220": 4,
+      "gas:candidate-vibid:2682000570300": 280,
+      "gas:candidate-vibid:2682000569650": 33,
+      "gas:candidate-vibid:2682000529925": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507724&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507724&type=464",
@@ -2344,15 +2344,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 30,
-      "Грекова Ольга Александровна": 10,
-      "Жидков Андрей Игоревич": 48,
-      "Копьев Василий Владимирович": 30,
-      "Мисанова Ирина Николаевна": 9,
-      "Панфилов Сергей Анатольевич": 10,
-      "Поляков Александр Алексеевич": 358,
-      "Попова Ирина Степановна": 67,
-      "Сусаков Константин Валерьевич": 58
+      "gas:candidate-vibid:2682000570241": 30,
+      "gas:candidate-vibid:2682000571442": 10,
+      "gas:candidate-vibid:2682000549747": 48,
+      "gas:candidate-vibid:2682000551519": 30,
+      "gas:candidate-vibid:2682000570751": 9,
+      "gas:candidate-vibid:2682000570220": 10,
+      "gas:candidate-vibid:2682000570300": 358,
+      "gas:candidate-vibid:2682000569650": 67,
+      "gas:candidate-vibid:2682000529925": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507724&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507724&type=464",
@@ -2403,15 +2403,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 23,
-      "Грекова Ольга Александровна": 7,
-      "Жидков Андрей Игоревич": 74,
-      "Копьев Василий Владимирович": 17,
-      "Мисанова Ирина Николаевна": 5,
-      "Панфилов Сергей Анатольевич": 11,
-      "Поляков Александр Алексеевич": 151,
-      "Попова Ирина Степановна": 46,
-      "Сусаков Константин Валерьевич": 34
+      "gas:candidate-vibid:2682000570241": 23,
+      "gas:candidate-vibid:2682000571442": 7,
+      "gas:candidate-vibid:2682000549747": 74,
+      "gas:candidate-vibid:2682000551519": 17,
+      "gas:candidate-vibid:2682000570751": 5,
+      "gas:candidate-vibid:2682000570220": 11,
+      "gas:candidate-vibid:2682000570300": 151,
+      "gas:candidate-vibid:2682000569650": 46,
+      "gas:candidate-vibid:2682000529925": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507724&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507724&type=464",
@@ -2462,15 +2462,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 10,
-      "Грекова Ольга Александровна": 2,
-      "Жидков Андрей Игоревич": 36,
-      "Копьев Василий Владимирович": 13,
-      "Мисанова Ирина Николаевна": 8,
-      "Панфилов Сергей Анатольевич": 6,
-      "Поляков Александр Алексеевич": 299,
-      "Попова Ирина Степановна": 14,
-      "Сусаков Константин Валерьевич": 22
+      "gas:candidate-vibid:2682000570241": 10,
+      "gas:candidate-vibid:2682000571442": 2,
+      "gas:candidate-vibid:2682000549747": 36,
+      "gas:candidate-vibid:2682000551519": 13,
+      "gas:candidate-vibid:2682000570751": 8,
+      "gas:candidate-vibid:2682000570220": 6,
+      "gas:candidate-vibid:2682000570300": 299,
+      "gas:candidate-vibid:2682000569650": 14,
+      "gas:candidate-vibid:2682000529925": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507724&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507724&type=464",
@@ -2521,15 +2521,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 5,
-      "Грекова Ольга Александровна": 3,
-      "Жидков Андрей Игоревич": 42,
-      "Копьев Василий Владимирович": 4,
-      "Мисанова Ирина Николаевна": 2,
-      "Панфилов Сергей Анатольевич": 4,
-      "Поляков Александр Алексеевич": 335,
-      "Попова Ирина Степановна": 48,
-      "Сусаков Константин Валерьевич": 16
+      "gas:candidate-vibid:2682000570241": 5,
+      "gas:candidate-vibid:2682000571442": 3,
+      "gas:candidate-vibid:2682000549747": 42,
+      "gas:candidate-vibid:2682000551519": 4,
+      "gas:candidate-vibid:2682000570751": 2,
+      "gas:candidate-vibid:2682000570220": 4,
+      "gas:candidate-vibid:2682000570300": 335,
+      "gas:candidate-vibid:2682000569650": 48,
+      "gas:candidate-vibid:2682000529925": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507724&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507724&type=464",
@@ -2580,15 +2580,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 14,
-      "Грекова Ольга Александровна": 3,
-      "Жидков Андрей Игоревич": 82,
-      "Копьев Василий Владимирович": 23,
-      "Мисанова Ирина Николаевна": 7,
-      "Панфилов Сергей Анатольевич": 12,
-      "Поляков Александр Алексеевич": 210,
-      "Попова Ирина Степановна": 45,
-      "Сусаков Константин Валерьевич": 44
+      "gas:candidate-vibid:2682000570241": 14,
+      "gas:candidate-vibid:2682000571442": 3,
+      "gas:candidate-vibid:2682000549747": 82,
+      "gas:candidate-vibid:2682000551519": 23,
+      "gas:candidate-vibid:2682000570751": 7,
+      "gas:candidate-vibid:2682000570220": 12,
+      "gas:candidate-vibid:2682000570300": 210,
+      "gas:candidate-vibid:2682000569650": 45,
+      "gas:candidate-vibid:2682000529925": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507724&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507724&type=464",
@@ -2639,15 +2639,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 15,
-      "Грекова Ольга Александровна": 9,
-      "Жидков Андрей Игоревич": 83,
-      "Копьев Василий Владимирович": 21,
-      "Мисанова Ирина Николаевна": 7,
-      "Панфилов Сергей Анатольевич": 5,
-      "Поляков Александр Алексеевич": 322,
-      "Попова Ирина Степановна": 60,
-      "Сусаков Константин Валерьевич": 24
+      "gas:candidate-vibid:2682000570241": 15,
+      "gas:candidate-vibid:2682000571442": 9,
+      "gas:candidate-vibid:2682000549747": 83,
+      "gas:candidate-vibid:2682000551519": 21,
+      "gas:candidate-vibid:2682000570751": 7,
+      "gas:candidate-vibid:2682000570220": 5,
+      "gas:candidate-vibid:2682000570300": 322,
+      "gas:candidate-vibid:2682000569650": 60,
+      "gas:candidate-vibid:2682000529925": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507724&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507724&type=464",
@@ -2698,15 +2698,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 15,
-      "Грекова Ольга Александровна": 2,
-      "Жидков Андрей Игоревич": 83,
-      "Копьев Василий Владимирович": 17,
-      "Мисанова Ирина Николаевна": 8,
-      "Панфилов Сергей Анатольевич": 6,
-      "Поляков Александр Алексеевич": 215,
-      "Попова Ирина Степановна": 58,
-      "Сусаков Константин Валерьевич": 33
+      "gas:candidate-vibid:2682000570241": 15,
+      "gas:candidate-vibid:2682000571442": 2,
+      "gas:candidate-vibid:2682000549747": 83,
+      "gas:candidate-vibid:2682000551519": 17,
+      "gas:candidate-vibid:2682000570751": 8,
+      "gas:candidate-vibid:2682000570220": 6,
+      "gas:candidate-vibid:2682000570300": 215,
+      "gas:candidate-vibid:2682000569650": 58,
+      "gas:candidate-vibid:2682000529925": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507724&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507724&type=464",
@@ -2757,15 +2757,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 9,
-      "Грекова Ольга Александровна": 5,
-      "Жидков Андрей Игоревич": 35,
-      "Копьев Василий Владимирович": 14,
-      "Мисанова Ирина Николаевна": 7,
-      "Панфилов Сергей Анатольевич": 4,
-      "Поляков Александр Алексеевич": 496,
-      "Попова Ирина Степановна": 16,
-      "Сусаков Константин Валерьевич": 20
+      "gas:candidate-vibid:2682000570241": 9,
+      "gas:candidate-vibid:2682000571442": 5,
+      "gas:candidate-vibid:2682000549747": 35,
+      "gas:candidate-vibid:2682000551519": 14,
+      "gas:candidate-vibid:2682000570751": 7,
+      "gas:candidate-vibid:2682000570220": 4,
+      "gas:candidate-vibid:2682000570300": 496,
+      "gas:candidate-vibid:2682000569650": 16,
+      "gas:candidate-vibid:2682000529925": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507724&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507724&type=464",
@@ -2816,15 +2816,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 17,
-      "Грекова Ольга Александровна": 17,
-      "Жидков Андрей Игоревич": 61,
-      "Копьев Василий Владимирович": 16,
-      "Мисанова Ирина Николаевна": 14,
-      "Панфилов Сергей Анатольевич": 9,
-      "Поляков Александр Алексеевич": 406,
-      "Попова Ирина Степановна": 38,
-      "Сусаков Константин Валерьевич": 28
+      "gas:candidate-vibid:2682000570241": 17,
+      "gas:candidate-vibid:2682000571442": 17,
+      "gas:candidate-vibid:2682000549747": 61,
+      "gas:candidate-vibid:2682000551519": 16,
+      "gas:candidate-vibid:2682000570751": 14,
+      "gas:candidate-vibid:2682000570220": 9,
+      "gas:candidate-vibid:2682000570300": 406,
+      "gas:candidate-vibid:2682000569650": 38,
+      "gas:candidate-vibid:2682000529925": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507724&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507724&type=464",
@@ -2875,15 +2875,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 18,
-      "Грекова Ольга Александровна": 1,
-      "Жидков Андрей Игоревич": 48,
-      "Копьев Василий Владимирович": 7,
-      "Мисанова Ирина Николаевна": 7,
-      "Панфилов Сергей Анатольевич": 11,
-      "Поляков Александр Алексеевич": 461,
-      "Попова Ирина Степановна": 30,
-      "Сусаков Константин Валерьевич": 37
+      "gas:candidate-vibid:2682000570241": 18,
+      "gas:candidate-vibid:2682000571442": 1,
+      "gas:candidate-vibid:2682000549747": 48,
+      "gas:candidate-vibid:2682000551519": 7,
+      "gas:candidate-vibid:2682000570751": 7,
+      "gas:candidate-vibid:2682000570220": 11,
+      "gas:candidate-vibid:2682000570300": 461,
+      "gas:candidate-vibid:2682000569650": 30,
+      "gas:candidate-vibid:2682000529925": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507724&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507724&type=464",
@@ -2934,15 +2934,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 25,
-      "Грекова Ольга Александровна": 10,
-      "Жидков Андрей Игоревич": 88,
-      "Копьев Василий Владимирович": 33,
-      "Мисанова Ирина Николаевна": 14,
-      "Панфилов Сергей Анатольевич": 21,
-      "Поляков Александр Алексеевич": 287,
-      "Попова Ирина Степановна": 62,
-      "Сусаков Константин Валерьевич": 49
+      "gas:candidate-vibid:2682000570241": 25,
+      "gas:candidate-vibid:2682000571442": 10,
+      "gas:candidate-vibid:2682000549747": 88,
+      "gas:candidate-vibid:2682000551519": 33,
+      "gas:candidate-vibid:2682000570751": 14,
+      "gas:candidate-vibid:2682000570220": 21,
+      "gas:candidate-vibid:2682000570300": 287,
+      "gas:candidate-vibid:2682000569650": 62,
+      "gas:candidate-vibid:2682000529925": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507724&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507724&type=464",
@@ -2993,15 +2993,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 20,
-      "Грекова Ольга Александровна": 8,
-      "Жидков Андрей Игоревич": 142,
-      "Копьев Василий Владимирович": 42,
-      "Мисанова Ирина Николаевна": 15,
-      "Панфилов Сергей Анатольевич": 11,
-      "Поляков Александр Алексеевич": 618,
-      "Попова Ирина Степановна": 110,
-      "Сусаков Константин Валерьевич": 51
+      "gas:candidate-vibid:2682000570241": 20,
+      "gas:candidate-vibid:2682000571442": 8,
+      "gas:candidate-vibid:2682000549747": 142,
+      "gas:candidate-vibid:2682000551519": 42,
+      "gas:candidate-vibid:2682000570751": 15,
+      "gas:candidate-vibid:2682000570220": 11,
+      "gas:candidate-vibid:2682000570300": 618,
+      "gas:candidate-vibid:2682000569650": 110,
+      "gas:candidate-vibid:2682000529925": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507724&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507724&type=464",
@@ -3052,15 +3052,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 36,
-      "Грекова Ольга Александровна": 8,
-      "Жидков Андрей Игоревич": 136,
-      "Копьев Василий Владимирович": 42,
-      "Мисанова Ирина Николаевна": 20,
-      "Панфилов Сергей Анатольевич": 13,
-      "Поляков Александр Алексеевич": 541,
-      "Попова Ирина Степановна": 101,
-      "Сусаков Константин Валерьевич": 76
+      "gas:candidate-vibid:2682000570241": 36,
+      "gas:candidate-vibid:2682000571442": 8,
+      "gas:candidate-vibid:2682000549747": 136,
+      "gas:candidate-vibid:2682000551519": 42,
+      "gas:candidate-vibid:2682000570751": 20,
+      "gas:candidate-vibid:2682000570220": 13,
+      "gas:candidate-vibid:2682000570300": 541,
+      "gas:candidate-vibid:2682000569650": 101,
+      "gas:candidate-vibid:2682000529925": 76
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507724&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507724&type=464",
@@ -3111,15 +3111,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 13,
-      "Грекова Ольга Александровна": 7,
-      "Жидков Андрей Игоревич": 108,
-      "Копьев Василий Владимирович": 26,
-      "Мисанова Ирина Николаевна": 16,
-      "Панфилов Сергей Анатольевич": 16,
-      "Поляков Александр Алексеевич": 800,
-      "Попова Ирина Степановна": 60,
-      "Сусаков Константин Валерьевич": 44
+      "gas:candidate-vibid:2682000570241": 13,
+      "gas:candidate-vibid:2682000571442": 7,
+      "gas:candidate-vibid:2682000549747": 108,
+      "gas:candidate-vibid:2682000551519": 26,
+      "gas:candidate-vibid:2682000570751": 16,
+      "gas:candidate-vibid:2682000570220": 16,
+      "gas:candidate-vibid:2682000570300": 800,
+      "gas:candidate-vibid:2682000569650": 60,
+      "gas:candidate-vibid:2682000529925": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507724&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507724&type=464",
@@ -3170,15 +3170,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 11,
-      "Грекова Ольга Александровна": 4,
-      "Жидков Андрей Игоревич": 64,
-      "Копьев Василий Владимирович": 26,
-      "Мисанова Ирина Николаевна": 10,
-      "Панфилов Сергей Анатольевич": 11,
-      "Поляков Александр Алексеевич": 381,
-      "Попова Ирина Степановна": 56,
-      "Сусаков Константин Валерьевич": 45
+      "gas:candidate-vibid:2682000570241": 11,
+      "gas:candidate-vibid:2682000571442": 4,
+      "gas:candidate-vibid:2682000549747": 64,
+      "gas:candidate-vibid:2682000551519": 26,
+      "gas:candidate-vibid:2682000570751": 10,
+      "gas:candidate-vibid:2682000570220": 11,
+      "gas:candidate-vibid:2682000570300": 381,
+      "gas:candidate-vibid:2682000569650": 56,
+      "gas:candidate-vibid:2682000529925": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507724&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507724&type=464",
@@ -3229,15 +3229,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 20,
-      "Грекова Ольга Александровна": 9,
-      "Жидков Андрей Игоревич": 77,
-      "Копьев Василий Владимирович": 31,
-      "Мисанова Ирина Николаевна": 14,
-      "Панфилов Сергей Анатольевич": 10,
-      "Поляков Александр Алексеевич": 357,
-      "Попова Ирина Степановна": 66,
-      "Сусаков Константин Валерьевич": 48
+      "gas:candidate-vibid:2682000570241": 20,
+      "gas:candidate-vibid:2682000571442": 9,
+      "gas:candidate-vibid:2682000549747": 77,
+      "gas:candidate-vibid:2682000551519": 31,
+      "gas:candidate-vibid:2682000570751": 14,
+      "gas:candidate-vibid:2682000570220": 10,
+      "gas:candidate-vibid:2682000570300": 357,
+      "gas:candidate-vibid:2682000569650": 66,
+      "gas:candidate-vibid:2682000529925": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507724&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507724&type=464",
@@ -3288,15 +3288,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 27,
-      "Грекова Ольга Александровна": 20,
-      "Жидков Андрей Игоревич": 140,
-      "Копьев Василий Владимирович": 52,
-      "Мисанова Ирина Николаевна": 24,
-      "Панфилов Сергей Анатольевич": 8,
-      "Поляков Александр Алексеевич": 490,
-      "Попова Ирина Степановна": 95,
-      "Сусаков Константин Валерьевич": 53
+      "gas:candidate-vibid:2682000570241": 27,
+      "gas:candidate-vibid:2682000571442": 20,
+      "gas:candidate-vibid:2682000549747": 140,
+      "gas:candidate-vibid:2682000551519": 52,
+      "gas:candidate-vibid:2682000570751": 24,
+      "gas:candidate-vibid:2682000570220": 8,
+      "gas:candidate-vibid:2682000570300": 490,
+      "gas:candidate-vibid:2682000569650": 95,
+      "gas:candidate-vibid:2682000529925": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507724&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507724&type=464",
@@ -3347,15 +3347,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 17,
-      "Грекова Ольга Александровна": 6,
-      "Жидков Андрей Игоревич": 63,
-      "Копьев Василий Владимирович": 15,
-      "Мисанова Ирина Николаевна": 9,
-      "Панфилов Сергей Анатольевич": 7,
-      "Поляков Александр Алексеевич": 273,
-      "Попова Ирина Степановна": 37,
-      "Сусаков Константин Валерьевич": 33
+      "gas:candidate-vibid:2682000570241": 17,
+      "gas:candidate-vibid:2682000571442": 6,
+      "gas:candidate-vibid:2682000549747": 63,
+      "gas:candidate-vibid:2682000551519": 15,
+      "gas:candidate-vibid:2682000570751": 9,
+      "gas:candidate-vibid:2682000570220": 7,
+      "gas:candidate-vibid:2682000570300": 273,
+      "gas:candidate-vibid:2682000569650": 37,
+      "gas:candidate-vibid:2682000529925": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507724&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507724&type=464",
@@ -3406,15 +3406,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 6,
-      "Грекова Ольга Александровна": 4,
-      "Жидков Андрей Игоревич": 49,
-      "Копьев Василий Владимирович": 11,
-      "Мисанова Ирина Николаевна": 9,
-      "Панфилов Сергей Анатольевич": 6,
-      "Поляков Александр Алексеевич": 131,
-      "Попова Ирина Степановна": 28,
-      "Сусаков Константин Валерьевич": 31
+      "gas:candidate-vibid:2682000570241": 6,
+      "gas:candidate-vibid:2682000571442": 4,
+      "gas:candidate-vibid:2682000549747": 49,
+      "gas:candidate-vibid:2682000551519": 11,
+      "gas:candidate-vibid:2682000570751": 9,
+      "gas:candidate-vibid:2682000570220": 6,
+      "gas:candidate-vibid:2682000570300": 131,
+      "gas:candidate-vibid:2682000569650": 28,
+      "gas:candidate-vibid:2682000529925": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507724&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507724&type=464",
@@ -3465,15 +3465,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 7,
-      "Грекова Ольга Александровна": 5,
-      "Жидков Андрей Игоревич": 32,
-      "Копьев Василий Владимирович": 20,
-      "Мисанова Ирина Николаевна": 10,
-      "Панфилов Сергей Анатольевич": 8,
-      "Поляков Александр Алексеевич": 643,
-      "Попова Ирина Степановна": 17,
-      "Сусаков Константин Валерьевич": 20
+      "gas:candidate-vibid:2682000570241": 7,
+      "gas:candidate-vibid:2682000571442": 5,
+      "gas:candidate-vibid:2682000549747": 32,
+      "gas:candidate-vibid:2682000551519": 20,
+      "gas:candidate-vibid:2682000570751": 10,
+      "gas:candidate-vibid:2682000570220": 8,
+      "gas:candidate-vibid:2682000570300": 643,
+      "gas:candidate-vibid:2682000569650": 17,
+      "gas:candidate-vibid:2682000529925": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507724&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507724&type=464",
@@ -3524,15 +3524,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 8,
-      "Грекова Ольга Александровна": 3,
-      "Жидков Андрей Игоревич": 34,
-      "Копьев Василий Владимирович": 5,
-      "Мисанова Ирина Николаевна": 6,
-      "Панфилов Сергей Анатольевич": 3,
-      "Поляков Александр Алексеевич": 424,
-      "Попова Ирина Степановна": 13,
-      "Сусаков Константин Валерьевич": 14
+      "gas:candidate-vibid:2682000570241": 8,
+      "gas:candidate-vibid:2682000571442": 3,
+      "gas:candidate-vibid:2682000549747": 34,
+      "gas:candidate-vibid:2682000551519": 5,
+      "gas:candidate-vibid:2682000570751": 6,
+      "gas:candidate-vibid:2682000570220": 3,
+      "gas:candidate-vibid:2682000570300": 424,
+      "gas:candidate-vibid:2682000569650": 13,
+      "gas:candidate-vibid:2682000529925": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507724&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507724&type=464",
@@ -3583,15 +3583,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 17,
-      "Грекова Ольга Александровна": 5,
-      "Жидков Андрей Игоревич": 62,
-      "Копьев Василий Владимирович": 21,
-      "Мисанова Ирина Николаевна": 10,
-      "Панфилов Сергей Анатольевич": 3,
-      "Поляков Александр Алексеевич": 278,
-      "Попова Ирина Степановна": 40,
-      "Сусаков Константин Валерьевич": 35
+      "gas:candidate-vibid:2682000570241": 17,
+      "gas:candidate-vibid:2682000571442": 5,
+      "gas:candidate-vibid:2682000549747": 62,
+      "gas:candidate-vibid:2682000551519": 21,
+      "gas:candidate-vibid:2682000570751": 10,
+      "gas:candidate-vibid:2682000570220": 3,
+      "gas:candidate-vibid:2682000570300": 278,
+      "gas:candidate-vibid:2682000569650": 40,
+      "gas:candidate-vibid:2682000529925": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507724&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507724&type=464",
@@ -3642,15 +3642,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 7,
-      "Грекова Ольга Александровна": 2,
-      "Жидков Андрей Игоревич": 33,
-      "Копьев Василий Владимирович": 3,
-      "Мисанова Ирина Николаевна": 2,
-      "Панфилов Сергей Анатольевич": 0,
-      "Поляков Александр Алексеевич": 206,
-      "Попова Ирина Степановна": 11,
-      "Сусаков Константин Валерьевич": 17
+      "gas:candidate-vibid:2682000570241": 7,
+      "gas:candidate-vibid:2682000571442": 2,
+      "gas:candidate-vibid:2682000549747": 33,
+      "gas:candidate-vibid:2682000551519": 3,
+      "gas:candidate-vibid:2682000570751": 2,
+      "gas:candidate-vibid:2682000570220": 0,
+      "gas:candidate-vibid:2682000570300": 206,
+      "gas:candidate-vibid:2682000569650": 11,
+      "gas:candidate-vibid:2682000529925": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507724&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507724&type=464",
@@ -3701,15 +3701,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 16,
-      "Грекова Ольга Александровна": 17,
-      "Жидков Андрей Игоревич": 88,
-      "Копьев Василий Владимирович": 34,
-      "Мисанова Ирина Николаевна": 14,
-      "Панфилов Сергей Анатольевич": 12,
-      "Поляков Александр Алексеевич": 507,
-      "Попова Ирина Степановна": 48,
-      "Сусаков Константин Валерьевич": 37
+      "gas:candidate-vibid:2682000570241": 16,
+      "gas:candidate-vibid:2682000571442": 17,
+      "gas:candidate-vibid:2682000549747": 88,
+      "gas:candidate-vibid:2682000551519": 34,
+      "gas:candidate-vibid:2682000570751": 14,
+      "gas:candidate-vibid:2682000570220": 12,
+      "gas:candidate-vibid:2682000570300": 507,
+      "gas:candidate-vibid:2682000569650": 48,
+      "gas:candidate-vibid:2682000529925": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507724&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507724&type=464",
@@ -3760,15 +3760,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 21,
-      "Грекова Ольга Александровна": 13,
-      "Жидков Андрей Игоревич": 118,
-      "Копьев Василий Владимирович": 18,
-      "Мисанова Ирина Николаевна": 12,
-      "Панфилов Сергей Анатольевич": 15,
-      "Поляков Александр Алексеевич": 188,
-      "Попова Ирина Степановна": 73,
-      "Сусаков Константин Валерьевич": 85
+      "gas:candidate-vibid:2682000570241": 21,
+      "gas:candidate-vibid:2682000571442": 13,
+      "gas:candidate-vibid:2682000549747": 118,
+      "gas:candidate-vibid:2682000551519": 18,
+      "gas:candidate-vibid:2682000570751": 12,
+      "gas:candidate-vibid:2682000570220": 15,
+      "gas:candidate-vibid:2682000570300": 188,
+      "gas:candidate-vibid:2682000569650": 73,
+      "gas:candidate-vibid:2682000529925": 85
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507724&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507724&type=464",
@@ -3819,15 +3819,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 28,
-      "Грекова Ольга Александровна": 18,
-      "Жидков Андрей Игоревич": 116,
-      "Копьев Василий Владимирович": 33,
-      "Мисанова Ирина Николаевна": 26,
-      "Панфилов Сергей Анатольевич": 12,
-      "Поляков Александр Алексеевич": 894,
-      "Попова Ирина Степановна": 26,
-      "Сусаков Константин Валерьевич": 42
+      "gas:candidate-vibid:2682000570241": 28,
+      "gas:candidate-vibid:2682000571442": 18,
+      "gas:candidate-vibid:2682000549747": 116,
+      "gas:candidate-vibid:2682000551519": 33,
+      "gas:candidate-vibid:2682000570751": 26,
+      "gas:candidate-vibid:2682000570220": 12,
+      "gas:candidate-vibid:2682000570300": 894,
+      "gas:candidate-vibid:2682000569650": 26,
+      "gas:candidate-vibid:2682000529925": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507724&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507724&type=464",
@@ -3878,15 +3878,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 14,
-      "Грекова Ольга Александровна": 4,
-      "Жидков Андрей Игоревич": 38,
-      "Копьев Василий Владимирович": 4,
-      "Мисанова Ирина Николаевна": 8,
-      "Панфилов Сергей Анатольевич": 4,
-      "Поляков Александр Алексеевич": 193,
-      "Попова Ирина Степановна": 29,
-      "Сусаков Константин Валерьевич": 38
+      "gas:candidate-vibid:2682000570241": 14,
+      "gas:candidate-vibid:2682000571442": 4,
+      "gas:candidate-vibid:2682000549747": 38,
+      "gas:candidate-vibid:2682000551519": 4,
+      "gas:candidate-vibid:2682000570751": 8,
+      "gas:candidate-vibid:2682000570220": 4,
+      "gas:candidate-vibid:2682000570300": 193,
+      "gas:candidate-vibid:2682000569650": 29,
+      "gas:candidate-vibid:2682000529925": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507724&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507724&type=464",
@@ -3937,15 +3937,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 10,
-      "Грекова Ольга Александровна": 3,
-      "Жидков Андрей Игоревич": 24,
-      "Копьев Василий Владимирович": 12,
-      "Мисанова Ирина Николаевна": 1,
-      "Панфилов Сергей Анатольевич": 0,
-      "Поляков Александр Алексеевич": 325,
-      "Попова Ирина Степановна": 4,
-      "Сусаков Константин Валерьевич": 15
+      "gas:candidate-vibid:2682000570241": 10,
+      "gas:candidate-vibid:2682000571442": 3,
+      "gas:candidate-vibid:2682000549747": 24,
+      "gas:candidate-vibid:2682000551519": 12,
+      "gas:candidate-vibid:2682000570751": 1,
+      "gas:candidate-vibid:2682000570220": 0,
+      "gas:candidate-vibid:2682000570300": 325,
+      "gas:candidate-vibid:2682000569650": 4,
+      "gas:candidate-vibid:2682000529925": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507724&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507724&type=464",
@@ -3996,15 +3996,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 16,
-      "Грекова Ольга Александровна": 10,
-      "Жидков Андрей Игоревич": 64,
-      "Копьев Василий Владимирович": 14,
-      "Мисанова Ирина Николаевна": 11,
-      "Панфилов Сергей Анатольевич": 7,
-      "Поляков Александр Алексеевич": 266,
-      "Попова Ирина Степановна": 41,
-      "Сусаков Константин Валерьевич": 21
+      "gas:candidate-vibid:2682000570241": 16,
+      "gas:candidate-vibid:2682000571442": 10,
+      "gas:candidate-vibid:2682000549747": 64,
+      "gas:candidate-vibid:2682000551519": 14,
+      "gas:candidate-vibid:2682000570751": 11,
+      "gas:candidate-vibid:2682000570220": 7,
+      "gas:candidate-vibid:2682000570300": 266,
+      "gas:candidate-vibid:2682000569650": 41,
+      "gas:candidate-vibid:2682000529925": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507724&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507724&type=464",
@@ -4055,15 +4055,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 14,
-      "Грекова Ольга Александровна": 7,
-      "Жидков Андрей Игоревич": 66,
-      "Копьев Василий Владимирович": 12,
-      "Мисанова Ирина Николаевна": 11,
-      "Панфилов Сергей Анатольевич": 12,
-      "Поляков Александр Алексеевич": 309,
-      "Попова Ирина Степановна": 26,
-      "Сусаков Константин Валерьевич": 33
+      "gas:candidate-vibid:2682000570241": 14,
+      "gas:candidate-vibid:2682000571442": 7,
+      "gas:candidate-vibid:2682000549747": 66,
+      "gas:candidate-vibid:2682000551519": 12,
+      "gas:candidate-vibid:2682000570751": 11,
+      "gas:candidate-vibid:2682000570220": 12,
+      "gas:candidate-vibid:2682000570300": 309,
+      "gas:candidate-vibid:2682000569650": 26,
+      "gas:candidate-vibid:2682000529925": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507724&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507724&type=464",
@@ -4114,15 +4114,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 8,
-      "Грекова Ольга Александровна": 8,
-      "Жидков Андрей Игоревич": 60,
-      "Копьев Василий Владимирович": 11,
-      "Мисанова Ирина Николаевна": 6,
-      "Панфилов Сергей Анатольевич": 31,
-      "Поляков Александр Алексеевич": 380,
-      "Попова Ирина Степановна": 36,
-      "Сусаков Константин Валерьевич": 30
+      "gas:candidate-vibid:2682000570241": 8,
+      "gas:candidate-vibid:2682000571442": 8,
+      "gas:candidate-vibid:2682000549747": 60,
+      "gas:candidate-vibid:2682000551519": 11,
+      "gas:candidate-vibid:2682000570751": 6,
+      "gas:candidate-vibid:2682000570220": 31,
+      "gas:candidate-vibid:2682000570300": 380,
+      "gas:candidate-vibid:2682000569650": 36,
+      "gas:candidate-vibid:2682000529925": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507724&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507724&type=464",
@@ -4173,15 +4173,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 15,
-      "Грекова Ольга Александровна": 0,
-      "Жидков Андрей Игоревич": 26,
-      "Копьев Василий Владимирович": 20,
-      "Мисанова Ирина Николаевна": 10,
-      "Панфилов Сергей Анатольевич": 9,
-      "Поляков Александр Алексеевич": 505,
-      "Попова Ирина Степановна": 20,
-      "Сусаков Константин Валерьевич": 22
+      "gas:candidate-vibid:2682000570241": 15,
+      "gas:candidate-vibid:2682000571442": 0,
+      "gas:candidate-vibid:2682000549747": 26,
+      "gas:candidate-vibid:2682000551519": 20,
+      "gas:candidate-vibid:2682000570751": 10,
+      "gas:candidate-vibid:2682000570220": 9,
+      "gas:candidate-vibid:2682000570300": 505,
+      "gas:candidate-vibid:2682000569650": 20,
+      "gas:candidate-vibid:2682000529925": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507724&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507724&type=464",
@@ -4232,15 +4232,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 17,
-      "Грекова Ольга Александровна": 9,
-      "Жидков Андрей Игоревич": 91,
-      "Копьев Василий Владимирович": 22,
-      "Мисанова Ирина Николаевна": 27,
-      "Панфилов Сергей Анатольевич": 22,
-      "Поляков Александр Алексеевич": 557,
-      "Попова Ирина Степановна": 77,
-      "Сусаков Константин Валерьевич": 57
+      "gas:candidate-vibid:2682000570241": 17,
+      "gas:candidate-vibid:2682000571442": 9,
+      "gas:candidate-vibid:2682000549747": 91,
+      "gas:candidate-vibid:2682000551519": 22,
+      "gas:candidate-vibid:2682000570751": 27,
+      "gas:candidate-vibid:2682000570220": 22,
+      "gas:candidate-vibid:2682000570300": 557,
+      "gas:candidate-vibid:2682000569650": 77,
+      "gas:candidate-vibid:2682000529925": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507724&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507724&type=464",
@@ -4291,15 +4291,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 21,
-      "Грекова Ольга Александровна": 6,
-      "Жидков Андрей Игоревич": 62,
-      "Копьев Василий Владимирович": 19,
-      "Мисанова Ирина Николаевна": 8,
-      "Панфилов Сергей Анатольевич": 21,
-      "Поляков Александр Алексеевич": 286,
-      "Попова Ирина Степановна": 55,
-      "Сусаков Константин Валерьевич": 30
+      "gas:candidate-vibid:2682000570241": 21,
+      "gas:candidate-vibid:2682000571442": 6,
+      "gas:candidate-vibid:2682000549747": 62,
+      "gas:candidate-vibid:2682000551519": 19,
+      "gas:candidate-vibid:2682000570751": 8,
+      "gas:candidate-vibid:2682000570220": 21,
+      "gas:candidate-vibid:2682000570300": 286,
+      "gas:candidate-vibid:2682000569650": 55,
+      "gas:candidate-vibid:2682000529925": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507724&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507724&type=464",
@@ -4350,15 +4350,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 18,
-      "Грекова Ольга Александровна": 8,
-      "Жидков Андрей Игоревич": 48,
-      "Копьев Василий Владимирович": 18,
-      "Мисанова Ирина Николаевна": 13,
-      "Панфилов Сергей Анатольевич": 15,
-      "Поляков Александр Алексеевич": 332,
-      "Попова Ирина Степановна": 49,
-      "Сусаков Константин Валерьевич": 39
+      "gas:candidate-vibid:2682000570241": 18,
+      "gas:candidate-vibid:2682000571442": 8,
+      "gas:candidate-vibid:2682000549747": 48,
+      "gas:candidate-vibid:2682000551519": 18,
+      "gas:candidate-vibid:2682000570751": 13,
+      "gas:candidate-vibid:2682000570220": 15,
+      "gas:candidate-vibid:2682000570300": 332,
+      "gas:candidate-vibid:2682000569650": 49,
+      "gas:candidate-vibid:2682000529925": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507724&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507724&type=464",
@@ -4409,15 +4409,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 34,
-      "Грекова Ольга Александровна": 12,
-      "Жидков Андрей Игоревич": 114,
-      "Копьев Василий Владимирович": 34,
-      "Мисанова Ирина Николаевна": 25,
-      "Панфилов Сергей Анатольевич": 32,
-      "Поляков Александр Алексеевич": 486,
-      "Попова Ирина Степановна": 99,
-      "Сусаков Константин Валерьевич": 85
+      "gas:candidate-vibid:2682000570241": 34,
+      "gas:candidate-vibid:2682000571442": 12,
+      "gas:candidate-vibid:2682000549747": 114,
+      "gas:candidate-vibid:2682000551519": 34,
+      "gas:candidate-vibid:2682000570751": 25,
+      "gas:candidate-vibid:2682000570220": 32,
+      "gas:candidate-vibid:2682000570300": 486,
+      "gas:candidate-vibid:2682000569650": 99,
+      "gas:candidate-vibid:2682000529925": 85
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507724&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507724&type=464",
@@ -4468,15 +4468,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 26,
-      "Грекова Ольга Александровна": 6,
-      "Жидков Андрей Игоревич": 64,
-      "Копьев Василий Владимирович": 23,
-      "Мисанова Ирина Николаевна": 17,
-      "Панфилов Сергей Анатольевич": 21,
-      "Поляков Александр Алексеевич": 531,
-      "Попова Ирина Степановна": 75,
-      "Сусаков Константин Валерьевич": 38
+      "gas:candidate-vibid:2682000570241": 26,
+      "gas:candidate-vibid:2682000571442": 6,
+      "gas:candidate-vibid:2682000549747": 64,
+      "gas:candidate-vibid:2682000551519": 23,
+      "gas:candidate-vibid:2682000570751": 17,
+      "gas:candidate-vibid:2682000570220": 21,
+      "gas:candidate-vibid:2682000570300": 531,
+      "gas:candidate-vibid:2682000569650": 75,
+      "gas:candidate-vibid:2682000529925": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507729&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507729&type=464",
@@ -4527,15 +4527,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 32,
-      "Грекова Ольга Александровна": 10,
-      "Жидков Андрей Игоревич": 103,
-      "Копьев Василий Владимирович": 32,
-      "Мисанова Ирина Николаевна": 16,
-      "Панфилов Сергей Анатольевич": 13,
-      "Поляков Александр Алексеевич": 608,
-      "Попова Ирина Степановна": 88,
-      "Сусаков Константин Валерьевич": 54
+      "gas:candidate-vibid:2682000570241": 32,
+      "gas:candidate-vibid:2682000571442": 10,
+      "gas:candidate-vibid:2682000549747": 103,
+      "gas:candidate-vibid:2682000551519": 32,
+      "gas:candidate-vibid:2682000570751": 16,
+      "gas:candidate-vibid:2682000570220": 13,
+      "gas:candidate-vibid:2682000570300": 608,
+      "gas:candidate-vibid:2682000569650": 88,
+      "gas:candidate-vibid:2682000529925": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507729&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507729&type=464",
@@ -4586,15 +4586,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 34,
-      "Грекова Ольга Александровна": 14,
-      "Жидков Андрей Игоревич": 113,
-      "Копьев Василий Владимирович": 49,
-      "Мисанова Ирина Николаевна": 16,
-      "Панфилов Сергей Анатольевич": 17,
-      "Поляков Александр Алексеевич": 613,
-      "Попова Ирина Степановна": 100,
-      "Сусаков Константин Валерьевич": 49
+      "gas:candidate-vibid:2682000570241": 34,
+      "gas:candidate-vibid:2682000571442": 14,
+      "gas:candidate-vibid:2682000549747": 113,
+      "gas:candidate-vibid:2682000551519": 49,
+      "gas:candidate-vibid:2682000570751": 16,
+      "gas:candidate-vibid:2682000570220": 17,
+      "gas:candidate-vibid:2682000570300": 613,
+      "gas:candidate-vibid:2682000569650": 100,
+      "gas:candidate-vibid:2682000529925": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507729&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507729&type=464",
@@ -4645,15 +4645,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 27,
-      "Грекова Ольга Александровна": 9,
-      "Жидков Андрей Игоревич": 82,
-      "Копьев Василий Владимирович": 28,
-      "Мисанова Ирина Николаевна": 10,
-      "Панфилов Сергей Анатольевич": 12,
-      "Поляков Александр Алексеевич": 478,
-      "Попова Ирина Степановна": 118,
-      "Сусаков Константин Валерьевич": 48
+      "gas:candidate-vibid:2682000570241": 27,
+      "gas:candidate-vibid:2682000571442": 9,
+      "gas:candidate-vibid:2682000549747": 82,
+      "gas:candidate-vibid:2682000551519": 28,
+      "gas:candidate-vibid:2682000570751": 10,
+      "gas:candidate-vibid:2682000570220": 12,
+      "gas:candidate-vibid:2682000570300": 478,
+      "gas:candidate-vibid:2682000569650": 118,
+      "gas:candidate-vibid:2682000529925": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507729&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507729&type=464",
@@ -4704,15 +4704,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 2,
-      "Грекова Ольга Александровна": 3,
-      "Жидков Андрей Игоревич": 58,
-      "Копьев Василий Владимирович": 16,
-      "Мисанова Ирина Николаевна": 6,
-      "Панфилов Сергей Анатольевич": 5,
-      "Поляков Александр Алексеевич": 312,
-      "Попова Ирина Степановна": 44,
-      "Сусаков Константин Валерьевич": 21
+      "gas:candidate-vibid:2682000570241": 2,
+      "gas:candidate-vibid:2682000571442": 3,
+      "gas:candidate-vibid:2682000549747": 58,
+      "gas:candidate-vibid:2682000551519": 16,
+      "gas:candidate-vibid:2682000570751": 6,
+      "gas:candidate-vibid:2682000570220": 5,
+      "gas:candidate-vibid:2682000570300": 312,
+      "gas:candidate-vibid:2682000569650": 44,
+      "gas:candidate-vibid:2682000529925": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507729&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507729&type=464",
@@ -4763,15 +4763,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 2,
-      "Грекова Ольга Александровна": 0,
-      "Жидков Андрей Игоревич": 7,
-      "Копьев Василий Владимирович": 8,
-      "Мисанова Ирина Николаевна": 3,
-      "Панфилов Сергей Анатольевич": 2,
-      "Поляков Александр Алексеевич": 279,
-      "Попова Ирина Степановна": 13,
-      "Сусаков Константин Валерьевич": 12
+      "gas:candidate-vibid:2682000570241": 2,
+      "gas:candidate-vibid:2682000571442": 0,
+      "gas:candidate-vibid:2682000549747": 7,
+      "gas:candidate-vibid:2682000551519": 8,
+      "gas:candidate-vibid:2682000570751": 3,
+      "gas:candidate-vibid:2682000570220": 2,
+      "gas:candidate-vibid:2682000570300": 279,
+      "gas:candidate-vibid:2682000569650": 13,
+      "gas:candidate-vibid:2682000529925": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507729&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507729&type=464",
@@ -4822,15 +4822,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 4,
-      "Грекова Ольга Александровна": 0,
-      "Жидков Андрей Игоревич": 11,
-      "Копьев Василий Владимирович": 6,
-      "Мисанова Ирина Николаевна": 0,
-      "Панфилов Сергей Анатольевич": 1,
-      "Поляков Александр Алексеевич": 85,
-      "Попова Ирина Степановна": 3,
-      "Сусаков Константин Валерьевич": 1
+      "gas:candidate-vibid:2682000570241": 4,
+      "gas:candidate-vibid:2682000571442": 0,
+      "gas:candidate-vibid:2682000549747": 11,
+      "gas:candidate-vibid:2682000551519": 6,
+      "gas:candidate-vibid:2682000570751": 0,
+      "gas:candidate-vibid:2682000570220": 1,
+      "gas:candidate-vibid:2682000570300": 85,
+      "gas:candidate-vibid:2682000569650": 3,
+      "gas:candidate-vibid:2682000529925": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507729&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507729&type=464",
@@ -4881,15 +4881,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 10,
-      "Грекова Ольга Александровна": 4,
-      "Жидков Андрей Игоревич": 30,
-      "Копьев Василий Владимирович": 14,
-      "Мисанова Ирина Николаевна": 2,
-      "Панфилов Сергей Анатольевич": 5,
-      "Поляков Александр Алексеевич": 164,
-      "Попова Ирина Степановна": 13,
-      "Сусаков Константин Валерьевич": 23
+      "gas:candidate-vibid:2682000570241": 10,
+      "gas:candidate-vibid:2682000571442": 4,
+      "gas:candidate-vibid:2682000549747": 30,
+      "gas:candidate-vibid:2682000551519": 14,
+      "gas:candidate-vibid:2682000570751": 2,
+      "gas:candidate-vibid:2682000570220": 5,
+      "gas:candidate-vibid:2682000570300": 164,
+      "gas:candidate-vibid:2682000569650": 13,
+      "gas:candidate-vibid:2682000529925": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507729&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507729&type=464",
@@ -4940,15 +4940,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 25,
-      "Грекова Ольга Александровна": 9,
-      "Жидков Андрей Игоревич": 61,
-      "Копьев Василий Владимирович": 10,
-      "Мисанова Ирина Николаевна": 6,
-      "Панфилов Сергей Анатольевич": 10,
-      "Поляков Александр Алексеевич": 200,
-      "Попова Ирина Степановна": 27,
-      "Сусаков Константин Валерьевич": 45
+      "gas:candidate-vibid:2682000570241": 25,
+      "gas:candidate-vibid:2682000571442": 9,
+      "gas:candidate-vibid:2682000549747": 61,
+      "gas:candidate-vibid:2682000551519": 10,
+      "gas:candidate-vibid:2682000570751": 6,
+      "gas:candidate-vibid:2682000570220": 10,
+      "gas:candidate-vibid:2682000570300": 200,
+      "gas:candidate-vibid:2682000569650": 27,
+      "gas:candidate-vibid:2682000529925": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507729&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507729&type=464",
@@ -4999,15 +4999,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 16,
-      "Грекова Ольга Александровна": 4,
-      "Жидков Андрей Игоревич": 22,
-      "Копьев Василий Владимирович": 7,
-      "Мисанова Ирина Николаевна": 4,
-      "Панфилов Сергей Анатольевич": 3,
-      "Поляков Александр Алексеевич": 134,
-      "Попова Ирина Степановна": 16,
-      "Сусаков Константин Валерьевич": 9
+      "gas:candidate-vibid:2682000570241": 16,
+      "gas:candidate-vibid:2682000571442": 4,
+      "gas:candidate-vibid:2682000549747": 22,
+      "gas:candidate-vibid:2682000551519": 7,
+      "gas:candidate-vibid:2682000570751": 4,
+      "gas:candidate-vibid:2682000570220": 3,
+      "gas:candidate-vibid:2682000570300": 134,
+      "gas:candidate-vibid:2682000569650": 16,
+      "gas:candidate-vibid:2682000529925": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507729&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507729&type=464",
@@ -5058,15 +5058,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 4,
-      "Грекова Ольга Александровна": 0,
-      "Жидков Андрей Игоревич": 4,
-      "Копьев Василий Владимирович": 2,
-      "Мисанова Ирина Николаевна": 0,
-      "Панфилов Сергей Анатольевич": 1,
-      "Поляков Александр Алексеевич": 73,
-      "Попова Ирина Степановна": 0,
-      "Сусаков Константин Валерьевич": 0
+      "gas:candidate-vibid:2682000570241": 4,
+      "gas:candidate-vibid:2682000571442": 0,
+      "gas:candidate-vibid:2682000549747": 4,
+      "gas:candidate-vibid:2682000551519": 2,
+      "gas:candidate-vibid:2682000570751": 0,
+      "gas:candidate-vibid:2682000570220": 1,
+      "gas:candidate-vibid:2682000570300": 73,
+      "gas:candidate-vibid:2682000569650": 0,
+      "gas:candidate-vibid:2682000529925": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507729&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507729&type=464",
@@ -5117,15 +5117,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 26,
-      "Грекова Ольга Александровна": 1,
-      "Жидков Андрей Игоревич": 26,
-      "Копьев Василий Владимирович": 9,
-      "Мисанова Ирина Николаевна": 3,
-      "Панфилов Сергей Анатольевич": 4,
-      "Поляков Александр Алексеевич": 189,
-      "Попова Ирина Степановна": 18,
-      "Сусаков Константин Валерьевич": 16
+      "gas:candidate-vibid:2682000570241": 26,
+      "gas:candidate-vibid:2682000571442": 1,
+      "gas:candidate-vibid:2682000549747": 26,
+      "gas:candidate-vibid:2682000551519": 9,
+      "gas:candidate-vibid:2682000570751": 3,
+      "gas:candidate-vibid:2682000570220": 4,
+      "gas:candidate-vibid:2682000570300": 189,
+      "gas:candidate-vibid:2682000569650": 18,
+      "gas:candidate-vibid:2682000529925": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507729&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507729&type=464",
@@ -5176,15 +5176,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 20,
-      "Грекова Ольга Александровна": 3,
-      "Жидков Андрей Игоревич": 41,
-      "Копьев Василий Владимирович": 14,
-      "Мисанова Ирина Николаевна": 5,
-      "Панфилов Сергей Анатольевич": 6,
-      "Поляков Александр Алексеевич": 110,
-      "Попова Ирина Степановна": 18,
-      "Сусаков Константин Валерьевич": 31
+      "gas:candidate-vibid:2682000570241": 20,
+      "gas:candidate-vibid:2682000571442": 3,
+      "gas:candidate-vibid:2682000549747": 41,
+      "gas:candidate-vibid:2682000551519": 14,
+      "gas:candidate-vibid:2682000570751": 5,
+      "gas:candidate-vibid:2682000570220": 6,
+      "gas:candidate-vibid:2682000570300": 110,
+      "gas:candidate-vibid:2682000569650": 18,
+      "gas:candidate-vibid:2682000529925": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507729&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507729&type=464",
@@ -5235,15 +5235,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 6,
-      "Грекова Ольга Александровна": 2,
-      "Жидков Андрей Игоревич": 16,
-      "Копьев Василий Владимирович": 8,
-      "Мисанова Ирина Николаевна": 3,
-      "Панфилов Сергей Анатольевич": 4,
-      "Поляков Александр Алексеевич": 73,
-      "Попова Ирина Степановна": 17,
-      "Сусаков Константин Валерьевич": 2
+      "gas:candidate-vibid:2682000570241": 6,
+      "gas:candidate-vibid:2682000571442": 2,
+      "gas:candidate-vibid:2682000549747": 16,
+      "gas:candidate-vibid:2682000551519": 8,
+      "gas:candidate-vibid:2682000570751": 3,
+      "gas:candidate-vibid:2682000570220": 4,
+      "gas:candidate-vibid:2682000570300": 73,
+      "gas:candidate-vibid:2682000569650": 17,
+      "gas:candidate-vibid:2682000529925": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507729&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507729&type=464",
@@ -5294,15 +5294,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 12,
-      "Грекова Ольга Александровна": 9,
-      "Жидков Андрей Игоревич": 38,
-      "Копьев Василий Владимирович": 29,
-      "Мисанова Ирина Николаевна": 1,
-      "Панфилов Сергей Анатольевич": 3,
-      "Поляков Александр Алексеевич": 345,
-      "Попова Ирина Степановна": 45,
-      "Сусаков Константин Валерьевич": 18
+      "gas:candidate-vibid:2682000570241": 12,
+      "gas:candidate-vibid:2682000571442": 9,
+      "gas:candidate-vibid:2682000549747": 38,
+      "gas:candidate-vibid:2682000551519": 29,
+      "gas:candidate-vibid:2682000570751": 1,
+      "gas:candidate-vibid:2682000570220": 3,
+      "gas:candidate-vibid:2682000570300": 345,
+      "gas:candidate-vibid:2682000569650": 45,
+      "gas:candidate-vibid:2682000529925": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507729&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507729&type=464",
@@ -5353,15 +5353,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 19,
-      "Грекова Ольга Александровна": 4,
-      "Жидков Андрей Игоревич": 27,
-      "Копьев Василий Владимирович": 11,
-      "Мисанова Ирина Николаевна": 5,
-      "Панфилов Сергей Анатольевич": 7,
-      "Поляков Александр Алексеевич": 341,
-      "Попова Ирина Степановна": 32,
-      "Сусаков Константин Валерьевич": 23
+      "gas:candidate-vibid:2682000570241": 19,
+      "gas:candidate-vibid:2682000571442": 4,
+      "gas:candidate-vibid:2682000549747": 27,
+      "gas:candidate-vibid:2682000551519": 11,
+      "gas:candidate-vibid:2682000570751": 5,
+      "gas:candidate-vibid:2682000570220": 7,
+      "gas:candidate-vibid:2682000570300": 341,
+      "gas:candidate-vibid:2682000569650": 32,
+      "gas:candidate-vibid:2682000529925": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507729&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507729&type=464",
@@ -5412,15 +5412,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 19,
-      "Грекова Ольга Александровна": 5,
-      "Жидков Андрей Игоревич": 24,
-      "Копьев Василий Владимирович": 10,
-      "Мисанова Ирина Николаевна": 0,
-      "Панфилов Сергей Анатольевич": 7,
-      "Поляков Александр Алексеевич": 400,
-      "Попова Ирина Степановна": 17,
-      "Сусаков Константин Валерьевич": 15
+      "gas:candidate-vibid:2682000570241": 19,
+      "gas:candidate-vibid:2682000571442": 5,
+      "gas:candidate-vibid:2682000549747": 24,
+      "gas:candidate-vibid:2682000551519": 10,
+      "gas:candidate-vibid:2682000570751": 0,
+      "gas:candidate-vibid:2682000570220": 7,
+      "gas:candidate-vibid:2682000570300": 400,
+      "gas:candidate-vibid:2682000569650": 17,
+      "gas:candidate-vibid:2682000529925": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507729&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507729&type=464",
@@ -5471,15 +5471,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 3,
-      "Грекова Ольга Александровна": 1,
-      "Жидков Андрей Игоревич": 20,
-      "Копьев Василий Владимирович": 8,
-      "Мисанова Ирина Николаевна": 3,
-      "Панфилов Сергей Анатольевич": 0,
-      "Поляков Александр Алексеевич": 90,
-      "Попова Ирина Степановна": 14,
-      "Сусаков Константин Валерьевич": 6
+      "gas:candidate-vibid:2682000570241": 3,
+      "gas:candidate-vibid:2682000571442": 1,
+      "gas:candidate-vibid:2682000549747": 20,
+      "gas:candidate-vibid:2682000551519": 8,
+      "gas:candidate-vibid:2682000570751": 3,
+      "gas:candidate-vibid:2682000570220": 0,
+      "gas:candidate-vibid:2682000570300": 90,
+      "gas:candidate-vibid:2682000569650": 14,
+      "gas:candidate-vibid:2682000529925": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507729&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507729&type=464",
@@ -5530,15 +5530,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 1,
-      "Грекова Ольга Александровна": 0,
-      "Жидков Андрей Игоревич": 115,
-      "Копьев Василий Владимирович": 0,
-      "Мисанова Ирина Николаевна": 0,
-      "Панфилов Сергей Анатольевич": 3,
-      "Поляков Александр Алексеевич": 464,
-      "Попова Ирина Степановна": 37,
-      "Сусаков Константин Валерьевич": 24
+      "gas:candidate-vibid:2682000570241": 1,
+      "gas:candidate-vibid:2682000571442": 0,
+      "gas:candidate-vibid:2682000549747": 115,
+      "gas:candidate-vibid:2682000551519": 0,
+      "gas:candidate-vibid:2682000570751": 0,
+      "gas:candidate-vibid:2682000570220": 3,
+      "gas:candidate-vibid:2682000570300": 464,
+      "gas:candidate-vibid:2682000569650": 37,
+      "gas:candidate-vibid:2682000529925": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507729&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507729&type=464",
@@ -5589,15 +5589,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 10,
-      "Грекова Ольга Александровна": 1,
-      "Жидков Андрей Игоревич": 9,
-      "Копьев Василий Владимирович": 6,
-      "Мисанова Ирина Николаевна": 2,
-      "Панфилов Сергей Анатольевич": 1,
-      "Поляков Александр Алексеевич": 102,
-      "Попова Ирина Степановна": 34,
-      "Сусаков Константин Валерьевич": 15
+      "gas:candidate-vibid:2682000570241": 10,
+      "gas:candidate-vibid:2682000571442": 1,
+      "gas:candidate-vibid:2682000549747": 9,
+      "gas:candidate-vibid:2682000551519": 6,
+      "gas:candidate-vibid:2682000570751": 2,
+      "gas:candidate-vibid:2682000570220": 1,
+      "gas:candidate-vibid:2682000570300": 102,
+      "gas:candidate-vibid:2682000569650": 34,
+      "gas:candidate-vibid:2682000529925": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507729&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507729&type=464",
@@ -5648,15 +5648,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 4,
-      "Грекова Ольга Александровна": 0,
-      "Жидков Андрей Игоревич": 16,
-      "Копьев Василий Владимирович": 0,
-      "Мисанова Ирина Николаевна": 0,
-      "Панфилов Сергей Анатольевич": 0,
-      "Поляков Александр Алексеевич": 255,
-      "Попова Ирина Степановна": 29,
-      "Сусаков Константин Валерьевич": 0
+      "gas:candidate-vibid:2682000570241": 4,
+      "gas:candidate-vibid:2682000571442": 0,
+      "gas:candidate-vibid:2682000549747": 16,
+      "gas:candidate-vibid:2682000551519": 0,
+      "gas:candidate-vibid:2682000570751": 0,
+      "gas:candidate-vibid:2682000570220": 0,
+      "gas:candidate-vibid:2682000570300": 255,
+      "gas:candidate-vibid:2682000569650": 29,
+      "gas:candidate-vibid:2682000529925": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507729&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507729&type=464",
@@ -5707,15 +5707,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 7,
-      "Грекова Ольга Александровна": 3,
-      "Жидков Андрей Игоревич": 30,
-      "Копьев Василий Владимирович": 18,
-      "Мисанова Ирина Николаевна": 1,
-      "Панфилов Сергей Анатольевич": 0,
-      "Поляков Александр Алексеевич": 197,
-      "Попова Ирина Степановна": 18,
-      "Сусаков Константин Валерьевич": 14
+      "gas:candidate-vibid:2682000570241": 7,
+      "gas:candidate-vibid:2682000571442": 3,
+      "gas:candidate-vibid:2682000549747": 30,
+      "gas:candidate-vibid:2682000551519": 18,
+      "gas:candidate-vibid:2682000570751": 1,
+      "gas:candidate-vibid:2682000570220": 0,
+      "gas:candidate-vibid:2682000570300": 197,
+      "gas:candidate-vibid:2682000569650": 18,
+      "gas:candidate-vibid:2682000529925": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507729&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507729&type=464",
@@ -5766,15 +5766,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 0,
-      "Грекова Ольга Александровна": 0,
-      "Жидков Андрей Игоревич": 7,
-      "Копьев Василий Владимирович": 0,
-      "Мисанова Ирина Николаевна": 0,
-      "Панфилов Сергей Анатольевич": 0,
-      "Поляков Александр Алексеевич": 397,
-      "Попова Ирина Степановна": 0,
-      "Сусаков Константин Валерьевич": 0
+      "gas:candidate-vibid:2682000570241": 0,
+      "gas:candidate-vibid:2682000571442": 0,
+      "gas:candidate-vibid:2682000549747": 7,
+      "gas:candidate-vibid:2682000551519": 0,
+      "gas:candidate-vibid:2682000570751": 0,
+      "gas:candidate-vibid:2682000570220": 0,
+      "gas:candidate-vibid:2682000570300": 397,
+      "gas:candidate-vibid:2682000569650": 0,
+      "gas:candidate-vibid:2682000529925": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507729&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507729&type=464",
@@ -5825,15 +5825,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 16,
-      "Грекова Ольга Александровна": 5,
-      "Жидков Андрей Игоревич": 45,
-      "Копьев Василий Владимирович": 15,
-      "Мисанова Ирина Николаевна": 3,
-      "Панфилов Сергей Анатольевич": 7,
-      "Поляков Александр Алексеевич": 656,
-      "Попова Ирина Степановна": 39,
-      "Сусаков Константин Валерьевич": 28
+      "gas:candidate-vibid:2682000570241": 16,
+      "gas:candidate-vibid:2682000571442": 5,
+      "gas:candidate-vibid:2682000549747": 45,
+      "gas:candidate-vibid:2682000551519": 15,
+      "gas:candidate-vibid:2682000570751": 3,
+      "gas:candidate-vibid:2682000570220": 7,
+      "gas:candidate-vibid:2682000570300": 656,
+      "gas:candidate-vibid:2682000569650": 39,
+      "gas:candidate-vibid:2682000529925": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507729&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507729&type=464",
@@ -5884,15 +5884,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 19,
-      "Грекова Ольга Александровна": 4,
-      "Жидков Андрей Игоревич": 20,
-      "Копьев Василий Владимирович": 8,
-      "Мисанова Ирина Николаевна": 1,
-      "Панфилов Сергей Анатольевич": 3,
-      "Поляков Александр Алексеевич": 215,
-      "Попова Ирина Степановна": 13,
-      "Сусаков Константин Валерьевич": 15
+      "gas:candidate-vibid:2682000570241": 19,
+      "gas:candidate-vibid:2682000571442": 4,
+      "gas:candidate-vibid:2682000549747": 20,
+      "gas:candidate-vibid:2682000551519": 8,
+      "gas:candidate-vibid:2682000570751": 1,
+      "gas:candidate-vibid:2682000570220": 3,
+      "gas:candidate-vibid:2682000570300": 215,
+      "gas:candidate-vibid:2682000569650": 13,
+      "gas:candidate-vibid:2682000529925": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507729&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507729&type=464",
@@ -5943,15 +5943,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 15,
-      "Грекова Ольга Александровна": 1,
-      "Жидков Андрей Игоревич": 40,
-      "Копьев Василий Владимирович": 5,
-      "Мисанова Ирина Николаевна": 0,
-      "Панфилов Сергей Анатольевич": 4,
-      "Поляков Александр Алексеевич": 374,
-      "Попова Ирина Степановна": 11,
-      "Сусаков Константин Валерьевич": 9
+      "gas:candidate-vibid:2682000570241": 15,
+      "gas:candidate-vibid:2682000571442": 1,
+      "gas:candidate-vibid:2682000549747": 40,
+      "gas:candidate-vibid:2682000551519": 5,
+      "gas:candidate-vibid:2682000570751": 0,
+      "gas:candidate-vibid:2682000570220": 4,
+      "gas:candidate-vibid:2682000570300": 374,
+      "gas:candidate-vibid:2682000569650": 11,
+      "gas:candidate-vibid:2682000529925": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507729&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507729&type=464",
@@ -6002,15 +6002,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 9,
-      "Грекова Ольга Александровна": 5,
-      "Жидков Андрей Игоревич": 32,
-      "Копьев Василий Владимирович": 20,
-      "Мисанова Ирина Николаевна": 7,
-      "Панфилов Сергей Анатольевич": 5,
-      "Поляков Александр Алексеевич": 432,
-      "Попова Ирина Степановна": 39,
-      "Сусаков Константин Валерьевич": 17
+      "gas:candidate-vibid:2682000570241": 9,
+      "gas:candidate-vibid:2682000571442": 5,
+      "gas:candidate-vibid:2682000549747": 32,
+      "gas:candidate-vibid:2682000551519": 20,
+      "gas:candidate-vibid:2682000570751": 7,
+      "gas:candidate-vibid:2682000570220": 5,
+      "gas:candidate-vibid:2682000570300": 432,
+      "gas:candidate-vibid:2682000569650": 39,
+      "gas:candidate-vibid:2682000529925": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507729&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507729&type=464",
@@ -6061,15 +6061,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 3,
-      "Грекова Ольга Александровна": 1,
-      "Жидков Андрей Игоревич": 9,
-      "Копьев Василий Владимирович": 2,
-      "Мисанова Ирина Николаевна": 0,
-      "Панфилов Сергей Анатольевич": 3,
-      "Поляков Александр Алексеевич": 155,
-      "Попова Ирина Степановна": 4,
-      "Сусаков Константин Валерьевич": 5
+      "gas:candidate-vibid:2682000570241": 3,
+      "gas:candidate-vibid:2682000571442": 1,
+      "gas:candidate-vibid:2682000549747": 9,
+      "gas:candidate-vibid:2682000551519": 2,
+      "gas:candidate-vibid:2682000570751": 0,
+      "gas:candidate-vibid:2682000570220": 3,
+      "gas:candidate-vibid:2682000570300": 155,
+      "gas:candidate-vibid:2682000569650": 4,
+      "gas:candidate-vibid:2682000529925": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507729&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507729&type=464",
@@ -6120,15 +6120,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 0,
-      "Грекова Ольга Александровна": 3,
-      "Жидков Андрей Игоревич": 3,
-      "Копьев Василий Владимирович": 1,
-      "Мисанова Ирина Николаевна": 0,
-      "Панфилов Сергей Анатольевич": 2,
-      "Поляков Александр Алексеевич": 137,
-      "Попова Ирина Степановна": 3,
-      "Сусаков Константин Валерьевич": 0
+      "gas:candidate-vibid:2682000570241": 0,
+      "gas:candidate-vibid:2682000571442": 3,
+      "gas:candidate-vibid:2682000549747": 3,
+      "gas:candidate-vibid:2682000551519": 1,
+      "gas:candidate-vibid:2682000570751": 0,
+      "gas:candidate-vibid:2682000570220": 2,
+      "gas:candidate-vibid:2682000570300": 137,
+      "gas:candidate-vibid:2682000569650": 3,
+      "gas:candidate-vibid:2682000529925": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507729&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507729&type=464",
@@ -6179,15 +6179,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 0,
-      "Грекова Ольга Александровна": 0,
-      "Жидков Андрей Игоревич": 16,
-      "Копьев Василий Владимирович": 1,
-      "Мисанова Ирина Николаевна": 0,
-      "Панфилов Сергей Анатольевич": 0,
-      "Поляков Александр Алексеевич": 92,
-      "Попова Ирина Степановна": 5,
-      "Сусаков Константин Валерьевич": 1
+      "gas:candidate-vibid:2682000570241": 0,
+      "gas:candidate-vibid:2682000571442": 0,
+      "gas:candidate-vibid:2682000549747": 16,
+      "gas:candidate-vibid:2682000551519": 1,
+      "gas:candidate-vibid:2682000570751": 0,
+      "gas:candidate-vibid:2682000570220": 0,
+      "gas:candidate-vibid:2682000570300": 92,
+      "gas:candidate-vibid:2682000569650": 5,
+      "gas:candidate-vibid:2682000529925": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507729&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507729&type=464",
@@ -6238,15 +6238,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 3,
-      "Грекова Ольга Александровна": 0,
-      "Жидков Андрей Игоревич": 10,
-      "Копьев Василий Владимирович": 1,
-      "Мисанова Ирина Николаевна": 0,
-      "Панфилов Сергей Анатольевич": 0,
-      "Поляков Александр Алексеевич": 88,
-      "Попова Ирина Степановна": 8,
-      "Сусаков Константин Валерьевич": 1
+      "gas:candidate-vibid:2682000570241": 3,
+      "gas:candidate-vibid:2682000571442": 0,
+      "gas:candidate-vibid:2682000549747": 10,
+      "gas:candidate-vibid:2682000551519": 1,
+      "gas:candidate-vibid:2682000570751": 0,
+      "gas:candidate-vibid:2682000570220": 0,
+      "gas:candidate-vibid:2682000570300": 88,
+      "gas:candidate-vibid:2682000569650": 8,
+      "gas:candidate-vibid:2682000529925": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507729&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507729&type=464",
@@ -6297,15 +6297,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 0,
-      "Грекова Ольга Александровна": 1,
-      "Жидков Андрей Игоревич": 8,
-      "Копьев Василий Владимирович": 5,
-      "Мисанова Ирина Николаевна": 1,
-      "Панфилов Сергей Анатольевич": 0,
-      "Поляков Александр Алексеевич": 282,
-      "Попова Ирина Степановна": 7,
-      "Сусаков Константин Валерьевич": 3
+      "gas:candidate-vibid:2682000570241": 0,
+      "gas:candidate-vibid:2682000571442": 1,
+      "gas:candidate-vibid:2682000549747": 8,
+      "gas:candidate-vibid:2682000551519": 5,
+      "gas:candidate-vibid:2682000570751": 1,
+      "gas:candidate-vibid:2682000570220": 0,
+      "gas:candidate-vibid:2682000570300": 282,
+      "gas:candidate-vibid:2682000569650": 7,
+      "gas:candidate-vibid:2682000529925": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507729&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507729&type=464",
@@ -6356,15 +6356,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 1,
-      "Грекова Ольга Александровна": 0,
-      "Жидков Андрей Игоревич": 16,
-      "Копьев Василий Владимирович": 4,
-      "Мисанова Ирина Николаевна": 1,
-      "Панфилов Сергей Анатольевич": 0,
-      "Поляков Александр Алексеевич": 203,
-      "Попова Ирина Степановна": 10,
-      "Сусаков Константин Валерьевич": 5
+      "gas:candidate-vibid:2682000570241": 1,
+      "gas:candidate-vibid:2682000571442": 0,
+      "gas:candidate-vibid:2682000549747": 16,
+      "gas:candidate-vibid:2682000551519": 4,
+      "gas:candidate-vibid:2682000570751": 1,
+      "gas:candidate-vibid:2682000570220": 0,
+      "gas:candidate-vibid:2682000570300": 203,
+      "gas:candidate-vibid:2682000569650": 10,
+      "gas:candidate-vibid:2682000529925": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507729&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507729&type=464",
@@ -6415,15 +6415,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 0,
-      "Грекова Ольга Александровна": 0,
-      "Жидков Андрей Игоревич": 15,
-      "Копьев Василий Владимирович": 0,
-      "Мисанова Ирина Николаевна": 0,
-      "Панфилов Сергей Анатольевич": 0,
-      "Поляков Александр Алексеевич": 198,
-      "Попова Ирина Степановна": 9,
-      "Сусаков Константин Валерьевич": 3
+      "gas:candidate-vibid:2682000570241": 0,
+      "gas:candidate-vibid:2682000571442": 0,
+      "gas:candidate-vibid:2682000549747": 15,
+      "gas:candidate-vibid:2682000551519": 0,
+      "gas:candidate-vibid:2682000570751": 0,
+      "gas:candidate-vibid:2682000570220": 0,
+      "gas:candidate-vibid:2682000570300": 198,
+      "gas:candidate-vibid:2682000569650": 9,
+      "gas:candidate-vibid:2682000529925": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507729&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507729&type=464",
@@ -6474,15 +6474,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 10,
-      "Грекова Ольга Александровна": 1,
-      "Жидков Андрей Игоревич": 60,
-      "Копьев Василий Владимирович": 10,
-      "Мисанова Ирина Николаевна": 1,
-      "Панфилов Сергей Анатольевич": 0,
-      "Поляков Александр Алексеевич": 695,
-      "Попова Ирина Степановна": 15,
-      "Сусаков Константин Валерьевич": 5
+      "gas:candidate-vibid:2682000570241": 10,
+      "gas:candidate-vibid:2682000571442": 1,
+      "gas:candidate-vibid:2682000549747": 60,
+      "gas:candidate-vibid:2682000551519": 10,
+      "gas:candidate-vibid:2682000570751": 1,
+      "gas:candidate-vibid:2682000570220": 0,
+      "gas:candidate-vibid:2682000570300": 695,
+      "gas:candidate-vibid:2682000569650": 15,
+      "gas:candidate-vibid:2682000529925": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507729&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507729&type=464",
@@ -6533,15 +6533,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 4,
-      "Грекова Ольга Александровна": 2,
-      "Жидков Андрей Игоревич": 20,
-      "Копьев Василий Владимирович": 8,
-      "Мисанова Ирина Николаевна": 0,
-      "Панфилов Сергей Анатольевич": 4,
-      "Поляков Александр Алексеевич": 148,
-      "Попова Ирина Степановна": 6,
-      "Сусаков Константин Валерьевич": 10
+      "gas:candidate-vibid:2682000570241": 4,
+      "gas:candidate-vibid:2682000571442": 2,
+      "gas:candidate-vibid:2682000549747": 20,
+      "gas:candidate-vibid:2682000551519": 8,
+      "gas:candidate-vibid:2682000570751": 0,
+      "gas:candidate-vibid:2682000570220": 4,
+      "gas:candidate-vibid:2682000570300": 148,
+      "gas:candidate-vibid:2682000569650": 6,
+      "gas:candidate-vibid:2682000529925": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507729&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507729&type=464",
@@ -6592,15 +6592,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 13,
-      "Грекова Ольга Александровна": 5,
-      "Жидков Андрей Игоревич": 21,
-      "Копьев Василий Владимирович": 7,
-      "Мисанова Ирина Николаевна": 5,
-      "Панфилов Сергей Анатольевич": 4,
-      "Поляков Александр Алексеевич": 214,
-      "Попова Ирина Степановна": 14,
-      "Сусаков Константин Валерьевич": 9
+      "gas:candidate-vibid:2682000570241": 13,
+      "gas:candidate-vibid:2682000571442": 5,
+      "gas:candidate-vibid:2682000549747": 21,
+      "gas:candidate-vibid:2682000551519": 7,
+      "gas:candidate-vibid:2682000570751": 5,
+      "gas:candidate-vibid:2682000570220": 4,
+      "gas:candidate-vibid:2682000570300": 214,
+      "gas:candidate-vibid:2682000569650": 14,
+      "gas:candidate-vibid:2682000529925": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507729&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507729&type=464",
@@ -6651,15 +6651,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 5,
-      "Грекова Ольга Александровна": 2,
-      "Жидков Андрей Игоревич": 28,
-      "Копьев Василий Владимирович": 23,
-      "Мисанова Ирина Николаевна": 3,
-      "Панфилов Сергей Анатольевич": 3,
-      "Поляков Александр Алексеевич": 299,
-      "Попова Ирина Степановна": 17,
-      "Сусаков Константин Валерьевич": 18
+      "gas:candidate-vibid:2682000570241": 5,
+      "gas:candidate-vibid:2682000571442": 2,
+      "gas:candidate-vibid:2682000549747": 28,
+      "gas:candidate-vibid:2682000551519": 23,
+      "gas:candidate-vibid:2682000570751": 3,
+      "gas:candidate-vibid:2682000570220": 3,
+      "gas:candidate-vibid:2682000570300": 299,
+      "gas:candidate-vibid:2682000569650": 17,
+      "gas:candidate-vibid:2682000529925": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507729&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507729&type=464",
@@ -6710,15 +6710,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 4,
-      "Грекова Ольга Александровна": 3,
-      "Жидков Андрей Игоревич": 20,
-      "Копьев Василий Владимирович": 6,
-      "Мисанова Ирина Николаевна": 3,
-      "Панфилов Сергей Анатольевич": 6,
-      "Поляков Александр Алексеевич": 153,
-      "Попова Ирина Степановна": 8,
-      "Сусаков Константин Валерьевич": 2
+      "gas:candidate-vibid:2682000570241": 4,
+      "gas:candidate-vibid:2682000571442": 3,
+      "gas:candidate-vibid:2682000549747": 20,
+      "gas:candidate-vibid:2682000551519": 6,
+      "gas:candidate-vibid:2682000570751": 3,
+      "gas:candidate-vibid:2682000570220": 6,
+      "gas:candidate-vibid:2682000570300": 153,
+      "gas:candidate-vibid:2682000569650": 8,
+      "gas:candidate-vibid:2682000529925": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507729&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507729&type=464",
@@ -6769,15 +6769,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 5,
-      "Грекова Ольга Александровна": 0,
-      "Жидков Андрей Игоревич": 15,
-      "Копьев Василий Владимирович": 13,
-      "Мисанова Ирина Николаевна": 0,
-      "Панфилов Сергей Анатольевич": 2,
-      "Поляков Александр Алексеевич": 174,
-      "Попова Ирина Степановна": 5,
-      "Сусаков Константин Валерьевич": 2
+      "gas:candidate-vibid:2682000570241": 5,
+      "gas:candidate-vibid:2682000571442": 0,
+      "gas:candidate-vibid:2682000549747": 15,
+      "gas:candidate-vibid:2682000551519": 13,
+      "gas:candidate-vibid:2682000570751": 0,
+      "gas:candidate-vibid:2682000570220": 2,
+      "gas:candidate-vibid:2682000570300": 174,
+      "gas:candidate-vibid:2682000569650": 5,
+      "gas:candidate-vibid:2682000529925": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507729&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507729&type=464",
@@ -6828,15 +6828,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 7,
-      "Грекова Ольга Александровна": 0,
-      "Жидков Андрей Игоревич": 12,
-      "Копьев Василий Владимирович": 12,
-      "Мисанова Ирина Николаевна": 8,
-      "Панфилов Сергей Анатольевич": 3,
-      "Поляков Александр Алексеевич": 176,
-      "Попова Ирина Степановна": 9,
-      "Сусаков Константин Валерьевич": 0
+      "gas:candidate-vibid:2682000570241": 7,
+      "gas:candidate-vibid:2682000571442": 0,
+      "gas:candidate-vibid:2682000549747": 12,
+      "gas:candidate-vibid:2682000551519": 12,
+      "gas:candidate-vibid:2682000570751": 8,
+      "gas:candidate-vibid:2682000570220": 3,
+      "gas:candidate-vibid:2682000570300": 176,
+      "gas:candidate-vibid:2682000569650": 9,
+      "gas:candidate-vibid:2682000529925": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507729&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507729&type=464",
@@ -6887,15 +6887,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 4,
-      "Грекова Ольга Александровна": 0,
-      "Жидков Андрей Игоревич": 19,
-      "Копьев Василий Владимирович": 12,
-      "Мисанова Ирина Николаевна": 1,
-      "Панфилов Сергей Анатольевич": 6,
-      "Поляков Александр Алексеевич": 235,
-      "Попова Ирина Степановна": 17,
-      "Сусаков Константин Валерьевич": 20
+      "gas:candidate-vibid:2682000570241": 4,
+      "gas:candidate-vibid:2682000571442": 0,
+      "gas:candidate-vibid:2682000549747": 19,
+      "gas:candidate-vibid:2682000551519": 12,
+      "gas:candidate-vibid:2682000570751": 1,
+      "gas:candidate-vibid:2682000570220": 6,
+      "gas:candidate-vibid:2682000570300": 235,
+      "gas:candidate-vibid:2682000569650": 17,
+      "gas:candidate-vibid:2682000529925": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507729&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507729&type=464",
@@ -6946,15 +6946,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 30,
-      "Грекова Ольга Александровна": 8,
-      "Жидков Андрей Игоревич": 59,
-      "Копьев Василий Владимирович": 34,
-      "Мисанова Ирина Николаевна": 68,
-      "Панфилов Сергей Анатольевич": 7,
-      "Поляков Александр Алексеевич": 198,
-      "Попова Ирина Степановна": 50,
-      "Сусаков Константин Валерьевич": 34
+      "gas:candidate-vibid:2682000570241": 30,
+      "gas:candidate-vibid:2682000571442": 8,
+      "gas:candidate-vibid:2682000549747": 59,
+      "gas:candidate-vibid:2682000551519": 34,
+      "gas:candidate-vibid:2682000570751": 68,
+      "gas:candidate-vibid:2682000570220": 7,
+      "gas:candidate-vibid:2682000570300": 198,
+      "gas:candidate-vibid:2682000569650": 50,
+      "gas:candidate-vibid:2682000529925": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507729&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507729&type=464",
@@ -7005,15 +7005,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 35,
-      "Грекова Ольга Александровна": 2,
-      "Жидков Андрей Игоревич": 13,
-      "Копьев Василий Владимирович": 2,
-      "Мисанова Ирина Николаевна": 1,
-      "Панфилов Сергей Анатольевич": 6,
-      "Поляков Александр Алексеевич": 67,
-      "Попова Ирина Степановна": 10,
-      "Сусаков Константин Валерьевич": 6
+      "gas:candidate-vibid:2682000570241": 35,
+      "gas:candidate-vibid:2682000571442": 2,
+      "gas:candidate-vibid:2682000549747": 13,
+      "gas:candidate-vibid:2682000551519": 2,
+      "gas:candidate-vibid:2682000570751": 1,
+      "gas:candidate-vibid:2682000570220": 6,
+      "gas:candidate-vibid:2682000570300": 67,
+      "gas:candidate-vibid:2682000569650": 10,
+      "gas:candidate-vibid:2682000529925": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507731&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507731&type=464",
@@ -7064,15 +7064,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 254,
-      "Грекова Ольга Александровна": 5,
-      "Жидков Андрей Игоревич": 145,
-      "Копьев Василий Владимирович": 25,
-      "Мисанова Ирина Николаевна": 22,
-      "Панфилов Сергей Анатольевич": 30,
-      "Поляков Александр Алексеевич": 233,
-      "Попова Ирина Степановна": 134,
-      "Сусаков Константин Валерьевич": 66
+      "gas:candidate-vibid:2682000570241": 254,
+      "gas:candidate-vibid:2682000571442": 5,
+      "gas:candidate-vibid:2682000549747": 145,
+      "gas:candidate-vibid:2682000551519": 25,
+      "gas:candidate-vibid:2682000570751": 22,
+      "gas:candidate-vibid:2682000570220": 30,
+      "gas:candidate-vibid:2682000570300": 233,
+      "gas:candidate-vibid:2682000569650": 134,
+      "gas:candidate-vibid:2682000529925": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507731&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507731&type=464",
@@ -7123,15 +7123,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 23,
-      "Грекова Ольга Александровна": 4,
-      "Жидков Андрей Игоревич": 12,
-      "Копьев Василий Владимирович": 6,
-      "Мисанова Ирина Николаевна": 4,
-      "Панфилов Сергей Анатольевич": 4,
-      "Поляков Александр Алексеевич": 60,
-      "Попова Ирина Степановна": 7,
-      "Сусаков Константин Валерьевич": 13
+      "gas:candidate-vibid:2682000570241": 23,
+      "gas:candidate-vibid:2682000571442": 4,
+      "gas:candidate-vibid:2682000549747": 12,
+      "gas:candidate-vibid:2682000551519": 6,
+      "gas:candidate-vibid:2682000570751": 4,
+      "gas:candidate-vibid:2682000570220": 4,
+      "gas:candidate-vibid:2682000570300": 60,
+      "gas:candidate-vibid:2682000569650": 7,
+      "gas:candidate-vibid:2682000529925": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507731&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507731&type=464",
@@ -7182,15 +7182,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 254,
-      "Грекова Ольга Александровна": 10,
-      "Жидков Андрей Игоревич": 198,
-      "Копьев Василий Владимирович": 24,
-      "Мисанова Ирина Николаевна": 32,
-      "Панфилов Сергей Анатольевич": 30,
-      "Поляков Александр Алексеевич": 260,
-      "Попова Ирина Степановна": 120,
-      "Сусаков Константин Валерьевич": 70
+      "gas:candidate-vibid:2682000570241": 254,
+      "gas:candidate-vibid:2682000571442": 10,
+      "gas:candidate-vibid:2682000549747": 198,
+      "gas:candidate-vibid:2682000551519": 24,
+      "gas:candidate-vibid:2682000570751": 32,
+      "gas:candidate-vibid:2682000570220": 30,
+      "gas:candidate-vibid:2682000570300": 260,
+      "gas:candidate-vibid:2682000569650": 120,
+      "gas:candidate-vibid:2682000529925": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507731&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507731&type=464",
@@ -7241,15 +7241,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 289,
-      "Грекова Ольга Александровна": 11,
-      "Жидков Андрей Игоревич": 188,
-      "Копьев Василий Владимирович": 29,
-      "Мисанова Ирина Николаевна": 36,
-      "Панфилов Сергей Анатольевич": 30,
-      "Поляков Александр Алексеевич": 307,
-      "Попова Ирина Степановна": 136,
-      "Сусаков Константин Валерьевич": 70
+      "gas:candidate-vibid:2682000570241": 289,
+      "gas:candidate-vibid:2682000571442": 11,
+      "gas:candidate-vibid:2682000549747": 188,
+      "gas:candidate-vibid:2682000551519": 29,
+      "gas:candidate-vibid:2682000570751": 36,
+      "gas:candidate-vibid:2682000570220": 30,
+      "gas:candidate-vibid:2682000570300": 307,
+      "gas:candidate-vibid:2682000569650": 136,
+      "gas:candidate-vibid:2682000529925": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507731&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507731&type=464",
@@ -7300,15 +7300,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 263,
-      "Грекова Ольга Александровна": 11,
-      "Жидков Андрей Игоревич": 168,
-      "Копьев Василий Владимирович": 26,
-      "Мисанова Ирина Николаевна": 38,
-      "Панфилов Сергей Анатольевич": 30,
-      "Поляков Александр Алексеевич": 281,
-      "Попова Ирина Степановна": 102,
-      "Сусаков Константин Валерьевич": 75
+      "gas:candidate-vibid:2682000570241": 263,
+      "gas:candidate-vibid:2682000571442": 11,
+      "gas:candidate-vibid:2682000549747": 168,
+      "gas:candidate-vibid:2682000551519": 26,
+      "gas:candidate-vibid:2682000570751": 38,
+      "gas:candidate-vibid:2682000570220": 30,
+      "gas:candidate-vibid:2682000570300": 281,
+      "gas:candidate-vibid:2682000569650": 102,
+      "gas:candidate-vibid:2682000529925": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507731&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507731&type=464",
@@ -7359,15 +7359,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 175,
-      "Грекова Ольга Александровна": 9,
-      "Жидков Андрей Игоревич": 98,
-      "Копьев Василий Владимирович": 27,
-      "Мисанова Ирина Николаевна": 10,
-      "Панфилов Сергей Анатольевич": 26,
-      "Поляков Александр Алексеевич": 221,
-      "Попова Ирина Степановна": 71,
-      "Сусаков Константин Валерьевич": 57
+      "gas:candidate-vibid:2682000570241": 175,
+      "gas:candidate-vibid:2682000571442": 9,
+      "gas:candidate-vibid:2682000549747": 98,
+      "gas:candidate-vibid:2682000551519": 27,
+      "gas:candidate-vibid:2682000570751": 10,
+      "gas:candidate-vibid:2682000570220": 26,
+      "gas:candidate-vibid:2682000570300": 221,
+      "gas:candidate-vibid:2682000569650": 71,
+      "gas:candidate-vibid:2682000529925": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507731&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507731&type=464",
@@ -7418,15 +7418,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 159,
-      "Грекова Ольга Александровна": 3,
-      "Жидков Андрей Игоревич": 84,
-      "Копьев Василий Владимирович": 26,
-      "Мисанова Ирина Николаевна": 11,
-      "Панфилов Сергей Анатольевич": 3,
-      "Поляков Александр Алексеевич": 139,
-      "Попова Ирина Степановна": 55,
-      "Сусаков Константин Валерьевич": 49
+      "gas:candidate-vibid:2682000570241": 159,
+      "gas:candidate-vibid:2682000571442": 3,
+      "gas:candidate-vibid:2682000549747": 84,
+      "gas:candidate-vibid:2682000551519": 26,
+      "gas:candidate-vibid:2682000570751": 11,
+      "gas:candidate-vibid:2682000570220": 3,
+      "gas:candidate-vibid:2682000570300": 139,
+      "gas:candidate-vibid:2682000569650": 55,
+      "gas:candidate-vibid:2682000529925": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507731&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507731&type=464",
@@ -7477,15 +7477,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 155,
-      "Грекова Ольга Александровна": 2,
-      "Жидков Андрей Игоревич": 79,
-      "Копьев Василий Владимирович": 17,
-      "Мисанова Ирина Николаевна": 7,
-      "Панфилов Сергей Анатольевич": 16,
-      "Поляков Александр Алексеевич": 167,
-      "Попова Ирина Степановна": 43,
-      "Сусаков Константин Валерьевич": 51
+      "gas:candidate-vibid:2682000570241": 155,
+      "gas:candidate-vibid:2682000571442": 2,
+      "gas:candidate-vibid:2682000549747": 79,
+      "gas:candidate-vibid:2682000551519": 17,
+      "gas:candidate-vibid:2682000570751": 7,
+      "gas:candidate-vibid:2682000570220": 16,
+      "gas:candidate-vibid:2682000570300": 167,
+      "gas:candidate-vibid:2682000569650": 43,
+      "gas:candidate-vibid:2682000529925": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507731&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507731&type=464",
@@ -7536,15 +7536,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 230,
-      "Грекова Ольга Александровна": 15,
-      "Жидков Андрей Игоревич": 117,
-      "Копьев Василий Владимирович": 23,
-      "Мисанова Ирина Николаевна": 26,
-      "Панфилов Сергей Анатольевич": 20,
-      "Поляков Александр Алексеевич": 242,
-      "Попова Ирина Степановна": 80,
-      "Сусаков Константин Валерьевич": 72
+      "gas:candidate-vibid:2682000570241": 230,
+      "gas:candidate-vibid:2682000571442": 15,
+      "gas:candidate-vibid:2682000549747": 117,
+      "gas:candidate-vibid:2682000551519": 23,
+      "gas:candidate-vibid:2682000570751": 26,
+      "gas:candidate-vibid:2682000570220": 20,
+      "gas:candidate-vibid:2682000570300": 242,
+      "gas:candidate-vibid:2682000569650": 80,
+      "gas:candidate-vibid:2682000529925": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507731&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507731&type=464",
@@ -7595,15 +7595,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 95,
-      "Грекова Ольга Александровна": 4,
-      "Жидков Андрей Игоревич": 55,
-      "Копьев Василий Владимирович": 7,
-      "Мисанова Ирина Николаевна": 10,
-      "Панфилов Сергей Анатольевич": 10,
-      "Поляков Александр Алексеевич": 150,
-      "Попова Ирина Степановна": 36,
-      "Сусаков Константин Валерьевич": 46
+      "gas:candidate-vibid:2682000570241": 95,
+      "gas:candidate-vibid:2682000571442": 4,
+      "gas:candidate-vibid:2682000549747": 55,
+      "gas:candidate-vibid:2682000551519": 7,
+      "gas:candidate-vibid:2682000570751": 10,
+      "gas:candidate-vibid:2682000570220": 10,
+      "gas:candidate-vibid:2682000570300": 150,
+      "gas:candidate-vibid:2682000569650": 36,
+      "gas:candidate-vibid:2682000529925": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507731&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507731&type=464",
@@ -7654,15 +7654,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 117,
-      "Грекова Ольга Александровна": 4,
-      "Жидков Андрей Игоревич": 65,
-      "Копьев Василий Владимирович": 15,
-      "Мисанова Ирина Николаевна": 14,
-      "Панфилов Сергей Анатольевич": 12,
-      "Поляков Александр Алексеевич": 163,
-      "Попова Ирина Степановна": 44,
-      "Сусаков Константин Валерьевич": 35
+      "gas:candidate-vibid:2682000570241": 117,
+      "gas:candidate-vibid:2682000571442": 4,
+      "gas:candidate-vibid:2682000549747": 65,
+      "gas:candidate-vibid:2682000551519": 15,
+      "gas:candidate-vibid:2682000570751": 14,
+      "gas:candidate-vibid:2682000570220": 12,
+      "gas:candidate-vibid:2682000570300": 163,
+      "gas:candidate-vibid:2682000569650": 44,
+      "gas:candidate-vibid:2682000529925": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507731&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507731&type=464",
@@ -7713,15 +7713,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 252,
-      "Грекова Ольга Александровна": 24,
-      "Жидков Андрей Игоревич": 162,
-      "Копьев Василий Владимирович": 27,
-      "Мисанова Ирина Николаевна": 16,
-      "Панфилов Сергей Анатольевич": 26,
-      "Поляков Александр Алексеевич": 316,
-      "Попова Ирина Степановна": 118,
-      "Сусаков Константин Валерьевич": 65
+      "gas:candidate-vibid:2682000570241": 252,
+      "gas:candidate-vibid:2682000571442": 24,
+      "gas:candidate-vibid:2682000549747": 162,
+      "gas:candidate-vibid:2682000551519": 27,
+      "gas:candidate-vibid:2682000570751": 16,
+      "gas:candidate-vibid:2682000570220": 26,
+      "gas:candidate-vibid:2682000570300": 316,
+      "gas:candidate-vibid:2682000569650": 118,
+      "gas:candidate-vibid:2682000529925": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507731&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507731&type=464",
@@ -7772,15 +7772,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 166,
-      "Грекова Ольга Александровна": 9,
-      "Жидков Андрей Игоревич": 150,
-      "Копьев Василий Владимирович": 21,
-      "Мисанова Ирина Николаевна": 10,
-      "Панфилов Сергей Анатольевич": 22,
-      "Поляков Александр Алексеевич": 212,
-      "Попова Ирина Степановна": 106,
-      "Сусаков Константин Валерьевич": 57
+      "gas:candidate-vibid:2682000570241": 166,
+      "gas:candidate-vibid:2682000571442": 9,
+      "gas:candidate-vibid:2682000549747": 150,
+      "gas:candidate-vibid:2682000551519": 21,
+      "gas:candidate-vibid:2682000570751": 10,
+      "gas:candidate-vibid:2682000570220": 22,
+      "gas:candidate-vibid:2682000570300": 212,
+      "gas:candidate-vibid:2682000569650": 106,
+      "gas:candidate-vibid:2682000529925": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507731&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507731&type=464",
@@ -7831,15 +7831,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 103,
-      "Грекова Ольга Александровна": 7,
-      "Жидков Андрей Игоревич": 53,
-      "Копьев Василий Владимирович": 11,
-      "Мисанова Ирина Николаевна": 20,
-      "Панфилов Сергей Анатольевич": 12,
-      "Поляков Александр Алексеевич": 161,
-      "Попова Ирина Степановна": 54,
-      "Сусаков Константин Валерьевич": 39
+      "gas:candidate-vibid:2682000570241": 103,
+      "gas:candidate-vibid:2682000571442": 7,
+      "gas:candidate-vibid:2682000549747": 53,
+      "gas:candidate-vibid:2682000551519": 11,
+      "gas:candidate-vibid:2682000570751": 20,
+      "gas:candidate-vibid:2682000570220": 12,
+      "gas:candidate-vibid:2682000570300": 161,
+      "gas:candidate-vibid:2682000569650": 54,
+      "gas:candidate-vibid:2682000529925": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507731&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507731&type=464",
@@ -7890,15 +7890,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 141,
-      "Грекова Ольга Александровна": 14,
-      "Жидков Андрей Игоревич": 100,
-      "Копьев Василий Владимирович": 29,
-      "Мисанова Ирина Николаевна": 25,
-      "Панфилов Сергей Анатольевич": 18,
-      "Поляков Александр Алексеевич": 250,
-      "Попова Ирина Степановна": 70,
-      "Сусаков Константин Валерьевич": 37
+      "gas:candidate-vibid:2682000570241": 141,
+      "gas:candidate-vibid:2682000571442": 14,
+      "gas:candidate-vibid:2682000549747": 100,
+      "gas:candidate-vibid:2682000551519": 29,
+      "gas:candidate-vibid:2682000570751": 25,
+      "gas:candidate-vibid:2682000570220": 18,
+      "gas:candidate-vibid:2682000570300": 250,
+      "gas:candidate-vibid:2682000569650": 70,
+      "gas:candidate-vibid:2682000529925": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507731&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507731&type=464",
@@ -7949,15 +7949,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 149,
-      "Грекова Ольга Александровна": 7,
-      "Жидков Андрей Игоревич": 137,
-      "Копьев Василий Владимирович": 13,
-      "Мисанова Ирина Николаевна": 14,
-      "Панфилов Сергей Анатольевич": 24,
-      "Поляков Александр Алексеевич": 190,
-      "Попова Ирина Степановна": 74,
-      "Сусаков Константин Валерьевич": 59
+      "gas:candidate-vibid:2682000570241": 149,
+      "gas:candidate-vibid:2682000571442": 7,
+      "gas:candidate-vibid:2682000549747": 137,
+      "gas:candidate-vibid:2682000551519": 13,
+      "gas:candidate-vibid:2682000570751": 14,
+      "gas:candidate-vibid:2682000570220": 24,
+      "gas:candidate-vibid:2682000570300": 190,
+      "gas:candidate-vibid:2682000569650": 74,
+      "gas:candidate-vibid:2682000529925": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507731&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507731&type=464",
@@ -8008,15 +8008,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 194,
-      "Грекова Ольга Александровна": 9,
-      "Жидков Андрей Игоревич": 144,
-      "Копьев Василий Владимирович": 19,
-      "Мисанова Ирина Николаевна": 21,
-      "Панфилов Сергей Анатольевич": 14,
-      "Поляков Александр Алексеевич": 224,
-      "Попова Ирина Степановна": 91,
-      "Сусаков Константин Валерьевич": 55
+      "gas:candidate-vibid:2682000570241": 194,
+      "gas:candidate-vibid:2682000571442": 9,
+      "gas:candidate-vibid:2682000549747": 144,
+      "gas:candidate-vibid:2682000551519": 19,
+      "gas:candidate-vibid:2682000570751": 21,
+      "gas:candidate-vibid:2682000570220": 14,
+      "gas:candidate-vibid:2682000570300": 224,
+      "gas:candidate-vibid:2682000569650": 91,
+      "gas:candidate-vibid:2682000529925": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507731&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507731&type=464",
@@ -8067,15 +8067,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 11,
-      "Грекова Ольга Александровна": 4,
-      "Жидков Андрей Игоревич": 27,
-      "Копьев Василий Владимирович": 11,
-      "Мисанова Ирина Николаевна": 4,
-      "Панфилов Сергей Анатольевич": 4,
-      "Поляков Александр Алексеевич": 207,
-      "Попова Ирина Степановна": 26,
-      "Сусаков Константин Валерьевич": 13
+      "gas:candidate-vibid:2682000570241": 11,
+      "gas:candidate-vibid:2682000571442": 4,
+      "gas:candidate-vibid:2682000549747": 27,
+      "gas:candidate-vibid:2682000551519": 11,
+      "gas:candidate-vibid:2682000570751": 4,
+      "gas:candidate-vibid:2682000570220": 4,
+      "gas:candidate-vibid:2682000570300": 207,
+      "gas:candidate-vibid:2682000569650": 26,
+      "gas:candidate-vibid:2682000529925": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507733&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507733&type=464",
@@ -8126,15 +8126,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 0,
-      "Грекова Ольга Александровна": 0,
-      "Жидков Андрей Игоревич": 12,
-      "Копьев Василий Владимирович": 0,
-      "Мисанова Ирина Николаевна": 0,
-      "Панфилов Сергей Анатольевич": 0,
-      "Поляков Александр Алексеевич": 100,
-      "Попова Ирина Степановна": 5,
-      "Сусаков Константин Валерьевич": 3
+      "gas:candidate-vibid:2682000570241": 0,
+      "gas:candidate-vibid:2682000571442": 0,
+      "gas:candidate-vibid:2682000549747": 12,
+      "gas:candidate-vibid:2682000551519": 0,
+      "gas:candidate-vibid:2682000570751": 0,
+      "gas:candidate-vibid:2682000570220": 0,
+      "gas:candidate-vibid:2682000570300": 100,
+      "gas:candidate-vibid:2682000569650": 5,
+      "gas:candidate-vibid:2682000529925": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507733&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507733&type=464",
@@ -8185,15 +8185,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 3,
-      "Грекова Ольга Александровна": 1,
-      "Жидков Андрей Игоревич": 3,
-      "Копьев Василий Владимирович": 2,
-      "Мисанова Ирина Николаевна": 1,
-      "Панфилов Сергей Анатольевич": 1,
-      "Поляков Александр Алексеевич": 292,
-      "Попова Ирина Степановна": 0,
-      "Сусаков Константин Валерьевич": 2
+      "gas:candidate-vibid:2682000570241": 3,
+      "gas:candidate-vibid:2682000571442": 1,
+      "gas:candidate-vibid:2682000549747": 3,
+      "gas:candidate-vibid:2682000551519": 2,
+      "gas:candidate-vibid:2682000570751": 1,
+      "gas:candidate-vibid:2682000570220": 1,
+      "gas:candidate-vibid:2682000570300": 292,
+      "gas:candidate-vibid:2682000569650": 0,
+      "gas:candidate-vibid:2682000529925": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507733&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507733&type=464",
@@ -8244,15 +8244,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 6,
-      "Грекова Ольга Александровна": 3,
-      "Жидков Андрей Игоревич": 22,
-      "Копьев Василий Владимирович": 9,
-      "Мисанова Ирина Николаевна": 3,
-      "Панфилов Сергей Анатольевич": 2,
-      "Поляков Александр Алексеевич": 240,
-      "Попова Ирина Степановна": 25,
-      "Сусаков Константин Валерьевич": 6
+      "gas:candidate-vibid:2682000570241": 6,
+      "gas:candidate-vibid:2682000571442": 3,
+      "gas:candidate-vibid:2682000549747": 22,
+      "gas:candidate-vibid:2682000551519": 9,
+      "gas:candidate-vibid:2682000570751": 3,
+      "gas:candidate-vibid:2682000570220": 2,
+      "gas:candidate-vibid:2682000570300": 240,
+      "gas:candidate-vibid:2682000569650": 25,
+      "gas:candidate-vibid:2682000529925": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507733&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507733&type=464",
@@ -8303,15 +8303,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 9,
-      "Грекова Ольга Александровна": 6,
-      "Жидков Андрей Игоревич": 15,
-      "Копьев Василий Владимирович": 9,
-      "Мисанова Ирина Николаевна": 5,
-      "Панфилов Сергей Анатольевич": 9,
-      "Поляков Александр Алексеевич": 303,
-      "Попова Ирина Степановна": 30,
-      "Сусаков Константин Валерьевич": 14
+      "gas:candidate-vibid:2682000570241": 9,
+      "gas:candidate-vibid:2682000571442": 6,
+      "gas:candidate-vibid:2682000549747": 15,
+      "gas:candidate-vibid:2682000551519": 9,
+      "gas:candidate-vibid:2682000570751": 5,
+      "gas:candidate-vibid:2682000570220": 9,
+      "gas:candidate-vibid:2682000570300": 303,
+      "gas:candidate-vibid:2682000569650": 30,
+      "gas:candidate-vibid:2682000529925": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507733&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507733&type=464",
@@ -8362,15 +8362,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 4,
-      "Грекова Ольга Александровна": 2,
-      "Жидков Андрей Игоревич": 8,
-      "Копьев Василий Владимирович": 3,
-      "Мисанова Ирина Николаевна": 0,
-      "Панфилов Сергей Анатольевич": 0,
-      "Поляков Александр Алексеевич": 90,
-      "Попова Ирина Степановна": 6,
-      "Сусаков Константин Валерьевич": 7
+      "gas:candidate-vibid:2682000570241": 4,
+      "gas:candidate-vibid:2682000571442": 2,
+      "gas:candidate-vibid:2682000549747": 8,
+      "gas:candidate-vibid:2682000551519": 3,
+      "gas:candidate-vibid:2682000570751": 0,
+      "gas:candidate-vibid:2682000570220": 0,
+      "gas:candidate-vibid:2682000570300": 90,
+      "gas:candidate-vibid:2682000569650": 6,
+      "gas:candidate-vibid:2682000529925": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507733&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507733&type=464",
@@ -8421,15 +8421,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 2,
-      "Грекова Ольга Александровна": 2,
-      "Жидков Андрей Игоревич": 9,
-      "Копьев Василий Владимирович": 3,
-      "Мисанова Ирина Николаевна": 4,
-      "Панфилов Сергей Анатольевич": 1,
-      "Поляков Александр Алексеевич": 119,
-      "Попова Ирина Степановна": 5,
-      "Сусаков Константин Валерьевич": 11
+      "gas:candidate-vibid:2682000570241": 2,
+      "gas:candidate-vibid:2682000571442": 2,
+      "gas:candidate-vibid:2682000549747": 9,
+      "gas:candidate-vibid:2682000551519": 3,
+      "gas:candidate-vibid:2682000570751": 4,
+      "gas:candidate-vibid:2682000570220": 1,
+      "gas:candidate-vibid:2682000570300": 119,
+      "gas:candidate-vibid:2682000569650": 5,
+      "gas:candidate-vibid:2682000529925": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507733&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507733&type=464",
@@ -8480,15 +8480,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 2,
-      "Грекова Ольга Александровна": 0,
-      "Жидков Андрей Игоревич": 6,
-      "Копьев Василий Владимирович": 5,
-      "Мисанова Ирина Николаевна": 0,
-      "Панфилов Сергей Анатольевич": 1,
-      "Поляков Александр Алексеевич": 120,
-      "Попова Ирина Степановна": 12,
-      "Сусаков Константин Валерьевич": 4
+      "gas:candidate-vibid:2682000570241": 2,
+      "gas:candidate-vibid:2682000571442": 0,
+      "gas:candidate-vibid:2682000549747": 6,
+      "gas:candidate-vibid:2682000551519": 5,
+      "gas:candidate-vibid:2682000570751": 0,
+      "gas:candidate-vibid:2682000570220": 1,
+      "gas:candidate-vibid:2682000570300": 120,
+      "gas:candidate-vibid:2682000569650": 12,
+      "gas:candidate-vibid:2682000529925": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507733&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507733&type=464",
@@ -8539,15 +8539,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 18,
-      "Грекова Ольга Александровна": 4,
-      "Жидков Андрей Игоревич": 9,
-      "Копьев Василий Владимирович": 7,
-      "Мисанова Ирина Николаевна": 0,
-      "Панфилов Сергей Анатольевич": 0,
-      "Поляков Александр Алексеевич": 141,
-      "Попова Ирина Степановна": 5,
-      "Сусаков Константин Валерьевич": 14
+      "gas:candidate-vibid:2682000570241": 18,
+      "gas:candidate-vibid:2682000571442": 4,
+      "gas:candidate-vibid:2682000549747": 9,
+      "gas:candidate-vibid:2682000551519": 7,
+      "gas:candidate-vibid:2682000570751": 0,
+      "gas:candidate-vibid:2682000570220": 0,
+      "gas:candidate-vibid:2682000570300": 141,
+      "gas:candidate-vibid:2682000569650": 5,
+      "gas:candidate-vibid:2682000529925": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507733&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507733&type=464",
@@ -8598,15 +8598,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 11,
-      "Грекова Ольга Александровна": 10,
-      "Жидков Андрей Игоревич": 56,
-      "Копьев Василий Владимирович": 23,
-      "Мисанова Ирина Николаевна": 5,
-      "Панфилов Сергей Анатольевич": 7,
-      "Поляков Александр Алексеевич": 321,
-      "Попова Ирина Степановна": 51,
-      "Сусаков Константин Валерьевич": 17
+      "gas:candidate-vibid:2682000570241": 11,
+      "gas:candidate-vibid:2682000571442": 10,
+      "gas:candidate-vibid:2682000549747": 56,
+      "gas:candidate-vibid:2682000551519": 23,
+      "gas:candidate-vibid:2682000570751": 5,
+      "gas:candidate-vibid:2682000570220": 7,
+      "gas:candidate-vibid:2682000570300": 321,
+      "gas:candidate-vibid:2682000569650": 51,
+      "gas:candidate-vibid:2682000529925": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507733&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507733&type=464",
@@ -8657,15 +8657,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 5,
-      "Грекова Ольга Александровна": 1,
-      "Жидков Андрей Игоревич": 20,
-      "Копьев Василий Владимирович": 7,
-      "Мисанова Ирина Николаевна": 3,
-      "Панфилов Сергей Анатольевич": 1,
-      "Поляков Александр Алексеевич": 114,
-      "Попова Ирина Степановна": 39,
-      "Сусаков Константин Валерьевич": 7
+      "gas:candidate-vibid:2682000570241": 5,
+      "gas:candidate-vibid:2682000571442": 1,
+      "gas:candidate-vibid:2682000549747": 20,
+      "gas:candidate-vibid:2682000551519": 7,
+      "gas:candidate-vibid:2682000570751": 3,
+      "gas:candidate-vibid:2682000570220": 1,
+      "gas:candidate-vibid:2682000570300": 114,
+      "gas:candidate-vibid:2682000569650": 39,
+      "gas:candidate-vibid:2682000529925": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507733&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507733&type=464",
@@ -8716,15 +8716,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 6,
-      "Грекова Ольга Александровна": 2,
-      "Жидков Андрей Игоревич": 13,
-      "Копьев Василий Владимирович": 6,
-      "Мисанова Ирина Николаевна": 2,
-      "Панфилов Сергей Анатольевич": 3,
-      "Поляков Александр Алексеевич": 108,
-      "Попова Ирина Степановна": 14,
-      "Сусаков Константин Валерьевич": 7
+      "gas:candidate-vibid:2682000570241": 6,
+      "gas:candidate-vibid:2682000571442": 2,
+      "gas:candidate-vibid:2682000549747": 13,
+      "gas:candidate-vibid:2682000551519": 6,
+      "gas:candidate-vibid:2682000570751": 2,
+      "gas:candidate-vibid:2682000570220": 3,
+      "gas:candidate-vibid:2682000570300": 108,
+      "gas:candidate-vibid:2682000569650": 14,
+      "gas:candidate-vibid:2682000529925": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507733&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507733&type=464",
@@ -8775,15 +8775,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 3,
-      "Грекова Ольга Александровна": 3,
-      "Жидков Андрей Игоревич": 11,
-      "Копьев Василий Владимирович": 4,
-      "Мисанова Ирина Николаевна": 3,
-      "Панфилов Сергей Анатольевич": 0,
-      "Поляков Александр Алексеевич": 172,
-      "Попова Ирина Степановна": 5,
-      "Сусаков Константин Валерьевич": 3
+      "gas:candidate-vibid:2682000570241": 3,
+      "gas:candidate-vibid:2682000571442": 3,
+      "gas:candidate-vibid:2682000549747": 11,
+      "gas:candidate-vibid:2682000551519": 4,
+      "gas:candidate-vibid:2682000570751": 3,
+      "gas:candidate-vibid:2682000570220": 0,
+      "gas:candidate-vibid:2682000570300": 172,
+      "gas:candidate-vibid:2682000569650": 5,
+      "gas:candidate-vibid:2682000529925": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507733&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507733&type=464",
@@ -8834,15 +8834,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 2,
-      "Грекова Ольга Александровна": 0,
-      "Жидков Андрей Игоревич": 10,
-      "Копьев Василий Владимирович": 2,
-      "Мисанова Ирина Николаевна": 0,
-      "Панфилов Сергей Анатольевич": 2,
-      "Поляков Александр Алексеевич": 128,
-      "Попова Ирина Степановна": 8,
-      "Сусаков Константин Валерьевич": 3
+      "gas:candidate-vibid:2682000570241": 2,
+      "gas:candidate-vibid:2682000571442": 0,
+      "gas:candidate-vibid:2682000549747": 10,
+      "gas:candidate-vibid:2682000551519": 2,
+      "gas:candidate-vibid:2682000570751": 0,
+      "gas:candidate-vibid:2682000570220": 2,
+      "gas:candidate-vibid:2682000570300": 128,
+      "gas:candidate-vibid:2682000569650": 8,
+      "gas:candidate-vibid:2682000529925": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507733&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507733&type=464",
@@ -8893,15 +8893,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 3,
-      "Грекова Ольга Александровна": 0,
-      "Жидков Андрей Игоревич": 22,
-      "Копьев Василий Владимирович": 10,
-      "Мисанова Ирина Николаевна": 0,
-      "Панфилов Сергей Анатольевич": 3,
-      "Поляков Александр Алексеевич": 190,
-      "Попова Ирина Степановна": 15,
-      "Сусаков Константин Валерьевич": 14
+      "gas:candidate-vibid:2682000570241": 3,
+      "gas:candidate-vibid:2682000571442": 0,
+      "gas:candidate-vibid:2682000549747": 22,
+      "gas:candidate-vibid:2682000551519": 10,
+      "gas:candidate-vibid:2682000570751": 0,
+      "gas:candidate-vibid:2682000570220": 3,
+      "gas:candidate-vibid:2682000570300": 190,
+      "gas:candidate-vibid:2682000569650": 15,
+      "gas:candidate-vibid:2682000529925": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507733&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507733&type=464",
@@ -8952,15 +8952,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 12,
-      "Грекова Ольга Александровна": 6,
-      "Жидков Андрей Игоревич": 22,
-      "Копьев Василий Владимирович": 13,
-      "Мисанова Ирина Николаевна": 4,
-      "Панфилов Сергей Анатольевич": 9,
-      "Поляков Александр Алексеевич": 83,
-      "Попова Ирина Степановна": 21,
-      "Сусаков Константин Валерьевич": 12
+      "gas:candidate-vibid:2682000570241": 12,
+      "gas:candidate-vibid:2682000571442": 6,
+      "gas:candidate-vibid:2682000549747": 22,
+      "gas:candidate-vibid:2682000551519": 13,
+      "gas:candidate-vibid:2682000570751": 4,
+      "gas:candidate-vibid:2682000570220": 9,
+      "gas:candidate-vibid:2682000570300": 83,
+      "gas:candidate-vibid:2682000569650": 21,
+      "gas:candidate-vibid:2682000529925": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507733&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507733&type=464",
@@ -9011,15 +9011,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 12,
-      "Грекова Ольга Александровна": 4,
-      "Жидков Андрей Игоревич": 18,
-      "Копьев Василий Владимирович": 6,
-      "Мисанова Ирина Николаевна": 2,
-      "Панфилов Сергей Анатольевич": 5,
-      "Поляков Александр Алексеевич": 50,
-      "Попова Ирина Степановна": 14,
-      "Сусаков Константин Валерьевич": 2
+      "gas:candidate-vibid:2682000570241": 12,
+      "gas:candidate-vibid:2682000571442": 4,
+      "gas:candidate-vibid:2682000549747": 18,
+      "gas:candidate-vibid:2682000551519": 6,
+      "gas:candidate-vibid:2682000570751": 2,
+      "gas:candidate-vibid:2682000570220": 5,
+      "gas:candidate-vibid:2682000570300": 50,
+      "gas:candidate-vibid:2682000569650": 14,
+      "gas:candidate-vibid:2682000529925": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507733&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507733&type=464",
@@ -9070,15 +9070,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 4,
-      "Грекова Ольга Александровна": 4,
-      "Жидков Андрей Игоревич": 1,
-      "Копьев Василий Владимирович": 2,
-      "Мисанова Ирина Николаевна": 0,
-      "Панфилов Сергей Анатольевич": 2,
-      "Поляков Александр Алексеевич": 27,
-      "Попова Ирина Степановна": 8,
-      "Сусаков Константин Валерьевич": 2
+      "gas:candidate-vibid:2682000570241": 4,
+      "gas:candidate-vibid:2682000571442": 4,
+      "gas:candidate-vibid:2682000549747": 1,
+      "gas:candidate-vibid:2682000551519": 2,
+      "gas:candidate-vibid:2682000570751": 0,
+      "gas:candidate-vibid:2682000570220": 2,
+      "gas:candidate-vibid:2682000570300": 27,
+      "gas:candidate-vibid:2682000569650": 8,
+      "gas:candidate-vibid:2682000529925": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507733&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507733&type=464",
@@ -9129,15 +9129,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 6,
-      "Грекова Ольга Александровна": 3,
-      "Жидков Андрей Игоревич": 24,
-      "Копьев Василий Владимирович": 8,
-      "Мисанова Ирина Николаевна": 1,
-      "Панфилов Сергей Анатольевич": 2,
-      "Поляков Александр Алексеевич": 144,
-      "Попова Ирина Степановна": 18,
-      "Сусаков Константин Валерьевич": 8
+      "gas:candidate-vibid:2682000570241": 6,
+      "gas:candidate-vibid:2682000571442": 3,
+      "gas:candidate-vibid:2682000549747": 24,
+      "gas:candidate-vibid:2682000551519": 8,
+      "gas:candidate-vibid:2682000570751": 1,
+      "gas:candidate-vibid:2682000570220": 2,
+      "gas:candidate-vibid:2682000570300": 144,
+      "gas:candidate-vibid:2682000569650": 18,
+      "gas:candidate-vibid:2682000529925": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507733&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507733&type=464",
@@ -9188,15 +9188,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 36,
-      "Грекова Ольга Александровна": 13,
-      "Жидков Андрей Игоревич": 125,
-      "Копьев Василий Владимирович": 32,
-      "Мисанова Ирина Николаевна": 8,
-      "Панфилов Сергей Анатольевич": 15,
-      "Поляков Александр Алексеевич": 631,
-      "Попова Ирина Степановна": 77,
-      "Сусаков Константин Валерьевич": 55
+      "gas:candidate-vibid:2682000570241": 36,
+      "gas:candidate-vibid:2682000571442": 13,
+      "gas:candidate-vibid:2682000549747": 125,
+      "gas:candidate-vibid:2682000551519": 32,
+      "gas:candidate-vibid:2682000570751": 8,
+      "gas:candidate-vibid:2682000570220": 15,
+      "gas:candidate-vibid:2682000570300": 631,
+      "gas:candidate-vibid:2682000569650": 77,
+      "gas:candidate-vibid:2682000529925": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507733&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507733&type=464",
@@ -9247,15 +9247,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 17,
-      "Грекова Ольга Александровна": 3,
-      "Жидков Андрей Игоревич": 74,
-      "Копьев Василий Владимирович": 18,
-      "Мисанова Ирина Николаевна": 6,
-      "Панфилов Сергей Анатольевич": 8,
-      "Поляков Александр Алексеевич": 375,
-      "Попова Ирина Степановна": 42,
-      "Сусаков Константин Валерьевич": 25
+      "gas:candidate-vibid:2682000570241": 17,
+      "gas:candidate-vibid:2682000571442": 3,
+      "gas:candidate-vibid:2682000549747": 74,
+      "gas:candidate-vibid:2682000551519": 18,
+      "gas:candidate-vibid:2682000570751": 6,
+      "gas:candidate-vibid:2682000570220": 8,
+      "gas:candidate-vibid:2682000570300": 375,
+      "gas:candidate-vibid:2682000569650": 42,
+      "gas:candidate-vibid:2682000529925": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507733&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507733&type=464",
@@ -9306,15 +9306,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 10,
-      "Грекова Ольга Александровна": 4,
-      "Жидков Андрей Игоревич": 39,
-      "Копьев Василий Владимирович": 5,
-      "Мисанова Ирина Николаевна": 2,
-      "Панфилов Сергей Анатольевич": 0,
-      "Поляков Александр Алексеевич": 359,
-      "Попова Ирина Степановна": 26,
-      "Сусаков Константин Валерьевич": 9
+      "gas:candidate-vibid:2682000570241": 10,
+      "gas:candidate-vibid:2682000571442": 4,
+      "gas:candidate-vibid:2682000549747": 39,
+      "gas:candidate-vibid:2682000551519": 5,
+      "gas:candidate-vibid:2682000570751": 2,
+      "gas:candidate-vibid:2682000570220": 0,
+      "gas:candidate-vibid:2682000570300": 359,
+      "gas:candidate-vibid:2682000569650": 26,
+      "gas:candidate-vibid:2682000529925": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507733&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507733&type=464",
@@ -9365,15 +9365,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 7,
-      "Грекова Ольга Александровна": 3,
-      "Жидков Андрей Игоревич": 58,
-      "Копьев Василий Владимирович": 21,
-      "Мисанова Ирина Николаевна": 1,
-      "Панфилов Сергей Анатольевич": 11,
-      "Поляков Александр Алексеевич": 359,
-      "Попова Ирина Степановна": 37,
-      "Сусаков Константин Валерьевич": 24
+      "gas:candidate-vibid:2682000570241": 7,
+      "gas:candidate-vibid:2682000571442": 3,
+      "gas:candidate-vibid:2682000549747": 58,
+      "gas:candidate-vibid:2682000551519": 21,
+      "gas:candidate-vibid:2682000570751": 1,
+      "gas:candidate-vibid:2682000570220": 11,
+      "gas:candidate-vibid:2682000570300": 359,
+      "gas:candidate-vibid:2682000569650": 37,
+      "gas:candidate-vibid:2682000529925": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507733&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507733&type=464",
@@ -9424,15 +9424,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 23,
-      "Грекова Ольга Александровна": 8,
-      "Жидков Андрей Игоревич": 85,
-      "Копьев Василий Владимирович": 31,
-      "Мисанова Ирина Николаевна": 4,
-      "Панфилов Сергей Анатольевич": 11,
-      "Поляков Александр Алексеевич": 1092,
-      "Попова Ирина Степановна": 50,
-      "Сусаков Константин Валерьевич": 60
+      "gas:candidate-vibid:2682000570241": 23,
+      "gas:candidate-vibid:2682000571442": 8,
+      "gas:candidate-vibid:2682000549747": 85,
+      "gas:candidate-vibid:2682000551519": 31,
+      "gas:candidate-vibid:2682000570751": 4,
+      "gas:candidate-vibid:2682000570220": 11,
+      "gas:candidate-vibid:2682000570300": 1092,
+      "gas:candidate-vibid:2682000569650": 50,
+      "gas:candidate-vibid:2682000529925": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507736&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507736&type=464",
@@ -9483,15 +9483,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 13,
-      "Грекова Ольга Александровна": 2,
-      "Жидков Андрей Игоревич": 55,
-      "Копьев Василий Владимирович": 16,
-      "Мисанова Ирина Николаевна": 4,
-      "Панфилов Сергей Анатольевич": 5,
-      "Поляков Александр Алексеевич": 501,
-      "Попова Ирина Степановна": 21,
-      "Сусаков Константин Валерьевич": 28
+      "gas:candidate-vibid:2682000570241": 13,
+      "gas:candidate-vibid:2682000571442": 2,
+      "gas:candidate-vibid:2682000549747": 55,
+      "gas:candidate-vibid:2682000551519": 16,
+      "gas:candidate-vibid:2682000570751": 4,
+      "gas:candidate-vibid:2682000570220": 5,
+      "gas:candidate-vibid:2682000570300": 501,
+      "gas:candidate-vibid:2682000569650": 21,
+      "gas:candidate-vibid:2682000529925": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507736&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507736&type=464",
@@ -9542,15 +9542,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 59,
-      "Грекова Ольга Александровна": 1,
-      "Жидков Андрей Игоревич": 92,
-      "Копьев Василий Владимирович": 2,
-      "Мисанова Ирина Николаевна": 6,
-      "Панфилов Сергей Анатольевич": 9,
-      "Поляков Александр Алексеевич": 423,
-      "Попова Ирина Степановна": 66,
-      "Сусаков Константин Валерьевич": 2
+      "gas:candidate-vibid:2682000570241": 59,
+      "gas:candidate-vibid:2682000571442": 1,
+      "gas:candidate-vibid:2682000549747": 92,
+      "gas:candidate-vibid:2682000551519": 2,
+      "gas:candidate-vibid:2682000570751": 6,
+      "gas:candidate-vibid:2682000570220": 9,
+      "gas:candidate-vibid:2682000570300": 423,
+      "gas:candidate-vibid:2682000569650": 66,
+      "gas:candidate-vibid:2682000529925": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507736&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507736&type=464",
@@ -9601,15 +9601,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 65,
-      "Грекова Ольга Александровна": 13,
-      "Жидков Андрей Игоревич": 165,
-      "Копьев Василий Владимирович": 83,
-      "Мисанова Ирина Николаевна": 21,
-      "Панфилов Сергей Анатольевич": 27,
-      "Поляков Александр Алексеевич": 727,
-      "Попова Ирина Степановна": 106,
-      "Сусаков Константин Валерьевич": 59
+      "gas:candidate-vibid:2682000570241": 65,
+      "gas:candidate-vibid:2682000571442": 13,
+      "gas:candidate-vibid:2682000549747": 165,
+      "gas:candidate-vibid:2682000551519": 83,
+      "gas:candidate-vibid:2682000570751": 21,
+      "gas:candidate-vibid:2682000570220": 27,
+      "gas:candidate-vibid:2682000570300": 727,
+      "gas:candidate-vibid:2682000569650": 106,
+      "gas:candidate-vibid:2682000529925": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507736&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507736&type=464",
@@ -9660,15 +9660,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 49,
-      "Грекова Ольга Александровна": 3,
-      "Жидков Андрей Игоревич": 65,
-      "Копьев Василий Владимирович": 14,
-      "Мисанова Ирина Николаевна": 12,
-      "Панфилов Сергей Анатольевич": 7,
-      "Поляков Александр Алексеевич": 709,
-      "Попова Ирина Степановна": 75,
-      "Сусаков Константин Валерьевич": 12
+      "gas:candidate-vibid:2682000570241": 49,
+      "gas:candidate-vibid:2682000571442": 3,
+      "gas:candidate-vibid:2682000549747": 65,
+      "gas:candidate-vibid:2682000551519": 14,
+      "gas:candidate-vibid:2682000570751": 12,
+      "gas:candidate-vibid:2682000570220": 7,
+      "gas:candidate-vibid:2682000570300": 709,
+      "gas:candidate-vibid:2682000569650": 75,
+      "gas:candidate-vibid:2682000529925": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507736&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507736&type=464",
@@ -9719,15 +9719,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 3,
-      "Грекова Ольга Александровна": 1,
-      "Жидков Андрей Игоревич": 80,
-      "Копьев Василий Владимирович": 2,
-      "Мисанова Ирина Николаевна": 20,
-      "Панфилов Сергей Анатольевич": 2,
-      "Поляков Александр Алексеевич": 662,
-      "Попова Ирина Степановна": 7,
-      "Сусаков Константин Валерьевич": 5
+      "gas:candidate-vibid:2682000570241": 3,
+      "gas:candidate-vibid:2682000571442": 1,
+      "gas:candidate-vibid:2682000549747": 80,
+      "gas:candidate-vibid:2682000551519": 2,
+      "gas:candidate-vibid:2682000570751": 20,
+      "gas:candidate-vibid:2682000570220": 2,
+      "gas:candidate-vibid:2682000570300": 662,
+      "gas:candidate-vibid:2682000569650": 7,
+      "gas:candidate-vibid:2682000529925": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507736&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507736&type=464",
@@ -9778,15 +9778,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 27,
-      "Грекова Ольга Александровна": 2,
-      "Жидков Андрей Игоревич": 138,
-      "Копьев Василий Владимирович": 15,
-      "Мисанова Ирина Николаевна": 4,
-      "Панфилов Сергей Анатольевич": 3,
-      "Поляков Александр Алексеевич": 780,
-      "Попова Ирина Степановна": 18,
-      "Сусаков Константин Валерьевич": 21
+      "gas:candidate-vibid:2682000570241": 27,
+      "gas:candidate-vibid:2682000571442": 2,
+      "gas:candidate-vibid:2682000549747": 138,
+      "gas:candidate-vibid:2682000551519": 15,
+      "gas:candidate-vibid:2682000570751": 4,
+      "gas:candidate-vibid:2682000570220": 3,
+      "gas:candidate-vibid:2682000570300": 780,
+      "gas:candidate-vibid:2682000569650": 18,
+      "gas:candidate-vibid:2682000529925": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507736&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507736&type=464",
@@ -9837,15 +9837,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 26,
-      "Грекова Ольга Александровна": 12,
-      "Жидков Андрей Игоревич": 122,
-      "Копьев Василий Владимирович": 28,
-      "Мисанова Ирина Николаевна": 14,
-      "Панфилов Сергей Анатольевич": 12,
-      "Поляков Александр Алексеевич": 806,
-      "Попова Ирина Степановна": 67,
-      "Сусаков Константин Валерьевич": 83
+      "gas:candidate-vibid:2682000570241": 26,
+      "gas:candidate-vibid:2682000571442": 12,
+      "gas:candidate-vibid:2682000549747": 122,
+      "gas:candidate-vibid:2682000551519": 28,
+      "gas:candidate-vibid:2682000570751": 14,
+      "gas:candidate-vibid:2682000570220": 12,
+      "gas:candidate-vibid:2682000570300": 806,
+      "gas:candidate-vibid:2682000569650": 67,
+      "gas:candidate-vibid:2682000529925": 83
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507736&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507736&type=464",
@@ -9896,15 +9896,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 41,
-      "Грекова Ольга Александровна": 13,
-      "Жидков Андрей Игоревич": 142,
-      "Копьев Василий Владимирович": 39,
-      "Мисанова Ирина Николаевна": 17,
-      "Панфилов Сергей Анатольевич": 8,
-      "Поляков Александр Алексеевич": 692,
-      "Попова Ирина Степановна": 38,
-      "Сусаков Константин Валерьевич": 57
+      "gas:candidate-vibid:2682000570241": 41,
+      "gas:candidate-vibid:2682000571442": 13,
+      "gas:candidate-vibid:2682000549747": 142,
+      "gas:candidate-vibid:2682000551519": 39,
+      "gas:candidate-vibid:2682000570751": 17,
+      "gas:candidate-vibid:2682000570220": 8,
+      "gas:candidate-vibid:2682000570300": 692,
+      "gas:candidate-vibid:2682000569650": 38,
+      "gas:candidate-vibid:2682000529925": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507736&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507736&type=464",
@@ -9955,15 +9955,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 3,
-      "Грекова Ольга Александровна": 4,
-      "Жидков Андрей Игоревич": 168,
-      "Копьев Василий Владимирович": 5,
-      "Мисанова Ирина Николаевна": 87,
-      "Панфилов Сергей Анатольевич": 3,
-      "Поляков Александр Алексеевич": 1110,
-      "Попова Ирина Степановна": 33,
-      "Сусаков Константин Валерьевич": 51
+      "gas:candidate-vibid:2682000570241": 3,
+      "gas:candidate-vibid:2682000571442": 4,
+      "gas:candidate-vibid:2682000549747": 168,
+      "gas:candidate-vibid:2682000551519": 5,
+      "gas:candidate-vibid:2682000570751": 87,
+      "gas:candidate-vibid:2682000570220": 3,
+      "gas:candidate-vibid:2682000570300": 1110,
+      "gas:candidate-vibid:2682000569650": 33,
+      "gas:candidate-vibid:2682000529925": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507736&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507736&type=464",
@@ -10014,15 +10014,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 20,
-      "Грекова Ольга Александровна": 6,
-      "Жидков Андрей Игоревич": 178,
-      "Копьев Василий Владимирович": 20,
-      "Мисанова Ирина Николаевна": 9,
-      "Панфилов Сергей Анатольевич": 4,
-      "Поляков Александр Алексеевич": 1010,
-      "Попова Ирина Степановна": 157,
-      "Сусаков Константин Валерьевич": 26
+      "gas:candidate-vibid:2682000570241": 20,
+      "gas:candidate-vibid:2682000571442": 6,
+      "gas:candidate-vibid:2682000549747": 178,
+      "gas:candidate-vibid:2682000551519": 20,
+      "gas:candidate-vibid:2682000570751": 9,
+      "gas:candidate-vibid:2682000570220": 4,
+      "gas:candidate-vibid:2682000570300": 1010,
+      "gas:candidate-vibid:2682000569650": 157,
+      "gas:candidate-vibid:2682000529925": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507736&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507736&type=464",
@@ -10073,15 +10073,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 56,
-      "Грекова Ольга Александровна": 4,
-      "Жидков Андрей Игоревич": 157,
-      "Копьев Василий Владимирович": 5,
-      "Мисанова Ирина Николаевна": 6,
-      "Панфилов Сергей Анатольевич": 4,
-      "Поляков Александр Алексеевич": 828,
-      "Попова Ирина Степановна": 122,
-      "Сусаков Константин Валерьевич": 58
+      "gas:candidate-vibid:2682000570241": 56,
+      "gas:candidate-vibid:2682000571442": 4,
+      "gas:candidate-vibid:2682000549747": 157,
+      "gas:candidate-vibid:2682000551519": 5,
+      "gas:candidate-vibid:2682000570751": 6,
+      "gas:candidate-vibid:2682000570220": 4,
+      "gas:candidate-vibid:2682000570300": 828,
+      "gas:candidate-vibid:2682000569650": 122,
+      "gas:candidate-vibid:2682000529925": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507736&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507736&type=464",
@@ -10132,15 +10132,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 15,
-      "Грекова Ольга Александровна": 14,
-      "Жидков Андрей Игоревич": 72,
-      "Копьев Василий Владимирович": 34,
-      "Мисанова Ирина Николаевна": 13,
-      "Панфилов Сергей Анатольевич": 12,
-      "Поляков Александр Алексеевич": 260,
-      "Попова Ирина Степановна": 63,
-      "Сусаков Константин Валерьевич": 63
+      "gas:candidate-vibid:2682000570241": 15,
+      "gas:candidate-vibid:2682000571442": 14,
+      "gas:candidate-vibid:2682000549747": 72,
+      "gas:candidate-vibid:2682000551519": 34,
+      "gas:candidate-vibid:2682000570751": 13,
+      "gas:candidate-vibid:2682000570220": 12,
+      "gas:candidate-vibid:2682000570300": 260,
+      "gas:candidate-vibid:2682000569650": 63,
+      "gas:candidate-vibid:2682000529925": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507737&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507737&type=464",
@@ -10191,15 +10191,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 3,
-      "Грекова Ольга Александровна": 1,
-      "Жидков Андрей Игоревич": 9,
-      "Копьев Василий Владимирович": 6,
-      "Мисанова Ирина Николаевна": 1,
-      "Панфилов Сергей Анатольевич": 3,
-      "Поляков Александр Алексеевич": 268,
-      "Попова Ирина Степановна": 17,
-      "Сусаков Константин Валерьевич": 8
+      "gas:candidate-vibid:2682000570241": 3,
+      "gas:candidate-vibid:2682000571442": 1,
+      "gas:candidate-vibid:2682000549747": 9,
+      "gas:candidate-vibid:2682000551519": 6,
+      "gas:candidate-vibid:2682000570751": 1,
+      "gas:candidate-vibid:2682000570220": 3,
+      "gas:candidate-vibid:2682000570300": 268,
+      "gas:candidate-vibid:2682000569650": 17,
+      "gas:candidate-vibid:2682000529925": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507737&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507737&type=464",
@@ -10250,15 +10250,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 12,
-      "Грекова Ольга Александровна": 2,
-      "Жидков Андрей Игоревич": 16,
-      "Копьев Василий Владимирович": 4,
-      "Мисанова Ирина Николаевна": 5,
-      "Панфилов Сергей Анатольевич": 9,
-      "Поляков Александр Алексеевич": 122,
-      "Попова Ирина Степановна": 17,
-      "Сусаков Константин Валерьевич": 24
+      "gas:candidate-vibid:2682000570241": 12,
+      "gas:candidate-vibid:2682000571442": 2,
+      "gas:candidate-vibid:2682000549747": 16,
+      "gas:candidate-vibid:2682000551519": 4,
+      "gas:candidate-vibid:2682000570751": 5,
+      "gas:candidate-vibid:2682000570220": 9,
+      "gas:candidate-vibid:2682000570300": 122,
+      "gas:candidate-vibid:2682000569650": 17,
+      "gas:candidate-vibid:2682000529925": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507737&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507737&type=464",
@@ -10309,15 +10309,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 4,
-      "Грекова Ольга Александровна": 1,
-      "Жидков Андрей Игоревич": 15,
-      "Копьев Василий Владимирович": 6,
-      "Мисанова Ирина Николаевна": 2,
-      "Панфилов Сергей Анатольевич": 4,
-      "Поляков Александр Алексеевич": 118,
-      "Попова Ирина Степановна": 7,
-      "Сусаков Константин Валерьевич": 4
+      "gas:candidate-vibid:2682000570241": 4,
+      "gas:candidate-vibid:2682000571442": 1,
+      "gas:candidate-vibid:2682000549747": 15,
+      "gas:candidate-vibid:2682000551519": 6,
+      "gas:candidate-vibid:2682000570751": 2,
+      "gas:candidate-vibid:2682000570220": 4,
+      "gas:candidate-vibid:2682000570300": 118,
+      "gas:candidate-vibid:2682000569650": 7,
+      "gas:candidate-vibid:2682000529925": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507737&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507737&type=464",
@@ -10368,15 +10368,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 1,
-      "Грекова Ольга Александровна": 1,
-      "Жидков Андрей Игоревич": 6,
-      "Копьев Василий Владимирович": 4,
-      "Мисанова Ирина Николаевна": 0,
-      "Панфилов Сергей Анатольевич": 1,
-      "Поляков Александр Алексеевич": 133,
-      "Попова Ирина Степановна": 4,
-      "Сусаков Константин Валерьевич": 0
+      "gas:candidate-vibid:2682000570241": 1,
+      "gas:candidate-vibid:2682000571442": 1,
+      "gas:candidate-vibid:2682000549747": 6,
+      "gas:candidate-vibid:2682000551519": 4,
+      "gas:candidate-vibid:2682000570751": 0,
+      "gas:candidate-vibid:2682000570220": 1,
+      "gas:candidate-vibid:2682000570300": 133,
+      "gas:candidate-vibid:2682000569650": 4,
+      "gas:candidate-vibid:2682000529925": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507737&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507737&type=464",
@@ -10427,15 +10427,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 1,
-      "Грекова Ольга Александровна": 2,
-      "Жидков Андрей Игоревич": 7,
-      "Копьев Василий Владимирович": 5,
-      "Мисанова Ирина Николаевна": 1,
-      "Панфилов Сергей Анатольевич": 1,
-      "Поляков Александр Алексеевич": 177,
-      "Попова Ирина Степановна": 2,
-      "Сусаков Константин Валерьевич": 10
+      "gas:candidate-vibid:2682000570241": 1,
+      "gas:candidate-vibid:2682000571442": 2,
+      "gas:candidate-vibid:2682000549747": 7,
+      "gas:candidate-vibid:2682000551519": 5,
+      "gas:candidate-vibid:2682000570751": 1,
+      "gas:candidate-vibid:2682000570220": 1,
+      "gas:candidate-vibid:2682000570300": 177,
+      "gas:candidate-vibid:2682000569650": 2,
+      "gas:candidate-vibid:2682000529925": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507737&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507737&type=464",
@@ -10486,15 +10486,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 3,
-      "Грекова Ольга Александровна": 4,
-      "Жидков Андрей Игоревич": 34,
-      "Копьев Василий Владимирович": 6,
-      "Мисанова Ирина Николаевна": 6,
-      "Панфилов Сергей Анатольевич": 1,
-      "Поляков Александр Алексеевич": 154,
-      "Попова Ирина Степановна": 9,
-      "Сусаков Константин Валерьевич": 25
+      "gas:candidate-vibid:2682000570241": 3,
+      "gas:candidate-vibid:2682000571442": 4,
+      "gas:candidate-vibid:2682000549747": 34,
+      "gas:candidate-vibid:2682000551519": 6,
+      "gas:candidate-vibid:2682000570751": 6,
+      "gas:candidate-vibid:2682000570220": 1,
+      "gas:candidate-vibid:2682000570300": 154,
+      "gas:candidate-vibid:2682000569650": 9,
+      "gas:candidate-vibid:2682000529925": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507737&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507737&type=464",
@@ -10545,15 +10545,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 5,
-      "Грекова Ольга Александровна": 1,
-      "Жидков Андрей Игоревич": 21,
-      "Копьев Василий Владимирович": 5,
-      "Мисанова Ирина Николаевна": 2,
-      "Панфилов Сергей Анатольевич": 2,
-      "Поляков Александр Алексеевич": 166,
-      "Попова Ирина Степановна": 9,
-      "Сусаков Константин Валерьевич": 13
+      "gas:candidate-vibid:2682000570241": 5,
+      "gas:candidate-vibid:2682000571442": 1,
+      "gas:candidate-vibid:2682000549747": 21,
+      "gas:candidate-vibid:2682000551519": 5,
+      "gas:candidate-vibid:2682000570751": 2,
+      "gas:candidate-vibid:2682000570220": 2,
+      "gas:candidate-vibid:2682000570300": 166,
+      "gas:candidate-vibid:2682000569650": 9,
+      "gas:candidate-vibid:2682000529925": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507737&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507737&type=464",
@@ -10604,15 +10604,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 9,
-      "Грекова Ольга Александровна": 1,
-      "Жидков Андрей Игоревич": 12,
-      "Копьев Василий Владимирович": 2,
-      "Мисанова Ирина Николаевна": 6,
-      "Панфилов Сергей Анатольевич": 2,
-      "Поляков Александр Алексеевич": 146,
-      "Попова Ирина Степановна": 13,
-      "Сусаков Константин Валерьевич": 11
+      "gas:candidate-vibid:2682000570241": 9,
+      "gas:candidate-vibid:2682000571442": 1,
+      "gas:candidate-vibid:2682000549747": 12,
+      "gas:candidate-vibid:2682000551519": 2,
+      "gas:candidate-vibid:2682000570751": 6,
+      "gas:candidate-vibid:2682000570220": 2,
+      "gas:candidate-vibid:2682000570300": 146,
+      "gas:candidate-vibid:2682000569650": 13,
+      "gas:candidate-vibid:2682000529925": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507737&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507737&type=464",
@@ -10663,15 +10663,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 6,
-      "Грекова Ольга Александровна": 4,
-      "Жидков Андрей Игоревич": 25,
-      "Копьев Василий Владимирович": 14,
-      "Мисанова Ирина Николаевна": 5,
-      "Панфилов Сергей Анатольевич": 4,
-      "Поляков Александр Алексеевич": 208,
-      "Попова Ирина Степановна": 27,
-      "Сусаков Константин Валерьевич": 9
+      "gas:candidate-vibid:2682000570241": 6,
+      "gas:candidate-vibid:2682000571442": 4,
+      "gas:candidate-vibid:2682000549747": 25,
+      "gas:candidate-vibid:2682000551519": 14,
+      "gas:candidate-vibid:2682000570751": 5,
+      "gas:candidate-vibid:2682000570220": 4,
+      "gas:candidate-vibid:2682000570300": 208,
+      "gas:candidate-vibid:2682000569650": 27,
+      "gas:candidate-vibid:2682000529925": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507737&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507737&type=464",
@@ -10722,15 +10722,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 4,
-      "Грекова Ольга Александровна": 1,
-      "Жидков Андрей Игоревич": 19,
-      "Копьев Василий Владимирович": 9,
-      "Мисанова Ирина Николаевна": 0,
-      "Панфилов Сергей Анатольевич": 5,
-      "Поляков Александр Алексеевич": 291,
-      "Попова Ирина Степановна": 27,
-      "Сусаков Константин Валерьевич": 6
+      "gas:candidate-vibid:2682000570241": 4,
+      "gas:candidate-vibid:2682000571442": 1,
+      "gas:candidate-vibid:2682000549747": 19,
+      "gas:candidate-vibid:2682000551519": 9,
+      "gas:candidate-vibid:2682000570751": 0,
+      "gas:candidate-vibid:2682000570220": 5,
+      "gas:candidate-vibid:2682000570300": 291,
+      "gas:candidate-vibid:2682000569650": 27,
+      "gas:candidate-vibid:2682000529925": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507737&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507737&type=464",
@@ -10781,15 +10781,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 17,
-      "Грекова Ольга Александровна": 3,
-      "Жидков Андрей Игоревич": 27,
-      "Копьев Василий Владимирович": 8,
-      "Мисанова Ирина Николаевна": 4,
-      "Панфилов Сергей Анатольевич": 4,
-      "Поляков Александр Алексеевич": 231,
-      "Попова Ирина Степановна": 10,
-      "Сусаков Константин Валерьевич": 18
+      "gas:candidate-vibid:2682000570241": 17,
+      "gas:candidate-vibid:2682000571442": 3,
+      "gas:candidate-vibid:2682000549747": 27,
+      "gas:candidate-vibid:2682000551519": 8,
+      "gas:candidate-vibid:2682000570751": 4,
+      "gas:candidate-vibid:2682000570220": 4,
+      "gas:candidate-vibid:2682000570300": 231,
+      "gas:candidate-vibid:2682000569650": 10,
+      "gas:candidate-vibid:2682000529925": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507737&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507737&type=464",
@@ -10840,15 +10840,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 1,
-      "Грекова Ольга Александровна": 1,
-      "Жидков Андрей Игоревич": 12,
-      "Копьев Василий Владимирович": 10,
-      "Мисанова Ирина Николаевна": 1,
-      "Панфилов Сергей Анатольевич": 1,
-      "Поляков Александр Алексеевич": 172,
-      "Попова Ирина Степановна": 0,
-      "Сусаков Константин Валерьевич": 10
+      "gas:candidate-vibid:2682000570241": 1,
+      "gas:candidate-vibid:2682000571442": 1,
+      "gas:candidate-vibid:2682000549747": 12,
+      "gas:candidate-vibid:2682000551519": 10,
+      "gas:candidate-vibid:2682000570751": 1,
+      "gas:candidate-vibid:2682000570220": 1,
+      "gas:candidate-vibid:2682000570300": 172,
+      "gas:candidate-vibid:2682000569650": 0,
+      "gas:candidate-vibid:2682000529925": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507737&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507737&type=464",
@@ -10899,15 +10899,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 8,
-      "Грекова Ольга Александровна": 4,
-      "Жидков Андрей Игоревич": 27,
-      "Копьев Василий Владимирович": 11,
-      "Мисанова Ирина Николаевна": 9,
-      "Панфилов Сергей Анатольевич": 8,
-      "Поляков Александр Алексеевич": 448,
-      "Попова Ирина Степановна": 14,
-      "Сусаков Константин Валерьевич": 25
+      "gas:candidate-vibid:2682000570241": 8,
+      "gas:candidate-vibid:2682000571442": 4,
+      "gas:candidate-vibid:2682000549747": 27,
+      "gas:candidate-vibid:2682000551519": 11,
+      "gas:candidate-vibid:2682000570751": 9,
+      "gas:candidate-vibid:2682000570220": 8,
+      "gas:candidate-vibid:2682000570300": 448,
+      "gas:candidate-vibid:2682000569650": 14,
+      "gas:candidate-vibid:2682000529925": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507737&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507737&type=464",
@@ -10958,15 +10958,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 3,
-      "Грекова Ольга Александровна": 1,
-      "Жидков Андрей Игоревич": 13,
-      "Копьев Василий Владимирович": 5,
-      "Мисанова Ирина Николаевна": 4,
-      "Панфилов Сергей Анатольевич": 1,
-      "Поляков Александр Алексеевич": 230,
-      "Попова Ирина Степановна": 7,
-      "Сусаков Константин Валерьевич": 8
+      "gas:candidate-vibid:2682000570241": 3,
+      "gas:candidate-vibid:2682000571442": 1,
+      "gas:candidate-vibid:2682000549747": 13,
+      "gas:candidate-vibid:2682000551519": 5,
+      "gas:candidate-vibid:2682000570751": 4,
+      "gas:candidate-vibid:2682000570220": 1,
+      "gas:candidate-vibid:2682000570300": 230,
+      "gas:candidate-vibid:2682000569650": 7,
+      "gas:candidate-vibid:2682000529925": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507737&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507737&type=464",
@@ -11017,15 +11017,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 6,
-      "Грекова Ольга Александровна": 3,
-      "Жидков Андрей Игоревич": 30,
-      "Копьев Василий Владимирович": 0,
-      "Мисанова Ирина Николаевна": 0,
-      "Панфилов Сергей Анатольевич": 3,
-      "Поляков Александр Алексеевич": 170,
-      "Попова Ирина Степановна": 7,
-      "Сусаков Константин Валерьевич": 20
+      "gas:candidate-vibid:2682000570241": 6,
+      "gas:candidate-vibid:2682000571442": 3,
+      "gas:candidate-vibid:2682000549747": 30,
+      "gas:candidate-vibid:2682000551519": 0,
+      "gas:candidate-vibid:2682000570751": 0,
+      "gas:candidate-vibid:2682000570220": 3,
+      "gas:candidate-vibid:2682000570300": 170,
+      "gas:candidate-vibid:2682000569650": 7,
+      "gas:candidate-vibid:2682000529925": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507737&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507737&type=464",
@@ -11076,15 +11076,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 0,
-      "Грекова Ольга Александровна": 0,
-      "Жидков Андрей Игоревич": 11,
-      "Копьев Василий Владимирович": 4,
-      "Мисанова Ирина Николаевна": 0,
-      "Панфилов Сергей Анатольевич": 0,
-      "Поляков Александр Алексеевич": 53,
-      "Попова Ирина Степановна": 0,
-      "Сусаков Константин Валерьевич": 1
+      "gas:candidate-vibid:2682000570241": 0,
+      "gas:candidate-vibid:2682000571442": 0,
+      "gas:candidate-vibid:2682000549747": 11,
+      "gas:candidate-vibid:2682000551519": 4,
+      "gas:candidate-vibid:2682000570751": 0,
+      "gas:candidate-vibid:2682000570220": 0,
+      "gas:candidate-vibid:2682000570300": 53,
+      "gas:candidate-vibid:2682000569650": 0,
+      "gas:candidate-vibid:2682000529925": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507737&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507737&type=464",
@@ -11135,15 +11135,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 0,
-      "Грекова Ольга Александровна": 0,
-      "Жидков Андрей Игоревич": 6,
-      "Копьев Василий Владимирович": 4,
-      "Мисанова Ирина Николаевна": 1,
-      "Панфилов Сергей Анатольевич": 4,
-      "Поляков Александр Алексеевич": 94,
-      "Попова Ирина Степановна": 7,
-      "Сусаков Константин Валерьевич": 11
+      "gas:candidate-vibid:2682000570241": 0,
+      "gas:candidate-vibid:2682000571442": 0,
+      "gas:candidate-vibid:2682000549747": 6,
+      "gas:candidate-vibid:2682000551519": 4,
+      "gas:candidate-vibid:2682000570751": 1,
+      "gas:candidate-vibid:2682000570220": 4,
+      "gas:candidate-vibid:2682000570300": 94,
+      "gas:candidate-vibid:2682000569650": 7,
+      "gas:candidate-vibid:2682000529925": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507737&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507737&type=464",
@@ -11194,15 +11194,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 7,
-      "Грекова Ольга Александровна": 3,
-      "Жидков Андрей Игоревич": 26,
-      "Копьев Василий Владимирович": 8,
-      "Мисанова Ирина Николаевна": 1,
-      "Панфилов Сергей Анатольевич": 3,
-      "Поляков Александр Алексеевич": 439,
-      "Попова Ирина Степановна": 9,
-      "Сусаков Константин Валерьевич": 25
+      "gas:candidate-vibid:2682000570241": 7,
+      "gas:candidate-vibid:2682000571442": 3,
+      "gas:candidate-vibid:2682000549747": 26,
+      "gas:candidate-vibid:2682000551519": 8,
+      "gas:candidate-vibid:2682000570751": 1,
+      "gas:candidate-vibid:2682000570220": 3,
+      "gas:candidate-vibid:2682000570300": 439,
+      "gas:candidate-vibid:2682000569650": 9,
+      "gas:candidate-vibid:2682000529925": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507737&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507737&type=464",
@@ -11253,15 +11253,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 6,
-      "Грекова Ольга Александровна": 3,
-      "Жидков Андрей Игоревич": 16,
-      "Копьев Василий Владимирович": 17,
-      "Мисанова Ирина Николаевна": 3,
-      "Панфилов Сергей Анатольевич": 1,
-      "Поляков Александр Алексеевич": 333,
-      "Попова Ирина Степановна": 16,
-      "Сусаков Константин Валерьевич": 24
+      "gas:candidate-vibid:2682000570241": 6,
+      "gas:candidate-vibid:2682000571442": 3,
+      "gas:candidate-vibid:2682000549747": 16,
+      "gas:candidate-vibid:2682000551519": 17,
+      "gas:candidate-vibid:2682000570751": 3,
+      "gas:candidate-vibid:2682000570220": 1,
+      "gas:candidate-vibid:2682000570300": 333,
+      "gas:candidate-vibid:2682000569650": 16,
+      "gas:candidate-vibid:2682000529925": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507737&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507737&type=464",
@@ -11312,15 +11312,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 5,
-      "Грекова Ольга Александровна": 5,
-      "Жидков Андрей Игоревич": 29,
-      "Копьев Василий Владимирович": 20,
-      "Мисанова Ирина Николаевна": 6,
-      "Панфилов Сергей Анатольевич": 4,
-      "Поляков Александр Алексеевич": 267,
-      "Попова Ирина Степановна": 18,
-      "Сусаков Константин Валерьевич": 35
+      "gas:candidate-vibid:2682000570241": 5,
+      "gas:candidate-vibid:2682000571442": 5,
+      "gas:candidate-vibid:2682000549747": 29,
+      "gas:candidate-vibid:2682000551519": 20,
+      "gas:candidate-vibid:2682000570751": 6,
+      "gas:candidate-vibid:2682000570220": 4,
+      "gas:candidate-vibid:2682000570300": 267,
+      "gas:candidate-vibid:2682000569650": 18,
+      "gas:candidate-vibid:2682000529925": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507737&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507737&type=464",
@@ -11371,15 +11371,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 16,
-      "Грекова Ольга Александровна": 2,
-      "Жидков Андрей Игоревич": 66,
-      "Копьев Василий Владимирович": 32,
-      "Мисанова Ирина Николаевна": 10,
-      "Панфилов Сергей Анатольевич": 2,
-      "Поляков Александр Алексеевич": 454,
-      "Попова Ирина Степановна": 45,
-      "Сусаков Константин Валерьевич": 65
+      "gas:candidate-vibid:2682000570241": 16,
+      "gas:candidate-vibid:2682000571442": 2,
+      "gas:candidate-vibid:2682000549747": 66,
+      "gas:candidate-vibid:2682000551519": 32,
+      "gas:candidate-vibid:2682000570751": 10,
+      "gas:candidate-vibid:2682000570220": 2,
+      "gas:candidate-vibid:2682000570300": 454,
+      "gas:candidate-vibid:2682000569650": 45,
+      "gas:candidate-vibid:2682000529925": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507737&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507737&type=464",
@@ -11430,15 +11430,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 21,
-      "Грекова Ольга Александровна": 7,
-      "Жидков Андрей Игоревич": 102,
-      "Копьев Василий Владимирович": 18,
-      "Мисанова Ирина Николаевна": 5,
-      "Панфилов Сергей Анатольевич": 8,
-      "Поляков Александр Алексеевич": 323,
-      "Попова Ирина Степановна": 53,
-      "Сусаков Константин Валерьевич": 38
+      "gas:candidate-vibid:2682000570241": 21,
+      "gas:candidate-vibid:2682000571442": 7,
+      "gas:candidate-vibid:2682000549747": 102,
+      "gas:candidate-vibid:2682000551519": 18,
+      "gas:candidate-vibid:2682000570751": 5,
+      "gas:candidate-vibid:2682000570220": 8,
+      "gas:candidate-vibid:2682000570300": 323,
+      "gas:candidate-vibid:2682000569650": 53,
+      "gas:candidate-vibid:2682000529925": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507737&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507737&type=464",
@@ -11489,15 +11489,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 1,
-      "Грекова Ольга Александровна": 1,
-      "Жидков Андрей Игоревич": 11,
-      "Копьев Василий Владимирович": 9,
-      "Мисанова Ирина Николаевна": 1,
-      "Панфилов Сергей Анатольевич": 4,
-      "Поляков Александр Алексеевич": 68,
-      "Попова Ирина Степановна": 6,
-      "Сусаков Константин Валерьевич": 6
+      "gas:candidate-vibid:2682000570241": 1,
+      "gas:candidate-vibid:2682000571442": 1,
+      "gas:candidate-vibid:2682000549747": 11,
+      "gas:candidate-vibid:2682000551519": 9,
+      "gas:candidate-vibid:2682000570751": 1,
+      "gas:candidate-vibid:2682000570220": 4,
+      "gas:candidate-vibid:2682000570300": 68,
+      "gas:candidate-vibid:2682000569650": 6,
+      "gas:candidate-vibid:2682000529925": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507737&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507737&type=464",
@@ -11548,15 +11548,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 5,
-      "Грекова Ольга Александровна": 3,
-      "Жидков Андрей Игоревич": 14,
-      "Копьев Василий Владимирович": 9,
-      "Мисанова Ирина Николаевна": 0,
-      "Панфилов Сергей Анатольевич": 0,
-      "Поляков Александр Алексеевич": 137,
-      "Попова Ирина Степановна": 5,
-      "Сусаков Константин Валерьевич": 0
+      "gas:candidate-vibid:2682000570241": 5,
+      "gas:candidate-vibid:2682000571442": 3,
+      "gas:candidate-vibid:2682000549747": 14,
+      "gas:candidate-vibid:2682000551519": 9,
+      "gas:candidate-vibid:2682000570751": 0,
+      "gas:candidate-vibid:2682000570220": 0,
+      "gas:candidate-vibid:2682000570300": 137,
+      "gas:candidate-vibid:2682000569650": 5,
+      "gas:candidate-vibid:2682000529925": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507737&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507737&type=464",
@@ -11607,15 +11607,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 18,
-      "Грекова Ольга Александровна": 5,
-      "Жидков Андрей Игоревич": 47,
-      "Копьев Василий Владимирович": 24,
-      "Мисанова Ирина Николаевна": 8,
-      "Панфилов Сергей Анатольевич": 5,
-      "Поляков Александр Алексеевич": 364,
-      "Попова Ирина Степановна": 32,
-      "Сусаков Константин Валерьевич": 40
+      "gas:candidate-vibid:2682000570241": 18,
+      "gas:candidate-vibid:2682000571442": 5,
+      "gas:candidate-vibid:2682000549747": 47,
+      "gas:candidate-vibid:2682000551519": 24,
+      "gas:candidate-vibid:2682000570751": 8,
+      "gas:candidate-vibid:2682000570220": 5,
+      "gas:candidate-vibid:2682000570300": 364,
+      "gas:candidate-vibid:2682000569650": 32,
+      "gas:candidate-vibid:2682000529925": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507737&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507737&type=464",
@@ -11666,15 +11666,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 9,
-      "Грекова Ольга Александровна": 1,
-      "Жидков Андрей Игоревич": 15,
-      "Копьев Василий Владимирович": 6,
-      "Мисанова Ирина Николаевна": 4,
-      "Панфилов Сергей Анатольевич": 1,
-      "Поляков Александр Алексеевич": 186,
-      "Попова Ирина Степановна": 9,
-      "Сусаков Константин Валерьевич": 7
+      "gas:candidate-vibid:2682000570241": 9,
+      "gas:candidate-vibid:2682000571442": 1,
+      "gas:candidate-vibid:2682000549747": 15,
+      "gas:candidate-vibid:2682000551519": 6,
+      "gas:candidate-vibid:2682000570751": 4,
+      "gas:candidate-vibid:2682000570220": 1,
+      "gas:candidate-vibid:2682000570300": 186,
+      "gas:candidate-vibid:2682000569650": 9,
+      "gas:candidate-vibid:2682000529925": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507737&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507737&type=464",
@@ -11725,15 +11725,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 3,
-      "Грекова Ольга Александровна": 1,
-      "Жидков Андрей Игоревич": 12,
-      "Копьев Василий Владимирович": 8,
-      "Мисанова Ирина Николаевна": 6,
-      "Панфилов Сергей Анатольевич": 1,
-      "Поляков Александр Алексеевич": 176,
-      "Попова Ирина Степановна": 9,
-      "Сусаков Константин Валерьевич": 22
+      "gas:candidate-vibid:2682000570241": 3,
+      "gas:candidate-vibid:2682000571442": 1,
+      "gas:candidate-vibid:2682000549747": 12,
+      "gas:candidate-vibid:2682000551519": 8,
+      "gas:candidate-vibid:2682000570751": 6,
+      "gas:candidate-vibid:2682000570220": 1,
+      "gas:candidate-vibid:2682000570300": 176,
+      "gas:candidate-vibid:2682000569650": 9,
+      "gas:candidate-vibid:2682000529925": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507737&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507737&type=464",
@@ -11784,15 +11784,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 10,
-      "Грекова Ольга Александровна": 3,
-      "Жидков Андрей Игоревич": 56,
-      "Копьев Василий Владимирович": 14,
-      "Мисанова Ирина Николаевна": 0,
-      "Панфилов Сергей Анатольевич": 0,
-      "Поляков Александр Алексеевич": 310,
-      "Попова Ирина Степановна": 9,
-      "Сусаков Константин Валерьевич": 24
+      "gas:candidate-vibid:2682000570241": 10,
+      "gas:candidate-vibid:2682000571442": 3,
+      "gas:candidate-vibid:2682000549747": 56,
+      "gas:candidate-vibid:2682000551519": 14,
+      "gas:candidate-vibid:2682000570751": 0,
+      "gas:candidate-vibid:2682000570220": 0,
+      "gas:candidate-vibid:2682000570300": 310,
+      "gas:candidate-vibid:2682000569650": 9,
+      "gas:candidate-vibid:2682000529925": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507737&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507737&type=464",
@@ -11843,15 +11843,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 5,
-      "Грекова Ольга Александровна": 3,
-      "Жидков Андрей Игоревич": 35,
-      "Копьев Василий Владимирович": 12,
-      "Мисанова Ирина Николаевна": 2,
-      "Панфилов Сергей Анатольевич": 1,
-      "Поляков Александр Алексеевич": 146,
-      "Попова Ирина Степановна": 13,
-      "Сусаков Константин Валерьевич": 16
+      "gas:candidate-vibid:2682000570241": 5,
+      "gas:candidate-vibid:2682000571442": 3,
+      "gas:candidate-vibid:2682000549747": 35,
+      "gas:candidate-vibid:2682000551519": 12,
+      "gas:candidate-vibid:2682000570751": 2,
+      "gas:candidate-vibid:2682000570220": 1,
+      "gas:candidate-vibid:2682000570300": 146,
+      "gas:candidate-vibid:2682000569650": 13,
+      "gas:candidate-vibid:2682000529925": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507737&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507737&type=464",
@@ -11902,15 +11902,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 7,
-      "Грекова Ольга Александровна": 4,
-      "Жидков Андрей Игоревич": 69,
-      "Копьев Василий Владимирович": 4,
-      "Мисанова Ирина Николаевна": 3,
-      "Панфилов Сергей Анатольевич": 0,
-      "Поляков Александр Алексеевич": 252,
-      "Попова Ирина Степановна": 30,
-      "Сусаков Константин Валерьевич": 13
+      "gas:candidate-vibid:2682000570241": 7,
+      "gas:candidate-vibid:2682000571442": 4,
+      "gas:candidate-vibid:2682000549747": 69,
+      "gas:candidate-vibid:2682000551519": 4,
+      "gas:candidate-vibid:2682000570751": 3,
+      "gas:candidate-vibid:2682000570220": 0,
+      "gas:candidate-vibid:2682000570300": 252,
+      "gas:candidate-vibid:2682000569650": 30,
+      "gas:candidate-vibid:2682000529925": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507737&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507737&type=464",
@@ -11961,15 +11961,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 9,
-      "Грекова Ольга Александровна": 3,
-      "Жидков Андрей Игоревич": 36,
-      "Копьев Василий Владимирович": 20,
-      "Мисанова Ирина Николаевна": 3,
-      "Панфилов Сергей Анатольевич": 7,
-      "Поляков Александр Алексеевич": 321,
-      "Попова Ирина Степановна": 18,
-      "Сусаков Константин Валерьевич": 35
+      "gas:candidate-vibid:2682000570241": 9,
+      "gas:candidate-vibid:2682000571442": 3,
+      "gas:candidate-vibid:2682000549747": 36,
+      "gas:candidate-vibid:2682000551519": 20,
+      "gas:candidate-vibid:2682000570751": 3,
+      "gas:candidate-vibid:2682000570220": 7,
+      "gas:candidate-vibid:2682000570300": 321,
+      "gas:candidate-vibid:2682000569650": 18,
+      "gas:candidate-vibid:2682000529925": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507737&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507737&type=464",
@@ -12020,15 +12020,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 8,
-      "Грекова Ольга Александровна": 4,
-      "Жидков Андрей Игоревич": 25,
-      "Копьев Василий Владимирович": 5,
-      "Мисанова Ирина Николаевна": 2,
-      "Панфилов Сергей Анатольевич": 1,
-      "Поляков Александр Алексеевич": 231,
-      "Попова Ирина Степановна": 23,
-      "Сусаков Константин Валерьевич": 10
+      "gas:candidate-vibid:2682000570241": 8,
+      "gas:candidate-vibid:2682000571442": 4,
+      "gas:candidate-vibid:2682000549747": 25,
+      "gas:candidate-vibid:2682000551519": 5,
+      "gas:candidate-vibid:2682000570751": 2,
+      "gas:candidate-vibid:2682000570220": 1,
+      "gas:candidate-vibid:2682000570300": 231,
+      "gas:candidate-vibid:2682000569650": 23,
+      "gas:candidate-vibid:2682000529925": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507737&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507737&type=464",
@@ -12079,15 +12079,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 5,
-      "Грекова Ольга Александровна": 3,
-      "Жидков Андрей Игоревич": 25,
-      "Копьев Василий Владимирович": 6,
-      "Мисанова Ирина Николаевна": 2,
-      "Панфилов Сергей Анатольевич": 5,
-      "Поляков Александр Алексеевич": 198,
-      "Попова Ирина Степановна": 13,
-      "Сусаков Константин Валерьевич": 20
+      "gas:candidate-vibid:2682000570241": 5,
+      "gas:candidate-vibid:2682000571442": 3,
+      "gas:candidate-vibid:2682000549747": 25,
+      "gas:candidate-vibid:2682000551519": 6,
+      "gas:candidate-vibid:2682000570751": 2,
+      "gas:candidate-vibid:2682000570220": 5,
+      "gas:candidate-vibid:2682000570300": 198,
+      "gas:candidate-vibid:2682000569650": 13,
+      "gas:candidate-vibid:2682000529925": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507737&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507737&type=464",
@@ -12138,15 +12138,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 9,
-      "Грекова Ольга Александровна": 1,
-      "Жидков Андрей Игоревич": 18,
-      "Копьев Василий Владимирович": 10,
-      "Мисанова Ирина Николаевна": 4,
-      "Панфилов Сергей Анатольевич": 2,
-      "Поляков Александр Алексеевич": 173,
-      "Попова Ирина Степановна": 9,
-      "Сусаков Константин Валерьевич": 12
+      "gas:candidate-vibid:2682000570241": 9,
+      "gas:candidate-vibid:2682000571442": 1,
+      "gas:candidate-vibid:2682000549747": 18,
+      "gas:candidate-vibid:2682000551519": 10,
+      "gas:candidate-vibid:2682000570751": 4,
+      "gas:candidate-vibid:2682000570220": 2,
+      "gas:candidate-vibid:2682000570300": 173,
+      "gas:candidate-vibid:2682000569650": 9,
+      "gas:candidate-vibid:2682000529925": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507737&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507737&type=464",
@@ -12197,15 +12197,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 3,
-      "Грекова Ольга Александровна": 2,
-      "Жидков Андрей Игоревич": 7,
-      "Копьев Василий Владимирович": 2,
-      "Мисанова Ирина Николаевна": 0,
-      "Панфилов Сергей Анатольевич": 3,
-      "Поляков Александр Алексеевич": 243,
-      "Попова Ирина Степановна": 7,
-      "Сусаков Константин Валерьевич": 4
+      "gas:candidate-vibid:2682000570241": 3,
+      "gas:candidate-vibid:2682000571442": 2,
+      "gas:candidate-vibid:2682000549747": 7,
+      "gas:candidate-vibid:2682000551519": 2,
+      "gas:candidate-vibid:2682000570751": 0,
+      "gas:candidate-vibid:2682000570220": 3,
+      "gas:candidate-vibid:2682000570300": 243,
+      "gas:candidate-vibid:2682000569650": 7,
+      "gas:candidate-vibid:2682000529925": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507737&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507737&type=464",
@@ -12256,15 +12256,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 5,
-      "Грекова Ольга Александровна": 3,
-      "Жидков Андрей Игоревич": 38,
-      "Копьев Василий Владимирович": 12,
-      "Мисанова Ирина Николаевна": 1,
-      "Панфилов Сергей Анатольевич": 5,
-      "Поляков Александр Алексеевич": 152,
-      "Попова Ирина Степановна": 19,
-      "Сусаков Константин Валерьевич": 28
+      "gas:candidate-vibid:2682000570241": 5,
+      "gas:candidate-vibid:2682000571442": 3,
+      "gas:candidate-vibid:2682000549747": 38,
+      "gas:candidate-vibid:2682000551519": 12,
+      "gas:candidate-vibid:2682000570751": 1,
+      "gas:candidate-vibid:2682000570220": 5,
+      "gas:candidate-vibid:2682000570300": 152,
+      "gas:candidate-vibid:2682000569650": 19,
+      "gas:candidate-vibid:2682000529925": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507737&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507737&type=464",
@@ -12315,15 +12315,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 5,
-      "Грекова Ольга Александровна": 1,
-      "Жидков Андрей Игоревич": 19,
-      "Копьев Василий Владимирович": 4,
-      "Мисанова Ирина Николаевна": 3,
-      "Панфилов Сергей Анатольевич": 4,
-      "Поляков Александр Алексеевич": 155,
-      "Попова Ирина Степановна": 7,
-      "Сусаков Константин Валерьевич": 9
+      "gas:candidate-vibid:2682000570241": 5,
+      "gas:candidate-vibid:2682000571442": 1,
+      "gas:candidate-vibid:2682000549747": 19,
+      "gas:candidate-vibid:2682000551519": 4,
+      "gas:candidate-vibid:2682000570751": 3,
+      "gas:candidate-vibid:2682000570220": 4,
+      "gas:candidate-vibid:2682000570300": 155,
+      "gas:candidate-vibid:2682000569650": 7,
+      "gas:candidate-vibid:2682000529925": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507737&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507737&type=464",
@@ -12374,15 +12374,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 1,
-      "Грекова Ольга Александровна": 0,
-      "Жидков Андрей Игоревич": 5,
-      "Копьев Василий Владимирович": 2,
-      "Мисанова Ирина Николаевна": 2,
-      "Панфилов Сергей Анатольевич": 4,
-      "Поляков Александр Алексеевич": 110,
-      "Попова Ирина Степановна": 0,
-      "Сусаков Константин Валерьевич": 4
+      "gas:candidate-vibid:2682000570241": 1,
+      "gas:candidate-vibid:2682000571442": 0,
+      "gas:candidate-vibid:2682000549747": 5,
+      "gas:candidate-vibid:2682000551519": 2,
+      "gas:candidate-vibid:2682000570751": 2,
+      "gas:candidate-vibid:2682000570220": 4,
+      "gas:candidate-vibid:2682000570300": 110,
+      "gas:candidate-vibid:2682000569650": 0,
+      "gas:candidate-vibid:2682000529925": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507737&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507737&type=464",
@@ -12433,15 +12433,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 23,
-      "Грекова Ольга Александровна": 4,
-      "Жидков Андрей Игоревич": 101,
-      "Копьев Василий Владимирович": 15,
-      "Мисанова Ирина Николаевна": 4,
-      "Панфилов Сергей Анатольевич": 9,
-      "Поляков Александр Алексеевич": 515,
-      "Попова Ирина Степановна": 43,
-      "Сусаков Константин Валерьевич": 48
+      "gas:candidate-vibid:2682000570241": 23,
+      "gas:candidate-vibid:2682000571442": 4,
+      "gas:candidate-vibid:2682000549747": 101,
+      "gas:candidate-vibid:2682000551519": 15,
+      "gas:candidate-vibid:2682000570751": 4,
+      "gas:candidate-vibid:2682000570220": 9,
+      "gas:candidate-vibid:2682000570300": 515,
+      "gas:candidate-vibid:2682000569650": 43,
+      "gas:candidate-vibid:2682000529925": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507737&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507737&type=464",
@@ -12492,15 +12492,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 12,
-      "Грекова Ольга Александровна": 2,
-      "Жидков Андрей Игоревич": 85,
-      "Копьев Василий Владимирович": 25,
-      "Мисанова Ирина Николаевна": 11,
-      "Панфилов Сергей Анатольевич": 12,
-      "Поляков Александр Алексеевич": 155,
-      "Попова Ирина Степановна": 40,
-      "Сусаков Константин Валерьевич": 46
+      "gas:candidate-vibid:2682000570241": 12,
+      "gas:candidate-vibid:2682000571442": 2,
+      "gas:candidate-vibid:2682000549747": 85,
+      "gas:candidate-vibid:2682000551519": 25,
+      "gas:candidate-vibid:2682000570751": 11,
+      "gas:candidate-vibid:2682000570220": 12,
+      "gas:candidate-vibid:2682000570300": 155,
+      "gas:candidate-vibid:2682000569650": 40,
+      "gas:candidate-vibid:2682000529925": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507737&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507737&type=464",
@@ -12551,15 +12551,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 5,
-      "Грекова Ольга Александровна": 2,
-      "Жидков Андрей Игоревич": 27,
-      "Копьев Василий Владимирович": 8,
-      "Мисанова Ирина Николаевна": 3,
-      "Панфилов Сергей Анатольевич": 3,
-      "Поляков Александр Алексеевич": 373,
-      "Попова Ирина Степановна": 21,
-      "Сусаков Константин Валерьевич": 27
+      "gas:candidate-vibid:2682000570241": 5,
+      "gas:candidate-vibid:2682000571442": 2,
+      "gas:candidate-vibid:2682000549747": 27,
+      "gas:candidate-vibid:2682000551519": 8,
+      "gas:candidate-vibid:2682000570751": 3,
+      "gas:candidate-vibid:2682000570220": 3,
+      "gas:candidate-vibid:2682000570300": 373,
+      "gas:candidate-vibid:2682000569650": 21,
+      "gas:candidate-vibid:2682000529925": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507737&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507737&type=464",
@@ -12610,15 +12610,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 34,
-      "Грекова Ольга Александровна": 10,
-      "Жидков Андрей Игоревич": 63,
-      "Копьев Василий Владимирович": 24,
-      "Мисанова Ирина Николаевна": 14,
-      "Панфилов Сергей Анатольевич": 11,
-      "Поляков Александр Алексеевич": 255,
-      "Попова Ирина Степановна": 41,
-      "Сусаков Константин Валерьевич": 47
+      "gas:candidate-vibid:2682000570241": 34,
+      "gas:candidate-vibid:2682000571442": 10,
+      "gas:candidate-vibid:2682000549747": 63,
+      "gas:candidate-vibid:2682000551519": 24,
+      "gas:candidate-vibid:2682000570751": 14,
+      "gas:candidate-vibid:2682000570220": 11,
+      "gas:candidate-vibid:2682000570300": 255,
+      "gas:candidate-vibid:2682000569650": 41,
+      "gas:candidate-vibid:2682000529925": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507737&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507737&type=464",
@@ -12669,15 +12669,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 12,
-      "Грекова Ольга Александровна": 5,
-      "Жидков Андрей Игоревич": 49,
-      "Копьев Василий Владимирович": 21,
-      "Мисанова Ирина Николаевна": 7,
-      "Панфилов Сергей Анатольевич": 6,
-      "Поляков Александр Алексеевич": 560,
-      "Попова Ирина Степановна": 29,
-      "Сусаков Константин Валерьевич": 56
+      "gas:candidate-vibid:2682000570241": 12,
+      "gas:candidate-vibid:2682000571442": 5,
+      "gas:candidate-vibid:2682000549747": 49,
+      "gas:candidate-vibid:2682000551519": 21,
+      "gas:candidate-vibid:2682000570751": 7,
+      "gas:candidate-vibid:2682000570220": 6,
+      "gas:candidate-vibid:2682000570300": 560,
+      "gas:candidate-vibid:2682000569650": 29,
+      "gas:candidate-vibid:2682000529925": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507737&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507737&type=464",
@@ -12728,15 +12728,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 9,
-      "Грекова Ольга Александровна": 3,
-      "Жидков Андрей Игоревич": 13,
-      "Копьев Василий Владимирович": 7,
-      "Мисанова Ирина Николаевна": 2,
-      "Панфилов Сергей Анатольевич": 4,
-      "Поляков Александр Алексеевич": 177,
-      "Попова Ирина Степановна": 14,
-      "Сусаков Константин Валерьевич": 18
+      "gas:candidate-vibid:2682000570241": 9,
+      "gas:candidate-vibid:2682000571442": 3,
+      "gas:candidate-vibid:2682000549747": 13,
+      "gas:candidate-vibid:2682000551519": 7,
+      "gas:candidate-vibid:2682000570751": 2,
+      "gas:candidate-vibid:2682000570220": 4,
+      "gas:candidate-vibid:2682000570300": 177,
+      "gas:candidate-vibid:2682000569650": 14,
+      "gas:candidate-vibid:2682000529925": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507737&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507737&type=464",
@@ -12787,15 +12787,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 9,
-      "Грекова Ольга Александровна": 2,
-      "Жидков Андрей Игоревич": 15,
-      "Копьев Василий Владимирович": 6,
-      "Мисанова Ирина Николаевна": 6,
-      "Панфилов Сергей Анатольевич": 6,
-      "Поляков Александр Алексеевич": 120,
-      "Попова Ирина Степановна": 11,
-      "Сусаков Константин Валерьевич": 17
+      "gas:candidate-vibid:2682000570241": 9,
+      "gas:candidate-vibid:2682000571442": 2,
+      "gas:candidate-vibid:2682000549747": 15,
+      "gas:candidate-vibid:2682000551519": 6,
+      "gas:candidate-vibid:2682000570751": 6,
+      "gas:candidate-vibid:2682000570220": 6,
+      "gas:candidate-vibid:2682000570300": 120,
+      "gas:candidate-vibid:2682000569650": 11,
+      "gas:candidate-vibid:2682000529925": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507737&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507737&type=464",
@@ -12846,15 +12846,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 10,
-      "Грекова Ольга Александровна": 4,
-      "Жидков Андрей Игоревич": 17,
-      "Копьев Василий Владимирович": 9,
-      "Мисанова Ирина Николаевна": 2,
-      "Панфилов Сергей Анатольевич": 2,
-      "Поляков Александр Алексеевич": 153,
-      "Попова Ирина Степановна": 7,
-      "Сусаков Константин Валерьевич": 20
+      "gas:candidate-vibid:2682000570241": 10,
+      "gas:candidate-vibid:2682000571442": 4,
+      "gas:candidate-vibid:2682000549747": 17,
+      "gas:candidate-vibid:2682000551519": 9,
+      "gas:candidate-vibid:2682000570751": 2,
+      "gas:candidate-vibid:2682000570220": 2,
+      "gas:candidate-vibid:2682000570300": 153,
+      "gas:candidate-vibid:2682000569650": 7,
+      "gas:candidate-vibid:2682000529925": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507737&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507737&type=464",
@@ -12905,15 +12905,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 15,
-      "Грекова Ольга Александровна": 6,
-      "Жидков Андрей Игоревич": 78,
-      "Копьев Василий Владимирович": 14,
-      "Мисанова Ирина Николаевна": 8,
-      "Панфилов Сергей Анатольевич": 14,
-      "Поляков Александр Алексеевич": 376,
-      "Попова Ирина Степановна": 143,
-      "Сусаков Константин Валерьевич": 48
+      "gas:candidate-vibid:2682000570241": 15,
+      "gas:candidate-vibid:2682000571442": 6,
+      "gas:candidate-vibid:2682000549747": 78,
+      "gas:candidate-vibid:2682000551519": 14,
+      "gas:candidate-vibid:2682000570751": 8,
+      "gas:candidate-vibid:2682000570220": 14,
+      "gas:candidate-vibid:2682000570300": 376,
+      "gas:candidate-vibid:2682000569650": 143,
+      "gas:candidate-vibid:2682000529925": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507740&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507740&type=464",
@@ -12964,15 +12964,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 16,
-      "Грекова Ольга Александровна": 10,
-      "Жидков Андрей Игоревич": 105,
-      "Копьев Василий Владимирович": 22,
-      "Мисанова Ирина Николаевна": 5,
-      "Панфилов Сергей Анатольевич": 12,
-      "Поляков Александр Алексеевич": 421,
-      "Попова Ирина Степановна": 254,
-      "Сусаков Константин Валерьевич": 80
+      "gas:candidate-vibid:2682000570241": 16,
+      "gas:candidate-vibid:2682000571442": 10,
+      "gas:candidate-vibid:2682000549747": 105,
+      "gas:candidate-vibid:2682000551519": 22,
+      "gas:candidate-vibid:2682000570751": 5,
+      "gas:candidate-vibid:2682000570220": 12,
+      "gas:candidate-vibid:2682000570300": 421,
+      "gas:candidate-vibid:2682000569650": 254,
+      "gas:candidate-vibid:2682000529925": 80
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507740&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507740&type=464",
@@ -13023,15 +13023,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 10,
-      "Грекова Ольга Александровна": 9,
-      "Жидков Андрей Игоревич": 46,
-      "Копьев Василий Владимирович": 17,
-      "Мисанова Ирина Николаевна": 2,
-      "Панфилов Сергей Анатольевич": 7,
-      "Поляков Александр Алексеевич": 538,
-      "Попова Ирина Степановна": 85,
-      "Сусаков Константин Валерьевич": 32
+      "gas:candidate-vibid:2682000570241": 10,
+      "gas:candidate-vibid:2682000571442": 9,
+      "gas:candidate-vibid:2682000549747": 46,
+      "gas:candidate-vibid:2682000551519": 17,
+      "gas:candidate-vibid:2682000570751": 2,
+      "gas:candidate-vibid:2682000570220": 7,
+      "gas:candidate-vibid:2682000570300": 538,
+      "gas:candidate-vibid:2682000569650": 85,
+      "gas:candidate-vibid:2682000529925": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507740&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507740&type=464",
@@ -13082,15 +13082,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 2,
-      "Грекова Ольга Александровна": 0,
-      "Жидков Андрей Игоревич": 35,
-      "Копьев Василий Владимирович": 12,
-      "Мисанова Ирина Николаевна": 2,
-      "Панфилов Сергей Анатольевич": 5,
-      "Поляков Александр Алексеевич": 99,
-      "Попова Ирина Степановна": 35,
-      "Сусаков Константин Валерьевич": 12
+      "gas:candidate-vibid:2682000570241": 2,
+      "gas:candidate-vibid:2682000571442": 0,
+      "gas:candidate-vibid:2682000549747": 35,
+      "gas:candidate-vibid:2682000551519": 12,
+      "gas:candidate-vibid:2682000570751": 2,
+      "gas:candidate-vibid:2682000570220": 5,
+      "gas:candidate-vibid:2682000570300": 99,
+      "gas:candidate-vibid:2682000569650": 35,
+      "gas:candidate-vibid:2682000529925": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507740&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507740&type=464",
@@ -13141,15 +13141,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 10,
-      "Грекова Ольга Александровна": 8,
-      "Жидков Андрей Игоревич": 28,
-      "Копьев Василий Владимирович": 11,
-      "Мисанова Ирина Николаевна": 4,
-      "Панфилов Сергей Анатольевич": 6,
-      "Поляков Александр Алексеевич": 271,
-      "Попова Ирина Степановна": 78,
-      "Сусаков Константин Валерьевич": 29
+      "gas:candidate-vibid:2682000570241": 10,
+      "gas:candidate-vibid:2682000571442": 8,
+      "gas:candidate-vibid:2682000549747": 28,
+      "gas:candidate-vibid:2682000551519": 11,
+      "gas:candidate-vibid:2682000570751": 4,
+      "gas:candidate-vibid:2682000570220": 6,
+      "gas:candidate-vibid:2682000570300": 271,
+      "gas:candidate-vibid:2682000569650": 78,
+      "gas:candidate-vibid:2682000529925": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507740&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507740&type=464",
@@ -13200,15 +13200,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 5,
-      "Грекова Ольга Александровна": 3,
-      "Жидков Андрей Игоревич": 17,
-      "Копьев Василий Владимирович": 5,
-      "Мисанова Ирина Николаевна": 0,
-      "Панфилов Сергей Анатольевич": 1,
-      "Поляков Александр Алексеевич": 233,
-      "Попова Ирина Степановна": 40,
-      "Сусаков Константин Валерьевич": 14
+      "gas:candidate-vibid:2682000570241": 5,
+      "gas:candidate-vibid:2682000571442": 3,
+      "gas:candidate-vibid:2682000549747": 17,
+      "gas:candidate-vibid:2682000551519": 5,
+      "gas:candidate-vibid:2682000570751": 0,
+      "gas:candidate-vibid:2682000570220": 1,
+      "gas:candidate-vibid:2682000570300": 233,
+      "gas:candidate-vibid:2682000569650": 40,
+      "gas:candidate-vibid:2682000529925": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507740&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507740&type=464",
@@ -13259,15 +13259,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 1,
-      "Грекова Ольга Александровна": 5,
-      "Жидков Андрей Игоревич": 5,
-      "Копьев Василий Владимирович": 4,
-      "Мисанова Ирина Николаевна": 0,
-      "Панфилов Сергей Анатольевич": 2,
-      "Поляков Александр Алексеевич": 147,
-      "Попова Ирина Степановна": 19,
-      "Сусаков Константин Валерьевич": 5
+      "gas:candidate-vibid:2682000570241": 1,
+      "gas:candidate-vibid:2682000571442": 5,
+      "gas:candidate-vibid:2682000549747": 5,
+      "gas:candidate-vibid:2682000551519": 4,
+      "gas:candidate-vibid:2682000570751": 0,
+      "gas:candidate-vibid:2682000570220": 2,
+      "gas:candidate-vibid:2682000570300": 147,
+      "gas:candidate-vibid:2682000569650": 19,
+      "gas:candidate-vibid:2682000529925": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507740&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507740&type=464",
@@ -13318,15 +13318,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 2,
-      "Грекова Ольга Александровна": 2,
-      "Жидков Андрей Игоревич": 15,
-      "Копьев Василий Владимирович": 7,
-      "Мисанова Ирина Николаевна": 1,
-      "Панфилов Сергей Анатольевич": 3,
-      "Поляков Александр Алексеевич": 137,
-      "Попова Ирина Степановна": 24,
-      "Сусаков Константин Валерьевич": 8
+      "gas:candidate-vibid:2682000570241": 2,
+      "gas:candidate-vibid:2682000571442": 2,
+      "gas:candidate-vibid:2682000549747": 15,
+      "gas:candidate-vibid:2682000551519": 7,
+      "gas:candidate-vibid:2682000570751": 1,
+      "gas:candidate-vibid:2682000570220": 3,
+      "gas:candidate-vibid:2682000570300": 137,
+      "gas:candidate-vibid:2682000569650": 24,
+      "gas:candidate-vibid:2682000529925": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507740&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507740&type=464",
@@ -13377,15 +13377,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 0,
-      "Грекова Ольга Александровна": 2,
-      "Жидков Андрей Игоревич": 12,
-      "Копьев Василий Владимирович": 4,
-      "Мисанова Ирина Николаевна": 1,
-      "Панфилов Сергей Анатольевич": 2,
-      "Поляков Александр Алексеевич": 101,
-      "Попова Ирина Степановна": 18,
-      "Сусаков Константин Валерьевич": 4
+      "gas:candidate-vibid:2682000570241": 0,
+      "gas:candidate-vibid:2682000571442": 2,
+      "gas:candidate-vibid:2682000549747": 12,
+      "gas:candidate-vibid:2682000551519": 4,
+      "gas:candidate-vibid:2682000570751": 1,
+      "gas:candidate-vibid:2682000570220": 2,
+      "gas:candidate-vibid:2682000570300": 101,
+      "gas:candidate-vibid:2682000569650": 18,
+      "gas:candidate-vibid:2682000529925": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507740&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507740&type=464",
@@ -13436,15 +13436,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 6,
-      "Грекова Ольга Александровна": 2,
-      "Жидков Андрей Игоревич": 29,
-      "Копьев Василий Владимирович": 10,
-      "Мисанова Ирина Николаевна": 5,
-      "Панфилов Сергей Анатольевич": 6,
-      "Поляков Александр Алексеевич": 237,
-      "Попова Ирина Степановна": 37,
-      "Сусаков Константин Валерьевич": 22
+      "gas:candidate-vibid:2682000570241": 6,
+      "gas:candidate-vibid:2682000571442": 2,
+      "gas:candidate-vibid:2682000549747": 29,
+      "gas:candidate-vibid:2682000551519": 10,
+      "gas:candidate-vibid:2682000570751": 5,
+      "gas:candidate-vibid:2682000570220": 6,
+      "gas:candidate-vibid:2682000570300": 237,
+      "gas:candidate-vibid:2682000569650": 37,
+      "gas:candidate-vibid:2682000529925": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507740&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507740&type=464",
@@ -13495,15 +13495,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 0,
-      "Грекова Ольга Александровна": 0,
-      "Жидков Андрей Игоревич": 12,
-      "Копьев Василий Владимирович": 6,
-      "Мисанова Ирина Николаевна": 1,
-      "Панфилов Сергей Анатольевич": 1,
-      "Поляков Александр Алексеевич": 138,
-      "Попова Ирина Степановна": 18,
-      "Сусаков Константин Валерьевич": 7
+      "gas:candidate-vibid:2682000570241": 0,
+      "gas:candidate-vibid:2682000571442": 0,
+      "gas:candidate-vibid:2682000549747": 12,
+      "gas:candidate-vibid:2682000551519": 6,
+      "gas:candidate-vibid:2682000570751": 1,
+      "gas:candidate-vibid:2682000570220": 1,
+      "gas:candidate-vibid:2682000570300": 138,
+      "gas:candidate-vibid:2682000569650": 18,
+      "gas:candidate-vibid:2682000529925": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507740&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507740&type=464",
@@ -13554,15 +13554,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 2,
-      "Грекова Ольга Александровна": 1,
-      "Жидков Андрей Игоревич": 7,
-      "Копьев Василий Владимирович": 3,
-      "Мисанова Ирина Николаевна": 0,
-      "Панфилов Сергей Анатольевич": 1,
-      "Поляков Александр Алексеевич": 77,
-      "Попова Ирина Степановна": 28,
-      "Сусаков Константин Валерьевич": 2
+      "gas:candidate-vibid:2682000570241": 2,
+      "gas:candidate-vibid:2682000571442": 1,
+      "gas:candidate-vibid:2682000549747": 7,
+      "gas:candidate-vibid:2682000551519": 3,
+      "gas:candidate-vibid:2682000570751": 0,
+      "gas:candidate-vibid:2682000570220": 1,
+      "gas:candidate-vibid:2682000570300": 77,
+      "gas:candidate-vibid:2682000569650": 28,
+      "gas:candidate-vibid:2682000529925": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507740&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507740&type=464",
@@ -13613,15 +13613,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 6,
-      "Грекова Ольга Александровна": 0,
-      "Жидков Андрей Игоревич": 17,
-      "Копьев Василий Владимирович": 13,
-      "Мисанова Ирина Николаевна": 3,
-      "Панфилов Сергей Анатольевич": 11,
-      "Поляков Александр Алексеевич": 119,
-      "Попова Ирина Степановна": 30,
-      "Сусаков Константин Валерьевич": 10
+      "gas:candidate-vibid:2682000570241": 6,
+      "gas:candidate-vibid:2682000571442": 0,
+      "gas:candidate-vibid:2682000549747": 17,
+      "gas:candidate-vibid:2682000551519": 13,
+      "gas:candidate-vibid:2682000570751": 3,
+      "gas:candidate-vibid:2682000570220": 11,
+      "gas:candidate-vibid:2682000570300": 119,
+      "gas:candidate-vibid:2682000569650": 30,
+      "gas:candidate-vibid:2682000529925": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507740&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507740&type=464",
@@ -13672,15 +13672,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 2,
-      "Грекова Ольга Александровна": 4,
-      "Жидков Андрей Игоревич": 8,
-      "Копьев Василий Владимирович": 3,
-      "Мисанова Ирина Николаевна": 0,
-      "Панфилов Сергей Анатольевич": 0,
-      "Поляков Александр Алексеевич": 111,
-      "Попова Ирина Степановна": 20,
-      "Сусаков Константин Валерьевич": 7
+      "gas:candidate-vibid:2682000570241": 2,
+      "gas:candidate-vibid:2682000571442": 4,
+      "gas:candidate-vibid:2682000549747": 8,
+      "gas:candidate-vibid:2682000551519": 3,
+      "gas:candidate-vibid:2682000570751": 0,
+      "gas:candidate-vibid:2682000570220": 0,
+      "gas:candidate-vibid:2682000570300": 111,
+      "gas:candidate-vibid:2682000569650": 20,
+      "gas:candidate-vibid:2682000529925": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507740&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507740&type=464",
@@ -13731,15 +13731,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 2,
-      "Грекова Ольга Александровна": 3,
-      "Жидков Андрей Игоревич": 2,
-      "Копьев Василий Владимирович": 2,
-      "Мисанова Ирина Николаевна": 2,
-      "Панфилов Сергей Анатольевич": 7,
-      "Поляков Александр Алексеевич": 115,
-      "Попова Ирина Степановна": 11,
-      "Сусаков Константин Валерьевич": 3
+      "gas:candidate-vibid:2682000570241": 2,
+      "gas:candidate-vibid:2682000571442": 3,
+      "gas:candidate-vibid:2682000549747": 2,
+      "gas:candidate-vibid:2682000551519": 2,
+      "gas:candidate-vibid:2682000570751": 2,
+      "gas:candidate-vibid:2682000570220": 7,
+      "gas:candidate-vibid:2682000570300": 115,
+      "gas:candidate-vibid:2682000569650": 11,
+      "gas:candidate-vibid:2682000529925": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507740&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507740&type=464",
@@ -13790,15 +13790,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 4,
-      "Грекова Ольга Александровна": 0,
-      "Жидков Андрей Игоревич": 4,
-      "Копьев Василий Владимирович": 4,
-      "Мисанова Ирина Николаевна": 0,
-      "Панфилов Сергей Анатольевич": 6,
-      "Поляков Александр Алексеевич": 125,
-      "Попова Ирина Степановна": 32,
-      "Сусаков Константин Валерьевич": 4
+      "gas:candidate-vibid:2682000570241": 4,
+      "gas:candidate-vibid:2682000571442": 0,
+      "gas:candidate-vibid:2682000549747": 4,
+      "gas:candidate-vibid:2682000551519": 4,
+      "gas:candidate-vibid:2682000570751": 0,
+      "gas:candidate-vibid:2682000570220": 6,
+      "gas:candidate-vibid:2682000570300": 125,
+      "gas:candidate-vibid:2682000569650": 32,
+      "gas:candidate-vibid:2682000529925": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507740&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507740&type=464",
@@ -13849,15 +13849,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 1,
-      "Грекова Ольга Александровна": 2,
-      "Жидков Андрей Игоревич": 13,
-      "Копьев Василий Владимирович": 5,
-      "Мисанова Ирина Николаевна": 2,
-      "Панфилов Сергей Анатольевич": 4,
-      "Поляков Александр Алексеевич": 158,
-      "Попова Ирина Степановна": 24,
-      "Сусаков Константин Валерьевич": 12
+      "gas:candidate-vibid:2682000570241": 1,
+      "gas:candidate-vibid:2682000571442": 2,
+      "gas:candidate-vibid:2682000549747": 13,
+      "gas:candidate-vibid:2682000551519": 5,
+      "gas:candidate-vibid:2682000570751": 2,
+      "gas:candidate-vibid:2682000570220": 4,
+      "gas:candidate-vibid:2682000570300": 158,
+      "gas:candidate-vibid:2682000569650": 24,
+      "gas:candidate-vibid:2682000529925": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507740&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507740&type=464",
@@ -13908,15 +13908,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 1,
-      "Грекова Ольга Александровна": 0,
-      "Жидков Андрей Игоревич": 3,
-      "Копьев Василий Владимирович": 11,
-      "Мисанова Ирина Николаевна": 1,
-      "Панфилов Сергей Анатольевич": 1,
-      "Поляков Александр Алексеевич": 66,
-      "Попова Ирина Степановна": 28,
-      "Сусаков Константин Валерьевич": 4
+      "gas:candidate-vibid:2682000570241": 1,
+      "gas:candidate-vibid:2682000571442": 0,
+      "gas:candidate-vibid:2682000549747": 3,
+      "gas:candidate-vibid:2682000551519": 11,
+      "gas:candidate-vibid:2682000570751": 1,
+      "gas:candidate-vibid:2682000570220": 1,
+      "gas:candidate-vibid:2682000570300": 66,
+      "gas:candidate-vibid:2682000569650": 28,
+      "gas:candidate-vibid:2682000529925": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507740&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507740&type=464",
@@ -13967,15 +13967,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 3,
-      "Грекова Ольга Александровна": 4,
-      "Жидков Андрей Игоревич": 38,
-      "Копьев Василий Владимирович": 8,
-      "Мисанова Ирина Николаевна": 0,
-      "Панфилов Сергей Анатольевич": 2,
-      "Поляков Александр Алексеевич": 237,
-      "Попова Ирина Степановна": 62,
-      "Сусаков Константин Валерьевич": 23
+      "gas:candidate-vibid:2682000570241": 3,
+      "gas:candidate-vibid:2682000571442": 4,
+      "gas:candidate-vibid:2682000549747": 38,
+      "gas:candidate-vibid:2682000551519": 8,
+      "gas:candidate-vibid:2682000570751": 0,
+      "gas:candidate-vibid:2682000570220": 2,
+      "gas:candidate-vibid:2682000570300": 237,
+      "gas:candidate-vibid:2682000569650": 62,
+      "gas:candidate-vibid:2682000529925": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507740&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507740&type=464",
@@ -14026,15 +14026,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 4,
-      "Грекова Ольга Александровна": 1,
-      "Жидков Андрей Игоревич": 10,
-      "Копьев Василий Владимирович": 5,
-      "Мисанова Ирина Николаевна": 0,
-      "Панфилов Сергей Анатольевич": 1,
-      "Поляков Александр Алексеевич": 180,
-      "Попова Ирина Степановна": 39,
-      "Сусаков Константин Валерьевич": 6
+      "gas:candidate-vibid:2682000570241": 4,
+      "gas:candidate-vibid:2682000571442": 1,
+      "gas:candidate-vibid:2682000549747": 10,
+      "gas:candidate-vibid:2682000551519": 5,
+      "gas:candidate-vibid:2682000570751": 0,
+      "gas:candidate-vibid:2682000570220": 1,
+      "gas:candidate-vibid:2682000570300": 180,
+      "gas:candidate-vibid:2682000569650": 39,
+      "gas:candidate-vibid:2682000529925": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507740&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507740&type=464",
@@ -14085,15 +14085,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 1,
-      "Грекова Ольга Александровна": 2,
-      "Жидков Андрей Игоревич": 18,
-      "Копьев Василий Владимирович": 0,
-      "Мисанова Ирина Николаевна": 1,
-      "Панфилов Сергей Анатольевич": 0,
-      "Поляков Александр Алексеевич": 319,
-      "Попова Ирина Степановна": 34,
-      "Сусаков Константин Валерьевич": 4
+      "gas:candidate-vibid:2682000570241": 1,
+      "gas:candidate-vibid:2682000571442": 2,
+      "gas:candidate-vibid:2682000549747": 18,
+      "gas:candidate-vibid:2682000551519": 0,
+      "gas:candidate-vibid:2682000570751": 1,
+      "gas:candidate-vibid:2682000570220": 0,
+      "gas:candidate-vibid:2682000570300": 319,
+      "gas:candidate-vibid:2682000569650": 34,
+      "gas:candidate-vibid:2682000529925": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507740&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507740&type=464",
@@ -14144,15 +14144,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 0,
-      "Грекова Ольга Александровна": 0,
-      "Жидков Андрей Игоревич": 8,
-      "Копьев Василий Владимирович": 4,
-      "Мисанова Ирина Николаевна": 0,
-      "Панфилов Сергей Анатольевич": 1,
-      "Поляков Александр Алексеевич": 146,
-      "Попова Ирина Степановна": 6,
-      "Сусаков Константин Валерьевич": 2
+      "gas:candidate-vibid:2682000570241": 0,
+      "gas:candidate-vibid:2682000571442": 0,
+      "gas:candidate-vibid:2682000549747": 8,
+      "gas:candidate-vibid:2682000551519": 4,
+      "gas:candidate-vibid:2682000570751": 0,
+      "gas:candidate-vibid:2682000570220": 1,
+      "gas:candidate-vibid:2682000570300": 146,
+      "gas:candidate-vibid:2682000569650": 6,
+      "gas:candidate-vibid:2682000529925": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507740&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507740&type=464",
@@ -14203,15 +14203,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 3,
-      "Грекова Ольга Александровна": 3,
-      "Жидков Андрей Игоревич": 12,
-      "Копьев Василий Владимирович": 6,
-      "Мисанова Ирина Николаевна": 1,
-      "Панфилов Сергей Анатольевич": 3,
-      "Поляков Александр Алексеевич": 245,
-      "Попова Ирина Степановна": 46,
-      "Сусаков Константин Валерьевич": 14
+      "gas:candidate-vibid:2682000570241": 3,
+      "gas:candidate-vibid:2682000571442": 3,
+      "gas:candidate-vibid:2682000549747": 12,
+      "gas:candidate-vibid:2682000551519": 6,
+      "gas:candidate-vibid:2682000570751": 1,
+      "gas:candidate-vibid:2682000570220": 3,
+      "gas:candidate-vibid:2682000570300": 245,
+      "gas:candidate-vibid:2682000569650": 46,
+      "gas:candidate-vibid:2682000529925": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507740&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507740&type=464",
@@ -14262,15 +14262,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 11,
-      "Грекова Ольга Александровна": 3,
-      "Жидков Андрей Игоревич": 29,
-      "Копьев Василий Владимирович": 20,
-      "Мисанова Ирина Николаевна": 4,
-      "Панфилов Сергей Анатольевич": 4,
-      "Поляков Александр Алексеевич": 226,
-      "Попова Ирина Степановна": 70,
-      "Сусаков Константин Валерьевич": 36
+      "gas:candidate-vibid:2682000570241": 11,
+      "gas:candidate-vibid:2682000571442": 3,
+      "gas:candidate-vibid:2682000549747": 29,
+      "gas:candidate-vibid:2682000551519": 20,
+      "gas:candidate-vibid:2682000570751": 4,
+      "gas:candidate-vibid:2682000570220": 4,
+      "gas:candidate-vibid:2682000570300": 226,
+      "gas:candidate-vibid:2682000569650": 70,
+      "gas:candidate-vibid:2682000529925": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507740&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507740&type=464",
@@ -14321,15 +14321,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 0,
-      "Грекова Ольга Александровна": 0,
-      "Жидков Андрей Игоревич": 1,
-      "Копьев Василий Владимирович": 1,
-      "Мисанова Ирина Николаевна": 0,
-      "Панфилов Сергей Анатольевич": 0,
-      "Поляков Александр Алексеевич": 163,
-      "Попова Ирина Степановна": 14,
-      "Сусаков Константин Валерьевич": 0
+      "gas:candidate-vibid:2682000570241": 0,
+      "gas:candidate-vibid:2682000571442": 0,
+      "gas:candidate-vibid:2682000549747": 1,
+      "gas:candidate-vibid:2682000551519": 1,
+      "gas:candidate-vibid:2682000570751": 0,
+      "gas:candidate-vibid:2682000570220": 0,
+      "gas:candidate-vibid:2682000570300": 163,
+      "gas:candidate-vibid:2682000569650": 14,
+      "gas:candidate-vibid:2682000529925": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507740&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507740&type=464",
@@ -14380,15 +14380,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 0,
-      "Грекова Ольга Александровна": 1,
-      "Жидков Андрей Игоревич": 8,
-      "Копьев Василий Владимирович": 5,
-      "Мисанова Ирина Николаевна": 0,
-      "Панфилов Сергей Анатольевич": 1,
-      "Поляков Александр Алексеевич": 254,
-      "Попова Ирина Степановна": 20,
-      "Сусаков Константин Валерьевич": 4
+      "gas:candidate-vibid:2682000570241": 0,
+      "gas:candidate-vibid:2682000571442": 1,
+      "gas:candidate-vibid:2682000549747": 8,
+      "gas:candidate-vibid:2682000551519": 5,
+      "gas:candidate-vibid:2682000570751": 0,
+      "gas:candidate-vibid:2682000570220": 1,
+      "gas:candidate-vibid:2682000570300": 254,
+      "gas:candidate-vibid:2682000569650": 20,
+      "gas:candidate-vibid:2682000529925": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507740&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507740&type=464",
@@ -14439,15 +14439,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 2,
-      "Грекова Ольга Александровна": 2,
-      "Жидков Андрей Игоревич": 10,
-      "Копьев Василий Владимирович": 3,
-      "Мисанова Ирина Николаевна": 2,
-      "Панфилов Сергей Анатольевич": 4,
-      "Поляков Александр Алексеевич": 120,
-      "Попова Ирина Степановна": 95,
-      "Сусаков Константин Валерьевич": 8
+      "gas:candidate-vibid:2682000570241": 2,
+      "gas:candidate-vibid:2682000571442": 2,
+      "gas:candidate-vibid:2682000549747": 10,
+      "gas:candidate-vibid:2682000551519": 3,
+      "gas:candidate-vibid:2682000570751": 2,
+      "gas:candidate-vibid:2682000570220": 4,
+      "gas:candidate-vibid:2682000570300": 120,
+      "gas:candidate-vibid:2682000569650": 95,
+      "gas:candidate-vibid:2682000529925": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507740&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507740&type=464",
@@ -14498,15 +14498,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 0,
-      "Грекова Ольга Александровна": 1,
-      "Жидков Андрей Игоревич": 5,
-      "Копьев Василий Владимирович": 2,
-      "Мисанова Ирина Николаевна": 0,
-      "Панфилов Сергей Анатольевич": 2,
-      "Поляков Александр Алексеевич": 122,
-      "Попова Ирина Степановна": 5,
-      "Сусаков Константин Валерьевич": 1
+      "gas:candidate-vibid:2682000570241": 0,
+      "gas:candidate-vibid:2682000571442": 1,
+      "gas:candidate-vibid:2682000549747": 5,
+      "gas:candidate-vibid:2682000551519": 2,
+      "gas:candidate-vibid:2682000570751": 0,
+      "gas:candidate-vibid:2682000570220": 2,
+      "gas:candidate-vibid:2682000570300": 122,
+      "gas:candidate-vibid:2682000569650": 5,
+      "gas:candidate-vibid:2682000529925": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507740&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507740&type=464",
@@ -14557,15 +14557,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 4,
-      "Грекова Ольга Александровна": 2,
-      "Жидков Андрей Игоревич": 13,
-      "Копьев Василий Владимирович": 9,
-      "Мисанова Ирина Николаевна": 2,
-      "Панфилов Сергей Анатольевич": 1,
-      "Поляков Александр Алексеевич": 152,
-      "Попова Ирина Степановна": 29,
-      "Сусаков Константин Валерьевич": 9
+      "gas:candidate-vibid:2682000570241": 4,
+      "gas:candidate-vibid:2682000571442": 2,
+      "gas:candidate-vibid:2682000549747": 13,
+      "gas:candidate-vibid:2682000551519": 9,
+      "gas:candidate-vibid:2682000570751": 2,
+      "gas:candidate-vibid:2682000570220": 1,
+      "gas:candidate-vibid:2682000570300": 152,
+      "gas:candidate-vibid:2682000569650": 29,
+      "gas:candidate-vibid:2682000529925": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507740&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507740&type=464",
@@ -14616,15 +14616,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 2,
-      "Грекова Ольга Александровна": 0,
-      "Жидков Андрей Игоревич": 10,
-      "Копьев Василий Владимирович": 11,
-      "Мисанова Ирина Николаевна": 1,
-      "Панфилов Сергей Анатольевич": 1,
-      "Поляков Александр Алексеевич": 99,
-      "Попова Ирина Степановна": 8,
-      "Сусаков Константин Валерьевич": 4
+      "gas:candidate-vibid:2682000570241": 2,
+      "gas:candidate-vibid:2682000571442": 0,
+      "gas:candidate-vibid:2682000549747": 10,
+      "gas:candidate-vibid:2682000551519": 11,
+      "gas:candidate-vibid:2682000570751": 1,
+      "gas:candidate-vibid:2682000570220": 1,
+      "gas:candidate-vibid:2682000570300": 99,
+      "gas:candidate-vibid:2682000569650": 8,
+      "gas:candidate-vibid:2682000529925": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507740&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507740&type=464",
@@ -14675,15 +14675,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 48,
-      "Грекова Ольга Александровна": 18,
-      "Жидков Андрей Игоревич": 127,
-      "Копьев Василий Владимирович": 31,
-      "Мисанова Ирина Николаевна": 10,
-      "Панфилов Сергей Анатольевич": 24,
-      "Поляков Александр Алексеевич": 654,
-      "Попова Ирина Степановна": 63,
-      "Сусаков Константин Валерьевич": 66
+      "gas:candidate-vibid:2682000570241": 48,
+      "gas:candidate-vibid:2682000571442": 18,
+      "gas:candidate-vibid:2682000549747": 127,
+      "gas:candidate-vibid:2682000551519": 31,
+      "gas:candidate-vibid:2682000570751": 10,
+      "gas:candidate-vibid:2682000570220": 24,
+      "gas:candidate-vibid:2682000570300": 654,
+      "gas:candidate-vibid:2682000569650": 63,
+      "gas:candidate-vibid:2682000529925": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507743&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507743&type=464",
@@ -14734,15 +14734,15 @@ export const duma_2016_uik_463_region_68_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Артемов Анатолий Анатольевич": 36,
-      "Грекова Ольга Александровна": 11,
-      "Жидков Андрей Игоревич": 149,
-      "Копьев Василий Владимирович": 35,
-      "Мисанова Ирина Николаевна": 20,
-      "Панфилов Сергей Анатольевич": 16,
-      "Поляков Александр Алексеевич": 433,
-      "Попова Ирина Степановна": 77,
-      "Сусаков Константин Валерьевич": 61
+      "gas:candidate-vibid:2682000570241": 36,
+      "gas:candidate-vibid:2682000571442": 11,
+      "gas:candidate-vibid:2682000549747": 149,
+      "gas:candidate-vibid:2682000551519": 35,
+      "gas:candidate-vibid:2682000570751": 20,
+      "gas:candidate-vibid:2682000570220": 16,
+      "gas:candidate-vibid:2682000570300": 433,
+      "gas:candidate-vibid:2682000569650": 77,
+      "gas:candidate-vibid:2682000529925": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000233&tvd=2682000507743&vrn=100100067795849&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000507743&type=464",

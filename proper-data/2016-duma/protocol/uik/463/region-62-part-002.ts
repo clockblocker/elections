@@ -43,15 +43,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 24,
-      "Десинов Денис Анатольевич": 6,
-      "Епифанова Мария Александровна": 7,
-      "Кравченко Юрий Александрович": 27,
-      "Красов Андрей Леонидович": 48,
-      "Кусова Ирина Гасановна": 3,
-      "Ляблин Андрей Алексеевич": 1,
-      "Рогов Владимир Александрович": 4,
-      "Тумашев Андрей Рамильевич": 1
+      "gas:candidate-vibid:2622000687166": 24,
+      "gas:candidate-vibid:2622000686677": 6,
+      "gas:candidate-vibid:2622000687051": 7,
+      "gas:candidate-vibid:2622000660670": 27,
+      "gas:candidate-vibid:2622000686573": 48,
+      "gas:candidate-vibid:2622000686220": 3,
+      "gas:candidate-vibid:2622000685437": 1,
+      "gas:candidate-vibid:2622000687415": 4,
+      "gas:candidate-vibid:2622000687427": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633355&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633355&type=464",
@@ -102,15 +102,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 10,
-      "Десинов Денис Анатольевич": 9,
-      "Епифанова Мария Александровна": 3,
-      "Кравченко Юрий Александрович": 19,
-      "Красов Андрей Леонидович": 42,
-      "Кусова Ирина Гасановна": 1,
-      "Ляблин Андрей Алексеевич": 2,
-      "Рогов Владимир Александрович": 1,
-      "Тумашев Андрей Рамильевич": 0
+      "gas:candidate-vibid:2622000687166": 10,
+      "gas:candidate-vibid:2622000686677": 9,
+      "gas:candidate-vibid:2622000687051": 3,
+      "gas:candidate-vibid:2622000660670": 19,
+      "gas:candidate-vibid:2622000686573": 42,
+      "gas:candidate-vibid:2622000686220": 1,
+      "gas:candidate-vibid:2622000685437": 2,
+      "gas:candidate-vibid:2622000687415": 1,
+      "gas:candidate-vibid:2622000687427": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633355&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633355&type=464",
@@ -161,15 +161,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 41,
-      "Десинов Денис Анатольевич": 25,
-      "Епифанова Мария Александровна": 10,
-      "Кравченко Юрий Александрович": 69,
-      "Красов Андрей Леонидович": 156,
-      "Кусова Ирина Гасановна": 5,
-      "Ляблин Андрей Алексеевич": 18,
-      "Рогов Владимир Александрович": 13,
-      "Тумашев Андрей Рамильевич": 2
+      "gas:candidate-vibid:2622000687166": 41,
+      "gas:candidate-vibid:2622000686677": 25,
+      "gas:candidate-vibid:2622000687051": 10,
+      "gas:candidate-vibid:2622000660670": 69,
+      "gas:candidate-vibid:2622000686573": 156,
+      "gas:candidate-vibid:2622000686220": 5,
+      "gas:candidate-vibid:2622000685437": 18,
+      "gas:candidate-vibid:2622000687415": 13,
+      "gas:candidate-vibid:2622000687427": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633355&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633355&type=464",
@@ -220,15 +220,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 112,
-      "Десинов Денис Анатольевич": 60,
-      "Епифанова Мария Александровна": 30,
-      "Кравченко Юрий Александрович": 109,
-      "Красов Андрей Леонидович": 348,
-      "Кусова Ирина Гасановна": 21,
-      "Ляблин Андрей Алексеевич": 28,
-      "Рогов Владимир Александрович": 16,
-      "Тумашев Андрей Рамильевич": 9
+      "gas:candidate-vibid:2622000687166": 112,
+      "gas:candidate-vibid:2622000686677": 60,
+      "gas:candidate-vibid:2622000687051": 30,
+      "gas:candidate-vibid:2622000660670": 109,
+      "gas:candidate-vibid:2622000686573": 348,
+      "gas:candidate-vibid:2622000686220": 21,
+      "gas:candidate-vibid:2622000685437": 28,
+      "gas:candidate-vibid:2622000687415": 16,
+      "gas:candidate-vibid:2622000687427": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633355&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633355&type=464",
@@ -279,15 +279,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 72,
-      "Десинов Денис Анатольевич": 37,
-      "Епифанова Мария Александровна": 24,
-      "Кравченко Юрий Александрович": 64,
-      "Красов Андрей Леонидович": 282,
-      "Кусова Ирина Гасановна": 16,
-      "Ляблин Андрей Алексеевич": 15,
-      "Рогов Владимир Александрович": 12,
-      "Тумашев Андрей Рамильевич": 7
+      "gas:candidate-vibid:2622000687166": 72,
+      "gas:candidate-vibid:2622000686677": 37,
+      "gas:candidate-vibid:2622000687051": 24,
+      "gas:candidate-vibid:2622000660670": 64,
+      "gas:candidate-vibid:2622000686573": 282,
+      "gas:candidate-vibid:2622000686220": 16,
+      "gas:candidate-vibid:2622000685437": 15,
+      "gas:candidate-vibid:2622000687415": 12,
+      "gas:candidate-vibid:2622000687427": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633355&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633355&type=464",
@@ -338,15 +338,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 38,
-      "Десинов Денис Анатольевич": 34,
-      "Епифанова Мария Александровна": 10,
-      "Кравченко Юрий Александрович": 55,
-      "Красов Андрей Леонидович": 138,
-      "Кусова Ирина Гасановна": 5,
-      "Ляблин Андрей Алексеевич": 6,
-      "Рогов Владимир Александрович": 13,
-      "Тумашев Андрей Рамильевич": 0
+      "gas:candidate-vibid:2622000687166": 38,
+      "gas:candidate-vibid:2622000686677": 34,
+      "gas:candidate-vibid:2622000687051": 10,
+      "gas:candidate-vibid:2622000660670": 55,
+      "gas:candidate-vibid:2622000686573": 138,
+      "gas:candidate-vibid:2622000686220": 5,
+      "gas:candidate-vibid:2622000685437": 6,
+      "gas:candidate-vibid:2622000687415": 13,
+      "gas:candidate-vibid:2622000687427": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633355&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633355&type=464",
@@ -397,15 +397,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 103,
-      "Десинов Денис Анатольевич": 25,
-      "Епифанова Мария Александровна": 33,
-      "Кравченко Юрий Александрович": 73,
-      "Красов Андрей Леонидович": 174,
-      "Кусова Ирина Гасановна": 20,
-      "Ляблин Андрей Алексеевич": 40,
-      "Рогов Владимир Александрович": 23,
-      "Тумашев Андрей Рамильевич": 10
+      "gas:candidate-vibid:2622000687166": 103,
+      "gas:candidate-vibid:2622000686677": 25,
+      "gas:candidate-vibid:2622000687051": 33,
+      "gas:candidate-vibid:2622000660670": 73,
+      "gas:candidate-vibid:2622000686573": 174,
+      "gas:candidate-vibid:2622000686220": 20,
+      "gas:candidate-vibid:2622000685437": 40,
+      "gas:candidate-vibid:2622000687415": 23,
+      "gas:candidate-vibid:2622000687427": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633356&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633356&type=464",
@@ -456,15 +456,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 126,
-      "Десинов Денис Анатольевич": 25,
-      "Епифанова Мария Александровна": 26,
-      "Кравченко Юрий Александрович": 81,
-      "Красов Андрей Леонидович": 151,
-      "Кусова Ирина Гасановна": 23,
-      "Ляблин Андрей Алексеевич": 39,
-      "Рогов Владимир Александрович": 21,
-      "Тумашев Андрей Рамильевич": 5
+      "gas:candidate-vibid:2622000687166": 126,
+      "gas:candidate-vibid:2622000686677": 25,
+      "gas:candidate-vibid:2622000687051": 26,
+      "gas:candidate-vibid:2622000660670": 81,
+      "gas:candidate-vibid:2622000686573": 151,
+      "gas:candidate-vibid:2622000686220": 23,
+      "gas:candidate-vibid:2622000685437": 39,
+      "gas:candidate-vibid:2622000687415": 21,
+      "gas:candidate-vibid:2622000687427": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633356&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633356&type=464",
@@ -515,15 +515,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 162,
-      "Десинов Денис Анатольевич": 28,
-      "Епифанова Мария Александровна": 36,
-      "Кравченко Юрий Александрович": 116,
-      "Красов Андрей Леонидович": 186,
-      "Кусова Ирина Гасановна": 35,
-      "Ляблин Андрей Алексеевич": 50,
-      "Рогов Владимир Александрович": 27,
-      "Тумашев Андрей Рамильевич": 12
+      "gas:candidate-vibid:2622000687166": 162,
+      "gas:candidate-vibid:2622000686677": 28,
+      "gas:candidate-vibid:2622000687051": 36,
+      "gas:candidate-vibid:2622000660670": 116,
+      "gas:candidate-vibid:2622000686573": 186,
+      "gas:candidate-vibid:2622000686220": 35,
+      "gas:candidate-vibid:2622000685437": 50,
+      "gas:candidate-vibid:2622000687415": 27,
+      "gas:candidate-vibid:2622000687427": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633356&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633356&type=464",
@@ -574,15 +574,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 148,
-      "Десинов Денис Анатольевич": 40,
-      "Епифанова Мария Александровна": 29,
-      "Кравченко Юрий Александрович": 124,
-      "Красов Андрей Леонидович": 257,
-      "Кусова Ирина Гасановна": 50,
-      "Ляблин Андрей Алексеевич": 109,
-      "Рогов Владимир Александрович": 32,
-      "Тумашев Андрей Рамильевич": 18
+      "gas:candidate-vibid:2622000687166": 148,
+      "gas:candidate-vibid:2622000686677": 40,
+      "gas:candidate-vibid:2622000687051": 29,
+      "gas:candidate-vibid:2622000660670": 124,
+      "gas:candidate-vibid:2622000686573": 257,
+      "gas:candidate-vibid:2622000686220": 50,
+      "gas:candidate-vibid:2622000685437": 109,
+      "gas:candidate-vibid:2622000687415": 32,
+      "gas:candidate-vibid:2622000687427": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633356&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633356&type=464",
@@ -633,15 +633,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 117,
-      "Десинов Денис Анатольевич": 41,
-      "Епифанова Мария Александровна": 22,
-      "Кравченко Юрий Александрович": 130,
-      "Красов Андрей Леонидович": 276,
-      "Кусова Ирина Гасановна": 25,
-      "Ляблин Андрей Алексеевич": 64,
-      "Рогов Владимир Александрович": 22,
-      "Тумашев Андрей Рамильевич": 10
+      "gas:candidate-vibid:2622000687166": 117,
+      "gas:candidate-vibid:2622000686677": 41,
+      "gas:candidate-vibid:2622000687051": 22,
+      "gas:candidate-vibid:2622000660670": 130,
+      "gas:candidate-vibid:2622000686573": 276,
+      "gas:candidate-vibid:2622000686220": 25,
+      "gas:candidate-vibid:2622000685437": 64,
+      "gas:candidate-vibid:2622000687415": 22,
+      "gas:candidate-vibid:2622000687427": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633356&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633356&type=464",
@@ -692,15 +692,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 131,
-      "Десинов Денис Анатольевич": 46,
-      "Епифанова Мария Александровна": 31,
-      "Кравченко Юрий Александрович": 118,
-      "Красов Андрей Леонидович": 274,
-      "Кусова Ирина Гасановна": 39,
-      "Ляблин Андрей Алексеевич": 92,
-      "Рогов Владимир Александрович": 30,
-      "Тумашев Андрей Рамильевич": 6
+      "gas:candidate-vibid:2622000687166": 131,
+      "gas:candidate-vibid:2622000686677": 46,
+      "gas:candidate-vibid:2622000687051": 31,
+      "gas:candidate-vibid:2622000660670": 118,
+      "gas:candidate-vibid:2622000686573": 274,
+      "gas:candidate-vibid:2622000686220": 39,
+      "gas:candidate-vibid:2622000685437": 92,
+      "gas:candidate-vibid:2622000687415": 30,
+      "gas:candidate-vibid:2622000687427": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633356&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633356&type=464",
@@ -751,15 +751,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 137,
-      "Десинов Денис Анатольевич": 22,
-      "Епифанова Мария Александровна": 32,
-      "Кравченко Юрий Александрович": 114,
-      "Красов Андрей Леонидович": 280,
-      "Кусова Ирина Гасановна": 26,
-      "Ляблин Андрей Алексеевич": 89,
-      "Рогов Владимир Александрович": 38,
-      "Тумашев Андрей Рамильевич": 16
+      "gas:candidate-vibid:2622000687166": 137,
+      "gas:candidate-vibid:2622000686677": 22,
+      "gas:candidate-vibid:2622000687051": 32,
+      "gas:candidate-vibid:2622000660670": 114,
+      "gas:candidate-vibid:2622000686573": 280,
+      "gas:candidate-vibid:2622000686220": 26,
+      "gas:candidate-vibid:2622000685437": 89,
+      "gas:candidate-vibid:2622000687415": 38,
+      "gas:candidate-vibid:2622000687427": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633356&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633356&type=464",
@@ -810,15 +810,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 154,
-      "Десинов Денис Анатольевич": 57,
-      "Епифанова Мария Александровна": 40,
-      "Кравченко Юрий Александрович": 137,
-      "Красов Андрей Леонидович": 287,
-      "Кусова Ирина Гасановна": 35,
-      "Ляблин Андрей Алексеевич": 114,
-      "Рогов Владимир Александрович": 33,
-      "Тумашев Андрей Рамильевич": 18
+      "gas:candidate-vibid:2622000687166": 154,
+      "gas:candidate-vibid:2622000686677": 57,
+      "gas:candidate-vibid:2622000687051": 40,
+      "gas:candidate-vibid:2622000660670": 137,
+      "gas:candidate-vibid:2622000686573": 287,
+      "gas:candidate-vibid:2622000686220": 35,
+      "gas:candidate-vibid:2622000685437": 114,
+      "gas:candidate-vibid:2622000687415": 33,
+      "gas:candidate-vibid:2622000687427": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633356&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633356&type=464",
@@ -869,15 +869,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 164,
-      "Десинов Денис Анатольевич": 42,
-      "Епифанова Мария Александровна": 39,
-      "Кравченко Юрий Александрович": 204,
-      "Красов Андрей Леонидович": 290,
-      "Кусова Ирина Гасановна": 40,
-      "Ляблин Андрей Алексеевич": 128,
-      "Рогов Владимир Александрович": 53,
-      "Тумашев Андрей Рамильевич": 24
+      "gas:candidate-vibid:2622000687166": 164,
+      "gas:candidate-vibid:2622000686677": 42,
+      "gas:candidate-vibid:2622000687051": 39,
+      "gas:candidate-vibid:2622000660670": 204,
+      "gas:candidate-vibid:2622000686573": 290,
+      "gas:candidate-vibid:2622000686220": 40,
+      "gas:candidate-vibid:2622000685437": 128,
+      "gas:candidate-vibid:2622000687415": 53,
+      "gas:candidate-vibid:2622000687427": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633356&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633356&type=464",
@@ -928,15 +928,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 196,
-      "Десинов Денис Анатольевич": 44,
-      "Епифанова Мария Александровна": 27,
-      "Кравченко Юрий Александрович": 94,
-      "Красов Андрей Леонидович": 231,
-      "Кусова Ирина Гасановна": 20,
-      "Ляблин Андрей Алексеевич": 54,
-      "Рогов Владимир Александрович": 18,
-      "Тумашев Андрей Рамильевич": 13
+      "gas:candidate-vibid:2622000687166": 196,
+      "gas:candidate-vibid:2622000686677": 44,
+      "gas:candidate-vibid:2622000687051": 27,
+      "gas:candidate-vibid:2622000660670": 94,
+      "gas:candidate-vibid:2622000686573": 231,
+      "gas:candidate-vibid:2622000686220": 20,
+      "gas:candidate-vibid:2622000685437": 54,
+      "gas:candidate-vibid:2622000687415": 18,
+      "gas:candidate-vibid:2622000687427": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633356&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633356&type=464",
@@ -987,15 +987,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 189,
-      "Десинов Денис Анатольевич": 35,
-      "Епифанова Мария Александровна": 52,
-      "Кравченко Юрий Александрович": 113,
-      "Красов Андрей Леонидович": 287,
-      "Кусова Ирина Гасановна": 32,
-      "Ляблин Андрей Алексеевич": 99,
-      "Рогов Владимир Александрович": 51,
-      "Тумашев Андрей Рамильевич": 18
+      "gas:candidate-vibid:2622000687166": 189,
+      "gas:candidate-vibid:2622000686677": 35,
+      "gas:candidate-vibid:2622000687051": 52,
+      "gas:candidate-vibid:2622000660670": 113,
+      "gas:candidate-vibid:2622000686573": 287,
+      "gas:candidate-vibid:2622000686220": 32,
+      "gas:candidate-vibid:2622000685437": 99,
+      "gas:candidate-vibid:2622000687415": 51,
+      "gas:candidate-vibid:2622000687427": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633356&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633356&type=464",
@@ -1046,15 +1046,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 201,
-      "Десинов Денис Анатольевич": 32,
-      "Епифанова Мария Александровна": 36,
-      "Кравченко Юрий Александрович": 121,
-      "Красов Андрей Леонидович": 246,
-      "Кусова Ирина Гасановна": 28,
-      "Ляблин Андрей Алексеевич": 85,
-      "Рогов Владимир Александрович": 40,
-      "Тумашев Андрей Рамильевич": 15
+      "gas:candidate-vibid:2622000687166": 201,
+      "gas:candidate-vibid:2622000686677": 32,
+      "gas:candidate-vibid:2622000687051": 36,
+      "gas:candidate-vibid:2622000660670": 121,
+      "gas:candidate-vibid:2622000686573": 246,
+      "gas:candidate-vibid:2622000686220": 28,
+      "gas:candidate-vibid:2622000685437": 85,
+      "gas:candidate-vibid:2622000687415": 40,
+      "gas:candidate-vibid:2622000687427": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633356&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633356&type=464",
@@ -1105,15 +1105,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 99,
-      "Десинов Денис Анатольевич": 12,
-      "Епифанова Мария Александровна": 30,
-      "Кравченко Юрий Александрович": 30,
-      "Красов Андрей Леонидович": 172,
-      "Кусова Ирина Гасановна": 7,
-      "Ляблин Андрей Алексеевич": 48,
-      "Рогов Владимир Александрович": 22,
-      "Тумашев Андрей Рамильевич": 10
+      "gas:candidate-vibid:2622000687166": 99,
+      "gas:candidate-vibid:2622000686677": 12,
+      "gas:candidate-vibid:2622000687051": 30,
+      "gas:candidate-vibid:2622000660670": 30,
+      "gas:candidate-vibid:2622000686573": 172,
+      "gas:candidate-vibid:2622000686220": 7,
+      "gas:candidate-vibid:2622000685437": 48,
+      "gas:candidate-vibid:2622000687415": 22,
+      "gas:candidate-vibid:2622000687427": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633356&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633356&type=464",
@@ -1164,15 +1164,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 136,
-      "Десинов Денис Анатольевич": 17,
-      "Епифанова Мария Александровна": 35,
-      "Кравченко Юрий Александрович": 74,
-      "Красов Андрей Леонидович": 222,
-      "Кусова Ирина Гасановна": 32,
-      "Ляблин Андрей Алексеевич": 57,
-      "Рогов Владимир Александрович": 40,
-      "Тумашев Андрей Рамильевич": 16
+      "gas:candidate-vibid:2622000687166": 136,
+      "gas:candidate-vibid:2622000686677": 17,
+      "gas:candidate-vibid:2622000687051": 35,
+      "gas:candidate-vibid:2622000660670": 74,
+      "gas:candidate-vibid:2622000686573": 222,
+      "gas:candidate-vibid:2622000686220": 32,
+      "gas:candidate-vibid:2622000685437": 57,
+      "gas:candidate-vibid:2622000687415": 40,
+      "gas:candidate-vibid:2622000687427": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633356&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633356&type=464",
@@ -1223,15 +1223,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 125,
-      "Десинов Денис Анатольевич": 35,
-      "Епифанова Мария Александровна": 33,
-      "Кравченко Юрий Александрович": 93,
-      "Красов Андрей Леонидович": 250,
-      "Кусова Ирина Гасановна": 38,
-      "Ляблин Андрей Алексеевич": 65,
-      "Рогов Владимир Александрович": 25,
-      "Тумашев Андрей Рамильевич": 11
+      "gas:candidate-vibid:2622000687166": 125,
+      "gas:candidate-vibid:2622000686677": 35,
+      "gas:candidate-vibid:2622000687051": 33,
+      "gas:candidate-vibid:2622000660670": 93,
+      "gas:candidate-vibid:2622000686573": 250,
+      "gas:candidate-vibid:2622000686220": 38,
+      "gas:candidate-vibid:2622000685437": 65,
+      "gas:candidate-vibid:2622000687415": 25,
+      "gas:candidate-vibid:2622000687427": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633356&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633356&type=464",
@@ -1282,15 +1282,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 153,
-      "Десинов Денис Анатольевич": 29,
-      "Епифанова Мария Александровна": 48,
-      "Кравченко Юрий Александрович": 146,
-      "Красов Андрей Леонидович": 266,
-      "Кусова Ирина Гасановна": 42,
-      "Ляблин Андрей Алексеевич": 105,
-      "Рогов Владимир Александрович": 34,
-      "Тумашев Андрей Рамильевич": 17
+      "gas:candidate-vibid:2622000687166": 153,
+      "gas:candidate-vibid:2622000686677": 29,
+      "gas:candidate-vibid:2622000687051": 48,
+      "gas:candidate-vibid:2622000660670": 146,
+      "gas:candidate-vibid:2622000686573": 266,
+      "gas:candidate-vibid:2622000686220": 42,
+      "gas:candidate-vibid:2622000685437": 105,
+      "gas:candidate-vibid:2622000687415": 34,
+      "gas:candidate-vibid:2622000687427": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633356&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633356&type=464",
@@ -1341,15 +1341,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 120,
-      "Десинов Денис Анатольевич": 23,
-      "Епифанова Мария Александровна": 28,
-      "Кравченко Юрий Александрович": 96,
-      "Красов Андрей Леонидович": 172,
-      "Кусова Ирина Гасановна": 31,
-      "Ляблин Андрей Алексеевич": 78,
-      "Рогов Владимир Александрович": 44,
-      "Тумашев Андрей Рамильевич": 16
+      "gas:candidate-vibid:2622000687166": 120,
+      "gas:candidate-vibid:2622000686677": 23,
+      "gas:candidate-vibid:2622000687051": 28,
+      "gas:candidate-vibid:2622000660670": 96,
+      "gas:candidate-vibid:2622000686573": 172,
+      "gas:candidate-vibid:2622000686220": 31,
+      "gas:candidate-vibid:2622000685437": 78,
+      "gas:candidate-vibid:2622000687415": 44,
+      "gas:candidate-vibid:2622000687427": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633356&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633356&type=464",
@@ -1400,15 +1400,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 119,
-      "Десинов Денис Анатольевич": 34,
-      "Епифанова Мария Александровна": 32,
-      "Кравченко Юрий Александрович": 113,
-      "Красов Андрей Леонидович": 225,
-      "Кусова Ирина Гасановна": 31,
-      "Ляблин Андрей Алексеевич": 44,
-      "Рогов Владимир Александрович": 28,
-      "Тумашев Андрей Рамильевич": 11
+      "gas:candidate-vibid:2622000687166": 119,
+      "gas:candidate-vibid:2622000686677": 34,
+      "gas:candidate-vibid:2622000687051": 32,
+      "gas:candidate-vibid:2622000660670": 113,
+      "gas:candidate-vibid:2622000686573": 225,
+      "gas:candidate-vibid:2622000686220": 31,
+      "gas:candidate-vibid:2622000685437": 44,
+      "gas:candidate-vibid:2622000687415": 28,
+      "gas:candidate-vibid:2622000687427": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633356&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633356&type=464",
@@ -1459,15 +1459,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 71,
-      "Десинов Денис Анатольевич": 24,
-      "Епифанова Мария Александровна": 19,
-      "Кравченко Юрий Александрович": 49,
-      "Красов Андрей Леонидович": 86,
-      "Кусова Ирина Гасановна": 25,
-      "Ляблин Андрей Алексеевич": 32,
-      "Рогов Владимир Александрович": 17,
-      "Тумашев Андрей Рамильевич": 16
+      "gas:candidate-vibid:2622000687166": 71,
+      "gas:candidate-vibid:2622000686677": 24,
+      "gas:candidate-vibid:2622000687051": 19,
+      "gas:candidate-vibid:2622000660670": 49,
+      "gas:candidate-vibid:2622000686573": 86,
+      "gas:candidate-vibid:2622000686220": 25,
+      "gas:candidate-vibid:2622000685437": 32,
+      "gas:candidate-vibid:2622000687415": 17,
+      "gas:candidate-vibid:2622000687427": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633356&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633356&type=464",
@@ -1518,15 +1518,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 83,
-      "Десинов Денис Анатольевич": 20,
-      "Епифанова Мария Александровна": 32,
-      "Кравченко Юрий Александрович": 48,
-      "Красов Андрей Леонидович": 177,
-      "Кусова Ирина Гасановна": 23,
-      "Ляблин Андрей Алексеевич": 25,
-      "Рогов Владимир Александрович": 30,
-      "Тумашев Андрей Рамильевич": 14
+      "gas:candidate-vibid:2622000687166": 83,
+      "gas:candidate-vibid:2622000686677": 20,
+      "gas:candidate-vibid:2622000687051": 32,
+      "gas:candidate-vibid:2622000660670": 48,
+      "gas:candidate-vibid:2622000686573": 177,
+      "gas:candidate-vibid:2622000686220": 23,
+      "gas:candidate-vibid:2622000685437": 25,
+      "gas:candidate-vibid:2622000687415": 30,
+      "gas:candidate-vibid:2622000687427": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633356&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633356&type=464",
@@ -1577,15 +1577,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 61,
-      "Десинов Денис Анатольевич": 21,
-      "Епифанова Мария Александровна": 15,
-      "Кравченко Юрий Александрович": 60,
-      "Красов Андрей Леонидович": 182,
-      "Кусова Ирина Гасановна": 13,
-      "Ляблин Андрей Алексеевич": 20,
-      "Рогов Владимир Александрович": 13,
-      "Тумашев Андрей Рамильевич": 4
+      "gas:candidate-vibid:2622000687166": 61,
+      "gas:candidate-vibid:2622000686677": 21,
+      "gas:candidate-vibid:2622000687051": 15,
+      "gas:candidate-vibid:2622000660670": 60,
+      "gas:candidate-vibid:2622000686573": 182,
+      "gas:candidate-vibid:2622000686220": 13,
+      "gas:candidate-vibid:2622000685437": 20,
+      "gas:candidate-vibid:2622000687415": 13,
+      "gas:candidate-vibid:2622000687427": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633356&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633356&type=464",
@@ -1636,15 +1636,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 56,
-      "Десинов Денис Анатольевич": 23,
-      "Епифанова Мария Александровна": 14,
-      "Кравченко Юрий Александрович": 72,
-      "Красов Андрей Леонидович": 250,
-      "Кусова Ирина Гасановна": 19,
-      "Ляблин Андрей Алексеевич": 25,
-      "Рогов Владимир Александрович": 16,
-      "Тумашев Андрей Рамильевич": 8
+      "gas:candidate-vibid:2622000687166": 56,
+      "gas:candidate-vibid:2622000686677": 23,
+      "gas:candidate-vibid:2622000687051": 14,
+      "gas:candidate-vibid:2622000660670": 72,
+      "gas:candidate-vibid:2622000686573": 250,
+      "gas:candidate-vibid:2622000686220": 19,
+      "gas:candidate-vibid:2622000685437": 25,
+      "gas:candidate-vibid:2622000687415": 16,
+      "gas:candidate-vibid:2622000687427": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633356&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633356&type=464",
@@ -1695,15 +1695,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 153,
-      "Десинов Денис Анатольевич": 49,
-      "Епифанова Мария Александровна": 28,
-      "Кравченко Юрий Александрович": 104,
-      "Красов Андрей Леонидович": 266,
-      "Кусова Ирина Гасановна": 34,
-      "Ляблин Андрей Алексеевич": 72,
-      "Рогов Владимир Александрович": 29,
-      "Тумашев Андрей Рамильевич": 11
+      "gas:candidate-vibid:2622000687166": 153,
+      "gas:candidate-vibid:2622000686677": 49,
+      "gas:candidate-vibid:2622000687051": 28,
+      "gas:candidate-vibid:2622000660670": 104,
+      "gas:candidate-vibid:2622000686573": 266,
+      "gas:candidate-vibid:2622000686220": 34,
+      "gas:candidate-vibid:2622000685437": 72,
+      "gas:candidate-vibid:2622000687415": 29,
+      "gas:candidate-vibid:2622000687427": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633356&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633356&type=464",
@@ -1754,15 +1754,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 116,
-      "Десинов Денис Анатольевич": 32,
-      "Епифанова Мария Александровна": 31,
-      "Кравченко Юрий Александрович": 138,
-      "Красов Андрей Леонидович": 240,
-      "Кусова Ирина Гасановна": 31,
-      "Ляблин Андрей Алексеевич": 77,
-      "Рогов Владимир Александрович": 34,
-      "Тумашев Андрей Рамильевич": 28
+      "gas:candidate-vibid:2622000687166": 116,
+      "gas:candidate-vibid:2622000686677": 32,
+      "gas:candidate-vibid:2622000687051": 31,
+      "gas:candidate-vibid:2622000660670": 138,
+      "gas:candidate-vibid:2622000686573": 240,
+      "gas:candidate-vibid:2622000686220": 31,
+      "gas:candidate-vibid:2622000685437": 77,
+      "gas:candidate-vibid:2622000687415": 34,
+      "gas:candidate-vibid:2622000687427": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633356&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633356&type=464",
@@ -1813,15 +1813,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 121,
-      "Десинов Денис Анатольевич": 39,
-      "Епифанова Мария Александровна": 34,
-      "Кравченко Юрий Александрович": 125,
-      "Красов Андрей Леонидович": 212,
-      "Кусова Ирина Гасановна": 25,
-      "Ляблин Андрей Алексеевич": 48,
-      "Рогов Владимир Александрович": 27,
-      "Тумашев Андрей Рамильевич": 11
+      "gas:candidate-vibid:2622000687166": 121,
+      "gas:candidate-vibid:2622000686677": 39,
+      "gas:candidate-vibid:2622000687051": 34,
+      "gas:candidate-vibid:2622000660670": 125,
+      "gas:candidate-vibid:2622000686573": 212,
+      "gas:candidate-vibid:2622000686220": 25,
+      "gas:candidate-vibid:2622000685437": 48,
+      "gas:candidate-vibid:2622000687415": 27,
+      "gas:candidate-vibid:2622000687427": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633356&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633356&type=464",
@@ -1872,15 +1872,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 57,
-      "Десинов Денис Анатольевич": 37,
-      "Епифанова Мария Александровна": 20,
-      "Кравченко Юрий Александрович": 153,
-      "Красов Андрей Леонидович": 2247,
-      "Кусова Ирина Гасановна": 18,
-      "Ляблин Андрей Алексеевич": 29,
-      "Рогов Владимир Александрович": 16,
-      "Тумашев Андрей Рамильевич": 10
+      "gas:candidate-vibid:2622000687166": 57,
+      "gas:candidate-vibid:2622000686677": 37,
+      "gas:candidate-vibid:2622000687051": 20,
+      "gas:candidate-vibid:2622000660670": 153,
+      "gas:candidate-vibid:2622000686573": 2247,
+      "gas:candidate-vibid:2622000686220": 18,
+      "gas:candidate-vibid:2622000685437": 29,
+      "gas:candidate-vibid:2622000687415": 16,
+      "gas:candidate-vibid:2622000687427": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633356&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633356&type=464",
@@ -1931,15 +1931,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 114,
-      "Десинов Денис Анатольевич": 52,
-      "Епифанова Мария Александровна": 50,
-      "Кравченко Юрий Александрович": 185,
-      "Красов Андрей Леонидович": 672,
-      "Кусова Ирина Гасановна": 44,
-      "Ляблин Андрей Алексеевич": 42,
-      "Рогов Владимир Александрович": 37,
-      "Тумашев Андрей Рамильевич": 16
+      "gas:candidate-vibid:2622000687166": 114,
+      "gas:candidate-vibid:2622000686677": 52,
+      "gas:candidate-vibid:2622000687051": 50,
+      "gas:candidate-vibid:2622000660670": 185,
+      "gas:candidate-vibid:2622000686573": 672,
+      "gas:candidate-vibid:2622000686220": 44,
+      "gas:candidate-vibid:2622000685437": 42,
+      "gas:candidate-vibid:2622000687415": 37,
+      "gas:candidate-vibid:2622000687427": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633356&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633356&type=464",
@@ -1990,15 +1990,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 87,
-      "Десинов Денис Анатольевич": 29,
-      "Епифанова Мария Александровна": 23,
-      "Кравченко Юрий Александрович": 76,
-      "Красов Андрей Леонидович": 171,
-      "Кусова Ирина Гасановна": 18,
-      "Ляблин Андрей Алексеевич": 42,
-      "Рогов Владимир Александрович": 44,
-      "Тумашев Андрей Рамильевич": 14
+      "gas:candidate-vibid:2622000687166": 87,
+      "gas:candidate-vibid:2622000686677": 29,
+      "gas:candidate-vibid:2622000687051": 23,
+      "gas:candidate-vibid:2622000660670": 76,
+      "gas:candidate-vibid:2622000686573": 171,
+      "gas:candidate-vibid:2622000686220": 18,
+      "gas:candidate-vibid:2622000685437": 42,
+      "gas:candidate-vibid:2622000687415": 44,
+      "gas:candidate-vibid:2622000687427": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633356&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633356&type=464",
@@ -2049,15 +2049,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 85,
-      "Десинов Денис Анатольевич": 12,
-      "Епифанова Мария Александровна": 27,
-      "Кравченко Юрий Александрович": 48,
-      "Красов Андрей Леонидович": 142,
-      "Кусова Ирина Гасановна": 23,
-      "Ляблин Андрей Алексеевич": 22,
-      "Рогов Владимир Александрович": 29,
-      "Тумашев Андрей Рамильевич": 11
+      "gas:candidate-vibid:2622000687166": 85,
+      "gas:candidate-vibid:2622000686677": 12,
+      "gas:candidate-vibid:2622000687051": 27,
+      "gas:candidate-vibid:2622000660670": 48,
+      "gas:candidate-vibid:2622000686573": 142,
+      "gas:candidate-vibid:2622000686220": 23,
+      "gas:candidate-vibid:2622000685437": 22,
+      "gas:candidate-vibid:2622000687415": 29,
+      "gas:candidate-vibid:2622000687427": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633356&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633356&type=464",
@@ -2108,15 +2108,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 131,
-      "Десинов Денис Анатольевич": 31,
-      "Епифанова Мария Александровна": 53,
-      "Кравченко Юрий Александрович": 117,
-      "Красов Андрей Леонидович": 307,
-      "Кусова Ирина Гасановна": 34,
-      "Ляблин Андрей Алексеевич": 60,
-      "Рогов Владимир Александрович": 50,
-      "Тумашев Андрей Рамильевич": 16
+      "gas:candidate-vibid:2622000687166": 131,
+      "gas:candidate-vibid:2622000686677": 31,
+      "gas:candidate-vibid:2622000687051": 53,
+      "gas:candidate-vibid:2622000660670": 117,
+      "gas:candidate-vibid:2622000686573": 307,
+      "gas:candidate-vibid:2622000686220": 34,
+      "gas:candidate-vibid:2622000685437": 60,
+      "gas:candidate-vibid:2622000687415": 50,
+      "gas:candidate-vibid:2622000687427": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633356&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633356&type=464",
@@ -2167,15 +2167,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 63,
-      "Десинов Денис Анатольевич": 12,
-      "Епифанова Мария Александровна": 26,
-      "Кравченко Юрий Александрович": 60,
-      "Красов Андрей Леонидович": 279,
-      "Кусова Ирина Гасановна": 27,
-      "Ляблин Андрей Алексеевич": 32,
-      "Рогов Владимир Александрович": 20,
-      "Тумашев Андрей Рамильевич": 10
+      "gas:candidate-vibid:2622000687166": 63,
+      "gas:candidate-vibid:2622000686677": 12,
+      "gas:candidate-vibid:2622000687051": 26,
+      "gas:candidate-vibid:2622000660670": 60,
+      "gas:candidate-vibid:2622000686573": 279,
+      "gas:candidate-vibid:2622000686220": 27,
+      "gas:candidate-vibid:2622000685437": 32,
+      "gas:candidate-vibid:2622000687415": 20,
+      "gas:candidate-vibid:2622000687427": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633356&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633356&type=464",
@@ -2226,15 +2226,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 49,
-      "Десинов Денис Анатольевич": 9,
-      "Епифанова Мария Александровна": 30,
-      "Кравченко Юрий Александрович": 64,
-      "Красов Андрей Леонидович": 129,
-      "Кусова Ирина Гасановна": 19,
-      "Ляблин Андрей Алексеевич": 17,
-      "Рогов Владимир Александрович": 25,
-      "Тумашев Андрей Рамильевич": 10
+      "gas:candidate-vibid:2622000687166": 49,
+      "gas:candidate-vibid:2622000686677": 9,
+      "gas:candidate-vibid:2622000687051": 30,
+      "gas:candidate-vibid:2622000660670": 64,
+      "gas:candidate-vibid:2622000686573": 129,
+      "gas:candidate-vibid:2622000686220": 19,
+      "gas:candidate-vibid:2622000685437": 17,
+      "gas:candidate-vibid:2622000687415": 25,
+      "gas:candidate-vibid:2622000687427": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633356&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633356&type=464",
@@ -2285,15 +2285,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 16,
-      "Десинов Денис Анатольевич": 15,
-      "Епифанова Мария Александровна": 18,
-      "Кравченко Юрий Александрович": 54,
-      "Красов Андрей Леонидович": 1240,
-      "Кусова Ирина Гасановна": 12,
-      "Ляблин Андрей Алексеевич": 6,
-      "Рогов Владимир Александрович": 7,
-      "Тумашев Андрей Рамильевич": 8
+      "gas:candidate-vibid:2622000687166": 16,
+      "gas:candidate-vibid:2622000686677": 15,
+      "gas:candidate-vibid:2622000687051": 18,
+      "gas:candidate-vibid:2622000660670": 54,
+      "gas:candidate-vibid:2622000686573": 1240,
+      "gas:candidate-vibid:2622000686220": 12,
+      "gas:candidate-vibid:2622000685437": 6,
+      "gas:candidate-vibid:2622000687415": 7,
+      "gas:candidate-vibid:2622000687427": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633356&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633356&type=464",
@@ -2344,15 +2344,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 104,
-      "Десинов Денис Анатольевич": 47,
-      "Епифанова Мария Александровна": 19,
-      "Кравченко Юрий Александрович": 143,
-      "Красов Андрей Леонидович": 335,
-      "Кусова Ирина Гасановна": 21,
-      "Ляблин Андрей Алексеевич": 77,
-      "Рогов Владимир Александрович": 35,
-      "Тумашев Андрей Рамильевич": 11
+      "gas:candidate-vibid:2622000687166": 104,
+      "gas:candidate-vibid:2622000686677": 47,
+      "gas:candidate-vibid:2622000687051": 19,
+      "gas:candidate-vibid:2622000660670": 143,
+      "gas:candidate-vibid:2622000686573": 335,
+      "gas:candidate-vibid:2622000686220": 21,
+      "gas:candidate-vibid:2622000685437": 77,
+      "gas:candidate-vibid:2622000687415": 35,
+      "gas:candidate-vibid:2622000687427": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633357&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633357&type=464",
@@ -2403,15 +2403,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 143,
-      "Десинов Денис Анатольевич": 43,
-      "Епифанова Мария Александровна": 26,
-      "Кравченко Юрий Александрович": 183,
-      "Красов Андрей Леонидович": 250,
-      "Кусова Ирина Гасановна": 32,
-      "Ляблин Андрей Алексеевич": 102,
-      "Рогов Владимир Александрович": 22,
-      "Тумашев Андрей Рамильевич": 7
+      "gas:candidate-vibid:2622000687166": 143,
+      "gas:candidate-vibid:2622000686677": 43,
+      "gas:candidate-vibid:2622000687051": 26,
+      "gas:candidate-vibid:2622000660670": 183,
+      "gas:candidate-vibid:2622000686573": 250,
+      "gas:candidate-vibid:2622000686220": 32,
+      "gas:candidate-vibid:2622000685437": 102,
+      "gas:candidate-vibid:2622000687415": 22,
+      "gas:candidate-vibid:2622000687427": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633357&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633357&type=464",
@@ -2462,15 +2462,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 125,
-      "Десинов Денис Анатольевич": 44,
-      "Епифанова Мария Александровна": 22,
-      "Кравченко Юрий Александрович": 137,
-      "Красов Андрей Леонидович": 251,
-      "Кусова Ирина Гасановна": 33,
-      "Ляблин Андрей Алексеевич": 77,
-      "Рогов Владимир Александрович": 27,
-      "Тумашев Андрей Рамильевич": 15
+      "gas:candidate-vibid:2622000687166": 125,
+      "gas:candidate-vibid:2622000686677": 44,
+      "gas:candidate-vibid:2622000687051": 22,
+      "gas:candidate-vibid:2622000660670": 137,
+      "gas:candidate-vibid:2622000686573": 251,
+      "gas:candidate-vibid:2622000686220": 33,
+      "gas:candidate-vibid:2622000685437": 77,
+      "gas:candidate-vibid:2622000687415": 27,
+      "gas:candidate-vibid:2622000687427": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633357&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633357&type=464",
@@ -2521,15 +2521,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 111,
-      "Десинов Денис Анатольевич": 52,
-      "Епифанова Мария Александровна": 25,
-      "Кравченко Юрий Александрович": 138,
-      "Красов Андрей Леонидович": 238,
-      "Кусова Ирина Гасановна": 19,
-      "Ляблин Андрей Алексеевич": 92,
-      "Рогов Владимир Александрович": 31,
-      "Тумашев Андрей Рамильевич": 9
+      "gas:candidate-vibid:2622000687166": 111,
+      "gas:candidate-vibid:2622000686677": 52,
+      "gas:candidate-vibid:2622000687051": 25,
+      "gas:candidate-vibid:2622000660670": 138,
+      "gas:candidate-vibid:2622000686573": 238,
+      "gas:candidate-vibid:2622000686220": 19,
+      "gas:candidate-vibid:2622000685437": 92,
+      "gas:candidate-vibid:2622000687415": 31,
+      "gas:candidate-vibid:2622000687427": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633357&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633357&type=464",
@@ -2580,15 +2580,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 138,
-      "Десинов Денис Анатольевич": 43,
-      "Епифанова Мария Александровна": 28,
-      "Кравченко Юрий Александрович": 116,
-      "Красов Андрей Леонидович": 208,
-      "Кусова Ирина Гасановна": 26,
-      "Ляблин Андрей Алексеевич": 82,
-      "Рогов Владимир Александрович": 38,
-      "Тумашев Андрей Рамильевич": 9
+      "gas:candidate-vibid:2622000687166": 138,
+      "gas:candidate-vibid:2622000686677": 43,
+      "gas:candidate-vibid:2622000687051": 28,
+      "gas:candidate-vibid:2622000660670": 116,
+      "gas:candidate-vibid:2622000686573": 208,
+      "gas:candidate-vibid:2622000686220": 26,
+      "gas:candidate-vibid:2622000685437": 82,
+      "gas:candidate-vibid:2622000687415": 38,
+      "gas:candidate-vibid:2622000687427": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633357&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633357&type=464",
@@ -2639,15 +2639,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 127,
-      "Десинов Денис Анатольевич": 41,
-      "Епифанова Мария Александровна": 33,
-      "Кравченко Юрий Александрович": 94,
-      "Красов Андрей Леонидович": 248,
-      "Кусова Ирина Гасановна": 29,
-      "Ляблин Андрей Алексеевич": 97,
-      "Рогов Владимир Александрович": 23,
-      "Тумашев Андрей Рамильевич": 9
+      "gas:candidate-vibid:2622000687166": 127,
+      "gas:candidate-vibid:2622000686677": 41,
+      "gas:candidate-vibid:2622000687051": 33,
+      "gas:candidate-vibid:2622000660670": 94,
+      "gas:candidate-vibid:2622000686573": 248,
+      "gas:candidate-vibid:2622000686220": 29,
+      "gas:candidate-vibid:2622000685437": 97,
+      "gas:candidate-vibid:2622000687415": 23,
+      "gas:candidate-vibid:2622000687427": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633357&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633357&type=464",
@@ -2698,15 +2698,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 147,
-      "Десинов Денис Анатольевич": 40,
-      "Епифанова Мария Александровна": 31,
-      "Кравченко Юрий Александрович": 127,
-      "Красов Андрей Леонидович": 225,
-      "Кусова Ирина Гасановна": 23,
-      "Ляблин Андрей Алексеевич": 97,
-      "Рогов Владимир Александрович": 30,
-      "Тумашев Андрей Рамильевич": 25
+      "gas:candidate-vibid:2622000687166": 147,
+      "gas:candidate-vibid:2622000686677": 40,
+      "gas:candidate-vibid:2622000687051": 31,
+      "gas:candidate-vibid:2622000660670": 127,
+      "gas:candidate-vibid:2622000686573": 225,
+      "gas:candidate-vibid:2622000686220": 23,
+      "gas:candidate-vibid:2622000685437": 97,
+      "gas:candidate-vibid:2622000687415": 30,
+      "gas:candidate-vibid:2622000687427": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633357&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633357&type=464",
@@ -2757,15 +2757,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 141,
-      "Десинов Денис Анатольевич": 40,
-      "Епифанова Мария Александровна": 18,
-      "Кравченко Юрий Александрович": 106,
-      "Красов Андрей Леонидович": 172,
-      "Кусова Ирина Гасановна": 19,
-      "Ляблин Андрей Алексеевич": 71,
-      "Рогов Владимир Александрович": 29,
-      "Тумашев Андрей Рамильевич": 9
+      "gas:candidate-vibid:2622000687166": 141,
+      "gas:candidate-vibid:2622000686677": 40,
+      "gas:candidate-vibid:2622000687051": 18,
+      "gas:candidate-vibid:2622000660670": 106,
+      "gas:candidate-vibid:2622000686573": 172,
+      "gas:candidate-vibid:2622000686220": 19,
+      "gas:candidate-vibid:2622000685437": 71,
+      "gas:candidate-vibid:2622000687415": 29,
+      "gas:candidate-vibid:2622000687427": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633357&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633357&type=464",
@@ -2816,15 +2816,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 112,
-      "Десинов Денис Анатольевич": 39,
-      "Епифанова Мария Александровна": 21,
-      "Кравченко Юрий Александрович": 155,
-      "Красов Андрей Леонидович": 316,
-      "Кусова Ирина Гасановна": 30,
-      "Ляблин Андрей Алексеевич": 89,
-      "Рогов Владимир Александрович": 22,
-      "Тумашев Андрей Рамильевич": 11
+      "gas:candidate-vibid:2622000687166": 112,
+      "gas:candidate-vibid:2622000686677": 39,
+      "gas:candidate-vibid:2622000687051": 21,
+      "gas:candidate-vibid:2622000660670": 155,
+      "gas:candidate-vibid:2622000686573": 316,
+      "gas:candidate-vibid:2622000686220": 30,
+      "gas:candidate-vibid:2622000685437": 89,
+      "gas:candidate-vibid:2622000687415": 22,
+      "gas:candidate-vibid:2622000687427": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633357&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633357&type=464",
@@ -2875,15 +2875,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 159,
-      "Десинов Денис Анатольевич": 39,
-      "Епифанова Мария Александровна": 31,
-      "Кравченко Юрий Александрович": 150,
-      "Красов Андрей Леонидович": 279,
-      "Кусова Ирина Гасановна": 26,
-      "Ляблин Андрей Алексеевич": 83,
-      "Рогов Владимир Александрович": 36,
-      "Тумашев Андрей Рамильевич": 8
+      "gas:candidate-vibid:2622000687166": 159,
+      "gas:candidate-vibid:2622000686677": 39,
+      "gas:candidate-vibid:2622000687051": 31,
+      "gas:candidate-vibid:2622000660670": 150,
+      "gas:candidate-vibid:2622000686573": 279,
+      "gas:candidate-vibid:2622000686220": 26,
+      "gas:candidate-vibid:2622000685437": 83,
+      "gas:candidate-vibid:2622000687415": 36,
+      "gas:candidate-vibid:2622000687427": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633357&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633357&type=464",
@@ -2934,15 +2934,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 153,
-      "Десинов Денис Анатольевич": 55,
-      "Епифанова Мария Александровна": 37,
-      "Кравченко Юрий Александрович": 120,
-      "Красов Андрей Леонидович": 331,
-      "Кусова Ирина Гасановна": 27,
-      "Ляблин Андрей Алексеевич": 109,
-      "Рогов Владимир Александрович": 26,
-      "Тумашев Андрей Рамильевич": 10
+      "gas:candidate-vibid:2622000687166": 153,
+      "gas:candidate-vibid:2622000686677": 55,
+      "gas:candidate-vibid:2622000687051": 37,
+      "gas:candidate-vibid:2622000660670": 120,
+      "gas:candidate-vibid:2622000686573": 331,
+      "gas:candidate-vibid:2622000686220": 27,
+      "gas:candidate-vibid:2622000685437": 109,
+      "gas:candidate-vibid:2622000687415": 26,
+      "gas:candidate-vibid:2622000687427": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633357&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633357&type=464",
@@ -2993,15 +2993,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 122,
-      "Десинов Денис Анатольевич": 29,
-      "Епифанова Мария Александровна": 18,
-      "Кравченко Юрий Александрович": 118,
-      "Красов Андрей Леонидович": 391,
-      "Кусова Ирина Гасановна": 24,
-      "Ляблин Андрей Алексеевич": 72,
-      "Рогов Владимир Александрович": 23,
-      "Тумашев Андрей Рамильевич": 7
+      "gas:candidate-vibid:2622000687166": 122,
+      "gas:candidate-vibid:2622000686677": 29,
+      "gas:candidate-vibid:2622000687051": 18,
+      "gas:candidate-vibid:2622000660670": 118,
+      "gas:candidate-vibid:2622000686573": 391,
+      "gas:candidate-vibid:2622000686220": 24,
+      "gas:candidate-vibid:2622000685437": 72,
+      "gas:candidate-vibid:2622000687415": 23,
+      "gas:candidate-vibid:2622000687427": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633357&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633357&type=464",
@@ -3052,15 +3052,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 135,
-      "Десинов Денис Анатольевич": 52,
-      "Епифанова Мария Александровна": 34,
-      "Кравченко Юрий Александрович": 157,
-      "Красов Андрей Леонидович": 273,
-      "Кусова Ирина Гасановна": 28,
-      "Ляблин Андрей Алексеевич": 93,
-      "Рогов Владимир Александрович": 38,
-      "Тумашев Андрей Рамильевич": 11
+      "gas:candidate-vibid:2622000687166": 135,
+      "gas:candidate-vibid:2622000686677": 52,
+      "gas:candidate-vibid:2622000687051": 34,
+      "gas:candidate-vibid:2622000660670": 157,
+      "gas:candidate-vibid:2622000686573": 273,
+      "gas:candidate-vibid:2622000686220": 28,
+      "gas:candidate-vibid:2622000685437": 93,
+      "gas:candidate-vibid:2622000687415": 38,
+      "gas:candidate-vibid:2622000687427": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633357&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633357&type=464",
@@ -3111,15 +3111,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 126,
-      "Десинов Денис Анатольевич": 47,
-      "Епифанова Мария Александровна": 27,
-      "Кравченко Юрий Александрович": 163,
-      "Красов Андрей Леонидович": 233,
-      "Кусова Ирина Гасановна": 33,
-      "Ляблин Андрей Алексеевич": 102,
-      "Рогов Владимир Александрович": 24,
-      "Тумашев Андрей Рамильевич": 16
+      "gas:candidate-vibid:2622000687166": 126,
+      "gas:candidate-vibid:2622000686677": 47,
+      "gas:candidate-vibid:2622000687051": 27,
+      "gas:candidate-vibid:2622000660670": 163,
+      "gas:candidate-vibid:2622000686573": 233,
+      "gas:candidate-vibid:2622000686220": 33,
+      "gas:candidate-vibid:2622000685437": 102,
+      "gas:candidate-vibid:2622000687415": 24,
+      "gas:candidate-vibid:2622000687427": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633357&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633357&type=464",
@@ -3170,15 +3170,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 125,
-      "Десинов Денис Анатольевич": 51,
-      "Епифанова Мария Александровна": 36,
-      "Кравченко Юрий Александрович": 149,
-      "Красов Андрей Леонидович": 251,
-      "Кусова Ирина Гасановна": 30,
-      "Ляблин Андрей Алексеевич": 94,
-      "Рогов Владимир Александрович": 20,
-      "Тумашев Андрей Рамильевич": 15
+      "gas:candidate-vibid:2622000687166": 125,
+      "gas:candidate-vibid:2622000686677": 51,
+      "gas:candidate-vibid:2622000687051": 36,
+      "gas:candidate-vibid:2622000660670": 149,
+      "gas:candidate-vibid:2622000686573": 251,
+      "gas:candidate-vibid:2622000686220": 30,
+      "gas:candidate-vibid:2622000685437": 94,
+      "gas:candidate-vibid:2622000687415": 20,
+      "gas:candidate-vibid:2622000687427": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633357&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633357&type=464",
@@ -3229,15 +3229,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 135,
-      "Десинов Денис Анатольевич": 43,
-      "Епифанова Мария Александровна": 30,
-      "Кравченко Юрий Александрович": 151,
-      "Красов Андрей Леонидович": 236,
-      "Кусова Ирина Гасановна": 40,
-      "Ляблин Андрей Алексеевич": 97,
-      "Рогов Владимир Александрович": 24,
-      "Тумашев Андрей Рамильевич": 12
+      "gas:candidate-vibid:2622000687166": 135,
+      "gas:candidate-vibid:2622000686677": 43,
+      "gas:candidate-vibid:2622000687051": 30,
+      "gas:candidate-vibid:2622000660670": 151,
+      "gas:candidate-vibid:2622000686573": 236,
+      "gas:candidate-vibid:2622000686220": 40,
+      "gas:candidate-vibid:2622000685437": 97,
+      "gas:candidate-vibid:2622000687415": 24,
+      "gas:candidate-vibid:2622000687427": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633357&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633357&type=464",
@@ -3288,15 +3288,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 142,
-      "Десинов Денис Анатольевич": 32,
-      "Епифанова Мария Александровна": 23,
-      "Кравченко Юрий Александрович": 114,
-      "Красов Андрей Леонидович": 178,
-      "Кусова Ирина Гасановна": 18,
-      "Ляблин Андрей Алексеевич": 87,
-      "Рогов Владимир Александрович": 29,
-      "Тумашев Андрей Рамильевич": 16
+      "gas:candidate-vibid:2622000687166": 142,
+      "gas:candidate-vibid:2622000686677": 32,
+      "gas:candidate-vibid:2622000687051": 23,
+      "gas:candidate-vibid:2622000660670": 114,
+      "gas:candidate-vibid:2622000686573": 178,
+      "gas:candidate-vibid:2622000686220": 18,
+      "gas:candidate-vibid:2622000685437": 87,
+      "gas:candidate-vibid:2622000687415": 29,
+      "gas:candidate-vibid:2622000687427": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633357&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633357&type=464",
@@ -3347,15 +3347,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 138,
-      "Десинов Денис Анатольевич": 37,
-      "Епифанова Мария Александровна": 37,
-      "Кравченко Юрий Александрович": 128,
-      "Красов Андрей Леонидович": 185,
-      "Кусова Ирина Гасановна": 26,
-      "Ляблин Андрей Алексеевич": 48,
-      "Рогов Владимир Александрович": 26,
-      "Тумашев Андрей Рамильевич": 15
+      "gas:candidate-vibid:2622000687166": 138,
+      "gas:candidate-vibid:2622000686677": 37,
+      "gas:candidate-vibid:2622000687051": 37,
+      "gas:candidate-vibid:2622000660670": 128,
+      "gas:candidate-vibid:2622000686573": 185,
+      "gas:candidate-vibid:2622000686220": 26,
+      "gas:candidate-vibid:2622000685437": 48,
+      "gas:candidate-vibid:2622000687415": 26,
+      "gas:candidate-vibid:2622000687427": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633357&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633357&type=464",
@@ -3406,15 +3406,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 141,
-      "Десинов Денис Анатольевич": 38,
-      "Епифанова Мария Александровна": 40,
-      "Кравченко Юрий Александрович": 57,
-      "Красов Андрей Леонидович": 336,
-      "Кусова Ирина Гасановна": 21,
-      "Ляблин Андрей Алексеевич": 69,
-      "Рогов Владимир Александрович": 43,
-      "Тумашев Андрей Рамильевич": 19
+      "gas:candidate-vibid:2622000687166": 141,
+      "gas:candidate-vibid:2622000686677": 38,
+      "gas:candidate-vibid:2622000687051": 40,
+      "gas:candidate-vibid:2622000660670": 57,
+      "gas:candidate-vibid:2622000686573": 336,
+      "gas:candidate-vibid:2622000686220": 21,
+      "gas:candidate-vibid:2622000685437": 69,
+      "gas:candidate-vibid:2622000687415": 43,
+      "gas:candidate-vibid:2622000687427": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633357&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633357&type=464",
@@ -3465,15 +3465,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 120,
-      "Десинов Денис Анатольевич": 52,
-      "Епифанова Мария Александровна": 29,
-      "Кравченко Юрий Александрович": 114,
-      "Красов Андрей Леонидович": 225,
-      "Кусова Ирина Гасановна": 26,
-      "Ляблин Андрей Алексеевич": 87,
-      "Рогов Владимир Александрович": 23,
-      "Тумашев Андрей Рамильевич": 11
+      "gas:candidate-vibid:2622000687166": 120,
+      "gas:candidate-vibid:2622000686677": 52,
+      "gas:candidate-vibid:2622000687051": 29,
+      "gas:candidate-vibid:2622000660670": 114,
+      "gas:candidate-vibid:2622000686573": 225,
+      "gas:candidate-vibid:2622000686220": 26,
+      "gas:candidate-vibid:2622000685437": 87,
+      "gas:candidate-vibid:2622000687415": 23,
+      "gas:candidate-vibid:2622000687427": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633357&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633357&type=464",
@@ -3524,15 +3524,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 138,
-      "Десинов Денис Анатольевич": 39,
-      "Епифанова Мария Александровна": 39,
-      "Кравченко Юрий Александрович": 120,
-      "Красов Андрей Леонидович": 210,
-      "Кусова Ирина Гасановна": 26,
-      "Ляблин Андрей Алексеевич": 68,
-      "Рогов Владимир Александрович": 31,
-      "Тумашев Андрей Рамильевич": 12
+      "gas:candidate-vibid:2622000687166": 138,
+      "gas:candidate-vibid:2622000686677": 39,
+      "gas:candidate-vibid:2622000687051": 39,
+      "gas:candidate-vibid:2622000660670": 120,
+      "gas:candidate-vibid:2622000686573": 210,
+      "gas:candidate-vibid:2622000686220": 26,
+      "gas:candidate-vibid:2622000685437": 68,
+      "gas:candidate-vibid:2622000687415": 31,
+      "gas:candidate-vibid:2622000687427": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633357&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633357&type=464",
@@ -3583,15 +3583,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 119,
-      "Десинов Денис Анатольевич": 43,
-      "Епифанова Мария Александровна": 28,
-      "Кравченко Юрий Александрович": 125,
-      "Красов Андрей Леонидович": 229,
-      "Кусова Ирина Гасановна": 24,
-      "Ляблин Андрей Алексеевич": 72,
-      "Рогов Владимир Александрович": 17,
-      "Тумашев Андрей Рамильевич": 16
+      "gas:candidate-vibid:2622000687166": 119,
+      "gas:candidate-vibid:2622000686677": 43,
+      "gas:candidate-vibid:2622000687051": 28,
+      "gas:candidate-vibid:2622000660670": 125,
+      "gas:candidate-vibid:2622000686573": 229,
+      "gas:candidate-vibid:2622000686220": 24,
+      "gas:candidate-vibid:2622000685437": 72,
+      "gas:candidate-vibid:2622000687415": 17,
+      "gas:candidate-vibid:2622000687427": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633357&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633357&type=464",
@@ -3642,15 +3642,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 107,
-      "Десинов Денис Анатольевич": 31,
-      "Епифанова Мария Александровна": 27,
-      "Кравченко Юрий Александрович": 102,
-      "Красов Андрей Леонидович": 193,
-      "Кусова Ирина Гасановна": 27,
-      "Ляблин Андрей Алексеевич": 71,
-      "Рогов Владимир Александрович": 26,
-      "Тумашев Андрей Рамильевич": 14
+      "gas:candidate-vibid:2622000687166": 107,
+      "gas:candidate-vibid:2622000686677": 31,
+      "gas:candidate-vibid:2622000687051": 27,
+      "gas:candidate-vibid:2622000660670": 102,
+      "gas:candidate-vibid:2622000686573": 193,
+      "gas:candidate-vibid:2622000686220": 27,
+      "gas:candidate-vibid:2622000685437": 71,
+      "gas:candidate-vibid:2622000687415": 26,
+      "gas:candidate-vibid:2622000687427": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633357&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633357&type=464",
@@ -3701,15 +3701,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 121,
-      "Десинов Денис Анатольевич": 29,
-      "Епифанова Мария Александровна": 24,
-      "Кравченко Юрий Александрович": 127,
-      "Красов Андрей Леонидович": 187,
-      "Кусова Ирина Гасановна": 21,
-      "Ляблин Андрей Алексеевич": 62,
-      "Рогов Владимир Александрович": 27,
-      "Тумашев Андрей Рамильевич": 17
+      "gas:candidate-vibid:2622000687166": 121,
+      "gas:candidate-vibid:2622000686677": 29,
+      "gas:candidate-vibid:2622000687051": 24,
+      "gas:candidate-vibid:2622000660670": 127,
+      "gas:candidate-vibid:2622000686573": 187,
+      "gas:candidate-vibid:2622000686220": 21,
+      "gas:candidate-vibid:2622000685437": 62,
+      "gas:candidate-vibid:2622000687415": 27,
+      "gas:candidate-vibid:2622000687427": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633357&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633357&type=464",
@@ -3760,15 +3760,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 139,
-      "Десинов Денис Анатольевич": 47,
-      "Епифанова Мария Александровна": 24,
-      "Кравченко Юрий Александрович": 105,
-      "Красов Андрей Леонидович": 211,
-      "Кусова Ирина Гасановна": 28,
-      "Ляблин Андрей Алексеевич": 77,
-      "Рогов Владимир Александрович": 33,
-      "Тумашев Андрей Рамильевич": 4
+      "gas:candidate-vibid:2622000687166": 139,
+      "gas:candidate-vibid:2622000686677": 47,
+      "gas:candidate-vibid:2622000687051": 24,
+      "gas:candidate-vibid:2622000660670": 105,
+      "gas:candidate-vibid:2622000686573": 211,
+      "gas:candidate-vibid:2622000686220": 28,
+      "gas:candidate-vibid:2622000685437": 77,
+      "gas:candidate-vibid:2622000687415": 33,
+      "gas:candidate-vibid:2622000687427": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633357&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633357&type=464",
@@ -3819,15 +3819,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 114,
-      "Десинов Денис Анатольевич": 28,
-      "Епифанова Мария Александровна": 25,
-      "Кравченко Юрий Александрович": 98,
-      "Красов Андрей Леонидович": 199,
-      "Кусова Ирина Гасановна": 17,
-      "Ляблин Андрей Алексеевич": 84,
-      "Рогов Владимир Александрович": 22,
-      "Тумашев Андрей Рамильевич": 11
+      "gas:candidate-vibid:2622000687166": 114,
+      "gas:candidate-vibid:2622000686677": 28,
+      "gas:candidate-vibid:2622000687051": 25,
+      "gas:candidate-vibid:2622000660670": 98,
+      "gas:candidate-vibid:2622000686573": 199,
+      "gas:candidate-vibid:2622000686220": 17,
+      "gas:candidate-vibid:2622000685437": 84,
+      "gas:candidate-vibid:2622000687415": 22,
+      "gas:candidate-vibid:2622000687427": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633357&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633357&type=464",
@@ -3878,15 +3878,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 137,
-      "Десинов Денис Анатольевич": 56,
-      "Епифанова Мария Александровна": 41,
-      "Кравченко Юрий Александрович": 125,
-      "Красов Андрей Леонидович": 204,
-      "Кусова Ирина Гасановна": 19,
-      "Ляблин Андрей Алексеевич": 70,
-      "Рогов Владимир Александрович": 38,
-      "Тумашев Андрей Рамильевич": 12
+      "gas:candidate-vibid:2622000687166": 137,
+      "gas:candidate-vibid:2622000686677": 56,
+      "gas:candidate-vibid:2622000687051": 41,
+      "gas:candidate-vibid:2622000660670": 125,
+      "gas:candidate-vibid:2622000686573": 204,
+      "gas:candidate-vibid:2622000686220": 19,
+      "gas:candidate-vibid:2622000685437": 70,
+      "gas:candidate-vibid:2622000687415": 38,
+      "gas:candidate-vibid:2622000687427": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633357&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633357&type=464",
@@ -3937,15 +3937,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 184,
-      "Десинов Денис Анатольевич": 46,
-      "Епифанова Мария Александровна": 31,
-      "Кравченко Юрий Александрович": 165,
-      "Красов Андрей Леонидович": 251,
-      "Кусова Ирина Гасановна": 27,
-      "Ляблин Андрей Алексеевич": 97,
-      "Рогов Владимир Александрович": 27,
-      "Тумашев Андрей Рамильевич": 9
+      "gas:candidate-vibid:2622000687166": 184,
+      "gas:candidate-vibid:2622000686677": 46,
+      "gas:candidate-vibid:2622000687051": 31,
+      "gas:candidate-vibid:2622000660670": 165,
+      "gas:candidate-vibid:2622000686573": 251,
+      "gas:candidate-vibid:2622000686220": 27,
+      "gas:candidate-vibid:2622000685437": 97,
+      "gas:candidate-vibid:2622000687415": 27,
+      "gas:candidate-vibid:2622000687427": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633357&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633357&type=464",
@@ -3996,15 +3996,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 192,
-      "Десинов Денис Анатольевич": 54,
-      "Епифанова Мария Александровна": 27,
-      "Кравченко Юрий Александрович": 141,
-      "Красов Андрей Леонидович": 204,
-      "Кусова Ирина Гасановна": 18,
-      "Ляблин Андрей Алексеевич": 110,
-      "Рогов Владимир Александрович": 37,
-      "Тумашев Андрей Рамильевич": 6
+      "gas:candidate-vibid:2622000687166": 192,
+      "gas:candidate-vibid:2622000686677": 54,
+      "gas:candidate-vibid:2622000687051": 27,
+      "gas:candidate-vibid:2622000660670": 141,
+      "gas:candidate-vibid:2622000686573": 204,
+      "gas:candidate-vibid:2622000686220": 18,
+      "gas:candidate-vibid:2622000685437": 110,
+      "gas:candidate-vibid:2622000687415": 37,
+      "gas:candidate-vibid:2622000687427": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633357&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633357&type=464",
@@ -4055,15 +4055,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 159,
-      "Десинов Денис Анатольевич": 43,
-      "Епифанова Мария Александровна": 29,
-      "Кравченко Юрий Александрович": 141,
-      "Красов Андрей Леонидович": 181,
-      "Кусова Ирина Гасановна": 14,
-      "Ляблин Андрей Алексеевич": 76,
-      "Рогов Владимир Александрович": 27,
-      "Тумашев Андрей Рамильевич": 9
+      "gas:candidate-vibid:2622000687166": 159,
+      "gas:candidate-vibid:2622000686677": 43,
+      "gas:candidate-vibid:2622000687051": 29,
+      "gas:candidate-vibid:2622000660670": 141,
+      "gas:candidate-vibid:2622000686573": 181,
+      "gas:candidate-vibid:2622000686220": 14,
+      "gas:candidate-vibid:2622000685437": 76,
+      "gas:candidate-vibid:2622000687415": 27,
+      "gas:candidate-vibid:2622000687427": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633357&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633357&type=464",
@@ -4114,15 +4114,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 144,
-      "Десинов Денис Анатольевич": 50,
-      "Епифанова Мария Александровна": 20,
-      "Кравченко Юрий Александрович": 123,
-      "Красов Андрей Леонидович": 184,
-      "Кусова Ирина Гасановна": 22,
-      "Ляблин Андрей Алексеевич": 75,
-      "Рогов Владимир Александрович": 31,
-      "Тумашев Андрей Рамильевич": 9
+      "gas:candidate-vibid:2622000687166": 144,
+      "gas:candidate-vibid:2622000686677": 50,
+      "gas:candidate-vibid:2622000687051": 20,
+      "gas:candidate-vibid:2622000660670": 123,
+      "gas:candidate-vibid:2622000686573": 184,
+      "gas:candidate-vibid:2622000686220": 22,
+      "gas:candidate-vibid:2622000685437": 75,
+      "gas:candidate-vibid:2622000687415": 31,
+      "gas:candidate-vibid:2622000687427": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633357&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633357&type=464",
@@ -4173,15 +4173,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 119,
-      "Десинов Денис Анатольевич": 35,
-      "Епифанова Мария Александровна": 26,
-      "Кравченко Юрий Александрович": 161,
-      "Красов Андрей Леонидович": 261,
-      "Кусова Ирина Гасановна": 34,
-      "Ляблин Андрей Алексеевич": 97,
-      "Рогов Владимир Александрович": 36,
-      "Тумашев Андрей Рамильевич": 13
+      "gas:candidate-vibid:2622000687166": 119,
+      "gas:candidate-vibid:2622000686677": 35,
+      "gas:candidate-vibid:2622000687051": 26,
+      "gas:candidate-vibid:2622000660670": 161,
+      "gas:candidate-vibid:2622000686573": 261,
+      "gas:candidate-vibid:2622000686220": 34,
+      "gas:candidate-vibid:2622000685437": 97,
+      "gas:candidate-vibid:2622000687415": 36,
+      "gas:candidate-vibid:2622000687427": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633357&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633357&type=464",
@@ -4232,15 +4232,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 119,
-      "Десинов Денис Анатольевич": 30,
-      "Епифанова Мария Александровна": 34,
-      "Кравченко Юрий Александрович": 95,
-      "Красов Андрей Леонидович": 158,
-      "Кусова Ирина Гасановна": 29,
-      "Ляблин Андрей Алексеевич": 107,
-      "Рогов Владимир Александрович": 33,
-      "Тумашев Андрей Рамильевич": 13
+      "gas:candidate-vibid:2622000687166": 119,
+      "gas:candidate-vibid:2622000686677": 30,
+      "gas:candidate-vibid:2622000687051": 34,
+      "gas:candidate-vibid:2622000660670": 95,
+      "gas:candidate-vibid:2622000686573": 158,
+      "gas:candidate-vibid:2622000686220": 29,
+      "gas:candidate-vibid:2622000685437": 107,
+      "gas:candidate-vibid:2622000687415": 33,
+      "gas:candidate-vibid:2622000687427": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633357&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633357&type=464",
@@ -4291,15 +4291,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 103,
-      "Десинов Денис Анатольевич": 52,
-      "Епифанова Мария Александровна": 30,
-      "Кравченко Юрий Александрович": 112,
-      "Красов Андрей Леонидович": 225,
-      "Кусова Ирина Гасановна": 23,
-      "Ляблин Андрей Алексеевич": 105,
-      "Рогов Владимир Александрович": 33,
-      "Тумашев Андрей Рамильевич": 10
+      "gas:candidate-vibid:2622000687166": 103,
+      "gas:candidate-vibid:2622000686677": 52,
+      "gas:candidate-vibid:2622000687051": 30,
+      "gas:candidate-vibid:2622000660670": 112,
+      "gas:candidate-vibid:2622000686573": 225,
+      "gas:candidate-vibid:2622000686220": 23,
+      "gas:candidate-vibid:2622000685437": 105,
+      "gas:candidate-vibid:2622000687415": 33,
+      "gas:candidate-vibid:2622000687427": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633357&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633357&type=464",
@@ -4350,15 +4350,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 147,
-      "Десинов Денис Анатольевич": 36,
-      "Епифанова Мария Александровна": 38,
-      "Кравченко Юрий Александрович": 136,
-      "Красов Андрей Леонидович": 222,
-      "Кусова Ирина Гасановна": 23,
-      "Ляблин Андрей Алексеевич": 130,
-      "Рогов Владимир Александрович": 22,
-      "Тумашев Андрей Рамильевич": 15
+      "gas:candidate-vibid:2622000687166": 147,
+      "gas:candidate-vibid:2622000686677": 36,
+      "gas:candidate-vibid:2622000687051": 38,
+      "gas:candidate-vibid:2622000660670": 136,
+      "gas:candidate-vibid:2622000686573": 222,
+      "gas:candidate-vibid:2622000686220": 23,
+      "gas:candidate-vibid:2622000685437": 130,
+      "gas:candidate-vibid:2622000687415": 22,
+      "gas:candidate-vibid:2622000687427": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633357&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633357&type=464",
@@ -4409,15 +4409,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 133,
-      "Десинов Денис Анатольевич": 44,
-      "Епифанова Мария Александровна": 30,
-      "Кравченко Юрий Александрович": 109,
-      "Красов Андрей Леонидович": 201,
-      "Кусова Ирина Гасановна": 29,
-      "Ляблин Андрей Алексеевич": 108,
-      "Рогов Владимир Александрович": 40,
-      "Тумашев Андрей Рамильевич": 9
+      "gas:candidate-vibid:2622000687166": 133,
+      "gas:candidate-vibid:2622000686677": 44,
+      "gas:candidate-vibid:2622000687051": 30,
+      "gas:candidate-vibid:2622000660670": 109,
+      "gas:candidate-vibid:2622000686573": 201,
+      "gas:candidate-vibid:2622000686220": 29,
+      "gas:candidate-vibid:2622000685437": 108,
+      "gas:candidate-vibid:2622000687415": 40,
+      "gas:candidate-vibid:2622000687427": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633357&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633357&type=464",
@@ -4468,15 +4468,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 163,
-      "Десинов Денис Анатольевич": 48,
-      "Епифанова Мария Александровна": 31,
-      "Кравченко Юрий Александрович": 125,
-      "Красов Андрей Леонидович": 267,
-      "Кусова Ирина Гасановна": 24,
-      "Ляблин Андрей Алексеевич": 158,
-      "Рогов Владимир Александрович": 21,
-      "Тумашев Андрей Рамильевич": 11
+      "gas:candidate-vibid:2622000687166": 163,
+      "gas:candidate-vibid:2622000686677": 48,
+      "gas:candidate-vibid:2622000687051": 31,
+      "gas:candidate-vibid:2622000660670": 125,
+      "gas:candidate-vibid:2622000686573": 267,
+      "gas:candidate-vibid:2622000686220": 24,
+      "gas:candidate-vibid:2622000685437": 158,
+      "gas:candidate-vibid:2622000687415": 21,
+      "gas:candidate-vibid:2622000687427": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633357&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633357&type=464",
@@ -4527,15 +4527,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 141,
-      "Десинов Денис Анатольевич": 28,
-      "Епифанова Мария Александровна": 29,
-      "Кравченко Юрий Александрович": 109,
-      "Красов Андрей Леонидович": 267,
-      "Кусова Ирина Гасановна": 28,
-      "Ляблин Андрей Алексеевич": 146,
-      "Рогов Владимир Александрович": 39,
-      "Тумашев Андрей Рамильевич": 23
+      "gas:candidate-vibid:2622000687166": 141,
+      "gas:candidate-vibid:2622000686677": 28,
+      "gas:candidate-vibid:2622000687051": 29,
+      "gas:candidate-vibid:2622000660670": 109,
+      "gas:candidate-vibid:2622000686573": 267,
+      "gas:candidate-vibid:2622000686220": 28,
+      "gas:candidate-vibid:2622000685437": 146,
+      "gas:candidate-vibid:2622000687415": 39,
+      "gas:candidate-vibid:2622000687427": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633357&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633357&type=464",
@@ -4586,15 +4586,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 111,
-      "Десинов Денис Анатольевич": 31,
-      "Епифанова Мария Александровна": 25,
-      "Кравченко Юрий Александрович": 83,
-      "Красов Андрей Леонидович": 193,
-      "Кусова Ирина Гасановна": 23,
-      "Ляблин Андрей Алексеевич": 92,
-      "Рогов Владимир Александрович": 28,
-      "Тумашев Андрей Рамильевич": 10
+      "gas:candidate-vibid:2622000687166": 111,
+      "gas:candidate-vibid:2622000686677": 31,
+      "gas:candidate-vibid:2622000687051": 25,
+      "gas:candidate-vibid:2622000660670": 83,
+      "gas:candidate-vibid:2622000686573": 193,
+      "gas:candidate-vibid:2622000686220": 23,
+      "gas:candidate-vibid:2622000685437": 92,
+      "gas:candidate-vibid:2622000687415": 28,
+      "gas:candidate-vibid:2622000687427": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633357&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633357&type=464",
@@ -4645,15 +4645,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 141,
-      "Десинов Денис Анатольевич": 42,
-      "Епифанова Мария Александровна": 37,
-      "Кравченко Юрий Александрович": 135,
-      "Красов Андрей Леонидович": 226,
-      "Кусова Ирина Гасановна": 31,
-      "Ляблин Андрей Алексеевич": 163,
-      "Рогов Владимир Александрович": 43,
-      "Тумашев Андрей Рамильевич": 13
+      "gas:candidate-vibid:2622000687166": 141,
+      "gas:candidate-vibid:2622000686677": 42,
+      "gas:candidate-vibid:2622000687051": 37,
+      "gas:candidate-vibid:2622000660670": 135,
+      "gas:candidate-vibid:2622000686573": 226,
+      "gas:candidate-vibid:2622000686220": 31,
+      "gas:candidate-vibid:2622000685437": 163,
+      "gas:candidate-vibid:2622000687415": 43,
+      "gas:candidate-vibid:2622000687427": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633357&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633357&type=464",
@@ -4704,15 +4704,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 182,
-      "Десинов Денис Анатольевич": 45,
-      "Епифанова Мария Александровна": 31,
-      "Кравченко Юрий Александрович": 166,
-      "Красов Андрей Леонидович": 335,
-      "Кусова Ирина Гасановна": 34,
-      "Ляблин Андрей Алексеевич": 133,
-      "Рогов Владимир Александрович": 45,
-      "Тумашев Андрей Рамильевич": 19
+      "gas:candidate-vibid:2622000687166": 182,
+      "gas:candidate-vibid:2622000686677": 45,
+      "gas:candidate-vibid:2622000687051": 31,
+      "gas:candidate-vibid:2622000660670": 166,
+      "gas:candidate-vibid:2622000686573": 335,
+      "gas:candidate-vibid:2622000686220": 34,
+      "gas:candidate-vibid:2622000685437": 133,
+      "gas:candidate-vibid:2622000687415": 45,
+      "gas:candidate-vibid:2622000687427": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633357&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633357&type=464",
@@ -4763,15 +4763,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 168,
-      "Десинов Денис Анатольевич": 39,
-      "Епифанова Мария Александровна": 47,
-      "Кравченко Юрий Александрович": 144,
-      "Красов Андрей Леонидович": 242,
-      "Кусова Ирина Гасановна": 29,
-      "Ляблин Андрей Алексеевич": 135,
-      "Рогов Владимир Александрович": 52,
-      "Тумашев Андрей Рамильевич": 15
+      "gas:candidate-vibid:2622000687166": 168,
+      "gas:candidate-vibid:2622000686677": 39,
+      "gas:candidate-vibid:2622000687051": 47,
+      "gas:candidate-vibid:2622000660670": 144,
+      "gas:candidate-vibid:2622000686573": 242,
+      "gas:candidate-vibid:2622000686220": 29,
+      "gas:candidate-vibid:2622000685437": 135,
+      "gas:candidate-vibid:2622000687415": 52,
+      "gas:candidate-vibid:2622000687427": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633357&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633357&type=464",
@@ -4822,15 +4822,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 160,
-      "Десинов Денис Анатольевич": 28,
-      "Епифанова Мария Александровна": 30,
-      "Кравченко Юрий Александрович": 111,
-      "Красов Андрей Леонидович": 266,
-      "Кусова Ирина Гасановна": 34,
-      "Ляблин Андрей Алексеевич": 98,
-      "Рогов Владимир Александрович": 36,
-      "Тумашев Андрей Рамильевич": 13
+      "gas:candidate-vibid:2622000687166": 160,
+      "gas:candidate-vibid:2622000686677": 28,
+      "gas:candidate-vibid:2622000687051": 30,
+      "gas:candidate-vibid:2622000660670": 111,
+      "gas:candidate-vibid:2622000686573": 266,
+      "gas:candidate-vibid:2622000686220": 34,
+      "gas:candidate-vibid:2622000685437": 98,
+      "gas:candidate-vibid:2622000687415": 36,
+      "gas:candidate-vibid:2622000687427": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633357&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633357&type=464",
@@ -4881,15 +4881,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 130,
-      "Десинов Денис Анатольевич": 52,
-      "Епифанова Мария Александровна": 31,
-      "Кравченко Юрий Александрович": 96,
-      "Красов Андрей Леонидович": 178,
-      "Кусова Ирина Гасановна": 24,
-      "Ляблин Андрей Алексеевич": 137,
-      "Рогов Владимир Александрович": 35,
-      "Тумашев Андрей Рамильевич": 15
+      "gas:candidate-vibid:2622000687166": 130,
+      "gas:candidate-vibid:2622000686677": 52,
+      "gas:candidate-vibid:2622000687051": 31,
+      "gas:candidate-vibid:2622000660670": 96,
+      "gas:candidate-vibid:2622000686573": 178,
+      "gas:candidate-vibid:2622000686220": 24,
+      "gas:candidate-vibid:2622000685437": 137,
+      "gas:candidate-vibid:2622000687415": 35,
+      "gas:candidate-vibid:2622000687427": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633357&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633357&type=464",
@@ -4940,15 +4940,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 137,
-      "Десинов Денис Анатольевич": 29,
-      "Епифанова Мария Александровна": 22,
-      "Кравченко Юрий Александрович": 109,
-      "Красов Андрей Леонидович": 223,
-      "Кусова Ирина Гасановна": 16,
-      "Ляблин Андрей Алексеевич": 118,
-      "Рогов Владимир Александрович": 17,
-      "Тумашев Андрей Рамильевич": 12
+      "gas:candidate-vibid:2622000687166": 137,
+      "gas:candidate-vibid:2622000686677": 29,
+      "gas:candidate-vibid:2622000687051": 22,
+      "gas:candidate-vibid:2622000660670": 109,
+      "gas:candidate-vibid:2622000686573": 223,
+      "gas:candidate-vibid:2622000686220": 16,
+      "gas:candidate-vibid:2622000685437": 118,
+      "gas:candidate-vibid:2622000687415": 17,
+      "gas:candidate-vibid:2622000687427": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633357&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633357&type=464",
@@ -4999,15 +4999,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 163,
-      "Десинов Денис Анатольевич": 34,
-      "Епифанова Мария Александровна": 28,
-      "Кравченко Юрий Александрович": 152,
-      "Красов Андрей Леонидович": 344,
-      "Кусова Ирина Гасановна": 53,
-      "Ляблин Андрей Алексеевич": 144,
-      "Рогов Владимир Александрович": 54,
-      "Тумашев Андрей Рамильевич": 24
+      "gas:candidate-vibid:2622000687166": 163,
+      "gas:candidate-vibid:2622000686677": 34,
+      "gas:candidate-vibid:2622000687051": 28,
+      "gas:candidate-vibid:2622000660670": 152,
+      "gas:candidate-vibid:2622000686573": 344,
+      "gas:candidate-vibid:2622000686220": 53,
+      "gas:candidate-vibid:2622000685437": 144,
+      "gas:candidate-vibid:2622000687415": 54,
+      "gas:candidate-vibid:2622000687427": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633357&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633357&type=464",
@@ -5058,15 +5058,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 126,
-      "Десинов Денис Анатольевич": 32,
-      "Епифанова Мария Александровна": 29,
-      "Кравченко Юрий Александрович": 102,
-      "Красов Андрей Леонидович": 189,
-      "Кусова Ирина Гасановна": 17,
-      "Ляблин Андрей Алексеевич": 163,
-      "Рогов Владимир Александрович": 25,
-      "Тумашев Андрей Рамильевич": 7
+      "gas:candidate-vibid:2622000687166": 126,
+      "gas:candidate-vibid:2622000686677": 32,
+      "gas:candidate-vibid:2622000687051": 29,
+      "gas:candidate-vibid:2622000660670": 102,
+      "gas:candidate-vibid:2622000686573": 189,
+      "gas:candidate-vibid:2622000686220": 17,
+      "gas:candidate-vibid:2622000685437": 163,
+      "gas:candidate-vibid:2622000687415": 25,
+      "gas:candidate-vibid:2622000687427": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633357&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633357&type=464",
@@ -5117,15 +5117,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 161,
-      "Десинов Денис Анатольевич": 45,
-      "Епифанова Мария Александровна": 34,
-      "Кравченко Юрий Александрович": 134,
-      "Красов Андрей Леонидович": 299,
-      "Кусова Ирина Гасановна": 29,
-      "Ляблин Андрей Алексеевич": 183,
-      "Рогов Владимир Александрович": 38,
-      "Тумашев Андрей Рамильевич": 17
+      "gas:candidate-vibid:2622000687166": 161,
+      "gas:candidate-vibid:2622000686677": 45,
+      "gas:candidate-vibid:2622000687051": 34,
+      "gas:candidate-vibid:2622000660670": 134,
+      "gas:candidate-vibid:2622000686573": 299,
+      "gas:candidate-vibid:2622000686220": 29,
+      "gas:candidate-vibid:2622000685437": 183,
+      "gas:candidate-vibid:2622000687415": 38,
+      "gas:candidate-vibid:2622000687427": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633357&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633357&type=464",
@@ -5176,15 +5176,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 115,
-      "Десинов Денис Анатольевич": 41,
-      "Епифанова Мария Александровна": 36,
-      "Кравченко Юрий Александрович": 123,
-      "Красов Андрей Леонидович": 231,
-      "Кусова Ирина Гасановна": 22,
-      "Ляблин Андрей Алексеевич": 117,
-      "Рогов Владимир Александрович": 22,
-      "Тумашев Андрей Рамильевич": 25
+      "gas:candidate-vibid:2622000687166": 115,
+      "gas:candidate-vibid:2622000686677": 41,
+      "gas:candidate-vibid:2622000687051": 36,
+      "gas:candidate-vibid:2622000660670": 123,
+      "gas:candidate-vibid:2622000686573": 231,
+      "gas:candidate-vibid:2622000686220": 22,
+      "gas:candidate-vibid:2622000685437": 117,
+      "gas:candidate-vibid:2622000687415": 22,
+      "gas:candidate-vibid:2622000687427": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633357&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633357&type=464",
@@ -5235,15 +5235,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 151,
-      "Десинов Денис Анатольевич": 32,
-      "Епифанова Мария Александровна": 43,
-      "Кравченко Юрий Александрович": 127,
-      "Красов Андрей Леонидович": 274,
-      "Кусова Ирина Гасановна": 25,
-      "Ляблин Андрей Алексеевич": 158,
-      "Рогов Владимир Александрович": 25,
-      "Тумашев Андрей Рамильевич": 14
+      "gas:candidate-vibid:2622000687166": 151,
+      "gas:candidate-vibid:2622000686677": 32,
+      "gas:candidate-vibid:2622000687051": 43,
+      "gas:candidate-vibid:2622000660670": 127,
+      "gas:candidate-vibid:2622000686573": 274,
+      "gas:candidate-vibid:2622000686220": 25,
+      "gas:candidate-vibid:2622000685437": 158,
+      "gas:candidate-vibid:2622000687415": 25,
+      "gas:candidate-vibid:2622000687427": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633357&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633357&type=464",
@@ -5294,15 +5294,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 138,
-      "Десинов Денис Анатольевич": 31,
-      "Епифанова Мария Александровна": 36,
-      "Кравченко Юрий Александрович": 137,
-      "Красов Андрей Леонидович": 272,
-      "Кусова Ирина Гасановна": 34,
-      "Ляблин Андрей Алексеевич": 135,
-      "Рогов Владимир Александрович": 30,
-      "Тумашев Андрей Рамильевич": 21
+      "gas:candidate-vibid:2622000687166": 138,
+      "gas:candidate-vibid:2622000686677": 31,
+      "gas:candidate-vibid:2622000687051": 36,
+      "gas:candidate-vibid:2622000660670": 137,
+      "gas:candidate-vibid:2622000686573": 272,
+      "gas:candidate-vibid:2622000686220": 34,
+      "gas:candidate-vibid:2622000685437": 135,
+      "gas:candidate-vibid:2622000687415": 30,
+      "gas:candidate-vibid:2622000687427": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633357&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633357&type=464",
@@ -5353,15 +5353,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 96,
-      "Десинов Денис Анатольевич": 34,
-      "Епифанова Мария Александровна": 24,
-      "Кравченко Юрий Александрович": 121,
-      "Красов Андрей Леонидович": 267,
-      "Кусова Ирина Гасановна": 40,
-      "Ляблин Андрей Алексеевич": 62,
-      "Рогов Владимир Александрович": 37,
-      "Тумашев Андрей Рамильевич": 14
+      "gas:candidate-vibid:2622000687166": 96,
+      "gas:candidate-vibid:2622000686677": 34,
+      "gas:candidate-vibid:2622000687051": 24,
+      "gas:candidate-vibid:2622000660670": 121,
+      "gas:candidate-vibid:2622000686573": 267,
+      "gas:candidate-vibid:2622000686220": 40,
+      "gas:candidate-vibid:2622000685437": 62,
+      "gas:candidate-vibid:2622000687415": 37,
+      "gas:candidate-vibid:2622000687427": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633357&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633357&type=464",
@@ -5412,15 +5412,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 80,
-      "Десинов Денис Анатольевич": 23,
-      "Епифанова Мария Александровна": 11,
-      "Кравченко Юрий Александрович": 66,
-      "Красов Андрей Леонидович": 237,
-      "Кусова Ирина Гасановна": 17,
-      "Ляблин Андрей Алексеевич": 24,
-      "Рогов Владимир Александрович": 20,
-      "Тумашев Андрей Рамильевич": 8
+      "gas:candidate-vibid:2622000687166": 80,
+      "gas:candidate-vibid:2622000686677": 23,
+      "gas:candidate-vibid:2622000687051": 11,
+      "gas:candidate-vibid:2622000660670": 66,
+      "gas:candidate-vibid:2622000686573": 237,
+      "gas:candidate-vibid:2622000686220": 17,
+      "gas:candidate-vibid:2622000685437": 24,
+      "gas:candidate-vibid:2622000687415": 20,
+      "gas:candidate-vibid:2622000687427": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633357&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633357&type=464",
@@ -5471,15 +5471,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 67,
-      "Десинов Денис Анатольевич": 18,
-      "Епифанова Мария Александровна": 23,
-      "Кравченко Юрий Александрович": 109,
-      "Красов Андрей Леонидович": 220,
-      "Кусова Ирина Гасановна": 18,
-      "Ляблин Андрей Алексеевич": 36,
-      "Рогов Владимир Александрович": 20,
-      "Тумашев Андрей Рамильевич": 10
+      "gas:candidate-vibid:2622000687166": 67,
+      "gas:candidate-vibid:2622000686677": 18,
+      "gas:candidate-vibid:2622000687051": 23,
+      "gas:candidate-vibid:2622000660670": 109,
+      "gas:candidate-vibid:2622000686573": 220,
+      "gas:candidate-vibid:2622000686220": 18,
+      "gas:candidate-vibid:2622000685437": 36,
+      "gas:candidate-vibid:2622000687415": 20,
+      "gas:candidate-vibid:2622000687427": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633357&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633357&type=464",
@@ -5530,15 +5530,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 167,
-      "Десинов Денис Анатольевич": 30,
-      "Епифанова Мария Александровна": 23,
-      "Кравченко Юрий Александрович": 112,
-      "Красов Андрей Леонидович": 230,
-      "Кусова Ирина Гасановна": 15,
-      "Ляблин Андрей Алексеевич": 70,
-      "Рогов Владимир Александрович": 31,
-      "Тумашев Андрей Рамильевич": 18
+      "gas:candidate-vibid:2622000687166": 167,
+      "gas:candidate-vibid:2622000686677": 30,
+      "gas:candidate-vibid:2622000687051": 23,
+      "gas:candidate-vibid:2622000660670": 112,
+      "gas:candidate-vibid:2622000686573": 230,
+      "gas:candidate-vibid:2622000686220": 15,
+      "gas:candidate-vibid:2622000685437": 70,
+      "gas:candidate-vibid:2622000687415": 31,
+      "gas:candidate-vibid:2622000687427": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633357&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633357&type=464",
@@ -5589,15 +5589,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 140,
-      "Десинов Денис Анатольевич": 54,
-      "Епифанова Мария Александровна": 20,
-      "Кравченко Юрий Александрович": 142,
-      "Красов Андрей Леонидович": 287,
-      "Кусова Ирина Гасановна": 26,
-      "Ляблин Андрей Алексеевич": 100,
-      "Рогов Владимир Александрович": 45,
-      "Тумашев Андрей Рамильевич": 18
+      "gas:candidate-vibid:2622000687166": 140,
+      "gas:candidate-vibid:2622000686677": 54,
+      "gas:candidate-vibid:2622000687051": 20,
+      "gas:candidate-vibid:2622000660670": 142,
+      "gas:candidate-vibid:2622000686573": 287,
+      "gas:candidate-vibid:2622000686220": 26,
+      "gas:candidate-vibid:2622000685437": 100,
+      "gas:candidate-vibid:2622000687415": 45,
+      "gas:candidate-vibid:2622000687427": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633357&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633357&type=464",
@@ -5648,15 +5648,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 148,
-      "Десинов Денис Анатольевич": 62,
-      "Епифанова Мария Александровна": 35,
-      "Кравченко Юрий Александрович": 171,
-      "Красов Андрей Леонидович": 315,
-      "Кусова Ирина Гасановна": 23,
-      "Ляблин Андрей Алексеевич": 81,
-      "Рогов Владимир Александрович": 27,
-      "Тумашев Андрей Рамильевич": 12
+      "gas:candidate-vibid:2622000687166": 148,
+      "gas:candidate-vibid:2622000686677": 62,
+      "gas:candidate-vibid:2622000687051": 35,
+      "gas:candidate-vibid:2622000660670": 171,
+      "gas:candidate-vibid:2622000686573": 315,
+      "gas:candidate-vibid:2622000686220": 23,
+      "gas:candidate-vibid:2622000685437": 81,
+      "gas:candidate-vibid:2622000687415": 27,
+      "gas:candidate-vibid:2622000687427": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633357&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633357&type=464",
@@ -5707,15 +5707,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 105,
-      "Десинов Денис Анатольевич": 69,
-      "Епифанова Мария Александровна": 37,
-      "Кравченко Юрий Александрович": 170,
-      "Красов Андрей Леонидович": 244,
-      "Кусова Ирина Гасановна": 45,
-      "Ляблин Андрей Алексеевич": 63,
-      "Рогов Владимир Александрович": 19,
-      "Тумашев Андрей Рамильевич": 19
+      "gas:candidate-vibid:2622000687166": 105,
+      "gas:candidate-vibid:2622000686677": 69,
+      "gas:candidate-vibid:2622000687051": 37,
+      "gas:candidate-vibid:2622000660670": 170,
+      "gas:candidate-vibid:2622000686573": 244,
+      "gas:candidate-vibid:2622000686220": 45,
+      "gas:candidate-vibid:2622000685437": 63,
+      "gas:candidate-vibid:2622000687415": 19,
+      "gas:candidate-vibid:2622000687427": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633357&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633357&type=464",
@@ -5766,15 +5766,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 159,
-      "Десинов Денис Анатольевич": 28,
-      "Епифанова Мария Александровна": 8,
-      "Кравченко Юрий Александрович": 117,
-      "Красов Андрей Леонидович": 185,
-      "Кусова Ирина Гасановна": 21,
-      "Ляблин Андрей Алексеевич": 67,
-      "Рогов Владимир Александрович": 22,
-      "Тумашев Андрей Рамильевич": 8
+      "gas:candidate-vibid:2622000687166": 159,
+      "gas:candidate-vibid:2622000686677": 28,
+      "gas:candidate-vibid:2622000687051": 8,
+      "gas:candidate-vibid:2622000660670": 117,
+      "gas:candidate-vibid:2622000686573": 185,
+      "gas:candidate-vibid:2622000686220": 21,
+      "gas:candidate-vibid:2622000685437": 67,
+      "gas:candidate-vibid:2622000687415": 22,
+      "gas:candidate-vibid:2622000687427": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633357&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633357&type=464",
@@ -5825,15 +5825,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 234,
-      "Десинов Денис Анатольевич": 59,
-      "Епифанова Мария Александровна": 127,
-      "Кравченко Юрий Александрович": 169,
-      "Красов Андрей Леонидович": 568,
-      "Кусова Ирина Гасановна": 101,
-      "Ляблин Андрей Алексеевич": 94,
-      "Рогов Владимир Александрович": 137,
-      "Тумашев Андрей Рамильевич": 50
+      "gas:candidate-vibid:2622000687166": 234,
+      "gas:candidate-vibid:2622000686677": 59,
+      "gas:candidate-vibid:2622000687051": 127,
+      "gas:candidate-vibid:2622000660670": 169,
+      "gas:candidate-vibid:2622000686573": 568,
+      "gas:candidate-vibid:2622000686220": 101,
+      "gas:candidate-vibid:2622000685437": 94,
+      "gas:candidate-vibid:2622000687415": 137,
+      "gas:candidate-vibid:2622000687427": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633357&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633357&type=464",
@@ -5884,15 +5884,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 15,
-      "Десинов Денис Анатольевич": 3,
-      "Епифанова Мария Александровна": 2,
-      "Кравченко Юрий Александрович": 13,
-      "Красов Андрей Леонидович": 155,
-      "Кусова Ирина Гасановна": 3,
-      "Ляблин Андрей Алексеевич": 7,
-      "Рогов Владимир Александрович": 2,
-      "Тумашев Андрей Рамильевич": 1
+      "gas:candidate-vibid:2622000687166": 15,
+      "gas:candidate-vibid:2622000686677": 3,
+      "gas:candidate-vibid:2622000687051": 2,
+      "gas:candidate-vibid:2622000660670": 13,
+      "gas:candidate-vibid:2622000686573": 155,
+      "gas:candidate-vibid:2622000686220": 3,
+      "gas:candidate-vibid:2622000685437": 7,
+      "gas:candidate-vibid:2622000687415": 2,
+      "gas:candidate-vibid:2622000687427": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633359&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633359&type=464",
@@ -5943,15 +5943,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 1,
-      "Десинов Денис Анатольевич": 0,
-      "Епифанова Мария Александровна": 1,
-      "Кравченко Юрий Александрович": 1,
-      "Красов Андрей Леонидович": 54,
-      "Кусова Ирина Гасановна": 0,
-      "Ляблин Андрей Алексеевич": 0,
-      "Рогов Владимир Александрович": 0,
-      "Тумашев Андрей Рамильевич": 1
+      "gas:candidate-vibid:2622000687166": 1,
+      "gas:candidate-vibid:2622000686677": 0,
+      "gas:candidate-vibid:2622000687051": 1,
+      "gas:candidate-vibid:2622000660670": 1,
+      "gas:candidate-vibid:2622000686573": 54,
+      "gas:candidate-vibid:2622000686220": 0,
+      "gas:candidate-vibid:2622000685437": 0,
+      "gas:candidate-vibid:2622000687415": 0,
+      "gas:candidate-vibid:2622000687427": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633359&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633359&type=464",
@@ -6002,15 +6002,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 7,
-      "Десинов Денис Анатольевич": 1,
-      "Епифанова Мария Александровна": 2,
-      "Кравченко Юрий Александрович": 6,
-      "Красов Андрей Леонидович": 104,
-      "Кусова Ирина Гасановна": 2,
-      "Ляблин Андрей Алексеевич": 0,
-      "Рогов Владимир Александрович": 0,
-      "Тумашев Андрей Рамильевич": 1
+      "gas:candidate-vibid:2622000687166": 7,
+      "gas:candidate-vibid:2622000686677": 1,
+      "gas:candidate-vibid:2622000687051": 2,
+      "gas:candidate-vibid:2622000660670": 6,
+      "gas:candidate-vibid:2622000686573": 104,
+      "gas:candidate-vibid:2622000686220": 2,
+      "gas:candidate-vibid:2622000685437": 0,
+      "gas:candidate-vibid:2622000687415": 0,
+      "gas:candidate-vibid:2622000687427": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633359&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633359&type=464",
@@ -6061,15 +6061,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 19,
-      "Десинов Денис Анатольевич": 9,
-      "Епифанова Мария Александровна": 0,
-      "Кравченко Юрий Александрович": 20,
-      "Красов Андрей Леонидович": 225,
-      "Кусова Ирина Гасановна": 4,
-      "Ляблин Андрей Алексеевич": 5,
-      "Рогов Владимир Александрович": 0,
-      "Тумашев Андрей Рамильевич": 0
+      "gas:candidate-vibid:2622000687166": 19,
+      "gas:candidate-vibid:2622000686677": 9,
+      "gas:candidate-vibid:2622000687051": 0,
+      "gas:candidate-vibid:2622000660670": 20,
+      "gas:candidate-vibid:2622000686573": 225,
+      "gas:candidate-vibid:2622000686220": 4,
+      "gas:candidate-vibid:2622000685437": 5,
+      "gas:candidate-vibid:2622000687415": 0,
+      "gas:candidate-vibid:2622000687427": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633359&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633359&type=464",
@@ -6120,15 +6120,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 3,
-      "Десинов Денис Анатольевич": 3,
-      "Епифанова Мария Александровна": 1,
-      "Кравченко Юрий Александрович": 4,
-      "Красов Андрей Леонидович": 79,
-      "Кусова Ирина Гасановна": 1,
-      "Ляблин Андрей Алексеевич": 1,
-      "Рогов Владимир Александрович": 1,
-      "Тумашев Андрей Рамильевич": 0
+      "gas:candidate-vibid:2622000687166": 3,
+      "gas:candidate-vibid:2622000686677": 3,
+      "gas:candidate-vibid:2622000687051": 1,
+      "gas:candidate-vibid:2622000660670": 4,
+      "gas:candidate-vibid:2622000686573": 79,
+      "gas:candidate-vibid:2622000686220": 1,
+      "gas:candidate-vibid:2622000685437": 1,
+      "gas:candidate-vibid:2622000687415": 1,
+      "gas:candidate-vibid:2622000687427": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633359&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633359&type=464",
@@ -6179,15 +6179,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 17,
-      "Десинов Денис Анатольевич": 3,
-      "Епифанова Мария Александровна": 1,
-      "Кравченко Юрий Александрович": 24,
-      "Красов Андрей Леонидович": 128,
-      "Кусова Ирина Гасановна": 6,
-      "Ляблин Андрей Алексеевич": 7,
-      "Рогов Владимир Александрович": 2,
-      "Тумашев Андрей Рамильевич": 0
+      "gas:candidate-vibid:2622000687166": 17,
+      "gas:candidate-vibid:2622000686677": 3,
+      "gas:candidate-vibid:2622000687051": 1,
+      "gas:candidate-vibid:2622000660670": 24,
+      "gas:candidate-vibid:2622000686573": 128,
+      "gas:candidate-vibid:2622000686220": 6,
+      "gas:candidate-vibid:2622000685437": 7,
+      "gas:candidate-vibid:2622000687415": 2,
+      "gas:candidate-vibid:2622000687427": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633359&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633359&type=464",
@@ -6238,15 +6238,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 13,
-      "Десинов Денис Анатольевич": 11,
-      "Епифанова Мария Александровна": 8,
-      "Кравченко Юрий Александрович": 16,
-      "Красов Андрей Леонидович": 92,
-      "Кусова Ирина Гасановна": 6,
-      "Ляблин Андрей Алексеевич": 4,
-      "Рогов Владимир Александрович": 3,
-      "Тумашев Андрей Рамильевич": 2
+      "gas:candidate-vibid:2622000687166": 13,
+      "gas:candidate-vibid:2622000686677": 11,
+      "gas:candidate-vibid:2622000687051": 8,
+      "gas:candidate-vibid:2622000660670": 16,
+      "gas:candidate-vibid:2622000686573": 92,
+      "gas:candidate-vibid:2622000686220": 6,
+      "gas:candidate-vibid:2622000685437": 4,
+      "gas:candidate-vibid:2622000687415": 3,
+      "gas:candidate-vibid:2622000687427": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633359&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633359&type=464",
@@ -6297,15 +6297,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 14,
-      "Десинов Денис Анатольевич": 10,
-      "Епифанова Мария Александровна": 6,
-      "Кравченко Юрий Александрович": 15,
-      "Красов Андрей Леонидович": 69,
-      "Кусова Ирина Гасановна": 3,
-      "Ляблин Андрей Алексеевич": 1,
-      "Рогов Владимир Александрович": 5,
-      "Тумашев Андрей Рамильевич": 1
+      "gas:candidate-vibid:2622000687166": 14,
+      "gas:candidate-vibid:2622000686677": 10,
+      "gas:candidate-vibid:2622000687051": 6,
+      "gas:candidate-vibid:2622000660670": 15,
+      "gas:candidate-vibid:2622000686573": 69,
+      "gas:candidate-vibid:2622000686220": 3,
+      "gas:candidate-vibid:2622000685437": 1,
+      "gas:candidate-vibid:2622000687415": 5,
+      "gas:candidate-vibid:2622000687427": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633359&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633359&type=464",
@@ -6356,15 +6356,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 7,
-      "Десинов Денис Анатольевич": 3,
-      "Епифанова Мария Александровна": 1,
-      "Кравченко Юрий Александрович": 9,
-      "Красов Андрей Леонидович": 63,
-      "Кусова Ирина Гасановна": 3,
-      "Ляблин Андрей Алексеевич": 1,
-      "Рогов Владимир Александрович": 2,
-      "Тумашев Андрей Рамильевич": 0
+      "gas:candidate-vibid:2622000687166": 7,
+      "gas:candidate-vibid:2622000686677": 3,
+      "gas:candidate-vibid:2622000687051": 1,
+      "gas:candidate-vibid:2622000660670": 9,
+      "gas:candidate-vibid:2622000686573": 63,
+      "gas:candidate-vibid:2622000686220": 3,
+      "gas:candidate-vibid:2622000685437": 1,
+      "gas:candidate-vibid:2622000687415": 2,
+      "gas:candidate-vibid:2622000687427": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633359&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633359&type=464",
@@ -6415,15 +6415,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 8,
-      "Десинов Денис Анатольевич": 1,
-      "Епифанова Мария Александровна": 3,
-      "Кравченко Юрий Александрович": 4,
-      "Красов Андрей Леонидович": 93,
-      "Кусова Ирина Гасановна": 4,
-      "Ляблин Андрей Алексеевич": 2,
-      "Рогов Владимир Александрович": 1,
-      "Тумашев Андрей Рамильевич": 1
+      "gas:candidate-vibid:2622000687166": 8,
+      "gas:candidate-vibid:2622000686677": 1,
+      "gas:candidate-vibid:2622000687051": 3,
+      "gas:candidate-vibid:2622000660670": 4,
+      "gas:candidate-vibid:2622000686573": 93,
+      "gas:candidate-vibid:2622000686220": 4,
+      "gas:candidate-vibid:2622000685437": 2,
+      "gas:candidate-vibid:2622000687415": 1,
+      "gas:candidate-vibid:2622000687427": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633359&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633359&type=464",
@@ -6474,15 +6474,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 10,
-      "Десинов Денис Анатольевич": 5,
-      "Епифанова Мария Александровна": 3,
-      "Кравченко Юрий Александрович": 5,
-      "Красов Андрей Леонидович": 57,
-      "Кусова Ирина Гасановна": 1,
-      "Ляблин Андрей Алексеевич": 3,
-      "Рогов Владимир Александрович": 1,
-      "Тумашев Андрей Рамильевич": 0
+      "gas:candidate-vibid:2622000687166": 10,
+      "gas:candidate-vibid:2622000686677": 5,
+      "gas:candidate-vibid:2622000687051": 3,
+      "gas:candidate-vibid:2622000660670": 5,
+      "gas:candidate-vibid:2622000686573": 57,
+      "gas:candidate-vibid:2622000686220": 1,
+      "gas:candidate-vibid:2622000685437": 3,
+      "gas:candidate-vibid:2622000687415": 1,
+      "gas:candidate-vibid:2622000687427": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633359&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633359&type=464",
@@ -6533,15 +6533,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 39,
-      "Десинов Денис Анатольевич": 17,
-      "Епифанова Мария Александровна": 18,
-      "Кравченко Юрий Александрович": 58,
-      "Красов Андрей Леонидович": 198,
-      "Кусова Ирина Гасановна": 2,
-      "Ляблин Андрей Алексеевич": 15,
-      "Рогов Владимир Александрович": 9,
-      "Тумашев Андрей Рамильевич": 4
+      "gas:candidate-vibid:2622000687166": 39,
+      "gas:candidate-vibid:2622000686677": 17,
+      "gas:candidate-vibid:2622000687051": 18,
+      "gas:candidate-vibid:2622000660670": 58,
+      "gas:candidate-vibid:2622000686573": 198,
+      "gas:candidate-vibid:2622000686220": 2,
+      "gas:candidate-vibid:2622000685437": 15,
+      "gas:candidate-vibid:2622000687415": 9,
+      "gas:candidate-vibid:2622000687427": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633359&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633359&type=464",
@@ -6592,15 +6592,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 62,
-      "Десинов Денис Анатольевич": 22,
-      "Епифанова Мария Александровна": 16,
-      "Кравченко Юрий Александрович": 66,
-      "Красов Андрей Леонидович": 256,
-      "Кусова Ирина Гасановна": 11,
-      "Ляблин Андрей Алексеевич": 23,
-      "Рогов Владимир Александрович": 11,
-      "Тумашев Андрей Рамильевич": 7
+      "gas:candidate-vibid:2622000687166": 62,
+      "gas:candidate-vibid:2622000686677": 22,
+      "gas:candidate-vibid:2622000687051": 16,
+      "gas:candidate-vibid:2622000660670": 66,
+      "gas:candidate-vibid:2622000686573": 256,
+      "gas:candidate-vibid:2622000686220": 11,
+      "gas:candidate-vibid:2622000685437": 23,
+      "gas:candidate-vibid:2622000687415": 11,
+      "gas:candidate-vibid:2622000687427": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633359&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633359&type=464",
@@ -6651,15 +6651,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 73,
-      "Десинов Денис Анатольевич": 32,
-      "Епифанова Мария Александровна": 22,
-      "Кравченко Юрий Александрович": 96,
-      "Красов Андрей Леонидович": 353,
-      "Кусова Ирина Гасановна": 18,
-      "Ляблин Андрей Алексеевич": 58,
-      "Рогов Владимир Александрович": 30,
-      "Тумашев Андрей Рамильевич": 16
+      "gas:candidate-vibid:2622000687166": 73,
+      "gas:candidate-vibid:2622000686677": 32,
+      "gas:candidate-vibid:2622000687051": 22,
+      "gas:candidate-vibid:2622000660670": 96,
+      "gas:candidate-vibid:2622000686573": 353,
+      "gas:candidate-vibid:2622000686220": 18,
+      "gas:candidate-vibid:2622000685437": 58,
+      "gas:candidate-vibid:2622000687415": 30,
+      "gas:candidate-vibid:2622000687427": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633359&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633359&type=464",
@@ -6710,15 +6710,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 17,
-      "Десинов Денис Анатольевич": 2,
-      "Епифанова Мария Александровна": 2,
-      "Кравченко Юрий Александрович": 8,
-      "Красов Андрей Леонидович": 44,
-      "Кусова Ирина Гасановна": 1,
-      "Ляблин Андрей Алексеевич": 4,
-      "Рогов Владимир Александрович": 3,
-      "Тумашев Андрей Рамильевич": 0
+      "gas:candidate-vibid:2622000687166": 17,
+      "gas:candidate-vibid:2622000686677": 2,
+      "gas:candidate-vibid:2622000687051": 2,
+      "gas:candidate-vibid:2622000660670": 8,
+      "gas:candidate-vibid:2622000686573": 44,
+      "gas:candidate-vibid:2622000686220": 1,
+      "gas:candidate-vibid:2622000685437": 4,
+      "gas:candidate-vibid:2622000687415": 3,
+      "gas:candidate-vibid:2622000687427": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633359&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633359&type=464",
@@ -6769,15 +6769,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 9,
-      "Десинов Денис Анатольевич": 4,
-      "Епифанова Мария Александровна": 6,
-      "Кравченко Юрий Александрович": 4,
-      "Красов Андрей Леонидович": 37,
-      "Кусова Ирина Гасановна": 1,
-      "Ляблин Андрей Алексеевич": 1,
-      "Рогов Владимир Александрович": 0,
-      "Тумашев Андрей Рамильевич": 0
+      "gas:candidate-vibid:2622000687166": 9,
+      "gas:candidate-vibid:2622000686677": 4,
+      "gas:candidate-vibid:2622000687051": 6,
+      "gas:candidate-vibid:2622000660670": 4,
+      "gas:candidate-vibid:2622000686573": 37,
+      "gas:candidate-vibid:2622000686220": 1,
+      "gas:candidate-vibid:2622000685437": 1,
+      "gas:candidate-vibid:2622000687415": 0,
+      "gas:candidate-vibid:2622000687427": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633359&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633359&type=464",
@@ -6828,15 +6828,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 5,
-      "Десинов Денис Анатольевич": 3,
-      "Епифанова Мария Александровна": 4,
-      "Кравченко Юрий Александрович": 7,
-      "Красов Андрей Леонидович": 39,
-      "Кусова Ирина Гасановна": 1,
-      "Ляблин Андрей Алексеевич": 1,
-      "Рогов Владимир Александрович": 1,
-      "Тумашев Андрей Рамильевич": 1
+      "gas:candidate-vibid:2622000687166": 5,
+      "gas:candidate-vibid:2622000686677": 3,
+      "gas:candidate-vibid:2622000687051": 4,
+      "gas:candidate-vibid:2622000660670": 7,
+      "gas:candidate-vibid:2622000686573": 39,
+      "gas:candidate-vibid:2622000686220": 1,
+      "gas:candidate-vibid:2622000685437": 1,
+      "gas:candidate-vibid:2622000687415": 1,
+      "gas:candidate-vibid:2622000687427": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633359&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633359&type=464",
@@ -6887,15 +6887,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 6,
-      "Десинов Денис Анатольевич": 8,
-      "Епифанова Мария Александровна": 5,
-      "Кравченко Юрий Александрович": 18,
-      "Красов Андрей Леонидович": 62,
-      "Кусова Ирина Гасановна": 3,
-      "Ляблин Андрей Алексеевич": 4,
-      "Рогов Владимир Александрович": 1,
-      "Тумашев Андрей Рамильевич": 0
+      "gas:candidate-vibid:2622000687166": 6,
+      "gas:candidate-vibid:2622000686677": 8,
+      "gas:candidate-vibid:2622000687051": 5,
+      "gas:candidate-vibid:2622000660670": 18,
+      "gas:candidate-vibid:2622000686573": 62,
+      "gas:candidate-vibid:2622000686220": 3,
+      "gas:candidate-vibid:2622000685437": 4,
+      "gas:candidate-vibid:2622000687415": 1,
+      "gas:candidate-vibid:2622000687427": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633359&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633359&type=464",
@@ -6946,15 +6946,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 26,
-      "Десинов Денис Анатольевич": 7,
-      "Епифанова Мария Александровна": 11,
-      "Кравченко Юрий Александрович": 10,
-      "Красов Андрей Леонидович": 69,
-      "Кусова Ирина Гасановна": 0,
-      "Ляблин Андрей Алексеевич": 7,
-      "Рогов Владимир Александрович": 2,
-      "Тумашев Андрей Рамильевич": 1
+      "gas:candidate-vibid:2622000687166": 26,
+      "gas:candidate-vibid:2622000686677": 7,
+      "gas:candidate-vibid:2622000687051": 11,
+      "gas:candidate-vibid:2622000660670": 10,
+      "gas:candidate-vibid:2622000686573": 69,
+      "gas:candidate-vibid:2622000686220": 0,
+      "gas:candidate-vibid:2622000685437": 7,
+      "gas:candidate-vibid:2622000687415": 2,
+      "gas:candidate-vibid:2622000687427": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633360&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633360&type=464",
@@ -7005,15 +7005,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 14,
-      "Десинов Денис Анатольевич": 3,
-      "Епифанова Мария Александровна": 7,
-      "Кравченко Юрий Александрович": 14,
-      "Красов Андрей Леонидович": 70,
-      "Кусова Ирина Гасановна": 3,
-      "Ляблин Андрей Алексеевич": 11,
-      "Рогов Владимир Александрович": 2,
-      "Тумашев Андрей Рамильевич": 1
+      "gas:candidate-vibid:2622000687166": 14,
+      "gas:candidate-vibid:2622000686677": 3,
+      "gas:candidate-vibid:2622000687051": 7,
+      "gas:candidate-vibid:2622000660670": 14,
+      "gas:candidate-vibid:2622000686573": 70,
+      "gas:candidate-vibid:2622000686220": 3,
+      "gas:candidate-vibid:2622000685437": 11,
+      "gas:candidate-vibid:2622000687415": 2,
+      "gas:candidate-vibid:2622000687427": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633360&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633360&type=464",
@@ -7064,15 +7064,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 21,
-      "Десинов Денис Анатольевич": 5,
-      "Епифанова Мария Александровна": 7,
-      "Кравченко Юрий Александрович": 21,
-      "Красов Андрей Леонидович": 81,
-      "Кусова Ирина Гасановна": 3,
-      "Ляблин Андрей Алексеевич": 8,
-      "Рогов Владимир Александрович": 2,
-      "Тумашев Андрей Рамильевич": 0
+      "gas:candidate-vibid:2622000687166": 21,
+      "gas:candidate-vibid:2622000686677": 5,
+      "gas:candidate-vibid:2622000687051": 7,
+      "gas:candidate-vibid:2622000660670": 21,
+      "gas:candidate-vibid:2622000686573": 81,
+      "gas:candidate-vibid:2622000686220": 3,
+      "gas:candidate-vibid:2622000685437": 8,
+      "gas:candidate-vibid:2622000687415": 2,
+      "gas:candidate-vibid:2622000687427": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633360&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633360&type=464",
@@ -7123,15 +7123,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 40,
-      "Десинов Денис Анатольевич": 20,
-      "Епифанова Мария Александровна": 7,
-      "Кравченко Юрий Александрович": 39,
-      "Красов Андрей Леонидович": 133,
-      "Кусова Ирина Гасановна": 6,
-      "Ляблин Андрей Алексеевич": 16,
-      "Рогов Владимир Александрович": 4,
-      "Тумашев Андрей Рамильевич": 0
+      "gas:candidate-vibid:2622000687166": 40,
+      "gas:candidate-vibid:2622000686677": 20,
+      "gas:candidate-vibid:2622000687051": 7,
+      "gas:candidate-vibid:2622000660670": 39,
+      "gas:candidate-vibid:2622000686573": 133,
+      "gas:candidate-vibid:2622000686220": 6,
+      "gas:candidate-vibid:2622000685437": 16,
+      "gas:candidate-vibid:2622000687415": 4,
+      "gas:candidate-vibid:2622000687427": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633360&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633360&type=464",
@@ -7182,15 +7182,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 5,
-      "Десинов Денис Анатольевич": 4,
-      "Епифанова Мария Александровна": 0,
-      "Кравченко Юрий Александрович": 11,
-      "Красов Андрей Леонидович": 50,
-      "Кусова Ирина Гасановна": 0,
-      "Ляблин Андрей Алексеевич": 4,
-      "Рогов Владимир Александрович": 0,
-      "Тумашев Андрей Рамильевич": 1
+      "gas:candidate-vibid:2622000687166": 5,
+      "gas:candidate-vibid:2622000686677": 4,
+      "gas:candidate-vibid:2622000687051": 0,
+      "gas:candidate-vibid:2622000660670": 11,
+      "gas:candidate-vibid:2622000686573": 50,
+      "gas:candidate-vibid:2622000686220": 0,
+      "gas:candidate-vibid:2622000685437": 4,
+      "gas:candidate-vibid:2622000687415": 0,
+      "gas:candidate-vibid:2622000687427": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633360&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633360&type=464",
@@ -7241,15 +7241,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 1,
-      "Десинов Денис Анатольевич": 1,
-      "Епифанова Мария Александровна": 2,
-      "Кравченко Юрий Александрович": 3,
-      "Красов Андрей Леонидович": 41,
-      "Кусова Ирина Гасановна": 0,
-      "Ляблин Андрей Алексеевич": 5,
-      "Рогов Владимир Александрович": 0,
-      "Тумашев Андрей Рамильевич": 0
+      "gas:candidate-vibid:2622000687166": 1,
+      "gas:candidate-vibid:2622000686677": 1,
+      "gas:candidate-vibid:2622000687051": 2,
+      "gas:candidate-vibid:2622000660670": 3,
+      "gas:candidate-vibid:2622000686573": 41,
+      "gas:candidate-vibid:2622000686220": 0,
+      "gas:candidate-vibid:2622000685437": 5,
+      "gas:candidate-vibid:2622000687415": 0,
+      "gas:candidate-vibid:2622000687427": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633360&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633360&type=464",
@@ -7300,15 +7300,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 26,
-      "Десинов Денис Анатольевич": 6,
-      "Епифанова Мария Александровна": 2,
-      "Кравченко Юрий Александрович": 3,
-      "Красов Андрей Леонидович": 32,
-      "Кусова Ирина Гасановна": 1,
-      "Ляблин Андрей Алексеевич": 1,
-      "Рогов Владимир Александрович": 0,
-      "Тумашев Андрей Рамильевич": 2
+      "gas:candidate-vibid:2622000687166": 26,
+      "gas:candidate-vibid:2622000686677": 6,
+      "gas:candidate-vibid:2622000687051": 2,
+      "gas:candidate-vibid:2622000660670": 3,
+      "gas:candidate-vibid:2622000686573": 32,
+      "gas:candidate-vibid:2622000686220": 1,
+      "gas:candidate-vibid:2622000685437": 1,
+      "gas:candidate-vibid:2622000687415": 0,
+      "gas:candidate-vibid:2622000687427": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633360&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633360&type=464",
@@ -7359,15 +7359,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 8,
-      "Десинов Денис Анатольевич": 4,
-      "Епифанова Мария Александровна": 3,
-      "Кравченко Юрий Александрович": 11,
-      "Красов Андрей Леонидович": 63,
-      "Кусова Ирина Гасановна": 1,
-      "Ляблин Андрей Алексеевич": 5,
-      "Рогов Владимир Александрович": 0,
-      "Тумашев Андрей Рамильевич": 0
+      "gas:candidate-vibid:2622000687166": 8,
+      "gas:candidate-vibid:2622000686677": 4,
+      "gas:candidate-vibid:2622000687051": 3,
+      "gas:candidate-vibid:2622000660670": 11,
+      "gas:candidate-vibid:2622000686573": 63,
+      "gas:candidate-vibid:2622000686220": 1,
+      "gas:candidate-vibid:2622000685437": 5,
+      "gas:candidate-vibid:2622000687415": 0,
+      "gas:candidate-vibid:2622000687427": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633360&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633360&type=464",
@@ -7418,15 +7418,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 13,
-      "Десинов Денис Анатольевич": 3,
-      "Епифанова Мария Александровна": 2,
-      "Кравченко Юрий Александрович": 12,
-      "Красов Андрей Леонидович": 39,
-      "Кусова Ирина Гасановна": 1,
-      "Ляблин Андрей Алексеевич": 2,
-      "Рогов Владимир Александрович": 1,
-      "Тумашев Андрей Рамильевич": 0
+      "gas:candidate-vibid:2622000687166": 13,
+      "gas:candidate-vibid:2622000686677": 3,
+      "gas:candidate-vibid:2622000687051": 2,
+      "gas:candidate-vibid:2622000660670": 12,
+      "gas:candidate-vibid:2622000686573": 39,
+      "gas:candidate-vibid:2622000686220": 1,
+      "gas:candidate-vibid:2622000685437": 2,
+      "gas:candidate-vibid:2622000687415": 1,
+      "gas:candidate-vibid:2622000687427": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633360&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633360&type=464",
@@ -7477,15 +7477,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 23,
-      "Десинов Денис Анатольевич": 15,
-      "Епифанова Мария Александровна": 5,
-      "Кравченко Юрий Александрович": 34,
-      "Красов Андрей Леонидович": 70,
-      "Кусова Ирина Гасановна": 4,
-      "Ляблин Андрей Алексеевич": 20,
-      "Рогов Владимир Александрович": 0,
-      "Тумашев Андрей Рамильевич": 3
+      "gas:candidate-vibid:2622000687166": 23,
+      "gas:candidate-vibid:2622000686677": 15,
+      "gas:candidate-vibid:2622000687051": 5,
+      "gas:candidate-vibid:2622000660670": 34,
+      "gas:candidate-vibid:2622000686573": 70,
+      "gas:candidate-vibid:2622000686220": 4,
+      "gas:candidate-vibid:2622000685437": 20,
+      "gas:candidate-vibid:2622000687415": 0,
+      "gas:candidate-vibid:2622000687427": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633360&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633360&type=464",
@@ -7536,15 +7536,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 39,
-      "Десинов Денис Анатольевич": 12,
-      "Епифанова Мария Александровна": 2,
-      "Кравченко Юрий Александрович": 18,
-      "Красов Андрей Леонидович": 103,
-      "Кусова Ирина Гасановна": 2,
-      "Ляблин Андрей Алексеевич": 17,
-      "Рогов Владимир Александрович": 2,
-      "Тумашев Андрей Рамильевич": 0
+      "gas:candidate-vibid:2622000687166": 39,
+      "gas:candidate-vibid:2622000686677": 12,
+      "gas:candidate-vibid:2622000687051": 2,
+      "gas:candidate-vibid:2622000660670": 18,
+      "gas:candidate-vibid:2622000686573": 103,
+      "gas:candidate-vibid:2622000686220": 2,
+      "gas:candidate-vibid:2622000685437": 17,
+      "gas:candidate-vibid:2622000687415": 2,
+      "gas:candidate-vibid:2622000687427": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633360&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633360&type=464",
@@ -7595,15 +7595,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 9,
-      "Десинов Денис Анатольевич": 3,
-      "Епифанова Мария Александровна": 4,
-      "Кравченко Юрий Александрович": 10,
-      "Красов Андрей Леонидович": 54,
-      "Кусова Ирина Гасановна": 2,
-      "Ляблин Андрей Алексеевич": 28,
-      "Рогов Владимир Александрович": 1,
-      "Тумашев Андрей Рамильевич": 1
+      "gas:candidate-vibid:2622000687166": 9,
+      "gas:candidate-vibid:2622000686677": 3,
+      "gas:candidate-vibid:2622000687051": 4,
+      "gas:candidate-vibid:2622000660670": 10,
+      "gas:candidate-vibid:2622000686573": 54,
+      "gas:candidate-vibid:2622000686220": 2,
+      "gas:candidate-vibid:2622000685437": 28,
+      "gas:candidate-vibid:2622000687415": 1,
+      "gas:candidate-vibid:2622000687427": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633360&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633360&type=464",
@@ -7654,15 +7654,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 8,
-      "Десинов Денис Анатольевич": 3,
-      "Епифанова Мария Александровна": 3,
-      "Кравченко Юрий Александрович": 16,
-      "Красов Андрей Леонидович": 44,
-      "Кусова Ирина Гасановна": 0,
-      "Ляблин Андрей Алексеевич": 5,
-      "Рогов Владимир Александрович": 2,
-      "Тумашев Андрей Рамильевич": 1
+      "gas:candidate-vibid:2622000687166": 8,
+      "gas:candidate-vibid:2622000686677": 3,
+      "gas:candidate-vibid:2622000687051": 3,
+      "gas:candidate-vibid:2622000660670": 16,
+      "gas:candidate-vibid:2622000686573": 44,
+      "gas:candidate-vibid:2622000686220": 0,
+      "gas:candidate-vibid:2622000685437": 5,
+      "gas:candidate-vibid:2622000687415": 2,
+      "gas:candidate-vibid:2622000687427": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633360&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633360&type=464",
@@ -7713,15 +7713,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 62,
-      "Десинов Денис Анатольевич": 27,
-      "Епифанова Мария Александровна": 8,
-      "Кравченко Юрий Александрович": 49,
-      "Красов Андрей Леонидович": 129,
-      "Кусова Ирина Гасановна": 7,
-      "Ляблин Андрей Алексеевич": 58,
-      "Рогов Владимир Александрович": 3,
-      "Тумашев Андрей Рамильевич": 7
+      "gas:candidate-vibid:2622000687166": 62,
+      "gas:candidate-vibid:2622000686677": 27,
+      "gas:candidate-vibid:2622000687051": 8,
+      "gas:candidate-vibid:2622000660670": 49,
+      "gas:candidate-vibid:2622000686573": 129,
+      "gas:candidate-vibid:2622000686220": 7,
+      "gas:candidate-vibid:2622000685437": 58,
+      "gas:candidate-vibid:2622000687415": 3,
+      "gas:candidate-vibid:2622000687427": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633360&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633360&type=464",
@@ -7772,15 +7772,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 44,
-      "Десинов Денис Анатольевич": 8,
-      "Епифанова Мария Александровна": 5,
-      "Кравченко Юрий Александрович": 40,
-      "Красов Андрей Леонидович": 123,
-      "Кусова Ирина Гасановна": 4,
-      "Ляблин Андрей Алексеевич": 44,
-      "Рогов Владимир Александрович": 2,
-      "Тумашев Андрей Рамильевич": 4
+      "gas:candidate-vibid:2622000687166": 44,
+      "gas:candidate-vibid:2622000686677": 8,
+      "gas:candidate-vibid:2622000687051": 5,
+      "gas:candidate-vibid:2622000660670": 40,
+      "gas:candidate-vibid:2622000686573": 123,
+      "gas:candidate-vibid:2622000686220": 4,
+      "gas:candidate-vibid:2622000685437": 44,
+      "gas:candidate-vibid:2622000687415": 2,
+      "gas:candidate-vibid:2622000687427": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633360&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633360&type=464",
@@ -7831,15 +7831,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 61,
-      "Десинов Денис Анатольевич": 3,
-      "Епифанова Мария Александровна": 0,
-      "Кравченко Юрий Александрович": 34,
-      "Красов Андрей Леонидович": 108,
-      "Кусова Ирина Гасановна": 4,
-      "Ляблин Андрей Алексеевич": 26,
-      "Рогов Владимир Александрович": 3,
-      "Тумашев Андрей Рамильевич": 3
+      "gas:candidate-vibid:2622000687166": 61,
+      "gas:candidate-vibid:2622000686677": 3,
+      "gas:candidate-vibid:2622000687051": 0,
+      "gas:candidate-vibid:2622000660670": 34,
+      "gas:candidate-vibid:2622000686573": 108,
+      "gas:candidate-vibid:2622000686220": 4,
+      "gas:candidate-vibid:2622000685437": 26,
+      "gas:candidate-vibid:2622000687415": 3,
+      "gas:candidate-vibid:2622000687427": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633360&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633360&type=464",
@@ -7890,15 +7890,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 120,
-      "Десинов Денис Анатольевич": 47,
-      "Епифанова Мария Александровна": 52,
-      "Кравченко Юрий Александрович": 111,
-      "Красов Андрей Леонидович": 243,
-      "Кусова Ирина Гасановна": 28,
-      "Ляблин Андрей Алексеевич": 46,
-      "Рогов Владимир Александрович": 44,
-      "Тумашев Андрей Рамильевич": 19
+      "gas:candidate-vibid:2622000687166": 120,
+      "gas:candidate-vibid:2622000686677": 47,
+      "gas:candidate-vibid:2622000687051": 52,
+      "gas:candidate-vibid:2622000660670": 111,
+      "gas:candidate-vibid:2622000686573": 243,
+      "gas:candidate-vibid:2622000686220": 28,
+      "gas:candidate-vibid:2622000685437": 46,
+      "gas:candidate-vibid:2622000687415": 44,
+      "gas:candidate-vibid:2622000687427": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633361&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633361&type=464",
@@ -7949,15 +7949,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 100,
-      "Десинов Денис Анатольевич": 44,
-      "Епифанова Мария Александровна": 26,
-      "Кравченко Юрий Александрович": 98,
-      "Красов Андрей Леонидович": 333,
-      "Кусова Ирина Гасановна": 12,
-      "Ляблин Андрей Алексеевич": 14,
-      "Рогов Владимир Александрович": 17,
-      "Тумашев Андрей Рамильевич": 13
+      "gas:candidate-vibid:2622000687166": 100,
+      "gas:candidate-vibid:2622000686677": 44,
+      "gas:candidate-vibid:2622000687051": 26,
+      "gas:candidate-vibid:2622000660670": 98,
+      "gas:candidate-vibid:2622000686573": 333,
+      "gas:candidate-vibid:2622000686220": 12,
+      "gas:candidate-vibid:2622000685437": 14,
+      "gas:candidate-vibid:2622000687415": 17,
+      "gas:candidate-vibid:2622000687427": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633361&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633361&type=464",
@@ -8008,15 +8008,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 111,
-      "Десинов Денис Анатольевич": 46,
-      "Епифанова Мария Александровна": 34,
-      "Кравченко Юрий Александрович": 108,
-      "Красов Андрей Леонидович": 278,
-      "Кусова Ирина Гасановна": 14,
-      "Ляблин Андрей Алексеевич": 44,
-      "Рогов Владимир Александрович": 5,
-      "Тумашев Андрей Рамильевич": 9
+      "gas:candidate-vibid:2622000687166": 111,
+      "gas:candidate-vibid:2622000686677": 46,
+      "gas:candidate-vibid:2622000687051": 34,
+      "gas:candidate-vibid:2622000660670": 108,
+      "gas:candidate-vibid:2622000686573": 278,
+      "gas:candidate-vibid:2622000686220": 14,
+      "gas:candidate-vibid:2622000685437": 44,
+      "gas:candidate-vibid:2622000687415": 5,
+      "gas:candidate-vibid:2622000687427": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633361&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633361&type=464",
@@ -8067,15 +8067,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 82,
-      "Десинов Денис Анатольевич": 28,
-      "Епифанова Мария Александровна": 12,
-      "Кравченко Юрий Александрович": 54,
-      "Красов Андрей Леонидович": 134,
-      "Кусова Ирина Гасановна": 11,
-      "Ляблин Андрей Алексеевич": 13,
-      "Рогов Владимир Александрович": 18,
-      "Тумашев Андрей Рамильевич": 2
+      "gas:candidate-vibid:2622000687166": 82,
+      "gas:candidate-vibid:2622000686677": 28,
+      "gas:candidate-vibid:2622000687051": 12,
+      "gas:candidate-vibid:2622000660670": 54,
+      "gas:candidate-vibid:2622000686573": 134,
+      "gas:candidate-vibid:2622000686220": 11,
+      "gas:candidate-vibid:2622000685437": 13,
+      "gas:candidate-vibid:2622000687415": 18,
+      "gas:candidate-vibid:2622000687427": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633361&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633361&type=464",
@@ -8126,15 +8126,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 43,
-      "Десинов Денис Анатольевич": 23,
-      "Епифанова Мария Александровна": 9,
-      "Кравченко Юрий Александрович": 57,
-      "Красов Андрей Леонидович": 392,
-      "Кусова Ирина Гасановна": 3,
-      "Ляблин Андрей Алексеевич": 0,
-      "Рогов Владимир Александрович": 7,
-      "Тумашев Андрей Рамильевич": 1
+      "gas:candidate-vibid:2622000687166": 43,
+      "gas:candidate-vibid:2622000686677": 23,
+      "gas:candidate-vibid:2622000687051": 9,
+      "gas:candidate-vibid:2622000660670": 57,
+      "gas:candidate-vibid:2622000686573": 392,
+      "gas:candidate-vibid:2622000686220": 3,
+      "gas:candidate-vibid:2622000685437": 0,
+      "gas:candidate-vibid:2622000687415": 7,
+      "gas:candidate-vibid:2622000687427": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633361&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633361&type=464",
@@ -8185,15 +8185,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 54,
-      "Десинов Денис Анатольевич": 26,
-      "Епифанова Мария Александровна": 21,
-      "Кравченко Юрий Александрович": 56,
-      "Красов Андрей Леонидович": 169,
-      "Кусова Ирина Гасановна": 6,
-      "Ляблин Андрей Алексеевич": 17,
-      "Рогов Владимир Александрович": 7,
-      "Тумашев Андрей Рамильевич": 3
+      "gas:candidate-vibid:2622000687166": 54,
+      "gas:candidate-vibid:2622000686677": 26,
+      "gas:candidate-vibid:2622000687051": 21,
+      "gas:candidate-vibid:2622000660670": 56,
+      "gas:candidate-vibid:2622000686573": 169,
+      "gas:candidate-vibid:2622000686220": 6,
+      "gas:candidate-vibid:2622000685437": 17,
+      "gas:candidate-vibid:2622000687415": 7,
+      "gas:candidate-vibid:2622000687427": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633361&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633361&type=464",
@@ -8244,15 +8244,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 51,
-      "Десинов Денис Анатольевич": 21,
-      "Епифанова Мария Александровна": 16,
-      "Кравченко Юрий Александрович": 57,
-      "Красов Андрей Леонидович": 272,
-      "Кусова Ирина Гасановна": 4,
-      "Ляблин Андрей Алексеевич": 14,
-      "Рогов Владимир Александрович": 9,
-      "Тумашев Андрей Рамильевич": 5
+      "gas:candidate-vibid:2622000687166": 51,
+      "gas:candidate-vibid:2622000686677": 21,
+      "gas:candidate-vibid:2622000687051": 16,
+      "gas:candidate-vibid:2622000660670": 57,
+      "gas:candidate-vibid:2622000686573": 272,
+      "gas:candidate-vibid:2622000686220": 4,
+      "gas:candidate-vibid:2622000685437": 14,
+      "gas:candidate-vibid:2622000687415": 9,
+      "gas:candidate-vibid:2622000687427": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633361&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633361&type=464",
@@ -8303,15 +8303,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 115,
-      "Десинов Денис Анатольевич": 38,
-      "Епифанова Мария Александровна": 16,
-      "Кравченко Юрий Александрович": 50,
-      "Красов Андрей Леонидович": 243,
-      "Кусова Ирина Гасановна": 16,
-      "Ляблин Андрей Алексеевич": 30,
-      "Рогов Владимир Александрович": 12,
-      "Тумашев Андрей Рамильевич": 4
+      "gas:candidate-vibid:2622000687166": 115,
+      "gas:candidate-vibid:2622000686677": 38,
+      "gas:candidate-vibid:2622000687051": 16,
+      "gas:candidate-vibid:2622000660670": 50,
+      "gas:candidate-vibid:2622000686573": 243,
+      "gas:candidate-vibid:2622000686220": 16,
+      "gas:candidate-vibid:2622000685437": 30,
+      "gas:candidate-vibid:2622000687415": 12,
+      "gas:candidate-vibid:2622000687427": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633361&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633361&type=464",
@@ -8362,15 +8362,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 51,
-      "Десинов Денис Анатольевич": 21,
-      "Епифанова Мария Александровна": 19,
-      "Кравченко Юрий Александрович": 63,
-      "Красов Андрей Леонидович": 140,
-      "Кусова Ирина Гасановна": 10,
-      "Ляблин Андрей Алексеевич": 10,
-      "Рогов Владимир Александрович": 12,
-      "Тумашев Андрей Рамильевич": 4
+      "gas:candidate-vibid:2622000687166": 51,
+      "gas:candidate-vibid:2622000686677": 21,
+      "gas:candidate-vibid:2622000687051": 19,
+      "gas:candidate-vibid:2622000660670": 63,
+      "gas:candidate-vibid:2622000686573": 140,
+      "gas:candidate-vibid:2622000686220": 10,
+      "gas:candidate-vibid:2622000685437": 10,
+      "gas:candidate-vibid:2622000687415": 12,
+      "gas:candidate-vibid:2622000687427": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633361&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633361&type=464",
@@ -8421,15 +8421,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 94,
-      "Десинов Денис Анатольевич": 23,
-      "Епифанова Мария Александровна": 9,
-      "Кравченко Юрий Александрович": 90,
-      "Красов Андрей Леонидович": 212,
-      "Кусова Ирина Гасановна": 9,
-      "Ляблин Андрей Алексеевич": 11,
-      "Рогов Владимир Александрович": 15,
-      "Тумашев Андрей Рамильевич": 7
+      "gas:candidate-vibid:2622000687166": 94,
+      "gas:candidate-vibid:2622000686677": 23,
+      "gas:candidate-vibid:2622000687051": 9,
+      "gas:candidate-vibid:2622000660670": 90,
+      "gas:candidate-vibid:2622000686573": 212,
+      "gas:candidate-vibid:2622000686220": 9,
+      "gas:candidate-vibid:2622000685437": 11,
+      "gas:candidate-vibid:2622000687415": 15,
+      "gas:candidate-vibid:2622000687427": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633361&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633361&type=464",
@@ -8480,15 +8480,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 26,
-      "Десинов Денис Анатольевич": 13,
-      "Епифанова Мария Александровна": 9,
-      "Кравченко Юрий Александрович": 25,
-      "Красов Андрей Леонидович": 100,
-      "Кусова Ирина Гасановна": 2,
-      "Ляблин Андрей Алексеевич": 4,
-      "Рогов Владимир Александрович": 7,
-      "Тумашев Андрей Рамильевич": 1
+      "gas:candidate-vibid:2622000687166": 26,
+      "gas:candidate-vibid:2622000686677": 13,
+      "gas:candidate-vibid:2622000687051": 9,
+      "gas:candidate-vibid:2622000660670": 25,
+      "gas:candidate-vibid:2622000686573": 100,
+      "gas:candidate-vibid:2622000686220": 2,
+      "gas:candidate-vibid:2622000685437": 4,
+      "gas:candidate-vibid:2622000687415": 7,
+      "gas:candidate-vibid:2622000687427": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633361&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633361&type=464",
@@ -8539,15 +8539,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 3,
-      "Десинов Денис Анатольевич": 2,
-      "Епифанова Мария Александровна": 2,
-      "Кравченко Юрий Александрович": 7,
-      "Красов Андрей Леонидович": 59,
-      "Кусова Ирина Гасановна": 0,
-      "Ляблин Андрей Алексеевич": 1,
-      "Рогов Владимир Александрович": 0,
-      "Тумашев Андрей Рамильевич": 0
+      "gas:candidate-vibid:2622000687166": 3,
+      "gas:candidate-vibid:2622000686677": 2,
+      "gas:candidate-vibid:2622000687051": 2,
+      "gas:candidate-vibid:2622000660670": 7,
+      "gas:candidate-vibid:2622000686573": 59,
+      "gas:candidate-vibid:2622000686220": 0,
+      "gas:candidate-vibid:2622000685437": 1,
+      "gas:candidate-vibid:2622000687415": 0,
+      "gas:candidate-vibid:2622000687427": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633361&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633361&type=464",
@@ -8598,15 +8598,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 11,
-      "Десинов Денис Анатольевич": 6,
-      "Епифанова Мария Александровна": 2,
-      "Кравченко Юрий Александрович": 13,
-      "Красов Андрей Леонидович": 84,
-      "Кусова Ирина Гасановна": 3,
-      "Ляблин Андрей Алексеевич": 0,
-      "Рогов Владимир Александрович": 2,
-      "Тумашев Андрей Рамильевич": 1
+      "gas:candidate-vibid:2622000687166": 11,
+      "gas:candidate-vibid:2622000686677": 6,
+      "gas:candidate-vibid:2622000687051": 2,
+      "gas:candidate-vibid:2622000660670": 13,
+      "gas:candidate-vibid:2622000686573": 84,
+      "gas:candidate-vibid:2622000686220": 3,
+      "gas:candidate-vibid:2622000685437": 0,
+      "gas:candidate-vibid:2622000687415": 2,
+      "gas:candidate-vibid:2622000687427": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633361&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633361&type=464",
@@ -8657,15 +8657,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 4,
-      "Десинов Денис Анатольевич": 4,
-      "Епифанова Мария Александровна": 5,
-      "Кравченко Юрий Александрович": 13,
-      "Красов Андрей Леонидович": 69,
-      "Кусова Ирина Гасановна": 1,
-      "Ляблин Андрей Алексеевич": 3,
-      "Рогов Владимир Александрович": 3,
-      "Тумашев Андрей Рамильевич": 0
+      "gas:candidate-vibid:2622000687166": 4,
+      "gas:candidate-vibid:2622000686677": 4,
+      "gas:candidate-vibid:2622000687051": 5,
+      "gas:candidate-vibid:2622000660670": 13,
+      "gas:candidate-vibid:2622000686573": 69,
+      "gas:candidate-vibid:2622000686220": 1,
+      "gas:candidate-vibid:2622000685437": 3,
+      "gas:candidate-vibid:2622000687415": 3,
+      "gas:candidate-vibid:2622000687427": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633361&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633361&type=464",
@@ -8716,15 +8716,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 9,
-      "Десинов Денис Анатольевич": 6,
-      "Епифанова Мария Александровна": 2,
-      "Кравченко Юрий Александрович": 9,
-      "Красов Андрей Леонидович": 30,
-      "Кусова Ирина Гасановна": 0,
-      "Ляблин Андрей Алексеевич": 0,
-      "Рогов Владимир Александрович": 0,
-      "Тумашев Андрей Рамильевич": 2
+      "gas:candidate-vibid:2622000687166": 9,
+      "gas:candidate-vibid:2622000686677": 6,
+      "gas:candidate-vibid:2622000687051": 2,
+      "gas:candidate-vibid:2622000660670": 9,
+      "gas:candidate-vibid:2622000686573": 30,
+      "gas:candidate-vibid:2622000686220": 0,
+      "gas:candidate-vibid:2622000685437": 0,
+      "gas:candidate-vibid:2622000687415": 0,
+      "gas:candidate-vibid:2622000687427": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633361&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633361&type=464",
@@ -8775,15 +8775,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 44,
-      "Десинов Денис Анатольевич": 13,
-      "Епифанова Мария Александровна": 22,
-      "Кравченко Юрий Александрович": 63,
-      "Красов Андрей Леонидович": 192,
-      "Кусова Ирина Гасановна": 9,
-      "Ляблин Андрей Алексеевич": 10,
-      "Рогов Владимир Александрович": 9,
-      "Тумашев Андрей Рамильевич": 5
+      "gas:candidate-vibid:2622000687166": 44,
+      "gas:candidate-vibid:2622000686677": 13,
+      "gas:candidate-vibid:2622000687051": 22,
+      "gas:candidate-vibid:2622000660670": 63,
+      "gas:candidate-vibid:2622000686573": 192,
+      "gas:candidate-vibid:2622000686220": 9,
+      "gas:candidate-vibid:2622000685437": 10,
+      "gas:candidate-vibid:2622000687415": 9,
+      "gas:candidate-vibid:2622000687427": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633361&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633361&type=464",
@@ -8834,15 +8834,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 24,
-      "Десинов Денис Анатольевич": 10,
-      "Епифанова Мария Александровна": 7,
-      "Кравченко Юрий Александрович": 22,
-      "Красов Андрей Леонидович": 96,
-      "Кусова Ирина Гасановна": 2,
-      "Ляблин Андрей Алексеевич": 4,
-      "Рогов Владимир Александрович": 5,
-      "Тумашев Андрей Рамильевич": 2
+      "gas:candidate-vibid:2622000687166": 24,
+      "gas:candidate-vibid:2622000686677": 10,
+      "gas:candidate-vibid:2622000687051": 7,
+      "gas:candidate-vibid:2622000660670": 22,
+      "gas:candidate-vibid:2622000686573": 96,
+      "gas:candidate-vibid:2622000686220": 2,
+      "gas:candidate-vibid:2622000685437": 4,
+      "gas:candidate-vibid:2622000687415": 5,
+      "gas:candidate-vibid:2622000687427": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633361&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633361&type=464",
@@ -8893,15 +8893,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 82,
-      "Десинов Денис Анатольевич": 29,
-      "Епифанова Мария Александровна": 29,
-      "Кравченко Юрий Александрович": 54,
-      "Красов Андрей Леонидович": 306,
-      "Кусова Ирина Гасановна": 11,
-      "Ляблин Андрей Алексеевич": 38,
-      "Рогов Владимир Александрович": 22,
-      "Тумашев Андрей Рамильевич": 10
+      "gas:candidate-vibid:2622000687166": 82,
+      "gas:candidate-vibid:2622000686677": 29,
+      "gas:candidate-vibid:2622000687051": 29,
+      "gas:candidate-vibid:2622000660670": 54,
+      "gas:candidate-vibid:2622000686573": 306,
+      "gas:candidate-vibid:2622000686220": 11,
+      "gas:candidate-vibid:2622000685437": 38,
+      "gas:candidate-vibid:2622000687415": 22,
+      "gas:candidate-vibid:2622000687427": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633361&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633361&type=464",
@@ -8952,15 +8952,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 25,
-      "Десинов Денис Анатольевич": 10,
-      "Епифанова Мария Александровна": 7,
-      "Кравченко Юрий Александрович": 13,
-      "Красов Андрей Леонидович": 133,
-      "Кусова Ирина Гасановна": 2,
-      "Ляблин Андрей Алексеевич": 6,
-      "Рогов Владимир Александрович": 2,
-      "Тумашев Андрей Рамильевич": 2
+      "gas:candidate-vibid:2622000687166": 25,
+      "gas:candidate-vibid:2622000686677": 10,
+      "gas:candidate-vibid:2622000687051": 7,
+      "gas:candidate-vibid:2622000660670": 13,
+      "gas:candidate-vibid:2622000686573": 133,
+      "gas:candidate-vibid:2622000686220": 2,
+      "gas:candidate-vibid:2622000685437": 6,
+      "gas:candidate-vibid:2622000687415": 2,
+      "gas:candidate-vibid:2622000687427": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633361&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633361&type=464",
@@ -9011,15 +9011,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 19,
-      "Десинов Денис Анатольевич": 4,
-      "Епифанова Мария Александровна": 4,
-      "Кравченко Юрий Александрович": 9,
-      "Красов Андрей Леонидович": 102,
-      "Кусова Ирина Гасановна": 1,
-      "Ляблин Андрей Алексеевич": 2,
-      "Рогов Владимир Александрович": 0,
-      "Тумашев Андрей Рамильевич": 1
+      "gas:candidate-vibid:2622000687166": 19,
+      "gas:candidate-vibid:2622000686677": 4,
+      "gas:candidate-vibid:2622000687051": 4,
+      "gas:candidate-vibid:2622000660670": 9,
+      "gas:candidate-vibid:2622000686573": 102,
+      "gas:candidate-vibid:2622000686220": 1,
+      "gas:candidate-vibid:2622000685437": 2,
+      "gas:candidate-vibid:2622000687415": 0,
+      "gas:candidate-vibid:2622000687427": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633361&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633361&type=464",
@@ -9070,15 +9070,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 62,
-      "Десинов Денис Анатольевич": 16,
-      "Епифанова Мария Александровна": 12,
-      "Кравченко Юрий Александрович": 55,
-      "Красов Андрей Леонидович": 188,
-      "Кусова Ирина Гасановна": 7,
-      "Ляблин Андрей Алексеевич": 11,
-      "Рогов Владимир Александрович": 4,
-      "Тумашев Андрей Рамильевич": 6
+      "gas:candidate-vibid:2622000687166": 62,
+      "gas:candidate-vibid:2622000686677": 16,
+      "gas:candidate-vibid:2622000687051": 12,
+      "gas:candidate-vibid:2622000660670": 55,
+      "gas:candidate-vibid:2622000686573": 188,
+      "gas:candidate-vibid:2622000686220": 7,
+      "gas:candidate-vibid:2622000685437": 11,
+      "gas:candidate-vibid:2622000687415": 4,
+      "gas:candidate-vibid:2622000687427": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633361&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633361&type=464",
@@ -9129,15 +9129,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 14,
-      "Десинов Денис Анатольевич": 5,
-      "Епифанова Мария Александровна": 5,
-      "Кравченко Юрий Александрович": 48,
-      "Красов Андрей Леонидович": 25,
-      "Кусова Ирина Гасановна": 3,
-      "Ляблин Андрей Алексеевич": 2,
-      "Рогов Владимир Александрович": 2,
-      "Тумашев Андрей Рамильевич": 0
+      "gas:candidate-vibid:2622000687166": 14,
+      "gas:candidate-vibid:2622000686677": 5,
+      "gas:candidate-vibid:2622000687051": 5,
+      "gas:candidate-vibid:2622000660670": 48,
+      "gas:candidate-vibid:2622000686573": 25,
+      "gas:candidate-vibid:2622000686220": 3,
+      "gas:candidate-vibid:2622000685437": 2,
+      "gas:candidate-vibid:2622000687415": 2,
+      "gas:candidate-vibid:2622000687427": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633361&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633361&type=464",
@@ -9188,15 +9188,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 27,
-      "Десинов Денис Анатольевич": 18,
-      "Епифанова Мария Александровна": 12,
-      "Кравченко Юрий Александрович": 34,
-      "Красов Андрей Леонидович": 178,
-      "Кусова Ирина Гасановна": 6,
-      "Ляблин Андрей Алексеевич": 12,
-      "Рогов Владимир Александрович": 8,
-      "Тумашев Андрей Рамильевич": 5
+      "gas:candidate-vibid:2622000687166": 27,
+      "gas:candidate-vibid:2622000686677": 18,
+      "gas:candidate-vibid:2622000687051": 12,
+      "gas:candidate-vibid:2622000660670": 34,
+      "gas:candidate-vibid:2622000686573": 178,
+      "gas:candidate-vibid:2622000686220": 6,
+      "gas:candidate-vibid:2622000685437": 12,
+      "gas:candidate-vibid:2622000687415": 8,
+      "gas:candidate-vibid:2622000687427": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633361&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633361&type=464",
@@ -9247,15 +9247,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 27,
-      "Десинов Денис Анатольевич": 8,
-      "Епифанова Мария Александровна": 7,
-      "Кравченко Юрий Александрович": 22,
-      "Красов Андрей Леонидович": 51,
-      "Кусова Ирина Гасановна": 1,
-      "Ляблин Андрей Алексеевич": 4,
-      "Рогов Владимир Александрович": 5,
-      "Тумашев Андрей Рамильевич": 1
+      "gas:candidate-vibid:2622000687166": 27,
+      "gas:candidate-vibid:2622000686677": 8,
+      "gas:candidate-vibid:2622000687051": 7,
+      "gas:candidate-vibid:2622000660670": 22,
+      "gas:candidate-vibid:2622000686573": 51,
+      "gas:candidate-vibid:2622000686220": 1,
+      "gas:candidate-vibid:2622000685437": 4,
+      "gas:candidate-vibid:2622000687415": 5,
+      "gas:candidate-vibid:2622000687427": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633361&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633361&type=464",
@@ -9306,15 +9306,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 13,
-      "Десинов Денис Анатольевич": 7,
-      "Епифанова Мария Александровна": 14,
-      "Кравченко Юрий Александрович": 16,
-      "Красов Андрей Леонидович": 136,
-      "Кусова Ирина Гасановна": 6,
-      "Ляблин Андрей Алексеевич": 4,
-      "Рогов Владимир Александрович": 2,
-      "Тумашев Андрей Рамильевич": 1
+      "gas:candidate-vibid:2622000687166": 13,
+      "gas:candidate-vibid:2622000686677": 7,
+      "gas:candidate-vibid:2622000687051": 14,
+      "gas:candidate-vibid:2622000660670": 16,
+      "gas:candidate-vibid:2622000686573": 136,
+      "gas:candidate-vibid:2622000686220": 6,
+      "gas:candidate-vibid:2622000685437": 4,
+      "gas:candidate-vibid:2622000687415": 2,
+      "gas:candidate-vibid:2622000687427": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633361&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633361&type=464",
@@ -9365,15 +9365,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 27,
-      "Десинов Денис Анатольевич": 16,
-      "Епифанова Мария Александровна": 29,
-      "Кравченко Юрий Александрович": 16,
-      "Красов Андрей Леонидович": 143,
-      "Кусова Ирина Гасановна": 8,
-      "Ляблин Андрей Алексеевич": 4,
-      "Рогов Владимир Александрович": 6,
-      "Тумашев Андрей Рамильевич": 2
+      "gas:candidate-vibid:2622000687166": 27,
+      "gas:candidate-vibid:2622000686677": 16,
+      "gas:candidate-vibid:2622000687051": 29,
+      "gas:candidate-vibid:2622000660670": 16,
+      "gas:candidate-vibid:2622000686573": 143,
+      "gas:candidate-vibid:2622000686220": 8,
+      "gas:candidate-vibid:2622000685437": 4,
+      "gas:candidate-vibid:2622000687415": 6,
+      "gas:candidate-vibid:2622000687427": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633361&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633361&type=464",
@@ -9424,15 +9424,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 29,
-      "Десинов Денис Анатольевич": 15,
-      "Епифанова Мария Александровна": 9,
-      "Кравченко Юрий Александрович": 67,
-      "Красов Андрей Леонидович": 126,
-      "Кусова Ирина Гасановна": 0,
-      "Ляблин Андрей Алексеевич": 7,
-      "Рогов Владимир Александрович": 13,
-      "Тумашев Андрей Рамильевич": 3
+      "gas:candidate-vibid:2622000687166": 29,
+      "gas:candidate-vibid:2622000686677": 15,
+      "gas:candidate-vibid:2622000687051": 9,
+      "gas:candidate-vibid:2622000660670": 67,
+      "gas:candidate-vibid:2622000686573": 126,
+      "gas:candidate-vibid:2622000686220": 0,
+      "gas:candidate-vibid:2622000685437": 7,
+      "gas:candidate-vibid:2622000687415": 13,
+      "gas:candidate-vibid:2622000687427": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633361&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633361&type=464",
@@ -9483,15 +9483,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 23,
-      "Десинов Денис Анатольевич": 4,
-      "Епифанова Мария Александровна": 7,
-      "Кравченко Юрий Александрович": 7,
-      "Красов Андрей Леонидович": 74,
-      "Кусова Ирина Гасановна": 0,
-      "Ляблин Андрей Алексеевич": 2,
-      "Рогов Владимир Александрович": 2,
-      "Тумашев Андрей Рамильевич": 1
+      "gas:candidate-vibid:2622000687166": 23,
+      "gas:candidate-vibid:2622000686677": 4,
+      "gas:candidate-vibid:2622000687051": 7,
+      "gas:candidate-vibid:2622000660670": 7,
+      "gas:candidate-vibid:2622000686573": 74,
+      "gas:candidate-vibid:2622000686220": 0,
+      "gas:candidate-vibid:2622000685437": 2,
+      "gas:candidate-vibid:2622000687415": 2,
+      "gas:candidate-vibid:2622000687427": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633361&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633361&type=464",
@@ -9542,15 +9542,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 32,
-      "Десинов Денис Анатольевич": 9,
-      "Епифанова Мария Александровна": 19,
-      "Кравченко Юрий Александрович": 23,
-      "Красов Андрей Леонидович": 93,
-      "Кусова Ирина Гасановна": 2,
-      "Ляблин Андрей Алексеевич": 4,
-      "Рогов Владимир Александрович": 4,
-      "Тумашев Андрей Рамильевич": 1
+      "gas:candidate-vibid:2622000687166": 32,
+      "gas:candidate-vibid:2622000686677": 9,
+      "gas:candidate-vibid:2622000687051": 19,
+      "gas:candidate-vibid:2622000660670": 23,
+      "gas:candidate-vibid:2622000686573": 93,
+      "gas:candidate-vibid:2622000686220": 2,
+      "gas:candidate-vibid:2622000685437": 4,
+      "gas:candidate-vibid:2622000687415": 4,
+      "gas:candidate-vibid:2622000687427": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633361&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633361&type=464",
@@ -9601,15 +9601,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 19,
-      "Десинов Денис Анатольевич": 8,
-      "Епифанова Мария Александровна": 9,
-      "Кравченко Юрий Александрович": 18,
-      "Красов Андрей Леонидович": 86,
-      "Кусова Ирина Гасановна": 4,
-      "Ляблин Андрей Алексеевич": 4,
-      "Рогов Владимир Александрович": 7,
-      "Тумашев Андрей Рамильевич": 5
+      "gas:candidate-vibid:2622000687166": 19,
+      "gas:candidate-vibid:2622000686677": 8,
+      "gas:candidate-vibid:2622000687051": 9,
+      "gas:candidate-vibid:2622000660670": 18,
+      "gas:candidate-vibid:2622000686573": 86,
+      "gas:candidate-vibid:2622000686220": 4,
+      "gas:candidate-vibid:2622000685437": 4,
+      "gas:candidate-vibid:2622000687415": 7,
+      "gas:candidate-vibid:2622000687427": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633361&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633361&type=464",
@@ -9660,15 +9660,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 73,
-      "Десинов Денис Анатольевич": 35,
-      "Епифанова Мария Александровна": 34,
-      "Кравченко Юрий Александрович": 102,
-      "Красов Андрей Леонидович": 346,
-      "Кусова Ирина Гасановна": 7,
-      "Ляблин Андрей Алексеевич": 42,
-      "Рогов Владимир Александрович": 7,
-      "Тумашев Андрей Рамильевич": 8
+      "gas:candidate-vibid:2622000687166": 73,
+      "gas:candidate-vibid:2622000686677": 35,
+      "gas:candidate-vibid:2622000687051": 34,
+      "gas:candidate-vibid:2622000660670": 102,
+      "gas:candidate-vibid:2622000686573": 346,
+      "gas:candidate-vibid:2622000686220": 7,
+      "gas:candidate-vibid:2622000685437": 42,
+      "gas:candidate-vibid:2622000687415": 7,
+      "gas:candidate-vibid:2622000687427": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633362&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633362&type=464",
@@ -9719,15 +9719,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 100,
-      "Десинов Денис Анатольевич": 31,
-      "Епифанова Мария Александровна": 40,
-      "Кравченко Юрий Александрович": 91,
-      "Красов Андрей Леонидович": 223,
-      "Кусова Ирина Гасановна": 11,
-      "Ляблин Андрей Алексеевич": 58,
-      "Рогов Владимир Александрович": 13,
-      "Тумашев Андрей Рамильевич": 6
+      "gas:candidate-vibid:2622000687166": 100,
+      "gas:candidate-vibid:2622000686677": 31,
+      "gas:candidate-vibid:2622000687051": 40,
+      "gas:candidate-vibid:2622000660670": 91,
+      "gas:candidate-vibid:2622000686573": 223,
+      "gas:candidate-vibid:2622000686220": 11,
+      "gas:candidate-vibid:2622000685437": 58,
+      "gas:candidate-vibid:2622000687415": 13,
+      "gas:candidate-vibid:2622000687427": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633362&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633362&type=464",
@@ -9778,15 +9778,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 86,
-      "Десинов Денис Анатольевич": 49,
-      "Епифанова Мария Александровна": 38,
-      "Кравченко Юрий Александрович": 90,
-      "Красов Андрей Леонидович": 305,
-      "Кусова Ирина Гасановна": 13,
-      "Ляблин Андрей Алексеевич": 34,
-      "Рогов Владимир Александрович": 22,
-      "Тумашев Андрей Рамильевич": 6
+      "gas:candidate-vibid:2622000687166": 86,
+      "gas:candidate-vibid:2622000686677": 49,
+      "gas:candidate-vibid:2622000687051": 38,
+      "gas:candidate-vibid:2622000660670": 90,
+      "gas:candidate-vibid:2622000686573": 305,
+      "gas:candidate-vibid:2622000686220": 13,
+      "gas:candidate-vibid:2622000685437": 34,
+      "gas:candidate-vibid:2622000687415": 22,
+      "gas:candidate-vibid:2622000687427": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633362&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633362&type=464",
@@ -9837,15 +9837,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 75,
-      "Десинов Денис Анатольевич": 33,
-      "Епифанова Мария Александровна": 49,
-      "Кравченко Юрий Александрович": 92,
-      "Красов Андрей Леонидович": 528,
-      "Кусова Ирина Гасановна": 18,
-      "Ляблин Андрей Алексеевич": 29,
-      "Рогов Владимир Александрович": 13,
-      "Тумашев Андрей Рамильевич": 9
+      "gas:candidate-vibid:2622000687166": 75,
+      "gas:candidate-vibid:2622000686677": 33,
+      "gas:candidate-vibid:2622000687051": 49,
+      "gas:candidate-vibid:2622000660670": 92,
+      "gas:candidate-vibid:2622000686573": 528,
+      "gas:candidate-vibid:2622000686220": 18,
+      "gas:candidate-vibid:2622000685437": 29,
+      "gas:candidate-vibid:2622000687415": 13,
+      "gas:candidate-vibid:2622000687427": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633362&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633362&type=464",
@@ -9896,15 +9896,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 74,
-      "Десинов Денис Анатольевич": 35,
-      "Епифанова Мария Александровна": 33,
-      "Кравченко Юрий Александрович": 79,
-      "Красов Андрей Леонидович": 507,
-      "Кусова Ирина Гасановна": 9,
-      "Ляблин Андрей Алексеевич": 34,
-      "Рогов Владимир Александрович": 9,
-      "Тумашев Андрей Рамильевич": 5
+      "gas:candidate-vibid:2622000687166": 74,
+      "gas:candidate-vibid:2622000686677": 35,
+      "gas:candidate-vibid:2622000687051": 33,
+      "gas:candidate-vibid:2622000660670": 79,
+      "gas:candidate-vibid:2622000686573": 507,
+      "gas:candidate-vibid:2622000686220": 9,
+      "gas:candidate-vibid:2622000685437": 34,
+      "gas:candidate-vibid:2622000687415": 9,
+      "gas:candidate-vibid:2622000687427": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633362&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633362&type=464",
@@ -9955,15 +9955,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 75,
-      "Десинов Денис Анатольевич": 38,
-      "Епифанова Мария Александровна": 35,
-      "Кравченко Юрий Александрович": 35,
-      "Красов Андрей Леонидович": 252,
-      "Кусова Ирина Гасановна": 39,
-      "Ляблин Андрей Алексеевич": 31,
-      "Рогов Владимир Александрович": 14,
-      "Тумашев Андрей Рамильевич": 15
+      "gas:candidate-vibid:2622000687166": 75,
+      "gas:candidate-vibid:2622000686677": 38,
+      "gas:candidate-vibid:2622000687051": 35,
+      "gas:candidate-vibid:2622000660670": 35,
+      "gas:candidate-vibid:2622000686573": 252,
+      "gas:candidate-vibid:2622000686220": 39,
+      "gas:candidate-vibid:2622000685437": 31,
+      "gas:candidate-vibid:2622000687415": 14,
+      "gas:candidate-vibid:2622000687427": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633362&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633362&type=464",
@@ -10014,15 +10014,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 55,
-      "Десинов Денис Анатольевич": 30,
-      "Епифанова Мария Александровна": 37,
-      "Кравченко Юрий Александрович": 86,
-      "Красов Андрей Леонидович": 302,
-      "Кусова Ирина Гасановна": 12,
-      "Ляблин Андрей Алексеевич": 32,
-      "Рогов Владимир Александрович": 18,
-      "Тумашев Андрей Рамильевич": 8
+      "gas:candidate-vibid:2622000687166": 55,
+      "gas:candidate-vibid:2622000686677": 30,
+      "gas:candidate-vibid:2622000687051": 37,
+      "gas:candidate-vibid:2622000660670": 86,
+      "gas:candidate-vibid:2622000686573": 302,
+      "gas:candidate-vibid:2622000686220": 12,
+      "gas:candidate-vibid:2622000685437": 32,
+      "gas:candidate-vibid:2622000687415": 18,
+      "gas:candidate-vibid:2622000687427": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633362&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633362&type=464",
@@ -10073,15 +10073,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 31,
-      "Десинов Денис Анатольевич": 22,
-      "Епифанова Мария Александровна": 20,
-      "Кравченко Юрий Александрович": 42,
-      "Красов Андрей Леонидович": 335,
-      "Кусова Ирина Гасановна": 6,
-      "Ляблин Андрей Алексеевич": 8,
-      "Рогов Владимир Александрович": 5,
-      "Тумашев Андрей Рамильевич": 3
+      "gas:candidate-vibid:2622000687166": 31,
+      "gas:candidate-vibid:2622000686677": 22,
+      "gas:candidate-vibid:2622000687051": 20,
+      "gas:candidate-vibid:2622000660670": 42,
+      "gas:candidate-vibid:2622000686573": 335,
+      "gas:candidate-vibid:2622000686220": 6,
+      "gas:candidate-vibid:2622000685437": 8,
+      "gas:candidate-vibid:2622000687415": 5,
+      "gas:candidate-vibid:2622000687427": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633362&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633362&type=464",
@@ -10132,15 +10132,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 42,
-      "Десинов Денис Анатольевич": 28,
-      "Епифанова Мария Александровна": 18,
-      "Кравченко Юрий Александрович": 59,
-      "Красов Андрей Леонидович": 422,
-      "Кусова Ирина Гасановна": 10,
-      "Ляблин Андрей Алексеевич": 13,
-      "Рогов Владимир Александрович": 3,
-      "Тумашев Андрей Рамильевич": 2
+      "gas:candidate-vibid:2622000687166": 42,
+      "gas:candidate-vibid:2622000686677": 28,
+      "gas:candidate-vibid:2622000687051": 18,
+      "gas:candidate-vibid:2622000660670": 59,
+      "gas:candidate-vibid:2622000686573": 422,
+      "gas:candidate-vibid:2622000686220": 10,
+      "gas:candidate-vibid:2622000685437": 13,
+      "gas:candidate-vibid:2622000687415": 3,
+      "gas:candidate-vibid:2622000687427": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633362&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633362&type=464",
@@ -10191,15 +10191,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 94,
-      "Десинов Денис Анатольевич": 37,
-      "Епифанова Мария Александровна": 36,
-      "Кравченко Юрий Александрович": 117,
-      "Красов Андрей Леонидович": 349,
-      "Кусова Ирина Гасановна": 17,
-      "Ляблин Андрей Алексеевич": 41,
-      "Рогов Владимир Александрович": 13,
-      "Тумашев Андрей Рамильевич": 3
+      "gas:candidate-vibid:2622000687166": 94,
+      "gas:candidate-vibid:2622000686677": 37,
+      "gas:candidate-vibid:2622000687051": 36,
+      "gas:candidate-vibid:2622000660670": 117,
+      "gas:candidate-vibid:2622000686573": 349,
+      "gas:candidate-vibid:2622000686220": 17,
+      "gas:candidate-vibid:2622000685437": 41,
+      "gas:candidate-vibid:2622000687415": 13,
+      "gas:candidate-vibid:2622000687427": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633362&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633362&type=464",
@@ -10250,15 +10250,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 57,
-      "Десинов Денис Анатольевич": 22,
-      "Епифанова Мария Александровна": 36,
-      "Кравченко Юрий Александрович": 69,
-      "Красов Андрей Леонидович": 239,
-      "Кусова Ирина Гасановна": 10,
-      "Ляблин Андрей Алексеевич": 22,
-      "Рогов Владимир Александрович": 10,
-      "Тумашев Андрей Рамильевич": 6
+      "gas:candidate-vibid:2622000687166": 57,
+      "gas:candidate-vibid:2622000686677": 22,
+      "gas:candidate-vibid:2622000687051": 36,
+      "gas:candidate-vibid:2622000660670": 69,
+      "gas:candidate-vibid:2622000686573": 239,
+      "gas:candidate-vibid:2622000686220": 10,
+      "gas:candidate-vibid:2622000685437": 22,
+      "gas:candidate-vibid:2622000687415": 10,
+      "gas:candidate-vibid:2622000687427": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633362&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633362&type=464",
@@ -10309,15 +10309,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 88,
-      "Десинов Денис Анатольевич": 37,
-      "Епифанова Мария Александровна": 29,
-      "Кравченко Юрий Александрович": 110,
-      "Красов Андрей Леонидович": 392,
-      "Кусова Ирина Гасановна": 14,
-      "Ляблин Андрей Алексеевич": 28,
-      "Рогов Владимир Александрович": 17,
-      "Тумашев Андрей Рамильевич": 5
+      "gas:candidate-vibid:2622000687166": 88,
+      "gas:candidate-vibid:2622000686677": 37,
+      "gas:candidate-vibid:2622000687051": 29,
+      "gas:candidate-vibid:2622000660670": 110,
+      "gas:candidate-vibid:2622000686573": 392,
+      "gas:candidate-vibid:2622000686220": 14,
+      "gas:candidate-vibid:2622000685437": 28,
+      "gas:candidate-vibid:2622000687415": 17,
+      "gas:candidate-vibid:2622000687427": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633362&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633362&type=464",
@@ -10368,15 +10368,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 88,
-      "Десинов Денис Анатольевич": 35,
-      "Епифанова Мария Александровна": 52,
-      "Кравченко Юрий Александрович": 72,
-      "Красов Андрей Леонидович": 361,
-      "Кусова Ирина Гасановна": 12,
-      "Ляблин Андрей Алексеевич": 43,
-      "Рогов Владимир Александрович": 13,
-      "Тумашев Андрей Рамильевич": 6
+      "gas:candidate-vibid:2622000687166": 88,
+      "gas:candidate-vibid:2622000686677": 35,
+      "gas:candidate-vibid:2622000687051": 52,
+      "gas:candidate-vibid:2622000660670": 72,
+      "gas:candidate-vibid:2622000686573": 361,
+      "gas:candidate-vibid:2622000686220": 12,
+      "gas:candidate-vibid:2622000685437": 43,
+      "gas:candidate-vibid:2622000687415": 13,
+      "gas:candidate-vibid:2622000687427": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633362&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633362&type=464",
@@ -10427,15 +10427,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 71,
-      "Десинов Денис Анатольевич": 25,
-      "Епифанова Мария Александровна": 49,
-      "Кравченко Юрий Александрович": 101,
-      "Красов Андрей Леонидович": 337,
-      "Кусова Ирина Гасановна": 14,
-      "Ляблин Андрей Алексеевич": 52,
-      "Рогов Владимир Александрович": 31,
-      "Тумашев Андрей Рамильевич": 6
+      "gas:candidate-vibid:2622000687166": 71,
+      "gas:candidate-vibid:2622000686677": 25,
+      "gas:candidate-vibid:2622000687051": 49,
+      "gas:candidate-vibid:2622000660670": 101,
+      "gas:candidate-vibid:2622000686573": 337,
+      "gas:candidate-vibid:2622000686220": 14,
+      "gas:candidate-vibid:2622000685437": 52,
+      "gas:candidate-vibid:2622000687415": 31,
+      "gas:candidate-vibid:2622000687427": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633362&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633362&type=464",
@@ -10486,15 +10486,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 88,
-      "Десинов Денис Анатольевич": 37,
-      "Епифанова Мария Александровна": 28,
-      "Кравченко Юрий Александрович": 102,
-      "Красов Андрей Леонидович": 370,
-      "Кусова Ирина Гасановна": 12,
-      "Ляблин Андрей Алексеевич": 48,
-      "Рогов Владимир Александрович": 12,
-      "Тумашев Андрей Рамильевич": 11
+      "gas:candidate-vibid:2622000687166": 88,
+      "gas:candidate-vibid:2622000686677": 37,
+      "gas:candidate-vibid:2622000687051": 28,
+      "gas:candidate-vibid:2622000660670": 102,
+      "gas:candidate-vibid:2622000686573": 370,
+      "gas:candidate-vibid:2622000686220": 12,
+      "gas:candidate-vibid:2622000685437": 48,
+      "gas:candidate-vibid:2622000687415": 12,
+      "gas:candidate-vibid:2622000687427": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633362&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633362&type=464",
@@ -10545,15 +10545,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 112,
-      "Десинов Денис Анатольевич": 47,
-      "Епифанова Мария Александровна": 38,
-      "Кравченко Юрий Александрович": 87,
-      "Красов Андрей Леонидович": 269,
-      "Кусова Ирина Гасановна": 5,
-      "Ляблин Андрей Алексеевич": 60,
-      "Рогов Владимир Александрович": 8,
-      "Тумашев Андрей Рамильевич": 7
+      "gas:candidate-vibid:2622000687166": 112,
+      "gas:candidate-vibid:2622000686677": 47,
+      "gas:candidate-vibid:2622000687051": 38,
+      "gas:candidate-vibid:2622000660670": 87,
+      "gas:candidate-vibid:2622000686573": 269,
+      "gas:candidate-vibid:2622000686220": 5,
+      "gas:candidate-vibid:2622000685437": 60,
+      "gas:candidate-vibid:2622000687415": 8,
+      "gas:candidate-vibid:2622000687427": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633362&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633362&type=464",
@@ -10604,15 +10604,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 82,
-      "Десинов Денис Анатольевич": 36,
-      "Епифанова Мария Александровна": 52,
-      "Кравченко Юрий Александрович": 86,
-      "Красов Андрей Леонидович": 277,
-      "Кусова Ирина Гасановна": 12,
-      "Ляблин Андрей Алексеевич": 58,
-      "Рогов Владимир Александрович": 19,
-      "Тумашев Андрей Рамильевич": 5
+      "gas:candidate-vibid:2622000687166": 82,
+      "gas:candidate-vibid:2622000686677": 36,
+      "gas:candidate-vibid:2622000687051": 52,
+      "gas:candidate-vibid:2622000660670": 86,
+      "gas:candidate-vibid:2622000686573": 277,
+      "gas:candidate-vibid:2622000686220": 12,
+      "gas:candidate-vibid:2622000685437": 58,
+      "gas:candidate-vibid:2622000687415": 19,
+      "gas:candidate-vibid:2622000687427": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633362&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633362&type=464",
@@ -10663,15 +10663,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 127,
-      "Десинов Денис Анатольевич": 48,
-      "Епифанова Мария Александровна": 55,
-      "Кравченко Юрий Александрович": 109,
-      "Красов Андрей Леонидович": 365,
-      "Кусова Ирина Гасановна": 10,
-      "Ляблин Андрей Алексеевич": 52,
-      "Рогов Владимир Александрович": 14,
-      "Тумашев Андрей Рамильевич": 5
+      "gas:candidate-vibid:2622000687166": 127,
+      "gas:candidate-vibid:2622000686677": 48,
+      "gas:candidate-vibid:2622000687051": 55,
+      "gas:candidate-vibid:2622000660670": 109,
+      "gas:candidate-vibid:2622000686573": 365,
+      "gas:candidate-vibid:2622000686220": 10,
+      "gas:candidate-vibid:2622000685437": 52,
+      "gas:candidate-vibid:2622000687415": 14,
+      "gas:candidate-vibid:2622000687427": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633362&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633362&type=464",
@@ -10722,15 +10722,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 92,
-      "Десинов Денис Анатольевич": 37,
-      "Епифанова Мария Александровна": 21,
-      "Кравченко Юрий Александрович": 80,
-      "Красов Андрей Леонидович": 204,
-      "Кусова Ирина Гасановна": 14,
-      "Ляблин Андрей Алексеевич": 34,
-      "Рогов Владимир Александрович": 16,
-      "Тумашев Андрей Рамильевич": 7
+      "gas:candidate-vibid:2622000687166": 92,
+      "gas:candidate-vibid:2622000686677": 37,
+      "gas:candidate-vibid:2622000687051": 21,
+      "gas:candidate-vibid:2622000660670": 80,
+      "gas:candidate-vibid:2622000686573": 204,
+      "gas:candidate-vibid:2622000686220": 14,
+      "gas:candidate-vibid:2622000685437": 34,
+      "gas:candidate-vibid:2622000687415": 16,
+      "gas:candidate-vibid:2622000687427": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633362&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633362&type=464",
@@ -10781,15 +10781,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 108,
-      "Десинов Денис Анатольевич": 33,
-      "Епифанова Мария Александровна": 53,
-      "Кравченко Юрий Александрович": 111,
-      "Красов Андрей Леонидович": 303,
-      "Кусова Ирина Гасановна": 6,
-      "Ляблин Андрей Алексеевич": 42,
-      "Рогов Владимир Александрович": 22,
-      "Тумашев Андрей Рамильевич": 8
+      "gas:candidate-vibid:2622000687166": 108,
+      "gas:candidate-vibid:2622000686677": 33,
+      "gas:candidate-vibid:2622000687051": 53,
+      "gas:candidate-vibid:2622000660670": 111,
+      "gas:candidate-vibid:2622000686573": 303,
+      "gas:candidate-vibid:2622000686220": 6,
+      "gas:candidate-vibid:2622000685437": 42,
+      "gas:candidate-vibid:2622000687415": 22,
+      "gas:candidate-vibid:2622000687427": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633362&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633362&type=464",
@@ -10840,15 +10840,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 125,
-      "Десинов Денис Анатольевич": 47,
-      "Епифанова Мария Александровна": 36,
-      "Кравченко Юрий Александрович": 72,
-      "Красов Андрей Леонидович": 269,
-      "Кусова Ирина Гасановна": 15,
-      "Ляблин Андрей Алексеевич": 25,
-      "Рогов Владимир Александрович": 14,
-      "Тумашев Андрей Рамильевич": 10
+      "gas:candidate-vibid:2622000687166": 125,
+      "gas:candidate-vibid:2622000686677": 47,
+      "gas:candidate-vibid:2622000687051": 36,
+      "gas:candidate-vibid:2622000660670": 72,
+      "gas:candidate-vibid:2622000686573": 269,
+      "gas:candidate-vibid:2622000686220": 15,
+      "gas:candidate-vibid:2622000685437": 25,
+      "gas:candidate-vibid:2622000687415": 14,
+      "gas:candidate-vibid:2622000687427": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633362&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633362&type=464",
@@ -10899,15 +10899,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 97,
-      "Десинов Денис Анатольевич": 24,
-      "Епифанова Мария Александровна": 33,
-      "Кравченко Юрий Александрович": 105,
-      "Красов Андрей Леонидович": 243,
-      "Кусова Ирина Гасановна": 3,
-      "Ляблин Андрей Алексеевич": 26,
-      "Рогов Владимир Александрович": 13,
-      "Тумашев Андрей Рамильевич": 10
+      "gas:candidate-vibid:2622000687166": 97,
+      "gas:candidate-vibid:2622000686677": 24,
+      "gas:candidate-vibid:2622000687051": 33,
+      "gas:candidate-vibid:2622000660670": 105,
+      "gas:candidate-vibid:2622000686573": 243,
+      "gas:candidate-vibid:2622000686220": 3,
+      "gas:candidate-vibid:2622000685437": 26,
+      "gas:candidate-vibid:2622000687415": 13,
+      "gas:candidate-vibid:2622000687427": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633362&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633362&type=464",
@@ -10958,15 +10958,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 30,
-      "Десинов Денис Анатольевич": 17,
-      "Епифанова Мария Александровна": 14,
-      "Кравченко Юрий Александрович": 35,
-      "Красов Андрей Леонидович": 133,
-      "Кусова Ирина Гасановна": 3,
-      "Ляблин Андрей Алексеевич": 5,
-      "Рогов Владимир Александрович": 5,
-      "Тумашев Андрей Рамильевич": 3
+      "gas:candidate-vibid:2622000687166": 30,
+      "gas:candidate-vibid:2622000686677": 17,
+      "gas:candidate-vibid:2622000687051": 14,
+      "gas:candidate-vibid:2622000660670": 35,
+      "gas:candidate-vibid:2622000686573": 133,
+      "gas:candidate-vibid:2622000686220": 3,
+      "gas:candidate-vibid:2622000685437": 5,
+      "gas:candidate-vibid:2622000687415": 5,
+      "gas:candidate-vibid:2622000687427": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633363&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633363&type=464",
@@ -11017,15 +11017,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 29,
-      "Десинов Денис Анатольевич": 30,
-      "Епифанова Мария Александровна": 28,
-      "Кравченко Юрий Александрович": 41,
-      "Красов Андрей Леонидович": 114,
-      "Кусова Ирина Гасановна": 8,
-      "Ляблин Андрей Алексеевич": 14,
-      "Рогов Владимир Александрович": 6,
-      "Тумашев Андрей Рамильевич": 4
+      "gas:candidate-vibid:2622000687166": 29,
+      "gas:candidate-vibid:2622000686677": 30,
+      "gas:candidate-vibid:2622000687051": 28,
+      "gas:candidate-vibid:2622000660670": 41,
+      "gas:candidate-vibid:2622000686573": 114,
+      "gas:candidate-vibid:2622000686220": 8,
+      "gas:candidate-vibid:2622000685437": 14,
+      "gas:candidate-vibid:2622000687415": 6,
+      "gas:candidate-vibid:2622000687427": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633363&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633363&type=464",
@@ -11076,15 +11076,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 13,
-      "Десинов Денис Анатольевич": 9,
-      "Епифанова Мария Александровна": 8,
-      "Кравченко Юрий Александрович": 25,
-      "Красов Андрей Леонидович": 65,
-      "Кусова Ирина Гасановна": 3,
-      "Ляблин Андрей Алексеевич": 8,
-      "Рогов Владимир Александрович": 3,
-      "Тумашев Андрей Рамильевич": 2
+      "gas:candidate-vibid:2622000687166": 13,
+      "gas:candidate-vibid:2622000686677": 9,
+      "gas:candidate-vibid:2622000687051": 8,
+      "gas:candidate-vibid:2622000660670": 25,
+      "gas:candidate-vibid:2622000686573": 65,
+      "gas:candidate-vibid:2622000686220": 3,
+      "gas:candidate-vibid:2622000685437": 8,
+      "gas:candidate-vibid:2622000687415": 3,
+      "gas:candidate-vibid:2622000687427": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633363&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633363&type=464",
@@ -11135,15 +11135,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 19,
-      "Десинов Денис Анатольевич": 2,
-      "Епифанова Мария Александровна": 4,
-      "Кравченко Юрий Александрович": 17,
-      "Красов Андрей Леонидович": 73,
-      "Кусова Ирина Гасановна": 2,
-      "Ляблин Андрей Алексеевич": 3,
-      "Рогов Владимир Александрович": 1,
-      "Тумашев Андрей Рамильевич": 1
+      "gas:candidate-vibid:2622000687166": 19,
+      "gas:candidate-vibid:2622000686677": 2,
+      "gas:candidate-vibid:2622000687051": 4,
+      "gas:candidate-vibid:2622000660670": 17,
+      "gas:candidate-vibid:2622000686573": 73,
+      "gas:candidate-vibid:2622000686220": 2,
+      "gas:candidate-vibid:2622000685437": 3,
+      "gas:candidate-vibid:2622000687415": 1,
+      "gas:candidate-vibid:2622000687427": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633363&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633363&type=464",
@@ -11194,15 +11194,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 19,
-      "Десинов Денис Анатольевич": 10,
-      "Епифанова Мария Александровна": 11,
-      "Кравченко Юрий Александрович": 24,
-      "Красов Андрей Леонидович": 72,
-      "Кусова Ирина Гасановна": 3,
-      "Ляблин Андрей Алексеевич": 6,
-      "Рогов Владимир Александрович": 4,
-      "Тумашев Андрей Рамильевич": 3
+      "gas:candidate-vibid:2622000687166": 19,
+      "gas:candidate-vibid:2622000686677": 10,
+      "gas:candidate-vibid:2622000687051": 11,
+      "gas:candidate-vibid:2622000660670": 24,
+      "gas:candidate-vibid:2622000686573": 72,
+      "gas:candidate-vibid:2622000686220": 3,
+      "gas:candidate-vibid:2622000685437": 6,
+      "gas:candidate-vibid:2622000687415": 4,
+      "gas:candidate-vibid:2622000687427": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633363&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633363&type=464",
@@ -11253,15 +11253,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 6,
-      "Десинов Денис Анатольевич": 9,
-      "Епифанова Мария Александровна": 4,
-      "Кравченко Юрий Александрович": 14,
-      "Красов Андрей Леонидович": 38,
-      "Кусова Ирина Гасановна": 3,
-      "Ляблин Андрей Алексеевич": 2,
-      "Рогов Владимир Александрович": 0,
-      "Тумашев Андрей Рамильевич": 4
+      "gas:candidate-vibid:2622000687166": 6,
+      "gas:candidate-vibid:2622000686677": 9,
+      "gas:candidate-vibid:2622000687051": 4,
+      "gas:candidate-vibid:2622000660670": 14,
+      "gas:candidate-vibid:2622000686573": 38,
+      "gas:candidate-vibid:2622000686220": 3,
+      "gas:candidate-vibid:2622000685437": 2,
+      "gas:candidate-vibid:2622000687415": 0,
+      "gas:candidate-vibid:2622000687427": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633363&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633363&type=464",
@@ -11312,15 +11312,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 6,
-      "Десинов Денис Анатольевич": 7,
-      "Епифанова Мария Александровна": 8,
-      "Кравченко Юрий Александрович": 15,
-      "Красов Андрей Леонидович": 47,
-      "Кусова Ирина Гасановна": 1,
-      "Ляблин Андрей Алексеевич": 4,
-      "Рогов Владимир Александрович": 5,
-      "Тумашев Андрей Рамильевич": 0
+      "gas:candidate-vibid:2622000687166": 6,
+      "gas:candidate-vibid:2622000686677": 7,
+      "gas:candidate-vibid:2622000687051": 8,
+      "gas:candidate-vibid:2622000660670": 15,
+      "gas:candidate-vibid:2622000686573": 47,
+      "gas:candidate-vibid:2622000686220": 1,
+      "gas:candidate-vibid:2622000685437": 4,
+      "gas:candidate-vibid:2622000687415": 5,
+      "gas:candidate-vibid:2622000687427": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633363&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633363&type=464",
@@ -11371,15 +11371,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 29,
-      "Десинов Денис Анатольевич": 18,
-      "Епифанова Мария Александровна": 37,
-      "Кравченко Юрий Александрович": 24,
-      "Красов Андрей Леонидович": 108,
-      "Кусова Ирина Гасановна": 4,
-      "Ляблин Андрей Алексеевич": 5,
-      "Рогов Владимир Александрович": 8,
-      "Тумашев Андрей Рамильевич": 1
+      "gas:candidate-vibid:2622000687166": 29,
+      "gas:candidate-vibid:2622000686677": 18,
+      "gas:candidate-vibid:2622000687051": 37,
+      "gas:candidate-vibid:2622000660670": 24,
+      "gas:candidate-vibid:2622000686573": 108,
+      "gas:candidate-vibid:2622000686220": 4,
+      "gas:candidate-vibid:2622000685437": 5,
+      "gas:candidate-vibid:2622000687415": 8,
+      "gas:candidate-vibid:2622000687427": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633363&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633363&type=464",
@@ -11430,15 +11430,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 39,
-      "Десинов Денис Анатольевич": 24,
-      "Епифанова Мария Александровна": 15,
-      "Кравченко Юрий Александрович": 51,
-      "Красов Андрей Леонидович": 178,
-      "Кусова Ирина Гасановна": 4,
-      "Ляблин Андрей Алексеевич": 9,
-      "Рогов Владимир Александрович": 7,
-      "Тумашев Андрей Рамильевич": 2
+      "gas:candidate-vibid:2622000687166": 39,
+      "gas:candidate-vibid:2622000686677": 24,
+      "gas:candidate-vibid:2622000687051": 15,
+      "gas:candidate-vibid:2622000660670": 51,
+      "gas:candidate-vibid:2622000686573": 178,
+      "gas:candidate-vibid:2622000686220": 4,
+      "gas:candidate-vibid:2622000685437": 9,
+      "gas:candidate-vibid:2622000687415": 7,
+      "gas:candidate-vibid:2622000687427": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633363&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633363&type=464",
@@ -11489,15 +11489,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 6,
-      "Десинов Денис Анатольевич": 2,
-      "Епифанова Мария Александровна": 4,
-      "Кравченко Юрий Александрович": 10,
-      "Красов Андрей Леонидович": 96,
-      "Кусова Ирина Гасановна": 1,
-      "Ляблин Андрей Алексеевич": 1,
-      "Рогов Владимир Александрович": 0,
-      "Тумашев Андрей Рамильевич": 0
+      "gas:candidate-vibid:2622000687166": 6,
+      "gas:candidate-vibid:2622000686677": 2,
+      "gas:candidate-vibid:2622000687051": 4,
+      "gas:candidate-vibid:2622000660670": 10,
+      "gas:candidate-vibid:2622000686573": 96,
+      "gas:candidate-vibid:2622000686220": 1,
+      "gas:candidate-vibid:2622000685437": 1,
+      "gas:candidate-vibid:2622000687415": 0,
+      "gas:candidate-vibid:2622000687427": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633363&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633363&type=464",
@@ -11548,15 +11548,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 36,
-      "Десинов Денис Анатольевич": 15,
-      "Епифанова Мария Александровна": 14,
-      "Кравченко Юрий Александрович": 20,
-      "Красов Андрей Леонидович": 119,
-      "Кусова Ирина Гасановна": 2,
-      "Ляблин Андрей Алексеевич": 3,
-      "Рогов Владимир Александрович": 3,
-      "Тумашев Андрей Рамильевич": 0
+      "gas:candidate-vibid:2622000687166": 36,
+      "gas:candidate-vibid:2622000686677": 15,
+      "gas:candidate-vibid:2622000687051": 14,
+      "gas:candidate-vibid:2622000660670": 20,
+      "gas:candidate-vibid:2622000686573": 119,
+      "gas:candidate-vibid:2622000686220": 2,
+      "gas:candidate-vibid:2622000685437": 3,
+      "gas:candidate-vibid:2622000687415": 3,
+      "gas:candidate-vibid:2622000687427": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633363&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633363&type=464",
@@ -11607,15 +11607,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 12,
-      "Десинов Денис Анатольевич": 5,
-      "Епифанова Мария Александровна": 10,
-      "Кравченко Юрий Александрович": 25,
-      "Красов Андрей Леонидович": 38,
-      "Кусова Ирина Гасановна": 1,
-      "Ляблин Андрей Алексеевич": 2,
-      "Рогов Владимир Александрович": 1,
-      "Тумашев Андрей Рамильевич": 1
+      "gas:candidate-vibid:2622000687166": 12,
+      "gas:candidate-vibid:2622000686677": 5,
+      "gas:candidate-vibid:2622000687051": 10,
+      "gas:candidate-vibid:2622000660670": 25,
+      "gas:candidate-vibid:2622000686573": 38,
+      "gas:candidate-vibid:2622000686220": 1,
+      "gas:candidate-vibid:2622000685437": 2,
+      "gas:candidate-vibid:2622000687415": 1,
+      "gas:candidate-vibid:2622000687427": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633363&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633363&type=464",
@@ -11666,15 +11666,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 11,
-      "Десинов Денис Анатольевич": 4,
-      "Епифанова Мария Александровна": 7,
-      "Кравченко Юрий Александрович": 17,
-      "Красов Андрей Леонидович": 39,
-      "Кусова Ирина Гасановна": 2,
-      "Ляблин Андрей Алексеевич": 5,
-      "Рогов Владимир Александрович": 0,
-      "Тумашев Андрей Рамильевич": 3
+      "gas:candidate-vibid:2622000687166": 11,
+      "gas:candidate-vibid:2622000686677": 4,
+      "gas:candidate-vibid:2622000687051": 7,
+      "gas:candidate-vibid:2622000660670": 17,
+      "gas:candidate-vibid:2622000686573": 39,
+      "gas:candidate-vibid:2622000686220": 2,
+      "gas:candidate-vibid:2622000685437": 5,
+      "gas:candidate-vibid:2622000687415": 0,
+      "gas:candidate-vibid:2622000687427": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633363&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633363&type=464",
@@ -11725,15 +11725,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 14,
-      "Десинов Денис Анатольевич": 11,
-      "Епифанова Мария Александровна": 24,
-      "Кравченко Юрий Александрович": 19,
-      "Красов Андрей Леонидович": 126,
-      "Кусова Ирина Гасановна": 3,
-      "Ляблин Андрей Алексеевич": 2,
-      "Рогов Владимир Александрович": 24,
-      "Тумашев Андрей Рамильевич": 2
+      "gas:candidate-vibid:2622000687166": 14,
+      "gas:candidate-vibid:2622000686677": 11,
+      "gas:candidate-vibid:2622000687051": 24,
+      "gas:candidate-vibid:2622000660670": 19,
+      "gas:candidate-vibid:2622000686573": 126,
+      "gas:candidate-vibid:2622000686220": 3,
+      "gas:candidate-vibid:2622000685437": 2,
+      "gas:candidate-vibid:2622000687415": 24,
+      "gas:candidate-vibid:2622000687427": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633363&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633363&type=464",
@@ -11784,15 +11784,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 17,
-      "Десинов Денис Анатольевич": 8,
-      "Епифанова Мария Александровна": 12,
-      "Кравченко Юрий Александрович": 8,
-      "Красов Андрей Леонидович": 67,
-      "Кусова Ирина Гасановна": 0,
-      "Ляблин Андрей Алексеевич": 2,
-      "Рогов Владимир Александрович": 3,
-      "Тумашев Андрей Рамильевич": 0
+      "gas:candidate-vibid:2622000687166": 17,
+      "gas:candidate-vibid:2622000686677": 8,
+      "gas:candidate-vibid:2622000687051": 12,
+      "gas:candidate-vibid:2622000660670": 8,
+      "gas:candidate-vibid:2622000686573": 67,
+      "gas:candidate-vibid:2622000686220": 0,
+      "gas:candidate-vibid:2622000685437": 2,
+      "gas:candidate-vibid:2622000687415": 3,
+      "gas:candidate-vibid:2622000687427": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633363&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633363&type=464",
@@ -11843,15 +11843,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 10,
-      "Десинов Денис Анатольевич": 2,
-      "Епифанова Мария Александровна": 2,
-      "Кравченко Юрий Александрович": 12,
-      "Красов Андрей Леонидович": 52,
-      "Кусова Ирина Гасановна": 0,
-      "Ляблин Андрей Алексеевич": 0,
-      "Рогов Владимир Александрович": 1,
-      "Тумашев Андрей Рамильевич": 0
+      "gas:candidate-vibid:2622000687166": 10,
+      "gas:candidate-vibid:2622000686677": 2,
+      "gas:candidate-vibid:2622000687051": 2,
+      "gas:candidate-vibid:2622000660670": 12,
+      "gas:candidate-vibid:2622000686573": 52,
+      "gas:candidate-vibid:2622000686220": 0,
+      "gas:candidate-vibid:2622000685437": 0,
+      "gas:candidate-vibid:2622000687415": 1,
+      "gas:candidate-vibid:2622000687427": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633363&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633363&type=464",
@@ -11902,15 +11902,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 17,
-      "Десинов Денис Анатольевич": 2,
-      "Епифанова Мария Александровна": 10,
-      "Кравченко Юрий Александрович": 16,
-      "Красов Андрей Леонидович": 52,
-      "Кусова Ирина Гасановна": 3,
-      "Ляблин Андрей Алексеевич": 3,
-      "Рогов Владимир Александрович": 2,
-      "Тумашев Андрей Рамильевич": 0
+      "gas:candidate-vibid:2622000687166": 17,
+      "gas:candidate-vibid:2622000686677": 2,
+      "gas:candidate-vibid:2622000687051": 10,
+      "gas:candidate-vibid:2622000660670": 16,
+      "gas:candidate-vibid:2622000686573": 52,
+      "gas:candidate-vibid:2622000686220": 3,
+      "gas:candidate-vibid:2622000685437": 3,
+      "gas:candidate-vibid:2622000687415": 2,
+      "gas:candidate-vibid:2622000687427": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633363&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633363&type=464",
@@ -11961,15 +11961,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 50,
-      "Десинов Денис Анатольевич": 9,
-      "Епифанова Мария Александровна": 33,
-      "Кравченко Юрий Александрович": 39,
-      "Красов Андрей Леонидович": 182,
-      "Кусова Ирина Гасановна": 4,
-      "Ляблин Андрей Алексеевич": 9,
-      "Рогов Владимир Александрович": 3,
-      "Тумашев Андрей Рамильевич": 2
+      "gas:candidate-vibid:2622000687166": 50,
+      "gas:candidate-vibid:2622000686677": 9,
+      "gas:candidate-vibid:2622000687051": 33,
+      "gas:candidate-vibid:2622000660670": 39,
+      "gas:candidate-vibid:2622000686573": 182,
+      "gas:candidate-vibid:2622000686220": 4,
+      "gas:candidate-vibid:2622000685437": 9,
+      "gas:candidate-vibid:2622000687415": 3,
+      "gas:candidate-vibid:2622000687427": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633363&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633363&type=464",
@@ -12020,15 +12020,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 19,
-      "Десинов Денис Анатольевич": 10,
-      "Епифанова Мария Александровна": 13,
-      "Кравченко Юрий Александрович": 24,
-      "Красов Андрей Леонидович": 64,
-      "Кусова Ирина Гасановна": 2,
-      "Ляблин Андрей Алексеевич": 6,
-      "Рогов Владимир Александрович": 3,
-      "Тумашев Андрей Рамильевич": 0
+      "gas:candidate-vibid:2622000687166": 19,
+      "gas:candidate-vibid:2622000686677": 10,
+      "gas:candidate-vibid:2622000687051": 13,
+      "gas:candidate-vibid:2622000660670": 24,
+      "gas:candidate-vibid:2622000686573": 64,
+      "gas:candidate-vibid:2622000686220": 2,
+      "gas:candidate-vibid:2622000685437": 6,
+      "gas:candidate-vibid:2622000687415": 3,
+      "gas:candidate-vibid:2622000687427": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633363&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633363&type=464",
@@ -12079,15 +12079,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 12,
-      "Десинов Денис Анатольевич": 6,
-      "Епифанова Мария Александровна": 11,
-      "Кравченко Юрий Александрович": 28,
-      "Красов Андрей Леонидович": 93,
-      "Кусова Ирина Гасановна": 1,
-      "Ляблин Андрей Алексеевич": 4,
-      "Рогов Владимир Александрович": 6,
-      "Тумашев Андрей Рамильевич": 0
+      "gas:candidate-vibid:2622000687166": 12,
+      "gas:candidate-vibid:2622000686677": 6,
+      "gas:candidate-vibid:2622000687051": 11,
+      "gas:candidate-vibid:2622000660670": 28,
+      "gas:candidate-vibid:2622000686573": 93,
+      "gas:candidate-vibid:2622000686220": 1,
+      "gas:candidate-vibid:2622000685437": 4,
+      "gas:candidate-vibid:2622000687415": 6,
+      "gas:candidate-vibid:2622000687427": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633363&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633363&type=464",
@@ -12138,15 +12138,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 20,
-      "Десинов Денис Анатольевич": 18,
-      "Епифанова Мария Александровна": 21,
-      "Кравченко Юрий Александрович": 44,
-      "Красов Андрей Леонидович": 72,
-      "Кусова Ирина Гасановна": 7,
-      "Ляблин Андрей Алексеевич": 7,
-      "Рогов Владимир Александрович": 8,
-      "Тумашев Андрей Рамильевич": 1
+      "gas:candidate-vibid:2622000687166": 20,
+      "gas:candidate-vibid:2622000686677": 18,
+      "gas:candidate-vibid:2622000687051": 21,
+      "gas:candidate-vibid:2622000660670": 44,
+      "gas:candidate-vibid:2622000686573": 72,
+      "gas:candidate-vibid:2622000686220": 7,
+      "gas:candidate-vibid:2622000685437": 7,
+      "gas:candidate-vibid:2622000687415": 8,
+      "gas:candidate-vibid:2622000687427": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633363&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633363&type=464",
@@ -12197,15 +12197,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 90,
-      "Десинов Денис Анатольевич": 41,
-      "Епифанова Мария Александровна": 43,
-      "Кравченко Юрий Александрович": 137,
-      "Красов Андрей Леонидович": 225,
-      "Кусова Ирина Гасановна": 18,
-      "Ляблин Андрей Алексеевич": 37,
-      "Рогов Владимир Александрович": 14,
-      "Тумашев Андрей Рамильевич": 8
+      "gas:candidate-vibid:2622000687166": 90,
+      "gas:candidate-vibid:2622000686677": 41,
+      "gas:candidate-vibid:2622000687051": 43,
+      "gas:candidate-vibid:2622000660670": 137,
+      "gas:candidate-vibid:2622000686573": 225,
+      "gas:candidate-vibid:2622000686220": 18,
+      "gas:candidate-vibid:2622000685437": 37,
+      "gas:candidate-vibid:2622000687415": 14,
+      "gas:candidate-vibid:2622000687427": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633363&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633363&type=464",
@@ -12256,15 +12256,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 27,
-      "Десинов Денис Анатольевич": 11,
-      "Епифанова Мария Александровна": 15,
-      "Кравченко Юрий Александрович": 44,
-      "Красов Андрей Леонидович": 84,
-      "Кусова Ирина Гасановна": 3,
-      "Ляблин Андрей Алексеевич": 6,
-      "Рогов Владимир Александрович": 5,
-      "Тумашев Андрей Рамильевич": 3
+      "gas:candidate-vibid:2622000687166": 27,
+      "gas:candidate-vibid:2622000686677": 11,
+      "gas:candidate-vibid:2622000687051": 15,
+      "gas:candidate-vibid:2622000660670": 44,
+      "gas:candidate-vibid:2622000686573": 84,
+      "gas:candidate-vibid:2622000686220": 3,
+      "gas:candidate-vibid:2622000685437": 6,
+      "gas:candidate-vibid:2622000687415": 5,
+      "gas:candidate-vibid:2622000687427": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633363&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633363&type=464",
@@ -12315,15 +12315,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 51,
-      "Десинов Денис Анатольевич": 28,
-      "Епифанова Мария Александровна": 34,
-      "Кравченко Юрий Александрович": 55,
-      "Красов Андрей Леонидович": 108,
-      "Кусова Ирина Гасановна": 5,
-      "Ляблин Андрей Алексеевич": 17,
-      "Рогов Владимир Александрович": 6,
-      "Тумашев Андрей Рамильевич": 1
+      "gas:candidate-vibid:2622000687166": 51,
+      "gas:candidate-vibid:2622000686677": 28,
+      "gas:candidate-vibid:2622000687051": 34,
+      "gas:candidate-vibid:2622000660670": 55,
+      "gas:candidate-vibid:2622000686573": 108,
+      "gas:candidate-vibid:2622000686220": 5,
+      "gas:candidate-vibid:2622000685437": 17,
+      "gas:candidate-vibid:2622000687415": 6,
+      "gas:candidate-vibid:2622000687427": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633363&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633363&type=464",
@@ -12374,15 +12374,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 22,
-      "Десинов Денис Анатольевич": 21,
-      "Епифанова Мария Александровна": 13,
-      "Кравченко Юрий Александрович": 25,
-      "Красов Андрей Леонидович": 103,
-      "Кусова Ирина Гасановна": 3,
-      "Ляблин Андрей Алексеевич": 6,
-      "Рогов Владимир Александрович": 4,
-      "Тумашев Андрей Рамильевич": 1
+      "gas:candidate-vibid:2622000687166": 22,
+      "gas:candidate-vibid:2622000686677": 21,
+      "gas:candidate-vibid:2622000687051": 13,
+      "gas:candidate-vibid:2622000660670": 25,
+      "gas:candidate-vibid:2622000686573": 103,
+      "gas:candidate-vibid:2622000686220": 3,
+      "gas:candidate-vibid:2622000685437": 6,
+      "gas:candidate-vibid:2622000687415": 4,
+      "gas:candidate-vibid:2622000687427": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633363&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633363&type=464",
@@ -12433,15 +12433,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 54,
-      "Десинов Денис Анатольевич": 31,
-      "Епифанова Мария Александровна": 17,
-      "Кравченко Юрий Александрович": 66,
-      "Красов Андрей Леонидович": 152,
-      "Кусова Ирина Гасановна": 11,
-      "Ляблин Андрей Алексеевич": 18,
-      "Рогов Владимир Александрович": 10,
-      "Тумашев Андрей Рамильевич": 5
+      "gas:candidate-vibid:2622000687166": 54,
+      "gas:candidate-vibid:2622000686677": 31,
+      "gas:candidate-vibid:2622000687051": 17,
+      "gas:candidate-vibid:2622000660670": 66,
+      "gas:candidate-vibid:2622000686573": 152,
+      "gas:candidate-vibid:2622000686220": 11,
+      "gas:candidate-vibid:2622000685437": 18,
+      "gas:candidate-vibid:2622000687415": 10,
+      "gas:candidate-vibid:2622000687427": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633363&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633363&type=464",
@@ -12492,15 +12492,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 11,
-      "Десинов Денис Анатольевич": 7,
-      "Епифанова Мария Александровна": 6,
-      "Кравченко Юрий Александрович": 25,
-      "Красов Андрей Леонидович": 33,
-      "Кусова Ирина Гасановна": 1,
-      "Ляблин Андрей Алексеевич": 5,
-      "Рогов Владимир Александрович": 0,
-      "Тумашев Андрей Рамильевич": 0
+      "gas:candidate-vibid:2622000687166": 11,
+      "gas:candidate-vibid:2622000686677": 7,
+      "gas:candidate-vibid:2622000687051": 6,
+      "gas:candidate-vibid:2622000660670": 25,
+      "gas:candidate-vibid:2622000686573": 33,
+      "gas:candidate-vibid:2622000686220": 1,
+      "gas:candidate-vibid:2622000685437": 5,
+      "gas:candidate-vibid:2622000687415": 0,
+      "gas:candidate-vibid:2622000687427": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633363&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633363&type=464",
@@ -12551,15 +12551,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 5,
-      "Десинов Денис Анатольевич": 0,
-      "Епифанова Мария Александровна": 3,
-      "Кравченко Юрий Александрович": 9,
-      "Красов Андрей Леонидович": 60,
-      "Кусова Ирина Гасановна": 3,
-      "Ляблин Андрей Алексеевич": 1,
-      "Рогов Владимир Александрович": 2,
-      "Тумашев Андрей Рамильевич": 0
+      "gas:candidate-vibid:2622000687166": 5,
+      "gas:candidate-vibid:2622000686677": 0,
+      "gas:candidate-vibid:2622000687051": 3,
+      "gas:candidate-vibid:2622000660670": 9,
+      "gas:candidate-vibid:2622000686573": 60,
+      "gas:candidate-vibid:2622000686220": 3,
+      "gas:candidate-vibid:2622000685437": 1,
+      "gas:candidate-vibid:2622000687415": 2,
+      "gas:candidate-vibid:2622000687427": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633363&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633363&type=464",
@@ -12610,15 +12610,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 38,
-      "Десинов Денис Анатольевич": 17,
-      "Епифанова Мария Александровна": 30,
-      "Кравченко Юрий Александрович": 47,
-      "Красов Андрей Леонидович": 131,
-      "Кусова Ирина Гасановна": 5,
-      "Ляблин Андрей Алексеевич": 11,
-      "Рогов Владимир Александрович": 7,
-      "Тумашев Андрей Рамильевич": 3
+      "gas:candidate-vibid:2622000687166": 38,
+      "gas:candidate-vibid:2622000686677": 17,
+      "gas:candidate-vibid:2622000687051": 30,
+      "gas:candidate-vibid:2622000660670": 47,
+      "gas:candidate-vibid:2622000686573": 131,
+      "gas:candidate-vibid:2622000686220": 5,
+      "gas:candidate-vibid:2622000685437": 11,
+      "gas:candidate-vibid:2622000687415": 7,
+      "gas:candidate-vibid:2622000687427": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633363&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633363&type=464",
@@ -12669,15 +12669,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 48,
-      "Десинов Денис Анатольевич": 21,
-      "Епифанова Мария Александровна": 16,
-      "Кравченко Юрий Александрович": 48,
-      "Красов Андрей Леонидович": 118,
-      "Кусова Ирина Гасановна": 2,
-      "Ляблин Андрей Алексеевич": 14,
-      "Рогов Владимир Александрович": 10,
-      "Тумашев Андрей Рамильевич": 1
+      "gas:candidate-vibid:2622000687166": 48,
+      "gas:candidate-vibid:2622000686677": 21,
+      "gas:candidate-vibid:2622000687051": 16,
+      "gas:candidate-vibid:2622000660670": 48,
+      "gas:candidate-vibid:2622000686573": 118,
+      "gas:candidate-vibid:2622000686220": 2,
+      "gas:candidate-vibid:2622000685437": 14,
+      "gas:candidate-vibid:2622000687415": 10,
+      "gas:candidate-vibid:2622000687427": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633363&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633363&type=464",
@@ -12728,15 +12728,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 32,
-      "Десинов Денис Анатольевич": 8,
-      "Епифанова Мария Александровна": 7,
-      "Кравченко Юрий Александрович": 31,
-      "Красов Андрей Леонидович": 156,
-      "Кусова Ирина Гасановна": 2,
-      "Ляблин Андрей Алексеевич": 8,
-      "Рогов Владимир Александрович": 5,
-      "Тумашев Андрей Рамильевич": 2
+      "gas:candidate-vibid:2622000687166": 32,
+      "gas:candidate-vibid:2622000686677": 8,
+      "gas:candidate-vibid:2622000687051": 7,
+      "gas:candidate-vibid:2622000660670": 31,
+      "gas:candidate-vibid:2622000686573": 156,
+      "gas:candidate-vibid:2622000686220": 2,
+      "gas:candidate-vibid:2622000685437": 8,
+      "gas:candidate-vibid:2622000687415": 5,
+      "gas:candidate-vibid:2622000687427": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633363&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633363&type=464",
@@ -12787,15 +12787,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 22,
-      "Десинов Денис Анатольевич": 15,
-      "Епифанова Мария Александровна": 29,
-      "Кравченко Юрий Александрович": 30,
-      "Красов Андрей Леонидович": 162,
-      "Кусова Ирина Гасановна": 10,
-      "Ляблин Андрей Алексеевич": 3,
-      "Рогов Владимир Александрович": 2,
-      "Тумашев Андрей Рамильевич": 1
+      "gas:candidate-vibid:2622000687166": 22,
+      "gas:candidate-vibid:2622000686677": 15,
+      "gas:candidate-vibid:2622000687051": 29,
+      "gas:candidate-vibid:2622000660670": 30,
+      "gas:candidate-vibid:2622000686573": 162,
+      "gas:candidate-vibid:2622000686220": 10,
+      "gas:candidate-vibid:2622000685437": 3,
+      "gas:candidate-vibid:2622000687415": 2,
+      "gas:candidate-vibid:2622000687427": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633363&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633363&type=464",
@@ -12846,15 +12846,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 2,
-      "Десинов Денис Анатольевич": 10,
-      "Епифанова Мария Александровна": 4,
-      "Кравченко Юрий Александрович": 17,
-      "Красов Андрей Леонидович": 106,
-      "Кусова Ирина Гасановна": 4,
-      "Ляблин Андрей Алексеевич": 6,
-      "Рогов Владимир Александрович": 3,
-      "Тумашев Андрей Рамильевич": 2
+      "gas:candidate-vibid:2622000687166": 2,
+      "gas:candidate-vibid:2622000686677": 10,
+      "gas:candidate-vibid:2622000687051": 4,
+      "gas:candidate-vibid:2622000660670": 17,
+      "gas:candidate-vibid:2622000686573": 106,
+      "gas:candidate-vibid:2622000686220": 4,
+      "gas:candidate-vibid:2622000685437": 6,
+      "gas:candidate-vibid:2622000687415": 3,
+      "gas:candidate-vibid:2622000687427": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633363&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633363&type=464",
@@ -12905,15 +12905,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 13,
-      "Десинов Денис Анатольевич": 9,
-      "Епифанова Мария Александровна": 7,
-      "Кравченко Юрий Александрович": 10,
-      "Красов Андрей Леонидович": 44,
-      "Кусова Ирина Гасановна": 1,
-      "Ляблин Андрей Алексеевич": 0,
-      "Рогов Владимир Александрович": 1,
-      "Тумашев Андрей Рамильевич": 0
+      "gas:candidate-vibid:2622000687166": 13,
+      "gas:candidate-vibid:2622000686677": 9,
+      "gas:candidate-vibid:2622000687051": 7,
+      "gas:candidate-vibid:2622000660670": 10,
+      "gas:candidate-vibid:2622000686573": 44,
+      "gas:candidate-vibid:2622000686220": 1,
+      "gas:candidate-vibid:2622000685437": 0,
+      "gas:candidate-vibid:2622000687415": 1,
+      "gas:candidate-vibid:2622000687427": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633363&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633363&type=464",
@@ -12964,15 +12964,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 6,
-      "Десинов Денис Анатольевич": 5,
-      "Епифанова Мария Александровна": 8,
-      "Кравченко Юрий Александрович": 23,
-      "Красов Андрей Леонидович": 110,
-      "Кусова Ирина Гасановна": 1,
-      "Ляблин Андрей Алексеевич": 3,
-      "Рогов Владимир Александрович": 6,
-      "Тумашев Андрей Рамильевич": 1
+      "gas:candidate-vibid:2622000687166": 6,
+      "gas:candidate-vibid:2622000686677": 5,
+      "gas:candidate-vibid:2622000687051": 8,
+      "gas:candidate-vibid:2622000660670": 23,
+      "gas:candidate-vibid:2622000686573": 110,
+      "gas:candidate-vibid:2622000686220": 1,
+      "gas:candidate-vibid:2622000685437": 3,
+      "gas:candidate-vibid:2622000687415": 6,
+      "gas:candidate-vibid:2622000687427": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633363&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633363&type=464",
@@ -13023,15 +13023,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 23,
-      "Десинов Денис Анатольевич": 6,
-      "Епифанова Мария Александровна": 14,
-      "Кравченко Юрий Александрович": 25,
-      "Красов Андрей Леонидович": 58,
-      "Кусова Ирина Гасановна": 4,
-      "Ляблин Андрей Алексеевич": 9,
-      "Рогов Владимир Александрович": 4,
-      "Тумашев Андрей Рамильевич": 1
+      "gas:candidate-vibid:2622000687166": 23,
+      "gas:candidate-vibid:2622000686677": 6,
+      "gas:candidate-vibid:2622000687051": 14,
+      "gas:candidate-vibid:2622000660670": 25,
+      "gas:candidate-vibid:2622000686573": 58,
+      "gas:candidate-vibid:2622000686220": 4,
+      "gas:candidate-vibid:2622000685437": 9,
+      "gas:candidate-vibid:2622000687415": 4,
+      "gas:candidate-vibid:2622000687427": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633363&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633363&type=464",
@@ -13082,15 +13082,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 59,
-      "Десинов Денис Анатольевич": 16,
-      "Епифанова Мария Александровна": 28,
-      "Кравченко Юрий Александрович": 56,
-      "Красов Андрей Леонидович": 124,
-      "Кусова Ирина Гасановна": 4,
-      "Ляблин Андрей Алексеевич": 23,
-      "Рогов Владимир Александрович": 7,
-      "Тумашев Андрей Рамильевич": 3
+      "gas:candidate-vibid:2622000687166": 59,
+      "gas:candidate-vibid:2622000686677": 16,
+      "gas:candidate-vibid:2622000687051": 28,
+      "gas:candidate-vibid:2622000660670": 56,
+      "gas:candidate-vibid:2622000686573": 124,
+      "gas:candidate-vibid:2622000686220": 4,
+      "gas:candidate-vibid:2622000685437": 23,
+      "gas:candidate-vibid:2622000687415": 7,
+      "gas:candidate-vibid:2622000687427": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633363&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633363&type=464",
@@ -13141,15 +13141,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 21,
-      "Десинов Денис Анатольевич": 13,
-      "Епифанова Мария Александровна": 6,
-      "Кравченко Юрий Александрович": 36,
-      "Красов Андрей Леонидович": 115,
-      "Кусова Ирина Гасановна": 4,
-      "Ляблин Андрей Алексеевич": 8,
-      "Рогов Владимир Александрович": 5,
-      "Тумашев Андрей Рамильевич": 1
+      "gas:candidate-vibid:2622000687166": 21,
+      "gas:candidate-vibid:2622000686677": 13,
+      "gas:candidate-vibid:2622000687051": 6,
+      "gas:candidate-vibid:2622000660670": 36,
+      "gas:candidate-vibid:2622000686573": 115,
+      "gas:candidate-vibid:2622000686220": 4,
+      "gas:candidate-vibid:2622000685437": 8,
+      "gas:candidate-vibid:2622000687415": 5,
+      "gas:candidate-vibid:2622000687427": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633363&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633363&type=464",
@@ -13200,15 +13200,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 7,
-      "Десинов Денис Анатольевич": 6,
-      "Епифанова Мария Александровна": 3,
-      "Кравченко Юрий Александрович": 7,
-      "Красов Андрей Леонидович": 44,
-      "Кусова Ирина Гасановна": 1,
-      "Ляблин Андрей Алексеевич": 0,
-      "Рогов Владимир Александрович": 1,
-      "Тумашев Андрей Рамильевич": 0
+      "gas:candidate-vibid:2622000687166": 7,
+      "gas:candidate-vibid:2622000686677": 6,
+      "gas:candidate-vibid:2622000687051": 3,
+      "gas:candidate-vibid:2622000660670": 7,
+      "gas:candidate-vibid:2622000686573": 44,
+      "gas:candidate-vibid:2622000686220": 1,
+      "gas:candidate-vibid:2622000685437": 0,
+      "gas:candidate-vibid:2622000687415": 1,
+      "gas:candidate-vibid:2622000687427": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633363&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633363&type=464",
@@ -13259,15 +13259,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 11,
-      "Десинов Денис Анатольевич": 7,
-      "Епифанова Мария Александровна": 13,
-      "Кравченко Юрий Александрович": 12,
-      "Красов Андрей Леонидович": 111,
-      "Кусова Ирина Гасановна": 4,
-      "Ляблин Андрей Алексеевич": 3,
-      "Рогов Владимир Александрович": 0,
-      "Тумашев Андрей Рамильевич": 1
+      "gas:candidate-vibid:2622000687166": 11,
+      "gas:candidate-vibid:2622000686677": 7,
+      "gas:candidate-vibid:2622000687051": 13,
+      "gas:candidate-vibid:2622000660670": 12,
+      "gas:candidate-vibid:2622000686573": 111,
+      "gas:candidate-vibid:2622000686220": 4,
+      "gas:candidate-vibid:2622000685437": 3,
+      "gas:candidate-vibid:2622000687415": 0,
+      "gas:candidate-vibid:2622000687427": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633363&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633363&type=464",
@@ -13318,15 +13318,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 96,
-      "Десинов Денис Анатольевич": 21,
-      "Епифанова Мария Александровна": 72,
-      "Кравченко Юрий Александрович": 38,
-      "Красов Андрей Леонидович": 143,
-      "Кусова Ирина Гасановна": 5,
-      "Ляблин Андрей Алексеевич": 3,
-      "Рогов Владимир Александрович": 4,
-      "Тумашев Андрей Рамильевич": 6
+      "gas:candidate-vibid:2622000687166": 96,
+      "gas:candidate-vibid:2622000686677": 21,
+      "gas:candidate-vibid:2622000687051": 72,
+      "gas:candidate-vibid:2622000660670": 38,
+      "gas:candidate-vibid:2622000686573": 143,
+      "gas:candidate-vibid:2622000686220": 5,
+      "gas:candidate-vibid:2622000685437": 3,
+      "gas:candidate-vibid:2622000687415": 4,
+      "gas:candidate-vibid:2622000687427": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633363&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633363&type=464",
@@ -13377,15 +13377,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 52,
-      "Десинов Денис Анатольевич": 18,
-      "Епифанова Мария Александровна": 62,
-      "Кравченко Юрий Александрович": 32,
-      "Красов Андрей Леонидович": 137,
-      "Кусова Ирина Гасановна": 7,
-      "Ляблин Андрей Алексеевич": 3,
-      "Рогов Владимир Александрович": 1,
-      "Тумашев Андрей Рамильевич": 2
+      "gas:candidate-vibid:2622000687166": 52,
+      "gas:candidate-vibid:2622000686677": 18,
+      "gas:candidate-vibid:2622000687051": 62,
+      "gas:candidate-vibid:2622000660670": 32,
+      "gas:candidate-vibid:2622000686573": 137,
+      "gas:candidate-vibid:2622000686220": 7,
+      "gas:candidate-vibid:2622000685437": 3,
+      "gas:candidate-vibid:2622000687415": 1,
+      "gas:candidate-vibid:2622000687427": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633363&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633363&type=464",
@@ -13436,15 +13436,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 13,
-      "Десинов Денис Анатольевич": 4,
-      "Епифанова Мария Александровна": 9,
-      "Кравченко Юрий Александрович": 4,
-      "Красов Андрей Леонидович": 19,
-      "Кусова Ирина Гасановна": 2,
-      "Ляблин Андрей Алексеевич": 3,
-      "Рогов Владимир Александрович": 0,
-      "Тумашев Андрей Рамильевич": 0
+      "gas:candidate-vibid:2622000687166": 13,
+      "gas:candidate-vibid:2622000686677": 4,
+      "gas:candidate-vibid:2622000687051": 9,
+      "gas:candidate-vibid:2622000660670": 4,
+      "gas:candidate-vibid:2622000686573": 19,
+      "gas:candidate-vibid:2622000686220": 2,
+      "gas:candidate-vibid:2622000685437": 3,
+      "gas:candidate-vibid:2622000687415": 0,
+      "gas:candidate-vibid:2622000687427": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633363&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633363&type=464",
@@ -13495,15 +13495,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 108,
-      "Десинов Денис Анатольевич": 43,
-      "Епифанова Мария Александровна": 50,
-      "Кравченко Юрий Александрович": 114,
-      "Красов Андрей Леонидович": 368,
-      "Кусова Ирина Гасановна": 12,
-      "Ляблин Андрей Алексеевич": 27,
-      "Рогов Владимир Александрович": 25,
-      "Тумашев Андрей Рамильевич": 9
+      "gas:candidate-vibid:2622000687166": 108,
+      "gas:candidate-vibid:2622000686677": 43,
+      "gas:candidate-vibid:2622000687051": 50,
+      "gas:candidate-vibid:2622000660670": 114,
+      "gas:candidate-vibid:2622000686573": 368,
+      "gas:candidate-vibid:2622000686220": 12,
+      "gas:candidate-vibid:2622000685437": 27,
+      "gas:candidate-vibid:2622000687415": 25,
+      "gas:candidate-vibid:2622000687427": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633363&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633363&type=464",
@@ -13554,15 +13554,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 61,
-      "Десинов Денис Анатольевич": 34,
-      "Епифанова Мария Александровна": 22,
-      "Кравченко Юрий Александрович": 62,
-      "Красов Андрей Леонидович": 141,
-      "Кусова Ирина Гасановна": 7,
-      "Ляблин Андрей Алексеевич": 16,
-      "Рогов Владимир Александрович": 7,
-      "Тумашев Андрей Рамильевич": 10
+      "gas:candidate-vibid:2622000687166": 61,
+      "gas:candidate-vibid:2622000686677": 34,
+      "gas:candidate-vibid:2622000687051": 22,
+      "gas:candidate-vibid:2622000660670": 62,
+      "gas:candidate-vibid:2622000686573": 141,
+      "gas:candidate-vibid:2622000686220": 7,
+      "gas:candidate-vibid:2622000685437": 16,
+      "gas:candidate-vibid:2622000687415": 7,
+      "gas:candidate-vibid:2622000687427": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633363&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633363&type=464",
@@ -13613,15 +13613,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 1,
-      "Десинов Денис Анатольевич": 4,
-      "Епифанова Мария Александровна": 0,
-      "Кравченко Юрий Александрович": 8,
-      "Красов Андрей Леонидович": 56,
-      "Кусова Ирина Гасановна": 0,
-      "Ляблин Андрей Алексеевич": 2,
-      "Рогов Владимир Александрович": 0,
-      "Тумашев Андрей Рамильевич": 0
+      "gas:candidate-vibid:2622000687166": 1,
+      "gas:candidate-vibid:2622000686677": 4,
+      "gas:candidate-vibid:2622000687051": 0,
+      "gas:candidate-vibid:2622000660670": 8,
+      "gas:candidate-vibid:2622000686573": 56,
+      "gas:candidate-vibid:2622000686220": 0,
+      "gas:candidate-vibid:2622000685437": 2,
+      "gas:candidate-vibid:2622000687415": 0,
+      "gas:candidate-vibid:2622000687427": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633363&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633363&type=464",
@@ -13672,15 +13672,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 59,
-      "Десинов Денис Анатольевич": 32,
-      "Епифанова Мария Александровна": 36,
-      "Кравченко Юрий Александрович": 78,
-      "Красов Андрей Леонидович": 207,
-      "Кусова Ирина Гасановна": 9,
-      "Ляблин Андрей Алексеевич": 21,
-      "Рогов Владимир Александрович": 10,
-      "Тумашев Андрей Рамильевич": 4
+      "gas:candidate-vibid:2622000687166": 59,
+      "gas:candidate-vibid:2622000686677": 32,
+      "gas:candidate-vibid:2622000687051": 36,
+      "gas:candidate-vibid:2622000660670": 78,
+      "gas:candidate-vibid:2622000686573": 207,
+      "gas:candidate-vibid:2622000686220": 9,
+      "gas:candidate-vibid:2622000685437": 21,
+      "gas:candidate-vibid:2622000687415": 10,
+      "gas:candidate-vibid:2622000687427": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633363&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633363&type=464",
@@ -13731,15 +13731,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 108,
-      "Десинов Денис Анатольевич": 42,
-      "Епифанова Мария Александровна": 36,
-      "Кравченко Юрий Александрович": 72,
-      "Красов Андрей Леонидович": 448,
-      "Кусова Ирина Гасановна": 9,
-      "Ляблин Андрей Алексеевич": 22,
-      "Рогов Владимир Александрович": 10,
-      "Тумашев Андрей Рамильевич": 4
+      "gas:candidate-vibid:2622000687166": 108,
+      "gas:candidate-vibid:2622000686677": 42,
+      "gas:candidate-vibid:2622000687051": 36,
+      "gas:candidate-vibid:2622000660670": 72,
+      "gas:candidate-vibid:2622000686573": 448,
+      "gas:candidate-vibid:2622000686220": 9,
+      "gas:candidate-vibid:2622000685437": 22,
+      "gas:candidate-vibid:2622000687415": 10,
+      "gas:candidate-vibid:2622000687427": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633363&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633363&type=464",
@@ -13790,15 +13790,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 55,
-      "Десинов Денис Анатольевич": 11,
-      "Епифанова Мария Александровна": 3,
-      "Кравченко Юрий Александрович": 21,
-      "Красов Андрей Леонидович": 85,
-      "Кусова Ирина Гасановна": 6,
-      "Ляблин Андрей Алексеевич": 10,
-      "Рогов Владимир Александрович": 14,
-      "Тумашев Андрей Рамильевич": 2
+      "gas:candidate-vibid:2622000687166": 55,
+      "gas:candidate-vibid:2622000686677": 11,
+      "gas:candidate-vibid:2622000687051": 3,
+      "gas:candidate-vibid:2622000660670": 21,
+      "gas:candidate-vibid:2622000686573": 85,
+      "gas:candidate-vibid:2622000686220": 6,
+      "gas:candidate-vibid:2622000685437": 10,
+      "gas:candidate-vibid:2622000687415": 14,
+      "gas:candidate-vibid:2622000687427": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633364&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633364&type=464",
@@ -13849,15 +13849,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 17,
-      "Десинов Денис Анатольевич": 5,
-      "Епифанова Мария Александровна": 3,
-      "Кравченко Юрий Александрович": 9,
-      "Красов Андрей Леонидович": 33,
-      "Кусова Ирина Гасановна": 2,
-      "Ляблин Андрей Алексеевич": 3,
-      "Рогов Владимир Александрович": 3,
-      "Тумашев Андрей Рамильевич": 0
+      "gas:candidate-vibid:2622000687166": 17,
+      "gas:candidate-vibid:2622000686677": 5,
+      "gas:candidate-vibid:2622000687051": 3,
+      "gas:candidate-vibid:2622000660670": 9,
+      "gas:candidate-vibid:2622000686573": 33,
+      "gas:candidate-vibid:2622000686220": 2,
+      "gas:candidate-vibid:2622000685437": 3,
+      "gas:candidate-vibid:2622000687415": 3,
+      "gas:candidate-vibid:2622000687427": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633364&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633364&type=464",
@@ -13908,15 +13908,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 11,
-      "Десинов Денис Анатольевич": 6,
-      "Епифанова Мария Александровна": 2,
-      "Кравченко Юрий Александрович": 16,
-      "Красов Андрей Леонидович": 43,
-      "Кусова Ирина Гасановна": 3,
-      "Ляблин Андрей Алексеевич": 1,
-      "Рогов Владимир Александрович": 0,
-      "Тумашев Андрей Рамильевич": 1
+      "gas:candidate-vibid:2622000687166": 11,
+      "gas:candidate-vibid:2622000686677": 6,
+      "gas:candidate-vibid:2622000687051": 2,
+      "gas:candidate-vibid:2622000660670": 16,
+      "gas:candidate-vibid:2622000686573": 43,
+      "gas:candidate-vibid:2622000686220": 3,
+      "gas:candidate-vibid:2622000685437": 1,
+      "gas:candidate-vibid:2622000687415": 0,
+      "gas:candidate-vibid:2622000687427": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633364&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633364&type=464",
@@ -13967,15 +13967,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 24,
-      "Десинов Денис Анатольевич": 1,
-      "Епифанова Мария Александровна": 1,
-      "Кравченко Юрий Александрович": 5,
-      "Красов Андрей Леонидович": 91,
-      "Кусова Ирина Гасановна": 0,
-      "Ляблин Андрей Алексеевич": 0,
-      "Рогов Владимир Александрович": 0,
-      "Тумашев Андрей Рамильевич": 0
+      "gas:candidate-vibid:2622000687166": 24,
+      "gas:candidate-vibid:2622000686677": 1,
+      "gas:candidate-vibid:2622000687051": 1,
+      "gas:candidate-vibid:2622000660670": 5,
+      "gas:candidate-vibid:2622000686573": 91,
+      "gas:candidate-vibid:2622000686220": 0,
+      "gas:candidate-vibid:2622000685437": 0,
+      "gas:candidate-vibid:2622000687415": 0,
+      "gas:candidate-vibid:2622000687427": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633364&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633364&type=464",
@@ -14026,15 +14026,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 30,
-      "Десинов Денис Анатольевич": 10,
-      "Епифанова Мария Александровна": 1,
-      "Кравченко Юрий Александрович": 20,
-      "Красов Андрей Леонидович": 62,
-      "Кусова Ирина Гасановна": 3,
-      "Ляблин Андрей Алексеевич": 3,
-      "Рогов Владимир Александрович": 1,
-      "Тумашев Андрей Рамильевич": 1
+      "gas:candidate-vibid:2622000687166": 30,
+      "gas:candidate-vibid:2622000686677": 10,
+      "gas:candidate-vibid:2622000687051": 1,
+      "gas:candidate-vibid:2622000660670": 20,
+      "gas:candidate-vibid:2622000686573": 62,
+      "gas:candidate-vibid:2622000686220": 3,
+      "gas:candidate-vibid:2622000685437": 3,
+      "gas:candidate-vibid:2622000687415": 1,
+      "gas:candidate-vibid:2622000687427": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633364&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633364&type=464",
@@ -14085,15 +14085,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 11,
-      "Десинов Денис Анатольевич": 6,
-      "Епифанова Мария Александровна": 1,
-      "Кравченко Юрий Александрович": 3,
-      "Красов Андрей Леонидович": 19,
-      "Кусова Ирина Гасановна": 3,
-      "Ляблин Андрей Алексеевич": 2,
-      "Рогов Владимир Александрович": 0,
-      "Тумашев Андрей Рамильевич": 1
+      "gas:candidate-vibid:2622000687166": 11,
+      "gas:candidate-vibid:2622000686677": 6,
+      "gas:candidate-vibid:2622000687051": 1,
+      "gas:candidate-vibid:2622000660670": 3,
+      "gas:candidate-vibid:2622000686573": 19,
+      "gas:candidate-vibid:2622000686220": 3,
+      "gas:candidate-vibid:2622000685437": 2,
+      "gas:candidate-vibid:2622000687415": 0,
+      "gas:candidate-vibid:2622000687427": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633364&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633364&type=464",
@@ -14144,15 +14144,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 29,
-      "Десинов Денис Анатольевич": 3,
-      "Епифанова Мария Александровна": 2,
-      "Кравченко Юрий Александрович": 10,
-      "Красов Андрей Леонидович": 58,
-      "Кусова Ирина Гасановна": 8,
-      "Ляблин Андрей Алексеевич": 2,
-      "Рогов Владимир Александрович": 0,
-      "Тумашев Андрей Рамильевич": 3
+      "gas:candidate-vibid:2622000687166": 29,
+      "gas:candidate-vibid:2622000686677": 3,
+      "gas:candidate-vibid:2622000687051": 2,
+      "gas:candidate-vibid:2622000660670": 10,
+      "gas:candidate-vibid:2622000686573": 58,
+      "gas:candidate-vibid:2622000686220": 8,
+      "gas:candidate-vibid:2622000685437": 2,
+      "gas:candidate-vibid:2622000687415": 0,
+      "gas:candidate-vibid:2622000687427": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633364&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633364&type=464",
@@ -14203,15 +14203,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 14,
-      "Десинов Денис Анатольевич": 4,
-      "Епифанова Мария Александровна": 3,
-      "Кравченко Юрий Александрович": 11,
-      "Красов Андрей Леонидович": 47,
-      "Кусова Ирина Гасановна": 2,
-      "Ляблин Андрей Алексеевич": 2,
-      "Рогов Владимир Александрович": 5,
-      "Тумашев Андрей Рамильевич": 0
+      "gas:candidate-vibid:2622000687166": 14,
+      "gas:candidate-vibid:2622000686677": 4,
+      "gas:candidate-vibid:2622000687051": 3,
+      "gas:candidate-vibid:2622000660670": 11,
+      "gas:candidate-vibid:2622000686573": 47,
+      "gas:candidate-vibid:2622000686220": 2,
+      "gas:candidate-vibid:2622000685437": 2,
+      "gas:candidate-vibid:2622000687415": 5,
+      "gas:candidate-vibid:2622000687427": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633364&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633364&type=464",
@@ -14262,15 +14262,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 20,
-      "Десинов Денис Анатольевич": 9,
-      "Епифанова Мария Александровна": 6,
-      "Кравченко Юрий Александрович": 21,
-      "Красов Андрей Леонидович": 91,
-      "Кусова Ирина Гасановна": 3,
-      "Ляблин Андрей Алексеевич": 3,
-      "Рогов Владимир Александрович": 0,
-      "Тумашев Андрей Рамильевич": 3
+      "gas:candidate-vibid:2622000687166": 20,
+      "gas:candidate-vibid:2622000686677": 9,
+      "gas:candidate-vibid:2622000687051": 6,
+      "gas:candidate-vibid:2622000660670": 21,
+      "gas:candidate-vibid:2622000686573": 91,
+      "gas:candidate-vibid:2622000686220": 3,
+      "gas:candidate-vibid:2622000685437": 3,
+      "gas:candidate-vibid:2622000687415": 0,
+      "gas:candidate-vibid:2622000687427": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633364&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633364&type=464",
@@ -14321,15 +14321,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 74,
-      "Десинов Денис Анатольевич": 3,
-      "Епифанова Мария Александровна": 1,
-      "Кравченко Юрий Александрович": 6,
-      "Красов Андрей Леонидович": 33,
-      "Кусова Ирина Гасановна": 3,
-      "Ляблин Андрей Алексеевич": 2,
-      "Рогов Владимир Александрович": 1,
-      "Тумашев Андрей Рамильевич": 2
+      "gas:candidate-vibid:2622000687166": 74,
+      "gas:candidate-vibid:2622000686677": 3,
+      "gas:candidate-vibid:2622000687051": 1,
+      "gas:candidate-vibid:2622000660670": 6,
+      "gas:candidate-vibid:2622000686573": 33,
+      "gas:candidate-vibid:2622000686220": 3,
+      "gas:candidate-vibid:2622000685437": 2,
+      "gas:candidate-vibid:2622000687415": 1,
+      "gas:candidate-vibid:2622000687427": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633364&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633364&type=464",
@@ -14380,15 +14380,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 10,
-      "Десинов Денис Анатольевич": 5,
-      "Епифанова Мария Александровна": 2,
-      "Кравченко Юрий Александрович": 7,
-      "Красов Андрей Леонидович": 31,
-      "Кусова Ирина Гасановна": 0,
-      "Ляблин Андрей Алексеевич": 2,
-      "Рогов Владимир Александрович": 0,
-      "Тумашев Андрей Рамильевич": 0
+      "gas:candidate-vibid:2622000687166": 10,
+      "gas:candidate-vibid:2622000686677": 5,
+      "gas:candidate-vibid:2622000687051": 2,
+      "gas:candidate-vibid:2622000660670": 7,
+      "gas:candidate-vibid:2622000686573": 31,
+      "gas:candidate-vibid:2622000686220": 0,
+      "gas:candidate-vibid:2622000685437": 2,
+      "gas:candidate-vibid:2622000687415": 0,
+      "gas:candidate-vibid:2622000687427": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633364&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633364&type=464",
@@ -14439,15 +14439,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 14,
-      "Десинов Денис Анатольевич": 2,
-      "Епифанова Мария Александровна": 1,
-      "Кравченко Юрий Александрович": 7,
-      "Красов Андрей Леонидович": 16,
-      "Кусова Ирина Гасановна": 1,
-      "Ляблин Андрей Алексеевич": 1,
-      "Рогов Владимир Александрович": 0,
-      "Тумашев Андрей Рамильевич": 1
+      "gas:candidate-vibid:2622000687166": 14,
+      "gas:candidate-vibid:2622000686677": 2,
+      "gas:candidate-vibid:2622000687051": 1,
+      "gas:candidate-vibid:2622000660670": 7,
+      "gas:candidate-vibid:2622000686573": 16,
+      "gas:candidate-vibid:2622000686220": 1,
+      "gas:candidate-vibid:2622000685437": 1,
+      "gas:candidate-vibid:2622000687415": 0,
+      "gas:candidate-vibid:2622000687427": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633364&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633364&type=464",
@@ -14498,15 +14498,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 17,
-      "Десинов Денис Анатольевич": 4,
-      "Епифанова Мария Александровна": 2,
-      "Кравченко Юрий Александрович": 12,
-      "Красов Андрей Леонидович": 35,
-      "Кусова Ирина Гасановна": 6,
-      "Ляблин Андрей Алексеевич": 3,
-      "Рогов Владимир Александрович": 2,
-      "Тумашев Андрей Рамильевич": 2
+      "gas:candidate-vibid:2622000687166": 17,
+      "gas:candidate-vibid:2622000686677": 4,
+      "gas:candidate-vibid:2622000687051": 2,
+      "gas:candidate-vibid:2622000660670": 12,
+      "gas:candidate-vibid:2622000686573": 35,
+      "gas:candidate-vibid:2622000686220": 6,
+      "gas:candidate-vibid:2622000685437": 3,
+      "gas:candidate-vibid:2622000687415": 2,
+      "gas:candidate-vibid:2622000687427": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633364&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633364&type=464",
@@ -14557,15 +14557,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 78,
-      "Десинов Денис Анатольевич": 27,
-      "Епифанова Мария Александровна": 6,
-      "Кравченко Юрий Александрович": 62,
-      "Красов Андрей Леонидович": 175,
-      "Кусова Ирина Гасановна": 7,
-      "Ляблин Андрей Алексеевич": 10,
-      "Рогов Владимир Александрович": 7,
-      "Тумашев Андрей Рамильевич": 3
+      "gas:candidate-vibid:2622000687166": 78,
+      "gas:candidate-vibid:2622000686677": 27,
+      "gas:candidate-vibid:2622000687051": 6,
+      "gas:candidate-vibid:2622000660670": 62,
+      "gas:candidate-vibid:2622000686573": 175,
+      "gas:candidate-vibid:2622000686220": 7,
+      "gas:candidate-vibid:2622000685437": 10,
+      "gas:candidate-vibid:2622000687415": 7,
+      "gas:candidate-vibid:2622000687427": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633364&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633364&type=464",
@@ -14616,15 +14616,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 99,
-      "Десинов Денис Анатольевич": 19,
-      "Епифанова Мария Александровна": 4,
-      "Кравченко Юрий Александрович": 48,
-      "Красов Андрей Леонидович": 161,
-      "Кусова Ирина Гасановна": 9,
-      "Ляблин Андрей Алексеевич": 20,
-      "Рогов Владимир Александрович": 9,
-      "Тумашев Андрей Рамильевич": 2
+      "gas:candidate-vibid:2622000687166": 99,
+      "gas:candidate-vibid:2622000686677": 19,
+      "gas:candidate-vibid:2622000687051": 4,
+      "gas:candidate-vibid:2622000660670": 48,
+      "gas:candidate-vibid:2622000686573": 161,
+      "gas:candidate-vibid:2622000686220": 9,
+      "gas:candidate-vibid:2622000685437": 20,
+      "gas:candidate-vibid:2622000687415": 9,
+      "gas:candidate-vibid:2622000687427": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633364&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633364&type=464",
@@ -14675,15 +14675,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 53,
-      "Десинов Денис Анатольевич": 12,
-      "Епифанова Мария Александровна": 4,
-      "Кравченко Юрий Александрович": 54,
-      "Красов Андрей Леонидович": 260,
-      "Кусова Ирина Гасановна": 4,
-      "Ляблин Андрей Алексеевич": 12,
-      "Рогов Владимир Александрович": 7,
-      "Тумашев Андрей Рамильевич": 3
+      "gas:candidate-vibid:2622000687166": 53,
+      "gas:candidate-vibid:2622000686677": 12,
+      "gas:candidate-vibid:2622000687051": 4,
+      "gas:candidate-vibid:2622000660670": 54,
+      "gas:candidate-vibid:2622000686573": 260,
+      "gas:candidate-vibid:2622000686220": 4,
+      "gas:candidate-vibid:2622000685437": 12,
+      "gas:candidate-vibid:2622000687415": 7,
+      "gas:candidate-vibid:2622000687427": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633364&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633364&type=464",
@@ -14734,15 +14734,15 @@ export const duma_2016_uik_463_region_62_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гнускина Галина Николаевна": 25,
-      "Десинов Денис Анатольевич": 7,
-      "Епифанова Мария Александровна": 8,
-      "Кравченко Юрий Александрович": 28,
-      "Красов Андрей Леонидович": 194,
-      "Кусова Ирина Гасановна": 3,
-      "Ляблин Андрей Алексеевич": 15,
-      "Рогов Владимир Александрович": 1,
-      "Тумашев Андрей Рамильевич": 3
+      "gas:candidate-vibid:2622000687166": 25,
+      "gas:candidate-vibid:2622000686677": 7,
+      "gas:candidate-vibid:2622000687051": 8,
+      "gas:candidate-vibid:2622000660670": 28,
+      "gas:candidate-vibid:2622000686573": 194,
+      "gas:candidate-vibid:2622000686220": 3,
+      "gas:candidate-vibid:2622000685437": 15,
+      "gas:candidate-vibid:2622000687415": 1,
+      "gas:candidate-vibid:2622000687427": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ryazan?action=show&root=1000206&tvd=2622000633364&vrn=100100067795849&region=62&global=&sub_region=62&prver=0&pronetvd=null&vibid=2622000633364&type=464",

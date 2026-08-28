@@ -42,14 +42,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 214,
-      "Егорова Любовь Ивановна": 35,
-      "Иванова Валентина Николаевна": 319,
-      "Лихачев Дмитрий Юрьевич": 42,
-      "Онищенко Игорь Николаевич": 27,
-      "Савельев Игорь Витальевич": 48,
-      "Федоров Владимир Игоревич": 88,
-      "Против всех": 110
+      "gas:candidate-vibid:1001000112283": 214,
+      "gas:candidate-vibid:1001000195177": 35,
+      "gas:candidate-vibid:1001000226018": 319,
+      "gas:candidate-vibid:1001000190464": 42,
+      "gas:candidate-vibid:1001000121293": 27,
+      "gas:candidate-vibid:1001000136162": 48,
+      "gas:candidate-vibid:1001000121946": 88,
+      "special:against-all": 110
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370412&region=0&sub_region=0&type=429",
@@ -99,14 +99,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 296,
-      "Егорова Любовь Ивановна": 48,
-      "Иванова Валентина Николаевна": 260,
-      "Лихачев Дмитрий Юрьевич": 62,
-      "Онищенко Игорь Николаевич": 35,
-      "Савельев Игорь Витальевич": 27,
-      "Федоров Владимир Игоревич": 85,
-      "Против всех": 126
+      "gas:candidate-vibid:1001000112283": 296,
+      "gas:candidate-vibid:1001000195177": 48,
+      "gas:candidate-vibid:1001000226018": 260,
+      "gas:candidate-vibid:1001000190464": 62,
+      "gas:candidate-vibid:1001000121293": 35,
+      "gas:candidate-vibid:1001000136162": 27,
+      "gas:candidate-vibid:1001000121946": 85,
+      "special:against-all": 126
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370412&region=0&sub_region=0&type=429",
@@ -156,14 +156,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 256,
-      "Егорова Любовь Ивановна": 30,
-      "Иванова Валентина Николаевна": 264,
-      "Лихачев Дмитрий Юрьевич": 70,
-      "Онищенко Игорь Николаевич": 19,
-      "Савельев Игорь Витальевич": 36,
-      "Федоров Владимир Игоревич": 93,
-      "Против всех": 109
+      "gas:candidate-vibid:1001000112283": 256,
+      "gas:candidate-vibid:1001000195177": 30,
+      "gas:candidate-vibid:1001000226018": 264,
+      "gas:candidate-vibid:1001000190464": 70,
+      "gas:candidate-vibid:1001000121293": 19,
+      "gas:candidate-vibid:1001000136162": 36,
+      "gas:candidate-vibid:1001000121946": 93,
+      "special:against-all": 109
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370412&region=0&sub_region=0&type=429",
@@ -213,14 +213,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 271,
-      "Егорова Любовь Ивановна": 45,
-      "Иванова Валентина Николаевна": 359,
-      "Лихачев Дмитрий Юрьевич": 36,
-      "Онищенко Игорь Николаевич": 25,
-      "Савельев Игорь Витальевич": 42,
-      "Федоров Владимир Игоревич": 81,
-      "Против всех": 105
+      "gas:candidate-vibid:1001000112283": 271,
+      "gas:candidate-vibid:1001000195177": 45,
+      "gas:candidate-vibid:1001000226018": 359,
+      "gas:candidate-vibid:1001000190464": 36,
+      "gas:candidate-vibid:1001000121293": 25,
+      "gas:candidate-vibid:1001000136162": 42,
+      "gas:candidate-vibid:1001000121946": 81,
+      "special:against-all": 105
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370412&region=0&sub_region=0&type=429",
@@ -270,14 +270,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 347,
-      "Егорова Любовь Ивановна": 57,
-      "Иванова Валентина Николаевна": 338,
-      "Лихачев Дмитрий Юрьевич": 54,
-      "Онищенко Игорь Николаевич": 25,
-      "Савельев Игорь Витальевич": 41,
-      "Федоров Владимир Игоревич": 67,
-      "Против всех": 128
+      "gas:candidate-vibid:1001000112283": 347,
+      "gas:candidate-vibid:1001000195177": 57,
+      "gas:candidate-vibid:1001000226018": 338,
+      "gas:candidate-vibid:1001000190464": 54,
+      "gas:candidate-vibid:1001000121293": 25,
+      "gas:candidate-vibid:1001000136162": 41,
+      "gas:candidate-vibid:1001000121946": 67,
+      "special:against-all": 128
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370412&region=0&sub_region=0&type=429",
@@ -327,14 +327,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 380,
-      "Егорова Любовь Ивановна": 62,
-      "Иванова Валентина Николаевна": 342,
-      "Лихачев Дмитрий Юрьевич": 71,
-      "Онищенко Игорь Николаевич": 32,
-      "Савельев Игорь Витальевич": 53,
-      "Федоров Владимир Игоревич": 95,
-      "Против всех": 135
+      "gas:candidate-vibid:1001000112283": 380,
+      "gas:candidate-vibid:1001000195177": 62,
+      "gas:candidate-vibid:1001000226018": 342,
+      "gas:candidate-vibid:1001000190464": 71,
+      "gas:candidate-vibid:1001000121293": 32,
+      "gas:candidate-vibid:1001000136162": 53,
+      "gas:candidate-vibid:1001000121946": 95,
+      "special:against-all": 135
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370412&region=0&sub_region=0&type=429",
@@ -384,14 +384,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 315,
-      "Егорова Любовь Ивановна": 49,
-      "Иванова Валентина Николаевна": 453,
-      "Лихачев Дмитрий Юрьевич": 84,
-      "Онищенко Игорь Николаевич": 43,
-      "Савельев Игорь Витальевич": 64,
-      "Федоров Владимир Игоревич": 124,
-      "Против всех": 139
+      "gas:candidate-vibid:1001000112283": 315,
+      "gas:candidate-vibid:1001000195177": 49,
+      "gas:candidate-vibid:1001000226018": 453,
+      "gas:candidate-vibid:1001000190464": 84,
+      "gas:candidate-vibid:1001000121293": 43,
+      "gas:candidate-vibid:1001000136162": 64,
+      "gas:candidate-vibid:1001000121946": 124,
+      "special:against-all": 139
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370412&region=0&sub_region=0&type=429",
@@ -441,14 +441,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 267,
-      "Егорова Любовь Ивановна": 43,
-      "Иванова Валентина Николаевна": 359,
-      "Лихачев Дмитрий Юрьевич": 53,
-      "Онищенко Игорь Николаевич": 19,
-      "Савельев Игорь Витальевич": 41,
-      "Федоров Владимир Игоревич": 79,
-      "Против всех": 91
+      "gas:candidate-vibid:1001000112283": 267,
+      "gas:candidate-vibid:1001000195177": 43,
+      "gas:candidate-vibid:1001000226018": 359,
+      "gas:candidate-vibid:1001000190464": 53,
+      "gas:candidate-vibid:1001000121293": 19,
+      "gas:candidate-vibid:1001000136162": 41,
+      "gas:candidate-vibid:1001000121946": 79,
+      "special:against-all": 91
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370412&region=0&sub_region=0&type=429",
@@ -498,14 +498,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 223,
-      "Егорова Любовь Ивановна": 61,
-      "Иванова Валентина Николаевна": 358,
-      "Лихачев Дмитрий Юрьевич": 54,
-      "Онищенко Игорь Николаевич": 25,
-      "Савельев Игорь Витальевич": 45,
-      "Федоров Владимир Игоревич": 96,
-      "Против всех": 107
+      "gas:candidate-vibid:1001000112283": 223,
+      "gas:candidate-vibid:1001000195177": 61,
+      "gas:candidate-vibid:1001000226018": 358,
+      "gas:candidate-vibid:1001000190464": 54,
+      "gas:candidate-vibid:1001000121293": 25,
+      "gas:candidate-vibid:1001000136162": 45,
+      "gas:candidate-vibid:1001000121946": 96,
+      "special:against-all": 107
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370412&region=0&sub_region=0&type=429",
@@ -555,14 +555,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 308,
-      "Егорова Любовь Ивановна": 56,
-      "Иванова Валентина Николаевна": 376,
-      "Лихачев Дмитрий Юрьевич": 66,
-      "Онищенко Игорь Николаевич": 39,
-      "Савельев Игорь Витальевич": 70,
-      "Федоров Владимир Игоревич": 95,
-      "Против всех": 143
+      "gas:candidate-vibid:1001000112283": 308,
+      "gas:candidate-vibid:1001000195177": 56,
+      "gas:candidate-vibid:1001000226018": 376,
+      "gas:candidate-vibid:1001000190464": 66,
+      "gas:candidate-vibid:1001000121293": 39,
+      "gas:candidate-vibid:1001000136162": 70,
+      "gas:candidate-vibid:1001000121946": 95,
+      "special:against-all": 143
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370412&region=0&sub_region=0&type=429",
@@ -612,14 +612,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 197,
-      "Егорова Любовь Ивановна": 56,
-      "Иванова Валентина Николаевна": 390,
-      "Лихачев Дмитрий Юрьевич": 62,
-      "Онищенко Игорь Николаевич": 29,
-      "Савельев Игорь Витальевич": 63,
-      "Федоров Владимир Игоревич": 82,
-      "Против всех": 138
+      "gas:candidate-vibid:1001000112283": 197,
+      "gas:candidate-vibid:1001000195177": 56,
+      "gas:candidate-vibid:1001000226018": 390,
+      "gas:candidate-vibid:1001000190464": 62,
+      "gas:candidate-vibid:1001000121293": 29,
+      "gas:candidate-vibid:1001000136162": 63,
+      "gas:candidate-vibid:1001000121946": 82,
+      "special:against-all": 138
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370412&region=0&sub_region=0&type=429",
@@ -669,14 +669,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 277,
-      "Егорова Любовь Ивановна": 32,
-      "Иванова Валентина Николаевна": 279,
-      "Лихачев Дмитрий Юрьевич": 45,
-      "Онищенко Игорь Николаевич": 22,
-      "Савельев Игорь Витальевич": 44,
-      "Федоров Владимир Игоревич": 82,
-      "Против всех": 115
+      "gas:candidate-vibid:1001000112283": 277,
+      "gas:candidate-vibid:1001000195177": 32,
+      "gas:candidate-vibid:1001000226018": 279,
+      "gas:candidate-vibid:1001000190464": 45,
+      "gas:candidate-vibid:1001000121293": 22,
+      "gas:candidate-vibid:1001000136162": 44,
+      "gas:candidate-vibid:1001000121946": 82,
+      "special:against-all": 115
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370412&region=0&sub_region=0&type=429",
@@ -726,14 +726,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 281,
-      "Егорова Любовь Ивановна": 45,
-      "Иванова Валентина Николаевна": 342,
-      "Лихачев Дмитрий Юрьевич": 79,
-      "Онищенко Игорь Николаевич": 34,
-      "Савельев Игорь Витальевич": 41,
-      "Федоров Владимир Игоревич": 80,
-      "Против всех": 113
+      "gas:candidate-vibid:1001000112283": 281,
+      "gas:candidate-vibid:1001000195177": 45,
+      "gas:candidate-vibid:1001000226018": 342,
+      "gas:candidate-vibid:1001000190464": 79,
+      "gas:candidate-vibid:1001000121293": 34,
+      "gas:candidate-vibid:1001000136162": 41,
+      "gas:candidate-vibid:1001000121946": 80,
+      "special:against-all": 113
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370412&region=0&sub_region=0&type=429",
@@ -783,14 +783,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 270,
-      "Егорова Любовь Ивановна": 50,
-      "Иванова Валентина Николаевна": 352,
-      "Лихачев Дмитрий Юрьевич": 70,
-      "Онищенко Игорь Николаевич": 27,
-      "Савельев Игорь Витальевич": 59,
-      "Федоров Владимир Игоревич": 95,
-      "Против всех": 145
+      "gas:candidate-vibid:1001000112283": 270,
+      "gas:candidate-vibid:1001000195177": 50,
+      "gas:candidate-vibid:1001000226018": 352,
+      "gas:candidate-vibid:1001000190464": 70,
+      "gas:candidate-vibid:1001000121293": 27,
+      "gas:candidate-vibid:1001000136162": 59,
+      "gas:candidate-vibid:1001000121946": 95,
+      "special:against-all": 145
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370412&region=0&sub_region=0&type=429",
@@ -840,14 +840,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 189,
-      "Егорова Любовь Ивановна": 23,
-      "Иванова Валентина Николаевна": 186,
-      "Лихачев Дмитрий Юрьевич": 39,
-      "Онищенко Игорь Николаевич": 16,
-      "Савельев Игорь Витальевич": 11,
-      "Федоров Владимир Игоревич": 48,
-      "Против всех": 75
+      "gas:candidate-vibid:1001000112283": 189,
+      "gas:candidate-vibid:1001000195177": 23,
+      "gas:candidate-vibid:1001000226018": 186,
+      "gas:candidate-vibid:1001000190464": 39,
+      "gas:candidate-vibid:1001000121293": 16,
+      "gas:candidate-vibid:1001000136162": 11,
+      "gas:candidate-vibid:1001000121946": 48,
+      "special:against-all": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370412&region=0&sub_region=0&type=429",
@@ -897,14 +897,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 299,
-      "Егорова Любовь Ивановна": 39,
-      "Иванова Валентина Николаевна": 336,
-      "Лихачев Дмитрий Юрьевич": 46,
-      "Онищенко Игорь Николаевич": 12,
-      "Савельев Игорь Витальевич": 44,
-      "Федоров Владимир Игоревич": 82,
-      "Против всех": 100
+      "gas:candidate-vibid:1001000112283": 299,
+      "gas:candidate-vibid:1001000195177": 39,
+      "gas:candidate-vibid:1001000226018": 336,
+      "gas:candidate-vibid:1001000190464": 46,
+      "gas:candidate-vibid:1001000121293": 12,
+      "gas:candidate-vibid:1001000136162": 44,
+      "gas:candidate-vibid:1001000121946": 82,
+      "special:against-all": 100
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370412&region=0&sub_region=0&type=429",
@@ -954,14 +954,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 328,
-      "Егорова Любовь Ивановна": 42,
-      "Иванова Валентина Николаевна": 341,
-      "Лихачев Дмитрий Юрьевич": 68,
-      "Онищенко Игорь Николаевич": 26,
-      "Савельев Игорь Витальевич": 40,
-      "Федоров Владимир Игоревич": 90,
-      "Против всех": 102
+      "gas:candidate-vibid:1001000112283": 328,
+      "gas:candidate-vibid:1001000195177": 42,
+      "gas:candidate-vibid:1001000226018": 341,
+      "gas:candidate-vibid:1001000190464": 68,
+      "gas:candidate-vibid:1001000121293": 26,
+      "gas:candidate-vibid:1001000136162": 40,
+      "gas:candidate-vibid:1001000121946": 90,
+      "special:against-all": 102
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370412&region=0&sub_region=0&type=429",
@@ -1011,14 +1011,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 217,
-      "Егорова Любовь Ивановна": 30,
-      "Иванова Валентина Николаевна": 269,
-      "Лихачев Дмитрий Юрьевич": 70,
-      "Онищенко Игорь Николаевич": 32,
-      "Савельев Игорь Витальевич": 29,
-      "Федоров Владимир Игоревич": 67,
-      "Против всех": 84
+      "gas:candidate-vibid:1001000112283": 217,
+      "gas:candidate-vibid:1001000195177": 30,
+      "gas:candidate-vibid:1001000226018": 269,
+      "gas:candidate-vibid:1001000190464": 70,
+      "gas:candidate-vibid:1001000121293": 32,
+      "gas:candidate-vibid:1001000136162": 29,
+      "gas:candidate-vibid:1001000121946": 67,
+      "special:against-all": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370412&region=0&sub_region=0&type=429",
@@ -1068,14 +1068,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 326,
-      "Егорова Любовь Ивановна": 44,
-      "Иванова Валентина Николаевна": 332,
-      "Лихачев Дмитрий Юрьевич": 39,
-      "Онищенко Игорь Николаевич": 23,
-      "Савельев Игорь Витальевич": 45,
-      "Федоров Владимир Игоревич": 77,
-      "Против всех": 90
+      "gas:candidate-vibid:1001000112283": 326,
+      "gas:candidate-vibid:1001000195177": 44,
+      "gas:candidate-vibid:1001000226018": 332,
+      "gas:candidate-vibid:1001000190464": 39,
+      "gas:candidate-vibid:1001000121293": 23,
+      "gas:candidate-vibid:1001000136162": 45,
+      "gas:candidate-vibid:1001000121946": 77,
+      "special:against-all": 90
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370412&region=0&sub_region=0&type=429",
@@ -1125,14 +1125,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 309,
-      "Егорова Любовь Ивановна": 37,
-      "Иванова Валентина Николаевна": 362,
-      "Лихачев Дмитрий Юрьевич": 40,
-      "Онищенко Игорь Николаевич": 22,
-      "Савельев Игорь Витальевич": 38,
-      "Федоров Владимир Игоревич": 96,
-      "Против всех": 98
+      "gas:candidate-vibid:1001000112283": 309,
+      "gas:candidate-vibid:1001000195177": 37,
+      "gas:candidate-vibid:1001000226018": 362,
+      "gas:candidate-vibid:1001000190464": 40,
+      "gas:candidate-vibid:1001000121293": 22,
+      "gas:candidate-vibid:1001000136162": 38,
+      "gas:candidate-vibid:1001000121946": 96,
+      "special:against-all": 98
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370412&region=0&sub_region=0&type=429",
@@ -1182,14 +1182,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 256,
-      "Егорова Любовь Ивановна": 42,
-      "Иванова Валентина Николаевна": 328,
-      "Лихачев Дмитрий Юрьевич": 41,
-      "Онищенко Игорь Николаевич": 25,
-      "Савельев Игорь Витальевич": 40,
-      "Федоров Владимир Игоревич": 67,
-      "Против всех": 79
+      "gas:candidate-vibid:1001000112283": 256,
+      "gas:candidate-vibid:1001000195177": 42,
+      "gas:candidate-vibid:1001000226018": 328,
+      "gas:candidate-vibid:1001000190464": 41,
+      "gas:candidate-vibid:1001000121293": 25,
+      "gas:candidate-vibid:1001000136162": 40,
+      "gas:candidate-vibid:1001000121946": 67,
+      "special:against-all": 79
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370412&region=0&sub_region=0&type=429",
@@ -1239,14 +1239,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 372,
-      "Егорова Любовь Ивановна": 55,
-      "Иванова Валентина Николаевна": 406,
-      "Лихачев Дмитрий Юрьевич": 40,
-      "Онищенко Игорь Николаевич": 22,
-      "Савельев Игорь Витальевич": 47,
-      "Федоров Владимир Игоревич": 91,
-      "Против всех": 110
+      "gas:candidate-vibid:1001000112283": 372,
+      "gas:candidate-vibid:1001000195177": 55,
+      "gas:candidate-vibid:1001000226018": 406,
+      "gas:candidate-vibid:1001000190464": 40,
+      "gas:candidate-vibid:1001000121293": 22,
+      "gas:candidate-vibid:1001000136162": 47,
+      "gas:candidate-vibid:1001000121946": 91,
+      "special:against-all": 110
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370412&region=0&sub_region=0&type=429",
@@ -1296,14 +1296,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 342,
-      "Егорова Любовь Ивановна": 54,
-      "Иванова Валентина Николаевна": 405,
-      "Лихачев Дмитрий Юрьевич": 37,
-      "Онищенко Игорь Николаевич": 23,
-      "Савельев Игорь Витальевич": 36,
-      "Федоров Владимир Игоревич": 84,
-      "Против всех": 136
+      "gas:candidate-vibid:1001000112283": 342,
+      "gas:candidate-vibid:1001000195177": 54,
+      "gas:candidate-vibid:1001000226018": 405,
+      "gas:candidate-vibid:1001000190464": 37,
+      "gas:candidate-vibid:1001000121293": 23,
+      "gas:candidate-vibid:1001000136162": 36,
+      "gas:candidate-vibid:1001000121946": 84,
+      "special:against-all": 136
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370412&region=0&sub_region=0&type=429",
@@ -1353,14 +1353,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 301,
-      "Егорова Любовь Ивановна": 32,
-      "Иванова Валентина Николаевна": 361,
-      "Лихачев Дмитрий Юрьевич": 39,
-      "Онищенко Игорь Николаевич": 19,
-      "Савельев Игорь Витальевич": 29,
-      "Федоров Владимир Игоревич": 83,
-      "Против всех": 100
+      "gas:candidate-vibid:1001000112283": 301,
+      "gas:candidate-vibid:1001000195177": 32,
+      "gas:candidate-vibid:1001000226018": 361,
+      "gas:candidate-vibid:1001000190464": 39,
+      "gas:candidate-vibid:1001000121293": 19,
+      "gas:candidate-vibid:1001000136162": 29,
+      "gas:candidate-vibid:1001000121946": 83,
+      "special:against-all": 100
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370412&region=0&sub_region=0&type=429",
@@ -1410,14 +1410,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 335,
-      "Егорова Любовь Ивановна": 33,
-      "Иванова Валентина Николаевна": 339,
-      "Лихачев Дмитрий Юрьевич": 36,
-      "Онищенко Игорь Николаевич": 32,
-      "Савельев Игорь Витальевич": 48,
-      "Федоров Владимир Игоревич": 106,
-      "Против всех": 97
+      "gas:candidate-vibid:1001000112283": 335,
+      "gas:candidate-vibid:1001000195177": 33,
+      "gas:candidate-vibid:1001000226018": 339,
+      "gas:candidate-vibid:1001000190464": 36,
+      "gas:candidate-vibid:1001000121293": 32,
+      "gas:candidate-vibid:1001000136162": 48,
+      "gas:candidate-vibid:1001000121946": 106,
+      "special:against-all": 97
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370412&region=0&sub_region=0&type=429",
@@ -1467,14 +1467,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 250,
-      "Егорова Любовь Ивановна": 40,
-      "Иванова Валентина Николаевна": 307,
-      "Лихачев Дмитрий Юрьевич": 45,
-      "Онищенко Игорь Николаевич": 13,
-      "Савельев Игорь Витальевич": 31,
-      "Федоров Владимир Игоревич": 63,
-      "Против всех": 101
+      "gas:candidate-vibid:1001000112283": 250,
+      "gas:candidate-vibid:1001000195177": 40,
+      "gas:candidate-vibid:1001000226018": 307,
+      "gas:candidate-vibid:1001000190464": 45,
+      "gas:candidate-vibid:1001000121293": 13,
+      "gas:candidate-vibid:1001000136162": 31,
+      "gas:candidate-vibid:1001000121946": 63,
+      "special:against-all": 101
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370412&region=0&sub_region=0&type=429",
@@ -1524,14 +1524,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 335,
-      "Егорова Любовь Ивановна": 39,
-      "Иванова Валентина Николаевна": 314,
-      "Лихачев Дмитрий Юрьевич": 56,
-      "Онищенко Игорь Николаевич": 29,
-      "Савельев Игорь Витальевич": 47,
-      "Федоров Владимир Игоревич": 70,
-      "Против всех": 113
+      "gas:candidate-vibid:1001000112283": 335,
+      "gas:candidate-vibid:1001000195177": 39,
+      "gas:candidate-vibid:1001000226018": 314,
+      "gas:candidate-vibid:1001000190464": 56,
+      "gas:candidate-vibid:1001000121293": 29,
+      "gas:candidate-vibid:1001000136162": 47,
+      "gas:candidate-vibid:1001000121946": 70,
+      "special:against-all": 113
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370412&region=0&sub_region=0&type=429",
@@ -1581,14 +1581,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 289,
-      "Егорова Любовь Ивановна": 32,
-      "Иванова Валентина Николаевна": 259,
-      "Лихачев Дмитрий Юрьевич": 56,
-      "Онищенко Игорь Николаевич": 19,
-      "Савельев Игорь Витальевич": 34,
-      "Федоров Владимир Игоревич": 83,
-      "Против всех": 80
+      "gas:candidate-vibid:1001000112283": 289,
+      "gas:candidate-vibid:1001000195177": 32,
+      "gas:candidate-vibid:1001000226018": 259,
+      "gas:candidate-vibid:1001000190464": 56,
+      "gas:candidate-vibid:1001000121293": 19,
+      "gas:candidate-vibid:1001000136162": 34,
+      "gas:candidate-vibid:1001000121946": 83,
+      "special:against-all": 80
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370412&region=0&sub_region=0&type=429",
@@ -1638,14 +1638,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 442,
-      "Егорова Любовь Ивановна": 68,
-      "Иванова Валентина Николаевна": 421,
-      "Лихачев Дмитрий Юрьевич": 52,
-      "Онищенко Игорь Николаевич": 28,
-      "Савельев Игорь Витальевич": 49,
-      "Федоров Владимир Игоревич": 93,
-      "Против всех": 120
+      "gas:candidate-vibid:1001000112283": 442,
+      "gas:candidate-vibid:1001000195177": 68,
+      "gas:candidate-vibid:1001000226018": 421,
+      "gas:candidate-vibid:1001000190464": 52,
+      "gas:candidate-vibid:1001000121293": 28,
+      "gas:candidate-vibid:1001000136162": 49,
+      "gas:candidate-vibid:1001000121946": 93,
+      "special:against-all": 120
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370412&region=0&sub_region=0&type=429",
@@ -1695,14 +1695,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 319,
-      "Егорова Любовь Ивановна": 37,
-      "Иванова Валентина Николаевна": 332,
-      "Лихачев Дмитрий Юрьевич": 63,
-      "Онищенко Игорь Николаевич": 20,
-      "Савельев Игорь Витальевич": 39,
-      "Федоров Владимир Игоревич": 97,
-      "Против всех": 139
+      "gas:candidate-vibid:1001000112283": 319,
+      "gas:candidate-vibid:1001000195177": 37,
+      "gas:candidate-vibid:1001000226018": 332,
+      "gas:candidate-vibid:1001000190464": 63,
+      "gas:candidate-vibid:1001000121293": 20,
+      "gas:candidate-vibid:1001000136162": 39,
+      "gas:candidate-vibid:1001000121946": 97,
+      "special:against-all": 139
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370412&region=0&sub_region=0&type=429",
@@ -1752,14 +1752,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 386,
-      "Егорова Любовь Ивановна": 49,
-      "Иванова Валентина Николаевна": 428,
-      "Лихачев Дмитрий Юрьевич": 57,
-      "Онищенко Игорь Николаевич": 22,
-      "Савельев Игорь Витальевич": 40,
-      "Федоров Владимир Игоревич": 103,
-      "Против всех": 137
+      "gas:candidate-vibid:1001000112283": 386,
+      "gas:candidate-vibid:1001000195177": 49,
+      "gas:candidate-vibid:1001000226018": 428,
+      "gas:candidate-vibid:1001000190464": 57,
+      "gas:candidate-vibid:1001000121293": 22,
+      "gas:candidate-vibid:1001000136162": 40,
+      "gas:candidate-vibid:1001000121946": 103,
+      "special:against-all": 137
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370412&region=0&sub_region=0&type=429",
@@ -1809,14 +1809,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 258,
-      "Егорова Любовь Ивановна": 51,
-      "Иванова Валентина Николаевна": 288,
-      "Лихачев Дмитрий Юрьевич": 35,
-      "Онищенко Игорь Николаевич": 22,
-      "Савельев Игорь Витальевич": 42,
-      "Федоров Владимир Игоревич": 73,
-      "Против всех": 101
+      "gas:candidate-vibid:1001000112283": 258,
+      "gas:candidate-vibid:1001000195177": 51,
+      "gas:candidate-vibid:1001000226018": 288,
+      "gas:candidate-vibid:1001000190464": 35,
+      "gas:candidate-vibid:1001000121293": 22,
+      "gas:candidate-vibid:1001000136162": 42,
+      "gas:candidate-vibid:1001000121946": 73,
+      "special:against-all": 101
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370412&region=0&sub_region=0&type=429",
@@ -1866,14 +1866,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 271,
-      "Егорова Любовь Ивановна": 38,
-      "Иванова Валентина Николаевна": 287,
-      "Лихачев Дмитрий Юрьевич": 53,
-      "Онищенко Игорь Николаевич": 24,
-      "Савельев Игорь Витальевич": 45,
-      "Федоров Владимир Игоревич": 103,
-      "Против всех": 94
+      "gas:candidate-vibid:1001000112283": 271,
+      "gas:candidate-vibid:1001000195177": 38,
+      "gas:candidate-vibid:1001000226018": 287,
+      "gas:candidate-vibid:1001000190464": 53,
+      "gas:candidate-vibid:1001000121293": 24,
+      "gas:candidate-vibid:1001000136162": 45,
+      "gas:candidate-vibid:1001000121946": 103,
+      "special:against-all": 94
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370412&region=0&sub_region=0&type=429",
@@ -1923,14 +1923,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 222,
-      "Егорова Любовь Ивановна": 40,
-      "Иванова Валентина Николаевна": 427,
-      "Лихачев Дмитрий Юрьевич": 41,
-      "Онищенко Игорь Николаевич": 16,
-      "Савельев Игорь Витальевич": 34,
-      "Федоров Владимир Игоревич": 96,
-      "Против всех": 89
+      "gas:candidate-vibid:1001000112283": 222,
+      "gas:candidate-vibid:1001000195177": 40,
+      "gas:candidate-vibid:1001000226018": 427,
+      "gas:candidate-vibid:1001000190464": 41,
+      "gas:candidate-vibid:1001000121293": 16,
+      "gas:candidate-vibid:1001000136162": 34,
+      "gas:candidate-vibid:1001000121946": 96,
+      "special:against-all": 89
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370412&region=0&sub_region=0&type=429",
@@ -1980,14 +1980,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 267,
-      "Егорова Любовь Ивановна": 39,
-      "Иванова Валентина Николаевна": 372,
-      "Лихачев Дмитрий Юрьевич": 79,
-      "Онищенко Игорь Николаевич": 11,
-      "Савельев Игорь Витальевич": 40,
-      "Федоров Владимир Игоревич": 88,
-      "Против всех": 105
+      "gas:candidate-vibid:1001000112283": 267,
+      "gas:candidate-vibid:1001000195177": 39,
+      "gas:candidate-vibid:1001000226018": 372,
+      "gas:candidate-vibid:1001000190464": 79,
+      "gas:candidate-vibid:1001000121293": 11,
+      "gas:candidate-vibid:1001000136162": 40,
+      "gas:candidate-vibid:1001000121946": 88,
+      "special:against-all": 105
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370412&region=0&sub_region=0&type=429",
@@ -2037,14 +2037,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 699,
-      "Егорова Любовь Ивановна": 87,
-      "Иванова Валентина Николаевна": 419,
-      "Лихачев Дмитрий Юрьевич": 46,
-      "Онищенко Игорь Николаевич": 26,
-      "Савельев Игорь Витальевич": 115,
-      "Федоров Владимир Игоревич": 90,
-      "Против всех": 274
+      "gas:candidate-vibid:1001000112283": 699,
+      "gas:candidate-vibid:1001000195177": 87,
+      "gas:candidate-vibid:1001000226018": 419,
+      "gas:candidate-vibid:1001000190464": 46,
+      "gas:candidate-vibid:1001000121293": 26,
+      "gas:candidate-vibid:1001000136162": 115,
+      "gas:candidate-vibid:1001000121946": 90,
+      "special:against-all": 274
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370412&region=0&sub_region=0&type=429",
@@ -2094,14 +2094,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 196,
-      "Егорова Любовь Ивановна": 37,
-      "Иванова Валентина Николаевна": 228,
-      "Лихачев Дмитрий Юрьевич": 40,
-      "Онищенко Игорь Николаевич": 15,
-      "Савельев Игорь Витальевич": 21,
-      "Федоров Владимир Игоревич": 76,
-      "Против всех": 62
+      "gas:candidate-vibid:1001000112283": 196,
+      "gas:candidate-vibid:1001000195177": 37,
+      "gas:candidate-vibid:1001000226018": 228,
+      "gas:candidate-vibid:1001000190464": 40,
+      "gas:candidate-vibid:1001000121293": 15,
+      "gas:candidate-vibid:1001000136162": 21,
+      "gas:candidate-vibid:1001000121946": 76,
+      "special:against-all": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370412&region=0&sub_region=0&type=429",
@@ -2151,14 +2151,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 304,
-      "Егорова Любовь Ивановна": 51,
-      "Иванова Валентина Николаевна": 309,
-      "Лихачев Дмитрий Юрьевич": 82,
-      "Онищенко Игорь Николаевич": 31,
-      "Савельев Игорь Витальевич": 44,
-      "Федоров Владимир Игоревич": 111,
-      "Против всех": 88
+      "gas:candidate-vibid:1001000112283": 304,
+      "gas:candidate-vibid:1001000195177": 51,
+      "gas:candidate-vibid:1001000226018": 309,
+      "gas:candidate-vibid:1001000190464": 82,
+      "gas:candidate-vibid:1001000121293": 31,
+      "gas:candidate-vibid:1001000136162": 44,
+      "gas:candidate-vibid:1001000121946": 111,
+      "special:against-all": 88
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370412&region=0&sub_region=0&type=429",
@@ -2208,14 +2208,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 298,
-      "Егорова Любовь Ивановна": 31,
-      "Иванова Валентина Николаевна": 251,
-      "Лихачев Дмитрий Юрьевич": 68,
-      "Онищенко Игорь Николаевич": 34,
-      "Савельев Игорь Витальевич": 41,
-      "Федоров Владимир Игоревич": 67,
-      "Против всех": 98
+      "gas:candidate-vibid:1001000112283": 298,
+      "gas:candidate-vibid:1001000195177": 31,
+      "gas:candidate-vibid:1001000226018": 251,
+      "gas:candidate-vibid:1001000190464": 68,
+      "gas:candidate-vibid:1001000121293": 34,
+      "gas:candidate-vibid:1001000136162": 41,
+      "gas:candidate-vibid:1001000121946": 67,
+      "special:against-all": 98
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370412&region=0&sub_region=0&type=429",
@@ -2265,14 +2265,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 252,
-      "Егорова Любовь Ивановна": 22,
-      "Иванова Валентина Николаевна": 265,
-      "Лихачев Дмитрий Юрьевич": 39,
-      "Онищенко Игорь Николаевич": 10,
-      "Савельев Игорь Витальевич": 25,
-      "Федоров Владимир Игоревич": 56,
-      "Против всех": 64
+      "gas:candidate-vibid:1001000112283": 252,
+      "gas:candidate-vibid:1001000195177": 22,
+      "gas:candidate-vibid:1001000226018": 265,
+      "gas:candidate-vibid:1001000190464": 39,
+      "gas:candidate-vibid:1001000121293": 10,
+      "gas:candidate-vibid:1001000136162": 25,
+      "gas:candidate-vibid:1001000121946": 56,
+      "special:against-all": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370412&region=0&sub_region=0&type=429",
@@ -2322,14 +2322,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 316,
-      "Егорова Любовь Ивановна": 30,
-      "Иванова Валентина Николаевна": 301,
-      "Лихачев Дмитрий Юрьевич": 56,
-      "Онищенко Игорь Николаевич": 20,
-      "Савельев Игорь Витальевич": 32,
-      "Федоров Владимир Игоревич": 101,
-      "Против всех": 98
+      "gas:candidate-vibid:1001000112283": 316,
+      "gas:candidate-vibid:1001000195177": 30,
+      "gas:candidate-vibid:1001000226018": 301,
+      "gas:candidate-vibid:1001000190464": 56,
+      "gas:candidate-vibid:1001000121293": 20,
+      "gas:candidate-vibid:1001000136162": 32,
+      "gas:candidate-vibid:1001000121946": 101,
+      "special:against-all": 98
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370412&region=0&sub_region=0&type=429",
@@ -2379,14 +2379,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 240,
-      "Егорова Любовь Ивановна": 34,
-      "Иванова Валентина Николаевна": 260,
-      "Лихачев Дмитрий Юрьевич": 29,
-      "Онищенко Игорь Николаевич": 24,
-      "Савельев Игорь Витальевич": 28,
-      "Федоров Владимир Игоревич": 87,
-      "Против всех": 82
+      "gas:candidate-vibid:1001000112283": 240,
+      "gas:candidate-vibid:1001000195177": 34,
+      "gas:candidate-vibid:1001000226018": 260,
+      "gas:candidate-vibid:1001000190464": 29,
+      "gas:candidate-vibid:1001000121293": 24,
+      "gas:candidate-vibid:1001000136162": 28,
+      "gas:candidate-vibid:1001000121946": 87,
+      "special:against-all": 82
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370412&region=0&sub_region=0&type=429",
@@ -2436,14 +2436,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 171,
-      "Егорова Любовь Ивановна": 32,
-      "Иванова Валентина Николаевна": 242,
-      "Лихачев Дмитрий Юрьевич": 19,
-      "Онищенко Игорь Николаевич": 18,
-      "Савельев Игорь Витальевич": 36,
-      "Федоров Владимир Игоревич": 60,
-      "Против всех": 60
+      "gas:candidate-vibid:1001000112283": 171,
+      "gas:candidate-vibid:1001000195177": 32,
+      "gas:candidate-vibid:1001000226018": 242,
+      "gas:candidate-vibid:1001000190464": 19,
+      "gas:candidate-vibid:1001000121293": 18,
+      "gas:candidate-vibid:1001000136162": 36,
+      "gas:candidate-vibid:1001000121946": 60,
+      "special:against-all": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370412&region=0&sub_region=0&type=429",
@@ -2493,14 +2493,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 344,
-      "Егорова Любовь Ивановна": 54,
-      "Иванова Валентина Николаевна": 387,
-      "Лихачев Дмитрий Юрьевич": 68,
-      "Онищенко Игорь Николаевич": 36,
-      "Савельев Игорь Витальевич": 36,
-      "Федоров Владимир Игоревич": 162,
-      "Против всех": 136
+      "gas:candidate-vibid:1001000112283": 344,
+      "gas:candidate-vibid:1001000195177": 54,
+      "gas:candidate-vibid:1001000226018": 387,
+      "gas:candidate-vibid:1001000190464": 68,
+      "gas:candidate-vibid:1001000121293": 36,
+      "gas:candidate-vibid:1001000136162": 36,
+      "gas:candidate-vibid:1001000121946": 162,
+      "special:against-all": 136
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370412&region=0&sub_region=0&type=429",
@@ -2550,14 +2550,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 298,
-      "Егорова Любовь Ивановна": 47,
-      "Иванова Валентина Николаевна": 308,
-      "Лихачев Дмитрий Юрьевич": 33,
-      "Онищенко Игорь Николаевич": 25,
-      "Савельев Игорь Витальевич": 25,
-      "Федоров Владимир Игоревич": 107,
-      "Против всех": 104
+      "gas:candidate-vibid:1001000112283": 298,
+      "gas:candidate-vibid:1001000195177": 47,
+      "gas:candidate-vibid:1001000226018": 308,
+      "gas:candidate-vibid:1001000190464": 33,
+      "gas:candidate-vibid:1001000121293": 25,
+      "gas:candidate-vibid:1001000136162": 25,
+      "gas:candidate-vibid:1001000121946": 107,
+      "special:against-all": 104
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370412&region=0&sub_region=0&type=429",
@@ -2607,14 +2607,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 203,
-      "Егорова Любовь Ивановна": 31,
-      "Иванова Валентина Николаевна": 217,
-      "Лихачев Дмитрий Юрьевич": 43,
-      "Онищенко Игорь Николаевич": 22,
-      "Савельев Игорь Витальевич": 36,
-      "Федоров Владимир Игоревич": 59,
-      "Против всех": 83
+      "gas:candidate-vibid:1001000112283": 203,
+      "gas:candidate-vibid:1001000195177": 31,
+      "gas:candidate-vibid:1001000226018": 217,
+      "gas:candidate-vibid:1001000190464": 43,
+      "gas:candidate-vibid:1001000121293": 22,
+      "gas:candidate-vibid:1001000136162": 36,
+      "gas:candidate-vibid:1001000121946": 59,
+      "special:against-all": 83
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370412&region=0&sub_region=0&type=429",
@@ -2664,14 +2664,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 389,
-      "Егорова Любовь Ивановна": 37,
-      "Иванова Валентина Николаевна": 363,
-      "Лихачев Дмитрий Юрьевич": 90,
-      "Онищенко Игорь Николаевич": 25,
-      "Савельев Игорь Витальевич": 59,
-      "Федоров Владимир Игоревич": 139,
-      "Против всех": 107
+      "gas:candidate-vibid:1001000112283": 389,
+      "gas:candidate-vibid:1001000195177": 37,
+      "gas:candidate-vibid:1001000226018": 363,
+      "gas:candidate-vibid:1001000190464": 90,
+      "gas:candidate-vibid:1001000121293": 25,
+      "gas:candidate-vibid:1001000136162": 59,
+      "gas:candidate-vibid:1001000121946": 139,
+      "special:against-all": 107
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370412&region=0&sub_region=0&type=429",
@@ -2721,14 +2721,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 290,
-      "Егорова Любовь Ивановна": 63,
-      "Иванова Валентина Николаевна": 368,
-      "Лихачев Дмитрий Юрьевич": 98,
-      "Онищенко Игорь Николаевич": 28,
-      "Савельев Игорь Витальевич": 54,
-      "Федоров Владимир Игоревич": 75,
-      "Против всех": 112
+      "gas:candidate-vibid:1001000112283": 290,
+      "gas:candidate-vibid:1001000195177": 63,
+      "gas:candidate-vibid:1001000226018": 368,
+      "gas:candidate-vibid:1001000190464": 98,
+      "gas:candidate-vibid:1001000121293": 28,
+      "gas:candidate-vibid:1001000136162": 54,
+      "gas:candidate-vibid:1001000121946": 75,
+      "special:against-all": 112
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370412&region=0&sub_region=0&type=429",
@@ -2778,14 +2778,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 263,
-      "Егорова Любовь Ивановна": 31,
-      "Иванова Валентина Николаевна": 319,
-      "Лихачев Дмитрий Юрьевич": 60,
-      "Онищенко Игорь Николаевич": 11,
-      "Савельев Игорь Витальевич": 31,
-      "Федоров Владимир Игоревич": 76,
-      "Против всех": 70
+      "gas:candidate-vibid:1001000112283": 263,
+      "gas:candidate-vibid:1001000195177": 31,
+      "gas:candidate-vibid:1001000226018": 319,
+      "gas:candidate-vibid:1001000190464": 60,
+      "gas:candidate-vibid:1001000121293": 11,
+      "gas:candidate-vibid:1001000136162": 31,
+      "gas:candidate-vibid:1001000121946": 76,
+      "special:against-all": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370412&region=0&sub_region=0&type=429",
@@ -2835,14 +2835,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 56,
-      "Егорова Любовь Ивановна": 26,
-      "Иванова Валентина Николаевна": 209,
-      "Лихачев Дмитрий Юрьевич": 24,
-      "Онищенко Игорь Николаевич": 9,
-      "Савельев Игорь Витальевич": 27,
-      "Федоров Владимир Игоревич": 73,
-      "Против всех": 86
+      "gas:candidate-vibid:1001000112283": 56,
+      "gas:candidate-vibid:1001000195177": 26,
+      "gas:candidate-vibid:1001000226018": 209,
+      "gas:candidate-vibid:1001000190464": 24,
+      "gas:candidate-vibid:1001000121293": 9,
+      "gas:candidate-vibid:1001000136162": 27,
+      "gas:candidate-vibid:1001000121946": 73,
+      "special:against-all": 86
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370412&region=0&sub_region=0&type=429",
@@ -2892,14 +2892,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 499,
-      "Егорова Любовь Ивановна": 46,
-      "Иванова Валентина Николаевна": 233,
-      "Лихачев Дмитрий Юрьевич": 51,
-      "Онищенко Игорь Николаевич": 43,
-      "Савельев Игорь Витальевич": 40,
-      "Федоров Владимир Игоревич": 119,
-      "Против всех": 117
+      "gas:candidate-vibid:1001000112283": 499,
+      "gas:candidate-vibid:1001000195177": 46,
+      "gas:candidate-vibid:1001000226018": 233,
+      "gas:candidate-vibid:1001000190464": 51,
+      "gas:candidate-vibid:1001000121293": 43,
+      "gas:candidate-vibid:1001000136162": 40,
+      "gas:candidate-vibid:1001000121946": 119,
+      "special:against-all": 117
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370413&region=0&sub_region=0&type=429",
@@ -2949,14 +2949,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 561,
-      "Егорова Любовь Ивановна": 53,
-      "Иванова Валентина Николаевна": 292,
-      "Лихачев Дмитрий Юрьевич": 65,
-      "Онищенко Игорь Николаевич": 65,
-      "Савельев Игорь Витальевич": 79,
-      "Федоров Владимир Игоревич": 160,
-      "Против всех": 175
+      "gas:candidate-vibid:1001000112283": 561,
+      "gas:candidate-vibid:1001000195177": 53,
+      "gas:candidate-vibid:1001000226018": 292,
+      "gas:candidate-vibid:1001000190464": 65,
+      "gas:candidate-vibid:1001000121293": 65,
+      "gas:candidate-vibid:1001000136162": 79,
+      "gas:candidate-vibid:1001000121946": 160,
+      "special:against-all": 175
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370413&region=0&sub_region=0&type=429",
@@ -3006,14 +3006,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 347,
-      "Егорова Любовь Ивановна": 42,
-      "Иванова Валентина Николаевна": 302,
-      "Лихачев Дмитрий Юрьевич": 31,
-      "Онищенко Игорь Николаевич": 33,
-      "Савельев Игорь Витальевич": 50,
-      "Федоров Владимир Игоревич": 92,
-      "Против всех": 160
+      "gas:candidate-vibid:1001000112283": 347,
+      "gas:candidate-vibid:1001000195177": 42,
+      "gas:candidate-vibid:1001000226018": 302,
+      "gas:candidate-vibid:1001000190464": 31,
+      "gas:candidate-vibid:1001000121293": 33,
+      "gas:candidate-vibid:1001000136162": 50,
+      "gas:candidate-vibid:1001000121946": 92,
+      "special:against-all": 160
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370413&region=0&sub_region=0&type=429",
@@ -3063,14 +3063,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 352,
-      "Егорова Любовь Ивановна": 40,
-      "Иванова Валентина Николаевна": 300,
-      "Лихачев Дмитрий Юрьевич": 80,
-      "Онищенко Игорь Николаевич": 38,
-      "Савельев Игорь Витальевич": 51,
-      "Федоров Владимир Игоревич": 150,
-      "Против всех": 140
+      "gas:candidate-vibid:1001000112283": 352,
+      "gas:candidate-vibid:1001000195177": 40,
+      "gas:candidate-vibid:1001000226018": 300,
+      "gas:candidate-vibid:1001000190464": 80,
+      "gas:candidate-vibid:1001000121293": 38,
+      "gas:candidate-vibid:1001000136162": 51,
+      "gas:candidate-vibid:1001000121946": 150,
+      "special:against-all": 140
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370413&region=0&sub_region=0&type=429",
@@ -3120,14 +3120,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 316,
-      "Егорова Любовь Ивановна": 39,
-      "Иванова Валентина Николаевна": 323,
-      "Лихачев Дмитрий Юрьевич": 54,
-      "Онищенко Игорь Николаевич": 31,
-      "Савельев Игорь Витальевич": 44,
-      "Федоров Владимир Игоревич": 101,
-      "Против всех": 129
+      "gas:candidate-vibid:1001000112283": 316,
+      "gas:candidate-vibid:1001000195177": 39,
+      "gas:candidate-vibid:1001000226018": 323,
+      "gas:candidate-vibid:1001000190464": 54,
+      "gas:candidate-vibid:1001000121293": 31,
+      "gas:candidate-vibid:1001000136162": 44,
+      "gas:candidate-vibid:1001000121946": 101,
+      "special:against-all": 129
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370413&region=0&sub_region=0&type=429",
@@ -3177,14 +3177,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 359,
-      "Егорова Любовь Ивановна": 45,
-      "Иванова Валентина Николаевна": 328,
-      "Лихачев Дмитрий Юрьевич": 69,
-      "Онищенко Игорь Николаевич": 15,
-      "Савельев Игорь Витальевич": 65,
-      "Федоров Владимир Игоревич": 86,
-      "Против всех": 123
+      "gas:candidate-vibid:1001000112283": 359,
+      "gas:candidate-vibid:1001000195177": 45,
+      "gas:candidate-vibid:1001000226018": 328,
+      "gas:candidate-vibid:1001000190464": 69,
+      "gas:candidate-vibid:1001000121293": 15,
+      "gas:candidate-vibid:1001000136162": 65,
+      "gas:candidate-vibid:1001000121946": 86,
+      "special:against-all": 123
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370413&region=0&sub_region=0&type=429",
@@ -3234,14 +3234,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 358,
-      "Егорова Любовь Ивановна": 37,
-      "Иванова Валентина Николаевна": 313,
-      "Лихачев Дмитрий Юрьевич": 53,
-      "Онищенко Игорь Николаевич": 36,
-      "Савельев Игорь Витальевич": 51,
-      "Федоров Владимир Игоревич": 110,
-      "Против всех": 120
+      "gas:candidate-vibid:1001000112283": 358,
+      "gas:candidate-vibid:1001000195177": 37,
+      "gas:candidate-vibid:1001000226018": 313,
+      "gas:candidate-vibid:1001000190464": 53,
+      "gas:candidate-vibid:1001000121293": 36,
+      "gas:candidate-vibid:1001000136162": 51,
+      "gas:candidate-vibid:1001000121946": 110,
+      "special:against-all": 120
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370413&region=0&sub_region=0&type=429",
@@ -3291,14 +3291,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 518,
-      "Егорова Любовь Ивановна": 47,
-      "Иванова Валентина Николаевна": 274,
-      "Лихачев Дмитрий Юрьевич": 52,
-      "Онищенко Игорь Николаевич": 30,
-      "Савельев Игорь Витальевич": 29,
-      "Федоров Владимир Игоревич": 103,
-      "Против всех": 114
+      "gas:candidate-vibid:1001000112283": 518,
+      "gas:candidate-vibid:1001000195177": 47,
+      "gas:candidate-vibid:1001000226018": 274,
+      "gas:candidate-vibid:1001000190464": 52,
+      "gas:candidate-vibid:1001000121293": 30,
+      "gas:candidate-vibid:1001000136162": 29,
+      "gas:candidate-vibid:1001000121946": 103,
+      "special:against-all": 114
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370413&region=0&sub_region=0&type=429",
@@ -3348,14 +3348,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 356,
-      "Егорова Любовь Ивановна": 39,
-      "Иванова Валентина Николаевна": 243,
-      "Лихачев Дмитрий Юрьевич": 45,
-      "Онищенко Игорь Николаевич": 22,
-      "Савельев Игорь Витальевич": 41,
-      "Федоров Владимир Игоревич": 108,
-      "Против всех": 116
+      "gas:candidate-vibid:1001000112283": 356,
+      "gas:candidate-vibid:1001000195177": 39,
+      "gas:candidate-vibid:1001000226018": 243,
+      "gas:candidate-vibid:1001000190464": 45,
+      "gas:candidate-vibid:1001000121293": 22,
+      "gas:candidate-vibid:1001000136162": 41,
+      "gas:candidate-vibid:1001000121946": 108,
+      "special:against-all": 116
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370413&region=0&sub_region=0&type=429",
@@ -3405,14 +3405,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 475,
-      "Егорова Любовь Ивановна": 51,
-      "Иванова Валентина Николаевна": 304,
-      "Лихачев Дмитрий Юрьевич": 61,
-      "Онищенко Игорь Николаевич": 35,
-      "Савельев Игорь Витальевич": 52,
-      "Федоров Владимир Игоревич": 116,
-      "Против всех": 139
+      "gas:candidate-vibid:1001000112283": 475,
+      "gas:candidate-vibid:1001000195177": 51,
+      "gas:candidate-vibid:1001000226018": 304,
+      "gas:candidate-vibid:1001000190464": 61,
+      "gas:candidate-vibid:1001000121293": 35,
+      "gas:candidate-vibid:1001000136162": 52,
+      "gas:candidate-vibid:1001000121946": 116,
+      "special:against-all": 139
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370413&region=0&sub_region=0&type=429",
@@ -3462,14 +3462,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 310,
-      "Егорова Любовь Ивановна": 37,
-      "Иванова Валентина Николаевна": 184,
-      "Лихачев Дмитрий Юрьевич": 50,
-      "Онищенко Игорь Николаевич": 18,
-      "Савельев Игорь Витальевич": 38,
-      "Федоров Владимир Игоревич": 85,
-      "Против всех": 96
+      "gas:candidate-vibid:1001000112283": 310,
+      "gas:candidate-vibid:1001000195177": 37,
+      "gas:candidate-vibid:1001000226018": 184,
+      "gas:candidate-vibid:1001000190464": 50,
+      "gas:candidate-vibid:1001000121293": 18,
+      "gas:candidate-vibid:1001000136162": 38,
+      "gas:candidate-vibid:1001000121946": 85,
+      "special:against-all": 96
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370413&region=0&sub_region=0&type=429",
@@ -3519,14 +3519,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 358,
-      "Егорова Любовь Ивановна": 45,
-      "Иванова Валентина Николаевна": 240,
-      "Лихачев Дмитрий Юрьевич": 47,
-      "Онищенко Игорь Николаевич": 22,
-      "Савельев Игорь Витальевич": 52,
-      "Федоров Владимир Игоревич": 84,
-      "Против всех": 85
+      "gas:candidate-vibid:1001000112283": 358,
+      "gas:candidate-vibid:1001000195177": 45,
+      "gas:candidate-vibid:1001000226018": 240,
+      "gas:candidate-vibid:1001000190464": 47,
+      "gas:candidate-vibid:1001000121293": 22,
+      "gas:candidate-vibid:1001000136162": 52,
+      "gas:candidate-vibid:1001000121946": 84,
+      "special:against-all": 85
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370413&region=0&sub_region=0&type=429",
@@ -3576,14 +3576,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 230,
-      "Егорова Любовь Ивановна": 28,
-      "Иванова Валентина Николаевна": 186,
-      "Лихачев Дмитрий Юрьевич": 38,
-      "Онищенко Игорь Николаевич": 15,
-      "Савельев Игорь Витальевич": 31,
-      "Федоров Владимир Игоревич": 59,
-      "Против всех": 71
+      "gas:candidate-vibid:1001000112283": 230,
+      "gas:candidate-vibid:1001000195177": 28,
+      "gas:candidate-vibid:1001000226018": 186,
+      "gas:candidate-vibid:1001000190464": 38,
+      "gas:candidate-vibid:1001000121293": 15,
+      "gas:candidate-vibid:1001000136162": 31,
+      "gas:candidate-vibid:1001000121946": 59,
+      "special:against-all": 71
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370413&region=0&sub_region=0&type=429",
@@ -3633,14 +3633,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 485,
-      "Егорова Любовь Ивановна": 26,
-      "Иванова Валентина Николаевна": 285,
-      "Лихачев Дмитрий Юрьевич": 33,
-      "Онищенко Игорь Николаевич": 29,
-      "Савельев Игорь Витальевич": 35,
-      "Федоров Владимир Игоревич": 95,
-      "Против всех": 113
+      "gas:candidate-vibid:1001000112283": 485,
+      "gas:candidate-vibid:1001000195177": 26,
+      "gas:candidate-vibid:1001000226018": 285,
+      "gas:candidate-vibid:1001000190464": 33,
+      "gas:candidate-vibid:1001000121293": 29,
+      "gas:candidate-vibid:1001000136162": 35,
+      "gas:candidate-vibid:1001000121946": 95,
+      "special:against-all": 113
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370413&region=0&sub_region=0&type=429",
@@ -3690,14 +3690,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 407,
-      "Егорова Любовь Ивановна": 36,
-      "Иванова Валентина Николаевна": 290,
-      "Лихачев Дмитрий Юрьевич": 37,
-      "Онищенко Игорь Николаевич": 40,
-      "Савельев Игорь Витальевич": 51,
-      "Федоров Владимир Игоревич": 111,
-      "Против всех": 122
+      "gas:candidate-vibid:1001000112283": 407,
+      "gas:candidate-vibid:1001000195177": 36,
+      "gas:candidate-vibid:1001000226018": 290,
+      "gas:candidate-vibid:1001000190464": 37,
+      "gas:candidate-vibid:1001000121293": 40,
+      "gas:candidate-vibid:1001000136162": 51,
+      "gas:candidate-vibid:1001000121946": 111,
+      "special:against-all": 122
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370413&region=0&sub_region=0&type=429",
@@ -3747,14 +3747,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 350,
-      "Егорова Любовь Ивановна": 44,
-      "Иванова Валентина Николаевна": 256,
-      "Лихачев Дмитрий Юрьевич": 33,
-      "Онищенко Игорь Николаевич": 29,
-      "Савельев Игорь Витальевич": 39,
-      "Федоров Владимир Игоревич": 67,
-      "Против всех": 86
+      "gas:candidate-vibid:1001000112283": 350,
+      "gas:candidate-vibid:1001000195177": 44,
+      "gas:candidate-vibid:1001000226018": 256,
+      "gas:candidate-vibid:1001000190464": 33,
+      "gas:candidate-vibid:1001000121293": 29,
+      "gas:candidate-vibid:1001000136162": 39,
+      "gas:candidate-vibid:1001000121946": 67,
+      "special:against-all": 86
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370413&region=0&sub_region=0&type=429",
@@ -3804,14 +3804,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 337,
-      "Егорова Любовь Ивановна": 36,
-      "Иванова Валентина Николаевна": 342,
-      "Лихачев Дмитрий Юрьевич": 41,
-      "Онищенко Игорь Николаевич": 30,
-      "Савельев Игорь Витальевич": 46,
-      "Федоров Владимир Игоревич": 138,
-      "Против всех": 90
+      "gas:candidate-vibid:1001000112283": 337,
+      "gas:candidate-vibid:1001000195177": 36,
+      "gas:candidate-vibid:1001000226018": 342,
+      "gas:candidate-vibid:1001000190464": 41,
+      "gas:candidate-vibid:1001000121293": 30,
+      "gas:candidate-vibid:1001000136162": 46,
+      "gas:candidate-vibid:1001000121946": 138,
+      "special:against-all": 90
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370413&region=0&sub_region=0&type=429",
@@ -3861,14 +3861,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 326,
-      "Егорова Любовь Ивановна": 23,
-      "Иванова Валентина Николаевна": 266,
-      "Лихачев Дмитрий Юрьевич": 50,
-      "Онищенко Игорь Николаевич": 22,
-      "Савельев Игорь Витальевич": 18,
-      "Федоров Владимир Игоревич": 71,
-      "Против всех": 110
+      "gas:candidate-vibid:1001000112283": 326,
+      "gas:candidate-vibid:1001000195177": 23,
+      "gas:candidate-vibid:1001000226018": 266,
+      "gas:candidate-vibid:1001000190464": 50,
+      "gas:candidate-vibid:1001000121293": 22,
+      "gas:candidate-vibid:1001000136162": 18,
+      "gas:candidate-vibid:1001000121946": 71,
+      "special:against-all": 110
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370413&region=0&sub_region=0&type=429",
@@ -3918,14 +3918,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 315,
-      "Егорова Любовь Ивановна": 27,
-      "Иванова Валентина Николаевна": 276,
-      "Лихачев Дмитрий Юрьевич": 42,
-      "Онищенко Игорь Николаевич": 20,
-      "Савельев Игорь Витальевич": 48,
-      "Федоров Владимир Игоревич": 95,
-      "Против всех": 100
+      "gas:candidate-vibid:1001000112283": 315,
+      "gas:candidate-vibid:1001000195177": 27,
+      "gas:candidate-vibid:1001000226018": 276,
+      "gas:candidate-vibid:1001000190464": 42,
+      "gas:candidate-vibid:1001000121293": 20,
+      "gas:candidate-vibid:1001000136162": 48,
+      "gas:candidate-vibid:1001000121946": 95,
+      "special:against-all": 100
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370413&region=0&sub_region=0&type=429",
@@ -3975,14 +3975,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 432,
-      "Егорова Любовь Ивановна": 39,
-      "Иванова Валентина Николаевна": 327,
-      "Лихачев Дмитрий Юрьевич": 43,
-      "Онищенко Игорь Николаевич": 33,
-      "Савельев Игорь Витальевич": 42,
-      "Федоров Владимир Игоревич": 93,
-      "Против всех": 106
+      "gas:candidate-vibid:1001000112283": 432,
+      "gas:candidate-vibid:1001000195177": 39,
+      "gas:candidate-vibid:1001000226018": 327,
+      "gas:candidate-vibid:1001000190464": 43,
+      "gas:candidate-vibid:1001000121293": 33,
+      "gas:candidate-vibid:1001000136162": 42,
+      "gas:candidate-vibid:1001000121946": 93,
+      "special:against-all": 106
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370413&region=0&sub_region=0&type=429",
@@ -4032,14 +4032,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 340,
-      "Егорова Любовь Ивановна": 55,
-      "Иванова Валентина Николаевна": 293,
-      "Лихачев Дмитрий Юрьевич": 35,
-      "Онищенко Игорь Николаевич": 16,
-      "Савельев Игорь Витальевич": 29,
-      "Федоров Владимир Игоревич": 78,
-      "Против всех": 96
+      "gas:candidate-vibid:1001000112283": 340,
+      "gas:candidate-vibid:1001000195177": 55,
+      "gas:candidate-vibid:1001000226018": 293,
+      "gas:candidate-vibid:1001000190464": 35,
+      "gas:candidate-vibid:1001000121293": 16,
+      "gas:candidate-vibid:1001000136162": 29,
+      "gas:candidate-vibid:1001000121946": 78,
+      "special:against-all": 96
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370413&region=0&sub_region=0&type=429",
@@ -4089,14 +4089,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 342,
-      "Егорова Любовь Ивановна": 30,
-      "Иванова Валентина Николаевна": 257,
-      "Лихачев Дмитрий Юрьевич": 41,
-      "Онищенко Игорь Николаевич": 14,
-      "Савельев Игорь Витальевич": 28,
-      "Федоров Владимир Игоревич": 77,
-      "Против всех": 121
+      "gas:candidate-vibid:1001000112283": 342,
+      "gas:candidate-vibid:1001000195177": 30,
+      "gas:candidate-vibid:1001000226018": 257,
+      "gas:candidate-vibid:1001000190464": 41,
+      "gas:candidate-vibid:1001000121293": 14,
+      "gas:candidate-vibid:1001000136162": 28,
+      "gas:candidate-vibid:1001000121946": 77,
+      "special:against-all": 121
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370413&region=0&sub_region=0&type=429",
@@ -4146,14 +4146,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 430,
-      "Егорова Любовь Ивановна": 37,
-      "Иванова Валентина Николаевна": 297,
-      "Лихачев Дмитрий Юрьевич": 49,
-      "Онищенко Игорь Николаевич": 30,
-      "Савельев Игорь Витальевич": 63,
-      "Федоров Владимир Игоревич": 131,
-      "Против всех": 133
+      "gas:candidate-vibid:1001000112283": 430,
+      "gas:candidate-vibid:1001000195177": 37,
+      "gas:candidate-vibid:1001000226018": 297,
+      "gas:candidate-vibid:1001000190464": 49,
+      "gas:candidate-vibid:1001000121293": 30,
+      "gas:candidate-vibid:1001000136162": 63,
+      "gas:candidate-vibid:1001000121946": 131,
+      "special:against-all": 133
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370413&region=0&sub_region=0&type=429",
@@ -4203,14 +4203,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 353,
-      "Егорова Любовь Ивановна": 51,
-      "Иванова Валентина Николаевна": 398,
-      "Лихачев Дмитрий Юрьевич": 51,
-      "Онищенко Игорь Николаевич": 29,
-      "Савельев Игорь Витальевич": 54,
-      "Федоров Владимир Игоревич": 110,
-      "Против всех": 114
+      "gas:candidate-vibid:1001000112283": 353,
+      "gas:candidate-vibid:1001000195177": 51,
+      "gas:candidate-vibid:1001000226018": 398,
+      "gas:candidate-vibid:1001000190464": 51,
+      "gas:candidate-vibid:1001000121293": 29,
+      "gas:candidate-vibid:1001000136162": 54,
+      "gas:candidate-vibid:1001000121946": 110,
+      "special:against-all": 114
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370413&region=0&sub_region=0&type=429",
@@ -4260,14 +4260,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 362,
-      "Егорова Любовь Ивановна": 59,
-      "Иванова Валентина Николаевна": 377,
-      "Лихачев Дмитрий Юрьевич": 60,
-      "Онищенко Игорь Николаевич": 37,
-      "Савельев Игорь Витальевич": 40,
-      "Федоров Владимир Игоревич": 101,
-      "Против всех": 115
+      "gas:candidate-vibid:1001000112283": 362,
+      "gas:candidate-vibid:1001000195177": 59,
+      "gas:candidate-vibid:1001000226018": 377,
+      "gas:candidate-vibid:1001000190464": 60,
+      "gas:candidate-vibid:1001000121293": 37,
+      "gas:candidate-vibid:1001000136162": 40,
+      "gas:candidate-vibid:1001000121946": 101,
+      "special:against-all": 115
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370413&region=0&sub_region=0&type=429",
@@ -4317,14 +4317,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 473,
-      "Егорова Любовь Ивановна": 45,
-      "Иванова Валентина Николаевна": 397,
-      "Лихачев Дмитрий Юрьевич": 44,
-      "Онищенко Игорь Николаевич": 47,
-      "Савельев Игорь Витальевич": 40,
-      "Федоров Владимир Игоревич": 137,
-      "Против всех": 151
+      "gas:candidate-vibid:1001000112283": 473,
+      "gas:candidate-vibid:1001000195177": 45,
+      "gas:candidate-vibid:1001000226018": 397,
+      "gas:candidate-vibid:1001000190464": 44,
+      "gas:candidate-vibid:1001000121293": 47,
+      "gas:candidate-vibid:1001000136162": 40,
+      "gas:candidate-vibid:1001000121946": 137,
+      "special:against-all": 151
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370413&region=0&sub_region=0&type=429",
@@ -4374,14 +4374,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 423,
-      "Егорова Любовь Ивановна": 29,
-      "Иванова Валентина Николаевна": 342,
-      "Лихачев Дмитрий Юрьевич": 39,
-      "Онищенко Игорь Николаевич": 25,
-      "Савельев Игорь Витальевич": 66,
-      "Федоров Владимир Игоревич": 111,
-      "Против всех": 117
+      "gas:candidate-vibid:1001000112283": 423,
+      "gas:candidate-vibid:1001000195177": 29,
+      "gas:candidate-vibid:1001000226018": 342,
+      "gas:candidate-vibid:1001000190464": 39,
+      "gas:candidate-vibid:1001000121293": 25,
+      "gas:candidate-vibid:1001000136162": 66,
+      "gas:candidate-vibid:1001000121946": 111,
+      "special:against-all": 117
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370413&region=0&sub_region=0&type=429",
@@ -4431,14 +4431,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 329,
-      "Егорова Любовь Ивановна": 31,
-      "Иванова Валентина Николаевна": 248,
-      "Лихачев Дмитрий Юрьевич": 56,
-      "Онищенко Игорь Николаевич": 22,
-      "Савельев Игорь Витальевич": 32,
-      "Федоров Владимир Игоревич": 82,
-      "Против всех": 89
+      "gas:candidate-vibid:1001000112283": 329,
+      "gas:candidate-vibid:1001000195177": 31,
+      "gas:candidate-vibid:1001000226018": 248,
+      "gas:candidate-vibid:1001000190464": 56,
+      "gas:candidate-vibid:1001000121293": 22,
+      "gas:candidate-vibid:1001000136162": 32,
+      "gas:candidate-vibid:1001000121946": 82,
+      "special:against-all": 89
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370413&region=0&sub_region=0&type=429",
@@ -4488,14 +4488,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 354,
-      "Егорова Любовь Ивановна": 32,
-      "Иванова Валентина Николаевна": 311,
-      "Лихачев Дмитрий Юрьевич": 32,
-      "Онищенко Игорь Николаевич": 14,
-      "Савельев Игорь Витальевич": 51,
-      "Федоров Владимир Игоревич": 86,
-      "Против всех": 82
+      "gas:candidate-vibid:1001000112283": 354,
+      "gas:candidate-vibid:1001000195177": 32,
+      "gas:candidate-vibid:1001000226018": 311,
+      "gas:candidate-vibid:1001000190464": 32,
+      "gas:candidate-vibid:1001000121293": 14,
+      "gas:candidate-vibid:1001000136162": 51,
+      "gas:candidate-vibid:1001000121946": 86,
+      "special:against-all": 82
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370413&region=0&sub_region=0&type=429",
@@ -4545,14 +4545,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 267,
-      "Егорова Любовь Ивановна": 28,
-      "Иванова Валентина Николаевна": 213,
-      "Лихачев Дмитрий Юрьевич": 22,
-      "Онищенко Игорь Николаевич": 10,
-      "Савельев Игорь Витальевич": 22,
-      "Федоров Владимир Игоревич": 63,
-      "Против всех": 101
+      "gas:candidate-vibid:1001000112283": 267,
+      "gas:candidate-vibid:1001000195177": 28,
+      "gas:candidate-vibid:1001000226018": 213,
+      "gas:candidate-vibid:1001000190464": 22,
+      "gas:candidate-vibid:1001000121293": 10,
+      "gas:candidate-vibid:1001000136162": 22,
+      "gas:candidate-vibid:1001000121946": 63,
+      "special:against-all": 101
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370413&region=0&sub_region=0&type=429",
@@ -4602,14 +4602,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 284,
-      "Егорова Любовь Ивановна": 27,
-      "Иванова Валентина Николаевна": 177,
-      "Лихачев Дмитрий Юрьевич": 32,
-      "Онищенко Игорь Николаевич": 17,
-      "Савельев Игорь Витальевич": 17,
-      "Федоров Владимир Игоревич": 69,
-      "Против всех": 78
+      "gas:candidate-vibid:1001000112283": 284,
+      "gas:candidate-vibid:1001000195177": 27,
+      "gas:candidate-vibid:1001000226018": 177,
+      "gas:candidate-vibid:1001000190464": 32,
+      "gas:candidate-vibid:1001000121293": 17,
+      "gas:candidate-vibid:1001000136162": 17,
+      "gas:candidate-vibid:1001000121946": 69,
+      "special:against-all": 78
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370413&region=0&sub_region=0&type=429",
@@ -4659,14 +4659,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 409,
-      "Егорова Любовь Ивановна": 39,
-      "Иванова Валентина Николаевна": 252,
-      "Лихачев Дмитрий Юрьевич": 51,
-      "Онищенко Игорь Николаевич": 30,
-      "Савельев Игорь Витальевич": 35,
-      "Федоров Владимир Игоревич": 111,
-      "Против всех": 103
+      "gas:candidate-vibid:1001000112283": 409,
+      "gas:candidate-vibid:1001000195177": 39,
+      "gas:candidate-vibid:1001000226018": 252,
+      "gas:candidate-vibid:1001000190464": 51,
+      "gas:candidate-vibid:1001000121293": 30,
+      "gas:candidate-vibid:1001000136162": 35,
+      "gas:candidate-vibid:1001000121946": 111,
+      "special:against-all": 103
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370413&region=0&sub_region=0&type=429",
@@ -4716,14 +4716,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 494,
-      "Егорова Любовь Ивановна": 41,
-      "Иванова Валентина Николаевна": 265,
-      "Лихачев Дмитрий Юрьевич": 61,
-      "Онищенко Игорь Николаевич": 19,
-      "Савельев Игорь Витальевич": 44,
-      "Федоров Владимир Игоревич": 89,
-      "Против всех": 104
+      "gas:candidate-vibid:1001000112283": 494,
+      "gas:candidate-vibid:1001000195177": 41,
+      "gas:candidate-vibid:1001000226018": 265,
+      "gas:candidate-vibid:1001000190464": 61,
+      "gas:candidate-vibid:1001000121293": 19,
+      "gas:candidate-vibid:1001000136162": 44,
+      "gas:candidate-vibid:1001000121946": 89,
+      "special:against-all": 104
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370413&region=0&sub_region=0&type=429",
@@ -4773,14 +4773,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 332,
-      "Егорова Любовь Ивановна": 30,
-      "Иванова Валентина Николаевна": 240,
-      "Лихачев Дмитрий Юрьевич": 57,
-      "Онищенко Игорь Николаевич": 26,
-      "Савельев Игорь Витальевич": 38,
-      "Федоров Владимир Игоревич": 97,
-      "Против всех": 86
+      "gas:candidate-vibid:1001000112283": 332,
+      "gas:candidate-vibid:1001000195177": 30,
+      "gas:candidate-vibid:1001000226018": 240,
+      "gas:candidate-vibid:1001000190464": 57,
+      "gas:candidate-vibid:1001000121293": 26,
+      "gas:candidate-vibid:1001000136162": 38,
+      "gas:candidate-vibid:1001000121946": 97,
+      "special:against-all": 86
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370413&region=0&sub_region=0&type=429",
@@ -4830,14 +4830,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 370,
-      "Егорова Любовь Ивановна": 34,
-      "Иванова Валентина Николаевна": 227,
-      "Лихачев Дмитрий Юрьевич": 51,
-      "Онищенко Игорь Николаевич": 32,
-      "Савельев Игорь Витальевич": 29,
-      "Федоров Владимир Игоревич": 75,
-      "Против всех": 92
+      "gas:candidate-vibid:1001000112283": 370,
+      "gas:candidate-vibid:1001000195177": 34,
+      "gas:candidate-vibid:1001000226018": 227,
+      "gas:candidate-vibid:1001000190464": 51,
+      "gas:candidate-vibid:1001000121293": 32,
+      "gas:candidate-vibid:1001000136162": 29,
+      "gas:candidate-vibid:1001000121946": 75,
+      "special:against-all": 92
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370413&region=0&sub_region=0&type=429",
@@ -4887,14 +4887,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 237,
-      "Егорова Любовь Ивановна": 37,
-      "Иванова Валентина Николаевна": 233,
-      "Лихачев Дмитрий Юрьевич": 41,
-      "Онищенко Игорь Николаевич": 27,
-      "Савельев Игорь Витальевич": 22,
-      "Федоров Владимир Игоревич": 56,
-      "Против всех": 83
+      "gas:candidate-vibid:1001000112283": 237,
+      "gas:candidate-vibid:1001000195177": 37,
+      "gas:candidate-vibid:1001000226018": 233,
+      "gas:candidate-vibid:1001000190464": 41,
+      "gas:candidate-vibid:1001000121293": 27,
+      "gas:candidate-vibid:1001000136162": 22,
+      "gas:candidate-vibid:1001000121946": 56,
+      "special:against-all": 83
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370413&region=0&sub_region=0&type=429",
@@ -4944,14 +4944,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 452,
-      "Егорова Любовь Ивановна": 60,
-      "Иванова Валентина Николаевна": 387,
-      "Лихачев Дмитрий Юрьевич": 74,
-      "Онищенко Игорь Николаевич": 33,
-      "Савельев Игорь Витальевич": 56,
-      "Федоров Владимир Игоревич": 141,
-      "Против всех": 135
+      "gas:candidate-vibid:1001000112283": 452,
+      "gas:candidate-vibid:1001000195177": 60,
+      "gas:candidate-vibid:1001000226018": 387,
+      "gas:candidate-vibid:1001000190464": 74,
+      "gas:candidate-vibid:1001000121293": 33,
+      "gas:candidate-vibid:1001000136162": 56,
+      "gas:candidate-vibid:1001000121946": 141,
+      "special:against-all": 135
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370413&region=0&sub_region=0&type=429",
@@ -5001,14 +5001,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 479,
-      "Егорова Любовь Ивановна": 43,
-      "Иванова Валентина Николаевна": 257,
-      "Лихачев Дмитрий Юрьевич": 73,
-      "Онищенко Игорь Николаевич": 30,
-      "Савельев Игорь Витальевич": 34,
-      "Федоров Владимир Игоревич": 103,
-      "Против всех": 121
+      "gas:candidate-vibid:1001000112283": 479,
+      "gas:candidate-vibid:1001000195177": 43,
+      "gas:candidate-vibid:1001000226018": 257,
+      "gas:candidate-vibid:1001000190464": 73,
+      "gas:candidate-vibid:1001000121293": 30,
+      "gas:candidate-vibid:1001000136162": 34,
+      "gas:candidate-vibid:1001000121946": 103,
+      "special:against-all": 121
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370413&region=0&sub_region=0&type=429",
@@ -5058,14 +5058,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 414,
-      "Егорова Любовь Ивановна": 41,
-      "Иванова Валентина Николаевна": 303,
-      "Лихачев Дмитрий Юрьевич": 81,
-      "Онищенко Игорь Николаевич": 26,
-      "Савельев Игорь Витальевич": 39,
-      "Федоров Владимир Игоревич": 109,
-      "Против всех": 105
+      "gas:candidate-vibid:1001000112283": 414,
+      "gas:candidate-vibid:1001000195177": 41,
+      "gas:candidate-vibid:1001000226018": 303,
+      "gas:candidate-vibid:1001000190464": 81,
+      "gas:candidate-vibid:1001000121293": 26,
+      "gas:candidate-vibid:1001000136162": 39,
+      "gas:candidate-vibid:1001000121946": 109,
+      "special:against-all": 105
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370413&region=0&sub_region=0&type=429",
@@ -5115,14 +5115,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 462,
-      "Егорова Любовь Ивановна": 47,
-      "Иванова Валентина Николаевна": 292,
-      "Лихачев Дмитрий Юрьевич": 56,
-      "Онищенко Игорь Николаевич": 18,
-      "Савельев Игорь Витальевич": 50,
-      "Федоров Владимир Игоревич": 145,
-      "Против всех": 139
+      "gas:candidate-vibid:1001000112283": 462,
+      "gas:candidate-vibid:1001000195177": 47,
+      "gas:candidate-vibid:1001000226018": 292,
+      "gas:candidate-vibid:1001000190464": 56,
+      "gas:candidate-vibid:1001000121293": 18,
+      "gas:candidate-vibid:1001000136162": 50,
+      "gas:candidate-vibid:1001000121946": 145,
+      "special:against-all": 139
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370413&region=0&sub_region=0&type=429",
@@ -5172,14 +5172,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 375,
-      "Егорова Любовь Ивановна": 29,
-      "Иванова Валентина Николаевна": 294,
-      "Лихачев Дмитрий Юрьевич": 40,
-      "Онищенко Игорь Николаевич": 23,
-      "Савельев Игорь Витальевич": 43,
-      "Федоров Владимир Игоревич": 117,
-      "Против всех": 140
+      "gas:candidate-vibid:1001000112283": 375,
+      "gas:candidate-vibid:1001000195177": 29,
+      "gas:candidate-vibid:1001000226018": 294,
+      "gas:candidate-vibid:1001000190464": 40,
+      "gas:candidate-vibid:1001000121293": 23,
+      "gas:candidate-vibid:1001000136162": 43,
+      "gas:candidate-vibid:1001000121946": 117,
+      "special:against-all": 140
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370413&region=0&sub_region=0&type=429",
@@ -5229,14 +5229,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 231,
-      "Егорова Любовь Ивановна": 17,
-      "Иванова Валентина Николаевна": 161,
-      "Лихачев Дмитрий Юрьевич": 33,
-      "Онищенко Игорь Николаевич": 10,
-      "Савельев Игорь Витальевич": 23,
-      "Федоров Владимир Игоревич": 50,
-      "Против всех": 73
+      "gas:candidate-vibid:1001000112283": 231,
+      "gas:candidate-vibid:1001000195177": 17,
+      "gas:candidate-vibid:1001000226018": 161,
+      "gas:candidate-vibid:1001000190464": 33,
+      "gas:candidate-vibid:1001000121293": 10,
+      "gas:candidate-vibid:1001000136162": 23,
+      "gas:candidate-vibid:1001000121946": 50,
+      "special:against-all": 73
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370413&region=0&sub_region=0&type=429",
@@ -5286,14 +5286,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 359,
-      "Егорова Любовь Ивановна": 24,
-      "Иванова Валентина Николаевна": 229,
-      "Лихачев Дмитрий Юрьевич": 25,
-      "Онищенко Игорь Николаевич": 24,
-      "Савельев Игорь Витальевич": 42,
-      "Федоров Владимир Игоревич": 61,
-      "Против всех": 87
+      "gas:candidate-vibid:1001000112283": 359,
+      "gas:candidate-vibid:1001000195177": 24,
+      "gas:candidate-vibid:1001000226018": 229,
+      "gas:candidate-vibid:1001000190464": 25,
+      "gas:candidate-vibid:1001000121293": 24,
+      "gas:candidate-vibid:1001000136162": 42,
+      "gas:candidate-vibid:1001000121946": 61,
+      "special:against-all": 87
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370413&region=0&sub_region=0&type=429",
@@ -5343,14 +5343,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 315,
-      "Егорова Любовь Ивановна": 22,
-      "Иванова Валентина Николаевна": 230,
-      "Лихачев Дмитрий Юрьевич": 77,
-      "Онищенко Игорь Николаевич": 18,
-      "Савельев Игорь Витальевич": 94,
-      "Федоров Владимир Игоревич": 26,
-      "Против всех": 87
+      "gas:candidate-vibid:1001000112283": 315,
+      "gas:candidate-vibid:1001000195177": 22,
+      "gas:candidate-vibid:1001000226018": 230,
+      "gas:candidate-vibid:1001000190464": 77,
+      "gas:candidate-vibid:1001000121293": 18,
+      "gas:candidate-vibid:1001000136162": 94,
+      "gas:candidate-vibid:1001000121946": 26,
+      "special:against-all": 87
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370413&region=0&sub_region=0&type=429",
@@ -5400,14 +5400,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 406,
-      "Егорова Любовь Ивановна": 17,
-      "Иванова Валентина Николаевна": 196,
-      "Лихачев Дмитрий Юрьевич": 48,
-      "Онищенко Игорь Николаевич": 19,
-      "Савельев Игорь Витальевич": 39,
-      "Федоров Владимир Игоревич": 69,
-      "Против всех": 72
+      "gas:candidate-vibid:1001000112283": 406,
+      "gas:candidate-vibid:1001000195177": 17,
+      "gas:candidate-vibid:1001000226018": 196,
+      "gas:candidate-vibid:1001000190464": 48,
+      "gas:candidate-vibid:1001000121293": 19,
+      "gas:candidate-vibid:1001000136162": 39,
+      "gas:candidate-vibid:1001000121946": 69,
+      "special:against-all": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370413&region=0&sub_region=0&type=429",
@@ -5457,14 +5457,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 419,
-      "Егорова Любовь Ивановна": 32,
-      "Иванова Валентина Николаевна": 292,
-      "Лихачев Дмитрий Юрьевич": 31,
-      "Онищенко Игорь Николаевич": 27,
-      "Савельев Игорь Витальевич": 40,
-      "Федоров Владимир Игоревич": 120,
-      "Против всех": 108
+      "gas:candidate-vibid:1001000112283": 419,
+      "gas:candidate-vibid:1001000195177": 32,
+      "gas:candidate-vibid:1001000226018": 292,
+      "gas:candidate-vibid:1001000190464": 31,
+      "gas:candidate-vibid:1001000121293": 27,
+      "gas:candidate-vibid:1001000136162": 40,
+      "gas:candidate-vibid:1001000121946": 120,
+      "special:against-all": 108
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370413&region=0&sub_region=0&type=429",
@@ -5514,14 +5514,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 503,
-      "Егорова Любовь Ивановна": 24,
-      "Иванова Валентина Николаевна": 263,
-      "Лихачев Дмитрий Юрьевич": 61,
-      "Онищенко Игорь Николаевич": 26,
-      "Савельев Игорь Витальевич": 44,
-      "Федоров Владимир Игоревич": 110,
-      "Против всех": 136
+      "gas:candidate-vibid:1001000112283": 503,
+      "gas:candidate-vibid:1001000195177": 24,
+      "gas:candidate-vibid:1001000226018": 263,
+      "gas:candidate-vibid:1001000190464": 61,
+      "gas:candidate-vibid:1001000121293": 26,
+      "gas:candidate-vibid:1001000136162": 44,
+      "gas:candidate-vibid:1001000121946": 110,
+      "special:against-all": 136
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370413&region=0&sub_region=0&type=429",
@@ -5571,14 +5571,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 353,
-      "Егорова Любовь Ивановна": 45,
-      "Иванова Валентина Николаевна": 274,
-      "Лихачев Дмитрий Юрьевич": 43,
-      "Онищенко Игорь Николаевич": 19,
-      "Савельев Игорь Витальевич": 48,
-      "Федоров Владимир Игоревич": 116,
-      "Против всех": 92
+      "gas:candidate-vibid:1001000112283": 353,
+      "gas:candidate-vibid:1001000195177": 45,
+      "gas:candidate-vibid:1001000226018": 274,
+      "gas:candidate-vibid:1001000190464": 43,
+      "gas:candidate-vibid:1001000121293": 19,
+      "gas:candidate-vibid:1001000136162": 48,
+      "gas:candidate-vibid:1001000121946": 116,
+      "special:against-all": 92
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370413&region=0&sub_region=0&type=429",
@@ -5628,14 +5628,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 332,
-      "Егорова Любовь Ивановна": 47,
-      "Иванова Валентина Николаевна": 284,
-      "Лихачев Дмитрий Юрьевич": 84,
-      "Онищенко Игорь Николаевич": 25,
-      "Савельев Игорь Витальевич": 54,
-      "Федоров Владимир Игоревич": 95,
-      "Против всех": 100
+      "gas:candidate-vibid:1001000112283": 332,
+      "gas:candidate-vibid:1001000195177": 47,
+      "gas:candidate-vibid:1001000226018": 284,
+      "gas:candidate-vibid:1001000190464": 84,
+      "gas:candidate-vibid:1001000121293": 25,
+      "gas:candidate-vibid:1001000136162": 54,
+      "gas:candidate-vibid:1001000121946": 95,
+      "special:against-all": 100
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370413&region=0&sub_region=0&type=429",
@@ -5685,14 +5685,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 394,
-      "Егорова Любовь Ивановна": 47,
-      "Иванова Валентина Николаевна": 324,
-      "Лихачев Дмитрий Юрьевич": 54,
-      "Онищенко Игорь Николаевич": 24,
-      "Савельев Игорь Витальевич": 51,
-      "Федоров Владимир Игоревич": 120,
-      "Против всех": 134
+      "gas:candidate-vibid:1001000112283": 394,
+      "gas:candidate-vibid:1001000195177": 47,
+      "gas:candidate-vibid:1001000226018": 324,
+      "gas:candidate-vibid:1001000190464": 54,
+      "gas:candidate-vibid:1001000121293": 24,
+      "gas:candidate-vibid:1001000136162": 51,
+      "gas:candidate-vibid:1001000121946": 120,
+      "special:against-all": 134
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370413&region=0&sub_region=0&type=429",
@@ -5742,14 +5742,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 366,
-      "Егорова Любовь Ивановна": 42,
-      "Иванова Валентина Николаевна": 334,
-      "Лихачев Дмитрий Юрьевич": 65,
-      "Онищенко Игорь Николаевич": 21,
-      "Савельев Игорь Витальевич": 43,
-      "Федоров Владимир Игоревич": 99,
-      "Против всех": 103
+      "gas:candidate-vibid:1001000112283": 366,
+      "gas:candidate-vibid:1001000195177": 42,
+      "gas:candidate-vibid:1001000226018": 334,
+      "gas:candidate-vibid:1001000190464": 65,
+      "gas:candidate-vibid:1001000121293": 21,
+      "gas:candidate-vibid:1001000136162": 43,
+      "gas:candidate-vibid:1001000121946": 99,
+      "special:against-all": 103
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370413&region=0&sub_region=0&type=429",
@@ -5799,14 +5799,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 78,
-      "Егорова Любовь Ивановна": 16,
-      "Иванова Валентина Николаевна": 91,
-      "Лихачев Дмитрий Юрьевич": 16,
-      "Онищенко Игорь Николаевич": 13,
-      "Савельев Игорь Витальевич": 14,
-      "Федоров Владимир Игоревич": 28,
-      "Против всех": 60
+      "gas:candidate-vibid:1001000112283": 78,
+      "gas:candidate-vibid:1001000195177": 16,
+      "gas:candidate-vibid:1001000226018": 91,
+      "gas:candidate-vibid:1001000190464": 16,
+      "gas:candidate-vibid:1001000121293": 13,
+      "gas:candidate-vibid:1001000136162": 14,
+      "gas:candidate-vibid:1001000121946": 28,
+      "special:against-all": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370413&region=0&sub_region=0&type=429",
@@ -5856,14 +5856,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 273,
-      "Егорова Любовь Ивановна": 19,
-      "Иванова Валентина Николаевна": 256,
-      "Лихачев Дмитрий Юрьевич": 57,
-      "Онищенко Игорь Николаевич": 20,
-      "Савельев Игорь Витальевич": 32,
-      "Федоров Владимир Игоревич": 80,
-      "Против всех": 74
+      "gas:candidate-vibid:1001000112283": 273,
+      "gas:candidate-vibid:1001000195177": 19,
+      "gas:candidate-vibid:1001000226018": 256,
+      "gas:candidate-vibid:1001000190464": 57,
+      "gas:candidate-vibid:1001000121293": 20,
+      "gas:candidate-vibid:1001000136162": 32,
+      "gas:candidate-vibid:1001000121946": 80,
+      "special:against-all": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370413&region=0&sub_region=0&type=429",
@@ -5913,14 +5913,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 302,
-      "Егорова Любовь Ивановна": 34,
-      "Иванова Валентина Николаевна": 252,
-      "Лихачев Дмитрий Юрьевич": 49,
-      "Онищенко Игорь Николаевич": 14,
-      "Савельев Игорь Витальевич": 42,
-      "Федоров Владимир Игоревич": 93,
-      "Против всех": 86
+      "gas:candidate-vibid:1001000112283": 302,
+      "gas:candidate-vibid:1001000195177": 34,
+      "gas:candidate-vibid:1001000226018": 252,
+      "gas:candidate-vibid:1001000190464": 49,
+      "gas:candidate-vibid:1001000121293": 14,
+      "gas:candidate-vibid:1001000136162": 42,
+      "gas:candidate-vibid:1001000121946": 93,
+      "special:against-all": 86
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370413&region=0&sub_region=0&type=429",
@@ -5970,14 +5970,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 337,
-      "Егорова Любовь Ивановна": 36,
-      "Иванова Валентина Николаевна": 259,
-      "Лихачев Дмитрий Юрьевич": 51,
-      "Онищенко Игорь Николаевич": 12,
-      "Савельев Игорь Витальевич": 37,
-      "Федоров Владимир Игоревич": 80,
-      "Против всех": 101
+      "gas:candidate-vibid:1001000112283": 337,
+      "gas:candidate-vibid:1001000195177": 36,
+      "gas:candidate-vibid:1001000226018": 259,
+      "gas:candidate-vibid:1001000190464": 51,
+      "gas:candidate-vibid:1001000121293": 12,
+      "gas:candidate-vibid:1001000136162": 37,
+      "gas:candidate-vibid:1001000121946": 80,
+      "special:against-all": 101
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370413&region=0&sub_region=0&type=429",
@@ -6027,14 +6027,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 2,
-      "Егорова Любовь Ивановна": 0,
-      "Иванова Валентина Николаевна": 4,
-      "Лихачев Дмитрий Юрьевич": 2,
-      "Онищенко Игорь Николаевич": 0,
-      "Савельев Игорь Витальевич": 2,
-      "Федоров Владимир Игоревич": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000112283": 2,
+      "gas:candidate-vibid:1001000195177": 0,
+      "gas:candidate-vibid:1001000226018": 4,
+      "gas:candidate-vibid:1001000190464": 2,
+      "gas:candidate-vibid:1001000121293": 0,
+      "gas:candidate-vibid:1001000136162": 2,
+      "gas:candidate-vibid:1001000121946": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370413&region=0&sub_region=0&type=429",
@@ -6084,14 +6084,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 261,
-      "Егорова Любовь Ивановна": 12,
-      "Иванова Валентина Николаевна": 168,
-      "Лихачев Дмитрий Юрьевич": 31,
-      "Онищенко Игорь Николаевич": 11,
-      "Савельев Игорь Витальевич": 25,
-      "Федоров Владимир Игоревич": 70,
-      "Против всех": 75
+      "gas:candidate-vibid:1001000112283": 261,
+      "gas:candidate-vibid:1001000195177": 12,
+      "gas:candidate-vibid:1001000226018": 168,
+      "gas:candidate-vibid:1001000190464": 31,
+      "gas:candidate-vibid:1001000121293": 11,
+      "gas:candidate-vibid:1001000136162": 25,
+      "gas:candidate-vibid:1001000121946": 70,
+      "special:against-all": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370413&region=0&sub_region=0&type=429",
@@ -6141,14 +6141,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 113,
-      "Егорова Любовь Ивановна": 20,
-      "Иванова Валентина Николаевна": 179,
-      "Лихачев Дмитрий Юрьевич": 11,
-      "Онищенко Игорь Николаевич": 11,
-      "Савельев Игорь Витальевич": 17,
-      "Федоров Владимир Игоревич": 46,
-      "Против всех": 41
+      "gas:candidate-vibid:1001000112283": 113,
+      "gas:candidate-vibid:1001000195177": 20,
+      "gas:candidate-vibid:1001000226018": 179,
+      "gas:candidate-vibid:1001000190464": 11,
+      "gas:candidate-vibid:1001000121293": 11,
+      "gas:candidate-vibid:1001000136162": 17,
+      "gas:candidate-vibid:1001000121946": 46,
+      "special:against-all": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370414&region=0&sub_region=0&type=429",
@@ -6198,14 +6198,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 392,
-      "Егорова Любовь Ивановна": 50,
-      "Иванова Валентина Николаевна": 405,
-      "Лихачев Дмитрий Юрьевич": 42,
-      "Онищенко Игорь Николаевич": 13,
-      "Савельев Игорь Витальевич": 34,
-      "Федоров Владимир Игоревич": 133,
-      "Против всех": 138
+      "gas:candidate-vibid:1001000112283": 392,
+      "gas:candidate-vibid:1001000195177": 50,
+      "gas:candidate-vibid:1001000226018": 405,
+      "gas:candidate-vibid:1001000190464": 42,
+      "gas:candidate-vibid:1001000121293": 13,
+      "gas:candidate-vibid:1001000136162": 34,
+      "gas:candidate-vibid:1001000121946": 133,
+      "special:against-all": 138
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370414&region=0&sub_region=0&type=429",
@@ -6255,14 +6255,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 79,
-      "Егорова Любовь Ивановна": 21,
-      "Иванова Валентина Николаевна": 183,
-      "Лихачев Дмитрий Юрьевич": 12,
-      "Онищенко Игорь Николаевич": 7,
-      "Савельев Игорь Витальевич": 20,
-      "Федоров Владимир Игоревич": 59,
-      "Против всех": 41
+      "gas:candidate-vibid:1001000112283": 79,
+      "gas:candidate-vibid:1001000195177": 21,
+      "gas:candidate-vibid:1001000226018": 183,
+      "gas:candidate-vibid:1001000190464": 12,
+      "gas:candidate-vibid:1001000121293": 7,
+      "gas:candidate-vibid:1001000136162": 20,
+      "gas:candidate-vibid:1001000121946": 59,
+      "special:against-all": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370414&region=0&sub_region=0&type=429",
@@ -6312,14 +6312,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 334,
-      "Егорова Любовь Ивановна": 48,
-      "Иванова Валентина Николаевна": 280,
-      "Лихачев Дмитрий Юрьевич": 57,
-      "Онищенко Игорь Николаевич": 15,
-      "Савельев Игорь Витальевич": 36,
-      "Федоров Владимир Игоревич": 110,
-      "Против всех": 110
+      "gas:candidate-vibid:1001000112283": 334,
+      "gas:candidate-vibid:1001000195177": 48,
+      "gas:candidate-vibid:1001000226018": 280,
+      "gas:candidate-vibid:1001000190464": 57,
+      "gas:candidate-vibid:1001000121293": 15,
+      "gas:candidate-vibid:1001000136162": 36,
+      "gas:candidate-vibid:1001000121946": 110,
+      "special:against-all": 110
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370414&region=0&sub_region=0&type=429",
@@ -6369,14 +6369,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 266,
-      "Егорова Любовь Ивановна": 41,
-      "Иванова Валентина Николаевна": 262,
-      "Лихачев Дмитрий Юрьевич": 67,
-      "Онищенко Игорь Николаевич": 18,
-      "Савельев Игорь Витальевич": 32,
-      "Федоров Владимир Игоревич": 93,
-      "Против всех": 81
+      "gas:candidate-vibid:1001000112283": 266,
+      "gas:candidate-vibid:1001000195177": 41,
+      "gas:candidate-vibid:1001000226018": 262,
+      "gas:candidate-vibid:1001000190464": 67,
+      "gas:candidate-vibid:1001000121293": 18,
+      "gas:candidate-vibid:1001000136162": 32,
+      "gas:candidate-vibid:1001000121946": 93,
+      "special:against-all": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370414&region=0&sub_region=0&type=429",
@@ -6426,14 +6426,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 77,
-      "Егорова Любовь Ивановна": 31,
-      "Иванова Валентина Николаевна": 387,
-      "Лихачев Дмитрий Юрьевич": 78,
-      "Онищенко Игорь Николаевич": 4,
-      "Савельев Игорь Витальевич": 26,
-      "Федоров Владимир Игоревич": 43,
-      "Против всех": 64
+      "gas:candidate-vibid:1001000112283": 77,
+      "gas:candidate-vibid:1001000195177": 31,
+      "gas:candidate-vibid:1001000226018": 387,
+      "gas:candidate-vibid:1001000190464": 78,
+      "gas:candidate-vibid:1001000121293": 4,
+      "gas:candidate-vibid:1001000136162": 26,
+      "gas:candidate-vibid:1001000121946": 43,
+      "special:against-all": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370414&region=0&sub_region=0&type=429",
@@ -6483,14 +6483,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 97,
-      "Егорова Любовь Ивановна": 39,
-      "Иванова Валентина Николаевна": 355,
-      "Лихачев Дмитрий Юрьевич": 33,
-      "Онищенко Игорь Николаевич": 10,
-      "Савельев Игорь Витальевич": 15,
-      "Федоров Владимир Игоревич": 65,
-      "Против всех": 58
+      "gas:candidate-vibid:1001000112283": 97,
+      "gas:candidate-vibid:1001000195177": 39,
+      "gas:candidate-vibid:1001000226018": 355,
+      "gas:candidate-vibid:1001000190464": 33,
+      "gas:candidate-vibid:1001000121293": 10,
+      "gas:candidate-vibid:1001000136162": 15,
+      "gas:candidate-vibid:1001000121946": 65,
+      "special:against-all": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370414&region=0&sub_region=0&type=429",
@@ -6540,14 +6540,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 354,
-      "Егорова Любовь Ивановна": 38,
-      "Иванова Валентина Николаевна": 444,
-      "Лихачев Дмитрий Юрьевич": 28,
-      "Онищенко Игорь Николаевич": 23,
-      "Савельев Игорь Витальевич": 34,
-      "Федоров Владимир Игоревич": 137,
-      "Против всех": 94
+      "gas:candidate-vibid:1001000112283": 354,
+      "gas:candidate-vibid:1001000195177": 38,
+      "gas:candidate-vibid:1001000226018": 444,
+      "gas:candidate-vibid:1001000190464": 28,
+      "gas:candidate-vibid:1001000121293": 23,
+      "gas:candidate-vibid:1001000136162": 34,
+      "gas:candidate-vibid:1001000121946": 137,
+      "special:against-all": 94
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370414&region=0&sub_region=0&type=429",
@@ -6597,14 +6597,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 11,
-      "Егорова Любовь Ивановна": 3,
-      "Иванова Валентина Николаевна": 237,
-      "Лихачев Дмитрий Юрьевич": 11,
-      "Онищенко Игорь Николаевич": 3,
-      "Савельев Игорь Витальевич": 5,
-      "Федоров Владимир Игоревич": 3,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000112283": 11,
+      "gas:candidate-vibid:1001000195177": 3,
+      "gas:candidate-vibid:1001000226018": 237,
+      "gas:candidate-vibid:1001000190464": 11,
+      "gas:candidate-vibid:1001000121293": 3,
+      "gas:candidate-vibid:1001000136162": 5,
+      "gas:candidate-vibid:1001000121946": 3,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370414&region=0&sub_region=0&type=429",
@@ -6654,14 +6654,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 390,
-      "Егорова Любовь Ивановна": 35,
-      "Иванова Валентина Николаевна": 417,
-      "Лихачев Дмитрий Юрьевич": 49,
-      "Онищенко Игорь Николаевич": 16,
-      "Савельев Игорь Витальевич": 35,
-      "Федоров Владимир Игоревич": 131,
-      "Против всех": 105
+      "gas:candidate-vibid:1001000112283": 390,
+      "gas:candidate-vibid:1001000195177": 35,
+      "gas:candidate-vibid:1001000226018": 417,
+      "gas:candidate-vibid:1001000190464": 49,
+      "gas:candidate-vibid:1001000121293": 16,
+      "gas:candidate-vibid:1001000136162": 35,
+      "gas:candidate-vibid:1001000121946": 131,
+      "special:against-all": 105
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370414&region=0&sub_region=0&type=429",
@@ -6711,14 +6711,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 360,
-      "Егорова Любовь Ивановна": 35,
-      "Иванова Валентина Николаевна": 427,
-      "Лихачев Дмитрий Юрьевич": 51,
-      "Онищенко Игорь Николаевич": 22,
-      "Савельев Игорь Витальевич": 26,
-      "Федоров Владимир Игоревич": 127,
-      "Против всех": 103
+      "gas:candidate-vibid:1001000112283": 360,
+      "gas:candidate-vibid:1001000195177": 35,
+      "gas:candidate-vibid:1001000226018": 427,
+      "gas:candidate-vibid:1001000190464": 51,
+      "gas:candidate-vibid:1001000121293": 22,
+      "gas:candidate-vibid:1001000136162": 26,
+      "gas:candidate-vibid:1001000121946": 127,
+      "special:against-all": 103
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370414&region=0&sub_region=0&type=429",
@@ -6768,14 +6768,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 341,
-      "Егорова Любовь Ивановна": 38,
-      "Иванова Валентина Николаевна": 314,
-      "Лихачев Дмитрий Юрьевич": 35,
-      "Онищенко Игорь Николаевич": 16,
-      "Савельев Игорь Витальевич": 39,
-      "Федоров Владимир Игоревич": 116,
-      "Против всех": 83
+      "gas:candidate-vibid:1001000112283": 341,
+      "gas:candidate-vibid:1001000195177": 38,
+      "gas:candidate-vibid:1001000226018": 314,
+      "gas:candidate-vibid:1001000190464": 35,
+      "gas:candidate-vibid:1001000121293": 16,
+      "gas:candidate-vibid:1001000136162": 39,
+      "gas:candidate-vibid:1001000121946": 116,
+      "special:against-all": 83
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370414&region=0&sub_region=0&type=429",
@@ -6825,14 +6825,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 269,
-      "Егорова Любовь Ивановна": 27,
-      "Иванова Валентина Николаевна": 256,
-      "Лихачев Дмитрий Юрьевич": 23,
-      "Онищенко Игорь Николаевич": 17,
-      "Савельев Игорь Витальевич": 25,
-      "Федоров Владимир Игоревич": 74,
-      "Против всех": 77
+      "gas:candidate-vibid:1001000112283": 269,
+      "gas:candidate-vibid:1001000195177": 27,
+      "gas:candidate-vibid:1001000226018": 256,
+      "gas:candidate-vibid:1001000190464": 23,
+      "gas:candidate-vibid:1001000121293": 17,
+      "gas:candidate-vibid:1001000136162": 25,
+      "gas:candidate-vibid:1001000121946": 74,
+      "special:against-all": 77
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370414&region=0&sub_region=0&type=429",
@@ -6882,14 +6882,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 272,
-      "Егорова Любовь Ивановна": 35,
-      "Иванова Валентина Николаевна": 331,
-      "Лихачев Дмитрий Юрьевич": 53,
-      "Онищенко Игорь Николаевич": 13,
-      "Савельев Игорь Витальевич": 28,
-      "Федоров Владимир Игоревич": 102,
-      "Против всех": 78
+      "gas:candidate-vibid:1001000112283": 272,
+      "gas:candidate-vibid:1001000195177": 35,
+      "gas:candidate-vibid:1001000226018": 331,
+      "gas:candidate-vibid:1001000190464": 53,
+      "gas:candidate-vibid:1001000121293": 13,
+      "gas:candidate-vibid:1001000136162": 28,
+      "gas:candidate-vibid:1001000121946": 102,
+      "special:against-all": 78
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370414&region=0&sub_region=0&type=429",
@@ -6939,14 +6939,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 386,
-      "Егорова Любовь Ивановна": 38,
-      "Иванова Валентина Николаевна": 323,
-      "Лихачев Дмитрий Юрьевич": 48,
-      "Онищенко Игорь Николаевич": 11,
-      "Савельев Игорь Витальевич": 38,
-      "Федоров Владимир Игоревич": 138,
-      "Против всех": 141
+      "gas:candidate-vibid:1001000112283": 386,
+      "gas:candidate-vibid:1001000195177": 38,
+      "gas:candidate-vibid:1001000226018": 323,
+      "gas:candidate-vibid:1001000190464": 48,
+      "gas:candidate-vibid:1001000121293": 11,
+      "gas:candidate-vibid:1001000136162": 38,
+      "gas:candidate-vibid:1001000121946": 138,
+      "special:against-all": 141
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370414&region=0&sub_region=0&type=429",
@@ -6996,14 +6996,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 325,
-      "Егорова Любовь Ивановна": 69,
-      "Иванова Валентина Николаевна": 472,
-      "Лихачев Дмитрий Юрьевич": 56,
-      "Онищенко Игорь Николаевич": 22,
-      "Савельев Игорь Витальевич": 67,
-      "Федоров Владимир Игоревич": 140,
-      "Против всех": 282
+      "gas:candidate-vibid:1001000112283": 325,
+      "gas:candidate-vibid:1001000195177": 69,
+      "gas:candidate-vibid:1001000226018": 472,
+      "gas:candidate-vibid:1001000190464": 56,
+      "gas:candidate-vibid:1001000121293": 22,
+      "gas:candidate-vibid:1001000136162": 67,
+      "gas:candidate-vibid:1001000121946": 140,
+      "special:against-all": 282
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370414&region=0&sub_region=0&type=429",
@@ -7053,14 +7053,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 303,
-      "Егорова Любовь Ивановна": 46,
-      "Иванова Валентина Николаевна": 381,
-      "Лихачев Дмитрий Юрьевич": 47,
-      "Онищенко Игорь Николаевич": 16,
-      "Савельев Игорь Витальевич": 57,
-      "Федоров Владимир Игоревич": 120,
-      "Против всех": 149
+      "gas:candidate-vibid:1001000112283": 303,
+      "gas:candidate-vibid:1001000195177": 46,
+      "gas:candidate-vibid:1001000226018": 381,
+      "gas:candidate-vibid:1001000190464": 47,
+      "gas:candidate-vibid:1001000121293": 16,
+      "gas:candidate-vibid:1001000136162": 57,
+      "gas:candidate-vibid:1001000121946": 120,
+      "special:against-all": 149
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370414&region=0&sub_region=0&type=429",
@@ -7110,14 +7110,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 399,
-      "Егорова Любовь Ивановна": 27,
-      "Иванова Валентина Николаевна": 368,
-      "Лихачев Дмитрий Юрьевич": 50,
-      "Онищенко Игорь Николаевич": 10,
-      "Савельев Игорь Витальевич": 43,
-      "Федоров Владимир Игоревич": 126,
-      "Против всех": 99
+      "gas:candidate-vibid:1001000112283": 399,
+      "gas:candidate-vibid:1001000195177": 27,
+      "gas:candidate-vibid:1001000226018": 368,
+      "gas:candidate-vibid:1001000190464": 50,
+      "gas:candidate-vibid:1001000121293": 10,
+      "gas:candidate-vibid:1001000136162": 43,
+      "gas:candidate-vibid:1001000121946": 126,
+      "special:against-all": 99
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370414&region=0&sub_region=0&type=429",
@@ -7167,14 +7167,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 114,
-      "Егорова Любовь Ивановна": 80,
-      "Иванова Валентина Николаевна": 597,
-      "Лихачев Дмитрий Юрьевич": 51,
-      "Онищенко Игорь Николаевич": 18,
-      "Савельев Игорь Витальевич": 97,
-      "Федоров Владимир Игоревич": 99,
-      "Против всех": 269
+      "gas:candidate-vibid:1001000112283": 114,
+      "gas:candidate-vibid:1001000195177": 80,
+      "gas:candidate-vibid:1001000226018": 597,
+      "gas:candidate-vibid:1001000190464": 51,
+      "gas:candidate-vibid:1001000121293": 18,
+      "gas:candidate-vibid:1001000136162": 97,
+      "gas:candidate-vibid:1001000121946": 99,
+      "special:against-all": 269
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370414&region=0&sub_region=0&type=429",
@@ -7224,14 +7224,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 279,
-      "Егорова Любовь Ивановна": 43,
-      "Иванова Валентина Николаевна": 381,
-      "Лихачев Дмитрий Юрьевич": 31,
-      "Онищенко Игорь Николаевич": 23,
-      "Савельев Игорь Витальевич": 45,
-      "Федоров Владимир Игоревич": 169,
-      "Против всех": 109
+      "gas:candidate-vibid:1001000112283": 279,
+      "gas:candidate-vibid:1001000195177": 43,
+      "gas:candidate-vibid:1001000226018": 381,
+      "gas:candidate-vibid:1001000190464": 31,
+      "gas:candidate-vibid:1001000121293": 23,
+      "gas:candidate-vibid:1001000136162": 45,
+      "gas:candidate-vibid:1001000121946": 169,
+      "special:against-all": 109
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370414&region=0&sub_region=0&type=429",
@@ -7281,14 +7281,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 253,
-      "Егорова Любовь Ивановна": 60,
-      "Иванова Валентина Николаевна": 439,
-      "Лихачев Дмитрий Юрьевич": 43,
-      "Онищенко Игорь Николаевич": 15,
-      "Савельев Игорь Витальевич": 83,
-      "Федоров Владимир Игоревич": 103,
-      "Против всех": 155
+      "gas:candidate-vibid:1001000112283": 253,
+      "gas:candidate-vibid:1001000195177": 60,
+      "gas:candidate-vibid:1001000226018": 439,
+      "gas:candidate-vibid:1001000190464": 43,
+      "gas:candidate-vibid:1001000121293": 15,
+      "gas:candidate-vibid:1001000136162": 83,
+      "gas:candidate-vibid:1001000121946": 103,
+      "special:against-all": 155
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370414&region=0&sub_region=0&type=429",
@@ -7338,14 +7338,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 317,
-      "Егорова Любовь Ивановна": 36,
-      "Иванова Валентина Николаевна": 396,
-      "Лихачев Дмитрий Юрьевич": 46,
-      "Онищенко Игорь Николаевич": 8,
-      "Савельев Игорь Витальевич": 35,
-      "Федоров Владимир Игоревич": 140,
-      "Против всех": 82
+      "gas:candidate-vibid:1001000112283": 317,
+      "gas:candidate-vibid:1001000195177": 36,
+      "gas:candidate-vibid:1001000226018": 396,
+      "gas:candidate-vibid:1001000190464": 46,
+      "gas:candidate-vibid:1001000121293": 8,
+      "gas:candidate-vibid:1001000136162": 35,
+      "gas:candidate-vibid:1001000121946": 140,
+      "special:against-all": 82
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370414&region=0&sub_region=0&type=429",
@@ -7395,14 +7395,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 466,
-      "Егорова Любовь Ивановна": 31,
-      "Иванова Валентина Николаевна": 461,
-      "Лихачев Дмитрий Юрьевич": 27,
-      "Онищенко Игорь Николаевич": 17,
-      "Савельев Игорь Витальевич": 36,
-      "Федоров Владимир Игоревич": 149,
-      "Против всех": 137
+      "gas:candidate-vibid:1001000112283": 466,
+      "gas:candidate-vibid:1001000195177": 31,
+      "gas:candidate-vibid:1001000226018": 461,
+      "gas:candidate-vibid:1001000190464": 27,
+      "gas:candidate-vibid:1001000121293": 17,
+      "gas:candidate-vibid:1001000136162": 36,
+      "gas:candidate-vibid:1001000121946": 149,
+      "special:against-all": 137
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370414&region=0&sub_region=0&type=429",
@@ -7452,14 +7452,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 420,
-      "Егорова Любовь Ивановна": 36,
-      "Иванова Валентина Николаевна": 439,
-      "Лихачев Дмитрий Юрьевич": 50,
-      "Онищенко Игорь Николаевич": 21,
-      "Савельев Игорь Витальевич": 44,
-      "Федоров Владимир Игоревич": 134,
-      "Против всех": 86
+      "gas:candidate-vibid:1001000112283": 420,
+      "gas:candidate-vibid:1001000195177": 36,
+      "gas:candidate-vibid:1001000226018": 439,
+      "gas:candidate-vibid:1001000190464": 50,
+      "gas:candidate-vibid:1001000121293": 21,
+      "gas:candidate-vibid:1001000136162": 44,
+      "gas:candidate-vibid:1001000121946": 134,
+      "special:against-all": 86
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370414&region=0&sub_region=0&type=429",
@@ -7509,14 +7509,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 321,
-      "Егорова Любовь Ивановна": 39,
-      "Иванова Валентина Николаевна": 412,
-      "Лихачев Дмитрий Юрьевич": 35,
-      "Онищенко Игорь Николаевич": 16,
-      "Савельев Игорь Витальевич": 43,
-      "Федоров Владимир Игоревич": 124,
-      "Против всех": 116
+      "gas:candidate-vibid:1001000112283": 321,
+      "gas:candidate-vibid:1001000195177": 39,
+      "gas:candidate-vibid:1001000226018": 412,
+      "gas:candidate-vibid:1001000190464": 35,
+      "gas:candidate-vibid:1001000121293": 16,
+      "gas:candidate-vibid:1001000136162": 43,
+      "gas:candidate-vibid:1001000121946": 124,
+      "special:against-all": 116
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370414&region=0&sub_region=0&type=429",
@@ -7566,14 +7566,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 274,
-      "Егорова Любовь Ивановна": 26,
-      "Иванова Валентина Николаевна": 318,
-      "Лихачев Дмитрий Юрьевич": 31,
-      "Онищенко Игорь Николаевич": 14,
-      "Савельев Игорь Витальевич": 26,
-      "Федоров Владимир Игоревич": 117,
-      "Против всех": 89
+      "gas:candidate-vibid:1001000112283": 274,
+      "gas:candidate-vibid:1001000195177": 26,
+      "gas:candidate-vibid:1001000226018": 318,
+      "gas:candidate-vibid:1001000190464": 31,
+      "gas:candidate-vibid:1001000121293": 14,
+      "gas:candidate-vibid:1001000136162": 26,
+      "gas:candidate-vibid:1001000121946": 117,
+      "special:against-all": 89
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370414&region=0&sub_region=0&type=429",
@@ -7623,14 +7623,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 376,
-      "Егорова Любовь Ивановна": 33,
-      "Иванова Валентина Николаевна": 460,
-      "Лихачев Дмитрий Юрьевич": 30,
-      "Онищенко Игорь Николаевич": 13,
-      "Савельев Игорь Витальевич": 51,
-      "Федоров Владимир Игоревич": 135,
-      "Против всех": 126
+      "gas:candidate-vibid:1001000112283": 376,
+      "gas:candidate-vibid:1001000195177": 33,
+      "gas:candidate-vibid:1001000226018": 460,
+      "gas:candidate-vibid:1001000190464": 30,
+      "gas:candidate-vibid:1001000121293": 13,
+      "gas:candidate-vibid:1001000136162": 51,
+      "gas:candidate-vibid:1001000121946": 135,
+      "special:against-all": 126
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370414&region=0&sub_region=0&type=429",
@@ -7680,14 +7680,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 200,
-      "Егорова Любовь Ивановна": 23,
-      "Иванова Валентина Николаевна": 236,
-      "Лихачев Дмитрий Юрьевич": 30,
-      "Онищенко Игорь Николаевич": 17,
-      "Савельев Игорь Витальевич": 26,
-      "Федоров Владимир Игоревич": 47,
-      "Против всех": 93
+      "gas:candidate-vibid:1001000112283": 200,
+      "gas:candidate-vibid:1001000195177": 23,
+      "gas:candidate-vibid:1001000226018": 236,
+      "gas:candidate-vibid:1001000190464": 30,
+      "gas:candidate-vibid:1001000121293": 17,
+      "gas:candidate-vibid:1001000136162": 26,
+      "gas:candidate-vibid:1001000121946": 47,
+      "special:against-all": 93
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370414&region=0&sub_region=0&type=429",
@@ -7737,14 +7737,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 88,
-      "Егорова Любовь Ивановна": 20,
-      "Иванова Валентина Николаевна": 110,
-      "Лихачев Дмитрий Юрьевич": 64,
-      "Онищенко Игорь Николаевич": 12,
-      "Савельев Игорь Витальевич": 12,
-      "Федоров Владимир Игоревич": 15,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000112283": 88,
+      "gas:candidate-vibid:1001000195177": 20,
+      "gas:candidate-vibid:1001000226018": 110,
+      "gas:candidate-vibid:1001000190464": 64,
+      "gas:candidate-vibid:1001000121293": 12,
+      "gas:candidate-vibid:1001000136162": 12,
+      "gas:candidate-vibid:1001000121946": 15,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370414&region=0&sub_region=0&type=429",
@@ -7794,14 +7794,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 286,
-      "Егорова Любовь Ивановна": 36,
-      "Иванова Валентина Николаевна": 380,
-      "Лихачев Дмитрий Юрьевич": 37,
-      "Онищенко Игорь Николаевич": 18,
-      "Савельев Игорь Витальевич": 55,
-      "Федоров Владимир Игоревич": 180,
-      "Против всех": 106
+      "gas:candidate-vibid:1001000112283": 286,
+      "gas:candidate-vibid:1001000195177": 36,
+      "gas:candidate-vibid:1001000226018": 380,
+      "gas:candidate-vibid:1001000190464": 37,
+      "gas:candidate-vibid:1001000121293": 18,
+      "gas:candidate-vibid:1001000136162": 55,
+      "gas:candidate-vibid:1001000121946": 180,
+      "special:against-all": 106
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370415&region=0&sub_region=0&type=429",
@@ -7851,14 +7851,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 269,
-      "Егорова Любовь Ивановна": 31,
-      "Иванова Валентина Николаевна": 310,
-      "Лихачев Дмитрий Юрьевич": 34,
-      "Онищенко Игорь Николаевич": 17,
-      "Савельев Игорь Витальевич": 47,
-      "Федоров Владимир Игоревич": 102,
-      "Против всех": 113
+      "gas:candidate-vibid:1001000112283": 269,
+      "gas:candidate-vibid:1001000195177": 31,
+      "gas:candidate-vibid:1001000226018": 310,
+      "gas:candidate-vibid:1001000190464": 34,
+      "gas:candidate-vibid:1001000121293": 17,
+      "gas:candidate-vibid:1001000136162": 47,
+      "gas:candidate-vibid:1001000121946": 102,
+      "special:against-all": 113
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370415&region=0&sub_region=0&type=429",
@@ -7908,14 +7908,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 191,
-      "Егорова Любовь Ивановна": 31,
-      "Иванова Валентина Николаевна": 312,
-      "Лихачев Дмитрий Юрьевич": 21,
-      "Онищенко Игорь Николаевич": 7,
-      "Савельев Игорь Витальевич": 31,
-      "Федоров Владимир Игоревич": 78,
-      "Против всех": 88
+      "gas:candidate-vibid:1001000112283": 191,
+      "gas:candidate-vibid:1001000195177": 31,
+      "gas:candidate-vibid:1001000226018": 312,
+      "gas:candidate-vibid:1001000190464": 21,
+      "gas:candidate-vibid:1001000121293": 7,
+      "gas:candidate-vibid:1001000136162": 31,
+      "gas:candidate-vibid:1001000121946": 78,
+      "special:against-all": 88
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370415&region=0&sub_region=0&type=429",
@@ -7965,14 +7965,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 219,
-      "Егорова Любовь Ивановна": 43,
-      "Иванова Валентина Николаевна": 334,
-      "Лихачев Дмитрий Юрьевич": 26,
-      "Онищенко Игорь Николаевич": 19,
-      "Савельев Игорь Витальевич": 30,
-      "Федоров Владимир Игоревич": 97,
-      "Против всех": 98
+      "gas:candidate-vibid:1001000112283": 219,
+      "gas:candidate-vibid:1001000195177": 43,
+      "gas:candidate-vibid:1001000226018": 334,
+      "gas:candidate-vibid:1001000190464": 26,
+      "gas:candidate-vibid:1001000121293": 19,
+      "gas:candidate-vibid:1001000136162": 30,
+      "gas:candidate-vibid:1001000121946": 97,
+      "special:against-all": 98
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370415&region=0&sub_region=0&type=429",
@@ -8022,14 +8022,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 283,
-      "Егорова Любовь Ивановна": 21,
-      "Иванова Валентина Николаевна": 272,
-      "Лихачев Дмитрий Юрьевич": 33,
-      "Онищенко Игорь Николаевич": 13,
-      "Савельев Игорь Витальевич": 26,
-      "Федоров Владимир Игоревич": 121,
-      "Против всех": 80
+      "gas:candidate-vibid:1001000112283": 283,
+      "gas:candidate-vibid:1001000195177": 21,
+      "gas:candidate-vibid:1001000226018": 272,
+      "gas:candidate-vibid:1001000190464": 33,
+      "gas:candidate-vibid:1001000121293": 13,
+      "gas:candidate-vibid:1001000136162": 26,
+      "gas:candidate-vibid:1001000121946": 121,
+      "special:against-all": 80
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370415&region=0&sub_region=0&type=429",
@@ -8079,14 +8079,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 271,
-      "Егорова Любовь Ивановна": 30,
-      "Иванова Валентина Николаевна": 307,
-      "Лихачев Дмитрий Юрьевич": 28,
-      "Онищенко Игорь Николаевич": 15,
-      "Савельев Игорь Витальевич": 29,
-      "Федоров Владимир Игоревич": 105,
-      "Против всех": 102
+      "gas:candidate-vibid:1001000112283": 271,
+      "gas:candidate-vibid:1001000195177": 30,
+      "gas:candidate-vibid:1001000226018": 307,
+      "gas:candidate-vibid:1001000190464": 28,
+      "gas:candidate-vibid:1001000121293": 15,
+      "gas:candidate-vibid:1001000136162": 29,
+      "gas:candidate-vibid:1001000121946": 105,
+      "special:against-all": 102
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370415&region=0&sub_region=0&type=429",
@@ -8136,14 +8136,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 264,
-      "Егорова Любовь Ивановна": 25,
-      "Иванова Валентина Николаевна": 292,
-      "Лихачев Дмитрий Юрьевич": 30,
-      "Онищенко Игорь Николаевич": 11,
-      "Савельев Игорь Витальевич": 36,
-      "Федоров Владимир Игоревич": 76,
-      "Против всех": 55
+      "gas:candidate-vibid:1001000112283": 264,
+      "gas:candidate-vibid:1001000195177": 25,
+      "gas:candidate-vibid:1001000226018": 292,
+      "gas:candidate-vibid:1001000190464": 30,
+      "gas:candidate-vibid:1001000121293": 11,
+      "gas:candidate-vibid:1001000136162": 36,
+      "gas:candidate-vibid:1001000121946": 76,
+      "special:against-all": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370415&region=0&sub_region=0&type=429",
@@ -8193,14 +8193,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 324,
-      "Егорова Любовь Ивановна": 21,
-      "Иванова Валентина Николаевна": 326,
-      "Лихачев Дмитрий Юрьевич": 26,
-      "Онищенко Игорь Николаевич": 14,
-      "Савельев Игорь Витальевич": 47,
-      "Федоров Владимир Игоревич": 124,
-      "Против всех": 70
+      "gas:candidate-vibid:1001000112283": 324,
+      "gas:candidate-vibid:1001000195177": 21,
+      "gas:candidate-vibid:1001000226018": 326,
+      "gas:candidate-vibid:1001000190464": 26,
+      "gas:candidate-vibid:1001000121293": 14,
+      "gas:candidate-vibid:1001000136162": 47,
+      "gas:candidate-vibid:1001000121946": 124,
+      "special:against-all": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370415&region=0&sub_region=0&type=429",
@@ -8250,14 +8250,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 324,
-      "Егорова Любовь Ивановна": 30,
-      "Иванова Валентина Николаевна": 381,
-      "Лихачев Дмитрий Юрьевич": 29,
-      "Онищенко Игорь Николаевич": 21,
-      "Савельев Игорь Витальевич": 37,
-      "Федоров Владимир Игоревич": 106,
-      "Против всех": 97
+      "gas:candidate-vibid:1001000112283": 324,
+      "gas:candidate-vibid:1001000195177": 30,
+      "gas:candidate-vibid:1001000226018": 381,
+      "gas:candidate-vibid:1001000190464": 29,
+      "gas:candidate-vibid:1001000121293": 21,
+      "gas:candidate-vibid:1001000136162": 37,
+      "gas:candidate-vibid:1001000121946": 106,
+      "special:against-all": 97
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370415&region=0&sub_region=0&type=429",
@@ -8307,14 +8307,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 309,
-      "Егорова Любовь Ивановна": 55,
-      "Иванова Валентина Николаевна": 384,
-      "Лихачев Дмитрий Юрьевич": 48,
-      "Онищенко Игорь Николаевич": 26,
-      "Савельев Игорь Витальевич": 56,
-      "Федоров Владимир Игоревич": 148,
-      "Против всех": 148
+      "gas:candidate-vibid:1001000112283": 309,
+      "gas:candidate-vibid:1001000195177": 55,
+      "gas:candidate-vibid:1001000226018": 384,
+      "gas:candidate-vibid:1001000190464": 48,
+      "gas:candidate-vibid:1001000121293": 26,
+      "gas:candidate-vibid:1001000136162": 56,
+      "gas:candidate-vibid:1001000121946": 148,
+      "special:against-all": 148
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370415&region=0&sub_region=0&type=429",
@@ -8364,14 +8364,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 318,
-      "Егорова Любовь Ивановна": 51,
-      "Иванова Валентина Николаевна": 362,
-      "Лихачев Дмитрий Юрьевич": 43,
-      "Онищенко Игорь Николаевич": 17,
-      "Савельев Игорь Витальевич": 35,
-      "Федоров Владимир Игоревич": 129,
-      "Против всех": 118
+      "gas:candidate-vibid:1001000112283": 318,
+      "gas:candidate-vibid:1001000195177": 51,
+      "gas:candidate-vibid:1001000226018": 362,
+      "gas:candidate-vibid:1001000190464": 43,
+      "gas:candidate-vibid:1001000121293": 17,
+      "gas:candidate-vibid:1001000136162": 35,
+      "gas:candidate-vibid:1001000121946": 129,
+      "special:against-all": 118
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370415&region=0&sub_region=0&type=429",
@@ -8421,14 +8421,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 322,
-      "Егорова Любовь Ивановна": 46,
-      "Иванова Валентина Николаевна": 374,
-      "Лихачев Дмитрий Юрьевич": 70,
-      "Онищенко Игорь Николаевич": 13,
-      "Савельев Игорь Витальевич": 52,
-      "Федоров Владимир Игоревич": 120,
-      "Против всех": 161
+      "gas:candidate-vibid:1001000112283": 322,
+      "gas:candidate-vibid:1001000195177": 46,
+      "gas:candidate-vibid:1001000226018": 374,
+      "gas:candidate-vibid:1001000190464": 70,
+      "gas:candidate-vibid:1001000121293": 13,
+      "gas:candidate-vibid:1001000136162": 52,
+      "gas:candidate-vibid:1001000121946": 120,
+      "special:against-all": 161
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370415&region=0&sub_region=0&type=429",
@@ -8478,14 +8478,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 312,
-      "Егорова Любовь Ивановна": 50,
-      "Иванова Валентина Николаевна": 361,
-      "Лихачев Дмитрий Юрьевич": 31,
-      "Онищенко Игорь Николаевич": 13,
-      "Савельев Игорь Витальевич": 57,
-      "Федоров Владимир Игоревич": 107,
-      "Против всех": 128
+      "gas:candidate-vibid:1001000112283": 312,
+      "gas:candidate-vibid:1001000195177": 50,
+      "gas:candidate-vibid:1001000226018": 361,
+      "gas:candidate-vibid:1001000190464": 31,
+      "gas:candidate-vibid:1001000121293": 13,
+      "gas:candidate-vibid:1001000136162": 57,
+      "gas:candidate-vibid:1001000121946": 107,
+      "special:against-all": 128
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370415&region=0&sub_region=0&type=429",
@@ -8535,14 +8535,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 188,
-      "Егорова Любовь Ивановна": 27,
-      "Иванова Валентина Николаевна": 211,
-      "Лихачев Дмитрий Юрьевич": 21,
-      "Онищенко Игорь Николаевич": 16,
-      "Савельев Игорь Витальевич": 28,
-      "Федоров Владимир Игоревич": 69,
-      "Против всех": 51
+      "gas:candidate-vibid:1001000112283": 188,
+      "gas:candidate-vibid:1001000195177": 27,
+      "gas:candidate-vibid:1001000226018": 211,
+      "gas:candidate-vibid:1001000190464": 21,
+      "gas:candidate-vibid:1001000121293": 16,
+      "gas:candidate-vibid:1001000136162": 28,
+      "gas:candidate-vibid:1001000121946": 69,
+      "special:against-all": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370415&region=0&sub_region=0&type=429",
@@ -8592,14 +8592,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 222,
-      "Егорова Любовь Ивановна": 50,
-      "Иванова Валентина Николаевна": 511,
-      "Лихачев Дмитрий Юрьевич": 24,
-      "Онищенко Игорь Николаевич": 7,
-      "Савельев Игорь Витальевич": 38,
-      "Федоров Владимир Игоревич": 103,
-      "Против всех": 140
+      "gas:candidate-vibid:1001000112283": 222,
+      "gas:candidate-vibid:1001000195177": 50,
+      "gas:candidate-vibid:1001000226018": 511,
+      "gas:candidate-vibid:1001000190464": 24,
+      "gas:candidate-vibid:1001000121293": 7,
+      "gas:candidate-vibid:1001000136162": 38,
+      "gas:candidate-vibid:1001000121946": 103,
+      "special:against-all": 140
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370415&region=0&sub_region=0&type=429",
@@ -8649,14 +8649,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 47,
-      "Егорова Любовь Ивановна": 9,
-      "Иванова Валентина Николаевна": 124,
-      "Лихачев Дмитрий Юрьевич": 25,
-      "Онищенко Игорь Николаевич": 6,
-      "Савельев Игорь Витальевич": 11,
-      "Федоров Владимир Игоревич": 43,
-      "Против всех": 26
+      "gas:candidate-vibid:1001000112283": 47,
+      "gas:candidate-vibid:1001000195177": 9,
+      "gas:candidate-vibid:1001000226018": 124,
+      "gas:candidate-vibid:1001000190464": 25,
+      "gas:candidate-vibid:1001000121293": 6,
+      "gas:candidate-vibid:1001000136162": 11,
+      "gas:candidate-vibid:1001000121946": 43,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370415&region=0&sub_region=0&type=429",
@@ -8706,14 +8706,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 58,
-      "Егорова Любовь Ивановна": 8,
-      "Иванова Валентина Николаевна": 59,
-      "Лихачев Дмитрий Юрьевич": 18,
-      "Онищенко Игорь Николаевич": 1,
-      "Савельев Игорь Витальевич": 5,
-      "Федоров Владимир Игоревич": 9,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000112283": 58,
+      "gas:candidate-vibid:1001000195177": 8,
+      "gas:candidate-vibid:1001000226018": 59,
+      "gas:candidate-vibid:1001000190464": 18,
+      "gas:candidate-vibid:1001000121293": 1,
+      "gas:candidate-vibid:1001000136162": 5,
+      "gas:candidate-vibid:1001000121946": 9,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370416&region=0&sub_region=0&type=429",
@@ -8763,14 +8763,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 340,
-      "Егорова Любовь Ивановна": 50,
-      "Иванова Валентина Николаевна": 369,
-      "Лихачев Дмитрий Юрьевич": 57,
-      "Онищенко Игорь Николаевич": 25,
-      "Савельев Игорь Витальевич": 39,
-      "Федоров Владимир Игоревич": 64,
-      "Против всех": 99
+      "gas:candidate-vibid:1001000112283": 340,
+      "gas:candidate-vibid:1001000195177": 50,
+      "gas:candidate-vibid:1001000226018": 369,
+      "gas:candidate-vibid:1001000190464": 57,
+      "gas:candidate-vibid:1001000121293": 25,
+      "gas:candidate-vibid:1001000136162": 39,
+      "gas:candidate-vibid:1001000121946": 64,
+      "special:against-all": 99
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370416&region=0&sub_region=0&type=429",
@@ -8820,14 +8820,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 289,
-      "Егорова Любовь Ивановна": 46,
-      "Иванова Валентина Николаевна": 303,
-      "Лихачев Дмитрий Юрьевич": 50,
-      "Онищенко Игорь Николаевич": 5,
-      "Савельев Игорь Витальевич": 25,
-      "Федоров Владимир Игоревич": 75,
-      "Против всех": 75
+      "gas:candidate-vibid:1001000112283": 289,
+      "gas:candidate-vibid:1001000195177": 46,
+      "gas:candidate-vibid:1001000226018": 303,
+      "gas:candidate-vibid:1001000190464": 50,
+      "gas:candidate-vibid:1001000121293": 5,
+      "gas:candidate-vibid:1001000136162": 25,
+      "gas:candidate-vibid:1001000121946": 75,
+      "special:against-all": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370416&region=0&sub_region=0&type=429",
@@ -8877,14 +8877,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 337,
-      "Егорова Любовь Ивановна": 33,
-      "Иванова Валентина Николаевна": 387,
-      "Лихачев Дмитрий Юрьевич": 53,
-      "Онищенко Игорь Николаевич": 16,
-      "Савельев Игорь Витальевич": 38,
-      "Федоров Владимир Игоревич": 91,
-      "Против всех": 100
+      "gas:candidate-vibid:1001000112283": 337,
+      "gas:candidate-vibid:1001000195177": 33,
+      "gas:candidate-vibid:1001000226018": 387,
+      "gas:candidate-vibid:1001000190464": 53,
+      "gas:candidate-vibid:1001000121293": 16,
+      "gas:candidate-vibid:1001000136162": 38,
+      "gas:candidate-vibid:1001000121946": 91,
+      "special:against-all": 100
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370416&region=0&sub_region=0&type=429",
@@ -8934,14 +8934,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 319,
-      "Егорова Любовь Ивановна": 36,
-      "Иванова Валентина Николаевна": 292,
-      "Лихачев Дмитрий Юрьевич": 69,
-      "Онищенко Игорь Николаевич": 22,
-      "Савельев Игорь Витальевич": 38,
-      "Федоров Владимир Игоревич": 99,
-      "Против всех": 113
+      "gas:candidate-vibid:1001000112283": 319,
+      "gas:candidate-vibid:1001000195177": 36,
+      "gas:candidate-vibid:1001000226018": 292,
+      "gas:candidate-vibid:1001000190464": 69,
+      "gas:candidate-vibid:1001000121293": 22,
+      "gas:candidate-vibid:1001000136162": 38,
+      "gas:candidate-vibid:1001000121946": 99,
+      "special:against-all": 113
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370416&region=0&sub_region=0&type=429",
@@ -8991,14 +8991,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 309,
-      "Егорова Любовь Ивановна": 56,
-      "Иванова Валентина Николаевна": 377,
-      "Лихачев Дмитрий Юрьевич": 64,
-      "Онищенко Игорь Николаевич": 26,
-      "Савельев Игорь Витальевич": 47,
-      "Федоров Владимир Игоревич": 95,
-      "Против всех": 117
+      "gas:candidate-vibid:1001000112283": 309,
+      "gas:candidate-vibid:1001000195177": 56,
+      "gas:candidate-vibid:1001000226018": 377,
+      "gas:candidate-vibid:1001000190464": 64,
+      "gas:candidate-vibid:1001000121293": 26,
+      "gas:candidate-vibid:1001000136162": 47,
+      "gas:candidate-vibid:1001000121946": 95,
+      "special:against-all": 117
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370416&region=0&sub_region=0&type=429",
@@ -9048,14 +9048,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 313,
-      "Егорова Любовь Ивановна": 35,
-      "Иванова Валентина Николаевна": 367,
-      "Лихачев Дмитрий Юрьевич": 47,
-      "Онищенко Игорь Николаевич": 19,
-      "Савельев Игорь Витальевич": 51,
-      "Федоров Владимир Игоревич": 57,
-      "Против всех": 88
+      "gas:candidate-vibid:1001000112283": 313,
+      "gas:candidate-vibid:1001000195177": 35,
+      "gas:candidate-vibid:1001000226018": 367,
+      "gas:candidate-vibid:1001000190464": 47,
+      "gas:candidate-vibid:1001000121293": 19,
+      "gas:candidate-vibid:1001000136162": 51,
+      "gas:candidate-vibid:1001000121946": 57,
+      "special:against-all": 88
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370416&region=0&sub_region=0&type=429",
@@ -9105,14 +9105,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 341,
-      "Егорова Любовь Ивановна": 61,
-      "Иванова Валентина Николаевна": 369,
-      "Лихачев Дмитрий Юрьевич": 62,
-      "Онищенко Игорь Николаевич": 24,
-      "Савельев Игорь Витальевич": 38,
-      "Федоров Владимир Игоревич": 99,
-      "Против всех": 98
+      "gas:candidate-vibid:1001000112283": 341,
+      "gas:candidate-vibid:1001000195177": 61,
+      "gas:candidate-vibid:1001000226018": 369,
+      "gas:candidate-vibid:1001000190464": 62,
+      "gas:candidate-vibid:1001000121293": 24,
+      "gas:candidate-vibid:1001000136162": 38,
+      "gas:candidate-vibid:1001000121946": 99,
+      "special:against-all": 98
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370416&region=0&sub_region=0&type=429",
@@ -9162,14 +9162,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 384,
-      "Егорова Любовь Ивановна": 74,
-      "Иванова Валентина Николаевна": 404,
-      "Лихачев Дмитрий Юрьевич": 49,
-      "Онищенко Игорь Николаевич": 24,
-      "Савельев Игорь Витальевич": 47,
-      "Федоров Владимир Игоревич": 158,
-      "Против всех": 136
+      "gas:candidate-vibid:1001000112283": 384,
+      "gas:candidate-vibid:1001000195177": 74,
+      "gas:candidate-vibid:1001000226018": 404,
+      "gas:candidate-vibid:1001000190464": 49,
+      "gas:candidate-vibid:1001000121293": 24,
+      "gas:candidate-vibid:1001000136162": 47,
+      "gas:candidate-vibid:1001000121946": 158,
+      "special:against-all": 136
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370416&region=0&sub_region=0&type=429",
@@ -9219,14 +9219,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 350,
-      "Егорова Любовь Ивановна": 46,
-      "Иванова Валентина Николаевна": 367,
-      "Лихачев Дмитрий Юрьевич": 61,
-      "Онищенко Игорь Николаевич": 26,
-      "Савельев Игорь Витальевич": 48,
-      "Федоров Владимир Игоревич": 122,
-      "Против всех": 122
+      "gas:candidate-vibid:1001000112283": 350,
+      "gas:candidate-vibid:1001000195177": 46,
+      "gas:candidate-vibid:1001000226018": 367,
+      "gas:candidate-vibid:1001000190464": 61,
+      "gas:candidate-vibid:1001000121293": 26,
+      "gas:candidate-vibid:1001000136162": 48,
+      "gas:candidate-vibid:1001000121946": 122,
+      "special:against-all": 122
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370416&region=0&sub_region=0&type=429",
@@ -9276,14 +9276,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 251,
-      "Егорова Любовь Ивановна": 33,
-      "Иванова Валентина Николаевна": 297,
-      "Лихачев Дмитрий Юрьевич": 46,
-      "Онищенко Игорь Николаевич": 22,
-      "Савельев Игорь Витальевич": 35,
-      "Федоров Владимир Игоревич": 98,
-      "Против всех": 91
+      "gas:candidate-vibid:1001000112283": 251,
+      "gas:candidate-vibid:1001000195177": 33,
+      "gas:candidate-vibid:1001000226018": 297,
+      "gas:candidate-vibid:1001000190464": 46,
+      "gas:candidate-vibid:1001000121293": 22,
+      "gas:candidate-vibid:1001000136162": 35,
+      "gas:candidate-vibid:1001000121946": 98,
+      "special:against-all": 91
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370416&region=0&sub_region=0&type=429",
@@ -9333,14 +9333,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 321,
-      "Егорова Любовь Ивановна": 55,
-      "Иванова Валентина Николаевна": 328,
-      "Лихачев Дмитрий Юрьевич": 67,
-      "Онищенко Игорь Николаевич": 20,
-      "Савельев Игорь Витальевич": 30,
-      "Федоров Владимир Игоревич": 78,
-      "Против всех": 101
+      "gas:candidate-vibid:1001000112283": 321,
+      "gas:candidate-vibid:1001000195177": 55,
+      "gas:candidate-vibid:1001000226018": 328,
+      "gas:candidate-vibid:1001000190464": 67,
+      "gas:candidate-vibid:1001000121293": 20,
+      "gas:candidate-vibid:1001000136162": 30,
+      "gas:candidate-vibid:1001000121946": 78,
+      "special:against-all": 101
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370416&region=0&sub_region=0&type=429",
@@ -9390,14 +9390,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 214,
-      "Егорова Любовь Ивановна": 39,
-      "Иванова Валентина Николаевна": 268,
-      "Лихачев Дмитрий Юрьевич": 61,
-      "Онищенко Игорь Николаевич": 7,
-      "Савельев Игорь Витальевич": 34,
-      "Федоров Владимир Игоревич": 49,
-      "Против всех": 85
+      "gas:candidate-vibid:1001000112283": 214,
+      "gas:candidate-vibid:1001000195177": 39,
+      "gas:candidate-vibid:1001000226018": 268,
+      "gas:candidate-vibid:1001000190464": 61,
+      "gas:candidate-vibid:1001000121293": 7,
+      "gas:candidate-vibid:1001000136162": 34,
+      "gas:candidate-vibid:1001000121946": 49,
+      "special:against-all": 85
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370416&region=0&sub_region=0&type=429",
@@ -9447,14 +9447,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 197,
-      "Егорова Любовь Ивановна": 17,
-      "Иванова Валентина Николаевна": 290,
-      "Лихачев Дмитрий Юрьевич": 43,
-      "Онищенко Игорь Николаевич": 13,
-      "Савельев Игорь Витальевич": 40,
-      "Федоров Владимир Игоревич": 64,
-      "Против всех": 69
+      "gas:candidate-vibid:1001000112283": 197,
+      "gas:candidate-vibid:1001000195177": 17,
+      "gas:candidate-vibid:1001000226018": 290,
+      "gas:candidate-vibid:1001000190464": 43,
+      "gas:candidate-vibid:1001000121293": 13,
+      "gas:candidate-vibid:1001000136162": 40,
+      "gas:candidate-vibid:1001000121946": 64,
+      "special:against-all": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370416&region=0&sub_region=0&type=429",
@@ -9504,14 +9504,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 286,
-      "Егорова Любовь Ивановна": 31,
-      "Иванова Валентина Николаевна": 253,
-      "Лихачев Дмитрий Юрьевич": 59,
-      "Онищенко Игорь Николаевич": 23,
-      "Савельев Игорь Витальевич": 43,
-      "Федоров Владимир Игоревич": 71,
-      "Против всех": 89
+      "gas:candidate-vibid:1001000112283": 286,
+      "gas:candidate-vibid:1001000195177": 31,
+      "gas:candidate-vibid:1001000226018": 253,
+      "gas:candidate-vibid:1001000190464": 59,
+      "gas:candidate-vibid:1001000121293": 23,
+      "gas:candidate-vibid:1001000136162": 43,
+      "gas:candidate-vibid:1001000121946": 71,
+      "special:against-all": 89
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370416&region=0&sub_region=0&type=429",
@@ -9561,14 +9561,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 286,
-      "Егорова Любовь Ивановна": 52,
-      "Иванова Валентина Николаевна": 355,
-      "Лихачев Дмитрий Юрьевич": 64,
-      "Онищенко Игорь Николаевич": 28,
-      "Савельев Игорь Витальевич": 36,
-      "Федоров Владимир Игоревич": 90,
-      "Против всех": 127
+      "gas:candidate-vibid:1001000112283": 286,
+      "gas:candidate-vibid:1001000195177": 52,
+      "gas:candidate-vibid:1001000226018": 355,
+      "gas:candidate-vibid:1001000190464": 64,
+      "gas:candidate-vibid:1001000121293": 28,
+      "gas:candidate-vibid:1001000136162": 36,
+      "gas:candidate-vibid:1001000121946": 90,
+      "special:against-all": 127
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370416&region=0&sub_region=0&type=429",
@@ -9618,14 +9618,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 334,
-      "Егорова Любовь Ивановна": 35,
-      "Иванова Валентина Николаевна": 341,
-      "Лихачев Дмитрий Юрьевич": 78,
-      "Онищенко Игорь Николаевич": 26,
-      "Савельев Игорь Витальевич": 38,
-      "Федоров Владимир Игоревич": 118,
-      "Против всех": 107
+      "gas:candidate-vibid:1001000112283": 334,
+      "gas:candidate-vibid:1001000195177": 35,
+      "gas:candidate-vibid:1001000226018": 341,
+      "gas:candidate-vibid:1001000190464": 78,
+      "gas:candidate-vibid:1001000121293": 26,
+      "gas:candidate-vibid:1001000136162": 38,
+      "gas:candidate-vibid:1001000121946": 118,
+      "special:against-all": 107
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370416&region=0&sub_region=0&type=429",
@@ -9675,14 +9675,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 343,
-      "Егорова Любовь Ивановна": 34,
-      "Иванова Валентина Николаевна": 276,
-      "Лихачев Дмитрий Юрьевич": 47,
-      "Онищенко Игорь Николаевич": 17,
-      "Савельев Игорь Витальевич": 40,
-      "Федоров Владимир Игоревич": 106,
-      "Против всех": 103
+      "gas:candidate-vibid:1001000112283": 343,
+      "gas:candidate-vibid:1001000195177": 34,
+      "gas:candidate-vibid:1001000226018": 276,
+      "gas:candidate-vibid:1001000190464": 47,
+      "gas:candidate-vibid:1001000121293": 17,
+      "gas:candidate-vibid:1001000136162": 40,
+      "gas:candidate-vibid:1001000121946": 106,
+      "special:against-all": 103
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370416&region=0&sub_region=0&type=429",
@@ -9732,14 +9732,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 233,
-      "Егорова Любовь Ивановна": 42,
-      "Иванова Валентина Николаевна": 262,
-      "Лихачев Дмитрий Юрьевич": 62,
-      "Онищенко Игорь Николаевич": 15,
-      "Савельев Игорь Витальевич": 30,
-      "Федоров Владимир Игоревич": 106,
-      "Против всех": 89
+      "gas:candidate-vibid:1001000112283": 233,
+      "gas:candidate-vibid:1001000195177": 42,
+      "gas:candidate-vibid:1001000226018": 262,
+      "gas:candidate-vibid:1001000190464": 62,
+      "gas:candidate-vibid:1001000121293": 15,
+      "gas:candidate-vibid:1001000136162": 30,
+      "gas:candidate-vibid:1001000121946": 106,
+      "special:against-all": 89
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370416&region=0&sub_region=0&type=429",
@@ -9789,14 +9789,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 131,
-      "Егорова Любовь Ивановна": 28,
-      "Иванова Валентина Николаевна": 312,
-      "Лихачев Дмитрий Юрьевич": 56,
-      "Онищенко Игорь Николаевич": 13,
-      "Савельев Игорь Витальевич": 36,
-      "Федоров Владимир Игоревич": 59,
-      "Против всех": 57
+      "gas:candidate-vibid:1001000112283": 131,
+      "gas:candidate-vibid:1001000195177": 28,
+      "gas:candidate-vibid:1001000226018": 312,
+      "gas:candidate-vibid:1001000190464": 56,
+      "gas:candidate-vibid:1001000121293": 13,
+      "gas:candidate-vibid:1001000136162": 36,
+      "gas:candidate-vibid:1001000121946": 59,
+      "special:against-all": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370416&region=0&sub_region=0&type=429",
@@ -9846,14 +9846,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 12,
-      "Егорова Любовь Ивановна": 13,
-      "Иванова Валентина Николаевна": 173,
-      "Лихачев Дмитрий Юрьевич": 13,
-      "Онищенко Игорь Николаевич": 3,
-      "Савельев Игорь Витальевич": 4,
-      "Федоров Владимир Игоревич": 5,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000112283": 12,
+      "gas:candidate-vibid:1001000195177": 13,
+      "gas:candidate-vibid:1001000226018": 173,
+      "gas:candidate-vibid:1001000190464": 13,
+      "gas:candidate-vibid:1001000121293": 3,
+      "gas:candidate-vibid:1001000136162": 4,
+      "gas:candidate-vibid:1001000121946": 5,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370416&region=0&sub_region=0&type=429",
@@ -9903,14 +9903,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 251,
-      "Егорова Любовь Ивановна": 35,
-      "Иванова Валентина Николаевна": 181,
-      "Лихачев Дмитрий Юрьевич": 51,
-      "Онищенко Игорь Николаевич": 20,
-      "Савельев Игорь Витальевич": 36,
-      "Федоров Владимир Игоревич": 51,
-      "Против всех": 76
+      "gas:candidate-vibid:1001000112283": 251,
+      "gas:candidate-vibid:1001000195177": 35,
+      "gas:candidate-vibid:1001000226018": 181,
+      "gas:candidate-vibid:1001000190464": 51,
+      "gas:candidate-vibid:1001000121293": 20,
+      "gas:candidate-vibid:1001000136162": 36,
+      "gas:candidate-vibid:1001000121946": 51,
+      "special:against-all": 76
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370416&region=0&sub_region=0&type=429",
@@ -9960,14 +9960,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 233,
-      "Егорова Любовь Ивановна": 41,
-      "Иванова Валентина Николаевна": 242,
-      "Лихачев Дмитрий Юрьевич": 42,
-      "Онищенко Игорь Николаевич": 16,
-      "Савельев Игорь Витальевич": 43,
-      "Федоров Владимир Игоревич": 61,
-      "Против всех": 66
+      "gas:candidate-vibid:1001000112283": 233,
+      "gas:candidate-vibid:1001000195177": 41,
+      "gas:candidate-vibid:1001000226018": 242,
+      "gas:candidate-vibid:1001000190464": 42,
+      "gas:candidate-vibid:1001000121293": 16,
+      "gas:candidate-vibid:1001000136162": 43,
+      "gas:candidate-vibid:1001000121946": 61,
+      "special:against-all": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370416&region=0&sub_region=0&type=429",
@@ -10017,14 +10017,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 169,
-      "Егорова Любовь Ивановна": 19,
-      "Иванова Валентина Николаевна": 133,
-      "Лихачев Дмитрий Юрьевич": 33,
-      "Онищенко Игорь Николаевич": 6,
-      "Савельев Игорь Витальевич": 23,
-      "Федоров Владимир Игоревич": 52,
-      "Против всех": 46
+      "gas:candidate-vibid:1001000112283": 169,
+      "gas:candidate-vibid:1001000195177": 19,
+      "gas:candidate-vibid:1001000226018": 133,
+      "gas:candidate-vibid:1001000190464": 33,
+      "gas:candidate-vibid:1001000121293": 6,
+      "gas:candidate-vibid:1001000136162": 23,
+      "gas:candidate-vibid:1001000121946": 52,
+      "special:against-all": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370416&region=0&sub_region=0&type=429",
@@ -10074,14 +10074,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 307,
-      "Егорова Любовь Ивановна": 44,
-      "Иванова Валентина Николаевна": 351,
-      "Лихачев Дмитрий Юрьевич": 61,
-      "Онищенко Игорь Николаевич": 31,
-      "Савельев Игорь Витальевич": 44,
-      "Федоров Владимир Игоревич": 129,
-      "Против всех": 105
+      "gas:candidate-vibid:1001000112283": 307,
+      "gas:candidate-vibid:1001000195177": 44,
+      "gas:candidate-vibid:1001000226018": 351,
+      "gas:candidate-vibid:1001000190464": 61,
+      "gas:candidate-vibid:1001000121293": 31,
+      "gas:candidate-vibid:1001000136162": 44,
+      "gas:candidate-vibid:1001000121946": 129,
+      "special:against-all": 105
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370416&region=0&sub_region=0&type=429",
@@ -10131,14 +10131,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 291,
-      "Егорова Любовь Ивановна": 39,
-      "Иванова Валентина Николаевна": 311,
-      "Лихачев Дмитрий Юрьевич": 36,
-      "Онищенко Игорь Николаевич": 36,
-      "Савельев Игорь Витальевич": 27,
-      "Федоров Владимир Игоревич": 100,
-      "Против всех": 81
+      "gas:candidate-vibid:1001000112283": 291,
+      "gas:candidate-vibid:1001000195177": 39,
+      "gas:candidate-vibid:1001000226018": 311,
+      "gas:candidate-vibid:1001000190464": 36,
+      "gas:candidate-vibid:1001000121293": 36,
+      "gas:candidate-vibid:1001000136162": 27,
+      "gas:candidate-vibid:1001000121946": 100,
+      "special:against-all": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370416&region=0&sub_region=0&type=429",
@@ -10188,14 +10188,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 280,
-      "Егорова Любовь Ивановна": 50,
-      "Иванова Валентина Николаевна": 278,
-      "Лихачев Дмитрий Юрьевич": 47,
-      "Онищенко Игорь Николаевич": 19,
-      "Савельев Игорь Витальевич": 45,
-      "Федоров Владимир Игоревич": 97,
-      "Против всех": 114
+      "gas:candidate-vibid:1001000112283": 280,
+      "gas:candidate-vibid:1001000195177": 50,
+      "gas:candidate-vibid:1001000226018": 278,
+      "gas:candidate-vibid:1001000190464": 47,
+      "gas:candidate-vibid:1001000121293": 19,
+      "gas:candidate-vibid:1001000136162": 45,
+      "gas:candidate-vibid:1001000121946": 97,
+      "special:against-all": 114
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370416&region=0&sub_region=0&type=429",
@@ -10245,14 +10245,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 293,
-      "Егорова Любовь Ивановна": 65,
-      "Иванова Валентина Николаевна": 352,
-      "Лихачев Дмитрий Юрьевич": 51,
-      "Онищенко Игорь Николаевич": 19,
-      "Савельев Игорь Витальевич": 54,
-      "Федоров Владимир Игоревич": 103,
-      "Против всех": 132
+      "gas:candidate-vibid:1001000112283": 293,
+      "gas:candidate-vibid:1001000195177": 65,
+      "gas:candidate-vibid:1001000226018": 352,
+      "gas:candidate-vibid:1001000190464": 51,
+      "gas:candidate-vibid:1001000121293": 19,
+      "gas:candidate-vibid:1001000136162": 54,
+      "gas:candidate-vibid:1001000121946": 103,
+      "special:against-all": 132
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370416&region=0&sub_region=0&type=429",
@@ -10302,14 +10302,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 280,
-      "Егорова Любовь Ивановна": 44,
-      "Иванова Валентина Николаевна": 306,
-      "Лихачев Дмитрий Юрьевич": 65,
-      "Онищенко Игорь Николаевич": 17,
-      "Савельев Игорь Витальевич": 35,
-      "Федоров Владимир Игоревич": 81,
-      "Против всех": 92
+      "gas:candidate-vibid:1001000112283": 280,
+      "gas:candidate-vibid:1001000195177": 44,
+      "gas:candidate-vibid:1001000226018": 306,
+      "gas:candidate-vibid:1001000190464": 65,
+      "gas:candidate-vibid:1001000121293": 17,
+      "gas:candidate-vibid:1001000136162": 35,
+      "gas:candidate-vibid:1001000121946": 81,
+      "special:against-all": 92
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370416&region=0&sub_region=0&type=429",
@@ -10359,14 +10359,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 377,
-      "Егорова Любовь Ивановна": 57,
-      "Иванова Валентина Николаевна": 339,
-      "Лихачев Дмитрий Юрьевич": 46,
-      "Онищенко Игорь Николаевич": 22,
-      "Савельев Игорь Витальевич": 37,
-      "Федоров Владимир Игоревич": 79,
-      "Против всех": 125
+      "gas:candidate-vibid:1001000112283": 377,
+      "gas:candidate-vibid:1001000195177": 57,
+      "gas:candidate-vibid:1001000226018": 339,
+      "gas:candidate-vibid:1001000190464": 46,
+      "gas:candidate-vibid:1001000121293": 22,
+      "gas:candidate-vibid:1001000136162": 37,
+      "gas:candidate-vibid:1001000121946": 79,
+      "special:against-all": 125
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370416&region=0&sub_region=0&type=429",
@@ -10416,14 +10416,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 363,
-      "Егорова Любовь Ивановна": 56,
-      "Иванова Валентина Николаевна": 388,
-      "Лихачев Дмитрий Юрьевич": 37,
-      "Онищенко Игорь Николаевич": 18,
-      "Савельев Игорь Витальевич": 29,
-      "Федоров Владимир Игоревич": 111,
-      "Против всех": 110
+      "gas:candidate-vibid:1001000112283": 363,
+      "gas:candidate-vibid:1001000195177": 56,
+      "gas:candidate-vibid:1001000226018": 388,
+      "gas:candidate-vibid:1001000190464": 37,
+      "gas:candidate-vibid:1001000121293": 18,
+      "gas:candidate-vibid:1001000136162": 29,
+      "gas:candidate-vibid:1001000121946": 111,
+      "special:against-all": 110
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370416&region=0&sub_region=0&type=429",
@@ -10473,14 +10473,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 291,
-      "Егорова Любовь Ивановна": 42,
-      "Иванова Валентина Николаевна": 311,
-      "Лихачев Дмитрий Юрьевич": 48,
-      "Онищенко Игорь Николаевич": 31,
-      "Савельев Игорь Витальевич": 28,
-      "Федоров Владимир Игоревич": 88,
-      "Против всех": 92
+      "gas:candidate-vibid:1001000112283": 291,
+      "gas:candidate-vibid:1001000195177": 42,
+      "gas:candidate-vibid:1001000226018": 311,
+      "gas:candidate-vibid:1001000190464": 48,
+      "gas:candidate-vibid:1001000121293": 31,
+      "gas:candidate-vibid:1001000136162": 28,
+      "gas:candidate-vibid:1001000121946": 88,
+      "special:against-all": 92
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370416&region=0&sub_region=0&type=429",
@@ -10530,14 +10530,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 234,
-      "Егорова Любовь Ивановна": 36,
-      "Иванова Валентина Николаевна": 291,
-      "Лихачев Дмитрий Юрьевич": 48,
-      "Онищенко Игорь Николаевич": 16,
-      "Савельев Игорь Витальевич": 36,
-      "Федоров Владимир Игоревич": 110,
-      "Против всех": 87
+      "gas:candidate-vibid:1001000112283": 234,
+      "gas:candidate-vibid:1001000195177": 36,
+      "gas:candidate-vibid:1001000226018": 291,
+      "gas:candidate-vibid:1001000190464": 48,
+      "gas:candidate-vibid:1001000121293": 16,
+      "gas:candidate-vibid:1001000136162": 36,
+      "gas:candidate-vibid:1001000121946": 110,
+      "special:against-all": 87
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370416&region=0&sub_region=0&type=429",
@@ -10587,14 +10587,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 62,
-      "Егорова Любовь Ивановна": 19,
-      "Иванова Валентина Николаевна": 137,
-      "Лихачев Дмитрий Юрьевич": 79,
-      "Онищенко Игорь Николаевич": 9,
-      "Савельев Игорь Витальевич": 17,
-      "Федоров Владимир Игоревич": 34,
-      "Против всех": 48
+      "gas:candidate-vibid:1001000112283": 62,
+      "gas:candidate-vibid:1001000195177": 19,
+      "gas:candidate-vibid:1001000226018": 137,
+      "gas:candidate-vibid:1001000190464": 79,
+      "gas:candidate-vibid:1001000121293": 9,
+      "gas:candidate-vibid:1001000136162": 17,
+      "gas:candidate-vibid:1001000121946": 34,
+      "special:against-all": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370416&region=0&sub_region=0&type=429",
@@ -10644,14 +10644,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 72,
-      "Егорова Любовь Ивановна": 24,
-      "Иванова Валентина Николаевна": 254,
-      "Лихачев Дмитрий Юрьевич": 89,
-      "Онищенко Игорь Николаевич": 15,
-      "Савельев Игорь Витальевич": 20,
-      "Федоров Владимир Игоревич": 43,
-      "Против всех": 107
+      "gas:candidate-vibid:1001000112283": 72,
+      "gas:candidate-vibid:1001000195177": 24,
+      "gas:candidate-vibid:1001000226018": 254,
+      "gas:candidate-vibid:1001000190464": 89,
+      "gas:candidate-vibid:1001000121293": 15,
+      "gas:candidate-vibid:1001000136162": 20,
+      "gas:candidate-vibid:1001000121946": 43,
+      "special:against-all": 107
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370416&region=0&sub_region=0&type=429",
@@ -10701,14 +10701,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 161,
-      "Егорова Любовь Ивановна": 55,
-      "Иванова Валентина Николаевна": 268,
-      "Лихачев Дмитрий Юрьевич": 155,
-      "Онищенко Игорь Николаевич": 12,
-      "Савельев Игорь Витальевич": 31,
-      "Федоров Владимир Игоревич": 105,
-      "Против всех": 110
+      "gas:candidate-vibid:1001000112283": 161,
+      "gas:candidate-vibid:1001000195177": 55,
+      "gas:candidate-vibid:1001000226018": 268,
+      "gas:candidate-vibid:1001000190464": 155,
+      "gas:candidate-vibid:1001000121293": 12,
+      "gas:candidate-vibid:1001000136162": 31,
+      "gas:candidate-vibid:1001000121946": 105,
+      "special:against-all": 110
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370416&region=0&sub_region=0&type=429",
@@ -10758,14 +10758,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 144,
-      "Егорова Любовь Ивановна": 57,
-      "Иванова Валентина Николаевна": 275,
-      "Лихачев Дмитрий Юрьевич": 122,
-      "Онищенко Игорь Николаевич": 11,
-      "Савельев Игорь Витальевич": 32,
-      "Федоров Владимир Игоревич": 84,
-      "Против всех": 101
+      "gas:candidate-vibid:1001000112283": 144,
+      "gas:candidate-vibid:1001000195177": 57,
+      "gas:candidate-vibid:1001000226018": 275,
+      "gas:candidate-vibid:1001000190464": 122,
+      "gas:candidate-vibid:1001000121293": 11,
+      "gas:candidate-vibid:1001000136162": 32,
+      "gas:candidate-vibid:1001000121946": 84,
+      "special:against-all": 101
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370416&region=0&sub_region=0&type=429",
@@ -10815,14 +10815,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 205,
-      "Егорова Любовь Ивановна": 63,
-      "Иванова Валентина Николаевна": 295,
-      "Лихачев Дмитрий Юрьевич": 139,
-      "Онищенко Игорь Николаевич": 13,
-      "Савельев Игорь Витальевич": 48,
-      "Федоров Владимир Игоревич": 92,
-      "Против всех": 126
+      "gas:candidate-vibid:1001000112283": 205,
+      "gas:candidate-vibid:1001000195177": 63,
+      "gas:candidate-vibid:1001000226018": 295,
+      "gas:candidate-vibid:1001000190464": 139,
+      "gas:candidate-vibid:1001000121293": 13,
+      "gas:candidate-vibid:1001000136162": 48,
+      "gas:candidate-vibid:1001000121946": 92,
+      "special:against-all": 126
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370416&region=0&sub_region=0&type=429",
@@ -10872,14 +10872,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 119,
-      "Егорова Любовь Ивановна": 171,
-      "Иванова Валентина Николаевна": 478,
-      "Лихачев Дмитрий Юрьевич": 113,
-      "Онищенко Игорь Николаевич": 30,
-      "Савельев Игорь Витальевич": 171,
-      "Федоров Владимир Игоревич": 99,
-      "Против всех": 322
+      "gas:candidate-vibid:1001000112283": 119,
+      "gas:candidate-vibid:1001000195177": 171,
+      "gas:candidate-vibid:1001000226018": 478,
+      "gas:candidate-vibid:1001000190464": 113,
+      "gas:candidate-vibid:1001000121293": 30,
+      "gas:candidate-vibid:1001000136162": 171,
+      "gas:candidate-vibid:1001000121946": 99,
+      "special:against-all": 322
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370416&region=0&sub_region=0&type=429",
@@ -10929,14 +10929,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 154,
-      "Егорова Любовь Ивановна": 101,
-      "Иванова Валентина Николаевна": 387,
-      "Лихачев Дмитрий Юрьевич": 82,
-      "Онищенко Игорь Николаевич": 23,
-      "Савельев Игорь Витальевич": 50,
-      "Федоров Владимир Игоревич": 224,
-      "Против всех": 142
+      "gas:candidate-vibid:1001000112283": 154,
+      "gas:candidate-vibid:1001000195177": 101,
+      "gas:candidate-vibid:1001000226018": 387,
+      "gas:candidate-vibid:1001000190464": 82,
+      "gas:candidate-vibid:1001000121293": 23,
+      "gas:candidate-vibid:1001000136162": 50,
+      "gas:candidate-vibid:1001000121946": 224,
+      "special:against-all": 142
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370416&region=0&sub_region=0&type=429",
@@ -10986,14 +10986,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 101,
-      "Егорова Любовь Ивановна": 23,
-      "Иванова Валентина Николаевна": 109,
-      "Лихачев Дмитрий Юрьевич": 29,
-      "Онищенко Игорь Николаевич": 1,
-      "Савельев Игорь Витальевич": 7,
-      "Федоров Владимир Игоревич": 53,
-      "Против всех": 36
+      "gas:candidate-vibid:1001000112283": 101,
+      "gas:candidate-vibid:1001000195177": 23,
+      "gas:candidate-vibid:1001000226018": 109,
+      "gas:candidate-vibid:1001000190464": 29,
+      "gas:candidate-vibid:1001000121293": 1,
+      "gas:candidate-vibid:1001000136162": 7,
+      "gas:candidate-vibid:1001000121946": 53,
+      "special:against-all": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370416&region=0&sub_region=0&type=429",
@@ -11043,14 +11043,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 56,
-      "Егорова Любовь Ивановна": 23,
-      "Иванова Валентина Николаевна": 150,
-      "Лихачев Дмитрий Юрьевич": 13,
-      "Онищенко Игорь Николаевич": 3,
-      "Савельев Игорь Витальевич": 14,
-      "Федоров Владимир Игоревич": 38,
-      "Против всех": 25
+      "gas:candidate-vibid:1001000112283": 56,
+      "gas:candidate-vibid:1001000195177": 23,
+      "gas:candidate-vibid:1001000226018": 150,
+      "gas:candidate-vibid:1001000190464": 13,
+      "gas:candidate-vibid:1001000121293": 3,
+      "gas:candidate-vibid:1001000136162": 14,
+      "gas:candidate-vibid:1001000121946": 38,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370416&region=0&sub_region=0&type=429",
@@ -11100,14 +11100,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 181,
-      "Егорова Любовь Ивановна": 71,
-      "Иванова Валентина Николаевна": 246,
-      "Лихачев Дмитрий Юрьевич": 52,
-      "Онищенко Игорь Николаевич": 16,
-      "Савельев Игорь Витальевич": 53,
-      "Федоров Владимир Игоревич": 88,
-      "Против всех": 109
+      "gas:candidate-vibid:1001000112283": 181,
+      "gas:candidate-vibid:1001000195177": 71,
+      "gas:candidate-vibid:1001000226018": 246,
+      "gas:candidate-vibid:1001000190464": 52,
+      "gas:candidate-vibid:1001000121293": 16,
+      "gas:candidate-vibid:1001000136162": 53,
+      "gas:candidate-vibid:1001000121946": 88,
+      "special:against-all": 109
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370416&region=0&sub_region=0&type=429",
@@ -11157,14 +11157,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 189,
-      "Егорова Любовь Ивановна": 39,
-      "Иванова Валентина Николаевна": 279,
-      "Лихачев Дмитрий Юрьевич": 55,
-      "Онищенко Игорь Николаевич": 21,
-      "Савельев Игорь Витальевич": 47,
-      "Федоров Владимир Игоревич": 88,
-      "Против всех": 84
+      "gas:candidate-vibid:1001000112283": 189,
+      "gas:candidate-vibid:1001000195177": 39,
+      "gas:candidate-vibid:1001000226018": 279,
+      "gas:candidate-vibid:1001000190464": 55,
+      "gas:candidate-vibid:1001000121293": 21,
+      "gas:candidate-vibid:1001000136162": 47,
+      "gas:candidate-vibid:1001000121946": 88,
+      "special:against-all": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370416&region=0&sub_region=0&type=429",
@@ -11214,14 +11214,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 249,
-      "Егорова Любовь Ивановна": 53,
-      "Иванова Валентина Николаевна": 336,
-      "Лихачев Дмитрий Юрьевич": 31,
-      "Онищенко Игорь Николаевич": 22,
-      "Савельев Игорь Витальевич": 40,
-      "Федоров Владимир Игоревич": 147,
-      "Против всех": 70
+      "gas:candidate-vibid:1001000112283": 249,
+      "gas:candidate-vibid:1001000195177": 53,
+      "gas:candidate-vibid:1001000226018": 336,
+      "gas:candidate-vibid:1001000190464": 31,
+      "gas:candidate-vibid:1001000121293": 22,
+      "gas:candidate-vibid:1001000136162": 40,
+      "gas:candidate-vibid:1001000121946": 147,
+      "special:against-all": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370416&region=0&sub_region=0&type=429",
@@ -11271,14 +11271,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 107,
-      "Егорова Любовь Ивановна": 49,
-      "Иванова Валентина Николаевна": 186,
-      "Лихачев Дмитрий Юрьевич": 20,
-      "Онищенко Игорь Николаевич": 6,
-      "Савельев Игорь Витальевич": 23,
-      "Федоров Владимир Игоревич": 52,
-      "Против всех": 44
+      "gas:candidate-vibid:1001000112283": 107,
+      "gas:candidate-vibid:1001000195177": 49,
+      "gas:candidate-vibid:1001000226018": 186,
+      "gas:candidate-vibid:1001000190464": 20,
+      "gas:candidate-vibid:1001000121293": 6,
+      "gas:candidate-vibid:1001000136162": 23,
+      "gas:candidate-vibid:1001000121946": 52,
+      "special:against-all": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370416&region=0&sub_region=0&type=429",
@@ -11328,14 +11328,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 311,
-      "Егорова Любовь Ивановна": 61,
-      "Иванова Валентина Николаевна": 336,
-      "Лихачев Дмитрий Юрьевич": 38,
-      "Онищенко Игорь Николаевич": 18,
-      "Савельев Игорь Витальевич": 43,
-      "Федоров Владимир Игоревич": 112,
-      "Против всех": 89
+      "gas:candidate-vibid:1001000112283": 311,
+      "gas:candidate-vibid:1001000195177": 61,
+      "gas:candidate-vibid:1001000226018": 336,
+      "gas:candidate-vibid:1001000190464": 38,
+      "gas:candidate-vibid:1001000121293": 18,
+      "gas:candidate-vibid:1001000136162": 43,
+      "gas:candidate-vibid:1001000121946": 112,
+      "special:against-all": 89
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370416&region=0&sub_region=0&type=429",
@@ -11385,14 +11385,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 270,
-      "Егорова Любовь Ивановна": 57,
-      "Иванова Валентина Николаевна": 238,
-      "Лихачев Дмитрий Юрьевич": 35,
-      "Онищенко Игорь Николаевич": 7,
-      "Савельев Игорь Витальевич": 39,
-      "Федоров Владимир Игоревич": 109,
-      "Против всех": 66
+      "gas:candidate-vibid:1001000112283": 270,
+      "gas:candidate-vibid:1001000195177": 57,
+      "gas:candidate-vibid:1001000226018": 238,
+      "gas:candidate-vibid:1001000190464": 35,
+      "gas:candidate-vibid:1001000121293": 7,
+      "gas:candidate-vibid:1001000136162": 39,
+      "gas:candidate-vibid:1001000121946": 109,
+      "special:against-all": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370416&region=0&sub_region=0&type=429",
@@ -11442,14 +11442,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 195,
-      "Егорова Любовь Ивановна": 137,
-      "Иванова Валентина Николаевна": 312,
-      "Лихачев Дмитрий Юрьевич": 40,
-      "Онищенко Игорь Николаевич": 13,
-      "Савельев Игорь Витальевич": 43,
-      "Федоров Владимир Игоревич": 106,
-      "Против всех": 92
+      "gas:candidate-vibid:1001000112283": 195,
+      "gas:candidate-vibid:1001000195177": 137,
+      "gas:candidate-vibid:1001000226018": 312,
+      "gas:candidate-vibid:1001000190464": 40,
+      "gas:candidate-vibid:1001000121293": 13,
+      "gas:candidate-vibid:1001000136162": 43,
+      "gas:candidate-vibid:1001000121946": 106,
+      "special:against-all": 92
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370416&region=0&sub_region=0&type=429",
@@ -11499,14 +11499,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 181,
-      "Егорова Любовь Ивановна": 69,
-      "Иванова Валентина Николаевна": 319,
-      "Лихачев Дмитрий Юрьевич": 46,
-      "Онищенко Игорь Николаевич": 22,
-      "Савельев Игорь Витальевич": 41,
-      "Федоров Владимир Игоревич": 97,
-      "Против всех": 80
+      "gas:candidate-vibid:1001000112283": 181,
+      "gas:candidate-vibid:1001000195177": 69,
+      "gas:candidate-vibid:1001000226018": 319,
+      "gas:candidate-vibid:1001000190464": 46,
+      "gas:candidate-vibid:1001000121293": 22,
+      "gas:candidate-vibid:1001000136162": 41,
+      "gas:candidate-vibid:1001000121946": 97,
+      "special:against-all": 80
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370416&region=0&sub_region=0&type=429",
@@ -11556,14 +11556,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 179,
-      "Егорова Любовь Ивановна": 91,
-      "Иванова Валентина Николаевна": 457,
-      "Лихачев Дмитрий Юрьевич": 91,
-      "Онищенко Игорь Николаевич": 13,
-      "Савельев Игорь Витальевич": 48,
-      "Федоров Владимир Игоревич": 137,
-      "Против всех": 167
+      "gas:candidate-vibid:1001000112283": 179,
+      "gas:candidate-vibid:1001000195177": 91,
+      "gas:candidate-vibid:1001000226018": 457,
+      "gas:candidate-vibid:1001000190464": 91,
+      "gas:candidate-vibid:1001000121293": 13,
+      "gas:candidate-vibid:1001000136162": 48,
+      "gas:candidate-vibid:1001000121946": 137,
+      "special:against-all": 167
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370416&region=0&sub_region=0&type=429",
@@ -11613,14 +11613,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 46,
-      "Егорова Любовь Ивановна": 14,
-      "Иванова Валентина Николаевна": 94,
-      "Лихачев Дмитрий Юрьевич": 28,
-      "Онищенко Игорь Николаевич": 8,
-      "Савельев Игорь Витальевич": 18,
-      "Федоров Владимир Игоревич": 20,
-      "Против всех": 25
+      "gas:candidate-vibid:1001000112283": 46,
+      "gas:candidate-vibid:1001000195177": 14,
+      "gas:candidate-vibid:1001000226018": 94,
+      "gas:candidate-vibid:1001000190464": 28,
+      "gas:candidate-vibid:1001000121293": 8,
+      "gas:candidate-vibid:1001000136162": 18,
+      "gas:candidate-vibid:1001000121946": 20,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370416&region=0&sub_region=0&type=429",
@@ -11670,14 +11670,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 302,
-      "Егорова Любовь Ивановна": 58,
-      "Иванова Валентина Николаевна": 291,
-      "Лихачев Дмитрий Юрьевич": 36,
-      "Онищенко Игорь Николаевич": 22,
-      "Савельев Игорь Витальевич": 33,
-      "Федоров Владимир Игоревич": 101,
-      "Против всех": 96
+      "gas:candidate-vibid:1001000112283": 302,
+      "gas:candidate-vibid:1001000195177": 58,
+      "gas:candidate-vibid:1001000226018": 291,
+      "gas:candidate-vibid:1001000190464": 36,
+      "gas:candidate-vibid:1001000121293": 22,
+      "gas:candidate-vibid:1001000136162": 33,
+      "gas:candidate-vibid:1001000121946": 101,
+      "special:against-all": 96
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370416&region=0&sub_region=0&type=429",
@@ -11727,14 +11727,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 302,
-      "Егорова Любовь Ивановна": 71,
-      "Иванова Валентина Николаевна": 335,
-      "Лихачев Дмитрий Юрьевич": 62,
-      "Онищенко Игорь Николаевич": 19,
-      "Савельев Игорь Витальевич": 33,
-      "Федоров Владимир Игоревич": 131,
-      "Против всех": 96
+      "gas:candidate-vibid:1001000112283": 302,
+      "gas:candidate-vibid:1001000195177": 71,
+      "gas:candidate-vibid:1001000226018": 335,
+      "gas:candidate-vibid:1001000190464": 62,
+      "gas:candidate-vibid:1001000121293": 19,
+      "gas:candidate-vibid:1001000136162": 33,
+      "gas:candidate-vibid:1001000121946": 131,
+      "special:against-all": 96
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370416&region=0&sub_region=0&type=429",
@@ -11784,14 +11784,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 313,
-      "Егорова Любовь Ивановна": 53,
-      "Иванова Валентина Николаевна": 337,
-      "Лихачев Дмитрий Юрьевич": 42,
-      "Онищенко Игорь Николаевич": 15,
-      "Савельев Игорь Витальевич": 30,
-      "Федоров Владимир Игоревич": 67,
-      "Против всех": 88
+      "gas:candidate-vibid:1001000112283": 313,
+      "gas:candidate-vibid:1001000195177": 53,
+      "gas:candidate-vibid:1001000226018": 337,
+      "gas:candidate-vibid:1001000190464": 42,
+      "gas:candidate-vibid:1001000121293": 15,
+      "gas:candidate-vibid:1001000136162": 30,
+      "gas:candidate-vibid:1001000121946": 67,
+      "special:against-all": 88
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370416&region=0&sub_region=0&type=429",
@@ -11841,14 +11841,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 225,
-      "Егорова Любовь Ивановна": 50,
-      "Иванова Валентина Николаевна": 252,
-      "Лихачев Дмитрий Юрьевич": 61,
-      "Онищенко Игорь Николаевич": 10,
-      "Савельев Игорь Витальевич": 33,
-      "Федоров Владимир Игоревич": 83,
-      "Против всех": 78
+      "gas:candidate-vibid:1001000112283": 225,
+      "gas:candidate-vibid:1001000195177": 50,
+      "gas:candidate-vibid:1001000226018": 252,
+      "gas:candidate-vibid:1001000190464": 61,
+      "gas:candidate-vibid:1001000121293": 10,
+      "gas:candidate-vibid:1001000136162": 33,
+      "gas:candidate-vibid:1001000121946": 83,
+      "special:against-all": 78
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370416&region=0&sub_region=0&type=429",
@@ -11898,14 +11898,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 17,
-      "Егорова Любовь Ивановна": 12,
-      "Иванова Валентина Николаевна": 42,
-      "Лихачев Дмитрий Юрьевич": 13,
-      "Онищенко Игорь Николаевич": 5,
-      "Савельев Игорь Витальевич": 8,
-      "Федоров Владимир Игоревич": 6,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000112283": 17,
+      "gas:candidate-vibid:1001000195177": 12,
+      "gas:candidate-vibid:1001000226018": 42,
+      "gas:candidate-vibid:1001000190464": 13,
+      "gas:candidate-vibid:1001000121293": 5,
+      "gas:candidate-vibid:1001000136162": 8,
+      "gas:candidate-vibid:1001000121946": 6,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370416&region=0&sub_region=0&type=429",
@@ -11955,14 +11955,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 48,
-      "Егорова Любовь Ивановна": 60,
-      "Иванова Валентина Николаевна": 121,
-      "Лихачев Дмитрий Юрьевич": 23,
-      "Онищенко Игорь Николаевич": 12,
-      "Савельев Игорь Витальевич": 29,
-      "Федоров Владимир Игоревич": 20,
-      "Против всех": 133
+      "gas:candidate-vibid:1001000112283": 48,
+      "gas:candidate-vibid:1001000195177": 60,
+      "gas:candidate-vibid:1001000226018": 121,
+      "gas:candidate-vibid:1001000190464": 23,
+      "gas:candidate-vibid:1001000121293": 12,
+      "gas:candidate-vibid:1001000136162": 29,
+      "gas:candidate-vibid:1001000121946": 20,
+      "special:against-all": 133
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370416&region=0&sub_region=0&type=429",
@@ -12012,14 +12012,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 24,
-      "Егорова Любовь Ивановна": 14,
-      "Иванова Валентина Николаевна": 44,
-      "Лихачев Дмитрий Юрьевич": 20,
-      "Онищенко Игорь Николаевич": 4,
-      "Савельев Игорь Витальевич": 3,
-      "Федоров Владимир Игоревич": 5,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000112283": 24,
+      "gas:candidate-vibid:1001000195177": 14,
+      "gas:candidate-vibid:1001000226018": 44,
+      "gas:candidate-vibid:1001000190464": 20,
+      "gas:candidate-vibid:1001000121293": 4,
+      "gas:candidate-vibid:1001000136162": 3,
+      "gas:candidate-vibid:1001000121946": 5,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370416&region=0&sub_region=0&type=429",
@@ -12069,14 +12069,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 165,
-      "Егорова Любовь Ивановна": 106,
-      "Иванова Валентина Николаевна": 659,
-      "Лихачев Дмитрий Юрьевич": 60,
-      "Онищенко Игорь Николаевич": 30,
-      "Савельев Игорь Витальевич": 58,
-      "Федоров Владимир Игоревич": 110,
-      "Против всех": 203
+      "gas:candidate-vibid:1001000112283": 165,
+      "gas:candidate-vibid:1001000195177": 106,
+      "gas:candidate-vibid:1001000226018": 659,
+      "gas:candidate-vibid:1001000190464": 60,
+      "gas:candidate-vibid:1001000121293": 30,
+      "gas:candidate-vibid:1001000136162": 58,
+      "gas:candidate-vibid:1001000121946": 110,
+      "special:against-all": 203
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370416&region=0&sub_region=0&type=429",
@@ -12126,14 +12126,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Артемьев Игорь Юрьевич": 4,
-      "Егорова Любовь Ивановна": 0,
-      "Иванова Валентина Николаевна": 5,
-      "Лихачев Дмитрий Юрьевич": 2,
-      "Онищенко Игорь Николаевич": 1,
-      "Савельев Игорь Витальевич": 0,
-      "Федоров Владимир Игоревич": 4,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000112283": 4,
+      "gas:candidate-vibid:1001000195177": 0,
+      "gas:candidate-vibid:1001000226018": 5,
+      "gas:candidate-vibid:1001000190464": 2,
+      "gas:candidate-vibid:1001000121293": 1,
+      "gas:candidate-vibid:1001000136162": 0,
+      "gas:candidate-vibid:1001000121946": 4,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300370416&region=0&sub_region=0&type=429",
@@ -12183,14 +12183,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 42,
-      "Говядовский Виктор Петрович": 18,
-      "Краузе Александр Анатольевич": 48,
-      "Селезнев Геннадий Николаевич": 427,
-      "Сидорин Сергей Валерьевич": 15,
-      "Табакова Елена Викторовна": 81,
-      "Хакамада Ирина Муцуовна": 293,
-      "Против всех": 134
+      "gas:candidate-vibid:1001000136163": 42,
+      "gas:candidate-vibid:378300470578": 18,
+      "gas:candidate-vibid:1001000121947": 48,
+      "gas:candidate-vibid:1001000190465": 427,
+      "gas:candidate-vibid:378300470566": 15,
+      "gas:candidate-vibid:378300470572": 81,
+      "gas:candidate-vibid:1001000114003": 293,
+      "special:against-all": 134
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470432&region=0&sub_region=0&type=429",
@@ -12240,14 +12240,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 59,
-      "Говядовский Виктор Петрович": 14,
-      "Краузе Александр Анатольевич": 49,
-      "Селезнев Геннадий Николаевич": 591,
-      "Сидорин Сергей Валерьевич": 36,
-      "Табакова Елена Викторовна": 133,
-      "Хакамада Ирина Муцуовна": 165,
-      "Против всех": 441
+      "gas:candidate-vibid:1001000136163": 59,
+      "gas:candidate-vibid:378300470578": 14,
+      "gas:candidate-vibid:1001000121947": 49,
+      "gas:candidate-vibid:1001000190465": 591,
+      "gas:candidate-vibid:378300470566": 36,
+      "gas:candidate-vibid:378300470572": 133,
+      "gas:candidate-vibid:1001000114003": 165,
+      "special:against-all": 441
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470432&region=0&sub_region=0&type=429",
@@ -12297,14 +12297,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 29,
-      "Говядовский Виктор Петрович": 26,
-      "Краузе Александр Анатольевич": 65,
-      "Селезнев Геннадий Николаевич": 395,
-      "Сидорин Сергей Валерьевич": 25,
-      "Табакова Елена Викторовна": 100,
-      "Хакамада Ирина Муцуовна": 172,
-      "Против всех": 157
+      "gas:candidate-vibid:1001000136163": 29,
+      "gas:candidate-vibid:378300470578": 26,
+      "gas:candidate-vibid:1001000121947": 65,
+      "gas:candidate-vibid:1001000190465": 395,
+      "gas:candidate-vibid:378300470566": 25,
+      "gas:candidate-vibid:378300470572": 100,
+      "gas:candidate-vibid:1001000114003": 172,
+      "special:against-all": 157
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470432&region=0&sub_region=0&type=429",
@@ -12354,14 +12354,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 46,
-      "Говядовский Виктор Петрович": 16,
-      "Краузе Александр Анатольевич": 59,
-      "Селезнев Геннадий Николаевич": 376,
-      "Сидорин Сергей Валерьевич": 9,
-      "Табакова Елена Викторовна": 79,
-      "Хакамада Ирина Муцуовна": 185,
-      "Против всех": 96
+      "gas:candidate-vibid:1001000136163": 46,
+      "gas:candidate-vibid:378300470578": 16,
+      "gas:candidate-vibid:1001000121947": 59,
+      "gas:candidate-vibid:1001000190465": 376,
+      "gas:candidate-vibid:378300470566": 9,
+      "gas:candidate-vibid:378300470572": 79,
+      "gas:candidate-vibid:1001000114003": 185,
+      "special:against-all": 96
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470432&region=0&sub_region=0&type=429",
@@ -12411,14 +12411,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 61,
-      "Говядовский Виктор Петрович": 12,
-      "Краузе Александр Анатольевич": 57,
-      "Селезнев Геннадий Николаевич": 659,
-      "Сидорин Сергей Валерьевич": 34,
-      "Табакова Елена Викторовна": 105,
-      "Хакамада Ирина Муцуовна": 194,
-      "Против всех": 237
+      "gas:candidate-vibid:1001000136163": 61,
+      "gas:candidate-vibid:378300470578": 12,
+      "gas:candidate-vibid:1001000121947": 57,
+      "gas:candidate-vibid:1001000190465": 659,
+      "gas:candidate-vibid:378300470566": 34,
+      "gas:candidate-vibid:378300470572": 105,
+      "gas:candidate-vibid:1001000114003": 194,
+      "special:against-all": 237
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470432&region=0&sub_region=0&type=429",
@@ -12468,14 +12468,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 25,
-      "Говядовский Виктор Петрович": 8,
-      "Краузе Александр Анатольевич": 42,
-      "Селезнев Геннадий Николаевич": 369,
-      "Сидорин Сергей Валерьевич": 11,
-      "Табакова Елена Викторовна": 57,
-      "Хакамада Ирина Муцуовна": 195,
-      "Против всех": 85
+      "gas:candidate-vibid:1001000136163": 25,
+      "gas:candidate-vibid:378300470578": 8,
+      "gas:candidate-vibid:1001000121947": 42,
+      "gas:candidate-vibid:1001000190465": 369,
+      "gas:candidate-vibid:378300470566": 11,
+      "gas:candidate-vibid:378300470572": 57,
+      "gas:candidate-vibid:1001000114003": 195,
+      "special:against-all": 85
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470432&region=0&sub_region=0&type=429",
@@ -12525,14 +12525,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 32,
-      "Говядовский Виктор Петрович": 13,
-      "Краузе Александр Анатольевич": 50,
-      "Селезнев Геннадий Николаевич": 375,
-      "Сидорин Сергей Валерьевич": 10,
-      "Табакова Елена Викторовна": 56,
-      "Хакамада Ирина Муцуовна": 202,
-      "Против всех": 113
+      "gas:candidate-vibid:1001000136163": 32,
+      "gas:candidate-vibid:378300470578": 13,
+      "gas:candidate-vibid:1001000121947": 50,
+      "gas:candidate-vibid:1001000190465": 375,
+      "gas:candidate-vibid:378300470566": 10,
+      "gas:candidate-vibid:378300470572": 56,
+      "gas:candidate-vibid:1001000114003": 202,
+      "special:against-all": 113
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470432&region=0&sub_region=0&type=429",
@@ -12582,14 +12582,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 42,
-      "Говядовский Виктор Петрович": 7,
-      "Краузе Александр Анатольевич": 48,
-      "Селезнев Геннадий Николаевич": 273,
-      "Сидорин Сергей Валерьевич": 13,
-      "Табакова Елена Викторовна": 68,
-      "Хакамада Ирина Муцуовна": 141,
-      "Против всех": 85
+      "gas:candidate-vibid:1001000136163": 42,
+      "gas:candidate-vibid:378300470578": 7,
+      "gas:candidate-vibid:1001000121947": 48,
+      "gas:candidate-vibid:1001000190465": 273,
+      "gas:candidate-vibid:378300470566": 13,
+      "gas:candidate-vibid:378300470572": 68,
+      "gas:candidate-vibid:1001000114003": 141,
+      "special:against-all": 85
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470432&region=0&sub_region=0&type=429",
@@ -12639,14 +12639,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 25,
-      "Говядовский Виктор Петрович": 7,
-      "Краузе Александр Анатольевич": 66,
-      "Селезнев Геннадий Николаевич": 470,
-      "Сидорин Сергей Валерьевич": 12,
-      "Табакова Елена Викторовна": 68,
-      "Хакамада Ирина Муцуовна": 188,
-      "Против всех": 96
+      "gas:candidate-vibid:1001000136163": 25,
+      "gas:candidate-vibid:378300470578": 7,
+      "gas:candidate-vibid:1001000121947": 66,
+      "gas:candidate-vibid:1001000190465": 470,
+      "gas:candidate-vibid:378300470566": 12,
+      "gas:candidate-vibid:378300470572": 68,
+      "gas:candidate-vibid:1001000114003": 188,
+      "special:against-all": 96
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470432&region=0&sub_region=0&type=429",
@@ -12696,14 +12696,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 25,
-      "Говядовский Виктор Петрович": 13,
-      "Краузе Александр Анатольевич": 38,
-      "Селезнев Геннадий Николаевич": 288,
-      "Сидорин Сергей Валерьевич": 16,
-      "Табакова Елена Викторовна": 36,
-      "Хакамада Ирина Муцуовна": 132,
-      "Против всех": 89
+      "gas:candidate-vibid:1001000136163": 25,
+      "gas:candidate-vibid:378300470578": 13,
+      "gas:candidate-vibid:1001000121947": 38,
+      "gas:candidate-vibid:1001000190465": 288,
+      "gas:candidate-vibid:378300470566": 16,
+      "gas:candidate-vibid:378300470572": 36,
+      "gas:candidate-vibid:1001000114003": 132,
+      "special:against-all": 89
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470432&region=0&sub_region=0&type=429",
@@ -12753,14 +12753,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 23,
-      "Говядовский Виктор Петрович": 17,
-      "Краузе Александр Анатольевич": 46,
-      "Селезнев Геннадий Николаевич": 296,
-      "Сидорин Сергей Валерьевич": 10,
-      "Табакова Елена Викторовна": 60,
-      "Хакамада Ирина Муцуовна": 203,
-      "Против всех": 83
+      "gas:candidate-vibid:1001000136163": 23,
+      "gas:candidate-vibid:378300470578": 17,
+      "gas:candidate-vibid:1001000121947": 46,
+      "gas:candidate-vibid:1001000190465": 296,
+      "gas:candidate-vibid:378300470566": 10,
+      "gas:candidate-vibid:378300470572": 60,
+      "gas:candidate-vibid:1001000114003": 203,
+      "special:against-all": 83
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470432&region=0&sub_region=0&type=429",
@@ -12810,14 +12810,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 31,
-      "Говядовский Виктор Петрович": 15,
-      "Краузе Александр Анатольевич": 48,
-      "Селезнев Геннадий Николаевич": 375,
-      "Сидорин Сергей Валерьевич": 12,
-      "Табакова Елена Викторовна": 64,
-      "Хакамада Ирина Муцуовна": 221,
-      "Против всех": 107
+      "gas:candidate-vibid:1001000136163": 31,
+      "gas:candidate-vibid:378300470578": 15,
+      "gas:candidate-vibid:1001000121947": 48,
+      "gas:candidate-vibid:1001000190465": 375,
+      "gas:candidate-vibid:378300470566": 12,
+      "gas:candidate-vibid:378300470572": 64,
+      "gas:candidate-vibid:1001000114003": 221,
+      "special:against-all": 107
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470432&region=0&sub_region=0&type=429",
@@ -12867,14 +12867,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 22,
-      "Говядовский Виктор Петрович": 7,
-      "Краузе Александр Анатольевич": 40,
-      "Селезнев Геннадий Николаевич": 421,
-      "Сидорин Сергей Валерьевич": 21,
-      "Табакова Елена Викторовна": 73,
-      "Хакамада Ирина Муцуовна": 194,
-      "Против всех": 109
+      "gas:candidate-vibid:1001000136163": 22,
+      "gas:candidate-vibid:378300470578": 7,
+      "gas:candidate-vibid:1001000121947": 40,
+      "gas:candidate-vibid:1001000190465": 421,
+      "gas:candidate-vibid:378300470566": 21,
+      "gas:candidate-vibid:378300470572": 73,
+      "gas:candidate-vibid:1001000114003": 194,
+      "special:against-all": 109
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470432&region=0&sub_region=0&type=429",
@@ -12924,14 +12924,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 0,
-      "Говядовский Виктор Петрович": 0,
-      "Краузе Александр Анатольевич": 0,
-      "Селезнев Геннадий Николаевич": 4,
-      "Сидорин Сергей Валерьевич": 0,
-      "Табакова Елена Викторовна": 0,
-      "Хакамада Ирина Муцуовна": 2,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000136163": 0,
+      "gas:candidate-vibid:378300470578": 0,
+      "gas:candidate-vibid:1001000121947": 0,
+      "gas:candidate-vibid:1001000190465": 4,
+      "gas:candidate-vibid:378300470566": 0,
+      "gas:candidate-vibid:378300470572": 0,
+      "gas:candidate-vibid:1001000114003": 2,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470432&region=0&sub_region=0&type=429",
@@ -12981,14 +12981,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 20,
-      "Говядовский Виктор Петрович": 20,
-      "Краузе Александр Анатольевич": 73,
-      "Селезнев Геннадий Николаевич": 609,
-      "Сидорин Сергей Валерьевич": 16,
-      "Табакова Елена Викторовна": 72,
-      "Хакамада Ирина Муцуовна": 368,
-      "Против всех": 103
+      "gas:candidate-vibid:1001000136163": 20,
+      "gas:candidate-vibid:378300470578": 20,
+      "gas:candidate-vibid:1001000121947": 73,
+      "gas:candidate-vibid:1001000190465": 609,
+      "gas:candidate-vibid:378300470566": 16,
+      "gas:candidate-vibid:378300470572": 72,
+      "gas:candidate-vibid:1001000114003": 368,
+      "special:against-all": 103
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470432&region=0&sub_region=0&type=429",
@@ -13038,14 +13038,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 23,
-      "Говядовский Виктор Петрович": 27,
-      "Краузе Александр Анатольевич": 98,
-      "Селезнев Геннадий Николаевич": 626,
-      "Сидорин Сергей Валерьевич": 11,
-      "Табакова Елена Викторовна": 60,
-      "Хакамада Ирина Муцуовна": 362,
-      "Против всех": 118
+      "gas:candidate-vibid:1001000136163": 23,
+      "gas:candidate-vibid:378300470578": 27,
+      "gas:candidate-vibid:1001000121947": 98,
+      "gas:candidate-vibid:1001000190465": 626,
+      "gas:candidate-vibid:378300470566": 11,
+      "gas:candidate-vibid:378300470572": 60,
+      "gas:candidate-vibid:1001000114003": 362,
+      "special:against-all": 118
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470432&region=0&sub_region=0&type=429",
@@ -13095,14 +13095,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 22,
-      "Говядовский Виктор Петрович": 17,
-      "Краузе Александр Анатольевич": 71,
-      "Селезнев Геннадий Николаевич": 562,
-      "Сидорин Сергей Валерьевич": 14,
-      "Табакова Елена Викторовна": 61,
-      "Хакамада Ирина Муцуовна": 263,
-      "Против всех": 90
+      "gas:candidate-vibid:1001000136163": 22,
+      "gas:candidate-vibid:378300470578": 17,
+      "gas:candidate-vibid:1001000121947": 71,
+      "gas:candidate-vibid:1001000190465": 562,
+      "gas:candidate-vibid:378300470566": 14,
+      "gas:candidate-vibid:378300470572": 61,
+      "gas:candidate-vibid:1001000114003": 263,
+      "special:against-all": 90
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470432&region=0&sub_region=0&type=429",
@@ -13152,14 +13152,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 29,
-      "Говядовский Виктор Петрович": 16,
-      "Краузе Александр Анатольевич": 65,
-      "Селезнев Геннадий Николаевич": 607,
-      "Сидорин Сергей Валерьевич": 20,
-      "Табакова Елена Викторовна": 73,
-      "Хакамада Ирина Муцуовна": 312,
-      "Против всех": 110
+      "gas:candidate-vibid:1001000136163": 29,
+      "gas:candidate-vibid:378300470578": 16,
+      "gas:candidate-vibid:1001000121947": 65,
+      "gas:candidate-vibid:1001000190465": 607,
+      "gas:candidate-vibid:378300470566": 20,
+      "gas:candidate-vibid:378300470572": 73,
+      "gas:candidate-vibid:1001000114003": 312,
+      "special:against-all": 110
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470432&region=0&sub_region=0&type=429",
@@ -13209,14 +13209,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 28,
-      "Говядовский Виктор Петрович": 16,
-      "Краузе Александр Анатольевич": 82,
-      "Селезнев Геннадий Николаевич": 629,
-      "Сидорин Сергей Валерьевич": 22,
-      "Табакова Елена Викторовна": 71,
-      "Хакамада Ирина Муцуовна": 297,
-      "Против всех": 137
+      "gas:candidate-vibid:1001000136163": 28,
+      "gas:candidate-vibid:378300470578": 16,
+      "gas:candidate-vibid:1001000121947": 82,
+      "gas:candidate-vibid:1001000190465": 629,
+      "gas:candidate-vibid:378300470566": 22,
+      "gas:candidate-vibid:378300470572": 71,
+      "gas:candidate-vibid:1001000114003": 297,
+      "special:against-all": 137
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470432&region=0&sub_region=0&type=429",
@@ -13266,14 +13266,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 17,
-      "Говядовский Виктор Петрович": 13,
-      "Краузе Александр Анатольевич": 80,
-      "Селезнев Геннадий Николаевич": 496,
-      "Сидорин Сергей Валерьевич": 17,
-      "Табакова Елена Викторовна": 68,
-      "Хакамада Ирина Муцуовна": 412,
-      "Против всех": 130
+      "gas:candidate-vibid:1001000136163": 17,
+      "gas:candidate-vibid:378300470578": 13,
+      "gas:candidate-vibid:1001000121947": 80,
+      "gas:candidate-vibid:1001000190465": 496,
+      "gas:candidate-vibid:378300470566": 17,
+      "gas:candidate-vibid:378300470572": 68,
+      "gas:candidate-vibid:1001000114003": 412,
+      "special:against-all": 130
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470432&region=0&sub_region=0&type=429",
@@ -13323,14 +13323,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 29,
-      "Говядовский Виктор Петрович": 21,
-      "Краузе Александр Анатольевич": 103,
-      "Селезнев Геннадий Николаевич": 593,
-      "Сидорин Сергей Валерьевич": 20,
-      "Табакова Елена Викторовна": 86,
-      "Хакамада Ирина Муцуовна": 321,
-      "Против всех": 138
+      "gas:candidate-vibid:1001000136163": 29,
+      "gas:candidate-vibid:378300470578": 21,
+      "gas:candidate-vibid:1001000121947": 103,
+      "gas:candidate-vibid:1001000190465": 593,
+      "gas:candidate-vibid:378300470566": 20,
+      "gas:candidate-vibid:378300470572": 86,
+      "gas:candidate-vibid:1001000114003": 321,
+      "special:against-all": 138
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470432&region=0&sub_region=0&type=429",
@@ -13380,14 +13380,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 21,
-      "Говядовский Виктор Петрович": 15,
-      "Краузе Александр Анатольевич": 53,
-      "Селезнев Геннадий Николаевич": 523,
-      "Сидорин Сергей Валерьевич": 18,
-      "Табакова Елена Викторовна": 55,
-      "Хакамада Ирина Муцуовна": 271,
-      "Против всех": 76
+      "gas:candidate-vibid:1001000136163": 21,
+      "gas:candidate-vibid:378300470578": 15,
+      "gas:candidate-vibid:1001000121947": 53,
+      "gas:candidate-vibid:1001000190465": 523,
+      "gas:candidate-vibid:378300470566": 18,
+      "gas:candidate-vibid:378300470572": 55,
+      "gas:candidate-vibid:1001000114003": 271,
+      "special:against-all": 76
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470432&region=0&sub_region=0&type=429",
@@ -13437,14 +13437,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 25,
-      "Говядовский Виктор Петрович": 12,
-      "Краузе Александр Анатольевич": 38,
-      "Селезнев Геннадий Николаевич": 356,
-      "Сидорин Сергей Валерьевич": 15,
-      "Табакова Елена Викторовна": 57,
-      "Хакамада Ирина Муцуовна": 239,
-      "Против всех": 91
+      "gas:candidate-vibid:1001000136163": 25,
+      "gas:candidate-vibid:378300470578": 12,
+      "gas:candidate-vibid:1001000121947": 38,
+      "gas:candidate-vibid:1001000190465": 356,
+      "gas:candidate-vibid:378300470566": 15,
+      "gas:candidate-vibid:378300470572": 57,
+      "gas:candidate-vibid:1001000114003": 239,
+      "special:against-all": 91
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470432&region=0&sub_region=0&type=429",
@@ -13494,14 +13494,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 23,
-      "Говядовский Виктор Петрович": 6,
-      "Краузе Александр Анатольевич": 57,
-      "Селезнев Геннадий Николаевич": 303,
-      "Сидорин Сергей Валерьевич": 12,
-      "Табакова Елена Викторовна": 48,
-      "Хакамада Ирина Муцуовна": 181,
-      "Против всех": 103
+      "gas:candidate-vibid:1001000136163": 23,
+      "gas:candidate-vibid:378300470578": 6,
+      "gas:candidate-vibid:1001000121947": 57,
+      "gas:candidate-vibid:1001000190465": 303,
+      "gas:candidate-vibid:378300470566": 12,
+      "gas:candidate-vibid:378300470572": 48,
+      "gas:candidate-vibid:1001000114003": 181,
+      "special:against-all": 103
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470432&region=0&sub_region=0&type=429",
@@ -13551,14 +13551,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 32,
-      "Говядовский Виктор Петрович": 15,
-      "Краузе Александр Анатольевич": 32,
-      "Селезнев Геннадий Николаевич": 410,
-      "Сидорин Сергей Валерьевич": 11,
-      "Табакова Елена Викторовна": 30,
-      "Хакамада Ирина Муцуовна": 229,
-      "Против всех": 91
+      "gas:candidate-vibid:1001000136163": 32,
+      "gas:candidate-vibid:378300470578": 15,
+      "gas:candidate-vibid:1001000121947": 32,
+      "gas:candidate-vibid:1001000190465": 410,
+      "gas:candidate-vibid:378300470566": 11,
+      "gas:candidate-vibid:378300470572": 30,
+      "gas:candidate-vibid:1001000114003": 229,
+      "special:against-all": 91
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470432&region=0&sub_region=0&type=429",
@@ -13608,14 +13608,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 16,
-      "Говядовский Виктор Петрович": 12,
-      "Краузе Александр Анатольевич": 66,
-      "Селезнев Геннадий Николаевич": 407,
-      "Сидорин Сергей Валерьевич": 12,
-      "Табакова Елена Викторовна": 53,
-      "Хакамада Ирина Муцуовна": 197,
-      "Против всех": 86
+      "gas:candidate-vibid:1001000136163": 16,
+      "gas:candidate-vibid:378300470578": 12,
+      "gas:candidate-vibid:1001000121947": 66,
+      "gas:candidate-vibid:1001000190465": 407,
+      "gas:candidate-vibid:378300470566": 12,
+      "gas:candidate-vibid:378300470572": 53,
+      "gas:candidate-vibid:1001000114003": 197,
+      "special:against-all": 86
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470432&region=0&sub_region=0&type=429",
@@ -13665,14 +13665,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 6,
-      "Говядовский Виктор Петрович": 8,
-      "Краузе Александр Анатольевич": 70,
-      "Селезнев Геннадий Николаевич": 525,
-      "Сидорин Сергей Валерьевич": 19,
-      "Табакова Елена Викторовна": 47,
-      "Хакамада Ирина Муцуовна": 292,
-      "Против всех": 102
+      "gas:candidate-vibid:1001000136163": 6,
+      "gas:candidate-vibid:378300470578": 8,
+      "gas:candidate-vibid:1001000121947": 70,
+      "gas:candidate-vibid:1001000190465": 525,
+      "gas:candidate-vibid:378300470566": 19,
+      "gas:candidate-vibid:378300470572": 47,
+      "gas:candidate-vibid:1001000114003": 292,
+      "special:against-all": 102
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470432&region=0&sub_region=0&type=429",
@@ -13722,14 +13722,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 16,
-      "Говядовский Виктор Петрович": 20,
-      "Краузе Александр Анатольевич": 55,
-      "Селезнев Геннадий Николаевич": 435,
-      "Сидорин Сергей Валерьевич": 12,
-      "Табакова Елена Викторовна": 40,
-      "Хакамада Ирина Муцуовна": 307,
-      "Против всех": 94
+      "gas:candidate-vibid:1001000136163": 16,
+      "gas:candidate-vibid:378300470578": 20,
+      "gas:candidate-vibid:1001000121947": 55,
+      "gas:candidate-vibid:1001000190465": 435,
+      "gas:candidate-vibid:378300470566": 12,
+      "gas:candidate-vibid:378300470572": 40,
+      "gas:candidate-vibid:1001000114003": 307,
+      "special:against-all": 94
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470432&region=0&sub_region=0&type=429",
@@ -13779,14 +13779,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 15,
-      "Говядовский Виктор Петрович": 22,
-      "Краузе Александр Анатольевич": 50,
-      "Селезнев Геннадий Николаевич": 523,
-      "Сидорин Сергей Валерьевич": 16,
-      "Табакова Елена Викторовна": 48,
-      "Хакамада Ирина Муцуовна": 331,
-      "Против всех": 88
+      "gas:candidate-vibid:1001000136163": 15,
+      "gas:candidate-vibid:378300470578": 22,
+      "gas:candidate-vibid:1001000121947": 50,
+      "gas:candidate-vibid:1001000190465": 523,
+      "gas:candidate-vibid:378300470566": 16,
+      "gas:candidate-vibid:378300470572": 48,
+      "gas:candidate-vibid:1001000114003": 331,
+      "special:against-all": 88
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470432&region=0&sub_region=0&type=429",
@@ -13836,14 +13836,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 13,
-      "Говядовский Виктор Петрович": 8,
-      "Краузе Александр Анатольевич": 47,
-      "Селезнев Геннадий Николаевич": 304,
-      "Сидорин Сергей Валерьевич": 11,
-      "Табакова Елена Викторовна": 52,
-      "Хакамада Ирина Муцуовна": 260,
-      "Против всех": 74
+      "gas:candidate-vibid:1001000136163": 13,
+      "gas:candidate-vibid:378300470578": 8,
+      "gas:candidate-vibid:1001000121947": 47,
+      "gas:candidate-vibid:1001000190465": 304,
+      "gas:candidate-vibid:378300470566": 11,
+      "gas:candidate-vibid:378300470572": 52,
+      "gas:candidate-vibid:1001000114003": 260,
+      "special:against-all": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470432&region=0&sub_region=0&type=429",
@@ -13893,14 +13893,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 16,
-      "Говядовский Виктор Петрович": 10,
-      "Краузе Александр Анатольевич": 56,
-      "Селезнев Геннадий Николаевич": 357,
-      "Сидорин Сергей Валерьевич": 12,
-      "Табакова Елена Викторовна": 33,
-      "Хакамада Ирина Муцуовна": 248,
-      "Против всех": 77
+      "gas:candidate-vibid:1001000136163": 16,
+      "gas:candidate-vibid:378300470578": 10,
+      "gas:candidate-vibid:1001000121947": 56,
+      "gas:candidate-vibid:1001000190465": 357,
+      "gas:candidate-vibid:378300470566": 12,
+      "gas:candidate-vibid:378300470572": 33,
+      "gas:candidate-vibid:1001000114003": 248,
+      "special:against-all": 77
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470432&region=0&sub_region=0&type=429",
@@ -13950,14 +13950,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 23,
-      "Говядовский Виктор Петрович": 8,
-      "Краузе Александр Анатольевич": 69,
-      "Селезнев Геннадий Николаевич": 564,
-      "Сидорин Сергей Валерьевич": 13,
-      "Табакова Елена Викторовна": 58,
-      "Хакамада Ирина Муцуовна": 365,
-      "Против всех": 104
+      "gas:candidate-vibid:1001000136163": 23,
+      "gas:candidate-vibid:378300470578": 8,
+      "gas:candidate-vibid:1001000121947": 69,
+      "gas:candidate-vibid:1001000190465": 564,
+      "gas:candidate-vibid:378300470566": 13,
+      "gas:candidate-vibid:378300470572": 58,
+      "gas:candidate-vibid:1001000114003": 365,
+      "special:against-all": 104
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470432&region=0&sub_region=0&type=429",
@@ -14007,14 +14007,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 19,
-      "Говядовский Виктор Петрович": 23,
-      "Краузе Александр Анатольевич": 51,
-      "Селезнев Геннадий Николаевич": 439,
-      "Сидорин Сергей Валерьевич": 17,
-      "Табакова Елена Викторовна": 49,
-      "Хакамада Ирина Муцуовна": 240,
-      "Против всех": 71
+      "gas:candidate-vibid:1001000136163": 19,
+      "gas:candidate-vibid:378300470578": 23,
+      "gas:candidate-vibid:1001000121947": 51,
+      "gas:candidate-vibid:1001000190465": 439,
+      "gas:candidate-vibid:378300470566": 17,
+      "gas:candidate-vibid:378300470572": 49,
+      "gas:candidate-vibid:1001000114003": 240,
+      "special:against-all": 71
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470432&region=0&sub_region=0&type=429",
@@ -14064,14 +14064,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 19,
-      "Говядовский Виктор Петрович": 13,
-      "Краузе Александр Анатольевич": 69,
-      "Селезнев Геннадий Николаевич": 426,
-      "Сидорин Сергей Валерьевич": 17,
-      "Табакова Елена Викторовна": 56,
-      "Хакамада Ирина Муцуовна": 258,
-      "Против всех": 89
+      "gas:candidate-vibid:1001000136163": 19,
+      "gas:candidate-vibid:378300470578": 13,
+      "gas:candidate-vibid:1001000121947": 69,
+      "gas:candidate-vibid:1001000190465": 426,
+      "gas:candidate-vibid:378300470566": 17,
+      "gas:candidate-vibid:378300470572": 56,
+      "gas:candidate-vibid:1001000114003": 258,
+      "special:against-all": 89
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470432&region=0&sub_region=0&type=429",
@@ -14121,14 +14121,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 15,
-      "Говядовский Виктор Петрович": 4,
-      "Краузе Александр Анатольевич": 70,
-      "Селезнев Геннадий Николаевич": 526,
-      "Сидорин Сергей Валерьевич": 18,
-      "Табакова Елена Викторовна": 66,
-      "Хакамада Ирина Муцуовна": 308,
-      "Против всех": 92
+      "gas:candidate-vibid:1001000136163": 15,
+      "gas:candidate-vibid:378300470578": 4,
+      "gas:candidate-vibid:1001000121947": 70,
+      "gas:candidate-vibid:1001000190465": 526,
+      "gas:candidate-vibid:378300470566": 18,
+      "gas:candidate-vibid:378300470572": 66,
+      "gas:candidate-vibid:1001000114003": 308,
+      "special:against-all": 92
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470432&region=0&sub_region=0&type=429",
@@ -14178,14 +14178,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 24,
-      "Говядовский Виктор Петрович": 7,
-      "Краузе Александр Анатольевич": 47,
-      "Селезнев Геннадий Николаевич": 394,
-      "Сидорин Сергей Валерьевич": 8,
-      "Табакова Елена Викторовна": 43,
-      "Хакамада Ирина Муцуовна": 282,
-      "Против всех": 97
+      "gas:candidate-vibid:1001000136163": 24,
+      "gas:candidate-vibid:378300470578": 7,
+      "gas:candidate-vibid:1001000121947": 47,
+      "gas:candidate-vibid:1001000190465": 394,
+      "gas:candidate-vibid:378300470566": 8,
+      "gas:candidate-vibid:378300470572": 43,
+      "gas:candidate-vibid:1001000114003": 282,
+      "special:against-all": 97
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470432&region=0&sub_region=0&type=429",
@@ -14235,14 +14235,14 @@ export const duma_2003_uik_428_region_78_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 8,
-      "Говядовский Виктор Петрович": 5,
-      "Краузе Александр Анатольевич": 40,
-      "Селезнев Геннадий Николаевич": 372,
-      "Сидорин Сергей Валерьевич": 6,
-      "Табакова Елена Викторовна": 38,
-      "Хакамада Ирина Муцуовна": 259,
-      "Против всех": 59
+      "gas:candidate-vibid:1001000136163": 8,
+      "gas:candidate-vibid:378300470578": 5,
+      "gas:candidate-vibid:1001000121947": 40,
+      "gas:candidate-vibid:1001000190465": 372,
+      "gas:candidate-vibid:378300470566": 6,
+      "gas:candidate-vibid:378300470572": 38,
+      "gas:candidate-vibid:1001000114003": 259,
+      "special:against-all": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470432&region=0&sub_region=0&type=429",

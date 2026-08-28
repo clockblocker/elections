@@ -42,15 +42,15 @@ export const duma_2003_uik_428_region_25_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеев Вячеслав Вильянович": 51,
-      "Алиев Нурмет Агарагимович": 8,
-      "Горячева Светлана Петровна": 3,
-      "Кривулин Виктор Серафимович": 24,
-      "Кузнецов Юрий Николаевич": 29,
-      "Морозов Николай Александрович": 283,
-      "Самоделок Алексей Григорьевич": 94,
-      "Фокин Сергей Александрович": 54,
-      "Против всех": 128
+      "gas:candidate-vibid:1001000136028": 51,
+      "gas:candidate-vibid:325300366913": 8,
+      "gas:candidate-vibid:325300366733": 3,
+      "gas:candidate-vibid:325300366594": 24,
+      "gas:candidate-vibid:1001000217907": 29,
+      "gas:candidate-vibid:1001000113914": 283,
+      "gas:candidate-vibid:325300366821": 94,
+      "gas:candidate-vibid:1001000195053": 54,
+      "special:against-all": 128
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300367287&region=0&sub_region=0&type=429",
@@ -100,15 +100,15 @@ export const duma_2003_uik_428_region_25_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеев Вячеслав Вильянович": 18,
-      "Алиев Нурмет Агарагимович": 17,
-      "Горячева Светлана Петровна": 246,
-      "Кривулин Виктор Серафимович": 149,
-      "Кузнецов Юрий Николаевич": 38,
-      "Морозов Николай Александрович": 16,
-      "Самоделок Алексей Григорьевич": 9,
-      "Фокин Сергей Александрович": 5,
-      "Против всех": 59
+      "gas:candidate-vibid:1001000136028": 18,
+      "gas:candidate-vibid:325300366913": 17,
+      "gas:candidate-vibid:325300366733": 246,
+      "gas:candidate-vibid:325300366594": 149,
+      "gas:candidate-vibid:1001000217907": 38,
+      "gas:candidate-vibid:1001000113914": 16,
+      "gas:candidate-vibid:325300366821": 9,
+      "gas:candidate-vibid:1001000195053": 5,
+      "special:against-all": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300367287&region=0&sub_region=0&type=429",
@@ -158,15 +158,15 @@ export const duma_2003_uik_428_region_25_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеев Вячеслав Вильянович": 17,
-      "Алиев Нурмет Агарагимович": 13,
-      "Горячева Светлана Петровна": 173,
-      "Кривулин Виктор Серафимович": 64,
-      "Кузнецов Юрий Николаевич": 14,
-      "Морозов Николай Александрович": 11,
-      "Самоделок Алексей Григорьевич": 4,
-      "Фокин Сергей Александрович": 4,
-      "Против всех": 48
+      "gas:candidate-vibid:1001000136028": 17,
+      "gas:candidate-vibid:325300366913": 13,
+      "gas:candidate-vibid:325300366733": 173,
+      "gas:candidate-vibid:325300366594": 64,
+      "gas:candidate-vibid:1001000217907": 14,
+      "gas:candidate-vibid:1001000113914": 11,
+      "gas:candidate-vibid:325300366821": 4,
+      "gas:candidate-vibid:1001000195053": 4,
+      "special:against-all": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300367287&region=0&sub_region=0&type=429",
@@ -216,15 +216,15 @@ export const duma_2003_uik_428_region_25_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеев Вячеслав Вильянович": 14,
-      "Алиев Нурмет Агарагимович": 11,
-      "Горячева Светлана Петровна": 254,
-      "Кривулин Виктор Серафимович": 100,
-      "Кузнецов Юрий Николаевич": 24,
-      "Морозов Николай Александрович": 15,
-      "Самоделок Алексей Григорьевич": 5,
-      "Фокин Сергей Александрович": 5,
-      "Против всех": 62
+      "gas:candidate-vibid:1001000136028": 14,
+      "gas:candidate-vibid:325300366913": 11,
+      "gas:candidate-vibid:325300366733": 254,
+      "gas:candidate-vibid:325300366594": 100,
+      "gas:candidate-vibid:1001000217907": 24,
+      "gas:candidate-vibid:1001000113914": 15,
+      "gas:candidate-vibid:325300366821": 5,
+      "gas:candidate-vibid:1001000195053": 5,
+      "special:against-all": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300367287&region=0&sub_region=0&type=429",
@@ -274,15 +274,15 @@ export const duma_2003_uik_428_region_25_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеев Вячеслав Вильянович": 36,
-      "Алиев Нурмет Агарагимович": 28,
-      "Горячева Светлана Петровна": 281,
-      "Кривулин Виктор Серафимович": 234,
-      "Кузнецов Юрий Николаевич": 40,
-      "Морозов Николай Александрович": 36,
-      "Самоделок Алексей Григорьевич": 5,
-      "Фокин Сергей Александрович": 8,
-      "Против всех": 158
+      "gas:candidate-vibid:1001000136028": 36,
+      "gas:candidate-vibid:325300366913": 28,
+      "gas:candidate-vibid:325300366733": 281,
+      "gas:candidate-vibid:325300366594": 234,
+      "gas:candidate-vibid:1001000217907": 40,
+      "gas:candidate-vibid:1001000113914": 36,
+      "gas:candidate-vibid:325300366821": 5,
+      "gas:candidate-vibid:1001000195053": 8,
+      "special:against-all": 158
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300367287&region=0&sub_region=0&type=429",
@@ -332,15 +332,15 @@ export const duma_2003_uik_428_region_25_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеев Вячеслав Вильянович": 7,
-      "Алиев Нурмет Агарагимович": 4,
-      "Горячева Светлана Петровна": 60,
-      "Кривулин Виктор Серафимович": 15,
-      "Кузнецов Юрий Николаевич": 4,
-      "Морозов Николай Александрович": 3,
-      "Самоделок Алексей Григорьевич": 0,
-      "Фокин Сергей Александрович": 0,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000136028": 7,
+      "gas:candidate-vibid:325300366913": 4,
+      "gas:candidate-vibid:325300366733": 60,
+      "gas:candidate-vibid:325300366594": 15,
+      "gas:candidate-vibid:1001000217907": 4,
+      "gas:candidate-vibid:1001000113914": 3,
+      "gas:candidate-vibid:325300366821": 0,
+      "gas:candidate-vibid:1001000195053": 0,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300367287&region=0&sub_region=0&type=429",
@@ -390,15 +390,15 @@ export const duma_2003_uik_428_region_25_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеев Вячеслав Вильянович": 13,
-      "Алиев Нурмет Агарагимович": 2,
-      "Горячева Светлана Петровна": 85,
-      "Кривулин Виктор Серафимович": 62,
-      "Кузнецов Юрий Николаевич": 8,
-      "Морозов Николай Александрович": 6,
-      "Самоделок Алексей Григорьевич": 0,
-      "Фокин Сергей Александрович": 3,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000136028": 13,
+      "gas:candidate-vibid:325300366913": 2,
+      "gas:candidate-vibid:325300366733": 85,
+      "gas:candidate-vibid:325300366594": 62,
+      "gas:candidate-vibid:1001000217907": 8,
+      "gas:candidate-vibid:1001000113914": 6,
+      "gas:candidate-vibid:325300366821": 0,
+      "gas:candidate-vibid:1001000195053": 3,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300367287&region=0&sub_region=0&type=429",
@@ -448,15 +448,15 @@ export const duma_2003_uik_428_region_25_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеев Вячеслав Вильянович": 20,
-      "Алиев Нурмет Агарагимович": 43,
-      "Горячева Светлана Петровна": 243,
-      "Кривулин Виктор Серафимович": 154,
-      "Кузнецов Юрий Николаевич": 28,
-      "Морозов Николай Александрович": 15,
-      "Самоделок Алексей Григорьевич": 2,
-      "Фокин Сергей Александрович": 8,
-      "Против всех": 75
+      "gas:candidate-vibid:1001000136028": 20,
+      "gas:candidate-vibid:325300366913": 43,
+      "gas:candidate-vibid:325300366733": 243,
+      "gas:candidate-vibid:325300366594": 154,
+      "gas:candidate-vibid:1001000217907": 28,
+      "gas:candidate-vibid:1001000113914": 15,
+      "gas:candidate-vibid:325300366821": 2,
+      "gas:candidate-vibid:1001000195053": 8,
+      "special:against-all": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300367287&region=0&sub_region=0&type=429",
@@ -506,15 +506,15 @@ export const duma_2003_uik_428_region_25_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеев Вячеслав Вильянович": 11,
-      "Алиев Нурмет Агарагимович": 45,
-      "Горячева Светлана Петровна": 306,
-      "Кривулин Виктор Серафимович": 77,
-      "Кузнецов Юрий Николаевич": 22,
-      "Морозов Николай Александрович": 13,
-      "Самоделок Алексей Григорьевич": 2,
-      "Фокин Сергей Александрович": 3,
-      "Против всех": 74
+      "gas:candidate-vibid:1001000136028": 11,
+      "gas:candidate-vibid:325300366913": 45,
+      "gas:candidate-vibid:325300366733": 306,
+      "gas:candidate-vibid:325300366594": 77,
+      "gas:candidate-vibid:1001000217907": 22,
+      "gas:candidate-vibid:1001000113914": 13,
+      "gas:candidate-vibid:325300366821": 2,
+      "gas:candidate-vibid:1001000195053": 3,
+      "special:against-all": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300367287&region=0&sub_region=0&type=429",
@@ -564,15 +564,15 @@ export const duma_2003_uik_428_region_25_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеев Вячеслав Вильянович": 7,
-      "Алиев Нурмет Агарагимович": 11,
-      "Горячева Светлана Петровна": 126,
-      "Кривулин Виктор Серафимович": 94,
-      "Кузнецов Юрий Николаевич": 12,
-      "Морозов Николай Александрович": 16,
-      "Самоделок Алексей Григорьевич": 1,
-      "Фокин Сергей Александрович": 3,
-      "Против всех": 30
+      "gas:candidate-vibid:1001000136028": 7,
+      "gas:candidate-vibid:325300366913": 11,
+      "gas:candidate-vibid:325300366733": 126,
+      "gas:candidate-vibid:325300366594": 94,
+      "gas:candidate-vibid:1001000217907": 12,
+      "gas:candidate-vibid:1001000113914": 16,
+      "gas:candidate-vibid:325300366821": 1,
+      "gas:candidate-vibid:1001000195053": 3,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300367287&region=0&sub_region=0&type=429",
@@ -622,15 +622,15 @@ export const duma_2003_uik_428_region_25_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеев Вячеслав Вильянович": 14,
-      "Алиев Нурмет Агарагимович": 19,
-      "Горячева Светлана Петровна": 218,
-      "Кривулин Виктор Серафимович": 73,
-      "Кузнецов Юрий Николаевич": 30,
-      "Морозов Николай Александрович": 14,
-      "Самоделок Алексей Григорьевич": 2,
-      "Фокин Сергей Александрович": 2,
-      "Против всех": 46
+      "gas:candidate-vibid:1001000136028": 14,
+      "gas:candidate-vibid:325300366913": 19,
+      "gas:candidate-vibid:325300366733": 218,
+      "gas:candidate-vibid:325300366594": 73,
+      "gas:candidate-vibid:1001000217907": 30,
+      "gas:candidate-vibid:1001000113914": 14,
+      "gas:candidate-vibid:325300366821": 2,
+      "gas:candidate-vibid:1001000195053": 2,
+      "special:against-all": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300367287&region=0&sub_region=0&type=429",
@@ -680,15 +680,15 @@ export const duma_2003_uik_428_region_25_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеев Вячеслав Вильянович": 1,
-      "Алиев Нурмет Агарагимович": 9,
-      "Горячева Светлана Петровна": 8,
-      "Кривулин Виктор Серафимович": 7,
-      "Кузнецов Юрий Николаевич": 8,
-      "Морозов Николай Александрович": 8,
-      "Самоделок Алексей Григорьевич": 0,
-      "Фокин Сергей Александрович": 0,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000136028": 1,
+      "gas:candidate-vibid:325300366913": 9,
+      "gas:candidate-vibid:325300366733": 8,
+      "gas:candidate-vibid:325300366594": 7,
+      "gas:candidate-vibid:1001000217907": 8,
+      "gas:candidate-vibid:1001000113914": 8,
+      "gas:candidate-vibid:325300366821": 0,
+      "gas:candidate-vibid:1001000195053": 0,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300367287&region=0&sub_region=0&type=429",
@@ -738,15 +738,15 @@ export const duma_2003_uik_428_region_25_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеев Вячеслав Вильянович": 36,
-      "Алиев Нурмет Агарагимович": 95,
-      "Горячева Светлана Петровна": 580,
-      "Кривулин Виктор Серафимович": 322,
-      "Кузнецов Юрий Николаевич": 67,
-      "Морозов Николай Александрович": 38,
-      "Самоделок Алексей Григорьевич": 5,
-      "Фокин Сергей Александрович": 11,
-      "Против всех": 149
+      "gas:candidate-vibid:1001000136028": 36,
+      "gas:candidate-vibid:325300366913": 95,
+      "gas:candidate-vibid:325300366733": 580,
+      "gas:candidate-vibid:325300366594": 322,
+      "gas:candidate-vibid:1001000217907": 67,
+      "gas:candidate-vibid:1001000113914": 38,
+      "gas:candidate-vibid:325300366821": 5,
+      "gas:candidate-vibid:1001000195053": 11,
+      "special:against-all": 149
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300367287&region=0&sub_region=0&type=429",
@@ -796,15 +796,15 @@ export const duma_2003_uik_428_region_25_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеев Вячеслав Вильянович": 10,
-      "Алиев Нурмет Агарагимович": 21,
-      "Горячева Светлана Петровна": 212,
-      "Кривулин Виктор Серафимович": 62,
-      "Кузнецов Юрий Николаевич": 21,
-      "Морозов Николай Александрович": 6,
-      "Самоделок Алексей Григорьевич": 2,
-      "Фокин Сергей Александрович": 3,
-      "Против всех": 48
+      "gas:candidate-vibid:1001000136028": 10,
+      "gas:candidate-vibid:325300366913": 21,
+      "gas:candidate-vibid:325300366733": 212,
+      "gas:candidate-vibid:325300366594": 62,
+      "gas:candidate-vibid:1001000217907": 21,
+      "gas:candidate-vibid:1001000113914": 6,
+      "gas:candidate-vibid:325300366821": 2,
+      "gas:candidate-vibid:1001000195053": 3,
+      "special:against-all": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300367287&region=0&sub_region=0&type=429",
@@ -854,15 +854,15 @@ export const duma_2003_uik_428_region_25_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеев Вячеслав Вильянович": 31,
-      "Алиев Нурмет Агарагимович": 47,
-      "Горячева Светлана Петровна": 428,
-      "Кривулин Виктор Серафимович": 276,
-      "Кузнецов Юрий Николаевич": 60,
-      "Морозов Николай Александрович": 36,
-      "Самоделок Алексей Григорьевич": 9,
-      "Фокин Сергей Александрович": 8,
-      "Против всех": 125
+      "gas:candidate-vibid:1001000136028": 31,
+      "gas:candidate-vibid:325300366913": 47,
+      "gas:candidate-vibid:325300366733": 428,
+      "gas:candidate-vibid:325300366594": 276,
+      "gas:candidate-vibid:1001000217907": 60,
+      "gas:candidate-vibid:1001000113914": 36,
+      "gas:candidate-vibid:325300366821": 9,
+      "gas:candidate-vibid:1001000195053": 8,
+      "special:against-all": 125
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300367287&region=0&sub_region=0&type=429",
@@ -912,15 +912,15 @@ export const duma_2003_uik_428_region_25_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеев Вячеслав Вильянович": 5,
-      "Алиев Нурмет Агарагимович": 13,
-      "Горячева Светлана Петровна": 36,
-      "Кривулин Виктор Серафимович": 19,
-      "Кузнецов Юрий Николаевич": 5,
-      "Морозов Николай Александрович": 2,
-      "Самоделок Алексей Григорьевич": 1,
-      "Фокин Сергей Александрович": 2,
-      "Против всех": 28
+      "gas:candidate-vibid:1001000136028": 5,
+      "gas:candidate-vibid:325300366913": 13,
+      "gas:candidate-vibid:325300366733": 36,
+      "gas:candidate-vibid:325300366594": 19,
+      "gas:candidate-vibid:1001000217907": 5,
+      "gas:candidate-vibid:1001000113914": 2,
+      "gas:candidate-vibid:325300366821": 1,
+      "gas:candidate-vibid:1001000195053": 2,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300367287&region=0&sub_region=0&type=429",
@@ -970,15 +970,15 @@ export const duma_2003_uik_428_region_25_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеев Вячеслав Вильянович": 8,
-      "Алиев Нурмет Агарагимович": 3,
-      "Горячева Светлана Петровна": 38,
-      "Кривулин Виктор Серафимович": 15,
-      "Кузнецов Юрий Николаевич": 1,
-      "Морозов Николай Александрович": 2,
-      "Самоделок Алексей Григорьевич": 0,
-      "Фокин Сергей Александрович": 0,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000136028": 8,
+      "gas:candidate-vibid:325300366913": 3,
+      "gas:candidate-vibid:325300366733": 38,
+      "gas:candidate-vibid:325300366594": 15,
+      "gas:candidate-vibid:1001000217907": 1,
+      "gas:candidate-vibid:1001000113914": 2,
+      "gas:candidate-vibid:325300366821": 0,
+      "gas:candidate-vibid:1001000195053": 0,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300367287&region=0&sub_region=0&type=429",
@@ -1028,15 +1028,15 @@ export const duma_2003_uik_428_region_25_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеев Вячеслав Вильянович": 3,
-      "Алиев Нурмет Агарагимович": 28,
-      "Горячева Светлана Петровна": 15,
-      "Кривулин Виктор Серафимович": 64,
-      "Кузнецов Юрий Николаевич": 5,
-      "Морозов Николай Александрович": 2,
-      "Самоделок Алексей Григорьевич": 1,
-      "Фокин Сергей Александрович": 0,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000136028": 3,
+      "gas:candidate-vibid:325300366913": 28,
+      "gas:candidate-vibid:325300366733": 15,
+      "gas:candidate-vibid:325300366594": 64,
+      "gas:candidate-vibid:1001000217907": 5,
+      "gas:candidate-vibid:1001000113914": 2,
+      "gas:candidate-vibid:325300366821": 1,
+      "gas:candidate-vibid:1001000195053": 0,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300367287&region=0&sub_region=0&type=429",
@@ -1086,15 +1086,15 @@ export const duma_2003_uik_428_region_25_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеев Вячеслав Вильянович": 6,
-      "Алиев Нурмет Агарагимович": 6,
-      "Горячева Светлана Петровна": 113,
-      "Кривулин Виктор Серафимович": 38,
-      "Кузнецов Юрий Николаевич": 8,
-      "Морозов Николай Александрович": 4,
-      "Самоделок Алексей Григорьевич": 4,
-      "Фокин Сергей Александрович": 1,
-      "Против всех": 66
+      "gas:candidate-vibid:1001000136028": 6,
+      "gas:candidate-vibid:325300366913": 6,
+      "gas:candidate-vibid:325300366733": 113,
+      "gas:candidate-vibid:325300366594": 38,
+      "gas:candidate-vibid:1001000217907": 8,
+      "gas:candidate-vibid:1001000113914": 4,
+      "gas:candidate-vibid:325300366821": 4,
+      "gas:candidate-vibid:1001000195053": 1,
+      "special:against-all": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300367287&region=0&sub_region=0&type=429",
@@ -1144,15 +1144,15 @@ export const duma_2003_uik_428_region_25_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеев Вячеслав Вильянович": 0,
-      "Алиев Нурмет Агарагимович": 2,
-      "Горячева Светлана Петровна": 25,
-      "Кривулин Виктор Серафимович": 42,
-      "Кузнецов Юрий Николаевич": 1,
-      "Морозов Николай Александрович": 5,
-      "Самоделок Алексей Григорьевич": 1,
-      "Фокин Сергей Александрович": 0,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000136028": 0,
+      "gas:candidate-vibid:325300366913": 2,
+      "gas:candidate-vibid:325300366733": 25,
+      "gas:candidate-vibid:325300366594": 42,
+      "gas:candidate-vibid:1001000217907": 1,
+      "gas:candidate-vibid:1001000113914": 5,
+      "gas:candidate-vibid:325300366821": 1,
+      "gas:candidate-vibid:1001000195053": 0,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300367287&region=0&sub_region=0&type=429",
@@ -1202,15 +1202,15 @@ export const duma_2003_uik_428_region_25_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеев Вячеслав Вильянович": 6,
-      "Алиев Нурмет Агарагимович": 0,
-      "Горячева Светлана Петровна": 42,
-      "Кривулин Виктор Серафимович": 32,
-      "Кузнецов Юрий Николаевич": 9,
-      "Морозов Николай Александрович": 7,
-      "Самоделок Алексей Григорьевич": 3,
-      "Фокин Сергей Александрович": 1,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000136028": 6,
+      "gas:candidate-vibid:325300366913": 0,
+      "gas:candidate-vibid:325300366733": 42,
+      "gas:candidate-vibid:325300366594": 32,
+      "gas:candidate-vibid:1001000217907": 9,
+      "gas:candidate-vibid:1001000113914": 7,
+      "gas:candidate-vibid:325300366821": 3,
+      "gas:candidate-vibid:1001000195053": 1,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300367287&region=0&sub_region=0&type=429",
@@ -1260,15 +1260,15 @@ export const duma_2003_uik_428_region_25_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеев Вячеслав Вильянович": 44,
-      "Алиев Нурмет Агарагимович": 79,
-      "Горячева Светлана Петровна": 384,
-      "Кривулин Виктор Серафимович": 147,
-      "Кузнецов Юрий Николаевич": 42,
-      "Морозов Николай Александрович": 44,
-      "Самоделок Алексей Григорьевич": 10,
-      "Фокин Сергей Александрович": 3,
-      "Против всех": 178
+      "gas:candidate-vibid:1001000136028": 44,
+      "gas:candidate-vibid:325300366913": 79,
+      "gas:candidate-vibid:325300366733": 384,
+      "gas:candidate-vibid:325300366594": 147,
+      "gas:candidate-vibid:1001000217907": 42,
+      "gas:candidate-vibid:1001000113914": 44,
+      "gas:candidate-vibid:325300366821": 10,
+      "gas:candidate-vibid:1001000195053": 3,
+      "special:against-all": 178
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300367288&region=0&sub_region=0&type=429",
@@ -1318,15 +1318,15 @@ export const duma_2003_uik_428_region_25_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеев Вячеслав Вильянович": 43,
-      "Алиев Нурмет Агарагимович": 61,
-      "Горячева Светлана Петровна": 232,
-      "Кривулин Виктор Серафимович": 124,
-      "Кузнецов Юрий Николаевич": 21,
-      "Морозов Николай Александрович": 16,
-      "Самоделок Алексей Григорьевич": 4,
-      "Фокин Сергей Александрович": 0,
-      "Против всех": 125
+      "gas:candidate-vibid:1001000136028": 43,
+      "gas:candidate-vibid:325300366913": 61,
+      "gas:candidate-vibid:325300366733": 232,
+      "gas:candidate-vibid:325300366594": 124,
+      "gas:candidate-vibid:1001000217907": 21,
+      "gas:candidate-vibid:1001000113914": 16,
+      "gas:candidate-vibid:325300366821": 4,
+      "gas:candidate-vibid:1001000195053": 0,
+      "special:against-all": 125
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300367288&region=0&sub_region=0&type=429",
@@ -1376,15 +1376,15 @@ export const duma_2003_uik_428_region_25_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеев Вячеслав Вильянович": 117,
-      "Алиев Нурмет Агарагимович": 130,
-      "Горячева Светлана Петровна": 575,
-      "Кривулин Виктор Серафимович": 271,
-      "Кузнецов Юрий Николаевич": 58,
-      "Морозов Николай Александрович": 106,
-      "Самоделок Алексей Григорьевич": 29,
-      "Фокин Сергей Александрович": 26,
-      "Против всех": 452
+      "gas:candidate-vibid:1001000136028": 117,
+      "gas:candidate-vibid:325300366913": 130,
+      "gas:candidate-vibid:325300366733": 575,
+      "gas:candidate-vibid:325300366594": 271,
+      "gas:candidate-vibid:1001000217907": 58,
+      "gas:candidate-vibid:1001000113914": 106,
+      "gas:candidate-vibid:325300366821": 29,
+      "gas:candidate-vibid:1001000195053": 26,
+      "special:against-all": 452
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300367288&region=0&sub_region=0&type=429",
@@ -1434,15 +1434,15 @@ export const duma_2003_uik_428_region_25_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеев Вячеслав Вильянович": 37,
-      "Алиев Нурмет Агарагимович": 44,
-      "Горячева Светлана Петровна": 343,
-      "Кривулин Виктор Серафимович": 114,
-      "Кузнецов Юрий Николаевич": 14,
-      "Морозов Николай Александрович": 26,
-      "Самоделок Алексей Григорьевич": 5,
-      "Фокин Сергей Александрович": 12,
-      "Против всех": 147
+      "gas:candidate-vibid:1001000136028": 37,
+      "gas:candidate-vibid:325300366913": 44,
+      "gas:candidate-vibid:325300366733": 343,
+      "gas:candidate-vibid:325300366594": 114,
+      "gas:candidate-vibid:1001000217907": 14,
+      "gas:candidate-vibid:1001000113914": 26,
+      "gas:candidate-vibid:325300366821": 5,
+      "gas:candidate-vibid:1001000195053": 12,
+      "special:against-all": 147
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300367288&region=0&sub_region=0&type=429",
@@ -1492,15 +1492,15 @@ export const duma_2003_uik_428_region_25_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеев Вячеслав Вильянович": 4,
-      "Алиев Нурмет Агарагимович": 4,
-      "Горячева Светлана Петровна": 65,
-      "Кривулин Виктор Серафимович": 34,
-      "Кузнецов Юрий Николаевич": 4,
-      "Морозов Николай Александрович": 3,
-      "Самоделок Алексей Григорьевич": 4,
-      "Фокин Сергей Александрович": 2,
-      "Против всех": 28
+      "gas:candidate-vibid:1001000136028": 4,
+      "gas:candidate-vibid:325300366913": 4,
+      "gas:candidate-vibid:325300366733": 65,
+      "gas:candidate-vibid:325300366594": 34,
+      "gas:candidate-vibid:1001000217907": 4,
+      "gas:candidate-vibid:1001000113914": 3,
+      "gas:candidate-vibid:325300366821": 4,
+      "gas:candidate-vibid:1001000195053": 2,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300367288&region=0&sub_region=0&type=429",
@@ -1550,15 +1550,15 @@ export const duma_2003_uik_428_region_25_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеев Вячеслав Вильянович": 6,
-      "Алиев Нурмет Агарагимович": 17,
-      "Горячева Светлана Петровна": 60,
-      "Кривулин Виктор Серафимович": 22,
-      "Кузнецов Юрий Николаевич": 10,
-      "Морозов Николай Александрович": 6,
-      "Самоделок Алексей Григорьевич": 0,
-      "Фокин Сергей Александрович": 3,
-      "Против всех": 25
+      "gas:candidate-vibid:1001000136028": 6,
+      "gas:candidate-vibid:325300366913": 17,
+      "gas:candidate-vibid:325300366733": 60,
+      "gas:candidate-vibid:325300366594": 22,
+      "gas:candidate-vibid:1001000217907": 10,
+      "gas:candidate-vibid:1001000113914": 6,
+      "gas:candidate-vibid:325300366821": 0,
+      "gas:candidate-vibid:1001000195053": 3,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300367288&region=0&sub_region=0&type=429",
@@ -1608,15 +1608,15 @@ export const duma_2003_uik_428_region_25_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеев Вячеслав Вильянович": 21,
-      "Алиев Нурмет Агарагимович": 52,
-      "Горячева Светлана Петровна": 300,
-      "Кривулин Виктор Серафимович": 128,
-      "Кузнецов Юрий Николаевич": 25,
-      "Морозов Николай Александрович": 25,
-      "Самоделок Алексей Григорьевич": 2,
-      "Фокин Сергей Александрович": 2,
-      "Против всех": 103
+      "gas:candidate-vibid:1001000136028": 21,
+      "gas:candidate-vibid:325300366913": 52,
+      "gas:candidate-vibid:325300366733": 300,
+      "gas:candidate-vibid:325300366594": 128,
+      "gas:candidate-vibid:1001000217907": 25,
+      "gas:candidate-vibid:1001000113914": 25,
+      "gas:candidate-vibid:325300366821": 2,
+      "gas:candidate-vibid:1001000195053": 2,
+      "special:against-all": 103
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300367288&region=0&sub_region=0&type=429",
@@ -1666,15 +1666,15 @@ export const duma_2003_uik_428_region_25_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеев Вячеслав Вильянович": 28,
-      "Алиев Нурмет Агарагимович": 46,
-      "Горячева Светлана Петровна": 482,
-      "Кривулин Виктор Серафимович": 134,
-      "Кузнецов Юрий Николаевич": 19,
-      "Морозов Николай Александрович": 31,
-      "Самоделок Алексей Григорьевич": 4,
-      "Фокин Сергей Александрович": 4,
-      "Против всех": 131
+      "gas:candidate-vibid:1001000136028": 28,
+      "gas:candidate-vibid:325300366913": 46,
+      "gas:candidate-vibid:325300366733": 482,
+      "gas:candidate-vibid:325300366594": 134,
+      "gas:candidate-vibid:1001000217907": 19,
+      "gas:candidate-vibid:1001000113914": 31,
+      "gas:candidate-vibid:325300366821": 4,
+      "gas:candidate-vibid:1001000195053": 4,
+      "special:against-all": 131
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300367288&region=0&sub_region=0&type=429",
@@ -1724,15 +1724,15 @@ export const duma_2003_uik_428_region_25_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеев Вячеслав Вильянович": 73,
-      "Алиев Нурмет Агарагимович": 125,
-      "Горячева Светлана Петровна": 590,
-      "Кривулин Виктор Серафимович": 210,
-      "Кузнецов Юрий Николаевич": 36,
-      "Морозов Николай Александрович": 43,
-      "Самоделок Алексей Григорьевич": 17,
-      "Фокин Сергей Александрович": 10,
-      "Против всех": 215
+      "gas:candidate-vibid:1001000136028": 73,
+      "gas:candidate-vibid:325300366913": 125,
+      "gas:candidate-vibid:325300366733": 590,
+      "gas:candidate-vibid:325300366594": 210,
+      "gas:candidate-vibid:1001000217907": 36,
+      "gas:candidate-vibid:1001000113914": 43,
+      "gas:candidate-vibid:325300366821": 17,
+      "gas:candidate-vibid:1001000195053": 10,
+      "special:against-all": 215
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300367288&region=0&sub_region=0&type=429",
@@ -1782,15 +1782,15 @@ export const duma_2003_uik_428_region_25_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеев Вячеслав Вильянович": 19,
-      "Алиев Нурмет Агарагимович": 33,
-      "Горячева Светлана Петровна": 166,
-      "Кривулин Виктор Серафимович": 64,
-      "Кузнецов Юрий Николаевич": 14,
-      "Морозов Николай Александрович": 19,
-      "Самоделок Алексей Григорьевич": 4,
-      "Фокин Сергей Александрович": 0,
-      "Против всех": 66
+      "gas:candidate-vibid:1001000136028": 19,
+      "gas:candidate-vibid:325300366913": 33,
+      "gas:candidate-vibid:325300366733": 166,
+      "gas:candidate-vibid:325300366594": 64,
+      "gas:candidate-vibid:1001000217907": 14,
+      "gas:candidate-vibid:1001000113914": 19,
+      "gas:candidate-vibid:325300366821": 4,
+      "gas:candidate-vibid:1001000195053": 0,
+      "special:against-all": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300367288&region=0&sub_region=0&type=429",
@@ -1840,15 +1840,15 @@ export const duma_2003_uik_428_region_25_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеев Вячеслав Вильянович": 26,
-      "Алиев Нурмет Агарагимович": 55,
-      "Горячева Светлана Петровна": 307,
-      "Кривулин Виктор Серафимович": 80,
-      "Кузнецов Юрий Николаевич": 27,
-      "Морозов Николай Александрович": 18,
-      "Самоделок Алексей Григорьевич": 2,
-      "Фокин Сергей Александрович": 4,
-      "Против всех": 141
+      "gas:candidate-vibid:1001000136028": 26,
+      "gas:candidate-vibid:325300366913": 55,
+      "gas:candidate-vibid:325300366733": 307,
+      "gas:candidate-vibid:325300366594": 80,
+      "gas:candidate-vibid:1001000217907": 27,
+      "gas:candidate-vibid:1001000113914": 18,
+      "gas:candidate-vibid:325300366821": 2,
+      "gas:candidate-vibid:1001000195053": 4,
+      "special:against-all": 141
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300367288&region=0&sub_region=0&type=429",
@@ -1898,15 +1898,15 @@ export const duma_2003_uik_428_region_25_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеев Вячеслав Вильянович": 32,
-      "Алиев Нурмет Агарагимович": 24,
-      "Горячева Светлана Петровна": 394,
-      "Кривулин Виктор Серафимович": 157,
-      "Кузнецов Юрий Николаевич": 18,
-      "Морозов Николай Александрович": 38,
-      "Самоделок Алексей Григорьевич": 14,
-      "Фокин Сергей Александрович": 4,
-      "Против всех": 163
+      "gas:candidate-vibid:1001000136028": 32,
+      "gas:candidate-vibid:325300366913": 24,
+      "gas:candidate-vibid:325300366733": 394,
+      "gas:candidate-vibid:325300366594": 157,
+      "gas:candidate-vibid:1001000217907": 18,
+      "gas:candidate-vibid:1001000113914": 38,
+      "gas:candidate-vibid:325300366821": 14,
+      "gas:candidate-vibid:1001000195053": 4,
+      "special:against-all": 163
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300367288&region=0&sub_region=0&type=429",
@@ -1956,15 +1956,15 @@ export const duma_2003_uik_428_region_25_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеев Вячеслав Вильянович": 21,
-      "Алиев Нурмет Агарагимович": 23,
-      "Горячева Светлана Петровна": 268,
-      "Кривулин Виктор Серафимович": 110,
-      "Кузнецов Юрий Николаевич": 28,
-      "Морозов Николай Александрович": 29,
-      "Самоделок Алексей Григорьевич": 3,
-      "Фокин Сергей Александрович": 4,
-      "Против всех": 122
+      "gas:candidate-vibid:1001000136028": 21,
+      "gas:candidate-vibid:325300366913": 23,
+      "gas:candidate-vibid:325300366733": 268,
+      "gas:candidate-vibid:325300366594": 110,
+      "gas:candidate-vibid:1001000217907": 28,
+      "gas:candidate-vibid:1001000113914": 29,
+      "gas:candidate-vibid:325300366821": 3,
+      "gas:candidate-vibid:1001000195053": 4,
+      "special:against-all": 122
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300367288&region=0&sub_region=0&type=429",
@@ -2014,15 +2014,15 @@ export const duma_2003_uik_428_region_25_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеев Вячеслав Вильянович": 21,
-      "Алиев Нурмет Агарагимович": 37,
-      "Горячева Светлана Петровна": 296,
-      "Кривулин Виктор Серафимович": 74,
-      "Кузнецов Юрий Николаевич": 17,
-      "Морозов Николай Александрович": 27,
-      "Самоделок Алексей Григорьевич": 1,
-      "Фокин Сергей Александрович": 4,
-      "Против всех": 112
+      "gas:candidate-vibid:1001000136028": 21,
+      "gas:candidate-vibid:325300366913": 37,
+      "gas:candidate-vibid:325300366733": 296,
+      "gas:candidate-vibid:325300366594": 74,
+      "gas:candidate-vibid:1001000217907": 17,
+      "gas:candidate-vibid:1001000113914": 27,
+      "gas:candidate-vibid:325300366821": 1,
+      "gas:candidate-vibid:1001000195053": 4,
+      "special:against-all": 112
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300367288&region=0&sub_region=0&type=429",
@@ -2072,15 +2072,15 @@ export const duma_2003_uik_428_region_25_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеев Вячеслав Вильянович": 67,
-      "Алиев Нурмет Агарагимович": 79,
-      "Горячева Светлана Петровна": 526,
-      "Кривулин Виктор Серафимович": 316,
-      "Кузнецов Юрий Николаевич": 32,
-      "Морозов Николай Александрович": 67,
-      "Самоделок Алексей Григорьевич": 29,
-      "Фокин Сергей Александрович": 14,
-      "Против всех": 245
+      "gas:candidate-vibid:1001000136028": 67,
+      "gas:candidate-vibid:325300366913": 79,
+      "gas:candidate-vibid:325300366733": 526,
+      "gas:candidate-vibid:325300366594": 316,
+      "gas:candidate-vibid:1001000217907": 32,
+      "gas:candidate-vibid:1001000113914": 67,
+      "gas:candidate-vibid:325300366821": 29,
+      "gas:candidate-vibid:1001000195053": 14,
+      "special:against-all": 245
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300367288&region=0&sub_region=0&type=429",
@@ -2130,15 +2130,15 @@ export const duma_2003_uik_428_region_25_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеев Вячеслав Вильянович": 39,
-      "Алиев Нурмет Агарагимович": 46,
-      "Горячева Светлана Петровна": 472,
-      "Кривулин Виктор Серафимович": 139,
-      "Кузнецов Юрий Николаевич": 25,
-      "Морозов Николай Александрович": 23,
-      "Самоделок Алексей Григорьевич": 7,
-      "Фокин Сергей Александрович": 9,
-      "Против всех": 139
+      "gas:candidate-vibid:1001000136028": 39,
+      "gas:candidate-vibid:325300366913": 46,
+      "gas:candidate-vibid:325300366733": 472,
+      "gas:candidate-vibid:325300366594": 139,
+      "gas:candidate-vibid:1001000217907": 25,
+      "gas:candidate-vibid:1001000113914": 23,
+      "gas:candidate-vibid:325300366821": 7,
+      "gas:candidate-vibid:1001000195053": 9,
+      "special:against-all": 139
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300367288&region=0&sub_region=0&type=429",
@@ -2188,15 +2188,15 @@ export const duma_2003_uik_428_region_25_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеев Вячеслав Вильянович": 53,
-      "Алиев Нурмет Агарагимович": 50,
-      "Горячева Светлана Петровна": 494,
-      "Кривулин Виктор Серафимович": 190,
-      "Кузнецов Юрий Николаевич": 38,
-      "Морозов Николай Александрович": 48,
-      "Самоделок Алексей Григорьевич": 5,
-      "Фокин Сергей Александрович": 15,
-      "Против всех": 208
+      "gas:candidate-vibid:1001000136028": 53,
+      "gas:candidate-vibid:325300366913": 50,
+      "gas:candidate-vibid:325300366733": 494,
+      "gas:candidate-vibid:325300366594": 190,
+      "gas:candidate-vibid:1001000217907": 38,
+      "gas:candidate-vibid:1001000113914": 48,
+      "gas:candidate-vibid:325300366821": 5,
+      "gas:candidate-vibid:1001000195053": 15,
+      "special:against-all": 208
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300367288&region=0&sub_region=0&type=429",
@@ -2246,15 +2246,15 @@ export const duma_2003_uik_428_region_25_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеев Вячеслав Вильянович": 41,
-      "Алиев Нурмет Агарагимович": 91,
-      "Горячева Светлана Петровна": 459,
-      "Кривулин Виктор Серафимович": 162,
-      "Кузнецов Юрий Николаевич": 31,
-      "Морозов Николай Александрович": 33,
-      "Самоделок Алексей Григорьевич": 6,
-      "Фокин Сергей Александрович": 7,
-      "Против всех": 227
+      "gas:candidate-vibid:1001000136028": 41,
+      "gas:candidate-vibid:325300366913": 91,
+      "gas:candidate-vibid:325300366733": 459,
+      "gas:candidate-vibid:325300366594": 162,
+      "gas:candidate-vibid:1001000217907": 31,
+      "gas:candidate-vibid:1001000113914": 33,
+      "gas:candidate-vibid:325300366821": 6,
+      "gas:candidate-vibid:1001000195053": 7,
+      "special:against-all": 227
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300367288&region=0&sub_region=0&type=429",
@@ -2304,15 +2304,15 @@ export const duma_2003_uik_428_region_25_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеев Вячеслав Вильянович": 41,
-      "Алиев Нурмет Агарагимович": 69,
-      "Горячева Светлана Петровна": 524,
-      "Кривулин Виктор Серафимович": 138,
-      "Кузнецов Юрий Николаевич": 38,
-      "Морозов Николай Александрович": 50,
-      "Самоделок Алексей Григорьевич": 15,
-      "Фокин Сергей Александрович": 3,
-      "Против всех": 183
+      "gas:candidate-vibid:1001000136028": 41,
+      "gas:candidate-vibid:325300366913": 69,
+      "gas:candidate-vibid:325300366733": 524,
+      "gas:candidate-vibid:325300366594": 138,
+      "gas:candidate-vibid:1001000217907": 38,
+      "gas:candidate-vibid:1001000113914": 50,
+      "gas:candidate-vibid:325300366821": 15,
+      "gas:candidate-vibid:1001000195053": 3,
+      "special:against-all": 183
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300367288&region=0&sub_region=0&type=429",
@@ -2362,15 +2362,15 @@ export const duma_2003_uik_428_region_25_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеев Вячеслав Вильянович": 29,
-      "Алиев Нурмет Агарагимович": 35,
-      "Горячева Светлана Петровна": 383,
-      "Кривулин Виктор Серафимович": 130,
-      "Кузнецов Юрий Николаевич": 17,
-      "Морозов Николай Александрович": 17,
-      "Самоделок Алексей Григорьевич": 4,
-      "Фокин Сергей Александрович": 4,
-      "Против всех": 102
+      "gas:candidate-vibid:1001000136028": 29,
+      "gas:candidate-vibid:325300366913": 35,
+      "gas:candidate-vibid:325300366733": 383,
+      "gas:candidate-vibid:325300366594": 130,
+      "gas:candidate-vibid:1001000217907": 17,
+      "gas:candidate-vibid:1001000113914": 17,
+      "gas:candidate-vibid:325300366821": 4,
+      "gas:candidate-vibid:1001000195053": 4,
+      "special:against-all": 102
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300367288&region=0&sub_region=0&type=429",
@@ -2420,15 +2420,15 @@ export const duma_2003_uik_428_region_25_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеев Вячеслав Вильянович": 35,
-      "Алиев Нурмет Агарагимович": 62,
-      "Горячева Светлана Петровна": 396,
-      "Кривулин Виктор Серафимович": 138,
-      "Кузнецов Юрий Николаевич": 33,
-      "Морозов Николай Александрович": 22,
-      "Самоделок Алексей Григорьевич": 6,
-      "Фокин Сергей Александрович": 3,
-      "Против всех": 120
+      "gas:candidate-vibid:1001000136028": 35,
+      "gas:candidate-vibid:325300366913": 62,
+      "gas:candidate-vibid:325300366733": 396,
+      "gas:candidate-vibid:325300366594": 138,
+      "gas:candidate-vibid:1001000217907": 33,
+      "gas:candidate-vibid:1001000113914": 22,
+      "gas:candidate-vibid:325300366821": 6,
+      "gas:candidate-vibid:1001000195053": 3,
+      "special:against-all": 120
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300367288&region=0&sub_region=0&type=429",
@@ -2478,15 +2478,15 @@ export const duma_2003_uik_428_region_25_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеев Вячеслав Вильянович": 25,
-      "Алиев Нурмет Агарагимович": 63,
-      "Горячева Светлана Петровна": 219,
-      "Кривулин Виктор Серафимович": 74,
-      "Кузнецов Юрий Николаевич": 14,
-      "Морозов Николай Александрович": 17,
-      "Самоделок Алексей Григорьевич": 5,
-      "Фокин Сергей Александрович": 5,
-      "Против всех": 86
+      "gas:candidate-vibid:1001000136028": 25,
+      "gas:candidate-vibid:325300366913": 63,
+      "gas:candidate-vibid:325300366733": 219,
+      "gas:candidate-vibid:325300366594": 74,
+      "gas:candidate-vibid:1001000217907": 14,
+      "gas:candidate-vibid:1001000113914": 17,
+      "gas:candidate-vibid:325300366821": 5,
+      "gas:candidate-vibid:1001000195053": 5,
+      "special:against-all": 86
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300367288&region=0&sub_region=0&type=429",
@@ -2536,15 +2536,15 @@ export const duma_2003_uik_428_region_25_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеев Вячеслав Вильянович": 113,
-      "Алиев Нурмет Агарагимович": 54,
-      "Горячева Светлана Петровна": 626,
-      "Кривулин Виктор Серафимович": 255,
-      "Кузнецов Юрий Николаевич": 64,
-      "Морозов Николай Александрович": 58,
-      "Самоделок Алексей Григорьевич": 14,
-      "Фокин Сергей Александрович": 20,
-      "Против всех": 380
+      "gas:candidate-vibid:1001000136028": 113,
+      "gas:candidate-vibid:325300366913": 54,
+      "gas:candidate-vibid:325300366733": 626,
+      "gas:candidate-vibid:325300366594": 255,
+      "gas:candidate-vibid:1001000217907": 64,
+      "gas:candidate-vibid:1001000113914": 58,
+      "gas:candidate-vibid:325300366821": 14,
+      "gas:candidate-vibid:1001000195053": 20,
+      "special:against-all": 380
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300367288&region=0&sub_region=0&type=429",
@@ -2594,15 +2594,15 @@ export const duma_2003_uik_428_region_25_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеев Вячеслав Вильянович": 2,
-      "Алиев Нурмет Агарагимович": 7,
-      "Горячева Светлана Петровна": 83,
-      "Кривулин Виктор Серафимович": 21,
-      "Кузнецов Юрий Николаевич": 3,
-      "Морозов Николай Александрович": 4,
-      "Самоделок Алексей Григорьевич": 0,
-      "Фокин Сергей Александрович": 0,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000136028": 2,
+      "gas:candidate-vibid:325300366913": 7,
+      "gas:candidate-vibid:325300366733": 83,
+      "gas:candidate-vibid:325300366594": 21,
+      "gas:candidate-vibid:1001000217907": 3,
+      "gas:candidate-vibid:1001000113914": 4,
+      "gas:candidate-vibid:325300366821": 0,
+      "gas:candidate-vibid:1001000195053": 0,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300367288&region=0&sub_region=0&type=429",
@@ -2652,15 +2652,15 @@ export const duma_2003_uik_428_region_25_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеев Вячеслав Вильянович": 72,
-      "Алиев Нурмет Агарагимович": 78,
-      "Горячева Светлана Петровна": 259,
-      "Кривулин Виктор Серафимович": 246,
-      "Кузнецов Юрий Николаевич": 28,
-      "Морозов Николай Александрович": 80,
-      "Самоделок Алексей Григорьевич": 51,
-      "Фокин Сергей Александрович": 53,
-      "Против всех": 391
+      "gas:candidate-vibid:1001000136028": 72,
+      "gas:candidate-vibid:325300366913": 78,
+      "gas:candidate-vibid:325300366733": 259,
+      "gas:candidate-vibid:325300366594": 246,
+      "gas:candidate-vibid:1001000217907": 28,
+      "gas:candidate-vibid:1001000113914": 80,
+      "gas:candidate-vibid:325300366821": 51,
+      "gas:candidate-vibid:1001000195053": 53,
+      "special:against-all": 391
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300367288&region=0&sub_region=0&type=429",
@@ -2710,15 +2710,15 @@ export const duma_2003_uik_428_region_25_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеев Вячеслав Вильянович": 24,
-      "Алиев Нурмет Агарагимович": 31,
-      "Горячева Светлана Петровна": 250,
-      "Кривулин Виктор Серафимович": 125,
-      "Кузнецов Юрий Николаевич": 11,
-      "Морозов Николай Александрович": 18,
-      "Самоделок Алексей Григорьевич": 1,
-      "Фокин Сергей Александрович": 8,
-      "Против всех": 69
+      "gas:candidate-vibid:1001000136028": 24,
+      "gas:candidate-vibid:325300366913": 31,
+      "gas:candidate-vibid:325300366733": 250,
+      "gas:candidate-vibid:325300366594": 125,
+      "gas:candidate-vibid:1001000217907": 11,
+      "gas:candidate-vibid:1001000113914": 18,
+      "gas:candidate-vibid:325300366821": 1,
+      "gas:candidate-vibid:1001000195053": 8,
+      "special:against-all": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300367288&region=0&sub_region=0&type=429",
@@ -2768,15 +2768,15 @@ export const duma_2003_uik_428_region_25_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеев Вячеслав Вильянович": 37,
-      "Алиев Нурмет Агарагимович": 34,
-      "Горячева Светлана Петровна": 400,
-      "Кривулин Виктор Серафимович": 157,
-      "Кузнецов Юрий Николаевич": 21,
-      "Морозов Николай Александрович": 15,
-      "Самоделок Алексей Григорьевич": 1,
-      "Фокин Сергей Александрович": 6,
-      "Против всех": 114
+      "gas:candidate-vibid:1001000136028": 37,
+      "gas:candidate-vibid:325300366913": 34,
+      "gas:candidate-vibid:325300366733": 400,
+      "gas:candidate-vibid:325300366594": 157,
+      "gas:candidate-vibid:1001000217907": 21,
+      "gas:candidate-vibid:1001000113914": 15,
+      "gas:candidate-vibid:325300366821": 1,
+      "gas:candidate-vibid:1001000195053": 6,
+      "special:against-all": 114
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300367288&region=0&sub_region=0&type=429",
@@ -2826,15 +2826,15 @@ export const duma_2003_uik_428_region_25_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеев Вячеслав Вильянович": 52,
-      "Алиев Нурмет Агарагимович": 69,
-      "Горячева Светлана Петровна": 306,
-      "Кривулин Виктор Серафимович": 136,
-      "Кузнецов Юрий Николаевич": 28,
-      "Морозов Николай Александрович": 47,
-      "Самоделок Алексей Григорьевич": 12,
-      "Фокин Сергей Александрович": 12,
-      "Против всех": 214
+      "gas:candidate-vibid:1001000136028": 52,
+      "gas:candidate-vibid:325300366913": 69,
+      "gas:candidate-vibid:325300366733": 306,
+      "gas:candidate-vibid:325300366594": 136,
+      "gas:candidate-vibid:1001000217907": 28,
+      "gas:candidate-vibid:1001000113914": 47,
+      "gas:candidate-vibid:325300366821": 12,
+      "gas:candidate-vibid:1001000195053": 12,
+      "special:against-all": 214
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300367288&region=0&sub_region=0&type=429",
@@ -2884,15 +2884,15 @@ export const duma_2003_uik_428_region_25_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеев Вячеслав Вильянович": 42,
-      "Алиев Нурмет Агарагимович": 71,
-      "Горячева Светлана Петровна": 457,
-      "Кривулин Виктор Серафимович": 197,
-      "Кузнецов Юрий Николаевич": 41,
-      "Морозов Николай Александрович": 31,
-      "Самоделок Алексей Григорьевич": 8,
-      "Фокин Сергей Александрович": 6,
-      "Против всех": 181
+      "gas:candidate-vibid:1001000136028": 42,
+      "gas:candidate-vibid:325300366913": 71,
+      "gas:candidate-vibid:325300366733": 457,
+      "gas:candidate-vibid:325300366594": 197,
+      "gas:candidate-vibid:1001000217907": 41,
+      "gas:candidate-vibid:1001000113914": 31,
+      "gas:candidate-vibid:325300366821": 8,
+      "gas:candidate-vibid:1001000195053": 6,
+      "special:against-all": 181
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300367288&region=0&sub_region=0&type=429",
@@ -2942,15 +2942,15 @@ export const duma_2003_uik_428_region_25_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеев Вячеслав Вильянович": 26,
-      "Алиев Нурмет Агарагимович": 17,
-      "Горячева Светлана Петровна": 319,
-      "Кривулин Виктор Серафимович": 103,
-      "Кузнецов Юрий Николаевич": 17,
-      "Морозов Николай Александрович": 23,
-      "Самоделок Алексей Григорьевич": 3,
-      "Фокин Сергей Александрович": 2,
-      "Против всех": 100
+      "gas:candidate-vibid:1001000136028": 26,
+      "gas:candidate-vibid:325300366913": 17,
+      "gas:candidate-vibid:325300366733": 319,
+      "gas:candidate-vibid:325300366594": 103,
+      "gas:candidate-vibid:1001000217907": 17,
+      "gas:candidate-vibid:1001000113914": 23,
+      "gas:candidate-vibid:325300366821": 3,
+      "gas:candidate-vibid:1001000195053": 2,
+      "special:against-all": 100
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300367288&region=0&sub_region=0&type=429",
@@ -3000,15 +3000,15 @@ export const duma_2003_uik_428_region_25_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеев Вячеслав Вильянович": 32,
-      "Алиев Нурмет Агарагимович": 34,
-      "Горячева Светлана Петровна": 383,
-      "Кривулин Виктор Серафимович": 164,
-      "Кузнецов Юрий Николаевич": 24,
-      "Морозов Николай Александрович": 26,
-      "Самоделок Алексей Григорьевич": 4,
-      "Фокин Сергей Александрович": 2,
-      "Против всех": 155
+      "gas:candidate-vibid:1001000136028": 32,
+      "gas:candidate-vibid:325300366913": 34,
+      "gas:candidate-vibid:325300366733": 383,
+      "gas:candidate-vibid:325300366594": 164,
+      "gas:candidate-vibid:1001000217907": 24,
+      "gas:candidate-vibid:1001000113914": 26,
+      "gas:candidate-vibid:325300366821": 4,
+      "gas:candidate-vibid:1001000195053": 2,
+      "special:against-all": 155
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300367288&region=0&sub_region=0&type=429",
@@ -3058,15 +3058,15 @@ export const duma_2003_uik_428_region_25_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеев Вячеслав Вильянович": 23,
-      "Алиев Нурмет Агарагимович": 19,
-      "Горячева Светлана Петровна": 250,
-      "Кривулин Виктор Серафимович": 147,
-      "Кузнецов Юрий Николаевич": 21,
-      "Морозов Николай Александрович": 12,
-      "Самоделок Алексей Григорьевич": 3,
-      "Фокин Сергей Александрович": 1,
-      "Против всех": 94
+      "gas:candidate-vibid:1001000136028": 23,
+      "gas:candidate-vibid:325300366913": 19,
+      "gas:candidate-vibid:325300366733": 250,
+      "gas:candidate-vibid:325300366594": 147,
+      "gas:candidate-vibid:1001000217907": 21,
+      "gas:candidate-vibid:1001000113914": 12,
+      "gas:candidate-vibid:325300366821": 3,
+      "gas:candidate-vibid:1001000195053": 1,
+      "special:against-all": 94
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300367288&region=0&sub_region=0&type=429",
@@ -3116,15 +3116,15 @@ export const duma_2003_uik_428_region_25_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеев Вячеслав Вильянович": 33,
-      "Алиев Нурмет Агарагимович": 57,
-      "Горячева Светлана Петровна": 212,
-      "Кривулин Виктор Серафимович": 97,
-      "Кузнецов Юрий Николаевич": 13,
-      "Морозов Николай Александрович": 17,
-      "Самоделок Алексей Григорьевич": 5,
-      "Фокин Сергей Александрович": 3,
-      "Против всех": 89
+      "gas:candidate-vibid:1001000136028": 33,
+      "gas:candidate-vibid:325300366913": 57,
+      "gas:candidate-vibid:325300366733": 212,
+      "gas:candidate-vibid:325300366594": 97,
+      "gas:candidate-vibid:1001000217907": 13,
+      "gas:candidate-vibid:1001000113914": 17,
+      "gas:candidate-vibid:325300366821": 5,
+      "gas:candidate-vibid:1001000195053": 3,
+      "special:against-all": 89
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300367288&region=0&sub_region=0&type=429",
@@ -3174,15 +3174,15 @@ export const duma_2003_uik_428_region_25_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеев Вячеслав Вильянович": 31,
-      "Алиев Нурмет Агарагимович": 15,
-      "Горячева Светлана Петровна": 280,
-      "Кривулин Виктор Серафимович": 118,
-      "Кузнецов Юрий Николаевич": 21,
-      "Морозов Николай Александрович": 27,
-      "Самоделок Алексей Григорьевич": 12,
-      "Фокин Сергей Александрович": 3,
-      "Против всех": 97
+      "gas:candidate-vibid:1001000136028": 31,
+      "gas:candidate-vibid:325300366913": 15,
+      "gas:candidate-vibid:325300366733": 280,
+      "gas:candidate-vibid:325300366594": 118,
+      "gas:candidate-vibid:1001000217907": 21,
+      "gas:candidate-vibid:1001000113914": 27,
+      "gas:candidate-vibid:325300366821": 12,
+      "gas:candidate-vibid:1001000195053": 3,
+      "special:against-all": 97
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300367288&region=0&sub_region=0&type=429",
@@ -3232,15 +3232,15 @@ export const duma_2003_uik_428_region_25_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеев Вячеслав Вильянович": 52,
-      "Алиев Нурмет Агарагимович": 41,
-      "Горячева Светлана Петровна": 454,
-      "Кривулин Виктор Серафимович": 226,
-      "Кузнецов Юрий Николаевич": 21,
-      "Морозов Николай Александрович": 40,
-      "Самоделок Алексей Григорьевич": 14,
-      "Фокин Сергей Александрович": 9,
-      "Против всех": 207
+      "gas:candidate-vibid:1001000136028": 52,
+      "gas:candidate-vibid:325300366913": 41,
+      "gas:candidate-vibid:325300366733": 454,
+      "gas:candidate-vibid:325300366594": 226,
+      "gas:candidate-vibid:1001000217907": 21,
+      "gas:candidate-vibid:1001000113914": 40,
+      "gas:candidate-vibid:325300366821": 14,
+      "gas:candidate-vibid:1001000195053": 9,
+      "special:against-all": 207
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300367288&region=0&sub_region=0&type=429",
@@ -3290,15 +3290,15 @@ export const duma_2003_uik_428_region_25_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеев Вячеслав Вильянович": 1,
-      "Алиев Нурмет Агарагимович": 2,
-      "Горячева Светлана Петровна": 28,
-      "Кривулин Виктор Серафимович": 24,
-      "Кузнецов Юрий Николаевич": 1,
-      "Морозов Николай Александрович": 1,
-      "Самоделок Алексей Григорьевич": 0,
-      "Фокин Сергей Александрович": 0,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000136028": 1,
+      "gas:candidate-vibid:325300366913": 2,
+      "gas:candidate-vibid:325300366733": 28,
+      "gas:candidate-vibid:325300366594": 24,
+      "gas:candidate-vibid:1001000217907": 1,
+      "gas:candidate-vibid:1001000113914": 1,
+      "gas:candidate-vibid:325300366821": 0,
+      "gas:candidate-vibid:1001000195053": 0,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300367288&region=0&sub_region=0&type=429",
@@ -3348,15 +3348,15 @@ export const duma_2003_uik_428_region_25_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеев Вячеслав Вильянович": 38,
-      "Алиев Нурмет Агарагимович": 36,
-      "Горячева Светлана Петровна": 367,
-      "Кривулин Виктор Серафимович": 200,
-      "Кузнецов Юрий Николаевич": 29,
-      "Морозов Николай Александрович": 34,
-      "Самоделок Алексей Григорьевич": 7,
-      "Фокин Сергей Александрович": 8,
-      "Против всех": 157
+      "gas:candidate-vibid:1001000136028": 38,
+      "gas:candidate-vibid:325300366913": 36,
+      "gas:candidate-vibid:325300366733": 367,
+      "gas:candidate-vibid:325300366594": 200,
+      "gas:candidate-vibid:1001000217907": 29,
+      "gas:candidate-vibid:1001000113914": 34,
+      "gas:candidate-vibid:325300366821": 7,
+      "gas:candidate-vibid:1001000195053": 8,
+      "special:against-all": 157
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300367288&region=0&sub_region=0&type=429",
@@ -3406,15 +3406,15 @@ export const duma_2003_uik_428_region_25_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеев Вячеслав Вильянович": 49,
-      "Алиев Нурмет Агарагимович": 31,
-      "Горячева Светлана Петровна": 356,
-      "Кривулин Виктор Серафимович": 212,
-      "Кузнецов Юрий Николаевич": 28,
-      "Морозов Николай Александрович": 23,
-      "Самоделок Алексей Григорьевич": 9,
-      "Фокин Сергей Александрович": 1,
-      "Против всех": 154
+      "gas:candidate-vibid:1001000136028": 49,
+      "gas:candidate-vibid:325300366913": 31,
+      "gas:candidate-vibid:325300366733": 356,
+      "gas:candidate-vibid:325300366594": 212,
+      "gas:candidate-vibid:1001000217907": 28,
+      "gas:candidate-vibid:1001000113914": 23,
+      "gas:candidate-vibid:325300366821": 9,
+      "gas:candidate-vibid:1001000195053": 1,
+      "special:against-all": 154
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300367288&region=0&sub_region=0&type=429",
@@ -3464,15 +3464,15 @@ export const duma_2003_uik_428_region_25_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеев Вячеслав Вильянович": 28,
-      "Алиев Нурмет Агарагимович": 23,
-      "Горячева Светлана Петровна": 268,
-      "Кривулин Виктор Серафимович": 94,
-      "Кузнецов Юрий Николаевич": 21,
-      "Морозов Николай Александрович": 18,
-      "Самоделок Алексей Григорьевич": 4,
-      "Фокин Сергей Александрович": 3,
-      "Против всех": 115
+      "gas:candidate-vibid:1001000136028": 28,
+      "gas:candidate-vibid:325300366913": 23,
+      "gas:candidate-vibid:325300366733": 268,
+      "gas:candidate-vibid:325300366594": 94,
+      "gas:candidate-vibid:1001000217907": 21,
+      "gas:candidate-vibid:1001000113914": 18,
+      "gas:candidate-vibid:325300366821": 4,
+      "gas:candidate-vibid:1001000195053": 3,
+      "special:against-all": 115
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300367288&region=0&sub_region=0&type=429",
@@ -3522,15 +3522,15 @@ export const duma_2003_uik_428_region_25_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеев Вячеслав Вильянович": 54,
-      "Алиев Нурмет Агарагимович": 50,
-      "Горячева Светлана Петровна": 547,
-      "Кривулин Виктор Серафимович": 281,
-      "Кузнецов Юрий Николаевич": 42,
-      "Морозов Николай Александрович": 48,
-      "Самоделок Алексей Григорьевич": 17,
-      "Фокин Сергей Александрович": 9,
-      "Против всех": 257
+      "gas:candidate-vibid:1001000136028": 54,
+      "gas:candidate-vibid:325300366913": 50,
+      "gas:candidate-vibid:325300366733": 547,
+      "gas:candidate-vibid:325300366594": 281,
+      "gas:candidate-vibid:1001000217907": 42,
+      "gas:candidate-vibid:1001000113914": 48,
+      "gas:candidate-vibid:325300366821": 17,
+      "gas:candidate-vibid:1001000195053": 9,
+      "special:against-all": 257
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300367288&region=0&sub_region=0&type=429",
@@ -3580,15 +3580,15 @@ export const duma_2003_uik_428_region_25_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеев Вячеслав Вильянович": 40,
-      "Алиев Нурмет Агарагимович": 43,
-      "Горячева Светлана Петровна": 341,
-      "Кривулин Виктор Серафимович": 171,
-      "Кузнецов Юрий Николаевич": 31,
-      "Морозов Николай Александрович": 16,
-      "Самоделок Алексей Григорьевич": 9,
-      "Фокин Сергей Александрович": 8,
-      "Против всех": 191
+      "gas:candidate-vibid:1001000136028": 40,
+      "gas:candidate-vibid:325300366913": 43,
+      "gas:candidate-vibid:325300366733": 341,
+      "gas:candidate-vibid:325300366594": 171,
+      "gas:candidate-vibid:1001000217907": 31,
+      "gas:candidate-vibid:1001000113914": 16,
+      "gas:candidate-vibid:325300366821": 9,
+      "gas:candidate-vibid:1001000195053": 8,
+      "special:against-all": 191
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300367288&region=0&sub_region=0&type=429",
@@ -3638,15 +3638,15 @@ export const duma_2003_uik_428_region_25_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеев Вячеслав Вильянович": 8,
-      "Алиев Нурмет Агарагимович": 13,
-      "Горячева Светлана Петровна": 116,
-      "Кривулин Виктор Серафимович": 63,
-      "Кузнецов Юрий Николаевич": 10,
-      "Морозов Николай Александрович": 13,
-      "Самоделок Алексей Григорьевич": 3,
-      "Фокин Сергей Александрович": 0,
-      "Против всех": 59
+      "gas:candidate-vibid:1001000136028": 8,
+      "gas:candidate-vibid:325300366913": 13,
+      "gas:candidate-vibid:325300366733": 116,
+      "gas:candidate-vibid:325300366594": 63,
+      "gas:candidate-vibid:1001000217907": 10,
+      "gas:candidate-vibid:1001000113914": 13,
+      "gas:candidate-vibid:325300366821": 3,
+      "gas:candidate-vibid:1001000195053": 0,
+      "special:against-all": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300367288&region=0&sub_region=0&type=429",
@@ -3696,15 +3696,15 @@ export const duma_2003_uik_428_region_25_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеев Вячеслав Вильянович": 13,
-      "Алиев Нурмет Агарагимович": 15,
-      "Горячева Светлана Петровна": 171,
-      "Кривулин Виктор Серафимович": 43,
-      "Кузнецов Юрий Николаевич": 9,
-      "Морозов Николай Александрович": 10,
-      "Самоделок Алексей Григорьевич": 7,
-      "Фокин Сергей Александрович": 0,
-      "Против всех": 45
+      "gas:candidate-vibid:1001000136028": 13,
+      "gas:candidate-vibid:325300366913": 15,
+      "gas:candidate-vibid:325300366733": 171,
+      "gas:candidate-vibid:325300366594": 43,
+      "gas:candidate-vibid:1001000217907": 9,
+      "gas:candidate-vibid:1001000113914": 10,
+      "gas:candidate-vibid:325300366821": 7,
+      "gas:candidate-vibid:1001000195053": 0,
+      "special:against-all": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300367288&region=0&sub_region=0&type=429",
@@ -3754,15 +3754,15 @@ export const duma_2003_uik_428_region_25_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеев Вячеслав Вильянович": 8,
-      "Алиев Нурмет Агарагимович": 22,
-      "Горячева Светлана Петровна": 193,
-      "Кривулин Виктор Серафимович": 61,
-      "Кузнецов Юрий Николаевич": 15,
-      "Морозов Николай Александрович": 14,
-      "Самоделок Алексей Григорьевич": 3,
-      "Фокин Сергей Александрович": 4,
-      "Против всех": 70
+      "gas:candidate-vibid:1001000136028": 8,
+      "gas:candidate-vibid:325300366913": 22,
+      "gas:candidate-vibid:325300366733": 193,
+      "gas:candidate-vibid:325300366594": 61,
+      "gas:candidate-vibid:1001000217907": 15,
+      "gas:candidate-vibid:1001000113914": 14,
+      "gas:candidate-vibid:325300366821": 3,
+      "gas:candidate-vibid:1001000195053": 4,
+      "special:against-all": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300367288&region=0&sub_region=0&type=429",
@@ -3812,15 +3812,15 @@ export const duma_2003_uik_428_region_25_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеев Вячеслав Вильянович": 37,
-      "Алиев Нурмет Агарагимович": 30,
-      "Горячева Светлана Петровна": 327,
-      "Кривулин Виктор Серафимович": 138,
-      "Кузнецов Юрий Николаевич": 19,
-      "Морозов Николай Александрович": 20,
-      "Самоделок Алексей Григорьевич": 5,
-      "Фокин Сергей Александрович": 2,
-      "Против всех": 89
+      "gas:candidate-vibid:1001000136028": 37,
+      "gas:candidate-vibid:325300366913": 30,
+      "gas:candidate-vibid:325300366733": 327,
+      "gas:candidate-vibid:325300366594": 138,
+      "gas:candidate-vibid:1001000217907": 19,
+      "gas:candidate-vibid:1001000113914": 20,
+      "gas:candidate-vibid:325300366821": 5,
+      "gas:candidate-vibid:1001000195053": 2,
+      "special:against-all": 89
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300367288&region=0&sub_region=0&type=429",
@@ -3870,15 +3870,15 @@ export const duma_2003_uik_428_region_25_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеев Вячеслав Вильянович": 21,
-      "Алиев Нурмет Агарагимович": 30,
-      "Горячева Светлана Петровна": 244,
-      "Кривулин Виктор Серафимович": 91,
-      "Кузнецов Юрий Николаевич": 9,
-      "Морозов Николай Александрович": 15,
-      "Самоделок Алексей Григорьевич": 4,
-      "Фокин Сергей Александрович": 2,
-      "Против всех": 81
+      "gas:candidate-vibid:1001000136028": 21,
+      "gas:candidate-vibid:325300366913": 30,
+      "gas:candidate-vibid:325300366733": 244,
+      "gas:candidate-vibid:325300366594": 91,
+      "gas:candidate-vibid:1001000217907": 9,
+      "gas:candidate-vibid:1001000113914": 15,
+      "gas:candidate-vibid:325300366821": 4,
+      "gas:candidate-vibid:1001000195053": 2,
+      "special:against-all": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300367288&region=0&sub_region=0&type=429",
@@ -3928,15 +3928,15 @@ export const duma_2003_uik_428_region_25_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеев Вячеслав Вильянович": 15,
-      "Алиев Нурмет Агарагимович": 10,
-      "Горячева Светлана Петровна": 97,
-      "Кривулин Виктор Серафимович": 45,
-      "Кузнецов Юрий Николаевич": 12,
-      "Морозов Николай Александрович": 11,
-      "Самоделок Алексей Григорьевич": 6,
-      "Фокин Сергей Александрович": 2,
-      "Против всех": 48
+      "gas:candidate-vibid:1001000136028": 15,
+      "gas:candidate-vibid:325300366913": 10,
+      "gas:candidate-vibid:325300366733": 97,
+      "gas:candidate-vibid:325300366594": 45,
+      "gas:candidate-vibid:1001000217907": 12,
+      "gas:candidate-vibid:1001000113914": 11,
+      "gas:candidate-vibid:325300366821": 6,
+      "gas:candidate-vibid:1001000195053": 2,
+      "special:against-all": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300367288&region=0&sub_region=0&type=429",
@@ -3986,15 +3986,15 @@ export const duma_2003_uik_428_region_25_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеев Вячеслав Вильянович": 23,
-      "Алиев Нурмет Агарагимович": 100,
-      "Горячева Светлана Петровна": 215,
-      "Кривулин Виктор Серафимович": 85,
-      "Кузнецов Юрий Николаевич": 13,
-      "Морозов Николай Александрович": 10,
-      "Самоделок Алексей Григорьевич": 3,
-      "Фокин Сергей Александрович": 6,
-      "Против всех": 74
+      "gas:candidate-vibid:1001000136028": 23,
+      "gas:candidate-vibid:325300366913": 100,
+      "gas:candidate-vibid:325300366733": 215,
+      "gas:candidate-vibid:325300366594": 85,
+      "gas:candidate-vibid:1001000217907": 13,
+      "gas:candidate-vibid:1001000113914": 10,
+      "gas:candidate-vibid:325300366821": 3,
+      "gas:candidate-vibid:1001000195053": 6,
+      "special:against-all": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300367288&region=0&sub_region=0&type=429",
@@ -4044,15 +4044,15 @@ export const duma_2003_uik_428_region_25_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеев Вячеслав Вильянович": 32,
-      "Алиев Нурмет Агарагимович": 49,
-      "Горячева Светлана Петровна": 222,
-      "Кривулин Виктор Серафимович": 139,
-      "Кузнецов Юрий Николаевич": 15,
-      "Морозов Николай Александрович": 16,
-      "Самоделок Алексей Григорьевич": 8,
-      "Фокин Сергей Александрович": 6,
-      "Против всех": 137
+      "gas:candidate-vibid:1001000136028": 32,
+      "gas:candidate-vibid:325300366913": 49,
+      "gas:candidate-vibid:325300366733": 222,
+      "gas:candidate-vibid:325300366594": 139,
+      "gas:candidate-vibid:1001000217907": 15,
+      "gas:candidate-vibid:1001000113914": 16,
+      "gas:candidate-vibid:325300366821": 8,
+      "gas:candidate-vibid:1001000195053": 6,
+      "special:against-all": 137
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300367288&region=0&sub_region=0&type=429",
@@ -4102,15 +4102,15 @@ export const duma_2003_uik_428_region_25_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеев Вячеслав Вильянович": 7,
-      "Алиев Нурмет Агарагимович": 24,
-      "Горячева Светлана Петровна": 139,
-      "Кривулин Виктор Серафимович": 53,
-      "Кузнецов Юрий Николаевич": 1,
-      "Морозов Николай Александрович": 4,
-      "Самоделок Алексей Григорьевич": 2,
-      "Фокин Сергей Александрович": 4,
-      "Против всех": 26
+      "gas:candidate-vibid:1001000136028": 7,
+      "gas:candidate-vibid:325300366913": 24,
+      "gas:candidate-vibid:325300366733": 139,
+      "gas:candidate-vibid:325300366594": 53,
+      "gas:candidate-vibid:1001000217907": 1,
+      "gas:candidate-vibid:1001000113914": 4,
+      "gas:candidate-vibid:325300366821": 2,
+      "gas:candidate-vibid:1001000195053": 4,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300367288&region=0&sub_region=0&type=429",
@@ -4160,15 +4160,15 @@ export const duma_2003_uik_428_region_25_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеев Вячеслав Вильянович": 49,
-      "Алиев Нурмет Агарагимович": 39,
-      "Горячева Светлана Петровна": 297,
-      "Кривулин Виктор Серафимович": 111,
-      "Кузнецов Юрий Николаевич": 16,
-      "Морозов Николай Александрович": 19,
-      "Самоделок Алексей Григорьевич": 3,
-      "Фокин Сергей Александрович": 5,
-      "Против всех": 118
+      "gas:candidate-vibid:1001000136028": 49,
+      "gas:candidate-vibid:325300366913": 39,
+      "gas:candidate-vibid:325300366733": 297,
+      "gas:candidate-vibid:325300366594": 111,
+      "gas:candidate-vibid:1001000217907": 16,
+      "gas:candidate-vibid:1001000113914": 19,
+      "gas:candidate-vibid:325300366821": 3,
+      "gas:candidate-vibid:1001000195053": 5,
+      "special:against-all": 118
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300367288&region=0&sub_region=0&type=429",
@@ -4218,15 +4218,15 @@ export const duma_2003_uik_428_region_25_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеев Вячеслав Вильянович": 42,
-      "Алиев Нурмет Агарагимович": 32,
-      "Горячева Светлана Петровна": 248,
-      "Кривулин Виктор Серафимович": 168,
-      "Кузнецов Юрий Николаевич": 17,
-      "Морозов Николай Александрович": 15,
-      "Самоделок Алексей Григорьевич": 13,
-      "Фокин Сергей Александрович": 10,
-      "Против всех": 121
+      "gas:candidate-vibid:1001000136028": 42,
+      "gas:candidate-vibid:325300366913": 32,
+      "gas:candidate-vibid:325300366733": 248,
+      "gas:candidate-vibid:325300366594": 168,
+      "gas:candidate-vibid:1001000217907": 17,
+      "gas:candidate-vibid:1001000113914": 15,
+      "gas:candidate-vibid:325300366821": 13,
+      "gas:candidate-vibid:1001000195053": 10,
+      "special:against-all": 121
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300367288&region=0&sub_region=0&type=429",
@@ -4276,15 +4276,15 @@ export const duma_2003_uik_428_region_25_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеев Вячеслав Вильянович": 47,
-      "Алиев Нурмет Агарагимович": 83,
-      "Горячева Светлана Петровна": 359,
-      "Кривулин Виктор Серафимович": 212,
-      "Кузнецов Юрий Николаевич": 29,
-      "Морозов Николай Александрович": 29,
-      "Самоделок Алексей Григорьевич": 4,
-      "Фокин Сергей Александрович": 7,
-      "Против всех": 127
+      "gas:candidate-vibid:1001000136028": 47,
+      "gas:candidate-vibid:325300366913": 83,
+      "gas:candidate-vibid:325300366733": 359,
+      "gas:candidate-vibid:325300366594": 212,
+      "gas:candidate-vibid:1001000217907": 29,
+      "gas:candidate-vibid:1001000113914": 29,
+      "gas:candidate-vibid:325300366821": 4,
+      "gas:candidate-vibid:1001000195053": 7,
+      "special:against-all": 127
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300367288&region=0&sub_region=0&type=429",
@@ -4334,15 +4334,15 @@ export const duma_2003_uik_428_region_25_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеев Вячеслав Вильянович": 119,
-      "Алиев Нурмет Агарагимович": 151,
-      "Горячева Светлана Петровна": 366,
-      "Кривулин Виктор Серафимович": 324,
-      "Кузнецов Юрий Николаевич": 61,
-      "Морозов Николай Александрович": 102,
-      "Самоделок Алексей Григорьевич": 26,
-      "Фокин Сергей Александрович": 43,
-      "Против всех": 384
+      "gas:candidate-vibid:1001000136028": 119,
+      "gas:candidate-vibid:325300366913": 151,
+      "gas:candidate-vibid:325300366733": 366,
+      "gas:candidate-vibid:325300366594": 324,
+      "gas:candidate-vibid:1001000217907": 61,
+      "gas:candidate-vibid:1001000113914": 102,
+      "gas:candidate-vibid:325300366821": 26,
+      "gas:candidate-vibid:1001000195053": 43,
+      "special:against-all": 384
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300367288&region=0&sub_region=0&type=429",
@@ -4392,15 +4392,15 @@ export const duma_2003_uik_428_region_25_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеев Вячеслав Вильянович": 30,
-      "Алиев Нурмет Агарагимович": 36,
-      "Горячева Светлана Петровна": 346,
-      "Кривулин Виктор Серафимович": 81,
-      "Кузнецов Юрий Николаевич": 27,
-      "Морозов Николай Александрович": 26,
-      "Самоделок Алексей Григорьевич": 2,
-      "Фокин Сергей Александрович": 2,
-      "Против всех": 101
+      "gas:candidate-vibid:1001000136028": 30,
+      "gas:candidate-vibid:325300366913": 36,
+      "gas:candidate-vibid:325300366733": 346,
+      "gas:candidate-vibid:325300366594": 81,
+      "gas:candidate-vibid:1001000217907": 27,
+      "gas:candidate-vibid:1001000113914": 26,
+      "gas:candidate-vibid:325300366821": 2,
+      "gas:candidate-vibid:1001000195053": 2,
+      "special:against-all": 101
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300367288&region=0&sub_region=0&type=429",
@@ -4450,15 +4450,15 @@ export const duma_2003_uik_428_region_25_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеев Вячеслав Вильянович": 19,
-      "Алиев Нурмет Агарагимович": 20,
-      "Горячева Светлана Петровна": 299,
-      "Кривулин Виктор Серафимович": 79,
-      "Кузнецов Юрий Николаевич": 10,
-      "Морозов Николай Александрович": 9,
-      "Самоделок Алексей Григорьевич": 1,
-      "Фокин Сергей Александрович": 4,
-      "Против всех": 80
+      "gas:candidate-vibid:1001000136028": 19,
+      "gas:candidate-vibid:325300366913": 20,
+      "gas:candidate-vibid:325300366733": 299,
+      "gas:candidate-vibid:325300366594": 79,
+      "gas:candidate-vibid:1001000217907": 10,
+      "gas:candidate-vibid:1001000113914": 9,
+      "gas:candidate-vibid:325300366821": 1,
+      "gas:candidate-vibid:1001000195053": 4,
+      "special:against-all": 80
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300367288&region=0&sub_region=0&type=429",
@@ -4508,15 +4508,15 @@ export const duma_2003_uik_428_region_25_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеев Вячеслав Вильянович": 75,
-      "Алиев Нурмет Агарагимович": 93,
-      "Горячева Светлана Петровна": 516,
-      "Кривулин Виктор Серафимович": 252,
-      "Кузнецов Юрий Николаевич": 44,
-      "Морозов Николай Александрович": 60,
-      "Самоделок Алексей Григорьевич": 7,
-      "Фокин Сергей Александрович": 4,
-      "Против всех": 198
+      "gas:candidate-vibid:1001000136028": 75,
+      "gas:candidate-vibid:325300366913": 93,
+      "gas:candidate-vibid:325300366733": 516,
+      "gas:candidate-vibid:325300366594": 252,
+      "gas:candidate-vibid:1001000217907": 44,
+      "gas:candidate-vibid:1001000113914": 60,
+      "gas:candidate-vibid:325300366821": 7,
+      "gas:candidate-vibid:1001000195053": 4,
+      "special:against-all": 198
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300367288&region=0&sub_region=0&type=429",
@@ -4566,15 +4566,15 @@ export const duma_2003_uik_428_region_25_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеев Вячеслав Вильянович": 31,
-      "Алиев Нурмет Агарагимович": 44,
-      "Горячева Светлана Петровна": 186,
-      "Кривулин Виктор Серафимович": 94,
-      "Кузнецов Юрий Николаевич": 21,
-      "Морозов Николай Александрович": 6,
-      "Самоделок Алексей Григорьевич": 5,
-      "Фокин Сергей Александрович": 5,
-      "Против всех": 91
+      "gas:candidate-vibid:1001000136028": 31,
+      "gas:candidate-vibid:325300366913": 44,
+      "gas:candidate-vibid:325300366733": 186,
+      "gas:candidate-vibid:325300366594": 94,
+      "gas:candidate-vibid:1001000217907": 21,
+      "gas:candidate-vibid:1001000113914": 6,
+      "gas:candidate-vibid:325300366821": 5,
+      "gas:candidate-vibid:1001000195053": 5,
+      "special:against-all": 91
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300367288&region=0&sub_region=0&type=429",
@@ -4624,15 +4624,15 @@ export const duma_2003_uik_428_region_25_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеев Вячеслав Вильянович": 37,
-      "Алиев Нурмет Агарагимович": 48,
-      "Горячева Светлана Петровна": 184,
-      "Кривулин Виктор Серафимович": 91,
-      "Кузнецов Юрий Николаевич": 20,
-      "Морозов Николай Александрович": 23,
-      "Самоделок Алексей Григорьевич": 5,
-      "Фокин Сергей Александрович": 5,
-      "Против всех": 81
+      "gas:candidate-vibid:1001000136028": 37,
+      "gas:candidate-vibid:325300366913": 48,
+      "gas:candidate-vibid:325300366733": 184,
+      "gas:candidate-vibid:325300366594": 91,
+      "gas:candidate-vibid:1001000217907": 20,
+      "gas:candidate-vibid:1001000113914": 23,
+      "gas:candidate-vibid:325300366821": 5,
+      "gas:candidate-vibid:1001000195053": 5,
+      "special:against-all": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300367288&region=0&sub_region=0&type=429",
@@ -4682,15 +4682,15 @@ export const duma_2003_uik_428_region_25_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеев Вячеслав Вильянович": 54,
-      "Алиев Нурмет Агарагимович": 33,
-      "Горячева Светлана Петровна": 263,
-      "Кривулин Виктор Серафимович": 194,
-      "Кузнецов Юрий Николаевич": 36,
-      "Морозов Николай Александрович": 27,
-      "Самоделок Алексей Григорьевич": 6,
-      "Фокин Сергей Александрович": 8,
-      "Против всех": 170
+      "gas:candidate-vibid:1001000136028": 54,
+      "gas:candidate-vibid:325300366913": 33,
+      "gas:candidate-vibid:325300366733": 263,
+      "gas:candidate-vibid:325300366594": 194,
+      "gas:candidate-vibid:1001000217907": 36,
+      "gas:candidate-vibid:1001000113914": 27,
+      "gas:candidate-vibid:325300366821": 6,
+      "gas:candidate-vibid:1001000195053": 8,
+      "special:against-all": 170
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300367288&region=0&sub_region=0&type=429",
@@ -4740,15 +4740,15 @@ export const duma_2003_uik_428_region_25_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеев Вячеслав Вильянович": 27,
-      "Алиев Нурмет Агарагимович": 17,
-      "Горячева Светлана Петровна": 271,
-      "Кривулин Виктор Серафимович": 135,
-      "Кузнецов Юрий Николаевич": 17,
-      "Морозов Николай Александрович": 21,
-      "Самоделок Алексей Григорьевич": 4,
-      "Фокин Сергей Александрович": 5,
-      "Против всех": 73
+      "gas:candidate-vibid:1001000136028": 27,
+      "gas:candidate-vibid:325300366913": 17,
+      "gas:candidate-vibid:325300366733": 271,
+      "gas:candidate-vibid:325300366594": 135,
+      "gas:candidate-vibid:1001000217907": 17,
+      "gas:candidate-vibid:1001000113914": 21,
+      "gas:candidate-vibid:325300366821": 4,
+      "gas:candidate-vibid:1001000195053": 5,
+      "special:against-all": 73
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300367288&region=0&sub_region=0&type=429",
@@ -4798,15 +4798,15 @@ export const duma_2003_uik_428_region_25_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеев Вячеслав Вильянович": 80,
-      "Алиев Нурмет Агарагимович": 138,
-      "Горячева Светлана Петровна": 446,
-      "Кривулин Виктор Серафимович": 327,
-      "Кузнецов Юрий Николаевич": 50,
-      "Морозов Николай Александрович": 83,
-      "Самоделок Алексей Григорьевич": 14,
-      "Фокин Сергей Александрович": 34,
-      "Против всех": 375
+      "gas:candidate-vibid:1001000136028": 80,
+      "gas:candidate-vibid:325300366913": 138,
+      "gas:candidate-vibid:325300366733": 446,
+      "gas:candidate-vibid:325300366594": 327,
+      "gas:candidate-vibid:1001000217907": 50,
+      "gas:candidate-vibid:1001000113914": 83,
+      "gas:candidate-vibid:325300366821": 14,
+      "gas:candidate-vibid:1001000195053": 34,
+      "special:against-all": 375
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300367288&region=0&sub_region=0&type=429",
@@ -4856,15 +4856,15 @@ export const duma_2003_uik_428_region_25_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеев Вячеслав Вильянович": 29,
-      "Алиев Нурмет Агарагимович": 43,
-      "Горячева Светлана Петровна": 117,
-      "Кривулин Виктор Серафимович": 83,
-      "Кузнецов Юрий Николаевич": 8,
-      "Морозов Николай Александрович": 29,
-      "Самоделок Алексей Григорьевич": 11,
-      "Фокин Сергей Александрович": 8,
-      "Против всех": 135
+      "gas:candidate-vibid:1001000136028": 29,
+      "gas:candidate-vibid:325300366913": 43,
+      "gas:candidate-vibid:325300366733": 117,
+      "gas:candidate-vibid:325300366594": 83,
+      "gas:candidate-vibid:1001000217907": 8,
+      "gas:candidate-vibid:1001000113914": 29,
+      "gas:candidate-vibid:325300366821": 11,
+      "gas:candidate-vibid:1001000195053": 8,
+      "special:against-all": 135
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300367288&region=0&sub_region=0&type=429",
@@ -4914,15 +4914,15 @@ export const duma_2003_uik_428_region_25_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеев Вячеслав Вильянович": 34,
-      "Алиев Нурмет Агарагимович": 68,
-      "Горячева Светлана Петровна": 466,
-      "Кривулин Виктор Серафимович": 168,
-      "Кузнецов Юрий Николаевич": 29,
-      "Морозов Николай Александрович": 41,
-      "Самоделок Алексей Григорьевич": 15,
-      "Фокин Сергей Александрович": 5,
-      "Против всех": 156
+      "gas:candidate-vibid:1001000136028": 34,
+      "gas:candidate-vibid:325300366913": 68,
+      "gas:candidate-vibid:325300366733": 466,
+      "gas:candidate-vibid:325300366594": 168,
+      "gas:candidate-vibid:1001000217907": 29,
+      "gas:candidate-vibid:1001000113914": 41,
+      "gas:candidate-vibid:325300366821": 15,
+      "gas:candidate-vibid:1001000195053": 5,
+      "special:against-all": 156
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300367288&region=0&sub_region=0&type=429",
@@ -4972,15 +4972,15 @@ export const duma_2003_uik_428_region_25_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеев Вячеслав Вильянович": 28,
-      "Алиев Нурмет Агарагимович": 68,
-      "Горячева Светлана Петровна": 205,
-      "Кривулин Виктор Серафимович": 65,
-      "Кузнецов Юрий Николаевич": 22,
-      "Морозов Николай Александрович": 14,
-      "Самоделок Алексей Григорьевич": 2,
-      "Фокин Сергей Александрович": 4,
-      "Против всех": 69
+      "gas:candidate-vibid:1001000136028": 28,
+      "gas:candidate-vibid:325300366913": 68,
+      "gas:candidate-vibid:325300366733": 205,
+      "gas:candidate-vibid:325300366594": 65,
+      "gas:candidate-vibid:1001000217907": 22,
+      "gas:candidate-vibid:1001000113914": 14,
+      "gas:candidate-vibid:325300366821": 2,
+      "gas:candidate-vibid:1001000195053": 4,
+      "special:against-all": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300367288&region=0&sub_region=0&type=429",
@@ -5030,15 +5030,15 @@ export const duma_2003_uik_428_region_25_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеев Вячеслав Вильянович": 34,
-      "Алиев Нурмет Агарагимович": 41,
-      "Горячева Светлана Петровна": 338,
-      "Кривулин Виктор Серафимович": 109,
-      "Кузнецов Юрий Николаевич": 22,
-      "Морозов Николай Александрович": 14,
-      "Самоделок Алексей Григорьевич": 1,
-      "Фокин Сергей Александрович": 3,
-      "Против всех": 94
+      "gas:candidate-vibid:1001000136028": 34,
+      "gas:candidate-vibid:325300366913": 41,
+      "gas:candidate-vibid:325300366733": 338,
+      "gas:candidate-vibid:325300366594": 109,
+      "gas:candidate-vibid:1001000217907": 22,
+      "gas:candidate-vibid:1001000113914": 14,
+      "gas:candidate-vibid:325300366821": 1,
+      "gas:candidate-vibid:1001000195053": 3,
+      "special:against-all": 94
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300367288&region=0&sub_region=0&type=429",
@@ -5088,15 +5088,15 @@ export const duma_2003_uik_428_region_25_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеев Вячеслав Вильянович": 4,
-      "Алиев Нурмет Агарагимович": 8,
-      "Горячева Светлана Петровна": 65,
-      "Кривулин Виктор Серафимович": 23,
-      "Кузнецов Юрий Николаевич": 3,
-      "Морозов Николай Александрович": 4,
-      "Самоделок Алексей Григорьевич": 0,
-      "Фокин Сергей Александрович": 1,
-      "Против всех": 47
+      "gas:candidate-vibid:1001000136028": 4,
+      "gas:candidate-vibid:325300366913": 8,
+      "gas:candidate-vibid:325300366733": 65,
+      "gas:candidate-vibid:325300366594": 23,
+      "gas:candidate-vibid:1001000217907": 3,
+      "gas:candidate-vibid:1001000113914": 4,
+      "gas:candidate-vibid:325300366821": 0,
+      "gas:candidate-vibid:1001000195053": 1,
+      "special:against-all": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300367288&region=0&sub_region=0&type=429",
@@ -5146,15 +5146,15 @@ export const duma_2003_uik_428_region_25_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеев Вячеслав Вильянович": 7,
-      "Алиев Нурмет Агарагимович": 2,
-      "Горячева Светлана Петровна": 18,
-      "Кривулин Виктор Серафимович": 12,
-      "Кузнецов Юрий Николаевич": 3,
-      "Морозов Николай Александрович": 3,
-      "Самоделок Алексей Григорьевич": 2,
-      "Фокин Сергей Александрович": 0,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000136028": 7,
+      "gas:candidate-vibid:325300366913": 2,
+      "gas:candidate-vibid:325300366733": 18,
+      "gas:candidate-vibid:325300366594": 12,
+      "gas:candidate-vibid:1001000217907": 3,
+      "gas:candidate-vibid:1001000113914": 3,
+      "gas:candidate-vibid:325300366821": 2,
+      "gas:candidate-vibid:1001000195053": 0,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300367288&region=0&sub_region=0&type=429",
@@ -5204,15 +5204,15 @@ export const duma_2003_uik_428_region_25_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеев Вячеслав Вильянович": 0,
-      "Алиев Нурмет Агарагимович": 1,
-      "Горячева Светлана Петровна": 5,
-      "Кривулин Виктор Серафимович": 3,
-      "Кузнецов Юрий Николаевич": 0,
-      "Морозов Николай Александрович": 0,
-      "Самоделок Алексей Григорьевич": 0,
-      "Фокин Сергей Александрович": 1,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000136028": 0,
+      "gas:candidate-vibid:325300366913": 1,
+      "gas:candidate-vibid:325300366733": 5,
+      "gas:candidate-vibid:325300366594": 3,
+      "gas:candidate-vibid:1001000217907": 0,
+      "gas:candidate-vibid:1001000113914": 0,
+      "gas:candidate-vibid:325300366821": 0,
+      "gas:candidate-vibid:1001000195053": 1,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300367288&region=0&sub_region=0&type=429",
@@ -5262,15 +5262,15 @@ export const duma_2003_uik_428_region_25_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеев Вячеслав Вильянович": 13,
-      "Алиев Нурмет Агарагимович": 10,
-      "Горячева Светлана Петровна": 21,
-      "Кривулин Виктор Серафимович": 136,
-      "Кузнецов Юрий Николаевич": 6,
-      "Морозов Николай Александрович": 6,
-      "Самоделок Алексей Григорьевич": 2,
-      "Фокин Сергей Александрович": 0,
-      "Против всех": 70
+      "gas:candidate-vibid:1001000136028": 13,
+      "gas:candidate-vibid:325300366913": 10,
+      "gas:candidate-vibid:325300366733": 21,
+      "gas:candidate-vibid:325300366594": 136,
+      "gas:candidate-vibid:1001000217907": 6,
+      "gas:candidate-vibid:1001000113914": 6,
+      "gas:candidate-vibid:325300366821": 2,
+      "gas:candidate-vibid:1001000195053": 0,
+      "special:against-all": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300367288&region=0&sub_region=0&type=429",
@@ -5320,15 +5320,15 @@ export const duma_2003_uik_428_region_25_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеев Вячеслав Вильянович": 7,
-      "Алиев Нурмет Агарагимович": 73,
-      "Горячева Светлана Петровна": 92,
-      "Кривулин Виктор Серафимович": 57,
-      "Кузнецов Юрий Николаевич": 14,
-      "Морозов Николай Александрович": 5,
-      "Самоделок Алексей Григорьевич": 2,
-      "Фокин Сергей Александрович": 2,
-      "Против всех": 29
+      "gas:candidate-vibid:1001000136028": 7,
+      "gas:candidate-vibid:325300366913": 73,
+      "gas:candidate-vibid:325300366733": 92,
+      "gas:candidate-vibid:325300366594": 57,
+      "gas:candidate-vibid:1001000217907": 14,
+      "gas:candidate-vibid:1001000113914": 5,
+      "gas:candidate-vibid:325300366821": 2,
+      "gas:candidate-vibid:1001000195053": 2,
+      "special:against-all": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300367288&region=0&sub_region=0&type=429",
@@ -5378,15 +5378,15 @@ export const duma_2003_uik_428_region_25_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеев Вячеслав Вильянович": 9,
-      "Алиев Нурмет Агарагимович": 21,
-      "Горячева Светлана Петровна": 19,
-      "Кривулин Виктор Серафимович": 15,
-      "Кузнецов Юрий Николаевич": 2,
-      "Морозов Николай Александрович": 2,
-      "Самоделок Алексей Григорьевич": 4,
-      "Фокин Сергей Александрович": 1,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000136028": 9,
+      "gas:candidate-vibid:325300366913": 21,
+      "gas:candidate-vibid:325300366733": 19,
+      "gas:candidate-vibid:325300366594": 15,
+      "gas:candidate-vibid:1001000217907": 2,
+      "gas:candidate-vibid:1001000113914": 2,
+      "gas:candidate-vibid:325300366821": 4,
+      "gas:candidate-vibid:1001000195053": 1,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300367288&region=0&sub_region=0&type=429",
@@ -5436,15 +5436,15 @@ export const duma_2003_uik_428_region_25_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеев Вячеслав Вильянович": 15,
-      "Алиев Нурмет Агарагимович": 33,
-      "Горячева Светлана Петровна": 23,
-      "Кривулин Виктор Серафимович": 37,
-      "Кузнецов Юрий Николаевич": 8,
-      "Морозов Николай Александрович": 13,
-      "Самоделок Алексей Григорьевич": 3,
-      "Фокин Сергей Александрович": 8,
-      "Против всех": 76
+      "gas:candidate-vibid:1001000136028": 15,
+      "gas:candidate-vibid:325300366913": 33,
+      "gas:candidate-vibid:325300366733": 23,
+      "gas:candidate-vibid:325300366594": 37,
+      "gas:candidate-vibid:1001000217907": 8,
+      "gas:candidate-vibid:1001000113914": 13,
+      "gas:candidate-vibid:325300366821": 3,
+      "gas:candidate-vibid:1001000195053": 8,
+      "special:against-all": 76
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300367288&region=0&sub_region=0&type=429",
@@ -5494,15 +5494,15 @@ export const duma_2003_uik_428_region_25_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеев Вячеслав Вильянович": 6,
-      "Алиев Нурмет Агарагимович": 13,
-      "Горячева Светлана Петровна": 172,
-      "Кривулин Виктор Серафимович": 27,
-      "Кузнецов Юрий Николаевич": 15,
-      "Морозов Николай Александрович": 4,
-      "Самоделок Алексей Григорьевич": 1,
-      "Фокин Сергей Александрович": 2,
-      "Против всех": 24
+      "gas:candidate-vibid:1001000136028": 6,
+      "gas:candidate-vibid:325300366913": 13,
+      "gas:candidate-vibid:325300366733": 172,
+      "gas:candidate-vibid:325300366594": 27,
+      "gas:candidate-vibid:1001000217907": 15,
+      "gas:candidate-vibid:1001000113914": 4,
+      "gas:candidate-vibid:325300366821": 1,
+      "gas:candidate-vibid:1001000195053": 2,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300367288&region=0&sub_region=0&type=429",
@@ -5552,15 +5552,15 @@ export const duma_2003_uik_428_region_25_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеев Вячеслав Вильянович": 7,
-      "Алиев Нурмет Агарагимович": 7,
-      "Горячева Светлана Петровна": 61,
-      "Кривулин Виктор Серафимович": 33,
-      "Кузнецов Юрий Николаевич": 6,
-      "Морозов Николай Александрович": 4,
-      "Самоделок Алексей Григорьевич": 0,
-      "Фокин Сергей Александрович": 0,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000136028": 7,
+      "gas:candidate-vibid:325300366913": 7,
+      "gas:candidate-vibid:325300366733": 61,
+      "gas:candidate-vibid:325300366594": 33,
+      "gas:candidate-vibid:1001000217907": 6,
+      "gas:candidate-vibid:1001000113914": 4,
+      "gas:candidate-vibid:325300366821": 0,
+      "gas:candidate-vibid:1001000195053": 0,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300367288&region=0&sub_region=0&type=429",
@@ -5610,15 +5610,15 @@ export const duma_2003_uik_428_region_25_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеев Вячеслав Вильянович": 6,
-      "Алиев Нурмет Агарагимович": 24,
-      "Горячева Светлана Петровна": 78,
-      "Кривулин Виктор Серафимович": 26,
-      "Кузнецов Юрий Николаевич": 6,
-      "Морозов Николай Александрович": 0,
-      "Самоделок Алексей Григорьевич": 0,
-      "Фокин Сергей Александрович": 0,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000136028": 6,
+      "gas:candidate-vibid:325300366913": 24,
+      "gas:candidate-vibid:325300366733": 78,
+      "gas:candidate-vibid:325300366594": 26,
+      "gas:candidate-vibid:1001000217907": 6,
+      "gas:candidate-vibid:1001000113914": 0,
+      "gas:candidate-vibid:325300366821": 0,
+      "gas:candidate-vibid:1001000195053": 0,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300367288&region=0&sub_region=0&type=429",
@@ -5668,15 +5668,15 @@ export const duma_2003_uik_428_region_25_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеев Вячеслав Вильянович": 1,
-      "Алиев Нурмет Агарагимович": 17,
-      "Горячева Светлана Петровна": 28,
-      "Кривулин Виктор Серафимович": 15,
-      "Кузнецов Юрий Николаевич": 0,
-      "Морозов Николай Александрович": 5,
-      "Самоделок Алексей Григорьевич": 0,
-      "Фокин Сергей Александрович": 0,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000136028": 1,
+      "gas:candidate-vibid:325300366913": 17,
+      "gas:candidate-vibid:325300366733": 28,
+      "gas:candidate-vibid:325300366594": 15,
+      "gas:candidate-vibid:1001000217907": 0,
+      "gas:candidate-vibid:1001000113914": 5,
+      "gas:candidate-vibid:325300366821": 0,
+      "gas:candidate-vibid:1001000195053": 0,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300367288&region=0&sub_region=0&type=429",
@@ -5726,15 +5726,15 @@ export const duma_2003_uik_428_region_25_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеев Вячеслав Вильянович": 23,
-      "Алиев Нурмет Агарагимович": 46,
-      "Горячева Светлана Петровна": 200,
-      "Кривулин Виктор Серафимович": 126,
-      "Кузнецов Юрий Николаевич": 22,
-      "Морозов Николай Александрович": 26,
-      "Самоделок Алексей Григорьевич": 4,
-      "Фокин Сергей Александрович": 16,
-      "Против всех": 109
+      "gas:candidate-vibid:1001000136028": 23,
+      "gas:candidate-vibid:325300366913": 46,
+      "gas:candidate-vibid:325300366733": 200,
+      "gas:candidate-vibid:325300366594": 126,
+      "gas:candidate-vibid:1001000217907": 22,
+      "gas:candidate-vibid:1001000113914": 26,
+      "gas:candidate-vibid:325300366821": 4,
+      "gas:candidate-vibid:1001000195053": 16,
+      "special:against-all": 109
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300367288&region=0&sub_region=0&type=429",
@@ -5784,15 +5784,15 @@ export const duma_2003_uik_428_region_25_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеев Вячеслав Вильянович": 4,
-      "Алиев Нурмет Агарагимович": 14,
-      "Горячева Светлана Петровна": 124,
-      "Кривулин Виктор Серафимович": 33,
-      "Кузнецов Юрий Николаевич": 7,
-      "Морозов Николай Александрович": 15,
-      "Самоделок Алексей Григорьевич": 0,
-      "Фокин Сергей Александрович": 3,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000136028": 4,
+      "gas:candidate-vibid:325300366913": 14,
+      "gas:candidate-vibid:325300366733": 124,
+      "gas:candidate-vibid:325300366594": 33,
+      "gas:candidate-vibid:1001000217907": 7,
+      "gas:candidate-vibid:1001000113914": 15,
+      "gas:candidate-vibid:325300366821": 0,
+      "gas:candidate-vibid:1001000195053": 3,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300367288&region=0&sub_region=0&type=429",
@@ -5842,15 +5842,15 @@ export const duma_2003_uik_428_region_25_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеев Вячеслав Вильянович": 1,
-      "Алиев Нурмет Агарагимович": 13,
-      "Горячева Светлана Петровна": 40,
-      "Кривулин Виктор Серафимович": 37,
-      "Кузнецов Юрий Николаевич": 3,
-      "Морозов Николай Александрович": 5,
-      "Самоделок Алексей Григорьевич": 1,
-      "Фокин Сергей Александрович": 0,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000136028": 1,
+      "gas:candidate-vibid:325300366913": 13,
+      "gas:candidate-vibid:325300366733": 40,
+      "gas:candidate-vibid:325300366594": 37,
+      "gas:candidate-vibid:1001000217907": 3,
+      "gas:candidate-vibid:1001000113914": 5,
+      "gas:candidate-vibid:325300366821": 1,
+      "gas:candidate-vibid:1001000195053": 0,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300367288&region=0&sub_region=0&type=429",
@@ -5900,15 +5900,15 @@ export const duma_2003_uik_428_region_25_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеев Вячеслав Вильянович": 23,
-      "Алиев Нурмет Агарагимович": 31,
-      "Горячева Светлана Петровна": 294,
-      "Кривулин Виктор Серафимович": 179,
-      "Кузнецов Юрий Николаевич": 16,
-      "Морозов Николай Александрович": 24,
-      "Самоделок Алексей Григорьевич": 7,
-      "Фокин Сергей Александрович": 6,
-      "Против всех": 109
+      "gas:candidate-vibid:1001000136028": 23,
+      "gas:candidate-vibid:325300366913": 31,
+      "gas:candidate-vibid:325300366733": 294,
+      "gas:candidate-vibid:325300366594": 179,
+      "gas:candidate-vibid:1001000217907": 16,
+      "gas:candidate-vibid:1001000113914": 24,
+      "gas:candidate-vibid:325300366821": 7,
+      "gas:candidate-vibid:1001000195053": 6,
+      "special:against-all": 109
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300367288&region=0&sub_region=0&type=429",
@@ -5958,15 +5958,15 @@ export const duma_2003_uik_428_region_25_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеев Вячеслав Вильянович": 62,
-      "Алиев Нурмет Агарагимович": 110,
-      "Горячева Светлана Петровна": 594,
-      "Кривулин Виктор Серафимович": 208,
-      "Кузнецов Юрий Николаевич": 40,
-      "Морозов Николай Александрович": 50,
-      "Самоделок Алексей Григорьевич": 13,
-      "Фокин Сергей Александрович": 11,
-      "Против всех": 245
+      "gas:candidate-vibid:1001000136028": 62,
+      "gas:candidate-vibid:325300366913": 110,
+      "gas:candidate-vibid:325300366733": 594,
+      "gas:candidate-vibid:325300366594": 208,
+      "gas:candidate-vibid:1001000217907": 40,
+      "gas:candidate-vibid:1001000113914": 50,
+      "gas:candidate-vibid:325300366821": 13,
+      "gas:candidate-vibid:1001000195053": 11,
+      "special:against-all": 245
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300367288&region=0&sub_region=0&type=429",
@@ -6016,15 +6016,15 @@ export const duma_2003_uik_428_region_25_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеев Вячеслав Вильянович": 18,
-      "Алиев Нурмет Агарагимович": 20,
-      "Горячева Светлана Петровна": 141,
-      "Кривулин Виктор Серафимович": 61,
-      "Кузнецов Юрий Николаевич": 12,
-      "Морозов Николай Александрович": 3,
-      "Самоделок Алексей Григорьевич": 1,
-      "Фокин Сергей Александрович": 2,
-      "Против всех": 54
+      "gas:candidate-vibid:1001000136028": 18,
+      "gas:candidate-vibid:325300366913": 20,
+      "gas:candidate-vibid:325300366733": 141,
+      "gas:candidate-vibid:325300366594": 61,
+      "gas:candidate-vibid:1001000217907": 12,
+      "gas:candidate-vibid:1001000113914": 3,
+      "gas:candidate-vibid:325300366821": 1,
+      "gas:candidate-vibid:1001000195053": 2,
+      "special:against-all": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300367288&region=0&sub_region=0&type=429",
@@ -6074,15 +6074,15 @@ export const duma_2003_uik_428_region_25_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеев Вячеслав Вильянович": 28,
-      "Алиев Нурмет Агарагимович": 16,
-      "Горячева Светлана Петровна": 397,
-      "Кривулин Виктор Серафимович": 67,
-      "Кузнецов Юрий Николаевич": 31,
-      "Морозов Николай Александрович": 16,
-      "Самоделок Алексей Григорьевич": 3,
-      "Фокин Сергей Александрович": 1,
-      "Против всех": 138
+      "gas:candidate-vibid:1001000136028": 28,
+      "gas:candidate-vibid:325300366913": 16,
+      "gas:candidate-vibid:325300366733": 397,
+      "gas:candidate-vibid:325300366594": 67,
+      "gas:candidate-vibid:1001000217907": 31,
+      "gas:candidate-vibid:1001000113914": 16,
+      "gas:candidate-vibid:325300366821": 3,
+      "gas:candidate-vibid:1001000195053": 1,
+      "special:against-all": 138
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300367288&region=0&sub_region=0&type=429",
@@ -6132,15 +6132,15 @@ export const duma_2003_uik_428_region_25_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеев Вячеслав Вильянович": 36,
-      "Алиев Нурмет Агарагимович": 36,
-      "Горячева Светлана Петровна": 362,
-      "Кривулин Виктор Серафимович": 164,
-      "Кузнецов Юрий Николаевич": 22,
-      "Морозов Николай Александрович": 11,
-      "Самоделок Алексей Григорьевич": 5,
-      "Фокин Сергей Александрович": 2,
-      "Против всех": 116
+      "gas:candidate-vibid:1001000136028": 36,
+      "gas:candidate-vibid:325300366913": 36,
+      "gas:candidate-vibid:325300366733": 362,
+      "gas:candidate-vibid:325300366594": 164,
+      "gas:candidate-vibid:1001000217907": 22,
+      "gas:candidate-vibid:1001000113914": 11,
+      "gas:candidate-vibid:325300366821": 5,
+      "gas:candidate-vibid:1001000195053": 2,
+      "special:against-all": 116
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300367288&region=0&sub_region=0&type=429",
@@ -6190,15 +6190,15 @@ export const duma_2003_uik_428_region_25_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеев Вячеслав Вильянович": 35,
-      "Алиев Нурмет Агарагимович": 22,
-      "Горячева Светлана Петровна": 216,
-      "Кривулин Виктор Серафимович": 91,
-      "Кузнецов Юрий Николаевич": 15,
-      "Морозов Николай Александрович": 10,
-      "Самоделок Алексей Григорьевич": 6,
-      "Фокин Сергей Александрович": 2,
-      "Против всех": 67
+      "gas:candidate-vibid:1001000136028": 35,
+      "gas:candidate-vibid:325300366913": 22,
+      "gas:candidate-vibid:325300366733": 216,
+      "gas:candidate-vibid:325300366594": 91,
+      "gas:candidate-vibid:1001000217907": 15,
+      "gas:candidate-vibid:1001000113914": 10,
+      "gas:candidate-vibid:325300366821": 6,
+      "gas:candidate-vibid:1001000195053": 2,
+      "special:against-all": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300367288&region=0&sub_region=0&type=429",
@@ -6248,15 +6248,15 @@ export const duma_2003_uik_428_region_25_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеев Вячеслав Вильянович": 8,
-      "Алиев Нурмет Агарагимович": 4,
-      "Горячева Светлана Петровна": 52,
-      "Кривулин Виктор Серафимович": 13,
-      "Кузнецов Юрий Николаевич": 1,
-      "Морозов Николай Александрович": 1,
-      "Самоделок Алексей Григорьевич": 0,
-      "Фокин Сергей Александрович": 0,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000136028": 8,
+      "gas:candidate-vibid:325300366913": 4,
+      "gas:candidate-vibid:325300366733": 52,
+      "gas:candidate-vibid:325300366594": 13,
+      "gas:candidate-vibid:1001000217907": 1,
+      "gas:candidate-vibid:1001000113914": 1,
+      "gas:candidate-vibid:325300366821": 0,
+      "gas:candidate-vibid:1001000195053": 0,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300367288&region=0&sub_region=0&type=429",
@@ -6306,15 +6306,15 @@ export const duma_2003_uik_428_region_25_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеев Вячеслав Вильянович": 3,
-      "Алиев Нурмет Агарагимович": 3,
-      "Горячева Светлана Петровна": 41,
-      "Кривулин Виктор Серафимович": 8,
-      "Кузнецов Юрий Николаевич": 1,
-      "Морозов Николай Александрович": 4,
-      "Самоделок Алексей Григорьевич": 1,
-      "Фокин Сергей Александрович": 1,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000136028": 3,
+      "gas:candidate-vibid:325300366913": 3,
+      "gas:candidate-vibid:325300366733": 41,
+      "gas:candidate-vibid:325300366594": 8,
+      "gas:candidate-vibid:1001000217907": 1,
+      "gas:candidate-vibid:1001000113914": 4,
+      "gas:candidate-vibid:325300366821": 1,
+      "gas:candidate-vibid:1001000195053": 1,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300367288&region=0&sub_region=0&type=429",
@@ -6364,15 +6364,15 @@ export const duma_2003_uik_428_region_25_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеев Вячеслав Вильянович": 3,
-      "Алиев Нурмет Агарагимович": 13,
-      "Горячева Светлана Петровна": 72,
-      "Кривулин Виктор Серафимович": 34,
-      "Кузнецов Юрий Николаевич": 0,
-      "Морозов Николай Александрович": 14,
-      "Самоделок Алексей Григорьевич": 0,
-      "Фокин Сергей Александрович": 3,
-      "Против всех": 24
+      "gas:candidate-vibid:1001000136028": 3,
+      "gas:candidate-vibid:325300366913": 13,
+      "gas:candidate-vibid:325300366733": 72,
+      "gas:candidate-vibid:325300366594": 34,
+      "gas:candidate-vibid:1001000217907": 0,
+      "gas:candidate-vibid:1001000113914": 14,
+      "gas:candidate-vibid:325300366821": 0,
+      "gas:candidate-vibid:1001000195053": 3,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300367288&region=0&sub_region=0&type=429",
@@ -6422,15 +6422,15 @@ export const duma_2003_uik_428_region_25_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеев Вячеслав Вильянович": 7,
-      "Алиев Нурмет Агарагимович": 24,
-      "Горячева Светлана Петровна": 73,
-      "Кривулин Виктор Серафимович": 36,
-      "Кузнецов Юрий Николаевич": 3,
-      "Морозов Николай Александрович": 10,
-      "Самоделок Алексей Григорьевич": 2,
-      "Фокин Сергей Александрович": 0,
-      "Против всех": 26
+      "gas:candidate-vibid:1001000136028": 7,
+      "gas:candidate-vibid:325300366913": 24,
+      "gas:candidate-vibid:325300366733": 73,
+      "gas:candidate-vibid:325300366594": 36,
+      "gas:candidate-vibid:1001000217907": 3,
+      "gas:candidate-vibid:1001000113914": 10,
+      "gas:candidate-vibid:325300366821": 2,
+      "gas:candidate-vibid:1001000195053": 0,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300367288&region=0&sub_region=0&type=429",
@@ -6480,15 +6480,15 @@ export const duma_2003_uik_428_region_25_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеев Вячеслав Вильянович": 0,
-      "Алиев Нурмет Агарагимович": 5,
-      "Горячева Светлана Петровна": 17,
-      "Кривулин Виктор Серафимович": 16,
-      "Кузнецов Юрий Николаевич": 0,
-      "Морозов Николай Александрович": 4,
-      "Самоделок Алексей Григорьевич": 1,
-      "Фокин Сергей Александрович": 0,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000136028": 0,
+      "gas:candidate-vibid:325300366913": 5,
+      "gas:candidate-vibid:325300366733": 17,
+      "gas:candidate-vibid:325300366594": 16,
+      "gas:candidate-vibid:1001000217907": 0,
+      "gas:candidate-vibid:1001000113914": 4,
+      "gas:candidate-vibid:325300366821": 1,
+      "gas:candidate-vibid:1001000195053": 0,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300367288&region=0&sub_region=0&type=429",
@@ -6538,15 +6538,15 @@ export const duma_2003_uik_428_region_25_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеев Вячеслав Вильянович": 16,
-      "Алиев Нурмет Агарагимович": 6,
-      "Горячева Светлана Петровна": 48,
-      "Кривулин Виктор Серафимович": 41,
-      "Кузнецов Юрий Николаевич": 5,
-      "Морозов Николай Александрович": 4,
-      "Самоделок Алексей Григорьевич": 10,
-      "Фокин Сергей Александрович": 3,
-      "Против всех": 32
+      "gas:candidate-vibid:1001000136028": 16,
+      "gas:candidate-vibid:325300366913": 6,
+      "gas:candidate-vibid:325300366733": 48,
+      "gas:candidate-vibid:325300366594": 41,
+      "gas:candidate-vibid:1001000217907": 5,
+      "gas:candidate-vibid:1001000113914": 4,
+      "gas:candidate-vibid:325300366821": 10,
+      "gas:candidate-vibid:1001000195053": 3,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300367288&region=0&sub_region=0&type=429",
@@ -6596,15 +6596,15 @@ export const duma_2003_uik_428_region_25_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеев Вячеслав Вильянович": 4,
-      "Алиев Нурмет Агарагимович": 2,
-      "Горячева Светлана Петровна": 50,
-      "Кривулин Виктор Серафимович": 11,
-      "Кузнецов Юрий Николаевич": 7,
-      "Морозов Николай Александрович": 6,
-      "Самоделок Алексей Григорьевич": 1,
-      "Фокин Сергей Александрович": 4,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000136028": 4,
+      "gas:candidate-vibid:325300366913": 2,
+      "gas:candidate-vibid:325300366733": 50,
+      "gas:candidate-vibid:325300366594": 11,
+      "gas:candidate-vibid:1001000217907": 7,
+      "gas:candidate-vibid:1001000113914": 6,
+      "gas:candidate-vibid:325300366821": 1,
+      "gas:candidate-vibid:1001000195053": 4,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300367288&region=0&sub_region=0&type=429",
@@ -6654,15 +6654,15 @@ export const duma_2003_uik_428_region_25_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеев Вячеслав Вильянович": 0,
-      "Алиев Нурмет Агарагимович": 7,
-      "Горячева Светлана Петровна": 49,
-      "Кривулин Виктор Серафимович": 5,
-      "Кузнецов Юрий Николаевич": 1,
-      "Морозов Николай Александрович": 2,
-      "Самоделок Алексей Григорьевич": 0,
-      "Фокин Сергей Александрович": 1,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000136028": 0,
+      "gas:candidate-vibid:325300366913": 7,
+      "gas:candidate-vibid:325300366733": 49,
+      "gas:candidate-vibid:325300366594": 5,
+      "gas:candidate-vibid:1001000217907": 1,
+      "gas:candidate-vibid:1001000113914": 2,
+      "gas:candidate-vibid:325300366821": 0,
+      "gas:candidate-vibid:1001000195053": 1,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300367288&region=0&sub_region=0&type=429",
@@ -6712,15 +6712,15 @@ export const duma_2003_uik_428_region_25_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеев Вячеслав Вильянович": 12,
-      "Алиев Нурмет Агарагимович": 8,
-      "Горячева Светлана Петровна": 37,
-      "Кривулин Виктор Серафимович": 28,
-      "Кузнецов Юрий Николаевич": 4,
-      "Морозов Николай Александрович": 7,
-      "Самоделок Алексей Григорьевич": 5,
-      "Фокин Сергей Александрович": 1,
-      "Против всех": 46
+      "gas:candidate-vibid:1001000136028": 12,
+      "gas:candidate-vibid:325300366913": 8,
+      "gas:candidate-vibid:325300366733": 37,
+      "gas:candidate-vibid:325300366594": 28,
+      "gas:candidate-vibid:1001000217907": 4,
+      "gas:candidate-vibid:1001000113914": 7,
+      "gas:candidate-vibid:325300366821": 5,
+      "gas:candidate-vibid:1001000195053": 1,
+      "special:against-all": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300367288&region=0&sub_region=0&type=429",
@@ -6770,15 +6770,15 @@ export const duma_2003_uik_428_region_25_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеев Вячеслав Вильянович": 17,
-      "Алиев Нурмет Агарагимович": 30,
-      "Горячева Светлана Петровна": 136,
-      "Кривулин Виктор Серафимович": 56,
-      "Кузнецов Юрий Николаевич": 4,
-      "Морозов Николай Александрович": 6,
-      "Самоделок Алексей Григорьевич": 3,
-      "Фокин Сергей Александрович": 0,
-      "Против всех": 36
+      "gas:candidate-vibid:1001000136028": 17,
+      "gas:candidate-vibid:325300366913": 30,
+      "gas:candidate-vibid:325300366733": 136,
+      "gas:candidate-vibid:325300366594": 56,
+      "gas:candidate-vibid:1001000217907": 4,
+      "gas:candidate-vibid:1001000113914": 6,
+      "gas:candidate-vibid:325300366821": 3,
+      "gas:candidate-vibid:1001000195053": 0,
+      "special:against-all": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300367288&region=0&sub_region=0&type=429",
@@ -6828,15 +6828,15 @@ export const duma_2003_uik_428_region_25_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеев Вячеслав Вильянович": 64,
-      "Алиев Нурмет Агарагимович": 46,
-      "Горячева Светлана Петровна": 146,
-      "Кривулин Виктор Серафимович": 53,
-      "Кузнецов Юрий Николаевич": 19,
-      "Морозов Николай Александрович": 37,
-      "Самоделок Алексей Григорьевич": 9,
-      "Фокин Сергей Александрович": 14,
-      "Против всех": 26
+      "gas:candidate-vibid:1001000136028": 64,
+      "gas:candidate-vibid:325300366913": 46,
+      "gas:candidate-vibid:325300366733": 146,
+      "gas:candidate-vibid:325300366594": 53,
+      "gas:candidate-vibid:1001000217907": 19,
+      "gas:candidate-vibid:1001000113914": 37,
+      "gas:candidate-vibid:325300366821": 9,
+      "gas:candidate-vibid:1001000195053": 14,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300367288&region=0&sub_region=0&type=429",
@@ -6886,15 +6886,15 @@ export const duma_2003_uik_428_region_25_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеев Вячеслав Вильянович": 2,
-      "Алиев Нурмет Агарагимович": 6,
-      "Горячева Светлана Петровна": 53,
-      "Кривулин Виктор Серафимович": 11,
-      "Кузнецов Юрий Николаевич": 2,
-      "Морозов Николай Александрович": 2,
-      "Самоделок Алексей Григорьевич": 0,
-      "Фокин Сергей Александрович": 0,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000136028": 2,
+      "gas:candidate-vibid:325300366913": 6,
+      "gas:candidate-vibid:325300366733": 53,
+      "gas:candidate-vibid:325300366594": 11,
+      "gas:candidate-vibid:1001000217907": 2,
+      "gas:candidate-vibid:1001000113914": 2,
+      "gas:candidate-vibid:325300366821": 0,
+      "gas:candidate-vibid:1001000195053": 0,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300367288&region=0&sub_region=0&type=429",
@@ -6944,15 +6944,15 @@ export const duma_2003_uik_428_region_25_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеев Вячеслав Вильянович": 31,
-      "Алиев Нурмет Агарагимович": 45,
-      "Горячева Светлана Петровна": 190,
-      "Кривулин Виктор Серафимович": 88,
-      "Кузнецов Юрий Николаевич": 6,
-      "Морозов Николай Александрович": 12,
-      "Самоделок Алексей Григорьевич": 3,
-      "Фокин Сергей Александрович": 0,
-      "Против всех": 72
+      "gas:candidate-vibid:1001000136028": 31,
+      "gas:candidate-vibid:325300366913": 45,
+      "gas:candidate-vibid:325300366733": 190,
+      "gas:candidate-vibid:325300366594": 88,
+      "gas:candidate-vibid:1001000217907": 6,
+      "gas:candidate-vibid:1001000113914": 12,
+      "gas:candidate-vibid:325300366821": 3,
+      "gas:candidate-vibid:1001000195053": 0,
+      "special:against-all": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300367288&region=0&sub_region=0&type=429",
@@ -7002,15 +7002,15 @@ export const duma_2003_uik_428_region_25_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеев Вячеслав Вильянович": 92,
-      "Алиев Нурмет Агарагимович": 178,
-      "Горячева Светлана Петровна": 442,
-      "Кривулин Виктор Серафимович": 273,
-      "Кузнецов Юрий Николаевич": 43,
-      "Морозов Николай Александрович": 67,
-      "Самоделок Алексей Григорьевич": 13,
-      "Фокин Сергей Александрович": 10,
-      "Против всех": 337
+      "gas:candidate-vibid:1001000136028": 92,
+      "gas:candidate-vibid:325300366913": 178,
+      "gas:candidate-vibid:325300366733": 442,
+      "gas:candidate-vibid:325300366594": 273,
+      "gas:candidate-vibid:1001000217907": 43,
+      "gas:candidate-vibid:1001000113914": 67,
+      "gas:candidate-vibid:325300366821": 13,
+      "gas:candidate-vibid:1001000195053": 10,
+      "special:against-all": 337
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300367288&region=0&sub_region=0&type=429",
@@ -7060,15 +7060,15 @@ export const duma_2003_uik_428_region_25_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеев Вячеслав Вильянович": 38,
-      "Алиев Нурмет Агарагимович": 76,
-      "Горячева Светлана Петровна": 390,
-      "Кривулин Виктор Серафимович": 180,
-      "Кузнецов Юрий Николаевич": 24,
-      "Морозов Николай Александрович": 35,
-      "Самоделок Алексей Григорьевич": 3,
-      "Фокин Сергей Александрович": 4,
-      "Против всех": 161
+      "gas:candidate-vibid:1001000136028": 38,
+      "gas:candidate-vibid:325300366913": 76,
+      "gas:candidate-vibid:325300366733": 390,
+      "gas:candidate-vibid:325300366594": 180,
+      "gas:candidate-vibid:1001000217907": 24,
+      "gas:candidate-vibid:1001000113914": 35,
+      "gas:candidate-vibid:325300366821": 3,
+      "gas:candidate-vibid:1001000195053": 4,
+      "special:against-all": 161
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300367288&region=0&sub_region=0&type=429",
@@ -7118,15 +7118,15 @@ export const duma_2003_uik_428_region_25_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеев Вячеслав Вильянович": 66,
-      "Алиев Нурмет Агарагимович": 62,
-      "Горячева Светлана Петровна": 359,
-      "Кривулин Виктор Серафимович": 230,
-      "Кузнецов Юрий Николаевич": 50,
-      "Морозов Николай Александрович": 22,
-      "Самоделок Алексей Григорьевич": 16,
-      "Фокин Сергей Александрович": 8,
-      "Против всех": 178
+      "gas:candidate-vibid:1001000136028": 66,
+      "gas:candidate-vibid:325300366913": 62,
+      "gas:candidate-vibid:325300366733": 359,
+      "gas:candidate-vibid:325300366594": 230,
+      "gas:candidate-vibid:1001000217907": 50,
+      "gas:candidate-vibid:1001000113914": 22,
+      "gas:candidate-vibid:325300366821": 16,
+      "gas:candidate-vibid:1001000195053": 8,
+      "special:against-all": 178
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300367289&region=0&sub_region=0&type=429",
@@ -7176,15 +7176,15 @@ export const duma_2003_uik_428_region_25_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеев Вячеслав Вильянович": 48,
-      "Алиев Нурмет Агарагимович": 52,
-      "Горячева Светлана Петровна": 332,
-      "Кривулин Виктор Серафимович": 187,
-      "Кузнецов Юрий Николаевич": 30,
-      "Морозов Николай Александрович": 36,
-      "Самоделок Алексей Григорьевич": 8,
-      "Фокин Сергей Александрович": 7,
-      "Против всех": 141
+      "gas:candidate-vibid:1001000136028": 48,
+      "gas:candidate-vibid:325300366913": 52,
+      "gas:candidate-vibid:325300366733": 332,
+      "gas:candidate-vibid:325300366594": 187,
+      "gas:candidate-vibid:1001000217907": 30,
+      "gas:candidate-vibid:1001000113914": 36,
+      "gas:candidate-vibid:325300366821": 8,
+      "gas:candidate-vibid:1001000195053": 7,
+      "special:against-all": 141
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300367289&region=0&sub_region=0&type=429",
@@ -7234,15 +7234,15 @@ export const duma_2003_uik_428_region_25_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеев Вячеслав Вильянович": 35,
-      "Алиев Нурмет Агарагимович": 27,
-      "Горячева Светлана Петровна": 285,
-      "Кривулин Виктор Серафимович": 166,
-      "Кузнецов Юрий Николаевич": 38,
-      "Морозов Николай Александрович": 29,
-      "Самоделок Алексей Григорьевич": 3,
-      "Фокин Сергей Александрович": 13,
-      "Против всех": 165
+      "gas:candidate-vibid:1001000136028": 35,
+      "gas:candidate-vibid:325300366913": 27,
+      "gas:candidate-vibid:325300366733": 285,
+      "gas:candidate-vibid:325300366594": 166,
+      "gas:candidate-vibid:1001000217907": 38,
+      "gas:candidate-vibid:1001000113914": 29,
+      "gas:candidate-vibid:325300366821": 3,
+      "gas:candidate-vibid:1001000195053": 13,
+      "special:against-all": 165
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300367289&region=0&sub_region=0&type=429",
@@ -7292,15 +7292,15 @@ export const duma_2003_uik_428_region_25_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеев Вячеслав Вильянович": 44,
-      "Алиев Нурмет Агарагимович": 57,
-      "Горячева Светлана Петровна": 365,
-      "Кривулин Виктор Серафимович": 218,
-      "Кузнецов Юрий Николаевич": 42,
-      "Морозов Николай Александрович": 35,
-      "Самоделок Алексей Григорьевич": 8,
-      "Фокин Сергей Александрович": 14,
-      "Против всех": 181
+      "gas:candidate-vibid:1001000136028": 44,
+      "gas:candidate-vibid:325300366913": 57,
+      "gas:candidate-vibid:325300366733": 365,
+      "gas:candidate-vibid:325300366594": 218,
+      "gas:candidate-vibid:1001000217907": 42,
+      "gas:candidate-vibid:1001000113914": 35,
+      "gas:candidate-vibid:325300366821": 8,
+      "gas:candidate-vibid:1001000195053": 14,
+      "special:against-all": 181
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300367289&region=0&sub_region=0&type=429",
@@ -7350,15 +7350,15 @@ export const duma_2003_uik_428_region_25_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеев Вячеслав Вильянович": 44,
-      "Алиев Нурмет Агарагимович": 46,
-      "Горячева Светлана Петровна": 379,
-      "Кривулин Виктор Серафимович": 248,
-      "Кузнецов Юрий Николаевич": 50,
-      "Морозов Николай Александрович": 48,
-      "Самоделок Алексей Григорьевич": 12,
-      "Фокин Сергей Александрович": 10,
-      "Против всех": 174
+      "gas:candidate-vibid:1001000136028": 44,
+      "gas:candidate-vibid:325300366913": 46,
+      "gas:candidate-vibid:325300366733": 379,
+      "gas:candidate-vibid:325300366594": 248,
+      "gas:candidate-vibid:1001000217907": 50,
+      "gas:candidate-vibid:1001000113914": 48,
+      "gas:candidate-vibid:325300366821": 12,
+      "gas:candidate-vibid:1001000195053": 10,
+      "special:against-all": 174
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300367289&region=0&sub_region=0&type=429",
@@ -7408,15 +7408,15 @@ export const duma_2003_uik_428_region_25_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеев Вячеслав Вильянович": 82,
-      "Алиев Нурмет Агарагимович": 50,
-      "Горячева Светлана Петровна": 379,
-      "Кривулин Виктор Серафимович": 225,
-      "Кузнецов Юрий Николаевич": 64,
-      "Морозов Николай Александрович": 56,
-      "Самоделок Алексей Григорьевич": 20,
-      "Фокин Сергей Александрович": 22,
-      "Против всех": 257
+      "gas:candidate-vibid:1001000136028": 82,
+      "gas:candidate-vibid:325300366913": 50,
+      "gas:candidate-vibid:325300366733": 379,
+      "gas:candidate-vibid:325300366594": 225,
+      "gas:candidate-vibid:1001000217907": 64,
+      "gas:candidate-vibid:1001000113914": 56,
+      "gas:candidate-vibid:325300366821": 20,
+      "gas:candidate-vibid:1001000195053": 22,
+      "special:against-all": 257
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300367289&region=0&sub_region=0&type=429",
@@ -7466,15 +7466,15 @@ export const duma_2003_uik_428_region_25_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеев Вячеслав Вильянович": 62,
-      "Алиев Нурмет Агарагимович": 20,
-      "Горячева Светлана Петровна": 108,
-      "Кривулин Виктор Серафимович": 67,
-      "Кузнецов Юрий Николаевич": 25,
-      "Морозов Николай Александрович": 39,
-      "Самоделок Алексей Григорьевич": 12,
-      "Фокин Сергей Александрович": 24,
-      "Против всех": 159
+      "gas:candidate-vibid:1001000136028": 62,
+      "gas:candidate-vibid:325300366913": 20,
+      "gas:candidate-vibid:325300366733": 108,
+      "gas:candidate-vibid:325300366594": 67,
+      "gas:candidate-vibid:1001000217907": 25,
+      "gas:candidate-vibid:1001000113914": 39,
+      "gas:candidate-vibid:325300366821": 12,
+      "gas:candidate-vibid:1001000195053": 24,
+      "special:against-all": 159
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300367289&region=0&sub_region=0&type=429",
@@ -7524,15 +7524,15 @@ export const duma_2003_uik_428_region_25_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеев Вячеслав Вильянович": 84,
-      "Алиев Нурмет Агарагимович": 43,
-      "Горячева Светлана Петровна": 276,
-      "Кривулин Виктор Серафимович": 238,
-      "Кузнецов Юрий Николаевич": 66,
-      "Морозов Николай Александрович": 57,
-      "Самоделок Алексей Григорьевич": 22,
-      "Фокин Сергей Александрович": 36,
-      "Против всех": 287
+      "gas:candidate-vibid:1001000136028": 84,
+      "gas:candidate-vibid:325300366913": 43,
+      "gas:candidate-vibid:325300366733": 276,
+      "gas:candidate-vibid:325300366594": 238,
+      "gas:candidate-vibid:1001000217907": 66,
+      "gas:candidate-vibid:1001000113914": 57,
+      "gas:candidate-vibid:325300366821": 22,
+      "gas:candidate-vibid:1001000195053": 36,
+      "special:against-all": 287
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300367289&region=0&sub_region=0&type=429",
@@ -7582,15 +7582,15 @@ export const duma_2003_uik_428_region_25_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеев Вячеслав Вильянович": 19,
-      "Алиев Нурмет Агарагимович": 25,
-      "Горячева Светлана Петровна": 80,
-      "Кривулин Виктор Серафимович": 73,
-      "Кузнецов Юрий Николаевич": 27,
-      "Морозов Николай Александрович": 27,
-      "Самоделок Алексей Григорьевич": 4,
-      "Фокин Сергей Александрович": 22,
-      "Против всех": 96
+      "gas:candidate-vibid:1001000136028": 19,
+      "gas:candidate-vibid:325300366913": 25,
+      "gas:candidate-vibid:325300366733": 80,
+      "gas:candidate-vibid:325300366594": 73,
+      "gas:candidate-vibid:1001000217907": 27,
+      "gas:candidate-vibid:1001000113914": 27,
+      "gas:candidate-vibid:325300366821": 4,
+      "gas:candidate-vibid:1001000195053": 22,
+      "special:against-all": 96
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300367289&region=0&sub_region=0&type=429",
@@ -7640,15 +7640,15 @@ export const duma_2003_uik_428_region_25_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеев Вячеслав Вильянович": 14,
-      "Алиев Нурмет Агарагимович": 7,
-      "Горячева Светлана Петровна": 251,
-      "Кривулин Виктор Серафимович": 42,
-      "Кузнецов Юрий Николаевич": 16,
-      "Морозов Николай Александрович": 4,
-      "Самоделок Алексей Григорьевич": 4,
-      "Фокин Сергей Александрович": 3,
-      "Против всех": 70
+      "gas:candidate-vibid:1001000136028": 14,
+      "gas:candidate-vibid:325300366913": 7,
+      "gas:candidate-vibid:325300366733": 251,
+      "gas:candidate-vibid:325300366594": 42,
+      "gas:candidate-vibid:1001000217907": 16,
+      "gas:candidate-vibid:1001000113914": 4,
+      "gas:candidate-vibid:325300366821": 4,
+      "gas:candidate-vibid:1001000195053": 3,
+      "special:against-all": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300367289&region=0&sub_region=0&type=429",
@@ -7698,15 +7698,15 @@ export const duma_2003_uik_428_region_25_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеев Вячеслав Вильянович": 52,
-      "Алиев Нурмет Агарагимович": 35,
-      "Горячева Светлана Петровна": 383,
-      "Кривулин Виктор Серафимович": 126,
-      "Кузнецов Юрий Николаевич": 46,
-      "Морозов Николай Александрович": 38,
-      "Самоделок Алексей Григорьевич": 12,
-      "Фокин Сергей Александрович": 15,
-      "Против всех": 266
+      "gas:candidate-vibid:1001000136028": 52,
+      "gas:candidate-vibid:325300366913": 35,
+      "gas:candidate-vibid:325300366733": 383,
+      "gas:candidate-vibid:325300366594": 126,
+      "gas:candidate-vibid:1001000217907": 46,
+      "gas:candidate-vibid:1001000113914": 38,
+      "gas:candidate-vibid:325300366821": 12,
+      "gas:candidate-vibid:1001000195053": 15,
+      "special:against-all": 266
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300367289&region=0&sub_region=0&type=429",
@@ -7756,15 +7756,15 @@ export const duma_2003_uik_428_region_25_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеев Вячеслав Вильянович": 32,
-      "Алиев Нурмет Агарагимович": 27,
-      "Горячева Светлана Петровна": 146,
-      "Кривулин Виктор Серафимович": 62,
-      "Кузнецов Юрий Николаевич": 19,
-      "Морозов Николай Александрович": 11,
-      "Самоделок Алексей Григорьевич": 10,
-      "Фокин Сергей Александрович": 2,
-      "Против всех": 110
+      "gas:candidate-vibid:1001000136028": 32,
+      "gas:candidate-vibid:325300366913": 27,
+      "gas:candidate-vibid:325300366733": 146,
+      "gas:candidate-vibid:325300366594": 62,
+      "gas:candidate-vibid:1001000217907": 19,
+      "gas:candidate-vibid:1001000113914": 11,
+      "gas:candidate-vibid:325300366821": 10,
+      "gas:candidate-vibid:1001000195053": 2,
+      "special:against-all": 110
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300367289&region=0&sub_region=0&type=429",
@@ -7814,15 +7814,15 @@ export const duma_2003_uik_428_region_25_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеев Вячеслав Вильянович": 98,
-      "Алиев Нурмет Агарагимович": 46,
-      "Горячева Светлана Петровна": 358,
-      "Кривулин Виктор Серафимович": 218,
-      "Кузнецов Юрий Николаевич": 62,
-      "Морозов Николай Александрович": 86,
-      "Самоделок Алексей Григорьевич": 14,
-      "Фокин Сергей Александрович": 40,
-      "Против всех": 289
+      "gas:candidate-vibid:1001000136028": 98,
+      "gas:candidate-vibid:325300366913": 46,
+      "gas:candidate-vibid:325300366733": 358,
+      "gas:candidate-vibid:325300366594": 218,
+      "gas:candidate-vibid:1001000217907": 62,
+      "gas:candidate-vibid:1001000113914": 86,
+      "gas:candidate-vibid:325300366821": 14,
+      "gas:candidate-vibid:1001000195053": 40,
+      "special:against-all": 289
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300367289&region=0&sub_region=0&type=429",
@@ -7872,15 +7872,15 @@ export const duma_2003_uik_428_region_25_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеев Вячеслав Вильянович": 12,
-      "Алиев Нурмет Агарагимович": 22,
-      "Горячева Светлана Петровна": 80,
-      "Кривулин Виктор Серафимович": 83,
-      "Кузнецов Юрий Николаевич": 9,
-      "Морозов Николай Александрович": 27,
-      "Самоделок Алексей Григорьевич": 11,
-      "Фокин Сергей Александрович": 4,
-      "Против всех": 106
+      "gas:candidate-vibid:1001000136028": 12,
+      "gas:candidate-vibid:325300366913": 22,
+      "gas:candidate-vibid:325300366733": 80,
+      "gas:candidate-vibid:325300366594": 83,
+      "gas:candidate-vibid:1001000217907": 9,
+      "gas:candidate-vibid:1001000113914": 27,
+      "gas:candidate-vibid:325300366821": 11,
+      "gas:candidate-vibid:1001000195053": 4,
+      "special:against-all": 106
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253003010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300367290&region=0&sub_region=0&type=429",
@@ -7930,15 +7930,15 @@ export const duma_2003_uik_428_region_25_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеев Вячеслав Вильянович": 9,
-      "Алиев Нурмет Агарагимович": 6,
-      "Горячева Светлана Петровна": 89,
-      "Кривулин Виктор Серафимович": 40,
-      "Кузнецов Юрий Николаевич": 4,
-      "Морозов Николай Александрович": 8,
-      "Самоделок Алексей Григорьевич": 2,
-      "Фокин Сергей Александрович": 4,
-      "Против всех": 88
+      "gas:candidate-vibid:1001000136028": 9,
+      "gas:candidate-vibid:325300366913": 6,
+      "gas:candidate-vibid:325300366733": 89,
+      "gas:candidate-vibid:325300366594": 40,
+      "gas:candidate-vibid:1001000217907": 4,
+      "gas:candidate-vibid:1001000113914": 8,
+      "gas:candidate-vibid:325300366821": 2,
+      "gas:candidate-vibid:1001000195053": 4,
+      "special:against-all": 88
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253003010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300367290&region=0&sub_region=0&type=429",
@@ -7988,15 +7988,15 @@ export const duma_2003_uik_428_region_25_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеев Вячеслав Вильянович": 6,
-      "Алиев Нурмет Агарагимович": 2,
-      "Горячева Светлана Петровна": 24,
-      "Кривулин Виктор Серафимович": 11,
-      "Кузнецов Юрий Николаевич": 1,
-      "Морозов Николай Александрович": 3,
-      "Самоделок Алексей Григорьевич": 0,
-      "Фокин Сергей Александрович": 1,
-      "Против всех": 32
+      "gas:candidate-vibid:1001000136028": 6,
+      "gas:candidate-vibid:325300366913": 2,
+      "gas:candidate-vibid:325300366733": 24,
+      "gas:candidate-vibid:325300366594": 11,
+      "gas:candidate-vibid:1001000217907": 1,
+      "gas:candidate-vibid:1001000113914": 3,
+      "gas:candidate-vibid:325300366821": 0,
+      "gas:candidate-vibid:1001000195053": 1,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253003010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300367290&region=0&sub_region=0&type=429",
@@ -8046,15 +8046,15 @@ export const duma_2003_uik_428_region_25_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеев Вячеслав Вильянович": 33,
-      "Алиев Нурмет Агарагимович": 165,
-      "Горячева Светлана Петровна": 278,
-      "Кривулин Виктор Серафимович": 151,
-      "Кузнецов Юрий Николаевич": 34,
-      "Морозов Николай Александрович": 28,
-      "Самоделок Алексей Григорьевич": 9,
-      "Фокин Сергей Александрович": 9,
-      "Против всех": 357
+      "gas:candidate-vibid:1001000136028": 33,
+      "gas:candidate-vibid:325300366913": 165,
+      "gas:candidate-vibid:325300366733": 278,
+      "gas:candidate-vibid:325300366594": 151,
+      "gas:candidate-vibid:1001000217907": 34,
+      "gas:candidate-vibid:1001000113914": 28,
+      "gas:candidate-vibid:325300366821": 9,
+      "gas:candidate-vibid:1001000195053": 9,
+      "special:against-all": 357
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253003010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300367290&region=0&sub_region=0&type=429",
@@ -8104,15 +8104,15 @@ export const duma_2003_uik_428_region_25_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеев Вячеслав Вильянович": 79,
-      "Алиев Нурмет Агарагимович": 79,
-      "Горячева Светлана Петровна": 224,
-      "Кривулин Виктор Серафимович": 60,
-      "Кузнецов Юрий Николаевич": 193,
-      "Морозов Николай Александрович": 74,
-      "Самоделок Алексей Григорьевич": 13,
-      "Фокин Сергей Александрович": 32,
-      "Против всех": 257
+      "gas:candidate-vibid:1001000136028": 79,
+      "gas:candidate-vibid:325300366913": 79,
+      "gas:candidate-vibid:325300366733": 224,
+      "gas:candidate-vibid:325300366594": 60,
+      "gas:candidate-vibid:1001000217907": 193,
+      "gas:candidate-vibid:1001000113914": 74,
+      "gas:candidate-vibid:325300366821": 13,
+      "gas:candidate-vibid:1001000195053": 32,
+      "special:against-all": 257
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253003010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300367290&region=0&sub_region=0&type=429",
@@ -8162,15 +8162,15 @@ export const duma_2003_uik_428_region_25_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеев Вячеслав Вильянович": 5,
-      "Алиев Нурмет Агарагимович": 5,
-      "Горячева Светлана Петровна": 71,
-      "Кривулин Виктор Серафимович": 25,
-      "Кузнецов Юрий Николаевич": 5,
-      "Морозов Николай Александрович": 2,
-      "Самоделок Алексей Григорьевич": 1,
-      "Фокин Сергей Александрович": 5,
-      "Против всех": 49
+      "gas:candidate-vibid:1001000136028": 5,
+      "gas:candidate-vibid:325300366913": 5,
+      "gas:candidate-vibid:325300366733": 71,
+      "gas:candidate-vibid:325300366594": 25,
+      "gas:candidate-vibid:1001000217907": 5,
+      "gas:candidate-vibid:1001000113914": 2,
+      "gas:candidate-vibid:325300366821": 1,
+      "gas:candidate-vibid:1001000195053": 5,
+      "special:against-all": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253003010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300367290&region=0&sub_region=0&type=429",
@@ -8220,15 +8220,15 @@ export const duma_2003_uik_428_region_25_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеев Вячеслав Вильянович": 30,
-      "Алиев Нурмет Агарагимович": 50,
-      "Горячева Светлана Петровна": 221,
-      "Кривулин Виктор Серафимович": 153,
-      "Кузнецов Юрий Николаевич": 32,
-      "Морозов Николай Александрович": 38,
-      "Самоделок Алексей Григорьевич": 5,
-      "Фокин Сергей Александрович": 2,
-      "Против всех": 159
+      "gas:candidate-vibid:1001000136028": 30,
+      "gas:candidate-vibid:325300366913": 50,
+      "gas:candidate-vibid:325300366733": 221,
+      "gas:candidate-vibid:325300366594": 153,
+      "gas:candidate-vibid:1001000217907": 32,
+      "gas:candidate-vibid:1001000113914": 38,
+      "gas:candidate-vibid:325300366821": 5,
+      "gas:candidate-vibid:1001000195053": 2,
+      "special:against-all": 159
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253003010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300367290&region=0&sub_region=0&type=429",
@@ -8278,15 +8278,15 @@ export const duma_2003_uik_428_region_25_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеев Вячеслав Вильянович": 8,
-      "Алиев Нурмет Агарагимович": 71,
-      "Горячева Светлана Петровна": 155,
-      "Кривулин Виктор Серафимович": 70,
-      "Кузнецов Юрий Николаевич": 5,
-      "Морозов Николай Александрович": 11,
-      "Самоделок Алексей Григорьевич": 2,
-      "Фокин Сергей Александрович": 5,
-      "Против всех": 85
+      "gas:candidate-vibid:1001000136028": 8,
+      "gas:candidate-vibid:325300366913": 71,
+      "gas:candidate-vibid:325300366733": 155,
+      "gas:candidate-vibid:325300366594": 70,
+      "gas:candidate-vibid:1001000217907": 5,
+      "gas:candidate-vibid:1001000113914": 11,
+      "gas:candidate-vibid:325300366821": 2,
+      "gas:candidate-vibid:1001000195053": 5,
+      "special:against-all": 85
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253003010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300367290&region=0&sub_region=0&type=429",
@@ -8336,15 +8336,15 @@ export const duma_2003_uik_428_region_25_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеев Вячеслав Вильянович": 5,
-      "Алиев Нурмет Агарагимович": 28,
-      "Горячева Светлана Петровна": 113,
-      "Кривулин Виктор Серафимович": 49,
-      "Кузнецов Юрий Николаевич": 8,
-      "Морозов Николай Александрович": 12,
-      "Самоделок Алексей Григорьевич": 3,
-      "Фокин Сергей Александрович": 12,
-      "Против всех": 50
+      "gas:candidate-vibid:1001000136028": 5,
+      "gas:candidate-vibid:325300366913": 28,
+      "gas:candidate-vibid:325300366733": 113,
+      "gas:candidate-vibid:325300366594": 49,
+      "gas:candidate-vibid:1001000217907": 8,
+      "gas:candidate-vibid:1001000113914": 12,
+      "gas:candidate-vibid:325300366821": 3,
+      "gas:candidate-vibid:1001000195053": 12,
+      "special:against-all": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253003010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300367290&region=0&sub_region=0&type=429",
@@ -8394,15 +8394,15 @@ export const duma_2003_uik_428_region_25_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеев Вячеслав Вильянович": 36,
-      "Алиев Нурмет Агарагимович": 100,
-      "Горячева Светлана Петровна": 420,
-      "Кривулин Виктор Серафимович": 143,
-      "Кузнецов Юрий Николаевич": 27,
-      "Морозов Николай Александрович": 26,
-      "Самоделок Алексей Григорьевич": 4,
-      "Фокин Сергей Александрович": 5,
-      "Против всех": 189
+      "gas:candidate-vibid:1001000136028": 36,
+      "gas:candidate-vibid:325300366913": 100,
+      "gas:candidate-vibid:325300366733": 420,
+      "gas:candidate-vibid:325300366594": 143,
+      "gas:candidate-vibid:1001000217907": 27,
+      "gas:candidate-vibid:1001000113914": 26,
+      "gas:candidate-vibid:325300366821": 4,
+      "gas:candidate-vibid:1001000195053": 5,
+      "special:against-all": 189
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253003010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300367290&region=0&sub_region=0&type=429",
@@ -8452,15 +8452,15 @@ export const duma_2003_uik_428_region_25_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеев Вячеслав Вильянович": 31,
-      "Алиев Нурмет Агарагимович": 107,
-      "Горячева Светлана Петровна": 428,
-      "Кривулин Виктор Серафимович": 169,
-      "Кузнецов Юрий Николаевич": 23,
-      "Морозов Николай Александрович": 33,
-      "Самоделок Алексей Григорьевич": 12,
-      "Фокин Сергей Александрович": 5,
-      "Против всех": 201
+      "gas:candidate-vibid:1001000136028": 31,
+      "gas:candidate-vibid:325300366913": 107,
+      "gas:candidate-vibid:325300366733": 428,
+      "gas:candidate-vibid:325300366594": 169,
+      "gas:candidate-vibid:1001000217907": 23,
+      "gas:candidate-vibid:1001000113914": 33,
+      "gas:candidate-vibid:325300366821": 12,
+      "gas:candidate-vibid:1001000195053": 5,
+      "special:against-all": 201
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253003010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300367290&region=0&sub_region=0&type=429",
@@ -8510,15 +8510,15 @@ export const duma_2003_uik_428_region_25_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеев Вячеслав Вильянович": 34,
-      "Алиев Нурмет Агарагимович": 108,
-      "Горячева Светлана Петровна": 406,
-      "Кривулин Виктор Серафимович": 136,
-      "Кузнецов Юрий Николаевич": 21,
-      "Морозов Николай Александрович": 17,
-      "Самоделок Алексей Григорьевич": 6,
-      "Фокин Сергей Александрович": 4,
-      "Против всех": 160
+      "gas:candidate-vibid:1001000136028": 34,
+      "gas:candidate-vibid:325300366913": 108,
+      "gas:candidate-vibid:325300366733": 406,
+      "gas:candidate-vibid:325300366594": 136,
+      "gas:candidate-vibid:1001000217907": 21,
+      "gas:candidate-vibid:1001000113914": 17,
+      "gas:candidate-vibid:325300366821": 6,
+      "gas:candidate-vibid:1001000195053": 4,
+      "special:against-all": 160
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253003010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300367290&region=0&sub_region=0&type=429",
@@ -8568,15 +8568,15 @@ export const duma_2003_uik_428_region_25_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеев Вячеслав Вильянович": 25,
-      "Алиев Нурмет Агарагимович": 121,
-      "Горячева Светлана Петровна": 299,
-      "Кривулин Виктор Серафимович": 90,
-      "Кузнецов Юрий Николаевич": 18,
-      "Морозов Николай Александрович": 22,
-      "Самоделок Алексей Григорьевич": 4,
-      "Фокин Сергей Александрович": 2,
-      "Против всех": 174
+      "gas:candidate-vibid:1001000136028": 25,
+      "gas:candidate-vibid:325300366913": 121,
+      "gas:candidate-vibid:325300366733": 299,
+      "gas:candidate-vibid:325300366594": 90,
+      "gas:candidate-vibid:1001000217907": 18,
+      "gas:candidate-vibid:1001000113914": 22,
+      "gas:candidate-vibid:325300366821": 4,
+      "gas:candidate-vibid:1001000195053": 2,
+      "special:against-all": 174
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253003010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300367290&region=0&sub_region=0&type=429",
@@ -8626,15 +8626,15 @@ export const duma_2003_uik_428_region_25_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеев Вячеслав Вильянович": 20,
-      "Алиев Нурмет Агарагимович": 77,
-      "Горячева Светлана Петровна": 311,
-      "Кривулин Виктор Серафимович": 93,
-      "Кузнецов Юрий Николаевич": 9,
-      "Морозов Николай Александрович": 10,
-      "Самоделок Алексей Григорьевич": 3,
-      "Фокин Сергей Александрович": 3,
-      "Против всех": 154
+      "gas:candidate-vibid:1001000136028": 20,
+      "gas:candidate-vibid:325300366913": 77,
+      "gas:candidate-vibid:325300366733": 311,
+      "gas:candidate-vibid:325300366594": 93,
+      "gas:candidate-vibid:1001000217907": 9,
+      "gas:candidate-vibid:1001000113914": 10,
+      "gas:candidate-vibid:325300366821": 3,
+      "gas:candidate-vibid:1001000195053": 3,
+      "special:against-all": 154
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253003010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300367290&region=0&sub_region=0&type=429",
@@ -8684,15 +8684,15 @@ export const duma_2003_uik_428_region_25_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеев Вячеслав Вильянович": 13,
-      "Алиев Нурмет Агарагимович": 60,
-      "Горячева Светлана Петровна": 130,
-      "Кривулин Виктор Серафимович": 53,
-      "Кузнецов Юрий Николаевич": 10,
-      "Морозов Николай Александрович": 9,
-      "Самоделок Алексей Григорьевич": 2,
-      "Фокин Сергей Александрович": 8,
-      "Против всех": 70
+      "gas:candidate-vibid:1001000136028": 13,
+      "gas:candidate-vibid:325300366913": 60,
+      "gas:candidate-vibid:325300366733": 130,
+      "gas:candidate-vibid:325300366594": 53,
+      "gas:candidate-vibid:1001000217907": 10,
+      "gas:candidate-vibid:1001000113914": 9,
+      "gas:candidate-vibid:325300366821": 2,
+      "gas:candidate-vibid:1001000195053": 8,
+      "special:against-all": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253003010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300367290&region=0&sub_region=0&type=429",
@@ -8742,15 +8742,15 @@ export const duma_2003_uik_428_region_25_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеев Вячеслав Вильянович": 19,
-      "Алиев Нурмет Агарагимович": 43,
-      "Горячева Светлана Петровна": 170,
-      "Кривулин Виктор Серафимович": 46,
-      "Кузнецов Юрий Николаевич": 8,
-      "Морозов Николай Александрович": 21,
-      "Самоделок Алексей Григорьевич": 5,
-      "Фокин Сергей Александрович": 6,
-      "Против всех": 102
+      "gas:candidate-vibid:1001000136028": 19,
+      "gas:candidate-vibid:325300366913": 43,
+      "gas:candidate-vibid:325300366733": 170,
+      "gas:candidate-vibid:325300366594": 46,
+      "gas:candidate-vibid:1001000217907": 8,
+      "gas:candidate-vibid:1001000113914": 21,
+      "gas:candidate-vibid:325300366821": 5,
+      "gas:candidate-vibid:1001000195053": 6,
+      "special:against-all": 102
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253003010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300367290&region=0&sub_region=0&type=429",
@@ -8800,15 +8800,15 @@ export const duma_2003_uik_428_region_25_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеев Вячеслав Вильянович": 5,
-      "Алиев Нурмет Агарагимович": 4,
-      "Горячева Светлана Петровна": 95,
-      "Кривулин Виктор Серафимович": 41,
-      "Кузнецов Юрий Николаевич": 3,
-      "Морозов Николай Александрович": 3,
-      "Самоделок Алексей Григорьевич": 2,
-      "Фокин Сергей Александрович": 0,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000136028": 5,
+      "gas:candidate-vibid:325300366913": 4,
+      "gas:candidate-vibid:325300366733": 95,
+      "gas:candidate-vibid:325300366594": 41,
+      "gas:candidate-vibid:1001000217907": 3,
+      "gas:candidate-vibid:1001000113914": 3,
+      "gas:candidate-vibid:325300366821": 2,
+      "gas:candidate-vibid:1001000195053": 0,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253003010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300367290&region=0&sub_region=0&type=429",
@@ -8858,15 +8858,15 @@ export const duma_2003_uik_428_region_25_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеев Вячеслав Вильянович": 13,
-      "Алиев Нурмет Агарагимович": 19,
-      "Горячева Светлана Петровна": 186,
-      "Кривулин Виктор Серафимович": 46,
-      "Кузнецов Юрий Николаевич": 8,
-      "Морозов Николай Александрович": 8,
-      "Самоделок Алексей Григорьевич": 3,
-      "Фокин Сергей Александрович": 2,
-      "Против всех": 55
+      "gas:candidate-vibid:1001000136028": 13,
+      "gas:candidate-vibid:325300366913": 19,
+      "gas:candidate-vibid:325300366733": 186,
+      "gas:candidate-vibid:325300366594": 46,
+      "gas:candidate-vibid:1001000217907": 8,
+      "gas:candidate-vibid:1001000113914": 8,
+      "gas:candidate-vibid:325300366821": 3,
+      "gas:candidate-vibid:1001000195053": 2,
+      "special:against-all": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253003010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300367290&region=0&sub_region=0&type=429",
@@ -8916,15 +8916,15 @@ export const duma_2003_uik_428_region_25_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеев Вячеслав Вильянович": 58,
-      "Алиев Нурмет Агарагимович": 79,
-      "Горячева Светлана Петровна": 379,
-      "Кривулин Виктор Серафимович": 38,
-      "Кузнецов Юрий Николаевич": 23,
-      "Морозов Николай Александрович": 46,
-      "Самоделок Алексей Григорьевич": 13,
-      "Фокин Сергей Александрович": 27,
-      "Против всех": 203
+      "gas:candidate-vibid:1001000136028": 58,
+      "gas:candidate-vibid:325300366913": 79,
+      "gas:candidate-vibid:325300366733": 379,
+      "gas:candidate-vibid:325300366594": 38,
+      "gas:candidate-vibid:1001000217907": 23,
+      "gas:candidate-vibid:1001000113914": 46,
+      "gas:candidate-vibid:325300366821": 13,
+      "gas:candidate-vibid:1001000195053": 27,
+      "special:against-all": 203
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253003010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300367290&region=0&sub_region=0&type=429",
@@ -8974,15 +8974,15 @@ export const duma_2003_uik_428_region_25_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеев Вячеслав Вильянович": 12,
-      "Алиев Нурмет Агарагимович": 21,
-      "Горячева Светлана Петровна": 169,
-      "Кривулин Виктор Серафимович": 54,
-      "Кузнецов Юрий Николаевич": 2,
-      "Морозов Николай Александрович": 9,
-      "Самоделок Алексей Григорьевич": 4,
-      "Фокин Сергей Александрович": 3,
-      "Против всех": 47
+      "gas:candidate-vibid:1001000136028": 12,
+      "gas:candidate-vibid:325300366913": 21,
+      "gas:candidate-vibid:325300366733": 169,
+      "gas:candidate-vibid:325300366594": 54,
+      "gas:candidate-vibid:1001000217907": 2,
+      "gas:candidate-vibid:1001000113914": 9,
+      "gas:candidate-vibid:325300366821": 4,
+      "gas:candidate-vibid:1001000195053": 3,
+      "special:against-all": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253003010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300367290&region=0&sub_region=0&type=429",
@@ -9032,15 +9032,15 @@ export const duma_2003_uik_428_region_25_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеев Вячеслав Вильянович": 39,
-      "Алиев Нурмет Агарагимович": 44,
-      "Горячева Светлана Петровна": 293,
-      "Кривулин Виктор Серафимович": 114,
-      "Кузнецов Юрий Николаевич": 19,
-      "Морозов Николай Александрович": 12,
-      "Самоделок Алексей Григорьевич": 5,
-      "Фокин Сергей Александрович": 4,
-      "Против всех": 189
+      "gas:candidate-vibid:1001000136028": 39,
+      "gas:candidate-vibid:325300366913": 44,
+      "gas:candidate-vibid:325300366733": 293,
+      "gas:candidate-vibid:325300366594": 114,
+      "gas:candidate-vibid:1001000217907": 19,
+      "gas:candidate-vibid:1001000113914": 12,
+      "gas:candidate-vibid:325300366821": 5,
+      "gas:candidate-vibid:1001000195053": 4,
+      "special:against-all": 189
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253003010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300367290&region=0&sub_region=0&type=429",
@@ -9090,15 +9090,15 @@ export const duma_2003_uik_428_region_25_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеев Вячеслав Вильянович": 33,
-      "Алиев Нурмет Агарагимович": 28,
-      "Горячева Светлана Петровна": 206,
-      "Кривулин Виктор Серафимович": 67,
-      "Кузнецов Юрий Николаевич": 13,
-      "Морозов Николай Александрович": 24,
-      "Самоделок Алексей Григорьевич": 5,
-      "Фокин Сергей Александрович": 8,
-      "Против всех": 107
+      "gas:candidate-vibid:1001000136028": 33,
+      "gas:candidate-vibid:325300366913": 28,
+      "gas:candidate-vibid:325300366733": 206,
+      "gas:candidate-vibid:325300366594": 67,
+      "gas:candidate-vibid:1001000217907": 13,
+      "gas:candidate-vibid:1001000113914": 24,
+      "gas:candidate-vibid:325300366821": 5,
+      "gas:candidate-vibid:1001000195053": 8,
+      "special:against-all": 107
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253003010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300367290&region=0&sub_region=0&type=429",
@@ -9148,15 +9148,15 @@ export const duma_2003_uik_428_region_25_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеев Вячеслав Вильянович": 8,
-      "Алиев Нурмет Агарагимович": 3,
-      "Горячева Светлана Петровна": 60,
-      "Кривулин Виктор Серафимович": 22,
-      "Кузнецов Юрий Николаевич": 3,
-      "Морозов Николай Александрович": 0,
-      "Самоделок Алексей Григорьевич": 1,
-      "Фокин Сергей Александрович": 3,
-      "Против всех": 41
+      "gas:candidate-vibid:1001000136028": 8,
+      "gas:candidate-vibid:325300366913": 3,
+      "gas:candidate-vibid:325300366733": 60,
+      "gas:candidate-vibid:325300366594": 22,
+      "gas:candidate-vibid:1001000217907": 3,
+      "gas:candidate-vibid:1001000113914": 0,
+      "gas:candidate-vibid:325300366821": 1,
+      "gas:candidate-vibid:1001000195053": 3,
+      "special:against-all": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253003010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300367290&region=0&sub_region=0&type=429",
@@ -9206,15 +9206,15 @@ export const duma_2003_uik_428_region_25_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеев Вячеслав Вильянович": 20,
-      "Алиев Нурмет Агарагимович": 26,
-      "Горячева Светлана Петровна": 139,
-      "Кривулин Виктор Серафимович": 57,
-      "Кузнецов Юрий Николаевич": 6,
-      "Морозов Николай Александрович": 11,
-      "Самоделок Алексей Григорьевич": 3,
-      "Фокин Сергей Александрович": 5,
-      "Против всех": 120
+      "gas:candidate-vibid:1001000136028": 20,
+      "gas:candidate-vibid:325300366913": 26,
+      "gas:candidate-vibid:325300366733": 139,
+      "gas:candidate-vibid:325300366594": 57,
+      "gas:candidate-vibid:1001000217907": 6,
+      "gas:candidate-vibid:1001000113914": 11,
+      "gas:candidate-vibid:325300366821": 3,
+      "gas:candidate-vibid:1001000195053": 5,
+      "special:against-all": 120
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253003010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300367290&region=0&sub_region=0&type=429",
@@ -9264,15 +9264,15 @@ export const duma_2003_uik_428_region_25_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеев Вячеслав Вильянович": 2,
-      "Алиев Нурмет Агарагимович": 3,
-      "Горячева Светлана Петровна": 5,
-      "Кривулин Виктор Серафимович": 4,
-      "Кузнецов Юрий Николаевич": 0,
-      "Морозов Николай Александрович": 0,
-      "Самоделок Алексей Григорьевич": 2,
-      "Фокин Сергей Александрович": 1,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000136028": 2,
+      "gas:candidate-vibid:325300366913": 3,
+      "gas:candidate-vibid:325300366733": 5,
+      "gas:candidate-vibid:325300366594": 4,
+      "gas:candidate-vibid:1001000217907": 0,
+      "gas:candidate-vibid:1001000113914": 0,
+      "gas:candidate-vibid:325300366821": 2,
+      "gas:candidate-vibid:1001000195053": 1,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253003010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300367290&region=0&sub_region=0&type=429",
@@ -9322,15 +9322,15 @@ export const duma_2003_uik_428_region_25_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеев Вячеслав Вильянович": 1,
-      "Алиев Нурмет Агарагимович": 25,
-      "Горячева Светлана Петровна": 0,
-      "Кривулин Виктор Серафимович": 0,
-      "Кузнецов Юрий Николаевич": 0,
-      "Морозов Николай Александрович": 0,
-      "Самоделок Алексей Григорьевич": 0,
-      "Фокин Сергей Александрович": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000136028": 1,
+      "gas:candidate-vibid:325300366913": 25,
+      "gas:candidate-vibid:325300366733": 0,
+      "gas:candidate-vibid:325300366594": 0,
+      "gas:candidate-vibid:1001000217907": 0,
+      "gas:candidate-vibid:1001000113914": 0,
+      "gas:candidate-vibid:325300366821": 0,
+      "gas:candidate-vibid:1001000195053": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253003010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300367290&region=0&sub_region=0&type=429",
@@ -9380,15 +9380,15 @@ export const duma_2003_uik_428_region_25_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеев Вячеслав Вильянович": 20,
-      "Алиев Нурмет Агарагимович": 74,
-      "Горячева Светлана Петровна": 171,
-      "Кривулин Виктор Серафимович": 57,
-      "Кузнецов Юрий Николаевич": 24,
-      "Морозов Николай Александрович": 21,
-      "Самоделок Алексей Григорьевич": 9,
-      "Фокин Сергей Александрович": 3,
-      "Против всех": 157
+      "gas:candidate-vibid:1001000136028": 20,
+      "gas:candidate-vibid:325300366913": 74,
+      "gas:candidate-vibid:325300366733": 171,
+      "gas:candidate-vibid:325300366594": 57,
+      "gas:candidate-vibid:1001000217907": 24,
+      "gas:candidate-vibid:1001000113914": 21,
+      "gas:candidate-vibid:325300366821": 9,
+      "gas:candidate-vibid:1001000195053": 3,
+      "special:against-all": 157
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253003011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300367291&region=0&sub_region=0&type=429",
@@ -9438,15 +9438,15 @@ export const duma_2003_uik_428_region_25_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеев Вячеслав Вильянович": 21,
-      "Алиев Нурмет Агарагимович": 43,
-      "Горячева Светлана Петровна": 48,
-      "Кривулин Виктор Серафимович": 34,
-      "Кузнецов Юрий Николаевич": 9,
-      "Морозов Николай Александрович": 17,
-      "Самоделок Алексей Григорьевич": 2,
-      "Фокин Сергей Александрович": 8,
-      "Против всех": 45
+      "gas:candidate-vibid:1001000136028": 21,
+      "gas:candidate-vibid:325300366913": 43,
+      "gas:candidate-vibid:325300366733": 48,
+      "gas:candidate-vibid:325300366594": 34,
+      "gas:candidate-vibid:1001000217907": 9,
+      "gas:candidate-vibid:1001000113914": 17,
+      "gas:candidate-vibid:325300366821": 2,
+      "gas:candidate-vibid:1001000195053": 8,
+      "special:against-all": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253003011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300367291&region=0&sub_region=0&type=429",
@@ -9496,15 +9496,15 @@ export const duma_2003_uik_428_region_25_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеев Вячеслав Вильянович": 11,
-      "Алиев Нурмет Агарагимович": 38,
-      "Горячева Светлана Петровна": 59,
-      "Кривулин Виктор Серафимович": 100,
-      "Кузнецов Юрий Николаевич": 12,
-      "Морозов Николай Александрович": 3,
-      "Самоделок Алексей Григорьевич": 1,
-      "Фокин Сергей Александрович": 1,
-      "Против всех": 57
+      "gas:candidate-vibid:1001000136028": 11,
+      "gas:candidate-vibid:325300366913": 38,
+      "gas:candidate-vibid:325300366733": 59,
+      "gas:candidate-vibid:325300366594": 100,
+      "gas:candidate-vibid:1001000217907": 12,
+      "gas:candidate-vibid:1001000113914": 3,
+      "gas:candidate-vibid:325300366821": 1,
+      "gas:candidate-vibid:1001000195053": 1,
+      "special:against-all": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253003011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300367291&region=0&sub_region=0&type=429",
@@ -9554,15 +9554,15 @@ export const duma_2003_uik_428_region_25_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеев Вячеслав Вильянович": 9,
-      "Алиев Нурмет Агарагимович": 68,
-      "Горячева Светлана Петровна": 114,
-      "Кривулин Виктор Серафимович": 100,
-      "Кузнецов Юрий Николаевич": 25,
-      "Морозов Николай Александрович": 2,
-      "Самоделок Алексей Григорьевич": 1,
-      "Фокин Сергей Александрович": 3,
-      "Против всех": 67
+      "gas:candidate-vibid:1001000136028": 9,
+      "gas:candidate-vibid:325300366913": 68,
+      "gas:candidate-vibid:325300366733": 114,
+      "gas:candidate-vibid:325300366594": 100,
+      "gas:candidate-vibid:1001000217907": 25,
+      "gas:candidate-vibid:1001000113914": 2,
+      "gas:candidate-vibid:325300366821": 1,
+      "gas:candidate-vibid:1001000195053": 3,
+      "special:against-all": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253003011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300367291&region=0&sub_region=0&type=429",
@@ -9612,15 +9612,15 @@ export const duma_2003_uik_428_region_25_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеев Вячеслав Вильянович": 20,
-      "Алиев Нурмет Агарагимович": 31,
-      "Горячева Светлана Петровна": 49,
-      "Кривулин Виктор Серафимович": 71,
-      "Кузнецов Юрий Николаевич": 11,
-      "Морозов Николай Александрович": 8,
-      "Самоделок Алексей Григорьевич": 1,
-      "Фокин Сергей Александрович": 2,
-      "Против всех": 40
+      "gas:candidate-vibid:1001000136028": 20,
+      "gas:candidate-vibid:325300366913": 31,
+      "gas:candidate-vibid:325300366733": 49,
+      "gas:candidate-vibid:325300366594": 71,
+      "gas:candidate-vibid:1001000217907": 11,
+      "gas:candidate-vibid:1001000113914": 8,
+      "gas:candidate-vibid:325300366821": 1,
+      "gas:candidate-vibid:1001000195053": 2,
+      "special:against-all": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253003011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300367291&region=0&sub_region=0&type=429",
@@ -9670,15 +9670,15 @@ export const duma_2003_uik_428_region_25_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеев Вячеслав Вильянович": 5,
-      "Алиев Нурмет Агарагимович": 73,
-      "Горячева Светлана Петровна": 21,
-      "Кривулин Виктор Серафимович": 21,
-      "Кузнецов Юрий Николаевич": 2,
-      "Морозов Николай Александрович": 3,
-      "Самоделок Алексей Григорьевич": 1,
-      "Фокин Сергей Александрович": 0,
-      "Против всех": 29
+      "gas:candidate-vibid:1001000136028": 5,
+      "gas:candidate-vibid:325300366913": 73,
+      "gas:candidate-vibid:325300366733": 21,
+      "gas:candidate-vibid:325300366594": 21,
+      "gas:candidate-vibid:1001000217907": 2,
+      "gas:candidate-vibid:1001000113914": 3,
+      "gas:candidate-vibid:325300366821": 1,
+      "gas:candidate-vibid:1001000195053": 0,
+      "special:against-all": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253003011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300367291&region=0&sub_region=0&type=429",
@@ -9728,15 +9728,15 @@ export const duma_2003_uik_428_region_25_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеев Вячеслав Вильянович": 38,
-      "Алиев Нурмет Агарагимович": 175,
-      "Горячева Светлана Петровна": 277,
-      "Кривулин Виктор Серафимович": 55,
-      "Кузнецов Юрий Николаевич": 44,
-      "Морозов Николай Александрович": 20,
-      "Самоделок Алексей Григорьевич": 8,
-      "Фокин Сергей Александрович": 5,
-      "Против всех": 138
+      "gas:candidate-vibid:1001000136028": 38,
+      "gas:candidate-vibid:325300366913": 175,
+      "gas:candidate-vibid:325300366733": 277,
+      "gas:candidate-vibid:325300366594": 55,
+      "gas:candidate-vibid:1001000217907": 44,
+      "gas:candidate-vibid:1001000113914": 20,
+      "gas:candidate-vibid:325300366821": 8,
+      "gas:candidate-vibid:1001000195053": 5,
+      "special:against-all": 138
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253003011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300367291&region=0&sub_region=0&type=429",
@@ -9786,15 +9786,15 @@ export const duma_2003_uik_428_region_25_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеев Вячеслав Вильянович": 54,
-      "Алиев Нурмет Агарагимович": 74,
-      "Горячева Светлана Петровна": 280,
-      "Кривулин Виктор Серафимович": 67,
-      "Кузнецов Юрий Николаевич": 42,
-      "Морозов Николай Александрович": 49,
-      "Самоделок Алексей Григорьевич": 6,
-      "Фокин Сергей Александрович": 8,
-      "Против всех": 218
+      "gas:candidate-vibid:1001000136028": 54,
+      "gas:candidate-vibid:325300366913": 74,
+      "gas:candidate-vibid:325300366733": 280,
+      "gas:candidate-vibid:325300366594": 67,
+      "gas:candidate-vibid:1001000217907": 42,
+      "gas:candidate-vibid:1001000113914": 49,
+      "gas:candidate-vibid:325300366821": 6,
+      "gas:candidate-vibid:1001000195053": 8,
+      "special:against-all": 218
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253003011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300367291&region=0&sub_region=0&type=429",
@@ -9844,15 +9844,15 @@ export const duma_2003_uik_428_region_25_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеев Вячеслав Вильянович": 12,
-      "Алиев Нурмет Агарагимович": 36,
-      "Горячева Светлана Петровна": 77,
-      "Кривулин Виктор Серафимович": 76,
-      "Кузнецов Юрий Николаевич": 6,
-      "Морозов Николай Александрович": 6,
-      "Самоделок Алексей Григорьевич": 2,
-      "Фокин Сергей Александрович": 3,
-      "Против всех": 68
+      "gas:candidate-vibid:1001000136028": 12,
+      "gas:candidate-vibid:325300366913": 36,
+      "gas:candidate-vibid:325300366733": 77,
+      "gas:candidate-vibid:325300366594": 76,
+      "gas:candidate-vibid:1001000217907": 6,
+      "gas:candidate-vibid:1001000113914": 6,
+      "gas:candidate-vibid:325300366821": 2,
+      "gas:candidate-vibid:1001000195053": 3,
+      "special:against-all": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253003011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300367291&region=0&sub_region=0&type=429",
@@ -9902,15 +9902,15 @@ export const duma_2003_uik_428_region_25_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеев Вячеслав Вильянович": 41,
-      "Алиев Нурмет Агарагимович": 122,
-      "Горячева Светлана Петровна": 330,
-      "Кривулин Виктор Серафимович": 168,
-      "Кузнецов Юрий Николаевич": 23,
-      "Морозов Николай Александрович": 29,
-      "Самоделок Алексей Григорьевич": 8,
-      "Фокин Сергей Александрович": 3,
-      "Против всех": 202
+      "gas:candidate-vibid:1001000136028": 41,
+      "gas:candidate-vibid:325300366913": 122,
+      "gas:candidate-vibid:325300366733": 330,
+      "gas:candidate-vibid:325300366594": 168,
+      "gas:candidate-vibid:1001000217907": 23,
+      "gas:candidate-vibid:1001000113914": 29,
+      "gas:candidate-vibid:325300366821": 8,
+      "gas:candidate-vibid:1001000195053": 3,
+      "special:against-all": 202
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253003011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300367291&region=0&sub_region=0&type=429",
@@ -9960,15 +9960,15 @@ export const duma_2003_uik_428_region_25_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеев Вячеслав Вильянович": 28,
-      "Алиев Нурмет Агарагимович": 170,
-      "Горячева Светлана Петровна": 203,
-      "Кривулин Виктор Серафимович": 94,
-      "Кузнецов Юрий Николаевич": 25,
-      "Морозов Николай Александрович": 7,
-      "Самоделок Алексей Григорьевич": 5,
-      "Фокин Сергей Александрович": 4,
-      "Против всех": 114
+      "gas:candidate-vibid:1001000136028": 28,
+      "gas:candidate-vibid:325300366913": 170,
+      "gas:candidate-vibid:325300366733": 203,
+      "gas:candidate-vibid:325300366594": 94,
+      "gas:candidate-vibid:1001000217907": 25,
+      "gas:candidate-vibid:1001000113914": 7,
+      "gas:candidate-vibid:325300366821": 5,
+      "gas:candidate-vibid:1001000195053": 4,
+      "special:against-all": 114
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253003011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300367291&region=0&sub_region=0&type=429",
@@ -10018,15 +10018,15 @@ export const duma_2003_uik_428_region_25_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеев Вячеслав Вильянович": 19,
-      "Алиев Нурмет Агарагимович": 203,
-      "Горячева Светлана Петровна": 101,
-      "Кривулин Виктор Серафимович": 48,
-      "Кузнецов Юрий Николаевич": 14,
-      "Морозов Николай Александрович": 14,
-      "Самоделок Алексей Григорьевич": 1,
-      "Фокин Сергей Александрович": 3,
-      "Против всех": 75
+      "gas:candidate-vibid:1001000136028": 19,
+      "gas:candidate-vibid:325300366913": 203,
+      "gas:candidate-vibid:325300366733": 101,
+      "gas:candidate-vibid:325300366594": 48,
+      "gas:candidate-vibid:1001000217907": 14,
+      "gas:candidate-vibid:1001000113914": 14,
+      "gas:candidate-vibid:325300366821": 1,
+      "gas:candidate-vibid:1001000195053": 3,
+      "special:against-all": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253003011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300367291&region=0&sub_region=0&type=429",
@@ -10076,15 +10076,15 @@ export const duma_2003_uik_428_region_25_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеев Вячеслав Вильянович": 33,
-      "Алиев Нурмет Агарагимович": 136,
-      "Горячева Светлана Петровна": 123,
-      "Кривулин Виктор Серафимович": 163,
-      "Кузнецов Юрий Николаевич": 10,
-      "Морозов Николай Александрович": 19,
-      "Самоделок Алексей Григорьевич": 6,
-      "Фокин Сергей Александрович": 2,
-      "Против всех": 159
+      "gas:candidate-vibid:1001000136028": 33,
+      "gas:candidate-vibid:325300366913": 136,
+      "gas:candidate-vibid:325300366733": 123,
+      "gas:candidate-vibid:325300366594": 163,
+      "gas:candidate-vibid:1001000217907": 10,
+      "gas:candidate-vibid:1001000113914": 19,
+      "gas:candidate-vibid:325300366821": 6,
+      "gas:candidate-vibid:1001000195053": 2,
+      "special:against-all": 159
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253003011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300367291&region=0&sub_region=0&type=429",
@@ -10134,15 +10134,15 @@ export const duma_2003_uik_428_region_25_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеев Вячеслав Вильянович": 32,
-      "Алиев Нурмет Агарагимович": 135,
-      "Горячева Светлана Петровна": 275,
-      "Кривулин Виктор Серафимович": 86,
-      "Кузнецов Юрий Николаевич": 27,
-      "Морозов Николай Александрович": 23,
-      "Самоделок Алексей Григорьевич": 6,
-      "Фокин Сергей Александрович": 1,
-      "Против всех": 146
+      "gas:candidate-vibid:1001000136028": 32,
+      "gas:candidate-vibid:325300366913": 135,
+      "gas:candidate-vibid:325300366733": 275,
+      "gas:candidate-vibid:325300366594": 86,
+      "gas:candidate-vibid:1001000217907": 27,
+      "gas:candidate-vibid:1001000113914": 23,
+      "gas:candidate-vibid:325300366821": 6,
+      "gas:candidate-vibid:1001000195053": 1,
+      "special:against-all": 146
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253003011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300367291&region=0&sub_region=0&type=429",
@@ -10192,15 +10192,15 @@ export const duma_2003_uik_428_region_25_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеев Вячеслав Вильянович": 3,
-      "Алиев Нурмет Агарагимович": 51,
-      "Горячева Светлана Петровна": 41,
-      "Кривулин Виктор Серафимович": 43,
-      "Кузнецов Юрий Николаевич": 3,
-      "Морозов Николай Александрович": 4,
-      "Самоделок Алексей Григорьевич": 4,
-      "Фокин Сергей Александрович": 1,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000136028": 3,
+      "gas:candidate-vibid:325300366913": 51,
+      "gas:candidate-vibid:325300366733": 41,
+      "gas:candidate-vibid:325300366594": 43,
+      "gas:candidate-vibid:1001000217907": 3,
+      "gas:candidate-vibid:1001000113914": 4,
+      "gas:candidate-vibid:325300366821": 4,
+      "gas:candidate-vibid:1001000195053": 1,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253003011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300367291&region=0&sub_region=0&type=429",
@@ -10250,15 +10250,15 @@ export const duma_2003_uik_428_region_25_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеев Вячеслав Вильянович": 55,
-      "Алиев Нурмет Агарагимович": 66,
-      "Горячева Светлана Петровна": 442,
-      "Кривулин Виктор Серафимович": 110,
-      "Кузнецов Юрий Николаевич": 38,
-      "Морозов Николай Александрович": 26,
-      "Самоделок Алексей Григорьевич": 11,
-      "Фокин Сергей Александрович": 7,
-      "Против всех": 137
+      "gas:candidate-vibid:1001000136028": 55,
+      "gas:candidate-vibid:325300366913": 66,
+      "gas:candidate-vibid:325300366733": 442,
+      "gas:candidate-vibid:325300366594": 110,
+      "gas:candidate-vibid:1001000217907": 38,
+      "gas:candidate-vibid:1001000113914": 26,
+      "gas:candidate-vibid:325300366821": 11,
+      "gas:candidate-vibid:1001000195053": 7,
+      "special:against-all": 137
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=253003011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=325300367291&region=0&sub_region=0&type=429",

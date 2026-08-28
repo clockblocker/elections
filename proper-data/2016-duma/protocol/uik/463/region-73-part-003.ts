@@ -43,13 +43,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 42,
-      "Брагин Александр Александрович": 13,
-      "Грачев Дмитрий Николаевич": 94,
-      "Ильясов Руслан Ринатович": 26,
-      "Кислица Николай Николаевич": 12,
-      "Синельщиков Юрий Петрович": 139,
-      "Третьяк Владислав Александрович": 312
+      "gas:candidate-vibid:2732000842506": 42,
+      "gas:candidate-vibid:2732000844513": 13,
+      "gas:candidate-vibid:2732000825078": 94,
+      "gas:candidate-vibid:2732000843460": 26,
+      "gas:candidate-vibid:2732000843789": 12,
+      "gas:candidate-vibid:2732000832691": 139,
+      "gas:candidate-vibid:2732000839731": 312
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735896&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735896&type=464",
@@ -100,13 +100,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 44,
-      "Брагин Александр Александрович": 11,
-      "Грачев Дмитрий Николаевич": 76,
-      "Ильясов Руслан Ринатович": 20,
-      "Кислица Николай Николаевич": 6,
-      "Синельщиков Юрий Петрович": 140,
-      "Третьяк Владислав Александрович": 324
+      "gas:candidate-vibid:2732000842506": 44,
+      "gas:candidate-vibid:2732000844513": 11,
+      "gas:candidate-vibid:2732000825078": 76,
+      "gas:candidate-vibid:2732000843460": 20,
+      "gas:candidate-vibid:2732000843789": 6,
+      "gas:candidate-vibid:2732000832691": 140,
+      "gas:candidate-vibid:2732000839731": 324
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735896&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735896&type=464",
@@ -157,13 +157,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 20,
-      "Брагин Александр Александрович": 3,
-      "Грачев Дмитрий Николаевич": 50,
-      "Ильясов Руслан Ринатович": 10,
-      "Кислица Николай Николаевич": 11,
-      "Синельщиков Юрий Петрович": 100,
-      "Третьяк Владислав Александрович": 195
+      "gas:candidate-vibid:2732000842506": 20,
+      "gas:candidate-vibid:2732000844513": 3,
+      "gas:candidate-vibid:2732000825078": 50,
+      "gas:candidate-vibid:2732000843460": 10,
+      "gas:candidate-vibid:2732000843789": 11,
+      "gas:candidate-vibid:2732000832691": 100,
+      "gas:candidate-vibid:2732000839731": 195
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735896&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735896&type=464",
@@ -214,13 +214,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 36,
-      "Брагин Александр Александрович": 19,
-      "Грачев Дмитрий Николаевич": 97,
-      "Ильясов Руслан Ринатович": 31,
-      "Кислица Николай Николаевич": 20,
-      "Синельщиков Юрий Петрович": 191,
-      "Третьяк Владислав Александрович": 399
+      "gas:candidate-vibid:2732000842506": 36,
+      "gas:candidate-vibid:2732000844513": 19,
+      "gas:candidate-vibid:2732000825078": 97,
+      "gas:candidate-vibid:2732000843460": 31,
+      "gas:candidate-vibid:2732000843789": 20,
+      "gas:candidate-vibid:2732000832691": 191,
+      "gas:candidate-vibid:2732000839731": 399
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735896&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735896&type=464",
@@ -271,13 +271,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 43,
-      "Брагин Александр Александрович": 19,
-      "Грачев Дмитрий Николаевич": 122,
-      "Ильясов Руслан Ринатович": 25,
-      "Кислица Николай Николаевич": 24,
-      "Синельщиков Юрий Петрович": 180,
-      "Третьяк Владислав Александрович": 365
+      "gas:candidate-vibid:2732000842506": 43,
+      "gas:candidate-vibid:2732000844513": 19,
+      "gas:candidate-vibid:2732000825078": 122,
+      "gas:candidate-vibid:2732000843460": 25,
+      "gas:candidate-vibid:2732000843789": 24,
+      "gas:candidate-vibid:2732000832691": 180,
+      "gas:candidate-vibid:2732000839731": 365
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735896&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735896&type=464",
@@ -328,13 +328,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 36,
-      "Брагин Александр Александрович": 21,
-      "Грачев Дмитрий Николаевич": 82,
-      "Ильясов Руслан Ринатович": 19,
-      "Кислица Николай Николаевич": 14,
-      "Синельщиков Юрий Петрович": 171,
-      "Третьяк Владислав Александрович": 302
+      "gas:candidate-vibid:2732000842506": 36,
+      "gas:candidate-vibid:2732000844513": 21,
+      "gas:candidate-vibid:2732000825078": 82,
+      "gas:candidate-vibid:2732000843460": 19,
+      "gas:candidate-vibid:2732000843789": 14,
+      "gas:candidate-vibid:2732000832691": 171,
+      "gas:candidate-vibid:2732000839731": 302
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735896&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735896&type=464",
@@ -385,13 +385,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 42,
-      "Брагин Александр Александрович": 15,
-      "Грачев Дмитрий Николаевич": 71,
-      "Ильясов Руслан Ринатович": 20,
-      "Кислица Николай Николаевич": 14,
-      "Синельщиков Юрий Петрович": 155,
-      "Третьяк Владислав Александрович": 300
+      "gas:candidate-vibid:2732000842506": 42,
+      "gas:candidate-vibid:2732000844513": 15,
+      "gas:candidate-vibid:2732000825078": 71,
+      "gas:candidate-vibid:2732000843460": 20,
+      "gas:candidate-vibid:2732000843789": 14,
+      "gas:candidate-vibid:2732000832691": 155,
+      "gas:candidate-vibid:2732000839731": 300
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735896&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735896&type=464",
@@ -442,13 +442,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 62,
-      "Брагин Александр Александрович": 18,
-      "Грачев Дмитрий Николаевич": 152,
-      "Ильясов Руслан Ринатович": 32,
-      "Кислица Николай Николаевич": 27,
-      "Синельщиков Юрий Петрович": 169,
-      "Третьяк Владислав Александрович": 506
+      "gas:candidate-vibid:2732000842506": 62,
+      "gas:candidate-vibid:2732000844513": 18,
+      "gas:candidate-vibid:2732000825078": 152,
+      "gas:candidate-vibid:2732000843460": 32,
+      "gas:candidate-vibid:2732000843789": 27,
+      "gas:candidate-vibid:2732000832691": 169,
+      "gas:candidate-vibid:2732000839731": 506
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735896&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735896&type=464",
@@ -499,13 +499,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 33,
-      "Брагин Александр Александрович": 7,
-      "Грачев Дмитрий Николаевич": 105,
-      "Ильясов Руслан Ринатович": 18,
-      "Кислица Николай Николаевич": 12,
-      "Синельщиков Юрий Петрович": 155,
-      "Третьяк Владислав Александрович": 281
+      "gas:candidate-vibid:2732000842506": 33,
+      "gas:candidate-vibid:2732000844513": 7,
+      "gas:candidate-vibid:2732000825078": 105,
+      "gas:candidate-vibid:2732000843460": 18,
+      "gas:candidate-vibid:2732000843789": 12,
+      "gas:candidate-vibid:2732000832691": 155,
+      "gas:candidate-vibid:2732000839731": 281
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735896&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735896&type=464",
@@ -556,13 +556,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 39,
-      "Брагин Александр Александрович": 20,
-      "Грачев Дмитрий Николаевич": 83,
-      "Ильясов Руслан Ринатович": 30,
-      "Кислица Николай Николаевич": 11,
-      "Синельщиков Юрий Петрович": 157,
-      "Третьяк Владислав Александрович": 303
+      "gas:candidate-vibid:2732000842506": 39,
+      "gas:candidate-vibid:2732000844513": 20,
+      "gas:candidate-vibid:2732000825078": 83,
+      "gas:candidate-vibid:2732000843460": 30,
+      "gas:candidate-vibid:2732000843789": 11,
+      "gas:candidate-vibid:2732000832691": 157,
+      "gas:candidate-vibid:2732000839731": 303
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735896&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735896&type=464",
@@ -613,13 +613,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 19,
-      "Брагин Александр Александрович": 6,
-      "Грачев Дмитрий Николаевич": 57,
-      "Ильясов Руслан Ринатович": 20,
-      "Кислица Николай Николаевич": 9,
-      "Синельщиков Юрий Петрович": 69,
-      "Третьяк Владислав Александрович": 197
+      "gas:candidate-vibid:2732000842506": 19,
+      "gas:candidate-vibid:2732000844513": 6,
+      "gas:candidate-vibid:2732000825078": 57,
+      "gas:candidate-vibid:2732000843460": 20,
+      "gas:candidate-vibid:2732000843789": 9,
+      "gas:candidate-vibid:2732000832691": 69,
+      "gas:candidate-vibid:2732000839731": 197
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735896&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735896&type=464",
@@ -670,13 +670,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 29,
-      "Брагин Александр Александрович": 11,
-      "Грачев Дмитрий Николаевич": 66,
-      "Ильясов Руслан Ринатович": 11,
-      "Кислица Николай Николаевич": 13,
-      "Синельщиков Юрий Петрович": 82,
-      "Третьяк Владислав Александрович": 282
+      "gas:candidate-vibid:2732000842506": 29,
+      "gas:candidate-vibid:2732000844513": 11,
+      "gas:candidate-vibid:2732000825078": 66,
+      "gas:candidate-vibid:2732000843460": 11,
+      "gas:candidate-vibid:2732000843789": 13,
+      "gas:candidate-vibid:2732000832691": 82,
+      "gas:candidate-vibid:2732000839731": 282
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735896&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735896&type=464",
@@ -727,13 +727,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 27,
-      "Брагин Александр Александрович": 16,
-      "Грачев Дмитрий Николаевич": 89,
-      "Ильясов Руслан Ринатович": 17,
-      "Кислица Николай Николаевич": 12,
-      "Синельщиков Юрий Петрович": 138,
-      "Третьяк Владислав Александрович": 300
+      "gas:candidate-vibid:2732000842506": 27,
+      "gas:candidate-vibid:2732000844513": 16,
+      "gas:candidate-vibid:2732000825078": 89,
+      "gas:candidate-vibid:2732000843460": 17,
+      "gas:candidate-vibid:2732000843789": 12,
+      "gas:candidate-vibid:2732000832691": 138,
+      "gas:candidate-vibid:2732000839731": 300
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735896&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735896&type=464",
@@ -784,13 +784,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 52,
-      "Брагин Александр Александрович": 17,
-      "Грачев Дмитрий Николаевич": 78,
-      "Ильясов Руслан Ринатович": 15,
-      "Кислица Николай Николаевич": 12,
-      "Синельщиков Юрий Петрович": 152,
-      "Третьяк Владислав Александрович": 340
+      "gas:candidate-vibid:2732000842506": 52,
+      "gas:candidate-vibid:2732000844513": 17,
+      "gas:candidate-vibid:2732000825078": 78,
+      "gas:candidate-vibid:2732000843460": 15,
+      "gas:candidate-vibid:2732000843789": 12,
+      "gas:candidate-vibid:2732000832691": 152,
+      "gas:candidate-vibid:2732000839731": 340
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735896&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735896&type=464",
@@ -841,13 +841,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 26,
-      "Брагин Александр Александрович": 8,
-      "Грачев Дмитрий Николаевич": 70,
-      "Ильясов Руслан Ринатович": 15,
-      "Кислица Николай Николаевич": 14,
-      "Синельщиков Юрий Петрович": 134,
-      "Третьяк Владислав Александрович": 251
+      "gas:candidate-vibid:2732000842506": 26,
+      "gas:candidate-vibid:2732000844513": 8,
+      "gas:candidate-vibid:2732000825078": 70,
+      "gas:candidate-vibid:2732000843460": 15,
+      "gas:candidate-vibid:2732000843789": 14,
+      "gas:candidate-vibid:2732000832691": 134,
+      "gas:candidate-vibid:2732000839731": 251
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735896&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735896&type=464",
@@ -898,13 +898,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 37,
-      "Брагин Александр Александрович": 16,
-      "Грачев Дмитрий Николаевич": 112,
-      "Ильясов Руслан Ринатович": 29,
-      "Кислица Николай Николаевич": 10,
-      "Синельщиков Юрий Петрович": 141,
-      "Третьяк Владислав Александрович": 401
+      "gas:candidate-vibid:2732000842506": 37,
+      "gas:candidate-vibid:2732000844513": 16,
+      "gas:candidate-vibid:2732000825078": 112,
+      "gas:candidate-vibid:2732000843460": 29,
+      "gas:candidate-vibid:2732000843789": 10,
+      "gas:candidate-vibid:2732000832691": 141,
+      "gas:candidate-vibid:2732000839731": 401
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735896&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735896&type=464",
@@ -955,13 +955,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 35,
-      "Брагин Александр Александрович": 12,
-      "Грачев Дмитрий Николаевич": 110,
-      "Ильясов Руслан Ринатович": 48,
-      "Кислица Николай Николаевич": 13,
-      "Синельщиков Юрий Петрович": 172,
-      "Третьяк Владислав Александрович": 514
+      "gas:candidate-vibid:2732000842506": 35,
+      "gas:candidate-vibid:2732000844513": 12,
+      "gas:candidate-vibid:2732000825078": 110,
+      "gas:candidate-vibid:2732000843460": 48,
+      "gas:candidate-vibid:2732000843789": 13,
+      "gas:candidate-vibid:2732000832691": 172,
+      "gas:candidate-vibid:2732000839731": 514
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735896&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735896&type=464",
@@ -1012,13 +1012,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 33,
-      "Брагин Александр Александрович": 15,
-      "Грачев Дмитрий Николаевич": 99,
-      "Ильясов Руслан Ринатович": 27,
-      "Кислица Николай Николаевич": 10,
-      "Синельщиков Юрий Петрович": 141,
-      "Третьяк Владислав Александрович": 348
+      "gas:candidate-vibid:2732000842506": 33,
+      "gas:candidate-vibid:2732000844513": 15,
+      "gas:candidate-vibid:2732000825078": 99,
+      "gas:candidate-vibid:2732000843460": 27,
+      "gas:candidate-vibid:2732000843789": 10,
+      "gas:candidate-vibid:2732000832691": 141,
+      "gas:candidate-vibid:2732000839731": 348
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735896&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735896&type=464",
@@ -1069,13 +1069,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 33,
-      "Брагин Александр Александрович": 8,
-      "Грачев Дмитрий Николаевич": 73,
-      "Ильясов Руслан Ринатович": 28,
-      "Кислица Николай Николаевич": 11,
-      "Синельщиков Юрий Петрович": 92,
-      "Третьяк Владислав Александрович": 280
+      "gas:candidate-vibid:2732000842506": 33,
+      "gas:candidate-vibid:2732000844513": 8,
+      "gas:candidate-vibid:2732000825078": 73,
+      "gas:candidate-vibid:2732000843460": 28,
+      "gas:candidate-vibid:2732000843789": 11,
+      "gas:candidate-vibid:2732000832691": 92,
+      "gas:candidate-vibid:2732000839731": 280
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735896&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735896&type=464",
@@ -1126,13 +1126,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 28,
-      "Брагин Александр Александрович": 19,
-      "Грачев Дмитрий Николаевич": 112,
-      "Ильясов Руслан Ринатович": 30,
-      "Кислица Николай Николаевич": 17,
-      "Синельщиков Юрий Петрович": 151,
-      "Третьяк Владислав Александрович": 403
+      "gas:candidate-vibid:2732000842506": 28,
+      "gas:candidate-vibid:2732000844513": 19,
+      "gas:candidate-vibid:2732000825078": 112,
+      "gas:candidate-vibid:2732000843460": 30,
+      "gas:candidate-vibid:2732000843789": 17,
+      "gas:candidate-vibid:2732000832691": 151,
+      "gas:candidate-vibid:2732000839731": 403
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735896&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735896&type=464",
@@ -1183,13 +1183,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 22,
-      "Брагин Александр Александрович": 7,
-      "Грачев Дмитрий Николаевич": 107,
-      "Ильясов Руслан Ринатович": 25,
-      "Кислица Николай Николаевич": 9,
-      "Синельщиков Юрий Петрович": 121,
-      "Третьяк Владислав Александрович": 297
+      "gas:candidate-vibid:2732000842506": 22,
+      "gas:candidate-vibid:2732000844513": 7,
+      "gas:candidate-vibid:2732000825078": 107,
+      "gas:candidate-vibid:2732000843460": 25,
+      "gas:candidate-vibid:2732000843789": 9,
+      "gas:candidate-vibid:2732000832691": 121,
+      "gas:candidate-vibid:2732000839731": 297
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735896&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735896&type=464",
@@ -1240,13 +1240,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 33,
-      "Брагин Александр Александрович": 9,
-      "Грачев Дмитрий Николаевич": 72,
-      "Ильясов Руслан Ринатович": 22,
-      "Кислица Николай Николаевич": 8,
-      "Синельщиков Юрий Петрович": 134,
-      "Третьяк Владислав Александрович": 297
+      "gas:candidate-vibid:2732000842506": 33,
+      "gas:candidate-vibid:2732000844513": 9,
+      "gas:candidate-vibid:2732000825078": 72,
+      "gas:candidate-vibid:2732000843460": 22,
+      "gas:candidate-vibid:2732000843789": 8,
+      "gas:candidate-vibid:2732000832691": 134,
+      "gas:candidate-vibid:2732000839731": 297
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735896&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735896&type=464",
@@ -1297,13 +1297,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 31,
-      "Брагин Александр Александрович": 10,
-      "Грачев Дмитрий Николаевич": 89,
-      "Ильясов Руслан Ринатович": 33,
-      "Кислица Николай Николаевич": 11,
-      "Синельщиков Юрий Петрович": 113,
-      "Третьяк Владислав Александрович": 320
+      "gas:candidate-vibid:2732000842506": 31,
+      "gas:candidate-vibid:2732000844513": 10,
+      "gas:candidate-vibid:2732000825078": 89,
+      "gas:candidate-vibid:2732000843460": 33,
+      "gas:candidate-vibid:2732000843789": 11,
+      "gas:candidate-vibid:2732000832691": 113,
+      "gas:candidate-vibid:2732000839731": 320
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735896&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735896&type=464",
@@ -1354,13 +1354,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 32,
-      "Брагин Александр Александрович": 13,
-      "Грачев Дмитрий Николаевич": 98,
-      "Ильясов Руслан Ринатович": 35,
-      "Кислица Николай Николаевич": 9,
-      "Синельщиков Юрий Петрович": 155,
-      "Третьяк Владислав Александрович": 340
+      "gas:candidate-vibid:2732000842506": 32,
+      "gas:candidate-vibid:2732000844513": 13,
+      "gas:candidate-vibid:2732000825078": 98,
+      "gas:candidate-vibid:2732000843460": 35,
+      "gas:candidate-vibid:2732000843789": 9,
+      "gas:candidate-vibid:2732000832691": 155,
+      "gas:candidate-vibid:2732000839731": 340
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735896&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735896&type=464",
@@ -1411,13 +1411,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 36,
-      "Брагин Александр Александрович": 10,
-      "Грачев Дмитрий Николаевич": 92,
-      "Ильясов Руслан Ринатович": 28,
-      "Кислица Николай Николаевич": 10,
-      "Синельщиков Юрий Петрович": 125,
-      "Третьяк Владислав Александрович": 415
+      "gas:candidate-vibid:2732000842506": 36,
+      "gas:candidate-vibid:2732000844513": 10,
+      "gas:candidate-vibid:2732000825078": 92,
+      "gas:candidate-vibid:2732000843460": 28,
+      "gas:candidate-vibid:2732000843789": 10,
+      "gas:candidate-vibid:2732000832691": 125,
+      "gas:candidate-vibid:2732000839731": 415
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735896&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735896&type=464",
@@ -1468,13 +1468,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 34,
-      "Брагин Александр Александрович": 22,
-      "Грачев Дмитрий Николаевич": 118,
-      "Ильясов Руслан Ринатович": 36,
-      "Кислица Николай Николаевич": 13,
-      "Синельщиков Юрий Петрович": 161,
-      "Третьяк Владислав Александрович": 361
+      "gas:candidate-vibid:2732000842506": 34,
+      "gas:candidate-vibid:2732000844513": 22,
+      "gas:candidate-vibid:2732000825078": 118,
+      "gas:candidate-vibid:2732000843460": 36,
+      "gas:candidate-vibid:2732000843789": 13,
+      "gas:candidate-vibid:2732000832691": 161,
+      "gas:candidate-vibid:2732000839731": 361
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735896&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735896&type=464",
@@ -1525,13 +1525,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 32,
-      "Брагин Александр Александрович": 6,
-      "Грачев Дмитрий Николаевич": 86,
-      "Ильясов Руслан Ринатович": 27,
-      "Кислица Николай Николаевич": 11,
-      "Синельщиков Юрий Петрович": 98,
-      "Третьяк Владислав Александрович": 283
+      "gas:candidate-vibid:2732000842506": 32,
+      "gas:candidate-vibid:2732000844513": 6,
+      "gas:candidate-vibid:2732000825078": 86,
+      "gas:candidate-vibid:2732000843460": 27,
+      "gas:candidate-vibid:2732000843789": 11,
+      "gas:candidate-vibid:2732000832691": 98,
+      "gas:candidate-vibid:2732000839731": 283
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735896&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735896&type=464",
@@ -1582,13 +1582,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 48,
-      "Брагин Александр Александрович": 17,
-      "Грачев Дмитрий Николаевич": 103,
-      "Ильясов Руслан Ринатович": 37,
-      "Кислица Николай Николаевич": 10,
-      "Синельщиков Юрий Петрович": 146,
-      "Третьяк Владислав Александрович": 382
+      "gas:candidate-vibid:2732000842506": 48,
+      "gas:candidate-vibid:2732000844513": 17,
+      "gas:candidate-vibid:2732000825078": 103,
+      "gas:candidate-vibid:2732000843460": 37,
+      "gas:candidate-vibid:2732000843789": 10,
+      "gas:candidate-vibid:2732000832691": 146,
+      "gas:candidate-vibid:2732000839731": 382
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735896&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735896&type=464",
@@ -1639,13 +1639,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 69,
-      "Брагин Александр Александрович": 15,
-      "Грачев Дмитрий Николаевич": 145,
-      "Ильясов Руслан Ринатович": 29,
-      "Кислица Николай Николаевич": 8,
-      "Синельщиков Юрий Петрович": 167,
-      "Третьяк Владислав Александрович": 420
+      "gas:candidate-vibid:2732000842506": 69,
+      "gas:candidate-vibid:2732000844513": 15,
+      "gas:candidate-vibid:2732000825078": 145,
+      "gas:candidate-vibid:2732000843460": 29,
+      "gas:candidate-vibid:2732000843789": 8,
+      "gas:candidate-vibid:2732000832691": 167,
+      "gas:candidate-vibid:2732000839731": 420
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735896&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735896&type=464",
@@ -1696,13 +1696,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 36,
-      "Брагин Александр Александрович": 9,
-      "Грачев Дмитрий Николаевич": 94,
-      "Ильясов Руслан Ринатович": 23,
-      "Кислица Николай Николаевич": 12,
-      "Синельщиков Юрий Петрович": 127,
-      "Третьяк Владислав Александрович": 256
+      "gas:candidate-vibid:2732000842506": 36,
+      "gas:candidate-vibid:2732000844513": 9,
+      "gas:candidate-vibid:2732000825078": 94,
+      "gas:candidate-vibid:2732000843460": 23,
+      "gas:candidate-vibid:2732000843789": 12,
+      "gas:candidate-vibid:2732000832691": 127,
+      "gas:candidate-vibid:2732000839731": 256
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735896&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735896&type=464",
@@ -1753,13 +1753,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 46,
-      "Брагин Александр Александрович": 13,
-      "Грачев Дмитрий Николаевич": 71,
-      "Ильясов Руслан Ринатович": 18,
-      "Кислица Николай Николаевич": 10,
-      "Синельщиков Юрий Петрович": 85,
-      "Третьяк Владислав Александрович": 250
+      "gas:candidate-vibid:2732000842506": 46,
+      "gas:candidate-vibid:2732000844513": 13,
+      "gas:candidate-vibid:2732000825078": 71,
+      "gas:candidate-vibid:2732000843460": 18,
+      "gas:candidate-vibid:2732000843789": 10,
+      "gas:candidate-vibid:2732000832691": 85,
+      "gas:candidate-vibid:2732000839731": 250
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735896&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735896&type=464",
@@ -1810,13 +1810,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 25,
-      "Брагин Александр Александрович": 4,
-      "Грачев Дмитрий Николаевич": 76,
-      "Ильясов Руслан Ринатович": 21,
-      "Кислица Николай Николаевич": 8,
-      "Синельщиков Юрий Петрович": 135,
-      "Третьяк Владислав Александрович": 260
+      "gas:candidate-vibid:2732000842506": 25,
+      "gas:candidate-vibid:2732000844513": 4,
+      "gas:candidate-vibid:2732000825078": 76,
+      "gas:candidate-vibid:2732000843460": 21,
+      "gas:candidate-vibid:2732000843789": 8,
+      "gas:candidate-vibid:2732000832691": 135,
+      "gas:candidate-vibid:2732000839731": 260
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735896&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735896&type=464",
@@ -1867,13 +1867,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 16,
-      "Брагин Александр Александрович": 3,
-      "Грачев Дмитрий Николаевич": 31,
-      "Ильясов Руслан Ринатович": 13,
-      "Кислица Николай Николаевич": 2,
-      "Синельщиков Юрий Петрович": 50,
-      "Третьяк Владислав Александрович": 97
+      "gas:candidate-vibid:2732000842506": 16,
+      "gas:candidate-vibid:2732000844513": 3,
+      "gas:candidate-vibid:2732000825078": 31,
+      "gas:candidate-vibid:2732000843460": 13,
+      "gas:candidate-vibid:2732000843789": 2,
+      "gas:candidate-vibid:2732000832691": 50,
+      "gas:candidate-vibid:2732000839731": 97
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735896&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735896&type=464",
@@ -1924,13 +1924,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 26,
-      "Брагин Александр Александрович": 8,
-      "Грачев Дмитрий Николаевич": 79,
-      "Ильясов Руслан Ринатович": 20,
-      "Кислица Николай Николаевич": 9,
-      "Синельщиков Юрий Петрович": 71,
-      "Третьяк Владислав Александрович": 305
+      "gas:candidate-vibid:2732000842506": 26,
+      "gas:candidate-vibid:2732000844513": 8,
+      "gas:candidate-vibid:2732000825078": 79,
+      "gas:candidate-vibid:2732000843460": 20,
+      "gas:candidate-vibid:2732000843789": 9,
+      "gas:candidate-vibid:2732000832691": 71,
+      "gas:candidate-vibid:2732000839731": 305
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735896&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735896&type=464",
@@ -1981,13 +1981,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 31,
-      "Брагин Александр Александрович": 23,
-      "Грачев Дмитрий Николаевич": 79,
-      "Ильясов Руслан Ринатович": 24,
-      "Кислица Николай Николаевич": 12,
-      "Синельщиков Юрий Петрович": 104,
-      "Третьяк Владислав Александрович": 258
+      "gas:candidate-vibid:2732000842506": 31,
+      "gas:candidate-vibid:2732000844513": 23,
+      "gas:candidate-vibid:2732000825078": 79,
+      "gas:candidate-vibid:2732000843460": 24,
+      "gas:candidate-vibid:2732000843789": 12,
+      "gas:candidate-vibid:2732000832691": 104,
+      "gas:candidate-vibid:2732000839731": 258
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735897&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735897&type=464",
@@ -2038,13 +2038,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 32,
-      "Брагин Александр Александрович": 20,
-      "Грачев Дмитрий Николаевич": 67,
-      "Ильясов Руслан Ринатович": 26,
-      "Кислица Николай Николаевич": 17,
-      "Синельщиков Юрий Петрович": 178,
-      "Третьяк Владислав Александрович": 339
+      "gas:candidate-vibid:2732000842506": 32,
+      "gas:candidate-vibid:2732000844513": 20,
+      "gas:candidate-vibid:2732000825078": 67,
+      "gas:candidate-vibid:2732000843460": 26,
+      "gas:candidate-vibid:2732000843789": 17,
+      "gas:candidate-vibid:2732000832691": 178,
+      "gas:candidate-vibid:2732000839731": 339
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735897&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735897&type=464",
@@ -2095,13 +2095,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 45,
-      "Брагин Александр Александрович": 37,
-      "Грачев Дмитрий Николаевич": 131,
-      "Ильясов Руслан Ринатович": 70,
-      "Кислица Николай Николаевич": 26,
-      "Синельщиков Юрий Петрович": 259,
-      "Третьяк Владислав Александрович": 588
+      "gas:candidate-vibid:2732000842506": 45,
+      "gas:candidate-vibid:2732000844513": 37,
+      "gas:candidate-vibid:2732000825078": 131,
+      "gas:candidate-vibid:2732000843460": 70,
+      "gas:candidate-vibid:2732000843789": 26,
+      "gas:candidate-vibid:2732000832691": 259,
+      "gas:candidate-vibid:2732000839731": 588
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735897&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735897&type=464",
@@ -2152,13 +2152,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 51,
-      "Брагин Александр Александрович": 38,
-      "Грачев Дмитрий Николаевич": 99,
-      "Ильясов Руслан Ринатович": 33,
-      "Кислица Николай Николаевич": 33,
-      "Синельщиков Юрий Петрович": 239,
-      "Третьяк Владислав Александрович": 481
+      "gas:candidate-vibid:2732000842506": 51,
+      "gas:candidate-vibid:2732000844513": 38,
+      "gas:candidate-vibid:2732000825078": 99,
+      "gas:candidate-vibid:2732000843460": 33,
+      "gas:candidate-vibid:2732000843789": 33,
+      "gas:candidate-vibid:2732000832691": 239,
+      "gas:candidate-vibid:2732000839731": 481
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735897&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735897&type=464",
@@ -2209,13 +2209,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 42,
-      "Брагин Александр Александрович": 24,
-      "Грачев Дмитрий Николаевич": 110,
-      "Ильясов Руслан Ринатович": 34,
-      "Кислица Николай Николаевич": 39,
-      "Синельщиков Юрий Петрович": 236,
-      "Третьяк Владислав Александрович": 527
+      "gas:candidate-vibid:2732000842506": 42,
+      "gas:candidate-vibid:2732000844513": 24,
+      "gas:candidate-vibid:2732000825078": 110,
+      "gas:candidate-vibid:2732000843460": 34,
+      "gas:candidate-vibid:2732000843789": 39,
+      "gas:candidate-vibid:2732000832691": 236,
+      "gas:candidate-vibid:2732000839731": 527
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735897&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735897&type=464",
@@ -2266,13 +2266,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 47,
-      "Брагин Александр Александрович": 41,
-      "Грачев Дмитрий Николаевич": 120,
-      "Ильясов Руслан Ринатович": 74,
-      "Кислица Николай Николаевич": 41,
-      "Синельщиков Юрий Петрович": 254,
-      "Третьяк Владислав Александрович": 595
+      "gas:candidate-vibid:2732000842506": 47,
+      "gas:candidate-vibid:2732000844513": 41,
+      "gas:candidate-vibid:2732000825078": 120,
+      "gas:candidate-vibid:2732000843460": 74,
+      "gas:candidate-vibid:2732000843789": 41,
+      "gas:candidate-vibid:2732000832691": 254,
+      "gas:candidate-vibid:2732000839731": 595
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735897&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735897&type=464",
@@ -2323,13 +2323,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 27,
-      "Брагин Александр Александрович": 9,
-      "Грачев Дмитрий Николаевич": 76,
-      "Ильясов Руслан Ринатович": 11,
-      "Кислица Николай Николаевич": 13,
-      "Синельщиков Юрий Петрович": 72,
-      "Третьяк Владислав Александрович": 190
+      "gas:candidate-vibid:2732000842506": 27,
+      "gas:candidate-vibid:2732000844513": 9,
+      "gas:candidate-vibid:2732000825078": 76,
+      "gas:candidate-vibid:2732000843460": 11,
+      "gas:candidate-vibid:2732000843789": 13,
+      "gas:candidate-vibid:2732000832691": 72,
+      "gas:candidate-vibid:2732000839731": 190
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735897&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735897&type=464",
@@ -2380,13 +2380,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 27,
-      "Брагин Александр Александрович": 13,
-      "Грачев Дмитрий Николаевич": 99,
-      "Ильясов Руслан Ринатович": 22,
-      "Кислица Николай Николаевич": 14,
-      "Синельщиков Юрий Петрович": 171,
-      "Третьяк Владислав Александрович": 384
+      "gas:candidate-vibid:2732000842506": 27,
+      "gas:candidate-vibid:2732000844513": 13,
+      "gas:candidate-vibid:2732000825078": 99,
+      "gas:candidate-vibid:2732000843460": 22,
+      "gas:candidate-vibid:2732000843789": 14,
+      "gas:candidate-vibid:2732000832691": 171,
+      "gas:candidate-vibid:2732000839731": 384
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735897&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735897&type=464",
@@ -2437,13 +2437,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 24,
-      "Брагин Александр Александрович": 19,
-      "Грачев Дмитрий Николаевич": 102,
-      "Ильясов Руслан Ринатович": 23,
-      "Кислица Николай Николаевич": 12,
-      "Синельщиков Юрий Петрович": 107,
-      "Третьяк Владислав Александрович": 283
+      "gas:candidate-vibid:2732000842506": 24,
+      "gas:candidate-vibid:2732000844513": 19,
+      "gas:candidate-vibid:2732000825078": 102,
+      "gas:candidate-vibid:2732000843460": 23,
+      "gas:candidate-vibid:2732000843789": 12,
+      "gas:candidate-vibid:2732000832691": 107,
+      "gas:candidate-vibid:2732000839731": 283
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735897&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735897&type=464",
@@ -2494,13 +2494,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 34,
-      "Брагин Александр Александрович": 9,
-      "Грачев Дмитрий Николаевич": 78,
-      "Ильясов Руслан Ринатович": 15,
-      "Кислица Николай Николаевич": 4,
-      "Синельщиков Юрий Петрович": 120,
-      "Третьяк Владислав Александрович": 297
+      "gas:candidate-vibid:2732000842506": 34,
+      "gas:candidate-vibid:2732000844513": 9,
+      "gas:candidate-vibid:2732000825078": 78,
+      "gas:candidate-vibid:2732000843460": 15,
+      "gas:candidate-vibid:2732000843789": 4,
+      "gas:candidate-vibid:2732000832691": 120,
+      "gas:candidate-vibid:2732000839731": 297
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735897&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735897&type=464",
@@ -2551,13 +2551,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 41,
-      "Брагин Александр Александрович": 18,
-      "Грачев Дмитрий Николаевич": 112,
-      "Ильясов Руслан Ринатович": 43,
-      "Кислица Николай Николаевич": 18,
-      "Синельщиков Юрий Петрович": 205,
-      "Третьяк Владислав Александрович": 437
+      "gas:candidate-vibid:2732000842506": 41,
+      "gas:candidate-vibid:2732000844513": 18,
+      "gas:candidate-vibid:2732000825078": 112,
+      "gas:candidate-vibid:2732000843460": 43,
+      "gas:candidate-vibid:2732000843789": 18,
+      "gas:candidate-vibid:2732000832691": 205,
+      "gas:candidate-vibid:2732000839731": 437
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735897&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735897&type=464",
@@ -2608,13 +2608,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 23,
-      "Брагин Александр Александрович": 9,
-      "Грачев Дмитрий Николаевич": 69,
-      "Ильясов Руслан Ринатович": 22,
-      "Кислица Николай Николаевич": 6,
-      "Синельщиков Юрий Петрович": 115,
-      "Третьяк Владислав Александрович": 209
+      "gas:candidate-vibid:2732000842506": 23,
+      "gas:candidate-vibid:2732000844513": 9,
+      "gas:candidate-vibid:2732000825078": 69,
+      "gas:candidate-vibid:2732000843460": 22,
+      "gas:candidate-vibid:2732000843789": 6,
+      "gas:candidate-vibid:2732000832691": 115,
+      "gas:candidate-vibid:2732000839731": 209
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735897&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735897&type=464",
@@ -2665,13 +2665,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 46,
-      "Брагин Александр Александрович": 19,
-      "Грачев Дмитрий Николаевич": 123,
-      "Ильясов Руслан Ринатович": 35,
-      "Кислица Николай Николаевич": 10,
-      "Синельщиков Юрий Петрович": 192,
-      "Третьяк Владислав Александрович": 477
+      "gas:candidate-vibid:2732000842506": 46,
+      "gas:candidate-vibid:2732000844513": 19,
+      "gas:candidate-vibid:2732000825078": 123,
+      "gas:candidate-vibid:2732000843460": 35,
+      "gas:candidate-vibid:2732000843789": 10,
+      "gas:candidate-vibid:2732000832691": 192,
+      "gas:candidate-vibid:2732000839731": 477
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735897&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735897&type=464",
@@ -2722,13 +2722,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 39,
-      "Брагин Александр Александрович": 9,
-      "Грачев Дмитрий Николаевич": 119,
-      "Ильясов Руслан Ринатович": 23,
-      "Кислица Николай Николаевич": 10,
-      "Синельщиков Юрий Петрович": 138,
-      "Третьяк Владислав Александрович": 419
+      "gas:candidate-vibid:2732000842506": 39,
+      "gas:candidate-vibid:2732000844513": 9,
+      "gas:candidate-vibid:2732000825078": 119,
+      "gas:candidate-vibid:2732000843460": 23,
+      "gas:candidate-vibid:2732000843789": 10,
+      "gas:candidate-vibid:2732000832691": 138,
+      "gas:candidate-vibid:2732000839731": 419
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735897&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735897&type=464",
@@ -2779,13 +2779,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 21,
-      "Брагин Александр Александрович": 9,
-      "Грачев Дмитрий Николаевич": 40,
-      "Ильясов Руслан Ринатович": 16,
-      "Кислица Николай Николаевич": 9,
-      "Синельщиков Юрий Петрович": 80,
-      "Третьяк Владислав Александрович": 222
+      "gas:candidate-vibid:2732000842506": 21,
+      "gas:candidate-vibid:2732000844513": 9,
+      "gas:candidate-vibid:2732000825078": 40,
+      "gas:candidate-vibid:2732000843460": 16,
+      "gas:candidate-vibid:2732000843789": 9,
+      "gas:candidate-vibid:2732000832691": 80,
+      "gas:candidate-vibid:2732000839731": 222
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735897&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735897&type=464",
@@ -2836,13 +2836,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 58,
-      "Брагин Александр Александрович": 41,
-      "Грачев Дмитрий Николаевич": 169,
-      "Ильясов Руслан Ринатович": 65,
-      "Кислица Николай Николаевич": 17,
-      "Синельщиков Юрий Петрович": 259,
-      "Третьяк Владислав Александрович": 596
+      "gas:candidate-vibid:2732000842506": 58,
+      "gas:candidate-vibid:2732000844513": 41,
+      "gas:candidate-vibid:2732000825078": 169,
+      "gas:candidate-vibid:2732000843460": 65,
+      "gas:candidate-vibid:2732000843789": 17,
+      "gas:candidate-vibid:2732000832691": 259,
+      "gas:candidate-vibid:2732000839731": 596
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735897&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735897&type=464",
@@ -2893,13 +2893,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 40,
-      "Брагин Александр Александрович": 30,
-      "Грачев Дмитрий Николаевич": 143,
-      "Ильясов Руслан Ринатович": 37,
-      "Кислица Николай Николаевич": 20,
-      "Синельщиков Юрий Петрович": 233,
-      "Третьяк Владислав Александрович": 432
+      "gas:candidate-vibid:2732000842506": 40,
+      "gas:candidate-vibid:2732000844513": 30,
+      "gas:candidate-vibid:2732000825078": 143,
+      "gas:candidate-vibid:2732000843460": 37,
+      "gas:candidate-vibid:2732000843789": 20,
+      "gas:candidate-vibid:2732000832691": 233,
+      "gas:candidate-vibid:2732000839731": 432
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735897&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735897&type=464",
@@ -2950,13 +2950,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 43,
-      "Брагин Александр Александрович": 18,
-      "Грачев Дмитрий Николаевич": 131,
-      "Ильясов Руслан Ринатович": 32,
-      "Кислица Николай Николаевич": 8,
-      "Синельщиков Юрий Петрович": 143,
-      "Третьяк Владислав Александрович": 375
+      "gas:candidate-vibid:2732000842506": 43,
+      "gas:candidate-vibid:2732000844513": 18,
+      "gas:candidate-vibid:2732000825078": 131,
+      "gas:candidate-vibid:2732000843460": 32,
+      "gas:candidate-vibid:2732000843789": 8,
+      "gas:candidate-vibid:2732000832691": 143,
+      "gas:candidate-vibid:2732000839731": 375
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735897&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735897&type=464",
@@ -3007,13 +3007,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 38,
-      "Брагин Александр Александрович": 8,
-      "Грачев Дмитрий Николаевич": 79,
-      "Ильясов Руслан Ринатович": 20,
-      "Кислица Николай Николаевич": 9,
-      "Синельщиков Юрий Петрович": 118,
-      "Третьяк Владислав Александрович": 369
+      "gas:candidate-vibid:2732000842506": 38,
+      "gas:candidate-vibid:2732000844513": 8,
+      "gas:candidate-vibid:2732000825078": 79,
+      "gas:candidate-vibid:2732000843460": 20,
+      "gas:candidate-vibid:2732000843789": 9,
+      "gas:candidate-vibid:2732000832691": 118,
+      "gas:candidate-vibid:2732000839731": 369
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735897&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735897&type=464",
@@ -3064,13 +3064,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 52,
-      "Брагин Александр Александрович": 16,
-      "Грачев Дмитрий Николаевич": 100,
-      "Ильясов Руслан Ринатович": 16,
-      "Кислица Николай Николаевич": 17,
-      "Синельщиков Юрий Петрович": 159,
-      "Третьяк Владислав Александрович": 353
+      "gas:candidate-vibid:2732000842506": 52,
+      "gas:candidate-vibid:2732000844513": 16,
+      "gas:candidate-vibid:2732000825078": 100,
+      "gas:candidate-vibid:2732000843460": 16,
+      "gas:candidate-vibid:2732000843789": 17,
+      "gas:candidate-vibid:2732000832691": 159,
+      "gas:candidate-vibid:2732000839731": 353
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735897&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735897&type=464",
@@ -3121,13 +3121,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 31,
-      "Брагин Александр Александрович": 13,
-      "Грачев Дмитрий Николаевич": 96,
-      "Ильясов Руслан Ринатович": 24,
-      "Кислица Николай Николаевич": 9,
-      "Синельщиков Юрий Петрович": 136,
-      "Третьяк Владислав Александрович": 297
+      "gas:candidate-vibid:2732000842506": 31,
+      "gas:candidate-vibid:2732000844513": 13,
+      "gas:candidate-vibid:2732000825078": 96,
+      "gas:candidate-vibid:2732000843460": 24,
+      "gas:candidate-vibid:2732000843789": 9,
+      "gas:candidate-vibid:2732000832691": 136,
+      "gas:candidate-vibid:2732000839731": 297
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735897&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735897&type=464",
@@ -3178,13 +3178,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 36,
-      "Брагин Александр Александрович": 17,
-      "Грачев Дмитрий Николаевич": 118,
-      "Ильясов Руслан Ринатович": 30,
-      "Кислица Николай Николаевич": 13,
-      "Синельщиков Юрий Петрович": 164,
-      "Третьяк Владислав Александрович": 320
+      "gas:candidate-vibid:2732000842506": 36,
+      "gas:candidate-vibid:2732000844513": 17,
+      "gas:candidate-vibid:2732000825078": 118,
+      "gas:candidate-vibid:2732000843460": 30,
+      "gas:candidate-vibid:2732000843789": 13,
+      "gas:candidate-vibid:2732000832691": 164,
+      "gas:candidate-vibid:2732000839731": 320
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735897&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735897&type=464",
@@ -3235,13 +3235,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 37,
-      "Брагин Александр Александрович": 24,
-      "Грачев Дмитрий Николаевич": 153,
-      "Ильясов Руслан Ринатович": 37,
-      "Кислица Николай Николаевич": 13,
-      "Синельщиков Юрий Петрович": 245,
-      "Третьяк Владислав Александрович": 481
+      "gas:candidate-vibid:2732000842506": 37,
+      "gas:candidate-vibid:2732000844513": 24,
+      "gas:candidate-vibid:2732000825078": 153,
+      "gas:candidate-vibid:2732000843460": 37,
+      "gas:candidate-vibid:2732000843789": 13,
+      "gas:candidate-vibid:2732000832691": 245,
+      "gas:candidate-vibid:2732000839731": 481
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735897&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735897&type=464",
@@ -3292,13 +3292,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 46,
-      "Брагин Александр Александрович": 21,
-      "Грачев Дмитрий Николаевич": 153,
-      "Ильясов Руслан Ринатович": 43,
-      "Кислица Николай Николаевич": 22,
-      "Синельщиков Юрий Петрович": 271,
-      "Третьяк Владислав Александрович": 506
+      "gas:candidate-vibid:2732000842506": 46,
+      "gas:candidate-vibid:2732000844513": 21,
+      "gas:candidate-vibid:2732000825078": 153,
+      "gas:candidate-vibid:2732000843460": 43,
+      "gas:candidate-vibid:2732000843789": 22,
+      "gas:candidate-vibid:2732000832691": 271,
+      "gas:candidate-vibid:2732000839731": 506
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735897&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735897&type=464",
@@ -3349,13 +3349,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 52,
-      "Брагин Александр Александрович": 17,
-      "Грачев Дмитрий Николаевич": 150,
-      "Ильясов Руслан Ринатович": 53,
-      "Кислица Николай Николаевич": 14,
-      "Синельщиков Юрий Петрович": 211,
-      "Третьяк Владислав Александрович": 503
+      "gas:candidate-vibid:2732000842506": 52,
+      "gas:candidate-vibid:2732000844513": 17,
+      "gas:candidate-vibid:2732000825078": 150,
+      "gas:candidate-vibid:2732000843460": 53,
+      "gas:candidate-vibid:2732000843789": 14,
+      "gas:candidate-vibid:2732000832691": 211,
+      "gas:candidate-vibid:2732000839731": 503
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735897&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735897&type=464",
@@ -3406,13 +3406,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 77,
-      "Брагин Александр Александрович": 23,
-      "Грачев Дмитрий Николаевич": 189,
-      "Ильясов Руслан Ринатович": 38,
-      "Кислица Николай Николаевич": 13,
-      "Синельщиков Юрий Петрович": 268,
-      "Третьяк Владислав Александрович": 472
+      "gas:candidate-vibid:2732000842506": 77,
+      "gas:candidate-vibid:2732000844513": 23,
+      "gas:candidate-vibid:2732000825078": 189,
+      "gas:candidate-vibid:2732000843460": 38,
+      "gas:candidate-vibid:2732000843789": 13,
+      "gas:candidate-vibid:2732000832691": 268,
+      "gas:candidate-vibid:2732000839731": 472
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735897&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735897&type=464",
@@ -3463,13 +3463,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 31,
-      "Брагин Александр Александрович": 7,
-      "Грачев Дмитрий Николаевич": 93,
-      "Ильясов Руслан Ринатович": 26,
-      "Кислица Николай Николаевич": 12,
-      "Синельщиков Юрий Петрович": 118,
-      "Третьяк Владислав Александрович": 285
+      "gas:candidate-vibid:2732000842506": 31,
+      "gas:candidate-vibid:2732000844513": 7,
+      "gas:candidate-vibid:2732000825078": 93,
+      "gas:candidate-vibid:2732000843460": 26,
+      "gas:candidate-vibid:2732000843789": 12,
+      "gas:candidate-vibid:2732000832691": 118,
+      "gas:candidate-vibid:2732000839731": 285
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735897&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735897&type=464",
@@ -3520,13 +3520,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 40,
-      "Брагин Александр Александрович": 19,
-      "Грачев Дмитрий Николаевич": 91,
-      "Ильясов Руслан Ринатович": 28,
-      "Кислица Николай Николаевич": 14,
-      "Синельщиков Юрий Петрович": 188,
-      "Третьяк Владислав Александрович": 406
+      "gas:candidate-vibid:2732000842506": 40,
+      "gas:candidate-vibid:2732000844513": 19,
+      "gas:candidate-vibid:2732000825078": 91,
+      "gas:candidate-vibid:2732000843460": 28,
+      "gas:candidate-vibid:2732000843789": 14,
+      "gas:candidate-vibid:2732000832691": 188,
+      "gas:candidate-vibid:2732000839731": 406
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735897&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735897&type=464",
@@ -3577,13 +3577,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 24,
-      "Брагин Александр Александрович": 6,
-      "Грачев Дмитрий Николаевич": 50,
-      "Ильясов Руслан Ринатович": 12,
-      "Кислица Николай Николаевич": 8,
-      "Синельщиков Юрий Петрович": 64,
-      "Третьяк Владислав Александрович": 162
+      "gas:candidate-vibid:2732000842506": 24,
+      "gas:candidate-vibid:2732000844513": 6,
+      "gas:candidate-vibid:2732000825078": 50,
+      "gas:candidate-vibid:2732000843460": 12,
+      "gas:candidate-vibid:2732000843789": 8,
+      "gas:candidate-vibid:2732000832691": 64,
+      "gas:candidate-vibid:2732000839731": 162
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735897&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735897&type=464",
@@ -3634,13 +3634,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 27,
-      "Брагин Александр Александрович": 18,
-      "Грачев Дмитрий Николаевич": 98,
-      "Ильясов Руслан Ринатович": 26,
-      "Кислица Николай Николаевич": 12,
-      "Синельщиков Юрий Петрович": 107,
-      "Третьяк Владислав Александрович": 257
+      "gas:candidate-vibid:2732000842506": 27,
+      "gas:candidate-vibid:2732000844513": 18,
+      "gas:candidate-vibid:2732000825078": 98,
+      "gas:candidate-vibid:2732000843460": 26,
+      "gas:candidate-vibid:2732000843789": 12,
+      "gas:candidate-vibid:2732000832691": 107,
+      "gas:candidate-vibid:2732000839731": 257
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735897&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735897&type=464",
@@ -3691,13 +3691,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 26,
-      "Брагин Александр Александрович": 11,
-      "Грачев Дмитрий Николаевич": 37,
-      "Ильясов Руслан Ринатович": 7,
-      "Кислица Николай Николаевич": 7,
-      "Синельщиков Юрий Петрович": 41,
-      "Третьяк Владислав Александрович": 202
+      "gas:candidate-vibid:2732000842506": 26,
+      "gas:candidate-vibid:2732000844513": 11,
+      "gas:candidate-vibid:2732000825078": 37,
+      "gas:candidate-vibid:2732000843460": 7,
+      "gas:candidate-vibid:2732000843789": 7,
+      "gas:candidate-vibid:2732000832691": 41,
+      "gas:candidate-vibid:2732000839731": 202
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735897&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735897&type=464",
@@ -3748,13 +3748,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 46,
-      "Брагин Александр Александрович": 13,
-      "Грачев Дмитрий Николаевич": 139,
-      "Ильясов Руслан Ринатович": 42,
-      "Кислица Николай Николаевич": 11,
-      "Синельщиков Юрий Петрович": 137,
-      "Третьяк Владислав Александрович": 421
+      "gas:candidate-vibid:2732000842506": 46,
+      "gas:candidate-vibid:2732000844513": 13,
+      "gas:candidate-vibid:2732000825078": 139,
+      "gas:candidate-vibid:2732000843460": 42,
+      "gas:candidate-vibid:2732000843789": 11,
+      "gas:candidate-vibid:2732000832691": 137,
+      "gas:candidate-vibid:2732000839731": 421
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735897&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735897&type=464",
@@ -3805,13 +3805,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 11,
-      "Брагин Александр Александрович": 4,
-      "Грачев Дмитрий Николаевич": 27,
-      "Ильясов Руслан Ринатович": 18,
-      "Кислица Николай Николаевич": 9,
-      "Синельщиков Юрий Петрович": 53,
-      "Третьяк Владислав Александрович": 187
+      "gas:candidate-vibid:2732000842506": 11,
+      "gas:candidate-vibid:2732000844513": 4,
+      "gas:candidate-vibid:2732000825078": 27,
+      "gas:candidate-vibid:2732000843460": 18,
+      "gas:candidate-vibid:2732000843789": 9,
+      "gas:candidate-vibid:2732000832691": 53,
+      "gas:candidate-vibid:2732000839731": 187
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735897&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735897&type=464",
@@ -3862,13 +3862,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 36,
-      "Брагин Александр Александрович": 9,
-      "Грачев Дмитрий Николаевич": 62,
-      "Ильясов Руслан Ринатович": 20,
-      "Кислица Николай Николаевич": 4,
-      "Синельщиков Юрий Петрович": 77,
-      "Третьяк Владислав Александрович": 287
+      "gas:candidate-vibid:2732000842506": 36,
+      "gas:candidate-vibid:2732000844513": 9,
+      "gas:candidate-vibid:2732000825078": 62,
+      "gas:candidate-vibid:2732000843460": 20,
+      "gas:candidate-vibid:2732000843789": 4,
+      "gas:candidate-vibid:2732000832691": 77,
+      "gas:candidate-vibid:2732000839731": 287
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735897&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735897&type=464",
@@ -3919,13 +3919,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 7,
-      "Брагин Александр Александрович": 1,
-      "Грачев Дмитрий Николаевич": 15,
-      "Ильясов Руслан Ринатович": 5,
-      "Кислица Николай Николаевич": 1,
-      "Синельщиков Юрий Петрович": 30,
-      "Третьяк Владислав Александрович": 74
+      "gas:candidate-vibid:2732000842506": 7,
+      "gas:candidate-vibid:2732000844513": 1,
+      "gas:candidate-vibid:2732000825078": 15,
+      "gas:candidate-vibid:2732000843460": 5,
+      "gas:candidate-vibid:2732000843789": 1,
+      "gas:candidate-vibid:2732000832691": 30,
+      "gas:candidate-vibid:2732000839731": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735897&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735897&type=464",
@@ -3976,13 +3976,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 9,
-      "Брагин Александр Александрович": 1,
-      "Грачев Дмитрий Николаевич": 14,
-      "Ильясов Руслан Ринатович": 1,
-      "Кислица Николай Николаевич": 1,
-      "Синельщиков Юрий Петрович": 10,
-      "Третьяк Владислав Александрович": 70
+      "gas:candidate-vibid:2732000842506": 9,
+      "gas:candidate-vibid:2732000844513": 1,
+      "gas:candidate-vibid:2732000825078": 14,
+      "gas:candidate-vibid:2732000843460": 1,
+      "gas:candidate-vibid:2732000843789": 1,
+      "gas:candidate-vibid:2732000832691": 10,
+      "gas:candidate-vibid:2732000839731": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735897&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735897&type=464",
@@ -4033,13 +4033,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 38,
-      "Брагин Александр Александрович": 6,
-      "Грачев Дмитрий Николаевич": 94,
-      "Ильясов Руслан Ринатович": 86,
-      "Кислица Николай Николаевич": 5,
-      "Синельщиков Юрий Петрович": 113,
-      "Третьяк Владислав Александрович": 420
+      "gas:candidate-vibid:2732000842506": 38,
+      "gas:candidate-vibid:2732000844513": 6,
+      "gas:candidate-vibid:2732000825078": 94,
+      "gas:candidate-vibid:2732000843460": 86,
+      "gas:candidate-vibid:2732000843789": 5,
+      "gas:candidate-vibid:2732000832691": 113,
+      "gas:candidate-vibid:2732000839731": 420
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735897&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735897&type=464",
@@ -4090,13 +4090,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 42,
-      "Брагин Александр Александрович": 15,
-      "Грачев Дмитрий Николаевич": 114,
-      "Ильясов Руслан Ринатович": 33,
-      "Кислица Николай Николаевич": 7,
-      "Синельщиков Юрий Петрович": 132,
-      "Третьяк Владислав Александрович": 380
+      "gas:candidate-vibid:2732000842506": 42,
+      "gas:candidate-vibid:2732000844513": 15,
+      "gas:candidate-vibid:2732000825078": 114,
+      "gas:candidate-vibid:2732000843460": 33,
+      "gas:candidate-vibid:2732000843789": 7,
+      "gas:candidate-vibid:2732000832691": 132,
+      "gas:candidate-vibid:2732000839731": 380
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735897&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735897&type=464",
@@ -4147,13 +4147,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 31,
-      "Брагин Александр Александрович": 11,
-      "Грачев Дмитрий Николаевич": 114,
-      "Ильясов Руслан Ринатович": 17,
-      "Кислица Николай Николаевич": 9,
-      "Синельщиков Юрий Петрович": 122,
-      "Третьяк Владислав Александрович": 305
+      "gas:candidate-vibid:2732000842506": 31,
+      "gas:candidate-vibid:2732000844513": 11,
+      "gas:candidate-vibid:2732000825078": 114,
+      "gas:candidate-vibid:2732000843460": 17,
+      "gas:candidate-vibid:2732000843789": 9,
+      "gas:candidate-vibid:2732000832691": 122,
+      "gas:candidate-vibid:2732000839731": 305
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735897&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735897&type=464",
@@ -4204,13 +4204,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 23,
-      "Брагин Александр Александрович": 8,
-      "Грачев Дмитрий Николаевич": 46,
-      "Ильясов Руслан Ринатович": 12,
-      "Кислица Николай Николаевич": 4,
-      "Синельщиков Юрий Петрович": 70,
-      "Третьяк Владислав Александрович": 220
+      "gas:candidate-vibid:2732000842506": 23,
+      "gas:candidate-vibid:2732000844513": 8,
+      "gas:candidate-vibid:2732000825078": 46,
+      "gas:candidate-vibid:2732000843460": 12,
+      "gas:candidate-vibid:2732000843789": 4,
+      "gas:candidate-vibid:2732000832691": 70,
+      "gas:candidate-vibid:2732000839731": 220
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735897&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735897&type=464",
@@ -4261,13 +4261,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 10,
-      "Брагин Александр Александрович": 2,
-      "Грачев Дмитрий Николаевич": 51,
-      "Ильясов Руслан Ринатович": 1,
-      "Кислица Николай Николаевич": 1,
-      "Синельщиков Юрий Петрович": 35,
-      "Третьяк Владислав Александрович": 441
+      "gas:candidate-vibid:2732000842506": 10,
+      "gas:candidate-vibid:2732000844513": 2,
+      "gas:candidate-vibid:2732000825078": 51,
+      "gas:candidate-vibid:2732000843460": 1,
+      "gas:candidate-vibid:2732000843789": 1,
+      "gas:candidate-vibid:2732000832691": 35,
+      "gas:candidate-vibid:2732000839731": 441
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735898&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735898&type=464",
@@ -4318,13 +4318,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 4,
-      "Брагин Александр Александрович": 3,
-      "Грачев Дмитрий Николаевич": 25,
-      "Ильясов Руслан Ринатович": 1,
-      "Кислица Николай Николаевич": 1,
-      "Синельщиков Юрий Петрович": 25,
-      "Третьяк Владислав Александрович": 107
+      "gas:candidate-vibid:2732000842506": 4,
+      "gas:candidate-vibid:2732000844513": 3,
+      "gas:candidate-vibid:2732000825078": 25,
+      "gas:candidate-vibid:2732000843460": 1,
+      "gas:candidate-vibid:2732000843789": 1,
+      "gas:candidate-vibid:2732000832691": 25,
+      "gas:candidate-vibid:2732000839731": 107
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735898&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735898&type=464",
@@ -4375,13 +4375,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 0,
-      "Брагин Александр Александрович": 0,
-      "Грачев Дмитрий Николаевич": 15,
-      "Ильясов Руслан Ринатович": 1,
-      "Кислица Николай Николаевич": 0,
-      "Синельщиков Юрий Петрович": 4,
-      "Третьяк Владислав Александрович": 108
+      "gas:candidate-vibid:2732000842506": 0,
+      "gas:candidate-vibid:2732000844513": 0,
+      "gas:candidate-vibid:2732000825078": 15,
+      "gas:candidate-vibid:2732000843460": 1,
+      "gas:candidate-vibid:2732000843789": 0,
+      "gas:candidate-vibid:2732000832691": 4,
+      "gas:candidate-vibid:2732000839731": 108
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735898&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735898&type=464",
@@ -4432,13 +4432,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 6,
-      "Брагин Александр Александрович": 1,
-      "Грачев Дмитрий Николаевич": 36,
-      "Ильясов Руслан Ринатович": 4,
-      "Кислица Николай Николаевич": 1,
-      "Синельщиков Юрий Петрович": 26,
-      "Третьяк Владислав Александрович": 154
+      "gas:candidate-vibid:2732000842506": 6,
+      "gas:candidate-vibid:2732000844513": 1,
+      "gas:candidate-vibid:2732000825078": 36,
+      "gas:candidate-vibid:2732000843460": 4,
+      "gas:candidate-vibid:2732000843789": 1,
+      "gas:candidate-vibid:2732000832691": 26,
+      "gas:candidate-vibid:2732000839731": 154
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735898&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735898&type=464",
@@ -4489,13 +4489,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 4,
-      "Брагин Александр Александрович": 1,
-      "Грачев Дмитрий Николаевич": 7,
-      "Ильясов Руслан Ринатович": 0,
-      "Кислица Николай Николаевич": 0,
-      "Синельщиков Юрий Петрович": 1,
-      "Третьяк Владислав Александрович": 60
+      "gas:candidate-vibid:2732000842506": 4,
+      "gas:candidate-vibid:2732000844513": 1,
+      "gas:candidate-vibid:2732000825078": 7,
+      "gas:candidate-vibid:2732000843460": 0,
+      "gas:candidate-vibid:2732000843789": 0,
+      "gas:candidate-vibid:2732000832691": 1,
+      "gas:candidate-vibid:2732000839731": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735898&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735898&type=464",
@@ -4546,13 +4546,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 0,
-      "Брагин Александр Александрович": 0,
-      "Грачев Дмитрий Николаевич": 6,
-      "Ильясов Руслан Ринатович": 0,
-      "Кислица Николай Николаевич": 0,
-      "Синельщиков Юрий Петрович": 0,
-      "Третьяк Владислав Александрович": 65
+      "gas:candidate-vibid:2732000842506": 0,
+      "gas:candidate-vibid:2732000844513": 0,
+      "gas:candidate-vibid:2732000825078": 6,
+      "gas:candidate-vibid:2732000843460": 0,
+      "gas:candidate-vibid:2732000843789": 0,
+      "gas:candidate-vibid:2732000832691": 0,
+      "gas:candidate-vibid:2732000839731": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735898&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735898&type=464",
@@ -4603,13 +4603,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 13,
-      "Брагин Александр Александрович": 8,
-      "Грачев Дмитрий Николаевич": 42,
-      "Ильясов Руслан Ринатович": 4,
-      "Кислица Николай Николаевич": 0,
-      "Синельщиков Юрий Петрович": 39,
-      "Третьяк Владислав Александрович": 303
+      "gas:candidate-vibid:2732000842506": 13,
+      "gas:candidate-vibid:2732000844513": 8,
+      "gas:candidate-vibid:2732000825078": 42,
+      "gas:candidate-vibid:2732000843460": 4,
+      "gas:candidate-vibid:2732000843789": 0,
+      "gas:candidate-vibid:2732000832691": 39,
+      "gas:candidate-vibid:2732000839731": 303
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735898&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735898&type=464",
@@ -4660,13 +4660,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 8,
-      "Брагин Александр Александрович": 4,
-      "Грачев Дмитрий Николаевич": 19,
-      "Ильясов Руслан Ринатович": 4,
-      "Кислица Николай Николаевич": 0,
-      "Синельщиков Юрий Петрович": 6,
-      "Третьяк Владислав Александрович": 213
+      "gas:candidate-vibid:2732000842506": 8,
+      "gas:candidate-vibid:2732000844513": 4,
+      "gas:candidate-vibid:2732000825078": 19,
+      "gas:candidate-vibid:2732000843460": 4,
+      "gas:candidate-vibid:2732000843789": 0,
+      "gas:candidate-vibid:2732000832691": 6,
+      "gas:candidate-vibid:2732000839731": 213
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735898&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735898&type=464",
@@ -4717,13 +4717,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 0,
-      "Брагин Александр Александрович": 0,
-      "Грачев Дмитрий Николаевич": 2,
-      "Ильясов Руслан Ринатович": 0,
-      "Кислица Николай Николаевич": 0,
-      "Синельщиков Юрий Петрович": 1,
-      "Третьяк Владислав Александрович": 51
+      "gas:candidate-vibid:2732000842506": 0,
+      "gas:candidate-vibid:2732000844513": 0,
+      "gas:candidate-vibid:2732000825078": 2,
+      "gas:candidate-vibid:2732000843460": 0,
+      "gas:candidate-vibid:2732000843789": 0,
+      "gas:candidate-vibid:2732000832691": 1,
+      "gas:candidate-vibid:2732000839731": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735898&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735898&type=464",
@@ -4774,13 +4774,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 2,
-      "Брагин Александр Александрович": 0,
-      "Грачев Дмитрий Николаевич": 10,
-      "Ильясов Руслан Ринатович": 1,
-      "Кислица Николай Николаевич": 0,
-      "Синельщиков Юрий Петрович": 2,
-      "Третьяк Владислав Александрович": 134
+      "gas:candidate-vibid:2732000842506": 2,
+      "gas:candidate-vibid:2732000844513": 0,
+      "gas:candidate-vibid:2732000825078": 10,
+      "gas:candidate-vibid:2732000843460": 1,
+      "gas:candidate-vibid:2732000843789": 0,
+      "gas:candidate-vibid:2732000832691": 2,
+      "gas:candidate-vibid:2732000839731": 134
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735898&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735898&type=464",
@@ -4831,13 +4831,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 5,
-      "Брагин Александр Александрович": 0,
-      "Грачев Дмитрий Николаевич": 9,
-      "Ильясов Руслан Ринатович": 2,
-      "Кислица Николай Николаевич": 0,
-      "Синельщиков Юрий Петрович": 13,
-      "Третьяк Владислав Александрович": 94
+      "gas:candidate-vibid:2732000842506": 5,
+      "gas:candidate-vibid:2732000844513": 0,
+      "gas:candidate-vibid:2732000825078": 9,
+      "gas:candidate-vibid:2732000843460": 2,
+      "gas:candidate-vibid:2732000843789": 0,
+      "gas:candidate-vibid:2732000832691": 13,
+      "gas:candidate-vibid:2732000839731": 94
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735898&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735898&type=464",
@@ -4888,13 +4888,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 9,
-      "Брагин Александр Александрович": 3,
-      "Грачев Дмитрий Николаевич": 13,
-      "Ильясов Руслан Ринатович": 2,
-      "Кислица Николай Николаевич": 0,
-      "Синельщиков Юрий Петрович": 14,
-      "Третьяк Владислав Александрович": 102
+      "gas:candidate-vibid:2732000842506": 9,
+      "gas:candidate-vibid:2732000844513": 3,
+      "gas:candidate-vibid:2732000825078": 13,
+      "gas:candidate-vibid:2732000843460": 2,
+      "gas:candidate-vibid:2732000843789": 0,
+      "gas:candidate-vibid:2732000832691": 14,
+      "gas:candidate-vibid:2732000839731": 102
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735898&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735898&type=464",
@@ -4945,13 +4945,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 10,
-      "Брагин Александр Александрович": 0,
-      "Грачев Дмитрий Николаевич": 14,
-      "Ильясов Руслан Ринатович": 1,
-      "Кислица Николай Николаевич": 0,
-      "Синельщиков Юрий Петрович": 22,
-      "Третьяк Владислав Александрович": 235
+      "gas:candidate-vibid:2732000842506": 10,
+      "gas:candidate-vibid:2732000844513": 0,
+      "gas:candidate-vibid:2732000825078": 14,
+      "gas:candidate-vibid:2732000843460": 1,
+      "gas:candidate-vibid:2732000843789": 0,
+      "gas:candidate-vibid:2732000832691": 22,
+      "gas:candidate-vibid:2732000839731": 235
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735898&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735898&type=464",
@@ -5002,13 +5002,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 0,
-      "Брагин Александр Александрович": 0,
-      "Грачев Дмитрий Николаевич": 0,
-      "Ильясов Руслан Ринатович": 0,
-      "Кислица Николай Николаевич": 0,
-      "Синельщиков Юрий Петрович": 2,
-      "Третьяк Владислав Александрович": 48
+      "gas:candidate-vibid:2732000842506": 0,
+      "gas:candidate-vibid:2732000844513": 0,
+      "gas:candidate-vibid:2732000825078": 0,
+      "gas:candidate-vibid:2732000843460": 0,
+      "gas:candidate-vibid:2732000843789": 0,
+      "gas:candidate-vibid:2732000832691": 2,
+      "gas:candidate-vibid:2732000839731": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735898&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735898&type=464",
@@ -5059,13 +5059,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 3,
-      "Брагин Александр Александрович": 1,
-      "Грачев Дмитрий Николаевич": 27,
-      "Ильясов Руслан Ринатович": 1,
-      "Кислица Николай Николаевич": 2,
-      "Синельщиков Юрий Петрович": 42,
-      "Третьяк Владислав Александрович": 605
+      "gas:candidate-vibid:2732000842506": 3,
+      "gas:candidate-vibid:2732000844513": 1,
+      "gas:candidate-vibid:2732000825078": 27,
+      "gas:candidate-vibid:2732000843460": 1,
+      "gas:candidate-vibid:2732000843789": 2,
+      "gas:candidate-vibid:2732000832691": 42,
+      "gas:candidate-vibid:2732000839731": 605
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735898&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735898&type=464",
@@ -5116,13 +5116,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 0,
-      "Брагин Александр Александрович": 0,
-      "Грачев Дмитрий Николаевич": 5,
-      "Ильясов Руслан Ринатович": 0,
-      "Кислица Николай Николаевич": 0,
-      "Синельщиков Юрий Петрович": 4,
-      "Третьяк Владислав Александрович": 70
+      "gas:candidate-vibid:2732000842506": 0,
+      "gas:candidate-vibid:2732000844513": 0,
+      "gas:candidate-vibid:2732000825078": 5,
+      "gas:candidate-vibid:2732000843460": 0,
+      "gas:candidate-vibid:2732000843789": 0,
+      "gas:candidate-vibid:2732000832691": 4,
+      "gas:candidate-vibid:2732000839731": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735898&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735898&type=464",
@@ -5173,13 +5173,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 6,
-      "Брагин Александр Александрович": 2,
-      "Грачев Дмитрий Николаевич": 23,
-      "Ильясов Руслан Ринатович": 3,
-      "Кислица Николай Николаевич": 2,
-      "Синельщиков Юрий Петрович": 36,
-      "Третьяк Владислав Александрович": 171
+      "gas:candidate-vibid:2732000842506": 6,
+      "gas:candidate-vibid:2732000844513": 2,
+      "gas:candidate-vibid:2732000825078": 23,
+      "gas:candidate-vibid:2732000843460": 3,
+      "gas:candidate-vibid:2732000843789": 2,
+      "gas:candidate-vibid:2732000832691": 36,
+      "gas:candidate-vibid:2732000839731": 171
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735898&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735898&type=464",
@@ -5230,13 +5230,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 5,
-      "Брагин Александр Александрович": 6,
-      "Грачев Дмитрий Николаевич": 62,
-      "Ильясов Руслан Ринатович": 6,
-      "Кислица Николай Николаевич": 6,
-      "Синельщиков Юрий Петрович": 115,
-      "Третьяк Владислав Александрович": 909
+      "gas:candidate-vibid:2732000842506": 5,
+      "gas:candidate-vibid:2732000844513": 6,
+      "gas:candidate-vibid:2732000825078": 62,
+      "gas:candidate-vibid:2732000843460": 6,
+      "gas:candidate-vibid:2732000843789": 6,
+      "gas:candidate-vibid:2732000832691": 115,
+      "gas:candidate-vibid:2732000839731": 909
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735898&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735898&type=464",
@@ -5287,13 +5287,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 28,
-      "Брагин Александр Александрович": 9,
-      "Грачев Дмитрий Николаевич": 77,
-      "Ильясов Руслан Ринатович": 9,
-      "Кислица Николай Николаевич": 5,
-      "Синельщиков Юрий Петрович": 114,
-      "Третьяк Владислав Александрович": 726
+      "gas:candidate-vibid:2732000842506": 28,
+      "gas:candidate-vibid:2732000844513": 9,
+      "gas:candidate-vibid:2732000825078": 77,
+      "gas:candidate-vibid:2732000843460": 9,
+      "gas:candidate-vibid:2732000843789": 5,
+      "gas:candidate-vibid:2732000832691": 114,
+      "gas:candidate-vibid:2732000839731": 726
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735898&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735898&type=464",
@@ -5344,13 +5344,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 6,
-      "Брагин Александр Александрович": 3,
-      "Грачев Дмитрий Николаевич": 27,
-      "Ильясов Руслан Ринатович": 4,
-      "Кислица Николай Николаевич": 2,
-      "Синельщиков Юрий Петрович": 18,
-      "Третьяк Владислав Александрович": 745
+      "gas:candidate-vibid:2732000842506": 6,
+      "gas:candidate-vibid:2732000844513": 3,
+      "gas:candidate-vibid:2732000825078": 27,
+      "gas:candidate-vibid:2732000843460": 4,
+      "gas:candidate-vibid:2732000843789": 2,
+      "gas:candidate-vibid:2732000832691": 18,
+      "gas:candidate-vibid:2732000839731": 745
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735898&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735898&type=464",
@@ -5401,13 +5401,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 26,
-      "Брагин Александр Александрович": 9,
-      "Грачев Дмитрий Николаевич": 85,
-      "Ильясов Руслан Ринатович": 7,
-      "Кислица Николай Николаевич": 2,
-      "Синельщиков Юрий Петрович": 126,
-      "Третьяк Владислав Александрович": 712
+      "gas:candidate-vibid:2732000842506": 26,
+      "gas:candidate-vibid:2732000844513": 9,
+      "gas:candidate-vibid:2732000825078": 85,
+      "gas:candidate-vibid:2732000843460": 7,
+      "gas:candidate-vibid:2732000843789": 2,
+      "gas:candidate-vibid:2732000832691": 126,
+      "gas:candidate-vibid:2732000839731": 712
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735898&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735898&type=464",
@@ -5458,13 +5458,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 5,
-      "Брагин Александр Александрович": 0,
-      "Грачев Дмитрий Николаевич": 30,
-      "Ильясов Руслан Ринатович": 2,
-      "Кислица Николай Николаевич": 3,
-      "Синельщиков Юрий Петрович": 6,
-      "Третьяк Владислав Александрович": 125
+      "gas:candidate-vibid:2732000842506": 5,
+      "gas:candidate-vibid:2732000844513": 0,
+      "gas:candidate-vibid:2732000825078": 30,
+      "gas:candidate-vibid:2732000843460": 2,
+      "gas:candidate-vibid:2732000843789": 3,
+      "gas:candidate-vibid:2732000832691": 6,
+      "gas:candidate-vibid:2732000839731": 125
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735898&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735898&type=464",
@@ -5515,13 +5515,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 12,
-      "Брагин Александр Александрович": 2,
-      "Грачев Дмитрий Николаевич": 23,
-      "Ильясов Руслан Ринатович": 1,
-      "Кислица Николай Николаевич": 3,
-      "Синельщиков Юрий Петрович": 47,
-      "Третьяк Владислав Александрович": 303
+      "gas:candidate-vibid:2732000842506": 12,
+      "gas:candidate-vibid:2732000844513": 2,
+      "gas:candidate-vibid:2732000825078": 23,
+      "gas:candidate-vibid:2732000843460": 1,
+      "gas:candidate-vibid:2732000843789": 3,
+      "gas:candidate-vibid:2732000832691": 47,
+      "gas:candidate-vibid:2732000839731": 303
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735898&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735898&type=464",
@@ -5572,13 +5572,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 6,
-      "Брагин Александр Александрович": 2,
-      "Грачев Дмитрий Николаевич": 17,
-      "Ильясов Руслан Ринатович": 1,
-      "Кислица Николай Николаевич": 1,
-      "Синельщиков Юрий Петрович": 4,
-      "Третьяк Владислав Александрович": 158
+      "gas:candidate-vibid:2732000842506": 6,
+      "gas:candidate-vibid:2732000844513": 2,
+      "gas:candidate-vibid:2732000825078": 17,
+      "gas:candidate-vibid:2732000843460": 1,
+      "gas:candidate-vibid:2732000843789": 1,
+      "gas:candidate-vibid:2732000832691": 4,
+      "gas:candidate-vibid:2732000839731": 158
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735898&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735898&type=464",
@@ -5629,13 +5629,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 2,
-      "Брагин Александр Александрович": 1,
-      "Грачев Дмитрий Николаевич": 7,
-      "Ильясов Руслан Ринатович": 2,
-      "Кислица Николай Николаевич": 0,
-      "Синельщиков Юрий Петрович": 5,
-      "Третьяк Владислав Александрович": 84
+      "gas:candidate-vibid:2732000842506": 2,
+      "gas:candidate-vibid:2732000844513": 1,
+      "gas:candidate-vibid:2732000825078": 7,
+      "gas:candidate-vibid:2732000843460": 2,
+      "gas:candidate-vibid:2732000843789": 0,
+      "gas:candidate-vibid:2732000832691": 5,
+      "gas:candidate-vibid:2732000839731": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735898&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735898&type=464",
@@ -5686,13 +5686,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 1,
-      "Брагин Александр Александрович": 1,
-      "Грачев Дмитрий Николаевич": 2,
-      "Ильясов Руслан Ринатович": 1,
-      "Кислица Николай Николаевич": 1,
-      "Синельщиков Юрий Петрович": 13,
-      "Третьяк Владислав Александрович": 82
+      "gas:candidate-vibid:2732000842506": 1,
+      "gas:candidate-vibid:2732000844513": 1,
+      "gas:candidate-vibid:2732000825078": 2,
+      "gas:candidate-vibid:2732000843460": 1,
+      "gas:candidate-vibid:2732000843789": 1,
+      "gas:candidate-vibid:2732000832691": 13,
+      "gas:candidate-vibid:2732000839731": 82
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735898&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735898&type=464",
@@ -5743,13 +5743,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 5,
-      "Брагин Александр Александрович": 4,
-      "Грачев Дмитрий Николаевич": 7,
-      "Ильясов Руслан Ринатович": 0,
-      "Кислица Николай Николаевич": 0,
-      "Синельщиков Юрий Петрович": 10,
-      "Третьяк Владислав Александрович": 73
+      "gas:candidate-vibid:2732000842506": 5,
+      "gas:candidate-vibid:2732000844513": 4,
+      "gas:candidate-vibid:2732000825078": 7,
+      "gas:candidate-vibid:2732000843460": 0,
+      "gas:candidate-vibid:2732000843789": 0,
+      "gas:candidate-vibid:2732000832691": 10,
+      "gas:candidate-vibid:2732000839731": 73
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735898&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735898&type=464",
@@ -5800,13 +5800,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 5,
-      "Брагин Александр Александрович": 2,
-      "Грачев Дмитрий Николаевич": 24,
-      "Ильясов Руслан Ринатович": 2,
-      "Кислица Николай Николаевич": 1,
-      "Синельщиков Юрий Петрович": 14,
-      "Третьяк Владислав Александрович": 186
+      "gas:candidate-vibid:2732000842506": 5,
+      "gas:candidate-vibid:2732000844513": 2,
+      "gas:candidate-vibid:2732000825078": 24,
+      "gas:candidate-vibid:2732000843460": 2,
+      "gas:candidate-vibid:2732000843789": 1,
+      "gas:candidate-vibid:2732000832691": 14,
+      "gas:candidate-vibid:2732000839731": 186
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735898&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735898&type=464",
@@ -5857,13 +5857,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 5,
-      "Брагин Александр Александрович": 0,
-      "Грачев Дмитрий Николаевич": 4,
-      "Ильясов Руслан Ринатович": 0,
-      "Кислица Николай Николаевич": 0,
-      "Синельщиков Юрий Петрович": 8,
-      "Третьяк Владислав Александрович": 164
+      "gas:candidate-vibid:2732000842506": 5,
+      "gas:candidate-vibid:2732000844513": 0,
+      "gas:candidate-vibid:2732000825078": 4,
+      "gas:candidate-vibid:2732000843460": 0,
+      "gas:candidate-vibid:2732000843789": 0,
+      "gas:candidate-vibid:2732000832691": 8,
+      "gas:candidate-vibid:2732000839731": 164
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735898&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735898&type=464",
@@ -5914,13 +5914,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 6,
-      "Брагин Александр Александрович": 0,
-      "Грачев Дмитрий Николаевич": 8,
-      "Ильясов Руслан Ринатович": 3,
-      "Кислица Николай Николаевич": 0,
-      "Синельщиков Юрий Петрович": 12,
-      "Третьяк Владислав Александрович": 182
+      "gas:candidate-vibid:2732000842506": 6,
+      "gas:candidate-vibid:2732000844513": 0,
+      "gas:candidate-vibid:2732000825078": 8,
+      "gas:candidate-vibid:2732000843460": 3,
+      "gas:candidate-vibid:2732000843789": 0,
+      "gas:candidate-vibid:2732000832691": 12,
+      "gas:candidate-vibid:2732000839731": 182
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735898&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735898&type=464",
@@ -5971,13 +5971,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 0,
-      "Брагин Александр Александрович": 1,
-      "Грачев Дмитрий Николаевич": 5,
-      "Ильясов Руслан Ринатович": 0,
-      "Кислица Николай Николаевич": 0,
-      "Синельщиков Юрий Петрович": 3,
-      "Третьяк Владислав Александрович": 110
+      "gas:candidate-vibid:2732000842506": 0,
+      "gas:candidate-vibid:2732000844513": 1,
+      "gas:candidate-vibid:2732000825078": 5,
+      "gas:candidate-vibid:2732000843460": 0,
+      "gas:candidate-vibid:2732000843789": 0,
+      "gas:candidate-vibid:2732000832691": 3,
+      "gas:candidate-vibid:2732000839731": 110
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735898&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735898&type=464",
@@ -6028,13 +6028,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 1,
-      "Брагин Александр Александрович": 0,
-      "Грачев Дмитрий Николаевич": 4,
-      "Ильясов Руслан Ринатович": 1,
-      "Кислица Николай Николаевич": 1,
-      "Синельщиков Юрий Петрович": 1,
-      "Третьяк Владислав Александрович": 83
+      "gas:candidate-vibid:2732000842506": 1,
+      "gas:candidate-vibid:2732000844513": 0,
+      "gas:candidate-vibid:2732000825078": 4,
+      "gas:candidate-vibid:2732000843460": 1,
+      "gas:candidate-vibid:2732000843789": 1,
+      "gas:candidate-vibid:2732000832691": 1,
+      "gas:candidate-vibid:2732000839731": 83
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735898&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735898&type=464",
@@ -6085,13 +6085,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 7,
-      "Брагин Александр Александрович": 4,
-      "Грачев Дмитрий Николаевич": 20,
-      "Ильясов Руслан Ринатович": 1,
-      "Кислица Николай Николаевич": 5,
-      "Синельщиков Юрий Петрович": 11,
-      "Третьяк Владислав Александрович": 332
+      "gas:candidate-vibid:2732000842506": 7,
+      "gas:candidate-vibid:2732000844513": 4,
+      "gas:candidate-vibid:2732000825078": 20,
+      "gas:candidate-vibid:2732000843460": 1,
+      "gas:candidate-vibid:2732000843789": 5,
+      "gas:candidate-vibid:2732000832691": 11,
+      "gas:candidate-vibid:2732000839731": 332
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735898&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735898&type=464",
@@ -6142,13 +6142,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 3,
-      "Брагин Александр Александрович": 0,
-      "Грачев Дмитрий Николаевич": 6,
-      "Ильясов Руслан Ринатович": 0,
-      "Кислица Николай Николаевич": 0,
-      "Синельщиков Юрий Петрович": 8,
-      "Третьяк Владислав Александрович": 160
+      "gas:candidate-vibid:2732000842506": 3,
+      "gas:candidate-vibid:2732000844513": 0,
+      "gas:candidate-vibid:2732000825078": 6,
+      "gas:candidate-vibid:2732000843460": 0,
+      "gas:candidate-vibid:2732000843789": 0,
+      "gas:candidate-vibid:2732000832691": 8,
+      "gas:candidate-vibid:2732000839731": 160
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735898&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735898&type=464",
@@ -6199,13 +6199,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 6,
-      "Брагин Александр Александрович": 2,
-      "Грачев Дмитрий Николаевич": 9,
-      "Ильясов Руслан Ринатович": 2,
-      "Кислица Николай Николаевич": 0,
-      "Синельщиков Юрий Петрович": 7,
-      "Третьяк Владислав Александрович": 152
+      "gas:candidate-vibid:2732000842506": 6,
+      "gas:candidate-vibid:2732000844513": 2,
+      "gas:candidate-vibid:2732000825078": 9,
+      "gas:candidate-vibid:2732000843460": 2,
+      "gas:candidate-vibid:2732000843789": 0,
+      "gas:candidate-vibid:2732000832691": 7,
+      "gas:candidate-vibid:2732000839731": 152
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735898&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735898&type=464",
@@ -6256,13 +6256,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 0,
-      "Брагин Александр Александрович": 0,
-      "Грачев Дмитрий Николаевич": 8,
-      "Ильясов Руслан Ринатович": 0,
-      "Кислица Николай Николаевич": 0,
-      "Синельщиков Юрий Петрович": 16,
-      "Третьяк Владислав Александрович": 329
+      "gas:candidate-vibid:2732000842506": 0,
+      "gas:candidate-vibid:2732000844513": 0,
+      "gas:candidate-vibid:2732000825078": 8,
+      "gas:candidate-vibid:2732000843460": 0,
+      "gas:candidate-vibid:2732000843789": 0,
+      "gas:candidate-vibid:2732000832691": 16,
+      "gas:candidate-vibid:2732000839731": 329
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735898&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735898&type=464",
@@ -6313,13 +6313,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 27,
-      "Брагин Александр Александрович": 14,
-      "Грачев Дмитрий Николаевич": 75,
-      "Ильясов Руслан Ринатович": 130,
-      "Кислица Николай Николаевич": 13,
-      "Синельщиков Юрий Петрович": 245,
-      "Третьяк Владислав Александрович": 1124
+      "gas:candidate-vibid:2732000842506": 27,
+      "gas:candidate-vibid:2732000844513": 14,
+      "gas:candidate-vibid:2732000825078": 75,
+      "gas:candidate-vibid:2732000843460": 130,
+      "gas:candidate-vibid:2732000843789": 13,
+      "gas:candidate-vibid:2732000832691": 245,
+      "gas:candidate-vibid:2732000839731": 1124
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735899&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735899&type=464",
@@ -6370,13 +6370,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 31,
-      "Брагин Александр Александрович": 6,
-      "Грачев Дмитрий Николаевич": 54,
-      "Ильясов Руслан Ринатович": 122,
-      "Кислица Николай Николаевич": 9,
-      "Синельщиков Юрий Петрович": 158,
-      "Третьяк Владислав Александрович": 710
+      "gas:candidate-vibid:2732000842506": 31,
+      "gas:candidate-vibid:2732000844513": 6,
+      "gas:candidate-vibid:2732000825078": 54,
+      "gas:candidate-vibid:2732000843460": 122,
+      "gas:candidate-vibid:2732000843789": 9,
+      "gas:candidate-vibid:2732000832691": 158,
+      "gas:candidate-vibid:2732000839731": 710
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735899&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735899&type=464",
@@ -6427,13 +6427,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 10,
-      "Брагин Александр Александрович": 5,
-      "Грачев Дмитрий Николаевич": 18,
-      "Ильясов Руслан Ринатович": 20,
-      "Кислица Николай Николаевич": 2,
-      "Синельщиков Юрий Петрович": 47,
-      "Третьяк Владислав Александрович": 442
+      "gas:candidate-vibid:2732000842506": 10,
+      "gas:candidate-vibid:2732000844513": 5,
+      "gas:candidate-vibid:2732000825078": 18,
+      "gas:candidate-vibid:2732000843460": 20,
+      "gas:candidate-vibid:2732000843789": 2,
+      "gas:candidate-vibid:2732000832691": 47,
+      "gas:candidate-vibid:2732000839731": 442
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735899&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735899&type=464",
@@ -6484,13 +6484,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 10,
-      "Брагин Александр Александрович": 1,
-      "Грачев Дмитрий Николаевич": 8,
-      "Ильясов Руслан Ринатович": 23,
-      "Кислица Николай Николаевич": 2,
-      "Синельщиков Юрий Петрович": 17,
-      "Третьяк Владислав Александрович": 351
+      "gas:candidate-vibid:2732000842506": 10,
+      "gas:candidate-vibid:2732000844513": 1,
+      "gas:candidate-vibid:2732000825078": 8,
+      "gas:candidate-vibid:2732000843460": 23,
+      "gas:candidate-vibid:2732000843789": 2,
+      "gas:candidate-vibid:2732000832691": 17,
+      "gas:candidate-vibid:2732000839731": 351
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735899&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735899&type=464",
@@ -6541,13 +6541,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 8,
-      "Брагин Александр Александрович": 2,
-      "Грачев Дмитрий Николаевич": 16,
-      "Ильясов Руслан Ринатович": 13,
-      "Кислица Николай Николаевич": 5,
-      "Синельщиков Юрий Петрович": 27,
-      "Третьяк Владислав Александрович": 203
+      "gas:candidate-vibid:2732000842506": 8,
+      "gas:candidate-vibid:2732000844513": 2,
+      "gas:candidate-vibid:2732000825078": 16,
+      "gas:candidate-vibid:2732000843460": 13,
+      "gas:candidate-vibid:2732000843789": 5,
+      "gas:candidate-vibid:2732000832691": 27,
+      "gas:candidate-vibid:2732000839731": 203
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735899&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735899&type=464",
@@ -6598,13 +6598,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 0,
-      "Брагин Александр Александрович": 0,
-      "Грачев Дмитрий Николаевич": 4,
-      "Ильясов Руслан Ринатович": 2,
-      "Кислица Николай Николаевич": 3,
-      "Синельщиков Юрий Петрович": 8,
-      "Третьяк Владислав Александрович": 73
+      "gas:candidate-vibid:2732000842506": 0,
+      "gas:candidate-vibid:2732000844513": 0,
+      "gas:candidate-vibid:2732000825078": 4,
+      "gas:candidate-vibid:2732000843460": 2,
+      "gas:candidate-vibid:2732000843789": 3,
+      "gas:candidate-vibid:2732000832691": 8,
+      "gas:candidate-vibid:2732000839731": 73
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735899&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735899&type=464",
@@ -6655,13 +6655,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 1,
-      "Брагин Александр Александрович": 0,
-      "Грачев Дмитрий Николаевич": 5,
-      "Ильясов Руслан Ринатович": 3,
-      "Кислица Николай Николаевич": 0,
-      "Синельщиков Юрий Петрович": 6,
-      "Третьяк Владислав Александрович": 99
+      "gas:candidate-vibid:2732000842506": 1,
+      "gas:candidate-vibid:2732000844513": 0,
+      "gas:candidate-vibid:2732000825078": 5,
+      "gas:candidate-vibid:2732000843460": 3,
+      "gas:candidate-vibid:2732000843789": 0,
+      "gas:candidate-vibid:2732000832691": 6,
+      "gas:candidate-vibid:2732000839731": 99
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735899&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735899&type=464",
@@ -6712,13 +6712,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 3,
-      "Брагин Александр Александрович": 0,
-      "Грачев Дмитрий Николаевич": 2,
-      "Ильясов Руслан Ринатович": 9,
-      "Кислица Николай Николаевич": 1,
-      "Синельщиков Юрий Петрович": 18,
-      "Третьяк Владислав Александрович": 247
+      "gas:candidate-vibid:2732000842506": 3,
+      "gas:candidate-vibid:2732000844513": 0,
+      "gas:candidate-vibid:2732000825078": 2,
+      "gas:candidate-vibid:2732000843460": 9,
+      "gas:candidate-vibid:2732000843789": 1,
+      "gas:candidate-vibid:2732000832691": 18,
+      "gas:candidate-vibid:2732000839731": 247
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735899&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735899&type=464",
@@ -6769,13 +6769,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 8,
-      "Брагин Александр Александрович": 5,
-      "Грачев Дмитрий Николаевич": 14,
-      "Ильясов Руслан Ринатович": 10,
-      "Кислица Николай Николаевич": 2,
-      "Синельщиков Юрий Петрович": 28,
-      "Третьяк Владислав Александрович": 421
+      "gas:candidate-vibid:2732000842506": 8,
+      "gas:candidate-vibid:2732000844513": 5,
+      "gas:candidate-vibid:2732000825078": 14,
+      "gas:candidate-vibid:2732000843460": 10,
+      "gas:candidate-vibid:2732000843789": 2,
+      "gas:candidate-vibid:2732000832691": 28,
+      "gas:candidate-vibid:2732000839731": 421
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735899&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735899&type=464",
@@ -6826,13 +6826,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 12,
-      "Брагин Александр Александрович": 1,
-      "Грачев Дмитрий Николаевич": 5,
-      "Ильясов Руслан Ринатович": 3,
-      "Кислица Николай Николаевич": 0,
-      "Синельщиков Юрий Петрович": 6,
-      "Третьяк Владислав Александрович": 178
+      "gas:candidate-vibid:2732000842506": 12,
+      "gas:candidate-vibid:2732000844513": 1,
+      "gas:candidate-vibid:2732000825078": 5,
+      "gas:candidate-vibid:2732000843460": 3,
+      "gas:candidate-vibid:2732000843789": 0,
+      "gas:candidate-vibid:2732000832691": 6,
+      "gas:candidate-vibid:2732000839731": 178
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735899&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735899&type=464",
@@ -6883,13 +6883,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 2,
-      "Брагин Александр Александрович": 0,
-      "Грачев Дмитрий Николаевич": 2,
-      "Ильясов Руслан Ринатович": 2,
-      "Кислица Николай Николаевич": 0,
-      "Синельщиков Юрий Петрович": 12,
-      "Третьяк Владислав Александрович": 144
+      "gas:candidate-vibid:2732000842506": 2,
+      "gas:candidate-vibid:2732000844513": 0,
+      "gas:candidate-vibid:2732000825078": 2,
+      "gas:candidate-vibid:2732000843460": 2,
+      "gas:candidate-vibid:2732000843789": 0,
+      "gas:candidate-vibid:2732000832691": 12,
+      "gas:candidate-vibid:2732000839731": 144
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735899&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735899&type=464",
@@ -6940,13 +6940,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 0,
-      "Брагин Александр Александрович": 0,
-      "Грачев Дмитрий Николаевич": 3,
-      "Ильясов Руслан Ринатович": 1,
-      "Кислица Николай Николаевич": 0,
-      "Синельщиков Юрий Петрович": 3,
-      "Третьяк Владислав Александрович": 89
+      "gas:candidate-vibid:2732000842506": 0,
+      "gas:candidate-vibid:2732000844513": 0,
+      "gas:candidate-vibid:2732000825078": 3,
+      "gas:candidate-vibid:2732000843460": 1,
+      "gas:candidate-vibid:2732000843789": 0,
+      "gas:candidate-vibid:2732000832691": 3,
+      "gas:candidate-vibid:2732000839731": 89
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735899&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735899&type=464",
@@ -6997,13 +6997,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 12,
-      "Брагин Александр Александрович": 6,
-      "Грачев Дмитрий Николаевич": 20,
-      "Ильясов Руслан Ринатович": 24,
-      "Кислица Николай Николаевич": 1,
-      "Синельщиков Юрий Петрович": 41,
-      "Третьяк Владислав Александрович": 630
+      "gas:candidate-vibid:2732000842506": 12,
+      "gas:candidate-vibid:2732000844513": 6,
+      "gas:candidate-vibid:2732000825078": 20,
+      "gas:candidate-vibid:2732000843460": 24,
+      "gas:candidate-vibid:2732000843789": 1,
+      "gas:candidate-vibid:2732000832691": 41,
+      "gas:candidate-vibid:2732000839731": 630
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735899&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735899&type=464",
@@ -7054,13 +7054,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 1,
-      "Брагин Александр Александрович": 2,
-      "Грачев Дмитрий Николаевич": 7,
-      "Ильясов Руслан Ринатович": 2,
-      "Кислица Николай Николаевич": 0,
-      "Синельщиков Юрий Петрович": 9,
-      "Третьяк Владислав Александрович": 137
+      "gas:candidate-vibid:2732000842506": 1,
+      "gas:candidate-vibid:2732000844513": 2,
+      "gas:candidate-vibid:2732000825078": 7,
+      "gas:candidate-vibid:2732000843460": 2,
+      "gas:candidate-vibid:2732000843789": 0,
+      "gas:candidate-vibid:2732000832691": 9,
+      "gas:candidate-vibid:2732000839731": 137
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735899&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735899&type=464",
@@ -7111,13 +7111,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 12,
-      "Брагин Александр Александрович": 2,
-      "Грачев Дмитрий Николаевич": 8,
-      "Ильясов Руслан Ринатович": 12,
-      "Кислица Николай Николаевич": 3,
-      "Синельщиков Юрий Петрович": 42,
-      "Третьяк Владислав Александрович": 540
+      "gas:candidate-vibid:2732000842506": 12,
+      "gas:candidate-vibid:2732000844513": 2,
+      "gas:candidate-vibid:2732000825078": 8,
+      "gas:candidate-vibid:2732000843460": 12,
+      "gas:candidate-vibid:2732000843789": 3,
+      "gas:candidate-vibid:2732000832691": 42,
+      "gas:candidate-vibid:2732000839731": 540
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735899&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735899&type=464",
@@ -7168,13 +7168,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 1,
-      "Брагин Александр Александрович": 0,
-      "Грачев Дмитрий Николаевич": 3,
-      "Ильясов Руслан Ринатович": 5,
-      "Кислица Николай Николаевич": 0,
-      "Синельщиков Юрий Петрович": 6,
-      "Третьяк Владислав Александрович": 193
+      "gas:candidate-vibid:2732000842506": 1,
+      "gas:candidate-vibid:2732000844513": 0,
+      "gas:candidate-vibid:2732000825078": 3,
+      "gas:candidate-vibid:2732000843460": 5,
+      "gas:candidate-vibid:2732000843789": 0,
+      "gas:candidate-vibid:2732000832691": 6,
+      "gas:candidate-vibid:2732000839731": 193
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735899&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735899&type=464",
@@ -7225,13 +7225,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 8,
-      "Брагин Александр Александрович": 2,
-      "Грачев Дмитрий Николаевич": 11,
-      "Ильясов Руслан Ринатович": 13,
-      "Кислица Николай Николаевич": 2,
-      "Синельщиков Юрий Петрович": 28,
-      "Третьяк Владислав Александрович": 236
+      "gas:candidate-vibid:2732000842506": 8,
+      "gas:candidate-vibid:2732000844513": 2,
+      "gas:candidate-vibid:2732000825078": 11,
+      "gas:candidate-vibid:2732000843460": 13,
+      "gas:candidate-vibid:2732000843789": 2,
+      "gas:candidate-vibid:2732000832691": 28,
+      "gas:candidate-vibid:2732000839731": 236
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735899&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735899&type=464",
@@ -7282,13 +7282,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 11,
-      "Брагин Александр Александрович": 15,
-      "Грачев Дмитрий Николаевич": 13,
-      "Ильясов Руслан Ринатович": 18,
-      "Кислица Николай Николаевич": 2,
-      "Синельщиков Юрий Петрович": 44,
-      "Третьяк Владислав Александрович": 682
+      "gas:candidate-vibid:2732000842506": 11,
+      "gas:candidate-vibid:2732000844513": 15,
+      "gas:candidate-vibid:2732000825078": 13,
+      "gas:candidate-vibid:2732000843460": 18,
+      "gas:candidate-vibid:2732000843789": 2,
+      "gas:candidate-vibid:2732000832691": 44,
+      "gas:candidate-vibid:2732000839731": 682
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735899&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735899&type=464",
@@ -7339,13 +7339,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 2,
-      "Брагин Александр Александрович": 4,
-      "Грачев Дмитрий Николаевич": 2,
-      "Ильясов Руслан Ринатович": 4,
-      "Кислица Николай Николаевич": 0,
-      "Синельщиков Юрий Петрович": 19,
-      "Третьяк Владислав Александрович": 240
+      "gas:candidate-vibid:2732000842506": 2,
+      "gas:candidate-vibid:2732000844513": 4,
+      "gas:candidate-vibid:2732000825078": 2,
+      "gas:candidate-vibid:2732000843460": 4,
+      "gas:candidate-vibid:2732000843789": 0,
+      "gas:candidate-vibid:2732000832691": 19,
+      "gas:candidate-vibid:2732000839731": 240
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735899&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735899&type=464",
@@ -7396,13 +7396,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 0,
-      "Брагин Александр Александрович": 2,
-      "Грачев Дмитрий Николаевич": 4,
-      "Ильясов Руслан Ринатович": 2,
-      "Кислица Николай Николаевич": 1,
-      "Синельщиков Юрий Петрович": 11,
-      "Третьяк Владислав Александрович": 250
+      "gas:candidate-vibid:2732000842506": 0,
+      "gas:candidate-vibid:2732000844513": 2,
+      "gas:candidate-vibid:2732000825078": 4,
+      "gas:candidate-vibid:2732000843460": 2,
+      "gas:candidate-vibid:2732000843789": 1,
+      "gas:candidate-vibid:2732000832691": 11,
+      "gas:candidate-vibid:2732000839731": 250
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735899&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735899&type=464",
@@ -7453,13 +7453,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 15,
-      "Брагин Александр Александрович": 8,
-      "Грачев Дмитрий Николаевич": 28,
-      "Ильясов Руслан Ринатович": 5,
-      "Кислица Николай Николаевич": 7,
-      "Синельщиков Юрий Петрович": 45,
-      "Третьяк Владислав Александрович": 681
+      "gas:candidate-vibid:2732000842506": 15,
+      "gas:candidate-vibid:2732000844513": 8,
+      "gas:candidate-vibid:2732000825078": 28,
+      "gas:candidate-vibid:2732000843460": 5,
+      "gas:candidate-vibid:2732000843789": 7,
+      "gas:candidate-vibid:2732000832691": 45,
+      "gas:candidate-vibid:2732000839731": 681
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735900&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735900&type=464",
@@ -7510,13 +7510,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 5,
-      "Брагин Александр Александрович": 12,
-      "Грачев Дмитрий Николаевич": 28,
-      "Ильясов Руслан Ринатович": 10,
-      "Кислица Николай Николаевич": 1,
-      "Синельщиков Юрий Петрович": 21,
-      "Третьяк Владислав Александрович": 482
+      "gas:candidate-vibid:2732000842506": 5,
+      "gas:candidate-vibid:2732000844513": 12,
+      "gas:candidate-vibid:2732000825078": 28,
+      "gas:candidate-vibid:2732000843460": 10,
+      "gas:candidate-vibid:2732000843789": 1,
+      "gas:candidate-vibid:2732000832691": 21,
+      "gas:candidate-vibid:2732000839731": 482
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735900&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735900&type=464",
@@ -7567,13 +7567,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 19,
-      "Брагин Александр Александрович": 7,
-      "Грачев Дмитрий Николаевич": 13,
-      "Ильясов Руслан Ринатович": 13,
-      "Кислица Николай Николаевич": 5,
-      "Синельщиков Юрий Петрович": 74,
-      "Третьяк Владислав Александрович": 599
+      "gas:candidate-vibid:2732000842506": 19,
+      "gas:candidate-vibid:2732000844513": 7,
+      "gas:candidate-vibid:2732000825078": 13,
+      "gas:candidate-vibid:2732000843460": 13,
+      "gas:candidate-vibid:2732000843789": 5,
+      "gas:candidate-vibid:2732000832691": 74,
+      "gas:candidate-vibid:2732000839731": 599
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735900&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735900&type=464",
@@ -7624,13 +7624,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 7,
-      "Брагин Александр Александрович": 3,
-      "Грачев Дмитрий Николаевич": 45,
-      "Ильясов Руслан Ринатович": 2,
-      "Кислица Николай Николаевич": 1,
-      "Синельщиков Юрий Петрович": 43,
-      "Третьяк Владислав Александрович": 591
+      "gas:candidate-vibid:2732000842506": 7,
+      "gas:candidate-vibid:2732000844513": 3,
+      "gas:candidate-vibid:2732000825078": 45,
+      "gas:candidate-vibid:2732000843460": 2,
+      "gas:candidate-vibid:2732000843789": 1,
+      "gas:candidate-vibid:2732000832691": 43,
+      "gas:candidate-vibid:2732000839731": 591
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735900&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735900&type=464",
@@ -7681,13 +7681,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 10,
-      "Брагин Александр Александрович": 3,
-      "Грачев Дмитрий Николаевич": 30,
-      "Ильясов Руслан Ринатович": 1,
-      "Кислица Николай Николаевич": 7,
-      "Синельщиков Юрий Петрович": 23,
-      "Третьяк Владислав Александрович": 332
+      "gas:candidate-vibid:2732000842506": 10,
+      "gas:candidate-vibid:2732000844513": 3,
+      "gas:candidate-vibid:2732000825078": 30,
+      "gas:candidate-vibid:2732000843460": 1,
+      "gas:candidate-vibid:2732000843789": 7,
+      "gas:candidate-vibid:2732000832691": 23,
+      "gas:candidate-vibid:2732000839731": 332
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735900&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735900&type=464",
@@ -7738,13 +7738,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 11,
-      "Брагин Александр Александрович": 2,
-      "Грачев Дмитрий Николаевич": 42,
-      "Ильясов Руслан Ринатович": 3,
-      "Кислица Николай Николаевич": 2,
-      "Синельщиков Юрий Петрович": 29,
-      "Третьяк Владислав Александрович": 340
+      "gas:candidate-vibid:2732000842506": 11,
+      "gas:candidate-vibid:2732000844513": 2,
+      "gas:candidate-vibid:2732000825078": 42,
+      "gas:candidate-vibid:2732000843460": 3,
+      "gas:candidate-vibid:2732000843789": 2,
+      "gas:candidate-vibid:2732000832691": 29,
+      "gas:candidate-vibid:2732000839731": 340
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735900&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735900&type=464",
@@ -7795,13 +7795,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 5,
-      "Брагин Александр Александрович": 4,
-      "Грачев Дмитрий Николаевич": 7,
-      "Ильясов Руслан Ринатович": 0,
-      "Кислица Николай Николаевич": 1,
-      "Синельщиков Юрий Петрович": 12,
-      "Третьяк Владислав Александрович": 271
+      "gas:candidate-vibid:2732000842506": 5,
+      "gas:candidate-vibid:2732000844513": 4,
+      "gas:candidate-vibid:2732000825078": 7,
+      "gas:candidate-vibid:2732000843460": 0,
+      "gas:candidate-vibid:2732000843789": 1,
+      "gas:candidate-vibid:2732000832691": 12,
+      "gas:candidate-vibid:2732000839731": 271
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735900&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735900&type=464",
@@ -7852,13 +7852,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 0,
-      "Брагин Александр Александрович": 0,
-      "Грачев Дмитрий Николаевич": 17,
-      "Ильясов Руслан Ринатович": 0,
-      "Кислица Николай Николаевич": 0,
-      "Синельщиков Юрий Петрович": 8,
-      "Третьяк Владислав Александрович": 65
+      "gas:candidate-vibid:2732000842506": 0,
+      "gas:candidate-vibid:2732000844513": 0,
+      "gas:candidate-vibid:2732000825078": 17,
+      "gas:candidate-vibid:2732000843460": 0,
+      "gas:candidate-vibid:2732000843789": 0,
+      "gas:candidate-vibid:2732000832691": 8,
+      "gas:candidate-vibid:2732000839731": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735900&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735900&type=464",
@@ -7909,13 +7909,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 5,
-      "Брагин Александр Александрович": 3,
-      "Грачев Дмитрий Николаевич": 23,
-      "Ильясов Руслан Ринатович": 3,
-      "Кислица Николай Николаевич": 1,
-      "Синельщиков Юрий Петрович": 19,
-      "Третьяк Владислав Александрович": 182
+      "gas:candidate-vibid:2732000842506": 5,
+      "gas:candidate-vibid:2732000844513": 3,
+      "gas:candidate-vibid:2732000825078": 23,
+      "gas:candidate-vibid:2732000843460": 3,
+      "gas:candidate-vibid:2732000843789": 1,
+      "gas:candidate-vibid:2732000832691": 19,
+      "gas:candidate-vibid:2732000839731": 182
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735900&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735900&type=464",
@@ -7966,13 +7966,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 3,
-      "Брагин Александр Александрович": 6,
-      "Грачев Дмитрий Николаевич": 23,
-      "Ильясов Руслан Ринатович": 3,
-      "Кислица Николай Николаевич": 1,
-      "Синельщиков Юрий Петрович": 10,
-      "Третьяк Владислав Александрович": 250
+      "gas:candidate-vibid:2732000842506": 3,
+      "gas:candidate-vibid:2732000844513": 6,
+      "gas:candidate-vibid:2732000825078": 23,
+      "gas:candidate-vibid:2732000843460": 3,
+      "gas:candidate-vibid:2732000843789": 1,
+      "gas:candidate-vibid:2732000832691": 10,
+      "gas:candidate-vibid:2732000839731": 250
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735900&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735900&type=464",
@@ -8023,13 +8023,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 1,
-      "Брагин Александр Александрович": 0,
-      "Грачев Дмитрий Николаевич": 2,
-      "Ильясов Руслан Ринатович": 2,
-      "Кислица Николай Николаевич": 1,
-      "Синельщиков Юрий Петрович": 1,
-      "Третьяк Владислав Александрович": 49
+      "gas:candidate-vibid:2732000842506": 1,
+      "gas:candidate-vibid:2732000844513": 0,
+      "gas:candidate-vibid:2732000825078": 2,
+      "gas:candidate-vibid:2732000843460": 2,
+      "gas:candidate-vibid:2732000843789": 1,
+      "gas:candidate-vibid:2732000832691": 1,
+      "gas:candidate-vibid:2732000839731": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735900&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735900&type=464",
@@ -8080,13 +8080,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 4,
-      "Брагин Александр Александрович": 0,
-      "Грачев Дмитрий Николаевич": 16,
-      "Ильясов Руслан Ринатович": 2,
-      "Кислица Николай Николаевич": 0,
-      "Синельщиков Юрий Петрович": 14,
-      "Третьяк Владислав Александрович": 174
+      "gas:candidate-vibid:2732000842506": 4,
+      "gas:candidate-vibid:2732000844513": 0,
+      "gas:candidate-vibid:2732000825078": 16,
+      "gas:candidate-vibid:2732000843460": 2,
+      "gas:candidate-vibid:2732000843789": 0,
+      "gas:candidate-vibid:2732000832691": 14,
+      "gas:candidate-vibid:2732000839731": 174
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735900&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735900&type=464",
@@ -8137,13 +8137,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 6,
-      "Брагин Александр Александрович": 2,
-      "Грачев Дмитрий Николаевич": 13,
-      "Ильясов Руслан Ринатович": 3,
-      "Кислица Николай Николаевич": 0,
-      "Синельщиков Юрий Петрович": 11,
-      "Третьяк Владислав Александрович": 160
+      "gas:candidate-vibid:2732000842506": 6,
+      "gas:candidate-vibid:2732000844513": 2,
+      "gas:candidate-vibid:2732000825078": 13,
+      "gas:candidate-vibid:2732000843460": 3,
+      "gas:candidate-vibid:2732000843789": 0,
+      "gas:candidate-vibid:2732000832691": 11,
+      "gas:candidate-vibid:2732000839731": 160
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735900&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735900&type=464",
@@ -8194,13 +8194,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 0,
-      "Брагин Александр Александрович": 2,
-      "Грачев Дмитрий Николаевич": 5,
-      "Ильясов Руслан Ринатович": 2,
-      "Кислица Николай Николаевич": 0,
-      "Синельщиков Юрий Петрович": 1,
-      "Третьяк Владислав Александрович": 45
+      "gas:candidate-vibid:2732000842506": 0,
+      "gas:candidate-vibid:2732000844513": 2,
+      "gas:candidate-vibid:2732000825078": 5,
+      "gas:candidate-vibid:2732000843460": 2,
+      "gas:candidate-vibid:2732000843789": 0,
+      "gas:candidate-vibid:2732000832691": 1,
+      "gas:candidate-vibid:2732000839731": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735900&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735900&type=464",
@@ -8251,13 +8251,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 2,
-      "Брагин Александр Александрович": 0,
-      "Грачев Дмитрий Николаевич": 9,
-      "Ильясов Руслан Ринатович": 3,
-      "Кислица Николай Николаевич": 1,
-      "Синельщиков Юрий Петрович": 3,
-      "Третьяк Владислав Александрович": 68
+      "gas:candidate-vibid:2732000842506": 2,
+      "gas:candidate-vibid:2732000844513": 0,
+      "gas:candidate-vibid:2732000825078": 9,
+      "gas:candidate-vibid:2732000843460": 3,
+      "gas:candidate-vibid:2732000843789": 1,
+      "gas:candidate-vibid:2732000832691": 3,
+      "gas:candidate-vibid:2732000839731": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735900&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735900&type=464",
@@ -8308,13 +8308,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 35,
-      "Брагин Александр Александрович": 1,
-      "Грачев Дмитрий Николаевич": 64,
-      "Ильясов Руслан Ринатович": 1,
-      "Кислица Николай Николаевич": 1,
-      "Синельщиков Юрий Петрович": 43,
-      "Третьяк Владислав Александрович": 848
+      "gas:candidate-vibid:2732000842506": 35,
+      "gas:candidate-vibid:2732000844513": 1,
+      "gas:candidate-vibid:2732000825078": 64,
+      "gas:candidate-vibid:2732000843460": 1,
+      "gas:candidate-vibid:2732000843789": 1,
+      "gas:candidate-vibid:2732000832691": 43,
+      "gas:candidate-vibid:2732000839731": 848
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735900&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735900&type=464",
@@ -8365,13 +8365,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 13,
-      "Брагин Александр Александрович": 6,
-      "Грачев Дмитрий Николаевич": 54,
-      "Ильясов Руслан Ринатович": 7,
-      "Кислица Николай Николаевич": 3,
-      "Синельщиков Юрий Петрович": 56,
-      "Третьяк Владислав Александрович": 378
+      "gas:candidate-vibid:2732000842506": 13,
+      "gas:candidate-vibid:2732000844513": 6,
+      "gas:candidate-vibid:2732000825078": 54,
+      "gas:candidate-vibid:2732000843460": 7,
+      "gas:candidate-vibid:2732000843789": 3,
+      "gas:candidate-vibid:2732000832691": 56,
+      "gas:candidate-vibid:2732000839731": 378
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735900&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735900&type=464",
@@ -8422,13 +8422,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 1,
-      "Брагин Александр Александрович": 0,
-      "Грачев Дмитрий Николаевич": 14,
-      "Ильясов Руслан Ринатович": 2,
-      "Кислица Николай Николаевич": 0,
-      "Синельщиков Юрий Петрович": 10,
-      "Третьяк Владислав Александрович": 152
+      "gas:candidate-vibid:2732000842506": 1,
+      "gas:candidate-vibid:2732000844513": 0,
+      "gas:candidate-vibid:2732000825078": 14,
+      "gas:candidate-vibid:2732000843460": 2,
+      "gas:candidate-vibid:2732000843789": 0,
+      "gas:candidate-vibid:2732000832691": 10,
+      "gas:candidate-vibid:2732000839731": 152
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735900&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735900&type=464",
@@ -8479,13 +8479,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 7,
-      "Брагин Александр Александрович": 4,
-      "Грачев Дмитрий Николаевич": 22,
-      "Ильясов Руслан Ринатович": 2,
-      "Кислица Николай Николаевич": 0,
-      "Синельщиков Юрий Петрович": 21,
-      "Третьяк Владислав Александрович": 407
+      "gas:candidate-vibid:2732000842506": 7,
+      "gas:candidate-vibid:2732000844513": 4,
+      "gas:candidate-vibid:2732000825078": 22,
+      "gas:candidate-vibid:2732000843460": 2,
+      "gas:candidate-vibid:2732000843789": 0,
+      "gas:candidate-vibid:2732000832691": 21,
+      "gas:candidate-vibid:2732000839731": 407
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735900&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735900&type=464",
@@ -8536,13 +8536,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 3,
-      "Брагин Александр Александрович": 0,
-      "Грачев Дмитрий Николаевич": 7,
-      "Ильясов Руслан Ринатович": 1,
-      "Кислица Николай Николаевич": 0,
-      "Синельщиков Юрий Петрович": 3,
-      "Третьяк Владислав Александрович": 85
+      "gas:candidate-vibid:2732000842506": 3,
+      "gas:candidate-vibid:2732000844513": 0,
+      "gas:candidate-vibid:2732000825078": 7,
+      "gas:candidate-vibid:2732000843460": 1,
+      "gas:candidate-vibid:2732000843789": 0,
+      "gas:candidate-vibid:2732000832691": 3,
+      "gas:candidate-vibid:2732000839731": 85
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735900&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735900&type=464",
@@ -8593,13 +8593,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 4,
-      "Брагин Александр Александрович": 2,
-      "Грачев Дмитрий Николаевич": 12,
-      "Ильясов Руслан Ринатович": 2,
-      "Кислица Николай Николаевич": 0,
-      "Синельщиков Юрий Петрович": 7,
-      "Третьяк Владислав Александрович": 190
+      "gas:candidate-vibid:2732000842506": 4,
+      "gas:candidate-vibid:2732000844513": 2,
+      "gas:candidate-vibid:2732000825078": 12,
+      "gas:candidate-vibid:2732000843460": 2,
+      "gas:candidate-vibid:2732000843789": 0,
+      "gas:candidate-vibid:2732000832691": 7,
+      "gas:candidate-vibid:2732000839731": 190
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735900&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735900&type=464",
@@ -8650,13 +8650,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 4,
-      "Брагин Александр Александрович": 2,
-      "Грачев Дмитрий Николаевич": 20,
-      "Ильясов Руслан Ринатович": 0,
-      "Кислица Николай Николаевич": 3,
-      "Синельщиков Юрий Петрович": 10,
-      "Третьяк Владислав Александрович": 153
+      "gas:candidate-vibid:2732000842506": 4,
+      "gas:candidate-vibid:2732000844513": 2,
+      "gas:candidate-vibid:2732000825078": 20,
+      "gas:candidate-vibid:2732000843460": 0,
+      "gas:candidate-vibid:2732000843789": 3,
+      "gas:candidate-vibid:2732000832691": 10,
+      "gas:candidate-vibid:2732000839731": 153
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735900&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735900&type=464",
@@ -8707,13 +8707,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 3,
-      "Брагин Александр Александрович": 0,
-      "Грачев Дмитрий Николаевич": 16,
-      "Ильясов Руслан Ринатович": 1,
-      "Кислица Николай Николаевич": 0,
-      "Синельщиков Юрий Петрович": 18,
-      "Третьяк Владислав Александрович": 137
+      "gas:candidate-vibid:2732000842506": 3,
+      "gas:candidate-vibid:2732000844513": 0,
+      "gas:candidate-vibid:2732000825078": 16,
+      "gas:candidate-vibid:2732000843460": 1,
+      "gas:candidate-vibid:2732000843789": 0,
+      "gas:candidate-vibid:2732000832691": 18,
+      "gas:candidate-vibid:2732000839731": 137
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735900&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735900&type=464",
@@ -8764,13 +8764,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 1,
-      "Брагин Александр Александрович": 0,
-      "Грачев Дмитрий Николаевич": 2,
-      "Ильясов Руслан Ринатович": 1,
-      "Кислица Николай Николаевич": 0,
-      "Синельщиков Юрий Петрович": 4,
-      "Третьяк Владислав Александрович": 46
+      "gas:candidate-vibid:2732000842506": 1,
+      "gas:candidate-vibid:2732000844513": 0,
+      "gas:candidate-vibid:2732000825078": 2,
+      "gas:candidate-vibid:2732000843460": 1,
+      "gas:candidate-vibid:2732000843789": 0,
+      "gas:candidate-vibid:2732000832691": 4,
+      "gas:candidate-vibid:2732000839731": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735900&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735900&type=464",
@@ -8821,13 +8821,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 1,
-      "Брагин Александр Александрович": 0,
-      "Грачев Дмитрий Николаевич": 5,
-      "Ильясов Руслан Ринатович": 0,
-      "Кислица Николай Николаевич": 0,
-      "Синельщиков Юрий Петрович": 6,
-      "Третьяк Владислав Александрович": 67
+      "gas:candidate-vibid:2732000842506": 1,
+      "gas:candidate-vibid:2732000844513": 0,
+      "gas:candidate-vibid:2732000825078": 5,
+      "gas:candidate-vibid:2732000843460": 0,
+      "gas:candidate-vibid:2732000843789": 0,
+      "gas:candidate-vibid:2732000832691": 6,
+      "gas:candidate-vibid:2732000839731": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735900&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735900&type=464",
@@ -8878,13 +8878,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 11,
-      "Брагин Александр Александрович": 15,
-      "Грачев Дмитрий Николаевич": 44,
-      "Ильясов Руслан Ринатович": 13,
-      "Кислица Николай Николаевич": 7,
-      "Синельщиков Юрий Петрович": 43,
-      "Третьяк Владислав Александрович": 619
+      "gas:candidate-vibid:2732000842506": 11,
+      "gas:candidate-vibid:2732000844513": 15,
+      "gas:candidate-vibid:2732000825078": 44,
+      "gas:candidate-vibid:2732000843460": 13,
+      "gas:candidate-vibid:2732000843789": 7,
+      "gas:candidate-vibid:2732000832691": 43,
+      "gas:candidate-vibid:2732000839731": 619
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735901&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735901&type=464",
@@ -8935,13 +8935,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 19,
-      "Брагин Александр Александрович": 8,
-      "Грачев Дмитрий Николаевич": 47,
-      "Ильясов Руслан Ринатович": 6,
-      "Кислица Николай Николаевич": 2,
-      "Синельщиков Юрий Петрович": 56,
-      "Третьяк Владислав Александрович": 653
+      "gas:candidate-vibid:2732000842506": 19,
+      "gas:candidate-vibid:2732000844513": 8,
+      "gas:candidate-vibid:2732000825078": 47,
+      "gas:candidate-vibid:2732000843460": 6,
+      "gas:candidate-vibid:2732000843789": 2,
+      "gas:candidate-vibid:2732000832691": 56,
+      "gas:candidate-vibid:2732000839731": 653
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735901&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735901&type=464",
@@ -8992,13 +8992,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 32,
-      "Брагин Александр Александрович": 3,
-      "Грачев Дмитрий Николаевич": 49,
-      "Ильясов Руслан Ринатович": 8,
-      "Кислица Николай Николаевич": 4,
-      "Синельщиков Юрий Петрович": 72,
-      "Третьяк Владислав Александрович": 750
+      "gas:candidate-vibid:2732000842506": 32,
+      "gas:candidate-vibid:2732000844513": 3,
+      "gas:candidate-vibid:2732000825078": 49,
+      "gas:candidate-vibid:2732000843460": 8,
+      "gas:candidate-vibid:2732000843789": 4,
+      "gas:candidate-vibid:2732000832691": 72,
+      "gas:candidate-vibid:2732000839731": 750
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735901&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735901&type=464",
@@ -9049,13 +9049,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 11,
-      "Брагин Александр Александрович": 2,
-      "Грачев Дмитрий Николаевич": 24,
-      "Ильясов Руслан Ринатович": 2,
-      "Кислица Николай Николаевич": 3,
-      "Синельщиков Юрий Петрович": 34,
-      "Третьяк Владислав Александрович": 373
+      "gas:candidate-vibid:2732000842506": 11,
+      "gas:candidate-vibid:2732000844513": 2,
+      "gas:candidate-vibid:2732000825078": 24,
+      "gas:candidate-vibid:2732000843460": 2,
+      "gas:candidate-vibid:2732000843789": 3,
+      "gas:candidate-vibid:2732000832691": 34,
+      "gas:candidate-vibid:2732000839731": 373
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735901&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735901&type=464",
@@ -9106,13 +9106,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 9,
-      "Брагин Александр Александрович": 0,
-      "Грачев Дмитрий Николаевич": 6,
-      "Ильясов Руслан Ринатович": 2,
-      "Кислица Николай Николаевич": 1,
-      "Синельщиков Юрий Петрович": 12,
-      "Третьяк Владислав Александрович": 249
+      "gas:candidate-vibid:2732000842506": 9,
+      "gas:candidate-vibid:2732000844513": 0,
+      "gas:candidate-vibid:2732000825078": 6,
+      "gas:candidate-vibid:2732000843460": 2,
+      "gas:candidate-vibid:2732000843789": 1,
+      "gas:candidate-vibid:2732000832691": 12,
+      "gas:candidate-vibid:2732000839731": 249
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735901&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735901&type=464",
@@ -9163,13 +9163,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 1,
-      "Брагин Александр Александрович": 2,
-      "Грачев Дмитрий Николаевич": 7,
-      "Ильясов Руслан Ринатович": 0,
-      "Кислица Николай Николаевич": 4,
-      "Синельщиков Юрий Петрович": 7,
-      "Третьяк Владислав Александрович": 228
+      "gas:candidate-vibid:2732000842506": 1,
+      "gas:candidate-vibid:2732000844513": 2,
+      "gas:candidate-vibid:2732000825078": 7,
+      "gas:candidate-vibid:2732000843460": 0,
+      "gas:candidate-vibid:2732000843789": 4,
+      "gas:candidate-vibid:2732000832691": 7,
+      "gas:candidate-vibid:2732000839731": 228
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735901&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735901&type=464",
@@ -9220,13 +9220,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 4,
-      "Брагин Александр Александрович": 1,
-      "Грачев Дмитрий Николаевич": 12,
-      "Ильясов Руслан Ринатович": 1,
-      "Кислица Николай Николаевич": 0,
-      "Синельщиков Юрий Петрович": 19,
-      "Третьяк Владислав Александрович": 91
+      "gas:candidate-vibid:2732000842506": 4,
+      "gas:candidate-vibid:2732000844513": 1,
+      "gas:candidate-vibid:2732000825078": 12,
+      "gas:candidate-vibid:2732000843460": 1,
+      "gas:candidate-vibid:2732000843789": 0,
+      "gas:candidate-vibid:2732000832691": 19,
+      "gas:candidate-vibid:2732000839731": 91
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735901&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735901&type=464",
@@ -9277,13 +9277,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 3,
-      "Брагин Александр Александрович": 2,
-      "Грачев Дмитрий Николаевич": 7,
-      "Ильясов Руслан Ринатович": 3,
-      "Кислица Николай Николаевич": 0,
-      "Синельщиков Юрий Петрович": 18,
-      "Третьяк Владислав Александрович": 346
+      "gas:candidate-vibid:2732000842506": 3,
+      "gas:candidate-vibid:2732000844513": 2,
+      "gas:candidate-vibid:2732000825078": 7,
+      "gas:candidate-vibid:2732000843460": 3,
+      "gas:candidate-vibid:2732000843789": 0,
+      "gas:candidate-vibid:2732000832691": 18,
+      "gas:candidate-vibid:2732000839731": 346
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735901&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735901&type=464",
@@ -9334,13 +9334,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 2,
-      "Брагин Александр Александрович": 1,
-      "Грачев Дмитрий Николаевич": 7,
-      "Ильясов Руслан Ринатович": 1,
-      "Кислица Николай Николаевич": 2,
-      "Синельщиков Юрий Петрович": 12,
-      "Третьяк Владислав Александрович": 289
+      "gas:candidate-vibid:2732000842506": 2,
+      "gas:candidate-vibid:2732000844513": 1,
+      "gas:candidate-vibid:2732000825078": 7,
+      "gas:candidate-vibid:2732000843460": 1,
+      "gas:candidate-vibid:2732000843789": 2,
+      "gas:candidate-vibid:2732000832691": 12,
+      "gas:candidate-vibid:2732000839731": 289
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735901&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735901&type=464",
@@ -9391,13 +9391,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 0,
-      "Брагин Александр Александрович": 3,
-      "Грачев Дмитрий Николаевич": 2,
-      "Ильясов Руслан Ринатович": 8,
-      "Кислица Николай Николаевич": 1,
-      "Синельщиков Юрий Петрович": 27,
-      "Третьяк Владислав Александрович": 368
+      "gas:candidate-vibid:2732000842506": 0,
+      "gas:candidate-vibid:2732000844513": 3,
+      "gas:candidate-vibid:2732000825078": 2,
+      "gas:candidate-vibid:2732000843460": 8,
+      "gas:candidate-vibid:2732000843789": 1,
+      "gas:candidate-vibid:2732000832691": 27,
+      "gas:candidate-vibid:2732000839731": 368
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735901&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735901&type=464",
@@ -9448,13 +9448,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 3,
-      "Брагин Александр Александрович": 1,
-      "Грачев Дмитрий Николаевич": 12,
-      "Ильясов Руслан Ринатович": 1,
-      "Кислица Николай Николаевич": 2,
-      "Синельщиков Юрий Петрович": 6,
-      "Третьяк Владислав Александрович": 40
+      "gas:candidate-vibid:2732000842506": 3,
+      "gas:candidate-vibid:2732000844513": 1,
+      "gas:candidate-vibid:2732000825078": 12,
+      "gas:candidate-vibid:2732000843460": 1,
+      "gas:candidate-vibid:2732000843789": 2,
+      "gas:candidate-vibid:2732000832691": 6,
+      "gas:candidate-vibid:2732000839731": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735901&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735901&type=464",
@@ -9505,13 +9505,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 9,
-      "Брагин Александр Александрович": 5,
-      "Грачев Дмитрий Николаевич": 15,
-      "Ильясов Руслан Ринатович": 2,
-      "Кислица Николай Николаевич": 1,
-      "Синельщиков Юрий Петрович": 11,
-      "Третьяк Владислав Александрович": 291
+      "gas:candidate-vibid:2732000842506": 9,
+      "gas:candidate-vibid:2732000844513": 5,
+      "gas:candidate-vibid:2732000825078": 15,
+      "gas:candidate-vibid:2732000843460": 2,
+      "gas:candidate-vibid:2732000843789": 1,
+      "gas:candidate-vibid:2732000832691": 11,
+      "gas:candidate-vibid:2732000839731": 291
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735901&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735901&type=464",
@@ -9562,13 +9562,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 1,
-      "Брагин Александр Александрович": 4,
-      "Грачев Дмитрий Николаевич": 4,
-      "Ильясов Руслан Ринатович": 0,
-      "Кислица Николай Николаевич": 0,
-      "Синельщиков Юрий Петрович": 5,
-      "Третьяк Владислав Александрович": 30
+      "gas:candidate-vibid:2732000842506": 1,
+      "gas:candidate-vibid:2732000844513": 4,
+      "gas:candidate-vibid:2732000825078": 4,
+      "gas:candidate-vibid:2732000843460": 0,
+      "gas:candidate-vibid:2732000843789": 0,
+      "gas:candidate-vibid:2732000832691": 5,
+      "gas:candidate-vibid:2732000839731": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735901&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735901&type=464",
@@ -9619,13 +9619,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 7,
-      "Брагин Александр Александрович": 2,
-      "Грачев Дмитрий Николаевич": 12,
-      "Ильясов Руслан Ринатович": 0,
-      "Кислица Николай Николаевич": 1,
-      "Синельщиков Юрий Петрович": 19,
-      "Третьяк Владислав Александрович": 100
+      "gas:candidate-vibid:2732000842506": 7,
+      "gas:candidate-vibid:2732000844513": 2,
+      "gas:candidate-vibid:2732000825078": 12,
+      "gas:candidate-vibid:2732000843460": 0,
+      "gas:candidate-vibid:2732000843789": 1,
+      "gas:candidate-vibid:2732000832691": 19,
+      "gas:candidate-vibid:2732000839731": 100
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735901&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735901&type=464",
@@ -9676,13 +9676,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 7,
-      "Брагин Александр Александрович": 2,
-      "Грачев Дмитрий Николаевич": 18,
-      "Ильясов Руслан Ринатович": 0,
-      "Кислица Николай Николаевич": 1,
-      "Синельщиков Юрий Петрович": 19,
-      "Третьяк Владислав Александрович": 192
+      "gas:candidate-vibid:2732000842506": 7,
+      "gas:candidate-vibid:2732000844513": 2,
+      "gas:candidate-vibid:2732000825078": 18,
+      "gas:candidate-vibid:2732000843460": 0,
+      "gas:candidate-vibid:2732000843789": 1,
+      "gas:candidate-vibid:2732000832691": 19,
+      "gas:candidate-vibid:2732000839731": 192
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735901&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735901&type=464",
@@ -9733,13 +9733,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 19,
-      "Брагин Александр Александрович": 11,
-      "Грачев Дмитрий Николаевич": 32,
-      "Ильясов Руслан Ринатович": 3,
-      "Кислица Николай Николаевич": 2,
-      "Синельщиков Юрий Петрович": 60,
-      "Третьяк Владислав Александрович": 392
+      "gas:candidate-vibid:2732000842506": 19,
+      "gas:candidate-vibid:2732000844513": 11,
+      "gas:candidate-vibid:2732000825078": 32,
+      "gas:candidate-vibid:2732000843460": 3,
+      "gas:candidate-vibid:2732000843789": 2,
+      "gas:candidate-vibid:2732000832691": 60,
+      "gas:candidate-vibid:2732000839731": 392
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735901&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735901&type=464",
@@ -9790,13 +9790,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 0,
-      "Брагин Александр Александрович": 1,
-      "Грачев Дмитрий Николаевич": 0,
-      "Ильясов Руслан Ринатович": 0,
-      "Кислица Николай Николаевич": 0,
-      "Синельщиков Юрий Петрович": 5,
-      "Третьяк Владислав Александрович": 47
+      "gas:candidate-vibid:2732000842506": 0,
+      "gas:candidate-vibid:2732000844513": 1,
+      "gas:candidate-vibid:2732000825078": 0,
+      "gas:candidate-vibid:2732000843460": 0,
+      "gas:candidate-vibid:2732000843789": 0,
+      "gas:candidate-vibid:2732000832691": 5,
+      "gas:candidate-vibid:2732000839731": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735901&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735901&type=464",
@@ -9847,13 +9847,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 3,
-      "Брагин Александр Александрович": 0,
-      "Грачев Дмитрий Николаевич": 2,
-      "Ильясов Руслан Ринатович": 1,
-      "Кислица Николай Николаевич": 0,
-      "Синельщиков Юрий Петрович": 8,
-      "Третьяк Владислав Александрович": 56
+      "gas:candidate-vibid:2732000842506": 3,
+      "gas:candidate-vibid:2732000844513": 0,
+      "gas:candidate-vibid:2732000825078": 2,
+      "gas:candidate-vibid:2732000843460": 1,
+      "gas:candidate-vibid:2732000843789": 0,
+      "gas:candidate-vibid:2732000832691": 8,
+      "gas:candidate-vibid:2732000839731": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735901&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735901&type=464",
@@ -9904,13 +9904,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 9,
-      "Брагин Александр Александрович": 6,
-      "Грачев Дмитрий Николаевич": 11,
-      "Ильясов Руслан Ринатович": 0,
-      "Кислица Николай Николаевич": 2,
-      "Синельщиков Юрий Петрович": 21,
-      "Третьяк Владислав Александрович": 371
+      "gas:candidate-vibid:2732000842506": 9,
+      "gas:candidate-vibid:2732000844513": 6,
+      "gas:candidate-vibid:2732000825078": 11,
+      "gas:candidate-vibid:2732000843460": 0,
+      "gas:candidate-vibid:2732000843789": 2,
+      "gas:candidate-vibid:2732000832691": 21,
+      "gas:candidate-vibid:2732000839731": 371
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735901&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735901&type=464",
@@ -9961,13 +9961,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 19,
-      "Брагин Александр Александрович": 1,
-      "Грачев Дмитрий Николаевич": 23,
-      "Ильясов Руслан Ринатович": 1,
-      "Кислица Николай Николаевич": 3,
-      "Синельщиков Юрий Петрович": 23,
-      "Третьяк Владислав Александрович": 266
+      "gas:candidate-vibid:2732000842506": 19,
+      "gas:candidate-vibid:2732000844513": 1,
+      "gas:candidate-vibid:2732000825078": 23,
+      "gas:candidate-vibid:2732000843460": 1,
+      "gas:candidate-vibid:2732000843789": 3,
+      "gas:candidate-vibid:2732000832691": 23,
+      "gas:candidate-vibid:2732000839731": 266
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735901&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735901&type=464",
@@ -10018,13 +10018,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 3,
-      "Брагин Александр Александрович": 1,
-      "Грачев Дмитрий Николаевич": 6,
-      "Ильясов Руслан Ринатович": 0,
-      "Кислица Николай Николаевич": 0,
-      "Синельщиков Юрий Петрович": 7,
-      "Третьяк Владислав Александрович": 160
+      "gas:candidate-vibid:2732000842506": 3,
+      "gas:candidate-vibid:2732000844513": 1,
+      "gas:candidate-vibid:2732000825078": 6,
+      "gas:candidate-vibid:2732000843460": 0,
+      "gas:candidate-vibid:2732000843789": 0,
+      "gas:candidate-vibid:2732000832691": 7,
+      "gas:candidate-vibid:2732000839731": 160
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735901&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735901&type=464",
@@ -10075,13 +10075,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 4,
-      "Брагин Александр Александрович": 1,
-      "Грачев Дмитрий Николаевич": 4,
-      "Ильясов Руслан Ринатович": 0,
-      "Кислица Николай Николаевич": 0,
-      "Синельщиков Юрий Петрович": 7,
-      "Третьяк Владислав Александрович": 82
+      "gas:candidate-vibid:2732000842506": 4,
+      "gas:candidate-vibid:2732000844513": 1,
+      "gas:candidate-vibid:2732000825078": 4,
+      "gas:candidate-vibid:2732000843460": 0,
+      "gas:candidate-vibid:2732000843789": 0,
+      "gas:candidate-vibid:2732000832691": 7,
+      "gas:candidate-vibid:2732000839731": 82
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735901&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735901&type=464",
@@ -10132,13 +10132,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 6,
-      "Брагин Александр Александрович": 9,
-      "Грачев Дмитрий Николаевич": 16,
-      "Ильясов Руслан Ринатович": 1,
-      "Кислица Николай Николаевич": 6,
-      "Синельщиков Юрий Петрович": 37,
-      "Третьяк Владислав Александрович": 270
+      "gas:candidate-vibid:2732000842506": 6,
+      "gas:candidate-vibid:2732000844513": 9,
+      "gas:candidate-vibid:2732000825078": 16,
+      "gas:candidate-vibid:2732000843460": 1,
+      "gas:candidate-vibid:2732000843789": 6,
+      "gas:candidate-vibid:2732000832691": 37,
+      "gas:candidate-vibid:2732000839731": 270
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735901&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735901&type=464",
@@ -10189,13 +10189,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 8,
-      "Брагин Александр Александрович": 2,
-      "Грачев Дмитрий Николаевич": 4,
-      "Ильясов Руслан Ринатович": 29,
-      "Кислица Николай Николаевич": 1,
-      "Синельщиков Юрий Петрович": 30,
-      "Третьяк Владислав Александрович": 362
+      "gas:candidate-vibid:2732000842506": 8,
+      "gas:candidate-vibid:2732000844513": 2,
+      "gas:candidate-vibid:2732000825078": 4,
+      "gas:candidate-vibid:2732000843460": 29,
+      "gas:candidate-vibid:2732000843789": 1,
+      "gas:candidate-vibid:2732000832691": 30,
+      "gas:candidate-vibid:2732000839731": 362
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735901&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735901&type=464",
@@ -10246,13 +10246,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 3,
-      "Брагин Александр Александрович": 3,
-      "Грачев Дмитрий Николаевич": 17,
-      "Ильясов Руслан Ринатович": 0,
-      "Кислица Николай Николаевич": 0,
-      "Синельщиков Юрий Петрович": 14,
-      "Третьяк Владислав Александрович": 96
+      "gas:candidate-vibid:2732000842506": 3,
+      "gas:candidate-vibid:2732000844513": 3,
+      "gas:candidate-vibid:2732000825078": 17,
+      "gas:candidate-vibid:2732000843460": 0,
+      "gas:candidate-vibid:2732000843789": 0,
+      "gas:candidate-vibid:2732000832691": 14,
+      "gas:candidate-vibid:2732000839731": 96
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735901&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735901&type=464",
@@ -10303,13 +10303,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 13,
-      "Брагин Александр Александрович": 6,
-      "Грачев Дмитрий Николаевич": 46,
-      "Ильясов Руслан Ринатович": 7,
-      "Кислица Николай Николаевич": 8,
-      "Синельщиков Юрий Петрович": 118,
-      "Третьяк Владислав Александрович": 305
+      "gas:candidate-vibid:2732000842506": 13,
+      "gas:candidate-vibid:2732000844513": 6,
+      "gas:candidate-vibid:2732000825078": 46,
+      "gas:candidate-vibid:2732000843460": 7,
+      "gas:candidate-vibid:2732000843789": 8,
+      "gas:candidate-vibid:2732000832691": 118,
+      "gas:candidate-vibid:2732000839731": 305
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735902&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735902&type=464",
@@ -10360,13 +10360,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 17,
-      "Брагин Александр Александрович": 3,
-      "Грачев Дмитрий Николаевич": 58,
-      "Ильясов Руслан Ринатович": 8,
-      "Кислица Николай Николаевич": 2,
-      "Синельщиков Юрий Петрович": 40,
-      "Третьяк Владислав Александрович": 353
+      "gas:candidate-vibid:2732000842506": 17,
+      "gas:candidate-vibid:2732000844513": 3,
+      "gas:candidate-vibid:2732000825078": 58,
+      "gas:candidate-vibid:2732000843460": 8,
+      "gas:candidate-vibid:2732000843789": 2,
+      "gas:candidate-vibid:2732000832691": 40,
+      "gas:candidate-vibid:2732000839731": 353
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735902&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735902&type=464",
@@ -10417,13 +10417,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 12,
-      "Брагин Александр Александрович": 6,
-      "Грачев Дмитрий Николаевич": 38,
-      "Ильясов Руслан Ринатович": 5,
-      "Кислица Николай Николаевич": 2,
-      "Синельщиков Юрий Петрович": 30,
-      "Третьяк Владислав Александрович": 167
+      "gas:candidate-vibid:2732000842506": 12,
+      "gas:candidate-vibid:2732000844513": 6,
+      "gas:candidate-vibid:2732000825078": 38,
+      "gas:candidate-vibid:2732000843460": 5,
+      "gas:candidate-vibid:2732000843789": 2,
+      "gas:candidate-vibid:2732000832691": 30,
+      "gas:candidate-vibid:2732000839731": 167
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735902&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735902&type=464",
@@ -10474,13 +10474,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 23,
-      "Брагин Александр Александрович": 10,
-      "Грачев Дмитрий Николаевич": 81,
-      "Ильясов Руслан Ринатович": 13,
-      "Кислица Николай Николаевич": 5,
-      "Синельщиков Юрий Петрович": 82,
-      "Третьяк Владислав Александрович": 450
+      "gas:candidate-vibid:2732000842506": 23,
+      "gas:candidate-vibid:2732000844513": 10,
+      "gas:candidate-vibid:2732000825078": 81,
+      "gas:candidate-vibid:2732000843460": 13,
+      "gas:candidate-vibid:2732000843789": 5,
+      "gas:candidate-vibid:2732000832691": 82,
+      "gas:candidate-vibid:2732000839731": 450
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735902&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735902&type=464",
@@ -10531,13 +10531,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 13,
-      "Брагин Александр Александрович": 8,
-      "Грачев Дмитрий Николаевич": 81,
-      "Ильясов Руслан Ринатович": 11,
-      "Кислица Николай Николаевич": 7,
-      "Синельщиков Юрий Петрович": 68,
-      "Третьяк Владислав Александрович": 397
+      "gas:candidate-vibid:2732000842506": 13,
+      "gas:candidate-vibid:2732000844513": 8,
+      "gas:candidate-vibid:2732000825078": 81,
+      "gas:candidate-vibid:2732000843460": 11,
+      "gas:candidate-vibid:2732000843789": 7,
+      "gas:candidate-vibid:2732000832691": 68,
+      "gas:candidate-vibid:2732000839731": 397
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735902&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735902&type=464",
@@ -10588,13 +10588,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 11,
-      "Брагин Александр Александрович": 6,
-      "Грачев Дмитрий Николаевич": 70,
-      "Ильясов Руслан Ринатович": 5,
-      "Кислица Николай Николаевич": 5,
-      "Синельщиков Юрий Петрович": 52,
-      "Третьяк Владислав Александрович": 434
+      "gas:candidate-vibid:2732000842506": 11,
+      "gas:candidate-vibid:2732000844513": 6,
+      "gas:candidate-vibid:2732000825078": 70,
+      "gas:candidate-vibid:2732000843460": 5,
+      "gas:candidate-vibid:2732000843789": 5,
+      "gas:candidate-vibid:2732000832691": 52,
+      "gas:candidate-vibid:2732000839731": 434
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735902&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735902&type=464",
@@ -10645,13 +10645,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 17,
-      "Брагин Александр Александрович": 13,
-      "Грачев Дмитрий Николаевич": 74,
-      "Ильясов Руслан Ринатович": 8,
-      "Кислица Николай Николаевич": 5,
-      "Синельщиков Юрий Петрович": 65,
-      "Третьяк Владислав Александрович": 359
+      "gas:candidate-vibid:2732000842506": 17,
+      "gas:candidate-vibid:2732000844513": 13,
+      "gas:candidate-vibid:2732000825078": 74,
+      "gas:candidate-vibid:2732000843460": 8,
+      "gas:candidate-vibid:2732000843789": 5,
+      "gas:candidate-vibid:2732000832691": 65,
+      "gas:candidate-vibid:2732000839731": 359
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735902&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735902&type=464",
@@ -10702,13 +10702,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 14,
-      "Брагин Александр Александрович": 11,
-      "Грачев Дмитрий Николаевич": 60,
-      "Ильясов Руслан Ринатович": 14,
-      "Кислица Николай Николаевич": 0,
-      "Синельщиков Юрий Петрович": 42,
-      "Третьяк Владислав Александрович": 311
+      "gas:candidate-vibid:2732000842506": 14,
+      "gas:candidate-vibid:2732000844513": 11,
+      "gas:candidate-vibid:2732000825078": 60,
+      "gas:candidate-vibid:2732000843460": 14,
+      "gas:candidate-vibid:2732000843789": 0,
+      "gas:candidate-vibid:2732000832691": 42,
+      "gas:candidate-vibid:2732000839731": 311
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735902&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735902&type=464",
@@ -10759,13 +10759,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 23,
-      "Брагин Александр Александрович": 14,
-      "Грачев Дмитрий Николаевич": 80,
-      "Ильясов Руслан Ринатович": 12,
-      "Кислица Николай Николаевич": 6,
-      "Синельщиков Юрий Петрович": 65,
-      "Третьяк Владислав Александрович": 498
+      "gas:candidate-vibid:2732000842506": 23,
+      "gas:candidate-vibid:2732000844513": 14,
+      "gas:candidate-vibid:2732000825078": 80,
+      "gas:candidate-vibid:2732000843460": 12,
+      "gas:candidate-vibid:2732000843789": 6,
+      "gas:candidate-vibid:2732000832691": 65,
+      "gas:candidate-vibid:2732000839731": 498
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735902&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735902&type=464",
@@ -10816,13 +10816,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 8,
-      "Брагин Александр Александрович": 2,
-      "Грачев Дмитрий Николаевич": 19,
-      "Ильясов Руслан Ринатович": 3,
-      "Кислица Николай Николаевич": 1,
-      "Синельщиков Юрий Петрович": 16,
-      "Третьяк Владислав Александрович": 141
+      "gas:candidate-vibid:2732000842506": 8,
+      "gas:candidate-vibid:2732000844513": 2,
+      "gas:candidate-vibid:2732000825078": 19,
+      "gas:candidate-vibid:2732000843460": 3,
+      "gas:candidate-vibid:2732000843789": 1,
+      "gas:candidate-vibid:2732000832691": 16,
+      "gas:candidate-vibid:2732000839731": 141
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735902&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735902&type=464",
@@ -10873,13 +10873,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 9,
-      "Брагин Александр Александрович": 4,
-      "Грачев Дмитрий Николаевич": 30,
-      "Ильясов Руслан Ринатович": 6,
-      "Кислица Николай Николаевич": 0,
-      "Синельщиков Юрий Петрович": 21,
-      "Третьяк Владислав Александрович": 199
+      "gas:candidate-vibid:2732000842506": 9,
+      "gas:candidate-vibid:2732000844513": 4,
+      "gas:candidate-vibid:2732000825078": 30,
+      "gas:candidate-vibid:2732000843460": 6,
+      "gas:candidate-vibid:2732000843789": 0,
+      "gas:candidate-vibid:2732000832691": 21,
+      "gas:candidate-vibid:2732000839731": 199
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735902&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735902&type=464",
@@ -10930,13 +10930,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 3,
-      "Брагин Александр Александрович": 1,
-      "Грачев Дмитрий Николаевич": 27,
-      "Ильясов Руслан Ринатович": 2,
-      "Кислица Николай Николаевич": 3,
-      "Синельщиков Юрий Петрович": 11,
-      "Третьяк Владислав Александрович": 108
+      "gas:candidate-vibid:2732000842506": 3,
+      "gas:candidate-vibid:2732000844513": 1,
+      "gas:candidate-vibid:2732000825078": 27,
+      "gas:candidate-vibid:2732000843460": 2,
+      "gas:candidate-vibid:2732000843789": 3,
+      "gas:candidate-vibid:2732000832691": 11,
+      "gas:candidate-vibid:2732000839731": 108
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735902&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735902&type=464",
@@ -10987,13 +10987,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 17,
-      "Брагин Александр Александрович": 12,
-      "Грачев Дмитрий Николаевич": 51,
-      "Ильясов Руслан Ринатович": 5,
-      "Кислица Николай Николаевич": 3,
-      "Синельщиков Юрий Петрович": 25,
-      "Третьяк Владислав Александрович": 207
+      "gas:candidate-vibid:2732000842506": 17,
+      "gas:candidate-vibid:2732000844513": 12,
+      "gas:candidate-vibid:2732000825078": 51,
+      "gas:candidate-vibid:2732000843460": 5,
+      "gas:candidate-vibid:2732000843789": 3,
+      "gas:candidate-vibid:2732000832691": 25,
+      "gas:candidate-vibid:2732000839731": 207
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735902&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735902&type=464",
@@ -11044,13 +11044,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 12,
-      "Брагин Александр Александрович": 3,
-      "Грачев Дмитрий Николаевич": 39,
-      "Ильясов Руслан Ринатович": 5,
-      "Кислица Николай Николаевич": 4,
-      "Синельщиков Юрий Петрович": 23,
-      "Третьяк Владислав Александрович": 313
+      "gas:candidate-vibid:2732000842506": 12,
+      "gas:candidate-vibid:2732000844513": 3,
+      "gas:candidate-vibid:2732000825078": 39,
+      "gas:candidate-vibid:2732000843460": 5,
+      "gas:candidate-vibid:2732000843789": 4,
+      "gas:candidate-vibid:2732000832691": 23,
+      "gas:candidate-vibid:2732000839731": 313
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735902&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735902&type=464",
@@ -11101,13 +11101,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 6,
-      "Брагин Александр Александрович": 1,
-      "Грачев Дмитрий Николаевич": 19,
-      "Ильясов Руслан Ринатович": 2,
-      "Кислица Николай Николаевич": 1,
-      "Синельщиков Юрий Петрович": 20,
-      "Третьяк Владислав Александрович": 135
+      "gas:candidate-vibid:2732000842506": 6,
+      "gas:candidate-vibid:2732000844513": 1,
+      "gas:candidate-vibid:2732000825078": 19,
+      "gas:candidate-vibid:2732000843460": 2,
+      "gas:candidate-vibid:2732000843789": 1,
+      "gas:candidate-vibid:2732000832691": 20,
+      "gas:candidate-vibid:2732000839731": 135
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735902&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735902&type=464",
@@ -11158,13 +11158,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 12,
-      "Брагин Александр Александрович": 5,
-      "Грачев Дмитрий Николаевич": 43,
-      "Ильясов Руслан Ринатович": 5,
-      "Кислица Николай Николаевич": 5,
-      "Синельщиков Юрий Петрович": 34,
-      "Третьяк Владислав Александрович": 255
+      "gas:candidate-vibid:2732000842506": 12,
+      "gas:candidate-vibid:2732000844513": 5,
+      "gas:candidate-vibid:2732000825078": 43,
+      "gas:candidate-vibid:2732000843460": 5,
+      "gas:candidate-vibid:2732000843789": 5,
+      "gas:candidate-vibid:2732000832691": 34,
+      "gas:candidate-vibid:2732000839731": 255
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735902&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735902&type=464",
@@ -11215,13 +11215,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 5,
-      "Брагин Александр Александрович": 2,
-      "Грачев Дмитрий Николаевич": 22,
-      "Ильясов Руслан Ринатович": 3,
-      "Кислица Николай Николаевич": 1,
-      "Синельщиков Юрий Петрович": 4,
-      "Третьяк Владислав Александрович": 111
+      "gas:candidate-vibid:2732000842506": 5,
+      "gas:candidate-vibid:2732000844513": 2,
+      "gas:candidate-vibid:2732000825078": 22,
+      "gas:candidate-vibid:2732000843460": 3,
+      "gas:candidate-vibid:2732000843789": 1,
+      "gas:candidate-vibid:2732000832691": 4,
+      "gas:candidate-vibid:2732000839731": 111
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735902&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735902&type=464",
@@ -11272,13 +11272,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 42,
-      "Брагин Александр Александрович": 10,
-      "Грачев Дмитрий Николаевич": 69,
-      "Ильясов Руслан Ринатович": 13,
-      "Кислица Николай Николаевич": 9,
-      "Синельщиков Юрий Петрович": 125,
-      "Третьяк Владислав Александрович": 400
+      "gas:candidate-vibid:2732000842506": 42,
+      "gas:candidate-vibid:2732000844513": 10,
+      "gas:candidate-vibid:2732000825078": 69,
+      "gas:candidate-vibid:2732000843460": 13,
+      "gas:candidate-vibid:2732000843789": 9,
+      "gas:candidate-vibid:2732000832691": 125,
+      "gas:candidate-vibid:2732000839731": 400
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735902&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735902&type=464",
@@ -11329,13 +11329,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 21,
-      "Брагин Александр Александрович": 7,
-      "Грачев Дмитрий Николаевич": 26,
-      "Ильясов Руслан Ринатович": 4,
-      "Кислица Николай Николаевич": 1,
-      "Синельщиков Юрий Петрович": 40,
-      "Третьяк Владислав Александрович": 134
+      "gas:candidate-vibid:2732000842506": 21,
+      "gas:candidate-vibid:2732000844513": 7,
+      "gas:candidate-vibid:2732000825078": 26,
+      "gas:candidate-vibid:2732000843460": 4,
+      "gas:candidate-vibid:2732000843789": 1,
+      "gas:candidate-vibid:2732000832691": 40,
+      "gas:candidate-vibid:2732000839731": 134
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735902&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735902&type=464",
@@ -11386,13 +11386,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 19,
-      "Брагин Александр Александрович": 5,
-      "Грачев Дмитрий Николаевич": 27,
-      "Ильясов Руслан Ринатович": 3,
-      "Кислица Николай Николаевич": 2,
-      "Синельщиков Юрий Петрович": 36,
-      "Третьяк Владислав Александрович": 187
+      "gas:candidate-vibid:2732000842506": 19,
+      "gas:candidate-vibid:2732000844513": 5,
+      "gas:candidate-vibid:2732000825078": 27,
+      "gas:candidate-vibid:2732000843460": 3,
+      "gas:candidate-vibid:2732000843789": 2,
+      "gas:candidate-vibid:2732000832691": 36,
+      "gas:candidate-vibid:2732000839731": 187
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735902&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735902&type=464",
@@ -11443,13 +11443,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 20,
-      "Брагин Александр Александрович": 4,
-      "Грачев Дмитрий Николаевич": 28,
-      "Ильясов Руслан Ринатович": 4,
-      "Кислица Николай Николаевич": 3,
-      "Синельщиков Юрий Петрович": 27,
-      "Третьяк Владислав Александрович": 91
+      "gas:candidate-vibid:2732000842506": 20,
+      "gas:candidate-vibid:2732000844513": 4,
+      "gas:candidate-vibid:2732000825078": 28,
+      "gas:candidate-vibid:2732000843460": 4,
+      "gas:candidate-vibid:2732000843789": 3,
+      "gas:candidate-vibid:2732000832691": 27,
+      "gas:candidate-vibid:2732000839731": 91
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735902&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735902&type=464",
@@ -11500,13 +11500,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 2,
-      "Брагин Александр Александрович": 1,
-      "Грачев Дмитрий Николаевич": 4,
-      "Ильясов Руслан Ринатович": 0,
-      "Кислица Николай Николаевич": 0,
-      "Синельщиков Юрий Петрович": 14,
-      "Третьяк Владислав Александрович": 35
+      "gas:candidate-vibid:2732000842506": 2,
+      "gas:candidate-vibid:2732000844513": 1,
+      "gas:candidate-vibid:2732000825078": 4,
+      "gas:candidate-vibid:2732000843460": 0,
+      "gas:candidate-vibid:2732000843789": 0,
+      "gas:candidate-vibid:2732000832691": 14,
+      "gas:candidate-vibid:2732000839731": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735902&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735902&type=464",
@@ -11557,13 +11557,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 7,
-      "Брагин Александр Александрович": 2,
-      "Грачев Дмитрий Николаевич": 37,
-      "Ильясов Руслан Ринатович": 1,
-      "Кислица Николай Николаевич": 1,
-      "Синельщиков Юрий Петрович": 13,
-      "Третьяк Владислав Александрович": 233
+      "gas:candidate-vibid:2732000842506": 7,
+      "gas:candidate-vibid:2732000844513": 2,
+      "gas:candidate-vibid:2732000825078": 37,
+      "gas:candidate-vibid:2732000843460": 1,
+      "gas:candidate-vibid:2732000843789": 1,
+      "gas:candidate-vibid:2732000832691": 13,
+      "gas:candidate-vibid:2732000839731": 233
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735902&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735902&type=464",
@@ -11614,13 +11614,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 5,
-      "Брагин Александр Александрович": 1,
-      "Грачев Дмитрий Николаевич": 37,
-      "Ильясов Руслан Ринатович": 5,
-      "Кислица Николай Николаевич": 2,
-      "Синельщиков Юрий Петрович": 10,
-      "Третьяк Владислав Александрович": 153
+      "gas:candidate-vibid:2732000842506": 5,
+      "gas:candidate-vibid:2732000844513": 1,
+      "gas:candidate-vibid:2732000825078": 37,
+      "gas:candidate-vibid:2732000843460": 5,
+      "gas:candidate-vibid:2732000843789": 2,
+      "gas:candidate-vibid:2732000832691": 10,
+      "gas:candidate-vibid:2732000839731": 153
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735902&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735902&type=464",
@@ -11671,13 +11671,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 5,
-      "Брагин Александр Александрович": 1,
-      "Грачев Дмитрий Николаевич": 13,
-      "Ильясов Руслан Ринатович": 1,
-      "Кислица Николай Николаевич": 2,
-      "Синельщиков Юрий Петрович": 3,
-      "Третьяк Владислав Александрович": 68
+      "gas:candidate-vibid:2732000842506": 5,
+      "gas:candidate-vibid:2732000844513": 1,
+      "gas:candidate-vibid:2732000825078": 13,
+      "gas:candidate-vibid:2732000843460": 1,
+      "gas:candidate-vibid:2732000843789": 2,
+      "gas:candidate-vibid:2732000832691": 3,
+      "gas:candidate-vibid:2732000839731": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735902&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735902&type=464",
@@ -11728,13 +11728,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 7,
-      "Брагин Александр Александрович": 3,
-      "Грачев Дмитрий Николаевич": 23,
-      "Ильясов Руслан Ринатович": 3,
-      "Кислица Николай Николаевич": 1,
-      "Синельщиков Юрий Петрович": 15,
-      "Третьяк Владислав Александрович": 127
+      "gas:candidate-vibid:2732000842506": 7,
+      "gas:candidate-vibid:2732000844513": 3,
+      "gas:candidate-vibid:2732000825078": 23,
+      "gas:candidate-vibid:2732000843460": 3,
+      "gas:candidate-vibid:2732000843789": 1,
+      "gas:candidate-vibid:2732000832691": 15,
+      "gas:candidate-vibid:2732000839731": 127
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735902&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735902&type=464",
@@ -11785,13 +11785,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 6,
-      "Брагин Александр Александрович": 4,
-      "Грачев Дмитрий Николаевич": 27,
-      "Ильясов Руслан Ринатович": 4,
-      "Кислица Николай Николаевич": 2,
-      "Синельщиков Юрий Петрович": 18,
-      "Третьяк Владислав Александрович": 278
+      "gas:candidate-vibid:2732000842506": 6,
+      "gas:candidate-vibid:2732000844513": 4,
+      "gas:candidate-vibid:2732000825078": 27,
+      "gas:candidate-vibid:2732000843460": 4,
+      "gas:candidate-vibid:2732000843789": 2,
+      "gas:candidate-vibid:2732000832691": 18,
+      "gas:candidate-vibid:2732000839731": 278
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735902&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735902&type=464",
@@ -11842,13 +11842,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 7,
-      "Брагин Александр Александрович": 5,
-      "Грачев Дмитрий Николаевич": 30,
-      "Ильясов Руслан Ринатович": 3,
-      "Кислица Николай Николаевич": 0,
-      "Синельщиков Юрий Петрович": 28,
-      "Третьяк Владислав Александрович": 450
+      "gas:candidate-vibid:2732000842506": 7,
+      "gas:candidate-vibid:2732000844513": 5,
+      "gas:candidate-vibid:2732000825078": 30,
+      "gas:candidate-vibid:2732000843460": 3,
+      "gas:candidate-vibid:2732000843789": 0,
+      "gas:candidate-vibid:2732000832691": 28,
+      "gas:candidate-vibid:2732000839731": 450
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735902&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735902&type=464",
@@ -11899,13 +11899,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 3,
-      "Брагин Александр Александрович": 2,
-      "Грачев Дмитрий Николаевич": 9,
-      "Ильясов Руслан Ринатович": 0,
-      "Кислица Николай Николаевич": 1,
-      "Синельщиков Юрий Петрович": 8,
-      "Третьяк Владислав Александрович": 123
+      "gas:candidate-vibid:2732000842506": 3,
+      "gas:candidate-vibid:2732000844513": 2,
+      "gas:candidate-vibid:2732000825078": 9,
+      "gas:candidate-vibid:2732000843460": 0,
+      "gas:candidate-vibid:2732000843789": 1,
+      "gas:candidate-vibid:2732000832691": 8,
+      "gas:candidate-vibid:2732000839731": 123
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735902&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735902&type=464",
@@ -11956,13 +11956,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 3,
-      "Брагин Александр Александрович": 1,
-      "Грачев Дмитрий Николаевич": 25,
-      "Ильясов Руслан Ринатович": 1,
-      "Кислица Николай Николаевич": 1,
-      "Синельщиков Юрий Петрович": 27,
-      "Третьяк Владислав Александрович": 143
+      "gas:candidate-vibid:2732000842506": 3,
+      "gas:candidate-vibid:2732000844513": 1,
+      "gas:candidate-vibid:2732000825078": 25,
+      "gas:candidate-vibid:2732000843460": 1,
+      "gas:candidate-vibid:2732000843789": 1,
+      "gas:candidate-vibid:2732000832691": 27,
+      "gas:candidate-vibid:2732000839731": 143
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735902&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735902&type=464",
@@ -12013,13 +12013,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 7,
-      "Брагин Александр Александрович": 4,
-      "Грачев Дмитрий Николаевич": 12,
-      "Ильясов Руслан Ринатович": 0,
-      "Кислица Николай Николаевич": 2,
-      "Синельщиков Юрий Петрович": 8,
-      "Третьяк Владислав Александрович": 76
+      "gas:candidate-vibid:2732000842506": 7,
+      "gas:candidate-vibid:2732000844513": 4,
+      "gas:candidate-vibid:2732000825078": 12,
+      "gas:candidate-vibid:2732000843460": 0,
+      "gas:candidate-vibid:2732000843789": 2,
+      "gas:candidate-vibid:2732000832691": 8,
+      "gas:candidate-vibid:2732000839731": 76
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735902&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735902&type=464",
@@ -12070,13 +12070,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 6,
-      "Брагин Александр Александрович": 3,
-      "Грачев Дмитрий Николаевич": 40,
-      "Ильясов Руслан Ринатович": 2,
-      "Кислица Николай Николаевич": 4,
-      "Синельщиков Юрий Петрович": 36,
-      "Третьяк Владислав Александрович": 221
+      "gas:candidate-vibid:2732000842506": 6,
+      "gas:candidate-vibid:2732000844513": 3,
+      "gas:candidate-vibid:2732000825078": 40,
+      "gas:candidate-vibid:2732000843460": 2,
+      "gas:candidate-vibid:2732000843789": 4,
+      "gas:candidate-vibid:2732000832691": 36,
+      "gas:candidate-vibid:2732000839731": 221
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735902&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735902&type=464",
@@ -12127,13 +12127,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 29,
-      "Брагин Александр Александрович": 1,
-      "Грачев Дмитрий Николаевич": 110,
-      "Ильясов Руслан Ринатович": 6,
-      "Кислица Николай Николаевич": 5,
-      "Синельщиков Юрий Петрович": 72,
-      "Третьяк Владислав Александрович": 566
+      "gas:candidate-vibid:2732000842506": 29,
+      "gas:candidate-vibid:2732000844513": 1,
+      "gas:candidate-vibid:2732000825078": 110,
+      "gas:candidate-vibid:2732000843460": 6,
+      "gas:candidate-vibid:2732000843789": 5,
+      "gas:candidate-vibid:2732000832691": 72,
+      "gas:candidate-vibid:2732000839731": 566
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735903&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735903&type=464",
@@ -12184,13 +12184,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 18,
-      "Брагин Александр Александрович": 6,
-      "Грачев Дмитрий Николаевич": 67,
-      "Ильясов Руслан Ринатович": 0,
-      "Кислица Николай Николаевич": 5,
-      "Синельщиков Юрий Петрович": 54,
-      "Третьяк Владислав Александрович": 376
+      "gas:candidate-vibid:2732000842506": 18,
+      "gas:candidate-vibid:2732000844513": 6,
+      "gas:candidate-vibid:2732000825078": 67,
+      "gas:candidate-vibid:2732000843460": 0,
+      "gas:candidate-vibid:2732000843789": 5,
+      "gas:candidate-vibid:2732000832691": 54,
+      "gas:candidate-vibid:2732000839731": 376
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735903&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735903&type=464",
@@ -12241,13 +12241,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 13,
-      "Брагин Александр Александрович": 3,
-      "Грачев Дмитрий Николаевич": 59,
-      "Ильясов Руслан Ринатович": 7,
-      "Кислица Николай Николаевич": 7,
-      "Синельщиков Юрий Петрович": 78,
-      "Третьяк Владислав Александрович": 493
+      "gas:candidate-vibid:2732000842506": 13,
+      "gas:candidate-vibid:2732000844513": 3,
+      "gas:candidate-vibid:2732000825078": 59,
+      "gas:candidate-vibid:2732000843460": 7,
+      "gas:candidate-vibid:2732000843789": 7,
+      "gas:candidate-vibid:2732000832691": 78,
+      "gas:candidate-vibid:2732000839731": 493
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735903&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735903&type=464",
@@ -12298,13 +12298,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 10,
-      "Брагин Александр Александрович": 3,
-      "Грачев Дмитрий Николаевич": 29,
-      "Ильясов Руслан Ринатович": 6,
-      "Кислица Николай Николаевич": 0,
-      "Синельщиков Юрий Петрович": 28,
-      "Третьяк Владислав Александрович": 186
+      "gas:candidate-vibid:2732000842506": 10,
+      "gas:candidate-vibid:2732000844513": 3,
+      "gas:candidate-vibid:2732000825078": 29,
+      "gas:candidate-vibid:2732000843460": 6,
+      "gas:candidate-vibid:2732000843789": 0,
+      "gas:candidate-vibid:2732000832691": 28,
+      "gas:candidate-vibid:2732000839731": 186
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735903&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735903&type=464",
@@ -12355,13 +12355,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 16,
-      "Брагин Александр Александрович": 2,
-      "Грачев Дмитрий Николаевич": 47,
-      "Ильясов Руслан Ринатович": 1,
-      "Кислица Николай Николаевич": 2,
-      "Синельщиков Юрий Петрович": 35,
-      "Третьяк Владислав Александрович": 637
+      "gas:candidate-vibid:2732000842506": 16,
+      "gas:candidate-vibid:2732000844513": 2,
+      "gas:candidate-vibid:2732000825078": 47,
+      "gas:candidate-vibid:2732000843460": 1,
+      "gas:candidate-vibid:2732000843789": 2,
+      "gas:candidate-vibid:2732000832691": 35,
+      "gas:candidate-vibid:2732000839731": 637
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735903&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735903&type=464",
@@ -12412,13 +12412,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 16,
-      "Брагин Александр Александрович": 13,
-      "Грачев Дмитрий Николаевич": 51,
-      "Ильясов Руслан Ринатович": 4,
-      "Кислица Николай Николаевич": 2,
-      "Синельщиков Юрий Петрович": 83,
-      "Третьяк Владислав Александрович": 263
+      "gas:candidate-vibid:2732000842506": 16,
+      "gas:candidate-vibid:2732000844513": 13,
+      "gas:candidate-vibid:2732000825078": 51,
+      "gas:candidate-vibid:2732000843460": 4,
+      "gas:candidate-vibid:2732000843789": 2,
+      "gas:candidate-vibid:2732000832691": 83,
+      "gas:candidate-vibid:2732000839731": 263
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735903&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735903&type=464",
@@ -12469,13 +12469,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 24,
-      "Брагин Александр Александрович": 6,
-      "Грачев Дмитрий Николаевич": 69,
-      "Ильясов Руслан Ринатович": 6,
-      "Кислица Николай Николаевич": 3,
-      "Синельщиков Юрий Петрович": 65,
-      "Третьяк Владислав Александрович": 987
+      "gas:candidate-vibid:2732000842506": 24,
+      "gas:candidate-vibid:2732000844513": 6,
+      "gas:candidate-vibid:2732000825078": 69,
+      "gas:candidate-vibid:2732000843460": 6,
+      "gas:candidate-vibid:2732000843789": 3,
+      "gas:candidate-vibid:2732000832691": 65,
+      "gas:candidate-vibid:2732000839731": 987
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735903&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735903&type=464",
@@ -12526,13 +12526,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 7,
-      "Брагин Александр Александрович": 3,
-      "Грачев Дмитрий Николаевич": 15,
-      "Ильясов Руслан Ринатович": 1,
-      "Кислица Николай Николаевич": 3,
-      "Синельщиков Юрий Петрович": 19,
-      "Третьяк Владислав Александрович": 223
+      "gas:candidate-vibid:2732000842506": 7,
+      "gas:candidate-vibid:2732000844513": 3,
+      "gas:candidate-vibid:2732000825078": 15,
+      "gas:candidate-vibid:2732000843460": 1,
+      "gas:candidate-vibid:2732000843789": 3,
+      "gas:candidate-vibid:2732000832691": 19,
+      "gas:candidate-vibid:2732000839731": 223
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735903&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735903&type=464",
@@ -12583,13 +12583,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 11,
-      "Брагин Александр Александрович": 5,
-      "Грачев Дмитрий Николаевич": 25,
-      "Ильясов Руслан Ринатович": 1,
-      "Кислица Николай Николаевич": 5,
-      "Синельщиков Юрий Петрович": 28,
-      "Третьяк Владислав Александрович": 530
+      "gas:candidate-vibid:2732000842506": 11,
+      "gas:candidate-vibid:2732000844513": 5,
+      "gas:candidate-vibid:2732000825078": 25,
+      "gas:candidate-vibid:2732000843460": 1,
+      "gas:candidate-vibid:2732000843789": 5,
+      "gas:candidate-vibid:2732000832691": 28,
+      "gas:candidate-vibid:2732000839731": 530
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735903&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735903&type=464",
@@ -12640,13 +12640,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 24,
-      "Брагин Александр Александрович": 5,
-      "Грачев Дмитрий Николаевич": 50,
-      "Ильясов Руслан Ринатович": 5,
-      "Кислица Николай Николаевич": 3,
-      "Синельщиков Юрий Петрович": 43,
-      "Третьяк Владислав Александрович": 428
+      "gas:candidate-vibid:2732000842506": 24,
+      "gas:candidate-vibid:2732000844513": 5,
+      "gas:candidate-vibid:2732000825078": 50,
+      "gas:candidate-vibid:2732000843460": 5,
+      "gas:candidate-vibid:2732000843789": 3,
+      "gas:candidate-vibid:2732000832691": 43,
+      "gas:candidate-vibid:2732000839731": 428
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735903&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735903&type=464",
@@ -12697,13 +12697,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 3,
-      "Брагин Александр Александрович": 0,
-      "Грачев Дмитрий Николаевич": 5,
-      "Ильясов Руслан Ринатович": 1,
-      "Кислица Николай Николаевич": 0,
-      "Синельщиков Юрий Петрович": 3,
-      "Третьяк Владислав Александрович": 58
+      "gas:candidate-vibid:2732000842506": 3,
+      "gas:candidate-vibid:2732000844513": 0,
+      "gas:candidate-vibid:2732000825078": 5,
+      "gas:candidate-vibid:2732000843460": 1,
+      "gas:candidate-vibid:2732000843789": 0,
+      "gas:candidate-vibid:2732000832691": 3,
+      "gas:candidate-vibid:2732000839731": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735903&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735903&type=464",
@@ -12754,13 +12754,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 1,
-      "Брагин Александр Александрович": 2,
-      "Грачев Дмитрий Николаевич": 2,
-      "Ильясов Руслан Ринатович": 0,
-      "Кислица Николай Николаевич": 0,
-      "Синельщиков Юрий Петрович": 4,
-      "Третьяк Владислав Александрович": 68
+      "gas:candidate-vibid:2732000842506": 1,
+      "gas:candidate-vibid:2732000844513": 2,
+      "gas:candidate-vibid:2732000825078": 2,
+      "gas:candidate-vibid:2732000843460": 0,
+      "gas:candidate-vibid:2732000843789": 0,
+      "gas:candidate-vibid:2732000832691": 4,
+      "gas:candidate-vibid:2732000839731": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735903&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735903&type=464",
@@ -12811,13 +12811,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 14,
-      "Брагин Александр Александрович": 4,
-      "Грачев Дмитрий Николаевич": 22,
-      "Ильясов Руслан Ринатович": 1,
-      "Кислица Николай Николаевич": 3,
-      "Синельщиков Юрий Петрович": 19,
-      "Третьяк Владислав Александрович": 200
+      "gas:candidate-vibid:2732000842506": 14,
+      "gas:candidate-vibid:2732000844513": 4,
+      "gas:candidate-vibid:2732000825078": 22,
+      "gas:candidate-vibid:2732000843460": 1,
+      "gas:candidate-vibid:2732000843789": 3,
+      "gas:candidate-vibid:2732000832691": 19,
+      "gas:candidate-vibid:2732000839731": 200
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735903&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735903&type=464",
@@ -12868,13 +12868,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 11,
-      "Брагин Александр Александрович": 7,
-      "Грачев Дмитрий Николаевич": 21,
-      "Ильясов Руслан Ринатович": 4,
-      "Кислица Николай Николаевич": 1,
-      "Синельщиков Юрий Петрович": 17,
-      "Третьяк Владислав Александрович": 273
+      "gas:candidate-vibid:2732000842506": 11,
+      "gas:candidate-vibid:2732000844513": 7,
+      "gas:candidate-vibid:2732000825078": 21,
+      "gas:candidate-vibid:2732000843460": 4,
+      "gas:candidate-vibid:2732000843789": 1,
+      "gas:candidate-vibid:2732000832691": 17,
+      "gas:candidate-vibid:2732000839731": 273
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735903&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735903&type=464",
@@ -12925,13 +12925,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 7,
-      "Брагин Александр Александрович": 2,
-      "Грачев Дмитрий Николаевич": 17,
-      "Ильясов Руслан Ринатович": 2,
-      "Кислица Николай Николаевич": 2,
-      "Синельщиков Юрий Петрович": 12,
-      "Третьяк Владислав Александрович": 216
+      "gas:candidate-vibid:2732000842506": 7,
+      "gas:candidate-vibid:2732000844513": 2,
+      "gas:candidate-vibid:2732000825078": 17,
+      "gas:candidate-vibid:2732000843460": 2,
+      "gas:candidate-vibid:2732000843789": 2,
+      "gas:candidate-vibid:2732000832691": 12,
+      "gas:candidate-vibid:2732000839731": 216
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735903&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735903&type=464",
@@ -12982,13 +12982,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 2,
-      "Брагин Александр Александрович": 0,
-      "Грачев Дмитрий Николаевич": 4,
-      "Ильясов Руслан Ринатович": 1,
-      "Кислица Николай Николаевич": 1,
-      "Синельщиков Юрий Петрович": 5,
-      "Третьяк Владислав Александрович": 62
+      "gas:candidate-vibid:2732000842506": 2,
+      "gas:candidate-vibid:2732000844513": 0,
+      "gas:candidate-vibid:2732000825078": 4,
+      "gas:candidate-vibid:2732000843460": 1,
+      "gas:candidate-vibid:2732000843789": 1,
+      "gas:candidate-vibid:2732000832691": 5,
+      "gas:candidate-vibid:2732000839731": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735903&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735903&type=464",
@@ -13039,13 +13039,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 7,
-      "Брагин Александр Александрович": 0,
-      "Грачев Дмитрий Николаевич": 5,
-      "Ильясов Руслан Ринатович": 0,
-      "Кислица Николай Николаевич": 0,
-      "Синельщиков Юрий Петрович": 0,
-      "Третьяк Владислав Александрович": 52
+      "gas:candidate-vibid:2732000842506": 7,
+      "gas:candidate-vibid:2732000844513": 0,
+      "gas:candidate-vibid:2732000825078": 5,
+      "gas:candidate-vibid:2732000843460": 0,
+      "gas:candidate-vibid:2732000843789": 0,
+      "gas:candidate-vibid:2732000832691": 0,
+      "gas:candidate-vibid:2732000839731": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735903&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735903&type=464",
@@ -13096,13 +13096,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 3,
-      "Брагин Александр Александрович": 3,
-      "Грачев Дмитрий Николаевич": 8,
-      "Ильясов Руслан Ринатович": 1,
-      "Кислица Николай Николаевич": 0,
-      "Синельщиков Юрий Петрович": 5,
-      "Третьяк Владислав Александрович": 199
+      "gas:candidate-vibid:2732000842506": 3,
+      "gas:candidate-vibid:2732000844513": 3,
+      "gas:candidate-vibid:2732000825078": 8,
+      "gas:candidate-vibid:2732000843460": 1,
+      "gas:candidate-vibid:2732000843789": 0,
+      "gas:candidate-vibid:2732000832691": 5,
+      "gas:candidate-vibid:2732000839731": 199
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735903&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735903&type=464",
@@ -13153,13 +13153,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 7,
-      "Брагин Александр Александрович": 4,
-      "Грачев Дмитрий Николаевич": 21,
-      "Ильясов Руслан Ринатович": 2,
-      "Кислица Николай Николаевич": 2,
-      "Синельщиков Юрий Петрович": 28,
-      "Третьяк Владислав Александрович": 300
+      "gas:candidate-vibid:2732000842506": 7,
+      "gas:candidate-vibid:2732000844513": 4,
+      "gas:candidate-vibid:2732000825078": 21,
+      "gas:candidate-vibid:2732000843460": 2,
+      "gas:candidate-vibid:2732000843789": 2,
+      "gas:candidate-vibid:2732000832691": 28,
+      "gas:candidate-vibid:2732000839731": 300
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735903&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735903&type=464",
@@ -13210,13 +13210,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 2,
-      "Брагин Александр Александрович": 1,
-      "Грачев Дмитрий Николаевич": 7,
-      "Ильясов Руслан Ринатович": 1,
-      "Кислица Николай Николаевич": 3,
-      "Синельщиков Юрий Петрович": 6,
-      "Третьяк Владислав Александрович": 138
+      "gas:candidate-vibid:2732000842506": 2,
+      "gas:candidate-vibid:2732000844513": 1,
+      "gas:candidate-vibid:2732000825078": 7,
+      "gas:candidate-vibid:2732000843460": 1,
+      "gas:candidate-vibid:2732000843789": 3,
+      "gas:candidate-vibid:2732000832691": 6,
+      "gas:candidate-vibid:2732000839731": 138
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735903&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735903&type=464",
@@ -13267,13 +13267,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 5,
-      "Брагин Александр Александрович": 2,
-      "Грачев Дмитрий Николаевич": 17,
-      "Ильясов Руслан Ринатович": 2,
-      "Кислица Николай Николаевич": 2,
-      "Синельщиков Юрий Петрович": 17,
-      "Третьяк Владислав Александрович": 131
+      "gas:candidate-vibid:2732000842506": 5,
+      "gas:candidate-vibid:2732000844513": 2,
+      "gas:candidate-vibid:2732000825078": 17,
+      "gas:candidate-vibid:2732000843460": 2,
+      "gas:candidate-vibid:2732000843789": 2,
+      "gas:candidate-vibid:2732000832691": 17,
+      "gas:candidate-vibid:2732000839731": 131
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735903&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735903&type=464",
@@ -13324,13 +13324,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 7,
-      "Брагин Александр Александрович": 6,
-      "Грачев Дмитрий Николаевич": 58,
-      "Ильясов Руслан Ринатович": 11,
-      "Кислица Николай Николаевич": 4,
-      "Синельщиков Юрий Петрович": 62,
-      "Третьяк Владислав Александрович": 1384
+      "gas:candidate-vibid:2732000842506": 7,
+      "gas:candidate-vibid:2732000844513": 6,
+      "gas:candidate-vibid:2732000825078": 58,
+      "gas:candidate-vibid:2732000843460": 11,
+      "gas:candidate-vibid:2732000843789": 4,
+      "gas:candidate-vibid:2732000832691": 62,
+      "gas:candidate-vibid:2732000839731": 1384
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735903&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735903&type=464",
@@ -13381,13 +13381,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 12,
-      "Брагин Александр Александрович": 8,
-      "Грачев Дмитрий Николаевич": 40,
-      "Ильясов Руслан Ринатович": 4,
-      "Кислица Николай Николаевич": 4,
-      "Синельщиков Юрий Петрович": 42,
-      "Третьяк Владислав Александрович": 508
+      "gas:candidate-vibid:2732000842506": 12,
+      "gas:candidate-vibid:2732000844513": 8,
+      "gas:candidate-vibid:2732000825078": 40,
+      "gas:candidate-vibid:2732000843460": 4,
+      "gas:candidate-vibid:2732000843789": 4,
+      "gas:candidate-vibid:2732000832691": 42,
+      "gas:candidate-vibid:2732000839731": 508
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735903&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735903&type=464",
@@ -13438,13 +13438,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 5,
-      "Брагин Александр Александрович": 3,
-      "Грачев Дмитрий Николаевич": 13,
-      "Ильясов Руслан Ринатович": 18,
-      "Кислица Николай Николаевич": 0,
-      "Синельщиков Юрий Петрович": 23,
-      "Третьяк Владислав Александрович": 1759
+      "gas:candidate-vibid:2732000842506": 5,
+      "gas:candidate-vibid:2732000844513": 3,
+      "gas:candidate-vibid:2732000825078": 13,
+      "gas:candidate-vibid:2732000843460": 18,
+      "gas:candidate-vibid:2732000843789": 0,
+      "gas:candidate-vibid:2732000832691": 23,
+      "gas:candidate-vibid:2732000839731": 1759
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735903&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735903&type=464",
@@ -13495,13 +13495,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 4,
-      "Брагин Александр Александрович": 3,
-      "Грачев Дмитрий Николаевич": 10,
-      "Ильясов Руслан Ринатович": 4,
-      "Кислица Николай Николаевич": 0,
-      "Синельщиков Юрий Петрович": 15,
-      "Третьяк Владислав Александрович": 201
+      "gas:candidate-vibid:2732000842506": 4,
+      "gas:candidate-vibid:2732000844513": 3,
+      "gas:candidate-vibid:2732000825078": 10,
+      "gas:candidate-vibid:2732000843460": 4,
+      "gas:candidate-vibid:2732000843789": 0,
+      "gas:candidate-vibid:2732000832691": 15,
+      "gas:candidate-vibid:2732000839731": 201
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735903&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735903&type=464",
@@ -13552,13 +13552,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 10,
-      "Брагин Александр Александрович": 3,
-      "Грачев Дмитрий Николаевич": 32,
-      "Ильясов Руслан Ринатович": 16,
-      "Кислица Николай Николаевич": 2,
-      "Синельщиков Юрий Петрович": 26,
-      "Третьяк Владислав Александрович": 322
+      "gas:candidate-vibid:2732000842506": 10,
+      "gas:candidate-vibid:2732000844513": 3,
+      "gas:candidate-vibid:2732000825078": 32,
+      "gas:candidate-vibid:2732000843460": 16,
+      "gas:candidate-vibid:2732000843789": 2,
+      "gas:candidate-vibid:2732000832691": 26,
+      "gas:candidate-vibid:2732000839731": 322
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735903&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735903&type=464",
@@ -13609,13 +13609,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 3,
-      "Брагин Александр Александрович": 0,
-      "Грачев Дмитрий Николаевич": 5,
-      "Ильясов Руслан Ринатович": 1,
-      "Кислица Николай Николаевич": 0,
-      "Синельщиков Юрий Петрович": 7,
-      "Третьяк Владислав Александрович": 119
+      "gas:candidate-vibid:2732000842506": 3,
+      "gas:candidate-vibid:2732000844513": 0,
+      "gas:candidate-vibid:2732000825078": 5,
+      "gas:candidate-vibid:2732000843460": 1,
+      "gas:candidate-vibid:2732000843789": 0,
+      "gas:candidate-vibid:2732000832691": 7,
+      "gas:candidate-vibid:2732000839731": 119
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735903&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735903&type=464",
@@ -13666,13 +13666,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 2,
-      "Брагин Александр Александрович": 3,
-      "Грачев Дмитрий Николаевич": 11,
-      "Ильясов Руслан Ринатович": 16,
-      "Кислица Николай Николаевич": 0,
-      "Синельщиков Юрий Петрович": 18,
-      "Третьяк Владислав Александрович": 424
+      "gas:candidate-vibid:2732000842506": 2,
+      "gas:candidate-vibid:2732000844513": 3,
+      "gas:candidate-vibid:2732000825078": 11,
+      "gas:candidate-vibid:2732000843460": 16,
+      "gas:candidate-vibid:2732000843789": 0,
+      "gas:candidate-vibid:2732000832691": 18,
+      "gas:candidate-vibid:2732000839731": 424
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735903&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735903&type=464",
@@ -13723,13 +13723,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 5,
-      "Брагин Александр Александрович": 2,
-      "Грачев Дмитрий Николаевич": 12,
-      "Ильясов Руслан Ринатович": 39,
-      "Кислица Николай Николаевич": 6,
-      "Синельщиков Юрий Петрович": 95,
-      "Третьяк Владислав Александрович": 743
+      "gas:candidate-vibid:2732000842506": 5,
+      "gas:candidate-vibid:2732000844513": 2,
+      "gas:candidate-vibid:2732000825078": 12,
+      "gas:candidate-vibid:2732000843460": 39,
+      "gas:candidate-vibid:2732000843789": 6,
+      "gas:candidate-vibid:2732000832691": 95,
+      "gas:candidate-vibid:2732000839731": 743
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735903&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735903&type=464",
@@ -13780,13 +13780,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 5,
-      "Брагин Александр Александрович": 5,
-      "Грачев Дмитрий Николаевич": 12,
-      "Ильясов Руслан Ринатович": 1,
-      "Кислица Николай Николаевич": 3,
-      "Синельщиков Юрий Петрович": 15,
-      "Третьяк Владислав Александрович": 126
+      "gas:candidate-vibid:2732000842506": 5,
+      "gas:candidate-vibid:2732000844513": 5,
+      "gas:candidate-vibid:2732000825078": 12,
+      "gas:candidate-vibid:2732000843460": 1,
+      "gas:candidate-vibid:2732000843789": 3,
+      "gas:candidate-vibid:2732000832691": 15,
+      "gas:candidate-vibid:2732000839731": 126
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735903&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735903&type=464",
@@ -13837,13 +13837,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 2,
-      "Брагин Александр Александрович": 3,
-      "Грачев Дмитрий Николаевич": 6,
-      "Ильясов Руслан Ринатович": 2,
-      "Кислица Николай Николаевич": 1,
-      "Синельщиков Юрий Петрович": 13,
-      "Третьяк Владислав Александрович": 141
+      "gas:candidate-vibid:2732000842506": 2,
+      "gas:candidate-vibid:2732000844513": 3,
+      "gas:candidate-vibid:2732000825078": 6,
+      "gas:candidate-vibid:2732000843460": 2,
+      "gas:candidate-vibid:2732000843789": 1,
+      "gas:candidate-vibid:2732000832691": 13,
+      "gas:candidate-vibid:2732000839731": 141
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735903&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735903&type=464",
@@ -13894,13 +13894,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 4,
-      "Брагин Александр Александрович": 3,
-      "Грачев Дмитрий Николаевич": 13,
-      "Ильясов Руслан Ринатович": 0,
-      "Кислица Николай Николаевич": 2,
-      "Синельщиков Юрий Петрович": 16,
-      "Третьяк Владислав Александрович": 271
+      "gas:candidate-vibid:2732000842506": 4,
+      "gas:candidate-vibid:2732000844513": 3,
+      "gas:candidate-vibid:2732000825078": 13,
+      "gas:candidate-vibid:2732000843460": 0,
+      "gas:candidate-vibid:2732000843789": 2,
+      "gas:candidate-vibid:2732000832691": 16,
+      "gas:candidate-vibid:2732000839731": 271
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735903&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735903&type=464",
@@ -13951,13 +13951,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 17,
-      "Брагин Александр Александрович": 14,
-      "Грачев Дмитрий Николаевич": 63,
-      "Ильясов Руслан Ринатович": 5,
-      "Кислица Николай Николаевич": 6,
-      "Синельщиков Юрий Петрович": 53,
-      "Третьяк Владислав Александрович": 795
+      "gas:candidate-vibid:2732000842506": 17,
+      "gas:candidate-vibid:2732000844513": 14,
+      "gas:candidate-vibid:2732000825078": 63,
+      "gas:candidate-vibid:2732000843460": 5,
+      "gas:candidate-vibid:2732000843789": 6,
+      "gas:candidate-vibid:2732000832691": 53,
+      "gas:candidate-vibid:2732000839731": 795
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735903&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735903&type=464",
@@ -14008,13 +14008,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 5,
-      "Брагин Александр Александрович": 3,
-      "Грачев Дмитрий Николаевич": 8,
-      "Ильясов Руслан Ринатович": 1,
-      "Кислица Николай Николаевич": 4,
-      "Синельщиков Юрий Петрович": 19,
-      "Третьяк Владислав Александрович": 225
+      "gas:candidate-vibid:2732000842506": 5,
+      "gas:candidate-vibid:2732000844513": 3,
+      "gas:candidate-vibid:2732000825078": 8,
+      "gas:candidate-vibid:2732000843460": 1,
+      "gas:candidate-vibid:2732000843789": 4,
+      "gas:candidate-vibid:2732000832691": 19,
+      "gas:candidate-vibid:2732000839731": 225
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735903&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735903&type=464",
@@ -14065,13 +14065,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 12,
-      "Брагин Александр Александрович": 1,
-      "Грачев Дмитрий Николаевич": 13,
-      "Ильясов Руслан Ринатович": 1,
-      "Кислица Николай Николаевич": 1,
-      "Синельщиков Юрий Петрович": 19,
-      "Третьяк Владислав Александрович": 328
+      "gas:candidate-vibid:2732000842506": 12,
+      "gas:candidate-vibid:2732000844513": 1,
+      "gas:candidate-vibid:2732000825078": 13,
+      "gas:candidate-vibid:2732000843460": 1,
+      "gas:candidate-vibid:2732000843789": 1,
+      "gas:candidate-vibid:2732000832691": 19,
+      "gas:candidate-vibid:2732000839731": 328
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735903&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735903&type=464",
@@ -14122,13 +14122,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 3,
-      "Брагин Александр Александрович": 2,
-      "Грачев Дмитрий Николаевич": 12,
-      "Ильясов Руслан Ринатович": 0,
-      "Кислица Николай Николаевич": 0,
-      "Синельщиков Юрий Петрович": 6,
-      "Третьяк Владислав Александрович": 200
+      "gas:candidate-vibid:2732000842506": 3,
+      "gas:candidate-vibid:2732000844513": 2,
+      "gas:candidate-vibid:2732000825078": 12,
+      "gas:candidate-vibid:2732000843460": 0,
+      "gas:candidate-vibid:2732000843789": 0,
+      "gas:candidate-vibid:2732000832691": 6,
+      "gas:candidate-vibid:2732000839731": 200
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735903&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735903&type=464",
@@ -14179,13 +14179,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 19,
-      "Брагин Александр Александрович": 3,
-      "Грачев Дмитрий Николаевич": 53,
-      "Ильясов Руслан Ринатович": 4,
-      "Кислица Николай Николаевич": 1,
-      "Синельщиков Юрий Петрович": 54,
-      "Третьяк Владислав Александрович": 460
+      "gas:candidate-vibid:2732000842506": 19,
+      "gas:candidate-vibid:2732000844513": 3,
+      "gas:candidate-vibid:2732000825078": 53,
+      "gas:candidate-vibid:2732000843460": 4,
+      "gas:candidate-vibid:2732000843789": 1,
+      "gas:candidate-vibid:2732000832691": 54,
+      "gas:candidate-vibid:2732000839731": 460
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735904&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735904&type=464",
@@ -14236,13 +14236,13 @@ export const duma_2016_uik_463_region_73_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Архипов Алексей Анатольевич": 22,
-      "Брагин Александр Александрович": 4,
-      "Грачев Дмитрий Николаевич": 67,
-      "Ильясов Руслан Ринатович": 2,
-      "Кислица Николай Николаевич": 2,
-      "Синельщиков Юрий Петрович": 70,
-      "Третьяк Владислав Александрович": 527
+      "gas:candidate-vibid:2732000842506": 22,
+      "gas:candidate-vibid:2732000844513": 4,
+      "gas:candidate-vibid:2732000825078": 67,
+      "gas:candidate-vibid:2732000843460": 2,
+      "gas:candidate-vibid:2732000843789": 2,
+      "gas:candidate-vibid:2732000832691": 70,
+      "gas:candidate-vibid:2732000839731": 527
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ulyanovsk?action=show&root=1000249&tvd=2732000735904&vrn=100100067795849&region=73&global=&sub_region=73&prver=0&pronetvd=null&vibid=2732000735904&type=464",

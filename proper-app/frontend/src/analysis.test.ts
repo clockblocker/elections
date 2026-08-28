@@ -1,68 +1,80 @@
 import { describe, expect, test } from "vitest";
 import {
-  DEFAULT_PARAMETERS, adjustBenjaminiHochberg, adjustBenjaminiYekutieli, analyze,
-  gradeFor, summarizeAnalysis
+  DEFAULT_PARAMETERS, adjustBenjaminiHochberg, adjustBenjaminiYekutieli,
+  analyze, gradeFor, summarizeAnalysis
 } from "./analysis";
 import type { Point } from "./types";
 
 function point(
-  id: string, optionVotes: number, validBallots = 1_000, turnout = 50,
-  regionCode = "1", tikTvd = "tik-1"
+  id: string, optionVotes: number, validBallots = 1_000, turnout = 40,
+  regionCode = "1", tikTvd = "tik-1", registeredVoters = 3_000
 ): Point {
+  const ballotsCounted = Math.round(registeredVoters * turnout / 100);
   return {
     id, regionCode, tikTvd, optionVotes, validBallots, turnout,
-    registeredVoters: 2_000, ballotsCounted: Math.round(20 * turnout),
+    registeredVoters, ballotsCounted,
     result: validBallots > 0 ? 100 * optionVotes / validBallots : null,
     uikNumber: Number(id.replace(/\D/g, "")) || 1, uikTvd: id,
     tikName: tikTvd, regionName: regionCode
   };
 }
 
-function fixture(): Point[] {
-  const points: Point[] = [];
-  for (let index = 0; index < 80; index += 1) {
-    const turnout = 35 + index % 20;
-    const ordinary = 195 + (index % 7) * 2;
-    points.push(point(`p${index}`, ordinary, 1_000, turnout, "1", `tik-${Math.floor(index / 20)}`));
-  }
-  return points;
+function fixture(count = 100): Point[] {
+  return Array.from({ length: count }, (_, index) => {
+    const turnout = 34 + index % 14;
+    const votes = 180 + (index * 17 % 45);
+    return point(`p${index}`, votes, 1_000, turnout, "1", `tik-${Math.floor(index / 20)}`);
+  });
 }
 
-describe("peer-clt-v2", () => {
-  test("scores every eligible protocol and preserves explicit unscored reasons", () => {
-    const points = [...fixture(), point("zero", 0, 0, 0)];
-    const result = analyze(points, { ...DEFAULT_PARAMETERS, minRegionPeers: 10, minTikPeers: 5 });
+describe("protocol-cloud-clt-v3", () => {
+  test("models the complete election protocol field and preserves invalid rows as U", () => {
+    const points = [...fixture(), point("zero", 0, 0, 0),
+      point("impossible", 500, 1_000, 20)];
+    const result = analyze(points);
     expect(result.protocols).toBe(points.length);
     expect(result.estimates.size).toBe(points.length);
     expect(result.estimates.get("zero")).toMatchObject({ status: "unscored", grade: "U", reason: "no-valid-ballots" });
+    expect(result.estimates.get("impossible")).toMatchObject({
+      status: "unscored", grade: "U", reason: "invalid-accounting"
+    });
     expect(result.scoredProtocols + result.unscoredProtocols).toBe(points.length);
+    expect(result.core.protocols).toBe(50);
   });
 
-  test("uses n times the out-of-sample expected share and grades a large positive residual higher", () => {
-    const points = fixture();
-    points.push(point("moderate", 260, 1_000, 45, "1", "tik-1"));
-    points.push(point("large", 500, 1_000, 45, "1", "tik-1"));
-    const result = analyze(points, { ...DEFAULT_PARAMETERS, minRegionPeers: 10, minTikPeers: 5 });
-    const moderate = result.estimates.get("moderate")!;
+  test("does not condition away a dense high-turnout/high-result tail", () => {
+    const points = [...fixture(100), ...Array.from({ length: 20 }, (_, index) =>
+      point(`tail${index}`, 990, 1_000, 99, "2", "tail-tik"))];
+    const result = analyze(points);
+    const tail = points.filter((item) => item.id.startsWith("tail"))
+      .map((item) => result.estimates.get(item.id)!);
+    expect(tail.every((estimate) => estimate.grade === "P3")).toBe(true);
+    expect(tail.every((estimate) => estimate.direction === "high-high")).toBe(true);
+  });
+
+  test("finite-count variance distinguishes one-of-one from a large 100% protocol", () => {
+    const points = [...fixture(),
+      point("tiny", 1, 1, 100, "2", "edge", 1),
+      point("large", 1_000, 1_000, 100, "2", "edge", 1_000)];
+    const result = analyze(points);
+    const tiny = result.estimates.get("tiny")!;
     const large = result.estimates.get("large")!;
-    expect(moderate.expectedVotes).toBeCloseTo((moderate.expectedShare ?? 0) * 1_000);
-    expect(large.pSus ?? 0).toBeGreaterThan(moderate.pSus ?? 0);
-    expect(large.grade).toBe("P1");
+    expect(large.pSus ?? 0).toBeGreaterThan(tiny.pSus ?? 0);
+    expect(large.grade).toBe("P3");
+    expect(tiny.qualityFlags).toContain("finite-count-clt-weak");
   });
 
-  test("adds empirical heterogeneity to the binomial CLT variance", () => {
-    const points = fixture().map((item, index) => ({
-      ...item,
-      optionVotes: index % 2 ? 300 : 100,
-      result: index % 2 ? 30 : 10
-    }));
-    const result = analyze(points, { ...DEFAULT_PARAMETERS, minRegionPeers: 10, minTikPeers: 5 });
-    const estimate = result.estimates.get("p20")!;
-    expect(estimate.overdispersion ?? 0).toBeGreaterThan(1);
-    expect((estimate.interval95?.[1] ?? 0) - (estimate.interval95?.[0] ?? 0)).toBeGreaterThan(30);
+  test("returns a finite election-wide core and contour", () => {
+    const result = analyze(fixture());
+    expect(result.core.expectedTurnout).toBeGreaterThan(30);
+    expect(result.core.expectedTurnout).toBeLessThan(50);
+    expect(result.core.expectedResult).toBeGreaterThan(15);
+    expect(result.core.expectedResult).toBeLessThan(25);
+    expect(result.core.contour95).toHaveLength(97);
+    expect(result.core.contour95.every((item) => Number.isFinite(item.turnout) && Number.isFinite(item.result))).toBe(true);
   });
 
-  test("uses known Benjamini-Hochberg adjusted values", () => {
+  test("uses known BH and BY adjustments", () => {
     const adjusted = adjustBenjaminiHochberg([
       { id: "a", p: 0.01 }, { id: "b", p: 0.04 }, { id: "c", p: 0.03 }, { id: "d", p: 0.002 }
     ]);
@@ -74,16 +86,17 @@ describe("peer-clt-v2", () => {
     expect(by.get("a")).toBeCloseTo(0.03);
   });
 
-  test("keeps P_sus severity separate from display summaries and FDR review flags", () => {
+  test("keeps grades stable when geography is only a display slice", () => {
     expect(gradeFor(0.949)).toBe("P0");
     expect(gradeFor(0.95)).toBe("P1");
     expect(gradeFor(0.99)).toBe("P2");
     expect(gradeFor(0.999)).toBe("P3");
     expect(gradeFor(null)).toBe("U");
     const points = fixture();
-    const result = analyze(points, { ...DEFAULT_PARAMETERS, minRegionPeers: 10, minTikPeers: 5 });
+    const result = analyze(points);
+    const before = result.estimates.get(points[0].id)?.pSus;
     const slice = summarizeAnalysis(result, points.slice(0, 10));
     expect(slice.protocols).toBe(10);
-    expect(slice.scoredProtocols + slice.unscoredProtocols).toBe(10);
+    expect(result.estimates.get(points[0].id)?.pSus).toBe(before);
   });
 });

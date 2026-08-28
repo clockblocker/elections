@@ -11,8 +11,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 160,
     "uikTvd": "4824004153286",
+    "uikName": "УИК №160",
     "tikTvd": "2412000575176",
     "tikName": "Тигильская",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 116,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 120,
@@ -28,12 +32,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 0,
-      "Зайцева Екатерина Александровна": 3,
-      "Калашников Валерий Юрьевич": 7,
-      "Литвинов Роман Демьянович": 4,
-      "Хомяков Виктор Александрович": 7,
-      "Яровая Ирина Анатольевна": 31
+      "2412000588641": 0,
+      "2412000588623": 3,
+      "2412000584323": 7,
+      "2412000587277": 4,
+      "2412000590749": 7,
+      "2412000587266": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575176&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575176&type=464",
@@ -43,6 +47,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:55:56.119842+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575176&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575176&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -52,8 +60,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 161,
     "uikTvd": "4824004153287",
+    "uikName": "УИК №161",
     "tikTvd": "2412000575176",
     "tikName": "Тигильская",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 759,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 700,
@@ -69,12 +81,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 25,
-      "Зайцева Екатерина Александровна": 29,
-      "Калашников Валерий Юрьевич": 44,
-      "Литвинов Роман Демьянович": 36,
-      "Хомяков Виктор Александрович": 20,
-      "Яровая Ирина Анатольевна": 112
+      "2412000588641": 25,
+      "2412000588623": 29,
+      "2412000584323": 44,
+      "2412000587277": 36,
+      "2412000590749": 20,
+      "2412000587266": 112
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575176&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575176&type=464",
@@ -84,6 +96,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:55:56.119842+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575176&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575176&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -93,8 +109,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 162,
     "uikTvd": "4824004153288",
+    "uikName": "УИК №162",
     "tikTvd": "2412000575176",
     "tikName": "Тигильская",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 230,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 225,
@@ -110,12 +130,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 7,
-      "Зайцева Екатерина Александровна": 12,
-      "Калашников Валерий Юрьевич": 9,
-      "Литвинов Роман Демьянович": 6,
-      "Хомяков Виктор Александрович": 8,
-      "Яровая Ирина Анатольевна": 62
+      "2412000588641": 7,
+      "2412000588623": 12,
+      "2412000584323": 9,
+      "2412000587277": 6,
+      "2412000590749": 8,
+      "2412000587266": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575176&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575176&type=464",
@@ -125,6 +145,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:55:56.119842+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575176&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575176&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -134,8 +158,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 163,
     "uikTvd": "4824004153289",
+    "uikName": "УИК №163",
     "tikTvd": "2412000575176",
     "tikName": "Тигильская",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 333,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 398,
@@ -151,12 +179,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 24,
-      "Зайцева Екатерина Александровна": 7,
-      "Калашников Валерий Юрьевич": 21,
-      "Литвинов Роман Демьянович": 13,
-      "Хомяков Виктор Александрович": 11,
-      "Яровая Ирина Анатольевна": 106
+      "2412000588641": 24,
+      "2412000588623": 7,
+      "2412000584323": 21,
+      "2412000587277": 13,
+      "2412000590749": 11,
+      "2412000587266": 106
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575176&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575176&type=464",
@@ -166,6 +194,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:55:56.119842+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575176&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575176&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -175,8 +207,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 164,
     "uikTvd": "4824004153290",
+    "uikName": "УИК №164",
     "tikTvd": "2412000575176",
     "tikName": "Тигильская",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1336,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1347,
@@ -192,12 +228,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 62,
-      "Зайцева Екатерина Александровна": 51,
-      "Калашников Валерий Юрьевич": 58,
-      "Литвинов Роман Демьянович": 58,
-      "Хомяков Виктор Александрович": 32,
-      "Яровая Ирина Анатольевна": 244
+      "2412000588641": 62,
+      "2412000588623": 51,
+      "2412000584323": 58,
+      "2412000587277": 58,
+      "2412000590749": 32,
+      "2412000587266": 244
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575176&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575176&type=464",
@@ -207,6 +243,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:55:56.119842+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575176&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575176&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -216,8 +256,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 165,
     "uikTvd": "4824004153291",
+    "uikName": "УИК №165",
     "tikTvd": "2412000575176",
     "tikName": "Тигильская",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 115,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 125,
@@ -233,12 +277,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 15,
-      "Зайцева Екатерина Александровна": 1,
-      "Калашников Валерий Юрьевич": 7,
-      "Литвинов Роман Демьянович": 5,
-      "Хомяков Виктор Александрович": 2,
-      "Яровая Ирина Анатольевна": 38
+      "2412000588641": 15,
+      "2412000588623": 1,
+      "2412000584323": 7,
+      "2412000587277": 5,
+      "2412000590749": 2,
+      "2412000587266": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575176&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575176&type=464",
@@ -248,6 +292,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:55:56.119842+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575176&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575176&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -257,8 +305,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 166,
     "uikTvd": "4824004153292",
+    "uikName": "УИК №166",
     "tikTvd": "2412000575176",
     "tikName": "Тигильская",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 246,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 262,
@@ -274,12 +326,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 21,
-      "Зайцева Екатерина Александровна": 12,
-      "Калашников Валерий Юрьевич": 9,
-      "Литвинов Роман Демьянович": 4,
-      "Хомяков Виктор Александрович": 5,
-      "Яровая Ирина Анатольевна": 76
+      "2412000588641": 21,
+      "2412000588623": 12,
+      "2412000584323": 9,
+      "2412000587277": 4,
+      "2412000590749": 5,
+      "2412000587266": 76
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575176&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575176&type=464",
@@ -289,6 +341,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:55:56.119842+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575176&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575176&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -298,8 +354,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 167,
     "uikTvd": "4824004153293",
+    "uikName": "УИК №167",
     "tikTvd": "2412000575176",
     "tikName": "Тигильская",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2222,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2220,
@@ -315,12 +375,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 179,
-      "Зайцева Екатерина Александровна": 74,
-      "Калашников Валерий Юрьевич": 91,
-      "Литвинов Роман Демьянович": 88,
-      "Хомяков Виктор Александрович": 33,
-      "Яровая Ирина Анатольевна": 466
+      "2412000588641": 179,
+      "2412000588623": 74,
+      "2412000584323": 91,
+      "2412000587277": 88,
+      "2412000590749": 33,
+      "2412000587266": 466
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575176&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575176&type=464",
@@ -330,6 +390,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:55:56.119842+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575176&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575176&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -339,8 +403,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 182,
     "uikTvd": "4824003199382",
+    "uikName": "УИК №182",
     "tikTvd": "2412000575177",
     "tikName": "Пенжинская",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 48,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 42,
@@ -356,12 +424,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 2,
-      "Зайцева Екатерина Александровна": 2,
-      "Калашников Валерий Юрьевич": 10,
-      "Литвинов Роман Демьянович": 2,
-      "Хомяков Виктор Александрович": 0,
-      "Яровая Ирина Анатольевна": 14
+      "2412000588641": 2,
+      "2412000588623": 2,
+      "2412000584323": 10,
+      "2412000587277": 2,
+      "2412000590749": 0,
+      "2412000587266": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575177&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575177&type=464",
@@ -371,6 +439,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:55:56.261980+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575177&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575177&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -380,8 +452,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 183,
     "uikTvd": "4824003199384",
+    "uikName": "УИК №183",
     "tikTvd": "2412000575177",
     "tikName": "Пенжинская",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 369,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 352,
@@ -397,12 +473,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 16,
-      "Зайцева Екатерина Александровна": 24,
-      "Калашников Валерий Юрьевич": 27,
-      "Литвинов Роман Демьянович": 15,
-      "Хомяков Виктор Александрович": 2,
-      "Яровая Ирина Анатольевна": 93
+      "2412000588641": 16,
+      "2412000588623": 24,
+      "2412000584323": 27,
+      "2412000587277": 15,
+      "2412000590749": 2,
+      "2412000587266": 93
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575177&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575177&type=464",
@@ -412,6 +488,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:55:56.261980+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575177&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575177&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -421,8 +501,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 184,
     "uikTvd": "4824003199386",
+    "uikName": "УИК №184",
     "tikTvd": "2412000575177",
     "tikName": "Пенжинская",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 112,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 126,
@@ -438,12 +522,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 6,
-      "Зайцева Екатерина Александровна": 2,
-      "Калашников Валерий Юрьевич": 11,
-      "Литвинов Роман Демьянович": 12,
-      "Хомяков Виктор Александрович": 4,
-      "Яровая Ирина Анатольевна": 71
+      "2412000588641": 6,
+      "2412000588623": 2,
+      "2412000584323": 11,
+      "2412000587277": 12,
+      "2412000590749": 4,
+      "2412000587266": 71
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575177&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575177&type=464",
@@ -453,6 +537,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:55:56.261980+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575177&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575177&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -462,8 +550,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 185,
     "uikTvd": "4824003199388",
+    "uikName": "УИК №185",
     "tikTvd": "2412000575177",
     "tikName": "Пенжинская",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 561,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 733,
@@ -479,12 +571,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 35,
-      "Зайцева Екатерина Александровна": 33,
-      "Калашников Валерий Юрьевич": 34,
-      "Литвинов Роман Демьянович": 43,
-      "Хомяков Виктор Александрович": 22,
-      "Яровая Ирина Анатольевна": 144
+      "2412000588641": 35,
+      "2412000588623": 33,
+      "2412000584323": 34,
+      "2412000587277": 43,
+      "2412000590749": 22,
+      "2412000587266": 144
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575177&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575177&type=464",
@@ -494,6 +586,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:55:56.261980+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575177&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575177&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -503,8 +599,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 186,
     "uikTvd": "4824003199390",
+    "uikName": "УИК №186",
     "tikTvd": "2412000575177",
     "tikName": "Пенжинская",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 35,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 38,
@@ -520,12 +620,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 7,
-      "Зайцева Екатерина Александровна": 2,
-      "Калашников Валерий Юрьевич": 4,
-      "Литвинов Роман Демьянович": 0,
-      "Хомяков Виктор Александрович": 1,
-      "Яровая Ирина Анатольевна": 16
+      "2412000588641": 7,
+      "2412000588623": 2,
+      "2412000584323": 4,
+      "2412000587277": 0,
+      "2412000590749": 1,
+      "2412000587266": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575177&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575177&type=464",
@@ -535,6 +635,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:55:56.261980+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575177&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575177&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -544,8 +648,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 187,
     "uikTvd": "4824003199392",
+    "uikName": "УИК №187",
     "tikTvd": "2412000575177",
     "tikName": "Пенжинская",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 222,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 170,
@@ -561,12 +669,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 9,
-      "Зайцева Екатерина Александровна": 9,
-      "Калашников Валерий Юрьевич": 19,
-      "Литвинов Роман Демьянович": 14,
-      "Хомяков Виктор Александрович": 3,
-      "Яровая Ирина Анатольевна": 84
+      "2412000588641": 9,
+      "2412000588623": 9,
+      "2412000584323": 19,
+      "2412000587277": 14,
+      "2412000590749": 3,
+      "2412000587266": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575177&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575177&type=464",
@@ -576,6 +684,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:55:56.261980+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575177&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575177&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -585,8 +697,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 188,
     "uikTvd": "4824003199394",
+    "uikName": "УИК №188",
     "tikTvd": "2412000575177",
     "tikName": "Пенжинская",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 212,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 146,
@@ -602,12 +718,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 4,
-      "Зайцева Екатерина Александровна": 9,
-      "Калашников Валерий Юрьевич": 15,
-      "Литвинов Роман Демьянович": 11,
-      "Хомяков Виктор Александрович": 8,
-      "Яровая Ирина Анатольевна": 52
+      "2412000588641": 4,
+      "2412000588623": 9,
+      "2412000584323": 15,
+      "2412000587277": 11,
+      "2412000590749": 8,
+      "2412000587266": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575177&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575177&type=464",
@@ -617,6 +733,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:55:56.261980+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575177&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575177&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -626,8 +746,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 174,
     "uikTvd": "4824002308591",
+    "uikName": "УИК №174",
     "tikTvd": "2412000575178",
     "tikName": "Олюторская",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 334,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 350,
@@ -643,12 +767,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 11,
-      "Зайцева Екатерина Александровна": 11,
-      "Калашников Валерий Юрьевич": 15,
-      "Литвинов Роман Демьянович": 30,
-      "Хомяков Виктор Александрович": 8,
-      "Яровая Ирина Анатольевна": 48
+      "2412000588641": 11,
+      "2412000588623": 11,
+      "2412000584323": 15,
+      "2412000587277": 30,
+      "2412000590749": 8,
+      "2412000587266": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575178&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575178&type=464",
@@ -658,6 +782,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:55:56.402545+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575178&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575178&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -667,8 +795,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 175,
     "uikTvd": "4824002308592",
+    "uikName": "УИК №175",
     "tikTvd": "2412000575178",
     "tikName": "Олюторская",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 66,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 36,
@@ -684,12 +816,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 4,
-      "Зайцева Екатерина Александровна": 5,
-      "Калашников Валерий Юрьевич": 0,
-      "Литвинов Роман Демьянович": 11,
-      "Хомяков Виктор Александрович": 0,
-      "Яровая Ирина Анатольевна": 13
+      "2412000588641": 4,
+      "2412000588623": 5,
+      "2412000584323": 0,
+      "2412000587277": 11,
+      "2412000590749": 0,
+      "2412000587266": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575178&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575178&type=464",
@@ -699,6 +831,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:55:56.402545+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575178&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575178&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -708,8 +844,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 176,
     "uikTvd": "4824002308593",
+    "uikName": "УИК №176",
     "tikTvd": "2412000575178",
     "tikName": "Олюторская",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1263,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1200,
@@ -725,12 +865,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 67,
-      "Зайцева Екатерина Александровна": 31,
-      "Калашников Валерий Юрьевич": 57,
-      "Литвинов Роман Демьянович": 78,
-      "Хомяков Виктор Александрович": 27,
-      "Яровая Ирина Анатольевна": 170
+      "2412000588641": 67,
+      "2412000588623": 31,
+      "2412000584323": 57,
+      "2412000587277": 78,
+      "2412000590749": 27,
+      "2412000587266": 170
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575178&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575178&type=464",
@@ -740,6 +880,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:55:56.402545+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575178&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575178&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -749,8 +893,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 177,
     "uikTvd": "4824002308594",
+    "uikName": "УИК №177",
     "tikTvd": "2412000575178",
     "tikName": "Олюторская",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 501,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 500,
@@ -766,12 +914,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 25,
-      "Зайцева Екатерина Александровна": 12,
-      "Калашников Валерий Юрьевич": 13,
-      "Литвинов Роман Демьянович": 21,
-      "Хомяков Виктор Александрович": 10,
-      "Яровая Ирина Анатольевна": 122
+      "2412000588641": 25,
+      "2412000588623": 12,
+      "2412000584323": 13,
+      "2412000587277": 21,
+      "2412000590749": 10,
+      "2412000587266": 122
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575178&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575178&type=464",
@@ -781,6 +929,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:55:56.402545+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575178&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575178&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -790,8 +942,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 178,
     "uikTvd": "4824002308595",
+    "uikName": "УИК №178",
     "tikTvd": "2412000575178",
     "tikName": "Олюторская",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 349,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 360,
@@ -807,12 +963,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 14,
-      "Зайцева Екатерина Александровна": 15,
-      "Калашников Валерий Юрьевич": 18,
-      "Литвинов Роман Демьянович": 10,
-      "Хомяков Виктор Александрович": 6,
-      "Яровая Ирина Анатольевна": 41
+      "2412000588641": 14,
+      "2412000588623": 15,
+      "2412000584323": 18,
+      "2412000587277": 10,
+      "2412000590749": 6,
+      "2412000587266": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575178&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575178&type=464",
@@ -822,6 +978,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:55:56.402545+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575178&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575178&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -831,8 +991,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 179,
     "uikTvd": "4824002308596",
+    "uikName": "УИК №179",
     "tikTvd": "2412000575178",
     "tikName": "Олюторская",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 252,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 250,
@@ -848,12 +1012,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 35,
-      "Зайцева Екатерина Александровна": 15,
-      "Калашников Валерий Юрьевич": 11,
-      "Литвинов Роман Демьянович": 20,
-      "Хомяков Виктор Александрович": 10,
-      "Яровая Ирина Анатольевна": 51
+      "2412000588641": 35,
+      "2412000588623": 15,
+      "2412000584323": 11,
+      "2412000587277": 20,
+      "2412000590749": 10,
+      "2412000587266": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575178&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575178&type=464",
@@ -863,6 +1027,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:55:56.402545+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575178&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575178&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -872,8 +1040,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 180,
     "uikTvd": "4824002308597",
+    "uikName": "УИК №180",
     "tikTvd": "2412000575178",
     "tikName": "Олюторская",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 186,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 190,
@@ -889,12 +1061,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 10,
-      "Зайцева Екатерина Александровна": 12,
-      "Калашников Валерий Юрьевич": 6,
-      "Литвинов Роман Демьянович": 8,
-      "Хомяков Виктор Александрович": 6,
-      "Яровая Ирина Анатольевна": 32
+      "2412000588641": 10,
+      "2412000588623": 12,
+      "2412000584323": 6,
+      "2412000587277": 8,
+      "2412000590749": 6,
+      "2412000587266": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575178&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575178&type=464",
@@ -904,6 +1076,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:55:56.402545+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575178&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575178&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -913,8 +1089,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 181,
     "uikTvd": "4824002308598",
+    "uikName": "УИК №181",
     "tikTvd": "2412000575178",
     "tikName": "Олюторская",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 343,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 360,
@@ -930,12 +1110,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 12,
-      "Зайцева Екатерина Александровна": 24,
-      "Калашников Валерий Юрьевич": 28,
-      "Литвинов Роман Демьянович": 16,
-      "Хомяков Виктор Александрович": 4,
-      "Яровая Ирина Анатольевна": 105
+      "2412000588641": 12,
+      "2412000588623": 24,
+      "2412000584323": 28,
+      "2412000587277": 16,
+      "2412000590749": 4,
+      "2412000587266": 105
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575178&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575178&type=464",
@@ -945,6 +1125,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:55:56.402545+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575178&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575178&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -954,8 +1138,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 168,
     "uikTvd": "4824001154430",
+    "uikName": "УИК №168",
     "tikTvd": "2412000575179",
     "tikName": "Карагинская",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 574,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 540,
@@ -971,12 +1159,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 27,
-      "Зайцева Екатерина Александровна": 19,
-      "Калашников Валерий Юрьевич": 42,
-      "Литвинов Роман Демьянович": 52,
-      "Хомяков Виктор Александрович": 13,
-      "Яровая Ирина Анатольевна": 107
+      "2412000588641": 27,
+      "2412000588623": 19,
+      "2412000584323": 42,
+      "2412000587277": 52,
+      "2412000590749": 13,
+      "2412000587266": 107
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575179&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575179&type=464",
@@ -986,6 +1174,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:55:57.789953+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575179&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575179&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -995,8 +1187,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 169,
     "uikTvd": "4824001154432",
+    "uikName": "УИК №169",
     "tikTvd": "2412000575179",
     "tikName": "Карагинская",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 75,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 67,
@@ -1012,12 +1208,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 1,
-      "Зайцева Екатерина Александровна": 5,
-      "Калашников Валерий Юрьевич": 4,
-      "Литвинов Роман Демьянович": 11,
-      "Хомяков Виктор Александрович": 2,
-      "Яровая Ирина Анатольевна": 14
+      "2412000588641": 1,
+      "2412000588623": 5,
+      "2412000584323": 4,
+      "2412000587277": 11,
+      "2412000590749": 2,
+      "2412000587266": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575179&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575179&type=464",
@@ -1027,6 +1223,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:55:57.789953+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575179&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575179&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -1036,8 +1236,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 170,
     "uikTvd": "4824001154434",
+    "uikName": "УИК №170",
     "tikTvd": "2412000575179",
     "tikName": "Карагинская",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 262,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 259,
@@ -1053,12 +1257,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 15,
-      "Зайцева Екатерина Александровна": 13,
-      "Калашников Валерий Юрьевич": 9,
-      "Литвинов Роман Демьянович": 25,
-      "Хомяков Виктор Александрович": 3,
-      "Яровая Ирина Анатольевна": 53
+      "2412000588641": 15,
+      "2412000588623": 13,
+      "2412000584323": 9,
+      "2412000587277": 25,
+      "2412000590749": 3,
+      "2412000587266": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575179&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575179&type=464",
@@ -1068,6 +1272,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:55:57.789953+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575179&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575179&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -1077,8 +1285,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 171,
     "uikTvd": "4824001154436",
+    "uikName": "УИК №171",
     "tikTvd": "2412000575179",
     "tikName": "Карагинская",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 609,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1470,
@@ -1094,12 +1306,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 60,
-      "Зайцева Екатерина Александровна": 41,
-      "Калашников Валерий Юрьевич": 56,
-      "Литвинов Роман Демьянович": 119,
-      "Хомяков Виктор Александрович": 33,
-      "Яровая Ирина Анатольевна": 252
+      "2412000588641": 60,
+      "2412000588623": 41,
+      "2412000584323": 56,
+      "2412000587277": 119,
+      "2412000590749": 33,
+      "2412000587266": 252
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575179&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575179&type=464",
@@ -1109,6 +1321,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:55:57.789953+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575179&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575179&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -1118,8 +1334,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 172,
     "uikTvd": "4824001154438",
+    "uikName": "УИК №172",
     "tikTvd": "2412000575179",
     "tikName": "Карагинская",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 423,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 424,
@@ -1135,12 +1355,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 16,
-      "Зайцева Екатерина Александровна": 14,
-      "Калашников Валерий Юрьевич": 16,
-      "Литвинов Роман Демьянович": 12,
-      "Хомяков Виктор Александрович": 6,
-      "Яровая Ирина Анатольевна": 65
+      "2412000588641": 16,
+      "2412000588623": 14,
+      "2412000584323": 16,
+      "2412000587277": 12,
+      "2412000590749": 6,
+      "2412000587266": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575179&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575179&type=464",
@@ -1150,6 +1370,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:55:57.789953+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575179&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575179&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -1159,8 +1383,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 173,
     "uikTvd": "4824001154440",
+    "uikName": "УИК №173",
     "tikTvd": "2412000575179",
     "tikName": "Карагинская",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 146,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 140,
@@ -1176,12 +1404,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 6,
-      "Зайцева Екатерина Александровна": 6,
-      "Калашников Валерий Юрьевич": 6,
-      "Литвинов Роман Демьянович": 5,
-      "Хомяков Виктор Александрович": 0,
-      "Яровая Ирина Анатольевна": 37
+      "2412000588641": 6,
+      "2412000588623": 6,
+      "2412000584323": 6,
+      "2412000587277": 5,
+      "2412000590749": 0,
+      "2412000587266": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575179&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575179&type=464",
@@ -1191,6 +1419,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:55:57.789953+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575179&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575179&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -1200,8 +1432,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 150,
     "uikTvd": "4414010163743",
+    "uikName": "УИК №150",
     "tikTvd": "2412000575180",
     "tikName": "Усть-Камчатская",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 763,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 900,
@@ -1217,12 +1453,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 31,
-      "Зайцева Екатерина Александровна": 33,
-      "Калашников Валерий Юрьевич": 28,
-      "Литвинов Роман Демьянович": 75,
-      "Хомяков Виктор Александрович": 18,
-      "Яровая Ирина Анатольевна": 218
+      "2412000588641": 31,
+      "2412000588623": 33,
+      "2412000584323": 28,
+      "2412000587277": 75,
+      "2412000590749": 18,
+      "2412000587266": 218
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575180&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575180&type=464",
@@ -1232,6 +1468,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:55:58.070351+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575180&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575180&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -1241,8 +1481,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 151,
     "uikTvd": "4414010163744",
+    "uikName": "УИК №151",
     "tikTvd": "2412000575180",
     "tikName": "Усть-Камчатская",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 52,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 55,
@@ -1258,12 +1502,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 2,
-      "Зайцева Екатерина Александровна": 4,
-      "Калашников Валерий Юрьевич": 3,
-      "Литвинов Роман Демьянович": 1,
-      "Хомяков Виктор Александрович": 1,
-      "Яровая Ирина Анатольевна": 35
+      "2412000588641": 2,
+      "2412000588623": 4,
+      "2412000584323": 3,
+      "2412000587277": 1,
+      "2412000590749": 1,
+      "2412000587266": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575180&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575180&type=464",
@@ -1273,6 +1517,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:55:58.070351+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575180&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575180&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -1282,8 +1530,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 152,
     "uikTvd": "4414010163745",
+    "uikName": "УИК №152",
     "tikTvd": "2412000575180",
     "tikName": "Усть-Камчатская",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1170,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1100,
@@ -1299,12 +1551,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 40,
-      "Зайцева Екатерина Александровна": 34,
-      "Калашников Валерий Юрьевич": 44,
-      "Литвинов Роман Демьянович": 95,
-      "Хомяков Виктор Александрович": 24,
-      "Яровая Ирина Анатольевна": 214
+      "2412000588641": 40,
+      "2412000588623": 34,
+      "2412000584323": 44,
+      "2412000587277": 95,
+      "2412000590749": 24,
+      "2412000587266": 214
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575180&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575180&type=464",
@@ -1314,6 +1566,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:55:58.070351+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575180&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575180&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -1323,8 +1579,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 153,
     "uikTvd": "4414010163746",
+    "uikName": "УИК №153",
     "tikTvd": "2412000575180",
     "tikName": "Усть-Камчатская",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 578,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 690,
@@ -1340,12 +1600,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 24,
-      "Зайцева Екатерина Александровна": 23,
-      "Калашников Валерий Юрьевич": 20,
-      "Литвинов Роман Демьянович": 57,
-      "Хомяков Виктор Александрович": 15,
-      "Яровая Ирина Анатольевна": 145
+      "2412000588641": 24,
+      "2412000588623": 23,
+      "2412000584323": 20,
+      "2412000587277": 57,
+      "2412000590749": 15,
+      "2412000587266": 145
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575180&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575180&type=464",
@@ -1355,6 +1615,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:55:58.070351+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575180&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575180&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -1364,8 +1628,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 154,
     "uikTvd": "4414010163747",
+    "uikName": "УИК №154",
     "tikTvd": "2412000575180",
     "tikName": "Усть-Камчатская",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 689,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 860,
@@ -1381,12 +1649,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 39,
-      "Зайцева Екатерина Александровна": 25,
-      "Калашников Валерий Юрьевич": 43,
-      "Литвинов Роман Демьянович": 67,
-      "Хомяков Виктор Александрович": 16,
-      "Яровая Ирина Анатольевна": 128
+      "2412000588641": 39,
+      "2412000588623": 25,
+      "2412000584323": 43,
+      "2412000587277": 67,
+      "2412000590749": 16,
+      "2412000587266": 128
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575180&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575180&type=464",
@@ -1396,6 +1664,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:55:58.070351+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575180&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575180&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -1405,8 +1677,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 155,
     "uikTvd": "4414010163748",
+    "uikName": "УИК №155",
     "tikTvd": "2412000575180",
     "tikName": "Усть-Камчатская",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1093,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1280,
@@ -1422,12 +1698,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 45,
-      "Зайцева Екатерина Александровна": 66,
-      "Калашников Валерий Юрьевич": 84,
-      "Литвинов Роман Демьянович": 77,
-      "Хомяков Виктор Александрович": 25,
-      "Яровая Ирина Анатольевна": 736
+      "2412000588641": 45,
+      "2412000588623": 66,
+      "2412000584323": 84,
+      "2412000587277": 77,
+      "2412000590749": 25,
+      "2412000587266": 736
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575180&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575180&type=464",
@@ -1437,6 +1713,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:55:58.070351+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575180&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575180&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -1446,8 +1726,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 156,
     "uikTvd": "4414010163749",
+    "uikName": "УИК №156",
     "tikTvd": "2412000575180",
     "tikName": "Усть-Камчатская",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1802,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1600,
@@ -1463,12 +1747,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 67,
-      "Зайцева Екатерина Александровна": 58,
-      "Калашников Валерий Юрьевич": 74,
-      "Литвинов Роман Демьянович": 226,
-      "Хомяков Виктор Александрович": 39,
-      "Яровая Ирина Анатольевна": 368
+      "2412000588641": 67,
+      "2412000588623": 58,
+      "2412000584323": 74,
+      "2412000587277": 226,
+      "2412000590749": 39,
+      "2412000587266": 368
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575180&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575180&type=464",
@@ -1478,6 +1762,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:55:58.070351+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575180&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575180&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -1487,8 +1775,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 157,
     "uikTvd": "4414010163750",
+    "uikName": "УИК №157",
     "tikTvd": "2412000575180",
     "tikName": "Усть-Камчатская",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 795,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 800,
@@ -1504,12 +1796,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 32,
-      "Зайцева Екатерина Александровна": 26,
-      "Калашников Валерий Юрьевич": 36,
-      "Литвинов Роман Демьянович": 95,
-      "Хомяков Виктор Александрович": 12,
-      "Яровая Ирина Анатольевна": 124
+      "2412000588641": 32,
+      "2412000588623": 26,
+      "2412000584323": 36,
+      "2412000587277": 95,
+      "2412000590749": 12,
+      "2412000587266": 124
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575180&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575180&type=464",
@@ -1519,6 +1811,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:55:58.070351+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575180&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575180&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -1528,8 +1824,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 158,
     "uikTvd": "4414010163751",
+    "uikName": "УИК №158",
     "tikTvd": "2412000575180",
     "tikName": "Усть-Камчатская",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 93,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 115,
@@ -1545,12 +1845,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 2,
-      "Зайцева Екатерина Александровна": 9,
-      "Калашников Валерий Юрьевич": 9,
-      "Литвинов Роман Демьянович": 19,
-      "Хомяков Виктор Александрович": 3,
-      "Яровая Ирина Анатольевна": 31
+      "2412000588641": 2,
+      "2412000588623": 9,
+      "2412000584323": 9,
+      "2412000587277": 19,
+      "2412000590749": 3,
+      "2412000587266": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575180&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575180&type=464",
@@ -1560,6 +1860,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:55:58.070351+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575180&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575180&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -1569,8 +1873,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 136,
     "uikTvd": "4414009167573",
+    "uikName": "УИК №136",
     "tikTvd": "2412000575181",
     "tikName": "Усть-Большерецкая",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 72,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 65,
@@ -1586,12 +1894,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 2,
-      "Зайцева Екатерина Александровна": 8,
-      "Калашников Валерий Юрьевич": 7,
-      "Литвинов Роман Демьянович": 7,
-      "Хомяков Виктор Александрович": 6,
-      "Яровая Ирина Анатольевна": 10
+      "2412000588641": 2,
+      "2412000588623": 8,
+      "2412000584323": 7,
+      "2412000587277": 7,
+      "2412000590749": 6,
+      "2412000587266": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575181&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575181&type=464",
@@ -1601,6 +1909,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:55:58.453871+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575181&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575181&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -1610,8 +1922,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 137,
     "uikTvd": "4414009167574",
+    "uikName": "УИК №137",
     "tikTvd": "2412000575181",
     "tikName": "Усть-Большерецкая",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 506,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 510,
@@ -1627,12 +1943,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 31,
-      "Зайцева Екатерина Александровна": 22,
-      "Калашников Валерий Юрьевич": 28,
-      "Литвинов Роман Демьянович": 49,
-      "Хомяков Виктор Александрович": 14,
-      "Яровая Ирина Анатольевна": 87
+      "2412000588641": 31,
+      "2412000588623": 22,
+      "2412000584323": 28,
+      "2412000587277": 49,
+      "2412000590749": 14,
+      "2412000587266": 87
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575181&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575181&type=464",
@@ -1642,6 +1958,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:55:58.453871+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575181&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575181&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -1651,8 +1971,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 138,
     "uikTvd": "4414009167575",
+    "uikName": "УИК №138",
     "tikTvd": "2412000575181",
     "tikName": "Усть-Большерецкая",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1402,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1380,
@@ -1668,12 +1992,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 32,
-      "Зайцева Екатерина Александровна": 38,
-      "Калашников Валерий Юрьевич": 38,
-      "Литвинов Роман Демьянович": 78,
-      "Хомяков Виктор Александрович": 20,
-      "Яровая Ирина Анатольевна": 154
+      "2412000588641": 32,
+      "2412000588623": 38,
+      "2412000584323": 38,
+      "2412000587277": 78,
+      "2412000590749": 20,
+      "2412000587266": 154
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575181&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575181&type=464",
@@ -1683,6 +2007,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:55:58.453871+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575181&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575181&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -1692,8 +2020,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 139,
     "uikTvd": "4414009167576",
+    "uikName": "УИК №139",
     "tikTvd": "2412000575181",
     "tikName": "Усть-Большерецкая",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1080,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1020,
@@ -1709,12 +2041,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 72,
-      "Зайцева Екатерина Александровна": 55,
-      "Калашников Валерий Юрьевич": 60,
-      "Литвинов Роман Демьянович": 79,
-      "Хомяков Виктор Александрович": 25,
-      "Яровая Ирина Анатольевна": 268
+      "2412000588641": 72,
+      "2412000588623": 55,
+      "2412000584323": 60,
+      "2412000587277": 79,
+      "2412000590749": 25,
+      "2412000587266": 268
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575181&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575181&type=464",
@@ -1724,6 +2056,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:55:58.453871+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575181&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575181&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -1733,8 +2069,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 140,
     "uikTvd": "4414009167577",
+    "uikName": "УИК №140",
     "tikTvd": "2412000575181",
     "tikName": "Усть-Большерецкая",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1269,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1370,
@@ -1750,12 +2090,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 79,
-      "Зайцева Екатерина Александровна": 57,
-      "Калашников Валерий Юрьевич": 69,
-      "Литвинов Роман Демьянович": 82,
-      "Хомяков Виктор Александрович": 53,
-      "Яровая Ирина Анатольевна": 273
+      "2412000588641": 79,
+      "2412000588623": 57,
+      "2412000584323": 69,
+      "2412000587277": 82,
+      "2412000590749": 53,
+      "2412000587266": 273
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575181&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575181&type=464",
@@ -1765,6 +2105,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:55:58.453871+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575181&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575181&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -1774,8 +2118,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 141,
     "uikTvd": "4414009167578",
+    "uikName": "УИК №141",
     "tikTvd": "2412000575181",
     "tikName": "Усть-Большерецкая",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 548,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 565,
@@ -1791,12 +2139,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 23,
-      "Зайцева Екатерина Александровна": 16,
-      "Калашников Валерий Юрьевич": 22,
-      "Литвинов Роман Демьянович": 21,
-      "Хомяков Виктор Александрович": 6,
-      "Яровая Ирина Анатольевна": 111
+      "2412000588641": 23,
+      "2412000588623": 16,
+      "2412000584323": 22,
+      "2412000587277": 21,
+      "2412000590749": 6,
+      "2412000587266": 111
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575181&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575181&type=464",
@@ -1806,6 +2154,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:55:58.453871+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575181&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575181&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -1815,8 +2167,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 142,
     "uikTvd": "4414009167579",
+    "uikName": "УИК №142",
     "tikTvd": "2412000575181",
     "tikName": "Усть-Большерецкая",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 636,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 640,
@@ -1832,12 +2188,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 24,
-      "Зайцева Екатерина Александровна": 45,
-      "Калашников Валерий Юрьевич": 34,
-      "Литвинов Роман Демьянович": 48,
-      "Хомяков Виктор Александрович": 26,
-      "Яровая Ирина Анатольевна": 113
+      "2412000588641": 24,
+      "2412000588623": 45,
+      "2412000584323": 34,
+      "2412000587277": 48,
+      "2412000590749": 26,
+      "2412000587266": 113
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575181&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575181&type=464",
@@ -1847,6 +2203,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:55:58.453871+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575181&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575181&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -1856,8 +2216,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 146,
     "uikTvd": "4414008149488",
+    "uikName": "УИК №146",
     "tikTvd": "2412000575182",
     "tikName": "Соболевская",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1111,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1220,
@@ -1873,12 +2237,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 101,
-      "Зайцева Екатерина Александровна": 49,
-      "Калашников Валерий Юрьевич": 73,
-      "Литвинов Роман Демьянович": 109,
-      "Хомяков Виктор Александрович": 26,
-      "Яровая Ирина Анатольевна": 233
+      "2412000588641": 101,
+      "2412000588623": 49,
+      "2412000584323": 73,
+      "2412000587277": 109,
+      "2412000590749": 26,
+      "2412000587266": 233
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575182&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575182&type=464",
@@ -1888,6 +2252,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:00.028097+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575182&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575182&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -1897,8 +2265,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 147,
     "uikTvd": "4414008149489",
+    "uikName": "УИК №147",
     "tikTvd": "2412000575182",
     "tikName": "Соболевская",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 228,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 275,
@@ -1914,12 +2286,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 25,
-      "Зайцева Екатерина Александровна": 9,
-      "Калашников Валерий Юрьевич": 12,
-      "Литвинов Роман Демьянович": 13,
-      "Хомяков Виктор Александрович": 6,
-      "Яровая Ирина Анатольевна": 66
+      "2412000588641": 25,
+      "2412000588623": 9,
+      "2412000584323": 12,
+      "2412000587277": 13,
+      "2412000590749": 6,
+      "2412000587266": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575182&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575182&type=464",
@@ -1929,6 +2301,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:00.028097+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575182&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575182&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -1938,8 +2314,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 148,
     "uikTvd": "4414008149490",
+    "uikName": "УИК №148",
     "tikTvd": "2412000575182",
     "tikName": "Соболевская",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 197,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 252,
@@ -1955,12 +2335,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 18,
-      "Зайцева Екатерина Александровна": 9,
-      "Калашников Валерий Юрьевич": 20,
-      "Литвинов Роман Демьянович": 13,
-      "Хомяков Виктор Александрович": 7,
-      "Яровая Ирина Анатольевна": 62
+      "2412000588641": 18,
+      "2412000588623": 9,
+      "2412000584323": 20,
+      "2412000587277": 13,
+      "2412000590749": 7,
+      "2412000587266": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575182&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575182&type=464",
@@ -1970,6 +2350,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:00.028097+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575182&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575182&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -1979,8 +2363,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 149,
     "uikTvd": "4414008149491",
+    "uikName": "УИК №149",
     "tikTvd": "2412000575182",
     "tikName": "Соболевская",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 19,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 43,
@@ -1996,12 +2384,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 4,
-      "Зайцева Екатерина Александровна": 0,
-      "Калашников Валерий Юрьевич": 1,
-      "Литвинов Роман Демьянович": 0,
-      "Хомяков Виктор Александрович": 0,
-      "Яровая Ирина Анатольевна": 5
+      "2412000588641": 4,
+      "2412000588623": 0,
+      "2412000584323": 1,
+      "2412000587277": 0,
+      "2412000590749": 0,
+      "2412000587266": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575182&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575182&type=464",
@@ -2011,6 +2399,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:00.028097+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575182&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575182&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -2020,8 +2412,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 189,
     "uikTvd": "4414011114965",
+    "uikName": "УИК №189",
     "tikTvd": "2412000575183",
     "tikName": "Петропавловск-Камчатская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 27,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 29,
@@ -2037,12 +2433,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 0,
-      "Зайцева Екатерина Александровна": 0,
-      "Калашников Валерий Юрьевич": 1,
-      "Литвинов Роман Демьянович": 0,
-      "Хомяков Виктор Александрович": 0,
-      "Яровая Ирина Анатольевна": 26
+      "2412000588641": 0,
+      "2412000588623": 0,
+      "2412000584323": 1,
+      "2412000587277": 0,
+      "2412000590749": 0,
+      "2412000587266": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
@@ -2052,6 +2448,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:00.804856+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -2061,8 +2461,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 190,
     "uikTvd": "4414011114966",
+    "uikName": "УИК №190",
     "tikTvd": "2412000575183",
     "tikName": "Петропавловск-Камчатская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 26,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 28,
@@ -2078,12 +2482,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 0,
-      "Зайцева Екатерина Александровна": 0,
-      "Калашников Валерий Юрьевич": 1,
-      "Литвинов Роман Демьянович": 0,
-      "Хомяков Виктор Александрович": 0,
-      "Яровая Ирина Анатольевна": 25
+      "2412000588641": 0,
+      "2412000588623": 0,
+      "2412000584323": 1,
+      "2412000587277": 0,
+      "2412000590749": 0,
+      "2412000587266": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
@@ -2093,6 +2497,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:00.804856+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -2102,8 +2510,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 191,
     "uikTvd": "4414011114967",
+    "uikName": "УИК №191",
     "tikTvd": "2412000575183",
     "tikName": "Петропавловск-Камчатская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 21,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 23,
@@ -2119,12 +2531,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 1,
-      "Зайцева Екатерина Александровна": 0,
-      "Калашников Валерий Юрьевич": 0,
-      "Литвинов Роман Демьянович": 0,
-      "Хомяков Виктор Александрович": 0,
-      "Яровая Ирина Анатольевна": 20
+      "2412000588641": 1,
+      "2412000588623": 0,
+      "2412000584323": 0,
+      "2412000587277": 0,
+      "2412000590749": 0,
+      "2412000587266": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
@@ -2134,6 +2546,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:00.804856+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -2143,8 +2559,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 192,
     "uikTvd": "4414011114968",
+    "uikName": "УИК №192",
     "tikTvd": "2412000575183",
     "tikName": "Петропавловск-Камчатская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 41,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 43,
@@ -2160,12 +2580,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 1,
-      "Зайцева Екатерина Александровна": 0,
-      "Калашников Валерий Юрьевич": 1,
-      "Литвинов Роман Демьянович": 0,
-      "Хомяков Виктор Александрович": 1,
-      "Яровая Ирина Анатольевна": 38
+      "2412000588641": 1,
+      "2412000588623": 0,
+      "2412000584323": 1,
+      "2412000587277": 0,
+      "2412000590749": 1,
+      "2412000587266": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
@@ -2175,6 +2595,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:00.804856+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -2184,8 +2608,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 193,
     "uikTvd": "4414011114969",
+    "uikName": "УИК №193",
     "tikTvd": "2412000575183",
     "tikName": "Петропавловск-Камчатская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 39,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 41,
@@ -2201,12 +2629,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 0,
-      "Зайцева Екатерина Александровна": 0,
-      "Калашников Валерий Юрьевич": 1,
-      "Литвинов Роман Демьянович": 0,
-      "Хомяков Виктор Александрович": 0,
-      "Яровая Ирина Анатольевна": 38
+      "2412000588641": 0,
+      "2412000588623": 0,
+      "2412000584323": 1,
+      "2412000587277": 0,
+      "2412000590749": 0,
+      "2412000587266": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
@@ -2216,6 +2644,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:00.804856+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -2225,8 +2657,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 194,
     "uikTvd": "4414011114970",
+    "uikName": "УИК №194",
     "tikTvd": "2412000575183",
     "tikName": "Петропавловск-Камчатская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 39,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 41,
@@ -2242,12 +2678,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 0,
-      "Зайцева Екатерина Александровна": 0,
-      "Калашников Валерий Юрьевич": 2,
-      "Литвинов Роман Демьянович": 1,
-      "Хомяков Виктор Александрович": 0,
-      "Яровая Ирина Анатольевна": 36
+      "2412000588641": 0,
+      "2412000588623": 0,
+      "2412000584323": 2,
+      "2412000587277": 1,
+      "2412000590749": 0,
+      "2412000587266": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
@@ -2257,6 +2693,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:00.804856+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -2266,8 +2706,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 195,
     "uikTvd": "4414011114971",
+    "uikName": "УИК №195",
     "tikTvd": "2412000575183",
     "tikName": "Петропавловск-Камчатская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 34,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 34,
@@ -2283,12 +2727,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 0,
-      "Зайцева Екатерина Александровна": 0,
-      "Калашников Валерий Юрьевич": 1,
-      "Литвинов Роман Демьянович": 0,
-      "Хомяков Виктор Александрович": 0,
-      "Яровая Ирина Анатольевна": 33
+      "2412000588641": 0,
+      "2412000588623": 0,
+      "2412000584323": 1,
+      "2412000587277": 0,
+      "2412000590749": 0,
+      "2412000587266": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
@@ -2298,6 +2742,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:00.804856+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -2307,8 +2755,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 196,
     "uikTvd": "4414011114972",
+    "uikName": "УИК №196",
     "tikTvd": "2412000575183",
     "tikName": "Петропавловск-Камчатская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 28,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 28,
@@ -2324,12 +2776,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 0,
-      "Зайцева Екатерина Александровна": 0,
-      "Калашников Валерий Юрьевич": 1,
-      "Литвинов Роман Демьянович": 0,
-      "Хомяков Виктор Александрович": 0,
-      "Яровая Ирина Анатольевна": 27
+      "2412000588641": 0,
+      "2412000588623": 0,
+      "2412000584323": 1,
+      "2412000587277": 0,
+      "2412000590749": 0,
+      "2412000587266": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
@@ -2339,6 +2791,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:00.804856+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -2348,8 +2804,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 197,
     "uikTvd": "4414011114973",
+    "uikName": "УИК №197",
     "tikTvd": "2412000575183",
     "tikName": "Петропавловск-Камчатская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 28,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 28,
@@ -2365,12 +2825,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 0,
-      "Зайцева Екатерина Александровна": 0,
-      "Калашников Валерий Юрьевич": 1,
-      "Литвинов Роман Демьянович": 0,
-      "Хомяков Виктор Александрович": 0,
-      "Яровая Ирина Анатольевна": 27
+      "2412000588641": 0,
+      "2412000588623": 0,
+      "2412000584323": 1,
+      "2412000587277": 0,
+      "2412000590749": 0,
+      "2412000587266": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
@@ -2380,6 +2840,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:00.804856+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -2389,8 +2853,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 198,
     "uikTvd": "4414011114974",
+    "uikName": "УИК №198",
     "tikTvd": "2412000575183",
     "tikName": "Петропавловск-Камчатская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 17,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 17,
@@ -2406,12 +2874,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 5,
-      "Зайцева Екатерина Александровна": 0,
-      "Калашников Валерий Юрьевич": 2,
-      "Литвинов Роман Демьянович": 0,
-      "Хомяков Виктор Александрович": 2,
-      "Яровая Ирина Анатольевна": 8
+      "2412000588641": 5,
+      "2412000588623": 0,
+      "2412000584323": 2,
+      "2412000587277": 0,
+      "2412000590749": 2,
+      "2412000587266": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
@@ -2421,6 +2889,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:00.804856+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -2430,8 +2902,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 199,
     "uikTvd": "4414011114975",
+    "uikName": "УИК №199",
     "tikTvd": "2412000575183",
     "tikName": "Петропавловск-Камчатская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 32,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 32,
@@ -2447,12 +2923,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 0,
-      "Зайцева Екатерина Александровна": 0,
-      "Калашников Валерий Юрьевич": 0,
-      "Литвинов Роман Демьянович": 0,
-      "Хомяков Виктор Александрович": 0,
-      "Яровая Ирина Анатольевна": 32
+      "2412000588641": 0,
+      "2412000588623": 0,
+      "2412000584323": 0,
+      "2412000587277": 0,
+      "2412000590749": 0,
+      "2412000587266": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
@@ -2462,6 +2938,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:00.804856+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -2471,8 +2951,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 200,
     "uikTvd": "4414011114976",
+    "uikName": "УИК №200",
     "tikTvd": "2412000575183",
     "tikName": "Петропавловск-Камчатская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 19,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 19,
@@ -2488,12 +2972,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 0,
-      "Зайцева Екатерина Александровна": 0,
-      "Калашников Валерий Юрьевич": 1,
-      "Литвинов Роман Демьянович": 0,
-      "Хомяков Виктор Александрович": 0,
-      "Яровая Ирина Анатольевна": 18
+      "2412000588641": 0,
+      "2412000588623": 0,
+      "2412000584323": 1,
+      "2412000587277": 0,
+      "2412000590749": 0,
+      "2412000587266": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
@@ -2503,6 +2987,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:00.804856+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -2512,8 +3000,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 201,
     "uikTvd": "4414011114977",
+    "uikName": "УИК №201",
     "tikTvd": "2412000575183",
     "tikName": "Петропавловск-Камчатская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 33,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 33,
@@ -2529,12 +3021,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 1,
-      "Зайцева Екатерина Александровна": 0,
-      "Калашников Валерий Юрьевич": 1,
-      "Литвинов Роман Демьянович": 0,
-      "Хомяков Виктор Александрович": 0,
-      "Яровая Ирина Анатольевна": 31
+      "2412000588641": 1,
+      "2412000588623": 0,
+      "2412000584323": 1,
+      "2412000587277": 0,
+      "2412000590749": 0,
+      "2412000587266": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
@@ -2544,6 +3036,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:00.804856+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -2553,8 +3049,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 202,
     "uikTvd": "4414011114978",
+    "uikName": "УИК №202",
     "tikTvd": "2412000575183",
     "tikName": "Петропавловск-Камчатская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 11,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 11,
@@ -2570,12 +3070,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 0,
-      "Зайцева Екатерина Александровна": 0,
-      "Калашников Валерий Юрьевич": 1,
-      "Литвинов Роман Демьянович": 0,
-      "Хомяков Виктор Александрович": 0,
-      "Яровая Ирина Анатольевна": 10
+      "2412000588641": 0,
+      "2412000588623": 0,
+      "2412000584323": 1,
+      "2412000587277": 0,
+      "2412000590749": 0,
+      "2412000587266": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
@@ -2585,6 +3085,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:00.804856+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -2594,8 +3098,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 203,
     "uikTvd": "4414011114979",
+    "uikName": "УИК №203",
     "tikTvd": "2412000575183",
     "tikName": "Петропавловск-Камчатская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 16,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 16,
@@ -2611,12 +3119,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 1,
-      "Зайцева Екатерина Александровна": 0,
-      "Калашников Валерий Юрьевич": 0,
-      "Литвинов Роман Демьянович": 0,
-      "Хомяков Виктор Александрович": 0,
-      "Яровая Ирина Анатольевна": 15
+      "2412000588641": 1,
+      "2412000588623": 0,
+      "2412000584323": 0,
+      "2412000587277": 0,
+      "2412000590749": 0,
+      "2412000587266": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
@@ -2626,6 +3134,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:00.804856+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -2635,8 +3147,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 204,
     "uikTvd": "4414011114980",
+    "uikName": "УИК №204",
     "tikTvd": "2412000575183",
     "tikName": "Петропавловск-Камчатская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 20,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 20,
@@ -2652,12 +3168,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 0,
-      "Зайцева Екатерина Александровна": 0,
-      "Калашников Валерий Юрьевич": 1,
-      "Литвинов Роман Демьянович": 0,
-      "Хомяков Виктор Александрович": 0,
-      "Яровая Ирина Анатольевна": 19
+      "2412000588641": 0,
+      "2412000588623": 0,
+      "2412000584323": 1,
+      "2412000587277": 0,
+      "2412000590749": 0,
+      "2412000587266": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
@@ -2667,6 +3183,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:00.804856+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -2676,8 +3196,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 205,
     "uikTvd": "4414011114981",
+    "uikName": "УИК №205",
     "tikTvd": "2412000575183",
     "tikName": "Петропавловск-Камчатская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 27,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 27,
@@ -2693,12 +3217,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 0,
-      "Зайцева Екатерина Александровна": 0,
-      "Калашников Валерий Юрьевич": 1,
-      "Литвинов Роман Демьянович": 0,
-      "Хомяков Виктор Александрович": 0,
-      "Яровая Ирина Анатольевна": 26
+      "2412000588641": 0,
+      "2412000588623": 0,
+      "2412000584323": 1,
+      "2412000587277": 0,
+      "2412000590749": 0,
+      "2412000587266": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
@@ -2708,6 +3232,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:00.804856+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -2717,8 +3245,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 206,
     "uikTvd": "4414011114982",
+    "uikName": "УИК №206",
     "tikTvd": "2412000575183",
     "tikName": "Петропавловск-Камчатская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 34,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 34,
@@ -2734,12 +3266,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 0,
-      "Зайцева Екатерина Александровна": 0,
-      "Калашников Валерий Юрьевич": 1,
-      "Литвинов Роман Демьянович": 0,
-      "Хомяков Виктор Александрович": 0,
-      "Яровая Ирина Анатольевна": 33
+      "2412000588641": 0,
+      "2412000588623": 0,
+      "2412000584323": 1,
+      "2412000587277": 0,
+      "2412000590749": 0,
+      "2412000587266": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
@@ -2749,6 +3281,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:00.804856+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -2758,8 +3294,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 207,
     "uikTvd": "4414011114983",
+    "uikName": "УИК №207",
     "tikTvd": "2412000575183",
     "tikName": "Петропавловск-Камчатская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 26,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 26,
@@ -2775,12 +3315,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 0,
-      "Зайцева Екатерина Александровна": 0,
-      "Калашников Валерий Юрьевич": 1,
-      "Литвинов Роман Демьянович": 0,
-      "Хомяков Виктор Александрович": 0,
-      "Яровая Ирина Анатольевна": 25
+      "2412000588641": 0,
+      "2412000588623": 0,
+      "2412000584323": 1,
+      "2412000587277": 0,
+      "2412000590749": 0,
+      "2412000587266": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
@@ -2790,6 +3330,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:00.804856+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -2799,8 +3343,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 208,
     "uikTvd": "4414011116600",
+    "uikName": "УИК №208",
     "tikTvd": "2412000575183",
     "tikName": "Петропавловск-Камчатская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 6,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 6,
@@ -2816,12 +3364,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 0,
-      "Зайцева Екатерина Александровна": 1,
-      "Калашников Валерий Юрьевич": 2,
-      "Литвинов Роман Демьянович": 0,
-      "Хомяков Виктор Александрович": 0,
-      "Яровая Ирина Анатольевна": 3
+      "2412000588641": 0,
+      "2412000588623": 1,
+      "2412000584323": 2,
+      "2412000587277": 0,
+      "2412000590749": 0,
+      "2412000587266": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
@@ -2831,6 +3379,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:00.804856+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -2840,8 +3392,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 209,
     "uikTvd": "4414011114985",
+    "uikName": "УИК №209",
     "tikTvd": "2412000575183",
     "tikName": "Петропавловск-Камчатская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 14,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 14,
@@ -2857,12 +3413,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 0,
-      "Зайцева Екатерина Александровна": 0,
-      "Калашников Валерий Юрьевич": 0,
-      "Литвинов Роман Демьянович": 0,
-      "Хомяков Виктор Александрович": 0,
-      "Яровая Ирина Анатольевна": 14
+      "2412000588641": 0,
+      "2412000588623": 0,
+      "2412000584323": 0,
+      "2412000587277": 0,
+      "2412000590749": 0,
+      "2412000587266": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
@@ -2872,6 +3428,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:00.804856+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -2881,8 +3441,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 210,
     "uikTvd": "4414011114986",
+    "uikName": "УИК №210",
     "tikTvd": "2412000575183",
     "tikName": "Петропавловск-Камчатская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 6,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 6,
@@ -2898,12 +3462,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 0,
-      "Зайцева Екатерина Александровна": 0,
-      "Калашников Валерий Юрьевич": 0,
-      "Литвинов Роман Демьянович": 0,
-      "Хомяков Виктор Александрович": 0,
-      "Яровая Ирина Анатольевна": 6
+      "2412000588641": 0,
+      "2412000588623": 0,
+      "2412000584323": 0,
+      "2412000587277": 0,
+      "2412000590749": 0,
+      "2412000587266": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
@@ -2913,6 +3477,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:00.804856+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -2922,8 +3490,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 211,
     "uikTvd": "4414011114987",
+    "uikName": "УИК №211",
     "tikTvd": "2412000575183",
     "tikName": "Петропавловск-Камчатская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 11,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 11,
@@ -2939,12 +3511,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 0,
-      "Зайцева Екатерина Александровна": 0,
-      "Калашников Валерий Юрьевич": 0,
-      "Литвинов Роман Демьянович": 0,
-      "Хомяков Виктор Александрович": 0,
-      "Яровая Ирина Анатольевна": 11
+      "2412000588641": 0,
+      "2412000588623": 0,
+      "2412000584323": 0,
+      "2412000587277": 0,
+      "2412000590749": 0,
+      "2412000587266": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
@@ -2954,6 +3526,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:00.804856+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -2963,8 +3539,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 212,
     "uikTvd": "4414011116602",
+    "uikName": "УИК №212",
     "tikTvd": "2412000575183",
     "tikName": "Петропавловск-Камчатская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 0,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 0,
@@ -2980,12 +3560,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 0,
-      "Зайцева Екатерина Александровна": 0,
-      "Калашников Валерий Юрьевич": 0,
-      "Литвинов Роман Демьянович": 0,
-      "Хомяков Виктор Александрович": 0,
-      "Яровая Ирина Анатольевна": 0
+      "2412000588641": 0,
+      "2412000588623": 0,
+      "2412000584323": 0,
+      "2412000587277": 0,
+      "2412000590749": 0,
+      "2412000587266": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
@@ -2995,6 +3575,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:00.804856+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -3004,8 +3588,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 213,
     "uikTvd": "4414011114989",
+    "uikName": "УИК №213",
     "tikTvd": "2412000575183",
     "tikName": "Петропавловск-Камчатская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 10,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 10,
@@ -3021,12 +3609,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 0,
-      "Зайцева Екатерина Александровна": 0,
-      "Калашников Валерий Юрьевич": 0,
-      "Литвинов Роман Демьянович": 0,
-      "Хомяков Виктор Александрович": 0,
-      "Яровая Ирина Анатольевна": 10
+      "2412000588641": 0,
+      "2412000588623": 0,
+      "2412000584323": 0,
+      "2412000587277": 0,
+      "2412000590749": 0,
+      "2412000587266": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
@@ -3036,6 +3624,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:00.804856+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -3045,8 +3637,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 214,
     "uikTvd": "4414011114990",
+    "uikName": "УИК №214",
     "tikTvd": "2412000575183",
     "tikName": "Петропавловск-Камчатская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 14,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 14,
@@ -3062,12 +3658,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 0,
-      "Зайцева Екатерина Александровна": 0,
-      "Калашников Валерий Юрьевич": 0,
-      "Литвинов Роман Демьянович": 0,
-      "Хомяков Виктор Александрович": 0,
-      "Яровая Ирина Анатольевна": 14
+      "2412000588641": 0,
+      "2412000588623": 0,
+      "2412000584323": 0,
+      "2412000587277": 0,
+      "2412000590749": 0,
+      "2412000587266": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
@@ -3077,6 +3673,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:00.804856+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -3086,8 +3686,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 215,
     "uikTvd": "4414011114991",
+    "uikName": "УИК №215",
     "tikTvd": "2412000575183",
     "tikName": "Петропавловск-Камчатская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 11,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 11,
@@ -3103,12 +3707,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 0,
-      "Зайцева Екатерина Александровна": 0,
-      "Калашников Валерий Юрьевич": 0,
-      "Литвинов Роман Демьянович": 0,
-      "Хомяков Виктор Александрович": 0,
-      "Яровая Ирина Анатольевна": 11
+      "2412000588641": 0,
+      "2412000588623": 0,
+      "2412000584323": 0,
+      "2412000587277": 0,
+      "2412000590749": 0,
+      "2412000587266": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
@@ -3118,6 +3722,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:00.804856+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -3127,8 +3735,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 216,
     "uikTvd": "4414011114992",
+    "uikName": "УИК №216",
     "tikTvd": "2412000575183",
     "tikName": "Петропавловск-Камчатская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 15,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 15,
@@ -3144,12 +3756,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 0,
-      "Зайцева Екатерина Александровна": 1,
-      "Калашников Валерий Юрьевич": 0,
-      "Литвинов Роман Демьянович": 0,
-      "Хомяков Виктор Александрович": 0,
-      "Яровая Ирина Анатольевна": 14
+      "2412000588641": 0,
+      "2412000588623": 1,
+      "2412000584323": 0,
+      "2412000587277": 0,
+      "2412000590749": 0,
+      "2412000587266": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
@@ -3159,6 +3771,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:00.804856+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -3168,8 +3784,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 217,
     "uikTvd": "4414011114993",
+    "uikName": "УИК №217",
     "tikTvd": "2412000575183",
     "tikName": "Петропавловск-Камчатская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 17,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 17,
@@ -3185,12 +3805,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 0,
-      "Зайцева Екатерина Александровна": 17,
-      "Калашников Валерий Юрьевич": 0,
-      "Литвинов Роман Демьянович": 0,
-      "Хомяков Виктор Александрович": 0,
-      "Яровая Ирина Анатольевна": 0
+      "2412000588641": 0,
+      "2412000588623": 17,
+      "2412000584323": 0,
+      "2412000587277": 0,
+      "2412000590749": 0,
+      "2412000587266": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
@@ -3200,6 +3820,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:00.804856+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -3209,8 +3833,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 218,
     "uikTvd": "4414011114994",
+    "uikName": "УИК №218",
     "tikTvd": "2412000575183",
     "tikName": "Петропавловск-Камчатская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 4,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 4,
@@ -3226,12 +3854,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 0,
-      "Зайцева Екатерина Александровна": 0,
-      "Калашников Валерий Юрьевич": 1,
-      "Литвинов Роман Демьянович": 2,
-      "Хомяков Виктор Александрович": 0,
-      "Яровая Ирина Анатольевна": 1
+      "2412000588641": 0,
+      "2412000588623": 0,
+      "2412000584323": 1,
+      "2412000587277": 2,
+      "2412000590749": 0,
+      "2412000587266": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
@@ -3241,6 +3869,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:00.804856+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -3250,8 +3882,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 219,
     "uikTvd": "4414011114995",
+    "uikName": "УИК №219",
     "tikTvd": "2412000575183",
     "tikName": "Петропавловск-Камчатская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 4,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 4,
@@ -3267,12 +3903,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 2,
-      "Зайцева Екатерина Александровна": 0,
-      "Калашников Валерий Юрьевич": 0,
-      "Литвинов Роман Демьянович": 0,
-      "Хомяков Виктор Александрович": 0,
-      "Яровая Ирина Анатольевна": 2
+      "2412000588641": 2,
+      "2412000588623": 0,
+      "2412000584323": 0,
+      "2412000587277": 0,
+      "2412000590749": 0,
+      "2412000587266": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
@@ -3282,6 +3918,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:00.804856+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -3291,8 +3931,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 220,
     "uikTvd": "4414011114996",
+    "uikName": "УИК №220",
     "tikTvd": "2412000575183",
     "tikName": "Петропавловск-Камчатская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 7,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 7,
@@ -3308,12 +3952,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 0,
-      "Зайцева Екатерина Александровна": 0,
-      "Калашников Валерий Юрьевич": 1,
-      "Литвинов Роман Демьянович": 0,
-      "Хомяков Виктор Александрович": 0,
-      "Яровая Ирина Анатольевна": 6
+      "2412000588641": 0,
+      "2412000588623": 0,
+      "2412000584323": 1,
+      "2412000587277": 0,
+      "2412000590749": 0,
+      "2412000587266": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
@@ -3323,6 +3967,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:00.804856+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -3332,8 +3980,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 221,
     "uikTvd": "4414011114997",
+    "uikName": "УИК №221",
     "tikTvd": "2412000575183",
     "tikName": "Петропавловск-Камчатская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 30,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 30,
@@ -3349,12 +4001,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 1,
-      "Зайцева Екатерина Александровна": 10,
-      "Калашников Валерий Юрьевич": 10,
-      "Литвинов Роман Демьянович": 0,
-      "Хомяков Виктор Александрович": 4,
-      "Яровая Ирина Анатольевна": 5
+      "2412000588641": 1,
+      "2412000588623": 10,
+      "2412000584323": 10,
+      "2412000587277": 0,
+      "2412000590749": 4,
+      "2412000587266": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
@@ -3364,6 +4016,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:00.804856+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -3373,8 +4029,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 222,
     "uikTvd": "4414011114998",
+    "uikName": "УИК №222",
     "tikTvd": "2412000575183",
     "tikName": "Петропавловск-Камчатская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 24,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 24,
@@ -3390,12 +4050,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 1,
-      "Зайцева Екатерина Александровна": 5,
-      "Калашников Валерий Юрьевич": 3,
-      "Литвинов Роман Демьянович": 9,
-      "Хомяков Виктор Александрович": 0,
-      "Яровая Ирина Анатольевна": 0
+      "2412000588641": 1,
+      "2412000588623": 5,
+      "2412000584323": 3,
+      "2412000587277": 9,
+      "2412000590749": 0,
+      "2412000587266": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
@@ -3405,6 +4065,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:00.804856+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -3414,8 +4078,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 223,
     "uikTvd": "4414011114999",
+    "uikName": "УИК №223",
     "tikTvd": "2412000575183",
     "tikName": "Петропавловск-Камчатская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 21,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 21,
@@ -3431,12 +4099,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 5,
-      "Зайцева Екатерина Александровна": 6,
-      "Калашников Валерий Юрьевич": 2,
-      "Литвинов Роман Демьянович": 4,
-      "Хомяков Виктор Александрович": 0,
-      "Яровая Ирина Анатольевна": 4
+      "2412000588641": 5,
+      "2412000588623": 6,
+      "2412000584323": 2,
+      "2412000587277": 4,
+      "2412000590749": 0,
+      "2412000587266": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
@@ -3446,6 +4114,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:00.804856+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -3455,8 +4127,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 225,
     "uikTvd": "4414011115001",
+    "uikName": "УИК №225",
     "tikTvd": "2412000575183",
     "tikName": "Петропавловск-Камчатская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 0,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 0,
@@ -3472,12 +4148,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 0,
-      "Зайцева Екатерина Александровна": 0,
-      "Калашников Валерий Юрьевич": 0,
-      "Литвинов Роман Демьянович": 0,
-      "Хомяков Виктор Александрович": 0,
-      "Яровая Ирина Анатольевна": 0
+      "2412000588641": 0,
+      "2412000588623": 0,
+      "2412000584323": 0,
+      "2412000587277": 0,
+      "2412000590749": 0,
+      "2412000587266": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
@@ -3487,6 +4163,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:00.804856+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -3496,8 +4176,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 226,
     "uikTvd": "4414011115002",
+    "uikName": "УИК №226",
     "tikTvd": "2412000575183",
     "tikName": "Петропавловск-Камчатская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 11,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 11,
@@ -3513,12 +4197,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 1,
-      "Зайцева Екатерина Александровна": 0,
-      "Калашников Валерий Юрьевич": 3,
-      "Литвинов Роман Демьянович": 1,
-      "Хомяков Виктор Александрович": 2,
-      "Яровая Ирина Анатольевна": 3
+      "2412000588641": 1,
+      "2412000588623": 0,
+      "2412000584323": 3,
+      "2412000587277": 1,
+      "2412000590749": 2,
+      "2412000587266": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
@@ -3528,6 +4212,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:00.804856+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -3537,8 +4225,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 227,
     "uikTvd": "4414011115003",
+    "uikName": "УИК №227",
     "tikTvd": "2412000575183",
     "tikName": "Петропавловск-Камчатская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 9,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 9,
@@ -3554,12 +4246,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 2,
-      "Зайцева Екатерина Александровна": 0,
-      "Калашников Валерий Юрьевич": 2,
-      "Литвинов Роман Демьянович": 1,
-      "Хомяков Виктор Александрович": 2,
-      "Яровая Ирина Анатольевна": 2
+      "2412000588641": 2,
+      "2412000588623": 0,
+      "2412000584323": 2,
+      "2412000587277": 1,
+      "2412000590749": 2,
+      "2412000587266": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
@@ -3569,6 +4261,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:00.804856+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -3578,8 +4274,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 228,
     "uikTvd": "4414011115004",
+    "uikName": "УИК №228",
     "tikTvd": "2412000575183",
     "tikName": "Петропавловск-Камчатская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 11,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 11,
@@ -3595,12 +4295,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 0,
-      "Зайцева Екатерина Александровна": 0,
-      "Калашников Валерий Юрьевич": 2,
-      "Литвинов Роман Демьянович": 2,
-      "Хомяков Виктор Александрович": 0,
-      "Яровая Ирина Анатольевна": 7
+      "2412000588641": 0,
+      "2412000588623": 0,
+      "2412000584323": 2,
+      "2412000587277": 2,
+      "2412000590749": 0,
+      "2412000587266": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
@@ -3610,6 +4310,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:00.804856+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -3619,8 +4323,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 229,
     "uikTvd": "4414011115005",
+    "uikName": "УИК №229",
     "tikTvd": "2412000575183",
     "tikName": "Петропавловск-Камчатская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 12,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 12,
@@ -3636,12 +4344,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 2,
-      "Зайцева Екатерина Александровна": 0,
-      "Калашников Валерий Юрьевич": 2,
-      "Литвинов Роман Демьянович": 1,
-      "Хомяков Виктор Александрович": 1,
-      "Яровая Ирина Анатольевна": 6
+      "2412000588641": 2,
+      "2412000588623": 0,
+      "2412000584323": 2,
+      "2412000587277": 1,
+      "2412000590749": 1,
+      "2412000587266": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
@@ -3651,6 +4359,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:00.804856+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -3660,8 +4372,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 230,
     "uikTvd": "4414011115006",
+    "uikName": "УИК №230",
     "tikTvd": "2412000575183",
     "tikName": "Петропавловск-Камчатская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 25,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 25,
@@ -3677,12 +4393,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 1,
-      "Зайцева Екатерина Александровна": 2,
-      "Калашников Валерий Юрьевич": 3,
-      "Литвинов Роман Демьянович": 2,
-      "Хомяков Виктор Александрович": 2,
-      "Яровая Ирина Анатольевна": 11
+      "2412000588641": 1,
+      "2412000588623": 2,
+      "2412000584323": 3,
+      "2412000587277": 2,
+      "2412000590749": 2,
+      "2412000587266": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
@@ -3692,6 +4408,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:00.804856+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -3701,8 +4421,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 232,
     "uikTvd": "4414011115008",
+    "uikName": "УИК №232",
     "tikTvd": "2412000575183",
     "tikName": "Петропавловск-Камчатская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1,
@@ -3718,12 +4442,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 0,
-      "Зайцева Екатерина Александровна": 0,
-      "Калашников Валерий Юрьевич": 1,
-      "Литвинов Роман Демьянович": 0,
-      "Хомяков Виктор Александрович": 0,
-      "Яровая Ирина Анатольевна": 0
+      "2412000588641": 0,
+      "2412000588623": 0,
+      "2412000584323": 1,
+      "2412000587277": 0,
+      "2412000590749": 0,
+      "2412000587266": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
@@ -3733,6 +4457,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:00.804856+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -3742,8 +4470,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 233,
     "uikTvd": "4414011115009",
+    "uikName": "УИК №233",
     "tikTvd": "2412000575183",
     "tikName": "Петропавловск-Камчатская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 11,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 11,
@@ -3759,12 +4491,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 0,
-      "Зайцева Екатерина Александровна": 2,
-      "Калашников Валерий Юрьевич": 0,
-      "Литвинов Роман Демьянович": 0,
-      "Хомяков Виктор Александрович": 1,
-      "Яровая Ирина Анатольевна": 6
+      "2412000588641": 0,
+      "2412000588623": 2,
+      "2412000584323": 0,
+      "2412000587277": 0,
+      "2412000590749": 1,
+      "2412000587266": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
@@ -3774,6 +4506,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:00.804856+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -3783,8 +4519,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 234,
     "uikTvd": "4414011115010",
+    "uikName": "УИК №234",
     "tikTvd": "2412000575183",
     "tikName": "Петропавловск-Камчатская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 31,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 31,
@@ -3800,12 +4540,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 2,
-      "Зайцева Екатерина Александровна": 2,
-      "Калашников Валерий Юрьевич": 3,
-      "Литвинов Роман Демьянович": 6,
-      "Хомяков Виктор Александрович": 0,
-      "Яровая Ирина Анатольевна": 11
+      "2412000588641": 2,
+      "2412000588623": 2,
+      "2412000584323": 3,
+      "2412000587277": 6,
+      "2412000590749": 0,
+      "2412000587266": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
@@ -3815,6 +4555,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:00.804856+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -3824,8 +4568,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 237,
     "uikTvd": "4414011115013",
+    "uikName": "УИК №237",
     "tikTvd": "2412000575183",
     "tikName": "Петропавловск-Камчатская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2,
@@ -3841,12 +4589,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 0,
-      "Зайцева Екатерина Александровна": 0,
-      "Калашников Валерий Юрьевич": 0,
-      "Литвинов Роман Демьянович": 2,
-      "Хомяков Виктор Александрович": 0,
-      "Яровая Ирина Анатольевна": 0
+      "2412000588641": 0,
+      "2412000588623": 0,
+      "2412000584323": 0,
+      "2412000587277": 2,
+      "2412000590749": 0,
+      "2412000587266": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
@@ -3856,6 +4604,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:00.804856+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -3865,8 +4617,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 238,
     "uikTvd": "4414011115014",
+    "uikName": "УИК №238",
     "tikTvd": "2412000575183",
     "tikName": "Петропавловск-Камчатская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 49,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 49,
@@ -3882,12 +4638,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 0,
-      "Зайцева Екатерина Александровна": 0,
-      "Калашников Валерий Юрьевич": 0,
-      "Литвинов Роман Демьянович": 0,
-      "Хомяков Виктор Александрович": 0,
-      "Яровая Ирина Анатольевна": 49
+      "2412000588641": 0,
+      "2412000588623": 0,
+      "2412000584323": 0,
+      "2412000587277": 0,
+      "2412000590749": 0,
+      "2412000587266": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
@@ -3897,6 +4653,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:00.804856+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -3906,8 +4666,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 239,
     "uikTvd": "4414011115015",
+    "uikName": "УИК №239",
     "tikTvd": "2412000575183",
     "tikName": "Петропавловск-Камчатская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 47,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 47,
@@ -3923,12 +4687,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 0,
-      "Зайцева Екатерина Александровна": 0,
-      "Калашников Валерий Юрьевич": 0,
-      "Литвинов Роман Демьянович": 0,
-      "Хомяков Виктор Александрович": 0,
-      "Яровая Ирина Анатольевна": 47
+      "2412000588641": 0,
+      "2412000588623": 0,
+      "2412000584323": 0,
+      "2412000587277": 0,
+      "2412000590749": 0,
+      "2412000587266": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
@@ -3938,6 +4702,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:00.804856+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -3947,8 +4715,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 240,
     "uikTvd": "4414011115016",
+    "uikName": "УИК №240",
     "tikTvd": "2412000575183",
     "tikName": "Петропавловск-Камчатская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 8,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 8,
@@ -3964,12 +4736,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 0,
-      "Зайцева Екатерина Александровна": 0,
-      "Калашников Валерий Юрьевич": 0,
-      "Литвинов Роман Демьянович": 0,
-      "Хомяков Виктор Александрович": 0,
-      "Яровая Ирина Анатольевна": 8
+      "2412000588641": 0,
+      "2412000588623": 0,
+      "2412000584323": 0,
+      "2412000587277": 0,
+      "2412000590749": 0,
+      "2412000587266": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
@@ -3979,6 +4751,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:00.804856+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -3988,8 +4764,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 241,
     "uikTvd": "4414011115017",
+    "uikName": "УИК №241",
     "tikTvd": "2412000575183",
     "tikName": "Петропавловск-Камчатская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 25,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 25,
@@ -4005,12 +4785,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 0,
-      "Зайцева Екатерина Александровна": 0,
-      "Калашников Валерий Юрьевич": 0,
-      "Литвинов Роман Демьянович": 0,
-      "Хомяков Виктор Александрович": 0,
-      "Яровая Ирина Анатольевна": 25
+      "2412000588641": 0,
+      "2412000588623": 0,
+      "2412000584323": 0,
+      "2412000587277": 0,
+      "2412000590749": 0,
+      "2412000587266": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
@@ -4020,6 +4800,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:00.804856+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -4029,8 +4813,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 242,
     "uikTvd": "4414011115018",
+    "uikName": "УИК №242",
     "tikTvd": "2412000575183",
     "tikName": "Петропавловск-Камчатская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 22,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 22,
@@ -4046,12 +4834,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 0,
-      "Зайцева Екатерина Александровна": 0,
-      "Калашников Валерий Юрьевич": 0,
-      "Литвинов Роман Демьянович": 0,
-      "Хомяков Виктор Александрович": 0,
-      "Яровая Ирина Анатольевна": 22
+      "2412000588641": 0,
+      "2412000588623": 0,
+      "2412000584323": 0,
+      "2412000587277": 0,
+      "2412000590749": 0,
+      "2412000587266": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
@@ -4061,6 +4849,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:00.804856+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -4070,8 +4862,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 243,
     "uikTvd": "4414011115019",
+    "uikName": "УИК №243",
     "tikTvd": "2412000575183",
     "tikName": "Петропавловск-Камчатская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 3,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 5,
@@ -4087,12 +4883,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 0,
-      "Зайцева Екатерина Александровна": 0,
-      "Калашников Валерий Юрьевич": 0,
-      "Литвинов Роман Демьянович": 0,
-      "Хомяков Виктор Александрович": 0,
-      "Яровая Ирина Анатольевна": 3
+      "2412000588641": 0,
+      "2412000588623": 0,
+      "2412000584323": 0,
+      "2412000587277": 0,
+      "2412000590749": 0,
+      "2412000587266": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
@@ -4102,6 +4898,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:00.804856+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -4111,8 +4911,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 244,
     "uikTvd": "4414011115020",
+    "uikName": "УИК №244",
     "tikTvd": "2412000575183",
     "tikName": "Петропавловск-Камчатская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 11,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 11,
@@ -4128,12 +4932,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 0,
-      "Зайцева Екатерина Александровна": 0,
-      "Калашников Валерий Юрьевич": 0,
-      "Литвинов Роман Демьянович": 0,
-      "Хомяков Виктор Александрович": 0,
-      "Яровая Ирина Анатольевна": 11
+      "2412000588641": 0,
+      "2412000588623": 0,
+      "2412000584323": 0,
+      "2412000587277": 0,
+      "2412000590749": 0,
+      "2412000587266": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
@@ -4143,6 +4947,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:00.804856+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -4152,8 +4960,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 245,
     "uikTvd": "4414011115021",
+    "uikName": "УИК №245",
     "tikTvd": "2412000575183",
     "tikName": "Петропавловск-Камчатская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 21,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 21,
@@ -4169,12 +4981,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 0,
-      "Зайцева Екатерина Александровна": 0,
-      "Калашников Валерий Юрьевич": 0,
-      "Литвинов Роман Демьянович": 0,
-      "Хомяков Виктор Александрович": 0,
-      "Яровая Ирина Анатольевна": 21
+      "2412000588641": 0,
+      "2412000588623": 0,
+      "2412000584323": 0,
+      "2412000587277": 0,
+      "2412000590749": 0,
+      "2412000587266": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
@@ -4184,6 +4996,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:00.804856+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -4193,8 +5009,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 246,
     "uikTvd": "4414011115022",
+    "uikName": "УИК №246",
     "tikTvd": "2412000575183",
     "tikName": "Петропавловск-Камчатская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 8,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 8,
@@ -4210,12 +5030,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 0,
-      "Зайцева Екатерина Александровна": 0,
-      "Калашников Валерий Юрьевич": 0,
-      "Литвинов Роман Демьянович": 0,
-      "Хомяков Виктор Александрович": 0,
-      "Яровая Ирина Анатольевна": 8
+      "2412000588641": 0,
+      "2412000588623": 0,
+      "2412000584323": 0,
+      "2412000587277": 0,
+      "2412000590749": 0,
+      "2412000587266": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
@@ -4225,6 +5045,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:00.804856+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -4234,8 +5058,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 247,
     "uikTvd": "4414011115023",
+    "uikName": "УИК №247",
     "tikTvd": "2412000575183",
     "tikName": "Петропавловск-Камчатская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 15,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 15,
@@ -4251,12 +5079,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 0,
-      "Зайцева Екатерина Александровна": 0,
-      "Калашников Валерий Юрьевич": 0,
-      "Литвинов Роман Демьянович": 0,
-      "Хомяков Виктор Александрович": 0,
-      "Яровая Ирина Анатольевна": 15
+      "2412000588641": 0,
+      "2412000588623": 0,
+      "2412000584323": 0,
+      "2412000587277": 0,
+      "2412000590749": 0,
+      "2412000587266": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
@@ -4266,6 +5094,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:00.804856+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -4275,8 +5107,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 248,
     "uikTvd": "4414011115024",
+    "uikName": "УИК №248",
     "tikTvd": "2412000575183",
     "tikName": "Петропавловск-Камчатская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 11,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 11,
@@ -4292,12 +5128,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 0,
-      "Зайцева Екатерина Александровна": 0,
-      "Калашников Валерий Юрьевич": 0,
-      "Литвинов Роман Демьянович": 0,
-      "Хомяков Виктор Александрович": 0,
-      "Яровая Ирина Анатольевна": 11
+      "2412000588641": 0,
+      "2412000588623": 0,
+      "2412000584323": 0,
+      "2412000587277": 0,
+      "2412000590749": 0,
+      "2412000587266": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
@@ -4307,6 +5143,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:00.804856+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -4316,8 +5156,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 249,
     "uikTvd": "4414011115025",
+    "uikName": "УИК №249",
     "tikTvd": "2412000575183",
     "tikName": "Петропавловск-Камчатская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 12,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 12,
@@ -4333,12 +5177,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 0,
-      "Зайцева Екатерина Александровна": 0,
-      "Калашников Валерий Юрьевич": 0,
-      "Литвинов Роман Демьянович": 0,
-      "Хомяков Виктор Александрович": 0,
-      "Яровая Ирина Анатольевна": 12
+      "2412000588641": 0,
+      "2412000588623": 0,
+      "2412000584323": 0,
+      "2412000587277": 0,
+      "2412000590749": 0,
+      "2412000587266": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
@@ -4348,6 +5192,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:00.804856+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -4357,8 +5205,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 250,
     "uikTvd": "4414011115026",
+    "uikName": "УИК №250",
     "tikTvd": "2412000575183",
     "tikName": "Петропавловск-Камчатская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 10,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 10,
@@ -4374,12 +5226,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 0,
-      "Зайцева Екатерина Александровна": 0,
-      "Калашников Валерий Юрьевич": 0,
-      "Литвинов Роман Демьянович": 0,
-      "Хомяков Виктор Александрович": 0,
-      "Яровая Ирина Анатольевна": 10
+      "2412000588641": 0,
+      "2412000588623": 0,
+      "2412000584323": 0,
+      "2412000587277": 0,
+      "2412000590749": 0,
+      "2412000587266": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
@@ -4389,6 +5241,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:00.804856+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -4398,8 +5254,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 251,
     "uikTvd": "4414011115027",
+    "uikName": "УИК №251",
     "tikTvd": "2412000575183",
     "tikName": "Петропавловск-Камчатская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 11,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 11,
@@ -4415,12 +5275,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 0,
-      "Зайцева Екатерина Александровна": 0,
-      "Калашников Валерий Юрьевич": 0,
-      "Литвинов Роман Демьянович": 0,
-      "Хомяков Виктор Александрович": 0,
-      "Яровая Ирина Анатольевна": 11
+      "2412000588641": 0,
+      "2412000588623": 0,
+      "2412000584323": 0,
+      "2412000587277": 0,
+      "2412000590749": 0,
+      "2412000587266": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
@@ -4430,6 +5290,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:00.804856+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -4439,8 +5303,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 252,
     "uikTvd": "4414011115028",
+    "uikName": "УИК №252",
     "tikTvd": "2412000575183",
     "tikName": "Петропавловск-Камчатская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 13,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 13,
@@ -4456,12 +5324,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 0,
-      "Зайцева Екатерина Александровна": 0,
-      "Калашников Валерий Юрьевич": 0,
-      "Литвинов Роман Демьянович": 0,
-      "Хомяков Виктор Александрович": 0,
-      "Яровая Ирина Анатольевна": 13
+      "2412000588641": 0,
+      "2412000588623": 0,
+      "2412000584323": 0,
+      "2412000587277": 0,
+      "2412000590749": 0,
+      "2412000587266": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
@@ -4471,6 +5339,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:00.804856+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -4480,8 +5352,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 253,
     "uikTvd": "4414011115029",
+    "uikName": "УИК №253",
     "tikTvd": "2412000575183",
     "tikName": "Петропавловск-Камчатская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 10,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 10,
@@ -4497,12 +5373,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 0,
-      "Зайцева Екатерина Александровна": 0,
-      "Калашников Валерий Юрьевич": 0,
-      "Литвинов Роман Демьянович": 0,
-      "Хомяков Виктор Александрович": 0,
-      "Яровая Ирина Анатольевна": 10
+      "2412000588641": 0,
+      "2412000588623": 0,
+      "2412000584323": 0,
+      "2412000587277": 0,
+      "2412000590749": 0,
+      "2412000587266": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
@@ -4512,6 +5388,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:00.804856+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -4521,8 +5401,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 254,
     "uikTvd": "4414011115030",
+    "uikName": "УИК №254",
     "tikTvd": "2412000575183",
     "tikName": "Петропавловск-Камчатская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 7,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 7,
@@ -4538,12 +5422,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 0,
-      "Зайцева Екатерина Александровна": 0,
-      "Калашников Валерий Юрьевич": 0,
-      "Литвинов Роман Демьянович": 0,
-      "Хомяков Виктор Александрович": 0,
-      "Яровая Ирина Анатольевна": 7
+      "2412000588641": 0,
+      "2412000588623": 0,
+      "2412000584323": 0,
+      "2412000587277": 0,
+      "2412000590749": 0,
+      "2412000587266": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
@@ -4553,6 +5437,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:00.804856+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -4562,8 +5450,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 255,
     "uikTvd": "4414011115031",
+    "uikName": "УИК №255",
     "tikTvd": "2412000575183",
     "tikName": "Петропавловск-Камчатская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 26,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 26,
@@ -4579,12 +5471,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 2,
-      "Зайцева Екатерина Александровна": 6,
-      "Калашников Валерий Юрьевич": 5,
-      "Литвинов Роман Демьянович": 3,
-      "Хомяков Виктор Александрович": 0,
-      "Яровая Ирина Анатольевна": 10
+      "2412000588641": 2,
+      "2412000588623": 6,
+      "2412000584323": 5,
+      "2412000587277": 3,
+      "2412000590749": 0,
+      "2412000587266": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
@@ -4594,6 +5486,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:00.804856+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -4603,8 +5499,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 256,
     "uikTvd": "4414011115032",
+    "uikName": "УИК №256",
     "tikTvd": "2412000575183",
     "tikName": "Петропавловск-Камчатская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 39,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 39,
@@ -4620,12 +5520,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 7,
-      "Зайцева Екатерина Александровна": 3,
-      "Калашников Валерий Юрьевич": 6,
-      "Литвинов Роман Демьянович": 4,
-      "Хомяков Виктор Александрович": 0,
-      "Яровая Ирина Анатольевна": 19
+      "2412000588641": 7,
+      "2412000588623": 3,
+      "2412000584323": 6,
+      "2412000587277": 4,
+      "2412000590749": 0,
+      "2412000587266": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
@@ -4635,6 +5535,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:00.804856+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -4644,8 +5548,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 257,
     "uikTvd": "4414011115033",
+    "uikName": "УИК №257",
     "tikTvd": "2412000575183",
     "tikName": "Петропавловск-Камчатская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 42,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 42,
@@ -4661,12 +5569,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 5,
-      "Зайцева Екатерина Александровна": 3,
-      "Калашников Валерий Юрьевич": 7,
-      "Литвинов Роман Демьянович": 12,
-      "Хомяков Виктор Александрович": 2,
-      "Яровая Ирина Анатольевна": 13
+      "2412000588641": 5,
+      "2412000588623": 3,
+      "2412000584323": 7,
+      "2412000587277": 12,
+      "2412000590749": 2,
+      "2412000587266": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
@@ -4676,6 +5584,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:00.804856+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -4685,8 +5597,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 258,
     "uikTvd": "4414011115034",
+    "uikName": "УИК №258",
     "tikTvd": "2412000575183",
     "tikName": "Петропавловск-Камчатская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 34,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 34,
@@ -4702,12 +5618,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 0,
-      "Зайцева Екатерина Александровна": 0,
-      "Калашников Валерий Юрьевич": 2,
-      "Литвинов Роман Демьянович": 0,
-      "Хомяков Виктор Александрович": 0,
-      "Яровая Ирина Анатольевна": 32
+      "2412000588641": 0,
+      "2412000588623": 0,
+      "2412000584323": 2,
+      "2412000587277": 0,
+      "2412000590749": 0,
+      "2412000587266": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
@@ -4717,6 +5633,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:00.804856+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -4726,8 +5646,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 259,
     "uikTvd": "4414011115035",
+    "uikName": "УИК №259",
     "tikTvd": "2412000575183",
     "tikName": "Петропавловск-Камчатская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 27,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 27,
@@ -4743,12 +5667,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 0,
-      "Зайцева Екатерина Александровна": 0,
-      "Калашников Валерий Юрьевич": 0,
-      "Литвинов Роман Демьянович": 0,
-      "Хомяков Виктор Александрович": 0,
-      "Яровая Ирина Анатольевна": 27
+      "2412000588641": 0,
+      "2412000588623": 0,
+      "2412000584323": 0,
+      "2412000587277": 0,
+      "2412000590749": 0,
+      "2412000587266": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
@@ -4758,6 +5682,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:00.804856+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -4767,8 +5695,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 260,
     "uikTvd": "4414011115036",
+    "uikName": "УИК №260",
     "tikTvd": "2412000575183",
     "tikName": "Петропавловск-Камчатская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 39,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 39,
@@ -4784,12 +5716,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 0,
-      "Зайцева Екатерина Александровна": 0,
-      "Калашников Валерий Юрьевич": 4,
-      "Литвинов Роман Демьянович": 1,
-      "Хомяков Виктор Александрович": 2,
-      "Яровая Ирина Анатольевна": 32
+      "2412000588641": 0,
+      "2412000588623": 0,
+      "2412000584323": 4,
+      "2412000587277": 1,
+      "2412000590749": 2,
+      "2412000587266": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
@@ -4799,6 +5731,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:00.804856+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -4808,8 +5744,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 261,
     "uikTvd": "4414011115037",
+    "uikName": "УИК №261",
     "tikTvd": "2412000575183",
     "tikName": "Петропавловск-Камчатская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 47,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 47,
@@ -4825,12 +5765,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 0,
-      "Зайцева Екатерина Александровна": 0,
-      "Калашников Валерий Юрьевич": 0,
-      "Литвинов Роман Демьянович": 1,
-      "Хомяков Виктор Александрович": 0,
-      "Яровая Ирина Анатольевна": 46
+      "2412000588641": 0,
+      "2412000588623": 0,
+      "2412000584323": 0,
+      "2412000587277": 1,
+      "2412000590749": 0,
+      "2412000587266": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
@@ -4840,6 +5780,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:00.804856+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -4849,8 +5793,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 262,
     "uikTvd": "4414011115038",
+    "uikName": "УИК №262",
     "tikTvd": "2412000575183",
     "tikName": "Петропавловск-Камчатская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 37,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 37,
@@ -4866,12 +5814,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 1,
-      "Зайцева Екатерина Александровна": 1,
-      "Калашников Валерий Юрьевич": 3,
-      "Литвинов Роман Демьянович": 1,
-      "Хомяков Виктор Александрович": 0,
-      "Яровая Ирина Анатольевна": 8
+      "2412000588641": 1,
+      "2412000588623": 1,
+      "2412000584323": 3,
+      "2412000587277": 1,
+      "2412000590749": 0,
+      "2412000587266": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
@@ -4881,6 +5829,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:00.804856+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -4890,8 +5842,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 263,
     "uikTvd": "4414011115039",
+    "uikName": "УИК №263",
     "tikTvd": "2412000575183",
     "tikName": "Петропавловск-Камчатская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 72,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 72,
@@ -4907,12 +5863,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 13,
-      "Зайцева Екатерина Александровна": 8,
-      "Калашников Валерий Юрьевич": 13,
-      "Литвинов Роман Демьянович": 15,
-      "Хомяков Виктор Александрович": 6,
-      "Яровая Ирина Анатольевна": 16
+      "2412000588641": 13,
+      "2412000588623": 8,
+      "2412000584323": 13,
+      "2412000587277": 15,
+      "2412000590749": 6,
+      "2412000587266": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
@@ -4922,6 +5878,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:00.804856+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -4931,8 +5891,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 264,
     "uikTvd": "4414011115040",
+    "uikName": "УИК №264",
     "tikTvd": "2412000575183",
     "tikName": "Петропавловск-Камчатская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 93,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 93,
@@ -4948,12 +5912,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 15,
-      "Зайцева Екатерина Александровна": 7,
-      "Калашников Валерий Юрьевич": 13,
-      "Литвинов Роман Демьянович": 20,
-      "Хомяков Виктор Александрович": 3,
-      "Яровая Ирина Анатольевна": 30
+      "2412000588641": 15,
+      "2412000588623": 7,
+      "2412000584323": 13,
+      "2412000587277": 20,
+      "2412000590749": 3,
+      "2412000587266": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
@@ -4963,6 +5927,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:00.804856+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -4972,8 +5940,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 265,
     "uikTvd": "4414011115041",
+    "uikName": "УИК №265",
     "tikTvd": "2412000575183",
     "tikName": "Петропавловск-Камчатская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 29,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 29,
@@ -4989,12 +5961,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 0,
-      "Зайцева Екатерина Александровна": 0,
-      "Калашников Валерий Юрьевич": 2,
-      "Литвинов Роман Демьянович": 1,
-      "Хомяков Виктор Александрович": 0,
-      "Яровая Ирина Анатольевна": 26
+      "2412000588641": 0,
+      "2412000588623": 0,
+      "2412000584323": 2,
+      "2412000587277": 1,
+      "2412000590749": 0,
+      "2412000587266": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
@@ -5004,6 +5976,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:00.804856+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -5013,8 +5989,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 266,
     "uikTvd": "4414011115042",
+    "uikName": "УИК №266",
     "tikTvd": "2412000575183",
     "tikName": "Петропавловск-Камчатская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 21,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 21,
@@ -5030,12 +6010,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 0,
-      "Зайцева Екатерина Александровна": 0,
-      "Калашников Валерий Юрьевич": 0,
-      "Литвинов Роман Демьянович": 0,
-      "Хомяков Виктор Александрович": 0,
-      "Яровая Ирина Анатольевна": 21
+      "2412000588641": 0,
+      "2412000588623": 0,
+      "2412000584323": 0,
+      "2412000587277": 0,
+      "2412000590749": 0,
+      "2412000587266": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
@@ -5045,6 +6025,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:00.804856+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -5054,8 +6038,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 267,
     "uikTvd": "4414011115043",
+    "uikName": "УИК №267",
     "tikTvd": "2412000575183",
     "tikName": "Петропавловск-Камчатская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 23,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 23,
@@ -5071,12 +6059,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 0,
-      "Зайцева Екатерина Александровна": 0,
-      "Калашников Валерий Юрьевич": 3,
-      "Литвинов Роман Демьянович": 1,
-      "Хомяков Виктор Александрович": 0,
-      "Яровая Ирина Анатольевна": 19
+      "2412000588641": 0,
+      "2412000588623": 0,
+      "2412000584323": 3,
+      "2412000587277": 1,
+      "2412000590749": 0,
+      "2412000587266": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
@@ -5086,6 +6074,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:00.804856+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -5095,8 +6087,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 269,
     "uikTvd": "4414011115045",
+    "uikName": "УИК №269",
     "tikTvd": "2412000575183",
     "tikName": "Петропавловск-Камчатская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 11,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 11,
@@ -5112,12 +6108,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 2,
-      "Зайцева Екатерина Александровна": 1,
-      "Калашников Валерий Юрьевич": 2,
-      "Литвинов Роман Демьянович": 1,
-      "Хомяков Виктор Александрович": 1,
-      "Яровая Ирина Анатольевна": 4
+      "2412000588641": 2,
+      "2412000588623": 1,
+      "2412000584323": 2,
+      "2412000587277": 1,
+      "2412000590749": 1,
+      "2412000587266": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
@@ -5127,6 +6123,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:00.804856+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -5136,8 +6136,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 270,
     "uikTvd": "4414011115046",
+    "uikName": "УИК №270",
     "tikTvd": "2412000575183",
     "tikName": "Петропавловск-Камчатская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 20,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 20,
@@ -5153,12 +6157,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 2,
-      "Зайцева Екатерина Александровна": 3,
-      "Калашников Валерий Юрьевич": 2,
-      "Литвинов Роман Демьянович": 2,
-      "Хомяков Виктор Александрович": 1,
-      "Яровая Ирина Анатольевна": 6
+      "2412000588641": 2,
+      "2412000588623": 3,
+      "2412000584323": 2,
+      "2412000587277": 2,
+      "2412000590749": 1,
+      "2412000587266": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
@@ -5168,6 +6172,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:00.804856+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -5177,8 +6185,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 272,
     "uikTvd": "4414011115048",
+    "uikName": "УИК №272",
     "tikTvd": "2412000575183",
     "tikName": "Петропавловск-Камчатская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 16,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 16,
@@ -5194,12 +6206,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 3,
-      "Зайцева Екатерина Александровна": 1,
-      "Калашников Валерий Юрьевич": 2,
-      "Литвинов Роман Демьянович": 4,
-      "Хомяков Виктор Александрович": 0,
-      "Яровая Ирина Анатольевна": 5
+      "2412000588641": 3,
+      "2412000588623": 1,
+      "2412000584323": 2,
+      "2412000587277": 4,
+      "2412000590749": 0,
+      "2412000587266": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
@@ -5209,6 +6221,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:00.804856+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -5218,8 +6234,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 273,
     "uikTvd": "4414011115049",
+    "uikName": "УИК №273",
     "tikTvd": "2412000575183",
     "tikName": "Петропавловск-Камчатская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 15,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 15,
@@ -5235,12 +6255,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 4,
-      "Зайцева Екатерина Александровна": 0,
-      "Калашников Валерий Юрьевич": 1,
-      "Литвинов Роман Демьянович": 2,
-      "Хомяков Виктор Александрович": 6,
-      "Яровая Ирина Анатольевна": 2
+      "2412000588641": 4,
+      "2412000588623": 0,
+      "2412000584323": 1,
+      "2412000587277": 2,
+      "2412000590749": 6,
+      "2412000587266": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
@@ -5250,6 +6270,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:00.804856+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -5259,8 +6283,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 275,
     "uikTvd": "4414011115051",
+    "uikName": "УИК №275",
     "tikTvd": "2412000575183",
     "tikName": "Петропавловск-Камчатская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 19,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 19,
@@ -5276,12 +6304,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 1,
-      "Зайцева Екатерина Александровна": 1,
-      "Калашников Валерий Юрьевич": 3,
-      "Литвинов Роман Демьянович": 6,
-      "Хомяков Виктор Александрович": 1,
-      "Яровая Ирина Анатольевна": 7
+      "2412000588641": 1,
+      "2412000588623": 1,
+      "2412000584323": 3,
+      "2412000587277": 6,
+      "2412000590749": 1,
+      "2412000587266": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
@@ -5291,6 +6319,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:00.804856+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -5300,8 +6332,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 278,
     "uikTvd": "4414011115054",
+    "uikName": "УИК №278",
     "tikTvd": "2412000575183",
     "tikName": "Петропавловск-Камчатская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 0,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 0,
@@ -5317,12 +6353,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 0,
-      "Зайцева Екатерина Александровна": 0,
-      "Калашников Валерий Юрьевич": 0,
-      "Литвинов Роман Демьянович": 0,
-      "Хомяков Виктор Александрович": 0,
-      "Яровая Ирина Анатольевна": 0
+      "2412000588641": 0,
+      "2412000588623": 0,
+      "2412000584323": 0,
+      "2412000587277": 0,
+      "2412000590749": 0,
+      "2412000587266": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
@@ -5332,6 +6368,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:00.804856+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -5341,8 +6381,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 279,
     "uikTvd": "4414011115055",
+    "uikName": "УИК №279",
     "tikTvd": "2412000575183",
     "tikName": "Петропавловск-Камчатская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2,
@@ -5358,12 +6402,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 1,
-      "Зайцева Екатерина Александровна": 1,
-      "Калашников Валерий Юрьевич": 0,
-      "Литвинов Роман Демьянович": 0,
-      "Хомяков Виктор Александрович": 0,
-      "Яровая Ирина Анатольевна": 0
+      "2412000588641": 1,
+      "2412000588623": 1,
+      "2412000584323": 0,
+      "2412000587277": 0,
+      "2412000590749": 0,
+      "2412000587266": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
@@ -5373,6 +6417,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:00.804856+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -5382,8 +6430,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 280,
     "uikTvd": "4414011115056",
+    "uikName": "УИК №280",
     "tikTvd": "2412000575183",
     "tikName": "Петропавловск-Камчатская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1,
@@ -5399,12 +6451,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 0,
-      "Зайцева Екатерина Александровна": 0,
-      "Калашников Валерий Юрьевич": 0,
-      "Литвинов Роман Демьянович": 1,
-      "Хомяков Виктор Александрович": 0,
-      "Яровая Ирина Анатольевна": 0
+      "2412000588641": 0,
+      "2412000588623": 0,
+      "2412000584323": 0,
+      "2412000587277": 1,
+      "2412000590749": 0,
+      "2412000587266": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
@@ -5414,6 +6466,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:00.804856+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -5423,8 +6479,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 281,
     "uikTvd": "4414011115057",
+    "uikName": "УИК №281",
     "tikTvd": "2412000575183",
     "tikName": "Петропавловск-Камчатская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1,
@@ -5440,12 +6500,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 1,
-      "Зайцева Екатерина Александровна": 0,
-      "Калашников Валерий Юрьевич": 0,
-      "Литвинов Роман Демьянович": 0,
-      "Хомяков Виктор Александрович": 0,
-      "Яровая Ирина Анатольевна": 0
+      "2412000588641": 1,
+      "2412000588623": 0,
+      "2412000584323": 0,
+      "2412000587277": 0,
+      "2412000590749": 0,
+      "2412000587266": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
@@ -5455,6 +6515,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:00.804856+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -5464,8 +6528,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 282,
     "uikTvd": "4414011115058",
+    "uikName": "УИК №282",
     "tikTvd": "2412000575183",
     "tikName": "Петропавловск-Камчатская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 0,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 0,
@@ -5481,12 +6549,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 0,
-      "Зайцева Екатерина Александровна": 0,
-      "Калашников Валерий Юрьевич": 0,
-      "Литвинов Роман Демьянович": 0,
-      "Хомяков Виктор Александрович": 0,
-      "Яровая Ирина Анатольевна": 0
+      "2412000588641": 0,
+      "2412000588623": 0,
+      "2412000584323": 0,
+      "2412000587277": 0,
+      "2412000590749": 0,
+      "2412000587266": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
@@ -5496,6 +6564,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:00.804856+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -5505,8 +6577,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 283,
     "uikTvd": "4414011115059",
+    "uikName": "УИК №283",
     "tikTvd": "2412000575183",
     "tikName": "Петропавловск-Камчатская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1,
@@ -5522,12 +6598,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 0,
-      "Зайцева Екатерина Александровна": 0,
-      "Калашников Валерий Юрьевич": 1,
-      "Литвинов Роман Демьянович": 0,
-      "Хомяков Виктор Александрович": 0,
-      "Яровая Ирина Анатольевна": 0
+      "2412000588641": 0,
+      "2412000588623": 0,
+      "2412000584323": 1,
+      "2412000587277": 0,
+      "2412000590749": 0,
+      "2412000587266": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
@@ -5537,6 +6613,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:00.804856+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -5546,8 +6626,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 284,
     "uikTvd": "4414011115060",
+    "uikName": "УИК №284",
     "tikTvd": "2412000575183",
     "tikName": "Петропавловск-Камчатская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 6,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 6,
@@ -5563,12 +6647,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 0,
-      "Зайцева Екатерина Александровна": 0,
-      "Калашников Валерий Юрьевич": 0,
-      "Литвинов Роман Демьянович": 1,
-      "Хомяков Виктор Александрович": 0,
-      "Яровая Ирина Анатольевна": 5
+      "2412000588641": 0,
+      "2412000588623": 0,
+      "2412000584323": 0,
+      "2412000587277": 1,
+      "2412000590749": 0,
+      "2412000587266": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
@@ -5578,6 +6662,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:00.804856+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -5587,8 +6675,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 285,
     "uikTvd": "4414011115061",
+    "uikName": "УИК №285",
     "tikTvd": "2412000575183",
     "tikName": "Петропавловск-Камчатская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 5,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 5,
@@ -5604,12 +6696,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 0,
-      "Зайцева Екатерина Александровна": 0,
-      "Калашников Валерий Юрьевич": 0,
-      "Литвинов Роман Демьянович": 0,
-      "Хомяков Виктор Александрович": 0,
-      "Яровая Ирина Анатольевна": 5
+      "2412000588641": 0,
+      "2412000588623": 0,
+      "2412000584323": 0,
+      "2412000587277": 0,
+      "2412000590749": 0,
+      "2412000587266": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
@@ -5619,6 +6711,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:00.804856+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -5628,8 +6724,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 286,
     "uikTvd": "4414011115062",
+    "uikName": "УИК №286",
     "tikTvd": "2412000575183",
     "tikName": "Петропавловск-Камчатская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 7,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 7,
@@ -5645,12 +6745,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 0,
-      "Зайцева Екатерина Александровна": 0,
-      "Калашников Валерий Юрьевич": 0,
-      "Литвинов Роман Демьянович": 5,
-      "Хомяков Виктор Александрович": 1,
-      "Яровая Ирина Анатольевна": 1
+      "2412000588641": 0,
+      "2412000588623": 0,
+      "2412000584323": 0,
+      "2412000587277": 5,
+      "2412000590749": 1,
+      "2412000587266": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
@@ -5660,6 +6760,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:00.804856+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -5669,8 +6773,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 287,
     "uikTvd": "4414011115063",
+    "uikName": "УИК №287",
     "tikTvd": "2412000575183",
     "tikName": "Петропавловск-Камчатская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 5,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 5,
@@ -5686,12 +6794,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 0,
-      "Зайцева Екатерина Александровна": 0,
-      "Калашников Валерий Юрьевич": 0,
-      "Литвинов Роман Демьянович": 1,
-      "Хомяков Виктор Александрович": 0,
-      "Яровая Ирина Анатольевна": 4
+      "2412000588641": 0,
+      "2412000588623": 0,
+      "2412000584323": 0,
+      "2412000587277": 1,
+      "2412000590749": 0,
+      "2412000587266": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
@@ -5701,6 +6809,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:00.804856+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -5710,8 +6822,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 288,
     "uikTvd": "4414011115064",
+    "uikName": "УИК №288",
     "tikTvd": "2412000575183",
     "tikName": "Петропавловск-Камчатская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 6,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 6,
@@ -5727,12 +6843,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 1,
-      "Зайцева Екатерина Александровна": 0,
-      "Калашников Валерий Юрьевич": 0,
-      "Литвинов Роман Демьянович": 4,
-      "Хомяков Виктор Александрович": 0,
-      "Яровая Ирина Анатольевна": 1
+      "2412000588641": 1,
+      "2412000588623": 0,
+      "2412000584323": 0,
+      "2412000587277": 4,
+      "2412000590749": 0,
+      "2412000587266": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
@@ -5742,6 +6858,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:00.804856+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -5751,8 +6871,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 289,
     "uikTvd": "4414011115065",
+    "uikName": "УИК №289",
     "tikTvd": "2412000575183",
     "tikName": "Петропавловск-Камчатская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 6,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 6,
@@ -5768,12 +6892,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 0,
-      "Зайцева Екатерина Александровна": 0,
-      "Калашников Валерий Юрьевич": 0,
-      "Литвинов Роман Демьянович": 0,
-      "Хомяков Виктор Александрович": 0,
-      "Яровая Ирина Анатольевна": 6
+      "2412000588641": 0,
+      "2412000588623": 0,
+      "2412000584323": 0,
+      "2412000587277": 0,
+      "2412000590749": 0,
+      "2412000587266": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
@@ -5783,6 +6907,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:00.804856+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -5792,8 +6920,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 290,
     "uikTvd": "4414011115066",
+    "uikName": "УИК №290",
     "tikTvd": "2412000575183",
     "tikName": "Петропавловск-Камчатская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 6,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 6,
@@ -5809,12 +6941,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 1,
-      "Зайцева Екатерина Александровна": 0,
-      "Калашников Валерий Юрьевич": 1,
-      "Литвинов Роман Демьянович": 0,
-      "Хомяков Виктор Александрович": 0,
-      "Яровая Ирина Анатольевна": 4
+      "2412000588641": 1,
+      "2412000588623": 0,
+      "2412000584323": 1,
+      "2412000587277": 0,
+      "2412000590749": 0,
+      "2412000587266": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
@@ -5824,6 +6956,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:00.804856+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -5833,8 +6969,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 291,
     "uikTvd": "4414011115067",
+    "uikName": "УИК №291",
     "tikTvd": "2412000575183",
     "tikName": "Петропавловск-Камчатская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 30,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 30,
@@ -5850,12 +6990,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 4,
-      "Зайцева Екатерина Александровна": 2,
-      "Калашников Валерий Юрьевич": 8,
-      "Литвинов Роман Демьянович": 4,
-      "Хомяков Виктор Александрович": 4,
-      "Яровая Ирина Анатольевна": 4
+      "2412000588641": 4,
+      "2412000588623": 2,
+      "2412000584323": 8,
+      "2412000587277": 4,
+      "2412000590749": 4,
+      "2412000587266": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
@@ -5865,6 +7005,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:00.804856+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -5874,8 +7018,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 292,
     "uikTvd": "4414011115068",
+    "uikName": "УИК №292",
     "tikTvd": "2412000575183",
     "tikName": "Петропавловск-Камчатская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 31,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 31,
@@ -5891,12 +7039,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 3,
-      "Зайцева Екатерина Александровна": 7,
-      "Калашников Валерий Юрьевич": 7,
-      "Литвинов Роман Демьянович": 3,
-      "Хомяков Виктор Александрович": 1,
-      "Яровая Ирина Анатольевна": 8
+      "2412000588641": 3,
+      "2412000588623": 7,
+      "2412000584323": 7,
+      "2412000587277": 3,
+      "2412000590749": 1,
+      "2412000587266": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
@@ -5906,6 +7054,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:00.804856+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -5915,8 +7067,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 293,
     "uikTvd": "4414011115069",
+    "uikName": "УИК №293",
     "tikTvd": "2412000575183",
     "tikName": "Петропавловск-Камчатская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 25,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 25,
@@ -5932,12 +7088,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 1,
-      "Зайцева Екатерина Александровна": 7,
-      "Калашников Валерий Юрьевич": 5,
-      "Литвинов Роман Демьянович": 1,
-      "Хомяков Виктор Александрович": 0,
-      "Яровая Ирина Анатольевна": 10
+      "2412000588641": 1,
+      "2412000588623": 7,
+      "2412000584323": 5,
+      "2412000587277": 1,
+      "2412000590749": 0,
+      "2412000587266": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
@@ -5947,6 +7103,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:00.804856+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -5956,8 +7116,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 294,
     "uikTvd": "4414011115070",
+    "uikName": "УИК №294",
     "tikTvd": "2412000575183",
     "tikName": "Петропавловск-Камчатская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 8,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 8,
@@ -5973,12 +7137,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 1,
-      "Зайцева Екатерина Александровна": 0,
-      "Калашников Валерий Юрьевич": 2,
-      "Литвинов Роман Демьянович": 1,
-      "Хомяков Виктор Александрович": 2,
-      "Яровая Ирина Анатольевна": 2
+      "2412000588641": 1,
+      "2412000588623": 0,
+      "2412000584323": 2,
+      "2412000587277": 1,
+      "2412000590749": 2,
+      "2412000587266": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
@@ -5988,6 +7152,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:00.804856+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -5997,8 +7165,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 295,
     "uikTvd": "4414011115071",
+    "uikName": "УИК №295",
     "tikTvd": "2412000575183",
     "tikName": "Петропавловск-Камчатская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 6,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 6,
@@ -6014,12 +7186,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 1,
-      "Зайцева Екатерина Александровна": 1,
-      "Калашников Валерий Юрьевич": 3,
-      "Литвинов Роман Демьянович": 0,
-      "Хомяков Виктор Александрович": 0,
-      "Яровая Ирина Анатольевна": 1
+      "2412000588641": 1,
+      "2412000588623": 1,
+      "2412000584323": 3,
+      "2412000587277": 0,
+      "2412000590749": 0,
+      "2412000587266": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
@@ -6029,6 +7201,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:00.804856+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -6038,8 +7214,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 296,
     "uikTvd": "4414011115072",
+    "uikName": "УИК №296",
     "tikTvd": "2412000575183",
     "tikName": "Петропавловск-Камчатская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2,
@@ -6055,12 +7235,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 0,
-      "Зайцева Екатерина Александровна": 1,
-      "Калашников Валерий Юрьевич": 1,
-      "Литвинов Роман Демьянович": 0,
-      "Хомяков Виктор Александрович": 0,
-      "Яровая Ирина Анатольевна": 0
+      "2412000588641": 0,
+      "2412000588623": 1,
+      "2412000584323": 1,
+      "2412000587277": 0,
+      "2412000590749": 0,
+      "2412000587266": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
@@ -6070,6 +7250,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:00.804856+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -6079,8 +7263,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 297,
     "uikTvd": "4414011115073",
+    "uikName": "УИК №297",
     "tikTvd": "2412000575183",
     "tikName": "Петропавловск-Камчатская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 19,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 19,
@@ -6096,12 +7284,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 1,
-      "Зайцева Екатерина Александровна": 1,
-      "Калашников Валерий Юрьевич": 0,
-      "Литвинов Роман Демьянович": 0,
-      "Хомяков Виктор Александрович": 0,
-      "Яровая Ирина Анатольевна": 17
+      "2412000588641": 1,
+      "2412000588623": 1,
+      "2412000584323": 0,
+      "2412000587277": 0,
+      "2412000590749": 0,
+      "2412000587266": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
@@ -6111,6 +7299,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:00.804856+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -6120,8 +7312,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 298,
     "uikTvd": "4414011115074",
+    "uikName": "УИК №298",
     "tikTvd": "2412000575183",
     "tikName": "Петропавловск-Камчатская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 13,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 13,
@@ -6137,12 +7333,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 0,
-      "Зайцева Екатерина Александровна": 0,
-      "Калашников Валерий Юрьевич": 0,
-      "Литвинов Роман Демьянович": 0,
-      "Хомяков Виктор Александрович": 0,
-      "Яровая Ирина Анатольевна": 13
+      "2412000588641": 0,
+      "2412000588623": 0,
+      "2412000584323": 0,
+      "2412000587277": 0,
+      "2412000590749": 0,
+      "2412000587266": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
@@ -6152,6 +7348,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:00.804856+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -6161,8 +7361,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 299,
     "uikTvd": "4414011115075",
+    "uikName": "УИК №299",
     "tikTvd": "2412000575183",
     "tikName": "Петропавловск-Камчатская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 178,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 178,
@@ -6178,12 +7382,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 0,
-      "Зайцева Екатерина Александровна": 3,
-      "Калашников Валерий Юрьевич": 3,
-      "Литвинов Роман Демьянович": 2,
-      "Хомяков Виктор Александрович": 4,
-      "Яровая Ирина Анатольевна": 164
+      "2412000588641": 0,
+      "2412000588623": 3,
+      "2412000584323": 3,
+      "2412000587277": 2,
+      "2412000590749": 4,
+      "2412000587266": 164
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
@@ -6193,6 +7397,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:00.804856+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -6202,8 +7410,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 300,
     "uikTvd": "4414011115076",
+    "uikName": "УИК №300",
     "tikTvd": "2412000575183",
     "tikName": "Петропавловск-Камчатская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 242,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 242,
@@ -6219,12 +7431,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 20,
-      "Зайцева Екатерина Александровна": 13,
-      "Калашников Валерий Юрьевич": 0,
-      "Литвинов Роман Демьянович": 0,
-      "Хомяков Виктор Александрович": 6,
-      "Яровая Ирина Анатольевна": 199
+      "2412000588641": 20,
+      "2412000588623": 13,
+      "2412000584323": 0,
+      "2412000587277": 0,
+      "2412000590749": 6,
+      "2412000587266": 199
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
@@ -6234,6 +7446,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:00.804856+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -6243,8 +7459,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 301,
     "uikTvd": "4414011115077",
+    "uikName": "УИК №301",
     "tikTvd": "2412000575183",
     "tikName": "Петропавловск-Камчатская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 90,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 90,
@@ -6260,12 +7480,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 0,
-      "Зайцева Екатерина Александровна": 1,
-      "Калашников Валерий Юрьевич": 1,
-      "Литвинов Роман Демьянович": 2,
-      "Хомяков Виктор Александрович": 1,
-      "Яровая Ирина Анатольевна": 85
+      "2412000588641": 0,
+      "2412000588623": 1,
+      "2412000584323": 1,
+      "2412000587277": 2,
+      "2412000590749": 1,
+      "2412000587266": 85
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
@@ -6275,6 +7495,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:00.804856+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -6284,8 +7508,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 303,
     "uikTvd": "4414011115079",
+    "uikName": "УИК №303",
     "tikTvd": "2412000575183",
     "tikName": "Петропавловск-Камчатская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 254,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 254,
@@ -6301,12 +7529,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 0,
-      "Зайцева Екатерина Александровна": 5,
-      "Калашников Валерий Юрьевич": 4,
-      "Литвинов Роман Демьянович": 0,
-      "Хомяков Виктор Александрович": 4,
-      "Яровая Ирина Анатольевна": 240
+      "2412000588641": 0,
+      "2412000588623": 5,
+      "2412000584323": 4,
+      "2412000587277": 0,
+      "2412000590749": 4,
+      "2412000587266": 240
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
@@ -6316,6 +7544,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:00.804856+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -6325,8 +7557,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 304,
     "uikTvd": "4414011115080",
+    "uikName": "УИК №304",
     "tikTvd": "2412000575183",
     "tikName": "Петропавловск-Камчатская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 187,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 187,
@@ -6342,12 +7578,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 1,
-      "Зайцева Екатерина Александровна": 2,
-      "Калашников Валерий Юрьевич": 3,
-      "Литвинов Роман Демьянович": 2,
-      "Хомяков Виктор Александрович": 4,
-      "Яровая Ирина Анатольевна": 174
+      "2412000588641": 1,
+      "2412000588623": 2,
+      "2412000584323": 3,
+      "2412000587277": 2,
+      "2412000590749": 4,
+      "2412000587266": 174
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
@@ -6357,6 +7593,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:00.804856+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -6366,8 +7606,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 305,
     "uikTvd": "4414011115081",
+    "uikName": "УИК №305",
     "tikTvd": "2412000575183",
     "tikName": "Петропавловск-Камчатская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 25,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 25,
@@ -6383,12 +7627,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 2,
-      "Зайцева Екатерина Александровна": 8,
-      "Калашников Валерий Юрьевич": 3,
-      "Литвинов Роман Демьянович": 2,
-      "Хомяков Виктор Александрович": 2,
-      "Яровая Ирина Анатольевна": 8
+      "2412000588641": 2,
+      "2412000588623": 8,
+      "2412000584323": 3,
+      "2412000587277": 2,
+      "2412000590749": 2,
+      "2412000587266": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
@@ -6398,6 +7642,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:00.804856+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -6407,8 +7655,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 306,
     "uikTvd": "4414011115082",
+    "uikName": "УИК №306",
     "tikTvd": "2412000575183",
     "tikName": "Петропавловск-Камчатская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 18,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 18,
@@ -6424,12 +7676,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 1,
-      "Зайцева Екатерина Александровна": 0,
-      "Калашников Валерий Юрьевич": 1,
-      "Литвинов Роман Демьянович": 1,
-      "Хомяков Виктор Александрович": 0,
-      "Яровая Ирина Анатольевна": 15
+      "2412000588641": 1,
+      "2412000588623": 0,
+      "2412000584323": 1,
+      "2412000587277": 1,
+      "2412000590749": 0,
+      "2412000587266": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
@@ -6439,6 +7691,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:00.804856+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -6448,8 +7704,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 307,
     "uikTvd": "4414011115083",
+    "uikName": "УИК №307",
     "tikTvd": "2412000575183",
     "tikName": "Петропавловск-Камчатская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 173,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 173,
@@ -6465,12 +7725,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 2,
-      "Зайцева Екатерина Александровна": 3,
-      "Калашников Валерий Юрьевич": 2,
-      "Литвинов Роман Демьянович": 0,
-      "Хомяков Виктор Александрович": 0,
-      "Яровая Ирина Анатольевна": 166
+      "2412000588641": 2,
+      "2412000588623": 3,
+      "2412000584323": 2,
+      "2412000587277": 0,
+      "2412000590749": 0,
+      "2412000587266": 166
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
@@ -6480,6 +7740,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:00.804856+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -6489,8 +7753,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 308,
     "uikTvd": "4414011115471",
+    "uikName": "УИК №308",
     "tikTvd": "2412000575183",
     "tikName": "Петропавловск-Камчатская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 41,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 43,
@@ -6506,12 +7774,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 0,
-      "Зайцева Екатерина Александровна": 1,
-      "Калашников Валерий Юрьевич": 1,
-      "Литвинов Роман Демьянович": 0,
-      "Хомяков Виктор Александрович": 0,
-      "Яровая Ирина Анатольевна": 39
+      "2412000588641": 0,
+      "2412000588623": 1,
+      "2412000584323": 1,
+      "2412000587277": 0,
+      "2412000590749": 0,
+      "2412000587266": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
@@ -6521,6 +7789,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:00.804856+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -6530,8 +7802,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 309,
     "uikTvd": "4414011115484",
+    "uikName": "УИК №309",
     "tikTvd": "2412000575183",
     "tikName": "Петропавловск-Камчатская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 27,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 27,
@@ -6547,12 +7823,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 1,
-      "Зайцева Екатерина Александровна": 2,
-      "Калашников Валерий Юрьевич": 4,
-      "Литвинов Роман Демьянович": 2,
-      "Хомяков Виктор Александрович": 2,
-      "Яровая Ирина Анатольевна": 16
+      "2412000588641": 1,
+      "2412000588623": 2,
+      "2412000584323": 4,
+      "2412000587277": 2,
+      "2412000590749": 2,
+      "2412000587266": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
@@ -6562,6 +7838,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:00.804856+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -6571,8 +7851,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 310,
     "uikTvd": "4414011115485",
+    "uikName": "УИК №310",
     "tikTvd": "2412000575183",
     "tikName": "Петропавловск-Камчатская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 7,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 7,
@@ -6588,12 +7872,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 0,
-      "Зайцева Екатерина Александровна": 0,
-      "Калашников Валерий Юрьевич": 2,
-      "Литвинов Роман Демьянович": 4,
-      "Хомяков Виктор Александрович": 0,
-      "Яровая Ирина Анатольевна": 1
+      "2412000588641": 0,
+      "2412000588623": 0,
+      "2412000584323": 2,
+      "2412000587277": 4,
+      "2412000590749": 0,
+      "2412000587266": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
@@ -6603,6 +7887,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:00.804856+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -6612,8 +7900,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 311,
     "uikTvd": "4414011115486",
+    "uikName": "УИК №311",
     "tikTvd": "2412000575183",
     "tikName": "Петропавловск-Камчатская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 41,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 41,
@@ -6629,12 +7921,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 1,
-      "Зайцева Екатерина Александровна": 1,
-      "Калашников Валерий Юрьевич": 3,
-      "Литвинов Роман Демьянович": 2,
-      "Хомяков Виктор Александрович": 1,
-      "Яровая Ирина Анатольевна": 33
+      "2412000588641": 1,
+      "2412000588623": 1,
+      "2412000584323": 3,
+      "2412000587277": 2,
+      "2412000590749": 1,
+      "2412000587266": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
@@ -6644,6 +7936,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:00.804856+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -6653,8 +7949,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 312,
     "uikTvd": "4414011115487",
+    "uikName": "УИК №312",
     "tikTvd": "2412000575183",
     "tikName": "Петропавловск-Камчатская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 24,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 24,
@@ -6670,12 +7970,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 6,
-      "Зайцева Екатерина Александровна": 2,
-      "Калашников Валерий Юрьевич": 1,
-      "Литвинов Роман Демьянович": 14,
-      "Хомяков Виктор Александрович": 1,
-      "Яровая Ирина Анатольевна": 0
+      "2412000588641": 6,
+      "2412000588623": 2,
+      "2412000584323": 1,
+      "2412000587277": 14,
+      "2412000590749": 1,
+      "2412000587266": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
@@ -6685,6 +7985,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:00.804856+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -6694,8 +7998,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 313,
     "uikTvd": "4414011115516",
+    "uikName": "УИК №313",
     "tikTvd": "2412000575183",
     "tikName": "Петропавловск-Камчатская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 26,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 26,
@@ -6711,12 +8019,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 4,
-      "Зайцева Екатерина Александровна": 1,
-      "Калашников Валерий Юрьевич": 2,
-      "Литвинов Роман Демьянович": 10,
-      "Хомяков Виктор Александрович": 0,
-      "Яровая Ирина Анатольевна": 9
+      "2412000588641": 4,
+      "2412000588623": 1,
+      "2412000584323": 2,
+      "2412000587277": 10,
+      "2412000590749": 0,
+      "2412000587266": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
@@ -6726,6 +8034,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:00.804856+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -6735,8 +8047,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 314,
     "uikTvd": "4414011116616",
+    "uikName": "УИК №314",
     "tikTvd": "2412000575183",
     "tikName": "Петропавловск-Камчатская (судовая)",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 20,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 20,
@@ -6752,12 +8068,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 0,
-      "Зайцева Екатерина Александровна": 0,
-      "Калашников Валерий Юрьевич": 1,
-      "Литвинов Роман Демьянович": 0,
-      "Хомяков Виктор Александрович": 0,
-      "Яровая Ирина Анатольевна": 17
+      "2412000588641": 0,
+      "2412000588623": 0,
+      "2412000584323": 1,
+      "2412000587277": 0,
+      "2412000590749": 0,
+      "2412000587266": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
@@ -6767,6 +8083,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:00.804856+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575183&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575183&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -6776,8 +8096,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1,
     "uikTvd": "4414007345418",
+    "uikName": "УИК №1",
     "tikTvd": "2412000575184",
     "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1692,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1700,
@@ -6793,12 +8117,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 36,
-      "Зайцева Екатерина Александровна": 82,
-      "Калашников Валерий Юрьевич": 92,
-      "Литвинов Роман Демьянович": 133,
-      "Хомяков Виктор Александрович": 29,
-      "Яровая Ирина Анатольевна": 253
+      "2412000588641": 36,
+      "2412000588623": 82,
+      "2412000584323": 92,
+      "2412000587277": 133,
+      "2412000590749": 29,
+      "2412000587266": 253
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575184&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575184&type=464",
@@ -6808,6 +8132,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:01.068424+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575184&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575184&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -6817,8 +8145,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 2,
     "uikTvd": "4414007345419",
+    "uikName": "УИК №2",
     "tikTvd": "2412000575184",
     "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1587,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1600,
@@ -6834,12 +8166,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 31,
-      "Зайцева Екатерина Александровна": 65,
-      "Калашников Валерий Юрьевич": 63,
-      "Литвинов Роман Демьянович": 98,
-      "Хомяков Виктор Александрович": 23,
-      "Яровая Ирина Анатольевна": 270
+      "2412000588641": 31,
+      "2412000588623": 65,
+      "2412000584323": 63,
+      "2412000587277": 98,
+      "2412000590749": 23,
+      "2412000587266": 270
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575184&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575184&type=464",
@@ -6849,6 +8181,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:01.068424+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575184&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575184&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -6858,8 +8194,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 3,
     "uikTvd": "4414007345420",
+    "uikName": "УИК №3",
     "tikTvd": "2412000575184",
     "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2079,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2000,
@@ -6875,12 +8215,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 50,
-      "Зайцева Екатерина Александровна": 82,
-      "Калашников Валерий Юрьевич": 96,
-      "Литвинов Роман Демьянович": 126,
-      "Хомяков Виктор Александрович": 25,
-      "Яровая Ирина Анатольевна": 258
+      "2412000588641": 50,
+      "2412000588623": 82,
+      "2412000584323": 96,
+      "2412000587277": 126,
+      "2412000590749": 25,
+      "2412000587266": 258
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575184&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575184&type=464",
@@ -6890,6 +8230,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:01.068424+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575184&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575184&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -6899,8 +8243,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4,
     "uikTvd": "4414007345421",
+    "uikName": "УИК №4",
     "tikTvd": "2412000575184",
     "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1587,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1500,
@@ -6916,12 +8264,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 36,
-      "Зайцева Екатерина Александровна": 29,
-      "Калашников Валерий Юрьевич": 49,
-      "Литвинов Роман Демьянович": 109,
-      "Хомяков Виктор Александрович": 15,
-      "Яровая Ирина Анатольевна": 151
+      "2412000588641": 36,
+      "2412000588623": 29,
+      "2412000584323": 49,
+      "2412000587277": 109,
+      "2412000590749": 15,
+      "2412000587266": 151
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575184&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575184&type=464",
@@ -6931,6 +8279,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:01.068424+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575184&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575184&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -6940,8 +8292,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 5,
     "uikTvd": "4414007345422",
+    "uikName": "УИК №5",
     "tikTvd": "2412000575184",
     "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1472,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1500,
@@ -6957,12 +8313,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 42,
-      "Зайцева Екатерина Александровна": 45,
-      "Калашников Валерий Юрьевич": 54,
-      "Литвинов Роман Демьянович": 85,
-      "Хомяков Виктор Александрович": 24,
-      "Яровая Ирина Анатольевна": 200
+      "2412000588641": 42,
+      "2412000588623": 45,
+      "2412000584323": 54,
+      "2412000587277": 85,
+      "2412000590749": 24,
+      "2412000587266": 200
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575184&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575184&type=464",
@@ -6972,6 +8328,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:01.068424+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575184&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575184&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -6981,8 +8341,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 6,
     "uikTvd": "4414007345423",
+    "uikName": "УИК №6",
     "tikTvd": "2412000575184",
     "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1822,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1800,
@@ -6998,12 +8362,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 49,
-      "Зайцева Екатерина Александровна": 82,
-      "Калашников Валерий Юрьевич": 69,
-      "Литвинов Роман Демьянович": 135,
-      "Хомяков Виктор Александрович": 28,
-      "Яровая Ирина Анатольевна": 242
+      "2412000588641": 49,
+      "2412000588623": 82,
+      "2412000584323": 69,
+      "2412000587277": 135,
+      "2412000590749": 28,
+      "2412000587266": 242
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575184&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575184&type=464",
@@ -7013,6 +8377,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:01.068424+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575184&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575184&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -7022,8 +8390,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 7,
     "uikTvd": "4414007345424",
+    "uikName": "УИК №7",
     "tikTvd": "2412000575184",
     "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1082,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1000,
@@ -7039,12 +8411,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 31,
-      "Зайцева Екатерина Александровна": 43,
-      "Калашников Валерий Юрьевич": 47,
-      "Литвинов Роман Демьянович": 67,
-      "Хомяков Виктор Александрович": 13,
-      "Яровая Ирина Анатольевна": 150
+      "2412000588641": 31,
+      "2412000588623": 43,
+      "2412000584323": 47,
+      "2412000587277": 67,
+      "2412000590749": 13,
+      "2412000587266": 150
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575184&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575184&type=464",
@@ -7054,6 +8426,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:01.068424+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575184&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575184&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -7063,8 +8439,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 8,
     "uikTvd": "4414007345425",
+    "uikName": "УИК №8",
     "tikTvd": "2412000575184",
     "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1703,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1600,
@@ -7080,12 +8460,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 58,
-      "Зайцева Екатерина Александровна": 59,
-      "Калашников Валерий Юрьевич": 71,
-      "Литвинов Роман Демьянович": 124,
-      "Хомяков Виктор Александрович": 22,
-      "Яровая Ирина Анатольевна": 221
+      "2412000588641": 58,
+      "2412000588623": 59,
+      "2412000584323": 71,
+      "2412000587277": 124,
+      "2412000590749": 22,
+      "2412000587266": 221
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575184&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575184&type=464",
@@ -7095,6 +8475,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:01.068424+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575184&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575184&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -7104,8 +8488,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 9,
     "uikTvd": "4414007345426",
+    "uikName": "УИК №9",
     "tikTvd": "2412000575184",
     "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2183,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2000,
@@ -7121,12 +8509,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 73,
-      "Зайцева Екатерина Александровна": 131,
-      "Калашников Валерий Юрьевич": 110,
-      "Литвинов Роман Демьянович": 163,
-      "Хомяков Виктор Александрович": 36,
-      "Яровая Ирина Анатольевна": 292
+      "2412000588641": 73,
+      "2412000588623": 131,
+      "2412000584323": 110,
+      "2412000587277": 163,
+      "2412000590749": 36,
+      "2412000587266": 292
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575184&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575184&type=464",
@@ -7136,6 +8524,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:01.068424+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575184&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575184&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -7145,8 +8537,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 10,
     "uikTvd": "4414007345427",
+    "uikName": "УИК №10",
     "tikTvd": "2412000575184",
     "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2465,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2300,
@@ -7162,12 +8558,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 84,
-      "Зайцева Екатерина Александровна": 104,
-      "Калашников Валерий Юрьевич": 124,
-      "Литвинов Роман Демьянович": 168,
-      "Хомяков Виктор Александрович": 25,
-      "Яровая Ирина Анатольевна": 370
+      "2412000588641": 84,
+      "2412000588623": 104,
+      "2412000584323": 124,
+      "2412000587277": 168,
+      "2412000590749": 25,
+      "2412000587266": 370
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575184&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575184&type=464",
@@ -7177,6 +8573,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:01.068424+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575184&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575184&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -7186,8 +8586,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 11,
     "uikTvd": "4414007345428",
+    "uikName": "УИК №11",
     "tikTvd": "2412000575184",
     "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1794,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1800,
@@ -7203,12 +8607,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 52,
-      "Зайцева Екатерина Александровна": 67,
-      "Калашников Валерий Юрьевич": 87,
-      "Литвинов Роман Демьянович": 117,
-      "Хомяков Виктор Александрович": 20,
-      "Яровая Ирина Анатольевна": 236
+      "2412000588641": 52,
+      "2412000588623": 67,
+      "2412000584323": 87,
+      "2412000587277": 117,
+      "2412000590749": 20,
+      "2412000587266": 236
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575184&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575184&type=464",
@@ -7218,6 +8622,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:01.068424+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575184&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575184&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -7227,8 +8635,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 12,
     "uikTvd": "4414007345429",
+    "uikName": "УИК №12",
     "tikTvd": "2412000575184",
     "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2022,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2000,
@@ -7244,12 +8656,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 50,
-      "Зайцева Екатерина Александровна": 66,
-      "Калашников Валерий Юрьевич": 82,
-      "Литвинов Роман Демьянович": 96,
-      "Хомяков Виктор Александрович": 25,
-      "Яровая Ирина Анатольевна": 185
+      "2412000588641": 50,
+      "2412000588623": 66,
+      "2412000584323": 82,
+      "2412000587277": 96,
+      "2412000590749": 25,
+      "2412000587266": 185
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575184&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575184&type=464",
@@ -7259,6 +8671,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:01.068424+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575184&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575184&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -7268,8 +8684,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 13,
     "uikTvd": "4414007359017",
+    "uikName": "УИК №13",
     "tikTvd": "2412000575184",
     "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 64,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 100,
@@ -7285,12 +8705,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 1,
-      "Зайцева Екатерина Александровна": 1,
-      "Калашников Валерий Юрьевич": 2,
-      "Литвинов Роман Демьянович": 6,
-      "Хомяков Виктор Александрович": 1,
-      "Яровая Ирина Анатольевна": 15
+      "2412000588641": 1,
+      "2412000588623": 1,
+      "2412000584323": 2,
+      "2412000587277": 6,
+      "2412000590749": 1,
+      "2412000587266": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575184&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575184&type=464",
@@ -7300,6 +8720,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:01.068424+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575184&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575184&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -7309,8 +8733,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 14,
     "uikTvd": "4414007345486",
+    "uikName": "УИК №14",
     "tikTvd": "2412000575184",
     "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1519,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1500,
@@ -7326,12 +8754,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 40,
-      "Зайцева Екатерина Александровна": 50,
-      "Калашников Валерий Юрьевич": 78,
-      "Литвинов Роман Демьянович": 112,
-      "Хомяков Виктор Александрович": 17,
-      "Яровая Ирина Анатольевна": 187
+      "2412000588641": 40,
+      "2412000588623": 50,
+      "2412000584323": 78,
+      "2412000587277": 112,
+      "2412000590749": 17,
+      "2412000587266": 187
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575184&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575184&type=464",
@@ -7341,6 +8769,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:01.068424+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575184&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575184&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -7350,8 +8782,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 15,
     "uikTvd": "4414007345430",
+    "uikName": "УИК №15",
     "tikTvd": "2412000575184",
     "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 788,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 700,
@@ -7367,12 +8803,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 13,
-      "Зайцева Екатерина Александровна": 29,
-      "Калашников Валерий Юрьевич": 28,
-      "Литвинов Роман Демьянович": 38,
-      "Хомяков Виктор Александрович": 7,
-      "Яровая Ирина Анатольевна": 77
+      "2412000588641": 13,
+      "2412000588623": 29,
+      "2412000584323": 28,
+      "2412000587277": 38,
+      "2412000590749": 7,
+      "2412000587266": 77
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575184&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575184&type=464",
@@ -7382,6 +8818,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:01.068424+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575184&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575184&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -7391,8 +8831,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 16,
     "uikTvd": "4414007345431",
+    "uikName": "УИК №16",
     "tikTvd": "2412000575184",
     "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1839,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1500,
@@ -7408,12 +8852,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 54,
-      "Зайцева Екатерина Александровна": 100,
-      "Калашников Валерий Юрьевич": 116,
-      "Литвинов Роман Демьянович": 111,
-      "Хомяков Виктор Александрович": 23,
-      "Яровая Ирина Анатольевна": 285
+      "2412000588641": 54,
+      "2412000588623": 100,
+      "2412000584323": 116,
+      "2412000587277": 111,
+      "2412000590749": 23,
+      "2412000587266": 285
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575184&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575184&type=464",
@@ -7423,6 +8867,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:01.068424+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575184&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575184&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -7432,8 +8880,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 17,
     "uikTvd": "4414007345432",
+    "uikName": "УИК №17",
     "tikTvd": "2412000575184",
     "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 921,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1400,
@@ -7449,12 +8901,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 69,
-      "Зайцева Екатерина Александровна": 130,
-      "Калашников Валерий Юрьевич": 107,
-      "Литвинов Роман Демьянович": 148,
-      "Хомяков Виктор Александрович": 30,
-      "Яровая Ирина Анатольевна": 407
+      "2412000588641": 69,
+      "2412000588623": 130,
+      "2412000584323": 107,
+      "2412000587277": 148,
+      "2412000590749": 30,
+      "2412000587266": 407
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575184&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575184&type=464",
@@ -7464,6 +8916,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:01.068424+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575184&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575184&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -7473,8 +8929,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 18,
     "uikTvd": "4414007345433",
+    "uikName": "УИК №18",
     "tikTvd": "2412000575184",
     "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2148,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2100,
@@ -7490,12 +8950,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 62,
-      "Зайцева Екатерина Александровна": 112,
-      "Калашников Валерий Юрьевич": 96,
-      "Литвинов Роман Демьянович": 141,
-      "Хомяков Виктор Александрович": 26,
-      "Яровая Ирина Анатольевна": 264
+      "2412000588641": 62,
+      "2412000588623": 112,
+      "2412000584323": 96,
+      "2412000587277": 141,
+      "2412000590749": 26,
+      "2412000587266": 264
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575184&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575184&type=464",
@@ -7505,6 +8965,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:01.068424+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575184&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575184&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -7514,8 +8978,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 19,
     "uikTvd": "4414007345434",
+    "uikName": "УИК №19",
     "tikTvd": "2412000575184",
     "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2321,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2200,
@@ -7531,12 +8999,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 52,
-      "Зайцева Екатерина Александровна": 87,
-      "Калашников Валерий Юрьевич": 60,
-      "Литвинов Роман Демьянович": 133,
-      "Хомяков Виктор Александрович": 22,
-      "Яровая Ирина Анатольевна": 183
+      "2412000588641": 52,
+      "2412000588623": 87,
+      "2412000584323": 60,
+      "2412000587277": 133,
+      "2412000590749": 22,
+      "2412000587266": 183
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575184&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575184&type=464",
@@ -7546,6 +9014,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:01.068424+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575184&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575184&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -7555,8 +9027,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 20,
     "uikTvd": "4414007345435",
+    "uikName": "УИК №20",
     "tikTvd": "2412000575184",
     "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2513,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2400,
@@ -7572,12 +9048,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 66,
-      "Зайцева Екатерина Александровна": 82,
-      "Калашников Валерий Юрьевич": 106,
-      "Литвинов Роман Демьянович": 160,
-      "Хомяков Виктор Александрович": 32,
-      "Яровая Ирина Анатольевна": 318
+      "2412000588641": 66,
+      "2412000588623": 82,
+      "2412000584323": 106,
+      "2412000587277": 160,
+      "2412000590749": 32,
+      "2412000587266": 318
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575184&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575184&type=464",
@@ -7587,6 +9063,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:01.068424+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575184&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575184&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -7596,8 +9076,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 21,
     "uikTvd": "4414007359018",
+    "uikName": "УИК №21",
     "tikTvd": "2412000575184",
     "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 83,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 100,
@@ -7613,12 +9097,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 13,
-      "Зайцева Екатерина Александровна": 8,
-      "Калашников Валерий Юрьевич": 8,
-      "Литвинов Роман Демьянович": 16,
-      "Хомяков Виктор Александрович": 6,
-      "Яровая Ирина Анатольевна": 31
+      "2412000588641": 13,
+      "2412000588623": 8,
+      "2412000584323": 8,
+      "2412000587277": 16,
+      "2412000590749": 6,
+      "2412000587266": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575184&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575184&type=464",
@@ -7628,6 +9112,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:01.068424+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575184&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575184&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -7637,8 +9125,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 22,
     "uikTvd": "4414007345436",
+    "uikName": "УИК №22",
     "tikTvd": "2412000575184",
     "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 910,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 900,
@@ -7654,12 +9146,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 23,
-      "Зайцева Екатерина Александровна": 40,
-      "Калашников Валерий Юрьевич": 48,
-      "Литвинов Роман Демьянович": 63,
-      "Хомяков Виктор Александрович": 9,
-      "Яровая Ирина Анатольевна": 133
+      "2412000588641": 23,
+      "2412000588623": 40,
+      "2412000584323": 48,
+      "2412000587277": 63,
+      "2412000590749": 9,
+      "2412000587266": 133
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575184&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575184&type=464",
@@ -7669,6 +9161,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:01.068424+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575184&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575184&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -7678,8 +9174,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 23,
     "uikTvd": "4414007345437",
+    "uikName": "УИК №23",
     "tikTvd": "2412000575184",
     "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1540,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1500,
@@ -7695,12 +9195,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 39,
-      "Зайцева Екатерина Александровна": 66,
-      "Калашников Валерий Юрьевич": 72,
-      "Литвинов Роман Демьянович": 138,
-      "Хомяков Виктор Александрович": 20,
-      "Яровая Ирина Анатольевна": 227
+      "2412000588641": 39,
+      "2412000588623": 66,
+      "2412000584323": 72,
+      "2412000587277": 138,
+      "2412000590749": 20,
+      "2412000587266": 227
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575184&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575184&type=464",
@@ -7710,6 +9210,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:01.068424+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575184&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575184&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -7719,8 +9223,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 24,
     "uikTvd": "4414007345438",
+    "uikName": "УИК №24",
     "tikTvd": "2412000575184",
     "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1774,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1700,
@@ -7736,12 +9244,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 59,
-      "Зайцева Екатерина Александровна": 60,
-      "Калашников Валерий Юрьевич": 58,
-      "Литвинов Роман Демьянович": 142,
-      "Хомяков Виктор Александрович": 31,
-      "Яровая Ирина Анатольевна": 209
+      "2412000588641": 59,
+      "2412000588623": 60,
+      "2412000584323": 58,
+      "2412000587277": 142,
+      "2412000590749": 31,
+      "2412000587266": 209
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575184&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575184&type=464",
@@ -7751,6 +9259,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:01.068424+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575184&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575184&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -7760,8 +9272,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 25,
     "uikTvd": "4414007345439",
+    "uikName": "УИК №25",
     "tikTvd": "2412000575184",
     "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1056,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 900,
@@ -7777,12 +9293,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 19,
-      "Зайцева Екатерина Александровна": 51,
-      "Калашников Валерий Юрьевич": 25,
-      "Литвинов Роман Демьянович": 60,
-      "Хомяков Виктор Александрович": 12,
-      "Яровая Ирина Анатольевна": 120
+      "2412000588641": 19,
+      "2412000588623": 51,
+      "2412000584323": 25,
+      "2412000587277": 60,
+      "2412000590749": 12,
+      "2412000587266": 120
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575184&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575184&type=464",
@@ -7792,6 +9308,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:01.068424+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575184&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575184&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -7801,8 +9321,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 26,
     "uikTvd": "4414007345440",
+    "uikName": "УИК №26",
     "tikTvd": "2412000575184",
     "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2679,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2800,
@@ -7818,12 +9342,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 74,
-      "Зайцева Екатерина Александровна": 112,
-      "Калашников Валерий Юрьевич": 124,
-      "Литвинов Роман Демьянович": 204,
-      "Хомяков Виктор Александрович": 43,
-      "Яровая Ирина Анатольевна": 281
+      "2412000588641": 74,
+      "2412000588623": 112,
+      "2412000584323": 124,
+      "2412000587277": 204,
+      "2412000590749": 43,
+      "2412000587266": 281
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575184&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575184&type=464",
@@ -7833,6 +9357,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:01.068424+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575184&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575184&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -7842,8 +9370,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 27,
     "uikTvd": "4414007345441",
+    "uikName": "УИК №27",
     "tikTvd": "2412000575184",
     "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2690,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2800,
@@ -7859,12 +9391,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 76,
-      "Зайцева Екатерина Александровна": 98,
-      "Калашников Валерий Юрьевич": 104,
-      "Литвинов Роман Демьянович": 193,
-      "Хомяков Виктор Александрович": 24,
-      "Яровая Ирина Анатольевна": 334
+      "2412000588641": 76,
+      "2412000588623": 98,
+      "2412000584323": 104,
+      "2412000587277": 193,
+      "2412000590749": 24,
+      "2412000587266": 334
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575184&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575184&type=464",
@@ -7874,6 +9406,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:01.068424+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575184&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575184&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -7883,8 +9419,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 28,
     "uikTvd": "4414007345442",
+    "uikName": "УИК №28",
     "tikTvd": "2412000575184",
     "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1129,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1000,
@@ -7900,12 +9440,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 29,
-      "Зайцева Екатерина Александровна": 52,
-      "Калашников Валерий Юрьевич": 44,
-      "Литвинов Роман Демьянович": 105,
-      "Хомяков Виктор Александрович": 8,
-      "Яровая Ирина Анатольевна": 144
+      "2412000588641": 29,
+      "2412000588623": 52,
+      "2412000584323": 44,
+      "2412000587277": 105,
+      "2412000590749": 8,
+      "2412000587266": 144
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575184&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575184&type=464",
@@ -7915,6 +9455,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:01.068424+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575184&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575184&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -7924,8 +9468,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 29,
     "uikTvd": "4414007345443",
+    "uikName": "УИК №29",
     "tikTvd": "2412000575184",
     "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 587,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 500,
@@ -7941,12 +9489,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 16,
-      "Зайцева Екатерина Александровна": 17,
-      "Калашников Валерий Юрьевич": 12,
-      "Литвинов Роман Демьянович": 51,
-      "Хомяков Виктор Александрович": 3,
-      "Яровая Ирина Анатольевна": 71
+      "2412000588641": 16,
+      "2412000588623": 17,
+      "2412000584323": 12,
+      "2412000587277": 51,
+      "2412000590749": 3,
+      "2412000587266": 71
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575184&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575184&type=464",
@@ -7956,6 +9504,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:01.068424+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575184&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575184&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -7965,8 +9517,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 30,
     "uikTvd": "4414007345444",
+    "uikName": "УИК №30",
     "tikTvd": "2412000575184",
     "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1784,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1700,
@@ -7982,12 +9538,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 91,
-      "Зайцева Екатерина Александровна": 84,
-      "Калашников Валерий Юрьевич": 76,
-      "Литвинов Роман Демьянович": 135,
-      "Хомяков Виктор Александрович": 27,
-      "Яровая Ирина Анатольевна": 229
+      "2412000588641": 91,
+      "2412000588623": 84,
+      "2412000584323": 76,
+      "2412000587277": 135,
+      "2412000590749": 27,
+      "2412000587266": 229
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575184&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575184&type=464",
@@ -7997,6 +9553,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:01.068424+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575184&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575184&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -8006,8 +9566,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 31,
     "uikTvd": "4414007345445",
+    "uikName": "УИК №31",
     "tikTvd": "2412000575184",
     "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2070,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2100,
@@ -8023,12 +9587,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 64,
-      "Зайцева Екатерина Александровна": 91,
-      "Калашников Валерий Юрьевич": 84,
-      "Литвинов Роман Демьянович": 157,
-      "Хомяков Виктор Александрович": 31,
-      "Яровая Ирина Анатольевна": 269
+      "2412000588641": 64,
+      "2412000588623": 91,
+      "2412000584323": 84,
+      "2412000587277": 157,
+      "2412000590749": 31,
+      "2412000587266": 269
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575184&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575184&type=464",
@@ -8038,6 +9602,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:01.068424+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575184&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575184&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -8047,8 +9615,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 32,
     "uikTvd": "4414007345446",
+    "uikName": "УИК №32",
     "tikTvd": "2412000575184",
     "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2010,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2000,
@@ -8064,12 +9636,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 60,
-      "Зайцева Екатерина Александровна": 81,
-      "Калашников Валерий Юрьевич": 75,
-      "Литвинов Роман Демьянович": 141,
-      "Хомяков Виктор Александрович": 31,
-      "Яровая Ирина Анатольевна": 295
+      "2412000588641": 60,
+      "2412000588623": 81,
+      "2412000584323": 75,
+      "2412000587277": 141,
+      "2412000590749": 31,
+      "2412000587266": 295
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575184&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575184&type=464",
@@ -8079,6 +9651,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:01.068424+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575184&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575184&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -8088,8 +9664,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 33,
     "uikTvd": "4414007345447",
+    "uikName": "УИК №33",
     "tikTvd": "2412000575184",
     "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2175,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2100,
@@ -8105,12 +9685,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 69,
-      "Зайцева Екатерина Александровна": 77,
-      "Калашников Валерий Юрьевич": 68,
-      "Литвинов Роман Демьянович": 132,
-      "Хомяков Виктор Александрович": 26,
-      "Яровая Ирина Анатольевна": 276
+      "2412000588641": 69,
+      "2412000588623": 77,
+      "2412000584323": 68,
+      "2412000587277": 132,
+      "2412000590749": 26,
+      "2412000587266": 276
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575184&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575184&type=464",
@@ -8120,6 +9700,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:01.068424+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575184&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575184&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -8129,8 +9713,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 34,
     "uikTvd": "4414007345448",
+    "uikName": "УИК №34",
     "tikTvd": "2412000575184",
     "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2119,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2000,
@@ -8146,12 +9734,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 95,
-      "Зайцева Екатерина Александровна": 104,
-      "Калашников Валерий Юрьевич": 92,
-      "Литвинов Роман Демьянович": 144,
-      "Хомяков Виктор Александрович": 36,
-      "Яровая Ирина Анатольевна": 357
+      "2412000588641": 95,
+      "2412000588623": 104,
+      "2412000584323": 92,
+      "2412000587277": 144,
+      "2412000590749": 36,
+      "2412000587266": 357
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575184&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575184&type=464",
@@ -8161,6 +9749,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:01.068424+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575184&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575184&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -8170,8 +9762,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 35,
     "uikTvd": "4414007345449",
+    "uikName": "УИК №35",
     "tikTvd": "2412000575184",
     "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1602,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1500,
@@ -8187,12 +9783,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 56,
-      "Зайцева Екатерина Александровна": 63,
-      "Калашников Валерий Юрьевич": 50,
-      "Литвинов Роман Демьянович": 113,
-      "Хомяков Виктор Александрович": 23,
-      "Яровая Ирина Анатольевна": 205
+      "2412000588641": 56,
+      "2412000588623": 63,
+      "2412000584323": 50,
+      "2412000587277": 113,
+      "2412000590749": 23,
+      "2412000587266": 205
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575184&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575184&type=464",
@@ -8202,6 +9798,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:01.068424+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575184&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575184&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -8211,8 +9811,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 36,
     "uikTvd": "4414007345450",
+    "uikName": "УИК №36",
     "tikTvd": "2412000575184",
     "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2200,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2200,
@@ -8228,12 +9832,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 70,
-      "Зайцева Екатерина Александровна": 100,
-      "Калашников Валерий Юрьевич": 101,
-      "Литвинов Роман Демьянович": 161,
-      "Хомяков Виктор Александрович": 30,
-      "Яровая Ирина Анатольевна": 289
+      "2412000588641": 70,
+      "2412000588623": 100,
+      "2412000584323": 101,
+      "2412000587277": 161,
+      "2412000590749": 30,
+      "2412000587266": 289
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575184&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575184&type=464",
@@ -8243,6 +9847,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:01.068424+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575184&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575184&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -8252,8 +9860,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 37,
     "uikTvd": "4414007345451",
+    "uikName": "УИК №37",
     "tikTvd": "2412000575184",
     "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 989,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 900,
@@ -8269,12 +9881,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 34,
-      "Зайцева Екатерина Александровна": 34,
-      "Калашников Валерий Юрьевич": 41,
-      "Литвинов Роман Демьянович": 72,
-      "Хомяков Виктор Александрович": 17,
-      "Яровая Ирина Анатольевна": 158
+      "2412000588641": 34,
+      "2412000588623": 34,
+      "2412000584323": 41,
+      "2412000587277": 72,
+      "2412000590749": 17,
+      "2412000587266": 158
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575184&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575184&type=464",
@@ -8284,6 +9896,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:01.068424+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575184&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575184&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -8293,8 +9909,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 38,
     "uikTvd": "4414007345452",
+    "uikName": "УИК №38",
     "tikTvd": "2412000575184",
     "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2393,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2300,
@@ -8310,12 +9930,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 69,
-      "Зайцева Екатерина Александровна": 99,
-      "Калашников Валерий Юрьевич": 96,
-      "Литвинов Роман Демьянович": 164,
-      "Хомяков Виктор Александрович": 22,
-      "Яровая Ирина Анатольевна": 319
+      "2412000588641": 69,
+      "2412000588623": 99,
+      "2412000584323": 96,
+      "2412000587277": 164,
+      "2412000590749": 22,
+      "2412000587266": 319
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575184&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575184&type=464",
@@ -8325,6 +9945,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:01.068424+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575184&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575184&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -8334,8 +9958,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 39,
     "uikTvd": "4414007345453",
+    "uikName": "УИК №39",
     "tikTvd": "2412000575184",
     "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2202,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2100,
@@ -8351,12 +9979,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 101,
-      "Зайцева Екатерина Александровна": 108,
-      "Калашников Валерий Юрьевич": 96,
-      "Литвинов Роман Демьянович": 153,
-      "Хомяков Виктор Александрович": 27,
-      "Яровая Ирина Анатольевна": 294
+      "2412000588641": 101,
+      "2412000588623": 108,
+      "2412000584323": 96,
+      "2412000587277": 153,
+      "2412000590749": 27,
+      "2412000587266": 294
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575184&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575184&type=464",
@@ -8366,6 +9994,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:01.068424+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575184&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575184&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -8375,8 +10007,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 40,
     "uikTvd": "4414007345454",
+    "uikName": "УИК №40",
     "tikTvd": "2412000575184",
     "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2277,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2300,
@@ -8392,12 +10028,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 70,
-      "Зайцева Екатерина Александровна": 105,
-      "Калашников Валерий Юрьевич": 104,
-      "Литвинов Роман Демьянович": 161,
-      "Хомяков Виктор Александрович": 27,
-      "Яровая Ирина Анатольевна": 288
+      "2412000588641": 70,
+      "2412000588623": 105,
+      "2412000584323": 104,
+      "2412000587277": 161,
+      "2412000590749": 27,
+      "2412000587266": 288
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575184&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575184&type=464",
@@ -8407,6 +10043,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:01.068424+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575184&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575184&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -8416,8 +10056,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 41,
     "uikTvd": "4414007345455",
+    "uikName": "УИК №41",
     "tikTvd": "2412000575184",
     "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2540,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2500,
@@ -8433,12 +10077,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 72,
-      "Зайцева Екатерина Александровна": 120,
-      "Калашников Валерий Юрьевич": 133,
-      "Литвинов Роман Демьянович": 244,
-      "Хомяков Виктор Александрович": 45,
-      "Яровая Ирина Анатольевна": 365
+      "2412000588641": 72,
+      "2412000588623": 120,
+      "2412000584323": 133,
+      "2412000587277": 244,
+      "2412000590749": 45,
+      "2412000587266": 365
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575184&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575184&type=464",
@@ -8448,6 +10092,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:01.068424+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575184&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575184&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -8457,8 +10105,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 42,
     "uikTvd": "4414007345456",
+    "uikName": "УИК №42",
     "tikTvd": "2412000575184",
     "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2527,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2500,
@@ -8474,12 +10126,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 107,
-      "Зайцева Екатерина Александровна": 112,
-      "Калашников Валерий Юрьевич": 135,
-      "Литвинов Роман Демьянович": 170,
-      "Хомяков Виктор Александрович": 44,
-      "Яровая Ирина Анатольевна": 338
+      "2412000588641": 107,
+      "2412000588623": 112,
+      "2412000584323": 135,
+      "2412000587277": 170,
+      "2412000590749": 44,
+      "2412000587266": 338
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575184&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575184&type=464",
@@ -8489,6 +10141,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:01.068424+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575184&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575184&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -8498,8 +10154,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 43,
     "uikTvd": "4414007345457",
+    "uikName": "УИК №43",
     "tikTvd": "2412000575184",
     "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2765,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2700,
@@ -8515,12 +10175,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 69,
-      "Зайцева Екатерина Александровна": 178,
-      "Калашников Валерий Юрьевич": 129,
-      "Литвинов Роман Демьянович": 238,
-      "Хомяков Виктор Александрович": 45,
-      "Яровая Ирина Анатольевна": 425
+      "2412000588641": 69,
+      "2412000588623": 178,
+      "2412000584323": 129,
+      "2412000587277": 238,
+      "2412000590749": 45,
+      "2412000587266": 425
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575184&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575184&type=464",
@@ -8530,6 +10190,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:01.068424+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575184&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575184&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -8539,8 +10203,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 44,
     "uikTvd": "4414007345458",
+    "uikName": "УИК №44",
     "tikTvd": "2412000575184",
     "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2602,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2500,
@@ -8556,12 +10224,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 91,
-      "Зайцева Екатерина Александровна": 107,
-      "Калашников Валерий Юрьевич": 118,
-      "Литвинов Роман Демьянович": 219,
-      "Хомяков Виктор Александрович": 35,
-      "Яровая Ирина Анатольевна": 383
+      "2412000588641": 91,
+      "2412000588623": 107,
+      "2412000584323": 118,
+      "2412000587277": 219,
+      "2412000590749": 35,
+      "2412000587266": 383
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575184&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575184&type=464",
@@ -8571,6 +10239,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:01.068424+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575184&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575184&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -8580,8 +10252,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 45,
     "uikTvd": "4414007345459",
+    "uikName": "УИК №45",
     "tikTvd": "2412000575184",
     "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1495,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1200,
@@ -8597,12 +10273,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 41,
-      "Зайцева Екатерина Александровна": 82,
-      "Калашников Валерий Юрьевич": 64,
-      "Литвинов Роман Демьянович": 138,
-      "Хомяков Виктор Александрович": 26,
-      "Яровая Ирина Анатольевна": 204
+      "2412000588641": 41,
+      "2412000588623": 82,
+      "2412000584323": 64,
+      "2412000587277": 138,
+      "2412000590749": 26,
+      "2412000587266": 204
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575184&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575184&type=464",
@@ -8612,6 +10288,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:01.068424+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575184&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575184&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -8621,8 +10301,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 46,
     "uikTvd": "4414007345460",
+    "uikName": "УИК №46",
     "tikTvd": "2412000575184",
     "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2020,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1900,
@@ -8638,12 +10322,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 79,
-      "Зайцева Екатерина Александровна": 82,
-      "Калашников Валерий Юрьевич": 79,
-      "Литвинов Роман Демьянович": 146,
-      "Хомяков Виктор Александрович": 32,
-      "Яровая Ирина Анатольевна": 266
+      "2412000588641": 79,
+      "2412000588623": 82,
+      "2412000584323": 79,
+      "2412000587277": 146,
+      "2412000590749": 32,
+      "2412000587266": 266
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575184&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575184&type=464",
@@ -8653,6 +10337,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:01.068424+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575184&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575184&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -8662,8 +10350,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 47,
     "uikTvd": "4414007345461",
+    "uikName": "УИК №47",
     "tikTvd": "2412000575184",
     "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2063,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1900,
@@ -8679,12 +10371,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 70,
-      "Зайцева Екатерина Александровна": 88,
-      "Калашников Валерий Юрьевич": 87,
-      "Литвинов Роман Демьянович": 144,
-      "Хомяков Виктор Александрович": 37,
-      "Яровая Ирина Анатольевна": 264
+      "2412000588641": 70,
+      "2412000588623": 88,
+      "2412000584323": 87,
+      "2412000587277": 144,
+      "2412000590749": 37,
+      "2412000587266": 264
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575184&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575184&type=464",
@@ -8694,6 +10386,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:01.068424+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575184&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575184&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -8703,8 +10399,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 48,
     "uikTvd": "4414007345462",
+    "uikName": "УИК №48",
     "tikTvd": "2412000575184",
     "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2133,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2000,
@@ -8720,12 +10420,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 72,
-      "Зайцева Екатерина Александровна": 84,
-      "Калашников Валерий Юрьевич": 60,
-      "Литвинов Роман Демьянович": 126,
-      "Хомяков Виктор Александрович": 33,
-      "Яровая Ирина Анатольевна": 198
+      "2412000588641": 72,
+      "2412000588623": 84,
+      "2412000584323": 60,
+      "2412000587277": 126,
+      "2412000590749": 33,
+      "2412000587266": 198
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575184&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575184&type=464",
@@ -8735,6 +10435,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:01.068424+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575184&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575184&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -8744,8 +10448,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 49,
     "uikTvd": "4414007345463",
+    "uikName": "УИК №49",
     "tikTvd": "2412000575184",
     "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2025,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2000,
@@ -8761,12 +10469,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 69,
-      "Зайцева Екатерина Александровна": 79,
-      "Калашников Валерий Юрьевич": 80,
-      "Литвинов Роман Демьянович": 112,
-      "Хомяков Виктор Александрович": 25,
-      "Яровая Ирина Анатольевна": 209
+      "2412000588641": 69,
+      "2412000588623": 79,
+      "2412000584323": 80,
+      "2412000587277": 112,
+      "2412000590749": 25,
+      "2412000587266": 209
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575184&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575184&type=464",
@@ -8776,6 +10484,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:01.068424+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575184&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575184&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -8785,8 +10497,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 50,
     "uikTvd": "4414007345464",
+    "uikName": "УИК №50",
     "tikTvd": "2412000575184",
     "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2211,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2100,
@@ -8802,12 +10518,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 72,
-      "Зайцева Екатерина Александровна": 72,
-      "Калашников Валерий Юрьевич": 67,
-      "Литвинов Роман Демьянович": 147,
-      "Хомяков Виктор Александрович": 21,
-      "Яровая Ирина Анатольевна": 207
+      "2412000588641": 72,
+      "2412000588623": 72,
+      "2412000584323": 67,
+      "2412000587277": 147,
+      "2412000590749": 21,
+      "2412000587266": 207
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575184&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575184&type=464",
@@ -8817,6 +10533,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:01.068424+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575184&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575184&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -8826,8 +10546,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 51,
     "uikTvd": "4414007345465",
+    "uikName": "УИК №51",
     "tikTvd": "2412000575184",
     "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2162,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2000,
@@ -8843,12 +10567,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 60,
-      "Зайцева Екатерина Александровна": 104,
-      "Калашников Валерий Юрьевич": 98,
-      "Литвинов Роман Демьянович": 134,
-      "Хомяков Виктор Александрович": 23,
-      "Яровая Ирина Анатольевна": 263
+      "2412000588641": 60,
+      "2412000588623": 104,
+      "2412000584323": 98,
+      "2412000587277": 134,
+      "2412000590749": 23,
+      "2412000587266": 263
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575184&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575184&type=464",
@@ -8858,6 +10582,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:01.068424+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575184&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575184&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -8867,8 +10595,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 52,
     "uikTvd": "4414007345466",
+    "uikName": "УИК №52",
     "tikTvd": "2412000575184",
     "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 3107,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2000,
@@ -8884,12 +10616,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 130,
-      "Зайцева Екатерина Александровна": 137,
-      "Калашников Валерий Юрьевич": 150,
-      "Литвинов Роман Демьянович": 194,
-      "Хомяков Виктор Александрович": 52,
-      "Яровая Ирина Анатольевна": 487
+      "2412000588641": 130,
+      "2412000588623": 137,
+      "2412000584323": 150,
+      "2412000587277": 194,
+      "2412000590749": 52,
+      "2412000587266": 487
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575184&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575184&type=464",
@@ -8899,6 +10631,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:01.068424+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575184&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575184&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -8908,8 +10644,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 53,
     "uikTvd": "4414007345467",
+    "uikName": "УИК №53",
     "tikTvd": "2412000575184",
     "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 528,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1700,
@@ -8925,12 +10665,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 57,
-      "Зайцева Екатерина Александровна": 60,
-      "Калашников Валерий Юрьевич": 61,
-      "Литвинов Роман Демьянович": 111,
-      "Хомяков Виктор Александрович": 24,
-      "Яровая Ирина Анатольевна": 197
+      "2412000588641": 57,
+      "2412000588623": 60,
+      "2412000584323": 61,
+      "2412000587277": 111,
+      "2412000590749": 24,
+      "2412000587266": 197
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575184&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575184&type=464",
@@ -8940,6 +10680,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:01.068424+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575184&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575184&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -8949,8 +10693,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 54,
     "uikTvd": "4414007345468",
+    "uikName": "УИК №54",
     "tikTvd": "2412000575184",
     "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2960,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2800,
@@ -8966,12 +10714,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 93,
-      "Зайцева Екатерина Александровна": 97,
-      "Калашников Валерий Юрьевич": 102,
-      "Литвинов Роман Демьянович": 195,
-      "Хомяков Виктор Александрович": 40,
-      "Яровая Ирина Анатольевна": 318
+      "2412000588641": 93,
+      "2412000588623": 97,
+      "2412000584323": 102,
+      "2412000587277": 195,
+      "2412000590749": 40,
+      "2412000587266": 318
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575184&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575184&type=464",
@@ -8981,6 +10729,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:01.068424+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575184&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575184&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -8990,8 +10742,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 55,
     "uikTvd": "4414007345469",
+    "uikName": "УИК №55",
     "tikTvd": "2412000575184",
     "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1361,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1300,
@@ -9007,12 +10763,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 47,
-      "Зайцева Екатерина Александровна": 31,
-      "Калашников Валерий Юрьевич": 46,
-      "Литвинов Роман Демьянович": 73,
-      "Хомяков Виктор Александрович": 14,
-      "Яровая Ирина Анатольевна": 143
+      "2412000588641": 47,
+      "2412000588623": 31,
+      "2412000584323": 46,
+      "2412000587277": 73,
+      "2412000590749": 14,
+      "2412000587266": 143
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575184&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575184&type=464",
@@ -9022,6 +10778,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:01.068424+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575184&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575184&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -9031,8 +10791,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 56,
     "uikTvd": "4414007345470",
+    "uikName": "УИК №56",
     "tikTvd": "2412000575184",
     "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1901,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1700,
@@ -9048,12 +10812,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 59,
-      "Зайцева Екатерина Александровна": 66,
-      "Калашников Валерий Юрьевич": 80,
-      "Литвинов Роман Демьянович": 89,
-      "Хомяков Виктор Александрович": 18,
-      "Яровая Ирина Анатольевна": 237
+      "2412000588641": 59,
+      "2412000588623": 66,
+      "2412000584323": 80,
+      "2412000587277": 89,
+      "2412000590749": 18,
+      "2412000587266": 237
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575184&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575184&type=464",
@@ -9063,6 +10827,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:01.068424+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575184&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575184&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -9072,8 +10840,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 57,
     "uikTvd": "4414007345471",
+    "uikName": "УИК №57",
     "tikTvd": "2412000575184",
     "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2483,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2400,
@@ -9089,12 +10861,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 93,
-      "Зайцева Екатерина Александровна": 106,
-      "Калашников Валерий Юрьевич": 76,
-      "Литвинов Роман Демьянович": 142,
-      "Хомяков Виктор Александрович": 37,
-      "Яровая Ирина Анатольевна": 247
+      "2412000588641": 93,
+      "2412000588623": 106,
+      "2412000584323": 76,
+      "2412000587277": 142,
+      "2412000590749": 37,
+      "2412000587266": 247
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575184&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575184&type=464",
@@ -9104,6 +10876,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:01.068424+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575184&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575184&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -9113,8 +10889,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 58,
     "uikTvd": "4414007345472",
+    "uikName": "УИК №58",
     "tikTvd": "2412000575184",
     "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1415,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1300,
@@ -9130,12 +10910,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 53,
-      "Зайцева Екатерина Александровна": 70,
-      "Калашников Валерий Юрьевич": 58,
-      "Литвинов Роман Демьянович": 97,
-      "Хомяков Виктор Александрович": 18,
-      "Яровая Ирина Анатольевна": 159
+      "2412000588641": 53,
+      "2412000588623": 70,
+      "2412000584323": 58,
+      "2412000587277": 97,
+      "2412000590749": 18,
+      "2412000587266": 159
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575184&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575184&type=464",
@@ -9145,6 +10925,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:01.068424+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575184&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575184&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -9154,8 +10938,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 59,
     "uikTvd": "4414007345473",
+    "uikName": "УИК №59",
     "tikTvd": "2412000575184",
     "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2328,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2000,
@@ -9171,12 +10959,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 88,
-      "Зайцева Екатерина Александровна": 102,
-      "Калашников Валерий Юрьевич": 99,
-      "Литвинов Роман Демьянович": 148,
-      "Хомяков Виктор Александрович": 39,
-      "Яровая Ирина Анатольевна": 260
+      "2412000588641": 88,
+      "2412000588623": 102,
+      "2412000584323": 99,
+      "2412000587277": 148,
+      "2412000590749": 39,
+      "2412000587266": 260
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575184&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575184&type=464",
@@ -9186,6 +10974,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:01.068424+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575184&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575184&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -9195,8 +10987,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 60,
     "uikTvd": "4414007345474",
+    "uikName": "УИК №60",
     "tikTvd": "2412000575184",
     "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2516,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 3000,
@@ -9212,12 +11008,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 155,
-      "Зайцева Екатерина Александровна": 183,
-      "Калашников Валерий Юрьевич": 204,
-      "Литвинов Роман Демьянович": 216,
-      "Хомяков Виктор Александрович": 45,
-      "Яровая Ирина Анатольевна": 406
+      "2412000588641": 155,
+      "2412000588623": 183,
+      "2412000584323": 204,
+      "2412000587277": 216,
+      "2412000590749": 45,
+      "2412000587266": 406
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575184&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575184&type=464",
@@ -9227,6 +11023,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:01.068424+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575184&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575184&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -9236,8 +11036,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 61,
     "uikTvd": "4414007345475",
+    "uikName": "УИК №61",
     "tikTvd": "2412000575184",
     "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2684,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2300,
@@ -9253,12 +11057,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 95,
-      "Зайцева Екатерина Александровна": 151,
-      "Калашников Валерий Юрьевич": 167,
-      "Литвинов Роман Демьянович": 186,
-      "Хомяков Виктор Александрович": 40,
-      "Яровая Ирина Анатольевна": 391
+      "2412000588641": 95,
+      "2412000588623": 151,
+      "2412000584323": 167,
+      "2412000587277": 186,
+      "2412000590749": 40,
+      "2412000587266": 391
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575184&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575184&type=464",
@@ -9268,6 +11072,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:01.068424+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575184&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575184&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -9277,8 +11085,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 62,
     "uikTvd": "4414007345476",
+    "uikName": "УИК №62",
     "tikTvd": "2412000575184",
     "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1708,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1500,
@@ -9294,12 +11106,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 57,
-      "Зайцева Екатерина Александровна": 71,
-      "Калашников Валерий Юрьевич": 72,
-      "Литвинов Роман Демьянович": 131,
-      "Хомяков Виктор Александрович": 26,
-      "Яровая Ирина Анатольевна": 212
+      "2412000588641": 57,
+      "2412000588623": 71,
+      "2412000584323": 72,
+      "2412000587277": 131,
+      "2412000590749": 26,
+      "2412000587266": 212
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575184&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575184&type=464",
@@ -9309,6 +11121,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:01.068424+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575184&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575184&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -9318,8 +11134,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 63,
     "uikTvd": "4414007345477",
+    "uikName": "УИК №63",
     "tikTvd": "2412000575184",
     "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2010,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1900,
@@ -9335,12 +11155,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 80,
-      "Зайцева Екатерина Александровна": 94,
-      "Калашников Валерий Юрьевич": 93,
-      "Литвинов Роман Демьянович": 136,
-      "Хомяков Виктор Александрович": 28,
-      "Яровая Ирина Анатольевна": 247
+      "2412000588641": 80,
+      "2412000588623": 94,
+      "2412000584323": 93,
+      "2412000587277": 136,
+      "2412000590749": 28,
+      "2412000587266": 247
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575184&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575184&type=464",
@@ -9350,6 +11170,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:01.068424+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575184&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575184&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -9359,8 +11183,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 64,
     "uikTvd": "4414007345478",
+    "uikName": "УИК №64",
     "tikTvd": "2412000575184",
     "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1852,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1800,
@@ -9376,12 +11204,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 69,
-      "Зайцева Екатерина Александровна": 76,
-      "Калашников Валерий Юрьевич": 60,
-      "Литвинов Роман Демьянович": 130,
-      "Хомяков Виктор Александрович": 32,
-      "Яровая Ирина Анатольевна": 237
+      "2412000588641": 69,
+      "2412000588623": 76,
+      "2412000584323": 60,
+      "2412000587277": 130,
+      "2412000590749": 32,
+      "2412000587266": 237
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575184&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575184&type=464",
@@ -9391,6 +11219,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:01.068424+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575184&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575184&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -9400,8 +11232,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 65,
     "uikTvd": "4414007345479",
+    "uikName": "УИК №65",
     "tikTvd": "2412000575184",
     "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1835,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1800,
@@ -9417,12 +11253,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 60,
-      "Зайцева Екатерина Александровна": 63,
-      "Калашников Валерий Юрьевич": 52,
-      "Литвинов Роман Демьянович": 98,
-      "Хомяков Виктор Александрович": 16,
-      "Яровая Ирина Анатольевна": 194
+      "2412000588641": 60,
+      "2412000588623": 63,
+      "2412000584323": 52,
+      "2412000587277": 98,
+      "2412000590749": 16,
+      "2412000587266": 194
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575184&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575184&type=464",
@@ -9432,6 +11268,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:01.068424+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575184&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575184&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -9441,8 +11281,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 66,
     "uikTvd": "4414007345480",
+    "uikName": "УИК №66",
     "tikTvd": "2412000575184",
     "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1453,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1400,
@@ -9458,12 +11302,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 55,
-      "Зайцева Екатерина Александровна": 69,
-      "Калашников Валерий Юрьевич": 54,
-      "Литвинов Роман Демьянович": 91,
-      "Хомяков Виктор Александрович": 24,
-      "Яровая Ирина Анатольевна": 175
+      "2412000588641": 55,
+      "2412000588623": 69,
+      "2412000584323": 54,
+      "2412000587277": 91,
+      "2412000590749": 24,
+      "2412000587266": 175
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575184&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575184&type=464",
@@ -9473,6 +11317,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:01.068424+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575184&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575184&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -9482,8 +11330,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 67,
     "uikTvd": "4414007345481",
+    "uikName": "УИК №67",
     "tikTvd": "2412000575184",
     "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2664,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2700,
@@ -9499,12 +11351,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 88,
-      "Зайцева Екатерина Александровна": 116,
-      "Калашников Валерий Юрьевич": 85,
-      "Литвинов Роман Демьянович": 156,
-      "Хомяков Виктор Александрович": 38,
-      "Яровая Ирина Анатольевна": 331
+      "2412000588641": 88,
+      "2412000588623": 116,
+      "2412000584323": 85,
+      "2412000587277": 156,
+      "2412000590749": 38,
+      "2412000587266": 331
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575184&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575184&type=464",
@@ -9514,6 +11366,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:01.068424+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575184&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575184&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -9523,8 +11379,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 68,
     "uikTvd": "4414007345482",
+    "uikName": "УИК №68",
     "tikTvd": "2412000575184",
     "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2474,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2300,
@@ -9540,12 +11400,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 75,
-      "Зайцева Екатерина Александровна": 80,
-      "Калашников Валерий Юрьевич": 82,
-      "Литвинов Роман Демьянович": 154,
-      "Хомяков Виктор Александрович": 26,
-      "Яровая Ирина Анатольевна": 293
+      "2412000588641": 75,
+      "2412000588623": 80,
+      "2412000584323": 82,
+      "2412000587277": 154,
+      "2412000590749": 26,
+      "2412000587266": 293
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575184&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575184&type=464",
@@ -9555,6 +11415,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:01.068424+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575184&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575184&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -9564,8 +11428,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 69,
     "uikTvd": "4414007359019",
+    "uikName": "УИК №69",
     "tikTvd": "2412000575184",
     "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 16,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 50,
@@ -9581,12 +11449,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 4,
-      "Зайцева Екатерина Александровна": 0,
-      "Калашников Валерий Юрьевич": 2,
-      "Литвинов Роман Демьянович": 3,
-      "Хомяков Виктор Александрович": 1,
-      "Яровая Ирина Анатольевна": 6
+      "2412000588641": 4,
+      "2412000588623": 0,
+      "2412000584323": 2,
+      "2412000587277": 3,
+      "2412000590749": 1,
+      "2412000587266": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575184&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575184&type=464",
@@ -9596,6 +11464,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:01.068424+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575184&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575184&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -9605,8 +11477,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 70,
     "uikTvd": "4414007359020",
+    "uikName": "УИК №70",
     "tikTvd": "2412000575184",
     "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 28,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 50,
@@ -9622,12 +11498,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 0,
-      "Зайцева Екатерина Александровна": 3,
-      "Калашников Валерий Юрьевич": 4,
-      "Литвинов Роман Демьянович": 1,
-      "Хомяков Виктор Александрович": 1,
-      "Яровая Ирина Анатольевна": 6
+      "2412000588641": 0,
+      "2412000588623": 3,
+      "2412000584323": 4,
+      "2412000587277": 1,
+      "2412000590749": 1,
+      "2412000587266": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575184&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575184&type=464",
@@ -9637,6 +11513,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:01.068424+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575184&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575184&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -9646,8 +11526,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 71,
     "uikTvd": "4414007359021",
+    "uikName": "УИК №71",
     "tikTvd": "2412000575184",
     "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 25,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 50,
@@ -9663,12 +11547,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 2,
-      "Зайцева Екатерина Александровна": 2,
-      "Калашников Валерий Юрьевич": 6,
-      "Литвинов Роман Демьянович": 2,
-      "Хомяков Виктор Александрович": 1,
-      "Яровая Ирина Анатольевна": 12
+      "2412000588641": 2,
+      "2412000588623": 2,
+      "2412000584323": 6,
+      "2412000587277": 2,
+      "2412000590749": 1,
+      "2412000587266": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575184&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575184&type=464",
@@ -9678,6 +11562,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:01.068424+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575184&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575184&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -9687,8 +11575,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 72,
     "uikTvd": "4414007359022",
+    "uikName": "УИК №72",
     "tikTvd": "2412000575184",
     "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 49,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 50,
@@ -9704,12 +11596,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 16,
-      "Зайцева Екатерина Александровна": 0,
-      "Калашников Валерий Юрьевич": 5,
-      "Литвинов Роман Демьянович": 3,
-      "Хомяков Виктор Александрович": 0,
-      "Яровая Ирина Анатольевна": 25
+      "2412000588641": 16,
+      "2412000588623": 0,
+      "2412000584323": 5,
+      "2412000587277": 3,
+      "2412000590749": 0,
+      "2412000587266": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575184&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575184&type=464",
@@ -9719,6 +11611,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:01.068424+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575184&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575184&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -9728,8 +11624,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 73,
     "uikTvd": "4414007359023",
+    "uikName": "УИК №73",
     "tikTvd": "2412000575184",
     "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 34,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 50,
@@ -9745,12 +11645,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 1,
-      "Зайцева Екатерина Александровна": 3,
-      "Калашников Валерий Юрьевич": 0,
-      "Литвинов Роман Демьянович": 2,
-      "Хомяков Виктор Александрович": 0,
-      "Яровая Ирина Анатольевна": 3
+      "2412000588641": 1,
+      "2412000588623": 3,
+      "2412000584323": 0,
+      "2412000587277": 2,
+      "2412000590749": 0,
+      "2412000587266": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575184&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575184&type=464",
@@ -9760,6 +11660,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:01.068424+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575184&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575184&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -9769,8 +11673,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 74,
     "uikTvd": "4414007359024",
+    "uikName": "УИК №74",
     "tikTvd": "2412000575184",
     "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 97,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 100,
@@ -9786,12 +11694,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 8,
-      "Зайцева Екатерина Александровна": 7,
-      "Калашников Валерий Юрьевич": 15,
-      "Литвинов Роман Демьянович": 6,
-      "Хомяков Виктор Александрович": 7,
-      "Яровая Ирина Анатольевна": 39
+      "2412000588641": 8,
+      "2412000588623": 7,
+      "2412000584323": 15,
+      "2412000587277": 6,
+      "2412000590749": 7,
+      "2412000587266": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575184&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575184&type=464",
@@ -9801,6 +11709,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:01.068424+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575184&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575184&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -9810,8 +11722,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 126,
     "uikTvd": "4414005193298",
+    "uikName": "УИК №126",
     "tikTvd": "2412000575185",
     "tikName": "Мильковская",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 44,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 65,
@@ -9827,12 +11743,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 6,
-      "Зайцева Екатерина Александровна": 4,
-      "Калашников Валерий Юрьевич": 4,
-      "Литвинов Роман Демьянович": 1,
-      "Хомяков Виктор Александрович": 3,
-      "Яровая Ирина Анатольевна": 19
+      "2412000588641": 6,
+      "2412000588623": 4,
+      "2412000584323": 4,
+      "2412000587277": 1,
+      "2412000590749": 3,
+      "2412000587266": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575185&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575185&type=464",
@@ -9842,6 +11758,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:01.570920+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575185&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575185&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -9851,8 +11771,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 127,
     "uikTvd": "4414005193299",
+    "uikName": "УИК №127",
     "tikTvd": "2412000575185",
     "tikName": "Мильковская",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 259,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 415,
@@ -9868,12 +11792,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 15,
-      "Зайцева Екатерина Александровна": 15,
-      "Калашников Валерий Юрьевич": 31,
-      "Литвинов Роман Демьянович": 44,
-      "Хомяков Виктор Александрович": 16,
-      "Яровая Ирина Анатольевна": 80
+      "2412000588641": 15,
+      "2412000588623": 15,
+      "2412000584323": 31,
+      "2412000587277": 44,
+      "2412000590749": 16,
+      "2412000587266": 80
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575185&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575185&type=464",
@@ -9883,6 +11807,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:01.570920+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575185&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575185&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -9892,8 +11820,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 128,
     "uikTvd": "4414005193300",
+    "uikName": "УИК №128",
     "tikTvd": "2412000575185",
     "tikName": "Мильковская",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 972,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1405,
@@ -9909,12 +11841,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 46,
-      "Зайцева Екатерина Александровна": 53,
-      "Калашников Валерий Юрьевич": 73,
-      "Литвинов Роман Демьянович": 121,
-      "Хомяков Виктор Александрович": 33,
-      "Яровая Ирина Анатольевна": 233
+      "2412000588641": 46,
+      "2412000588623": 53,
+      "2412000584323": 73,
+      "2412000587277": 121,
+      "2412000590749": 33,
+      "2412000587266": 233
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575185&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575185&type=464",
@@ -9924,6 +11856,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:01.570920+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575185&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575185&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -9933,8 +11869,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 129,
     "uikTvd": "4414005193301",
+    "uikName": "УИК №129",
     "tikTvd": "2412000575185",
     "tikName": "Мильковская",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1363,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1600,
@@ -9950,12 +11890,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 52,
-      "Зайцева Екатерина Александровна": 38,
-      "Калашников Валерий Юрьевич": 91,
-      "Литвинов Роман Демьянович": 103,
-      "Хомяков Виктор Александрович": 17,
-      "Яровая Ирина Анатольевна": 267
+      "2412000588641": 52,
+      "2412000588623": 38,
+      "2412000584323": 91,
+      "2412000587277": 103,
+      "2412000590749": 17,
+      "2412000587266": 267
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575185&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575185&type=464",
@@ -9965,6 +11905,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:01.570920+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575185&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575185&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -9974,8 +11918,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 130,
     "uikTvd": "4414005193302",
+    "uikName": "УИК №130",
     "tikTvd": "2412000575185",
     "tikName": "Мильковская",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1230,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1525,
@@ -9991,12 +11939,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 67,
-      "Зайцева Екатерина Александровна": 55,
-      "Калашников Валерий Юрьевич": 90,
-      "Литвинов Роман Демьянович": 163,
-      "Хомяков Виктор Александрович": 36,
-      "Яровая Ирина Анатольевна": 323
+      "2412000588641": 67,
+      "2412000588623": 55,
+      "2412000584323": 90,
+      "2412000587277": 163,
+      "2412000590749": 36,
+      "2412000587266": 323
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575185&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575185&type=464",
@@ -10006,6 +11954,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:01.570920+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575185&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575185&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -10015,8 +11967,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 131,
     "uikTvd": "4414005193303",
+    "uikName": "УИК №131",
     "tikTvd": "2412000575185",
     "tikName": "Мильковская",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 945,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1340,
@@ -10032,12 +11988,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 35,
-      "Зайцева Екатерина Александровна": 36,
-      "Калашников Валерий Юрьевич": 46,
-      "Литвинов Роман Демьянович": 119,
-      "Хомяков Виктор Александрович": 21,
-      "Яровая Ирина Анатольевна": 194
+      "2412000588641": 35,
+      "2412000588623": 36,
+      "2412000584323": 46,
+      "2412000587277": 119,
+      "2412000590749": 21,
+      "2412000587266": 194
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575185&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575185&type=464",
@@ -10047,6 +12003,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:01.570920+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575185&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575185&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -10056,8 +12016,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 132,
     "uikTvd": "4414005193304",
+    "uikName": "УИК №132",
     "tikTvd": "2412000575185",
     "tikName": "Мильковская",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 159,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 180,
@@ -10073,12 +12037,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 8,
-      "Зайцева Екатерина Александровна": 5,
-      "Калашников Валерий Юрьевич": 9,
-      "Литвинов Роман Демьянович": 19,
-      "Хомяков Виктор Александрович": 4,
-      "Яровая Ирина Анатольевна": 62
+      "2412000588641": 8,
+      "2412000588623": 5,
+      "2412000584323": 9,
+      "2412000587277": 19,
+      "2412000590749": 4,
+      "2412000587266": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575185&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575185&type=464",
@@ -10088,6 +12052,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:01.570920+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575185&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575185&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -10097,8 +12065,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 133,
     "uikTvd": "4414005193305",
+    "uikName": "УИК №133",
     "tikTvd": "2412000575185",
     "tikName": "Мильковская",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 51,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 70,
@@ -10114,12 +12086,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 2,
-      "Зайцева Екатерина Александровна": 2,
-      "Калашников Валерий Юрьевич": 6,
-      "Литвинов Роман Демьянович": 2,
-      "Хомяков Виктор Александрович": 3,
-      "Яровая Ирина Анатольевна": 25
+      "2412000588641": 2,
+      "2412000588623": 2,
+      "2412000584323": 6,
+      "2412000587277": 2,
+      "2412000590749": 3,
+      "2412000587266": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575185&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575185&type=464",
@@ -10129,6 +12101,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:01.570920+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575185&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575185&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -10138,8 +12114,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 134,
     "uikTvd": "4414005193306",
+    "uikName": "УИК №134",
     "tikTvd": "2412000575185",
     "tikName": "Мильковская",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 387,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 530,
@@ -10155,12 +12135,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 26,
-      "Зайцева Екатерина Александровна": 20,
-      "Калашников Валерий Юрьевич": 19,
-      "Литвинов Роман Демьянович": 29,
-      "Хомяков Виктор Александрович": 18,
-      "Яровая Ирина Анатольевна": 84
+      "2412000588641": 26,
+      "2412000588623": 20,
+      "2412000584323": 19,
+      "2412000587277": 29,
+      "2412000590749": 18,
+      "2412000587266": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575185&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575185&type=464",
@@ -10170,6 +12150,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:01.570920+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575185&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575185&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -10179,8 +12163,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 135,
     "uikTvd": "4414005193307",
+    "uikName": "УИК №135",
     "tikTvd": "2412000575185",
     "tikName": "Мильковская",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 149,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 245,
@@ -10196,12 +12184,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 10,
-      "Зайцева Екатерина Александровна": 28,
-      "Калашников Валерий Юрьевич": 6,
-      "Литвинов Роман Демьянович": 20,
-      "Хомяков Виктор Александрович": 9,
-      "Яровая Ирина Анатольевна": 37
+      "2412000588641": 10,
+      "2412000588623": 28,
+      "2412000584323": 6,
+      "2412000587277": 20,
+      "2412000590749": 9,
+      "2412000587266": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575185&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575185&type=464",
@@ -10211,6 +12199,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:01.570920+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575185&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575185&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   },
   {
@@ -10220,8 +12212,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
     "ballot": "single-member",
     "uikNumber": 91,
     "uikTvd": "4414004255456",
+    "uikName": "УИК №91",
     "tikTvd": "2412000575186",
     "tikName": "Елизовская",
+    "regionCode": "91",
+    "regionTvd": "100100225883737",
+    "regionName": "Камчатский край",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2658,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2730,
@@ -10237,12 +12233,12 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бобровских Дмитрий Николаевич": 74,
-      "Зайцева Екатерина Александровна": 96,
-      "Калашников Валерий Юрьевич": 110,
-      "Литвинов Роман Демьянович": 191,
-      "Хомяков Виктор Александрович": 44,
-      "Яровая Ирина Анатольевна": 348
+      "2412000588641": 74,
+      "2412000588623": 96,
+      "2412000584323": 110,
+      "2412000587277": 191,
+      "2412000590749": 44,
+      "2412000587266": 348
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575186&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575186&type=464",
@@ -10252,6 +12248,10 @@ export const duma_2021_uik_463_region_91_part_001 = [
       "retrievedAt": "2026-08-26T07:56:02.666682+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000301&tvd=2412000575186&vrn=100100225883172&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000575186&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 45,
+      "oikTvd": "100100225883738"
     }
   }
 ] satisfies readonly UikProtocol[];

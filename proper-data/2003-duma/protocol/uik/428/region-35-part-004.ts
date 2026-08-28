@@ -42,13 +42,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 8,
-      "Костерева Светлана Семеновна": 38,
-      "Орголайнен Александр Арович": 389,
-      "Пономарев Александр Михайлович": 102,
-      "Сокова Людмила Николаевна": 60,
-      "Федотов-Любомирский Анатолий Юрьевич": 14,
-      "Против всех": 139
+      "gas:candidate-vibid:1001000202303": 8,
+      "gas:candidate-vibid:235200070451": 38,
+      "gas:candidate-vibid:1001000225933": 389,
+      "gas:candidate-vibid:1001000121841": 102,
+      "gas:candidate-vibid:1001000136047": 60,
+      "gas:candidate-vibid:1001000195068": 14,
+      "special:against-all": 139
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270665&region=0&sub_region=0&type=429",
@@ -98,13 +98,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 9,
-      "Костерева Светлана Семеновна": 9,
-      "Орголайнен Александр Арович": 257,
-      "Пономарев Александр Михайлович": 48,
-      "Сокова Людмила Николаевна": 21,
-      "Федотов-Любомирский Анатолий Юрьевич": 4,
-      "Против всех": 58
+      "gas:candidate-vibid:1001000202303": 9,
+      "gas:candidate-vibid:235200070451": 9,
+      "gas:candidate-vibid:1001000225933": 257,
+      "gas:candidate-vibid:1001000121841": 48,
+      "gas:candidate-vibid:1001000136047": 21,
+      "gas:candidate-vibid:1001000195068": 4,
+      "special:against-all": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270665&region=0&sub_region=0&type=429",
@@ -154,13 +154,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 2,
-      "Костерева Светлана Семеновна": 1,
-      "Орголайнен Александр Арович": 25,
-      "Пономарев Александр Михайлович": 7,
-      "Сокова Людмила Николаевна": 2,
-      "Федотов-Любомирский Анатолий Юрьевич": 0,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000202303": 2,
+      "gas:candidate-vibid:235200070451": 1,
+      "gas:candidate-vibid:1001000225933": 25,
+      "gas:candidate-vibid:1001000121841": 7,
+      "gas:candidate-vibid:1001000136047": 2,
+      "gas:candidate-vibid:1001000195068": 0,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270665&region=0&sub_region=0&type=429",
@@ -210,13 +210,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 24,
-      "Костерева Светлана Семеновна": 70,
-      "Орголайнен Александр Арович": 406,
-      "Пономарев Александр Михайлович": 95,
-      "Сокова Людмила Николаевна": 49,
-      "Федотов-Любомирский Анатолий Юрьевич": 14,
-      "Против всех": 164
+      "gas:candidate-vibid:1001000202303": 24,
+      "gas:candidate-vibid:235200070451": 70,
+      "gas:candidate-vibid:1001000225933": 406,
+      "gas:candidate-vibid:1001000121841": 95,
+      "gas:candidate-vibid:1001000136047": 49,
+      "gas:candidate-vibid:1001000195068": 14,
+      "special:against-all": 164
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270665&region=0&sub_region=0&type=429",
@@ -266,13 +266,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 18,
-      "Костерева Светлана Семеновна": 57,
-      "Орголайнен Александр Арович": 300,
-      "Пономарев Александр Михайлович": 70,
-      "Сокова Людмила Николаевна": 60,
-      "Федотов-Любомирский Анатолий Юрьевич": 8,
-      "Против всех": 116
+      "gas:candidate-vibid:1001000202303": 18,
+      "gas:candidate-vibid:235200070451": 57,
+      "gas:candidate-vibid:1001000225933": 300,
+      "gas:candidate-vibid:1001000121841": 70,
+      "gas:candidate-vibid:1001000136047": 60,
+      "gas:candidate-vibid:1001000195068": 8,
+      "special:against-all": 116
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270665&region=0&sub_region=0&type=429",
@@ -322,13 +322,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 6,
-      "Костерева Светлана Семеновна": 10,
-      "Орголайнен Александр Арович": 114,
-      "Пономарев Александр Михайлович": 24,
-      "Сокова Людмила Николаевна": 13,
-      "Федотов-Любомирский Анатолий Юрьевич": 0,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000202303": 6,
+      "gas:candidate-vibid:235200070451": 10,
+      "gas:candidate-vibid:1001000225933": 114,
+      "gas:candidate-vibid:1001000121841": 24,
+      "gas:candidate-vibid:1001000136047": 13,
+      "gas:candidate-vibid:1001000195068": 0,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270665&region=0&sub_region=0&type=429",
@@ -378,13 +378,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 12,
-      "Костерева Светлана Семеновна": 7,
-      "Орголайнен Александр Арович": 81,
-      "Пономарев Александр Михайлович": 28,
-      "Сокова Людмила Николаевна": 5,
-      "Федотов-Любомирский Анатолий Юрьевич": 2,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000202303": 12,
+      "gas:candidate-vibid:235200070451": 7,
+      "gas:candidate-vibid:1001000225933": 81,
+      "gas:candidate-vibid:1001000121841": 28,
+      "gas:candidate-vibid:1001000136047": 5,
+      "gas:candidate-vibid:1001000195068": 2,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270665&region=0&sub_region=0&type=429",
@@ -434,13 +434,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 3,
-      "Костерева Светлана Семеновна": 3,
-      "Орголайнен Александр Арович": 38,
-      "Пономарев Александр Михайлович": 101,
-      "Сокова Людмила Николаевна": 11,
-      "Федотов-Любомирский Анатолий Юрьевич": 1,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000202303": 3,
+      "gas:candidate-vibid:235200070451": 3,
+      "gas:candidate-vibid:1001000225933": 38,
+      "gas:candidate-vibid:1001000121841": 101,
+      "gas:candidate-vibid:1001000136047": 11,
+      "gas:candidate-vibid:1001000195068": 1,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270665&region=0&sub_region=0&type=429",
@@ -490,13 +490,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 6,
-      "Костерева Светлана Семеновна": 0,
-      "Орголайнен Александр Арович": 107,
-      "Пономарев Александр Михайлович": 18,
-      "Сокова Людмила Николаевна": 8,
-      "Федотов-Любомирский Анатолий Юрьевич": 1,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000202303": 6,
+      "gas:candidate-vibid:235200070451": 0,
+      "gas:candidate-vibid:1001000225933": 107,
+      "gas:candidate-vibid:1001000121841": 18,
+      "gas:candidate-vibid:1001000136047": 8,
+      "gas:candidate-vibid:1001000195068": 1,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270665&region=0&sub_region=0&type=429",
@@ -546,13 +546,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 8,
-      "Костерева Светлана Семеновна": 6,
-      "Орголайнен Александр Арович": 113,
-      "Пономарев Александр Михайлович": 13,
-      "Сокова Людмила Николаевна": 12,
-      "Федотов-Любомирский Анатолий Юрьевич": 1,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000202303": 8,
+      "gas:candidate-vibid:235200070451": 6,
+      "gas:candidate-vibid:1001000225933": 113,
+      "gas:candidate-vibid:1001000121841": 13,
+      "gas:candidate-vibid:1001000136047": 12,
+      "gas:candidate-vibid:1001000195068": 1,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270665&region=0&sub_region=0&type=429",
@@ -602,13 +602,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 4,
-      "Костерева Светлана Семеновна": 4,
-      "Орголайнен Александр Арович": 72,
-      "Пономарев Александр Михайлович": 47,
-      "Сокова Людмила Николаевна": 7,
-      "Федотов-Любомирский Анатолий Юрьевич": 1,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000202303": 4,
+      "gas:candidate-vibid:235200070451": 4,
+      "gas:candidate-vibid:1001000225933": 72,
+      "gas:candidate-vibid:1001000121841": 47,
+      "gas:candidate-vibid:1001000136047": 7,
+      "gas:candidate-vibid:1001000195068": 1,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270665&region=0&sub_region=0&type=429",
@@ -658,13 +658,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 2,
-      "Костерева Светлана Семеновна": 3,
-      "Орголайнен Александр Арович": 40,
-      "Пономарев Александр Михайлович": 9,
-      "Сокова Людмила Николаевна": 3,
-      "Федотов-Любомирский Анатолий Юрьевич": 1,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000202303": 2,
+      "gas:candidate-vibid:235200070451": 3,
+      "gas:candidate-vibid:1001000225933": 40,
+      "gas:candidate-vibid:1001000121841": 9,
+      "gas:candidate-vibid:1001000136047": 3,
+      "gas:candidate-vibid:1001000195068": 1,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270665&region=0&sub_region=0&type=429",
@@ -714,13 +714,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 21,
-      "Костерева Светлана Семеновна": 10,
-      "Орголайнен Александр Арович": 200,
-      "Пономарев Александр Михайлович": 87,
-      "Сокова Людмила Николаевна": 18,
-      "Федотов-Любомирский Анатолий Юрьевич": 4,
-      "Против всех": 48
+      "gas:candidate-vibid:1001000202303": 21,
+      "gas:candidate-vibid:235200070451": 10,
+      "gas:candidate-vibid:1001000225933": 200,
+      "gas:candidate-vibid:1001000121841": 87,
+      "gas:candidate-vibid:1001000136047": 18,
+      "gas:candidate-vibid:1001000195068": 4,
+      "special:against-all": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270665&region=0&sub_region=0&type=429",
@@ -770,13 +770,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 14,
-      "Костерева Светлана Семеновна": 9,
-      "Орголайнен Александр Арович": 250,
-      "Пономарев Александр Михайлович": 109,
-      "Сокова Людмила Николаевна": 16,
-      "Федотов-Любомирский Анатолий Юрьевич": 2,
-      "Против всех": 46
+      "gas:candidate-vibid:1001000202303": 14,
+      "gas:candidate-vibid:235200070451": 9,
+      "gas:candidate-vibid:1001000225933": 250,
+      "gas:candidate-vibid:1001000121841": 109,
+      "gas:candidate-vibid:1001000136047": 16,
+      "gas:candidate-vibid:1001000195068": 2,
+      "special:against-all": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270665&region=0&sub_region=0&type=429",
@@ -826,13 +826,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 3,
-      "Костерева Светлана Семеновна": 1,
-      "Орголайнен Александр Арович": 67,
-      "Пономарев Александр Михайлович": 29,
-      "Сокова Людмила Николаевна": 7,
-      "Федотов-Любомирский Анатолий Юрьевич": 2,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000202303": 3,
+      "gas:candidate-vibid:235200070451": 1,
+      "gas:candidate-vibid:1001000225933": 67,
+      "gas:candidate-vibid:1001000121841": 29,
+      "gas:candidate-vibid:1001000136047": 7,
+      "gas:candidate-vibid:1001000195068": 2,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270665&region=0&sub_region=0&type=429",
@@ -882,13 +882,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 11,
-      "Костерева Светлана Семеновна": 12,
-      "Орголайнен Александр Арович": 252,
-      "Пономарев Александр Михайлович": 49,
-      "Сокова Людмила Николаевна": 22,
-      "Федотов-Любомирский Анатолий Юрьевич": 3,
-      "Против всех": 47
+      "gas:candidate-vibid:1001000202303": 11,
+      "gas:candidate-vibid:235200070451": 12,
+      "gas:candidate-vibid:1001000225933": 252,
+      "gas:candidate-vibid:1001000121841": 49,
+      "gas:candidate-vibid:1001000136047": 22,
+      "gas:candidate-vibid:1001000195068": 3,
+      "special:against-all": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270665&region=0&sub_region=0&type=429",
@@ -938,13 +938,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 9,
-      "Костерева Светлана Семеновна": 21,
-      "Орголайнен Александр Арович": 339,
-      "Пономарев Александр Михайлович": 99,
-      "Сокова Людмила Николаевна": 50,
-      "Федотов-Любомирский Анатолий Юрьевич": 6,
-      "Против всех": 79
+      "gas:candidate-vibid:1001000202303": 9,
+      "gas:candidate-vibid:235200070451": 21,
+      "gas:candidate-vibid:1001000225933": 339,
+      "gas:candidate-vibid:1001000121841": 99,
+      "gas:candidate-vibid:1001000136047": 50,
+      "gas:candidate-vibid:1001000195068": 6,
+      "special:against-all": 79
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270666&region=0&sub_region=0&type=429",
@@ -994,13 +994,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 24,
-      "Костерева Светлана Семеновна": 35,
-      "Орголайнен Александр Арович": 467,
-      "Пономарев Александр Михайлович": 134,
-      "Сокова Людмила Николаевна": 73,
-      "Федотов-Любомирский Анатолий Юрьевич": 8,
-      "Против всех": 167
+      "gas:candidate-vibid:1001000202303": 24,
+      "gas:candidate-vibid:235200070451": 35,
+      "gas:candidate-vibid:1001000225933": 467,
+      "gas:candidate-vibid:1001000121841": 134,
+      "gas:candidate-vibid:1001000136047": 73,
+      "gas:candidate-vibid:1001000195068": 8,
+      "special:against-all": 167
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270666&region=0&sub_region=0&type=429",
@@ -1050,13 +1050,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 35,
-      "Костерева Светлана Семеновна": 37,
-      "Орголайнен Александр Арович": 722,
-      "Пономарев Александр Михайлович": 268,
-      "Сокова Людмила Николаевна": 92,
-      "Федотов-Любомирский Анатолий Юрьевич": 13,
-      "Против всех": 185
+      "gas:candidate-vibid:1001000202303": 35,
+      "gas:candidate-vibid:235200070451": 37,
+      "gas:candidate-vibid:1001000225933": 722,
+      "gas:candidate-vibid:1001000121841": 268,
+      "gas:candidate-vibid:1001000136047": 92,
+      "gas:candidate-vibid:1001000195068": 13,
+      "special:against-all": 185
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270666&region=0&sub_region=0&type=429",
@@ -1106,13 +1106,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 12,
-      "Костерева Светлана Семеновна": 19,
-      "Орголайнен Александр Арович": 313,
-      "Пономарев Александр Михайлович": 120,
-      "Сокова Людмила Николаевна": 42,
-      "Федотов-Любомирский Анатолий Юрьевич": 9,
-      "Против всех": 79
+      "gas:candidate-vibid:1001000202303": 12,
+      "gas:candidate-vibid:235200070451": 19,
+      "gas:candidate-vibid:1001000225933": 313,
+      "gas:candidate-vibid:1001000121841": 120,
+      "gas:candidate-vibid:1001000136047": 42,
+      "gas:candidate-vibid:1001000195068": 9,
+      "special:against-all": 79
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270666&region=0&sub_region=0&type=429",
@@ -1162,13 +1162,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 1,
-      "Костерева Светлана Семеновна": 8,
-      "Орголайнен Александр Арович": 53,
-      "Пономарев Александр Михайлович": 19,
-      "Сокова Людмила Николаевна": 7,
-      "Федотов-Любомирский Анатолий Юрьевич": 3,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000202303": 1,
+      "gas:candidate-vibid:235200070451": 8,
+      "gas:candidate-vibid:1001000225933": 53,
+      "gas:candidate-vibid:1001000121841": 19,
+      "gas:candidate-vibid:1001000136047": 7,
+      "gas:candidate-vibid:1001000195068": 3,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270666&region=0&sub_region=0&type=429",
@@ -1218,13 +1218,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 2,
-      "Костерева Светлана Семеновна": 5,
-      "Орголайнен Александр Арович": 111,
-      "Пономарев Александр Михайлович": 23,
-      "Сокова Людмила Николаевна": 9,
-      "Федотов-Любомирский Анатолий Юрьевич": 4,
-      "Против всех": 37
+      "gas:candidate-vibid:1001000202303": 2,
+      "gas:candidate-vibid:235200070451": 5,
+      "gas:candidate-vibid:1001000225933": 111,
+      "gas:candidate-vibid:1001000121841": 23,
+      "gas:candidate-vibid:1001000136047": 9,
+      "gas:candidate-vibid:1001000195068": 4,
+      "special:against-all": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270666&region=0&sub_region=0&type=429",
@@ -1274,13 +1274,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 1,
-      "Костерева Светлана Семеновна": 1,
-      "Орголайнен Александр Арович": 36,
-      "Пономарев Александр Михайлович": 12,
-      "Сокова Людмила Николаевна": 10,
-      "Федотов-Любомирский Анатолий Юрьевич": 2,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000202303": 1,
+      "gas:candidate-vibid:235200070451": 1,
+      "gas:candidate-vibid:1001000225933": 36,
+      "gas:candidate-vibid:1001000121841": 12,
+      "gas:candidate-vibid:1001000136047": 10,
+      "gas:candidate-vibid:1001000195068": 2,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270666&region=0&sub_region=0&type=429",
@@ -1330,13 +1330,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 10,
-      "Костерева Светлана Семеновна": 14,
-      "Орголайнен Александр Арович": 187,
-      "Пономарев Александр Михайлович": 94,
-      "Сокова Людмила Николаевна": 20,
-      "Федотов-Любомирский Анатолий Юрьевич": 5,
-      "Против всех": 45
+      "gas:candidate-vibid:1001000202303": 10,
+      "gas:candidate-vibid:235200070451": 14,
+      "gas:candidate-vibid:1001000225933": 187,
+      "gas:candidate-vibid:1001000121841": 94,
+      "gas:candidate-vibid:1001000136047": 20,
+      "gas:candidate-vibid:1001000195068": 5,
+      "special:against-all": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270666&region=0&sub_region=0&type=429",
@@ -1386,13 +1386,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 1,
-      "Костерева Светлана Семеновна": 1,
-      "Орголайнен Александр Арович": 49,
-      "Пономарев Александр Михайлович": 19,
-      "Сокова Людмила Николаевна": 7,
-      "Федотов-Любомирский Анатолий Юрьевич": 0,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000202303": 1,
+      "gas:candidate-vibid:235200070451": 1,
+      "gas:candidate-vibid:1001000225933": 49,
+      "gas:candidate-vibid:1001000121841": 19,
+      "gas:candidate-vibid:1001000136047": 7,
+      "gas:candidate-vibid:1001000195068": 0,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270666&region=0&sub_region=0&type=429",
@@ -1442,13 +1442,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 12,
-      "Костерева Светлана Семеновна": 12,
-      "Орголайнен Александр Арович": 191,
-      "Пономарев Александр Михайлович": 35,
-      "Сокова Людмила Николаевна": 19,
-      "Федотов-Любомирский Анатолий Юрьевич": 5,
-      "Против всех": 39
+      "gas:candidate-vibid:1001000202303": 12,
+      "gas:candidate-vibid:235200070451": 12,
+      "gas:candidate-vibid:1001000225933": 191,
+      "gas:candidate-vibid:1001000121841": 35,
+      "gas:candidate-vibid:1001000136047": 19,
+      "gas:candidate-vibid:1001000195068": 5,
+      "special:against-all": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270666&region=0&sub_region=0&type=429",
@@ -1498,13 +1498,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 0,
-      "Костерева Светлана Семеновна": 2,
-      "Орголайнен Александр Арович": 15,
-      "Пономарев Александр Михайлович": 3,
-      "Сокова Людмила Николаевна": 4,
-      "Федотов-Любомирский Анатолий Юрьевич": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000202303": 0,
+      "gas:candidate-vibid:235200070451": 2,
+      "gas:candidate-vibid:1001000225933": 15,
+      "gas:candidate-vibid:1001000121841": 3,
+      "gas:candidate-vibid:1001000136047": 4,
+      "gas:candidate-vibid:1001000195068": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270666&region=0&sub_region=0&type=429",
@@ -1554,13 +1554,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 2,
-      "Костерева Светлана Семеновна": 7,
-      "Орголайнен Александр Арович": 130,
-      "Пономарев Александр Михайлович": 35,
-      "Сокова Людмила Николаевна": 25,
-      "Федотов-Любомирский Анатолий Юрьевич": 7,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000202303": 2,
+      "gas:candidate-vibid:235200070451": 7,
+      "gas:candidate-vibid:1001000225933": 130,
+      "gas:candidate-vibid:1001000121841": 35,
+      "gas:candidate-vibid:1001000136047": 25,
+      "gas:candidate-vibid:1001000195068": 7,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270666&region=0&sub_region=0&type=429",
@@ -1610,13 +1610,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 5,
-      "Костерева Светлана Семеновна": 12,
-      "Орголайнен Александр Арович": 165,
-      "Пономарев Александр Михайлович": 51,
-      "Сокова Людмила Николаевна": 14,
-      "Федотов-Любомирский Анатолий Юрьевич": 5,
-      "Против всех": 26
+      "gas:candidate-vibid:1001000202303": 5,
+      "gas:candidate-vibid:235200070451": 12,
+      "gas:candidate-vibid:1001000225933": 165,
+      "gas:candidate-vibid:1001000121841": 51,
+      "gas:candidate-vibid:1001000136047": 14,
+      "gas:candidate-vibid:1001000195068": 5,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270666&region=0&sub_region=0&type=429",
@@ -1666,13 +1666,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 10,
-      "Костерева Светлана Семеновна": 6,
-      "Орголайнен Александр Арович": 99,
-      "Пономарев Александр Михайлович": 17,
-      "Сокова Людмила Николаевна": 14,
-      "Федотов-Любомирский Анатолий Юрьевич": 2,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000202303": 10,
+      "gas:candidate-vibid:235200070451": 6,
+      "gas:candidate-vibid:1001000225933": 99,
+      "gas:candidate-vibid:1001000121841": 17,
+      "gas:candidate-vibid:1001000136047": 14,
+      "gas:candidate-vibid:1001000195068": 2,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270666&region=0&sub_region=0&type=429",
@@ -1722,13 +1722,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 8,
-      "Костерева Светлана Семеновна": 8,
-      "Орголайнен Александр Арович": 173,
-      "Пономарев Александр Михайлович": 20,
-      "Сокова Людмила Николаевна": 17,
-      "Федотов-Любомирский Анатолий Юрьевич": 2,
-      "Против всех": 30
+      "gas:candidate-vibid:1001000202303": 8,
+      "gas:candidate-vibid:235200070451": 8,
+      "gas:candidate-vibid:1001000225933": 173,
+      "gas:candidate-vibid:1001000121841": 20,
+      "gas:candidate-vibid:1001000136047": 17,
+      "gas:candidate-vibid:1001000195068": 2,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270666&region=0&sub_region=0&type=429",
@@ -1778,13 +1778,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 7,
-      "Костерева Светлана Семеновна": 7,
-      "Орголайнен Александр Арович": 95,
-      "Пономарев Александр Михайлович": 24,
-      "Сокова Людмила Николаевна": 7,
-      "Федотов-Любомирский Анатолий Юрьевич": 3,
-      "Против всех": 28
+      "gas:candidate-vibid:1001000202303": 7,
+      "gas:candidate-vibid:235200070451": 7,
+      "gas:candidate-vibid:1001000225933": 95,
+      "gas:candidate-vibid:1001000121841": 24,
+      "gas:candidate-vibid:1001000136047": 7,
+      "gas:candidate-vibid:1001000195068": 3,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270666&region=0&sub_region=0&type=429",
@@ -1834,13 +1834,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 1,
-      "Костерева Светлана Семеновна": 2,
-      "Орголайнен Александр Арович": 50,
-      "Пономарев Александр Михайлович": 9,
-      "Сокова Людмила Николаевна": 3,
-      "Федотов-Любомирский Анатолий Юрьевич": 2,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000202303": 1,
+      "gas:candidate-vibid:235200070451": 2,
+      "gas:candidate-vibid:1001000225933": 50,
+      "gas:candidate-vibid:1001000121841": 9,
+      "gas:candidate-vibid:1001000136047": 3,
+      "gas:candidate-vibid:1001000195068": 2,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270666&region=0&sub_region=0&type=429",
@@ -1890,13 +1890,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 7,
-      "Костерева Светлана Семеновна": 6,
-      "Орголайнен Александр Арович": 187,
-      "Пономарев Александр Михайлович": 38,
-      "Сокова Людмила Николаевна": 20,
-      "Федотов-Любомирский Анатолий Юрьевич": 7,
-      "Против всех": 24
+      "gas:candidate-vibid:1001000202303": 7,
+      "gas:candidate-vibid:235200070451": 6,
+      "gas:candidate-vibid:1001000225933": 187,
+      "gas:candidate-vibid:1001000121841": 38,
+      "gas:candidate-vibid:1001000136047": 20,
+      "gas:candidate-vibid:1001000195068": 7,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270666&region=0&sub_region=0&type=429",
@@ -1946,13 +1946,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 3,
-      "Костерева Светлана Семеновна": 4,
-      "Орголайнен Александр Арович": 43,
-      "Пономарев Александр Михайлович": 12,
-      "Сокова Людмила Николаевна": 4,
-      "Федотов-Любомирский Анатолий Юрьевич": 6,
-      "Против всех": 24
+      "gas:candidate-vibid:1001000202303": 3,
+      "gas:candidate-vibid:235200070451": 4,
+      "gas:candidate-vibid:1001000225933": 43,
+      "gas:candidate-vibid:1001000121841": 12,
+      "gas:candidate-vibid:1001000136047": 4,
+      "gas:candidate-vibid:1001000195068": 6,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270666&region=0&sub_region=0&type=429",
@@ -2002,13 +2002,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 1,
-      "Костерева Светлана Семеновна": 1,
-      "Орголайнен Александр Арович": 54,
-      "Пономарев Александр Михайлович": 10,
-      "Сокова Людмила Николаевна": 7,
-      "Федотов-Любомирский Анатолий Юрьевич": 2,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000202303": 1,
+      "gas:candidate-vibid:235200070451": 1,
+      "gas:candidate-vibid:1001000225933": 54,
+      "gas:candidate-vibid:1001000121841": 10,
+      "gas:candidate-vibid:1001000136047": 7,
+      "gas:candidate-vibid:1001000195068": 2,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270666&region=0&sub_region=0&type=429",
@@ -2058,13 +2058,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 7,
-      "Костерева Светлана Семеновна": 3,
-      "Орголайнен Александр Арович": 161,
-      "Пономарев Александр Михайлович": 20,
-      "Сокова Людмила Николаевна": 19,
-      "Федотов-Любомирский Анатолий Юрьевич": 3,
-      "Против всех": 31
+      "gas:candidate-vibid:1001000202303": 7,
+      "gas:candidate-vibid:235200070451": 3,
+      "gas:candidate-vibid:1001000225933": 161,
+      "gas:candidate-vibid:1001000121841": 20,
+      "gas:candidate-vibid:1001000136047": 19,
+      "gas:candidate-vibid:1001000195068": 3,
+      "special:against-all": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270666&region=0&sub_region=0&type=429",
@@ -2114,13 +2114,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 0,
-      "Костерева Светлана Семеновна": 1,
-      "Орголайнен Александр Арович": 55,
-      "Пономарев Александр Михайлович": 7,
-      "Сокова Людмила Николаевна": 9,
-      "Федотов-Любомирский Анатолий Юрьевич": 1,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000202303": 0,
+      "gas:candidate-vibid:235200070451": 1,
+      "gas:candidate-vibid:1001000225933": 55,
+      "gas:candidate-vibid:1001000121841": 7,
+      "gas:candidate-vibid:1001000136047": 9,
+      "gas:candidate-vibid:1001000195068": 1,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270666&region=0&sub_region=0&type=429",
@@ -2170,13 +2170,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 2,
-      "Костерева Светлана Семеновна": 2,
-      "Орголайнен Александр Арович": 79,
-      "Пономарев Александр Михайлович": 20,
-      "Сокова Людмила Николаевна": 7,
-      "Федотов-Любомирский Анатолий Юрьевич": 1,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000202303": 2,
+      "gas:candidate-vibid:235200070451": 2,
+      "gas:candidate-vibid:1001000225933": 79,
+      "gas:candidate-vibid:1001000121841": 20,
+      "gas:candidate-vibid:1001000136047": 7,
+      "gas:candidate-vibid:1001000195068": 1,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270666&region=0&sub_region=0&type=429",
@@ -2226,13 +2226,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 0,
-      "Костерева Светлана Семеновна": 0,
-      "Орголайнен Александр Арович": 60,
-      "Пономарев Александр Михайлович": 4,
-      "Сокова Людмила Николаевна": 9,
-      "Федотов-Любомирский Анатолий Юрьевич": 2,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000202303": 0,
+      "gas:candidate-vibid:235200070451": 0,
+      "gas:candidate-vibid:1001000225933": 60,
+      "gas:candidate-vibid:1001000121841": 4,
+      "gas:candidate-vibid:1001000136047": 9,
+      "gas:candidate-vibid:1001000195068": 2,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270666&region=0&sub_region=0&type=429",
@@ -2282,13 +2282,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 0,
-      "Костерева Светлана Семеновна": 1,
-      "Орголайнен Александр Арович": 43,
-      "Пономарев Александр Михайлович": 8,
-      "Сокова Людмила Николаевна": 2,
-      "Федотов-Любомирский Анатолий Юрьевич": 1,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000202303": 0,
+      "gas:candidate-vibid:235200070451": 1,
+      "gas:candidate-vibid:1001000225933": 43,
+      "gas:candidate-vibid:1001000121841": 8,
+      "gas:candidate-vibid:1001000136047": 2,
+      "gas:candidate-vibid:1001000195068": 1,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270666&region=0&sub_region=0&type=429",
@@ -2338,13 +2338,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 3,
-      "Костерева Светлана Семеновна": 6,
-      "Орголайнен Александр Арович": 102,
-      "Пономарев Александр Михайлович": 21,
-      "Сокова Людмила Николаевна": 9,
-      "Федотов-Любомирский Анатолий Юрьевич": 0,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000202303": 3,
+      "gas:candidate-vibid:235200070451": 6,
+      "gas:candidate-vibid:1001000225933": 102,
+      "gas:candidate-vibid:1001000121841": 21,
+      "gas:candidate-vibid:1001000136047": 9,
+      "gas:candidate-vibid:1001000195068": 0,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270666&region=0&sub_region=0&type=429",
@@ -2394,13 +2394,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 21,
-      "Костерева Светлана Семеновна": 16,
-      "Орголайнен Александр Арович": 308,
-      "Пономарев Александр Михайлович": 99,
-      "Сокова Людмила Николаевна": 37,
-      "Федотов-Любомирский Анатолий Юрьевич": 6,
-      "Против всех": 59
+      "gas:candidate-vibid:1001000202303": 21,
+      "gas:candidate-vibid:235200070451": 16,
+      "gas:candidate-vibid:1001000225933": 308,
+      "gas:candidate-vibid:1001000121841": 99,
+      "gas:candidate-vibid:1001000136047": 37,
+      "gas:candidate-vibid:1001000195068": 6,
+      "special:against-all": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270666&region=0&sub_region=0&type=429",
@@ -2450,13 +2450,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 9,
-      "Костерева Светлана Семеновна": 3,
-      "Орголайнен Александр Арович": 94,
-      "Пономарев Александр Михайлович": 9,
-      "Сокова Людмила Николаевна": 9,
-      "Федотов-Любомирский Анатолий Юрьевич": 3,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000202303": 9,
+      "gas:candidate-vibid:235200070451": 3,
+      "gas:candidate-vibid:1001000225933": 94,
+      "gas:candidate-vibid:1001000121841": 9,
+      "gas:candidate-vibid:1001000136047": 9,
+      "gas:candidate-vibid:1001000195068": 3,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270666&region=0&sub_region=0&type=429",
@@ -2506,13 +2506,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 10,
-      "Костерева Светлана Семеновна": 10,
-      "Орголайнен Александр Арович": 234,
-      "Пономарев Александр Михайлович": 37,
-      "Сокова Людмила Николаевна": 17,
-      "Федотов-Любомирский Анатолий Юрьевич": 3,
-      "Против всех": 56
+      "gas:candidate-vibid:1001000202303": 10,
+      "gas:candidate-vibid:235200070451": 10,
+      "gas:candidate-vibid:1001000225933": 234,
+      "gas:candidate-vibid:1001000121841": 37,
+      "gas:candidate-vibid:1001000136047": 17,
+      "gas:candidate-vibid:1001000195068": 3,
+      "special:against-all": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270666&region=0&sub_region=0&type=429",
@@ -2562,13 +2562,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 10,
-      "Костерева Светлана Семеновна": 10,
-      "Орголайнен Александр Арович": 110,
-      "Пономарев Александр Михайлович": 23,
-      "Сокова Людмила Николаевна": 8,
-      "Федотов-Любомирский Анатолий Юрьевич": 6,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000202303": 10,
+      "gas:candidate-vibid:235200070451": 10,
+      "gas:candidate-vibid:1001000225933": 110,
+      "gas:candidate-vibid:1001000121841": 23,
+      "gas:candidate-vibid:1001000136047": 8,
+      "gas:candidate-vibid:1001000195068": 6,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270666&region=0&sub_region=0&type=429",
@@ -2618,13 +2618,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 9,
-      "Костерева Светлана Семеновна": 4,
-      "Орголайнен Александр Арович": 164,
-      "Пономарев Александр Михайлович": 60,
-      "Сокова Людмила Николаевна": 10,
-      "Федотов-Любомирский Анатолий Юрьевич": 2,
-      "Против всех": 27
+      "gas:candidate-vibid:1001000202303": 9,
+      "gas:candidate-vibid:235200070451": 4,
+      "gas:candidate-vibid:1001000225933": 164,
+      "gas:candidate-vibid:1001000121841": 60,
+      "gas:candidate-vibid:1001000136047": 10,
+      "gas:candidate-vibid:1001000195068": 2,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270666&region=0&sub_region=0&type=429",
@@ -2674,13 +2674,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 23,
-      "Костерева Светлана Семеновна": 28,
-      "Орголайнен Александр Арович": 490,
-      "Пономарев Александр Михайлович": 263,
-      "Сокова Людмила Николаевна": 93,
-      "Федотов-Любомирский Анатолий Юрьевич": 15,
-      "Против всех": 139
+      "gas:candidate-vibid:1001000202303": 23,
+      "gas:candidate-vibid:235200070451": 28,
+      "gas:candidate-vibid:1001000225933": 490,
+      "gas:candidate-vibid:1001000121841": 263,
+      "gas:candidate-vibid:1001000136047": 93,
+      "gas:candidate-vibid:1001000195068": 15,
+      "special:against-all": 139
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270667&region=0&sub_region=0&type=429",
@@ -2730,13 +2730,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 33,
-      "Костерева Светлана Семеновна": 14,
-      "Орголайнен Александр Арович": 449,
-      "Пономарев Александр Михайлович": 171,
-      "Сокова Людмила Николаевна": 77,
-      "Федотов-Любомирский Анатолий Юрьевич": 13,
-      "Против всех": 147
+      "gas:candidate-vibid:1001000202303": 33,
+      "gas:candidate-vibid:235200070451": 14,
+      "gas:candidate-vibid:1001000225933": 449,
+      "gas:candidate-vibid:1001000121841": 171,
+      "gas:candidate-vibid:1001000136047": 77,
+      "gas:candidate-vibid:1001000195068": 13,
+      "special:against-all": 147
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270667&region=0&sub_region=0&type=429",
@@ -2786,13 +2786,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 5,
-      "Костерева Светлана Семеновна": 3,
-      "Орголайнен Александр Арович": 71,
-      "Пономарев Александр Михайлович": 53,
-      "Сокова Людмила Николаевна": 23,
-      "Федотов-Любомирский Анатолий Юрьевич": 2,
-      "Против всех": 25
+      "gas:candidate-vibid:1001000202303": 5,
+      "gas:candidate-vibid:235200070451": 3,
+      "gas:candidate-vibid:1001000225933": 71,
+      "gas:candidate-vibid:1001000121841": 53,
+      "gas:candidate-vibid:1001000136047": 23,
+      "gas:candidate-vibid:1001000195068": 2,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270667&region=0&sub_region=0&type=429",
@@ -2842,13 +2842,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 8,
-      "Костерева Светлана Семеновна": 3,
-      "Орголайнен Александр Арович": 86,
-      "Пономарев Александр Михайлович": 9,
-      "Сокова Людмила Николаевна": 13,
-      "Федотов-Любомирский Анатолий Юрьевич": 6,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000202303": 8,
+      "gas:candidate-vibid:235200070451": 3,
+      "gas:candidate-vibid:1001000225933": 86,
+      "gas:candidate-vibid:1001000121841": 9,
+      "gas:candidate-vibid:1001000136047": 13,
+      "gas:candidate-vibid:1001000195068": 6,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270667&region=0&sub_region=0&type=429",
@@ -2898,13 +2898,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 6,
-      "Костерева Светлана Семеновна": 8,
-      "Орголайнен Александр Арович": 133,
-      "Пономарев Александр Михайлович": 41,
-      "Сокова Людмила Николаевна": 22,
-      "Федотов-Любомирский Анатолий Юрьевич": 3,
-      "Против всех": 26
+      "gas:candidate-vibid:1001000202303": 6,
+      "gas:candidate-vibid:235200070451": 8,
+      "gas:candidate-vibid:1001000225933": 133,
+      "gas:candidate-vibid:1001000121841": 41,
+      "gas:candidate-vibid:1001000136047": 22,
+      "gas:candidate-vibid:1001000195068": 3,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270667&region=0&sub_region=0&type=429",
@@ -2954,13 +2954,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 2,
-      "Костерева Светлана Семеновна": 2,
-      "Орголайнен Александр Арович": 45,
-      "Пономарев Александр Михайлович": 8,
-      "Сокова Людмила Николаевна": 5,
-      "Федотов-Любомирский Анатолий Юрьевич": 1,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000202303": 2,
+      "gas:candidate-vibid:235200070451": 2,
+      "gas:candidate-vibid:1001000225933": 45,
+      "gas:candidate-vibid:1001000121841": 8,
+      "gas:candidate-vibid:1001000136047": 5,
+      "gas:candidate-vibid:1001000195068": 1,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270667&region=0&sub_region=0&type=429",
@@ -3010,13 +3010,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 7,
-      "Костерева Светлана Семеновна": 4,
-      "Орголайнен Александр Арович": 54,
-      "Пономарев Александр Михайлович": 17,
-      "Сокова Людмила Николаевна": 22,
-      "Федотов-Любомирский Анатолий Юрьевич": 2,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000202303": 7,
+      "gas:candidate-vibid:235200070451": 4,
+      "gas:candidate-vibid:1001000225933": 54,
+      "gas:candidate-vibid:1001000121841": 17,
+      "gas:candidate-vibid:1001000136047": 22,
+      "gas:candidate-vibid:1001000195068": 2,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270667&region=0&sub_region=0&type=429",
@@ -3066,13 +3066,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 7,
-      "Костерева Светлана Семеновна": 3,
-      "Орголайнен Александр Арович": 250,
-      "Пономарев Александр Михайлович": 41,
-      "Сокова Людмила Николаевна": 28,
-      "Федотов-Любомирский Анатолий Юрьевич": 3,
-      "Против всех": 25
+      "gas:candidate-vibid:1001000202303": 7,
+      "gas:candidate-vibid:235200070451": 3,
+      "gas:candidate-vibid:1001000225933": 250,
+      "gas:candidate-vibid:1001000121841": 41,
+      "gas:candidate-vibid:1001000136047": 28,
+      "gas:candidate-vibid:1001000195068": 3,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270667&region=0&sub_region=0&type=429",
@@ -3122,13 +3122,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 7,
-      "Костерева Светлана Семеновна": 8,
-      "Орголайнен Александр Арович": 74,
-      "Пономарев Александр Михайлович": 31,
-      "Сокова Людмила Николаевна": 17,
-      "Федотов-Любомирский Анатолий Юрьевич": 3,
-      "Против всех": 28
+      "gas:candidate-vibid:1001000202303": 7,
+      "gas:candidate-vibid:235200070451": 8,
+      "gas:candidate-vibid:1001000225933": 74,
+      "gas:candidate-vibid:1001000121841": 31,
+      "gas:candidate-vibid:1001000136047": 17,
+      "gas:candidate-vibid:1001000195068": 3,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270667&region=0&sub_region=0&type=429",
@@ -3178,13 +3178,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 3,
-      "Костерева Светлана Семеновна": 6,
-      "Орголайнен Александр Арович": 24,
-      "Пономарев Александр Михайлович": 9,
-      "Сокова Людмила Николаевна": 8,
-      "Федотов-Любомирский Анатолий Юрьевич": 1,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000202303": 3,
+      "gas:candidate-vibid:235200070451": 6,
+      "gas:candidate-vibid:1001000225933": 24,
+      "gas:candidate-vibid:1001000121841": 9,
+      "gas:candidate-vibid:1001000136047": 8,
+      "gas:candidate-vibid:1001000195068": 1,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270667&region=0&sub_region=0&type=429",
@@ -3234,13 +3234,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 18,
-      "Костерева Светлана Семеновна": 7,
-      "Орголайнен Александр Арович": 124,
-      "Пономарев Александр Михайлович": 65,
-      "Сокова Людмила Николаевна": 19,
-      "Федотов-Любомирский Анатолий Юрьевич": 3,
-      "Против всех": 36
+      "gas:candidate-vibid:1001000202303": 18,
+      "gas:candidate-vibid:235200070451": 7,
+      "gas:candidate-vibid:1001000225933": 124,
+      "gas:candidate-vibid:1001000121841": 65,
+      "gas:candidate-vibid:1001000136047": 19,
+      "gas:candidate-vibid:1001000195068": 3,
+      "special:against-all": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270667&region=0&sub_region=0&type=429",
@@ -3290,13 +3290,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 2,
-      "Костерева Светлана Семеновна": 2,
-      "Орголайнен Александр Арович": 41,
-      "Пономарев Александр Михайлович": 12,
-      "Сокова Людмила Николаевна": 2,
-      "Федотов-Любомирский Анатолий Юрьевич": 1,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000202303": 2,
+      "gas:candidate-vibid:235200070451": 2,
+      "gas:candidate-vibid:1001000225933": 41,
+      "gas:candidate-vibid:1001000121841": 12,
+      "gas:candidate-vibid:1001000136047": 2,
+      "gas:candidate-vibid:1001000195068": 1,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270667&region=0&sub_region=0&type=429",
@@ -3346,13 +3346,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 8,
-      "Костерева Светлана Семеновна": 7,
-      "Орголайнен Александр Арович": 125,
-      "Пономарев Александр Михайлович": 31,
-      "Сокова Людмила Николаевна": 15,
-      "Федотов-Любомирский Анатолий Юрьевич": 1,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000202303": 8,
+      "gas:candidate-vibid:235200070451": 7,
+      "gas:candidate-vibid:1001000225933": 125,
+      "gas:candidate-vibid:1001000121841": 31,
+      "gas:candidate-vibid:1001000136047": 15,
+      "gas:candidate-vibid:1001000195068": 1,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270667&region=0&sub_region=0&type=429",
@@ -3402,13 +3402,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 23,
-      "Костерева Светлана Семеновна": 21,
-      "Орголайнен Александр Арович": 221,
-      "Пономарев Александр Михайлович": 60,
-      "Сокова Людмила Николаевна": 40,
-      "Федотов-Любомирский Анатолий Юрьевич": 7,
-      "Против всех": 52
+      "gas:candidate-vibid:1001000202303": 23,
+      "gas:candidate-vibid:235200070451": 21,
+      "gas:candidate-vibid:1001000225933": 221,
+      "gas:candidate-vibid:1001000121841": 60,
+      "gas:candidate-vibid:1001000136047": 40,
+      "gas:candidate-vibid:1001000195068": 7,
+      "special:against-all": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270667&region=0&sub_region=0&type=429",
@@ -3458,13 +3458,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 6,
-      "Костерева Светлана Семеновна": 2,
-      "Орголайнен Александр Арович": 38,
-      "Пономарев Александр Михайлович": 3,
-      "Сокова Людмила Николаевна": 6,
-      "Федотов-Любомирский Анатолий Юрьевич": 0,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000202303": 6,
+      "gas:candidate-vibid:235200070451": 2,
+      "gas:candidate-vibid:1001000225933": 38,
+      "gas:candidate-vibid:1001000121841": 3,
+      "gas:candidate-vibid:1001000136047": 6,
+      "gas:candidate-vibid:1001000195068": 0,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270667&region=0&sub_region=0&type=429",
@@ -3514,13 +3514,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 15,
-      "Костерева Светлана Семеновна": 8,
-      "Орголайнен Александр Арович": 114,
-      "Пономарев Александр Михайлович": 45,
-      "Сокова Людмила Николаевна": 34,
-      "Федотов-Любомирский Анатолий Юрьевич": 4,
-      "Против всех": 29
+      "gas:candidate-vibid:1001000202303": 15,
+      "gas:candidate-vibid:235200070451": 8,
+      "gas:candidate-vibid:1001000225933": 114,
+      "gas:candidate-vibid:1001000121841": 45,
+      "gas:candidate-vibid:1001000136047": 34,
+      "gas:candidate-vibid:1001000195068": 4,
+      "special:against-all": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270667&region=0&sub_region=0&type=429",
@@ -3570,13 +3570,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 9,
-      "Костерева Светлана Семеновна": 5,
-      "Орголайнен Александр Арович": 67,
-      "Пономарев Александр Михайлович": 17,
-      "Сокова Людмила Николаевна": 7,
-      "Федотов-Любомирский Анатолий Юрьевич": 1,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000202303": 9,
+      "gas:candidate-vibid:235200070451": 5,
+      "gas:candidate-vibid:1001000225933": 67,
+      "gas:candidate-vibid:1001000121841": 17,
+      "gas:candidate-vibid:1001000136047": 7,
+      "gas:candidate-vibid:1001000195068": 1,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270667&region=0&sub_region=0&type=429",
@@ -3626,13 +3626,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 11,
-      "Костерева Светлана Семеновна": 10,
-      "Орголайнен Александр Арович": 117,
-      "Пономарев Александр Михайлович": 29,
-      "Сокова Людмила Николаевна": 28,
-      "Федотов-Любомирский Анатолий Юрьевич": 2,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000202303": 11,
+      "gas:candidate-vibid:235200070451": 10,
+      "gas:candidate-vibid:1001000225933": 117,
+      "gas:candidate-vibid:1001000121841": 29,
+      "gas:candidate-vibid:1001000136047": 28,
+      "gas:candidate-vibid:1001000195068": 2,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270667&region=0&sub_region=0&type=429",
@@ -3682,13 +3682,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 3,
-      "Костерева Светлана Семеновна": 1,
-      "Орголайнен Александр Арович": 25,
-      "Пономарев Александр Михайлович": 18,
-      "Сокова Людмила Николаевна": 4,
-      "Федотов-Любомирский Анатолий Юрьевич": 1,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000202303": 3,
+      "gas:candidate-vibid:235200070451": 1,
+      "gas:candidate-vibid:1001000225933": 25,
+      "gas:candidate-vibid:1001000121841": 18,
+      "gas:candidate-vibid:1001000136047": 4,
+      "gas:candidate-vibid:1001000195068": 1,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270667&region=0&sub_region=0&type=429",
@@ -3738,13 +3738,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 31,
-      "Костерева Светлана Семеновна": 17,
-      "Орголайнен Александр Арович": 280,
-      "Пономарев Александр Михайлович": 139,
-      "Сокова Людмила Николаевна": 45,
-      "Федотов-Любомирский Анатолий Юрьевич": 8,
-      "Против всех": 81
+      "gas:candidate-vibid:1001000202303": 31,
+      "gas:candidate-vibid:235200070451": 17,
+      "gas:candidate-vibid:1001000225933": 280,
+      "gas:candidate-vibid:1001000121841": 139,
+      "gas:candidate-vibid:1001000136047": 45,
+      "gas:candidate-vibid:1001000195068": 8,
+      "special:against-all": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270668&region=0&sub_region=0&type=429",
@@ -3794,13 +3794,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 7,
-      "Костерева Светлана Семеновна": 9,
-      "Орголайнен Александр Арович": 142,
-      "Пономарев Александр Михайлович": 47,
-      "Сокова Людмила Николаевна": 17,
-      "Федотов-Любомирский Анатолий Юрьевич": 2,
-      "Против всех": 48
+      "gas:candidate-vibid:1001000202303": 7,
+      "gas:candidate-vibid:235200070451": 9,
+      "gas:candidate-vibid:1001000225933": 142,
+      "gas:candidate-vibid:1001000121841": 47,
+      "gas:candidate-vibid:1001000136047": 17,
+      "gas:candidate-vibid:1001000195068": 2,
+      "special:against-all": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270668&region=0&sub_region=0&type=429",
@@ -3850,13 +3850,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 8,
-      "Костерева Светлана Семеновна": 5,
-      "Орголайнен Александр Арович": 114,
-      "Пономарев Александр Михайлович": 50,
-      "Сокова Людмила Николаевна": 23,
-      "Федотов-Любомирский Анатолий Юрьевич": 4,
-      "Против всех": 48
+      "gas:candidate-vibid:1001000202303": 8,
+      "gas:candidate-vibid:235200070451": 5,
+      "gas:candidate-vibid:1001000225933": 114,
+      "gas:candidate-vibid:1001000121841": 50,
+      "gas:candidate-vibid:1001000136047": 23,
+      "gas:candidate-vibid:1001000195068": 4,
+      "special:against-all": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270668&region=0&sub_region=0&type=429",
@@ -3906,13 +3906,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 27,
-      "Костерева Светлана Семеновна": 18,
-      "Орголайнен Александр Арович": 286,
-      "Пономарев Александр Михайлович": 132,
-      "Сокова Людмила Николаевна": 38,
-      "Федотов-Любомирский Анатолий Юрьевич": 3,
-      "Против всех": 114
+      "gas:candidate-vibid:1001000202303": 27,
+      "gas:candidate-vibid:235200070451": 18,
+      "gas:candidate-vibid:1001000225933": 286,
+      "gas:candidate-vibid:1001000121841": 132,
+      "gas:candidate-vibid:1001000136047": 38,
+      "gas:candidate-vibid:1001000195068": 3,
+      "special:against-all": 114
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270668&region=0&sub_region=0&type=429",
@@ -3962,13 +3962,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 13,
-      "Костерева Светлана Семеновна": 5,
-      "Орголайнен Александр Арович": 115,
-      "Пономарев Александр Михайлович": 42,
-      "Сокова Людмила Николаевна": 18,
-      "Федотов-Любомирский Анатолий Юрьевич": 3,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000202303": 13,
+      "gas:candidate-vibid:235200070451": 5,
+      "gas:candidate-vibid:1001000225933": 115,
+      "gas:candidate-vibid:1001000121841": 42,
+      "gas:candidate-vibid:1001000136047": 18,
+      "gas:candidate-vibid:1001000195068": 3,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270668&region=0&sub_region=0&type=429",
@@ -4018,13 +4018,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 31,
-      "Костерева Светлана Семеновна": 12,
-      "Орголайнен Александр Арович": 215,
-      "Пономарев Александр Михайлович": 65,
-      "Сокова Людмила Николаевна": 28,
-      "Федотов-Любомирский Анатолий Юрьевич": 4,
-      "Против всех": 55
+      "gas:candidate-vibid:1001000202303": 31,
+      "gas:candidate-vibid:235200070451": 12,
+      "gas:candidate-vibid:1001000225933": 215,
+      "gas:candidate-vibid:1001000121841": 65,
+      "gas:candidate-vibid:1001000136047": 28,
+      "gas:candidate-vibid:1001000195068": 4,
+      "special:against-all": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270668&region=0&sub_region=0&type=429",
@@ -4074,13 +4074,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 34,
-      "Костерева Светлана Семеновна": 19,
-      "Орголайнен Александр Арович": 316,
-      "Пономарев Александр Михайлович": 120,
-      "Сокова Людмила Николаевна": 61,
-      "Федотов-Любомирский Анатолий Юрьевич": 8,
-      "Против всех": 105
+      "gas:candidate-vibid:1001000202303": 34,
+      "gas:candidate-vibid:235200070451": 19,
+      "gas:candidate-vibid:1001000225933": 316,
+      "gas:candidate-vibid:1001000121841": 120,
+      "gas:candidate-vibid:1001000136047": 61,
+      "gas:candidate-vibid:1001000195068": 8,
+      "special:against-all": 105
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270668&region=0&sub_region=0&type=429",
@@ -4130,13 +4130,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 25,
-      "Костерева Светлана Семеновна": 9,
-      "Орголайнен Александр Арович": 232,
-      "Пономарев Александр Михайлович": 154,
-      "Сокова Людмила Николаевна": 39,
-      "Федотов-Любомирский Анатолий Юрьевич": 5,
-      "Против всех": 81
+      "gas:candidate-vibid:1001000202303": 25,
+      "gas:candidate-vibid:235200070451": 9,
+      "gas:candidate-vibid:1001000225933": 232,
+      "gas:candidate-vibid:1001000121841": 154,
+      "gas:candidate-vibid:1001000136047": 39,
+      "gas:candidate-vibid:1001000195068": 5,
+      "special:against-all": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270668&region=0&sub_region=0&type=429",
@@ -4186,13 +4186,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 3,
-      "Костерева Светлана Семеновна": 1,
-      "Орголайнен Александр Арович": 48,
-      "Пономарев Александр Михайлович": 18,
-      "Сокова Людмила Николаевна": 7,
-      "Федотов-Любомирский Анатолий Юрьевич": 1,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000202303": 3,
+      "gas:candidate-vibid:235200070451": 1,
+      "gas:candidate-vibid:1001000225933": 48,
+      "gas:candidate-vibid:1001000121841": 18,
+      "gas:candidate-vibid:1001000136047": 7,
+      "gas:candidate-vibid:1001000195068": 1,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270668&region=0&sub_region=0&type=429",
@@ -4242,13 +4242,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 14,
-      "Костерева Светлана Семеновна": 8,
-      "Орголайнен Александр Арович": 233,
-      "Пономарев Александр Михайлович": 93,
-      "Сокова Людмила Николаевна": 30,
-      "Федотов-Любомирский Анатолий Юрьевич": 2,
-      "Против всех": 77
+      "gas:candidate-vibid:1001000202303": 14,
+      "gas:candidate-vibid:235200070451": 8,
+      "gas:candidate-vibid:1001000225933": 233,
+      "gas:candidate-vibid:1001000121841": 93,
+      "gas:candidate-vibid:1001000136047": 30,
+      "gas:candidate-vibid:1001000195068": 2,
+      "special:against-all": 77
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270668&region=0&sub_region=0&type=429",
@@ -4298,13 +4298,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 3,
-      "Костерева Светлана Семеновна": 0,
-      "Орголайнен Александр Арович": 56,
-      "Пономарев Александр Михайлович": 16,
-      "Сокова Людмила Николаевна": 10,
-      "Федотов-Любомирский Анатолий Юрьевич": 0,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000202303": 3,
+      "gas:candidate-vibid:235200070451": 0,
+      "gas:candidate-vibid:1001000225933": 56,
+      "gas:candidate-vibid:1001000121841": 16,
+      "gas:candidate-vibid:1001000136047": 10,
+      "gas:candidate-vibid:1001000195068": 0,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270668&region=0&sub_region=0&type=429",
@@ -4354,13 +4354,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 12,
-      "Костерева Светлана Семеновна": 7,
-      "Орголайнен Александр Арович": 124,
-      "Пономарев Александр Михайлович": 41,
-      "Сокова Людмила Николаевна": 19,
-      "Федотов-Любомирский Анатолий Юрьевич": 3,
-      "Против всех": 28
+      "gas:candidate-vibid:1001000202303": 12,
+      "gas:candidate-vibid:235200070451": 7,
+      "gas:candidate-vibid:1001000225933": 124,
+      "gas:candidate-vibid:1001000121841": 41,
+      "gas:candidate-vibid:1001000136047": 19,
+      "gas:candidate-vibid:1001000195068": 3,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270668&region=0&sub_region=0&type=429",
@@ -4410,13 +4410,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 9,
-      "Костерева Светлана Семеновна": 10,
-      "Орголайнен Александр Арович": 170,
-      "Пономарев Александр Михайлович": 46,
-      "Сокова Людмила Николаевна": 17,
-      "Федотов-Любомирский Анатолий Юрьевич": 5,
-      "Против всех": 59
+      "gas:candidate-vibid:1001000202303": 9,
+      "gas:candidate-vibid:235200070451": 10,
+      "gas:candidate-vibid:1001000225933": 170,
+      "gas:candidate-vibid:1001000121841": 46,
+      "gas:candidate-vibid:1001000136047": 17,
+      "gas:candidate-vibid:1001000195068": 5,
+      "special:against-all": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270668&region=0&sub_region=0&type=429",
@@ -4466,13 +4466,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 4,
-      "Костерева Светлана Семеновна": 1,
-      "Орголайнен Александр Арович": 43,
-      "Пономарев Александр Михайлович": 2,
-      "Сокова Людмила Николаевна": 5,
-      "Федотов-Любомирский Анатолий Юрьевич": 0,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000202303": 4,
+      "gas:candidate-vibid:235200070451": 1,
+      "gas:candidate-vibid:1001000225933": 43,
+      "gas:candidate-vibid:1001000121841": 2,
+      "gas:candidate-vibid:1001000136047": 5,
+      "gas:candidate-vibid:1001000195068": 0,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270668&region=0&sub_region=0&type=429",
@@ -4522,13 +4522,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 9,
-      "Костерева Светлана Семеновна": 4,
-      "Орголайнен Александр Арович": 64,
-      "Пономарев Александр Михайлович": 7,
-      "Сокова Людмила Николаевна": 9,
-      "Федотов-Любомирский Анатолий Юрьевич": 0,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000202303": 9,
+      "gas:candidate-vibid:235200070451": 4,
+      "gas:candidate-vibid:1001000225933": 64,
+      "gas:candidate-vibid:1001000121841": 7,
+      "gas:candidate-vibid:1001000136047": 9,
+      "gas:candidate-vibid:1001000195068": 0,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270668&region=0&sub_region=0&type=429",
@@ -4578,13 +4578,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 1,
-      "Костерева Светлана Семеновна": 2,
-      "Орголайнен Александр Арович": 49,
-      "Пономарев Александр Михайлович": 19,
-      "Сокова Людмила Николаевна": 5,
-      "Федотов-Любомирский Анатолий Юрьевич": 3,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000202303": 1,
+      "gas:candidate-vibid:235200070451": 2,
+      "gas:candidate-vibid:1001000225933": 49,
+      "gas:candidate-vibid:1001000121841": 19,
+      "gas:candidate-vibid:1001000136047": 5,
+      "gas:candidate-vibid:1001000195068": 3,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270668&region=0&sub_region=0&type=429",
@@ -4634,13 +4634,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 13,
-      "Костерева Светлана Семеновна": 17,
-      "Орголайнен Александр Арович": 155,
-      "Пономарев Александр Михайлович": 44,
-      "Сокова Людмила Николаевна": 23,
-      "Федотов-Любомирский Анатолий Юрьевич": 3,
-      "Против всех": 25
+      "gas:candidate-vibid:1001000202303": 13,
+      "gas:candidate-vibid:235200070451": 17,
+      "gas:candidate-vibid:1001000225933": 155,
+      "gas:candidate-vibid:1001000121841": 44,
+      "gas:candidate-vibid:1001000136047": 23,
+      "gas:candidate-vibid:1001000195068": 3,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270668&region=0&sub_region=0&type=429",
@@ -4690,13 +4690,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 9,
-      "Костерева Светлана Семеновна": 9,
-      "Орголайнен Александр Арович": 81,
-      "Пономарев Александр Михайлович": 20,
-      "Сокова Людмила Николаевна": 17,
-      "Федотов-Любомирский Анатолий Юрьевич": 3,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000202303": 9,
+      "gas:candidate-vibid:235200070451": 9,
+      "gas:candidate-vibid:1001000225933": 81,
+      "gas:candidate-vibid:1001000121841": 20,
+      "gas:candidate-vibid:1001000136047": 17,
+      "gas:candidate-vibid:1001000195068": 3,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270668&region=0&sub_region=0&type=429",
@@ -4746,13 +4746,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 4,
-      "Костерева Светлана Семеновна": 5,
-      "Орголайнен Александр Арович": 52,
-      "Пономарев Александр Михайлович": 5,
-      "Сокова Людмила Николаевна": 9,
-      "Федотов-Любомирский Анатолий Юрьевич": 3,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000202303": 4,
+      "gas:candidate-vibid:235200070451": 5,
+      "gas:candidate-vibid:1001000225933": 52,
+      "gas:candidate-vibid:1001000121841": 5,
+      "gas:candidate-vibid:1001000136047": 9,
+      "gas:candidate-vibid:1001000195068": 3,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270668&region=0&sub_region=0&type=429",
@@ -4802,13 +4802,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 3,
-      "Костерева Светлана Семеновна": 1,
-      "Орголайнен Александр Арович": 61,
-      "Пономарев Александр Михайлович": 17,
-      "Сокова Людмила Николаевна": 9,
-      "Федотов-Любомирский Анатолий Юрьевич": 1,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000202303": 3,
+      "gas:candidate-vibid:235200070451": 1,
+      "gas:candidate-vibid:1001000225933": 61,
+      "gas:candidate-vibid:1001000121841": 17,
+      "gas:candidate-vibid:1001000136047": 9,
+      "gas:candidate-vibid:1001000195068": 1,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270668&region=0&sub_region=0&type=429",
@@ -4858,13 +4858,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 17,
-      "Костерева Светлана Семеновна": 23,
-      "Орголайнен Александр Арович": 335,
-      "Пономарев Александр Михайлович": 132,
-      "Сокова Людмила Николаевна": 32,
-      "Федотов-Любомирский Анатолий Юрьевич": 7,
-      "Против всех": 77
+      "gas:candidate-vibid:1001000202303": 17,
+      "gas:candidate-vibid:235200070451": 23,
+      "gas:candidate-vibid:1001000225933": 335,
+      "gas:candidate-vibid:1001000121841": 132,
+      "gas:candidate-vibid:1001000136047": 32,
+      "gas:candidate-vibid:1001000195068": 7,
+      "special:against-all": 77
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270668&region=0&sub_region=0&type=429",
@@ -4914,13 +4914,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 6,
-      "Костерева Светлана Семеновна": 6,
-      "Орголайнен Александр Арович": 33,
-      "Пономарев Александр Михайлович": 10,
-      "Сокова Людмила Николаевна": 13,
-      "Федотов-Любомирский Анатолий Юрьевич": 2,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000202303": 6,
+      "gas:candidate-vibid:235200070451": 6,
+      "gas:candidate-vibid:1001000225933": 33,
+      "gas:candidate-vibid:1001000121841": 10,
+      "gas:candidate-vibid:1001000136047": 13,
+      "gas:candidate-vibid:1001000195068": 2,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270668&region=0&sub_region=0&type=429",
@@ -4970,13 +4970,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 11,
-      "Костерева Светлана Семеновна": 6,
-      "Орголайнен Александр Арович": 173,
-      "Пономарев Александр Михайлович": 29,
-      "Сокова Людмила Николаевна": 11,
-      "Федотов-Любомирский Анатолий Юрьевич": 3,
-      "Против всех": 32
+      "gas:candidate-vibid:1001000202303": 11,
+      "gas:candidate-vibid:235200070451": 6,
+      "gas:candidate-vibid:1001000225933": 173,
+      "gas:candidate-vibid:1001000121841": 29,
+      "gas:candidate-vibid:1001000136047": 11,
+      "gas:candidate-vibid:1001000195068": 3,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270668&region=0&sub_region=0&type=429",
@@ -5026,13 +5026,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 6,
-      "Костерева Светлана Семеновна": 5,
-      "Орголайнен Александр Арович": 99,
-      "Пономарев Александр Михайлович": 83,
-      "Сокова Людмила Николаевна": 7,
-      "Федотов-Любомирский Анатолий Юрьевич": 1,
-      "Против всех": 32
+      "gas:candidate-vibid:1001000202303": 6,
+      "gas:candidate-vibid:235200070451": 5,
+      "gas:candidate-vibid:1001000225933": 99,
+      "gas:candidate-vibid:1001000121841": 83,
+      "gas:candidate-vibid:1001000136047": 7,
+      "gas:candidate-vibid:1001000195068": 1,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270668&region=0&sub_region=0&type=429",
@@ -5082,13 +5082,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 5,
-      "Костерева Светлана Семеновна": 2,
-      "Орголайнен Александр Арович": 28,
-      "Пономарев Александр Михайлович": 20,
-      "Сокова Людмила Николаевна": 6,
-      "Федотов-Любомирский Анатолий Юрьевич": 0,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000202303": 5,
+      "gas:candidate-vibid:235200070451": 2,
+      "gas:candidate-vibid:1001000225933": 28,
+      "gas:candidate-vibid:1001000121841": 20,
+      "gas:candidate-vibid:1001000136047": 6,
+      "gas:candidate-vibid:1001000195068": 0,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270668&region=0&sub_region=0&type=429",
@@ -5138,13 +5138,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 7,
-      "Костерева Светлана Семеновна": 3,
-      "Орголайнен Александр Арович": 62,
-      "Пономарев Александр Михайлович": 31,
-      "Сокова Людмила Николаевна": 7,
-      "Федотов-Любомирский Анатолий Юрьевич": 1,
-      "Против всех": 24
+      "gas:candidate-vibid:1001000202303": 7,
+      "gas:candidate-vibid:235200070451": 3,
+      "gas:candidate-vibid:1001000225933": 62,
+      "gas:candidate-vibid:1001000121841": 31,
+      "gas:candidate-vibid:1001000136047": 7,
+      "gas:candidate-vibid:1001000195068": 1,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270668&region=0&sub_region=0&type=429",
@@ -5194,13 +5194,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 6,
-      "Костерева Светлана Семеновна": 9,
-      "Орголайнен Александр Арович": 83,
-      "Пономарев Александр Михайлович": 21,
-      "Сокова Людмила Николаевна": 11,
-      "Федотов-Любомирский Анатолий Юрьевич": 0,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000202303": 6,
+      "gas:candidate-vibid:235200070451": 9,
+      "gas:candidate-vibid:1001000225933": 83,
+      "gas:candidate-vibid:1001000121841": 21,
+      "gas:candidate-vibid:1001000136047": 11,
+      "gas:candidate-vibid:1001000195068": 0,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270668&region=0&sub_region=0&type=429",
@@ -5250,13 +5250,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 12,
-      "Костерева Светлана Семеновна": 7,
-      "Орголайнен Александр Арович": 175,
-      "Пономарев Александр Михайлович": 26,
-      "Сокова Людмила Николаевна": 22,
-      "Федотов-Любомирский Анатолий Юрьевич": 4,
-      "Против всех": 44
+      "gas:candidate-vibid:1001000202303": 12,
+      "gas:candidate-vibid:235200070451": 7,
+      "gas:candidate-vibid:1001000225933": 175,
+      "gas:candidate-vibid:1001000121841": 26,
+      "gas:candidate-vibid:1001000136047": 22,
+      "gas:candidate-vibid:1001000195068": 4,
+      "special:against-all": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270668&region=0&sub_region=0&type=429",
@@ -5306,13 +5306,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 6,
-      "Костерева Светлана Семеновна": 6,
-      "Орголайнен Александр Арович": 65,
-      "Пономарев Александр Михайлович": 10,
-      "Сокова Людмила Николаевна": 8,
-      "Федотов-Любомирский Анатолий Юрьевич": 3,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000202303": 6,
+      "gas:candidate-vibid:235200070451": 6,
+      "gas:candidate-vibid:1001000225933": 65,
+      "gas:candidate-vibid:1001000121841": 10,
+      "gas:candidate-vibid:1001000136047": 8,
+      "gas:candidate-vibid:1001000195068": 3,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270668&region=0&sub_region=0&type=429",
@@ -5362,13 +5362,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 6,
-      "Костерева Светлана Семеновна": 6,
-      "Орголайнен Александр Арович": 80,
-      "Пономарев Александр Михайлович": 37,
-      "Сокова Людмила Николаевна": 5,
-      "Федотов-Любомирский Анатолий Юрьевич": 3,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000202303": 6,
+      "gas:candidate-vibid:235200070451": 6,
+      "gas:candidate-vibid:1001000225933": 80,
+      "gas:candidate-vibid:1001000121841": 37,
+      "gas:candidate-vibid:1001000136047": 5,
+      "gas:candidate-vibid:1001000195068": 3,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270668&region=0&sub_region=0&type=429",
@@ -5418,13 +5418,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 7,
-      "Костерева Светлана Семеновна": 6,
-      "Орголайнен Александр Арович": 101,
-      "Пономарев Александр Михайлович": 31,
-      "Сокова Людмила Николаевна": 14,
-      "Федотов-Любомирский Анатолий Юрьевич": 1,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000202303": 7,
+      "gas:candidate-vibid:235200070451": 6,
+      "gas:candidate-vibid:1001000225933": 101,
+      "gas:candidate-vibid:1001000121841": 31,
+      "gas:candidate-vibid:1001000136047": 14,
+      "gas:candidate-vibid:1001000195068": 1,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270668&region=0&sub_region=0&type=429",
@@ -5474,13 +5474,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 18,
-      "Костерева Светлана Семеновна": 16,
-      "Орголайнен Александр Арович": 235,
-      "Пономарев Александр Михайлович": 57,
-      "Сокова Людмила Николаевна": 29,
-      "Федотов-Любомирский Анатолий Юрьевич": 6,
-      "Против всех": 46
+      "gas:candidate-vibid:1001000202303": 18,
+      "gas:candidate-vibid:235200070451": 16,
+      "gas:candidate-vibid:1001000225933": 235,
+      "gas:candidate-vibid:1001000121841": 57,
+      "gas:candidate-vibid:1001000136047": 29,
+      "gas:candidate-vibid:1001000195068": 6,
+      "special:against-all": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270668&region=0&sub_region=0&type=429",
@@ -5530,13 +5530,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 14,
-      "Костерева Светлана Семеновна": 6,
-      "Орголайнен Александр Арович": 128,
-      "Пономарев Александр Михайлович": 45,
-      "Сокова Людмила Николаевна": 9,
-      "Федотов-Любомирский Анатолий Юрьевич": 2,
-      "Против всех": 26
+      "gas:candidate-vibid:1001000202303": 14,
+      "gas:candidate-vibid:235200070451": 6,
+      "gas:candidate-vibid:1001000225933": 128,
+      "gas:candidate-vibid:1001000121841": 45,
+      "gas:candidate-vibid:1001000136047": 9,
+      "gas:candidate-vibid:1001000195068": 2,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270668&region=0&sub_region=0&type=429",
@@ -5586,13 +5586,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 15,
-      "Костерева Светлана Семеновна": 10,
-      "Орголайнен Александр Арович": 178,
-      "Пономарев Александр Михайлович": 87,
-      "Сокова Людмила Николаевна": 21,
-      "Федотов-Любомирский Анатолий Юрьевич": 2,
-      "Против всех": 36
+      "gas:candidate-vibid:1001000202303": 15,
+      "gas:candidate-vibid:235200070451": 10,
+      "gas:candidate-vibid:1001000225933": 178,
+      "gas:candidate-vibid:1001000121841": 87,
+      "gas:candidate-vibid:1001000136047": 21,
+      "gas:candidate-vibid:1001000195068": 2,
+      "special:against-all": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270668&region=0&sub_region=0&type=429",
@@ -5642,13 +5642,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 11,
-      "Костерева Светлана Семеновна": 8,
-      "Орголайнен Александр Арович": 87,
-      "Пономарев Александр Михайлович": 36,
-      "Сокова Людмила Николаевна": 9,
-      "Федотов-Любомирский Анатолий Юрьевич": 0,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000202303": 11,
+      "gas:candidate-vibid:235200070451": 8,
+      "gas:candidate-vibid:1001000225933": 87,
+      "gas:candidate-vibid:1001000121841": 36,
+      "gas:candidate-vibid:1001000136047": 9,
+      "gas:candidate-vibid:1001000195068": 0,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270668&region=0&sub_region=0&type=429",
@@ -5698,13 +5698,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 17,
-      "Костерева Светлана Семеновна": 23,
-      "Орголайнен Александр Арович": 141,
-      "Пономарев Александр Михайлович": 62,
-      "Сокова Людмила Николаевна": 26,
-      "Федотов-Любомирский Анатолий Юрьевич": 2,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000202303": 17,
+      "gas:candidate-vibid:235200070451": 23,
+      "gas:candidate-vibid:1001000225933": 141,
+      "gas:candidate-vibid:1001000121841": 62,
+      "gas:candidate-vibid:1001000136047": 26,
+      "gas:candidate-vibid:1001000195068": 2,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270668&region=0&sub_region=0&type=429",
@@ -5754,13 +5754,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 45,
-      "Костерева Светлана Семеновна": 18,
-      "Орголайнен Александр Арович": 390,
-      "Пономарев Александр Михайлович": 255,
-      "Сокова Людмила Николаевна": 84,
-      "Федотов-Любомирский Анатолий Юрьевич": 11,
-      "Против всех": 161
+      "gas:candidate-vibid:1001000202303": 45,
+      "gas:candidate-vibid:235200070451": 18,
+      "gas:candidate-vibid:1001000225933": 390,
+      "gas:candidate-vibid:1001000121841": 255,
+      "gas:candidate-vibid:1001000136047": 84,
+      "gas:candidate-vibid:1001000195068": 11,
+      "special:against-all": 161
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270669&region=0&sub_region=0&type=429",
@@ -5810,13 +5810,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 34,
-      "Костерева Светлана Семеновна": 33,
-      "Орголайнен Александр Арович": 400,
-      "Пономарев Александр Михайлович": 223,
-      "Сокова Людмила Николаевна": 77,
-      "Федотов-Любомирский Анатолий Юрьевич": 12,
-      "Против всех": 188
+      "gas:candidate-vibid:1001000202303": 34,
+      "gas:candidate-vibid:235200070451": 33,
+      "gas:candidate-vibid:1001000225933": 400,
+      "gas:candidate-vibid:1001000121841": 223,
+      "gas:candidate-vibid:1001000136047": 77,
+      "gas:candidate-vibid:1001000195068": 12,
+      "special:against-all": 188
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270669&region=0&sub_region=0&type=429",
@@ -5866,13 +5866,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 25,
-      "Костерева Светлана Семеновна": 25,
-      "Орголайнен Александр Арович": 245,
-      "Пономарев Александр Михайлович": 145,
-      "Сокова Людмила Николаевна": 60,
-      "Федотов-Любомирский Анатолий Юрьевич": 9,
-      "Против всех": 109
+      "gas:candidate-vibid:1001000202303": 25,
+      "gas:candidate-vibid:235200070451": 25,
+      "gas:candidate-vibid:1001000225933": 245,
+      "gas:candidate-vibid:1001000121841": 145,
+      "gas:candidate-vibid:1001000136047": 60,
+      "gas:candidate-vibid:1001000195068": 9,
+      "special:against-all": 109
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270669&region=0&sub_region=0&type=429",
@@ -5922,13 +5922,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 31,
-      "Костерева Светлана Семеновна": 20,
-      "Орголайнен Александр Арович": 195,
-      "Пономарев Александр Михайлович": 78,
-      "Сокова Людмила Николаевна": 49,
-      "Федотов-Любомирский Анатолий Юрьевич": 4,
-      "Против всех": 52
+      "gas:candidate-vibid:1001000202303": 31,
+      "gas:candidate-vibid:235200070451": 20,
+      "gas:candidate-vibid:1001000225933": 195,
+      "gas:candidate-vibid:1001000121841": 78,
+      "gas:candidate-vibid:1001000136047": 49,
+      "gas:candidate-vibid:1001000195068": 4,
+      "special:against-all": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270669&region=0&sub_region=0&type=429",
@@ -5978,13 +5978,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 47,
-      "Костерева Светлана Семеновна": 29,
-      "Орголайнен Александр Арович": 334,
-      "Пономарев Александр Михайлович": 188,
-      "Сокова Людмила Николаевна": 86,
-      "Федотов-Любомирский Анатолий Юрьевич": 13,
-      "Против всех": 109
+      "gas:candidate-vibid:1001000202303": 47,
+      "gas:candidate-vibid:235200070451": 29,
+      "gas:candidate-vibid:1001000225933": 334,
+      "gas:candidate-vibid:1001000121841": 188,
+      "gas:candidate-vibid:1001000136047": 86,
+      "gas:candidate-vibid:1001000195068": 13,
+      "special:against-all": 109
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270669&region=0&sub_region=0&type=429",
@@ -6034,13 +6034,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 39,
-      "Костерева Светлана Семеновна": 34,
-      "Орголайнен Александр Арович": 304,
-      "Пономарев Александр Михайлович": 121,
-      "Сокова Людмила Николаевна": 95,
-      "Федотов-Любомирский Анатолий Юрьевич": 25,
-      "Против всех": 141
+      "gas:candidate-vibid:1001000202303": 39,
+      "gas:candidate-vibid:235200070451": 34,
+      "gas:candidate-vibid:1001000225933": 304,
+      "gas:candidate-vibid:1001000121841": 121,
+      "gas:candidate-vibid:1001000136047": 95,
+      "gas:candidate-vibid:1001000195068": 25,
+      "special:against-all": 141
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270669&region=0&sub_region=0&type=429",
@@ -6090,13 +6090,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 2,
-      "Костерева Светлана Семеновна": 2,
-      "Орголайнен Александр Арович": 44,
-      "Пономарев Александр Михайлович": 19,
-      "Сокова Людмила Николаевна": 7,
-      "Федотов-Любомирский Анатолий Юрьевич": 4,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000202303": 2,
+      "gas:candidate-vibid:235200070451": 2,
+      "gas:candidate-vibid:1001000225933": 44,
+      "gas:candidate-vibid:1001000121841": 19,
+      "gas:candidate-vibid:1001000136047": 7,
+      "gas:candidate-vibid:1001000195068": 4,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270669&region=0&sub_region=0&type=429",
@@ -6146,13 +6146,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 12,
-      "Костерева Светлана Семеновна": 8,
-      "Орголайнен Александр Арович": 133,
-      "Пономарев Александр Михайлович": 22,
-      "Сокова Людмила Николаевна": 23,
-      "Федотов-Любомирский Анатолий Юрьевич": 6,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000202303": 12,
+      "gas:candidate-vibid:235200070451": 8,
+      "gas:candidate-vibid:1001000225933": 133,
+      "gas:candidate-vibid:1001000121841": 22,
+      "gas:candidate-vibid:1001000136047": 23,
+      "gas:candidate-vibid:1001000195068": 6,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270669&region=0&sub_region=0&type=429",
@@ -6202,13 +6202,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 6,
-      "Костерева Светлана Семеновна": 1,
-      "Орголайнен Александр Арович": 92,
-      "Пономарев Александр Михайлович": 8,
-      "Сокова Людмила Николаевна": 9,
-      "Федотов-Любомирский Анатолий Юрьевич": 2,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000202303": 6,
+      "gas:candidate-vibid:235200070451": 1,
+      "gas:candidate-vibid:1001000225933": 92,
+      "gas:candidate-vibid:1001000121841": 8,
+      "gas:candidate-vibid:1001000136047": 9,
+      "gas:candidate-vibid:1001000195068": 2,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270669&region=0&sub_region=0&type=429",
@@ -6258,13 +6258,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 3,
-      "Костерева Светлана Семеновна": 8,
-      "Орголайнен Александр Арович": 113,
-      "Пономарев Александр Михайлович": 5,
-      "Сокова Людмила Николаевна": 13,
-      "Федотов-Любомирский Анатолий Юрьевич": 1,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000202303": 3,
+      "gas:candidate-vibid:235200070451": 8,
+      "gas:candidate-vibid:1001000225933": 113,
+      "gas:candidate-vibid:1001000121841": 5,
+      "gas:candidate-vibid:1001000136047": 13,
+      "gas:candidate-vibid:1001000195068": 1,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270669&region=0&sub_region=0&type=429",
@@ -6314,13 +6314,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 5,
-      "Костерева Светлана Семеновна": 1,
-      "Орголайнен Александр Арович": 83,
-      "Пономарев Александр Михайлович": 27,
-      "Сокова Людмила Николаевна": 9,
-      "Федотов-Любомирский Анатолий Юрьевич": 1,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000202303": 5,
+      "gas:candidate-vibid:235200070451": 1,
+      "gas:candidate-vibid:1001000225933": 83,
+      "gas:candidate-vibid:1001000121841": 27,
+      "gas:candidate-vibid:1001000136047": 9,
+      "gas:candidate-vibid:1001000195068": 1,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270669&region=0&sub_region=0&type=429",
@@ -6370,13 +6370,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 7,
-      "Костерева Светлана Семеновна": 6,
-      "Орголайнен Александр Арович": 58,
-      "Пономарев Александр Михайлович": 14,
-      "Сокова Людмила Николаевна": 5,
-      "Федотов-Любомирский Анатолий Юрьевич": 1,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000202303": 7,
+      "gas:candidate-vibid:235200070451": 6,
+      "gas:candidate-vibid:1001000225933": 58,
+      "gas:candidate-vibid:1001000121841": 14,
+      "gas:candidate-vibid:1001000136047": 5,
+      "gas:candidate-vibid:1001000195068": 1,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270669&region=0&sub_region=0&type=429",
@@ -6426,13 +6426,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 15,
-      "Костерева Светлана Семеновна": 8,
-      "Орголайнен Александр Арович": 124,
-      "Пономарев Александр Михайлович": 23,
-      "Сокова Людмила Николаевна": 33,
-      "Федотов-Любомирский Анатолий Юрьевич": 6,
-      "Против всех": 25
+      "gas:candidate-vibid:1001000202303": 15,
+      "gas:candidate-vibid:235200070451": 8,
+      "gas:candidate-vibid:1001000225933": 124,
+      "gas:candidate-vibid:1001000121841": 23,
+      "gas:candidate-vibid:1001000136047": 33,
+      "gas:candidate-vibid:1001000195068": 6,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270669&region=0&sub_region=0&type=429",
@@ -6482,13 +6482,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 7,
-      "Костерева Светлана Семеновна": 1,
-      "Орголайнен Александр Арович": 95,
-      "Пономарев Александр Михайлович": 22,
-      "Сокова Людмила Николаевна": 8,
-      "Федотов-Любомирский Анатолий Юрьевич": 5,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000202303": 7,
+      "gas:candidate-vibid:235200070451": 1,
+      "gas:candidate-vibid:1001000225933": 95,
+      "gas:candidate-vibid:1001000121841": 22,
+      "gas:candidate-vibid:1001000136047": 8,
+      "gas:candidate-vibid:1001000195068": 5,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270669&region=0&sub_region=0&type=429",
@@ -6538,13 +6538,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 9,
-      "Костерева Светлана Семеновна": 5,
-      "Орголайнен Александр Арович": 199,
-      "Пономарев Александр Михайлович": 32,
-      "Сокова Людмила Николаевна": 23,
-      "Федотов-Любомирский Анатолий Юрьевич": 6,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000202303": 9,
+      "gas:candidate-vibid:235200070451": 5,
+      "gas:candidate-vibid:1001000225933": 199,
+      "gas:candidate-vibid:1001000121841": 32,
+      "gas:candidate-vibid:1001000136047": 23,
+      "gas:candidate-vibid:1001000195068": 6,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270669&region=0&sub_region=0&type=429",
@@ -6594,13 +6594,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 8,
-      "Костерева Светлана Семеновна": 4,
-      "Орголайнен Александр Арович": 95,
-      "Пономарев Александр Михайлович": 42,
-      "Сокова Людмила Николаевна": 21,
-      "Федотов-Любомирский Анатолий Юрьевич": 2,
-      "Против всех": 24
+      "gas:candidate-vibid:1001000202303": 8,
+      "gas:candidate-vibid:235200070451": 4,
+      "gas:candidate-vibid:1001000225933": 95,
+      "gas:candidate-vibid:1001000121841": 42,
+      "gas:candidate-vibid:1001000136047": 21,
+      "gas:candidate-vibid:1001000195068": 2,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270669&region=0&sub_region=0&type=429",
@@ -6650,13 +6650,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 19,
-      "Костерева Светлана Семеновна": 10,
-      "Орголайнен Александр Арович": 211,
-      "Пономарев Александр Михайлович": 52,
-      "Сокова Людмила Николаевна": 32,
-      "Федотов-Любомирский Анатолий Юрьевич": 4,
-      "Против всех": 44
+      "gas:candidate-vibid:1001000202303": 19,
+      "gas:candidate-vibid:235200070451": 10,
+      "gas:candidate-vibid:1001000225933": 211,
+      "gas:candidate-vibid:1001000121841": 52,
+      "gas:candidate-vibid:1001000136047": 32,
+      "gas:candidate-vibid:1001000195068": 4,
+      "special:against-all": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270669&region=0&sub_region=0&type=429",
@@ -6706,13 +6706,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 37,
-      "Костерева Светлана Семеновна": 15,
-      "Орголайнен Александр Арович": 387,
-      "Пономарев Александр Михайлович": 133,
-      "Сокова Людмила Николаевна": 55,
-      "Федотов-Любомирский Анатолий Юрьевич": 15,
-      "Против всех": 128
+      "gas:candidate-vibid:1001000202303": 37,
+      "gas:candidate-vibid:235200070451": 15,
+      "gas:candidate-vibid:1001000225933": 387,
+      "gas:candidate-vibid:1001000121841": 133,
+      "gas:candidate-vibid:1001000136047": 55,
+      "gas:candidate-vibid:1001000195068": 15,
+      "special:against-all": 128
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270669&region=0&sub_region=0&type=429",
@@ -6762,13 +6762,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 6,
-      "Костерева Светлана Семеновна": 2,
-      "Орголайнен Александр Арович": 40,
-      "Пономарев Александр Михайлович": 7,
-      "Сокова Людмила Николаевна": 8,
-      "Федотов-Любомирский Анатолий Юрьевич": 5,
-      "Против всех": 29
+      "gas:candidate-vibid:1001000202303": 6,
+      "gas:candidate-vibid:235200070451": 2,
+      "gas:candidate-vibid:1001000225933": 40,
+      "gas:candidate-vibid:1001000121841": 7,
+      "gas:candidate-vibid:1001000136047": 8,
+      "gas:candidate-vibid:1001000195068": 5,
+      "special:against-all": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270669&region=0&sub_region=0&type=429",
@@ -6818,13 +6818,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 10,
-      "Костерева Светлана Семеновна": 0,
-      "Орголайнен Александр Арович": 52,
-      "Пономарев Александр Михайлович": 12,
-      "Сокова Людмила Николаевна": 6,
-      "Федотов-Любомирский Анатолий Юрьевич": 3,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000202303": 10,
+      "gas:candidate-vibid:235200070451": 0,
+      "gas:candidate-vibid:1001000225933": 52,
+      "gas:candidate-vibid:1001000121841": 12,
+      "gas:candidate-vibid:1001000136047": 6,
+      "gas:candidate-vibid:1001000195068": 3,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270669&region=0&sub_region=0&type=429",
@@ -6874,13 +6874,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 0,
-      "Костерева Светлана Семеновна": 3,
-      "Орголайнен Александр Арович": 15,
-      "Пономарев Александр Михайлович": 8,
-      "Сокова Людмила Николаевна": 13,
-      "Федотов-Любомирский Анатолий Юрьевич": 0,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000202303": 0,
+      "gas:candidate-vibid:235200070451": 3,
+      "gas:candidate-vibid:1001000225933": 15,
+      "gas:candidate-vibid:1001000121841": 8,
+      "gas:candidate-vibid:1001000136047": 13,
+      "gas:candidate-vibid:1001000195068": 0,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270669&region=0&sub_region=0&type=429",
@@ -6930,13 +6930,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 3,
-      "Костерева Светлана Семеновна": 0,
-      "Орголайнен Александр Арович": 23,
-      "Пономарев Александр Михайлович": 1,
-      "Сокова Людмила Николаевна": 1,
-      "Федотов-Любомирский Анатолий Юрьевич": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000202303": 3,
+      "gas:candidate-vibid:235200070451": 0,
+      "gas:candidate-vibid:1001000225933": 23,
+      "gas:candidate-vibid:1001000121841": 1,
+      "gas:candidate-vibid:1001000136047": 1,
+      "gas:candidate-vibid:1001000195068": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270669&region=0&sub_region=0&type=429",
@@ -6986,13 +6986,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 17,
-      "Костерева Светлана Семеновна": 10,
-      "Орголайнен Александр Арович": 166,
-      "Пономарев Александр Михайлович": 32,
-      "Сокова Людмила Николаевна": 17,
-      "Федотов-Любомирский Анатолий Юрьевич": 7,
-      "Против всех": 28
+      "gas:candidate-vibid:1001000202303": 17,
+      "gas:candidate-vibid:235200070451": 10,
+      "gas:candidate-vibid:1001000225933": 166,
+      "gas:candidate-vibid:1001000121841": 32,
+      "gas:candidate-vibid:1001000136047": 17,
+      "gas:candidate-vibid:1001000195068": 7,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270669&region=0&sub_region=0&type=429",
@@ -7042,13 +7042,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 15,
-      "Костерева Светлана Семеновна": 8,
-      "Орголайнен Александр Арович": 107,
-      "Пономарев Александр Михайлович": 30,
-      "Сокова Людмила Николаевна": 22,
-      "Федотов-Любомирский Анатолий Юрьевич": 8,
-      "Против всех": 41
+      "gas:candidate-vibid:1001000202303": 15,
+      "gas:candidate-vibid:235200070451": 8,
+      "gas:candidate-vibid:1001000225933": 107,
+      "gas:candidate-vibid:1001000121841": 30,
+      "gas:candidate-vibid:1001000136047": 22,
+      "gas:candidate-vibid:1001000195068": 8,
+      "special:against-all": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270669&region=0&sub_region=0&type=429",
@@ -7098,13 +7098,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 7,
-      "Костерева Светлана Семеновна": 6,
-      "Орголайнен Александр Арович": 83,
-      "Пономарев Александр Михайлович": 28,
-      "Сокова Людмила Николаевна": 32,
-      "Федотов-Любомирский Анатолий Юрьевич": 4,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000202303": 7,
+      "gas:candidate-vibid:235200070451": 6,
+      "gas:candidate-vibid:1001000225933": 83,
+      "gas:candidate-vibid:1001000121841": 28,
+      "gas:candidate-vibid:1001000136047": 32,
+      "gas:candidate-vibid:1001000195068": 4,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270669&region=0&sub_region=0&type=429",
@@ -7154,13 +7154,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 3,
-      "Костерева Светлана Семеновна": 4,
-      "Орголайнен Александр Арович": 22,
-      "Пономарев Александр Михайлович": 5,
-      "Сокова Людмила Николаевна": 8,
-      "Федотов-Любомирский Анатолий Юрьевич": 1,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000202303": 3,
+      "gas:candidate-vibid:235200070451": 4,
+      "gas:candidate-vibid:1001000225933": 22,
+      "gas:candidate-vibid:1001000121841": 5,
+      "gas:candidate-vibid:1001000136047": 8,
+      "gas:candidate-vibid:1001000195068": 1,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270669&region=0&sub_region=0&type=429",
@@ -7210,13 +7210,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 9,
-      "Костерева Светлана Семеновна": 7,
-      "Орголайнен Александр Арович": 48,
-      "Пономарев Александр Михайлович": 31,
-      "Сокова Людмила Николаевна": 4,
-      "Федотов-Любомирский Анатолий Юрьевич": 1,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000202303": 9,
+      "gas:candidate-vibid:235200070451": 7,
+      "gas:candidate-vibid:1001000225933": 48,
+      "gas:candidate-vibid:1001000121841": 31,
+      "gas:candidate-vibid:1001000136047": 4,
+      "gas:candidate-vibid:1001000195068": 1,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270669&region=0&sub_region=0&type=429",
@@ -7266,13 +7266,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 7,
-      "Костерева Светлана Семеновна": 3,
-      "Орголайнен Александр Арович": 184,
-      "Пономарев Александр Михайлович": 58,
-      "Сокова Людмила Николаевна": 22,
-      "Федотов-Любомирский Анатолий Юрьевич": 7,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000202303": 7,
+      "gas:candidate-vibid:235200070451": 3,
+      "gas:candidate-vibid:1001000225933": 184,
+      "gas:candidate-vibid:1001000121841": 58,
+      "gas:candidate-vibid:1001000136047": 22,
+      "gas:candidate-vibid:1001000195068": 7,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270669&region=0&sub_region=0&type=429",
@@ -7322,13 +7322,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 5,
-      "Костерева Светлана Семеновна": 5,
-      "Орголайнен Александр Арович": 133,
-      "Пономарев Александр Михайлович": 47,
-      "Сокова Людмила Николаевна": 16,
-      "Федотов-Любомирский Анатолий Юрьевич": 3,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000202303": 5,
+      "gas:candidate-vibid:235200070451": 5,
+      "gas:candidate-vibid:1001000225933": 133,
+      "gas:candidate-vibid:1001000121841": 47,
+      "gas:candidate-vibid:1001000136047": 16,
+      "gas:candidate-vibid:1001000195068": 3,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270669&region=0&sub_region=0&type=429",
@@ -7378,13 +7378,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 8,
-      "Костерева Светлана Семеновна": 13,
-      "Орголайнен Александр Арович": 298,
-      "Пономарев Александр Михайлович": 142,
-      "Сокова Людмила Николаевна": 33,
-      "Федотов-Любомирский Анатолий Юрьевич": 6,
-      "Против всех": 50
+      "gas:candidate-vibid:1001000202303": 8,
+      "gas:candidate-vibid:235200070451": 13,
+      "gas:candidate-vibid:1001000225933": 298,
+      "gas:candidate-vibid:1001000121841": 142,
+      "gas:candidate-vibid:1001000136047": 33,
+      "gas:candidate-vibid:1001000195068": 6,
+      "special:against-all": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270670&region=0&sub_region=0&type=429",
@@ -7434,13 +7434,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 10,
-      "Костерева Светлана Семеновна": 14,
-      "Орголайнен Александр Арович": 390,
-      "Пономарев Александр Михайлович": 300,
-      "Сокова Людмила Николаевна": 43,
-      "Федотов-Любомирский Анатолий Юрьевич": 5,
-      "Против всех": 73
+      "gas:candidate-vibid:1001000202303": 10,
+      "gas:candidate-vibid:235200070451": 14,
+      "gas:candidate-vibid:1001000225933": 390,
+      "gas:candidate-vibid:1001000121841": 300,
+      "gas:candidate-vibid:1001000136047": 43,
+      "gas:candidate-vibid:1001000195068": 5,
+      "special:against-all": 73
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270670&region=0&sub_region=0&type=429",
@@ -7490,13 +7490,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 14,
-      "Костерева Светлана Семеновна": 8,
-      "Орголайнен Александр Арович": 237,
-      "Пономарев Александр Михайлович": 136,
-      "Сокова Людмила Николаевна": 42,
-      "Федотов-Любомирский Анатолий Юрьевич": 4,
-      "Против всех": 55
+      "gas:candidate-vibid:1001000202303": 14,
+      "gas:candidate-vibid:235200070451": 8,
+      "gas:candidate-vibid:1001000225933": 237,
+      "gas:candidate-vibid:1001000121841": 136,
+      "gas:candidate-vibid:1001000136047": 42,
+      "gas:candidate-vibid:1001000195068": 4,
+      "special:against-all": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270670&region=0&sub_region=0&type=429",
@@ -7546,13 +7546,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 8,
-      "Костерева Светлана Семеновна": 12,
-      "Орголайнен Александр Арович": 243,
-      "Пономарев Александр Михайлович": 135,
-      "Сокова Людмила Николаевна": 25,
-      "Федотов-Любомирский Анатолий Юрьевич": 4,
-      "Против всех": 31
+      "gas:candidate-vibid:1001000202303": 8,
+      "gas:candidate-vibid:235200070451": 12,
+      "gas:candidate-vibid:1001000225933": 243,
+      "gas:candidate-vibid:1001000121841": 135,
+      "gas:candidate-vibid:1001000136047": 25,
+      "gas:candidate-vibid:1001000195068": 4,
+      "special:against-all": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270670&region=0&sub_region=0&type=429",
@@ -7602,13 +7602,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 4,
-      "Костерева Светлана Семеновна": 14,
-      "Орголайнен Александр Арович": 184,
-      "Пономарев Александр Михайлович": 86,
-      "Сокова Людмила Николаевна": 19,
-      "Федотов-Любомирский Анатолий Юрьевич": 7,
-      "Против всех": 28
+      "gas:candidate-vibid:1001000202303": 4,
+      "gas:candidate-vibid:235200070451": 14,
+      "gas:candidate-vibid:1001000225933": 184,
+      "gas:candidate-vibid:1001000121841": 86,
+      "gas:candidate-vibid:1001000136047": 19,
+      "gas:candidate-vibid:1001000195068": 7,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270670&region=0&sub_region=0&type=429",
@@ -7658,13 +7658,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 8,
-      "Костерева Светлана Семеновна": 7,
-      "Орголайнен Александр Арович": 137,
-      "Пономарев Александр Михайлович": 62,
-      "Сокова Людмила Николаевна": 19,
-      "Федотов-Любомирский Анатолий Юрьевич": 3,
-      "Против всех": 38
+      "gas:candidate-vibid:1001000202303": 8,
+      "gas:candidate-vibid:235200070451": 7,
+      "gas:candidate-vibid:1001000225933": 137,
+      "gas:candidate-vibid:1001000121841": 62,
+      "gas:candidate-vibid:1001000136047": 19,
+      "gas:candidate-vibid:1001000195068": 3,
+      "special:against-all": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270670&region=0&sub_region=0&type=429",
@@ -7714,13 +7714,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 7,
-      "Костерева Светлана Семеновна": 10,
-      "Орголайнен Александр Арович": 260,
-      "Пономарев Александр Михайлович": 99,
-      "Сокова Людмила Николаевна": 48,
-      "Федотов-Любомирский Анатолий Юрьевич": 11,
-      "Против всех": 50
+      "gas:candidate-vibid:1001000202303": 7,
+      "gas:candidate-vibid:235200070451": 10,
+      "gas:candidate-vibid:1001000225933": 260,
+      "gas:candidate-vibid:1001000121841": 99,
+      "gas:candidate-vibid:1001000136047": 48,
+      "gas:candidate-vibid:1001000195068": 11,
+      "special:against-all": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270670&region=0&sub_region=0&type=429",
@@ -7770,13 +7770,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 8,
-      "Костерева Светлана Семеновна": 6,
-      "Орголайнен Александр Арович": 199,
-      "Пономарев Александр Михайлович": 107,
-      "Сокова Людмила Николаевна": 35,
-      "Федотов-Любомирский Анатолий Юрьевич": 6,
-      "Против всех": 38
+      "gas:candidate-vibid:1001000202303": 8,
+      "gas:candidate-vibid:235200070451": 6,
+      "gas:candidate-vibid:1001000225933": 199,
+      "gas:candidate-vibid:1001000121841": 107,
+      "gas:candidate-vibid:1001000136047": 35,
+      "gas:candidate-vibid:1001000195068": 6,
+      "special:against-all": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270670&region=0&sub_region=0&type=429",
@@ -7826,13 +7826,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 10,
-      "Костерева Светлана Семеновна": 12,
-      "Орголайнен Александр Арович": 218,
-      "Пономарев Александр Михайлович": 77,
-      "Сокова Людмила Николаевна": 34,
-      "Федотов-Любомирский Анатолий Юрьевич": 5,
-      "Против всех": 39
+      "gas:candidate-vibid:1001000202303": 10,
+      "gas:candidate-vibid:235200070451": 12,
+      "gas:candidate-vibid:1001000225933": 218,
+      "gas:candidate-vibid:1001000121841": 77,
+      "gas:candidate-vibid:1001000136047": 34,
+      "gas:candidate-vibid:1001000195068": 5,
+      "special:against-all": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270670&region=0&sub_region=0&type=429",
@@ -7882,13 +7882,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 9,
-      "Костерева Светлана Семеновна": 18,
-      "Орголайнен Александр Арович": 181,
-      "Пономарев Александр Михайлович": 63,
-      "Сокова Людмила Николаевна": 20,
-      "Федотов-Любомирский Анатолий Юрьевич": 4,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000202303": 9,
+      "gas:candidate-vibid:235200070451": 18,
+      "gas:candidate-vibid:1001000225933": 181,
+      "gas:candidate-vibid:1001000121841": 63,
+      "gas:candidate-vibid:1001000136047": 20,
+      "gas:candidate-vibid:1001000195068": 4,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270670&region=0&sub_region=0&type=429",
@@ -7938,13 +7938,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 0,
-      "Костерева Светлана Семеновна": 2,
-      "Орголайнен Александр Арович": 55,
-      "Пономарев Александр Михайлович": 12,
-      "Сокова Людмила Николаевна": 0,
-      "Федотов-Любомирский Анатолий Юрьевич": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000202303": 0,
+      "gas:candidate-vibid:235200070451": 2,
+      "gas:candidate-vibid:1001000225933": 55,
+      "gas:candidate-vibid:1001000121841": 12,
+      "gas:candidate-vibid:1001000136047": 0,
+      "gas:candidate-vibid:1001000195068": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270670&region=0&sub_region=0&type=429",
@@ -7994,13 +7994,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 12,
-      "Костерева Светлана Семеновна": 5,
-      "Орголайнен Александр Арович": 166,
-      "Пономарев Александр Михайлович": 34,
-      "Сокова Людмила Николаевна": 16,
-      "Федотов-Любомирский Анатолий Юрьевич": 4,
-      "Против всех": 29
+      "gas:candidate-vibid:1001000202303": 12,
+      "gas:candidate-vibid:235200070451": 5,
+      "gas:candidate-vibid:1001000225933": 166,
+      "gas:candidate-vibid:1001000121841": 34,
+      "gas:candidate-vibid:1001000136047": 16,
+      "gas:candidate-vibid:1001000195068": 4,
+      "special:against-all": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270670&region=0&sub_region=0&type=429",
@@ -8050,13 +8050,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 6,
-      "Костерева Светлана Семеновна": 4,
-      "Орголайнен Александр Арович": 135,
-      "Пономарев Александр Михайлович": 50,
-      "Сокова Людмила Николаевна": 12,
-      "Федотов-Любомирский Анатолий Юрьевич": 6,
-      "Против всех": 34
+      "gas:candidate-vibid:1001000202303": 6,
+      "gas:candidate-vibid:235200070451": 4,
+      "gas:candidate-vibid:1001000225933": 135,
+      "gas:candidate-vibid:1001000121841": 50,
+      "gas:candidate-vibid:1001000136047": 12,
+      "gas:candidate-vibid:1001000195068": 6,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270670&region=0&sub_region=0&type=429",
@@ -8106,13 +8106,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 9,
-      "Костерева Светлана Семеновна": 9,
-      "Орголайнен Александр Арович": 162,
-      "Пономарев Александр Михайлович": 43,
-      "Сокова Людмила Николаевна": 12,
-      "Федотов-Любомирский Анатолий Юрьевич": 3,
-      "Против всех": 31
+      "gas:candidate-vibid:1001000202303": 9,
+      "gas:candidate-vibid:235200070451": 9,
+      "gas:candidate-vibid:1001000225933": 162,
+      "gas:candidate-vibid:1001000121841": 43,
+      "gas:candidate-vibid:1001000136047": 12,
+      "gas:candidate-vibid:1001000195068": 3,
+      "special:against-all": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270670&region=0&sub_region=0&type=429",
@@ -8162,13 +8162,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 5,
-      "Костерева Светлана Семеновна": 8,
-      "Орголайнен Александр Арович": 156,
-      "Пономарев Александр Михайлович": 32,
-      "Сокова Людмила Николаевна": 7,
-      "Федотов-Любомирский Анатолий Юрьевич": 2,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000202303": 5,
+      "gas:candidate-vibid:235200070451": 8,
+      "gas:candidate-vibid:1001000225933": 156,
+      "gas:candidate-vibid:1001000121841": 32,
+      "gas:candidate-vibid:1001000136047": 7,
+      "gas:candidate-vibid:1001000195068": 2,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270670&region=0&sub_region=0&type=429",
@@ -8218,13 +8218,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 3,
-      "Костерева Светлана Семеновна": 5,
-      "Орголайнен Александр Арович": 121,
-      "Пономарев Александр Михайлович": 105,
-      "Сокова Людмила Николаевна": 12,
-      "Федотов-Любомирский Анатолий Юрьевич": 1,
-      "Против всех": 35
+      "gas:candidate-vibid:1001000202303": 3,
+      "gas:candidate-vibid:235200070451": 5,
+      "gas:candidate-vibid:1001000225933": 121,
+      "gas:candidate-vibid:1001000121841": 105,
+      "gas:candidate-vibid:1001000136047": 12,
+      "gas:candidate-vibid:1001000195068": 1,
+      "special:against-all": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270670&region=0&sub_region=0&type=429",
@@ -8274,13 +8274,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 20,
-      "Костерева Светлана Семеновна": 13,
-      "Орголайнен Александр Арович": 262,
-      "Пономарев Александр Михайлович": 56,
-      "Сокова Людмила Николаевна": 33,
-      "Федотов-Любомирский Анатолий Юрьевич": 6,
-      "Против всех": 36
+      "gas:candidate-vibid:1001000202303": 20,
+      "gas:candidate-vibid:235200070451": 13,
+      "gas:candidate-vibid:1001000225933": 262,
+      "gas:candidate-vibid:1001000121841": 56,
+      "gas:candidate-vibid:1001000136047": 33,
+      "gas:candidate-vibid:1001000195068": 6,
+      "special:against-all": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270670&region=0&sub_region=0&type=429",
@@ -8330,13 +8330,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 7,
-      "Костерева Светлана Семеновна": 8,
-      "Орголайнен Александр Арович": 136,
-      "Пономарев Александр Михайлович": 104,
-      "Сокова Людмила Николаевна": 25,
-      "Федотов-Любомирский Анатолий Юрьевич": 2,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000202303": 7,
+      "gas:candidate-vibid:235200070451": 8,
+      "gas:candidate-vibid:1001000225933": 136,
+      "gas:candidate-vibid:1001000121841": 104,
+      "gas:candidate-vibid:1001000136047": 25,
+      "gas:candidate-vibid:1001000195068": 2,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270670&region=0&sub_region=0&type=429",
@@ -8386,13 +8386,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 14,
-      "Костерева Светлана Семеновна": 22,
-      "Орголайнен Александр Арович": 280,
-      "Пономарев Александр Михайлович": 51,
-      "Сокова Людмила Николаевна": 22,
-      "Федотов-Любомирский Анатолий Юрьевич": 17,
-      "Против всех": 37
+      "gas:candidate-vibid:1001000202303": 14,
+      "gas:candidate-vibid:235200070451": 22,
+      "gas:candidate-vibid:1001000225933": 280,
+      "gas:candidate-vibid:1001000121841": 51,
+      "gas:candidate-vibid:1001000136047": 22,
+      "gas:candidate-vibid:1001000195068": 17,
+      "special:against-all": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270671&region=0&sub_region=0&type=429",
@@ -8442,13 +8442,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 15,
-      "Костерева Светлана Семеновна": 30,
-      "Орголайнен Александр Арович": 305,
-      "Пономарев Александр Михайлович": 51,
-      "Сокова Людмила Николаевна": 50,
-      "Федотов-Любомирский Анатолий Юрьевич": 11,
-      "Против всех": 90
+      "gas:candidate-vibid:1001000202303": 15,
+      "gas:candidate-vibid:235200070451": 30,
+      "gas:candidate-vibid:1001000225933": 305,
+      "gas:candidate-vibid:1001000121841": 51,
+      "gas:candidate-vibid:1001000136047": 50,
+      "gas:candidate-vibid:1001000195068": 11,
+      "special:against-all": 90
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270671&region=0&sub_region=0&type=429",
@@ -8498,13 +8498,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 10,
-      "Костерева Светлана Семеновна": 17,
-      "Орголайнен Александр Арович": 285,
-      "Пономарев Александр Михайлович": 94,
-      "Сокова Людмила Николаевна": 32,
-      "Федотов-Любомирский Анатолий Юрьевич": 15,
-      "Против всех": 42
+      "gas:candidate-vibid:1001000202303": 10,
+      "gas:candidate-vibid:235200070451": 17,
+      "gas:candidate-vibid:1001000225933": 285,
+      "gas:candidate-vibid:1001000121841": 94,
+      "gas:candidate-vibid:1001000136047": 32,
+      "gas:candidate-vibid:1001000195068": 15,
+      "special:against-all": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270671&region=0&sub_region=0&type=429",
@@ -8554,13 +8554,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 9,
-      "Костерева Светлана Семеновна": 6,
-      "Орголайнен Александр Арович": 59,
-      "Пономарев Александр Михайлович": 17,
-      "Сокова Людмила Николаевна": 12,
-      "Федотов-Любомирский Анатолий Юрьевич": 5,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000202303": 9,
+      "gas:candidate-vibid:235200070451": 6,
+      "gas:candidate-vibid:1001000225933": 59,
+      "gas:candidate-vibid:1001000121841": 17,
+      "gas:candidate-vibid:1001000136047": 12,
+      "gas:candidate-vibid:1001000195068": 5,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270671&region=0&sub_region=0&type=429",
@@ -8610,13 +8610,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 0,
-      "Костерева Светлана Семеновна": 9,
-      "Орголайнен Александр Арович": 30,
-      "Пономарев Александр Михайлович": 28,
-      "Сокова Людмила Николаевна": 16,
-      "Федотов-Любомирский Анатолий Юрьевич": 0,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000202303": 0,
+      "gas:candidate-vibid:235200070451": 9,
+      "gas:candidate-vibid:1001000225933": 30,
+      "gas:candidate-vibid:1001000121841": 28,
+      "gas:candidate-vibid:1001000136047": 16,
+      "gas:candidate-vibid:1001000195068": 0,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270671&region=0&sub_region=0&type=429",
@@ -8666,13 +8666,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 3,
-      "Костерева Светлана Семеновна": 5,
-      "Орголайнен Александр Арович": 99,
-      "Пономарев Александр Михайлович": 46,
-      "Сокова Людмила Николаевна": 13,
-      "Федотов-Любомирский Анатолий Юрьевич": 1,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000202303": 3,
+      "gas:candidate-vibid:235200070451": 5,
+      "gas:candidate-vibid:1001000225933": 99,
+      "gas:candidate-vibid:1001000121841": 46,
+      "gas:candidate-vibid:1001000136047": 13,
+      "gas:candidate-vibid:1001000195068": 1,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270671&region=0&sub_region=0&type=429",
@@ -8722,13 +8722,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 1,
-      "Костерева Светлана Семеновна": 5,
-      "Орголайнен Александр Арович": 88,
-      "Пономарев Александр Михайлович": 4,
-      "Сокова Людмила Николаевна": 8,
-      "Федотов-Любомирский Анатолий Юрьевич": 1,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000202303": 1,
+      "gas:candidate-vibid:235200070451": 5,
+      "gas:candidate-vibid:1001000225933": 88,
+      "gas:candidate-vibid:1001000121841": 4,
+      "gas:candidate-vibid:1001000136047": 8,
+      "gas:candidate-vibid:1001000195068": 1,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270671&region=0&sub_region=0&type=429",
@@ -8778,13 +8778,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 11,
-      "Костерева Светлана Семеновна": 8,
-      "Орголайнен Александр Арович": 161,
-      "Пономарев Александр Михайлович": 43,
-      "Сокова Людмила Николаевна": 25,
-      "Федотов-Любомирский Анатолий Юрьевич": 11,
-      "Против всех": 41
+      "gas:candidate-vibid:1001000202303": 11,
+      "gas:candidate-vibid:235200070451": 8,
+      "gas:candidate-vibid:1001000225933": 161,
+      "gas:candidate-vibid:1001000121841": 43,
+      "gas:candidate-vibid:1001000136047": 25,
+      "gas:candidate-vibid:1001000195068": 11,
+      "special:against-all": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270671&region=0&sub_region=0&type=429",
@@ -8834,13 +8834,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 2,
-      "Костерева Светлана Семеновна": 5,
-      "Орголайнен Александр Арович": 57,
-      "Пономарев Александр Михайлович": 11,
-      "Сокова Людмила Николаевна": 4,
-      "Федотов-Любомирский Анатолий Юрьевич": 1,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000202303": 2,
+      "gas:candidate-vibid:235200070451": 5,
+      "gas:candidate-vibid:1001000225933": 57,
+      "gas:candidate-vibid:1001000121841": 11,
+      "gas:candidate-vibid:1001000136047": 4,
+      "gas:candidate-vibid:1001000195068": 1,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270671&region=0&sub_region=0&type=429",
@@ -8890,13 +8890,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 4,
-      "Костерева Светлана Семеновна": 7,
-      "Орголайнен Александр Арович": 91,
-      "Пономарев Александр Михайлович": 16,
-      "Сокова Людмила Николаевна": 11,
-      "Федотов-Любомирский Анатолий Юрьевич": 1,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000202303": 4,
+      "gas:candidate-vibid:235200070451": 7,
+      "gas:candidate-vibid:1001000225933": 91,
+      "gas:candidate-vibid:1001000121841": 16,
+      "gas:candidate-vibid:1001000136047": 11,
+      "gas:candidate-vibid:1001000195068": 1,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270671&region=0&sub_region=0&type=429",
@@ -8946,13 +8946,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 4,
-      "Костерева Светлана Семеновна": 6,
-      "Орголайнен Александр Арович": 58,
-      "Пономарев Александр Михайлович": 11,
-      "Сокова Людмила Николаевна": 8,
-      "Федотов-Любомирский Анатолий Юрьевич": 3,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000202303": 4,
+      "gas:candidate-vibid:235200070451": 6,
+      "gas:candidate-vibid:1001000225933": 58,
+      "gas:candidate-vibid:1001000121841": 11,
+      "gas:candidate-vibid:1001000136047": 8,
+      "gas:candidate-vibid:1001000195068": 3,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270671&region=0&sub_region=0&type=429",
@@ -9002,13 +9002,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 3,
-      "Костерева Светлана Семеновна": 3,
-      "Орголайнен Александр Арович": 85,
-      "Пономарев Александр Михайлович": 50,
-      "Сокова Людмила Николаевна": 12,
-      "Федотов-Любомирский Анатолий Юрьевич": 2,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000202303": 3,
+      "gas:candidate-vibid:235200070451": 3,
+      "gas:candidate-vibid:1001000225933": 85,
+      "gas:candidate-vibid:1001000121841": 50,
+      "gas:candidate-vibid:1001000136047": 12,
+      "gas:candidate-vibid:1001000195068": 2,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270671&region=0&sub_region=0&type=429",
@@ -9058,13 +9058,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 6,
-      "Костерева Светлана Семеновна": 2,
-      "Орголайнен Александр Арович": 36,
-      "Пономарев Александр Михайлович": 21,
-      "Сокова Людмила Николаевна": 2,
-      "Федотов-Любомирский Анатолий Юрьевич": 1,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000202303": 6,
+      "gas:candidate-vibid:235200070451": 2,
+      "gas:candidate-vibid:1001000225933": 36,
+      "gas:candidate-vibid:1001000121841": 21,
+      "gas:candidate-vibid:1001000136047": 2,
+      "gas:candidate-vibid:1001000195068": 1,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270671&region=0&sub_region=0&type=429",
@@ -9114,13 +9114,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 12,
-      "Костерева Светлана Семеновна": 19,
-      "Орголайнен Александр Арович": 300,
-      "Пономарев Александр Михайлович": 70,
-      "Сокова Людмила Николаевна": 42,
-      "Федотов-Любомирский Анатолий Юрьевич": 10,
-      "Против всех": 69
+      "gas:candidate-vibid:1001000202303": 12,
+      "gas:candidate-vibid:235200070451": 19,
+      "gas:candidate-vibid:1001000225933": 300,
+      "gas:candidate-vibid:1001000121841": 70,
+      "gas:candidate-vibid:1001000136047": 42,
+      "gas:candidate-vibid:1001000195068": 10,
+      "special:against-all": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270671&region=0&sub_region=0&type=429",
@@ -9170,13 +9170,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 1,
-      "Костерева Светлана Семеновна": 8,
-      "Орголайнен Александр Арович": 97,
-      "Пономарев Александр Михайлович": 12,
-      "Сокова Людмила Николаевна": 23,
-      "Федотов-Любомирский Анатолий Юрьевич": 1,
-      "Против всех": 31
+      "gas:candidate-vibid:1001000202303": 1,
+      "gas:candidate-vibid:235200070451": 8,
+      "gas:candidate-vibid:1001000225933": 97,
+      "gas:candidate-vibid:1001000121841": 12,
+      "gas:candidate-vibid:1001000136047": 23,
+      "gas:candidate-vibid:1001000195068": 1,
+      "special:against-all": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270671&region=0&sub_region=0&type=429",
@@ -9226,13 +9226,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 46,
-      "Костерева Светлана Семеновна": 65,
-      "Орголайнен Александр Арович": 635,
-      "Пономарев Александр Михайлович": 173,
-      "Сокова Людмила Николаевна": 98,
-      "Федотов-Любомирский Анатолий Юрьевич": 44,
-      "Против всех": 175
+      "gas:candidate-vibid:1001000202303": 46,
+      "gas:candidate-vibid:235200070451": 65,
+      "gas:candidate-vibid:1001000225933": 635,
+      "gas:candidate-vibid:1001000121841": 173,
+      "gas:candidate-vibid:1001000136047": 98,
+      "gas:candidate-vibid:1001000195068": 44,
+      "special:against-all": 175
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270671&region=0&sub_region=0&type=429",
@@ -9282,13 +9282,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 14,
-      "Костерева Светлана Семеновна": 14,
-      "Орголайнен Александр Арович": 361,
-      "Пономарев Александр Михайлович": 84,
-      "Сокова Людмила Николаевна": 39,
-      "Федотов-Любомирский Анатолий Юрьевич": 15,
-      "Против всех": 81
+      "gas:candidate-vibid:1001000202303": 14,
+      "gas:candidate-vibid:235200070451": 14,
+      "gas:candidate-vibid:1001000225933": 361,
+      "gas:candidate-vibid:1001000121841": 84,
+      "gas:candidate-vibid:1001000136047": 39,
+      "gas:candidate-vibid:1001000195068": 15,
+      "special:against-all": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270671&region=0&sub_region=0&type=429",
@@ -9338,13 +9338,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 3,
-      "Костерева Светлана Семеновна": 5,
-      "Орголайнен Александр Арович": 95,
-      "Пономарев Александр Михайлович": 24,
-      "Сокова Людмила Николаевна": 7,
-      "Федотов-Любомирский Анатолий Юрьевич": 4,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000202303": 3,
+      "gas:candidate-vibid:235200070451": 5,
+      "gas:candidate-vibid:1001000225933": 95,
+      "gas:candidate-vibid:1001000121841": 24,
+      "gas:candidate-vibid:1001000136047": 7,
+      "gas:candidate-vibid:1001000195068": 4,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270671&region=0&sub_region=0&type=429",
@@ -9394,13 +9394,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 7,
-      "Костерева Светлана Семеновна": 8,
-      "Орголайнен Александр Арович": 113,
-      "Пономарев Александр Михайлович": 16,
-      "Сокова Людмила Николаевна": 6,
-      "Федотов-Любомирский Анатолий Юрьевич": 1,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000202303": 7,
+      "gas:candidate-vibid:235200070451": 8,
+      "gas:candidate-vibid:1001000225933": 113,
+      "gas:candidate-vibid:1001000121841": 16,
+      "gas:candidate-vibid:1001000136047": 6,
+      "gas:candidate-vibid:1001000195068": 1,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270671&region=0&sub_region=0&type=429",
@@ -9450,13 +9450,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 20,
-      "Костерева Светлана Семеновна": 39,
-      "Орголайнен Александр Арович": 592,
-      "Пономарев Александр Михайлович": 109,
-      "Сокова Людмила Николаевна": 48,
-      "Федотов-Любомирский Анатолий Юрьевич": 61,
-      "Против всех": 164
+      "gas:candidate-vibid:1001000202303": 20,
+      "gas:candidate-vibid:235200070451": 39,
+      "gas:candidate-vibid:1001000225933": 592,
+      "gas:candidate-vibid:1001000121841": 109,
+      "gas:candidate-vibid:1001000136047": 48,
+      "gas:candidate-vibid:1001000195068": 61,
+      "special:against-all": 164
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270671&region=0&sub_region=0&type=429",
@@ -9506,13 +9506,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 3,
-      "Костерева Светлана Семеновна": 12,
-      "Орголайнен Александр Арович": 183,
-      "Пономарев Александр Михайлович": 45,
-      "Сокова Людмила Николаевна": 12,
-      "Федотов-Любомирский Анатолий Юрьевич": 2,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000202303": 3,
+      "gas:candidate-vibid:235200070451": 12,
+      "gas:candidate-vibid:1001000225933": 183,
+      "gas:candidate-vibid:1001000121841": 45,
+      "gas:candidate-vibid:1001000136047": 12,
+      "gas:candidate-vibid:1001000195068": 2,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270671&region=0&sub_region=0&type=429",
@@ -9562,13 +9562,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 1,
-      "Костерева Светлана Семеновна": 3,
-      "Орголайнен Александр Арович": 92,
-      "Пономарев Александр Михайлович": 7,
-      "Сокова Людмила Николаевна": 6,
-      "Федотов-Любомирский Анатолий Юрьевич": 2,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000202303": 1,
+      "gas:candidate-vibid:235200070451": 3,
+      "gas:candidate-vibid:1001000225933": 92,
+      "gas:candidate-vibid:1001000121841": 7,
+      "gas:candidate-vibid:1001000136047": 6,
+      "gas:candidate-vibid:1001000195068": 2,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270671&region=0&sub_region=0&type=429",
@@ -9618,13 +9618,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 0,
-      "Костерева Светлана Семеновна": 0,
-      "Орголайнен Александр Арович": 56,
-      "Пономарев Александр Михайлович": 22,
-      "Сокова Людмила Николаевна": 3,
-      "Федотов-Любомирский Анатолий Юрьевич": 2,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000202303": 0,
+      "gas:candidate-vibid:235200070451": 0,
+      "gas:candidate-vibid:1001000225933": 56,
+      "gas:candidate-vibid:1001000121841": 22,
+      "gas:candidate-vibid:1001000136047": 3,
+      "gas:candidate-vibid:1001000195068": 2,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270671&region=0&sub_region=0&type=429",
@@ -9674,13 +9674,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 1,
-      "Костерева Светлана Семеновна": 2,
-      "Орголайнен Александр Арович": 76,
-      "Пономарев Александр Михайлович": 18,
-      "Сокова Людмила Николаевна": 3,
-      "Федотов-Любомирский Анатолий Юрьевич": 5,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000202303": 1,
+      "gas:candidate-vibid:235200070451": 2,
+      "gas:candidate-vibid:1001000225933": 76,
+      "gas:candidate-vibid:1001000121841": 18,
+      "gas:candidate-vibid:1001000136047": 3,
+      "gas:candidate-vibid:1001000195068": 5,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270671&region=0&sub_region=0&type=429",
@@ -9730,13 +9730,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 9,
-      "Костерева Светлана Семеновна": 19,
-      "Орголайнен Александр Арович": 248,
-      "Пономарев Александр Михайлович": 56,
-      "Сокова Людмила Николаевна": 38,
-      "Федотов-Любомирский Анатолий Юрьевич": 18,
-      "Против всех": 44
+      "gas:candidate-vibid:1001000202303": 9,
+      "gas:candidate-vibid:235200070451": 19,
+      "gas:candidate-vibid:1001000225933": 248,
+      "gas:candidate-vibid:1001000121841": 56,
+      "gas:candidate-vibid:1001000136047": 38,
+      "gas:candidate-vibid:1001000195068": 18,
+      "special:against-all": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270671&region=0&sub_region=0&type=429",
@@ -9786,13 +9786,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 12,
-      "Костерева Светлана Семеновна": 7,
-      "Орголайнен Александр Арович": 141,
-      "Пономарев Александр Михайлович": 19,
-      "Сокова Людмила Николаевна": 9,
-      "Федотов-Любомирский Анатолий Юрьевич": 1,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000202303": 12,
+      "gas:candidate-vibid:235200070451": 7,
+      "gas:candidate-vibid:1001000225933": 141,
+      "gas:candidate-vibid:1001000121841": 19,
+      "gas:candidate-vibid:1001000136047": 9,
+      "gas:candidate-vibid:1001000195068": 1,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270671&region=0&sub_region=0&type=429",
@@ -9842,13 +9842,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 18,
-      "Костерева Светлана Семеновна": 43,
-      "Орголайнен Александр Арович": 234,
-      "Пономарев Александр Михайлович": 61,
-      "Сокова Людмила Николаевна": 49,
-      "Федотов-Любомирский Анатолий Юрьевич": 7,
-      "Против всех": 92
+      "gas:candidate-vibid:1001000202303": 18,
+      "gas:candidate-vibid:235200070451": 43,
+      "gas:candidate-vibid:1001000225933": 234,
+      "gas:candidate-vibid:1001000121841": 61,
+      "gas:candidate-vibid:1001000136047": 49,
+      "gas:candidate-vibid:1001000195068": 7,
+      "special:against-all": 92
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270671&region=0&sub_region=0&type=429",
@@ -9898,13 +9898,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 6,
-      "Костерева Светлана Семеновна": 15,
-      "Орголайнен Александр Арович": 61,
-      "Пономарев Александр Михайлович": 9,
-      "Сокова Людмила Николаевна": 12,
-      "Федотов-Любомирский Анатолий Юрьевич": 2,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000202303": 6,
+      "gas:candidate-vibid:235200070451": 15,
+      "gas:candidate-vibid:1001000225933": 61,
+      "gas:candidate-vibid:1001000121841": 9,
+      "gas:candidate-vibid:1001000136047": 12,
+      "gas:candidate-vibid:1001000195068": 2,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270671&region=0&sub_region=0&type=429",
@@ -9954,13 +9954,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 4,
-      "Костерева Светлана Семеновна": 6,
-      "Орголайнен Александр Арович": 112,
-      "Пономарев Александр Михайлович": 27,
-      "Сокова Людмила Николаевна": 6,
-      "Федотов-Любомирский Анатолий Юрьевич": 6,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000202303": 4,
+      "gas:candidate-vibid:235200070451": 6,
+      "gas:candidate-vibid:1001000225933": 112,
+      "gas:candidate-vibid:1001000121841": 27,
+      "gas:candidate-vibid:1001000136047": 6,
+      "gas:candidate-vibid:1001000195068": 6,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270671&region=0&sub_region=0&type=429",
@@ -10010,13 +10010,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 4,
-      "Костерева Светлана Семеновна": 6,
-      "Орголайнен Александр Арович": 117,
-      "Пономарев Александр Михайлович": 15,
-      "Сокова Людмила Николаевна": 4,
-      "Федотов-Любомирский Анатолий Юрьевич": 4,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000202303": 4,
+      "gas:candidate-vibid:235200070451": 6,
+      "gas:candidate-vibid:1001000225933": 117,
+      "gas:candidate-vibid:1001000121841": 15,
+      "gas:candidate-vibid:1001000136047": 4,
+      "gas:candidate-vibid:1001000195068": 4,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270671&region=0&sub_region=0&type=429",
@@ -10066,13 +10066,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 1,
-      "Костерева Светлана Семеновна": 7,
-      "Орголайнен Александр Арович": 82,
-      "Пономарев Александр Михайлович": 22,
-      "Сокова Людмила Николаевна": 9,
-      "Федотов-Любомирский Анатолий Юрьевич": 3,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000202303": 1,
+      "gas:candidate-vibid:235200070451": 7,
+      "gas:candidate-vibid:1001000225933": 82,
+      "gas:candidate-vibid:1001000121841": 22,
+      "gas:candidate-vibid:1001000136047": 9,
+      "gas:candidate-vibid:1001000195068": 3,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270671&region=0&sub_region=0&type=429",
@@ -10122,13 +10122,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 3,
-      "Костерева Светлана Семеновна": 7,
-      "Орголайнен Александр Арович": 80,
-      "Пономарев Александр Михайлович": 6,
-      "Сокова Людмила Николаевна": 7,
-      "Федотов-Любомирский Анатолий Юрьевич": 2,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000202303": 3,
+      "gas:candidate-vibid:235200070451": 7,
+      "gas:candidate-vibid:1001000225933": 80,
+      "gas:candidate-vibid:1001000121841": 6,
+      "gas:candidate-vibid:1001000136047": 7,
+      "gas:candidate-vibid:1001000195068": 2,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270671&region=0&sub_region=0&type=429",
@@ -10178,13 +10178,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 19,
-      "Костерева Светлана Семеновна": 51,
-      "Орголайнен Александр Арович": 392,
-      "Пономарев Александр Михайлович": 115,
-      "Сокова Людмила Николаевна": 72,
-      "Федотов-Любомирский Анатолий Юрьевич": 16,
-      "Против всех": 129
+      "gas:candidate-vibid:1001000202303": 19,
+      "gas:candidate-vibid:235200070451": 51,
+      "gas:candidate-vibid:1001000225933": 392,
+      "gas:candidate-vibid:1001000121841": 115,
+      "gas:candidate-vibid:1001000136047": 72,
+      "gas:candidate-vibid:1001000195068": 16,
+      "special:against-all": 129
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270671&region=0&sub_region=0&type=429",
@@ -10234,13 +10234,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 21,
-      "Костерева Светлана Семеновна": 40,
-      "Орголайнен Александр Арович": 385,
-      "Пономарев Александр Михайлович": 121,
-      "Сокова Людмила Николаевна": 63,
-      "Федотов-Любомирский Анатолий Юрьевич": 15,
-      "Против всех": 93
+      "gas:candidate-vibid:1001000202303": 21,
+      "gas:candidate-vibid:235200070451": 40,
+      "gas:candidate-vibid:1001000225933": 385,
+      "gas:candidate-vibid:1001000121841": 121,
+      "gas:candidate-vibid:1001000136047": 63,
+      "gas:candidate-vibid:1001000195068": 15,
+      "special:against-all": 93
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270671&region=0&sub_region=0&type=429",
@@ -10290,13 +10290,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 10,
-      "Костерева Светлана Семеновна": 52,
-      "Орголайнен Александр Арович": 444,
-      "Пономарев Александр Михайлович": 91,
-      "Сокова Людмила Николаевна": 60,
-      "Федотов-Любомирский Анатолий Юрьевич": 19,
-      "Против всех": 96
+      "gas:candidate-vibid:1001000202303": 10,
+      "gas:candidate-vibid:235200070451": 52,
+      "gas:candidate-vibid:1001000225933": 444,
+      "gas:candidate-vibid:1001000121841": 91,
+      "gas:candidate-vibid:1001000136047": 60,
+      "gas:candidate-vibid:1001000195068": 19,
+      "special:against-all": 96
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270671&region=0&sub_region=0&type=429",
@@ -10346,13 +10346,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 1,
-      "Костерева Светлана Семеновна": 4,
-      "Орголайнен Александр Арович": 78,
-      "Пономарев Александр Михайлович": 6,
-      "Сокова Людмила Николаевна": 9,
-      "Федотов-Любомирский Анатолий Юрьевич": 2,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000202303": 1,
+      "gas:candidate-vibid:235200070451": 4,
+      "gas:candidate-vibid:1001000225933": 78,
+      "gas:candidate-vibid:1001000121841": 6,
+      "gas:candidate-vibid:1001000136047": 9,
+      "gas:candidate-vibid:1001000195068": 2,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270671&region=0&sub_region=0&type=429",
@@ -10402,13 +10402,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 3,
-      "Костерева Светлана Семеновна": 6,
-      "Орголайнен Александр Арович": 62,
-      "Пономарев Александр Михайлович": 13,
-      "Сокова Людмила Николаевна": 6,
-      "Федотов-Любомирский Анатолий Юрьевич": 1,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000202303": 3,
+      "gas:candidate-vibid:235200070451": 6,
+      "gas:candidate-vibid:1001000225933": 62,
+      "gas:candidate-vibid:1001000121841": 13,
+      "gas:candidate-vibid:1001000136047": 6,
+      "gas:candidate-vibid:1001000195068": 1,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270671&region=0&sub_region=0&type=429",
@@ -10458,13 +10458,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 6,
-      "Костерева Светлана Семеновна": 5,
-      "Орголайнен Александр Арович": 106,
-      "Пономарев Александр Михайлович": 33,
-      "Сокова Людмила Николаевна": 11,
-      "Федотов-Любомирский Анатолий Юрьевич": 2,
-      "Против всех": 26
+      "gas:candidate-vibid:1001000202303": 6,
+      "gas:candidate-vibid:235200070451": 5,
+      "gas:candidate-vibid:1001000225933": 106,
+      "gas:candidate-vibid:1001000121841": 33,
+      "gas:candidate-vibid:1001000136047": 11,
+      "gas:candidate-vibid:1001000195068": 2,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270671&region=0&sub_region=0&type=429",
@@ -10514,13 +10514,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 5,
-      "Костерева Светлана Семеновна": 4,
-      "Орголайнен Александр Арович": 126,
-      "Пономарев Александр Михайлович": 34,
-      "Сокова Людмила Николаевна": 5,
-      "Федотов-Любомирский Анатолий Юрьевич": 4,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000202303": 5,
+      "gas:candidate-vibid:235200070451": 4,
+      "gas:candidate-vibid:1001000225933": 126,
+      "gas:candidate-vibid:1001000121841": 34,
+      "gas:candidate-vibid:1001000136047": 5,
+      "gas:candidate-vibid:1001000195068": 4,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270671&region=0&sub_region=0&type=429",
@@ -10570,13 +10570,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 4,
-      "Костерева Светлана Семеновна": 4,
-      "Орголайнен Александр Арович": 65,
-      "Пономарев Александр Михайлович": 18,
-      "Сокова Людмила Николаевна": 7,
-      "Федотов-Любомирский Анатолий Юрьевич": 8,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000202303": 4,
+      "gas:candidate-vibid:235200070451": 4,
+      "gas:candidate-vibid:1001000225933": 65,
+      "gas:candidate-vibid:1001000121841": 18,
+      "gas:candidate-vibid:1001000136047": 7,
+      "gas:candidate-vibid:1001000195068": 8,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270671&region=0&sub_region=0&type=429",
@@ -10626,13 +10626,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 8,
-      "Костерева Светлана Семеновна": 8,
-      "Орголайнен Александр Арович": 130,
-      "Пономарев Александр Михайлович": 87,
-      "Сокова Людмила Николаевна": 19,
-      "Федотов-Любомирский Анатолий Юрьевич": 4,
-      "Против всех": 29
+      "gas:candidate-vibid:1001000202303": 8,
+      "gas:candidate-vibid:235200070451": 8,
+      "gas:candidate-vibid:1001000225933": 130,
+      "gas:candidate-vibid:1001000121841": 87,
+      "gas:candidate-vibid:1001000136047": 19,
+      "gas:candidate-vibid:1001000195068": 4,
+      "special:against-all": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270671&region=0&sub_region=0&type=429",
@@ -10682,13 +10682,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 2,
-      "Костерева Светлана Семеновна": 3,
-      "Орголайнен Александр Арович": 203,
-      "Пономарев Александр Михайлович": 27,
-      "Сокова Людмила Николаевна": 10,
-      "Федотов-Любомирский Анатолий Юрьевич": 2,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000202303": 2,
+      "gas:candidate-vibid:235200070451": 3,
+      "gas:candidate-vibid:1001000225933": 203,
+      "gas:candidate-vibid:1001000121841": 27,
+      "gas:candidate-vibid:1001000136047": 10,
+      "gas:candidate-vibid:1001000195068": 2,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270671&region=0&sub_region=0&type=429",
@@ -10738,13 +10738,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 7,
-      "Костерева Светлана Семеновна": 10,
-      "Орголайнен Александр Арович": 147,
-      "Пономарев Александр Михайлович": 35,
-      "Сокова Людмила Николаевна": 15,
-      "Федотов-Любомирский Анатолий Юрьевич": 3,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000202303": 7,
+      "gas:candidate-vibid:235200070451": 10,
+      "gas:candidate-vibid:1001000225933": 147,
+      "gas:candidate-vibid:1001000121841": 35,
+      "gas:candidate-vibid:1001000136047": 15,
+      "gas:candidate-vibid:1001000195068": 3,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270671&region=0&sub_region=0&type=429",
@@ -10794,13 +10794,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 3,
-      "Костерева Светлана Семеновна": 2,
-      "Орголайнен Александр Арович": 201,
-      "Пономарев Александр Михайлович": 33,
-      "Сокова Людмила Николаевна": 20,
-      "Федотов-Любомирский Анатолий Юрьевич": 2,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000202303": 3,
+      "gas:candidate-vibid:235200070451": 2,
+      "gas:candidate-vibid:1001000225933": 201,
+      "gas:candidate-vibid:1001000121841": 33,
+      "gas:candidate-vibid:1001000136047": 20,
+      "gas:candidate-vibid:1001000195068": 2,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270671&region=0&sub_region=0&type=429",
@@ -10850,13 +10850,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 8,
-      "Костерева Светлана Семеновна": 14,
-      "Орголайнен Александр Арович": 154,
-      "Пономарев Александр Михайлович": 48,
-      "Сокова Людмила Николаевна": 21,
-      "Федотов-Любомирский Анатолий Юрьевич": 4,
-      "Против всех": 25
+      "gas:candidate-vibid:1001000202303": 8,
+      "gas:candidate-vibid:235200070451": 14,
+      "gas:candidate-vibid:1001000225933": 154,
+      "gas:candidate-vibid:1001000121841": 48,
+      "gas:candidate-vibid:1001000136047": 21,
+      "gas:candidate-vibid:1001000195068": 4,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270671&region=0&sub_region=0&type=429",
@@ -10906,13 +10906,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 3,
-      "Костерева Светлана Семеновна": 13,
-      "Орголайнен Александр Арович": 115,
-      "Пономарев Александр Михайлович": 33,
-      "Сокова Людмила Николаевна": 21,
-      "Федотов-Любомирский Анатолий Юрьевич": 6,
-      "Против всех": 41
+      "gas:candidate-vibid:1001000202303": 3,
+      "gas:candidate-vibid:235200070451": 13,
+      "gas:candidate-vibid:1001000225933": 115,
+      "gas:candidate-vibid:1001000121841": 33,
+      "gas:candidate-vibid:1001000136047": 21,
+      "gas:candidate-vibid:1001000195068": 6,
+      "special:against-all": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270671&region=0&sub_region=0&type=429",
@@ -10962,13 +10962,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 2,
-      "Костерева Светлана Семеновна": 2,
-      "Орголайнен Александр Арович": 147,
-      "Пономарев Александр Михайлович": 53,
-      "Сокова Людмила Николаевна": 18,
-      "Федотов-Любомирский Анатолий Юрьевич": 4,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000202303": 2,
+      "gas:candidate-vibid:235200070451": 2,
+      "gas:candidate-vibid:1001000225933": 147,
+      "gas:candidate-vibid:1001000121841": 53,
+      "gas:candidate-vibid:1001000136047": 18,
+      "gas:candidate-vibid:1001000195068": 4,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270671&region=0&sub_region=0&type=429",
@@ -11018,13 +11018,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 1,
-      "Костерева Светлана Семеновна": 5,
-      "Орголайнен Александр Арович": 22,
-      "Пономарев Александр Михайлович": 12,
-      "Сокова Людмила Николаевна": 6,
-      "Федотов-Любомирский Анатолий Юрьевич": 5,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000202303": 1,
+      "gas:candidate-vibid:235200070451": 5,
+      "gas:candidate-vibid:1001000225933": 22,
+      "gas:candidate-vibid:1001000121841": 12,
+      "gas:candidate-vibid:1001000136047": 6,
+      "gas:candidate-vibid:1001000195068": 5,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270671&region=0&sub_region=0&type=429",
@@ -11074,13 +11074,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 1,
-      "Костерева Светлана Семеновна": 2,
-      "Орголайнен Александр Арович": 89,
-      "Пономарев Александр Михайлович": 7,
-      "Сокова Людмила Николаевна": 11,
-      "Федотов-Любомирский Анатолий Юрьевич": 2,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000202303": 1,
+      "gas:candidate-vibid:235200070451": 2,
+      "gas:candidate-vibid:1001000225933": 89,
+      "gas:candidate-vibid:1001000121841": 7,
+      "gas:candidate-vibid:1001000136047": 11,
+      "gas:candidate-vibid:1001000195068": 2,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270671&region=0&sub_region=0&type=429",
@@ -11130,13 +11130,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 2,
-      "Костерева Светлана Семеновна": 11,
-      "Орголайнен Александр Арович": 155,
-      "Пономарев Александр Михайлович": 43,
-      "Сокова Людмила Николаевна": 14,
-      "Федотов-Любомирский Анатолий Юрьевич": 1,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000202303": 2,
+      "gas:candidate-vibid:235200070451": 11,
+      "gas:candidate-vibid:1001000225933": 155,
+      "gas:candidate-vibid:1001000121841": 43,
+      "gas:candidate-vibid:1001000136047": 14,
+      "gas:candidate-vibid:1001000195068": 1,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270671&region=0&sub_region=0&type=429",
@@ -11186,13 +11186,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 32,
-      "Костерева Светлана Семеновна": 51,
-      "Орголайнен Александр Арович": 479,
-      "Пономарев Александр Михайлович": 214,
-      "Сокова Людмила Николаевна": 84,
-      "Федотов-Любомирский Анатолий Юрьевич": 33,
-      "Против всех": 185
+      "gas:candidate-vibid:1001000202303": 32,
+      "gas:candidate-vibid:235200070451": 51,
+      "gas:candidate-vibid:1001000225933": 479,
+      "gas:candidate-vibid:1001000121841": 214,
+      "gas:candidate-vibid:1001000136047": 84,
+      "gas:candidate-vibid:1001000195068": 33,
+      "special:against-all": 185
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270671&region=0&sub_region=0&type=429",
@@ -11242,13 +11242,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 15,
-      "Костерева Светлана Семеновна": 41,
-      "Орголайнен Александр Арович": 382,
-      "Пономарев Александр Михайлович": 82,
-      "Сокова Людмила Николаевна": 72,
-      "Федотов-Любомирский Анатолий Юрьевич": 27,
-      "Против всех": 142
+      "gas:candidate-vibid:1001000202303": 15,
+      "gas:candidate-vibid:235200070451": 41,
+      "gas:candidate-vibid:1001000225933": 382,
+      "gas:candidate-vibid:1001000121841": 82,
+      "gas:candidate-vibid:1001000136047": 72,
+      "gas:candidate-vibid:1001000195068": 27,
+      "special:against-all": 142
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270671&region=0&sub_region=0&type=429",
@@ -11298,13 +11298,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 22,
-      "Костерева Светлана Семеновна": 39,
-      "Орголайнен Александр Арович": 489,
-      "Пономарев Александр Михайлович": 98,
-      "Сокова Людмила Николаевна": 100,
-      "Федотов-Любомирский Анатолий Юрьевич": 24,
-      "Против всех": 157
+      "gas:candidate-vibid:1001000202303": 22,
+      "gas:candidate-vibid:235200070451": 39,
+      "gas:candidate-vibid:1001000225933": 489,
+      "gas:candidate-vibid:1001000121841": 98,
+      "gas:candidate-vibid:1001000136047": 100,
+      "gas:candidate-vibid:1001000195068": 24,
+      "special:against-all": 157
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270671&region=0&sub_region=0&type=429",
@@ -11354,13 +11354,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 9,
-      "Костерева Светлана Семеновна": 13,
-      "Орголайнен Александр Арович": 127,
-      "Пономарев Александр Михайлович": 38,
-      "Сокова Людмила Николаевна": 35,
-      "Федотов-Любомирский Анатолий Юрьевич": 6,
-      "Против всех": 49
+      "gas:candidate-vibid:1001000202303": 9,
+      "gas:candidate-vibid:235200070451": 13,
+      "gas:candidate-vibid:1001000225933": 127,
+      "gas:candidate-vibid:1001000121841": 38,
+      "gas:candidate-vibid:1001000136047": 35,
+      "gas:candidate-vibid:1001000195068": 6,
+      "special:against-all": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270671&region=0&sub_region=0&type=429",
@@ -11410,13 +11410,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 38,
-      "Костерева Светлана Семеновна": 92,
-      "Орголайнен Александр Арович": 674,
-      "Пономарев Александр Михайлович": 130,
-      "Сокова Людмила Николаевна": 146,
-      "Федотов-Любомирский Анатолий Юрьевич": 23,
-      "Против всех": 274
+      "gas:candidate-vibid:1001000202303": 38,
+      "gas:candidate-vibid:235200070451": 92,
+      "gas:candidate-vibid:1001000225933": 674,
+      "gas:candidate-vibid:1001000121841": 130,
+      "gas:candidate-vibid:1001000136047": 146,
+      "gas:candidate-vibid:1001000195068": 23,
+      "special:against-all": 274
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270672&region=0&sub_region=0&type=429",
@@ -11466,13 +11466,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 19,
-      "Костерева Светлана Семеновна": 77,
-      "Орголайнен Александр Арович": 591,
-      "Пономарев Александр Михайлович": 185,
-      "Сокова Людмила Николаевна": 124,
-      "Федотов-Любомирский Анатолий Юрьевич": 23,
-      "Против всех": 224
+      "gas:candidate-vibid:1001000202303": 19,
+      "gas:candidate-vibid:235200070451": 77,
+      "gas:candidate-vibid:1001000225933": 591,
+      "gas:candidate-vibid:1001000121841": 185,
+      "gas:candidate-vibid:1001000136047": 124,
+      "gas:candidate-vibid:1001000195068": 23,
+      "special:against-all": 224
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270672&region=0&sub_region=0&type=429",
@@ -11522,13 +11522,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 16,
-      "Костерева Светлана Семеновна": 78,
-      "Орголайнен Александр Арович": 505,
-      "Пономарев Александр Михайлович": 185,
-      "Сокова Людмила Николаевна": 163,
-      "Федотов-Любомирский Анатолий Юрьевич": 17,
-      "Против всех": 213
+      "gas:candidate-vibid:1001000202303": 16,
+      "gas:candidate-vibid:235200070451": 78,
+      "gas:candidate-vibid:1001000225933": 505,
+      "gas:candidate-vibid:1001000121841": 185,
+      "gas:candidate-vibid:1001000136047": 163,
+      "gas:candidate-vibid:1001000195068": 17,
+      "special:against-all": 213
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270672&region=0&sub_region=0&type=429",
@@ -11578,13 +11578,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 21,
-      "Костерева Светлана Семеновна": 75,
-      "Орголайнен Александр Арович": 555,
-      "Пономарев Александр Михайлович": 155,
-      "Сокова Людмила Николаевна": 148,
-      "Федотов-Любомирский Анатолий Юрьевич": 16,
-      "Против всех": 232
+      "gas:candidate-vibid:1001000202303": 21,
+      "gas:candidate-vibid:235200070451": 75,
+      "gas:candidate-vibid:1001000225933": 555,
+      "gas:candidate-vibid:1001000121841": 155,
+      "gas:candidate-vibid:1001000136047": 148,
+      "gas:candidate-vibid:1001000195068": 16,
+      "special:against-all": 232
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270672&region=0&sub_region=0&type=429",
@@ -11634,13 +11634,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 15,
-      "Костерева Светлана Семеновна": 77,
-      "Орголайнен Александр Арович": 643,
-      "Пономарев Александр Михайлович": 160,
-      "Сокова Людмила Николаевна": 167,
-      "Федотов-Любомирский Анатолий Юрьевич": 24,
-      "Против всех": 256
+      "gas:candidate-vibid:1001000202303": 15,
+      "gas:candidate-vibid:235200070451": 77,
+      "gas:candidate-vibid:1001000225933": 643,
+      "gas:candidate-vibid:1001000121841": 160,
+      "gas:candidate-vibid:1001000136047": 167,
+      "gas:candidate-vibid:1001000195068": 24,
+      "special:against-all": 256
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270672&region=0&sub_region=0&type=429",
@@ -11690,13 +11690,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 28,
-      "Костерева Светлана Семеновна": 74,
-      "Орголайнен Александр Арович": 590,
-      "Пономарев Александр Михайлович": 158,
-      "Сокова Людмила Николаевна": 152,
-      "Федотов-Любомирский Анатолий Юрьевич": 21,
-      "Против всех": 260
+      "gas:candidate-vibid:1001000202303": 28,
+      "gas:candidate-vibid:235200070451": 74,
+      "gas:candidate-vibid:1001000225933": 590,
+      "gas:candidate-vibid:1001000121841": 158,
+      "gas:candidate-vibid:1001000136047": 152,
+      "gas:candidate-vibid:1001000195068": 21,
+      "special:against-all": 260
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270672&region=0&sub_region=0&type=429",
@@ -11746,13 +11746,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 31,
-      "Костерева Светлана Семеновна": 94,
-      "Орголайнен Александр Арович": 685,
-      "Пономарев Александр Михайлович": 174,
-      "Сокова Людмила Николаевна": 160,
-      "Федотов-Любомирский Анатолий Юрьевич": 17,
-      "Против всех": 278
+      "gas:candidate-vibid:1001000202303": 31,
+      "gas:candidate-vibid:235200070451": 94,
+      "gas:candidate-vibid:1001000225933": 685,
+      "gas:candidate-vibid:1001000121841": 174,
+      "gas:candidate-vibid:1001000136047": 160,
+      "gas:candidate-vibid:1001000195068": 17,
+      "special:against-all": 278
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270672&region=0&sub_region=0&type=429",
@@ -11802,13 +11802,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 14,
-      "Костерева Светлана Семеновна": 75,
-      "Орголайнен Александр Арович": 599,
-      "Пономарев Александр Михайлович": 126,
-      "Сокова Людмила Николаевна": 181,
-      "Федотов-Любомирский Анатолий Юрьевич": 18,
-      "Против всех": 307
+      "gas:candidate-vibid:1001000202303": 14,
+      "gas:candidate-vibid:235200070451": 75,
+      "gas:candidate-vibid:1001000225933": 599,
+      "gas:candidate-vibid:1001000121841": 126,
+      "gas:candidate-vibid:1001000136047": 181,
+      "gas:candidate-vibid:1001000195068": 18,
+      "special:against-all": 307
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270672&region=0&sub_region=0&type=429",
@@ -11858,13 +11858,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 23,
-      "Костерева Светлана Семеновна": 93,
-      "Орголайнен Александр Арович": 578,
-      "Пономарев Александр Михайлович": 165,
-      "Сокова Людмила Николаевна": 164,
-      "Федотов-Любомирский Анатолий Юрьевич": 15,
-      "Против всех": 228
+      "gas:candidate-vibid:1001000202303": 23,
+      "gas:candidate-vibid:235200070451": 93,
+      "gas:candidate-vibid:1001000225933": 578,
+      "gas:candidate-vibid:1001000121841": 165,
+      "gas:candidate-vibid:1001000136047": 164,
+      "gas:candidate-vibid:1001000195068": 15,
+      "special:against-all": 228
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270672&region=0&sub_region=0&type=429",
@@ -11914,13 +11914,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 31,
-      "Костерева Светлана Семеновна": 92,
-      "Орголайнен Александр Арович": 658,
-      "Пономарев Александр Михайлович": 177,
-      "Сокова Людмила Николаевна": 160,
-      "Федотов-Любомирский Анатолий Юрьевич": 15,
-      "Против всех": 298
+      "gas:candidate-vibid:1001000202303": 31,
+      "gas:candidate-vibid:235200070451": 92,
+      "gas:candidate-vibid:1001000225933": 658,
+      "gas:candidate-vibid:1001000121841": 177,
+      "gas:candidate-vibid:1001000136047": 160,
+      "gas:candidate-vibid:1001000195068": 15,
+      "special:against-all": 298
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270672&region=0&sub_region=0&type=429",
@@ -11970,13 +11970,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 26,
-      "Костерева Светлана Семеновна": 36,
-      "Орголайнен Александр Арович": 241,
-      "Пономарев Александр Михайлович": 52,
-      "Сокова Людмила Николаевна": 66,
-      "Федотов-Любомирский Анатолий Юрьевич": 16,
-      "Против всех": 72
+      "gas:candidate-vibid:1001000202303": 26,
+      "gas:candidate-vibid:235200070451": 36,
+      "gas:candidate-vibid:1001000225933": 241,
+      "gas:candidate-vibid:1001000121841": 52,
+      "gas:candidate-vibid:1001000136047": 66,
+      "gas:candidate-vibid:1001000195068": 16,
+      "special:against-all": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270672&region=0&sub_region=0&type=429",
@@ -12026,13 +12026,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 1,
-      "Костерева Светлана Семеновна": 1,
-      "Орголайнен Александр Арович": 9,
-      "Пономарев Александр Михайлович": 5,
-      "Сокова Людмила Николаевна": 1,
-      "Федотов-Любомирский Анатолий Юрьевич": 1,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000202303": 1,
+      "gas:candidate-vibid:235200070451": 1,
+      "gas:candidate-vibid:1001000225933": 9,
+      "gas:candidate-vibid:1001000121841": 5,
+      "gas:candidate-vibid:1001000136047": 1,
+      "gas:candidate-vibid:1001000195068": 1,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270672&region=0&sub_region=0&type=429",
@@ -12082,13 +12082,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 0,
-      "Костерева Светлана Семеновна": 0,
-      "Орголайнен Александр Арович": 5,
-      "Пономарев Александр Михайлович": 3,
-      "Сокова Людмила Николаевна": 2,
-      "Федотов-Любомирский Анатолий Юрьевич": 1,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000202303": 0,
+      "gas:candidate-vibid:235200070451": 0,
+      "gas:candidate-vibid:1001000225933": 5,
+      "gas:candidate-vibid:1001000121841": 3,
+      "gas:candidate-vibid:1001000136047": 2,
+      "gas:candidate-vibid:1001000195068": 1,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270672&region=0&sub_region=0&type=429",
@@ -12138,13 +12138,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 22,
-      "Костерева Светлана Семеновна": 42,
-      "Орголайнен Александр Арович": 328,
-      "Пономарев Александр Михайлович": 84,
-      "Сокова Людмила Николаевна": 102,
-      "Федотов-Любомирский Анатолий Юрьевич": 8,
-      "Против всех": 132
+      "gas:candidate-vibid:1001000202303": 22,
+      "gas:candidate-vibid:235200070451": 42,
+      "gas:candidate-vibid:1001000225933": 328,
+      "gas:candidate-vibid:1001000121841": 84,
+      "gas:candidate-vibid:1001000136047": 102,
+      "gas:candidate-vibid:1001000195068": 8,
+      "special:against-all": 132
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270672&region=0&sub_region=0&type=429",
@@ -12194,13 +12194,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 32,
-      "Костерева Светлана Семеновна": 69,
-      "Орголайнен Александр Арович": 612,
-      "Пономарев Александр Михайлович": 193,
-      "Сокова Людмила Николаевна": 164,
-      "Федотов-Любомирский Анатолий Юрьевич": 22,
-      "Против всех": 185
+      "gas:candidate-vibid:1001000202303": 32,
+      "gas:candidate-vibid:235200070451": 69,
+      "gas:candidate-vibid:1001000225933": 612,
+      "gas:candidate-vibid:1001000121841": 193,
+      "gas:candidate-vibid:1001000136047": 164,
+      "gas:candidate-vibid:1001000195068": 22,
+      "special:against-all": 185
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270672&region=0&sub_region=0&type=429",
@@ -12250,13 +12250,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 30,
-      "Костерева Светлана Семеновна": 72,
-      "Орголайнен Александр Арович": 647,
-      "Пономарев Александр Михайлович": 204,
-      "Сокова Людмила Николаевна": 137,
-      "Федотов-Любомирский Анатолий Юрьевич": 26,
-      "Против всех": 174
+      "gas:candidate-vibid:1001000202303": 30,
+      "gas:candidate-vibid:235200070451": 72,
+      "gas:candidate-vibid:1001000225933": 647,
+      "gas:candidate-vibid:1001000121841": 204,
+      "gas:candidate-vibid:1001000136047": 137,
+      "gas:candidate-vibid:1001000195068": 26,
+      "special:against-all": 174
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270672&region=0&sub_region=0&type=429",
@@ -12306,13 +12306,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 33,
-      "Костерева Светлана Семеновна": 74,
-      "Орголайнен Александр Арович": 643,
-      "Пономарев Александр Михайлович": 158,
-      "Сокова Людмила Николаевна": 134,
-      "Федотов-Любомирский Анатолий Юрьевич": 18,
-      "Против всех": 204
+      "gas:candidate-vibid:1001000202303": 33,
+      "gas:candidate-vibid:235200070451": 74,
+      "gas:candidate-vibid:1001000225933": 643,
+      "gas:candidate-vibid:1001000121841": 158,
+      "gas:candidate-vibid:1001000136047": 134,
+      "gas:candidate-vibid:1001000195068": 18,
+      "special:against-all": 204
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270672&region=0&sub_region=0&type=429",
@@ -12362,13 +12362,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 32,
-      "Костерева Светлана Семеновна": 73,
-      "Орголайнен Александр Арович": 610,
-      "Пономарев Александр Михайлович": 151,
-      "Сокова Людмила Николаевна": 152,
-      "Федотов-Любомирский Анатолий Юрьевич": 27,
-      "Против всех": 187
+      "gas:candidate-vibid:1001000202303": 32,
+      "gas:candidate-vibid:235200070451": 73,
+      "gas:candidate-vibid:1001000225933": 610,
+      "gas:candidate-vibid:1001000121841": 151,
+      "gas:candidate-vibid:1001000136047": 152,
+      "gas:candidate-vibid:1001000195068": 27,
+      "special:against-all": 187
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270672&region=0&sub_region=0&type=429",
@@ -12418,13 +12418,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 2,
-      "Костерева Светлана Семеновна": 1,
-      "Орголайнен Александр Арович": 5,
-      "Пономарев Александр Михайлович": 2,
-      "Сокова Людмила Николаевна": 1,
-      "Федотов-Любомирский Анатолий Юрьевич": 1,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000202303": 2,
+      "gas:candidate-vibid:235200070451": 1,
+      "gas:candidate-vibid:1001000225933": 5,
+      "gas:candidate-vibid:1001000121841": 2,
+      "gas:candidate-vibid:1001000136047": 1,
+      "gas:candidate-vibid:1001000195068": 1,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270672&region=0&sub_region=0&type=429",
@@ -12474,13 +12474,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 2,
-      "Костерева Светлана Семеновна": 4,
-      "Орголайнен Александр Арович": 52,
-      "Пономарев Александр Михайлович": 9,
-      "Сокова Людмила Николаевна": 12,
-      "Федотов-Любомирский Анатолий Юрьевич": 2,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000202303": 2,
+      "gas:candidate-vibid:235200070451": 4,
+      "gas:candidate-vibid:1001000225933": 52,
+      "gas:candidate-vibid:1001000121841": 9,
+      "gas:candidate-vibid:1001000136047": 12,
+      "gas:candidate-vibid:1001000195068": 2,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270672&region=0&sub_region=0&type=429",
@@ -12530,13 +12530,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 31,
-      "Костерева Светлана Семеновна": 95,
-      "Орголайнен Александр Арович": 672,
-      "Пономарев Александр Михайлович": 172,
-      "Сокова Людмила Николаевна": 153,
-      "Федотов-Любомирский Анатолий Юрьевич": 29,
-      "Против всех": 216
+      "gas:candidate-vibid:1001000202303": 31,
+      "gas:candidate-vibid:235200070451": 95,
+      "gas:candidate-vibid:1001000225933": 672,
+      "gas:candidate-vibid:1001000121841": 172,
+      "gas:candidate-vibid:1001000136047": 153,
+      "gas:candidate-vibid:1001000195068": 29,
+      "special:against-all": 216
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270672&region=0&sub_region=0&type=429",
@@ -12586,13 +12586,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 19,
-      "Костерева Светлана Семеновна": 80,
-      "Орголайнен Александр Арович": 521,
-      "Пономарев Александр Михайлович": 183,
-      "Сокова Людмила Николаевна": 165,
-      "Федотов-Любомирский Анатолий Юрьевич": 19,
-      "Против всех": 196
+      "gas:candidate-vibid:1001000202303": 19,
+      "gas:candidate-vibid:235200070451": 80,
+      "gas:candidate-vibid:1001000225933": 521,
+      "gas:candidate-vibid:1001000121841": 183,
+      "gas:candidate-vibid:1001000136047": 165,
+      "gas:candidate-vibid:1001000195068": 19,
+      "special:against-all": 196
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270672&region=0&sub_region=0&type=429",
@@ -12642,13 +12642,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 31,
-      "Костерева Светлана Семеновна": 80,
-      "Орголайнен Александр Арович": 463,
-      "Пономарев Александр Михайлович": 147,
-      "Сокова Людмила Николаевна": 160,
-      "Федотов-Любомирский Анатолий Юрьевич": 22,
-      "Против всех": 155
+      "gas:candidate-vibid:1001000202303": 31,
+      "gas:candidate-vibid:235200070451": 80,
+      "gas:candidate-vibid:1001000225933": 463,
+      "gas:candidate-vibid:1001000121841": 147,
+      "gas:candidate-vibid:1001000136047": 160,
+      "gas:candidate-vibid:1001000195068": 22,
+      "special:against-all": 155
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270672&region=0&sub_region=0&type=429",
@@ -12698,13 +12698,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 15,
-      "Костерева Светлана Семеновна": 73,
-      "Орголайнен Александр Арович": 525,
-      "Пономарев Александр Михайлович": 220,
-      "Сокова Людмила Николаевна": 158,
-      "Федотов-Любомирский Анатолий Юрьевич": 25,
-      "Против всех": 186
+      "gas:candidate-vibid:1001000202303": 15,
+      "gas:candidate-vibid:235200070451": 73,
+      "gas:candidate-vibid:1001000225933": 525,
+      "gas:candidate-vibid:1001000121841": 220,
+      "gas:candidate-vibid:1001000136047": 158,
+      "gas:candidate-vibid:1001000195068": 25,
+      "special:against-all": 186
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270672&region=0&sub_region=0&type=429",
@@ -12754,13 +12754,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 25,
-      "Костерева Светлана Семеновна": 71,
-      "Орголайнен Александр Арович": 645,
-      "Пономарев Александр Михайлович": 140,
-      "Сокова Людмила Николаевна": 107,
-      "Федотов-Любомирский Анатолий Юрьевич": 19,
-      "Против всех": 188
+      "gas:candidate-vibid:1001000202303": 25,
+      "gas:candidate-vibid:235200070451": 71,
+      "gas:candidate-vibid:1001000225933": 645,
+      "gas:candidate-vibid:1001000121841": 140,
+      "gas:candidate-vibid:1001000136047": 107,
+      "gas:candidate-vibid:1001000195068": 19,
+      "special:against-all": 188
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270672&region=0&sub_region=0&type=429",
@@ -12810,13 +12810,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 17,
-      "Костерева Светлана Семеновна": 53,
-      "Орголайнен Александр Арович": 663,
-      "Пономарев Александр Михайлович": 170,
-      "Сокова Людмила Николаевна": 153,
-      "Федотов-Любомирский Анатолий Юрьевич": 21,
-      "Против всех": 210
+      "gas:candidate-vibid:1001000202303": 17,
+      "gas:candidate-vibid:235200070451": 53,
+      "gas:candidate-vibid:1001000225933": 663,
+      "gas:candidate-vibid:1001000121841": 170,
+      "gas:candidate-vibid:1001000136047": 153,
+      "gas:candidate-vibid:1001000195068": 21,
+      "special:against-all": 210
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270672&region=0&sub_region=0&type=429",
@@ -12866,13 +12866,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 33,
-      "Костерева Светлана Семеновна": 61,
-      "Орголайнен Александр Арович": 610,
-      "Пономарев Александр Михайлович": 119,
-      "Сокова Людмила Николаевна": 162,
-      "Федотов-Любомирский Анатолий Юрьевич": 26,
-      "Против всех": 268
+      "gas:candidate-vibid:1001000202303": 33,
+      "gas:candidate-vibid:235200070451": 61,
+      "gas:candidate-vibid:1001000225933": 610,
+      "gas:candidate-vibid:1001000121841": 119,
+      "gas:candidate-vibid:1001000136047": 162,
+      "gas:candidate-vibid:1001000195068": 26,
+      "special:against-all": 268
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270672&region=0&sub_region=0&type=429",
@@ -12922,13 +12922,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 30,
-      "Костерева Светлана Семеновна": 51,
-      "Орголайнен Александр Арович": 432,
-      "Пономарев Александр Михайлович": 98,
-      "Сокова Людмила Николаевна": 149,
-      "Федотов-Любомирский Анатолий Юрьевич": 17,
-      "Против всех": 196
+      "gas:candidate-vibid:1001000202303": 30,
+      "gas:candidate-vibid:235200070451": 51,
+      "gas:candidate-vibid:1001000225933": 432,
+      "gas:candidate-vibid:1001000121841": 98,
+      "gas:candidate-vibid:1001000136047": 149,
+      "gas:candidate-vibid:1001000195068": 17,
+      "special:against-all": 196
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270672&region=0&sub_region=0&type=429",
@@ -12978,13 +12978,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 35,
-      "Костерева Светлана Семеновна": 69,
-      "Орголайнен Александр Арович": 583,
-      "Пономарев Александр Михайлович": 181,
-      "Сокова Людмила Николаевна": 141,
-      "Федотов-Любомирский Анатолий Юрьевич": 30,
-      "Против всех": 235
+      "gas:candidate-vibid:1001000202303": 35,
+      "gas:candidate-vibid:235200070451": 69,
+      "gas:candidate-vibid:1001000225933": 583,
+      "gas:candidate-vibid:1001000121841": 181,
+      "gas:candidate-vibid:1001000136047": 141,
+      "gas:candidate-vibid:1001000195068": 30,
+      "special:against-all": 235
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270672&region=0&sub_region=0&type=429",
@@ -13034,13 +13034,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 36,
-      "Костерева Светлана Семеновна": 78,
-      "Орголайнен Александр Арович": 683,
-      "Пономарев Александр Михайлович": 252,
-      "Сокова Людмила Николаевна": 167,
-      "Федотов-Любомирский Анатолий Юрьевич": 41,
-      "Против всех": 233
+      "gas:candidate-vibid:1001000202303": 36,
+      "gas:candidate-vibid:235200070451": 78,
+      "gas:candidate-vibid:1001000225933": 683,
+      "gas:candidate-vibid:1001000121841": 252,
+      "gas:candidate-vibid:1001000136047": 167,
+      "gas:candidate-vibid:1001000195068": 41,
+      "special:against-all": 233
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270672&region=0&sub_region=0&type=429",
@@ -13090,13 +13090,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 0,
-      "Костерева Светлана Семеновна": 0,
-      "Орголайнен Александр Арович": 5,
-      "Пономарев Александр Михайлович": 5,
-      "Сокова Людмила Николаевна": 1,
-      "Федотов-Любомирский Анатолий Юрьевич": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000202303": 0,
+      "gas:candidate-vibid:235200070451": 0,
+      "gas:candidate-vibid:1001000225933": 5,
+      "gas:candidate-vibid:1001000121841": 5,
+      "gas:candidate-vibid:1001000136047": 1,
+      "gas:candidate-vibid:1001000195068": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270672&region=0&sub_region=0&type=429",
@@ -13146,13 +13146,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 29,
-      "Костерева Светлана Семеновна": 56,
-      "Орголайнен Александр Арович": 472,
-      "Пономарев Александр Михайлович": 136,
-      "Сокова Людмила Николаевна": 146,
-      "Федотов-Любомирский Анатолий Юрьевич": 26,
-      "Против всех": 200
+      "gas:candidate-vibid:1001000202303": 29,
+      "gas:candidate-vibid:235200070451": 56,
+      "gas:candidate-vibid:1001000225933": 472,
+      "gas:candidate-vibid:1001000121841": 136,
+      "gas:candidate-vibid:1001000136047": 146,
+      "gas:candidate-vibid:1001000195068": 26,
+      "special:against-all": 200
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270672&region=0&sub_region=0&type=429",
@@ -13202,13 +13202,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 23,
-      "Костерева Светлана Семеновна": 84,
-      "Орголайнен Александр Арович": 567,
-      "Пономарев Александр Михайлович": 130,
-      "Сокова Людмила Николаевна": 171,
-      "Федотов-Любомирский Анатолий Юрьевич": 28,
-      "Против всех": 259
+      "gas:candidate-vibid:1001000202303": 23,
+      "gas:candidate-vibid:235200070451": 84,
+      "gas:candidate-vibid:1001000225933": 567,
+      "gas:candidate-vibid:1001000121841": 130,
+      "gas:candidate-vibid:1001000136047": 171,
+      "gas:candidate-vibid:1001000195068": 28,
+      "special:against-all": 259
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270672&region=0&sub_region=0&type=429",
@@ -13258,13 +13258,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 32,
-      "Костерева Светлана Семеновна": 69,
-      "Орголайнен Александр Арович": 659,
-      "Пономарев Александр Михайлович": 197,
-      "Сокова Людмила Николаевна": 152,
-      "Федотов-Любомирский Анатолий Юрьевич": 23,
-      "Против всех": 201
+      "gas:candidate-vibid:1001000202303": 32,
+      "gas:candidate-vibid:235200070451": 69,
+      "gas:candidate-vibid:1001000225933": 659,
+      "gas:candidate-vibid:1001000121841": 197,
+      "gas:candidate-vibid:1001000136047": 152,
+      "gas:candidate-vibid:1001000195068": 23,
+      "special:against-all": 201
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270672&region=0&sub_region=0&type=429",
@@ -13314,13 +13314,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 28,
-      "Костерева Светлана Семеновна": 61,
-      "Орголайнен Александр Арович": 686,
-      "Пономарев Александр Михайлович": 273,
-      "Сокова Людмила Николаевна": 145,
-      "Федотов-Любомирский Анатолий Юрьевич": 26,
-      "Против всех": 221
+      "gas:candidate-vibid:1001000202303": 28,
+      "gas:candidate-vibid:235200070451": 61,
+      "gas:candidate-vibid:1001000225933": 686,
+      "gas:candidate-vibid:1001000121841": 273,
+      "gas:candidate-vibid:1001000136047": 145,
+      "gas:candidate-vibid:1001000195068": 26,
+      "special:against-all": 221
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270672&region=0&sub_region=0&type=429",
@@ -13370,13 +13370,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 24,
-      "Костерева Светлана Семеновна": 72,
-      "Орголайнен Александр Арович": 750,
-      "Пономарев Александр Михайлович": 227,
-      "Сокова Людмила Николаевна": 131,
-      "Федотов-Любомирский Анатолий Юрьевич": 28,
-      "Против всех": 195
+      "gas:candidate-vibid:1001000202303": 24,
+      "gas:candidate-vibid:235200070451": 72,
+      "gas:candidate-vibid:1001000225933": 750,
+      "gas:candidate-vibid:1001000121841": 227,
+      "gas:candidate-vibid:1001000136047": 131,
+      "gas:candidate-vibid:1001000195068": 28,
+      "special:against-all": 195
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270672&region=0&sub_region=0&type=429",
@@ -13426,13 +13426,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 27,
-      "Костерева Светлана Семеновна": 77,
-      "Орголайнен Александр Арович": 621,
-      "Пономарев Александр Михайлович": 193,
-      "Сокова Людмила Николаевна": 149,
-      "Федотов-Любомирский Анатолий Юрьевич": 27,
-      "Против всех": 224
+      "gas:candidate-vibid:1001000202303": 27,
+      "gas:candidate-vibid:235200070451": 77,
+      "gas:candidate-vibid:1001000225933": 621,
+      "gas:candidate-vibid:1001000121841": 193,
+      "gas:candidate-vibid:1001000136047": 149,
+      "gas:candidate-vibid:1001000195068": 27,
+      "special:against-all": 224
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270672&region=0&sub_region=0&type=429",
@@ -13482,13 +13482,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 33,
-      "Костерева Светлана Семеновна": 66,
-      "Орголайнен Александр Арович": 658,
-      "Пономарев Александр Михайлович": 222,
-      "Сокова Людмила Николаевна": 129,
-      "Федотов-Любомирский Анатолий Юрьевич": 27,
-      "Против всех": 201
+      "gas:candidate-vibid:1001000202303": 33,
+      "gas:candidate-vibid:235200070451": 66,
+      "gas:candidate-vibid:1001000225933": 658,
+      "gas:candidate-vibid:1001000121841": 222,
+      "gas:candidate-vibid:1001000136047": 129,
+      "gas:candidate-vibid:1001000195068": 27,
+      "special:against-all": 201
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270672&region=0&sub_region=0&type=429",
@@ -13538,13 +13538,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 34,
-      "Костерева Светлана Семеновна": 54,
-      "Орголайнен Александр Арович": 655,
-      "Пономарев Александр Михайлович": 231,
-      "Сокова Людмила Николаевна": 123,
-      "Федотов-Любомирский Анатолий Юрьевич": 22,
-      "Против всех": 224
+      "gas:candidate-vibid:1001000202303": 34,
+      "gas:candidate-vibid:235200070451": 54,
+      "gas:candidate-vibid:1001000225933": 655,
+      "gas:candidate-vibid:1001000121841": 231,
+      "gas:candidate-vibid:1001000136047": 123,
+      "gas:candidate-vibid:1001000195068": 22,
+      "special:against-all": 224
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270672&region=0&sub_region=0&type=429",
@@ -13594,13 +13594,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 29,
-      "Костерева Светлана Семеновна": 71,
-      "Орголайнен Александр Арович": 711,
-      "Пономарев Александр Михайлович": 275,
-      "Сокова Людмила Николаевна": 115,
-      "Федотов-Любомирский Анатолий Юрьевич": 24,
-      "Против всех": 234
+      "gas:candidate-vibid:1001000202303": 29,
+      "gas:candidate-vibid:235200070451": 71,
+      "gas:candidate-vibid:1001000225933": 711,
+      "gas:candidate-vibid:1001000121841": 275,
+      "gas:candidate-vibid:1001000136047": 115,
+      "gas:candidate-vibid:1001000195068": 24,
+      "special:against-all": 234
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270672&region=0&sub_region=0&type=429",
@@ -13650,13 +13650,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 25,
-      "Костерева Светлана Семеновна": 56,
-      "Орголайнен Александр Арович": 573,
-      "Пономарев Александр Михайлович": 213,
-      "Сокова Людмила Николаевна": 127,
-      "Федотов-Любомирский Анатолий Юрьевич": 13,
-      "Против всех": 225
+      "gas:candidate-vibid:1001000202303": 25,
+      "gas:candidate-vibid:235200070451": 56,
+      "gas:candidate-vibid:1001000225933": 573,
+      "gas:candidate-vibid:1001000121841": 213,
+      "gas:candidate-vibid:1001000136047": 127,
+      "gas:candidate-vibid:1001000195068": 13,
+      "special:against-all": 225
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270672&region=0&sub_region=0&type=429",
@@ -13706,13 +13706,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 0,
-      "Костерева Светлана Семеновна": 1,
-      "Орголайнен Александр Арович": 14,
-      "Пономарев Александр Михайлович": 0,
-      "Сокова Людмила Николаевна": 3,
-      "Федотов-Любомирский Анатолий Юрьевич": 1,
-      "Против всех": 25
+      "gas:candidate-vibid:1001000202303": 0,
+      "gas:candidate-vibid:235200070451": 1,
+      "gas:candidate-vibid:1001000225933": 14,
+      "gas:candidate-vibid:1001000121841": 0,
+      "gas:candidate-vibid:1001000136047": 3,
+      "gas:candidate-vibid:1001000195068": 1,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270672&region=0&sub_region=0&type=429",
@@ -13762,13 +13762,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 27,
-      "Костерева Светлана Семеновна": 60,
-      "Орголайнен Александр Арович": 504,
-      "Пономарев Александр Михайлович": 106,
-      "Сокова Людмила Николаевна": 128,
-      "Федотов-Любомирский Анатолий Юрьевич": 29,
-      "Против всех": 189
+      "gas:candidate-vibid:1001000202303": 27,
+      "gas:candidate-vibid:235200070451": 60,
+      "gas:candidate-vibid:1001000225933": 504,
+      "gas:candidate-vibid:1001000121841": 106,
+      "gas:candidate-vibid:1001000136047": 128,
+      "gas:candidate-vibid:1001000195068": 29,
+      "special:against-all": 189
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270672&region=0&sub_region=0&type=429",
@@ -13818,13 +13818,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 35,
-      "Костерева Светлана Семеновна": 63,
-      "Орголайнен Александр Арович": 725,
-      "Пономарев Александр Михайлович": 250,
-      "Сокова Людмила Николаевна": 140,
-      "Федотов-Любомирский Анатолий Юрьевич": 30,
-      "Против всех": 217
+      "gas:candidate-vibid:1001000202303": 35,
+      "gas:candidate-vibid:235200070451": 63,
+      "gas:candidate-vibid:1001000225933": 725,
+      "gas:candidate-vibid:1001000121841": 250,
+      "gas:candidate-vibid:1001000136047": 140,
+      "gas:candidate-vibid:1001000195068": 30,
+      "special:against-all": 217
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270672&region=0&sub_region=0&type=429",
@@ -13874,13 +13874,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 43,
-      "Костерева Светлана Семеновна": 85,
-      "Орголайнен Александр Арович": 650,
-      "Пономарев Александр Михайлович": 254,
-      "Сокова Людмила Николаевна": 150,
-      "Федотов-Любомирский Анатолий Юрьевич": 20,
-      "Против всех": 267
+      "gas:candidate-vibid:1001000202303": 43,
+      "gas:candidate-vibid:235200070451": 85,
+      "gas:candidate-vibid:1001000225933": 650,
+      "gas:candidate-vibid:1001000121841": 254,
+      "gas:candidate-vibid:1001000136047": 150,
+      "gas:candidate-vibid:1001000195068": 20,
+      "special:against-all": 267
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270672&region=0&sub_region=0&type=429",
@@ -13930,13 +13930,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 45,
-      "Костерева Светлана Семеновна": 90,
-      "Орголайнен Александр Арович": 718,
-      "Пономарев Александр Михайлович": 270,
-      "Сокова Людмила Николаевна": 132,
-      "Федотов-Любомирский Анатолий Юрьевич": 31,
-      "Против всех": 274
+      "gas:candidate-vibid:1001000202303": 45,
+      "gas:candidate-vibid:235200070451": 90,
+      "gas:candidate-vibid:1001000225933": 718,
+      "gas:candidate-vibid:1001000121841": 270,
+      "gas:candidate-vibid:1001000136047": 132,
+      "gas:candidate-vibid:1001000195068": 31,
+      "special:against-all": 274
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270672&region=0&sub_region=0&type=429",
@@ -13986,13 +13986,13 @@ export const duma_2003_uik_428_region_35_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Виноградов Алексей Германович": 18,
-      "Костерева Светлана Семеновна": 105,
-      "Орголайнен Александр Арович": 448,
-      "Пономарев Александр Михайлович": 164,
-      "Сокова Людмила Николаевна": 133,
-      "Федотов-Любомирский Анатолий Юрьевич": 24,
-      "Против всех": 186
+      "gas:candidate-vibid:1001000202303": 18,
+      "gas:candidate-vibid:235200070451": 105,
+      "gas:candidate-vibid:1001000225933": 448,
+      "gas:candidate-vibid:1001000121841": 164,
+      "gas:candidate-vibid:1001000136047": 133,
+      "gas:candidate-vibid:1001000195068": 24,
+      "special:against-all": 186
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=353002013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=335300270672&region=0&sub_region=0&type=429",

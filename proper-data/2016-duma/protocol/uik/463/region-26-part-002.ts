@@ -43,16 +43,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 13,
-      "Дроздова Ольга Павловна": 87,
-      "Кузьмин Александр Сергеевич": 63,
-      "Кузьмин Михаил Владимирович": 188,
-      "Кулагин Сергей Сергеевич": 7,
-      "Лебедев Павел Валерьевич": 6,
-      "Мохов Евгений Александрович": 3,
-      "Рукосуев Юрий Викторович": 24,
-      "Сасин Николай Иванович": 3,
-      "Соболев Виктор Иванович": 32
+      "gas:candidate-vibid:2262000863578": 13,
+      "gas:candidate-vibid:2262000773770": 87,
+      "gas:candidate-vibid:2262000862946": 63,
+      "gas:candidate-vibid:2262000863601": 188,
+      "gas:candidate-vibid:2262000864387": 7,
+      "gas:candidate-vibid:2262000865086": 6,
+      "gas:candidate-vibid:2262000865412": 3,
+      "gas:candidate-vibid:2262000862161": 24,
+      "gas:candidate-vibid:2262000864310": 3,
+      "gas:candidate-vibid:2262000864460": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761452&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761452&type=464",
@@ -103,16 +103,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 16,
-      "Дроздова Ольга Павловна": 109,
-      "Кузьмин Александр Сергеевич": 59,
-      "Кузьмин Михаил Владимирович": 290,
-      "Кулагин Сергей Сергеевич": 6,
-      "Лебедев Павел Валерьевич": 12,
-      "Мохов Евгений Александрович": 6,
-      "Рукосуев Юрий Викторович": 33,
-      "Сасин Николай Иванович": 6,
-      "Соболев Виктор Иванович": 57
+      "gas:candidate-vibid:2262000863578": 16,
+      "gas:candidate-vibid:2262000773770": 109,
+      "gas:candidate-vibid:2262000862946": 59,
+      "gas:candidate-vibid:2262000863601": 290,
+      "gas:candidate-vibid:2262000864387": 6,
+      "gas:candidate-vibid:2262000865086": 12,
+      "gas:candidate-vibid:2262000865412": 6,
+      "gas:candidate-vibid:2262000862161": 33,
+      "gas:candidate-vibid:2262000864310": 6,
+      "gas:candidate-vibid:2262000864460": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761452&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761452&type=464",
@@ -163,16 +163,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 9,
-      "Дроздова Ольга Павловна": 85,
-      "Кузьмин Александр Сергеевич": 65,
-      "Кузьмин Михаил Владимирович": 238,
-      "Кулагин Сергей Сергеевич": 5,
-      "Лебедев Павел Валерьевич": 1,
-      "Мохов Евгений Александрович": 7,
-      "Рукосуев Юрий Викторович": 25,
-      "Сасин Николай Иванович": 2,
-      "Соболев Виктор Иванович": 44
+      "gas:candidate-vibid:2262000863578": 9,
+      "gas:candidate-vibid:2262000773770": 85,
+      "gas:candidate-vibid:2262000862946": 65,
+      "gas:candidate-vibid:2262000863601": 238,
+      "gas:candidate-vibid:2262000864387": 5,
+      "gas:candidate-vibid:2262000865086": 1,
+      "gas:candidate-vibid:2262000865412": 7,
+      "gas:candidate-vibid:2262000862161": 25,
+      "gas:candidate-vibid:2262000864310": 2,
+      "gas:candidate-vibid:2262000864460": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761452&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761452&type=464",
@@ -223,16 +223,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 6,
-      "Дроздова Ольга Павловна": 22,
-      "Кузьмин Александр Сергеевич": 12,
-      "Кузьмин Михаил Владимирович": 105,
-      "Кулагин Сергей Сергеевич": 2,
-      "Лебедев Павел Валерьевич": 3,
-      "Мохов Евгений Александрович": 0,
-      "Рукосуев Юрий Викторович": 8,
-      "Сасин Николай Иванович": 2,
-      "Соболев Виктор Иванович": 7
+      "gas:candidate-vibid:2262000863578": 6,
+      "gas:candidate-vibid:2262000773770": 22,
+      "gas:candidate-vibid:2262000862946": 12,
+      "gas:candidate-vibid:2262000863601": 105,
+      "gas:candidate-vibid:2262000864387": 2,
+      "gas:candidate-vibid:2262000865086": 3,
+      "gas:candidate-vibid:2262000865412": 0,
+      "gas:candidate-vibid:2262000862161": 8,
+      "gas:candidate-vibid:2262000864310": 2,
+      "gas:candidate-vibid:2262000864460": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761452&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761452&type=464",
@@ -283,16 +283,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 12,
-      "Дроздова Ольга Павловна": 134,
-      "Кузьмин Александр Сергеевич": 95,
-      "Кузьмин Михаил Владимирович": 261,
-      "Кулагин Сергей Сергеевич": 7,
-      "Лебедев Павел Валерьевич": 10,
-      "Мохов Евгений Александрович": 15,
-      "Рукосуев Юрий Викторович": 45,
-      "Сасин Николай Иванович": 13,
-      "Соболев Виктор Иванович": 104
+      "gas:candidate-vibid:2262000863578": 12,
+      "gas:candidate-vibid:2262000773770": 134,
+      "gas:candidate-vibid:2262000862946": 95,
+      "gas:candidate-vibid:2262000863601": 261,
+      "gas:candidate-vibid:2262000864387": 7,
+      "gas:candidate-vibid:2262000865086": 10,
+      "gas:candidate-vibid:2262000865412": 15,
+      "gas:candidate-vibid:2262000862161": 45,
+      "gas:candidate-vibid:2262000864310": 13,
+      "gas:candidate-vibid:2262000864460": 104
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761452&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761452&type=464",
@@ -343,16 +343,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 11,
-      "Дроздова Ольга Павловна": 147,
-      "Кузьмин Александр Сергеевич": 78,
-      "Кузьмин Михаил Владимирович": 209,
-      "Кулагин Сергей Сергеевич": 4,
-      "Лебедев Павел Валерьевич": 10,
-      "Мохов Евгений Александрович": 8,
-      "Рукосуев Юрий Викторович": 42,
-      "Сасин Николай Иванович": 11,
-      "Соболев Виктор Иванович": 109
+      "gas:candidate-vibid:2262000863578": 11,
+      "gas:candidate-vibid:2262000773770": 147,
+      "gas:candidate-vibid:2262000862946": 78,
+      "gas:candidate-vibid:2262000863601": 209,
+      "gas:candidate-vibid:2262000864387": 4,
+      "gas:candidate-vibid:2262000865086": 10,
+      "gas:candidate-vibid:2262000865412": 8,
+      "gas:candidate-vibid:2262000862161": 42,
+      "gas:candidate-vibid:2262000864310": 11,
+      "gas:candidate-vibid:2262000864460": 109
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761452&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761452&type=464",
@@ -403,16 +403,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 8,
-      "Дроздова Ольга Павловна": 123,
-      "Кузьмин Александр Сергеевич": 61,
-      "Кузьмин Михаил Владимирович": 216,
-      "Кулагин Сергей Сергеевич": 9,
-      "Лебедев Павел Валерьевич": 8,
-      "Мохов Евгений Александрович": 10,
-      "Рукосуев Юрий Викторович": 29,
-      "Сасин Николай Иванович": 5,
-      "Соболев Виктор Иванович": 48
+      "gas:candidate-vibid:2262000863578": 8,
+      "gas:candidate-vibid:2262000773770": 123,
+      "gas:candidate-vibid:2262000862946": 61,
+      "gas:candidate-vibid:2262000863601": 216,
+      "gas:candidate-vibid:2262000864387": 9,
+      "gas:candidate-vibid:2262000865086": 8,
+      "gas:candidate-vibid:2262000865412": 10,
+      "gas:candidate-vibid:2262000862161": 29,
+      "gas:candidate-vibid:2262000864310": 5,
+      "gas:candidate-vibid:2262000864460": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761452&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761452&type=464",
@@ -463,16 +463,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 15,
-      "Дроздова Ольга Павловна": 113,
-      "Кузьмин Александр Сергеевич": 92,
-      "Кузьмин Михаил Владимирович": 264,
-      "Кулагин Сергей Сергеевич": 5,
-      "Лебедев Павел Валерьевич": 8,
-      "Мохов Евгений Александрович": 6,
-      "Рукосуев Юрий Викторович": 28,
-      "Сасин Николай Иванович": 8,
-      "Соболев Виктор Иванович": 43
+      "gas:candidate-vibid:2262000863578": 15,
+      "gas:candidate-vibid:2262000773770": 113,
+      "gas:candidate-vibid:2262000862946": 92,
+      "gas:candidate-vibid:2262000863601": 264,
+      "gas:candidate-vibid:2262000864387": 5,
+      "gas:candidate-vibid:2262000865086": 8,
+      "gas:candidate-vibid:2262000865412": 6,
+      "gas:candidate-vibid:2262000862161": 28,
+      "gas:candidate-vibid:2262000864310": 8,
+      "gas:candidate-vibid:2262000864460": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761452&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761452&type=464",
@@ -523,16 +523,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 14,
-      "Дроздова Ольга Павловна": 113,
-      "Кузьмин Александр Сергеевич": 93,
-      "Кузьмин Михаил Владимирович": 528,
-      "Кулагин Сергей Сергеевич": 12,
-      "Лебедев Павел Валерьевич": 6,
-      "Мохов Евгений Александрович": 9,
-      "Рукосуев Юрий Викторович": 20,
-      "Сасин Николай Иванович": 2,
-      "Соболев Виктор Иванович": 76
+      "gas:candidate-vibid:2262000863578": 14,
+      "gas:candidate-vibid:2262000773770": 113,
+      "gas:candidate-vibid:2262000862946": 93,
+      "gas:candidate-vibid:2262000863601": 528,
+      "gas:candidate-vibid:2262000864387": 12,
+      "gas:candidate-vibid:2262000865086": 6,
+      "gas:candidate-vibid:2262000865412": 9,
+      "gas:candidate-vibid:2262000862161": 20,
+      "gas:candidate-vibid:2262000864310": 2,
+      "gas:candidate-vibid:2262000864460": 76
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761452&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761452&type=464",
@@ -583,16 +583,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 19,
-      "Дроздова Ольга Павловна": 71,
-      "Кузьмин Александр Сергеевич": 89,
-      "Кузьмин Михаил Владимирович": 309,
-      "Кулагин Сергей Сергеевич": 15,
-      "Лебедев Павел Валерьевич": 14,
-      "Мохов Евгений Александрович": 15,
-      "Рукосуев Юрий Викторович": 23,
-      "Сасин Николай Иванович": 7,
-      "Соболев Виктор Иванович": 71
+      "gas:candidate-vibid:2262000863578": 19,
+      "gas:candidate-vibid:2262000773770": 71,
+      "gas:candidate-vibid:2262000862946": 89,
+      "gas:candidate-vibid:2262000863601": 309,
+      "gas:candidate-vibid:2262000864387": 15,
+      "gas:candidate-vibid:2262000865086": 14,
+      "gas:candidate-vibid:2262000865412": 15,
+      "gas:candidate-vibid:2262000862161": 23,
+      "gas:candidate-vibid:2262000864310": 7,
+      "gas:candidate-vibid:2262000864460": 71
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761452&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761452&type=464",
@@ -643,16 +643,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 20,
-      "Дроздова Ольга Павловна": 77,
-      "Кузьмин Александр Сергеевич": 128,
-      "Кузьмин Михаил Владимирович": 268,
-      "Кулагин Сергей Сергеевич": 11,
-      "Лебедев Павел Валерьевич": 11,
-      "Мохов Евгений Александрович": 5,
-      "Рукосуев Юрий Викторович": 30,
-      "Сасин Николай Иванович": 10,
-      "Соболев Виктор Иванович": 76
+      "gas:candidate-vibid:2262000863578": 20,
+      "gas:candidate-vibid:2262000773770": 77,
+      "gas:candidate-vibid:2262000862946": 128,
+      "gas:candidate-vibid:2262000863601": 268,
+      "gas:candidate-vibid:2262000864387": 11,
+      "gas:candidate-vibid:2262000865086": 11,
+      "gas:candidate-vibid:2262000865412": 5,
+      "gas:candidate-vibid:2262000862161": 30,
+      "gas:candidate-vibid:2262000864310": 10,
+      "gas:candidate-vibid:2262000864460": 76
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761452&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761452&type=464",
@@ -703,16 +703,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 3,
-      "Дроздова Ольга Павловна": 21,
-      "Кузьмин Александр Сергеевич": 22,
-      "Кузьмин Михаил Владимирович": 74,
-      "Кулагин Сергей Сергеевич": 2,
-      "Лебедев Павел Валерьевич": 1,
-      "Мохов Евгений Александрович": 4,
-      "Рукосуев Юрий Викторович": 5,
-      "Сасин Николай Иванович": 3,
-      "Соболев Виктор Иванович": 7
+      "gas:candidate-vibid:2262000863578": 3,
+      "gas:candidate-vibid:2262000773770": 21,
+      "gas:candidate-vibid:2262000862946": 22,
+      "gas:candidate-vibid:2262000863601": 74,
+      "gas:candidate-vibid:2262000864387": 2,
+      "gas:candidate-vibid:2262000865086": 1,
+      "gas:candidate-vibid:2262000865412": 4,
+      "gas:candidate-vibid:2262000862161": 5,
+      "gas:candidate-vibid:2262000864310": 3,
+      "gas:candidate-vibid:2262000864460": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761452&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761452&type=464",
@@ -763,16 +763,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 7,
-      "Дроздова Ольга Павловна": 30,
-      "Кузьмин Александр Сергеевич": 17,
-      "Кузьмин Михаил Владимирович": 54,
-      "Кулагин Сергей Сергеевич": 4,
-      "Лебедев Павел Валерьевич": 3,
-      "Мохов Евгений Александрович": 2,
-      "Рукосуев Юрий Викторович": 3,
-      "Сасин Николай Иванович": 2,
-      "Соболев Виктор Иванович": 6
+      "gas:candidate-vibid:2262000863578": 7,
+      "gas:candidate-vibid:2262000773770": 30,
+      "gas:candidate-vibid:2262000862946": 17,
+      "gas:candidate-vibid:2262000863601": 54,
+      "gas:candidate-vibid:2262000864387": 4,
+      "gas:candidate-vibid:2262000865086": 3,
+      "gas:candidate-vibid:2262000865412": 2,
+      "gas:candidate-vibid:2262000862161": 3,
+      "gas:candidate-vibid:2262000864310": 2,
+      "gas:candidate-vibid:2262000864460": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761452&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761452&type=464",
@@ -823,16 +823,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 17,
-      "Дроздова Ольга Павловна": 208,
-      "Кузьмин Александр Сергеевич": 167,
-      "Кузьмин Михаил Владимирович": 534,
-      "Кулагин Сергей Сергеевич": 26,
-      "Лебедев Павел Валерьевич": 18,
-      "Мохов Евгений Александрович": 14,
-      "Рукосуев Юрий Викторович": 51,
-      "Сасин Николай Иванович": 15,
-      "Соболев Виктор Иванович": 139
+      "gas:candidate-vibid:2262000863578": 17,
+      "gas:candidate-vibid:2262000773770": 208,
+      "gas:candidate-vibid:2262000862946": 167,
+      "gas:candidate-vibid:2262000863601": 534,
+      "gas:candidate-vibid:2262000864387": 26,
+      "gas:candidate-vibid:2262000865086": 18,
+      "gas:candidate-vibid:2262000865412": 14,
+      "gas:candidate-vibid:2262000862161": 51,
+      "gas:candidate-vibid:2262000864310": 15,
+      "gas:candidate-vibid:2262000864460": 139
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761452&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761452&type=464",
@@ -883,16 +883,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 19,
-      "Дроздова Ольга Павловна": 94,
-      "Кузьмин Александр Сергеевич": 75,
-      "Кузьмин Михаил Владимирович": 255,
-      "Кулагин Сергей Сергеевич": 21,
-      "Лебедев Павел Валерьевич": 14,
-      "Мохов Евгений Александрович": 4,
-      "Рукосуев Юрий Викторович": 49,
-      "Сасин Николай Иванович": 7,
-      "Соболев Виктор Иванович": 119
+      "gas:candidate-vibid:2262000863578": 19,
+      "gas:candidate-vibid:2262000773770": 94,
+      "gas:candidate-vibid:2262000862946": 75,
+      "gas:candidate-vibid:2262000863601": 255,
+      "gas:candidate-vibid:2262000864387": 21,
+      "gas:candidate-vibid:2262000865086": 14,
+      "gas:candidate-vibid:2262000865412": 4,
+      "gas:candidate-vibid:2262000862161": 49,
+      "gas:candidate-vibid:2262000864310": 7,
+      "gas:candidate-vibid:2262000864460": 119
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761452&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761452&type=464",
@@ -943,16 +943,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 13,
-      "Дроздова Ольга Павловна": 91,
-      "Кузьмин Александр Сергеевич": 92,
-      "Кузьмин Михаил Владимирович": 335,
-      "Кулагин Сергей Сергеевич": 11,
-      "Лебедев Павел Валерьевич": 11,
-      "Мохов Евгений Александрович": 7,
-      "Рукосуев Юрий Викторович": 34,
-      "Сасин Николай Иванович": 10,
-      "Соболев Виктор Иванович": 69
+      "gas:candidate-vibid:2262000863578": 13,
+      "gas:candidate-vibid:2262000773770": 91,
+      "gas:candidate-vibid:2262000862946": 92,
+      "gas:candidate-vibid:2262000863601": 335,
+      "gas:candidate-vibid:2262000864387": 11,
+      "gas:candidate-vibid:2262000865086": 11,
+      "gas:candidate-vibid:2262000865412": 7,
+      "gas:candidate-vibid:2262000862161": 34,
+      "gas:candidate-vibid:2262000864310": 10,
+      "gas:candidate-vibid:2262000864460": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761452&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761452&type=464",
@@ -1003,16 +1003,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 21,
-      "Дроздова Ольга Павловна": 160,
-      "Кузьмин Александр Сергеевич": 113,
-      "Кузьмин Михаил Владимирович": 454,
-      "Кулагин Сергей Сергеевич": 12,
-      "Лебедев Павел Валерьевич": 10,
-      "Мохов Евгений Александрович": 27,
-      "Рукосуев Юрий Викторович": 64,
-      "Сасин Николай Иванович": 9,
-      "Соболев Виктор Иванович": 65
+      "gas:candidate-vibid:2262000863578": 21,
+      "gas:candidate-vibid:2262000773770": 160,
+      "gas:candidate-vibid:2262000862946": 113,
+      "gas:candidate-vibid:2262000863601": 454,
+      "gas:candidate-vibid:2262000864387": 12,
+      "gas:candidate-vibid:2262000865086": 10,
+      "gas:candidate-vibid:2262000865412": 27,
+      "gas:candidate-vibid:2262000862161": 64,
+      "gas:candidate-vibid:2262000864310": 9,
+      "gas:candidate-vibid:2262000864460": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761452&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761452&type=464",
@@ -1063,16 +1063,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 17,
-      "Дроздова Ольга Павловна": 93,
-      "Кузьмин Александр Сергеевич": 87,
-      "Кузьмин Михаил Владимирович": 296,
-      "Кулагин Сергей Сергеевич": 12,
-      "Лебедев Павел Валерьевич": 12,
-      "Мохов Евгений Александрович": 5,
-      "Рукосуев Юрий Викторович": 18,
-      "Сасин Николай Иванович": 5,
-      "Соболев Виктор Иванович": 29
+      "gas:candidate-vibid:2262000863578": 17,
+      "gas:candidate-vibid:2262000773770": 93,
+      "gas:candidate-vibid:2262000862946": 87,
+      "gas:candidate-vibid:2262000863601": 296,
+      "gas:candidate-vibid:2262000864387": 12,
+      "gas:candidate-vibid:2262000865086": 12,
+      "gas:candidate-vibid:2262000865412": 5,
+      "gas:candidate-vibid:2262000862161": 18,
+      "gas:candidate-vibid:2262000864310": 5,
+      "gas:candidate-vibid:2262000864460": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761452&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761452&type=464",
@@ -1123,16 +1123,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 20,
-      "Дроздова Ольга Павловна": 79,
-      "Кузьмин Александр Сергеевич": 103,
-      "Кузьмин Михаил Владимирович": 439,
-      "Кулагин Сергей Сергеевич": 18,
-      "Лебедев Павел Валерьевич": 18,
-      "Мохов Евгений Александрович": 12,
-      "Рукосуев Юрий Викторович": 35,
-      "Сасин Николай Иванович": 7,
-      "Соболев Виктор Иванович": 70
+      "gas:candidate-vibid:2262000863578": 20,
+      "gas:candidate-vibid:2262000773770": 79,
+      "gas:candidate-vibid:2262000862946": 103,
+      "gas:candidate-vibid:2262000863601": 439,
+      "gas:candidate-vibid:2262000864387": 18,
+      "gas:candidate-vibid:2262000865086": 18,
+      "gas:candidate-vibid:2262000865412": 12,
+      "gas:candidate-vibid:2262000862161": 35,
+      "gas:candidate-vibid:2262000864310": 7,
+      "gas:candidate-vibid:2262000864460": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761452&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761452&type=464",
@@ -1183,16 +1183,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 16,
-      "Дроздова Ольга Павловна": 71,
-      "Кузьмин Александр Сергеевич": 73,
-      "Кузьмин Михаил Владимирович": 271,
-      "Кулагин Сергей Сергеевич": 10,
-      "Лебедев Павел Валерьевич": 10,
-      "Мохов Евгений Александрович": 19,
-      "Рукосуев Юрий Викторович": 22,
-      "Сасин Николай Иванович": 3,
-      "Соболев Виктор Иванович": 45
+      "gas:candidate-vibid:2262000863578": 16,
+      "gas:candidate-vibid:2262000773770": 71,
+      "gas:candidate-vibid:2262000862946": 73,
+      "gas:candidate-vibid:2262000863601": 271,
+      "gas:candidate-vibid:2262000864387": 10,
+      "gas:candidate-vibid:2262000865086": 10,
+      "gas:candidate-vibid:2262000865412": 19,
+      "gas:candidate-vibid:2262000862161": 22,
+      "gas:candidate-vibid:2262000864310": 3,
+      "gas:candidate-vibid:2262000864460": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761452&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761452&type=464",
@@ -1243,16 +1243,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 4,
-      "Дроздова Ольга Павловна": 10,
-      "Кузьмин Александр Сергеевич": 26,
-      "Кузьмин Михаил Владимирович": 140,
-      "Кулагин Сергей Сергеевич": 8,
-      "Лебедев Павел Валерьевич": 1,
-      "Мохов Евгений Александрович": 1,
-      "Рукосуев Юрий Викторович": 3,
-      "Сасин Николай Иванович": 1,
-      "Соболев Виктор Иванович": 9
+      "gas:candidate-vibid:2262000863578": 4,
+      "gas:candidate-vibid:2262000773770": 10,
+      "gas:candidate-vibid:2262000862946": 26,
+      "gas:candidate-vibid:2262000863601": 140,
+      "gas:candidate-vibid:2262000864387": 8,
+      "gas:candidate-vibid:2262000865086": 1,
+      "gas:candidate-vibid:2262000865412": 1,
+      "gas:candidate-vibid:2262000862161": 3,
+      "gas:candidate-vibid:2262000864310": 1,
+      "gas:candidate-vibid:2262000864460": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761453&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761453&type=464",
@@ -1303,16 +1303,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 50,
-      "Дроздова Ольга Павловна": 165,
-      "Кузьмин Александр Сергеевич": 154,
-      "Кузьмин Михаил Владимирович": 362,
-      "Кулагин Сергей Сергеевич": 27,
-      "Лебедев Павел Валерьевич": 23,
-      "Мохов Евгений Александрович": 44,
-      "Рукосуев Юрий Викторович": 54,
-      "Сасин Николай Иванович": 21,
-      "Соболев Виктор Иванович": 154
+      "gas:candidate-vibid:2262000863578": 50,
+      "gas:candidate-vibid:2262000773770": 165,
+      "gas:candidate-vibid:2262000862946": 154,
+      "gas:candidate-vibid:2262000863601": 362,
+      "gas:candidate-vibid:2262000864387": 27,
+      "gas:candidate-vibid:2262000865086": 23,
+      "gas:candidate-vibid:2262000865412": 44,
+      "gas:candidate-vibid:2262000862161": 54,
+      "gas:candidate-vibid:2262000864310": 21,
+      "gas:candidate-vibid:2262000864460": 154
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761453&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761453&type=464",
@@ -1363,16 +1363,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 22,
-      "Дроздова Ольга Павловна": 251,
-      "Кузьмин Александр Сергеевич": 114,
-      "Кузьмин Михаил Владимирович": 533,
-      "Кулагин Сергей Сергеевич": 13,
-      "Лебедев Павел Валерьевич": 17,
-      "Мохов Евгений Александрович": 16,
-      "Рукосуев Юрий Викторович": 47,
-      "Сасин Николай Иванович": 11,
-      "Соболев Виктор Иванович": 219
+      "gas:candidate-vibid:2262000863578": 22,
+      "gas:candidate-vibid:2262000773770": 251,
+      "gas:candidate-vibid:2262000862946": 114,
+      "gas:candidate-vibid:2262000863601": 533,
+      "gas:candidate-vibid:2262000864387": 13,
+      "gas:candidate-vibid:2262000865086": 17,
+      "gas:candidate-vibid:2262000865412": 16,
+      "gas:candidate-vibid:2262000862161": 47,
+      "gas:candidate-vibid:2262000864310": 11,
+      "gas:candidate-vibid:2262000864460": 219
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761453&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761453&type=464",
@@ -1423,16 +1423,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 14,
-      "Дроздова Ольга Павловна": 108,
-      "Кузьмин Александр Сергеевич": 39,
-      "Кузьмин Михаил Владимирович": 259,
-      "Кулагин Сергей Сергеевич": 8,
-      "Лебедев Павел Валерьевич": 5,
-      "Мохов Евгений Александрович": 6,
-      "Рукосуев Юрий Викторович": 32,
-      "Сасин Николай Иванович": 5,
-      "Соболев Виктор Иванович": 75
+      "gas:candidate-vibid:2262000863578": 14,
+      "gas:candidate-vibid:2262000773770": 108,
+      "gas:candidate-vibid:2262000862946": 39,
+      "gas:candidate-vibid:2262000863601": 259,
+      "gas:candidate-vibid:2262000864387": 8,
+      "gas:candidate-vibid:2262000865086": 5,
+      "gas:candidate-vibid:2262000865412": 6,
+      "gas:candidate-vibid:2262000862161": 32,
+      "gas:candidate-vibid:2262000864310": 5,
+      "gas:candidate-vibid:2262000864460": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761453&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761453&type=464",
@@ -1483,16 +1483,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 28,
-      "Дроздова Ольга Павловна": 173,
-      "Кузьмин Александр Сергеевич": 78,
-      "Кузьмин Михаил Владимирович": 322,
-      "Кулагин Сергей Сергеевич": 16,
-      "Лебедев Павел Валерьевич": 13,
-      "Мохов Евгений Александрович": 9,
-      "Рукосуев Юрий Викторович": 37,
-      "Сасин Николай Иванович": 10,
-      "Соболев Виктор Иванович": 135
+      "gas:candidate-vibid:2262000863578": 28,
+      "gas:candidate-vibid:2262000773770": 173,
+      "gas:candidate-vibid:2262000862946": 78,
+      "gas:candidate-vibid:2262000863601": 322,
+      "gas:candidate-vibid:2262000864387": 16,
+      "gas:candidate-vibid:2262000865086": 13,
+      "gas:candidate-vibid:2262000865412": 9,
+      "gas:candidate-vibid:2262000862161": 37,
+      "gas:candidate-vibid:2262000864310": 10,
+      "gas:candidate-vibid:2262000864460": 135
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761453&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761453&type=464",
@@ -1543,16 +1543,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 14,
-      "Дроздова Ольга Павловна": 142,
-      "Кузьмин Александр Сергеевич": 50,
-      "Кузьмин Михаил Владимирович": 278,
-      "Кулагин Сергей Сергеевич": 11,
-      "Лебедев Павел Валерьевич": 6,
-      "Мохов Евгений Александрович": 6,
-      "Рукосуев Юрий Викторович": 26,
-      "Сасин Николай Иванович": 4,
-      "Соболев Виктор Иванович": 73
+      "gas:candidate-vibid:2262000863578": 14,
+      "gas:candidate-vibid:2262000773770": 142,
+      "gas:candidate-vibid:2262000862946": 50,
+      "gas:candidate-vibid:2262000863601": 278,
+      "gas:candidate-vibid:2262000864387": 11,
+      "gas:candidate-vibid:2262000865086": 6,
+      "gas:candidate-vibid:2262000865412": 6,
+      "gas:candidate-vibid:2262000862161": 26,
+      "gas:candidate-vibid:2262000864310": 4,
+      "gas:candidate-vibid:2262000864460": 73
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761453&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761453&type=464",
@@ -1603,16 +1603,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 16,
-      "Дроздова Ольга Павловна": 153,
-      "Кузьмин Александр Сергеевич": 63,
-      "Кузьмин Михаил Владимирович": 288,
-      "Кулагин Сергей Сергеевич": 14,
-      "Лебедев Павел Валерьевич": 6,
-      "Мохов Евгений Александрович": 9,
-      "Рукосуев Юрий Викторович": 30,
-      "Сасин Николай Иванович": 5,
-      "Соболев Виктор Иванович": 114
+      "gas:candidate-vibid:2262000863578": 16,
+      "gas:candidate-vibid:2262000773770": 153,
+      "gas:candidate-vibid:2262000862946": 63,
+      "gas:candidate-vibid:2262000863601": 288,
+      "gas:candidate-vibid:2262000864387": 14,
+      "gas:candidate-vibid:2262000865086": 6,
+      "gas:candidate-vibid:2262000865412": 9,
+      "gas:candidate-vibid:2262000862161": 30,
+      "gas:candidate-vibid:2262000864310": 5,
+      "gas:candidate-vibid:2262000864460": 114
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761453&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761453&type=464",
@@ -1663,16 +1663,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 10,
-      "Дроздова Ольга Павловна": 9,
-      "Кузьмин Александр Сергеевич": 10,
-      "Кузьмин Михаил Владимирович": 57,
-      "Кулагин Сергей Сергеевич": 7,
-      "Лебедев Павел Валерьевич": 1,
-      "Мохов Евгений Александрович": 2,
-      "Рукосуев Юрий Викторович": 4,
-      "Сасин Николай Иванович": 0,
-      "Соболев Виктор Иванович": 21
+      "gas:candidate-vibid:2262000863578": 10,
+      "gas:candidate-vibid:2262000773770": 9,
+      "gas:candidate-vibid:2262000862946": 10,
+      "gas:candidate-vibid:2262000863601": 57,
+      "gas:candidate-vibid:2262000864387": 7,
+      "gas:candidate-vibid:2262000865086": 1,
+      "gas:candidate-vibid:2262000865412": 2,
+      "gas:candidate-vibid:2262000862161": 4,
+      "gas:candidate-vibid:2262000864310": 0,
+      "gas:candidate-vibid:2262000864460": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761453&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761453&type=464",
@@ -1723,16 +1723,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 22,
-      "Дроздова Ольга Павловна": 70,
-      "Кузьмин Александр Сергеевич": 53,
-      "Кузьмин Михаил Владимирович": 168,
-      "Кулагин Сергей Сергеевич": 5,
-      "Лебедев Павел Валерьевич": 3,
-      "Мохов Евгений Александрович": 3,
-      "Рукосуев Юрий Викторович": 31,
-      "Сасин Николай Иванович": 1,
-      "Соболев Виктор Иванович": 136
+      "gas:candidate-vibid:2262000863578": 22,
+      "gas:candidate-vibid:2262000773770": 70,
+      "gas:candidate-vibid:2262000862946": 53,
+      "gas:candidate-vibid:2262000863601": 168,
+      "gas:candidate-vibid:2262000864387": 5,
+      "gas:candidate-vibid:2262000865086": 3,
+      "gas:candidate-vibid:2262000865412": 3,
+      "gas:candidate-vibid:2262000862161": 31,
+      "gas:candidate-vibid:2262000864310": 1,
+      "gas:candidate-vibid:2262000864460": 136
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761453&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761453&type=464",
@@ -1783,16 +1783,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 29,
-      "Дроздова Ольга Павловна": 176,
-      "Кузьмин Александр Сергеевич": 5,
-      "Кузьмин Михаил Владимирович": 410,
-      "Кулагин Сергей Сергеевич": 10,
-      "Лебедев Павел Валерьевич": 15,
-      "Мохов Евгений Александрович": 14,
-      "Рукосуев Юрий Викторович": 50,
-      "Сасин Николай Иванович": 10,
-      "Соболев Виктор Иванович": 240
+      "gas:candidate-vibid:2262000863578": 29,
+      "gas:candidate-vibid:2262000773770": 176,
+      "gas:candidate-vibid:2262000862946": 5,
+      "gas:candidate-vibid:2262000863601": 410,
+      "gas:candidate-vibid:2262000864387": 10,
+      "gas:candidate-vibid:2262000865086": 15,
+      "gas:candidate-vibid:2262000865412": 14,
+      "gas:candidate-vibid:2262000862161": 50,
+      "gas:candidate-vibid:2262000864310": 10,
+      "gas:candidate-vibid:2262000864460": 240
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761453&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761453&type=464",
@@ -1843,16 +1843,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 20,
-      "Дроздова Ольга Павловна": 69,
-      "Кузьмин Александр Сергеевич": 32,
-      "Кузьмин Михаил Владимирович": 147,
-      "Кулагин Сергей Сергеевич": 5,
-      "Лебедев Павел Валерьевич": 10,
-      "Мохов Евгений Александрович": 6,
-      "Рукосуев Юрий Викторович": 20,
-      "Сасин Николай Иванович": 3,
-      "Соболев Виктор Иванович": 85
+      "gas:candidate-vibid:2262000863578": 20,
+      "gas:candidate-vibid:2262000773770": 69,
+      "gas:candidate-vibid:2262000862946": 32,
+      "gas:candidate-vibid:2262000863601": 147,
+      "gas:candidate-vibid:2262000864387": 5,
+      "gas:candidate-vibid:2262000865086": 10,
+      "gas:candidate-vibid:2262000865412": 6,
+      "gas:candidate-vibid:2262000862161": 20,
+      "gas:candidate-vibid:2262000864310": 3,
+      "gas:candidate-vibid:2262000864460": 85
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761453&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761453&type=464",
@@ -1903,16 +1903,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 8,
-      "Дроздова Ольга Павловна": 46,
-      "Кузьмин Александр Сергеевич": 90,
-      "Кузьмин Михаил Владимирович": 185,
-      "Кулагин Сергей Сергеевич": 12,
-      "Лебедев Павел Валерьевич": 9,
-      "Мохов Евгений Александрович": 4,
-      "Рукосуев Юрий Викторович": 26,
-      "Сасин Николай Иванович": 4,
-      "Соболев Виктор Иванович": 21
+      "gas:candidate-vibid:2262000863578": 8,
+      "gas:candidate-vibid:2262000773770": 46,
+      "gas:candidate-vibid:2262000862946": 90,
+      "gas:candidate-vibid:2262000863601": 185,
+      "gas:candidate-vibid:2262000864387": 12,
+      "gas:candidate-vibid:2262000865086": 9,
+      "gas:candidate-vibid:2262000865412": 4,
+      "gas:candidate-vibid:2262000862161": 26,
+      "gas:candidate-vibid:2262000864310": 4,
+      "gas:candidate-vibid:2262000864460": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761453&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761453&type=464",
@@ -1963,16 +1963,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 4,
-      "Дроздова Ольга Павловна": 23,
-      "Кузьмин Александр Сергеевич": 23,
-      "Кузьмин Михаил Владимирович": 106,
-      "Кулагин Сергей Сергеевич": 0,
-      "Лебедев Павел Валерьевич": 3,
-      "Мохов Евгений Александрович": 1,
-      "Рукосуев Юрий Викторович": 8,
-      "Сасин Николай Иванович": 3,
-      "Соболев Виктор Иванович": 26
+      "gas:candidate-vibid:2262000863578": 4,
+      "gas:candidate-vibid:2262000773770": 23,
+      "gas:candidate-vibid:2262000862946": 23,
+      "gas:candidate-vibid:2262000863601": 106,
+      "gas:candidate-vibid:2262000864387": 0,
+      "gas:candidate-vibid:2262000865086": 3,
+      "gas:candidate-vibid:2262000865412": 1,
+      "gas:candidate-vibid:2262000862161": 8,
+      "gas:candidate-vibid:2262000864310": 3,
+      "gas:candidate-vibid:2262000864460": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761453&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761453&type=464",
@@ -2023,16 +2023,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 12,
-      "Дроздова Ольга Павловна": 114,
-      "Кузьмин Александр Сергеевич": 70,
-      "Кузьмин Михаил Владимирович": 310,
-      "Кулагин Сергей Сергеевич": 13,
-      "Лебедев Павел Валерьевич": 6,
-      "Мохов Евгений Александрович": 7,
-      "Рукосуев Юрий Викторович": 28,
-      "Сасин Николай Иванович": 6,
-      "Соболев Виктор Иванович": 77
+      "gas:candidate-vibid:2262000863578": 12,
+      "gas:candidate-vibid:2262000773770": 114,
+      "gas:candidate-vibid:2262000862946": 70,
+      "gas:candidate-vibid:2262000863601": 310,
+      "gas:candidate-vibid:2262000864387": 13,
+      "gas:candidate-vibid:2262000865086": 6,
+      "gas:candidate-vibid:2262000865412": 7,
+      "gas:candidate-vibid:2262000862161": 28,
+      "gas:candidate-vibid:2262000864310": 6,
+      "gas:candidate-vibid:2262000864460": 77
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761453&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761453&type=464",
@@ -2083,16 +2083,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 13,
-      "Дроздова Ольга Павловна": 144,
-      "Кузьмин Александр Сергеевич": 67,
-      "Кузьмин Михаил Владимирович": 327,
-      "Кулагин Сергей Сергеевич": 16,
-      "Лебедев Павел Валерьевич": 13,
-      "Мохов Евгений Александрович": 8,
-      "Рукосуев Юрий Викторович": 39,
-      "Сасин Николай Иванович": 12,
-      "Соболев Виктор Иванович": 152
+      "gas:candidate-vibid:2262000863578": 13,
+      "gas:candidate-vibid:2262000773770": 144,
+      "gas:candidate-vibid:2262000862946": 67,
+      "gas:candidate-vibid:2262000863601": 327,
+      "gas:candidate-vibid:2262000864387": 16,
+      "gas:candidate-vibid:2262000865086": 13,
+      "gas:candidate-vibid:2262000865412": 8,
+      "gas:candidate-vibid:2262000862161": 39,
+      "gas:candidate-vibid:2262000864310": 12,
+      "gas:candidate-vibid:2262000864460": 152
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761453&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761453&type=464",
@@ -2143,16 +2143,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 4,
-      "Дроздова Ольга Павловна": 40,
-      "Кузьмин Александр Сергеевич": 50,
-      "Кузьмин Михаил Владимирович": 194,
-      "Кулагин Сергей Сергеевич": 6,
-      "Лебедев Павел Валерьевич": 7,
-      "Мохов Евгений Александрович": 5,
-      "Рукосуев Юрий Викторович": 7,
-      "Сасин Николай Иванович": 3,
-      "Соболев Виктор Иванович": 34
+      "gas:candidate-vibid:2262000863578": 4,
+      "gas:candidate-vibid:2262000773770": 40,
+      "gas:candidate-vibid:2262000862946": 50,
+      "gas:candidate-vibid:2262000863601": 194,
+      "gas:candidate-vibid:2262000864387": 6,
+      "gas:candidate-vibid:2262000865086": 7,
+      "gas:candidate-vibid:2262000865412": 5,
+      "gas:candidate-vibid:2262000862161": 7,
+      "gas:candidate-vibid:2262000864310": 3,
+      "gas:candidate-vibid:2262000864460": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761453&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761453&type=464",
@@ -2203,16 +2203,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 27,
-      "Дроздова Ольга Павловна": 126,
-      "Кузьмин Александр Сергеевич": 80,
-      "Кузьмин Михаил Владимирович": 266,
-      "Кулагин Сергей Сергеевич": 17,
-      "Лебедев Павел Валерьевич": 11,
-      "Мохов Евгений Александрович": 6,
-      "Рукосуев Юрий Викторович": 36,
-      "Сасин Николай Иванович": 2,
-      "Соболев Виктор Иванович": 95
+      "gas:candidate-vibid:2262000863578": 27,
+      "gas:candidate-vibid:2262000773770": 126,
+      "gas:candidate-vibid:2262000862946": 80,
+      "gas:candidate-vibid:2262000863601": 266,
+      "gas:candidate-vibid:2262000864387": 17,
+      "gas:candidate-vibid:2262000865086": 11,
+      "gas:candidate-vibid:2262000865412": 6,
+      "gas:candidate-vibid:2262000862161": 36,
+      "gas:candidate-vibid:2262000864310": 2,
+      "gas:candidate-vibid:2262000864460": 95
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761453&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761453&type=464",
@@ -2263,16 +2263,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 0,
-      "Дроздова Ольга Павловна": 18,
-      "Кузьмин Александр Сергеевич": 11,
-      "Кузьмин Михаил Владимирович": 71,
-      "Кулагин Сергей Сергеевич": 4,
-      "Лебедев Павел Валерьевич": 1,
-      "Мохов Евгений Александрович": 0,
-      "Рукосуев Юрий Викторович": 4,
-      "Сасин Николай Иванович": 1,
-      "Соболев Виктор Иванович": 8
+      "gas:candidate-vibid:2262000863578": 0,
+      "gas:candidate-vibid:2262000773770": 18,
+      "gas:candidate-vibid:2262000862946": 11,
+      "gas:candidate-vibid:2262000863601": 71,
+      "gas:candidate-vibid:2262000864387": 4,
+      "gas:candidate-vibid:2262000865086": 1,
+      "gas:candidate-vibid:2262000865412": 0,
+      "gas:candidate-vibid:2262000862161": 4,
+      "gas:candidate-vibid:2262000864310": 1,
+      "gas:candidate-vibid:2262000864460": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761453&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761453&type=464",
@@ -2323,16 +2323,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 5,
-      "Дроздова Ольга Павловна": 20,
-      "Кузьмин Александр Сергеевич": 30,
-      "Кузьмин Михаил Владимирович": 80,
-      "Кулагин Сергей Сергеевич": 5,
-      "Лебедев Павел Валерьевич": 10,
-      "Мохов Евгений Александрович": 2,
-      "Рукосуев Юрий Викторович": 7,
-      "Сасин Николай Иванович": 1,
-      "Соболев Виктор Иванович": 24
+      "gas:candidate-vibid:2262000863578": 5,
+      "gas:candidate-vibid:2262000773770": 20,
+      "gas:candidate-vibid:2262000862946": 30,
+      "gas:candidate-vibid:2262000863601": 80,
+      "gas:candidate-vibid:2262000864387": 5,
+      "gas:candidate-vibid:2262000865086": 10,
+      "gas:candidate-vibid:2262000865412": 2,
+      "gas:candidate-vibid:2262000862161": 7,
+      "gas:candidate-vibid:2262000864310": 1,
+      "gas:candidate-vibid:2262000864460": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761453&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761453&type=464",
@@ -2383,16 +2383,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 1,
-      "Дроздова Ольга Павловна": 20,
-      "Кузьмин Александр Сергеевич": 11,
-      "Кузьмин Михаил Владимирович": 99,
-      "Кулагин Сергей Сергеевич": 1,
-      "Лебедев Павел Валерьевич": 1,
-      "Мохов Евгений Александрович": 0,
-      "Рукосуев Юрий Викторович": 5,
-      "Сасин Николай Иванович": 0,
-      "Соболев Виктор Иванович": 4
+      "gas:candidate-vibid:2262000863578": 1,
+      "gas:candidate-vibid:2262000773770": 20,
+      "gas:candidate-vibid:2262000862946": 11,
+      "gas:candidate-vibid:2262000863601": 99,
+      "gas:candidate-vibid:2262000864387": 1,
+      "gas:candidate-vibid:2262000865086": 1,
+      "gas:candidate-vibid:2262000865412": 0,
+      "gas:candidate-vibid:2262000862161": 5,
+      "gas:candidate-vibid:2262000864310": 0,
+      "gas:candidate-vibid:2262000864460": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761453&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761453&type=464",
@@ -2443,16 +2443,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 7,
-      "Дроздова Ольга Павловна": 12,
-      "Кузьмин Александр Сергеевич": 10,
-      "Кузьмин Михаил Владимирович": 76,
-      "Кулагин Сергей Сергеевич": 3,
-      "Лебедев Павел Валерьевич": 1,
-      "Мохов Евгений Александрович": 0,
-      "Рукосуев Юрий Викторович": 6,
-      "Сасин Николай Иванович": 2,
-      "Соболев Виктор Иванович": 11
+      "gas:candidate-vibid:2262000863578": 7,
+      "gas:candidate-vibid:2262000773770": 12,
+      "gas:candidate-vibid:2262000862946": 10,
+      "gas:candidate-vibid:2262000863601": 76,
+      "gas:candidate-vibid:2262000864387": 3,
+      "gas:candidate-vibid:2262000865086": 1,
+      "gas:candidate-vibid:2262000865412": 0,
+      "gas:candidate-vibid:2262000862161": 6,
+      "gas:candidate-vibid:2262000864310": 2,
+      "gas:candidate-vibid:2262000864460": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761453&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761453&type=464",
@@ -2503,16 +2503,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 17,
-      "Дроздова Ольга Павловна": 143,
-      "Кузьмин Александр Сергеевич": 53,
-      "Кузьмин Михаил Владимирович": 181,
-      "Кулагин Сергей Сергеевич": 11,
-      "Лебедев Павел Валерьевич": 5,
-      "Мохов Евгений Александрович": 6,
-      "Рукосуев Юрий Викторович": 41,
-      "Сасин Николай Иванович": 9,
-      "Соболев Виктор Иванович": 82
+      "gas:candidate-vibid:2262000863578": 17,
+      "gas:candidate-vibid:2262000773770": 143,
+      "gas:candidate-vibid:2262000862946": 53,
+      "gas:candidate-vibid:2262000863601": 181,
+      "gas:candidate-vibid:2262000864387": 11,
+      "gas:candidate-vibid:2262000865086": 5,
+      "gas:candidate-vibid:2262000865412": 6,
+      "gas:candidate-vibid:2262000862161": 41,
+      "gas:candidate-vibid:2262000864310": 9,
+      "gas:candidate-vibid:2262000864460": 82
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761453&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761453&type=464",
@@ -2563,16 +2563,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 6,
-      "Дроздова Ольга Павловна": 70,
-      "Кузьмин Александр Сергеевич": 27,
-      "Кузьмин Михаил Владимирович": 109,
-      "Кулагин Сергей Сергеевич": 13,
-      "Лебедев Павел Валерьевич": 0,
-      "Мохов Евгений Александрович": 3,
-      "Рукосуев Юрий Викторович": 16,
-      "Сасин Николай Иванович": 4,
-      "Соболев Виктор Иванович": 32
+      "gas:candidate-vibid:2262000863578": 6,
+      "gas:candidate-vibid:2262000773770": 70,
+      "gas:candidate-vibid:2262000862946": 27,
+      "gas:candidate-vibid:2262000863601": 109,
+      "gas:candidate-vibid:2262000864387": 13,
+      "gas:candidate-vibid:2262000865086": 0,
+      "gas:candidate-vibid:2262000865412": 3,
+      "gas:candidate-vibid:2262000862161": 16,
+      "gas:candidate-vibid:2262000864310": 4,
+      "gas:candidate-vibid:2262000864460": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761453&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761453&type=464",
@@ -2623,16 +2623,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 22,
-      "Дроздова Ольга Павловна": 153,
-      "Кузьмин Александр Сергеевич": 48,
-      "Кузьмин Михаил Владимирович": 1017,
-      "Кулагин Сергей Сергеевич": 15,
-      "Лебедев Павел Валерьевич": 7,
-      "Мохов Евгений Александрович": 15,
-      "Рукосуев Юрий Викторович": 25,
-      "Сасин Николай Иванович": 22,
-      "Соболев Виктор Иванович": 74
+      "gas:candidate-vibid:2262000863578": 22,
+      "gas:candidate-vibid:2262000773770": 153,
+      "gas:candidate-vibid:2262000862946": 48,
+      "gas:candidate-vibid:2262000863601": 1017,
+      "gas:candidate-vibid:2262000864387": 15,
+      "gas:candidate-vibid:2262000865086": 7,
+      "gas:candidate-vibid:2262000865412": 15,
+      "gas:candidate-vibid:2262000862161": 25,
+      "gas:candidate-vibid:2262000864310": 22,
+      "gas:candidate-vibid:2262000864460": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761454&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761454&type=464",
@@ -2683,16 +2683,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 0,
-      "Дроздова Ольга Павловна": 157,
-      "Кузьмин Александр Сергеевич": 45,
-      "Кузьмин Михаил Владимирович": 879,
-      "Кулагин Сергей Сергеевич": 0,
-      "Лебедев Павел Валерьевич": 0,
-      "Мохов Евгений Александрович": 0,
-      "Рукосуев Юрий Викторович": 0,
-      "Сасин Николай Иванович": 0,
-      "Соболев Виктор Иванович": 84
+      "gas:candidate-vibid:2262000863578": 0,
+      "gas:candidate-vibid:2262000773770": 157,
+      "gas:candidate-vibid:2262000862946": 45,
+      "gas:candidate-vibid:2262000863601": 879,
+      "gas:candidate-vibid:2262000864387": 0,
+      "gas:candidate-vibid:2262000865086": 0,
+      "gas:candidate-vibid:2262000865412": 0,
+      "gas:candidate-vibid:2262000862161": 0,
+      "gas:candidate-vibid:2262000864310": 0,
+      "gas:candidate-vibid:2262000864460": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761454&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761454&type=464",
@@ -2743,16 +2743,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 31,
-      "Дроздова Ольга Павловна": 162,
-      "Кузьмин Александр Сергеевич": 80,
-      "Кузьмин Михаил Владимирович": 769,
-      "Кулагин Сергей Сергеевич": 17,
-      "Лебедев Павел Валерьевич": 26,
-      "Мохов Евгений Александрович": 16,
-      "Рукосуев Юрий Викторович": 35,
-      "Сасин Николай Иванович": 25,
-      "Соболев Виктор Иванович": 102
+      "gas:candidate-vibid:2262000863578": 31,
+      "gas:candidate-vibid:2262000773770": 162,
+      "gas:candidate-vibid:2262000862946": 80,
+      "gas:candidate-vibid:2262000863601": 769,
+      "gas:candidate-vibid:2262000864387": 17,
+      "gas:candidate-vibid:2262000865086": 26,
+      "gas:candidate-vibid:2262000865412": 16,
+      "gas:candidate-vibid:2262000862161": 35,
+      "gas:candidate-vibid:2262000864310": 25,
+      "gas:candidate-vibid:2262000864460": 102
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761454&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761454&type=464",
@@ -2803,16 +2803,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 23,
-      "Дроздова Ольга Павловна": 270,
-      "Кузьмин Александр Сергеевич": 77,
-      "Кузьмин Михаил Владимирович": 625,
-      "Кулагин Сергей Сергеевич": 25,
-      "Лебедев Павел Валерьевич": 13,
-      "Мохов Евгений Александрович": 24,
-      "Рукосуев Юрий Викторович": 33,
-      "Сасин Николай Иванович": 24,
-      "Соболев Виктор Иванович": 105
+      "gas:candidate-vibid:2262000863578": 23,
+      "gas:candidate-vibid:2262000773770": 270,
+      "gas:candidate-vibid:2262000862946": 77,
+      "gas:candidate-vibid:2262000863601": 625,
+      "gas:candidate-vibid:2262000864387": 25,
+      "gas:candidate-vibid:2262000865086": 13,
+      "gas:candidate-vibid:2262000865412": 24,
+      "gas:candidate-vibid:2262000862161": 33,
+      "gas:candidate-vibid:2262000864310": 24,
+      "gas:candidate-vibid:2262000864460": 105
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761454&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761454&type=464",
@@ -2863,16 +2863,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 4,
-      "Дроздова Ольга Павловна": 27,
-      "Кузьмин Александр Сергеевич": 11,
-      "Кузьмин Михаил Владимирович": 103,
-      "Кулагин Сергей Сергеевич": 4,
-      "Лебедев Павел Валерьевич": 6,
-      "Мохов Евгений Александрович": 4,
-      "Рукосуев Юрий Викторович": 4,
-      "Сасин Николай Иванович": 3,
-      "Соболев Виктор Иванович": 32
+      "gas:candidate-vibid:2262000863578": 4,
+      "gas:candidate-vibid:2262000773770": 27,
+      "gas:candidate-vibid:2262000862946": 11,
+      "gas:candidate-vibid:2262000863601": 103,
+      "gas:candidate-vibid:2262000864387": 4,
+      "gas:candidate-vibid:2262000865086": 6,
+      "gas:candidate-vibid:2262000865412": 4,
+      "gas:candidate-vibid:2262000862161": 4,
+      "gas:candidate-vibid:2262000864310": 3,
+      "gas:candidate-vibid:2262000864460": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761454&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761454&type=464",
@@ -2923,16 +2923,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 38,
-      "Дроздова Ольга Павловна": 195,
-      "Кузьмин Александр Сергеевич": 67,
-      "Кузьмин Михаил Владимирович": 511,
-      "Кулагин Сергей Сергеевич": 9,
-      "Лебедев Павел Валерьевич": 21,
-      "Мохов Евгений Александрович": 30,
-      "Рукосуев Юрий Викторович": 44,
-      "Сасин Николай Иванович": 40,
-      "Соболев Виктор Иванович": 112
+      "gas:candidate-vibid:2262000863578": 38,
+      "gas:candidate-vibid:2262000773770": 195,
+      "gas:candidate-vibid:2262000862946": 67,
+      "gas:candidate-vibid:2262000863601": 511,
+      "gas:candidate-vibid:2262000864387": 9,
+      "gas:candidate-vibid:2262000865086": 21,
+      "gas:candidate-vibid:2262000865412": 30,
+      "gas:candidate-vibid:2262000862161": 44,
+      "gas:candidate-vibid:2262000864310": 40,
+      "gas:candidate-vibid:2262000864460": 112
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761454&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761454&type=464",
@@ -2983,16 +2983,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 26,
-      "Дроздова Ольга Павловна": 221,
-      "Кузьмин Александр Сергеевич": 69,
-      "Кузьмин Михаил Владимирович": 252,
-      "Кулагин Сергей Сергеевич": 17,
-      "Лебедев Павел Валерьевич": 12,
-      "Мохов Евгений Александрович": 13,
-      "Рукосуев Юрий Викторович": 33,
-      "Сасин Николай Иванович": 19,
-      "Соболев Виктор Иванович": 87
+      "gas:candidate-vibid:2262000863578": 26,
+      "gas:candidate-vibid:2262000773770": 221,
+      "gas:candidate-vibid:2262000862946": 69,
+      "gas:candidate-vibid:2262000863601": 252,
+      "gas:candidate-vibid:2262000864387": 17,
+      "gas:candidate-vibid:2262000865086": 12,
+      "gas:candidate-vibid:2262000865412": 13,
+      "gas:candidate-vibid:2262000862161": 33,
+      "gas:candidate-vibid:2262000864310": 19,
+      "gas:candidate-vibid:2262000864460": 87
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761454&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761454&type=464",
@@ -3043,16 +3043,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 0,
-      "Дроздова Ольга Павловна": 217,
-      "Кузьмин Александр Сергеевич": 54,
-      "Кузьмин Михаил Владимирович": 514,
-      "Кулагин Сергей Сергеевич": 0,
-      "Лебедев Павел Валерьевич": 0,
-      "Мохов Евгений Александрович": 0,
-      "Рукосуев Юрий Викторович": 0,
-      "Сасин Николай Иванович": 28,
-      "Соболев Виктор Иванович": 100
+      "gas:candidate-vibid:2262000863578": 0,
+      "gas:candidate-vibid:2262000773770": 217,
+      "gas:candidate-vibid:2262000862946": 54,
+      "gas:candidate-vibid:2262000863601": 514,
+      "gas:candidate-vibid:2262000864387": 0,
+      "gas:candidate-vibid:2262000865086": 0,
+      "gas:candidate-vibid:2262000865412": 0,
+      "gas:candidate-vibid:2262000862161": 0,
+      "gas:candidate-vibid:2262000864310": 28,
+      "gas:candidate-vibid:2262000864460": 100
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761454&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761454&type=464",
@@ -3103,16 +3103,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 28,
-      "Дроздова Ольга Павловна": 159,
-      "Кузьмин Александр Сергеевич": 46,
-      "Кузьмин Михаил Владимирович": 1264,
-      "Кулагин Сергей Сергеевич": 14,
-      "Лебедев Павел Валерьевич": 17,
-      "Мохов Евгений Александрович": 11,
-      "Рукосуев Юрий Викторович": 29,
-      "Сасин Николай Иванович": 22,
-      "Соболев Виктор Иванович": 76
+      "gas:candidate-vibid:2262000863578": 28,
+      "gas:candidate-vibid:2262000773770": 159,
+      "gas:candidate-vibid:2262000862946": 46,
+      "gas:candidate-vibid:2262000863601": 1264,
+      "gas:candidate-vibid:2262000864387": 14,
+      "gas:candidate-vibid:2262000865086": 17,
+      "gas:candidate-vibid:2262000865412": 11,
+      "gas:candidate-vibid:2262000862161": 29,
+      "gas:candidate-vibid:2262000864310": 22,
+      "gas:candidate-vibid:2262000864460": 76
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761454&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761454&type=464",
@@ -3163,16 +3163,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 26,
-      "Дроздова Ольга Павловна": 224,
-      "Кузьмин Александр Сергеевич": 75,
-      "Кузьмин Михаил Владимирович": 906,
-      "Кулагин Сергей Сергеевич": 22,
-      "Лебедев Павел Валерьевич": 13,
-      "Мохов Евгений Александрович": 13,
-      "Рукосуев Юрий Викторович": 34,
-      "Сасин Николай Иванович": 31,
-      "Соболев Виктор Иванович": 101
+      "gas:candidate-vibid:2262000863578": 26,
+      "gas:candidate-vibid:2262000773770": 224,
+      "gas:candidate-vibid:2262000862946": 75,
+      "gas:candidate-vibid:2262000863601": 906,
+      "gas:candidate-vibid:2262000864387": 22,
+      "gas:candidate-vibid:2262000865086": 13,
+      "gas:candidate-vibid:2262000865412": 13,
+      "gas:candidate-vibid:2262000862161": 34,
+      "gas:candidate-vibid:2262000864310": 31,
+      "gas:candidate-vibid:2262000864460": 101
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761454&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761454&type=464",
@@ -3223,16 +3223,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 0,
-      "Дроздова Ольга Павловна": 96,
-      "Кузьмин Александр Сергеевич": 80,
-      "Кузьмин Михаил Владимирович": 563,
-      "Кулагин Сергей Сергеевич": 0,
-      "Лебедев Павел Валерьевич": 0,
-      "Мохов Евгений Александрович": 0,
-      "Рукосуев Юрий Викторович": 0,
-      "Сасин Николай Иванович": 27,
-      "Соболев Виктор Иванович": 120
+      "gas:candidate-vibid:2262000863578": 0,
+      "gas:candidate-vibid:2262000773770": 96,
+      "gas:candidate-vibid:2262000862946": 80,
+      "gas:candidate-vibid:2262000863601": 563,
+      "gas:candidate-vibid:2262000864387": 0,
+      "gas:candidate-vibid:2262000865086": 0,
+      "gas:candidate-vibid:2262000865412": 0,
+      "gas:candidate-vibid:2262000862161": 0,
+      "gas:candidate-vibid:2262000864310": 27,
+      "gas:candidate-vibid:2262000864460": 120
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761454&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761454&type=464",
@@ -3283,16 +3283,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 0,
-      "Дроздова Ольга Павловна": 154,
-      "Кузьмин Александр Сергеевич": 75,
-      "Кузьмин Михаил Владимирович": 446,
-      "Кулагин Сергей Сергеевич": 0,
-      "Лебедев Павел Валерьевич": 0,
-      "Мохов Евгений Александрович": 0,
-      "Рукосуев Юрий Викторович": 0,
-      "Сасин Николай Иванович": 0,
-      "Соболев Виктор Иванович": 76
+      "gas:candidate-vibid:2262000863578": 0,
+      "gas:candidate-vibid:2262000773770": 154,
+      "gas:candidate-vibid:2262000862946": 75,
+      "gas:candidate-vibid:2262000863601": 446,
+      "gas:candidate-vibid:2262000864387": 0,
+      "gas:candidate-vibid:2262000865086": 0,
+      "gas:candidate-vibid:2262000865412": 0,
+      "gas:candidate-vibid:2262000862161": 0,
+      "gas:candidate-vibid:2262000864310": 0,
+      "gas:candidate-vibid:2262000864460": 76
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761454&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761454&type=464",
@@ -3343,16 +3343,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 29,
-      "Дроздова Ольга Павловна": 150,
-      "Кузьмин Александр Сергеевич": 62,
-      "Кузьмин Михаил Владимирович": 1059,
-      "Кулагин Сергей Сергеевич": 21,
-      "Лебедев Павел Валерьевич": 19,
-      "Мохов Евгений Александрович": 15,
-      "Рукосуев Юрий Викторович": 31,
-      "Сасин Николай Иванович": 25,
-      "Соболев Виктор Иванович": 88
+      "gas:candidate-vibid:2262000863578": 29,
+      "gas:candidate-vibid:2262000773770": 150,
+      "gas:candidate-vibid:2262000862946": 62,
+      "gas:candidate-vibid:2262000863601": 1059,
+      "gas:candidate-vibid:2262000864387": 21,
+      "gas:candidate-vibid:2262000865086": 19,
+      "gas:candidate-vibid:2262000865412": 15,
+      "gas:candidate-vibid:2262000862161": 31,
+      "gas:candidate-vibid:2262000864310": 25,
+      "gas:candidate-vibid:2262000864460": 88
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761454&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761454&type=464",
@@ -3403,16 +3403,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 41,
-      "Дроздова Ольга Павловна": 204,
-      "Кузьмин Александр Сергеевич": 67,
-      "Кузьмин Михаил Владимирович": 339,
-      "Кулагин Сергей Сергеевич": 19,
-      "Лебедев Павел Валерьевич": 16,
-      "Мохов Евгений Александрович": 12,
-      "Рукосуев Юрий Викторович": 45,
-      "Сасин Николай Иванович": 15,
-      "Соболев Виктор Иванович": 123
+      "gas:candidate-vibid:2262000863578": 41,
+      "gas:candidate-vibid:2262000773770": 204,
+      "gas:candidate-vibid:2262000862946": 67,
+      "gas:candidate-vibid:2262000863601": 339,
+      "gas:candidate-vibid:2262000864387": 19,
+      "gas:candidate-vibid:2262000865086": 16,
+      "gas:candidate-vibid:2262000865412": 12,
+      "gas:candidate-vibid:2262000862161": 45,
+      "gas:candidate-vibid:2262000864310": 15,
+      "gas:candidate-vibid:2262000864460": 123
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761454&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761454&type=464",
@@ -3463,16 +3463,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 0,
-      "Дроздова Ольга Павловна": 4,
-      "Кузьмин Александр Сергеевич": 79,
-      "Кузьмин Михаил Владимирович": 794,
-      "Кулагин Сергей Сергеевич": 0,
-      "Лебедев Павел Валерьевич": 0,
-      "Мохов Евгений Александрович": 0,
-      "Рукосуев Юрий Викторович": 0,
-      "Сасин Николай Иванович": 0,
-      "Соболев Виктор Иванович": 16
+      "gas:candidate-vibid:2262000863578": 0,
+      "gas:candidate-vibid:2262000773770": 4,
+      "gas:candidate-vibid:2262000862946": 79,
+      "gas:candidate-vibid:2262000863601": 794,
+      "gas:candidate-vibid:2262000864387": 0,
+      "gas:candidate-vibid:2262000865086": 0,
+      "gas:candidate-vibid:2262000865412": 0,
+      "gas:candidate-vibid:2262000862161": 0,
+      "gas:candidate-vibid:2262000864310": 0,
+      "gas:candidate-vibid:2262000864460": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761454&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761454&type=464",
@@ -3523,16 +3523,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 25,
-      "Дроздова Ольга Павловна": 168,
-      "Кузьмин Александр Сергеевич": 62,
-      "Кузьмин Михаил Владимирович": 826,
-      "Кулагин Сергей Сергеевич": 25,
-      "Лебедев Павел Валерьевич": 8,
-      "Мохов Евгений Александрович": 11,
-      "Рукосуев Юрий Викторович": 28,
-      "Сасин Николай Иванович": 21,
-      "Соболев Виктор Иванович": 81
+      "gas:candidate-vibid:2262000863578": 25,
+      "gas:candidate-vibid:2262000773770": 168,
+      "gas:candidate-vibid:2262000862946": 62,
+      "gas:candidate-vibid:2262000863601": 826,
+      "gas:candidate-vibid:2262000864387": 25,
+      "gas:candidate-vibid:2262000865086": 8,
+      "gas:candidate-vibid:2262000865412": 11,
+      "gas:candidate-vibid:2262000862161": 28,
+      "gas:candidate-vibid:2262000864310": 21,
+      "gas:candidate-vibid:2262000864460": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761454&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761454&type=464",
@@ -3583,16 +3583,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 0,
-      "Дроздова Ольга Павловна": 74,
-      "Кузьмин Александр Сергеевич": 56,
-      "Кузьмин Михаил Владимирович": 581,
-      "Кулагин Сергей Сергеевич": 0,
-      "Лебедев Павел Валерьевич": 0,
-      "Мохов Евгений Александрович": 0,
-      "Рукосуев Юрий Викторович": 0,
-      "Сасин Николай Иванович": 27,
-      "Соболев Виктор Иванович": 83
+      "gas:candidate-vibid:2262000863578": 0,
+      "gas:candidate-vibid:2262000773770": 74,
+      "gas:candidate-vibid:2262000862946": 56,
+      "gas:candidate-vibid:2262000863601": 581,
+      "gas:candidate-vibid:2262000864387": 0,
+      "gas:candidate-vibid:2262000865086": 0,
+      "gas:candidate-vibid:2262000865412": 0,
+      "gas:candidate-vibid:2262000862161": 0,
+      "gas:candidate-vibid:2262000864310": 27,
+      "gas:candidate-vibid:2262000864460": 83
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761454&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761454&type=464",
@@ -3643,16 +3643,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 37,
-      "Дроздова Ольга Павловна": 230,
-      "Кузьмин Александр Сергеевич": 63,
-      "Кузьмин Михаил Владимирович": 413,
-      "Кулагин Сергей Сергеевич": 27,
-      "Лебедев Павел Валерьевич": 28,
-      "Мохов Евгений Александрович": 15,
-      "Рукосуев Юрий Викторович": 38,
-      "Сасин Николай Иванович": 21,
-      "Соболев Виктор Иванович": 100
+      "gas:candidate-vibid:2262000863578": 37,
+      "gas:candidate-vibid:2262000773770": 230,
+      "gas:candidate-vibid:2262000862946": 63,
+      "gas:candidate-vibid:2262000863601": 413,
+      "gas:candidate-vibid:2262000864387": 27,
+      "gas:candidate-vibid:2262000865086": 28,
+      "gas:candidate-vibid:2262000865412": 15,
+      "gas:candidate-vibid:2262000862161": 38,
+      "gas:candidate-vibid:2262000864310": 21,
+      "gas:candidate-vibid:2262000864460": 100
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761454&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761454&type=464",
@@ -3703,16 +3703,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 13,
-      "Дроздова Ольга Павловна": 70,
-      "Кузьмин Александр Сергеевич": 22,
-      "Кузьмин Михаил Владимирович": 355,
-      "Кулагин Сергей Сергеевич": 9,
-      "Лебедев Павел Валерьевич": 4,
-      "Мохов Евгений Александрович": 5,
-      "Рукосуев Юрий Викторович": 11,
-      "Сасин Николай Иванович": 10,
-      "Соболев Виктор Иванович": 42
+      "gas:candidate-vibid:2262000863578": 13,
+      "gas:candidate-vibid:2262000773770": 70,
+      "gas:candidate-vibid:2262000862946": 22,
+      "gas:candidate-vibid:2262000863601": 355,
+      "gas:candidate-vibid:2262000864387": 9,
+      "gas:candidate-vibid:2262000865086": 4,
+      "gas:candidate-vibid:2262000865412": 5,
+      "gas:candidate-vibid:2262000862161": 11,
+      "gas:candidate-vibid:2262000864310": 10,
+      "gas:candidate-vibid:2262000864460": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761454&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761454&type=464",
@@ -3763,16 +3763,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 52,
-      "Дроздова Ольга Павловна": 201,
-      "Кузьмин Александр Сергеевич": 90,
-      "Кузьмин Михаил Владимирович": 333,
-      "Кулагин Сергей Сергеевич": 21,
-      "Лебедев Павел Валерьевич": 17,
-      "Мохов Евгений Александрович": 28,
-      "Рукосуев Юрий Викторович": 46,
-      "Сасин Николай Иванович": 18,
-      "Соболев Виктор Иванович": 121
+      "gas:candidate-vibid:2262000863578": 52,
+      "gas:candidate-vibid:2262000773770": 201,
+      "gas:candidate-vibid:2262000862946": 90,
+      "gas:candidate-vibid:2262000863601": 333,
+      "gas:candidate-vibid:2262000864387": 21,
+      "gas:candidate-vibid:2262000865086": 17,
+      "gas:candidate-vibid:2262000865412": 28,
+      "gas:candidate-vibid:2262000862161": 46,
+      "gas:candidate-vibid:2262000864310": 18,
+      "gas:candidate-vibid:2262000864460": 121
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761454&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761454&type=464",
@@ -3823,16 +3823,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 0,
-      "Дроздова Ольга Павловна": 104,
-      "Кузьмин Александр Сергеевич": 44,
-      "Кузьмин Михаил Владимирович": 786,
-      "Кулагин Сергей Сергеевич": 0,
-      "Лебедев Павел Валерьевич": 0,
-      "Мохов Евгений Александрович": 0,
-      "Рукосуев Юрий Викторович": 0,
-      "Сасин Николай Иванович": 0,
-      "Соболев Виктор Иванович": 137
+      "gas:candidate-vibid:2262000863578": 0,
+      "gas:candidate-vibid:2262000773770": 104,
+      "gas:candidate-vibid:2262000862946": 44,
+      "gas:candidate-vibid:2262000863601": 786,
+      "gas:candidate-vibid:2262000864387": 0,
+      "gas:candidate-vibid:2262000865086": 0,
+      "gas:candidate-vibid:2262000865412": 0,
+      "gas:candidate-vibid:2262000862161": 0,
+      "gas:candidate-vibid:2262000864310": 0,
+      "gas:candidate-vibid:2262000864460": 137
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761454&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761454&type=464",
@@ -3883,16 +3883,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 4,
-      "Дроздова Ольга Павловна": 21,
-      "Кузьмин Александр Сергеевич": 17,
-      "Кузьмин Михаил Владимирович": 57,
-      "Кулагин Сергей Сергеевич": 4,
-      "Лебедев Павел Валерьевич": 2,
-      "Мохов Евгений Александрович": 2,
-      "Рукосуев Юрий Викторович": 5,
-      "Сасин Николай Иванович": 1,
-      "Соболев Виктор Иванович": 9
+      "gas:candidate-vibid:2262000863578": 4,
+      "gas:candidate-vibid:2262000773770": 21,
+      "gas:candidate-vibid:2262000862946": 17,
+      "gas:candidate-vibid:2262000863601": 57,
+      "gas:candidate-vibid:2262000864387": 4,
+      "gas:candidate-vibid:2262000865086": 2,
+      "gas:candidate-vibid:2262000865412": 2,
+      "gas:candidate-vibid:2262000862161": 5,
+      "gas:candidate-vibid:2262000864310": 1,
+      "gas:candidate-vibid:2262000864460": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761454&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761454&type=464",
@@ -3943,16 +3943,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 0,
-      "Дроздова Ольга Павловна": 103,
-      "Кузьмин Александр Сергеевич": 75,
-      "Кузьмин Михаил Владимирович": 347,
-      "Кулагин Сергей Сергеевич": 0,
-      "Лебедев Павел Валерьевич": 0,
-      "Мохов Евгений Александрович": 0,
-      "Рукосуев Юрий Викторович": 0,
-      "Сасин Николай Иванович": 9,
-      "Соболев Виктор Иванович": 44
+      "gas:candidate-vibid:2262000863578": 0,
+      "gas:candidate-vibid:2262000773770": 103,
+      "gas:candidate-vibid:2262000862946": 75,
+      "gas:candidate-vibid:2262000863601": 347,
+      "gas:candidate-vibid:2262000864387": 0,
+      "gas:candidate-vibid:2262000865086": 0,
+      "gas:candidate-vibid:2262000865412": 0,
+      "gas:candidate-vibid:2262000862161": 0,
+      "gas:candidate-vibid:2262000864310": 9,
+      "gas:candidate-vibid:2262000864460": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761454&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761454&type=464",
@@ -4003,16 +4003,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 3,
-      "Дроздова Ольга Павловна": 7,
-      "Кузьмин Александр Сергеевич": 14,
-      "Кузьмин Михаил Владимирович": 40,
-      "Кулагин Сергей Сергеевич": 2,
-      "Лебедев Павел Валерьевич": 2,
-      "Мохов Евгений Александрович": 1,
-      "Рукосуев Юрий Викторович": 0,
-      "Сасин Николай Иванович": 0,
-      "Соболев Виктор Иванович": 4
+      "gas:candidate-vibid:2262000863578": 3,
+      "gas:candidate-vibid:2262000773770": 7,
+      "gas:candidate-vibid:2262000862946": 14,
+      "gas:candidate-vibid:2262000863601": 40,
+      "gas:candidate-vibid:2262000864387": 2,
+      "gas:candidate-vibid:2262000865086": 2,
+      "gas:candidate-vibid:2262000865412": 1,
+      "gas:candidate-vibid:2262000862161": 0,
+      "gas:candidate-vibid:2262000864310": 0,
+      "gas:candidate-vibid:2262000864460": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761454&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761454&type=464",
@@ -4063,16 +4063,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 0,
-      "Дроздова Ольга Павловна": 16,
-      "Кузьмин Александр Сергеевич": 7,
-      "Кузьмин Михаил Владимирович": 65,
-      "Кулагин Сергей Сергеевич": 0,
-      "Лебедев Павел Валерьевич": 0,
-      "Мохов Евгений Александрович": 0,
-      "Рукосуев Юрий Викторович": 0,
-      "Сасин Николай Иванович": 0,
-      "Соболев Виктор Иванович": 22
+      "gas:candidate-vibid:2262000863578": 0,
+      "gas:candidate-vibid:2262000773770": 16,
+      "gas:candidate-vibid:2262000862946": 7,
+      "gas:candidate-vibid:2262000863601": 65,
+      "gas:candidate-vibid:2262000864387": 0,
+      "gas:candidate-vibid:2262000865086": 0,
+      "gas:candidate-vibid:2262000865412": 0,
+      "gas:candidate-vibid:2262000862161": 0,
+      "gas:candidate-vibid:2262000864310": 0,
+      "gas:candidate-vibid:2262000864460": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761454&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761454&type=464",
@@ -4123,16 +4123,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 35,
-      "Дроздова Ольга Павловна": 140,
-      "Кузьмин Александр Сергеевич": 86,
-      "Кузьмин Михаил Владимирович": 289,
-      "Кулагин Сергей Сергеевич": 18,
-      "Лебедев Павел Валерьевич": 10,
-      "Мохов Евгений Александрович": 13,
-      "Рукосуев Юрий Викторович": 31,
-      "Сасин Николай Иванович": 12,
-      "Соболев Виктор Иванович": 58
+      "gas:candidate-vibid:2262000863578": 35,
+      "gas:candidate-vibid:2262000773770": 140,
+      "gas:candidate-vibid:2262000862946": 86,
+      "gas:candidate-vibid:2262000863601": 289,
+      "gas:candidate-vibid:2262000864387": 18,
+      "gas:candidate-vibid:2262000865086": 10,
+      "gas:candidate-vibid:2262000865412": 13,
+      "gas:candidate-vibid:2262000862161": 31,
+      "gas:candidate-vibid:2262000864310": 12,
+      "gas:candidate-vibid:2262000864460": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761454&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761454&type=464",
@@ -4183,16 +4183,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 0,
-      "Дроздова Ольга Павловна": 8,
-      "Кузьмин Александр Сергеевич": 5,
-      "Кузьмин Михаил Владимирович": 67,
-      "Кулагин Сергей Сергеевич": 0,
-      "Лебедев Павел Валерьевич": 0,
-      "Мохов Евгений Александрович": 0,
-      "Рукосуев Юрий Викторович": 0,
-      "Сасин Николай Иванович": 0,
-      "Соболев Виктор Иванович": 10
+      "gas:candidate-vibid:2262000863578": 0,
+      "gas:candidate-vibid:2262000773770": 8,
+      "gas:candidate-vibid:2262000862946": 5,
+      "gas:candidate-vibid:2262000863601": 67,
+      "gas:candidate-vibid:2262000864387": 0,
+      "gas:candidate-vibid:2262000865086": 0,
+      "gas:candidate-vibid:2262000865412": 0,
+      "gas:candidate-vibid:2262000862161": 0,
+      "gas:candidate-vibid:2262000864310": 0,
+      "gas:candidate-vibid:2262000864460": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761454&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761454&type=464",
@@ -4243,16 +4243,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 2,
-      "Дроздова Ольга Павловна": 30,
-      "Кузьмин Александр Сергеевич": 22,
-      "Кузьмин Михаил Владимирович": 114,
-      "Кулагин Сергей Сергеевич": 2,
-      "Лебедев Павел Валерьевич": 5,
-      "Мохов Евгений Александрович": 1,
-      "Рукосуев Юрий Викторович": 7,
-      "Сасин Николай Иванович": 1,
-      "Соболев Виктор Иванович": 9
+      "gas:candidate-vibid:2262000863578": 2,
+      "gas:candidate-vibid:2262000773770": 30,
+      "gas:candidate-vibid:2262000862946": 22,
+      "gas:candidate-vibid:2262000863601": 114,
+      "gas:candidate-vibid:2262000864387": 2,
+      "gas:candidate-vibid:2262000865086": 5,
+      "gas:candidate-vibid:2262000865412": 1,
+      "gas:candidate-vibid:2262000862161": 7,
+      "gas:candidate-vibid:2262000864310": 1,
+      "gas:candidate-vibid:2262000864460": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761454&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761454&type=464",
@@ -4303,16 +4303,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 8,
-      "Дроздова Ольга Павловна": 141,
-      "Кузьмин Александр Сергеевич": 51,
-      "Кузьмин Михаил Владимирович": 870,
-      "Кулагин Сергей Сергеевич": 19,
-      "Лебедев Павел Валерьевич": 6,
-      "Мохов Евгений Александрович": 16,
-      "Рукосуев Юрий Викторович": 24,
-      "Сасин Николай Иванович": 20,
-      "Соболев Виктор Иванович": 74
+      "gas:candidate-vibid:2262000863578": 8,
+      "gas:candidate-vibid:2262000773770": 141,
+      "gas:candidate-vibid:2262000862946": 51,
+      "gas:candidate-vibid:2262000863601": 870,
+      "gas:candidate-vibid:2262000864387": 19,
+      "gas:candidate-vibid:2262000865086": 6,
+      "gas:candidate-vibid:2262000865412": 16,
+      "gas:candidate-vibid:2262000862161": 24,
+      "gas:candidate-vibid:2262000864310": 20,
+      "gas:candidate-vibid:2262000864460": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761454&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761454&type=464",
@@ -4363,16 +4363,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 28,
-      "Дроздова Ольга Павловна": 134,
-      "Кузьмин Александр Сергеевич": 53,
-      "Кузьмин Михаил Владимирович": 923,
-      "Кулагин Сергей Сергеевич": 26,
-      "Лебедев Павел Валерьевич": 11,
-      "Мохов Евгений Александрович": 7,
-      "Рукосуев Юрий Викторович": 22,
-      "Сасин Николай Иванович": 6,
-      "Соболев Виктор Иванович": 43
+      "gas:candidate-vibid:2262000863578": 28,
+      "gas:candidate-vibid:2262000773770": 134,
+      "gas:candidate-vibid:2262000862946": 53,
+      "gas:candidate-vibid:2262000863601": 923,
+      "gas:candidate-vibid:2262000864387": 26,
+      "gas:candidate-vibid:2262000865086": 11,
+      "gas:candidate-vibid:2262000865412": 7,
+      "gas:candidate-vibid:2262000862161": 22,
+      "gas:candidate-vibid:2262000864310": 6,
+      "gas:candidate-vibid:2262000864460": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761454&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761454&type=464",
@@ -4423,16 +4423,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 19,
-      "Дроздова Ольга Павловна": 149,
-      "Кузьмин Александр Сергеевич": 47,
-      "Кузьмин Михаил Владимирович": 387,
-      "Кулагин Сергей Сергеевич": 12,
-      "Лебедев Павел Валерьевич": 13,
-      "Мохов Евгений Александрович": 16,
-      "Рукосуев Юрий Викторович": 22,
-      "Сасин Николай Иванович": 20,
-      "Соболев Виктор Иванович": 95
+      "gas:candidate-vibid:2262000863578": 19,
+      "gas:candidate-vibid:2262000773770": 149,
+      "gas:candidate-vibid:2262000862946": 47,
+      "gas:candidate-vibid:2262000863601": 387,
+      "gas:candidate-vibid:2262000864387": 12,
+      "gas:candidate-vibid:2262000865086": 13,
+      "gas:candidate-vibid:2262000865412": 16,
+      "gas:candidate-vibid:2262000862161": 22,
+      "gas:candidate-vibid:2262000864310": 20,
+      "gas:candidate-vibid:2262000864460": 95
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761454&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761454&type=464",
@@ -4483,16 +4483,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 23,
-      "Дроздова Ольга Павловна": 108,
-      "Кузьмин Александр Сергеевич": 61,
-      "Кузьмин Михаил Владимирович": 1303,
-      "Кулагин Сергей Сергеевич": 29,
-      "Лебедев Павел Валерьевич": 15,
-      "Мохов Евгений Александрович": 17,
-      "Рукосуев Юрий Викторович": 17,
-      "Сасин Николай Иванович": 0,
-      "Соболев Виктор Иванович": 80
+      "gas:candidate-vibid:2262000863578": 23,
+      "gas:candidate-vibid:2262000773770": 108,
+      "gas:candidate-vibid:2262000862946": 61,
+      "gas:candidate-vibid:2262000863601": 1303,
+      "gas:candidate-vibid:2262000864387": 29,
+      "gas:candidate-vibid:2262000865086": 15,
+      "gas:candidate-vibid:2262000865412": 17,
+      "gas:candidate-vibid:2262000862161": 17,
+      "gas:candidate-vibid:2262000864310": 0,
+      "gas:candidate-vibid:2262000864460": 80
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761454&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761454&type=464",
@@ -4543,16 +4543,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 11,
-      "Дроздова Ольга Павловна": 95,
-      "Кузьмин Александр Сергеевич": 32,
-      "Кузьмин Михаил Владимирович": 756,
-      "Кулагин Сергей Сергеевич": 5,
-      "Лебедев Павел Валерьевич": 11,
-      "Мохов Евгений Александрович": 10,
-      "Рукосуев Юрий Викторович": 16,
-      "Сасин Николай Иванович": 7,
-      "Соболев Виктор Иванович": 45
+      "gas:candidate-vibid:2262000863578": 11,
+      "gas:candidate-vibid:2262000773770": 95,
+      "gas:candidate-vibid:2262000862946": 32,
+      "gas:candidate-vibid:2262000863601": 756,
+      "gas:candidate-vibid:2262000864387": 5,
+      "gas:candidate-vibid:2262000865086": 11,
+      "gas:candidate-vibid:2262000865412": 10,
+      "gas:candidate-vibid:2262000862161": 16,
+      "gas:candidate-vibid:2262000864310": 7,
+      "gas:candidate-vibid:2262000864460": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761454&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761454&type=464",
@@ -4603,16 +4603,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 7,
-      "Дроздова Ольга Павловна": 81,
-      "Кузьмин Александр Сергеевич": 37,
-      "Кузьмин Михаил Владимирович": 688,
-      "Кулагин Сергей Сергеевич": 14,
-      "Лебедев Павел Валерьевич": 9,
-      "Мохов Евгений Александрович": 18,
-      "Рукосуев Юрий Викторович": 22,
-      "Сасин Николай Иванович": 6,
-      "Соболев Виктор Иванович": 72
+      "gas:candidate-vibid:2262000863578": 7,
+      "gas:candidate-vibid:2262000773770": 81,
+      "gas:candidate-vibid:2262000862946": 37,
+      "gas:candidate-vibid:2262000863601": 688,
+      "gas:candidate-vibid:2262000864387": 14,
+      "gas:candidate-vibid:2262000865086": 9,
+      "gas:candidate-vibid:2262000865412": 18,
+      "gas:candidate-vibid:2262000862161": 22,
+      "gas:candidate-vibid:2262000864310": 6,
+      "gas:candidate-vibid:2262000864460": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761454&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761454&type=464",
@@ -4663,16 +4663,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 26,
-      "Дроздова Ольга Павловна": 173,
-      "Кузьмин Александр Сергеевич": 39,
-      "Кузьмин Михаил Владимирович": 1000,
-      "Кулагин Сергей Сергеевич": 16,
-      "Лебедев Павел Валерьевич": 7,
-      "Мохов Евгений Александрович": 11,
-      "Рукосуев Юрий Викторович": 51,
-      "Сасин Николай Иванович": 16,
-      "Соболев Виктор Иванович": 95
+      "gas:candidate-vibid:2262000863578": 26,
+      "gas:candidate-vibid:2262000773770": 173,
+      "gas:candidate-vibid:2262000862946": 39,
+      "gas:candidate-vibid:2262000863601": 1000,
+      "gas:candidate-vibid:2262000864387": 16,
+      "gas:candidate-vibid:2262000865086": 7,
+      "gas:candidate-vibid:2262000865412": 11,
+      "gas:candidate-vibid:2262000862161": 51,
+      "gas:candidate-vibid:2262000864310": 16,
+      "gas:candidate-vibid:2262000864460": 95
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761454&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761454&type=464",
@@ -4723,16 +4723,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авдеев Василий Геннадьевич": 0,
-      "Дроздова Ольга Павловна": 177,
-      "Кузьмин Александр Сергеевич": 58,
-      "Кузьмин Михаил Владимирович": 582,
-      "Кулагин Сергей Сергеевич": 0,
-      "Лебедев Павел Валерьевич": 0,
-      "Мохов Евгений Александрович": 0,
-      "Рукосуев Юрий Викторович": 0,
-      "Сасин Николай Иванович": 0,
-      "Соболев Виктор Иванович": 82
+      "gas:candidate-vibid:2262000863578": 0,
+      "gas:candidate-vibid:2262000773770": 177,
+      "gas:candidate-vibid:2262000862946": 58,
+      "gas:candidate-vibid:2262000863601": 582,
+      "gas:candidate-vibid:2262000864387": 0,
+      "gas:candidate-vibid:2262000865086": 0,
+      "gas:candidate-vibid:2262000865412": 0,
+      "gas:candidate-vibid:2262000862161": 0,
+      "gas:candidate-vibid:2262000864310": 0,
+      "gas:candidate-vibid:2262000864460": 82
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000081&tvd=2262000761454&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761454&type=464",
@@ -4783,16 +4783,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Большов Георгий Эрикович": 33,
-      "Гончаров Виктор Иванович": 169,
-      "Горло Сергей Алексеевич": 121,
-      "Дроздов Илья Юрьевич": 184,
-      "Ильинов Виктор Владимирович": 49,
-      "Ищенко Александр Николаевич": 436,
-      "Колесников Иван Александрович": 43,
-      "Ледовской Валерий Иванович": 22,
-      "Назаренко Владимир Александрович": 17,
-      "Смирнов Владимир Николаевич": 36
+      "gas:candidate-vibid:2262000864405": 33,
+      "gas:candidate-vibid:2262000863801": 169,
+      "gas:candidate-vibid:2262000862853": 121,
+      "gas:candidate-vibid:2262000799646": 184,
+      "gas:candidate-vibid:2262000863723": 49,
+      "gas:candidate-vibid:2262000864845": 436,
+      "gas:candidate-vibid:2262000861937": 43,
+      "gas:candidate-vibid:2262000864604": 22,
+      "gas:candidate-vibid:2262000865423": 17,
+      "gas:candidate-vibid:2262000864353": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000082&tvd=2262000761463&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761463&type=464",
@@ -4843,16 +4843,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Большов Георгий Эрикович": 23,
-      "Гончаров Виктор Иванович": 165,
-      "Горло Сергей Алексеевич": 115,
-      "Дроздов Илья Юрьевич": 175,
-      "Ильинов Виктор Владимирович": 37,
-      "Ищенко Александр Николаевич": 428,
-      "Колесников Иван Александрович": 34,
-      "Ледовской Валерий Иванович": 20,
-      "Назаренко Владимир Александрович": 12,
-      "Смирнов Владимир Николаевич": 16
+      "gas:candidate-vibid:2262000864405": 23,
+      "gas:candidate-vibid:2262000863801": 165,
+      "gas:candidate-vibid:2262000862853": 115,
+      "gas:candidate-vibid:2262000799646": 175,
+      "gas:candidate-vibid:2262000863723": 37,
+      "gas:candidate-vibid:2262000864845": 428,
+      "gas:candidate-vibid:2262000861937": 34,
+      "gas:candidate-vibid:2262000864604": 20,
+      "gas:candidate-vibid:2262000865423": 12,
+      "gas:candidate-vibid:2262000864353": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000082&tvd=2262000761463&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761463&type=464",
@@ -4903,16 +4903,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Большов Георгий Эрикович": 18,
-      "Гончаров Виктор Иванович": 128,
-      "Горло Сергей Алексеевич": 78,
-      "Дроздов Илья Юрьевич": 112,
-      "Ильинов Виктор Владимирович": 24,
-      "Ищенко Александр Николаевич": 253,
-      "Колесников Иван Александрович": 38,
-      "Ледовской Валерий Иванович": 11,
-      "Назаренко Владимир Александрович": 18,
-      "Смирнов Владимир Николаевич": 17
+      "gas:candidate-vibid:2262000864405": 18,
+      "gas:candidate-vibid:2262000863801": 128,
+      "gas:candidate-vibid:2262000862853": 78,
+      "gas:candidate-vibid:2262000799646": 112,
+      "gas:candidate-vibid:2262000863723": 24,
+      "gas:candidate-vibid:2262000864845": 253,
+      "gas:candidate-vibid:2262000861937": 38,
+      "gas:candidate-vibid:2262000864604": 11,
+      "gas:candidate-vibid:2262000865423": 18,
+      "gas:candidate-vibid:2262000864353": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000082&tvd=2262000761463&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761463&type=464",
@@ -4963,16 +4963,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Большов Георгий Эрикович": 14,
-      "Гончаров Виктор Иванович": 130,
-      "Горло Сергей Алексеевич": 86,
-      "Дроздов Илья Юрьевич": 164,
-      "Ильинов Виктор Владимирович": 33,
-      "Ищенко Александр Николаевич": 494,
-      "Колесников Иван Александрович": 32,
-      "Ледовской Валерий Иванович": 19,
-      "Назаренко Владимир Александрович": 30,
-      "Смирнов Владимир Николаевич": 22
+      "gas:candidate-vibid:2262000864405": 14,
+      "gas:candidate-vibid:2262000863801": 130,
+      "gas:candidate-vibid:2262000862853": 86,
+      "gas:candidate-vibid:2262000799646": 164,
+      "gas:candidate-vibid:2262000863723": 33,
+      "gas:candidate-vibid:2262000864845": 494,
+      "gas:candidate-vibid:2262000861937": 32,
+      "gas:candidate-vibid:2262000864604": 19,
+      "gas:candidate-vibid:2262000865423": 30,
+      "gas:candidate-vibid:2262000864353": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000082&tvd=2262000761463&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761463&type=464",
@@ -5023,16 +5023,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Большов Георгий Эрикович": 23,
-      "Гончаров Виктор Иванович": 180,
-      "Горло Сергей Алексеевич": 115,
-      "Дроздов Илья Юрьевич": 185,
-      "Ильинов Виктор Владимирович": 26,
-      "Ищенко Александр Николаевич": 615,
-      "Колесников Иван Александрович": 36,
-      "Ледовской Валерий Иванович": 35,
-      "Назаренко Владимир Александрович": 16,
-      "Смирнов Владимир Николаевич": 25
+      "gas:candidate-vibid:2262000864405": 23,
+      "gas:candidate-vibid:2262000863801": 180,
+      "gas:candidate-vibid:2262000862853": 115,
+      "gas:candidate-vibid:2262000799646": 185,
+      "gas:candidate-vibid:2262000863723": 26,
+      "gas:candidate-vibid:2262000864845": 615,
+      "gas:candidate-vibid:2262000861937": 36,
+      "gas:candidate-vibid:2262000864604": 35,
+      "gas:candidate-vibid:2262000865423": 16,
+      "gas:candidate-vibid:2262000864353": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000082&tvd=2262000761463&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761463&type=464",
@@ -5083,16 +5083,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Большов Георгий Эрикович": 16,
-      "Гончаров Виктор Иванович": 139,
-      "Горло Сергей Алексеевич": 92,
-      "Дроздов Илья Юрьевич": 149,
-      "Ильинов Виктор Владимирович": 22,
-      "Ищенко Александр Николаевич": 561,
-      "Колесников Иван Александрович": 34,
-      "Ледовской Валерий Иванович": 21,
-      "Назаренко Владимир Александрович": 25,
-      "Смирнов Владимир Николаевич": 24
+      "gas:candidate-vibid:2262000864405": 16,
+      "gas:candidate-vibid:2262000863801": 139,
+      "gas:candidate-vibid:2262000862853": 92,
+      "gas:candidate-vibid:2262000799646": 149,
+      "gas:candidate-vibid:2262000863723": 22,
+      "gas:candidate-vibid:2262000864845": 561,
+      "gas:candidate-vibid:2262000861937": 34,
+      "gas:candidate-vibid:2262000864604": 21,
+      "gas:candidate-vibid:2262000865423": 25,
+      "gas:candidate-vibid:2262000864353": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000082&tvd=2262000761463&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761463&type=464",
@@ -5143,16 +5143,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Большов Георгий Эрикович": 20,
-      "Гончаров Виктор Иванович": 183,
-      "Горло Сергей Алексеевич": 86,
-      "Дроздов Илья Юрьевич": 165,
-      "Ильинов Виктор Владимирович": 29,
-      "Ищенко Александр Николаевич": 351,
-      "Колесников Иван Александрович": 38,
-      "Ледовской Валерий Иванович": 21,
-      "Назаренко Владимир Александрович": 14,
-      "Смирнов Владимир Николаевич": 14
+      "gas:candidate-vibid:2262000864405": 20,
+      "gas:candidate-vibid:2262000863801": 183,
+      "gas:candidate-vibid:2262000862853": 86,
+      "gas:candidate-vibid:2262000799646": 165,
+      "gas:candidate-vibid:2262000863723": 29,
+      "gas:candidate-vibid:2262000864845": 351,
+      "gas:candidate-vibid:2262000861937": 38,
+      "gas:candidate-vibid:2262000864604": 21,
+      "gas:candidate-vibid:2262000865423": 14,
+      "gas:candidate-vibid:2262000864353": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000082&tvd=2262000761463&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761463&type=464",
@@ -5203,16 +5203,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Большов Георгий Эрикович": 10,
-      "Гончаров Виктор Иванович": 132,
-      "Горло Сергей Алексеевич": 116,
-      "Дроздов Илья Юрьевич": 160,
-      "Ильинов Виктор Владимирович": 42,
-      "Ищенко Александр Николаевич": 401,
-      "Колесников Иван Александрович": 44,
-      "Ледовской Валерий Иванович": 16,
-      "Назаренко Владимир Александрович": 20,
-      "Смирнов Владимир Николаевич": 31
+      "gas:candidate-vibid:2262000864405": 10,
+      "gas:candidate-vibid:2262000863801": 132,
+      "gas:candidate-vibid:2262000862853": 116,
+      "gas:candidate-vibid:2262000799646": 160,
+      "gas:candidate-vibid:2262000863723": 42,
+      "gas:candidate-vibid:2262000864845": 401,
+      "gas:candidate-vibid:2262000861937": 44,
+      "gas:candidate-vibid:2262000864604": 16,
+      "gas:candidate-vibid:2262000865423": 20,
+      "gas:candidate-vibid:2262000864353": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000082&tvd=2262000761463&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761463&type=464",
@@ -5263,16 +5263,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Большов Георгий Эрикович": 19,
-      "Гончаров Виктор Иванович": 160,
-      "Горло Сергей Алексеевич": 95,
-      "Дроздов Илья Юрьевич": 166,
-      "Ильинов Виктор Владимирович": 28,
-      "Ищенко Александр Николаевич": 395,
-      "Колесников Иван Александрович": 23,
-      "Ледовской Валерий Иванович": 24,
-      "Назаренко Владимир Александрович": 25,
-      "Смирнов Владимир Николаевич": 21
+      "gas:candidate-vibid:2262000864405": 19,
+      "gas:candidate-vibid:2262000863801": 160,
+      "gas:candidate-vibid:2262000862853": 95,
+      "gas:candidate-vibid:2262000799646": 166,
+      "gas:candidate-vibid:2262000863723": 28,
+      "gas:candidate-vibid:2262000864845": 395,
+      "gas:candidate-vibid:2262000861937": 23,
+      "gas:candidate-vibid:2262000864604": 24,
+      "gas:candidate-vibid:2262000865423": 25,
+      "gas:candidate-vibid:2262000864353": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000082&tvd=2262000761463&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761463&type=464",
@@ -5323,16 +5323,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Большов Георгий Эрикович": 69,
-      "Гончаров Виктор Иванович": 196,
-      "Горло Сергей Алексеевич": 150,
-      "Дроздов Илья Юрьевич": 231,
-      "Ильинов Виктор Владимирович": 66,
-      "Ищенко Александр Николаевич": 843,
-      "Колесников Иван Александрович": 56,
-      "Ледовской Валерий Иванович": 42,
-      "Назаренко Владимир Александрович": 61,
-      "Смирнов Владимир Николаевич": 46
+      "gas:candidate-vibid:2262000864405": 69,
+      "gas:candidate-vibid:2262000863801": 196,
+      "gas:candidate-vibid:2262000862853": 150,
+      "gas:candidate-vibid:2262000799646": 231,
+      "gas:candidate-vibid:2262000863723": 66,
+      "gas:candidate-vibid:2262000864845": 843,
+      "gas:candidate-vibid:2262000861937": 56,
+      "gas:candidate-vibid:2262000864604": 42,
+      "gas:candidate-vibid:2262000865423": 61,
+      "gas:candidate-vibid:2262000864353": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000082&tvd=2262000761463&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761463&type=464",
@@ -5383,16 +5383,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Большов Георгий Эрикович": 25,
-      "Гончаров Виктор Иванович": 163,
-      "Горло Сергей Алексеевич": 110,
-      "Дроздов Илья Юрьевич": 179,
-      "Ильинов Виктор Владимирович": 39,
-      "Ищенко Александр Николаевич": 435,
-      "Колесников Иван Александрович": 34,
-      "Ледовской Валерий Иванович": 28,
-      "Назаренко Владимир Александрович": 24,
-      "Смирнов Владимир Николаевич": 23
+      "gas:candidate-vibid:2262000864405": 25,
+      "gas:candidate-vibid:2262000863801": 163,
+      "gas:candidate-vibid:2262000862853": 110,
+      "gas:candidate-vibid:2262000799646": 179,
+      "gas:candidate-vibid:2262000863723": 39,
+      "gas:candidate-vibid:2262000864845": 435,
+      "gas:candidate-vibid:2262000861937": 34,
+      "gas:candidate-vibid:2262000864604": 28,
+      "gas:candidate-vibid:2262000865423": 24,
+      "gas:candidate-vibid:2262000864353": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000082&tvd=2262000761463&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761463&type=464",
@@ -5443,16 +5443,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Большов Георгий Эрикович": 24,
-      "Гончаров Виктор Иванович": 132,
-      "Горло Сергей Алексеевич": 90,
-      "Дроздов Илья Юрьевич": 157,
-      "Ильинов Виктор Владимирович": 2,
-      "Ищенко Александр Николаевич": 438,
-      "Колесников Иван Александрович": 19,
-      "Ледовской Валерий Иванович": 20,
-      "Назаренко Владимир Александрович": 15,
-      "Смирнов Владимир Николаевич": 29
+      "gas:candidate-vibid:2262000864405": 24,
+      "gas:candidate-vibid:2262000863801": 132,
+      "gas:candidate-vibid:2262000862853": 90,
+      "gas:candidate-vibid:2262000799646": 157,
+      "gas:candidate-vibid:2262000863723": 2,
+      "gas:candidate-vibid:2262000864845": 438,
+      "gas:candidate-vibid:2262000861937": 19,
+      "gas:candidate-vibid:2262000864604": 20,
+      "gas:candidate-vibid:2262000865423": 15,
+      "gas:candidate-vibid:2262000864353": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000082&tvd=2262000761463&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761463&type=464",
@@ -5503,16 +5503,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Большов Георгий Эрикович": 1,
-      "Гончаров Виктор Иванович": 0,
-      "Горло Сергей Алексеевич": 5,
-      "Дроздов Илья Юрьевич": 3,
-      "Ильинов Виктор Владимирович": 3,
-      "Ищенко Александр Николаевич": 8,
-      "Колесников Иван Александрович": 2,
-      "Ледовской Валерий Иванович": 2,
-      "Назаренко Владимир Александрович": 0,
-      "Смирнов Владимир Николаевич": 0
+      "gas:candidate-vibid:2262000864405": 1,
+      "gas:candidate-vibid:2262000863801": 0,
+      "gas:candidate-vibid:2262000862853": 5,
+      "gas:candidate-vibid:2262000799646": 3,
+      "gas:candidate-vibid:2262000863723": 3,
+      "gas:candidate-vibid:2262000864845": 8,
+      "gas:candidate-vibid:2262000861937": 2,
+      "gas:candidate-vibid:2262000864604": 2,
+      "gas:candidate-vibid:2262000865423": 0,
+      "gas:candidate-vibid:2262000864353": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000082&tvd=2262000761463&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761463&type=464",
@@ -5563,16 +5563,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Большов Георгий Эрикович": 12,
-      "Гончаров Виктор Иванович": 149,
-      "Горло Сергей Алексеевич": 79,
-      "Дроздов Илья Юрьевич": 120,
-      "Ильинов Виктор Владимирович": 45,
-      "Ищенко Александр Николаевич": 257,
-      "Колесников Иван Александрович": 24,
-      "Ледовской Валерий Иванович": 32,
-      "Назаренко Владимир Александрович": 6,
-      "Смирнов Владимир Николаевич": 28
+      "gas:candidate-vibid:2262000864405": 12,
+      "gas:candidate-vibid:2262000863801": 149,
+      "gas:candidate-vibid:2262000862853": 79,
+      "gas:candidate-vibid:2262000799646": 120,
+      "gas:candidate-vibid:2262000863723": 45,
+      "gas:candidate-vibid:2262000864845": 257,
+      "gas:candidate-vibid:2262000861937": 24,
+      "gas:candidate-vibid:2262000864604": 32,
+      "gas:candidate-vibid:2262000865423": 6,
+      "gas:candidate-vibid:2262000864353": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000082&tvd=2262000761463&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761463&type=464",
@@ -5623,16 +5623,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Большов Георгий Эрикович": 8,
-      "Гончаров Виктор Иванович": 87,
-      "Горло Сергей Алексеевич": 53,
-      "Дроздов Илья Юрьевич": 81,
-      "Ильинов Виктор Владимирович": 17,
-      "Ищенко Александр Николаевич": 248,
-      "Колесников Иван Александрович": 25,
-      "Ледовской Валерий Иванович": 29,
-      "Назаренко Владимир Александрович": 14,
-      "Смирнов Владимир Николаевич": 15
+      "gas:candidate-vibid:2262000864405": 8,
+      "gas:candidate-vibid:2262000863801": 87,
+      "gas:candidate-vibid:2262000862853": 53,
+      "gas:candidate-vibid:2262000799646": 81,
+      "gas:candidate-vibid:2262000863723": 17,
+      "gas:candidate-vibid:2262000864845": 248,
+      "gas:candidate-vibid:2262000861937": 25,
+      "gas:candidate-vibid:2262000864604": 29,
+      "gas:candidate-vibid:2262000865423": 14,
+      "gas:candidate-vibid:2262000864353": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000082&tvd=2262000761463&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761463&type=464",
@@ -5683,16 +5683,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Большов Георгий Эрикович": 13,
-      "Гончаров Виктор Иванович": 93,
-      "Горло Сергей Алексеевич": 70,
-      "Дроздов Илья Юрьевич": 66,
-      "Ильинов Виктор Владимирович": 25,
-      "Ищенко Александр Николаевич": 321,
-      "Колесников Иван Александрович": 12,
-      "Ледовской Валерий Иванович": 20,
-      "Назаренко Владимир Александрович": 9,
-      "Смирнов Владимир Николаевич": 15
+      "gas:candidate-vibid:2262000864405": 13,
+      "gas:candidate-vibid:2262000863801": 93,
+      "gas:candidate-vibid:2262000862853": 70,
+      "gas:candidate-vibid:2262000799646": 66,
+      "gas:candidate-vibid:2262000863723": 25,
+      "gas:candidate-vibid:2262000864845": 321,
+      "gas:candidate-vibid:2262000861937": 12,
+      "gas:candidate-vibid:2262000864604": 20,
+      "gas:candidate-vibid:2262000865423": 9,
+      "gas:candidate-vibid:2262000864353": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000082&tvd=2262000761463&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761463&type=464",
@@ -5743,16 +5743,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Большов Георгий Эрикович": 13,
-      "Гончаров Виктор Иванович": 164,
-      "Горло Сергей Алексеевич": 102,
-      "Дроздов Илья Юрьевич": 161,
-      "Ильинов Виктор Владимирович": 45,
-      "Ищенко Александр Николаевич": 468,
-      "Колесников Иван Александрович": 22,
-      "Ледовской Валерий Иванович": 37,
-      "Назаренко Владимир Александрович": 27,
-      "Смирнов Владимир Николаевич": 16
+      "gas:candidate-vibid:2262000864405": 13,
+      "gas:candidate-vibid:2262000863801": 164,
+      "gas:candidate-vibid:2262000862853": 102,
+      "gas:candidate-vibid:2262000799646": 161,
+      "gas:candidate-vibid:2262000863723": 45,
+      "gas:candidate-vibid:2262000864845": 468,
+      "gas:candidate-vibid:2262000861937": 22,
+      "gas:candidate-vibid:2262000864604": 37,
+      "gas:candidate-vibid:2262000865423": 27,
+      "gas:candidate-vibid:2262000864353": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000082&tvd=2262000761463&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761463&type=464",
@@ -5803,16 +5803,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Большов Георгий Эрикович": 24,
-      "Гончаров Виктор Иванович": 187,
-      "Горло Сергей Алексеевич": 133,
-      "Дроздов Илья Юрьевич": 138,
-      "Ильинов Виктор Владимирович": 57,
-      "Ищенко Александр Николаевич": 410,
-      "Колесников Иван Александрович": 20,
-      "Ледовской Валерий Иванович": 48,
-      "Назаренко Владимир Александрович": 22,
-      "Смирнов Владимир Николаевич": 36
+      "gas:candidate-vibid:2262000864405": 24,
+      "gas:candidate-vibid:2262000863801": 187,
+      "gas:candidate-vibid:2262000862853": 133,
+      "gas:candidate-vibid:2262000799646": 138,
+      "gas:candidate-vibid:2262000863723": 57,
+      "gas:candidate-vibid:2262000864845": 410,
+      "gas:candidate-vibid:2262000861937": 20,
+      "gas:candidate-vibid:2262000864604": 48,
+      "gas:candidate-vibid:2262000865423": 22,
+      "gas:candidate-vibid:2262000864353": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000082&tvd=2262000761463&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761463&type=464",
@@ -5863,16 +5863,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Большов Георгий Эрикович": 1,
-      "Гончаров Виктор Иванович": 19,
-      "Горло Сергей Алексеевич": 4,
-      "Дроздов Илья Юрьевич": 14,
-      "Ильинов Виктор Владимирович": 3,
-      "Ищенко Александр Николаевич": 27,
-      "Колесников Иван Александрович": 9,
-      "Ледовской Валерий Иванович": 0,
-      "Назаренко Владимир Александрович": 3,
-      "Смирнов Владимир Николаевич": 4
+      "gas:candidate-vibid:2262000864405": 1,
+      "gas:candidate-vibid:2262000863801": 19,
+      "gas:candidate-vibid:2262000862853": 4,
+      "gas:candidate-vibid:2262000799646": 14,
+      "gas:candidate-vibid:2262000863723": 3,
+      "gas:candidate-vibid:2262000864845": 27,
+      "gas:candidate-vibid:2262000861937": 9,
+      "gas:candidate-vibid:2262000864604": 0,
+      "gas:candidate-vibid:2262000865423": 3,
+      "gas:candidate-vibid:2262000864353": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000082&tvd=2262000761463&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761463&type=464",
@@ -5923,16 +5923,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Большов Георгий Эрикович": 15,
-      "Гончаров Виктор Иванович": 234,
-      "Горло Сергей Алексеевич": 144,
-      "Дроздов Илья Юрьевич": 176,
-      "Ильинов Виктор Владимирович": 60,
-      "Ищенко Александр Николаевич": 665,
-      "Колесников Иван Александрович": 29,
-      "Ледовской Валерий Иванович": 44,
-      "Назаренко Владимир Александрович": 30,
-      "Смирнов Владимир Николаевич": 20
+      "gas:candidate-vibid:2262000864405": 15,
+      "gas:candidate-vibid:2262000863801": 234,
+      "gas:candidate-vibid:2262000862853": 144,
+      "gas:candidate-vibid:2262000799646": 176,
+      "gas:candidate-vibid:2262000863723": 60,
+      "gas:candidate-vibid:2262000864845": 665,
+      "gas:candidate-vibid:2262000861937": 29,
+      "gas:candidate-vibid:2262000864604": 44,
+      "gas:candidate-vibid:2262000865423": 30,
+      "gas:candidate-vibid:2262000864353": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000082&tvd=2262000761463&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761463&type=464",
@@ -5983,16 +5983,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Большов Георгий Эрикович": 20,
-      "Гончаров Виктор Иванович": 183,
-      "Горло Сергей Алексеевич": 132,
-      "Дроздов Илья Юрьевич": 120,
-      "Ильинов Виктор Владимирович": 46,
-      "Ищенко Александр Николаевич": 411,
-      "Колесников Иван Александрович": 37,
-      "Ледовской Валерий Иванович": 51,
-      "Назаренко Владимир Александрович": 25,
-      "Смирнов Владимир Николаевич": 25
+      "gas:candidate-vibid:2262000864405": 20,
+      "gas:candidate-vibid:2262000863801": 183,
+      "gas:candidate-vibid:2262000862853": 132,
+      "gas:candidate-vibid:2262000799646": 120,
+      "gas:candidate-vibid:2262000863723": 46,
+      "gas:candidate-vibid:2262000864845": 411,
+      "gas:candidate-vibid:2262000861937": 37,
+      "gas:candidate-vibid:2262000864604": 51,
+      "gas:candidate-vibid:2262000865423": 25,
+      "gas:candidate-vibid:2262000864353": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000082&tvd=2262000761463&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761463&type=464",
@@ -6043,16 +6043,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Большов Георгий Эрикович": 9,
-      "Гончаров Виктор Иванович": 130,
-      "Горло Сергей Алексеевич": 112,
-      "Дроздов Илья Юрьевич": 107,
-      "Ильинов Виктор Владимирович": 28,
-      "Ищенко Александр Николаевич": 314,
-      "Колесников Иван Александрович": 38,
-      "Ледовской Валерий Иванович": 23,
-      "Назаренко Владимир Александрович": 19,
-      "Смирнов Владимир Николаевич": 23
+      "gas:candidate-vibid:2262000864405": 9,
+      "gas:candidate-vibid:2262000863801": 130,
+      "gas:candidate-vibid:2262000862853": 112,
+      "gas:candidate-vibid:2262000799646": 107,
+      "gas:candidate-vibid:2262000863723": 28,
+      "gas:candidate-vibid:2262000864845": 314,
+      "gas:candidate-vibid:2262000861937": 38,
+      "gas:candidate-vibid:2262000864604": 23,
+      "gas:candidate-vibid:2262000865423": 19,
+      "gas:candidate-vibid:2262000864353": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000082&tvd=2262000761463&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761463&type=464",
@@ -6103,16 +6103,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Большов Георгий Эрикович": 14,
-      "Гончаров Виктор Иванович": 142,
-      "Горло Сергей Алексеевич": 95,
-      "Дроздов Илья Юрьевич": 109,
-      "Ильинов Виктор Владимирович": 32,
-      "Ищенко Александр Николаевич": 284,
-      "Колесников Иван Александрович": 33,
-      "Ледовской Валерий Иванович": 26,
-      "Назаренко Владимир Александрович": 12,
-      "Смирнов Владимир Николаевич": 25
+      "gas:candidate-vibid:2262000864405": 14,
+      "gas:candidate-vibid:2262000863801": 142,
+      "gas:candidate-vibid:2262000862853": 95,
+      "gas:candidate-vibid:2262000799646": 109,
+      "gas:candidate-vibid:2262000863723": 32,
+      "gas:candidate-vibid:2262000864845": 284,
+      "gas:candidate-vibid:2262000861937": 33,
+      "gas:candidate-vibid:2262000864604": 26,
+      "gas:candidate-vibid:2262000865423": 12,
+      "gas:candidate-vibid:2262000864353": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000082&tvd=2262000761463&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761463&type=464",
@@ -6163,16 +6163,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Большов Георгий Эрикович": 33,
-      "Гончаров Виктор Иванович": 173,
-      "Горло Сергей Алексеевич": 110,
-      "Дроздов Илья Юрьевич": 148,
-      "Ильинов Виктор Владимирович": 49,
-      "Ищенко Александр Николаевич": 337,
-      "Колесников Иван Александрович": 50,
-      "Ледовской Валерий Иванович": 28,
-      "Назаренко Владимир Александрович": 30,
-      "Смирнов Владимир Николаевич": 16
+      "gas:candidate-vibid:2262000864405": 33,
+      "gas:candidate-vibid:2262000863801": 173,
+      "gas:candidate-vibid:2262000862853": 110,
+      "gas:candidate-vibid:2262000799646": 148,
+      "gas:candidate-vibid:2262000863723": 49,
+      "gas:candidate-vibid:2262000864845": 337,
+      "gas:candidate-vibid:2262000861937": 50,
+      "gas:candidate-vibid:2262000864604": 28,
+      "gas:candidate-vibid:2262000865423": 30,
+      "gas:candidate-vibid:2262000864353": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000082&tvd=2262000761463&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761463&type=464",
@@ -6223,16 +6223,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Большов Георгий Эрикович": 27,
-      "Гончаров Виктор Иванович": 118,
-      "Горло Сергей Алексеевич": 99,
-      "Дроздов Илья Юрьевич": 147,
-      "Ильинов Виктор Владимирович": 35,
-      "Ищенко Александр Николаевич": 451,
-      "Колесников Иван Александрович": 39,
-      "Ледовской Валерий Иванович": 36,
-      "Назаренко Владимир Александрович": 13,
-      "Смирнов Владимир Николаевич": 34
+      "gas:candidate-vibid:2262000864405": 27,
+      "gas:candidate-vibid:2262000863801": 118,
+      "gas:candidate-vibid:2262000862853": 99,
+      "gas:candidate-vibid:2262000799646": 147,
+      "gas:candidate-vibid:2262000863723": 35,
+      "gas:candidate-vibid:2262000864845": 451,
+      "gas:candidate-vibid:2262000861937": 39,
+      "gas:candidate-vibid:2262000864604": 36,
+      "gas:candidate-vibid:2262000865423": 13,
+      "gas:candidate-vibid:2262000864353": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000082&tvd=2262000761463&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761463&type=464",
@@ -6283,16 +6283,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Большов Георгий Эрикович": 21,
-      "Гончаров Виктор Иванович": 122,
-      "Горло Сергей Алексеевич": 74,
-      "Дроздов Илья Юрьевич": 89,
-      "Ильинов Виктор Владимирович": 20,
-      "Ищенко Александр Николаевич": 424,
-      "Колесников Иван Александрович": 28,
-      "Ледовской Валерий Иванович": 21,
-      "Назаренко Владимир Александрович": 26,
-      "Смирнов Владимир Николаевич": 17
+      "gas:candidate-vibid:2262000864405": 21,
+      "gas:candidate-vibid:2262000863801": 122,
+      "gas:candidate-vibid:2262000862853": 74,
+      "gas:candidate-vibid:2262000799646": 89,
+      "gas:candidate-vibid:2262000863723": 20,
+      "gas:candidate-vibid:2262000864845": 424,
+      "gas:candidate-vibid:2262000861937": 28,
+      "gas:candidate-vibid:2262000864604": 21,
+      "gas:candidate-vibid:2262000865423": 26,
+      "gas:candidate-vibid:2262000864353": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000082&tvd=2262000761463&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761463&type=464",
@@ -6343,16 +6343,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Большов Георгий Эрикович": 22,
-      "Гончаров Виктор Иванович": 138,
-      "Горло Сергей Алексеевич": 119,
-      "Дроздов Илья Юрьевич": 150,
-      "Ильинов Виктор Владимирович": 7,
-      "Ищенко Александр Николаевич": 572,
-      "Колесников Иван Александрович": 24,
-      "Ледовской Валерий Иванович": 20,
-      "Назаренко Владимир Александрович": 12,
-      "Смирнов Владимир Николаевич": 9
+      "gas:candidate-vibid:2262000864405": 22,
+      "gas:candidate-vibid:2262000863801": 138,
+      "gas:candidate-vibid:2262000862853": 119,
+      "gas:candidate-vibid:2262000799646": 150,
+      "gas:candidate-vibid:2262000863723": 7,
+      "gas:candidate-vibid:2262000864845": 572,
+      "gas:candidate-vibid:2262000861937": 24,
+      "gas:candidate-vibid:2262000864604": 20,
+      "gas:candidate-vibid:2262000865423": 12,
+      "gas:candidate-vibid:2262000864353": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000082&tvd=2262000761463&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761463&type=464",
@@ -6403,16 +6403,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Большов Георгий Эрикович": 9,
-      "Гончаров Виктор Иванович": 154,
-      "Горло Сергей Алексеевич": 122,
-      "Дроздов Илья Юрьевич": 117,
-      "Ильинов Виктор Владимирович": 20,
-      "Ищенко Александр Николаевич": 498,
-      "Колесников Иван Александрович": 27,
-      "Ледовской Валерий Иванович": 26,
-      "Назаренко Владимир Александрович": 16,
-      "Смирнов Владимир Николаевич": 24
+      "gas:candidate-vibid:2262000864405": 9,
+      "gas:candidate-vibid:2262000863801": 154,
+      "gas:candidate-vibid:2262000862853": 122,
+      "gas:candidate-vibid:2262000799646": 117,
+      "gas:candidate-vibid:2262000863723": 20,
+      "gas:candidate-vibid:2262000864845": 498,
+      "gas:candidate-vibid:2262000861937": 27,
+      "gas:candidate-vibid:2262000864604": 26,
+      "gas:candidate-vibid:2262000865423": 16,
+      "gas:candidate-vibid:2262000864353": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000082&tvd=2262000761463&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761463&type=464",
@@ -6463,16 +6463,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Большов Георгий Эрикович": 9,
-      "Гончаров Виктор Иванович": 120,
-      "Горло Сергей Алексеевич": 70,
-      "Дроздов Илья Юрьевич": 95,
-      "Ильинов Виктор Владимирович": 7,
-      "Ищенко Александр Николаевич": 706,
-      "Колесников Иван Александрович": 14,
-      "Ледовской Валерий Иванович": 11,
-      "Назаренко Владимир Александрович": 9,
-      "Смирнов Владимир Николаевич": 6
+      "gas:candidate-vibid:2262000864405": 9,
+      "gas:candidate-vibid:2262000863801": 120,
+      "gas:candidate-vibid:2262000862853": 70,
+      "gas:candidate-vibid:2262000799646": 95,
+      "gas:candidate-vibid:2262000863723": 7,
+      "gas:candidate-vibid:2262000864845": 706,
+      "gas:candidate-vibid:2262000861937": 14,
+      "gas:candidate-vibid:2262000864604": 11,
+      "gas:candidate-vibid:2262000865423": 9,
+      "gas:candidate-vibid:2262000864353": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000082&tvd=2262000761463&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761463&type=464",
@@ -6523,16 +6523,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Большов Георгий Эрикович": 18,
-      "Гончаров Виктор Иванович": 143,
-      "Горло Сергей Алексеевич": 63,
-      "Дроздов Илья Юрьевич": 57,
-      "Ильинов Виктор Владимирович": 11,
-      "Ищенко Александр Николаевич": 555,
-      "Колесников Иван Александрович": 4,
-      "Ледовской Валерий Иванович": 10,
-      "Назаренко Владимир Александрович": 10,
-      "Смирнов Владимир Николаевич": 10
+      "gas:candidate-vibid:2262000864405": 18,
+      "gas:candidate-vibid:2262000863801": 143,
+      "gas:candidate-vibid:2262000862853": 63,
+      "gas:candidate-vibid:2262000799646": 57,
+      "gas:candidate-vibid:2262000863723": 11,
+      "gas:candidate-vibid:2262000864845": 555,
+      "gas:candidate-vibid:2262000861937": 4,
+      "gas:candidate-vibid:2262000864604": 10,
+      "gas:candidate-vibid:2262000865423": 10,
+      "gas:candidate-vibid:2262000864353": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000082&tvd=2262000761463&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761463&type=464",
@@ -6583,16 +6583,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Большов Георгий Эрикович": 6,
-      "Гончаров Виктор Иванович": 65,
-      "Горло Сергей Алексеевич": 65,
-      "Дроздов Илья Юрьевич": 158,
-      "Ильинов Виктор Владимирович": 7,
-      "Ищенко Александр Николаевич": 429,
-      "Колесников Иван Александрович": 14,
-      "Ледовской Валерий Иванович": 10,
-      "Назаренко Владимир Александрович": 6,
-      "Смирнов Владимир Николаевич": 5
+      "gas:candidate-vibid:2262000864405": 6,
+      "gas:candidate-vibid:2262000863801": 65,
+      "gas:candidate-vibid:2262000862853": 65,
+      "gas:candidate-vibid:2262000799646": 158,
+      "gas:candidate-vibid:2262000863723": 7,
+      "gas:candidate-vibid:2262000864845": 429,
+      "gas:candidate-vibid:2262000861937": 14,
+      "gas:candidate-vibid:2262000864604": 10,
+      "gas:candidate-vibid:2262000865423": 6,
+      "gas:candidate-vibid:2262000864353": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000082&tvd=2262000761463&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761463&type=464",
@@ -6643,16 +6643,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Большов Георгий Эрикович": 17,
-      "Гончаров Виктор Иванович": 124,
-      "Горло Сергей Алексеевич": 105,
-      "Дроздов Илья Юрьевич": 140,
-      "Ильинов Виктор Владимирович": 35,
-      "Ищенко Александр Николаевич": 325,
-      "Колесников Иван Александрович": 44,
-      "Ледовской Валерий Иванович": 25,
-      "Назаренко Владимир Александрович": 21,
-      "Смирнов Владимир Николаевич": 27
+      "gas:candidate-vibid:2262000864405": 17,
+      "gas:candidate-vibid:2262000863801": 124,
+      "gas:candidate-vibid:2262000862853": 105,
+      "gas:candidate-vibid:2262000799646": 140,
+      "gas:candidate-vibid:2262000863723": 35,
+      "gas:candidate-vibid:2262000864845": 325,
+      "gas:candidate-vibid:2262000861937": 44,
+      "gas:candidate-vibid:2262000864604": 25,
+      "gas:candidate-vibid:2262000865423": 21,
+      "gas:candidate-vibid:2262000864353": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000082&tvd=2262000761463&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761463&type=464",
@@ -6703,16 +6703,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Большов Георгий Эрикович": 13,
-      "Гончаров Виктор Иванович": 167,
-      "Горло Сергей Алексеевич": 117,
-      "Дроздов Илья Юрьевич": 140,
-      "Ильинов Виктор Владимирович": 23,
-      "Ищенко Александр Николаевич": 360,
-      "Колесников Иван Александрович": 45,
-      "Ледовской Валерий Иванович": 23,
-      "Назаренко Владимир Александрович": 18,
-      "Смирнов Владимир Николаевич": 20
+      "gas:candidate-vibid:2262000864405": 13,
+      "gas:candidate-vibid:2262000863801": 167,
+      "gas:candidate-vibid:2262000862853": 117,
+      "gas:candidate-vibid:2262000799646": 140,
+      "gas:candidate-vibid:2262000863723": 23,
+      "gas:candidate-vibid:2262000864845": 360,
+      "gas:candidate-vibid:2262000861937": 45,
+      "gas:candidate-vibid:2262000864604": 23,
+      "gas:candidate-vibid:2262000865423": 18,
+      "gas:candidate-vibid:2262000864353": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000082&tvd=2262000761463&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761463&type=464",
@@ -6763,16 +6763,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Большов Георгий Эрикович": 12,
-      "Гончаров Виктор Иванович": 107,
-      "Горло Сергей Алексеевич": 112,
-      "Дроздов Илья Юрьевич": 123,
-      "Ильинов Виктор Владимирович": 28,
-      "Ищенко Александр Николаевич": 316,
-      "Колесников Иван Александрович": 26,
-      "Ледовской Валерий Иванович": 26,
-      "Назаренко Владимир Александрович": 22,
-      "Смирнов Владимир Николаевич": 17
+      "gas:candidate-vibid:2262000864405": 12,
+      "gas:candidate-vibid:2262000863801": 107,
+      "gas:candidate-vibid:2262000862853": 112,
+      "gas:candidate-vibid:2262000799646": 123,
+      "gas:candidate-vibid:2262000863723": 28,
+      "gas:candidate-vibid:2262000864845": 316,
+      "gas:candidate-vibid:2262000861937": 26,
+      "gas:candidate-vibid:2262000864604": 26,
+      "gas:candidate-vibid:2262000865423": 22,
+      "gas:candidate-vibid:2262000864353": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000082&tvd=2262000761463&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761463&type=464",
@@ -6823,16 +6823,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Большов Георгий Эрикович": 14,
-      "Гончаров Виктор Иванович": 124,
-      "Горло Сергей Алексеевич": 134,
-      "Дроздов Илья Юрьевич": 119,
-      "Ильинов Виктор Владимирович": 18,
-      "Ищенко Александр Николаевич": 509,
-      "Колесников Иван Александрович": 21,
-      "Ледовской Валерий Иванович": 11,
-      "Назаренко Владимир Александрович": 16,
-      "Смирнов Владимир Николаевич": 9
+      "gas:candidate-vibid:2262000864405": 14,
+      "gas:candidate-vibid:2262000863801": 124,
+      "gas:candidate-vibid:2262000862853": 134,
+      "gas:candidate-vibid:2262000799646": 119,
+      "gas:candidate-vibid:2262000863723": 18,
+      "gas:candidate-vibid:2262000864845": 509,
+      "gas:candidate-vibid:2262000861937": 21,
+      "gas:candidate-vibid:2262000864604": 11,
+      "gas:candidate-vibid:2262000865423": 16,
+      "gas:candidate-vibid:2262000864353": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000082&tvd=2262000761463&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761463&type=464",
@@ -6883,16 +6883,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Большов Георгий Эрикович": 13,
-      "Гончаров Виктор Иванович": 134,
-      "Горло Сергей Алексеевич": 83,
-      "Дроздов Илья Юрьевич": 124,
-      "Ильинов Виктор Владимирович": 19,
-      "Ищенко Александр Николаевич": 321,
-      "Колесников Иван Александрович": 40,
-      "Ледовской Валерий Иванович": 25,
-      "Назаренко Владимир Александрович": 18,
-      "Смирнов Владимир Николаевич": 25
+      "gas:candidate-vibid:2262000864405": 13,
+      "gas:candidate-vibid:2262000863801": 134,
+      "gas:candidate-vibid:2262000862853": 83,
+      "gas:candidate-vibid:2262000799646": 124,
+      "gas:candidate-vibid:2262000863723": 19,
+      "gas:candidate-vibid:2262000864845": 321,
+      "gas:candidate-vibid:2262000861937": 40,
+      "gas:candidate-vibid:2262000864604": 25,
+      "gas:candidate-vibid:2262000865423": 18,
+      "gas:candidate-vibid:2262000864353": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000082&tvd=2262000761463&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761463&type=464",
@@ -6943,16 +6943,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Большов Георгий Эрикович": 11,
-      "Гончаров Виктор Иванович": 166,
-      "Горло Сергей Алексеевич": 87,
-      "Дроздов Илья Юрьевич": 161,
-      "Ильинов Виктор Владимирович": 28,
-      "Ищенко Александр Николаевич": 487,
-      "Колесников Иван Александрович": 49,
-      "Ледовской Валерий Иванович": 22,
-      "Назаренко Владимир Александрович": 17,
-      "Смирнов Владимир Николаевич": 22
+      "gas:candidate-vibid:2262000864405": 11,
+      "gas:candidate-vibid:2262000863801": 166,
+      "gas:candidate-vibid:2262000862853": 87,
+      "gas:candidate-vibid:2262000799646": 161,
+      "gas:candidate-vibid:2262000863723": 28,
+      "gas:candidate-vibid:2262000864845": 487,
+      "gas:candidate-vibid:2262000861937": 49,
+      "gas:candidate-vibid:2262000864604": 22,
+      "gas:candidate-vibid:2262000865423": 17,
+      "gas:candidate-vibid:2262000864353": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000082&tvd=2262000761463&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761463&type=464",
@@ -7003,16 +7003,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Большов Георгий Эрикович": 15,
-      "Гончаров Виктор Иванович": 108,
-      "Горло Сергей Алексеевич": 63,
-      "Дроздов Илья Юрьевич": 113,
-      "Ильинов Виктор Владимирович": 21,
-      "Ищенко Александр Николаевич": 244,
-      "Колесников Иван Александрович": 19,
-      "Ледовской Валерий Иванович": 19,
-      "Назаренко Владимир Александрович": 17,
-      "Смирнов Владимир Николаевич": 15
+      "gas:candidate-vibid:2262000864405": 15,
+      "gas:candidate-vibid:2262000863801": 108,
+      "gas:candidate-vibid:2262000862853": 63,
+      "gas:candidate-vibid:2262000799646": 113,
+      "gas:candidate-vibid:2262000863723": 21,
+      "gas:candidate-vibid:2262000864845": 244,
+      "gas:candidate-vibid:2262000861937": 19,
+      "gas:candidate-vibid:2262000864604": 19,
+      "gas:candidate-vibid:2262000865423": 17,
+      "gas:candidate-vibid:2262000864353": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000082&tvd=2262000761463&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761463&type=464",
@@ -7063,16 +7063,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Большов Георгий Эрикович": 23,
-      "Гончаров Виктор Иванович": 165,
-      "Горло Сергей Алексеевич": 101,
-      "Дроздов Илья Юрьевич": 136,
-      "Ильинов Виктор Владимирович": 23,
-      "Ищенко Александр Николаевич": 504,
-      "Колесников Иван Александрович": 49,
-      "Ледовской Валерий Иванович": 29,
-      "Назаренко Владимир Александрович": 18,
-      "Смирнов Владимир Николаевич": 25
+      "gas:candidate-vibid:2262000864405": 23,
+      "gas:candidate-vibid:2262000863801": 165,
+      "gas:candidate-vibid:2262000862853": 101,
+      "gas:candidate-vibid:2262000799646": 136,
+      "gas:candidate-vibid:2262000863723": 23,
+      "gas:candidate-vibid:2262000864845": 504,
+      "gas:candidate-vibid:2262000861937": 49,
+      "gas:candidate-vibid:2262000864604": 29,
+      "gas:candidate-vibid:2262000865423": 18,
+      "gas:candidate-vibid:2262000864353": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000082&tvd=2262000761463&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761463&type=464",
@@ -7123,16 +7123,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Большов Георгий Эрикович": 18,
-      "Гончаров Виктор Иванович": 188,
-      "Горло Сергей Алексеевич": 177,
-      "Дроздов Илья Юрьевич": 164,
-      "Ильинов Виктор Владимирович": 22,
-      "Ищенко Александр Николаевич": 438,
-      "Колесников Иван Александрович": 23,
-      "Ледовской Валерий Иванович": 19,
-      "Назаренко Владимир Александрович": 21,
-      "Смирнов Владимир Николаевич": 18
+      "gas:candidate-vibid:2262000864405": 18,
+      "gas:candidate-vibid:2262000863801": 188,
+      "gas:candidate-vibid:2262000862853": 177,
+      "gas:candidate-vibid:2262000799646": 164,
+      "gas:candidate-vibid:2262000863723": 22,
+      "gas:candidate-vibid:2262000864845": 438,
+      "gas:candidate-vibid:2262000861937": 23,
+      "gas:candidate-vibid:2262000864604": 19,
+      "gas:candidate-vibid:2262000865423": 21,
+      "gas:candidate-vibid:2262000864353": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000082&tvd=2262000761463&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761463&type=464",
@@ -7183,16 +7183,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Большов Георгий Эрикович": 17,
-      "Гончаров Виктор Иванович": 111,
-      "Горло Сергей Алексеевич": 110,
-      "Дроздов Илья Юрьевич": 111,
-      "Ильинов Виктор Владимирович": 37,
-      "Ищенко Александр Николаевич": 534,
-      "Колесников Иван Александрович": 41,
-      "Ледовской Валерий Иванович": 19,
-      "Назаренко Владимир Александрович": 22,
-      "Смирнов Владимир Николаевич": 25
+      "gas:candidate-vibid:2262000864405": 17,
+      "gas:candidate-vibid:2262000863801": 111,
+      "gas:candidate-vibid:2262000862853": 110,
+      "gas:candidate-vibid:2262000799646": 111,
+      "gas:candidate-vibid:2262000863723": 37,
+      "gas:candidate-vibid:2262000864845": 534,
+      "gas:candidate-vibid:2262000861937": 41,
+      "gas:candidate-vibid:2262000864604": 19,
+      "gas:candidate-vibid:2262000865423": 22,
+      "gas:candidate-vibid:2262000864353": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000082&tvd=2262000761463&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761463&type=464",
@@ -7243,16 +7243,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Большов Георгий Эрикович": 19,
-      "Гончаров Виктор Иванович": 117,
-      "Горло Сергей Алексеевич": 113,
-      "Дроздов Илья Юрьевич": 136,
-      "Ильинов Виктор Владимирович": 24,
-      "Ищенко Александр Николаевич": 314,
-      "Колесников Иван Александрович": 39,
-      "Ледовской Валерий Иванович": 29,
-      "Назаренко Владимир Александрович": 9,
-      "Смирнов Владимир Николаевич": 28
+      "gas:candidate-vibid:2262000864405": 19,
+      "gas:candidate-vibid:2262000863801": 117,
+      "gas:candidate-vibid:2262000862853": 113,
+      "gas:candidate-vibid:2262000799646": 136,
+      "gas:candidate-vibid:2262000863723": 24,
+      "gas:candidate-vibid:2262000864845": 314,
+      "gas:candidate-vibid:2262000861937": 39,
+      "gas:candidate-vibid:2262000864604": 29,
+      "gas:candidate-vibid:2262000865423": 9,
+      "gas:candidate-vibid:2262000864353": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000082&tvd=2262000761463&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761463&type=464",
@@ -7303,16 +7303,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Большов Георгий Эрикович": 12,
-      "Гончаров Виктор Иванович": 121,
-      "Горло Сергей Алексеевич": 120,
-      "Дроздов Илья Юрьевич": 129,
-      "Ильинов Виктор Владимирович": 31,
-      "Ищенко Александр Николаевич": 279,
-      "Колесников Иван Александрович": 29,
-      "Ледовской Валерий Иванович": 36,
-      "Назаренко Владимир Александрович": 21,
-      "Смирнов Владимир Николаевич": 23
+      "gas:candidate-vibid:2262000864405": 12,
+      "gas:candidate-vibid:2262000863801": 121,
+      "gas:candidate-vibid:2262000862853": 120,
+      "gas:candidate-vibid:2262000799646": 129,
+      "gas:candidate-vibid:2262000863723": 31,
+      "gas:candidate-vibid:2262000864845": 279,
+      "gas:candidate-vibid:2262000861937": 29,
+      "gas:candidate-vibid:2262000864604": 36,
+      "gas:candidate-vibid:2262000865423": 21,
+      "gas:candidate-vibid:2262000864353": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000082&tvd=2262000761463&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761463&type=464",
@@ -7363,16 +7363,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Большов Георгий Эрикович": 3,
-      "Гончаров Виктор Иванович": 21,
-      "Горло Сергей Алексеевич": 10,
-      "Дроздов Илья Юрьевич": 6,
-      "Ильинов Виктор Владимирович": 1,
-      "Ищенко Александр Николаевич": 35,
-      "Колесников Иван Александрович": 4,
-      "Ледовской Валерий Иванович": 4,
-      "Назаренко Владимир Александрович": 4,
-      "Смирнов Владимир Николаевич": 2
+      "gas:candidate-vibid:2262000864405": 3,
+      "gas:candidate-vibid:2262000863801": 21,
+      "gas:candidate-vibid:2262000862853": 10,
+      "gas:candidate-vibid:2262000799646": 6,
+      "gas:candidate-vibid:2262000863723": 1,
+      "gas:candidate-vibid:2262000864845": 35,
+      "gas:candidate-vibid:2262000861937": 4,
+      "gas:candidate-vibid:2262000864604": 4,
+      "gas:candidate-vibid:2262000865423": 4,
+      "gas:candidate-vibid:2262000864353": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000082&tvd=2262000761463&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761463&type=464",
@@ -7423,16 +7423,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Большов Георгий Эрикович": 19,
-      "Гончаров Виктор Иванович": 132,
-      "Горло Сергей Алексеевич": 83,
-      "Дроздов Илья Юрьевич": 153,
-      "Ильинов Виктор Владимирович": 28,
-      "Ищенко Александр Николаевич": 459,
-      "Колесников Иван Александрович": 28,
-      "Ледовской Валерий Иванович": 24,
-      "Назаренко Владимир Александрович": 21,
-      "Смирнов Владимир Николаевич": 27
+      "gas:candidate-vibid:2262000864405": 19,
+      "gas:candidate-vibid:2262000863801": 132,
+      "gas:candidate-vibid:2262000862853": 83,
+      "gas:candidate-vibid:2262000799646": 153,
+      "gas:candidate-vibid:2262000863723": 28,
+      "gas:candidate-vibid:2262000864845": 459,
+      "gas:candidate-vibid:2262000861937": 28,
+      "gas:candidate-vibid:2262000864604": 24,
+      "gas:candidate-vibid:2262000865423": 21,
+      "gas:candidate-vibid:2262000864353": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000082&tvd=2262000761463&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761463&type=464",
@@ -7483,16 +7483,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Большов Георгий Эрикович": 37,
-      "Гончаров Виктор Иванович": 139,
-      "Горло Сергей Алексеевич": 156,
-      "Дроздов Илья Юрьевич": 160,
-      "Ильинов Виктор Владимирович": 35,
-      "Ищенко Александр Николаевич": 409,
-      "Колесников Иван Александрович": 54,
-      "Ледовской Валерий Иванович": 36,
-      "Назаренко Владимир Александрович": 24,
-      "Смирнов Владимир Николаевич": 25
+      "gas:candidate-vibid:2262000864405": 37,
+      "gas:candidate-vibid:2262000863801": 139,
+      "gas:candidate-vibid:2262000862853": 156,
+      "gas:candidate-vibid:2262000799646": 160,
+      "gas:candidate-vibid:2262000863723": 35,
+      "gas:candidate-vibid:2262000864845": 409,
+      "gas:candidate-vibid:2262000861937": 54,
+      "gas:candidate-vibid:2262000864604": 36,
+      "gas:candidate-vibid:2262000865423": 24,
+      "gas:candidate-vibid:2262000864353": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000082&tvd=2262000761463&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761463&type=464",
@@ -7543,16 +7543,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Большов Георгий Эрикович": 17,
-      "Гончаров Виктор Иванович": 134,
-      "Горло Сергей Алексеевич": 115,
-      "Дроздов Илья Юрьевич": 187,
-      "Ильинов Виктор Владимирович": 26,
-      "Ищенко Александр Николаевич": 873,
-      "Колесников Иван Александрович": 84,
-      "Ледовской Валерий Иванович": 17,
-      "Назаренко Владимир Александрович": 28,
-      "Смирнов Владимир Николаевич": 26
+      "gas:candidate-vibid:2262000864405": 17,
+      "gas:candidate-vibid:2262000863801": 134,
+      "gas:candidate-vibid:2262000862853": 115,
+      "gas:candidate-vibid:2262000799646": 187,
+      "gas:candidate-vibid:2262000863723": 26,
+      "gas:candidate-vibid:2262000864845": 873,
+      "gas:candidate-vibid:2262000861937": 84,
+      "gas:candidate-vibid:2262000864604": 17,
+      "gas:candidate-vibid:2262000865423": 28,
+      "gas:candidate-vibid:2262000864353": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000082&tvd=2262000761463&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761463&type=464",
@@ -7603,16 +7603,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Большов Георгий Эрикович": 13,
-      "Гончаров Виктор Иванович": 203,
-      "Горло Сергей Алексеевич": 147,
-      "Дроздов Илья Юрьевич": 168,
-      "Ильинов Виктор Владимирович": 34,
-      "Ищенко Александр Николаевич": 388,
-      "Колесников Иван Александрович": 36,
-      "Ледовской Валерий Иванович": 27,
-      "Назаренко Владимир Александрович": 25,
-      "Смирнов Владимир Николаевич": 20
+      "gas:candidate-vibid:2262000864405": 13,
+      "gas:candidate-vibid:2262000863801": 203,
+      "gas:candidate-vibid:2262000862853": 147,
+      "gas:candidate-vibid:2262000799646": 168,
+      "gas:candidate-vibid:2262000863723": 34,
+      "gas:candidate-vibid:2262000864845": 388,
+      "gas:candidate-vibid:2262000861937": 36,
+      "gas:candidate-vibid:2262000864604": 27,
+      "gas:candidate-vibid:2262000865423": 25,
+      "gas:candidate-vibid:2262000864353": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000082&tvd=2262000761463&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761463&type=464",
@@ -7663,16 +7663,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Большов Георгий Эрикович": 7,
-      "Гончаров Виктор Иванович": 132,
-      "Горло Сергей Алексеевич": 105,
-      "Дроздов Илья Юрьевич": 136,
-      "Ильинов Виктор Владимирович": 20,
-      "Ищенко Александр Николаевич": 344,
-      "Колесников Иван Александрович": 38,
-      "Ледовской Валерий Иванович": 28,
-      "Назаренко Владимир Александрович": 17,
-      "Смирнов Владимир Николаевич": 15
+      "gas:candidate-vibid:2262000864405": 7,
+      "gas:candidate-vibid:2262000863801": 132,
+      "gas:candidate-vibid:2262000862853": 105,
+      "gas:candidate-vibid:2262000799646": 136,
+      "gas:candidate-vibid:2262000863723": 20,
+      "gas:candidate-vibid:2262000864845": 344,
+      "gas:candidate-vibid:2262000861937": 38,
+      "gas:candidate-vibid:2262000864604": 28,
+      "gas:candidate-vibid:2262000865423": 17,
+      "gas:candidate-vibid:2262000864353": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000082&tvd=2262000761463&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761463&type=464",
@@ -7723,16 +7723,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Большов Георгий Эрикович": 20,
-      "Гончаров Виктор Иванович": 139,
-      "Горло Сергей Алексеевич": 96,
-      "Дроздов Илья Юрьевич": 111,
-      "Ильинов Виктор Владимирович": 15,
-      "Ищенко Александр Николаевич": 234,
-      "Колесников Иван Александрович": 34,
-      "Ледовской Валерий Иванович": 20,
-      "Назаренко Владимир Александрович": 15,
-      "Смирнов Владимир Николаевич": 11
+      "gas:candidate-vibid:2262000864405": 20,
+      "gas:candidate-vibid:2262000863801": 139,
+      "gas:candidate-vibid:2262000862853": 96,
+      "gas:candidate-vibid:2262000799646": 111,
+      "gas:candidate-vibid:2262000863723": 15,
+      "gas:candidate-vibid:2262000864845": 234,
+      "gas:candidate-vibid:2262000861937": 34,
+      "gas:candidate-vibid:2262000864604": 20,
+      "gas:candidate-vibid:2262000865423": 15,
+      "gas:candidate-vibid:2262000864353": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000082&tvd=2262000761463&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761463&type=464",
@@ -7783,16 +7783,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Большов Георгий Эрикович": 17,
-      "Гончаров Виктор Иванович": 134,
-      "Горло Сергей Алексеевич": 98,
-      "Дроздов Илья Юрьевич": 69,
-      "Ильинов Виктор Владимирович": 29,
-      "Ищенко Александр Николаевич": 516,
-      "Колесников Иван Александрович": 12,
-      "Ледовской Валерий Иванович": 15,
-      "Назаренко Владимир Александрович": 16,
-      "Смирнов Владимир Николаевич": 27
+      "gas:candidate-vibid:2262000864405": 17,
+      "gas:candidate-vibid:2262000863801": 134,
+      "gas:candidate-vibid:2262000862853": 98,
+      "gas:candidate-vibid:2262000799646": 69,
+      "gas:candidate-vibid:2262000863723": 29,
+      "gas:candidate-vibid:2262000864845": 516,
+      "gas:candidate-vibid:2262000861937": 12,
+      "gas:candidate-vibid:2262000864604": 15,
+      "gas:candidate-vibid:2262000865423": 16,
+      "gas:candidate-vibid:2262000864353": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000082&tvd=2262000761463&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761463&type=464",
@@ -7843,16 +7843,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Большов Георгий Эрикович": 11,
-      "Гончаров Виктор Иванович": 80,
-      "Горло Сергей Алексеевич": 39,
-      "Дроздов Илья Юрьевич": 67,
-      "Ильинов Виктор Владимирович": 10,
-      "Ищенко Александр Николаевич": 209,
-      "Колесников Иван Александрович": 11,
-      "Ледовской Валерий Иванович": 6,
-      "Назаренко Владимир Александрович": 8,
-      "Смирнов Владимир Николаевич": 8
+      "gas:candidate-vibid:2262000864405": 11,
+      "gas:candidate-vibid:2262000863801": 80,
+      "gas:candidate-vibid:2262000862853": 39,
+      "gas:candidate-vibid:2262000799646": 67,
+      "gas:candidate-vibid:2262000863723": 10,
+      "gas:candidate-vibid:2262000864845": 209,
+      "gas:candidate-vibid:2262000861937": 11,
+      "gas:candidate-vibid:2262000864604": 6,
+      "gas:candidate-vibid:2262000865423": 8,
+      "gas:candidate-vibid:2262000864353": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000082&tvd=2262000761463&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761463&type=464",
@@ -7903,16 +7903,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Большов Георгий Эрикович": 14,
-      "Гончаров Виктор Иванович": 125,
-      "Горло Сергей Алексеевич": 77,
-      "Дроздов Илья Юрьевич": 106,
-      "Ильинов Виктор Владимирович": 16,
-      "Ищенко Александр Николаевич": 436,
-      "Колесников Иван Александрович": 47,
-      "Ледовской Валерий Иванович": 21,
-      "Назаренко Владимир Александрович": 7,
-      "Смирнов Владимир Николаевич": 14
+      "gas:candidate-vibid:2262000864405": 14,
+      "gas:candidate-vibid:2262000863801": 125,
+      "gas:candidate-vibid:2262000862853": 77,
+      "gas:candidate-vibid:2262000799646": 106,
+      "gas:candidate-vibid:2262000863723": 16,
+      "gas:candidate-vibid:2262000864845": 436,
+      "gas:candidate-vibid:2262000861937": 47,
+      "gas:candidate-vibid:2262000864604": 21,
+      "gas:candidate-vibid:2262000865423": 7,
+      "gas:candidate-vibid:2262000864353": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000082&tvd=2262000761463&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761463&type=464",
@@ -7963,16 +7963,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Большов Георгий Эрикович": 3,
-      "Гончаров Виктор Иванович": 102,
-      "Горло Сергей Алексеевич": 122,
-      "Дроздов Илья Юрьевич": 143,
-      "Ильинов Виктор Владимирович": 17,
-      "Ищенко Александр Николаевич": 555,
-      "Колесников Иван Александрович": 25,
-      "Ледовской Валерий Иванович": 9,
-      "Назаренко Владимир Александрович": 5,
-      "Смирнов Владимир Николаевич": 9
+      "gas:candidate-vibid:2262000864405": 3,
+      "gas:candidate-vibid:2262000863801": 102,
+      "gas:candidate-vibid:2262000862853": 122,
+      "gas:candidate-vibid:2262000799646": 143,
+      "gas:candidate-vibid:2262000863723": 17,
+      "gas:candidate-vibid:2262000864845": 555,
+      "gas:candidate-vibid:2262000861937": 25,
+      "gas:candidate-vibid:2262000864604": 9,
+      "gas:candidate-vibid:2262000865423": 5,
+      "gas:candidate-vibid:2262000864353": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000082&tvd=2262000761463&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761463&type=464",
@@ -8023,16 +8023,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Большов Георгий Эрикович": 23,
-      "Гончаров Виктор Иванович": 170,
-      "Горло Сергей Алексеевич": 183,
-      "Дроздов Илья Юрьевич": 184,
-      "Ильинов Виктор Владимирович": 38,
-      "Ищенко Александр Николаевич": 447,
-      "Колесников Иван Александрович": 48,
-      "Ледовской Валерий Иванович": 28,
-      "Назаренко Владимир Александрович": 16,
-      "Смирнов Владимир Николаевич": 21
+      "gas:candidate-vibid:2262000864405": 23,
+      "gas:candidate-vibid:2262000863801": 170,
+      "gas:candidate-vibid:2262000862853": 183,
+      "gas:candidate-vibid:2262000799646": 184,
+      "gas:candidate-vibid:2262000863723": 38,
+      "gas:candidate-vibid:2262000864845": 447,
+      "gas:candidate-vibid:2262000861937": 48,
+      "gas:candidate-vibid:2262000864604": 28,
+      "gas:candidate-vibid:2262000865423": 16,
+      "gas:candidate-vibid:2262000864353": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000082&tvd=2262000761463&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761463&type=464",
@@ -8083,16 +8083,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Большов Георгий Эрикович": 18,
-      "Гончаров Виктор Иванович": 155,
-      "Горло Сергей Алексеевич": 178,
-      "Дроздов Илья Юрьевич": 180,
-      "Ильинов Виктор Владимирович": 28,
-      "Ищенко Александр Николаевич": 532,
-      "Колесников Иван Александрович": 49,
-      "Ледовской Валерий Иванович": 44,
-      "Назаренко Владимир Александрович": 27,
-      "Смирнов Владимир Николаевич": 25
+      "gas:candidate-vibid:2262000864405": 18,
+      "gas:candidate-vibid:2262000863801": 155,
+      "gas:candidate-vibid:2262000862853": 178,
+      "gas:candidate-vibid:2262000799646": 180,
+      "gas:candidate-vibid:2262000863723": 28,
+      "gas:candidate-vibid:2262000864845": 532,
+      "gas:candidate-vibid:2262000861937": 49,
+      "gas:candidate-vibid:2262000864604": 44,
+      "gas:candidate-vibid:2262000865423": 27,
+      "gas:candidate-vibid:2262000864353": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000082&tvd=2262000761463&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761463&type=464",
@@ -8143,16 +8143,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Большов Георгий Эрикович": 18,
-      "Гончаров Виктор Иванович": 175,
-      "Горло Сергей Алексеевич": 121,
-      "Дроздов Илья Юрьевич": 206,
-      "Ильинов Виктор Владимирович": 23,
-      "Ищенко Александр Николаевич": 707,
-      "Колесников Иван Александрович": 42,
-      "Ледовской Валерий Иванович": 30,
-      "Назаренко Владимир Александрович": 27,
-      "Смирнов Владимир Николаевич": 24
+      "gas:candidate-vibid:2262000864405": 18,
+      "gas:candidate-vibid:2262000863801": 175,
+      "gas:candidate-vibid:2262000862853": 121,
+      "gas:candidate-vibid:2262000799646": 206,
+      "gas:candidate-vibid:2262000863723": 23,
+      "gas:candidate-vibid:2262000864845": 707,
+      "gas:candidate-vibid:2262000861937": 42,
+      "gas:candidate-vibid:2262000864604": 30,
+      "gas:candidate-vibid:2262000865423": 27,
+      "gas:candidate-vibid:2262000864353": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000082&tvd=2262000761463&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761463&type=464",
@@ -8203,16 +8203,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Большов Георгий Эрикович": 16,
-      "Гончаров Виктор Иванович": 69,
-      "Горло Сергей Алексеевич": 55,
-      "Дроздов Илья Юрьевич": 88,
-      "Ильинов Виктор Владимирович": 21,
-      "Ищенко Александр Николаевич": 200,
-      "Колесников Иван Александрович": 18,
-      "Ледовской Валерий Иванович": 9,
-      "Назаренко Владимир Александрович": 16,
-      "Смирнов Владимир Николаевич": 25
+      "gas:candidate-vibid:2262000864405": 16,
+      "gas:candidate-vibid:2262000863801": 69,
+      "gas:candidate-vibid:2262000862853": 55,
+      "gas:candidate-vibid:2262000799646": 88,
+      "gas:candidate-vibid:2262000863723": 21,
+      "gas:candidate-vibid:2262000864845": 200,
+      "gas:candidate-vibid:2262000861937": 18,
+      "gas:candidate-vibid:2262000864604": 9,
+      "gas:candidate-vibid:2262000865423": 16,
+      "gas:candidate-vibid:2262000864353": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000082&tvd=2262000761463&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761463&type=464",
@@ -8263,16 +8263,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Большов Георгий Эрикович": 17,
-      "Гончаров Виктор Иванович": 123,
-      "Горло Сергей Алексеевич": 84,
-      "Дроздов Илья Юрьевич": 142,
-      "Ильинов Виктор Владимирович": 36,
-      "Ищенко Александр Николаевич": 508,
-      "Колесников Иван Александрович": 41,
-      "Ледовской Валерий Иванович": 31,
-      "Назаренко Владимир Александрович": 15,
-      "Смирнов Владимир Николаевич": 14
+      "gas:candidate-vibid:2262000864405": 17,
+      "gas:candidate-vibid:2262000863801": 123,
+      "gas:candidate-vibid:2262000862853": 84,
+      "gas:candidate-vibid:2262000799646": 142,
+      "gas:candidate-vibid:2262000863723": 36,
+      "gas:candidate-vibid:2262000864845": 508,
+      "gas:candidate-vibid:2262000861937": 41,
+      "gas:candidate-vibid:2262000864604": 31,
+      "gas:candidate-vibid:2262000865423": 15,
+      "gas:candidate-vibid:2262000864353": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000082&tvd=2262000761463&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761463&type=464",
@@ -8323,16 +8323,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Большов Георгий Эрикович": 16,
-      "Гончаров Виктор Иванович": 165,
-      "Горло Сергей Алексеевич": 96,
-      "Дроздов Илья Юрьевич": 174,
-      "Ильинов Виктор Владимирович": 37,
-      "Ищенко Александр Николаевич": 372,
-      "Колесников Иван Александрович": 40,
-      "Ледовской Валерий Иванович": 30,
-      "Назаренко Владимир Александрович": 27,
-      "Смирнов Владимир Николаевич": 36
+      "gas:candidate-vibid:2262000864405": 16,
+      "gas:candidate-vibid:2262000863801": 165,
+      "gas:candidate-vibid:2262000862853": 96,
+      "gas:candidate-vibid:2262000799646": 174,
+      "gas:candidate-vibid:2262000863723": 37,
+      "gas:candidate-vibid:2262000864845": 372,
+      "gas:candidate-vibid:2262000861937": 40,
+      "gas:candidate-vibid:2262000864604": 30,
+      "gas:candidate-vibid:2262000865423": 27,
+      "gas:candidate-vibid:2262000864353": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000082&tvd=2262000761463&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761463&type=464",
@@ -8383,16 +8383,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Большов Георгий Эрикович": 10,
-      "Гончаров Виктор Иванович": 34,
-      "Горло Сергей Алексеевич": 25,
-      "Дроздов Илья Юрьевич": 62,
-      "Ильинов Виктор Владимирович": 15,
-      "Ищенко Александр Николаевич": 379,
-      "Колесников Иван Александрович": 10,
-      "Ледовской Валерий Иванович": 20,
-      "Назаренко Владимир Александрович": 17,
-      "Смирнов Владимир Николаевич": 10
+      "gas:candidate-vibid:2262000864405": 10,
+      "gas:candidate-vibid:2262000863801": 34,
+      "gas:candidate-vibid:2262000862853": 25,
+      "gas:candidate-vibid:2262000799646": 62,
+      "gas:candidate-vibid:2262000863723": 15,
+      "gas:candidate-vibid:2262000864845": 379,
+      "gas:candidate-vibid:2262000861937": 10,
+      "gas:candidate-vibid:2262000864604": 20,
+      "gas:candidate-vibid:2262000865423": 17,
+      "gas:candidate-vibid:2262000864353": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000082&tvd=2262000761463&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761463&type=464",
@@ -8443,16 +8443,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Большов Георгий Эрикович": 22,
-      "Гончаров Виктор Иванович": 101,
-      "Горло Сергей Алексеевич": 93,
-      "Дроздов Илья Юрьевич": 158,
-      "Ильинов Виктор Владимирович": 35,
-      "Ищенко Александр Николаевич": 558,
-      "Колесников Иван Александрович": 51,
-      "Ледовской Валерий Иванович": 34,
-      "Назаренко Владимир Александрович": 27,
-      "Смирнов Владимир Николаевич": 19
+      "gas:candidate-vibid:2262000864405": 22,
+      "gas:candidate-vibid:2262000863801": 101,
+      "gas:candidate-vibid:2262000862853": 93,
+      "gas:candidate-vibid:2262000799646": 158,
+      "gas:candidate-vibid:2262000863723": 35,
+      "gas:candidate-vibid:2262000864845": 558,
+      "gas:candidate-vibid:2262000861937": 51,
+      "gas:candidate-vibid:2262000864604": 34,
+      "gas:candidate-vibid:2262000865423": 27,
+      "gas:candidate-vibid:2262000864353": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000082&tvd=2262000761463&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761463&type=464",
@@ -8503,16 +8503,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Большов Георгий Эрикович": 13,
-      "Гончаров Виктор Иванович": 121,
-      "Горло Сергей Алексеевич": 87,
-      "Дроздов Илья Юрьевич": 154,
-      "Ильинов Виктор Владимирович": 20,
-      "Ищенко Александр Николаевич": 293,
-      "Колесников Иван Александрович": 47,
-      "Ледовской Валерий Иванович": 17,
-      "Назаренко Владимир Александрович": 25,
-      "Смирнов Владимир Николаевич": 20
+      "gas:candidate-vibid:2262000864405": 13,
+      "gas:candidate-vibid:2262000863801": 121,
+      "gas:candidate-vibid:2262000862853": 87,
+      "gas:candidate-vibid:2262000799646": 154,
+      "gas:candidate-vibid:2262000863723": 20,
+      "gas:candidate-vibid:2262000864845": 293,
+      "gas:candidate-vibid:2262000861937": 47,
+      "gas:candidate-vibid:2262000864604": 17,
+      "gas:candidate-vibid:2262000865423": 25,
+      "gas:candidate-vibid:2262000864353": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000082&tvd=2262000761463&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761463&type=464",
@@ -8563,16 +8563,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Большов Георгий Эрикович": 6,
-      "Гончаров Виктор Иванович": 113,
-      "Горло Сергей Алексеевич": 66,
-      "Дроздов Илья Юрьевич": 83,
-      "Ильинов Виктор Владимирович": 18,
-      "Ищенко Александр Николаевич": 421,
-      "Колесников Иван Александрович": 18,
-      "Ледовской Валерий Иванович": 31,
-      "Назаренко Владимир Александрович": 13,
-      "Смирнов Владимир Николаевич": 16
+      "gas:candidate-vibid:2262000864405": 6,
+      "gas:candidate-vibid:2262000863801": 113,
+      "gas:candidate-vibid:2262000862853": 66,
+      "gas:candidate-vibid:2262000799646": 83,
+      "gas:candidate-vibid:2262000863723": 18,
+      "gas:candidate-vibid:2262000864845": 421,
+      "gas:candidate-vibid:2262000861937": 18,
+      "gas:candidate-vibid:2262000864604": 31,
+      "gas:candidate-vibid:2262000865423": 13,
+      "gas:candidate-vibid:2262000864353": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000082&tvd=2262000761463&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761463&type=464",
@@ -8623,16 +8623,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Большов Георгий Эрикович": 15,
-      "Гончаров Виктор Иванович": 134,
-      "Горло Сергей Алексеевич": 100,
-      "Дроздов Илья Юрьевич": 188,
-      "Ильинов Виктор Владимирович": 25,
-      "Ищенко Александр Николаевич": 391,
-      "Колесников Иван Александрович": 69,
-      "Ледовской Валерий Иванович": 33,
-      "Назаренко Владимир Александрович": 10,
-      "Смирнов Владимир Николаевич": 16
+      "gas:candidate-vibid:2262000864405": 15,
+      "gas:candidate-vibid:2262000863801": 134,
+      "gas:candidate-vibid:2262000862853": 100,
+      "gas:candidate-vibid:2262000799646": 188,
+      "gas:candidate-vibid:2262000863723": 25,
+      "gas:candidate-vibid:2262000864845": 391,
+      "gas:candidate-vibid:2262000861937": 69,
+      "gas:candidate-vibid:2262000864604": 33,
+      "gas:candidate-vibid:2262000865423": 10,
+      "gas:candidate-vibid:2262000864353": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000082&tvd=2262000761463&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761463&type=464",
@@ -8683,16 +8683,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Большов Георгий Эрикович": 19,
-      "Гончаров Виктор Иванович": 143,
-      "Горло Сергей Алексеевич": 117,
-      "Дроздов Илья Юрьевич": 184,
-      "Ильинов Виктор Владимирович": 43,
-      "Ищенко Александр Николаевич": 505,
-      "Колесников Иван Александрович": 58,
-      "Ледовской Валерий Иванович": 37,
-      "Назаренко Владимир Александрович": 22,
-      "Смирнов Владимир Николаевич": 21
+      "gas:candidate-vibid:2262000864405": 19,
+      "gas:candidate-vibid:2262000863801": 143,
+      "gas:candidate-vibid:2262000862853": 117,
+      "gas:candidate-vibid:2262000799646": 184,
+      "gas:candidate-vibid:2262000863723": 43,
+      "gas:candidate-vibid:2262000864845": 505,
+      "gas:candidate-vibid:2262000861937": 58,
+      "gas:candidate-vibid:2262000864604": 37,
+      "gas:candidate-vibid:2262000865423": 22,
+      "gas:candidate-vibid:2262000864353": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000082&tvd=2262000761463&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761463&type=464",
@@ -8743,16 +8743,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Большов Георгий Эрикович": 13,
-      "Гончаров Виктор Иванович": 104,
-      "Горло Сергей Алексеевич": 110,
-      "Дроздов Илья Юрьевич": 180,
-      "Ильинов Виктор Владимирович": 19,
-      "Ищенко Александр Николаевич": 490,
-      "Колесников Иван Александрович": 40,
-      "Ледовской Валерий Иванович": 29,
-      "Назаренко Владимир Александрович": 25,
-      "Смирнов Владимир Николаевич": 17
+      "gas:candidate-vibid:2262000864405": 13,
+      "gas:candidate-vibid:2262000863801": 104,
+      "gas:candidate-vibid:2262000862853": 110,
+      "gas:candidate-vibid:2262000799646": 180,
+      "gas:candidate-vibid:2262000863723": 19,
+      "gas:candidate-vibid:2262000864845": 490,
+      "gas:candidate-vibid:2262000861937": 40,
+      "gas:candidate-vibid:2262000864604": 29,
+      "gas:candidate-vibid:2262000865423": 25,
+      "gas:candidate-vibid:2262000864353": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000082&tvd=2262000761463&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761463&type=464",
@@ -8803,16 +8803,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Большов Георгий Эрикович": 10,
-      "Гончаров Виктор Иванович": 147,
-      "Горло Сергей Алексеевич": 149,
-      "Дроздов Илья Юрьевич": 178,
-      "Ильинов Виктор Владимирович": 26,
-      "Ищенко Александр Николаевич": 380,
-      "Колесников Иван Александрович": 61,
-      "Ледовской Валерий Иванович": 21,
-      "Назаренко Владимир Александрович": 10,
-      "Смирнов Владимир Николаевич": 23
+      "gas:candidate-vibid:2262000864405": 10,
+      "gas:candidate-vibid:2262000863801": 147,
+      "gas:candidate-vibid:2262000862853": 149,
+      "gas:candidate-vibid:2262000799646": 178,
+      "gas:candidate-vibid:2262000863723": 26,
+      "gas:candidate-vibid:2262000864845": 380,
+      "gas:candidate-vibid:2262000861937": 61,
+      "gas:candidate-vibid:2262000864604": 21,
+      "gas:candidate-vibid:2262000865423": 10,
+      "gas:candidate-vibid:2262000864353": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000082&tvd=2262000761463&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761463&type=464",
@@ -8863,16 +8863,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Большов Георгий Эрикович": 26,
-      "Гончаров Виктор Иванович": 257,
-      "Горло Сергей Алексеевич": 47,
-      "Дроздов Илья Юрьевич": 127,
-      "Ильинов Виктор Владимирович": 28,
-      "Ищенко Александр Николаевич": 1167,
-      "Колесников Иван Александрович": 73,
-      "Ледовской Валерий Иванович": 50,
-      "Назаренко Владимир Александрович": 112,
-      "Смирнов Владимир Николаевич": 39
+      "gas:candidate-vibid:2262000864405": 26,
+      "gas:candidate-vibid:2262000863801": 257,
+      "gas:candidate-vibid:2262000862853": 47,
+      "gas:candidate-vibid:2262000799646": 127,
+      "gas:candidate-vibid:2262000863723": 28,
+      "gas:candidate-vibid:2262000864845": 1167,
+      "gas:candidate-vibid:2262000861937": 73,
+      "gas:candidate-vibid:2262000864604": 50,
+      "gas:candidate-vibid:2262000865423": 112,
+      "gas:candidate-vibid:2262000864353": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000082&tvd=2262000761463&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761463&type=464",
@@ -8923,16 +8923,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Большов Георгий Эрикович": 7,
-      "Гончаров Виктор Иванович": 71,
-      "Горло Сергей Алексеевич": 53,
-      "Дроздов Илья Юрьевич": 107,
-      "Ильинов Виктор Владимирович": 12,
-      "Ищенко Александр Николаевич": 184,
-      "Колесников Иван Александрович": 24,
-      "Ледовской Валерий Иванович": 25,
-      "Назаренко Владимир Александрович": 9,
-      "Смирнов Владимир Николаевич": 11
+      "gas:candidate-vibid:2262000864405": 7,
+      "gas:candidate-vibid:2262000863801": 71,
+      "gas:candidate-vibid:2262000862853": 53,
+      "gas:candidate-vibid:2262000799646": 107,
+      "gas:candidate-vibid:2262000863723": 12,
+      "gas:candidate-vibid:2262000864845": 184,
+      "gas:candidate-vibid:2262000861937": 24,
+      "gas:candidate-vibid:2262000864604": 25,
+      "gas:candidate-vibid:2262000865423": 9,
+      "gas:candidate-vibid:2262000864353": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000082&tvd=2262000761464&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761464&type=464",
@@ -8983,16 +8983,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Большов Георгий Эрикович": 8,
-      "Гончаров Виктор Иванович": 59,
-      "Горло Сергей Алексеевич": 33,
-      "Дроздов Илья Юрьевич": 60,
-      "Ильинов Виктор Владимирович": 7,
-      "Ищенко Александр Николаевич": 238,
-      "Колесников Иван Александрович": 12,
-      "Ледовской Валерий Иванович": 16,
-      "Назаренко Владимир Александрович": 3,
-      "Смирнов Владимир Николаевич": 8
+      "gas:candidate-vibid:2262000864405": 8,
+      "gas:candidate-vibid:2262000863801": 59,
+      "gas:candidate-vibid:2262000862853": 33,
+      "gas:candidate-vibid:2262000799646": 60,
+      "gas:candidate-vibid:2262000863723": 7,
+      "gas:candidate-vibid:2262000864845": 238,
+      "gas:candidate-vibid:2262000861937": 12,
+      "gas:candidate-vibid:2262000864604": 16,
+      "gas:candidate-vibid:2262000865423": 3,
+      "gas:candidate-vibid:2262000864353": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000082&tvd=2262000761464&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761464&type=464",
@@ -9043,16 +9043,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Большов Георгий Эрикович": 16,
-      "Гончаров Виктор Иванович": 93,
-      "Горло Сергей Алексеевич": 65,
-      "Дроздов Илья Юрьевич": 143,
-      "Ильинов Виктор Владимирович": 29,
-      "Ищенко Александр Николаевич": 281,
-      "Колесников Иван Александрович": 21,
-      "Ледовской Валерий Иванович": 32,
-      "Назаренко Владимир Александрович": 10,
-      "Смирнов Владимир Николаевич": 10
+      "gas:candidate-vibid:2262000864405": 16,
+      "gas:candidate-vibid:2262000863801": 93,
+      "gas:candidate-vibid:2262000862853": 65,
+      "gas:candidate-vibid:2262000799646": 143,
+      "gas:candidate-vibid:2262000863723": 29,
+      "gas:candidate-vibid:2262000864845": 281,
+      "gas:candidate-vibid:2262000861937": 21,
+      "gas:candidate-vibid:2262000864604": 32,
+      "gas:candidate-vibid:2262000865423": 10,
+      "gas:candidate-vibid:2262000864353": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000082&tvd=2262000761464&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761464&type=464",
@@ -9103,16 +9103,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Большов Георгий Эрикович": 8,
-      "Гончаров Виктор Иванович": 48,
-      "Горло Сергей Алексеевич": 26,
-      "Дроздов Илья Юрьевич": 42,
-      "Ильинов Виктор Владимирович": 12,
-      "Ищенко Александр Николаевич": 175,
-      "Колесников Иван Александрович": 20,
-      "Ледовской Валерий Иванович": 18,
-      "Назаренко Владимир Александрович": 3,
-      "Смирнов Владимир Николаевич": 16
+      "gas:candidate-vibid:2262000864405": 8,
+      "gas:candidate-vibid:2262000863801": 48,
+      "gas:candidate-vibid:2262000862853": 26,
+      "gas:candidate-vibid:2262000799646": 42,
+      "gas:candidate-vibid:2262000863723": 12,
+      "gas:candidate-vibid:2262000864845": 175,
+      "gas:candidate-vibid:2262000861937": 20,
+      "gas:candidate-vibid:2262000864604": 18,
+      "gas:candidate-vibid:2262000865423": 3,
+      "gas:candidate-vibid:2262000864353": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000082&tvd=2262000761464&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761464&type=464",
@@ -9163,16 +9163,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Большов Георгий Эрикович": 11,
-      "Гончаров Виктор Иванович": 79,
-      "Горло Сергей Алексеевич": 31,
-      "Дроздов Илья Юрьевич": 76,
-      "Ильинов Виктор Владимирович": 10,
-      "Ищенко Александр Николаевич": 184,
-      "Колесников Иван Александрович": 23,
-      "Ледовской Валерий Иванович": 15,
-      "Назаренко Владимир Александрович": 14,
-      "Смирнов Владимир Николаевич": 14
+      "gas:candidate-vibid:2262000864405": 11,
+      "gas:candidate-vibid:2262000863801": 79,
+      "gas:candidate-vibid:2262000862853": 31,
+      "gas:candidate-vibid:2262000799646": 76,
+      "gas:candidate-vibid:2262000863723": 10,
+      "gas:candidate-vibid:2262000864845": 184,
+      "gas:candidate-vibid:2262000861937": 23,
+      "gas:candidate-vibid:2262000864604": 15,
+      "gas:candidate-vibid:2262000865423": 14,
+      "gas:candidate-vibid:2262000864353": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000082&tvd=2262000761464&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761464&type=464",
@@ -9223,16 +9223,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Большов Георгий Эрикович": 9,
-      "Гончаров Виктор Иванович": 53,
-      "Горло Сергей Алексеевич": 42,
-      "Дроздов Илья Юрьевич": 72,
-      "Ильинов Виктор Владимирович": 6,
-      "Ищенко Александр Николаевич": 228,
-      "Колесников Иван Александрович": 8,
-      "Ледовской Валерий Иванович": 12,
-      "Назаренко Владимир Александрович": 7,
-      "Смирнов Владимир Николаевич": 7
+      "gas:candidate-vibid:2262000864405": 9,
+      "gas:candidate-vibid:2262000863801": 53,
+      "gas:candidate-vibid:2262000862853": 42,
+      "gas:candidate-vibid:2262000799646": 72,
+      "gas:candidate-vibid:2262000863723": 6,
+      "gas:candidate-vibid:2262000864845": 228,
+      "gas:candidate-vibid:2262000861937": 8,
+      "gas:candidate-vibid:2262000864604": 12,
+      "gas:candidate-vibid:2262000865423": 7,
+      "gas:candidate-vibid:2262000864353": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000082&tvd=2262000761464&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761464&type=464",
@@ -9283,16 +9283,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Большов Георгий Эрикович": 8,
-      "Гончаров Виктор Иванович": 35,
-      "Горло Сергей Алексеевич": 18,
-      "Дроздов Илья Юрьевич": 63,
-      "Ильинов Виктор Владимирович": 6,
-      "Ищенко Александр Николаевич": 131,
-      "Колесников Иван Александрович": 10,
-      "Ледовской Валерий Иванович": 15,
-      "Назаренко Владимир Александрович": 12,
-      "Смирнов Владимир Николаевич": 6
+      "gas:candidate-vibid:2262000864405": 8,
+      "gas:candidate-vibid:2262000863801": 35,
+      "gas:candidate-vibid:2262000862853": 18,
+      "gas:candidate-vibid:2262000799646": 63,
+      "gas:candidate-vibid:2262000863723": 6,
+      "gas:candidate-vibid:2262000864845": 131,
+      "gas:candidate-vibid:2262000861937": 10,
+      "gas:candidate-vibid:2262000864604": 15,
+      "gas:candidate-vibid:2262000865423": 12,
+      "gas:candidate-vibid:2262000864353": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000082&tvd=2262000761464&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761464&type=464",
@@ -9343,16 +9343,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Большов Георгий Эрикович": 6,
-      "Гончаров Виктор Иванович": 36,
-      "Горло Сергей Алексеевич": 25,
-      "Дроздов Илья Юрьевич": 41,
-      "Ильинов Виктор Владимирович": 5,
-      "Ищенко Александр Николаевич": 100,
-      "Колесников Иван Александрович": 15,
-      "Ледовской Валерий Иванович": 11,
-      "Назаренко Владимир Александрович": 3,
-      "Смирнов Владимир Николаевич": 6
+      "gas:candidate-vibid:2262000864405": 6,
+      "gas:candidate-vibid:2262000863801": 36,
+      "gas:candidate-vibid:2262000862853": 25,
+      "gas:candidate-vibid:2262000799646": 41,
+      "gas:candidate-vibid:2262000863723": 5,
+      "gas:candidate-vibid:2262000864845": 100,
+      "gas:candidate-vibid:2262000861937": 15,
+      "gas:candidate-vibid:2262000864604": 11,
+      "gas:candidate-vibid:2262000865423": 3,
+      "gas:candidate-vibid:2262000864353": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000082&tvd=2262000761464&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761464&type=464",
@@ -9403,16 +9403,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Большов Георгий Эрикович": 6,
-      "Гончаров Виктор Иванович": 86,
-      "Горло Сергей Алексеевич": 49,
-      "Дроздов Илья Юрьевич": 100,
-      "Ильинов Виктор Владимирович": 6,
-      "Ищенко Александр Николаевич": 157,
-      "Колесников Иван Александрович": 22,
-      "Ледовской Валерий Иванович": 27,
-      "Назаренко Владимир Александрович": 9,
-      "Смирнов Владимир Николаевич": 17
+      "gas:candidate-vibid:2262000864405": 6,
+      "gas:candidate-vibid:2262000863801": 86,
+      "gas:candidate-vibid:2262000862853": 49,
+      "gas:candidate-vibid:2262000799646": 100,
+      "gas:candidate-vibid:2262000863723": 6,
+      "gas:candidate-vibid:2262000864845": 157,
+      "gas:candidate-vibid:2262000861937": 22,
+      "gas:candidate-vibid:2262000864604": 27,
+      "gas:candidate-vibid:2262000865423": 9,
+      "gas:candidate-vibid:2262000864353": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000082&tvd=2262000761464&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761464&type=464",
@@ -9463,16 +9463,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Большов Георгий Эрикович": 14,
-      "Гончаров Виктор Иванович": 161,
-      "Горло Сергей Алексеевич": 72,
-      "Дроздов Илья Юрьевич": 127,
-      "Ильинов Виктор Владимирович": 18,
-      "Ищенко Александр Николаевич": 289,
-      "Колесников Иван Александрович": 37,
-      "Ледовской Валерий Иванович": 36,
-      "Назаренко Владимир Александрович": 17,
-      "Смирнов Владимир Николаевич": 11
+      "gas:candidate-vibid:2262000864405": 14,
+      "gas:candidate-vibid:2262000863801": 161,
+      "gas:candidate-vibid:2262000862853": 72,
+      "gas:candidate-vibid:2262000799646": 127,
+      "gas:candidate-vibid:2262000863723": 18,
+      "gas:candidate-vibid:2262000864845": 289,
+      "gas:candidate-vibid:2262000861937": 37,
+      "gas:candidate-vibid:2262000864604": 36,
+      "gas:candidate-vibid:2262000865423": 17,
+      "gas:candidate-vibid:2262000864353": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000082&tvd=2262000761464&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761464&type=464",
@@ -9523,16 +9523,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Большов Георгий Эрикович": 4,
-      "Гончаров Виктор Иванович": 55,
-      "Горло Сергей Алексеевич": 37,
-      "Дроздов Илья Юрьевич": 58,
-      "Ильинов Виктор Владимирович": 13,
-      "Ищенко Александр Николаевич": 139,
-      "Колесников Иван Александрович": 12,
-      "Ледовской Валерий Иванович": 15,
-      "Назаренко Владимир Александрович": 4,
-      "Смирнов Владимир Николаевич": 5
+      "gas:candidate-vibid:2262000864405": 4,
+      "gas:candidate-vibid:2262000863801": 55,
+      "gas:candidate-vibid:2262000862853": 37,
+      "gas:candidate-vibid:2262000799646": 58,
+      "gas:candidate-vibid:2262000863723": 13,
+      "gas:candidate-vibid:2262000864845": 139,
+      "gas:candidate-vibid:2262000861937": 12,
+      "gas:candidate-vibid:2262000864604": 15,
+      "gas:candidate-vibid:2262000865423": 4,
+      "gas:candidate-vibid:2262000864353": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000082&tvd=2262000761464&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761464&type=464",
@@ -9583,16 +9583,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Большов Георгий Эрикович": 10,
-      "Гончаров Виктор Иванович": 104,
-      "Горло Сергей Алексеевич": 74,
-      "Дроздов Илья Юрьевич": 112,
-      "Ильинов Виктор Владимирович": 12,
-      "Ищенко Александр Николаевич": 240,
-      "Колесников Иван Александрович": 20,
-      "Ледовской Валерий Иванович": 33,
-      "Назаренко Владимир Александрович": 13,
-      "Смирнов Владимир Николаевич": 23
+      "gas:candidate-vibid:2262000864405": 10,
+      "gas:candidate-vibid:2262000863801": 104,
+      "gas:candidate-vibid:2262000862853": 74,
+      "gas:candidate-vibid:2262000799646": 112,
+      "gas:candidate-vibid:2262000863723": 12,
+      "gas:candidate-vibid:2262000864845": 240,
+      "gas:candidate-vibid:2262000861937": 20,
+      "gas:candidate-vibid:2262000864604": 33,
+      "gas:candidate-vibid:2262000865423": 13,
+      "gas:candidate-vibid:2262000864353": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000082&tvd=2262000761464&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761464&type=464",
@@ -9643,16 +9643,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Большов Георгий Эрикович": 7,
-      "Гончаров Виктор Иванович": 85,
-      "Горло Сергей Алексеевич": 39,
-      "Дроздов Илья Юрьевич": 80,
-      "Ильинов Виктор Владимирович": 11,
-      "Ищенко Александр Николаевич": 128,
-      "Колесников Иван Александрович": 21,
-      "Ледовской Валерий Иванович": 25,
-      "Назаренко Владимир Александрович": 7,
-      "Смирнов Владимир Николаевич": 6
+      "gas:candidate-vibid:2262000864405": 7,
+      "gas:candidate-vibid:2262000863801": 85,
+      "gas:candidate-vibid:2262000862853": 39,
+      "gas:candidate-vibid:2262000799646": 80,
+      "gas:candidate-vibid:2262000863723": 11,
+      "gas:candidate-vibid:2262000864845": 128,
+      "gas:candidate-vibid:2262000861937": 21,
+      "gas:candidate-vibid:2262000864604": 25,
+      "gas:candidate-vibid:2262000865423": 7,
+      "gas:candidate-vibid:2262000864353": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000082&tvd=2262000761464&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761464&type=464",
@@ -9703,16 +9703,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Большов Георгий Эрикович": 5,
-      "Гончаров Виктор Иванович": 72,
-      "Горло Сергей Алексеевич": 36,
-      "Дроздов Илья Юрьевич": 74,
-      "Ильинов Виктор Владимирович": 6,
-      "Ищенко Александр Николаевич": 165,
-      "Колесников Иван Александрович": 15,
-      "Ледовской Валерий Иванович": 27,
-      "Назаренко Владимир Александрович": 11,
-      "Смирнов Владимир Николаевич": 15
+      "gas:candidate-vibid:2262000864405": 5,
+      "gas:candidate-vibid:2262000863801": 72,
+      "gas:candidate-vibid:2262000862853": 36,
+      "gas:candidate-vibid:2262000799646": 74,
+      "gas:candidate-vibid:2262000863723": 6,
+      "gas:candidate-vibid:2262000864845": 165,
+      "gas:candidate-vibid:2262000861937": 15,
+      "gas:candidate-vibid:2262000864604": 27,
+      "gas:candidate-vibid:2262000865423": 11,
+      "gas:candidate-vibid:2262000864353": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000082&tvd=2262000761464&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761464&type=464",
@@ -9763,16 +9763,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Большов Георгий Эрикович": 22,
-      "Гончаров Виктор Иванович": 132,
-      "Горло Сергей Алексеевич": 76,
-      "Дроздов Илья Юрьевич": 153,
-      "Ильинов Виктор Владимирович": 23,
-      "Ищенко Александр Николаевич": 303,
-      "Колесников Иван Александрович": 25,
-      "Ледовской Валерий Иванович": 36,
-      "Назаренко Владимир Александрович": 11,
-      "Смирнов Владимир Николаевич": 26
+      "gas:candidate-vibid:2262000864405": 22,
+      "gas:candidate-vibid:2262000863801": 132,
+      "gas:candidate-vibid:2262000862853": 76,
+      "gas:candidate-vibid:2262000799646": 153,
+      "gas:candidate-vibid:2262000863723": 23,
+      "gas:candidate-vibid:2262000864845": 303,
+      "gas:candidate-vibid:2262000861937": 25,
+      "gas:candidate-vibid:2262000864604": 36,
+      "gas:candidate-vibid:2262000865423": 11,
+      "gas:candidate-vibid:2262000864353": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000082&tvd=2262000761464&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761464&type=464",
@@ -9823,16 +9823,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Большов Георгий Эрикович": 10,
-      "Гончаров Виктор Иванович": 79,
-      "Горло Сергей Алексеевич": 57,
-      "Дроздов Илья Юрьевич": 57,
-      "Ильинов Виктор Владимирович": 11,
-      "Ищенко Александр Николаевич": 199,
-      "Колесников Иван Александрович": 24,
-      "Ледовской Валерий Иванович": 19,
-      "Назаренко Владимир Александрович": 16,
-      "Смирнов Владимир Николаевич": 6
+      "gas:candidate-vibid:2262000864405": 10,
+      "gas:candidate-vibid:2262000863801": 79,
+      "gas:candidate-vibid:2262000862853": 57,
+      "gas:candidate-vibid:2262000799646": 57,
+      "gas:candidate-vibid:2262000863723": 11,
+      "gas:candidate-vibid:2262000864845": 199,
+      "gas:candidate-vibid:2262000861937": 24,
+      "gas:candidate-vibid:2262000864604": 19,
+      "gas:candidate-vibid:2262000865423": 16,
+      "gas:candidate-vibid:2262000864353": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000082&tvd=2262000761464&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761464&type=464",
@@ -9883,16 +9883,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Большов Георгий Эрикович": 10,
-      "Гончаров Виктор Иванович": 81,
-      "Горло Сергей Алексеевич": 78,
-      "Дроздов Илья Юрьевич": 67,
-      "Ильинов Виктор Владимирович": 13,
-      "Ищенко Александр Николаевич": 143,
-      "Колесников Иван Александрович": 15,
-      "Ледовской Валерий Иванович": 14,
-      "Назаренко Владимир Александрович": 8,
-      "Смирнов Владимир Николаевич": 13
+      "gas:candidate-vibid:2262000864405": 10,
+      "gas:candidate-vibid:2262000863801": 81,
+      "gas:candidate-vibid:2262000862853": 78,
+      "gas:candidate-vibid:2262000799646": 67,
+      "gas:candidate-vibid:2262000863723": 13,
+      "gas:candidate-vibid:2262000864845": 143,
+      "gas:candidate-vibid:2262000861937": 15,
+      "gas:candidate-vibid:2262000864604": 14,
+      "gas:candidate-vibid:2262000865423": 8,
+      "gas:candidate-vibid:2262000864353": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000082&tvd=2262000761464&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761464&type=464",
@@ -9943,16 +9943,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Большов Георгий Эрикович": 19,
-      "Гончаров Виктор Иванович": 147,
-      "Горло Сергей Алексеевич": 225,
-      "Дроздов Илья Юрьевич": 195,
-      "Ильинов Виктор Владимирович": 16,
-      "Ищенко Александр Николаевич": 557,
-      "Колесников Иван Александрович": 37,
-      "Ледовской Валерий Иванович": 30,
-      "Назаренко Владимир Александрович": 18,
-      "Смирнов Владимир Николаевич": 29
+      "gas:candidate-vibid:2262000864405": 19,
+      "gas:candidate-vibid:2262000863801": 147,
+      "gas:candidate-vibid:2262000862853": 225,
+      "gas:candidate-vibid:2262000799646": 195,
+      "gas:candidate-vibid:2262000863723": 16,
+      "gas:candidate-vibid:2262000864845": 557,
+      "gas:candidate-vibid:2262000861937": 37,
+      "gas:candidate-vibid:2262000864604": 30,
+      "gas:candidate-vibid:2262000865423": 18,
+      "gas:candidate-vibid:2262000864353": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000082&tvd=2262000761464&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761464&type=464",
@@ -10003,16 +10003,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Большов Георгий Эрикович": 13,
-      "Гончаров Виктор Иванович": 87,
-      "Горло Сергей Алексеевич": 50,
-      "Дроздов Илья Юрьевич": 107,
-      "Ильинов Виктор Владимирович": 6,
-      "Ищенко Александр Николаевич": 182,
-      "Колесников Иван Александрович": 25,
-      "Ледовской Валерий Иванович": 25,
-      "Назаренко Владимир Александрович": 21,
-      "Смирнов Владимир Николаевич": 9
+      "gas:candidate-vibid:2262000864405": 13,
+      "gas:candidate-vibid:2262000863801": 87,
+      "gas:candidate-vibid:2262000862853": 50,
+      "gas:candidate-vibid:2262000799646": 107,
+      "gas:candidate-vibid:2262000863723": 6,
+      "gas:candidate-vibid:2262000864845": 182,
+      "gas:candidate-vibid:2262000861937": 25,
+      "gas:candidate-vibid:2262000864604": 25,
+      "gas:candidate-vibid:2262000865423": 21,
+      "gas:candidate-vibid:2262000864353": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000082&tvd=2262000761464&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761464&type=464",
@@ -10063,16 +10063,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Большов Георгий Эрикович": 8,
-      "Гончаров Виктор Иванович": 100,
-      "Горло Сергей Алексеевич": 58,
-      "Дроздов Илья Юрьевич": 98,
-      "Ильинов Виктор Владимирович": 8,
-      "Ищенко Александр Николаевич": 250,
-      "Колесников Иван Александрович": 15,
-      "Ледовской Валерий Иванович": 16,
-      "Назаренко Владимир Александрович": 17,
-      "Смирнов Владимир Николаевич": 23
+      "gas:candidate-vibid:2262000864405": 8,
+      "gas:candidate-vibid:2262000863801": 100,
+      "gas:candidate-vibid:2262000862853": 58,
+      "gas:candidate-vibid:2262000799646": 98,
+      "gas:candidate-vibid:2262000863723": 8,
+      "gas:candidate-vibid:2262000864845": 250,
+      "gas:candidate-vibid:2262000861937": 15,
+      "gas:candidate-vibid:2262000864604": 16,
+      "gas:candidate-vibid:2262000865423": 17,
+      "gas:candidate-vibid:2262000864353": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000082&tvd=2262000761464&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761464&type=464",
@@ -10123,16 +10123,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Большов Георгий Эрикович": 8,
-      "Гончаров Виктор Иванович": 71,
-      "Горло Сергей Алексеевич": 81,
-      "Дроздов Илья Юрьевич": 110,
-      "Ильинов Виктор Владимирович": 11,
-      "Ищенко Александр Николаевич": 226,
-      "Колесников Иван Александрович": 27,
-      "Ледовской Валерий Иванович": 29,
-      "Назаренко Владимир Александрович": 20,
-      "Смирнов Владимир Николаевич": 25
+      "gas:candidate-vibid:2262000864405": 8,
+      "gas:candidate-vibid:2262000863801": 71,
+      "gas:candidate-vibid:2262000862853": 81,
+      "gas:candidate-vibid:2262000799646": 110,
+      "gas:candidate-vibid:2262000863723": 11,
+      "gas:candidate-vibid:2262000864845": 226,
+      "gas:candidate-vibid:2262000861937": 27,
+      "gas:candidate-vibid:2262000864604": 29,
+      "gas:candidate-vibid:2262000865423": 20,
+      "gas:candidate-vibid:2262000864353": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000082&tvd=2262000761464&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761464&type=464",
@@ -10183,16 +10183,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Большов Георгий Эрикович": 53,
-      "Гончаров Виктор Иванович": 124,
-      "Горло Сергей Алексеевич": 78,
-      "Дроздов Илья Юрьевич": 178,
-      "Ильинов Виктор Владимирович": 40,
-      "Ищенко Александр Николаевич": 302,
-      "Колесников Иван Александрович": 42,
-      "Ледовской Валерий Иванович": 24,
-      "Назаренко Владимир Александрович": 21,
-      "Смирнов Владимир Николаевич": 36
+      "gas:candidate-vibid:2262000864405": 53,
+      "gas:candidate-vibid:2262000863801": 124,
+      "gas:candidate-vibid:2262000862853": 78,
+      "gas:candidate-vibid:2262000799646": 178,
+      "gas:candidate-vibid:2262000863723": 40,
+      "gas:candidate-vibid:2262000864845": 302,
+      "gas:candidate-vibid:2262000861937": 42,
+      "gas:candidate-vibid:2262000864604": 24,
+      "gas:candidate-vibid:2262000865423": 21,
+      "gas:candidate-vibid:2262000864353": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000082&tvd=2262000761464&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761464&type=464",
@@ -10243,16 +10243,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Большов Георгий Эрикович": 9,
-      "Гончаров Виктор Иванович": 59,
-      "Горло Сергей Алексеевич": 42,
-      "Дроздов Илья Юрьевич": 69,
-      "Ильинов Виктор Владимирович": 1,
-      "Ищенко Александр Николаевич": 305,
-      "Колесников Иван Александрович": 6,
-      "Ледовской Валерий Иванович": 18,
-      "Назаренко Владимир Александрович": 11,
-      "Смирнов Владимир Николаевич": 14
+      "gas:candidate-vibid:2262000864405": 9,
+      "gas:candidate-vibid:2262000863801": 59,
+      "gas:candidate-vibid:2262000862853": 42,
+      "gas:candidate-vibid:2262000799646": 69,
+      "gas:candidate-vibid:2262000863723": 1,
+      "gas:candidate-vibid:2262000864845": 305,
+      "gas:candidate-vibid:2262000861937": 6,
+      "gas:candidate-vibid:2262000864604": 18,
+      "gas:candidate-vibid:2262000865423": 11,
+      "gas:candidate-vibid:2262000864353": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000082&tvd=2262000761464&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761464&type=464",
@@ -10303,16 +10303,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Большов Георгий Эрикович": 6,
-      "Гончаров Виктор Иванович": 68,
-      "Горло Сергей Алексеевич": 69,
-      "Дроздов Илья Юрьевич": 81,
-      "Ильинов Виктор Владимирович": 12,
-      "Ищенко Александр Николаевич": 176,
-      "Колесников Иван Александрович": 20,
-      "Ледовской Валерий Иванович": 15,
-      "Назаренко Владимир Александрович": 6,
-      "Смирнов Владимир Николаевич": 15
+      "gas:candidate-vibid:2262000864405": 6,
+      "gas:candidate-vibid:2262000863801": 68,
+      "gas:candidate-vibid:2262000862853": 69,
+      "gas:candidate-vibid:2262000799646": 81,
+      "gas:candidate-vibid:2262000863723": 12,
+      "gas:candidate-vibid:2262000864845": 176,
+      "gas:candidate-vibid:2262000861937": 20,
+      "gas:candidate-vibid:2262000864604": 15,
+      "gas:candidate-vibid:2262000865423": 6,
+      "gas:candidate-vibid:2262000864353": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000082&tvd=2262000761464&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761464&type=464",
@@ -10363,16 +10363,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Большов Георгий Эрикович": 11,
-      "Гончаров Виктор Иванович": 170,
-      "Горло Сергей Алексеевич": 95,
-      "Дроздов Илья Юрьевич": 165,
-      "Ильинов Виктор Владимирович": 24,
-      "Ищенко Александр Николаевич": 371,
-      "Колесников Иван Александрович": 43,
-      "Ледовской Валерий Иванович": 43,
-      "Назаренко Владимир Александрович": 14,
-      "Смирнов Владимир Николаевич": 22
+      "gas:candidate-vibid:2262000864405": 11,
+      "gas:candidate-vibid:2262000863801": 170,
+      "gas:candidate-vibid:2262000862853": 95,
+      "gas:candidate-vibid:2262000799646": 165,
+      "gas:candidate-vibid:2262000863723": 24,
+      "gas:candidate-vibid:2262000864845": 371,
+      "gas:candidate-vibid:2262000861937": 43,
+      "gas:candidate-vibid:2262000864604": 43,
+      "gas:candidate-vibid:2262000865423": 14,
+      "gas:candidate-vibid:2262000864353": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000082&tvd=2262000761464&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761464&type=464",
@@ -10423,16 +10423,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Большов Георгий Эрикович": 25,
-      "Гончаров Виктор Иванович": 130,
-      "Горло Сергей Алексеевич": 68,
-      "Дроздов Илья Юрьевич": 129,
-      "Ильинов Виктор Владимирович": 15,
-      "Ищенко Александр Николаевич": 497,
-      "Колесников Иван Александрович": 31,
-      "Ледовской Валерий Иванович": 21,
-      "Назаренко Владимир Александрович": 25,
-      "Смирнов Владимир Николаевич": 20
+      "gas:candidate-vibid:2262000864405": 25,
+      "gas:candidate-vibid:2262000863801": 130,
+      "gas:candidate-vibid:2262000862853": 68,
+      "gas:candidate-vibid:2262000799646": 129,
+      "gas:candidate-vibid:2262000863723": 15,
+      "gas:candidate-vibid:2262000864845": 497,
+      "gas:candidate-vibid:2262000861937": 31,
+      "gas:candidate-vibid:2262000864604": 21,
+      "gas:candidate-vibid:2262000865423": 25,
+      "gas:candidate-vibid:2262000864353": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000082&tvd=2262000761464&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761464&type=464",
@@ -10483,16 +10483,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Большов Георгий Эрикович": 9,
-      "Гончаров Виктор Иванович": 108,
-      "Горло Сергей Алексеевич": 64,
-      "Дроздов Илья Юрьевич": 118,
-      "Ильинов Виктор Владимирович": 26,
-      "Ищенко Александр Николаевич": 300,
-      "Колесников Иван Александрович": 28,
-      "Ледовской Валерий Иванович": 30,
-      "Назаренко Владимир Александрович": 22,
-      "Смирнов Владимир Николаевич": 20
+      "gas:candidate-vibid:2262000864405": 9,
+      "gas:candidate-vibid:2262000863801": 108,
+      "gas:candidate-vibid:2262000862853": 64,
+      "gas:candidate-vibid:2262000799646": 118,
+      "gas:candidate-vibid:2262000863723": 26,
+      "gas:candidate-vibid:2262000864845": 300,
+      "gas:candidate-vibid:2262000861937": 28,
+      "gas:candidate-vibid:2262000864604": 30,
+      "gas:candidate-vibid:2262000865423": 22,
+      "gas:candidate-vibid:2262000864353": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000082&tvd=2262000761464&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761464&type=464",
@@ -10543,16 +10543,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Большов Георгий Эрикович": 19,
-      "Гончаров Виктор Иванович": 110,
-      "Горло Сергей Алексеевич": 60,
-      "Дроздов Илья Юрьевич": 131,
-      "Ильинов Виктор Владимирович": 24,
-      "Ищенко Александр Николаевич": 309,
-      "Колесников Иван Александрович": 30,
-      "Ледовской Валерий Иванович": 34,
-      "Назаренко Владимир Александрович": 15,
-      "Смирнов Владимир Николаевич": 18
+      "gas:candidate-vibid:2262000864405": 19,
+      "gas:candidate-vibid:2262000863801": 110,
+      "gas:candidate-vibid:2262000862853": 60,
+      "gas:candidate-vibid:2262000799646": 131,
+      "gas:candidate-vibid:2262000863723": 24,
+      "gas:candidate-vibid:2262000864845": 309,
+      "gas:candidate-vibid:2262000861937": 30,
+      "gas:candidate-vibid:2262000864604": 34,
+      "gas:candidate-vibid:2262000865423": 15,
+      "gas:candidate-vibid:2262000864353": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000082&tvd=2262000761464&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761464&type=464",
@@ -10603,16 +10603,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Большов Георгий Эрикович": 8,
-      "Гончаров Виктор Иванович": 71,
-      "Горло Сергей Алексеевич": 42,
-      "Дроздов Илья Юрьевич": 85,
-      "Ильинов Виктор Владимирович": 6,
-      "Ищенко Александр Николаевич": 156,
-      "Колесников Иван Александрович": 18,
-      "Ледовской Валерий Иванович": 19,
-      "Назаренко Владимир Александрович": 13,
-      "Смирнов Владимир Николаевич": 16
+      "gas:candidate-vibid:2262000864405": 8,
+      "gas:candidate-vibid:2262000863801": 71,
+      "gas:candidate-vibid:2262000862853": 42,
+      "gas:candidate-vibid:2262000799646": 85,
+      "gas:candidate-vibid:2262000863723": 6,
+      "gas:candidate-vibid:2262000864845": 156,
+      "gas:candidate-vibid:2262000861937": 18,
+      "gas:candidate-vibid:2262000864604": 19,
+      "gas:candidate-vibid:2262000865423": 13,
+      "gas:candidate-vibid:2262000864353": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000082&tvd=2262000761464&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761464&type=464",
@@ -10663,16 +10663,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Большов Георгий Эрикович": 5,
-      "Гончаров Виктор Иванович": 91,
-      "Горло Сергей Алексеевич": 31,
-      "Дроздов Илья Юрьевич": 53,
-      "Ильинов Виктор Владимирович": 8,
-      "Ищенко Александр Николаевич": 180,
-      "Колесников Иван Александрович": 19,
-      "Ледовской Валерий Иванович": 18,
-      "Назаренко Владимир Александрович": 9,
-      "Смирнов Владимир Николаевич": 13
+      "gas:candidate-vibid:2262000864405": 5,
+      "gas:candidate-vibid:2262000863801": 91,
+      "gas:candidate-vibid:2262000862853": 31,
+      "gas:candidate-vibid:2262000799646": 53,
+      "gas:candidate-vibid:2262000863723": 8,
+      "gas:candidate-vibid:2262000864845": 180,
+      "gas:candidate-vibid:2262000861937": 19,
+      "gas:candidate-vibid:2262000864604": 18,
+      "gas:candidate-vibid:2262000865423": 9,
+      "gas:candidate-vibid:2262000864353": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000082&tvd=2262000761464&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761464&type=464",
@@ -10723,16 +10723,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Большов Георгий Эрикович": 8,
-      "Гончаров Виктор Иванович": 63,
-      "Горло Сергей Алексеевич": 35,
-      "Дроздов Илья Юрьевич": 66,
-      "Ильинов Виктор Владимирович": 15,
-      "Ищенко Александр Николаевич": 141,
-      "Колесников Иван Александрович": 14,
-      "Ледовской Валерий Иванович": 15,
-      "Назаренко Владимир Александрович": 8,
-      "Смирнов Владимир Николаевич": 9
+      "gas:candidate-vibid:2262000864405": 8,
+      "gas:candidate-vibid:2262000863801": 63,
+      "gas:candidate-vibid:2262000862853": 35,
+      "gas:candidate-vibid:2262000799646": 66,
+      "gas:candidate-vibid:2262000863723": 15,
+      "gas:candidate-vibid:2262000864845": 141,
+      "gas:candidate-vibid:2262000861937": 14,
+      "gas:candidate-vibid:2262000864604": 15,
+      "gas:candidate-vibid:2262000865423": 8,
+      "gas:candidate-vibid:2262000864353": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000082&tvd=2262000761464&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761464&type=464",
@@ -10783,16 +10783,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Большов Георгий Эрикович": 9,
-      "Гончаров Виктор Иванович": 175,
-      "Горло Сергей Алексеевич": 75,
-      "Дроздов Илья Юрьевич": 138,
-      "Ильинов Виктор Владимирович": 24,
-      "Ищенко Александр Николаевич": 314,
-      "Колесников Иван Александрович": 35,
-      "Ледовской Валерий Иванович": 16,
-      "Назаренко Владимир Александрович": 14,
-      "Смирнов Владимир Николаевич": 20
+      "gas:candidate-vibid:2262000864405": 9,
+      "gas:candidate-vibid:2262000863801": 175,
+      "gas:candidate-vibid:2262000862853": 75,
+      "gas:candidate-vibid:2262000799646": 138,
+      "gas:candidate-vibid:2262000863723": 24,
+      "gas:candidate-vibid:2262000864845": 314,
+      "gas:candidate-vibid:2262000861937": 35,
+      "gas:candidate-vibid:2262000864604": 16,
+      "gas:candidate-vibid:2262000865423": 14,
+      "gas:candidate-vibid:2262000864353": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000082&tvd=2262000761464&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761464&type=464",
@@ -10843,16 +10843,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Большов Георгий Эрикович": 12,
-      "Гончаров Виктор Иванович": 71,
-      "Горло Сергей Алексеевич": 38,
-      "Дроздов Илья Юрьевич": 112,
-      "Ильинов Виктор Владимирович": 18,
-      "Ищенко Александр Николаевич": 189,
-      "Колесников Иван Александрович": 16,
-      "Ледовской Валерий Иванович": 16,
-      "Назаренко Владимир Александрович": 5,
-      "Смирнов Владимир Николаевич": 13
+      "gas:candidate-vibid:2262000864405": 12,
+      "gas:candidate-vibid:2262000863801": 71,
+      "gas:candidate-vibid:2262000862853": 38,
+      "gas:candidate-vibid:2262000799646": 112,
+      "gas:candidate-vibid:2262000863723": 18,
+      "gas:candidate-vibid:2262000864845": 189,
+      "gas:candidate-vibid:2262000861937": 16,
+      "gas:candidate-vibid:2262000864604": 16,
+      "gas:candidate-vibid:2262000865423": 5,
+      "gas:candidate-vibid:2262000864353": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000082&tvd=2262000761464&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761464&type=464",
@@ -10903,16 +10903,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Большов Георгий Эрикович": 10,
-      "Гончаров Виктор Иванович": 46,
-      "Горло Сергей Алексеевич": 18,
-      "Дроздов Илья Юрьевич": 68,
-      "Ильинов Виктор Владимирович": 8,
-      "Ищенко Александр Николаевич": 146,
-      "Колесников Иван Александрович": 13,
-      "Ледовской Валерий Иванович": 18,
-      "Назаренко Владимир Александрович": 6,
-      "Смирнов Владимир Николаевич": 6
+      "gas:candidate-vibid:2262000864405": 10,
+      "gas:candidate-vibid:2262000863801": 46,
+      "gas:candidate-vibid:2262000862853": 18,
+      "gas:candidate-vibid:2262000799646": 68,
+      "gas:candidate-vibid:2262000863723": 8,
+      "gas:candidate-vibid:2262000864845": 146,
+      "gas:candidate-vibid:2262000861937": 13,
+      "gas:candidate-vibid:2262000864604": 18,
+      "gas:candidate-vibid:2262000865423": 6,
+      "gas:candidate-vibid:2262000864353": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000082&tvd=2262000761464&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761464&type=464",
@@ -10963,16 +10963,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Большов Георгий Эрикович": 15,
-      "Гончаров Виктор Иванович": 72,
-      "Горло Сергей Алексеевич": 52,
-      "Дроздов Илья Юрьевич": 80,
-      "Ильинов Виктор Владимирович": 10,
-      "Ищенко Александр Николаевич": 185,
-      "Колесников Иван Александрович": 11,
-      "Ледовской Валерий Иванович": 9,
-      "Назаренко Владимир Александрович": 6,
-      "Смирнов Владимир Николаевич": 4
+      "gas:candidate-vibid:2262000864405": 15,
+      "gas:candidate-vibid:2262000863801": 72,
+      "gas:candidate-vibid:2262000862853": 52,
+      "gas:candidate-vibid:2262000799646": 80,
+      "gas:candidate-vibid:2262000863723": 10,
+      "gas:candidate-vibid:2262000864845": 185,
+      "gas:candidate-vibid:2262000861937": 11,
+      "gas:candidate-vibid:2262000864604": 9,
+      "gas:candidate-vibid:2262000865423": 6,
+      "gas:candidate-vibid:2262000864353": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000082&tvd=2262000761464&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761464&type=464",
@@ -11023,16 +11023,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Большов Георгий Эрикович": 21,
-      "Гончаров Виктор Иванович": 119,
-      "Горло Сергей Алексеевич": 63,
-      "Дроздов Илья Юрьевич": 166,
-      "Ильинов Виктор Владимирович": 17,
-      "Ищенко Александр Николаевич": 325,
-      "Колесников Иван Александрович": 32,
-      "Ледовской Валерий Иванович": 17,
-      "Назаренко Владимир Александрович": 18,
-      "Смирнов Владимир Николаевич": 12
+      "gas:candidate-vibid:2262000864405": 21,
+      "gas:candidate-vibid:2262000863801": 119,
+      "gas:candidate-vibid:2262000862853": 63,
+      "gas:candidate-vibid:2262000799646": 166,
+      "gas:candidate-vibid:2262000863723": 17,
+      "gas:candidate-vibid:2262000864845": 325,
+      "gas:candidate-vibid:2262000861937": 32,
+      "gas:candidate-vibid:2262000864604": 17,
+      "gas:candidate-vibid:2262000865423": 18,
+      "gas:candidate-vibid:2262000864353": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000082&tvd=2262000761464&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761464&type=464",
@@ -11083,16 +11083,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Большов Георгий Эрикович": 12,
-      "Гончаров Виктор Иванович": 85,
-      "Горло Сергей Алексеевич": 39,
-      "Дроздов Илья Юрьевич": 88,
-      "Ильинов Виктор Владимирович": 18,
-      "Ищенко Александр Николаевич": 181,
-      "Колесников Иван Александрович": 18,
-      "Ледовской Валерий Иванович": 16,
-      "Назаренко Владимир Александрович": 13,
-      "Смирнов Владимир Николаевич": 10
+      "gas:candidate-vibid:2262000864405": 12,
+      "gas:candidate-vibid:2262000863801": 85,
+      "gas:candidate-vibid:2262000862853": 39,
+      "gas:candidate-vibid:2262000799646": 88,
+      "gas:candidate-vibid:2262000863723": 18,
+      "gas:candidate-vibid:2262000864845": 181,
+      "gas:candidate-vibid:2262000861937": 18,
+      "gas:candidate-vibid:2262000864604": 16,
+      "gas:candidate-vibid:2262000865423": 13,
+      "gas:candidate-vibid:2262000864353": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000082&tvd=2262000761464&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761464&type=464",
@@ -11143,16 +11143,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Большов Георгий Эрикович": 20,
-      "Гончаров Виктор Иванович": 140,
-      "Горло Сергей Алексеевич": 76,
-      "Дроздов Илья Юрьевич": 196,
-      "Ильинов Виктор Владимирович": 23,
-      "Ищенко Александр Николаевич": 342,
-      "Колесников Иван Александрович": 39,
-      "Ледовской Валерий Иванович": 34,
-      "Назаренко Владимир Александрович": 23,
-      "Смирнов Владимир Николаевич": 19
+      "gas:candidate-vibid:2262000864405": 20,
+      "gas:candidate-vibid:2262000863801": 140,
+      "gas:candidate-vibid:2262000862853": 76,
+      "gas:candidate-vibid:2262000799646": 196,
+      "gas:candidate-vibid:2262000863723": 23,
+      "gas:candidate-vibid:2262000864845": 342,
+      "gas:candidate-vibid:2262000861937": 39,
+      "gas:candidate-vibid:2262000864604": 34,
+      "gas:candidate-vibid:2262000865423": 23,
+      "gas:candidate-vibid:2262000864353": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000082&tvd=2262000761464&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761464&type=464",
@@ -11203,16 +11203,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Большов Георгий Эрикович": 14,
-      "Гончаров Виктор Иванович": 90,
-      "Горло Сергей Алексеевич": 66,
-      "Дроздов Илья Юрьевич": 130,
-      "Ильинов Виктор Владимирович": 18,
-      "Ищенко Александр Николаевич": 220,
-      "Колесников Иван Александрович": 20,
-      "Ледовской Валерий Иванович": 28,
-      "Назаренко Владимир Александрович": 12,
-      "Смирнов Владимир Николаевич": 9
+      "gas:candidate-vibid:2262000864405": 14,
+      "gas:candidate-vibid:2262000863801": 90,
+      "gas:candidate-vibid:2262000862853": 66,
+      "gas:candidate-vibid:2262000799646": 130,
+      "gas:candidate-vibid:2262000863723": 18,
+      "gas:candidate-vibid:2262000864845": 220,
+      "gas:candidate-vibid:2262000861937": 20,
+      "gas:candidate-vibid:2262000864604": 28,
+      "gas:candidate-vibid:2262000865423": 12,
+      "gas:candidate-vibid:2262000864353": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000082&tvd=2262000761464&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761464&type=464",
@@ -11263,16 +11263,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Большов Георгий Эрикович": 4,
-      "Гончаров Виктор Иванович": 56,
-      "Горло Сергей Алексеевич": 34,
-      "Дроздов Илья Юрьевич": 99,
-      "Ильинов Виктор Владимирович": 16,
-      "Ищенко Александр Николаевич": 142,
-      "Колесников Иван Александрович": 25,
-      "Ледовской Валерий Иванович": 24,
-      "Назаренко Владимир Александрович": 18,
-      "Смирнов Владимир Николаевич": 10
+      "gas:candidate-vibid:2262000864405": 4,
+      "gas:candidate-vibid:2262000863801": 56,
+      "gas:candidate-vibid:2262000862853": 34,
+      "gas:candidate-vibid:2262000799646": 99,
+      "gas:candidate-vibid:2262000863723": 16,
+      "gas:candidate-vibid:2262000864845": 142,
+      "gas:candidate-vibid:2262000861937": 25,
+      "gas:candidate-vibid:2262000864604": 24,
+      "gas:candidate-vibid:2262000865423": 18,
+      "gas:candidate-vibid:2262000864353": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000082&tvd=2262000761464&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761464&type=464",
@@ -11323,16 +11323,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Большов Георгий Эрикович": 7,
-      "Гончаров Виктор Иванович": 70,
-      "Горло Сергей Алексеевич": 38,
-      "Дроздов Илья Юрьевич": 93,
-      "Ильинов Виктор Владимирович": 13,
-      "Ищенко Александр Николаевич": 146,
-      "Колесников Иван Александрович": 21,
-      "Ледовской Валерий Иванович": 18,
-      "Назаренко Владимир Александрович": 6,
-      "Смирнов Владимир Николаевич": 10
+      "gas:candidate-vibid:2262000864405": 7,
+      "gas:candidate-vibid:2262000863801": 70,
+      "gas:candidate-vibid:2262000862853": 38,
+      "gas:candidate-vibid:2262000799646": 93,
+      "gas:candidate-vibid:2262000863723": 13,
+      "gas:candidate-vibid:2262000864845": 146,
+      "gas:candidate-vibid:2262000861937": 21,
+      "gas:candidate-vibid:2262000864604": 18,
+      "gas:candidate-vibid:2262000865423": 6,
+      "gas:candidate-vibid:2262000864353": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000082&tvd=2262000761464&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761464&type=464",
@@ -11383,16 +11383,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Большов Георгий Эрикович": 10,
-      "Гончаров Виктор Иванович": 100,
-      "Горло Сергей Алексеевич": 58,
-      "Дроздов Илья Юрьевич": 158,
-      "Ильинов Виктор Владимирович": 12,
-      "Ищенко Александр Николаевич": 174,
-      "Колесников Иван Александрович": 27,
-      "Ледовской Валерий Иванович": 32,
-      "Назаренко Владимир Александрович": 5,
-      "Смирнов Владимир Николаевич": 25
+      "gas:candidate-vibid:2262000864405": 10,
+      "gas:candidate-vibid:2262000863801": 100,
+      "gas:candidate-vibid:2262000862853": 58,
+      "gas:candidate-vibid:2262000799646": 158,
+      "gas:candidate-vibid:2262000863723": 12,
+      "gas:candidate-vibid:2262000864845": 174,
+      "gas:candidate-vibid:2262000861937": 27,
+      "gas:candidate-vibid:2262000864604": 32,
+      "gas:candidate-vibid:2262000865423": 5,
+      "gas:candidate-vibid:2262000864353": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000082&tvd=2262000761464&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761464&type=464",
@@ -11443,16 +11443,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Большов Георгий Эрикович": 6,
-      "Гончаров Виктор Иванович": 55,
-      "Горло Сергей Алексеевич": 28,
-      "Дроздов Илья Юрьевич": 87,
-      "Ильинов Виктор Владимирович": 11,
-      "Ищенко Александр Николаевич": 179,
-      "Колесников Иван Александрович": 21,
-      "Ледовской Валерий Иванович": 12,
-      "Назаренко Владимир Александрович": 6,
-      "Смирнов Владимир Николаевич": 11
+      "gas:candidate-vibid:2262000864405": 6,
+      "gas:candidate-vibid:2262000863801": 55,
+      "gas:candidate-vibid:2262000862853": 28,
+      "gas:candidate-vibid:2262000799646": 87,
+      "gas:candidate-vibid:2262000863723": 11,
+      "gas:candidate-vibid:2262000864845": 179,
+      "gas:candidate-vibid:2262000861937": 21,
+      "gas:candidate-vibid:2262000864604": 12,
+      "gas:candidate-vibid:2262000865423": 6,
+      "gas:candidate-vibid:2262000864353": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000082&tvd=2262000761464&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761464&type=464",
@@ -11503,16 +11503,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Большов Георгий Эрикович": 6,
-      "Гончаров Виктор Иванович": 56,
-      "Горло Сергей Алексеевич": 55,
-      "Дроздов Илья Юрьевич": 73,
-      "Ильинов Виктор Владимирович": 13,
-      "Ищенко Александр Николаевич": 144,
-      "Колесников Иван Александрович": 20,
-      "Ледовской Валерий Иванович": 22,
-      "Назаренко Владимир Александрович": 20,
-      "Смирнов Владимир Николаевич": 16
+      "gas:candidate-vibid:2262000864405": 6,
+      "gas:candidate-vibid:2262000863801": 56,
+      "gas:candidate-vibid:2262000862853": 55,
+      "gas:candidate-vibid:2262000799646": 73,
+      "gas:candidate-vibid:2262000863723": 13,
+      "gas:candidate-vibid:2262000864845": 144,
+      "gas:candidate-vibid:2262000861937": 20,
+      "gas:candidate-vibid:2262000864604": 22,
+      "gas:candidate-vibid:2262000865423": 20,
+      "gas:candidate-vibid:2262000864353": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000082&tvd=2262000761464&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761464&type=464",
@@ -11563,16 +11563,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Большов Георгий Эрикович": 10,
-      "Гончаров Виктор Иванович": 146,
-      "Горло Сергей Алексеевич": 64,
-      "Дроздов Илья Юрьевич": 140,
-      "Ильинов Виктор Владимирович": 19,
-      "Ищенко Александр Николаевич": 288,
-      "Колесников Иван Александрович": 17,
-      "Ледовской Валерий Иванович": 36,
-      "Назаренко Владимир Александрович": 14,
-      "Смирнов Владимир Николаевич": 12
+      "gas:candidate-vibid:2262000864405": 10,
+      "gas:candidate-vibid:2262000863801": 146,
+      "gas:candidate-vibid:2262000862853": 64,
+      "gas:candidate-vibid:2262000799646": 140,
+      "gas:candidate-vibid:2262000863723": 19,
+      "gas:candidate-vibid:2262000864845": 288,
+      "gas:candidate-vibid:2262000861937": 17,
+      "gas:candidate-vibid:2262000864604": 36,
+      "gas:candidate-vibid:2262000865423": 14,
+      "gas:candidate-vibid:2262000864353": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000082&tvd=2262000761464&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761464&type=464",
@@ -11623,16 +11623,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Большов Георгий Эрикович": 13,
-      "Гончаров Виктор Иванович": 111,
-      "Горло Сергей Алексеевич": 51,
-      "Дроздов Илья Юрьевич": 100,
-      "Ильинов Виктор Владимирович": 11,
-      "Ищенко Александр Николаевич": 245,
-      "Колесников Иван Александрович": 18,
-      "Ледовской Валерий Иванович": 14,
-      "Назаренко Владимир Александрович": 15,
-      "Смирнов Владимир Николаевич": 14
+      "gas:candidate-vibid:2262000864405": 13,
+      "gas:candidate-vibid:2262000863801": 111,
+      "gas:candidate-vibid:2262000862853": 51,
+      "gas:candidate-vibid:2262000799646": 100,
+      "gas:candidate-vibid:2262000863723": 11,
+      "gas:candidate-vibid:2262000864845": 245,
+      "gas:candidate-vibid:2262000861937": 18,
+      "gas:candidate-vibid:2262000864604": 14,
+      "gas:candidate-vibid:2262000865423": 15,
+      "gas:candidate-vibid:2262000864353": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000082&tvd=2262000761464&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761464&type=464",
@@ -11683,16 +11683,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Большов Георгий Эрикович": 13,
-      "Гончаров Виктор Иванович": 118,
-      "Горло Сергей Алексеевич": 66,
-      "Дроздов Илья Юрьевич": 165,
-      "Ильинов Виктор Владимирович": 0,
-      "Ищенко Александр Николаевич": 365,
-      "Колесников Иван Александрович": 6,
-      "Ледовской Валерий Иванович": 29,
-      "Назаренко Владимир Александрович": 14,
-      "Смирнов Владимир Николаевич": 11
+      "gas:candidate-vibid:2262000864405": 13,
+      "gas:candidate-vibid:2262000863801": 118,
+      "gas:candidate-vibid:2262000862853": 66,
+      "gas:candidate-vibid:2262000799646": 165,
+      "gas:candidate-vibid:2262000863723": 0,
+      "gas:candidate-vibid:2262000864845": 365,
+      "gas:candidate-vibid:2262000861937": 6,
+      "gas:candidate-vibid:2262000864604": 29,
+      "gas:candidate-vibid:2262000865423": 14,
+      "gas:candidate-vibid:2262000864353": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000082&tvd=2262000761464&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761464&type=464",
@@ -11743,16 +11743,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Большов Георгий Эрикович": 7,
-      "Гончаров Виктор Иванович": 53,
-      "Горло Сергей Алексеевич": 32,
-      "Дроздов Илья Юрьевич": 62,
-      "Ильинов Виктор Владимирович": 12,
-      "Ищенко Александр Николаевич": 210,
-      "Колесников Иван Александрович": 17,
-      "Ледовской Валерий Иванович": 17,
-      "Назаренко Владимир Александрович": 10,
-      "Смирнов Владимир Николаевич": 9
+      "gas:candidate-vibid:2262000864405": 7,
+      "gas:candidate-vibid:2262000863801": 53,
+      "gas:candidate-vibid:2262000862853": 32,
+      "gas:candidate-vibid:2262000799646": 62,
+      "gas:candidate-vibid:2262000863723": 12,
+      "gas:candidate-vibid:2262000864845": 210,
+      "gas:candidate-vibid:2262000861937": 17,
+      "gas:candidate-vibid:2262000864604": 17,
+      "gas:candidate-vibid:2262000865423": 10,
+      "gas:candidate-vibid:2262000864353": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000082&tvd=2262000761464&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761464&type=464",
@@ -11803,16 +11803,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Большов Георгий Эрикович": 21,
-      "Гончаров Виктор Иванович": 101,
-      "Горло Сергей Алексеевич": 54,
-      "Дроздов Илья Юрьевич": 93,
-      "Ильинов Виктор Владимирович": 10,
-      "Ищенко Александр Николаевич": 244,
-      "Колесников Иван Александрович": 29,
-      "Ледовской Валерий Иванович": 23,
-      "Назаренко Владимир Александрович": 14,
-      "Смирнов Владимир Николаевич": 17
+      "gas:candidate-vibid:2262000864405": 21,
+      "gas:candidate-vibid:2262000863801": 101,
+      "gas:candidate-vibid:2262000862853": 54,
+      "gas:candidate-vibid:2262000799646": 93,
+      "gas:candidate-vibid:2262000863723": 10,
+      "gas:candidate-vibid:2262000864845": 244,
+      "gas:candidate-vibid:2262000861937": 29,
+      "gas:candidate-vibid:2262000864604": 23,
+      "gas:candidate-vibid:2262000865423": 14,
+      "gas:candidate-vibid:2262000864353": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000082&tvd=2262000761464&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761464&type=464",
@@ -11863,16 +11863,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Большов Георгий Эрикович": 15,
-      "Гончаров Виктор Иванович": 86,
-      "Горло Сергей Алексеевич": 61,
-      "Дроздов Илья Юрьевич": 87,
-      "Ильинов Виктор Владимирович": 7,
-      "Ищенко Александр Николаевич": 256,
-      "Колесников Иван Александрович": 30,
-      "Ледовской Валерий Иванович": 19,
-      "Назаренко Владимир Александрович": 8,
-      "Смирнов Владимир Николаевич": 17
+      "gas:candidate-vibid:2262000864405": 15,
+      "gas:candidate-vibid:2262000863801": 86,
+      "gas:candidate-vibid:2262000862853": 61,
+      "gas:candidate-vibid:2262000799646": 87,
+      "gas:candidate-vibid:2262000863723": 7,
+      "gas:candidate-vibid:2262000864845": 256,
+      "gas:candidate-vibid:2262000861937": 30,
+      "gas:candidate-vibid:2262000864604": 19,
+      "gas:candidate-vibid:2262000865423": 8,
+      "gas:candidate-vibid:2262000864353": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000082&tvd=2262000761464&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761464&type=464",
@@ -11923,16 +11923,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Большов Георгий Эрикович": 18,
-      "Гончаров Виктор Иванович": 113,
-      "Горло Сергей Алексеевич": 107,
-      "Дроздов Илья Юрьевич": 121,
-      "Ильинов Виктор Владимирович": 22,
-      "Ищенко Александр Николаевич": 216,
-      "Колесников Иван Александрович": 30,
-      "Ледовской Валерий Иванович": 27,
-      "Назаренко Владимир Александрович": 18,
-      "Смирнов Владимир Николаевич": 16
+      "gas:candidate-vibid:2262000864405": 18,
+      "gas:candidate-vibid:2262000863801": 113,
+      "gas:candidate-vibid:2262000862853": 107,
+      "gas:candidate-vibid:2262000799646": 121,
+      "gas:candidate-vibid:2262000863723": 22,
+      "gas:candidate-vibid:2262000864845": 216,
+      "gas:candidate-vibid:2262000861937": 30,
+      "gas:candidate-vibid:2262000864604": 27,
+      "gas:candidate-vibid:2262000865423": 18,
+      "gas:candidate-vibid:2262000864353": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000082&tvd=2262000761464&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761464&type=464",
@@ -11983,16 +11983,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Большов Георгий Эрикович": 9,
-      "Гончаров Виктор Иванович": 47,
-      "Горло Сергей Алексеевич": 53,
-      "Дроздов Илья Юрьевич": 50,
-      "Ильинов Виктор Владимирович": 16,
-      "Ищенко Александр Николаевич": 162,
-      "Колесников Иван Александрович": 21,
-      "Ледовской Валерий Иванович": 12,
-      "Назаренко Владимир Александрович": 8,
-      "Смирнов Владимир Николаевич": 11
+      "gas:candidate-vibid:2262000864405": 9,
+      "gas:candidate-vibid:2262000863801": 47,
+      "gas:candidate-vibid:2262000862853": 53,
+      "gas:candidate-vibid:2262000799646": 50,
+      "gas:candidate-vibid:2262000863723": 16,
+      "gas:candidate-vibid:2262000864845": 162,
+      "gas:candidate-vibid:2262000861937": 21,
+      "gas:candidate-vibid:2262000864604": 12,
+      "gas:candidate-vibid:2262000865423": 8,
+      "gas:candidate-vibid:2262000864353": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000082&tvd=2262000761464&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761464&type=464",
@@ -12043,16 +12043,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Большов Георгий Эрикович": 10,
-      "Гончаров Виктор Иванович": 72,
-      "Горло Сергей Алексеевич": 60,
-      "Дроздов Илья Юрьевич": 99,
-      "Ильинов Виктор Владимирович": 14,
-      "Ищенко Александр Николаевич": 239,
-      "Колесников Иван Александрович": 36,
-      "Ледовской Валерий Иванович": 18,
-      "Назаренко Владимир Александрович": 8,
-      "Смирнов Владимир Николаевич": 9
+      "gas:candidate-vibid:2262000864405": 10,
+      "gas:candidate-vibid:2262000863801": 72,
+      "gas:candidate-vibid:2262000862853": 60,
+      "gas:candidate-vibid:2262000799646": 99,
+      "gas:candidate-vibid:2262000863723": 14,
+      "gas:candidate-vibid:2262000864845": 239,
+      "gas:candidate-vibid:2262000861937": 36,
+      "gas:candidate-vibid:2262000864604": 18,
+      "gas:candidate-vibid:2262000865423": 8,
+      "gas:candidate-vibid:2262000864353": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000082&tvd=2262000761464&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761464&type=464",
@@ -12103,16 +12103,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Большов Георгий Эрикович": 14,
-      "Гончаров Виктор Иванович": 66,
-      "Горло Сергей Алексеевич": 42,
-      "Дроздов Илья Юрьевич": 94,
-      "Ильинов Виктор Владимирович": 10,
-      "Ищенко Александр Николаевич": 184,
-      "Колесников Иван Александрович": 29,
-      "Ледовской Валерий Иванович": 19,
-      "Назаренко Владимир Александрович": 18,
-      "Смирнов Владимир Николаевич": 13
+      "gas:candidate-vibid:2262000864405": 14,
+      "gas:candidate-vibid:2262000863801": 66,
+      "gas:candidate-vibid:2262000862853": 42,
+      "gas:candidate-vibid:2262000799646": 94,
+      "gas:candidate-vibid:2262000863723": 10,
+      "gas:candidate-vibid:2262000864845": 184,
+      "gas:candidate-vibid:2262000861937": 29,
+      "gas:candidate-vibid:2262000864604": 19,
+      "gas:candidate-vibid:2262000865423": 18,
+      "gas:candidate-vibid:2262000864353": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000082&tvd=2262000761464&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761464&type=464",
@@ -12163,16 +12163,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Большов Георгий Эрикович": 5,
-      "Гончаров Виктор Иванович": 85,
-      "Горло Сергей Алексеевич": 12,
-      "Дроздов Илья Юрьевич": 51,
-      "Ильинов Виктор Владимирович": 6,
-      "Ищенко Александр Николаевич": 190,
-      "Колесников Иван Александрович": 37,
-      "Ледовской Валерий Иванович": 6,
-      "Назаренко Владимир Александрович": 5,
-      "Смирнов Владимир Николаевич": 9
+      "gas:candidate-vibid:2262000864405": 5,
+      "gas:candidate-vibid:2262000863801": 85,
+      "gas:candidate-vibid:2262000862853": 12,
+      "gas:candidate-vibid:2262000799646": 51,
+      "gas:candidate-vibid:2262000863723": 6,
+      "gas:candidate-vibid:2262000864845": 190,
+      "gas:candidate-vibid:2262000861937": 37,
+      "gas:candidate-vibid:2262000864604": 6,
+      "gas:candidate-vibid:2262000865423": 5,
+      "gas:candidate-vibid:2262000864353": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000082&tvd=2262000761465&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761465&type=464",
@@ -12223,16 +12223,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Большов Георгий Эрикович": 10,
-      "Гончаров Виктор Иванович": 141,
-      "Горло Сергей Алексеевич": 18,
-      "Дроздов Илья Юрьевич": 89,
-      "Ильинов Виктор Владимирович": 14,
-      "Ищенко Александр Николаевич": 356,
-      "Колесников Иван Александрович": 30,
-      "Ледовской Валерий Иванович": 12,
-      "Назаренко Владимир Александрович": 15,
-      "Смирнов Владимир Николаевич": 10
+      "gas:candidate-vibid:2262000864405": 10,
+      "gas:candidate-vibid:2262000863801": 141,
+      "gas:candidate-vibid:2262000862853": 18,
+      "gas:candidate-vibid:2262000799646": 89,
+      "gas:candidate-vibid:2262000863723": 14,
+      "gas:candidate-vibid:2262000864845": 356,
+      "gas:candidate-vibid:2262000861937": 30,
+      "gas:candidate-vibid:2262000864604": 12,
+      "gas:candidate-vibid:2262000865423": 15,
+      "gas:candidate-vibid:2262000864353": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000082&tvd=2262000761465&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761465&type=464",
@@ -12283,16 +12283,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Большов Георгий Эрикович": 1,
-      "Гончаров Виктор Иванович": 47,
-      "Горло Сергей Алексеевич": 7,
-      "Дроздов Илья Юрьевич": 51,
-      "Ильинов Виктор Владимирович": 5,
-      "Ищенко Александр Николаевич": 118,
-      "Колесников Иван Александрович": 14,
-      "Ледовской Валерий Иванович": 2,
-      "Назаренко Владимир Александрович": 3,
-      "Смирнов Владимир Николаевич": 4
+      "gas:candidate-vibid:2262000864405": 1,
+      "gas:candidate-vibid:2262000863801": 47,
+      "gas:candidate-vibid:2262000862853": 7,
+      "gas:candidate-vibid:2262000799646": 51,
+      "gas:candidate-vibid:2262000863723": 5,
+      "gas:candidate-vibid:2262000864845": 118,
+      "gas:candidate-vibid:2262000861937": 14,
+      "gas:candidate-vibid:2262000864604": 2,
+      "gas:candidate-vibid:2262000865423": 3,
+      "gas:candidate-vibid:2262000864353": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000082&tvd=2262000761465&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761465&type=464",
@@ -12343,16 +12343,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Большов Георгий Эрикович": 11,
-      "Гончаров Виктор Иванович": 173,
-      "Горло Сергей Алексеевич": 36,
-      "Дроздов Илья Юрьевич": 126,
-      "Ильинов Виктор Владимирович": 22,
-      "Ищенко Александр Николаевич": 417,
-      "Колесников Иван Александрович": 52,
-      "Ледовской Валерий Иванович": 13,
-      "Назаренко Владимир Александрович": 22,
-      "Смирнов Владимир Николаевич": 16
+      "gas:candidate-vibid:2262000864405": 11,
+      "gas:candidate-vibid:2262000863801": 173,
+      "gas:candidate-vibid:2262000862853": 36,
+      "gas:candidate-vibid:2262000799646": 126,
+      "gas:candidate-vibid:2262000863723": 22,
+      "gas:candidate-vibid:2262000864845": 417,
+      "gas:candidate-vibid:2262000861937": 52,
+      "gas:candidate-vibid:2262000864604": 13,
+      "gas:candidate-vibid:2262000865423": 22,
+      "gas:candidate-vibid:2262000864353": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000082&tvd=2262000761465&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761465&type=464",
@@ -12403,16 +12403,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Большов Георгий Эрикович": 13,
-      "Гончаров Виктор Иванович": 153,
-      "Горло Сергей Алексеевич": 45,
-      "Дроздов Илья Юрьевич": 128,
-      "Ильинов Виктор Владимирович": 17,
-      "Ищенко Александр Николаевич": 351,
-      "Колесников Иван Александрович": 43,
-      "Ледовской Валерий Иванович": 11,
-      "Назаренко Владимир Александрович": 14,
-      "Смирнов Владимир Николаевич": 8
+      "gas:candidate-vibid:2262000864405": 13,
+      "gas:candidate-vibid:2262000863801": 153,
+      "gas:candidate-vibid:2262000862853": 45,
+      "gas:candidate-vibid:2262000799646": 128,
+      "gas:candidate-vibid:2262000863723": 17,
+      "gas:candidate-vibid:2262000864845": 351,
+      "gas:candidate-vibid:2262000861937": 43,
+      "gas:candidate-vibid:2262000864604": 11,
+      "gas:candidate-vibid:2262000865423": 14,
+      "gas:candidate-vibid:2262000864353": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000082&tvd=2262000761465&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761465&type=464",
@@ -12463,16 +12463,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Большов Георгий Эрикович": 6,
-      "Гончаров Виктор Иванович": 47,
-      "Горло Сергей Алексеевич": 11,
-      "Дроздов Илья Юрьевич": 39,
-      "Ильинов Виктор Владимирович": 1,
-      "Ищенко Александр Николаевич": 95,
-      "Колесников Иван Александрович": 16,
-      "Ледовской Валерий Иванович": 2,
-      "Назаренко Владимир Александрович": 6,
-      "Смирнов Владимир Николаевич": 3
+      "gas:candidate-vibid:2262000864405": 6,
+      "gas:candidate-vibid:2262000863801": 47,
+      "gas:candidate-vibid:2262000862853": 11,
+      "gas:candidate-vibid:2262000799646": 39,
+      "gas:candidate-vibid:2262000863723": 1,
+      "gas:candidate-vibid:2262000864845": 95,
+      "gas:candidate-vibid:2262000861937": 16,
+      "gas:candidate-vibid:2262000864604": 2,
+      "gas:candidate-vibid:2262000865423": 6,
+      "gas:candidate-vibid:2262000864353": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000082&tvd=2262000761465&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761465&type=464",
@@ -12523,16 +12523,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Большов Георгий Эрикович": 8,
-      "Гончаров Виктор Иванович": 100,
-      "Горло Сергей Алексеевич": 22,
-      "Дроздов Илья Юрьевич": 67,
-      "Ильинов Виктор Владимирович": 5,
-      "Ищенко Александр Николаевич": 264,
-      "Колесников Иван Александрович": 40,
-      "Ледовской Валерий Иванович": 6,
-      "Назаренко Владимир Александрович": 8,
-      "Смирнов Владимир Николаевич": 5
+      "gas:candidate-vibid:2262000864405": 8,
+      "gas:candidate-vibid:2262000863801": 100,
+      "gas:candidate-vibid:2262000862853": 22,
+      "gas:candidate-vibid:2262000799646": 67,
+      "gas:candidate-vibid:2262000863723": 5,
+      "gas:candidate-vibid:2262000864845": 264,
+      "gas:candidate-vibid:2262000861937": 40,
+      "gas:candidate-vibid:2262000864604": 6,
+      "gas:candidate-vibid:2262000865423": 8,
+      "gas:candidate-vibid:2262000864353": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000082&tvd=2262000761465&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761465&type=464",
@@ -12583,16 +12583,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Большов Георгий Эрикович": 3,
-      "Гончаров Виктор Иванович": 27,
-      "Горло Сергей Алексеевич": 1,
-      "Дроздов Илья Юрьевич": 17,
-      "Ильинов Виктор Владимирович": 1,
-      "Ищенко Александр Николаевич": 50,
-      "Колесников Иван Александрович": 7,
-      "Ледовской Валерий Иванович": 2,
-      "Назаренко Владимир Александрович": 0,
-      "Смирнов Владимир Николаевич": 3
+      "gas:candidate-vibid:2262000864405": 3,
+      "gas:candidate-vibid:2262000863801": 27,
+      "gas:candidate-vibid:2262000862853": 1,
+      "gas:candidate-vibid:2262000799646": 17,
+      "gas:candidate-vibid:2262000863723": 1,
+      "gas:candidate-vibid:2262000864845": 50,
+      "gas:candidate-vibid:2262000861937": 7,
+      "gas:candidate-vibid:2262000864604": 2,
+      "gas:candidate-vibid:2262000865423": 0,
+      "gas:candidate-vibid:2262000864353": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000082&tvd=2262000761465&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761465&type=464",
@@ -12643,16 +12643,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Большов Георгий Эрикович": 5,
-      "Гончаров Виктор Иванович": 29,
-      "Горло Сергей Алексеевич": 6,
-      "Дроздов Илья Юрьевич": 17,
-      "Ильинов Виктор Владимирович": 2,
-      "Ищенко Александр Николаевич": 93,
-      "Колесников Иван Александрович": 17,
-      "Ледовской Валерий Иванович": 1,
-      "Назаренко Владимир Александрович": 2,
-      "Смирнов Владимир Николаевич": 4
+      "gas:candidate-vibid:2262000864405": 5,
+      "gas:candidate-vibid:2262000863801": 29,
+      "gas:candidate-vibid:2262000862853": 6,
+      "gas:candidate-vibid:2262000799646": 17,
+      "gas:candidate-vibid:2262000863723": 2,
+      "gas:candidate-vibid:2262000864845": 93,
+      "gas:candidate-vibid:2262000861937": 17,
+      "gas:candidate-vibid:2262000864604": 1,
+      "gas:candidate-vibid:2262000865423": 2,
+      "gas:candidate-vibid:2262000864353": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000082&tvd=2262000761465&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761465&type=464",
@@ -12703,16 +12703,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Большов Георгий Эрикович": 11,
-      "Гончаров Виктор Иванович": 56,
-      "Горло Сергей Алексеевич": 17,
-      "Дроздов Илья Юрьевич": 33,
-      "Ильинов Виктор Владимирович": 12,
-      "Ищенко Александр Николаевич": 159,
-      "Колесников Иван Александрович": 24,
-      "Ледовской Валерий Иванович": 3,
-      "Назаренко Владимир Александрович": 5,
-      "Смирнов Владимир Николаевич": 5
+      "gas:candidate-vibid:2262000864405": 11,
+      "gas:candidate-vibid:2262000863801": 56,
+      "gas:candidate-vibid:2262000862853": 17,
+      "gas:candidate-vibid:2262000799646": 33,
+      "gas:candidate-vibid:2262000863723": 12,
+      "gas:candidate-vibid:2262000864845": 159,
+      "gas:candidate-vibid:2262000861937": 24,
+      "gas:candidate-vibid:2262000864604": 3,
+      "gas:candidate-vibid:2262000865423": 5,
+      "gas:candidate-vibid:2262000864353": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000082&tvd=2262000761465&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761465&type=464",
@@ -12763,16 +12763,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Большов Георгий Эрикович": 1,
-      "Гончаров Виктор Иванович": 43,
-      "Горло Сергей Алексеевич": 7,
-      "Дроздов Илья Юрьевич": 26,
-      "Ильинов Виктор Владимирович": 9,
-      "Ищенко Александр Николаевич": 269,
-      "Колесников Иван Александрович": 14,
-      "Ледовской Валерий Иванович": 2,
-      "Назаренко Владимир Александрович": 4,
-      "Смирнов Владимир Николаевич": 4
+      "gas:candidate-vibid:2262000864405": 1,
+      "gas:candidate-vibid:2262000863801": 43,
+      "gas:candidate-vibid:2262000862853": 7,
+      "gas:candidate-vibid:2262000799646": 26,
+      "gas:candidate-vibid:2262000863723": 9,
+      "gas:candidate-vibid:2262000864845": 269,
+      "gas:candidate-vibid:2262000861937": 14,
+      "gas:candidate-vibid:2262000864604": 2,
+      "gas:candidate-vibid:2262000865423": 4,
+      "gas:candidate-vibid:2262000864353": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000082&tvd=2262000761465&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761465&type=464",
@@ -12823,16 +12823,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Большов Георгий Эрикович": 3,
-      "Гончаров Виктор Иванович": 13,
-      "Горло Сергей Алексеевич": 2,
-      "Дроздов Илья Юрьевич": 10,
-      "Ильинов Виктор Владимирович": 3,
-      "Ищенко Александр Николаевич": 44,
-      "Колесников Иван Александрович": 6,
-      "Ледовской Валерий Иванович": 4,
-      "Назаренко Владимир Александрович": 1,
-      "Смирнов Владимир Николаевич": 1
+      "gas:candidate-vibid:2262000864405": 3,
+      "gas:candidate-vibid:2262000863801": 13,
+      "gas:candidate-vibid:2262000862853": 2,
+      "gas:candidate-vibid:2262000799646": 10,
+      "gas:candidate-vibid:2262000863723": 3,
+      "gas:candidate-vibid:2262000864845": 44,
+      "gas:candidate-vibid:2262000861937": 6,
+      "gas:candidate-vibid:2262000864604": 4,
+      "gas:candidate-vibid:2262000865423": 1,
+      "gas:candidate-vibid:2262000864353": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000082&tvd=2262000761465&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761465&type=464",
@@ -12883,16 +12883,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Большов Георгий Эрикович": 1,
-      "Гончаров Виктор Иванович": 44,
-      "Горло Сергей Алексеевич": 11,
-      "Дроздов Илья Юрьевич": 21,
-      "Ильинов Виктор Владимирович": 0,
-      "Ищенко Александр Николаевич": 407,
-      "Колесников Иван Александрович": 7,
-      "Ледовской Валерий Иванович": 1,
-      "Назаренко Владимир Александрович": 3,
-      "Смирнов Владимир Николаевич": 2
+      "gas:candidate-vibid:2262000864405": 1,
+      "gas:candidate-vibid:2262000863801": 44,
+      "gas:candidate-vibid:2262000862853": 11,
+      "gas:candidate-vibid:2262000799646": 21,
+      "gas:candidate-vibid:2262000863723": 0,
+      "gas:candidate-vibid:2262000864845": 407,
+      "gas:candidate-vibid:2262000861937": 7,
+      "gas:candidate-vibid:2262000864604": 1,
+      "gas:candidate-vibid:2262000865423": 3,
+      "gas:candidate-vibid:2262000864353": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000082&tvd=2262000761465&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761465&type=464",
@@ -12943,16 +12943,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Большов Георгий Эрикович": 1,
-      "Гончаров Виктор Иванович": 15,
-      "Горло Сергей Алексеевич": 3,
-      "Дроздов Илья Юрьевич": 7,
-      "Ильинов Виктор Владимирович": 3,
-      "Ищенко Александр Николаевич": 73,
-      "Колесников Иван Александрович": 8,
-      "Ледовской Валерий Иванович": 0,
-      "Назаренко Владимир Александрович": 1,
-      "Смирнов Владимир Николаевич": 1
+      "gas:candidate-vibid:2262000864405": 1,
+      "gas:candidate-vibid:2262000863801": 15,
+      "gas:candidate-vibid:2262000862853": 3,
+      "gas:candidate-vibid:2262000799646": 7,
+      "gas:candidate-vibid:2262000863723": 3,
+      "gas:candidate-vibid:2262000864845": 73,
+      "gas:candidate-vibid:2262000861937": 8,
+      "gas:candidate-vibid:2262000864604": 0,
+      "gas:candidate-vibid:2262000865423": 1,
+      "gas:candidate-vibid:2262000864353": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000082&tvd=2262000761465&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761465&type=464",
@@ -13003,16 +13003,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Большов Георгий Эрикович": 3,
-      "Гончаров Виктор Иванович": 36,
-      "Горло Сергей Алексеевич": 7,
-      "Дроздов Илья Юрьевич": 37,
-      "Ильинов Виктор Владимирович": 2,
-      "Ищенко Александр Николаевич": 127,
-      "Колесников Иван Александрович": 16,
-      "Ледовской Валерий Иванович": 3,
-      "Назаренко Владимир Александрович": 5,
-      "Смирнов Владимир Николаевич": 3
+      "gas:candidate-vibid:2262000864405": 3,
+      "gas:candidate-vibid:2262000863801": 36,
+      "gas:candidate-vibid:2262000862853": 7,
+      "gas:candidate-vibid:2262000799646": 37,
+      "gas:candidate-vibid:2262000863723": 2,
+      "gas:candidate-vibid:2262000864845": 127,
+      "gas:candidate-vibid:2262000861937": 16,
+      "gas:candidate-vibid:2262000864604": 3,
+      "gas:candidate-vibid:2262000865423": 5,
+      "gas:candidate-vibid:2262000864353": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000082&tvd=2262000761465&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761465&type=464",
@@ -13063,16 +13063,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Большов Георгий Эрикович": 5,
-      "Гончаров Виктор Иванович": 84,
-      "Горло Сергей Алексеевич": 6,
-      "Дроздов Илья Юрьевич": 35,
-      "Ильинов Виктор Владимирович": 5,
-      "Ищенко Александр Николаевич": 196,
-      "Колесников Иван Александрович": 17,
-      "Ледовской Валерий Иванович": 3,
-      "Назаренко Владимир Александрович": 3,
-      "Смирнов Владимир Николаевич": 1
+      "gas:candidate-vibid:2262000864405": 5,
+      "gas:candidate-vibid:2262000863801": 84,
+      "gas:candidate-vibid:2262000862853": 6,
+      "gas:candidate-vibid:2262000799646": 35,
+      "gas:candidate-vibid:2262000863723": 5,
+      "gas:candidate-vibid:2262000864845": 196,
+      "gas:candidate-vibid:2262000861937": 17,
+      "gas:candidate-vibid:2262000864604": 3,
+      "gas:candidate-vibid:2262000865423": 3,
+      "gas:candidate-vibid:2262000864353": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000082&tvd=2262000761465&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761465&type=464",
@@ -13123,16 +13123,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Большов Георгий Эрикович": 5,
-      "Гончаров Виктор Иванович": 39,
-      "Горло Сергей Алексеевич": 9,
-      "Дроздов Илья Юрьевич": 16,
-      "Ильинов Виктор Владимирович": 2,
-      "Ищенко Александр Николаевич": 93,
-      "Колесников Иван Александрович": 18,
-      "Ледовской Валерий Иванович": 0,
-      "Назаренко Владимир Александрович": 1,
-      "Смирнов Владимир Николаевич": 4
+      "gas:candidate-vibid:2262000864405": 5,
+      "gas:candidate-vibid:2262000863801": 39,
+      "gas:candidate-vibid:2262000862853": 9,
+      "gas:candidate-vibid:2262000799646": 16,
+      "gas:candidate-vibid:2262000863723": 2,
+      "gas:candidate-vibid:2262000864845": 93,
+      "gas:candidate-vibid:2262000861937": 18,
+      "gas:candidate-vibid:2262000864604": 0,
+      "gas:candidate-vibid:2262000865423": 1,
+      "gas:candidate-vibid:2262000864353": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000082&tvd=2262000761465&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761465&type=464",
@@ -13183,16 +13183,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Большов Георгий Эрикович": 2,
-      "Гончаров Виктор Иванович": 11,
-      "Горло Сергей Алексеевич": 2,
-      "Дроздов Илья Юрьевич": 4,
-      "Ильинов Виктор Владимирович": 0,
-      "Ищенко Александр Николаевич": 80,
-      "Колесников Иван Александрович": 13,
-      "Ледовской Валерий Иванович": 3,
-      "Назаренко Владимир Александрович": 0,
-      "Смирнов Владимир Николаевич": 1
+      "gas:candidate-vibid:2262000864405": 2,
+      "gas:candidate-vibid:2262000863801": 11,
+      "gas:candidate-vibid:2262000862853": 2,
+      "gas:candidate-vibid:2262000799646": 4,
+      "gas:candidate-vibid:2262000863723": 0,
+      "gas:candidate-vibid:2262000864845": 80,
+      "gas:candidate-vibid:2262000861937": 13,
+      "gas:candidate-vibid:2262000864604": 3,
+      "gas:candidate-vibid:2262000865423": 0,
+      "gas:candidate-vibid:2262000864353": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000082&tvd=2262000761465&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761465&type=464",
@@ -13243,16 +13243,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Большов Георгий Эрикович": 4,
-      "Гончаров Виктор Иванович": 40,
-      "Горло Сергей Алексеевич": 6,
-      "Дроздов Илья Юрьевич": 48,
-      "Ильинов Виктор Владимирович": 14,
-      "Ищенко Александр Николаевич": 452,
-      "Колесников Иван Александрович": 19,
-      "Ледовской Валерий Иванович": 1,
-      "Назаренко Владимир Александрович": 6,
-      "Смирнов Владимир Николаевич": 13
+      "gas:candidate-vibid:2262000864405": 4,
+      "gas:candidate-vibid:2262000863801": 40,
+      "gas:candidate-vibid:2262000862853": 6,
+      "gas:candidate-vibid:2262000799646": 48,
+      "gas:candidate-vibid:2262000863723": 14,
+      "gas:candidate-vibid:2262000864845": 452,
+      "gas:candidate-vibid:2262000861937": 19,
+      "gas:candidate-vibid:2262000864604": 1,
+      "gas:candidate-vibid:2262000865423": 6,
+      "gas:candidate-vibid:2262000864353": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000082&tvd=2262000761465&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761465&type=464",
@@ -13303,16 +13303,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Большов Георгий Эрикович": 6,
-      "Гончаров Виктор Иванович": 47,
-      "Горло Сергей Алексеевич": 9,
-      "Дроздов Илья Юрьевич": 44,
-      "Ильинов Виктор Владимирович": 8,
-      "Ищенко Александр Николаевич": 364,
-      "Колесников Иван Александрович": 19,
-      "Ледовской Валерий Иванович": 1,
-      "Назаренко Владимир Александрович": 9,
-      "Смирнов Владимир Николаевич": 6
+      "gas:candidate-vibid:2262000864405": 6,
+      "gas:candidate-vibid:2262000863801": 47,
+      "gas:candidate-vibid:2262000862853": 9,
+      "gas:candidate-vibid:2262000799646": 44,
+      "gas:candidate-vibid:2262000863723": 8,
+      "gas:candidate-vibid:2262000864845": 364,
+      "gas:candidate-vibid:2262000861937": 19,
+      "gas:candidate-vibid:2262000864604": 1,
+      "gas:candidate-vibid:2262000865423": 9,
+      "gas:candidate-vibid:2262000864353": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000082&tvd=2262000761465&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761465&type=464",
@@ -13363,16 +13363,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Большов Георгий Эрикович": 17,
-      "Гончаров Виктор Иванович": 74,
-      "Горло Сергей Алексеевич": 21,
-      "Дроздов Илья Юрьевич": 101,
-      "Ильинов Виктор Владимирович": 9,
-      "Ищенко Александр Николаевич": 345,
-      "Колесников Иван Александрович": 28,
-      "Ледовской Валерий Иванович": 4,
-      "Назаренко Владимир Александрович": 14,
-      "Смирнов Владимир Николаевич": 5
+      "gas:candidate-vibid:2262000864405": 17,
+      "gas:candidate-vibid:2262000863801": 74,
+      "gas:candidate-vibid:2262000862853": 21,
+      "gas:candidate-vibid:2262000799646": 101,
+      "gas:candidate-vibid:2262000863723": 9,
+      "gas:candidate-vibid:2262000864845": 345,
+      "gas:candidate-vibid:2262000861937": 28,
+      "gas:candidate-vibid:2262000864604": 4,
+      "gas:candidate-vibid:2262000865423": 14,
+      "gas:candidate-vibid:2262000864353": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000082&tvd=2262000761465&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761465&type=464",
@@ -13423,16 +13423,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Большов Георгий Эрикович": 7,
-      "Гончаров Виктор Иванович": 61,
-      "Горло Сергей Алексеевич": 13,
-      "Дроздов Илья Юрьевич": 44,
-      "Ильинов Виктор Владимирович": 9,
-      "Ищенко Александр Николаевич": 332,
-      "Колесников Иван Александрович": 18,
-      "Ледовской Валерий Иванович": 5,
-      "Назаренко Владимир Александрович": 3,
-      "Смирнов Владимир Николаевич": 13
+      "gas:candidate-vibid:2262000864405": 7,
+      "gas:candidate-vibid:2262000863801": 61,
+      "gas:candidate-vibid:2262000862853": 13,
+      "gas:candidate-vibid:2262000799646": 44,
+      "gas:candidate-vibid:2262000863723": 9,
+      "gas:candidate-vibid:2262000864845": 332,
+      "gas:candidate-vibid:2262000861937": 18,
+      "gas:candidate-vibid:2262000864604": 5,
+      "gas:candidate-vibid:2262000865423": 3,
+      "gas:candidate-vibid:2262000864353": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000082&tvd=2262000761465&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761465&type=464",
@@ -13483,16 +13483,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Большов Георгий Эрикович": 9,
-      "Гончаров Виктор Иванович": 55,
-      "Горло Сергей Алексеевич": 8,
-      "Дроздов Илья Юрьевич": 29,
-      "Ильинов Виктор Владимирович": 2,
-      "Ищенко Александр Николаевич": 416,
-      "Колесников Иван Александрович": 25,
-      "Ледовской Валерий Иванович": 0,
-      "Назаренко Владимир Александрович": 3,
-      "Смирнов Владимир Николаевич": 6
+      "gas:candidate-vibid:2262000864405": 9,
+      "gas:candidate-vibid:2262000863801": 55,
+      "gas:candidate-vibid:2262000862853": 8,
+      "gas:candidate-vibid:2262000799646": 29,
+      "gas:candidate-vibid:2262000863723": 2,
+      "gas:candidate-vibid:2262000864845": 416,
+      "gas:candidate-vibid:2262000861937": 25,
+      "gas:candidate-vibid:2262000864604": 0,
+      "gas:candidate-vibid:2262000865423": 3,
+      "gas:candidate-vibid:2262000864353": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000082&tvd=2262000761465&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761465&type=464",
@@ -13543,16 +13543,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Большов Георгий Эрикович": 9,
-      "Гончаров Виктор Иванович": 86,
-      "Горло Сергей Алексеевич": 33,
-      "Дроздов Илья Юрьевич": 87,
-      "Ильинов Виктор Владимирович": 10,
-      "Ищенко Александр Николаевич": 248,
-      "Колесников Иван Александрович": 22,
-      "Ледовской Валерий Иванович": 4,
-      "Назаренко Владимир Александрович": 11,
-      "Смирнов Владимир Николаевич": 8
+      "gas:candidate-vibid:2262000864405": 9,
+      "gas:candidate-vibid:2262000863801": 86,
+      "gas:candidate-vibid:2262000862853": 33,
+      "gas:candidate-vibid:2262000799646": 87,
+      "gas:candidate-vibid:2262000863723": 10,
+      "gas:candidate-vibid:2262000864845": 248,
+      "gas:candidate-vibid:2262000861937": 22,
+      "gas:candidate-vibid:2262000864604": 4,
+      "gas:candidate-vibid:2262000865423": 11,
+      "gas:candidate-vibid:2262000864353": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000082&tvd=2262000761466&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761466&type=464",
@@ -13603,16 +13603,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Большов Георгий Эрикович": 12,
-      "Гончаров Виктор Иванович": 74,
-      "Горло Сергей Алексеевич": 37,
-      "Дроздов Илья Юрьевич": 107,
-      "Ильинов Виктор Владимирович": 11,
-      "Ищенко Александр Николаевич": 250,
-      "Колесников Иван Александрович": 20,
-      "Ледовской Валерий Иванович": 8,
-      "Назаренко Владимир Александрович": 10,
-      "Смирнов Владимир Николаевич": 11
+      "gas:candidate-vibid:2262000864405": 12,
+      "gas:candidate-vibid:2262000863801": 74,
+      "gas:candidate-vibid:2262000862853": 37,
+      "gas:candidate-vibid:2262000799646": 107,
+      "gas:candidate-vibid:2262000863723": 11,
+      "gas:candidate-vibid:2262000864845": 250,
+      "gas:candidate-vibid:2262000861937": 20,
+      "gas:candidate-vibid:2262000864604": 8,
+      "gas:candidate-vibid:2262000865423": 10,
+      "gas:candidate-vibid:2262000864353": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000082&tvd=2262000761466&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761466&type=464",
@@ -13663,16 +13663,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Большов Георгий Эрикович": 11,
-      "Гончаров Виктор Иванович": 100,
-      "Горло Сергей Алексеевич": 45,
-      "Дроздов Илья Юрьевич": 69,
-      "Ильинов Виктор Владимирович": 12,
-      "Ищенко Александр Николаевич": 228,
-      "Колесников Иван Александрович": 27,
-      "Ледовской Валерий Иванович": 6,
-      "Назаренко Владимир Александрович": 6,
-      "Смирнов Владимир Николаевич": 9
+      "gas:candidate-vibid:2262000864405": 11,
+      "gas:candidate-vibid:2262000863801": 100,
+      "gas:candidate-vibid:2262000862853": 45,
+      "gas:candidate-vibid:2262000799646": 69,
+      "gas:candidate-vibid:2262000863723": 12,
+      "gas:candidate-vibid:2262000864845": 228,
+      "gas:candidate-vibid:2262000861937": 27,
+      "gas:candidate-vibid:2262000864604": 6,
+      "gas:candidate-vibid:2262000865423": 6,
+      "gas:candidate-vibid:2262000864353": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000082&tvd=2262000761466&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761466&type=464",
@@ -13723,16 +13723,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Большов Георгий Эрикович": 9,
-      "Гончаров Виктор Иванович": 105,
-      "Горло Сергей Алексеевич": 35,
-      "Дроздов Илья Юрьевич": 65,
-      "Ильинов Виктор Владимирович": 14,
-      "Ищенко Александр Николаевич": 201,
-      "Колесников Иван Александрович": 16,
-      "Ледовской Валерий Иванович": 12,
-      "Назаренко Владимир Александрович": 17,
-      "Смирнов Владимир Николаевич": 6
+      "gas:candidate-vibid:2262000864405": 9,
+      "gas:candidate-vibid:2262000863801": 105,
+      "gas:candidate-vibid:2262000862853": 35,
+      "gas:candidate-vibid:2262000799646": 65,
+      "gas:candidate-vibid:2262000863723": 14,
+      "gas:candidate-vibid:2262000864845": 201,
+      "gas:candidate-vibid:2262000861937": 16,
+      "gas:candidate-vibid:2262000864604": 12,
+      "gas:candidate-vibid:2262000865423": 17,
+      "gas:candidate-vibid:2262000864353": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000082&tvd=2262000761466&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761466&type=464",
@@ -13783,16 +13783,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Большов Георгий Эрикович": 8,
-      "Гончаров Виктор Иванович": 101,
-      "Горло Сергей Алексеевич": 36,
-      "Дроздов Илья Юрьевич": 79,
-      "Ильинов Виктор Владимирович": 11,
-      "Ищенко Александр Николаевич": 342,
-      "Колесников Иван Александрович": 21,
-      "Ледовской Валерий Иванович": 9,
-      "Назаренко Владимир Александрович": 10,
-      "Смирнов Владимир Николаевич": 6
+      "gas:candidate-vibid:2262000864405": 8,
+      "gas:candidate-vibid:2262000863801": 101,
+      "gas:candidate-vibid:2262000862853": 36,
+      "gas:candidate-vibid:2262000799646": 79,
+      "gas:candidate-vibid:2262000863723": 11,
+      "gas:candidate-vibid:2262000864845": 342,
+      "gas:candidate-vibid:2262000861937": 21,
+      "gas:candidate-vibid:2262000864604": 9,
+      "gas:candidate-vibid:2262000865423": 10,
+      "gas:candidate-vibid:2262000864353": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000082&tvd=2262000761466&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761466&type=464",
@@ -13843,16 +13843,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Большов Георгий Эрикович": 18,
-      "Гончаров Виктор Иванович": 92,
-      "Горло Сергей Алексеевич": 59,
-      "Дроздов Илья Юрьевич": 107,
-      "Ильинов Виктор Владимирович": 25,
-      "Ищенко Александр Николаевич": 385,
-      "Колесников Иван Александрович": 19,
-      "Ледовской Валерий Иванович": 12,
-      "Назаренко Владимир Александрович": 10,
-      "Смирнов Владимир Николаевич": 18
+      "gas:candidate-vibid:2262000864405": 18,
+      "gas:candidate-vibid:2262000863801": 92,
+      "gas:candidate-vibid:2262000862853": 59,
+      "gas:candidate-vibid:2262000799646": 107,
+      "gas:candidate-vibid:2262000863723": 25,
+      "gas:candidate-vibid:2262000864845": 385,
+      "gas:candidate-vibid:2262000861937": 19,
+      "gas:candidate-vibid:2262000864604": 12,
+      "gas:candidate-vibid:2262000865423": 10,
+      "gas:candidate-vibid:2262000864353": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000082&tvd=2262000761466&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761466&type=464",
@@ -13903,16 +13903,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Большов Георгий Эрикович": 15,
-      "Гончаров Виктор Иванович": 97,
-      "Горло Сергей Алексеевич": 33,
-      "Дроздов Илья Юрьевич": 74,
-      "Ильинов Виктор Владимирович": 8,
-      "Ищенко Александр Николаевич": 248,
-      "Колесников Иван Александрович": 26,
-      "Ледовской Валерий Иванович": 9,
-      "Назаренко Владимир Александрович": 10,
-      "Смирнов Владимир Николаевич": 17
+      "gas:candidate-vibid:2262000864405": 15,
+      "gas:candidate-vibid:2262000863801": 97,
+      "gas:candidate-vibid:2262000862853": 33,
+      "gas:candidate-vibid:2262000799646": 74,
+      "gas:candidate-vibid:2262000863723": 8,
+      "gas:candidate-vibid:2262000864845": 248,
+      "gas:candidate-vibid:2262000861937": 26,
+      "gas:candidate-vibid:2262000864604": 9,
+      "gas:candidate-vibid:2262000865423": 10,
+      "gas:candidate-vibid:2262000864353": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000082&tvd=2262000761466&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761466&type=464",
@@ -13963,16 +13963,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Большов Георгий Эрикович": 9,
-      "Гончаров Виктор Иванович": 77,
-      "Горло Сергей Алексеевич": 52,
-      "Дроздов Илья Юрьевич": 74,
-      "Ильинов Виктор Владимирович": 10,
-      "Ищенко Александр Николаевич": 230,
-      "Колесников Иван Александрович": 17,
-      "Ледовской Валерий Иванович": 9,
-      "Назаренко Владимир Александрович": 11,
-      "Смирнов Владимир Николаевич": 6
+      "gas:candidate-vibid:2262000864405": 9,
+      "gas:candidate-vibid:2262000863801": 77,
+      "gas:candidate-vibid:2262000862853": 52,
+      "gas:candidate-vibid:2262000799646": 74,
+      "gas:candidate-vibid:2262000863723": 10,
+      "gas:candidate-vibid:2262000864845": 230,
+      "gas:candidate-vibid:2262000861937": 17,
+      "gas:candidate-vibid:2262000864604": 9,
+      "gas:candidate-vibid:2262000865423": 11,
+      "gas:candidate-vibid:2262000864353": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000082&tvd=2262000761466&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761466&type=464",
@@ -14023,16 +14023,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Большов Георгий Эрикович": 14,
-      "Гончаров Виктор Иванович": 96,
-      "Горло Сергей Алексеевич": 33,
-      "Дроздов Илья Юрьевич": 73,
-      "Ильинов Виктор Владимирович": 17,
-      "Ищенко Александр Николаевич": 203,
-      "Колесников Иван Александрович": 31,
-      "Ледовской Валерий Иванович": 4,
-      "Назаренко Владимир Александрович": 4,
-      "Смирнов Владимир Николаевич": 10
+      "gas:candidate-vibid:2262000864405": 14,
+      "gas:candidate-vibid:2262000863801": 96,
+      "gas:candidate-vibid:2262000862853": 33,
+      "gas:candidate-vibid:2262000799646": 73,
+      "gas:candidate-vibid:2262000863723": 17,
+      "gas:candidate-vibid:2262000864845": 203,
+      "gas:candidate-vibid:2262000861937": 31,
+      "gas:candidate-vibid:2262000864604": 4,
+      "gas:candidate-vibid:2262000865423": 4,
+      "gas:candidate-vibid:2262000864353": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000082&tvd=2262000761466&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761466&type=464",
@@ -14083,16 +14083,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Большов Георгий Эрикович": 18,
-      "Гончаров Виктор Иванович": 115,
-      "Горло Сергей Алексеевич": 37,
-      "Дроздов Илья Юрьевич": 85,
-      "Ильинов Виктор Владимирович": 13,
-      "Ищенко Александр Николаевич": 259,
-      "Колесников Иван Александрович": 28,
-      "Ледовской Валерий Иванович": 13,
-      "Назаренко Владимир Александрович": 13,
-      "Смирнов Владимир Николаевич": 8
+      "gas:candidate-vibid:2262000864405": 18,
+      "gas:candidate-vibid:2262000863801": 115,
+      "gas:candidate-vibid:2262000862853": 37,
+      "gas:candidate-vibid:2262000799646": 85,
+      "gas:candidate-vibid:2262000863723": 13,
+      "gas:candidate-vibid:2262000864845": 259,
+      "gas:candidate-vibid:2262000861937": 28,
+      "gas:candidate-vibid:2262000864604": 13,
+      "gas:candidate-vibid:2262000865423": 13,
+      "gas:candidate-vibid:2262000864353": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000082&tvd=2262000761466&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761466&type=464",
@@ -14143,16 +14143,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Большов Георгий Эрикович": 14,
-      "Гончаров Виктор Иванович": 101,
-      "Горло Сергей Алексеевич": 47,
-      "Дроздов Илья Юрьевич": 83,
-      "Ильинов Виктор Владимирович": 17,
-      "Ищенко Александр Николаевич": 287,
-      "Колесников Иван Александрович": 32,
-      "Ледовской Валерий Иванович": 11,
-      "Назаренко Владимир Александрович": 14,
-      "Смирнов Владимир Николаевич": 14
+      "gas:candidate-vibid:2262000864405": 14,
+      "gas:candidate-vibid:2262000863801": 101,
+      "gas:candidate-vibid:2262000862853": 47,
+      "gas:candidate-vibid:2262000799646": 83,
+      "gas:candidate-vibid:2262000863723": 17,
+      "gas:candidate-vibid:2262000864845": 287,
+      "gas:candidate-vibid:2262000861937": 32,
+      "gas:candidate-vibid:2262000864604": 11,
+      "gas:candidate-vibid:2262000865423": 14,
+      "gas:candidate-vibid:2262000864353": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000082&tvd=2262000761466&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761466&type=464",
@@ -14203,16 +14203,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Большов Георгий Эрикович": 9,
-      "Гончаров Виктор Иванович": 82,
-      "Горло Сергей Алексеевич": 42,
-      "Дроздов Илья Юрьевич": 97,
-      "Ильинов Виктор Владимирович": 16,
-      "Ищенко Александр Николаевич": 264,
-      "Колесников Иван Александрович": 26,
-      "Ледовской Валерий Иванович": 18,
-      "Назаренко Владимир Александрович": 7,
-      "Смирнов Владимир Николаевич": 13
+      "gas:candidate-vibid:2262000864405": 9,
+      "gas:candidate-vibid:2262000863801": 82,
+      "gas:candidate-vibid:2262000862853": 42,
+      "gas:candidate-vibid:2262000799646": 97,
+      "gas:candidate-vibid:2262000863723": 16,
+      "gas:candidate-vibid:2262000864845": 264,
+      "gas:candidate-vibid:2262000861937": 26,
+      "gas:candidate-vibid:2262000864604": 18,
+      "gas:candidate-vibid:2262000865423": 7,
+      "gas:candidate-vibid:2262000864353": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000082&tvd=2262000761466&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761466&type=464",
@@ -14263,16 +14263,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Большов Георгий Эрикович": 17,
-      "Гончаров Виктор Иванович": 110,
-      "Горло Сергей Алексеевич": 48,
-      "Дроздов Илья Юрьевич": 90,
-      "Ильинов Виктор Владимирович": 28,
-      "Ищенко Александр Николаевич": 346,
-      "Колесников Иван Александрович": 28,
-      "Ледовской Валерий Иванович": 13,
-      "Назаренко Владимир Александрович": 14,
-      "Смирнов Владимир Николаевич": 9
+      "gas:candidate-vibid:2262000864405": 17,
+      "gas:candidate-vibid:2262000863801": 110,
+      "gas:candidate-vibid:2262000862853": 48,
+      "gas:candidate-vibid:2262000799646": 90,
+      "gas:candidate-vibid:2262000863723": 28,
+      "gas:candidate-vibid:2262000864845": 346,
+      "gas:candidate-vibid:2262000861937": 28,
+      "gas:candidate-vibid:2262000864604": 13,
+      "gas:candidate-vibid:2262000865423": 14,
+      "gas:candidate-vibid:2262000864353": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000082&tvd=2262000761466&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761466&type=464",
@@ -14323,16 +14323,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Большов Георгий Эрикович": 16,
-      "Гончаров Виктор Иванович": 73,
-      "Горло Сергей Алексеевич": 33,
-      "Дроздов Илья Юрьевич": 66,
-      "Ильинов Виктор Владимирович": 5,
-      "Ищенко Александр Николаевич": 215,
-      "Колесников Иван Александрович": 22,
-      "Ледовской Валерий Иванович": 13,
-      "Назаренко Владимир Александрович": 8,
-      "Смирнов Владимир Николаевич": 4
+      "gas:candidate-vibid:2262000864405": 16,
+      "gas:candidate-vibid:2262000863801": 73,
+      "gas:candidate-vibid:2262000862853": 33,
+      "gas:candidate-vibid:2262000799646": 66,
+      "gas:candidate-vibid:2262000863723": 5,
+      "gas:candidate-vibid:2262000864845": 215,
+      "gas:candidate-vibid:2262000861937": 22,
+      "gas:candidate-vibid:2262000864604": 13,
+      "gas:candidate-vibid:2262000865423": 8,
+      "gas:candidate-vibid:2262000864353": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000082&tvd=2262000761466&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761466&type=464",
@@ -14383,16 +14383,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Большов Георгий Эрикович": 8,
-      "Гончаров Виктор Иванович": 87,
-      "Горло Сергей Алексеевич": 30,
-      "Дроздов Илья Юрьевич": 87,
-      "Ильинов Виктор Владимирович": 9,
-      "Ищенко Александр Николаевич": 180,
-      "Колесников Иван Александрович": 19,
-      "Ледовской Валерий Иванович": 8,
-      "Назаренко Владимир Александрович": 3,
-      "Смирнов Владимир Николаевич": 15
+      "gas:candidate-vibid:2262000864405": 8,
+      "gas:candidate-vibid:2262000863801": 87,
+      "gas:candidate-vibid:2262000862853": 30,
+      "gas:candidate-vibid:2262000799646": 87,
+      "gas:candidate-vibid:2262000863723": 9,
+      "gas:candidate-vibid:2262000864845": 180,
+      "gas:candidate-vibid:2262000861937": 19,
+      "gas:candidate-vibid:2262000864604": 8,
+      "gas:candidate-vibid:2262000865423": 3,
+      "gas:candidate-vibid:2262000864353": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000082&tvd=2262000761466&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761466&type=464",
@@ -14443,16 +14443,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Большов Георгий Эрикович": 5,
-      "Гончаров Виктор Иванович": 82,
-      "Горло Сергей Алексеевич": 23,
-      "Дроздов Илья Юрьевич": 60,
-      "Ильинов Виктор Владимирович": 8,
-      "Ищенко Александр Николаевич": 319,
-      "Колесников Иван Александрович": 13,
-      "Ледовской Валерий Иванович": 4,
-      "Назаренко Владимир Александрович": 6,
-      "Смирнов Владимир Николаевич": 8
+      "gas:candidate-vibid:2262000864405": 5,
+      "gas:candidate-vibid:2262000863801": 82,
+      "gas:candidate-vibid:2262000862853": 23,
+      "gas:candidate-vibid:2262000799646": 60,
+      "gas:candidate-vibid:2262000863723": 8,
+      "gas:candidate-vibid:2262000864845": 319,
+      "gas:candidate-vibid:2262000861937": 13,
+      "gas:candidate-vibid:2262000864604": 4,
+      "gas:candidate-vibid:2262000865423": 6,
+      "gas:candidate-vibid:2262000864353": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000082&tvd=2262000761466&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761466&type=464",
@@ -14503,16 +14503,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Большов Георгий Эрикович": 18,
-      "Гончаров Виктор Иванович": 186,
-      "Горло Сергей Алексеевич": 101,
-      "Дроздов Илья Юрьевич": 196,
-      "Ильинов Виктор Владимирович": 24,
-      "Ищенко Александр Николаевич": 433,
-      "Колесников Иван Александрович": 57,
-      "Ледовской Валерий Иванович": 19,
-      "Назаренко Владимир Александрович": 24,
-      "Смирнов Владимир Николаевич": 23
+      "gas:candidate-vibid:2262000864405": 18,
+      "gas:candidate-vibid:2262000863801": 186,
+      "gas:candidate-vibid:2262000862853": 101,
+      "gas:candidate-vibid:2262000799646": 196,
+      "gas:candidate-vibid:2262000863723": 24,
+      "gas:candidate-vibid:2262000864845": 433,
+      "gas:candidate-vibid:2262000861937": 57,
+      "gas:candidate-vibid:2262000864604": 19,
+      "gas:candidate-vibid:2262000865423": 24,
+      "gas:candidate-vibid:2262000864353": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000082&tvd=2262000761466&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761466&type=464",
@@ -14563,16 +14563,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Большов Георгий Эрикович": 21,
-      "Гончаров Виктор Иванович": 106,
-      "Горло Сергей Алексеевич": 39,
-      "Дроздов Илья Юрьевич": 94,
-      "Ильинов Виктор Владимирович": 20,
-      "Ищенко Александр Николаевич": 252,
-      "Колесников Иван Александрович": 26,
-      "Ледовской Валерий Иванович": 7,
-      "Назаренко Владимир Александрович": 12,
-      "Смирнов Владимир Николаевич": 10
+      "gas:candidate-vibid:2262000864405": 21,
+      "gas:candidate-vibid:2262000863801": 106,
+      "gas:candidate-vibid:2262000862853": 39,
+      "gas:candidate-vibid:2262000799646": 94,
+      "gas:candidate-vibid:2262000863723": 20,
+      "gas:candidate-vibid:2262000864845": 252,
+      "gas:candidate-vibid:2262000861937": 26,
+      "gas:candidate-vibid:2262000864604": 7,
+      "gas:candidate-vibid:2262000865423": 12,
+      "gas:candidate-vibid:2262000864353": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000082&tvd=2262000761466&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761466&type=464",
@@ -14623,16 +14623,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Большов Георгий Эрикович": 14,
-      "Гончаров Виктор Иванович": 91,
-      "Горло Сергей Алексеевич": 27,
-      "Дроздов Илья Юрьевич": 96,
-      "Ильинов Виктор Владимирович": 13,
-      "Ищенко Александр Николаевич": 249,
-      "Колесников Иван Александрович": 35,
-      "Ледовской Валерий Иванович": 7,
-      "Назаренко Владимир Александрович": 3,
-      "Смирнов Владимир Николаевич": 14
+      "gas:candidate-vibid:2262000864405": 14,
+      "gas:candidate-vibid:2262000863801": 91,
+      "gas:candidate-vibid:2262000862853": 27,
+      "gas:candidate-vibid:2262000799646": 96,
+      "gas:candidate-vibid:2262000863723": 13,
+      "gas:candidate-vibid:2262000864845": 249,
+      "gas:candidate-vibid:2262000861937": 35,
+      "gas:candidate-vibid:2262000864604": 7,
+      "gas:candidate-vibid:2262000865423": 3,
+      "gas:candidate-vibid:2262000864353": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000082&tvd=2262000761466&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761466&type=464",
@@ -14683,16 +14683,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Большов Георгий Эрикович": 13,
-      "Гончаров Виктор Иванович": 71,
-      "Горло Сергей Алексеевич": 32,
-      "Дроздов Илья Юрьевич": 107,
-      "Ильинов Виктор Владимирович": 11,
-      "Ищенко Александр Николаевич": 235,
-      "Колесников Иван Александрович": 35,
-      "Ледовской Валерий Иванович": 8,
-      "Назаренко Владимир Александрович": 7,
-      "Смирнов Владимир Николаевич": 12
+      "gas:candidate-vibid:2262000864405": 13,
+      "gas:candidate-vibid:2262000863801": 71,
+      "gas:candidate-vibid:2262000862853": 32,
+      "gas:candidate-vibid:2262000799646": 107,
+      "gas:candidate-vibid:2262000863723": 11,
+      "gas:candidate-vibid:2262000864845": 235,
+      "gas:candidate-vibid:2262000861937": 35,
+      "gas:candidate-vibid:2262000864604": 8,
+      "gas:candidate-vibid:2262000865423": 7,
+      "gas:candidate-vibid:2262000864353": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000082&tvd=2262000761466&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761466&type=464",
@@ -14743,16 +14743,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Большов Георгий Эрикович": 11,
-      "Гончаров Виктор Иванович": 117,
-      "Горло Сергей Алексеевич": 73,
-      "Дроздов Илья Юрьевич": 224,
-      "Ильинов Виктор Владимирович": 19,
-      "Ищенко Александр Николаевич": 244,
-      "Колесников Иван Александрович": 37,
-      "Ледовской Валерий Иванович": 17,
-      "Назаренко Владимир Александрович": 14,
-      "Смирнов Владимир Николаевич": 15
+      "gas:candidate-vibid:2262000864405": 11,
+      "gas:candidate-vibid:2262000863801": 117,
+      "gas:candidate-vibid:2262000862853": 73,
+      "gas:candidate-vibid:2262000799646": 224,
+      "gas:candidate-vibid:2262000863723": 19,
+      "gas:candidate-vibid:2262000864845": 244,
+      "gas:candidate-vibid:2262000861937": 37,
+      "gas:candidate-vibid:2262000864604": 17,
+      "gas:candidate-vibid:2262000865423": 14,
+      "gas:candidate-vibid:2262000864353": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000082&tvd=2262000761466&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761466&type=464",
@@ -14803,16 +14803,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Большов Георгий Эрикович": 25,
-      "Гончаров Виктор Иванович": 161,
-      "Горло Сергей Алексеевич": 79,
-      "Дроздов Илья Юрьевич": 290,
-      "Ильинов Виктор Владимирович": 28,
-      "Ищенко Александр Николаевич": 224,
-      "Колесников Иван Александрович": 39,
-      "Ледовской Валерий Иванович": 25,
-      "Назаренко Владимир Александрович": 25,
-      "Смирнов Владимир Николаевич": 25
+      "gas:candidate-vibid:2262000864405": 25,
+      "gas:candidate-vibid:2262000863801": 161,
+      "gas:candidate-vibid:2262000862853": 79,
+      "gas:candidate-vibid:2262000799646": 290,
+      "gas:candidate-vibid:2262000863723": 28,
+      "gas:candidate-vibid:2262000864845": 224,
+      "gas:candidate-vibid:2262000861937": 39,
+      "gas:candidate-vibid:2262000864604": 25,
+      "gas:candidate-vibid:2262000865423": 25,
+      "gas:candidate-vibid:2262000864353": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000082&tvd=2262000761466&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761466&type=464",
@@ -14863,16 +14863,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Большов Георгий Эрикович": 29,
-      "Гончаров Виктор Иванович": 170,
-      "Горло Сергей Алексеевич": 101,
-      "Дроздов Илья Юрьевич": 252,
-      "Ильинов Виктор Владимирович": 31,
-      "Ищенко Александр Николаевич": 381,
-      "Колесников Иван Александрович": 50,
-      "Ледовской Валерий Иванович": 17,
-      "Назаренко Владимир Александрович": 32,
-      "Смирнов Владимир Николаевич": 22
+      "gas:candidate-vibid:2262000864405": 29,
+      "gas:candidate-vibid:2262000863801": 170,
+      "gas:candidate-vibid:2262000862853": 101,
+      "gas:candidate-vibid:2262000799646": 252,
+      "gas:candidate-vibid:2262000863723": 31,
+      "gas:candidate-vibid:2262000864845": 381,
+      "gas:candidate-vibid:2262000861937": 50,
+      "gas:candidate-vibid:2262000864604": 17,
+      "gas:candidate-vibid:2262000865423": 32,
+      "gas:candidate-vibid:2262000864353": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000082&tvd=2262000761466&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761466&type=464",
@@ -14923,16 +14923,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Большов Георгий Эрикович": 30,
-      "Гончаров Виктор Иванович": 135,
-      "Горло Сергей Алексеевич": 89,
-      "Дроздов Илья Юрьевич": 224,
-      "Ильинов Виктор Владимирович": 31,
-      "Ищенко Александр Николаевич": 456,
-      "Колесников Иван Александрович": 52,
-      "Ледовской Валерий Иванович": 17,
-      "Назаренко Владимир Александрович": 15,
-      "Смирнов Владимир Николаевич": 30
+      "gas:candidate-vibid:2262000864405": 30,
+      "gas:candidate-vibid:2262000863801": 135,
+      "gas:candidate-vibid:2262000862853": 89,
+      "gas:candidate-vibid:2262000799646": 224,
+      "gas:candidate-vibid:2262000863723": 31,
+      "gas:candidate-vibid:2262000864845": 456,
+      "gas:candidate-vibid:2262000861937": 52,
+      "gas:candidate-vibid:2262000864604": 17,
+      "gas:candidate-vibid:2262000865423": 15,
+      "gas:candidate-vibid:2262000864353": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000082&tvd=2262000761466&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761466&type=464",
@@ -14983,16 +14983,16 @@ export const duma_2016_uik_463_region_26_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Большов Георгий Эрикович": 59,
-      "Гончаров Виктор Иванович": 181,
-      "Горло Сергей Алексеевич": 78,
-      "Дроздов Илья Юрьевич": 178,
-      "Ильинов Виктор Владимирович": 39,
-      "Ищенко Александр Николаевич": 668,
-      "Колесников Иван Александрович": 61,
-      "Ледовской Валерий Иванович": 25,
-      "Назаренко Владимир Александрович": 22,
-      "Смирнов Владимир Николаевич": 44
+      "gas:candidate-vibid:2262000864405": 59,
+      "gas:candidate-vibid:2262000863801": 181,
+      "gas:candidate-vibid:2262000862853": 78,
+      "gas:candidate-vibid:2262000799646": 178,
+      "gas:candidate-vibid:2262000863723": 39,
+      "gas:candidate-vibid:2262000864845": 668,
+      "gas:candidate-vibid:2262000861937": 61,
+      "gas:candidate-vibid:2262000864604": 25,
+      "gas:candidate-vibid:2262000865423": 22,
+      "gas:candidate-vibid:2262000864353": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000082&tvd=2262000761466&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761466&type=464",

@@ -43,15 +43,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 23,
-      "Горностаев Александр Сергеевич": 5,
-      "Зберовский Андрей Викторович": 11,
-      "Осипова Татьяна Юрьевна": 21,
-      "Слонов Алексей Павлович": 31,
-      "Тарасов Артем Михайлович": 4,
-      "Титов Сергей Сергеевич": 37,
-      "Шахматов Сергей Александрович": 3,
-      "Швыткин Юрий Николаевич": 115
+      "gas:candidate-vibid:22420001387054": 23,
+      "gas:candidate-vibid:22420001400620": 5,
+      "gas:candidate-vibid:22420001395003": 11,
+      "gas:candidate-vibid:22420001389141": 21,
+      "gas:candidate-vibid:22420001399759": 31,
+      "gas:candidate-vibid:22420001398755": 4,
+      "gas:candidate-vibid:22420001258110": 37,
+      "gas:candidate-vibid:22420001397813": 3,
+      "gas:candidate-vibid:22420001396432": 115
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180011&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180011&type=464",
@@ -102,15 +102,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 17,
-      "Горностаев Александр Сергеевич": 9,
-      "Зберовский Андрей Викторович": 16,
-      "Осипова Татьяна Юрьевна": 15,
-      "Слонов Алексей Павлович": 28,
-      "Тарасов Артем Михайлович": 8,
-      "Титов Сергей Сергеевич": 35,
-      "Шахматов Сергей Александрович": 2,
-      "Швыткин Юрий Николаевич": 137
+      "gas:candidate-vibid:22420001387054": 17,
+      "gas:candidate-vibid:22420001400620": 9,
+      "gas:candidate-vibid:22420001395003": 16,
+      "gas:candidate-vibid:22420001389141": 15,
+      "gas:candidate-vibid:22420001399759": 28,
+      "gas:candidate-vibid:22420001398755": 8,
+      "gas:candidate-vibid:22420001258110": 35,
+      "gas:candidate-vibid:22420001397813": 2,
+      "gas:candidate-vibid:22420001396432": 137
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180011&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180011&type=464",
@@ -161,15 +161,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 18,
-      "Горностаев Александр Сергеевич": 4,
-      "Зберовский Андрей Викторович": 7,
-      "Осипова Татьяна Юрьевна": 18,
-      "Слонов Алексей Павлович": 26,
-      "Тарасов Артем Михайлович": 11,
-      "Титов Сергей Сергеевич": 42,
-      "Шахматов Сергей Александрович": 9,
-      "Швыткин Юрий Николаевич": 104
+      "gas:candidate-vibid:22420001387054": 18,
+      "gas:candidate-vibid:22420001400620": 4,
+      "gas:candidate-vibid:22420001395003": 7,
+      "gas:candidate-vibid:22420001389141": 18,
+      "gas:candidate-vibid:22420001399759": 26,
+      "gas:candidate-vibid:22420001398755": 11,
+      "gas:candidate-vibid:22420001258110": 42,
+      "gas:candidate-vibid:22420001397813": 9,
+      "gas:candidate-vibid:22420001396432": 104
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180011&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180011&type=464",
@@ -220,15 +220,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 12,
-      "Горностаев Александр Сергеевич": 11,
-      "Зберовский Андрей Викторович": 10,
-      "Осипова Татьяна Юрьевна": 29,
-      "Слонов Алексей Павлович": 29,
-      "Тарасов Артем Михайлович": 6,
-      "Титов Сергей Сергеевич": 61,
-      "Шахматов Сергей Александрович": 3,
-      "Швыткин Юрий Николаевич": 129
+      "gas:candidate-vibid:22420001387054": 12,
+      "gas:candidate-vibid:22420001400620": 11,
+      "gas:candidate-vibid:22420001395003": 10,
+      "gas:candidate-vibid:22420001389141": 29,
+      "gas:candidate-vibid:22420001399759": 29,
+      "gas:candidate-vibid:22420001398755": 6,
+      "gas:candidate-vibid:22420001258110": 61,
+      "gas:candidate-vibid:22420001397813": 3,
+      "gas:candidate-vibid:22420001396432": 129
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180011&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180011&type=464",
@@ -279,15 +279,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 27,
-      "Горностаев Александр Сергеевич": 6,
-      "Зберовский Андрей Викторович": 11,
-      "Осипова Татьяна Юрьевна": 18,
-      "Слонов Алексей Павлович": 35,
-      "Тарасов Артем Михайлович": 10,
-      "Титов Сергей Сергеевич": 36,
-      "Шахматов Сергей Александрович": 6,
-      "Швыткин Юрий Николаевич": 126
+      "gas:candidate-vibid:22420001387054": 27,
+      "gas:candidate-vibid:22420001400620": 6,
+      "gas:candidate-vibid:22420001395003": 11,
+      "gas:candidate-vibid:22420001389141": 18,
+      "gas:candidate-vibid:22420001399759": 35,
+      "gas:candidate-vibid:22420001398755": 10,
+      "gas:candidate-vibid:22420001258110": 36,
+      "gas:candidate-vibid:22420001397813": 6,
+      "gas:candidate-vibid:22420001396432": 126
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180011&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180011&type=464",
@@ -338,15 +338,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 15,
-      "Горностаев Александр Сергеевич": 3,
-      "Зберовский Андрей Викторович": 9,
-      "Осипова Татьяна Юрьевна": 18,
-      "Слонов Алексей Павлович": 28,
-      "Тарасов Артем Михайлович": 12,
-      "Титов Сергей Сергеевич": 49,
-      "Шахматов Сергей Александрович": 6,
-      "Швыткин Юрий Николаевич": 138
+      "gas:candidate-vibid:22420001387054": 15,
+      "gas:candidate-vibid:22420001400620": 3,
+      "gas:candidate-vibid:22420001395003": 9,
+      "gas:candidate-vibid:22420001389141": 18,
+      "gas:candidate-vibid:22420001399759": 28,
+      "gas:candidate-vibid:22420001398755": 12,
+      "gas:candidate-vibid:22420001258110": 49,
+      "gas:candidate-vibid:22420001397813": 6,
+      "gas:candidate-vibid:22420001396432": 138
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180011&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180011&type=464",
@@ -397,15 +397,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 13,
-      "Горностаев Александр Сергеевич": 13,
-      "Зберовский Андрей Викторович": 8,
-      "Осипова Татьяна Юрьевна": 25,
-      "Слонов Алексей Павлович": 32,
-      "Тарасов Артем Михайлович": 6,
-      "Титов Сергей Сергеевич": 59,
-      "Шахматов Сергей Александрович": 4,
-      "Швыткин Юрий Николаевич": 146
+      "gas:candidate-vibid:22420001387054": 13,
+      "gas:candidate-vibid:22420001400620": 13,
+      "gas:candidate-vibid:22420001395003": 8,
+      "gas:candidate-vibid:22420001389141": 25,
+      "gas:candidate-vibid:22420001399759": 32,
+      "gas:candidate-vibid:22420001398755": 6,
+      "gas:candidate-vibid:22420001258110": 59,
+      "gas:candidate-vibid:22420001397813": 4,
+      "gas:candidate-vibid:22420001396432": 146
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180011&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180011&type=464",
@@ -456,15 +456,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 6,
-      "Горностаев Александр Сергеевич": 9,
-      "Зберовский Андрей Викторович": 14,
-      "Осипова Татьяна Юрьевна": 14,
-      "Слонов Алексей Павлович": 19,
-      "Тарасов Артем Михайлович": 14,
-      "Титов Сергей Сергеевич": 32,
-      "Шахматов Сергей Александрович": 3,
-      "Швыткин Юрий Николаевич": 114
+      "gas:candidate-vibid:22420001387054": 6,
+      "gas:candidate-vibid:22420001400620": 9,
+      "gas:candidate-vibid:22420001395003": 14,
+      "gas:candidate-vibid:22420001389141": 14,
+      "gas:candidate-vibid:22420001399759": 19,
+      "gas:candidate-vibid:22420001398755": 14,
+      "gas:candidate-vibid:22420001258110": 32,
+      "gas:candidate-vibid:22420001397813": 3,
+      "gas:candidate-vibid:22420001396432": 114
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180011&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180011&type=464",
@@ -515,15 +515,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 4,
-      "Горностаев Александр Сергеевич": 3,
-      "Зберовский Андрей Викторович": 6,
-      "Осипова Татьяна Юрьевна": 7,
-      "Слонов Алексей Павлович": 2,
-      "Тарасов Артем Михайлович": 1,
-      "Титов Сергей Сергеевич": 16,
-      "Шахматов Сергей Александрович": 3,
-      "Швыткин Юрий Николаевич": 32
+      "gas:candidate-vibid:22420001387054": 4,
+      "gas:candidate-vibid:22420001400620": 3,
+      "gas:candidate-vibid:22420001395003": 6,
+      "gas:candidate-vibid:22420001389141": 7,
+      "gas:candidate-vibid:22420001399759": 2,
+      "gas:candidate-vibid:22420001398755": 1,
+      "gas:candidate-vibid:22420001258110": 16,
+      "gas:candidate-vibid:22420001397813": 3,
+      "gas:candidate-vibid:22420001396432": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180011&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180011&type=464",
@@ -574,15 +574,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 6,
-      "Горностаев Александр Сергеевич": 6,
-      "Зберовский Андрей Викторович": 9,
-      "Осипова Татьяна Юрьевна": 13,
-      "Слонов Алексей Павлович": 15,
-      "Тарасов Артем Михайлович": 3,
-      "Титов Сергей Сергеевич": 22,
-      "Шахматов Сергей Александрович": 2,
-      "Швыткин Юрий Николаевич": 103
+      "gas:candidate-vibid:22420001387054": 6,
+      "gas:candidate-vibid:22420001400620": 6,
+      "gas:candidate-vibid:22420001395003": 9,
+      "gas:candidate-vibid:22420001389141": 13,
+      "gas:candidate-vibid:22420001399759": 15,
+      "gas:candidate-vibid:22420001398755": 3,
+      "gas:candidate-vibid:22420001258110": 22,
+      "gas:candidate-vibid:22420001397813": 2,
+      "gas:candidate-vibid:22420001396432": 103
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180011&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180011&type=464",
@@ -633,15 +633,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 15,
-      "Горностаев Александр Сергеевич": 11,
-      "Зберовский Андрей Викторович": 10,
-      "Осипова Татьяна Юрьевна": 21,
-      "Слонов Алексей Павлович": 27,
-      "Тарасов Артем Михайлович": 3,
-      "Титов Сергей Сергеевич": 52,
-      "Шахматов Сергей Александрович": 7,
-      "Швыткин Юрий Николаевич": 121
+      "gas:candidate-vibid:22420001387054": 15,
+      "gas:candidate-vibid:22420001400620": 11,
+      "gas:candidate-vibid:22420001395003": 10,
+      "gas:candidate-vibid:22420001389141": 21,
+      "gas:candidate-vibid:22420001399759": 27,
+      "gas:candidate-vibid:22420001398755": 3,
+      "gas:candidate-vibid:22420001258110": 52,
+      "gas:candidate-vibid:22420001397813": 7,
+      "gas:candidate-vibid:22420001396432": 121
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180011&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180011&type=464",
@@ -692,15 +692,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 11,
-      "Горностаев Александр Сергеевич": 11,
-      "Зберовский Андрей Викторович": 6,
-      "Осипова Татьяна Юрьевна": 16,
-      "Слонов Алексей Павлович": 31,
-      "Тарасов Артем Михайлович": 10,
-      "Титов Сергей Сергеевич": 48,
-      "Шахматов Сергей Александрович": 2,
-      "Швыткин Юрий Николаевич": 147
+      "gas:candidate-vibid:22420001387054": 11,
+      "gas:candidate-vibid:22420001400620": 11,
+      "gas:candidate-vibid:22420001395003": 6,
+      "gas:candidate-vibid:22420001389141": 16,
+      "gas:candidate-vibid:22420001399759": 31,
+      "gas:candidate-vibid:22420001398755": 10,
+      "gas:candidate-vibid:22420001258110": 48,
+      "gas:candidate-vibid:22420001397813": 2,
+      "gas:candidate-vibid:22420001396432": 147
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180011&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180011&type=464",
@@ -751,15 +751,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 24,
-      "Горностаев Александр Сергеевич": 11,
-      "Зберовский Андрей Викторович": 14,
-      "Осипова Татьяна Юрьевна": 18,
-      "Слонов Алексей Павлович": 21,
-      "Тарасов Артем Михайлович": 7,
-      "Титов Сергей Сергеевич": 63,
-      "Шахматов Сергей Александрович": 4,
-      "Швыткин Юрий Николаевич": 181
+      "gas:candidate-vibid:22420001387054": 24,
+      "gas:candidate-vibid:22420001400620": 11,
+      "gas:candidate-vibid:22420001395003": 14,
+      "gas:candidate-vibid:22420001389141": 18,
+      "gas:candidate-vibid:22420001399759": 21,
+      "gas:candidate-vibid:22420001398755": 7,
+      "gas:candidate-vibid:22420001258110": 63,
+      "gas:candidate-vibid:22420001397813": 4,
+      "gas:candidate-vibid:22420001396432": 181
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180011&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180011&type=464",
@@ -810,15 +810,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 29,
-      "Горностаев Александр Сергеевич": 5,
-      "Зберовский Андрей Викторович": 9,
-      "Осипова Татьяна Юрьевна": 20,
-      "Слонов Алексей Павлович": 14,
-      "Тарасов Артем Михайлович": 4,
-      "Титов Сергей Сергеевич": 25,
-      "Шахматов Сергей Александрович": 6,
-      "Швыткин Юрий Николаевич": 169
+      "gas:candidate-vibid:22420001387054": 29,
+      "gas:candidate-vibid:22420001400620": 5,
+      "gas:candidate-vibid:22420001395003": 9,
+      "gas:candidate-vibid:22420001389141": 20,
+      "gas:candidate-vibid:22420001399759": 14,
+      "gas:candidate-vibid:22420001398755": 4,
+      "gas:candidate-vibid:22420001258110": 25,
+      "gas:candidate-vibid:22420001397813": 6,
+      "gas:candidate-vibid:22420001396432": 169
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180011&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180011&type=464",
@@ -869,15 +869,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 0,
-      "Горностаев Александр Сергеевич": 1,
-      "Зберовский Андрей Викторович": 2,
-      "Осипова Татьяна Юрьевна": 3,
-      "Слонов Алексей Павлович": 8,
-      "Тарасов Артем Михайлович": 1,
-      "Титов Сергей Сергеевич": 2,
-      "Шахматов Сергей Александрович": 0,
-      "Швыткин Юрий Николаевич": 26
+      "gas:candidate-vibid:22420001387054": 0,
+      "gas:candidate-vibid:22420001400620": 1,
+      "gas:candidate-vibid:22420001395003": 2,
+      "gas:candidate-vibid:22420001389141": 3,
+      "gas:candidate-vibid:22420001399759": 8,
+      "gas:candidate-vibid:22420001398755": 1,
+      "gas:candidate-vibid:22420001258110": 2,
+      "gas:candidate-vibid:22420001397813": 0,
+      "gas:candidate-vibid:22420001396432": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180011&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180011&type=464",
@@ -928,15 +928,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 1,
-      "Горностаев Александр Сергеевич": 0,
-      "Зберовский Андрей Викторович": 1,
-      "Осипова Татьяна Юрьевна": 7,
-      "Слонов Алексей Павлович": 5,
-      "Тарасов Артем Михайлович": 2,
-      "Титов Сергей Сергеевич": 6,
-      "Шахматов Сергей Александрович": 2,
-      "Швыткин Юрий Николаевич": 29
+      "gas:candidate-vibid:22420001387054": 1,
+      "gas:candidate-vibid:22420001400620": 0,
+      "gas:candidate-vibid:22420001395003": 1,
+      "gas:candidate-vibid:22420001389141": 7,
+      "gas:candidate-vibid:22420001399759": 5,
+      "gas:candidate-vibid:22420001398755": 2,
+      "gas:candidate-vibid:22420001258110": 6,
+      "gas:candidate-vibid:22420001397813": 2,
+      "gas:candidate-vibid:22420001396432": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180011&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180011&type=464",
@@ -987,15 +987,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 4,
-      "Горностаев Александр Сергеевич": 1,
-      "Зберовский Андрей Викторович": 1,
-      "Осипова Татьяна Юрьевна": 6,
-      "Слонов Алексей Павлович": 2,
-      "Тарасов Артем Михайлович": 2,
-      "Титов Сергей Сергеевич": 10,
-      "Шахматов Сергей Александрович": 0,
-      "Швыткин Юрий Николаевич": 21
+      "gas:candidate-vibid:22420001387054": 4,
+      "gas:candidate-vibid:22420001400620": 1,
+      "gas:candidate-vibid:22420001395003": 1,
+      "gas:candidate-vibid:22420001389141": 6,
+      "gas:candidate-vibid:22420001399759": 2,
+      "gas:candidate-vibid:22420001398755": 2,
+      "gas:candidate-vibid:22420001258110": 10,
+      "gas:candidate-vibid:22420001397813": 0,
+      "gas:candidate-vibid:22420001396432": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180011&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180011&type=464",
@@ -1046,15 +1046,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 4,
-      "Горностаев Александр Сергеевич": 4,
-      "Зберовский Андрей Викторович": 6,
-      "Осипова Татьяна Юрьевна": 9,
-      "Слонов Алексей Павлович": 11,
-      "Тарасов Артем Михайлович": 1,
-      "Титов Сергей Сергеевич": 7,
-      "Шахматов Сергей Александрович": 3,
-      "Швыткин Юрий Николаевич": 24
+      "gas:candidate-vibid:22420001387054": 4,
+      "gas:candidate-vibid:22420001400620": 4,
+      "gas:candidate-vibid:22420001395003": 6,
+      "gas:candidate-vibid:22420001389141": 9,
+      "gas:candidate-vibid:22420001399759": 11,
+      "gas:candidate-vibid:22420001398755": 1,
+      "gas:candidate-vibid:22420001258110": 7,
+      "gas:candidate-vibid:22420001397813": 3,
+      "gas:candidate-vibid:22420001396432": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180011&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180011&type=464",
@@ -1105,15 +1105,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 11,
-      "Горностаев Александр Сергеевич": 6,
-      "Зберовский Андрей Викторович": 10,
-      "Осипова Татьяна Юрьевна": 8,
-      "Слонов Алексей Павлович": 18,
-      "Тарасов Артем Михайлович": 7,
-      "Титов Сергей Сергеевич": 36,
-      "Шахматов Сергей Александрович": 11,
-      "Швыткин Юрий Николаевич": 142
+      "gas:candidate-vibid:22420001387054": 11,
+      "gas:candidate-vibid:22420001400620": 6,
+      "gas:candidate-vibid:22420001395003": 10,
+      "gas:candidate-vibid:22420001389141": 8,
+      "gas:candidate-vibid:22420001399759": 18,
+      "gas:candidate-vibid:22420001398755": 7,
+      "gas:candidate-vibid:22420001258110": 36,
+      "gas:candidate-vibid:22420001397813": 11,
+      "gas:candidate-vibid:22420001396432": 142
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180011&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180011&type=464",
@@ -1164,15 +1164,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 0,
-      "Горностаев Александр Сергеевич": 1,
-      "Зберовский Андрей Викторович": 5,
-      "Осипова Татьяна Юрьевна": 1,
-      "Слонов Алексей Павлович": 3,
-      "Тарасов Артем Михайлович": 0,
-      "Титов Сергей Сергеевич": 3,
-      "Шахматов Сергей Александрович": 0,
-      "Швыткин Юрий Николаевич": 22
+      "gas:candidate-vibid:22420001387054": 0,
+      "gas:candidate-vibid:22420001400620": 1,
+      "gas:candidate-vibid:22420001395003": 5,
+      "gas:candidate-vibid:22420001389141": 1,
+      "gas:candidate-vibid:22420001399759": 3,
+      "gas:candidate-vibid:22420001398755": 0,
+      "gas:candidate-vibid:22420001258110": 3,
+      "gas:candidate-vibid:22420001397813": 0,
+      "gas:candidate-vibid:22420001396432": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180011&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180011&type=464",
@@ -1223,15 +1223,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 9,
-      "Горностаев Александр Сергеевич": 0,
-      "Зберовский Андрей Викторович": 2,
-      "Осипова Татьяна Юрьевна": 14,
-      "Слонов Алексей Павлович": 14,
-      "Тарасов Артем Михайлович": 1,
-      "Титов Сергей Сергеевич": 10,
-      "Шахматов Сергей Александрович": 1,
-      "Швыткин Юрий Николаевич": 50
+      "gas:candidate-vibid:22420001387054": 9,
+      "gas:candidate-vibid:22420001400620": 0,
+      "gas:candidate-vibid:22420001395003": 2,
+      "gas:candidate-vibid:22420001389141": 14,
+      "gas:candidate-vibid:22420001399759": 14,
+      "gas:candidate-vibid:22420001398755": 1,
+      "gas:candidate-vibid:22420001258110": 10,
+      "gas:candidate-vibid:22420001397813": 1,
+      "gas:candidate-vibid:22420001396432": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180011&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180011&type=464",
@@ -1282,15 +1282,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 7,
-      "Горностаев Александр Сергеевич": 4,
-      "Зберовский Андрей Викторович": 2,
-      "Осипова Татьяна Юрьевна": 11,
-      "Слонов Алексей Павлович": 18,
-      "Тарасов Артем Михайлович": 6,
-      "Титов Сергей Сергеевич": 20,
-      "Шахматов Сергей Александрович": 2,
-      "Швыткин Юрий Николаевич": 119
+      "gas:candidate-vibid:22420001387054": 7,
+      "gas:candidate-vibid:22420001400620": 4,
+      "gas:candidate-vibid:22420001395003": 2,
+      "gas:candidate-vibid:22420001389141": 11,
+      "gas:candidate-vibid:22420001399759": 18,
+      "gas:candidate-vibid:22420001398755": 6,
+      "gas:candidate-vibid:22420001258110": 20,
+      "gas:candidate-vibid:22420001397813": 2,
+      "gas:candidate-vibid:22420001396432": 119
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180011&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180011&type=464",
@@ -1341,15 +1341,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 1,
-      "Горностаев Александр Сергеевич": 1,
-      "Зберовский Андрей Викторович": 2,
-      "Осипова Татьяна Юрьевна": 3,
-      "Слонов Алексей Павлович": 5,
-      "Тарасов Артем Михайлович": 1,
-      "Титов Сергей Сергеевич": 2,
-      "Шахматов Сергей Александрович": 0,
-      "Швыткин Юрий Николаевич": 18
+      "gas:candidate-vibid:22420001387054": 1,
+      "gas:candidate-vibid:22420001400620": 1,
+      "gas:candidate-vibid:22420001395003": 2,
+      "gas:candidate-vibid:22420001389141": 3,
+      "gas:candidate-vibid:22420001399759": 5,
+      "gas:candidate-vibid:22420001398755": 1,
+      "gas:candidate-vibid:22420001258110": 2,
+      "gas:candidate-vibid:22420001397813": 0,
+      "gas:candidate-vibid:22420001396432": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180011&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180011&type=464",
@@ -1400,15 +1400,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 1,
-      "Горностаев Александр Сергеевич": 4,
-      "Зберовский Андрей Викторович": 4,
-      "Осипова Татьяна Юрьевна": 7,
-      "Слонов Алексей Павлович": 8,
-      "Тарасов Артем Михайлович": 1,
-      "Титов Сергей Сергеевич": 4,
-      "Шахматов Сергей Александрович": 1,
-      "Швыткин Юрий Николаевич": 35
+      "gas:candidate-vibid:22420001387054": 1,
+      "gas:candidate-vibid:22420001400620": 4,
+      "gas:candidate-vibid:22420001395003": 4,
+      "gas:candidate-vibid:22420001389141": 7,
+      "gas:candidate-vibid:22420001399759": 8,
+      "gas:candidate-vibid:22420001398755": 1,
+      "gas:candidate-vibid:22420001258110": 4,
+      "gas:candidate-vibid:22420001397813": 1,
+      "gas:candidate-vibid:22420001396432": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180011&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180011&type=464",
@@ -1459,15 +1459,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 4,
-      "Горностаев Александр Сергеевич": 2,
-      "Зберовский Андрей Викторович": 4,
-      "Осипова Татьяна Юрьевна": 7,
-      "Слонов Алексей Павлович": 8,
-      "Тарасов Артем Михайлович": 1,
-      "Титов Сергей Сергеевич": 13,
-      "Шахматов Сергей Александрович": 3,
-      "Швыткин Юрий Николаевич": 47
+      "gas:candidate-vibid:22420001387054": 4,
+      "gas:candidate-vibid:22420001400620": 2,
+      "gas:candidate-vibid:22420001395003": 4,
+      "gas:candidate-vibid:22420001389141": 7,
+      "gas:candidate-vibid:22420001399759": 8,
+      "gas:candidate-vibid:22420001398755": 1,
+      "gas:candidate-vibid:22420001258110": 13,
+      "gas:candidate-vibid:22420001397813": 3,
+      "gas:candidate-vibid:22420001396432": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180011&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180011&type=464",
@@ -1518,15 +1518,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 3,
-      "Горностаев Александр Сергеевич": 0,
-      "Зберовский Андрей Викторович": 1,
-      "Осипова Татьяна Юрьевна": 0,
-      "Слонов Алексей Павлович": 2,
-      "Тарасов Артем Михайлович": 0,
-      "Титов Сергей Сергеевич": 4,
-      "Шахматов Сергей Александрович": 0,
-      "Швыткин Юрий Николаевич": 82
+      "gas:candidate-vibid:22420001387054": 3,
+      "gas:candidate-vibid:22420001400620": 0,
+      "gas:candidate-vibid:22420001395003": 1,
+      "gas:candidate-vibid:22420001389141": 0,
+      "gas:candidate-vibid:22420001399759": 2,
+      "gas:candidate-vibid:22420001398755": 0,
+      "gas:candidate-vibid:22420001258110": 4,
+      "gas:candidate-vibid:22420001397813": 0,
+      "gas:candidate-vibid:22420001396432": 82
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180011&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180011&type=464",
@@ -1577,15 +1577,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 20,
-      "Горностаев Александр Сергеевич": 7,
-      "Зберовский Андрей Викторович": 9,
-      "Осипова Татьяна Юрьевна": 23,
-      "Слонов Алексей Павлович": 30,
-      "Тарасов Артем Михайлович": 3,
-      "Титов Сергей Сергеевич": 33,
-      "Шахматов Сергей Александрович": 8,
-      "Швыткин Юрий Николаевич": 85
+      "gas:candidate-vibid:22420001387054": 20,
+      "gas:candidate-vibid:22420001400620": 7,
+      "gas:candidate-vibid:22420001395003": 9,
+      "gas:candidate-vibid:22420001389141": 23,
+      "gas:candidate-vibid:22420001399759": 30,
+      "gas:candidate-vibid:22420001398755": 3,
+      "gas:candidate-vibid:22420001258110": 33,
+      "gas:candidate-vibid:22420001397813": 8,
+      "gas:candidate-vibid:22420001396432": 85
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180011&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180011&type=464",
@@ -1636,15 +1636,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 6,
-      "Горностаев Александр Сергеевич": 2,
-      "Зберовский Андрей Викторович": 6,
-      "Осипова Татьяна Юрьевна": 2,
-      "Слонов Алексей Павлович": 4,
-      "Тарасов Артем Михайлович": 2,
-      "Титов Сергей Сергеевич": 15,
-      "Шахматов Сергей Александрович": 0,
-      "Швыткин Юрий Николаевич": 18
+      "gas:candidate-vibid:22420001387054": 6,
+      "gas:candidate-vibid:22420001400620": 2,
+      "gas:candidate-vibid:22420001395003": 6,
+      "gas:candidate-vibid:22420001389141": 2,
+      "gas:candidate-vibid:22420001399759": 4,
+      "gas:candidate-vibid:22420001398755": 2,
+      "gas:candidate-vibid:22420001258110": 15,
+      "gas:candidate-vibid:22420001397813": 0,
+      "gas:candidate-vibid:22420001396432": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180011&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180011&type=464",
@@ -1695,15 +1695,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 7,
-      "Горностаев Александр Сергеевич": 3,
-      "Зберовский Андрей Викторович": 6,
-      "Осипова Татьяна Юрьевна": 11,
-      "Слонов Алексей Павлович": 6,
-      "Тарасов Артем Михайлович": 2,
-      "Титов Сергей Сергеевич": 25,
-      "Шахматов Сергей Александрович": 2,
-      "Швыткин Юрий Николаевич": 52
+      "gas:candidate-vibid:22420001387054": 7,
+      "gas:candidate-vibid:22420001400620": 3,
+      "gas:candidate-vibid:22420001395003": 6,
+      "gas:candidate-vibid:22420001389141": 11,
+      "gas:candidate-vibid:22420001399759": 6,
+      "gas:candidate-vibid:22420001398755": 2,
+      "gas:candidate-vibid:22420001258110": 25,
+      "gas:candidate-vibid:22420001397813": 2,
+      "gas:candidate-vibid:22420001396432": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180011&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180011&type=464",
@@ -1754,15 +1754,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 15,
-      "Горностаев Александр Сергеевич": 23,
-      "Зберовский Андрей Викторович": 7,
-      "Осипова Татьяна Юрьевна": 17,
-      "Слонов Алексей Павлович": 24,
-      "Тарасов Артем Михайлович": 6,
-      "Титов Сергей Сергеевич": 70,
-      "Шахматов Сергей Александрович": 7,
-      "Швыткин Юрий Николаевич": 126
+      "gas:candidate-vibid:22420001387054": 15,
+      "gas:candidate-vibid:22420001400620": 23,
+      "gas:candidate-vibid:22420001395003": 7,
+      "gas:candidate-vibid:22420001389141": 17,
+      "gas:candidate-vibid:22420001399759": 24,
+      "gas:candidate-vibid:22420001398755": 6,
+      "gas:candidate-vibid:22420001258110": 70,
+      "gas:candidate-vibid:22420001397813": 7,
+      "gas:candidate-vibid:22420001396432": 126
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180011&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180011&type=464",
@@ -1813,15 +1813,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 8,
-      "Горностаев Александр Сергеевич": 3,
-      "Зберовский Андрей Викторович": 10,
-      "Осипова Татьяна Юрьевна": 14,
-      "Слонов Алексей Павлович": 7,
-      "Тарасов Артем Михайлович": 6,
-      "Титов Сергей Сергеевич": 23,
-      "Шахматов Сергей Александрович": 2,
-      "Швыткин Юрий Николаевич": 76
+      "gas:candidate-vibid:22420001387054": 8,
+      "gas:candidate-vibid:22420001400620": 3,
+      "gas:candidate-vibid:22420001395003": 10,
+      "gas:candidate-vibid:22420001389141": 14,
+      "gas:candidate-vibid:22420001399759": 7,
+      "gas:candidate-vibid:22420001398755": 6,
+      "gas:candidate-vibid:22420001258110": 23,
+      "gas:candidate-vibid:22420001397813": 2,
+      "gas:candidate-vibid:22420001396432": 76
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180011&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180011&type=464",
@@ -1872,15 +1872,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 2,
-      "Горностаев Александр Сергеевич": 2,
-      "Зберовский Андрей Викторович": 1,
-      "Осипова Татьяна Юрьевна": 5,
-      "Слонов Алексей Павлович": 7,
-      "Тарасов Артем Михайлович": 1,
-      "Титов Сергей Сергеевич": 2,
-      "Шахматов Сергей Александрович": 3,
-      "Швыткин Юрий Николаевич": 20
+      "gas:candidate-vibid:22420001387054": 2,
+      "gas:candidate-vibid:22420001400620": 2,
+      "gas:candidate-vibid:22420001395003": 1,
+      "gas:candidate-vibid:22420001389141": 5,
+      "gas:candidate-vibid:22420001399759": 7,
+      "gas:candidate-vibid:22420001398755": 1,
+      "gas:candidate-vibid:22420001258110": 2,
+      "gas:candidate-vibid:22420001397813": 3,
+      "gas:candidate-vibid:22420001396432": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180011&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180011&type=464",
@@ -1931,15 +1931,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 8,
-      "Горностаев Александр Сергеевич": 4,
-      "Зберовский Андрей Викторович": 6,
-      "Осипова Татьяна Юрьевна": 9,
-      "Слонов Алексей Павлович": 9,
-      "Тарасов Артем Михайлович": 4,
-      "Титов Сергей Сергеевич": 16,
-      "Шахматов Сергей Александрович": 3,
-      "Швыткин Юрий Николаевич": 93
+      "gas:candidate-vibid:22420001387054": 8,
+      "gas:candidate-vibid:22420001400620": 4,
+      "gas:candidate-vibid:22420001395003": 6,
+      "gas:candidate-vibid:22420001389141": 9,
+      "gas:candidate-vibid:22420001399759": 9,
+      "gas:candidate-vibid:22420001398755": 4,
+      "gas:candidate-vibid:22420001258110": 16,
+      "gas:candidate-vibid:22420001397813": 3,
+      "gas:candidate-vibid:22420001396432": 93
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180011&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180011&type=464",
@@ -1990,15 +1990,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 23,
-      "Горностаев Александр Сергеевич": 16,
-      "Зберовский Андрей Викторович": 12,
-      "Осипова Татьяна Юрьевна": 39,
-      "Слонов Алексей Павлович": 59,
-      "Тарасов Артем Михайлович": 11,
-      "Титов Сергей Сергеевич": 106,
-      "Шахматов Сергей Александрович": 8,
-      "Швыткин Юрий Николаевич": 264
+      "gas:candidate-vibid:22420001387054": 23,
+      "gas:candidate-vibid:22420001400620": 16,
+      "gas:candidate-vibid:22420001395003": 12,
+      "gas:candidate-vibid:22420001389141": 39,
+      "gas:candidate-vibid:22420001399759": 59,
+      "gas:candidate-vibid:22420001398755": 11,
+      "gas:candidate-vibid:22420001258110": 106,
+      "gas:candidate-vibid:22420001397813": 8,
+      "gas:candidate-vibid:22420001396432": 264
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180012&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180012&type=464",
@@ -2049,15 +2049,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 24,
-      "Горностаев Александр Сергеевич": 14,
-      "Зберовский Андрей Викторович": 25,
-      "Осипова Татьяна Юрьевна": 30,
-      "Слонов Алексей Павлович": 55,
-      "Тарасов Артем Михайлович": 10,
-      "Титов Сергей Сергеевич": 130,
-      "Шахматов Сергей Александрович": 7,
-      "Швыткин Юрий Николаевич": 216
+      "gas:candidate-vibid:22420001387054": 24,
+      "gas:candidate-vibid:22420001400620": 14,
+      "gas:candidate-vibid:22420001395003": 25,
+      "gas:candidate-vibid:22420001389141": 30,
+      "gas:candidate-vibid:22420001399759": 55,
+      "gas:candidate-vibid:22420001398755": 10,
+      "gas:candidate-vibid:22420001258110": 130,
+      "gas:candidate-vibid:22420001397813": 7,
+      "gas:candidate-vibid:22420001396432": 216
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180012&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180012&type=464",
@@ -2108,15 +2108,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 17,
-      "Горностаев Александр Сергеевич": 17,
-      "Зберовский Андрей Викторович": 30,
-      "Осипова Татьяна Юрьевна": 36,
-      "Слонов Алексей Павлович": 53,
-      "Тарасов Артем Михайлович": 15,
-      "Титов Сергей Сергеевич": 141,
-      "Шахматов Сергей Александрович": 8,
-      "Швыткин Юрий Николаевич": 312
+      "gas:candidate-vibid:22420001387054": 17,
+      "gas:candidate-vibid:22420001400620": 17,
+      "gas:candidate-vibid:22420001395003": 30,
+      "gas:candidate-vibid:22420001389141": 36,
+      "gas:candidate-vibid:22420001399759": 53,
+      "gas:candidate-vibid:22420001398755": 15,
+      "gas:candidate-vibid:22420001258110": 141,
+      "gas:candidate-vibid:22420001397813": 8,
+      "gas:candidate-vibid:22420001396432": 312
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180012&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180012&type=464",
@@ -2167,15 +2167,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 0,
-      "Горностаев Александр Сергеевич": 1,
-      "Зберовский Андрей Викторович": 1,
-      "Осипова Татьяна Юрьевна": 9,
-      "Слонов Алексей Павлович": 6,
-      "Тарасов Артем Михайлович": 1,
-      "Титов Сергей Сергеевич": 4,
-      "Шахматов Сергей Александрович": 2,
-      "Швыткин Юрий Николаевич": 48
+      "gas:candidate-vibid:22420001387054": 0,
+      "gas:candidate-vibid:22420001400620": 1,
+      "gas:candidate-vibid:22420001395003": 1,
+      "gas:candidate-vibid:22420001389141": 9,
+      "gas:candidate-vibid:22420001399759": 6,
+      "gas:candidate-vibid:22420001398755": 1,
+      "gas:candidate-vibid:22420001258110": 4,
+      "gas:candidate-vibid:22420001397813": 2,
+      "gas:candidate-vibid:22420001396432": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180012&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180012&type=464",
@@ -2226,15 +2226,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 8,
-      "Горностаев Александр Сергеевич": 0,
-      "Зберовский Андрей Викторович": 3,
-      "Осипова Татьяна Юрьевна": 6,
-      "Слонов Алексей Павлович": 6,
-      "Тарасов Артем Михайлович": 1,
-      "Титов Сергей Сергеевич": 22,
-      "Шахматов Сергей Александрович": 1,
-      "Швыткин Юрий Николаевич": 46
+      "gas:candidate-vibid:22420001387054": 8,
+      "gas:candidate-vibid:22420001400620": 0,
+      "gas:candidate-vibid:22420001395003": 3,
+      "gas:candidate-vibid:22420001389141": 6,
+      "gas:candidate-vibid:22420001399759": 6,
+      "gas:candidate-vibid:22420001398755": 1,
+      "gas:candidate-vibid:22420001258110": 22,
+      "gas:candidate-vibid:22420001397813": 1,
+      "gas:candidate-vibid:22420001396432": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180012&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180012&type=464",
@@ -2285,15 +2285,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 2,
-      "Горностаев Александр Сергеевич": 5,
-      "Зберовский Андрей Викторович": 4,
-      "Осипова Татьяна Юрьевна": 9,
-      "Слонов Алексей Павлович": 16,
-      "Тарасов Артем Михайлович": 1,
-      "Титов Сергей Сергеевич": 22,
-      "Шахматов Сергей Александрович": 1,
-      "Швыткин Юрий Николаевич": 71
+      "gas:candidate-vibid:22420001387054": 2,
+      "gas:candidate-vibid:22420001400620": 5,
+      "gas:candidate-vibid:22420001395003": 4,
+      "gas:candidate-vibid:22420001389141": 9,
+      "gas:candidate-vibid:22420001399759": 16,
+      "gas:candidate-vibid:22420001398755": 1,
+      "gas:candidate-vibid:22420001258110": 22,
+      "gas:candidate-vibid:22420001397813": 1,
+      "gas:candidate-vibid:22420001396432": 71
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180012&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180012&type=464",
@@ -2344,15 +2344,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 3,
-      "Горностаев Александр Сергеевич": 2,
-      "Зберовский Андрей Викторович": 5,
-      "Осипова Татьяна Юрьевна": 10,
-      "Слонов Алексей Павлович": 8,
-      "Тарасов Артем Михайлович": 0,
-      "Титов Сергей Сергеевич": 29,
-      "Шахматов Сергей Александрович": 3,
-      "Швыткин Юрий Николаевич": 65
+      "gas:candidate-vibid:22420001387054": 3,
+      "gas:candidate-vibid:22420001400620": 2,
+      "gas:candidate-vibid:22420001395003": 5,
+      "gas:candidate-vibid:22420001389141": 10,
+      "gas:candidate-vibid:22420001399759": 8,
+      "gas:candidate-vibid:22420001398755": 0,
+      "gas:candidate-vibid:22420001258110": 29,
+      "gas:candidate-vibid:22420001397813": 3,
+      "gas:candidate-vibid:22420001396432": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180012&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180012&type=464",
@@ -2403,15 +2403,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 13,
-      "Горностаев Александр Сергеевич": 8,
-      "Зберовский Андрей Викторович": 9,
-      "Осипова Татьяна Юрьевна": 23,
-      "Слонов Алексей Павлович": 16,
-      "Тарасов Артем Михайлович": 5,
-      "Титов Сергей Сергеевич": 35,
-      "Шахматов Сергей Александрович": 6,
-      "Швыткин Юрий Николаевич": 134
+      "gas:candidate-vibid:22420001387054": 13,
+      "gas:candidate-vibid:22420001400620": 8,
+      "gas:candidate-vibid:22420001395003": 9,
+      "gas:candidate-vibid:22420001389141": 23,
+      "gas:candidate-vibid:22420001399759": 16,
+      "gas:candidate-vibid:22420001398755": 5,
+      "gas:candidate-vibid:22420001258110": 35,
+      "gas:candidate-vibid:22420001397813": 6,
+      "gas:candidate-vibid:22420001396432": 134
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180012&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180012&type=464",
@@ -2462,15 +2462,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 4,
-      "Горностаев Александр Сергеевич": 2,
-      "Зберовский Андрей Викторович": 5,
-      "Осипова Татьяна Юрьевна": 8,
-      "Слонов Алексей Павлович": 11,
-      "Тарасов Артем Михайлович": 3,
-      "Титов Сергей Сергеевич": 28,
-      "Шахматов Сергей Александрович": 3,
-      "Швыткин Юрий Николаевич": 86
+      "gas:candidate-vibid:22420001387054": 4,
+      "gas:candidate-vibid:22420001400620": 2,
+      "gas:candidate-vibid:22420001395003": 5,
+      "gas:candidate-vibid:22420001389141": 8,
+      "gas:candidate-vibid:22420001399759": 11,
+      "gas:candidate-vibid:22420001398755": 3,
+      "gas:candidate-vibid:22420001258110": 28,
+      "gas:candidate-vibid:22420001397813": 3,
+      "gas:candidate-vibid:22420001396432": 86
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180012&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180012&type=464",
@@ -2521,15 +2521,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 1,
-      "Горностаев Александр Сергеевич": 0,
-      "Зберовский Андрей Викторович": 2,
-      "Осипова Татьяна Юрьевна": 1,
-      "Слонов Алексей Павлович": 2,
-      "Тарасов Артем Михайлович": 1,
-      "Титов Сергей Сергеевич": 14,
-      "Шахматов Сергей Александрович": 0,
-      "Швыткин Юрий Николаевич": 13
+      "gas:candidate-vibid:22420001387054": 1,
+      "gas:candidate-vibid:22420001400620": 0,
+      "gas:candidate-vibid:22420001395003": 2,
+      "gas:candidate-vibid:22420001389141": 1,
+      "gas:candidate-vibid:22420001399759": 2,
+      "gas:candidate-vibid:22420001398755": 1,
+      "gas:candidate-vibid:22420001258110": 14,
+      "gas:candidate-vibid:22420001397813": 0,
+      "gas:candidate-vibid:22420001396432": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180012&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180012&type=464",
@@ -2580,15 +2580,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 12,
-      "Горностаев Александр Сергеевич": 6,
-      "Зберовский Андрей Викторович": 9,
-      "Осипова Татьяна Юрьевна": 11,
-      "Слонов Алексей Павлович": 19,
-      "Тарасов Артем Михайлович": 1,
-      "Титов Сергей Сергеевич": 19,
-      "Шахматов Сергей Александрович": 1,
-      "Швыткин Юрий Николаевич": 104
+      "gas:candidate-vibid:22420001387054": 12,
+      "gas:candidate-vibid:22420001400620": 6,
+      "gas:candidate-vibid:22420001395003": 9,
+      "gas:candidate-vibid:22420001389141": 11,
+      "gas:candidate-vibid:22420001399759": 19,
+      "gas:candidate-vibid:22420001398755": 1,
+      "gas:candidate-vibid:22420001258110": 19,
+      "gas:candidate-vibid:22420001397813": 1,
+      "gas:candidate-vibid:22420001396432": 104
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180012&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180012&type=464",
@@ -2639,15 +2639,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 4,
-      "Горностаев Александр Сергеевич": 2,
-      "Зберовский Андрей Викторович": 3,
-      "Осипова Татьяна Юрьевна": 5,
-      "Слонов Алексей Павлович": 8,
-      "Тарасов Артем Михайлович": 2,
-      "Титов Сергей Сергеевич": 14,
-      "Шахматов Сергей Александрович": 1,
-      "Швыткин Юрий Николаевич": 22
+      "gas:candidate-vibid:22420001387054": 4,
+      "gas:candidate-vibid:22420001400620": 2,
+      "gas:candidate-vibid:22420001395003": 3,
+      "gas:candidate-vibid:22420001389141": 5,
+      "gas:candidate-vibid:22420001399759": 8,
+      "gas:candidate-vibid:22420001398755": 2,
+      "gas:candidate-vibid:22420001258110": 14,
+      "gas:candidate-vibid:22420001397813": 1,
+      "gas:candidate-vibid:22420001396432": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180012&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180012&type=464",
@@ -2698,15 +2698,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 5,
-      "Горностаев Александр Сергеевич": 0,
-      "Зберовский Андрей Викторович": 2,
-      "Осипова Татьяна Юрьевна": 4,
-      "Слонов Алексей Павлович": 4,
-      "Тарасов Артем Михайлович": 3,
-      "Титов Сергей Сергеевич": 14,
-      "Шахматов Сергей Александрович": 2,
-      "Швыткин Юрий Николаевич": 63
+      "gas:candidate-vibid:22420001387054": 5,
+      "gas:candidate-vibid:22420001400620": 0,
+      "gas:candidate-vibid:22420001395003": 2,
+      "gas:candidate-vibid:22420001389141": 4,
+      "gas:candidate-vibid:22420001399759": 4,
+      "gas:candidate-vibid:22420001398755": 3,
+      "gas:candidate-vibid:22420001258110": 14,
+      "gas:candidate-vibid:22420001397813": 2,
+      "gas:candidate-vibid:22420001396432": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180012&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180012&type=464",
@@ -2757,15 +2757,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 8,
-      "Горностаев Александр Сергеевич": 0,
-      "Зберовский Андрей Викторович": 4,
-      "Осипова Татьяна Юрьевна": 15,
-      "Слонов Алексей Павлович": 8,
-      "Тарасов Артем Михайлович": 4,
-      "Титов Сергей Сергеевич": 40,
-      "Шахматов Сергей Александрович": 1,
-      "Швыткин Юрий Николаевич": 48
+      "gas:candidate-vibid:22420001387054": 8,
+      "gas:candidate-vibid:22420001400620": 0,
+      "gas:candidate-vibid:22420001395003": 4,
+      "gas:candidate-vibid:22420001389141": 15,
+      "gas:candidate-vibid:22420001399759": 8,
+      "gas:candidate-vibid:22420001398755": 4,
+      "gas:candidate-vibid:22420001258110": 40,
+      "gas:candidate-vibid:22420001397813": 1,
+      "gas:candidate-vibid:22420001396432": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180012&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180012&type=464",
@@ -2816,15 +2816,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 10,
-      "Горностаев Александр Сергеевич": 4,
-      "Зберовский Андрей Викторович": 4,
-      "Осипова Татьяна Юрьевна": 14,
-      "Слонов Алексей Павлович": 22,
-      "Тарасов Артем Михайлович": 2,
-      "Титов Сергей Сергеевич": 48,
-      "Шахматов Сергей Александрович": 1,
-      "Швыткин Юрий Николаевич": 192
+      "gas:candidate-vibid:22420001387054": 10,
+      "gas:candidate-vibid:22420001400620": 4,
+      "gas:candidate-vibid:22420001395003": 4,
+      "gas:candidate-vibid:22420001389141": 14,
+      "gas:candidate-vibid:22420001399759": 22,
+      "gas:candidate-vibid:22420001398755": 2,
+      "gas:candidate-vibid:22420001258110": 48,
+      "gas:candidate-vibid:22420001397813": 1,
+      "gas:candidate-vibid:22420001396432": 192
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180012&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180012&type=464",
@@ -2875,15 +2875,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 2,
-      "Горностаев Александр Сергеевич": 3,
-      "Зберовский Андрей Викторович": 3,
-      "Осипова Татьяна Юрьевна": 5,
-      "Слонов Алексей Павлович": 8,
-      "Тарасов Артем Михайлович": 2,
-      "Титов Сергей Сергеевич": 24,
-      "Шахматов Сергей Александрович": 1,
-      "Швыткин Юрий Николаевич": 64
+      "gas:candidate-vibid:22420001387054": 2,
+      "gas:candidate-vibid:22420001400620": 3,
+      "gas:candidate-vibid:22420001395003": 3,
+      "gas:candidate-vibid:22420001389141": 5,
+      "gas:candidate-vibid:22420001399759": 8,
+      "gas:candidate-vibid:22420001398755": 2,
+      "gas:candidate-vibid:22420001258110": 24,
+      "gas:candidate-vibid:22420001397813": 1,
+      "gas:candidate-vibid:22420001396432": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180012&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180012&type=464",
@@ -2934,15 +2934,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 6,
-      "Горностаев Александр Сергеевич": 5,
-      "Зберовский Андрей Викторович": 6,
-      "Осипова Татьяна Юрьевна": 8,
-      "Слонов Алексей Павлович": 14,
-      "Тарасов Артем Михайлович": 8,
-      "Титов Сергей Сергеевич": 42,
-      "Шахматов Сергей Александрович": 9,
-      "Швыткин Юрий Николаевич": 104
+      "gas:candidate-vibid:22420001387054": 6,
+      "gas:candidate-vibid:22420001400620": 5,
+      "gas:candidate-vibid:22420001395003": 6,
+      "gas:candidate-vibid:22420001389141": 8,
+      "gas:candidate-vibid:22420001399759": 14,
+      "gas:candidate-vibid:22420001398755": 8,
+      "gas:candidate-vibid:22420001258110": 42,
+      "gas:candidate-vibid:22420001397813": 9,
+      "gas:candidate-vibid:22420001396432": 104
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180012&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180012&type=464",
@@ -2993,15 +2993,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 6,
-      "Горностаев Александр Сергеевич": 3,
-      "Зберовский Андрей Викторович": 4,
-      "Осипова Татьяна Юрьевна": 10,
-      "Слонов Алексей Павлович": 10,
-      "Тарасов Артем Михайлович": 1,
-      "Титов Сергей Сергеевич": 17,
-      "Шахматов Сергей Александрович": 0,
-      "Швыткин Юрий Николаевич": 51
+      "gas:candidate-vibid:22420001387054": 6,
+      "gas:candidate-vibid:22420001400620": 3,
+      "gas:candidate-vibid:22420001395003": 4,
+      "gas:candidate-vibid:22420001389141": 10,
+      "gas:candidate-vibid:22420001399759": 10,
+      "gas:candidate-vibid:22420001398755": 1,
+      "gas:candidate-vibid:22420001258110": 17,
+      "gas:candidate-vibid:22420001397813": 0,
+      "gas:candidate-vibid:22420001396432": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180012&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180012&type=464",
@@ -3052,15 +3052,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 0,
-      "Горностаев Александр Сергеевич": 0,
-      "Зберовский Андрей Викторович": 2,
-      "Осипова Татьяна Юрьевна": 0,
-      "Слонов Алексей Павлович": 2,
-      "Тарасов Артем Михайлович": 1,
-      "Титов Сергей Сергеевич": 4,
-      "Шахматов Сергей Александрович": 0,
-      "Швыткин Юрий Николаевич": 17
+      "gas:candidate-vibid:22420001387054": 0,
+      "gas:candidate-vibid:22420001400620": 0,
+      "gas:candidate-vibid:22420001395003": 2,
+      "gas:candidate-vibid:22420001389141": 0,
+      "gas:candidate-vibid:22420001399759": 2,
+      "gas:candidate-vibid:22420001398755": 1,
+      "gas:candidate-vibid:22420001258110": 4,
+      "gas:candidate-vibid:22420001397813": 0,
+      "gas:candidate-vibid:22420001396432": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180012&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180012&type=464",
@@ -3111,15 +3111,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 3,
-      "Горностаев Александр Сергеевич": 6,
-      "Зберовский Андрей Викторович": 3,
-      "Осипова Татьяна Юрьевна": 14,
-      "Слонов Алексей Павлович": 14,
-      "Тарасов Артем Михайлович": 1,
-      "Титов Сергей Сергеевич": 26,
-      "Шахматов Сергей Александрович": 1,
-      "Швыткин Юрий Николаевич": 73
+      "gas:candidate-vibid:22420001387054": 3,
+      "gas:candidate-vibid:22420001400620": 6,
+      "gas:candidate-vibid:22420001395003": 3,
+      "gas:candidate-vibid:22420001389141": 14,
+      "gas:candidate-vibid:22420001399759": 14,
+      "gas:candidate-vibid:22420001398755": 1,
+      "gas:candidate-vibid:22420001258110": 26,
+      "gas:candidate-vibid:22420001397813": 1,
+      "gas:candidate-vibid:22420001396432": 73
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180012&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180012&type=464",
@@ -3170,15 +3170,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 5,
-      "Горностаев Александр Сергеевич": 2,
-      "Зберовский Андрей Викторович": 2,
-      "Осипова Татьяна Юрьевна": 8,
-      "Слонов Алексей Павлович": 6,
-      "Тарасов Артем Михайлович": 3,
-      "Титов Сергей Сергеевич": 17,
-      "Шахматов Сергей Александрович": 0,
-      "Швыткин Юрий Николаевич": 23
+      "gas:candidate-vibid:22420001387054": 5,
+      "gas:candidate-vibid:22420001400620": 2,
+      "gas:candidate-vibid:22420001395003": 2,
+      "gas:candidate-vibid:22420001389141": 8,
+      "gas:candidate-vibid:22420001399759": 6,
+      "gas:candidate-vibid:22420001398755": 3,
+      "gas:candidate-vibid:22420001258110": 17,
+      "gas:candidate-vibid:22420001397813": 0,
+      "gas:candidate-vibid:22420001396432": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180012&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180012&type=464",
@@ -3229,15 +3229,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 24,
-      "Горностаев Александр Сергеевич": 19,
-      "Зберовский Андрей Викторович": 38,
-      "Осипова Татьяна Юрьевна": 34,
-      "Слонов Алексей Павлович": 50,
-      "Тарасов Артем Михайлович": 20,
-      "Титов Сергей Сергеевич": 133,
-      "Шахматов Сергей Александрович": 3,
-      "Швыткин Юрий Николаевич": 201
+      "gas:candidate-vibid:22420001387054": 24,
+      "gas:candidate-vibid:22420001400620": 19,
+      "gas:candidate-vibid:22420001395003": 38,
+      "gas:candidate-vibid:22420001389141": 34,
+      "gas:candidate-vibid:22420001399759": 50,
+      "gas:candidate-vibid:22420001398755": 20,
+      "gas:candidate-vibid:22420001258110": 133,
+      "gas:candidate-vibid:22420001397813": 3,
+      "gas:candidate-vibid:22420001396432": 201
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180013&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180013&type=464",
@@ -3288,15 +3288,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 13,
-      "Горностаев Александр Сергеевич": 22,
-      "Зберовский Андрей Викторович": 20,
-      "Осипова Татьяна Юрьевна": 30,
-      "Слонов Алексей Павлович": 63,
-      "Тарасов Артем Михайлович": 11,
-      "Титов Сергей Сергеевич": 106,
-      "Шахматов Сергей Александрович": 7,
-      "Швыткин Юрий Николаевич": 201
+      "gas:candidate-vibid:22420001387054": 13,
+      "gas:candidate-vibid:22420001400620": 22,
+      "gas:candidate-vibid:22420001395003": 20,
+      "gas:candidate-vibid:22420001389141": 30,
+      "gas:candidate-vibid:22420001399759": 63,
+      "gas:candidate-vibid:22420001398755": 11,
+      "gas:candidate-vibid:22420001258110": 106,
+      "gas:candidate-vibid:22420001397813": 7,
+      "gas:candidate-vibid:22420001396432": 201
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180013&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180013&type=464",
@@ -3347,15 +3347,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 24,
-      "Горностаев Александр Сергеевич": 16,
-      "Зберовский Андрей Викторович": 36,
-      "Осипова Татьяна Юрьевна": 30,
-      "Слонов Алексей Павлович": 70,
-      "Тарасов Артем Михайлович": 18,
-      "Титов Сергей Сергеевич": 82,
-      "Шахматов Сергей Александрович": 5,
-      "Швыткин Юрий Николаевич": 233
+      "gas:candidate-vibid:22420001387054": 24,
+      "gas:candidate-vibid:22420001400620": 16,
+      "gas:candidate-vibid:22420001395003": 36,
+      "gas:candidate-vibid:22420001389141": 30,
+      "gas:candidate-vibid:22420001399759": 70,
+      "gas:candidate-vibid:22420001398755": 18,
+      "gas:candidate-vibid:22420001258110": 82,
+      "gas:candidate-vibid:22420001397813": 5,
+      "gas:candidate-vibid:22420001396432": 233
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180013&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180013&type=464",
@@ -3406,15 +3406,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 7,
-      "Горностаев Александр Сергеевич": 9,
-      "Зберовский Андрей Викторович": 5,
-      "Осипова Татьяна Юрьевна": 21,
-      "Слонов Алексей Павлович": 36,
-      "Тарасов Артем Михайлович": 6,
-      "Титов Сергей Сергеевич": 55,
-      "Шахматов Сергей Александрович": 7,
-      "Швыткин Юрий Николаевич": 85
+      "gas:candidate-vibid:22420001387054": 7,
+      "gas:candidate-vibid:22420001400620": 9,
+      "gas:candidate-vibid:22420001395003": 5,
+      "gas:candidate-vibid:22420001389141": 21,
+      "gas:candidate-vibid:22420001399759": 36,
+      "gas:candidate-vibid:22420001398755": 6,
+      "gas:candidate-vibid:22420001258110": 55,
+      "gas:candidate-vibid:22420001397813": 7,
+      "gas:candidate-vibid:22420001396432": 85
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180013&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180013&type=464",
@@ -3465,15 +3465,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 5,
-      "Горностаев Александр Сергеевич": 5,
-      "Зберовский Андрей Викторович": 0,
-      "Осипова Татьяна Юрьевна": 7,
-      "Слонов Алексей Павлович": 15,
-      "Тарасов Артем Михайлович": 2,
-      "Титов Сергей Сергеевич": 30,
-      "Шахматов Сергей Александрович": 0,
-      "Швыткин Юрий Николаевич": 52
+      "gas:candidate-vibid:22420001387054": 5,
+      "gas:candidate-vibid:22420001400620": 5,
+      "gas:candidate-vibid:22420001395003": 0,
+      "gas:candidate-vibid:22420001389141": 7,
+      "gas:candidate-vibid:22420001399759": 15,
+      "gas:candidate-vibid:22420001398755": 2,
+      "gas:candidate-vibid:22420001258110": 30,
+      "gas:candidate-vibid:22420001397813": 0,
+      "gas:candidate-vibid:22420001396432": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180013&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180013&type=464",
@@ -3524,15 +3524,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 15,
-      "Горностаев Александр Сергеевич": 10,
-      "Зберовский Андрей Викторович": 17,
-      "Осипова Татьяна Юрьевна": 25,
-      "Слонов Алексей Павлович": 34,
-      "Тарасов Артем Михайлович": 15,
-      "Титов Сергей Сергеевич": 56,
-      "Шахматов Сергей Александрович": 5,
-      "Швыткин Юрий Николаевич": 121
+      "gas:candidate-vibid:22420001387054": 15,
+      "gas:candidate-vibid:22420001400620": 10,
+      "gas:candidate-vibid:22420001395003": 17,
+      "gas:candidate-vibid:22420001389141": 25,
+      "gas:candidate-vibid:22420001399759": 34,
+      "gas:candidate-vibid:22420001398755": 15,
+      "gas:candidate-vibid:22420001258110": 56,
+      "gas:candidate-vibid:22420001397813": 5,
+      "gas:candidate-vibid:22420001396432": 121
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180013&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180013&type=464",
@@ -3583,15 +3583,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 14,
-      "Горностаев Александр Сергеевич": 11,
-      "Зберовский Андрей Викторович": 16,
-      "Осипова Татьяна Юрьевна": 28,
-      "Слонов Алексей Павлович": 43,
-      "Тарасов Артем Михайлович": 9,
-      "Титов Сергей Сергеевич": 64,
-      "Шахматов Сергей Александрович": 3,
-      "Швыткин Юрий Николаевич": 96
+      "gas:candidate-vibid:22420001387054": 14,
+      "gas:candidate-vibid:22420001400620": 11,
+      "gas:candidate-vibid:22420001395003": 16,
+      "gas:candidate-vibid:22420001389141": 28,
+      "gas:candidate-vibid:22420001399759": 43,
+      "gas:candidate-vibid:22420001398755": 9,
+      "gas:candidate-vibid:22420001258110": 64,
+      "gas:candidate-vibid:22420001397813": 3,
+      "gas:candidate-vibid:22420001396432": 96
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180013&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180013&type=464",
@@ -3642,15 +3642,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 10,
-      "Горностаев Александр Сергеевич": 3,
-      "Зберовский Андрей Викторович": 10,
-      "Осипова Татьяна Юрьевна": 13,
-      "Слонов Алексей Павлович": 27,
-      "Тарасов Артем Михайлович": 9,
-      "Титов Сергей Сергеевич": 46,
-      "Шахматов Сергей Александрович": 2,
-      "Швыткин Юрий Николаевич": 77
+      "gas:candidate-vibid:22420001387054": 10,
+      "gas:candidate-vibid:22420001400620": 3,
+      "gas:candidate-vibid:22420001395003": 10,
+      "gas:candidate-vibid:22420001389141": 13,
+      "gas:candidate-vibid:22420001399759": 27,
+      "gas:candidate-vibid:22420001398755": 9,
+      "gas:candidate-vibid:22420001258110": 46,
+      "gas:candidate-vibid:22420001397813": 2,
+      "gas:candidate-vibid:22420001396432": 77
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180013&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180013&type=464",
@@ -3701,15 +3701,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 15,
-      "Горностаев Александр Сергеевич": 9,
-      "Зберовский Андрей Викторович": 19,
-      "Осипова Татьяна Юрьевна": 26,
-      "Слонов Алексей Павлович": 53,
-      "Тарасов Артем Михайлович": 18,
-      "Титов Сергей Сергеевич": 91,
-      "Шахматов Сергей Александрович": 4,
-      "Швыткин Юрий Николаевич": 160
+      "gas:candidate-vibid:22420001387054": 15,
+      "gas:candidate-vibid:22420001400620": 9,
+      "gas:candidate-vibid:22420001395003": 19,
+      "gas:candidate-vibid:22420001389141": 26,
+      "gas:candidate-vibid:22420001399759": 53,
+      "gas:candidate-vibid:22420001398755": 18,
+      "gas:candidate-vibid:22420001258110": 91,
+      "gas:candidate-vibid:22420001397813": 4,
+      "gas:candidate-vibid:22420001396432": 160
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180013&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180013&type=464",
@@ -3760,15 +3760,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 17,
-      "Горностаев Александр Сергеевич": 5,
-      "Зберовский Андрей Викторович": 11,
-      "Осипова Татьяна Юрьевна": 66,
-      "Слонов Алексей Павлович": 122,
-      "Тарасов Артем Михайлович": 6,
-      "Титов Сергей Сергеевич": 117,
-      "Шахматов Сергей Александрович": 4,
-      "Швыткин Юрий Николаевич": 188
+      "gas:candidate-vibid:22420001387054": 17,
+      "gas:candidate-vibid:22420001400620": 5,
+      "gas:candidate-vibid:22420001395003": 11,
+      "gas:candidate-vibid:22420001389141": 66,
+      "gas:candidate-vibid:22420001399759": 122,
+      "gas:candidate-vibid:22420001398755": 6,
+      "gas:candidate-vibid:22420001258110": 117,
+      "gas:candidate-vibid:22420001397813": 4,
+      "gas:candidate-vibid:22420001396432": 188
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180013&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180013&type=464",
@@ -3819,15 +3819,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 8,
-      "Горностаев Александр Сергеевич": 4,
-      "Зберовский Андрей Викторович": 10,
-      "Осипова Татьяна Юрьевна": 20,
-      "Слонов Алексей Павлович": 45,
-      "Тарасов Артем Михайлович": 4,
-      "Титов Сергей Сергеевич": 37,
-      "Шахматов Сергей Александрович": 3,
-      "Швыткин Юрий Николаевич": 132
+      "gas:candidate-vibid:22420001387054": 8,
+      "gas:candidate-vibid:22420001400620": 4,
+      "gas:candidate-vibid:22420001395003": 10,
+      "gas:candidate-vibid:22420001389141": 20,
+      "gas:candidate-vibid:22420001399759": 45,
+      "gas:candidate-vibid:22420001398755": 4,
+      "gas:candidate-vibid:22420001258110": 37,
+      "gas:candidate-vibid:22420001397813": 3,
+      "gas:candidate-vibid:22420001396432": 132
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180013&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180013&type=464",
@@ -3878,15 +3878,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 6,
-      "Горностаев Александр Сергеевич": 3,
-      "Зберовский Андрей Викторович": 9,
-      "Осипова Татьяна Юрьевна": 14,
-      "Слонов Алексей Павлович": 51,
-      "Тарасов Артем Михайлович": 3,
-      "Титов Сергей Сергеевич": 57,
-      "Шахматов Сергей Александрович": 1,
-      "Швыткин Юрий Николаевич": 99
+      "gas:candidate-vibid:22420001387054": 6,
+      "gas:candidate-vibid:22420001400620": 3,
+      "gas:candidate-vibid:22420001395003": 9,
+      "gas:candidate-vibid:22420001389141": 14,
+      "gas:candidate-vibid:22420001399759": 51,
+      "gas:candidate-vibid:22420001398755": 3,
+      "gas:candidate-vibid:22420001258110": 57,
+      "gas:candidate-vibid:22420001397813": 1,
+      "gas:candidate-vibid:22420001396432": 99
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180013&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180013&type=464",
@@ -3937,15 +3937,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 3,
-      "Горностаев Александр Сергеевич": 0,
-      "Зберовский Андрей Викторович": 2,
-      "Осипова Татьяна Юрьевна": 2,
-      "Слонов Алексей Павлович": 10,
-      "Тарасов Артем Михайлович": 0,
-      "Титов Сергей Сергеевич": 7,
-      "Шахматов Сергей Александрович": 0,
-      "Швыткин Юрий Николаевич": 11
+      "gas:candidate-vibid:22420001387054": 3,
+      "gas:candidate-vibid:22420001400620": 0,
+      "gas:candidate-vibid:22420001395003": 2,
+      "gas:candidate-vibid:22420001389141": 2,
+      "gas:candidate-vibid:22420001399759": 10,
+      "gas:candidate-vibid:22420001398755": 0,
+      "gas:candidate-vibid:22420001258110": 7,
+      "gas:candidate-vibid:22420001397813": 0,
+      "gas:candidate-vibid:22420001396432": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180013&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180013&type=464",
@@ -3996,15 +3996,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 0,
-      "Горностаев Александр Сергеевич": 3,
-      "Зберовский Андрей Викторович": 1,
-      "Осипова Татьяна Юрьевна": 3,
-      "Слонов Алексей Павлович": 24,
-      "Тарасов Артем Михайлович": 2,
-      "Титов Сергей Сергеевич": 13,
-      "Шахматов Сергей Александрович": 1,
-      "Швыткин Юрий Николаевич": 19
+      "gas:candidate-vibid:22420001387054": 0,
+      "gas:candidate-vibid:22420001400620": 3,
+      "gas:candidate-vibid:22420001395003": 1,
+      "gas:candidate-vibid:22420001389141": 3,
+      "gas:candidate-vibid:22420001399759": 24,
+      "gas:candidate-vibid:22420001398755": 2,
+      "gas:candidate-vibid:22420001258110": 13,
+      "gas:candidate-vibid:22420001397813": 1,
+      "gas:candidate-vibid:22420001396432": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180013&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180013&type=464",
@@ -4055,15 +4055,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 4,
-      "Горностаев Александр Сергеевич": 5,
-      "Зберовский Андрей Викторович": 4,
-      "Осипова Татьяна Юрьевна": 10,
-      "Слонов Алексей Павлович": 12,
-      "Тарасов Артем Михайлович": 0,
-      "Титов Сергей Сергеевич": 18,
-      "Шахматов Сергей Александрович": 1,
-      "Швыткин Юрий Николаевич": 95
+      "gas:candidate-vibid:22420001387054": 4,
+      "gas:candidate-vibid:22420001400620": 5,
+      "gas:candidate-vibid:22420001395003": 4,
+      "gas:candidate-vibid:22420001389141": 10,
+      "gas:candidate-vibid:22420001399759": 12,
+      "gas:candidate-vibid:22420001398755": 0,
+      "gas:candidate-vibid:22420001258110": 18,
+      "gas:candidate-vibid:22420001397813": 1,
+      "gas:candidate-vibid:22420001396432": 95
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180013&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180013&type=464",
@@ -4114,15 +4114,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 2,
-      "Горностаев Александр Сергеевич": 1,
-      "Зберовский Андрей Викторович": 0,
-      "Осипова Татьяна Юрьевна": 0,
-      "Слонов Алексей Павлович": 15,
-      "Тарасов Артем Михайлович": 2,
-      "Титов Сергей Сергеевич": 4,
-      "Шахматов Сергей Александрович": 0,
-      "Швыткин Юрий Николаевич": 16
+      "gas:candidate-vibid:22420001387054": 2,
+      "gas:candidate-vibid:22420001400620": 1,
+      "gas:candidate-vibid:22420001395003": 0,
+      "gas:candidate-vibid:22420001389141": 0,
+      "gas:candidate-vibid:22420001399759": 15,
+      "gas:candidate-vibid:22420001398755": 2,
+      "gas:candidate-vibid:22420001258110": 4,
+      "gas:candidate-vibid:22420001397813": 0,
+      "gas:candidate-vibid:22420001396432": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180013&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180013&type=464",
@@ -4173,15 +4173,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 7,
-      "Горностаев Александр Сергеевич": 6,
-      "Зберовский Андрей Викторович": 13,
-      "Осипова Татьяна Юрьевна": 20,
-      "Слонов Алексей Павлович": 19,
-      "Тарасов Артем Михайлович": 4,
-      "Титов Сергей Сергеевич": 34,
-      "Шахматов Сергей Александрович": 1,
-      "Швыткин Юрий Николаевич": 106
+      "gas:candidate-vibid:22420001387054": 7,
+      "gas:candidate-vibid:22420001400620": 6,
+      "gas:candidate-vibid:22420001395003": 13,
+      "gas:candidate-vibid:22420001389141": 20,
+      "gas:candidate-vibid:22420001399759": 19,
+      "gas:candidate-vibid:22420001398755": 4,
+      "gas:candidate-vibid:22420001258110": 34,
+      "gas:candidate-vibid:22420001397813": 1,
+      "gas:candidate-vibid:22420001396432": 106
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180013&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180013&type=464",
@@ -4232,15 +4232,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 4,
-      "Горностаев Александр Сергеевич": 8,
-      "Зберовский Андрей Викторович": 4,
-      "Осипова Татьяна Юрьевна": 7,
-      "Слонов Алексей Павлович": 19,
-      "Тарасов Артем Михайлович": 1,
-      "Титов Сергей Сергеевич": 35,
-      "Шахматов Сергей Александрович": 2,
-      "Швыткин Юрий Николаевич": 58
+      "gas:candidate-vibid:22420001387054": 4,
+      "gas:candidate-vibid:22420001400620": 8,
+      "gas:candidate-vibid:22420001395003": 4,
+      "gas:candidate-vibid:22420001389141": 7,
+      "gas:candidate-vibid:22420001399759": 19,
+      "gas:candidate-vibid:22420001398755": 1,
+      "gas:candidate-vibid:22420001258110": 35,
+      "gas:candidate-vibid:22420001397813": 2,
+      "gas:candidate-vibid:22420001396432": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180013&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180013&type=464",
@@ -4291,15 +4291,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 4,
-      "Горностаев Александр Сергеевич": 6,
-      "Зберовский Андрей Викторович": 3,
-      "Осипова Татьяна Юрьевна": 6,
-      "Слонов Алексей Павлович": 11,
-      "Тарасов Артем Михайлович": 4,
-      "Титов Сергей Сергеевич": 20,
-      "Шахматов Сергей Александрович": 1,
-      "Швыткин Юрий Николаевич": 36
+      "gas:candidate-vibid:22420001387054": 4,
+      "gas:candidate-vibid:22420001400620": 6,
+      "gas:candidate-vibid:22420001395003": 3,
+      "gas:candidate-vibid:22420001389141": 6,
+      "gas:candidate-vibid:22420001399759": 11,
+      "gas:candidate-vibid:22420001398755": 4,
+      "gas:candidate-vibid:22420001258110": 20,
+      "gas:candidate-vibid:22420001397813": 1,
+      "gas:candidate-vibid:22420001396432": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180013&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180013&type=464",
@@ -4350,15 +4350,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 5,
-      "Горностаев Александр Сергеевич": 2,
-      "Зберовский Андрей Викторович": 7,
-      "Осипова Татьяна Юрьевна": 17,
-      "Слонов Алексей Павлович": 7,
-      "Тарасов Артем Михайлович": 5,
-      "Титов Сергей Сергеевич": 17,
-      "Шахматов Сергей Александрович": 1,
-      "Швыткин Юрий Николаевич": 30
+      "gas:candidate-vibid:22420001387054": 5,
+      "gas:candidate-vibid:22420001400620": 2,
+      "gas:candidate-vibid:22420001395003": 7,
+      "gas:candidate-vibid:22420001389141": 17,
+      "gas:candidate-vibid:22420001399759": 7,
+      "gas:candidate-vibid:22420001398755": 5,
+      "gas:candidate-vibid:22420001258110": 17,
+      "gas:candidate-vibid:22420001397813": 1,
+      "gas:candidate-vibid:22420001396432": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180013&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180013&type=464",
@@ -4409,15 +4409,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 5,
-      "Горностаев Александр Сергеевич": 3,
-      "Зберовский Андрей Викторович": 2,
-      "Осипова Татьяна Юрьевна": 5,
-      "Слонов Алексей Павлович": 22,
-      "Тарасов Артем Михайлович": 2,
-      "Титов Сергей Сергеевич": 8,
-      "Шахматов Сергей Александрович": 0,
-      "Швыткин Юрий Николаевич": 13
+      "gas:candidate-vibid:22420001387054": 5,
+      "gas:candidate-vibid:22420001400620": 3,
+      "gas:candidate-vibid:22420001395003": 2,
+      "gas:candidate-vibid:22420001389141": 5,
+      "gas:candidate-vibid:22420001399759": 22,
+      "gas:candidate-vibid:22420001398755": 2,
+      "gas:candidate-vibid:22420001258110": 8,
+      "gas:candidate-vibid:22420001397813": 0,
+      "gas:candidate-vibid:22420001396432": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180013&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180013&type=464",
@@ -4468,15 +4468,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 30,
-      "Горностаев Александр Сергеевич": 9,
-      "Зберовский Андрей Викторович": 20,
-      "Осипова Татьяна Юрьевна": 34,
-      "Слонов Алексей Павлович": 75,
-      "Тарасов Артем Михайлович": 11,
-      "Титов Сергей Сергеевич": 68,
-      "Шахматов Сергей Александрович": 6,
-      "Швыткин Юрий Николаевич": 258
+      "gas:candidate-vibid:22420001387054": 30,
+      "gas:candidate-vibid:22420001400620": 9,
+      "gas:candidate-vibid:22420001395003": 20,
+      "gas:candidate-vibid:22420001389141": 34,
+      "gas:candidate-vibid:22420001399759": 75,
+      "gas:candidate-vibid:22420001398755": 11,
+      "gas:candidate-vibid:22420001258110": 68,
+      "gas:candidate-vibid:22420001397813": 6,
+      "gas:candidate-vibid:22420001396432": 258
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180013&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180013&type=464",
@@ -4527,15 +4527,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 10,
-      "Горностаев Александр Сергеевич": 7,
-      "Зберовский Андрей Викторович": 8,
-      "Осипова Татьяна Юрьевна": 22,
-      "Слонов Алексей Павлович": 16,
-      "Тарасов Артем Михайлович": 6,
-      "Титов Сергей Сергеевич": 28,
-      "Шахматов Сергей Александрович": 2,
-      "Швыткин Юрий Николаевич": 67
+      "gas:candidate-vibid:22420001387054": 10,
+      "gas:candidate-vibid:22420001400620": 7,
+      "gas:candidate-vibid:22420001395003": 8,
+      "gas:candidate-vibid:22420001389141": 22,
+      "gas:candidate-vibid:22420001399759": 16,
+      "gas:candidate-vibid:22420001398755": 6,
+      "gas:candidate-vibid:22420001258110": 28,
+      "gas:candidate-vibid:22420001397813": 2,
+      "gas:candidate-vibid:22420001396432": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180013&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180013&type=464",
@@ -4586,15 +4586,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 6,
-      "Горностаев Александр Сергеевич": 3,
-      "Зберовский Андрей Викторович": 3,
-      "Осипова Татьяна Юрьевна": 3,
-      "Слонов Алексей Павлович": 3,
-      "Тарасов Артем Михайлович": 2,
-      "Титов Сергей Сергеевич": 9,
-      "Шахматов Сергей Александрович": 0,
-      "Швыткин Юрий Николаевич": 28
+      "gas:candidate-vibid:22420001387054": 6,
+      "gas:candidate-vibid:22420001400620": 3,
+      "gas:candidate-vibid:22420001395003": 3,
+      "gas:candidate-vibid:22420001389141": 3,
+      "gas:candidate-vibid:22420001399759": 3,
+      "gas:candidate-vibid:22420001398755": 2,
+      "gas:candidate-vibid:22420001258110": 9,
+      "gas:candidate-vibid:22420001397813": 0,
+      "gas:candidate-vibid:22420001396432": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180013&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180013&type=464",
@@ -4645,15 +4645,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 4,
-      "Горностаев Александр Сергеевич": 2,
-      "Зберовский Андрей Викторович": 3,
-      "Осипова Татьяна Юрьевна": 0,
-      "Слонов Алексей Павлович": 1,
-      "Тарасов Артем Михайлович": 1,
-      "Титов Сергей Сергеевич": 4,
-      "Шахматов Сергей Александрович": 0,
-      "Швыткин Юрий Николаевич": 12
+      "gas:candidate-vibid:22420001387054": 4,
+      "gas:candidate-vibid:22420001400620": 2,
+      "gas:candidate-vibid:22420001395003": 3,
+      "gas:candidate-vibid:22420001389141": 0,
+      "gas:candidate-vibid:22420001399759": 1,
+      "gas:candidate-vibid:22420001398755": 1,
+      "gas:candidate-vibid:22420001258110": 4,
+      "gas:candidate-vibid:22420001397813": 0,
+      "gas:candidate-vibid:22420001396432": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180013&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180013&type=464",
@@ -4704,15 +4704,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 4,
-      "Горностаев Александр Сергеевич": 0,
-      "Зберовский Андрей Викторович": 2,
-      "Осипова Татьяна Юрьевна": 4,
-      "Слонов Алексей Павлович": 2,
-      "Тарасов Артем Михайлович": 1,
-      "Титов Сергей Сергеевич": 16,
-      "Шахматов Сергей Александрович": 0,
-      "Швыткин Юрий Николаевич": 14
+      "gas:candidate-vibid:22420001387054": 4,
+      "gas:candidate-vibid:22420001400620": 0,
+      "gas:candidate-vibid:22420001395003": 2,
+      "gas:candidate-vibid:22420001389141": 4,
+      "gas:candidate-vibid:22420001399759": 2,
+      "gas:candidate-vibid:22420001398755": 1,
+      "gas:candidate-vibid:22420001258110": 16,
+      "gas:candidate-vibid:22420001397813": 0,
+      "gas:candidate-vibid:22420001396432": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180013&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180013&type=464",
@@ -4763,15 +4763,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 0,
-      "Горностаев Александр Сергеевич": 0,
-      "Зберовский Андрей Викторович": 0,
-      "Осипова Татьяна Юрьевна": 5,
-      "Слонов Алексей Павлович": 0,
-      "Тарасов Артем Михайлович": 1,
-      "Титов Сергей Сергеевич": 1,
-      "Шахматов Сергей Александрович": 2,
-      "Швыткин Юрий Николаевич": 14
+      "gas:candidate-vibid:22420001387054": 0,
+      "gas:candidate-vibid:22420001400620": 0,
+      "gas:candidate-vibid:22420001395003": 0,
+      "gas:candidate-vibid:22420001389141": 5,
+      "gas:candidate-vibid:22420001399759": 0,
+      "gas:candidate-vibid:22420001398755": 1,
+      "gas:candidate-vibid:22420001258110": 1,
+      "gas:candidate-vibid:22420001397813": 2,
+      "gas:candidate-vibid:22420001396432": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180013&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180013&type=464",
@@ -4822,15 +4822,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 2,
-      "Горностаев Александр Сергеевич": 1,
-      "Зберовский Андрей Викторович": 4,
-      "Осипова Татьяна Юрьевна": 27,
-      "Слонов Алексей Павлович": 52,
-      "Тарасов Артем Михайлович": 1,
-      "Титов Сергей Сергеевич": 15,
-      "Шахматов Сергей Александрович": 2,
-      "Швыткин Юрий Николаевич": 77
+      "gas:candidate-vibid:22420001387054": 2,
+      "gas:candidate-vibid:22420001400620": 1,
+      "gas:candidate-vibid:22420001395003": 4,
+      "gas:candidate-vibid:22420001389141": 27,
+      "gas:candidate-vibid:22420001399759": 52,
+      "gas:candidate-vibid:22420001398755": 1,
+      "gas:candidate-vibid:22420001258110": 15,
+      "gas:candidate-vibid:22420001397813": 2,
+      "gas:candidate-vibid:22420001396432": 77
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180013&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180013&type=464",
@@ -4881,15 +4881,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 17,
-      "Горностаев Александр Сергеевич": 6,
-      "Зберовский Андрей Викторович": 9,
-      "Осипова Татьяна Юрьевна": 26,
-      "Слонов Алексей Павлович": 19,
-      "Тарасов Артем Михайлович": 7,
-      "Титов Сергей Сергеевич": 30,
-      "Шахматов Сергей Александрович": 1,
-      "Швыткин Юрий Николаевич": 131
+      "gas:candidate-vibid:22420001387054": 17,
+      "gas:candidate-vibid:22420001400620": 6,
+      "gas:candidate-vibid:22420001395003": 9,
+      "gas:candidate-vibid:22420001389141": 26,
+      "gas:candidate-vibid:22420001399759": 19,
+      "gas:candidate-vibid:22420001398755": 7,
+      "gas:candidate-vibid:22420001258110": 30,
+      "gas:candidate-vibid:22420001397813": 1,
+      "gas:candidate-vibid:22420001396432": 131
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180013&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180013&type=464",
@@ -4940,15 +4940,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 4,
-      "Горностаев Александр Сергеевич": 0,
-      "Зберовский Андрей Викторович": 1,
-      "Осипова Татьяна Юрьевна": 5,
-      "Слонов Алексей Павлович": 5,
-      "Тарасов Артем Михайлович": 2,
-      "Титов Сергей Сергеевич": 5,
-      "Шахматов Сергей Александрович": 1,
-      "Швыткин Юрий Николаевич": 16
+      "gas:candidate-vibid:22420001387054": 4,
+      "gas:candidate-vibid:22420001400620": 0,
+      "gas:candidate-vibid:22420001395003": 1,
+      "gas:candidate-vibid:22420001389141": 5,
+      "gas:candidate-vibid:22420001399759": 5,
+      "gas:candidate-vibid:22420001398755": 2,
+      "gas:candidate-vibid:22420001258110": 5,
+      "gas:candidate-vibid:22420001397813": 1,
+      "gas:candidate-vibid:22420001396432": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180013&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180013&type=464",
@@ -4999,15 +4999,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 0,
-      "Горностаев Александр Сергеевич": 5,
-      "Зберовский Андрей Викторович": 1,
-      "Осипова Татьяна Юрьевна": 2,
-      "Слонов Алексей Павлович": 7,
-      "Тарасов Артем Михайлович": 2,
-      "Титов Сергей Сергеевич": 8,
-      "Шахматов Сергей Александрович": 2,
-      "Швыткин Юрий Николаевич": 35
+      "gas:candidate-vibid:22420001387054": 0,
+      "gas:candidate-vibid:22420001400620": 5,
+      "gas:candidate-vibid:22420001395003": 1,
+      "gas:candidate-vibid:22420001389141": 2,
+      "gas:candidate-vibid:22420001399759": 7,
+      "gas:candidate-vibid:22420001398755": 2,
+      "gas:candidate-vibid:22420001258110": 8,
+      "gas:candidate-vibid:22420001397813": 2,
+      "gas:candidate-vibid:22420001396432": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180013&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180013&type=464",
@@ -5058,15 +5058,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 3,
-      "Горностаев Александр Сергеевич": 2,
-      "Зберовский Андрей Викторович": 2,
-      "Осипова Татьяна Юрьевна": 4,
-      "Слонов Алексей Павлович": 4,
-      "Тарасов Артем Михайлович": 0,
-      "Титов Сергей Сергеевич": 12,
-      "Шахматов Сергей Александрович": 0,
-      "Швыткин Юрий Николаевич": 41
+      "gas:candidate-vibid:22420001387054": 3,
+      "gas:candidate-vibid:22420001400620": 2,
+      "gas:candidate-vibid:22420001395003": 2,
+      "gas:candidate-vibid:22420001389141": 4,
+      "gas:candidate-vibid:22420001399759": 4,
+      "gas:candidate-vibid:22420001398755": 0,
+      "gas:candidate-vibid:22420001258110": 12,
+      "gas:candidate-vibid:22420001397813": 0,
+      "gas:candidate-vibid:22420001396432": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180013&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180013&type=464",
@@ -5117,15 +5117,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 0,
-      "Горностаев Александр Сергеевич": 1,
-      "Зберовский Андрей Викторович": 3,
-      "Осипова Татьяна Юрьевна": 3,
-      "Слонов Алексей Павлович": 4,
-      "Тарасов Артем Михайлович": 0,
-      "Титов Сергей Сергеевич": 3,
-      "Шахматов Сергей Александрович": 0,
-      "Швыткин Юрий Николаевич": 14
+      "gas:candidate-vibid:22420001387054": 0,
+      "gas:candidate-vibid:22420001400620": 1,
+      "gas:candidate-vibid:22420001395003": 3,
+      "gas:candidate-vibid:22420001389141": 3,
+      "gas:candidate-vibid:22420001399759": 4,
+      "gas:candidate-vibid:22420001398755": 0,
+      "gas:candidate-vibid:22420001258110": 3,
+      "gas:candidate-vibid:22420001397813": 0,
+      "gas:candidate-vibid:22420001396432": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180013&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180013&type=464",
@@ -5176,15 +5176,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 1,
-      "Горностаев Александр Сергеевич": 0,
-      "Зберовский Андрей Викторович": 0,
-      "Осипова Татьяна Юрьевна": 6,
-      "Слонов Алексей Павлович": 2,
-      "Тарасов Артем Михайлович": 1,
-      "Титов Сергей Сергеевич": 0,
-      "Шахматов Сергей Александрович": 0,
-      "Швыткин Юрий Николаевич": 18
+      "gas:candidate-vibid:22420001387054": 1,
+      "gas:candidate-vibid:22420001400620": 0,
+      "gas:candidate-vibid:22420001395003": 0,
+      "gas:candidate-vibid:22420001389141": 6,
+      "gas:candidate-vibid:22420001399759": 2,
+      "gas:candidate-vibid:22420001398755": 1,
+      "gas:candidate-vibid:22420001258110": 0,
+      "gas:candidate-vibid:22420001397813": 0,
+      "gas:candidate-vibid:22420001396432": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180013&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180013&type=464",
@@ -5235,15 +5235,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 13,
-      "Горностаев Александр Сергеевич": 10,
-      "Зберовский Андрей Викторович": 20,
-      "Осипова Татьяна Юрьевна": 22,
-      "Слонов Алексей Павлович": 47,
-      "Тарасов Артем Михайлович": 13,
-      "Титов Сергей Сергеевич": 53,
-      "Шахматов Сергей Александрович": 3,
-      "Швыткин Юрий Николаевич": 151
+      "gas:candidate-vibid:22420001387054": 13,
+      "gas:candidate-vibid:22420001400620": 10,
+      "gas:candidate-vibid:22420001395003": 20,
+      "gas:candidate-vibid:22420001389141": 22,
+      "gas:candidate-vibid:22420001399759": 47,
+      "gas:candidate-vibid:22420001398755": 13,
+      "gas:candidate-vibid:22420001258110": 53,
+      "gas:candidate-vibid:22420001397813": 3,
+      "gas:candidate-vibid:22420001396432": 151
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180013&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180013&type=464",
@@ -5294,15 +5294,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 5,
-      "Горностаев Александр Сергеевич": 2,
-      "Зберовский Андрей Викторович": 6,
-      "Осипова Татьяна Юрьевна": 2,
-      "Слонов Алексей Павлович": 17,
-      "Тарасов Артем Михайлович": 3,
-      "Титов Сергей Сергеевич": 18,
-      "Шахматов Сергей Александрович": 0,
-      "Швыткин Юрий Николаевич": 35
+      "gas:candidate-vibid:22420001387054": 5,
+      "gas:candidate-vibid:22420001400620": 2,
+      "gas:candidate-vibid:22420001395003": 6,
+      "gas:candidate-vibid:22420001389141": 2,
+      "gas:candidate-vibid:22420001399759": 17,
+      "gas:candidate-vibid:22420001398755": 3,
+      "gas:candidate-vibid:22420001258110": 18,
+      "gas:candidate-vibid:22420001397813": 0,
+      "gas:candidate-vibid:22420001396432": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180013&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180013&type=464",
@@ -5353,15 +5353,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 1,
-      "Горностаев Александр Сергеевич": 2,
-      "Зберовский Андрей Викторович": 2,
-      "Осипова Татьяна Юрьевна": 9,
-      "Слонов Алексей Павлович": 7,
-      "Тарасов Артем Михайлович": 2,
-      "Титов Сергей Сергеевич": 5,
-      "Шахматов Сергей Александрович": 0,
-      "Швыткин Юрий Николаевич": 31
+      "gas:candidate-vibid:22420001387054": 1,
+      "gas:candidate-vibid:22420001400620": 2,
+      "gas:candidate-vibid:22420001395003": 2,
+      "gas:candidate-vibid:22420001389141": 9,
+      "gas:candidate-vibid:22420001399759": 7,
+      "gas:candidate-vibid:22420001398755": 2,
+      "gas:candidate-vibid:22420001258110": 5,
+      "gas:candidate-vibid:22420001397813": 0,
+      "gas:candidate-vibid:22420001396432": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180013&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180013&type=464",
@@ -5412,15 +5412,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 5,
-      "Горностаев Александр Сергеевич": 3,
-      "Зберовский Андрей Викторович": 7,
-      "Осипова Татьяна Юрьевна": 15,
-      "Слонов Алексей Павлович": 13,
-      "Тарасов Артем Михайлович": 4,
-      "Титов Сергей Сергеевич": 21,
-      "Шахматов Сергей Александрович": 0,
-      "Швыткин Юрий Николаевич": 67
+      "gas:candidate-vibid:22420001387054": 5,
+      "gas:candidate-vibid:22420001400620": 3,
+      "gas:candidate-vibid:22420001395003": 7,
+      "gas:candidate-vibid:22420001389141": 15,
+      "gas:candidate-vibid:22420001399759": 13,
+      "gas:candidate-vibid:22420001398755": 4,
+      "gas:candidate-vibid:22420001258110": 21,
+      "gas:candidate-vibid:22420001397813": 0,
+      "gas:candidate-vibid:22420001396432": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180013&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180013&type=464",
@@ -5471,15 +5471,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 7,
-      "Горностаев Александр Сергеевич": 4,
-      "Зберовский Андрей Викторович": 5,
-      "Осипова Татьяна Юрьевна": 3,
-      "Слонов Алексей Павлович": 11,
-      "Тарасов Артем Михайлович": 3,
-      "Титов Сергей Сергеевич": 17,
-      "Шахматов Сергей Александрович": 2,
-      "Швыткин Юрий Николаевич": 29
+      "gas:candidate-vibid:22420001387054": 7,
+      "gas:candidate-vibid:22420001400620": 4,
+      "gas:candidate-vibid:22420001395003": 5,
+      "gas:candidate-vibid:22420001389141": 3,
+      "gas:candidate-vibid:22420001399759": 11,
+      "gas:candidate-vibid:22420001398755": 3,
+      "gas:candidate-vibid:22420001258110": 17,
+      "gas:candidate-vibid:22420001397813": 2,
+      "gas:candidate-vibid:22420001396432": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180013&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180013&type=464",
@@ -5530,15 +5530,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 20,
-      "Горностаев Александр Сергеевич": 9,
-      "Зберовский Андрей Викторович": 11,
-      "Осипова Татьяна Юрьевна": 18,
-      "Слонов Алексей Павлович": 27,
-      "Тарасов Артем Михайлович": 12,
-      "Титов Сергей Сергеевич": 48,
-      "Шахматов Сергей Александрович": 8,
-      "Швыткин Юрий Николаевич": 93
+      "gas:candidate-vibid:22420001387054": 20,
+      "gas:candidate-vibid:22420001400620": 9,
+      "gas:candidate-vibid:22420001395003": 11,
+      "gas:candidate-vibid:22420001389141": 18,
+      "gas:candidate-vibid:22420001399759": 27,
+      "gas:candidate-vibid:22420001398755": 12,
+      "gas:candidate-vibid:22420001258110": 48,
+      "gas:candidate-vibid:22420001397813": 8,
+      "gas:candidate-vibid:22420001396432": 93
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180013&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180013&type=464",
@@ -5589,15 +5589,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 1,
-      "Горностаев Александр Сергеевич": 3,
-      "Зберовский Андрей Викторович": 2,
-      "Осипова Татьяна Юрьевна": 4,
-      "Слонов Алексей Павлович": 2,
-      "Тарасов Артем Михайлович": 3,
-      "Титов Сергей Сергеевич": 6,
-      "Шахматов Сергей Александрович": 1,
-      "Швыткин Юрий Николаевич": 20
+      "gas:candidate-vibid:22420001387054": 1,
+      "gas:candidate-vibid:22420001400620": 3,
+      "gas:candidate-vibid:22420001395003": 2,
+      "gas:candidate-vibid:22420001389141": 4,
+      "gas:candidate-vibid:22420001399759": 2,
+      "gas:candidate-vibid:22420001398755": 3,
+      "gas:candidate-vibid:22420001258110": 6,
+      "gas:candidate-vibid:22420001397813": 1,
+      "gas:candidate-vibid:22420001396432": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180013&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180013&type=464",
@@ -5648,15 +5648,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 1,
-      "Горностаев Александр Сергеевич": 1,
-      "Зберовский Андрей Викторович": 4,
-      "Осипова Татьяна Юрьевна": 3,
-      "Слонов Алексей Павлович": 16,
-      "Тарасов Артем Михайлович": 1,
-      "Титов Сергей Сергеевич": 7,
-      "Шахматов Сергей Александрович": 0,
-      "Швыткин Юрий Николаевич": 17
+      "gas:candidate-vibid:22420001387054": 1,
+      "gas:candidate-vibid:22420001400620": 1,
+      "gas:candidate-vibid:22420001395003": 4,
+      "gas:candidate-vibid:22420001389141": 3,
+      "gas:candidate-vibid:22420001399759": 16,
+      "gas:candidate-vibid:22420001398755": 1,
+      "gas:candidate-vibid:22420001258110": 7,
+      "gas:candidate-vibid:22420001397813": 0,
+      "gas:candidate-vibid:22420001396432": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180013&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180013&type=464",
@@ -5707,15 +5707,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 15,
-      "Горностаев Александр Сергеевич": 4,
-      "Зберовский Андрей Викторович": 14,
-      "Осипова Татьяна Юрьевна": 21,
-      "Слонов Алексей Павлович": 37,
-      "Тарасов Артем Михайлович": 5,
-      "Титов Сергей Сергеевич": 64,
-      "Шахматов Сергей Александрович": 2,
-      "Швыткин Юрий Николаевич": 155
+      "gas:candidate-vibid:22420001387054": 15,
+      "gas:candidate-vibid:22420001400620": 4,
+      "gas:candidate-vibid:22420001395003": 14,
+      "gas:candidate-vibid:22420001389141": 21,
+      "gas:candidate-vibid:22420001399759": 37,
+      "gas:candidate-vibid:22420001398755": 5,
+      "gas:candidate-vibid:22420001258110": 64,
+      "gas:candidate-vibid:22420001397813": 2,
+      "gas:candidate-vibid:22420001396432": 155
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180013&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180013&type=464",
@@ -5766,15 +5766,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 13,
-      "Горностаев Александр Сергеевич": 1,
-      "Зберовский Андрей Викторович": 2,
-      "Осипова Татьяна Юрьевна": 11,
-      "Слонов Алексей Павлович": 12,
-      "Тарасов Артем Михайлович": 1,
-      "Титов Сергей Сергеевич": 39,
-      "Шахматов Сергей Александрович": 1,
-      "Швыткин Юрий Николаевич": 82
+      "gas:candidate-vibid:22420001387054": 13,
+      "gas:candidate-vibid:22420001400620": 1,
+      "gas:candidate-vibid:22420001395003": 2,
+      "gas:candidate-vibid:22420001389141": 11,
+      "gas:candidate-vibid:22420001399759": 12,
+      "gas:candidate-vibid:22420001398755": 1,
+      "gas:candidate-vibid:22420001258110": 39,
+      "gas:candidate-vibid:22420001397813": 1,
+      "gas:candidate-vibid:22420001396432": 82
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180013&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180013&type=464",
@@ -5825,15 +5825,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 7,
-      "Горностаев Александр Сергеевич": 5,
-      "Зберовский Андрей Викторович": 12,
-      "Осипова Татьяна Юрьевна": 11,
-      "Слонов Алексей Павлович": 16,
-      "Тарасов Артем Михайлович": 4,
-      "Титов Сергей Сергеевич": 19,
-      "Шахматов Сергей Александрович": 2,
-      "Швыткин Юрий Николаевич": 53
+      "gas:candidate-vibid:22420001387054": 7,
+      "gas:candidate-vibid:22420001400620": 5,
+      "gas:candidate-vibid:22420001395003": 12,
+      "gas:candidate-vibid:22420001389141": 11,
+      "gas:candidate-vibid:22420001399759": 16,
+      "gas:candidate-vibid:22420001398755": 4,
+      "gas:candidate-vibid:22420001258110": 19,
+      "gas:candidate-vibid:22420001397813": 2,
+      "gas:candidate-vibid:22420001396432": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180013&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180013&type=464",
@@ -5884,15 +5884,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 31,
-      "Горностаев Александр Сергеевич": 9,
-      "Зберовский Андрей Викторович": 18,
-      "Осипова Татьяна Юрьевна": 44,
-      "Слонов Алексей Павлович": 69,
-      "Тарасов Артем Михайлович": 10,
-      "Титов Сергей Сергеевич": 92,
-      "Шахматов Сергей Александрович": 2,
-      "Швыткин Юрий Николаевич": 256
+      "gas:candidate-vibid:22420001387054": 31,
+      "gas:candidate-vibid:22420001400620": 9,
+      "gas:candidate-vibid:22420001395003": 18,
+      "gas:candidate-vibid:22420001389141": 44,
+      "gas:candidate-vibid:22420001399759": 69,
+      "gas:candidate-vibid:22420001398755": 10,
+      "gas:candidate-vibid:22420001258110": 92,
+      "gas:candidate-vibid:22420001397813": 2,
+      "gas:candidate-vibid:22420001396432": 256
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180013&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180013&type=464",
@@ -5943,15 +5943,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 17,
-      "Горностаев Александр Сергеевич": 18,
-      "Зберовский Андрей Викторович": 17,
-      "Осипова Татьяна Юрьевна": 30,
-      "Слонов Алексей Павлович": 82,
-      "Тарасов Артем Михайлович": 6,
-      "Титов Сергей Сергеевич": 90,
-      "Шахматов Сергей Александрович": 6,
-      "Швыткин Юрий Николаевич": 187
+      "gas:candidate-vibid:22420001387054": 17,
+      "gas:candidate-vibid:22420001400620": 18,
+      "gas:candidate-vibid:22420001395003": 17,
+      "gas:candidate-vibid:22420001389141": 30,
+      "gas:candidate-vibid:22420001399759": 82,
+      "gas:candidate-vibid:22420001398755": 6,
+      "gas:candidate-vibid:22420001258110": 90,
+      "gas:candidate-vibid:22420001397813": 6,
+      "gas:candidate-vibid:22420001396432": 187
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180013&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180013&type=464",
@@ -6002,15 +6002,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 6,
-      "Горностаев Александр Сергеевич": 2,
-      "Зберовский Андрей Викторович": 6,
-      "Осипова Татьяна Юрьевна": 5,
-      "Слонов Алексей Павлович": 5,
-      "Тарасов Артем Михайлович": 6,
-      "Титов Сергей Сергеевич": 23,
-      "Шахматов Сергей Александрович": 4,
-      "Швыткин Юрий Николаевич": 81
+      "gas:candidate-vibid:22420001387054": 6,
+      "gas:candidate-vibid:22420001400620": 2,
+      "gas:candidate-vibid:22420001395003": 6,
+      "gas:candidate-vibid:22420001389141": 5,
+      "gas:candidate-vibid:22420001399759": 5,
+      "gas:candidate-vibid:22420001398755": 6,
+      "gas:candidate-vibid:22420001258110": 23,
+      "gas:candidate-vibid:22420001397813": 4,
+      "gas:candidate-vibid:22420001396432": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180014&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180014&type=464",
@@ -6061,15 +6061,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 3,
-      "Горностаев Александр Сергеевич": 0,
-      "Зберовский Андрей Викторович": 0,
-      "Осипова Татьяна Юрьевна": 10,
-      "Слонов Алексей Павлович": 2,
-      "Тарасов Артем Михайлович": 3,
-      "Титов Сергей Сергеевич": 5,
-      "Шахматов Сергей Александрович": 0,
-      "Швыткин Юрий Николаевич": 23
+      "gas:candidate-vibid:22420001387054": 3,
+      "gas:candidate-vibid:22420001400620": 0,
+      "gas:candidate-vibid:22420001395003": 0,
+      "gas:candidate-vibid:22420001389141": 10,
+      "gas:candidate-vibid:22420001399759": 2,
+      "gas:candidate-vibid:22420001398755": 3,
+      "gas:candidate-vibid:22420001258110": 5,
+      "gas:candidate-vibid:22420001397813": 0,
+      "gas:candidate-vibid:22420001396432": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180014&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180014&type=464",
@@ -6120,15 +6120,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 9,
-      "Горностаев Александр Сергеевич": 1,
-      "Зберовский Андрей Викторович": 12,
-      "Осипова Татьяна Юрьевна": 17,
-      "Слонов Алексей Павлович": 18,
-      "Тарасов Артем Михайлович": 6,
-      "Титов Сергей Сергеевич": 27,
-      "Шахматов Сергей Александрович": 4,
-      "Швыткин Юрий Николаевич": 116
+      "gas:candidate-vibid:22420001387054": 9,
+      "gas:candidate-vibid:22420001400620": 1,
+      "gas:candidate-vibid:22420001395003": 12,
+      "gas:candidate-vibid:22420001389141": 17,
+      "gas:candidate-vibid:22420001399759": 18,
+      "gas:candidate-vibid:22420001398755": 6,
+      "gas:candidate-vibid:22420001258110": 27,
+      "gas:candidate-vibid:22420001397813": 4,
+      "gas:candidate-vibid:22420001396432": 116
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180014&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180014&type=464",
@@ -6179,15 +6179,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 6,
-      "Горностаев Александр Сергеевич": 3,
-      "Зберовский Андрей Викторович": 8,
-      "Осипова Татьяна Юрьевна": 15,
-      "Слонов Алексей Павлович": 11,
-      "Тарасов Артем Михайлович": 4,
-      "Титов Сергей Сергеевич": 18,
-      "Шахматов Сергей Александрович": 2,
-      "Швыткин Юрий Николаевич": 76
+      "gas:candidate-vibid:22420001387054": 6,
+      "gas:candidate-vibid:22420001400620": 3,
+      "gas:candidate-vibid:22420001395003": 8,
+      "gas:candidate-vibid:22420001389141": 15,
+      "gas:candidate-vibid:22420001399759": 11,
+      "gas:candidate-vibid:22420001398755": 4,
+      "gas:candidate-vibid:22420001258110": 18,
+      "gas:candidate-vibid:22420001397813": 2,
+      "gas:candidate-vibid:22420001396432": 76
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180014&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180014&type=464",
@@ -6238,15 +6238,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 1,
-      "Горностаев Александр Сергеевич": 1,
-      "Зберовский Андрей Викторович": 2,
-      "Осипова Татьяна Юрьевна": 9,
-      "Слонов Алексей Павлович": 9,
-      "Тарасов Артем Михайлович": 1,
-      "Титов Сергей Сергеевич": 5,
-      "Шахматов Сергей Александрович": 0,
-      "Швыткин Юрий Николаевич": 37
+      "gas:candidate-vibid:22420001387054": 1,
+      "gas:candidate-vibid:22420001400620": 1,
+      "gas:candidate-vibid:22420001395003": 2,
+      "gas:candidate-vibid:22420001389141": 9,
+      "gas:candidate-vibid:22420001399759": 9,
+      "gas:candidate-vibid:22420001398755": 1,
+      "gas:candidate-vibid:22420001258110": 5,
+      "gas:candidate-vibid:22420001397813": 0,
+      "gas:candidate-vibid:22420001396432": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180014&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180014&type=464",
@@ -6297,15 +6297,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 19,
-      "Горностаев Александр Сергеевич": 2,
-      "Зберовский Андрей Викторович": 11,
-      "Осипова Татьяна Юрьевна": 31,
-      "Слонов Алексей Павлович": 14,
-      "Тарасов Артем Михайлович": 5,
-      "Титов Сергей Сергеевич": 44,
-      "Шахматов Сергей Александрович": 3,
-      "Швыткин Юрий Николаевич": 163
+      "gas:candidate-vibid:22420001387054": 19,
+      "gas:candidate-vibid:22420001400620": 2,
+      "gas:candidate-vibid:22420001395003": 11,
+      "gas:candidate-vibid:22420001389141": 31,
+      "gas:candidate-vibid:22420001399759": 14,
+      "gas:candidate-vibid:22420001398755": 5,
+      "gas:candidate-vibid:22420001258110": 44,
+      "gas:candidate-vibid:22420001397813": 3,
+      "gas:candidate-vibid:22420001396432": 163
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180014&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180014&type=464",
@@ -6356,15 +6356,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 0,
-      "Горностаев Александр Сергеевич": 0,
-      "Зберовский Андрей Викторович": 0,
-      "Осипова Татьяна Юрьевна": 0,
-      "Слонов Алексей Павлович": 0,
-      "Тарасов Артем Михайлович": 0,
-      "Титов Сергей Сергеевич": 10,
-      "Шахматов Сергей Александрович": 0,
-      "Швыткин Юрий Николаевич": 22
+      "gas:candidate-vibid:22420001387054": 0,
+      "gas:candidate-vibid:22420001400620": 0,
+      "gas:candidate-vibid:22420001395003": 0,
+      "gas:candidate-vibid:22420001389141": 0,
+      "gas:candidate-vibid:22420001399759": 0,
+      "gas:candidate-vibid:22420001398755": 0,
+      "gas:candidate-vibid:22420001258110": 10,
+      "gas:candidate-vibid:22420001397813": 0,
+      "gas:candidate-vibid:22420001396432": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180014&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180014&type=464",
@@ -6415,15 +6415,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 2,
-      "Горностаев Александр Сергеевич": 4,
-      "Зберовский Андрей Викторович": 5,
-      "Осипова Татьяна Юрьевна": 10,
-      "Слонов Алексей Павлович": 7,
-      "Тарасов Артем Михайлович": 0,
-      "Титов Сергей Сергеевич": 6,
-      "Шахматов Сергей Александрович": 0,
-      "Швыткин Юрий Николаевич": 43
+      "gas:candidate-vibid:22420001387054": 2,
+      "gas:candidate-vibid:22420001400620": 4,
+      "gas:candidate-vibid:22420001395003": 5,
+      "gas:candidate-vibid:22420001389141": 10,
+      "gas:candidate-vibid:22420001399759": 7,
+      "gas:candidate-vibid:22420001398755": 0,
+      "gas:candidate-vibid:22420001258110": 6,
+      "gas:candidate-vibid:22420001397813": 0,
+      "gas:candidate-vibid:22420001396432": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180014&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180014&type=464",
@@ -6474,15 +6474,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 1,
-      "Горностаев Александр Сергеевич": 5,
-      "Зберовский Андрей Викторович": 6,
-      "Осипова Татьяна Юрьевна": 2,
-      "Слонов Алексей Павлович": 14,
-      "Тарасов Артем Михайлович": 0,
-      "Титов Сергей Сергеевич": 12,
-      "Шахматов Сергей Александрович": 4,
-      "Швыткин Юрий Николаевич": 53
+      "gas:candidate-vibid:22420001387054": 1,
+      "gas:candidate-vibid:22420001400620": 5,
+      "gas:candidate-vibid:22420001395003": 6,
+      "gas:candidate-vibid:22420001389141": 2,
+      "gas:candidate-vibid:22420001399759": 14,
+      "gas:candidate-vibid:22420001398755": 0,
+      "gas:candidate-vibid:22420001258110": 12,
+      "gas:candidate-vibid:22420001397813": 4,
+      "gas:candidate-vibid:22420001396432": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180014&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180014&type=464",
@@ -6533,15 +6533,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 6,
-      "Горностаев Александр Сергеевич": 3,
-      "Зберовский Андрей Викторович": 2,
-      "Осипова Татьяна Юрьевна": 6,
-      "Слонов Алексей Павлович": 7,
-      "Тарасов Артем Михайлович": 1,
-      "Титов Сергей Сергеевич": 9,
-      "Шахматов Сергей Александрович": 0,
-      "Швыткин Юрий Николаевич": 23
+      "gas:candidate-vibid:22420001387054": 6,
+      "gas:candidate-vibid:22420001400620": 3,
+      "gas:candidate-vibid:22420001395003": 2,
+      "gas:candidate-vibid:22420001389141": 6,
+      "gas:candidate-vibid:22420001399759": 7,
+      "gas:candidate-vibid:22420001398755": 1,
+      "gas:candidate-vibid:22420001258110": 9,
+      "gas:candidate-vibid:22420001397813": 0,
+      "gas:candidate-vibid:22420001396432": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180014&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180014&type=464",
@@ -6592,15 +6592,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 0,
-      "Горностаев Александр Сергеевич": 0,
-      "Зберовский Андрей Викторович": 1,
-      "Осипова Татьяна Юрьевна": 4,
-      "Слонов Алексей Павлович": 10,
-      "Тарасов Артем Михайлович": 0,
-      "Титов Сергей Сергеевич": 2,
-      "Шахматов Сергей Александрович": 0,
-      "Швыткин Юрий Николаевич": 9
+      "gas:candidate-vibid:22420001387054": 0,
+      "gas:candidate-vibid:22420001400620": 0,
+      "gas:candidate-vibid:22420001395003": 1,
+      "gas:candidate-vibid:22420001389141": 4,
+      "gas:candidate-vibid:22420001399759": 10,
+      "gas:candidate-vibid:22420001398755": 0,
+      "gas:candidate-vibid:22420001258110": 2,
+      "gas:candidate-vibid:22420001397813": 0,
+      "gas:candidate-vibid:22420001396432": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180014&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180014&type=464",
@@ -6651,15 +6651,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 12,
-      "Горностаев Александр Сергеевич": 2,
-      "Зберовский Андрей Викторович": 6,
-      "Осипова Татьяна Юрьевна": 5,
-      "Слонов Алексей Павлович": 5,
-      "Тарасов Артем Михайлович": 4,
-      "Титов Сергей Сергеевич": 23,
-      "Шахматов Сергей Александрович": 1,
-      "Швыткин Юрий Николаевич": 65
+      "gas:candidate-vibid:22420001387054": 12,
+      "gas:candidate-vibid:22420001400620": 2,
+      "gas:candidate-vibid:22420001395003": 6,
+      "gas:candidate-vibid:22420001389141": 5,
+      "gas:candidate-vibid:22420001399759": 5,
+      "gas:candidate-vibid:22420001398755": 4,
+      "gas:candidate-vibid:22420001258110": 23,
+      "gas:candidate-vibid:22420001397813": 1,
+      "gas:candidate-vibid:22420001396432": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180014&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180014&type=464",
@@ -6710,15 +6710,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 9,
-      "Горностаев Александр Сергеевич": 5,
-      "Зберовский Андрей Викторович": 14,
-      "Осипова Татьяна Юрьевна": 11,
-      "Слонов Алексей Павлович": 10,
-      "Тарасов Артем Михайлович": 2,
-      "Титов Сергей Сергеевич": 22,
-      "Шахматов Сергей Александрович": 3,
-      "Швыткин Юрий Николаевич": 47
+      "gas:candidate-vibid:22420001387054": 9,
+      "gas:candidate-vibid:22420001400620": 5,
+      "gas:candidate-vibid:22420001395003": 14,
+      "gas:candidate-vibid:22420001389141": 11,
+      "gas:candidate-vibid:22420001399759": 10,
+      "gas:candidate-vibid:22420001398755": 2,
+      "gas:candidate-vibid:22420001258110": 22,
+      "gas:candidate-vibid:22420001397813": 3,
+      "gas:candidate-vibid:22420001396432": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180014&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180014&type=464",
@@ -6769,15 +6769,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 2,
-      "Горностаев Александр Сергеевич": 0,
-      "Зберовский Андрей Викторович": 7,
-      "Осипова Татьяна Юрьевна": 8,
-      "Слонов Алексей Павлович": 12,
-      "Тарасов Артем Михайлович": 0,
-      "Титов Сергей Сергеевич": 8,
-      "Шахматов Сергей Александрович": 0,
-      "Швыткин Юрий Николаевич": 61
+      "gas:candidate-vibid:22420001387054": 2,
+      "gas:candidate-vibid:22420001400620": 0,
+      "gas:candidate-vibid:22420001395003": 7,
+      "gas:candidate-vibid:22420001389141": 8,
+      "gas:candidate-vibid:22420001399759": 12,
+      "gas:candidate-vibid:22420001398755": 0,
+      "gas:candidate-vibid:22420001258110": 8,
+      "gas:candidate-vibid:22420001397813": 0,
+      "gas:candidate-vibid:22420001396432": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180014&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180014&type=464",
@@ -6828,15 +6828,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 9,
-      "Горностаев Александр Сергеевич": 5,
-      "Зберовский Андрей Викторович": 6,
-      "Осипова Татьяна Юрьевна": 17,
-      "Слонов Алексей Павлович": 25,
-      "Тарасов Артем Михайлович": 7,
-      "Титов Сергей Сергеевич": 33,
-      "Шахматов Сергей Александрович": 2,
-      "Швыткин Юрий Николаевич": 91
+      "gas:candidate-vibid:22420001387054": 9,
+      "gas:candidate-vibid:22420001400620": 5,
+      "gas:candidate-vibid:22420001395003": 6,
+      "gas:candidate-vibid:22420001389141": 17,
+      "gas:candidate-vibid:22420001399759": 25,
+      "gas:candidate-vibid:22420001398755": 7,
+      "gas:candidate-vibid:22420001258110": 33,
+      "gas:candidate-vibid:22420001397813": 2,
+      "gas:candidate-vibid:22420001396432": 91
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180014&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180014&type=464",
@@ -6887,15 +6887,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 15,
-      "Горностаев Александр Сергеевич": 7,
-      "Зберовский Андрей Викторович": 3,
-      "Осипова Татьяна Юрьевна": 19,
-      "Слонов Алексей Павлович": 19,
-      "Тарасов Артем Михайлович": 7,
-      "Титов Сергей Сергеевич": 46,
-      "Шахматов Сергей Александрович": 0,
-      "Швыткин Юрий Николаевич": 105
+      "gas:candidate-vibid:22420001387054": 15,
+      "gas:candidate-vibid:22420001400620": 7,
+      "gas:candidate-vibid:22420001395003": 3,
+      "gas:candidate-vibid:22420001389141": 19,
+      "gas:candidate-vibid:22420001399759": 19,
+      "gas:candidate-vibid:22420001398755": 7,
+      "gas:candidate-vibid:22420001258110": 46,
+      "gas:candidate-vibid:22420001397813": 0,
+      "gas:candidate-vibid:22420001396432": 105
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180014&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180014&type=464",
@@ -6946,15 +6946,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 5,
-      "Горностаев Александр Сергеевич": 2,
-      "Зберовский Андрей Викторович": 4,
-      "Осипова Татьяна Юрьевна": 11,
-      "Слонов Алексей Павлович": 12,
-      "Тарасов Артем Михайлович": 6,
-      "Титов Сергей Сергеевич": 9,
-      "Шахматов Сергей Александрович": 2,
-      "Швыткин Юрий Николаевич": 33
+      "gas:candidate-vibid:22420001387054": 5,
+      "gas:candidate-vibid:22420001400620": 2,
+      "gas:candidate-vibid:22420001395003": 4,
+      "gas:candidate-vibid:22420001389141": 11,
+      "gas:candidate-vibid:22420001399759": 12,
+      "gas:candidate-vibid:22420001398755": 6,
+      "gas:candidate-vibid:22420001258110": 9,
+      "gas:candidate-vibid:22420001397813": 2,
+      "gas:candidate-vibid:22420001396432": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180014&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180014&type=464",
@@ -7005,15 +7005,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 29,
-      "Горностаев Александр Сергеевич": 13,
-      "Зберовский Андрей Викторович": 30,
-      "Осипова Татьяна Юрьевна": 36,
-      "Слонов Алексей Павлович": 77,
-      "Тарасов Артем Михайлович": 9,
-      "Титов Сергей Сергеевич": 117,
-      "Шахматов Сергей Александрович": 7,
-      "Швыткин Юрий Николаевич": 307
+      "gas:candidate-vibid:22420001387054": 29,
+      "gas:candidate-vibid:22420001400620": 13,
+      "gas:candidate-vibid:22420001395003": 30,
+      "gas:candidate-vibid:22420001389141": 36,
+      "gas:candidate-vibid:22420001399759": 77,
+      "gas:candidate-vibid:22420001398755": 9,
+      "gas:candidate-vibid:22420001258110": 117,
+      "gas:candidate-vibid:22420001397813": 7,
+      "gas:candidate-vibid:22420001396432": 307
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180014&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180014&type=464",
@@ -7064,15 +7064,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 17,
-      "Горностаев Александр Сергеевич": 4,
-      "Зберовский Андрей Викторович": 6,
-      "Осипова Татьяна Юрьевна": 25,
-      "Слонов Алексей Павлович": 28,
-      "Тарасов Артем Михайлович": 6,
-      "Титов Сергей Сергеевич": 70,
-      "Шахматов Сергей Александрович": 3,
-      "Швыткин Юрий Николаевич": 94
+      "gas:candidate-vibid:22420001387054": 17,
+      "gas:candidate-vibid:22420001400620": 4,
+      "gas:candidate-vibid:22420001395003": 6,
+      "gas:candidate-vibid:22420001389141": 25,
+      "gas:candidate-vibid:22420001399759": 28,
+      "gas:candidate-vibid:22420001398755": 6,
+      "gas:candidate-vibid:22420001258110": 70,
+      "gas:candidate-vibid:22420001397813": 3,
+      "gas:candidate-vibid:22420001396432": 94
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180014&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180014&type=464",
@@ -7123,15 +7123,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 21,
-      "Горностаев Александр Сергеевич": 2,
-      "Зберовский Андрей Викторович": 11,
-      "Осипова Татьяна Юрьевна": 14,
-      "Слонов Алексей Павлович": 13,
-      "Тарасов Артем Михайлович": 7,
-      "Титов Сергей Сергеевич": 22,
-      "Шахматов Сергей Александрович": 5,
-      "Швыткин Юрий Николаевич": 77
+      "gas:candidate-vibid:22420001387054": 21,
+      "gas:candidate-vibid:22420001400620": 2,
+      "gas:candidate-vibid:22420001395003": 11,
+      "gas:candidate-vibid:22420001389141": 14,
+      "gas:candidate-vibid:22420001399759": 13,
+      "gas:candidate-vibid:22420001398755": 7,
+      "gas:candidate-vibid:22420001258110": 22,
+      "gas:candidate-vibid:22420001397813": 5,
+      "gas:candidate-vibid:22420001396432": 77
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180014&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180014&type=464",
@@ -7182,15 +7182,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 5,
-      "Горностаев Александр Сергеевич": 0,
-      "Зберовский Андрей Викторович": 3,
-      "Осипова Татьяна Юрьевна": 1,
-      "Слонов Алексей Павлович": 5,
-      "Тарасов Артем Михайлович": 1,
-      "Титов Сергей Сергеевич": 4,
-      "Шахматов Сергей Александрович": 0,
-      "Швыткин Юрий Николаевич": 25
+      "gas:candidate-vibid:22420001387054": 5,
+      "gas:candidate-vibid:22420001400620": 0,
+      "gas:candidate-vibid:22420001395003": 3,
+      "gas:candidate-vibid:22420001389141": 1,
+      "gas:candidate-vibid:22420001399759": 5,
+      "gas:candidate-vibid:22420001398755": 1,
+      "gas:candidate-vibid:22420001258110": 4,
+      "gas:candidate-vibid:22420001397813": 0,
+      "gas:candidate-vibid:22420001396432": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180015&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180015&type=464",
@@ -7241,15 +7241,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 4,
-      "Горностаев Александр Сергеевич": 3,
-      "Зберовский Андрей Викторович": 1,
-      "Осипова Татьяна Юрьевна": 9,
-      "Слонов Алексей Павлович": 6,
-      "Тарасов Артем Михайлович": 2,
-      "Титов Сергей Сергеевич": 11,
-      "Шахматов Сергей Александрович": 3,
-      "Швыткин Юрий Николаевич": 57
+      "gas:candidate-vibid:22420001387054": 4,
+      "gas:candidate-vibid:22420001400620": 3,
+      "gas:candidate-vibid:22420001395003": 1,
+      "gas:candidate-vibid:22420001389141": 9,
+      "gas:candidate-vibid:22420001399759": 6,
+      "gas:candidate-vibid:22420001398755": 2,
+      "gas:candidate-vibid:22420001258110": 11,
+      "gas:candidate-vibid:22420001397813": 3,
+      "gas:candidate-vibid:22420001396432": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180015&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180015&type=464",
@@ -7300,15 +7300,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 37,
-      "Горностаев Александр Сергеевич": 8,
-      "Зберовский Андрей Викторович": 23,
-      "Осипова Татьяна Юрьевна": 31,
-      "Слонов Алексей Павлович": 43,
-      "Тарасов Артем Михайлович": 7,
-      "Титов Сергей Сергеевич": 124,
-      "Шахматов Сергей Александрович": 7,
-      "Швыткин Юрий Николаевич": 270
+      "gas:candidate-vibid:22420001387054": 37,
+      "gas:candidate-vibid:22420001400620": 8,
+      "gas:candidate-vibid:22420001395003": 23,
+      "gas:candidate-vibid:22420001389141": 31,
+      "gas:candidate-vibid:22420001399759": 43,
+      "gas:candidate-vibid:22420001398755": 7,
+      "gas:candidate-vibid:22420001258110": 124,
+      "gas:candidate-vibid:22420001397813": 7,
+      "gas:candidate-vibid:22420001396432": 270
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180015&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180015&type=464",
@@ -7359,15 +7359,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 5,
-      "Горностаев Александр Сергеевич": 3,
-      "Зберовский Андрей Викторович": 2,
-      "Осипова Татьяна Юрьевна": 10,
-      "Слонов Алексей Павлович": 2,
-      "Тарасов Артем Михайлович": 1,
-      "Титов Сергей Сергеевич": 8,
-      "Шахматов Сергей Александрович": 1,
-      "Швыткин Юрий Николаевич": 29
+      "gas:candidate-vibid:22420001387054": 5,
+      "gas:candidate-vibid:22420001400620": 3,
+      "gas:candidate-vibid:22420001395003": 2,
+      "gas:candidate-vibid:22420001389141": 10,
+      "gas:candidate-vibid:22420001399759": 2,
+      "gas:candidate-vibid:22420001398755": 1,
+      "gas:candidate-vibid:22420001258110": 8,
+      "gas:candidate-vibid:22420001397813": 1,
+      "gas:candidate-vibid:22420001396432": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180015&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180015&type=464",
@@ -7418,15 +7418,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 2,
-      "Горностаев Александр Сергеевич": 0,
-      "Зберовский Андрей Викторович": 3,
-      "Осипова Татьяна Юрьевна": 6,
-      "Слонов Алексей Павлович": 2,
-      "Тарасов Артем Михайлович": 1,
-      "Титов Сергей Сергеевич": 15,
-      "Шахматов Сергей Александрович": 1,
-      "Швыткин Юрий Николаевич": 24
+      "gas:candidate-vibid:22420001387054": 2,
+      "gas:candidate-vibid:22420001400620": 0,
+      "gas:candidate-vibid:22420001395003": 3,
+      "gas:candidate-vibid:22420001389141": 6,
+      "gas:candidate-vibid:22420001399759": 2,
+      "gas:candidate-vibid:22420001398755": 1,
+      "gas:candidate-vibid:22420001258110": 15,
+      "gas:candidate-vibid:22420001397813": 1,
+      "gas:candidate-vibid:22420001396432": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180015&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180015&type=464",
@@ -7477,15 +7477,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 1,
-      "Горностаев Александр Сергеевич": 7,
-      "Зберовский Андрей Викторович": 3,
-      "Осипова Татьяна Юрьевна": 7,
-      "Слонов Алексей Павлович": 8,
-      "Тарасов Артем Михайлович": 4,
-      "Титов Сергей Сергеевич": 13,
-      "Шахматов Сергей Александрович": 2,
-      "Швыткин Юрий Николаевич": 44
+      "gas:candidate-vibid:22420001387054": 1,
+      "gas:candidate-vibid:22420001400620": 7,
+      "gas:candidate-vibid:22420001395003": 3,
+      "gas:candidate-vibid:22420001389141": 7,
+      "gas:candidate-vibid:22420001399759": 8,
+      "gas:candidate-vibid:22420001398755": 4,
+      "gas:candidate-vibid:22420001258110": 13,
+      "gas:candidate-vibid:22420001397813": 2,
+      "gas:candidate-vibid:22420001396432": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180015&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180015&type=464",
@@ -7536,15 +7536,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 29,
-      "Горностаев Александр Сергеевич": 2,
-      "Зберовский Андрей Викторович": 15,
-      "Осипова Татьяна Юрьевна": 26,
-      "Слонов Алексей Павлович": 29,
-      "Тарасов Артем Михайлович": 16,
-      "Титов Сергей Сергеевич": 112,
-      "Шахматов Сергей Александрович": 2,
-      "Швыткин Юрий Николаевич": 136
+      "gas:candidate-vibid:22420001387054": 29,
+      "gas:candidate-vibid:22420001400620": 2,
+      "gas:candidate-vibid:22420001395003": 15,
+      "gas:candidate-vibid:22420001389141": 26,
+      "gas:candidate-vibid:22420001399759": 29,
+      "gas:candidate-vibid:22420001398755": 16,
+      "gas:candidate-vibid:22420001258110": 112,
+      "gas:candidate-vibid:22420001397813": 2,
+      "gas:candidate-vibid:22420001396432": 136
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180015&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180015&type=464",
@@ -7595,15 +7595,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 8,
-      "Горностаев Александр Сергеевич": 4,
-      "Зберовский Андрей Викторович": 8,
-      "Осипова Татьяна Юрьевна": 18,
-      "Слонов Алексей Павлович": 8,
-      "Тарасов Артем Михайлович": 4,
-      "Титов Сергей Сергеевич": 40,
-      "Шахматов Сергей Александрович": 5,
-      "Швыткин Юрий Николаевич": 100
+      "gas:candidate-vibid:22420001387054": 8,
+      "gas:candidate-vibid:22420001400620": 4,
+      "gas:candidate-vibid:22420001395003": 8,
+      "gas:candidate-vibid:22420001389141": 18,
+      "gas:candidate-vibid:22420001399759": 8,
+      "gas:candidate-vibid:22420001398755": 4,
+      "gas:candidate-vibid:22420001258110": 40,
+      "gas:candidate-vibid:22420001397813": 5,
+      "gas:candidate-vibid:22420001396432": 100
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180015&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180015&type=464",
@@ -7654,15 +7654,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 6,
-      "Горностаев Александр Сергеевич": 5,
-      "Зберовский Андрей Викторович": 4,
-      "Осипова Татьяна Юрьевна": 5,
-      "Слонов Алексей Павлович": 10,
-      "Тарасов Артем Михайлович": 2,
-      "Титов Сергей Сергеевич": 42,
-      "Шахматов Сергей Александрович": 2,
-      "Швыткин Юрий Николаевич": 79
+      "gas:candidate-vibid:22420001387054": 6,
+      "gas:candidate-vibid:22420001400620": 5,
+      "gas:candidate-vibid:22420001395003": 4,
+      "gas:candidate-vibid:22420001389141": 5,
+      "gas:candidate-vibid:22420001399759": 10,
+      "gas:candidate-vibid:22420001398755": 2,
+      "gas:candidate-vibid:22420001258110": 42,
+      "gas:candidate-vibid:22420001397813": 2,
+      "gas:candidate-vibid:22420001396432": 79
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180015&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180015&type=464",
@@ -7713,15 +7713,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 0,
-      "Горностаев Александр Сергеевич": 1,
-      "Зберовский Андрей Викторович": 2,
-      "Осипова Татьяна Юрьевна": 2,
-      "Слонов Алексей Павлович": 3,
-      "Тарасов Артем Михайлович": 2,
-      "Титов Сергей Сергеевич": 5,
-      "Шахматов Сергей Александрович": 0,
-      "Швыткин Юрий Николаевич": 23
+      "gas:candidate-vibid:22420001387054": 0,
+      "gas:candidate-vibid:22420001400620": 1,
+      "gas:candidate-vibid:22420001395003": 2,
+      "gas:candidate-vibid:22420001389141": 2,
+      "gas:candidate-vibid:22420001399759": 3,
+      "gas:candidate-vibid:22420001398755": 2,
+      "gas:candidate-vibid:22420001258110": 5,
+      "gas:candidate-vibid:22420001397813": 0,
+      "gas:candidate-vibid:22420001396432": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180015&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180015&type=464",
@@ -7772,15 +7772,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 35,
-      "Горностаев Александр Сергеевич": 17,
-      "Зберовский Андрей Викторович": 29,
-      "Осипова Татьяна Юрьевна": 39,
-      "Слонов Алексей Павлович": 51,
-      "Тарасов Артем Михайлович": 19,
-      "Титов Сергей Сергеевич": 224,
-      "Шахматов Сергей Александрович": 17,
-      "Швыткин Юрий Николаевич": 296
+      "gas:candidate-vibid:22420001387054": 35,
+      "gas:candidate-vibid:22420001400620": 17,
+      "gas:candidate-vibid:22420001395003": 29,
+      "gas:candidate-vibid:22420001389141": 39,
+      "gas:candidate-vibid:22420001399759": 51,
+      "gas:candidate-vibid:22420001398755": 19,
+      "gas:candidate-vibid:22420001258110": 224,
+      "gas:candidate-vibid:22420001397813": 17,
+      "gas:candidate-vibid:22420001396432": 296
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180015&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180015&type=464",
@@ -7831,15 +7831,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 51,
-      "Горностаев Александр Сергеевич": 16,
-      "Зберовский Андрей Викторович": 16,
-      "Осипова Татьяна Юрьевна": 29,
-      "Слонов Алексей Павлович": 56,
-      "Тарасов Артем Михайлович": 14,
-      "Титов Сергей Сергеевич": 179,
-      "Шахматов Сергей Александрович": 13,
-      "Швыткин Юрий Николаевич": 226
+      "gas:candidate-vibid:22420001387054": 51,
+      "gas:candidate-vibid:22420001400620": 16,
+      "gas:candidate-vibid:22420001395003": 16,
+      "gas:candidate-vibid:22420001389141": 29,
+      "gas:candidate-vibid:22420001399759": 56,
+      "gas:candidate-vibid:22420001398755": 14,
+      "gas:candidate-vibid:22420001258110": 179,
+      "gas:candidate-vibid:22420001397813": 13,
+      "gas:candidate-vibid:22420001396432": 226
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180015&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180015&type=464",
@@ -7890,15 +7890,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 12,
-      "Горностаев Александр Сергеевич": 4,
-      "Зберовский Андрей Викторович": 1,
-      "Осипова Татьяна Юрьевна": 15,
-      "Слонов Алексей Павлович": 16,
-      "Тарасов Артем Михайлович": 3,
-      "Титов Сергей Сергеевич": 50,
-      "Шахматов Сергей Александрович": 7,
-      "Швыткин Юрий Николаевич": 73
+      "gas:candidate-vibid:22420001387054": 12,
+      "gas:candidate-vibid:22420001400620": 4,
+      "gas:candidate-vibid:22420001395003": 1,
+      "gas:candidate-vibid:22420001389141": 15,
+      "gas:candidate-vibid:22420001399759": 16,
+      "gas:candidate-vibid:22420001398755": 3,
+      "gas:candidate-vibid:22420001258110": 50,
+      "gas:candidate-vibid:22420001397813": 7,
+      "gas:candidate-vibid:22420001396432": 73
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180015&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180015&type=464",
@@ -7949,15 +7949,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 8,
-      "Горностаев Александр Сергеевич": 1,
-      "Зберовский Андрей Викторович": 2,
-      "Осипова Татьяна Юрьевна": 4,
-      "Слонов Алексей Павлович": 2,
-      "Тарасов Артем Михайлович": 0,
-      "Титов Сергей Сергеевич": 18,
-      "Шахматов Сергей Александрович": 3,
-      "Швыткин Юрий Николаевич": 27
+      "gas:candidate-vibid:22420001387054": 8,
+      "gas:candidate-vibid:22420001400620": 1,
+      "gas:candidate-vibid:22420001395003": 2,
+      "gas:candidate-vibid:22420001389141": 4,
+      "gas:candidate-vibid:22420001399759": 2,
+      "gas:candidate-vibid:22420001398755": 0,
+      "gas:candidate-vibid:22420001258110": 18,
+      "gas:candidate-vibid:22420001397813": 3,
+      "gas:candidate-vibid:22420001396432": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180015&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180015&type=464",
@@ -8008,15 +8008,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 2,
-      "Горностаев Александр Сергеевич": 1,
-      "Зберовский Андрей Викторович": 5,
-      "Осипова Татьяна Юрьевна": 6,
-      "Слонов Алексей Павлович": 4,
-      "Тарасов Артем Михайлович": 0,
-      "Титов Сергей Сергеевич": 12,
-      "Шахматов Сергей Александрович": 0,
-      "Швыткин Юрий Николаевич": 25
+      "gas:candidate-vibid:22420001387054": 2,
+      "gas:candidate-vibid:22420001400620": 1,
+      "gas:candidate-vibid:22420001395003": 5,
+      "gas:candidate-vibid:22420001389141": 6,
+      "gas:candidate-vibid:22420001399759": 4,
+      "gas:candidate-vibid:22420001398755": 0,
+      "gas:candidate-vibid:22420001258110": 12,
+      "gas:candidate-vibid:22420001397813": 0,
+      "gas:candidate-vibid:22420001396432": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180015&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180015&type=464",
@@ -8067,15 +8067,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 1,
-      "Горностаев Александр Сергеевич": 0,
-      "Зберовский Андрей Викторович": 3,
-      "Осипова Татьяна Юрьевна": 3,
-      "Слонов Алексей Павлович": 3,
-      "Тарасов Артем Михайлович": 0,
-      "Титов Сергей Сергеевич": 7,
-      "Шахматов Сергей Александрович": 0,
-      "Швыткин Юрий Николаевич": 17
+      "gas:candidate-vibid:22420001387054": 1,
+      "gas:candidate-vibid:22420001400620": 0,
+      "gas:candidate-vibid:22420001395003": 3,
+      "gas:candidate-vibid:22420001389141": 3,
+      "gas:candidate-vibid:22420001399759": 3,
+      "gas:candidate-vibid:22420001398755": 0,
+      "gas:candidate-vibid:22420001258110": 7,
+      "gas:candidate-vibid:22420001397813": 0,
+      "gas:candidate-vibid:22420001396432": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180015&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180015&type=464",
@@ -8126,15 +8126,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 1,
-      "Горностаев Александр Сергеевич": 1,
-      "Зберовский Андрей Викторович": 3,
-      "Осипова Татьяна Юрьевна": 7,
-      "Слонов Алексей Павлович": 9,
-      "Тарасов Артем Михайлович": 2,
-      "Титов Сергей Сергеевич": 9,
-      "Шахматов Сергей Александрович": 0,
-      "Швыткин Юрий Николаевич": 43
+      "gas:candidate-vibid:22420001387054": 1,
+      "gas:candidate-vibid:22420001400620": 1,
+      "gas:candidate-vibid:22420001395003": 3,
+      "gas:candidate-vibid:22420001389141": 7,
+      "gas:candidate-vibid:22420001399759": 9,
+      "gas:candidate-vibid:22420001398755": 2,
+      "gas:candidate-vibid:22420001258110": 9,
+      "gas:candidate-vibid:22420001397813": 0,
+      "gas:candidate-vibid:22420001396432": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180015&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180015&type=464",
@@ -8185,15 +8185,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 5,
-      "Горностаев Александр Сергеевич": 6,
-      "Зберовский Андрей Викторович": 9,
-      "Осипова Татьяна Юрьевна": 15,
-      "Слонов Алексей Павлович": 7,
-      "Тарасов Артем Михайлович": 2,
-      "Титов Сергей Сергеевич": 22,
-      "Шахматов Сергей Александрович": 0,
-      "Швыткин Юрий Николаевич": 69
+      "gas:candidate-vibid:22420001387054": 5,
+      "gas:candidate-vibid:22420001400620": 6,
+      "gas:candidate-vibid:22420001395003": 9,
+      "gas:candidate-vibid:22420001389141": 15,
+      "gas:candidate-vibid:22420001399759": 7,
+      "gas:candidate-vibid:22420001398755": 2,
+      "gas:candidate-vibid:22420001258110": 22,
+      "gas:candidate-vibid:22420001397813": 0,
+      "gas:candidate-vibid:22420001396432": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180015&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180015&type=464",
@@ -8244,15 +8244,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 9,
-      "Горностаев Александр Сергеевич": 0,
-      "Зберовский Андрей Викторович": 5,
-      "Осипова Татьяна Юрьевна": 12,
-      "Слонов Алексей Павлович": 17,
-      "Тарасов Артем Михайлович": 4,
-      "Титов Сергей Сергеевич": 18,
-      "Шахматов Сергей Александрович": 5,
-      "Швыткин Юрий Николаевич": 69
+      "gas:candidate-vibid:22420001387054": 9,
+      "gas:candidate-vibid:22420001400620": 0,
+      "gas:candidate-vibid:22420001395003": 5,
+      "gas:candidate-vibid:22420001389141": 12,
+      "gas:candidate-vibid:22420001399759": 17,
+      "gas:candidate-vibid:22420001398755": 4,
+      "gas:candidate-vibid:22420001258110": 18,
+      "gas:candidate-vibid:22420001397813": 5,
+      "gas:candidate-vibid:22420001396432": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180015&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180015&type=464",
@@ -8303,15 +8303,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 2,
-      "Горностаев Александр Сергеевич": 0,
-      "Зберовский Андрей Викторович": 1,
-      "Осипова Татьяна Юрьевна": 3,
-      "Слонов Алексей Павлович": 5,
-      "Тарасов Артем Михайлович": 1,
-      "Титов Сергей Сергеевич": 5,
-      "Шахматов Сергей Александрович": 0,
-      "Швыткин Юрий Николаевич": 21
+      "gas:candidate-vibid:22420001387054": 2,
+      "gas:candidate-vibid:22420001400620": 0,
+      "gas:candidate-vibid:22420001395003": 1,
+      "gas:candidate-vibid:22420001389141": 3,
+      "gas:candidate-vibid:22420001399759": 5,
+      "gas:candidate-vibid:22420001398755": 1,
+      "gas:candidate-vibid:22420001258110": 5,
+      "gas:candidate-vibid:22420001397813": 0,
+      "gas:candidate-vibid:22420001396432": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180015&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180015&type=464",
@@ -8362,15 +8362,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 3,
-      "Горностаев Александр Сергеевич": 2,
-      "Зберовский Андрей Викторович": 2,
-      "Осипова Татьяна Юрьевна": 8,
-      "Слонов Алексей Павлович": 12,
-      "Тарасов Артем Михайлович": 1,
-      "Титов Сергей Сергеевич": 15,
-      "Шахматов Сергей Александрович": 0,
-      "Швыткин Юрий Николаевич": 38
+      "gas:candidate-vibid:22420001387054": 3,
+      "gas:candidate-vibid:22420001400620": 2,
+      "gas:candidate-vibid:22420001395003": 2,
+      "gas:candidate-vibid:22420001389141": 8,
+      "gas:candidate-vibid:22420001399759": 12,
+      "gas:candidate-vibid:22420001398755": 1,
+      "gas:candidate-vibid:22420001258110": 15,
+      "gas:candidate-vibid:22420001397813": 0,
+      "gas:candidate-vibid:22420001396432": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180015&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180015&type=464",
@@ -8421,15 +8421,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 5,
-      "Горностаев Александр Сергеевич": 3,
-      "Зберовский Андрей Викторович": 3,
-      "Осипова Татьяна Юрьевна": 8,
-      "Слонов Алексей Павлович": 9,
-      "Тарасов Артем Михайлович": 4,
-      "Титов Сергей Сергеевич": 24,
-      "Шахматов Сергей Александрович": 3,
-      "Швыткин Юрий Николаевич": 57
+      "gas:candidate-vibid:22420001387054": 5,
+      "gas:candidate-vibid:22420001400620": 3,
+      "gas:candidate-vibid:22420001395003": 3,
+      "gas:candidate-vibid:22420001389141": 8,
+      "gas:candidate-vibid:22420001399759": 9,
+      "gas:candidate-vibid:22420001398755": 4,
+      "gas:candidate-vibid:22420001258110": 24,
+      "gas:candidate-vibid:22420001397813": 3,
+      "gas:candidate-vibid:22420001396432": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180015&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180015&type=464",
@@ -8480,15 +8480,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 17,
-      "Горностаев Александр Сергеевич": 9,
-      "Зберовский Андрей Викторович": 11,
-      "Осипова Татьяна Юрьевна": 17,
-      "Слонов Алексей Павлович": 25,
-      "Тарасов Артем Михайлович": 6,
-      "Титов Сергей Сергеевич": 33,
-      "Шахматов Сергей Александрович": 6,
-      "Швыткин Юрий Николаевич": 95
+      "gas:candidate-vibid:22420001387054": 17,
+      "gas:candidate-vibid:22420001400620": 9,
+      "gas:candidate-vibid:22420001395003": 11,
+      "gas:candidate-vibid:22420001389141": 17,
+      "gas:candidate-vibid:22420001399759": 25,
+      "gas:candidate-vibid:22420001398755": 6,
+      "gas:candidate-vibid:22420001258110": 33,
+      "gas:candidate-vibid:22420001397813": 6,
+      "gas:candidate-vibid:22420001396432": 95
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180015&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180015&type=464",
@@ -8539,15 +8539,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 1,
-      "Горностаев Александр Сергеевич": 2,
-      "Зберовский Андрей Викторович": 2,
-      "Осипова Татьяна Юрьевна": 3,
-      "Слонов Алексей Павлович": 3,
-      "Тарасов Артем Михайлович": 0,
-      "Титов Сергей Сергеевич": 8,
-      "Шахматов Сергей Александрович": 0,
-      "Швыткин Юрий Николаевич": 35
+      "gas:candidate-vibid:22420001387054": 1,
+      "gas:candidate-vibid:22420001400620": 2,
+      "gas:candidate-vibid:22420001395003": 2,
+      "gas:candidate-vibid:22420001389141": 3,
+      "gas:candidate-vibid:22420001399759": 3,
+      "gas:candidate-vibid:22420001398755": 0,
+      "gas:candidate-vibid:22420001258110": 8,
+      "gas:candidate-vibid:22420001397813": 0,
+      "gas:candidate-vibid:22420001396432": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180015&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180015&type=464",
@@ -8598,15 +8598,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 11,
-      "Горностаев Александр Сергеевич": 6,
-      "Зберовский Андрей Викторович": 10,
-      "Осипова Татьяна Юрьевна": 13,
-      "Слонов Алексей Павлович": 8,
-      "Тарасов Артем Михайлович": 5,
-      "Титов Сергей Сергеевич": 39,
-      "Шахматов Сергей Александрович": 3,
-      "Швыткин Юрий Николаевич": 87
+      "gas:candidate-vibid:22420001387054": 11,
+      "gas:candidate-vibid:22420001400620": 6,
+      "gas:candidate-vibid:22420001395003": 10,
+      "gas:candidate-vibid:22420001389141": 13,
+      "gas:candidate-vibid:22420001399759": 8,
+      "gas:candidate-vibid:22420001398755": 5,
+      "gas:candidate-vibid:22420001258110": 39,
+      "gas:candidate-vibid:22420001397813": 3,
+      "gas:candidate-vibid:22420001396432": 87
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180015&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180015&type=464",
@@ -8657,15 +8657,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 8,
-      "Горностаев Александр Сергеевич": 6,
-      "Зберовский Андрей Викторович": 8,
-      "Осипова Татьяна Юрьевна": 23,
-      "Слонов Алексей Павлович": 28,
-      "Тарасов Артем Михайлович": 6,
-      "Титов Сергей Сергеевич": 23,
-      "Шахматов Сергей Александрович": 2,
-      "Швыткин Юрий Николаевич": 81
+      "gas:candidate-vibid:22420001387054": 8,
+      "gas:candidate-vibid:22420001400620": 6,
+      "gas:candidate-vibid:22420001395003": 8,
+      "gas:candidate-vibid:22420001389141": 23,
+      "gas:candidate-vibid:22420001399759": 28,
+      "gas:candidate-vibid:22420001398755": 6,
+      "gas:candidate-vibid:22420001258110": 23,
+      "gas:candidate-vibid:22420001397813": 2,
+      "gas:candidate-vibid:22420001396432": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180015&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180015&type=464",
@@ -8716,15 +8716,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 3,
-      "Горностаев Александр Сергеевич": 5,
-      "Зберовский Андрей Викторович": 2,
-      "Осипова Татьяна Юрьевна": 6,
-      "Слонов Алексей Павлович": 6,
-      "Тарасов Артем Михайлович": 0,
-      "Титов Сергей Сергеевич": 5,
-      "Шахматов Сергей Александрович": 3,
-      "Швыткин Юрий Николаевич": 25
+      "gas:candidate-vibid:22420001387054": 3,
+      "gas:candidate-vibid:22420001400620": 5,
+      "gas:candidate-vibid:22420001395003": 2,
+      "gas:candidate-vibid:22420001389141": 6,
+      "gas:candidate-vibid:22420001399759": 6,
+      "gas:candidate-vibid:22420001398755": 0,
+      "gas:candidate-vibid:22420001258110": 5,
+      "gas:candidate-vibid:22420001397813": 3,
+      "gas:candidate-vibid:22420001396432": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180015&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180015&type=464",
@@ -8775,15 +8775,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 13,
-      "Горностаев Александр Сергеевич": 7,
-      "Зберовский Андрей Викторович": 5,
-      "Осипова Татьяна Юрьевна": 13,
-      "Слонов Алексей Павлович": 14,
-      "Тарасов Артем Михайлович": 2,
-      "Титов Сергей Сергеевич": 13,
-      "Шахматов Сергей Александрович": 2,
-      "Швыткин Юрий Николаевич": 63
+      "gas:candidate-vibid:22420001387054": 13,
+      "gas:candidate-vibid:22420001400620": 7,
+      "gas:candidate-vibid:22420001395003": 5,
+      "gas:candidate-vibid:22420001389141": 13,
+      "gas:candidate-vibid:22420001399759": 14,
+      "gas:candidate-vibid:22420001398755": 2,
+      "gas:candidate-vibid:22420001258110": 13,
+      "gas:candidate-vibid:22420001397813": 2,
+      "gas:candidate-vibid:22420001396432": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180015&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180015&type=464",
@@ -8834,15 +8834,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 2,
-      "Горностаев Александр Сергеевич": 2,
-      "Зберовский Андрей Викторович": 3,
-      "Осипова Татьяна Юрьевна": 2,
-      "Слонов Алексей Павлович": 7,
-      "Тарасов Артем Михайлович": 2,
-      "Титов Сергей Сергеевич": 6,
-      "Шахматов Сергей Александрович": 4,
-      "Швыткин Юрий Николаевич": 25
+      "gas:candidate-vibid:22420001387054": 2,
+      "gas:candidate-vibid:22420001400620": 2,
+      "gas:candidate-vibid:22420001395003": 3,
+      "gas:candidate-vibid:22420001389141": 2,
+      "gas:candidate-vibid:22420001399759": 7,
+      "gas:candidate-vibid:22420001398755": 2,
+      "gas:candidate-vibid:22420001258110": 6,
+      "gas:candidate-vibid:22420001397813": 4,
+      "gas:candidate-vibid:22420001396432": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180015&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180015&type=464",
@@ -8893,15 +8893,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 7,
-      "Горностаев Александр Сергеевич": 3,
-      "Зберовский Андрей Викторович": 3,
-      "Осипова Татьяна Юрьевна": 13,
-      "Слонов Алексей Павлович": 9,
-      "Тарасов Артем Михайлович": 1,
-      "Титов Сергей Сергеевич": 18,
-      "Шахматов Сергей Александрович": 1,
-      "Швыткин Юрий Николаевич": 79
+      "gas:candidate-vibid:22420001387054": 7,
+      "gas:candidate-vibid:22420001400620": 3,
+      "gas:candidate-vibid:22420001395003": 3,
+      "gas:candidate-vibid:22420001389141": 13,
+      "gas:candidate-vibid:22420001399759": 9,
+      "gas:candidate-vibid:22420001398755": 1,
+      "gas:candidate-vibid:22420001258110": 18,
+      "gas:candidate-vibid:22420001397813": 1,
+      "gas:candidate-vibid:22420001396432": 79
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180015&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180015&type=464",
@@ -8952,15 +8952,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 0,
-      "Горностаев Александр Сергеевич": 2,
-      "Зберовский Андрей Викторович": 0,
-      "Осипова Татьяна Юрьевна": 0,
-      "Слонов Алексей Павлович": 0,
-      "Тарасов Артем Михайлович": 0,
-      "Титов Сергей Сергеевич": 0,
-      "Шахматов Сергей Александрович": 0,
-      "Швыткин Юрий Николаевич": 2
+      "gas:candidate-vibid:22420001387054": 0,
+      "gas:candidate-vibid:22420001400620": 2,
+      "gas:candidate-vibid:22420001395003": 0,
+      "gas:candidate-vibid:22420001389141": 0,
+      "gas:candidate-vibid:22420001399759": 0,
+      "gas:candidate-vibid:22420001398755": 0,
+      "gas:candidate-vibid:22420001258110": 0,
+      "gas:candidate-vibid:22420001397813": 0,
+      "gas:candidate-vibid:22420001396432": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180015&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180015&type=464",
@@ -9011,15 +9011,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 80,
-      "Горностаев Александр Сергеевич": 58,
-      "Зберовский Андрей Викторович": 63,
-      "Осипова Татьяна Юрьевна": 26,
-      "Слонов Алексей Павлович": 38,
-      "Тарасов Артем Михайлович": 16,
-      "Титов Сергей Сергеевич": 64,
-      "Шахматов Сергей Александрович": 10,
-      "Швыткин Юрий Николаевич": 307
+      "gas:candidate-vibid:22420001387054": 80,
+      "gas:candidate-vibid:22420001400620": 58,
+      "gas:candidate-vibid:22420001395003": 63,
+      "gas:candidate-vibid:22420001389141": 26,
+      "gas:candidate-vibid:22420001399759": 38,
+      "gas:candidate-vibid:22420001398755": 16,
+      "gas:candidate-vibid:22420001258110": 64,
+      "gas:candidate-vibid:22420001397813": 10,
+      "gas:candidate-vibid:22420001396432": 307
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180016&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180016&type=464",
@@ -9070,15 +9070,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 88,
-      "Горностаев Александр Сергеевич": 28,
-      "Зберовский Андрей Викторович": 42,
-      "Осипова Татьяна Юрьевна": 22,
-      "Слонов Алексей Павлович": 49,
-      "Тарасов Артем Михайлович": 24,
-      "Титов Сергей Сергеевич": 41,
-      "Шахматов Сергей Александрович": 9,
-      "Швыткин Юрий Николаевич": 259
+      "gas:candidate-vibid:22420001387054": 88,
+      "gas:candidate-vibid:22420001400620": 28,
+      "gas:candidate-vibid:22420001395003": 42,
+      "gas:candidate-vibid:22420001389141": 22,
+      "gas:candidate-vibid:22420001399759": 49,
+      "gas:candidate-vibid:22420001398755": 24,
+      "gas:candidate-vibid:22420001258110": 41,
+      "gas:candidate-vibid:22420001397813": 9,
+      "gas:candidate-vibid:22420001396432": 259
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180016&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180016&type=464",
@@ -9129,15 +9129,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 95,
-      "Горностаев Александр Сергеевич": 24,
-      "Зберовский Андрей Викторович": 28,
-      "Осипова Татьяна Юрьевна": 20,
-      "Слонов Алексей Павлович": 42,
-      "Тарасов Артем Михайлович": 12,
-      "Титов Сергей Сергеевич": 46,
-      "Шахматов Сергей Александрович": 20,
-      "Швыткин Юрий Николаевич": 254
+      "gas:candidate-vibid:22420001387054": 95,
+      "gas:candidate-vibid:22420001400620": 24,
+      "gas:candidate-vibid:22420001395003": 28,
+      "gas:candidate-vibid:22420001389141": 20,
+      "gas:candidate-vibid:22420001399759": 42,
+      "gas:candidate-vibid:22420001398755": 12,
+      "gas:candidate-vibid:22420001258110": 46,
+      "gas:candidate-vibid:22420001397813": 20,
+      "gas:candidate-vibid:22420001396432": 254
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180016&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180016&type=464",
@@ -9188,15 +9188,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 104,
-      "Горностаев Александр Сергеевич": 24,
-      "Зберовский Андрей Викторович": 55,
-      "Осипова Татьяна Юрьевна": 38,
-      "Слонов Алексей Павлович": 74,
-      "Тарасов Артем Михайлович": 24,
-      "Титов Сергей Сергеевич": 55,
-      "Шахматов Сергей Александрович": 13,
-      "Швыткин Юрий Николаевич": 332
+      "gas:candidate-vibid:22420001387054": 104,
+      "gas:candidate-vibid:22420001400620": 24,
+      "gas:candidate-vibid:22420001395003": 55,
+      "gas:candidate-vibid:22420001389141": 38,
+      "gas:candidate-vibid:22420001399759": 74,
+      "gas:candidate-vibid:22420001398755": 24,
+      "gas:candidate-vibid:22420001258110": 55,
+      "gas:candidate-vibid:22420001397813": 13,
+      "gas:candidate-vibid:22420001396432": 332
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180016&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180016&type=464",
@@ -9247,15 +9247,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 54,
-      "Горностаев Александр Сергеевич": 15,
-      "Зберовский Андрей Викторович": 30,
-      "Осипова Татьяна Юрьевна": 22,
-      "Слонов Алексей Павлович": 35,
-      "Тарасов Артем Михайлович": 16,
-      "Титов Сергей Сергеевич": 33,
-      "Шахматов Сергей Александрович": 10,
-      "Швыткин Юрий Николаевич": 168
+      "gas:candidate-vibid:22420001387054": 54,
+      "gas:candidate-vibid:22420001400620": 15,
+      "gas:candidate-vibid:22420001395003": 30,
+      "gas:candidate-vibid:22420001389141": 22,
+      "gas:candidate-vibid:22420001399759": 35,
+      "gas:candidate-vibid:22420001398755": 16,
+      "gas:candidate-vibid:22420001258110": 33,
+      "gas:candidate-vibid:22420001397813": 10,
+      "gas:candidate-vibid:22420001396432": 168
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180016&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180016&type=464",
@@ -9306,15 +9306,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 52,
-      "Горностаев Александр Сергеевич": 25,
-      "Зберовский Андрей Викторович": 34,
-      "Осипова Татьяна Юрьевна": 17,
-      "Слонов Алексей Павлович": 33,
-      "Тарасов Артем Михайлович": 22,
-      "Титов Сергей Сергеевич": 36,
-      "Шахматов Сергей Александрович": 6,
-      "Швыткин Юрий Николаевич": 203
+      "gas:candidate-vibid:22420001387054": 52,
+      "gas:candidate-vibid:22420001400620": 25,
+      "gas:candidate-vibid:22420001395003": 34,
+      "gas:candidate-vibid:22420001389141": 17,
+      "gas:candidate-vibid:22420001399759": 33,
+      "gas:candidate-vibid:22420001398755": 22,
+      "gas:candidate-vibid:22420001258110": 36,
+      "gas:candidate-vibid:22420001397813": 6,
+      "gas:candidate-vibid:22420001396432": 203
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180016&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180016&type=464",
@@ -9365,15 +9365,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 83,
-      "Горностаев Александр Сергеевич": 25,
-      "Зберовский Андрей Викторович": 32,
-      "Осипова Татьяна Юрьевна": 20,
-      "Слонов Алексей Павлович": 29,
-      "Тарасов Артем Михайлович": 26,
-      "Титов Сергей Сергеевич": 43,
-      "Шахматов Сергей Александрович": 12,
-      "Швыткин Юрий Николаевич": 248
+      "gas:candidate-vibid:22420001387054": 83,
+      "gas:candidate-vibid:22420001400620": 25,
+      "gas:candidate-vibid:22420001395003": 32,
+      "gas:candidate-vibid:22420001389141": 20,
+      "gas:candidate-vibid:22420001399759": 29,
+      "gas:candidate-vibid:22420001398755": 26,
+      "gas:candidate-vibid:22420001258110": 43,
+      "gas:candidate-vibid:22420001397813": 12,
+      "gas:candidate-vibid:22420001396432": 248
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180016&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180016&type=464",
@@ -9424,15 +9424,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 59,
-      "Горностаев Александр Сергеевич": 39,
-      "Зберовский Андрей Викторович": 44,
-      "Осипова Татьяна Юрьевна": 21,
-      "Слонов Алексей Павлович": 46,
-      "Тарасов Артем Михайлович": 20,
-      "Титов Сергей Сергеевич": 31,
-      "Шахматов Сергей Александрович": 9,
-      "Швыткин Юрий Николаевич": 250
+      "gas:candidate-vibid:22420001387054": 59,
+      "gas:candidate-vibid:22420001400620": 39,
+      "gas:candidate-vibid:22420001395003": 44,
+      "gas:candidate-vibid:22420001389141": 21,
+      "gas:candidate-vibid:22420001399759": 46,
+      "gas:candidate-vibid:22420001398755": 20,
+      "gas:candidate-vibid:22420001258110": 31,
+      "gas:candidate-vibid:22420001397813": 9,
+      "gas:candidate-vibid:22420001396432": 250
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180016&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180016&type=464",
@@ -9483,15 +9483,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 68,
-      "Горностаев Александр Сергеевич": 13,
-      "Зберовский Андрей Викторович": 29,
-      "Осипова Татьяна Юрьевна": 16,
-      "Слонов Алексей Павлович": 44,
-      "Тарасов Артем Михайлович": 25,
-      "Титов Сергей Сергеевич": 29,
-      "Шахматов Сергей Александрович": 13,
-      "Швыткин Юрий Николаевич": 206
+      "gas:candidate-vibid:22420001387054": 68,
+      "gas:candidate-vibid:22420001400620": 13,
+      "gas:candidate-vibid:22420001395003": 29,
+      "gas:candidate-vibid:22420001389141": 16,
+      "gas:candidate-vibid:22420001399759": 44,
+      "gas:candidate-vibid:22420001398755": 25,
+      "gas:candidate-vibid:22420001258110": 29,
+      "gas:candidate-vibid:22420001397813": 13,
+      "gas:candidate-vibid:22420001396432": 206
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180016&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180016&type=464",
@@ -9542,15 +9542,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 63,
-      "Горностаев Александр Сергеевич": 32,
-      "Зберовский Андрей Викторович": 27,
-      "Осипова Татьяна Юрьевна": 16,
-      "Слонов Алексей Павлович": 42,
-      "Тарасов Артем Михайлович": 19,
-      "Титов Сергей Сергеевич": 35,
-      "Шахматов Сергей Александрович": 13,
-      "Швыткин Юрий Николаевич": 213
+      "gas:candidate-vibid:22420001387054": 63,
+      "gas:candidate-vibid:22420001400620": 32,
+      "gas:candidate-vibid:22420001395003": 27,
+      "gas:candidate-vibid:22420001389141": 16,
+      "gas:candidate-vibid:22420001399759": 42,
+      "gas:candidate-vibid:22420001398755": 19,
+      "gas:candidate-vibid:22420001258110": 35,
+      "gas:candidate-vibid:22420001397813": 13,
+      "gas:candidate-vibid:22420001396432": 213
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180016&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180016&type=464",
@@ -9601,15 +9601,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 76,
-      "Горностаев Александр Сергеевич": 22,
-      "Зберовский Андрей Викторович": 36,
-      "Осипова Татьяна Юрьевна": 17,
-      "Слонов Алексей Павлович": 51,
-      "Тарасов Артем Михайлович": 19,
-      "Титов Сергей Сергеевич": 38,
-      "Шахматов Сергей Александрович": 20,
-      "Швыткин Юрий Николаевич": 247
+      "gas:candidate-vibid:22420001387054": 76,
+      "gas:candidate-vibid:22420001400620": 22,
+      "gas:candidate-vibid:22420001395003": 36,
+      "gas:candidate-vibid:22420001389141": 17,
+      "gas:candidate-vibid:22420001399759": 51,
+      "gas:candidate-vibid:22420001398755": 19,
+      "gas:candidate-vibid:22420001258110": 38,
+      "gas:candidate-vibid:22420001397813": 20,
+      "gas:candidate-vibid:22420001396432": 247
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180016&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180016&type=464",
@@ -9660,15 +9660,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 65,
-      "Горностаев Александр Сергеевич": 49,
-      "Зберовский Андрей Викторович": 39,
-      "Осипова Татьяна Юрьевна": 24,
-      "Слонов Алексей Павлович": 32,
-      "Тарасов Артем Михайлович": 30,
-      "Титов Сергей Сергеевич": 44,
-      "Шахматов Сергей Александрович": 3,
-      "Швыткин Юрий Николаевич": 238
+      "gas:candidate-vibid:22420001387054": 65,
+      "gas:candidate-vibid:22420001400620": 49,
+      "gas:candidate-vibid:22420001395003": 39,
+      "gas:candidate-vibid:22420001389141": 24,
+      "gas:candidate-vibid:22420001399759": 32,
+      "gas:candidate-vibid:22420001398755": 30,
+      "gas:candidate-vibid:22420001258110": 44,
+      "gas:candidate-vibid:22420001397813": 3,
+      "gas:candidate-vibid:22420001396432": 238
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180016&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180016&type=464",
@@ -9719,15 +9719,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 72,
-      "Горностаев Александр Сергеевич": 49,
-      "Зберовский Андрей Викторович": 57,
-      "Осипова Татьяна Юрьевна": 17,
-      "Слонов Алексей Павлович": 40,
-      "Тарасов Артем Михайлович": 17,
-      "Титов Сергей Сергеевич": 30,
-      "Шахматов Сергей Александрович": 11,
-      "Швыткин Юрий Николаевич": 218
+      "gas:candidate-vibid:22420001387054": 72,
+      "gas:candidate-vibid:22420001400620": 49,
+      "gas:candidate-vibid:22420001395003": 57,
+      "gas:candidate-vibid:22420001389141": 17,
+      "gas:candidate-vibid:22420001399759": 40,
+      "gas:candidate-vibid:22420001398755": 17,
+      "gas:candidate-vibid:22420001258110": 30,
+      "gas:candidate-vibid:22420001397813": 11,
+      "gas:candidate-vibid:22420001396432": 218
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180016&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180016&type=464",
@@ -9778,15 +9778,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 109,
-      "Горностаев Александр Сергеевич": 65,
-      "Зберовский Андрей Викторович": 68,
-      "Осипова Татьяна Юрьевна": 29,
-      "Слонов Алексей Павлович": 60,
-      "Тарасов Артем Михайлович": 27,
-      "Титов Сергей Сергеевич": 44,
-      "Шахматов Сергей Александрович": 18,
-      "Швыткин Юрий Николаевич": 444
+      "gas:candidate-vibid:22420001387054": 109,
+      "gas:candidate-vibid:22420001400620": 65,
+      "gas:candidate-vibid:22420001395003": 68,
+      "gas:candidate-vibid:22420001389141": 29,
+      "gas:candidate-vibid:22420001399759": 60,
+      "gas:candidate-vibid:22420001398755": 27,
+      "gas:candidate-vibid:22420001258110": 44,
+      "gas:candidate-vibid:22420001397813": 18,
+      "gas:candidate-vibid:22420001396432": 444
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180016&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180016&type=464",
@@ -9837,15 +9837,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 77,
-      "Горностаев Александр Сергеевич": 70,
-      "Зберовский Андрей Викторович": 53,
-      "Осипова Татьяна Юрьевна": 23,
-      "Слонов Алексей Павлович": 54,
-      "Тарасов Артем Михайлович": 16,
-      "Титов Сергей Сергеевич": 41,
-      "Шахматов Сергей Александрович": 13,
-      "Швыткин Юрий Николаевич": 348
+      "gas:candidate-vibid:22420001387054": 77,
+      "gas:candidate-vibid:22420001400620": 70,
+      "gas:candidate-vibid:22420001395003": 53,
+      "gas:candidate-vibid:22420001389141": 23,
+      "gas:candidate-vibid:22420001399759": 54,
+      "gas:candidate-vibid:22420001398755": 16,
+      "gas:candidate-vibid:22420001258110": 41,
+      "gas:candidate-vibid:22420001397813": 13,
+      "gas:candidate-vibid:22420001396432": 348
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180016&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180016&type=464",
@@ -9896,15 +9896,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 55,
-      "Горностаев Александр Сергеевич": 21,
-      "Зберовский Андрей Викторович": 38,
-      "Осипова Татьяна Юрьевна": 12,
-      "Слонов Алексей Павлович": 29,
-      "Тарасов Артем Михайлович": 17,
-      "Титов Сергей Сергеевич": 30,
-      "Шахматов Сергей Александрович": 15,
-      "Швыткин Юрий Николаевич": 253
+      "gas:candidate-vibid:22420001387054": 55,
+      "gas:candidate-vibid:22420001400620": 21,
+      "gas:candidate-vibid:22420001395003": 38,
+      "gas:candidate-vibid:22420001389141": 12,
+      "gas:candidate-vibid:22420001399759": 29,
+      "gas:candidate-vibid:22420001398755": 17,
+      "gas:candidate-vibid:22420001258110": 30,
+      "gas:candidate-vibid:22420001397813": 15,
+      "gas:candidate-vibid:22420001396432": 253
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180016&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180016&type=464",
@@ -9955,15 +9955,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 85,
-      "Горностаев Александр Сергеевич": 42,
-      "Зберовский Андрей Викторович": 49,
-      "Осипова Татьяна Юрьевна": 20,
-      "Слонов Алексей Павлович": 29,
-      "Тарасов Артем Михайлович": 15,
-      "Титов Сергей Сергеевич": 39,
-      "Шахматов Сергей Александрович": 12,
-      "Швыткин Юрий Николаевич": 233
+      "gas:candidate-vibid:22420001387054": 85,
+      "gas:candidate-vibid:22420001400620": 42,
+      "gas:candidate-vibid:22420001395003": 49,
+      "gas:candidate-vibid:22420001389141": 20,
+      "gas:candidate-vibid:22420001399759": 29,
+      "gas:candidate-vibid:22420001398755": 15,
+      "gas:candidate-vibid:22420001258110": 39,
+      "gas:candidate-vibid:22420001397813": 12,
+      "gas:candidate-vibid:22420001396432": 233
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180016&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180016&type=464",
@@ -10014,15 +10014,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 96,
-      "Горностаев Александр Сергеевич": 51,
-      "Зберовский Андрей Викторович": 55,
-      "Осипова Татьяна Юрьевна": 20,
-      "Слонов Алексей Павлович": 52,
-      "Тарасов Артем Михайлович": 20,
-      "Титов Сергей Сергеевич": 40,
-      "Шахматов Сергей Александрович": 24,
-      "Швыткин Юрий Николаевич": 294
+      "gas:candidate-vibid:22420001387054": 96,
+      "gas:candidate-vibid:22420001400620": 51,
+      "gas:candidate-vibid:22420001395003": 55,
+      "gas:candidate-vibid:22420001389141": 20,
+      "gas:candidate-vibid:22420001399759": 52,
+      "gas:candidate-vibid:22420001398755": 20,
+      "gas:candidate-vibid:22420001258110": 40,
+      "gas:candidate-vibid:22420001397813": 24,
+      "gas:candidate-vibid:22420001396432": 294
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180016&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180016&type=464",
@@ -10073,15 +10073,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 81,
-      "Горностаев Александр Сергеевич": 43,
-      "Зберовский Андрей Викторович": 58,
-      "Осипова Татьяна Юрьевна": 21,
-      "Слонов Алексей Павлович": 42,
-      "Тарасов Артем Михайлович": 30,
-      "Титов Сергей Сергеевич": 59,
-      "Шахматов Сергей Александрович": 16,
-      "Швыткин Юрий Николаевич": 278
+      "gas:candidate-vibid:22420001387054": 81,
+      "gas:candidate-vibid:22420001400620": 43,
+      "gas:candidate-vibid:22420001395003": 58,
+      "gas:candidate-vibid:22420001389141": 21,
+      "gas:candidate-vibid:22420001399759": 42,
+      "gas:candidate-vibid:22420001398755": 30,
+      "gas:candidate-vibid:22420001258110": 59,
+      "gas:candidate-vibid:22420001397813": 16,
+      "gas:candidate-vibid:22420001396432": 278
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180016&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180016&type=464",
@@ -10132,15 +10132,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 71,
-      "Горностаев Александр Сергеевич": 75,
-      "Зберовский Андрей Викторович": 80,
-      "Осипова Татьяна Юрьевна": 19,
-      "Слонов Алексей Павлович": 61,
-      "Тарасов Артем Михайлович": 32,
-      "Титов Сергей Сергеевич": 62,
-      "Шахматов Сергей Александрович": 20,
-      "Швыткин Юрий Николаевич": 329
+      "gas:candidate-vibid:22420001387054": 71,
+      "gas:candidate-vibid:22420001400620": 75,
+      "gas:candidate-vibid:22420001395003": 80,
+      "gas:candidate-vibid:22420001389141": 19,
+      "gas:candidate-vibid:22420001399759": 61,
+      "gas:candidate-vibid:22420001398755": 32,
+      "gas:candidate-vibid:22420001258110": 62,
+      "gas:candidate-vibid:22420001397813": 20,
+      "gas:candidate-vibid:22420001396432": 329
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180016&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180016&type=464",
@@ -10191,15 +10191,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 136,
-      "Горностаев Александр Сергеевич": 72,
-      "Зберовский Андрей Викторович": 79,
-      "Осипова Татьяна Юрьевна": 35,
-      "Слонов Алексей Павлович": 68,
-      "Тарасов Артем Михайлович": 23,
-      "Титов Сергей Сергеевич": 86,
-      "Шахматов Сергей Александрович": 28,
-      "Швыткин Юрий Николаевич": 487
+      "gas:candidate-vibid:22420001387054": 136,
+      "gas:candidate-vibid:22420001400620": 72,
+      "gas:candidate-vibid:22420001395003": 79,
+      "gas:candidate-vibid:22420001389141": 35,
+      "gas:candidate-vibid:22420001399759": 68,
+      "gas:candidate-vibid:22420001398755": 23,
+      "gas:candidate-vibid:22420001258110": 86,
+      "gas:candidate-vibid:22420001397813": 28,
+      "gas:candidate-vibid:22420001396432": 487
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180016&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180016&type=464",
@@ -10250,15 +10250,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 116,
-      "Горностаев Александр Сергеевич": 85,
-      "Зберовский Андрей Викторович": 78,
-      "Осипова Татьяна Юрьевна": 35,
-      "Слонов Алексей Павлович": 59,
-      "Тарасов Артем Михайлович": 24,
-      "Титов Сергей Сергеевич": 57,
-      "Шахматов Сергей Александрович": 19,
-      "Швыткин Юрий Николаевич": 456
+      "gas:candidate-vibid:22420001387054": 116,
+      "gas:candidate-vibid:22420001400620": 85,
+      "gas:candidate-vibid:22420001395003": 78,
+      "gas:candidate-vibid:22420001389141": 35,
+      "gas:candidate-vibid:22420001399759": 59,
+      "gas:candidate-vibid:22420001398755": 24,
+      "gas:candidate-vibid:22420001258110": 57,
+      "gas:candidate-vibid:22420001397813": 19,
+      "gas:candidate-vibid:22420001396432": 456
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180016&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180016&type=464",
@@ -10309,15 +10309,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 73,
-      "Горностаев Александр Сергеевич": 47,
-      "Зберовский Андрей Викторович": 37,
-      "Осипова Татьяна Юрьевна": 24,
-      "Слонов Алексей Павлович": 42,
-      "Тарасов Артем Михайлович": 18,
-      "Титов Сергей Сергеевич": 53,
-      "Шахматов Сергей Александрович": 11,
-      "Швыткин Юрий Николаевич": 372
+      "gas:candidate-vibid:22420001387054": 73,
+      "gas:candidate-vibid:22420001400620": 47,
+      "gas:candidate-vibid:22420001395003": 37,
+      "gas:candidate-vibid:22420001389141": 24,
+      "gas:candidate-vibid:22420001399759": 42,
+      "gas:candidate-vibid:22420001398755": 18,
+      "gas:candidate-vibid:22420001258110": 53,
+      "gas:candidate-vibid:22420001397813": 11,
+      "gas:candidate-vibid:22420001396432": 372
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180016&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180016&type=464",
@@ -10368,15 +10368,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 55,
-      "Горностаев Александр Сергеевич": 85,
-      "Зберовский Андрей Викторович": 37,
-      "Осипова Татьяна Юрьевна": 26,
-      "Слонов Алексей Павлович": 27,
-      "Тарасов Артем Михайлович": 14,
-      "Титов Сергей Сергеевич": 47,
-      "Шахматов Сергей Александрович": 15,
-      "Швыткин Юрий Николаевич": 309
+      "gas:candidate-vibid:22420001387054": 55,
+      "gas:candidate-vibid:22420001400620": 85,
+      "gas:candidate-vibid:22420001395003": 37,
+      "gas:candidate-vibid:22420001389141": 26,
+      "gas:candidate-vibid:22420001399759": 27,
+      "gas:candidate-vibid:22420001398755": 14,
+      "gas:candidate-vibid:22420001258110": 47,
+      "gas:candidate-vibid:22420001397813": 15,
+      "gas:candidate-vibid:22420001396432": 309
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180016&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180016&type=464",
@@ -10427,15 +10427,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 51,
-      "Горностаев Александр Сергеевич": 48,
-      "Зберовский Андрей Викторович": 27,
-      "Осипова Татьяна Юрьевна": 18,
-      "Слонов Алексей Павлович": 28,
-      "Тарасов Артем Михайлович": 13,
-      "Титов Сергей Сергеевич": 28,
-      "Шахматов Сергей Александрович": 11,
-      "Швыткин Юрий Николаевич": 219
+      "gas:candidate-vibid:22420001387054": 51,
+      "gas:candidate-vibid:22420001400620": 48,
+      "gas:candidate-vibid:22420001395003": 27,
+      "gas:candidate-vibid:22420001389141": 18,
+      "gas:candidate-vibid:22420001399759": 28,
+      "gas:candidate-vibid:22420001398755": 13,
+      "gas:candidate-vibid:22420001258110": 28,
+      "gas:candidate-vibid:22420001397813": 11,
+      "gas:candidate-vibid:22420001396432": 219
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180016&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180016&type=464",
@@ -10486,15 +10486,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 36,
-      "Горностаев Александр Сергеевич": 38,
-      "Зберовский Андрей Викторович": 16,
-      "Осипова Татьяна Юрьевна": 14,
-      "Слонов Алексей Павлович": 12,
-      "Тарасов Артем Михайлович": 8,
-      "Титов Сергей Сергеевич": 35,
-      "Шахматов Сергей Александрович": 2,
-      "Швыткин Юрий Николаевич": 151
+      "gas:candidate-vibid:22420001387054": 36,
+      "gas:candidate-vibid:22420001400620": 38,
+      "gas:candidate-vibid:22420001395003": 16,
+      "gas:candidate-vibid:22420001389141": 14,
+      "gas:candidate-vibid:22420001399759": 12,
+      "gas:candidate-vibid:22420001398755": 8,
+      "gas:candidate-vibid:22420001258110": 35,
+      "gas:candidate-vibid:22420001397813": 2,
+      "gas:candidate-vibid:22420001396432": 151
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180016&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180016&type=464",
@@ -10545,15 +10545,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 37,
-      "Горностаев Александр Сергеевич": 18,
-      "Зберовский Андрей Викторович": 26,
-      "Осипова Татьяна Юрьевна": 20,
-      "Слонов Алексей Павлович": 21,
-      "Тарасов Артем Михайлович": 10,
-      "Титов Сергей Сергеевич": 43,
-      "Шахматов Сергей Александрович": 4,
-      "Швыткин Юрий Николаевич": 190
+      "gas:candidate-vibid:22420001387054": 37,
+      "gas:candidate-vibid:22420001400620": 18,
+      "gas:candidate-vibid:22420001395003": 26,
+      "gas:candidate-vibid:22420001389141": 20,
+      "gas:candidate-vibid:22420001399759": 21,
+      "gas:candidate-vibid:22420001398755": 10,
+      "gas:candidate-vibid:22420001258110": 43,
+      "gas:candidate-vibid:22420001397813": 4,
+      "gas:candidate-vibid:22420001396432": 190
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180016&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180016&type=464",
@@ -10604,15 +10604,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 38,
-      "Горностаев Александр Сергеевич": 29,
-      "Зберовский Андрей Викторович": 33,
-      "Осипова Татьяна Юрьевна": 16,
-      "Слонов Алексей Павлович": 29,
-      "Тарасов Артем Михайлович": 7,
-      "Титов Сергей Сергеевич": 26,
-      "Шахматов Сергей Александрович": 5,
-      "Швыткин Юрий Николаевич": 175
+      "gas:candidate-vibid:22420001387054": 38,
+      "gas:candidate-vibid:22420001400620": 29,
+      "gas:candidate-vibid:22420001395003": 33,
+      "gas:candidate-vibid:22420001389141": 16,
+      "gas:candidate-vibid:22420001399759": 29,
+      "gas:candidate-vibid:22420001398755": 7,
+      "gas:candidate-vibid:22420001258110": 26,
+      "gas:candidate-vibid:22420001397813": 5,
+      "gas:candidate-vibid:22420001396432": 175
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180016&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180016&type=464",
@@ -10663,15 +10663,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 75,
-      "Горностаев Александр Сергеевич": 74,
-      "Зберовский Андрей Викторович": 60,
-      "Осипова Татьяна Юрьевна": 24,
-      "Слонов Алексей Павлович": 50,
-      "Тарасов Артем Михайлович": 20,
-      "Титов Сергей Сергеевич": 55,
-      "Шахматов Сергей Александрович": 10,
-      "Швыткин Юрий Николаевич": 337
+      "gas:candidate-vibid:22420001387054": 75,
+      "gas:candidate-vibid:22420001400620": 74,
+      "gas:candidate-vibid:22420001395003": 60,
+      "gas:candidate-vibid:22420001389141": 24,
+      "gas:candidate-vibid:22420001399759": 50,
+      "gas:candidate-vibid:22420001398755": 20,
+      "gas:candidate-vibid:22420001258110": 55,
+      "gas:candidate-vibid:22420001397813": 10,
+      "gas:candidate-vibid:22420001396432": 337
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180016&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180016&type=464",
@@ -10722,15 +10722,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 95,
-      "Горностаев Александр Сергеевич": 42,
-      "Зберовский Андрей Викторович": 51,
-      "Осипова Татьяна Юрьевна": 33,
-      "Слонов Алексей Павлович": 38,
-      "Тарасов Артем Михайлович": 19,
-      "Титов Сергей Сергеевич": 46,
-      "Шахматов Сергей Александрович": 20,
-      "Швыткин Юрий Николаевич": 256
+      "gas:candidate-vibid:22420001387054": 95,
+      "gas:candidate-vibid:22420001400620": 42,
+      "gas:candidate-vibid:22420001395003": 51,
+      "gas:candidate-vibid:22420001389141": 33,
+      "gas:candidate-vibid:22420001399759": 38,
+      "gas:candidate-vibid:22420001398755": 19,
+      "gas:candidate-vibid:22420001258110": 46,
+      "gas:candidate-vibid:22420001397813": 20,
+      "gas:candidate-vibid:22420001396432": 256
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180016&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180016&type=464",
@@ -10781,15 +10781,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 84,
-      "Горностаев Александр Сергеевич": 63,
-      "Зберовский Андрей Викторович": 47,
-      "Осипова Татьяна Юрьевна": 33,
-      "Слонов Алексей Павлович": 29,
-      "Тарасов Артем Михайлович": 18,
-      "Титов Сергей Сергеевич": 30,
-      "Шахматов Сергей Александрович": 15,
-      "Швыткин Юрий Николаевич": 385
+      "gas:candidate-vibid:22420001387054": 84,
+      "gas:candidate-vibid:22420001400620": 63,
+      "gas:candidate-vibid:22420001395003": 47,
+      "gas:candidate-vibid:22420001389141": 33,
+      "gas:candidate-vibid:22420001399759": 29,
+      "gas:candidate-vibid:22420001398755": 18,
+      "gas:candidate-vibid:22420001258110": 30,
+      "gas:candidate-vibid:22420001397813": 15,
+      "gas:candidate-vibid:22420001396432": 385
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180016&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180016&type=464",
@@ -10840,15 +10840,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 96,
-      "Горностаев Александр Сергеевич": 62,
-      "Зберовский Андрей Викторович": 108,
-      "Осипова Татьяна Юрьевна": 29,
-      "Слонов Алексей Павлович": 53,
-      "Тарасов Артем Михайлович": 30,
-      "Титов Сергей Сергеевич": 81,
-      "Шахматов Сергей Александрович": 15,
-      "Швыткин Юрий Николаевич": 506
+      "gas:candidate-vibid:22420001387054": 96,
+      "gas:candidate-vibid:22420001400620": 62,
+      "gas:candidate-vibid:22420001395003": 108,
+      "gas:candidate-vibid:22420001389141": 29,
+      "gas:candidate-vibid:22420001399759": 53,
+      "gas:candidate-vibid:22420001398755": 30,
+      "gas:candidate-vibid:22420001258110": 81,
+      "gas:candidate-vibid:22420001397813": 15,
+      "gas:candidate-vibid:22420001396432": 506
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180016&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180016&type=464",
@@ -10899,15 +10899,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 80,
-      "Горностаев Александр Сергеевич": 46,
-      "Зберовский Андрей Викторович": 61,
-      "Осипова Татьяна Юрьевна": 31,
-      "Слонов Алексей Павлович": 45,
-      "Тарасов Артем Михайлович": 19,
-      "Титов Сергей Сергеевич": 51,
-      "Шахматов Сергей Александрович": 11,
-      "Швыткин Юрий Николаевич": 353
+      "gas:candidate-vibid:22420001387054": 80,
+      "gas:candidate-vibid:22420001400620": 46,
+      "gas:candidate-vibid:22420001395003": 61,
+      "gas:candidate-vibid:22420001389141": 31,
+      "gas:candidate-vibid:22420001399759": 45,
+      "gas:candidate-vibid:22420001398755": 19,
+      "gas:candidate-vibid:22420001258110": 51,
+      "gas:candidate-vibid:22420001397813": 11,
+      "gas:candidate-vibid:22420001396432": 353
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180016&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180016&type=464",
@@ -10958,15 +10958,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 120,
-      "Горностаев Александр Сергеевич": 80,
-      "Зберовский Андрей Викторович": 98,
-      "Осипова Татьяна Юрьевна": 30,
-      "Слонов Алексей Павлович": 43,
-      "Тарасов Артем Михайлович": 35,
-      "Титов Сергей Сергеевич": 48,
-      "Шахматов Сергей Александрович": 12,
-      "Швыткин Юрий Николаевич": 465
+      "gas:candidate-vibid:22420001387054": 120,
+      "gas:candidate-vibid:22420001400620": 80,
+      "gas:candidate-vibid:22420001395003": 98,
+      "gas:candidate-vibid:22420001389141": 30,
+      "gas:candidate-vibid:22420001399759": 43,
+      "gas:candidate-vibid:22420001398755": 35,
+      "gas:candidate-vibid:22420001258110": 48,
+      "gas:candidate-vibid:22420001397813": 12,
+      "gas:candidate-vibid:22420001396432": 465
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180016&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180016&type=464",
@@ -11017,15 +11017,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 55,
-      "Горностаев Александр Сергеевич": 37,
-      "Зберовский Андрей Викторович": 49,
-      "Осипова Татьяна Юрьевна": 16,
-      "Слонов Алексей Павлович": 19,
-      "Тарасов Артем Михайлович": 15,
-      "Титов Сергей Сергеевич": 39,
-      "Шахматов Сергей Александрович": 6,
-      "Швыткин Юрий Николаевич": 290
+      "gas:candidate-vibid:22420001387054": 55,
+      "gas:candidate-vibid:22420001400620": 37,
+      "gas:candidate-vibid:22420001395003": 49,
+      "gas:candidate-vibid:22420001389141": 16,
+      "gas:candidate-vibid:22420001399759": 19,
+      "gas:candidate-vibid:22420001398755": 15,
+      "gas:candidate-vibid:22420001258110": 39,
+      "gas:candidate-vibid:22420001397813": 6,
+      "gas:candidate-vibid:22420001396432": 290
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180016&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180016&type=464",
@@ -11076,15 +11076,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 87,
-      "Горностаев Александр Сергеевич": 56,
-      "Зберовский Андрей Викторович": 75,
-      "Осипова Татьяна Юрьевна": 28,
-      "Слонов Алексей Павлович": 38,
-      "Тарасов Артем Михайлович": 23,
-      "Титов Сергей Сергеевич": 63,
-      "Шахматов Сергей Александрович": 17,
-      "Швыткин Юрий Николаевич": 295
+      "gas:candidate-vibid:22420001387054": 87,
+      "gas:candidate-vibid:22420001400620": 56,
+      "gas:candidate-vibid:22420001395003": 75,
+      "gas:candidate-vibid:22420001389141": 28,
+      "gas:candidate-vibid:22420001399759": 38,
+      "gas:candidate-vibid:22420001398755": 23,
+      "gas:candidate-vibid:22420001258110": 63,
+      "gas:candidate-vibid:22420001397813": 17,
+      "gas:candidate-vibid:22420001396432": 295
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180016&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180016&type=464",
@@ -11135,15 +11135,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 105,
-      "Горностаев Александр Сергеевич": 63,
-      "Зберовский Андрей Викторович": 71,
-      "Осипова Татьяна Юрьевна": 36,
-      "Слонов Алексей Павлович": 65,
-      "Тарасов Артем Михайлович": 23,
-      "Титов Сергей Сергеевич": 64,
-      "Шахматов Сергей Александрович": 23,
-      "Швыткин Юрий Николаевич": 476
+      "gas:candidate-vibid:22420001387054": 105,
+      "gas:candidate-vibid:22420001400620": 63,
+      "gas:candidate-vibid:22420001395003": 71,
+      "gas:candidate-vibid:22420001389141": 36,
+      "gas:candidate-vibid:22420001399759": 65,
+      "gas:candidate-vibid:22420001398755": 23,
+      "gas:candidate-vibid:22420001258110": 64,
+      "gas:candidate-vibid:22420001397813": 23,
+      "gas:candidate-vibid:22420001396432": 476
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180016&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180016&type=464",
@@ -11194,15 +11194,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 67,
-      "Горностаев Александр Сергеевич": 30,
-      "Зберовский Андрей Викторович": 44,
-      "Осипова Татьяна Юрьевна": 19,
-      "Слонов Алексей Павлович": 44,
-      "Тарасов Артем Михайлович": 21,
-      "Титов Сергей Сергеевич": 33,
-      "Шахматов Сергей Александрович": 8,
-      "Швыткин Юрий Николаевич": 291
+      "gas:candidate-vibid:22420001387054": 67,
+      "gas:candidate-vibid:22420001400620": 30,
+      "gas:candidate-vibid:22420001395003": 44,
+      "gas:candidate-vibid:22420001389141": 19,
+      "gas:candidate-vibid:22420001399759": 44,
+      "gas:candidate-vibid:22420001398755": 21,
+      "gas:candidate-vibid:22420001258110": 33,
+      "gas:candidate-vibid:22420001397813": 8,
+      "gas:candidate-vibid:22420001396432": 291
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180016&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180016&type=464",
@@ -11253,15 +11253,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 79,
-      "Горностаев Александр Сергеевич": 24,
-      "Зберовский Андрей Викторович": 52,
-      "Осипова Татьяна Юрьевна": 23,
-      "Слонов Алексей Павлович": 51,
-      "Тарасов Артем Михайлович": 16,
-      "Титов Сергей Сергеевич": 61,
-      "Шахматов Сергей Александрович": 11,
-      "Швыткин Юрий Николаевич": 344
+      "gas:candidate-vibid:22420001387054": 79,
+      "gas:candidate-vibid:22420001400620": 24,
+      "gas:candidate-vibid:22420001395003": 52,
+      "gas:candidate-vibid:22420001389141": 23,
+      "gas:candidate-vibid:22420001399759": 51,
+      "gas:candidate-vibid:22420001398755": 16,
+      "gas:candidate-vibid:22420001258110": 61,
+      "gas:candidate-vibid:22420001397813": 11,
+      "gas:candidate-vibid:22420001396432": 344
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180016&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180016&type=464",
@@ -11312,15 +11312,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 74,
-      "Горностаев Александр Сергеевич": 52,
-      "Зберовский Андрей Викторович": 52,
-      "Осипова Татьяна Юрьевна": 24,
-      "Слонов Алексей Павлович": 36,
-      "Тарасов Артем Михайлович": 20,
-      "Титов Сергей Сергеевич": 41,
-      "Шахматов Сергей Александрович": 14,
-      "Швыткин Юрий Николаевич": 386
+      "gas:candidate-vibid:22420001387054": 74,
+      "gas:candidate-vibid:22420001400620": 52,
+      "gas:candidate-vibid:22420001395003": 52,
+      "gas:candidate-vibid:22420001389141": 24,
+      "gas:candidate-vibid:22420001399759": 36,
+      "gas:candidate-vibid:22420001398755": 20,
+      "gas:candidate-vibid:22420001258110": 41,
+      "gas:candidate-vibid:22420001397813": 14,
+      "gas:candidate-vibid:22420001396432": 386
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180016&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180016&type=464",
@@ -11371,15 +11371,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 48,
-      "Горностаев Александр Сергеевич": 31,
-      "Зберовский Андрей Викторович": 47,
-      "Осипова Татьяна Юрьевна": 16,
-      "Слонов Алексей Павлович": 26,
-      "Тарасов Артем Михайлович": 17,
-      "Титов Сергей Сергеевич": 32,
-      "Шахматов Сергей Александрович": 7,
-      "Швыткин Юрий Николаевич": 240
+      "gas:candidate-vibid:22420001387054": 48,
+      "gas:candidate-vibid:22420001400620": 31,
+      "gas:candidate-vibid:22420001395003": 47,
+      "gas:candidate-vibid:22420001389141": 16,
+      "gas:candidate-vibid:22420001399759": 26,
+      "gas:candidate-vibid:22420001398755": 17,
+      "gas:candidate-vibid:22420001258110": 32,
+      "gas:candidate-vibid:22420001397813": 7,
+      "gas:candidate-vibid:22420001396432": 240
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180016&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180016&type=464",
@@ -11430,15 +11430,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 59,
-      "Горностаев Александр Сергеевич": 34,
-      "Зберовский Андрей Викторович": 22,
-      "Осипова Татьяна Юрьевна": 18,
-      "Слонов Алексей Павлович": 38,
-      "Тарасов Артем Михайлович": 17,
-      "Титов Сергей Сергеевич": 41,
-      "Шахматов Сергей Александрович": 9,
-      "Швыткин Юрий Николаевич": 236
+      "gas:candidate-vibid:22420001387054": 59,
+      "gas:candidate-vibid:22420001400620": 34,
+      "gas:candidate-vibid:22420001395003": 22,
+      "gas:candidate-vibid:22420001389141": 18,
+      "gas:candidate-vibid:22420001399759": 38,
+      "gas:candidate-vibid:22420001398755": 17,
+      "gas:candidate-vibid:22420001258110": 41,
+      "gas:candidate-vibid:22420001397813": 9,
+      "gas:candidate-vibid:22420001396432": 236
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180016&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180016&type=464",
@@ -11489,15 +11489,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 75,
-      "Горностаев Александр Сергеевич": 42,
-      "Зберовский Андрей Викторович": 61,
-      "Осипова Татьяна Юрьевна": 30,
-      "Слонов Алексей Павлович": 40,
-      "Тарасов Артем Михайлович": 20,
-      "Титов Сергей Сергеевич": 35,
-      "Шахматов Сергей Александрович": 8,
-      "Швыткин Юрий Николаевич": 306
+      "gas:candidate-vibid:22420001387054": 75,
+      "gas:candidate-vibid:22420001400620": 42,
+      "gas:candidate-vibid:22420001395003": 61,
+      "gas:candidate-vibid:22420001389141": 30,
+      "gas:candidate-vibid:22420001399759": 40,
+      "gas:candidate-vibid:22420001398755": 20,
+      "gas:candidate-vibid:22420001258110": 35,
+      "gas:candidate-vibid:22420001397813": 8,
+      "gas:candidate-vibid:22420001396432": 306
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180016&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180016&type=464",
@@ -11548,15 +11548,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 60,
-      "Горностаев Александр Сергеевич": 38,
-      "Зберовский Андрей Викторович": 55,
-      "Осипова Татьяна Юрьевна": 20,
-      "Слонов Алексей Павлович": 43,
-      "Тарасов Артем Михайлович": 18,
-      "Титов Сергей Сергеевич": 35,
-      "Шахматов Сергей Александрович": 9,
-      "Швыткин Юрий Николаевич": 235
+      "gas:candidate-vibid:22420001387054": 60,
+      "gas:candidate-vibid:22420001400620": 38,
+      "gas:candidate-vibid:22420001395003": 55,
+      "gas:candidate-vibid:22420001389141": 20,
+      "gas:candidate-vibid:22420001399759": 43,
+      "gas:candidate-vibid:22420001398755": 18,
+      "gas:candidate-vibid:22420001258110": 35,
+      "gas:candidate-vibid:22420001397813": 9,
+      "gas:candidate-vibid:22420001396432": 235
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180016&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180016&type=464",
@@ -11607,15 +11607,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 45,
-      "Горностаев Александр Сергеевич": 39,
-      "Зберовский Андрей Викторович": 33,
-      "Осипова Татьяна Юрьевна": 15,
-      "Слонов Алексей Павлович": 25,
-      "Тарасов Артем Михайлович": 10,
-      "Титов Сергей Сергеевич": 28,
-      "Шахматов Сергей Александрович": 10,
-      "Швыткин Юрий Николаевич": 197
+      "gas:candidate-vibid:22420001387054": 45,
+      "gas:candidate-vibid:22420001400620": 39,
+      "gas:candidate-vibid:22420001395003": 33,
+      "gas:candidate-vibid:22420001389141": 15,
+      "gas:candidate-vibid:22420001399759": 25,
+      "gas:candidate-vibid:22420001398755": 10,
+      "gas:candidate-vibid:22420001258110": 28,
+      "gas:candidate-vibid:22420001397813": 10,
+      "gas:candidate-vibid:22420001396432": 197
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180016&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180016&type=464",
@@ -11666,15 +11666,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 55,
-      "Горностаев Александр Сергеевич": 46,
-      "Зберовский Андрей Викторович": 19,
-      "Осипова Татьяна Юрьевна": 15,
-      "Слонов Алексей Павлович": 33,
-      "Тарасов Артем Михайлович": 11,
-      "Титов Сергей Сергеевич": 26,
-      "Шахматов Сергей Александрович": 7,
-      "Швыткин Юрий Николаевич": 246
+      "gas:candidate-vibid:22420001387054": 55,
+      "gas:candidate-vibid:22420001400620": 46,
+      "gas:candidate-vibid:22420001395003": 19,
+      "gas:candidate-vibid:22420001389141": 15,
+      "gas:candidate-vibid:22420001399759": 33,
+      "gas:candidate-vibid:22420001398755": 11,
+      "gas:candidate-vibid:22420001258110": 26,
+      "gas:candidate-vibid:22420001397813": 7,
+      "gas:candidate-vibid:22420001396432": 246
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180016&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180016&type=464",
@@ -11725,15 +11725,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 46,
-      "Горностаев Александр Сергеевич": 25,
-      "Зберовский Андрей Викторович": 26,
-      "Осипова Татьяна Юрьевна": 14,
-      "Слонов Алексей Павлович": 24,
-      "Тарасов Артем Михайлович": 14,
-      "Титов Сергей Сергеевич": 23,
-      "Шахматов Сергей Александрович": 5,
-      "Швыткин Юрий Николаевич": 202
+      "gas:candidate-vibid:22420001387054": 46,
+      "gas:candidate-vibid:22420001400620": 25,
+      "gas:candidate-vibid:22420001395003": 26,
+      "gas:candidate-vibid:22420001389141": 14,
+      "gas:candidate-vibid:22420001399759": 24,
+      "gas:candidate-vibid:22420001398755": 14,
+      "gas:candidate-vibid:22420001258110": 23,
+      "gas:candidate-vibid:22420001397813": 5,
+      "gas:candidate-vibid:22420001396432": 202
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180016&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180016&type=464",
@@ -11784,15 +11784,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 144,
-      "Горностаев Александр Сергеевич": 46,
-      "Зберовский Андрей Викторович": 67,
-      "Осипова Татьяна Юрьевна": 33,
-      "Слонов Алексей Павлович": 41,
-      "Тарасов Артем Михайлович": 35,
-      "Титов Сергей Сергеевич": 55,
-      "Шахматов Сергей Александрович": 33,
-      "Швыткин Юрий Николаевич": 381
+      "gas:candidate-vibid:22420001387054": 144,
+      "gas:candidate-vibid:22420001400620": 46,
+      "gas:candidate-vibid:22420001395003": 67,
+      "gas:candidate-vibid:22420001389141": 33,
+      "gas:candidate-vibid:22420001399759": 41,
+      "gas:candidate-vibid:22420001398755": 35,
+      "gas:candidate-vibid:22420001258110": 55,
+      "gas:candidate-vibid:22420001397813": 33,
+      "gas:candidate-vibid:22420001396432": 381
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180016&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180016&type=464",
@@ -11843,15 +11843,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 47,
-      "Горностаев Александр Сергеевич": 30,
-      "Зберовский Андрей Викторович": 29,
-      "Осипова Татьяна Юрьевна": 18,
-      "Слонов Алексей Павлович": 31,
-      "Тарасов Артем Михайлович": 12,
-      "Титов Сергей Сергеевич": 39,
-      "Шахматов Сергей Александрович": 9,
-      "Швыткин Юрий Николаевич": 181
+      "gas:candidate-vibid:22420001387054": 47,
+      "gas:candidate-vibid:22420001400620": 30,
+      "gas:candidate-vibid:22420001395003": 29,
+      "gas:candidate-vibid:22420001389141": 18,
+      "gas:candidate-vibid:22420001399759": 31,
+      "gas:candidate-vibid:22420001398755": 12,
+      "gas:candidate-vibid:22420001258110": 39,
+      "gas:candidate-vibid:22420001397813": 9,
+      "gas:candidate-vibid:22420001396432": 181
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180016&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180016&type=464",
@@ -11902,15 +11902,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 77,
-      "Горностаев Александр Сергеевич": 79,
-      "Зберовский Андрей Викторович": 53,
-      "Осипова Татьяна Юрьевна": 30,
-      "Слонов Алексей Павлович": 47,
-      "Тарасов Артем Михайлович": 20,
-      "Титов Сергей Сергеевич": 57,
-      "Шахматов Сергей Александрович": 15,
-      "Швыткин Юрий Николаевич": 320
+      "gas:candidate-vibid:22420001387054": 77,
+      "gas:candidate-vibid:22420001400620": 79,
+      "gas:candidate-vibid:22420001395003": 53,
+      "gas:candidate-vibid:22420001389141": 30,
+      "gas:candidate-vibid:22420001399759": 47,
+      "gas:candidate-vibid:22420001398755": 20,
+      "gas:candidate-vibid:22420001258110": 57,
+      "gas:candidate-vibid:22420001397813": 15,
+      "gas:candidate-vibid:22420001396432": 320
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180016&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180016&type=464",
@@ -11961,15 +11961,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 68,
-      "Горностаев Александр Сергеевич": 46,
-      "Зберовский Андрей Викторович": 48,
-      "Осипова Татьяна Юрьевна": 25,
-      "Слонов Алексей Павлович": 46,
-      "Тарасов Артем Михайлович": 19,
-      "Титов Сергей Сергеевич": 53,
-      "Шахматов Сергей Александрович": 11,
-      "Швыткин Юрий Николаевич": 315
+      "gas:candidate-vibid:22420001387054": 68,
+      "gas:candidate-vibid:22420001400620": 46,
+      "gas:candidate-vibid:22420001395003": 48,
+      "gas:candidate-vibid:22420001389141": 25,
+      "gas:candidate-vibid:22420001399759": 46,
+      "gas:candidate-vibid:22420001398755": 19,
+      "gas:candidate-vibid:22420001258110": 53,
+      "gas:candidate-vibid:22420001397813": 11,
+      "gas:candidate-vibid:22420001396432": 315
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180016&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180016&type=464",
@@ -12020,15 +12020,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 96,
-      "Горностаев Александр Сергеевич": 39,
-      "Зберовский Андрей Викторович": 67,
-      "Осипова Татьяна Юрьевна": 26,
-      "Слонов Алексей Павлович": 38,
-      "Тарасов Артем Михайлович": 22,
-      "Титов Сергей Сергеевич": 53,
-      "Шахматов Сергей Александрович": 20,
-      "Швыткин Юрий Николаевич": 347
+      "gas:candidate-vibid:22420001387054": 96,
+      "gas:candidate-vibid:22420001400620": 39,
+      "gas:candidate-vibid:22420001395003": 67,
+      "gas:candidate-vibid:22420001389141": 26,
+      "gas:candidate-vibid:22420001399759": 38,
+      "gas:candidate-vibid:22420001398755": 22,
+      "gas:candidate-vibid:22420001258110": 53,
+      "gas:candidate-vibid:22420001397813": 20,
+      "gas:candidate-vibid:22420001396432": 347
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180016&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180016&type=464",
@@ -12079,15 +12079,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 86,
-      "Горностаев Александр Сергеевич": 23,
-      "Зберовский Андрей Викторович": 37,
-      "Осипова Татьяна Юрьевна": 22,
-      "Слонов Алексей Павлович": 34,
-      "Тарасов Артем Михайлович": 20,
-      "Титов Сергей Сергеевич": 42,
-      "Шахматов Сергей Александрович": 14,
-      "Швыткин Юрий Николаевич": 278
+      "gas:candidate-vibid:22420001387054": 86,
+      "gas:candidate-vibid:22420001400620": 23,
+      "gas:candidate-vibid:22420001395003": 37,
+      "gas:candidate-vibid:22420001389141": 22,
+      "gas:candidate-vibid:22420001399759": 34,
+      "gas:candidate-vibid:22420001398755": 20,
+      "gas:candidate-vibid:22420001258110": 42,
+      "gas:candidate-vibid:22420001397813": 14,
+      "gas:candidate-vibid:22420001396432": 278
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180017&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180017&type=464",
@@ -12138,15 +12138,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 99,
-      "Горностаев Александр Сергеевич": 14,
-      "Зберовский Андрей Викторович": 32,
-      "Осипова Татьяна Юрьевна": 32,
-      "Слонов Алексей Павлович": 44,
-      "Тарасов Артем Михайлович": 31,
-      "Титов Сергей Сергеевич": 45,
-      "Шахматов Сергей Александрович": 19,
-      "Швыткин Юрий Николаевич": 329
+      "gas:candidate-vibid:22420001387054": 99,
+      "gas:candidate-vibid:22420001400620": 14,
+      "gas:candidate-vibid:22420001395003": 32,
+      "gas:candidate-vibid:22420001389141": 32,
+      "gas:candidate-vibid:22420001399759": 44,
+      "gas:candidate-vibid:22420001398755": 31,
+      "gas:candidate-vibid:22420001258110": 45,
+      "gas:candidate-vibid:22420001397813": 19,
+      "gas:candidate-vibid:22420001396432": 329
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180017&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180017&type=464",
@@ -12197,15 +12197,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 86,
-      "Горностаев Александр Сергеевич": 22,
-      "Зберовский Андрей Викторович": 45,
-      "Осипова Татьяна Юрьевна": 38,
-      "Слонов Алексей Павлович": 50,
-      "Тарасов Артем Михайлович": 21,
-      "Титов Сергей Сергеевич": 67,
-      "Шахматов Сергей Александрович": 14,
-      "Швыткин Юрий Николаевич": 351
+      "gas:candidate-vibid:22420001387054": 86,
+      "gas:candidate-vibid:22420001400620": 22,
+      "gas:candidate-vibid:22420001395003": 45,
+      "gas:candidate-vibid:22420001389141": 38,
+      "gas:candidate-vibid:22420001399759": 50,
+      "gas:candidate-vibid:22420001398755": 21,
+      "gas:candidate-vibid:22420001258110": 67,
+      "gas:candidate-vibid:22420001397813": 14,
+      "gas:candidate-vibid:22420001396432": 351
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180017&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180017&type=464",
@@ -12256,15 +12256,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 68,
-      "Горностаев Александр Сергеевич": 11,
-      "Зберовский Андрей Викторович": 24,
-      "Осипова Татьяна Юрьевна": 24,
-      "Слонов Алексей Павлович": 38,
-      "Тарасов Артем Михайлович": 18,
-      "Титов Сергей Сергеевич": 28,
-      "Шахматов Сергей Александрович": 6,
-      "Швыткин Юрий Николаевич": 243
+      "gas:candidate-vibid:22420001387054": 68,
+      "gas:candidate-vibid:22420001400620": 11,
+      "gas:candidate-vibid:22420001395003": 24,
+      "gas:candidate-vibid:22420001389141": 24,
+      "gas:candidate-vibid:22420001399759": 38,
+      "gas:candidate-vibid:22420001398755": 18,
+      "gas:candidate-vibid:22420001258110": 28,
+      "gas:candidate-vibid:22420001397813": 6,
+      "gas:candidate-vibid:22420001396432": 243
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180017&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180017&type=464",
@@ -12315,15 +12315,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 67,
-      "Горностаев Александр Сергеевич": 14,
-      "Зберовский Андрей Викторович": 34,
-      "Осипова Татьяна Юрьевна": 35,
-      "Слонов Алексей Павлович": 51,
-      "Тарасов Артем Михайлович": 14,
-      "Титов Сергей Сергеевич": 48,
-      "Шахматов Сергей Александрович": 13,
-      "Швыткин Юрий Николаевич": 281
+      "gas:candidate-vibid:22420001387054": 67,
+      "gas:candidate-vibid:22420001400620": 14,
+      "gas:candidate-vibid:22420001395003": 34,
+      "gas:candidate-vibid:22420001389141": 35,
+      "gas:candidate-vibid:22420001399759": 51,
+      "gas:candidate-vibid:22420001398755": 14,
+      "gas:candidate-vibid:22420001258110": 48,
+      "gas:candidate-vibid:22420001397813": 13,
+      "gas:candidate-vibid:22420001396432": 281
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180017&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180017&type=464",
@@ -12374,15 +12374,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 79,
-      "Горностаев Александр Сергеевич": 13,
-      "Зберовский Андрей Викторович": 30,
-      "Осипова Татьяна Юрьевна": 26,
-      "Слонов Алексей Павлович": 33,
-      "Тарасов Артем Михайлович": 21,
-      "Титов Сергей Сергеевич": 38,
-      "Шахматов Сергей Александрович": 13,
-      "Швыткин Юрий Николаевич": 278
+      "gas:candidate-vibid:22420001387054": 79,
+      "gas:candidate-vibid:22420001400620": 13,
+      "gas:candidate-vibid:22420001395003": 30,
+      "gas:candidate-vibid:22420001389141": 26,
+      "gas:candidate-vibid:22420001399759": 33,
+      "gas:candidate-vibid:22420001398755": 21,
+      "gas:candidate-vibid:22420001258110": 38,
+      "gas:candidate-vibid:22420001397813": 13,
+      "gas:candidate-vibid:22420001396432": 278
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180017&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180017&type=464",
@@ -12433,15 +12433,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 94,
-      "Горностаев Александр Сергеевич": 13,
-      "Зберовский Андрей Викторович": 44,
-      "Осипова Татьяна Юрьевна": 21,
-      "Слонов Алексей Павлович": 53,
-      "Тарасов Артем Михайлович": 26,
-      "Титов Сергей Сергеевич": 64,
-      "Шахматов Сергей Александрович": 15,
-      "Швыткин Юрий Николаевич": 294
+      "gas:candidate-vibid:22420001387054": 94,
+      "gas:candidate-vibid:22420001400620": 13,
+      "gas:candidate-vibid:22420001395003": 44,
+      "gas:candidate-vibid:22420001389141": 21,
+      "gas:candidate-vibid:22420001399759": 53,
+      "gas:candidate-vibid:22420001398755": 26,
+      "gas:candidate-vibid:22420001258110": 64,
+      "gas:candidate-vibid:22420001397813": 15,
+      "gas:candidate-vibid:22420001396432": 294
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180017&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180017&type=464",
@@ -12492,15 +12492,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 72,
-      "Горностаев Александр Сергеевич": 17,
-      "Зберовский Андрей Викторович": 38,
-      "Осипова Татьяна Юрьевна": 35,
-      "Слонов Алексей Павлович": 40,
-      "Тарасов Артем Михайлович": 26,
-      "Титов Сергей Сергеевич": 56,
-      "Шахматов Сергей Александрович": 20,
-      "Швыткин Юрий Николаевич": 310
+      "gas:candidate-vibid:22420001387054": 72,
+      "gas:candidate-vibid:22420001400620": 17,
+      "gas:candidate-vibid:22420001395003": 38,
+      "gas:candidate-vibid:22420001389141": 35,
+      "gas:candidate-vibid:22420001399759": 40,
+      "gas:candidate-vibid:22420001398755": 26,
+      "gas:candidate-vibid:22420001258110": 56,
+      "gas:candidate-vibid:22420001397813": 20,
+      "gas:candidate-vibid:22420001396432": 310
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180017&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180017&type=464",
@@ -12551,15 +12551,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 55,
-      "Горностаев Александр Сергеевич": 15,
-      "Зберовский Андрей Викторович": 23,
-      "Осипова Татьяна Юрьевна": 17,
-      "Слонов Алексей Павлович": 30,
-      "Тарасов Артем Михайлович": 16,
-      "Титов Сергей Сергеевич": 49,
-      "Шахматов Сергей Александрович": 12,
-      "Швыткин Юрий Николаевич": 247
+      "gas:candidate-vibid:22420001387054": 55,
+      "gas:candidate-vibid:22420001400620": 15,
+      "gas:candidate-vibid:22420001395003": 23,
+      "gas:candidate-vibid:22420001389141": 17,
+      "gas:candidate-vibid:22420001399759": 30,
+      "gas:candidate-vibid:22420001398755": 16,
+      "gas:candidate-vibid:22420001258110": 49,
+      "gas:candidate-vibid:22420001397813": 12,
+      "gas:candidate-vibid:22420001396432": 247
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180017&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180017&type=464",
@@ -12610,15 +12610,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 56,
-      "Горностаев Александр Сергеевич": 8,
-      "Зберовский Андрей Викторович": 29,
-      "Осипова Татьяна Юрьевна": 18,
-      "Слонов Алексей Павлович": 33,
-      "Тарасов Артем Михайлович": 16,
-      "Титов Сергей Сергеевич": 28,
-      "Шахматов Сергей Александрович": 12,
-      "Швыткин Юрий Николаевич": 227
+      "gas:candidate-vibid:22420001387054": 56,
+      "gas:candidate-vibid:22420001400620": 8,
+      "gas:candidate-vibid:22420001395003": 29,
+      "gas:candidate-vibid:22420001389141": 18,
+      "gas:candidate-vibid:22420001399759": 33,
+      "gas:candidate-vibid:22420001398755": 16,
+      "gas:candidate-vibid:22420001258110": 28,
+      "gas:candidate-vibid:22420001397813": 12,
+      "gas:candidate-vibid:22420001396432": 227
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180017&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180017&type=464",
@@ -12669,15 +12669,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 54,
-      "Горностаев Александр Сергеевич": 9,
-      "Зберовский Андрей Викторович": 34,
-      "Осипова Татьяна Юрьевна": 21,
-      "Слонов Алексей Павлович": 27,
-      "Тарасов Артем Михайлович": 21,
-      "Титов Сергей Сергеевич": 51,
-      "Шахматов Сергей Александрович": 7,
-      "Швыткин Юрий Николаевич": 196
+      "gas:candidate-vibid:22420001387054": 54,
+      "gas:candidate-vibid:22420001400620": 9,
+      "gas:candidate-vibid:22420001395003": 34,
+      "gas:candidate-vibid:22420001389141": 21,
+      "gas:candidate-vibid:22420001399759": 27,
+      "gas:candidate-vibid:22420001398755": 21,
+      "gas:candidate-vibid:22420001258110": 51,
+      "gas:candidate-vibid:22420001397813": 7,
+      "gas:candidate-vibid:22420001396432": 196
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180017&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180017&type=464",
@@ -12728,15 +12728,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 122,
-      "Горностаев Александр Сергеевич": 18,
-      "Зберовский Андрей Викторович": 48,
-      "Осипова Татьяна Юрьевна": 30,
-      "Слонов Алексей Павлович": 51,
-      "Тарасов Артем Михайлович": 26,
-      "Титов Сергей Сергеевич": 69,
-      "Шахматов Сергей Александрович": 25,
-      "Швыткин Юрий Николаевич": 387
+      "gas:candidate-vibid:22420001387054": 122,
+      "gas:candidate-vibid:22420001400620": 18,
+      "gas:candidate-vibid:22420001395003": 48,
+      "gas:candidate-vibid:22420001389141": 30,
+      "gas:candidate-vibid:22420001399759": 51,
+      "gas:candidate-vibid:22420001398755": 26,
+      "gas:candidate-vibid:22420001258110": 69,
+      "gas:candidate-vibid:22420001397813": 25,
+      "gas:candidate-vibid:22420001396432": 387
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180017&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180017&type=464",
@@ -12787,15 +12787,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 69,
-      "Горностаев Александр Сергеевич": 7,
-      "Зберовский Андрей Викторович": 39,
-      "Осипова Татьяна Юрьевна": 12,
-      "Слонов Алексей Павлович": 29,
-      "Тарасов Артем Михайлович": 22,
-      "Титов Сергей Сергеевич": 42,
-      "Шахматов Сергей Александрович": 12,
-      "Швыткин Юрий Николаевич": 206
+      "gas:candidate-vibid:22420001387054": 69,
+      "gas:candidate-vibid:22420001400620": 7,
+      "gas:candidate-vibid:22420001395003": 39,
+      "gas:candidate-vibid:22420001389141": 12,
+      "gas:candidate-vibid:22420001399759": 29,
+      "gas:candidate-vibid:22420001398755": 22,
+      "gas:candidate-vibid:22420001258110": 42,
+      "gas:candidate-vibid:22420001397813": 12,
+      "gas:candidate-vibid:22420001396432": 206
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180017&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180017&type=464",
@@ -12846,15 +12846,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 81,
-      "Горностаев Александр Сергеевич": 15,
-      "Зберовский Андрей Викторович": 35,
-      "Осипова Татьяна Юрьевна": 21,
-      "Слонов Алексей Павлович": 63,
-      "Тарасов Артем Михайлович": 33,
-      "Титов Сергей Сергеевич": 29,
-      "Шахматов Сергей Александрович": 24,
-      "Швыткин Юрий Николаевич": 266
+      "gas:candidate-vibid:22420001387054": 81,
+      "gas:candidate-vibid:22420001400620": 15,
+      "gas:candidate-vibid:22420001395003": 35,
+      "gas:candidate-vibid:22420001389141": 21,
+      "gas:candidate-vibid:22420001399759": 63,
+      "gas:candidate-vibid:22420001398755": 33,
+      "gas:candidate-vibid:22420001258110": 29,
+      "gas:candidate-vibid:22420001397813": 24,
+      "gas:candidate-vibid:22420001396432": 266
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180017&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180017&type=464",
@@ -12905,15 +12905,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 53,
-      "Горностаев Александр Сергеевич": 7,
-      "Зберовский Андрей Викторович": 29,
-      "Осипова Татьяна Юрьевна": 30,
-      "Слонов Алексей Павлович": 46,
-      "Тарасов Артем Михайлович": 19,
-      "Титов Сергей Сергеевич": 30,
-      "Шахматов Сергей Александрович": 6,
-      "Швыткин Юрий Николаевич": 276
+      "gas:candidate-vibid:22420001387054": 53,
+      "gas:candidate-vibid:22420001400620": 7,
+      "gas:candidate-vibid:22420001395003": 29,
+      "gas:candidate-vibid:22420001389141": 30,
+      "gas:candidate-vibid:22420001399759": 46,
+      "gas:candidate-vibid:22420001398755": 19,
+      "gas:candidate-vibid:22420001258110": 30,
+      "gas:candidate-vibid:22420001397813": 6,
+      "gas:candidate-vibid:22420001396432": 276
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180017&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180017&type=464",
@@ -12964,15 +12964,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 82,
-      "Горностаев Александр Сергеевич": 14,
-      "Зберовский Андрей Викторович": 45,
-      "Осипова Татьяна Юрьевна": 29,
-      "Слонов Алексей Павлович": 59,
-      "Тарасов Артем Михайлович": 22,
-      "Титов Сергей Сергеевич": 60,
-      "Шахматов Сергей Александрович": 19,
-      "Швыткин Юрий Николаевич": 312
+      "gas:candidate-vibid:22420001387054": 82,
+      "gas:candidate-vibid:22420001400620": 14,
+      "gas:candidate-vibid:22420001395003": 45,
+      "gas:candidate-vibid:22420001389141": 29,
+      "gas:candidate-vibid:22420001399759": 59,
+      "gas:candidate-vibid:22420001398755": 22,
+      "gas:candidate-vibid:22420001258110": 60,
+      "gas:candidate-vibid:22420001397813": 19,
+      "gas:candidate-vibid:22420001396432": 312
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180017&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180017&type=464",
@@ -13023,15 +13023,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 18,
-      "Горностаев Александр Сергеевич": 4,
-      "Зберовский Андрей Викторович": 3,
-      "Осипова Татьяна Юрьевна": 7,
-      "Слонов Алексей Павлович": 4,
-      "Тарасов Артем Михайлович": 3,
-      "Титов Сергей Сергеевич": 12,
-      "Шахматов Сергей Александрович": 1,
-      "Швыткин Юрий Николаевич": 119
+      "gas:candidate-vibid:22420001387054": 18,
+      "gas:candidate-vibid:22420001400620": 4,
+      "gas:candidate-vibid:22420001395003": 3,
+      "gas:candidate-vibid:22420001389141": 7,
+      "gas:candidate-vibid:22420001399759": 4,
+      "gas:candidate-vibid:22420001398755": 3,
+      "gas:candidate-vibid:22420001258110": 12,
+      "gas:candidate-vibid:22420001397813": 1,
+      "gas:candidate-vibid:22420001396432": 119
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180017&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180017&type=464",
@@ -13082,15 +13082,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 82,
-      "Горностаев Александр Сергеевич": 16,
-      "Зберовский Андрей Викторович": 45,
-      "Осипова Татьяна Юрьевна": 30,
-      "Слонов Алексей Павлович": 53,
-      "Тарасов Артем Михайлович": 29,
-      "Титов Сергей Сергеевич": 73,
-      "Шахматов Сергей Александрович": 20,
-      "Швыткин Юрий Николаевич": 368
+      "gas:candidate-vibid:22420001387054": 82,
+      "gas:candidate-vibid:22420001400620": 16,
+      "gas:candidate-vibid:22420001395003": 45,
+      "gas:candidate-vibid:22420001389141": 30,
+      "gas:candidate-vibid:22420001399759": 53,
+      "gas:candidate-vibid:22420001398755": 29,
+      "gas:candidate-vibid:22420001258110": 73,
+      "gas:candidate-vibid:22420001397813": 20,
+      "gas:candidate-vibid:22420001396432": 368
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180017&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180017&type=464",
@@ -13141,15 +13141,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 112,
-      "Горностаев Александр Сергеевич": 21,
-      "Зберовский Андрей Викторович": 55,
-      "Осипова Татьяна Юрьевна": 31,
-      "Слонов Алексей Павлович": 63,
-      "Тарасов Артем Михайлович": 23,
-      "Титов Сергей Сергеевич": 64,
-      "Шахматов Сергей Александрович": 19,
-      "Швыткин Юрий Николаевич": 443
+      "gas:candidate-vibid:22420001387054": 112,
+      "gas:candidate-vibid:22420001400620": 21,
+      "gas:candidate-vibid:22420001395003": 55,
+      "gas:candidate-vibid:22420001389141": 31,
+      "gas:candidate-vibid:22420001399759": 63,
+      "gas:candidate-vibid:22420001398755": 23,
+      "gas:candidate-vibid:22420001258110": 64,
+      "gas:candidate-vibid:22420001397813": 19,
+      "gas:candidate-vibid:22420001396432": 443
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180017&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180017&type=464",
@@ -13200,15 +13200,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 109,
-      "Горностаев Александр Сергеевич": 19,
-      "Зберовский Андрей Викторович": 58,
-      "Осипова Татьяна Юрьевна": 41,
-      "Слонов Алексей Павлович": 86,
-      "Тарасов Артем Михайлович": 39,
-      "Титов Сергей Сергеевич": 61,
-      "Шахматов Сергей Александрович": 23,
-      "Швыткин Юрий Николаевич": 494
+      "gas:candidate-vibid:22420001387054": 109,
+      "gas:candidate-vibid:22420001400620": 19,
+      "gas:candidate-vibid:22420001395003": 58,
+      "gas:candidate-vibid:22420001389141": 41,
+      "gas:candidate-vibid:22420001399759": 86,
+      "gas:candidate-vibid:22420001398755": 39,
+      "gas:candidate-vibid:22420001258110": 61,
+      "gas:candidate-vibid:22420001397813": 23,
+      "gas:candidate-vibid:22420001396432": 494
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180017&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180017&type=464",
@@ -13259,15 +13259,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 85,
-      "Горностаев Александр Сергеевич": 13,
-      "Зберовский Андрей Викторович": 30,
-      "Осипова Татьяна Юрьевна": 15,
-      "Слонов Алексей Павлович": 45,
-      "Тарасов Артем Михайлович": 16,
-      "Титов Сергей Сергеевич": 53,
-      "Шахматов Сергей Александрович": 10,
-      "Швыткин Юрий Николаевич": 296
+      "gas:candidate-vibid:22420001387054": 85,
+      "gas:candidate-vibid:22420001400620": 13,
+      "gas:candidate-vibid:22420001395003": 30,
+      "gas:candidate-vibid:22420001389141": 15,
+      "gas:candidate-vibid:22420001399759": 45,
+      "gas:candidate-vibid:22420001398755": 16,
+      "gas:candidate-vibid:22420001258110": 53,
+      "gas:candidate-vibid:22420001397813": 10,
+      "gas:candidate-vibid:22420001396432": 296
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180017&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180017&type=464",
@@ -13318,15 +13318,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 54,
-      "Горностаев Александр Сергеевич": 7,
-      "Зберовский Андрей Викторович": 20,
-      "Осипова Татьяна Юрьевна": 36,
-      "Слонов Алексей Павлович": 26,
-      "Тарасов Артем Михайлович": 17,
-      "Титов Сергей Сергеевич": 47,
-      "Шахматов Сергей Александрович": 10,
-      "Швыткин Юрий Николаевич": 264
+      "gas:candidate-vibid:22420001387054": 54,
+      "gas:candidate-vibid:22420001400620": 7,
+      "gas:candidate-vibid:22420001395003": 20,
+      "gas:candidate-vibid:22420001389141": 36,
+      "gas:candidate-vibid:22420001399759": 26,
+      "gas:candidate-vibid:22420001398755": 17,
+      "gas:candidate-vibid:22420001258110": 47,
+      "gas:candidate-vibid:22420001397813": 10,
+      "gas:candidate-vibid:22420001396432": 264
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180017&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180017&type=464",
@@ -13377,15 +13377,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 55,
-      "Горностаев Александр Сергеевич": 18,
-      "Зберовский Андрей Викторович": 42,
-      "Осипова Татьяна Юрьевна": 15,
-      "Слонов Алексей Павлович": 40,
-      "Тарасов Артем Михайлович": 13,
-      "Титов Сергей Сергеевич": 38,
-      "Шахматов Сергей Александрович": 10,
-      "Швыткин Юрий Николаевич": 330
+      "gas:candidate-vibid:22420001387054": 55,
+      "gas:candidate-vibid:22420001400620": 18,
+      "gas:candidate-vibid:22420001395003": 42,
+      "gas:candidate-vibid:22420001389141": 15,
+      "gas:candidate-vibid:22420001399759": 40,
+      "gas:candidate-vibid:22420001398755": 13,
+      "gas:candidate-vibid:22420001258110": 38,
+      "gas:candidate-vibid:22420001397813": 10,
+      "gas:candidate-vibid:22420001396432": 330
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180017&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180017&type=464",
@@ -13436,15 +13436,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 68,
-      "Горностаев Александр Сергеевич": 7,
-      "Зберовский Андрей Викторович": 51,
-      "Осипова Татьяна Юрьевна": 30,
-      "Слонов Алексей Павлович": 34,
-      "Тарасов Артем Михайлович": 21,
-      "Титов Сергей Сергеевич": 56,
-      "Шахматов Сергей Александрович": 10,
-      "Швыткин Юрий Николаевич": 317
+      "gas:candidate-vibid:22420001387054": 68,
+      "gas:candidate-vibid:22420001400620": 7,
+      "gas:candidate-vibid:22420001395003": 51,
+      "gas:candidate-vibid:22420001389141": 30,
+      "gas:candidate-vibid:22420001399759": 34,
+      "gas:candidate-vibid:22420001398755": 21,
+      "gas:candidate-vibid:22420001258110": 56,
+      "gas:candidate-vibid:22420001397813": 10,
+      "gas:candidate-vibid:22420001396432": 317
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180017&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180017&type=464",
@@ -13495,15 +13495,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 49,
-      "Горностаев Александр Сергеевич": 11,
-      "Зберовский Андрей Викторович": 29,
-      "Осипова Татьяна Юрьевна": 21,
-      "Слонов Алексей Павлович": 31,
-      "Тарасов Артем Михайлович": 11,
-      "Титов Сергей Сергеевич": 42,
-      "Шахматов Сергей Александрович": 7,
-      "Швыткин Юрий Николаевич": 203
+      "gas:candidate-vibid:22420001387054": 49,
+      "gas:candidate-vibid:22420001400620": 11,
+      "gas:candidate-vibid:22420001395003": 29,
+      "gas:candidate-vibid:22420001389141": 21,
+      "gas:candidate-vibid:22420001399759": 31,
+      "gas:candidate-vibid:22420001398755": 11,
+      "gas:candidate-vibid:22420001258110": 42,
+      "gas:candidate-vibid:22420001397813": 7,
+      "gas:candidate-vibid:22420001396432": 203
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180017&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180017&type=464",
@@ -13554,15 +13554,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 55,
-      "Горностаев Александр Сергеевич": 9,
-      "Зберовский Андрей Викторович": 21,
-      "Осипова Татьяна Юрьевна": 16,
-      "Слонов Алексей Павлович": 25,
-      "Тарасов Артем Михайлович": 15,
-      "Титов Сергей Сергеевич": 46,
-      "Шахматов Сергей Александрович": 7,
-      "Швыткин Юрий Николаевич": 238
+      "gas:candidate-vibid:22420001387054": 55,
+      "gas:candidate-vibid:22420001400620": 9,
+      "gas:candidate-vibid:22420001395003": 21,
+      "gas:candidate-vibid:22420001389141": 16,
+      "gas:candidate-vibid:22420001399759": 25,
+      "gas:candidate-vibid:22420001398755": 15,
+      "gas:candidate-vibid:22420001258110": 46,
+      "gas:candidate-vibid:22420001397813": 7,
+      "gas:candidate-vibid:22420001396432": 238
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180017&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180017&type=464",
@@ -13613,15 +13613,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 66,
-      "Горностаев Александр Сергеевич": 10,
-      "Зберовский Андрей Викторович": 18,
-      "Осипова Татьяна Юрьевна": 22,
-      "Слонов Алексей Павлович": 36,
-      "Тарасов Артем Михайлович": 15,
-      "Титов Сергей Сергеевич": 41,
-      "Шахматов Сергей Александрович": 8,
-      "Швыткин Юрий Николаевич": 211
+      "gas:candidate-vibid:22420001387054": 66,
+      "gas:candidate-vibid:22420001400620": 10,
+      "gas:candidate-vibid:22420001395003": 18,
+      "gas:candidate-vibid:22420001389141": 22,
+      "gas:candidate-vibid:22420001399759": 36,
+      "gas:candidate-vibid:22420001398755": 15,
+      "gas:candidate-vibid:22420001258110": 41,
+      "gas:candidate-vibid:22420001397813": 8,
+      "gas:candidate-vibid:22420001396432": 211
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180017&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180017&type=464",
@@ -13672,15 +13672,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 38,
-      "Горностаев Александр Сергеевич": 5,
-      "Зберовский Андрей Викторович": 17,
-      "Осипова Татьяна Юрьевна": 21,
-      "Слонов Алексей Павлович": 29,
-      "Тарасов Артем Михайлович": 7,
-      "Титов Сергей Сергеевич": 45,
-      "Шахматов Сергей Александрович": 8,
-      "Швыткин Юрий Николаевич": 258
+      "gas:candidate-vibid:22420001387054": 38,
+      "gas:candidate-vibid:22420001400620": 5,
+      "gas:candidate-vibid:22420001395003": 17,
+      "gas:candidate-vibid:22420001389141": 21,
+      "gas:candidate-vibid:22420001399759": 29,
+      "gas:candidate-vibid:22420001398755": 7,
+      "gas:candidate-vibid:22420001258110": 45,
+      "gas:candidate-vibid:22420001397813": 8,
+      "gas:candidate-vibid:22420001396432": 258
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180017&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180017&type=464",
@@ -13731,15 +13731,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 68,
-      "Горностаев Александр Сергеевич": 13,
-      "Зберовский Андрей Викторович": 26,
-      "Осипова Татьяна Юрьевна": 24,
-      "Слонов Алексей Павлович": 30,
-      "Тарасов Артем Михайлович": 15,
-      "Титов Сергей Сергеевич": 46,
-      "Шахматов Сергей Александрович": 15,
-      "Швыткин Юрий Николаевич": 296
+      "gas:candidate-vibid:22420001387054": 68,
+      "gas:candidate-vibid:22420001400620": 13,
+      "gas:candidate-vibid:22420001395003": 26,
+      "gas:candidate-vibid:22420001389141": 24,
+      "gas:candidate-vibid:22420001399759": 30,
+      "gas:candidate-vibid:22420001398755": 15,
+      "gas:candidate-vibid:22420001258110": 46,
+      "gas:candidate-vibid:22420001397813": 15,
+      "gas:candidate-vibid:22420001396432": 296
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180017&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180017&type=464",
@@ -13790,15 +13790,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 59,
-      "Горностаев Александр Сергеевич": 11,
-      "Зберовский Андрей Викторович": 34,
-      "Осипова Татьяна Юрьевна": 12,
-      "Слонов Алексей Павлович": 28,
-      "Тарасов Артем Михайлович": 13,
-      "Титов Сергей Сергеевич": 38,
-      "Шахматов Сергей Александрович": 12,
-      "Швыткин Юрий Николаевич": 220
+      "gas:candidate-vibid:22420001387054": 59,
+      "gas:candidate-vibid:22420001400620": 11,
+      "gas:candidate-vibid:22420001395003": 34,
+      "gas:candidate-vibid:22420001389141": 12,
+      "gas:candidate-vibid:22420001399759": 28,
+      "gas:candidate-vibid:22420001398755": 13,
+      "gas:candidate-vibid:22420001258110": 38,
+      "gas:candidate-vibid:22420001397813": 12,
+      "gas:candidate-vibid:22420001396432": 220
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180017&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180017&type=464",
@@ -13849,15 +13849,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 47,
-      "Горностаев Александр Сергеевич": 20,
-      "Зберовский Андрей Викторович": 24,
-      "Осипова Татьяна Юрьевна": 27,
-      "Слонов Алексей Павлович": 35,
-      "Тарасов Артем Михайлович": 14,
-      "Титов Сергей Сергеевич": 43,
-      "Шахматов Сергей Александрович": 7,
-      "Швыткин Юрий Николаевич": 198
+      "gas:candidate-vibid:22420001387054": 47,
+      "gas:candidate-vibid:22420001400620": 20,
+      "gas:candidate-vibid:22420001395003": 24,
+      "gas:candidate-vibid:22420001389141": 27,
+      "gas:candidate-vibid:22420001399759": 35,
+      "gas:candidate-vibid:22420001398755": 14,
+      "gas:candidate-vibid:22420001258110": 43,
+      "gas:candidate-vibid:22420001397813": 7,
+      "gas:candidate-vibid:22420001396432": 198
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180017&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180017&type=464",
@@ -13908,15 +13908,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 71,
-      "Горностаев Александр Сергеевич": 14,
-      "Зберовский Андрей Викторович": 26,
-      "Осипова Татьяна Юрьевна": 33,
-      "Слонов Алексей Павлович": 47,
-      "Тарасов Артем Михайлович": 15,
-      "Титов Сергей Сергеевич": 50,
-      "Шахматов Сергей Александрович": 12,
-      "Швыткин Юрий Николаевич": 272
+      "gas:candidate-vibid:22420001387054": 71,
+      "gas:candidate-vibid:22420001400620": 14,
+      "gas:candidate-vibid:22420001395003": 26,
+      "gas:candidate-vibid:22420001389141": 33,
+      "gas:candidate-vibid:22420001399759": 47,
+      "gas:candidate-vibid:22420001398755": 15,
+      "gas:candidate-vibid:22420001258110": 50,
+      "gas:candidate-vibid:22420001397813": 12,
+      "gas:candidate-vibid:22420001396432": 272
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180017&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180017&type=464",
@@ -13967,15 +13967,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 71,
-      "Горностаев Александр Сергеевич": 14,
-      "Зберовский Андрей Викторович": 25,
-      "Осипова Татьяна Юрьевна": 18,
-      "Слонов Алексей Павлович": 44,
-      "Тарасов Артем Михайлович": 15,
-      "Титов Сергей Сергеевич": 60,
-      "Шахматов Сергей Александрович": 10,
-      "Швыткин Юрий Николаевич": 236
+      "gas:candidate-vibid:22420001387054": 71,
+      "gas:candidate-vibid:22420001400620": 14,
+      "gas:candidate-vibid:22420001395003": 25,
+      "gas:candidate-vibid:22420001389141": 18,
+      "gas:candidate-vibid:22420001399759": 44,
+      "gas:candidate-vibid:22420001398755": 15,
+      "gas:candidate-vibid:22420001258110": 60,
+      "gas:candidate-vibid:22420001397813": 10,
+      "gas:candidate-vibid:22420001396432": 236
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180017&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180017&type=464",
@@ -14026,15 +14026,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 53,
-      "Горностаев Александр Сергеевич": 10,
-      "Зберовский Андрей Викторович": 27,
-      "Осипова Татьяна Юрьевна": 25,
-      "Слонов Алексей Павлович": 27,
-      "Тарасов Артем Михайлович": 12,
-      "Титов Сергей Сергеевич": 70,
-      "Шахматов Сергей Александрович": 16,
-      "Швыткин Юрий Николаевич": 366
+      "gas:candidate-vibid:22420001387054": 53,
+      "gas:candidate-vibid:22420001400620": 10,
+      "gas:candidate-vibid:22420001395003": 27,
+      "gas:candidate-vibid:22420001389141": 25,
+      "gas:candidate-vibid:22420001399759": 27,
+      "gas:candidate-vibid:22420001398755": 12,
+      "gas:candidate-vibid:22420001258110": 70,
+      "gas:candidate-vibid:22420001397813": 16,
+      "gas:candidate-vibid:22420001396432": 366
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180017&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180017&type=464",
@@ -14085,15 +14085,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 62,
-      "Горностаев Александр Сергеевич": 13,
-      "Зберовский Андрей Викторович": 31,
-      "Осипова Татьяна Юрьевна": 31,
-      "Слонов Алексей Павлович": 53,
-      "Тарасов Артем Михайлович": 13,
-      "Титов Сергей Сергеевич": 64,
-      "Шахматов Сергей Александрович": 11,
-      "Швыткин Юрий Николаевич": 242
+      "gas:candidate-vibid:22420001387054": 62,
+      "gas:candidate-vibid:22420001400620": 13,
+      "gas:candidate-vibid:22420001395003": 31,
+      "gas:candidate-vibid:22420001389141": 31,
+      "gas:candidate-vibid:22420001399759": 53,
+      "gas:candidate-vibid:22420001398755": 13,
+      "gas:candidate-vibid:22420001258110": 64,
+      "gas:candidate-vibid:22420001397813": 11,
+      "gas:candidate-vibid:22420001396432": 242
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180017&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180017&type=464",
@@ -14144,15 +14144,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 65,
-      "Горностаев Александр Сергеевич": 10,
-      "Зберовский Андрей Викторович": 31,
-      "Осипова Татьяна Юрьевна": 21,
-      "Слонов Алексей Павлович": 39,
-      "Тарасов Артем Михайлович": 11,
-      "Титов Сергей Сергеевич": 61,
-      "Шахматов Сергей Александрович": 5,
-      "Швыткин Юрий Николаевич": 296
+      "gas:candidate-vibid:22420001387054": 65,
+      "gas:candidate-vibid:22420001400620": 10,
+      "gas:candidate-vibid:22420001395003": 31,
+      "gas:candidate-vibid:22420001389141": 21,
+      "gas:candidate-vibid:22420001399759": 39,
+      "gas:candidate-vibid:22420001398755": 11,
+      "gas:candidate-vibid:22420001258110": 61,
+      "gas:candidate-vibid:22420001397813": 5,
+      "gas:candidate-vibid:22420001396432": 296
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180017&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180017&type=464",
@@ -14203,15 +14203,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 45,
-      "Горностаев Александр Сергеевич": 14,
-      "Зберовский Андрей Викторович": 33,
-      "Осипова Татьяна Юрьевна": 19,
-      "Слонов Алексей Павлович": 26,
-      "Тарасов Артем Михайлович": 15,
-      "Титов Сергей Сергеевич": 43,
-      "Шахматов Сергей Александрович": 8,
-      "Швыткин Юрий Николаевич": 235
+      "gas:candidate-vibid:22420001387054": 45,
+      "gas:candidate-vibid:22420001400620": 14,
+      "gas:candidate-vibid:22420001395003": 33,
+      "gas:candidate-vibid:22420001389141": 19,
+      "gas:candidate-vibid:22420001399759": 26,
+      "gas:candidate-vibid:22420001398755": 15,
+      "gas:candidate-vibid:22420001258110": 43,
+      "gas:candidate-vibid:22420001397813": 8,
+      "gas:candidate-vibid:22420001396432": 235
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180017&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180017&type=464",
@@ -14262,15 +14262,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 68,
-      "Горностаев Александр Сергеевич": 15,
-      "Зберовский Андрей Викторович": 21,
-      "Осипова Татьяна Юрьевна": 22,
-      "Слонов Алексей Павлович": 38,
-      "Тарасов Артем Михайлович": 13,
-      "Титов Сергей Сергеевич": 75,
-      "Шахматов Сергей Александрович": 6,
-      "Швыткин Юрий Николаевич": 233
+      "gas:candidate-vibid:22420001387054": 68,
+      "gas:candidate-vibid:22420001400620": 15,
+      "gas:candidate-vibid:22420001395003": 21,
+      "gas:candidate-vibid:22420001389141": 22,
+      "gas:candidate-vibid:22420001399759": 38,
+      "gas:candidate-vibid:22420001398755": 13,
+      "gas:candidate-vibid:22420001258110": 75,
+      "gas:candidate-vibid:22420001397813": 6,
+      "gas:candidate-vibid:22420001396432": 233
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180017&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180017&type=464",
@@ -14321,15 +14321,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 68,
-      "Горностаев Александр Сергеевич": 16,
-      "Зберовский Андрей Викторович": 20,
-      "Осипова Татьяна Юрьевна": 20,
-      "Слонов Алексей Павлович": 27,
-      "Тарасов Артем Михайлович": 12,
-      "Титов Сергей Сергеевич": 61,
-      "Шахматов Сергей Александрович": 6,
-      "Швыткин Юрий Николаевич": 242
+      "gas:candidate-vibid:22420001387054": 68,
+      "gas:candidate-vibid:22420001400620": 16,
+      "gas:candidate-vibid:22420001395003": 20,
+      "gas:candidate-vibid:22420001389141": 20,
+      "gas:candidate-vibid:22420001399759": 27,
+      "gas:candidate-vibid:22420001398755": 12,
+      "gas:candidate-vibid:22420001258110": 61,
+      "gas:candidate-vibid:22420001397813": 6,
+      "gas:candidate-vibid:22420001396432": 242
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180017&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180017&type=464",
@@ -14380,15 +14380,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 67,
-      "Горностаев Александр Сергеевич": 13,
-      "Зберовский Андрей Викторович": 58,
-      "Осипова Татьяна Юрьевна": 26,
-      "Слонов Алексей Павлович": 36,
-      "Тарасов Артем Михайлович": 18,
-      "Титов Сергей Сергеевич": 51,
-      "Шахматов Сергей Александрович": 8,
-      "Швыткин Юрий Николаевич": 276
+      "gas:candidate-vibid:22420001387054": 67,
+      "gas:candidate-vibid:22420001400620": 13,
+      "gas:candidate-vibid:22420001395003": 58,
+      "gas:candidate-vibid:22420001389141": 26,
+      "gas:candidate-vibid:22420001399759": 36,
+      "gas:candidate-vibid:22420001398755": 18,
+      "gas:candidate-vibid:22420001258110": 51,
+      "gas:candidate-vibid:22420001397813": 8,
+      "gas:candidate-vibid:22420001396432": 276
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180017&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180017&type=464",
@@ -14439,15 +14439,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 73,
-      "Горностаев Александр Сергеевич": 16,
-      "Зберовский Андрей Викторович": 56,
-      "Осипова Татьяна Юрьевна": 31,
-      "Слонов Алексей Павлович": 47,
-      "Тарасов Артем Михайлович": 20,
-      "Титов Сергей Сергеевич": 50,
-      "Шахматов Сергей Александрович": 16,
-      "Швыткин Юрий Николаевич": 336
+      "gas:candidate-vibid:22420001387054": 73,
+      "gas:candidate-vibid:22420001400620": 16,
+      "gas:candidate-vibid:22420001395003": 56,
+      "gas:candidate-vibid:22420001389141": 31,
+      "gas:candidate-vibid:22420001399759": 47,
+      "gas:candidate-vibid:22420001398755": 20,
+      "gas:candidate-vibid:22420001258110": 50,
+      "gas:candidate-vibid:22420001397813": 16,
+      "gas:candidate-vibid:22420001396432": 336
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180017&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180017&type=464",
@@ -14498,15 +14498,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 87,
-      "Горностаев Александр Сергеевич": 13,
-      "Зберовский Андрей Викторович": 66,
-      "Осипова Татьяна Юрьевна": 31,
-      "Слонов Алексей Павлович": 56,
-      "Тарасов Артем Михайлович": 23,
-      "Титов Сергей Сергеевич": 68,
-      "Шахматов Сергей Александрович": 18,
-      "Швыткин Юрий Николаевич": 372
+      "gas:candidate-vibid:22420001387054": 87,
+      "gas:candidate-vibid:22420001400620": 13,
+      "gas:candidate-vibid:22420001395003": 66,
+      "gas:candidate-vibid:22420001389141": 31,
+      "gas:candidate-vibid:22420001399759": 56,
+      "gas:candidate-vibid:22420001398755": 23,
+      "gas:candidate-vibid:22420001258110": 68,
+      "gas:candidate-vibid:22420001397813": 18,
+      "gas:candidate-vibid:22420001396432": 372
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180017&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180017&type=464",
@@ -14557,15 +14557,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 82,
-      "Горностаев Александр Сергеевич": 12,
-      "Зберовский Андрей Викторович": 72,
-      "Осипова Татьяна Юрьевна": 33,
-      "Слонов Алексей Павлович": 61,
-      "Тарасов Артем Михайлович": 18,
-      "Титов Сергей Сергеевич": 74,
-      "Шахматов Сергей Александрович": 13,
-      "Швыткин Юрий Николаевич": 378
+      "gas:candidate-vibid:22420001387054": 82,
+      "gas:candidate-vibid:22420001400620": 12,
+      "gas:candidate-vibid:22420001395003": 72,
+      "gas:candidate-vibid:22420001389141": 33,
+      "gas:candidate-vibid:22420001399759": 61,
+      "gas:candidate-vibid:22420001398755": 18,
+      "gas:candidate-vibid:22420001258110": 74,
+      "gas:candidate-vibid:22420001397813": 13,
+      "gas:candidate-vibid:22420001396432": 378
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180017&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180017&type=464",
@@ -14616,15 +14616,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 47,
-      "Горностаев Александр Сергеевич": 9,
-      "Зберовский Андрей Викторович": 21,
-      "Осипова Татьяна Юрьевна": 29,
-      "Слонов Алексей Павлович": 34,
-      "Тарасов Артем Михайлович": 14,
-      "Титов Сергей Сергеевич": 46,
-      "Шахматов Сергей Александрович": 7,
-      "Швыткин Юрий Николаевич": 230
+      "gas:candidate-vibid:22420001387054": 47,
+      "gas:candidate-vibid:22420001400620": 9,
+      "gas:candidate-vibid:22420001395003": 21,
+      "gas:candidate-vibid:22420001389141": 29,
+      "gas:candidate-vibid:22420001399759": 34,
+      "gas:candidate-vibid:22420001398755": 14,
+      "gas:candidate-vibid:22420001258110": 46,
+      "gas:candidate-vibid:22420001397813": 7,
+      "gas:candidate-vibid:22420001396432": 230
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180017&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180017&type=464",
@@ -14675,15 +14675,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 69,
-      "Горностаев Александр Сергеевич": 15,
-      "Зберовский Андрей Викторович": 42,
-      "Осипова Татьяна Юрьевна": 28,
-      "Слонов Алексей Павлович": 49,
-      "Тарасов Артем Михайлович": 11,
-      "Титов Сергей Сергеевич": 48,
-      "Шахматов Сергей Александрович": 14,
-      "Швыткин Юрий Николаевич": 312
+      "gas:candidate-vibid:22420001387054": 69,
+      "gas:candidate-vibid:22420001400620": 15,
+      "gas:candidate-vibid:22420001395003": 42,
+      "gas:candidate-vibid:22420001389141": 28,
+      "gas:candidate-vibid:22420001399759": 49,
+      "gas:candidate-vibid:22420001398755": 11,
+      "gas:candidate-vibid:22420001258110": 48,
+      "gas:candidate-vibid:22420001397813": 14,
+      "gas:candidate-vibid:22420001396432": 312
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180017&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180017&type=464",
@@ -14734,15 +14734,15 @@ export const duma_2016_uik_463_region_24_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Владимиров Владимир Владимирович": 102,
-      "Горностаев Александр Сергеевич": 13,
-      "Зберовский Андрей Викторович": 51,
-      "Осипова Татьяна Юрьевна": 15,
-      "Слонов Алексей Павлович": 40,
-      "Тарасов Артем Михайлович": 20,
-      "Титов Сергей Сергеевич": 57,
-      "Шахматов Сергей Александрович": 11,
-      "Швыткин Юрий Николаевич": 319
+      "gas:candidate-vibid:22420001387054": 102,
+      "gas:candidate-vibid:22420001400620": 13,
+      "gas:candidate-vibid:22420001395003": 51,
+      "gas:candidate-vibid:22420001389141": 15,
+      "gas:candidate-vibid:22420001399759": 40,
+      "gas:candidate-vibid:22420001398755": 20,
+      "gas:candidate-vibid:22420001258110": 57,
+      "gas:candidate-vibid:22420001397813": 11,
+      "gas:candidate-vibid:22420001396432": 319
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000072&tvd=22420001180017&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180017&type=464",

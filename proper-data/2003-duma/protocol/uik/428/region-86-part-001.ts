@@ -42,16 +42,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 12,
-      "Асеев Владимир Михайлович": 1260,
-      "Кандаков Сергей Викторович": 112,
-      "Ковалев Сергей Анатольевич": 6,
-      "Крепких Владимир Владимирович": 9,
-      "Кузьмин Игорь Викторович": 29,
-      "Мурзина Лариса Валентиновна": 13,
-      "Полякова Нина Борисовна": 12,
-      "Шустова Галина Степановна": 15,
-      "Против всех": 117
+      "gas:candidate-vibid:1001000195184": 12,
+      "gas:candidate-vibid:1001000226025": 1260,
+      "gas:candidate-vibid:386300166794": 112,
+      "gas:candidate-vibid:1001000188030": 6,
+      "gas:candidate-vibid:386300166804": 9,
+      "gas:candidate-vibid:1001000136170": 29,
+      "gas:candidate-vibid:1001000114006": 13,
+      "gas:candidate-vibid:1001000126656": 12,
+      "gas:candidate-vibid:1001000121955": 15,
+      "special:against-all": 117
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066717&region=0&sub_region=0&type=429",
@@ -101,16 +101,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 10,
-      "Асеев Владимир Михайлович": 1312,
-      "Кандаков Сергей Викторович": 162,
-      "Ковалев Сергей Анатольевич": 14,
-      "Крепких Владимир Владимирович": 11,
-      "Кузьмин Игорь Викторович": 32,
-      "Мурзина Лариса Валентиновна": 16,
-      "Полякова Нина Борисовна": 11,
-      "Шустова Галина Степановна": 15,
-      "Против всех": 128
+      "gas:candidate-vibid:1001000195184": 10,
+      "gas:candidate-vibid:1001000226025": 1312,
+      "gas:candidate-vibid:386300166794": 162,
+      "gas:candidate-vibid:1001000188030": 14,
+      "gas:candidate-vibid:386300166804": 11,
+      "gas:candidate-vibid:1001000136170": 32,
+      "gas:candidate-vibid:1001000114006": 16,
+      "gas:candidate-vibid:1001000126656": 11,
+      "gas:candidate-vibid:1001000121955": 15,
+      "special:against-all": 128
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066717&region=0&sub_region=0&type=429",
@@ -160,16 +160,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 5,
-      "Асеев Владимир Михайлович": 1077,
-      "Кандаков Сергей Викторович": 99,
-      "Ковалев Сергей Анатольевич": 7,
-      "Крепких Владимир Владимирович": 12,
-      "Кузьмин Игорь Викторович": 22,
-      "Мурзина Лариса Валентиновна": 9,
-      "Полякова Нина Борисовна": 5,
-      "Шустова Галина Степановна": 17,
-      "Против всех": 102
+      "gas:candidate-vibid:1001000195184": 5,
+      "gas:candidate-vibid:1001000226025": 1077,
+      "gas:candidate-vibid:386300166794": 99,
+      "gas:candidate-vibid:1001000188030": 7,
+      "gas:candidate-vibid:386300166804": 12,
+      "gas:candidate-vibid:1001000136170": 22,
+      "gas:candidate-vibid:1001000114006": 9,
+      "gas:candidate-vibid:1001000126656": 5,
+      "gas:candidate-vibid:1001000121955": 17,
+      "special:against-all": 102
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066717&region=0&sub_region=0&type=429",
@@ -219,16 +219,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 8,
-      "Асеев Владимир Михайлович": 1153,
-      "Кандаков Сергей Викторович": 95,
-      "Ковалев Сергей Анатольевич": 6,
-      "Крепких Владимир Владимирович": 9,
-      "Кузьмин Игорь Викторович": 17,
-      "Мурзина Лариса Валентиновна": 12,
-      "Полякова Нина Борисовна": 5,
-      "Шустова Галина Степановна": 10,
-      "Против всех": 93
+      "gas:candidate-vibid:1001000195184": 8,
+      "gas:candidate-vibid:1001000226025": 1153,
+      "gas:candidate-vibid:386300166794": 95,
+      "gas:candidate-vibid:1001000188030": 6,
+      "gas:candidate-vibid:386300166804": 9,
+      "gas:candidate-vibid:1001000136170": 17,
+      "gas:candidate-vibid:1001000114006": 12,
+      "gas:candidate-vibid:1001000126656": 5,
+      "gas:candidate-vibid:1001000121955": 10,
+      "special:against-all": 93
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066717&region=0&sub_region=0&type=429",
@@ -278,16 +278,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 10,
-      "Асеев Владимир Михайлович": 1422,
-      "Кандаков Сергей Викторович": 181,
-      "Ковалев Сергей Анатольевич": 10,
-      "Крепких Владимир Владимирович": 8,
-      "Кузьмин Игорь Викторович": 25,
-      "Мурзина Лариса Валентиновна": 9,
-      "Полякова Нина Борисовна": 16,
-      "Шустова Галина Степановна": 22,
-      "Против всех": 143
+      "gas:candidate-vibid:1001000195184": 10,
+      "gas:candidate-vibid:1001000226025": 1422,
+      "gas:candidate-vibid:386300166794": 181,
+      "gas:candidate-vibid:1001000188030": 10,
+      "gas:candidate-vibid:386300166804": 8,
+      "gas:candidate-vibid:1001000136170": 25,
+      "gas:candidate-vibid:1001000114006": 9,
+      "gas:candidate-vibid:1001000126656": 16,
+      "gas:candidate-vibid:1001000121955": 22,
+      "special:against-all": 143
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066717&region=0&sub_region=0&type=429",
@@ -337,16 +337,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 15,
-      "Асеев Владимир Михайлович": 1560,
-      "Кандаков Сергей Викторович": 179,
-      "Ковалев Сергей Анатольевич": 12,
-      "Крепких Владимир Владимирович": 13,
-      "Кузьмин Игорь Викторович": 30,
-      "Мурзина Лариса Валентиновна": 12,
-      "Полякова Нина Борисовна": 7,
-      "Шустова Галина Степановна": 16,
-      "Против всех": 166
+      "gas:candidate-vibid:1001000195184": 15,
+      "gas:candidate-vibid:1001000226025": 1560,
+      "gas:candidate-vibid:386300166794": 179,
+      "gas:candidate-vibid:1001000188030": 12,
+      "gas:candidate-vibid:386300166804": 13,
+      "gas:candidate-vibid:1001000136170": 30,
+      "gas:candidate-vibid:1001000114006": 12,
+      "gas:candidate-vibid:1001000126656": 7,
+      "gas:candidate-vibid:1001000121955": 16,
+      "special:against-all": 166
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066717&region=0&sub_region=0&type=429",
@@ -396,16 +396,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 7,
-      "Асеев Владимир Михайлович": 1423,
-      "Кандаков Сергей Викторович": 97,
-      "Ковалев Сергей Анатольевич": 24,
-      "Крепких Владимир Владимирович": 13,
-      "Кузьмин Игорь Викторович": 17,
-      "Мурзина Лариса Валентиновна": 16,
-      "Полякова Нина Борисовна": 17,
-      "Шустова Галина Степановна": 21,
-      "Против всех": 145
+      "gas:candidate-vibid:1001000195184": 7,
+      "gas:candidate-vibid:1001000226025": 1423,
+      "gas:candidate-vibid:386300166794": 97,
+      "gas:candidate-vibid:1001000188030": 24,
+      "gas:candidate-vibid:386300166804": 13,
+      "gas:candidate-vibid:1001000136170": 17,
+      "gas:candidate-vibid:1001000114006": 16,
+      "gas:candidate-vibid:1001000126656": 17,
+      "gas:candidate-vibid:1001000121955": 21,
+      "special:against-all": 145
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066717&region=0&sub_region=0&type=429",
@@ -455,16 +455,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 7,
-      "Асеев Владимир Михайлович": 1249,
-      "Кандаков Сергей Викторович": 107,
-      "Ковалев Сергей Анатольевич": 14,
-      "Крепких Владимир Владимирович": 13,
-      "Кузьмин Игорь Викторович": 14,
-      "Мурзина Лариса Валентиновна": 17,
-      "Полякова Нина Борисовна": 15,
-      "Шустова Галина Степановна": 13,
-      "Против всех": 116
+      "gas:candidate-vibid:1001000195184": 7,
+      "gas:candidate-vibid:1001000226025": 1249,
+      "gas:candidate-vibid:386300166794": 107,
+      "gas:candidate-vibid:1001000188030": 14,
+      "gas:candidate-vibid:386300166804": 13,
+      "gas:candidate-vibid:1001000136170": 14,
+      "gas:candidate-vibid:1001000114006": 17,
+      "gas:candidate-vibid:1001000126656": 15,
+      "gas:candidate-vibid:1001000121955": 13,
+      "special:against-all": 116
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066717&region=0&sub_region=0&type=429",
@@ -514,16 +514,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 4,
-      "Асеев Владимир Михайлович": 1380,
-      "Кандаков Сергей Викторович": 130,
-      "Ковалев Сергей Анатольевич": 13,
-      "Крепких Владимир Владимирович": 12,
-      "Кузьмин Игорь Викторович": 17,
-      "Мурзина Лариса Валентиновна": 13,
-      "Полякова Нина Борисовна": 17,
-      "Шустова Галина Степановна": 24,
-      "Против всех": 152
+      "gas:candidate-vibid:1001000195184": 4,
+      "gas:candidate-vibid:1001000226025": 1380,
+      "gas:candidate-vibid:386300166794": 130,
+      "gas:candidate-vibid:1001000188030": 13,
+      "gas:candidate-vibid:386300166804": 12,
+      "gas:candidate-vibid:1001000136170": 17,
+      "gas:candidate-vibid:1001000114006": 13,
+      "gas:candidate-vibid:1001000126656": 17,
+      "gas:candidate-vibid:1001000121955": 24,
+      "special:against-all": 152
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066717&region=0&sub_region=0&type=429",
@@ -573,16 +573,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 4,
-      "Асеев Владимир Михайлович": 1387,
-      "Кандаков Сергей Викторович": 134,
-      "Ковалев Сергей Анатольевич": 11,
-      "Крепких Владимир Владимирович": 11,
-      "Кузьмин Игорь Викторович": 16,
-      "Мурзина Лариса Валентиновна": 17,
-      "Полякова Нина Борисовна": 8,
-      "Шустова Галина Степановна": 16,
-      "Против всех": 144
+      "gas:candidate-vibid:1001000195184": 4,
+      "gas:candidate-vibid:1001000226025": 1387,
+      "gas:candidate-vibid:386300166794": 134,
+      "gas:candidate-vibid:1001000188030": 11,
+      "gas:candidate-vibid:386300166804": 11,
+      "gas:candidate-vibid:1001000136170": 16,
+      "gas:candidate-vibid:1001000114006": 17,
+      "gas:candidate-vibid:1001000126656": 8,
+      "gas:candidate-vibid:1001000121955": 16,
+      "special:against-all": 144
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066717&region=0&sub_region=0&type=429",
@@ -632,16 +632,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 13,
-      "Асеев Владимир Михайлович": 1551,
-      "Кандаков Сергей Викторович": 148,
-      "Ковалев Сергей Анатольевич": 16,
-      "Крепких Владимир Владимирович": 6,
-      "Кузьмин Игорь Викторович": 33,
-      "Мурзина Лариса Валентиновна": 25,
-      "Полякова Нина Борисовна": 16,
-      "Шустова Галина Степановна": 17,
-      "Против всех": 124
+      "gas:candidate-vibid:1001000195184": 13,
+      "gas:candidate-vibid:1001000226025": 1551,
+      "gas:candidate-vibid:386300166794": 148,
+      "gas:candidate-vibid:1001000188030": 16,
+      "gas:candidate-vibid:386300166804": 6,
+      "gas:candidate-vibid:1001000136170": 33,
+      "gas:candidate-vibid:1001000114006": 25,
+      "gas:candidate-vibid:1001000126656": 16,
+      "gas:candidate-vibid:1001000121955": 17,
+      "special:against-all": 124
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066717&region=0&sub_region=0&type=429",
@@ -691,16 +691,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 17,
-      "Асеев Владимир Михайлович": 869,
-      "Кандаков Сергей Викторович": 65,
-      "Ковалев Сергей Анатольевич": 64,
-      "Крепких Владимир Владимирович": 21,
-      "Кузьмин Игорь Викторович": 55,
-      "Мурзина Лариса Валентиновна": 49,
-      "Полякова Нина Борисовна": 21,
-      "Шустова Галина Степановна": 117,
-      "Против всех": 293
+      "gas:candidate-vibid:1001000195184": 17,
+      "gas:candidate-vibid:1001000226025": 869,
+      "gas:candidate-vibid:386300166794": 65,
+      "gas:candidate-vibid:1001000188030": 64,
+      "gas:candidate-vibid:386300166804": 21,
+      "gas:candidate-vibid:1001000136170": 55,
+      "gas:candidate-vibid:1001000114006": 49,
+      "gas:candidate-vibid:1001000126656": 21,
+      "gas:candidate-vibid:1001000121955": 117,
+      "special:against-all": 293
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066718&region=0&sub_region=0&type=429",
@@ -750,16 +750,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 11,
-      "Асеев Владимир Михайлович": 576,
-      "Кандаков Сергей Викторович": 132,
-      "Ковалев Сергей Анатольевич": 56,
-      "Крепких Владимир Владимирович": 45,
-      "Кузьмин Игорь Викторович": 69,
-      "Мурзина Лариса Валентиновна": 38,
-      "Полякова Нина Борисовна": 20,
-      "Шустова Галина Степановна": 66,
-      "Против всех": 234
+      "gas:candidate-vibid:1001000195184": 11,
+      "gas:candidate-vibid:1001000226025": 576,
+      "gas:candidate-vibid:386300166794": 132,
+      "gas:candidate-vibid:1001000188030": 56,
+      "gas:candidate-vibid:386300166804": 45,
+      "gas:candidate-vibid:1001000136170": 69,
+      "gas:candidate-vibid:1001000114006": 38,
+      "gas:candidate-vibid:1001000126656": 20,
+      "gas:candidate-vibid:1001000121955": 66,
+      "special:against-all": 234
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066718&region=0&sub_region=0&type=429",
@@ -809,16 +809,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 6,
-      "Асеев Владимир Михайлович": 797,
-      "Кандаков Сергей Викторович": 149,
-      "Ковалев Сергей Анатольевич": 75,
-      "Крепких Владимир Владимирович": 34,
-      "Кузьмин Игорь Викторович": 45,
-      "Мурзина Лариса Валентиновна": 49,
-      "Полякова Нина Борисовна": 30,
-      "Шустова Галина Степановна": 95,
-      "Против всех": 311
+      "gas:candidate-vibid:1001000195184": 6,
+      "gas:candidate-vibid:1001000226025": 797,
+      "gas:candidate-vibid:386300166794": 149,
+      "gas:candidate-vibid:1001000188030": 75,
+      "gas:candidate-vibid:386300166804": 34,
+      "gas:candidate-vibid:1001000136170": 45,
+      "gas:candidate-vibid:1001000114006": 49,
+      "gas:candidate-vibid:1001000126656": 30,
+      "gas:candidate-vibid:1001000121955": 95,
+      "special:against-all": 311
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066718&region=0&sub_region=0&type=429",
@@ -868,16 +868,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 6,
-      "Асеев Владимир Михайлович": 482,
-      "Кандаков Сергей Викторович": 73,
-      "Ковалев Сергей Анатольевич": 48,
-      "Крепких Владимир Владимирович": 28,
-      "Кузьмин Игорь Викторович": 43,
-      "Мурзина Лариса Валентиновна": 43,
-      "Полякова Нина Борисовна": 12,
-      "Шустова Галина Степановна": 100,
-      "Против всех": 182
+      "gas:candidate-vibid:1001000195184": 6,
+      "gas:candidate-vibid:1001000226025": 482,
+      "gas:candidate-vibid:386300166794": 73,
+      "gas:candidate-vibid:1001000188030": 48,
+      "gas:candidate-vibid:386300166804": 28,
+      "gas:candidate-vibid:1001000136170": 43,
+      "gas:candidate-vibid:1001000114006": 43,
+      "gas:candidate-vibid:1001000126656": 12,
+      "gas:candidate-vibid:1001000121955": 100,
+      "special:against-all": 182
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066718&region=0&sub_region=0&type=429",
@@ -927,16 +927,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 9,
-      "Асеев Владимир Михайлович": 516,
-      "Кандаков Сергей Викторович": 88,
-      "Ковалев Сергей Анатольевич": 37,
-      "Крепких Владимир Владимирович": 22,
-      "Кузьмин Игорь Викторович": 60,
-      "Мурзина Лариса Валентиновна": 25,
-      "Полякова Нина Борисовна": 18,
-      "Шустова Галина Степановна": 86,
-      "Против всех": 190
+      "gas:candidate-vibid:1001000195184": 9,
+      "gas:candidate-vibid:1001000226025": 516,
+      "gas:candidate-vibid:386300166794": 88,
+      "gas:candidate-vibid:1001000188030": 37,
+      "gas:candidate-vibid:386300166804": 22,
+      "gas:candidate-vibid:1001000136170": 60,
+      "gas:candidate-vibid:1001000114006": 25,
+      "gas:candidate-vibid:1001000126656": 18,
+      "gas:candidate-vibid:1001000121955": 86,
+      "special:against-all": 190
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066718&region=0&sub_region=0&type=429",
@@ -986,16 +986,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 4,
-      "Асеев Владимир Михайлович": 664,
-      "Кандаков Сергей Викторович": 96,
-      "Ковалев Сергей Анатольевич": 53,
-      "Крепких Владимир Владимирович": 29,
-      "Кузьмин Игорь Викторович": 56,
-      "Мурзина Лариса Валентиновна": 31,
-      "Полякова Нина Борисовна": 20,
-      "Шустова Галина Степановна": 67,
-      "Против всех": 233
+      "gas:candidate-vibid:1001000195184": 4,
+      "gas:candidate-vibid:1001000226025": 664,
+      "gas:candidate-vibid:386300166794": 96,
+      "gas:candidate-vibid:1001000188030": 53,
+      "gas:candidate-vibid:386300166804": 29,
+      "gas:candidate-vibid:1001000136170": 56,
+      "gas:candidate-vibid:1001000114006": 31,
+      "gas:candidate-vibid:1001000126656": 20,
+      "gas:candidate-vibid:1001000121955": 67,
+      "special:against-all": 233
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066718&region=0&sub_region=0&type=429",
@@ -1045,16 +1045,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 8,
-      "Асеев Владимир Михайлович": 528,
-      "Кандаков Сергей Викторович": 90,
-      "Ковалев Сергей Анатольевич": 42,
-      "Крепких Владимир Владимирович": 29,
-      "Кузьмин Игорь Викторович": 40,
-      "Мурзина Лариса Валентиновна": 33,
-      "Полякова Нина Борисовна": 15,
-      "Шустова Галина Степановна": 70,
-      "Против всех": 215
+      "gas:candidate-vibid:1001000195184": 8,
+      "gas:candidate-vibid:1001000226025": 528,
+      "gas:candidate-vibid:386300166794": 90,
+      "gas:candidate-vibid:1001000188030": 42,
+      "gas:candidate-vibid:386300166804": 29,
+      "gas:candidate-vibid:1001000136170": 40,
+      "gas:candidate-vibid:1001000114006": 33,
+      "gas:candidate-vibid:1001000126656": 15,
+      "gas:candidate-vibid:1001000121955": 70,
+      "special:against-all": 215
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066718&region=0&sub_region=0&type=429",
@@ -1104,16 +1104,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 9,
-      "Асеев Владимир Михайлович": 762,
-      "Кандаков Сергей Викторович": 76,
-      "Ковалев Сергей Анатольевич": 42,
-      "Крепких Владимир Владимирович": 27,
-      "Кузьмин Игорь Викторович": 46,
-      "Мурзина Лариса Валентиновна": 41,
-      "Полякова Нина Борисовна": 21,
-      "Шустова Галина Степановна": 88,
-      "Против всех": 239
+      "gas:candidate-vibid:1001000195184": 9,
+      "gas:candidate-vibid:1001000226025": 762,
+      "gas:candidate-vibid:386300166794": 76,
+      "gas:candidate-vibid:1001000188030": 42,
+      "gas:candidate-vibid:386300166804": 27,
+      "gas:candidate-vibid:1001000136170": 46,
+      "gas:candidate-vibid:1001000114006": 41,
+      "gas:candidate-vibid:1001000126656": 21,
+      "gas:candidate-vibid:1001000121955": 88,
+      "special:against-all": 239
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066718&region=0&sub_region=0&type=429",
@@ -1163,16 +1163,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 9,
-      "Асеев Владимир Михайлович": 568,
-      "Кандаков Сергей Викторович": 105,
-      "Ковалев Сергей Анатольевич": 56,
-      "Крепких Владимир Владимирович": 20,
-      "Кузьмин Игорь Викторович": 56,
-      "Мурзина Лариса Валентиновна": 21,
-      "Полякова Нина Борисовна": 28,
-      "Шустова Галина Степановна": 59,
-      "Против всех": 224
+      "gas:candidate-vibid:1001000195184": 9,
+      "gas:candidate-vibid:1001000226025": 568,
+      "gas:candidate-vibid:386300166794": 105,
+      "gas:candidate-vibid:1001000188030": 56,
+      "gas:candidate-vibid:386300166804": 20,
+      "gas:candidate-vibid:1001000136170": 56,
+      "gas:candidate-vibid:1001000114006": 21,
+      "gas:candidate-vibid:1001000126656": 28,
+      "gas:candidate-vibid:1001000121955": 59,
+      "special:against-all": 224
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066718&region=0&sub_region=0&type=429",
@@ -1222,16 +1222,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 8,
-      "Асеев Владимир Михайлович": 653,
-      "Кандаков Сергей Викторович": 105,
-      "Ковалев Сергей Анатольевич": 50,
-      "Крепких Владимир Владимирович": 16,
-      "Кузьмин Игорь Викторович": 38,
-      "Мурзина Лариса Валентиновна": 40,
-      "Полякова Нина Борисовна": 15,
-      "Шустова Галина Степановна": 98,
-      "Против всех": 210
+      "gas:candidate-vibid:1001000195184": 8,
+      "gas:candidate-vibid:1001000226025": 653,
+      "gas:candidate-vibid:386300166794": 105,
+      "gas:candidate-vibid:1001000188030": 50,
+      "gas:candidate-vibid:386300166804": 16,
+      "gas:candidate-vibid:1001000136170": 38,
+      "gas:candidate-vibid:1001000114006": 40,
+      "gas:candidate-vibid:1001000126656": 15,
+      "gas:candidate-vibid:1001000121955": 98,
+      "special:against-all": 210
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066718&region=0&sub_region=0&type=429",
@@ -1281,16 +1281,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 7,
-      "Асеев Владимир Михайлович": 377,
-      "Кандаков Сергей Викторович": 58,
-      "Ковалев Сергей Анатольевич": 28,
-      "Крепких Владимир Владимирович": 20,
-      "Кузьмин Игорь Викторович": 43,
-      "Мурзина Лариса Валентиновна": 32,
-      "Полякова Нина Борисовна": 14,
-      "Шустова Галина Степановна": 40,
-      "Против всех": 145
+      "gas:candidate-vibid:1001000195184": 7,
+      "gas:candidate-vibid:1001000226025": 377,
+      "gas:candidate-vibid:386300166794": 58,
+      "gas:candidate-vibid:1001000188030": 28,
+      "gas:candidate-vibid:386300166804": 20,
+      "gas:candidate-vibid:1001000136170": 43,
+      "gas:candidate-vibid:1001000114006": 32,
+      "gas:candidate-vibid:1001000126656": 14,
+      "gas:candidate-vibid:1001000121955": 40,
+      "special:against-all": 145
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066718&region=0&sub_region=0&type=429",
@@ -1340,16 +1340,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 13,
-      "Асеев Владимир Михайлович": 732,
-      "Кандаков Сергей Викторович": 133,
-      "Ковалев Сергей Анатольевич": 59,
-      "Крепких Владимир Владимирович": 35,
-      "Кузьмин Игорь Викторович": 56,
-      "Мурзина Лариса Валентиновна": 31,
-      "Полякова Нина Борисовна": 18,
-      "Шустова Галина Степановна": 64,
-      "Против всех": 256
+      "gas:candidate-vibid:1001000195184": 13,
+      "gas:candidate-vibid:1001000226025": 732,
+      "gas:candidate-vibid:386300166794": 133,
+      "gas:candidate-vibid:1001000188030": 59,
+      "gas:candidate-vibid:386300166804": 35,
+      "gas:candidate-vibid:1001000136170": 56,
+      "gas:candidate-vibid:1001000114006": 31,
+      "gas:candidate-vibid:1001000126656": 18,
+      "gas:candidate-vibid:1001000121955": 64,
+      "special:against-all": 256
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066718&region=0&sub_region=0&type=429",
@@ -1399,16 +1399,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 4,
-      "Асеев Владимир Михайлович": 600,
-      "Кандаков Сергей Викторович": 127,
-      "Ковалев Сергей Анатольевич": 53,
-      "Крепких Владимир Владимирович": 21,
-      "Кузьмин Игорь Викторович": 39,
-      "Мурзина Лариса Валентиновна": 32,
-      "Полякова Нина Борисовна": 27,
-      "Шустова Галина Степановна": 102,
-      "Против всех": 240
+      "gas:candidate-vibid:1001000195184": 4,
+      "gas:candidate-vibid:1001000226025": 600,
+      "gas:candidate-vibid:386300166794": 127,
+      "gas:candidate-vibid:1001000188030": 53,
+      "gas:candidate-vibid:386300166804": 21,
+      "gas:candidate-vibid:1001000136170": 39,
+      "gas:candidate-vibid:1001000114006": 32,
+      "gas:candidate-vibid:1001000126656": 27,
+      "gas:candidate-vibid:1001000121955": 102,
+      "special:against-all": 240
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066718&region=0&sub_region=0&type=429",
@@ -1458,16 +1458,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 2,
-      "Асеев Владимир Михайлович": 330,
-      "Кандаков Сергей Викторович": 22,
-      "Ковалев Сергей Анатольевич": 6,
-      "Крепких Владимир Владимирович": 3,
-      "Кузьмин Игорь Викторович": 17,
-      "Мурзина Лариса Валентиновна": 6,
-      "Полякова Нина Борисовна": 9,
-      "Шустова Галина Степановна": 36,
-      "Против всех": 72
+      "gas:candidate-vibid:1001000195184": 2,
+      "gas:candidate-vibid:1001000226025": 330,
+      "gas:candidate-vibid:386300166794": 22,
+      "gas:candidate-vibid:1001000188030": 6,
+      "gas:candidate-vibid:386300166804": 3,
+      "gas:candidate-vibid:1001000136170": 17,
+      "gas:candidate-vibid:1001000114006": 6,
+      "gas:candidate-vibid:1001000126656": 9,
+      "gas:candidate-vibid:1001000121955": 36,
+      "special:against-all": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066718&region=0&sub_region=0&type=429",
@@ -1517,16 +1517,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 3,
-      "Асеев Владимир Михайлович": 247,
-      "Кандаков Сергей Викторович": 18,
-      "Ковалев Сергей Анатольевич": 4,
-      "Крепких Владимир Владимирович": 9,
-      "Кузьмин Игорь Викторович": 17,
-      "Мурзина Лариса Валентиновна": 11,
-      "Полякова Нина Борисовна": 10,
-      "Шустова Галина Степановна": 36,
-      "Против всех": 85
+      "gas:candidate-vibid:1001000195184": 3,
+      "gas:candidate-vibid:1001000226025": 247,
+      "gas:candidate-vibid:386300166794": 18,
+      "gas:candidate-vibid:1001000188030": 4,
+      "gas:candidate-vibid:386300166804": 9,
+      "gas:candidate-vibid:1001000136170": 17,
+      "gas:candidate-vibid:1001000114006": 11,
+      "gas:candidate-vibid:1001000126656": 10,
+      "gas:candidate-vibid:1001000121955": 36,
+      "special:against-all": 85
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066718&region=0&sub_region=0&type=429",
@@ -1576,16 +1576,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 12,
-      "Асеев Владимир Михайлович": 1064,
-      "Кандаков Сергей Викторович": 47,
-      "Ковалев Сергей Анатольевич": 18,
-      "Крепких Владимир Владимирович": 15,
-      "Кузьмин Игорь Викторович": 28,
-      "Мурзина Лариса Валентиновна": 21,
-      "Полякова Нина Борисовна": 32,
-      "Шустова Галина Степановна": 73,
-      "Против всех": 183
+      "gas:candidate-vibid:1001000195184": 12,
+      "gas:candidate-vibid:1001000226025": 1064,
+      "gas:candidate-vibid:386300166794": 47,
+      "gas:candidate-vibid:1001000188030": 18,
+      "gas:candidate-vibid:386300166804": 15,
+      "gas:candidate-vibid:1001000136170": 28,
+      "gas:candidate-vibid:1001000114006": 21,
+      "gas:candidate-vibid:1001000126656": 32,
+      "gas:candidate-vibid:1001000121955": 73,
+      "special:against-all": 183
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066718&region=0&sub_region=0&type=429",
@@ -1635,16 +1635,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 0,
-      "Асеев Владимир Михайлович": 253,
-      "Кандаков Сергей Викторович": 22,
-      "Ковалев Сергей Анатольевич": 5,
-      "Крепких Владимир Владимирович": 2,
-      "Кузьмин Игорь Викторович": 13,
-      "Мурзина Лариса Валентиновна": 6,
-      "Полякова Нина Борисовна": 7,
-      "Шустова Галина Степановна": 20,
-      "Против всех": 62
+      "gas:candidate-vibid:1001000195184": 0,
+      "gas:candidate-vibid:1001000226025": 253,
+      "gas:candidate-vibid:386300166794": 22,
+      "gas:candidate-vibid:1001000188030": 5,
+      "gas:candidate-vibid:386300166804": 2,
+      "gas:candidate-vibid:1001000136170": 13,
+      "gas:candidate-vibid:1001000114006": 6,
+      "gas:candidate-vibid:1001000126656": 7,
+      "gas:candidate-vibid:1001000121955": 20,
+      "special:against-all": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066718&region=0&sub_region=0&type=429",
@@ -1694,16 +1694,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 10,
-      "Асеев Владимир Михайлович": 600,
-      "Кандаков Сергей Викторович": 201,
-      "Ковалев Сергей Анатольевич": 103,
-      "Крепких Владимир Владимирович": 113,
-      "Кузьмин Игорь Викторович": 16,
-      "Мурзина Лариса Валентиновна": 37,
-      "Полякова Нина Борисовна": 5,
-      "Шустова Галина Степановна": 118,
-      "Против всех": 209
+      "gas:candidate-vibid:1001000195184": 10,
+      "gas:candidate-vibid:1001000226025": 600,
+      "gas:candidate-vibid:386300166794": 201,
+      "gas:candidate-vibid:1001000188030": 103,
+      "gas:candidate-vibid:386300166804": 113,
+      "gas:candidate-vibid:1001000136170": 16,
+      "gas:candidate-vibid:1001000114006": 37,
+      "gas:candidate-vibid:1001000126656": 5,
+      "gas:candidate-vibid:1001000121955": 118,
+      "special:against-all": 209
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066719&region=0&sub_region=0&type=429",
@@ -1753,16 +1753,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 3,
-      "Асеев Владимир Михайлович": 616,
-      "Кандаков Сергей Викторович": 174,
-      "Ковалев Сергей Анатольевич": 94,
-      "Крепких Владимир Владимирович": 150,
-      "Кузьмин Игорь Викторович": 13,
-      "Мурзина Лариса Валентиновна": 54,
-      "Полякова Нина Борисовна": 12,
-      "Шустова Галина Степановна": 144,
-      "Против всех": 230
+      "gas:candidate-vibid:1001000195184": 3,
+      "gas:candidate-vibid:1001000226025": 616,
+      "gas:candidate-vibid:386300166794": 174,
+      "gas:candidate-vibid:1001000188030": 94,
+      "gas:candidate-vibid:386300166804": 150,
+      "gas:candidate-vibid:1001000136170": 13,
+      "gas:candidate-vibid:1001000114006": 54,
+      "gas:candidate-vibid:1001000126656": 12,
+      "gas:candidate-vibid:1001000121955": 144,
+      "special:against-all": 230
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066719&region=0&sub_region=0&type=429",
@@ -1812,16 +1812,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 4,
-      "Асеев Владимир Михайлович": 520,
-      "Кандаков Сергей Викторович": 164,
-      "Ковалев Сергей Анатольевич": 101,
-      "Крепких Владимир Владимирович": 180,
-      "Кузьмин Игорь Викторович": 18,
-      "Мурзина Лариса Валентиновна": 40,
-      "Полякова Нина Борисовна": 9,
-      "Шустова Галина Степановна": 68,
-      "Против всех": 213
+      "gas:candidate-vibid:1001000195184": 4,
+      "gas:candidate-vibid:1001000226025": 520,
+      "gas:candidate-vibid:386300166794": 164,
+      "gas:candidate-vibid:1001000188030": 101,
+      "gas:candidate-vibid:386300166804": 180,
+      "gas:candidate-vibid:1001000136170": 18,
+      "gas:candidate-vibid:1001000114006": 40,
+      "gas:candidate-vibid:1001000126656": 9,
+      "gas:candidate-vibid:1001000121955": 68,
+      "special:against-all": 213
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066719&region=0&sub_region=0&type=429",
@@ -1871,16 +1871,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 7,
-      "Асеев Владимир Михайлович": 621,
-      "Кандаков Сергей Викторович": 150,
-      "Ковалев Сергей Анатольевич": 87,
-      "Крепких Владимир Владимирович": 192,
-      "Кузьмин Игорь Викторович": 29,
-      "Мурзина Лариса Валентиновна": 49,
-      "Полякова Нина Борисовна": 17,
-      "Шустова Галина Степановна": 91,
-      "Против всех": 290
+      "gas:candidate-vibid:1001000195184": 7,
+      "gas:candidate-vibid:1001000226025": 621,
+      "gas:candidate-vibid:386300166794": 150,
+      "gas:candidate-vibid:1001000188030": 87,
+      "gas:candidate-vibid:386300166804": 192,
+      "gas:candidate-vibid:1001000136170": 29,
+      "gas:candidate-vibid:1001000114006": 49,
+      "gas:candidate-vibid:1001000126656": 17,
+      "gas:candidate-vibid:1001000121955": 91,
+      "special:against-all": 290
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066719&region=0&sub_region=0&type=429",
@@ -1930,16 +1930,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 7,
-      "Асеев Владимир Михайлович": 657,
-      "Кандаков Сергей Викторович": 157,
-      "Ковалев Сергей Анатольевич": 74,
-      "Крепких Владимир Владимирович": 166,
-      "Кузьмин Игорь Викторович": 16,
-      "Мурзина Лариса Валентиновна": 45,
-      "Полякова Нина Борисовна": 11,
-      "Шустова Галина Степановна": 102,
-      "Против всех": 215
+      "gas:candidate-vibid:1001000195184": 7,
+      "gas:candidate-vibid:1001000226025": 657,
+      "gas:candidate-vibid:386300166794": 157,
+      "gas:candidate-vibid:1001000188030": 74,
+      "gas:candidate-vibid:386300166804": 166,
+      "gas:candidate-vibid:1001000136170": 16,
+      "gas:candidate-vibid:1001000114006": 45,
+      "gas:candidate-vibid:1001000126656": 11,
+      "gas:candidate-vibid:1001000121955": 102,
+      "special:against-all": 215
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066719&region=0&sub_region=0&type=429",
@@ -1989,16 +1989,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 6,
-      "Асеев Владимир Михайлович": 647,
-      "Кандаков Сергей Викторович": 139,
-      "Ковалев Сергей Анатольевич": 72,
-      "Крепких Владимир Владимирович": 172,
-      "Кузьмин Игорь Викторович": 15,
-      "Мурзина Лариса Валентиновна": 32,
-      "Полякова Нина Борисовна": 16,
-      "Шустова Галина Степановна": 64,
-      "Против всех": 246
+      "gas:candidate-vibid:1001000195184": 6,
+      "gas:candidate-vibid:1001000226025": 647,
+      "gas:candidate-vibid:386300166794": 139,
+      "gas:candidate-vibid:1001000188030": 72,
+      "gas:candidate-vibid:386300166804": 172,
+      "gas:candidate-vibid:1001000136170": 15,
+      "gas:candidate-vibid:1001000114006": 32,
+      "gas:candidate-vibid:1001000126656": 16,
+      "gas:candidate-vibid:1001000121955": 64,
+      "special:against-all": 246
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066719&region=0&sub_region=0&type=429",
@@ -2048,16 +2048,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 2,
-      "Асеев Владимир Михайлович": 564,
-      "Кандаков Сергей Викторович": 137,
-      "Ковалев Сергей Анатольевич": 81,
-      "Крепких Владимир Владимирович": 181,
-      "Кузьмин Игорь Викторович": 28,
-      "Мурзина Лариса Валентиновна": 39,
-      "Полякова Нина Борисовна": 10,
-      "Шустова Галина Степановна": 103,
-      "Против всех": 280
+      "gas:candidate-vibid:1001000195184": 2,
+      "gas:candidate-vibid:1001000226025": 564,
+      "gas:candidate-vibid:386300166794": 137,
+      "gas:candidate-vibid:1001000188030": 81,
+      "gas:candidate-vibid:386300166804": 181,
+      "gas:candidate-vibid:1001000136170": 28,
+      "gas:candidate-vibid:1001000114006": 39,
+      "gas:candidate-vibid:1001000126656": 10,
+      "gas:candidate-vibid:1001000121955": 103,
+      "special:against-all": 280
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066719&region=0&sub_region=0&type=429",
@@ -2107,16 +2107,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 6,
-      "Асеев Владимир Михайлович": 892,
-      "Кандаков Сергей Викторович": 186,
-      "Ковалев Сергей Анатольевич": 80,
-      "Крепких Владимир Владимирович": 181,
-      "Кузьмин Игорь Викторович": 24,
-      "Мурзина Лариса Валентиновна": 48,
-      "Полякова Нина Борисовна": 16,
-      "Шустова Галина Степановна": 100,
-      "Против всех": 235
+      "gas:candidate-vibid:1001000195184": 6,
+      "gas:candidate-vibid:1001000226025": 892,
+      "gas:candidate-vibid:386300166794": 186,
+      "gas:candidate-vibid:1001000188030": 80,
+      "gas:candidate-vibid:386300166804": 181,
+      "gas:candidate-vibid:1001000136170": 24,
+      "gas:candidate-vibid:1001000114006": 48,
+      "gas:candidate-vibid:1001000126656": 16,
+      "gas:candidate-vibid:1001000121955": 100,
+      "special:against-all": 235
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066719&region=0&sub_region=0&type=429",
@@ -2166,16 +2166,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 2,
-      "Асеев Владимир Михайлович": 473,
-      "Кандаков Сергей Викторович": 182,
-      "Ковалев Сергей Анатольевич": 75,
-      "Крепких Владимир Владимирович": 197,
-      "Кузьмин Игорь Викторович": 26,
-      "Мурзина Лариса Валентиновна": 49,
-      "Полякова Нина Борисовна": 15,
-      "Шустова Галина Степановна": 97,
-      "Против всех": 276
+      "gas:candidate-vibid:1001000195184": 2,
+      "gas:candidate-vibid:1001000226025": 473,
+      "gas:candidate-vibid:386300166794": 182,
+      "gas:candidate-vibid:1001000188030": 75,
+      "gas:candidate-vibid:386300166804": 197,
+      "gas:candidate-vibid:1001000136170": 26,
+      "gas:candidate-vibid:1001000114006": 49,
+      "gas:candidate-vibid:1001000126656": 15,
+      "gas:candidate-vibid:1001000121955": 97,
+      "special:against-all": 276
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066719&region=0&sub_region=0&type=429",
@@ -2225,16 +2225,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 6,
-      "Асеев Владимир Михайлович": 758,
-      "Кандаков Сергей Викторович": 192,
-      "Ковалев Сергей Анатольевич": 84,
-      "Крепких Владимир Владимирович": 159,
-      "Кузьмин Игорь Викторович": 20,
-      "Мурзина Лариса Валентиновна": 46,
-      "Полякова Нина Борисовна": 13,
-      "Шустова Галина Степановна": 99,
-      "Против всех": 240
+      "gas:candidate-vibid:1001000195184": 6,
+      "gas:candidate-vibid:1001000226025": 758,
+      "gas:candidate-vibid:386300166794": 192,
+      "gas:candidate-vibid:1001000188030": 84,
+      "gas:candidate-vibid:386300166804": 159,
+      "gas:candidate-vibid:1001000136170": 20,
+      "gas:candidate-vibid:1001000114006": 46,
+      "gas:candidate-vibid:1001000126656": 13,
+      "gas:candidate-vibid:1001000121955": 99,
+      "special:against-all": 240
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066719&region=0&sub_region=0&type=429",
@@ -2284,16 +2284,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 5,
-      "Асеев Владимир Михайлович": 644,
-      "Кандаков Сергей Викторович": 171,
-      "Ковалев Сергей Анатольевич": 83,
-      "Крепких Владимир Владимирович": 144,
-      "Кузьмин Игорь Викторович": 19,
-      "Мурзина Лариса Валентиновна": 36,
-      "Полякова Нина Борисовна": 15,
-      "Шустова Галина Степановна": 95,
-      "Против всех": 219
+      "gas:candidate-vibid:1001000195184": 5,
+      "gas:candidate-vibid:1001000226025": 644,
+      "gas:candidate-vibid:386300166794": 171,
+      "gas:candidate-vibid:1001000188030": 83,
+      "gas:candidate-vibid:386300166804": 144,
+      "gas:candidate-vibid:1001000136170": 19,
+      "gas:candidate-vibid:1001000114006": 36,
+      "gas:candidate-vibid:1001000126656": 15,
+      "gas:candidate-vibid:1001000121955": 95,
+      "special:against-all": 219
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066719&region=0&sub_region=0&type=429",
@@ -2343,16 +2343,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 7,
-      "Асеев Владимир Михайлович": 569,
-      "Кандаков Сергей Викторович": 178,
-      "Ковалев Сергей Анатольевич": 99,
-      "Крепких Владимир Владимирович": 142,
-      "Кузьмин Игорь Викторович": 23,
-      "Мурзина Лариса Валентиновна": 50,
-      "Полякова Нина Борисовна": 11,
-      "Шустова Галина Степановна": 95,
-      "Против всех": 225
+      "gas:candidate-vibid:1001000195184": 7,
+      "gas:candidate-vibid:1001000226025": 569,
+      "gas:candidate-vibid:386300166794": 178,
+      "gas:candidate-vibid:1001000188030": 99,
+      "gas:candidate-vibid:386300166804": 142,
+      "gas:candidate-vibid:1001000136170": 23,
+      "gas:candidate-vibid:1001000114006": 50,
+      "gas:candidate-vibid:1001000126656": 11,
+      "gas:candidate-vibid:1001000121955": 95,
+      "special:against-all": 225
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066719&region=0&sub_region=0&type=429",
@@ -2402,16 +2402,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 0,
-      "Асеев Владимир Михайлович": 654,
-      "Кандаков Сергей Викторович": 146,
-      "Ковалев Сергей Анатольевич": 100,
-      "Крепких Владимир Владимирович": 217,
-      "Кузьмин Игорь Викторович": 24,
-      "Мурзина Лариса Валентиновна": 62,
-      "Полякова Нина Борисовна": 15,
-      "Шустова Галина Степановна": 88,
-      "Против всех": 239
+      "gas:candidate-vibid:1001000195184": 0,
+      "gas:candidate-vibid:1001000226025": 654,
+      "gas:candidate-vibid:386300166794": 146,
+      "gas:candidate-vibid:1001000188030": 100,
+      "gas:candidate-vibid:386300166804": 217,
+      "gas:candidate-vibid:1001000136170": 24,
+      "gas:candidate-vibid:1001000114006": 62,
+      "gas:candidate-vibid:1001000126656": 15,
+      "gas:candidate-vibid:1001000121955": 88,
+      "special:against-all": 239
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066719&region=0&sub_region=0&type=429",
@@ -2461,16 +2461,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 10,
-      "Асеев Владимир Михайлович": 563,
-      "Кандаков Сергей Викторович": 167,
-      "Ковалев Сергей Анатольевич": 79,
-      "Крепких Владимир Владимирович": 168,
-      "Кузьмин Игорь Викторович": 26,
-      "Мурзина Лариса Валентиновна": 39,
-      "Полякова Нина Борисовна": 9,
-      "Шустова Галина Степановна": 85,
-      "Против всех": 245
+      "gas:candidate-vibid:1001000195184": 10,
+      "gas:candidate-vibid:1001000226025": 563,
+      "gas:candidate-vibid:386300166794": 167,
+      "gas:candidate-vibid:1001000188030": 79,
+      "gas:candidate-vibid:386300166804": 168,
+      "gas:candidate-vibid:1001000136170": 26,
+      "gas:candidate-vibid:1001000114006": 39,
+      "gas:candidate-vibid:1001000126656": 9,
+      "gas:candidate-vibid:1001000121955": 85,
+      "special:against-all": 245
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066719&region=0&sub_region=0&type=429",
@@ -2520,16 +2520,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 8,
-      "Асеев Владимир Михайлович": 537,
-      "Кандаков Сергей Викторович": 180,
-      "Ковалев Сергей Анатольевич": 75,
-      "Крепких Владимир Владимирович": 171,
-      "Кузьмин Игорь Викторович": 10,
-      "Мурзина Лариса Валентиновна": 43,
-      "Полякова Нина Борисовна": 10,
-      "Шустова Галина Степановна": 78,
-      "Против всех": 227
+      "gas:candidate-vibid:1001000195184": 8,
+      "gas:candidate-vibid:1001000226025": 537,
+      "gas:candidate-vibid:386300166794": 180,
+      "gas:candidate-vibid:1001000188030": 75,
+      "gas:candidate-vibid:386300166804": 171,
+      "gas:candidate-vibid:1001000136170": 10,
+      "gas:candidate-vibid:1001000114006": 43,
+      "gas:candidate-vibid:1001000126656": 10,
+      "gas:candidate-vibid:1001000121955": 78,
+      "special:against-all": 227
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066719&region=0&sub_region=0&type=429",
@@ -2579,16 +2579,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 9,
-      "Асеев Владимир Михайлович": 653,
-      "Кандаков Сергей Викторович": 184,
-      "Ковалев Сергей Анатольевич": 105,
-      "Крепких Владимир Владимирович": 165,
-      "Кузьмин Игорь Викторович": 24,
-      "Мурзина Лариса Валентиновна": 54,
-      "Полякова Нина Борисовна": 17,
-      "Шустова Галина Степановна": 91,
-      "Против всех": 214
+      "gas:candidate-vibid:1001000195184": 9,
+      "gas:candidate-vibid:1001000226025": 653,
+      "gas:candidate-vibid:386300166794": 184,
+      "gas:candidate-vibid:1001000188030": 105,
+      "gas:candidate-vibid:386300166804": 165,
+      "gas:candidate-vibid:1001000136170": 24,
+      "gas:candidate-vibid:1001000114006": 54,
+      "gas:candidate-vibid:1001000126656": 17,
+      "gas:candidate-vibid:1001000121955": 91,
+      "special:against-all": 214
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066719&region=0&sub_region=0&type=429",
@@ -2638,16 +2638,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 8,
-      "Асеев Владимир Михайлович": 548,
-      "Кандаков Сергей Викторович": 194,
-      "Ковалев Сергей Анатольевич": 96,
-      "Крепких Владимир Владимирович": 199,
-      "Кузьмин Игорь Викторович": 20,
-      "Мурзина Лариса Валентиновна": 51,
-      "Полякова Нина Борисовна": 9,
-      "Шустова Галина Степановна": 84,
-      "Против всех": 264
+      "gas:candidate-vibid:1001000195184": 8,
+      "gas:candidate-vibid:1001000226025": 548,
+      "gas:candidate-vibid:386300166794": 194,
+      "gas:candidate-vibid:1001000188030": 96,
+      "gas:candidate-vibid:386300166804": 199,
+      "gas:candidate-vibid:1001000136170": 20,
+      "gas:candidate-vibid:1001000114006": 51,
+      "gas:candidate-vibid:1001000126656": 9,
+      "gas:candidate-vibid:1001000121955": 84,
+      "special:against-all": 264
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066719&region=0&sub_region=0&type=429",
@@ -2697,16 +2697,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 4,
-      "Асеев Владимир Михайлович": 547,
-      "Кандаков Сергей Викторович": 162,
-      "Ковалев Сергей Анатольевич": 79,
-      "Крепких Владимир Владимирович": 191,
-      "Кузьмин Игорь Викторович": 22,
-      "Мурзина Лариса Валентиновна": 56,
-      "Полякова Нина Борисовна": 16,
-      "Шустова Галина Степановна": 84,
-      "Против всех": 268
+      "gas:candidate-vibid:1001000195184": 4,
+      "gas:candidate-vibid:1001000226025": 547,
+      "gas:candidate-vibid:386300166794": 162,
+      "gas:candidate-vibid:1001000188030": 79,
+      "gas:candidate-vibid:386300166804": 191,
+      "gas:candidate-vibid:1001000136170": 22,
+      "gas:candidate-vibid:1001000114006": 56,
+      "gas:candidate-vibid:1001000126656": 16,
+      "gas:candidate-vibid:1001000121955": 84,
+      "special:against-all": 268
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066719&region=0&sub_region=0&type=429",
@@ -2756,16 +2756,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 7,
-      "Асеев Владимир Михайлович": 636,
-      "Кандаков Сергей Викторович": 117,
-      "Ковалев Сергей Анатольевич": 102,
-      "Крепких Владимир Владимирович": 146,
-      "Кузьмин Игорь Викторович": 18,
-      "Мурзина Лариса Валентиновна": 44,
-      "Полякова Нина Борисовна": 8,
-      "Шустова Галина Степановна": 110,
-      "Против всех": 250
+      "gas:candidate-vibid:1001000195184": 7,
+      "gas:candidate-vibid:1001000226025": 636,
+      "gas:candidate-vibid:386300166794": 117,
+      "gas:candidate-vibid:1001000188030": 102,
+      "gas:candidate-vibid:386300166804": 146,
+      "gas:candidate-vibid:1001000136170": 18,
+      "gas:candidate-vibid:1001000114006": 44,
+      "gas:candidate-vibid:1001000126656": 8,
+      "gas:candidate-vibid:1001000121955": 110,
+      "special:against-all": 250
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066719&region=0&sub_region=0&type=429",
@@ -2815,16 +2815,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 2,
-      "Асеев Владимир Михайлович": 530,
-      "Кандаков Сергей Викторович": 156,
-      "Ковалев Сергей Анатольевич": 66,
-      "Крепких Владимир Владимирович": 166,
-      "Кузьмин Игорь Викторович": 12,
-      "Мурзина Лариса Валентиновна": 27,
-      "Полякова Нина Борисовна": 8,
-      "Шустова Галина Степановна": 94,
-      "Против всех": 173
+      "gas:candidate-vibid:1001000195184": 2,
+      "gas:candidate-vibid:1001000226025": 530,
+      "gas:candidate-vibid:386300166794": 156,
+      "gas:candidate-vibid:1001000188030": 66,
+      "gas:candidate-vibid:386300166804": 166,
+      "gas:candidate-vibid:1001000136170": 12,
+      "gas:candidate-vibid:1001000114006": 27,
+      "gas:candidate-vibid:1001000126656": 8,
+      "gas:candidate-vibid:1001000121955": 94,
+      "special:against-all": 173
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066719&region=0&sub_region=0&type=429",
@@ -2874,16 +2874,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 2,
-      "Асеев Владимир Михайлович": 553,
-      "Кандаков Сергей Викторович": 198,
-      "Ковалев Сергей Анатольевич": 83,
-      "Крепких Владимир Владимирович": 197,
-      "Кузьмин Игорь Викторович": 26,
-      "Мурзина Лариса Валентиновна": 44,
-      "Полякова Нина Борисовна": 16,
-      "Шустова Галина Степановна": 94,
-      "Против всех": 216
+      "gas:candidate-vibid:1001000195184": 2,
+      "gas:candidate-vibid:1001000226025": 553,
+      "gas:candidate-vibid:386300166794": 198,
+      "gas:candidate-vibid:1001000188030": 83,
+      "gas:candidate-vibid:386300166804": 197,
+      "gas:candidate-vibid:1001000136170": 26,
+      "gas:candidate-vibid:1001000114006": 44,
+      "gas:candidate-vibid:1001000126656": 16,
+      "gas:candidate-vibid:1001000121955": 94,
+      "special:against-all": 216
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066719&region=0&sub_region=0&type=429",
@@ -2933,16 +2933,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 3,
-      "Асеев Владимир Михайлович": 236,
-      "Кандаков Сергей Викторович": 99,
-      "Ковалев Сергей Анатольевич": 33,
-      "Крепких Владимир Владимирович": 104,
-      "Кузьмин Игорь Викторович": 20,
-      "Мурзина Лариса Валентиновна": 23,
-      "Полякова Нина Борисовна": 7,
-      "Шустова Галина Степановна": 34,
-      "Против всех": 125
+      "gas:candidate-vibid:1001000195184": 3,
+      "gas:candidate-vibid:1001000226025": 236,
+      "gas:candidate-vibid:386300166794": 99,
+      "gas:candidate-vibid:1001000188030": 33,
+      "gas:candidate-vibid:386300166804": 104,
+      "gas:candidate-vibid:1001000136170": 20,
+      "gas:candidate-vibid:1001000114006": 23,
+      "gas:candidate-vibid:1001000126656": 7,
+      "gas:candidate-vibid:1001000121955": 34,
+      "special:against-all": 125
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066719&region=0&sub_region=0&type=429",
@@ -2992,16 +2992,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 8,
-      "Асеев Владимир Михайлович": 551,
-      "Кандаков Сергей Викторович": 165,
-      "Ковалев Сергей Анатольевич": 91,
-      "Крепких Владимир Владимирович": 233,
-      "Кузьмин Игорь Викторович": 19,
-      "Мурзина Лариса Валентиновна": 44,
-      "Полякова Нина Борисовна": 10,
-      "Шустова Галина Степановна": 73,
-      "Против всех": 207
+      "gas:candidate-vibid:1001000195184": 8,
+      "gas:candidate-vibid:1001000226025": 551,
+      "gas:candidate-vibid:386300166794": 165,
+      "gas:candidate-vibid:1001000188030": 91,
+      "gas:candidate-vibid:386300166804": 233,
+      "gas:candidate-vibid:1001000136170": 19,
+      "gas:candidate-vibid:1001000114006": 44,
+      "gas:candidate-vibid:1001000126656": 10,
+      "gas:candidate-vibid:1001000121955": 73,
+      "special:against-all": 207
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066719&region=0&sub_region=0&type=429",
@@ -3051,16 +3051,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 4,
-      "Асеев Владимир Михайлович": 455,
-      "Кандаков Сергей Викторович": 144,
-      "Ковалев Сергей Анатольевич": 67,
-      "Крепких Владимир Владимирович": 148,
-      "Кузьмин Игорь Викторович": 25,
-      "Мурзина Лариса Валентиновна": 28,
-      "Полякова Нина Борисовна": 9,
-      "Шустова Галина Степановна": 75,
-      "Против всех": 161
+      "gas:candidate-vibid:1001000195184": 4,
+      "gas:candidate-vibid:1001000226025": 455,
+      "gas:candidate-vibid:386300166794": 144,
+      "gas:candidate-vibid:1001000188030": 67,
+      "gas:candidate-vibid:386300166804": 148,
+      "gas:candidate-vibid:1001000136170": 25,
+      "gas:candidate-vibid:1001000114006": 28,
+      "gas:candidate-vibid:1001000126656": 9,
+      "gas:candidate-vibid:1001000121955": 75,
+      "special:against-all": 161
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066719&region=0&sub_region=0&type=429",
@@ -3110,16 +3110,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 6,
-      "Асеев Владимир Михайлович": 533,
-      "Кандаков Сергей Викторович": 117,
-      "Ковалев Сергей Анатольевич": 85,
-      "Крепких Владимир Владимирович": 136,
-      "Кузьмин Игорь Викторович": 22,
-      "Мурзина Лариса Валентиновна": 37,
-      "Полякова Нина Борисовна": 12,
-      "Шустова Галина Степановна": 75,
-      "Против всех": 238
+      "gas:candidate-vibid:1001000195184": 6,
+      "gas:candidate-vibid:1001000226025": 533,
+      "gas:candidate-vibid:386300166794": 117,
+      "gas:candidate-vibid:1001000188030": 85,
+      "gas:candidate-vibid:386300166804": 136,
+      "gas:candidate-vibid:1001000136170": 22,
+      "gas:candidate-vibid:1001000114006": 37,
+      "gas:candidate-vibid:1001000126656": 12,
+      "gas:candidate-vibid:1001000121955": 75,
+      "special:against-all": 238
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066719&region=0&sub_region=0&type=429",
@@ -3169,16 +3169,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 2,
-      "Асеев Владимир Михайлович": 533,
-      "Кандаков Сергей Викторович": 155,
-      "Ковалев Сергей Анатольевич": 105,
-      "Крепких Владимир Владимирович": 178,
-      "Кузьмин Игорь Викторович": 25,
-      "Мурзина Лариса Валентиновна": 40,
-      "Полякова Нина Борисовна": 17,
-      "Шустова Галина Степановна": 70,
-      "Против всех": 266
+      "gas:candidate-vibid:1001000195184": 2,
+      "gas:candidate-vibid:1001000226025": 533,
+      "gas:candidate-vibid:386300166794": 155,
+      "gas:candidate-vibid:1001000188030": 105,
+      "gas:candidate-vibid:386300166804": 178,
+      "gas:candidate-vibid:1001000136170": 25,
+      "gas:candidate-vibid:1001000114006": 40,
+      "gas:candidate-vibid:1001000126656": 17,
+      "gas:candidate-vibid:1001000121955": 70,
+      "special:against-all": 266
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066719&region=0&sub_region=0&type=429",
@@ -3228,16 +3228,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 4,
-      "Асеев Владимир Михайлович": 536,
-      "Кандаков Сергей Викторович": 163,
-      "Ковалев Сергей Анатольевич": 105,
-      "Крепких Владимир Владимирович": 154,
-      "Кузьмин Игорь Викторович": 21,
-      "Мурзина Лариса Валентиновна": 55,
-      "Полякова Нина Борисовна": 15,
-      "Шустова Галина Степановна": 76,
-      "Против всех": 243
+      "gas:candidate-vibid:1001000195184": 4,
+      "gas:candidate-vibid:1001000226025": 536,
+      "gas:candidate-vibid:386300166794": 163,
+      "gas:candidate-vibid:1001000188030": 105,
+      "gas:candidate-vibid:386300166804": 154,
+      "gas:candidate-vibid:1001000136170": 21,
+      "gas:candidate-vibid:1001000114006": 55,
+      "gas:candidate-vibid:1001000126656": 15,
+      "gas:candidate-vibid:1001000121955": 76,
+      "special:against-all": 243
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066719&region=0&sub_region=0&type=429",
@@ -3287,16 +3287,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 11,
-      "Асеев Владимир Михайлович": 499,
-      "Кандаков Сергей Викторович": 112,
-      "Ковалев Сергей Анатольевич": 94,
-      "Крепких Владимир Владимирович": 163,
-      "Кузьмин Игорь Викторович": 21,
-      "Мурзина Лариса Валентиновна": 34,
-      "Полякова Нина Борисовна": 12,
-      "Шустова Галина Степановна": 62,
-      "Против всех": 202
+      "gas:candidate-vibid:1001000195184": 11,
+      "gas:candidate-vibid:1001000226025": 499,
+      "gas:candidate-vibid:386300166794": 112,
+      "gas:candidate-vibid:1001000188030": 94,
+      "gas:candidate-vibid:386300166804": 163,
+      "gas:candidate-vibid:1001000136170": 21,
+      "gas:candidate-vibid:1001000114006": 34,
+      "gas:candidate-vibid:1001000126656": 12,
+      "gas:candidate-vibid:1001000121955": 62,
+      "special:against-all": 202
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066719&region=0&sub_region=0&type=429",
@@ -3346,16 +3346,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 5,
-      "Асеев Владимир Михайлович": 592,
-      "Кандаков Сергей Викторович": 198,
-      "Ковалев Сергей Анатольевич": 88,
-      "Крепких Владимир Владимирович": 174,
-      "Кузьмин Игорь Викторович": 27,
-      "Мурзина Лариса Валентиновна": 46,
-      "Полякова Нина Борисовна": 22,
-      "Шустова Галина Степановна": 53,
-      "Против всех": 296
+      "gas:candidate-vibid:1001000195184": 5,
+      "gas:candidate-vibid:1001000226025": 592,
+      "gas:candidate-vibid:386300166794": 198,
+      "gas:candidate-vibid:1001000188030": 88,
+      "gas:candidate-vibid:386300166804": 174,
+      "gas:candidate-vibid:1001000136170": 27,
+      "gas:candidate-vibid:1001000114006": 46,
+      "gas:candidate-vibid:1001000126656": 22,
+      "gas:candidate-vibid:1001000121955": 53,
+      "special:against-all": 296
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066719&region=0&sub_region=0&type=429",
@@ -3405,16 +3405,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 6,
-      "Асеев Владимир Михайлович": 646,
-      "Кандаков Сергей Викторович": 166,
-      "Ковалев Сергей Анатольевич": 57,
-      "Крепких Владимир Владимирович": 170,
-      "Кузьмин Игорь Викторович": 17,
-      "Мурзина Лариса Валентиновна": 42,
-      "Полякова Нина Борисовна": 17,
-      "Шустова Галина Степановна": 88,
-      "Против всех": 273
+      "gas:candidate-vibid:1001000195184": 6,
+      "gas:candidate-vibid:1001000226025": 646,
+      "gas:candidate-vibid:386300166794": 166,
+      "gas:candidate-vibid:1001000188030": 57,
+      "gas:candidate-vibid:386300166804": 170,
+      "gas:candidate-vibid:1001000136170": 17,
+      "gas:candidate-vibid:1001000114006": 42,
+      "gas:candidate-vibid:1001000126656": 17,
+      "gas:candidate-vibid:1001000121955": 88,
+      "special:against-all": 273
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066719&region=0&sub_region=0&type=429",
@@ -3464,16 +3464,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 6,
-      "Асеев Владимир Михайлович": 501,
-      "Кандаков Сергей Викторович": 178,
-      "Ковалев Сергей Анатольевич": 98,
-      "Крепких Владимир Владимирович": 160,
-      "Кузьмин Игорь Викторович": 19,
-      "Мурзина Лариса Валентиновна": 46,
-      "Полякова Нина Борисовна": 13,
-      "Шустова Галина Степановна": 89,
-      "Против всех": 283
+      "gas:candidate-vibid:1001000195184": 6,
+      "gas:candidate-vibid:1001000226025": 501,
+      "gas:candidate-vibid:386300166794": 178,
+      "gas:candidate-vibid:1001000188030": 98,
+      "gas:candidate-vibid:386300166804": 160,
+      "gas:candidate-vibid:1001000136170": 19,
+      "gas:candidate-vibid:1001000114006": 46,
+      "gas:candidate-vibid:1001000126656": 13,
+      "gas:candidate-vibid:1001000121955": 89,
+      "special:against-all": 283
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066719&region=0&sub_region=0&type=429",
@@ -3523,16 +3523,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 2,
-      "Асеев Владимир Михайлович": 444,
-      "Кандаков Сергей Викторович": 151,
-      "Ковалев Сергей Анатольевич": 113,
-      "Крепких Владимир Владимирович": 172,
-      "Кузьмин Игорь Викторович": 12,
-      "Мурзина Лариса Валентиновна": 35,
-      "Полякова Нина Борисовна": 21,
-      "Шустова Галина Степановна": 67,
-      "Против всех": 219
+      "gas:candidate-vibid:1001000195184": 2,
+      "gas:candidate-vibid:1001000226025": 444,
+      "gas:candidate-vibid:386300166794": 151,
+      "gas:candidate-vibid:1001000188030": 113,
+      "gas:candidate-vibid:386300166804": 172,
+      "gas:candidate-vibid:1001000136170": 12,
+      "gas:candidate-vibid:1001000114006": 35,
+      "gas:candidate-vibid:1001000126656": 21,
+      "gas:candidate-vibid:1001000121955": 67,
+      "special:against-all": 219
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066719&region=0&sub_region=0&type=429",
@@ -3582,16 +3582,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 7,
-      "Асеев Владимир Михайлович": 561,
-      "Кандаков Сергей Викторович": 151,
-      "Ковалев Сергей Анатольевич": 91,
-      "Крепких Владимир Владимирович": 171,
-      "Кузьмин Игорь Викторович": 18,
-      "Мурзина Лариса Валентиновна": 33,
-      "Полякова Нина Борисовна": 12,
-      "Шустова Галина Степановна": 75,
-      "Против всех": 240
+      "gas:candidate-vibid:1001000195184": 7,
+      "gas:candidate-vibid:1001000226025": 561,
+      "gas:candidate-vibid:386300166794": 151,
+      "gas:candidate-vibid:1001000188030": 91,
+      "gas:candidate-vibid:386300166804": 171,
+      "gas:candidate-vibid:1001000136170": 18,
+      "gas:candidate-vibid:1001000114006": 33,
+      "gas:candidate-vibid:1001000126656": 12,
+      "gas:candidate-vibid:1001000121955": 75,
+      "special:against-all": 240
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066719&region=0&sub_region=0&type=429",
@@ -3641,16 +3641,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 7,
-      "Асеев Владимир Михайлович": 444,
-      "Кандаков Сергей Викторович": 199,
-      "Ковалев Сергей Анатольевич": 155,
-      "Крепких Владимир Владимирович": 135,
-      "Кузьмин Игорь Викторович": 8,
-      "Мурзина Лариса Валентиновна": 34,
-      "Полякова Нина Борисовна": 13,
-      "Шустова Галина Степановна": 64,
-      "Против всех": 258
+      "gas:candidate-vibid:1001000195184": 7,
+      "gas:candidate-vibid:1001000226025": 444,
+      "gas:candidate-vibid:386300166794": 199,
+      "gas:candidate-vibid:1001000188030": 155,
+      "gas:candidate-vibid:386300166804": 135,
+      "gas:candidate-vibid:1001000136170": 8,
+      "gas:candidate-vibid:1001000114006": 34,
+      "gas:candidate-vibid:1001000126656": 13,
+      "gas:candidate-vibid:1001000121955": 64,
+      "special:against-all": 258
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066719&region=0&sub_region=0&type=429",
@@ -3700,16 +3700,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 1,
-      "Асеев Владимир Михайлович": 435,
-      "Кандаков Сергей Викторович": 146,
-      "Ковалев Сергей Анатольевич": 59,
-      "Крепких Владимир Владимирович": 121,
-      "Кузьмин Игорь Викторович": 13,
-      "Мурзина Лариса Валентиновна": 32,
-      "Полякова Нина Борисовна": 10,
-      "Шустова Галина Степановна": 72,
-      "Против всех": 175
+      "gas:candidate-vibid:1001000195184": 1,
+      "gas:candidate-vibid:1001000226025": 435,
+      "gas:candidate-vibid:386300166794": 146,
+      "gas:candidate-vibid:1001000188030": 59,
+      "gas:candidate-vibid:386300166804": 121,
+      "gas:candidate-vibid:1001000136170": 13,
+      "gas:candidate-vibid:1001000114006": 32,
+      "gas:candidate-vibid:1001000126656": 10,
+      "gas:candidate-vibid:1001000121955": 72,
+      "special:against-all": 175
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066719&region=0&sub_region=0&type=429",
@@ -3759,16 +3759,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 2,
-      "Асеев Владимир Михайлович": 628,
-      "Кандаков Сергей Викторович": 149,
-      "Ковалев Сергей Анатольевич": 75,
-      "Крепких Владимир Владимирович": 161,
-      "Кузьмин Игорь Викторович": 12,
-      "Мурзина Лариса Валентиновна": 35,
-      "Полякова Нина Борисовна": 9,
-      "Шустова Галина Степановна": 60,
-      "Против всех": 283
+      "gas:candidate-vibid:1001000195184": 2,
+      "gas:candidate-vibid:1001000226025": 628,
+      "gas:candidate-vibid:386300166794": 149,
+      "gas:candidate-vibid:1001000188030": 75,
+      "gas:candidate-vibid:386300166804": 161,
+      "gas:candidate-vibid:1001000136170": 12,
+      "gas:candidate-vibid:1001000114006": 35,
+      "gas:candidate-vibid:1001000126656": 9,
+      "gas:candidate-vibid:1001000121955": 60,
+      "special:against-all": 283
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066719&region=0&sub_region=0&type=429",
@@ -3818,16 +3818,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 2,
-      "Асеев Владимир Михайлович": 440,
-      "Кандаков Сергей Викторович": 145,
-      "Ковалев Сергей Анатольевич": 76,
-      "Крепких Владимир Владимирович": 149,
-      "Кузьмин Игорь Викторович": 23,
-      "Мурзина Лариса Валентиновна": 37,
-      "Полякова Нина Борисовна": 12,
-      "Шустова Галина Степановна": 88,
-      "Против всех": 194
+      "gas:candidate-vibid:1001000195184": 2,
+      "gas:candidate-vibid:1001000226025": 440,
+      "gas:candidate-vibid:386300166794": 145,
+      "gas:candidate-vibid:1001000188030": 76,
+      "gas:candidate-vibid:386300166804": 149,
+      "gas:candidate-vibid:1001000136170": 23,
+      "gas:candidate-vibid:1001000114006": 37,
+      "gas:candidate-vibid:1001000126656": 12,
+      "gas:candidate-vibid:1001000121955": 88,
+      "special:against-all": 194
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066719&region=0&sub_region=0&type=429",
@@ -3877,16 +3877,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 3,
-      "Асеев Владимир Михайлович": 444,
-      "Кандаков Сергей Викторович": 167,
-      "Ковалев Сергей Анатольевич": 83,
-      "Крепких Владимир Владимирович": 137,
-      "Кузьмин Игорь Викторович": 7,
-      "Мурзина Лариса Валентиновна": 27,
-      "Полякова Нина Борисовна": 17,
-      "Шустова Галина Степановна": 64,
-      "Против всех": 165
+      "gas:candidate-vibid:1001000195184": 3,
+      "gas:candidate-vibid:1001000226025": 444,
+      "gas:candidate-vibid:386300166794": 167,
+      "gas:candidate-vibid:1001000188030": 83,
+      "gas:candidate-vibid:386300166804": 137,
+      "gas:candidate-vibid:1001000136170": 7,
+      "gas:candidate-vibid:1001000114006": 27,
+      "gas:candidate-vibid:1001000126656": 17,
+      "gas:candidate-vibid:1001000121955": 64,
+      "special:against-all": 165
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066719&region=0&sub_region=0&type=429",
@@ -3936,16 +3936,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 6,
-      "Асеев Владимир Михайлович": 625,
-      "Кандаков Сергей Викторович": 191,
-      "Ковалев Сергей Анатольевич": 93,
-      "Крепких Владимир Владимирович": 192,
-      "Кузьмин Игорь Викторович": 18,
-      "Мурзина Лариса Валентиновна": 48,
-      "Полякова Нина Борисовна": 7,
-      "Шустова Галина Степановна": 73,
-      "Против всех": 269
+      "gas:candidate-vibid:1001000195184": 6,
+      "gas:candidate-vibid:1001000226025": 625,
+      "gas:candidate-vibid:386300166794": 191,
+      "gas:candidate-vibid:1001000188030": 93,
+      "gas:candidate-vibid:386300166804": 192,
+      "gas:candidate-vibid:1001000136170": 18,
+      "gas:candidate-vibid:1001000114006": 48,
+      "gas:candidate-vibid:1001000126656": 7,
+      "gas:candidate-vibid:1001000121955": 73,
+      "special:against-all": 269
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066719&region=0&sub_region=0&type=429",
@@ -3995,16 +3995,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 7,
-      "Асеев Владимир Михайлович": 503,
-      "Кандаков Сергей Викторович": 127,
-      "Ковалев Сергей Анатольевич": 83,
-      "Крепких Владимир Владимирович": 156,
-      "Кузьмин Игорь Викторович": 14,
-      "Мурзина Лариса Валентиновна": 27,
-      "Полякова Нина Борисовна": 10,
-      "Шустова Галина Степановна": 68,
-      "Против всех": 160
+      "gas:candidate-vibid:1001000195184": 7,
+      "gas:candidate-vibid:1001000226025": 503,
+      "gas:candidate-vibid:386300166794": 127,
+      "gas:candidate-vibid:1001000188030": 83,
+      "gas:candidate-vibid:386300166804": 156,
+      "gas:candidate-vibid:1001000136170": 14,
+      "gas:candidate-vibid:1001000114006": 27,
+      "gas:candidate-vibid:1001000126656": 10,
+      "gas:candidate-vibid:1001000121955": 68,
+      "special:against-all": 160
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066719&region=0&sub_region=0&type=429",
@@ -4054,16 +4054,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 3,
-      "Асеев Владимир Михайлович": 471,
-      "Кандаков Сергей Викторович": 138,
-      "Ковалев Сергей Анатольевич": 70,
-      "Крепких Владимир Владимирович": 132,
-      "Кузьмин Игорь Викторович": 3,
-      "Мурзина Лариса Валентиновна": 35,
-      "Полякова Нина Борисовна": 15,
-      "Шустова Галина Степановна": 74,
-      "Против всех": 182
+      "gas:candidate-vibid:1001000195184": 3,
+      "gas:candidate-vibid:1001000226025": 471,
+      "gas:candidate-vibid:386300166794": 138,
+      "gas:candidate-vibid:1001000188030": 70,
+      "gas:candidate-vibid:386300166804": 132,
+      "gas:candidate-vibid:1001000136170": 3,
+      "gas:candidate-vibid:1001000114006": 35,
+      "gas:candidate-vibid:1001000126656": 15,
+      "gas:candidate-vibid:1001000121955": 74,
+      "special:against-all": 182
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066719&region=0&sub_region=0&type=429",
@@ -4113,16 +4113,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 7,
-      "Асеев Владимир Михайлович": 419,
-      "Кандаков Сергей Викторович": 127,
-      "Ковалев Сергей Анатольевич": 75,
-      "Крепких Владимир Владимирович": 123,
-      "Кузьмин Игорь Викторович": 23,
-      "Мурзина Лариса Валентиновна": 22,
-      "Полякова Нина Борисовна": 16,
-      "Шустова Галина Степановна": 71,
-      "Против всех": 180
+      "gas:candidate-vibid:1001000195184": 7,
+      "gas:candidate-vibid:1001000226025": 419,
+      "gas:candidate-vibid:386300166794": 127,
+      "gas:candidate-vibid:1001000188030": 75,
+      "gas:candidate-vibid:386300166804": 123,
+      "gas:candidate-vibid:1001000136170": 23,
+      "gas:candidate-vibid:1001000114006": 22,
+      "gas:candidate-vibid:1001000126656": 16,
+      "gas:candidate-vibid:1001000121955": 71,
+      "special:against-all": 180
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066719&region=0&sub_region=0&type=429",
@@ -4172,16 +4172,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 7,
-      "Асеев Владимир Михайлович": 607,
-      "Кандаков Сергей Викторович": 150,
-      "Ковалев Сергей Анатольевич": 82,
-      "Крепких Владимир Владимирович": 177,
-      "Кузьмин Игорь Викторович": 8,
-      "Мурзина Лариса Валентиновна": 48,
-      "Полякова Нина Борисовна": 14,
-      "Шустова Галина Степановна": 82,
-      "Против всех": 253
+      "gas:candidate-vibid:1001000195184": 7,
+      "gas:candidate-vibid:1001000226025": 607,
+      "gas:candidate-vibid:386300166794": 150,
+      "gas:candidate-vibid:1001000188030": 82,
+      "gas:candidate-vibid:386300166804": 177,
+      "gas:candidate-vibid:1001000136170": 8,
+      "gas:candidate-vibid:1001000114006": 48,
+      "gas:candidate-vibid:1001000126656": 14,
+      "gas:candidate-vibid:1001000121955": 82,
+      "special:against-all": 253
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066719&region=0&sub_region=0&type=429",
@@ -4231,16 +4231,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 4,
-      "Асеев Владимир Михайлович": 633,
-      "Кандаков Сергей Викторович": 154,
-      "Ковалев Сергей Анатольевич": 129,
-      "Крепких Владимир Владимирович": 205,
-      "Кузьмин Игорь Викторович": 33,
-      "Мурзина Лариса Валентиновна": 48,
-      "Полякова Нина Борисовна": 14,
-      "Шустова Галина Степановна": 98,
-      "Против всех": 236
+      "gas:candidate-vibid:1001000195184": 4,
+      "gas:candidate-vibid:1001000226025": 633,
+      "gas:candidate-vibid:386300166794": 154,
+      "gas:candidate-vibid:1001000188030": 129,
+      "gas:candidate-vibid:386300166804": 205,
+      "gas:candidate-vibid:1001000136170": 33,
+      "gas:candidate-vibid:1001000114006": 48,
+      "gas:candidate-vibid:1001000126656": 14,
+      "gas:candidate-vibid:1001000121955": 98,
+      "special:against-all": 236
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066719&region=0&sub_region=0&type=429",
@@ -4290,16 +4290,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 2,
-      "Асеев Владимир Михайлович": 529,
-      "Кандаков Сергей Викторович": 146,
-      "Ковалев Сергей Анатольевич": 96,
-      "Крепких Владимир Владимирович": 175,
-      "Кузьмин Игорь Викторович": 21,
-      "Мурзина Лариса Валентиновна": 33,
-      "Полякова Нина Борисовна": 16,
-      "Шустова Галина Степановна": 99,
-      "Против всех": 236
+      "gas:candidate-vibid:1001000195184": 2,
+      "gas:candidate-vibid:1001000226025": 529,
+      "gas:candidate-vibid:386300166794": 146,
+      "gas:candidate-vibid:1001000188030": 96,
+      "gas:candidate-vibid:386300166804": 175,
+      "gas:candidate-vibid:1001000136170": 21,
+      "gas:candidate-vibid:1001000114006": 33,
+      "gas:candidate-vibid:1001000126656": 16,
+      "gas:candidate-vibid:1001000121955": 99,
+      "special:against-all": 236
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066719&region=0&sub_region=0&type=429",
@@ -4349,16 +4349,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 3,
-      "Асеев Владимир Михайлович": 558,
-      "Кандаков Сергей Викторович": 165,
-      "Ковалев Сергей Анатольевич": 117,
-      "Крепких Владимир Владимирович": 179,
-      "Кузьмин Игорь Викторович": 22,
-      "Мурзина Лариса Валентиновна": 24,
-      "Полякова Нина Борисовна": 18,
-      "Шустова Галина Степановна": 71,
-      "Против всех": 242
+      "gas:candidate-vibid:1001000195184": 3,
+      "gas:candidate-vibid:1001000226025": 558,
+      "gas:candidate-vibid:386300166794": 165,
+      "gas:candidate-vibid:1001000188030": 117,
+      "gas:candidate-vibid:386300166804": 179,
+      "gas:candidate-vibid:1001000136170": 22,
+      "gas:candidate-vibid:1001000114006": 24,
+      "gas:candidate-vibid:1001000126656": 18,
+      "gas:candidate-vibid:1001000121955": 71,
+      "special:against-all": 242
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066719&region=0&sub_region=0&type=429",
@@ -4408,16 +4408,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 1,
-      "Асеев Владимир Михайлович": 679,
-      "Кандаков Сергей Викторович": 163,
-      "Ковалев Сергей Анатольевич": 119,
-      "Крепких Владимир Владимирович": 171,
-      "Кузьмин Игорь Викторович": 27,
-      "Мурзина Лариса Валентиновна": 56,
-      "Полякова Нина Борисовна": 16,
-      "Шустова Галина Степановна": 94,
-      "Против всех": 236
+      "gas:candidate-vibid:1001000195184": 1,
+      "gas:candidate-vibid:1001000226025": 679,
+      "gas:candidate-vibid:386300166794": 163,
+      "gas:candidate-vibid:1001000188030": 119,
+      "gas:candidate-vibid:386300166804": 171,
+      "gas:candidate-vibid:1001000136170": 27,
+      "gas:candidate-vibid:1001000114006": 56,
+      "gas:candidate-vibid:1001000126656": 16,
+      "gas:candidate-vibid:1001000121955": 94,
+      "special:against-all": 236
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066719&region=0&sub_region=0&type=429",
@@ -4467,16 +4467,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 7,
-      "Асеев Владимир Михайлович": 384,
-      "Кандаков Сергей Викторович": 125,
-      "Ковалев Сергей Анатольевич": 64,
-      "Крепких Владимир Владимирович": 133,
-      "Кузьмин Игорь Викторович": 13,
-      "Мурзина Лариса Валентиновна": 16,
-      "Полякова Нина Борисовна": 9,
-      "Шустова Галина Степановна": 52,
-      "Против всех": 146
+      "gas:candidate-vibid:1001000195184": 7,
+      "gas:candidate-vibid:1001000226025": 384,
+      "gas:candidate-vibid:386300166794": 125,
+      "gas:candidate-vibid:1001000188030": 64,
+      "gas:candidate-vibid:386300166804": 133,
+      "gas:candidate-vibid:1001000136170": 13,
+      "gas:candidate-vibid:1001000114006": 16,
+      "gas:candidate-vibid:1001000126656": 9,
+      "gas:candidate-vibid:1001000121955": 52,
+      "special:against-all": 146
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066719&region=0&sub_region=0&type=429",
@@ -4526,16 +4526,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 4,
-      "Асеев Владимир Михайлович": 450,
-      "Кандаков Сергей Викторович": 124,
-      "Ковалев Сергей Анатольевич": 71,
-      "Крепких Владимир Владимирович": 125,
-      "Кузьмин Игорь Викторович": 15,
-      "Мурзина Лариса Валентиновна": 25,
-      "Полякова Нина Борисовна": 4,
-      "Шустова Галина Степановна": 65,
-      "Против всех": 177
+      "gas:candidate-vibid:1001000195184": 4,
+      "gas:candidate-vibid:1001000226025": 450,
+      "gas:candidate-vibid:386300166794": 124,
+      "gas:candidate-vibid:1001000188030": 71,
+      "gas:candidate-vibid:386300166804": 125,
+      "gas:candidate-vibid:1001000136170": 15,
+      "gas:candidate-vibid:1001000114006": 25,
+      "gas:candidate-vibid:1001000126656": 4,
+      "gas:candidate-vibid:1001000121955": 65,
+      "special:against-all": 177
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066719&region=0&sub_region=0&type=429",
@@ -4585,16 +4585,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 8,
-      "Асеев Владимир Михайлович": 594,
-      "Кандаков Сергей Викторович": 141,
-      "Ковалев Сергей Анатольевич": 95,
-      "Крепких Владимир Владимирович": 110,
-      "Кузьмин Игорь Викторович": 15,
-      "Мурзина Лариса Валентиновна": 37,
-      "Полякова Нина Борисовна": 11,
-      "Шустова Галина Степановна": 57,
-      "Против всех": 197
+      "gas:candidate-vibid:1001000195184": 8,
+      "gas:candidate-vibid:1001000226025": 594,
+      "gas:candidate-vibid:386300166794": 141,
+      "gas:candidate-vibid:1001000188030": 95,
+      "gas:candidate-vibid:386300166804": 110,
+      "gas:candidate-vibid:1001000136170": 15,
+      "gas:candidate-vibid:1001000114006": 37,
+      "gas:candidate-vibid:1001000126656": 11,
+      "gas:candidate-vibid:1001000121955": 57,
+      "special:against-all": 197
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066719&region=0&sub_region=0&type=429",
@@ -4644,16 +4644,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 5,
-      "Асеев Владимир Михайлович": 667,
-      "Кандаков Сергей Викторович": 148,
-      "Ковалев Сергей Анатольевич": 104,
-      "Крепких Владимир Владимирович": 144,
-      "Кузьмин Игорь Викторович": 23,
-      "Мурзина Лариса Валентиновна": 42,
-      "Полякова Нина Борисовна": 9,
-      "Шустова Галина Степановна": 90,
-      "Против всех": 242
+      "gas:candidate-vibid:1001000195184": 5,
+      "gas:candidate-vibid:1001000226025": 667,
+      "gas:candidate-vibid:386300166794": 148,
+      "gas:candidate-vibid:1001000188030": 104,
+      "gas:candidate-vibid:386300166804": 144,
+      "gas:candidate-vibid:1001000136170": 23,
+      "gas:candidate-vibid:1001000114006": 42,
+      "gas:candidate-vibid:1001000126656": 9,
+      "gas:candidate-vibid:1001000121955": 90,
+      "special:against-all": 242
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066719&region=0&sub_region=0&type=429",
@@ -4703,16 +4703,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 5,
-      "Асеев Владимир Михайлович": 524,
-      "Кандаков Сергей Викторович": 149,
-      "Ковалев Сергей Анатольевич": 109,
-      "Крепких Владимир Владимирович": 158,
-      "Кузьмин Игорь Викторович": 14,
-      "Мурзина Лариса Валентиновна": 34,
-      "Полякова Нина Борисовна": 15,
-      "Шустова Галина Степановна": 85,
-      "Против всех": 182
+      "gas:candidate-vibid:1001000195184": 5,
+      "gas:candidate-vibid:1001000226025": 524,
+      "gas:candidate-vibid:386300166794": 149,
+      "gas:candidate-vibid:1001000188030": 109,
+      "gas:candidate-vibid:386300166804": 158,
+      "gas:candidate-vibid:1001000136170": 14,
+      "gas:candidate-vibid:1001000114006": 34,
+      "gas:candidate-vibid:1001000126656": 15,
+      "gas:candidate-vibid:1001000121955": 85,
+      "special:against-all": 182
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066719&region=0&sub_region=0&type=429",
@@ -4762,16 +4762,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 6,
-      "Асеев Владимир Михайлович": 432,
-      "Кандаков Сергей Викторович": 193,
-      "Ковалев Сергей Анатольевич": 89,
-      "Крепких Владимир Владимирович": 153,
-      "Кузьмин Игорь Викторович": 24,
-      "Мурзина Лариса Валентиновна": 46,
-      "Полякова Нина Борисовна": 6,
-      "Шустова Галина Степановна": 67,
-      "Против всех": 220
+      "gas:candidate-vibid:1001000195184": 6,
+      "gas:candidate-vibid:1001000226025": 432,
+      "gas:candidate-vibid:386300166794": 193,
+      "gas:candidate-vibid:1001000188030": 89,
+      "gas:candidate-vibid:386300166804": 153,
+      "gas:candidate-vibid:1001000136170": 24,
+      "gas:candidate-vibid:1001000114006": 46,
+      "gas:candidate-vibid:1001000126656": 6,
+      "gas:candidate-vibid:1001000121955": 67,
+      "special:against-all": 220
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066719&region=0&sub_region=0&type=429",
@@ -4821,16 +4821,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 5,
-      "Асеев Владимир Михайлович": 420,
-      "Кандаков Сергей Викторович": 150,
-      "Ковалев Сергей Анатольевич": 78,
-      "Крепких Владимир Владимирович": 139,
-      "Кузьмин Игорь Викторович": 16,
-      "Мурзина Лариса Валентиновна": 34,
-      "Полякова Нина Борисовна": 17,
-      "Шустова Галина Степановна": 73,
-      "Против всех": 167
+      "gas:candidate-vibid:1001000195184": 5,
+      "gas:candidate-vibid:1001000226025": 420,
+      "gas:candidate-vibid:386300166794": 150,
+      "gas:candidate-vibid:1001000188030": 78,
+      "gas:candidate-vibid:386300166804": 139,
+      "gas:candidate-vibid:1001000136170": 16,
+      "gas:candidate-vibid:1001000114006": 34,
+      "gas:candidate-vibid:1001000126656": 17,
+      "gas:candidate-vibid:1001000121955": 73,
+      "special:against-all": 167
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066719&region=0&sub_region=0&type=429",
@@ -4880,16 +4880,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 6,
-      "Асеев Владимир Михайлович": 460,
-      "Кандаков Сергей Викторович": 157,
-      "Ковалев Сергей Анатольевич": 74,
-      "Крепких Владимир Владимирович": 133,
-      "Кузьмин Игорь Викторович": 22,
-      "Мурзина Лариса Валентиновна": 37,
-      "Полякова Нина Борисовна": 14,
-      "Шустова Галина Степановна": 68,
-      "Против всех": 222
+      "gas:candidate-vibid:1001000195184": 6,
+      "gas:candidate-vibid:1001000226025": 460,
+      "gas:candidate-vibid:386300166794": 157,
+      "gas:candidate-vibid:1001000188030": 74,
+      "gas:candidate-vibid:386300166804": 133,
+      "gas:candidate-vibid:1001000136170": 22,
+      "gas:candidate-vibid:1001000114006": 37,
+      "gas:candidate-vibid:1001000126656": 14,
+      "gas:candidate-vibid:1001000121955": 68,
+      "special:against-all": 222
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066719&region=0&sub_region=0&type=429",
@@ -4939,16 +4939,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 8,
-      "Асеев Владимир Михайлович": 493,
-      "Кандаков Сергей Викторович": 175,
-      "Ковалев Сергей Анатольевич": 94,
-      "Крепких Владимир Владимирович": 181,
-      "Кузьмин Игорь Викторович": 29,
-      "Мурзина Лариса Валентиновна": 47,
-      "Полякова Нина Борисовна": 15,
-      "Шустова Галина Степановна": 100,
-      "Против всех": 288
+      "gas:candidate-vibid:1001000195184": 8,
+      "gas:candidate-vibid:1001000226025": 493,
+      "gas:candidate-vibid:386300166794": 175,
+      "gas:candidate-vibid:1001000188030": 94,
+      "gas:candidate-vibid:386300166804": 181,
+      "gas:candidate-vibid:1001000136170": 29,
+      "gas:candidate-vibid:1001000114006": 47,
+      "gas:candidate-vibid:1001000126656": 15,
+      "gas:candidate-vibid:1001000121955": 100,
+      "special:against-all": 288
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066719&region=0&sub_region=0&type=429",
@@ -4998,16 +4998,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 4,
-      "Асеев Владимир Михайлович": 511,
-      "Кандаков Сергей Викторович": 113,
-      "Ковалев Сергей Анатольевич": 75,
-      "Крепких Владимир Владимирович": 114,
-      "Кузьмин Игорь Викторович": 12,
-      "Мурзина Лариса Валентиновна": 26,
-      "Полякова Нина Борисовна": 7,
-      "Шустова Галина Степановна": 77,
-      "Против всех": 169
+      "gas:candidate-vibid:1001000195184": 4,
+      "gas:candidate-vibid:1001000226025": 511,
+      "gas:candidate-vibid:386300166794": 113,
+      "gas:candidate-vibid:1001000188030": 75,
+      "gas:candidate-vibid:386300166804": 114,
+      "gas:candidate-vibid:1001000136170": 12,
+      "gas:candidate-vibid:1001000114006": 26,
+      "gas:candidate-vibid:1001000126656": 7,
+      "gas:candidate-vibid:1001000121955": 77,
+      "special:against-all": 169
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066719&region=0&sub_region=0&type=429",
@@ -5057,16 +5057,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 2,
-      "Асеев Владимир Михайлович": 586,
-      "Кандаков Сергей Викторович": 140,
-      "Ковалев Сергей Анатольевич": 109,
-      "Крепких Владимир Владимирович": 149,
-      "Кузьмин Игорь Викторович": 19,
-      "Мурзина Лариса Валентиновна": 26,
-      "Полякова Нина Борисовна": 9,
-      "Шустова Галина Степановна": 67,
-      "Против всех": 266
+      "gas:candidate-vibid:1001000195184": 2,
+      "gas:candidate-vibid:1001000226025": 586,
+      "gas:candidate-vibid:386300166794": 140,
+      "gas:candidate-vibid:1001000188030": 109,
+      "gas:candidate-vibid:386300166804": 149,
+      "gas:candidate-vibid:1001000136170": 19,
+      "gas:candidate-vibid:1001000114006": 26,
+      "gas:candidate-vibid:1001000126656": 9,
+      "gas:candidate-vibid:1001000121955": 67,
+      "special:against-all": 266
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066719&region=0&sub_region=0&type=429",
@@ -5116,16 +5116,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 4,
-      "Асеев Владимир Михайлович": 752,
-      "Кандаков Сергей Викторович": 184,
-      "Ковалев Сергей Анатольевич": 85,
-      "Крепких Владимир Владимирович": 126,
-      "Кузьмин Игорь Викторович": 24,
-      "Мурзина Лариса Валентиновна": 34,
-      "Полякова Нина Борисовна": 11,
-      "Шустова Галина Степановна": 99,
-      "Против всех": 249
+      "gas:candidate-vibid:1001000195184": 4,
+      "gas:candidate-vibid:1001000226025": 752,
+      "gas:candidate-vibid:386300166794": 184,
+      "gas:candidate-vibid:1001000188030": 85,
+      "gas:candidate-vibid:386300166804": 126,
+      "gas:candidate-vibid:1001000136170": 24,
+      "gas:candidate-vibid:1001000114006": 34,
+      "gas:candidate-vibid:1001000126656": 11,
+      "gas:candidate-vibid:1001000121955": 99,
+      "special:against-all": 249
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066719&region=0&sub_region=0&type=429",
@@ -5175,16 +5175,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 2,
-      "Асеев Владимир Михайлович": 119,
-      "Кандаков Сергей Викторович": 27,
-      "Ковалев Сергей Анатольевич": 19,
-      "Крепких Владимир Владимирович": 25,
-      "Кузьмин Игорь Викторович": 10,
-      "Мурзина Лариса Валентиновна": 10,
-      "Полякова Нина Борисовна": 6,
-      "Шустова Галина Степановна": 26,
-      "Против всех": 61
+      "gas:candidate-vibid:1001000195184": 2,
+      "gas:candidate-vibid:1001000226025": 119,
+      "gas:candidate-vibid:386300166794": 27,
+      "gas:candidate-vibid:1001000188030": 19,
+      "gas:candidate-vibid:386300166804": 25,
+      "gas:candidate-vibid:1001000136170": 10,
+      "gas:candidate-vibid:1001000114006": 10,
+      "gas:candidate-vibid:1001000126656": 6,
+      "gas:candidate-vibid:1001000121955": 26,
+      "special:against-all": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066719&region=0&sub_region=0&type=429",
@@ -5234,16 +5234,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 0,
-      "Асеев Владимир Михайлович": 37,
-      "Кандаков Сергей Викторович": 22,
-      "Ковалев Сергей Анатольевич": 8,
-      "Крепких Владимир Владимирович": 18,
-      "Кузьмин Игорь Викторович": 5,
-      "Мурзина Лариса Валентиновна": 2,
-      "Полякова Нина Борисовна": 3,
-      "Шустова Галина Степановна": 11,
-      "Против всех": 30
+      "gas:candidate-vibid:1001000195184": 0,
+      "gas:candidate-vibid:1001000226025": 37,
+      "gas:candidate-vibid:386300166794": 22,
+      "gas:candidate-vibid:1001000188030": 8,
+      "gas:candidate-vibid:386300166804": 18,
+      "gas:candidate-vibid:1001000136170": 5,
+      "gas:candidate-vibid:1001000114006": 2,
+      "gas:candidate-vibid:1001000126656": 3,
+      "gas:candidate-vibid:1001000121955": 11,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066719&region=0&sub_region=0&type=429",
@@ -5293,16 +5293,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 5,
-      "Асеев Владимир Михайлович": 205,
-      "Кандаков Сергей Викторович": 84,
-      "Ковалев Сергей Анатольевич": 41,
-      "Крепких Владимир Владимирович": 79,
-      "Кузьмин Игорь Викторович": 11,
-      "Мурзина Лариса Валентиновна": 12,
-      "Полякова Нина Борисовна": 8,
-      "Шустова Галина Степановна": 36,
-      "Против всех": 107
+      "gas:candidate-vibid:1001000195184": 5,
+      "gas:candidate-vibid:1001000226025": 205,
+      "gas:candidate-vibid:386300166794": 84,
+      "gas:candidate-vibid:1001000188030": 41,
+      "gas:candidate-vibid:386300166804": 79,
+      "gas:candidate-vibid:1001000136170": 11,
+      "gas:candidate-vibid:1001000114006": 12,
+      "gas:candidate-vibid:1001000126656": 8,
+      "gas:candidate-vibid:1001000121955": 36,
+      "special:against-all": 107
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066719&region=0&sub_region=0&type=429",
@@ -5352,16 +5352,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 7,
-      "Асеев Владимир Михайлович": 179,
-      "Кандаков Сергей Викторович": 79,
-      "Ковалев Сергей Анатольевич": 35,
-      "Крепких Владимир Владимирович": 65,
-      "Кузьмин Игорь Викторович": 17,
-      "Мурзина Лариса Валентиновна": 16,
-      "Полякова Нина Борисовна": 12,
-      "Шустова Галина Степановна": 27,
-      "Против всех": 167
+      "gas:candidate-vibid:1001000195184": 7,
+      "gas:candidate-vibid:1001000226025": 179,
+      "gas:candidate-vibid:386300166794": 79,
+      "gas:candidate-vibid:1001000188030": 35,
+      "gas:candidate-vibid:386300166804": 65,
+      "gas:candidate-vibid:1001000136170": 17,
+      "gas:candidate-vibid:1001000114006": 16,
+      "gas:candidate-vibid:1001000126656": 12,
+      "gas:candidate-vibid:1001000121955": 27,
+      "special:against-all": 167
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066719&region=0&sub_region=0&type=429",
@@ -5411,16 +5411,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 1,
-      "Асеев Владимир Михайлович": 117,
-      "Кандаков Сергей Викторович": 55,
-      "Ковалев Сергей Анатольевич": 14,
-      "Крепких Владимир Владимирович": 41,
-      "Кузьмин Игорь Викторович": 4,
-      "Мурзина Лариса Валентиновна": 6,
-      "Полякова Нина Борисовна": 6,
-      "Шустова Галина Степановна": 21,
-      "Против всех": 50
+      "gas:candidate-vibid:1001000195184": 1,
+      "gas:candidate-vibid:1001000226025": 117,
+      "gas:candidate-vibid:386300166794": 55,
+      "gas:candidate-vibid:1001000188030": 14,
+      "gas:candidate-vibid:386300166804": 41,
+      "gas:candidate-vibid:1001000136170": 4,
+      "gas:candidate-vibid:1001000114006": 6,
+      "gas:candidate-vibid:1001000126656": 6,
+      "gas:candidate-vibid:1001000121955": 21,
+      "special:against-all": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066719&region=0&sub_region=0&type=429",
@@ -5470,16 +5470,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 4,
-      "Асеев Владимир Михайлович": 210,
-      "Кандаков Сергей Викторович": 62,
-      "Ковалев Сергей Анатольевич": 40,
-      "Крепких Владимир Владимирович": 73,
-      "Кузьмин Игорь Викторович": 14,
-      "Мурзина Лариса Валентиновна": 17,
-      "Полякова Нина Борисовна": 8,
-      "Шустова Галина Степановна": 47,
-      "Против всех": 118
+      "gas:candidate-vibid:1001000195184": 4,
+      "gas:candidate-vibid:1001000226025": 210,
+      "gas:candidate-vibid:386300166794": 62,
+      "gas:candidate-vibid:1001000188030": 40,
+      "gas:candidate-vibid:386300166804": 73,
+      "gas:candidate-vibid:1001000136170": 14,
+      "gas:candidate-vibid:1001000114006": 17,
+      "gas:candidate-vibid:1001000126656": 8,
+      "gas:candidate-vibid:1001000121955": 47,
+      "special:against-all": 118
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066719&region=0&sub_region=0&type=429",
@@ -5529,16 +5529,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 6,
-      "Асеев Владимир Михайлович": 413,
-      "Кандаков Сергей Викторович": 116,
-      "Ковалев Сергей Анатольевич": 74,
-      "Крепких Владимир Владимирович": 165,
-      "Кузьмин Игорь Викторович": 27,
-      "Мурзина Лариса Валентиновна": 29,
-      "Полякова Нина Борисовна": 13,
-      "Шустова Галина Степановна": 170,
-      "Против всех": 234
+      "gas:candidate-vibid:1001000195184": 6,
+      "gas:candidate-vibid:1001000226025": 413,
+      "gas:candidate-vibid:386300166794": 116,
+      "gas:candidate-vibid:1001000188030": 74,
+      "gas:candidate-vibid:386300166804": 165,
+      "gas:candidate-vibid:1001000136170": 27,
+      "gas:candidate-vibid:1001000114006": 29,
+      "gas:candidate-vibid:1001000126656": 13,
+      "gas:candidate-vibid:1001000121955": 170,
+      "special:against-all": 234
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066719&region=0&sub_region=0&type=429",
@@ -5588,16 +5588,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 0,
-      "Асеев Владимир Михайлович": 6,
-      "Кандаков Сергей Викторович": 5,
-      "Ковалев Сергей Анатольевич": 7,
-      "Крепких Владимир Владимирович": 7,
-      "Кузьмин Игорь Викторович": 1,
-      "Мурзина Лариса Валентиновна": 1,
-      "Полякова Нина Борисовна": 2,
-      "Шустова Галина Степановна": 4,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000195184": 0,
+      "gas:candidate-vibid:1001000226025": 6,
+      "gas:candidate-vibid:386300166794": 5,
+      "gas:candidate-vibid:1001000188030": 7,
+      "gas:candidate-vibid:386300166804": 7,
+      "gas:candidate-vibid:1001000136170": 1,
+      "gas:candidate-vibid:1001000114006": 1,
+      "gas:candidate-vibid:1001000126656": 2,
+      "gas:candidate-vibid:1001000121955": 4,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066719&region=0&sub_region=0&type=429",
@@ -5647,16 +5647,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 0,
-      "Асеев Владимир Михайлович": 12,
-      "Кандаков Сергей Викторович": 9,
-      "Ковалев Сергей Анатольевич": 9,
-      "Крепких Владимир Владимирович": 5,
-      "Кузьмин Игорь Викторович": 0,
-      "Мурзина Лариса Валентиновна": 1,
-      "Полякова Нина Борисовна": 1,
-      "Шустова Галина Степановна": 1,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000195184": 0,
+      "gas:candidate-vibid:1001000226025": 12,
+      "gas:candidate-vibid:386300166794": 9,
+      "gas:candidate-vibid:1001000188030": 9,
+      "gas:candidate-vibid:386300166804": 5,
+      "gas:candidate-vibid:1001000136170": 0,
+      "gas:candidate-vibid:1001000114006": 1,
+      "gas:candidate-vibid:1001000126656": 1,
+      "gas:candidate-vibid:1001000121955": 1,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066719&region=0&sub_region=0&type=429",
@@ -5706,16 +5706,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 0,
-      "Асеев Владимир Михайлович": 21,
-      "Кандаков Сергей Викторович": 9,
-      "Ковалев Сергей Анатольевич": 3,
-      "Крепких Владимир Владимирович": 6,
-      "Кузьмин Игорь Викторович": 0,
-      "Мурзина Лариса Валентиновна": 0,
-      "Полякова Нина Борисовна": 1,
-      "Шустова Галина Степановна": 5,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000195184": 0,
+      "gas:candidate-vibid:1001000226025": 21,
+      "gas:candidate-vibid:386300166794": 9,
+      "gas:candidate-vibid:1001000188030": 3,
+      "gas:candidate-vibid:386300166804": 6,
+      "gas:candidate-vibid:1001000136170": 0,
+      "gas:candidate-vibid:1001000114006": 0,
+      "gas:candidate-vibid:1001000126656": 1,
+      "gas:candidate-vibid:1001000121955": 5,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066719&region=0&sub_region=0&type=429",
@@ -5765,16 +5765,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 0,
-      "Асеев Владимир Михайлович": 31,
-      "Кандаков Сергей Викторович": 21,
-      "Ковалев Сергей Анатольевич": 7,
-      "Крепких Владимир Владимирович": 10,
-      "Кузьмин Игорь Викторович": 3,
-      "Мурзина Лариса Валентиновна": 4,
-      "Полякова Нина Борисовна": 2,
-      "Шустова Галина Степановна": 9,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000195184": 0,
+      "gas:candidate-vibid:1001000226025": 31,
+      "gas:candidate-vibid:386300166794": 21,
+      "gas:candidate-vibid:1001000188030": 7,
+      "gas:candidate-vibid:386300166804": 10,
+      "gas:candidate-vibid:1001000136170": 3,
+      "gas:candidate-vibid:1001000114006": 4,
+      "gas:candidate-vibid:1001000126656": 2,
+      "gas:candidate-vibid:1001000121955": 9,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066719&region=0&sub_region=0&type=429",
@@ -5824,16 +5824,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 4,
-      "Асеев Владимир Михайлович": 240,
-      "Кандаков Сергей Викторович": 63,
-      "Ковалев Сергей Анатольевич": 21,
-      "Крепких Владимир Владимирович": 54,
-      "Кузьмин Игорь Викторович": 9,
-      "Мурзина Лариса Валентиновна": 28,
-      "Полякова Нина Борисовна": 11,
-      "Шустова Галина Степановна": 32,
-      "Против всех": 71
+      "gas:candidate-vibid:1001000195184": 4,
+      "gas:candidate-vibid:1001000226025": 240,
+      "gas:candidate-vibid:386300166794": 63,
+      "gas:candidate-vibid:1001000188030": 21,
+      "gas:candidate-vibid:386300166804": 54,
+      "gas:candidate-vibid:1001000136170": 9,
+      "gas:candidate-vibid:1001000114006": 28,
+      "gas:candidate-vibid:1001000126656": 11,
+      "gas:candidate-vibid:1001000121955": 32,
+      "special:against-all": 71
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066719&region=0&sub_region=0&type=429",
@@ -5883,16 +5883,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 3,
-      "Асеев Владимир Михайлович": 227,
-      "Кандаков Сергей Викторович": 29,
-      "Ковалев Сергей Анатольевич": 7,
-      "Крепких Владимир Владимирович": 25,
-      "Кузьмин Игорь Викторович": 12,
-      "Мурзина Лариса Валентиновна": 8,
-      "Полякова Нина Борисовна": 5,
-      "Шустова Галина Степановна": 8,
-      "Против всех": 42
+      "gas:candidate-vibid:1001000195184": 3,
+      "gas:candidate-vibid:1001000226025": 227,
+      "gas:candidate-vibid:386300166794": 29,
+      "gas:candidate-vibid:1001000188030": 7,
+      "gas:candidate-vibid:386300166804": 25,
+      "gas:candidate-vibid:1001000136170": 12,
+      "gas:candidate-vibid:1001000114006": 8,
+      "gas:candidate-vibid:1001000126656": 5,
+      "gas:candidate-vibid:1001000121955": 8,
+      "special:against-all": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066719&region=0&sub_region=0&type=429",
@@ -5942,16 +5942,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 0,
-      "Асеев Владимир Михайлович": 19,
-      "Кандаков Сергей Викторович": 7,
-      "Ковалев Сергей Анатольевич": 2,
-      "Крепких Владимир Владимирович": 4,
-      "Кузьмин Игорь Викторович": 0,
-      "Мурзина Лариса Валентиновна": 2,
-      "Полякова Нина Борисовна": 5,
-      "Шустова Галина Степановна": 18,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000195184": 0,
+      "gas:candidate-vibid:1001000226025": 19,
+      "gas:candidate-vibid:386300166794": 7,
+      "gas:candidate-vibid:1001000188030": 2,
+      "gas:candidate-vibid:386300166804": 4,
+      "gas:candidate-vibid:1001000136170": 0,
+      "gas:candidate-vibid:1001000114006": 2,
+      "gas:candidate-vibid:1001000126656": 5,
+      "gas:candidate-vibid:1001000121955": 18,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066719&region=0&sub_region=0&type=429",
@@ -6001,16 +6001,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 3,
-      "Асеев Владимир Михайлович": 69,
-      "Кандаков Сергей Викторович": 26,
-      "Ковалев Сергей Анатольевич": 12,
-      "Крепких Владимир Владимирович": 27,
-      "Кузьмин Игорь Викторович": 7,
-      "Мурзина Лариса Валентиновна": 6,
-      "Полякова Нина Борисовна": 3,
-      "Шустова Галина Степановна": 14,
-      "Против всех": 31
+      "gas:candidate-vibid:1001000195184": 3,
+      "gas:candidate-vibid:1001000226025": 69,
+      "gas:candidate-vibid:386300166794": 26,
+      "gas:candidate-vibid:1001000188030": 12,
+      "gas:candidate-vibid:386300166804": 27,
+      "gas:candidate-vibid:1001000136170": 7,
+      "gas:candidate-vibid:1001000114006": 6,
+      "gas:candidate-vibid:1001000126656": 3,
+      "gas:candidate-vibid:1001000121955": 14,
+      "special:against-all": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066719&region=0&sub_region=0&type=429",
@@ -6060,16 +6060,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 11,
-      "Асеев Владимир Михайлович": 98,
-      "Кандаков Сергей Викторович": 16,
-      "Ковалев Сергей Анатольевич": 12,
-      "Крепких Владимир Владимирович": 14,
-      "Кузьмин Игорь Викторович": 8,
-      "Мурзина Лариса Валентиновна": 12,
-      "Полякова Нина Борисовна": 1,
-      "Шустова Галина Степановна": 13,
-      "Против всех": 62
+      "gas:candidate-vibid:1001000195184": 11,
+      "gas:candidate-vibid:1001000226025": 98,
+      "gas:candidate-vibid:386300166794": 16,
+      "gas:candidate-vibid:1001000188030": 12,
+      "gas:candidate-vibid:386300166804": 14,
+      "gas:candidate-vibid:1001000136170": 8,
+      "gas:candidate-vibid:1001000114006": 12,
+      "gas:candidate-vibid:1001000126656": 1,
+      "gas:candidate-vibid:1001000121955": 13,
+      "special:against-all": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066720&region=0&sub_region=0&type=429",
@@ -6119,16 +6119,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 14,
-      "Асеев Владимир Михайлович": 360,
-      "Кандаков Сергей Викторович": 39,
-      "Ковалев Сергей Анатольевич": 20,
-      "Крепких Владимир Владимирович": 20,
-      "Кузьмин Игорь Викторович": 18,
-      "Мурзина Лариса Валентиновна": 21,
-      "Полякова Нина Борисовна": 14,
-      "Шустова Галина Степановна": 34,
-      "Против всех": 127
+      "gas:candidate-vibid:1001000195184": 14,
+      "gas:candidate-vibid:1001000226025": 360,
+      "gas:candidate-vibid:386300166794": 39,
+      "gas:candidate-vibid:1001000188030": 20,
+      "gas:candidate-vibid:386300166804": 20,
+      "gas:candidate-vibid:1001000136170": 18,
+      "gas:candidate-vibid:1001000114006": 21,
+      "gas:candidate-vibid:1001000126656": 14,
+      "gas:candidate-vibid:1001000121955": 34,
+      "special:against-all": 127
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066720&region=0&sub_region=0&type=429",
@@ -6178,16 +6178,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 4,
-      "Асеев Владимир Михайлович": 225,
-      "Кандаков Сергей Викторович": 14,
-      "Ковалев Сергей Анатольевич": 12,
-      "Крепких Владимир Владимирович": 13,
-      "Кузьмин Игорь Викторович": 13,
-      "Мурзина Лариса Валентиновна": 19,
-      "Полякова Нина Борисовна": 6,
-      "Шустова Галина Степановна": 16,
-      "Против всех": 56
+      "gas:candidate-vibid:1001000195184": 4,
+      "gas:candidate-vibid:1001000226025": 225,
+      "gas:candidate-vibid:386300166794": 14,
+      "gas:candidate-vibid:1001000188030": 12,
+      "gas:candidate-vibid:386300166804": 13,
+      "gas:candidate-vibid:1001000136170": 13,
+      "gas:candidate-vibid:1001000114006": 19,
+      "gas:candidate-vibid:1001000126656": 6,
+      "gas:candidate-vibid:1001000121955": 16,
+      "special:against-all": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066720&region=0&sub_region=0&type=429",
@@ -6237,16 +6237,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 6,
-      "Асеев Владимир Михайлович": 376,
-      "Кандаков Сергей Викторович": 37,
-      "Ковалев Сергей Анатольевич": 19,
-      "Крепких Владимир Владимирович": 16,
-      "Кузьмин Игорь Викторович": 17,
-      "Мурзина Лариса Валентиновна": 9,
-      "Полякова Нина Борисовна": 9,
-      "Шустова Галина Степановна": 29,
-      "Против всех": 76
+      "gas:candidate-vibid:1001000195184": 6,
+      "gas:candidate-vibid:1001000226025": 376,
+      "gas:candidate-vibid:386300166794": 37,
+      "gas:candidate-vibid:1001000188030": 19,
+      "gas:candidate-vibid:386300166804": 16,
+      "gas:candidate-vibid:1001000136170": 17,
+      "gas:candidate-vibid:1001000114006": 9,
+      "gas:candidate-vibid:1001000126656": 9,
+      "gas:candidate-vibid:1001000121955": 29,
+      "special:against-all": 76
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066720&region=0&sub_region=0&type=429",
@@ -6296,16 +6296,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 2,
-      "Асеев Владимир Михайлович": 93,
-      "Кандаков Сергей Викторович": 34,
-      "Ковалев Сергей Анатольевич": 5,
-      "Крепких Владимир Владимирович": 9,
-      "Кузьмин Игорь Викторович": 8,
-      "Мурзина Лариса Валентиновна": 3,
-      "Полякова Нина Борисовна": 9,
-      "Шустова Галина Степановна": 7,
-      "Против всех": 54
+      "gas:candidate-vibid:1001000195184": 2,
+      "gas:candidate-vibid:1001000226025": 93,
+      "gas:candidate-vibid:386300166794": 34,
+      "gas:candidate-vibid:1001000188030": 5,
+      "gas:candidate-vibid:386300166804": 9,
+      "gas:candidate-vibid:1001000136170": 8,
+      "gas:candidate-vibid:1001000114006": 3,
+      "gas:candidate-vibid:1001000126656": 9,
+      "gas:candidate-vibid:1001000121955": 7,
+      "special:against-all": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066720&region=0&sub_region=0&type=429",
@@ -6355,16 +6355,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 2,
-      "Асеев Владимир Михайлович": 177,
-      "Кандаков Сергей Викторович": 25,
-      "Ковалев Сергей Анатольевич": 7,
-      "Крепких Владимир Владимирович": 28,
-      "Кузьмин Игорь Викторович": 4,
-      "Мурзина Лариса Валентиновна": 12,
-      "Полякова Нина Борисовна": 8,
-      "Шустова Галина Степановна": 13,
-      "Против всех": 49
+      "gas:candidate-vibid:1001000195184": 2,
+      "gas:candidate-vibid:1001000226025": 177,
+      "gas:candidate-vibid:386300166794": 25,
+      "gas:candidate-vibid:1001000188030": 7,
+      "gas:candidate-vibid:386300166804": 28,
+      "gas:candidate-vibid:1001000136170": 4,
+      "gas:candidate-vibid:1001000114006": 12,
+      "gas:candidate-vibid:1001000126656": 8,
+      "gas:candidate-vibid:1001000121955": 13,
+      "special:against-all": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066720&region=0&sub_region=0&type=429",
@@ -6414,16 +6414,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 5,
-      "Асеев Владимир Михайлович": 212,
-      "Кандаков Сергей Викторович": 25,
-      "Ковалев Сергей Анатольевич": 18,
-      "Крепких Владимир Владимирович": 11,
-      "Кузьмин Игорь Викторович": 11,
-      "Мурзина Лариса Валентиновна": 6,
-      "Полякова Нина Борисовна": 5,
-      "Шустова Галина Степановна": 15,
-      "Против всех": 81
+      "gas:candidate-vibid:1001000195184": 5,
+      "gas:candidate-vibid:1001000226025": 212,
+      "gas:candidate-vibid:386300166794": 25,
+      "gas:candidate-vibid:1001000188030": 18,
+      "gas:candidate-vibid:386300166804": 11,
+      "gas:candidate-vibid:1001000136170": 11,
+      "gas:candidate-vibid:1001000114006": 6,
+      "gas:candidate-vibid:1001000126656": 5,
+      "gas:candidate-vibid:1001000121955": 15,
+      "special:against-all": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066720&region=0&sub_region=0&type=429",
@@ -6473,16 +6473,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 0,
-      "Асеев Владимир Михайлович": 132,
-      "Кандаков Сергей Викторович": 31,
-      "Ковалев Сергей Анатольевич": 6,
-      "Крепких Владимир Владимирович": 14,
-      "Кузьмин Игорь Викторович": 3,
-      "Мурзина Лариса Валентиновна": 5,
-      "Полякова Нина Борисовна": 2,
-      "Шустова Галина Степановна": 5,
-      "Против всех": 42
+      "gas:candidate-vibid:1001000195184": 0,
+      "gas:candidate-vibid:1001000226025": 132,
+      "gas:candidate-vibid:386300166794": 31,
+      "gas:candidate-vibid:1001000188030": 6,
+      "gas:candidate-vibid:386300166804": 14,
+      "gas:candidate-vibid:1001000136170": 3,
+      "gas:candidate-vibid:1001000114006": 5,
+      "gas:candidate-vibid:1001000126656": 2,
+      "gas:candidate-vibid:1001000121955": 5,
+      "special:against-all": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066720&region=0&sub_region=0&type=429",
@@ -6532,16 +6532,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 4,
-      "Асеев Владимир Михайлович": 133,
-      "Кандаков Сергей Викторович": 18,
-      "Ковалев Сергей Анатольевич": 9,
-      "Крепких Владимир Владимирович": 7,
-      "Кузьмин Игорь Викторович": 3,
-      "Мурзина Лариса Валентиновна": 5,
-      "Полякова Нина Борисовна": 5,
-      "Шустова Галина Степановна": 9,
-      "Против всех": 34
+      "gas:candidate-vibid:1001000195184": 4,
+      "gas:candidate-vibid:1001000226025": 133,
+      "gas:candidate-vibid:386300166794": 18,
+      "gas:candidate-vibid:1001000188030": 9,
+      "gas:candidate-vibid:386300166804": 7,
+      "gas:candidate-vibid:1001000136170": 3,
+      "gas:candidate-vibid:1001000114006": 5,
+      "gas:candidate-vibid:1001000126656": 5,
+      "gas:candidate-vibid:1001000121955": 9,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066720&region=0&sub_region=0&type=429",
@@ -6591,16 +6591,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 4,
-      "Асеев Владимир Михайлович": 58,
-      "Кандаков Сергей Викторович": 12,
-      "Ковалев Сергей Анатольевич": 2,
-      "Крепких Владимир Владимирович": 38,
-      "Кузьмин Игорь Викторович": 0,
-      "Мурзина Лариса Валентиновна": 0,
-      "Полякова Нина Борисовна": 0,
-      "Шустова Галина Степановна": 8,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000195184": 4,
+      "gas:candidate-vibid:1001000226025": 58,
+      "gas:candidate-vibid:386300166794": 12,
+      "gas:candidate-vibid:1001000188030": 2,
+      "gas:candidate-vibid:386300166804": 38,
+      "gas:candidate-vibid:1001000136170": 0,
+      "gas:candidate-vibid:1001000114006": 0,
+      "gas:candidate-vibid:1001000126656": 0,
+      "gas:candidate-vibid:1001000121955": 8,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066720&region=0&sub_region=0&type=429",
@@ -6650,16 +6650,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 13,
-      "Асеев Владимир Михайлович": 489,
-      "Кандаков Сергей Викторович": 131,
-      "Ковалев Сергей Анатольевич": 38,
-      "Крепких Владимир Владимирович": 27,
-      "Кузьмин Игорь Викторович": 54,
-      "Мурзина Лариса Валентиновна": 35,
-      "Полякова Нина Борисовна": 20,
-      "Шустова Галина Степановна": 38,
-      "Против всех": 201
+      "gas:candidate-vibid:1001000195184": 13,
+      "gas:candidate-vibid:1001000226025": 489,
+      "gas:candidate-vibid:386300166794": 131,
+      "gas:candidate-vibid:1001000188030": 38,
+      "gas:candidate-vibid:386300166804": 27,
+      "gas:candidate-vibid:1001000136170": 54,
+      "gas:candidate-vibid:1001000114006": 35,
+      "gas:candidate-vibid:1001000126656": 20,
+      "gas:candidate-vibid:1001000121955": 38,
+      "special:against-all": 201
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066720&region=0&sub_region=0&type=429",
@@ -6709,16 +6709,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 3,
-      "Асеев Владимир Михайлович": 463,
-      "Кандаков Сергей Викторович": 124,
-      "Ковалев Сергей Анатольевич": 28,
-      "Крепких Владимир Владимирович": 16,
-      "Кузьмин Игорь Викторович": 42,
-      "Мурзина Лариса Валентиновна": 19,
-      "Полякова Нина Борисовна": 18,
-      "Шустова Галина Степановна": 50,
-      "Против всех": 159
+      "gas:candidate-vibid:1001000195184": 3,
+      "gas:candidate-vibid:1001000226025": 463,
+      "gas:candidate-vibid:386300166794": 124,
+      "gas:candidate-vibid:1001000188030": 28,
+      "gas:candidate-vibid:386300166804": 16,
+      "gas:candidate-vibid:1001000136170": 42,
+      "gas:candidate-vibid:1001000114006": 19,
+      "gas:candidate-vibid:1001000126656": 18,
+      "gas:candidate-vibid:1001000121955": 50,
+      "special:against-all": 159
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066720&region=0&sub_region=0&type=429",
@@ -6768,16 +6768,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 11,
-      "Асеев Владимир Михайлович": 493,
-      "Кандаков Сергей Викторович": 84,
-      "Ковалев Сергей Анатольевич": 30,
-      "Крепких Владимир Владимирович": 11,
-      "Кузьмин Игорь Викторович": 56,
-      "Мурзина Лариса Валентиновна": 27,
-      "Полякова Нина Борисовна": 13,
-      "Шустова Галина Степановна": 57,
-      "Против всех": 168
+      "gas:candidate-vibid:1001000195184": 11,
+      "gas:candidate-vibid:1001000226025": 493,
+      "gas:candidate-vibid:386300166794": 84,
+      "gas:candidate-vibid:1001000188030": 30,
+      "gas:candidate-vibid:386300166804": 11,
+      "gas:candidate-vibid:1001000136170": 56,
+      "gas:candidate-vibid:1001000114006": 27,
+      "gas:candidate-vibid:1001000126656": 13,
+      "gas:candidate-vibid:1001000121955": 57,
+      "special:against-all": 168
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066720&region=0&sub_region=0&type=429",
@@ -6827,16 +6827,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 4,
-      "Асеев Владимир Михайлович": 154,
-      "Кандаков Сергей Викторович": 25,
-      "Ковалев Сергей Анатольевич": 3,
-      "Крепких Владимир Владимирович": 4,
-      "Кузьмин Игорь Викторович": 5,
-      "Мурзина Лариса Валентиновна": 9,
-      "Полякова Нина Борисовна": 1,
-      "Шустова Галина Степановна": 4,
-      "Против всех": 74
+      "gas:candidate-vibid:1001000195184": 4,
+      "gas:candidate-vibid:1001000226025": 154,
+      "gas:candidate-vibid:386300166794": 25,
+      "gas:candidate-vibid:1001000188030": 3,
+      "gas:candidate-vibid:386300166804": 4,
+      "gas:candidate-vibid:1001000136170": 5,
+      "gas:candidate-vibid:1001000114006": 9,
+      "gas:candidate-vibid:1001000126656": 1,
+      "gas:candidate-vibid:1001000121955": 4,
+      "special:against-all": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066720&region=0&sub_region=0&type=429",
@@ -6886,16 +6886,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 4,
-      "Асеев Владимир Михайлович": 334,
-      "Кандаков Сергей Викторович": 98,
-      "Ковалев Сергей Анатольевич": 35,
-      "Крепких Владимир Владимирович": 70,
-      "Кузьмин Игорь Викторович": 20,
-      "Мурзина Лариса Валентиновна": 33,
-      "Полякова Нина Борисовна": 8,
-      "Шустова Галина Степановна": 43,
-      "Против всех": 158
+      "gas:candidate-vibid:1001000195184": 4,
+      "gas:candidate-vibid:1001000226025": 334,
+      "gas:candidate-vibid:386300166794": 98,
+      "gas:candidate-vibid:1001000188030": 35,
+      "gas:candidate-vibid:386300166804": 70,
+      "gas:candidate-vibid:1001000136170": 20,
+      "gas:candidate-vibid:1001000114006": 33,
+      "gas:candidate-vibid:1001000126656": 8,
+      "gas:candidate-vibid:1001000121955": 43,
+      "special:against-all": 158
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066720&region=0&sub_region=0&type=429",
@@ -6945,16 +6945,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 3,
-      "Асеев Владимир Михайлович": 336,
-      "Кандаков Сергей Викторович": 79,
-      "Ковалев Сергей Анатольевич": 34,
-      "Крепких Владимир Владимирович": 68,
-      "Кузьмин Игорь Викторович": 19,
-      "Мурзина Лариса Валентиновна": 23,
-      "Полякова Нина Борисовна": 7,
-      "Шустова Галина Степановна": 52,
-      "Против всех": 122
+      "gas:candidate-vibid:1001000195184": 3,
+      "gas:candidate-vibid:1001000226025": 336,
+      "gas:candidate-vibid:386300166794": 79,
+      "gas:candidate-vibid:1001000188030": 34,
+      "gas:candidate-vibid:386300166804": 68,
+      "gas:candidate-vibid:1001000136170": 19,
+      "gas:candidate-vibid:1001000114006": 23,
+      "gas:candidate-vibid:1001000126656": 7,
+      "gas:candidate-vibid:1001000121955": 52,
+      "special:against-all": 122
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066720&region=0&sub_region=0&type=429",
@@ -7004,16 +7004,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 7,
-      "Асеев Владимир Михайлович": 373,
-      "Кандаков Сергей Викторович": 100,
-      "Ковалев Сергей Анатольевич": 56,
-      "Крепких Владимир Владимирович": 82,
-      "Кузьмин Игорь Викторович": 34,
-      "Мурзина Лариса Валентиновна": 43,
-      "Полякова Нина Борисовна": 8,
-      "Шустова Галина Степановна": 66,
-      "Против всех": 147
+      "gas:candidate-vibid:1001000195184": 7,
+      "gas:candidate-vibid:1001000226025": 373,
+      "gas:candidate-vibid:386300166794": 100,
+      "gas:candidate-vibid:1001000188030": 56,
+      "gas:candidate-vibid:386300166804": 82,
+      "gas:candidate-vibid:1001000136170": 34,
+      "gas:candidate-vibid:1001000114006": 43,
+      "gas:candidate-vibid:1001000126656": 8,
+      "gas:candidate-vibid:1001000121955": 66,
+      "special:against-all": 147
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066720&region=0&sub_region=0&type=429",
@@ -7063,16 +7063,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 8,
-      "Асеев Владимир Михайлович": 334,
-      "Кандаков Сергей Викторович": 50,
-      "Ковалев Сергей Анатольевич": 40,
-      "Крепких Владимир Владимирович": 48,
-      "Кузьмин Игорь Викторович": 22,
-      "Мурзина Лариса Валентиновна": 30,
-      "Полякова Нина Борисовна": 7,
-      "Шустова Галина Степановна": 83,
-      "Против всех": 129
+      "gas:candidate-vibid:1001000195184": 8,
+      "gas:candidate-vibid:1001000226025": 334,
+      "gas:candidate-vibid:386300166794": 50,
+      "gas:candidate-vibid:1001000188030": 40,
+      "gas:candidate-vibid:386300166804": 48,
+      "gas:candidate-vibid:1001000136170": 22,
+      "gas:candidate-vibid:1001000114006": 30,
+      "gas:candidate-vibid:1001000126656": 7,
+      "gas:candidate-vibid:1001000121955": 83,
+      "special:against-all": 129
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066720&region=0&sub_region=0&type=429",
@@ -7122,16 +7122,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 3,
-      "Асеев Владимир Михайлович": 338,
-      "Кандаков Сергей Викторович": 63,
-      "Ковалев Сергей Анатольевич": 35,
-      "Крепких Владимир Владимирович": 50,
-      "Кузьмин Игорь Викторович": 18,
-      "Мурзина Лариса Валентиновна": 35,
-      "Полякова Нина Борисовна": 13,
-      "Шустова Галина Степановна": 79,
-      "Против всех": 94
+      "gas:candidate-vibid:1001000195184": 3,
+      "gas:candidate-vibid:1001000226025": 338,
+      "gas:candidate-vibid:386300166794": 63,
+      "gas:candidate-vibid:1001000188030": 35,
+      "gas:candidate-vibid:386300166804": 50,
+      "gas:candidate-vibid:1001000136170": 18,
+      "gas:candidate-vibid:1001000114006": 35,
+      "gas:candidate-vibid:1001000126656": 13,
+      "gas:candidate-vibid:1001000121955": 79,
+      "special:against-all": 94
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066720&region=0&sub_region=0&type=429",
@@ -7181,16 +7181,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 2,
-      "Асеев Владимир Михайлович": 66,
-      "Кандаков Сергей Викторович": 22,
-      "Ковалев Сергей Анатольевич": 7,
-      "Крепких Владимир Владимирович": 16,
-      "Кузьмин Игорь Викторович": 5,
-      "Мурзина Лариса Валентиновна": 4,
-      "Полякова Нина Борисовна": 4,
-      "Шустова Галина Степановна": 6,
-      "Против всех": 33
+      "gas:candidate-vibid:1001000195184": 2,
+      "gas:candidate-vibid:1001000226025": 66,
+      "gas:candidate-vibid:386300166794": 22,
+      "gas:candidate-vibid:1001000188030": 7,
+      "gas:candidate-vibid:386300166804": 16,
+      "gas:candidate-vibid:1001000136170": 5,
+      "gas:candidate-vibid:1001000114006": 4,
+      "gas:candidate-vibid:1001000126656": 4,
+      "gas:candidate-vibid:1001000121955": 6,
+      "special:against-all": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066720&region=0&sub_region=0&type=429",
@@ -7240,16 +7240,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 1,
-      "Асеев Владимир Михайлович": 36,
-      "Кандаков Сергей Викторович": 12,
-      "Ковалев Сергей Анатольевич": 4,
-      "Крепких Владимир Владимирович": 7,
-      "Кузьмин Игорь Викторович": 0,
-      "Мурзина Лариса Валентиновна": 0,
-      "Полякова Нина Борисовна": 3,
-      "Шустова Галина Степановна": 2,
-      "Против всех": 24
+      "gas:candidate-vibid:1001000195184": 1,
+      "gas:candidate-vibid:1001000226025": 36,
+      "gas:candidate-vibid:386300166794": 12,
+      "gas:candidate-vibid:1001000188030": 4,
+      "gas:candidate-vibid:386300166804": 7,
+      "gas:candidate-vibid:1001000136170": 0,
+      "gas:candidate-vibid:1001000114006": 0,
+      "gas:candidate-vibid:1001000126656": 3,
+      "gas:candidate-vibid:1001000121955": 2,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066720&region=0&sub_region=0&type=429",
@@ -7299,16 +7299,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 5,
-      "Асеев Владимир Михайлович": 542,
-      "Кандаков Сергей Викторович": 87,
-      "Ковалев Сергей Анатольевич": 14,
-      "Крепких Владимир Владимирович": 9,
-      "Кузьмин Игорь Викторович": 12,
-      "Мурзина Лариса Валентиновна": 9,
-      "Полякова Нина Борисовна": 12,
-      "Шустова Галина Степановна": 36,
-      "Против всех": 116
+      "gas:candidate-vibid:1001000195184": 5,
+      "gas:candidate-vibid:1001000226025": 542,
+      "gas:candidate-vibid:386300166794": 87,
+      "gas:candidate-vibid:1001000188030": 14,
+      "gas:candidate-vibid:386300166804": 9,
+      "gas:candidate-vibid:1001000136170": 12,
+      "gas:candidate-vibid:1001000114006": 9,
+      "gas:candidate-vibid:1001000126656": 12,
+      "gas:candidate-vibid:1001000121955": 36,
+      "special:against-all": 116
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066721&region=0&sub_region=0&type=429",
@@ -7358,16 +7358,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 10,
-      "Асеев Владимир Михайлович": 620,
-      "Кандаков Сергей Викторович": 136,
-      "Ковалев Сергей Анатольевич": 21,
-      "Крепких Владимир Владимирович": 13,
-      "Кузьмин Игорь Викторович": 25,
-      "Мурзина Лариса Валентиновна": 23,
-      "Полякова Нина Борисовна": 17,
-      "Шустова Галина Степановна": 58,
-      "Против всех": 140
+      "gas:candidate-vibid:1001000195184": 10,
+      "gas:candidate-vibid:1001000226025": 620,
+      "gas:candidate-vibid:386300166794": 136,
+      "gas:candidate-vibid:1001000188030": 21,
+      "gas:candidate-vibid:386300166804": 13,
+      "gas:candidate-vibid:1001000136170": 25,
+      "gas:candidate-vibid:1001000114006": 23,
+      "gas:candidate-vibid:1001000126656": 17,
+      "gas:candidate-vibid:1001000121955": 58,
+      "special:against-all": 140
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066721&region=0&sub_region=0&type=429",
@@ -7417,16 +7417,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 6,
-      "Асеев Владимир Михайлович": 657,
-      "Кандаков Сергей Викторович": 152,
-      "Ковалев Сергей Анатольевич": 20,
-      "Крепких Владимир Владимирович": 11,
-      "Кузьмин Игорь Викторович": 24,
-      "Мурзина Лариса Валентиновна": 25,
-      "Полякова Нина Борисовна": 15,
-      "Шустова Галина Степановна": 79,
-      "Против всех": 160
+      "gas:candidate-vibid:1001000195184": 6,
+      "gas:candidate-vibid:1001000226025": 657,
+      "gas:candidate-vibid:386300166794": 152,
+      "gas:candidate-vibid:1001000188030": 20,
+      "gas:candidate-vibid:386300166804": 11,
+      "gas:candidate-vibid:1001000136170": 24,
+      "gas:candidate-vibid:1001000114006": 25,
+      "gas:candidate-vibid:1001000126656": 15,
+      "gas:candidate-vibid:1001000121955": 79,
+      "special:against-all": 160
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066721&region=0&sub_region=0&type=429",
@@ -7476,16 +7476,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 4,
-      "Асеев Владимир Михайлович": 531,
-      "Кандаков Сергей Викторович": 90,
-      "Ковалев Сергей Анатольевич": 17,
-      "Крепких Владимир Владимирович": 7,
-      "Кузьмин Игорь Викторович": 20,
-      "Мурзина Лариса Валентиновна": 15,
-      "Полякова Нина Борисовна": 17,
-      "Шустова Галина Степановна": 45,
-      "Против всех": 125
+      "gas:candidate-vibid:1001000195184": 4,
+      "gas:candidate-vibid:1001000226025": 531,
+      "gas:candidate-vibid:386300166794": 90,
+      "gas:candidate-vibid:1001000188030": 17,
+      "gas:candidate-vibid:386300166804": 7,
+      "gas:candidate-vibid:1001000136170": 20,
+      "gas:candidate-vibid:1001000114006": 15,
+      "gas:candidate-vibid:1001000126656": 17,
+      "gas:candidate-vibid:1001000121955": 45,
+      "special:against-all": 125
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066721&region=0&sub_region=0&type=429",
@@ -7535,16 +7535,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 5,
-      "Асеев Владимир Михайлович": 641,
-      "Кандаков Сергей Викторович": 158,
-      "Ковалев Сергей Анатольевич": 15,
-      "Крепких Владимир Владимирович": 11,
-      "Кузьмин Игорь Викторович": 18,
-      "Мурзина Лариса Валентиновна": 10,
-      "Полякова Нина Борисовна": 14,
-      "Шустова Галина Степановна": 56,
-      "Против всех": 167
+      "gas:candidate-vibid:1001000195184": 5,
+      "gas:candidate-vibid:1001000226025": 641,
+      "gas:candidate-vibid:386300166794": 158,
+      "gas:candidate-vibid:1001000188030": 15,
+      "gas:candidate-vibid:386300166804": 11,
+      "gas:candidate-vibid:1001000136170": 18,
+      "gas:candidate-vibid:1001000114006": 10,
+      "gas:candidate-vibid:1001000126656": 14,
+      "gas:candidate-vibid:1001000121955": 56,
+      "special:against-all": 167
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066721&region=0&sub_region=0&type=429",
@@ -7594,16 +7594,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 9,
-      "Асеев Владимир Михайлович": 677,
-      "Кандаков Сергей Викторович": 126,
-      "Ковалев Сергей Анатольевич": 16,
-      "Крепких Владимир Владимирович": 8,
-      "Кузьмин Игорь Викторович": 34,
-      "Мурзина Лариса Валентиновна": 16,
-      "Полякова Нина Борисовна": 19,
-      "Шустова Галина Степановна": 60,
-      "Против всех": 141
+      "gas:candidate-vibid:1001000195184": 9,
+      "gas:candidate-vibid:1001000226025": 677,
+      "gas:candidate-vibid:386300166794": 126,
+      "gas:candidate-vibid:1001000188030": 16,
+      "gas:candidate-vibid:386300166804": 8,
+      "gas:candidate-vibid:1001000136170": 34,
+      "gas:candidate-vibid:1001000114006": 16,
+      "gas:candidate-vibid:1001000126656": 19,
+      "gas:candidate-vibid:1001000121955": 60,
+      "special:against-all": 141
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066721&region=0&sub_region=0&type=429",
@@ -7653,16 +7653,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 7,
-      "Асеев Владимир Михайлович": 574,
-      "Кандаков Сергей Викторович": 152,
-      "Ковалев Сергей Анатольевич": 10,
-      "Крепких Владимир Владимирович": 11,
-      "Кузьмин Игорь Викторович": 22,
-      "Мурзина Лариса Валентиновна": 14,
-      "Полякова Нина Борисовна": 18,
-      "Шустова Галина Степановна": 58,
-      "Против всех": 152
+      "gas:candidate-vibid:1001000195184": 7,
+      "gas:candidate-vibid:1001000226025": 574,
+      "gas:candidate-vibid:386300166794": 152,
+      "gas:candidate-vibid:1001000188030": 10,
+      "gas:candidate-vibid:386300166804": 11,
+      "gas:candidate-vibid:1001000136170": 22,
+      "gas:candidate-vibid:1001000114006": 14,
+      "gas:candidate-vibid:1001000126656": 18,
+      "gas:candidate-vibid:1001000121955": 58,
+      "special:against-all": 152
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066721&region=0&sub_region=0&type=429",
@@ -7712,16 +7712,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 10,
-      "Асеев Владимир Михайлович": 367,
-      "Кандаков Сергей Викторович": 83,
-      "Ковалев Сергей Анатольевич": 15,
-      "Крепких Владимир Владимирович": 15,
-      "Кузьмин Игорь Викторович": 28,
-      "Мурзина Лариса Валентиновна": 29,
-      "Полякова Нина Борисовна": 16,
-      "Шустова Галина Степановна": 57,
-      "Против всех": 143
+      "gas:candidate-vibid:1001000195184": 10,
+      "gas:candidate-vibid:1001000226025": 367,
+      "gas:candidate-vibid:386300166794": 83,
+      "gas:candidate-vibid:1001000188030": 15,
+      "gas:candidate-vibid:386300166804": 15,
+      "gas:candidate-vibid:1001000136170": 28,
+      "gas:candidate-vibid:1001000114006": 29,
+      "gas:candidate-vibid:1001000126656": 16,
+      "gas:candidate-vibid:1001000121955": 57,
+      "special:against-all": 143
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066721&region=0&sub_region=0&type=429",
@@ -7771,16 +7771,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 9,
-      "Асеев Владимир Михайлович": 588,
-      "Кандаков Сергей Викторович": 89,
-      "Ковалев Сергей Анатольевич": 34,
-      "Крепких Владимир Владимирович": 25,
-      "Кузьмин Игорь Викторович": 121,
-      "Мурзина Лариса Валентиновна": 20,
-      "Полякова Нина Борисовна": 17,
-      "Шустова Галина Степановна": 77,
-      "Против всех": 115
+      "gas:candidate-vibid:1001000195184": 9,
+      "gas:candidate-vibid:1001000226025": 588,
+      "gas:candidate-vibid:386300166794": 89,
+      "gas:candidate-vibid:1001000188030": 34,
+      "gas:candidate-vibid:386300166804": 25,
+      "gas:candidate-vibid:1001000136170": 121,
+      "gas:candidate-vibid:1001000114006": 20,
+      "gas:candidate-vibid:1001000126656": 17,
+      "gas:candidate-vibid:1001000121955": 77,
+      "special:against-all": 115
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066722&region=0&sub_region=0&type=429",
@@ -7830,16 +7830,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 8
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 1,
-      "Асеев Владимир Михайлович": 491,
-      "Кандаков Сергей Викторович": 80,
-      "Ковалев Сергей Анатольевич": 29,
-      "Крепких Владимир Владимирович": 18,
-      "Кузьмин Игорь Викторович": 101,
-      "Мурзина Лариса Валентиновна": 15,
-      "Полякова Нина Борисовна": 9,
-      "Шустова Галина Степановна": 65,
-      "Против всех": 114
+      "gas:candidate-vibid:1001000195184": 1,
+      "gas:candidate-vibid:1001000226025": 491,
+      "gas:candidate-vibid:386300166794": 80,
+      "gas:candidate-vibid:1001000188030": 29,
+      "gas:candidate-vibid:386300166804": 18,
+      "gas:candidate-vibid:1001000136170": 101,
+      "gas:candidate-vibid:1001000114006": 15,
+      "gas:candidate-vibid:1001000126656": 9,
+      "gas:candidate-vibid:1001000121955": 65,
+      "special:against-all": 114
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066722&region=0&sub_region=0&type=429",
@@ -7889,16 +7889,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 12,
-      "Асеев Владимир Михайлович": 687,
-      "Кандаков Сергей Викторович": 162,
-      "Ковалев Сергей Анатольевич": 50,
-      "Крепких Владимир Владимирович": 30,
-      "Кузьмин Игорь Викторович": 192,
-      "Мурзина Лариса Валентиновна": 20,
-      "Полякова Нина Борисовна": 16,
-      "Шустова Галина Степановна": 101,
-      "Против всех": 158
+      "gas:candidate-vibid:1001000195184": 12,
+      "gas:candidate-vibid:1001000226025": 687,
+      "gas:candidate-vibid:386300166794": 162,
+      "gas:candidate-vibid:1001000188030": 50,
+      "gas:candidate-vibid:386300166804": 30,
+      "gas:candidate-vibid:1001000136170": 192,
+      "gas:candidate-vibid:1001000114006": 20,
+      "gas:candidate-vibid:1001000126656": 16,
+      "gas:candidate-vibid:1001000121955": 101,
+      "special:against-all": 158
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066722&region=0&sub_region=0&type=429",
@@ -7948,16 +7948,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 7,
-      "Асеев Владимир Михайлович": 677,
-      "Кандаков Сергей Викторович": 135,
-      "Ковалев Сергей Анатольевич": 31,
-      "Крепких Владимир Владимирович": 17,
-      "Кузьмин Игорь Викторович": 135,
-      "Мурзина Лариса Валентиновна": 30,
-      "Полякова Нина Борисовна": 11,
-      "Шустова Галина Степановна": 65,
-      "Против всех": 133
+      "gas:candidate-vibid:1001000195184": 7,
+      "gas:candidate-vibid:1001000226025": 677,
+      "gas:candidate-vibid:386300166794": 135,
+      "gas:candidate-vibid:1001000188030": 31,
+      "gas:candidate-vibid:386300166804": 17,
+      "gas:candidate-vibid:1001000136170": 135,
+      "gas:candidate-vibid:1001000114006": 30,
+      "gas:candidate-vibid:1001000126656": 11,
+      "gas:candidate-vibid:1001000121955": 65,
+      "special:against-all": 133
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066722&region=0&sub_region=0&type=429",
@@ -8007,16 +8007,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 10,
-      "Асеев Владимир Михайлович": 749,
-      "Кандаков Сергей Викторович": 150,
-      "Ковалев Сергей Анатольевич": 23,
-      "Крепких Владимир Владимирович": 28,
-      "Кузьмин Игорь Викторович": 142,
-      "Мурзина Лариса Валентиновна": 28,
-      "Полякова Нина Борисовна": 21,
-      "Шустова Галина Степановна": 111,
-      "Против всех": 158
+      "gas:candidate-vibid:1001000195184": 10,
+      "gas:candidate-vibid:1001000226025": 749,
+      "gas:candidate-vibid:386300166794": 150,
+      "gas:candidate-vibid:1001000188030": 23,
+      "gas:candidate-vibid:386300166804": 28,
+      "gas:candidate-vibid:1001000136170": 142,
+      "gas:candidate-vibid:1001000114006": 28,
+      "gas:candidate-vibid:1001000126656": 21,
+      "gas:candidate-vibid:1001000121955": 111,
+      "special:against-all": 158
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066722&region=0&sub_region=0&type=429",
@@ -8066,16 +8066,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 13,
-      "Асеев Владимир Михайлович": 575,
-      "Кандаков Сергей Викторович": 121,
-      "Ковалев Сергей Анатольевич": 39,
-      "Крепких Владимир Владимирович": 15,
-      "Кузьмин Игорь Викторович": 108,
-      "Мурзина Лариса Валентиновна": 26,
-      "Полякова Нина Борисовна": 21,
-      "Шустова Галина Степановна": 105,
-      "Против всех": 128
+      "gas:candidate-vibid:1001000195184": 13,
+      "gas:candidate-vibid:1001000226025": 575,
+      "gas:candidate-vibid:386300166794": 121,
+      "gas:candidate-vibid:1001000188030": 39,
+      "gas:candidate-vibid:386300166804": 15,
+      "gas:candidate-vibid:1001000136170": 108,
+      "gas:candidate-vibid:1001000114006": 26,
+      "gas:candidate-vibid:1001000126656": 21,
+      "gas:candidate-vibid:1001000121955": 105,
+      "special:against-all": 128
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066722&region=0&sub_region=0&type=429",
@@ -8125,16 +8125,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 8,
-      "Асеев Владимир Михайлович": 832,
-      "Кандаков Сергей Викторович": 98,
-      "Ковалев Сергей Анатольевич": 49,
-      "Крепких Владимир Владимирович": 17,
-      "Кузьмин Игорь Викторович": 158,
-      "Мурзина Лариса Валентиновна": 33,
-      "Полякова Нина Борисовна": 22,
-      "Шустова Галина Степановна": 80,
-      "Против всех": 161
+      "gas:candidate-vibid:1001000195184": 8,
+      "gas:candidate-vibid:1001000226025": 832,
+      "gas:candidate-vibid:386300166794": 98,
+      "gas:candidate-vibid:1001000188030": 49,
+      "gas:candidate-vibid:386300166804": 17,
+      "gas:candidate-vibid:1001000136170": 158,
+      "gas:candidate-vibid:1001000114006": 33,
+      "gas:candidate-vibid:1001000126656": 22,
+      "gas:candidate-vibid:1001000121955": 80,
+      "special:against-all": 161
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066722&region=0&sub_region=0&type=429",
@@ -8184,16 +8184,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 14,
-      "Асеев Владимир Михайлович": 769,
-      "Кандаков Сергей Викторович": 111,
-      "Ковалев Сергей Анатольевич": 55,
-      "Крепких Владимир Владимирович": 22,
-      "Кузьмин Игорь Викторович": 173,
-      "Мурзина Лариса Валентиновна": 26,
-      "Полякова Нина Борисовна": 20,
-      "Шустова Галина Степановна": 110,
-      "Против всех": 161
+      "gas:candidate-vibid:1001000195184": 14,
+      "gas:candidate-vibid:1001000226025": 769,
+      "gas:candidate-vibid:386300166794": 111,
+      "gas:candidate-vibid:1001000188030": 55,
+      "gas:candidate-vibid:386300166804": 22,
+      "gas:candidate-vibid:1001000136170": 173,
+      "gas:candidate-vibid:1001000114006": 26,
+      "gas:candidate-vibid:1001000126656": 20,
+      "gas:candidate-vibid:1001000121955": 110,
+      "special:against-all": 161
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066722&region=0&sub_region=0&type=429",
@@ -8243,16 +8243,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 14,
-      "Асеев Владимир Михайлович": 712,
-      "Кандаков Сергей Викторович": 97,
-      "Ковалев Сергей Анатольевич": 38,
-      "Крепких Владимир Владимирович": 18,
-      "Кузьмин Игорь Викторович": 140,
-      "Мурзина Лариса Валентиновна": 22,
-      "Полякова Нина Борисовна": 9,
-      "Шустова Галина Степановна": 71,
-      "Против всех": 130
+      "gas:candidate-vibid:1001000195184": 14,
+      "gas:candidate-vibid:1001000226025": 712,
+      "gas:candidate-vibid:386300166794": 97,
+      "gas:candidate-vibid:1001000188030": 38,
+      "gas:candidate-vibid:386300166804": 18,
+      "gas:candidate-vibid:1001000136170": 140,
+      "gas:candidate-vibid:1001000114006": 22,
+      "gas:candidate-vibid:1001000126656": 9,
+      "gas:candidate-vibid:1001000121955": 71,
+      "special:against-all": 130
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066722&region=0&sub_region=0&type=429",
@@ -8302,16 +8302,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 3,
-      "Асеев Владимир Михайлович": 717,
-      "Кандаков Сергей Викторович": 129,
-      "Ковалев Сергей Анатольевич": 45,
-      "Крепких Владимир Владимирович": 21,
-      "Кузьмин Игорь Викторович": 131,
-      "Мурзина Лариса Валентиновна": 28,
-      "Полякова Нина Борисовна": 22,
-      "Шустова Галина Степановна": 88,
-      "Против всех": 123
+      "gas:candidate-vibid:1001000195184": 3,
+      "gas:candidate-vibid:1001000226025": 717,
+      "gas:candidate-vibid:386300166794": 129,
+      "gas:candidate-vibid:1001000188030": 45,
+      "gas:candidate-vibid:386300166804": 21,
+      "gas:candidate-vibid:1001000136170": 131,
+      "gas:candidate-vibid:1001000114006": 28,
+      "gas:candidate-vibid:1001000126656": 22,
+      "gas:candidate-vibid:1001000121955": 88,
+      "special:against-all": 123
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066722&region=0&sub_region=0&type=429",
@@ -8361,16 +8361,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 10,
-      "Асеев Владимир Михайлович": 350,
-      "Кандаков Сергей Викторович": 77,
-      "Ковалев Сергей Анатольевич": 12,
-      "Крепких Владимир Владимирович": 15,
-      "Кузьмин Игорь Викторович": 53,
-      "Мурзина Лариса Валентиновна": 15,
-      "Полякова Нина Борисовна": 7,
-      "Шустова Галина Степановна": 68,
-      "Против всех": 57
+      "gas:candidate-vibid:1001000195184": 10,
+      "gas:candidate-vibid:1001000226025": 350,
+      "gas:candidate-vibid:386300166794": 77,
+      "gas:candidate-vibid:1001000188030": 12,
+      "gas:candidate-vibid:386300166804": 15,
+      "gas:candidate-vibid:1001000136170": 53,
+      "gas:candidate-vibid:1001000114006": 15,
+      "gas:candidate-vibid:1001000126656": 7,
+      "gas:candidate-vibid:1001000121955": 68,
+      "special:against-all": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066722&region=0&sub_region=0&type=429",
@@ -8420,16 +8420,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 3,
-      "Асеев Владимир Михайлович": 187,
-      "Кандаков Сергей Викторович": 46,
-      "Ковалев Сергей Анатольевич": 8,
-      "Крепких Владимир Владимирович": 13,
-      "Кузьмин Игорь Викторович": 45,
-      "Мурзина Лариса Валентиновна": 12,
-      "Полякова Нина Борисовна": 10,
-      "Шустова Галина Степановна": 54,
-      "Против всех": 30
+      "gas:candidate-vibid:1001000195184": 3,
+      "gas:candidate-vibid:1001000226025": 187,
+      "gas:candidate-vibid:386300166794": 46,
+      "gas:candidate-vibid:1001000188030": 8,
+      "gas:candidate-vibid:386300166804": 13,
+      "gas:candidate-vibid:1001000136170": 45,
+      "gas:candidate-vibid:1001000114006": 12,
+      "gas:candidate-vibid:1001000126656": 10,
+      "gas:candidate-vibid:1001000121955": 54,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066722&region=0&sub_region=0&type=429",
@@ -8479,16 +8479,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 1,
-      "Асеев Владимир Михайлович": 161,
-      "Кандаков Сергей Викторович": 38,
-      "Ковалев Сергей Анатольевич": 4,
-      "Крепких Владимир Владимирович": 4,
-      "Кузьмин Игорь Викторович": 17,
-      "Мурзина Лариса Валентиновна": 8,
-      "Полякова Нина Борисовна": 5,
-      "Шустова Галина Степановна": 25,
-      "Против всех": 41
+      "gas:candidate-vibid:1001000195184": 1,
+      "gas:candidate-vibid:1001000226025": 161,
+      "gas:candidate-vibid:386300166794": 38,
+      "gas:candidate-vibid:1001000188030": 4,
+      "gas:candidate-vibid:386300166804": 4,
+      "gas:candidate-vibid:1001000136170": 17,
+      "gas:candidate-vibid:1001000114006": 8,
+      "gas:candidate-vibid:1001000126656": 5,
+      "gas:candidate-vibid:1001000121955": 25,
+      "special:against-all": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066722&region=0&sub_region=0&type=429",
@@ -8538,16 +8538,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 0,
-      "Асеев Владимир Михайлович": 76,
-      "Кандаков Сергей Викторович": 87,
-      "Ковалев Сергей Анатольевич": 9,
-      "Крепких Владимир Владимирович": 5,
-      "Кузьмин Игорь Викторович": 10,
-      "Мурзина Лариса Валентиновна": 4,
-      "Полякова Нина Борисовна": 7,
-      "Шустова Галина Степановна": 5,
-      "Против всех": 27
+      "gas:candidate-vibid:1001000195184": 0,
+      "gas:candidate-vibid:1001000226025": 76,
+      "gas:candidate-vibid:386300166794": 87,
+      "gas:candidate-vibid:1001000188030": 9,
+      "gas:candidate-vibid:386300166804": 5,
+      "gas:candidate-vibid:1001000136170": 10,
+      "gas:candidate-vibid:1001000114006": 4,
+      "gas:candidate-vibid:1001000126656": 7,
+      "gas:candidate-vibid:1001000121955": 5,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066723&region=0&sub_region=0&type=429",
@@ -8597,16 +8597,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 6,
-      "Асеев Владимир Михайлович": 392,
-      "Кандаков Сергей Викторович": 184,
-      "Ковалев Сергей Анатольевич": 7,
-      "Крепких Владимир Владимирович": 3,
-      "Кузьмин Игорь Викторович": 12,
-      "Мурзина Лариса Валентиновна": 6,
-      "Полякова Нина Борисовна": 25,
-      "Шустова Галина Степановна": 23,
-      "Против всех": 94
+      "gas:candidate-vibid:1001000195184": 6,
+      "gas:candidate-vibid:1001000226025": 392,
+      "gas:candidate-vibid:386300166794": 184,
+      "gas:candidate-vibid:1001000188030": 7,
+      "gas:candidate-vibid:386300166804": 3,
+      "gas:candidate-vibid:1001000136170": 12,
+      "gas:candidate-vibid:1001000114006": 6,
+      "gas:candidate-vibid:1001000126656": 25,
+      "gas:candidate-vibid:1001000121955": 23,
+      "special:against-all": 94
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066723&region=0&sub_region=0&type=429",
@@ -8656,16 +8656,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 5,
-      "Асеев Владимир Михайлович": 229,
-      "Кандаков Сергей Викторович": 128,
-      "Ковалев Сергей Анатольевич": 10,
-      "Крепких Владимир Владимирович": 4,
-      "Кузьмин Игорь Викторович": 9,
-      "Мурзина Лариса Валентиновна": 3,
-      "Полякова Нина Борисовна": 16,
-      "Шустова Галина Степановна": 5,
-      "Против всех": 50
+      "gas:candidate-vibid:1001000195184": 5,
+      "gas:candidate-vibid:1001000226025": 229,
+      "gas:candidate-vibid:386300166794": 128,
+      "gas:candidate-vibid:1001000188030": 10,
+      "gas:candidate-vibid:386300166804": 4,
+      "gas:candidate-vibid:1001000136170": 9,
+      "gas:candidate-vibid:1001000114006": 3,
+      "gas:candidate-vibid:1001000126656": 16,
+      "gas:candidate-vibid:1001000121955": 5,
+      "special:against-all": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066723&region=0&sub_region=0&type=429",
@@ -8715,16 +8715,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 10,
-      "Асеев Владимир Михайлович": 432,
-      "Кандаков Сергей Викторович": 390,
-      "Ковалев Сергей Анатольевич": 12,
-      "Крепких Владимир Владимирович": 10,
-      "Кузьмин Игорь Викторович": 22,
-      "Мурзина Лариса Валентиновна": 16,
-      "Полякова Нина Борисовна": 38,
-      "Шустова Галина Степановна": 24,
-      "Против всех": 157
+      "gas:candidate-vibid:1001000195184": 10,
+      "gas:candidate-vibid:1001000226025": 432,
+      "gas:candidate-vibid:386300166794": 390,
+      "gas:candidate-vibid:1001000188030": 12,
+      "gas:candidate-vibid:386300166804": 10,
+      "gas:candidate-vibid:1001000136170": 22,
+      "gas:candidate-vibid:1001000114006": 16,
+      "gas:candidate-vibid:1001000126656": 38,
+      "gas:candidate-vibid:1001000121955": 24,
+      "special:against-all": 157
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066723&region=0&sub_region=0&type=429",
@@ -8774,16 +8774,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 13,
-      "Асеев Владимир Михайлович": 507,
-      "Кандаков Сергей Викторович": 381,
-      "Ковалев Сергей Анатольевич": 10,
-      "Крепких Владимир Владимирович": 12,
-      "Кузьмин Игорь Викторович": 27,
-      "Мурзина Лариса Валентиновна": 15,
-      "Полякова Нина Борисовна": 49,
-      "Шустова Галина Степановна": 27,
-      "Против всех": 144
+      "gas:candidate-vibid:1001000195184": 13,
+      "gas:candidate-vibid:1001000226025": 507,
+      "gas:candidate-vibid:386300166794": 381,
+      "gas:candidate-vibid:1001000188030": 10,
+      "gas:candidate-vibid:386300166804": 12,
+      "gas:candidate-vibid:1001000136170": 27,
+      "gas:candidate-vibid:1001000114006": 15,
+      "gas:candidate-vibid:1001000126656": 49,
+      "gas:candidate-vibid:1001000121955": 27,
+      "special:against-all": 144
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066723&region=0&sub_region=0&type=429",
@@ -8833,16 +8833,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 9,
-      "Асеев Владимир Михайлович": 338,
-      "Кандаков Сергей Викторович": 289,
-      "Ковалев Сергей Анатольевич": 4,
-      "Крепких Владимир Владимирович": 6,
-      "Кузьмин Игорь Викторович": 14,
-      "Мурзина Лариса Валентиновна": 10,
-      "Полякова Нина Борисовна": 50,
-      "Шустова Галина Степановна": 11,
-      "Против всех": 94
+      "gas:candidate-vibid:1001000195184": 9,
+      "gas:candidate-vibid:1001000226025": 338,
+      "gas:candidate-vibid:386300166794": 289,
+      "gas:candidate-vibid:1001000188030": 4,
+      "gas:candidate-vibid:386300166804": 6,
+      "gas:candidate-vibid:1001000136170": 14,
+      "gas:candidate-vibid:1001000114006": 10,
+      "gas:candidate-vibid:1001000126656": 50,
+      "gas:candidate-vibid:1001000121955": 11,
+      "special:against-all": 94
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066723&region=0&sub_region=0&type=429",
@@ -8892,16 +8892,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 5,
-      "Асеев Владимир Михайлович": 400,
-      "Кандаков Сергей Викторович": 444,
-      "Ковалев Сергей Анатольевич": 20,
-      "Крепких Владимир Владимирович": 11,
-      "Кузьмин Игорь Викторович": 24,
-      "Мурзина Лариса Валентиновна": 14,
-      "Полякова Нина Борисовна": 72,
-      "Шустова Галина Степановна": 19,
-      "Против всех": 155
+      "gas:candidate-vibid:1001000195184": 5,
+      "gas:candidate-vibid:1001000226025": 400,
+      "gas:candidate-vibid:386300166794": 444,
+      "gas:candidate-vibid:1001000188030": 20,
+      "gas:candidate-vibid:386300166804": 11,
+      "gas:candidate-vibid:1001000136170": 24,
+      "gas:candidate-vibid:1001000114006": 14,
+      "gas:candidate-vibid:1001000126656": 72,
+      "gas:candidate-vibid:1001000121955": 19,
+      "special:against-all": 155
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066723&region=0&sub_region=0&type=429",
@@ -8951,16 +8951,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 5,
-      "Асеев Владимир Михайлович": 407,
-      "Кандаков Сергей Викторович": 429,
-      "Ковалев Сергей Анатольевич": 26,
-      "Крепких Владимир Владимирович": 12,
-      "Кузьмин Игорь Викторович": 25,
-      "Мурзина Лариса Валентиновна": 19,
-      "Полякова Нина Борисовна": 96,
-      "Шустова Галина Степановна": 40,
-      "Против всех": 148
+      "gas:candidate-vibid:1001000195184": 5,
+      "gas:candidate-vibid:1001000226025": 407,
+      "gas:candidate-vibid:386300166794": 429,
+      "gas:candidate-vibid:1001000188030": 26,
+      "gas:candidate-vibid:386300166804": 12,
+      "gas:candidate-vibid:1001000136170": 25,
+      "gas:candidate-vibid:1001000114006": 19,
+      "gas:candidate-vibid:1001000126656": 96,
+      "gas:candidate-vibid:1001000121955": 40,
+      "special:against-all": 148
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066723&region=0&sub_region=0&type=429",
@@ -9010,16 +9010,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 6,
-      "Асеев Владимир Михайлович": 115,
-      "Кандаков Сергей Викторович": 127,
-      "Ковалев Сергей Анатольевич": 31,
-      "Крепких Владимир Владимирович": 6,
-      "Кузьмин Игорь Викторович": 8,
-      "Мурзина Лариса Валентиновна": 8,
-      "Полякова Нина Борисовна": 18,
-      "Шустова Галина Степановна": 15,
-      "Против всех": 53
+      "gas:candidate-vibid:1001000195184": 6,
+      "gas:candidate-vibid:1001000226025": 115,
+      "gas:candidate-vibid:386300166794": 127,
+      "gas:candidate-vibid:1001000188030": 31,
+      "gas:candidate-vibid:386300166804": 6,
+      "gas:candidate-vibid:1001000136170": 8,
+      "gas:candidate-vibid:1001000114006": 8,
+      "gas:candidate-vibid:1001000126656": 18,
+      "gas:candidate-vibid:1001000121955": 15,
+      "special:against-all": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066723&region=0&sub_region=0&type=429",
@@ -9069,16 +9069,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 6,
-      "Асеев Владимир Михайлович": 150,
-      "Кандаков Сергей Викторович": 178,
-      "Ковалев Сергей Анатольевич": 9,
-      "Крепких Владимир Владимирович": 5,
-      "Кузьмин Игорь Викторович": 15,
-      "Мурзина Лариса Валентиновна": 7,
-      "Полякова Нина Борисовна": 15,
-      "Шустова Галина Степановна": 12,
-      "Против всех": 59
+      "gas:candidate-vibid:1001000195184": 6,
+      "gas:candidate-vibid:1001000226025": 150,
+      "gas:candidate-vibid:386300166794": 178,
+      "gas:candidate-vibid:1001000188030": 9,
+      "gas:candidate-vibid:386300166804": 5,
+      "gas:candidate-vibid:1001000136170": 15,
+      "gas:candidate-vibid:1001000114006": 7,
+      "gas:candidate-vibid:1001000126656": 15,
+      "gas:candidate-vibid:1001000121955": 12,
+      "special:against-all": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066723&region=0&sub_region=0&type=429",
@@ -9128,16 +9128,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 0,
-      "Асеев Владимир Михайлович": 181,
-      "Кандаков Сергей Викторович": 273,
-      "Ковалев Сергей Анатольевич": 11,
-      "Крепких Владимир Владимирович": 1,
-      "Кузьмин Игорь Викторович": 16,
-      "Мурзина Лариса Валентиновна": 15,
-      "Полякова Нина Борисовна": 20,
-      "Шустова Галина Степановна": 17,
-      "Против всех": 77
+      "gas:candidate-vibid:1001000195184": 0,
+      "gas:candidate-vibid:1001000226025": 181,
+      "gas:candidate-vibid:386300166794": 273,
+      "gas:candidate-vibid:1001000188030": 11,
+      "gas:candidate-vibid:386300166804": 1,
+      "gas:candidate-vibid:1001000136170": 16,
+      "gas:candidate-vibid:1001000114006": 15,
+      "gas:candidate-vibid:1001000126656": 20,
+      "gas:candidate-vibid:1001000121955": 17,
+      "special:against-all": 77
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066723&region=0&sub_region=0&type=429",
@@ -9187,16 +9187,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 5,
-      "Асеев Владимир Михайлович": 152,
-      "Кандаков Сергей Викторович": 70,
-      "Ковалев Сергей Анатольевич": 3,
-      "Крепких Владимир Владимирович": 2,
-      "Кузьмин Игорь Викторович": 4,
-      "Мурзина Лариса Валентиновна": 6,
-      "Полякова Нина Борисовна": 4,
-      "Шустова Галина Степановна": 9,
-      "Против всех": 35
+      "gas:candidate-vibid:1001000195184": 5,
+      "gas:candidate-vibid:1001000226025": 152,
+      "gas:candidate-vibid:386300166794": 70,
+      "gas:candidate-vibid:1001000188030": 3,
+      "gas:candidate-vibid:386300166804": 2,
+      "gas:candidate-vibid:1001000136170": 4,
+      "gas:candidate-vibid:1001000114006": 6,
+      "gas:candidate-vibid:1001000126656": 4,
+      "gas:candidate-vibid:1001000121955": 9,
+      "special:against-all": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066723&region=0&sub_region=0&type=429",
@@ -9246,16 +9246,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 15,
-      "Асеев Владимир Михайлович": 521,
-      "Кандаков Сергей Викторович": 583,
-      "Ковалев Сергей Анатольевич": 21,
-      "Крепких Владимир Владимирович": 10,
-      "Кузьмин Игорь Викторович": 28,
-      "Мурзина Лариса Валентиновна": 19,
-      "Полякова Нина Борисовна": 47,
-      "Шустова Галина Степановна": 29,
-      "Против всех": 182
+      "gas:candidate-vibid:1001000195184": 15,
+      "gas:candidate-vibid:1001000226025": 521,
+      "gas:candidate-vibid:386300166794": 583,
+      "gas:candidate-vibid:1001000188030": 21,
+      "gas:candidate-vibid:386300166804": 10,
+      "gas:candidate-vibid:1001000136170": 28,
+      "gas:candidate-vibid:1001000114006": 19,
+      "gas:candidate-vibid:1001000126656": 47,
+      "gas:candidate-vibid:1001000121955": 29,
+      "special:against-all": 182
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066723&region=0&sub_region=0&type=429",
@@ -9305,16 +9305,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 11,
-      "Асеев Владимир Михайлович": 535,
-      "Кандаков Сергей Викторович": 476,
-      "Ковалев Сергей Анатольевич": 13,
-      "Крепких Владимир Владимирович": 6,
-      "Кузьмин Игорь Викторович": 21,
-      "Мурзина Лариса Валентиновна": 16,
-      "Полякова Нина Борисовна": 36,
-      "Шустова Галина Степановна": 20,
-      "Против всех": 162
+      "gas:candidate-vibid:1001000195184": 11,
+      "gas:candidate-vibid:1001000226025": 535,
+      "gas:candidate-vibid:386300166794": 476,
+      "gas:candidate-vibid:1001000188030": 13,
+      "gas:candidate-vibid:386300166804": 6,
+      "gas:candidate-vibid:1001000136170": 21,
+      "gas:candidate-vibid:1001000114006": 16,
+      "gas:candidate-vibid:1001000126656": 36,
+      "gas:candidate-vibid:1001000121955": 20,
+      "special:against-all": 162
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066723&region=0&sub_region=0&type=429",
@@ -9364,16 +9364,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 17,
-      "Асеев Владимир Михайлович": 534,
-      "Кандаков Сергей Викторович": 533,
-      "Ковалев Сергей Анатольевич": 31,
-      "Крепких Владимир Владимирович": 15,
-      "Кузьмин Игорь Викторович": 20,
-      "Мурзина Лариса Валентиновна": 34,
-      "Полякова Нина Борисовна": 43,
-      "Шустова Галина Степановна": 17,
-      "Против всех": 166
+      "gas:candidate-vibid:1001000195184": 17,
+      "gas:candidate-vibid:1001000226025": 534,
+      "gas:candidate-vibid:386300166794": 533,
+      "gas:candidate-vibid:1001000188030": 31,
+      "gas:candidate-vibid:386300166804": 15,
+      "gas:candidate-vibid:1001000136170": 20,
+      "gas:candidate-vibid:1001000114006": 34,
+      "gas:candidate-vibid:1001000126656": 43,
+      "gas:candidate-vibid:1001000121955": 17,
+      "special:against-all": 166
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066723&region=0&sub_region=0&type=429",
@@ -9423,16 +9423,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 8,
-      "Асеев Владимир Михайлович": 483,
-      "Кандаков Сергей Викторович": 468,
-      "Ковалев Сергей Анатольевич": 17,
-      "Крепких Владимир Владимирович": 7,
-      "Кузьмин Игорь Викторович": 29,
-      "Мурзина Лариса Валентиновна": 25,
-      "Полякова Нина Борисовна": 40,
-      "Шустова Галина Степановна": 32,
-      "Против всех": 178
+      "gas:candidate-vibid:1001000195184": 8,
+      "gas:candidate-vibid:1001000226025": 483,
+      "gas:candidate-vibid:386300166794": 468,
+      "gas:candidate-vibid:1001000188030": 17,
+      "gas:candidate-vibid:386300166804": 7,
+      "gas:candidate-vibid:1001000136170": 29,
+      "gas:candidate-vibid:1001000114006": 25,
+      "gas:candidate-vibid:1001000126656": 40,
+      "gas:candidate-vibid:1001000121955": 32,
+      "special:against-all": 178
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066723&region=0&sub_region=0&type=429",
@@ -9482,16 +9482,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 10,
-      "Асеев Владимир Михайлович": 399,
-      "Кандаков Сергей Викторович": 414,
-      "Ковалев Сергей Анатольевич": 28,
-      "Крепких Владимир Владимирович": 10,
-      "Кузьмин Игорь Викторович": 23,
-      "Мурзина Лариса Валентиновна": 21,
-      "Полякова Нина Борисовна": 35,
-      "Шустова Галина Степановна": 25,
-      "Против всех": 160
+      "gas:candidate-vibid:1001000195184": 10,
+      "gas:candidate-vibid:1001000226025": 399,
+      "gas:candidate-vibid:386300166794": 414,
+      "gas:candidate-vibid:1001000188030": 28,
+      "gas:candidate-vibid:386300166804": 10,
+      "gas:candidate-vibid:1001000136170": 23,
+      "gas:candidate-vibid:1001000114006": 21,
+      "gas:candidate-vibid:1001000126656": 35,
+      "gas:candidate-vibid:1001000121955": 25,
+      "special:against-all": 160
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066723&region=0&sub_region=0&type=429",
@@ -9541,16 +9541,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 12,
-      "Асеев Владимир Михайлович": 408,
-      "Кандаков Сергей Викторович": 429,
-      "Ковалев Сергей Анатольевич": 21,
-      "Крепких Владимир Владимирович": 13,
-      "Кузьмин Игорь Викторович": 33,
-      "Мурзина Лариса Валентиновна": 12,
-      "Полякова Нина Борисовна": 28,
-      "Шустова Галина Степановна": 23,
-      "Против всех": 178
+      "gas:candidate-vibid:1001000195184": 12,
+      "gas:candidate-vibid:1001000226025": 408,
+      "gas:candidate-vibid:386300166794": 429,
+      "gas:candidate-vibid:1001000188030": 21,
+      "gas:candidate-vibid:386300166804": 13,
+      "gas:candidate-vibid:1001000136170": 33,
+      "gas:candidate-vibid:1001000114006": 12,
+      "gas:candidate-vibid:1001000126656": 28,
+      "gas:candidate-vibid:1001000121955": 23,
+      "special:against-all": 178
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066723&region=0&sub_region=0&type=429",
@@ -9600,16 +9600,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 13,
-      "Асеев Владимир Михайлович": 300,
-      "Кандаков Сергей Викторович": 340,
-      "Ковалев Сергей Анатольевич": 18,
-      "Крепких Владимир Владимирович": 11,
-      "Кузьмин Игорь Викторович": 17,
-      "Мурзина Лариса Валентиновна": 22,
-      "Полякова Нина Борисовна": 28,
-      "Шустова Галина Степановна": 29,
-      "Против всех": 128
+      "gas:candidate-vibid:1001000195184": 13,
+      "gas:candidate-vibid:1001000226025": 300,
+      "gas:candidate-vibid:386300166794": 340,
+      "gas:candidate-vibid:1001000188030": 18,
+      "gas:candidate-vibid:386300166804": 11,
+      "gas:candidate-vibid:1001000136170": 17,
+      "gas:candidate-vibid:1001000114006": 22,
+      "gas:candidate-vibid:1001000126656": 28,
+      "gas:candidate-vibid:1001000121955": 29,
+      "special:against-all": 128
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066723&region=0&sub_region=0&type=429",
@@ -9659,16 +9659,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 12,
-      "Асеев Владимир Михайлович": 455,
-      "Кандаков Сергей Викторович": 481,
-      "Ковалев Сергей Анатольевич": 18,
-      "Крепких Владимир Владимирович": 12,
-      "Кузьмин Игорь Викторович": 23,
-      "Мурзина Лариса Валентиновна": 13,
-      "Полякова Нина Борисовна": 32,
-      "Шустова Галина Степановна": 30,
-      "Против всех": 147
+      "gas:candidate-vibid:1001000195184": 12,
+      "gas:candidate-vibid:1001000226025": 455,
+      "gas:candidate-vibid:386300166794": 481,
+      "gas:candidate-vibid:1001000188030": 18,
+      "gas:candidate-vibid:386300166804": 12,
+      "gas:candidate-vibid:1001000136170": 23,
+      "gas:candidate-vibid:1001000114006": 13,
+      "gas:candidate-vibid:1001000126656": 32,
+      "gas:candidate-vibid:1001000121955": 30,
+      "special:against-all": 147
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066723&region=0&sub_region=0&type=429",
@@ -9718,16 +9718,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 7,
-      "Асеев Владимир Михайлович": 437,
-      "Кандаков Сергей Викторович": 503,
-      "Ковалев Сергей Анатольевич": 29,
-      "Крепких Владимир Владимирович": 9,
-      "Кузьмин Игорь Викторович": 29,
-      "Мурзина Лариса Валентиновна": 20,
-      "Полякова Нина Борисовна": 37,
-      "Шустова Галина Степановна": 33,
-      "Против всех": 152
+      "gas:candidate-vibid:1001000195184": 7,
+      "gas:candidate-vibid:1001000226025": 437,
+      "gas:candidate-vibid:386300166794": 503,
+      "gas:candidate-vibid:1001000188030": 29,
+      "gas:candidate-vibid:386300166804": 9,
+      "gas:candidate-vibid:1001000136170": 29,
+      "gas:candidate-vibid:1001000114006": 20,
+      "gas:candidate-vibid:1001000126656": 37,
+      "gas:candidate-vibid:1001000121955": 33,
+      "special:against-all": 152
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066723&region=0&sub_region=0&type=429",
@@ -9777,16 +9777,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 16,
-      "Асеев Владимир Михайлович": 394,
-      "Кандаков Сергей Викторович": 458,
-      "Ковалев Сергей Анатольевич": 25,
-      "Крепких Владимир Владимирович": 14,
-      "Кузьмин Игорь Викторович": 28,
-      "Мурзина Лариса Валентиновна": 17,
-      "Полякова Нина Борисовна": 29,
-      "Шустова Галина Степановна": 27,
-      "Против всех": 163
+      "gas:candidate-vibid:1001000195184": 16,
+      "gas:candidate-vibid:1001000226025": 394,
+      "gas:candidate-vibid:386300166794": 458,
+      "gas:candidate-vibid:1001000188030": 25,
+      "gas:candidate-vibid:386300166804": 14,
+      "gas:candidate-vibid:1001000136170": 28,
+      "gas:candidate-vibid:1001000114006": 17,
+      "gas:candidate-vibid:1001000126656": 29,
+      "gas:candidate-vibid:1001000121955": 27,
+      "special:against-all": 163
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066723&region=0&sub_region=0&type=429",
@@ -9836,16 +9836,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 2,
-      "Асеев Владимир Михайлович": 188,
-      "Кандаков Сергей Викторович": 159,
-      "Ковалев Сергей Анатольевич": 8,
-      "Крепких Владимир Владимирович": 2,
-      "Кузьмин Игорь Викторович": 2,
-      "Мурзина Лариса Валентиновна": 8,
-      "Полякова Нина Борисовна": 13,
-      "Шустова Галина Степановна": 17,
-      "Против всех": 85
+      "gas:candidate-vibid:1001000195184": 2,
+      "gas:candidate-vibid:1001000226025": 188,
+      "gas:candidate-vibid:386300166794": 159,
+      "gas:candidate-vibid:1001000188030": 8,
+      "gas:candidate-vibid:386300166804": 2,
+      "gas:candidate-vibid:1001000136170": 2,
+      "gas:candidate-vibid:1001000114006": 8,
+      "gas:candidate-vibid:1001000126656": 13,
+      "gas:candidate-vibid:1001000121955": 17,
+      "special:against-all": 85
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066723&region=0&sub_region=0&type=429",
@@ -9895,16 +9895,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 3,
-      "Асеев Владимир Михайлович": 421,
-      "Кандаков Сергей Викторович": 433,
-      "Ковалев Сергей Анатольевич": 23,
-      "Крепких Владимир Владимирович": 6,
-      "Кузьмин Игорь Викторович": 21,
-      "Мурзина Лариса Валентиновна": 21,
-      "Полякова Нина Борисовна": 35,
-      "Шустова Галина Степановна": 15,
-      "Против всех": 139
+      "gas:candidate-vibid:1001000195184": 3,
+      "gas:candidate-vibid:1001000226025": 421,
+      "gas:candidate-vibid:386300166794": 433,
+      "gas:candidate-vibid:1001000188030": 23,
+      "gas:candidate-vibid:386300166804": 6,
+      "gas:candidate-vibid:1001000136170": 21,
+      "gas:candidate-vibid:1001000114006": 21,
+      "gas:candidate-vibid:1001000126656": 35,
+      "gas:candidate-vibid:1001000121955": 15,
+      "special:against-all": 139
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066723&region=0&sub_region=0&type=429",
@@ -9954,16 +9954,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 16,
-      "Асеев Владимир Михайлович": 314,
-      "Кандаков Сергей Викторович": 330,
-      "Ковалев Сергей Анатольевич": 8,
-      "Крепких Владимир Владимирович": 7,
-      "Кузьмин Игорь Викторович": 34,
-      "Мурзина Лариса Валентиновна": 22,
-      "Полякова Нина Борисовна": 33,
-      "Шустова Галина Степановна": 20,
-      "Против всех": 138
+      "gas:candidate-vibid:1001000195184": 16,
+      "gas:candidate-vibid:1001000226025": 314,
+      "gas:candidate-vibid:386300166794": 330,
+      "gas:candidate-vibid:1001000188030": 8,
+      "gas:candidate-vibid:386300166804": 7,
+      "gas:candidate-vibid:1001000136170": 34,
+      "gas:candidate-vibid:1001000114006": 22,
+      "gas:candidate-vibid:1001000126656": 33,
+      "gas:candidate-vibid:1001000121955": 20,
+      "special:against-all": 138
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066723&region=0&sub_region=0&type=429",
@@ -10013,16 +10013,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 13,
-      "Асеев Владимир Михайлович": 526,
-      "Кандаков Сергей Викторович": 537,
-      "Ковалев Сергей Анатольевич": 23,
-      "Крепких Владимир Владимирович": 13,
-      "Кузьмин Игорь Викторович": 28,
-      "Мурзина Лариса Валентиновна": 25,
-      "Полякова Нина Борисовна": 39,
-      "Шустова Галина Степановна": 42,
-      "Против всех": 157
+      "gas:candidate-vibid:1001000195184": 13,
+      "gas:candidate-vibid:1001000226025": 526,
+      "gas:candidate-vibid:386300166794": 537,
+      "gas:candidate-vibid:1001000188030": 23,
+      "gas:candidate-vibid:386300166804": 13,
+      "gas:candidate-vibid:1001000136170": 28,
+      "gas:candidate-vibid:1001000114006": 25,
+      "gas:candidate-vibid:1001000126656": 39,
+      "gas:candidate-vibid:1001000121955": 42,
+      "special:against-all": 157
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066723&region=0&sub_region=0&type=429",
@@ -10072,16 +10072,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 9,
-      "Асеев Владимир Михайлович": 383,
-      "Кандаков Сергей Викторович": 414,
-      "Ковалев Сергей Анатольевич": 20,
-      "Крепких Владимир Владимирович": 3,
-      "Кузьмин Игорь Викторович": 12,
-      "Мурзина Лариса Валентиновна": 14,
-      "Полякова Нина Борисовна": 22,
-      "Шустова Галина Степановна": 16,
-      "Против всех": 122
+      "gas:candidate-vibid:1001000195184": 9,
+      "gas:candidate-vibid:1001000226025": 383,
+      "gas:candidate-vibid:386300166794": 414,
+      "gas:candidate-vibid:1001000188030": 20,
+      "gas:candidate-vibid:386300166804": 3,
+      "gas:candidate-vibid:1001000136170": 12,
+      "gas:candidate-vibid:1001000114006": 14,
+      "gas:candidate-vibid:1001000126656": 22,
+      "gas:candidate-vibid:1001000121955": 16,
+      "special:against-all": 122
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066723&region=0&sub_region=0&type=429",
@@ -10131,16 +10131,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 5,
-      "Асеев Владимир Михайлович": 226,
-      "Кандаков Сергей Викторович": 298,
-      "Ковалев Сергей Анатольевич": 7,
-      "Крепких Владимир Владимирович": 9,
-      "Кузьмин Игорь Викторович": 13,
-      "Мурзина Лариса Валентиновна": 10,
-      "Полякова Нина Борисовна": 16,
-      "Шустова Галина Степановна": 14,
-      "Против всех": 85
+      "gas:candidate-vibid:1001000195184": 5,
+      "gas:candidate-vibid:1001000226025": 226,
+      "gas:candidate-vibid:386300166794": 298,
+      "gas:candidate-vibid:1001000188030": 7,
+      "gas:candidate-vibid:386300166804": 9,
+      "gas:candidate-vibid:1001000136170": 13,
+      "gas:candidate-vibid:1001000114006": 10,
+      "gas:candidate-vibid:1001000126656": 16,
+      "gas:candidate-vibid:1001000121955": 14,
+      "special:against-all": 85
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066723&region=0&sub_region=0&type=429",
@@ -10190,16 +10190,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 11,
-      "Асеев Владимир Михайлович": 460,
-      "Кандаков Сергей Викторович": 610,
-      "Ковалев Сергей Анатольевич": 19,
-      "Крепких Владимир Владимирович": 7,
-      "Кузьмин Игорь Викторович": 21,
-      "Мурзина Лариса Валентиновна": 20,
-      "Полякова Нина Борисовна": 42,
-      "Шустова Галина Степановна": 26,
-      "Против всех": 202
+      "gas:candidate-vibid:1001000195184": 11,
+      "gas:candidate-vibid:1001000226025": 460,
+      "gas:candidate-vibid:386300166794": 610,
+      "gas:candidate-vibid:1001000188030": 19,
+      "gas:candidate-vibid:386300166804": 7,
+      "gas:candidate-vibid:1001000136170": 21,
+      "gas:candidate-vibid:1001000114006": 20,
+      "gas:candidate-vibid:1001000126656": 42,
+      "gas:candidate-vibid:1001000121955": 26,
+      "special:against-all": 202
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066723&region=0&sub_region=0&type=429",
@@ -10249,16 +10249,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 4,
-      "Асеев Владимир Михайлович": 492,
-      "Кандаков Сергей Викторович": 532,
-      "Ковалев Сергей Анатольевич": 20,
-      "Крепких Владимир Владимирович": 10,
-      "Кузьмин Игорь Викторович": 27,
-      "Мурзина Лариса Валентиновна": 20,
-      "Полякова Нина Борисовна": 49,
-      "Шустова Галина Степановна": 21,
-      "Против всех": 187
+      "gas:candidate-vibid:1001000195184": 4,
+      "gas:candidate-vibid:1001000226025": 492,
+      "gas:candidate-vibid:386300166794": 532,
+      "gas:candidate-vibid:1001000188030": 20,
+      "gas:candidate-vibid:386300166804": 10,
+      "gas:candidate-vibid:1001000136170": 27,
+      "gas:candidate-vibid:1001000114006": 20,
+      "gas:candidate-vibid:1001000126656": 49,
+      "gas:candidate-vibid:1001000121955": 21,
+      "special:against-all": 187
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066723&region=0&sub_region=0&type=429",
@@ -10308,16 +10308,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 12,
-      "Асеев Владимир Михайлович": 424,
-      "Кандаков Сергей Викторович": 502,
-      "Ковалев Сергей Анатольевич": 23,
-      "Крепких Владимир Владимирович": 5,
-      "Кузьмин Игорь Викторович": 17,
-      "Мурзина Лариса Валентиновна": 20,
-      "Полякова Нина Борисовна": 32,
-      "Шустова Галина Степановна": 26,
-      "Против всех": 157
+      "gas:candidate-vibid:1001000195184": 12,
+      "gas:candidate-vibid:1001000226025": 424,
+      "gas:candidate-vibid:386300166794": 502,
+      "gas:candidate-vibid:1001000188030": 23,
+      "gas:candidate-vibid:386300166804": 5,
+      "gas:candidate-vibid:1001000136170": 17,
+      "gas:candidate-vibid:1001000114006": 20,
+      "gas:candidate-vibid:1001000126656": 32,
+      "gas:candidate-vibid:1001000121955": 26,
+      "special:against-all": 157
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066723&region=0&sub_region=0&type=429",
@@ -10367,16 +10367,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 7,
-      "Асеев Владимир Михайлович": 358,
-      "Кандаков Сергей Викторович": 430,
-      "Ковалев Сергей Анатольевич": 9,
-      "Крепких Владимир Владимирович": 7,
-      "Кузьмин Игорь Викторович": 20,
-      "Мурзина Лариса Валентиновна": 16,
-      "Полякова Нина Борисовна": 25,
-      "Шустова Галина Степановна": 23,
-      "Против всех": 121
+      "gas:candidate-vibid:1001000195184": 7,
+      "gas:candidate-vibid:1001000226025": 358,
+      "gas:candidate-vibid:386300166794": 430,
+      "gas:candidate-vibid:1001000188030": 9,
+      "gas:candidate-vibid:386300166804": 7,
+      "gas:candidate-vibid:1001000136170": 20,
+      "gas:candidate-vibid:1001000114006": 16,
+      "gas:candidate-vibid:1001000126656": 25,
+      "gas:candidate-vibid:1001000121955": 23,
+      "special:against-all": 121
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066723&region=0&sub_region=0&type=429",
@@ -10426,16 +10426,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 7,
-      "Асеев Владимир Михайлович": 397,
-      "Кандаков Сергей Викторович": 459,
-      "Ковалев Сергей Анатольевич": 22,
-      "Крепких Владимир Владимирович": 0,
-      "Кузьмин Игорь Викторович": 14,
-      "Мурзина Лариса Валентиновна": 22,
-      "Полякова Нина Борисовна": 30,
-      "Шустова Галина Степановна": 36,
-      "Против всех": 123
+      "gas:candidate-vibid:1001000195184": 7,
+      "gas:candidate-vibid:1001000226025": 397,
+      "gas:candidate-vibid:386300166794": 459,
+      "gas:candidate-vibid:1001000188030": 22,
+      "gas:candidate-vibid:386300166804": 0,
+      "gas:candidate-vibid:1001000136170": 14,
+      "gas:candidate-vibid:1001000114006": 22,
+      "gas:candidate-vibid:1001000126656": 30,
+      "gas:candidate-vibid:1001000121955": 36,
+      "special:against-all": 123
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066723&region=0&sub_region=0&type=429",
@@ -10485,16 +10485,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 7,
-      "Асеев Владимир Михайлович": 476,
-      "Кандаков Сергей Викторович": 477,
-      "Ковалев Сергей Анатольевич": 20,
-      "Крепких Владимир Владимирович": 9,
-      "Кузьмин Игорь Викторович": 19,
-      "Мурзина Лариса Валентиновна": 15,
-      "Полякова Нина Борисовна": 40,
-      "Шустова Галина Степановна": 25,
-      "Против всех": 151
+      "gas:candidate-vibid:1001000195184": 7,
+      "gas:candidate-vibid:1001000226025": 476,
+      "gas:candidate-vibid:386300166794": 477,
+      "gas:candidate-vibid:1001000188030": 20,
+      "gas:candidate-vibid:386300166804": 9,
+      "gas:candidate-vibid:1001000136170": 19,
+      "gas:candidate-vibid:1001000114006": 15,
+      "gas:candidate-vibid:1001000126656": 40,
+      "gas:candidate-vibid:1001000121955": 25,
+      "special:against-all": 151
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066723&region=0&sub_region=0&type=429",
@@ -10544,16 +10544,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 9,
-      "Асеев Владимир Михайлович": 321,
-      "Кандаков Сергей Викторович": 319,
-      "Ковалев Сергей Анатольевич": 9,
-      "Крепких Владимир Владимирович": 8,
-      "Кузьмин Игорь Викторович": 7,
-      "Мурзина Лариса Валентиновна": 8,
-      "Полякова Нина Борисовна": 10,
-      "Шустова Галина Степановна": 12,
-      "Против всех": 100
+      "gas:candidate-vibid:1001000195184": 9,
+      "gas:candidate-vibid:1001000226025": 321,
+      "gas:candidate-vibid:386300166794": 319,
+      "gas:candidate-vibid:1001000188030": 9,
+      "gas:candidate-vibid:386300166804": 8,
+      "gas:candidate-vibid:1001000136170": 7,
+      "gas:candidate-vibid:1001000114006": 8,
+      "gas:candidate-vibid:1001000126656": 10,
+      "gas:candidate-vibid:1001000121955": 12,
+      "special:against-all": 100
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066723&region=0&sub_region=0&type=429",
@@ -10603,16 +10603,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 6,
-      "Асеев Владимир Михайлович": 465,
-      "Кандаков Сергей Викторович": 465,
-      "Ковалев Сергей Анатольевич": 14,
-      "Крепких Владимир Владимирович": 10,
-      "Кузьмин Игорь Викторович": 14,
-      "Мурзина Лариса Валентиновна": 20,
-      "Полякова Нина Борисовна": 31,
-      "Шустова Галина Степановна": 22,
-      "Против всех": 150
+      "gas:candidate-vibid:1001000195184": 6,
+      "gas:candidate-vibid:1001000226025": 465,
+      "gas:candidate-vibid:386300166794": 465,
+      "gas:candidate-vibid:1001000188030": 14,
+      "gas:candidate-vibid:386300166804": 10,
+      "gas:candidate-vibid:1001000136170": 14,
+      "gas:candidate-vibid:1001000114006": 20,
+      "gas:candidate-vibid:1001000126656": 31,
+      "gas:candidate-vibid:1001000121955": 22,
+      "special:against-all": 150
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066723&region=0&sub_region=0&type=429",
@@ -10662,16 +10662,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 8,
-      "Асеев Владимир Михайлович": 450,
-      "Кандаков Сергей Викторович": 428,
-      "Ковалев Сергей Анатольевич": 15,
-      "Крепких Владимир Владимирович": 7,
-      "Кузьмин Игорь Викторович": 32,
-      "Мурзина Лариса Валентиновна": 22,
-      "Полякова Нина Борисовна": 36,
-      "Шустова Галина Степановна": 35,
-      "Против всех": 180
+      "gas:candidate-vibid:1001000195184": 8,
+      "gas:candidate-vibid:1001000226025": 450,
+      "gas:candidate-vibid:386300166794": 428,
+      "gas:candidate-vibid:1001000188030": 15,
+      "gas:candidate-vibid:386300166804": 7,
+      "gas:candidate-vibid:1001000136170": 32,
+      "gas:candidate-vibid:1001000114006": 22,
+      "gas:candidate-vibid:1001000126656": 36,
+      "gas:candidate-vibid:1001000121955": 35,
+      "special:against-all": 180
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066723&region=0&sub_region=0&type=429",
@@ -10721,16 +10721,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 6,
-      "Асеев Владимир Михайлович": 556,
-      "Кандаков Сергей Викторович": 526,
-      "Ковалев Сергей Анатольевич": 39,
-      "Крепких Владимир Владимирович": 8,
-      "Кузьмин Игорь Викторович": 23,
-      "Мурзина Лариса Валентиновна": 17,
-      "Полякова Нина Борисовна": 32,
-      "Шустова Галина Степановна": 25,
-      "Против всех": 155
+      "gas:candidate-vibid:1001000195184": 6,
+      "gas:candidate-vibid:1001000226025": 556,
+      "gas:candidate-vibid:386300166794": 526,
+      "gas:candidate-vibid:1001000188030": 39,
+      "gas:candidate-vibid:386300166804": 8,
+      "gas:candidate-vibid:1001000136170": 23,
+      "gas:candidate-vibid:1001000114006": 17,
+      "gas:candidate-vibid:1001000126656": 32,
+      "gas:candidate-vibid:1001000121955": 25,
+      "special:against-all": 155
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066723&region=0&sub_region=0&type=429",
@@ -10780,16 +10780,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 10,
-      "Асеев Владимир Михайлович": 296,
-      "Кандаков Сергей Викторович": 398,
-      "Ковалев Сергей Анатольевич": 16,
-      "Крепких Владимир Владимирович": 2,
-      "Кузьмин Игорь Викторович": 15,
-      "Мурзина Лариса Валентиновна": 16,
-      "Полякова Нина Борисовна": 20,
-      "Шустова Галина Степановна": 18,
-      "Против всех": 121
+      "gas:candidate-vibid:1001000195184": 10,
+      "gas:candidate-vibid:1001000226025": 296,
+      "gas:candidate-vibid:386300166794": 398,
+      "gas:candidate-vibid:1001000188030": 16,
+      "gas:candidate-vibid:386300166804": 2,
+      "gas:candidate-vibid:1001000136170": 15,
+      "gas:candidate-vibid:1001000114006": 16,
+      "gas:candidate-vibid:1001000126656": 20,
+      "gas:candidate-vibid:1001000121955": 18,
+      "special:against-all": 121
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066723&region=0&sub_region=0&type=429",
@@ -10839,16 +10839,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 9,
-      "Асеев Владимир Михайлович": 477,
-      "Кандаков Сергей Викторович": 592,
-      "Ковалев Сергей Анатольевич": 20,
-      "Крепких Владимир Владимирович": 8,
-      "Кузьмин Игорь Викторович": 22,
-      "Мурзина Лариса Валентиновна": 24,
-      "Полякова Нина Борисовна": 40,
-      "Шустова Галина Степановна": 25,
-      "Против всех": 197
+      "gas:candidate-vibid:1001000195184": 9,
+      "gas:candidate-vibid:1001000226025": 477,
+      "gas:candidate-vibid:386300166794": 592,
+      "gas:candidate-vibid:1001000188030": 20,
+      "gas:candidate-vibid:386300166804": 8,
+      "gas:candidate-vibid:1001000136170": 22,
+      "gas:candidate-vibid:1001000114006": 24,
+      "gas:candidate-vibid:1001000126656": 40,
+      "gas:candidate-vibid:1001000121955": 25,
+      "special:against-all": 197
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066723&region=0&sub_region=0&type=429",
@@ -10898,16 +10898,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 15,
-      "Асеев Владимир Михайлович": 550,
-      "Кандаков Сергей Викторович": 572,
-      "Ковалев Сергей Анатольевич": 24,
-      "Крепких Владимир Владимирович": 12,
-      "Кузьмин Игорь Викторович": 27,
-      "Мурзина Лариса Валентиновна": 30,
-      "Полякова Нина Борисовна": 34,
-      "Шустова Галина Степановна": 31,
-      "Против всех": 206
+      "gas:candidate-vibid:1001000195184": 15,
+      "gas:candidate-vibid:1001000226025": 550,
+      "gas:candidate-vibid:386300166794": 572,
+      "gas:candidate-vibid:1001000188030": 24,
+      "gas:candidate-vibid:386300166804": 12,
+      "gas:candidate-vibid:1001000136170": 27,
+      "gas:candidate-vibid:1001000114006": 30,
+      "gas:candidate-vibid:1001000126656": 34,
+      "gas:candidate-vibid:1001000121955": 31,
+      "special:against-all": 206
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066723&region=0&sub_region=0&type=429",
@@ -10957,16 +10957,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 9,
-      "Асеев Владимир Михайлович": 523,
-      "Кандаков Сергей Викторович": 617,
-      "Ковалев Сергей Анатольевич": 22,
-      "Крепких Владимир Владимирович": 16,
-      "Кузьмин Игорь Викторович": 22,
-      "Мурзина Лариса Валентиновна": 25,
-      "Полякова Нина Борисовна": 37,
-      "Шустова Галина Степановна": 25,
-      "Против всех": 177
+      "gas:candidate-vibid:1001000195184": 9,
+      "gas:candidate-vibid:1001000226025": 523,
+      "gas:candidate-vibid:386300166794": 617,
+      "gas:candidate-vibid:1001000188030": 22,
+      "gas:candidate-vibid:386300166804": 16,
+      "gas:candidate-vibid:1001000136170": 22,
+      "gas:candidate-vibid:1001000114006": 25,
+      "gas:candidate-vibid:1001000126656": 37,
+      "gas:candidate-vibid:1001000121955": 25,
+      "special:against-all": 177
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066723&region=0&sub_region=0&type=429",
@@ -11016,16 +11016,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 5,
-      "Асеев Владимир Михайлович": 453,
-      "Кандаков Сергей Викторович": 557,
-      "Ковалев Сергей Анатольевич": 23,
-      "Крепких Владимир Владимирович": 12,
-      "Кузьмин Игорь Викторович": 25,
-      "Мурзина Лариса Валентиновна": 20,
-      "Полякова Нина Борисовна": 39,
-      "Шустова Галина Степановна": 19,
-      "Против всех": 160
+      "gas:candidate-vibid:1001000195184": 5,
+      "gas:candidate-vibid:1001000226025": 453,
+      "gas:candidate-vibid:386300166794": 557,
+      "gas:candidate-vibid:1001000188030": 23,
+      "gas:candidate-vibid:386300166804": 12,
+      "gas:candidate-vibid:1001000136170": 25,
+      "gas:candidate-vibid:1001000114006": 20,
+      "gas:candidate-vibid:1001000126656": 39,
+      "gas:candidate-vibid:1001000121955": 19,
+      "special:against-all": 160
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066723&region=0&sub_region=0&type=429",
@@ -11075,16 +11075,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 11,
-      "Асеев Владимир Михайлович": 417,
-      "Кандаков Сергей Викторович": 540,
-      "Ковалев Сергей Анатольевич": 24,
-      "Крепких Владимир Владимирович": 20,
-      "Кузьмин Игорь Викторович": 21,
-      "Мурзина Лариса Валентиновна": 15,
-      "Полякова Нина Борисовна": 44,
-      "Шустова Галина Степановна": 34,
-      "Против всех": 210
+      "gas:candidate-vibid:1001000195184": 11,
+      "gas:candidate-vibid:1001000226025": 417,
+      "gas:candidate-vibid:386300166794": 540,
+      "gas:candidate-vibid:1001000188030": 24,
+      "gas:candidate-vibid:386300166804": 20,
+      "gas:candidate-vibid:1001000136170": 21,
+      "gas:candidate-vibid:1001000114006": 15,
+      "gas:candidate-vibid:1001000126656": 44,
+      "gas:candidate-vibid:1001000121955": 34,
+      "special:against-all": 210
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066723&region=0&sub_region=0&type=429",
@@ -11134,16 +11134,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 8,
-      "Асеев Владимир Михайлович": 356,
-      "Кандаков Сергей Викторович": 538,
-      "Ковалев Сергей Анатольевич": 12,
-      "Крепких Владимир Владимирович": 4,
-      "Кузьмин Игорь Викторович": 24,
-      "Мурзина Лариса Валентиновна": 20,
-      "Полякова Нина Борисовна": 31,
-      "Шустова Галина Степановна": 14,
-      "Против всех": 174
+      "gas:candidate-vibid:1001000195184": 8,
+      "gas:candidate-vibid:1001000226025": 356,
+      "gas:candidate-vibid:386300166794": 538,
+      "gas:candidate-vibid:1001000188030": 12,
+      "gas:candidate-vibid:386300166804": 4,
+      "gas:candidate-vibid:1001000136170": 24,
+      "gas:candidate-vibid:1001000114006": 20,
+      "gas:candidate-vibid:1001000126656": 31,
+      "gas:candidate-vibid:1001000121955": 14,
+      "special:against-all": 174
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066723&region=0&sub_region=0&type=429",
@@ -11193,16 +11193,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 3,
-      "Асеев Владимир Михайлович": 337,
-      "Кандаков Сергей Викторович": 437,
-      "Ковалев Сергей Анатольевич": 19,
-      "Крепких Владимир Владимирович": 9,
-      "Кузьмин Игорь Викторович": 22,
-      "Мурзина Лариса Валентиновна": 22,
-      "Полякова Нина Борисовна": 32,
-      "Шустова Галина Степановна": 18,
-      "Против всех": 127
+      "gas:candidate-vibid:1001000195184": 3,
+      "gas:candidate-vibid:1001000226025": 337,
+      "gas:candidate-vibid:386300166794": 437,
+      "gas:candidate-vibid:1001000188030": 19,
+      "gas:candidate-vibid:386300166804": 9,
+      "gas:candidate-vibid:1001000136170": 22,
+      "gas:candidate-vibid:1001000114006": 22,
+      "gas:candidate-vibid:1001000126656": 32,
+      "gas:candidate-vibid:1001000121955": 18,
+      "special:against-all": 127
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066723&region=0&sub_region=0&type=429",
@@ -11252,16 +11252,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 6,
-      "Асеев Владимир Михайлович": 324,
-      "Кандаков Сергей Викторович": 528,
-      "Ковалев Сергей Анатольевич": 11,
-      "Крепких Владимир Владимирович": 8,
-      "Кузьмин Игорь Викторович": 15,
-      "Мурзина Лариса Валентиновна": 27,
-      "Полякова Нина Борисовна": 47,
-      "Шустова Галина Степановна": 29,
-      "Против всех": 163
+      "gas:candidate-vibid:1001000195184": 6,
+      "gas:candidate-vibid:1001000226025": 324,
+      "gas:candidate-vibid:386300166794": 528,
+      "gas:candidate-vibid:1001000188030": 11,
+      "gas:candidate-vibid:386300166804": 8,
+      "gas:candidate-vibid:1001000136170": 15,
+      "gas:candidate-vibid:1001000114006": 27,
+      "gas:candidate-vibid:1001000126656": 47,
+      "gas:candidate-vibid:1001000121955": 29,
+      "special:against-all": 163
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066723&region=0&sub_region=0&type=429",
@@ -11311,16 +11311,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 11,
-      "Асеев Владимир Михайлович": 389,
-      "Кандаков Сергей Викторович": 553,
-      "Ковалев Сергей Анатольевич": 20,
-      "Крепких Владимир Владимирович": 14,
-      "Кузьмин Игорь Викторович": 26,
-      "Мурзина Лариса Валентиновна": 16,
-      "Полякова Нина Борисовна": 34,
-      "Шустова Галина Степановна": 25,
-      "Против всех": 179
+      "gas:candidate-vibid:1001000195184": 11,
+      "gas:candidate-vibid:1001000226025": 389,
+      "gas:candidate-vibid:386300166794": 553,
+      "gas:candidate-vibid:1001000188030": 20,
+      "gas:candidate-vibid:386300166804": 14,
+      "gas:candidate-vibid:1001000136170": 26,
+      "gas:candidate-vibid:1001000114006": 16,
+      "gas:candidate-vibid:1001000126656": 34,
+      "gas:candidate-vibid:1001000121955": 25,
+      "special:against-all": 179
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066723&region=0&sub_region=0&type=429",
@@ -11370,16 +11370,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 5,
-      "Асеев Владимир Михайлович": 283,
-      "Кандаков Сергей Викторович": 429,
-      "Ковалев Сергей Анатольевич": 24,
-      "Крепких Владимир Владимирович": 17,
-      "Кузьмин Игорь Викторович": 30,
-      "Мурзина Лариса Валентиновна": 18,
-      "Полякова Нина Борисовна": 36,
-      "Шустова Галина Степановна": 18,
-      "Против всех": 163
+      "gas:candidate-vibid:1001000195184": 5,
+      "gas:candidate-vibid:1001000226025": 283,
+      "gas:candidate-vibid:386300166794": 429,
+      "gas:candidate-vibid:1001000188030": 24,
+      "gas:candidate-vibid:386300166804": 17,
+      "gas:candidate-vibid:1001000136170": 30,
+      "gas:candidate-vibid:1001000114006": 18,
+      "gas:candidate-vibid:1001000126656": 36,
+      "gas:candidate-vibid:1001000121955": 18,
+      "special:against-all": 163
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066723&region=0&sub_region=0&type=429",
@@ -11429,16 +11429,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 9,
-      "Асеев Владимир Михайлович": 435,
-      "Кандаков Сергей Викторович": 495,
-      "Ковалев Сергей Анатольевич": 28,
-      "Крепких Владимир Владимирович": 13,
-      "Кузьмин Игорь Викторович": 31,
-      "Мурзина Лариса Валентиновна": 26,
-      "Полякова Нина Борисовна": 29,
-      "Шустова Галина Степановна": 24,
-      "Против всех": 173
+      "gas:candidate-vibid:1001000195184": 9,
+      "gas:candidate-vibid:1001000226025": 435,
+      "gas:candidate-vibid:386300166794": 495,
+      "gas:candidate-vibid:1001000188030": 28,
+      "gas:candidate-vibid:386300166804": 13,
+      "gas:candidate-vibid:1001000136170": 31,
+      "gas:candidate-vibid:1001000114006": 26,
+      "gas:candidate-vibid:1001000126656": 29,
+      "gas:candidate-vibid:1001000121955": 24,
+      "special:against-all": 173
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066723&region=0&sub_region=0&type=429",
@@ -11488,16 +11488,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 3,
-      "Асеев Владимир Михайлович": 234,
-      "Кандаков Сергей Викторович": 398,
-      "Ковалев Сергей Анатольевич": 7,
-      "Крепких Владимир Владимирович": 7,
-      "Кузьмин Игорь Викторович": 36,
-      "Мурзина Лариса Валентиновна": 13,
-      "Полякова Нина Борисовна": 35,
-      "Шустова Галина Степановна": 22,
-      "Против всех": 122
+      "gas:candidate-vibid:1001000195184": 3,
+      "gas:candidate-vibid:1001000226025": 234,
+      "gas:candidate-vibid:386300166794": 398,
+      "gas:candidate-vibid:1001000188030": 7,
+      "gas:candidate-vibid:386300166804": 7,
+      "gas:candidate-vibid:1001000136170": 36,
+      "gas:candidate-vibid:1001000114006": 13,
+      "gas:candidate-vibid:1001000126656": 35,
+      "gas:candidate-vibid:1001000121955": 22,
+      "special:against-all": 122
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066723&region=0&sub_region=0&type=429",
@@ -11547,16 +11547,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 7,
-      "Асеев Владимир Михайлович": 289,
-      "Кандаков Сергей Викторович": 478,
-      "Ковалев Сергей Анатольевич": 20,
-      "Крепких Владимир Владимирович": 14,
-      "Кузьмин Игорь Викторович": 31,
-      "Мурзина Лариса Валентиновна": 19,
-      "Полякова Нина Борисовна": 19,
-      "Шустова Галина Степановна": 25,
-      "Против всех": 152
+      "gas:candidate-vibid:1001000195184": 7,
+      "gas:candidate-vibid:1001000226025": 289,
+      "gas:candidate-vibid:386300166794": 478,
+      "gas:candidate-vibid:1001000188030": 20,
+      "gas:candidate-vibid:386300166804": 14,
+      "gas:candidate-vibid:1001000136170": 31,
+      "gas:candidate-vibid:1001000114006": 19,
+      "gas:candidate-vibid:1001000126656": 19,
+      "gas:candidate-vibid:1001000121955": 25,
+      "special:against-all": 152
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066723&region=0&sub_region=0&type=429",
@@ -11606,16 +11606,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 4,
-      "Асеев Владимир Михайлович": 134,
-      "Кандаков Сергей Викторович": 270,
-      "Ковалев Сергей Анатольевич": 12,
-      "Крепких Владимир Владимирович": 7,
-      "Кузьмин Игорь Викторович": 15,
-      "Мурзина Лариса Валентиновна": 12,
-      "Полякова Нина Борисовна": 26,
-      "Шустова Галина Степановна": 6,
-      "Против всех": 59
+      "gas:candidate-vibid:1001000195184": 4,
+      "gas:candidate-vibid:1001000226025": 134,
+      "gas:candidate-vibid:386300166794": 270,
+      "gas:candidate-vibid:1001000188030": 12,
+      "gas:candidate-vibid:386300166804": 7,
+      "gas:candidate-vibid:1001000136170": 15,
+      "gas:candidate-vibid:1001000114006": 12,
+      "gas:candidate-vibid:1001000126656": 26,
+      "gas:candidate-vibid:1001000121955": 6,
+      "special:against-all": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066723&region=0&sub_region=0&type=429",
@@ -11665,16 +11665,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 10,
-      "Асеев Владимир Михайлович": 299,
-      "Кандаков Сергей Викторович": 450,
-      "Ковалев Сергей Анатольевич": 20,
-      "Крепких Владимир Владимирович": 20,
-      "Кузьмин Игорь Викторович": 34,
-      "Мурзина Лариса Валентиновна": 24,
-      "Полякова Нина Борисовна": 33,
-      "Шустова Галина Степановна": 25,
-      "Против всех": 205
+      "gas:candidate-vibid:1001000195184": 10,
+      "gas:candidate-vibid:1001000226025": 299,
+      "gas:candidate-vibid:386300166794": 450,
+      "gas:candidate-vibid:1001000188030": 20,
+      "gas:candidate-vibid:386300166804": 20,
+      "gas:candidate-vibid:1001000136170": 34,
+      "gas:candidate-vibid:1001000114006": 24,
+      "gas:candidate-vibid:1001000126656": 33,
+      "gas:candidate-vibid:1001000121955": 25,
+      "special:against-all": 205
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066723&region=0&sub_region=0&type=429",
@@ -11724,16 +11724,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 6,
-      "Асеев Владимир Михайлович": 409,
-      "Кандаков Сергей Викторович": 529,
-      "Ковалев Сергей Анатольевич": 30,
-      "Крепких Владимир Владимирович": 7,
-      "Кузьмин Игорь Викторович": 21,
-      "Мурзина Лариса Валентиновна": 21,
-      "Полякова Нина Борисовна": 38,
-      "Шустова Галина Степановна": 19,
-      "Против всех": 170
+      "gas:candidate-vibid:1001000195184": 6,
+      "gas:candidate-vibid:1001000226025": 409,
+      "gas:candidate-vibid:386300166794": 529,
+      "gas:candidate-vibid:1001000188030": 30,
+      "gas:candidate-vibid:386300166804": 7,
+      "gas:candidate-vibid:1001000136170": 21,
+      "gas:candidate-vibid:1001000114006": 21,
+      "gas:candidate-vibid:1001000126656": 38,
+      "gas:candidate-vibid:1001000121955": 19,
+      "special:against-all": 170
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066723&region=0&sub_region=0&type=429",
@@ -11783,16 +11783,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 2,
-      "Асеев Владимир Михайлович": 375,
-      "Кандаков Сергей Викторович": 564,
-      "Ковалев Сергей Анатольевич": 17,
-      "Крепких Владимир Владимирович": 11,
-      "Кузьмин Игорь Викторович": 12,
-      "Мурзина Лариса Валентиновна": 12,
-      "Полякова Нина Борисовна": 23,
-      "Шустова Галина Степановна": 17,
-      "Против всех": 158
+      "gas:candidate-vibid:1001000195184": 2,
+      "gas:candidate-vibid:1001000226025": 375,
+      "gas:candidate-vibid:386300166794": 564,
+      "gas:candidate-vibid:1001000188030": 17,
+      "gas:candidate-vibid:386300166804": 11,
+      "gas:candidate-vibid:1001000136170": 12,
+      "gas:candidate-vibid:1001000114006": 12,
+      "gas:candidate-vibid:1001000126656": 23,
+      "gas:candidate-vibid:1001000121955": 17,
+      "special:against-all": 158
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066723&region=0&sub_region=0&type=429",
@@ -11842,16 +11842,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 10,
-      "Асеев Владимир Михайлович": 445,
-      "Кандаков Сергей Викторович": 563,
-      "Ковалев Сергей Анатольевич": 30,
-      "Крепких Владимир Владимирович": 13,
-      "Кузьмин Игорь Викторович": 37,
-      "Мурзина Лариса Валентиновна": 31,
-      "Полякова Нина Борисовна": 42,
-      "Шустова Галина Степановна": 24,
-      "Против всех": 148
+      "gas:candidate-vibid:1001000195184": 10,
+      "gas:candidate-vibid:1001000226025": 445,
+      "gas:candidate-vibid:386300166794": 563,
+      "gas:candidate-vibid:1001000188030": 30,
+      "gas:candidate-vibid:386300166804": 13,
+      "gas:candidate-vibid:1001000136170": 37,
+      "gas:candidate-vibid:1001000114006": 31,
+      "gas:candidate-vibid:1001000126656": 42,
+      "gas:candidate-vibid:1001000121955": 24,
+      "special:against-all": 148
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066723&region=0&sub_region=0&type=429",
@@ -11901,16 +11901,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 10,
-      "Асеев Владимир Михайлович": 382,
-      "Кандаков Сергей Викторович": 515,
-      "Ковалев Сергей Анатольевич": 16,
-      "Крепких Владимир Владимирович": 10,
-      "Кузьмин Игорь Викторович": 11,
-      "Мурзина Лариса Валентиновна": 20,
-      "Полякова Нина Борисовна": 32,
-      "Шустова Галина Степановна": 17,
-      "Против всех": 135
+      "gas:candidate-vibid:1001000195184": 10,
+      "gas:candidate-vibid:1001000226025": 382,
+      "gas:candidate-vibid:386300166794": 515,
+      "gas:candidate-vibid:1001000188030": 16,
+      "gas:candidate-vibid:386300166804": 10,
+      "gas:candidate-vibid:1001000136170": 11,
+      "gas:candidate-vibid:1001000114006": 20,
+      "gas:candidate-vibid:1001000126656": 32,
+      "gas:candidate-vibid:1001000121955": 17,
+      "special:against-all": 135
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066723&region=0&sub_region=0&type=429",
@@ -11960,16 +11960,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 6,
-      "Асеев Владимир Михайлович": 366,
-      "Кандаков Сергей Викторович": 380,
-      "Ковалев Сергей Анатольевич": 19,
-      "Крепких Владимир Владимирович": 8,
-      "Кузьмин Игорь Викторович": 19,
-      "Мурзина Лариса Валентиновна": 18,
-      "Полякова Нина Борисовна": 22,
-      "Шустова Галина Степановна": 18,
-      "Против всех": 159
+      "gas:candidate-vibid:1001000195184": 6,
+      "gas:candidate-vibid:1001000226025": 366,
+      "gas:candidate-vibid:386300166794": 380,
+      "gas:candidate-vibid:1001000188030": 19,
+      "gas:candidate-vibid:386300166804": 8,
+      "gas:candidate-vibid:1001000136170": 19,
+      "gas:candidate-vibid:1001000114006": 18,
+      "gas:candidate-vibid:1001000126656": 22,
+      "gas:candidate-vibid:1001000121955": 18,
+      "special:against-all": 159
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066723&region=0&sub_region=0&type=429",
@@ -12019,16 +12019,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 1,
-      "Асеев Владимир Михайлович": 364,
-      "Кандаков Сергей Викторович": 386,
-      "Ковалев Сергей Анатольевич": 23,
-      "Крепких Владимир Владимирович": 6,
-      "Кузьмин Игорь Викторович": 14,
-      "Мурзина Лариса Валентиновна": 16,
-      "Полякова Нина Борисовна": 24,
-      "Шустова Галина Степановна": 17,
-      "Против всех": 128
+      "gas:candidate-vibid:1001000195184": 1,
+      "gas:candidate-vibid:1001000226025": 364,
+      "gas:candidate-vibid:386300166794": 386,
+      "gas:candidate-vibid:1001000188030": 23,
+      "gas:candidate-vibid:386300166804": 6,
+      "gas:candidate-vibid:1001000136170": 14,
+      "gas:candidate-vibid:1001000114006": 16,
+      "gas:candidate-vibid:1001000126656": 24,
+      "gas:candidate-vibid:1001000121955": 17,
+      "special:against-all": 128
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066723&region=0&sub_region=0&type=429",
@@ -12078,16 +12078,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 13,
-      "Асеев Владимир Михайлович": 460,
-      "Кандаков Сергей Викторович": 648,
-      "Ковалев Сергей Анатольевич": 19,
-      "Крепких Владимир Владимирович": 15,
-      "Кузьмин Игорь Викторович": 26,
-      "Мурзина Лариса Валентиновна": 18,
-      "Полякова Нина Борисовна": 42,
-      "Шустова Галина Степановна": 19,
-      "Против всех": 183
+      "gas:candidate-vibid:1001000195184": 13,
+      "gas:candidate-vibid:1001000226025": 460,
+      "gas:candidate-vibid:386300166794": 648,
+      "gas:candidate-vibid:1001000188030": 19,
+      "gas:candidate-vibid:386300166804": 15,
+      "gas:candidate-vibid:1001000136170": 26,
+      "gas:candidate-vibid:1001000114006": 18,
+      "gas:candidate-vibid:1001000126656": 42,
+      "gas:candidate-vibid:1001000121955": 19,
+      "special:against-all": 183
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066723&region=0&sub_region=0&type=429",
@@ -12137,16 +12137,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 7,
-      "Асеев Владимир Михайлович": 388,
-      "Кандаков Сергей Викторович": 522,
-      "Ковалев Сергей Анатольевич": 21,
-      "Крепких Владимир Владимирович": 6,
-      "Кузьмин Игорь Викторович": 16,
-      "Мурзина Лариса Валентиновна": 13,
-      "Полякова Нина Борисовна": 24,
-      "Шустова Галина Степановна": 21,
-      "Против всех": 129
+      "gas:candidate-vibid:1001000195184": 7,
+      "gas:candidate-vibid:1001000226025": 388,
+      "gas:candidate-vibid:386300166794": 522,
+      "gas:candidate-vibid:1001000188030": 21,
+      "gas:candidate-vibid:386300166804": 6,
+      "gas:candidate-vibid:1001000136170": 16,
+      "gas:candidate-vibid:1001000114006": 13,
+      "gas:candidate-vibid:1001000126656": 24,
+      "gas:candidate-vibid:1001000121955": 21,
+      "special:against-all": 129
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066723&region=0&sub_region=0&type=429",
@@ -12196,16 +12196,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 15,
-      "Асеев Владимир Михайлович": 384,
-      "Кандаков Сергей Викторович": 444,
-      "Ковалев Сергей Анатольевич": 17,
-      "Крепких Владимир Владимирович": 13,
-      "Кузьмин Игорь Викторович": 33,
-      "Мурзина Лариса Валентиновна": 25,
-      "Полякова Нина Борисовна": 30,
-      "Шустова Галина Степановна": 18,
-      "Против всех": 144
+      "gas:candidate-vibid:1001000195184": 15,
+      "gas:candidate-vibid:1001000226025": 384,
+      "gas:candidate-vibid:386300166794": 444,
+      "gas:candidate-vibid:1001000188030": 17,
+      "gas:candidate-vibid:386300166804": 13,
+      "gas:candidate-vibid:1001000136170": 33,
+      "gas:candidate-vibid:1001000114006": 25,
+      "gas:candidate-vibid:1001000126656": 30,
+      "gas:candidate-vibid:1001000121955": 18,
+      "special:against-all": 144
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066723&region=0&sub_region=0&type=429",
@@ -12255,16 +12255,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 12,
-      "Асеев Владимир Михайлович": 443,
-      "Кандаков Сергей Викторович": 536,
-      "Ковалев Сергей Анатольевич": 27,
-      "Крепких Владимир Владимирович": 8,
-      "Кузьмин Игорь Викторович": 23,
-      "Мурзина Лариса Валентиновна": 20,
-      "Полякова Нина Борисовна": 38,
-      "Шустова Галина Степановна": 16,
-      "Против всех": 147
+      "gas:candidate-vibid:1001000195184": 12,
+      "gas:candidate-vibid:1001000226025": 443,
+      "gas:candidate-vibid:386300166794": 536,
+      "gas:candidate-vibid:1001000188030": 27,
+      "gas:candidate-vibid:386300166804": 8,
+      "gas:candidate-vibid:1001000136170": 23,
+      "gas:candidate-vibid:1001000114006": 20,
+      "gas:candidate-vibid:1001000126656": 38,
+      "gas:candidate-vibid:1001000121955": 16,
+      "special:against-all": 147
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066723&region=0&sub_region=0&type=429",
@@ -12314,16 +12314,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 9,
-      "Асеев Владимир Михайлович": 414,
-      "Кандаков Сергей Викторович": 539,
-      "Ковалев Сергей Анатольевич": 17,
-      "Крепких Владимир Владимирович": 13,
-      "Кузьмин Игорь Викторович": 38,
-      "Мурзина Лариса Валентиновна": 25,
-      "Полякова Нина Борисовна": 58,
-      "Шустова Галина Степановна": 23,
-      "Против всех": 192
+      "gas:candidate-vibid:1001000195184": 9,
+      "gas:candidate-vibid:1001000226025": 414,
+      "gas:candidate-vibid:386300166794": 539,
+      "gas:candidate-vibid:1001000188030": 17,
+      "gas:candidate-vibid:386300166804": 13,
+      "gas:candidate-vibid:1001000136170": 38,
+      "gas:candidate-vibid:1001000114006": 25,
+      "gas:candidate-vibid:1001000126656": 58,
+      "gas:candidate-vibid:1001000121955": 23,
+      "special:against-all": 192
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066723&region=0&sub_region=0&type=429",
@@ -12373,16 +12373,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 6,
-      "Асеев Владимир Михайлович": 486,
-      "Кандаков Сергей Викторович": 591,
-      "Ковалев Сергей Анатольевич": 25,
-      "Крепких Владимир Владимирович": 9,
-      "Кузьмин Игорь Викторович": 24,
-      "Мурзина Лариса Валентиновна": 22,
-      "Полякова Нина Борисовна": 44,
-      "Шустова Галина Степановна": 22,
-      "Против всех": 209
+      "gas:candidate-vibid:1001000195184": 6,
+      "gas:candidate-vibid:1001000226025": 486,
+      "gas:candidate-vibid:386300166794": 591,
+      "gas:candidate-vibid:1001000188030": 25,
+      "gas:candidate-vibid:386300166804": 9,
+      "gas:candidate-vibid:1001000136170": 24,
+      "gas:candidate-vibid:1001000114006": 22,
+      "gas:candidate-vibid:1001000126656": 44,
+      "gas:candidate-vibid:1001000121955": 22,
+      "special:against-all": 209
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066723&region=0&sub_region=0&type=429",
@@ -12432,16 +12432,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 4,
-      "Асеев Владимир Михайлович": 396,
-      "Кандаков Сергей Викторович": 459,
-      "Ковалев Сергей Анатольевич": 22,
-      "Крепких Владимир Владимирович": 9,
-      "Кузьмин Игорь Викторович": 33,
-      "Мурзина Лариса Валентиновна": 17,
-      "Полякова Нина Борисовна": 32,
-      "Шустова Галина Степановна": 28,
-      "Против всех": 117
+      "gas:candidate-vibid:1001000195184": 4,
+      "gas:candidate-vibid:1001000226025": 396,
+      "gas:candidate-vibid:386300166794": 459,
+      "gas:candidate-vibid:1001000188030": 22,
+      "gas:candidate-vibid:386300166804": 9,
+      "gas:candidate-vibid:1001000136170": 33,
+      "gas:candidate-vibid:1001000114006": 17,
+      "gas:candidate-vibid:1001000126656": 32,
+      "gas:candidate-vibid:1001000121955": 28,
+      "special:against-all": 117
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066723&region=0&sub_region=0&type=429",
@@ -12491,16 +12491,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 7,
-      "Асеев Владимир Михайлович": 529,
-      "Кандаков Сергей Викторович": 516,
-      "Ковалев Сергей Анатольевич": 34,
-      "Крепких Владимир Владимирович": 11,
-      "Кузьмин Игорь Викторович": 27,
-      "Мурзина Лариса Валентиновна": 20,
-      "Полякова Нина Борисовна": 54,
-      "Шустова Галина Степановна": 36,
-      "Против всех": 228
+      "gas:candidate-vibid:1001000195184": 7,
+      "gas:candidate-vibid:1001000226025": 529,
+      "gas:candidate-vibid:386300166794": 516,
+      "gas:candidate-vibid:1001000188030": 34,
+      "gas:candidate-vibid:386300166804": 11,
+      "gas:candidate-vibid:1001000136170": 27,
+      "gas:candidate-vibid:1001000114006": 20,
+      "gas:candidate-vibid:1001000126656": 54,
+      "gas:candidate-vibid:1001000121955": 36,
+      "special:against-all": 228
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066723&region=0&sub_region=0&type=429",
@@ -12550,16 +12550,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 5,
-      "Асеев Владимир Михайлович": 510,
-      "Кандаков Сергей Викторович": 565,
-      "Ковалев Сергей Анатольевич": 32,
-      "Крепких Владимир Владимирович": 4,
-      "Кузьмин Игорь Викторович": 41,
-      "Мурзина Лариса Валентиновна": 20,
-      "Полякова Нина Борисовна": 56,
-      "Шустова Галина Степановна": 44,
-      "Против всех": 244
+      "gas:candidate-vibid:1001000195184": 5,
+      "gas:candidate-vibid:1001000226025": 510,
+      "gas:candidate-vibid:386300166794": 565,
+      "gas:candidate-vibid:1001000188030": 32,
+      "gas:candidate-vibid:386300166804": 4,
+      "gas:candidate-vibid:1001000136170": 41,
+      "gas:candidate-vibid:1001000114006": 20,
+      "gas:candidate-vibid:1001000126656": 56,
+      "gas:candidate-vibid:1001000121955": 44,
+      "special:against-all": 244
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066723&region=0&sub_region=0&type=429",
@@ -12609,16 +12609,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 9,
-      "Асеев Владимир Михайлович": 275,
-      "Кандаков Сергей Викторович": 418,
-      "Ковалев Сергей Анатольевич": 16,
-      "Крепких Владимир Владимирович": 4,
-      "Кузьмин Игорь Викторович": 17,
-      "Мурзина Лариса Валентиновна": 14,
-      "Полякова Нина Борисовна": 20,
-      "Шустова Галина Степановна": 18,
-      "Против всех": 95
+      "gas:candidate-vibid:1001000195184": 9,
+      "gas:candidate-vibid:1001000226025": 275,
+      "gas:candidate-vibid:386300166794": 418,
+      "gas:candidate-vibid:1001000188030": 16,
+      "gas:candidate-vibid:386300166804": 4,
+      "gas:candidate-vibid:1001000136170": 17,
+      "gas:candidate-vibid:1001000114006": 14,
+      "gas:candidate-vibid:1001000126656": 20,
+      "gas:candidate-vibid:1001000121955": 18,
+      "special:against-all": 95
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066723&region=0&sub_region=0&type=429",
@@ -12668,16 +12668,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 6,
-      "Асеев Владимир Михайлович": 403,
-      "Кандаков Сергей Викторович": 599,
-      "Ковалев Сергей Анатольевич": 16,
-      "Крепких Владимир Владимирович": 8,
-      "Кузьмин Игорь Викторович": 24,
-      "Мурзина Лариса Валентиновна": 16,
-      "Полякова Нина Борисовна": 46,
-      "Шустова Галина Степановна": 15,
-      "Против всех": 148
+      "gas:candidate-vibid:1001000195184": 6,
+      "gas:candidate-vibid:1001000226025": 403,
+      "gas:candidate-vibid:386300166794": 599,
+      "gas:candidate-vibid:1001000188030": 16,
+      "gas:candidate-vibid:386300166804": 8,
+      "gas:candidate-vibid:1001000136170": 24,
+      "gas:candidate-vibid:1001000114006": 16,
+      "gas:candidate-vibid:1001000126656": 46,
+      "gas:candidate-vibid:1001000121955": 15,
+      "special:against-all": 148
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066723&region=0&sub_region=0&type=429",
@@ -12727,16 +12727,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 9,
-      "Асеев Владимир Михайлович": 438,
-      "Кандаков Сергей Викторович": 510,
-      "Ковалев Сергей Анатольевич": 18,
-      "Крепких Владимир Владимирович": 4,
-      "Кузьмин Игорь Викторович": 28,
-      "Мурзина Лариса Валентиновна": 15,
-      "Полякова Нина Борисовна": 33,
-      "Шустова Галина Степановна": 26,
-      "Против всех": 179
+      "gas:candidate-vibid:1001000195184": 9,
+      "gas:candidate-vibid:1001000226025": 438,
+      "gas:candidate-vibid:386300166794": 510,
+      "gas:candidate-vibid:1001000188030": 18,
+      "gas:candidate-vibid:386300166804": 4,
+      "gas:candidate-vibid:1001000136170": 28,
+      "gas:candidate-vibid:1001000114006": 15,
+      "gas:candidate-vibid:1001000126656": 33,
+      "gas:candidate-vibid:1001000121955": 26,
+      "special:against-all": 179
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066723&region=0&sub_region=0&type=429",
@@ -12786,16 +12786,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 5,
-      "Асеев Владимир Михайлович": 398,
-      "Кандаков Сергей Викторович": 559,
-      "Ковалев Сергей Анатольевич": 39,
-      "Крепких Владимир Владимирович": 7,
-      "Кузьмин Игорь Викторович": 36,
-      "Мурзина Лариса Валентиновна": 28,
-      "Полякова Нина Борисовна": 28,
-      "Шустова Галина Степановна": 21,
-      "Против всех": 156
+      "gas:candidate-vibid:1001000195184": 5,
+      "gas:candidate-vibid:1001000226025": 398,
+      "gas:candidate-vibid:386300166794": 559,
+      "gas:candidate-vibid:1001000188030": 39,
+      "gas:candidate-vibid:386300166804": 7,
+      "gas:candidate-vibid:1001000136170": 36,
+      "gas:candidate-vibid:1001000114006": 28,
+      "gas:candidate-vibid:1001000126656": 28,
+      "gas:candidate-vibid:1001000121955": 21,
+      "special:against-all": 156
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066723&region=0&sub_region=0&type=429",
@@ -12845,16 +12845,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 11,
-      "Асеев Владимир Михайлович": 455,
-      "Кандаков Сергей Викторович": 623,
-      "Ковалев Сергей Анатольевич": 18,
-      "Крепких Владимир Владимирович": 11,
-      "Кузьмин Игорь Викторович": 31,
-      "Мурзина Лариса Валентиновна": 16,
-      "Полякова Нина Борисовна": 35,
-      "Шустова Галина Степановна": 24,
-      "Против всех": 142
+      "gas:candidate-vibid:1001000195184": 11,
+      "gas:candidate-vibid:1001000226025": 455,
+      "gas:candidate-vibid:386300166794": 623,
+      "gas:candidate-vibid:1001000188030": 18,
+      "gas:candidate-vibid:386300166804": 11,
+      "gas:candidate-vibid:1001000136170": 31,
+      "gas:candidate-vibid:1001000114006": 16,
+      "gas:candidate-vibid:1001000126656": 35,
+      "gas:candidate-vibid:1001000121955": 24,
+      "special:against-all": 142
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066723&region=0&sub_region=0&type=429",
@@ -12904,16 +12904,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 7,
-      "Асеев Владимир Михайлович": 343,
-      "Кандаков Сергей Викторович": 474,
-      "Ковалев Сергей Анатольевич": 33,
-      "Крепких Владимир Владимирович": 8,
-      "Кузьмин Игорь Викторович": 39,
-      "Мурзина Лариса Валентиновна": 38,
-      "Полякова Нина Борисовна": 27,
-      "Шустова Галина Степановна": 13,
-      "Против всех": 229
+      "gas:candidate-vibid:1001000195184": 7,
+      "gas:candidate-vibid:1001000226025": 343,
+      "gas:candidate-vibid:386300166794": 474,
+      "gas:candidate-vibid:1001000188030": 33,
+      "gas:candidate-vibid:386300166804": 8,
+      "gas:candidate-vibid:1001000136170": 39,
+      "gas:candidate-vibid:1001000114006": 38,
+      "gas:candidate-vibid:1001000126656": 27,
+      "gas:candidate-vibid:1001000121955": 13,
+      "special:against-all": 229
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066723&region=0&sub_region=0&type=429",
@@ -12963,16 +12963,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 7,
-      "Асеев Владимир Михайлович": 352,
-      "Кандаков Сергей Викторович": 426,
-      "Ковалев Сергей Анатольевич": 26,
-      "Крепких Владимир Владимирович": 7,
-      "Кузьмин Игорь Викторович": 20,
-      "Мурзина Лариса Валентиновна": 22,
-      "Полякова Нина Борисовна": 43,
-      "Шустова Галина Степановна": 23,
-      "Против всех": 198
+      "gas:candidate-vibid:1001000195184": 7,
+      "gas:candidate-vibid:1001000226025": 352,
+      "gas:candidate-vibid:386300166794": 426,
+      "gas:candidate-vibid:1001000188030": 26,
+      "gas:candidate-vibid:386300166804": 7,
+      "gas:candidate-vibid:1001000136170": 20,
+      "gas:candidate-vibid:1001000114006": 22,
+      "gas:candidate-vibid:1001000126656": 43,
+      "gas:candidate-vibid:1001000121955": 23,
+      "special:against-all": 198
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066723&region=0&sub_region=0&type=429",
@@ -13022,16 +13022,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 13,
-      "Асеев Владимир Михайлович": 398,
-      "Кандаков Сергей Викторович": 541,
-      "Ковалев Сергей Анатольевич": 13,
-      "Крепких Владимир Владимирович": 10,
-      "Кузьмин Игорь Викторович": 38,
-      "Мурзина Лариса Валентиновна": 14,
-      "Полякова Нина Борисовна": 50,
-      "Шустова Галина Степановна": 17,
-      "Против всех": 156
+      "gas:candidate-vibid:1001000195184": 13,
+      "gas:candidate-vibid:1001000226025": 398,
+      "gas:candidate-vibid:386300166794": 541,
+      "gas:candidate-vibid:1001000188030": 13,
+      "gas:candidate-vibid:386300166804": 10,
+      "gas:candidate-vibid:1001000136170": 38,
+      "gas:candidate-vibid:1001000114006": 14,
+      "gas:candidate-vibid:1001000126656": 50,
+      "gas:candidate-vibid:1001000121955": 17,
+      "special:against-all": 156
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066723&region=0&sub_region=0&type=429",
@@ -13081,16 +13081,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 5,
-      "Асеев Владимир Михайлович": 391,
-      "Кандаков Сергей Викторович": 504,
-      "Ковалев Сергей Анатольевич": 32,
-      "Крепких Владимир Владимирович": 12,
-      "Кузьмин Игорь Викторович": 25,
-      "Мурзина Лариса Валентиновна": 14,
-      "Полякова Нина Борисовна": 54,
-      "Шустова Галина Степановна": 34,
-      "Против всех": 187
+      "gas:candidate-vibid:1001000195184": 5,
+      "gas:candidate-vibid:1001000226025": 391,
+      "gas:candidate-vibid:386300166794": 504,
+      "gas:candidate-vibid:1001000188030": 32,
+      "gas:candidate-vibid:386300166804": 12,
+      "gas:candidate-vibid:1001000136170": 25,
+      "gas:candidate-vibid:1001000114006": 14,
+      "gas:candidate-vibid:1001000126656": 54,
+      "gas:candidate-vibid:1001000121955": 34,
+      "special:against-all": 187
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066723&region=0&sub_region=0&type=429",
@@ -13140,16 +13140,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 7,
-      "Асеев Владимир Михайлович": 401,
-      "Кандаков Сергей Викторович": 616,
-      "Ковалев Сергей Анатольевич": 31,
-      "Крепких Владимир Владимирович": 17,
-      "Кузьмин Игорь Викторович": 45,
-      "Мурзина Лариса Валентиновна": 22,
-      "Полякова Нина Борисовна": 43,
-      "Шустова Галина Степановна": 41,
-      "Против всех": 172
+      "gas:candidate-vibid:1001000195184": 7,
+      "gas:candidate-vibid:1001000226025": 401,
+      "gas:candidate-vibid:386300166794": 616,
+      "gas:candidate-vibid:1001000188030": 31,
+      "gas:candidate-vibid:386300166804": 17,
+      "gas:candidate-vibid:1001000136170": 45,
+      "gas:candidate-vibid:1001000114006": 22,
+      "gas:candidate-vibid:1001000126656": 43,
+      "gas:candidate-vibid:1001000121955": 41,
+      "special:against-all": 172
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066723&region=0&sub_region=0&type=429",
@@ -13199,16 +13199,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 2,
-      "Асеев Владимир Михайлович": 445,
-      "Кандаков Сергей Викторович": 485,
-      "Ковалев Сергей Анатольевич": 25,
-      "Крепких Владимир Владимирович": 6,
-      "Кузьмин Игорь Викторович": 26,
-      "Мурзина Лариса Валентиновна": 16,
-      "Полякова Нина Борисовна": 33,
-      "Шустова Галина Степановна": 26,
-      "Против всех": 168
+      "gas:candidate-vibid:1001000195184": 2,
+      "gas:candidate-vibid:1001000226025": 445,
+      "gas:candidate-vibid:386300166794": 485,
+      "gas:candidate-vibid:1001000188030": 25,
+      "gas:candidate-vibid:386300166804": 6,
+      "gas:candidate-vibid:1001000136170": 26,
+      "gas:candidate-vibid:1001000114006": 16,
+      "gas:candidate-vibid:1001000126656": 33,
+      "gas:candidate-vibid:1001000121955": 26,
+      "special:against-all": 168
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066723&region=0&sub_region=0&type=429",
@@ -13258,16 +13258,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 13,
-      "Асеев Владимир Михайлович": 386,
-      "Кандаков Сергей Викторович": 579,
-      "Ковалев Сергей Анатольевич": 15,
-      "Крепких Владимир Владимирович": 16,
-      "Кузьмин Игорь Викторович": 26,
-      "Мурзина Лариса Валентиновна": 28,
-      "Полякова Нина Борисовна": 38,
-      "Шустова Галина Степановна": 26,
-      "Против всех": 202
+      "gas:candidate-vibid:1001000195184": 13,
+      "gas:candidate-vibid:1001000226025": 386,
+      "gas:candidate-vibid:386300166794": 579,
+      "gas:candidate-vibid:1001000188030": 15,
+      "gas:candidate-vibid:386300166804": 16,
+      "gas:candidate-vibid:1001000136170": 26,
+      "gas:candidate-vibid:1001000114006": 28,
+      "gas:candidate-vibid:1001000126656": 38,
+      "gas:candidate-vibid:1001000121955": 26,
+      "special:against-all": 202
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066723&region=0&sub_region=0&type=429",
@@ -13317,16 +13317,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 5,
-      "Асеев Владимир Михайлович": 328,
-      "Кандаков Сергей Викторович": 443,
-      "Ковалев Сергей Анатольевич": 21,
-      "Крепких Владимир Владимирович": 8,
-      "Кузьмин Игорь Викторович": 29,
-      "Мурзина Лариса Валентиновна": 22,
-      "Полякова Нина Борисовна": 20,
-      "Шустова Галина Степановна": 24,
-      "Против всех": 136
+      "gas:candidate-vibid:1001000195184": 5,
+      "gas:candidate-vibid:1001000226025": 328,
+      "gas:candidate-vibid:386300166794": 443,
+      "gas:candidate-vibid:1001000188030": 21,
+      "gas:candidate-vibid:386300166804": 8,
+      "gas:candidate-vibid:1001000136170": 29,
+      "gas:candidate-vibid:1001000114006": 22,
+      "gas:candidate-vibid:1001000126656": 20,
+      "gas:candidate-vibid:1001000121955": 24,
+      "special:against-all": 136
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066723&region=0&sub_region=0&type=429",
@@ -13376,16 +13376,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 7,
-      "Асеев Владимир Михайлович": 350,
-      "Кандаков Сергей Викторович": 547,
-      "Ковалев Сергей Анатольевич": 27,
-      "Крепких Владимир Владимирович": 8,
-      "Кузьмин Игорь Викторович": 28,
-      "Мурзина Лариса Валентиновна": 22,
-      "Полякова Нина Борисовна": 37,
-      "Шустова Галина Степановна": 22,
-      "Против всех": 146
+      "gas:candidate-vibid:1001000195184": 7,
+      "gas:candidate-vibid:1001000226025": 350,
+      "gas:candidate-vibid:386300166794": 547,
+      "gas:candidate-vibid:1001000188030": 27,
+      "gas:candidate-vibid:386300166804": 8,
+      "gas:candidate-vibid:1001000136170": 28,
+      "gas:candidate-vibid:1001000114006": 22,
+      "gas:candidate-vibid:1001000126656": 37,
+      "gas:candidate-vibid:1001000121955": 22,
+      "special:against-all": 146
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066723&region=0&sub_region=0&type=429",
@@ -13435,16 +13435,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 7,
-      "Асеев Владимир Михайлович": 229,
-      "Кандаков Сергей Викторович": 471,
-      "Ковалев Сергей Анатольевич": 15,
-      "Крепких Владимир Владимирович": 2,
-      "Кузьмин Игорь Викторович": 24,
-      "Мурзина Лариса Валентиновна": 19,
-      "Полякова Нина Борисовна": 37,
-      "Шустова Галина Степановна": 25,
-      "Против всех": 133
+      "gas:candidate-vibid:1001000195184": 7,
+      "gas:candidate-vibid:1001000226025": 229,
+      "gas:candidate-vibid:386300166794": 471,
+      "gas:candidate-vibid:1001000188030": 15,
+      "gas:candidate-vibid:386300166804": 2,
+      "gas:candidate-vibid:1001000136170": 24,
+      "gas:candidate-vibid:1001000114006": 19,
+      "gas:candidate-vibid:1001000126656": 37,
+      "gas:candidate-vibid:1001000121955": 25,
+      "special:against-all": 133
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066723&region=0&sub_region=0&type=429",
@@ -13494,16 +13494,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 3,
-      "Асеев Владимир Михайлович": 119,
-      "Кандаков Сергей Викторович": 245,
-      "Ковалев Сергей Анатольевич": 10,
-      "Крепких Владимир Владимирович": 4,
-      "Кузьмин Игорь Викторович": 21,
-      "Мурзина Лариса Валентиновна": 5,
-      "Полякова Нина Борисовна": 27,
-      "Шустова Галина Степановна": 10,
-      "Против всех": 73
+      "gas:candidate-vibid:1001000195184": 3,
+      "gas:candidate-vibid:1001000226025": 119,
+      "gas:candidate-vibid:386300166794": 245,
+      "gas:candidate-vibid:1001000188030": 10,
+      "gas:candidate-vibid:386300166804": 4,
+      "gas:candidate-vibid:1001000136170": 21,
+      "gas:candidate-vibid:1001000114006": 5,
+      "gas:candidate-vibid:1001000126656": 27,
+      "gas:candidate-vibid:1001000121955": 10,
+      "special:against-all": 73
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066723&region=0&sub_region=0&type=429",
@@ -13553,16 +13553,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 4,
-      "Асеев Владимир Михайлович": 96,
-      "Кандаков Сергей Викторович": 163,
-      "Ковалев Сергей Анатольевич": 4,
-      "Крепких Владимир Владимирович": 8,
-      "Кузьмин Игорь Викторович": 13,
-      "Мурзина Лариса Валентиновна": 15,
-      "Полякова Нина Борисовна": 8,
-      "Шустова Галина Степановна": 5,
-      "Против всех": 69
+      "gas:candidate-vibid:1001000195184": 4,
+      "gas:candidate-vibid:1001000226025": 96,
+      "gas:candidate-vibid:386300166794": 163,
+      "gas:candidate-vibid:1001000188030": 4,
+      "gas:candidate-vibid:386300166804": 8,
+      "gas:candidate-vibid:1001000136170": 13,
+      "gas:candidate-vibid:1001000114006": 15,
+      "gas:candidate-vibid:1001000126656": 8,
+      "gas:candidate-vibid:1001000121955": 5,
+      "special:against-all": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066723&region=0&sub_region=0&type=429",
@@ -13612,16 +13612,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 20,
-      "Асеев Владимир Михайлович": 227,
-      "Кандаков Сергей Викторович": 204,
-      "Ковалев Сергей Анатольевич": 9,
-      "Крепких Владимир Владимирович": 6,
-      "Кузьмин Игорь Викторович": 22,
-      "Мурзина Лариса Валентиновна": 7,
-      "Полякова Нина Борисовна": 26,
-      "Шустова Галина Степановна": 17,
-      "Против всех": 94
+      "gas:candidate-vibid:1001000195184": 20,
+      "gas:candidate-vibid:1001000226025": 227,
+      "gas:candidate-vibid:386300166794": 204,
+      "gas:candidate-vibid:1001000188030": 9,
+      "gas:candidate-vibid:386300166804": 6,
+      "gas:candidate-vibid:1001000136170": 22,
+      "gas:candidate-vibid:1001000114006": 7,
+      "gas:candidate-vibid:1001000126656": 26,
+      "gas:candidate-vibid:1001000121955": 17,
+      "special:against-all": 94
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066724&region=0&sub_region=0&type=429",
@@ -13671,16 +13671,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 16,
-      "Асеев Владимир Михайлович": 414,
-      "Кандаков Сергей Викторович": 274,
-      "Ковалев Сергей Анатольевич": 10,
-      "Крепких Владимир Владимирович": 3,
-      "Кузьмин Игорь Викторович": 37,
-      "Мурзина Лариса Валентиновна": 18,
-      "Полякова Нина Борисовна": 32,
-      "Шустова Галина Степановна": 23,
-      "Против всех": 140
+      "gas:candidate-vibid:1001000195184": 16,
+      "gas:candidate-vibid:1001000226025": 414,
+      "gas:candidate-vibid:386300166794": 274,
+      "gas:candidate-vibid:1001000188030": 10,
+      "gas:candidate-vibid:386300166804": 3,
+      "gas:candidate-vibid:1001000136170": 37,
+      "gas:candidate-vibid:1001000114006": 18,
+      "gas:candidate-vibid:1001000126656": 32,
+      "gas:candidate-vibid:1001000121955": 23,
+      "special:against-all": 140
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066724&region=0&sub_region=0&type=429",
@@ -13730,16 +13730,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 12,
-      "Асеев Владимир Михайлович": 359,
-      "Кандаков Сергей Викторович": 248,
-      "Ковалев Сергей Анатольевич": 9,
-      "Крепких Владимир Владимирович": 2,
-      "Кузьмин Игорь Викторович": 33,
-      "Мурзина Лариса Валентиновна": 14,
-      "Полякова Нина Борисовна": 45,
-      "Шустова Галина Степановна": 20,
-      "Против всех": 134
+      "gas:candidate-vibid:1001000195184": 12,
+      "gas:candidate-vibid:1001000226025": 359,
+      "gas:candidate-vibid:386300166794": 248,
+      "gas:candidate-vibid:1001000188030": 9,
+      "gas:candidate-vibid:386300166804": 2,
+      "gas:candidate-vibid:1001000136170": 33,
+      "gas:candidate-vibid:1001000114006": 14,
+      "gas:candidate-vibid:1001000126656": 45,
+      "gas:candidate-vibid:1001000121955": 20,
+      "special:against-all": 134
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066724&region=0&sub_region=0&type=429",
@@ -13789,16 +13789,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 10,
-      "Асеев Владимир Михайлович": 157,
-      "Кандаков Сергей Викторович": 81,
-      "Ковалев Сергей Анатольевич": 5,
-      "Крепких Владимир Владимирович": 1,
-      "Кузьмин Игорь Викторович": 6,
-      "Мурзина Лариса Валентиновна": 4,
-      "Полякова Нина Борисовна": 8,
-      "Шустова Галина Степановна": 5,
-      "Против всех": 71
+      "gas:candidate-vibid:1001000195184": 10,
+      "gas:candidate-vibid:1001000226025": 157,
+      "gas:candidate-vibid:386300166794": 81,
+      "gas:candidate-vibid:1001000188030": 5,
+      "gas:candidate-vibid:386300166804": 1,
+      "gas:candidate-vibid:1001000136170": 6,
+      "gas:candidate-vibid:1001000114006": 4,
+      "gas:candidate-vibid:1001000126656": 8,
+      "gas:candidate-vibid:1001000121955": 5,
+      "special:against-all": 71
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066724&region=0&sub_region=0&type=429",
@@ -13848,16 +13848,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 5,
-      "Асеев Владимир Михайлович": 94,
-      "Кандаков Сергей Викторович": 48,
-      "Ковалев Сергей Анатольевич": 2,
-      "Крепких Владимир Владимирович": 0,
-      "Кузьмин Игорь Викторович": 10,
-      "Мурзина Лариса Валентиновна": 1,
-      "Полякова Нина Борисовна": 6,
-      "Шустова Галина Степановна": 3,
-      "Против всех": 39
+      "gas:candidate-vibid:1001000195184": 5,
+      "gas:candidate-vibid:1001000226025": 94,
+      "gas:candidate-vibid:386300166794": 48,
+      "gas:candidate-vibid:1001000188030": 2,
+      "gas:candidate-vibid:386300166804": 0,
+      "gas:candidate-vibid:1001000136170": 10,
+      "gas:candidate-vibid:1001000114006": 1,
+      "gas:candidate-vibid:1001000126656": 6,
+      "gas:candidate-vibid:1001000121955": 3,
+      "special:against-all": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066724&region=0&sub_region=0&type=429",
@@ -13907,16 +13907,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 0,
-      "Асеев Владимир Михайлович": 2,
-      "Кандаков Сергей Викторович": 18,
-      "Ковалев Сергей Анатольевич": 0,
-      "Крепких Владимир Владимирович": 0,
-      "Кузьмин Игорь Викторович": 0,
-      "Мурзина Лариса Валентиновна": 0,
-      "Полякова Нина Борисовна": 3,
-      "Шустова Галина Степановна": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000195184": 0,
+      "gas:candidate-vibid:1001000226025": 2,
+      "gas:candidate-vibid:386300166794": 18,
+      "gas:candidate-vibid:1001000188030": 0,
+      "gas:candidate-vibid:386300166804": 0,
+      "gas:candidate-vibid:1001000136170": 0,
+      "gas:candidate-vibid:1001000114006": 0,
+      "gas:candidate-vibid:1001000126656": 3,
+      "gas:candidate-vibid:1001000121955": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066724&region=0&sub_region=0&type=429",
@@ -13966,16 +13966,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 0,
-      "Асеев Владимир Михайлович": 4,
-      "Кандаков Сергей Викторович": 38,
-      "Ковалев Сергей Анатольевич": 0,
-      "Крепких Владимир Владимирович": 0,
-      "Кузьмин Игорь Викторович": 0,
-      "Мурзина Лариса Валентиновна": 2,
-      "Полякова Нина Борисовна": 2,
-      "Шустова Галина Степановна": 1,
-      "Против всех": 33
+      "gas:candidate-vibid:1001000195184": 0,
+      "gas:candidate-vibid:1001000226025": 4,
+      "gas:candidate-vibid:386300166794": 38,
+      "gas:candidate-vibid:1001000188030": 0,
+      "gas:candidate-vibid:386300166804": 0,
+      "gas:candidate-vibid:1001000136170": 0,
+      "gas:candidate-vibid:1001000114006": 2,
+      "gas:candidate-vibid:1001000126656": 2,
+      "gas:candidate-vibid:1001000121955": 1,
+      "special:against-all": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066724&region=0&sub_region=0&type=429",
@@ -14025,16 +14025,16 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анайкин Владимир Михайлович": 13,
-      "Асеев Владимир Михайлович": 255,
-      "Кандаков Сергей Викторович": 206,
-      "Ковалев Сергей Анатольевич": 40,
-      "Крепких Владимир Владимирович": 19,
-      "Кузьмин Игорь Викторович": 34,
-      "Мурзина Лариса Валентиновна": 24,
-      "Полякова Нина Борисовна": 22,
-      "Шустова Галина Степановна": 23,
-      "Против всех": 142
+      "gas:candidate-vibid:1001000195184": 13,
+      "gas:candidate-vibid:1001000226025": 255,
+      "gas:candidate-vibid:386300166794": 206,
+      "gas:candidate-vibid:1001000188030": 40,
+      "gas:candidate-vibid:386300166804": 19,
+      "gas:candidate-vibid:1001000136170": 34,
+      "gas:candidate-vibid:1001000114006": 24,
+      "gas:candidate-vibid:1001000126656": 22,
+      "gas:candidate-vibid:1001000121955": 23,
+      "special:against-all": 142
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066724&region=0&sub_region=0&type=429",
@@ -14084,14 +14084,14 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алитдинов Ярослав Андриянович": 17,
-      "Бидямшин Рашид Кешафович": 12,
-      "Кононов Виктор Васильевич": 15,
-      "Пимкин Вадим Валентинович": 43,
-      "Русанова Лидия Ивановна": 55,
-      "Сарычев Александр Викторович": 440,
-      "Смолин Владимир Васильевич": 41,
-      "Против всех": 148
+      "gas:candidate-vibid:386300266911": 17,
+      "gas:candidate-vibid:1001000202349": 12,
+      "gas:candidate-vibid:1001000121956": 15,
+      "gas:candidate-vibid:1001000114007": 43,
+      "gas:candidate-vibid:1001000195185": 55,
+      "gas:candidate-vibid:1001000226026": 440,
+      "gas:candidate-vibid:1001000136171": 41,
+      "special:against-all": 148
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066725&region=0&sub_region=0&type=429",
@@ -14141,14 +14141,14 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алитдинов Ярослав Андриянович": 34,
-      "Бидямшин Рашид Кешафович": 19,
-      "Кононов Виктор Васильевич": 37,
-      "Пимкин Вадим Валентинович": 44,
-      "Русанова Лидия Ивановна": 75,
-      "Сарычев Александр Викторович": 653,
-      "Смолин Владимир Васильевич": 58,
-      "Против всех": 182
+      "gas:candidate-vibid:386300266911": 34,
+      "gas:candidate-vibid:1001000202349": 19,
+      "gas:candidate-vibid:1001000121956": 37,
+      "gas:candidate-vibid:1001000114007": 44,
+      "gas:candidate-vibid:1001000195185": 75,
+      "gas:candidate-vibid:1001000226026": 653,
+      "gas:candidate-vibid:1001000136171": 58,
+      "special:against-all": 182
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066725&region=0&sub_region=0&type=429",
@@ -14198,14 +14198,14 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алитдинов Ярослав Андриянович": 26,
-      "Бидямшин Рашид Кешафович": 12,
-      "Кононов Виктор Васильевич": 30,
-      "Пимкин Вадим Валентинович": 40,
-      "Русанова Лидия Ивановна": 47,
-      "Сарычев Александр Викторович": 568,
-      "Смолин Владимир Васильевич": 43,
-      "Против всех": 176
+      "gas:candidate-vibid:386300266911": 26,
+      "gas:candidate-vibid:1001000202349": 12,
+      "gas:candidate-vibid:1001000121956": 30,
+      "gas:candidate-vibid:1001000114007": 40,
+      "gas:candidate-vibid:1001000195185": 47,
+      "gas:candidate-vibid:1001000226026": 568,
+      "gas:candidate-vibid:1001000136171": 43,
+      "special:against-all": 176
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066725&region=0&sub_region=0&type=429",
@@ -14255,14 +14255,14 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алитдинов Ярослав Андриянович": 34,
-      "Бидямшин Рашид Кешафович": 13,
-      "Кононов Виктор Васильевич": 34,
-      "Пимкин Вадим Валентинович": 45,
-      "Русанова Лидия Ивановна": 72,
-      "Сарычев Александр Викторович": 530,
-      "Смолин Владимир Васильевич": 64,
-      "Против всех": 173
+      "gas:candidate-vibid:386300266911": 34,
+      "gas:candidate-vibid:1001000202349": 13,
+      "gas:candidate-vibid:1001000121956": 34,
+      "gas:candidate-vibid:1001000114007": 45,
+      "gas:candidate-vibid:1001000195185": 72,
+      "gas:candidate-vibid:1001000226026": 530,
+      "gas:candidate-vibid:1001000136171": 64,
+      "special:against-all": 173
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066725&region=0&sub_region=0&type=429",
@@ -14312,14 +14312,14 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алитдинов Ярослав Андриянович": 13,
-      "Бидямшин Рашид Кешафович": 7,
-      "Кононов Виктор Васильевич": 21,
-      "Пимкин Вадим Валентинович": 33,
-      "Русанова Лидия Ивановна": 47,
-      "Сарычев Александр Викторович": 339,
-      "Смолин Владимир Васильевич": 47,
-      "Против всех": 116
+      "gas:candidate-vibid:386300266911": 13,
+      "gas:candidate-vibid:1001000202349": 7,
+      "gas:candidate-vibid:1001000121956": 21,
+      "gas:candidate-vibid:1001000114007": 33,
+      "gas:candidate-vibid:1001000195185": 47,
+      "gas:candidate-vibid:1001000226026": 339,
+      "gas:candidate-vibid:1001000136171": 47,
+      "special:against-all": 116
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066725&region=0&sub_region=0&type=429",
@@ -14369,14 +14369,14 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алитдинов Ярослав Андриянович": 22,
-      "Бидямшин Рашид Кешафович": 5,
-      "Кононов Виктор Васильевич": 25,
-      "Пимкин Вадим Валентинович": 38,
-      "Русанова Лидия Ивановна": 64,
-      "Сарычев Александр Викторович": 438,
-      "Смолин Владимир Васильевич": 42,
-      "Против всех": 155
+      "gas:candidate-vibid:386300266911": 22,
+      "gas:candidate-vibid:1001000202349": 5,
+      "gas:candidate-vibid:1001000121956": 25,
+      "gas:candidate-vibid:1001000114007": 38,
+      "gas:candidate-vibid:1001000195185": 64,
+      "gas:candidate-vibid:1001000226026": 438,
+      "gas:candidate-vibid:1001000136171": 42,
+      "special:against-all": 155
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066725&region=0&sub_region=0&type=429",
@@ -14426,14 +14426,14 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алитдинов Ярослав Андриянович": 19,
-      "Бидямшин Рашид Кешафович": 12,
-      "Кононов Виктор Васильевич": 34,
-      "Пимкин Вадим Валентинович": 39,
-      "Русанова Лидия Ивановна": 73,
-      "Сарычев Александр Викторович": 475,
-      "Смолин Владимир Васильевич": 46,
-      "Против всех": 158
+      "gas:candidate-vibid:386300266911": 19,
+      "gas:candidate-vibid:1001000202349": 12,
+      "gas:candidate-vibid:1001000121956": 34,
+      "gas:candidate-vibid:1001000114007": 39,
+      "gas:candidate-vibid:1001000195185": 73,
+      "gas:candidate-vibid:1001000226026": 475,
+      "gas:candidate-vibid:1001000136171": 46,
+      "special:against-all": 158
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066725&region=0&sub_region=0&type=429",
@@ -14483,14 +14483,14 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алитдинов Ярослав Андриянович": 28,
-      "Бидямшин Рашид Кешафович": 10,
-      "Кононов Виктор Васильевич": 32,
-      "Пимкин Вадим Валентинович": 57,
-      "Русанова Лидия Ивановна": 72,
-      "Сарычев Александр Викторович": 615,
-      "Смолин Владимир Васильевич": 64,
-      "Против всех": 169
+      "gas:candidate-vibid:386300266911": 28,
+      "gas:candidate-vibid:1001000202349": 10,
+      "gas:candidate-vibid:1001000121956": 32,
+      "gas:candidate-vibid:1001000114007": 57,
+      "gas:candidate-vibid:1001000195185": 72,
+      "gas:candidate-vibid:1001000226026": 615,
+      "gas:candidate-vibid:1001000136171": 64,
+      "special:against-all": 169
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066725&region=0&sub_region=0&type=429",
@@ -14540,14 +14540,14 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алитдинов Ярослав Андриянович": 28,
-      "Бидямшин Рашид Кешафович": 8,
-      "Кононов Виктор Васильевич": 25,
-      "Пимкин Вадим Валентинович": 64,
-      "Русанова Лидия Ивановна": 75,
-      "Сарычев Александр Викторович": 457,
-      "Смолин Владимир Васильевич": 64,
-      "Против всех": 173
+      "gas:candidate-vibid:386300266911": 28,
+      "gas:candidate-vibid:1001000202349": 8,
+      "gas:candidate-vibid:1001000121956": 25,
+      "gas:candidate-vibid:1001000114007": 64,
+      "gas:candidate-vibid:1001000195185": 75,
+      "gas:candidate-vibid:1001000226026": 457,
+      "gas:candidate-vibid:1001000136171": 64,
+      "special:against-all": 173
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066725&region=0&sub_region=0&type=429",
@@ -14597,14 +14597,14 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алитдинов Ярослав Андриянович": 9,
-      "Бидямшин Рашид Кешафович": 2,
-      "Кононов Виктор Васильевич": 15,
-      "Пимкин Вадим Валентинович": 12,
-      "Русанова Лидия Ивановна": 34,
-      "Сарычев Александр Викторович": 166,
-      "Смолин Владимир Васильевич": 20,
-      "Против всех": 37
+      "gas:candidate-vibid:386300266911": 9,
+      "gas:candidate-vibid:1001000202349": 2,
+      "gas:candidate-vibid:1001000121956": 15,
+      "gas:candidate-vibid:1001000114007": 12,
+      "gas:candidate-vibid:1001000195185": 34,
+      "gas:candidate-vibid:1001000226026": 166,
+      "gas:candidate-vibid:1001000136171": 20,
+      "special:against-all": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066725&region=0&sub_region=0&type=429",
@@ -14654,14 +14654,14 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алитдинов Ярослав Андриянович": 13,
-      "Бидямшин Рашид Кешафович": 4,
-      "Кононов Виктор Васильевич": 15,
-      "Пимкин Вадим Валентинович": 16,
-      "Русанова Лидия Ивановна": 29,
-      "Сарычев Александр Викторович": 573,
-      "Смолин Владимир Васильевич": 35,
-      "Против всех": 91
+      "gas:candidate-vibid:386300266911": 13,
+      "gas:candidate-vibid:1001000202349": 4,
+      "gas:candidate-vibid:1001000121956": 15,
+      "gas:candidate-vibid:1001000114007": 16,
+      "gas:candidate-vibid:1001000195185": 29,
+      "gas:candidate-vibid:1001000226026": 573,
+      "gas:candidate-vibid:1001000136171": 35,
+      "special:against-all": 91
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066725&region=0&sub_region=0&type=429",
@@ -14711,14 +14711,14 @@ export const duma_2003_uik_428_region_86_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алитдинов Ярослав Андриянович": 22,
-      "Бидямшин Рашид Кешафович": 7,
-      "Кононов Виктор Васильевич": 15,
-      "Пимкин Вадим Валентинович": 31,
-      "Русанова Лидия Ивановна": 57,
-      "Сарычев Александр Викторович": 595,
-      "Смолин Владимир Васильевич": 43,
-      "Против всех": 218
+      "gas:candidate-vibid:386300266911": 22,
+      "gas:candidate-vibid:1001000202349": 7,
+      "gas:candidate-vibid:1001000121956": 15,
+      "gas:candidate-vibid:1001000114007": 31,
+      "gas:candidate-vibid:1001000195185": 57,
+      "gas:candidate-vibid:1001000226026": 595,
+      "gas:candidate-vibid:1001000136171": 43,
+      "special:against-all": 218
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=862000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=286200066725&region=0&sub_region=0&type=429",

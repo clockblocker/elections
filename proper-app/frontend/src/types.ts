@@ -41,14 +41,11 @@ export interface Point {
 }
 
 export interface AnalysisParameters {
-  turnoutBinWidth: number;
-  turnoutWindow: number;
-  minTikPeers: number;
-  minRegionPeers: number;
-  tikPriorBallots: number;
-  regionPriorBallots: number;
-  dispersionPriorPoints: number;
+  coreFraction: number;
+  coreIterations: number;
+  covarianceRidge: number;
   fdrThreshold: number;
+  reviewThreshold: number;
 }
 
 export interface PointEstimate {
@@ -60,6 +57,7 @@ export interface PointEstimate {
   baselineSource: string;
   peerPrecincts: number;
   peerBallots: number;
+  expectedTurnout: number | null;
   expectedShare: number | null;
   expectedVotes: number | null;
   residualVotes: number | null;
@@ -70,11 +68,13 @@ export interface PointEstimate {
   qValue: number | null;
   pSus: number | null;
   overdispersion: number | null;
+  mahalanobisSquared: number | null;
+  direction: "high-high" | "high-low" | "low-high" | "low-low" | "central" | null;
   qualityFlags: string[];
 }
 
 export interface AnalysisResult {
-  method: { slug: "peer-clt-v2"; version: 2 };
+  method: { slug: "protocol-cloud-clt-v3"; version: 3 };
   parameters: AnalysisParameters;
   protocols: number;
   scoredProtocols: number;
@@ -83,6 +83,13 @@ export interface AnalysisResult {
   observedVotes: number;
   expectedVotes: number;
   flaggedResidualVotes: number;
+  core: {
+    protocols: number;
+    expectedTurnout: number;
+    expectedResult: number;
+    covariance: [[number, number], [number, number]];
+    contour95: Array<{ turnout: number; result: number }>;
+  };
   estimates: Map<string, PointEstimate>;
 }
 

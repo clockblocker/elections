@@ -42,16 +42,16 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 2,
-      "Баслаковский Юрий Васильевич": 2,
-      "Бондарев Григорий Семенович": 15,
-      "Бурков Валерий Анатольевич": 7,
-      "Бялко Александр Андреевич": 31,
-      "Глазьев Сергей Юрьевич": 336,
-      "Жилкин Сергей Николаевич": 13,
-      "Пахомов Кирилл Владимирович": 2,
-      "Спирин Юрий Леонидович": 15,
-      "Против всех": 133
+      "gas:candidate-vibid:1001000190377": 2,
+      "gas:candidate-vibid:350300970379": 2,
+      "gas:candidate-vibid:1001000112229": 15,
+      "gas:candidate-vibid:1001000195101": 7,
+      "gas:candidate-vibid:1001000113951": 31,
+      "gas:candidate-vibid:1001000188011": 336,
+      "gas:candidate-vibid:1001000220822": 13,
+      "gas:candidate-vibid:1001000121283": 2,
+      "gas:candidate-vibid:1001000136079": 15,
+      "special:against-all": 133
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970364&region=0&sub_region=0&type=429",
@@ -101,16 +101,16 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 18,
-      "Баслаковский Юрий Васильевич": 8,
-      "Бондарев Григорий Семенович": 40,
-      "Бурков Валерий Анатольевич": 22,
-      "Бялко Александр Андреевич": 47,
-      "Глазьев Сергей Юрьевич": 256,
-      "Жилкин Сергей Николаевич": 21,
-      "Пахомов Кирилл Владимирович": 20,
-      "Спирин Юрий Леонидович": 39,
-      "Против всех": 178
+      "gas:candidate-vibid:1001000190377": 18,
+      "gas:candidate-vibid:350300970379": 8,
+      "gas:candidate-vibid:1001000112229": 40,
+      "gas:candidate-vibid:1001000195101": 22,
+      "gas:candidate-vibid:1001000113951": 47,
+      "gas:candidate-vibid:1001000188011": 256,
+      "gas:candidate-vibid:1001000220822": 21,
+      "gas:candidate-vibid:1001000121283": 20,
+      "gas:candidate-vibid:1001000136079": 39,
+      "special:against-all": 178
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970364&region=0&sub_region=0&type=429",
@@ -160,16 +160,16 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 0,
-      "Баслаковский Юрий Васильевич": 4,
-      "Бондарев Григорий Семенович": 9,
-      "Бурков Валерий Анатольевич": 12,
-      "Бялко Александр Андреевич": 14,
-      "Глазьев Сергей Юрьевич": 161,
-      "Жилкин Сергей Николаевич": 7,
-      "Пахомов Кирилл Владимирович": 2,
-      "Спирин Юрий Леонидович": 7,
-      "Против всех": 32
+      "gas:candidate-vibid:1001000190377": 0,
+      "gas:candidate-vibid:350300970379": 4,
+      "gas:candidate-vibid:1001000112229": 9,
+      "gas:candidate-vibid:1001000195101": 12,
+      "gas:candidate-vibid:1001000113951": 14,
+      "gas:candidate-vibid:1001000188011": 161,
+      "gas:candidate-vibid:1001000220822": 7,
+      "gas:candidate-vibid:1001000121283": 2,
+      "gas:candidate-vibid:1001000136079": 7,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970364&region=0&sub_region=0&type=429",
@@ -219,16 +219,16 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 10,
-      "Баслаковский Юрий Васильевич": 6,
-      "Бондарев Григорий Семенович": 23,
-      "Бурков Валерий Анатольевич": 9,
-      "Бялко Александр Андреевич": 52,
-      "Глазьев Сергей Юрьевич": 292,
-      "Жилкин Сергей Николаевич": 20,
-      "Пахомов Кирилл Владимирович": 9,
-      "Спирин Юрий Леонидович": 20,
-      "Против всех": 159
+      "gas:candidate-vibid:1001000190377": 10,
+      "gas:candidate-vibid:350300970379": 6,
+      "gas:candidate-vibid:1001000112229": 23,
+      "gas:candidate-vibid:1001000195101": 9,
+      "gas:candidate-vibid:1001000113951": 52,
+      "gas:candidate-vibid:1001000188011": 292,
+      "gas:candidate-vibid:1001000220822": 20,
+      "gas:candidate-vibid:1001000121283": 9,
+      "gas:candidate-vibid:1001000136079": 20,
+      "special:against-all": 159
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970364&region=0&sub_region=0&type=429",
@@ -278,16 +278,16 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 1,
-      "Баслаковский Юрий Васильевич": 1,
-      "Бондарев Григорий Семенович": 8,
-      "Бурков Валерий Анатольевич": 1,
-      "Бялко Александр Андреевич": 4,
-      "Глазьев Сергей Юрьевич": 86,
-      "Жилкин Сергей Николаевич": 4,
-      "Пахомов Кирилл Владимирович": 1,
-      "Спирин Юрий Леонидович": 7,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000190377": 1,
+      "gas:candidate-vibid:350300970379": 1,
+      "gas:candidate-vibid:1001000112229": 8,
+      "gas:candidate-vibid:1001000195101": 1,
+      "gas:candidate-vibid:1001000113951": 4,
+      "gas:candidate-vibid:1001000188011": 86,
+      "gas:candidate-vibid:1001000220822": 4,
+      "gas:candidate-vibid:1001000121283": 1,
+      "gas:candidate-vibid:1001000136079": 7,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970364&region=0&sub_region=0&type=429",
@@ -337,16 +337,16 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 22,
-      "Баслаковский Юрий Васильевич": 17,
-      "Бондарев Григорий Семенович": 53,
-      "Бурков Валерий Анатольевич": 25,
-      "Бялко Александр Андреевич": 67,
-      "Глазьев Сергей Юрьевич": 1607,
-      "Жилкин Сергей Николаевич": 41,
-      "Пахомов Кирилл Владимирович": 14,
-      "Спирин Юрий Леонидович": 62,
-      "Против всех": 362
+      "gas:candidate-vibid:1001000190377": 22,
+      "gas:candidate-vibid:350300970379": 17,
+      "gas:candidate-vibid:1001000112229": 53,
+      "gas:candidate-vibid:1001000195101": 25,
+      "gas:candidate-vibid:1001000113951": 67,
+      "gas:candidate-vibid:1001000188011": 1607,
+      "gas:candidate-vibid:1001000220822": 41,
+      "gas:candidate-vibid:1001000121283": 14,
+      "gas:candidate-vibid:1001000136079": 62,
+      "special:against-all": 362
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970364&region=0&sub_region=0&type=429",
@@ -396,16 +396,16 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 18,
-      "Баслаковский Юрий Васильевич": 10,
-      "Бондарев Григорий Семенович": 37,
-      "Бурков Валерий Анатольевич": 28,
-      "Бялко Александр Андреевич": 78,
-      "Глазьев Сергей Юрьевич": 979,
-      "Жилкин Сергей Николаевич": 37,
-      "Пахомов Кирилл Владимирович": 16,
-      "Спирин Юрий Леонидович": 84,
-      "Против всех": 446
+      "gas:candidate-vibid:1001000190377": 18,
+      "gas:candidate-vibid:350300970379": 10,
+      "gas:candidate-vibid:1001000112229": 37,
+      "gas:candidate-vibid:1001000195101": 28,
+      "gas:candidate-vibid:1001000113951": 78,
+      "gas:candidate-vibid:1001000188011": 979,
+      "gas:candidate-vibid:1001000220822": 37,
+      "gas:candidate-vibid:1001000121283": 16,
+      "gas:candidate-vibid:1001000136079": 84,
+      "special:against-all": 446
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970364&region=0&sub_region=0&type=429",
@@ -455,16 +455,16 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 7,
-      "Баслаковский Юрий Васильевич": 6,
-      "Бондарев Григорий Семенович": 40,
-      "Бурков Валерий Анатольевич": 15,
-      "Бялко Александр Андреевич": 65,
-      "Глазьев Сергей Юрьевич": 686,
-      "Жилкин Сергей Николаевич": 50,
-      "Пахомов Кирилл Владимирович": 8,
-      "Спирин Юрий Леонидович": 32,
-      "Против всех": 228
+      "gas:candidate-vibid:1001000190377": 7,
+      "gas:candidate-vibid:350300970379": 6,
+      "gas:candidate-vibid:1001000112229": 40,
+      "gas:candidate-vibid:1001000195101": 15,
+      "gas:candidate-vibid:1001000113951": 65,
+      "gas:candidate-vibid:1001000188011": 686,
+      "gas:candidate-vibid:1001000220822": 50,
+      "gas:candidate-vibid:1001000121283": 8,
+      "gas:candidate-vibid:1001000136079": 32,
+      "special:against-all": 228
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970364&region=0&sub_region=0&type=429",
@@ -514,16 +514,16 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 9,
-      "Баслаковский Юрий Васильевич": 9,
-      "Бондарев Григорий Семенович": 49,
-      "Бурков Валерий Анатольевич": 21,
-      "Бялко Александр Андреевич": 68,
-      "Глазьев Сергей Юрьевич": 909,
-      "Жилкин Сергей Николаевич": 33,
-      "Пахомов Кирилл Владимирович": 17,
-      "Спирин Юрий Леонидович": 74,
-      "Против всех": 319
+      "gas:candidate-vibid:1001000190377": 9,
+      "gas:candidate-vibid:350300970379": 9,
+      "gas:candidate-vibid:1001000112229": 49,
+      "gas:candidate-vibid:1001000195101": 21,
+      "gas:candidate-vibid:1001000113951": 68,
+      "gas:candidate-vibid:1001000188011": 909,
+      "gas:candidate-vibid:1001000220822": 33,
+      "gas:candidate-vibid:1001000121283": 17,
+      "gas:candidate-vibid:1001000136079": 74,
+      "special:against-all": 319
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970364&region=0&sub_region=0&type=429",
@@ -573,16 +573,16 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 28,
-      "Баслаковский Юрий Васильевич": 15,
-      "Бондарев Григорий Семенович": 49,
-      "Бурков Валерий Анатольевич": 14,
-      "Бялко Александр Андреевич": 72,
-      "Глазьев Сергей Юрьевич": 399,
-      "Жилкин Сергей Николаевич": 42,
-      "Пахомов Кирилл Владимирович": 18,
-      "Спирин Юрий Леонидович": 51,
-      "Против всех": 217
+      "gas:candidate-vibid:1001000190377": 28,
+      "gas:candidate-vibid:350300970379": 15,
+      "gas:candidate-vibid:1001000112229": 49,
+      "gas:candidate-vibid:1001000195101": 14,
+      "gas:candidate-vibid:1001000113951": 72,
+      "gas:candidate-vibid:1001000188011": 399,
+      "gas:candidate-vibid:1001000220822": 42,
+      "gas:candidate-vibid:1001000121283": 18,
+      "gas:candidate-vibid:1001000136079": 51,
+      "special:against-all": 217
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970364&region=0&sub_region=0&type=429",
@@ -632,16 +632,16 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 13,
-      "Баслаковский Юрий Васильевич": 9,
-      "Бондарев Григорий Семенович": 51,
-      "Бурков Валерий Анатольевич": 23,
-      "Бялко Александр Андреевич": 70,
-      "Глазьев Сергей Юрьевич": 543,
-      "Жилкин Сергей Николаевич": 26,
-      "Пахомов Кирилл Владимирович": 6,
-      "Спирин Юрий Леонидович": 43,
-      "Против всех": 250
+      "gas:candidate-vibid:1001000190377": 13,
+      "gas:candidate-vibid:350300970379": 9,
+      "gas:candidate-vibid:1001000112229": 51,
+      "gas:candidate-vibid:1001000195101": 23,
+      "gas:candidate-vibid:1001000113951": 70,
+      "gas:candidate-vibid:1001000188011": 543,
+      "gas:candidate-vibid:1001000220822": 26,
+      "gas:candidate-vibid:1001000121283": 6,
+      "gas:candidate-vibid:1001000136079": 43,
+      "special:against-all": 250
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970364&region=0&sub_region=0&type=429",
@@ -691,16 +691,16 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 5,
-      "Баслаковский Юрий Васильевич": 8,
-      "Бондарев Григорий Семенович": 36,
-      "Бурков Валерий Анатольевич": 20,
-      "Бялко Александр Андреевич": 48,
-      "Глазьев Сергей Юрьевич": 487,
-      "Жилкин Сергей Николаевич": 42,
-      "Пахомов Кирилл Владимирович": 12,
-      "Спирин Юрий Леонидович": 26,
-      "Против всех": 195
+      "gas:candidate-vibid:1001000190377": 5,
+      "gas:candidate-vibid:350300970379": 8,
+      "gas:candidate-vibid:1001000112229": 36,
+      "gas:candidate-vibid:1001000195101": 20,
+      "gas:candidate-vibid:1001000113951": 48,
+      "gas:candidate-vibid:1001000188011": 487,
+      "gas:candidate-vibid:1001000220822": 42,
+      "gas:candidate-vibid:1001000121283": 12,
+      "gas:candidate-vibid:1001000136079": 26,
+      "special:against-all": 195
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970364&region=0&sub_region=0&type=429",
@@ -750,16 +750,16 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 31,
-      "Баслаковский Юрий Васильевич": 27,
-      "Бондарев Григорий Семенович": 58,
-      "Бурков Валерий Анатольевич": 32,
-      "Бялко Александр Андреевич": 102,
-      "Глазьев Сергей Юрьевич": 568,
-      "Жилкин Сергей Николаевич": 53,
-      "Пахомов Кирилл Владимирович": 23,
-      "Спирин Юрий Леонидович": 65,
-      "Против всех": 370
+      "gas:candidate-vibid:1001000190377": 31,
+      "gas:candidate-vibid:350300970379": 27,
+      "gas:candidate-vibid:1001000112229": 58,
+      "gas:candidate-vibid:1001000195101": 32,
+      "gas:candidate-vibid:1001000113951": 102,
+      "gas:candidate-vibid:1001000188011": 568,
+      "gas:candidate-vibid:1001000220822": 53,
+      "gas:candidate-vibid:1001000121283": 23,
+      "gas:candidate-vibid:1001000136079": 65,
+      "special:against-all": 370
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970364&region=0&sub_region=0&type=429",
@@ -809,16 +809,16 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 1,
-      "Баслаковский Юрий Васильевич": 1,
-      "Бондарев Григорий Семенович": 7,
-      "Бурков Валерий Анатольевич": 1,
-      "Бялко Александр Андреевич": 2,
-      "Глазьев Сергей Юрьевич": 44,
-      "Жилкин Сергей Николаевич": 1,
-      "Пахомов Кирилл Владимирович": 2,
-      "Спирин Юрий Леонидович": 6,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000190377": 1,
+      "gas:candidate-vibid:350300970379": 1,
+      "gas:candidate-vibid:1001000112229": 7,
+      "gas:candidate-vibid:1001000195101": 1,
+      "gas:candidate-vibid:1001000113951": 2,
+      "gas:candidate-vibid:1001000188011": 44,
+      "gas:candidate-vibid:1001000220822": 1,
+      "gas:candidate-vibid:1001000121283": 2,
+      "gas:candidate-vibid:1001000136079": 6,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970364&region=0&sub_region=0&type=429",
@@ -868,16 +868,16 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 9,
-      "Баслаковский Юрий Васильевич": 2,
-      "Бондарев Григорий Семенович": 10,
-      "Бурков Валерий Анатольевич": 2,
-      "Бялко Александр Андреевич": 10,
-      "Глазьев Сергей Юрьевич": 111,
-      "Жилкин Сергей Николаевич": 2,
-      "Пахомов Кирилл Владимирович": 1,
-      "Спирин Юрий Леонидович": 5,
-      "Против всех": 28
+      "gas:candidate-vibid:1001000190377": 9,
+      "gas:candidate-vibid:350300970379": 2,
+      "gas:candidate-vibid:1001000112229": 10,
+      "gas:candidate-vibid:1001000195101": 2,
+      "gas:candidate-vibid:1001000113951": 10,
+      "gas:candidate-vibid:1001000188011": 111,
+      "gas:candidate-vibid:1001000220822": 2,
+      "gas:candidate-vibid:1001000121283": 1,
+      "gas:candidate-vibid:1001000136079": 5,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970364&region=0&sub_region=0&type=429",
@@ -927,16 +927,16 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 3,
-      "Баслаковский Юрий Васильевич": 1,
-      "Бондарев Григорий Семенович": 4,
-      "Бурков Валерий Анатольевич": 1,
-      "Бялко Александр Андреевич": 2,
-      "Глазьев Сергей Юрьевич": 63,
-      "Жилкин Сергей Николаевич": 5,
-      "Пахомов Кирилл Владимирович": 0,
-      "Спирин Юрий Леонидович": 7,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000190377": 3,
+      "gas:candidate-vibid:350300970379": 1,
+      "gas:candidate-vibid:1001000112229": 4,
+      "gas:candidate-vibid:1001000195101": 1,
+      "gas:candidate-vibid:1001000113951": 2,
+      "gas:candidate-vibid:1001000188011": 63,
+      "gas:candidate-vibid:1001000220822": 5,
+      "gas:candidate-vibid:1001000121283": 0,
+      "gas:candidate-vibid:1001000136079": 7,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970364&region=0&sub_region=0&type=429",
@@ -986,16 +986,16 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 5,
-      "Баслаковский Юрий Васильевич": 0,
-      "Бондарев Григорий Семенович": 2,
-      "Бурков Валерий Анатольевич": 1,
-      "Бялко Александр Андреевич": 6,
-      "Глазьев Сергей Юрьевич": 130,
-      "Жилкин Сергей Николаевич": 2,
-      "Пахомов Кирилл Владимирович": 3,
-      "Спирин Юрий Леонидович": 2,
-      "Против всех": 39
+      "gas:candidate-vibid:1001000190377": 5,
+      "gas:candidate-vibid:350300970379": 0,
+      "gas:candidate-vibid:1001000112229": 2,
+      "gas:candidate-vibid:1001000195101": 1,
+      "gas:candidate-vibid:1001000113951": 6,
+      "gas:candidate-vibid:1001000188011": 130,
+      "gas:candidate-vibid:1001000220822": 2,
+      "gas:candidate-vibid:1001000121283": 3,
+      "gas:candidate-vibid:1001000136079": 2,
+      "special:against-all": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970364&region=0&sub_region=0&type=429",
@@ -1045,16 +1045,16 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 12,
-      "Баслаковский Юрий Васильевич": 7,
-      "Бондарев Григорий Семенович": 13,
-      "Бурков Валерий Анатольевич": 8,
-      "Бялко Александр Андреевич": 34,
-      "Глазьев Сергей Юрьевич": 316,
-      "Жилкин Сергей Николаевич": 13,
-      "Пахомов Кирилл Владимирович": 3,
-      "Спирин Юрий Леонидович": 8,
-      "Против всех": 84
+      "gas:candidate-vibid:1001000190377": 12,
+      "gas:candidate-vibid:350300970379": 7,
+      "gas:candidate-vibid:1001000112229": 13,
+      "gas:candidate-vibid:1001000195101": 8,
+      "gas:candidate-vibid:1001000113951": 34,
+      "gas:candidate-vibid:1001000188011": 316,
+      "gas:candidate-vibid:1001000220822": 13,
+      "gas:candidate-vibid:1001000121283": 3,
+      "gas:candidate-vibid:1001000136079": 8,
+      "special:against-all": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970364&region=0&sub_region=0&type=429",
@@ -1104,16 +1104,16 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 1,
-      "Баслаковский Юрий Васильевич": 0,
-      "Бондарев Григорий Семенович": 2,
-      "Бурков Валерий Анатольевич": 1,
-      "Бялко Александр Андреевич": 2,
-      "Глазьев Сергей Юрьевич": 61,
-      "Жилкин Сергей Николаевич": 1,
-      "Пахомов Кирилл Владимирович": 1,
-      "Спирин Юрий Леонидович": 0,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000190377": 1,
+      "gas:candidate-vibid:350300970379": 0,
+      "gas:candidate-vibid:1001000112229": 2,
+      "gas:candidate-vibid:1001000195101": 1,
+      "gas:candidate-vibid:1001000113951": 2,
+      "gas:candidate-vibid:1001000188011": 61,
+      "gas:candidate-vibid:1001000220822": 1,
+      "gas:candidate-vibid:1001000121283": 1,
+      "gas:candidate-vibid:1001000136079": 0,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970364&region=0&sub_region=0&type=429",
@@ -1163,16 +1163,16 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 6,
-      "Баслаковский Юрий Васильевич": 2,
-      "Бондарев Григорий Семенович": 11,
-      "Бурков Валерий Анатольевич": 10,
-      "Бялко Александр Андреевич": 15,
-      "Глазьев Сергей Юрьевич": 183,
-      "Жилкин Сергей Николаевич": 9,
-      "Пахомов Кирилл Владимирович": 1,
-      "Спирин Юрий Леонидович": 5,
-      "Против всех": 70
+      "gas:candidate-vibid:1001000190377": 6,
+      "gas:candidate-vibid:350300970379": 2,
+      "gas:candidate-vibid:1001000112229": 11,
+      "gas:candidate-vibid:1001000195101": 10,
+      "gas:candidate-vibid:1001000113951": 15,
+      "gas:candidate-vibid:1001000188011": 183,
+      "gas:candidate-vibid:1001000220822": 9,
+      "gas:candidate-vibid:1001000121283": 1,
+      "gas:candidate-vibid:1001000136079": 5,
+      "special:against-all": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970364&region=0&sub_region=0&type=429",
@@ -1222,16 +1222,16 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 22,
-      "Баслаковский Юрий Васильевич": 10,
-      "Бондарев Григорий Семенович": 57,
-      "Бурков Валерий Анатольевич": 12,
-      "Бялко Александр Андреевич": 95,
-      "Глазьев Сергей Юрьевич": 614,
-      "Жилкин Сергей Николаевич": 47,
-      "Пахомов Кирилл Владимирович": 7,
-      "Спирин Юрий Леонидович": 38,
-      "Против всех": 310
+      "gas:candidate-vibid:1001000190377": 22,
+      "gas:candidate-vibid:350300970379": 10,
+      "gas:candidate-vibid:1001000112229": 57,
+      "gas:candidate-vibid:1001000195101": 12,
+      "gas:candidate-vibid:1001000113951": 95,
+      "gas:candidate-vibid:1001000188011": 614,
+      "gas:candidate-vibid:1001000220822": 47,
+      "gas:candidate-vibid:1001000121283": 7,
+      "gas:candidate-vibid:1001000136079": 38,
+      "special:against-all": 310
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970365&region=0&sub_region=0&type=429",
@@ -1281,16 +1281,16 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 13,
-      "Баслаковский Юрий Васильевич": 35,
-      "Бондарев Григорий Семенович": 76,
-      "Бурков Валерий Анатольевич": 8,
-      "Бялко Александр Андреевич": 66,
-      "Глазьев Сергей Юрьевич": 670,
-      "Жилкин Сергей Николаевич": 29,
-      "Пахомов Кирилл Владимирович": 6,
-      "Спирин Юрий Леонидович": 38,
-      "Против всех": 259
+      "gas:candidate-vibid:1001000190377": 13,
+      "gas:candidate-vibid:350300970379": 35,
+      "gas:candidate-vibid:1001000112229": 76,
+      "gas:candidate-vibid:1001000195101": 8,
+      "gas:candidate-vibid:1001000113951": 66,
+      "gas:candidate-vibid:1001000188011": 670,
+      "gas:candidate-vibid:1001000220822": 29,
+      "gas:candidate-vibid:1001000121283": 6,
+      "gas:candidate-vibid:1001000136079": 38,
+      "special:against-all": 259
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970365&region=0&sub_region=0&type=429",
@@ -1340,16 +1340,16 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 11,
-      "Баслаковский Юрий Васильевич": 22,
-      "Бондарев Григорий Семенович": 61,
-      "Бурков Валерий Анатольевич": 9,
-      "Бялко Александр Андреевич": 97,
-      "Глазьев Сергей Юрьевич": 544,
-      "Жилкин Сергей Николаевич": 28,
-      "Пахомов Кирилл Владимирович": 6,
-      "Спирин Юрий Леонидович": 32,
-      "Против всех": 237
+      "gas:candidate-vibid:1001000190377": 11,
+      "gas:candidate-vibid:350300970379": 22,
+      "gas:candidate-vibid:1001000112229": 61,
+      "gas:candidate-vibid:1001000195101": 9,
+      "gas:candidate-vibid:1001000113951": 97,
+      "gas:candidate-vibid:1001000188011": 544,
+      "gas:candidate-vibid:1001000220822": 28,
+      "gas:candidate-vibid:1001000121283": 6,
+      "gas:candidate-vibid:1001000136079": 32,
+      "special:against-all": 237
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970365&region=0&sub_region=0&type=429",
@@ -1399,16 +1399,16 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 16,
-      "Баслаковский Юрий Васильевич": 26,
-      "Бондарев Григорий Семенович": 73,
-      "Бурков Валерий Анатольевич": 20,
-      "Бялко Александр Андреевич": 117,
-      "Глазьев Сергей Юрьевич": 769,
-      "Жилкин Сергей Николаевич": 39,
-      "Пахомов Кирилл Владимирович": 10,
-      "Спирин Юрий Леонидович": 37,
-      "Против всех": 314
+      "gas:candidate-vibid:1001000190377": 16,
+      "gas:candidate-vibid:350300970379": 26,
+      "gas:candidate-vibid:1001000112229": 73,
+      "gas:candidate-vibid:1001000195101": 20,
+      "gas:candidate-vibid:1001000113951": 117,
+      "gas:candidate-vibid:1001000188011": 769,
+      "gas:candidate-vibid:1001000220822": 39,
+      "gas:candidate-vibid:1001000121283": 10,
+      "gas:candidate-vibid:1001000136079": 37,
+      "special:against-all": 314
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970365&region=0&sub_region=0&type=429",
@@ -1458,16 +1458,16 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 21,
-      "Баслаковский Юрий Васильевич": 25,
-      "Бондарев Григорий Семенович": 50,
-      "Бурков Валерий Анатольевич": 11,
-      "Бялко Александр Андреевич": 82,
-      "Глазьев Сергей Юрьевич": 578,
-      "Жилкин Сергей Николаевич": 37,
-      "Пахомов Кирилл Владимирович": 15,
-      "Спирин Юрий Леонидович": 33,
-      "Против всех": 248
+      "gas:candidate-vibid:1001000190377": 21,
+      "gas:candidate-vibid:350300970379": 25,
+      "gas:candidate-vibid:1001000112229": 50,
+      "gas:candidate-vibid:1001000195101": 11,
+      "gas:candidate-vibid:1001000113951": 82,
+      "gas:candidate-vibid:1001000188011": 578,
+      "gas:candidate-vibid:1001000220822": 37,
+      "gas:candidate-vibid:1001000121283": 15,
+      "gas:candidate-vibid:1001000136079": 33,
+      "special:against-all": 248
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970365&region=0&sub_region=0&type=429",
@@ -1517,16 +1517,16 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 3,
-      "Баслаковский Юрий Васильевич": 3,
-      "Бондарев Григорий Семенович": 21,
-      "Бурков Валерий Анатольевич": 2,
-      "Бялко Александр Андреевич": 30,
-      "Глазьев Сергей Юрьевич": 174,
-      "Жилкин Сергей Николаевич": 7,
-      "Пахомов Кирилл Владимирович": 2,
-      "Спирин Юрий Леонидович": 13,
-      "Против всех": 76
+      "gas:candidate-vibid:1001000190377": 3,
+      "gas:candidate-vibid:350300970379": 3,
+      "gas:candidate-vibid:1001000112229": 21,
+      "gas:candidate-vibid:1001000195101": 2,
+      "gas:candidate-vibid:1001000113951": 30,
+      "gas:candidate-vibid:1001000188011": 174,
+      "gas:candidate-vibid:1001000220822": 7,
+      "gas:candidate-vibid:1001000121283": 2,
+      "gas:candidate-vibid:1001000136079": 13,
+      "special:against-all": 76
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970365&region=0&sub_region=0&type=429",
@@ -1576,16 +1576,16 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 23,
-      "Баслаковский Юрий Васильевич": 52,
-      "Бондарев Григорий Семенович": 15,
-      "Бурков Валерий Анатольевич": 21,
-      "Бялко Александр Андреевич": 81,
-      "Глазьев Сергей Юрьевич": 678,
-      "Жилкин Сергей Николаевич": 31,
-      "Пахомов Кирилл Владимирович": 8,
-      "Спирин Юрий Леонидович": 46,
-      "Против всех": 298
+      "gas:candidate-vibid:1001000190377": 23,
+      "gas:candidate-vibid:350300970379": 52,
+      "gas:candidate-vibid:1001000112229": 15,
+      "gas:candidate-vibid:1001000195101": 21,
+      "gas:candidate-vibid:1001000113951": 81,
+      "gas:candidate-vibid:1001000188011": 678,
+      "gas:candidate-vibid:1001000220822": 31,
+      "gas:candidate-vibid:1001000121283": 8,
+      "gas:candidate-vibid:1001000136079": 46,
+      "special:against-all": 298
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970365&region=0&sub_region=0&type=429",
@@ -1635,16 +1635,16 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 14,
-      "Баслаковский Юрий Васильевич": 20,
-      "Бондарев Григорий Семенович": 80,
-      "Бурков Валерий Анатольевич": 10,
-      "Бялко Александр Андреевич": 69,
-      "Глазьев Сергей Юрьевич": 471,
-      "Жилкин Сергей Николаевич": 29,
-      "Пахомов Кирилл Владимирович": 11,
-      "Спирин Юрий Леонидович": 18,
-      "Против всех": 180
+      "gas:candidate-vibid:1001000190377": 14,
+      "gas:candidate-vibid:350300970379": 20,
+      "gas:candidate-vibid:1001000112229": 80,
+      "gas:candidate-vibid:1001000195101": 10,
+      "gas:candidate-vibid:1001000113951": 69,
+      "gas:candidate-vibid:1001000188011": 471,
+      "gas:candidate-vibid:1001000220822": 29,
+      "gas:candidate-vibid:1001000121283": 11,
+      "gas:candidate-vibid:1001000136079": 18,
+      "special:against-all": 180
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970365&region=0&sub_region=0&type=429",
@@ -1694,16 +1694,16 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 3,
-      "Баслаковский Юрий Васильевич": 6,
-      "Бондарев Григорий Семенович": 9,
-      "Бурков Валерий Анатольевич": 5,
-      "Бялко Александр Андреевич": 11,
-      "Глазьев Сергей Юрьевич": 160,
-      "Жилкин Сергей Николаевич": 3,
-      "Пахомов Кирилл Владимирович": 1,
-      "Спирин Юрий Леонидович": 6,
-      "Против всех": 47
+      "gas:candidate-vibid:1001000190377": 3,
+      "gas:candidate-vibid:350300970379": 6,
+      "gas:candidate-vibid:1001000112229": 9,
+      "gas:candidate-vibid:1001000195101": 5,
+      "gas:candidate-vibid:1001000113951": 11,
+      "gas:candidate-vibid:1001000188011": 160,
+      "gas:candidate-vibid:1001000220822": 3,
+      "gas:candidate-vibid:1001000121283": 1,
+      "gas:candidate-vibid:1001000136079": 6,
+      "special:against-all": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970365&region=0&sub_region=0&type=429",
@@ -1753,16 +1753,16 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 10,
-      "Баслаковский Юрий Васильевич": 9,
-      "Бондарев Григорий Семенович": 28,
-      "Бурков Валерий Анатольевич": 5,
-      "Бялко Александр Андреевич": 36,
-      "Глазьев Сергей Юрьевич": 227,
-      "Жилкин Сергей Николаевич": 18,
-      "Пахомов Кирилл Владимирович": 4,
-      "Спирин Юрий Леонидович": 21,
-      "Против всех": 121
+      "gas:candidate-vibid:1001000190377": 10,
+      "gas:candidate-vibid:350300970379": 9,
+      "gas:candidate-vibid:1001000112229": 28,
+      "gas:candidate-vibid:1001000195101": 5,
+      "gas:candidate-vibid:1001000113951": 36,
+      "gas:candidate-vibid:1001000188011": 227,
+      "gas:candidate-vibid:1001000220822": 18,
+      "gas:candidate-vibid:1001000121283": 4,
+      "gas:candidate-vibid:1001000136079": 21,
+      "special:against-all": 121
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970365&region=0&sub_region=0&type=429",
@@ -1812,16 +1812,16 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 11,
-      "Баслаковский Юрий Васильевич": 17,
-      "Бондарев Григорий Семенович": 126,
-      "Бурков Валерий Анатольевич": 10,
-      "Бялко Александр Андреевич": 35,
-      "Глазьев Сергей Юрьевич": 356,
-      "Жилкин Сергей Николаевич": 17,
-      "Пахомов Кирилл Владимирович": 1,
-      "Спирин Юрий Леонидович": 17,
-      "Против всех": 144
+      "gas:candidate-vibid:1001000190377": 11,
+      "gas:candidate-vibid:350300970379": 17,
+      "gas:candidate-vibid:1001000112229": 126,
+      "gas:candidate-vibid:1001000195101": 10,
+      "gas:candidate-vibid:1001000113951": 35,
+      "gas:candidate-vibid:1001000188011": 356,
+      "gas:candidate-vibid:1001000220822": 17,
+      "gas:candidate-vibid:1001000121283": 1,
+      "gas:candidate-vibid:1001000136079": 17,
+      "special:against-all": 144
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970365&region=0&sub_region=0&type=429",
@@ -1871,16 +1871,16 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 10,
-      "Баслаковский Юрий Васильевич": 8,
-      "Бондарев Григорий Семенович": 11,
-      "Бурков Валерий Анатольевич": 5,
-      "Бялко Александр Андреевич": 14,
-      "Глазьев Сергей Юрьевич": 172,
-      "Жилкин Сергей Николаевич": 5,
-      "Пахомов Кирилл Владимирович": 4,
-      "Спирин Юрий Леонидович": 18,
-      "Против всех": 107
+      "gas:candidate-vibid:1001000190377": 10,
+      "gas:candidate-vibid:350300970379": 8,
+      "gas:candidate-vibid:1001000112229": 11,
+      "gas:candidate-vibid:1001000195101": 5,
+      "gas:candidate-vibid:1001000113951": 14,
+      "gas:candidate-vibid:1001000188011": 172,
+      "gas:candidate-vibid:1001000220822": 5,
+      "gas:candidate-vibid:1001000121283": 4,
+      "gas:candidate-vibid:1001000136079": 18,
+      "special:against-all": 107
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970365&region=0&sub_region=0&type=429",
@@ -1930,16 +1930,16 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 3,
-      "Баслаковский Юрий Васильевич": 6,
-      "Бондарев Григорий Семенович": 21,
-      "Бурков Валерий Анатольевич": 5,
-      "Бялко Александр Андреевич": 38,
-      "Глазьев Сергей Юрьевич": 442,
-      "Жилкин Сергей Николаевич": 24,
-      "Пахомов Кирилл Владимирович": 2,
-      "Спирин Юрий Леонидович": 23,
-      "Против всех": 166
+      "gas:candidate-vibid:1001000190377": 3,
+      "gas:candidate-vibid:350300970379": 6,
+      "gas:candidate-vibid:1001000112229": 21,
+      "gas:candidate-vibid:1001000195101": 5,
+      "gas:candidate-vibid:1001000113951": 38,
+      "gas:candidate-vibid:1001000188011": 442,
+      "gas:candidate-vibid:1001000220822": 24,
+      "gas:candidate-vibid:1001000121283": 2,
+      "gas:candidate-vibid:1001000136079": 23,
+      "special:against-all": 166
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970365&region=0&sub_region=0&type=429",
@@ -1989,16 +1989,16 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 22,
-      "Баслаковский Юрий Васильевич": 5,
-      "Бондарев Григорий Семенович": 29,
-      "Бурков Валерий Анатольевич": 26,
-      "Бялко Александр Андреевич": 82,
-      "Глазьев Сергей Юрьевич": 680,
-      "Жилкин Сергей Николаевич": 33,
-      "Пахомов Кирилл Владимирович": 6,
-      "Спирин Юрий Леонидович": 24,
-      "Против всех": 245
+      "gas:candidate-vibid:1001000190377": 22,
+      "gas:candidate-vibid:350300970379": 5,
+      "gas:candidate-vibid:1001000112229": 29,
+      "gas:candidate-vibid:1001000195101": 26,
+      "gas:candidate-vibid:1001000113951": 82,
+      "gas:candidate-vibid:1001000188011": 680,
+      "gas:candidate-vibid:1001000220822": 33,
+      "gas:candidate-vibid:1001000121283": 6,
+      "gas:candidate-vibid:1001000136079": 24,
+      "special:against-all": 245
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970365&region=0&sub_region=0&type=429",
@@ -2048,16 +2048,16 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 14,
-      "Баслаковский Юрий Васильевич": 4,
-      "Бондарев Григорий Семенович": 7,
-      "Бурков Валерий Анатольевич": 5,
-      "Бялко Александр Андреевич": 20,
-      "Глазьев Сергей Юрьевич": 210,
-      "Жилкин Сергей Николаевич": 12,
-      "Пахомов Кирилл Владимирович": 3,
-      "Спирин Юрий Леонидович": 17,
-      "Против всех": 83
+      "gas:candidate-vibid:1001000190377": 14,
+      "gas:candidate-vibid:350300970379": 4,
+      "gas:candidate-vibid:1001000112229": 7,
+      "gas:candidate-vibid:1001000195101": 5,
+      "gas:candidate-vibid:1001000113951": 20,
+      "gas:candidate-vibid:1001000188011": 210,
+      "gas:candidate-vibid:1001000220822": 12,
+      "gas:candidate-vibid:1001000121283": 3,
+      "gas:candidate-vibid:1001000136079": 17,
+      "special:against-all": 83
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970365&region=0&sub_region=0&type=429",
@@ -2107,16 +2107,16 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 118,
-      "Баслаковский Юрий Васильевич": 11,
-      "Бондарев Григорий Семенович": 22,
-      "Бурков Валерий Анатольевич": 9,
-      "Бялко Александр Андреевич": 50,
-      "Глазьев Сергей Юрьевич": 538,
-      "Жилкин Сергей Николаевич": 30,
-      "Пахомов Кирилл Владимирович": 9,
-      "Спирин Юрий Леонидович": 20,
-      "Против всех": 201
+      "gas:candidate-vibid:1001000190377": 118,
+      "gas:candidate-vibid:350300970379": 11,
+      "gas:candidate-vibid:1001000112229": 22,
+      "gas:candidate-vibid:1001000195101": 9,
+      "gas:candidate-vibid:1001000113951": 50,
+      "gas:candidate-vibid:1001000188011": 538,
+      "gas:candidate-vibid:1001000220822": 30,
+      "gas:candidate-vibid:1001000121283": 9,
+      "gas:candidate-vibid:1001000136079": 20,
+      "special:against-all": 201
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970365&region=0&sub_region=0&type=429",
@@ -2166,16 +2166,16 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 27,
-      "Баслаковский Юрий Васильевич": 10,
-      "Бондарев Григорий Семенович": 35,
-      "Бурков Валерий Анатольевич": 6,
-      "Бялко Александр Андреевич": 26,
-      "Глазьев Сергей Юрьевич": 572,
-      "Жилкин Сергей Николаевич": 29,
-      "Пахомов Кирилл Владимирович": 8,
-      "Спирин Юрий Леонидович": 22,
-      "Против всех": 192
+      "gas:candidate-vibid:1001000190377": 27,
+      "gas:candidate-vibid:350300970379": 10,
+      "gas:candidate-vibid:1001000112229": 35,
+      "gas:candidate-vibid:1001000195101": 6,
+      "gas:candidate-vibid:1001000113951": 26,
+      "gas:candidate-vibid:1001000188011": 572,
+      "gas:candidate-vibid:1001000220822": 29,
+      "gas:candidate-vibid:1001000121283": 8,
+      "gas:candidate-vibid:1001000136079": 22,
+      "special:against-all": 192
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970365&region=0&sub_region=0&type=429",
@@ -2225,16 +2225,16 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 198,
-      "Баслаковский Юрий Васильевич": 12,
-      "Бондарев Григорий Семенович": 51,
-      "Бурков Валерий Анатольевич": 17,
-      "Бялко Александр Андреевич": 55,
-      "Глазьев Сергей Юрьевич": 731,
-      "Жилкин Сергей Николаевич": 25,
-      "Пахомов Кирилл Владимирович": 8,
-      "Спирин Юрий Леонидович": 30,
-      "Против всех": 227
+      "gas:candidate-vibid:1001000190377": 198,
+      "gas:candidate-vibid:350300970379": 12,
+      "gas:candidate-vibid:1001000112229": 51,
+      "gas:candidate-vibid:1001000195101": 17,
+      "gas:candidate-vibid:1001000113951": 55,
+      "gas:candidate-vibid:1001000188011": 731,
+      "gas:candidate-vibid:1001000220822": 25,
+      "gas:candidate-vibid:1001000121283": 8,
+      "gas:candidate-vibid:1001000136079": 30,
+      "special:against-all": 227
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970365&region=0&sub_region=0&type=429",
@@ -2284,16 +2284,16 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 79,
-      "Баслаковский Юрий Васильевич": 9,
-      "Бондарев Григорий Семенович": 27,
-      "Бурков Валерий Анатольевич": 12,
-      "Бялко Александр Андреевич": 42,
-      "Глазьев Сергей Юрьевич": 641,
-      "Жилкин Сергей Николаевич": 32,
-      "Пахомов Кирилл Владимирович": 5,
-      "Спирин Юрий Леонидович": 26,
-      "Против всех": 200
+      "gas:candidate-vibid:1001000190377": 79,
+      "gas:candidate-vibid:350300970379": 9,
+      "gas:candidate-vibid:1001000112229": 27,
+      "gas:candidate-vibid:1001000195101": 12,
+      "gas:candidate-vibid:1001000113951": 42,
+      "gas:candidate-vibid:1001000188011": 641,
+      "gas:candidate-vibid:1001000220822": 32,
+      "gas:candidate-vibid:1001000121283": 5,
+      "gas:candidate-vibid:1001000136079": 26,
+      "special:against-all": 200
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970365&region=0&sub_region=0&type=429",
@@ -2343,16 +2343,16 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 21,
-      "Баслаковский Юрий Васильевич": 12,
-      "Бондарев Григорий Семенович": 31,
-      "Бурков Валерий Анатольевич": 6,
-      "Бялко Александр Андреевич": 26,
-      "Глазьев Сергей Юрьевич": 774,
-      "Жилкин Сергей Николаевич": 18,
-      "Пахомов Кирилл Владимирович": 36,
-      "Спирин Юрий Леонидович": 31,
-      "Против всех": 466
+      "gas:candidate-vibid:1001000190377": 21,
+      "gas:candidate-vibid:350300970379": 12,
+      "gas:candidate-vibid:1001000112229": 31,
+      "gas:candidate-vibid:1001000195101": 6,
+      "gas:candidate-vibid:1001000113951": 26,
+      "gas:candidate-vibid:1001000188011": 774,
+      "gas:candidate-vibid:1001000220822": 18,
+      "gas:candidate-vibid:1001000121283": 36,
+      "gas:candidate-vibid:1001000136079": 31,
+      "special:against-all": 466
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970365&region=0&sub_region=0&type=429",
@@ -2402,16 +2402,16 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 40,
-      "Баслаковский Юрий Васильевич": 12,
-      "Бондарев Григорий Семенович": 38,
-      "Бурков Валерий Анатольевич": 18,
-      "Бялко Александр Андреевич": 48,
-      "Глазьев Сергей Юрьевич": 575,
-      "Жилкин Сергей Николаевич": 43,
-      "Пахомов Кирилл Владимирович": 5,
-      "Спирин Юрий Леонидович": 33,
-      "Против всех": 226
+      "gas:candidate-vibid:1001000190377": 40,
+      "gas:candidate-vibid:350300970379": 12,
+      "gas:candidate-vibid:1001000112229": 38,
+      "gas:candidate-vibid:1001000195101": 18,
+      "gas:candidate-vibid:1001000113951": 48,
+      "gas:candidate-vibid:1001000188011": 575,
+      "gas:candidate-vibid:1001000220822": 43,
+      "gas:candidate-vibid:1001000121283": 5,
+      "gas:candidate-vibid:1001000136079": 33,
+      "special:against-all": 226
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970365&region=0&sub_region=0&type=429",
@@ -2461,16 +2461,16 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 18,
-      "Баслаковский Юрий Васильевич": 12,
-      "Бондарев Григорий Семенович": 40,
-      "Бурков Валерий Анатольевич": 17,
-      "Бялко Александр Андреевич": 59,
-      "Глазьев Сергей Юрьевич": 615,
-      "Жилкин Сергей Николаевич": 21,
-      "Пахомов Кирилл Владимирович": 12,
-      "Спирин Юрий Леонидович": 31,
-      "Против всех": 169
+      "gas:candidate-vibid:1001000190377": 18,
+      "gas:candidate-vibid:350300970379": 12,
+      "gas:candidate-vibid:1001000112229": 40,
+      "gas:candidate-vibid:1001000195101": 17,
+      "gas:candidate-vibid:1001000113951": 59,
+      "gas:candidate-vibid:1001000188011": 615,
+      "gas:candidate-vibid:1001000220822": 21,
+      "gas:candidate-vibid:1001000121283": 12,
+      "gas:candidate-vibid:1001000136079": 31,
+      "special:against-all": 169
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970365&region=0&sub_region=0&type=429",
@@ -2520,16 +2520,16 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 92,
-      "Баслаковский Юрий Васильевич": 10,
-      "Бондарев Григорий Семенович": 36,
-      "Бурков Валерий Анатольевич": 6,
-      "Бялко Александр Андреевич": 35,
-      "Глазьев Сергей Юрьевич": 760,
-      "Жилкин Сергей Николаевич": 22,
-      "Пахомов Кирилл Владимирович": 1,
-      "Спирин Юрий Леонидович": 15,
-      "Против всех": 177
+      "gas:candidate-vibid:1001000190377": 92,
+      "gas:candidate-vibid:350300970379": 10,
+      "gas:candidate-vibid:1001000112229": 36,
+      "gas:candidate-vibid:1001000195101": 6,
+      "gas:candidate-vibid:1001000113951": 35,
+      "gas:candidate-vibid:1001000188011": 760,
+      "gas:candidate-vibid:1001000220822": 22,
+      "gas:candidate-vibid:1001000121283": 1,
+      "gas:candidate-vibid:1001000136079": 15,
+      "special:against-all": 177
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970365&region=0&sub_region=0&type=429",
@@ -2579,16 +2579,16 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 9,
-      "Баслаковский Юрий Васильевич": 5,
-      "Бондарев Григорий Семенович": 70,
-      "Бурков Валерий Анатольевич": 10,
-      "Бялко Александр Андреевич": 42,
-      "Глазьев Сергей Юрьевич": 509,
-      "Жилкин Сергей Николаевич": 31,
-      "Пахомов Кирилл Владимирович": 10,
-      "Спирин Юрий Леонидович": 34,
-      "Против всех": 232
+      "gas:candidate-vibid:1001000190377": 9,
+      "gas:candidate-vibid:350300970379": 5,
+      "gas:candidate-vibid:1001000112229": 70,
+      "gas:candidate-vibid:1001000195101": 10,
+      "gas:candidate-vibid:1001000113951": 42,
+      "gas:candidate-vibid:1001000188011": 509,
+      "gas:candidate-vibid:1001000220822": 31,
+      "gas:candidate-vibid:1001000121283": 10,
+      "gas:candidate-vibid:1001000136079": 34,
+      "special:against-all": 232
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970365&region=0&sub_region=0&type=429",
@@ -2638,16 +2638,16 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 14,
-      "Баслаковский Юрий Васильевич": 22,
-      "Бондарев Григорий Семенович": 69,
-      "Бурков Валерий Анатольевич": 12,
-      "Бялко Александр Андреевич": 88,
-      "Глазьев Сергей Юрьевич": 810,
-      "Жилкин Сергей Николаевич": 29,
-      "Пахомов Кирилл Владимирович": 3,
-      "Спирин Юрий Леонидович": 21,
-      "Против всех": 245
+      "gas:candidate-vibid:1001000190377": 14,
+      "gas:candidate-vibid:350300970379": 22,
+      "gas:candidate-vibid:1001000112229": 69,
+      "gas:candidate-vibid:1001000195101": 12,
+      "gas:candidate-vibid:1001000113951": 88,
+      "gas:candidate-vibid:1001000188011": 810,
+      "gas:candidate-vibid:1001000220822": 29,
+      "gas:candidate-vibid:1001000121283": 3,
+      "gas:candidate-vibid:1001000136079": 21,
+      "special:against-all": 245
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970365&region=0&sub_region=0&type=429",
@@ -2697,16 +2697,16 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 5,
-      "Баслаковский Юрий Васильевич": 2,
-      "Бондарев Григорий Семенович": 7,
-      "Бурков Валерий Анатольевич": 0,
-      "Бялко Александр Андреевич": 10,
-      "Глазьев Сергей Юрьевич": 141,
-      "Жилкин Сергей Николаевич": 6,
-      "Пахомов Кирилл Владимирович": 0,
-      "Спирин Юрий Леонидович": 3,
-      "Против всех": 50
+      "gas:candidate-vibid:1001000190377": 5,
+      "gas:candidate-vibid:350300970379": 2,
+      "gas:candidate-vibid:1001000112229": 7,
+      "gas:candidate-vibid:1001000195101": 0,
+      "gas:candidate-vibid:1001000113951": 10,
+      "gas:candidate-vibid:1001000188011": 141,
+      "gas:candidate-vibid:1001000220822": 6,
+      "gas:candidate-vibid:1001000121283": 0,
+      "gas:candidate-vibid:1001000136079": 3,
+      "special:against-all": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970365&region=0&sub_region=0&type=429",
@@ -2756,16 +2756,16 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 116,
-      "Баслаковский Юрий Васильевич": 13,
-      "Бондарев Григорий Семенович": 50,
-      "Бурков Валерий Анатольевич": 15,
-      "Бялко Александр Андреевич": 76,
-      "Глазьев Сергей Юрьевич": 502,
-      "Жилкин Сергей Николаевич": 51,
-      "Пахомов Кирилл Владимирович": 14,
-      "Спирин Юрий Леонидович": 43,
-      "Против всех": 292
+      "gas:candidate-vibid:1001000190377": 116,
+      "gas:candidate-vibid:350300970379": 13,
+      "gas:candidate-vibid:1001000112229": 50,
+      "gas:candidate-vibid:1001000195101": 15,
+      "gas:candidate-vibid:1001000113951": 76,
+      "gas:candidate-vibid:1001000188011": 502,
+      "gas:candidate-vibid:1001000220822": 51,
+      "gas:candidate-vibid:1001000121283": 14,
+      "gas:candidate-vibid:1001000136079": 43,
+      "special:against-all": 292
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970365&region=0&sub_region=0&type=429",
@@ -2815,16 +2815,16 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 20,
-      "Баслаковский Юрий Васильевич": 30,
-      "Бондарев Григорий Семенович": 63,
-      "Бурков Валерий Анатольевич": 21,
-      "Бялко Александр Андреевич": 76,
-      "Глазьев Сергей Юрьевич": 706,
-      "Жилкин Сергей Николаевич": 41,
-      "Пахомов Кирилл Владимирович": 13,
-      "Спирин Юрий Леонидович": 31,
-      "Против всех": 262
+      "gas:candidate-vibid:1001000190377": 20,
+      "gas:candidate-vibid:350300970379": 30,
+      "gas:candidate-vibid:1001000112229": 63,
+      "gas:candidate-vibid:1001000195101": 21,
+      "gas:candidate-vibid:1001000113951": 76,
+      "gas:candidate-vibid:1001000188011": 706,
+      "gas:candidate-vibid:1001000220822": 41,
+      "gas:candidate-vibid:1001000121283": 13,
+      "gas:candidate-vibid:1001000136079": 31,
+      "special:against-all": 262
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970365&region=0&sub_region=0&type=429",
@@ -2874,16 +2874,16 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 7,
-      "Баслаковский Юрий Васильевич": 11,
-      "Бондарев Григорий Семенович": 20,
-      "Бурков Валерий Анатольевич": 4,
-      "Бялко Александр Андреевич": 34,
-      "Глазьев Сергей Юрьевич": 321,
-      "Жилкин Сергей Николаевич": 24,
-      "Пахомов Кирилл Владимирович": 4,
-      "Спирин Юрий Леонидович": 16,
-      "Против всех": 146
+      "gas:candidate-vibid:1001000190377": 7,
+      "gas:candidate-vibid:350300970379": 11,
+      "gas:candidate-vibid:1001000112229": 20,
+      "gas:candidate-vibid:1001000195101": 4,
+      "gas:candidate-vibid:1001000113951": 34,
+      "gas:candidate-vibid:1001000188011": 321,
+      "gas:candidate-vibid:1001000220822": 24,
+      "gas:candidate-vibid:1001000121283": 4,
+      "gas:candidate-vibid:1001000136079": 16,
+      "special:against-all": 146
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970365&region=0&sub_region=0&type=429",
@@ -2933,16 +2933,16 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 13,
-      "Баслаковский Юрий Васильевич": 14,
-      "Бондарев Григорий Семенович": 41,
-      "Бурков Валерий Анатольевич": 6,
-      "Бялко Александр Андреевич": 33,
-      "Глазьев Сергей Юрьевич": 503,
-      "Жилкин Сергей Николаевич": 37,
-      "Пахомов Кирилл Владимирович": 4,
-      "Спирин Юрий Леонидович": 34,
-      "Против всех": 200
+      "gas:candidate-vibid:1001000190377": 13,
+      "gas:candidate-vibid:350300970379": 14,
+      "gas:candidate-vibid:1001000112229": 41,
+      "gas:candidate-vibid:1001000195101": 6,
+      "gas:candidate-vibid:1001000113951": 33,
+      "gas:candidate-vibid:1001000188011": 503,
+      "gas:candidate-vibid:1001000220822": 37,
+      "gas:candidate-vibid:1001000121283": 4,
+      "gas:candidate-vibid:1001000136079": 34,
+      "special:against-all": 200
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970365&region=0&sub_region=0&type=429",
@@ -2992,16 +2992,16 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 9,
-      "Баслаковский Юрий Васильевич": 18,
-      "Бондарев Григорий Семенович": 57,
-      "Бурков Валерий Анатольевич": 10,
-      "Бялко Александр Андреевич": 102,
-      "Глазьев Сергей Юрьевич": 653,
-      "Жилкин Сергей Николаевич": 25,
-      "Пахомов Кирилл Владимирович": 9,
-      "Спирин Юрий Леонидович": 29,
-      "Против всех": 278
+      "gas:candidate-vibid:1001000190377": 9,
+      "gas:candidate-vibid:350300970379": 18,
+      "gas:candidate-vibid:1001000112229": 57,
+      "gas:candidate-vibid:1001000195101": 10,
+      "gas:candidate-vibid:1001000113951": 102,
+      "gas:candidate-vibid:1001000188011": 653,
+      "gas:candidate-vibid:1001000220822": 25,
+      "gas:candidate-vibid:1001000121283": 9,
+      "gas:candidate-vibid:1001000136079": 29,
+      "special:against-all": 278
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970365&region=0&sub_region=0&type=429",
@@ -3051,16 +3051,16 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 7,
-      "Баслаковский Юрий Васильевич": 17,
-      "Бондарев Григорий Семенович": 57,
-      "Бурков Валерий Анатольевич": 6,
-      "Бялко Александр Андреевич": 41,
-      "Глазьев Сергей Юрьевич": 514,
-      "Жилкин Сергей Николаевич": 24,
-      "Пахомов Кирилл Владимирович": 6,
-      "Спирин Юрий Леонидович": 25,
-      "Против всех": 181
+      "gas:candidate-vibid:1001000190377": 7,
+      "gas:candidate-vibid:350300970379": 17,
+      "gas:candidate-vibid:1001000112229": 57,
+      "gas:candidate-vibid:1001000195101": 6,
+      "gas:candidate-vibid:1001000113951": 41,
+      "gas:candidate-vibid:1001000188011": 514,
+      "gas:candidate-vibid:1001000220822": 24,
+      "gas:candidate-vibid:1001000121283": 6,
+      "gas:candidate-vibid:1001000136079": 25,
+      "special:against-all": 181
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970365&region=0&sub_region=0&type=429",
@@ -3110,16 +3110,16 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 11,
-      "Баслаковский Юрий Васильевич": 23,
-      "Бондарев Григорий Семенович": 38,
-      "Бурков Валерий Анатольевич": 11,
-      "Бялко Александр Андреевич": 75,
-      "Глазьев Сергей Юрьевич": 600,
-      "Жилкин Сергей Николаевич": 25,
-      "Пахомов Кирилл Владимирович": 9,
-      "Спирин Юрий Леонидович": 23,
-      "Против всех": 177
+      "gas:candidate-vibid:1001000190377": 11,
+      "gas:candidate-vibid:350300970379": 23,
+      "gas:candidate-vibid:1001000112229": 38,
+      "gas:candidate-vibid:1001000195101": 11,
+      "gas:candidate-vibid:1001000113951": 75,
+      "gas:candidate-vibid:1001000188011": 600,
+      "gas:candidate-vibid:1001000220822": 25,
+      "gas:candidate-vibid:1001000121283": 9,
+      "gas:candidate-vibid:1001000136079": 23,
+      "special:against-all": 177
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970365&region=0&sub_region=0&type=429",
@@ -3169,16 +3169,16 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 8,
-      "Баслаковский Юрий Васильевич": 9,
-      "Бондарев Григорий Семенович": 38,
-      "Бурков Валерий Анатольевич": 11,
-      "Бялко Александр Андреевич": 45,
-      "Глазьев Сергей Юрьевич": 430,
-      "Жилкин Сергей Николаевич": 19,
-      "Пахомов Кирилл Владимирович": 6,
-      "Спирин Юрий Леонидович": 22,
-      "Против всех": 171
+      "gas:candidate-vibid:1001000190377": 8,
+      "gas:candidate-vibid:350300970379": 9,
+      "gas:candidate-vibid:1001000112229": 38,
+      "gas:candidate-vibid:1001000195101": 11,
+      "gas:candidate-vibid:1001000113951": 45,
+      "gas:candidate-vibid:1001000188011": 430,
+      "gas:candidate-vibid:1001000220822": 19,
+      "gas:candidate-vibid:1001000121283": 6,
+      "gas:candidate-vibid:1001000136079": 22,
+      "special:against-all": 171
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970365&region=0&sub_region=0&type=429",
@@ -3228,16 +3228,16 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 4,
-      "Баслаковский Юрий Васильевич": 4,
-      "Бондарев Григорий Семенович": 13,
-      "Бурков Валерий Анатольевич": 6,
-      "Бялко Александр Андреевич": 11,
-      "Глазьев Сергей Юрьевич": 197,
-      "Жилкин Сергей Николаевич": 7,
-      "Пахомов Кирилл Владимирович": 0,
-      "Спирин Юрий Леонидович": 4,
-      "Против всех": 51
+      "gas:candidate-vibid:1001000190377": 4,
+      "gas:candidate-vibid:350300970379": 4,
+      "gas:candidate-vibid:1001000112229": 13,
+      "gas:candidate-vibid:1001000195101": 6,
+      "gas:candidate-vibid:1001000113951": 11,
+      "gas:candidate-vibid:1001000188011": 197,
+      "gas:candidate-vibid:1001000220822": 7,
+      "gas:candidate-vibid:1001000121283": 0,
+      "gas:candidate-vibid:1001000136079": 4,
+      "special:against-all": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970365&region=0&sub_region=0&type=429",
@@ -3287,16 +3287,16 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Адамович Александр Станиславович": 4,
-      "Баслаковский Юрий Васильевич": 5,
-      "Бондарев Григорий Семенович": 32,
-      "Бурков Валерий Анатольевич": 3,
-      "Бялко Александр Андреевич": 11,
-      "Глазьев Сергей Юрьевич": 168,
-      "Жилкин Сергей Николаевич": 0,
-      "Пахомов Кирилл Владимирович": 2,
-      "Спирин Юрий Леонидович": 5,
-      "Против всех": 54
+      "gas:candidate-vibid:1001000190377": 4,
+      "gas:candidate-vibid:350300970379": 5,
+      "gas:candidate-vibid:1001000112229": 32,
+      "gas:candidate-vibid:1001000195101": 3,
+      "gas:candidate-vibid:1001000113951": 11,
+      "gas:candidate-vibid:1001000188011": 168,
+      "gas:candidate-vibid:1001000220822": 0,
+      "gas:candidate-vibid:1001000121283": 2,
+      "gas:candidate-vibid:1001000136079": 5,
+      "special:against-all": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503009007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300970365&region=0&sub_region=0&type=429",
@@ -3346,15 +3346,15 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Головатюк Андрей Михайлович": 15,
-      "Ефремов Сергей Александрович": 7,
-      "Мишин Юрий Васильевич": 7,
-      "Николаев Александр Юрьевич": 21,
-      "Пчелинцев Анатолий Александрович": 35,
-      "Саблин Дмитрий Вадимович": 491,
-      "Савицкая Светлана Васильевна": 24,
-      "Савицкая Светлана Евгеньевна": 87,
-      "Против всех": 123
+      "gas:candidate-vibid:1001000136080": 15,
+      "gas:candidate-vibid:1001000190378": 7,
+      "gas:candidate-vibid:1001000261393": 7,
+      "gas:candidate-vibid:1001000193914": 21,
+      "gas:candidate-vibid:1001000195102": 35,
+      "gas:candidate-vibid:1001000225958": 491,
+      "gas:candidate-vibid:350301070604": 24,
+      "gas:candidate-vibid:1001000121869": 87,
+      "special:against-all": 123
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503010001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301070353&region=0&sub_region=0&type=429",
@@ -3404,15 +3404,15 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Головатюк Андрей Михайлович": 17,
-      "Ефремов Сергей Александрович": 8,
-      "Мишин Юрий Васильевич": 2,
-      "Николаев Александр Юрьевич": 13,
-      "Пчелинцев Анатолий Александрович": 49,
-      "Саблин Дмитрий Вадимович": 624,
-      "Савицкая Светлана Васильевна": 25,
-      "Савицкая Светлана Евгеньевна": 125,
-      "Против всех": 138
+      "gas:candidate-vibid:1001000136080": 17,
+      "gas:candidate-vibid:1001000190378": 8,
+      "gas:candidate-vibid:1001000261393": 2,
+      "gas:candidate-vibid:1001000193914": 13,
+      "gas:candidate-vibid:1001000195102": 49,
+      "gas:candidate-vibid:1001000225958": 624,
+      "gas:candidate-vibid:350301070604": 25,
+      "gas:candidate-vibid:1001000121869": 125,
+      "special:against-all": 138
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503010001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301070353&region=0&sub_region=0&type=429",
@@ -3462,15 +3462,15 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Головатюк Андрей Михайлович": 34,
-      "Ефремов Сергей Александрович": 8,
-      "Мишин Юрий Васильевич": 12,
-      "Николаев Александр Юрьевич": 18,
-      "Пчелинцев Анатолий Александрович": 55,
-      "Саблин Дмитрий Вадимович": 612,
-      "Савицкая Светлана Васильевна": 35,
-      "Савицкая Светлана Евгеньевна": 130,
-      "Против всех": 141
+      "gas:candidate-vibid:1001000136080": 34,
+      "gas:candidate-vibid:1001000190378": 8,
+      "gas:candidate-vibid:1001000261393": 12,
+      "gas:candidate-vibid:1001000193914": 18,
+      "gas:candidate-vibid:1001000195102": 55,
+      "gas:candidate-vibid:1001000225958": 612,
+      "gas:candidate-vibid:350301070604": 35,
+      "gas:candidate-vibid:1001000121869": 130,
+      "special:against-all": 141
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503010001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301070353&region=0&sub_region=0&type=429",
@@ -3520,15 +3520,15 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Головатюк Андрей Михайлович": 28,
-      "Ефремов Сергей Александрович": 14,
-      "Мишин Юрий Васильевич": 4,
-      "Николаев Александр Юрьевич": 20,
-      "Пчелинцев Анатолий Александрович": 56,
-      "Саблин Дмитрий Вадимович": 638,
-      "Савицкая Светлана Васильевна": 47,
-      "Савицкая Светлана Евгеньевна": 142,
-      "Против всех": 173
+      "gas:candidate-vibid:1001000136080": 28,
+      "gas:candidate-vibid:1001000190378": 14,
+      "gas:candidate-vibid:1001000261393": 4,
+      "gas:candidate-vibid:1001000193914": 20,
+      "gas:candidate-vibid:1001000195102": 56,
+      "gas:candidate-vibid:1001000225958": 638,
+      "gas:candidate-vibid:350301070604": 47,
+      "gas:candidate-vibid:1001000121869": 142,
+      "special:against-all": 173
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503010001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301070353&region=0&sub_region=0&type=429",
@@ -3578,15 +3578,15 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Головатюк Андрей Михайлович": 27,
-      "Ефремов Сергей Александрович": 20,
-      "Мишин Юрий Васильевич": 9,
-      "Николаев Александр Юрьевич": 26,
-      "Пчелинцев Анатолий Александрович": 71,
-      "Саблин Дмитрий Вадимович": 573,
-      "Савицкая Светлана Васильевна": 65,
-      "Савицкая Светлана Евгеньевна": 199,
-      "Против всех": 183
+      "gas:candidate-vibid:1001000136080": 27,
+      "gas:candidate-vibid:1001000190378": 20,
+      "gas:candidate-vibid:1001000261393": 9,
+      "gas:candidate-vibid:1001000193914": 26,
+      "gas:candidate-vibid:1001000195102": 71,
+      "gas:candidate-vibid:1001000225958": 573,
+      "gas:candidate-vibid:350301070604": 65,
+      "gas:candidate-vibid:1001000121869": 199,
+      "special:against-all": 183
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503010001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301070353&region=0&sub_region=0&type=429",
@@ -3636,15 +3636,15 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Головатюк Андрей Михайлович": 20,
-      "Ефремов Сергей Александрович": 13,
-      "Мишин Юрий Васильевич": 5,
-      "Николаев Александр Юрьевич": 13,
-      "Пчелинцев Анатолий Александрович": 87,
-      "Саблин Дмитрий Вадимович": 656,
-      "Савицкая Светлана Васильевна": 45,
-      "Савицкая Светлана Евгеньевна": 192,
-      "Против всех": 188
+      "gas:candidate-vibid:1001000136080": 20,
+      "gas:candidate-vibid:1001000190378": 13,
+      "gas:candidate-vibid:1001000261393": 5,
+      "gas:candidate-vibid:1001000193914": 13,
+      "gas:candidate-vibid:1001000195102": 87,
+      "gas:candidate-vibid:1001000225958": 656,
+      "gas:candidate-vibid:350301070604": 45,
+      "gas:candidate-vibid:1001000121869": 192,
+      "special:against-all": 188
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503010001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301070353&region=0&sub_region=0&type=429",
@@ -3694,15 +3694,15 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Головатюк Андрей Михайлович": 25,
-      "Ефремов Сергей Александрович": 13,
-      "Мишин Юрий Васильевич": 8,
-      "Николаев Александр Юрьевич": 27,
-      "Пчелинцев Анатолий Александрович": 89,
-      "Саблин Дмитрий Вадимович": 755,
-      "Савицкая Светлана Васильевна": 33,
-      "Савицкая Светлана Евгеньевна": 159,
-      "Против всех": 198
+      "gas:candidate-vibid:1001000136080": 25,
+      "gas:candidate-vibid:1001000190378": 13,
+      "gas:candidate-vibid:1001000261393": 8,
+      "gas:candidate-vibid:1001000193914": 27,
+      "gas:candidate-vibid:1001000195102": 89,
+      "gas:candidate-vibid:1001000225958": 755,
+      "gas:candidate-vibid:350301070604": 33,
+      "gas:candidate-vibid:1001000121869": 159,
+      "special:against-all": 198
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503010001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301070353&region=0&sub_region=0&type=429",
@@ -3752,15 +3752,15 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Головатюк Андрей Михайлович": 18,
-      "Ефремов Сергей Александрович": 9,
-      "Мишин Юрий Васильевич": 11,
-      "Николаев Александр Юрьевич": 19,
-      "Пчелинцев Анатолий Александрович": 75,
-      "Саблин Дмитрий Вадимович": 633,
-      "Савицкая Светлана Васильевна": 52,
-      "Савицкая Светлана Евгеньевна": 161,
-      "Против всех": 143
+      "gas:candidate-vibid:1001000136080": 18,
+      "gas:candidate-vibid:1001000190378": 9,
+      "gas:candidate-vibid:1001000261393": 11,
+      "gas:candidate-vibid:1001000193914": 19,
+      "gas:candidate-vibid:1001000195102": 75,
+      "gas:candidate-vibid:1001000225958": 633,
+      "gas:candidate-vibid:350301070604": 52,
+      "gas:candidate-vibid:1001000121869": 161,
+      "special:against-all": 143
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503010001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301070353&region=0&sub_region=0&type=429",
@@ -3810,15 +3810,15 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Головатюк Андрей Михайлович": 24,
-      "Ефремов Сергей Александрович": 4,
-      "Мишин Юрий Васильевич": 6,
-      "Николаев Александр Юрьевич": 26,
-      "Пчелинцев Анатолий Александрович": 61,
-      "Саблин Дмитрий Вадимович": 724,
-      "Савицкая Светлана Васильевна": 38,
-      "Савицкая Светлана Евгеньевна": 209,
-      "Против всех": 168
+      "gas:candidate-vibid:1001000136080": 24,
+      "gas:candidate-vibid:1001000190378": 4,
+      "gas:candidate-vibid:1001000261393": 6,
+      "gas:candidate-vibid:1001000193914": 26,
+      "gas:candidate-vibid:1001000195102": 61,
+      "gas:candidate-vibid:1001000225958": 724,
+      "gas:candidate-vibid:350301070604": 38,
+      "gas:candidate-vibid:1001000121869": 209,
+      "special:against-all": 168
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503010001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301070353&region=0&sub_region=0&type=429",
@@ -3868,15 +3868,15 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Головатюк Андрей Михайлович": 12,
-      "Ефремов Сергей Александрович": 15,
-      "Мишин Юрий Васильевич": 5,
-      "Николаев Александр Юрьевич": 11,
-      "Пчелинцев Анатолий Александрович": 77,
-      "Саблин Дмитрий Вадимович": 730,
-      "Савицкая Светлана Васильевна": 34,
-      "Савицкая Светлана Евгеньевна": 184,
-      "Против всех": 142
+      "gas:candidate-vibid:1001000136080": 12,
+      "gas:candidate-vibid:1001000190378": 15,
+      "gas:candidate-vibid:1001000261393": 5,
+      "gas:candidate-vibid:1001000193914": 11,
+      "gas:candidate-vibid:1001000195102": 77,
+      "gas:candidate-vibid:1001000225958": 730,
+      "gas:candidate-vibid:350301070604": 34,
+      "gas:candidate-vibid:1001000121869": 184,
+      "special:against-all": 142
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503010001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301070353&region=0&sub_region=0&type=429",
@@ -3926,15 +3926,15 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Головатюк Андрей Михайлович": 31,
-      "Ефремов Сергей Александрович": 11,
-      "Мишин Юрий Васильевич": 9,
-      "Николаев Александр Юрьевич": 24,
-      "Пчелинцев Анатолий Александрович": 65,
-      "Саблин Дмитрий Вадимович": 697,
-      "Савицкая Светлана Васильевна": 46,
-      "Савицкая Светлана Евгеньевна": 195,
-      "Против всех": 179
+      "gas:candidate-vibid:1001000136080": 31,
+      "gas:candidate-vibid:1001000190378": 11,
+      "gas:candidate-vibid:1001000261393": 9,
+      "gas:candidate-vibid:1001000193914": 24,
+      "gas:candidate-vibid:1001000195102": 65,
+      "gas:candidate-vibid:1001000225958": 697,
+      "gas:candidate-vibid:350301070604": 46,
+      "gas:candidate-vibid:1001000121869": 195,
+      "special:against-all": 179
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503010001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301070353&region=0&sub_region=0&type=429",
@@ -3984,15 +3984,15 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Головатюк Андрей Михайлович": 11,
-      "Ефремов Сергей Александрович": 12,
-      "Мишин Юрий Васильевич": 13,
-      "Николаев Александр Юрьевич": 6,
-      "Пчелинцев Анатолий Александрович": 38,
-      "Саблин Дмитрий Вадимович": 387,
-      "Савицкая Светлана Васильевна": 34,
-      "Савицкая Светлана Евгеньевна": 54,
-      "Против всех": 93
+      "gas:candidate-vibid:1001000136080": 11,
+      "gas:candidate-vibid:1001000190378": 12,
+      "gas:candidate-vibid:1001000261393": 13,
+      "gas:candidate-vibid:1001000193914": 6,
+      "gas:candidate-vibid:1001000195102": 38,
+      "gas:candidate-vibid:1001000225958": 387,
+      "gas:candidate-vibid:350301070604": 34,
+      "gas:candidate-vibid:1001000121869": 54,
+      "special:against-all": 93
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503010001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301070353&region=0&sub_region=0&type=429",
@@ -4042,15 +4042,15 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Головатюк Андрей Михайлович": 60,
-      "Ефремов Сергей Александрович": 28,
-      "Мишин Юрий Васильевич": 11,
-      "Николаев Александр Юрьевич": 24,
-      "Пчелинцев Анатолий Александрович": 70,
-      "Саблин Дмитрий Вадимович": 666,
-      "Савицкая Светлана Васильевна": 56,
-      "Савицкая Светлана Евгеньевна": 180,
-      "Против всех": 278
+      "gas:candidate-vibid:1001000136080": 60,
+      "gas:candidate-vibid:1001000190378": 28,
+      "gas:candidate-vibid:1001000261393": 11,
+      "gas:candidate-vibid:1001000193914": 24,
+      "gas:candidate-vibid:1001000195102": 70,
+      "gas:candidate-vibid:1001000225958": 666,
+      "gas:candidate-vibid:350301070604": 56,
+      "gas:candidate-vibid:1001000121869": 180,
+      "special:against-all": 278
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503010001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301070353&region=0&sub_region=0&type=429",
@@ -4100,15 +4100,15 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Головатюк Андрей Михайлович": 33,
-      "Ефремов Сергей Александрович": 15,
-      "Мишин Юрий Васильевич": 15,
-      "Николаев Александр Юрьевич": 19,
-      "Пчелинцев Анатолий Александрович": 73,
-      "Саблин Дмитрий Вадимович": 565,
-      "Савицкая Светлана Васильевна": 49,
-      "Савицкая Светлана Евгеньевна": 162,
-      "Против всех": 233
+      "gas:candidate-vibid:1001000136080": 33,
+      "gas:candidate-vibid:1001000190378": 15,
+      "gas:candidate-vibid:1001000261393": 15,
+      "gas:candidate-vibid:1001000193914": 19,
+      "gas:candidate-vibid:1001000195102": 73,
+      "gas:candidate-vibid:1001000225958": 565,
+      "gas:candidate-vibid:350301070604": 49,
+      "gas:candidate-vibid:1001000121869": 162,
+      "special:against-all": 233
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503010001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301070353&region=0&sub_region=0&type=429",
@@ -4158,15 +4158,15 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Головатюк Андрей Михайлович": 38,
-      "Ефремов Сергей Александрович": 10,
-      "Мишин Юрий Васильевич": 2,
-      "Николаев Александр Юрьевич": 24,
-      "Пчелинцев Анатолий Александрович": 68,
-      "Саблин Дмитрий Вадимович": 518,
-      "Савицкая Светлана Васильевна": 39,
-      "Савицкая Светлана Евгеньевна": 123,
-      "Против всех": 225
+      "gas:candidate-vibid:1001000136080": 38,
+      "gas:candidate-vibid:1001000190378": 10,
+      "gas:candidate-vibid:1001000261393": 2,
+      "gas:candidate-vibid:1001000193914": 24,
+      "gas:candidate-vibid:1001000195102": 68,
+      "gas:candidate-vibid:1001000225958": 518,
+      "gas:candidate-vibid:350301070604": 39,
+      "gas:candidate-vibid:1001000121869": 123,
+      "special:against-all": 225
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503010001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301070353&region=0&sub_region=0&type=429",
@@ -4216,15 +4216,15 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Головатюк Андрей Михайлович": 22,
-      "Ефремов Сергей Александрович": 21,
-      "Мишин Юрий Васильевич": 12,
-      "Николаев Александр Юрьевич": 32,
-      "Пчелинцев Анатолий Александрович": 71,
-      "Саблин Дмитрий Вадимович": 531,
-      "Савицкая Светлана Васильевна": 38,
-      "Савицкая Светлана Евгеньевна": 141,
-      "Против всех": 226
+      "gas:candidate-vibid:1001000136080": 22,
+      "gas:candidate-vibid:1001000190378": 21,
+      "gas:candidate-vibid:1001000261393": 12,
+      "gas:candidate-vibid:1001000193914": 32,
+      "gas:candidate-vibid:1001000195102": 71,
+      "gas:candidate-vibid:1001000225958": 531,
+      "gas:candidate-vibid:350301070604": 38,
+      "gas:candidate-vibid:1001000121869": 141,
+      "special:against-all": 226
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503010001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301070353&region=0&sub_region=0&type=429",
@@ -4274,15 +4274,15 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Головатюк Андрей Михайлович": 33,
-      "Ефремов Сергей Александрович": 11,
-      "Мишин Юрий Васильевич": 4,
-      "Николаев Александр Юрьевич": 27,
-      "Пчелинцев Анатолий Александрович": 63,
-      "Саблин Дмитрий Вадимович": 445,
-      "Савицкая Светлана Васильевна": 19,
-      "Савицкая Светлана Евгеньевна": 94,
-      "Против всех": 199
+      "gas:candidate-vibid:1001000136080": 33,
+      "gas:candidate-vibid:1001000190378": 11,
+      "gas:candidate-vibid:1001000261393": 4,
+      "gas:candidate-vibid:1001000193914": 27,
+      "gas:candidate-vibid:1001000195102": 63,
+      "gas:candidate-vibid:1001000225958": 445,
+      "gas:candidate-vibid:350301070604": 19,
+      "gas:candidate-vibid:1001000121869": 94,
+      "special:against-all": 199
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503010001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301070353&region=0&sub_region=0&type=429",
@@ -4332,15 +4332,15 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Головатюк Андрей Михайлович": 18,
-      "Ефремов Сергей Александрович": 14,
-      "Мишин Юрий Васильевич": 8,
-      "Николаев Александр Юрьевич": 35,
-      "Пчелинцев Анатолий Александрович": 44,
-      "Саблин Дмитрий Вадимович": 301,
-      "Савицкая Светлана Васильевна": 55,
-      "Савицкая Светлана Евгеньевна": 185,
-      "Против всех": 175
+      "gas:candidate-vibid:1001000136080": 18,
+      "gas:candidate-vibid:1001000190378": 14,
+      "gas:candidate-vibid:1001000261393": 8,
+      "gas:candidate-vibid:1001000193914": 35,
+      "gas:candidate-vibid:1001000195102": 44,
+      "gas:candidate-vibid:1001000225958": 301,
+      "gas:candidate-vibid:350301070604": 55,
+      "gas:candidate-vibid:1001000121869": 185,
+      "special:against-all": 175
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503010001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301070353&region=0&sub_region=0&type=429",
@@ -4390,15 +4390,15 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Головатюк Андрей Михайлович": 33,
-      "Ефремов Сергей Александрович": 13,
-      "Мишин Юрий Васильевич": 9,
-      "Николаев Александр Юрьевич": 25,
-      "Пчелинцев Анатолий Александрович": 42,
-      "Саблин Дмитрий Вадимович": 346,
-      "Савицкая Светлана Васильевна": 32,
-      "Савицкая Светлана Евгеньевна": 188,
-      "Против всех": 216
+      "gas:candidate-vibid:1001000136080": 33,
+      "gas:candidate-vibid:1001000190378": 13,
+      "gas:candidate-vibid:1001000261393": 9,
+      "gas:candidate-vibid:1001000193914": 25,
+      "gas:candidate-vibid:1001000195102": 42,
+      "gas:candidate-vibid:1001000225958": 346,
+      "gas:candidate-vibid:350301070604": 32,
+      "gas:candidate-vibid:1001000121869": 188,
+      "special:against-all": 216
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503010001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301070353&region=0&sub_region=0&type=429",
@@ -4448,15 +4448,15 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Головатюк Андрей Михайлович": 21,
-      "Ефремов Сергей Александрович": 7,
-      "Мишин Юрий Васильевич": 9,
-      "Николаев Александр Юрьевич": 11,
-      "Пчелинцев Анатолий Александрович": 22,
-      "Саблин Дмитрий Вадимович": 163,
-      "Савицкая Светлана Васильевна": 25,
-      "Савицкая Светлана Евгеньевна": 55,
-      "Против всех": 86
+      "gas:candidate-vibid:1001000136080": 21,
+      "gas:candidate-vibid:1001000190378": 7,
+      "gas:candidate-vibid:1001000261393": 9,
+      "gas:candidate-vibid:1001000193914": 11,
+      "gas:candidate-vibid:1001000195102": 22,
+      "gas:candidate-vibid:1001000225958": 163,
+      "gas:candidate-vibid:350301070604": 25,
+      "gas:candidate-vibid:1001000121869": 55,
+      "special:against-all": 86
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503010001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301070353&region=0&sub_region=0&type=429",
@@ -4506,15 +4506,15 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Головатюк Андрей Михайлович": 30,
-      "Ефремов Сергей Александрович": 10,
-      "Мишин Юрий Васильевич": 9,
-      "Николаев Александр Юрьевич": 21,
-      "Пчелинцев Анатолий Александрович": 61,
-      "Саблин Дмитрий Вадимович": 520,
-      "Савицкая Светлана Васильевна": 41,
-      "Савицкая Светлана Евгеньевна": 125,
-      "Против всех": 211
+      "gas:candidate-vibid:1001000136080": 30,
+      "gas:candidate-vibid:1001000190378": 10,
+      "gas:candidate-vibid:1001000261393": 9,
+      "gas:candidate-vibid:1001000193914": 21,
+      "gas:candidate-vibid:1001000195102": 61,
+      "gas:candidate-vibid:1001000225958": 520,
+      "gas:candidate-vibid:350301070604": 41,
+      "gas:candidate-vibid:1001000121869": 125,
+      "special:against-all": 211
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503010001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301070353&region=0&sub_region=0&type=429",
@@ -4564,15 +4564,15 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Головатюк Андрей Михайлович": 23,
-      "Ефремов Сергей Александрович": 8,
-      "Мишин Юрий Васильевич": 2,
-      "Николаев Александр Юрьевич": 34,
-      "Пчелинцев Анатолий Александрович": 57,
-      "Саблин Дмитрий Вадимович": 572,
-      "Савицкая Светлана Васильевна": 43,
-      "Савицкая Светлана Евгеньевна": 120,
-      "Против всех": 203
+      "gas:candidate-vibid:1001000136080": 23,
+      "gas:candidate-vibid:1001000190378": 8,
+      "gas:candidate-vibid:1001000261393": 2,
+      "gas:candidate-vibid:1001000193914": 34,
+      "gas:candidate-vibid:1001000195102": 57,
+      "gas:candidate-vibid:1001000225958": 572,
+      "gas:candidate-vibid:350301070604": 43,
+      "gas:candidate-vibid:1001000121869": 120,
+      "special:against-all": 203
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503010001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301070353&region=0&sub_region=0&type=429",
@@ -4622,15 +4622,15 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Головатюк Андрей Михайлович": 27,
-      "Ефремов Сергей Александрович": 10,
-      "Мишин Юрий Васильевич": 11,
-      "Николаев Александр Юрьевич": 22,
-      "Пчелинцев Анатолий Александрович": 61,
-      "Саблин Дмитрий Вадимович": 429,
-      "Савицкая Светлана Васильевна": 38,
-      "Савицкая Светлана Евгеньевна": 161,
-      "Против всех": 185
+      "gas:candidate-vibid:1001000136080": 27,
+      "gas:candidate-vibid:1001000190378": 10,
+      "gas:candidate-vibid:1001000261393": 11,
+      "gas:candidate-vibid:1001000193914": 22,
+      "gas:candidate-vibid:1001000195102": 61,
+      "gas:candidate-vibid:1001000225958": 429,
+      "gas:candidate-vibid:350301070604": 38,
+      "gas:candidate-vibid:1001000121869": 161,
+      "special:against-all": 185
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503010001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301070353&region=0&sub_region=0&type=429",
@@ -4680,15 +4680,15 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Головатюк Андрей Михайлович": 15,
-      "Ефремов Сергей Александрович": 22,
-      "Мишин Юрий Васильевич": 10,
-      "Николаев Александр Юрьевич": 27,
-      "Пчелинцев Анатолий Александрович": 76,
-      "Саблин Дмитрий Вадимович": 579,
-      "Савицкая Светлана Васильевна": 44,
-      "Савицкая Светлана Евгеньевна": 213,
-      "Против всех": 235
+      "gas:candidate-vibid:1001000136080": 15,
+      "gas:candidate-vibid:1001000190378": 22,
+      "gas:candidate-vibid:1001000261393": 10,
+      "gas:candidate-vibid:1001000193914": 27,
+      "gas:candidate-vibid:1001000195102": 76,
+      "gas:candidate-vibid:1001000225958": 579,
+      "gas:candidate-vibid:350301070604": 44,
+      "gas:candidate-vibid:1001000121869": 213,
+      "special:against-all": 235
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503010001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301070353&region=0&sub_region=0&type=429",
@@ -4738,15 +4738,15 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Головатюк Андрей Михайлович": 27,
-      "Ефремов Сергей Александрович": 19,
-      "Мишин Юрий Васильевич": 6,
-      "Николаев Александр Юрьевич": 29,
-      "Пчелинцев Анатолий Александрович": 55,
-      "Саблин Дмитрий Вадимович": 556,
-      "Савицкая Светлана Васильевна": 42,
-      "Савицкая Светлана Евгеньевна": 147,
-      "Против всех": 185
+      "gas:candidate-vibid:1001000136080": 27,
+      "gas:candidate-vibid:1001000190378": 19,
+      "gas:candidate-vibid:1001000261393": 6,
+      "gas:candidate-vibid:1001000193914": 29,
+      "gas:candidate-vibid:1001000195102": 55,
+      "gas:candidate-vibid:1001000225958": 556,
+      "gas:candidate-vibid:350301070604": 42,
+      "gas:candidate-vibid:1001000121869": 147,
+      "special:against-all": 185
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503010001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301070353&region=0&sub_region=0&type=429",
@@ -4796,15 +4796,15 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Головатюк Андрей Михайлович": 26,
-      "Ефремов Сергей Александрович": 11,
-      "Мишин Юрий Васильевич": 5,
-      "Николаев Александр Юрьевич": 24,
-      "Пчелинцев Анатолий Александрович": 56,
-      "Саблин Дмитрий Вадимович": 493,
-      "Савицкая Светлана Васильевна": 40,
-      "Савицкая Светлана Евгеньевна": 130,
-      "Против всех": 194
+      "gas:candidate-vibid:1001000136080": 26,
+      "gas:candidate-vibid:1001000190378": 11,
+      "gas:candidate-vibid:1001000261393": 5,
+      "gas:candidate-vibid:1001000193914": 24,
+      "gas:candidate-vibid:1001000195102": 56,
+      "gas:candidate-vibid:1001000225958": 493,
+      "gas:candidate-vibid:350301070604": 40,
+      "gas:candidate-vibid:1001000121869": 130,
+      "special:against-all": 194
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503010001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301070353&region=0&sub_region=0&type=429",
@@ -4854,15 +4854,15 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Головатюк Андрей Михайлович": 20,
-      "Ефремов Сергей Александрович": 20,
-      "Мишин Юрий Васильевич": 14,
-      "Николаев Александр Юрьевич": 20,
-      "Пчелинцев Анатолий Александрович": 63,
-      "Саблин Дмитрий Вадимович": 489,
-      "Савицкая Светлана Васильевна": 41,
-      "Савицкая Светлана Евгеньевна": 133,
-      "Против всех": 179
+      "gas:candidate-vibid:1001000136080": 20,
+      "gas:candidate-vibid:1001000190378": 20,
+      "gas:candidate-vibid:1001000261393": 14,
+      "gas:candidate-vibid:1001000193914": 20,
+      "gas:candidate-vibid:1001000195102": 63,
+      "gas:candidate-vibid:1001000225958": 489,
+      "gas:candidate-vibid:350301070604": 41,
+      "gas:candidate-vibid:1001000121869": 133,
+      "special:against-all": 179
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503010001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301070353&region=0&sub_region=0&type=429",
@@ -4912,15 +4912,15 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Головатюк Андрей Михайлович": 22,
-      "Ефремов Сергей Александрович": 19,
-      "Мишин Юрий Васильевич": 6,
-      "Николаев Александр Юрьевич": 17,
-      "Пчелинцев Анатолий Александрович": 42,
-      "Саблин Дмитрий Вадимович": 528,
-      "Савицкая Светлана Васильевна": 38,
-      "Савицкая Светлана Евгеньевна": 125,
-      "Против всех": 173
+      "gas:candidate-vibid:1001000136080": 22,
+      "gas:candidate-vibid:1001000190378": 19,
+      "gas:candidate-vibid:1001000261393": 6,
+      "gas:candidate-vibid:1001000193914": 17,
+      "gas:candidate-vibid:1001000195102": 42,
+      "gas:candidate-vibid:1001000225958": 528,
+      "gas:candidate-vibid:350301070604": 38,
+      "gas:candidate-vibid:1001000121869": 125,
+      "special:against-all": 173
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503010001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301070353&region=0&sub_region=0&type=429",
@@ -4970,15 +4970,15 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Головатюк Андрей Михайлович": 24,
-      "Ефремов Сергей Александрович": 4,
-      "Мишин Юрий Васильевич": 5,
-      "Николаев Александр Юрьевич": 26,
-      "Пчелинцев Анатолий Александрович": 42,
-      "Саблин Дмитрий Вадимович": 538,
-      "Савицкая Светлана Васильевна": 31,
-      "Савицкая Светлана Евгеньевна": 101,
-      "Против всех": 35
+      "gas:candidate-vibid:1001000136080": 24,
+      "gas:candidate-vibid:1001000190378": 4,
+      "gas:candidate-vibid:1001000261393": 5,
+      "gas:candidate-vibid:1001000193914": 26,
+      "gas:candidate-vibid:1001000195102": 42,
+      "gas:candidate-vibid:1001000225958": 538,
+      "gas:candidate-vibid:350301070604": 31,
+      "gas:candidate-vibid:1001000121869": 101,
+      "special:against-all": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503010001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301070353&region=0&sub_region=0&type=429",
@@ -5028,15 +5028,15 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Головатюк Андрей Михайлович": 29,
-      "Ефремов Сергей Александрович": 12,
-      "Мишин Юрий Васильевич": 11,
-      "Николаев Александр Юрьевич": 25,
-      "Пчелинцев Анатолий Александрович": 82,
-      "Саблин Дмитрий Вадимович": 634,
-      "Савицкая Светлана Васильевна": 40,
-      "Савицкая Светлана Евгеньевна": 125,
-      "Против всех": 216
+      "gas:candidate-vibid:1001000136080": 29,
+      "gas:candidate-vibid:1001000190378": 12,
+      "gas:candidate-vibid:1001000261393": 11,
+      "gas:candidate-vibid:1001000193914": 25,
+      "gas:candidate-vibid:1001000195102": 82,
+      "gas:candidate-vibid:1001000225958": 634,
+      "gas:candidate-vibid:350301070604": 40,
+      "gas:candidate-vibid:1001000121869": 125,
+      "special:against-all": 216
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503010001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301070353&region=0&sub_region=0&type=429",
@@ -5086,15 +5086,15 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Головатюк Андрей Михайлович": 27,
-      "Ефремов Сергей Александрович": 17,
-      "Мишин Юрий Васильевич": 11,
-      "Николаев Александр Юрьевич": 15,
-      "Пчелинцев Анатолий Александрович": 61,
-      "Саблин Дмитрий Вадимович": 647,
-      "Савицкая Светлана Васильевна": 23,
-      "Савицкая Светлана Евгеньевна": 103,
-      "Против всех": 178
+      "gas:candidate-vibid:1001000136080": 27,
+      "gas:candidate-vibid:1001000190378": 17,
+      "gas:candidate-vibid:1001000261393": 11,
+      "gas:candidate-vibid:1001000193914": 15,
+      "gas:candidate-vibid:1001000195102": 61,
+      "gas:candidate-vibid:1001000225958": 647,
+      "gas:candidate-vibid:350301070604": 23,
+      "gas:candidate-vibid:1001000121869": 103,
+      "special:against-all": 178
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503010001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301070353&region=0&sub_region=0&type=429",
@@ -5144,15 +5144,15 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Головатюк Андрей Михайлович": 34,
-      "Ефремов Сергей Александрович": 9,
-      "Мишин Юрий Васильевич": 9,
-      "Николаев Александр Юрьевич": 18,
-      "Пчелинцев Анатолий Александрович": 79,
-      "Саблин Дмитрий Вадимович": 596,
-      "Савицкая Светлана Васильевна": 49,
-      "Савицкая Светлана Евгеньевна": 126,
-      "Против всех": 166
+      "gas:candidate-vibid:1001000136080": 34,
+      "gas:candidate-vibid:1001000190378": 9,
+      "gas:candidate-vibid:1001000261393": 9,
+      "gas:candidate-vibid:1001000193914": 18,
+      "gas:candidate-vibid:1001000195102": 79,
+      "gas:candidate-vibid:1001000225958": 596,
+      "gas:candidate-vibid:350301070604": 49,
+      "gas:candidate-vibid:1001000121869": 126,
+      "special:against-all": 166
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503010001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301070353&region=0&sub_region=0&type=429",
@@ -5202,15 +5202,15 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Головатюк Андрей Михайлович": 27,
-      "Ефремов Сергей Александрович": 16,
-      "Мишин Юрий Васильевич": 5,
-      "Николаев Александр Юрьевич": 23,
-      "Пчелинцев Анатолий Александрович": 50,
-      "Саблин Дмитрий Вадимович": 752,
-      "Савицкая Светлана Васильевна": 52,
-      "Савицкая Светлана Евгеньевна": 172,
-      "Против всех": 178
+      "gas:candidate-vibid:1001000136080": 27,
+      "gas:candidate-vibid:1001000190378": 16,
+      "gas:candidate-vibid:1001000261393": 5,
+      "gas:candidate-vibid:1001000193914": 23,
+      "gas:candidate-vibid:1001000195102": 50,
+      "gas:candidate-vibid:1001000225958": 752,
+      "gas:candidate-vibid:350301070604": 52,
+      "gas:candidate-vibid:1001000121869": 172,
+      "special:against-all": 178
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503010001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301070353&region=0&sub_region=0&type=429",
@@ -5260,15 +5260,15 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Головатюк Андрей Михайлович": 17,
-      "Ефремов Сергей Александрович": 11,
-      "Мишин Юрий Васильевич": 3,
-      "Николаев Александр Юрьевич": 21,
-      "Пчелинцев Анатолий Александрович": 48,
-      "Саблин Дмитрий Вадимович": 692,
-      "Савицкая Светлана Васильевна": 37,
-      "Савицкая Светлана Евгеньевна": 176,
-      "Против всех": 174
+      "gas:candidate-vibid:1001000136080": 17,
+      "gas:candidate-vibid:1001000190378": 11,
+      "gas:candidate-vibid:1001000261393": 3,
+      "gas:candidate-vibid:1001000193914": 21,
+      "gas:candidate-vibid:1001000195102": 48,
+      "gas:candidate-vibid:1001000225958": 692,
+      "gas:candidate-vibid:350301070604": 37,
+      "gas:candidate-vibid:1001000121869": 176,
+      "special:against-all": 174
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503010001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301070353&region=0&sub_region=0&type=429",
@@ -5318,15 +5318,15 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Головатюк Андрей Михайлович": 29,
-      "Ефремов Сергей Александрович": 18,
-      "Мишин Юрий Васильевич": 11,
-      "Николаев Александр Юрьевич": 29,
-      "Пчелинцев Анатолий Александрович": 56,
-      "Саблин Дмитрий Вадимович": 667,
-      "Савицкая Светлана Васильевна": 28,
-      "Савицкая Светлана Евгеньевна": 168,
-      "Против всех": 174
+      "gas:candidate-vibid:1001000136080": 29,
+      "gas:candidate-vibid:1001000190378": 18,
+      "gas:candidate-vibid:1001000261393": 11,
+      "gas:candidate-vibid:1001000193914": 29,
+      "gas:candidate-vibid:1001000195102": 56,
+      "gas:candidate-vibid:1001000225958": 667,
+      "gas:candidate-vibid:350301070604": 28,
+      "gas:candidate-vibid:1001000121869": 168,
+      "special:against-all": 174
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503010001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301070353&region=0&sub_region=0&type=429",
@@ -5376,15 +5376,15 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Головатюк Андрей Михайлович": 18,
-      "Ефремов Сергей Александрович": 10,
-      "Мишин Юрий Васильевич": 12,
-      "Николаев Александр Юрьевич": 16,
-      "Пчелинцев Анатолий Александрович": 42,
-      "Саблин Дмитрий Вадимович": 599,
-      "Савицкая Светлана Васильевна": 24,
-      "Савицкая Светлана Евгеньевна": 126,
-      "Против всех": 159
+      "gas:candidate-vibid:1001000136080": 18,
+      "gas:candidate-vibid:1001000190378": 10,
+      "gas:candidate-vibid:1001000261393": 12,
+      "gas:candidate-vibid:1001000193914": 16,
+      "gas:candidate-vibid:1001000195102": 42,
+      "gas:candidate-vibid:1001000225958": 599,
+      "gas:candidate-vibid:350301070604": 24,
+      "gas:candidate-vibid:1001000121869": 126,
+      "special:against-all": 159
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503010001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301070353&region=0&sub_region=0&type=429",
@@ -5434,15 +5434,15 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Головатюк Андрей Михайлович": 23,
-      "Ефремов Сергей Александрович": 8,
-      "Мишин Юрий Васильевич": 8,
-      "Николаев Александр Юрьевич": 16,
-      "Пчелинцев Анатолий Александрович": 39,
-      "Саблин Дмитрий Вадимович": 447,
-      "Савицкая Светлана Васильевна": 31,
-      "Савицкая Светлана Евгеньевна": 136,
-      "Против всех": 125
+      "gas:candidate-vibid:1001000136080": 23,
+      "gas:candidate-vibid:1001000190378": 8,
+      "gas:candidate-vibid:1001000261393": 8,
+      "gas:candidate-vibid:1001000193914": 16,
+      "gas:candidate-vibid:1001000195102": 39,
+      "gas:candidate-vibid:1001000225958": 447,
+      "gas:candidate-vibid:350301070604": 31,
+      "gas:candidate-vibid:1001000121869": 136,
+      "special:against-all": 125
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503010001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301070353&region=0&sub_region=0&type=429",
@@ -5492,15 +5492,15 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Головатюк Андрей Михайлович": 21,
-      "Ефремов Сергей Александрович": 7,
-      "Мишин Юрий Васильевич": 6,
-      "Николаев Александр Юрьевич": 19,
-      "Пчелинцев Анатолий Александрович": 76,
-      "Саблин Дмитрий Вадимович": 716,
-      "Савицкая Светлана Васильевна": 47,
-      "Савицкая Светлана Евгеньевна": 215,
-      "Против всех": 197
+      "gas:candidate-vibid:1001000136080": 21,
+      "gas:candidate-vibid:1001000190378": 7,
+      "gas:candidate-vibid:1001000261393": 6,
+      "gas:candidate-vibid:1001000193914": 19,
+      "gas:candidate-vibid:1001000195102": 76,
+      "gas:candidate-vibid:1001000225958": 716,
+      "gas:candidate-vibid:350301070604": 47,
+      "gas:candidate-vibid:1001000121869": 215,
+      "special:against-all": 197
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503010001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301070353&region=0&sub_region=0&type=429",
@@ -5550,15 +5550,15 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Головатюк Андрей Михайлович": 13,
-      "Ефремов Сергей Александрович": 8,
-      "Мишин Юрий Васильевич": 3,
-      "Николаев Александр Юрьевич": 18,
-      "Пчелинцев Анатолий Александрович": 40,
-      "Саблин Дмитрий Вадимович": 572,
-      "Савицкая Светлана Васильевна": 23,
-      "Савицкая Светлана Евгеньевна": 112,
-      "Против всех": 114
+      "gas:candidate-vibid:1001000136080": 13,
+      "gas:candidate-vibid:1001000190378": 8,
+      "gas:candidate-vibid:1001000261393": 3,
+      "gas:candidate-vibid:1001000193914": 18,
+      "gas:candidate-vibid:1001000195102": 40,
+      "gas:candidate-vibid:1001000225958": 572,
+      "gas:candidate-vibid:350301070604": 23,
+      "gas:candidate-vibid:1001000121869": 112,
+      "special:against-all": 114
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503010001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301070353&region=0&sub_region=0&type=429",
@@ -5608,15 +5608,15 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Головатюк Андрей Михайлович": 33,
-      "Ефремов Сергей Александрович": 11,
-      "Мишин Юрий Васильевич": 9,
-      "Николаев Александр Юрьевич": 38,
-      "Пчелинцев Анатолий Александрович": 46,
-      "Саблин Дмитрий Вадимович": 685,
-      "Савицкая Светлана Васильевна": 50,
-      "Савицкая Светлана Евгеньевна": 196,
-      "Против всех": 164
+      "gas:candidate-vibid:1001000136080": 33,
+      "gas:candidate-vibid:1001000190378": 11,
+      "gas:candidate-vibid:1001000261393": 9,
+      "gas:candidate-vibid:1001000193914": 38,
+      "gas:candidate-vibid:1001000195102": 46,
+      "gas:candidate-vibid:1001000225958": 685,
+      "gas:candidate-vibid:350301070604": 50,
+      "gas:candidate-vibid:1001000121869": 196,
+      "special:against-all": 164
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503010001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301070353&region=0&sub_region=0&type=429",
@@ -5666,15 +5666,15 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Головатюк Андрей Михайлович": 19,
-      "Ефремов Сергей Александрович": 8,
-      "Мишин Юрий Васильевич": 1,
-      "Николаев Александр Юрьевич": 18,
-      "Пчелинцев Анатолий Александрович": 60,
-      "Саблин Дмитрий Вадимович": 565,
-      "Савицкая Светлана Васильевна": 30,
-      "Савицкая Светлана Евгеньевна": 126,
-      "Против всех": 143
+      "gas:candidate-vibid:1001000136080": 19,
+      "gas:candidate-vibid:1001000190378": 8,
+      "gas:candidate-vibid:1001000261393": 1,
+      "gas:candidate-vibid:1001000193914": 18,
+      "gas:candidate-vibid:1001000195102": 60,
+      "gas:candidate-vibid:1001000225958": 565,
+      "gas:candidate-vibid:350301070604": 30,
+      "gas:candidate-vibid:1001000121869": 126,
+      "special:against-all": 143
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503010001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301070353&region=0&sub_region=0&type=429",
@@ -5724,15 +5724,15 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Головатюк Андрей Михайлович": 30,
-      "Ефремов Сергей Александрович": 18,
-      "Мишин Юрий Васильевич": 10,
-      "Николаев Александр Юрьевич": 26,
-      "Пчелинцев Анатолий Александрович": 64,
-      "Саблин Дмитрий Вадимович": 686,
-      "Савицкая Светлана Васильевна": 48,
-      "Савицкая Светлана Евгеньевна": 159,
-      "Против всех": 167
+      "gas:candidate-vibid:1001000136080": 30,
+      "gas:candidate-vibid:1001000190378": 18,
+      "gas:candidate-vibid:1001000261393": 10,
+      "gas:candidate-vibid:1001000193914": 26,
+      "gas:candidate-vibid:1001000195102": 64,
+      "gas:candidate-vibid:1001000225958": 686,
+      "gas:candidate-vibid:350301070604": 48,
+      "gas:candidate-vibid:1001000121869": 159,
+      "special:against-all": 167
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503010001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301070353&region=0&sub_region=0&type=429",
@@ -5782,15 +5782,15 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Головатюк Андрей Михайлович": 29,
-      "Ефремов Сергей Александрович": 12,
-      "Мишин Юрий Васильевич": 39,
-      "Николаев Александр Юрьевич": 14,
-      "Пчелинцев Анатолий Александрович": 32,
-      "Саблин Дмитрий Вадимович": 1574,
-      "Савицкая Светлана Васильевна": 34,
-      "Савицкая Светлана Евгеньевна": 88,
-      "Против всех": 169
+      "gas:candidate-vibid:1001000136080": 29,
+      "gas:candidate-vibid:1001000190378": 12,
+      "gas:candidate-vibid:1001000261393": 39,
+      "gas:candidate-vibid:1001000193914": 14,
+      "gas:candidate-vibid:1001000195102": 32,
+      "gas:candidate-vibid:1001000225958": 1574,
+      "gas:candidate-vibid:350301070604": 34,
+      "gas:candidate-vibid:1001000121869": 88,
+      "special:against-all": 169
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503010001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301070353&region=0&sub_region=0&type=429",
@@ -5840,15 +5840,15 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Головатюк Андрей Михайлович": 17,
-      "Ефремов Сергей Александрович": 8,
-      "Мишин Юрий Васильевич": 3,
-      "Николаев Александр Юрьевич": 20,
-      "Пчелинцев Анатолий Александрович": 49,
-      "Саблин Дмитрий Вадимович": 600,
-      "Савицкая Светлана Васильевна": 21,
-      "Савицкая Светлана Евгеньевна": 176,
-      "Против всех": 155
+      "gas:candidate-vibid:1001000136080": 17,
+      "gas:candidate-vibid:1001000190378": 8,
+      "gas:candidate-vibid:1001000261393": 3,
+      "gas:candidate-vibid:1001000193914": 20,
+      "gas:candidate-vibid:1001000195102": 49,
+      "gas:candidate-vibid:1001000225958": 600,
+      "gas:candidate-vibid:350301070604": 21,
+      "gas:candidate-vibid:1001000121869": 176,
+      "special:against-all": 155
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503010001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301070353&region=0&sub_region=0&type=429",
@@ -5898,15 +5898,15 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Головатюк Андрей Михайлович": 30,
-      "Ефремов Сергей Александрович": 11,
-      "Мишин Юрий Васильевич": 3,
-      "Николаев Александр Юрьевич": 19,
-      "Пчелинцев Анатолий Александрович": 64,
-      "Саблин Дмитрий Вадимович": 657,
-      "Савицкая Светлана Васильевна": 30,
-      "Савицкая Светлана Евгеньевна": 161,
-      "Против всех": 186
+      "gas:candidate-vibid:1001000136080": 30,
+      "gas:candidate-vibid:1001000190378": 11,
+      "gas:candidate-vibid:1001000261393": 3,
+      "gas:candidate-vibid:1001000193914": 19,
+      "gas:candidate-vibid:1001000195102": 64,
+      "gas:candidate-vibid:1001000225958": 657,
+      "gas:candidate-vibid:350301070604": 30,
+      "gas:candidate-vibid:1001000121869": 161,
+      "special:against-all": 186
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503010001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301070353&region=0&sub_region=0&type=429",
@@ -5956,15 +5956,15 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Головатюк Андрей Михайлович": 15,
-      "Ефремов Сергей Александрович": 9,
-      "Мишин Юрий Васильевич": 10,
-      "Николаев Александр Юрьевич": 19,
-      "Пчелинцев Анатолий Александрович": 47,
-      "Саблин Дмитрий Вадимович": 595,
-      "Савицкая Светлана Васильевна": 34,
-      "Савицкая Светлана Евгеньевна": 156,
-      "Против всех": 160
+      "gas:candidate-vibid:1001000136080": 15,
+      "gas:candidate-vibid:1001000190378": 9,
+      "gas:candidate-vibid:1001000261393": 10,
+      "gas:candidate-vibid:1001000193914": 19,
+      "gas:candidate-vibid:1001000195102": 47,
+      "gas:candidate-vibid:1001000225958": 595,
+      "gas:candidate-vibid:350301070604": 34,
+      "gas:candidate-vibid:1001000121869": 156,
+      "special:against-all": 160
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503010001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301070353&region=0&sub_region=0&type=429",
@@ -6014,15 +6014,15 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Головатюк Андрей Михайлович": 17,
-      "Ефремов Сергей Александрович": 13,
-      "Мишин Юрий Васильевич": 6,
-      "Николаев Александр Юрьевич": 20,
-      "Пчелинцев Анатолий Александрович": 38,
-      "Саблин Дмитрий Вадимович": 635,
-      "Савицкая Светлана Васильевна": 32,
-      "Савицкая Светлана Евгеньевна": 131,
-      "Против всех": 186
+      "gas:candidate-vibid:1001000136080": 17,
+      "gas:candidate-vibid:1001000190378": 13,
+      "gas:candidate-vibid:1001000261393": 6,
+      "gas:candidate-vibid:1001000193914": 20,
+      "gas:candidate-vibid:1001000195102": 38,
+      "gas:candidate-vibid:1001000225958": 635,
+      "gas:candidate-vibid:350301070604": 32,
+      "gas:candidate-vibid:1001000121869": 131,
+      "special:against-all": 186
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503010001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301070353&region=0&sub_region=0&type=429",
@@ -6072,15 +6072,15 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Головатюк Андрей Михайлович": 47,
-      "Ефремов Сергей Александрович": 9,
-      "Мишин Юрий Васильевич": 13,
-      "Николаев Александр Юрьевич": 18,
-      "Пчелинцев Анатолий Александрович": 68,
-      "Саблин Дмитрий Вадимович": 652,
-      "Савицкая Светлана Васильевна": 48,
-      "Савицкая Светлана Евгеньевна": 222,
-      "Против всех": 215
+      "gas:candidate-vibid:1001000136080": 47,
+      "gas:candidate-vibid:1001000190378": 9,
+      "gas:candidate-vibid:1001000261393": 13,
+      "gas:candidate-vibid:1001000193914": 18,
+      "gas:candidate-vibid:1001000195102": 68,
+      "gas:candidate-vibid:1001000225958": 652,
+      "gas:candidate-vibid:350301070604": 48,
+      "gas:candidate-vibid:1001000121869": 222,
+      "special:against-all": 215
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503010001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301070353&region=0&sub_region=0&type=429",
@@ -6130,15 +6130,15 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Головатюк Андрей Михайлович": 13,
-      "Ефремов Сергей Александрович": 9,
-      "Мишин Юрий Васильевич": 6,
-      "Николаев Александр Юрьевич": 16,
-      "Пчелинцев Анатолий Александрович": 40,
-      "Саблин Дмитрий Вадимович": 360,
-      "Савицкая Светлана Васильевна": 30,
-      "Савицкая Светлана Евгеньевна": 75,
-      "Против всех": 174
+      "gas:candidate-vibid:1001000136080": 13,
+      "gas:candidate-vibid:1001000190378": 9,
+      "gas:candidate-vibid:1001000261393": 6,
+      "gas:candidate-vibid:1001000193914": 16,
+      "gas:candidate-vibid:1001000195102": 40,
+      "gas:candidate-vibid:1001000225958": 360,
+      "gas:candidate-vibid:350301070604": 30,
+      "gas:candidate-vibid:1001000121869": 75,
+      "special:against-all": 174
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503010001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301070353&region=0&sub_region=0&type=429",
@@ -6188,15 +6188,15 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Головатюк Андрей Михайлович": 103,
-      "Ефремов Сергей Александрович": 41,
-      "Мишин Юрий Васильевич": 34,
-      "Николаев Александр Юрьевич": 33,
-      "Пчелинцев Анатолий Александрович": 28,
-      "Саблин Дмитрий Вадимович": 198,
-      "Савицкая Светлана Васильевна": 43,
-      "Савицкая Светлана Евгеньевна": 42,
-      "Против всех": 304
+      "gas:candidate-vibid:1001000136080": 103,
+      "gas:candidate-vibid:1001000190378": 41,
+      "gas:candidate-vibid:1001000261393": 34,
+      "gas:candidate-vibid:1001000193914": 33,
+      "gas:candidate-vibid:1001000195102": 28,
+      "gas:candidate-vibid:1001000225958": 198,
+      "gas:candidate-vibid:350301070604": 43,
+      "gas:candidate-vibid:1001000121869": 42,
+      "special:against-all": 304
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503010001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301070353&region=0&sub_region=0&type=429",
@@ -6246,15 +6246,15 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Головатюк Андрей Михайлович": 78,
-      "Ефремов Сергей Александрович": 30,
-      "Мишин Юрий Васильевич": 19,
-      "Николаев Александр Юрьевич": 32,
-      "Пчелинцев Анатолий Александрович": 33,
-      "Саблин Дмитрий Вадимович": 809,
-      "Савицкая Светлана Васильевна": 55,
-      "Савицкая Светлана Евгеньевна": 222,
-      "Против всех": 275
+      "gas:candidate-vibid:1001000136080": 78,
+      "gas:candidate-vibid:1001000190378": 30,
+      "gas:candidate-vibid:1001000261393": 19,
+      "gas:candidate-vibid:1001000193914": 32,
+      "gas:candidate-vibid:1001000195102": 33,
+      "gas:candidate-vibid:1001000225958": 809,
+      "gas:candidate-vibid:350301070604": 55,
+      "gas:candidate-vibid:1001000121869": 222,
+      "special:against-all": 275
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503010001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301070353&region=0&sub_region=0&type=429",
@@ -6304,15 +6304,15 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Головатюк Андрей Михайлович": 56,
-      "Ефремов Сергей Александрович": 21,
-      "Мишин Юрий Васильевич": 25,
-      "Николаев Александр Юрьевич": 28,
-      "Пчелинцев Анатолий Александрович": 29,
-      "Саблин Дмитрий Вадимович": 1082,
-      "Савицкая Светлана Васильевна": 45,
-      "Савицкая Светлана Евгеньевна": 67,
-      "Против всех": 240
+      "gas:candidate-vibid:1001000136080": 56,
+      "gas:candidate-vibid:1001000190378": 21,
+      "gas:candidate-vibid:1001000261393": 25,
+      "gas:candidate-vibid:1001000193914": 28,
+      "gas:candidate-vibid:1001000195102": 29,
+      "gas:candidate-vibid:1001000225958": 1082,
+      "gas:candidate-vibid:350301070604": 45,
+      "gas:candidate-vibid:1001000121869": 67,
+      "special:against-all": 240
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503010001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301070353&region=0&sub_region=0&type=429",
@@ -6362,15 +6362,15 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Головатюк Андрей Михайлович": 19,
-      "Ефремов Сергей Александрович": 3,
-      "Мишин Юрий Васильевич": 4,
-      "Николаев Александр Юрьевич": 17,
-      "Пчелинцев Анатолий Александрович": 110,
-      "Саблин Дмитрий Вадимович": 278,
-      "Савицкая Светлана Васильевна": 27,
-      "Савицкая Светлана Евгеньевна": 100,
-      "Против всех": 112
+      "gas:candidate-vibid:1001000136080": 19,
+      "gas:candidate-vibid:1001000190378": 3,
+      "gas:candidate-vibid:1001000261393": 4,
+      "gas:candidate-vibid:1001000193914": 17,
+      "gas:candidate-vibid:1001000195102": 110,
+      "gas:candidate-vibid:1001000225958": 278,
+      "gas:candidate-vibid:350301070604": 27,
+      "gas:candidate-vibid:1001000121869": 100,
+      "special:against-all": 112
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503010001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301070353&region=0&sub_region=0&type=429",
@@ -6420,15 +6420,15 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Головатюк Андрей Михайлович": 8,
-      "Ефремов Сергей Александрович": 3,
-      "Мишин Юрий Васильевич": 0,
-      "Николаев Александр Юрьевич": 11,
-      "Пчелинцев Анатолий Александрович": 71,
-      "Саблин Дмитрий Вадимович": 129,
-      "Савицкая Светлана Васильевна": 17,
-      "Савицкая Светлана Евгеньевна": 82,
-      "Против всех": 57
+      "gas:candidate-vibid:1001000136080": 8,
+      "gas:candidate-vibid:1001000190378": 3,
+      "gas:candidate-vibid:1001000261393": 0,
+      "gas:candidate-vibid:1001000193914": 11,
+      "gas:candidate-vibid:1001000195102": 71,
+      "gas:candidate-vibid:1001000225958": 129,
+      "gas:candidate-vibid:350301070604": 17,
+      "gas:candidate-vibid:1001000121869": 82,
+      "special:against-all": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503010001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301070353&region=0&sub_region=0&type=429",
@@ -6478,15 +6478,15 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Головатюк Андрей Михайлович": 16,
-      "Ефремов Сергей Александрович": 13,
-      "Мишин Юрий Васильевич": 5,
-      "Николаев Александр Юрьевич": 16,
-      "Пчелинцев Анатолий Александрович": 74,
-      "Саблин Дмитрий Вадимович": 213,
-      "Савицкая Светлана Васильевна": 25,
-      "Савицкая Светлана Евгеньевна": 93,
-      "Против всех": 83
+      "gas:candidate-vibid:1001000136080": 16,
+      "gas:candidate-vibid:1001000190378": 13,
+      "gas:candidate-vibid:1001000261393": 5,
+      "gas:candidate-vibid:1001000193914": 16,
+      "gas:candidate-vibid:1001000195102": 74,
+      "gas:candidate-vibid:1001000225958": 213,
+      "gas:candidate-vibid:350301070604": 25,
+      "gas:candidate-vibid:1001000121869": 93,
+      "special:against-all": 83
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503010001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301070353&region=0&sub_region=0&type=429",
@@ -6536,15 +6536,15 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Головатюк Андрей Михайлович": 109,
-      "Ефремов Сергей Александрович": 42,
-      "Мишин Юрий Васильевич": 51,
-      "Николаев Александр Юрьевич": 29,
-      "Пчелинцев Анатолий Александрович": 21,
-      "Саблин Дмитрий Вадимович": 900,
-      "Савицкая Светлана Васильевна": 48,
-      "Савицкая Светлана Евгеньевна": 58,
-      "Против всех": 376
+      "gas:candidate-vibid:1001000136080": 109,
+      "gas:candidate-vibid:1001000190378": 42,
+      "gas:candidate-vibid:1001000261393": 51,
+      "gas:candidate-vibid:1001000193914": 29,
+      "gas:candidate-vibid:1001000195102": 21,
+      "gas:candidate-vibid:1001000225958": 900,
+      "gas:candidate-vibid:350301070604": 48,
+      "gas:candidate-vibid:1001000121869": 58,
+      "special:against-all": 376
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503010001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301070353&region=0&sub_region=0&type=429",
@@ -6594,15 +6594,15 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Головатюк Андрей Михайлович": 102,
-      "Ефремов Сергей Александрович": 25,
-      "Мишин Юрий Васильевич": 29,
-      "Николаев Александр Юрьевич": 23,
-      "Пчелинцев Анатолий Александрович": 31,
-      "Саблин Дмитрий Вадимович": 803,
-      "Савицкая Светлана Васильевна": 61,
-      "Савицкая Светлана Евгеньевна": 118,
-      "Против всех": 263
+      "gas:candidate-vibid:1001000136080": 102,
+      "gas:candidate-vibid:1001000190378": 25,
+      "gas:candidate-vibid:1001000261393": 29,
+      "gas:candidate-vibid:1001000193914": 23,
+      "gas:candidate-vibid:1001000195102": 31,
+      "gas:candidate-vibid:1001000225958": 803,
+      "gas:candidate-vibid:350301070604": 61,
+      "gas:candidate-vibid:1001000121869": 118,
+      "special:against-all": 263
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503010001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301070353&region=0&sub_region=0&type=429",
@@ -6652,15 +6652,15 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Головатюк Андрей Михайлович": 142,
-      "Ефремов Сергей Александрович": 12,
-      "Мишин Юрий Васильевич": 8,
-      "Николаев Александр Юрьевич": 12,
-      "Пчелинцев Анатолий Александрович": 21,
-      "Саблин Дмитрий Вадимович": 733,
-      "Савицкая Светлана Васильевна": 41,
-      "Савицкая Светлана Евгеньевна": 164,
-      "Против всех": 179
+      "gas:candidate-vibid:1001000136080": 142,
+      "gas:candidate-vibid:1001000190378": 12,
+      "gas:candidate-vibid:1001000261393": 8,
+      "gas:candidate-vibid:1001000193914": 12,
+      "gas:candidate-vibid:1001000195102": 21,
+      "gas:candidate-vibid:1001000225958": 733,
+      "gas:candidate-vibid:350301070604": 41,
+      "gas:candidate-vibid:1001000121869": 164,
+      "special:against-all": 179
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503010001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301070353&region=0&sub_region=0&type=429",
@@ -6710,15 +6710,15 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Головатюк Андрей Михайлович": 161,
-      "Ефремов Сергей Александрович": 20,
-      "Мишин Юрий Васильевич": 16,
-      "Николаев Александр Юрьевич": 27,
-      "Пчелинцев Анатолий Александрович": 35,
-      "Саблин Дмитрий Вадимович": 771,
-      "Савицкая Светлана Васильевна": 30,
-      "Савицкая Светлана Евгеньевна": 163,
-      "Против всех": 288
+      "gas:candidate-vibid:1001000136080": 161,
+      "gas:candidate-vibid:1001000190378": 20,
+      "gas:candidate-vibid:1001000261393": 16,
+      "gas:candidate-vibid:1001000193914": 27,
+      "gas:candidate-vibid:1001000195102": 35,
+      "gas:candidate-vibid:1001000225958": 771,
+      "gas:candidate-vibid:350301070604": 30,
+      "gas:candidate-vibid:1001000121869": 163,
+      "special:against-all": 288
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503010001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301070353&region=0&sub_region=0&type=429",
@@ -6768,15 +6768,15 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Головатюк Андрей Михайлович": 219,
-      "Ефремов Сергей Александрович": 46,
-      "Мишин Юрий Васильевич": 43,
-      "Николаев Александр Юрьевич": 44,
-      "Пчелинцев Анатолий Александрович": 40,
-      "Саблин Дмитрий Вадимович": 812,
-      "Савицкая Светлана Васильевна": 49,
-      "Савицкая Светлана Евгеньевна": 85,
-      "Против всех": 289
+      "gas:candidate-vibid:1001000136080": 219,
+      "gas:candidate-vibid:1001000190378": 46,
+      "gas:candidate-vibid:1001000261393": 43,
+      "gas:candidate-vibid:1001000193914": 44,
+      "gas:candidate-vibid:1001000195102": 40,
+      "gas:candidate-vibid:1001000225958": 812,
+      "gas:candidate-vibid:350301070604": 49,
+      "gas:candidate-vibid:1001000121869": 85,
+      "special:against-all": 289
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503010001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301070353&region=0&sub_region=0&type=429",
@@ -6826,15 +6826,15 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Головатюк Андрей Михайлович": 165,
-      "Ефремов Сергей Александрович": 55,
-      "Мишин Юрий Васильевич": 59,
-      "Николаев Александр Юрьевич": 49,
-      "Пчелинцев Анатолий Александрович": 48,
-      "Саблин Дмитрий Вадимович": 1005,
-      "Савицкая Светлана Васильевна": 62,
-      "Савицкая Светлана Евгеньевна": 87,
-      "Против всех": 283
+      "gas:candidate-vibid:1001000136080": 165,
+      "gas:candidate-vibid:1001000190378": 55,
+      "gas:candidate-vibid:1001000261393": 59,
+      "gas:candidate-vibid:1001000193914": 49,
+      "gas:candidate-vibid:1001000195102": 48,
+      "gas:candidate-vibid:1001000225958": 1005,
+      "gas:candidate-vibid:350301070604": 62,
+      "gas:candidate-vibid:1001000121869": 87,
+      "special:against-all": 283
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503010001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301070353&region=0&sub_region=0&type=429",
@@ -6884,15 +6884,15 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Головатюк Андрей Михайлович": 47,
-      "Ефремов Сергей Александрович": 29,
-      "Мишин Юрий Васильевич": 20,
-      "Николаев Александр Юрьевич": 51,
-      "Пчелинцев Анатолий Александрович": 47,
-      "Саблин Дмитрий Вадимович": 565,
-      "Савицкая Светлана Васильевна": 80,
-      "Савицкая Светлана Евгеньевна": 168,
-      "Против всех": 296
+      "gas:candidate-vibid:1001000136080": 47,
+      "gas:candidate-vibid:1001000190378": 29,
+      "gas:candidate-vibid:1001000261393": 20,
+      "gas:candidate-vibid:1001000193914": 51,
+      "gas:candidate-vibid:1001000195102": 47,
+      "gas:candidate-vibid:1001000225958": 565,
+      "gas:candidate-vibid:350301070604": 80,
+      "gas:candidate-vibid:1001000121869": 168,
+      "special:against-all": 296
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503010001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301070353&region=0&sub_region=0&type=429",
@@ -6942,15 +6942,15 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Головатюк Андрей Михайлович": 9,
-      "Ефремов Сергей Александрович": 2,
-      "Мишин Юрий Васильевич": 7,
-      "Николаев Александр Юрьевич": 9,
-      "Пчелинцев Анатолий Александрович": 15,
-      "Саблин Дмитрий Вадимович": 60,
-      "Савицкая Светлана Васильевна": 17,
-      "Савицкая Светлана Евгеньевна": 26,
-      "Против всех": 69
+      "gas:candidate-vibid:1001000136080": 9,
+      "gas:candidate-vibid:1001000190378": 2,
+      "gas:candidate-vibid:1001000261393": 7,
+      "gas:candidate-vibid:1001000193914": 9,
+      "gas:candidate-vibid:1001000195102": 15,
+      "gas:candidate-vibid:1001000225958": 60,
+      "gas:candidate-vibid:350301070604": 17,
+      "gas:candidate-vibid:1001000121869": 26,
+      "special:against-all": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503010001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301070353&region=0&sub_region=0&type=429",
@@ -7000,15 +7000,15 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Головатюк Андрей Михайлович": 44,
-      "Ефремов Сергей Александрович": 10,
-      "Мишин Юрий Васильевич": 6,
-      "Николаев Александр Юрьевич": 13,
-      "Пчелинцев Анатолий Александрович": 42,
-      "Саблин Дмитрий Вадимович": 761,
-      "Савицкая Светлана Васильевна": 57,
-      "Савицкая Светлана Евгеньевна": 288,
-      "Против всех": 238
+      "gas:candidate-vibid:1001000136080": 44,
+      "gas:candidate-vibid:1001000190378": 10,
+      "gas:candidate-vibid:1001000261393": 6,
+      "gas:candidate-vibid:1001000193914": 13,
+      "gas:candidate-vibid:1001000195102": 42,
+      "gas:candidate-vibid:1001000225958": 761,
+      "gas:candidate-vibid:350301070604": 57,
+      "gas:candidate-vibid:1001000121869": 288,
+      "special:against-all": 238
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503010001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301070353&region=0&sub_region=0&type=429",
@@ -7058,15 +7058,15 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Головатюк Андрей Михайлович": 49,
-      "Ефремов Сергей Александрович": 15,
-      "Мишин Юрий Васильевич": 8,
-      "Николаев Александр Юрьевич": 22,
-      "Пчелинцев Анатолий Александрович": 39,
-      "Саблин Дмитрий Вадимович": 663,
-      "Савицкая Светлана Васильевна": 67,
-      "Савицкая Светлана Евгеньевна": 288,
-      "Против всех": 277
+      "gas:candidate-vibid:1001000136080": 49,
+      "gas:candidate-vibid:1001000190378": 15,
+      "gas:candidate-vibid:1001000261393": 8,
+      "gas:candidate-vibid:1001000193914": 22,
+      "gas:candidate-vibid:1001000195102": 39,
+      "gas:candidate-vibid:1001000225958": 663,
+      "gas:candidate-vibid:350301070604": 67,
+      "gas:candidate-vibid:1001000121869": 288,
+      "special:against-all": 277
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503010001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301070353&region=0&sub_region=0&type=429",
@@ -7116,15 +7116,15 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Головатюк Андрей Михайлович": 56,
-      "Ефремов Сергей Александрович": 14,
-      "Мишин Юрий Васильевич": 26,
-      "Николаев Александр Юрьевич": 24,
-      "Пчелинцев Анатолий Александрович": 26,
-      "Саблин Дмитрий Вадимович": 661,
-      "Савицкая Светлана Васильевна": 72,
-      "Савицкая Светлана Евгеньевна": 289,
-      "Против всех": 277
+      "gas:candidate-vibid:1001000136080": 56,
+      "gas:candidate-vibid:1001000190378": 14,
+      "gas:candidate-vibid:1001000261393": 26,
+      "gas:candidate-vibid:1001000193914": 24,
+      "gas:candidate-vibid:1001000195102": 26,
+      "gas:candidate-vibid:1001000225958": 661,
+      "gas:candidate-vibid:350301070604": 72,
+      "gas:candidate-vibid:1001000121869": 289,
+      "special:against-all": 277
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503010001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301070353&region=0&sub_region=0&type=429",
@@ -7174,15 +7174,15 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Головатюк Андрей Михайлович": 32,
-      "Ефремов Сергей Александрович": 9,
-      "Мишин Юрий Васильевич": 4,
-      "Николаев Александр Юрьевич": 17,
-      "Пчелинцев Анатолий Александрович": 17,
-      "Саблин Дмитрий Вадимович": 533,
-      "Савицкая Светлана Васильевна": 48,
-      "Савицкая Светлана Евгеньевна": 237,
-      "Против всех": 158
+      "gas:candidate-vibid:1001000136080": 32,
+      "gas:candidate-vibid:1001000190378": 9,
+      "gas:candidate-vibid:1001000261393": 4,
+      "gas:candidate-vibid:1001000193914": 17,
+      "gas:candidate-vibid:1001000195102": 17,
+      "gas:candidate-vibid:1001000225958": 533,
+      "gas:candidate-vibid:350301070604": 48,
+      "gas:candidate-vibid:1001000121869": 237,
+      "special:against-all": 158
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503010001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301070353&region=0&sub_region=0&type=429",
@@ -7232,15 +7232,15 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Головатюк Андрей Михайлович": 59,
-      "Ефремов Сергей Александрович": 25,
-      "Мишин Юрий Васильевич": 24,
-      "Николаев Александр Юрьевич": 29,
-      "Пчелинцев Анатолий Александрович": 28,
-      "Саблин Дмитрий Вадимович": 702,
-      "Савицкая Светлана Васильевна": 64,
-      "Савицкая Светлана Евгеньевна": 197,
-      "Против всех": 338
+      "gas:candidate-vibid:1001000136080": 59,
+      "gas:candidate-vibid:1001000190378": 25,
+      "gas:candidate-vibid:1001000261393": 24,
+      "gas:candidate-vibid:1001000193914": 29,
+      "gas:candidate-vibid:1001000195102": 28,
+      "gas:candidate-vibid:1001000225958": 702,
+      "gas:candidate-vibid:350301070604": 64,
+      "gas:candidate-vibid:1001000121869": 197,
+      "special:against-all": 338
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503010001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301070353&region=0&sub_region=0&type=429",
@@ -7290,15 +7290,15 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Головатюк Андрей Михайлович": 31,
-      "Ефремов Сергей Александрович": 11,
-      "Мишин Юрий Васильевич": 4,
-      "Николаев Александр Юрьевич": 21,
-      "Пчелинцев Анатолий Александрович": 29,
-      "Саблин Дмитрий Вадимович": 764,
-      "Савицкая Светлана Васильевна": 65,
-      "Савицкая Светлана Евгеньевна": 288,
-      "Против всех": 242
+      "gas:candidate-vibid:1001000136080": 31,
+      "gas:candidate-vibid:1001000190378": 11,
+      "gas:candidate-vibid:1001000261393": 4,
+      "gas:candidate-vibid:1001000193914": 21,
+      "gas:candidate-vibid:1001000195102": 29,
+      "gas:candidate-vibid:1001000225958": 764,
+      "gas:candidate-vibid:350301070604": 65,
+      "gas:candidate-vibid:1001000121869": 288,
+      "special:against-all": 242
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503010001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301070353&region=0&sub_region=0&type=429",
@@ -7348,15 +7348,15 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Головатюк Андрей Михайлович": 16,
-      "Ефремов Сергей Александрович": 11,
-      "Мишин Юрий Васильевич": 5,
-      "Николаев Александр Юрьевич": 15,
-      "Пчелинцев Анатолий Александрович": 17,
-      "Саблин Дмитрий Вадимович": 427,
-      "Савицкая Светлана Васильевна": 39,
-      "Савицкая Светлана Евгеньевна": 111,
-      "Против всех": 139
+      "gas:candidate-vibid:1001000136080": 16,
+      "gas:candidate-vibid:1001000190378": 11,
+      "gas:candidate-vibid:1001000261393": 5,
+      "gas:candidate-vibid:1001000193914": 15,
+      "gas:candidate-vibid:1001000195102": 17,
+      "gas:candidate-vibid:1001000225958": 427,
+      "gas:candidate-vibid:350301070604": 39,
+      "gas:candidate-vibid:1001000121869": 111,
+      "special:against-all": 139
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503010001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301070353&region=0&sub_region=0&type=429",
@@ -7406,15 +7406,15 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Головатюк Андрей Михайлович": 24,
-      "Ефремов Сергей Александрович": 13,
-      "Мишин Юрий Васильевич": 5,
-      "Николаев Александр Юрьевич": 20,
-      "Пчелинцев Анатолий Александрович": 39,
-      "Саблин Дмитрий Вадимович": 709,
-      "Савицкая Светлана Васильевна": 53,
-      "Савицкая Светлана Евгеньевна": 119,
-      "Против всех": 309
+      "gas:candidate-vibid:1001000136080": 24,
+      "gas:candidate-vibid:1001000190378": 13,
+      "gas:candidate-vibid:1001000261393": 5,
+      "gas:candidate-vibid:1001000193914": 20,
+      "gas:candidate-vibid:1001000195102": 39,
+      "gas:candidate-vibid:1001000225958": 709,
+      "gas:candidate-vibid:350301070604": 53,
+      "gas:candidate-vibid:1001000121869": 119,
+      "special:against-all": 309
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503010001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301070353&region=0&sub_region=0&type=429",
@@ -7464,15 +7464,15 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 1
     },
     "votes": {
-      "Головатюк Андрей Михайлович": 20,
-      "Ефремов Сергей Александрович": 7,
-      "Мишин Юрий Васильевич": 8,
-      "Николаев Александр Юрьевич": 14,
-      "Пчелинцев Анатолий Александрович": 16,
-      "Саблин Дмитрий Вадимович": 493,
-      "Савицкая Светлана Васильевна": 32,
-      "Савицкая Светлана Евгеньевна": 84,
-      "Против всех": 155
+      "gas:candidate-vibid:1001000136080": 20,
+      "gas:candidate-vibid:1001000190378": 7,
+      "gas:candidate-vibid:1001000261393": 8,
+      "gas:candidate-vibid:1001000193914": 14,
+      "gas:candidate-vibid:1001000195102": 16,
+      "gas:candidate-vibid:1001000225958": 493,
+      "gas:candidate-vibid:350301070604": 32,
+      "gas:candidate-vibid:1001000121869": 84,
+      "special:against-all": 155
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503010001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301070353&region=0&sub_region=0&type=429",
@@ -7522,15 +7522,15 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Головатюк Андрей Михайлович": 10,
-      "Ефремов Сергей Александрович": 10,
-      "Мишин Юрий Васильевич": 4,
-      "Николаев Александр Юрьевич": 7,
-      "Пчелинцев Анатолий Александрович": 12,
-      "Саблин Дмитрий Вадимович": 182,
-      "Савицкая Светлана Васильевна": 17,
-      "Савицкая Светлана Евгеньевна": 48,
-      "Против всех": 88
+      "gas:candidate-vibid:1001000136080": 10,
+      "gas:candidate-vibid:1001000190378": 10,
+      "gas:candidate-vibid:1001000261393": 4,
+      "gas:candidate-vibid:1001000193914": 7,
+      "gas:candidate-vibid:1001000195102": 12,
+      "gas:candidate-vibid:1001000225958": 182,
+      "gas:candidate-vibid:350301070604": 17,
+      "gas:candidate-vibid:1001000121869": 48,
+      "special:against-all": 88
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503010001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301070353&region=0&sub_region=0&type=429",
@@ -7580,15 +7580,15 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 2
     },
     "votes": {
-      "Головатюк Андрей Михайлович": 44,
-      "Ефремов Сергей Александрович": 46,
-      "Мишин Юрий Васильевич": 31,
-      "Николаев Александр Юрьевич": 48,
-      "Пчелинцев Анатолий Александрович": 9,
-      "Саблин Дмитрий Вадимович": 713,
-      "Савицкая Светлана Васильевна": 43,
-      "Савицкая Светлана Евгеньевна": 210,
-      "Против всех": 194
+      "gas:candidate-vibid:1001000136080": 44,
+      "gas:candidate-vibid:1001000190378": 46,
+      "gas:candidate-vibid:1001000261393": 31,
+      "gas:candidate-vibid:1001000193914": 48,
+      "gas:candidate-vibid:1001000195102": 9,
+      "gas:candidate-vibid:1001000225958": 713,
+      "gas:candidate-vibid:350301070604": 43,
+      "gas:candidate-vibid:1001000121869": 210,
+      "special:against-all": 194
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503010002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301070355&region=0&sub_region=0&type=429",
@@ -7638,15 +7638,15 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Головатюк Андрей Михайлович": 36,
-      "Ефремов Сергей Александрович": 47,
-      "Мишин Юрий Васильевич": 52,
-      "Николаев Александр Юрьевич": 33,
-      "Пчелинцев Анатолий Александрович": 16,
-      "Саблин Дмитрий Вадимович": 653,
-      "Савицкая Светлана Васильевна": 63,
-      "Савицкая Светлана Евгеньевна": 178,
-      "Против всех": 286
+      "gas:candidate-vibid:1001000136080": 36,
+      "gas:candidate-vibid:1001000190378": 47,
+      "gas:candidate-vibid:1001000261393": 52,
+      "gas:candidate-vibid:1001000193914": 33,
+      "gas:candidate-vibid:1001000195102": 16,
+      "gas:candidate-vibid:1001000225958": 653,
+      "gas:candidate-vibid:350301070604": 63,
+      "gas:candidate-vibid:1001000121869": 178,
+      "special:against-all": 286
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503010002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301070355&region=0&sub_region=0&type=429",
@@ -7696,15 +7696,15 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Головатюк Андрей Михайлович": 23,
-      "Ефремов Сергей Александрович": 22,
-      "Мишин Юрий Васильевич": 30,
-      "Николаев Александр Юрьевич": 25,
-      "Пчелинцев Анатолий Александрович": 4,
-      "Саблин Дмитрий Вадимович": 287,
-      "Савицкая Светлана Васильевна": 20,
-      "Савицкая Светлана Евгеньевна": 130,
-      "Против всех": 122
+      "gas:candidate-vibid:1001000136080": 23,
+      "gas:candidate-vibid:1001000190378": 22,
+      "gas:candidate-vibid:1001000261393": 30,
+      "gas:candidate-vibid:1001000193914": 25,
+      "gas:candidate-vibid:1001000195102": 4,
+      "gas:candidate-vibid:1001000225958": 287,
+      "gas:candidate-vibid:350301070604": 20,
+      "gas:candidate-vibid:1001000121869": 130,
+      "special:against-all": 122
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503010002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301070355&region=0&sub_region=0&type=429",
@@ -7754,15 +7754,15 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Головатюк Андрей Михайлович": 58,
-      "Ефремов Сергей Александрович": 46,
-      "Мишин Юрий Васильевич": 51,
-      "Николаев Александр Юрьевич": 32,
-      "Пчелинцев Анатолий Александрович": 16,
-      "Саблин Дмитрий Вадимович": 478,
-      "Савицкая Светлана Васильевна": 61,
-      "Савицкая Светлана Евгеньевна": 192,
-      "Против всех": 223
+      "gas:candidate-vibid:1001000136080": 58,
+      "gas:candidate-vibid:1001000190378": 46,
+      "gas:candidate-vibid:1001000261393": 51,
+      "gas:candidate-vibid:1001000193914": 32,
+      "gas:candidate-vibid:1001000195102": 16,
+      "gas:candidate-vibid:1001000225958": 478,
+      "gas:candidate-vibid:350301070604": 61,
+      "gas:candidate-vibid:1001000121869": 192,
+      "special:against-all": 223
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503010002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301070355&region=0&sub_region=0&type=429",
@@ -7812,15 +7812,15 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Головатюк Андрей Михайлович": 22,
-      "Ефремов Сергей Александрович": 46,
-      "Мишин Юрий Васильевич": 59,
-      "Николаев Александр Юрьевич": 25,
-      "Пчелинцев Анатолий Александрович": 13,
-      "Саблин Дмитрий Вадимович": 614,
-      "Савицкая Светлана Васильевна": 39,
-      "Савицкая Светлана Евгеньевна": 189,
-      "Против всех": 227
+      "gas:candidate-vibid:1001000136080": 22,
+      "gas:candidate-vibid:1001000190378": 46,
+      "gas:candidate-vibid:1001000261393": 59,
+      "gas:candidate-vibid:1001000193914": 25,
+      "gas:candidate-vibid:1001000195102": 13,
+      "gas:candidate-vibid:1001000225958": 614,
+      "gas:candidate-vibid:350301070604": 39,
+      "gas:candidate-vibid:1001000121869": 189,
+      "special:against-all": 227
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503010002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301070355&region=0&sub_region=0&type=429",
@@ -7870,15 +7870,15 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Головатюк Андрей Михайлович": 37,
-      "Ефремов Сергей Александрович": 45,
-      "Мишин Юрий Васильевич": 81,
-      "Николаев Александр Юрьевич": 51,
-      "Пчелинцев Анатолий Александрович": 11,
-      "Саблин Дмитрий Вадимович": 530,
-      "Савицкая Светлана Васильевна": 52,
-      "Савицкая Светлана Евгеньевна": 222,
-      "Против всех": 203
+      "gas:candidate-vibid:1001000136080": 37,
+      "gas:candidate-vibid:1001000190378": 45,
+      "gas:candidate-vibid:1001000261393": 81,
+      "gas:candidate-vibid:1001000193914": 51,
+      "gas:candidate-vibid:1001000195102": 11,
+      "gas:candidate-vibid:1001000225958": 530,
+      "gas:candidate-vibid:350301070604": 52,
+      "gas:candidate-vibid:1001000121869": 222,
+      "special:against-all": 203
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503010002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301070355&region=0&sub_region=0&type=429",
@@ -7928,15 +7928,15 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Головатюк Андрей Михайлович": 28,
-      "Ефремов Сергей Александрович": 41,
-      "Мишин Юрий Васильевич": 52,
-      "Николаев Александр Юрьевич": 36,
-      "Пчелинцев Анатолий Александрович": 8,
-      "Саблин Дмитрий Вадимович": 739,
-      "Савицкая Светлана Васильевна": 53,
-      "Савицкая Светлана Евгеньевна": 214,
-      "Против всех": 243
+      "gas:candidate-vibid:1001000136080": 28,
+      "gas:candidate-vibid:1001000190378": 41,
+      "gas:candidate-vibid:1001000261393": 52,
+      "gas:candidate-vibid:1001000193914": 36,
+      "gas:candidate-vibid:1001000195102": 8,
+      "gas:candidate-vibid:1001000225958": 739,
+      "gas:candidate-vibid:350301070604": 53,
+      "gas:candidate-vibid:1001000121869": 214,
+      "special:against-all": 243
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503010002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301070355&region=0&sub_region=0&type=429",
@@ -7986,15 +7986,15 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Головатюк Андрей Михайлович": 25,
-      "Ефремов Сергей Александрович": 40,
-      "Мишин Юрий Васильевич": 28,
-      "Николаев Александр Юрьевич": 34,
-      "Пчелинцев Анатолий Александрович": 5,
-      "Саблин Дмитрий Вадимович": 541,
-      "Савицкая Светлана Васильевна": 35,
-      "Савицкая Светлана Евгеньевна": 189,
-      "Против всех": 216
+      "gas:candidate-vibid:1001000136080": 25,
+      "gas:candidate-vibid:1001000190378": 40,
+      "gas:candidate-vibid:1001000261393": 28,
+      "gas:candidate-vibid:1001000193914": 34,
+      "gas:candidate-vibid:1001000195102": 5,
+      "gas:candidate-vibid:1001000225958": 541,
+      "gas:candidate-vibid:350301070604": 35,
+      "gas:candidate-vibid:1001000121869": 189,
+      "special:against-all": 216
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503010002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301070355&region=0&sub_region=0&type=429",
@@ -8044,15 +8044,15 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 20
     },
     "votes": {
-      "Головатюк Андрей Михайлович": 32,
-      "Ефремов Сергей Александрович": 36,
-      "Мишин Юрий Васильевич": 37,
-      "Николаев Александр Юрьевич": 29,
-      "Пчелинцев Анатолий Александрович": 6,
-      "Саблин Дмитрий Вадимович": 542,
-      "Савицкая Светлана Васильевна": 50,
-      "Савицкая Светлана Евгеньевна": 197,
-      "Против всех": 188
+      "gas:candidate-vibid:1001000136080": 32,
+      "gas:candidate-vibid:1001000190378": 36,
+      "gas:candidate-vibid:1001000261393": 37,
+      "gas:candidate-vibid:1001000193914": 29,
+      "gas:candidate-vibid:1001000195102": 6,
+      "gas:candidate-vibid:1001000225958": 542,
+      "gas:candidate-vibid:350301070604": 50,
+      "gas:candidate-vibid:1001000121869": 197,
+      "special:against-all": 188
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503010002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301070355&region=0&sub_region=0&type=429",
@@ -8102,15 +8102,15 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Головатюк Андрей Михайлович": 37,
-      "Ефремов Сергей Александрович": 49,
-      "Мишин Юрий Васильевич": 56,
-      "Николаев Александр Юрьевич": 41,
-      "Пчелинцев Анатолий Александрович": 12,
-      "Саблин Дмитрий Вадимович": 592,
-      "Савицкая Светлана Васильевна": 65,
-      "Савицкая Светлана Евгеньевна": 233,
-      "Против всех": 260
+      "gas:candidate-vibid:1001000136080": 37,
+      "gas:candidate-vibid:1001000190378": 49,
+      "gas:candidate-vibid:1001000261393": 56,
+      "gas:candidate-vibid:1001000193914": 41,
+      "gas:candidate-vibid:1001000195102": 12,
+      "gas:candidate-vibid:1001000225958": 592,
+      "gas:candidate-vibid:350301070604": 65,
+      "gas:candidate-vibid:1001000121869": 233,
+      "special:against-all": 260
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503010002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301070355&region=0&sub_region=0&type=429",
@@ -8160,15 +8160,15 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Головатюк Андрей Михайлович": 27,
-      "Ефремов Сергей Александрович": 32,
-      "Мишин Юрий Васильевич": 124,
-      "Николаев Александр Юрьевич": 20,
-      "Пчелинцев Анатолий Александрович": 5,
-      "Саблин Дмитрий Вадимович": 524,
-      "Савицкая Светлана Васильевна": 43,
-      "Савицкая Светлана Евгеньевна": 168,
-      "Против всех": 205
+      "gas:candidate-vibid:1001000136080": 27,
+      "gas:candidate-vibid:1001000190378": 32,
+      "gas:candidate-vibid:1001000261393": 124,
+      "gas:candidate-vibid:1001000193914": 20,
+      "gas:candidate-vibid:1001000195102": 5,
+      "gas:candidate-vibid:1001000225958": 524,
+      "gas:candidate-vibid:350301070604": 43,
+      "gas:candidate-vibid:1001000121869": 168,
+      "special:against-all": 205
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503010002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301070355&region=0&sub_region=0&type=429",
@@ -8218,15 +8218,15 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Головатюк Андрей Михайлович": 23,
-      "Ефремов Сергей Александрович": 31,
-      "Мишин Юрий Васильевич": 45,
-      "Николаев Александр Юрьевич": 33,
-      "Пчелинцев Анатолий Александрович": 15,
-      "Саблин Дмитрий Вадимович": 615,
-      "Савицкая Светлана Васильевна": 44,
-      "Савицкая Светлана Евгеньевна": 262,
-      "Против всех": 172
+      "gas:candidate-vibid:1001000136080": 23,
+      "gas:candidate-vibid:1001000190378": 31,
+      "gas:candidate-vibid:1001000261393": 45,
+      "gas:candidate-vibid:1001000193914": 33,
+      "gas:candidate-vibid:1001000195102": 15,
+      "gas:candidate-vibid:1001000225958": 615,
+      "gas:candidate-vibid:350301070604": 44,
+      "gas:candidate-vibid:1001000121869": 262,
+      "special:against-all": 172
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503010002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301070355&region=0&sub_region=0&type=429",
@@ -8276,15 +8276,15 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Головатюк Андрей Михайлович": 22,
-      "Ефремов Сергей Александрович": 39,
-      "Мишин Юрий Васильевич": 49,
-      "Николаев Александр Юрьевич": 44,
-      "Пчелинцев Анатолий Александрович": 7,
-      "Саблин Дмитрий Вадимович": 728,
-      "Савицкая Светлана Васильевна": 49,
-      "Савицкая Светлана Евгеньевна": 220,
-      "Против всех": 246
+      "gas:candidate-vibid:1001000136080": 22,
+      "gas:candidate-vibid:1001000190378": 39,
+      "gas:candidate-vibid:1001000261393": 49,
+      "gas:candidate-vibid:1001000193914": 44,
+      "gas:candidate-vibid:1001000195102": 7,
+      "gas:candidate-vibid:1001000225958": 728,
+      "gas:candidate-vibid:350301070604": 49,
+      "gas:candidate-vibid:1001000121869": 220,
+      "special:against-all": 246
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503010002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301070355&region=0&sub_region=0&type=429",
@@ -8334,15 +8334,15 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Головатюк Андрей Михайлович": 23,
-      "Ефремов Сергей Александрович": 28,
-      "Мишин Юрий Васильевич": 165,
-      "Николаев Александр Юрьевич": 28,
-      "Пчелинцев Анатолий Александрович": 2,
-      "Саблин Дмитрий Вадимович": 612,
-      "Савицкая Светлана Васильевна": 53,
-      "Савицкая Светлана Евгеньевна": 135,
-      "Против всех": 255
+      "gas:candidate-vibid:1001000136080": 23,
+      "gas:candidate-vibid:1001000190378": 28,
+      "gas:candidate-vibid:1001000261393": 165,
+      "gas:candidate-vibid:1001000193914": 28,
+      "gas:candidate-vibid:1001000195102": 2,
+      "gas:candidate-vibid:1001000225958": 612,
+      "gas:candidate-vibid:350301070604": 53,
+      "gas:candidate-vibid:1001000121869": 135,
+      "special:against-all": 255
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503010002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301070355&region=0&sub_region=0&type=429",
@@ -8392,15 +8392,15 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Головатюк Андрей Михайлович": 32,
-      "Ефремов Сергей Александрович": 40,
-      "Мишин Юрий Васильевич": 73,
-      "Николаев Александр Юрьевич": 30,
-      "Пчелинцев Анатолий Александрович": 7,
-      "Саблин Дмитрий Вадимович": 785,
-      "Савицкая Светлана Васильевна": 59,
-      "Савицкая Светлана Евгеньевна": 311,
-      "Против всех": 251
+      "gas:candidate-vibid:1001000136080": 32,
+      "gas:candidate-vibid:1001000190378": 40,
+      "gas:candidate-vibid:1001000261393": 73,
+      "gas:candidate-vibid:1001000193914": 30,
+      "gas:candidate-vibid:1001000195102": 7,
+      "gas:candidate-vibid:1001000225958": 785,
+      "gas:candidate-vibid:350301070604": 59,
+      "gas:candidate-vibid:1001000121869": 311,
+      "special:against-all": 251
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503010002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301070355&region=0&sub_region=0&type=429",
@@ -8450,15 +8450,15 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Головатюк Андрей Михайлович": 41,
-      "Ефремов Сергей Александрович": 54,
-      "Мишин Юрий Васильевич": 55,
-      "Николаев Александр Юрьевич": 39,
-      "Пчелинцев Анатолий Александрович": 13,
-      "Саблин Дмитрий Вадимович": 701,
-      "Савицкая Светлана Васильевна": 57,
-      "Савицкая Светлана Евгеньевна": 204,
-      "Против всех": 244
+      "gas:candidate-vibid:1001000136080": 41,
+      "gas:candidate-vibid:1001000190378": 54,
+      "gas:candidate-vibid:1001000261393": 55,
+      "gas:candidate-vibid:1001000193914": 39,
+      "gas:candidate-vibid:1001000195102": 13,
+      "gas:candidate-vibid:1001000225958": 701,
+      "gas:candidate-vibid:350301070604": 57,
+      "gas:candidate-vibid:1001000121869": 204,
+      "special:against-all": 244
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503010002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301070355&region=0&sub_region=0&type=429",
@@ -8508,15 +8508,15 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Головатюк Андрей Михайлович": 34,
-      "Ефремов Сергей Александрович": 44,
-      "Мишин Юрий Васильевич": 48,
-      "Николаев Александр Юрьевич": 42,
-      "Пчелинцев Анатолий Александрович": 2,
-      "Саблин Дмитрий Вадимович": 677,
-      "Савицкая Светлана Васильевна": 51,
-      "Савицкая Светлана Евгеньевна": 225,
-      "Против всех": 290
+      "gas:candidate-vibid:1001000136080": 34,
+      "gas:candidate-vibid:1001000190378": 44,
+      "gas:candidate-vibid:1001000261393": 48,
+      "gas:candidate-vibid:1001000193914": 42,
+      "gas:candidate-vibid:1001000195102": 2,
+      "gas:candidate-vibid:1001000225958": 677,
+      "gas:candidate-vibid:350301070604": 51,
+      "gas:candidate-vibid:1001000121869": 225,
+      "special:against-all": 290
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503010002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301070355&region=0&sub_region=0&type=429",
@@ -8566,15 +8566,15 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Головатюк Андрей Михайлович": 20,
-      "Ефремов Сергей Александрович": 34,
-      "Мишин Юрий Васильевич": 37,
-      "Николаев Александр Юрьевич": 20,
-      "Пчелинцев Анатолий Александрович": 8,
-      "Саблин Дмитрий Вадимович": 593,
-      "Савицкая Светлана Васильевна": 22,
-      "Савицкая Светлана Евгеньевна": 156,
-      "Против всех": 179
+      "gas:candidate-vibid:1001000136080": 20,
+      "gas:candidate-vibid:1001000190378": 34,
+      "gas:candidate-vibid:1001000261393": 37,
+      "gas:candidate-vibid:1001000193914": 20,
+      "gas:candidate-vibid:1001000195102": 8,
+      "gas:candidate-vibid:1001000225958": 593,
+      "gas:candidate-vibid:350301070604": 22,
+      "gas:candidate-vibid:1001000121869": 156,
+      "special:against-all": 179
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503010002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301070355&region=0&sub_region=0&type=429",
@@ -8624,15 +8624,15 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Головатюк Андрей Михайлович": 15,
-      "Ефремов Сергей Александрович": 24,
-      "Мишин Юрий Васильевич": 41,
-      "Николаев Александр Юрьевич": 19,
-      "Пчелинцев Анатолий Александрович": 9,
-      "Саблин Дмитрий Вадимович": 534,
-      "Савицкая Светлана Васильевна": 31,
-      "Савицкая Светлана Евгеньевна": 148,
-      "Против всех": 150
+      "gas:candidate-vibid:1001000136080": 15,
+      "gas:candidate-vibid:1001000190378": 24,
+      "gas:candidate-vibid:1001000261393": 41,
+      "gas:candidate-vibid:1001000193914": 19,
+      "gas:candidate-vibid:1001000195102": 9,
+      "gas:candidate-vibid:1001000225958": 534,
+      "gas:candidate-vibid:350301070604": 31,
+      "gas:candidate-vibid:1001000121869": 148,
+      "special:against-all": 150
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503010002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301070355&region=0&sub_region=0&type=429",
@@ -8682,15 +8682,15 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Головатюк Андрей Михайлович": 17,
-      "Ефремов Сергей Александрович": 23,
-      "Мишин Юрий Васильевич": 35,
-      "Николаев Александр Юрьевич": 30,
-      "Пчелинцев Анатолий Александрович": 9,
-      "Саблин Дмитрий Вадимович": 500,
-      "Савицкая Светлана Васильевна": 40,
-      "Савицкая Светлана Евгеньевна": 141,
-      "Против всех": 154
+      "gas:candidate-vibid:1001000136080": 17,
+      "gas:candidate-vibid:1001000190378": 23,
+      "gas:candidate-vibid:1001000261393": 35,
+      "gas:candidate-vibid:1001000193914": 30,
+      "gas:candidate-vibid:1001000195102": 9,
+      "gas:candidate-vibid:1001000225958": 500,
+      "gas:candidate-vibid:350301070604": 40,
+      "gas:candidate-vibid:1001000121869": 141,
+      "special:against-all": 154
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503010002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301070355&region=0&sub_region=0&type=429",
@@ -8740,15 +8740,15 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Головатюк Андрей Михайлович": 14,
-      "Ефремов Сергей Александрович": 37,
-      "Мишин Юрий Васильевич": 47,
-      "Николаев Александр Юрьевич": 42,
-      "Пчелинцев Анатолий Александрович": 6,
-      "Саблин Дмитрий Вадимович": 630,
-      "Савицкая Светлана Васильевна": 30,
-      "Савицкая Светлана Евгеньевна": 162,
-      "Против всех": 179
+      "gas:candidate-vibid:1001000136080": 14,
+      "gas:candidate-vibid:1001000190378": 37,
+      "gas:candidate-vibid:1001000261393": 47,
+      "gas:candidate-vibid:1001000193914": 42,
+      "gas:candidate-vibid:1001000195102": 6,
+      "gas:candidate-vibid:1001000225958": 630,
+      "gas:candidate-vibid:350301070604": 30,
+      "gas:candidate-vibid:1001000121869": 162,
+      "special:against-all": 179
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503010002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301070355&region=0&sub_region=0&type=429",
@@ -8798,15 +8798,15 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Головатюк Андрей Михайлович": 30,
-      "Ефремов Сергей Александрович": 58,
-      "Мишин Юрий Васильевич": 37,
-      "Николаев Александр Юрьевич": 34,
-      "Пчелинцев Анатолий Александрович": 8,
-      "Саблин Дмитрий Вадимович": 780,
-      "Савицкая Светлана Васильевна": 51,
-      "Савицкая Светлана Евгеньевна": 205,
-      "Против всех": 264
+      "gas:candidate-vibid:1001000136080": 30,
+      "gas:candidate-vibid:1001000190378": 58,
+      "gas:candidate-vibid:1001000261393": 37,
+      "gas:candidate-vibid:1001000193914": 34,
+      "gas:candidate-vibid:1001000195102": 8,
+      "gas:candidate-vibid:1001000225958": 780,
+      "gas:candidate-vibid:350301070604": 51,
+      "gas:candidate-vibid:1001000121869": 205,
+      "special:against-all": 264
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503010002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301070355&region=0&sub_region=0&type=429",
@@ -8856,15 +8856,15 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Головатюк Андрей Михайлович": 47,
-      "Ефремов Сергей Александрович": 37,
-      "Мишин Юрий Васильевич": 42,
-      "Николаев Александр Юрьевич": 25,
-      "Пчелинцев Анатолий Александрович": 8,
-      "Саблин Дмитрий Вадимович": 691,
-      "Савицкая Светлана Васильевна": 48,
-      "Савицкая Светлана Евгеньевна": 202,
-      "Против всех": 243
+      "gas:candidate-vibid:1001000136080": 47,
+      "gas:candidate-vibid:1001000190378": 37,
+      "gas:candidate-vibid:1001000261393": 42,
+      "gas:candidate-vibid:1001000193914": 25,
+      "gas:candidate-vibid:1001000195102": 8,
+      "gas:candidate-vibid:1001000225958": 691,
+      "gas:candidate-vibid:350301070604": 48,
+      "gas:candidate-vibid:1001000121869": 202,
+      "special:against-all": 243
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503010002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301070355&region=0&sub_region=0&type=429",
@@ -8914,15 +8914,15 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Головатюк Андрей Михайлович": 23,
-      "Ефремов Сергей Александрович": 48,
-      "Мишин Юрий Васильевич": 33,
-      "Николаев Александр Юрьевич": 19,
-      "Пчелинцев Анатолий Александрович": 5,
-      "Саблин Дмитрий Вадимович": 520,
-      "Савицкая Светлана Васильевна": 47,
-      "Савицкая Светлана Евгеньевна": 90,
-      "Против всех": 205
+      "gas:candidate-vibid:1001000136080": 23,
+      "gas:candidate-vibid:1001000190378": 48,
+      "gas:candidate-vibid:1001000261393": 33,
+      "gas:candidate-vibid:1001000193914": 19,
+      "gas:candidate-vibid:1001000195102": 5,
+      "gas:candidate-vibid:1001000225958": 520,
+      "gas:candidate-vibid:350301070604": 47,
+      "gas:candidate-vibid:1001000121869": 90,
+      "special:against-all": 205
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503010002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301070355&region=0&sub_region=0&type=429",
@@ -8972,15 +8972,15 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Головатюк Андрей Михайлович": 9,
-      "Ефремов Сергей Александрович": 19,
-      "Мишин Юрий Васильевич": 15,
-      "Николаев Александр Юрьевич": 12,
-      "Пчелинцев Анатолий Александрович": 3,
-      "Саблин Дмитрий Вадимович": 292,
-      "Савицкая Светлана Васильевна": 15,
-      "Савицкая Светлана Евгеньевна": 91,
-      "Против всех": 112
+      "gas:candidate-vibid:1001000136080": 9,
+      "gas:candidate-vibid:1001000190378": 19,
+      "gas:candidate-vibid:1001000261393": 15,
+      "gas:candidate-vibid:1001000193914": 12,
+      "gas:candidate-vibid:1001000195102": 3,
+      "gas:candidate-vibid:1001000225958": 292,
+      "gas:candidate-vibid:350301070604": 15,
+      "gas:candidate-vibid:1001000121869": 91,
+      "special:against-all": 112
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503010002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301070355&region=0&sub_region=0&type=429",
@@ -9030,15 +9030,15 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Головатюк Андрей Михайлович": 6,
-      "Ефремов Сергей Александрович": 10,
-      "Мишин Юрий Васильевич": 13,
-      "Николаев Александр Юрьевич": 9,
-      "Пчелинцев Анатолий Александрович": 2,
-      "Саблин Дмитрий Вадимович": 151,
-      "Савицкая Светлана Васильевна": 16,
-      "Савицкая Светлана Евгеньевна": 36,
-      "Против всех": 48
+      "gas:candidate-vibid:1001000136080": 6,
+      "gas:candidate-vibid:1001000190378": 10,
+      "gas:candidate-vibid:1001000261393": 13,
+      "gas:candidate-vibid:1001000193914": 9,
+      "gas:candidate-vibid:1001000195102": 2,
+      "gas:candidate-vibid:1001000225958": 151,
+      "gas:candidate-vibid:350301070604": 16,
+      "gas:candidate-vibid:1001000121869": 36,
+      "special:against-all": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503010002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301070355&region=0&sub_region=0&type=429",
@@ -9088,15 +9088,15 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Головатюк Андрей Михайлович": 6,
-      "Ефремов Сергей Александрович": 9,
-      "Мишин Юрий Васильевич": 20,
-      "Николаев Александр Юрьевич": 9,
-      "Пчелинцев Анатолий Александрович": 3,
-      "Саблин Дмитрий Вадимович": 250,
-      "Савицкая Светлана Васильевна": 10,
-      "Савицкая Светлана Евгеньевна": 60,
-      "Против всех": 84
+      "gas:candidate-vibid:1001000136080": 6,
+      "gas:candidate-vibid:1001000190378": 9,
+      "gas:candidate-vibid:1001000261393": 20,
+      "gas:candidate-vibid:1001000193914": 9,
+      "gas:candidate-vibid:1001000195102": 3,
+      "gas:candidate-vibid:1001000225958": 250,
+      "gas:candidate-vibid:350301070604": 10,
+      "gas:candidate-vibid:1001000121869": 60,
+      "special:against-all": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503010002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301070355&region=0&sub_region=0&type=429",
@@ -9146,15 +9146,15 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Головатюк Андрей Михайлович": 6,
-      "Ефремов Сергей Александрович": 7,
-      "Мишин Юрий Васильевич": 19,
-      "Николаев Александр Юрьевич": 13,
-      "Пчелинцев Анатолий Александрович": 5,
-      "Саблин Дмитрий Вадимович": 188,
-      "Савицкая Светлана Васильевна": 16,
-      "Савицкая Светлана Евгеньевна": 56,
-      "Против всех": 46
+      "gas:candidate-vibid:1001000136080": 6,
+      "gas:candidate-vibid:1001000190378": 7,
+      "gas:candidate-vibid:1001000261393": 19,
+      "gas:candidate-vibid:1001000193914": 13,
+      "gas:candidate-vibid:1001000195102": 5,
+      "gas:candidate-vibid:1001000225958": 188,
+      "gas:candidate-vibid:350301070604": 16,
+      "gas:candidate-vibid:1001000121869": 56,
+      "special:against-all": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503010002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301070355&region=0&sub_region=0&type=429",
@@ -9204,15 +9204,15 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Головатюк Андрей Михайлович": 23,
-      "Ефремов Сергей Александрович": 14,
-      "Мишин Юрий Васильевич": 13,
-      "Николаев Александр Юрьевич": 8,
-      "Пчелинцев Анатолий Александрович": 2,
-      "Саблин Дмитрий Вадимович": 170,
-      "Савицкая Светлана Васильевна": 23,
-      "Савицкая Светлана Евгеньевна": 75,
-      "Против всех": 75
+      "gas:candidate-vibid:1001000136080": 23,
+      "gas:candidate-vibid:1001000190378": 14,
+      "gas:candidate-vibid:1001000261393": 13,
+      "gas:candidate-vibid:1001000193914": 8,
+      "gas:candidate-vibid:1001000195102": 2,
+      "gas:candidate-vibid:1001000225958": 170,
+      "gas:candidate-vibid:350301070604": 23,
+      "gas:candidate-vibid:1001000121869": 75,
+      "special:against-all": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503010002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301070355&region=0&sub_region=0&type=429",
@@ -9262,15 +9262,15 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Головатюк Андрей Михайлович": 31,
-      "Ефремов Сергей Александрович": 39,
-      "Мишин Юрий Васильевич": 42,
-      "Николаев Александр Юрьевич": 21,
-      "Пчелинцев Анатолий Александрович": 14,
-      "Саблин Дмитрий Вадимович": 765,
-      "Савицкая Светлана Васильевна": 61,
-      "Савицкая Светлана Евгеньевна": 172,
-      "Против всех": 254
+      "gas:candidate-vibid:1001000136080": 31,
+      "gas:candidate-vibid:1001000190378": 39,
+      "gas:candidate-vibid:1001000261393": 42,
+      "gas:candidate-vibid:1001000193914": 21,
+      "gas:candidate-vibid:1001000195102": 14,
+      "gas:candidate-vibid:1001000225958": 765,
+      "gas:candidate-vibid:350301070604": 61,
+      "gas:candidate-vibid:1001000121869": 172,
+      "special:against-all": 254
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503010002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301070355&region=0&sub_region=0&type=429",
@@ -9320,15 +9320,15 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Головатюк Андрей Михайлович": 5,
-      "Ефремов Сергей Александрович": 7,
-      "Мишин Юрий Васильевич": 10,
-      "Николаев Александр Юрьевич": 9,
-      "Пчелинцев Анатолий Александрович": 4,
-      "Саблин Дмитрий Вадимович": 92,
-      "Савицкая Светлана Васильевна": 10,
-      "Савицкая Светлана Евгеньевна": 50,
-      "Против всех": 38
+      "gas:candidate-vibid:1001000136080": 5,
+      "gas:candidate-vibid:1001000190378": 7,
+      "gas:candidate-vibid:1001000261393": 10,
+      "gas:candidate-vibid:1001000193914": 9,
+      "gas:candidate-vibid:1001000195102": 4,
+      "gas:candidate-vibid:1001000225958": 92,
+      "gas:candidate-vibid:350301070604": 10,
+      "gas:candidate-vibid:1001000121869": 50,
+      "special:against-all": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503010002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301070355&region=0&sub_region=0&type=429",
@@ -9378,15 +9378,15 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Головатюк Андрей Михайлович": 10,
-      "Ефремов Сергей Александрович": 22,
-      "Мишин Юрий Васильевич": 23,
-      "Николаев Александр Юрьевич": 11,
-      "Пчелинцев Анатолий Александрович": 7,
-      "Саблин Дмитрий Вадимович": 229,
-      "Савицкая Светлана Васильевна": 24,
-      "Савицкая Светлана Евгеньевна": 64,
-      "Против всех": 93
+      "gas:candidate-vibid:1001000136080": 10,
+      "gas:candidate-vibid:1001000190378": 22,
+      "gas:candidate-vibid:1001000261393": 23,
+      "gas:candidate-vibid:1001000193914": 11,
+      "gas:candidate-vibid:1001000195102": 7,
+      "gas:candidate-vibid:1001000225958": 229,
+      "gas:candidate-vibid:350301070604": 24,
+      "gas:candidate-vibid:1001000121869": 64,
+      "special:against-all": 93
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503010002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301070355&region=0&sub_region=0&type=429",
@@ -9436,15 +9436,15 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Головатюк Андрей Михайлович": 3,
-      "Ефремов Сергей Александрович": 10,
-      "Мишин Юрий Васильевич": 8,
-      "Николаев Александр Юрьевич": 6,
-      "Пчелинцев Анатолий Александрович": 1,
-      "Саблин Дмитрий Вадимович": 193,
-      "Савицкая Светлана Васильевна": 19,
-      "Савицкая Светлана Евгеньевна": 56,
-      "Против всех": 67
+      "gas:candidate-vibid:1001000136080": 3,
+      "gas:candidate-vibid:1001000190378": 10,
+      "gas:candidate-vibid:1001000261393": 8,
+      "gas:candidate-vibid:1001000193914": 6,
+      "gas:candidate-vibid:1001000195102": 1,
+      "gas:candidate-vibid:1001000225958": 193,
+      "gas:candidate-vibid:350301070604": 19,
+      "gas:candidate-vibid:1001000121869": 56,
+      "special:against-all": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503010002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301070355&region=0&sub_region=0&type=429",
@@ -9494,15 +9494,15 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Головатюк Андрей Михайлович": 12,
-      "Ефремов Сергей Александрович": 9,
-      "Мишин Юрий Васильевич": 8,
-      "Николаев Александр Юрьевич": 16,
-      "Пчелинцев Анатолий Александрович": 1,
-      "Саблин Дмитрий Вадимович": 181,
-      "Савицкая Светлана Васильевна": 19,
-      "Савицкая Светлана Евгеньевна": 42,
-      "Против всех": 69
+      "gas:candidate-vibid:1001000136080": 12,
+      "gas:candidate-vibid:1001000190378": 9,
+      "gas:candidate-vibid:1001000261393": 8,
+      "gas:candidate-vibid:1001000193914": 16,
+      "gas:candidate-vibid:1001000195102": 1,
+      "gas:candidate-vibid:1001000225958": 181,
+      "gas:candidate-vibid:350301070604": 19,
+      "gas:candidate-vibid:1001000121869": 42,
+      "special:against-all": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503010002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301070355&region=0&sub_region=0&type=429",
@@ -9552,15 +9552,15 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Головатюк Андрей Михайлович": 9,
-      "Ефремов Сергей Александрович": 34,
-      "Мишин Юрий Васильевич": 21,
-      "Николаев Александр Юрьевич": 17,
-      "Пчелинцев Анатолий Александрович": 0,
-      "Саблин Дмитрий Вадимович": 226,
-      "Савицкая Светлана Васильевна": 35,
-      "Савицкая Светлана Евгеньевна": 80,
-      "Против всех": 81
+      "gas:candidate-vibid:1001000136080": 9,
+      "gas:candidate-vibid:1001000190378": 34,
+      "gas:candidate-vibid:1001000261393": 21,
+      "gas:candidate-vibid:1001000193914": 17,
+      "gas:candidate-vibid:1001000195102": 0,
+      "gas:candidate-vibid:1001000225958": 226,
+      "gas:candidate-vibid:350301070604": 35,
+      "gas:candidate-vibid:1001000121869": 80,
+      "special:against-all": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503010002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301070355&region=0&sub_region=0&type=429",
@@ -9610,15 +9610,15 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Головатюк Андрей Михайлович": 10,
-      "Ефремов Сергей Александрович": 8,
-      "Мишин Юрий Васильевич": 15,
-      "Николаев Александр Юрьевич": 2,
-      "Пчелинцев Анатолий Александрович": 1,
-      "Саблин Дмитрий Вадимович": 188,
-      "Савицкая Светлана Васильевна": 13,
-      "Савицкая Светлана Евгеньевна": 63,
-      "Против всех": 129
+      "gas:candidate-vibid:1001000136080": 10,
+      "gas:candidate-vibid:1001000190378": 8,
+      "gas:candidate-vibid:1001000261393": 15,
+      "gas:candidate-vibid:1001000193914": 2,
+      "gas:candidate-vibid:1001000195102": 1,
+      "gas:candidate-vibid:1001000225958": 188,
+      "gas:candidate-vibid:350301070604": 13,
+      "gas:candidate-vibid:1001000121869": 63,
+      "special:against-all": 129
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503010002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301070355&region=0&sub_region=0&type=429",
@@ -9668,15 +9668,15 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Головатюк Андрей Михайлович": 22,
-      "Ефремов Сергей Александрович": 35,
-      "Мишин Юрий Васильевич": 50,
-      "Николаев Александр Юрьевич": 23,
-      "Пчелинцев Анатолий Александрович": 7,
-      "Саблин Дмитрий Вадимович": 357,
-      "Савицкая Светлана Васильевна": 42,
-      "Савицкая Светлана Евгеньевна": 145,
-      "Против всех": 169
+      "gas:candidate-vibid:1001000136080": 22,
+      "gas:candidate-vibid:1001000190378": 35,
+      "gas:candidate-vibid:1001000261393": 50,
+      "gas:candidate-vibid:1001000193914": 23,
+      "gas:candidate-vibid:1001000195102": 7,
+      "gas:candidate-vibid:1001000225958": 357,
+      "gas:candidate-vibid:350301070604": 42,
+      "gas:candidate-vibid:1001000121869": 145,
+      "special:against-all": 169
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503010002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301070355&region=0&sub_region=0&type=429",
@@ -9726,15 +9726,15 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Головатюк Андрей Михайлович": 30,
-      "Ефремов Сергей Александрович": 38,
-      "Мишин Юрий Васильевич": 34,
-      "Николаев Александр Юрьевич": 28,
-      "Пчелинцев Анатолий Александрович": 9,
-      "Саблин Дмитрий Вадимович": 759,
-      "Савицкая Светлана Васильевна": 39,
-      "Савицкая Светлана Евгеньевна": 119,
-      "Против всех": 226
+      "gas:candidate-vibid:1001000136080": 30,
+      "gas:candidate-vibid:1001000190378": 38,
+      "gas:candidate-vibid:1001000261393": 34,
+      "gas:candidate-vibid:1001000193914": 28,
+      "gas:candidate-vibid:1001000195102": 9,
+      "gas:candidate-vibid:1001000225958": 759,
+      "gas:candidate-vibid:350301070604": 39,
+      "gas:candidate-vibid:1001000121869": 119,
+      "special:against-all": 226
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503010002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301070355&region=0&sub_region=0&type=429",
@@ -9784,15 +9784,15 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Головатюк Андрей Михайлович": 20,
-      "Ефремов Сергей Александрович": 18,
-      "Мишин Юрий Васильевич": 52,
-      "Николаев Александр Юрьевич": 36,
-      "Пчелинцев Анатолий Александрович": 4,
-      "Саблин Дмитрий Вадимович": 564,
-      "Савицкая Светлана Васильевна": 29,
-      "Савицкая Светлана Евгеньевна": 75,
-      "Против всех": 192
+      "gas:candidate-vibid:1001000136080": 20,
+      "gas:candidate-vibid:1001000190378": 18,
+      "gas:candidate-vibid:1001000261393": 52,
+      "gas:candidate-vibid:1001000193914": 36,
+      "gas:candidate-vibid:1001000195102": 4,
+      "gas:candidate-vibid:1001000225958": 564,
+      "gas:candidate-vibid:350301070604": 29,
+      "gas:candidate-vibid:1001000121869": 75,
+      "special:against-all": 192
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503010002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301070355&region=0&sub_region=0&type=429",
@@ -9842,15 +9842,15 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Головатюк Андрей Михайлович": 24,
-      "Ефремов Сергей Александрович": 21,
-      "Мишин Юрий Васильевич": 13,
-      "Николаев Александр Юрьевич": 19,
-      "Пчелинцев Анатолий Александрович": 5,
-      "Саблин Дмитрий Вадимович": 424,
-      "Савицкая Светлана Васильевна": 34,
-      "Савицкая Светлана Евгеньевна": 65,
-      "Против всех": 113
+      "gas:candidate-vibid:1001000136080": 24,
+      "gas:candidate-vibid:1001000190378": 21,
+      "gas:candidate-vibid:1001000261393": 13,
+      "gas:candidate-vibid:1001000193914": 19,
+      "gas:candidate-vibid:1001000195102": 5,
+      "gas:candidate-vibid:1001000225958": 424,
+      "gas:candidate-vibid:350301070604": 34,
+      "gas:candidate-vibid:1001000121869": 65,
+      "special:against-all": 113
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503010002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301070355&region=0&sub_region=0&type=429",
@@ -9900,15 +9900,15 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Головатюк Андрей Михайлович": 104,
-      "Ефремов Сергей Александрович": 37,
-      "Мишин Юрий Васильевич": 67,
-      "Николаев Александр Юрьевич": 38,
-      "Пчелинцев Анатолий Александрович": 18,
-      "Саблин Дмитрий Вадимович": 941,
-      "Савицкая Светлана Васильевна": 52,
-      "Савицкая Светлана Евгеньевна": 55,
-      "Против всех": 350
+      "gas:candidate-vibid:1001000136080": 104,
+      "gas:candidate-vibid:1001000190378": 37,
+      "gas:candidate-vibid:1001000261393": 67,
+      "gas:candidate-vibid:1001000193914": 38,
+      "gas:candidate-vibid:1001000195102": 18,
+      "gas:candidate-vibid:1001000225958": 941,
+      "gas:candidate-vibid:350301070604": 52,
+      "gas:candidate-vibid:1001000121869": 55,
+      "special:against-all": 350
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503010002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301070355&region=0&sub_region=0&type=429",
@@ -9958,15 +9958,15 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Головатюк Андрей Михайлович": 6,
-      "Ефремов Сергей Александрович": 8,
-      "Мишин Юрий Васильевич": 14,
-      "Николаев Александр Юрьевич": 3,
-      "Пчелинцев Анатолий Александрович": 6,
-      "Саблин Дмитрий Вадимович": 86,
-      "Савицкая Светлана Васильевна": 26,
-      "Савицкая Светлана Евгеньевна": 66,
-      "Против всех": 47
+      "gas:candidate-vibid:1001000136080": 6,
+      "gas:candidate-vibid:1001000190378": 8,
+      "gas:candidate-vibid:1001000261393": 14,
+      "gas:candidate-vibid:1001000193914": 3,
+      "gas:candidate-vibid:1001000195102": 6,
+      "gas:candidate-vibid:1001000225958": 86,
+      "gas:candidate-vibid:350301070604": 26,
+      "gas:candidate-vibid:1001000121869": 66,
+      "special:against-all": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503010002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301070355&region=0&sub_region=0&type=429",
@@ -10016,15 +10016,15 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Головатюк Андрей Михайлович": 11,
-      "Ефремов Сергей Александрович": 17,
-      "Мишин Юрий Васильевич": 13,
-      "Николаев Александр Юрьевич": 23,
-      "Пчелинцев Анатолий Александрович": 1,
-      "Саблин Дмитрий Вадимович": 454,
-      "Савицкая Светлана Васильевна": 26,
-      "Савицкая Светлана Евгеньевна": 65,
-      "Против всех": 101
+      "gas:candidate-vibid:1001000136080": 11,
+      "gas:candidate-vibid:1001000190378": 17,
+      "gas:candidate-vibid:1001000261393": 13,
+      "gas:candidate-vibid:1001000193914": 23,
+      "gas:candidate-vibid:1001000195102": 1,
+      "gas:candidate-vibid:1001000225958": 454,
+      "gas:candidate-vibid:350301070604": 26,
+      "gas:candidate-vibid:1001000121869": 65,
+      "special:against-all": 101
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503010002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301070355&region=0&sub_region=0&type=429",
@@ -10074,15 +10074,15 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Головатюк Андрей Михайлович": 25,
-      "Ефремов Сергей Александрович": 38,
-      "Мишин Юрий Васильевич": 50,
-      "Николаев Александр Юрьевич": 35,
-      "Пчелинцев Анатолий Александрович": 10,
-      "Саблин Дмитрий Вадимович": 685,
-      "Савицкая Светлана Васильевна": 54,
-      "Савицкая Светлана Евгеньевна": 141,
-      "Против всех": 293
+      "gas:candidate-vibid:1001000136080": 25,
+      "gas:candidate-vibid:1001000190378": 38,
+      "gas:candidate-vibid:1001000261393": 50,
+      "gas:candidate-vibid:1001000193914": 35,
+      "gas:candidate-vibid:1001000195102": 10,
+      "gas:candidate-vibid:1001000225958": 685,
+      "gas:candidate-vibid:350301070604": 54,
+      "gas:candidate-vibid:1001000121869": 141,
+      "special:against-all": 293
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503010002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301070355&region=0&sub_region=0&type=429",
@@ -10132,15 +10132,15 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Головатюк Андрей Михайлович": 26,
-      "Ефремов Сергей Александрович": 33,
-      "Мишин Юрий Васильевич": 44,
-      "Николаев Александр Юрьевич": 42,
-      "Пчелинцев Анатолий Александрович": 10,
-      "Саблин Дмитрий Вадимович": 637,
-      "Савицкая Светлана Васильевна": 36,
-      "Савицкая Светлана Евгеньевна": 98,
-      "Против всех": 232
+      "gas:candidate-vibid:1001000136080": 26,
+      "gas:candidate-vibid:1001000190378": 33,
+      "gas:candidate-vibid:1001000261393": 44,
+      "gas:candidate-vibid:1001000193914": 42,
+      "gas:candidate-vibid:1001000195102": 10,
+      "gas:candidate-vibid:1001000225958": 637,
+      "gas:candidate-vibid:350301070604": 36,
+      "gas:candidate-vibid:1001000121869": 98,
+      "special:against-all": 232
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503010002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301070355&region=0&sub_region=0&type=429",
@@ -10190,15 +10190,15 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Головатюк Андрей Михайлович": 23,
-      "Ефремов Сергей Александрович": 31,
-      "Мишин Юрий Васильевич": 41,
-      "Николаев Александр Юрьевич": 33,
-      "Пчелинцев Анатолий Александрович": 7,
-      "Саблин Дмитрий Вадимович": 522,
-      "Савицкая Светлана Васильевна": 29,
-      "Савицкая Светлана Евгеньевна": 160,
-      "Против всех": 251
+      "gas:candidate-vibid:1001000136080": 23,
+      "gas:candidate-vibid:1001000190378": 31,
+      "gas:candidate-vibid:1001000261393": 41,
+      "gas:candidate-vibid:1001000193914": 33,
+      "gas:candidate-vibid:1001000195102": 7,
+      "gas:candidate-vibid:1001000225958": 522,
+      "gas:candidate-vibid:350301070604": 29,
+      "gas:candidate-vibid:1001000121869": 160,
+      "special:against-all": 251
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503010002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301070355&region=0&sub_region=0&type=429",
@@ -10248,15 +10248,15 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Головатюк Андрей Михайлович": 24,
-      "Ефремов Сергей Александрович": 36,
-      "Мишин Юрий Васильевич": 35,
-      "Николаев Александр Юрьевич": 21,
-      "Пчелинцев Анатолий Александрович": 14,
-      "Саблин Дмитрий Вадимович": 553,
-      "Савицкая Светлана Васильевна": 57,
-      "Савицкая Светлана Евгеньевна": 216,
-      "Против всех": 202
+      "gas:candidate-vibid:1001000136080": 24,
+      "gas:candidate-vibid:1001000190378": 36,
+      "gas:candidate-vibid:1001000261393": 35,
+      "gas:candidate-vibid:1001000193914": 21,
+      "gas:candidate-vibid:1001000195102": 14,
+      "gas:candidate-vibid:1001000225958": 553,
+      "gas:candidate-vibid:350301070604": 57,
+      "gas:candidate-vibid:1001000121869": 216,
+      "special:against-all": 202
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503010002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301070355&region=0&sub_region=0&type=429",
@@ -10306,15 +10306,15 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Головатюк Андрей Михайлович": 18,
-      "Ефремов Сергей Александрович": 13,
-      "Мишин Юрий Васильевич": 19,
-      "Николаев Александр Юрьевич": 24,
-      "Пчелинцев Анатолий Александрович": 4,
-      "Саблин Дмитрий Вадимович": 459,
-      "Савицкая Светлана Васильевна": 37,
-      "Савицкая Светлана Евгеньевна": 112,
-      "Против всех": 126
+      "gas:candidate-vibid:1001000136080": 18,
+      "gas:candidate-vibid:1001000190378": 13,
+      "gas:candidate-vibid:1001000261393": 19,
+      "gas:candidate-vibid:1001000193914": 24,
+      "gas:candidate-vibid:1001000195102": 4,
+      "gas:candidate-vibid:1001000225958": 459,
+      "gas:candidate-vibid:350301070604": 37,
+      "gas:candidate-vibid:1001000121869": 112,
+      "special:against-all": 126
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503010002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301070355&region=0&sub_region=0&type=429",
@@ -10364,15 +10364,15 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Головатюк Андрей Михайлович": 18,
-      "Ефремов Сергей Александрович": 21,
-      "Мишин Юрий Васильевич": 21,
-      "Николаев Александр Юрьевич": 33,
-      "Пчелинцев Анатолий Александрович": 9,
-      "Саблин Дмитрий Вадимович": 589,
-      "Савицкая Светлана Васильевна": 44,
-      "Савицкая Светлана Евгеньевна": 218,
-      "Против всех": 195
+      "gas:candidate-vibid:1001000136080": 18,
+      "gas:candidate-vibid:1001000190378": 21,
+      "gas:candidate-vibid:1001000261393": 21,
+      "gas:candidate-vibid:1001000193914": 33,
+      "gas:candidate-vibid:1001000195102": 9,
+      "gas:candidate-vibid:1001000225958": 589,
+      "gas:candidate-vibid:350301070604": 44,
+      "gas:candidate-vibid:1001000121869": 218,
+      "special:against-all": 195
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503010002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301070355&region=0&sub_region=0&type=429",
@@ -10422,15 +10422,15 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Головатюк Андрей Михайлович": 28,
-      "Ефремов Сергей Александрович": 39,
-      "Мишин Юрий Васильевич": 46,
-      "Николаев Александр Юрьевич": 33,
-      "Пчелинцев Анатолий Александрович": 7,
-      "Саблин Дмитрий Вадимович": 769,
-      "Савицкая Светлана Васильевна": 52,
-      "Савицкая Светлана Евгеньевна": 146,
-      "Против всех": 221
+      "gas:candidate-vibid:1001000136080": 28,
+      "gas:candidate-vibid:1001000190378": 39,
+      "gas:candidate-vibid:1001000261393": 46,
+      "gas:candidate-vibid:1001000193914": 33,
+      "gas:candidate-vibid:1001000195102": 7,
+      "gas:candidate-vibid:1001000225958": 769,
+      "gas:candidate-vibid:350301070604": 52,
+      "gas:candidate-vibid:1001000121869": 146,
+      "special:against-all": 221
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503010002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301070355&region=0&sub_region=0&type=429",
@@ -10480,15 +10480,15 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Головатюк Андрей Михайлович": 12,
-      "Ефремов Сергей Александрович": 12,
-      "Мишин Юрий Васильевич": 18,
-      "Николаев Александр Юрьевич": 9,
-      "Пчелинцев Анатолий Александрович": 3,
-      "Саблин Дмитрий Вадимович": 308,
-      "Савицкая Светлана Васильевна": 30,
-      "Савицкая Светлана Евгеньевна": 123,
-      "Против всех": 120
+      "gas:candidate-vibid:1001000136080": 12,
+      "gas:candidate-vibid:1001000190378": 12,
+      "gas:candidate-vibid:1001000261393": 18,
+      "gas:candidate-vibid:1001000193914": 9,
+      "gas:candidate-vibid:1001000195102": 3,
+      "gas:candidate-vibid:1001000225958": 308,
+      "gas:candidate-vibid:350301070604": 30,
+      "gas:candidate-vibid:1001000121869": 123,
+      "special:against-all": 120
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503010002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301070355&region=0&sub_region=0&type=429",
@@ -10538,15 +10538,15 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Головатюк Андрей Михайлович": 20,
-      "Ефремов Сергей Александрович": 28,
-      "Мишин Юрий Васильевич": 30,
-      "Николаев Александр Юрьевич": 14,
-      "Пчелинцев Анатолий Александрович": 3,
-      "Саблин Дмитрий Вадимович": 458,
-      "Савицкая Светлана Васильевна": 51,
-      "Савицкая Светлана Евгеньевна": 86,
-      "Против всех": 147
+      "gas:candidate-vibid:1001000136080": 20,
+      "gas:candidate-vibid:1001000190378": 28,
+      "gas:candidate-vibid:1001000261393": 30,
+      "gas:candidate-vibid:1001000193914": 14,
+      "gas:candidate-vibid:1001000195102": 3,
+      "gas:candidate-vibid:1001000225958": 458,
+      "gas:candidate-vibid:350301070604": 51,
+      "gas:candidate-vibid:1001000121869": 86,
+      "special:against-all": 147
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503010002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301070355&region=0&sub_region=0&type=429",
@@ -10596,15 +10596,15 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Головатюк Андрей Михайлович": 10,
-      "Ефремов Сергей Александрович": 23,
-      "Мишин Юрий Васильевич": 8,
-      "Николаев Александр Юрьевич": 15,
-      "Пчелинцев Анатолий Александрович": 2,
-      "Саблин Дмитрий Вадимович": 449,
-      "Савицкая Светлана Васильевна": 26,
-      "Савицкая Светлана Евгеньевна": 77,
-      "Против всех": 154
+      "gas:candidate-vibid:1001000136080": 10,
+      "gas:candidate-vibid:1001000190378": 23,
+      "gas:candidate-vibid:1001000261393": 8,
+      "gas:candidate-vibid:1001000193914": 15,
+      "gas:candidate-vibid:1001000195102": 2,
+      "gas:candidate-vibid:1001000225958": 449,
+      "gas:candidate-vibid:350301070604": 26,
+      "gas:candidate-vibid:1001000121869": 77,
+      "special:against-all": 154
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503010002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301070355&region=0&sub_region=0&type=429",
@@ -10654,15 +10654,15 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Головатюк Андрей Михайлович": 10,
-      "Ефремов Сергей Александрович": 20,
-      "Мишин Юрий Васильевич": 22,
-      "Николаев Александр Юрьевич": 12,
-      "Пчелинцев Анатолий Александрович": 8,
-      "Саблин Дмитрий Вадимович": 432,
-      "Савицкая Светлана Васильевна": 34,
-      "Савицкая Светлана Евгеньевна": 98,
-      "Против всех": 151
+      "gas:candidate-vibid:1001000136080": 10,
+      "gas:candidate-vibid:1001000190378": 20,
+      "gas:candidate-vibid:1001000261393": 22,
+      "gas:candidate-vibid:1001000193914": 12,
+      "gas:candidate-vibid:1001000195102": 8,
+      "gas:candidate-vibid:1001000225958": 432,
+      "gas:candidate-vibid:350301070604": 34,
+      "gas:candidate-vibid:1001000121869": 98,
+      "special:against-all": 151
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503010002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301070355&region=0&sub_region=0&type=429",
@@ -10712,15 +10712,15 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Головатюк Андрей Михайлович": 28,
-      "Ефремов Сергей Александрович": 22,
-      "Мишин Юрий Васильевич": 34,
-      "Николаев Александр Юрьевич": 10,
-      "Пчелинцев Анатолий Александрович": 10,
-      "Саблин Дмитрий Вадимович": 1086,
-      "Савицкая Светлана Васильевна": 33,
-      "Савицкая Светлана Евгеньевна": 165,
-      "Против всех": 238
+      "gas:candidate-vibid:1001000136080": 28,
+      "gas:candidate-vibid:1001000190378": 22,
+      "gas:candidate-vibid:1001000261393": 34,
+      "gas:candidate-vibid:1001000193914": 10,
+      "gas:candidate-vibid:1001000195102": 10,
+      "gas:candidate-vibid:1001000225958": 1086,
+      "gas:candidate-vibid:350301070604": 33,
+      "gas:candidate-vibid:1001000121869": 165,
+      "special:against-all": 238
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503010002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301070355&region=0&sub_region=0&type=429",
@@ -10770,15 +10770,15 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Головатюк Андрей Михайлович": 53,
-      "Ефремов Сергей Александрович": 18,
-      "Мишин Юрий Васильевич": 30,
-      "Николаев Александр Юрьевич": 17,
-      "Пчелинцев Анатолий Александрович": 7,
-      "Саблин Дмитрий Вадимович": 908,
-      "Савицкая Светлана Васильевна": 47,
-      "Савицкая Светлана Евгеньевна": 141,
-      "Против всех": 304
+      "gas:candidate-vibid:1001000136080": 53,
+      "gas:candidate-vibid:1001000190378": 18,
+      "gas:candidate-vibid:1001000261393": 30,
+      "gas:candidate-vibid:1001000193914": 17,
+      "gas:candidate-vibid:1001000195102": 7,
+      "gas:candidate-vibid:1001000225958": 908,
+      "gas:candidate-vibid:350301070604": 47,
+      "gas:candidate-vibid:1001000121869": 141,
+      "special:against-all": 304
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503010002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301070355&region=0&sub_region=0&type=429",
@@ -10828,15 +10828,15 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Головатюк Андрей Михайлович": 19,
-      "Ефремов Сергей Александрович": 30,
-      "Мишин Юрий Васильевич": 32,
-      "Николаев Александр Юрьевич": 22,
-      "Пчелинцев Анатолий Александрович": 5,
-      "Саблин Дмитрий Вадимович": 184,
-      "Савицкая Светлана Васильевна": 25,
-      "Савицкая Светлана Евгеньевна": 88,
-      "Против всех": 106
+      "gas:candidate-vibid:1001000136080": 19,
+      "gas:candidate-vibid:1001000190378": 30,
+      "gas:candidate-vibid:1001000261393": 32,
+      "gas:candidate-vibid:1001000193914": 22,
+      "gas:candidate-vibid:1001000195102": 5,
+      "gas:candidate-vibid:1001000225958": 184,
+      "gas:candidate-vibid:350301070604": 25,
+      "gas:candidate-vibid:1001000121869": 88,
+      "special:against-all": 106
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503010002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301070355&region=0&sub_region=0&type=429",
@@ -10886,15 +10886,15 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Головатюк Андрей Михайлович": 12,
-      "Ефремов Сергей Александрович": 26,
-      "Мишин Юрий Васильевич": 15,
-      "Николаев Александр Юрьевич": 15,
-      "Пчелинцев Анатолий Александрович": 9,
-      "Саблин Дмитрий Вадимович": 251,
-      "Савицкая Светлана Васильевна": 25,
-      "Савицкая Светлана Евгеньевна": 55,
-      "Против всех": 127
+      "gas:candidate-vibid:1001000136080": 12,
+      "gas:candidate-vibid:1001000190378": 26,
+      "gas:candidate-vibid:1001000261393": 15,
+      "gas:candidate-vibid:1001000193914": 15,
+      "gas:candidate-vibid:1001000195102": 9,
+      "gas:candidate-vibid:1001000225958": 251,
+      "gas:candidate-vibid:350301070604": 25,
+      "gas:candidate-vibid:1001000121869": 55,
+      "special:against-all": 127
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503010002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301070355&region=0&sub_region=0&type=429",
@@ -10944,15 +10944,15 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Головатюк Андрей Михайлович": 10,
-      "Ефремов Сергей Александрович": 23,
-      "Мишин Юрий Васильевич": 28,
-      "Николаев Александр Юрьевич": 20,
-      "Пчелинцев Анатолий Александрович": 1,
-      "Саблин Дмитрий Вадимович": 216,
-      "Савицкая Светлана Васильевна": 31,
-      "Савицкая Светлана Евгеньевна": 74,
-      "Против всех": 104
+      "gas:candidate-vibid:1001000136080": 10,
+      "gas:candidate-vibid:1001000190378": 23,
+      "gas:candidate-vibid:1001000261393": 28,
+      "gas:candidate-vibid:1001000193914": 20,
+      "gas:candidate-vibid:1001000195102": 1,
+      "gas:candidate-vibid:1001000225958": 216,
+      "gas:candidate-vibid:350301070604": 31,
+      "gas:candidate-vibid:1001000121869": 74,
+      "special:against-all": 104
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503010002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301070355&region=0&sub_region=0&type=429",
@@ -11002,15 +11002,15 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Головатюк Андрей Михайлович": 10,
-      "Ефремов Сергей Александрович": 7,
-      "Мишин Юрий Васильевич": 14,
-      "Николаев Александр Юрьевич": 10,
-      "Пчелинцев Анатолий Александрович": 3,
-      "Саблин Дмитрий Вадимович": 230,
-      "Савицкая Светлана Васильевна": 14,
-      "Савицкая Светлана Евгеньевна": 38,
-      "Против всех": 82
+      "gas:candidate-vibid:1001000136080": 10,
+      "gas:candidate-vibid:1001000190378": 7,
+      "gas:candidate-vibid:1001000261393": 14,
+      "gas:candidate-vibid:1001000193914": 10,
+      "gas:candidate-vibid:1001000195102": 3,
+      "gas:candidate-vibid:1001000225958": 230,
+      "gas:candidate-vibid:350301070604": 14,
+      "gas:candidate-vibid:1001000121869": 38,
+      "special:against-all": 82
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503010002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301070355&region=0&sub_region=0&type=429",
@@ -11060,15 +11060,15 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Головатюк Андрей Михайлович": 9,
-      "Ефремов Сергей Александрович": 5,
-      "Мишин Юрий Васильевич": 15,
-      "Николаев Александр Юрьевич": 9,
-      "Пчелинцев Анатолий Александрович": 3,
-      "Саблин Дмитрий Вадимович": 325,
-      "Савицкая Светлана Васильевна": 22,
-      "Савицкая Светлана Евгеньевна": 81,
-      "Против всех": 116
+      "gas:candidate-vibid:1001000136080": 9,
+      "gas:candidate-vibid:1001000190378": 5,
+      "gas:candidate-vibid:1001000261393": 15,
+      "gas:candidate-vibid:1001000193914": 9,
+      "gas:candidate-vibid:1001000195102": 3,
+      "gas:candidate-vibid:1001000225958": 325,
+      "gas:candidate-vibid:350301070604": 22,
+      "gas:candidate-vibid:1001000121869": 81,
+      "special:against-all": 116
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503010002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301070355&region=0&sub_region=0&type=429",
@@ -11118,15 +11118,15 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Головатюк Андрей Михайлович": 4,
-      "Ефремов Сергей Александрович": 4,
-      "Мишин Юрий Васильевич": 3,
-      "Николаев Александр Юрьевич": 1,
-      "Пчелинцев Анатолий Александрович": 1,
-      "Саблин Дмитрий Вадимович": 163,
-      "Савицкая Светлана Васильевна": 18,
-      "Савицкая Светлана Евгеньевна": 16,
-      "Против всех": 34
+      "gas:candidate-vibid:1001000136080": 4,
+      "gas:candidate-vibid:1001000190378": 4,
+      "gas:candidate-vibid:1001000261393": 3,
+      "gas:candidate-vibid:1001000193914": 1,
+      "gas:candidate-vibid:1001000195102": 1,
+      "gas:candidate-vibid:1001000225958": 163,
+      "gas:candidate-vibid:350301070604": 18,
+      "gas:candidate-vibid:1001000121869": 16,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503010002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301070355&region=0&sub_region=0&type=429",
@@ -11176,15 +11176,15 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Головатюк Андрей Михайлович": 5,
-      "Ефремов Сергей Александрович": 5,
-      "Мишин Юрий Васильевич": 10,
-      "Николаев Александр Юрьевич": 5,
-      "Пчелинцев Анатолий Александрович": 1,
-      "Саблин Дмитрий Вадимович": 163,
-      "Савицкая Светлана Васильевна": 10,
-      "Савицкая Светлана Евгеньевна": 20,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000136080": 5,
+      "gas:candidate-vibid:1001000190378": 5,
+      "gas:candidate-vibid:1001000261393": 10,
+      "gas:candidate-vibid:1001000193914": 5,
+      "gas:candidate-vibid:1001000195102": 1,
+      "gas:candidate-vibid:1001000225958": 163,
+      "gas:candidate-vibid:350301070604": 10,
+      "gas:candidate-vibid:1001000121869": 20,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503010002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301070355&region=0&sub_region=0&type=429",
@@ -11234,15 +11234,15 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Головатюк Андрей Михайлович": 3,
-      "Ефремов Сергей Александрович": 2,
-      "Мишин Юрий Васильевич": 2,
-      "Николаев Александр Юрьевич": 3,
-      "Пчелинцев Анатолий Александрович": 1,
-      "Саблин Дмитрий Вадимович": 82,
-      "Савицкая Светлана Васильевна": 6,
-      "Савицкая Светлана Евгеньевна": 9,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000136080": 3,
+      "gas:candidate-vibid:1001000190378": 2,
+      "gas:candidate-vibid:1001000261393": 2,
+      "gas:candidate-vibid:1001000193914": 3,
+      "gas:candidate-vibid:1001000195102": 1,
+      "gas:candidate-vibid:1001000225958": 82,
+      "gas:candidate-vibid:350301070604": 6,
+      "gas:candidate-vibid:1001000121869": 9,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503010002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301070355&region=0&sub_region=0&type=429",
@@ -11292,15 +11292,15 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Головатюк Андрей Михайлович": 6,
-      "Ефремов Сергей Александрович": 8,
-      "Мишин Юрий Васильевич": 14,
-      "Николаев Александр Юрьевич": 2,
-      "Пчелинцев Анатолий Александрович": 1,
-      "Саблин Дмитрий Вадимович": 180,
-      "Савицкая Светлана Васильевна": 13,
-      "Савицкая Светлана Евгеньевна": 35,
-      "Против всех": 55
+      "gas:candidate-vibid:1001000136080": 6,
+      "gas:candidate-vibid:1001000190378": 8,
+      "gas:candidate-vibid:1001000261393": 14,
+      "gas:candidate-vibid:1001000193914": 2,
+      "gas:candidate-vibid:1001000195102": 1,
+      "gas:candidate-vibid:1001000225958": 180,
+      "gas:candidate-vibid:350301070604": 13,
+      "gas:candidate-vibid:1001000121869": 35,
+      "special:against-all": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503010002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301070355&region=0&sub_region=0&type=429",
@@ -11350,15 +11350,15 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Головатюк Андрей Михайлович": 4,
-      "Ефремов Сергей Александрович": 4,
-      "Мишин Юрий Васильевич": 8,
-      "Николаев Александр Юрьевич": 4,
-      "Пчелинцев Анатолий Александрович": 2,
-      "Саблин Дмитрий Вадимович": 200,
-      "Савицкая Светлана Васильевна": 7,
-      "Савицкая Светлана Евгеньевна": 7,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000136080": 4,
+      "gas:candidate-vibid:1001000190378": 4,
+      "gas:candidate-vibid:1001000261393": 8,
+      "gas:candidate-vibid:1001000193914": 4,
+      "gas:candidate-vibid:1001000195102": 2,
+      "gas:candidate-vibid:1001000225958": 200,
+      "gas:candidate-vibid:350301070604": 7,
+      "gas:candidate-vibid:1001000121869": 7,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503010002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301070355&region=0&sub_region=0&type=429",
@@ -11408,15 +11408,15 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Головатюк Андрей Михайлович": 18,
-      "Ефремов Сергей Александрович": 29,
-      "Мишин Юрий Васильевич": 27,
-      "Николаев Александр Юрьевич": 23,
-      "Пчелинцев Анатолий Александрович": 5,
-      "Саблин Дмитрий Вадимович": 398,
-      "Савицкая Светлана Васильевна": 54,
-      "Савицкая Светлана Евгеньевна": 135,
-      "Против всех": 127
+      "gas:candidate-vibid:1001000136080": 18,
+      "gas:candidate-vibid:1001000190378": 29,
+      "gas:candidate-vibid:1001000261393": 27,
+      "gas:candidate-vibid:1001000193914": 23,
+      "gas:candidate-vibid:1001000195102": 5,
+      "gas:candidate-vibid:1001000225958": 398,
+      "gas:candidate-vibid:350301070604": 54,
+      "gas:candidate-vibid:1001000121869": 135,
+      "special:against-all": 127
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503010002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301070355&region=0&sub_region=0&type=429",
@@ -11466,15 +11466,15 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Головатюк Андрей Михайлович": 32,
-      "Ефремов Сергей Александрович": 43,
-      "Мишин Юрий Васильевич": 28,
-      "Николаев Александр Юрьевич": 27,
-      "Пчелинцев Анатолий Александрович": 4,
-      "Саблин Дмитрий Вадимович": 430,
-      "Савицкая Светлана Васильевна": 34,
-      "Савицкая Светлана Евгеньевна": 165,
-      "Против всех": 221
+      "gas:candidate-vibid:1001000136080": 32,
+      "gas:candidate-vibid:1001000190378": 43,
+      "gas:candidate-vibid:1001000261393": 28,
+      "gas:candidate-vibid:1001000193914": 27,
+      "gas:candidate-vibid:1001000195102": 4,
+      "gas:candidate-vibid:1001000225958": 430,
+      "gas:candidate-vibid:350301070604": 34,
+      "gas:candidate-vibid:1001000121869": 165,
+      "special:against-all": 221
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503010002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301070355&region=0&sub_region=0&type=429",
@@ -11524,15 +11524,15 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Головатюк Андрей Михайлович": 22,
-      "Ефремов Сергей Александрович": 21,
-      "Мишин Юрий Васильевич": 22,
-      "Николаев Александр Юрьевич": 29,
-      "Пчелинцев Анатолий Александрович": 10,
-      "Саблин Дмитрий Вадимович": 249,
-      "Савицкая Светлана Васильевна": 41,
-      "Савицкая Светлана Евгеньевна": 98,
-      "Против всех": 184
+      "gas:candidate-vibid:1001000136080": 22,
+      "gas:candidate-vibid:1001000190378": 21,
+      "gas:candidate-vibid:1001000261393": 22,
+      "gas:candidate-vibid:1001000193914": 29,
+      "gas:candidate-vibid:1001000195102": 10,
+      "gas:candidate-vibid:1001000225958": 249,
+      "gas:candidate-vibid:350301070604": 41,
+      "gas:candidate-vibid:1001000121869": 98,
+      "special:against-all": 184
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503010002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301070355&region=0&sub_region=0&type=429",
@@ -11582,15 +11582,15 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Головатюк Андрей Михайлович": 9,
-      "Ефремов Сергей Александрович": 4,
-      "Мишин Юрий Васильевич": 9,
-      "Николаев Александр Юрьевич": 1,
-      "Пчелинцев Анатолий Александрович": 2,
-      "Саблин Дмитрий Вадимович": 304,
-      "Савицкая Светлана Васильевна": 17,
-      "Савицкая Светлана Евгеньевна": 35,
-      "Против всех": 66
+      "gas:candidate-vibid:1001000136080": 9,
+      "gas:candidate-vibid:1001000190378": 4,
+      "gas:candidate-vibid:1001000261393": 9,
+      "gas:candidate-vibid:1001000193914": 1,
+      "gas:candidate-vibid:1001000195102": 2,
+      "gas:candidate-vibid:1001000225958": 304,
+      "gas:candidate-vibid:350301070604": 17,
+      "gas:candidate-vibid:1001000121869": 35,
+      "special:against-all": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503010002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301070355&region=0&sub_region=0&type=429",
@@ -11640,15 +11640,15 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Головатюк Андрей Михайлович": 24,
-      "Ефремов Сергей Александрович": 16,
-      "Мишин Юрий Васильевич": 28,
-      "Николаев Александр Юрьевич": 16,
-      "Пчелинцев Анатолий Александрович": 8,
-      "Саблин Дмитрий Вадимович": 561,
-      "Савицкая Светлана Васильевна": 28,
-      "Савицкая Светлана Евгеньевна": 67,
-      "Против всех": 196
+      "gas:candidate-vibid:1001000136080": 24,
+      "gas:candidate-vibid:1001000190378": 16,
+      "gas:candidate-vibid:1001000261393": 28,
+      "gas:candidate-vibid:1001000193914": 16,
+      "gas:candidate-vibid:1001000195102": 8,
+      "gas:candidate-vibid:1001000225958": 561,
+      "gas:candidate-vibid:350301070604": 28,
+      "gas:candidate-vibid:1001000121869": 67,
+      "special:against-all": 196
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503010002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301070355&region=0&sub_region=0&type=429",
@@ -11698,15 +11698,15 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Головатюк Андрей Михайлович": 14,
-      "Ефремов Сергей Александрович": 11,
-      "Мишин Юрий Васильевич": 16,
-      "Николаев Александр Юрьевич": 12,
-      "Пчелинцев Анатолий Александрович": 6,
-      "Саблин Дмитрий Вадимович": 401,
-      "Савицкая Светлана Васильевна": 10,
-      "Савицкая Светлана Евгеньевна": 41,
-      "Против всех": 107
+      "gas:candidate-vibid:1001000136080": 14,
+      "gas:candidate-vibid:1001000190378": 11,
+      "gas:candidate-vibid:1001000261393": 16,
+      "gas:candidate-vibid:1001000193914": 12,
+      "gas:candidate-vibid:1001000195102": 6,
+      "gas:candidate-vibid:1001000225958": 401,
+      "gas:candidate-vibid:350301070604": 10,
+      "gas:candidate-vibid:1001000121869": 41,
+      "special:against-all": 107
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503010002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301070355&region=0&sub_region=0&type=429",
@@ -11756,15 +11756,15 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Головатюк Андрей Михайлович": 5,
-      "Ефремов Сергей Александрович": 2,
-      "Мишин Юрий Васильевич": 2,
-      "Николаев Александр Юрьевич": 1,
-      "Пчелинцев Анатолий Александрович": 0,
-      "Саблин Дмитрий Вадимович": 243,
-      "Савицкая Светлана Васильевна": 7,
-      "Савицкая Светлана Евгеньевна": 3,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000136080": 5,
+      "gas:candidate-vibid:1001000190378": 2,
+      "gas:candidate-vibid:1001000261393": 2,
+      "gas:candidate-vibid:1001000193914": 1,
+      "gas:candidate-vibid:1001000195102": 0,
+      "gas:candidate-vibid:1001000225958": 243,
+      "gas:candidate-vibid:350301070604": 7,
+      "gas:candidate-vibid:1001000121869": 3,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503010002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301070355&region=0&sub_region=0&type=429",
@@ -11814,15 +11814,15 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Головатюк Андрей Михайлович": 24,
-      "Ефремов Сергей Александрович": 28,
-      "Мишин Юрий Васильевич": 15,
-      "Николаев Александр Юрьевич": 29,
-      "Пчелинцев Анатолий Александрович": 7,
-      "Саблин Дмитрий Вадимович": 847,
-      "Савицкая Светлана Васильевна": 59,
-      "Савицкая Светлана Евгеньевна": 226,
-      "Против всех": 199
+      "gas:candidate-vibid:1001000136080": 24,
+      "gas:candidate-vibid:1001000190378": 28,
+      "gas:candidate-vibid:1001000261393": 15,
+      "gas:candidate-vibid:1001000193914": 29,
+      "gas:candidate-vibid:1001000195102": 7,
+      "gas:candidate-vibid:1001000225958": 847,
+      "gas:candidate-vibid:350301070604": 59,
+      "gas:candidate-vibid:1001000121869": 226,
+      "special:against-all": 199
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503010003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301070357&region=0&sub_region=0&type=429",
@@ -11872,15 +11872,15 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Головатюк Андрей Михайлович": 27,
-      "Ефремов Сергей Александрович": 17,
-      "Мишин Юрий Васильевич": 17,
-      "Николаев Александр Юрьевич": 19,
-      "Пчелинцев Анатолий Александрович": 8,
-      "Саблин Дмитрий Вадимович": 769,
-      "Савицкая Светлана Васильевна": 62,
-      "Савицкая Светлана Евгеньевна": 144,
-      "Против всех": 205
+      "gas:candidate-vibid:1001000136080": 27,
+      "gas:candidate-vibid:1001000190378": 17,
+      "gas:candidate-vibid:1001000261393": 17,
+      "gas:candidate-vibid:1001000193914": 19,
+      "gas:candidate-vibid:1001000195102": 8,
+      "gas:candidate-vibid:1001000225958": 769,
+      "gas:candidate-vibid:350301070604": 62,
+      "gas:candidate-vibid:1001000121869": 144,
+      "special:against-all": 205
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503010003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301070357&region=0&sub_region=0&type=429",
@@ -11930,15 +11930,15 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Головатюк Андрей Михайлович": 20,
-      "Ефремов Сергей Александрович": 12,
-      "Мишин Юрий Васильевич": 10,
-      "Николаев Александр Юрьевич": 22,
-      "Пчелинцев Анатолий Александрович": 10,
-      "Саблин Дмитрий Вадимович": 779,
-      "Савицкая Светлана Васильевна": 52,
-      "Савицкая Светлана Евгеньевна": 155,
-      "Против всех": 174
+      "gas:candidate-vibid:1001000136080": 20,
+      "gas:candidate-vibid:1001000190378": 12,
+      "gas:candidate-vibid:1001000261393": 10,
+      "gas:candidate-vibid:1001000193914": 22,
+      "gas:candidate-vibid:1001000195102": 10,
+      "gas:candidate-vibid:1001000225958": 779,
+      "gas:candidate-vibid:350301070604": 52,
+      "gas:candidate-vibid:1001000121869": 155,
+      "special:against-all": 174
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503010003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301070357&region=0&sub_region=0&type=429",
@@ -11988,15 +11988,15 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Головатюк Андрей Михайлович": 23,
-      "Ефремов Сергей Александрович": 25,
-      "Мишин Юрий Васильевич": 15,
-      "Николаев Александр Юрьевич": 43,
-      "Пчелинцев Анатолий Александрович": 11,
-      "Саблин Дмитрий Вадимович": 894,
-      "Савицкая Светлана Васильевна": 80,
-      "Савицкая Светлана Евгеньевна": 216,
-      "Против всех": 177
+      "gas:candidate-vibid:1001000136080": 23,
+      "gas:candidate-vibid:1001000190378": 25,
+      "gas:candidate-vibid:1001000261393": 15,
+      "gas:candidate-vibid:1001000193914": 43,
+      "gas:candidate-vibid:1001000195102": 11,
+      "gas:candidate-vibid:1001000225958": 894,
+      "gas:candidate-vibid:350301070604": 80,
+      "gas:candidate-vibid:1001000121869": 216,
+      "special:against-all": 177
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503010003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301070357&region=0&sub_region=0&type=429",
@@ -12046,15 +12046,15 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Головатюк Андрей Михайлович": 40,
-      "Ефремов Сергей Александрович": 24,
-      "Мишин Юрий Васильевич": 15,
-      "Николаев Александр Юрьевич": 20,
-      "Пчелинцев Анатолий Александрович": 5,
-      "Саблин Дмитрий Вадимович": 877,
-      "Савицкая Светлана Васильевна": 61,
-      "Савицкая Светлана Евгеньевна": 220,
-      "Против всех": 195
+      "gas:candidate-vibid:1001000136080": 40,
+      "gas:candidate-vibid:1001000190378": 24,
+      "gas:candidate-vibid:1001000261393": 15,
+      "gas:candidate-vibid:1001000193914": 20,
+      "gas:candidate-vibid:1001000195102": 5,
+      "gas:candidate-vibid:1001000225958": 877,
+      "gas:candidate-vibid:350301070604": 61,
+      "gas:candidate-vibid:1001000121869": 220,
+      "special:against-all": 195
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503010003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301070357&region=0&sub_region=0&type=429",
@@ -12104,15 +12104,15 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Головатюк Андрей Михайлович": 23,
-      "Ефремов Сергей Александрович": 21,
-      "Мишин Юрий Васильевич": 18,
-      "Николаев Александр Юрьевич": 50,
-      "Пчелинцев Анатолий Александрович": 14,
-      "Саблин Дмитрий Вадимович": 747,
-      "Савицкая Светлана Васильевна": 62,
-      "Савицкая Светлана Евгеньевна": 302,
-      "Против всех": 252
+      "gas:candidate-vibid:1001000136080": 23,
+      "gas:candidate-vibid:1001000190378": 21,
+      "gas:candidate-vibid:1001000261393": 18,
+      "gas:candidate-vibid:1001000193914": 50,
+      "gas:candidate-vibid:1001000195102": 14,
+      "gas:candidate-vibid:1001000225958": 747,
+      "gas:candidate-vibid:350301070604": 62,
+      "gas:candidate-vibid:1001000121869": 302,
+      "special:against-all": 252
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503010003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301070357&region=0&sub_region=0&type=429",
@@ -12162,15 +12162,15 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Головатюк Андрей Михайлович": 29,
-      "Ефремов Сергей Александрович": 15,
-      "Мишин Юрий Васильевич": 15,
-      "Николаев Александр Юрьевич": 22,
-      "Пчелинцев Анатолий Александрович": 5,
-      "Саблин Дмитрий Вадимович": 805,
-      "Савицкая Светлана Васильевна": 73,
-      "Савицкая Светлана Евгеньевна": 217,
-      "Против всех": 171
+      "gas:candidate-vibid:1001000136080": 29,
+      "gas:candidate-vibid:1001000190378": 15,
+      "gas:candidate-vibid:1001000261393": 15,
+      "gas:candidate-vibid:1001000193914": 22,
+      "gas:candidate-vibid:1001000195102": 5,
+      "gas:candidate-vibid:1001000225958": 805,
+      "gas:candidate-vibid:350301070604": 73,
+      "gas:candidate-vibid:1001000121869": 217,
+      "special:against-all": 171
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503010003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301070357&region=0&sub_region=0&type=429",
@@ -12220,15 +12220,15 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Головатюк Андрей Михайлович": 17,
-      "Ефремов Сергей Александрович": 7,
-      "Мишин Юрий Васильевич": 16,
-      "Николаев Александр Юрьевич": 12,
-      "Пчелинцев Анатолий Александрович": 6,
-      "Саблин Дмитрий Вадимович": 528,
-      "Савицкая Светлана Васильевна": 35,
-      "Савицкая Светлана Евгеньевна": 139,
-      "Против всех": 157
+      "gas:candidate-vibid:1001000136080": 17,
+      "gas:candidate-vibid:1001000190378": 7,
+      "gas:candidate-vibid:1001000261393": 16,
+      "gas:candidate-vibid:1001000193914": 12,
+      "gas:candidate-vibid:1001000195102": 6,
+      "gas:candidate-vibid:1001000225958": 528,
+      "gas:candidate-vibid:350301070604": 35,
+      "gas:candidate-vibid:1001000121869": 139,
+      "special:against-all": 157
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503010003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301070357&region=0&sub_region=0&type=429",
@@ -12278,15 +12278,15 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Головатюк Андрей Михайлович": 32,
-      "Ефремов Сергей Александрович": 23,
-      "Мишин Юрий Васильевич": 21,
-      "Николаев Александр Юрьевич": 28,
-      "Пчелинцев Анатолий Александрович": 7,
-      "Саблин Дмитрий Вадимович": 966,
-      "Савицкая Светлана Васильевна": 53,
-      "Савицкая Светлана Евгеньевна": 163,
-      "Против всех": 229
+      "gas:candidate-vibid:1001000136080": 32,
+      "gas:candidate-vibid:1001000190378": 23,
+      "gas:candidate-vibid:1001000261393": 21,
+      "gas:candidate-vibid:1001000193914": 28,
+      "gas:candidate-vibid:1001000195102": 7,
+      "gas:candidate-vibid:1001000225958": 966,
+      "gas:candidate-vibid:350301070604": 53,
+      "gas:candidate-vibid:1001000121869": 163,
+      "special:against-all": 229
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503010003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301070357&region=0&sub_region=0&type=429",
@@ -12336,15 +12336,15 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Головатюк Андрей Михайлович": 24,
-      "Ефремов Сергей Александрович": 21,
-      "Мишин Юрий Васильевич": 14,
-      "Николаев Александр Юрьевич": 29,
-      "Пчелинцев Анатолий Александрович": 7,
-      "Саблин Дмитрий Вадимович": 615,
-      "Савицкая Светлана Васильевна": 64,
-      "Савицкая Светлана Евгеньевна": 220,
-      "Против всех": 205
+      "gas:candidate-vibid:1001000136080": 24,
+      "gas:candidate-vibid:1001000190378": 21,
+      "gas:candidate-vibid:1001000261393": 14,
+      "gas:candidate-vibid:1001000193914": 29,
+      "gas:candidate-vibid:1001000195102": 7,
+      "gas:candidate-vibid:1001000225958": 615,
+      "gas:candidate-vibid:350301070604": 64,
+      "gas:candidate-vibid:1001000121869": 220,
+      "special:against-all": 205
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503010003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301070357&region=0&sub_region=0&type=429",
@@ -12394,15 +12394,15 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Головатюк Андрей Михайлович": 26,
-      "Ефремов Сергей Александрович": 23,
-      "Мишин Юрий Васильевич": 9,
-      "Николаев Александр Юрьевич": 27,
-      "Пчелинцев Анатолий Александрович": 5,
-      "Саблин Дмитрий Вадимович": 849,
-      "Савицкая Светлана Васильевна": 63,
-      "Савицкая Светлана Евгеньевна": 190,
-      "Против всех": 207
+      "gas:candidate-vibid:1001000136080": 26,
+      "gas:candidate-vibid:1001000190378": 23,
+      "gas:candidate-vibid:1001000261393": 9,
+      "gas:candidate-vibid:1001000193914": 27,
+      "gas:candidate-vibid:1001000195102": 5,
+      "gas:candidate-vibid:1001000225958": 849,
+      "gas:candidate-vibid:350301070604": 63,
+      "gas:candidate-vibid:1001000121869": 190,
+      "special:against-all": 207
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503010003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301070357&region=0&sub_region=0&type=429",
@@ -12452,15 +12452,15 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Головатюк Андрей Михайлович": 4,
-      "Ефремов Сергей Александрович": 3,
-      "Мишин Юрий Васильевич": 5,
-      "Николаев Александр Юрьевич": 6,
-      "Пчелинцев Анатолий Александрович": 1,
-      "Саблин Дмитрий Вадимович": 211,
-      "Савицкая Светлана Васильевна": 12,
-      "Савицкая Светлана Евгеньевна": 37,
-      "Против всех": 58
+      "gas:candidate-vibid:1001000136080": 4,
+      "gas:candidate-vibid:1001000190378": 3,
+      "gas:candidate-vibid:1001000261393": 5,
+      "gas:candidate-vibid:1001000193914": 6,
+      "gas:candidate-vibid:1001000195102": 1,
+      "gas:candidate-vibid:1001000225958": 211,
+      "gas:candidate-vibid:350301070604": 12,
+      "gas:candidate-vibid:1001000121869": 37,
+      "special:against-all": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503010003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301070357&region=0&sub_region=0&type=429",
@@ -12510,15 +12510,15 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Головатюк Андрей Михайлович": 7,
-      "Ефремов Сергей Александрович": 13,
-      "Мишин Юрий Васильевич": 8,
-      "Николаев Александр Юрьевич": 10,
-      "Пчелинцев Анатолий Александрович": 8,
-      "Саблин Дмитрий Вадимович": 323,
-      "Савицкая Светлана Васильевна": 21,
-      "Савицкая Светлана Евгеньевна": 39,
-      "Против всех": 67
+      "gas:candidate-vibid:1001000136080": 7,
+      "gas:candidate-vibid:1001000190378": 13,
+      "gas:candidate-vibid:1001000261393": 8,
+      "gas:candidate-vibid:1001000193914": 10,
+      "gas:candidate-vibid:1001000195102": 8,
+      "gas:candidate-vibid:1001000225958": 323,
+      "gas:candidate-vibid:350301070604": 21,
+      "gas:candidate-vibid:1001000121869": 39,
+      "special:against-all": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503010003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301070357&region=0&sub_region=0&type=429",
@@ -12568,15 +12568,15 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Головатюк Андрей Михайлович": 11,
-      "Ефремов Сергей Александрович": 9,
-      "Мишин Юрий Васильевич": 6,
-      "Николаев Александр Юрьевич": 9,
-      "Пчелинцев Анатолий Александрович": 1,
-      "Саблин Дмитрий Вадимович": 542,
-      "Савицкая Светлана Васильевна": 24,
-      "Савицкая Светлана Евгеньевна": 66,
-      "Против всех": 63
+      "gas:candidate-vibid:1001000136080": 11,
+      "gas:candidate-vibid:1001000190378": 9,
+      "gas:candidate-vibid:1001000261393": 6,
+      "gas:candidate-vibid:1001000193914": 9,
+      "gas:candidate-vibid:1001000195102": 1,
+      "gas:candidate-vibid:1001000225958": 542,
+      "gas:candidate-vibid:350301070604": 24,
+      "gas:candidate-vibid:1001000121869": 66,
+      "special:against-all": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503010003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301070357&region=0&sub_region=0&type=429",
@@ -12626,15 +12626,15 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Головатюк Андрей Михайлович": 18,
-      "Ефремов Сергей Александрович": 18,
-      "Мишин Юрий Васильевич": 10,
-      "Николаев Александр Юрьевич": 12,
-      "Пчелинцев Анатолий Александрович": 4,
-      "Саблин Дмитрий Вадимович": 429,
-      "Савицкая Светлана Васильевна": 40,
-      "Савицкая Светлана Евгеньевна": 135,
-      "Против всех": 95
+      "gas:candidate-vibid:1001000136080": 18,
+      "gas:candidate-vibid:1001000190378": 18,
+      "gas:candidate-vibid:1001000261393": 10,
+      "gas:candidate-vibid:1001000193914": 12,
+      "gas:candidate-vibid:1001000195102": 4,
+      "gas:candidate-vibid:1001000225958": 429,
+      "gas:candidate-vibid:350301070604": 40,
+      "gas:candidate-vibid:1001000121869": 135,
+      "special:against-all": 95
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503010003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301070357&region=0&sub_region=0&type=429",
@@ -12684,15 +12684,15 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Головатюк Андрей Михайлович": 27,
-      "Ефремов Сергей Александрович": 12,
-      "Мишин Юрий Васильевич": 12,
-      "Николаев Александр Юрьевич": 33,
-      "Пчелинцев Анатолий Александрович": 6,
-      "Саблин Дмитрий Вадимович": 725,
-      "Савицкая Светлана Васильевна": 49,
-      "Савицкая Светлана Евгеньевна": 153,
-      "Против всех": 139
+      "gas:candidate-vibid:1001000136080": 27,
+      "gas:candidate-vibid:1001000190378": 12,
+      "gas:candidate-vibid:1001000261393": 12,
+      "gas:candidate-vibid:1001000193914": 33,
+      "gas:candidate-vibid:1001000195102": 6,
+      "gas:candidate-vibid:1001000225958": 725,
+      "gas:candidate-vibid:350301070604": 49,
+      "gas:candidate-vibid:1001000121869": 153,
+      "special:against-all": 139
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503010003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301070357&region=0&sub_region=0&type=429",
@@ -12742,15 +12742,15 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Головатюк Андрей Михайлович": 14,
-      "Ефремов Сергей Александрович": 15,
-      "Мишин Юрий Васильевич": 11,
-      "Николаев Александр Юрьевич": 25,
-      "Пчелинцев Анатолий Александрович": 6,
-      "Саблин Дмитрий Вадимович": 755,
-      "Савицкая Светлана Васильевна": 61,
-      "Савицкая Светлана Евгеньевна": 215,
-      "Против всех": 145
+      "gas:candidate-vibid:1001000136080": 14,
+      "gas:candidate-vibid:1001000190378": 15,
+      "gas:candidate-vibid:1001000261393": 11,
+      "gas:candidate-vibid:1001000193914": 25,
+      "gas:candidate-vibid:1001000195102": 6,
+      "gas:candidate-vibid:1001000225958": 755,
+      "gas:candidate-vibid:350301070604": 61,
+      "gas:candidate-vibid:1001000121869": 215,
+      "special:against-all": 145
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503010003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301070357&region=0&sub_region=0&type=429",
@@ -12800,15 +12800,15 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Головатюк Андрей Михайлович": 14,
-      "Ефремов Сергей Александрович": 17,
-      "Мишин Юрий Васильевич": 12,
-      "Николаев Александр Юрьевич": 12,
-      "Пчелинцев Анатолий Александрович": 6,
-      "Саблин Дмитрий Вадимович": 476,
-      "Савицкая Светлана Васильевна": 36,
-      "Савицкая Светлана Евгеньевна": 73,
-      "Против всех": 101
+      "gas:candidate-vibid:1001000136080": 14,
+      "gas:candidate-vibid:1001000190378": 17,
+      "gas:candidate-vibid:1001000261393": 12,
+      "gas:candidate-vibid:1001000193914": 12,
+      "gas:candidate-vibid:1001000195102": 6,
+      "gas:candidate-vibid:1001000225958": 476,
+      "gas:candidate-vibid:350301070604": 36,
+      "gas:candidate-vibid:1001000121869": 73,
+      "special:against-all": 101
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503010003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301070357&region=0&sub_region=0&type=429",
@@ -12858,15 +12858,15 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Головатюк Андрей Михайлович": 0,
-      "Ефремов Сергей Александрович": 1,
-      "Мишин Юрий Васильевич": 1,
-      "Николаев Александр Юрьевич": 2,
-      "Пчелинцев Анатолий Александрович": 0,
-      "Саблин Дмитрий Вадимович": 55,
-      "Савицкая Светлана Васильевна": 3,
-      "Савицкая Светлана Евгеньевна": 29,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000136080": 0,
+      "gas:candidate-vibid:1001000190378": 1,
+      "gas:candidate-vibid:1001000261393": 1,
+      "gas:candidate-vibid:1001000193914": 2,
+      "gas:candidate-vibid:1001000195102": 0,
+      "gas:candidate-vibid:1001000225958": 55,
+      "gas:candidate-vibid:350301070604": 3,
+      "gas:candidate-vibid:1001000121869": 29,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503010003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301070357&region=0&sub_region=0&type=429",
@@ -12916,15 +12916,15 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Головатюк Андрей Михайлович": 14,
-      "Ефремов Сергей Александрович": 19,
-      "Мишин Юрий Васильевич": 24,
-      "Николаев Александр Юрьевич": 19,
-      "Пчелинцев Анатолий Александрович": 2,
-      "Саблин Дмитрий Вадимович": 1135,
-      "Савицкая Светлана Васильевна": 44,
-      "Савицкая Светлана Евгеньевна": 205,
-      "Против всех": 183
+      "gas:candidate-vibid:1001000136080": 14,
+      "gas:candidate-vibid:1001000190378": 19,
+      "gas:candidate-vibid:1001000261393": 24,
+      "gas:candidate-vibid:1001000193914": 19,
+      "gas:candidate-vibid:1001000195102": 2,
+      "gas:candidate-vibid:1001000225958": 1135,
+      "gas:candidate-vibid:350301070604": 44,
+      "gas:candidate-vibid:1001000121869": 205,
+      "special:against-all": 183
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503010004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301070362&region=0&sub_region=0&type=429",
@@ -12974,15 +12974,15 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Головатюк Андрей Михайлович": 25,
-      "Ефремов Сергей Александрович": 19,
-      "Мишин Юрий Васильевич": 16,
-      "Николаев Александр Юрьевич": 17,
-      "Пчелинцев Анатолий Александрович": 3,
-      "Саблин Дмитрий Вадимович": 1120,
-      "Савицкая Светлана Васильевна": 25,
-      "Савицкая Светлана Евгеньевна": 140,
-      "Против всех": 213
+      "gas:candidate-vibid:1001000136080": 25,
+      "gas:candidate-vibid:1001000190378": 19,
+      "gas:candidate-vibid:1001000261393": 16,
+      "gas:candidate-vibid:1001000193914": 17,
+      "gas:candidate-vibid:1001000195102": 3,
+      "gas:candidate-vibid:1001000225958": 1120,
+      "gas:candidate-vibid:350301070604": 25,
+      "gas:candidate-vibid:1001000121869": 140,
+      "special:against-all": 213
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503010004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301070362&region=0&sub_region=0&type=429",
@@ -13032,15 +13032,15 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Головатюк Андрей Михайлович": 27,
-      "Ефремов Сергей Александрович": 18,
-      "Мишин Юрий Васильевич": 20,
-      "Николаев Александр Юрьевич": 16,
-      "Пчелинцев Анатолий Александрович": 6,
-      "Саблин Дмитрий Вадимович": 1169,
-      "Савицкая Светлана Васильевна": 35,
-      "Савицкая Светлана Евгеньевна": 191,
-      "Против всех": 184
+      "gas:candidate-vibid:1001000136080": 27,
+      "gas:candidate-vibid:1001000190378": 18,
+      "gas:candidate-vibid:1001000261393": 20,
+      "gas:candidate-vibid:1001000193914": 16,
+      "gas:candidate-vibid:1001000195102": 6,
+      "gas:candidate-vibid:1001000225958": 1169,
+      "gas:candidate-vibid:350301070604": 35,
+      "gas:candidate-vibid:1001000121869": 191,
+      "special:against-all": 184
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503010004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301070362&region=0&sub_region=0&type=429",
@@ -13090,15 +13090,15 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Головатюк Андрей Михайлович": 16,
-      "Ефремов Сергей Александрович": 12,
-      "Мишин Юрий Васильевич": 10,
-      "Николаев Александр Юрьевич": 19,
-      "Пчелинцев Анатолий Александрович": 6,
-      "Саблин Дмитрий Вадимович": 1044,
-      "Савицкая Светлана Васильевна": 44,
-      "Савицкая Светлана Евгеньевна": 219,
-      "Против всех": 211
+      "gas:candidate-vibid:1001000136080": 16,
+      "gas:candidate-vibid:1001000190378": 12,
+      "gas:candidate-vibid:1001000261393": 10,
+      "gas:candidate-vibid:1001000193914": 19,
+      "gas:candidate-vibid:1001000195102": 6,
+      "gas:candidate-vibid:1001000225958": 1044,
+      "gas:candidate-vibid:350301070604": 44,
+      "gas:candidate-vibid:1001000121869": 219,
+      "special:against-all": 211
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503010004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301070362&region=0&sub_region=0&type=429",
@@ -13148,15 +13148,15 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Головатюк Андрей Михайлович": 22,
-      "Ефремов Сергей Александрович": 15,
-      "Мишин Юрий Васильевич": 7,
-      "Николаев Александр Юрьевич": 17,
-      "Пчелинцев Анатолий Александрович": 5,
-      "Саблин Дмитрий Вадимович": 1095,
-      "Савицкая Светлана Васильевна": 43,
-      "Савицкая Светлана Евгеньевна": 183,
-      "Против всех": 212
+      "gas:candidate-vibid:1001000136080": 22,
+      "gas:candidate-vibid:1001000190378": 15,
+      "gas:candidate-vibid:1001000261393": 7,
+      "gas:candidate-vibid:1001000193914": 17,
+      "gas:candidate-vibid:1001000195102": 5,
+      "gas:candidate-vibid:1001000225958": 1095,
+      "gas:candidate-vibid:350301070604": 43,
+      "gas:candidate-vibid:1001000121869": 183,
+      "special:against-all": 212
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503010004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301070362&region=0&sub_region=0&type=429",
@@ -13206,15 +13206,15 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Головатюк Андрей Михайлович": 20,
-      "Ефремов Сергей Александрович": 8,
-      "Мишин Юрий Васильевич": 17,
-      "Николаев Александр Юрьевич": 7,
-      "Пчелинцев Анатолий Александрович": 1,
-      "Саблин Дмитрий Вадимович": 866,
-      "Савицкая Светлана Васильевна": 14,
-      "Савицкая Светлана Евгеньевна": 58,
-      "Против всех": 105
+      "gas:candidate-vibid:1001000136080": 20,
+      "gas:candidate-vibid:1001000190378": 8,
+      "gas:candidate-vibid:1001000261393": 17,
+      "gas:candidate-vibid:1001000193914": 7,
+      "gas:candidate-vibid:1001000195102": 1,
+      "gas:candidate-vibid:1001000225958": 866,
+      "gas:candidate-vibid:350301070604": 14,
+      "gas:candidate-vibid:1001000121869": 58,
+      "special:against-all": 105
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503010004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301070362&region=0&sub_region=0&type=429",
@@ -13264,15 +13264,15 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Головатюк Андрей Михайлович": 7,
-      "Ефремов Сергей Александрович": 7,
-      "Мишин Юрий Васильевич": 3,
-      "Николаев Александр Юрьевич": 15,
-      "Пчелинцев Анатолий Александрович": 1,
-      "Саблин Дмитрий Вадимович": 571,
-      "Савицкая Светлана Васильевна": 20,
-      "Савицкая Светлана Евгеньевна": 74,
-      "Против всех": 72
+      "gas:candidate-vibid:1001000136080": 7,
+      "gas:candidate-vibid:1001000190378": 7,
+      "gas:candidate-vibid:1001000261393": 3,
+      "gas:candidate-vibid:1001000193914": 15,
+      "gas:candidate-vibid:1001000195102": 1,
+      "gas:candidate-vibid:1001000225958": 571,
+      "gas:candidate-vibid:350301070604": 20,
+      "gas:candidate-vibid:1001000121869": 74,
+      "special:against-all": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503010004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301070362&region=0&sub_region=0&type=429",
@@ -13322,15 +13322,15 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Головатюк Андрей Михайлович": 22,
-      "Ефремов Сергей Александрович": 8,
-      "Мишин Юрий Васильевич": 5,
-      "Николаев Александр Юрьевич": 7,
-      "Пчелинцев Анатолий Александрович": 4,
-      "Саблин Дмитрий Вадимович": 983,
-      "Савицкая Светлана Васильевна": 17,
-      "Савицкая Светлана Евгеньевна": 76,
-      "Против всех": 105
+      "gas:candidate-vibid:1001000136080": 22,
+      "gas:candidate-vibid:1001000190378": 8,
+      "gas:candidate-vibid:1001000261393": 5,
+      "gas:candidate-vibid:1001000193914": 7,
+      "gas:candidate-vibid:1001000195102": 4,
+      "gas:candidate-vibid:1001000225958": 983,
+      "gas:candidate-vibid:350301070604": 17,
+      "gas:candidate-vibid:1001000121869": 76,
+      "special:against-all": 105
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503010004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301070362&region=0&sub_region=0&type=429",
@@ -13380,15 +13380,15 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Головатюк Андрей Михайлович": 18,
-      "Ефремов Сергей Александрович": 15,
-      "Мишин Юрий Васильевич": 6,
-      "Николаев Александр Юрьевич": 37,
-      "Пчелинцев Анатолий Александрович": 18,
-      "Саблин Дмитрий Вадимович": 768,
-      "Савицкая Светлана Васильевна": 48,
-      "Савицкая Светлана Евгеньевна": 149,
-      "Против всех": 254
+      "gas:candidate-vibid:1001000136080": 18,
+      "gas:candidate-vibid:1001000190378": 15,
+      "gas:candidate-vibid:1001000261393": 6,
+      "gas:candidate-vibid:1001000193914": 37,
+      "gas:candidate-vibid:1001000195102": 18,
+      "gas:candidate-vibid:1001000225958": 768,
+      "gas:candidate-vibid:350301070604": 48,
+      "gas:candidate-vibid:1001000121869": 149,
+      "special:against-all": 254
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503010005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301070365&region=0&sub_region=0&type=429",
@@ -13438,15 +13438,15 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Головатюк Андрей Михайлович": 37,
-      "Ефремов Сергей Александрович": 16,
-      "Мишин Юрий Васильевич": 10,
-      "Николаев Александр Юрьевич": 30,
-      "Пчелинцев Анатолий Александрович": 26,
-      "Саблин Дмитрий Вадимович": 835,
-      "Савицкая Светлана Васильевна": 42,
-      "Савицкая Светлана Евгеньевна": 208,
-      "Против всех": 241
+      "gas:candidate-vibid:1001000136080": 37,
+      "gas:candidate-vibid:1001000190378": 16,
+      "gas:candidate-vibid:1001000261393": 10,
+      "gas:candidate-vibid:1001000193914": 30,
+      "gas:candidate-vibid:1001000195102": 26,
+      "gas:candidate-vibid:1001000225958": 835,
+      "gas:candidate-vibid:350301070604": 42,
+      "gas:candidate-vibid:1001000121869": 208,
+      "special:against-all": 241
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503010005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301070365&region=0&sub_region=0&type=429",
@@ -13496,15 +13496,15 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Головатюк Андрей Михайлович": 31,
-      "Ефремов Сергей Александрович": 18,
-      "Мишин Юрий Васильевич": 5,
-      "Николаев Александр Юрьевич": 35,
-      "Пчелинцев Анатолий Александрович": 17,
-      "Саблин Дмитрий Вадимович": 703,
-      "Савицкая Светлана Васильевна": 58,
-      "Савицкая Светлана Евгеньевна": 193,
-      "Против всех": 206
+      "gas:candidate-vibid:1001000136080": 31,
+      "gas:candidate-vibid:1001000190378": 18,
+      "gas:candidate-vibid:1001000261393": 5,
+      "gas:candidate-vibid:1001000193914": 35,
+      "gas:candidate-vibid:1001000195102": 17,
+      "gas:candidate-vibid:1001000225958": 703,
+      "gas:candidate-vibid:350301070604": 58,
+      "gas:candidate-vibid:1001000121869": 193,
+      "special:against-all": 206
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503010005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301070365&region=0&sub_region=0&type=429",
@@ -13554,15 +13554,15 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Головатюк Андрей Михайлович": 23,
-      "Ефремов Сергей Александрович": 10,
-      "Мишин Юрий Васильевич": 9,
-      "Николаев Александр Юрьевич": 31,
-      "Пчелинцев Анатолий Александрович": 22,
-      "Саблин Дмитрий Вадимович": 795,
-      "Савицкая Светлана Васильевна": 55,
-      "Савицкая Светлана Евгеньевна": 159,
-      "Против всех": 223
+      "gas:candidate-vibid:1001000136080": 23,
+      "gas:candidate-vibid:1001000190378": 10,
+      "gas:candidate-vibid:1001000261393": 9,
+      "gas:candidate-vibid:1001000193914": 31,
+      "gas:candidate-vibid:1001000195102": 22,
+      "gas:candidate-vibid:1001000225958": 795,
+      "gas:candidate-vibid:350301070604": 55,
+      "gas:candidate-vibid:1001000121869": 159,
+      "special:against-all": 223
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503010005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301070365&region=0&sub_region=0&type=429",
@@ -13612,15 +13612,15 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Головатюк Андрей Михайлович": 36,
-      "Ефремов Сергей Александрович": 16,
-      "Мишин Юрий Васильевич": 9,
-      "Николаев Александр Юрьевич": 37,
-      "Пчелинцев Анатолий Александрович": 18,
-      "Саблин Дмитрий Вадимович": 816,
-      "Савицкая Светлана Васильевна": 67,
-      "Савицкая Светлана Евгеньевна": 141,
-      "Против всех": 270
+      "gas:candidate-vibid:1001000136080": 36,
+      "gas:candidate-vibid:1001000190378": 16,
+      "gas:candidate-vibid:1001000261393": 9,
+      "gas:candidate-vibid:1001000193914": 37,
+      "gas:candidate-vibid:1001000195102": 18,
+      "gas:candidate-vibid:1001000225958": 816,
+      "gas:candidate-vibid:350301070604": 67,
+      "gas:candidate-vibid:1001000121869": 141,
+      "special:against-all": 270
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503010005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301070365&region=0&sub_region=0&type=429",
@@ -13670,15 +13670,15 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Головатюк Андрей Михайлович": 24,
-      "Ефремов Сергей Александрович": 22,
-      "Мишин Юрий Васильевич": 13,
-      "Николаев Александр Юрьевич": 29,
-      "Пчелинцев Анатолий Александрович": 26,
-      "Саблин Дмитрий Вадимович": 722,
-      "Савицкая Светлана Васильевна": 76,
-      "Савицкая Светлана Евгеньевна": 193,
-      "Против всех": 229
+      "gas:candidate-vibid:1001000136080": 24,
+      "gas:candidate-vibid:1001000190378": 22,
+      "gas:candidate-vibid:1001000261393": 13,
+      "gas:candidate-vibid:1001000193914": 29,
+      "gas:candidate-vibid:1001000195102": 26,
+      "gas:candidate-vibid:1001000225958": 722,
+      "gas:candidate-vibid:350301070604": 76,
+      "gas:candidate-vibid:1001000121869": 193,
+      "special:against-all": 229
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503010005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301070365&region=0&sub_region=0&type=429",
@@ -13728,15 +13728,15 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Головатюк Андрей Михайлович": 25,
-      "Ефремов Сергей Александрович": 12,
-      "Мишин Юрий Васильевич": 6,
-      "Николаев Александр Юрьевич": 42,
-      "Пчелинцев Анатолий Александрович": 13,
-      "Саблин Дмитрий Вадимович": 784,
-      "Савицкая Светлана Васильевна": 49,
-      "Савицкая Светлана Евгеньевна": 188,
-      "Против всех": 209
+      "gas:candidate-vibid:1001000136080": 25,
+      "gas:candidate-vibid:1001000190378": 12,
+      "gas:candidate-vibid:1001000261393": 6,
+      "gas:candidate-vibid:1001000193914": 42,
+      "gas:candidate-vibid:1001000195102": 13,
+      "gas:candidate-vibid:1001000225958": 784,
+      "gas:candidate-vibid:350301070604": 49,
+      "gas:candidate-vibid:1001000121869": 188,
+      "special:against-all": 209
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503010005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301070365&region=0&sub_region=0&type=429",
@@ -13786,15 +13786,15 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Головатюк Андрей Михайлович": 46,
-      "Ефремов Сергей Александрович": 24,
-      "Мишин Юрий Васильевич": 14,
-      "Николаев Александр Юрьевич": 31,
-      "Пчелинцев Анатолий Александрович": 26,
-      "Саблин Дмитрий Вадимович": 861,
-      "Савицкая Светлана Васильевна": 52,
-      "Савицкая Светлана Евгеньевна": 137,
-      "Против всех": 273
+      "gas:candidate-vibid:1001000136080": 46,
+      "gas:candidate-vibid:1001000190378": 24,
+      "gas:candidate-vibid:1001000261393": 14,
+      "gas:candidate-vibid:1001000193914": 31,
+      "gas:candidate-vibid:1001000195102": 26,
+      "gas:candidate-vibid:1001000225958": 861,
+      "gas:candidate-vibid:350301070604": 52,
+      "gas:candidate-vibid:1001000121869": 137,
+      "special:against-all": 273
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503010005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301070365&region=0&sub_region=0&type=429",
@@ -13844,15 +13844,15 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Головатюк Андрей Михайлович": 48,
-      "Ефремов Сергей Александрович": 12,
-      "Мишин Юрий Васильевич": 18,
-      "Николаев Александр Юрьевич": 44,
-      "Пчелинцев Анатолий Александрович": 18,
-      "Саблин Дмитрий Вадимович": 705,
-      "Савицкая Светлана Васильевна": 64,
-      "Савицкая Светлана Евгеньевна": 187,
-      "Против всех": 251
+      "gas:candidate-vibid:1001000136080": 48,
+      "gas:candidate-vibid:1001000190378": 12,
+      "gas:candidate-vibid:1001000261393": 18,
+      "gas:candidate-vibid:1001000193914": 44,
+      "gas:candidate-vibid:1001000195102": 18,
+      "gas:candidate-vibid:1001000225958": 705,
+      "gas:candidate-vibid:350301070604": 64,
+      "gas:candidate-vibid:1001000121869": 187,
+      "special:against-all": 251
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503010005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301070365&region=0&sub_region=0&type=429",
@@ -13902,15 +13902,15 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Головатюк Андрей Михайлович": 25,
-      "Ефремов Сергей Александрович": 30,
-      "Мишин Юрий Васильевич": 10,
-      "Николаев Александр Юрьевич": 18,
-      "Пчелинцев Анатолий Александрович": 21,
-      "Саблин Дмитрий Вадимович": 750,
-      "Савицкая Светлана Васильевна": 44,
-      "Савицкая Светлана Евгеньевна": 186,
-      "Против всех": 235
+      "gas:candidate-vibid:1001000136080": 25,
+      "gas:candidate-vibid:1001000190378": 30,
+      "gas:candidate-vibid:1001000261393": 10,
+      "gas:candidate-vibid:1001000193914": 18,
+      "gas:candidate-vibid:1001000195102": 21,
+      "gas:candidate-vibid:1001000225958": 750,
+      "gas:candidate-vibid:350301070604": 44,
+      "gas:candidate-vibid:1001000121869": 186,
+      "special:against-all": 235
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503010005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301070365&region=0&sub_region=0&type=429",
@@ -13960,15 +13960,15 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Головатюк Андрей Михайлович": 29,
-      "Ефремов Сергей Александрович": 13,
-      "Мишин Юрий Васильевич": 7,
-      "Николаев Александр Юрьевич": 28,
-      "Пчелинцев Анатолий Александрович": 6,
-      "Саблин Дмитрий Вадимович": 643,
-      "Савицкая Светлана Васильевна": 57,
-      "Савицкая Светлана Евгеньевна": 200,
-      "Против всех": 176
+      "gas:candidate-vibid:1001000136080": 29,
+      "gas:candidate-vibid:1001000190378": 13,
+      "gas:candidate-vibid:1001000261393": 7,
+      "gas:candidate-vibid:1001000193914": 28,
+      "gas:candidate-vibid:1001000195102": 6,
+      "gas:candidate-vibid:1001000225958": 643,
+      "gas:candidate-vibid:350301070604": 57,
+      "gas:candidate-vibid:1001000121869": 200,
+      "special:against-all": 176
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503010005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301070365&region=0&sub_region=0&type=429",
@@ -14018,15 +14018,15 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Головатюк Андрей Михайлович": 39,
-      "Ефремов Сергей Александрович": 15,
-      "Мишин Юрий Васильевич": 20,
-      "Николаев Александр Юрьевич": 29,
-      "Пчелинцев Анатолий Александрович": 17,
-      "Саблин Дмитрий Вадимович": 655,
-      "Савицкая Светлана Васильевна": 60,
-      "Савицкая Светлана Евгеньевна": 195,
-      "Против всех": 219
+      "gas:candidate-vibid:1001000136080": 39,
+      "gas:candidate-vibid:1001000190378": 15,
+      "gas:candidate-vibid:1001000261393": 20,
+      "gas:candidate-vibid:1001000193914": 29,
+      "gas:candidate-vibid:1001000195102": 17,
+      "gas:candidate-vibid:1001000225958": 655,
+      "gas:candidate-vibid:350301070604": 60,
+      "gas:candidate-vibid:1001000121869": 195,
+      "special:against-all": 219
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503010005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301070365&region=0&sub_region=0&type=429",
@@ -14076,15 +14076,15 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Головатюк Андрей Михайлович": 32,
-      "Ефремов Сергей Александрович": 17,
-      "Мишин Юрий Васильевич": 9,
-      "Николаев Александр Юрьевич": 31,
-      "Пчелинцев Анатолий Александрович": 13,
-      "Саблин Дмитрий Вадимович": 772,
-      "Савицкая Светлана Васильевна": 51,
-      "Савицкая Светлана Евгеньевна": 157,
-      "Против всех": 177
+      "gas:candidate-vibid:1001000136080": 32,
+      "gas:candidate-vibid:1001000190378": 17,
+      "gas:candidate-vibid:1001000261393": 9,
+      "gas:candidate-vibid:1001000193914": 31,
+      "gas:candidate-vibid:1001000195102": 13,
+      "gas:candidate-vibid:1001000225958": 772,
+      "gas:candidate-vibid:350301070604": 51,
+      "gas:candidate-vibid:1001000121869": 157,
+      "special:against-all": 177
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503010005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301070365&region=0&sub_region=0&type=429",
@@ -14134,15 +14134,15 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Головатюк Андрей Михайлович": 32,
-      "Ефремов Сергей Александрович": 8,
-      "Мишин Юрий Васильевич": 8,
-      "Николаев Александр Юрьевич": 25,
-      "Пчелинцев Анатолий Александрович": 14,
-      "Саблин Дмитрий Вадимович": 786,
-      "Савицкая Светлана Васильевна": 48,
-      "Савицкая Светлана Евгеньевна": 143,
-      "Против всех": 184
+      "gas:candidate-vibid:1001000136080": 32,
+      "gas:candidate-vibid:1001000190378": 8,
+      "gas:candidate-vibid:1001000261393": 8,
+      "gas:candidate-vibid:1001000193914": 25,
+      "gas:candidate-vibid:1001000195102": 14,
+      "gas:candidate-vibid:1001000225958": 786,
+      "gas:candidate-vibid:350301070604": 48,
+      "gas:candidate-vibid:1001000121869": 143,
+      "special:against-all": 184
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503010005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301070365&region=0&sub_region=0&type=429",
@@ -14192,15 +14192,15 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Головатюк Андрей Михайлович": 25,
-      "Ефремов Сергей Александрович": 8,
-      "Мишин Юрий Васильевич": 4,
-      "Николаев Александр Юрьевич": 29,
-      "Пчелинцев Анатолий Александрович": 20,
-      "Саблин Дмитрий Вадимович": 769,
-      "Савицкая Светлана Васильевна": 44,
-      "Савицкая Светлана Евгеньевна": 153,
-      "Против всех": 246
+      "gas:candidate-vibid:1001000136080": 25,
+      "gas:candidate-vibid:1001000190378": 8,
+      "gas:candidate-vibid:1001000261393": 4,
+      "gas:candidate-vibid:1001000193914": 29,
+      "gas:candidate-vibid:1001000195102": 20,
+      "gas:candidate-vibid:1001000225958": 769,
+      "gas:candidate-vibid:350301070604": 44,
+      "gas:candidate-vibid:1001000121869": 153,
+      "special:against-all": 246
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503010005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301070365&region=0&sub_region=0&type=429",
@@ -14250,15 +14250,15 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Головатюк Андрей Михайлович": 27,
-      "Ефремов Сергей Александрович": 9,
-      "Мишин Юрий Васильевич": 9,
-      "Николаев Александр Юрьевич": 28,
-      "Пчелинцев Анатолий Александрович": 17,
-      "Саблин Дмитрий Вадимович": 810,
-      "Савицкая Светлана Васильевна": 61,
-      "Савицкая Светлана Евгеньевна": 154,
-      "Против всех": 183
+      "gas:candidate-vibid:1001000136080": 27,
+      "gas:candidate-vibid:1001000190378": 9,
+      "gas:candidate-vibid:1001000261393": 9,
+      "gas:candidate-vibid:1001000193914": 28,
+      "gas:candidate-vibid:1001000195102": 17,
+      "gas:candidate-vibid:1001000225958": 810,
+      "gas:candidate-vibid:350301070604": 61,
+      "gas:candidate-vibid:1001000121869": 154,
+      "special:against-all": 183
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503010005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301070365&region=0&sub_region=0&type=429",
@@ -14308,15 +14308,15 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Головатюк Андрей Михайлович": 24,
-      "Ефремов Сергей Александрович": 11,
-      "Мишин Юрий Васильевич": 8,
-      "Николаев Александр Юрьевич": 31,
-      "Пчелинцев Анатолий Александрович": 17,
-      "Саблин Дмитрий Вадимович": 729,
-      "Савицкая Светлана Васильевна": 60,
-      "Савицкая Светлана Евгеньевна": 167,
-      "Против всех": 158
+      "gas:candidate-vibid:1001000136080": 24,
+      "gas:candidate-vibid:1001000190378": 11,
+      "gas:candidate-vibid:1001000261393": 8,
+      "gas:candidate-vibid:1001000193914": 31,
+      "gas:candidate-vibid:1001000195102": 17,
+      "gas:candidate-vibid:1001000225958": 729,
+      "gas:candidate-vibid:350301070604": 60,
+      "gas:candidate-vibid:1001000121869": 167,
+      "special:against-all": 158
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503010005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301070365&region=0&sub_region=0&type=429",
@@ -14366,15 +14366,15 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Головатюк Андрей Михайлович": 34,
-      "Ефремов Сергей Александрович": 13,
-      "Мишин Юрий Васильевич": 6,
-      "Николаев Александр Юрьевич": 34,
-      "Пчелинцев Анатолий Александрович": 17,
-      "Саблин Дмитрий Вадимович": 673,
-      "Савицкая Светлана Васильевна": 53,
-      "Савицкая Светлана Евгеньевна": 136,
-      "Против всех": 174
+      "gas:candidate-vibid:1001000136080": 34,
+      "gas:candidate-vibid:1001000190378": 13,
+      "gas:candidate-vibid:1001000261393": 6,
+      "gas:candidate-vibid:1001000193914": 34,
+      "gas:candidate-vibid:1001000195102": 17,
+      "gas:candidate-vibid:1001000225958": 673,
+      "gas:candidate-vibid:350301070604": 53,
+      "gas:candidate-vibid:1001000121869": 136,
+      "special:against-all": 174
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503010005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301070365&region=0&sub_region=0&type=429",
@@ -14424,15 +14424,15 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Головатюк Андрей Михайлович": 24,
-      "Ефремов Сергей Александрович": 13,
-      "Мишин Юрий Васильевич": 2,
-      "Николаев Александр Юрьевич": 24,
-      "Пчелинцев Анатолий Александрович": 8,
-      "Саблин Дмитрий Вадимович": 816,
-      "Савицкая Светлана Васильевна": 31,
-      "Савицкая Светлана Евгеньевна": 144,
-      "Против всех": 187
+      "gas:candidate-vibid:1001000136080": 24,
+      "gas:candidate-vibid:1001000190378": 13,
+      "gas:candidate-vibid:1001000261393": 2,
+      "gas:candidate-vibid:1001000193914": 24,
+      "gas:candidate-vibid:1001000195102": 8,
+      "gas:candidate-vibid:1001000225958": 816,
+      "gas:candidate-vibid:350301070604": 31,
+      "gas:candidate-vibid:1001000121869": 144,
+      "special:against-all": 187
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503010005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301070365&region=0&sub_region=0&type=429",
@@ -14482,15 +14482,15 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Головатюк Андрей Михайлович": 20,
-      "Ефремов Сергей Александрович": 17,
-      "Мишин Юрий Васильевич": 7,
-      "Николаев Александр Юрьевич": 32,
-      "Пчелинцев Анатолий Александрович": 8,
-      "Саблин Дмитрий Вадимович": 735,
-      "Савицкая Светлана Васильевна": 44,
-      "Савицкая Светлана Евгеньевна": 136,
-      "Против всех": 157
+      "gas:candidate-vibid:1001000136080": 20,
+      "gas:candidate-vibid:1001000190378": 17,
+      "gas:candidate-vibid:1001000261393": 7,
+      "gas:candidate-vibid:1001000193914": 32,
+      "gas:candidate-vibid:1001000195102": 8,
+      "gas:candidate-vibid:1001000225958": 735,
+      "gas:candidate-vibid:350301070604": 44,
+      "gas:candidate-vibid:1001000121869": 136,
+      "special:against-all": 157
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503010005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301070365&region=0&sub_region=0&type=429",
@@ -14540,15 +14540,15 @@ export const duma_2003_uik_428_region_50_part_012 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Головатюк Андрей Михайлович": 26,
-      "Ефремов Сергей Александрович": 15,
-      "Мишин Юрий Васильевич": 11,
-      "Николаев Александр Юрьевич": 23,
-      "Пчелинцев Анатолий Александрович": 21,
-      "Саблин Дмитрий Вадимович": 713,
-      "Савицкая Светлана Васильевна": 44,
-      "Савицкая Светлана Евгеньевна": 113,
-      "Против всех": 125
+      "gas:candidate-vibid:1001000136080": 26,
+      "gas:candidate-vibid:1001000190378": 15,
+      "gas:candidate-vibid:1001000261393": 11,
+      "gas:candidate-vibid:1001000193914": 23,
+      "gas:candidate-vibid:1001000195102": 21,
+      "gas:candidate-vibid:1001000225958": 713,
+      "gas:candidate-vibid:350301070604": 44,
+      "gas:candidate-vibid:1001000121869": 113,
+      "special:against-all": 125
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503010005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301070365&region=0&sub_region=0&type=429",

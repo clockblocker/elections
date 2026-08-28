@@ -42,15 +42,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 9,
-      "Логинов Евгений Юрьевич": 14,
-      "Новая Татьяна Анатольевна": 6,
-      "Рудницкий Александр Львович": 2,
-      "Сиганов Сергей Евгеньевич": 0,
-      "Терновых Егор Николаевич": 0,
-      "Швец Любовь Никитична": 57,
-      "Шимкив Андрей Иванович": 81,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000190389": 9,
+      "gas:candidate-vibid:1001000136092": 14,
+      "gas:candidate-vibid:354300466922": 6,
+      "gas:candidate-vibid:1001000112237": 2,
+      "gas:candidate-vibid:1001000195115": 0,
+      "gas:candidate-vibid:1001000212562": 0,
+      "gas:candidate-vibid:1001000121882": 57,
+      "gas:candidate-vibid:354300466838": 81,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467267&region=0&sub_region=0&type=429",
@@ -100,15 +100,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 9,
-      "Логинов Евгений Юрьевич": 19,
-      "Новая Татьяна Анатольевна": 6,
-      "Рудницкий Александр Львович": 0,
-      "Сиганов Сергей Евгеньевич": 1,
-      "Терновых Егор Николаевич": 3,
-      "Швец Любовь Никитична": 54,
-      "Шимкив Андрей Иванович": 244,
-      "Против всех": 35
+      "gas:candidate-vibid:1001000190389": 9,
+      "gas:candidate-vibid:1001000136092": 19,
+      "gas:candidate-vibid:354300466922": 6,
+      "gas:candidate-vibid:1001000112237": 0,
+      "gas:candidate-vibid:1001000195115": 1,
+      "gas:candidate-vibid:1001000212562": 3,
+      "gas:candidate-vibid:1001000121882": 54,
+      "gas:candidate-vibid:354300466838": 244,
+      "special:against-all": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467267&region=0&sub_region=0&type=429",
@@ -158,15 +158,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 1,
-      "Логинов Евгений Юрьевич": 5,
-      "Новая Татьяна Анатольевна": 1,
-      "Рудницкий Александр Львович": 1,
-      "Сиганов Сергей Евгеньевич": 2,
-      "Терновых Егор Николаевич": 0,
-      "Швец Любовь Никитична": 26,
-      "Шимкив Андрей Иванович": 40,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000190389": 1,
+      "gas:candidate-vibid:1001000136092": 5,
+      "gas:candidate-vibid:354300466922": 1,
+      "gas:candidate-vibid:1001000112237": 1,
+      "gas:candidate-vibid:1001000195115": 2,
+      "gas:candidate-vibid:1001000212562": 0,
+      "gas:candidate-vibid:1001000121882": 26,
+      "gas:candidate-vibid:354300466838": 40,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467267&region=0&sub_region=0&type=429",
@@ -216,15 +216,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 14,
-      "Логинов Евгений Юрьевич": 45,
-      "Новая Татьяна Анатольевна": 8,
-      "Рудницкий Александр Львович": 2,
-      "Сиганов Сергей Евгеньевич": 0,
-      "Терновых Егор Николаевич": 5,
-      "Швец Любовь Никитична": 69,
-      "Шимкив Андрей Иванович": 174,
-      "Против всех": 36
+      "gas:candidate-vibid:1001000190389": 14,
+      "gas:candidate-vibid:1001000136092": 45,
+      "gas:candidate-vibid:354300466922": 8,
+      "gas:candidate-vibid:1001000112237": 2,
+      "gas:candidate-vibid:1001000195115": 0,
+      "gas:candidate-vibid:1001000212562": 5,
+      "gas:candidate-vibid:1001000121882": 69,
+      "gas:candidate-vibid:354300466838": 174,
+      "special:against-all": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467267&region=0&sub_region=0&type=429",
@@ -274,15 +274,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 4,
-      "Логинов Евгений Юрьевич": 21,
-      "Новая Татьяна Анатольевна": 4,
-      "Рудницкий Александр Львович": 2,
-      "Сиганов Сергей Евгеньевич": 1,
-      "Терновых Егор Николаевич": 1,
-      "Швец Любовь Никитична": 13,
-      "Шимкив Андрей Иванович": 78,
-      "Против всех": 29
+      "gas:candidate-vibid:1001000190389": 4,
+      "gas:candidate-vibid:1001000136092": 21,
+      "gas:candidate-vibid:354300466922": 4,
+      "gas:candidate-vibid:1001000112237": 2,
+      "gas:candidate-vibid:1001000195115": 1,
+      "gas:candidate-vibid:1001000212562": 1,
+      "gas:candidate-vibid:1001000121882": 13,
+      "gas:candidate-vibid:354300466838": 78,
+      "special:against-all": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467267&region=0&sub_region=0&type=429",
@@ -332,15 +332,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 7,
-      "Логинов Евгений Юрьевич": 38,
-      "Новая Татьяна Анатольевна": 9,
-      "Рудницкий Александр Львович": 2,
-      "Сиганов Сергей Евгеньевич": 0,
-      "Терновых Егор Николаевич": 0,
-      "Швец Любовь Никитична": 64,
-      "Шимкив Андрей Иванович": 146,
-      "Против всех": 25
+      "gas:candidate-vibid:1001000190389": 7,
+      "gas:candidate-vibid:1001000136092": 38,
+      "gas:candidate-vibid:354300466922": 9,
+      "gas:candidate-vibid:1001000112237": 2,
+      "gas:candidate-vibid:1001000195115": 0,
+      "gas:candidate-vibid:1001000212562": 0,
+      "gas:candidate-vibid:1001000121882": 64,
+      "gas:candidate-vibid:354300466838": 146,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467267&region=0&sub_region=0&type=429",
@@ -390,15 +390,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 5,
-      "Логинов Евгений Юрьевич": 2,
-      "Новая Татьяна Анатольевна": 2,
-      "Рудницкий Александр Львович": 0,
-      "Сиганов Сергей Евгеньевич": 2,
-      "Терновых Егор Николаевич": 1,
-      "Швец Любовь Никитична": 11,
-      "Шимкив Андрей Иванович": 62,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000190389": 5,
+      "gas:candidate-vibid:1001000136092": 2,
+      "gas:candidate-vibid:354300466922": 2,
+      "gas:candidate-vibid:1001000112237": 0,
+      "gas:candidate-vibid:1001000195115": 2,
+      "gas:candidate-vibid:1001000212562": 1,
+      "gas:candidate-vibid:1001000121882": 11,
+      "gas:candidate-vibid:354300466838": 62,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467267&region=0&sub_region=0&type=429",
@@ -448,15 +448,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 63,
-      "Логинов Евгений Юрьевич": 22,
-      "Новая Татьяна Анатольевна": 1,
-      "Рудницкий Александр Львович": 4,
-      "Сиганов Сергей Евгеньевич": 3,
-      "Терновых Егор Николаевич": 0,
-      "Швец Любовь Никитична": 61,
-      "Шимкив Андрей Иванович": 204,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000190389": 63,
+      "gas:candidate-vibid:1001000136092": 22,
+      "gas:candidate-vibid:354300466922": 1,
+      "gas:candidate-vibid:1001000112237": 4,
+      "gas:candidate-vibid:1001000195115": 3,
+      "gas:candidate-vibid:1001000212562": 0,
+      "gas:candidate-vibid:1001000121882": 61,
+      "gas:candidate-vibid:354300466838": 204,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467267&region=0&sub_region=0&type=429",
@@ -506,15 +506,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 2,
-      "Логинов Евгений Юрьевич": 2,
-      "Новая Татьяна Анатольевна": 0,
-      "Рудницкий Александр Львович": 0,
-      "Сиганов Сергей Евгеньевич": 1,
-      "Терновых Егор Николаевич": 0,
-      "Швец Любовь Никитична": 12,
-      "Шимкив Андрей Иванович": 64,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190389": 2,
+      "gas:candidate-vibid:1001000136092": 2,
+      "gas:candidate-vibid:354300466922": 0,
+      "gas:candidate-vibid:1001000112237": 0,
+      "gas:candidate-vibid:1001000195115": 1,
+      "gas:candidate-vibid:1001000212562": 0,
+      "gas:candidate-vibid:1001000121882": 12,
+      "gas:candidate-vibid:354300466838": 64,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467267&region=0&sub_region=0&type=429",
@@ -564,15 +564,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 1,
-      "Логинов Евгений Юрьевич": 18,
-      "Новая Татьяна Анатольевна": 0,
-      "Рудницкий Александр Львович": 1,
-      "Сиганов Сергей Евгеньевич": 0,
-      "Терновых Егор Николаевич": 2,
-      "Швец Любовь Никитична": 4,
-      "Шимкив Андрей Иванович": 43,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000190389": 1,
+      "gas:candidate-vibid:1001000136092": 18,
+      "gas:candidate-vibid:354300466922": 0,
+      "gas:candidate-vibid:1001000112237": 1,
+      "gas:candidate-vibid:1001000195115": 0,
+      "gas:candidate-vibid:1001000212562": 2,
+      "gas:candidate-vibid:1001000121882": 4,
+      "gas:candidate-vibid:354300466838": 43,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467267&region=0&sub_region=0&type=429",
@@ -622,15 +622,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 1,
-      "Логинов Евгений Юрьевич": 4,
-      "Новая Татьяна Анатольевна": 0,
-      "Рудницкий Александр Львович": 0,
-      "Сиганов Сергей Евгеньевич": 4,
-      "Терновых Егор Николаевич": 0,
-      "Швец Любовь Никитична": 19,
-      "Шимкив Андрей Иванович": 47,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000190389": 1,
+      "gas:candidate-vibid:1001000136092": 4,
+      "gas:candidate-vibid:354300466922": 0,
+      "gas:candidate-vibid:1001000112237": 0,
+      "gas:candidate-vibid:1001000195115": 4,
+      "gas:candidate-vibid:1001000212562": 0,
+      "gas:candidate-vibid:1001000121882": 19,
+      "gas:candidate-vibid:354300466838": 47,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467267&region=0&sub_region=0&type=429",
@@ -680,15 +680,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 3,
-      "Логинов Евгений Юрьевич": 24,
-      "Новая Татьяна Анатольевна": 6,
-      "Рудницкий Александр Львович": 4,
-      "Сиганов Сергей Евгеньевич": 0,
-      "Терновых Егор Николаевич": 0,
-      "Швец Любовь Никитична": 34,
-      "Шимкив Андрей Иванович": 122,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000190389": 3,
+      "gas:candidate-vibid:1001000136092": 24,
+      "gas:candidate-vibid:354300466922": 6,
+      "gas:candidate-vibid:1001000112237": 4,
+      "gas:candidate-vibid:1001000195115": 0,
+      "gas:candidate-vibid:1001000212562": 0,
+      "gas:candidate-vibid:1001000121882": 34,
+      "gas:candidate-vibid:354300466838": 122,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467267&region=0&sub_region=0&type=429",
@@ -738,15 +738,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 10,
-      "Логинов Евгений Юрьевич": 34,
-      "Новая Татьяна Анатольевна": 6,
-      "Рудницкий Александр Львович": 1,
-      "Сиганов Сергей Евгеньевич": 1,
-      "Терновых Егор Николаевич": 2,
-      "Швец Любовь Никитична": 54,
-      "Шимкив Андрей Иванович": 135,
-      "Против всех": 33
+      "gas:candidate-vibid:1001000190389": 10,
+      "gas:candidate-vibid:1001000136092": 34,
+      "gas:candidate-vibid:354300466922": 6,
+      "gas:candidate-vibid:1001000112237": 1,
+      "gas:candidate-vibid:1001000195115": 1,
+      "gas:candidate-vibid:1001000212562": 2,
+      "gas:candidate-vibid:1001000121882": 54,
+      "gas:candidate-vibid:354300466838": 135,
+      "special:against-all": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467267&region=0&sub_region=0&type=429",
@@ -796,15 +796,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 2,
-      "Логинов Евгений Юрьевич": 1,
-      "Новая Татьяна Анатольевна": 1,
-      "Рудницкий Александр Львович": 4,
-      "Сиганов Сергей Евгеньевич": 1,
-      "Терновых Егор Николаевич": 2,
-      "Швец Любовь Никитична": 27,
-      "Шимкив Андрей Иванович": 53,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000190389": 2,
+      "gas:candidate-vibid:1001000136092": 1,
+      "gas:candidate-vibid:354300466922": 1,
+      "gas:candidate-vibid:1001000112237": 4,
+      "gas:candidate-vibid:1001000195115": 1,
+      "gas:candidate-vibid:1001000212562": 2,
+      "gas:candidate-vibid:1001000121882": 27,
+      "gas:candidate-vibid:354300466838": 53,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467267&region=0&sub_region=0&type=429",
@@ -854,15 +854,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 52,
-      "Логинов Евгений Юрьевич": 19,
-      "Новая Татьяна Анатольевна": 7,
-      "Рудницкий Александр Львович": 11,
-      "Сиганов Сергей Евгеньевич": 1,
-      "Терновых Егор Николаевич": 2,
-      "Швец Любовь Никитична": 42,
-      "Шимкив Андрей Иванович": 143,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000190389": 52,
+      "gas:candidate-vibid:1001000136092": 19,
+      "gas:candidate-vibid:354300466922": 7,
+      "gas:candidate-vibid:1001000112237": 11,
+      "gas:candidate-vibid:1001000195115": 1,
+      "gas:candidate-vibid:1001000212562": 2,
+      "gas:candidate-vibid:1001000121882": 42,
+      "gas:candidate-vibid:354300466838": 143,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467267&region=0&sub_region=0&type=429",
@@ -912,15 +912,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 0,
-      "Логинов Евгений Юрьевич": 4,
-      "Новая Татьяна Анатольевна": 0,
-      "Рудницкий Александр Львович": 0,
-      "Сиганов Сергей Евгеньевич": 0,
-      "Терновых Егор Николаевич": 1,
-      "Швец Любовь Никитична": 2,
-      "Шимкив Андрей Иванович": 56,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000190389": 0,
+      "gas:candidate-vibid:1001000136092": 4,
+      "gas:candidate-vibid:354300466922": 0,
+      "gas:candidate-vibid:1001000112237": 0,
+      "gas:candidate-vibid:1001000195115": 0,
+      "gas:candidate-vibid:1001000212562": 1,
+      "gas:candidate-vibid:1001000121882": 2,
+      "gas:candidate-vibid:354300466838": 56,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467267&region=0&sub_region=0&type=429",
@@ -970,15 +970,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 13,
-      "Логинов Евгений Юрьевич": 26,
-      "Новая Татьяна Анатольевна": 3,
-      "Рудницкий Александр Львович": 2,
-      "Сиганов Сергей Евгеньевич": 2,
-      "Терновых Егор Николаевич": 1,
-      "Швец Любовь Никитична": 75,
-      "Шимкив Андрей Иванович": 124,
-      "Против всех": 32
+      "gas:candidate-vibid:1001000190389": 13,
+      "gas:candidate-vibid:1001000136092": 26,
+      "gas:candidate-vibid:354300466922": 3,
+      "gas:candidate-vibid:1001000112237": 2,
+      "gas:candidate-vibid:1001000195115": 2,
+      "gas:candidate-vibid:1001000212562": 1,
+      "gas:candidate-vibid:1001000121882": 75,
+      "gas:candidate-vibid:354300466838": 124,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467267&region=0&sub_region=0&type=429",
@@ -1028,15 +1028,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 18,
-      "Логинов Евгений Юрьевич": 18,
-      "Новая Татьяна Анатольевна": 12,
-      "Рудницкий Александр Львович": 8,
-      "Сиганов Сергей Евгеньевич": 5,
-      "Терновых Егор Николаевич": 5,
-      "Швец Любовь Никитична": 66,
-      "Шимкив Андрей Иванович": 217,
-      "Против всех": 27
+      "gas:candidate-vibid:1001000190389": 18,
+      "gas:candidate-vibid:1001000136092": 18,
+      "gas:candidate-vibid:354300466922": 12,
+      "gas:candidate-vibid:1001000112237": 8,
+      "gas:candidate-vibid:1001000195115": 5,
+      "gas:candidate-vibid:1001000212562": 5,
+      "gas:candidate-vibid:1001000121882": 66,
+      "gas:candidate-vibid:354300466838": 217,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467267&region=0&sub_region=0&type=429",
@@ -1086,15 +1086,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 1,
-      "Логинов Евгений Юрьевич": 6,
-      "Новая Татьяна Анатольевна": 2,
-      "Рудницкий Александр Львович": 1,
-      "Сиганов Сергей Евгеньевич": 2,
-      "Терновых Егор Николаевич": 0,
-      "Швец Любовь Никитична": 5,
-      "Шимкив Андрей Иванович": 92,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000190389": 1,
+      "gas:candidate-vibid:1001000136092": 6,
+      "gas:candidate-vibid:354300466922": 2,
+      "gas:candidate-vibid:1001000112237": 1,
+      "gas:candidate-vibid:1001000195115": 2,
+      "gas:candidate-vibid:1001000212562": 0,
+      "gas:candidate-vibid:1001000121882": 5,
+      "gas:candidate-vibid:354300466838": 92,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467267&region=0&sub_region=0&type=429",
@@ -1144,15 +1144,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 17,
-      "Логинов Евгений Юрьевич": 27,
-      "Новая Татьяна Анатольевна": 10,
-      "Рудницкий Александр Львович": 5,
-      "Сиганов Сергей Евгеньевич": 1,
-      "Терновых Егор Николаевич": 6,
-      "Швец Любовь Никитична": 31,
-      "Шимкив Андрей Иванович": 149,
-      "Против всех": 30
+      "gas:candidate-vibid:1001000190389": 17,
+      "gas:candidate-vibid:1001000136092": 27,
+      "gas:candidate-vibid:354300466922": 10,
+      "gas:candidate-vibid:1001000112237": 5,
+      "gas:candidate-vibid:1001000195115": 1,
+      "gas:candidate-vibid:1001000212562": 6,
+      "gas:candidate-vibid:1001000121882": 31,
+      "gas:candidate-vibid:354300466838": 149,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467267&region=0&sub_region=0&type=429",
@@ -1202,15 +1202,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 11,
-      "Логинов Евгений Юрьевич": 24,
-      "Новая Татьяна Анатольевна": 5,
-      "Рудницкий Александр Львович": 2,
-      "Сиганов Сергей Евгеньевич": 3,
-      "Терновых Егор Николаевич": 2,
-      "Швец Любовь Никитична": 92,
-      "Шимкив Андрей Иванович": 207,
-      "Против всех": 51
+      "gas:candidate-vibid:1001000190389": 11,
+      "gas:candidate-vibid:1001000136092": 24,
+      "gas:candidate-vibid:354300466922": 5,
+      "gas:candidate-vibid:1001000112237": 2,
+      "gas:candidate-vibid:1001000195115": 3,
+      "gas:candidate-vibid:1001000212562": 2,
+      "gas:candidate-vibid:1001000121882": 92,
+      "gas:candidate-vibid:354300466838": 207,
+      "special:against-all": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467267&region=0&sub_region=0&type=429",
@@ -1260,15 +1260,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 0,
-      "Логинов Евгений Юрьевич": 10,
-      "Новая Татьяна Анатольевна": 2,
-      "Рудницкий Александр Львович": 0,
-      "Сиганов Сергей Евгеньевич": 2,
-      "Терновых Егор Николаевич": 0,
-      "Швец Любовь Никитична": 15,
-      "Шимкив Андрей Иванович": 59,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000190389": 0,
+      "gas:candidate-vibid:1001000136092": 10,
+      "gas:candidate-vibid:354300466922": 2,
+      "gas:candidate-vibid:1001000112237": 0,
+      "gas:candidate-vibid:1001000195115": 2,
+      "gas:candidate-vibid:1001000212562": 0,
+      "gas:candidate-vibid:1001000121882": 15,
+      "gas:candidate-vibid:354300466838": 59,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467267&region=0&sub_region=0&type=429",
@@ -1318,15 +1318,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 117,
-      "Логинов Евгений Юрьевич": 115,
-      "Новая Татьяна Анатольевна": 16,
-      "Рудницкий Александр Львович": 22,
-      "Сиганов Сергей Евгеньевич": 1,
-      "Терновых Егор Николаевич": 8,
-      "Швец Любовь Никитична": 194,
-      "Шимкив Андрей Иванович": 398,
-      "Против всех": 94
+      "gas:candidate-vibid:1001000190389": 117,
+      "gas:candidate-vibid:1001000136092": 115,
+      "gas:candidate-vibid:354300466922": 16,
+      "gas:candidate-vibid:1001000112237": 22,
+      "gas:candidate-vibid:1001000195115": 1,
+      "gas:candidate-vibid:1001000212562": 8,
+      "gas:candidate-vibid:1001000121882": 194,
+      "gas:candidate-vibid:354300466838": 398,
+      "special:against-all": 94
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467267&region=0&sub_region=0&type=429",
@@ -1376,15 +1376,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 113,
-      "Логинов Евгений Юрьевич": 128,
-      "Новая Татьяна Анатольевна": 15,
-      "Рудницкий Александр Львович": 26,
-      "Сиганов Сергей Евгеньевич": 5,
-      "Терновых Егор Николаевич": 13,
-      "Швец Любовь Никитична": 273,
-      "Шимкив Андрей Иванович": 273,
-      "Против всех": 100
+      "gas:candidate-vibid:1001000190389": 113,
+      "gas:candidate-vibid:1001000136092": 128,
+      "gas:candidate-vibid:354300466922": 15,
+      "gas:candidate-vibid:1001000112237": 26,
+      "gas:candidate-vibid:1001000195115": 5,
+      "gas:candidate-vibid:1001000212562": 13,
+      "gas:candidate-vibid:1001000121882": 273,
+      "gas:candidate-vibid:354300466838": 273,
+      "special:against-all": 100
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467267&region=0&sub_region=0&type=429",
@@ -1434,15 +1434,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 49,
-      "Логинов Евгений Юрьевич": 85,
-      "Новая Татьяна Анатольевна": 6,
-      "Рудницкий Александр Львович": 9,
-      "Сиганов Сергей Евгеньевич": 3,
-      "Терновых Егор Николаевич": 12,
-      "Швец Любовь Никитична": 101,
-      "Шимкив Андрей Иванович": 272,
-      "Против всех": 73
+      "gas:candidate-vibid:1001000190389": 49,
+      "gas:candidate-vibid:1001000136092": 85,
+      "gas:candidate-vibid:354300466922": 6,
+      "gas:candidate-vibid:1001000112237": 9,
+      "gas:candidate-vibid:1001000195115": 3,
+      "gas:candidate-vibid:1001000212562": 12,
+      "gas:candidate-vibid:1001000121882": 101,
+      "gas:candidate-vibid:354300466838": 272,
+      "special:against-all": 73
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467267&region=0&sub_region=0&type=429",
@@ -1492,15 +1492,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 87,
-      "Логинов Евгений Юрьевич": 132,
-      "Новая Татьяна Анатольевна": 23,
-      "Рудницкий Александр Львович": 28,
-      "Сиганов Сергей Евгеньевич": 0,
-      "Терновых Егор Николаевич": 12,
-      "Швец Любовь Никитична": 139,
-      "Шимкив Андрей Иванович": 357,
-      "Против всех": 131
+      "gas:candidate-vibid:1001000190389": 87,
+      "gas:candidate-vibid:1001000136092": 132,
+      "gas:candidate-vibid:354300466922": 23,
+      "gas:candidate-vibid:1001000112237": 28,
+      "gas:candidate-vibid:1001000195115": 0,
+      "gas:candidate-vibid:1001000212562": 12,
+      "gas:candidate-vibid:1001000121882": 139,
+      "gas:candidate-vibid:354300466838": 357,
+      "special:against-all": 131
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467267&region=0&sub_region=0&type=429",
@@ -1550,15 +1550,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 52,
-      "Логинов Евгений Юрьевич": 85,
-      "Новая Татьяна Анатольевна": 19,
-      "Рудницкий Александр Львович": 12,
-      "Сиганов Сергей Евгеньевич": 4,
-      "Терновых Егор Николаевич": 5,
-      "Швец Любовь Никитична": 116,
-      "Шимкив Андрей Иванович": 230,
-      "Против всех": 72
+      "gas:candidate-vibid:1001000190389": 52,
+      "gas:candidate-vibid:1001000136092": 85,
+      "gas:candidate-vibid:354300466922": 19,
+      "gas:candidate-vibid:1001000112237": 12,
+      "gas:candidate-vibid:1001000195115": 4,
+      "gas:candidate-vibid:1001000212562": 5,
+      "gas:candidate-vibid:1001000121882": 116,
+      "gas:candidate-vibid:354300466838": 230,
+      "special:against-all": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467267&region=0&sub_region=0&type=429",
@@ -1608,15 +1608,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 44,
-      "Логинов Евгений Юрьевич": 108,
-      "Новая Татьяна Анатольевна": 20,
-      "Рудницкий Александр Львович": 6,
-      "Сиганов Сергей Евгеньевич": 0,
-      "Терновых Егор Николаевич": 10,
-      "Швец Любовь Никитична": 120,
-      "Шимкив Андрей Иванович": 261,
-      "Против всех": 105
+      "gas:candidate-vibid:1001000190389": 44,
+      "gas:candidate-vibid:1001000136092": 108,
+      "gas:candidate-vibid:354300466922": 20,
+      "gas:candidate-vibid:1001000112237": 6,
+      "gas:candidate-vibid:1001000195115": 0,
+      "gas:candidate-vibid:1001000212562": 10,
+      "gas:candidate-vibid:1001000121882": 120,
+      "gas:candidate-vibid:354300466838": 261,
+      "special:against-all": 105
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467267&region=0&sub_region=0&type=429",
@@ -1666,15 +1666,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 11,
-      "Логинов Евгений Юрьевич": 12,
-      "Новая Татьяна Анатольевна": 9,
-      "Рудницкий Александр Львович": 4,
-      "Сиганов Сергей Евгеньевич": 2,
-      "Терновых Егор Николаевич": 4,
-      "Швец Любовь Никитична": 57,
-      "Шимкив Андрей Иванович": 126,
-      "Против всех": 39
+      "gas:candidate-vibid:1001000190389": 11,
+      "gas:candidate-vibid:1001000136092": 12,
+      "gas:candidate-vibid:354300466922": 9,
+      "gas:candidate-vibid:1001000112237": 4,
+      "gas:candidate-vibid:1001000195115": 2,
+      "gas:candidate-vibid:1001000212562": 4,
+      "gas:candidate-vibid:1001000121882": 57,
+      "gas:candidate-vibid:354300466838": 126,
+      "special:against-all": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467267&region=0&sub_region=0&type=429",
@@ -1724,15 +1724,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 22,
-      "Логинов Евгений Юрьевич": 72,
-      "Новая Татьяна Анатольевна": 6,
-      "Рудницкий Александр Львович": 6,
-      "Сиганов Сергей Евгеньевич": 2,
-      "Терновых Егор Николаевич": 5,
-      "Швец Любовь Никитична": 43,
-      "Шимкив Андрей Иванович": 202,
-      "Против всех": 61
+      "gas:candidate-vibid:1001000190389": 22,
+      "gas:candidate-vibid:1001000136092": 72,
+      "gas:candidate-vibid:354300466922": 6,
+      "gas:candidate-vibid:1001000112237": 6,
+      "gas:candidate-vibid:1001000195115": 2,
+      "gas:candidate-vibid:1001000212562": 5,
+      "gas:candidate-vibid:1001000121882": 43,
+      "gas:candidate-vibid:354300466838": 202,
+      "special:against-all": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467267&region=0&sub_region=0&type=429",
@@ -1782,15 +1782,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 3,
-      "Логинов Евгений Юрьевич": 22,
-      "Новая Татьяна Анатольевна": 3,
-      "Рудницкий Александр Львович": 4,
-      "Сиганов Сергей Евгеньевич": 2,
-      "Терновых Егор Николаевич": 1,
-      "Швец Любовь Никитична": 32,
-      "Шимкив Андрей Иванович": 130,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000190389": 3,
+      "gas:candidate-vibid:1001000136092": 22,
+      "gas:candidate-vibid:354300466922": 3,
+      "gas:candidate-vibid:1001000112237": 4,
+      "gas:candidate-vibid:1001000195115": 2,
+      "gas:candidate-vibid:1001000212562": 1,
+      "gas:candidate-vibid:1001000121882": 32,
+      "gas:candidate-vibid:354300466838": 130,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467267&region=0&sub_region=0&type=429",
@@ -1840,15 +1840,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 52,
-      "Логинов Евгений Юрьевич": 78,
-      "Новая Татьяна Анатольевна": 6,
-      "Рудницкий Александр Львович": 15,
-      "Сиганов Сергей Евгеньевич": 6,
-      "Терновых Егор Николаевич": 9,
-      "Швец Любовь Никитична": 76,
-      "Шимкив Андрей Иванович": 276,
-      "Против всех": 63
+      "gas:candidate-vibid:1001000190389": 52,
+      "gas:candidate-vibid:1001000136092": 78,
+      "gas:candidate-vibid:354300466922": 6,
+      "gas:candidate-vibid:1001000112237": 15,
+      "gas:candidate-vibid:1001000195115": 6,
+      "gas:candidate-vibid:1001000212562": 9,
+      "gas:candidate-vibid:1001000121882": 76,
+      "gas:candidate-vibid:354300466838": 276,
+      "special:against-all": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467267&region=0&sub_region=0&type=429",
@@ -1898,15 +1898,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 73,
-      "Логинов Евгений Юрьевич": 97,
-      "Новая Татьяна Анатольевна": 10,
-      "Рудницкий Александр Львович": 17,
-      "Сиганов Сергей Евгеньевич": 5,
-      "Терновых Егор Николаевич": 9,
-      "Швец Любовь Никитична": 147,
-      "Шимкив Андрей Иванович": 244,
-      "Против всех": 108
+      "gas:candidate-vibid:1001000190389": 73,
+      "gas:candidate-vibid:1001000136092": 97,
+      "gas:candidate-vibid:354300466922": 10,
+      "gas:candidate-vibid:1001000112237": 17,
+      "gas:candidate-vibid:1001000195115": 5,
+      "gas:candidate-vibid:1001000212562": 9,
+      "gas:candidate-vibid:1001000121882": 147,
+      "gas:candidate-vibid:354300466838": 244,
+      "special:against-all": 108
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467267&region=0&sub_region=0&type=429",
@@ -1956,15 +1956,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 43,
-      "Логинов Евгений Юрьевич": 98,
-      "Новая Татьяна Анатольевна": 16,
-      "Рудницкий Александр Львович": 10,
-      "Сиганов Сергей Евгеньевич": 0,
-      "Терновых Егор Николаевич": 9,
-      "Швец Любовь Никитична": 254,
-      "Шимкив Андрей Иванович": 72,
-      "Против всех": 53
+      "gas:candidate-vibid:1001000190389": 43,
+      "gas:candidate-vibid:1001000136092": 98,
+      "gas:candidate-vibid:354300466922": 16,
+      "gas:candidate-vibid:1001000112237": 10,
+      "gas:candidate-vibid:1001000195115": 0,
+      "gas:candidate-vibid:1001000212562": 9,
+      "gas:candidate-vibid:1001000121882": 254,
+      "gas:candidate-vibid:354300466838": 72,
+      "special:against-all": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467269&region=0&sub_region=0&type=429",
@@ -2014,15 +2014,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 21,
-      "Логинов Евгений Юрьевич": 54,
-      "Новая Татьяна Анатольевна": 12,
-      "Рудницкий Александр Львович": 8,
-      "Сиганов Сергей Евгеньевич": 2,
-      "Терновых Егор Николаевич": 12,
-      "Швец Любовь Никитична": 97,
-      "Шимкив Андрей Иванович": 36,
-      "Против всех": 47
+      "gas:candidate-vibid:1001000190389": 21,
+      "gas:candidate-vibid:1001000136092": 54,
+      "gas:candidate-vibid:354300466922": 12,
+      "gas:candidate-vibid:1001000112237": 8,
+      "gas:candidate-vibid:1001000195115": 2,
+      "gas:candidate-vibid:1001000212562": 12,
+      "gas:candidate-vibid:1001000121882": 97,
+      "gas:candidate-vibid:354300466838": 36,
+      "special:against-all": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467269&region=0&sub_region=0&type=429",
@@ -2072,15 +2072,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 70,
-      "Логинов Евгений Юрьевич": 168,
-      "Новая Татьяна Анатольевна": 49,
-      "Рудницкий Александр Львович": 10,
-      "Сиганов Сергей Евгеньевич": 6,
-      "Терновых Егор Николаевич": 20,
-      "Швец Любовь Никитична": 236,
-      "Шимкив Андрей Иванович": 134,
-      "Против всех": 143
+      "gas:candidate-vibid:1001000190389": 70,
+      "gas:candidate-vibid:1001000136092": 168,
+      "gas:candidate-vibid:354300466922": 49,
+      "gas:candidate-vibid:1001000112237": 10,
+      "gas:candidate-vibid:1001000195115": 6,
+      "gas:candidate-vibid:1001000212562": 20,
+      "gas:candidate-vibid:1001000121882": 236,
+      "gas:candidate-vibid:354300466838": 134,
+      "special:against-all": 143
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467269&region=0&sub_region=0&type=429",
@@ -2130,15 +2130,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 67,
-      "Логинов Евгений Юрьевич": 181,
-      "Новая Татьяна Анатольевна": 64,
-      "Рудницкий Александр Львович": 22,
-      "Сиганов Сергей Евгеньевич": 2,
-      "Терновых Егор Николаевич": 23,
-      "Швец Любовь Никитична": 220,
-      "Шимкив Андрей Иванович": 208,
-      "Против всех": 144
+      "gas:candidate-vibid:1001000190389": 67,
+      "gas:candidate-vibid:1001000136092": 181,
+      "gas:candidate-vibid:354300466922": 64,
+      "gas:candidate-vibid:1001000112237": 22,
+      "gas:candidate-vibid:1001000195115": 2,
+      "gas:candidate-vibid:1001000212562": 23,
+      "gas:candidate-vibid:1001000121882": 220,
+      "gas:candidate-vibid:354300466838": 208,
+      "special:against-all": 144
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467269&region=0&sub_region=0&type=429",
@@ -2188,15 +2188,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 131,
-      "Логинов Евгений Юрьевич": 183,
-      "Новая Татьяна Анатольевна": 42,
-      "Рудницкий Александр Львович": 18,
-      "Сиганов Сергей Евгеньевич": 8,
-      "Терновых Егор Николаевич": 32,
-      "Швец Любовь Никитична": 206,
-      "Шимкив Андрей Иванович": 192,
-      "Против всех": 139
+      "gas:candidate-vibid:1001000190389": 131,
+      "gas:candidate-vibid:1001000136092": 183,
+      "gas:candidate-vibid:354300466922": 42,
+      "gas:candidate-vibid:1001000112237": 18,
+      "gas:candidate-vibid:1001000195115": 8,
+      "gas:candidate-vibid:1001000212562": 32,
+      "gas:candidate-vibid:1001000121882": 206,
+      "gas:candidate-vibid:354300466838": 192,
+      "special:against-all": 139
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467269&region=0&sub_region=0&type=429",
@@ -2246,15 +2246,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 197,
-      "Логинов Евгений Юрьевич": 186,
-      "Новая Татьяна Анатольевна": 52,
-      "Рудницкий Александр Львович": 39,
-      "Сиганов Сергей Евгеньевич": 6,
-      "Терновых Егор Николаевич": 27,
-      "Швец Любовь Никитична": 319,
-      "Шимкив Андрей Иванович": 244,
-      "Против всех": 180
+      "gas:candidate-vibid:1001000190389": 197,
+      "gas:candidate-vibid:1001000136092": 186,
+      "gas:candidate-vibid:354300466922": 52,
+      "gas:candidate-vibid:1001000112237": 39,
+      "gas:candidate-vibid:1001000195115": 6,
+      "gas:candidate-vibid:1001000212562": 27,
+      "gas:candidate-vibid:1001000121882": 319,
+      "gas:candidate-vibid:354300466838": 244,
+      "special:against-all": 180
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467269&region=0&sub_region=0&type=429",
@@ -2304,15 +2304,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 118,
-      "Логинов Евгений Юрьевич": 167,
-      "Новая Татьяна Анатольевна": 57,
-      "Рудницкий Александр Львович": 36,
-      "Сиганов Сергей Евгеньевич": 1,
-      "Терновых Егор Николаевич": 18,
-      "Швец Любовь Никитична": 225,
-      "Шимкив Андрей Иванович": 223,
-      "Против всех": 154
+      "gas:candidate-vibid:1001000190389": 118,
+      "gas:candidate-vibid:1001000136092": 167,
+      "gas:candidate-vibid:354300466922": 57,
+      "gas:candidate-vibid:1001000112237": 36,
+      "gas:candidate-vibid:1001000195115": 1,
+      "gas:candidate-vibid:1001000212562": 18,
+      "gas:candidate-vibid:1001000121882": 225,
+      "gas:candidate-vibid:354300466838": 223,
+      "special:against-all": 154
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467269&region=0&sub_region=0&type=429",
@@ -2362,15 +2362,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 70,
-      "Логинов Евгений Юрьевич": 148,
-      "Новая Татьяна Анатольевна": 55,
-      "Рудницкий Александр Львович": 18,
-      "Сиганов Сергей Евгеньевич": 7,
-      "Терновых Егор Николаевич": 20,
-      "Швец Любовь Никитична": 185,
-      "Шимкив Андрей Иванович": 162,
-      "Против всех": 161
+      "gas:candidate-vibid:1001000190389": 70,
+      "gas:candidate-vibid:1001000136092": 148,
+      "gas:candidate-vibid:354300466922": 55,
+      "gas:candidate-vibid:1001000112237": 18,
+      "gas:candidate-vibid:1001000195115": 7,
+      "gas:candidate-vibid:1001000212562": 20,
+      "gas:candidate-vibid:1001000121882": 185,
+      "gas:candidate-vibid:354300466838": 162,
+      "special:against-all": 161
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467269&region=0&sub_region=0&type=429",
@@ -2420,15 +2420,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 84,
-      "Логинов Евгений Юрьевич": 193,
-      "Новая Татьяна Анатольевна": 52,
-      "Рудницкий Александр Львович": 21,
-      "Сиганов Сергей Евгеньевич": 9,
-      "Терновых Егор Николаевич": 28,
-      "Швец Любовь Никитична": 282,
-      "Шимкив Андрей Иванович": 183,
-      "Против всех": 183
+      "gas:candidate-vibid:1001000190389": 84,
+      "gas:candidate-vibid:1001000136092": 193,
+      "gas:candidate-vibid:354300466922": 52,
+      "gas:candidate-vibid:1001000112237": 21,
+      "gas:candidate-vibid:1001000195115": 9,
+      "gas:candidate-vibid:1001000212562": 28,
+      "gas:candidate-vibid:1001000121882": 282,
+      "gas:candidate-vibid:354300466838": 183,
+      "special:against-all": 183
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467269&region=0&sub_region=0&type=429",
@@ -2478,15 +2478,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 90,
-      "Логинов Евгений Юрьевич": 148,
-      "Новая Татьяна Анатольевна": 62,
-      "Рудницкий Александр Львович": 33,
-      "Сиганов Сергей Евгеньевич": 6,
-      "Терновых Егор Николаевич": 42,
-      "Швец Любовь Никитична": 269,
-      "Шимкив Андрей Иванович": 187,
-      "Против всех": 165
+      "gas:candidate-vibid:1001000190389": 90,
+      "gas:candidate-vibid:1001000136092": 148,
+      "gas:candidate-vibid:354300466922": 62,
+      "gas:candidate-vibid:1001000112237": 33,
+      "gas:candidate-vibid:1001000195115": 6,
+      "gas:candidate-vibid:1001000212562": 42,
+      "gas:candidate-vibid:1001000121882": 269,
+      "gas:candidate-vibid:354300466838": 187,
+      "special:against-all": 165
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467269&region=0&sub_region=0&type=429",
@@ -2536,15 +2536,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 85,
-      "Логинов Евгений Юрьевич": 163,
-      "Новая Татьяна Анатольевна": 65,
-      "Рудницкий Александр Львович": 34,
-      "Сиганов Сергей Евгеньевич": 4,
-      "Терновых Егор Николаевич": 27,
-      "Швец Любовь Никитична": 377,
-      "Шимкив Андрей Иванович": 213,
-      "Против всех": 178
+      "gas:candidate-vibid:1001000190389": 85,
+      "gas:candidate-vibid:1001000136092": 163,
+      "gas:candidate-vibid:354300466922": 65,
+      "gas:candidate-vibid:1001000112237": 34,
+      "gas:candidate-vibid:1001000195115": 4,
+      "gas:candidate-vibid:1001000212562": 27,
+      "gas:candidate-vibid:1001000121882": 377,
+      "gas:candidate-vibid:354300466838": 213,
+      "special:against-all": 178
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467269&region=0&sub_region=0&type=429",
@@ -2594,15 +2594,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 78,
-      "Логинов Евгений Юрьевич": 175,
-      "Новая Татьяна Анатольевна": 54,
-      "Рудницкий Александр Львович": 27,
-      "Сиганов Сергей Евгеньевич": 4,
-      "Терновых Егор Николаевич": 32,
-      "Швец Любовь Никитична": 291,
-      "Шимкив Андрей Иванович": 161,
-      "Против всех": 158
+      "gas:candidate-vibid:1001000190389": 78,
+      "gas:candidate-vibid:1001000136092": 175,
+      "gas:candidate-vibid:354300466922": 54,
+      "gas:candidate-vibid:1001000112237": 27,
+      "gas:candidate-vibid:1001000195115": 4,
+      "gas:candidate-vibid:1001000212562": 32,
+      "gas:candidate-vibid:1001000121882": 291,
+      "gas:candidate-vibid:354300466838": 161,
+      "special:against-all": 158
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467269&region=0&sub_region=0&type=429",
@@ -2652,15 +2652,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 21,
-      "Логинов Евгений Юрьевич": 83,
-      "Новая Татьяна Анатольевна": 16,
-      "Рудницкий Александр Львович": 4,
-      "Сиганов Сергей Евгеньевич": 5,
-      "Терновых Егор Николаевич": 17,
-      "Швец Любовь Никитична": 202,
-      "Шимкив Андрей Иванович": 154,
-      "Против всех": 80
+      "gas:candidate-vibid:1001000190389": 21,
+      "gas:candidate-vibid:1001000136092": 83,
+      "gas:candidate-vibid:354300466922": 16,
+      "gas:candidate-vibid:1001000112237": 4,
+      "gas:candidate-vibid:1001000195115": 5,
+      "gas:candidate-vibid:1001000212562": 17,
+      "gas:candidate-vibid:1001000121882": 202,
+      "gas:candidate-vibid:354300466838": 154,
+      "special:against-all": 80
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467269&region=0&sub_region=0&type=429",
@@ -2710,15 +2710,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 27,
-      "Логинов Евгений Юрьевич": 62,
-      "Новая Татьяна Анатольевна": 13,
-      "Рудницкий Александр Львович": 2,
-      "Сиганов Сергей Евгеньевич": 0,
-      "Терновых Егор Николаевич": 5,
-      "Швец Любовь Никитична": 86,
-      "Шимкив Андрей Иванович": 34,
-      "Против всех": 34
+      "gas:candidate-vibid:1001000190389": 27,
+      "gas:candidate-vibid:1001000136092": 62,
+      "gas:candidate-vibid:354300466922": 13,
+      "gas:candidate-vibid:1001000112237": 2,
+      "gas:candidate-vibid:1001000195115": 0,
+      "gas:candidate-vibid:1001000212562": 5,
+      "gas:candidate-vibid:1001000121882": 86,
+      "gas:candidate-vibid:354300466838": 34,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467269&region=0&sub_region=0&type=429",
@@ -2768,15 +2768,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 64,
-      "Логинов Евгений Юрьевич": 163,
-      "Новая Татьяна Анатольевна": 66,
-      "Рудницкий Александр Львович": 39,
-      "Сиганов Сергей Евгеньевич": 6,
-      "Терновых Егор Николаевич": 27,
-      "Швец Любовь Никитична": 238,
-      "Шимкив Андрей Иванович": 232,
-      "Против всех": 183
+      "gas:candidate-vibid:1001000190389": 64,
+      "gas:candidate-vibid:1001000136092": 163,
+      "gas:candidate-vibid:354300466922": 66,
+      "gas:candidate-vibid:1001000112237": 39,
+      "gas:candidate-vibid:1001000195115": 6,
+      "gas:candidate-vibid:1001000212562": 27,
+      "gas:candidate-vibid:1001000121882": 238,
+      "gas:candidate-vibid:354300466838": 232,
+      "special:against-all": 183
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467269&region=0&sub_region=0&type=429",
@@ -2826,15 +2826,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 108,
-      "Логинов Евгений Юрьевич": 134,
-      "Новая Татьяна Анатольевна": 59,
-      "Рудницкий Александр Львович": 24,
-      "Сиганов Сергей Евгеньевич": 2,
-      "Терновых Егор Николаевич": 27,
-      "Швец Любовь Никитична": 218,
-      "Шимкив Андрей Иванович": 171,
-      "Против всех": 139
+      "gas:candidate-vibid:1001000190389": 108,
+      "gas:candidate-vibid:1001000136092": 134,
+      "gas:candidate-vibid:354300466922": 59,
+      "gas:candidate-vibid:1001000112237": 24,
+      "gas:candidate-vibid:1001000195115": 2,
+      "gas:candidate-vibid:1001000212562": 27,
+      "gas:candidate-vibid:1001000121882": 218,
+      "gas:candidate-vibid:354300466838": 171,
+      "special:against-all": 139
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467269&region=0&sub_region=0&type=429",
@@ -2884,15 +2884,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 67,
-      "Логинов Евгений Юрьевич": 144,
-      "Новая Татьяна Анатольевна": 60,
-      "Рудницкий Александр Львович": 30,
-      "Сиганов Сергей Евгеньевич": 6,
-      "Терновых Егор Николаевич": 21,
-      "Швец Любовь Никитична": 201,
-      "Шимкив Андрей Иванович": 221,
-      "Против всех": 166
+      "gas:candidate-vibid:1001000190389": 67,
+      "gas:candidate-vibid:1001000136092": 144,
+      "gas:candidate-vibid:354300466922": 60,
+      "gas:candidate-vibid:1001000112237": 30,
+      "gas:candidate-vibid:1001000195115": 6,
+      "gas:candidate-vibid:1001000212562": 21,
+      "gas:candidate-vibid:1001000121882": 201,
+      "gas:candidate-vibid:354300466838": 221,
+      "special:against-all": 166
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467269&region=0&sub_region=0&type=429",
@@ -2942,15 +2942,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 61,
-      "Логинов Евгений Юрьевич": 171,
-      "Новая Татьяна Анатольевна": 81,
-      "Рудницкий Александр Львович": 33,
-      "Сиганов Сергей Евгеньевич": 4,
-      "Терновых Егор Николаевич": 27,
-      "Швец Любовь Никитична": 217,
-      "Шимкив Андрей Иванович": 164,
-      "Против всех": 183
+      "gas:candidate-vibid:1001000190389": 61,
+      "gas:candidate-vibid:1001000136092": 171,
+      "gas:candidate-vibid:354300466922": 81,
+      "gas:candidate-vibid:1001000112237": 33,
+      "gas:candidate-vibid:1001000195115": 4,
+      "gas:candidate-vibid:1001000212562": 27,
+      "gas:candidate-vibid:1001000121882": 217,
+      "gas:candidate-vibid:354300466838": 164,
+      "special:against-all": 183
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467269&region=0&sub_region=0&type=429",
@@ -3000,15 +3000,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 76,
-      "Логинов Евгений Юрьевич": 129,
-      "Новая Татьяна Анатольевна": 87,
-      "Рудницкий Александр Львович": 39,
-      "Сиганов Сергей Евгеньевич": 8,
-      "Терновых Егор Николаевич": 45,
-      "Швец Любовь Никитична": 243,
-      "Шимкив Андрей Иванович": 235,
-      "Против всех": 175
+      "gas:candidate-vibid:1001000190389": 76,
+      "gas:candidate-vibid:1001000136092": 129,
+      "gas:candidate-vibid:354300466922": 87,
+      "gas:candidate-vibid:1001000112237": 39,
+      "gas:candidate-vibid:1001000195115": 8,
+      "gas:candidate-vibid:1001000212562": 45,
+      "gas:candidate-vibid:1001000121882": 243,
+      "gas:candidate-vibid:354300466838": 235,
+      "special:against-all": 175
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467269&region=0&sub_region=0&type=429",
@@ -3058,15 +3058,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 53,
-      "Логинов Евгений Юрьевич": 166,
-      "Новая Татьяна Анатольевна": 51,
-      "Рудницкий Александр Львович": 30,
-      "Сиганов Сергей Евгеньевич": 8,
-      "Терновых Егор Николаевич": 30,
-      "Швец Любовь Никитична": 213,
-      "Шимкив Андрей Иванович": 179,
-      "Против всех": 124
+      "gas:candidate-vibid:1001000190389": 53,
+      "gas:candidate-vibid:1001000136092": 166,
+      "gas:candidate-vibid:354300466922": 51,
+      "gas:candidate-vibid:1001000112237": 30,
+      "gas:candidate-vibid:1001000195115": 8,
+      "gas:candidate-vibid:1001000212562": 30,
+      "gas:candidate-vibid:1001000121882": 213,
+      "gas:candidate-vibid:354300466838": 179,
+      "special:against-all": 124
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467269&region=0&sub_region=0&type=429",
@@ -3116,15 +3116,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 63,
-      "Логинов Евгений Юрьевич": 135,
-      "Новая Татьяна Анатольевна": 39,
-      "Рудницкий Александр Львович": 19,
-      "Сиганов Сергей Евгеньевич": 1,
-      "Терновых Егор Николаевич": 17,
-      "Швец Любовь Никитична": 244,
-      "Шимкив Андрей Иванович": 203,
-      "Против всех": 159
+      "gas:candidate-vibid:1001000190389": 63,
+      "gas:candidate-vibid:1001000136092": 135,
+      "gas:candidate-vibid:354300466922": 39,
+      "gas:candidate-vibid:1001000112237": 19,
+      "gas:candidate-vibid:1001000195115": 1,
+      "gas:candidate-vibid:1001000212562": 17,
+      "gas:candidate-vibid:1001000121882": 244,
+      "gas:candidate-vibid:354300466838": 203,
+      "special:against-all": 159
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467269&region=0&sub_region=0&type=429",
@@ -3174,15 +3174,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 48,
-      "Логинов Евгений Юрьевич": 144,
-      "Новая Татьяна Анатольевна": 36,
-      "Рудницкий Александр Львович": 31,
-      "Сиганов Сергей Евгеньевич": 2,
-      "Терновых Егор Николаевич": 47,
-      "Швец Любовь Никитична": 247,
-      "Шимкив Андрей Иванович": 136,
-      "Против всех": 121
+      "gas:candidate-vibid:1001000190389": 48,
+      "gas:candidate-vibid:1001000136092": 144,
+      "gas:candidate-vibid:354300466922": 36,
+      "gas:candidate-vibid:1001000112237": 31,
+      "gas:candidate-vibid:1001000195115": 2,
+      "gas:candidate-vibid:1001000212562": 47,
+      "gas:candidate-vibid:1001000121882": 247,
+      "gas:candidate-vibid:354300466838": 136,
+      "special:against-all": 121
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467269&region=0&sub_region=0&type=429",
@@ -3232,15 +3232,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 60,
-      "Логинов Евгений Юрьевич": 150,
-      "Новая Татьяна Анатольевна": 37,
-      "Рудницкий Александр Львович": 24,
-      "Сиганов Сергей Евгеньевич": 3,
-      "Терновых Егор Николаевич": 26,
-      "Швец Любовь Никитична": 227,
-      "Шимкив Андрей Иванович": 198,
-      "Против всех": 130
+      "gas:candidate-vibid:1001000190389": 60,
+      "gas:candidate-vibid:1001000136092": 150,
+      "gas:candidate-vibid:354300466922": 37,
+      "gas:candidate-vibid:1001000112237": 24,
+      "gas:candidate-vibid:1001000195115": 3,
+      "gas:candidate-vibid:1001000212562": 26,
+      "gas:candidate-vibid:1001000121882": 227,
+      "gas:candidate-vibid:354300466838": 198,
+      "special:against-all": 130
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467269&region=0&sub_region=0&type=429",
@@ -3290,15 +3290,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 30,
-      "Логинов Евгений Юрьевич": 134,
-      "Новая Татьяна Анатольевна": 30,
-      "Рудницкий Александр Львович": 16,
-      "Сиганов Сергей Евгеньевич": 3,
-      "Терновых Егор Николаевич": 14,
-      "Швец Любовь Никитична": 218,
-      "Шимкив Андрей Иванович": 145,
-      "Против всех": 94
+      "gas:candidate-vibid:1001000190389": 30,
+      "gas:candidate-vibid:1001000136092": 134,
+      "gas:candidate-vibid:354300466922": 30,
+      "gas:candidate-vibid:1001000112237": 16,
+      "gas:candidate-vibid:1001000195115": 3,
+      "gas:candidate-vibid:1001000212562": 14,
+      "gas:candidate-vibid:1001000121882": 218,
+      "gas:candidate-vibid:354300466838": 145,
+      "special:against-all": 94
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467269&region=0&sub_region=0&type=429",
@@ -3348,15 +3348,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 19,
-      "Логинов Евгений Юрьевич": 61,
-      "Новая Татьяна Анатольевна": 16,
-      "Рудницкий Александр Львович": 7,
-      "Сиганов Сергей Евгеньевич": 0,
-      "Терновых Егор Николаевич": 10,
-      "Швец Любовь Никитична": 117,
-      "Шимкив Андрей Иванович": 35,
-      "Против всех": 36
+      "gas:candidate-vibid:1001000190389": 19,
+      "gas:candidate-vibid:1001000136092": 61,
+      "gas:candidate-vibid:354300466922": 16,
+      "gas:candidate-vibid:1001000112237": 7,
+      "gas:candidate-vibid:1001000195115": 0,
+      "gas:candidate-vibid:1001000212562": 10,
+      "gas:candidate-vibid:1001000121882": 117,
+      "gas:candidate-vibid:354300466838": 35,
+      "special:against-all": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467269&region=0&sub_region=0&type=429",
@@ -3406,15 +3406,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 51,
-      "Логинов Евгений Юрьевич": 111,
-      "Новая Татьяна Анатольевна": 23,
-      "Рудницкий Александр Львович": 6,
-      "Сиганов Сергей Евгеньевич": 6,
-      "Терновых Егор Николаевич": 37,
-      "Швец Любовь Никитична": 148,
-      "Шимкив Андрей Иванович": 82,
-      "Против всех": 81
+      "gas:candidate-vibid:1001000190389": 51,
+      "gas:candidate-vibid:1001000136092": 111,
+      "gas:candidate-vibid:354300466922": 23,
+      "gas:candidate-vibid:1001000112237": 6,
+      "gas:candidate-vibid:1001000195115": 6,
+      "gas:candidate-vibid:1001000212562": 37,
+      "gas:candidate-vibid:1001000121882": 148,
+      "gas:candidate-vibid:354300466838": 82,
+      "special:against-all": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467269&region=0&sub_region=0&type=429",
@@ -3464,15 +3464,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 55,
-      "Логинов Евгений Юрьевич": 149,
-      "Новая Татьяна Анатольевна": 56,
-      "Рудницкий Александр Львович": 18,
-      "Сиганов Сергей Евгеньевич": 2,
-      "Терновых Егор Николаевич": 7,
-      "Швец Любовь Никитична": 347,
-      "Шимкив Андрей Иванович": 178,
-      "Против всех": 136
+      "gas:candidate-vibid:1001000190389": 55,
+      "gas:candidate-vibid:1001000136092": 149,
+      "gas:candidate-vibid:354300466922": 56,
+      "gas:candidate-vibid:1001000112237": 18,
+      "gas:candidate-vibid:1001000195115": 2,
+      "gas:candidate-vibid:1001000212562": 7,
+      "gas:candidate-vibid:1001000121882": 347,
+      "gas:candidate-vibid:354300466838": 178,
+      "special:against-all": 136
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467269&region=0&sub_region=0&type=429",
@@ -3522,15 +3522,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 71,
-      "Логинов Евгений Юрьевич": 117,
-      "Новая Татьяна Анатольевна": 69,
-      "Рудницкий Александр Львович": 16,
-      "Сиганов Сергей Евгеньевич": 4,
-      "Терновых Егор Николаевич": 12,
-      "Швец Любовь Никитична": 257,
-      "Шимкив Андрей Иванович": 172,
-      "Против всех": 172
+      "gas:candidate-vibid:1001000190389": 71,
+      "gas:candidate-vibid:1001000136092": 117,
+      "gas:candidate-vibid:354300466922": 69,
+      "gas:candidate-vibid:1001000112237": 16,
+      "gas:candidate-vibid:1001000195115": 4,
+      "gas:candidate-vibid:1001000212562": 12,
+      "gas:candidate-vibid:1001000121882": 257,
+      "gas:candidate-vibid:354300466838": 172,
+      "special:against-all": 172
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467269&region=0&sub_region=0&type=429",
@@ -3580,15 +3580,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 2,
-      "Логинов Евгений Юрьевич": 14,
-      "Новая Татьяна Анатольевна": 5,
-      "Рудницкий Александр Львович": 1,
-      "Сиганов Сергей Евгеньевич": 1,
-      "Терновых Егор Николаевич": 0,
-      "Швец Любовь Никитична": 23,
-      "Шимкив Андрей Иванович": 117,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000190389": 2,
+      "gas:candidate-vibid:1001000136092": 14,
+      "gas:candidate-vibid:354300466922": 5,
+      "gas:candidate-vibid:1001000112237": 1,
+      "gas:candidate-vibid:1001000195115": 1,
+      "gas:candidate-vibid:1001000212562": 0,
+      "gas:candidate-vibid:1001000121882": 23,
+      "gas:candidate-vibid:354300466838": 117,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467276&region=0&sub_region=0&type=429",
@@ -3638,15 +3638,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 17,
-      "Логинов Евгений Юрьевич": 128,
-      "Новая Татьяна Анатольевна": 21,
-      "Рудницкий Александр Львович": 5,
-      "Сиганов Сергей Евгеньевич": 7,
-      "Терновых Егор Николаевич": 8,
-      "Швец Любовь Никитична": 331,
-      "Шимкив Андрей Иванович": 286,
-      "Против всех": 100
+      "gas:candidate-vibid:1001000190389": 17,
+      "gas:candidate-vibid:1001000136092": 128,
+      "gas:candidate-vibid:354300466922": 21,
+      "gas:candidate-vibid:1001000112237": 5,
+      "gas:candidate-vibid:1001000195115": 7,
+      "gas:candidate-vibid:1001000212562": 8,
+      "gas:candidate-vibid:1001000121882": 331,
+      "gas:candidate-vibid:354300466838": 286,
+      "special:against-all": 100
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467276&region=0&sub_region=0&type=429",
@@ -3696,15 +3696,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 8,
-      "Логинов Евгений Юрьевич": 50,
-      "Новая Татьяна Анатольевна": 10,
-      "Рудницкий Александр Львович": 0,
-      "Сиганов Сергей Евгеньевич": 2,
-      "Терновых Егор Николаевич": 4,
-      "Швец Любовь Никитична": 124,
-      "Шимкив Андрей Иванович": 70,
-      "Против всех": 36
+      "gas:candidate-vibid:1001000190389": 8,
+      "gas:candidate-vibid:1001000136092": 50,
+      "gas:candidate-vibid:354300466922": 10,
+      "gas:candidate-vibid:1001000112237": 0,
+      "gas:candidate-vibid:1001000195115": 2,
+      "gas:candidate-vibid:1001000212562": 4,
+      "gas:candidate-vibid:1001000121882": 124,
+      "gas:candidate-vibid:354300466838": 70,
+      "special:against-all": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467276&region=0&sub_region=0&type=429",
@@ -3754,15 +3754,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 29,
-      "Логинов Евгений Юрьевич": 37,
-      "Новая Татьяна Анатольевна": 10,
-      "Рудницкий Александр Львович": 4,
-      "Сиганов Сергей Евгеньевич": 2,
-      "Терновых Егор Николаевич": 6,
-      "Швец Любовь Никитична": 70,
-      "Шимкив Андрей Иванович": 44,
-      "Против всех": 33
+      "gas:candidate-vibid:1001000190389": 29,
+      "gas:candidate-vibid:1001000136092": 37,
+      "gas:candidate-vibid:354300466922": 10,
+      "gas:candidate-vibid:1001000112237": 4,
+      "gas:candidate-vibid:1001000195115": 2,
+      "gas:candidate-vibid:1001000212562": 6,
+      "gas:candidate-vibid:1001000121882": 70,
+      "gas:candidate-vibid:354300466838": 44,
+      "special:against-all": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467276&region=0&sub_region=0&type=429",
@@ -3812,15 +3812,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 2,
-      "Логинов Евгений Юрьевич": 5,
-      "Новая Татьяна Анатольевна": 1,
-      "Рудницкий Александр Львович": 2,
-      "Сиганов Сергей Евгеньевич": 1,
-      "Терновых Егор Николаевич": 2,
-      "Швец Любовь Никитична": 25,
-      "Шимкив Андрей Иванович": 34,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000190389": 2,
+      "gas:candidate-vibid:1001000136092": 5,
+      "gas:candidate-vibid:354300466922": 1,
+      "gas:candidate-vibid:1001000112237": 2,
+      "gas:candidate-vibid:1001000195115": 1,
+      "gas:candidate-vibid:1001000212562": 2,
+      "gas:candidate-vibid:1001000121882": 25,
+      "gas:candidate-vibid:354300466838": 34,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467276&region=0&sub_region=0&type=429",
@@ -3870,15 +3870,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 22,
-      "Логинов Евгений Юрьевич": 24,
-      "Новая Татьяна Анатольевна": 7,
-      "Рудницкий Александр Львович": 6,
-      "Сиганов Сергей Евгеньевич": 3,
-      "Терновых Егор Николаевич": 5,
-      "Швец Любовь Никитична": 140,
-      "Шимкив Андрей Иванович": 93,
-      "Против всех": 29
+      "gas:candidate-vibid:1001000190389": 22,
+      "gas:candidate-vibid:1001000136092": 24,
+      "gas:candidate-vibid:354300466922": 7,
+      "gas:candidate-vibid:1001000112237": 6,
+      "gas:candidate-vibid:1001000195115": 3,
+      "gas:candidate-vibid:1001000212562": 5,
+      "gas:candidate-vibid:1001000121882": 140,
+      "gas:candidate-vibid:354300466838": 93,
+      "special:against-all": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467276&region=0&sub_region=0&type=429",
@@ -3928,15 +3928,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 2,
-      "Логинов Евгений Юрьевич": 17,
-      "Новая Татьяна Анатольевна": 5,
-      "Рудницкий Александр Львович": 3,
-      "Сиганов Сергей Евгеньевич": 2,
-      "Терновых Егор Николаевич": 1,
-      "Швец Любовь Никитична": 35,
-      "Шимкив Андрей Иванович": 153,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000190389": 2,
+      "gas:candidate-vibid:1001000136092": 17,
+      "gas:candidate-vibid:354300466922": 5,
+      "gas:candidate-vibid:1001000112237": 3,
+      "gas:candidate-vibid:1001000195115": 2,
+      "gas:candidate-vibid:1001000212562": 1,
+      "gas:candidate-vibid:1001000121882": 35,
+      "gas:candidate-vibid:354300466838": 153,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467276&region=0&sub_region=0&type=429",
@@ -3986,15 +3986,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 1,
-      "Логинов Евгений Юрьевич": 8,
-      "Новая Татьяна Анатольевна": 5,
-      "Рудницкий Александр Львович": 2,
-      "Сиганов Сергей Евгеньевич": 5,
-      "Терновых Егор Николаевич": 1,
-      "Швец Любовь Никитична": 19,
-      "Шимкив Андрей Иванович": 28,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000190389": 1,
+      "gas:candidate-vibid:1001000136092": 8,
+      "gas:candidate-vibid:354300466922": 5,
+      "gas:candidate-vibid:1001000112237": 2,
+      "gas:candidate-vibid:1001000195115": 5,
+      "gas:candidate-vibid:1001000212562": 1,
+      "gas:candidate-vibid:1001000121882": 19,
+      "gas:candidate-vibid:354300466838": 28,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467276&region=0&sub_region=0&type=429",
@@ -4044,15 +4044,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 15,
-      "Логинов Евгений Юрьевич": 68,
-      "Новая Татьяна Анатольевна": 7,
-      "Рудницкий Александр Львович": 7,
-      "Сиганов Сергей Евгеньевич": 0,
-      "Терновых Егор Николаевич": 8,
-      "Швец Любовь Никитична": 206,
-      "Шимкив Андрей Иванович": 217,
-      "Против всех": 57
+      "gas:candidate-vibid:1001000190389": 15,
+      "gas:candidate-vibid:1001000136092": 68,
+      "gas:candidate-vibid:354300466922": 7,
+      "gas:candidate-vibid:1001000112237": 7,
+      "gas:candidate-vibid:1001000195115": 0,
+      "gas:candidate-vibid:1001000212562": 8,
+      "gas:candidate-vibid:1001000121882": 206,
+      "gas:candidate-vibid:354300466838": 217,
+      "special:against-all": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467276&region=0&sub_region=0&type=429",
@@ -4102,15 +4102,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 2,
-      "Логинов Евгений Юрьевич": 10,
-      "Новая Татьяна Анатольевна": 3,
-      "Рудницкий Александр Львович": 1,
-      "Сиганов Сергей Евгеньевич": 4,
-      "Терновых Егор Николаевич": 0,
-      "Швец Любовь Никитична": 26,
-      "Шимкив Андрей Иванович": 39,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000190389": 2,
+      "gas:candidate-vibid:1001000136092": 10,
+      "gas:candidate-vibid:354300466922": 3,
+      "gas:candidate-vibid:1001000112237": 1,
+      "gas:candidate-vibid:1001000195115": 4,
+      "gas:candidate-vibid:1001000212562": 0,
+      "gas:candidate-vibid:1001000121882": 26,
+      "gas:candidate-vibid:354300466838": 39,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467276&region=0&sub_region=0&type=429",
@@ -4160,15 +4160,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 3,
-      "Логинов Евгений Юрьевич": 6,
-      "Новая Татьяна Анатольевна": 2,
-      "Рудницкий Александр Львович": 1,
-      "Сиганов Сергей Евгеньевич": 3,
-      "Терновых Егор Николаевич": 2,
-      "Швец Любовь Никитична": 31,
-      "Шимкив Андрей Иванович": 41,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000190389": 3,
+      "gas:candidate-vibid:1001000136092": 6,
+      "gas:candidate-vibid:354300466922": 2,
+      "gas:candidate-vibid:1001000112237": 1,
+      "gas:candidate-vibid:1001000195115": 3,
+      "gas:candidate-vibid:1001000212562": 2,
+      "gas:candidate-vibid:1001000121882": 31,
+      "gas:candidate-vibid:354300466838": 41,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467276&region=0&sub_region=0&type=429",
@@ -4218,15 +4218,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 3,
-      "Логинов Евгений Юрьевич": 9,
-      "Новая Татьяна Анатольевна": 6,
-      "Рудницкий Александр Львович": 0,
-      "Сиганов Сергей Евгеньевич": 1,
-      "Терновых Егор Николаевич": 1,
-      "Швец Любовь Никитична": 34,
-      "Шимкив Андрей Иванович": 35,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000190389": 3,
+      "gas:candidate-vibid:1001000136092": 9,
+      "gas:candidate-vibid:354300466922": 6,
+      "gas:candidate-vibid:1001000112237": 0,
+      "gas:candidate-vibid:1001000195115": 1,
+      "gas:candidate-vibid:1001000212562": 1,
+      "gas:candidate-vibid:1001000121882": 34,
+      "gas:candidate-vibid:354300466838": 35,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467276&region=0&sub_region=0&type=429",
@@ -4276,15 +4276,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 5,
-      "Логинов Евгений Юрьевич": 51,
-      "Новая Татьяна Анатольевна": 6,
-      "Рудницкий Александр Львович": 6,
-      "Сиганов Сергей Евгеньевич": 3,
-      "Терновых Егор Николаевич": 1,
-      "Швец Любовь Никитична": 96,
-      "Шимкив Андрей Иванович": 175,
-      "Против всех": 44
+      "gas:candidate-vibid:1001000190389": 5,
+      "gas:candidate-vibid:1001000136092": 51,
+      "gas:candidate-vibid:354300466922": 6,
+      "gas:candidate-vibid:1001000112237": 6,
+      "gas:candidate-vibid:1001000195115": 3,
+      "gas:candidate-vibid:1001000212562": 1,
+      "gas:candidate-vibid:1001000121882": 96,
+      "gas:candidate-vibid:354300466838": 175,
+      "special:against-all": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467276&region=0&sub_region=0&type=429",
@@ -4334,15 +4334,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 14,
-      "Логинов Евгений Юрьевич": 42,
-      "Новая Татьяна Анатольевна": 5,
-      "Рудницкий Александр Львович": 3,
-      "Сиганов Сергей Евгеньевич": 2,
-      "Терновых Егор Николаевич": 1,
-      "Швец Любовь Никитична": 101,
-      "Шимкив Андрей Иванович": 121,
-      "Против всех": 40
+      "gas:candidate-vibid:1001000190389": 14,
+      "gas:candidate-vibid:1001000136092": 42,
+      "gas:candidate-vibid:354300466922": 5,
+      "gas:candidate-vibid:1001000112237": 3,
+      "gas:candidate-vibid:1001000195115": 2,
+      "gas:candidate-vibid:1001000212562": 1,
+      "gas:candidate-vibid:1001000121882": 101,
+      "gas:candidate-vibid:354300466838": 121,
+      "special:against-all": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467276&region=0&sub_region=0&type=429",
@@ -4392,15 +4392,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 1,
-      "Логинов Евгений Юрьевич": 5,
-      "Новая Татьяна Анатольевна": 3,
-      "Рудницкий Александр Львович": 0,
-      "Сиганов Сергей Евгеньевич": 1,
-      "Терновых Егор Николаевич": 0,
-      "Швец Любовь Никитична": 12,
-      "Шимкив Андрей Иванович": 27,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000190389": 1,
+      "gas:candidate-vibid:1001000136092": 5,
+      "gas:candidate-vibid:354300466922": 3,
+      "gas:candidate-vibid:1001000112237": 0,
+      "gas:candidate-vibid:1001000195115": 1,
+      "gas:candidate-vibid:1001000212562": 0,
+      "gas:candidate-vibid:1001000121882": 12,
+      "gas:candidate-vibid:354300466838": 27,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467276&region=0&sub_region=0&type=429",
@@ -4450,15 +4450,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 111,
-      "Логинов Евгений Юрьевич": 238,
-      "Новая Татьяна Анатольевна": 96,
-      "Рудницкий Александр Львович": 14,
-      "Сиганов Сергей Евгеньевич": 7,
-      "Терновых Егор Николаевич": 12,
-      "Швец Любовь Никитична": 286,
-      "Шимкив Андрей Иванович": 293,
-      "Против всех": 185
+      "gas:candidate-vibid:1001000190389": 111,
+      "gas:candidate-vibid:1001000136092": 238,
+      "gas:candidate-vibid:354300466922": 96,
+      "gas:candidate-vibid:1001000112237": 14,
+      "gas:candidate-vibid:1001000195115": 7,
+      "gas:candidate-vibid:1001000212562": 12,
+      "gas:candidate-vibid:1001000121882": 286,
+      "gas:candidate-vibid:354300466838": 293,
+      "special:against-all": 185
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467276&region=0&sub_region=0&type=429",
@@ -4508,15 +4508,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 90,
-      "Логинов Евгений Юрьевич": 181,
-      "Новая Татьяна Анатольевна": 47,
-      "Рудницкий Александр Львович": 10,
-      "Сиганов Сергей Евгеньевич": 0,
-      "Терновых Егор Николаевич": 8,
-      "Швец Любовь Никитична": 224,
-      "Шимкив Андрей Иванович": 262,
-      "Против всех": 126
+      "gas:candidate-vibid:1001000190389": 90,
+      "gas:candidate-vibid:1001000136092": 181,
+      "gas:candidate-vibid:354300466922": 47,
+      "gas:candidate-vibid:1001000112237": 10,
+      "gas:candidate-vibid:1001000195115": 0,
+      "gas:candidate-vibid:1001000212562": 8,
+      "gas:candidate-vibid:1001000121882": 224,
+      "gas:candidate-vibid:354300466838": 262,
+      "special:against-all": 126
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467276&region=0&sub_region=0&type=429",
@@ -4566,15 +4566,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 17,
-      "Логинов Евгений Юрьевич": 78,
-      "Новая Татьяна Анатольевна": 8,
-      "Рудницкий Александр Львович": 2,
-      "Сиганов Сергей Евгеньевич": 2,
-      "Терновых Егор Николаевич": 2,
-      "Швец Любовь Никитична": 42,
-      "Шимкив Андрей Иванович": 113,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000190389": 17,
+      "gas:candidate-vibid:1001000136092": 78,
+      "gas:candidate-vibid:354300466922": 8,
+      "gas:candidate-vibid:1001000112237": 2,
+      "gas:candidate-vibid:1001000195115": 2,
+      "gas:candidate-vibid:1001000212562": 2,
+      "gas:candidate-vibid:1001000121882": 42,
+      "gas:candidate-vibid:354300466838": 113,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467276&region=0&sub_region=0&type=429",
@@ -4624,15 +4624,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 5,
-      "Логинов Евгений Юрьевич": 45,
-      "Новая Татьяна Анатольевна": 6,
-      "Рудницкий Александр Львович": 0,
-      "Сиганов Сергей Евгеньевич": 1,
-      "Терновых Егор Николаевич": 3,
-      "Швец Любовь Никитична": 42,
-      "Шимкив Андрей Иванович": 34,
-      "Против всех": 24
+      "gas:candidate-vibid:1001000190389": 5,
+      "gas:candidate-vibid:1001000136092": 45,
+      "gas:candidate-vibid:354300466922": 6,
+      "gas:candidate-vibid:1001000112237": 0,
+      "gas:candidate-vibid:1001000195115": 1,
+      "gas:candidate-vibid:1001000212562": 3,
+      "gas:candidate-vibid:1001000121882": 42,
+      "gas:candidate-vibid:354300466838": 34,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467276&region=0&sub_region=0&type=429",
@@ -4682,15 +4682,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 18,
-      "Логинов Евгений Юрьевич": 70,
-      "Новая Татьяна Анатольевна": 27,
-      "Рудницкий Александр Львович": 0,
-      "Сиганов Сергей Евгеньевич": 1,
-      "Терновых Егор Николаевич": 1,
-      "Швец Любовь Никитична": 141,
-      "Шимкив Андрей Иванович": 136,
-      "Против всех": 74
+      "gas:candidate-vibid:1001000190389": 18,
+      "gas:candidate-vibid:1001000136092": 70,
+      "gas:candidate-vibid:354300466922": 27,
+      "gas:candidate-vibid:1001000112237": 0,
+      "gas:candidate-vibid:1001000195115": 1,
+      "gas:candidate-vibid:1001000212562": 1,
+      "gas:candidate-vibid:1001000121882": 141,
+      "gas:candidate-vibid:354300466838": 136,
+      "special:against-all": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467276&region=0&sub_region=0&type=429",
@@ -4740,15 +4740,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 3,
-      "Логинов Евгений Юрьевич": 29,
-      "Новая Татьяна Анатольевна": 7,
-      "Рудницкий Александр Львович": 0,
-      "Сиганов Сергей Евгеньевич": 2,
-      "Терновых Егор Николаевич": 1,
-      "Швец Любовь Никитична": 30,
-      "Шимкив Андрей Иванович": 36,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000190389": 3,
+      "gas:candidate-vibid:1001000136092": 29,
+      "gas:candidate-vibid:354300466922": 7,
+      "gas:candidate-vibid:1001000112237": 0,
+      "gas:candidate-vibid:1001000195115": 2,
+      "gas:candidate-vibid:1001000212562": 1,
+      "gas:candidate-vibid:1001000121882": 30,
+      "gas:candidate-vibid:354300466838": 36,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467276&region=0&sub_region=0&type=429",
@@ -4798,15 +4798,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 2,
-      "Логинов Евгений Юрьевич": 37,
-      "Новая Татьяна Анатольевна": 2,
-      "Рудницкий Александр Львович": 2,
-      "Сиганов Сергей Евгеньевич": 1,
-      "Терновых Егор Николаевич": 1,
-      "Швец Любовь Никитична": 30,
-      "Шимкив Андрей Иванович": 32,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000190389": 2,
+      "gas:candidate-vibid:1001000136092": 37,
+      "gas:candidate-vibid:354300466922": 2,
+      "gas:candidate-vibid:1001000112237": 2,
+      "gas:candidate-vibid:1001000195115": 1,
+      "gas:candidate-vibid:1001000212562": 1,
+      "gas:candidate-vibid:1001000121882": 30,
+      "gas:candidate-vibid:354300466838": 32,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467276&region=0&sub_region=0&type=429",
@@ -4856,15 +4856,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 8,
-      "Логинов Евгений Юрьевич": 51,
-      "Новая Татьяна Анатольевна": 16,
-      "Рудницкий Александр Львович": 2,
-      "Сиганов Сергей Евгеньевич": 0,
-      "Терновых Егор Николаевич": 1,
-      "Швец Любовь Никитична": 60,
-      "Шимкив Андрей Иванович": 125,
-      "Против всех": 43
+      "gas:candidate-vibid:1001000190389": 8,
+      "gas:candidate-vibid:1001000136092": 51,
+      "gas:candidate-vibid:354300466922": 16,
+      "gas:candidate-vibid:1001000112237": 2,
+      "gas:candidate-vibid:1001000195115": 0,
+      "gas:candidate-vibid:1001000212562": 1,
+      "gas:candidate-vibid:1001000121882": 60,
+      "gas:candidate-vibid:354300466838": 125,
+      "special:against-all": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467276&region=0&sub_region=0&type=429",
@@ -4914,15 +4914,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 71,
-      "Логинов Евгений Юрьевич": 300,
-      "Новая Татьяна Анатольевна": 56,
-      "Рудницкий Александр Львович": 16,
-      "Сиганов Сергей Евгеньевич": 9,
-      "Терновых Егор Николаевич": 20,
-      "Швец Любовь Никитична": 214,
-      "Шимкив Андрей Иванович": 286,
-      "Против всех": 215
+      "gas:candidate-vibid:1001000190389": 71,
+      "gas:candidate-vibid:1001000136092": 300,
+      "gas:candidate-vibid:354300466922": 56,
+      "gas:candidate-vibid:1001000112237": 16,
+      "gas:candidate-vibid:1001000195115": 9,
+      "gas:candidate-vibid:1001000212562": 20,
+      "gas:candidate-vibid:1001000121882": 214,
+      "gas:candidate-vibid:354300466838": 286,
+      "special:against-all": 215
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467276&region=0&sub_region=0&type=429",
@@ -4972,15 +4972,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 149,
-      "Логинов Евгений Юрьевич": 397,
-      "Новая Татьяна Анатольевна": 53,
-      "Рудницкий Александр Львович": 54,
-      "Сиганов Сергей Евгеньевич": 5,
-      "Терновых Егор Николаевич": 32,
-      "Швец Любовь Никитична": 355,
-      "Шимкив Андрей Иванович": 307,
-      "Против всех": 299
+      "gas:candidate-vibid:1001000190389": 149,
+      "gas:candidate-vibid:1001000136092": 397,
+      "gas:candidate-vibid:354300466922": 53,
+      "gas:candidate-vibid:1001000112237": 54,
+      "gas:candidate-vibid:1001000195115": 5,
+      "gas:candidate-vibid:1001000212562": 32,
+      "gas:candidate-vibid:1001000121882": 355,
+      "gas:candidate-vibid:354300466838": 307,
+      "special:against-all": 299
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467276&region=0&sub_region=0&type=429",
@@ -5030,15 +5030,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 157,
-      "Логинов Евгений Юрьевич": 410,
-      "Новая Татьяна Анатольевна": 113,
-      "Рудницкий Александр Львович": 49,
-      "Сиганов Сергей Евгеньевич": 4,
-      "Терновых Егор Николаевич": 19,
-      "Швец Любовь Никитична": 367,
-      "Шимкив Андрей Иванович": 298,
-      "Против всех": 383
+      "gas:candidate-vibid:1001000190389": 157,
+      "gas:candidate-vibid:1001000136092": 410,
+      "gas:candidate-vibid:354300466922": 113,
+      "gas:candidate-vibid:1001000112237": 49,
+      "gas:candidate-vibid:1001000195115": 4,
+      "gas:candidate-vibid:1001000212562": 19,
+      "gas:candidate-vibid:1001000121882": 367,
+      "gas:candidate-vibid:354300466838": 298,
+      "special:against-all": 383
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467276&region=0&sub_region=0&type=429",
@@ -5088,15 +5088,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 4
     },
     "votes": {
-      "Красников Николай Григорьевич": 105,
-      "Логинов Евгений Юрьевич": 337,
-      "Новая Татьяна Анатольевна": 134,
-      "Рудницкий Александр Львович": 45,
-      "Сиганов Сергей Евгеньевич": 6,
-      "Терновых Егор Николаевич": 30,
-      "Швец Любовь Никитична": 326,
-      "Шимкив Андрей Иванович": 281,
-      "Против всех": 296
+      "gas:candidate-vibid:1001000190389": 105,
+      "gas:candidate-vibid:1001000136092": 337,
+      "gas:candidate-vibid:354300466922": 134,
+      "gas:candidate-vibid:1001000112237": 45,
+      "gas:candidate-vibid:1001000195115": 6,
+      "gas:candidate-vibid:1001000212562": 30,
+      "gas:candidate-vibid:1001000121882": 326,
+      "gas:candidate-vibid:354300466838": 281,
+      "special:against-all": 296
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467276&region=0&sub_region=0&type=429",
@@ -5146,15 +5146,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 152,
-      "Логинов Евгений Юрьевич": 394,
-      "Новая Татьяна Анатольевна": 106,
-      "Рудницкий Александр Львович": 36,
-      "Сиганов Сергей Евгеньевич": 11,
-      "Терновых Егор Николаевич": 23,
-      "Швец Любовь Никитична": 355,
-      "Шимкив Андрей Иванович": 325,
-      "Против всех": 388
+      "gas:candidate-vibid:1001000190389": 152,
+      "gas:candidate-vibid:1001000136092": 394,
+      "gas:candidate-vibid:354300466922": 106,
+      "gas:candidate-vibid:1001000112237": 36,
+      "gas:candidate-vibid:1001000195115": 11,
+      "gas:candidate-vibid:1001000212562": 23,
+      "gas:candidate-vibid:1001000121882": 355,
+      "gas:candidate-vibid:354300466838": 325,
+      "special:against-all": 388
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467276&region=0&sub_region=0&type=429",
@@ -5204,15 +5204,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 114,
-      "Логинов Евгений Юрьевич": 387,
-      "Новая Татьяна Анатольевна": 95,
-      "Рудницкий Александр Львович": 56,
-      "Сиганов Сергей Евгеньевич": 10,
-      "Терновых Егор Николаевич": 30,
-      "Швец Любовь Никитична": 353,
-      "Шимкив Андрей Иванович": 268,
-      "Против всех": 275
+      "gas:candidate-vibid:1001000190389": 114,
+      "gas:candidate-vibid:1001000136092": 387,
+      "gas:candidate-vibid:354300466922": 95,
+      "gas:candidate-vibid:1001000112237": 56,
+      "gas:candidate-vibid:1001000195115": 10,
+      "gas:candidate-vibid:1001000212562": 30,
+      "gas:candidate-vibid:1001000121882": 353,
+      "gas:candidate-vibid:354300466838": 268,
+      "special:against-all": 275
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467276&region=0&sub_region=0&type=429",
@@ -5262,15 +5262,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 30,
-      "Логинов Евгений Юрьевич": 183,
-      "Новая Татьяна Анатольевна": 21,
-      "Рудницкий Александр Львович": 6,
-      "Сиганов Сергей Евгеньевич": 2,
-      "Терновых Егор Николаевич": 1,
-      "Швец Любовь Никитична": 184,
-      "Шимкив Андрей Иванович": 240,
-      "Против всех": 118
+      "gas:candidate-vibid:1001000190389": 30,
+      "gas:candidate-vibid:1001000136092": 183,
+      "gas:candidate-vibid:354300466922": 21,
+      "gas:candidate-vibid:1001000112237": 6,
+      "gas:candidate-vibid:1001000195115": 2,
+      "gas:candidate-vibid:1001000212562": 1,
+      "gas:candidate-vibid:1001000121882": 184,
+      "gas:candidate-vibid:354300466838": 240,
+      "special:against-all": 118
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467276&region=0&sub_region=0&type=429",
@@ -5320,15 +5320,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 42,
-      "Логинов Евгений Юрьевич": 108,
-      "Новая Татьяна Анатольевна": 23,
-      "Рудницкий Александр Львович": 5,
-      "Сиганов Сергей Евгеньевич": 3,
-      "Терновых Егор Николаевич": 6,
-      "Швец Любовь Никитична": 174,
-      "Шимкив Андрей Иванович": 197,
-      "Против всех": 59
+      "gas:candidate-vibid:1001000190389": 42,
+      "gas:candidate-vibid:1001000136092": 108,
+      "gas:candidate-vibid:354300466922": 23,
+      "gas:candidate-vibid:1001000112237": 5,
+      "gas:candidate-vibid:1001000195115": 3,
+      "gas:candidate-vibid:1001000212562": 6,
+      "gas:candidate-vibid:1001000121882": 174,
+      "gas:candidate-vibid:354300466838": 197,
+      "special:against-all": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467276&region=0&sub_region=0&type=429",
@@ -5378,15 +5378,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 17,
-      "Логинов Евгений Юрьевич": 28,
-      "Новая Татьяна Анатольевна": 7,
-      "Рудницкий Александр Львович": 4,
-      "Сиганов Сергей Евгеньевич": 2,
-      "Терновых Егор Николаевич": 1,
-      "Швец Любовь Никитична": 59,
-      "Шимкив Андрей Иванович": 72,
-      "Против всех": 36
+      "gas:candidate-vibid:1001000190389": 17,
+      "gas:candidate-vibid:1001000136092": 28,
+      "gas:candidate-vibid:354300466922": 7,
+      "gas:candidate-vibid:1001000112237": 4,
+      "gas:candidate-vibid:1001000195115": 2,
+      "gas:candidate-vibid:1001000212562": 1,
+      "gas:candidate-vibid:1001000121882": 59,
+      "gas:candidate-vibid:354300466838": 72,
+      "special:against-all": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467276&region=0&sub_region=0&type=429",
@@ -5436,15 +5436,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 25,
-      "Логинов Евгений Юрьевич": 16,
-      "Новая Татьяна Анатольевна": 6,
-      "Рудницкий Александр Львович": 0,
-      "Сиганов Сергей Евгеньевич": 1,
-      "Терновых Егор Николаевич": 0,
-      "Швец Любовь Никитична": 17,
-      "Шимкив Андрей Иванович": 86,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000190389": 25,
+      "gas:candidate-vibid:1001000136092": 16,
+      "gas:candidate-vibid:354300466922": 6,
+      "gas:candidate-vibid:1001000112237": 0,
+      "gas:candidate-vibid:1001000195115": 1,
+      "gas:candidate-vibid:1001000212562": 0,
+      "gas:candidate-vibid:1001000121882": 17,
+      "gas:candidate-vibid:354300466838": 86,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467276&region=0&sub_region=0&type=429",
@@ -5494,15 +5494,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 7,
-      "Логинов Евгений Юрьевич": 8,
-      "Новая Татьяна Анатольевна": 3,
-      "Рудницкий Александр Львович": 1,
-      "Сиганов Сергей Евгеньевич": 0,
-      "Терновых Егор Николаевич": 0,
-      "Швец Любовь Никитична": 19,
-      "Шимкив Андрей Иванович": 104,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000190389": 7,
+      "gas:candidate-vibid:1001000136092": 8,
+      "gas:candidate-vibid:354300466922": 3,
+      "gas:candidate-vibid:1001000112237": 1,
+      "gas:candidate-vibid:1001000195115": 0,
+      "gas:candidate-vibid:1001000212562": 0,
+      "gas:candidate-vibid:1001000121882": 19,
+      "gas:candidate-vibid:354300466838": 104,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467276&region=0&sub_region=0&type=429",
@@ -5552,15 +5552,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 3,
-      "Логинов Евгений Юрьевич": 25,
-      "Новая Татьяна Анатольевна": 5,
-      "Рудницкий Александр Львович": 2,
-      "Сиганов Сергей Евгеньевич": 1,
-      "Терновых Егор Николаевич": 0,
-      "Швец Любовь Никитична": 31,
-      "Шимкив Андрей Иванович": 49,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000190389": 3,
+      "gas:candidate-vibid:1001000136092": 25,
+      "gas:candidate-vibid:354300466922": 5,
+      "gas:candidate-vibid:1001000112237": 2,
+      "gas:candidate-vibid:1001000195115": 1,
+      "gas:candidate-vibid:1001000212562": 0,
+      "gas:candidate-vibid:1001000121882": 31,
+      "gas:candidate-vibid:354300466838": 49,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467276&region=0&sub_region=0&type=429",
@@ -5610,15 +5610,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 8,
-      "Логинов Евгений Юрьевич": 20,
-      "Новая Татьяна Анатольевна": 4,
-      "Рудницкий Александр Львович": 2,
-      "Сиганов Сергей Евгеньевич": 1,
-      "Терновых Егор Николаевич": 4,
-      "Швец Любовь Никитична": 54,
-      "Шимкив Андрей Иванович": 250,
-      "Против всех": 34
+      "gas:candidate-vibid:1001000190389": 8,
+      "gas:candidate-vibid:1001000136092": 20,
+      "gas:candidate-vibid:354300466922": 4,
+      "gas:candidate-vibid:1001000112237": 2,
+      "gas:candidate-vibid:1001000195115": 1,
+      "gas:candidate-vibid:1001000212562": 4,
+      "gas:candidate-vibid:1001000121882": 54,
+      "gas:candidate-vibid:354300466838": 250,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467276&region=0&sub_region=0&type=429",
@@ -5668,15 +5668,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 35,
-      "Логинов Евгений Юрьевич": 103,
-      "Новая Татьяна Анатольевна": 31,
-      "Рудницкий Александр Львович": 6,
-      "Сиганов Сергей Евгеньевич": 5,
-      "Терновых Егор Николаевич": 5,
-      "Швец Любовь Никитична": 237,
-      "Шимкив Андрей Иванович": 584,
-      "Против всех": 141
+      "gas:candidate-vibid:1001000190389": 35,
+      "gas:candidate-vibid:1001000136092": 103,
+      "gas:candidate-vibid:354300466922": 31,
+      "gas:candidate-vibid:1001000112237": 6,
+      "gas:candidate-vibid:1001000195115": 5,
+      "gas:candidate-vibid:1001000212562": 5,
+      "gas:candidate-vibid:1001000121882": 237,
+      "gas:candidate-vibid:354300466838": 584,
+      "special:against-all": 141
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467276&region=0&sub_region=0&type=429",
@@ -5726,15 +5726,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 3,
-      "Логинов Евгений Юрьевич": 11,
-      "Новая Татьяна Анатольевна": 1,
-      "Рудницкий Александр Львович": 5,
-      "Сиганов Сергей Евгеньевич": 0,
-      "Терновых Егор Николаевич": 0,
-      "Швец Любовь Никитична": 30,
-      "Шимкив Андрей Иванович": 200,
-      "Против всех": 27
+      "gas:candidate-vibid:1001000190389": 3,
+      "gas:candidate-vibid:1001000136092": 11,
+      "gas:candidate-vibid:354300466922": 1,
+      "gas:candidate-vibid:1001000112237": 5,
+      "gas:candidate-vibid:1001000195115": 0,
+      "gas:candidate-vibid:1001000212562": 0,
+      "gas:candidate-vibid:1001000121882": 30,
+      "gas:candidate-vibid:354300466838": 200,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467276&region=0&sub_region=0&type=429",
@@ -5784,15 +5784,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 18,
-      "Логинов Евгений Юрьевич": 29,
-      "Новая Татьяна Анатольевна": 7,
-      "Рудницкий Александр Львович": 1,
-      "Сиганов Сергей Евгеньевич": 0,
-      "Терновых Егор Николаевич": 0,
-      "Швец Любовь Никитична": 48,
-      "Шимкив Андрей Иванович": 164,
-      "Против всех": 42
+      "gas:candidate-vibid:1001000190389": 18,
+      "gas:candidate-vibid:1001000136092": 29,
+      "gas:candidate-vibid:354300466922": 7,
+      "gas:candidate-vibid:1001000112237": 1,
+      "gas:candidate-vibid:1001000195115": 0,
+      "gas:candidate-vibid:1001000212562": 0,
+      "gas:candidate-vibid:1001000121882": 48,
+      "gas:candidate-vibid:354300466838": 164,
+      "special:against-all": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467276&region=0&sub_region=0&type=429",
@@ -5842,15 +5842,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 50,
-      "Логинов Евгений Юрьевич": 47,
-      "Новая Татьяна Анатольевна": 53,
-      "Рудницкий Александр Львович": 9,
-      "Сиганов Сергей Евгеньевич": 2,
-      "Терновых Егор Николаевич": 6,
-      "Швец Любовь Никитична": 163,
-      "Шимкив Андрей Иванович": 87,
-      "Против всех": 68
+      "gas:candidate-vibid:1001000190389": 50,
+      "gas:candidate-vibid:1001000136092": 47,
+      "gas:candidate-vibid:354300466922": 53,
+      "gas:candidate-vibid:1001000112237": 9,
+      "gas:candidate-vibid:1001000195115": 2,
+      "gas:candidate-vibid:1001000212562": 6,
+      "gas:candidate-vibid:1001000121882": 163,
+      "gas:candidate-vibid:354300466838": 87,
+      "special:against-all": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467276&region=0&sub_region=0&type=429",
@@ -5900,15 +5900,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 6,
-      "Логинов Евгений Юрьевич": 25,
-      "Новая Татьяна Анатольевна": 40,
-      "Рудницкий Александр Львович": 2,
-      "Сиганов Сергей Евгеньевич": 2,
-      "Терновых Егор Николаевич": 2,
-      "Швец Любовь Никитична": 33,
-      "Шимкив Андрей Иванович": 61,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000190389": 6,
+      "gas:candidate-vibid:1001000136092": 25,
+      "gas:candidate-vibid:354300466922": 40,
+      "gas:candidate-vibid:1001000112237": 2,
+      "gas:candidate-vibid:1001000195115": 2,
+      "gas:candidate-vibid:1001000212562": 2,
+      "gas:candidate-vibid:1001000121882": 33,
+      "gas:candidate-vibid:354300466838": 61,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467276&region=0&sub_region=0&type=429",
@@ -5958,15 +5958,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 13,
-      "Логинов Евгений Юрьевич": 15,
-      "Новая Татьяна Анатольевна": 8,
-      "Рудницкий Александр Львович": 2,
-      "Сиганов Сергей Евгеньевич": 1,
-      "Терновых Егор Николаевич": 5,
-      "Швец Любовь Никитична": 38,
-      "Шимкив Андрей Иванович": 58,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000190389": 13,
+      "gas:candidate-vibid:1001000136092": 15,
+      "gas:candidate-vibid:354300466922": 8,
+      "gas:candidate-vibid:1001000112237": 2,
+      "gas:candidate-vibid:1001000195115": 1,
+      "gas:candidate-vibid:1001000212562": 5,
+      "gas:candidate-vibid:1001000121882": 38,
+      "gas:candidate-vibid:354300466838": 58,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467276&region=0&sub_region=0&type=429",
@@ -6016,15 +6016,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 1,
-      "Логинов Евгений Юрьевич": 9,
-      "Новая Татьяна Анатольевна": 14,
-      "Рудницкий Александр Львович": 1,
-      "Сиганов Сергей Евгеньевич": 2,
-      "Терновых Егор Николаевич": 1,
-      "Швец Любовь Никитична": 37,
-      "Шимкив Андрей Иванович": 30,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000190389": 1,
+      "gas:candidate-vibid:1001000136092": 9,
+      "gas:candidate-vibid:354300466922": 14,
+      "gas:candidate-vibid:1001000112237": 1,
+      "gas:candidate-vibid:1001000195115": 2,
+      "gas:candidate-vibid:1001000212562": 1,
+      "gas:candidate-vibid:1001000121882": 37,
+      "gas:candidate-vibid:354300466838": 30,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467276&region=0&sub_region=0&type=429",
@@ -6074,15 +6074,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 37,
-      "Логинов Евгений Юрьевич": 103,
-      "Новая Татьяна Анатольевна": 11,
-      "Рудницкий Александр Львович": 8,
-      "Сиганов Сергей Евгеньевич": 2,
-      "Терновых Егор Николаевич": 9,
-      "Швец Любовь Никитична": 275,
-      "Шимкив Андрей Иванович": 190,
-      "Против всех": 52
+      "gas:candidate-vibid:1001000190389": 37,
+      "gas:candidate-vibid:1001000136092": 103,
+      "gas:candidate-vibid:354300466922": 11,
+      "gas:candidate-vibid:1001000112237": 8,
+      "gas:candidate-vibid:1001000195115": 2,
+      "gas:candidate-vibid:1001000212562": 9,
+      "gas:candidate-vibid:1001000121882": 275,
+      "gas:candidate-vibid:354300466838": 190,
+      "special:against-all": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467276&region=0&sub_region=0&type=429",
@@ -6132,15 +6132,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 1,
-      "Логинов Евгений Юрьевич": 17,
-      "Новая Татьяна Анатольевна": 2,
-      "Рудницкий Александр Львович": 3,
-      "Сиганов Сергей Евгеньевич": 4,
-      "Терновых Егор Николаевич": 6,
-      "Швец Любовь Никитична": 38,
-      "Шимкив Андрей Иванович": 66,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000190389": 1,
+      "gas:candidate-vibid:1001000136092": 17,
+      "gas:candidate-vibid:354300466922": 2,
+      "gas:candidate-vibid:1001000112237": 3,
+      "gas:candidate-vibid:1001000195115": 4,
+      "gas:candidate-vibid:1001000212562": 6,
+      "gas:candidate-vibid:1001000121882": 38,
+      "gas:candidate-vibid:354300466838": 66,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467276&region=0&sub_region=0&type=429",
@@ -6190,15 +6190,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 3,
-      "Логинов Евгений Юрьевич": 7,
-      "Новая Татьяна Анатольевна": 5,
-      "Рудницкий Александр Львович": 1,
-      "Сиганов Сергей Евгеньевич": 0,
-      "Терновых Егор Николаевич": 0,
-      "Швец Любовь Никитична": 82,
-      "Шимкив Андрей Иванович": 23,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000190389": 3,
+      "gas:candidate-vibid:1001000136092": 7,
+      "gas:candidate-vibid:354300466922": 5,
+      "gas:candidate-vibid:1001000112237": 1,
+      "gas:candidate-vibid:1001000195115": 0,
+      "gas:candidate-vibid:1001000212562": 0,
+      "gas:candidate-vibid:1001000121882": 82,
+      "gas:candidate-vibid:354300466838": 23,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467276&region=0&sub_region=0&type=429",
@@ -6248,15 +6248,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 26,
-      "Логинов Евгений Юрьевич": 66,
-      "Новая Татьяна Анатольевна": 14,
-      "Рудницкий Александр Львович": 4,
-      "Сиганов Сергей Евгеньевич": 3,
-      "Терновых Егор Николаевич": 6,
-      "Швец Любовь Никитична": 204,
-      "Шимкив Андрей Иванович": 141,
-      "Против всех": 52
+      "gas:candidate-vibid:1001000190389": 26,
+      "gas:candidate-vibid:1001000136092": 66,
+      "gas:candidate-vibid:354300466922": 14,
+      "gas:candidate-vibid:1001000112237": 4,
+      "gas:candidate-vibid:1001000195115": 3,
+      "gas:candidate-vibid:1001000212562": 6,
+      "gas:candidate-vibid:1001000121882": 204,
+      "gas:candidate-vibid:354300466838": 141,
+      "special:against-all": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467276&region=0&sub_region=0&type=429",
@@ -6306,15 +6306,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 24,
-      "Логинов Евгений Юрьевич": 58,
-      "Новая Татьяна Анатольевна": 7,
-      "Рудницкий Александр Львович": 3,
-      "Сиганов Сергей Евгеньевич": 7,
-      "Терновых Егор Николаевич": 4,
-      "Швец Любовь Никитична": 93,
-      "Шимкив Андрей Иванович": 147,
-      "Против всех": 44
+      "gas:candidate-vibid:1001000190389": 24,
+      "gas:candidate-vibid:1001000136092": 58,
+      "gas:candidate-vibid:354300466922": 7,
+      "gas:candidate-vibid:1001000112237": 3,
+      "gas:candidate-vibid:1001000195115": 7,
+      "gas:candidate-vibid:1001000212562": 4,
+      "gas:candidate-vibid:1001000121882": 93,
+      "gas:candidate-vibid:354300466838": 147,
+      "special:against-all": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467276&region=0&sub_region=0&type=429",
@@ -6364,15 +6364,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 3,
-      "Логинов Евгений Юрьевич": 12,
-      "Новая Татьяна Анатольевна": 3,
-      "Рудницкий Александр Львович": 0,
-      "Сиганов Сергей Евгеньевич": 0,
-      "Терновых Егор Николаевич": 2,
-      "Швец Любовь Никитична": 67,
-      "Шимкив Андрей Иванович": 59,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000190389": 3,
+      "gas:candidate-vibid:1001000136092": 12,
+      "gas:candidate-vibid:354300466922": 3,
+      "gas:candidate-vibid:1001000112237": 0,
+      "gas:candidate-vibid:1001000195115": 0,
+      "gas:candidate-vibid:1001000212562": 2,
+      "gas:candidate-vibid:1001000121882": 67,
+      "gas:candidate-vibid:354300466838": 59,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467276&region=0&sub_region=0&type=429",
@@ -6422,15 +6422,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 1,
-      "Логинов Евгений Юрьевич": 13,
-      "Новая Татьяна Анатольевна": 1,
-      "Рудницкий Александр Львович": 0,
-      "Сиганов Сергей Евгеньевич": 2,
-      "Терновых Егор Николаевич": 0,
-      "Швец Любовь Никитична": 7,
-      "Шимкив Андрей Иванович": 36,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000190389": 1,
+      "gas:candidate-vibid:1001000136092": 13,
+      "gas:candidate-vibid:354300466922": 1,
+      "gas:candidate-vibid:1001000112237": 0,
+      "gas:candidate-vibid:1001000195115": 2,
+      "gas:candidate-vibid:1001000212562": 0,
+      "gas:candidate-vibid:1001000121882": 7,
+      "gas:candidate-vibid:354300466838": 36,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467276&region=0&sub_region=0&type=429",
@@ -6480,15 +6480,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 3,
-      "Логинов Евгений Юрьевич": 20,
-      "Новая Татьяна Анатольевна": 2,
-      "Рудницкий Александр Львович": 0,
-      "Сиганов Сергей Евгеньевич": 1,
-      "Терновых Егор Николаевич": 2,
-      "Швец Любовь Никитична": 18,
-      "Шимкив Андрей Иванович": 42,
-      "Против всех": 27
+      "gas:candidate-vibid:1001000190389": 3,
+      "gas:candidate-vibid:1001000136092": 20,
+      "gas:candidate-vibid:354300466922": 2,
+      "gas:candidate-vibid:1001000112237": 0,
+      "gas:candidate-vibid:1001000195115": 1,
+      "gas:candidate-vibid:1001000212562": 2,
+      "gas:candidate-vibid:1001000121882": 18,
+      "gas:candidate-vibid:354300466838": 42,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467276&region=0&sub_region=0&type=429",
@@ -6538,15 +6538,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 3,
-      "Логинов Евгений Юрьевич": 21,
-      "Новая Татьяна Анатольевна": 1,
-      "Рудницкий Александр Львович": 0,
-      "Сиганов Сергей Евгеньевич": 0,
-      "Терновых Егор Николаевич": 0,
-      "Швец Любовь Никитична": 12,
-      "Шимкив Андрей Иванович": 42,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000190389": 3,
+      "gas:candidate-vibid:1001000136092": 21,
+      "gas:candidate-vibid:354300466922": 1,
+      "gas:candidate-vibid:1001000112237": 0,
+      "gas:candidate-vibid:1001000195115": 0,
+      "gas:candidate-vibid:1001000212562": 0,
+      "gas:candidate-vibid:1001000121882": 12,
+      "gas:candidate-vibid:354300466838": 42,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467276&region=0&sub_region=0&type=429",
@@ -6596,15 +6596,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 20,
-      "Логинов Евгений Юрьевич": 50,
-      "Новая Татьяна Анатольевна": 16,
-      "Рудницкий Александр Львович": 5,
-      "Сиганов Сергей Евгеньевич": 3,
-      "Терновых Егор Николаевич": 3,
-      "Швец Любовь Никитична": 255,
-      "Шимкив Андрей Иванович": 204,
-      "Против всех": 47
+      "gas:candidate-vibid:1001000190389": 20,
+      "gas:candidate-vibid:1001000136092": 50,
+      "gas:candidate-vibid:354300466922": 16,
+      "gas:candidate-vibid:1001000112237": 5,
+      "gas:candidate-vibid:1001000195115": 3,
+      "gas:candidate-vibid:1001000212562": 3,
+      "gas:candidate-vibid:1001000121882": 255,
+      "gas:candidate-vibid:354300466838": 204,
+      "special:against-all": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467276&region=0&sub_region=0&type=429",
@@ -6654,15 +6654,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 14,
-      "Логинов Евгений Юрьевич": 30,
-      "Новая Татьяна Анатольевна": 10,
-      "Рудницкий Александр Львович": 5,
-      "Сиганов Сергей Евгеньевич": 2,
-      "Терновых Егор Николаевич": 3,
-      "Швец Любовь Никитична": 305,
-      "Шимкив Андрей Иванович": 180,
-      "Против всех": 27
+      "gas:candidate-vibid:1001000190389": 14,
+      "gas:candidate-vibid:1001000136092": 30,
+      "gas:candidate-vibid:354300466922": 10,
+      "gas:candidate-vibid:1001000112237": 5,
+      "gas:candidate-vibid:1001000195115": 2,
+      "gas:candidate-vibid:1001000212562": 3,
+      "gas:candidate-vibid:1001000121882": 305,
+      "gas:candidate-vibid:354300466838": 180,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467276&region=0&sub_region=0&type=429",
@@ -6712,15 +6712,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 4,
-      "Логинов Евгений Юрьевич": 7,
-      "Новая Татьяна Анатольевна": 2,
-      "Рудницкий Александр Львович": 8,
-      "Сиганов Сергей Евгеньевич": 2,
-      "Терновых Егор Николаевич": 3,
-      "Швец Любовь Никитична": 49,
-      "Шимкив Андрей Иванович": 37,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000190389": 4,
+      "gas:candidate-vibid:1001000136092": 7,
+      "gas:candidate-vibid:354300466922": 2,
+      "gas:candidate-vibid:1001000112237": 8,
+      "gas:candidate-vibid:1001000195115": 2,
+      "gas:candidate-vibid:1001000212562": 3,
+      "gas:candidate-vibid:1001000121882": 49,
+      "gas:candidate-vibid:354300466838": 37,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467276&region=0&sub_region=0&type=429",
@@ -6770,15 +6770,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 2,
-      "Логинов Евгений Юрьевич": 40,
-      "Новая Татьяна Анатольевна": 8,
-      "Рудницкий Александр Львович": 1,
-      "Сиганов Сергей Евгеньевич": 1,
-      "Терновых Егор Николаевич": 1,
-      "Швец Любовь Никитична": 93,
-      "Шимкив Андрей Иванович": 54,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000190389": 2,
+      "gas:candidate-vibid:1001000136092": 40,
+      "gas:candidate-vibid:354300466922": 8,
+      "gas:candidate-vibid:1001000112237": 1,
+      "gas:candidate-vibid:1001000195115": 1,
+      "gas:candidate-vibid:1001000212562": 1,
+      "gas:candidate-vibid:1001000121882": 93,
+      "gas:candidate-vibid:354300466838": 54,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467276&region=0&sub_region=0&type=429",
@@ -6828,15 +6828,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 14,
-      "Логинов Евгений Юрьевич": 38,
-      "Новая Татьяна Анатольевна": 6,
-      "Рудницкий Александр Львович": 1,
-      "Сиганов Сергей Евгеньевич": 3,
-      "Терновых Егор Николаевич": 2,
-      "Швец Любовь Никитична": 54,
-      "Шимкив Андрей Иванович": 218,
-      "Против всех": 41
+      "gas:candidate-vibid:1001000190389": 14,
+      "gas:candidate-vibid:1001000136092": 38,
+      "gas:candidate-vibid:354300466922": 6,
+      "gas:candidate-vibid:1001000112237": 1,
+      "gas:candidate-vibid:1001000195115": 3,
+      "gas:candidate-vibid:1001000212562": 2,
+      "gas:candidate-vibid:1001000121882": 54,
+      "gas:candidate-vibid:354300466838": 218,
+      "special:against-all": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467276&region=0&sub_region=0&type=429",
@@ -6886,15 +6886,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 0,
-      "Логинов Евгений Юрьевич": 7,
-      "Новая Татьяна Анатольевна": 0,
-      "Рудницкий Александр Львович": 0,
-      "Сиганов Сергей Евгеньевич": 0,
-      "Терновых Егор Николаевич": 0,
-      "Швец Любовь Никитична": 20,
-      "Шимкив Андрей Иванович": 82,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000190389": 0,
+      "gas:candidate-vibid:1001000136092": 7,
+      "gas:candidate-vibid:354300466922": 0,
+      "gas:candidate-vibid:1001000112237": 0,
+      "gas:candidate-vibid:1001000195115": 0,
+      "gas:candidate-vibid:1001000212562": 0,
+      "gas:candidate-vibid:1001000121882": 20,
+      "gas:candidate-vibid:354300466838": 82,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467276&region=0&sub_region=0&type=429",
@@ -6944,15 +6944,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 1,
-      "Логинов Евгений Юрьевич": 14,
-      "Новая Татьяна Анатольевна": 4,
-      "Рудницкий Александр Львович": 0,
-      "Сиганов Сергей Евгеньевич": 0,
-      "Терновых Егор Николаевич": 0,
-      "Швец Любовь Никитична": 39,
-      "Шимкив Андрей Иванович": 127,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000190389": 1,
+      "gas:candidate-vibid:1001000136092": 14,
+      "gas:candidate-vibid:354300466922": 4,
+      "gas:candidate-vibid:1001000112237": 0,
+      "gas:candidate-vibid:1001000195115": 0,
+      "gas:candidate-vibid:1001000212562": 0,
+      "gas:candidate-vibid:1001000121882": 39,
+      "gas:candidate-vibid:354300466838": 127,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467276&region=0&sub_region=0&type=429",
@@ -7002,15 +7002,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 2,
-      "Логинов Евгений Юрьевич": 5,
-      "Новая Татьяна Анатольевна": 1,
-      "Рудницкий Александр Львович": 1,
-      "Сиганов Сергей Евгеньевич": 3,
-      "Терновых Егор Николаевич": 0,
-      "Швец Любовь Никитична": 23,
-      "Шимкив Андрей Иванович": 93,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000190389": 2,
+      "gas:candidate-vibid:1001000136092": 5,
+      "gas:candidate-vibid:354300466922": 1,
+      "gas:candidate-vibid:1001000112237": 1,
+      "gas:candidate-vibid:1001000195115": 3,
+      "gas:candidate-vibid:1001000212562": 0,
+      "gas:candidate-vibid:1001000121882": 23,
+      "gas:candidate-vibid:354300466838": 93,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467276&region=0&sub_region=0&type=429",
@@ -7060,15 +7060,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 6,
-      "Логинов Евгений Юрьевич": 59,
-      "Новая Татьяна Анатольевна": 11,
-      "Рудницкий Александр Львович": 1,
-      "Сиганов Сергей Евгеньевич": 3,
-      "Терновых Егор Николаевич": 3,
-      "Швец Любовь Никитична": 131,
-      "Шимкив Андрей Иванович": 126,
-      "Против всех": 40
+      "gas:candidate-vibid:1001000190389": 6,
+      "gas:candidate-vibid:1001000136092": 59,
+      "gas:candidate-vibid:354300466922": 11,
+      "gas:candidate-vibid:1001000112237": 1,
+      "gas:candidate-vibid:1001000195115": 3,
+      "gas:candidate-vibid:1001000212562": 3,
+      "gas:candidate-vibid:1001000121882": 131,
+      "gas:candidate-vibid:354300466838": 126,
+      "special:against-all": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467276&region=0&sub_region=0&type=429",
@@ -7118,15 +7118,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 0,
-      "Логинов Евгений Юрьевич": 15,
-      "Новая Татьяна Анатольевна": 1,
-      "Рудницкий Александр Львович": 1,
-      "Сиганов Сергей Евгеньевич": 0,
-      "Терновых Егор Николаевич": 0,
-      "Швец Любовь Никитична": 32,
-      "Шимкив Андрей Иванович": 19,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000190389": 0,
+      "gas:candidate-vibid:1001000136092": 15,
+      "gas:candidate-vibid:354300466922": 1,
+      "gas:candidate-vibid:1001000112237": 1,
+      "gas:candidate-vibid:1001000195115": 0,
+      "gas:candidate-vibid:1001000212562": 0,
+      "gas:candidate-vibid:1001000121882": 32,
+      "gas:candidate-vibid:354300466838": 19,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467276&region=0&sub_region=0&type=429",
@@ -7176,15 +7176,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 0,
-      "Логинов Евгений Юрьевич": 17,
-      "Новая Татьяна Анатольевна": 2,
-      "Рудницкий Александр Львович": 1,
-      "Сиганов Сергей Евгеньевич": 0,
-      "Терновых Егор Николаевич": 1,
-      "Швец Любовь Никитична": 30,
-      "Шимкив Андрей Иванович": 22,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000190389": 0,
+      "gas:candidate-vibid:1001000136092": 17,
+      "gas:candidate-vibid:354300466922": 2,
+      "gas:candidate-vibid:1001000112237": 1,
+      "gas:candidate-vibid:1001000195115": 0,
+      "gas:candidate-vibid:1001000212562": 1,
+      "gas:candidate-vibid:1001000121882": 30,
+      "gas:candidate-vibid:354300466838": 22,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467276&region=0&sub_region=0&type=429",
@@ -7234,15 +7234,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 0,
-      "Логинов Евгений Юрьевич": 12,
-      "Новая Татьяна Анатольевна": 0,
-      "Рудницкий Александр Львович": 0,
-      "Сиганов Сергей Евгеньевич": 0,
-      "Терновых Егор Николаевич": 1,
-      "Швец Любовь Никитична": 47,
-      "Шимкив Андрей Иванович": 40,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000190389": 0,
+      "gas:candidate-vibid:1001000136092": 12,
+      "gas:candidate-vibid:354300466922": 0,
+      "gas:candidate-vibid:1001000112237": 0,
+      "gas:candidate-vibid:1001000195115": 0,
+      "gas:candidate-vibid:1001000212562": 1,
+      "gas:candidate-vibid:1001000121882": 47,
+      "gas:candidate-vibid:354300466838": 40,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467276&region=0&sub_region=0&type=429",
@@ -7292,15 +7292,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 5,
-      "Логинов Евгений Юрьевич": 51,
-      "Новая Татьяна Анатольевна": 6,
-      "Рудницкий Александр Львович": 5,
-      "Сиганов Сергей Евгеньевич": 1,
-      "Терновых Егор Николаевич": 3,
-      "Швец Любовь Никитична": 131,
-      "Шимкив Андрей Иванович": 88,
-      "Против всех": 43
+      "gas:candidate-vibid:1001000190389": 5,
+      "gas:candidate-vibid:1001000136092": 51,
+      "gas:candidate-vibid:354300466922": 6,
+      "gas:candidate-vibid:1001000112237": 5,
+      "gas:candidate-vibid:1001000195115": 1,
+      "gas:candidate-vibid:1001000212562": 3,
+      "gas:candidate-vibid:1001000121882": 131,
+      "gas:candidate-vibid:354300466838": 88,
+      "special:against-all": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467276&region=0&sub_region=0&type=429",
@@ -7350,15 +7350,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 2,
-      "Логинов Евгений Юрьевич": 4,
-      "Новая Татьяна Анатольевна": 3,
-      "Рудницкий Александр Львович": 1,
-      "Сиганов Сергей Евгеньевич": 1,
-      "Терновых Егор Николаевич": 2,
-      "Швец Любовь Никитична": 8,
-      "Шимкив Андрей Иванович": 88,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000190389": 2,
+      "gas:candidate-vibid:1001000136092": 4,
+      "gas:candidate-vibid:354300466922": 3,
+      "gas:candidate-vibid:1001000112237": 1,
+      "gas:candidate-vibid:1001000195115": 1,
+      "gas:candidate-vibid:1001000212562": 2,
+      "gas:candidate-vibid:1001000121882": 8,
+      "gas:candidate-vibid:354300466838": 88,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467276&region=0&sub_region=0&type=429",
@@ -7408,15 +7408,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 1,
-      "Логинов Евгений Юрьевич": 1,
-      "Новая Татьяна Анатольевна": 0,
-      "Рудницкий Александр Львович": 1,
-      "Сиганов Сергей Евгеньевич": 0,
-      "Терновых Егор Николаевич": 1,
-      "Швец Любовь Никитична": 7,
-      "Шимкив Андрей Иванович": 38,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000190389": 1,
+      "gas:candidate-vibid:1001000136092": 1,
+      "gas:candidate-vibid:354300466922": 0,
+      "gas:candidate-vibid:1001000112237": 1,
+      "gas:candidate-vibid:1001000195115": 0,
+      "gas:candidate-vibid:1001000212562": 1,
+      "gas:candidate-vibid:1001000121882": 7,
+      "gas:candidate-vibid:354300466838": 38,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467276&region=0&sub_region=0&type=429",
@@ -7466,15 +7466,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 2,
-      "Логинов Евгений Юрьевич": 12,
-      "Новая Татьяна Анатольевна": 2,
-      "Рудницкий Александр Львович": 0,
-      "Сиганов Сергей Евгеньевич": 0,
-      "Терновых Егор Николаевич": 0,
-      "Швец Любовь Никитична": 27,
-      "Шимкив Андрей Иванович": 55,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000190389": 2,
+      "gas:candidate-vibid:1001000136092": 12,
+      "gas:candidate-vibid:354300466922": 2,
+      "gas:candidate-vibid:1001000112237": 0,
+      "gas:candidate-vibid:1001000195115": 0,
+      "gas:candidate-vibid:1001000212562": 0,
+      "gas:candidate-vibid:1001000121882": 27,
+      "gas:candidate-vibid:354300466838": 55,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467276&region=0&sub_region=0&type=429",
@@ -7524,15 +7524,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 121,
-      "Логинов Евгений Юрьевич": 104,
-      "Новая Татьяна Анатольевна": 16,
-      "Рудницкий Александр Львович": 5,
-      "Сиганов Сергей Евгеньевич": 2,
-      "Терновых Егор Николаевич": 25,
-      "Швец Любовь Никитична": 171,
-      "Шимкив Андрей Иванович": 157,
-      "Против всех": 69
+      "gas:candidate-vibid:1001000190389": 121,
+      "gas:candidate-vibid:1001000136092": 104,
+      "gas:candidate-vibid:354300466922": 16,
+      "gas:candidate-vibid:1001000112237": 5,
+      "gas:candidate-vibid:1001000195115": 2,
+      "gas:candidate-vibid:1001000212562": 25,
+      "gas:candidate-vibid:1001000121882": 171,
+      "gas:candidate-vibid:354300466838": 157,
+      "special:against-all": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467276&region=0&sub_region=0&type=429",
@@ -7582,15 +7582,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 3,
-      "Логинов Евгений Юрьевич": 6,
-      "Новая Татьяна Анатольевна": 2,
-      "Рудницкий Александр Львович": 0,
-      "Сиганов Сергей Евгеньевич": 1,
-      "Терновых Егор Николаевич": 1,
-      "Швец Любовь Никитична": 46,
-      "Шимкив Андрей Иванович": 20,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000190389": 3,
+      "gas:candidate-vibid:1001000136092": 6,
+      "gas:candidate-vibid:354300466922": 2,
+      "gas:candidate-vibid:1001000112237": 0,
+      "gas:candidate-vibid:1001000195115": 1,
+      "gas:candidate-vibid:1001000212562": 1,
+      "gas:candidate-vibid:1001000121882": 46,
+      "gas:candidate-vibid:354300466838": 20,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467276&region=0&sub_region=0&type=429",
@@ -7640,15 +7640,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 6,
-      "Логинов Евгений Юрьевич": 9,
-      "Новая Татьяна Анатольевна": 3,
-      "Рудницкий Александр Львович": 0,
-      "Сиганов Сергей Евгеньевич": 1,
-      "Терновых Егор Николаевич": 2,
-      "Швец Любовь Никитична": 66,
-      "Шимкив Андрей Иванович": 51,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000190389": 6,
+      "gas:candidate-vibid:1001000136092": 9,
+      "gas:candidate-vibid:354300466922": 3,
+      "gas:candidate-vibid:1001000112237": 0,
+      "gas:candidate-vibid:1001000195115": 1,
+      "gas:candidate-vibid:1001000212562": 2,
+      "gas:candidate-vibid:1001000121882": 66,
+      "gas:candidate-vibid:354300466838": 51,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467276&region=0&sub_region=0&type=429",
@@ -7698,15 +7698,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 10,
-      "Логинов Евгений Юрьевич": 79,
-      "Новая Татьяна Анатольевна": 10,
-      "Рудницкий Александр Львович": 2,
-      "Сиганов Сергей Евгеньевич": 2,
-      "Терновых Егор Николаевич": 0,
-      "Швец Любовь Никитична": 44,
-      "Шимкив Андрей Иванович": 83,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000190389": 10,
+      "gas:candidate-vibid:1001000136092": 79,
+      "gas:candidate-vibid:354300466922": 10,
+      "gas:candidate-vibid:1001000112237": 2,
+      "gas:candidate-vibid:1001000195115": 2,
+      "gas:candidate-vibid:1001000212562": 0,
+      "gas:candidate-vibid:1001000121882": 44,
+      "gas:candidate-vibid:354300466838": 83,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467277&region=0&sub_region=0&type=429",
@@ -7756,15 +7756,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 5,
-      "Логинов Евгений Юрьевич": 30,
-      "Новая Татьяна Анатольевна": 0,
-      "Рудницкий Александр Львович": 0,
-      "Сиганов Сергей Евгеньевич": 1,
-      "Терновых Егор Николаевич": 0,
-      "Швец Любовь Никитична": 25,
-      "Шимкив Андрей Иванович": 63,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000190389": 5,
+      "gas:candidate-vibid:1001000136092": 30,
+      "gas:candidate-vibid:354300466922": 0,
+      "gas:candidate-vibid:1001000112237": 0,
+      "gas:candidate-vibid:1001000195115": 1,
+      "gas:candidate-vibid:1001000212562": 0,
+      "gas:candidate-vibid:1001000121882": 25,
+      "gas:candidate-vibid:354300466838": 63,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467277&region=0&sub_region=0&type=429",
@@ -7814,15 +7814,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 21,
-      "Логинов Евгений Юрьевич": 72,
-      "Новая Татьяна Анатольевна": 11,
-      "Рудницкий Александр Львович": 1,
-      "Сиганов Сергей Евгеньевич": 4,
-      "Терновых Егор Николаевич": 0,
-      "Швец Любовь Никитична": 35,
-      "Шимкив Андрей Иванович": 134,
-      "Против всех": 40
+      "gas:candidate-vibid:1001000190389": 21,
+      "gas:candidate-vibid:1001000136092": 72,
+      "gas:candidate-vibid:354300466922": 11,
+      "gas:candidate-vibid:1001000112237": 1,
+      "gas:candidate-vibid:1001000195115": 4,
+      "gas:candidate-vibid:1001000212562": 0,
+      "gas:candidate-vibid:1001000121882": 35,
+      "gas:candidate-vibid:354300466838": 134,
+      "special:against-all": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467277&region=0&sub_region=0&type=429",
@@ -7872,15 +7872,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 19,
-      "Логинов Евгений Юрьевич": 43,
-      "Новая Татьяна Анатольевна": 5,
-      "Рудницкий Александр Львович": 0,
-      "Сиганов Сергей Евгеньевич": 2,
-      "Терновых Егор Николаевич": 5,
-      "Швец Любовь Никитична": 37,
-      "Шимкив Андрей Иванович": 68,
-      "Против всех": 28
+      "gas:candidate-vibid:1001000190389": 19,
+      "gas:candidate-vibid:1001000136092": 43,
+      "gas:candidate-vibid:354300466922": 5,
+      "gas:candidate-vibid:1001000112237": 0,
+      "gas:candidate-vibid:1001000195115": 2,
+      "gas:candidate-vibid:1001000212562": 5,
+      "gas:candidate-vibid:1001000121882": 37,
+      "gas:candidate-vibid:354300466838": 68,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467277&region=0&sub_region=0&type=429",
@@ -7930,15 +7930,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 30,
-      "Логинов Евгений Юрьевич": 82,
-      "Новая Татьяна Анатольевна": 6,
-      "Рудницкий Александр Львович": 3,
-      "Сиганов Сергей Евгеньевич": 2,
-      "Терновых Егор Николаевич": 2,
-      "Швец Любовь Никитична": 77,
-      "Шимкив Андрей Иванович": 111,
-      "Против всех": 26
+      "gas:candidate-vibid:1001000190389": 30,
+      "gas:candidate-vibid:1001000136092": 82,
+      "gas:candidate-vibid:354300466922": 6,
+      "gas:candidate-vibid:1001000112237": 3,
+      "gas:candidate-vibid:1001000195115": 2,
+      "gas:candidate-vibid:1001000212562": 2,
+      "gas:candidate-vibid:1001000121882": 77,
+      "gas:candidate-vibid:354300466838": 111,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467277&region=0&sub_region=0&type=429",
@@ -7988,15 +7988,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 1,
-      "Логинов Евгений Юрьевич": 4,
-      "Новая Татьяна Анатольевна": 0,
-      "Рудницкий Александр Львович": 0,
-      "Сиганов Сергей Евгеньевич": 0,
-      "Терновых Егор Николаевич": 0,
-      "Швец Любовь Никитична": 25,
-      "Шимкив Андрей Иванович": 11,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000190389": 1,
+      "gas:candidate-vibid:1001000136092": 4,
+      "gas:candidate-vibid:354300466922": 0,
+      "gas:candidate-vibid:1001000112237": 0,
+      "gas:candidate-vibid:1001000195115": 0,
+      "gas:candidate-vibid:1001000212562": 0,
+      "gas:candidate-vibid:1001000121882": 25,
+      "gas:candidate-vibid:354300466838": 11,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467277&region=0&sub_region=0&type=429",
@@ -8046,15 +8046,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 63,
-      "Логинов Евгений Юрьевич": 56,
-      "Новая Татьяна Анатольевна": 12,
-      "Рудницкий Александр Львович": 5,
-      "Сиганов Сергей Евгеньевич": 1,
-      "Терновых Егор Николаевич": 1,
-      "Швец Любовь Никитична": 60,
-      "Шимкив Андрей Иванович": 85,
-      "Против всех": 32
+      "gas:candidate-vibid:1001000190389": 63,
+      "gas:candidate-vibid:1001000136092": 56,
+      "gas:candidate-vibid:354300466922": 12,
+      "gas:candidate-vibid:1001000112237": 5,
+      "gas:candidate-vibid:1001000195115": 1,
+      "gas:candidate-vibid:1001000212562": 1,
+      "gas:candidate-vibid:1001000121882": 60,
+      "gas:candidate-vibid:354300466838": 85,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467277&region=0&sub_region=0&type=429",
@@ -8104,15 +8104,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 20,
-      "Логинов Евгений Юрьевич": 23,
-      "Новая Татьяна Анатольевна": 1,
-      "Рудницкий Александр Львович": 0,
-      "Сиганов Сергей Евгеньевич": 1,
-      "Терновых Егор Николаевич": 0,
-      "Швец Любовь Никитична": 11,
-      "Шимкив Андрей Иванович": 47,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000190389": 20,
+      "gas:candidate-vibid:1001000136092": 23,
+      "gas:candidate-vibid:354300466922": 1,
+      "gas:candidate-vibid:1001000112237": 0,
+      "gas:candidate-vibid:1001000195115": 1,
+      "gas:candidate-vibid:1001000212562": 0,
+      "gas:candidate-vibid:1001000121882": 11,
+      "gas:candidate-vibid:354300466838": 47,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467277&region=0&sub_region=0&type=429",
@@ -8162,15 +8162,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 9,
-      "Логинов Евгений Юрьевич": 59,
-      "Новая Татьяна Анатольевна": 3,
-      "Рудницкий Александр Львович": 7,
-      "Сиганов Сергей Евгеньевич": 1,
-      "Терновых Егор Николаевич": 4,
-      "Швец Любовь Никитична": 162,
-      "Шимкив Андрей Иванович": 148,
-      "Против всех": 47
+      "gas:candidate-vibid:1001000190389": 9,
+      "gas:candidate-vibid:1001000136092": 59,
+      "gas:candidate-vibid:354300466922": 3,
+      "gas:candidate-vibid:1001000112237": 7,
+      "gas:candidate-vibid:1001000195115": 1,
+      "gas:candidate-vibid:1001000212562": 4,
+      "gas:candidate-vibid:1001000121882": 162,
+      "gas:candidate-vibid:354300466838": 148,
+      "special:against-all": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467277&region=0&sub_region=0&type=429",
@@ -8220,15 +8220,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 8,
-      "Логинов Евгений Юрьевич": 60,
-      "Новая Татьяна Анатольевна": 10,
-      "Рудницкий Александр Львович": 5,
-      "Сиганов Сергей Евгеньевич": 3,
-      "Терновых Егор Николаевич": 8,
-      "Швец Любовь Никитична": 93,
-      "Шимкив Андрей Иванович": 145,
-      "Против всех": 34
+      "gas:candidate-vibid:1001000190389": 8,
+      "gas:candidate-vibid:1001000136092": 60,
+      "gas:candidate-vibid:354300466922": 10,
+      "gas:candidate-vibid:1001000112237": 5,
+      "gas:candidate-vibid:1001000195115": 3,
+      "gas:candidate-vibid:1001000212562": 8,
+      "gas:candidate-vibid:1001000121882": 93,
+      "gas:candidate-vibid:354300466838": 145,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467277&region=0&sub_region=0&type=429",
@@ -8278,15 +8278,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 1,
-      "Логинов Евгений Юрьевич": 21,
-      "Новая Татьяна Анатольевна": 2,
-      "Рудницкий Александр Львович": 0,
-      "Сиганов Сергей Евгеньевич": 1,
-      "Терновых Егор Николаевич": 1,
-      "Швец Любовь Никитична": 20,
-      "Шимкив Андрей Иванович": 79,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000190389": 1,
+      "gas:candidate-vibid:1001000136092": 21,
+      "gas:candidate-vibid:354300466922": 2,
+      "gas:candidate-vibid:1001000112237": 0,
+      "gas:candidate-vibid:1001000195115": 1,
+      "gas:candidate-vibid:1001000212562": 1,
+      "gas:candidate-vibid:1001000121882": 20,
+      "gas:candidate-vibid:354300466838": 79,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467277&region=0&sub_region=0&type=429",
@@ -8336,15 +8336,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 2,
-      "Логинов Евгений Юрьевич": 21,
-      "Новая Татьяна Анатольевна": 2,
-      "Рудницкий Александр Львович": 0,
-      "Сиганов Сергей Евгеньевич": 0,
-      "Терновых Егор Николаевич": 0,
-      "Швец Любовь Никитична": 3,
-      "Шимкив Андрей Иванович": 63,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000190389": 2,
+      "gas:candidate-vibid:1001000136092": 21,
+      "gas:candidate-vibid:354300466922": 2,
+      "gas:candidate-vibid:1001000112237": 0,
+      "gas:candidate-vibid:1001000195115": 0,
+      "gas:candidate-vibid:1001000212562": 0,
+      "gas:candidate-vibid:1001000121882": 3,
+      "gas:candidate-vibid:354300466838": 63,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467277&region=0&sub_region=0&type=429",
@@ -8394,15 +8394,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 23,
-      "Логинов Евгений Юрьевич": 64,
-      "Новая Татьяна Анатольевна": 8,
-      "Рудницкий Александр Львович": 1,
-      "Сиганов Сергей Евгеньевич": 2,
-      "Терновых Егор Николаевич": 5,
-      "Швец Любовь Никитична": 59,
-      "Шимкив Андрей Иванович": 133,
-      "Против всех": 39
+      "gas:candidate-vibid:1001000190389": 23,
+      "gas:candidate-vibid:1001000136092": 64,
+      "gas:candidate-vibid:354300466922": 8,
+      "gas:candidate-vibid:1001000112237": 1,
+      "gas:candidate-vibid:1001000195115": 2,
+      "gas:candidate-vibid:1001000212562": 5,
+      "gas:candidate-vibid:1001000121882": 59,
+      "gas:candidate-vibid:354300466838": 133,
+      "special:against-all": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467277&region=0&sub_region=0&type=429",
@@ -8452,15 +8452,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 25,
-      "Логинов Евгений Юрьевич": 83,
-      "Новая Татьяна Анатольевна": 7,
-      "Рудницкий Александр Львович": 3,
-      "Сиганов Сергей Евгеньевич": 1,
-      "Терновых Егор Николаевич": 5,
-      "Швец Любовь Никитична": 47,
-      "Шимкив Андрей Иванович": 49,
-      "Против всех": 27
+      "gas:candidate-vibid:1001000190389": 25,
+      "gas:candidate-vibid:1001000136092": 83,
+      "gas:candidate-vibid:354300466922": 7,
+      "gas:candidate-vibid:1001000112237": 3,
+      "gas:candidate-vibid:1001000195115": 1,
+      "gas:candidate-vibid:1001000212562": 5,
+      "gas:candidate-vibid:1001000121882": 47,
+      "gas:candidate-vibid:354300466838": 49,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467277&region=0&sub_region=0&type=429",
@@ -8510,15 +8510,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 40,
-      "Логинов Евгений Юрьевич": 81,
-      "Новая Татьяна Анатольевна": 8,
-      "Рудницкий Александр Львович": 8,
-      "Сиганов Сергей Евгеньевич": 4,
-      "Терновых Егор Николаевич": 4,
-      "Швец Любовь Никитична": 66,
-      "Шимкив Андрей Иванович": 188,
-      "Против всех": 56
+      "gas:candidate-vibid:1001000190389": 40,
+      "gas:candidate-vibid:1001000136092": 81,
+      "gas:candidate-vibid:354300466922": 8,
+      "gas:candidate-vibid:1001000112237": 8,
+      "gas:candidate-vibid:1001000195115": 4,
+      "gas:candidate-vibid:1001000212562": 4,
+      "gas:candidate-vibid:1001000121882": 66,
+      "gas:candidate-vibid:354300466838": 188,
+      "special:against-all": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467277&region=0&sub_region=0&type=429",
@@ -8568,15 +8568,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 10,
-      "Логинов Евгений Юрьевич": 12,
-      "Новая Татьяна Анатольевна": 1,
-      "Рудницкий Александр Львович": 0,
-      "Сиганов Сергей Евгеньевич": 1,
-      "Терновых Егор Николаевич": 2,
-      "Швец Любовь Никитична": 27,
-      "Шимкив Андрей Иванович": 63,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000190389": 10,
+      "gas:candidate-vibid:1001000136092": 12,
+      "gas:candidate-vibid:354300466922": 1,
+      "gas:candidate-vibid:1001000112237": 0,
+      "gas:candidate-vibid:1001000195115": 1,
+      "gas:candidate-vibid:1001000212562": 2,
+      "gas:candidate-vibid:1001000121882": 27,
+      "gas:candidate-vibid:354300466838": 63,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467277&region=0&sub_region=0&type=429",
@@ -8626,15 +8626,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 16,
-      "Логинов Евгений Юрьевич": 17,
-      "Новая Татьяна Анатольевна": 2,
-      "Рудницкий Александр Львович": 2,
-      "Сиганов Сергей Евгеньевич": 0,
-      "Терновых Егор Николаевич": 2,
-      "Швец Любовь Никитична": 22,
-      "Шимкив Андрей Иванович": 67,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000190389": 16,
+      "gas:candidate-vibid:1001000136092": 17,
+      "gas:candidate-vibid:354300466922": 2,
+      "gas:candidate-vibid:1001000112237": 2,
+      "gas:candidate-vibid:1001000195115": 0,
+      "gas:candidate-vibid:1001000212562": 2,
+      "gas:candidate-vibid:1001000121882": 22,
+      "gas:candidate-vibid:354300466838": 67,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467277&region=0&sub_region=0&type=429",
@@ -8684,15 +8684,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 12,
-      "Логинов Евгений Юрьевич": 34,
-      "Новая Татьяна Анатольевна": 10,
-      "Рудницкий Александр Львович": 2,
-      "Сиганов Сергей Евгеньевич": 1,
-      "Терновых Егор Николаевич": 1,
-      "Швец Любовь Никитична": 26,
-      "Шимкив Андрей Иванович": 25,
-      "Против всех": 36
+      "gas:candidate-vibid:1001000190389": 12,
+      "gas:candidate-vibid:1001000136092": 34,
+      "gas:candidate-vibid:354300466922": 10,
+      "gas:candidate-vibid:1001000112237": 2,
+      "gas:candidate-vibid:1001000195115": 1,
+      "gas:candidate-vibid:1001000212562": 1,
+      "gas:candidate-vibid:1001000121882": 26,
+      "gas:candidate-vibid:354300466838": 25,
+      "special:against-all": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467277&region=0&sub_region=0&type=429",
@@ -8742,15 +8742,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 14,
-      "Логинов Евгений Юрьевич": 66,
-      "Новая Татьяна Анатольевна": 8,
-      "Рудницкий Александр Львович": 0,
-      "Сиганов Сергей Евгеньевич": 0,
-      "Терновых Егор Николаевич": 2,
-      "Швец Любовь Никитична": 39,
-      "Шимкив Андрей Иванович": 167,
-      "Против всех": 38
+      "gas:candidate-vibid:1001000190389": 14,
+      "gas:candidate-vibid:1001000136092": 66,
+      "gas:candidate-vibid:354300466922": 8,
+      "gas:candidate-vibid:1001000112237": 0,
+      "gas:candidate-vibid:1001000195115": 0,
+      "gas:candidate-vibid:1001000212562": 2,
+      "gas:candidate-vibid:1001000121882": 39,
+      "gas:candidate-vibid:354300466838": 167,
+      "special:against-all": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467277&region=0&sub_region=0&type=429",
@@ -8800,15 +8800,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 12,
-      "Логинов Евгений Юрьевич": 33,
-      "Новая Татьяна Анатольевна": 2,
-      "Рудницкий Александр Львович": 4,
-      "Сиганов Сергей Евгеньевич": 0,
-      "Терновых Егор Николаевич": 0,
-      "Швец Любовь Никитична": 13,
-      "Шимкив Андрей Иванович": 71,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000190389": 12,
+      "gas:candidate-vibid:1001000136092": 33,
+      "gas:candidate-vibid:354300466922": 2,
+      "gas:candidate-vibid:1001000112237": 4,
+      "gas:candidate-vibid:1001000195115": 0,
+      "gas:candidate-vibid:1001000212562": 0,
+      "gas:candidate-vibid:1001000121882": 13,
+      "gas:candidate-vibid:354300466838": 71,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467277&region=0&sub_region=0&type=429",
@@ -8858,15 +8858,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 47,
-      "Логинов Евгений Юрьевич": 232,
-      "Новая Татьяна Анатольевна": 16,
-      "Рудницкий Александр Львович": 5,
-      "Сиганов Сергей Евгеньевич": 3,
-      "Терновых Егор Николаевич": 6,
-      "Швец Любовь Никитична": 130,
-      "Шимкив Андрей Иванович": 216,
-      "Против всех": 89
+      "gas:candidate-vibid:1001000190389": 47,
+      "gas:candidate-vibid:1001000136092": 232,
+      "gas:candidate-vibid:354300466922": 16,
+      "gas:candidate-vibid:1001000112237": 5,
+      "gas:candidate-vibid:1001000195115": 3,
+      "gas:candidate-vibid:1001000212562": 6,
+      "gas:candidate-vibid:1001000121882": 130,
+      "gas:candidate-vibid:354300466838": 216,
+      "special:against-all": 89
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467277&region=0&sub_region=0&type=429",
@@ -8916,15 +8916,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 66,
-      "Логинов Евгений Юрьевич": 54,
-      "Новая Татьяна Анатольевна": 6,
-      "Рудницкий Александр Львович": 5,
-      "Сиганов Сергей Евгеньевич": 3,
-      "Терновых Егор Николаевич": 4,
-      "Швец Любовь Никитична": 42,
-      "Шимкив Андрей Иванович": 62,
-      "Против всех": 48
+      "gas:candidate-vibid:1001000190389": 66,
+      "gas:candidate-vibid:1001000136092": 54,
+      "gas:candidate-vibid:354300466922": 6,
+      "gas:candidate-vibid:1001000112237": 5,
+      "gas:candidate-vibid:1001000195115": 3,
+      "gas:candidate-vibid:1001000212562": 4,
+      "gas:candidate-vibid:1001000121882": 42,
+      "gas:candidate-vibid:354300466838": 62,
+      "special:against-all": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467277&region=0&sub_region=0&type=429",
@@ -8974,15 +8974,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 7,
-      "Логинов Евгений Юрьевич": 11,
-      "Новая Татьяна Анатольевна": 5,
-      "Рудницкий Александр Львович": 0,
-      "Сиганов Сергей Евгеньевич": 0,
-      "Терновых Егор Николаевич": 2,
-      "Швец Любовь Никитична": 26,
-      "Шимкив Андрей Иванович": 24,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000190389": 7,
+      "gas:candidate-vibid:1001000136092": 11,
+      "gas:candidate-vibid:354300466922": 5,
+      "gas:candidate-vibid:1001000112237": 0,
+      "gas:candidate-vibid:1001000195115": 0,
+      "gas:candidate-vibid:1001000212562": 2,
+      "gas:candidate-vibid:1001000121882": 26,
+      "gas:candidate-vibid:354300466838": 24,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467277&region=0&sub_region=0&type=429",
@@ -9032,15 +9032,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 17,
-      "Логинов Евгений Юрьевич": 51,
-      "Новая Татьяна Анатольевна": 12,
-      "Рудницкий Александр Львович": 0,
-      "Сиганов Сергей Евгеньевич": 4,
-      "Терновых Егор Николаевич": 4,
-      "Швец Любовь Никитична": 52,
-      "Шимкив Андрей Иванович": 92,
-      "Против всех": 29
+      "gas:candidate-vibid:1001000190389": 17,
+      "gas:candidate-vibid:1001000136092": 51,
+      "gas:candidate-vibid:354300466922": 12,
+      "gas:candidate-vibid:1001000112237": 0,
+      "gas:candidate-vibid:1001000195115": 4,
+      "gas:candidate-vibid:1001000212562": 4,
+      "gas:candidate-vibid:1001000121882": 52,
+      "gas:candidate-vibid:354300466838": 92,
+      "special:against-all": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467277&region=0&sub_region=0&type=429",
@@ -9090,15 +9090,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 2,
-      "Логинов Евгений Юрьевич": 48,
-      "Новая Татьяна Анатольевна": 1,
-      "Рудницкий Александр Львович": 2,
-      "Сиганов Сергей Евгеньевич": 1,
-      "Терновых Егор Николаевич": 1,
-      "Швец Любовь Никитична": 20,
-      "Шимкив Андрей Иванович": 65,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000190389": 2,
+      "gas:candidate-vibid:1001000136092": 48,
+      "gas:candidate-vibid:354300466922": 1,
+      "gas:candidate-vibid:1001000112237": 2,
+      "gas:candidate-vibid:1001000195115": 1,
+      "gas:candidate-vibid:1001000212562": 1,
+      "gas:candidate-vibid:1001000121882": 20,
+      "gas:candidate-vibid:354300466838": 65,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467277&region=0&sub_region=0&type=429",
@@ -9148,15 +9148,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 14,
-      "Логинов Евгений Юрьевич": 18,
-      "Новая Татьяна Анатольевна": 0,
-      "Рудницкий Александр Львович": 0,
-      "Сиганов Сергей Евгеньевич": 2,
-      "Терновых Егор Николаевич": 0,
-      "Швец Любовь Никитична": 48,
-      "Шимкив Андрей Иванович": 31,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000190389": 14,
+      "gas:candidate-vibid:1001000136092": 18,
+      "gas:candidate-vibid:354300466922": 0,
+      "gas:candidate-vibid:1001000112237": 0,
+      "gas:candidate-vibid:1001000195115": 2,
+      "gas:candidate-vibid:1001000212562": 0,
+      "gas:candidate-vibid:1001000121882": 48,
+      "gas:candidate-vibid:354300466838": 31,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467277&region=0&sub_region=0&type=429",
@@ -9206,15 +9206,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 46,
-      "Логинов Евгений Юрьевич": 57,
-      "Новая Татьяна Анатольевна": 19,
-      "Рудницкий Александр Львович": 1,
-      "Сиганов Сергей Евгеньевич": 2,
-      "Терновых Егор Николаевич": 8,
-      "Швец Любовь Никитична": 53,
-      "Шимкив Андрей Иванович": 116,
-      "Против всех": 44
+      "gas:candidate-vibid:1001000190389": 46,
+      "gas:candidate-vibid:1001000136092": 57,
+      "gas:candidate-vibid:354300466922": 19,
+      "gas:candidate-vibid:1001000112237": 1,
+      "gas:candidate-vibid:1001000195115": 2,
+      "gas:candidate-vibid:1001000212562": 8,
+      "gas:candidate-vibid:1001000121882": 53,
+      "gas:candidate-vibid:354300466838": 116,
+      "special:against-all": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467277&region=0&sub_region=0&type=429",
@@ -9264,15 +9264,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 42,
-      "Логинов Евгений Юрьевич": 115,
-      "Новая Татьяна Анатольевна": 29,
-      "Рудницкий Александр Львович": 3,
-      "Сиганов Сергей Евгеньевич": 2,
-      "Терновых Егор Николаевич": 8,
-      "Швец Любовь Никитична": 126,
-      "Шимкив Андрей Иванович": 129,
-      "Против всех": 37
+      "gas:candidate-vibid:1001000190389": 42,
+      "gas:candidate-vibid:1001000136092": 115,
+      "gas:candidate-vibid:354300466922": 29,
+      "gas:candidate-vibid:1001000112237": 3,
+      "gas:candidate-vibid:1001000195115": 2,
+      "gas:candidate-vibid:1001000212562": 8,
+      "gas:candidate-vibid:1001000121882": 126,
+      "gas:candidate-vibid:354300466838": 129,
+      "special:against-all": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467277&region=0&sub_region=0&type=429",
@@ -9322,15 +9322,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 71,
-      "Логинов Евгений Юрьевич": 189,
-      "Новая Татьяна Анатольевна": 48,
-      "Рудницкий Александр Львович": 15,
-      "Сиганов Сергей Евгеньевич": 2,
-      "Терновых Егор Николаевич": 9,
-      "Швец Любовь Никитична": 283,
-      "Шимкив Андрей Иванович": 207,
-      "Против всех": 99
+      "gas:candidate-vibid:1001000190389": 71,
+      "gas:candidate-vibid:1001000136092": 189,
+      "gas:candidate-vibid:354300466922": 48,
+      "gas:candidate-vibid:1001000112237": 15,
+      "gas:candidate-vibid:1001000195115": 2,
+      "gas:candidate-vibid:1001000212562": 9,
+      "gas:candidate-vibid:1001000121882": 283,
+      "gas:candidate-vibid:354300466838": 207,
+      "special:against-all": 99
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467277&region=0&sub_region=0&type=429",
@@ -9380,15 +9380,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 55,
-      "Логинов Евгений Юрьевич": 208,
-      "Новая Татьяна Анатольевна": 25,
-      "Рудницкий Александр Львович": 9,
-      "Сиганов Сергей Евгеньевич": 2,
-      "Терновых Егор Николаевич": 20,
-      "Швец Любовь Никитична": 223,
-      "Шимкив Андрей Иванович": 188,
-      "Против всех": 121
+      "gas:candidate-vibid:1001000190389": 55,
+      "gas:candidate-vibid:1001000136092": 208,
+      "gas:candidate-vibid:354300466922": 25,
+      "gas:candidate-vibid:1001000112237": 9,
+      "gas:candidate-vibid:1001000195115": 2,
+      "gas:candidate-vibid:1001000212562": 20,
+      "gas:candidate-vibid:1001000121882": 223,
+      "gas:candidate-vibid:354300466838": 188,
+      "special:against-all": 121
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467277&region=0&sub_region=0&type=429",
@@ -9438,15 +9438,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 21,
-      "Логинов Евгений Юрьевич": 111,
-      "Новая Татьяна Анатольевна": 7,
-      "Рудницкий Александр Львович": 11,
-      "Сиганов Сергей Евгеньевич": 2,
-      "Терновых Егор Николаевич": 5,
-      "Швец Любовь Никитична": 68,
-      "Шимкив Андрей Иванович": 95,
-      "Против всех": 49
+      "gas:candidate-vibid:1001000190389": 21,
+      "gas:candidate-vibid:1001000136092": 111,
+      "gas:candidate-vibid:354300466922": 7,
+      "gas:candidate-vibid:1001000112237": 11,
+      "gas:candidate-vibid:1001000195115": 2,
+      "gas:candidate-vibid:1001000212562": 5,
+      "gas:candidate-vibid:1001000121882": 68,
+      "gas:candidate-vibid:354300466838": 95,
+      "special:against-all": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467277&region=0&sub_region=0&type=429",
@@ -9496,15 +9496,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 52,
-      "Логинов Евгений Юрьевич": 147,
-      "Новая Татьяна Анатольевна": 25,
-      "Рудницкий Александр Львович": 2,
-      "Сиганов Сергей Евгеньевич": 2,
-      "Терновых Егор Николаевич": 16,
-      "Швец Любовь Никитична": 90,
-      "Шимкив Андрей Иванович": 164,
-      "Против всех": 80
+      "gas:candidate-vibid:1001000190389": 52,
+      "gas:candidate-vibid:1001000136092": 147,
+      "gas:candidate-vibid:354300466922": 25,
+      "gas:candidate-vibid:1001000112237": 2,
+      "gas:candidate-vibid:1001000195115": 2,
+      "gas:candidate-vibid:1001000212562": 16,
+      "gas:candidate-vibid:1001000121882": 90,
+      "gas:candidate-vibid:354300466838": 164,
+      "special:against-all": 80
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467277&region=0&sub_region=0&type=429",
@@ -9554,15 +9554,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 43,
-      "Логинов Евгений Юрьевич": 274,
-      "Новая Татьяна Анатольевна": 24,
-      "Рудницкий Александр Львович": 6,
-      "Сиганов Сергей Евгеньевич": 2,
-      "Терновых Егор Николаевич": 15,
-      "Швец Любовь Никитична": 270,
-      "Шимкив Андрей Иванович": 278,
-      "Против всех": 93
+      "gas:candidate-vibid:1001000190389": 43,
+      "gas:candidate-vibid:1001000136092": 274,
+      "gas:candidate-vibid:354300466922": 24,
+      "gas:candidate-vibid:1001000112237": 6,
+      "gas:candidate-vibid:1001000195115": 2,
+      "gas:candidate-vibid:1001000212562": 15,
+      "gas:candidate-vibid:1001000121882": 270,
+      "gas:candidate-vibid:354300466838": 278,
+      "special:against-all": 93
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467277&region=0&sub_region=0&type=429",
@@ -9612,15 +9612,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 13,
-      "Логинов Евгений Юрьевич": 124,
-      "Новая Татьяна Анатольевна": 17,
-      "Рудницкий Александр Львович": 2,
-      "Сиганов Сергей Евгеньевич": 0,
-      "Терновых Егор Николаевич": 4,
-      "Швец Любовь Никитична": 82,
-      "Шимкив Андрей Иванович": 72,
-      "Против всех": 37
+      "gas:candidate-vibid:1001000190389": 13,
+      "gas:candidate-vibid:1001000136092": 124,
+      "gas:candidate-vibid:354300466922": 17,
+      "gas:candidate-vibid:1001000112237": 2,
+      "gas:candidate-vibid:1001000195115": 0,
+      "gas:candidate-vibid:1001000212562": 4,
+      "gas:candidate-vibid:1001000121882": 82,
+      "gas:candidate-vibid:354300466838": 72,
+      "special:against-all": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467277&region=0&sub_region=0&type=429",
@@ -9670,15 +9670,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 23,
-      "Логинов Евгений Юрьевич": 158,
-      "Новая Татьяна Анатольевна": 21,
-      "Рудницкий Александр Львович": 4,
-      "Сиганов Сергей Евгеньевич": 4,
-      "Терновых Егор Николаевич": 10,
-      "Швец Любовь Никитична": 84,
-      "Шимкив Андрей Иванович": 94,
-      "Против всех": 60
+      "gas:candidate-vibid:1001000190389": 23,
+      "gas:candidate-vibid:1001000136092": 158,
+      "gas:candidate-vibid:354300466922": 21,
+      "gas:candidate-vibid:1001000112237": 4,
+      "gas:candidate-vibid:1001000195115": 4,
+      "gas:candidate-vibid:1001000212562": 10,
+      "gas:candidate-vibid:1001000121882": 84,
+      "gas:candidate-vibid:354300466838": 94,
+      "special:against-all": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467277&region=0&sub_region=0&type=429",
@@ -9728,15 +9728,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 42,
-      "Логинов Евгений Юрьевич": 166,
-      "Новая Татьяна Анатольевна": 18,
-      "Рудницкий Александр Львович": 6,
-      "Сиганов Сергей Евгеньевич": 5,
-      "Терновых Егор Николаевич": 8,
-      "Швец Любовь Никитична": 143,
-      "Шимкив Андрей Иванович": 93,
-      "Против всех": 78
+      "gas:candidate-vibid:1001000190389": 42,
+      "gas:candidate-vibid:1001000136092": 166,
+      "gas:candidate-vibid:354300466922": 18,
+      "gas:candidate-vibid:1001000112237": 6,
+      "gas:candidate-vibid:1001000195115": 5,
+      "gas:candidate-vibid:1001000212562": 8,
+      "gas:candidate-vibid:1001000121882": 143,
+      "gas:candidate-vibid:354300466838": 93,
+      "special:against-all": 78
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467277&region=0&sub_region=0&type=429",
@@ -9786,15 +9786,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 42,
-      "Логинов Евгений Юрьевич": 82,
-      "Новая Татьяна Анатольевна": 4,
-      "Рудницкий Александр Львович": 6,
-      "Сиганов Сергей Евгеньевич": 1,
-      "Терновых Егор Николаевич": 11,
-      "Швец Любовь Никитична": 103,
-      "Шимкив Андрей Иванович": 169,
-      "Против всех": 63
+      "gas:candidate-vibid:1001000190389": 42,
+      "gas:candidate-vibid:1001000136092": 82,
+      "gas:candidate-vibid:354300466922": 4,
+      "gas:candidate-vibid:1001000112237": 6,
+      "gas:candidate-vibid:1001000195115": 1,
+      "gas:candidate-vibid:1001000212562": 11,
+      "gas:candidate-vibid:1001000121882": 103,
+      "gas:candidate-vibid:354300466838": 169,
+      "special:against-all": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467277&region=0&sub_region=0&type=429",
@@ -9844,15 +9844,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 38,
-      "Логинов Евгений Юрьевич": 116,
-      "Новая Татьяна Анатольевна": 23,
-      "Рудницкий Александр Львович": 12,
-      "Сиганов Сергей Евгеньевич": 8,
-      "Терновых Егор Николаевич": 15,
-      "Швец Любовь Никитична": 114,
-      "Шимкив Андрей Иванович": 96,
-      "Против всех": 88
+      "gas:candidate-vibid:1001000190389": 38,
+      "gas:candidate-vibid:1001000136092": 116,
+      "gas:candidate-vibid:354300466922": 23,
+      "gas:candidate-vibid:1001000112237": 12,
+      "gas:candidate-vibid:1001000195115": 8,
+      "gas:candidate-vibid:1001000212562": 15,
+      "gas:candidate-vibid:1001000121882": 114,
+      "gas:candidate-vibid:354300466838": 96,
+      "special:against-all": 88
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467278&region=0&sub_region=0&type=429",
@@ -9902,15 +9902,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 113,
-      "Логинов Евгений Юрьевич": 175,
-      "Новая Татьяна Анатольевна": 28,
-      "Рудницкий Александр Львович": 19,
-      "Сиганов Сергей Евгеньевич": 5,
-      "Терновых Егор Николаевич": 37,
-      "Швец Любовь Никитична": 341,
-      "Шимкив Андрей Иванович": 256,
-      "Против всех": 274
+      "gas:candidate-vibid:1001000190389": 113,
+      "gas:candidate-vibid:1001000136092": 175,
+      "gas:candidate-vibid:354300466922": 28,
+      "gas:candidate-vibid:1001000112237": 19,
+      "gas:candidate-vibid:1001000195115": 5,
+      "gas:candidate-vibid:1001000212562": 37,
+      "gas:candidate-vibid:1001000121882": 341,
+      "gas:candidate-vibid:354300466838": 256,
+      "special:against-all": 274
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467278&region=0&sub_region=0&type=429",
@@ -9960,15 +9960,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 154,
-      "Логинов Евгений Юрьевич": 171,
-      "Новая Татьяна Анатольевна": 38,
-      "Рудницкий Александр Львович": 25,
-      "Сиганов Сергей Евгеньевич": 15,
-      "Терновых Егор Николаевич": 26,
-      "Швец Любовь Никитична": 288,
-      "Шимкив Андрей Иванович": 294,
-      "Против всех": 291
+      "gas:candidate-vibid:1001000190389": 154,
+      "gas:candidate-vibid:1001000136092": 171,
+      "gas:candidate-vibid:354300466922": 38,
+      "gas:candidate-vibid:1001000112237": 25,
+      "gas:candidate-vibid:1001000195115": 15,
+      "gas:candidate-vibid:1001000212562": 26,
+      "gas:candidate-vibid:1001000121882": 288,
+      "gas:candidate-vibid:354300466838": 294,
+      "special:against-all": 291
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467278&region=0&sub_region=0&type=429",
@@ -10018,15 +10018,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 146,
-      "Логинов Евгений Юрьевич": 193,
-      "Новая Татьяна Анатольевна": 55,
-      "Рудницкий Александр Львович": 15,
-      "Сиганов Сергей Евгеньевич": 10,
-      "Терновых Егор Николаевич": 27,
-      "Швец Любовь Никитична": 188,
-      "Шимкив Андрей Иванович": 129,
-      "Против всех": 253
+      "gas:candidate-vibid:1001000190389": 146,
+      "gas:candidate-vibid:1001000136092": 193,
+      "gas:candidate-vibid:354300466922": 55,
+      "gas:candidate-vibid:1001000112237": 15,
+      "gas:candidate-vibid:1001000195115": 10,
+      "gas:candidate-vibid:1001000212562": 27,
+      "gas:candidate-vibid:1001000121882": 188,
+      "gas:candidate-vibid:354300466838": 129,
+      "special:against-all": 253
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467278&region=0&sub_region=0&type=429",
@@ -10076,15 +10076,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 59,
-      "Логинов Евгений Юрьевич": 18,
-      "Новая Татьяна Анатольевна": 87,
-      "Рудницкий Александр Львович": 11,
-      "Сиганов Сергей Евгеньевич": 8,
-      "Терновых Егор Николаевич": 23,
-      "Швец Любовь Никитична": 283,
-      "Шимкив Андрей Иванович": 164,
-      "Против всех": 86
+      "gas:candidate-vibid:1001000190389": 59,
+      "gas:candidate-vibid:1001000136092": 18,
+      "gas:candidate-vibid:354300466922": 87,
+      "gas:candidate-vibid:1001000112237": 11,
+      "gas:candidate-vibid:1001000195115": 8,
+      "gas:candidate-vibid:1001000212562": 23,
+      "gas:candidate-vibid:1001000121882": 283,
+      "gas:candidate-vibid:354300466838": 164,
+      "special:against-all": 86
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467278&region=0&sub_region=0&type=429",
@@ -10134,15 +10134,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 68,
-      "Логинов Евгений Юрьевич": 70,
-      "Новая Татьяна Анатольевна": 20,
-      "Рудницкий Александр Львович": 18,
-      "Сиганов Сергей Евгеньевич": 8,
-      "Терновых Егор Николаевич": 18,
-      "Швец Любовь Никитична": 330,
-      "Шимкив Андрей Иванович": 173,
-      "Против всех": 104
+      "gas:candidate-vibid:1001000190389": 68,
+      "gas:candidate-vibid:1001000136092": 70,
+      "gas:candidate-vibid:354300466922": 20,
+      "gas:candidate-vibid:1001000112237": 18,
+      "gas:candidate-vibid:1001000195115": 8,
+      "gas:candidate-vibid:1001000212562": 18,
+      "gas:candidate-vibid:1001000121882": 330,
+      "gas:candidate-vibid:354300466838": 173,
+      "special:against-all": 104
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467278&region=0&sub_region=0&type=429",
@@ -10192,15 +10192,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 36,
-      "Логинов Евгений Юрьевич": 33,
-      "Новая Татьяна Анатольевна": 16,
-      "Рудницкий Александр Львович": 8,
-      "Сиганов Сергей Евгеньевич": 1,
-      "Терновых Егор Николаевич": 5,
-      "Швец Любовь Никитична": 76,
-      "Шимкив Андрей Иванович": 56,
-      "Против всех": 81
+      "gas:candidate-vibid:1001000190389": 36,
+      "gas:candidate-vibid:1001000136092": 33,
+      "gas:candidate-vibid:354300466922": 16,
+      "gas:candidate-vibid:1001000112237": 8,
+      "gas:candidate-vibid:1001000195115": 1,
+      "gas:candidate-vibid:1001000212562": 5,
+      "gas:candidate-vibid:1001000121882": 76,
+      "gas:candidate-vibid:354300466838": 56,
+      "special:against-all": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467278&region=0&sub_region=0&type=429",
@@ -10250,15 +10250,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 44,
-      "Логинов Евгений Юрьевич": 92,
-      "Новая Татьяна Анатольевна": 41,
-      "Рудницкий Александр Львович": 12,
-      "Сиганов Сергей Евгеньевич": 5,
-      "Терновых Егор Николаевич": 9,
-      "Швец Любовь Никитична": 232,
-      "Шимкив Андрей Иванович": 90,
-      "Против всех": 118
+      "gas:candidate-vibid:1001000190389": 44,
+      "gas:candidate-vibid:1001000136092": 92,
+      "gas:candidate-vibid:354300466922": 41,
+      "gas:candidate-vibid:1001000112237": 12,
+      "gas:candidate-vibid:1001000195115": 5,
+      "gas:candidate-vibid:1001000212562": 9,
+      "gas:candidate-vibid:1001000121882": 232,
+      "gas:candidate-vibid:354300466838": 90,
+      "special:against-all": 118
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467278&region=0&sub_region=0&type=429",
@@ -10308,15 +10308,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 1,
-      "Логинов Евгений Юрьевич": 21,
-      "Новая Татьяна Анатольевна": 5,
-      "Рудницкий Александр Львович": 1,
-      "Сиганов Сергей Евгеньевич": 2,
-      "Терновых Егор Николаевич": 2,
-      "Швец Любовь Никитична": 29,
-      "Шимкив Андрей Иванович": 35,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000190389": 1,
+      "gas:candidate-vibid:1001000136092": 21,
+      "gas:candidate-vibid:354300466922": 5,
+      "gas:candidate-vibid:1001000112237": 1,
+      "gas:candidate-vibid:1001000195115": 2,
+      "gas:candidate-vibid:1001000212562": 2,
+      "gas:candidate-vibid:1001000121882": 29,
+      "gas:candidate-vibid:354300466838": 35,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467278&region=0&sub_region=0&type=429",
@@ -10366,15 +10366,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 1,
-      "Логинов Евгений Юрьевич": 25,
-      "Новая Татьяна Анатольевна": 9,
-      "Рудницкий Александр Львович": 2,
-      "Сиганов Сергей Евгеньевич": 1,
-      "Терновых Егор Николаевич": 2,
-      "Швец Любовь Никитична": 31,
-      "Шимкив Андрей Иванович": 43,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000190389": 1,
+      "gas:candidate-vibid:1001000136092": 25,
+      "gas:candidate-vibid:354300466922": 9,
+      "gas:candidate-vibid:1001000112237": 2,
+      "gas:candidate-vibid:1001000195115": 1,
+      "gas:candidate-vibid:1001000212562": 2,
+      "gas:candidate-vibid:1001000121882": 31,
+      "gas:candidate-vibid:354300466838": 43,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467278&region=0&sub_region=0&type=429",
@@ -10424,15 +10424,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 9,
-      "Логинов Евгений Юрьевич": 21,
-      "Новая Татьяна Анатольевна": 11,
-      "Рудницкий Александр Львович": 2,
-      "Сиганов Сергей Евгеньевич": 0,
-      "Терновых Егор Николаевич": 5,
-      "Швец Любовь Никитична": 16,
-      "Шимкив Андрей Иванович": 33,
-      "Против всех": 41
+      "gas:candidate-vibid:1001000190389": 9,
+      "gas:candidate-vibid:1001000136092": 21,
+      "gas:candidate-vibid:354300466922": 11,
+      "gas:candidate-vibid:1001000112237": 2,
+      "gas:candidate-vibid:1001000195115": 0,
+      "gas:candidate-vibid:1001000212562": 5,
+      "gas:candidate-vibid:1001000121882": 16,
+      "gas:candidate-vibid:354300466838": 33,
+      "special:against-all": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467278&region=0&sub_region=0&type=429",
@@ -10482,15 +10482,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 83,
-      "Логинов Евгений Юрьевич": 200,
-      "Новая Татьяна Анатольевна": 41,
-      "Рудницкий Александр Львович": 38,
-      "Сиганов Сергей Евгеньевич": 5,
-      "Терновых Егор Николаевич": 125,
-      "Швец Любовь Никитична": 255,
-      "Шимкив Андрей Иванович": 352,
-      "Против всех": 216
+      "gas:candidate-vibid:1001000190389": 83,
+      "gas:candidate-vibid:1001000136092": 200,
+      "gas:candidate-vibid:354300466922": 41,
+      "gas:candidate-vibid:1001000112237": 38,
+      "gas:candidate-vibid:1001000195115": 5,
+      "gas:candidate-vibid:1001000212562": 125,
+      "gas:candidate-vibid:1001000121882": 255,
+      "gas:candidate-vibid:354300466838": 352,
+      "special:against-all": 216
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467278&region=0&sub_region=0&type=429",
@@ -10540,15 +10540,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 92,
-      "Логинов Евгений Юрьевич": 155,
-      "Новая Татьяна Анатольевна": 37,
-      "Рудницкий Александр Львович": 13,
-      "Сиганов Сергей Евгеньевич": 6,
-      "Терновых Егор Николаевич": 32,
-      "Швец Любовь Никитична": 273,
-      "Шимкив Андрей Иванович": 88,
-      "Против всех": 169
+      "gas:candidate-vibid:1001000190389": 92,
+      "gas:candidate-vibid:1001000136092": 155,
+      "gas:candidate-vibid:354300466922": 37,
+      "gas:candidate-vibid:1001000112237": 13,
+      "gas:candidate-vibid:1001000195115": 6,
+      "gas:candidate-vibid:1001000212562": 32,
+      "gas:candidate-vibid:1001000121882": 273,
+      "gas:candidate-vibid:354300466838": 88,
+      "special:against-all": 169
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467278&region=0&sub_region=0&type=429",
@@ -10598,15 +10598,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 81,
-      "Логинов Евгений Юрьевич": 22,
-      "Новая Татьяна Анатольевна": 9,
-      "Рудницкий Александр Львович": 3,
-      "Сиганов Сергей Евгеньевич": 2,
-      "Терновых Егор Николаевич": 1,
-      "Швец Любовь Никитична": 43,
-      "Шимкив Андрей Иванович": 31,
-      "Против всех": 39
+      "gas:candidate-vibid:1001000190389": 81,
+      "gas:candidate-vibid:1001000136092": 22,
+      "gas:candidate-vibid:354300466922": 9,
+      "gas:candidate-vibid:1001000112237": 3,
+      "gas:candidate-vibid:1001000195115": 2,
+      "gas:candidate-vibid:1001000212562": 1,
+      "gas:candidate-vibid:1001000121882": 43,
+      "gas:candidate-vibid:354300466838": 31,
+      "special:against-all": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467278&region=0&sub_region=0&type=429",
@@ -10656,15 +10656,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 17,
-      "Логинов Евгений Юрьевич": 41,
-      "Новая Татьяна Анатольевна": 7,
-      "Рудницкий Александр Львович": 6,
-      "Сиганов Сергей Евгеньевич": 1,
-      "Терновых Егор Николаевич": 5,
-      "Швец Любовь Никитична": 81,
-      "Шимкив Андрей Иванович": 100,
-      "Против всех": 48
+      "gas:candidate-vibid:1001000190389": 17,
+      "gas:candidate-vibid:1001000136092": 41,
+      "gas:candidate-vibid:354300466922": 7,
+      "gas:candidate-vibid:1001000112237": 6,
+      "gas:candidate-vibid:1001000195115": 1,
+      "gas:candidate-vibid:1001000212562": 5,
+      "gas:candidate-vibid:1001000121882": 81,
+      "gas:candidate-vibid:354300466838": 100,
+      "special:against-all": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467278&region=0&sub_region=0&type=429",
@@ -10714,15 +10714,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 2,
-      "Логинов Евгений Юрьевич": 16,
-      "Новая Татьяна Анатольевна": 2,
-      "Рудницкий Александр Львович": 2,
-      "Сиганов Сергей Евгеньевич": 0,
-      "Терновых Егор Николаевич": 0,
-      "Швец Любовь Никитична": 36,
-      "Шимкив Андрей Иванович": 1,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000190389": 2,
+      "gas:candidate-vibid:1001000136092": 16,
+      "gas:candidate-vibid:354300466922": 2,
+      "gas:candidate-vibid:1001000112237": 2,
+      "gas:candidate-vibid:1001000195115": 0,
+      "gas:candidate-vibid:1001000212562": 0,
+      "gas:candidate-vibid:1001000121882": 36,
+      "gas:candidate-vibid:354300466838": 1,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467278&region=0&sub_region=0&type=429",
@@ -10772,15 +10772,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 4,
-      "Логинов Евгений Юрьевич": 24,
-      "Новая Татьяна Анатольевна": 0,
-      "Рудницкий Александр Львович": 0,
-      "Сиганов Сергей Евгеньевич": 2,
-      "Терновых Егор Николаевич": 2,
-      "Швец Любовь Никитична": 50,
-      "Шимкив Андрей Иванович": 26,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000190389": 4,
+      "gas:candidate-vibid:1001000136092": 24,
+      "gas:candidate-vibid:354300466922": 0,
+      "gas:candidate-vibid:1001000112237": 0,
+      "gas:candidate-vibid:1001000195115": 2,
+      "gas:candidate-vibid:1001000212562": 2,
+      "gas:candidate-vibid:1001000121882": 50,
+      "gas:candidate-vibid:354300466838": 26,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467278&region=0&sub_region=0&type=429",
@@ -10830,15 +10830,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 4,
-      "Логинов Евгений Юрьевич": 25,
-      "Новая Татьяна Анатольевна": 4,
-      "Рудницкий Александр Львович": 5,
-      "Сиганов Сергей Евгеньевич": 1,
-      "Терновых Егор Николаевич": 4,
-      "Швец Любовь Никитична": 39,
-      "Шимкив Андрей Иванович": 60,
-      "Против всех": 26
+      "gas:candidate-vibid:1001000190389": 4,
+      "gas:candidate-vibid:1001000136092": 25,
+      "gas:candidate-vibid:354300466922": 4,
+      "gas:candidate-vibid:1001000112237": 5,
+      "gas:candidate-vibid:1001000195115": 1,
+      "gas:candidate-vibid:1001000212562": 4,
+      "gas:candidate-vibid:1001000121882": 39,
+      "gas:candidate-vibid:354300466838": 60,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467278&region=0&sub_region=0&type=429",
@@ -10888,15 +10888,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 10,
-      "Логинов Евгений Юрьевич": 19,
-      "Новая Татьяна Анатольевна": 9,
-      "Рудницкий Александр Львович": 1,
-      "Сиганов Сергей Евгеньевич": 5,
-      "Терновых Егор Николаевич": 2,
-      "Швец Любовь Никитична": 49,
-      "Шимкив Андрей Иванович": 14,
-      "Против всех": 24
+      "gas:candidate-vibid:1001000190389": 10,
+      "gas:candidate-vibid:1001000136092": 19,
+      "gas:candidate-vibid:354300466922": 9,
+      "gas:candidate-vibid:1001000112237": 1,
+      "gas:candidate-vibid:1001000195115": 5,
+      "gas:candidate-vibid:1001000212562": 2,
+      "gas:candidate-vibid:1001000121882": 49,
+      "gas:candidate-vibid:354300466838": 14,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467278&region=0&sub_region=0&type=429",
@@ -10946,15 +10946,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 3,
-      "Логинов Евгений Юрьевич": 34,
-      "Новая Татьяна Анатольевна": 9,
-      "Рудницкий Александр Львович": 5,
-      "Сиганов Сергей Евгеньевич": 5,
-      "Терновых Егор Николаевич": 2,
-      "Швец Любовь Никитична": 246,
-      "Шимкив Андрей Иванович": 23,
-      "Против всех": 34
+      "gas:candidate-vibid:1001000190389": 3,
+      "gas:candidate-vibid:1001000136092": 34,
+      "gas:candidate-vibid:354300466922": 9,
+      "gas:candidate-vibid:1001000112237": 5,
+      "gas:candidate-vibid:1001000195115": 5,
+      "gas:candidate-vibid:1001000212562": 2,
+      "gas:candidate-vibid:1001000121882": 246,
+      "gas:candidate-vibid:354300466838": 23,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467278&region=0&sub_region=0&type=429",
@@ -11004,15 +11004,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 7,
-      "Логинов Евгений Юрьевич": 24,
-      "Новая Татьяна Анатольевна": 5,
-      "Рудницкий Александр Львович": 2,
-      "Сиганов Сергей Евгеньевич": 2,
-      "Терновых Егор Николаевич": 1,
-      "Швец Любовь Никитична": 62,
-      "Шимкив Андрей Иванович": 29,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000190389": 7,
+      "gas:candidate-vibid:1001000136092": 24,
+      "gas:candidate-vibid:354300466922": 5,
+      "gas:candidate-vibid:1001000112237": 2,
+      "gas:candidate-vibid:1001000195115": 2,
+      "gas:candidate-vibid:1001000212562": 1,
+      "gas:candidate-vibid:1001000121882": 62,
+      "gas:candidate-vibid:354300466838": 29,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467278&region=0&sub_region=0&type=429",
@@ -11062,15 +11062,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 14,
-      "Логинов Евгений Юрьевич": 44,
-      "Новая Татьяна Анатольевна": 5,
-      "Рудницкий Александр Львович": 0,
-      "Сиганов Сергей Евгеньевич": 4,
-      "Терновых Егор Николаевич": 7,
-      "Швец Любовь Никитична": 53,
-      "Шимкив Андрей Иванович": 133,
-      "Против всех": 38
+      "gas:candidate-vibid:1001000190389": 14,
+      "gas:candidate-vibid:1001000136092": 44,
+      "gas:candidate-vibid:354300466922": 5,
+      "gas:candidate-vibid:1001000112237": 0,
+      "gas:candidate-vibid:1001000195115": 4,
+      "gas:candidate-vibid:1001000212562": 7,
+      "gas:candidate-vibid:1001000121882": 53,
+      "gas:candidate-vibid:354300466838": 133,
+      "special:against-all": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467278&region=0&sub_region=0&type=429",
@@ -11120,15 +11120,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 6,
-      "Логинов Евгений Юрьевич": 22,
-      "Новая Татьяна Анатольевна": 4,
-      "Рудницкий Александр Львович": 0,
-      "Сиганов Сергей Евгеньевич": 0,
-      "Терновых Егор Николаевич": 0,
-      "Швец Любовь Никитична": 51,
-      "Шимкив Андрей Иванович": 45,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000190389": 6,
+      "gas:candidate-vibid:1001000136092": 22,
+      "gas:candidate-vibid:354300466922": 4,
+      "gas:candidate-vibid:1001000112237": 0,
+      "gas:candidate-vibid:1001000195115": 0,
+      "gas:candidate-vibid:1001000212562": 0,
+      "gas:candidate-vibid:1001000121882": 51,
+      "gas:candidate-vibid:354300466838": 45,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467278&region=0&sub_region=0&type=429",
@@ -11178,15 +11178,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 3,
-      "Логинов Евгений Юрьевич": 8,
-      "Новая Татьяна Анатольевна": 2,
-      "Рудницкий Александр Львович": 0,
-      "Сиганов Сергей Евгеньевич": 0,
-      "Терновых Егор Николаевич": 1,
-      "Швец Любовь Никитична": 35,
-      "Шимкив Андрей Иванович": 29,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000190389": 3,
+      "gas:candidate-vibid:1001000136092": 8,
+      "gas:candidate-vibid:354300466922": 2,
+      "gas:candidate-vibid:1001000112237": 0,
+      "gas:candidate-vibid:1001000195115": 0,
+      "gas:candidate-vibid:1001000212562": 1,
+      "gas:candidate-vibid:1001000121882": 35,
+      "gas:candidate-vibid:354300466838": 29,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467278&region=0&sub_region=0&type=429",
@@ -11236,15 +11236,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 3,
-      "Логинов Евгений Юрьевич": 19,
-      "Новая Татьяна Анатольевна": 10,
-      "Рудницкий Александр Львович": 2,
-      "Сиганов Сергей Евгеньевич": 5,
-      "Терновых Егор Николаевич": 1,
-      "Швец Любовь Никитична": 118,
-      "Шимкив Андрей Иванович": 48,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000190389": 3,
+      "gas:candidate-vibid:1001000136092": 19,
+      "gas:candidate-vibid:354300466922": 10,
+      "gas:candidate-vibid:1001000112237": 2,
+      "gas:candidate-vibid:1001000195115": 5,
+      "gas:candidate-vibid:1001000212562": 1,
+      "gas:candidate-vibid:1001000121882": 118,
+      "gas:candidate-vibid:354300466838": 48,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467278&region=0&sub_region=0&type=429",
@@ -11294,15 +11294,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 18,
-      "Логинов Евгений Юрьевич": 21,
-      "Новая Татьяна Анатольевна": 7,
-      "Рудницкий Александр Львович": 7,
-      "Сиганов Сергей Евгеньевич": 6,
-      "Терновых Егор Николаевич": 4,
-      "Швец Любовь Никитична": 164,
-      "Шимкив Андрей Иванович": 71,
-      "Против всех": 40
+      "gas:candidate-vibid:1001000190389": 18,
+      "gas:candidate-vibid:1001000136092": 21,
+      "gas:candidate-vibid:354300466922": 7,
+      "gas:candidate-vibid:1001000112237": 7,
+      "gas:candidate-vibid:1001000195115": 6,
+      "gas:candidate-vibid:1001000212562": 4,
+      "gas:candidate-vibid:1001000121882": 164,
+      "gas:candidate-vibid:354300466838": 71,
+      "special:against-all": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467278&region=0&sub_region=0&type=429",
@@ -11352,15 +11352,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 12,
-      "Логинов Евгений Юрьевич": 3,
-      "Новая Татьяна Анатольевна": 2,
-      "Рудницкий Александр Львович": 2,
-      "Сиганов Сергей Евгеньевич": 1,
-      "Терновых Егор Николаевич": 1,
-      "Швец Любовь Никитична": 25,
-      "Шимкив Андрей Иванович": 28,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000190389": 12,
+      "gas:candidate-vibid:1001000136092": 3,
+      "gas:candidate-vibid:354300466922": 2,
+      "gas:candidate-vibid:1001000112237": 2,
+      "gas:candidate-vibid:1001000195115": 1,
+      "gas:candidate-vibid:1001000212562": 1,
+      "gas:candidate-vibid:1001000121882": 25,
+      "gas:candidate-vibid:354300466838": 28,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467278&region=0&sub_region=0&type=429",
@@ -11410,15 +11410,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 41,
-      "Логинов Евгений Юрьевич": 23,
-      "Новая Татьяна Анатольевна": 12,
-      "Рудницкий Александр Львович": 6,
-      "Сиганов Сергей Евгеньевич": 4,
-      "Терновых Егор Николаевич": 6,
-      "Швец Любовь Никитична": 129,
-      "Шимкив Андрей Иванович": 77,
-      "Против всех": 39
+      "gas:candidate-vibid:1001000190389": 41,
+      "gas:candidate-vibid:1001000136092": 23,
+      "gas:candidate-vibid:354300466922": 12,
+      "gas:candidate-vibid:1001000112237": 6,
+      "gas:candidate-vibid:1001000195115": 4,
+      "gas:candidate-vibid:1001000212562": 6,
+      "gas:candidate-vibid:1001000121882": 129,
+      "gas:candidate-vibid:354300466838": 77,
+      "special:against-all": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467278&region=0&sub_region=0&type=429",
@@ -11468,15 +11468,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 0,
-      "Логинов Евгений Юрьевич": 8,
-      "Новая Татьяна Анатольевна": 1,
-      "Рудницкий Александр Львович": 2,
-      "Сиганов Сергей Евгеньевич": 3,
-      "Терновых Егор Николаевич": 2,
-      "Швец Любовь Никитична": 39,
-      "Шимкив Андрей Иванович": 25,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000190389": 0,
+      "gas:candidate-vibid:1001000136092": 8,
+      "gas:candidate-vibid:354300466922": 1,
+      "gas:candidate-vibid:1001000112237": 2,
+      "gas:candidate-vibid:1001000195115": 3,
+      "gas:candidate-vibid:1001000212562": 2,
+      "gas:candidate-vibid:1001000121882": 39,
+      "gas:candidate-vibid:354300466838": 25,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467278&region=0&sub_region=0&type=429",
@@ -11526,15 +11526,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 1,
-      "Логинов Евгений Юрьевич": 1,
-      "Новая Татьяна Анатольевна": 3,
-      "Рудницкий Александр Львович": 1,
-      "Сиганов Сергей Евгеньевич": 22,
-      "Терновых Егор Николаевич": 50,
-      "Швец Любовь Никитична": 7,
-      "Шимкив Андрей Иванович": 19,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000190389": 1,
+      "gas:candidate-vibid:1001000136092": 1,
+      "gas:candidate-vibid:354300466922": 3,
+      "gas:candidate-vibid:1001000112237": 1,
+      "gas:candidate-vibid:1001000195115": 22,
+      "gas:candidate-vibid:1001000212562": 50,
+      "gas:candidate-vibid:1001000121882": 7,
+      "gas:candidate-vibid:354300466838": 19,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467278&region=0&sub_region=0&type=429",
@@ -11584,15 +11584,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 32,
-      "Логинов Евгений Юрьевич": 69,
-      "Новая Татьяна Анатольевна": 18,
-      "Рудницкий Александр Львович": 8,
-      "Сиганов Сергей Евгеньевич": 7,
-      "Терновых Егор Николаевич": 7,
-      "Швец Любовь Никитична": 168,
-      "Шимкив Андрей Иванович": 50,
-      "Против всех": 52
+      "gas:candidate-vibid:1001000190389": 32,
+      "gas:candidate-vibid:1001000136092": 69,
+      "gas:candidate-vibid:354300466922": 18,
+      "gas:candidate-vibid:1001000112237": 8,
+      "gas:candidate-vibid:1001000195115": 7,
+      "gas:candidate-vibid:1001000212562": 7,
+      "gas:candidate-vibid:1001000121882": 168,
+      "gas:candidate-vibid:354300466838": 50,
+      "special:against-all": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467278&region=0&sub_region=0&type=429",
@@ -11642,15 +11642,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 76,
-      "Логинов Евгений Юрьевич": 151,
-      "Новая Татьяна Анатольевна": 19,
-      "Рудницкий Александр Львович": 8,
-      "Сиганов Сергей Евгеньевич": 8,
-      "Терновых Егор Николаевич": 16,
-      "Швец Любовь Никитична": 468,
-      "Шимкив Андрей Иванович": 127,
-      "Против всех": 120
+      "gas:candidate-vibid:1001000190389": 76,
+      "gas:candidate-vibid:1001000136092": 151,
+      "gas:candidate-vibid:354300466922": 19,
+      "gas:candidate-vibid:1001000112237": 8,
+      "gas:candidate-vibid:1001000195115": 8,
+      "gas:candidate-vibid:1001000212562": 16,
+      "gas:candidate-vibid:1001000121882": 468,
+      "gas:candidate-vibid:354300466838": 127,
+      "special:against-all": 120
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467278&region=0&sub_region=0&type=429",
@@ -11700,15 +11700,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 23,
-      "Логинов Евгений Юрьевич": 71,
-      "Новая Татьяна Анатольевна": 6,
-      "Рудницкий Александр Львович": 5,
-      "Сиганов Сергей Евгеньевич": 4,
-      "Терновых Егор Николаевич": 2,
-      "Швец Любовь Никитична": 86,
-      "Шимкив Андрей Иванович": 109,
-      "Против всех": 56
+      "gas:candidate-vibid:1001000190389": 23,
+      "gas:candidate-vibid:1001000136092": 71,
+      "gas:candidate-vibid:354300466922": 6,
+      "gas:candidate-vibid:1001000112237": 5,
+      "gas:candidate-vibid:1001000195115": 4,
+      "gas:candidate-vibid:1001000212562": 2,
+      "gas:candidate-vibid:1001000121882": 86,
+      "gas:candidate-vibid:354300466838": 109,
+      "special:against-all": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467278&region=0&sub_region=0&type=429",
@@ -11758,15 +11758,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 3,
-      "Логинов Евгений Юрьевич": 7,
-      "Новая Татьяна Анатольевна": 0,
-      "Рудницкий Александр Львович": 0,
-      "Сиганов Сергей Евгеньевич": 0,
-      "Терновых Егор Николаевич": 0,
-      "Швец Любовь Никитична": 59,
-      "Шимкив Андрей Иванович": 13,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000190389": 3,
+      "gas:candidate-vibid:1001000136092": 7,
+      "gas:candidate-vibid:354300466922": 0,
+      "gas:candidate-vibid:1001000112237": 0,
+      "gas:candidate-vibid:1001000195115": 0,
+      "gas:candidate-vibid:1001000212562": 0,
+      "gas:candidate-vibid:1001000121882": 59,
+      "gas:candidate-vibid:354300466838": 13,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467278&region=0&sub_region=0&type=429",
@@ -11816,15 +11816,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 33,
-      "Логинов Евгений Юрьевич": 62,
-      "Новая Татьяна Анатольевна": 10,
-      "Рудницкий Александр Львович": 10,
-      "Сиганов Сергей Евгеньевич": 6,
-      "Терновых Егор Николаевич": 7,
-      "Швец Любовь Никитична": 157,
-      "Шимкив Андрей Иванович": 172,
-      "Против всех": 89
+      "gas:candidate-vibid:1001000190389": 33,
+      "gas:candidate-vibid:1001000136092": 62,
+      "gas:candidate-vibid:354300466922": 10,
+      "gas:candidate-vibid:1001000112237": 10,
+      "gas:candidate-vibid:1001000195115": 6,
+      "gas:candidate-vibid:1001000212562": 7,
+      "gas:candidate-vibid:1001000121882": 157,
+      "gas:candidate-vibid:354300466838": 172,
+      "special:against-all": 89
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467278&region=0&sub_region=0&type=429",
@@ -11874,15 +11874,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 23,
-      "Логинов Евгений Юрьевич": 46,
-      "Новая Татьяна Анатольевна": 1,
-      "Рудницкий Александр Львович": 1,
-      "Сиганов Сергей Евгеньевич": 4,
-      "Терновых Егор Николаевич": 1,
-      "Швец Любовь Никитична": 198,
-      "Шимкив Андрей Иванович": 57,
-      "Против всех": 28
+      "gas:candidate-vibid:1001000190389": 23,
+      "gas:candidate-vibid:1001000136092": 46,
+      "gas:candidate-vibid:354300466922": 1,
+      "gas:candidate-vibid:1001000112237": 1,
+      "gas:candidate-vibid:1001000195115": 4,
+      "gas:candidate-vibid:1001000212562": 1,
+      "gas:candidate-vibid:1001000121882": 198,
+      "gas:candidate-vibid:354300466838": 57,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467278&region=0&sub_region=0&type=429",
@@ -11932,15 +11932,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 2,
-      "Логинов Евгений Юрьевич": 21,
-      "Новая Татьяна Анатольевна": 4,
-      "Рудницкий Александр Львович": 0,
-      "Сиганов Сергей Евгеньевич": 2,
-      "Терновых Егор Николаевич": 1,
-      "Швец Любовь Никитична": 24,
-      "Шимкив Андрей Иванович": 54,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000190389": 2,
+      "gas:candidate-vibid:1001000136092": 21,
+      "gas:candidate-vibid:354300466922": 4,
+      "gas:candidate-vibid:1001000112237": 0,
+      "gas:candidate-vibid:1001000195115": 2,
+      "gas:candidate-vibid:1001000212562": 1,
+      "gas:candidate-vibid:1001000121882": 24,
+      "gas:candidate-vibid:354300466838": 54,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467278&region=0&sub_region=0&type=429",
@@ -11990,15 +11990,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 13,
-      "Логинов Евгений Юрьевич": 23,
-      "Новая Татьяна Анатольевна": 8,
-      "Рудницкий Александр Львович": 0,
-      "Сиганов Сергей Евгеньевич": 0,
-      "Терновых Егор Николаевич": 0,
-      "Швец Любовь Никитична": 48,
-      "Шимкив Андрей Иванович": 56,
-      "Против всех": 24
+      "gas:candidate-vibid:1001000190389": 13,
+      "gas:candidate-vibid:1001000136092": 23,
+      "gas:candidate-vibid:354300466922": 8,
+      "gas:candidate-vibid:1001000112237": 0,
+      "gas:candidate-vibid:1001000195115": 0,
+      "gas:candidate-vibid:1001000212562": 0,
+      "gas:candidate-vibid:1001000121882": 48,
+      "gas:candidate-vibid:354300466838": 56,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467278&region=0&sub_region=0&type=429",
@@ -12048,15 +12048,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 16,
-      "Логинов Евгений Юрьевич": 67,
-      "Новая Татьяна Анатольевна": 5,
-      "Рудницкий Александр Львович": 4,
-      "Сиганов Сергей Евгеньевич": 4,
-      "Терновых Егор Николаевич": 4,
-      "Швец Любовь Никитична": 111,
-      "Шимкив Андрей Иванович": 58,
-      "Против всех": 69
+      "gas:candidate-vibid:1001000190389": 16,
+      "gas:candidate-vibid:1001000136092": 67,
+      "gas:candidate-vibid:354300466922": 5,
+      "gas:candidate-vibid:1001000112237": 4,
+      "gas:candidate-vibid:1001000195115": 4,
+      "gas:candidate-vibid:1001000212562": 4,
+      "gas:candidate-vibid:1001000121882": 111,
+      "gas:candidate-vibid:354300466838": 58,
+      "special:against-all": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467278&region=0&sub_region=0&type=429",
@@ -12106,15 +12106,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 6,
-      "Логинов Евгений Юрьевич": 13,
-      "Новая Татьяна Анатольевна": 2,
-      "Рудницкий Александр Львович": 2,
-      "Сиганов Сергей Евгеньевич": 1,
-      "Терновых Егор Николаевич": 0,
-      "Швец Любовь Никитична": 18,
-      "Шимкив Андрей Иванович": 76,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000190389": 6,
+      "gas:candidate-vibid:1001000136092": 13,
+      "gas:candidate-vibid:354300466922": 2,
+      "gas:candidate-vibid:1001000112237": 2,
+      "gas:candidate-vibid:1001000195115": 1,
+      "gas:candidate-vibid:1001000212562": 0,
+      "gas:candidate-vibid:1001000121882": 18,
+      "gas:candidate-vibid:354300466838": 76,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467278&region=0&sub_region=0&type=429",
@@ -12164,15 +12164,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 2,
-      "Логинов Евгений Юрьевич": 15,
-      "Новая Татьяна Анатольевна": 0,
-      "Рудницкий Александр Львович": 2,
-      "Сиганов Сергей Евгеньевич": 0,
-      "Терновых Егор Николаевич": 5,
-      "Швец Любовь Никитична": 27,
-      "Шимкив Андрей Иванович": 36,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000190389": 2,
+      "gas:candidate-vibid:1001000136092": 15,
+      "gas:candidate-vibid:354300466922": 0,
+      "gas:candidate-vibid:1001000112237": 2,
+      "gas:candidate-vibid:1001000195115": 0,
+      "gas:candidate-vibid:1001000212562": 5,
+      "gas:candidate-vibid:1001000121882": 27,
+      "gas:candidate-vibid:354300466838": 36,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467278&region=0&sub_region=0&type=429",
@@ -12222,15 +12222,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 69,
-      "Логинов Евгений Юрьевич": 65,
-      "Новая Татьяна Анатольевна": 118,
-      "Рудницкий Александр Львович": 48,
-      "Сиганов Сергей Евгеньевич": 8,
-      "Терновых Егор Николаевич": 30,
-      "Швец Любовь Никитична": 250,
-      "Шимкив Андрей Иванович": 120,
-      "Против всех": 159
+      "gas:candidate-vibid:1001000190389": 69,
+      "gas:candidate-vibid:1001000136092": 65,
+      "gas:candidate-vibid:354300466922": 118,
+      "gas:candidate-vibid:1001000112237": 48,
+      "gas:candidate-vibid:1001000195115": 8,
+      "gas:candidate-vibid:1001000212562": 30,
+      "gas:candidate-vibid:1001000121882": 250,
+      "gas:candidate-vibid:354300466838": 120,
+      "special:against-all": 159
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467279&region=0&sub_region=0&type=429",
@@ -12280,15 +12280,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 298,
-      "Логинов Евгений Юрьевич": 49,
-      "Новая Татьяна Анатольевна": 23,
-      "Рудницкий Александр Львович": 129,
-      "Сиганов Сергей Евгеньевич": 4,
-      "Терновых Егор Николаевич": 99,
-      "Швец Любовь Никитична": 455,
-      "Шимкив Андрей Иванович": 84,
-      "Против всех": 164
+      "gas:candidate-vibid:1001000190389": 298,
+      "gas:candidate-vibid:1001000136092": 49,
+      "gas:candidate-vibid:354300466922": 23,
+      "gas:candidate-vibid:1001000112237": 129,
+      "gas:candidate-vibid:1001000195115": 4,
+      "gas:candidate-vibid:1001000212562": 99,
+      "gas:candidate-vibid:1001000121882": 455,
+      "gas:candidate-vibid:354300466838": 84,
+      "special:against-all": 164
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467279&region=0&sub_region=0&type=429",
@@ -12338,15 +12338,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 413,
-      "Логинов Евгений Юрьевич": 45,
-      "Новая Татьяна Анатольевна": 58,
-      "Рудницкий Александр Львович": 191,
-      "Сиганов Сергей Евгеньевич": 3,
-      "Терновых Егор Николаевич": 119,
-      "Швец Любовь Никитична": 460,
-      "Шимкив Андрей Иванович": 86,
-      "Против всех": 166
+      "gas:candidate-vibid:1001000190389": 413,
+      "gas:candidate-vibid:1001000136092": 45,
+      "gas:candidate-vibid:354300466922": 58,
+      "gas:candidate-vibid:1001000112237": 191,
+      "gas:candidate-vibid:1001000195115": 3,
+      "gas:candidate-vibid:1001000212562": 119,
+      "gas:candidate-vibid:1001000121882": 460,
+      "gas:candidate-vibid:354300466838": 86,
+      "special:against-all": 166
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467279&region=0&sub_region=0&type=429",
@@ -12396,15 +12396,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 258,
-      "Логинов Евгений Юрьевич": 36,
-      "Новая Татьяна Анатольевна": 24,
-      "Рудницкий Александр Львович": 142,
-      "Сиганов Сергей Евгеньевич": 4,
-      "Терновых Егор Николаевич": 72,
-      "Швец Любовь Никитична": 390,
-      "Шимкив Андрей Иванович": 70,
-      "Против всех": 179
+      "gas:candidate-vibid:1001000190389": 258,
+      "gas:candidate-vibid:1001000136092": 36,
+      "gas:candidate-vibid:354300466922": 24,
+      "gas:candidate-vibid:1001000112237": 142,
+      "gas:candidate-vibid:1001000195115": 4,
+      "gas:candidate-vibid:1001000212562": 72,
+      "gas:candidate-vibid:1001000121882": 390,
+      "gas:candidate-vibid:354300466838": 70,
+      "special:against-all": 179
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467279&region=0&sub_region=0&type=429",
@@ -12454,15 +12454,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 231,
-      "Логинов Евгений Юрьевич": 34,
-      "Новая Татьяна Анатольевна": 25,
-      "Рудницкий Александр Львович": 130,
-      "Сиганов Сергей Евгеньевич": 3,
-      "Терновых Егор Николаевич": 91,
-      "Швец Любовь Никитична": 362,
-      "Шимкив Андрей Иванович": 85,
-      "Против всех": 152
+      "gas:candidate-vibid:1001000190389": 231,
+      "gas:candidate-vibid:1001000136092": 34,
+      "gas:candidate-vibid:354300466922": 25,
+      "gas:candidate-vibid:1001000112237": 130,
+      "gas:candidate-vibid:1001000195115": 3,
+      "gas:candidate-vibid:1001000212562": 91,
+      "gas:candidate-vibid:1001000121882": 362,
+      "gas:candidate-vibid:354300466838": 85,
+      "special:against-all": 152
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467279&region=0&sub_region=0&type=429",
@@ -12512,15 +12512,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 286,
-      "Логинов Евгений Юрьевич": 64,
-      "Новая Татьяна Анатольевна": 30,
-      "Рудницкий Александр Львович": 142,
-      "Сиганов Сергей Евгеньевич": 7,
-      "Терновых Егор Николаевич": 94,
-      "Швец Любовь Никитична": 381,
-      "Шимкив Андрей Иванович": 72,
-      "Против всех": 147
+      "gas:candidate-vibid:1001000190389": 286,
+      "gas:candidate-vibid:1001000136092": 64,
+      "gas:candidate-vibid:354300466922": 30,
+      "gas:candidate-vibid:1001000112237": 142,
+      "gas:candidate-vibid:1001000195115": 7,
+      "gas:candidate-vibid:1001000212562": 94,
+      "gas:candidate-vibid:1001000121882": 381,
+      "gas:candidate-vibid:354300466838": 72,
+      "special:against-all": 147
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467279&region=0&sub_region=0&type=429",
@@ -12570,15 +12570,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 352,
-      "Логинов Евгений Юрьевич": 25,
-      "Новая Татьяна Анатольевна": 22,
-      "Рудницкий Александр Львович": 193,
-      "Сиганов Сергей Евгеньевич": 2,
-      "Терновых Егор Николаевич": 128,
-      "Швец Любовь Никитична": 488,
-      "Шимкив Андрей Иванович": 74,
-      "Против всех": 195
+      "gas:candidate-vibid:1001000190389": 352,
+      "gas:candidate-vibid:1001000136092": 25,
+      "gas:candidate-vibid:354300466922": 22,
+      "gas:candidate-vibid:1001000112237": 193,
+      "gas:candidate-vibid:1001000195115": 2,
+      "gas:candidate-vibid:1001000212562": 128,
+      "gas:candidate-vibid:1001000121882": 488,
+      "gas:candidate-vibid:354300466838": 74,
+      "special:against-all": 195
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467279&region=0&sub_region=0&type=429",
@@ -12628,15 +12628,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 276,
-      "Логинов Евгений Юрьевич": 45,
-      "Новая Татьяна Анатольевна": 33,
-      "Рудницкий Александр Львович": 96,
-      "Сиганов Сергей Евгеньевич": 7,
-      "Терновых Егор Николаевич": 75,
-      "Швец Любовь Никитична": 352,
-      "Шимкив Андрей Иванович": 62,
-      "Против всех": 157
+      "gas:candidate-vibid:1001000190389": 276,
+      "gas:candidate-vibid:1001000136092": 45,
+      "gas:candidate-vibid:354300466922": 33,
+      "gas:candidate-vibid:1001000112237": 96,
+      "gas:candidate-vibid:1001000195115": 7,
+      "gas:candidate-vibid:1001000212562": 75,
+      "gas:candidate-vibid:1001000121882": 352,
+      "gas:candidate-vibid:354300466838": 62,
+      "special:against-all": 157
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467279&region=0&sub_region=0&type=429",
@@ -12686,15 +12686,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 326,
-      "Логинов Евгений Юрьевич": 46,
-      "Новая Татьяна Анатольевна": 42,
-      "Рудницкий Александр Львович": 114,
-      "Сиганов Сергей Евгеньевич": 1,
-      "Терновых Егор Николаевич": 95,
-      "Швец Любовь Никитична": 309,
-      "Шимкив Андрей Иванович": 90,
-      "Против всех": 172
+      "gas:candidate-vibid:1001000190389": 326,
+      "gas:candidate-vibid:1001000136092": 46,
+      "gas:candidate-vibid:354300466922": 42,
+      "gas:candidate-vibid:1001000112237": 114,
+      "gas:candidate-vibid:1001000195115": 1,
+      "gas:candidate-vibid:1001000212562": 95,
+      "gas:candidate-vibid:1001000121882": 309,
+      "gas:candidate-vibid:354300466838": 90,
+      "special:against-all": 172
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467279&region=0&sub_region=0&type=429",
@@ -12744,15 +12744,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 427,
-      "Логинов Евгений Юрьевич": 52,
-      "Новая Татьяна Анатольевна": 53,
-      "Рудницкий Александр Львович": 92,
-      "Сиганов Сергей Евгеньевич": 7,
-      "Терновых Егор Николаевич": 103,
-      "Швец Любовь Никитична": 101,
-      "Шимкив Андрей Иванович": 49,
-      "Против всех": 329
+      "gas:candidate-vibid:1001000190389": 427,
+      "gas:candidate-vibid:1001000136092": 52,
+      "gas:candidate-vibid:354300466922": 53,
+      "gas:candidate-vibid:1001000112237": 92,
+      "gas:candidate-vibid:1001000195115": 7,
+      "gas:candidate-vibid:1001000212562": 103,
+      "gas:candidate-vibid:1001000121882": 101,
+      "gas:candidate-vibid:354300466838": 49,
+      "special:against-all": 329
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467279&region=0&sub_region=0&type=429",
@@ -12802,15 +12802,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 261,
-      "Логинов Евгений Юрьевич": 68,
-      "Новая Татьяна Анатольевна": 45,
-      "Рудницкий Александр Львович": 82,
-      "Сиганов Сергей Евгеньевич": 8,
-      "Терновых Егор Николаевич": 40,
-      "Швец Любовь Никитична": 379,
-      "Шимкив Андрей Иванович": 120,
-      "Против всех": 198
+      "gas:candidate-vibid:1001000190389": 261,
+      "gas:candidate-vibid:1001000136092": 68,
+      "gas:candidate-vibid:354300466922": 45,
+      "gas:candidate-vibid:1001000112237": 82,
+      "gas:candidate-vibid:1001000195115": 8,
+      "gas:candidate-vibid:1001000212562": 40,
+      "gas:candidate-vibid:1001000121882": 379,
+      "gas:candidate-vibid:354300466838": 120,
+      "special:against-all": 198
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467279&region=0&sub_region=0&type=429",
@@ -12860,15 +12860,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 175,
-      "Логинов Евгений Юрьевич": 74,
-      "Новая Татьяна Анатольевна": 33,
-      "Рудницкий Александр Львович": 60,
-      "Сиганов Сергей Евгеньевич": 3,
-      "Терновых Егор Николаевич": 25,
-      "Швец Любовь Никитична": 251,
-      "Шимкив Андрей Иванович": 56,
-      "Против всех": 146
+      "gas:candidate-vibid:1001000190389": 175,
+      "gas:candidate-vibid:1001000136092": 74,
+      "gas:candidate-vibid:354300466922": 33,
+      "gas:candidate-vibid:1001000112237": 60,
+      "gas:candidate-vibid:1001000195115": 3,
+      "gas:candidate-vibid:1001000212562": 25,
+      "gas:candidate-vibid:1001000121882": 251,
+      "gas:candidate-vibid:354300466838": 56,
+      "special:against-all": 146
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467279&region=0&sub_region=0&type=429",
@@ -12918,15 +12918,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 194,
-      "Логинов Евгений Юрьевич": 76,
-      "Новая Татьяна Анатольевна": 39,
-      "Рудницкий Александр Львович": 73,
-      "Сиганов Сергей Евгеньевич": 2,
-      "Терновых Егор Николаевич": 27,
-      "Швец Любовь Никитична": 261,
-      "Шимкив Андрей Иванович": 77,
-      "Против всех": 177
+      "gas:candidate-vibid:1001000190389": 194,
+      "gas:candidate-vibid:1001000136092": 76,
+      "gas:candidate-vibid:354300466922": 39,
+      "gas:candidate-vibid:1001000112237": 73,
+      "gas:candidate-vibid:1001000195115": 2,
+      "gas:candidate-vibid:1001000212562": 27,
+      "gas:candidate-vibid:1001000121882": 261,
+      "gas:candidate-vibid:354300466838": 77,
+      "special:against-all": 177
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467279&region=0&sub_region=0&type=429",
@@ -12976,15 +12976,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 245,
-      "Логинов Евгений Юрьевич": 100,
-      "Новая Татьяна Анатольевна": 55,
-      "Рудницкий Александр Львович": 79,
-      "Сиганов Сергей Евгеньевич": 6,
-      "Терновых Егор Николаевич": 52,
-      "Швец Любовь Никитична": 356,
-      "Шимкив Андрей Иванович": 50,
-      "Против всех": 253
+      "gas:candidate-vibid:1001000190389": 245,
+      "gas:candidate-vibid:1001000136092": 100,
+      "gas:candidate-vibid:354300466922": 55,
+      "gas:candidate-vibid:1001000112237": 79,
+      "gas:candidate-vibid:1001000195115": 6,
+      "gas:candidate-vibid:1001000212562": 52,
+      "gas:candidate-vibid:1001000121882": 356,
+      "gas:candidate-vibid:354300466838": 50,
+      "special:against-all": 253
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467279&region=0&sub_region=0&type=429",
@@ -13034,15 +13034,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 274,
-      "Логинов Евгений Юрьевич": 97,
-      "Новая Татьяна Анатольевна": 38,
-      "Рудницкий Александр Львович": 83,
-      "Сиганов Сергей Евгеньевич": 7,
-      "Терновых Егор Николаевич": 73,
-      "Швец Любовь Никитична": 368,
-      "Шимкив Андрей Иванович": 70,
-      "Против всех": 171
+      "gas:candidate-vibid:1001000190389": 274,
+      "gas:candidate-vibid:1001000136092": 97,
+      "gas:candidate-vibid:354300466922": 38,
+      "gas:candidate-vibid:1001000112237": 83,
+      "gas:candidate-vibid:1001000195115": 7,
+      "gas:candidate-vibid:1001000212562": 73,
+      "gas:candidate-vibid:1001000121882": 368,
+      "gas:candidate-vibid:354300466838": 70,
+      "special:against-all": 171
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467279&region=0&sub_region=0&type=429",
@@ -13092,15 +13092,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 215,
-      "Логинов Евгений Юрьевич": 96,
-      "Новая Татьяна Анатольевна": 40,
-      "Рудницкий Александр Львович": 86,
-      "Сиганов Сергей Евгеньевич": 11,
-      "Терновых Егор Николаевич": 46,
-      "Швец Любовь Никитична": 311,
-      "Шимкив Андрей Иванович": 73,
-      "Против всех": 208
+      "gas:candidate-vibid:1001000190389": 215,
+      "gas:candidate-vibid:1001000136092": 96,
+      "gas:candidate-vibid:354300466922": 40,
+      "gas:candidate-vibid:1001000112237": 86,
+      "gas:candidate-vibid:1001000195115": 11,
+      "gas:candidate-vibid:1001000212562": 46,
+      "gas:candidate-vibid:1001000121882": 311,
+      "gas:candidate-vibid:354300466838": 73,
+      "special:against-all": 208
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467279&region=0&sub_region=0&type=429",
@@ -13150,15 +13150,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 234,
-      "Логинов Евгений Юрьевич": 93,
-      "Новая Татьяна Анатольевна": 46,
-      "Рудницкий Александр Львович": 73,
-      "Сиганов Сергей Евгеньевич": 7,
-      "Терновых Егор Николаевич": 40,
-      "Швец Любовь Никитична": 302,
-      "Шимкив Андрей Иванович": 93,
-      "Против всех": 259
+      "gas:candidate-vibid:1001000190389": 234,
+      "gas:candidate-vibid:1001000136092": 93,
+      "gas:candidate-vibid:354300466922": 46,
+      "gas:candidate-vibid:1001000112237": 73,
+      "gas:candidate-vibid:1001000195115": 7,
+      "gas:candidate-vibid:1001000212562": 40,
+      "gas:candidate-vibid:1001000121882": 302,
+      "gas:candidate-vibid:354300466838": 93,
+      "special:against-all": 259
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467279&region=0&sub_region=0&type=429",
@@ -13208,15 +13208,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 316,
-      "Логинов Евгений Юрьевич": 80,
-      "Новая Татьяна Анатольевна": 52,
-      "Рудницкий Александр Львович": 101,
-      "Сиганов Сергей Евгеньевич": 9,
-      "Терновых Егор Николаевич": 61,
-      "Швец Любовь Никитична": 356,
-      "Шимкив Андрей Иванович": 90,
-      "Против всех": 243
+      "gas:candidate-vibid:1001000190389": 316,
+      "gas:candidate-vibid:1001000136092": 80,
+      "gas:candidate-vibid:354300466922": 52,
+      "gas:candidate-vibid:1001000112237": 101,
+      "gas:candidate-vibid:1001000195115": 9,
+      "gas:candidate-vibid:1001000212562": 61,
+      "gas:candidate-vibid:1001000121882": 356,
+      "gas:candidate-vibid:354300466838": 90,
+      "special:against-all": 243
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467279&region=0&sub_region=0&type=429",
@@ -13266,15 +13266,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 256,
-      "Логинов Евгений Юрьевич": 75,
-      "Новая Татьяна Анатольевна": 45,
-      "Рудницкий Александр Львович": 118,
-      "Сиганов Сергей Евгеньевич": 4,
-      "Терновых Егор Николаевич": 72,
-      "Швец Любовь Никитична": 342,
-      "Шимкив Андрей Иванович": 62,
-      "Против всех": 223
+      "gas:candidate-vibid:1001000190389": 256,
+      "gas:candidate-vibid:1001000136092": 75,
+      "gas:candidate-vibid:354300466922": 45,
+      "gas:candidate-vibid:1001000112237": 118,
+      "gas:candidate-vibid:1001000195115": 4,
+      "gas:candidate-vibid:1001000212562": 72,
+      "gas:candidate-vibid:1001000121882": 342,
+      "gas:candidate-vibid:354300466838": 62,
+      "special:against-all": 223
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467279&region=0&sub_region=0&type=429",
@@ -13324,15 +13324,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 181,
-      "Логинов Евгений Юрьевич": 398,
-      "Новая Татьяна Анатольевна": 62,
-      "Рудницкий Александр Львович": 48,
-      "Сиганов Сергей Евгеньевич": 26,
-      "Терновых Егор Николаевич": 57,
-      "Швец Любовь Никитична": 329,
-      "Шимкив Андрей Иванович": 198,
-      "Против всех": 503
+      "gas:candidate-vibid:1001000190389": 181,
+      "gas:candidate-vibid:1001000136092": 398,
+      "gas:candidate-vibid:354300466922": 62,
+      "gas:candidate-vibid:1001000112237": 48,
+      "gas:candidate-vibid:1001000195115": 26,
+      "gas:candidate-vibid:1001000212562": 57,
+      "gas:candidate-vibid:1001000121882": 329,
+      "gas:candidate-vibid:354300466838": 198,
+      "special:against-all": 503
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467279&region=0&sub_region=0&type=429",
@@ -13382,15 +13382,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 195,
-      "Логинов Евгений Юрьевич": 317,
-      "Новая Татьяна Анатольевна": 81,
-      "Рудницкий Александр Львович": 94,
-      "Сиганов Сергей Евгеньевич": 47,
-      "Терновых Егор Николаевич": 71,
-      "Швец Любовь Никитична": 300,
-      "Шимкив Андрей Иванович": 118,
-      "Против всех": 551
+      "gas:candidate-vibid:1001000190389": 195,
+      "gas:candidate-vibid:1001000136092": 317,
+      "gas:candidate-vibid:354300466922": 81,
+      "gas:candidate-vibid:1001000112237": 94,
+      "gas:candidate-vibid:1001000195115": 47,
+      "gas:candidate-vibid:1001000212562": 71,
+      "gas:candidate-vibid:1001000121882": 300,
+      "gas:candidate-vibid:354300466838": 118,
+      "special:against-all": 551
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467279&region=0&sub_region=0&type=429",
@@ -13440,15 +13440,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 311,
-      "Логинов Евгений Юрьевич": 73,
-      "Новая Татьяна Анатольевна": 50,
-      "Рудницкий Александр Львович": 116,
-      "Сиганов Сергей Евгеньевич": 4,
-      "Терновых Егор Николаевич": 82,
-      "Швец Любовь Никитична": 365,
-      "Шимкив Андрей Иванович": 70,
-      "Против всех": 209
+      "gas:candidate-vibid:1001000190389": 311,
+      "gas:candidate-vibid:1001000136092": 73,
+      "gas:candidate-vibid:354300466922": 50,
+      "gas:candidate-vibid:1001000112237": 116,
+      "gas:candidate-vibid:1001000195115": 4,
+      "gas:candidate-vibid:1001000212562": 82,
+      "gas:candidate-vibid:1001000121882": 365,
+      "gas:candidate-vibid:354300466838": 70,
+      "special:against-all": 209
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467279&region=0&sub_region=0&type=429",
@@ -13498,15 +13498,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 336,
-      "Логинов Евгений Юрьевич": 104,
-      "Новая Татьяна Анатольевна": 67,
-      "Рудницкий Александр Львович": 100,
-      "Сиганов Сергей Евгеньевич": 10,
-      "Терновых Егор Николаевич": 80,
-      "Швец Любовь Никитична": 401,
-      "Шимкив Андрей Иванович": 94,
-      "Против всех": 288
+      "gas:candidate-vibid:1001000190389": 336,
+      "gas:candidate-vibid:1001000136092": 104,
+      "gas:candidate-vibid:354300466922": 67,
+      "gas:candidate-vibid:1001000112237": 100,
+      "gas:candidate-vibid:1001000195115": 10,
+      "gas:candidate-vibid:1001000212562": 80,
+      "gas:candidate-vibid:1001000121882": 401,
+      "gas:candidate-vibid:354300466838": 94,
+      "special:against-all": 288
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467279&region=0&sub_region=0&type=429",
@@ -13556,15 +13556,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 321,
-      "Логинов Евгений Юрьевич": 92,
-      "Новая Татьяна Анатольевна": 51,
-      "Рудницкий Александр Львович": 102,
-      "Сиганов Сергей Евгеньевич": 7,
-      "Терновых Егор Николаевич": 82,
-      "Швец Любовь Никитична": 389,
-      "Шимкив Андрей Иванович": 102,
-      "Против всех": 282
+      "gas:candidate-vibid:1001000190389": 321,
+      "gas:candidate-vibid:1001000136092": 92,
+      "gas:candidate-vibid:354300466922": 51,
+      "gas:candidate-vibid:1001000112237": 102,
+      "gas:candidate-vibid:1001000195115": 7,
+      "gas:candidate-vibid:1001000212562": 82,
+      "gas:candidate-vibid:1001000121882": 389,
+      "gas:candidate-vibid:354300466838": 102,
+      "special:against-all": 282
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467279&region=0&sub_region=0&type=429",
@@ -13614,15 +13614,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 347,
-      "Логинов Евгений Юрьевич": 125,
-      "Новая Татьяна Анатольевна": 71,
-      "Рудницкий Александр Львович": 105,
-      "Сиганов Сергей Евгеньевич": 6,
-      "Терновых Егор Николаевич": 73,
-      "Швец Любовь Никитична": 426,
-      "Шимкив Андрей Иванович": 119,
-      "Против всех": 305
+      "gas:candidate-vibid:1001000190389": 347,
+      "gas:candidate-vibid:1001000136092": 125,
+      "gas:candidate-vibid:354300466922": 71,
+      "gas:candidate-vibid:1001000112237": 105,
+      "gas:candidate-vibid:1001000195115": 6,
+      "gas:candidate-vibid:1001000212562": 73,
+      "gas:candidate-vibid:1001000121882": 426,
+      "gas:candidate-vibid:354300466838": 119,
+      "special:against-all": 305
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467279&region=0&sub_region=0&type=429",
@@ -13672,15 +13672,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 317,
-      "Логинов Евгений Юрьевич": 93,
-      "Новая Татьяна Анатольевна": 124,
-      "Рудницкий Александр Львович": 150,
-      "Сиганов Сергей Евгеньевич": 8,
-      "Терновых Егор Николаевич": 92,
-      "Швец Любовь Никитична": 353,
-      "Шимкив Андрей Иванович": 164,
-      "Против всех": 323
+      "gas:candidate-vibid:1001000190389": 317,
+      "gas:candidate-vibid:1001000136092": 93,
+      "gas:candidate-vibid:354300466922": 124,
+      "gas:candidate-vibid:1001000112237": 150,
+      "gas:candidate-vibid:1001000195115": 8,
+      "gas:candidate-vibid:1001000212562": 92,
+      "gas:candidate-vibid:1001000121882": 353,
+      "gas:candidate-vibid:354300466838": 164,
+      "special:against-all": 323
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467279&region=0&sub_region=0&type=429",
@@ -13730,15 +13730,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 161,
-      "Логинов Евгений Юрьевич": 112,
-      "Новая Татьяна Анатольевна": 88,
-      "Рудницкий Александр Львович": 68,
-      "Сиганов Сергей Евгеньевич": 11,
-      "Терновых Егор Николаевич": 50,
-      "Швец Любовь Никитична": 345,
-      "Шимкив Андрей Иванович": 63,
-      "Против всех": 213
+      "gas:candidate-vibid:1001000190389": 161,
+      "gas:candidate-vibid:1001000136092": 112,
+      "gas:candidate-vibid:354300466922": 88,
+      "gas:candidate-vibid:1001000112237": 68,
+      "gas:candidate-vibid:1001000195115": 11,
+      "gas:candidate-vibid:1001000212562": 50,
+      "gas:candidate-vibid:1001000121882": 345,
+      "gas:candidate-vibid:354300466838": 63,
+      "special:against-all": 213
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467279&region=0&sub_region=0&type=429",
@@ -13788,15 +13788,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 195,
-      "Логинов Евгений Юрьевич": 116,
-      "Новая Татьяна Анатольевна": 84,
-      "Рудницкий Александр Львович": 95,
-      "Сиганов Сергей Евгеньевич": 6,
-      "Терновых Егор Николаевич": 55,
-      "Швец Любовь Никитична": 407,
-      "Шимкив Андрей Иванович": 125,
-      "Против всех": 251
+      "gas:candidate-vibid:1001000190389": 195,
+      "gas:candidate-vibid:1001000136092": 116,
+      "gas:candidate-vibid:354300466922": 84,
+      "gas:candidate-vibid:1001000112237": 95,
+      "gas:candidate-vibid:1001000195115": 6,
+      "gas:candidate-vibid:1001000212562": 55,
+      "gas:candidate-vibid:1001000121882": 407,
+      "gas:candidate-vibid:354300466838": 125,
+      "special:against-all": 251
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467279&region=0&sub_region=0&type=429",
@@ -13846,15 +13846,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 197,
-      "Логинов Евгений Юрьевич": 86,
-      "Новая Татьяна Анатольевна": 64,
-      "Рудницкий Александр Львович": 96,
-      "Сиганов Сергей Евгеньевич": 7,
-      "Терновых Егор Николаевич": 58,
-      "Швец Любовь Никитична": 346,
-      "Шимкив Андрей Иванович": 150,
-      "Против всех": 225
+      "gas:candidate-vibid:1001000190389": 197,
+      "gas:candidate-vibid:1001000136092": 86,
+      "gas:candidate-vibid:354300466922": 64,
+      "gas:candidate-vibid:1001000112237": 96,
+      "gas:candidate-vibid:1001000195115": 7,
+      "gas:candidate-vibid:1001000212562": 58,
+      "gas:candidate-vibid:1001000121882": 346,
+      "gas:candidate-vibid:354300466838": 150,
+      "special:against-all": 225
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467279&region=0&sub_region=0&type=429",
@@ -13904,15 +13904,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 168,
-      "Логинов Евгений Юрьевич": 117,
-      "Новая Татьяна Анатольевна": 101,
-      "Рудницкий Александр Львович": 75,
-      "Сиганов Сергей Евгеньевич": 3,
-      "Терновых Егор Николаевич": 75,
-      "Швец Любовь Никитична": 385,
-      "Шимкив Андрей Иванович": 99,
-      "Против всех": 224
+      "gas:candidate-vibid:1001000190389": 168,
+      "gas:candidate-vibid:1001000136092": 117,
+      "gas:candidate-vibid:354300466922": 101,
+      "gas:candidate-vibid:1001000112237": 75,
+      "gas:candidate-vibid:1001000195115": 3,
+      "gas:candidate-vibid:1001000212562": 75,
+      "gas:candidate-vibid:1001000121882": 385,
+      "gas:candidate-vibid:354300466838": 99,
+      "special:against-all": 224
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467279&region=0&sub_region=0&type=429",
@@ -13962,15 +13962,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 182,
-      "Логинов Евгений Юрьевич": 95,
-      "Новая Татьяна Анатольевна": 39,
-      "Рудницкий Александр Львович": 66,
-      "Сиганов Сергей Евгеньевич": 4,
-      "Терновых Егор Николаевич": 51,
-      "Швец Любовь Никитична": 271,
-      "Шимкив Андрей Иванович": 94,
-      "Против всех": 235
+      "gas:candidate-vibid:1001000190389": 182,
+      "gas:candidate-vibid:1001000136092": 95,
+      "gas:candidate-vibid:354300466922": 39,
+      "gas:candidate-vibid:1001000112237": 66,
+      "gas:candidate-vibid:1001000195115": 4,
+      "gas:candidate-vibid:1001000212562": 51,
+      "gas:candidate-vibid:1001000121882": 271,
+      "gas:candidate-vibid:354300466838": 94,
+      "special:against-all": 235
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467279&region=0&sub_region=0&type=429",
@@ -14020,15 +14020,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 224,
-      "Логинов Евгений Юрьевич": 81,
-      "Новая Татьяна Анатольевна": 83,
-      "Рудницкий Александр Львович": 104,
-      "Сиганов Сергей Евгеньевич": 4,
-      "Терновых Егор Николаевич": 56,
-      "Швец Любовь Никитична": 294,
-      "Шимкив Андрей Иванович": 65,
-      "Против всех": 245
+      "gas:candidate-vibid:1001000190389": 224,
+      "gas:candidate-vibid:1001000136092": 81,
+      "gas:candidate-vibid:354300466922": 83,
+      "gas:candidate-vibid:1001000112237": 104,
+      "gas:candidate-vibid:1001000195115": 4,
+      "gas:candidate-vibid:1001000212562": 56,
+      "gas:candidate-vibid:1001000121882": 294,
+      "gas:candidate-vibid:354300466838": 65,
+      "special:against-all": 245
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467279&region=0&sub_region=0&type=429",
@@ -14078,15 +14078,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 209,
-      "Логинов Евгений Юрьевич": 91,
-      "Новая Татьяна Анатольевна": 45,
-      "Рудницкий Александр Львович": 56,
-      "Сиганов Сергей Евгеньевич": 16,
-      "Терновых Егор Николаевич": 61,
-      "Швец Любовь Никитична": 363,
-      "Шимкив Андрей Иванович": 60,
-      "Против всех": 275
+      "gas:candidate-vibid:1001000190389": 209,
+      "gas:candidate-vibid:1001000136092": 91,
+      "gas:candidate-vibid:354300466922": 45,
+      "gas:candidate-vibid:1001000112237": 56,
+      "gas:candidate-vibid:1001000195115": 16,
+      "gas:candidate-vibid:1001000212562": 61,
+      "gas:candidate-vibid:1001000121882": 363,
+      "gas:candidate-vibid:354300466838": 60,
+      "special:against-all": 275
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467279&region=0&sub_region=0&type=429",
@@ -14136,15 +14136,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 283,
-      "Логинов Евгений Юрьевич": 89,
-      "Новая Татьяна Анатольевна": 53,
-      "Рудницкий Александр Львович": 111,
-      "Сиганов Сергей Евгеньевич": 6,
-      "Терновых Егор Николаевич": 109,
-      "Швец Любовь Никитична": 303,
-      "Шимкив Андрей Иванович": 151,
-      "Против всех": 298
+      "gas:candidate-vibid:1001000190389": 283,
+      "gas:candidate-vibid:1001000136092": 89,
+      "gas:candidate-vibid:354300466922": 53,
+      "gas:candidate-vibid:1001000112237": 111,
+      "gas:candidate-vibid:1001000195115": 6,
+      "gas:candidate-vibid:1001000212562": 109,
+      "gas:candidate-vibid:1001000121882": 303,
+      "gas:candidate-vibid:354300466838": 151,
+      "special:against-all": 298
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467279&region=0&sub_region=0&type=429",
@@ -14194,15 +14194,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 100,
-      "Логинов Евгений Юрьевич": 88,
-      "Новая Татьяна Анатольевна": 45,
-      "Рудницкий Александр Львович": 28,
-      "Сиганов Сергей Евгеньевич": 3,
-      "Терновых Егор Николаевич": 20,
-      "Швец Любовь Никитична": 405,
-      "Шимкив Андрей Иванович": 62,
-      "Против всех": 129
+      "gas:candidate-vibid:1001000190389": 100,
+      "gas:candidate-vibid:1001000136092": 88,
+      "gas:candidate-vibid:354300466922": 45,
+      "gas:candidate-vibid:1001000112237": 28,
+      "gas:candidate-vibid:1001000195115": 3,
+      "gas:candidate-vibid:1001000212562": 20,
+      "gas:candidate-vibid:1001000121882": 405,
+      "gas:candidate-vibid:354300466838": 62,
+      "special:against-all": 129
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467279&region=0&sub_region=0&type=429",
@@ -14252,15 +14252,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 124,
-      "Логинов Евгений Юрьевич": 103,
-      "Новая Татьяна Анатольевна": 71,
-      "Рудницкий Александр Львович": 42,
-      "Сиганов Сергей Евгеньевич": 4,
-      "Терновых Егор Николаевич": 45,
-      "Швец Любовь Никитична": 414,
-      "Шимкив Андрей Иванович": 40,
-      "Против всех": 210
+      "gas:candidate-vibid:1001000190389": 124,
+      "gas:candidate-vibid:1001000136092": 103,
+      "gas:candidate-vibid:354300466922": 71,
+      "gas:candidate-vibid:1001000112237": 42,
+      "gas:candidate-vibid:1001000195115": 4,
+      "gas:candidate-vibid:1001000212562": 45,
+      "gas:candidate-vibid:1001000121882": 414,
+      "gas:candidate-vibid:354300466838": 40,
+      "special:against-all": 210
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467279&region=0&sub_region=0&type=429",
@@ -14310,15 +14310,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 133,
-      "Логинов Евгений Юрьевич": 89,
-      "Новая Татьяна Анатольевна": 43,
-      "Рудницкий Александр Львович": 37,
-      "Сиганов Сергей Евгеньевич": 5,
-      "Терновых Егор Николаевич": 21,
-      "Швец Любовь Никитична": 455,
-      "Шимкив Андрей Иванович": 76,
-      "Против всех": 154
+      "gas:candidate-vibid:1001000190389": 133,
+      "gas:candidate-vibid:1001000136092": 89,
+      "gas:candidate-vibid:354300466922": 43,
+      "gas:candidate-vibid:1001000112237": 37,
+      "gas:candidate-vibid:1001000195115": 5,
+      "gas:candidate-vibid:1001000212562": 21,
+      "gas:candidate-vibid:1001000121882": 455,
+      "gas:candidate-vibid:354300466838": 76,
+      "special:against-all": 154
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467279&region=0&sub_region=0&type=429",
@@ -14368,15 +14368,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 192,
-      "Логинов Евгений Юрьевич": 140,
-      "Новая Татьяна Анатольевна": 86,
-      "Рудницкий Александр Львович": 50,
-      "Сиганов Сергей Евгеньевич": 8,
-      "Терновых Егор Николаевич": 48,
-      "Швец Любовь Никитична": 371,
-      "Шимкив Андрей Иванович": 83,
-      "Против всех": 205
+      "gas:candidate-vibid:1001000190389": 192,
+      "gas:candidate-vibid:1001000136092": 140,
+      "gas:candidate-vibid:354300466922": 86,
+      "gas:candidate-vibid:1001000112237": 50,
+      "gas:candidate-vibid:1001000195115": 8,
+      "gas:candidate-vibid:1001000212562": 48,
+      "gas:candidate-vibid:1001000121882": 371,
+      "gas:candidate-vibid:354300466838": 83,
+      "special:against-all": 205
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467279&region=0&sub_region=0&type=429",
@@ -14426,15 +14426,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 150,
-      "Логинов Евгений Юрьевич": 131,
-      "Новая Татьяна Анатольевна": 60,
-      "Рудницкий Александр Львович": 29,
-      "Сиганов Сергей Евгеньевич": 4,
-      "Терновых Егор Николаевич": 23,
-      "Швец Любовь Никитична": 417,
-      "Шимкив Андрей Иванович": 108,
-      "Против всех": 187
+      "gas:candidate-vibid:1001000190389": 150,
+      "gas:candidate-vibid:1001000136092": 131,
+      "gas:candidate-vibid:354300466922": 60,
+      "gas:candidate-vibid:1001000112237": 29,
+      "gas:candidate-vibid:1001000195115": 4,
+      "gas:candidate-vibid:1001000212562": 23,
+      "gas:candidate-vibid:1001000121882": 417,
+      "gas:candidate-vibid:354300466838": 108,
+      "special:against-all": 187
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467279&region=0&sub_region=0&type=429",
@@ -14484,15 +14484,15 @@ export const duma_2003_uik_428_region_54_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 201,
-      "Логинов Евгений Юрьевич": 125,
-      "Новая Татьяна Анатольевна": 90,
-      "Рудницкий Александр Львович": 59,
-      "Сиганов Сергей Евгеньевич": 6,
-      "Терновых Егор Николаевич": 40,
-      "Швец Любовь Никитична": 413,
-      "Шимкив Андрей Иванович": 124,
-      "Против всех": 248
+      "gas:candidate-vibid:1001000190389": 201,
+      "gas:candidate-vibid:1001000136092": 125,
+      "gas:candidate-vibid:354300466922": 90,
+      "gas:candidate-vibid:1001000112237": 59,
+      "gas:candidate-vibid:1001000195115": 6,
+      "gas:candidate-vibid:1001000212562": 40,
+      "gas:candidate-vibid:1001000121882": 413,
+      "gas:candidate-vibid:354300466838": 124,
+      "special:against-all": 248
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467279&region=0&sub_region=0&type=429",

@@ -43,13 +43,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 159,
-      "Молотов Александр Владимирович": 71,
-      "Резникова Татьяна Владимировна": 10,
-      "Рыжков Владимир Александрович": 40,
-      "Сартаков Андрей Александрович": 80,
-      "Чеснов Павел Алексеевич": 6,
-      "Щукин Андрей Евгеньевич": 54
+      "gas:candidate-vibid:22220001365897": 159,
+      "gas:candidate-vibid:22220001359266": 71,
+      "gas:candidate-vibid:22220001370606": 10,
+      "gas:candidate-vibid:22220001368892": 40,
+      "gas:candidate-vibid:22220001368781": 80,
+      "gas:candidate-vibid:22220001368994": 6,
+      "gas:candidate-vibid:22220001352021": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272340&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272340&type=464",
@@ -100,13 +100,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 161,
-      "Молотов Александр Владимирович": 67,
-      "Резникова Татьяна Владимировна": 1,
-      "Рыжков Владимир Александрович": 27,
-      "Сартаков Андрей Александрович": 45,
-      "Чеснов Павел Алексеевич": 1,
-      "Щукин Андрей Евгеньевич": 33
+      "gas:candidate-vibid:22220001365897": 161,
+      "gas:candidate-vibid:22220001359266": 67,
+      "gas:candidate-vibid:22220001370606": 1,
+      "gas:candidate-vibid:22220001368892": 27,
+      "gas:candidate-vibid:22220001368781": 45,
+      "gas:candidate-vibid:22220001368994": 1,
+      "gas:candidate-vibid:22220001352021": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272340&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272340&type=464",
@@ -157,13 +157,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 93,
-      "Молотов Александр Владимирович": 23,
-      "Резникова Татьяна Владимировна": 7,
-      "Рыжков Владимир Александрович": 29,
-      "Сартаков Андрей Александрович": 26,
-      "Чеснов Павел Алексеевич": 2,
-      "Щукин Андрей Евгеньевич": 11
+      "gas:candidate-vibid:22220001365897": 93,
+      "gas:candidate-vibid:22220001359266": 23,
+      "gas:candidate-vibid:22220001370606": 7,
+      "gas:candidate-vibid:22220001368892": 29,
+      "gas:candidate-vibid:22220001368781": 26,
+      "gas:candidate-vibid:22220001368994": 2,
+      "gas:candidate-vibid:22220001352021": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272340&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272340&type=464",
@@ -214,13 +214,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 29,
-      "Молотов Александр Владимирович": 7,
-      "Резникова Татьяна Владимировна": 2,
-      "Рыжков Владимир Александрович": 0,
-      "Сартаков Андрей Александрович": 8,
-      "Чеснов Павел Алексеевич": 1,
-      "Щукин Андрей Евгеньевич": 6
+      "gas:candidate-vibid:22220001365897": 29,
+      "gas:candidate-vibid:22220001359266": 7,
+      "gas:candidate-vibid:22220001370606": 2,
+      "gas:candidate-vibid:22220001368892": 0,
+      "gas:candidate-vibid:22220001368781": 8,
+      "gas:candidate-vibid:22220001368994": 1,
+      "gas:candidate-vibid:22220001352021": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272340&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272340&type=464",
@@ -271,13 +271,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 75,
-      "Молотов Александр Владимирович": 17,
-      "Резникова Татьяна Владимировна": 3,
-      "Рыжков Владимир Александрович": 14,
-      "Сартаков Андрей Александрович": 13,
-      "Чеснов Павел Алексеевич": 1,
-      "Щукин Андрей Евгеньевич": 10
+      "gas:candidate-vibid:22220001365897": 75,
+      "gas:candidate-vibid:22220001359266": 17,
+      "gas:candidate-vibid:22220001370606": 3,
+      "gas:candidate-vibid:22220001368892": 14,
+      "gas:candidate-vibid:22220001368781": 13,
+      "gas:candidate-vibid:22220001368994": 1,
+      "gas:candidate-vibid:22220001352021": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272340&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272340&type=464",
@@ -328,13 +328,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 48,
-      "Молотов Александр Владимирович": 3,
-      "Резникова Татьяна Владимировна": 1,
-      "Рыжков Владимир Александрович": 8,
-      "Сартаков Андрей Александрович": 5,
-      "Чеснов Павел Алексеевич": 1,
-      "Щукин Андрей Евгеньевич": 10
+      "gas:candidate-vibid:22220001365897": 48,
+      "gas:candidate-vibid:22220001359266": 3,
+      "gas:candidate-vibid:22220001370606": 1,
+      "gas:candidate-vibid:22220001368892": 8,
+      "gas:candidate-vibid:22220001368781": 5,
+      "gas:candidate-vibid:22220001368994": 1,
+      "gas:candidate-vibid:22220001352021": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272340&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272340&type=464",
@@ -385,13 +385,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 367,
-      "Молотов Александр Владимирович": 152,
-      "Резникова Татьяна Владимировна": 15,
-      "Рыжков Владимир Александрович": 145,
-      "Сартаков Андрей Александрович": 121,
-      "Чеснов Павел Алексеевич": 14,
-      "Щукин Андрей Евгеньевич": 102
+      "gas:candidate-vibid:22220001365897": 367,
+      "gas:candidate-vibid:22220001359266": 152,
+      "gas:candidate-vibid:22220001370606": 15,
+      "gas:candidate-vibid:22220001368892": 145,
+      "gas:candidate-vibid:22220001368781": 121,
+      "gas:candidate-vibid:22220001368994": 14,
+      "gas:candidate-vibid:22220001352021": 102
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272340&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272340&type=464",
@@ -442,13 +442,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 134,
-      "Молотов Александр Владимирович": 41,
-      "Резникова Татьяна Владимировна": 2,
-      "Рыжков Владимир Александрович": 48,
-      "Сартаков Андрей Александрович": 45,
-      "Чеснов Павел Алексеевич": 4,
-      "Щукин Андрей Евгеньевич": 42
+      "gas:candidate-vibid:22220001365897": 134,
+      "gas:candidate-vibid:22220001359266": 41,
+      "gas:candidate-vibid:22220001370606": 2,
+      "gas:candidate-vibid:22220001368892": 48,
+      "gas:candidate-vibid:22220001368781": 45,
+      "gas:candidate-vibid:22220001368994": 4,
+      "gas:candidate-vibid:22220001352021": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272340&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272340&type=464",
@@ -499,13 +499,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 144,
-      "Молотов Александр Владимирович": 56,
-      "Резникова Татьяна Владимировна": 8,
-      "Рыжков Владимир Александрович": 40,
-      "Сартаков Андрей Александрович": 27,
-      "Чеснов Павел Алексеевич": 6,
-      "Щукин Андрей Евгеньевич": 46
+      "gas:candidate-vibid:22220001365897": 144,
+      "gas:candidate-vibid:22220001359266": 56,
+      "gas:candidate-vibid:22220001370606": 8,
+      "gas:candidate-vibid:22220001368892": 40,
+      "gas:candidate-vibid:22220001368781": 27,
+      "gas:candidate-vibid:22220001368994": 6,
+      "gas:candidate-vibid:22220001352021": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272340&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272340&type=464",
@@ -556,13 +556,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 149,
-      "Молотов Александр Владимирович": 20,
-      "Резникова Татьяна Владимировна": 7,
-      "Рыжков Владимир Александрович": 51,
-      "Сартаков Андрей Александрович": 40,
-      "Чеснов Павел Алексеевич": 5,
-      "Щукин Андрей Евгеньевич": 37
+      "gas:candidate-vibid:22220001365897": 149,
+      "gas:candidate-vibid:22220001359266": 20,
+      "gas:candidate-vibid:22220001370606": 7,
+      "gas:candidate-vibid:22220001368892": 51,
+      "gas:candidate-vibid:22220001368781": 40,
+      "gas:candidate-vibid:22220001368994": 5,
+      "gas:candidate-vibid:22220001352021": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272340&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272340&type=464",
@@ -613,13 +613,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 13,
-      "Молотов Александр Владимирович": 3,
-      "Резникова Татьяна Владимировна": 1,
-      "Рыжков Владимир Александрович": 9,
-      "Сартаков Андрей Александрович": 4,
-      "Чеснов Павел Алексеевич": 0,
-      "Щукин Андрей Евгеньевич": 4
+      "gas:candidate-vibid:22220001365897": 13,
+      "gas:candidate-vibid:22220001359266": 3,
+      "gas:candidate-vibid:22220001370606": 1,
+      "gas:candidate-vibid:22220001368892": 9,
+      "gas:candidate-vibid:22220001368781": 4,
+      "gas:candidate-vibid:22220001368994": 0,
+      "gas:candidate-vibid:22220001352021": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272340&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272340&type=464",
@@ -670,13 +670,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 31,
-      "Молотов Александр Владимирович": 5,
-      "Резникова Татьяна Владимировна": 1,
-      "Рыжков Владимир Александрович": 2,
-      "Сартаков Андрей Александрович": 4,
-      "Чеснов Павел Алексеевич": 1,
-      "Щукин Андрей Евгеньевич": 6
+      "gas:candidate-vibid:22220001365897": 31,
+      "gas:candidate-vibid:22220001359266": 5,
+      "gas:candidate-vibid:22220001370606": 1,
+      "gas:candidate-vibid:22220001368892": 2,
+      "gas:candidate-vibid:22220001368781": 4,
+      "gas:candidate-vibid:22220001368994": 1,
+      "gas:candidate-vibid:22220001352021": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272340&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272340&type=464",
@@ -727,13 +727,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 127,
-      "Молотов Александр Владимирович": 32,
-      "Резникова Татьяна Владимировна": 1,
-      "Рыжков Владимир Александрович": 40,
-      "Сартаков Андрей Александрович": 23,
-      "Чеснов Павел Алексеевич": 3,
-      "Щукин Андрей Евгеньевич": 18
+      "gas:candidate-vibid:22220001365897": 127,
+      "gas:candidate-vibid:22220001359266": 32,
+      "gas:candidate-vibid:22220001370606": 1,
+      "gas:candidate-vibid:22220001368892": 40,
+      "gas:candidate-vibid:22220001368781": 23,
+      "gas:candidate-vibid:22220001368994": 3,
+      "gas:candidate-vibid:22220001352021": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272340&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272340&type=464",
@@ -784,13 +784,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 33,
-      "Молотов Александр Владимирович": 12,
-      "Резникова Татьяна Владимировна": 1,
-      "Рыжков Владимир Александрович": 6,
-      "Сартаков Андрей Александрович": 5,
-      "Чеснов Павел Алексеевич": 0,
-      "Щукин Андрей Евгеньевич": 6
+      "gas:candidate-vibid:22220001365897": 33,
+      "gas:candidate-vibid:22220001359266": 12,
+      "gas:candidate-vibid:22220001370606": 1,
+      "gas:candidate-vibid:22220001368892": 6,
+      "gas:candidate-vibid:22220001368781": 5,
+      "gas:candidate-vibid:22220001368994": 0,
+      "gas:candidate-vibid:22220001352021": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272340&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272340&type=464",
@@ -841,13 +841,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 50,
-      "Молотов Александр Владимирович": 16,
-      "Резникова Татьяна Владимировна": 2,
-      "Рыжков Владимир Александрович": 16,
-      "Сартаков Андрей Александрович": 18,
-      "Чеснов Павел Алексеевич": 0,
-      "Щукин Андрей Евгеньевич": 7
+      "gas:candidate-vibid:22220001365897": 50,
+      "gas:candidate-vibid:22220001359266": 16,
+      "gas:candidate-vibid:22220001370606": 2,
+      "gas:candidate-vibid:22220001368892": 16,
+      "gas:candidate-vibid:22220001368781": 18,
+      "gas:candidate-vibid:22220001368994": 0,
+      "gas:candidate-vibid:22220001352021": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272340&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272340&type=464",
@@ -898,13 +898,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 43,
-      "Молотов Александр Владимирович": 4,
-      "Резникова Татьяна Владимировна": 1,
-      "Рыжков Владимир Александрович": 10,
-      "Сартаков Андрей Александрович": 6,
-      "Чеснов Павел Алексеевич": 1,
-      "Щукин Андрей Евгеньевич": 10
+      "gas:candidate-vibid:22220001365897": 43,
+      "gas:candidate-vibid:22220001359266": 4,
+      "gas:candidate-vibid:22220001370606": 1,
+      "gas:candidate-vibid:22220001368892": 10,
+      "gas:candidate-vibid:22220001368781": 6,
+      "gas:candidate-vibid:22220001368994": 1,
+      "gas:candidate-vibid:22220001352021": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272340&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272340&type=464",
@@ -955,13 +955,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 19,
-      "Молотов Александр Владимирович": 2,
-      "Резникова Татьяна Владимировна": 1,
-      "Рыжков Владимир Александрович": 20,
-      "Сартаков Андрей Александрович": 4,
-      "Чеснов Павел Алексеевич": 0,
-      "Щукин Андрей Евгеньевич": 6
+      "gas:candidate-vibid:22220001365897": 19,
+      "gas:candidate-vibid:22220001359266": 2,
+      "gas:candidate-vibid:22220001370606": 1,
+      "gas:candidate-vibid:22220001368892": 20,
+      "gas:candidate-vibid:22220001368781": 4,
+      "gas:candidate-vibid:22220001368994": 0,
+      "gas:candidate-vibid:22220001352021": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272340&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272340&type=464",
@@ -1012,13 +1012,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 92,
-      "Молотов Александр Владимирович": 39,
-      "Резникова Татьяна Владимировна": 3,
-      "Рыжков Владимир Александрович": 35,
-      "Сартаков Андрей Александрович": 43,
-      "Чеснов Павел Алексеевич": 1,
-      "Щукин Андрей Евгеньевич": 54
+      "gas:candidate-vibid:22220001365897": 92,
+      "gas:candidate-vibid:22220001359266": 39,
+      "gas:candidate-vibid:22220001370606": 3,
+      "gas:candidate-vibid:22220001368892": 35,
+      "gas:candidate-vibid:22220001368781": 43,
+      "gas:candidate-vibid:22220001368994": 1,
+      "gas:candidate-vibid:22220001352021": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272340&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272340&type=464",
@@ -1069,13 +1069,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 41,
-      "Молотов Александр Владимирович": 3,
-      "Резникова Татьяна Владимировна": 4,
-      "Рыжков Владимир Александрович": 21,
-      "Сартаков Андрей Александрович": 10,
-      "Чеснов Павел Алексеевич": 3,
-      "Щукин Андрей Евгеньевич": 18
+      "gas:candidate-vibid:22220001365897": 41,
+      "gas:candidate-vibid:22220001359266": 3,
+      "gas:candidate-vibid:22220001370606": 4,
+      "gas:candidate-vibid:22220001368892": 21,
+      "gas:candidate-vibid:22220001368781": 10,
+      "gas:candidate-vibid:22220001368994": 3,
+      "gas:candidate-vibid:22220001352021": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272340&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272340&type=464",
@@ -1126,13 +1126,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 126,
-      "Молотов Александр Владимирович": 39,
-      "Резникова Татьяна Владимировна": 7,
-      "Рыжков Владимир Александрович": 27,
-      "Сартаков Андрей Александрович": 47,
-      "Чеснов Павел Алексеевич": 4,
-      "Щукин Андрей Евгеньевич": 47
+      "gas:candidate-vibid:22220001365897": 126,
+      "gas:candidate-vibid:22220001359266": 39,
+      "gas:candidate-vibid:22220001370606": 7,
+      "gas:candidate-vibid:22220001368892": 27,
+      "gas:candidate-vibid:22220001368781": 47,
+      "gas:candidate-vibid:22220001368994": 4,
+      "gas:candidate-vibid:22220001352021": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272340&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272340&type=464",
@@ -1183,13 +1183,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 33,
-      "Молотов Александр Владимирович": 26,
-      "Резникова Татьяна Владимировна": 6,
-      "Рыжков Владимир Александрович": 9,
-      "Сартаков Андрей Александрович": 9,
-      "Чеснов Павел Алексеевич": 0,
-      "Щукин Андрей Евгеньевич": 19
+      "gas:candidate-vibid:22220001365897": 33,
+      "gas:candidate-vibid:22220001359266": 26,
+      "gas:candidate-vibid:22220001370606": 6,
+      "gas:candidate-vibid:22220001368892": 9,
+      "gas:candidate-vibid:22220001368781": 9,
+      "gas:candidate-vibid:22220001368994": 0,
+      "gas:candidate-vibid:22220001352021": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272340&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272340&type=464",
@@ -1240,13 +1240,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 45,
-      "Молотов Александр Владимирович": 7,
-      "Резникова Татьяна Владимировна": 2,
-      "Рыжков Владимир Александрович": 1,
-      "Сартаков Андрей Александрович": 10,
-      "Чеснов Павел Алексеевич": 0,
-      "Щукин Андрей Евгеньевич": 8
+      "gas:candidate-vibid:22220001365897": 45,
+      "gas:candidate-vibid:22220001359266": 7,
+      "gas:candidate-vibid:22220001370606": 2,
+      "gas:candidate-vibid:22220001368892": 1,
+      "gas:candidate-vibid:22220001368781": 10,
+      "gas:candidate-vibid:22220001368994": 0,
+      "gas:candidate-vibid:22220001352021": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272340&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272340&type=464",
@@ -1297,13 +1297,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 53,
-      "Молотов Александр Владимирович": 19,
-      "Резникова Татьяна Владимировна": 2,
-      "Рыжков Владимир Александрович": 10,
-      "Сартаков Андрей Александрович": 16,
-      "Чеснов Павел Алексеевич": 1,
-      "Щукин Андрей Евгеньевич": 18
+      "gas:candidate-vibid:22220001365897": 53,
+      "gas:candidate-vibid:22220001359266": 19,
+      "gas:candidate-vibid:22220001370606": 2,
+      "gas:candidate-vibid:22220001368892": 10,
+      "gas:candidate-vibid:22220001368781": 16,
+      "gas:candidate-vibid:22220001368994": 1,
+      "gas:candidate-vibid:22220001352021": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272340&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272340&type=464",
@@ -1354,13 +1354,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 107,
-      "Молотов Александр Владимирович": 31,
-      "Резникова Татьяна Владимировна": 6,
-      "Рыжков Владимир Александрович": 39,
-      "Сартаков Андрей Александрович": 54,
-      "Чеснов Павел Алексеевич": 5,
-      "Щукин Андрей Евгеньевич": 31
+      "gas:candidate-vibid:22220001365897": 107,
+      "gas:candidate-vibid:22220001359266": 31,
+      "gas:candidate-vibid:22220001370606": 6,
+      "gas:candidate-vibid:22220001368892": 39,
+      "gas:candidate-vibid:22220001368781": 54,
+      "gas:candidate-vibid:22220001368994": 5,
+      "gas:candidate-vibid:22220001352021": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272340&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272340&type=464",
@@ -1411,13 +1411,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 9,
-      "Молотов Александр Владимирович": 12,
-      "Резникова Татьяна Владимировна": 1,
-      "Рыжков Владимир Александрович": 7,
-      "Сартаков Андрей Александрович": 3,
-      "Чеснов Павел Алексеевич": 0,
-      "Щукин Андрей Евгеньевич": 10
+      "gas:candidate-vibid:22220001365897": 9,
+      "gas:candidate-vibid:22220001359266": 12,
+      "gas:candidate-vibid:22220001370606": 1,
+      "gas:candidate-vibid:22220001368892": 7,
+      "gas:candidate-vibid:22220001368781": 3,
+      "gas:candidate-vibid:22220001368994": 0,
+      "gas:candidate-vibid:22220001352021": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272340&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272340&type=464",
@@ -1468,13 +1468,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 23,
-      "Молотов Александр Владимирович": 10,
-      "Резникова Татьяна Владимировна": 3,
-      "Рыжков Владимир Александрович": 7,
-      "Сартаков Андрей Александрович": 4,
-      "Чеснов Павел Алексеевич": 1,
-      "Щукин Андрей Евгеньевич": 6
+      "gas:candidate-vibid:22220001365897": 23,
+      "gas:candidate-vibid:22220001359266": 10,
+      "gas:candidate-vibid:22220001370606": 3,
+      "gas:candidate-vibid:22220001368892": 7,
+      "gas:candidate-vibid:22220001368781": 4,
+      "gas:candidate-vibid:22220001368994": 1,
+      "gas:candidate-vibid:22220001352021": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272340&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272340&type=464",
@@ -1525,13 +1525,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 13,
-      "Молотов Александр Владимирович": 10,
-      "Резникова Татьяна Владимировна": 1,
-      "Рыжков Владимир Александрович": 3,
-      "Сартаков Андрей Александрович": 21,
-      "Чеснов Павел Алексеевич": 1,
-      "Щукин Андрей Евгеньевич": 9
+      "gas:candidate-vibid:22220001365897": 13,
+      "gas:candidate-vibid:22220001359266": 10,
+      "gas:candidate-vibid:22220001370606": 1,
+      "gas:candidate-vibid:22220001368892": 3,
+      "gas:candidate-vibid:22220001368781": 21,
+      "gas:candidate-vibid:22220001368994": 1,
+      "gas:candidate-vibid:22220001352021": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272340&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272340&type=464",
@@ -1582,13 +1582,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 11,
-      "Молотов Александр Владимирович": 8,
-      "Резникова Татьяна Владимировна": 0,
-      "Рыжков Владимир Александрович": 2,
-      "Сартаков Андрей Александрович": 7,
-      "Чеснов Павел Алексеевич": 1,
-      "Щукин Андрей Евгеньевич": 6
+      "gas:candidate-vibid:22220001365897": 11,
+      "gas:candidate-vibid:22220001359266": 8,
+      "gas:candidate-vibid:22220001370606": 0,
+      "gas:candidate-vibid:22220001368892": 2,
+      "gas:candidate-vibid:22220001368781": 7,
+      "gas:candidate-vibid:22220001368994": 1,
+      "gas:candidate-vibid:22220001352021": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272340&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272340&type=464",
@@ -1639,13 +1639,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 55,
-      "Молотов Александр Владимирович": 15,
-      "Резникова Татьяна Владимировна": 3,
-      "Рыжков Владимир Александрович": 9,
-      "Сартаков Андрей Александрович": 16,
-      "Чеснов Павел Алексеевич": 0,
-      "Щукин Андрей Евгеньевич": 12
+      "gas:candidate-vibid:22220001365897": 55,
+      "gas:candidate-vibid:22220001359266": 15,
+      "gas:candidate-vibid:22220001370606": 3,
+      "gas:candidate-vibid:22220001368892": 9,
+      "gas:candidate-vibid:22220001368781": 16,
+      "gas:candidate-vibid:22220001368994": 0,
+      "gas:candidate-vibid:22220001352021": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272340&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272340&type=464",
@@ -1696,13 +1696,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 62,
-      "Молотов Александр Владимирович": 30,
-      "Резникова Татьяна Владимировна": 1,
-      "Рыжков Владимир Александрович": 15,
-      "Сартаков Андрей Александрович": 21,
-      "Чеснов Павел Алексеевич": 0,
-      "Щукин Андрей Евгеньевич": 39
+      "gas:candidate-vibid:22220001365897": 62,
+      "gas:candidate-vibid:22220001359266": 30,
+      "gas:candidate-vibid:22220001370606": 1,
+      "gas:candidate-vibid:22220001368892": 15,
+      "gas:candidate-vibid:22220001368781": 21,
+      "gas:candidate-vibid:22220001368994": 0,
+      "gas:candidate-vibid:22220001352021": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272341&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272341&type=464",
@@ -1753,13 +1753,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 73,
-      "Молотов Александр Владимирович": 60,
-      "Резникова Татьяна Владимировна": 8,
-      "Рыжков Владимир Александрович": 37,
-      "Сартаков Андрей Александрович": 24,
-      "Чеснов Павел Алексеевич": 3,
-      "Щукин Андрей Евгеньевич": 46
+      "gas:candidate-vibid:22220001365897": 73,
+      "gas:candidate-vibid:22220001359266": 60,
+      "gas:candidate-vibid:22220001370606": 8,
+      "gas:candidate-vibid:22220001368892": 37,
+      "gas:candidate-vibid:22220001368781": 24,
+      "gas:candidate-vibid:22220001368994": 3,
+      "gas:candidate-vibid:22220001352021": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272341&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272341&type=464",
@@ -1810,13 +1810,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 34,
-      "Молотов Александр Владимирович": 19,
-      "Резникова Татьяна Владимировна": 5,
-      "Рыжков Владимир Александрович": 24,
-      "Сартаков Андрей Александрович": 28,
-      "Чеснов Павел Алексеевич": 4,
-      "Щукин Андрей Евгеньевич": 23
+      "gas:candidate-vibid:22220001365897": 34,
+      "gas:candidate-vibid:22220001359266": 19,
+      "gas:candidate-vibid:22220001370606": 5,
+      "gas:candidate-vibid:22220001368892": 24,
+      "gas:candidate-vibid:22220001368781": 28,
+      "gas:candidate-vibid:22220001368994": 4,
+      "gas:candidate-vibid:22220001352021": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272341&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272341&type=464",
@@ -1867,13 +1867,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 111,
-      "Молотов Александр Владимирович": 44,
-      "Резникова Татьяна Владимировна": 9,
-      "Рыжков Владимир Александрович": 33,
-      "Сартаков Андрей Александрович": 32,
-      "Чеснов Павел Алексеевич": 0,
-      "Щукин Андрей Евгеньевич": 32
+      "gas:candidate-vibid:22220001365897": 111,
+      "gas:candidate-vibid:22220001359266": 44,
+      "gas:candidate-vibid:22220001370606": 9,
+      "gas:candidate-vibid:22220001368892": 33,
+      "gas:candidate-vibid:22220001368781": 32,
+      "gas:candidate-vibid:22220001368994": 0,
+      "gas:candidate-vibid:22220001352021": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272341&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272341&type=464",
@@ -1924,13 +1924,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 38,
-      "Молотов Александр Владимирович": 18,
-      "Резникова Татьяна Владимировна": 1,
-      "Рыжков Владимир Александрович": 26,
-      "Сартаков Андрей Александрович": 15,
-      "Чеснов Павел Алексеевич": 2,
-      "Щукин Андрей Евгеньевич": 8
+      "gas:candidate-vibid:22220001365897": 38,
+      "gas:candidate-vibid:22220001359266": 18,
+      "gas:candidate-vibid:22220001370606": 1,
+      "gas:candidate-vibid:22220001368892": 26,
+      "gas:candidate-vibid:22220001368781": 15,
+      "gas:candidate-vibid:22220001368994": 2,
+      "gas:candidate-vibid:22220001352021": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272341&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272341&type=464",
@@ -1981,13 +1981,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 57,
-      "Молотов Александр Владимирович": 63,
-      "Резникова Татьяна Владимировна": 3,
-      "Рыжков Владимир Александрович": 30,
-      "Сартаков Андрей Александрович": 36,
-      "Чеснов Павел Алексеевич": 2,
-      "Щукин Андрей Евгеньевич": 34
+      "gas:candidate-vibid:22220001365897": 57,
+      "gas:candidate-vibid:22220001359266": 63,
+      "gas:candidate-vibid:22220001370606": 3,
+      "gas:candidate-vibid:22220001368892": 30,
+      "gas:candidate-vibid:22220001368781": 36,
+      "gas:candidate-vibid:22220001368994": 2,
+      "gas:candidate-vibid:22220001352021": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272341&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272341&type=464",
@@ -2038,13 +2038,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 83,
-      "Молотов Александр Владимирович": 107,
-      "Резникова Татьяна Владимировна": 13,
-      "Рыжков Владимир Александрович": 31,
-      "Сартаков Андрей Александрович": 29,
-      "Чеснов Павел Алексеевич": 3,
-      "Щукин Андрей Евгеньевич": 51
+      "gas:candidate-vibid:22220001365897": 83,
+      "gas:candidate-vibid:22220001359266": 107,
+      "gas:candidate-vibid:22220001370606": 13,
+      "gas:candidate-vibid:22220001368892": 31,
+      "gas:candidate-vibid:22220001368781": 29,
+      "gas:candidate-vibid:22220001368994": 3,
+      "gas:candidate-vibid:22220001352021": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272341&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272341&type=464",
@@ -2095,13 +2095,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 18,
-      "Молотов Александр Владимирович": 13,
-      "Резникова Татьяна Владимировна": 1,
-      "Рыжков Владимир Александрович": 17,
-      "Сартаков Андрей Александрович": 4,
-      "Чеснов Павел Алексеевич": 2,
-      "Щукин Андрей Евгеньевич": 13
+      "gas:candidate-vibid:22220001365897": 18,
+      "gas:candidate-vibid:22220001359266": 13,
+      "gas:candidate-vibid:22220001370606": 1,
+      "gas:candidate-vibid:22220001368892": 17,
+      "gas:candidate-vibid:22220001368781": 4,
+      "gas:candidate-vibid:22220001368994": 2,
+      "gas:candidate-vibid:22220001352021": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272341&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272341&type=464",
@@ -2152,13 +2152,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 56,
-      "Молотов Александр Владимирович": 14,
-      "Резникова Татьяна Владимировна": 2,
-      "Рыжков Владимир Александрович": 9,
-      "Сартаков Андрей Александрович": 15,
-      "Чеснов Павел Алексеевич": 0,
-      "Щукин Андрей Евгеньевич": 5
+      "gas:candidate-vibid:22220001365897": 56,
+      "gas:candidate-vibid:22220001359266": 14,
+      "gas:candidate-vibid:22220001370606": 2,
+      "gas:candidate-vibid:22220001368892": 9,
+      "gas:candidate-vibid:22220001368781": 15,
+      "gas:candidate-vibid:22220001368994": 0,
+      "gas:candidate-vibid:22220001352021": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272341&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272341&type=464",
@@ -2209,13 +2209,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 27,
-      "Молотов Александр Владимирович": 7,
-      "Резникова Татьяна Владимировна": 0,
-      "Рыжков Владимир Александрович": 26,
-      "Сартаков Андрей Александрович": 2,
-      "Чеснов Павел Алексеевич": 0,
-      "Щукин Андрей Евгеньевич": 9
+      "gas:candidate-vibid:22220001365897": 27,
+      "gas:candidate-vibid:22220001359266": 7,
+      "gas:candidate-vibid:22220001370606": 0,
+      "gas:candidate-vibid:22220001368892": 26,
+      "gas:candidate-vibid:22220001368781": 2,
+      "gas:candidate-vibid:22220001368994": 0,
+      "gas:candidate-vibid:22220001352021": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272341&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272341&type=464",
@@ -2266,13 +2266,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 149,
-      "Молотов Александр Владимирович": 44,
-      "Резникова Татьяна Владимировна": 7,
-      "Рыжков Владимир Александрович": 22,
-      "Сартаков Андрей Александрович": 31,
-      "Чеснов Павел Алексеевич": 0,
-      "Щукин Андрей Евгеньевич": 32
+      "gas:candidate-vibid:22220001365897": 149,
+      "gas:candidate-vibid:22220001359266": 44,
+      "gas:candidate-vibid:22220001370606": 7,
+      "gas:candidate-vibid:22220001368892": 22,
+      "gas:candidate-vibid:22220001368781": 31,
+      "gas:candidate-vibid:22220001368994": 0,
+      "gas:candidate-vibid:22220001352021": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272341&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272341&type=464",
@@ -2323,13 +2323,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 21,
-      "Молотов Александр Владимирович": 8,
-      "Резникова Татьяна Владимировна": 0,
-      "Рыжков Владимир Александрович": 9,
-      "Сартаков Андрей Александрович": 4,
-      "Чеснов Павел Алексеевич": 0,
-      "Щукин Андрей Евгеньевич": 11
+      "gas:candidate-vibid:22220001365897": 21,
+      "gas:candidate-vibid:22220001359266": 8,
+      "gas:candidate-vibid:22220001370606": 0,
+      "gas:candidate-vibid:22220001368892": 9,
+      "gas:candidate-vibid:22220001368781": 4,
+      "gas:candidate-vibid:22220001368994": 0,
+      "gas:candidate-vibid:22220001352021": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272341&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272341&type=464",
@@ -2380,13 +2380,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 52,
-      "Молотов Александр Владимирович": 37,
-      "Резникова Татьяна Владимировна": 2,
-      "Рыжков Владимир Александрович": 12,
-      "Сартаков Андрей Александрович": 17,
-      "Чеснов Павел Алексеевич": 1,
-      "Щукин Андрей Евгеньевич": 10
+      "gas:candidate-vibid:22220001365897": 52,
+      "gas:candidate-vibid:22220001359266": 37,
+      "gas:candidate-vibid:22220001370606": 2,
+      "gas:candidate-vibid:22220001368892": 12,
+      "gas:candidate-vibid:22220001368781": 17,
+      "gas:candidate-vibid:22220001368994": 1,
+      "gas:candidate-vibid:22220001352021": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272341&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272341&type=464",
@@ -2437,13 +2437,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 36,
-      "Молотов Александр Владимирович": 24,
-      "Резникова Татьяна Владимировна": 6,
-      "Рыжков Владимир Александрович": 53,
-      "Сартаков Андрей Александрович": 17,
-      "Чеснов Павел Алексеевич": 4,
-      "Щукин Андрей Евгеньевич": 19
+      "gas:candidate-vibid:22220001365897": 36,
+      "gas:candidate-vibid:22220001359266": 24,
+      "gas:candidate-vibid:22220001370606": 6,
+      "gas:candidate-vibid:22220001368892": 53,
+      "gas:candidate-vibid:22220001368781": 17,
+      "gas:candidate-vibid:22220001368994": 4,
+      "gas:candidate-vibid:22220001352021": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272341&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272341&type=464",
@@ -2494,13 +2494,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 7,
-      "Молотов Александр Владимирович": 2,
-      "Резникова Татьяна Владимировна": 0,
-      "Рыжков Владимир Александрович": 16,
-      "Сартаков Андрей Александрович": 2,
-      "Чеснов Павел Алексеевич": 0,
-      "Щукин Андрей Евгеньевич": 3
+      "gas:candidate-vibid:22220001365897": 7,
+      "gas:candidate-vibid:22220001359266": 2,
+      "gas:candidate-vibid:22220001370606": 0,
+      "gas:candidate-vibid:22220001368892": 16,
+      "gas:candidate-vibid:22220001368781": 2,
+      "gas:candidate-vibid:22220001368994": 0,
+      "gas:candidate-vibid:22220001352021": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272341&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272341&type=464",
@@ -2551,13 +2551,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 25,
-      "Молотов Александр Владимирович": 9,
-      "Резникова Татьяна Владимировна": 1,
-      "Рыжков Владимир Александрович": 14,
-      "Сартаков Андрей Александрович": 3,
-      "Чеснов Павел Алексеевич": 0,
-      "Щукин Андрей Евгеньевич": 4
+      "gas:candidate-vibid:22220001365897": 25,
+      "gas:candidate-vibid:22220001359266": 9,
+      "gas:candidate-vibid:22220001370606": 1,
+      "gas:candidate-vibid:22220001368892": 14,
+      "gas:candidate-vibid:22220001368781": 3,
+      "gas:candidate-vibid:22220001368994": 0,
+      "gas:candidate-vibid:22220001352021": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272341&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272341&type=464",
@@ -2608,13 +2608,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 46,
-      "Молотов Александр Владимирович": 40,
-      "Резникова Татьяна Владимировна": 7,
-      "Рыжков Владимир Александрович": 16,
-      "Сартаков Андрей Александрович": 38,
-      "Чеснов Павел Алексеевич": 1,
-      "Щукин Андрей Евгеньевич": 24
+      "gas:candidate-vibid:22220001365897": 46,
+      "gas:candidate-vibid:22220001359266": 40,
+      "gas:candidate-vibid:22220001370606": 7,
+      "gas:candidate-vibid:22220001368892": 16,
+      "gas:candidate-vibid:22220001368781": 38,
+      "gas:candidate-vibid:22220001368994": 1,
+      "gas:candidate-vibid:22220001352021": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272341&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272341&type=464",
@@ -2665,13 +2665,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 128,
-      "Молотов Александр Владимирович": 77,
-      "Резникова Татьяна Владимировна": 8,
-      "Рыжков Владимир Александрович": 39,
-      "Сартаков Андрей Александрович": 59,
-      "Чеснов Павел Алексеевич": 6,
-      "Щукин Андрей Евгеньевич": 41
+      "gas:candidate-vibid:22220001365897": 128,
+      "gas:candidate-vibid:22220001359266": 77,
+      "gas:candidate-vibid:22220001370606": 8,
+      "gas:candidate-vibid:22220001368892": 39,
+      "gas:candidate-vibid:22220001368781": 59,
+      "gas:candidate-vibid:22220001368994": 6,
+      "gas:candidate-vibid:22220001352021": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272341&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272341&type=464",
@@ -2722,13 +2722,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 132,
-      "Молотов Александр Владимирович": 75,
-      "Резникова Татьяна Владимировна": 13,
-      "Рыжков Владимир Александрович": 53,
-      "Сартаков Андрей Александрович": 53,
-      "Чеснов Павел Алексеевич": 4,
-      "Щукин Андрей Евгеньевич": 48
+      "gas:candidate-vibid:22220001365897": 132,
+      "gas:candidate-vibid:22220001359266": 75,
+      "gas:candidate-vibid:22220001370606": 13,
+      "gas:candidate-vibid:22220001368892": 53,
+      "gas:candidate-vibid:22220001368781": 53,
+      "gas:candidate-vibid:22220001368994": 4,
+      "gas:candidate-vibid:22220001352021": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272341&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272341&type=464",
@@ -2779,13 +2779,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 72,
-      "Молотов Александр Владимирович": 46,
-      "Резникова Татьяна Владимировна": 6,
-      "Рыжков Владимир Александрович": 29,
-      "Сартаков Андрей Александрович": 63,
-      "Чеснов Павел Алексеевич": 3,
-      "Щукин Андрей Евгеньевич": 24
+      "gas:candidate-vibid:22220001365897": 72,
+      "gas:candidate-vibid:22220001359266": 46,
+      "gas:candidate-vibid:22220001370606": 6,
+      "gas:candidate-vibid:22220001368892": 29,
+      "gas:candidate-vibid:22220001368781": 63,
+      "gas:candidate-vibid:22220001368994": 3,
+      "gas:candidate-vibid:22220001352021": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272341&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272341&type=464",
@@ -2836,13 +2836,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 51,
-      "Молотов Александр Владимирович": 50,
-      "Резникова Татьяна Владимировна": 5,
-      "Рыжков Владимир Александрович": 19,
-      "Сартаков Андрей Александрович": 30,
-      "Чеснов Павел Алексеевич": 0,
-      "Щукин Андрей Евгеньевич": 23
+      "gas:candidate-vibid:22220001365897": 51,
+      "gas:candidate-vibid:22220001359266": 50,
+      "gas:candidate-vibid:22220001370606": 5,
+      "gas:candidate-vibid:22220001368892": 19,
+      "gas:candidate-vibid:22220001368781": 30,
+      "gas:candidate-vibid:22220001368994": 0,
+      "gas:candidate-vibid:22220001352021": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272341&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272341&type=464",
@@ -2893,13 +2893,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 267,
-      "Молотов Александр Владимирович": 170,
-      "Резникова Татьяна Владимировна": 19,
-      "Рыжков Владимир Александрович": 79,
-      "Сартаков Андрей Александрович": 79,
-      "Чеснов Павел Алексеевич": 4,
-      "Щукин Андрей Евгеньевич": 62
+      "gas:candidate-vibid:22220001365897": 267,
+      "gas:candidate-vibid:22220001359266": 170,
+      "gas:candidate-vibid:22220001370606": 19,
+      "gas:candidate-vibid:22220001368892": 79,
+      "gas:candidate-vibid:22220001368781": 79,
+      "gas:candidate-vibid:22220001368994": 4,
+      "gas:candidate-vibid:22220001352021": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272342&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272342&type=464",
@@ -2950,13 +2950,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 50,
-      "Молотов Александр Владимирович": 18,
-      "Резникова Татьяна Владимировна": 5,
-      "Рыжков Владимир Александрович": 17,
-      "Сартаков Андрей Александрович": 16,
-      "Чеснов Павел Алексеевич": 2,
-      "Щукин Андрей Евгеньевич": 12
+      "gas:candidate-vibid:22220001365897": 50,
+      "gas:candidate-vibid:22220001359266": 18,
+      "gas:candidate-vibid:22220001370606": 5,
+      "gas:candidate-vibid:22220001368892": 17,
+      "gas:candidate-vibid:22220001368781": 16,
+      "gas:candidate-vibid:22220001368994": 2,
+      "gas:candidate-vibid:22220001352021": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272342&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272342&type=464",
@@ -3007,13 +3007,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 168,
-      "Молотов Александр Владимирович": 55,
-      "Резникова Татьяна Владимировна": 14,
-      "Рыжков Владимир Александрович": 54,
-      "Сартаков Андрей Александрович": 56,
-      "Чеснов Павел Алексеевич": 5,
-      "Щукин Андрей Евгеньевич": 49
+      "gas:candidate-vibid:22220001365897": 168,
+      "gas:candidate-vibid:22220001359266": 55,
+      "gas:candidate-vibid:22220001370606": 14,
+      "gas:candidate-vibid:22220001368892": 54,
+      "gas:candidate-vibid:22220001368781": 56,
+      "gas:candidate-vibid:22220001368994": 5,
+      "gas:candidate-vibid:22220001352021": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272342&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272342&type=464",
@@ -3064,13 +3064,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 40,
-      "Молотов Александр Владимирович": 8,
-      "Резникова Татьяна Владимировна": 2,
-      "Рыжков Владимир Александрович": 4,
-      "Сартаков Андрей Александрович": 6,
-      "Чеснов Павел Алексеевич": 1,
-      "Щукин Андрей Евгеньевич": 8
+      "gas:candidate-vibid:22220001365897": 40,
+      "gas:candidate-vibid:22220001359266": 8,
+      "gas:candidate-vibid:22220001370606": 2,
+      "gas:candidate-vibid:22220001368892": 4,
+      "gas:candidate-vibid:22220001368781": 6,
+      "gas:candidate-vibid:22220001368994": 1,
+      "gas:candidate-vibid:22220001352021": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272342&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272342&type=464",
@@ -3121,13 +3121,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 32,
-      "Молотов Александр Владимирович": 4,
-      "Резникова Татьяна Владимировна": 1,
-      "Рыжков Владимир Александрович": 5,
-      "Сартаков Андрей Александрович": 5,
-      "Чеснов Павел Алексеевич": 1,
-      "Щукин Андрей Евгеньевич": 13
+      "gas:candidate-vibid:22220001365897": 32,
+      "gas:candidate-vibid:22220001359266": 4,
+      "gas:candidate-vibid:22220001370606": 1,
+      "gas:candidate-vibid:22220001368892": 5,
+      "gas:candidate-vibid:22220001368781": 5,
+      "gas:candidate-vibid:22220001368994": 1,
+      "gas:candidate-vibid:22220001352021": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272342&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272342&type=464",
@@ -3178,13 +3178,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 18,
-      "Молотов Александр Владимирович": 8,
-      "Резникова Татьяна Владимировна": 5,
-      "Рыжков Владимир Александрович": 2,
-      "Сартаков Андрей Александрович": 7,
-      "Чеснов Павел Алексеевич": 3,
-      "Щукин Андрей Евгеньевич": 4
+      "gas:candidate-vibid:22220001365897": 18,
+      "gas:candidate-vibid:22220001359266": 8,
+      "gas:candidate-vibid:22220001370606": 5,
+      "gas:candidate-vibid:22220001368892": 2,
+      "gas:candidate-vibid:22220001368781": 7,
+      "gas:candidate-vibid:22220001368994": 3,
+      "gas:candidate-vibid:22220001352021": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272342&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272342&type=464",
@@ -3235,13 +3235,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 111,
-      "Молотов Александр Владимирович": 39,
-      "Резникова Татьяна Владимировна": 6,
-      "Рыжков Владимир Александрович": 33,
-      "Сартаков Андрей Александрович": 45,
-      "Чеснов Павел Алексеевич": 2,
-      "Щукин Андрей Евгеньевич": 23
+      "gas:candidate-vibid:22220001365897": 111,
+      "gas:candidate-vibid:22220001359266": 39,
+      "gas:candidate-vibid:22220001370606": 6,
+      "gas:candidate-vibid:22220001368892": 33,
+      "gas:candidate-vibid:22220001368781": 45,
+      "gas:candidate-vibid:22220001368994": 2,
+      "gas:candidate-vibid:22220001352021": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272342&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272342&type=464",
@@ -3292,13 +3292,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 17,
-      "Молотов Александр Владимирович": 6,
-      "Резникова Татьяна Владимировна": 1,
-      "Рыжков Владимир Александрович": 0,
-      "Сартаков Андрей Александрович": 6,
-      "Чеснов Павел Алексеевич": 0,
-      "Щукин Андрей Евгеньевич": 6
+      "gas:candidate-vibid:22220001365897": 17,
+      "gas:candidate-vibid:22220001359266": 6,
+      "gas:candidate-vibid:22220001370606": 1,
+      "gas:candidate-vibid:22220001368892": 0,
+      "gas:candidate-vibid:22220001368781": 6,
+      "gas:candidate-vibid:22220001368994": 0,
+      "gas:candidate-vibid:22220001352021": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272342&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272342&type=464",
@@ -3349,13 +3349,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 4,
-      "Молотов Александр Владимирович": 2,
-      "Резникова Татьяна Владимировна": 2,
-      "Рыжков Владимир Александрович": 0,
-      "Сартаков Андрей Александрович": 4,
-      "Чеснов Павел Алексеевич": 0,
-      "Щукин Андрей Евгеньевич": 3
+      "gas:candidate-vibid:22220001365897": 4,
+      "gas:candidate-vibid:22220001359266": 2,
+      "gas:candidate-vibid:22220001370606": 2,
+      "gas:candidate-vibid:22220001368892": 0,
+      "gas:candidate-vibid:22220001368781": 4,
+      "gas:candidate-vibid:22220001368994": 0,
+      "gas:candidate-vibid:22220001352021": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272342&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272342&type=464",
@@ -3406,13 +3406,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 54,
-      "Молотов Александр Владимирович": 18,
-      "Резникова Татьяна Владимировна": 6,
-      "Рыжков Владимир Александрович": 24,
-      "Сартаков Андрей Александрович": 24,
-      "Чеснов Павел Алексеевич": 1,
-      "Щукин Андрей Евгеньевич": 15
+      "gas:candidate-vibid:22220001365897": 54,
+      "gas:candidate-vibid:22220001359266": 18,
+      "gas:candidate-vibid:22220001370606": 6,
+      "gas:candidate-vibid:22220001368892": 24,
+      "gas:candidate-vibid:22220001368781": 24,
+      "gas:candidate-vibid:22220001368994": 1,
+      "gas:candidate-vibid:22220001352021": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272342&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272342&type=464",
@@ -3463,13 +3463,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 140,
-      "Молотов Александр Владимирович": 42,
-      "Резникова Татьяна Владимировна": 8,
-      "Рыжков Владимир Александрович": 55,
-      "Сартаков Андрей Александрович": 39,
-      "Чеснов Павел Алексеевич": 2,
-      "Щукин Андрей Евгеньевич": 25
+      "gas:candidate-vibid:22220001365897": 140,
+      "gas:candidate-vibid:22220001359266": 42,
+      "gas:candidate-vibid:22220001370606": 8,
+      "gas:candidate-vibid:22220001368892": 55,
+      "gas:candidate-vibid:22220001368781": 39,
+      "gas:candidate-vibid:22220001368994": 2,
+      "gas:candidate-vibid:22220001352021": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272342&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272342&type=464",
@@ -3520,13 +3520,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 36,
-      "Молотов Александр Владимирович": 12,
-      "Резникова Татьяна Владимировна": 3,
-      "Рыжков Владимир Александрович": 3,
-      "Сартаков Андрей Александрович": 1,
-      "Чеснов Павел Алексеевич": 0,
-      "Щукин Андрей Евгеньевич": 2
+      "gas:candidate-vibid:22220001365897": 36,
+      "gas:candidate-vibid:22220001359266": 12,
+      "gas:candidate-vibid:22220001370606": 3,
+      "gas:candidate-vibid:22220001368892": 3,
+      "gas:candidate-vibid:22220001368781": 1,
+      "gas:candidate-vibid:22220001368994": 0,
+      "gas:candidate-vibid:22220001352021": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272342&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272342&type=464",
@@ -3577,13 +3577,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 29,
-      "Молотов Александр Владимирович": 3,
-      "Резникова Татьяна Владимировна": 2,
-      "Рыжков Владимир Александрович": 5,
-      "Сартаков Андрей Александрович": 9,
-      "Чеснов Павел Алексеевич": 1,
-      "Щукин Андрей Евгеньевич": 1
+      "gas:candidate-vibid:22220001365897": 29,
+      "gas:candidate-vibid:22220001359266": 3,
+      "gas:candidate-vibid:22220001370606": 2,
+      "gas:candidate-vibid:22220001368892": 5,
+      "gas:candidate-vibid:22220001368781": 9,
+      "gas:candidate-vibid:22220001368994": 1,
+      "gas:candidate-vibid:22220001352021": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272342&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272342&type=464",
@@ -3634,13 +3634,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 142,
-      "Молотов Александр Владимирович": 42,
-      "Резникова Татьяна Владимировна": 7,
-      "Рыжков Владимир Александрович": 55,
-      "Сартаков Андрей Александрович": 69,
-      "Чеснов Павел Алексеевич": 5,
-      "Щукин Андрей Евгеньевич": 73
+      "gas:candidate-vibid:22220001365897": 142,
+      "gas:candidate-vibid:22220001359266": 42,
+      "gas:candidate-vibid:22220001370606": 7,
+      "gas:candidate-vibid:22220001368892": 55,
+      "gas:candidate-vibid:22220001368781": 69,
+      "gas:candidate-vibid:22220001368994": 5,
+      "gas:candidate-vibid:22220001352021": 73
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272342&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272342&type=464",
@@ -3691,13 +3691,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 15,
-      "Молотов Александр Владимирович": 7,
-      "Резникова Татьяна Владимировна": 2,
-      "Рыжков Владимир Александрович": 10,
-      "Сартаков Андрей Александрович": 4,
-      "Чеснов Павел Алексеевич": 0,
-      "Щукин Андрей Евгеньевич": 6
+      "gas:candidate-vibid:22220001365897": 15,
+      "gas:candidate-vibid:22220001359266": 7,
+      "gas:candidate-vibid:22220001370606": 2,
+      "gas:candidate-vibid:22220001368892": 10,
+      "gas:candidate-vibid:22220001368781": 4,
+      "gas:candidate-vibid:22220001368994": 0,
+      "gas:candidate-vibid:22220001352021": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272342&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272342&type=464",
@@ -3748,13 +3748,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 125,
-      "Молотов Александр Владимирович": 37,
-      "Резникова Татьяна Владимировна": 11,
-      "Рыжков Владимир Александрович": 53,
-      "Сартаков Андрей Александрович": 32,
-      "Чеснов Павел Алексеевич": 2,
-      "Щукин Андрей Евгеньевич": 48
+      "gas:candidate-vibid:22220001365897": 125,
+      "gas:candidate-vibid:22220001359266": 37,
+      "gas:candidate-vibid:22220001370606": 11,
+      "gas:candidate-vibid:22220001368892": 53,
+      "gas:candidate-vibid:22220001368781": 32,
+      "gas:candidate-vibid:22220001368994": 2,
+      "gas:candidate-vibid:22220001352021": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272342&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272342&type=464",
@@ -3805,13 +3805,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 104,
-      "Молотов Александр Владимирович": 34,
-      "Резникова Татьяна Владимировна": 5,
-      "Рыжков Владимир Александрович": 31,
-      "Сартаков Андрей Александрович": 40,
-      "Чеснов Павел Алексеевич": 0,
-      "Щукин Андрей Евгеньевич": 18
+      "gas:candidate-vibid:22220001365897": 104,
+      "gas:candidate-vibid:22220001359266": 34,
+      "gas:candidate-vibid:22220001370606": 5,
+      "gas:candidate-vibid:22220001368892": 31,
+      "gas:candidate-vibid:22220001368781": 40,
+      "gas:candidate-vibid:22220001368994": 0,
+      "gas:candidate-vibid:22220001352021": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272342&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272342&type=464",
@@ -3862,13 +3862,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 36,
-      "Молотов Александр Владимирович": 10,
-      "Резникова Татьяна Владимировна": 8,
-      "Рыжков Владимир Александрович": 12,
-      "Сартаков Андрей Александрович": 15,
-      "Чеснов Павел Алексеевич": 1,
-      "Щукин Андрей Евгеньевич": 14
+      "gas:candidate-vibid:22220001365897": 36,
+      "gas:candidate-vibid:22220001359266": 10,
+      "gas:candidate-vibid:22220001370606": 8,
+      "gas:candidate-vibid:22220001368892": 12,
+      "gas:candidate-vibid:22220001368781": 15,
+      "gas:candidate-vibid:22220001368994": 1,
+      "gas:candidate-vibid:22220001352021": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272342&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272342&type=464",
@@ -3919,13 +3919,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 38,
-      "Молотов Александр Владимирович": 4,
-      "Резникова Татьяна Владимировна": 4,
-      "Рыжков Владимир Александрович": 8,
-      "Сартаков Андрей Александрович": 16,
-      "Чеснов Павел Алексеевич": 0,
-      "Щукин Андрей Евгеньевич": 14
+      "gas:candidate-vibid:22220001365897": 38,
+      "gas:candidate-vibid:22220001359266": 4,
+      "gas:candidate-vibid:22220001370606": 4,
+      "gas:candidate-vibid:22220001368892": 8,
+      "gas:candidate-vibid:22220001368781": 16,
+      "gas:candidate-vibid:22220001368994": 0,
+      "gas:candidate-vibid:22220001352021": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272342&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272342&type=464",
@@ -3976,13 +3976,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 156,
-      "Молотов Александр Владимирович": 62,
-      "Резникова Татьяна Владимировна": 6,
-      "Рыжков Владимир Александрович": 43,
-      "Сартаков Андрей Александрович": 61,
-      "Чеснов Павел Алексеевич": 4,
-      "Щукин Андрей Евгеньевич": 55
+      "gas:candidate-vibid:22220001365897": 156,
+      "gas:candidate-vibid:22220001359266": 62,
+      "gas:candidate-vibid:22220001370606": 6,
+      "gas:candidate-vibid:22220001368892": 43,
+      "gas:candidate-vibid:22220001368781": 61,
+      "gas:candidate-vibid:22220001368994": 4,
+      "gas:candidate-vibid:22220001352021": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272342&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272342&type=464",
@@ -4033,13 +4033,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 99,
-      "Молотов Александр Владимирович": 37,
-      "Резникова Татьяна Владимировна": 8,
-      "Рыжков Владимир Александрович": 48,
-      "Сартаков Андрей Александрович": 52,
-      "Чеснов Павел Алексеевич": 3,
-      "Щукин Андрей Евгеньевич": 59
+      "gas:candidate-vibid:22220001365897": 99,
+      "gas:candidate-vibid:22220001359266": 37,
+      "gas:candidate-vibid:22220001370606": 8,
+      "gas:candidate-vibid:22220001368892": 48,
+      "gas:candidate-vibid:22220001368781": 52,
+      "gas:candidate-vibid:22220001368994": 3,
+      "gas:candidate-vibid:22220001352021": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272342&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272342&type=464",
@@ -4090,13 +4090,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 122,
-      "Молотов Александр Владимирович": 62,
-      "Резникова Татьяна Владимировна": 13,
-      "Рыжков Владимир Александрович": 38,
-      "Сартаков Андрей Александрович": 60,
-      "Чеснов Павел Алексеевич": 0,
-      "Щукин Андрей Евгеньевич": 42
+      "gas:candidate-vibid:22220001365897": 122,
+      "gas:candidate-vibid:22220001359266": 62,
+      "gas:candidate-vibid:22220001370606": 13,
+      "gas:candidate-vibid:22220001368892": 38,
+      "gas:candidate-vibid:22220001368781": 60,
+      "gas:candidate-vibid:22220001368994": 0,
+      "gas:candidate-vibid:22220001352021": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272342&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272342&type=464",
@@ -4147,13 +4147,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 147,
-      "Молотов Александр Владимирович": 79,
-      "Резникова Татьяна Владимировна": 8,
-      "Рыжков Владимир Александрович": 59,
-      "Сартаков Андрей Александрович": 84,
-      "Чеснов Павел Алексеевич": 1,
-      "Щукин Андрей Евгеньевич": 56
+      "gas:candidate-vibid:22220001365897": 147,
+      "gas:candidate-vibid:22220001359266": 79,
+      "gas:candidate-vibid:22220001370606": 8,
+      "gas:candidate-vibid:22220001368892": 59,
+      "gas:candidate-vibid:22220001368781": 84,
+      "gas:candidate-vibid:22220001368994": 1,
+      "gas:candidate-vibid:22220001352021": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272342&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272342&type=464",
@@ -4204,13 +4204,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 196,
-      "Молотов Александр Владимирович": 66,
-      "Резникова Татьяна Владимировна": 15,
-      "Рыжков Владимир Александрович": 64,
-      "Сартаков Андрей Александрович": 60,
-      "Чеснов Павел Алексеевич": 6,
-      "Щукин Андрей Евгеньевич": 59
+      "gas:candidate-vibid:22220001365897": 196,
+      "gas:candidate-vibid:22220001359266": 66,
+      "gas:candidate-vibid:22220001370606": 15,
+      "gas:candidate-vibid:22220001368892": 64,
+      "gas:candidate-vibid:22220001368781": 60,
+      "gas:candidate-vibid:22220001368994": 6,
+      "gas:candidate-vibid:22220001352021": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272342&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272342&type=464",
@@ -4261,13 +4261,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 134,
-      "Молотов Александр Владимирович": 66,
-      "Резникова Татьяна Владимировна": 14,
-      "Рыжков Владимир Александрович": 52,
-      "Сартаков Андрей Александрович": 65,
-      "Чеснов Павел Алексеевич": 3,
-      "Щукин Андрей Евгеньевич": 57
+      "gas:candidate-vibid:22220001365897": 134,
+      "gas:candidate-vibid:22220001359266": 66,
+      "gas:candidate-vibid:22220001370606": 14,
+      "gas:candidate-vibid:22220001368892": 52,
+      "gas:candidate-vibid:22220001368781": 65,
+      "gas:candidate-vibid:22220001368994": 3,
+      "gas:candidate-vibid:22220001352021": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272342&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272342&type=464",
@@ -4318,13 +4318,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 119,
-      "Молотов Александр Владимирович": 52,
-      "Резникова Татьяна Владимировна": 6,
-      "Рыжков Владимир Александрович": 54,
-      "Сартаков Андрей Александрович": 71,
-      "Чеснов Павел Алексеевич": 7,
-      "Щукин Андрей Евгеньевич": 49
+      "gas:candidate-vibid:22220001365897": 119,
+      "gas:candidate-vibid:22220001359266": 52,
+      "gas:candidate-vibid:22220001370606": 6,
+      "gas:candidate-vibid:22220001368892": 54,
+      "gas:candidate-vibid:22220001368781": 71,
+      "gas:candidate-vibid:22220001368994": 7,
+      "gas:candidate-vibid:22220001352021": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272342&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272342&type=464",
@@ -4375,13 +4375,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 162,
-      "Молотов Александр Владимирович": 89,
-      "Резникова Татьяна Владимировна": 19,
-      "Рыжков Владимир Александрович": 51,
-      "Сартаков Андрей Александрович": 83,
-      "Чеснов Павел Алексеевич": 9,
-      "Щукин Андрей Евгеньевич": 59
+      "gas:candidate-vibid:22220001365897": 162,
+      "gas:candidate-vibid:22220001359266": 89,
+      "gas:candidate-vibid:22220001370606": 19,
+      "gas:candidate-vibid:22220001368892": 51,
+      "gas:candidate-vibid:22220001368781": 83,
+      "gas:candidate-vibid:22220001368994": 9,
+      "gas:candidate-vibid:22220001352021": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272342&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272342&type=464",
@@ -4432,13 +4432,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 126,
-      "Молотов Александр Владимирович": 13,
-      "Резникова Татьяна Владимировна": 6,
-      "Рыжков Владимир Александрович": 29,
-      "Сартаков Андрей Александрович": 60,
-      "Чеснов Павел Алексеевич": 5,
-      "Щукин Андрей Евгеньевич": 72
+      "gas:candidate-vibid:22220001365897": 126,
+      "gas:candidate-vibid:22220001359266": 13,
+      "gas:candidate-vibid:22220001370606": 6,
+      "gas:candidate-vibid:22220001368892": 29,
+      "gas:candidate-vibid:22220001368781": 60,
+      "gas:candidate-vibid:22220001368994": 5,
+      "gas:candidate-vibid:22220001352021": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272343&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272343&type=464",
@@ -4489,13 +4489,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 89,
-      "Молотов Александр Владимирович": 31,
-      "Резникова Татьяна Владимировна": 4,
-      "Рыжков Владимир Александрович": 14,
-      "Сартаков Андрей Александрович": 29,
-      "Чеснов Павел Алексеевич": 4,
-      "Щукин Андрей Евгеньевич": 37
+      "gas:candidate-vibid:22220001365897": 89,
+      "gas:candidate-vibid:22220001359266": 31,
+      "gas:candidate-vibid:22220001370606": 4,
+      "gas:candidate-vibid:22220001368892": 14,
+      "gas:candidate-vibid:22220001368781": 29,
+      "gas:candidate-vibid:22220001368994": 4,
+      "gas:candidate-vibid:22220001352021": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272343&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272343&type=464",
@@ -4546,13 +4546,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 100,
-      "Молотов Александр Владимирович": 40,
-      "Резникова Татьяна Владимировна": 6,
-      "Рыжков Владимир Александрович": 53,
-      "Сартаков Андрей Александрович": 42,
-      "Чеснов Павел Алексеевич": 0,
-      "Щукин Андрей Евгеньевич": 91
+      "gas:candidate-vibid:22220001365897": 100,
+      "gas:candidate-vibid:22220001359266": 40,
+      "gas:candidate-vibid:22220001370606": 6,
+      "gas:candidate-vibid:22220001368892": 53,
+      "gas:candidate-vibid:22220001368781": 42,
+      "gas:candidate-vibid:22220001368994": 0,
+      "gas:candidate-vibid:22220001352021": 91
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272343&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272343&type=464",
@@ -4603,13 +4603,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 165,
-      "Молотов Александр Владимирович": 45,
-      "Резникова Татьяна Владимировна": 3,
-      "Рыжков Владимир Александрович": 58,
-      "Сартаков Андрей Александрович": 71,
-      "Чеснов Павел Алексеевич": 2,
-      "Щукин Андрей Евгеньевич": 96
+      "gas:candidate-vibid:22220001365897": 165,
+      "gas:candidate-vibid:22220001359266": 45,
+      "gas:candidate-vibid:22220001370606": 3,
+      "gas:candidate-vibid:22220001368892": 58,
+      "gas:candidate-vibid:22220001368781": 71,
+      "gas:candidate-vibid:22220001368994": 2,
+      "gas:candidate-vibid:22220001352021": 96
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272343&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272343&type=464",
@@ -4660,13 +4660,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 178,
-      "Молотов Александр Владимирович": 45,
-      "Резникова Татьяна Владимировна": 3,
-      "Рыжков Владимир Александрович": 52,
-      "Сартаков Андрей Александрович": 61,
-      "Чеснов Павел Алексеевич": 4,
-      "Щукин Андрей Евгеньевич": 94
+      "gas:candidate-vibid:22220001365897": 178,
+      "gas:candidate-vibid:22220001359266": 45,
+      "gas:candidate-vibid:22220001370606": 3,
+      "gas:candidate-vibid:22220001368892": 52,
+      "gas:candidate-vibid:22220001368781": 61,
+      "gas:candidate-vibid:22220001368994": 4,
+      "gas:candidate-vibid:22220001352021": 94
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272343&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272343&type=464",
@@ -4717,13 +4717,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 104,
-      "Молотов Александр Владимирович": 15,
-      "Резникова Татьяна Владимировна": 4,
-      "Рыжков Владимир Александрович": 43,
-      "Сартаков Андрей Александрович": 58,
-      "Чеснов Павел Алексеевич": 1,
-      "Щукин Андрей Евгеньевич": 51
+      "gas:candidate-vibid:22220001365897": 104,
+      "gas:candidate-vibid:22220001359266": 15,
+      "gas:candidate-vibid:22220001370606": 4,
+      "gas:candidate-vibid:22220001368892": 43,
+      "gas:candidate-vibid:22220001368781": 58,
+      "gas:candidate-vibid:22220001368994": 1,
+      "gas:candidate-vibid:22220001352021": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272343&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272343&type=464",
@@ -4774,13 +4774,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 147,
-      "Молотов Александр Владимирович": 35,
-      "Резникова Татьяна Владимировна": 11,
-      "Рыжков Владимир Александрович": 70,
-      "Сартаков Андрей Александрович": 108,
-      "Чеснов Павел Алексеевич": 1,
-      "Щукин Андрей Евгеньевич": 32
+      "gas:candidate-vibid:22220001365897": 147,
+      "gas:candidate-vibid:22220001359266": 35,
+      "gas:candidate-vibid:22220001370606": 11,
+      "gas:candidate-vibid:22220001368892": 70,
+      "gas:candidate-vibid:22220001368781": 108,
+      "gas:candidate-vibid:22220001368994": 1,
+      "gas:candidate-vibid:22220001352021": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272343&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272343&type=464",
@@ -4831,13 +4831,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 249,
-      "Молотов Александр Владимирович": 30,
-      "Резникова Татьяна Владимировна": 4,
-      "Рыжков Владимир Александрович": 62,
-      "Сартаков Андрей Александрович": 65,
-      "Чеснов Павел Алексеевич": 0,
-      "Щукин Андрей Евгеньевич": 39
+      "gas:candidate-vibid:22220001365897": 249,
+      "gas:candidate-vibid:22220001359266": 30,
+      "gas:candidate-vibid:22220001370606": 4,
+      "gas:candidate-vibid:22220001368892": 62,
+      "gas:candidate-vibid:22220001368781": 65,
+      "gas:candidate-vibid:22220001368994": 0,
+      "gas:candidate-vibid:22220001352021": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272343&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272343&type=464",
@@ -4888,13 +4888,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 179,
-      "Молотов Александр Владимирович": 48,
-      "Резникова Татьяна Владимировна": 10,
-      "Рыжков Владимир Александрович": 46,
-      "Сартаков Андрей Александрович": 55,
-      "Чеснов Павел Алексеевич": 4,
-      "Щукин Андрей Евгеньевич": 40
+      "gas:candidate-vibid:22220001365897": 179,
+      "gas:candidate-vibid:22220001359266": 48,
+      "gas:candidate-vibid:22220001370606": 10,
+      "gas:candidate-vibid:22220001368892": 46,
+      "gas:candidate-vibid:22220001368781": 55,
+      "gas:candidate-vibid:22220001368994": 4,
+      "gas:candidate-vibid:22220001352021": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272343&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272343&type=464",
@@ -4945,13 +4945,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 53,
-      "Молотов Александр Владимирович": 13,
-      "Резникова Татьяна Владимировна": 3,
-      "Рыжков Владимир Александрович": 14,
-      "Сартаков Андрей Александрович": 12,
-      "Чеснов Павел Алексеевич": 3,
-      "Щукин Андрей Евгеньевич": 4
+      "gas:candidate-vibid:22220001365897": 53,
+      "gas:candidate-vibid:22220001359266": 13,
+      "gas:candidate-vibid:22220001370606": 3,
+      "gas:candidate-vibid:22220001368892": 14,
+      "gas:candidate-vibid:22220001368781": 12,
+      "gas:candidate-vibid:22220001368994": 3,
+      "gas:candidate-vibid:22220001352021": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272343&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272343&type=464",
@@ -5002,13 +5002,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 109,
-      "Молотов Александр Владимирович": 29,
-      "Резникова Татьяна Владимировна": 9,
-      "Рыжков Владимир Александрович": 11,
-      "Сартаков Андрей Александрович": 47,
-      "Чеснов Павел Алексеевич": 3,
-      "Щукин Андрей Евгеньевич": 34
+      "gas:candidate-vibid:22220001365897": 109,
+      "gas:candidate-vibid:22220001359266": 29,
+      "gas:candidate-vibid:22220001370606": 9,
+      "gas:candidate-vibid:22220001368892": 11,
+      "gas:candidate-vibid:22220001368781": 47,
+      "gas:candidate-vibid:22220001368994": 3,
+      "gas:candidate-vibid:22220001352021": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272344&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272344&type=464",
@@ -5059,13 +5059,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 149,
-      "Молотов Александр Владимирович": 19,
-      "Резникова Татьяна Владимировна": 9,
-      "Рыжков Владимир Александрович": 30,
-      "Сартаков Андрей Александрович": 42,
-      "Чеснов Павел Алексеевич": 6,
-      "Щукин Андрей Евгеньевич": 39
+      "gas:candidate-vibid:22220001365897": 149,
+      "gas:candidate-vibid:22220001359266": 19,
+      "gas:candidate-vibid:22220001370606": 9,
+      "gas:candidate-vibid:22220001368892": 30,
+      "gas:candidate-vibid:22220001368781": 42,
+      "gas:candidate-vibid:22220001368994": 6,
+      "gas:candidate-vibid:22220001352021": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272344&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272344&type=464",
@@ -5116,13 +5116,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 42,
-      "Молотов Александр Владимирович": 15,
-      "Резникова Татьяна Владимировна": 2,
-      "Рыжков Владимир Александрович": 21,
-      "Сартаков Андрей Александрович": 40,
-      "Чеснов Павел Алексеевич": 5,
-      "Щукин Андрей Евгеньевич": 21
+      "gas:candidate-vibid:22220001365897": 42,
+      "gas:candidate-vibid:22220001359266": 15,
+      "gas:candidate-vibid:22220001370606": 2,
+      "gas:candidate-vibid:22220001368892": 21,
+      "gas:candidate-vibid:22220001368781": 40,
+      "gas:candidate-vibid:22220001368994": 5,
+      "gas:candidate-vibid:22220001352021": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272344&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272344&type=464",
@@ -5173,13 +5173,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 208,
-      "Молотов Александр Владимирович": 96,
-      "Резникова Татьяна Владимировна": 22,
-      "Рыжков Владимир Александрович": 84,
-      "Сартаков Андрей Александрович": 143,
-      "Чеснов Павел Алексеевич": 5,
-      "Щукин Андрей Евгеньевич": 100
+      "gas:candidate-vibid:22220001365897": 208,
+      "gas:candidate-vibid:22220001359266": 96,
+      "gas:candidate-vibid:22220001370606": 22,
+      "gas:candidate-vibid:22220001368892": 84,
+      "gas:candidate-vibid:22220001368781": 143,
+      "gas:candidate-vibid:22220001368994": 5,
+      "gas:candidate-vibid:22220001352021": 100
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272344&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272344&type=464",
@@ -5230,13 +5230,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 62,
-      "Молотов Александр Владимирович": 12,
-      "Резникова Татьяна Владимировна": 2,
-      "Рыжков Владимир Александрович": 12,
-      "Сартаков Андрей Александрович": 46,
-      "Чеснов Павел Алексеевич": 9,
-      "Щукин Андрей Евгеньевич": 17
+      "gas:candidate-vibid:22220001365897": 62,
+      "gas:candidate-vibid:22220001359266": 12,
+      "gas:candidate-vibid:22220001370606": 2,
+      "gas:candidate-vibid:22220001368892": 12,
+      "gas:candidate-vibid:22220001368781": 46,
+      "gas:candidate-vibid:22220001368994": 9,
+      "gas:candidate-vibid:22220001352021": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272344&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272344&type=464",
@@ -5287,13 +5287,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 205,
-      "Молотов Александр Владимирович": 73,
-      "Резникова Татьяна Владимировна": 12,
-      "Рыжков Владимир Александрович": 45,
-      "Сартаков Андрей Александрович": 153,
-      "Чеснов Павел Алексеевич": 6,
-      "Щукин Андрей Евгеньевич": 64
+      "gas:candidate-vibid:22220001365897": 205,
+      "gas:candidate-vibid:22220001359266": 73,
+      "gas:candidate-vibid:22220001370606": 12,
+      "gas:candidate-vibid:22220001368892": 45,
+      "gas:candidate-vibid:22220001368781": 153,
+      "gas:candidate-vibid:22220001368994": 6,
+      "gas:candidate-vibid:22220001352021": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272344&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272344&type=464",
@@ -5344,13 +5344,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 116,
-      "Молотов Александр Владимирович": 28,
-      "Резникова Татьяна Владимировна": 6,
-      "Рыжков Владимир Александрович": 32,
-      "Сартаков Андрей Александрович": 66,
-      "Чеснов Павел Алексеевич": 7,
-      "Щукин Андрей Евгеньевич": 64
+      "gas:candidate-vibid:22220001365897": 116,
+      "gas:candidate-vibid:22220001359266": 28,
+      "gas:candidate-vibid:22220001370606": 6,
+      "gas:candidate-vibid:22220001368892": 32,
+      "gas:candidate-vibid:22220001368781": 66,
+      "gas:candidate-vibid:22220001368994": 7,
+      "gas:candidate-vibid:22220001352021": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272344&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272344&type=464",
@@ -5401,13 +5401,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 81,
-      "Молотов Александр Владимирович": 26,
-      "Резникова Татьяна Владимировна": 3,
-      "Рыжков Владимир Александрович": 10,
-      "Сартаков Андрей Александрович": 24,
-      "Чеснов Павел Алексеевич": 5,
-      "Щукин Андрей Евгеньевич": 39
+      "gas:candidate-vibid:22220001365897": 81,
+      "gas:candidate-vibid:22220001359266": 26,
+      "gas:candidate-vibid:22220001370606": 3,
+      "gas:candidate-vibid:22220001368892": 10,
+      "gas:candidate-vibid:22220001368781": 24,
+      "gas:candidate-vibid:22220001368994": 5,
+      "gas:candidate-vibid:22220001352021": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272344&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272344&type=464",
@@ -5458,13 +5458,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 11,
-      "Молотов Александр Владимирович": 3,
-      "Резникова Татьяна Владимировна": 3,
-      "Рыжков Владимир Александрович": 7,
-      "Сартаков Андрей Александрович": 6,
-      "Чеснов Павел Алексеевич": 1,
-      "Щукин Андрей Евгеньевич": 12
+      "gas:candidate-vibid:22220001365897": 11,
+      "gas:candidate-vibid:22220001359266": 3,
+      "gas:candidate-vibid:22220001370606": 3,
+      "gas:candidate-vibid:22220001368892": 7,
+      "gas:candidate-vibid:22220001368781": 6,
+      "gas:candidate-vibid:22220001368994": 1,
+      "gas:candidate-vibid:22220001352021": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272344&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272344&type=464",
@@ -5515,13 +5515,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 151,
-      "Молотов Александр Владимирович": 47,
-      "Резникова Татьяна Владимировна": 17,
-      "Рыжков Владимир Александрович": 17,
-      "Сартаков Андрей Александрович": 84,
-      "Чеснов Павел Алексеевич": 6,
-      "Щукин Андрей Евгеньевич": 63
+      "gas:candidate-vibid:22220001365897": 151,
+      "gas:candidate-vibid:22220001359266": 47,
+      "gas:candidate-vibid:22220001370606": 17,
+      "gas:candidate-vibid:22220001368892": 17,
+      "gas:candidate-vibid:22220001368781": 84,
+      "gas:candidate-vibid:22220001368994": 6,
+      "gas:candidate-vibid:22220001352021": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272344&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272344&type=464",
@@ -5572,13 +5572,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 191,
-      "Молотов Александр Владимирович": 139,
-      "Резникова Татьяна Владимировна": 28,
-      "Рыжков Владимир Александрович": 68,
-      "Сартаков Андрей Александрович": 119,
-      "Чеснов Павел Алексеевич": 17,
-      "Щукин Андрей Евгеньевич": 93
+      "gas:candidate-vibid:22220001365897": 191,
+      "gas:candidate-vibid:22220001359266": 139,
+      "gas:candidate-vibid:22220001370606": 28,
+      "gas:candidate-vibid:22220001368892": 68,
+      "gas:candidate-vibid:22220001368781": 119,
+      "gas:candidate-vibid:22220001368994": 17,
+      "gas:candidate-vibid:22220001352021": 93
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272344&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272344&type=464",
@@ -5629,13 +5629,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 27,
-      "Молотов Александр Владимирович": 18,
-      "Резникова Татьяна Владимировна": 8,
-      "Рыжков Владимир Александрович": 8,
-      "Сартаков Андрей Александрович": 19,
-      "Чеснов Павел Алексеевич": 1,
-      "Щукин Андрей Евгеньевич": 17
+      "gas:candidate-vibid:22220001365897": 27,
+      "gas:candidate-vibid:22220001359266": 18,
+      "gas:candidate-vibid:22220001370606": 8,
+      "gas:candidate-vibid:22220001368892": 8,
+      "gas:candidate-vibid:22220001368781": 19,
+      "gas:candidate-vibid:22220001368994": 1,
+      "gas:candidate-vibid:22220001352021": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272344&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272344&type=464",
@@ -5686,13 +5686,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 277,
-      "Молотов Александр Владимирович": 110,
-      "Резникова Татьяна Владимировна": 23,
-      "Рыжков Владимир Александрович": 134,
-      "Сартаков Андрей Александрович": 156,
-      "Чеснов Павел Алексеевич": 17,
-      "Щукин Андрей Евгеньевич": 106
+      "gas:candidate-vibid:22220001365897": 277,
+      "gas:candidate-vibid:22220001359266": 110,
+      "gas:candidate-vibid:22220001370606": 23,
+      "gas:candidate-vibid:22220001368892": 134,
+      "gas:candidate-vibid:22220001368781": 156,
+      "gas:candidate-vibid:22220001368994": 17,
+      "gas:candidate-vibid:22220001352021": 106
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272344&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272344&type=464",
@@ -5743,13 +5743,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 62,
-      "Молотов Александр Владимирович": 25,
-      "Резникова Татьяна Владимировна": 9,
-      "Рыжков Владимир Александрович": 32,
-      "Сартаков Андрей Александрович": 34,
-      "Чеснов Павел Алексеевич": 4,
-      "Щукин Андрей Евгеньевич": 28
+      "gas:candidate-vibid:22220001365897": 62,
+      "gas:candidate-vibid:22220001359266": 25,
+      "gas:candidate-vibid:22220001370606": 9,
+      "gas:candidate-vibid:22220001368892": 32,
+      "gas:candidate-vibid:22220001368781": 34,
+      "gas:candidate-vibid:22220001368994": 4,
+      "gas:candidate-vibid:22220001352021": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272344&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272344&type=464",
@@ -5800,13 +5800,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 249,
-      "Молотов Александр Владимирович": 105,
-      "Резникова Татьяна Владимировна": 31,
-      "Рыжков Владимир Александрович": 52,
-      "Сартаков Андрей Александрович": 134,
-      "Чеснов Павел Алексеевич": 9,
-      "Щукин Андрей Евгеньевич": 103
+      "gas:candidate-vibid:22220001365897": 249,
+      "gas:candidate-vibid:22220001359266": 105,
+      "gas:candidate-vibid:22220001370606": 31,
+      "gas:candidate-vibid:22220001368892": 52,
+      "gas:candidate-vibid:22220001368781": 134,
+      "gas:candidate-vibid:22220001368994": 9,
+      "gas:candidate-vibid:22220001352021": 103
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272344&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272344&type=464",
@@ -5857,13 +5857,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 63,
-      "Молотов Александр Владимирович": 19,
-      "Резникова Татьяна Владимировна": 7,
-      "Рыжков Владимир Александрович": 10,
-      "Сартаков Андрей Александрович": 24,
-      "Чеснов Павел Алексеевич": 2,
-      "Щукин Андрей Евгеньевич": 28
+      "gas:candidate-vibid:22220001365897": 63,
+      "gas:candidate-vibid:22220001359266": 19,
+      "gas:candidate-vibid:22220001370606": 7,
+      "gas:candidate-vibid:22220001368892": 10,
+      "gas:candidate-vibid:22220001368781": 24,
+      "gas:candidate-vibid:22220001368994": 2,
+      "gas:candidate-vibid:22220001352021": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272344&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272344&type=464",
@@ -5914,13 +5914,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 40,
-      "Молотов Александр Владимирович": 21,
-      "Резникова Татьяна Владимировна": 5,
-      "Рыжков Владимир Александрович": 11,
-      "Сартаков Андрей Александрович": 25,
-      "Чеснов Павел Алексеевич": 1,
-      "Щукин Андрей Евгеньевич": 15
+      "gas:candidate-vibid:22220001365897": 40,
+      "gas:candidate-vibid:22220001359266": 21,
+      "gas:candidate-vibid:22220001370606": 5,
+      "gas:candidate-vibid:22220001368892": 11,
+      "gas:candidate-vibid:22220001368781": 25,
+      "gas:candidate-vibid:22220001368994": 1,
+      "gas:candidate-vibid:22220001352021": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272344&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272344&type=464",
@@ -5971,13 +5971,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 187,
-      "Молотов Александр Владимирович": 36,
-      "Резникова Татьяна Владимировна": 17,
-      "Рыжков Владимир Александрович": 43,
-      "Сартаков Андрей Александрович": 53,
-      "Чеснов Павел Алексеевич": 2,
-      "Щукин Андрей Евгеньевич": 44
+      "gas:candidate-vibid:22220001365897": 187,
+      "gas:candidate-vibid:22220001359266": 36,
+      "gas:candidate-vibid:22220001370606": 17,
+      "gas:candidate-vibid:22220001368892": 43,
+      "gas:candidate-vibid:22220001368781": 53,
+      "gas:candidate-vibid:22220001368994": 2,
+      "gas:candidate-vibid:22220001352021": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272344&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272344&type=464",
@@ -6028,13 +6028,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 13,
-      "Молотов Александр Владимирович": 5,
-      "Резникова Татьяна Владимировна": 1,
-      "Рыжков Владимир Александрович": 4,
-      "Сартаков Андрей Александрович": 6,
-      "Чеснов Павел Алексеевич": 0,
-      "Щукин Андрей Евгеньевич": 2
+      "gas:candidate-vibid:22220001365897": 13,
+      "gas:candidate-vibid:22220001359266": 5,
+      "gas:candidate-vibid:22220001370606": 1,
+      "gas:candidate-vibid:22220001368892": 4,
+      "gas:candidate-vibid:22220001368781": 6,
+      "gas:candidate-vibid:22220001368994": 0,
+      "gas:candidate-vibid:22220001352021": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272344&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272344&type=464",
@@ -6085,13 +6085,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 23,
-      "Молотов Александр Владимирович": 15,
-      "Резникова Татьяна Владимировна": 6,
-      "Рыжков Владимир Александрович": 10,
-      "Сартаков Андрей Александрович": 8,
-      "Чеснов Павел Алексеевич": 0,
-      "Щукин Андрей Евгеньевич": 12
+      "gas:candidate-vibid:22220001365897": 23,
+      "gas:candidate-vibid:22220001359266": 15,
+      "gas:candidate-vibid:22220001370606": 6,
+      "gas:candidate-vibid:22220001368892": 10,
+      "gas:candidate-vibid:22220001368781": 8,
+      "gas:candidate-vibid:22220001368994": 0,
+      "gas:candidate-vibid:22220001352021": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272344&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272344&type=464",
@@ -6142,13 +6142,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 37,
-      "Молотов Александр Владимирович": 5,
-      "Резникова Татьяна Владимировна": 5,
-      "Рыжков Владимир Александрович": 7,
-      "Сартаков Андрей Александрович": 4,
-      "Чеснов Павел Алексеевич": 0,
-      "Щукин Андрей Евгеньевич": 6
+      "gas:candidate-vibid:22220001365897": 37,
+      "gas:candidate-vibid:22220001359266": 5,
+      "gas:candidate-vibid:22220001370606": 5,
+      "gas:candidate-vibid:22220001368892": 7,
+      "gas:candidate-vibid:22220001368781": 4,
+      "gas:candidate-vibid:22220001368994": 0,
+      "gas:candidate-vibid:22220001352021": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272344&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272344&type=464",
@@ -6199,13 +6199,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 215,
-      "Молотов Александр Владимирович": 117,
-      "Резникова Татьяна Владимировна": 23,
-      "Рыжков Владимир Александрович": 80,
-      "Сартаков Андрей Александрович": 151,
-      "Чеснов Павел Алексеевич": 14,
-      "Щукин Андрей Евгеньевич": 125
+      "gas:candidate-vibid:22220001365897": 215,
+      "gas:candidate-vibid:22220001359266": 117,
+      "gas:candidate-vibid:22220001370606": 23,
+      "gas:candidate-vibid:22220001368892": 80,
+      "gas:candidate-vibid:22220001368781": 151,
+      "gas:candidate-vibid:22220001368994": 14,
+      "gas:candidate-vibid:22220001352021": 125
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272344&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272344&type=464",
@@ -6256,13 +6256,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 241,
-      "Молотов Александр Владимирович": 182,
-      "Резникова Татьяна Владимировна": 18,
-      "Рыжков Владимир Александрович": 48,
-      "Сартаков Андрей Александрович": 157,
-      "Чеснов Павел Алексеевич": 15,
-      "Щукин Андрей Евгеньевич": 125
+      "gas:candidate-vibid:22220001365897": 241,
+      "gas:candidate-vibid:22220001359266": 182,
+      "gas:candidate-vibid:22220001370606": 18,
+      "gas:candidate-vibid:22220001368892": 48,
+      "gas:candidate-vibid:22220001368781": 157,
+      "gas:candidate-vibid:22220001368994": 15,
+      "gas:candidate-vibid:22220001352021": 125
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272344&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272344&type=464",
@@ -6313,13 +6313,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 261,
-      "Молотов Александр Владимирович": 121,
-      "Резникова Татьяна Владимировна": 20,
-      "Рыжков Владимир Александрович": 81,
-      "Сартаков Андрей Александрович": 126,
-      "Чеснов Павел Алексеевич": 8,
-      "Щукин Андрей Евгеньевич": 82
+      "gas:candidate-vibid:22220001365897": 261,
+      "gas:candidate-vibid:22220001359266": 121,
+      "gas:candidate-vibid:22220001370606": 20,
+      "gas:candidate-vibid:22220001368892": 81,
+      "gas:candidate-vibid:22220001368781": 126,
+      "gas:candidate-vibid:22220001368994": 8,
+      "gas:candidate-vibid:22220001352021": 82
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272344&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272344&type=464",
@@ -6370,13 +6370,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 174,
-      "Молотов Александр Владимирович": 43,
-      "Резникова Татьяна Владимировна": 17,
-      "Рыжков Владимир Александрович": 28,
-      "Сартаков Андрей Александрович": 60,
-      "Чеснов Павел Алексеевич": 24,
-      "Щукин Андрей Евгеньевич": 54
+      "gas:candidate-vibid:22220001365897": 174,
+      "gas:candidate-vibid:22220001359266": 43,
+      "gas:candidate-vibid:22220001370606": 17,
+      "gas:candidate-vibid:22220001368892": 28,
+      "gas:candidate-vibid:22220001368781": 60,
+      "gas:candidate-vibid:22220001368994": 24,
+      "gas:candidate-vibid:22220001352021": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272344&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272344&type=464",
@@ -6427,13 +6427,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 151,
-      "Молотов Александр Владимирович": 16,
-      "Резникова Татьяна Владимировна": 14,
-      "Рыжков Владимир Александрович": 46,
-      "Сартаков Андрей Александрович": 81,
-      "Чеснов Павел Алексеевич": 6,
-      "Щукин Андрей Евгеньевич": 48
+      "gas:candidate-vibid:22220001365897": 151,
+      "gas:candidate-vibid:22220001359266": 16,
+      "gas:candidate-vibid:22220001370606": 14,
+      "gas:candidate-vibid:22220001368892": 46,
+      "gas:candidate-vibid:22220001368781": 81,
+      "gas:candidate-vibid:22220001368994": 6,
+      "gas:candidate-vibid:22220001352021": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272344&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272344&type=464",
@@ -6484,13 +6484,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 29,
-      "Молотов Александр Владимирович": 2,
-      "Резникова Татьяна Владимировна": 10,
-      "Рыжков Владимир Александрович": 4,
-      "Сартаков Андрей Александрович": 10,
-      "Чеснов Павел Алексеевич": 1,
-      "Щукин Андрей Евгеньевич": 5
+      "gas:candidate-vibid:22220001365897": 29,
+      "gas:candidate-vibid:22220001359266": 2,
+      "gas:candidate-vibid:22220001370606": 10,
+      "gas:candidate-vibid:22220001368892": 4,
+      "gas:candidate-vibid:22220001368781": 10,
+      "gas:candidate-vibid:22220001368994": 1,
+      "gas:candidate-vibid:22220001352021": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272344&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272344&type=464",
@@ -6541,13 +6541,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 29,
-      "Молотов Александр Владимирович": 13,
-      "Резникова Татьяна Владимировна": 5,
-      "Рыжков Владимир Александрович": 10,
-      "Сартаков Андрей Александрович": 26,
-      "Чеснов Павел Алексеевич": 1,
-      "Щукин Андрей Евгеньевич": 7
+      "gas:candidate-vibid:22220001365897": 29,
+      "gas:candidate-vibid:22220001359266": 13,
+      "gas:candidate-vibid:22220001370606": 5,
+      "gas:candidate-vibid:22220001368892": 10,
+      "gas:candidate-vibid:22220001368781": 26,
+      "gas:candidate-vibid:22220001368994": 1,
+      "gas:candidate-vibid:22220001352021": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272344&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272344&type=464",
@@ -6598,13 +6598,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 51,
-      "Молотов Александр Владимирович": 12,
-      "Резникова Татьяна Владимировна": 6,
-      "Рыжков Владимир Александрович": 12,
-      "Сартаков Андрей Александрович": 25,
-      "Чеснов Павел Алексеевич": 1,
-      "Щукин Андрей Евгеньевич": 24
+      "gas:candidate-vibid:22220001365897": 51,
+      "gas:candidate-vibid:22220001359266": 12,
+      "gas:candidate-vibid:22220001370606": 6,
+      "gas:candidate-vibid:22220001368892": 12,
+      "gas:candidate-vibid:22220001368781": 25,
+      "gas:candidate-vibid:22220001368994": 1,
+      "gas:candidate-vibid:22220001352021": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272344&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272344&type=464",
@@ -6655,13 +6655,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 32,
-      "Молотов Александр Владимирович": 1,
-      "Резникова Татьяна Владимировна": 6,
-      "Рыжков Владимир Александрович": 6,
-      "Сартаков Андрей Александрович": 28,
-      "Чеснов Павел Алексеевич": 2,
-      "Щукин Андрей Евгеньевич": 10
+      "gas:candidate-vibid:22220001365897": 32,
+      "gas:candidate-vibid:22220001359266": 1,
+      "gas:candidate-vibid:22220001370606": 6,
+      "gas:candidate-vibid:22220001368892": 6,
+      "gas:candidate-vibid:22220001368781": 28,
+      "gas:candidate-vibid:22220001368994": 2,
+      "gas:candidate-vibid:22220001352021": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272344&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272344&type=464",
@@ -6712,13 +6712,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 183,
-      "Молотов Александр Владимирович": 49,
-      "Резникова Татьяна Владимировна": 15,
-      "Рыжков Владимир Александрович": 48,
-      "Сартаков Андрей Александрович": 36,
-      "Чеснов Павел Алексеевич": 3,
-      "Щукин Андрей Евгеньевич": 30
+      "gas:candidate-vibid:22220001365897": 183,
+      "gas:candidate-vibid:22220001359266": 49,
+      "gas:candidate-vibid:22220001370606": 15,
+      "gas:candidate-vibid:22220001368892": 48,
+      "gas:candidate-vibid:22220001368781": 36,
+      "gas:candidate-vibid:22220001368994": 3,
+      "gas:candidate-vibid:22220001352021": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272344&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272344&type=464",
@@ -6769,13 +6769,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 290,
-      "Молотов Александр Владимирович": 102,
-      "Резникова Татьяна Владимировна": 12,
-      "Рыжков Владимир Александрович": 70,
-      "Сартаков Андрей Александрович": 75,
-      "Чеснов Павел Алексеевич": 7,
-      "Щукин Андрей Евгеньевич": 90
+      "gas:candidate-vibid:22220001365897": 290,
+      "gas:candidate-vibid:22220001359266": 102,
+      "gas:candidate-vibid:22220001370606": 12,
+      "gas:candidate-vibid:22220001368892": 70,
+      "gas:candidate-vibid:22220001368781": 75,
+      "gas:candidate-vibid:22220001368994": 7,
+      "gas:candidate-vibid:22220001352021": 90
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272345&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272345&type=464",
@@ -6826,13 +6826,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 328,
-      "Молотов Александр Владимирович": 96,
-      "Резникова Татьяна Владимировна": 22,
-      "Рыжков Владимир Александрович": 79,
-      "Сартаков Андрей Александрович": 93,
-      "Чеснов Павел Алексеевич": 13,
-      "Щукин Андрей Евгеньевич": 100
+      "gas:candidate-vibid:22220001365897": 328,
+      "gas:candidate-vibid:22220001359266": 96,
+      "gas:candidate-vibid:22220001370606": 22,
+      "gas:candidate-vibid:22220001368892": 79,
+      "gas:candidate-vibid:22220001368781": 93,
+      "gas:candidate-vibid:22220001368994": 13,
+      "gas:candidate-vibid:22220001352021": 100
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272345&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272345&type=464",
@@ -6883,13 +6883,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 406,
-      "Молотов Александр Владимирович": 130,
-      "Резникова Татьяна Владимировна": 32,
-      "Рыжков Владимир Александрович": 63,
-      "Сартаков Андрей Александрович": 102,
-      "Чеснов Павел Алексеевич": 20,
-      "Щукин Андрей Евгеньевич": 85
+      "gas:candidate-vibid:22220001365897": 406,
+      "gas:candidate-vibid:22220001359266": 130,
+      "gas:candidate-vibid:22220001370606": 32,
+      "gas:candidate-vibid:22220001368892": 63,
+      "gas:candidate-vibid:22220001368781": 102,
+      "gas:candidate-vibid:22220001368994": 20,
+      "gas:candidate-vibid:22220001352021": 85
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272345&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272345&type=464",
@@ -6940,13 +6940,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 337,
-      "Молотов Александр Владимирович": 124,
-      "Резникова Татьяна Владимировна": 15,
-      "Рыжков Владимир Александрович": 48,
-      "Сартаков Андрей Александрович": 93,
-      "Чеснов Павел Алексеевич": 12,
-      "Щукин Андрей Евгеньевич": 84
+      "gas:candidate-vibid:22220001365897": 337,
+      "gas:candidate-vibid:22220001359266": 124,
+      "gas:candidate-vibid:22220001370606": 15,
+      "gas:candidate-vibid:22220001368892": 48,
+      "gas:candidate-vibid:22220001368781": 93,
+      "gas:candidate-vibid:22220001368994": 12,
+      "gas:candidate-vibid:22220001352021": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272345&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272345&type=464",
@@ -6997,13 +6997,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 338,
-      "Молотов Александр Владимирович": 99,
-      "Резникова Татьяна Владимировна": 15,
-      "Рыжков Владимир Александрович": 61,
-      "Сартаков Андрей Александрович": 114,
-      "Чеснов Павел Алексеевич": 5,
-      "Щукин Андрей Евгеньевич": 94
+      "gas:candidate-vibid:22220001365897": 338,
+      "gas:candidate-vibid:22220001359266": 99,
+      "gas:candidate-vibid:22220001370606": 15,
+      "gas:candidate-vibid:22220001368892": 61,
+      "gas:candidate-vibid:22220001368781": 114,
+      "gas:candidate-vibid:22220001368994": 5,
+      "gas:candidate-vibid:22220001352021": 94
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272345&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272345&type=464",
@@ -7054,13 +7054,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 160,
-      "Молотов Александр Владимирович": 37,
-      "Резникова Татьяна Владимировна": 12,
-      "Рыжков Владимир Александрович": 28,
-      "Сартаков Андрей Александрович": 53,
-      "Чеснов Павел Алексеевич": 6,
-      "Щукин Андрей Евгеньевич": 64
+      "gas:candidate-vibid:22220001365897": 160,
+      "gas:candidate-vibid:22220001359266": 37,
+      "gas:candidate-vibid:22220001370606": 12,
+      "gas:candidate-vibid:22220001368892": 28,
+      "gas:candidate-vibid:22220001368781": 53,
+      "gas:candidate-vibid:22220001368994": 6,
+      "gas:candidate-vibid:22220001352021": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272345&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272345&type=464",
@@ -7111,13 +7111,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 341,
-      "Молотов Александр Владимирович": 99,
-      "Резникова Татьяна Владимировна": 17,
-      "Рыжков Владимир Александрович": 65,
-      "Сартаков Андрей Александрович": 114,
-      "Чеснов Павел Алексеевич": 21,
-      "Щукин Андрей Евгеньевич": 121
+      "gas:candidate-vibid:22220001365897": 341,
+      "gas:candidate-vibid:22220001359266": 99,
+      "gas:candidate-vibid:22220001370606": 17,
+      "gas:candidate-vibid:22220001368892": 65,
+      "gas:candidate-vibid:22220001368781": 114,
+      "gas:candidate-vibid:22220001368994": 21,
+      "gas:candidate-vibid:22220001352021": 121
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272345&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272345&type=464",
@@ -7168,13 +7168,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 402,
-      "Молотов Александр Владимирович": 107,
-      "Резникова Татьяна Владимировна": 36,
-      "Рыжков Владимир Александрович": 55,
-      "Сартаков Андрей Александрович": 123,
-      "Чеснов Павел Алексеевич": 20,
-      "Щукин Андрей Евгеньевич": 101
+      "gas:candidate-vibid:22220001365897": 402,
+      "gas:candidate-vibid:22220001359266": 107,
+      "gas:candidate-vibid:22220001370606": 36,
+      "gas:candidate-vibid:22220001368892": 55,
+      "gas:candidate-vibid:22220001368781": 123,
+      "gas:candidate-vibid:22220001368994": 20,
+      "gas:candidate-vibid:22220001352021": 101
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272345&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272345&type=464",
@@ -7225,13 +7225,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 0,
-      "Молотов Александр Владимирович": 1,
-      "Резникова Татьяна Владимировна": 0,
-      "Рыжков Владимир Александрович": 0,
-      "Сартаков Андрей Александрович": 0,
-      "Чеснов Павел Алексеевич": 0,
-      "Щукин Андрей Евгеньевич": 0
+      "gas:candidate-vibid:22220001365897": 0,
+      "gas:candidate-vibid:22220001359266": 1,
+      "gas:candidate-vibid:22220001370606": 0,
+      "gas:candidate-vibid:22220001368892": 0,
+      "gas:candidate-vibid:22220001368781": 0,
+      "gas:candidate-vibid:22220001368994": 0,
+      "gas:candidate-vibid:22220001352021": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272345&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272345&type=464",
@@ -7282,13 +7282,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 48,
-      "Молотов Александр Владимирович": 12,
-      "Резникова Татьяна Владимировна": 2,
-      "Рыжков Владимир Александрович": 2,
-      "Сартаков Андрей Александрович": 1,
-      "Чеснов Павел Алексеевич": 1,
-      "Щукин Андрей Евгеньевич": 8
+      "gas:candidate-vibid:22220001365897": 48,
+      "gas:candidate-vibid:22220001359266": 12,
+      "gas:candidate-vibid:22220001370606": 2,
+      "gas:candidate-vibid:22220001368892": 2,
+      "gas:candidate-vibid:22220001368781": 1,
+      "gas:candidate-vibid:22220001368994": 1,
+      "gas:candidate-vibid:22220001352021": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272345&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272345&type=464",
@@ -7339,13 +7339,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 5,
-      "Молотов Александр Владимирович": 1,
-      "Резникова Татьяна Владимировна": 2,
-      "Рыжков Владимир Александрович": 0,
-      "Сартаков Андрей Александрович": 0,
-      "Чеснов Павел Алексеевич": 0,
-      "Щукин Андрей Евгеньевич": 2
+      "gas:candidate-vibid:22220001365897": 5,
+      "gas:candidate-vibid:22220001359266": 1,
+      "gas:candidate-vibid:22220001370606": 2,
+      "gas:candidate-vibid:22220001368892": 0,
+      "gas:candidate-vibid:22220001368781": 0,
+      "gas:candidate-vibid:22220001368994": 0,
+      "gas:candidate-vibid:22220001352021": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272345&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272345&type=464",
@@ -7396,13 +7396,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 8,
-      "Молотов Александр Владимирович": 0,
-      "Резникова Татьяна Владимировна": 0,
-      "Рыжков Владимир Александрович": 2,
-      "Сартаков Андрей Александрович": 0,
-      "Чеснов Павел Алексеевич": 0,
-      "Щукин Андрей Евгеньевич": 0
+      "gas:candidate-vibid:22220001365897": 8,
+      "gas:candidate-vibid:22220001359266": 0,
+      "gas:candidate-vibid:22220001370606": 0,
+      "gas:candidate-vibid:22220001368892": 2,
+      "gas:candidate-vibid:22220001368781": 0,
+      "gas:candidate-vibid:22220001368994": 0,
+      "gas:candidate-vibid:22220001352021": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272345&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272345&type=464",
@@ -7453,13 +7453,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 254,
-      "Молотов Александр Владимирович": 136,
-      "Резникова Татьяна Владимировна": 31,
-      "Рыжков Владимир Александрович": 108,
-      "Сартаков Андрей Александрович": 183,
-      "Чеснов Павел Алексеевич": 30,
-      "Щукин Андрей Евгеньевич": 113
+      "gas:candidate-vibid:22220001365897": 254,
+      "gas:candidate-vibid:22220001359266": 136,
+      "gas:candidate-vibid:22220001370606": 31,
+      "gas:candidate-vibid:22220001368892": 108,
+      "gas:candidate-vibid:22220001368781": 183,
+      "gas:candidate-vibid:22220001368994": 30,
+      "gas:candidate-vibid:22220001352021": 113
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272346&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272346&type=464",
@@ -7510,13 +7510,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 320,
-      "Молотов Александр Владимирович": 147,
-      "Резникова Татьяна Владимировна": 36,
-      "Рыжков Владимир Александрович": 114,
-      "Сартаков Андрей Александрович": 164,
-      "Чеснов Павел Алексеевич": 32,
-      "Щукин Андрей Евгеньевич": 113
+      "gas:candidate-vibid:22220001365897": 320,
+      "gas:candidate-vibid:22220001359266": 147,
+      "gas:candidate-vibid:22220001370606": 36,
+      "gas:candidate-vibid:22220001368892": 114,
+      "gas:candidate-vibid:22220001368781": 164,
+      "gas:candidate-vibid:22220001368994": 32,
+      "gas:candidate-vibid:22220001352021": 113
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272346&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272346&type=464",
@@ -7567,13 +7567,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 264,
-      "Молотов Александр Владимирович": 111,
-      "Резникова Татьяна Владимировна": 26,
-      "Рыжков Владимир Александрович": 112,
-      "Сартаков Андрей Александрович": 112,
-      "Чеснов Павел Алексеевич": 29,
-      "Щукин Андрей Евгеньевич": 81
+      "gas:candidate-vibid:22220001365897": 264,
+      "gas:candidate-vibid:22220001359266": 111,
+      "gas:candidate-vibid:22220001370606": 26,
+      "gas:candidate-vibid:22220001368892": 112,
+      "gas:candidate-vibid:22220001368781": 112,
+      "gas:candidate-vibid:22220001368994": 29,
+      "gas:candidate-vibid:22220001352021": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272346&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272346&type=464",
@@ -7624,13 +7624,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 263,
-      "Молотов Александр Владимирович": 96,
-      "Резникова Татьяна Владимировна": 24,
-      "Рыжков Владимир Александрович": 121,
-      "Сартаков Андрей Александрович": 136,
-      "Чеснов Павел Алексеевич": 32,
-      "Щукин Андрей Евгеньевич": 130
+      "gas:candidate-vibid:22220001365897": 263,
+      "gas:candidate-vibid:22220001359266": 96,
+      "gas:candidate-vibid:22220001370606": 24,
+      "gas:candidate-vibid:22220001368892": 121,
+      "gas:candidate-vibid:22220001368781": 136,
+      "gas:candidate-vibid:22220001368994": 32,
+      "gas:candidate-vibid:22220001352021": 130
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272346&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272346&type=464",
@@ -7681,13 +7681,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 257,
-      "Молотов Александр Владимирович": 118,
-      "Резникова Татьяна Владимировна": 22,
-      "Рыжков Владимир Александрович": 98,
-      "Сартаков Андрей Александрович": 167,
-      "Чеснов Павел Алексеевич": 18,
-      "Щукин Андрей Евгеньевич": 119
+      "gas:candidate-vibid:22220001365897": 257,
+      "gas:candidate-vibid:22220001359266": 118,
+      "gas:candidate-vibid:22220001370606": 22,
+      "gas:candidate-vibid:22220001368892": 98,
+      "gas:candidate-vibid:22220001368781": 167,
+      "gas:candidate-vibid:22220001368994": 18,
+      "gas:candidate-vibid:22220001352021": 119
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272346&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272346&type=464",
@@ -7738,13 +7738,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 218,
-      "Молотов Александр Владимирович": 110,
-      "Резникова Татьяна Владимировна": 20,
-      "Рыжков Владимир Александрович": 105,
-      "Сартаков Андрей Александрович": 108,
-      "Чеснов Павел Алексеевич": 29,
-      "Щукин Андрей Евгеньевич": 67
+      "gas:candidate-vibid:22220001365897": 218,
+      "gas:candidate-vibid:22220001359266": 110,
+      "gas:candidate-vibid:22220001370606": 20,
+      "gas:candidate-vibid:22220001368892": 105,
+      "gas:candidate-vibid:22220001368781": 108,
+      "gas:candidate-vibid:22220001368994": 29,
+      "gas:candidate-vibid:22220001352021": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272346&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272346&type=464",
@@ -7795,13 +7795,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 312,
-      "Молотов Александр Владимирович": 158,
-      "Резникова Татьяна Владимировна": 31,
-      "Рыжков Владимир Александрович": 155,
-      "Сартаков Андрей Александрович": 148,
-      "Чеснов Павел Алексеевич": 22,
-      "Щукин Андрей Евгеньевич": 110
+      "gas:candidate-vibid:22220001365897": 312,
+      "gas:candidate-vibid:22220001359266": 158,
+      "gas:candidate-vibid:22220001370606": 31,
+      "gas:candidate-vibid:22220001368892": 155,
+      "gas:candidate-vibid:22220001368781": 148,
+      "gas:candidate-vibid:22220001368994": 22,
+      "gas:candidate-vibid:22220001352021": 110
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272346&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272346&type=464",
@@ -7852,13 +7852,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 439,
-      "Молотов Александр Владимирович": 163,
-      "Резникова Татьяна Владимировна": 41,
-      "Рыжков Владимир Александрович": 195,
-      "Сартаков Андрей Александрович": 197,
-      "Чеснов Павел Алексеевич": 46,
-      "Щукин Андрей Евгеньевич": 148
+      "gas:candidate-vibid:22220001365897": 439,
+      "gas:candidate-vibid:22220001359266": 163,
+      "gas:candidate-vibid:22220001370606": 41,
+      "gas:candidate-vibid:22220001368892": 195,
+      "gas:candidate-vibid:22220001368781": 197,
+      "gas:candidate-vibid:22220001368994": 46,
+      "gas:candidate-vibid:22220001352021": 148
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272346&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272346&type=464",
@@ -7909,13 +7909,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 320,
-      "Молотов Александр Владимирович": 124,
-      "Резникова Татьяна Владимировна": 31,
-      "Рыжков Владимир Александрович": 134,
-      "Сартаков Андрей Александрович": 103,
-      "Чеснов Павел Алексеевич": 22,
-      "Щукин Андрей Евгеньевич": 101
+      "gas:candidate-vibid:22220001365897": 320,
+      "gas:candidate-vibid:22220001359266": 124,
+      "gas:candidate-vibid:22220001370606": 31,
+      "gas:candidate-vibid:22220001368892": 134,
+      "gas:candidate-vibid:22220001368781": 103,
+      "gas:candidate-vibid:22220001368994": 22,
+      "gas:candidate-vibid:22220001352021": 101
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272346&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272346&type=464",
@@ -7966,13 +7966,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 113,
-      "Молотов Александр Владимирович": 66,
-      "Резникова Татьяна Владимировна": 16,
-      "Рыжков Владимир Александрович": 38,
-      "Сартаков Андрей Александрович": 60,
-      "Чеснов Павел Алексеевич": 7,
-      "Щукин Андрей Евгеньевич": 46
+      "gas:candidate-vibid:22220001365897": 113,
+      "gas:candidate-vibid:22220001359266": 66,
+      "gas:candidate-vibid:22220001370606": 16,
+      "gas:candidate-vibid:22220001368892": 38,
+      "gas:candidate-vibid:22220001368781": 60,
+      "gas:candidate-vibid:22220001368994": 7,
+      "gas:candidate-vibid:22220001352021": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272346&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272346&type=464",
@@ -8023,13 +8023,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 486,
-      "Молотов Александр Владимирович": 195,
-      "Резникова Татьяна Владимировна": 48,
-      "Рыжков Владимир Александрович": 153,
-      "Сартаков Андрей Александрович": 225,
-      "Чеснов Павел Алексеевич": 51,
-      "Щукин Андрей Евгеньевич": 147
+      "gas:candidate-vibid:22220001365897": 486,
+      "gas:candidate-vibid:22220001359266": 195,
+      "gas:candidate-vibid:22220001370606": 48,
+      "gas:candidate-vibid:22220001368892": 153,
+      "gas:candidate-vibid:22220001368781": 225,
+      "gas:candidate-vibid:22220001368994": 51,
+      "gas:candidate-vibid:22220001352021": 147
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272346&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272346&type=464",
@@ -8080,13 +8080,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 429,
-      "Молотов Александр Владимирович": 175,
-      "Резникова Татьяна Владимировна": 34,
-      "Рыжков Владимир Александрович": 139,
-      "Сартаков Андрей Александрович": 199,
-      "Чеснов Павел Алексеевич": 55,
-      "Щукин Андрей Евгеньевич": 149
+      "gas:candidate-vibid:22220001365897": 429,
+      "gas:candidate-vibid:22220001359266": 175,
+      "gas:candidate-vibid:22220001370606": 34,
+      "gas:candidate-vibid:22220001368892": 139,
+      "gas:candidate-vibid:22220001368781": 199,
+      "gas:candidate-vibid:22220001368994": 55,
+      "gas:candidate-vibid:22220001352021": 149
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272346&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272346&type=464",
@@ -8137,13 +8137,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 446,
-      "Молотов Александр Владимирович": 164,
-      "Резникова Татьяна Владимировна": 37,
-      "Рыжков Владимир Александрович": 158,
-      "Сартаков Андрей Александрович": 183,
-      "Чеснов Павел Алексеевич": 29,
-      "Щукин Андрей Евгеньевич": 145
+      "gas:candidate-vibid:22220001365897": 446,
+      "gas:candidate-vibid:22220001359266": 164,
+      "gas:candidate-vibid:22220001370606": 37,
+      "gas:candidate-vibid:22220001368892": 158,
+      "gas:candidate-vibid:22220001368781": 183,
+      "gas:candidate-vibid:22220001368994": 29,
+      "gas:candidate-vibid:22220001352021": 145
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272346&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272346&type=464",
@@ -8194,13 +8194,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 166,
-      "Молотов Александр Владимирович": 83,
-      "Резникова Татьяна Владимировна": 19,
-      "Рыжков Владимир Александрович": 56,
-      "Сартаков Андрей Александрович": 111,
-      "Чеснов Павел Алексеевич": 12,
-      "Щукин Андрей Евгеньевич": 122
+      "gas:candidate-vibid:22220001365897": 166,
+      "gas:candidate-vibid:22220001359266": 83,
+      "gas:candidate-vibid:22220001370606": 19,
+      "gas:candidate-vibid:22220001368892": 56,
+      "gas:candidate-vibid:22220001368781": 111,
+      "gas:candidate-vibid:22220001368994": 12,
+      "gas:candidate-vibid:22220001352021": 122
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272346&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272346&type=464",
@@ -8251,13 +8251,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 104,
-      "Молотов Александр Владимирович": 68,
-      "Резникова Татьяна Владимировна": 9,
-      "Рыжков Владимир Александрович": 44,
-      "Сартаков Андрей Александрович": 78,
-      "Чеснов Павел Алексеевич": 4,
-      "Щукин Андрей Евгеньевич": 60
+      "gas:candidate-vibid:22220001365897": 104,
+      "gas:candidate-vibid:22220001359266": 68,
+      "gas:candidate-vibid:22220001370606": 9,
+      "gas:candidate-vibid:22220001368892": 44,
+      "gas:candidate-vibid:22220001368781": 78,
+      "gas:candidate-vibid:22220001368994": 4,
+      "gas:candidate-vibid:22220001352021": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272346&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272346&type=464",
@@ -8308,13 +8308,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 114,
-      "Молотов Александр Владимирович": 58,
-      "Резникова Татьяна Владимировна": 5,
-      "Рыжков Владимир Александрович": 41,
-      "Сартаков Андрей Александрович": 74,
-      "Чеснов Павел Алексеевич": 5,
-      "Щукин Андрей Евгеньевич": 59
+      "gas:candidate-vibid:22220001365897": 114,
+      "gas:candidate-vibid:22220001359266": 58,
+      "gas:candidate-vibid:22220001370606": 5,
+      "gas:candidate-vibid:22220001368892": 41,
+      "gas:candidate-vibid:22220001368781": 74,
+      "gas:candidate-vibid:22220001368994": 5,
+      "gas:candidate-vibid:22220001352021": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272346&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272346&type=464",
@@ -8365,13 +8365,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 183,
-      "Молотов Александр Владимирович": 102,
-      "Резникова Татьяна Владимировна": 9,
-      "Рыжков Владимир Александрович": 89,
-      "Сартаков Андрей Александрович": 105,
-      "Чеснов Павел Алексеевич": 14,
-      "Щукин Андрей Евгеньевич": 106
+      "gas:candidate-vibid:22220001365897": 183,
+      "gas:candidate-vibid:22220001359266": 102,
+      "gas:candidate-vibid:22220001370606": 9,
+      "gas:candidate-vibid:22220001368892": 89,
+      "gas:candidate-vibid:22220001368781": 105,
+      "gas:candidate-vibid:22220001368994": 14,
+      "gas:candidate-vibid:22220001352021": 106
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272346&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272346&type=464",
@@ -8422,13 +8422,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 202,
-      "Молотов Александр Владимирович": 86,
-      "Резникова Татьяна Владимировна": 17,
-      "Рыжков Владимир Александрович": 36,
-      "Сартаков Андрей Александрович": 81,
-      "Чеснов Павел Алексеевич": 8,
-      "Щукин Андрей Евгеньевич": 120
+      "gas:candidate-vibid:22220001365897": 202,
+      "gas:candidate-vibid:22220001359266": 86,
+      "gas:candidate-vibid:22220001370606": 17,
+      "gas:candidate-vibid:22220001368892": 36,
+      "gas:candidate-vibid:22220001368781": 81,
+      "gas:candidate-vibid:22220001368994": 8,
+      "gas:candidate-vibid:22220001352021": 120
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272346&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272346&type=464",
@@ -8479,13 +8479,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 416,
-      "Молотов Александр Владимирович": 145,
-      "Резникова Татьяна Владимировна": 34,
-      "Рыжков Владимир Александрович": 95,
-      "Сартаков Андрей Александрович": 142,
-      "Чеснов Павел Алексеевич": 14,
-      "Щукин Андрей Евгеньевич": 126
+      "gas:candidate-vibid:22220001365897": 416,
+      "gas:candidate-vibid:22220001359266": 145,
+      "gas:candidate-vibid:22220001370606": 34,
+      "gas:candidate-vibid:22220001368892": 95,
+      "gas:candidate-vibid:22220001368781": 142,
+      "gas:candidate-vibid:22220001368994": 14,
+      "gas:candidate-vibid:22220001352021": 126
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272346&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272346&type=464",
@@ -8536,13 +8536,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 163,
-      "Молотов Александр Владимирович": 85,
-      "Резникова Татьяна Владимировна": 9,
-      "Рыжков Владимир Александрович": 68,
-      "Сартаков Андрей Александрович": 64,
-      "Чеснов Павел Алексеевич": 13,
-      "Щукин Андрей Евгеньевич": 128
+      "gas:candidate-vibid:22220001365897": 163,
+      "gas:candidate-vibid:22220001359266": 85,
+      "gas:candidate-vibid:22220001370606": 9,
+      "gas:candidate-vibid:22220001368892": 68,
+      "gas:candidate-vibid:22220001368781": 64,
+      "gas:candidate-vibid:22220001368994": 13,
+      "gas:candidate-vibid:22220001352021": 128
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272346&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272346&type=464",
@@ -8593,13 +8593,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 228,
-      "Молотов Александр Владимирович": 120,
-      "Резникова Татьяна Владимировна": 27,
-      "Рыжков Владимир Александрович": 64,
-      "Сартаков Андрей Александрович": 157,
-      "Чеснов Павел Алексеевич": 16,
-      "Щукин Андрей Евгеньевич": 159
+      "gas:candidate-vibid:22220001365897": 228,
+      "gas:candidate-vibid:22220001359266": 120,
+      "gas:candidate-vibid:22220001370606": 27,
+      "gas:candidate-vibid:22220001368892": 64,
+      "gas:candidate-vibid:22220001368781": 157,
+      "gas:candidate-vibid:22220001368994": 16,
+      "gas:candidate-vibid:22220001352021": 159
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272346&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272346&type=464",
@@ -8650,13 +8650,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 394,
-      "Молотов Александр Владимирович": 122,
-      "Резникова Татьяна Владимировна": 19,
-      "Рыжков Владимир Александрович": 94,
-      "Сартаков Андрей Александрович": 111,
-      "Чеснов Павел Алексеевич": 12,
-      "Щукин Андрей Евгеньевич": 148
+      "gas:candidate-vibid:22220001365897": 394,
+      "gas:candidate-vibid:22220001359266": 122,
+      "gas:candidate-vibid:22220001370606": 19,
+      "gas:candidate-vibid:22220001368892": 94,
+      "gas:candidate-vibid:22220001368781": 111,
+      "gas:candidate-vibid:22220001368994": 12,
+      "gas:candidate-vibid:22220001352021": 148
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272346&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272346&type=464",
@@ -8707,13 +8707,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 242,
-      "Молотов Александр Владимирович": 68,
-      "Резникова Татьяна Владимировна": 14,
-      "Рыжков Владимир Александрович": 80,
-      "Сартаков Андрей Александрович": 139,
-      "Чеснов Павел Алексеевич": 5,
-      "Щукин Андрей Евгеньевич": 95
+      "gas:candidate-vibid:22220001365897": 242,
+      "gas:candidate-vibid:22220001359266": 68,
+      "gas:candidate-vibid:22220001370606": 14,
+      "gas:candidate-vibid:22220001368892": 80,
+      "gas:candidate-vibid:22220001368781": 139,
+      "gas:candidate-vibid:22220001368994": 5,
+      "gas:candidate-vibid:22220001352021": 95
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272346&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272346&type=464",
@@ -8764,13 +8764,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 225,
-      "Молотов Александр Владимирович": 86,
-      "Резникова Татьяна Владимировна": 9,
-      "Рыжков Владимир Александрович": 65,
-      "Сартаков Андрей Александрович": 102,
-      "Чеснов Павел Алексеевич": 12,
-      "Щукин Андрей Евгеньевич": 113
+      "gas:candidate-vibid:22220001365897": 225,
+      "gas:candidate-vibid:22220001359266": 86,
+      "gas:candidate-vibid:22220001370606": 9,
+      "gas:candidate-vibid:22220001368892": 65,
+      "gas:candidate-vibid:22220001368781": 102,
+      "gas:candidate-vibid:22220001368994": 12,
+      "gas:candidate-vibid:22220001352021": 113
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272346&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272346&type=464",
@@ -8821,13 +8821,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 142,
-      "Молотов Александр Владимирович": 55,
-      "Резникова Татьяна Владимировна": 7,
-      "Рыжков Владимир Александрович": 68,
-      "Сартаков Андрей Александрович": 77,
-      "Чеснов Павел Алексеевич": 4,
-      "Щукин Андрей Евгеньевич": 86
+      "gas:candidate-vibid:22220001365897": 142,
+      "gas:candidate-vibid:22220001359266": 55,
+      "gas:candidate-vibid:22220001370606": 7,
+      "gas:candidate-vibid:22220001368892": 68,
+      "gas:candidate-vibid:22220001368781": 77,
+      "gas:candidate-vibid:22220001368994": 4,
+      "gas:candidate-vibid:22220001352021": 86
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272346&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272346&type=464",
@@ -8878,13 +8878,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 168,
-      "Молотов Александр Владимирович": 75,
-      "Резникова Татьяна Владимировна": 9,
-      "Рыжков Владимир Александрович": 56,
-      "Сартаков Андрей Александрович": 82,
-      "Чеснов Павел Алексеевич": 9,
-      "Щукин Андрей Евгеньевич": 87
+      "gas:candidate-vibid:22220001365897": 168,
+      "gas:candidate-vibid:22220001359266": 75,
+      "gas:candidate-vibid:22220001370606": 9,
+      "gas:candidate-vibid:22220001368892": 56,
+      "gas:candidate-vibid:22220001368781": 82,
+      "gas:candidate-vibid:22220001368994": 9,
+      "gas:candidate-vibid:22220001352021": 87
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272346&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272346&type=464",
@@ -8935,13 +8935,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 241,
-      "Молотов Александр Владимирович": 119,
-      "Резникова Татьяна Владимировна": 19,
-      "Рыжков Владимир Александрович": 103,
-      "Сартаков Андрей Александрович": 114,
-      "Чеснов Павел Алексеевич": 16,
-      "Щукин Андрей Евгеньевич": 136
+      "gas:candidate-vibid:22220001365897": 241,
+      "gas:candidate-vibid:22220001359266": 119,
+      "gas:candidate-vibid:22220001370606": 19,
+      "gas:candidate-vibid:22220001368892": 103,
+      "gas:candidate-vibid:22220001368781": 114,
+      "gas:candidate-vibid:22220001368994": 16,
+      "gas:candidate-vibid:22220001352021": 136
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272346&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272346&type=464",
@@ -8992,13 +8992,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 180,
-      "Молотов Александр Владимирович": 89,
-      "Резникова Татьяна Владимировна": 17,
-      "Рыжков Владимир Александрович": 47,
-      "Сартаков Андрей Александрович": 62,
-      "Чеснов Павел Алексеевич": 15,
-      "Щукин Андрей Евгеньевич": 96
+      "gas:candidate-vibid:22220001365897": 180,
+      "gas:candidate-vibid:22220001359266": 89,
+      "gas:candidate-vibid:22220001370606": 17,
+      "gas:candidate-vibid:22220001368892": 47,
+      "gas:candidate-vibid:22220001368781": 62,
+      "gas:candidate-vibid:22220001368994": 15,
+      "gas:candidate-vibid:22220001352021": 96
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272346&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272346&type=464",
@@ -9049,13 +9049,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 176,
-      "Молотов Александр Владимирович": 49,
-      "Резникова Татьяна Владимировна": 9,
-      "Рыжков Владимир Александрович": 31,
-      "Сартаков Андрей Александрович": 58,
-      "Чеснов Павел Алексеевич": 11,
-      "Щукин Андрей Евгеньевич": 74
+      "gas:candidate-vibid:22220001365897": 176,
+      "gas:candidate-vibid:22220001359266": 49,
+      "gas:candidate-vibid:22220001370606": 9,
+      "gas:candidate-vibid:22220001368892": 31,
+      "gas:candidate-vibid:22220001368781": 58,
+      "gas:candidate-vibid:22220001368994": 11,
+      "gas:candidate-vibid:22220001352021": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272346&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272346&type=464",
@@ -9106,13 +9106,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 382,
-      "Молотов Александр Владимирович": 155,
-      "Резникова Татьяна Владимировна": 22,
-      "Рыжков Владимир Александрович": 120,
-      "Сартаков Андрей Александрович": 169,
-      "Чеснов Павел Алексеевич": 22,
-      "Щукин Андрей Евгеньевич": 137
+      "gas:candidate-vibid:22220001365897": 382,
+      "gas:candidate-vibid:22220001359266": 155,
+      "gas:candidate-vibid:22220001370606": 22,
+      "gas:candidate-vibid:22220001368892": 120,
+      "gas:candidate-vibid:22220001368781": 169,
+      "gas:candidate-vibid:22220001368994": 22,
+      "gas:candidate-vibid:22220001352021": 137
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272346&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272346&type=464",
@@ -9163,13 +9163,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 177,
-      "Молотов Александр Владимирович": 55,
-      "Резникова Татьяна Владимировна": 15,
-      "Рыжков Владимир Александрович": 72,
-      "Сартаков Андрей Александрович": 71,
-      "Чеснов Павел Алексеевич": 14,
-      "Щукин Андрей Евгеньевич": 58
+      "gas:candidate-vibid:22220001365897": 177,
+      "gas:candidate-vibid:22220001359266": 55,
+      "gas:candidate-vibid:22220001370606": 15,
+      "gas:candidate-vibid:22220001368892": 72,
+      "gas:candidate-vibid:22220001368781": 71,
+      "gas:candidate-vibid:22220001368994": 14,
+      "gas:candidate-vibid:22220001352021": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272346&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272346&type=464",
@@ -9220,13 +9220,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 237,
-      "Молотов Александр Владимирович": 65,
-      "Резникова Татьяна Владимировна": 16,
-      "Рыжков Владимир Александрович": 41,
-      "Сартаков Андрей Александрович": 122,
-      "Чеснов Павел Алексеевич": 9,
-      "Щукин Андрей Евгеньевич": 99
+      "gas:candidate-vibid:22220001365897": 237,
+      "gas:candidate-vibid:22220001359266": 65,
+      "gas:candidate-vibid:22220001370606": 16,
+      "gas:candidate-vibid:22220001368892": 41,
+      "gas:candidate-vibid:22220001368781": 122,
+      "gas:candidate-vibid:22220001368994": 9,
+      "gas:candidate-vibid:22220001352021": 99
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272346&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272346&type=464",
@@ -9277,13 +9277,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 206,
-      "Молотов Александр Владимирович": 83,
-      "Резникова Татьяна Владимировна": 20,
-      "Рыжков Владимир Александрович": 75,
-      "Сартаков Андрей Александрович": 130,
-      "Чеснов Павел Алексеевич": 19,
-      "Щукин Андрей Евгеньевич": 94
+      "gas:candidate-vibid:22220001365897": 206,
+      "gas:candidate-vibid:22220001359266": 83,
+      "gas:candidate-vibid:22220001370606": 20,
+      "gas:candidate-vibid:22220001368892": 75,
+      "gas:candidate-vibid:22220001368781": 130,
+      "gas:candidate-vibid:22220001368994": 19,
+      "gas:candidate-vibid:22220001352021": 94
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272346&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272346&type=464",
@@ -9334,13 +9334,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 149,
-      "Молотов Александр Владимирович": 60,
-      "Резникова Татьяна Владимировна": 16,
-      "Рыжков Владимир Александрович": 41,
-      "Сартаков Андрей Александрович": 60,
-      "Чеснов Павел Алексеевич": 12,
-      "Щукин Андрей Евгеньевич": 53
+      "gas:candidate-vibid:22220001365897": 149,
+      "gas:candidate-vibid:22220001359266": 60,
+      "gas:candidate-vibid:22220001370606": 16,
+      "gas:candidate-vibid:22220001368892": 41,
+      "gas:candidate-vibid:22220001368781": 60,
+      "gas:candidate-vibid:22220001368994": 12,
+      "gas:candidate-vibid:22220001352021": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272346&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272346&type=464",
@@ -9391,13 +9391,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 263,
-      "Молотов Александр Владимирович": 180,
-      "Резникова Татьяна Владимировна": 29,
-      "Рыжков Владимир Александрович": 92,
-      "Сартаков Андрей Александрович": 123,
-      "Чеснов Павел Алексеевич": 11,
-      "Щукин Андрей Евгеньевич": 113
+      "gas:candidate-vibid:22220001365897": 263,
+      "gas:candidate-vibid:22220001359266": 180,
+      "gas:candidate-vibid:22220001370606": 29,
+      "gas:candidate-vibid:22220001368892": 92,
+      "gas:candidate-vibid:22220001368781": 123,
+      "gas:candidate-vibid:22220001368994": 11,
+      "gas:candidate-vibid:22220001352021": 113
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272346&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272346&type=464",
@@ -9448,13 +9448,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 329,
-      "Молотов Александр Владимирович": 217,
-      "Резникова Татьяна Владимировна": 39,
-      "Рыжков Владимир Александрович": 96,
-      "Сартаков Андрей Александрович": 174,
-      "Чеснов Павел Алексеевич": 23,
-      "Щукин Андрей Евгеньевич": 125
+      "gas:candidate-vibid:22220001365897": 329,
+      "gas:candidate-vibid:22220001359266": 217,
+      "gas:candidate-vibid:22220001370606": 39,
+      "gas:candidate-vibid:22220001368892": 96,
+      "gas:candidate-vibid:22220001368781": 174,
+      "gas:candidate-vibid:22220001368994": 23,
+      "gas:candidate-vibid:22220001352021": 125
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272346&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272346&type=464",
@@ -9505,13 +9505,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 201,
-      "Молотов Александр Владимирович": 120,
-      "Резникова Татьяна Владимировна": 24,
-      "Рыжков Владимир Александрович": 78,
-      "Сартаков Андрей Александрович": 119,
-      "Чеснов Павел Алексеевич": 13,
-      "Щукин Андрей Евгеньевич": 77
+      "gas:candidate-vibid:22220001365897": 201,
+      "gas:candidate-vibid:22220001359266": 120,
+      "gas:candidate-vibid:22220001370606": 24,
+      "gas:candidate-vibid:22220001368892": 78,
+      "gas:candidate-vibid:22220001368781": 119,
+      "gas:candidate-vibid:22220001368994": 13,
+      "gas:candidate-vibid:22220001352021": 77
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272346&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272346&type=464",
@@ -9562,13 +9562,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 266,
-      "Молотов Александр Владимирович": 163,
-      "Резникова Татьяна Владимировна": 26,
-      "Рыжков Владимир Александрович": 86,
-      "Сартаков Андрей Александрович": 131,
-      "Чеснов Павел Алексеевич": 14,
-      "Щукин Андрей Евгеньевич": 122
+      "gas:candidate-vibid:22220001365897": 266,
+      "gas:candidate-vibid:22220001359266": 163,
+      "gas:candidate-vibid:22220001370606": 26,
+      "gas:candidate-vibid:22220001368892": 86,
+      "gas:candidate-vibid:22220001368781": 131,
+      "gas:candidate-vibid:22220001368994": 14,
+      "gas:candidate-vibid:22220001352021": 122
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272346&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272346&type=464",
@@ -9619,13 +9619,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 271,
-      "Молотов Александр Владимирович": 188,
-      "Резникова Татьяна Владимировна": 39,
-      "Рыжков Владимир Александрович": 96,
-      "Сартаков Андрей Александрович": 194,
-      "Чеснов Павел Алексеевич": 16,
-      "Щукин Андрей Евгеньевич": 98
+      "gas:candidate-vibid:22220001365897": 271,
+      "gas:candidate-vibid:22220001359266": 188,
+      "gas:candidate-vibid:22220001370606": 39,
+      "gas:candidate-vibid:22220001368892": 96,
+      "gas:candidate-vibid:22220001368781": 194,
+      "gas:candidate-vibid:22220001368994": 16,
+      "gas:candidate-vibid:22220001352021": 98
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272346&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272346&type=464",
@@ -9676,13 +9676,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 316,
-      "Молотов Александр Владимирович": 107,
-      "Резникова Татьяна Владимировна": 27,
-      "Рыжков Владимир Александрович": 75,
-      "Сартаков Андрей Александрович": 100,
-      "Чеснов Павел Алексеевич": 12,
-      "Щукин Андрей Евгеньевич": 78
+      "gas:candidate-vibid:22220001365897": 316,
+      "gas:candidate-vibid:22220001359266": 107,
+      "gas:candidate-vibid:22220001370606": 27,
+      "gas:candidate-vibid:22220001368892": 75,
+      "gas:candidate-vibid:22220001368781": 100,
+      "gas:candidate-vibid:22220001368994": 12,
+      "gas:candidate-vibid:22220001352021": 78
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272346&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272346&type=464",
@@ -9733,13 +9733,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 221,
-      "Молотов Александр Владимирович": 143,
-      "Резникова Татьяна Владимировна": 26,
-      "Рыжков Владимир Александрович": 89,
-      "Сартаков Андрей Александрович": 159,
-      "Чеснов Павел Алексеевич": 15,
-      "Щукин Андрей Евгеньевич": 90
+      "gas:candidate-vibid:22220001365897": 221,
+      "gas:candidate-vibid:22220001359266": 143,
+      "gas:candidate-vibid:22220001370606": 26,
+      "gas:candidate-vibid:22220001368892": 89,
+      "gas:candidate-vibid:22220001368781": 159,
+      "gas:candidate-vibid:22220001368994": 15,
+      "gas:candidate-vibid:22220001352021": 90
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272346&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272346&type=464",
@@ -9790,13 +9790,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 284,
-      "Молотов Александр Владимирович": 98,
-      "Резникова Татьяна Владимировна": 29,
-      "Рыжков Владимир Александрович": 73,
-      "Сартаков Андрей Александрович": 137,
-      "Чеснов Павел Алексеевич": 19,
-      "Щукин Андрей Евгеньевич": 163
+      "gas:candidate-vibid:22220001365897": 284,
+      "gas:candidate-vibid:22220001359266": 98,
+      "gas:candidate-vibid:22220001370606": 29,
+      "gas:candidate-vibid:22220001368892": 73,
+      "gas:candidate-vibid:22220001368781": 137,
+      "gas:candidate-vibid:22220001368994": 19,
+      "gas:candidate-vibid:22220001352021": 163
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272346&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272346&type=464",
@@ -9847,13 +9847,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 205,
-      "Молотов Александр Владимирович": 70,
-      "Резникова Татьяна Владимировна": 18,
-      "Рыжков Владимир Александрович": 63,
-      "Сартаков Андрей Александрович": 112,
-      "Чеснов Павел Алексеевич": 12,
-      "Щукин Андрей Евгеньевич": 78
+      "gas:candidate-vibid:22220001365897": 205,
+      "gas:candidate-vibid:22220001359266": 70,
+      "gas:candidate-vibid:22220001370606": 18,
+      "gas:candidate-vibid:22220001368892": 63,
+      "gas:candidate-vibid:22220001368781": 112,
+      "gas:candidate-vibid:22220001368994": 12,
+      "gas:candidate-vibid:22220001352021": 78
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272346&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272346&type=464",
@@ -9904,13 +9904,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 266,
-      "Молотов Александр Владимирович": 73,
-      "Резникова Татьяна Владимировна": 21,
-      "Рыжков Владимир Александрович": 77,
-      "Сартаков Андрей Александрович": 139,
-      "Чеснов Павел Алексеевич": 11,
-      "Щукин Андрей Евгеньевич": 124
+      "gas:candidate-vibid:22220001365897": 266,
+      "gas:candidate-vibid:22220001359266": 73,
+      "gas:candidate-vibid:22220001370606": 21,
+      "gas:candidate-vibid:22220001368892": 77,
+      "gas:candidate-vibid:22220001368781": 139,
+      "gas:candidate-vibid:22220001368994": 11,
+      "gas:candidate-vibid:22220001352021": 124
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272346&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272346&type=464",
@@ -9961,13 +9961,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 175,
-      "Молотов Александр Владимирович": 23,
-      "Резникова Татьяна Владимировна": 14,
-      "Рыжков Владимир Александрович": 43,
-      "Сартаков Андрей Александрович": 70,
-      "Чеснов Павел Алексеевич": 5,
-      "Щукин Андрей Евгеньевич": 47
+      "gas:candidate-vibid:22220001365897": 175,
+      "gas:candidate-vibid:22220001359266": 23,
+      "gas:candidate-vibid:22220001370606": 14,
+      "gas:candidate-vibid:22220001368892": 43,
+      "gas:candidate-vibid:22220001368781": 70,
+      "gas:candidate-vibid:22220001368994": 5,
+      "gas:candidate-vibid:22220001352021": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272346&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272346&type=464",
@@ -10018,13 +10018,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 337,
-      "Молотов Александр Владимирович": 79,
-      "Резникова Татьяна Владимировна": 23,
-      "Рыжков Владимир Александрович": 108,
-      "Сартаков Андрей Александрович": 131,
-      "Чеснов Павел Алексеевич": 14,
-      "Щукин Андрей Евгеньевич": 120
+      "gas:candidate-vibid:22220001365897": 337,
+      "gas:candidate-vibid:22220001359266": 79,
+      "gas:candidate-vibid:22220001370606": 23,
+      "gas:candidate-vibid:22220001368892": 108,
+      "gas:candidate-vibid:22220001368781": 131,
+      "gas:candidate-vibid:22220001368994": 14,
+      "gas:candidate-vibid:22220001352021": 120
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272346&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272346&type=464",
@@ -10075,13 +10075,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 153,
-      "Молотов Александр Владимирович": 37,
-      "Резникова Татьяна Владимировна": 8,
-      "Рыжков Владимир Александрович": 56,
-      "Сартаков Андрей Александрович": 50,
-      "Чеснов Павел Алексеевич": 4,
-      "Щукин Андрей Евгеньевич": 32
+      "gas:candidate-vibid:22220001365897": 153,
+      "gas:candidate-vibid:22220001359266": 37,
+      "gas:candidate-vibid:22220001370606": 8,
+      "gas:candidate-vibid:22220001368892": 56,
+      "gas:candidate-vibid:22220001368781": 50,
+      "gas:candidate-vibid:22220001368994": 4,
+      "gas:candidate-vibid:22220001352021": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272346&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272346&type=464",
@@ -10132,13 +10132,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 60,
-      "Молотов Александр Владимирович": 29,
-      "Резникова Татьяна Владимировна": 12,
-      "Рыжков Владимир Александрович": 15,
-      "Сартаков Андрей Александрович": 17,
-      "Чеснов Павел Алексеевич": 6,
-      "Щукин Андрей Евгеньевич": 48
+      "gas:candidate-vibid:22220001365897": 60,
+      "gas:candidate-vibid:22220001359266": 29,
+      "gas:candidate-vibid:22220001370606": 12,
+      "gas:candidate-vibid:22220001368892": 15,
+      "gas:candidate-vibid:22220001368781": 17,
+      "gas:candidate-vibid:22220001368994": 6,
+      "gas:candidate-vibid:22220001352021": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272346&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272346&type=464",
@@ -10189,13 +10189,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 119,
-      "Молотов Александр Владимирович": 46,
-      "Резникова Татьяна Владимировна": 10,
-      "Рыжков Владимир Александрович": 24,
-      "Сартаков Андрей Александрович": 45,
-      "Чеснов Павел Алексеевич": 2,
-      "Щукин Андрей Евгеньевич": 41
+      "gas:candidate-vibid:22220001365897": 119,
+      "gas:candidate-vibid:22220001359266": 46,
+      "gas:candidate-vibid:22220001370606": 10,
+      "gas:candidate-vibid:22220001368892": 24,
+      "gas:candidate-vibid:22220001368781": 45,
+      "gas:candidate-vibid:22220001368994": 2,
+      "gas:candidate-vibid:22220001352021": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272346&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272346&type=464",
@@ -10246,13 +10246,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 41,
-      "Молотов Александр Владимирович": 14,
-      "Резникова Татьяна Владимировна": 3,
-      "Рыжков Владимир Александрович": 13,
-      "Сартаков Андрей Александрович": 18,
-      "Чеснов Павел Алексеевич": 1,
-      "Щукин Андрей Евгеньевич": 22
+      "gas:candidate-vibid:22220001365897": 41,
+      "gas:candidate-vibid:22220001359266": 14,
+      "gas:candidate-vibid:22220001370606": 3,
+      "gas:candidate-vibid:22220001368892": 13,
+      "gas:candidate-vibid:22220001368781": 18,
+      "gas:candidate-vibid:22220001368994": 1,
+      "gas:candidate-vibid:22220001352021": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272346&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272346&type=464",
@@ -10303,13 +10303,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 25,
-      "Молотов Александр Владимирович": 3,
-      "Резникова Татьяна Владимировна": 10,
-      "Рыжков Владимир Александрович": 22,
-      "Сартаков Андрей Александрович": 11,
-      "Чеснов Павел Алексеевич": 2,
-      "Щукин Андрей Евгеньевич": 7
+      "gas:candidate-vibid:22220001365897": 25,
+      "gas:candidate-vibid:22220001359266": 3,
+      "gas:candidate-vibid:22220001370606": 10,
+      "gas:candidate-vibid:22220001368892": 22,
+      "gas:candidate-vibid:22220001368781": 11,
+      "gas:candidate-vibid:22220001368994": 2,
+      "gas:candidate-vibid:22220001352021": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272346&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272346&type=464",
@@ -10360,13 +10360,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 77,
-      "Молотов Александр Владимирович": 5,
-      "Резникова Татьяна Владимировна": 14,
-      "Рыжков Владимир Александрович": 169,
-      "Сартаков Андрей Александрович": 28,
-      "Чеснов Павел Алексеевич": 13,
-      "Щукин Андрей Евгеньевич": 17
+      "gas:candidate-vibid:22220001365897": 77,
+      "gas:candidate-vibid:22220001359266": 5,
+      "gas:candidate-vibid:22220001370606": 14,
+      "gas:candidate-vibid:22220001368892": 169,
+      "gas:candidate-vibid:22220001368781": 28,
+      "gas:candidate-vibid:22220001368994": 13,
+      "gas:candidate-vibid:22220001352021": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272346&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272346&type=464",
@@ -10417,13 +10417,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 16,
-      "Молотов Александр Владимирович": 1,
-      "Резникова Татьяна Владимировна": 9,
-      "Рыжков Владимир Александрович": 44,
-      "Сартаков Андрей Александрович": 11,
-      "Чеснов Павел Алексеевич": 5,
-      "Щукин Андрей Евгеньевич": 3
+      "gas:candidate-vibid:22220001365897": 16,
+      "gas:candidate-vibid:22220001359266": 1,
+      "gas:candidate-vibid:22220001370606": 9,
+      "gas:candidate-vibid:22220001368892": 44,
+      "gas:candidate-vibid:22220001368781": 11,
+      "gas:candidate-vibid:22220001368994": 5,
+      "gas:candidate-vibid:22220001352021": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272346&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272346&type=464",
@@ -10474,13 +10474,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 18,
-      "Молотов Александр Владимирович": 6,
-      "Резникова Татьяна Владимировна": 2,
-      "Рыжков Владимир Александрович": 17,
-      "Сартаков Андрей Александрович": 8,
-      "Чеснов Павел Алексеевич": 3,
-      "Щукин Андрей Евгеньевич": 5
+      "gas:candidate-vibid:22220001365897": 18,
+      "gas:candidate-vibid:22220001359266": 6,
+      "gas:candidate-vibid:22220001370606": 2,
+      "gas:candidate-vibid:22220001368892": 17,
+      "gas:candidate-vibid:22220001368781": 8,
+      "gas:candidate-vibid:22220001368994": 3,
+      "gas:candidate-vibid:22220001352021": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272346&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272346&type=464",
@@ -10531,13 +10531,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 21,
-      "Молотов Александр Владимирович": 3,
-      "Резникова Татьяна Владимировна": 5,
-      "Рыжков Владимир Александрович": 28,
-      "Сартаков Андрей Александрович": 5,
-      "Чеснов Павел Алексеевич": 6,
-      "Щукин Андрей Евгеньевич": 3
+      "gas:candidate-vibid:22220001365897": 21,
+      "gas:candidate-vibid:22220001359266": 3,
+      "gas:candidate-vibid:22220001370606": 5,
+      "gas:candidate-vibid:22220001368892": 28,
+      "gas:candidate-vibid:22220001368781": 5,
+      "gas:candidate-vibid:22220001368994": 6,
+      "gas:candidate-vibid:22220001352021": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272346&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272346&type=464",
@@ -10588,13 +10588,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 25,
-      "Молотов Александр Владимирович": 3,
-      "Резникова Татьяна Владимировна": 4,
-      "Рыжков Владимир Александрович": 48,
-      "Сартаков Андрей Александрович": 8,
-      "Чеснов Павел Алексеевич": 1,
-      "Щукин Андрей Евгеньевич": 1
+      "gas:candidate-vibid:22220001365897": 25,
+      "gas:candidate-vibid:22220001359266": 3,
+      "gas:candidate-vibid:22220001370606": 4,
+      "gas:candidate-vibid:22220001368892": 48,
+      "gas:candidate-vibid:22220001368781": 8,
+      "gas:candidate-vibid:22220001368994": 1,
+      "gas:candidate-vibid:22220001352021": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272346&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272346&type=464",
@@ -10645,13 +10645,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 237,
-      "Молотов Александр Владимирович": 32,
-      "Резникова Татьяна Владимировна": 29,
-      "Рыжков Владимир Александрович": 64,
-      "Сартаков Андрей Александрович": 65,
-      "Чеснов Павел Алексеевич": 14,
-      "Щукин Андрей Евгеньевич": 31
+      "gas:candidate-vibid:22220001365897": 237,
+      "gas:candidate-vibid:22220001359266": 32,
+      "gas:candidate-vibid:22220001370606": 29,
+      "gas:candidate-vibid:22220001368892": 64,
+      "gas:candidate-vibid:22220001368781": 65,
+      "gas:candidate-vibid:22220001368994": 14,
+      "gas:candidate-vibid:22220001352021": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272346&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272346&type=464",
@@ -10702,13 +10702,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 243,
-      "Молотов Александр Владимирович": 33,
-      "Резникова Татьяна Владимировна": 56,
-      "Рыжков Владимир Александрович": 98,
-      "Сартаков Андрей Александрович": 71,
-      "Чеснов Павел Алексеевич": 51,
-      "Щукин Андрей Евгеньевич": 48
+      "gas:candidate-vibid:22220001365897": 243,
+      "gas:candidate-vibid:22220001359266": 33,
+      "gas:candidate-vibid:22220001370606": 56,
+      "gas:candidate-vibid:22220001368892": 98,
+      "gas:candidate-vibid:22220001368781": 71,
+      "gas:candidate-vibid:22220001368994": 51,
+      "gas:candidate-vibid:22220001352021": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272346&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272346&type=464",
@@ -10759,13 +10759,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 108,
-      "Молотов Александр Владимирович": 26,
-      "Резникова Татьяна Владимировна": 17,
-      "Рыжков Владимир Александрович": 59,
-      "Сартаков Андрей Александрович": 25,
-      "Чеснов Павел Алексеевич": 20,
-      "Щукин Андрей Евгеньевич": 13
+      "gas:candidate-vibid:22220001365897": 108,
+      "gas:candidate-vibid:22220001359266": 26,
+      "gas:candidate-vibid:22220001370606": 17,
+      "gas:candidate-vibid:22220001368892": 59,
+      "gas:candidate-vibid:22220001368781": 25,
+      "gas:candidate-vibid:22220001368994": 20,
+      "gas:candidate-vibid:22220001352021": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272346&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272346&type=464",
@@ -10816,13 +10816,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 19,
-      "Молотов Александр Владимирович": 14,
-      "Резникова Татьяна Владимировна": 16,
-      "Рыжков Владимир Александрович": 10,
-      "Сартаков Андрей Александрович": 6,
-      "Чеснов Павел Алексеевич": 10,
-      "Щукин Андрей Евгеньевич": 11
+      "gas:candidate-vibid:22220001365897": 19,
+      "gas:candidate-vibid:22220001359266": 14,
+      "gas:candidate-vibid:22220001370606": 16,
+      "gas:candidate-vibid:22220001368892": 10,
+      "gas:candidate-vibid:22220001368781": 6,
+      "gas:candidate-vibid:22220001368994": 10,
+      "gas:candidate-vibid:22220001352021": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272346&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272346&type=464",
@@ -10873,13 +10873,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 17,
-      "Молотов Александр Владимирович": 8,
-      "Резникова Татьяна Владимировна": 6,
-      "Рыжков Владимир Александрович": 47,
-      "Сартаков Андрей Александрович": 6,
-      "Чеснов Павел Алексеевич": 12,
-      "Щукин Андрей Евгеньевич": 4
+      "gas:candidate-vibid:22220001365897": 17,
+      "gas:candidate-vibid:22220001359266": 8,
+      "gas:candidate-vibid:22220001370606": 6,
+      "gas:candidate-vibid:22220001368892": 47,
+      "gas:candidate-vibid:22220001368781": 6,
+      "gas:candidate-vibid:22220001368994": 12,
+      "gas:candidate-vibid:22220001352021": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272346&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272346&type=464",
@@ -10930,13 +10930,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 37,
-      "Молотов Александр Владимирович": 8,
-      "Резникова Татьяна Владимировна": 11,
-      "Рыжков Владимир Александрович": 32,
-      "Сартаков Андрей Александрович": 13,
-      "Чеснов Павел Алексеевич": 4,
-      "Щукин Андрей Евгеньевич": 11
+      "gas:candidate-vibid:22220001365897": 37,
+      "gas:candidate-vibid:22220001359266": 8,
+      "gas:candidate-vibid:22220001370606": 11,
+      "gas:candidate-vibid:22220001368892": 32,
+      "gas:candidate-vibid:22220001368781": 13,
+      "gas:candidate-vibid:22220001368994": 4,
+      "gas:candidate-vibid:22220001352021": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272346&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272346&type=464",
@@ -10987,13 +10987,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 55,
-      "Молотов Александр Владимирович": 6,
-      "Резникова Татьяна Владимировна": 18,
-      "Рыжков Владимир Александрович": 22,
-      "Сартаков Андрей Александрович": 32,
-      "Чеснов Павел Алексеевич": 8,
-      "Щукин Андрей Евгеньевич": 13
+      "gas:candidate-vibid:22220001365897": 55,
+      "gas:candidate-vibid:22220001359266": 6,
+      "gas:candidate-vibid:22220001370606": 18,
+      "gas:candidate-vibid:22220001368892": 22,
+      "gas:candidate-vibid:22220001368781": 32,
+      "gas:candidate-vibid:22220001368994": 8,
+      "gas:candidate-vibid:22220001352021": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272346&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272346&type=464",
@@ -11044,13 +11044,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 176,
-      "Молотов Александр Владимирович": 45,
-      "Резникова Татьяна Владимировна": 54,
-      "Рыжков Владимир Александрович": 139,
-      "Сартаков Андрей Александрович": 57,
-      "Чеснов Павел Алексеевич": 34,
-      "Щукин Андрей Евгеньевич": 43
+      "gas:candidate-vibid:22220001365897": 176,
+      "gas:candidate-vibid:22220001359266": 45,
+      "gas:candidate-vibid:22220001370606": 54,
+      "gas:candidate-vibid:22220001368892": 139,
+      "gas:candidate-vibid:22220001368781": 57,
+      "gas:candidate-vibid:22220001368994": 34,
+      "gas:candidate-vibid:22220001352021": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272346&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272346&type=464",
@@ -11101,13 +11101,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 166,
-      "Молотов Александр Владимирович": 28,
-      "Резникова Татьяна Владимировна": 35,
-      "Рыжков Владимир Александрович": 124,
-      "Сартаков Андрей Александрович": 38,
-      "Чеснов Павел Алексеевич": 13,
-      "Щукин Андрей Евгеньевич": 31
+      "gas:candidate-vibid:22220001365897": 166,
+      "gas:candidate-vibid:22220001359266": 28,
+      "gas:candidate-vibid:22220001370606": 35,
+      "gas:candidate-vibid:22220001368892": 124,
+      "gas:candidate-vibid:22220001368781": 38,
+      "gas:candidate-vibid:22220001368994": 13,
+      "gas:candidate-vibid:22220001352021": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272346&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272346&type=464",
@@ -11158,13 +11158,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 174,
-      "Молотов Александр Владимирович": 80,
-      "Резникова Татьяна Владимировна": 17,
-      "Рыжков Владимир Александрович": 49,
-      "Сартаков Андрей Александрович": 87,
-      "Чеснов Павел Алексеевич": 7,
-      "Щукин Андрей Евгеньевич": 133
+      "gas:candidate-vibid:22220001365897": 174,
+      "gas:candidate-vibid:22220001359266": 80,
+      "gas:candidate-vibid:22220001370606": 17,
+      "gas:candidate-vibid:22220001368892": 49,
+      "gas:candidate-vibid:22220001368781": 87,
+      "gas:candidate-vibid:22220001368994": 7,
+      "gas:candidate-vibid:22220001352021": 133
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272347&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272347&type=464",
@@ -11215,13 +11215,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 242,
-      "Молотов Александр Владимирович": 114,
-      "Резникова Татьяна Владимировна": 21,
-      "Рыжков Владимир Александрович": 104,
-      "Сартаков Андрей Александрович": 185,
-      "Чеснов Павел Алексеевич": 19,
-      "Щукин Андрей Евгеньевич": 121
+      "gas:candidate-vibid:22220001365897": 242,
+      "gas:candidate-vibid:22220001359266": 114,
+      "gas:candidate-vibid:22220001370606": 21,
+      "gas:candidate-vibid:22220001368892": 104,
+      "gas:candidate-vibid:22220001368781": 185,
+      "gas:candidate-vibid:22220001368994": 19,
+      "gas:candidate-vibid:22220001352021": 121
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272347&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272347&type=464",
@@ -11272,13 +11272,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 215,
-      "Молотов Александр Владимирович": 106,
-      "Резникова Татьяна Владимировна": 12,
-      "Рыжков Владимир Александрович": 86,
-      "Сартаков Андрей Александрович": 93,
-      "Чеснов Павел Алексеевич": 18,
-      "Щукин Андрей Евгеньевич": 111
+      "gas:candidate-vibid:22220001365897": 215,
+      "gas:candidate-vibid:22220001359266": 106,
+      "gas:candidate-vibid:22220001370606": 12,
+      "gas:candidate-vibid:22220001368892": 86,
+      "gas:candidate-vibid:22220001368781": 93,
+      "gas:candidate-vibid:22220001368994": 18,
+      "gas:candidate-vibid:22220001352021": 111
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272347&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272347&type=464",
@@ -11329,13 +11329,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 329,
-      "Молотов Александр Владимирович": 167,
-      "Резникова Татьяна Владимировна": 25,
-      "Рыжков Владимир Александрович": 138,
-      "Сартаков Андрей Александрович": 190,
-      "Чеснов Павел Алексеевич": 27,
-      "Щукин Андрей Евгеньевич": 150
+      "gas:candidate-vibid:22220001365897": 329,
+      "gas:candidate-vibid:22220001359266": 167,
+      "gas:candidate-vibid:22220001370606": 25,
+      "gas:candidate-vibid:22220001368892": 138,
+      "gas:candidate-vibid:22220001368781": 190,
+      "gas:candidate-vibid:22220001368994": 27,
+      "gas:candidate-vibid:22220001352021": 150
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272347&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272347&type=464",
@@ -11386,13 +11386,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 305,
-      "Молотов Александр Владимирович": 108,
-      "Резникова Татьяна Владимировна": 39,
-      "Рыжков Владимир Александрович": 117,
-      "Сартаков Андрей Александрович": 172,
-      "Чеснов Павел Алексеевич": 33,
-      "Щукин Андрей Евгеньевич": 136
+      "gas:candidate-vibid:22220001365897": 305,
+      "gas:candidate-vibid:22220001359266": 108,
+      "gas:candidate-vibid:22220001370606": 39,
+      "gas:candidate-vibid:22220001368892": 117,
+      "gas:candidate-vibid:22220001368781": 172,
+      "gas:candidate-vibid:22220001368994": 33,
+      "gas:candidate-vibid:22220001352021": 136
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272347&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272347&type=464",
@@ -11443,13 +11443,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 120,
-      "Молотов Александр Владимирович": 34,
-      "Резникова Татьяна Владимировна": 8,
-      "Рыжков Владимир Александрович": 41,
-      "Сартаков Андрей Александрович": 62,
-      "Чеснов Павел Алексеевич": 13,
-      "Щукин Андрей Евгеньевич": 69
+      "gas:candidate-vibid:22220001365897": 120,
+      "gas:candidate-vibid:22220001359266": 34,
+      "gas:candidate-vibid:22220001370606": 8,
+      "gas:candidate-vibid:22220001368892": 41,
+      "gas:candidate-vibid:22220001368781": 62,
+      "gas:candidate-vibid:22220001368994": 13,
+      "gas:candidate-vibid:22220001352021": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272347&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272347&type=464",
@@ -11500,13 +11500,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 290,
-      "Молотов Александр Владимирович": 151,
-      "Резникова Татьяна Владимировна": 18,
-      "Рыжков Владимир Александрович": 94,
-      "Сартаков Андрей Александрович": 136,
-      "Чеснов Павел Алексеевич": 16,
-      "Щукин Андрей Евгеньевич": 150
+      "gas:candidate-vibid:22220001365897": 290,
+      "gas:candidate-vibid:22220001359266": 151,
+      "gas:candidate-vibid:22220001370606": 18,
+      "gas:candidate-vibid:22220001368892": 94,
+      "gas:candidate-vibid:22220001368781": 136,
+      "gas:candidate-vibid:22220001368994": 16,
+      "gas:candidate-vibid:22220001352021": 150
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272347&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272347&type=464",
@@ -11557,13 +11557,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 111,
-      "Молотов Александр Владимирович": 86,
-      "Резникова Татьяна Владимировна": 13,
-      "Рыжков Владимир Александрович": 56,
-      "Сартаков Андрей Александрович": 73,
-      "Чеснов Павел Алексеевич": 10,
-      "Щукин Андрей Евгеньевич": 60
+      "gas:candidate-vibid:22220001365897": 111,
+      "gas:candidate-vibid:22220001359266": 86,
+      "gas:candidate-vibid:22220001370606": 13,
+      "gas:candidate-vibid:22220001368892": 56,
+      "gas:candidate-vibid:22220001368781": 73,
+      "gas:candidate-vibid:22220001368994": 10,
+      "gas:candidate-vibid:22220001352021": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272347&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272347&type=464",
@@ -11614,13 +11614,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 197,
-      "Молотов Александр Владимирович": 103,
-      "Резникова Татьяна Владимировна": 14,
-      "Рыжков Владимир Александрович": 84,
-      "Сартаков Андрей Александрович": 143,
-      "Чеснов Павел Алексеевич": 18,
-      "Щукин Андрей Евгеньевич": 90
+      "gas:candidate-vibid:22220001365897": 197,
+      "gas:candidate-vibid:22220001359266": 103,
+      "gas:candidate-vibid:22220001370606": 14,
+      "gas:candidate-vibid:22220001368892": 84,
+      "gas:candidate-vibid:22220001368781": 143,
+      "gas:candidate-vibid:22220001368994": 18,
+      "gas:candidate-vibid:22220001352021": 90
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272347&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272347&type=464",
@@ -11671,13 +11671,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 192,
-      "Молотов Александр Владимирович": 99,
-      "Резникова Татьяна Владимировна": 16,
-      "Рыжков Владимир Александрович": 78,
-      "Сартаков Андрей Александрович": 152,
-      "Чеснов Павел Алексеевич": 19,
-      "Щукин Андрей Евгеньевич": 119
+      "gas:candidate-vibid:22220001365897": 192,
+      "gas:candidate-vibid:22220001359266": 99,
+      "gas:candidate-vibid:22220001370606": 16,
+      "gas:candidate-vibid:22220001368892": 78,
+      "gas:candidate-vibid:22220001368781": 152,
+      "gas:candidate-vibid:22220001368994": 19,
+      "gas:candidate-vibid:22220001352021": 119
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272347&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272347&type=464",
@@ -11728,13 +11728,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 108,
-      "Молотов Александр Владимирович": 56,
-      "Резникова Татьяна Владимировна": 11,
-      "Рыжков Владимир Александрович": 54,
-      "Сартаков Андрей Александрович": 58,
-      "Чеснов Павел Алексеевич": 4,
-      "Щукин Андрей Евгеньевич": 48
+      "gas:candidate-vibid:22220001365897": 108,
+      "gas:candidate-vibid:22220001359266": 56,
+      "gas:candidate-vibid:22220001370606": 11,
+      "gas:candidate-vibid:22220001368892": 54,
+      "gas:candidate-vibid:22220001368781": 58,
+      "gas:candidate-vibid:22220001368994": 4,
+      "gas:candidate-vibid:22220001352021": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272347&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272347&type=464",
@@ -11785,13 +11785,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 131,
-      "Молотов Александр Владимирович": 88,
-      "Резникова Татьяна Владимировна": 9,
-      "Рыжков Владимир Александрович": 62,
-      "Сартаков Андрей Александрович": 87,
-      "Чеснов Павел Алексеевич": 12,
-      "Щукин Андрей Евгеньевич": 88
+      "gas:candidate-vibid:22220001365897": 131,
+      "gas:candidate-vibid:22220001359266": 88,
+      "gas:candidate-vibid:22220001370606": 9,
+      "gas:candidate-vibid:22220001368892": 62,
+      "gas:candidate-vibid:22220001368781": 87,
+      "gas:candidate-vibid:22220001368994": 12,
+      "gas:candidate-vibid:22220001352021": 88
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272347&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272347&type=464",
@@ -11842,13 +11842,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 120,
-      "Молотов Александр Владимирович": 76,
-      "Резникова Татьяна Владимировна": 14,
-      "Рыжков Владимир Александрович": 45,
-      "Сартаков Андрей Александрович": 51,
-      "Чеснов Павел Алексеевич": 7,
-      "Щукин Андрей Евгеньевич": 108
+      "gas:candidate-vibid:22220001365897": 120,
+      "gas:candidate-vibid:22220001359266": 76,
+      "gas:candidate-vibid:22220001370606": 14,
+      "gas:candidate-vibid:22220001368892": 45,
+      "gas:candidate-vibid:22220001368781": 51,
+      "gas:candidate-vibid:22220001368994": 7,
+      "gas:candidate-vibid:22220001352021": 108
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272347&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272347&type=464",
@@ -11899,13 +11899,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 220,
-      "Молотов Александр Владимирович": 168,
-      "Резникова Татьяна Владимировна": 30,
-      "Рыжков Владимир Александрович": 117,
-      "Сартаков Андрей Александрович": 135,
-      "Чеснов Павел Алексеевич": 19,
-      "Щукин Андрей Евгеньевич": 144
+      "gas:candidate-vibid:22220001365897": 220,
+      "gas:candidate-vibid:22220001359266": 168,
+      "gas:candidate-vibid:22220001370606": 30,
+      "gas:candidate-vibid:22220001368892": 117,
+      "gas:candidate-vibid:22220001368781": 135,
+      "gas:candidate-vibid:22220001368994": 19,
+      "gas:candidate-vibid:22220001352021": 144
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272347&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272347&type=464",
@@ -11956,13 +11956,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 134,
-      "Молотов Александр Владимирович": 87,
-      "Резникова Татьяна Владимировна": 13,
-      "Рыжков Владимир Александрович": 65,
-      "Сартаков Андрей Александрович": 84,
-      "Чеснов Павел Алексеевич": 20,
-      "Щукин Андрей Евгеньевич": 104
+      "gas:candidate-vibid:22220001365897": 134,
+      "gas:candidate-vibid:22220001359266": 87,
+      "gas:candidate-vibid:22220001370606": 13,
+      "gas:candidate-vibid:22220001368892": 65,
+      "gas:candidate-vibid:22220001368781": 84,
+      "gas:candidate-vibid:22220001368994": 20,
+      "gas:candidate-vibid:22220001352021": 104
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272347&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272347&type=464",
@@ -12013,13 +12013,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 114,
-      "Молотов Александр Владимирович": 74,
-      "Резникова Татьяна Владимировна": 10,
-      "Рыжков Владимир Александрович": 43,
-      "Сартаков Андрей Александрович": 85,
-      "Чеснов Павел Алексеевич": 8,
-      "Щукин Андрей Евгеньевич": 130
+      "gas:candidate-vibid:22220001365897": 114,
+      "gas:candidate-vibid:22220001359266": 74,
+      "gas:candidate-vibid:22220001370606": 10,
+      "gas:candidate-vibid:22220001368892": 43,
+      "gas:candidate-vibid:22220001368781": 85,
+      "gas:candidate-vibid:22220001368994": 8,
+      "gas:candidate-vibid:22220001352021": 130
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272347&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272347&type=464",
@@ -12070,13 +12070,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 234,
-      "Молотов Александр Владимирович": 156,
-      "Резникова Татьяна Владимировна": 17,
-      "Рыжков Владимир Александрович": 80,
-      "Сартаков Андрей Александрович": 142,
-      "Чеснов Павел Алексеевич": 12,
-      "Щукин Андрей Евгеньевич": 130
+      "gas:candidate-vibid:22220001365897": 234,
+      "gas:candidate-vibid:22220001359266": 156,
+      "gas:candidate-vibid:22220001370606": 17,
+      "gas:candidate-vibid:22220001368892": 80,
+      "gas:candidate-vibid:22220001368781": 142,
+      "gas:candidate-vibid:22220001368994": 12,
+      "gas:candidate-vibid:22220001352021": 130
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272347&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272347&type=464",
@@ -12127,13 +12127,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 235,
-      "Молотов Александр Владимирович": 134,
-      "Резникова Татьяна Владимировна": 10,
-      "Рыжков Владимир Александрович": 58,
-      "Сартаков Андрей Александрович": 108,
-      "Чеснов Павел Алексеевич": 15,
-      "Щукин Андрей Евгеньевич": 189
+      "gas:candidate-vibid:22220001365897": 235,
+      "gas:candidate-vibid:22220001359266": 134,
+      "gas:candidate-vibid:22220001370606": 10,
+      "gas:candidate-vibid:22220001368892": 58,
+      "gas:candidate-vibid:22220001368781": 108,
+      "gas:candidate-vibid:22220001368994": 15,
+      "gas:candidate-vibid:22220001352021": 189
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272347&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272347&type=464",
@@ -12184,13 +12184,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 283,
-      "Молотов Александр Владимирович": 154,
-      "Резникова Татьяна Владимировна": 24,
-      "Рыжков Владимир Александрович": 75,
-      "Сартаков Андрей Александрович": 201,
-      "Чеснов Павел Алексеевич": 21,
-      "Щукин Андрей Евгеньевич": 170
+      "gas:candidate-vibid:22220001365897": 283,
+      "gas:candidate-vibid:22220001359266": 154,
+      "gas:candidate-vibid:22220001370606": 24,
+      "gas:candidate-vibid:22220001368892": 75,
+      "gas:candidate-vibid:22220001368781": 201,
+      "gas:candidate-vibid:22220001368994": 21,
+      "gas:candidate-vibid:22220001352021": 170
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272347&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272347&type=464",
@@ -12241,13 +12241,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 187,
-      "Молотов Александр Владимирович": 103,
-      "Резникова Татьяна Владимировна": 25,
-      "Рыжков Владимир Александрович": 58,
-      "Сартаков Андрей Александрович": 116,
-      "Чеснов Павел Алексеевич": 13,
-      "Щукин Андрей Евгеньевич": 150
+      "gas:candidate-vibid:22220001365897": 187,
+      "gas:candidate-vibid:22220001359266": 103,
+      "gas:candidate-vibid:22220001370606": 25,
+      "gas:candidate-vibid:22220001368892": 58,
+      "gas:candidate-vibid:22220001368781": 116,
+      "gas:candidate-vibid:22220001368994": 13,
+      "gas:candidate-vibid:22220001352021": 150
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272347&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272347&type=464",
@@ -12298,13 +12298,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 324,
-      "Молотов Александр Владимирович": 215,
-      "Резникова Татьяна Владимировна": 24,
-      "Рыжков Владимир Александрович": 99,
-      "Сартаков Андрей Александрович": 171,
-      "Чеснов Павел Алексеевич": 16,
-      "Щукин Андрей Евгеньевич": 155
+      "gas:candidate-vibid:22220001365897": 324,
+      "gas:candidate-vibid:22220001359266": 215,
+      "gas:candidate-vibid:22220001370606": 24,
+      "gas:candidate-vibid:22220001368892": 99,
+      "gas:candidate-vibid:22220001368781": 171,
+      "gas:candidate-vibid:22220001368994": 16,
+      "gas:candidate-vibid:22220001352021": 155
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272347&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272347&type=464",
@@ -12355,13 +12355,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 196,
-      "Молотов Александр Владимирович": 72,
-      "Резникова Татьяна Владимировна": 9,
-      "Рыжков Владимир Александрович": 32,
-      "Сартаков Андрей Александрович": 67,
-      "Чеснов Павел Алексеевич": 12,
-      "Щукин Андрей Евгеньевич": 168
+      "gas:candidate-vibid:22220001365897": 196,
+      "gas:candidate-vibid:22220001359266": 72,
+      "gas:candidate-vibid:22220001370606": 9,
+      "gas:candidate-vibid:22220001368892": 32,
+      "gas:candidate-vibid:22220001368781": 67,
+      "gas:candidate-vibid:22220001368994": 12,
+      "gas:candidate-vibid:22220001352021": 168
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272347&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272347&type=464",
@@ -12412,13 +12412,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 202,
-      "Молотов Александр Владимирович": 110,
-      "Резникова Татьяна Владимировна": 16,
-      "Рыжков Владимир Александрович": 53,
-      "Сартаков Андрей Александрович": 115,
-      "Чеснов Павел Алексеевич": 6,
-      "Щукин Андрей Евгеньевич": 225
+      "gas:candidate-vibid:22220001365897": 202,
+      "gas:candidate-vibid:22220001359266": 110,
+      "gas:candidate-vibid:22220001370606": 16,
+      "gas:candidate-vibid:22220001368892": 53,
+      "gas:candidate-vibid:22220001368781": 115,
+      "gas:candidate-vibid:22220001368994": 6,
+      "gas:candidate-vibid:22220001352021": 225
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272347&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272347&type=464",
@@ -12469,13 +12469,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 151,
-      "Молотов Александр Владимирович": 93,
-      "Резникова Татьяна Владимировна": 16,
-      "Рыжков Владимир Александрович": 34,
-      "Сартаков Андрей Александрович": 73,
-      "Чеснов Павел Алексеевич": 11,
-      "Щукин Андрей Евгеньевич": 123
+      "gas:candidate-vibid:22220001365897": 151,
+      "gas:candidate-vibid:22220001359266": 93,
+      "gas:candidate-vibid:22220001370606": 16,
+      "gas:candidate-vibid:22220001368892": 34,
+      "gas:candidate-vibid:22220001368781": 73,
+      "gas:candidate-vibid:22220001368994": 11,
+      "gas:candidate-vibid:22220001352021": 123
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272347&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272347&type=464",
@@ -12526,13 +12526,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 218,
-      "Молотов Александр Владимирович": 106,
-      "Резникова Татьяна Владимировна": 26,
-      "Рыжков Владимир Александрович": 62,
-      "Сартаков Андрей Александрович": 93,
-      "Чеснов Павел Алексеевич": 12,
-      "Щукин Андрей Евгеньевич": 109
+      "gas:candidate-vibid:22220001365897": 218,
+      "gas:candidate-vibid:22220001359266": 106,
+      "gas:candidate-vibid:22220001370606": 26,
+      "gas:candidate-vibid:22220001368892": 62,
+      "gas:candidate-vibid:22220001368781": 93,
+      "gas:candidate-vibid:22220001368994": 12,
+      "gas:candidate-vibid:22220001352021": 109
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272347&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272347&type=464",
@@ -12583,13 +12583,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 191,
-      "Молотов Александр Владимирович": 89,
-      "Резникова Татьяна Владимировна": 27,
-      "Рыжков Владимир Александрович": 68,
-      "Сартаков Андрей Александрович": 97,
-      "Чеснов Павел Алексеевич": 19,
-      "Щукин Андрей Евгеньевич": 153
+      "gas:candidate-vibid:22220001365897": 191,
+      "gas:candidate-vibid:22220001359266": 89,
+      "gas:candidate-vibid:22220001370606": 27,
+      "gas:candidate-vibid:22220001368892": 68,
+      "gas:candidate-vibid:22220001368781": 97,
+      "gas:candidate-vibid:22220001368994": 19,
+      "gas:candidate-vibid:22220001352021": 153
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272347&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272347&type=464",
@@ -12640,13 +12640,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 170,
-      "Молотов Александр Владимирович": 104,
-      "Резникова Татьяна Владимировна": 19,
-      "Рыжков Владимир Александрович": 55,
-      "Сартаков Андрей Александрович": 143,
-      "Чеснов Павел Алексеевич": 17,
-      "Щукин Андрей Евгеньевич": 172
+      "gas:candidate-vibid:22220001365897": 170,
+      "gas:candidate-vibid:22220001359266": 104,
+      "gas:candidate-vibid:22220001370606": 19,
+      "gas:candidate-vibid:22220001368892": 55,
+      "gas:candidate-vibid:22220001368781": 143,
+      "gas:candidate-vibid:22220001368994": 17,
+      "gas:candidate-vibid:22220001352021": 172
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272347&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272347&type=464",
@@ -12697,13 +12697,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 212,
-      "Молотов Александр Владимирович": 111,
-      "Резникова Татьяна Владимировна": 22,
-      "Рыжков Владимир Александрович": 65,
-      "Сартаков Андрей Александрович": 124,
-      "Чеснов Павел Алексеевич": 16,
-      "Щукин Андрей Евгеньевич": 171
+      "gas:candidate-vibid:22220001365897": 212,
+      "gas:candidate-vibid:22220001359266": 111,
+      "gas:candidate-vibid:22220001370606": 22,
+      "gas:candidate-vibid:22220001368892": 65,
+      "gas:candidate-vibid:22220001368781": 124,
+      "gas:candidate-vibid:22220001368994": 16,
+      "gas:candidate-vibid:22220001352021": 171
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272347&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272347&type=464",
@@ -12754,13 +12754,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 166,
-      "Молотов Александр Владимирович": 81,
-      "Резникова Татьяна Владимировна": 13,
-      "Рыжков Владимир Александрович": 63,
-      "Сартаков Андрей Александрович": 88,
-      "Чеснов Павел Алексеевич": 9,
-      "Щукин Андрей Евгеньевич": 130
+      "gas:candidate-vibid:22220001365897": 166,
+      "gas:candidate-vibid:22220001359266": 81,
+      "gas:candidate-vibid:22220001370606": 13,
+      "gas:candidate-vibid:22220001368892": 63,
+      "gas:candidate-vibid:22220001368781": 88,
+      "gas:candidate-vibid:22220001368994": 9,
+      "gas:candidate-vibid:22220001352021": 130
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272347&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272347&type=464",
@@ -12811,13 +12811,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 115,
-      "Молотов Александр Владимирович": 56,
-      "Резникова Татьяна Владимировна": 8,
-      "Рыжков Владимир Александрович": 27,
-      "Сартаков Андрей Александрович": 75,
-      "Чеснов Павел Алексеевич": 10,
-      "Щукин Андрей Евгеньевич": 88
+      "gas:candidate-vibid:22220001365897": 115,
+      "gas:candidate-vibid:22220001359266": 56,
+      "gas:candidate-vibid:22220001370606": 8,
+      "gas:candidate-vibid:22220001368892": 27,
+      "gas:candidate-vibid:22220001368781": 75,
+      "gas:candidate-vibid:22220001368994": 10,
+      "gas:candidate-vibid:22220001352021": 88
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272347&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272347&type=464",
@@ -12868,13 +12868,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 166,
-      "Молотов Александр Владимирович": 93,
-      "Резникова Татьяна Владимировна": 10,
-      "Рыжков Владимир Александрович": 62,
-      "Сартаков Андрей Александрович": 97,
-      "Чеснов Павел Алексеевич": 16,
-      "Щукин Андрей Евгеньевич": 160
+      "gas:candidate-vibid:22220001365897": 166,
+      "gas:candidate-vibid:22220001359266": 93,
+      "gas:candidate-vibid:22220001370606": 10,
+      "gas:candidate-vibid:22220001368892": 62,
+      "gas:candidate-vibid:22220001368781": 97,
+      "gas:candidate-vibid:22220001368994": 16,
+      "gas:candidate-vibid:22220001352021": 160
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272347&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272347&type=464",
@@ -12925,13 +12925,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 281,
-      "Молотов Александр Владимирович": 136,
-      "Резникова Татьяна Владимировна": 32,
-      "Рыжков Владимир Александрович": 87,
-      "Сартаков Андрей Александрович": 195,
-      "Чеснов Павел Алексеевич": 23,
-      "Щукин Андрей Евгеньевич": 156
+      "gas:candidate-vibid:22220001365897": 281,
+      "gas:candidate-vibid:22220001359266": 136,
+      "gas:candidate-vibid:22220001370606": 32,
+      "gas:candidate-vibid:22220001368892": 87,
+      "gas:candidate-vibid:22220001368781": 195,
+      "gas:candidate-vibid:22220001368994": 23,
+      "gas:candidate-vibid:22220001352021": 156
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272347&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272347&type=464",
@@ -12982,13 +12982,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 271,
-      "Молотов Александр Владимирович": 145,
-      "Резникова Татьяна Владимировна": 17,
-      "Рыжков Владимир Александрович": 58,
-      "Сартаков Андрей Александрович": 148,
-      "Чеснов Павел Алексеевич": 18,
-      "Щукин Андрей Евгеньевич": 196
+      "gas:candidate-vibid:22220001365897": 271,
+      "gas:candidate-vibid:22220001359266": 145,
+      "gas:candidate-vibid:22220001370606": 17,
+      "gas:candidate-vibid:22220001368892": 58,
+      "gas:candidate-vibid:22220001368781": 148,
+      "gas:candidate-vibid:22220001368994": 18,
+      "gas:candidate-vibid:22220001352021": 196
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272347&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272347&type=464",
@@ -13039,13 +13039,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 153,
-      "Молотов Александр Владимирович": 107,
-      "Резникова Татьяна Владимировна": 15,
-      "Рыжков Владимир Александрович": 61,
-      "Сартаков Андрей Александрович": 111,
-      "Чеснов Павел Алексеевич": 10,
-      "Щукин Андрей Евгеньевич": 206
+      "gas:candidate-vibid:22220001365897": 153,
+      "gas:candidate-vibid:22220001359266": 107,
+      "gas:candidate-vibid:22220001370606": 15,
+      "gas:candidate-vibid:22220001368892": 61,
+      "gas:candidate-vibid:22220001368781": 111,
+      "gas:candidate-vibid:22220001368994": 10,
+      "gas:candidate-vibid:22220001352021": 206
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272347&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272347&type=464",
@@ -13096,13 +13096,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 165,
-      "Молотов Александр Владимирович": 131,
-      "Резникова Татьяна Владимировна": 15,
-      "Рыжков Владимир Александрович": 58,
-      "Сартаков Андрей Александрович": 87,
-      "Чеснов Павел Алексеевич": 16,
-      "Щукин Андрей Евгеньевич": 243
+      "gas:candidate-vibid:22220001365897": 165,
+      "gas:candidate-vibid:22220001359266": 131,
+      "gas:candidate-vibid:22220001370606": 15,
+      "gas:candidate-vibid:22220001368892": 58,
+      "gas:candidate-vibid:22220001368781": 87,
+      "gas:candidate-vibid:22220001368994": 16,
+      "gas:candidate-vibid:22220001352021": 243
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272347&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272347&type=464",
@@ -13153,13 +13153,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 155,
-      "Молотов Александр Владимирович": 87,
-      "Резникова Татьяна Владимировна": 10,
-      "Рыжков Владимир Александрович": 37,
-      "Сартаков Андрей Александрович": 90,
-      "Чеснов Павел Алексеевич": 9,
-      "Щукин Андрей Евгеньевич": 189
+      "gas:candidate-vibid:22220001365897": 155,
+      "gas:candidate-vibid:22220001359266": 87,
+      "gas:candidate-vibid:22220001370606": 10,
+      "gas:candidate-vibid:22220001368892": 37,
+      "gas:candidate-vibid:22220001368781": 90,
+      "gas:candidate-vibid:22220001368994": 9,
+      "gas:candidate-vibid:22220001352021": 189
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272347&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272347&type=464",
@@ -13210,13 +13210,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 230,
-      "Молотов Александр Владимирович": 112,
-      "Резникова Татьяна Владимировна": 17,
-      "Рыжков Владимир Александрович": 54,
-      "Сартаков Андрей Александрович": 110,
-      "Чеснов Павел Алексеевич": 7,
-      "Щукин Андрей Евгеньевич": 184
+      "gas:candidate-vibid:22220001365897": 230,
+      "gas:candidate-vibid:22220001359266": 112,
+      "gas:candidate-vibid:22220001370606": 17,
+      "gas:candidate-vibid:22220001368892": 54,
+      "gas:candidate-vibid:22220001368781": 110,
+      "gas:candidate-vibid:22220001368994": 7,
+      "gas:candidate-vibid:22220001352021": 184
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272347&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272347&type=464",
@@ -13267,13 +13267,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 196,
-      "Молотов Александр Владимирович": 135,
-      "Резникова Татьяна Владимировна": 14,
-      "Рыжков Владимир Александрович": 62,
-      "Сартаков Андрей Александрович": 120,
-      "Чеснов Павел Алексеевич": 3,
-      "Щукин Андрей Евгеньевич": 159
+      "gas:candidate-vibid:22220001365897": 196,
+      "gas:candidate-vibid:22220001359266": 135,
+      "gas:candidate-vibid:22220001370606": 14,
+      "gas:candidate-vibid:22220001368892": 62,
+      "gas:candidate-vibid:22220001368781": 120,
+      "gas:candidate-vibid:22220001368994": 3,
+      "gas:candidate-vibid:22220001352021": 159
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272347&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272347&type=464",
@@ -13324,13 +13324,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 259,
-      "Молотов Александр Владимирович": 156,
-      "Резникова Татьяна Владимировна": 27,
-      "Рыжков Владимир Александрович": 88,
-      "Сартаков Андрей Александрович": 163,
-      "Чеснов Павел Алексеевич": 19,
-      "Щукин Андрей Евгеньевич": 166
+      "gas:candidate-vibid:22220001365897": 259,
+      "gas:candidate-vibid:22220001359266": 156,
+      "gas:candidate-vibid:22220001370606": 27,
+      "gas:candidate-vibid:22220001368892": 88,
+      "gas:candidate-vibid:22220001368781": 163,
+      "gas:candidate-vibid:22220001368994": 19,
+      "gas:candidate-vibid:22220001352021": 166
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272347&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272347&type=464",
@@ -13381,13 +13381,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 255,
-      "Молотов Александр Владимирович": 124,
-      "Резникова Татьяна Владимировна": 21,
-      "Рыжков Владимир Александрович": 95,
-      "Сартаков Андрей Александрович": 137,
-      "Чеснов Павел Алексеевич": 8,
-      "Щукин Андрей Евгеньевич": 123
+      "gas:candidate-vibid:22220001365897": 255,
+      "gas:candidate-vibid:22220001359266": 124,
+      "gas:candidate-vibid:22220001370606": 21,
+      "gas:candidate-vibid:22220001368892": 95,
+      "gas:candidate-vibid:22220001368781": 137,
+      "gas:candidate-vibid:22220001368994": 8,
+      "gas:candidate-vibid:22220001352021": 123
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272347&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272347&type=464",
@@ -13438,13 +13438,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 247,
-      "Молотов Александр Владимирович": 98,
-      "Резникова Татьяна Владимировна": 24,
-      "Рыжков Владимир Александрович": 70,
-      "Сартаков Андрей Александрович": 113,
-      "Чеснов Павел Алексеевич": 15,
-      "Щукин Андрей Евгеньевич": 128
+      "gas:candidate-vibid:22220001365897": 247,
+      "gas:candidate-vibid:22220001359266": 98,
+      "gas:candidate-vibid:22220001370606": 24,
+      "gas:candidate-vibid:22220001368892": 70,
+      "gas:candidate-vibid:22220001368781": 113,
+      "gas:candidate-vibid:22220001368994": 15,
+      "gas:candidate-vibid:22220001352021": 128
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272347&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272347&type=464",
@@ -13495,13 +13495,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 158,
-      "Молотов Александр Владимирович": 87,
-      "Резникова Татьяна Владимировна": 23,
-      "Рыжков Владимир Александрович": 55,
-      "Сартаков Андрей Александрович": 88,
-      "Чеснов Павел Алексеевич": 13,
-      "Щукин Андрей Евгеньевич": 112
+      "gas:candidate-vibid:22220001365897": 158,
+      "gas:candidate-vibid:22220001359266": 87,
+      "gas:candidate-vibid:22220001370606": 23,
+      "gas:candidate-vibid:22220001368892": 55,
+      "gas:candidate-vibid:22220001368781": 88,
+      "gas:candidate-vibid:22220001368994": 13,
+      "gas:candidate-vibid:22220001352021": 112
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272347&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272347&type=464",
@@ -13552,13 +13552,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 225,
-      "Молотов Александр Владимирович": 117,
-      "Резникова Татьяна Владимировна": 23,
-      "Рыжков Владимир Александрович": 52,
-      "Сартаков Андрей Александрович": 98,
-      "Чеснов Павел Алексеевич": 25,
-      "Щукин Андрей Евгеньевич": 162
+      "gas:candidate-vibid:22220001365897": 225,
+      "gas:candidate-vibid:22220001359266": 117,
+      "gas:candidate-vibid:22220001370606": 23,
+      "gas:candidate-vibid:22220001368892": 52,
+      "gas:candidate-vibid:22220001368781": 98,
+      "gas:candidate-vibid:22220001368994": 25,
+      "gas:candidate-vibid:22220001352021": 162
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272347&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272347&type=464",
@@ -13609,13 +13609,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 18,
-      "Молотов Александр Владимирович": 5,
-      "Резникова Татьяна Владимировна": 2,
-      "Рыжков Владимир Александрович": 4,
-      "Сартаков Андрей Александрович": 2,
-      "Чеснов Павел Алексеевич": 0,
-      "Щукин Андрей Евгеньевич": 4
+      "gas:candidate-vibid:22220001365897": 18,
+      "gas:candidate-vibid:22220001359266": 5,
+      "gas:candidate-vibid:22220001370606": 2,
+      "gas:candidate-vibid:22220001368892": 4,
+      "gas:candidate-vibid:22220001368781": 2,
+      "gas:candidate-vibid:22220001368994": 0,
+      "gas:candidate-vibid:22220001352021": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272347&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272347&type=464",
@@ -13666,13 +13666,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 53,
-      "Молотов Александр Владимирович": 22,
-      "Резникова Татьяна Владимировна": 6,
-      "Рыжков Владимир Александрович": 15,
-      "Сартаков Андрей Александрович": 55,
-      "Чеснов Павел Алексеевич": 1,
-      "Щукин Андрей Евгеньевич": 14
+      "gas:candidate-vibid:22220001365897": 53,
+      "gas:candidate-vibid:22220001359266": 22,
+      "gas:candidate-vibid:22220001370606": 6,
+      "gas:candidate-vibid:22220001368892": 15,
+      "gas:candidate-vibid:22220001368781": 55,
+      "gas:candidate-vibid:22220001368994": 1,
+      "gas:candidate-vibid:22220001352021": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272348&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272348&type=464",
@@ -13723,13 +13723,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 225,
-      "Молотов Александр Владимирович": 58,
-      "Резникова Татьяна Владимировна": 25,
-      "Рыжков Владимир Александрович": 79,
-      "Сартаков Андрей Александрович": 134,
-      "Чеснов Павел Алексеевич": 6,
-      "Щукин Андрей Евгеньевич": 86
+      "gas:candidate-vibid:22220001365897": 225,
+      "gas:candidate-vibid:22220001359266": 58,
+      "gas:candidate-vibid:22220001370606": 25,
+      "gas:candidate-vibid:22220001368892": 79,
+      "gas:candidate-vibid:22220001368781": 134,
+      "gas:candidate-vibid:22220001368994": 6,
+      "gas:candidate-vibid:22220001352021": 86
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272348&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272348&type=464",
@@ -13780,13 +13780,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 146,
-      "Молотов Александр Владимирович": 53,
-      "Резникова Татьяна Владимировна": 13,
-      "Рыжков Владимир Александрович": 62,
-      "Сартаков Андрей Александрович": 90,
-      "Чеснов Павел Алексеевич": 3,
-      "Щукин Андрей Евгеньевич": 57
+      "gas:candidate-vibid:22220001365897": 146,
+      "gas:candidate-vibid:22220001359266": 53,
+      "gas:candidate-vibid:22220001370606": 13,
+      "gas:candidate-vibid:22220001368892": 62,
+      "gas:candidate-vibid:22220001368781": 90,
+      "gas:candidate-vibid:22220001368994": 3,
+      "gas:candidate-vibid:22220001352021": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272348&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272348&type=464",
@@ -13837,13 +13837,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 445,
-      "Молотов Александр Владимирович": 124,
-      "Резникова Татьяна Владимировна": 29,
-      "Рыжков Владимир Александрович": 99,
-      "Сартаков Андрей Александрович": 250,
-      "Чеснов Павел Алексеевич": 18,
-      "Щукин Андрей Евгеньевич": 131
+      "gas:candidate-vibid:22220001365897": 445,
+      "gas:candidate-vibid:22220001359266": 124,
+      "gas:candidate-vibid:22220001370606": 29,
+      "gas:candidate-vibid:22220001368892": 99,
+      "gas:candidate-vibid:22220001368781": 250,
+      "gas:candidate-vibid:22220001368994": 18,
+      "gas:candidate-vibid:22220001352021": 131
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272348&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272348&type=464",
@@ -13894,13 +13894,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 265,
-      "Молотов Александр Владимирович": 102,
-      "Резникова Татьяна Владимировна": 30,
-      "Рыжков Владимир Александрович": 57,
-      "Сартаков Андрей Александрович": 207,
-      "Чеснов Павел Алексеевич": 10,
-      "Щукин Андрей Евгеньевич": 97
+      "gas:candidate-vibid:22220001365897": 265,
+      "gas:candidate-vibid:22220001359266": 102,
+      "gas:candidate-vibid:22220001370606": 30,
+      "gas:candidate-vibid:22220001368892": 57,
+      "gas:candidate-vibid:22220001368781": 207,
+      "gas:candidate-vibid:22220001368994": 10,
+      "gas:candidate-vibid:22220001352021": 97
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272348&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272348&type=464",
@@ -13951,13 +13951,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 152,
-      "Молотов Александр Владимирович": 67,
-      "Резникова Татьяна Владимировна": 12,
-      "Рыжков Владимир Александрович": 34,
-      "Сартаков Андрей Александрович": 107,
-      "Чеснов Павел Алексеевич": 5,
-      "Щукин Андрей Евгеньевич": 59
+      "gas:candidate-vibid:22220001365897": 152,
+      "gas:candidate-vibid:22220001359266": 67,
+      "gas:candidate-vibid:22220001370606": 12,
+      "gas:candidate-vibid:22220001368892": 34,
+      "gas:candidate-vibid:22220001368781": 107,
+      "gas:candidate-vibid:22220001368994": 5,
+      "gas:candidate-vibid:22220001352021": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272348&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272348&type=464",
@@ -14008,13 +14008,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 173,
-      "Молотов Александр Владимирович": 37,
-      "Резникова Татьяна Владимировна": 8,
-      "Рыжков Владимир Александрович": 23,
-      "Сартаков Андрей Александрович": 54,
-      "Чеснов Павел Алексеевич": 3,
-      "Щукин Андрей Евгеньевич": 44
+      "gas:candidate-vibid:22220001365897": 173,
+      "gas:candidate-vibid:22220001359266": 37,
+      "gas:candidate-vibid:22220001370606": 8,
+      "gas:candidate-vibid:22220001368892": 23,
+      "gas:candidate-vibid:22220001368781": 54,
+      "gas:candidate-vibid:22220001368994": 3,
+      "gas:candidate-vibid:22220001352021": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272348&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272348&type=464",
@@ -14065,13 +14065,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 272,
-      "Молотов Александр Владимирович": 62,
-      "Резникова Татьяна Владимировна": 17,
-      "Рыжков Владимир Александрович": 60,
-      "Сартаков Андрей Александрович": 118,
-      "Чеснов Павел Алексеевич": 10,
-      "Щукин Андрей Евгеньевич": 71
+      "gas:candidate-vibid:22220001365897": 272,
+      "gas:candidate-vibid:22220001359266": 62,
+      "gas:candidate-vibid:22220001370606": 17,
+      "gas:candidate-vibid:22220001368892": 60,
+      "gas:candidate-vibid:22220001368781": 118,
+      "gas:candidate-vibid:22220001368994": 10,
+      "gas:candidate-vibid:22220001352021": 71
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272348&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272348&type=464",
@@ -14122,13 +14122,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 238,
-      "Молотов Александр Владимирович": 73,
-      "Резникова Татьяна Владимировна": 17,
-      "Рыжков Владимир Александрович": 123,
-      "Сартаков Андрей Александрович": 96,
-      "Чеснов Павел Алексеевич": 6,
-      "Щукин Андрей Евгеньевич": 58
+      "gas:candidate-vibid:22220001365897": 238,
+      "gas:candidate-vibid:22220001359266": 73,
+      "gas:candidate-vibid:22220001370606": 17,
+      "gas:candidate-vibid:22220001368892": 123,
+      "gas:candidate-vibid:22220001368781": 96,
+      "gas:candidate-vibid:22220001368994": 6,
+      "gas:candidate-vibid:22220001352021": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272348&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272348&type=464",
@@ -14179,13 +14179,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 178,
-      "Молотов Александр Владимирович": 46,
-      "Резникова Татьяна Владимировна": 18,
-      "Рыжков Владимир Александрович": 39,
-      "Сартаков Андрей Александрович": 56,
-      "Чеснов Павел Алексеевич": 3,
-      "Щукин Андрей Евгеньевич": 31
+      "gas:candidate-vibid:22220001365897": 178,
+      "gas:candidate-vibid:22220001359266": 46,
+      "gas:candidate-vibid:22220001370606": 18,
+      "gas:candidate-vibid:22220001368892": 39,
+      "gas:candidate-vibid:22220001368781": 56,
+      "gas:candidate-vibid:22220001368994": 3,
+      "gas:candidate-vibid:22220001352021": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272348&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272348&type=464",
@@ -14236,13 +14236,13 @@ export const duma_2016_uik_463_region_22_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 372,
-      "Молотов Александр Владимирович": 64,
-      "Резникова Татьяна Владимировна": 21,
-      "Рыжков Владимир Александрович": 59,
-      "Сартаков Андрей Александрович": 99,
-      "Чеснов Павел Алексеевич": 3,
-      "Щукин Андрей Евгеньевич": 58
+      "gas:candidate-vibid:22220001365897": 372,
+      "gas:candidate-vibid:22220001359266": 64,
+      "gas:candidate-vibid:22220001370606": 21,
+      "gas:candidate-vibid:22220001368892": 59,
+      "gas:candidate-vibid:22220001368781": 99,
+      "gas:candidate-vibid:22220001368994": 3,
+      "gas:candidate-vibid:22220001352021": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272348&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272348&type=464",

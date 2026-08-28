@@ -39,10 +39,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 1,
-      "Жириновский Владимир Вольфович": 3,
-      "Зюганов Геннадий Андреевич": 1,
-      "Медведев Дмитрий Анатольевич": 11
+      "gas:candidate-vibid:100100022245504": 1,
+      "gas:candidate-vibid:100100022247031": 3,
+      "gas:candidate-vibid:100100022247121": 1,
+      "gas:candidate-vibid:100100022248789": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122540&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122540&type=227",
@@ -89,10 +89,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 1,
-      "Жириновский Владимир Вольфович": 9,
-      "Зюганов Геннадий Андреевич": 1,
-      "Медведев Дмитрий Анатольевич": 5
+      "gas:candidate-vibid:100100022245504": 1,
+      "gas:candidate-vibid:100100022247031": 9,
+      "gas:candidate-vibid:100100022247121": 1,
+      "gas:candidate-vibid:100100022248789": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122540&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122540&type=227",
@@ -139,10 +139,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 2,
-      "Жириновский Владимир Вольфович": 22,
-      "Зюганов Геннадий Андреевич": 12,
-      "Медведев Дмитрий Анатольевич": 37
+      "gas:candidate-vibid:100100022245504": 2,
+      "gas:candidate-vibid:100100022247031": 22,
+      "gas:candidate-vibid:100100022247121": 12,
+      "gas:candidate-vibid:100100022248789": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122540&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122540&type=227",
@@ -189,10 +189,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 1,
-      "Жириновский Владимир Вольфович": 9,
-      "Зюганов Геннадий Андреевич": 1,
-      "Медведев Дмитрий Анатольевич": 5
+      "gas:candidate-vibid:100100022245504": 1,
+      "gas:candidate-vibid:100100022247031": 9,
+      "gas:candidate-vibid:100100022247121": 1,
+      "gas:candidate-vibid:100100022248789": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122540&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122540&type=227",
@@ -239,10 +239,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 2,
-      "Жириновский Владимир Вольфович": 3,
-      "Зюганов Геннадий Андреевич": 5,
-      "Медведев Дмитрий Анатольевич": 9
+      "gas:candidate-vibid:100100022245504": 2,
+      "gas:candidate-vibid:100100022247031": 3,
+      "gas:candidate-vibid:100100022247121": 5,
+      "gas:candidate-vibid:100100022248789": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122540&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122540&type=227",
@@ -289,10 +289,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 3,
-      "Жириновский Владимир Вольфович": 19,
-      "Зюганов Геннадий Андреевич": 6,
-      "Медведев Дмитрий Анатольевич": 50
+      "gas:candidate-vibid:100100022245504": 3,
+      "gas:candidate-vibid:100100022247031": 19,
+      "gas:candidate-vibid:100100022247121": 6,
+      "gas:candidate-vibid:100100022248789": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122540&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122540&type=227",
@@ -339,10 +339,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 1,
-      "Жириновский Владимир Вольфович": 10,
-      "Зюганов Геннадий Андреевич": 4,
-      "Медведев Дмитрий Анатольевич": 12
+      "gas:candidate-vibid:100100022245504": 1,
+      "gas:candidate-vibid:100100022247031": 10,
+      "gas:candidate-vibid:100100022247121": 4,
+      "gas:candidate-vibid:100100022248789": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122540&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122540&type=227",
@@ -389,10 +389,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 2,
-      "Жириновский Владимир Вольфович": 23,
-      "Зюганов Геннадий Андреевич": 9,
-      "Медведев Дмитрий Анатольевич": 56
+      "gas:candidate-vibid:100100022245504": 2,
+      "gas:candidate-vibid:100100022247031": 23,
+      "gas:candidate-vibid:100100022247121": 9,
+      "gas:candidate-vibid:100100022248789": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122540&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122540&type=227",
@@ -439,10 +439,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 5,
-      "Жириновский Владимир Вольфович": 11,
-      "Зюганов Геннадий Андреевич": 14,
-      "Медведев Дмитрий Анатольевич": 52
+      "gas:candidate-vibid:100100022245504": 5,
+      "gas:candidate-vibid:100100022247031": 11,
+      "gas:candidate-vibid:100100022247121": 14,
+      "gas:candidate-vibid:100100022248789": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122540&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122540&type=227",
@@ -489,10 +489,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 4,
-      "Зюганов Геннадий Андреевич": 2,
-      "Медведев Дмитрий Анатольевич": 87
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 4,
+      "gas:candidate-vibid:100100022247121": 2,
+      "gas:candidate-vibid:100100022248789": 87
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122540&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122540&type=227",
@@ -539,10 +539,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 1,
-      "Жириновский Владимир Вольфович": 7,
-      "Зюганов Геннадий Андреевич": 11,
-      "Медведев Дмитрий Анатольевич": 74
+      "gas:candidate-vibid:100100022245504": 1,
+      "gas:candidate-vibid:100100022247031": 7,
+      "gas:candidate-vibid:100100022247121": 11,
+      "gas:candidate-vibid:100100022248789": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122540&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122540&type=227",
@@ -589,10 +589,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 1,
-      "Жириновский Владимир Вольфович": 8,
-      "Зюганов Геннадий Андреевич": 1,
-      "Медведев Дмитрий Анатольевич": 15
+      "gas:candidate-vibid:100100022245504": 1,
+      "gas:candidate-vibid:100100022247031": 8,
+      "gas:candidate-vibid:100100022247121": 1,
+      "gas:candidate-vibid:100100022248789": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122540&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122540&type=227",
@@ -639,10 +639,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 2,
-      "Жириновский Владимир Вольфович": 7,
-      "Зюганов Геннадий Андреевич": 6,
-      "Медведев Дмитрий Анатольевич": 99
+      "gas:candidate-vibid:100100022245504": 2,
+      "gas:candidate-vibid:100100022247031": 7,
+      "gas:candidate-vibid:100100022247121": 6,
+      "gas:candidate-vibid:100100022248789": 99
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122540&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122540&type=227",
@@ -689,10 +689,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 1,
-      "Жириновский Владимир Вольфович": 5,
-      "Зюганов Геннадий Андреевич": 4,
-      "Медведев Дмитрий Анатольевич": 34
+      "gas:candidate-vibid:100100022245504": 1,
+      "gas:candidate-vibid:100100022247031": 5,
+      "gas:candidate-vibid:100100022247121": 4,
+      "gas:candidate-vibid:100100022248789": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122540&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122540&type=227",
@@ -739,10 +739,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 4,
-      "Зюганов Геннадий Андреевич": 3,
-      "Медведев Дмитрий Анатольевич": 22
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 4,
+      "gas:candidate-vibid:100100022247121": 3,
+      "gas:candidate-vibid:100100022248789": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122540&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122540&type=227",
@@ -789,10 +789,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 12,
-      "Зюганов Геннадий Андреевич": 3,
-      "Медведев Дмитрий Анатольевич": 14
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 12,
+      "gas:candidate-vibid:100100022247121": 3,
+      "gas:candidate-vibid:100100022248789": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122540&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122540&type=227",
@@ -839,10 +839,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 1,
-      "Зюганов Геннадий Андреевич": 3,
-      "Медведев Дмитрий Анатольевич": 17
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 1,
+      "gas:candidate-vibid:100100022247121": 3,
+      "gas:candidate-vibid:100100022248789": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122540&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122540&type=227",
@@ -889,10 +889,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 0,
-      "Зюганов Геннадий Андреевич": 0,
-      "Медведев Дмитрий Анатольевич": 22
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 0,
+      "gas:candidate-vibid:100100022247121": 0,
+      "gas:candidate-vibid:100100022248789": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122540&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122540&type=227",
@@ -939,10 +939,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 4,
-      "Зюганов Геннадий Андреевич": 2,
-      "Медведев Дмитрий Анатольевич": 16
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 4,
+      "gas:candidate-vibid:100100022247121": 2,
+      "gas:candidate-vibid:100100022248789": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122540&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122540&type=227",
@@ -989,10 +989,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 4,
-      "Жириновский Владимир Вольфович": 8,
-      "Зюганов Геннадий Андреевич": 3,
-      "Медведев Дмитрий Анатольевич": 6
+      "gas:candidate-vibid:100100022245504": 4,
+      "gas:candidate-vibid:100100022247031": 8,
+      "gas:candidate-vibid:100100022247121": 3,
+      "gas:candidate-vibid:100100022248789": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122540&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122540&type=227",
@@ -1039,10 +1039,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 8,
-      "Зюганов Геннадий Андреевич": 3,
-      "Медведев Дмитрий Анатольевич": 3
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 8,
+      "gas:candidate-vibid:100100022247121": 3,
+      "gas:candidate-vibid:100100022248789": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122540&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122540&type=227",
@@ -1089,10 +1089,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 1,
-      "Жириновский Владимир Вольфович": 11,
-      "Зюганов Геннадий Андреевич": 0,
-      "Медведев Дмитрий Анатольевич": 4
+      "gas:candidate-vibid:100100022245504": 1,
+      "gas:candidate-vibid:100100022247031": 11,
+      "gas:candidate-vibid:100100022247121": 0,
+      "gas:candidate-vibid:100100022248789": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122540&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122540&type=227",
@@ -1139,10 +1139,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 2,
-      "Зюганов Геннадий Андреевич": 0,
-      "Медведев Дмитрий Анатольевич": 8
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 2,
+      "gas:candidate-vibid:100100022247121": 0,
+      "gas:candidate-vibid:100100022248789": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122540&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122540&type=227",
@@ -1189,10 +1189,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 1,
-      "Зюганов Геннадий Андреевич": 0,
-      "Медведев Дмитрий Анатольевич": 9
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 1,
+      "gas:candidate-vibid:100100022247121": 0,
+      "gas:candidate-vibid:100100022248789": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122540&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122540&type=227",
@@ -1239,10 +1239,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 5,
-      "Зюганов Геннадий Андреевич": 0,
-      "Медведев Дмитрий Анатольевич": 4
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 5,
+      "gas:candidate-vibid:100100022247121": 0,
+      "gas:candidate-vibid:100100022248789": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122540&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122540&type=227",
@@ -1289,10 +1289,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 3,
-      "Жириновский Владимир Вольфович": 23,
-      "Зюганов Геннадий Андреевич": 4,
-      "Медведев Дмитрий Анатольевич": 19
+      "gas:candidate-vibid:100100022245504": 3,
+      "gas:candidate-vibid:100100022247031": 23,
+      "gas:candidate-vibid:100100022247121": 4,
+      "gas:candidate-vibid:100100022248789": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122540&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122540&type=227",
@@ -1339,10 +1339,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 10,
-      "Зюганов Геннадий Андреевич": 3,
-      "Медведев Дмитрий Анатольевич": 31
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 10,
+      "gas:candidate-vibid:100100022247121": 3,
+      "gas:candidate-vibid:100100022248789": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122540&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122540&type=227",
@@ -1389,10 +1389,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 5,
-      "Зюганов Геннадий Андреевич": 10,
-      "Медведев Дмитрий Анатольевич": 32
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 5,
+      "gas:candidate-vibid:100100022247121": 10,
+      "gas:candidate-vibid:100100022248789": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122540&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122540&type=227",
@@ -1439,10 +1439,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 12,
-      "Зюганов Геннадий Андреевич": 1,
-      "Медведев Дмитрий Анатольевич": 14
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 12,
+      "gas:candidate-vibid:100100022247121": 1,
+      "gas:candidate-vibid:100100022248789": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122540&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122540&type=227",
@@ -1489,10 +1489,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 9,
-      "Зюганов Геннадий Андреевич": 5,
-      "Медведев Дмитрий Анатольевич": 16
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 9,
+      "gas:candidate-vibid:100100022247121": 5,
+      "gas:candidate-vibid:100100022248789": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122540&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122540&type=227",
@@ -1539,10 +1539,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 1,
-      "Жириновский Владимир Вольфович": 25,
-      "Зюганов Геннадий Андреевич": 2,
-      "Медведев Дмитрий Анатольевич": 4
+      "gas:candidate-vibid:100100022245504": 1,
+      "gas:candidate-vibid:100100022247031": 25,
+      "gas:candidate-vibid:100100022247121": 2,
+      "gas:candidate-vibid:100100022248789": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122540&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122540&type=227",
@@ -1589,10 +1589,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 13,
-      "Зюганов Геннадий Андреевич": 1,
-      "Медведев Дмитрий Анатольевич": 20
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 13,
+      "gas:candidate-vibid:100100022247121": 1,
+      "gas:candidate-vibid:100100022248789": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122540&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122540&type=227",
@@ -1639,10 +1639,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 4,
-      "Зюганов Геннадий Андреевич": 1,
-      "Медведев Дмитрий Анатольевич": 9
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 4,
+      "gas:candidate-vibid:100100022247121": 1,
+      "gas:candidate-vibid:100100022248789": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122540&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122540&type=227",
@@ -1689,10 +1689,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 3,
-      "Зюганов Геннадий Андреевич": 1,
-      "Медведев Дмитрий Анатольевич": 10
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 3,
+      "gas:candidate-vibid:100100022247121": 1,
+      "gas:candidate-vibid:100100022248789": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122540&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122540&type=227",
@@ -1739,10 +1739,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 16,
-      "Зюганов Геннадий Андреевич": 16,
-      "Медведев Дмитрий Анатольевич": 58
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 16,
+      "gas:candidate-vibid:100100022247121": 16,
+      "gas:candidate-vibid:100100022248789": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122540&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122540&type=227",
@@ -1789,10 +1789,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 2,
-      "Жириновский Владимир Вольфович": 12,
-      "Зюганов Геннадий Андреевич": 4,
-      "Медведев Дмитрий Анатольевич": 77
+      "gas:candidate-vibid:100100022245504": 2,
+      "gas:candidate-vibid:100100022247031": 12,
+      "gas:candidate-vibid:100100022247121": 4,
+      "gas:candidate-vibid:100100022248789": 77
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122540&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122540&type=227",
@@ -1839,10 +1839,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 1,
-      "Жириновский Владимир Вольфович": 3,
-      "Зюганов Геннадий Андреевич": 1,
-      "Медведев Дмитрий Анатольевич": 85
+      "gas:candidate-vibid:100100022245504": 1,
+      "gas:candidate-vibid:100100022247031": 3,
+      "gas:candidate-vibid:100100022247121": 1,
+      "gas:candidate-vibid:100100022248789": 85
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122540&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122540&type=227",
@@ -1889,10 +1889,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 9,
-      "Зюганов Геннадий Андреевич": 10,
-      "Медведев Дмитрий Анатольевич": 72
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 9,
+      "gas:candidate-vibid:100100022247121": 10,
+      "gas:candidate-vibid:100100022248789": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122540&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122540&type=227",
@@ -1939,10 +1939,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 1,
-      "Жириновский Владимир Вольфович": 5,
-      "Зюганов Геннадий Андреевич": 2,
-      "Медведев Дмитрий Анатольевич": 82
+      "gas:candidate-vibid:100100022245504": 1,
+      "gas:candidate-vibid:100100022247031": 5,
+      "gas:candidate-vibid:100100022247121": 2,
+      "gas:candidate-vibid:100100022248789": 82
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122540&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122540&type=227",
@@ -1989,10 +1989,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 5,
-      "Зюганов Геннадий Андреевич": 3,
-      "Медведев Дмитрий Анатольевич": 86
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 5,
+      "gas:candidate-vibid:100100022247121": 3,
+      "gas:candidate-vibid:100100022248789": 86
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122540&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122540&type=227",
@@ -2039,10 +2039,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 1,
-      "Жириновский Владимир Вольфович": 3,
-      "Зюганов Геннадий Андреевич": 2,
-      "Медведев Дмитрий Анатольевич": 87
+      "gas:candidate-vibid:100100022245504": 1,
+      "gas:candidate-vibid:100100022247031": 3,
+      "gas:candidate-vibid:100100022247121": 2,
+      "gas:candidate-vibid:100100022248789": 87
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122540&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122540&type=227",
@@ -2089,10 +2089,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 1,
-      "Жириновский Владимир Вольфович": 3,
-      "Зюганов Геннадий Андреевич": 2,
-      "Медведев Дмитрий Анатольевич": 84
+      "gas:candidate-vibid:100100022245504": 1,
+      "gas:candidate-vibid:100100022247031": 3,
+      "gas:candidate-vibid:100100022247121": 2,
+      "gas:candidate-vibid:100100022248789": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122540&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122540&type=227",
@@ -2139,10 +2139,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 2,
-      "Жириновский Владимир Вольфович": 21,
-      "Зюганов Геннадий Андреевич": 5,
-      "Медведев Дмитрий Анатольевич": 63
+      "gas:candidate-vibid:100100022245504": 2,
+      "gas:candidate-vibid:100100022247031": 21,
+      "gas:candidate-vibid:100100022247121": 5,
+      "gas:candidate-vibid:100100022248789": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122540&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122540&type=227",
@@ -2189,10 +2189,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 3,
-      "Жириновский Владимир Вольфович": 13,
-      "Зюганов Геннадий Андреевич": 10,
-      "Медведев Дмитрий Анатольевич": 66
+      "gas:candidate-vibid:100100022245504": 3,
+      "gas:candidate-vibid:100100022247031": 13,
+      "gas:candidate-vibid:100100022247121": 10,
+      "gas:candidate-vibid:100100022248789": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122540&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122540&type=227",
@@ -2239,10 +2239,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 3,
-      "Зюганов Геннадий Андреевич": 6,
-      "Медведев Дмитрий Анатольевич": 83
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 3,
+      "gas:candidate-vibid:100100022247121": 6,
+      "gas:candidate-vibid:100100022248789": 83
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122540&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122540&type=227",
@@ -2289,10 +2289,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 2,
-      "Зюганов Геннадий Андреевич": 1,
-      "Медведев Дмитрий Анатольевич": 25
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 2,
+      "gas:candidate-vibid:100100022247121": 1,
+      "gas:candidate-vibid:100100022248789": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122540&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122540&type=227",
@@ -2339,10 +2339,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 1,
-      "Жириновский Владимир Вольфович": 2,
-      "Зюганов Геннадий Андреевич": 2,
-      "Медведев Дмитрий Анатольевич": 14
+      "gas:candidate-vibid:100100022245504": 1,
+      "gas:candidate-vibid:100100022247031": 2,
+      "gas:candidate-vibid:100100022247121": 2,
+      "gas:candidate-vibid:100100022248789": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122540&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122540&type=227",
@@ -2389,10 +2389,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 0,
-      "Зюганов Геннадий Андреевич": 0,
-      "Медведев Дмитрий Анатольевич": 21
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 0,
+      "gas:candidate-vibid:100100022247121": 0,
+      "gas:candidate-vibid:100100022248789": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122540&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122540&type=227",
@@ -2439,10 +2439,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 1,
-      "Жириновский Владимир Вольфович": 2,
-      "Зюганов Геннадий Андреевич": 1,
-      "Медведев Дмитрий Анатольевич": 90
+      "gas:candidate-vibid:100100022245504": 1,
+      "gas:candidate-vibid:100100022247031": 2,
+      "gas:candidate-vibid:100100022247121": 1,
+      "gas:candidate-vibid:100100022248789": 90
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122540&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122540&type=227",
@@ -2489,10 +2489,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 2,
-      "Жириновский Владимир Вольфович": 0,
-      "Зюганов Геннадий Андреевич": 2,
-      "Медведев Дмитрий Анатольевич": 51
+      "gas:candidate-vibid:100100022245504": 2,
+      "gas:candidate-vibid:100100022247031": 0,
+      "gas:candidate-vibid:100100022247121": 2,
+      "gas:candidate-vibid:100100022248789": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122540&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122540&type=227",
@@ -2539,10 +2539,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 2,
-      "Зюганов Геннадий Андреевич": 1,
-      "Медведев Дмитрий Анатольевич": 15
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 2,
+      "gas:candidate-vibid:100100022247121": 1,
+      "gas:candidate-vibid:100100022248789": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122540&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122540&type=227",
@@ -2589,10 +2589,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 1,
-      "Зюганов Геннадий Андреевич": 0,
-      "Медведев Дмитрий Анатольевич": 17
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 1,
+      "gas:candidate-vibid:100100022247121": 0,
+      "gas:candidate-vibid:100100022248789": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122540&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122540&type=227",
@@ -2639,10 +2639,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 2,
-      "Жириновский Владимир Вольфович": 1,
-      "Зюганов Геннадий Андреевич": 0,
-      "Медведев Дмитрий Анатольевич": 22
+      "gas:candidate-vibid:100100022245504": 2,
+      "gas:candidate-vibid:100100022247031": 1,
+      "gas:candidate-vibid:100100022247121": 0,
+      "gas:candidate-vibid:100100022248789": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122540&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122540&type=227",
@@ -2689,10 +2689,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 4,
-      "Зюганов Геннадий Андреевич": 1,
-      "Медведев Дмитрий Анатольевич": 86
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 4,
+      "gas:candidate-vibid:100100022247121": 1,
+      "gas:candidate-vibid:100100022248789": 86
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122540&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122540&type=227",
@@ -2739,10 +2739,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 0,
-      "Зюганов Геннадий Андреевич": 2,
-      "Медведев Дмитрий Анатольевич": 91
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 0,
+      "gas:candidate-vibid:100100022247121": 2,
+      "gas:candidate-vibid:100100022248789": 91
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122540&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122540&type=227",
@@ -2789,10 +2789,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 1,
-      "Зюганов Геннадий Андреевич": 0,
-      "Медведев Дмитрий Анатольевич": 27
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 1,
+      "gas:candidate-vibid:100100022247121": 0,
+      "gas:candidate-vibid:100100022248789": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122540&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122540&type=227",
@@ -2839,10 +2839,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 1,
-      "Жириновский Владимир Вольфович": 23,
-      "Зюганов Геннадий Андреевич": 4,
-      "Медведев Дмитрий Анатольевич": 49
+      "gas:candidate-vibid:100100022245504": 1,
+      "gas:candidate-vibid:100100022247031": 23,
+      "gas:candidate-vibid:100100022247121": 4,
+      "gas:candidate-vibid:100100022248789": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122540&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122540&type=227",
@@ -2889,10 +2889,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 3,
-      "Жириновский Владимир Вольфович": 8,
-      "Зюганов Геннадий Андреевич": 3,
-      "Медведев Дмитрий Анатольевич": 12
+      "gas:candidate-vibid:100100022245504": 3,
+      "gas:candidate-vibid:100100022247031": 8,
+      "gas:candidate-vibid:100100022247121": 3,
+      "gas:candidate-vibid:100100022248789": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122540&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122540&type=227",
@@ -2939,10 +2939,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 1,
-      "Жириновский Владимир Вольфович": 6,
-      "Зюганов Геннадий Андреевич": 4,
-      "Медведев Дмитрий Анатольевич": 16
+      "gas:candidate-vibid:100100022245504": 1,
+      "gas:candidate-vibid:100100022247031": 6,
+      "gas:candidate-vibid:100100022247121": 4,
+      "gas:candidate-vibid:100100022248789": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122540&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122540&type=227",
@@ -2989,10 +2989,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 1,
-      "Зюганов Геннадий Андреевич": 0,
-      "Медведев Дмитрий Анатольевич": 10
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 1,
+      "gas:candidate-vibid:100100022247121": 0,
+      "gas:candidate-vibid:100100022248789": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122540&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122540&type=227",
@@ -3039,10 +3039,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 0,
-      "Зюганов Геннадий Андреевич": 9,
-      "Медведев Дмитрий Анатольевич": 1
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 0,
+      "gas:candidate-vibid:100100022247121": 9,
+      "gas:candidate-vibid:100100022248789": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122540&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122540&type=227",
@@ -3089,10 +3089,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 2,
-      "Зюганов Геннадий Андреевич": 1,
-      "Медведев Дмитрий Анатольевич": 92
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 2,
+      "gas:candidate-vibid:100100022247121": 1,
+      "gas:candidate-vibid:100100022248789": 92
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122540&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122540&type=227",
@@ -3139,10 +3139,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 2,
-      "Зюганов Геннадий Андреевич": 0,
-      "Медведев Дмитрий Анатольевич": 61
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 2,
+      "gas:candidate-vibid:100100022247121": 0,
+      "gas:candidate-vibid:100100022248789": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122540&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122540&type=227",
@@ -3189,10 +3189,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 1,
-      "Зюганов Геннадий Андреевич": 0,
-      "Медведев Дмитрий Анатольевич": 25
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 1,
+      "gas:candidate-vibid:100100022247121": 0,
+      "gas:candidate-vibid:100100022248789": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122540&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122540&type=227",
@@ -3239,10 +3239,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 1,
-      "Зюганов Геннадий Андреевич": 0,
-      "Медведев Дмитрий Анатольевич": 26
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 1,
+      "gas:candidate-vibid:100100022247121": 0,
+      "gas:candidate-vibid:100100022248789": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122540&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122540&type=227",
@@ -3289,10 +3289,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 3,
-      "Жириновский Владимир Вольфович": 12,
-      "Зюганов Геннадий Андреевич": 9,
-      "Медведев Дмитрий Анатольевич": 74
+      "gas:candidate-vibid:100100022245504": 3,
+      "gas:candidate-vibid:100100022247031": 12,
+      "gas:candidate-vibid:100100022247121": 9,
+      "gas:candidate-vibid:100100022248789": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122540&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122540&type=227",
@@ -3339,10 +3339,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 1,
-      "Жириновский Владимир Вольфович": 8,
-      "Зюганов Геннадий Андреевич": 1,
-      "Медведев Дмитрий Анатольевич": 42
+      "gas:candidate-vibid:100100022245504": 1,
+      "gas:candidate-vibid:100100022247031": 8,
+      "gas:candidate-vibid:100100022247121": 1,
+      "gas:candidate-vibid:100100022248789": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122540&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122540&type=227",
@@ -3389,10 +3389,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 1,
-      "Жириновский Владимир Вольфович": 1,
-      "Зюганов Геннадий Андреевич": 1,
-      "Медведев Дмитрий Анатольевич": 9
+      "gas:candidate-vibid:100100022245504": 1,
+      "gas:candidate-vibid:100100022247031": 1,
+      "gas:candidate-vibid:100100022247121": 1,
+      "gas:candidate-vibid:100100022248789": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122540&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122540&type=227",
@@ -3439,10 +3439,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 1,
-      "Жириновский Владимир Вольфович": 11,
-      "Зюганов Геннадий Андреевич": 5,
-      "Медведев Дмитрий Анатольевич": 30
+      "gas:candidate-vibid:100100022245504": 1,
+      "gas:candidate-vibid:100100022247031": 11,
+      "gas:candidate-vibid:100100022247121": 5,
+      "gas:candidate-vibid:100100022248789": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122540&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122540&type=227",
@@ -3489,10 +3489,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 2,
-      "Жириновский Владимир Вольфович": 9,
-      "Зюганов Геннадий Андреевич": 9,
-      "Медведев Дмитрий Анатольевич": 9
+      "gas:candidate-vibid:100100022245504": 2,
+      "gas:candidate-vibid:100100022247031": 9,
+      "gas:candidate-vibid:100100022247121": 9,
+      "gas:candidate-vibid:100100022248789": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122540&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122540&type=227",
@@ -3539,10 +3539,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 9,
-      "Зюганов Геннадий Андреевич": 3,
-      "Медведев Дмитрий Анатольевич": 18
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 9,
+      "gas:candidate-vibid:100100022247121": 3,
+      "gas:candidate-vibid:100100022248789": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122540&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122540&type=227",
@@ -3589,10 +3589,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 1,
-      "Зюганов Геннадий Андреевич": 1,
-      "Медведев Дмитрий Анатольевич": 25
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 1,
+      "gas:candidate-vibid:100100022247121": 1,
+      "gas:candidate-vibid:100100022248789": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122540&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122540&type=227",
@@ -3639,10 +3639,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 5,
-      "Зюганов Геннадий Андреевич": 2,
-      "Медведев Дмитрий Анатольевич": 21
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 5,
+      "gas:candidate-vibid:100100022247121": 2,
+      "gas:candidate-vibid:100100022248789": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122540&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122540&type=227",
@@ -3689,10 +3689,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 11,
-      "Зюганов Геннадий Андреевич": 2,
-      "Медведев Дмитрий Анатольевич": 14
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 11,
+      "gas:candidate-vibid:100100022247121": 2,
+      "gas:candidate-vibid:100100022248789": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122540&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122540&type=227",
@@ -3739,10 +3739,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 2,
-      "Зюганов Геннадий Андреевич": 0,
-      "Медведев Дмитрий Анатольевич": 25
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 2,
+      "gas:candidate-vibid:100100022247121": 0,
+      "gas:candidate-vibid:100100022248789": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122540&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122540&type=227",
@@ -3789,10 +3789,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 3,
-      "Зюганов Геннадий Андреевич": 1,
-      "Медведев Дмитрий Анатольевич": 23
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 3,
+      "gas:candidate-vibid:100100022247121": 1,
+      "gas:candidate-vibid:100100022248789": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122540&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122540&type=227",
@@ -3839,10 +3839,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 1,
-      "Жириновский Владимир Вольфович": 9,
-      "Зюганов Геннадий Андреевич": 2,
-      "Медведев Дмитрий Анатольевич": 15
+      "gas:candidate-vibid:100100022245504": 1,
+      "gas:candidate-vibid:100100022247031": 9,
+      "gas:candidate-vibid:100100022247121": 2,
+      "gas:candidate-vibid:100100022248789": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122540&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122540&type=227",
@@ -3889,10 +3889,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 1,
-      "Жириновский Владимир Вольфович": 4,
-      "Зюганов Геннадий Андреевич": 3,
-      "Медведев Дмитрий Анатольевич": 19
+      "gas:candidate-vibid:100100022245504": 1,
+      "gas:candidate-vibid:100100022247031": 4,
+      "gas:candidate-vibid:100100022247121": 3,
+      "gas:candidate-vibid:100100022248789": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122540&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122540&type=227",
@@ -3939,10 +3939,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 0,
-      "Зюганов Геннадий Андреевич": 0,
-      "Медведев Дмитрий Анатольевич": 27
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 0,
+      "gas:candidate-vibid:100100022247121": 0,
+      "gas:candidate-vibid:100100022248789": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122540&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122540&type=227",
@@ -3989,10 +3989,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 4,
-      "Зюганов Геннадий Андреевич": 1,
-      "Медведев Дмитрий Анатольевич": 22
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 4,
+      "gas:candidate-vibid:100100022247121": 1,
+      "gas:candidate-vibid:100100022248789": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122540&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122540&type=227",
@@ -4039,10 +4039,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 2,
-      "Зюганов Геннадий Андреевич": 2,
-      "Медведев Дмитрий Анатольевич": 23
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 2,
+      "gas:candidate-vibid:100100022247121": 2,
+      "gas:candidate-vibid:100100022248789": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122540&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122540&type=227",
@@ -4089,10 +4089,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 1,
-      "Жириновский Владимир Вольфович": 12,
-      "Зюганов Геннадий Андреевич": 4,
-      "Медведев Дмитрий Анатольевич": 13
+      "gas:candidate-vibid:100100022245504": 1,
+      "gas:candidate-vibid:100100022247031": 12,
+      "gas:candidate-vibid:100100022247121": 4,
+      "gas:candidate-vibid:100100022248789": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122540&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122540&type=227",
@@ -4139,10 +4139,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 6,
-      "Зюганов Геннадий Андреевич": 1,
-      "Медведев Дмитрий Анатольевич": 24
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 6,
+      "gas:candidate-vibid:100100022247121": 1,
+      "gas:candidate-vibid:100100022248789": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122540&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122540&type=227",
@@ -4189,10 +4189,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 4,
-      "Зюганов Геннадий Андреевич": 0,
-      "Медведев Дмитрий Анатольевич": 24
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 4,
+      "gas:candidate-vibid:100100022247121": 0,
+      "gas:candidate-vibid:100100022248789": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122540&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122540&type=227",
@@ -4239,10 +4239,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 1,
-      "Жириновский Владимир Вольфович": 4,
-      "Зюганов Геннадий Андреевич": 0,
-      "Медведев Дмитрий Анатольевич": 24
+      "gas:candidate-vibid:100100022245504": 1,
+      "gas:candidate-vibid:100100022247031": 4,
+      "gas:candidate-vibid:100100022247121": 0,
+      "gas:candidate-vibid:100100022248789": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122540&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122540&type=227",
@@ -4289,10 +4289,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 11,
-      "Зюганов Геннадий Андреевич": 2,
-      "Медведев Дмитрий Анатольевич": 16
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 11,
+      "gas:candidate-vibid:100100022247121": 2,
+      "gas:candidate-vibid:100100022248789": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122540&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122540&type=227",
@@ -4339,10 +4339,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 1,
-      "Жириновский Владимир Вольфович": 12,
-      "Зюганов Геннадий Андреевич": 1,
-      "Медведев Дмитрий Анатольевич": 54
+      "gas:candidate-vibid:100100022245504": 1,
+      "gas:candidate-vibid:100100022247031": 12,
+      "gas:candidate-vibid:100100022247121": 1,
+      "gas:candidate-vibid:100100022248789": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122540&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122540&type=227",
@@ -4389,10 +4389,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 2,
-      "Зюганов Геннадий Андреевич": 1,
-      "Медведев Дмитрий Анатольевич": 63
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 2,
+      "gas:candidate-vibid:100100022247121": 1,
+      "gas:candidate-vibid:100100022248789": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122540&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122540&type=227",
@@ -4439,10 +4439,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 1,
-      "Жириновский Владимир Вольфович": 13,
-      "Зюганов Геннадий Андреевич": 4,
-      "Медведев Дмитрий Анатольевич": 51
+      "gas:candidate-vibid:100100022245504": 1,
+      "gas:candidate-vibid:100100022247031": 13,
+      "gas:candidate-vibid:100100022247121": 4,
+      "gas:candidate-vibid:100100022248789": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122540&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122540&type=227",
@@ -4489,10 +4489,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 1,
-      "Жириновский Владимир Вольфович": 1,
-      "Зюганов Геннадий Андреевич": 1,
-      "Медведев Дмитрий Анатольевич": 62
+      "gas:candidate-vibid:100100022245504": 1,
+      "gas:candidate-vibid:100100022247031": 1,
+      "gas:candidate-vibid:100100022247121": 1,
+      "gas:candidate-vibid:100100022248789": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122540&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122540&type=227",
@@ -4539,10 +4539,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 3,
-      "Жириновский Владимир Вольфович": 11,
-      "Зюганов Геннадий Андреевич": 5,
-      "Медведев Дмитрий Анатольевич": 48
+      "gas:candidate-vibid:100100022245504": 3,
+      "gas:candidate-vibid:100100022247031": 11,
+      "gas:candidate-vibid:100100022247121": 5,
+      "gas:candidate-vibid:100100022248789": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122540&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122540&type=227",
@@ -4589,10 +4589,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 1,
-      "Жириновский Владимир Вольфович": 11,
-      "Зюганов Геннадий Андреевич": 3,
-      "Медведев Дмитрий Анатольевич": 68
+      "gas:candidate-vibid:100100022245504": 1,
+      "gas:candidate-vibid:100100022247031": 11,
+      "gas:candidate-vibid:100100022247121": 3,
+      "gas:candidate-vibid:100100022248789": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122540&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122540&type=227",
@@ -4639,10 +4639,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 0,
-      "Зюганов Геннадий Андреевич": 0,
-      "Медведев Дмитрий Анатольевич": 70
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 0,
+      "gas:candidate-vibid:100100022247121": 0,
+      "gas:candidate-vibid:100100022248789": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122540&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122540&type=227",
@@ -4689,10 +4689,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 8,
-      "Зюганов Геннадий Андреевич": 1,
-      "Медведев Дмитрий Анатольевич": 0
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 8,
+      "gas:candidate-vibid:100100022247121": 1,
+      "gas:candidate-vibid:100100022248789": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122540&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122540&type=227",
@@ -4739,10 +4739,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 6,
-      "Зюганов Геннадий Андреевич": 1,
-      "Медведев Дмитрий Анатольевич": 19
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 6,
+      "gas:candidate-vibid:100100022247121": 1,
+      "gas:candidate-vibid:100100022248789": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122540&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122540&type=227",
@@ -4789,10 +4789,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 2,
-      "Жириновский Владимир Вольфович": 23,
-      "Зюганов Геннадий Андреевич": 1,
-      "Медведев Дмитрий Анатольевич": 18
+      "gas:candidate-vibid:100100022245504": 2,
+      "gas:candidate-vibid:100100022247031": 23,
+      "gas:candidate-vibid:100100022247121": 1,
+      "gas:candidate-vibid:100100022248789": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122540&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122540&type=227",
@@ -4839,10 +4839,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 1,
-      "Жириновский Владимир Вольфович": 13,
-      "Зюганов Геннадий Андреевич": 2,
-      "Медведев Дмитрий Анатольевич": 26
+      "gas:candidate-vibid:100100022245504": 1,
+      "gas:candidate-vibid:100100022247031": 13,
+      "gas:candidate-vibid:100100022247121": 2,
+      "gas:candidate-vibid:100100022248789": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122540&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122540&type=227",
@@ -4889,10 +4889,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 5,
-      "Зюганов Геннадий Андреевич": 0,
-      "Медведев Дмитрий Анатольевич": 14
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 5,
+      "gas:candidate-vibid:100100022247121": 0,
+      "gas:candidate-vibid:100100022248789": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122540&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122540&type=227",
@@ -4939,10 +4939,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 3,
-      "Жириновский Владимир Вольфович": 6,
-      "Зюганов Геннадий Андреевич": 2,
-      "Медведев Дмитрий Анатольевич": 16
+      "gas:candidate-vibid:100100022245504": 3,
+      "gas:candidate-vibid:100100022247031": 6,
+      "gas:candidate-vibid:100100022247121": 2,
+      "gas:candidate-vibid:100100022248789": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122540&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122540&type=227",
@@ -4989,10 +4989,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 7,
-      "Зюганов Геннадий Андреевич": 1,
-      "Медведев Дмитрий Анатольевич": 20
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 7,
+      "gas:candidate-vibid:100100022247121": 1,
+      "gas:candidate-vibid:100100022248789": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122540&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122540&type=227",
@@ -5039,10 +5039,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 6,
-      "Зюганов Геннадий Андреевич": 7,
-      "Медведев Дмитрий Анатольевич": 18
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 6,
+      "gas:candidate-vibid:100100022247121": 7,
+      "gas:candidate-vibid:100100022248789": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122540&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122540&type=227",
@@ -5089,10 +5089,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 12,
-      "Зюганов Геннадий Андреевич": 3,
-      "Медведев Дмитрий Анатольевич": 17
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 12,
+      "gas:candidate-vibid:100100022247121": 3,
+      "gas:candidate-vibid:100100022248789": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122540&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122540&type=227",
@@ -5139,10 +5139,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 5,
-      "Зюганов Геннадий Андреевич": 0,
-      "Медведев Дмитрий Анатольевич": 21
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 5,
+      "gas:candidate-vibid:100100022247121": 0,
+      "gas:candidate-vibid:100100022248789": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122540&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122540&type=227",
@@ -5189,10 +5189,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 7,
-      "Зюганов Геннадий Андреевич": 0,
-      "Медведев Дмитрий Анатольевич": 18
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 7,
+      "gas:candidate-vibid:100100022247121": 0,
+      "gas:candidate-vibid:100100022248789": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122540&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122540&type=227",
@@ -5239,10 +5239,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 3,
-      "Жириновский Владимир Вольфович": 20,
-      "Зюганов Геннадий Андреевич": 7,
-      "Медведев Дмитрий Анатольевич": 36
+      "gas:candidate-vibid:100100022245504": 3,
+      "gas:candidate-vibid:100100022247031": 20,
+      "gas:candidate-vibid:100100022247121": 7,
+      "gas:candidate-vibid:100100022248789": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122540&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122540&type=227",
@@ -5289,10 +5289,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 4,
-      "Зюганов Геннадий Андреевич": 2,
-      "Медведев Дмитрий Анатольевич": 8
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 4,
+      "gas:candidate-vibid:100100022247121": 2,
+      "gas:candidate-vibid:100100022248789": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122540&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122540&type=227",
@@ -5339,10 +5339,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 4,
-      "Зюганов Геннадий Андреевич": 0,
-      "Медведев Дмитрий Анатольевич": 9
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 4,
+      "gas:candidate-vibid:100100022247121": 0,
+      "gas:candidate-vibid:100100022248789": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122540&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122540&type=227",
@@ -5389,10 +5389,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 3,
-      "Жириновский Владимир Вольфович": 6,
-      "Зюганов Геннадий Андреевич": 1,
-      "Медведев Дмитрий Анатольевич": 3
+      "gas:candidate-vibid:100100022245504": 3,
+      "gas:candidate-vibid:100100022247031": 6,
+      "gas:candidate-vibid:100100022247121": 1,
+      "gas:candidate-vibid:100100022248789": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122540&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122540&type=227",
@@ -5439,10 +5439,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 3,
-      "Зюганов Геннадий Андреевич": 0,
-      "Медведев Дмитрий Анатольевич": 9
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 3,
+      "gas:candidate-vibid:100100022247121": 0,
+      "gas:candidate-vibid:100100022248789": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122540&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122540&type=227",
@@ -5489,10 +5489,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 1,
-      "Жириновский Владимир Вольфович": 5,
-      "Зюганов Геннадий Андреевич": 2,
-      "Медведев Дмитрий Анатольевич": 63
+      "gas:candidate-vibid:100100022245504": 1,
+      "gas:candidate-vibid:100100022247031": 5,
+      "gas:candidate-vibid:100100022247121": 2,
+      "gas:candidate-vibid:100100022248789": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122540&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122540&type=227",
@@ -5539,10 +5539,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 2,
-      "Зюганов Геннадий Андреевич": 0,
-      "Медведев Дмитрий Анатольевич": 17
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 2,
+      "gas:candidate-vibid:100100022247121": 0,
+      "gas:candidate-vibid:100100022248789": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122540&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122540&type=227",
@@ -5589,10 +5589,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 1,
-      "Жириновский Владимир Вольфович": 7,
-      "Зюганов Геннадий Андреевич": 1,
-      "Медведев Дмитрий Анатольевич": 13
+      "gas:candidate-vibid:100100022245504": 1,
+      "gas:candidate-vibid:100100022247031": 7,
+      "gas:candidate-vibid:100100022247121": 1,
+      "gas:candidate-vibid:100100022248789": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122540&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122540&type=227",
@@ -5639,10 +5639,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 6,
-      "Зюганов Геннадий Андреевич": 2,
-      "Медведев Дмитрий Анатольевич": 7
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 6,
+      "gas:candidate-vibid:100100022247121": 2,
+      "gas:candidate-vibid:100100022248789": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122540&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122540&type=227",
@@ -5689,10 +5689,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 1,
-      "Жириновский Владимир Вольфович": 8,
-      "Зюганов Геннадий Андреевич": 1,
-      "Медведев Дмитрий Анатольевич": 11
+      "gas:candidate-vibid:100100022245504": 1,
+      "gas:candidate-vibid:100100022247031": 8,
+      "gas:candidate-vibid:100100022247121": 1,
+      "gas:candidate-vibid:100100022248789": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122540&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122540&type=227",
@@ -5739,10 +5739,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 1,
-      "Жириновский Владимир Вольфович": 3,
-      "Зюганов Геннадий Андреевич": 1,
-      "Медведев Дмитрий Анатольевич": 21
+      "gas:candidate-vibid:100100022245504": 1,
+      "gas:candidate-vibid:100100022247031": 3,
+      "gas:candidate-vibid:100100022247121": 1,
+      "gas:candidate-vibid:100100022248789": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122540&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122540&type=227",
@@ -5789,10 +5789,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 0,
-      "Зюганов Геннадий Андреевич": 0,
-      "Медведев Дмитрий Анатольевич": 97
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 0,
+      "gas:candidate-vibid:100100022247121": 0,
+      "gas:candidate-vibid:100100022248789": 97
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122540&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122540&type=227",
@@ -5839,10 +5839,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 13,
-      "Зюганов Геннадий Андреевич": 1,
-      "Медведев Дмитрий Анатольевич": 1
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 13,
+      "gas:candidate-vibid:100100022247121": 1,
+      "gas:candidate-vibid:100100022248789": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122540&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122540&type=227",
@@ -5889,10 +5889,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 1,
-      "Жириновский Владимир Вольфович": 25,
-      "Зюганов Геннадий Андреевич": 23,
-      "Медведев Дмитрий Анатольевич": 23
+      "gas:candidate-vibid:100100022245504": 1,
+      "gas:candidate-vibid:100100022247031": 25,
+      "gas:candidate-vibid:100100022247121": 23,
+      "gas:candidate-vibid:100100022248789": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122540&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122540&type=227",
@@ -5939,10 +5939,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 12,
-      "Зюганов Геннадий Андреевич": 0,
-      "Медведев Дмитрий Анатольевич": 10
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 12,
+      "gas:candidate-vibid:100100022247121": 0,
+      "gas:candidate-vibid:100100022248789": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122540&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122540&type=227",
@@ -5989,10 +5989,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 2,
-      "Жириновский Владимир Вольфович": 11,
-      "Зюганов Геннадий Андреевич": 2,
-      "Медведев Дмитрий Анатольевич": 6
+      "gas:candidate-vibid:100100022245504": 2,
+      "gas:candidate-vibid:100100022247031": 11,
+      "gas:candidate-vibid:100100022247121": 2,
+      "gas:candidate-vibid:100100022248789": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122540&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122540&type=227",
@@ -6039,10 +6039,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 1,
-      "Жириновский Владимир Вольфович": 4,
-      "Зюганов Геннадий Андреевич": 0,
-      "Медведев Дмитрий Анатольевич": 16
+      "gas:candidate-vibid:100100022245504": 1,
+      "gas:candidate-vibid:100100022247031": 4,
+      "gas:candidate-vibid:100100022247121": 0,
+      "gas:candidate-vibid:100100022248789": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122540&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122540&type=227",
@@ -6089,10 +6089,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 2,
-      "Жириновский Владимир Вольфович": 15,
-      "Зюганов Геннадий Андреевич": 7,
-      "Медведев Дмитрий Анатольевич": 25
+      "gas:candidate-vibid:100100022245504": 2,
+      "gas:candidate-vibid:100100022247031": 15,
+      "gas:candidate-vibid:100100022247121": 7,
+      "gas:candidate-vibid:100100022248789": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122540&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122540&type=227",
@@ -6139,10 +6139,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 1,
-      "Жириновский Владимир Вольфович": 7,
-      "Зюганов Геннадий Андреевич": 4,
-      "Медведев Дмитрий Анатольевич": 4
+      "gas:candidate-vibid:100100022245504": 1,
+      "gas:candidate-vibid:100100022247031": 7,
+      "gas:candidate-vibid:100100022247121": 4,
+      "gas:candidate-vibid:100100022248789": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122540&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122540&type=227",
@@ -6189,10 +6189,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 1,
-      "Жириновский Владимир Вольфович": 4,
-      "Зюганов Геннадий Андреевич": 1,
-      "Медведев Дмитрий Анатольевич": 12
+      "gas:candidate-vibid:100100022245504": 1,
+      "gas:candidate-vibid:100100022247031": 4,
+      "gas:candidate-vibid:100100022247121": 1,
+      "gas:candidate-vibid:100100022248789": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122540&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122540&type=227",
@@ -6239,10 +6239,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 6,
-      "Зюганов Геннадий Андреевич": 0,
-      "Медведев Дмитрий Анатольевич": 4
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 6,
+      "gas:candidate-vibid:100100022247121": 0,
+      "gas:candidate-vibid:100100022248789": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122540&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122540&type=227",
@@ -6289,10 +6289,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 3,
-      "Жириновский Владимир Вольфович": 19,
-      "Зюганов Геннадий Андреевич": 7,
-      "Медведев Дмитрий Анатольевич": 55
+      "gas:candidate-vibid:100100022245504": 3,
+      "gas:candidate-vibid:100100022247031": 19,
+      "gas:candidate-vibid:100100022247121": 7,
+      "gas:candidate-vibid:100100022248789": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122540&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122540&type=227",
@@ -6339,10 +6339,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 2,
-      "Жириновский Владимир Вольфович": 16,
-      "Зюганов Геннадий Андреевич": 2,
-      "Медведев Дмитрий Анатольевич": 2
+      "gas:candidate-vibid:100100022245504": 2,
+      "gas:candidate-vibid:100100022247031": 16,
+      "gas:candidate-vibid:100100022247121": 2,
+      "gas:candidate-vibid:100100022248789": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122540&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122540&type=227",
@@ -6389,10 +6389,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 1,
-      "Жириновский Владимир Вольфович": 6,
-      "Зюганов Геннадий Андреевич": 4,
-      "Медведев Дмитрий Анатольевич": 47
+      "gas:candidate-vibid:100100022245504": 1,
+      "gas:candidate-vibid:100100022247031": 6,
+      "gas:candidate-vibid:100100022247121": 4,
+      "gas:candidate-vibid:100100022248789": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122540&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122540&type=227",
@@ -6439,10 +6439,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 4,
-      "Зюганов Геннадий Андреевич": 2,
-      "Медведев Дмитрий Анатольевич": 8
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 4,
+      "gas:candidate-vibid:100100022247121": 2,
+      "gas:candidate-vibid:100100022248789": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122540&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122540&type=227",
@@ -6489,10 +6489,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 1,
-      "Зюганов Геннадий Андреевич": 0,
-      "Медведев Дмитрий Анатольевич": 8
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 1,
+      "gas:candidate-vibid:100100022247121": 0,
+      "gas:candidate-vibid:100100022248789": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122540&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122540&type=227",
@@ -6539,10 +6539,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 3,
-      "Зюганов Геннадий Андреевич": 0,
-      "Медведев Дмитрий Анатольевич": 5
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 3,
+      "gas:candidate-vibid:100100022247121": 0,
+      "gas:candidate-vibid:100100022248789": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122540&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122540&type=227",
@@ -6589,10 +6589,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 5,
-      "Жириновский Владимир Вольфович": 6,
-      "Зюганов Геннадий Андреевич": 0,
-      "Медведев Дмитрий Анатольевич": 7
+      "gas:candidate-vibid:100100022245504": 5,
+      "gas:candidate-vibid:100100022247031": 6,
+      "gas:candidate-vibid:100100022247121": 0,
+      "gas:candidate-vibid:100100022248789": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122540&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122540&type=227",
@@ -6639,10 +6639,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 7,
-      "Зюганов Геннадий Андреевич": 5,
-      "Медведев Дмитрий Анатольевич": 14
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 7,
+      "gas:candidate-vibid:100100022247121": 5,
+      "gas:candidate-vibid:100100022248789": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122540&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122540&type=227",
@@ -6689,10 +6689,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 4,
-      "Зюганов Геннадий Андреевич": 2,
-      "Медведев Дмитрий Анатольевич": 7
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 4,
+      "gas:candidate-vibid:100100022247121": 2,
+      "gas:candidate-vibid:100100022248789": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122540&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122540&type=227",
@@ -6739,10 +6739,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 3,
-      "Жириновский Владимир Вольфович": 12,
-      "Зюганов Геннадий Андреевич": 1,
-      "Медведев Дмитрий Анатольевич": 11
+      "gas:candidate-vibid:100100022245504": 3,
+      "gas:candidate-vibid:100100022247031": 12,
+      "gas:candidate-vibid:100100022247121": 1,
+      "gas:candidate-vibid:100100022248789": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122540&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122540&type=227",
@@ -6789,10 +6789,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 11,
-      "Зюганов Геннадий Андреевич": 1,
-      "Медведев Дмитрий Анатольевич": 16
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 11,
+      "gas:candidate-vibid:100100022247121": 1,
+      "gas:candidate-vibid:100100022248789": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122540&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122540&type=227",
@@ -6839,10 +6839,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 2,
-      "Жириновский Владимир Вольфович": 21,
-      "Зюганов Геннадий Андреевич": 6,
-      "Медведев Дмитрий Анатольевич": 19
+      "gas:candidate-vibid:100100022245504": 2,
+      "gas:candidate-vibid:100100022247031": 21,
+      "gas:candidate-vibid:100100022247121": 6,
+      "gas:candidate-vibid:100100022248789": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122540&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122540&type=227",
@@ -6889,10 +6889,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 8,
-      "Зюганов Геннадий Андреевич": 2,
-      "Медведев Дмитрий Анатольевич": 9
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 8,
+      "gas:candidate-vibid:100100022247121": 2,
+      "gas:candidate-vibid:100100022248789": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122540&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122540&type=227",
@@ -6939,10 +6939,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 1,
-      "Жириновский Владимир Вольфович": 4,
-      "Зюганов Геннадий Андреевич": 2,
-      "Медведев Дмитрий Анатольевич": 9
+      "gas:candidate-vibid:100100022245504": 1,
+      "gas:candidate-vibid:100100022247031": 4,
+      "gas:candidate-vibid:100100022247121": 2,
+      "gas:candidate-vibid:100100022248789": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122540&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122540&type=227",
@@ -6989,10 +6989,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 5,
-      "Зюганов Геннадий Андреевич": 4,
-      "Медведев Дмитрий Анатольевич": 9
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 5,
+      "gas:candidate-vibid:100100022247121": 4,
+      "gas:candidate-vibid:100100022248789": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122540&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122540&type=227",
@@ -7039,10 +7039,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 3,
-      "Зюганов Геннадий Андреевич": 9,
-      "Медведев Дмитрий Анатольевич": 4
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 3,
+      "gas:candidate-vibid:100100022247121": 9,
+      "gas:candidate-vibid:100100022248789": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122540&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122540&type=227",
@@ -7089,10 +7089,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 2,
-      "Жириновский Владимир Вольфович": 21,
-      "Зюганов Геннадий Андреевич": 7,
-      "Медведев Дмитрий Анатольевич": 29
+      "gas:candidate-vibid:100100022245504": 2,
+      "gas:candidate-vibid:100100022247031": 21,
+      "gas:candidate-vibid:100100022247121": 7,
+      "gas:candidate-vibid:100100022248789": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122540&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122540&type=227",
@@ -7139,10 +7139,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 6,
-      "Зюганов Геннадий Андреевич": 0,
-      "Медведев Дмитрий Анатольевич": 8
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 6,
+      "gas:candidate-vibid:100100022247121": 0,
+      "gas:candidate-vibid:100100022248789": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122540&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122540&type=227",
@@ -7189,10 +7189,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 3,
-      "Зюганов Геннадий Андреевич": 1,
-      "Медведев Дмитрий Анатольевич": 19
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 3,
+      "gas:candidate-vibid:100100022247121": 1,
+      "gas:candidate-vibid:100100022248789": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122540&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122540&type=227",
@@ -7239,10 +7239,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 7,
-      "Зюганов Геннадий Андреевич": 1,
-      "Медведев Дмитрий Анатольевич": 17
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 7,
+      "gas:candidate-vibid:100100022247121": 1,
+      "gas:candidate-vibid:100100022248789": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122540&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122540&type=227",
@@ -7289,10 +7289,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 3,
-      "Жириновский Владимир Вольфович": 22,
-      "Зюганов Геннадий Андреевич": 8,
-      "Медведев Дмитрий Анатольевич": 33
+      "gas:candidate-vibid:100100022245504": 3,
+      "gas:candidate-vibid:100100022247031": 22,
+      "gas:candidate-vibid:100100022247121": 8,
+      "gas:candidate-vibid:100100022248789": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122540&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122540&type=227",
@@ -7339,10 +7339,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 3,
-      "Жириновский Владимир Вольфович": 38,
-      "Зюганов Геннадий Андреевич": 15,
-      "Медведев Дмитрий Анатольевич": 75
+      "gas:candidate-vibid:100100022245504": 3,
+      "gas:candidate-vibid:100100022247031": 38,
+      "gas:candidate-vibid:100100022247121": 15,
+      "gas:candidate-vibid:100100022248789": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122540&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122540&type=227",
@@ -7389,10 +7389,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 8,
-      "Жириновский Владимир Вольфович": 57,
-      "Зюганов Геннадий Андреевич": 111,
-      "Медведев Дмитрий Анатольевич": 636
+      "gas:candidate-vibid:100100022245504": 8,
+      "gas:candidate-vibid:100100022247031": 57,
+      "gas:candidate-vibid:100100022247121": 111,
+      "gas:candidate-vibid:100100022248789": 636
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122541&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122541&type=227",
@@ -7439,10 +7439,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 7,
-      "Зюганов Геннадий Андреевич": 17,
-      "Медведев Дмитрий Анатольевич": 86
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 7,
+      "gas:candidate-vibid:100100022247121": 17,
+      "gas:candidate-vibid:100100022248789": 86
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122541&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122541&type=227",
@@ -7489,10 +7489,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 1,
-      "Жириновский Владимир Вольфович": 112,
-      "Зюганов Геннадий Андреевич": 9,
-      "Медведев Дмитрий Анатольевич": 436
+      "gas:candidate-vibid:100100022245504": 1,
+      "gas:candidate-vibid:100100022247031": 112,
+      "gas:candidate-vibid:100100022247121": 9,
+      "gas:candidate-vibid:100100022248789": 436
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122541&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122541&type=227",
@@ -7539,10 +7539,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 8,
-      "Жириновский Владимир Вольфович": 147,
-      "Зюганов Геннадий Андреевич": 76,
-      "Медведев Дмитрий Анатольевич": 996
+      "gas:candidate-vibid:100100022245504": 8,
+      "gas:candidate-vibid:100100022247031": 147,
+      "gas:candidate-vibid:100100022247121": 76,
+      "gas:candidate-vibid:100100022248789": 996
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122541&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122541&type=227",
@@ -7589,10 +7589,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 5,
-      "Жириновский Владимир Вольфович": 48,
-      "Зюганов Геннадий Андреевич": 59,
-      "Медведев Дмитрий Анатольевич": 647
+      "gas:candidate-vibid:100100022245504": 5,
+      "gas:candidate-vibid:100100022247031": 48,
+      "gas:candidate-vibid:100100022247121": 59,
+      "gas:candidate-vibid:100100022248789": 647
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122541&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122541&type=227",
@@ -7639,10 +7639,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 15,
-      "Жириновский Владимир Вольфович": 148,
-      "Зюганов Геннадий Андреевич": 184,
-      "Медведев Дмитрий Анатольевич": 1362
+      "gas:candidate-vibid:100100022245504": 15,
+      "gas:candidate-vibid:100100022247031": 148,
+      "gas:candidate-vibid:100100022247121": 184,
+      "gas:candidate-vibid:100100022248789": 1362
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122541&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122541&type=227",
@@ -7689,10 +7689,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 12,
-      "Жириновский Владимир Вольфович": 146,
-      "Зюганов Геннадий Андреевич": 234,
-      "Медведев Дмитрий Анатольевич": 1080
+      "gas:candidate-vibid:100100022245504": 12,
+      "gas:candidate-vibid:100100022247031": 146,
+      "gas:candidate-vibid:100100022247121": 234,
+      "gas:candidate-vibid:100100022248789": 1080
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122541&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122541&type=227",
@@ -7739,10 +7739,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 10,
-      "Жириновский Владимир Вольфович": 164,
-      "Зюганов Геннадий Андреевич": 228,
-      "Медведев Дмитрий Анатольевич": 952
+      "gas:candidate-vibid:100100022245504": 10,
+      "gas:candidate-vibid:100100022247031": 164,
+      "gas:candidate-vibid:100100022247121": 228,
+      "gas:candidate-vibid:100100022248789": 952
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122541&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122541&type=227",
@@ -7789,10 +7789,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 11,
-      "Зюганов Геннадий Андреевич": 31,
-      "Медведев Дмитрий Анатольевич": 175
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 11,
+      "gas:candidate-vibid:100100022247121": 31,
+      "gas:candidate-vibid:100100022248789": 175
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122541&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122541&type=227",
@@ -7839,10 +7839,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 3,
-      "Жириновский Владимир Вольфович": 5,
-      "Зюганов Геннадий Андреевич": 4,
-      "Медведев Дмитрий Анатольевич": 39
+      "gas:candidate-vibid:100100022245504": 3,
+      "gas:candidate-vibid:100100022247031": 5,
+      "gas:candidate-vibid:100100022247121": 4,
+      "gas:candidate-vibid:100100022248789": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122542&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122542&type=227",
@@ -7889,10 +7889,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 1,
-      "Жириновский Владимир Вольфович": 3,
-      "Зюганов Геннадий Андреевич": 3,
-      "Медведев Дмитрий Анатольевич": 18
+      "gas:candidate-vibid:100100022245504": 1,
+      "gas:candidate-vibid:100100022247031": 3,
+      "gas:candidate-vibid:100100022247121": 3,
+      "gas:candidate-vibid:100100022248789": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122542&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122542&type=227",
@@ -7939,10 +7939,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 6,
-      "Жириновский Владимир Вольфович": 86,
-      "Зюганов Геннадий Андреевич": 75,
-      "Медведев Дмитрий Анатольевич": 555
+      "gas:candidate-vibid:100100022245504": 6,
+      "gas:candidate-vibid:100100022247031": 86,
+      "gas:candidate-vibid:100100022247121": 75,
+      "gas:candidate-vibid:100100022248789": 555
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122542&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122542&type=227",
@@ -7989,10 +7989,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 5,
-      "Жириновский Владимир Вольфович": 36,
-      "Зюганов Геннадий Андреевич": 49,
-      "Медведев Дмитрий Анатольевич": 208
+      "gas:candidate-vibid:100100022245504": 5,
+      "gas:candidate-vibid:100100022247031": 36,
+      "gas:candidate-vibid:100100022247121": 49,
+      "gas:candidate-vibid:100100022248789": 208
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122542&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122542&type=227",
@@ -8039,10 +8039,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 13,
-      "Жириновский Владимир Вольфович": 112,
-      "Зюганов Геннадий Андреевич": 109,
-      "Медведев Дмитрий Анатольевич": 405
+      "gas:candidate-vibid:100100022245504": 13,
+      "gas:candidate-vibid:100100022247031": 112,
+      "gas:candidate-vibid:100100022247121": 109,
+      "gas:candidate-vibid:100100022248789": 405
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122542&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122542&type=227",
@@ -8089,10 +8089,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 13,
-      "Жириновский Владимир Вольфович": 129,
-      "Зюганов Геннадий Андреевич": 140,
-      "Медведев Дмитрий Анатольевич": 632
+      "gas:candidate-vibid:100100022245504": 13,
+      "gas:candidate-vibid:100100022247031": 129,
+      "gas:candidate-vibid:100100022247121": 140,
+      "gas:candidate-vibid:100100022248789": 632
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122542&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122542&type=227",
@@ -8139,10 +8139,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 2,
-      "Жириновский Владимир Вольфович": 74,
-      "Зюганов Геннадий Андреевич": 41,
-      "Медведев Дмитрий Анатольевич": 244
+      "gas:candidate-vibid:100100022245504": 2,
+      "gas:candidate-vibid:100100022247031": 74,
+      "gas:candidate-vibid:100100022247121": 41,
+      "gas:candidate-vibid:100100022248789": 244
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122542&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122542&type=227",
@@ -8189,10 +8189,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 2,
-      "Жириновский Владимир Вольфович": 84,
-      "Зюганов Геннадий Андреевич": 77,
-      "Медведев Дмитрий Анатольевич": 237
+      "gas:candidate-vibid:100100022245504": 2,
+      "gas:candidate-vibid:100100022247031": 84,
+      "gas:candidate-vibid:100100022247121": 77,
+      "gas:candidate-vibid:100100022248789": 237
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122542&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122542&type=227",
@@ -8239,10 +8239,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 1,
-      "Жириновский Владимир Вольфович": 30,
-      "Зюганов Геннадий Андреевич": 30,
-      "Медведев Дмитрий Анатольевич": 125
+      "gas:candidate-vibid:100100022245504": 1,
+      "gas:candidate-vibid:100100022247031": 30,
+      "gas:candidate-vibid:100100022247121": 30,
+      "gas:candidate-vibid:100100022248789": 125
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122543&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122543&type=227",
@@ -8289,10 +8289,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 17,
-      "Жириновский Владимир Вольфович": 102,
-      "Зюганов Геннадий Андреевич": 131,
-      "Медведев Дмитрий Анатольевич": 584
+      "gas:candidate-vibid:100100022245504": 17,
+      "gas:candidate-vibid:100100022247031": 102,
+      "gas:candidate-vibid:100100022247121": 131,
+      "gas:candidate-vibid:100100022248789": 584
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122543&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122543&type=227",
@@ -8339,10 +8339,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 4,
-      "Жириновский Владимир Вольфович": 34,
-      "Зюганов Геннадий Андреевич": 18,
-      "Медведев Дмитрий Анатольевич": 178
+      "gas:candidate-vibid:100100022245504": 4,
+      "gas:candidate-vibid:100100022247031": 34,
+      "gas:candidate-vibid:100100022247121": 18,
+      "gas:candidate-vibid:100100022248789": 178
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122543&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122543&type=227",
@@ -8389,10 +8389,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 5,
-      "Зюганов Геннадий Андреевич": 9,
-      "Медведев Дмитрий Анатольевич": 18
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 5,
+      "gas:candidate-vibid:100100022247121": 9,
+      "gas:candidate-vibid:100100022248789": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122543&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122543&type=227",
@@ -8439,10 +8439,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 15,
-      "Жириновский Владимир Вольфович": 201,
-      "Зюганов Геннадий Андреевич": 105,
-      "Медведев Дмитрий Анатольевич": 874
+      "gas:candidate-vibid:100100022245504": 15,
+      "gas:candidate-vibid:100100022247031": 201,
+      "gas:candidate-vibid:100100022247121": 105,
+      "gas:candidate-vibid:100100022248789": 874
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122544&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122544&type=227",
@@ -8489,10 +8489,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 17,
-      "Жириновский Владимир Вольфович": 191,
-      "Зюганов Геннадий Андреевич": 158,
-      "Медведев Дмитрий Анатольевич": 925
+      "gas:candidate-vibid:100100022245504": 17,
+      "gas:candidate-vibid:100100022247031": 191,
+      "gas:candidate-vibid:100100022247121": 158,
+      "gas:candidate-vibid:100100022248789": 925
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122544&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122544&type=227",
@@ -8539,10 +8539,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 20,
-      "Жириновский Владимир Вольфович": 203,
-      "Зюганов Геннадий Андреевич": 119,
-      "Медведев Дмитрий Анатольевич": 733
+      "gas:candidate-vibid:100100022245504": 20,
+      "gas:candidate-vibid:100100022247031": 203,
+      "gas:candidate-vibid:100100022247121": 119,
+      "gas:candidate-vibid:100100022248789": 733
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122544&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122544&type=227",
@@ -8589,10 +8589,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 12,
-      "Жириновский Владимир Вольфович": 130,
-      "Зюганов Геннадий Андреевич": 136,
-      "Медведев Дмитрий Анатольевич": 586
+      "gas:candidate-vibid:100100022245504": 12,
+      "gas:candidate-vibid:100100022247031": 130,
+      "gas:candidate-vibid:100100022247121": 136,
+      "gas:candidate-vibid:100100022248789": 586
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122544&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122544&type=227",
@@ -8639,10 +8639,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 14,
-      "Жириновский Владимир Вольфович": 121,
-      "Зюганов Геннадий Андреевич": 150,
-      "Медведев Дмитрий Анатольевич": 660
+      "gas:candidate-vibid:100100022245504": 14,
+      "gas:candidate-vibid:100100022247031": 121,
+      "gas:candidate-vibid:100100022247121": 150,
+      "gas:candidate-vibid:100100022248789": 660
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122544&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122544&type=227",
@@ -8689,10 +8689,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 24,
-      "Жириновский Владимир Вольфович": 142,
-      "Зюганов Геннадий Андреевич": 203,
-      "Медведев Дмитрий Анатольевич": 705
+      "gas:candidate-vibid:100100022245504": 24,
+      "gas:candidate-vibid:100100022247031": 142,
+      "gas:candidate-vibid:100100022247121": 203,
+      "gas:candidate-vibid:100100022248789": 705
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122544&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122544&type=227",
@@ -8739,10 +8739,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 6,
-      "Жириновский Владимир Вольфович": 60,
-      "Зюганов Геннадий Андреевич": 84,
-      "Медведев Дмитрий Анатольевич": 337
+      "gas:candidate-vibid:100100022245504": 6,
+      "gas:candidate-vibid:100100022247031": 60,
+      "gas:candidate-vibid:100100022247121": 84,
+      "gas:candidate-vibid:100100022248789": 337
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122544&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122544&type=227",
@@ -8789,10 +8789,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 19,
-      "Жириновский Владимир Вольфович": 120,
-      "Зюганов Геннадий Андреевич": 182,
-      "Медведев Дмитрий Анатольевич": 687
+      "gas:candidate-vibid:100100022245504": 19,
+      "gas:candidate-vibid:100100022247031": 120,
+      "gas:candidate-vibid:100100022247121": 182,
+      "gas:candidate-vibid:100100022248789": 687
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122544&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122544&type=227",
@@ -8839,10 +8839,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 21,
-      "Жириновский Владимир Вольфович": 183,
-      "Зюганов Геннадий Андреевич": 195,
-      "Медведев Дмитрий Анатольевич": 904
+      "gas:candidate-vibid:100100022245504": 21,
+      "gas:candidate-vibid:100100022247031": 183,
+      "gas:candidate-vibid:100100022247121": 195,
+      "gas:candidate-vibid:100100022248789": 904
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122544&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122544&type=227",
@@ -8889,10 +8889,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 31,
-      "Жириновский Владимир Вольфович": 158,
-      "Зюганов Геннадий Андреевич": 253,
-      "Медведев Дмитрий Анатольевич": 960
+      "gas:candidate-vibid:100100022245504": 31,
+      "gas:candidate-vibid:100100022247031": 158,
+      "gas:candidate-vibid:100100022247121": 253,
+      "gas:candidate-vibid:100100022248789": 960
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122544&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122544&type=227",
@@ -8939,10 +8939,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 21,
-      "Жириновский Владимир Вольфович": 129,
-      "Зюганов Геннадий Андреевич": 198,
-      "Медведев Дмитрий Анатольевич": 758
+      "gas:candidate-vibid:100100022245504": 21,
+      "gas:candidate-vibid:100100022247031": 129,
+      "gas:candidate-vibid:100100022247121": 198,
+      "gas:candidate-vibid:100100022248789": 758
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122544&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122544&type=227",
@@ -8989,10 +8989,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 21,
-      "Жириновский Владимир Вольфович": 224,
-      "Зюганов Геннадий Андреевич": 143,
-      "Медведев Дмитрий Анатольевич": 928
+      "gas:candidate-vibid:100100022245504": 21,
+      "gas:candidate-vibid:100100022247031": 224,
+      "gas:candidate-vibid:100100022247121": 143,
+      "gas:candidate-vibid:100100022248789": 928
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122544&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122544&type=227",
@@ -9039,10 +9039,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 12,
-      "Жириновский Владимир Вольфович": 116,
-      "Зюганов Геннадий Андреевич": 78,
-      "Медведев Дмитрий Анатольевич": 627
+      "gas:candidate-vibid:100100022245504": 12,
+      "gas:candidate-vibid:100100022247031": 116,
+      "gas:candidate-vibid:100100022247121": 78,
+      "gas:candidate-vibid:100100022248789": 627
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122544&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122544&type=227",
@@ -9089,10 +9089,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 14,
-      "Жириновский Владимир Вольфович": 147,
-      "Зюганов Геннадий Андреевич": 109,
-      "Медведев Дмитрий Анатольевич": 526
+      "gas:candidate-vibid:100100022245504": 14,
+      "gas:candidate-vibid:100100022247031": 147,
+      "gas:candidate-vibid:100100022247121": 109,
+      "gas:candidate-vibid:100100022248789": 526
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122544&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122544&type=227",
@@ -9139,10 +9139,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 6,
-      "Жириновский Владимир Вольфович": 90,
-      "Зюганов Геннадий Андреевич": 49,
-      "Медведев Дмитрий Анатольевич": 346
+      "gas:candidate-vibid:100100022245504": 6,
+      "gas:candidate-vibid:100100022247031": 90,
+      "gas:candidate-vibid:100100022247121": 49,
+      "gas:candidate-vibid:100100022248789": 346
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122544&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122544&type=227",
@@ -9189,10 +9189,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 18,
-      "Жириновский Владимир Вольфович": 126,
-      "Зюганов Геннадий Андреевич": 130,
-      "Медведев Дмитрий Анатольевич": 659
+      "gas:candidate-vibid:100100022245504": 18,
+      "gas:candidate-vibid:100100022247031": 126,
+      "gas:candidate-vibid:100100022247121": 130,
+      "gas:candidate-vibid:100100022248789": 659
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122544&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122544&type=227",
@@ -9239,10 +9239,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 21,
-      "Жириновский Владимир Вольфович": 195,
-      "Зюганов Геннадий Андреевич": 221,
-      "Медведев Дмитрий Анатольевич": 877
+      "gas:candidate-vibid:100100022245504": 21,
+      "gas:candidate-vibid:100100022247031": 195,
+      "gas:candidate-vibid:100100022247121": 221,
+      "gas:candidate-vibid:100100022248789": 877
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122544&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122544&type=227",
@@ -9289,10 +9289,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 19,
-      "Жириновский Владимир Вольфович": 169,
-      "Зюганов Геннадий Андреевич": 231,
-      "Медведев Дмитрий Анатольевич": 727
+      "gas:candidate-vibid:100100022245504": 19,
+      "gas:candidate-vibid:100100022247031": 169,
+      "gas:candidate-vibid:100100022247121": 231,
+      "gas:candidate-vibid:100100022248789": 727
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122544&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122544&type=227",
@@ -9339,10 +9339,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 36,
-      "Жириновский Владимир Вольфович": 156,
-      "Зюганов Геннадий Андреевич": 156,
-      "Медведев Дмитрий Анатольевич": 642
+      "gas:candidate-vibid:100100022245504": 36,
+      "gas:candidate-vibid:100100022247031": 156,
+      "gas:candidate-vibid:100100022247121": 156,
+      "gas:candidate-vibid:100100022248789": 642
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122544&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122544&type=227",
@@ -9389,10 +9389,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 14,
-      "Жириновский Владимир Вольфович": 108,
-      "Зюганов Геннадий Андреевич": 131,
-      "Медведев Дмитрий Анатольевич": 546
+      "gas:candidate-vibid:100100022245504": 14,
+      "gas:candidate-vibid:100100022247031": 108,
+      "gas:candidate-vibid:100100022247121": 131,
+      "gas:candidate-vibid:100100022248789": 546
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122544&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122544&type=227",
@@ -9439,10 +9439,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 8,
-      "Жириновский Владимир Вольфович": 55,
-      "Зюганов Геннадий Андреевич": 64,
-      "Медведев Дмитрий Анатольевич": 281
+      "gas:candidate-vibid:100100022245504": 8,
+      "gas:candidate-vibid:100100022247031": 55,
+      "gas:candidate-vibid:100100022247121": 64,
+      "gas:candidate-vibid:100100022248789": 281
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122544&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122544&type=227",
@@ -9489,10 +9489,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 11,
-      "Жириновский Владимир Вольфович": 81,
-      "Зюганов Геннадий Андреевич": 98,
-      "Медведев Дмитрий Анатольевич": 338
+      "gas:candidate-vibid:100100022245504": 11,
+      "gas:candidate-vibid:100100022247031": 81,
+      "gas:candidate-vibid:100100022247121": 98,
+      "gas:candidate-vibid:100100022248789": 338
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122544&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122544&type=227",
@@ -9539,10 +9539,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 15,
-      "Жириновский Владимир Вольфович": 157,
-      "Зюганов Геннадий Андреевич": 223,
-      "Медведев Дмитрий Анатольевич": 741
+      "gas:candidate-vibid:100100022245504": 15,
+      "gas:candidate-vibid:100100022247031": 157,
+      "gas:candidate-vibid:100100022247121": 223,
+      "gas:candidate-vibid:100100022248789": 741
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122544&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122544&type=227",
@@ -9589,10 +9589,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 8,
-      "Жириновский Владимир Вольфович": 77,
-      "Зюганов Геннадий Андреевич": 114,
-      "Медведев Дмитрий Анатольевич": 422
+      "gas:candidate-vibid:100100022245504": 8,
+      "gas:candidate-vibid:100100022247031": 77,
+      "gas:candidate-vibid:100100022247121": 114,
+      "gas:candidate-vibid:100100022248789": 422
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122544&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122544&type=227",
@@ -9639,10 +9639,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 10,
-      "Жириновский Владимир Вольфович": 75,
-      "Зюганов Геннадий Андреевич": 86,
-      "Медведев Дмитрий Анатольевич": 434
+      "gas:candidate-vibid:100100022245504": 10,
+      "gas:candidate-vibid:100100022247031": 75,
+      "gas:candidate-vibid:100100022247121": 86,
+      "gas:candidate-vibid:100100022248789": 434
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122544&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122544&type=227",
@@ -9689,10 +9689,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 23,
-      "Жириновский Владимир Вольфович": 199,
-      "Зюганов Геннадий Андреевич": 210,
-      "Медведев Дмитрий Анатольевич": 824
+      "gas:candidate-vibid:100100022245504": 23,
+      "gas:candidate-vibid:100100022247031": 199,
+      "gas:candidate-vibid:100100022247121": 210,
+      "gas:candidate-vibid:100100022248789": 824
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122544&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122544&type=227",
@@ -9739,10 +9739,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 4,
-      "Жириновский Владимир Вольфович": 14,
-      "Зюганов Геннадий Андреевич": 14,
-      "Медведев Дмитрий Анатольевич": 98
+      "gas:candidate-vibid:100100022245504": 4,
+      "gas:candidate-vibid:100100022247031": 14,
+      "gas:candidate-vibid:100100022247121": 14,
+      "gas:candidate-vibid:100100022248789": 98
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122544&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122544&type=227",
@@ -9789,10 +9789,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 6,
-      "Жириновский Владимир Вольфович": 24,
-      "Зюганов Геннадий Андреевич": 55,
-      "Медведев Дмитрий Анатольевич": 191
+      "gas:candidate-vibid:100100022245504": 6,
+      "gas:candidate-vibid:100100022247031": 24,
+      "gas:candidate-vibid:100100022247121": 55,
+      "gas:candidate-vibid:100100022248789": 191
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122544&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122544&type=227",
@@ -9839,10 +9839,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 4,
-      "Жириновский Владимир Вольфович": 38,
-      "Зюганов Геннадий Андреевич": 49,
-      "Медведев Дмитрий Анатольевич": 226
+      "gas:candidate-vibid:100100022245504": 4,
+      "gas:candidate-vibid:100100022247031": 38,
+      "gas:candidate-vibid:100100022247121": 49,
+      "gas:candidate-vibid:100100022248789": 226
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122544&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122544&type=227",
@@ -9889,10 +9889,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 21,
-      "Жириновский Владимир Вольфович": 143,
-      "Зюганов Геннадий Андреевич": 218,
-      "Медведев Дмитрий Анатольевич": 995
+      "gas:candidate-vibid:100100022245504": 21,
+      "gas:candidate-vibid:100100022247031": 143,
+      "gas:candidate-vibid:100100022247121": 218,
+      "gas:candidate-vibid:100100022248789": 995
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122544&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122544&type=227",
@@ -9939,10 +9939,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 16,
-      "Жириновский Владимир Вольфович": 151,
-      "Зюганов Геннадий Андреевич": 235,
-      "Медведев Дмитрий Анатольевич": 860
+      "gas:candidate-vibid:100100022245504": 16,
+      "gas:candidate-vibid:100100022247031": 151,
+      "gas:candidate-vibid:100100022247121": 235,
+      "gas:candidate-vibid:100100022248789": 860
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122544&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122544&type=227",
@@ -9989,10 +9989,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 17,
-      "Жириновский Владимир Вольфович": 186,
-      "Зюганов Геннадий Андреевич": 250,
-      "Медведев Дмитрий Анатольевич": 833
+      "gas:candidate-vibid:100100022245504": 17,
+      "gas:candidate-vibid:100100022247031": 186,
+      "gas:candidate-vibid:100100022247121": 250,
+      "gas:candidate-vibid:100100022248789": 833
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122544&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122544&type=227",
@@ -10039,10 +10039,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 29,
-      "Жириновский Владимир Вольфович": 140,
-      "Зюганов Геннадий Андреевич": 221,
-      "Медведев Дмитрий Анатольевич": 892
+      "gas:candidate-vibid:100100022245504": 29,
+      "gas:candidate-vibid:100100022247031": 140,
+      "gas:candidate-vibid:100100022247121": 221,
+      "gas:candidate-vibid:100100022248789": 892
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122544&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122544&type=227",
@@ -10089,10 +10089,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 25,
-      "Жириновский Владимир Вольфович": 152,
-      "Зюганов Геннадий Андреевич": 217,
-      "Медведев Дмитрий Анатольевич": 801
+      "gas:candidate-vibid:100100022245504": 25,
+      "gas:candidate-vibid:100100022247031": 152,
+      "gas:candidate-vibid:100100022247121": 217,
+      "gas:candidate-vibid:100100022248789": 801
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122544&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122544&type=227",
@@ -10139,10 +10139,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 18,
-      "Жириновский Владимир Вольфович": 98,
-      "Зюганов Геннадий Андреевич": 198,
-      "Медведев Дмитрий Анатольевич": 616
+      "gas:candidate-vibid:100100022245504": 18,
+      "gas:candidate-vibid:100100022247031": 98,
+      "gas:candidate-vibid:100100022247121": 198,
+      "gas:candidate-vibid:100100022248789": 616
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122544&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122544&type=227",
@@ -10189,10 +10189,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 23,
-      "Жириновский Владимир Вольфович": 87,
-      "Зюганов Геннадий Андреевич": 280,
-      "Медведев Дмитрий Анатольевич": 911
+      "gas:candidate-vibid:100100022245504": 23,
+      "gas:candidate-vibid:100100022247031": 87,
+      "gas:candidate-vibid:100100022247121": 280,
+      "gas:candidate-vibid:100100022248789": 911
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122544&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122544&type=227",
@@ -10239,10 +10239,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 4,
-      "Жириновский Владимир Вольфович": 9,
-      "Зюганов Геннадий Андреевич": 18,
-      "Медведев Дмитрий Анатольевич": 108
+      "gas:candidate-vibid:100100022245504": 4,
+      "gas:candidate-vibid:100100022247031": 9,
+      "gas:candidate-vibid:100100022247121": 18,
+      "gas:candidate-vibid:100100022248789": 108
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122544&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122544&type=227",
@@ -10289,10 +10289,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 27,
-      "Жириновский Владимир Вольфович": 197,
-      "Зюганов Геннадий Андреевич": 258,
-      "Медведев Дмитрий Анатольевич": 777
+      "gas:candidate-vibid:100100022245504": 27,
+      "gas:candidate-vibid:100100022247031": 197,
+      "gas:candidate-vibid:100100022247121": 258,
+      "gas:candidate-vibid:100100022248789": 777
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122544&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122544&type=227",
@@ -10339,10 +10339,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 38,
-      "Жириновский Владимир Вольфович": 161,
-      "Зюганов Геннадий Андреевич": 266,
-      "Медведев Дмитрий Анатольевич": 842
+      "gas:candidate-vibid:100100022245504": 38,
+      "gas:candidate-vibid:100100022247031": 161,
+      "gas:candidate-vibid:100100022247121": 266,
+      "gas:candidate-vibid:100100022248789": 842
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122544&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122544&type=227",
@@ -10389,10 +10389,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 22,
-      "Жириновский Владимир Вольфович": 137,
-      "Зюганов Геннадий Андреевич": 248,
-      "Медведев Дмитрий Анатольевич": 766
+      "gas:candidate-vibid:100100022245504": 22,
+      "gas:candidate-vibid:100100022247031": 137,
+      "gas:candidate-vibid:100100022247121": 248,
+      "gas:candidate-vibid:100100022248789": 766
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122544&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122544&type=227",
@@ -10439,10 +10439,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 27,
-      "Жириновский Владимир Вольфович": 139,
-      "Зюганов Геннадий Андреевич": 192,
-      "Медведев Дмитрий Анатольевич": 815
+      "gas:candidate-vibid:100100022245504": 27,
+      "gas:candidate-vibid:100100022247031": 139,
+      "gas:candidate-vibid:100100022247121": 192,
+      "gas:candidate-vibid:100100022248789": 815
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122544&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122544&type=227",
@@ -10489,10 +10489,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 28,
-      "Жириновский Владимир Вольфович": 150,
-      "Зюганов Геннадий Андреевич": 225,
-      "Медведев Дмитрий Анатольевич": 818
+      "gas:candidate-vibid:100100022245504": 28,
+      "gas:candidate-vibid:100100022247031": 150,
+      "gas:candidate-vibid:100100022247121": 225,
+      "gas:candidate-vibid:100100022248789": 818
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122544&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122544&type=227",
@@ -10539,10 +10539,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 28,
-      "Жириновский Владимир Вольфович": 150,
-      "Зюганов Геннадий Андреевич": 218,
-      "Медведев Дмитрий Анатольевич": 955
+      "gas:candidate-vibid:100100022245504": 28,
+      "gas:candidate-vibid:100100022247031": 150,
+      "gas:candidate-vibid:100100022247121": 218,
+      "gas:candidate-vibid:100100022248789": 955
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122544&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122544&type=227",
@@ -10589,10 +10589,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 29,
-      "Жириновский Владимир Вольфович": 174,
-      "Зюганов Геннадий Андреевич": 180,
-      "Медведев Дмитрий Анатольевич": 772
+      "gas:candidate-vibid:100100022245504": 29,
+      "gas:candidate-vibid:100100022247031": 174,
+      "gas:candidate-vibid:100100022247121": 180,
+      "gas:candidate-vibid:100100022248789": 772
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122544&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122544&type=227",
@@ -10639,10 +10639,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 12,
-      "Жириновский Владимир Вольфович": 104,
-      "Зюганов Геннадий Андреевич": 181,
-      "Медведев Дмитрий Анатольевич": 530
+      "gas:candidate-vibid:100100022245504": 12,
+      "gas:candidate-vibid:100100022247031": 104,
+      "gas:candidate-vibid:100100022247121": 181,
+      "gas:candidate-vibid:100100022248789": 530
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122544&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122544&type=227",
@@ -10689,10 +10689,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 16,
-      "Жириновский Владимир Вольфович": 150,
-      "Зюганов Геннадий Андреевич": 246,
-      "Медведев Дмитрий Анатольевич": 784
+      "gas:candidate-vibid:100100022245504": 16,
+      "gas:candidate-vibid:100100022247031": 150,
+      "gas:candidate-vibid:100100022247121": 246,
+      "gas:candidate-vibid:100100022248789": 784
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122544&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122544&type=227",
@@ -10739,10 +10739,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 13,
-      "Жириновский Владимир Вольфович": 102,
-      "Зюганов Геннадий Андреевич": 197,
-      "Медведев Дмитрий Анатольевич": 685
+      "gas:candidate-vibid:100100022245504": 13,
+      "gas:candidate-vibid:100100022247031": 102,
+      "gas:candidate-vibid:100100022247121": 197,
+      "gas:candidate-vibid:100100022248789": 685
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122544&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122544&type=227",
@@ -10789,10 +10789,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 24,
-      "Жириновский Владимир Вольфович": 104,
-      "Зюганов Геннадий Андреевич": 179,
-      "Медведев Дмитрий Анатольевич": 642
+      "gas:candidate-vibid:100100022245504": 24,
+      "gas:candidate-vibid:100100022247031": 104,
+      "gas:candidate-vibid:100100022247121": 179,
+      "gas:candidate-vibid:100100022248789": 642
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122544&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122544&type=227",
@@ -10839,10 +10839,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 21,
-      "Жириновский Владимир Вольфович": 189,
-      "Зюганов Геннадий Андреевич": 177,
-      "Медведев Дмитрий Анатольевич": 745
+      "gas:candidate-vibid:100100022245504": 21,
+      "gas:candidate-vibid:100100022247031": 189,
+      "gas:candidate-vibid:100100022247121": 177,
+      "gas:candidate-vibid:100100022248789": 745
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122544&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122544&type=227",
@@ -10889,10 +10889,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 27,
-      "Жириновский Владимир Вольфович": 150,
-      "Зюганов Геннадий Андреевич": 253,
-      "Медведев Дмитрий Анатольевич": 758
+      "gas:candidate-vibid:100100022245504": 27,
+      "gas:candidate-vibid:100100022247031": 150,
+      "gas:candidate-vibid:100100022247121": 253,
+      "gas:candidate-vibid:100100022248789": 758
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122544&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122544&type=227",
@@ -10939,10 +10939,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 20,
-      "Жириновский Владимир Вольфович": 126,
-      "Зюганов Геннадий Андреевич": 218,
-      "Медведев Дмитрий Анатольевич": 778
+      "gas:candidate-vibid:100100022245504": 20,
+      "gas:candidate-vibid:100100022247031": 126,
+      "gas:candidate-vibid:100100022247121": 218,
+      "gas:candidate-vibid:100100022248789": 778
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122544&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122544&type=227",
@@ -10989,10 +10989,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 20,
-      "Жириновский Владимир Вольфович": 137,
-      "Зюганов Геннадий Андреевич": 223,
-      "Медведев Дмитрий Анатольевич": 802
+      "gas:candidate-vibid:100100022245504": 20,
+      "gas:candidate-vibid:100100022247031": 137,
+      "gas:candidate-vibid:100100022247121": 223,
+      "gas:candidate-vibid:100100022248789": 802
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122544&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122544&type=227",
@@ -11039,10 +11039,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 15,
-      "Жириновский Владимир Вольфович": 132,
-      "Зюганов Геннадий Андреевич": 174,
-      "Медведев Дмитрий Анатольевич": 692
+      "gas:candidate-vibid:100100022245504": 15,
+      "gas:candidate-vibid:100100022247031": 132,
+      "gas:candidate-vibid:100100022247121": 174,
+      "gas:candidate-vibid:100100022248789": 692
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122544&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122544&type=227",
@@ -11089,10 +11089,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 19,
-      "Жириновский Владимир Вольфович": 39,
-      "Зюганов Геннадий Андреевич": 172,
-      "Медведев Дмитрий Анатольевич": 690
+      "gas:candidate-vibid:100100022245504": 19,
+      "gas:candidate-vibid:100100022247031": 39,
+      "gas:candidate-vibid:100100022247121": 172,
+      "gas:candidate-vibid:100100022248789": 690
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122544&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122544&type=227",
@@ -11139,10 +11139,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 6,
-      "Жириновский Владимир Вольфович": 76,
-      "Зюганов Геннадий Андреевич": 79,
-      "Медведев Дмитрий Анатольевич": 327
+      "gas:candidate-vibid:100100022245504": 6,
+      "gas:candidate-vibid:100100022247031": 76,
+      "gas:candidate-vibid:100100022247121": 79,
+      "gas:candidate-vibid:100100022248789": 327
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122544&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122544&type=227",
@@ -11189,10 +11189,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 16,
-      "Жириновский Владимир Вольфович": 168,
-      "Зюганов Геннадий Андреевич": 133,
-      "Медведев Дмитрий Анатольевич": 794
+      "gas:candidate-vibid:100100022245504": 16,
+      "gas:candidate-vibid:100100022247031": 168,
+      "gas:candidate-vibid:100100022247121": 133,
+      "gas:candidate-vibid:100100022248789": 794
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122544&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122544&type=227",
@@ -11239,10 +11239,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 17,
-      "Жириновский Владимир Вольфович": 148,
-      "Зюганов Геннадий Андреевич": 137,
-      "Медведев Дмитрий Анатольевич": 631
+      "gas:candidate-vibid:100100022245504": 17,
+      "gas:candidate-vibid:100100022247031": 148,
+      "gas:candidate-vibid:100100022247121": 137,
+      "gas:candidate-vibid:100100022248789": 631
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122544&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122544&type=227",
@@ -11289,10 +11289,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 10,
-      "Жириновский Владимир Вольфович": 85,
-      "Зюганов Геннадий Андреевич": 157,
-      "Медведев Дмитрий Анатольевич": 647
+      "gas:candidate-vibid:100100022245504": 10,
+      "gas:candidate-vibid:100100022247031": 85,
+      "gas:candidate-vibid:100100022247121": 157,
+      "gas:candidate-vibid:100100022248789": 647
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122544&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122544&type=227",
@@ -11339,10 +11339,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 18,
-      "Жириновский Владимир Вольфович": 104,
-      "Зюганов Геннадий Андреевич": 163,
-      "Медведев Дмитрий Анатольевич": 685
+      "gas:candidate-vibid:100100022245504": 18,
+      "gas:candidate-vibid:100100022247031": 104,
+      "gas:candidate-vibid:100100022247121": 163,
+      "gas:candidate-vibid:100100022248789": 685
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122544&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122544&type=227",
@@ -11389,10 +11389,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 19,
-      "Жириновский Владимир Вольфович": 150,
-      "Зюганов Геннадий Андреевич": 279,
-      "Медведев Дмитрий Анатольевич": 912
+      "gas:candidate-vibid:100100022245504": 19,
+      "gas:candidate-vibid:100100022247031": 150,
+      "gas:candidate-vibid:100100022247121": 279,
+      "gas:candidate-vibid:100100022248789": 912
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122544&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122544&type=227",
@@ -11439,10 +11439,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 20,
-      "Жириновский Владимир Вольфович": 139,
-      "Зюганов Геннадий Андреевич": 157,
-      "Медведев Дмитрий Анатольевич": 916
+      "gas:candidate-vibid:100100022245504": 20,
+      "gas:candidate-vibid:100100022247031": 139,
+      "gas:candidate-vibid:100100022247121": 157,
+      "gas:candidate-vibid:100100022248789": 916
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122544&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122544&type=227",
@@ -11489,10 +11489,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 19,
-      "Жириновский Владимир Вольфович": 129,
-      "Зюганов Геннадий Андреевич": 194,
-      "Медведев Дмитрий Анатольевич": 606
+      "gas:candidate-vibid:100100022245504": 19,
+      "gas:candidate-vibid:100100022247031": 129,
+      "gas:candidate-vibid:100100022247121": 194,
+      "gas:candidate-vibid:100100022248789": 606
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122544&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122544&type=227",
@@ -11539,10 +11539,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 6,
-      "Жириновский Владимир Вольфович": 60,
-      "Зюганов Геннадий Андреевич": 215,
-      "Медведев Дмитрий Анатольевич": 845
+      "gas:candidate-vibid:100100022245504": 6,
+      "gas:candidate-vibid:100100022247031": 60,
+      "gas:candidate-vibid:100100022247121": 215,
+      "gas:candidate-vibid:100100022248789": 845
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122544&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122544&type=227",
@@ -11589,10 +11589,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 26,
-      "Жириновский Владимир Вольфович": 161,
-      "Зюганов Геннадий Андреевич": 239,
-      "Медведев Дмитрий Анатольевич": 745
+      "gas:candidate-vibid:100100022245504": 26,
+      "gas:candidate-vibid:100100022247031": 161,
+      "gas:candidate-vibid:100100022247121": 239,
+      "gas:candidate-vibid:100100022248789": 745
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122544&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122544&type=227",
@@ -11639,10 +11639,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 18,
-      "Жириновский Владимир Вольфович": 136,
-      "Зюганов Геннадий Андреевич": 180,
-      "Медведев Дмитрий Анатольевич": 673
+      "gas:candidate-vibid:100100022245504": 18,
+      "gas:candidate-vibid:100100022247031": 136,
+      "gas:candidate-vibid:100100022247121": 180,
+      "gas:candidate-vibid:100100022248789": 673
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122544&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122544&type=227",
@@ -11689,10 +11689,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 18,
-      "Жириновский Владимир Вольфович": 118,
-      "Зюганов Геннадий Андреевич": 213,
-      "Медведев Дмитрий Анатольевич": 689
+      "gas:candidate-vibid:100100022245504": 18,
+      "gas:candidate-vibid:100100022247031": 118,
+      "gas:candidate-vibid:100100022247121": 213,
+      "gas:candidate-vibid:100100022248789": 689
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122544&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122544&type=227",
@@ -11739,10 +11739,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 18,
-      "Жириновский Владимир Вольфович": 163,
-      "Зюганов Геннадий Андреевич": 239,
-      "Медведев Дмитрий Анатольевич": 823
+      "gas:candidate-vibid:100100022245504": 18,
+      "gas:candidate-vibid:100100022247031": 163,
+      "gas:candidate-vibid:100100022247121": 239,
+      "gas:candidate-vibid:100100022248789": 823
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122544&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122544&type=227",
@@ -11789,10 +11789,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 30,
-      "Жириновский Владимир Вольфович": 191,
-      "Зюганов Геннадий Андреевич": 247,
-      "Медведев Дмитрий Анатольевич": 846
+      "gas:candidate-vibid:100100022245504": 30,
+      "gas:candidate-vibid:100100022247031": 191,
+      "gas:candidate-vibid:100100022247121": 247,
+      "gas:candidate-vibid:100100022248789": 846
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122544&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122544&type=227",
@@ -11839,10 +11839,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 12,
-      "Жириновский Владимир Вольфович": 109,
-      "Зюганов Геннадий Андреевич": 121,
-      "Медведев Дмитрий Анатольевич": 471
+      "gas:candidate-vibid:100100022245504": 12,
+      "gas:candidate-vibid:100100022247031": 109,
+      "gas:candidate-vibid:100100022247121": 121,
+      "gas:candidate-vibid:100100022248789": 471
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122544&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122544&type=227",
@@ -11889,10 +11889,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 15,
-      "Жириновский Владимир Вольфович": 104,
-      "Зюганов Геннадий Андреевич": 121,
-      "Медведев Дмитрий Анатольевич": 489
+      "gas:candidate-vibid:100100022245504": 15,
+      "gas:candidate-vibid:100100022247031": 104,
+      "gas:candidate-vibid:100100022247121": 121,
+      "gas:candidate-vibid:100100022248789": 489
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122544&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122544&type=227",
@@ -11939,10 +11939,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 9,
-      "Жириновский Владимир Вольфович": 71,
-      "Зюганов Геннадий Андреевич": 118,
-      "Медведев Дмитрий Анатольевич": 412
+      "gas:candidate-vibid:100100022245504": 9,
+      "gas:candidate-vibid:100100022247031": 71,
+      "gas:candidate-vibid:100100022247121": 118,
+      "gas:candidate-vibid:100100022248789": 412
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122544&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122544&type=227",
@@ -11989,10 +11989,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 5,
-      "Жириновский Владимир Вольфович": 26,
-      "Зюганов Геннадий Андреевич": 22,
-      "Медведев Дмитрий Анатольевич": 158
+      "gas:candidate-vibid:100100022245504": 5,
+      "gas:candidate-vibid:100100022247031": 26,
+      "gas:candidate-vibid:100100022247121": 22,
+      "gas:candidate-vibid:100100022248789": 158
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122544&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122544&type=227",
@@ -12039,10 +12039,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 1,
-      "Жириновский Владимир Вольфович": 5,
-      "Зюганов Геннадий Андреевич": 15,
-      "Медведев Дмитрий Анатольевич": 43
+      "gas:candidate-vibid:100100022245504": 1,
+      "gas:candidate-vibid:100100022247031": 5,
+      "gas:candidate-vibid:100100022247121": 15,
+      "gas:candidate-vibid:100100022248789": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122544&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122544&type=227",
@@ -12089,10 +12089,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 2,
-      "Жириновский Владимир Вольфович": 20,
-      "Зюганов Геннадий Андреевич": 32,
-      "Медведев Дмитрий Анатольевич": 150
+      "gas:candidate-vibid:100100022245504": 2,
+      "gas:candidate-vibid:100100022247031": 20,
+      "gas:candidate-vibid:100100022247121": 32,
+      "gas:candidate-vibid:100100022248789": 150
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122544&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122544&type=227",
@@ -12139,10 +12139,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 10,
-      "Зюганов Геннадий Андреевич": 19,
-      "Медведев Дмитрий Анатольевич": 85
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 10,
+      "gas:candidate-vibid:100100022247121": 19,
+      "gas:candidate-vibid:100100022248789": 85
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122544&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122544&type=227",
@@ -12189,10 +12189,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 2,
-      "Жириновский Владимир Вольфович": 14,
-      "Зюганов Геннадий Андреевич": 6,
-      "Медведев Дмитрий Анатольевич": 41
+      "gas:candidate-vibid:100100022245504": 2,
+      "gas:candidate-vibid:100100022247031": 14,
+      "gas:candidate-vibid:100100022247121": 6,
+      "gas:candidate-vibid:100100022248789": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122544&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122544&type=227",
@@ -12239,10 +12239,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 1,
-      "Жириновский Владимир Вольфович": 17,
-      "Зюганов Геннадий Андреевич": 12,
-      "Медведев Дмитрий Анатольевич": 90
+      "gas:candidate-vibid:100100022245504": 1,
+      "gas:candidate-vibid:100100022247031": 17,
+      "gas:candidate-vibid:100100022247121": 12,
+      "gas:candidate-vibid:100100022248789": 90
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122544&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122544&type=227",
@@ -12289,10 +12289,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 3,
-      "Жириновский Владимир Вольфович": 13,
-      "Зюганов Геннадий Андреевич": 27,
-      "Медведев Дмитрий Анатольевич": 67
+      "gas:candidate-vibid:100100022245504": 3,
+      "gas:candidate-vibid:100100022247031": 13,
+      "gas:candidate-vibid:100100022247121": 27,
+      "gas:candidate-vibid:100100022248789": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122544&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122544&type=227",
@@ -12339,10 +12339,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 1,
-      "Жириновский Владимир Вольфович": 11,
-      "Зюганов Геннадий Андреевич": 6,
-      "Медведев Дмитрий Анатольевич": 70
+      "gas:candidate-vibid:100100022245504": 1,
+      "gas:candidate-vibid:100100022247031": 11,
+      "gas:candidate-vibid:100100022247121": 6,
+      "gas:candidate-vibid:100100022248789": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122544&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122544&type=227",
@@ -12389,10 +12389,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 28,
-      "Зюганов Геннадий Андреевич": 16,
-      "Медведев Дмитрий Анатольевич": 55
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 28,
+      "gas:candidate-vibid:100100022247121": 16,
+      "gas:candidate-vibid:100100022248789": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122544&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122544&type=227",
@@ -12439,10 +12439,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 1,
-      "Жириновский Владимир Вольфович": 32,
-      "Зюганов Геннадий Андреевич": 12,
-      "Медведев Дмитрий Анатольевич": 126
+      "gas:candidate-vibid:100100022245504": 1,
+      "gas:candidate-vibid:100100022247031": 32,
+      "gas:candidate-vibid:100100022247121": 12,
+      "gas:candidate-vibid:100100022248789": 126
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122544&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122544&type=227",
@@ -12489,10 +12489,10 @@ export const president_2008_uik_226_region_91_part_001 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 3,
-      "Жириновский Владимир Вольфович": 20,
-      "Зюганов Геннадий Андреевич": 9,
-      "Медведев Дмитрий Анатольевич": 80
+      "gas:candidate-vibid:100100022245504": 3,
+      "gas:candidate-vibid:100100022247031": 20,
+      "gas:candidate-vibid:100100022247121": 9,
+      "gas:candidate-vibid:100100022248789": 80
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kamchatka-krai?action=show&root=1000083&tvd=2412000122544&vrn=100100022176412&region=91&global=&sub_region=91&prver=0&pronetvd=null&vibid=2412000122544&type=227",

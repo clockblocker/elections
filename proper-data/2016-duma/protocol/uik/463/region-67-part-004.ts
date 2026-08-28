@@ -43,16 +43,16 @@ export const duma_2016_uik_463_region_67_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алхимов Сергей Анатольевич": 5,
-      "Крайнов Артем Александрович": 2,
-      "Лебедев Сергей Александрович": 8,
-      "Леонов Сергей Дмитриевич": 55,
-      "Митрофаненков Андрей Николаевич": 64,
-      "Окунева Ольга Владимировна": 274,
-      "Протасов Алексей Александрович": 10,
-      "Ревенко Сергей Евгениевич": 1,
-      "Савченков Дмитрий Викторович": 4,
-      "Юхименко Павел Игоревич": 3
+      "gas:candidate-vibid:2672000848488": 5,
+      "gas:candidate-vibid:2672000850115": 2,
+      "gas:candidate-vibid:2672000847050": 8,
+      "gas:candidate-vibid:2672000821670": 55,
+      "gas:candidate-vibid:2672000848448": 64,
+      "gas:candidate-vibid:2672000850284": 274,
+      "gas:candidate-vibid:2672000849817": 10,
+      "gas:candidate-vibid:2672000850033": 1,
+      "gas:candidate-vibid:2672000849744": 4,
+      "gas:candidate-vibid:2672000850164": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/smolensk?action=show&root=1000231&tvd=2672000788079&vrn=100100067795849&region=67&global=&sub_region=67&prver=0&pronetvd=null&vibid=2672000788079&type=464",
@@ -103,16 +103,16 @@ export const duma_2016_uik_463_region_67_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алхимов Сергей Анатольевич": 2,
-      "Крайнов Артем Александрович": 0,
-      "Лебедев Сергей Александрович": 3,
-      "Леонов Сергей Дмитриевич": 8,
-      "Митрофаненков Андрей Николаевич": 6,
-      "Окунева Ольга Владимировна": 77,
-      "Протасов Алексей Александрович": 3,
-      "Ревенко Сергей Евгениевич": 0,
-      "Савченков Дмитрий Викторович": 1,
-      "Юхименко Павел Игоревич": 0
+      "gas:candidate-vibid:2672000848488": 2,
+      "gas:candidate-vibid:2672000850115": 0,
+      "gas:candidate-vibid:2672000847050": 3,
+      "gas:candidate-vibid:2672000821670": 8,
+      "gas:candidate-vibid:2672000848448": 6,
+      "gas:candidate-vibid:2672000850284": 77,
+      "gas:candidate-vibid:2672000849817": 3,
+      "gas:candidate-vibid:2672000850033": 0,
+      "gas:candidate-vibid:2672000849744": 1,
+      "gas:candidate-vibid:2672000850164": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/smolensk?action=show&root=1000231&tvd=2672000788079&vrn=100100067795849&region=67&global=&sub_region=67&prver=0&pronetvd=null&vibid=2672000788079&type=464",
@@ -163,16 +163,16 @@ export const duma_2016_uik_463_region_67_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алхимов Сергей Анатольевич": 2,
-      "Крайнов Артем Александрович": 0,
-      "Лебедев Сергей Александрович": 4,
-      "Леонов Сергей Дмитриевич": 17,
-      "Митрофаненков Андрей Николаевич": 15,
-      "Окунева Ольга Владимировна": 87,
-      "Протасов Алексей Александрович": 1,
-      "Ревенко Сергей Евгениевич": 0,
-      "Савченков Дмитрий Викторович": 0,
-      "Юхименко Павел Игоревич": 0
+      "gas:candidate-vibid:2672000848488": 2,
+      "gas:candidate-vibid:2672000850115": 0,
+      "gas:candidate-vibid:2672000847050": 4,
+      "gas:candidate-vibid:2672000821670": 17,
+      "gas:candidate-vibid:2672000848448": 15,
+      "gas:candidate-vibid:2672000850284": 87,
+      "gas:candidate-vibid:2672000849817": 1,
+      "gas:candidate-vibid:2672000850033": 0,
+      "gas:candidate-vibid:2672000849744": 0,
+      "gas:candidate-vibid:2672000850164": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/smolensk?action=show&root=1000231&tvd=2672000788079&vrn=100100067795849&region=67&global=&sub_region=67&prver=0&pronetvd=null&vibid=2672000788079&type=464",
@@ -223,16 +223,16 @@ export const duma_2016_uik_463_region_67_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алхимов Сергей Анатольевич": 2,
-      "Крайнов Артем Александрович": 1,
-      "Лебедев Сергей Александрович": 17,
-      "Леонов Сергей Дмитриевич": 28,
-      "Митрофаненков Андрей Николаевич": 20,
-      "Окунева Ольга Владимировна": 255,
-      "Протасов Алексей Александрович": 6,
-      "Ревенко Сергей Евгениевич": 4,
-      "Савченков Дмитрий Викторович": 1,
-      "Юхименко Павел Игоревич": 0
+      "gas:candidate-vibid:2672000848488": 2,
+      "gas:candidate-vibid:2672000850115": 1,
+      "gas:candidate-vibid:2672000847050": 17,
+      "gas:candidate-vibid:2672000821670": 28,
+      "gas:candidate-vibid:2672000848448": 20,
+      "gas:candidate-vibid:2672000850284": 255,
+      "gas:candidate-vibid:2672000849817": 6,
+      "gas:candidate-vibid:2672000850033": 4,
+      "gas:candidate-vibid:2672000849744": 1,
+      "gas:candidate-vibid:2672000850164": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/smolensk?action=show&root=1000231&tvd=2672000788079&vrn=100100067795849&region=67&global=&sub_region=67&prver=0&pronetvd=null&vibid=2672000788079&type=464",
@@ -283,16 +283,16 @@ export const duma_2016_uik_463_region_67_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алхимов Сергей Анатольевич": 1,
-      "Крайнов Артем Александрович": 0,
-      "Лебедев Сергей Александрович": 4,
-      "Леонов Сергей Дмитриевич": 14,
-      "Митрофаненков Андрей Николаевич": 21,
-      "Окунева Ольга Владимировна": 118,
-      "Протасов Алексей Александрович": 3,
-      "Ревенко Сергей Евгениевич": 0,
-      "Савченков Дмитрий Викторович": 3,
-      "Юхименко Павел Игоревич": 0
+      "gas:candidate-vibid:2672000848488": 1,
+      "gas:candidate-vibid:2672000850115": 0,
+      "gas:candidate-vibid:2672000847050": 4,
+      "gas:candidate-vibid:2672000821670": 14,
+      "gas:candidate-vibid:2672000848448": 21,
+      "gas:candidate-vibid:2672000850284": 118,
+      "gas:candidate-vibid:2672000849817": 3,
+      "gas:candidate-vibid:2672000850033": 0,
+      "gas:candidate-vibid:2672000849744": 3,
+      "gas:candidate-vibid:2672000850164": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/smolensk?action=show&root=1000231&tvd=2672000788079&vrn=100100067795849&region=67&global=&sub_region=67&prver=0&pronetvd=null&vibid=2672000788079&type=464",
@@ -343,16 +343,16 @@ export const duma_2016_uik_463_region_67_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алхимов Сергей Анатольевич": 0,
-      "Крайнов Артем Александрович": 2,
-      "Лебедев Сергей Александрович": 1,
-      "Леонов Сергей Дмитриевич": 9,
-      "Митрофаненков Андрей Николаевич": 18,
-      "Окунева Ольга Владимировна": 106,
-      "Протасов Алексей Александрович": 2,
-      "Ревенко Сергей Евгениевич": 1,
-      "Савченков Дмитрий Викторович": 0,
-      "Юхименко Павел Игоревич": 1
+      "gas:candidate-vibid:2672000848488": 0,
+      "gas:candidate-vibid:2672000850115": 2,
+      "gas:candidate-vibid:2672000847050": 1,
+      "gas:candidate-vibid:2672000821670": 9,
+      "gas:candidate-vibid:2672000848448": 18,
+      "gas:candidate-vibid:2672000850284": 106,
+      "gas:candidate-vibid:2672000849817": 2,
+      "gas:candidate-vibid:2672000850033": 1,
+      "gas:candidate-vibid:2672000849744": 0,
+      "gas:candidate-vibid:2672000850164": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/smolensk?action=show&root=1000231&tvd=2672000788079&vrn=100100067795849&region=67&global=&sub_region=67&prver=0&pronetvd=null&vibid=2672000788079&type=464",
@@ -403,16 +403,16 @@ export const duma_2016_uik_463_region_67_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алхимов Сергей Анатольевич": 1,
-      "Крайнов Артем Александрович": 0,
-      "Лебедев Сергей Александрович": 3,
-      "Леонов Сергей Дмитриевич": 7,
-      "Митрофаненков Андрей Николаевич": 9,
-      "Окунева Ольга Владимировна": 66,
-      "Протасов Алексей Александрович": 4,
-      "Ревенко Сергей Евгениевич": 1,
-      "Савченков Дмитрий Викторович": 0,
-      "Юхименко Павел Игоревич": 1
+      "gas:candidate-vibid:2672000848488": 1,
+      "gas:candidate-vibid:2672000850115": 0,
+      "gas:candidate-vibid:2672000847050": 3,
+      "gas:candidate-vibid:2672000821670": 7,
+      "gas:candidate-vibid:2672000848448": 9,
+      "gas:candidate-vibid:2672000850284": 66,
+      "gas:candidate-vibid:2672000849817": 4,
+      "gas:candidate-vibid:2672000850033": 1,
+      "gas:candidate-vibid:2672000849744": 0,
+      "gas:candidate-vibid:2672000850164": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/smolensk?action=show&root=1000231&tvd=2672000788079&vrn=100100067795849&region=67&global=&sub_region=67&prver=0&pronetvd=null&vibid=2672000788079&type=464",
@@ -463,16 +463,16 @@ export const duma_2016_uik_463_region_67_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алхимов Сергей Анатольевич": 2,
-      "Крайнов Артем Александрович": 0,
-      "Лебедев Сергей Александрович": 2,
-      "Леонов Сергей Дмитриевич": 7,
-      "Митрофаненков Андрей Николаевич": 7,
-      "Окунева Ольга Владимировна": 69,
-      "Протасов Алексей Александрович": 7,
-      "Ревенко Сергей Евгениевич": 1,
-      "Савченков Дмитрий Викторович": 0,
-      "Юхименко Павел Игоревич": 0
+      "gas:candidate-vibid:2672000848488": 2,
+      "gas:candidate-vibid:2672000850115": 0,
+      "gas:candidate-vibid:2672000847050": 2,
+      "gas:candidate-vibid:2672000821670": 7,
+      "gas:candidate-vibid:2672000848448": 7,
+      "gas:candidate-vibid:2672000850284": 69,
+      "gas:candidate-vibid:2672000849817": 7,
+      "gas:candidate-vibid:2672000850033": 1,
+      "gas:candidate-vibid:2672000849744": 0,
+      "gas:candidate-vibid:2672000850164": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/smolensk?action=show&root=1000231&tvd=2672000788079&vrn=100100067795849&region=67&global=&sub_region=67&prver=0&pronetvd=null&vibid=2672000788079&type=464",
@@ -523,16 +523,16 @@ export const duma_2016_uik_463_region_67_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алхимов Сергей Анатольевич": 2,
-      "Крайнов Артем Александрович": 1,
-      "Лебедев Сергей Александрович": 9,
-      "Леонов Сергей Дмитриевич": 14,
-      "Митрофаненков Андрей Николаевич": 27,
-      "Окунева Ольга Владимировна": 83,
-      "Протасов Алексей Александрович": 4,
-      "Ревенко Сергей Евгениевич": 1,
-      "Савченков Дмитрий Викторович": 2,
-      "Юхименко Павел Игоревич": 1
+      "gas:candidate-vibid:2672000848488": 2,
+      "gas:candidate-vibid:2672000850115": 1,
+      "gas:candidate-vibid:2672000847050": 9,
+      "gas:candidate-vibid:2672000821670": 14,
+      "gas:candidate-vibid:2672000848448": 27,
+      "gas:candidate-vibid:2672000850284": 83,
+      "gas:candidate-vibid:2672000849817": 4,
+      "gas:candidate-vibid:2672000850033": 1,
+      "gas:candidate-vibid:2672000849744": 2,
+      "gas:candidate-vibid:2672000850164": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/smolensk?action=show&root=1000231&tvd=2672000788079&vrn=100100067795849&region=67&global=&sub_region=67&prver=0&pronetvd=null&vibid=2672000788079&type=464",
@@ -583,16 +583,16 @@ export const duma_2016_uik_463_region_67_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алхимов Сергей Анатольевич": 1,
-      "Крайнов Артем Александрович": 0,
-      "Лебедев Сергей Александрович": 2,
-      "Леонов Сергей Дмитриевич": 11,
-      "Митрофаненков Андрей Николаевич": 5,
-      "Окунева Ольга Владимировна": 48,
-      "Протасов Алексей Александрович": 0,
-      "Ревенко Сергей Евгениевич": 0,
-      "Савченков Дмитрий Викторович": 1,
-      "Юхименко Павел Игоревич": 0
+      "gas:candidate-vibid:2672000848488": 1,
+      "gas:candidate-vibid:2672000850115": 0,
+      "gas:candidate-vibid:2672000847050": 2,
+      "gas:candidate-vibid:2672000821670": 11,
+      "gas:candidate-vibid:2672000848448": 5,
+      "gas:candidate-vibid:2672000850284": 48,
+      "gas:candidate-vibid:2672000849817": 0,
+      "gas:candidate-vibid:2672000850033": 0,
+      "gas:candidate-vibid:2672000849744": 1,
+      "gas:candidate-vibid:2672000850164": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/smolensk?action=show&root=1000231&tvd=2672000788079&vrn=100100067795849&region=67&global=&sub_region=67&prver=0&pronetvd=null&vibid=2672000788079&type=464",
@@ -643,16 +643,16 @@ export const duma_2016_uik_463_region_67_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алхимов Сергей Анатольевич": 5,
-      "Крайнов Артем Александрович": 0,
-      "Лебедев Сергей Александрович": 6,
-      "Леонов Сергей Дмитриевич": 6,
-      "Митрофаненков Андрей Николаевич": 15,
-      "Окунева Ольга Владимировна": 85,
-      "Протасов Алексей Александрович": 9,
-      "Ревенко Сергей Евгениевич": 0,
-      "Савченков Дмитрий Викторович": 0,
-      "Юхименко Павел Игоревич": 0
+      "gas:candidate-vibid:2672000848488": 5,
+      "gas:candidate-vibid:2672000850115": 0,
+      "gas:candidate-vibid:2672000847050": 6,
+      "gas:candidate-vibid:2672000821670": 6,
+      "gas:candidate-vibid:2672000848448": 15,
+      "gas:candidate-vibid:2672000850284": 85,
+      "gas:candidate-vibid:2672000849817": 9,
+      "gas:candidate-vibid:2672000850033": 0,
+      "gas:candidate-vibid:2672000849744": 0,
+      "gas:candidate-vibid:2672000850164": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/smolensk?action=show&root=1000231&tvd=2672000788079&vrn=100100067795849&region=67&global=&sub_region=67&prver=0&pronetvd=null&vibid=2672000788079&type=464",
@@ -703,16 +703,16 @@ export const duma_2016_uik_463_region_67_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алхимов Сергей Анатольевич": 0,
-      "Крайнов Артем Александрович": 0,
-      "Лебедев Сергей Александрович": 1,
-      "Леонов Сергей Дмитриевич": 10,
-      "Митрофаненков Андрей Николаевич": 4,
-      "Окунева Ольга Владимировна": 63,
-      "Протасов Алексей Александрович": 0,
-      "Ревенко Сергей Евгениевич": 0,
-      "Савченков Дмитрий Викторович": 1,
-      "Юхименко Павел Игоревич": 0
+      "gas:candidate-vibid:2672000848488": 0,
+      "gas:candidate-vibid:2672000850115": 0,
+      "gas:candidate-vibid:2672000847050": 1,
+      "gas:candidate-vibid:2672000821670": 10,
+      "gas:candidate-vibid:2672000848448": 4,
+      "gas:candidate-vibid:2672000850284": 63,
+      "gas:candidate-vibid:2672000849817": 0,
+      "gas:candidate-vibid:2672000850033": 0,
+      "gas:candidate-vibid:2672000849744": 1,
+      "gas:candidate-vibid:2672000850164": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/smolensk?action=show&root=1000231&tvd=2672000788079&vrn=100100067795849&region=67&global=&sub_region=67&prver=0&pronetvd=null&vibid=2672000788079&type=464",
@@ -763,16 +763,16 @@ export const duma_2016_uik_463_region_67_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алхимов Сергей Анатольевич": 9,
-      "Крайнов Артем Александрович": 2,
-      "Лебедев Сергей Александрович": 19,
-      "Леонов Сергей Дмитриевич": 77,
-      "Митрофаненков Андрей Николаевич": 263,
-      "Окунева Ольга Владимировна": 284,
-      "Протасов Алексей Александрович": 6,
-      "Ревенко Сергей Евгениевич": 2,
-      "Савченков Дмитрий Викторович": 4,
-      "Юхименко Павел Игоревич": 1
+      "gas:candidate-vibid:2672000848488": 9,
+      "gas:candidate-vibid:2672000850115": 2,
+      "gas:candidate-vibid:2672000847050": 19,
+      "gas:candidate-vibid:2672000821670": 77,
+      "gas:candidate-vibid:2672000848448": 263,
+      "gas:candidate-vibid:2672000850284": 284,
+      "gas:candidate-vibid:2672000849817": 6,
+      "gas:candidate-vibid:2672000850033": 2,
+      "gas:candidate-vibid:2672000849744": 4,
+      "gas:candidate-vibid:2672000850164": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/smolensk?action=show&root=1000231&tvd=2672000788080&vrn=100100067795849&region=67&global=&sub_region=67&prver=0&pronetvd=null&vibid=2672000788080&type=464",
@@ -823,16 +823,16 @@ export const duma_2016_uik_463_region_67_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алхимов Сергей Анатольевич": 3,
-      "Крайнов Артем Александрович": 3,
-      "Лебедев Сергей Александрович": 5,
-      "Леонов Сергей Дмитриевич": 50,
-      "Митрофаненков Андрей Николаевич": 169,
-      "Окунева Ольга Владимировна": 203,
-      "Протасов Алексей Александрович": 11,
-      "Ревенко Сергей Евгениевич": 1,
-      "Савченков Дмитрий Викторович": 0,
-      "Юхименко Павел Игоревич": 0
+      "gas:candidate-vibid:2672000848488": 3,
+      "gas:candidate-vibid:2672000850115": 3,
+      "gas:candidate-vibid:2672000847050": 5,
+      "gas:candidate-vibid:2672000821670": 50,
+      "gas:candidate-vibid:2672000848448": 169,
+      "gas:candidate-vibid:2672000850284": 203,
+      "gas:candidate-vibid:2672000849817": 11,
+      "gas:candidate-vibid:2672000850033": 1,
+      "gas:candidate-vibid:2672000849744": 0,
+      "gas:candidate-vibid:2672000850164": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/smolensk?action=show&root=1000231&tvd=2672000788080&vrn=100100067795849&region=67&global=&sub_region=67&prver=0&pronetvd=null&vibid=2672000788080&type=464",
@@ -883,16 +883,16 @@ export const duma_2016_uik_463_region_67_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алхимов Сергей Анатольевич": 8,
-      "Крайнов Артем Александрович": 2,
-      "Лебедев Сергей Александрович": 13,
-      "Леонов Сергей Дмитриевич": 58,
-      "Митрофаненков Андрей Николаевич": 199,
-      "Окунева Ольга Владимировна": 269,
-      "Протасов Алексей Александрович": 6,
-      "Ревенко Сергей Евгениевич": 4,
-      "Савченков Дмитрий Викторович": 6,
-      "Юхименко Павел Игоревич": 1
+      "gas:candidate-vibid:2672000848488": 8,
+      "gas:candidate-vibid:2672000850115": 2,
+      "gas:candidate-vibid:2672000847050": 13,
+      "gas:candidate-vibid:2672000821670": 58,
+      "gas:candidate-vibid:2672000848448": 199,
+      "gas:candidate-vibid:2672000850284": 269,
+      "gas:candidate-vibid:2672000849817": 6,
+      "gas:candidate-vibid:2672000850033": 4,
+      "gas:candidate-vibid:2672000849744": 6,
+      "gas:candidate-vibid:2672000850164": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/smolensk?action=show&root=1000231&tvd=2672000788080&vrn=100100067795849&region=67&global=&sub_region=67&prver=0&pronetvd=null&vibid=2672000788080&type=464",
@@ -943,16 +943,16 @@ export const duma_2016_uik_463_region_67_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алхимов Сергей Анатольевич": 5,
-      "Крайнов Артем Александрович": 1,
-      "Лебедев Сергей Александрович": 12,
-      "Леонов Сергей Дмитриевич": 50,
-      "Митрофаненков Андрей Николаевич": 173,
-      "Окунева Ольга Владимировна": 192,
-      "Протасов Алексей Александрович": 4,
-      "Ревенко Сергей Евгениевич": 2,
-      "Савченков Дмитрий Викторович": 4,
-      "Юхименко Павел Игоревич": 1
+      "gas:candidate-vibid:2672000848488": 5,
+      "gas:candidate-vibid:2672000850115": 1,
+      "gas:candidate-vibid:2672000847050": 12,
+      "gas:candidate-vibid:2672000821670": 50,
+      "gas:candidate-vibid:2672000848448": 173,
+      "gas:candidate-vibid:2672000850284": 192,
+      "gas:candidate-vibid:2672000849817": 4,
+      "gas:candidate-vibid:2672000850033": 2,
+      "gas:candidate-vibid:2672000849744": 4,
+      "gas:candidate-vibid:2672000850164": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/smolensk?action=show&root=1000231&tvd=2672000788080&vrn=100100067795849&region=67&global=&sub_region=67&prver=0&pronetvd=null&vibid=2672000788080&type=464",
@@ -1003,16 +1003,16 @@ export const duma_2016_uik_463_region_67_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алхимов Сергей Анатольевич": 9,
-      "Крайнов Артем Александрович": 8,
-      "Лебедев Сергей Александрович": 31,
-      "Леонов Сергей Дмитриевич": 74,
-      "Митрофаненков Андрей Николаевич": 154,
-      "Окунева Ольга Владимировна": 310,
-      "Протасов Алексей Александрович": 9,
-      "Ревенко Сергей Евгениевич": 4,
-      "Савченков Дмитрий Викторович": 10,
-      "Юхименко Павел Игоревич": 3
+      "gas:candidate-vibid:2672000848488": 9,
+      "gas:candidate-vibid:2672000850115": 8,
+      "gas:candidate-vibid:2672000847050": 31,
+      "gas:candidate-vibid:2672000821670": 74,
+      "gas:candidate-vibid:2672000848448": 154,
+      "gas:candidate-vibid:2672000850284": 310,
+      "gas:candidate-vibid:2672000849817": 9,
+      "gas:candidate-vibid:2672000850033": 4,
+      "gas:candidate-vibid:2672000849744": 10,
+      "gas:candidate-vibid:2672000850164": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/smolensk?action=show&root=1000231&tvd=2672000788080&vrn=100100067795849&region=67&global=&sub_region=67&prver=0&pronetvd=null&vibid=2672000788080&type=464",
@@ -1063,16 +1063,16 @@ export const duma_2016_uik_463_region_67_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алхимов Сергей Анатольевич": 0,
-      "Крайнов Артем Александрович": 1,
-      "Лебедев Сергей Александрович": 1,
-      "Леонов Сергей Дмитриевич": 13,
-      "Митрофаненков Андрей Николаевич": 27,
-      "Окунева Ольга Владимировна": 23,
-      "Протасов Алексей Александрович": 1,
-      "Ревенко Сергей Евгениевич": 0,
-      "Савченков Дмитрий Викторович": 1,
-      "Юхименко Павел Игоревич": 0
+      "gas:candidate-vibid:2672000848488": 0,
+      "gas:candidate-vibid:2672000850115": 1,
+      "gas:candidate-vibid:2672000847050": 1,
+      "gas:candidate-vibid:2672000821670": 13,
+      "gas:candidate-vibid:2672000848448": 27,
+      "gas:candidate-vibid:2672000850284": 23,
+      "gas:candidate-vibid:2672000849817": 1,
+      "gas:candidate-vibid:2672000850033": 0,
+      "gas:candidate-vibid:2672000849744": 1,
+      "gas:candidate-vibid:2672000850164": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/smolensk?action=show&root=1000231&tvd=2672000788080&vrn=100100067795849&region=67&global=&sub_region=67&prver=0&pronetvd=null&vibid=2672000788080&type=464",
@@ -1123,16 +1123,16 @@ export const duma_2016_uik_463_region_67_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алхимов Сергей Анатольевич": 0,
-      "Крайнов Артем Александрович": 0,
-      "Лебедев Сергей Александрович": 0,
-      "Леонов Сергей Дмитриевич": 6,
-      "Митрофаненков Андрей Николаевич": 28,
-      "Окунева Ольга Владимировна": 40,
-      "Протасов Алексей Александрович": 0,
-      "Ревенко Сергей Евгениевич": 1,
-      "Савченков Дмитрий Викторович": 0,
-      "Юхименко Павел Игоревич": 0
+      "gas:candidate-vibid:2672000848488": 0,
+      "gas:candidate-vibid:2672000850115": 0,
+      "gas:candidate-vibid:2672000847050": 0,
+      "gas:candidate-vibid:2672000821670": 6,
+      "gas:candidate-vibid:2672000848448": 28,
+      "gas:candidate-vibid:2672000850284": 40,
+      "gas:candidate-vibid:2672000849817": 0,
+      "gas:candidate-vibid:2672000850033": 1,
+      "gas:candidate-vibid:2672000849744": 0,
+      "gas:candidate-vibid:2672000850164": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/smolensk?action=show&root=1000231&tvd=2672000788080&vrn=100100067795849&region=67&global=&sub_region=67&prver=0&pronetvd=null&vibid=2672000788080&type=464",
@@ -1183,16 +1183,16 @@ export const duma_2016_uik_463_region_67_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алхимов Сергей Анатольевич": 1,
-      "Крайнов Артем Александрович": 1,
-      "Лебедев Сергей Александрович": 1,
-      "Леонов Сергей Дмитриевич": 8,
-      "Митрофаненков Андрей Николаевич": 5,
-      "Окунева Ольга Владимировна": 43,
-      "Протасов Алексей Александрович": 0,
-      "Ревенко Сергей Евгениевич": 1,
-      "Савченков Дмитрий Викторович": 1,
-      "Юхименко Павел Игоревич": 1
+      "gas:candidate-vibid:2672000848488": 1,
+      "gas:candidate-vibid:2672000850115": 1,
+      "gas:candidate-vibid:2672000847050": 1,
+      "gas:candidate-vibid:2672000821670": 8,
+      "gas:candidate-vibid:2672000848448": 5,
+      "gas:candidate-vibid:2672000850284": 43,
+      "gas:candidate-vibid:2672000849817": 0,
+      "gas:candidate-vibid:2672000850033": 1,
+      "gas:candidate-vibid:2672000849744": 1,
+      "gas:candidate-vibid:2672000850164": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/smolensk?action=show&root=1000231&tvd=2672000788080&vrn=100100067795849&region=67&global=&sub_region=67&prver=0&pronetvd=null&vibid=2672000788080&type=464",
@@ -1243,16 +1243,16 @@ export const duma_2016_uik_463_region_67_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алхимов Сергей Анатольевич": 1,
-      "Крайнов Артем Александрович": 0,
-      "Лебедев Сергей Александрович": 5,
-      "Леонов Сергей Дмитриевич": 17,
-      "Митрофаненков Андрей Николаевич": 44,
-      "Окунева Ольга Владимировна": 146,
-      "Протасов Алексей Александрович": 4,
-      "Ревенко Сергей Евгениевич": 0,
-      "Савченков Дмитрий Викторович": 4,
-      "Юхименко Павел Игоревич": 1
+      "gas:candidate-vibid:2672000848488": 1,
+      "gas:candidate-vibid:2672000850115": 0,
+      "gas:candidate-vibid:2672000847050": 5,
+      "gas:candidate-vibid:2672000821670": 17,
+      "gas:candidate-vibid:2672000848448": 44,
+      "gas:candidate-vibid:2672000850284": 146,
+      "gas:candidate-vibid:2672000849817": 4,
+      "gas:candidate-vibid:2672000850033": 0,
+      "gas:candidate-vibid:2672000849744": 4,
+      "gas:candidate-vibid:2672000850164": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/smolensk?action=show&root=1000231&tvd=2672000788080&vrn=100100067795849&region=67&global=&sub_region=67&prver=0&pronetvd=null&vibid=2672000788080&type=464",
@@ -1303,16 +1303,16 @@ export const duma_2016_uik_463_region_67_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алхимов Сергей Анатольевич": 0,
-      "Крайнов Артем Александрович": 0,
-      "Лебедев Сергей Александрович": 3,
-      "Леонов Сергей Дмитриевич": 2,
-      "Митрофаненков Андрей Николаевич": 11,
-      "Окунева Ольга Владимировна": 32,
-      "Протасов Алексей Александрович": 3,
-      "Ревенко Сергей Евгениевич": 0,
-      "Савченков Дмитрий Викторович": 0,
-      "Юхименко Павел Игоревич": 0
+      "gas:candidate-vibid:2672000848488": 0,
+      "gas:candidate-vibid:2672000850115": 0,
+      "gas:candidate-vibid:2672000847050": 3,
+      "gas:candidate-vibid:2672000821670": 2,
+      "gas:candidate-vibid:2672000848448": 11,
+      "gas:candidate-vibid:2672000850284": 32,
+      "gas:candidate-vibid:2672000849817": 3,
+      "gas:candidate-vibid:2672000850033": 0,
+      "gas:candidate-vibid:2672000849744": 0,
+      "gas:candidate-vibid:2672000850164": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/smolensk?action=show&root=1000231&tvd=2672000788080&vrn=100100067795849&region=67&global=&sub_region=67&prver=0&pronetvd=null&vibid=2672000788080&type=464",
@@ -1363,16 +1363,16 @@ export const duma_2016_uik_463_region_67_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алхимов Сергей Анатольевич": 0,
-      "Крайнов Артем Александрович": 1,
-      "Лебедев Сергей Александрович": 4,
-      "Леонов Сергей Дмитриевич": 25,
-      "Митрофаненков Андрей Николаевич": 23,
-      "Окунева Ольга Владимировна": 44,
-      "Протасов Алексей Александрович": 1,
-      "Ревенко Сергей Евгениевич": 0,
-      "Савченков Дмитрий Викторович": 1,
-      "Юхименко Павел Игоревич": 1
+      "gas:candidate-vibid:2672000848488": 0,
+      "gas:candidate-vibid:2672000850115": 1,
+      "gas:candidate-vibid:2672000847050": 4,
+      "gas:candidate-vibid:2672000821670": 25,
+      "gas:candidate-vibid:2672000848448": 23,
+      "gas:candidate-vibid:2672000850284": 44,
+      "gas:candidate-vibid:2672000849817": 1,
+      "gas:candidate-vibid:2672000850033": 0,
+      "gas:candidate-vibid:2672000849744": 1,
+      "gas:candidate-vibid:2672000850164": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/smolensk?action=show&root=1000231&tvd=2672000788080&vrn=100100067795849&region=67&global=&sub_region=67&prver=0&pronetvd=null&vibid=2672000788080&type=464",
@@ -1423,16 +1423,16 @@ export const duma_2016_uik_463_region_67_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алхимов Сергей Анатольевич": 2,
-      "Крайнов Артем Александрович": 0,
-      "Лебедев Сергей Александрович": 1,
-      "Леонов Сергей Дмитриевич": 6,
-      "Митрофаненков Андрей Николаевич": 11,
-      "Окунева Ольга Владимировна": 36,
-      "Протасов Алексей Александрович": 0,
-      "Ревенко Сергей Евгениевич": 0,
-      "Савченков Дмитрий Викторович": 0,
-      "Юхименко Павел Игоревич": 0
+      "gas:candidate-vibid:2672000848488": 2,
+      "gas:candidate-vibid:2672000850115": 0,
+      "gas:candidate-vibid:2672000847050": 1,
+      "gas:candidate-vibid:2672000821670": 6,
+      "gas:candidate-vibid:2672000848448": 11,
+      "gas:candidate-vibid:2672000850284": 36,
+      "gas:candidate-vibid:2672000849817": 0,
+      "gas:candidate-vibid:2672000850033": 0,
+      "gas:candidate-vibid:2672000849744": 0,
+      "gas:candidate-vibid:2672000850164": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/smolensk?action=show&root=1000231&tvd=2672000788080&vrn=100100067795849&region=67&global=&sub_region=67&prver=0&pronetvd=null&vibid=2672000788080&type=464",
@@ -1483,16 +1483,16 @@ export const duma_2016_uik_463_region_67_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алхимов Сергей Анатольевич": 2,
-      "Крайнов Артем Александрович": 0,
-      "Лебедев Сергей Александрович": 6,
-      "Леонов Сергей Дмитриевич": 14,
-      "Митрофаненков Андрей Николаевич": 40,
-      "Окунева Ольга Владимировна": 87,
-      "Протасов Алексей Александрович": 1,
-      "Ревенко Сергей Евгениевич": 0,
-      "Савченков Дмитрий Викторович": 0,
-      "Юхименко Павел Игоревич": 0
+      "gas:candidate-vibid:2672000848488": 2,
+      "gas:candidate-vibid:2672000850115": 0,
+      "gas:candidate-vibid:2672000847050": 6,
+      "gas:candidate-vibid:2672000821670": 14,
+      "gas:candidate-vibid:2672000848448": 40,
+      "gas:candidate-vibid:2672000850284": 87,
+      "gas:candidate-vibid:2672000849817": 1,
+      "gas:candidate-vibid:2672000850033": 0,
+      "gas:candidate-vibid:2672000849744": 0,
+      "gas:candidate-vibid:2672000850164": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/smolensk?action=show&root=1000231&tvd=2672000788080&vrn=100100067795849&region=67&global=&sub_region=67&prver=0&pronetvd=null&vibid=2672000788080&type=464",
@@ -1543,16 +1543,16 @@ export const duma_2016_uik_463_region_67_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алхимов Сергей Анатольевич": 1,
-      "Крайнов Артем Александрович": 0,
-      "Лебедев Сергей Александрович": 0,
-      "Леонов Сергей Дмитриевич": 1,
-      "Митрофаненков Андрей Николаевич": 8,
-      "Окунева Ольга Владимировна": 30,
-      "Протасов Алексей Александрович": 1,
-      "Ревенко Сергей Евгениевич": 0,
-      "Савченков Дмитрий Викторович": 0,
-      "Юхименко Павел Игоревич": 0
+      "gas:candidate-vibid:2672000848488": 1,
+      "gas:candidate-vibid:2672000850115": 0,
+      "gas:candidate-vibid:2672000847050": 0,
+      "gas:candidate-vibid:2672000821670": 1,
+      "gas:candidate-vibid:2672000848448": 8,
+      "gas:candidate-vibid:2672000850284": 30,
+      "gas:candidate-vibid:2672000849817": 1,
+      "gas:candidate-vibid:2672000850033": 0,
+      "gas:candidate-vibid:2672000849744": 0,
+      "gas:candidate-vibid:2672000850164": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/smolensk?action=show&root=1000231&tvd=2672000788080&vrn=100100067795849&region=67&global=&sub_region=67&prver=0&pronetvd=null&vibid=2672000788080&type=464",
@@ -1603,16 +1603,16 @@ export const duma_2016_uik_463_region_67_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алхимов Сергей Анатольевич": 0,
-      "Крайнов Артем Александрович": 0,
-      "Лебедев Сергей Александрович": 3,
-      "Леонов Сергей Дмитриевич": 5,
-      "Митрофаненков Андрей Николаевич": 22,
-      "Окунева Ольга Владимировна": 37,
-      "Протасов Алексей Александрович": 0,
-      "Ревенко Сергей Евгениевич": 1,
-      "Савченков Дмитрий Викторович": 0,
-      "Юхименко Павел Игоревич": 0
+      "gas:candidate-vibid:2672000848488": 0,
+      "gas:candidate-vibid:2672000850115": 0,
+      "gas:candidate-vibid:2672000847050": 3,
+      "gas:candidate-vibid:2672000821670": 5,
+      "gas:candidate-vibid:2672000848448": 22,
+      "gas:candidate-vibid:2672000850284": 37,
+      "gas:candidate-vibid:2672000849817": 0,
+      "gas:candidate-vibid:2672000850033": 1,
+      "gas:candidate-vibid:2672000849744": 0,
+      "gas:candidate-vibid:2672000850164": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/smolensk?action=show&root=1000231&tvd=2672000788080&vrn=100100067795849&region=67&global=&sub_region=67&prver=0&pronetvd=null&vibid=2672000788080&type=464",
@@ -1663,16 +1663,16 @@ export const duma_2016_uik_463_region_67_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алхимов Сергей Анатольевич": 1,
-      "Крайнов Артем Александрович": 0,
-      "Лебедев Сергей Александрович": 2,
-      "Леонов Сергей Дмитриевич": 16,
-      "Митрофаненков Андрей Николаевич": 6,
-      "Окунева Ольга Владимировна": 26,
-      "Протасов Алексей Александрович": 2,
-      "Ревенко Сергей Евгениевич": 0,
-      "Савченков Дмитрий Викторович": 2,
-      "Юхименко Павел Игоревич": 0
+      "gas:candidate-vibid:2672000848488": 1,
+      "gas:candidate-vibid:2672000850115": 0,
+      "gas:candidate-vibid:2672000847050": 2,
+      "gas:candidate-vibid:2672000821670": 16,
+      "gas:candidate-vibid:2672000848448": 6,
+      "gas:candidate-vibid:2672000850284": 26,
+      "gas:candidate-vibid:2672000849817": 2,
+      "gas:candidate-vibid:2672000850033": 0,
+      "gas:candidate-vibid:2672000849744": 2,
+      "gas:candidate-vibid:2672000850164": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/smolensk?action=show&root=1000231&tvd=2672000788080&vrn=100100067795849&region=67&global=&sub_region=67&prver=0&pronetvd=null&vibid=2672000788080&type=464",
@@ -1723,16 +1723,16 @@ export const duma_2016_uik_463_region_67_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алхимов Сергей Анатольевич": 1,
-      "Крайнов Артем Александрович": 1,
-      "Лебедев Сергей Александрович": 4,
-      "Леонов Сергей Дмитриевич": 17,
-      "Митрофаненков Андрей Николаевич": 35,
-      "Окунева Ольга Владимировна": 68,
-      "Протасов Алексей Александрович": 2,
-      "Ревенко Сергей Евгениевич": 1,
-      "Савченков Дмитрий Викторович": 3,
-      "Юхименко Павел Игоревич": 0
+      "gas:candidate-vibid:2672000848488": 1,
+      "gas:candidate-vibid:2672000850115": 1,
+      "gas:candidate-vibid:2672000847050": 4,
+      "gas:candidate-vibid:2672000821670": 17,
+      "gas:candidate-vibid:2672000848448": 35,
+      "gas:candidate-vibid:2672000850284": 68,
+      "gas:candidate-vibid:2672000849817": 2,
+      "gas:candidate-vibid:2672000850033": 1,
+      "gas:candidate-vibid:2672000849744": 3,
+      "gas:candidate-vibid:2672000850164": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/smolensk?action=show&root=1000231&tvd=2672000788080&vrn=100100067795849&region=67&global=&sub_region=67&prver=0&pronetvd=null&vibid=2672000788080&type=464",
@@ -1783,16 +1783,16 @@ export const duma_2016_uik_463_region_67_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алхимов Сергей Анатольевич": 0,
-      "Крайнов Артем Александрович": 0,
-      "Лебедев Сергей Александрович": 1,
-      "Леонов Сергей Дмитриевич": 3,
-      "Митрофаненков Андрей Николаевич": 46,
-      "Окунева Ольга Владимировна": 46,
-      "Протасов Алексей Александрович": 1,
-      "Ревенко Сергей Евгениевич": 0,
-      "Савченков Дмитрий Викторович": 1,
-      "Юхименко Павел Игоревич": 0
+      "gas:candidate-vibid:2672000848488": 0,
+      "gas:candidate-vibid:2672000850115": 0,
+      "gas:candidate-vibid:2672000847050": 1,
+      "gas:candidate-vibid:2672000821670": 3,
+      "gas:candidate-vibid:2672000848448": 46,
+      "gas:candidate-vibid:2672000850284": 46,
+      "gas:candidate-vibid:2672000849817": 1,
+      "gas:candidate-vibid:2672000850033": 0,
+      "gas:candidate-vibid:2672000849744": 1,
+      "gas:candidate-vibid:2672000850164": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/smolensk?action=show&root=1000231&tvd=2672000788080&vrn=100100067795849&region=67&global=&sub_region=67&prver=0&pronetvd=null&vibid=2672000788080&type=464",
@@ -1843,16 +1843,16 @@ export const duma_2016_uik_463_region_67_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алхимов Сергей Анатольевич": 0,
-      "Крайнов Артем Александрович": 0,
-      "Лебедев Сергей Александрович": 0,
-      "Леонов Сергей Дмитриевич": 6,
-      "Митрофаненков Андрей Николаевич": 27,
-      "Окунева Ольга Владимировна": 34,
-      "Протасов Алексей Александрович": 0,
-      "Ревенко Сергей Евгениевич": 0,
-      "Савченков Дмитрий Викторович": 1,
-      "Юхименко Павел Игоревич": 0
+      "gas:candidate-vibid:2672000848488": 0,
+      "gas:candidate-vibid:2672000850115": 0,
+      "gas:candidate-vibid:2672000847050": 0,
+      "gas:candidate-vibid:2672000821670": 6,
+      "gas:candidate-vibid:2672000848448": 27,
+      "gas:candidate-vibid:2672000850284": 34,
+      "gas:candidate-vibid:2672000849817": 0,
+      "gas:candidate-vibid:2672000850033": 0,
+      "gas:candidate-vibid:2672000849744": 1,
+      "gas:candidate-vibid:2672000850164": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/smolensk?action=show&root=1000231&tvd=2672000788080&vrn=100100067795849&region=67&global=&sub_region=67&prver=0&pronetvd=null&vibid=2672000788080&type=464",
@@ -1903,16 +1903,16 @@ export const duma_2016_uik_463_region_67_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алхимов Сергей Анатольевич": 2,
-      "Крайнов Артем Александрович": 3,
-      "Лебедев Сергей Александрович": 5,
-      "Леонов Сергей Дмитриевич": 10,
-      "Митрофаненков Андрей Николаевич": 37,
-      "Окунева Ольга Владимировна": 69,
-      "Протасов Алексей Александрович": 0,
-      "Ревенко Сергей Евгениевич": 0,
-      "Савченков Дмитрий Викторович": 1,
-      "Юхименко Павел Игоревич": 0
+      "gas:candidate-vibid:2672000848488": 2,
+      "gas:candidate-vibid:2672000850115": 3,
+      "gas:candidate-vibid:2672000847050": 5,
+      "gas:candidate-vibid:2672000821670": 10,
+      "gas:candidate-vibid:2672000848448": 37,
+      "gas:candidate-vibid:2672000850284": 69,
+      "gas:candidate-vibid:2672000849817": 0,
+      "gas:candidate-vibid:2672000850033": 0,
+      "gas:candidate-vibid:2672000849744": 1,
+      "gas:candidate-vibid:2672000850164": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/smolensk?action=show&root=1000231&tvd=2672000788080&vrn=100100067795849&region=67&global=&sub_region=67&prver=0&pronetvd=null&vibid=2672000788080&type=464",
@@ -1963,16 +1963,16 @@ export const duma_2016_uik_463_region_67_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алхимов Сергей Анатольевич": 0,
-      "Крайнов Артем Александрович": 1,
-      "Лебедев Сергей Александрович": 0,
-      "Леонов Сергей Дмитриевич": 5,
-      "Митрофаненков Андрей Николаевич": 23,
-      "Окунева Ольга Владимировна": 69,
-      "Протасов Алексей Александрович": 0,
-      "Ревенко Сергей Евгениевич": 2,
-      "Савченков Дмитрий Викторович": 1,
-      "Юхименко Павел Игоревич": 0
+      "gas:candidate-vibid:2672000848488": 0,
+      "gas:candidate-vibid:2672000850115": 1,
+      "gas:candidate-vibid:2672000847050": 0,
+      "gas:candidate-vibid:2672000821670": 5,
+      "gas:candidate-vibid:2672000848448": 23,
+      "gas:candidate-vibid:2672000850284": 69,
+      "gas:candidate-vibid:2672000849817": 0,
+      "gas:candidate-vibid:2672000850033": 2,
+      "gas:candidate-vibid:2672000849744": 1,
+      "gas:candidate-vibid:2672000850164": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/smolensk?action=show&root=1000231&tvd=2672000788080&vrn=100100067795849&region=67&global=&sub_region=67&prver=0&pronetvd=null&vibid=2672000788080&type=464",
@@ -2023,16 +2023,16 @@ export const duma_2016_uik_463_region_67_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алхимов Сергей Анатольевич": 1,
-      "Крайнов Артем Александрович": 1,
-      "Лебедев Сергей Александрович": 1,
-      "Леонов Сергей Дмитриевич": 4,
-      "Митрофаненков Андрей Николаевич": 26,
-      "Окунева Ольга Владимировна": 30,
-      "Протасов Алексей Александрович": 1,
-      "Ревенко Сергей Евгениевич": 1,
-      "Савченков Дмитрий Викторович": 0,
-      "Юхименко Павел Игоревич": 0
+      "gas:candidate-vibid:2672000848488": 1,
+      "gas:candidate-vibid:2672000850115": 1,
+      "gas:candidate-vibid:2672000847050": 1,
+      "gas:candidate-vibid:2672000821670": 4,
+      "gas:candidate-vibid:2672000848448": 26,
+      "gas:candidate-vibid:2672000850284": 30,
+      "gas:candidate-vibid:2672000849817": 1,
+      "gas:candidate-vibid:2672000850033": 1,
+      "gas:candidate-vibid:2672000849744": 0,
+      "gas:candidate-vibid:2672000850164": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/smolensk?action=show&root=1000231&tvd=2672000788080&vrn=100100067795849&region=67&global=&sub_region=67&prver=0&pronetvd=null&vibid=2672000788080&type=464",
@@ -2083,16 +2083,16 @@ export const duma_2016_uik_463_region_67_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алхимов Сергей Анатольевич": 2,
-      "Крайнов Артем Александрович": 0,
-      "Лебедев Сергей Александрович": 4,
-      "Леонов Сергей Дмитриевич": 41,
-      "Митрофаненков Андрей Николаевич": 10,
-      "Окунева Ольга Владимировна": 123,
-      "Протасов Алексей Александрович": 1,
-      "Ревенко Сергей Евгениевич": 1,
-      "Савченков Дмитрий Викторович": 1,
-      "Юхименко Павел Игоревич": 0
+      "gas:candidate-vibid:2672000848488": 2,
+      "gas:candidate-vibid:2672000850115": 0,
+      "gas:candidate-vibid:2672000847050": 4,
+      "gas:candidate-vibid:2672000821670": 41,
+      "gas:candidate-vibid:2672000848448": 10,
+      "gas:candidate-vibid:2672000850284": 123,
+      "gas:candidate-vibid:2672000849817": 1,
+      "gas:candidate-vibid:2672000850033": 1,
+      "gas:candidate-vibid:2672000849744": 1,
+      "gas:candidate-vibid:2672000850164": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/smolensk?action=show&root=1000231&tvd=2672000788080&vrn=100100067795849&region=67&global=&sub_region=67&prver=0&pronetvd=null&vibid=2672000788080&type=464",
@@ -2143,16 +2143,16 @@ export const duma_2016_uik_463_region_67_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алхимов Сергей Анатольевич": 1,
-      "Крайнов Артем Александрович": 3,
-      "Лебедев Сергей Александрович": 3,
-      "Леонов Сергей Дмитриевич": 3,
-      "Митрофаненков Андрей Николаевич": 11,
-      "Окунева Ольга Владимировна": 69,
-      "Протасов Алексей Александрович": 0,
-      "Ревенко Сергей Евгениевич": 0,
-      "Савченков Дмитрий Викторович": 1,
-      "Юхименко Павел Игоревич": 0
+      "gas:candidate-vibid:2672000848488": 1,
+      "gas:candidate-vibid:2672000850115": 3,
+      "gas:candidate-vibid:2672000847050": 3,
+      "gas:candidate-vibid:2672000821670": 3,
+      "gas:candidate-vibid:2672000848448": 11,
+      "gas:candidate-vibid:2672000850284": 69,
+      "gas:candidate-vibid:2672000849817": 0,
+      "gas:candidate-vibid:2672000850033": 0,
+      "gas:candidate-vibid:2672000849744": 1,
+      "gas:candidate-vibid:2672000850164": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/smolensk?action=show&root=1000231&tvd=2672000788081&vrn=100100067795849&region=67&global=&sub_region=67&prver=0&pronetvd=null&vibid=2672000788081&type=464",
@@ -2203,16 +2203,16 @@ export const duma_2016_uik_463_region_67_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алхимов Сергей Анатольевич": 3,
-      "Крайнов Артем Александрович": 1,
-      "Лебедев Сергей Александрович": 5,
-      "Леонов Сергей Дмитриевич": 7,
-      "Митрофаненков Андрей Николаевич": 13,
-      "Окунева Ольга Владимировна": 82,
-      "Протасов Алексей Александрович": 2,
-      "Ревенко Сергей Евгениевич": 1,
-      "Савченков Дмитрий Викторович": 0,
-      "Юхименко Павел Игоревич": 0
+      "gas:candidate-vibid:2672000848488": 3,
+      "gas:candidate-vibid:2672000850115": 1,
+      "gas:candidate-vibid:2672000847050": 5,
+      "gas:candidate-vibid:2672000821670": 7,
+      "gas:candidate-vibid:2672000848448": 13,
+      "gas:candidate-vibid:2672000850284": 82,
+      "gas:candidate-vibid:2672000849817": 2,
+      "gas:candidate-vibid:2672000850033": 1,
+      "gas:candidate-vibid:2672000849744": 0,
+      "gas:candidate-vibid:2672000850164": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/smolensk?action=show&root=1000231&tvd=2672000788081&vrn=100100067795849&region=67&global=&sub_region=67&prver=0&pronetvd=null&vibid=2672000788081&type=464",
@@ -2263,16 +2263,16 @@ export const duma_2016_uik_463_region_67_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алхимов Сергей Анатольевич": 4,
-      "Крайнов Артем Александрович": 1,
-      "Лебедев Сергей Александрович": 12,
-      "Леонов Сергей Дмитриевич": 19,
-      "Митрофаненков Андрей Николаевич": 21,
-      "Окунева Ольга Владимировна": 182,
-      "Протасов Алексей Александрович": 2,
-      "Ревенко Сергей Евгениевич": 1,
-      "Савченков Дмитрий Викторович": 3,
-      "Юхименко Павел Игоревич": 0
+      "gas:candidate-vibid:2672000848488": 4,
+      "gas:candidate-vibid:2672000850115": 1,
+      "gas:candidate-vibid:2672000847050": 12,
+      "gas:candidate-vibid:2672000821670": 19,
+      "gas:candidate-vibid:2672000848448": 21,
+      "gas:candidate-vibid:2672000850284": 182,
+      "gas:candidate-vibid:2672000849817": 2,
+      "gas:candidate-vibid:2672000850033": 1,
+      "gas:candidate-vibid:2672000849744": 3,
+      "gas:candidate-vibid:2672000850164": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/smolensk?action=show&root=1000231&tvd=2672000788081&vrn=100100067795849&region=67&global=&sub_region=67&prver=0&pronetvd=null&vibid=2672000788081&type=464",
@@ -2323,16 +2323,16 @@ export const duma_2016_uik_463_region_67_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алхимов Сергей Анатольевич": 9,
-      "Крайнов Артем Александрович": 1,
-      "Лебедев Сергей Александрович": 16,
-      "Леонов Сергей Дмитриевич": 112,
-      "Митрофаненков Андрей Николаевич": 97,
-      "Окунева Ольга Владимировна": 243,
-      "Протасов Алексей Александрович": 11,
-      "Ревенко Сергей Евгениевич": 2,
-      "Савченков Дмитрий Викторович": 5,
-      "Юхименко Павел Игоревич": 2
+      "gas:candidate-vibid:2672000848488": 9,
+      "gas:candidate-vibid:2672000850115": 1,
+      "gas:candidate-vibid:2672000847050": 16,
+      "gas:candidate-vibid:2672000821670": 112,
+      "gas:candidate-vibid:2672000848448": 97,
+      "gas:candidate-vibid:2672000850284": 243,
+      "gas:candidate-vibid:2672000849817": 11,
+      "gas:candidate-vibid:2672000850033": 2,
+      "gas:candidate-vibid:2672000849744": 5,
+      "gas:candidate-vibid:2672000850164": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/smolensk?action=show&root=1000231&tvd=2672000788081&vrn=100100067795849&region=67&global=&sub_region=67&prver=0&pronetvd=null&vibid=2672000788081&type=464",
@@ -2383,16 +2383,16 @@ export const duma_2016_uik_463_region_67_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алхимов Сергей Анатольевич": 3,
-      "Крайнов Артем Александрович": 0,
-      "Лебедев Сергей Александрович": 11,
-      "Леонов Сергей Дмитриевич": 13,
-      "Митрофаненков Андрей Николаевич": 29,
-      "Окунева Ольга Владимировна": 116,
-      "Протасов Алексей Александрович": 3,
-      "Ревенко Сергей Евгениевич": 1,
-      "Савченков Дмитрий Викторович": 3,
-      "Юхименко Павел Игоревич": 0
+      "gas:candidate-vibid:2672000848488": 3,
+      "gas:candidate-vibid:2672000850115": 0,
+      "gas:candidate-vibid:2672000847050": 11,
+      "gas:candidate-vibid:2672000821670": 13,
+      "gas:candidate-vibid:2672000848448": 29,
+      "gas:candidate-vibid:2672000850284": 116,
+      "gas:candidate-vibid:2672000849817": 3,
+      "gas:candidate-vibid:2672000850033": 1,
+      "gas:candidate-vibid:2672000849744": 3,
+      "gas:candidate-vibid:2672000850164": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/smolensk?action=show&root=1000231&tvd=2672000788081&vrn=100100067795849&region=67&global=&sub_region=67&prver=0&pronetvd=null&vibid=2672000788081&type=464",
@@ -2443,16 +2443,16 @@ export const duma_2016_uik_463_region_67_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алхимов Сергей Анатольевич": 0,
-      "Крайнов Артем Александрович": 2,
-      "Лебедев Сергей Александрович": 2,
-      "Леонов Сергей Дмитриевич": 6,
-      "Митрофаненков Андрей Николаевич": 8,
-      "Окунева Ольга Владимировна": 60,
-      "Протасов Алексей Александрович": 3,
-      "Ревенко Сергей Евгениевич": 0,
-      "Савченков Дмитрий Викторович": 0,
-      "Юхименко Павел Игоревич": 0
+      "gas:candidate-vibid:2672000848488": 0,
+      "gas:candidate-vibid:2672000850115": 2,
+      "gas:candidate-vibid:2672000847050": 2,
+      "gas:candidate-vibid:2672000821670": 6,
+      "gas:candidate-vibid:2672000848448": 8,
+      "gas:candidate-vibid:2672000850284": 60,
+      "gas:candidate-vibid:2672000849817": 3,
+      "gas:candidate-vibid:2672000850033": 0,
+      "gas:candidate-vibid:2672000849744": 0,
+      "gas:candidate-vibid:2672000850164": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/smolensk?action=show&root=1000231&tvd=2672000788081&vrn=100100067795849&region=67&global=&sub_region=67&prver=0&pronetvd=null&vibid=2672000788081&type=464",
@@ -2503,16 +2503,16 @@ export const duma_2016_uik_463_region_67_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алхимов Сергей Анатольевич": 0,
-      "Крайнов Артем Александрович": 0,
-      "Лебедев Сергей Александрович": 2,
-      "Леонов Сергей Дмитриевич": 11,
-      "Митрофаненков Андрей Николаевич": 14,
-      "Окунева Ольга Владимировна": 27,
-      "Протасов Алексей Александрович": 4,
-      "Ревенко Сергей Евгениевич": 0,
-      "Савченков Дмитрий Викторович": 1,
-      "Юхименко Павел Игоревич": 0
+      "gas:candidate-vibid:2672000848488": 0,
+      "gas:candidate-vibid:2672000850115": 0,
+      "gas:candidate-vibid:2672000847050": 2,
+      "gas:candidate-vibid:2672000821670": 11,
+      "gas:candidate-vibid:2672000848448": 14,
+      "gas:candidate-vibid:2672000850284": 27,
+      "gas:candidate-vibid:2672000849817": 4,
+      "gas:candidate-vibid:2672000850033": 0,
+      "gas:candidate-vibid:2672000849744": 1,
+      "gas:candidate-vibid:2672000850164": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/smolensk?action=show&root=1000231&tvd=2672000788081&vrn=100100067795849&region=67&global=&sub_region=67&prver=0&pronetvd=null&vibid=2672000788081&type=464",
@@ -2563,16 +2563,16 @@ export const duma_2016_uik_463_region_67_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алхимов Сергей Анатольевич": 0,
-      "Крайнов Артем Александрович": 1,
-      "Лебедев Сергей Александрович": 4,
-      "Леонов Сергей Дмитриевич": 13,
-      "Митрофаненков Андрей Николаевич": 12,
-      "Окунева Ольга Владимировна": 74,
-      "Протасов Алексей Александрович": 1,
-      "Ревенко Сергей Евгениевич": 0,
-      "Савченков Дмитрий Викторович": 2,
-      "Юхименко Павел Игоревич": 0
+      "gas:candidate-vibid:2672000848488": 0,
+      "gas:candidate-vibid:2672000850115": 1,
+      "gas:candidate-vibid:2672000847050": 4,
+      "gas:candidate-vibid:2672000821670": 13,
+      "gas:candidate-vibid:2672000848448": 12,
+      "gas:candidate-vibid:2672000850284": 74,
+      "gas:candidate-vibid:2672000849817": 1,
+      "gas:candidate-vibid:2672000850033": 0,
+      "gas:candidate-vibid:2672000849744": 2,
+      "gas:candidate-vibid:2672000850164": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/smolensk?action=show&root=1000231&tvd=2672000788081&vrn=100100067795849&region=67&global=&sub_region=67&prver=0&pronetvd=null&vibid=2672000788081&type=464",
@@ -2623,16 +2623,16 @@ export const duma_2016_uik_463_region_67_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алхимов Сергей Анатольевич": 0,
-      "Крайнов Артем Александрович": 0,
-      "Лебедев Сергей Александрович": 1,
-      "Леонов Сергей Дмитриевич": 9,
-      "Митрофаненков Андрей Николаевич": 13,
-      "Окунева Ольга Владимировна": 64,
-      "Протасов Алексей Александрович": 0,
-      "Ревенко Сергей Евгениевич": 0,
-      "Савченков Дмитрий Викторович": 0,
-      "Юхименко Павел Игоревич": 0
+      "gas:candidate-vibid:2672000848488": 0,
+      "gas:candidate-vibid:2672000850115": 0,
+      "gas:candidate-vibid:2672000847050": 1,
+      "gas:candidate-vibid:2672000821670": 9,
+      "gas:candidate-vibid:2672000848448": 13,
+      "gas:candidate-vibid:2672000850284": 64,
+      "gas:candidate-vibid:2672000849817": 0,
+      "gas:candidate-vibid:2672000850033": 0,
+      "gas:candidate-vibid:2672000849744": 0,
+      "gas:candidate-vibid:2672000850164": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/smolensk?action=show&root=1000231&tvd=2672000788081&vrn=100100067795849&region=67&global=&sub_region=67&prver=0&pronetvd=null&vibid=2672000788081&type=464",
@@ -2683,16 +2683,16 @@ export const duma_2016_uik_463_region_67_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алхимов Сергей Анатольевич": 8,
-      "Крайнов Артем Александрович": 3,
-      "Лебедев Сергей Александрович": 14,
-      "Леонов Сергей Дмитриевич": 31,
-      "Митрофаненков Андрей Николаевич": 59,
-      "Окунева Ольга Владимировна": 178,
-      "Протасов Алексей Александрович": 2,
-      "Ревенко Сергей Евгениевич": 3,
-      "Савченков Дмитрий Викторович": 2,
-      "Юхименко Павел Игоревич": 1
+      "gas:candidate-vibid:2672000848488": 8,
+      "gas:candidate-vibid:2672000850115": 3,
+      "gas:candidate-vibid:2672000847050": 14,
+      "gas:candidate-vibid:2672000821670": 31,
+      "gas:candidate-vibid:2672000848448": 59,
+      "gas:candidate-vibid:2672000850284": 178,
+      "gas:candidate-vibid:2672000849817": 2,
+      "gas:candidate-vibid:2672000850033": 3,
+      "gas:candidate-vibid:2672000849744": 2,
+      "gas:candidate-vibid:2672000850164": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/smolensk?action=show&root=1000231&tvd=2672000788081&vrn=100100067795849&region=67&global=&sub_region=67&prver=0&pronetvd=null&vibid=2672000788081&type=464",
@@ -2743,16 +2743,16 @@ export const duma_2016_uik_463_region_67_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алхимов Сергей Анатольевич": 6,
-      "Крайнов Артем Александрович": 11,
-      "Лебедев Сергей Александрович": 28,
-      "Леонов Сергей Дмитриевич": 16,
-      "Митрофаненков Андрей Николаевич": 10,
-      "Окунева Ольга Владимировна": 204,
-      "Протасов Алексей Александрович": 6,
-      "Ревенко Сергей Евгениевич": 64,
-      "Савченков Дмитрий Викторович": 5,
-      "Юхименко Павел Игоревич": 7
+      "gas:candidate-vibid:2672000848488": 6,
+      "gas:candidate-vibid:2672000850115": 11,
+      "gas:candidate-vibid:2672000847050": 28,
+      "gas:candidate-vibid:2672000821670": 16,
+      "gas:candidate-vibid:2672000848448": 10,
+      "gas:candidate-vibid:2672000850284": 204,
+      "gas:candidate-vibid:2672000849817": 6,
+      "gas:candidate-vibid:2672000850033": 64,
+      "gas:candidate-vibid:2672000849744": 5,
+      "gas:candidate-vibid:2672000850164": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/smolensk?action=show&root=1000231&tvd=2672000788081&vrn=100100067795849&region=67&global=&sub_region=67&prver=0&pronetvd=null&vibid=2672000788081&type=464",
@@ -2803,16 +2803,16 @@ export const duma_2016_uik_463_region_67_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алхимов Сергей Анатольевич": 12,
-      "Крайнов Артем Александрович": 8,
-      "Лебедев Сергей Александрович": 34,
-      "Леонов Сергей Дмитриевич": 43,
-      "Митрофаненков Андрей Николаевич": 46,
-      "Окунева Ольга Владимировна": 237,
-      "Протасов Алексей Александрович": 12,
-      "Ревенко Сергей Евгениевич": 221,
-      "Савченков Дмитрий Викторович": 25,
-      "Юхименко Павел Игоревич": 21
+      "gas:candidate-vibid:2672000848488": 12,
+      "gas:candidate-vibid:2672000850115": 8,
+      "gas:candidate-vibid:2672000847050": 34,
+      "gas:candidate-vibid:2672000821670": 43,
+      "gas:candidate-vibid:2672000848448": 46,
+      "gas:candidate-vibid:2672000850284": 237,
+      "gas:candidate-vibid:2672000849817": 12,
+      "gas:candidate-vibid:2672000850033": 221,
+      "gas:candidate-vibid:2672000849744": 25,
+      "gas:candidate-vibid:2672000850164": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/smolensk?action=show&root=1000231&tvd=2672000788081&vrn=100100067795849&region=67&global=&sub_region=67&prver=0&pronetvd=null&vibid=2672000788081&type=464",
@@ -2863,16 +2863,16 @@ export const duma_2016_uik_463_region_67_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алхимов Сергей Анатольевич": 21,
-      "Крайнов Артем Александрович": 8,
-      "Лебедев Сергей Александрович": 81,
-      "Леонов Сергей Дмитриевич": 153,
-      "Митрофаненков Андрей Николаевич": 139,
-      "Окунева Ольга Владимировна": 359,
-      "Протасов Алексей Александрович": 15,
-      "Ревенко Сергей Евгениевич": 8,
-      "Савченков Дмитрий Викторович": 13,
-      "Юхименко Павел Игоревич": 9
+      "gas:candidate-vibid:2672000848488": 21,
+      "gas:candidate-vibid:2672000850115": 8,
+      "gas:candidate-vibid:2672000847050": 81,
+      "gas:candidate-vibid:2672000821670": 153,
+      "gas:candidate-vibid:2672000848448": 139,
+      "gas:candidate-vibid:2672000850284": 359,
+      "gas:candidate-vibid:2672000849817": 15,
+      "gas:candidate-vibid:2672000850033": 8,
+      "gas:candidate-vibid:2672000849744": 13,
+      "gas:candidate-vibid:2672000850164": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/smolensk?action=show&root=1000231&tvd=2672000788431&vrn=100100067795849&region=67&global=&sub_region=67&prver=0&pronetvd=null&vibid=2672000788431&type=464",
@@ -2923,16 +2923,16 @@ export const duma_2016_uik_463_region_67_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алхимов Сергей Анатольевич": 23,
-      "Крайнов Артем Александрович": 3,
-      "Лебедев Сергей Александрович": 51,
-      "Леонов Сергей Дмитриевич": 125,
-      "Митрофаненков Андрей Николаевич": 106,
-      "Окунева Ольга Владимировна": 208,
-      "Протасов Алексей Александрович": 11,
-      "Ревенко Сергей Евгениевич": 8,
-      "Савченков Дмитрий Викторович": 8,
-      "Юхименко Павел Игоревич": 5
+      "gas:candidate-vibid:2672000848488": 23,
+      "gas:candidate-vibid:2672000850115": 3,
+      "gas:candidate-vibid:2672000847050": 51,
+      "gas:candidate-vibid:2672000821670": 125,
+      "gas:candidate-vibid:2672000848448": 106,
+      "gas:candidate-vibid:2672000850284": 208,
+      "gas:candidate-vibid:2672000849817": 11,
+      "gas:candidate-vibid:2672000850033": 8,
+      "gas:candidate-vibid:2672000849744": 8,
+      "gas:candidate-vibid:2672000850164": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/smolensk?action=show&root=1000231&tvd=2672000788431&vrn=100100067795849&region=67&global=&sub_region=67&prver=0&pronetvd=null&vibid=2672000788431&type=464",
@@ -2983,16 +2983,16 @@ export const duma_2016_uik_463_region_67_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алхимов Сергей Анатольевич": 31,
-      "Крайнов Артем Александрович": 15,
-      "Лебедев Сергей Александрович": 106,
-      "Леонов Сергей Дмитриевич": 142,
-      "Митрофаненков Андрей Николаевич": 190,
-      "Окунева Ольга Владимировна": 333,
-      "Протасов Алексей Александрович": 20,
-      "Ревенко Сергей Евгениевич": 15,
-      "Савченков Дмитрий Викторович": 14,
-      "Юхименко Павел Игоревич": 9
+      "gas:candidate-vibid:2672000848488": 31,
+      "gas:candidate-vibid:2672000850115": 15,
+      "gas:candidate-vibid:2672000847050": 106,
+      "gas:candidate-vibid:2672000821670": 142,
+      "gas:candidate-vibid:2672000848448": 190,
+      "gas:candidate-vibid:2672000850284": 333,
+      "gas:candidate-vibid:2672000849817": 20,
+      "gas:candidate-vibid:2672000850033": 15,
+      "gas:candidate-vibid:2672000849744": 14,
+      "gas:candidate-vibid:2672000850164": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/smolensk?action=show&root=1000231&tvd=2672000788431&vrn=100100067795849&region=67&global=&sub_region=67&prver=0&pronetvd=null&vibid=2672000788431&type=464",
@@ -3043,16 +3043,16 @@ export const duma_2016_uik_463_region_67_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алхимов Сергей Анатольевич": 33,
-      "Крайнов Артем Александрович": 12,
-      "Лебедев Сергей Александрович": 101,
-      "Леонов Сергей Дмитриевич": 138,
-      "Митрофаненков Андрей Николаевич": 175,
-      "Окунева Ольга Владимировна": 319,
-      "Протасов Алексей Александрович": 12,
-      "Ревенко Сергей Евгениевич": 17,
-      "Савченков Дмитрий Викторович": 15,
-      "Юхименко Павел Игоревич": 11
+      "gas:candidate-vibid:2672000848488": 33,
+      "gas:candidate-vibid:2672000850115": 12,
+      "gas:candidate-vibid:2672000847050": 101,
+      "gas:candidate-vibid:2672000821670": 138,
+      "gas:candidate-vibid:2672000848448": 175,
+      "gas:candidate-vibid:2672000850284": 319,
+      "gas:candidate-vibid:2672000849817": 12,
+      "gas:candidate-vibid:2672000850033": 17,
+      "gas:candidate-vibid:2672000849744": 15,
+      "gas:candidate-vibid:2672000850164": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/smolensk?action=show&root=1000231&tvd=2672000788431&vrn=100100067795849&region=67&global=&sub_region=67&prver=0&pronetvd=null&vibid=2672000788431&type=464",
@@ -3103,16 +3103,16 @@ export const duma_2016_uik_463_region_67_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алхимов Сергей Анатольевич": 25,
-      "Крайнов Артем Александрович": 8,
-      "Лебедев Сергей Александрович": 106,
-      "Леонов Сергей Дмитриевич": 130,
-      "Митрофаненков Андрей Николаевич": 138,
-      "Окунева Ольга Владимировна": 375,
-      "Протасов Алексей Александрович": 20,
-      "Ревенко Сергей Евгениевич": 11,
-      "Савченков Дмитрий Викторович": 17,
-      "Юхименко Павел Игоревич": 9
+      "gas:candidate-vibid:2672000848488": 25,
+      "gas:candidate-vibid:2672000850115": 8,
+      "gas:candidate-vibid:2672000847050": 106,
+      "gas:candidate-vibid:2672000821670": 130,
+      "gas:candidate-vibid:2672000848448": 138,
+      "gas:candidate-vibid:2672000850284": 375,
+      "gas:candidate-vibid:2672000849817": 20,
+      "gas:candidate-vibid:2672000850033": 11,
+      "gas:candidate-vibid:2672000849744": 17,
+      "gas:candidate-vibid:2672000850164": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/smolensk?action=show&root=1000231&tvd=2672000788431&vrn=100100067795849&region=67&global=&sub_region=67&prver=0&pronetvd=null&vibid=2672000788431&type=464",
@@ -3163,16 +3163,16 @@ export const duma_2016_uik_463_region_67_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алхимов Сергей Анатольевич": 16,
-      "Крайнов Артем Александрович": 4,
-      "Лебедев Сергей Александрович": 99,
-      "Леонов Сергей Дмитриевич": 158,
-      "Митрофаненков Андрей Николаевич": 152,
-      "Окунева Ольга Владимировна": 348,
-      "Протасов Алексей Александрович": 16,
-      "Ревенко Сергей Евгениевич": 28,
-      "Савченков Дмитрий Викторович": 19,
-      "Юхименко Павел Игоревич": 11
+      "gas:candidate-vibid:2672000848488": 16,
+      "gas:candidate-vibid:2672000850115": 4,
+      "gas:candidate-vibid:2672000847050": 99,
+      "gas:candidate-vibid:2672000821670": 158,
+      "gas:candidate-vibid:2672000848448": 152,
+      "gas:candidate-vibid:2672000850284": 348,
+      "gas:candidate-vibid:2672000849817": 16,
+      "gas:candidate-vibid:2672000850033": 28,
+      "gas:candidate-vibid:2672000849744": 19,
+      "gas:candidate-vibid:2672000850164": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/smolensk?action=show&root=1000231&tvd=2672000788431&vrn=100100067795849&region=67&global=&sub_region=67&prver=0&pronetvd=null&vibid=2672000788431&type=464",
@@ -3223,16 +3223,16 @@ export const duma_2016_uik_463_region_67_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алхимов Сергей Анатольевич": 23,
-      "Крайнов Артем Александрович": 5,
-      "Лебедев Сергей Александрович": 61,
-      "Леонов Сергей Дмитриевич": 147,
-      "Митрофаненков Андрей Николаевич": 117,
-      "Окунева Ольга Владимировна": 257,
-      "Протасов Алексей Александрович": 16,
-      "Ревенко Сергей Евгениевич": 12,
-      "Савченков Дмитрий Викторович": 16,
-      "Юхименко Павел Игоревич": 7
+      "gas:candidate-vibid:2672000848488": 23,
+      "gas:candidate-vibid:2672000850115": 5,
+      "gas:candidate-vibid:2672000847050": 61,
+      "gas:candidate-vibid:2672000821670": 147,
+      "gas:candidate-vibid:2672000848448": 117,
+      "gas:candidate-vibid:2672000850284": 257,
+      "gas:candidate-vibid:2672000849817": 16,
+      "gas:candidate-vibid:2672000850033": 12,
+      "gas:candidate-vibid:2672000849744": 16,
+      "gas:candidate-vibid:2672000850164": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/smolensk?action=show&root=1000231&tvd=2672000788431&vrn=100100067795849&region=67&global=&sub_region=67&prver=0&pronetvd=null&vibid=2672000788431&type=464",
@@ -3283,16 +3283,16 @@ export const duma_2016_uik_463_region_67_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алхимов Сергей Анатольевич": 31,
-      "Крайнов Артем Александрович": 9,
-      "Лебедев Сергей Александрович": 107,
-      "Леонов Сергей Дмитриевич": 148,
-      "Митрофаненков Андрей Николаевич": 167,
-      "Окунева Ольга Владимировна": 357,
-      "Протасов Алексей Александрович": 16,
-      "Ревенко Сергей Евгениевич": 15,
-      "Савченков Дмитрий Викторович": 17,
-      "Юхименко Павел Игоревич": 7
+      "gas:candidate-vibid:2672000848488": 31,
+      "gas:candidate-vibid:2672000850115": 9,
+      "gas:candidate-vibid:2672000847050": 107,
+      "gas:candidate-vibid:2672000821670": 148,
+      "gas:candidate-vibid:2672000848448": 167,
+      "gas:candidate-vibid:2672000850284": 357,
+      "gas:candidate-vibid:2672000849817": 16,
+      "gas:candidate-vibid:2672000850033": 15,
+      "gas:candidate-vibid:2672000849744": 17,
+      "gas:candidate-vibid:2672000850164": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/smolensk?action=show&root=1000231&tvd=2672000788431&vrn=100100067795849&region=67&global=&sub_region=67&prver=0&pronetvd=null&vibid=2672000788431&type=464",
@@ -3343,16 +3343,16 @@ export const duma_2016_uik_463_region_67_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алхимов Сергей Анатольевич": 23,
-      "Крайнов Артем Александрович": 13,
-      "Лебедев Сергей Александрович": 98,
-      "Леонов Сергей Дмитриевич": 163,
-      "Митрофаненков Андрей Николаевич": 146,
-      "Окунева Ольга Владимировна": 333,
-      "Протасов Алексей Александрович": 21,
-      "Ревенко Сергей Евгениевич": 22,
-      "Савченков Дмитрий Викторович": 14,
-      "Юхименко Павел Игоревич": 9
+      "gas:candidate-vibid:2672000848488": 23,
+      "gas:candidate-vibid:2672000850115": 13,
+      "gas:candidate-vibid:2672000847050": 98,
+      "gas:candidate-vibid:2672000821670": 163,
+      "gas:candidate-vibid:2672000848448": 146,
+      "gas:candidate-vibid:2672000850284": 333,
+      "gas:candidate-vibid:2672000849817": 21,
+      "gas:candidate-vibid:2672000850033": 22,
+      "gas:candidate-vibid:2672000849744": 14,
+      "gas:candidate-vibid:2672000850164": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/smolensk?action=show&root=1000231&tvd=2672000788431&vrn=100100067795849&region=67&global=&sub_region=67&prver=0&pronetvd=null&vibid=2672000788431&type=464",
@@ -3403,16 +3403,16 @@ export const duma_2016_uik_463_region_67_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алхимов Сергей Анатольевич": 25,
-      "Крайнов Артем Александрович": 7,
-      "Лебедев Сергей Александрович": 77,
-      "Леонов Сергей Дмитриевич": 139,
-      "Митрофаненков Андрей Николаевич": 151,
-      "Окунева Ольга Владимировна": 319,
-      "Протасов Алексей Александрович": 22,
-      "Ревенко Сергей Евгениевич": 13,
-      "Савченков Дмитрий Викторович": 18,
-      "Юхименко Павел Игоревич": 10
+      "gas:candidate-vibid:2672000848488": 25,
+      "gas:candidate-vibid:2672000850115": 7,
+      "gas:candidate-vibid:2672000847050": 77,
+      "gas:candidate-vibid:2672000821670": 139,
+      "gas:candidate-vibid:2672000848448": 151,
+      "gas:candidate-vibid:2672000850284": 319,
+      "gas:candidate-vibid:2672000849817": 22,
+      "gas:candidate-vibid:2672000850033": 13,
+      "gas:candidate-vibid:2672000849744": 18,
+      "gas:candidate-vibid:2672000850164": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/smolensk?action=show&root=1000231&tvd=2672000788431&vrn=100100067795849&region=67&global=&sub_region=67&prver=0&pronetvd=null&vibid=2672000788431&type=464",
@@ -3463,16 +3463,16 @@ export const duma_2016_uik_463_region_67_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алхимов Сергей Анатольевич": 41,
-      "Крайнов Артем Александрович": 13,
-      "Лебедев Сергей Александрович": 71,
-      "Леонов Сергей Дмитриевич": 193,
-      "Митрофаненков Андрей Николаевич": 149,
-      "Окунева Ольга Владимировна": 431,
-      "Протасов Алексей Александрович": 21,
-      "Ревенко Сергей Евгениевич": 19,
-      "Савченков Дмитрий Викторович": 22,
-      "Юхименко Павел Игоревич": 21
+      "gas:candidate-vibid:2672000848488": 41,
+      "gas:candidate-vibid:2672000850115": 13,
+      "gas:candidate-vibid:2672000847050": 71,
+      "gas:candidate-vibid:2672000821670": 193,
+      "gas:candidate-vibid:2672000848448": 149,
+      "gas:candidate-vibid:2672000850284": 431,
+      "gas:candidate-vibid:2672000849817": 21,
+      "gas:candidate-vibid:2672000850033": 19,
+      "gas:candidate-vibid:2672000849744": 22,
+      "gas:candidate-vibid:2672000850164": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/smolensk?action=show&root=1000231&tvd=2672000788431&vrn=100100067795849&region=67&global=&sub_region=67&prver=0&pronetvd=null&vibid=2672000788431&type=464",
@@ -3523,16 +3523,16 @@ export const duma_2016_uik_463_region_67_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алхимов Сергей Анатольевич": 34,
-      "Крайнов Артем Александрович": 7,
-      "Лебедев Сергей Александрович": 84,
-      "Леонов Сергей Дмитриевич": 144,
-      "Митрофаненков Андрей Николаевич": 156,
-      "Окунева Ольга Владимировна": 335,
-      "Протасов Алексей Александрович": 17,
-      "Ревенко Сергей Евгениевич": 16,
-      "Савченков Дмитрий Викторович": 24,
-      "Юхименко Павел Игоревич": 9
+      "gas:candidate-vibid:2672000848488": 34,
+      "gas:candidate-vibid:2672000850115": 7,
+      "gas:candidate-vibid:2672000847050": 84,
+      "gas:candidate-vibid:2672000821670": 144,
+      "gas:candidate-vibid:2672000848448": 156,
+      "gas:candidate-vibid:2672000850284": 335,
+      "gas:candidate-vibid:2672000849817": 17,
+      "gas:candidate-vibid:2672000850033": 16,
+      "gas:candidate-vibid:2672000849744": 24,
+      "gas:candidate-vibid:2672000850164": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/smolensk?action=show&root=1000231&tvd=2672000788431&vrn=100100067795849&region=67&global=&sub_region=67&prver=0&pronetvd=null&vibid=2672000788431&type=464",

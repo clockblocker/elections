@@ -57,6 +57,841 @@ def source(raw: dict[str, Any], source_type: int) -> dict[str, Any]:
     return result
 
 
+def _required_text(raw: dict[str, Any], *keys: str) -> str:
+    for key in keys:
+        value = raw.get(key)
+        if value is not None and str(value).strip():
+            return str(value)
+    raise ValueError(f"missing required registry field: {'/'.join(keys)}")
+
+
+def _optional_text(raw: dict[str, Any], *keys: str) -> str | None:
+    for key in keys:
+        value = raw.get(key)
+        if value is not None and str(value).strip():
+            return str(value)
+    return None
+
+
+def _required_string(raw: dict[str, Any], *keys: str) -> str:
+    for key in keys:
+        if key in raw:
+            value = raw[key]
+            if not isinstance(value, str):
+                raise TypeError(f"registry field {key} must be a string")
+            return value
+    raise ValueError(f"missing required registry field: {'/'.join(keys)}")
+
+
+def _required_bool(raw: dict[str, Any], *keys: str) -> bool:
+    for key in keys:
+        if key in raw:
+            value = raw[key]
+            if not isinstance(value, bool):
+                raise ValueError(f"registry field {key} must be boolean")
+            return value
+    raise ValueError(f"missing required registry field: {'/'.join(keys)}")
+
+
+def registry_source(
+    raw: dict[str, Any],
+    *,
+    default_report_type: int | None = None,
+    allowed_report_types: set[int] | None = None,
+) -> dict[str, Any]:
+    if not isinstance(raw, dict):
+        raise TypeError("registry source must be an object")
+    url = _required_text(raw, "official_url", "url")
+    sha256 = _required_text(raw, "sha256")
+    if re.fullmatch(r"[0-9a-f]{64}", sha256) is None:
+        raise ValueError(f"registry source has invalid sha256: {url}")
+    report_type = raw.get("report_type", raw.get("source_report_type"))
+    if report_type is None:
+        report_type = default_report_type
+    if report_type is None:
+        raise ValueError(f"registry source has no report type: {url}")
+    report_type = int(report_type)
+    if allowed_report_types is not None and report_type not in allowed_report_types:
+        raise ValueError(f"unexpected registry report type {report_type}: {url}")
+    result: dict[str, Any] = {
+        "url": url,
+        "sha256": sha256,
+        "sourceReportType": report_type,
+        "retrievedAt": _required_text(raw, "retrieved_at", "retrievedAt"),
+        "finalUrl": _required_text(raw, "final_url", "finalUrl"),
+        "provenance": _required_text(raw, "provenance"),
+    }
+    if result["provenance"] not in ("live-official", "wayback"):
+        raise ValueError(f"unsupported registry provenance for {url}")
+    return result
+
+
+def winner_registry_source(
+    raw: dict[str, Any],
+    *,
+    allowed_report_types: set[int] | None = None,
+    require_tik_oik_proof: bool = False,
+) -> dict[str, Any]:
+    if not isinstance(raw, dict):
+        raise TypeError("winner source must be an object")
+    url = _required_text(raw, "official_url", "url")
+    sha256 = _required_text(raw, "sha256")
+    if re.fullmatch(r"[0-9a-f]{64}", sha256) is None:
+        raise ValueError(f"winner source has invalid sha256: {url}")
+    result: dict[str, Any] = {
+        "url": url,
+        "sha256": sha256,
+        "retrievedAt": _required_text(raw, "retrieved_at", "retrievedAt"),
+        "finalUrl": _required_text(raw, "final_url", "finalUrl"),
+        "provenance": _required_text(raw, "provenance"),
+    }
+    if result["provenance"] not in ("live-official", "wayback"):
+        raise ValueError(f"unsupported winner-source provenance for {url}")
+    report_type = raw.get("report_type", raw.get("source_report_type"))
+    if report_type is None and allowed_report_types is not None:
+        raise ValueError(f"winner source has no report type: {url}")
+    if report_type is not None:
+        report_type = int(report_type)
+        if allowed_report_types is not None and report_type not in allowed_report_types:
+            raise ValueError(f"unexpected winner report type {report_type}: {url}")
+        result["sourceReportType"] = report_type
+    for source_key, output_key in (
+        ("resolution", "resolution"),
+        ("resolution_date", "resolutionDate"),
+        ("title", "title"),
+    ):
+        if raw.get(source_key) not in (None, ""):
+            result[output_key] = raw[source_key]
+    winner_derivation = raw.get("winner_derivation")
+    oik_total = raw.get("oik_unique_highest_vote_total")
+    summed_tik_total = raw.get("summed_tik_winner_vote_total")
+    winner_proof_values = (winner_derivation, oik_total, summed_tik_total)
+    if require_tik_oik_proof or any(
+        value is not None for value in winner_proof_values
+    ):
+        if winner_derivation != (
+            "summed-official-tik-results-validated-against-oik-total"
+        ):
+            raise ValueError(f"unsupported winner derivation for {url}")
+        if isinstance(oik_total, bool) or not isinstance(oik_total, int):
+            raise TypeError(f"winner source has invalid OIK highest total: {url}")
+        if isinstance(summed_tik_total, bool) or not isinstance(
+            summed_tik_total, int
+        ):
+            raise TypeError(f"winner source has invalid summed TIK total: {url}")
+        if oik_total < 0 or summed_tik_total < 0 or oik_total != summed_tik_total:
+            raise ValueError(f"winner source totals disagree for {url}")
+        result.update(
+            {
+                "winnerDerivation": winner_derivation,
+                "oikUniqueHighestVoteTotal": oik_total,
+                "summedTikWinnerVoteTotal": summed_tik_total,
+            }
+        )
+    return result
+
+
+def candidate_value(raw: dict[str, Any]) -> dict[str, Any]:
+    candidate_vibid = _required_text(raw, "candidate_vibid", "candidateVibid")
+    vote_key = _required_text(raw, "candidate_key", "vote_key", "voteKey")
+    if vote_key != f"gas:candidate-vibid:{candidate_vibid}":
+        raise ValueError(f"candidate vote key disagrees with vibid: {vote_key}")
+    result = {
+        "voteKey": vote_key,
+        "candidateVibid": candidate_vibid,
+        "fullName": _required_text(raw, "full_name", "fullName"),
+        "nominatingEntity": _required_text(
+            raw, "nominating_entity", "nominatingEntity"
+        ),
+        "registrationStatus": _required_string(
+            raw, "registration_status", "registrationStatus"
+        ),
+        "isElected": _required_bool(raw, "is_elected", "isElected"),
+    }
+    if "registry_is_elected" in raw or "registryIsElected" in raw:
+        result["registryIsElected"] = _required_bool(
+            raw, "registry_is_elected", "registryIsElected"
+        )
+    return result
+
+
+def result_identity_anomaly_value(raw: dict[str, Any]) -> dict[str, Any]:
+    district_number = int(raw["district_number"])
+    vote_key = _required_text(raw, "vote_key", "voteKey")
+    if vote_key != f"special:official-result-label:{district_number}":
+        raise ValueError(
+            f"district {district_number} result anomaly has unstable vote key"
+        )
+    levels = raw.get("observed_levels", raw.get("observedLevels"))
+    if levels != ["oik", "tik", "uik"]:
+        raise ValueError(
+            f"district {district_number} result anomaly has wrong source levels"
+        )
+    counts = raw.get("observed_counts", raw.get("observedCounts"))
+    if not isinstance(counts, dict) or set(counts) != {"oik", "tik", "uik"}:
+        raise ValueError(
+            f"district {district_number} result anomaly has incomplete counts"
+        )
+    observed_counts: dict[str, int] = {}
+    for level in ("oik", "tik", "uik"):
+        value = counts[level]
+        if isinstance(value, bool) or not isinstance(value, int) or value <= 0:
+            raise ValueError(
+                f"district {district_number} result anomaly has invalid {level} count"
+            )
+        observed_counts[level] = value
+    return {
+        "districtNumber": district_number,
+        "voteKey": vote_key,
+        "rawLabel": _required_text(raw, "label", "raw_label", "rawLabel"),
+        "reason": _required_text(raw, "reason"),
+        "observedLevels": levels,
+        "observedCounts": observed_counts,
+    }
+
+
+def result_identity_anomaly_values(dataset: dict[str, Any]) -> list[dict[str, Any]]:
+    raw = dataset.get("result_identity_anomalies", [])
+    if not isinstance(raw, list):
+        raise TypeError("result identity anomalies must be a list")
+    values = [result_identity_anomaly_value(item) for item in raw]
+    districts = [item["districtNumber"] for item in values]
+    if len(districts) != len(set(districts)):
+        raise ValueError("result identity anomaly districts are duplicated")
+    nested = dataset.get("candidate_catalog", {})
+    if isinstance(nested, dict) and "result_identity_anomalies" in nested:
+        nested_values = [
+            result_identity_anomaly_value(item)
+            for item in nested["result_identity_anomalies"]
+        ]
+        if nested_values != values:
+            raise ValueError("candidate catalog result anomalies disagree with dataset")
+    return values
+
+
+def obfuscated_winner_anomaly_values(dataset: dict[str, Any]) -> list[dict[str, Any]]:
+    gates = dataset.get("registry_gates", {})
+    if not isinstance(gates, dict):
+        raise TypeError("registry gates must be an object")
+    anomalies = gates.get("allowed_anomalies", [])
+    if not isinstance(anomalies, list):
+        raise TypeError("allowed anomalies must be a list")
+    result: list[dict[str, Any]] = []
+    for raw in anomalies:
+        if not isinstance(raw, dict) or raw.get("kind") != (
+            "obfuscated-oik-winner-label"
+        ):
+            continue
+        district_number = int(raw["district_number"])
+        if district_number not in range(1, 226):
+            raise ValueError("obfuscated OIK anomaly has invalid district")
+        winner_key = _required_text(raw, "winner_candidate_key", "winnerCandidateKey")
+        prefix = "gas:candidate-vibid:"
+        if not winner_key.startswith(prefix) or winner_key == prefix:
+            raise ValueError(
+                f"district {district_number} obfuscated OIK winner is not a candidate"
+            )
+        result.append(
+            {
+                "districtNumber": district_number,
+                "rawLabel": _required_text(raw, "raw_label", "rawLabel"),
+                "winnerCandidateKey": winner_key,
+                "winnerCandidateVibid": winner_key.removeprefix(prefix),
+            }
+        )
+    result.sort(key=lambda item: item["districtNumber"])
+    districts = [item["districtNumber"] for item in result]
+    if len(districts) != len(set(districts)):
+        raise ValueError("obfuscated OIK winner anomaly districts are duplicated")
+    return result
+
+
+def _decision_value(raw: dict[str, Any], prefix: str) -> dict[str, str] | None:
+    parts = prefix.split("_")
+    camel_prefix = parts[0] + "".join(item.title() for item in parts[1:])
+    nested = raw.get(prefix, raw.get(camel_prefix))
+    if isinstance(nested, dict):
+        date = _optional_text(nested, "date")
+        number = _optional_text(nested, "number")
+    else:
+        date = _optional_text(raw, f"{prefix}_date")
+        number = _optional_text(raw, f"{prefix}_number", f"{prefix}_resolution")
+    if date is None and number is None:
+        return None
+    if date is None or number is None:
+        raise ValueError(f"incomplete {prefix} decision")
+    return {"date": date, "number": number}
+
+
+def party_choice_value(raw: dict[str, Any]) -> dict[str, Any]:
+    vote_key = _required_text(raw, "vote_key", "party_key", "voteKey")
+    if ":" not in vote_key or not vote_key.startswith(("gas:", "special:")):
+        raise ValueError(f"party vote key is not namespaced: {vote_key}")
+    result: dict[str, Any] = {
+        "voteKey": vote_key,
+        "officialName": _required_text(raw, "official_name", "officialName", "name"),
+        "isOnFederalBallot": _required_bool(
+            raw, "is_on_federal_ballot", "isOnFederalBallot", "on_ballot"
+        ),
+    }
+    generic_identity = _optional_text(raw, "party_list_vrnio")
+    identity_kind = _optional_text(raw, "identity_kind")
+    if generic_identity is not None and identity_kind == "vrnio":
+        result["electoralAssociationVrnio"] = generic_identity
+    elif generic_identity is not None and identity_kind == "vibid":
+        result["associationVibid"] = generic_identity
+    for source_key, output_key in (
+        ("electoral_association_vrnio", "electoralAssociationVrnio"),
+        ("association_vibid", "associationVibid"),
+        ("list_vibid", "listVibid"),
+        ("registration_status", "registrationStatus"),
+        ("entity_kind", "entityKind"),
+        ("charter_registration_date", "charterRegistrationDate"),
+        ("justice_registry_number", "justiceRegistryNumber"),
+        ("charter_registration_number", "justiceRegistryNumber"),
+    ):
+        value = raw.get(source_key, raw.get(output_key))
+        if value not in (None, ""):
+            result[output_key] = str(value)
+    for source_key, output_key in (
+        ("catalog_ordinal", "catalogOrdinal"),
+        ("ballot_number", "ballotNumber"),
+        ("draw_number", "ballotNumber"),
+        ("list_mandates", "listMandates"),
+        ("mandates", "listMandates"),
+        ("official_votes", "officialVotes"),
+        ("votes", "officialVotes"),
+    ):
+        value = raw.get(source_key, raw.get(output_key))
+        if value is not None:
+            result[output_key] = int(value)
+    vote_percent = raw.get(
+        "official_vote_percent",
+        raw.get("officialVotePercent", raw.get("vote_percent")),
+    )
+    if vote_percent is not None:
+        result["officialVotePercent"] = str(vote_percent)
+    for source_key, output_key in (
+        ("federal_list_certification", "federalListCertification"),
+        ("federal_list_registration", "federalListRegistration"),
+        ("single_member_list_certification", "singleMemberListCertification"),
+    ):
+        decision = _decision_value(raw, source_key)
+        if decision is not None:
+            result[output_key] = decision
+    if vote_key.startswith("gas:vrnio:"):
+        if not result.get("electoralAssociationVrnio"):
+            raise ValueError(f"modern GAS party choice has no vrnio: {vote_key}")
+        if vote_key != f"gas:vrnio:{result['electoralAssociationVrnio']}":
+            raise ValueError(f"modern GAS party vote key disagrees with vrnio: {vote_key}")
+        if result.get("associationVibid") or result.get("listVibid"):
+            raise ValueError(f"modern GAS party choice mixes identity namespaces: {vote_key}")
+    elif vote_key.startswith("gas:association-vibid:"):
+        if not result.get("associationVibid") or not result.get("listVibid"):
+            raise ValueError(
+                f"legacy GAS party choice has incomplete vibid identities: {vote_key}"
+            )
+        if vote_key != f"gas:association-vibid:{result['associationVibid']}":
+            raise ValueError(
+                f"legacy GAS party vote key disagrees with association vibid: {vote_key}"
+            )
+        if result.get("electoralAssociationVrnio"):
+            raise ValueError(f"legacy GAS party choice mixes identity namespaces: {vote_key}")
+        detail_source = raw.get("detail_source", raw.get("detailSource"))
+        result["detailSource"] = registry_source(
+            detail_source,
+            default_report_type=303,
+            allowed_report_types={303},
+        )
+    elif vote_key.startswith("gas:"):
+        raise ValueError(f"unsupported GAS party vote-key namespace: {vote_key}")
+    return result
+
+
+def require_registry_gates(dataset: dict[str, Any]) -> None:
+    catalog_mode = "registry_gates" in dataset or any(
+        key in dataset for key in ("districts", "candidate_catalog", "party_catalog")
+    )
+    if not catalog_mode:
+        return
+    gates = dataset.get("registry_gates")
+    if not isinstance(gates, dict) or gates.get("passed") is not True:
+        raise ValueError("refusing generation: registry integrity gates failed")
+    required_builder_gates = (
+        "sources_complete",
+        "registry_counts_complete",
+        "every_result_choice_matched_to_official_identity",
+        "identity_key_formulas_valid",
+        "uik_and_tik_vote_key_sets_valid",
+        "regular_and_special_winner_keys_exclusive",
+        "allowed_source_anomalies_exact",
+        "literal_elected_and_unique_highest_winner_agree",
+    )
+    for key in required_builder_gates:
+        if gates.get(key) is not True:
+            raise ValueError(f"refusing generation: registry gate {key} failed")
+    for key in ("source_complete", "all_sources_hashed"):
+        if key in gates and gates[key] is not True:
+            raise ValueError(f"refusing generation: registry gate {key} failed")
+    election = str(dataset.get("election") or "")
+    allowed_anomalies = gates.get("allowed_anomalies", [])
+    if not isinstance(allowed_anomalies, list):
+        raise TypeError("refusing generation: allowed anomalies must be a list")
+    for anomaly in allowed_anomalies:
+        if not isinstance(anomaly, dict) or anomaly.get("allowed") is not True:
+            raise ValueError("refusing generation: malformed allowed registry anomaly")
+        kind = str(anomaly.get("kind") or "")
+        if kind == "candidate-registry-history-duplicates":
+            valid = election == "2003-duma"
+        elif kind == "against-all-district-winner":
+            valid = (
+                election == "2003-duma"
+                and anomaly.get("special_winner_key") == "special:against-all"
+            )
+        elif kind == "mutable-registry-elected-status":
+            valid = election in ("2003-duma", "2016-duma") and anomaly.get(
+                "election"
+            ) == election
+        elif kind == "partial-official-tik-candidate-map":
+            valid = (
+                election == "2004-president"
+                and anomaly.get("election") == election
+                and bool(anomaly.get("tik_tvd"))
+                and isinstance(anomaly.get("present_vote_keys"), list)
+                and isinstance(anomaly.get("missing_vote_keys"), list)
+            )
+        elif kind == "official-result-label-identity":
+            try:
+                result_identity_anomaly_value(anomaly)
+            except (KeyError, TypeError, ValueError):
+                valid = False
+            else:
+                valid = election == "2003-duma"
+        elif kind == "obfuscated-oik-winner-label":
+            district_number = int(anomaly.get("district_number", 0))
+            valid = (
+                election == "2003-duma"
+                and str(anomaly.get("raw_label") or "")
+                and str(anomaly.get("winner_candidate_key") or "").startswith(
+                    "gas:candidate-vibid:"
+                )
+                and district_number in range(1, 226)
+            )
+        else:
+            valid = False
+        if not valid:
+            raise ValueError(f"refusing generation: unapproved anomaly kind {kind}")
+    special_districts = {
+        int(item["district_number"])
+        for item in allowed_anomalies
+        if item.get("kind") == "against-all-district-winner"
+    }
+    mutable_districts = {
+        int(item["district_number"])
+        for item in allowed_anomalies
+        if item.get("kind") == "mutable-registry-elected-status"
+    }
+    history_anomalies = [
+        item
+        for item in allowed_anomalies
+        if item.get("kind") == "candidate-registry-history-duplicates"
+    ]
+    partial_tik_anomalies = [
+        item
+        for item in allowed_anomalies
+        if item.get("kind") == "partial-official-tik-candidate-map"
+    ]
+    result_identity_anomalies = [
+        item
+        for item in allowed_anomalies
+        if item.get("kind") == "official-result-label-identity"
+    ]
+    obfuscated_winner_anomalies = [
+        item
+        for item in allowed_anomalies
+        if item.get("kind") == "obfuscated-oik-winner-label"
+    ]
+    if election == "2003-duma":
+        expected_mutable_districts = {
+            66,
+            134,
+            142,
+            144,
+            160,
+            179,
+            183,
+            187,
+            196,
+            199,
+            201,
+            220,
+        }
+        expected_result_labels = {
+            39: "Багишвили Евгений Нодариевич",
+            57: "Трембачева Татьяна Викторовна",
+            60: "Кузьмин Алексанр Николаевич",
+            126: "Шадт Александр Евгеньевич",
+        }
+        expected_obfuscated_labels = {
+            3: "9.",
+            6: "9.",
+            9: "5.",
+            19: "6.",
+            30: "7.",
+            48: "2.",
+            64: "3.",
+            66: "4.",
+            67: "8.",
+            115: "6.",
+            138: "4.",
+            139: "2.",
+            143: "2.",
+            145: "3.",
+            173: "5.",
+            222: "6.",
+        }
+        exact = (
+            special_districts == {162, 181, 207}
+            and mutable_districts == expected_mutable_districts
+            and len(history_anomalies) == 1
+            and set(map(str, history_anomalies[0].get("candidate_vibids", [])))
+            == {"1001000225964", "271200071887"}
+            and int(history_anomalies[0].get("row_count", 0))
+            - int(history_anomalies[0].get("unique_candidate_vibid_count", 0))
+            == 4
+            and {
+                int(item["district_number"]): str(item["label"])
+                for item in result_identity_anomalies
+            }
+            == expected_result_labels
+            and {
+                int(item["district_number"]): str(item["raw_label"])
+                for item in obfuscated_winner_anomalies
+            }
+            == expected_obfuscated_labels
+            and not partial_tik_anomalies
+        )
+    elif election == "2016-duma":
+        expected_mutable_districts = {
+            70,
+            71,
+            77,
+            96,
+            98,
+            110,
+            112,
+            134,
+            137,
+            143,
+            145,
+            147,
+            151,
+            158,
+            163,
+            165,
+            174,
+            180,
+            194,
+        }
+        exact = (
+            not special_districts
+            and mutable_districts == expected_mutable_districts
+            and not history_anomalies
+            and not partial_tik_anomalies
+            and not result_identity_anomalies
+            and not obfuscated_winner_anomalies
+        )
+    elif election == "2004-president":
+        expected_partial_tiks = {
+            "206200075649",
+            "228200074900",
+            "241200070733",
+            "241200070735",
+            "243200083386",
+            "251200077705",
+            "265200075594",
+            "266200078108",
+            "266200078117",
+            "266200084492",
+            "266200084493",
+            "2772000100984",
+            "289200072363",
+            "784700068324",
+        }
+        exact = (
+            not special_districts
+            and not mutable_districts
+            and not history_anomalies
+            and {str(item["tik_tvd"]) for item in partial_tik_anomalies}
+            == expected_partial_tiks
+            and not result_identity_anomalies
+            and not obfuscated_winner_anomalies
+        )
+    else:
+        exact = not allowed_anomalies
+    if not exact:
+        raise ValueError("refusing generation: historical anomaly set is not exact")
+    allowed = {str(item) for item in allowed_anomalies}
+    for anomaly in gates.get("anomalies", []):
+        if isinstance(anomaly, dict):
+            if anomaly.get("allowed") is not True:
+                raise ValueError("refusing generation: unallowed registry anomaly")
+        elif str(anomaly) not in allowed:
+            raise ValueError(f"refusing generation: unallowed registry anomaly {anomaly}")
+    errors = gates.get("errors")
+    if isinstance(errors, dict) and any(errors.values()):
+        raise ValueError("refusing generation: registry gates contain errors")
+    if isinstance(errors, list) and errors:
+        raise ValueError("refusing generation: registry gates contain errors")
+
+
+def validate_registry_catalogs(dataset: dict[str, Any]) -> None:
+    require_registry_gates(dataset)
+    if "registry_gates" not in dataset and not any(
+        key in dataset for key in ("districts", "candidate_catalog", "party_catalog")
+    ):
+        return
+    contests = dataset.get("contests", {})
+    election = str(dataset.get("election", ""))
+    if "party" in contests and not dataset.get("party_catalog"):
+        raise ValueError("party election has no party catalog")
+    if election.endswith("-president") and not dataset.get("candidate_catalog"):
+        raise ValueError("presidential election has no candidate catalog")
+    if election.endswith("-duma") and "candidate" in contests and not dataset.get(
+        "districts"
+    ):
+        raise ValueError("single-member Duma election has no district catalog")
+    districts = dataset.get("districts")
+    if districts:
+        if not isinstance(districts, list):
+            raise ValueError("district catalog must be a list")
+        values = [
+            _district_value(dataset, item, dataset.get("winner_source"))
+            for item in districts
+        ]
+        catalog_anomalies = result_identity_anomaly_values(dataset)
+        gate_anomalies = [
+            result_identity_anomaly_value(item)
+            for item in dataset["registry_gates"].get("allowed_anomalies", [])
+            if item.get("kind") == "official-result-label-identity"
+        ]
+        if sorted(catalog_anomalies, key=lambda item: item["districtNumber"]) != sorted(
+            gate_anomalies, key=lambda item: item["districtNumber"]
+        ):
+            raise ValueError("result identity anomaly catalog disagrees with gates")
+        if (election == "2003-duma") != (len(catalog_anomalies) == 4):
+            raise ValueError("historical result identity anomaly count is not exact")
+        if (
+            len(values) != 225
+            or {item["districtNumber"] for item in values} != set(range(1, 226))
+            or len({item["oikTvd"] for item in values}) != 225
+        ):
+            raise ValueError("district catalog is not a unique complete 225-district set")
+        relations_by_district: defaultdict[int, set[tuple[str, str, str, str, str]]] = (
+            defaultdict(set)
+        )
+        for relation in dataset.get("relations", []):
+            if relation.get("district_number") is None:
+                continue
+            relations_by_district[int(relation["district_number"])].add(
+                (
+                    str(relation.get("oik_tvd") or ""),
+                    str(relation.get("oik_name") or ""),
+                    str(relation.get("region_code") or ""),
+                    str(relation.get("region_tvd") or ""),
+                    str(relation.get("region_name") or ""),
+                )
+            )
+        for value in values:
+            expected_identity = {
+                (
+                    value["oikTvd"],
+                    value["oikName"],
+                    value["regionCode"],
+                    value["regionTvd"],
+                    value["regionName"],
+                )
+            }
+            if relations_by_district[value["districtNumber"]] != expected_identity:
+                raise ValueError(
+                    f"district {value['districtNumber']} catalog disagrees with hierarchy"
+                )
+        candidate_vote_keys_by_district = {
+            value["districtNumber"]: {
+                item["voteKey"] for item in value["candidates"]
+            }
+            for value in values
+        }
+        for anomaly in catalog_anomalies:
+            candidate_vote_keys_by_district[anomaly["districtNumber"]].add(
+                anomaly["voteKey"]
+            )
+        if election == "2003-duma":
+            for vote_keys in candidate_vote_keys_by_district.values():
+                vote_keys.add("special:against-all")
+        vote_keys_by_district: dict[int, set[str]] = {}
+        district_by_tik: dict[str, int] = {}
+        for relation in dataset.get("relations", []):
+            if relation.get("district_number") is not None:
+                district_by_tik[str(relation["tik_tvd"])] = int(
+                    relation["district_number"]
+                )
+        for record in dataset.get("records", []):
+            votes = record.get("candidate_votes")
+            if not isinstance(votes, dict):
+                continue
+            number = int(record["district_number"])
+            keys = set(votes)
+            if not keys.issubset(candidate_vote_keys_by_district[number]):
+                raise ValueError(f"district {number} votes use uncatalogued candidate")
+            previous = vote_keys_by_district.setdefault(number, keys)
+            if previous != keys:
+                raise ValueError(f"district {number} candidate vote-key set varies")
+        for protocol in dataset.get("tik_protocols", []):
+            candidate = protocol.get("candidate")
+            if not isinstance(candidate, dict) or not isinstance(
+                candidate.get("votes"), dict
+            ):
+                continue
+            number = district_by_tik[str(protocol["tik_tvd"])]
+            if set(candidate["votes"]) != vote_keys_by_district.get(number, set()):
+                raise ValueError(
+                    f"district {number} TIK candidate keys disagree with UIKs"
+                )
+    candidate_catalog = dataset.get("candidate_catalog")
+    if candidate_catalog is not None and election.endswith("-duma"):
+        if not isinstance(candidate_catalog, dict):
+            raise TypeError("candidate catalog must be an object")
+        catalog_candidates = [
+            candidate_value(item)
+            for item in candidate_catalog.get("candidates", [])
+        ]
+        catalog_ids = {item["candidateVibid"] for item in catalog_candidates}
+        district_ids = {
+            str(item["candidate_vibid"])
+            for district in dataset.get("districts", [])
+            for item in district.get("candidates", [])
+        }
+        if (
+            not catalog_candidates
+            or len(catalog_ids) != len(catalog_candidates)
+            or catalog_ids != district_ids
+        ):
+            raise ValueError("Duma candidate catalog disagrees with district catalogs")
+        registry_source(
+            candidate_catalog.get("source"),
+            default_report_type=220,
+            allowed_report_types={220},
+        )
+        candidate_catalog = None
+    if candidate_catalog is not None:
+        if not isinstance(candidate_catalog, dict):
+            raise ValueError("candidate catalog must be an object")
+        candidates = [
+            candidate_value(item) for item in candidate_catalog.get("candidates", [])
+        ]
+        candidate_ids = {item["candidateVibid"] for item in candidates}
+        candidate_vote_keys = {item["voteKey"] for item in candidates}
+        if election == "2004-president":
+            candidate_vote_keys.add("special:against-all")
+        winner = _required_text(
+            candidate_catalog, "winner_candidate_vibid", "winnerCandidateVibid"
+        )
+        if not candidates or len(candidate_ids) != len(candidates) or winner not in candidate_ids:
+            raise ValueError("candidate catalog identities are incomplete or duplicated")
+        if {item["candidateVibid"] for item in candidates if item["isElected"]} != {
+            winner
+        }:
+            raise ValueError("presidential elected flag disagrees with winner")
+        registry_source(
+            candidate_catalog.get("source"),
+            default_report_type=221,
+            allowed_report_types={221},
+        )
+        winner_registry_source(
+            candidate_catalog.get("winner_source", dataset.get("winner_source")),
+            allowed_report_types={226},
+        )
+        result_keys: set[str] | None = None
+        for record in dataset.get("records", []):
+            votes = record.get("candidate_votes")
+            if not isinstance(votes, dict):
+                continue
+            keys = set(votes)
+            if not keys.issubset(candidate_vote_keys):
+                raise ValueError("presidential votes use uncatalogued candidate")
+            if result_keys is None:
+                result_keys = keys
+            elif result_keys != keys:
+                raise ValueError("presidential candidate vote-key set varies")
+        partial_by_tik = {
+            str(item["tik_tvd"]): item
+            for item in dataset["registry_gates"].get("allowed_anomalies", [])
+            if item.get("kind") == "partial-official-tik-candidate-map"
+        }
+        for protocol in dataset.get("tik_protocols", []):
+            candidate = protocol.get("candidate")
+            if (
+                isinstance(candidate, dict)
+                and isinstance(candidate.get("votes"), dict)
+            ):
+                present = set(map(str, candidate["votes"]))
+                expected = result_keys or set()
+                if present == expected:
+                    continue
+                anomaly = partial_by_tik.get(str(protocol["tik_tvd"]))
+                if not anomaly or present != set(
+                    map(str, anomaly["present_vote_keys"])
+                ) or expected - present != set(map(str, anomaly["missing_vote_keys"])):
+                    raise ValueError(
+                        "presidential TIK candidate keys disagree with UIKs"
+                    )
+    party_catalog = dataset.get("party_catalog")
+    if party_catalog is not None:
+        if not isinstance(party_catalog, dict):
+            raise ValueError("party catalog must be an object")
+        raw_choices = party_catalog.get("choices", party_catalog.get("parties"))
+        if not isinstance(raw_choices, list) or not raw_choices:
+            raise ValueError("party catalog has no choices")
+        choices = [party_choice_value(item) for item in raw_choices]
+        vote_keys = {item["voteKey"] for item in choices}
+        if len(vote_keys) != len(choices):
+            raise ValueError("party catalog repeats vote keys")
+        ballot_keys = {
+            item["voteKey"] for item in choices if item["isOnFederalBallot"]
+        }
+        if not ballot_keys:
+            raise ValueError("party catalog has no federal-ballot choices")
+        registry_source(
+            party_catalog.get("source"),
+            default_report_type=236,
+            allowed_report_types={236},
+        )
+        detail_sources = party_catalog.get(
+            "detail_sources", party_catalog.get("detailSources", [])
+        )
+        if not isinstance(detail_sources, list):
+            raise ValueError("party detail sources must be a list")
+        for item in detail_sources:
+            registry_source(
+                item, default_report_type=303, allowed_report_types={303}
+            )
+        for record in dataset.get("records", []):
+            votes = record.get("party_votes")
+            if isinstance(votes, dict) and set(votes) != ballot_keys:
+                raise ValueError("party UIK vote keys disagree with federal-ballot catalog")
+        for protocol in dataset.get("tik_protocols", []):
+            party = protocol.get("party")
+            if (
+                isinstance(party, dict)
+                and isinstance(party.get("votes"), dict)
+                and set(party["votes"]) != ballot_keys
+            ):
+                raise ValueError(
+                    "party TIK vote keys disagree with federal-ballot catalog"
+                )
+
+
 def ballot_name(dataset: dict[str, Any], contest: str) -> str:
     if contest == "party":
         return "party"
@@ -173,11 +1008,273 @@ def clean(roots: list[Path], expected: set[Path]) -> None:
                 path.unlink()
 
 
+def _generated_header() -> str:
+    return (
+        "// This file is auto-generated by proper-data/crawler/"
+        "generate_historical_typescript.py.\n"
+        "// Do not edit it manually.\n\n"
+    )
+
+
+def _remove_generated_file(path: Path) -> None:
+    if path.exists():
+        path.unlink()
+
+
+def _district_value(
+    dataset: dict[str, Any], raw: dict[str, Any], winner_fallback: Any
+) -> dict[str, Any]:
+    district_number = int(raw["district_number"])
+    candidates = [candidate_value(item) for item in raw.get("candidates", [])]
+    if not candidates:
+        raise ValueError(f"district {raw.get('district_number')} has no candidates")
+    candidate_ids = {item["candidateVibid"] for item in candidates}
+    if len(candidate_ids) != len(candidates):
+        raise ValueError(f"district {raw.get('district_number')} repeats candidate vibids")
+    winner = raw.get("winner_candidate_vibid", raw.get("winnerCandidateVibid"))
+    special_winner = raw.get("special_winner_key", raw.get("specialWinnerKey"))
+    if winner in (None, "") and special_winner in (None, ""):
+        raise ValueError(f"district {raw.get('district_number')} has no winner identity")
+    if winner not in (None, "") and special_winner not in (None, ""):
+        raise ValueError(f"district {raw.get('district_number')} has two winner identities")
+    if winner not in (None, "") and str(winner) not in candidate_ids:
+        raise ValueError(f"district {raw.get('district_number')} winner is not a candidate")
+    elected = {item["candidateVibid"] for item in candidates if item["isElected"]}
+    if winner not in (None, "") and elected != {str(winner)}:
+        raise ValueError(
+            f"district {raw.get('district_number')} elected flag disagrees with winner"
+        )
+    if special_winner not in (None, "") and elected:
+        raise ValueError(
+            f"district {raw.get('district_number')} special winner has elected candidate"
+        )
+    raw_source = raw.get("source")
+    raw_winner_source = raw.get("winner_source", winner_fallback)
+    if not isinstance(raw_source, dict) or not isinstance(raw_winner_source, dict):
+        raise TypeError(f"district {raw.get('district_number')} has incomplete sources")
+    converted_source = registry_source(
+        raw_source, default_report_type=220, allowed_report_types={220}
+    )
+    expected_winner_type = {
+        "2003-duma": 223,
+        "2016-duma": 463,
+    }.get(str(dataset["election"]))
+    if expected_winner_type is None:
+        raise ValueError(f"unsupported historical district election: {dataset['election']}")
+    converted_source["winnerSource"] = winner_registry_source(
+        raw_winner_source,
+        allowed_report_types={expected_winner_type},
+        require_tik_oik_proof=True,
+    )
+    obfuscated_winner_anomalies = [
+        item
+        for item in obfuscated_winner_anomaly_values(dataset)
+        if item["districtNumber"] == district_number
+    ]
+    if len(obfuscated_winner_anomalies) > 1:
+        raise ValueError(
+            f"district {district_number} has duplicate obfuscated OIK anomalies"
+        )
+    if obfuscated_winner_anomalies and (
+        winner in (None, "")
+        or obfuscated_winner_anomalies[0]["winnerCandidateVibid"] != str(winner)
+    ):
+        raise ValueError(
+            f"district {district_number} obfuscated OIK anomaly disagrees with winner"
+        )
+    result: dict[str, Any] = {
+        "election": str(dataset["election"]),
+        "districtNumber": district_number,
+        "oikTvd": _required_text(raw, "oik_tvd", "oikTvd"),
+        "oikName": _required_text(raw, "oik_name", "oikName"),
+        "regionCode": _required_text(raw, "region_code", "regionCode"),
+        "regionTvd": _required_text(raw, "region_tvd", "regionTvd"),
+        "regionName": _required_text(raw, "region_name", "regionName"),
+        "winnerCandidateVibid": None if winner in (None, "") else str(winner),
+        "candidates": candidates,
+        "resultIdentityAnomalies": [
+            item
+            for item in result_identity_anomaly_values(dataset)
+            if item["districtNumber"] == district_number
+        ],
+        "obfuscatedWinnerLabelAnomalies": obfuscated_winner_anomalies,
+        "source": converted_source,
+    }
+    if special_winner not in (None, ""):
+        result["specialWinnerKey"] = str(special_winner)
+    return result
+
+
+def write_district_catalog(
+    dataset: dict[str, Any], output: Path, declaration_prefix: str
+) -> tuple[int, int]:
+    districts = dataset.get("districts")
+    root = output / "districts"
+    if not districts:
+        clean([root], set())
+        _remove_generated_file(output / "districts.ts")
+        return 0, 0
+    if not isinstance(districts, list):
+        raise TypeError("district catalog must be a list")
+    winner_fallback = dataset.get("winner_source")
+    values = [
+        _district_value(dataset, raw, winner_fallback)
+        for raw in sorted(districts, key=lambda item: int(item["district_number"]))
+    ]
+    numbers = [item["districtNumber"] for item in values]
+    oik_tvds = [item["oikTvd"] for item in values]
+    if (
+        len(values) != 225
+        or set(numbers) != set(range(1, 226))
+        or len(set(oik_tvds)) != 225
+    ):
+        raise ValueError("district catalog is not a unique complete 225-district set")
+    grouped: defaultdict[str, list[dict[str, Any]]] = defaultdict(list)
+    for value in values:
+        grouped[value["regionCode"]].append(value)
+    expected: set[Path] = set()
+    imports: list[str] = []
+    names: list[str] = []
+    for region in sorted(
+        grouped, key=lambda value: (int(value) if value.isdigit() else 999, value)
+    ):
+        name = identifier(f"{declaration_prefix}_districts_region_{region}")
+        names.append(name)
+        path = root / f"region-{region}.ts"
+        expected.add(path)
+        content = (
+            _generated_header()
+            + 'import type { SingleMemberDistrict } from "../protocol/types";\n\n'
+            + f"export const {name} = {literal(grouped[region])} satisfies readonly "
+            "SingleMemberDistrict[];\n"
+        )
+        atomic_write(path, content.encode("utf-8"))
+        imports.append(f'import {{ {name} }} from "./districts/region-{region}";')
+    content = (
+        _generated_header()
+        + 'import type { SingleMemberDistrict } from "./protocol/types";\n'
+        + "\n".join(imports)
+        + f"\n\nexport const {declaration_prefix}_districts = [\n  ..."
+        + ",\n  ...".join(names)
+        + "\n] satisfies readonly SingleMemberDistrict[];\n"
+    )
+    atomic_write(output / "districts.ts", content.encode("utf-8"))
+    clean([root], expected)
+    return len(values), len(expected)
+
+
+def write_candidate_catalog(
+    dataset: dict[str, Any], output: Path, declaration_prefix: str
+) -> int:
+    if not str(dataset.get("election") or "").endswith("-president"):
+        _remove_generated_file(output / "candidates.ts")
+        return 0
+    raw = dataset.get("candidate_catalog")
+    if raw is None:
+        _remove_generated_file(output / "candidates.ts")
+        return 0
+    if not isinstance(raw, dict):
+        raise TypeError("candidate catalog must be an object")
+    candidates = [candidate_value(item) for item in raw.get("candidates", [])]
+    if not candidates:
+        raise ValueError("candidate catalog has no candidates")
+    candidate_ids = {item["candidateVibid"] for item in candidates}
+    if len(candidate_ids) != len(candidates):
+        raise ValueError("candidate catalog repeats candidate vibids")
+    winner = _required_text(raw, "winner_candidate_vibid", "winnerCandidateVibid")
+    if winner not in candidate_ids:
+        raise ValueError("presidential winner is not in the candidate catalog")
+    if {item["candidateVibid"] for item in candidates if item["isElected"]} != {winner}:
+        raise ValueError("presidential elected flag disagrees with winner")
+    raw_source = raw.get("source")
+    raw_winner_source = raw.get("winner_source", dataset.get("winner_source"))
+    if not isinstance(raw_source, dict) or not isinstance(raw_winner_source, dict):
+        raise TypeError("candidate catalog has incomplete sources")
+    converted_source = registry_source(
+        raw_source, default_report_type=221, allowed_report_types={221}
+    )
+    converted_source["winnerSource"] = winner_registry_source(
+        raw_winner_source, allowed_report_types={226}
+    )
+    value = {
+        "election": str(dataset["election"]),
+        "winnerCandidateVibid": winner,
+        "candidates": candidates,
+        "source": converted_source,
+    }
+    content = (
+        _generated_header()
+        + 'import type { PresidentialCandidateCatalog } from "./protocol/types";\n\n'
+        + f"export const {declaration_prefix}_candidates = {literal(value)} satisfies "
+        "PresidentialCandidateCatalog;\n"
+    )
+    atomic_write(output / "candidates.ts", content.encode("utf-8"))
+    return len(candidates)
+
+
+def write_party_catalog(
+    dataset: dict[str, Any], output: Path, declaration_prefix: str
+) -> int:
+    raw = dataset.get("party_catalog")
+    if raw is None:
+        _remove_generated_file(output / "parties.ts")
+        return 0
+    if not isinstance(raw, dict):
+        raise TypeError("party catalog must be an object")
+    raw_choices = raw.get("choices", raw.get("parties"))
+    if not isinstance(raw_choices, list) or not raw_choices:
+        raise ValueError("party catalog has no choices")
+    choices = [party_choice_value(item) for item in raw_choices]
+    vote_keys = {item["voteKey"] for item in choices}
+    if len(vote_keys) != len(choices):
+        raise ValueError("party catalog repeats vote keys")
+    raw_source = raw.get("source")
+    if not isinstance(raw_source, dict):
+        raise TypeError("party catalog has no source")
+    value: dict[str, Any] = {
+        "election": str(dataset["election"]),
+        "choices": choices,
+        "source": registry_source(
+            raw_source, default_report_type=236, allowed_report_types={236}
+        ),
+    }
+    detail_sources = raw.get("detail_sources", raw.get("detailSources"))
+    if detail_sources is not None:
+        if not isinstance(detail_sources, list):
+            raise ValueError("party detail sources must be a list")
+        value["detailSources"] = [
+            registry_source(
+                item, default_report_type=303, allowed_report_types={303}
+            )
+            for item in detail_sources
+        ]
+    for record in dataset.get("records", []):
+        votes = record.get("party_votes")
+        if isinstance(votes, dict) and not set(votes).issubset(vote_keys):
+            unknown = sorted(set(votes) - vote_keys)
+            raise ValueError(f"party protocol uses uncatalogued vote keys: {unknown[:3]}")
+    content = (
+        _generated_header()
+        + 'import type { DumaPartyCatalog } from "./protocol/types";\n\n'
+        + f"export const {declaration_prefix}_parties = {literal(value)} satisfies "
+        "DumaPartyCatalog;\n"
+    )
+    atomic_write(output / "parties.ts", content.encode("utf-8"))
+    return len(choices)
+
+
 def write_types(dataset: dict[str, Any], output: Path) -> None:
     all_types = " | ".join(
-        str(report_type)
-        for value in dataset["contests"].values()
-        for report_type in (value["tic"], value["uik"])
+        map(
+            str,
+            sorted(
+                {
+                    int(report_type)
+                    for value in dataset["contests"].values()
+                    for report_type in (value["tic"], value["uik"])
+                }
+            ),
+        )
     )
     uik_variants: list[str] = []
     tic_variants: list[str] = []
@@ -223,6 +1320,166 @@ export type ProtocolSource = Readonly<{{
   retrievedAt?: string;
   finalUrl?: string;
   provenance?: "live-official" | "wayback";
+}}>;
+
+export type WinnerRegistrySource = Readonly<{{
+  url: string;
+  sha256: string;
+  sourceReportType?: number;
+  retrievedAt: string;
+  finalUrl: string;
+  provenance: "live-official" | "wayback";
+  resolution?: string;
+  resolutionDate?: string;
+  title?: string;
+  winnerDerivation?: "summed-official-tik-results-validated-against-oik-total";
+  oikUniqueHighestVoteTotal?: number;
+  summedTikWinnerVoteTotal?: number;
+}}>;
+
+export type DistrictWinnerRegistrySource = Readonly<WinnerRegistrySource & {{
+  winnerDerivation: "summed-official-tik-results-validated-against-oik-total";
+  oikUniqueHighestVoteTotal: number;
+  summedTikWinnerVoteTotal: number;
+}}>;
+
+export type CandidateRegistrySource = Readonly<{{
+  url: string;
+  sha256: string;
+  sourceReportType: 220 | 221;
+  retrievedAt: string;
+  finalUrl: string;
+  provenance: "live-official" | "wayback";
+  winnerSource: WinnerRegistrySource;
+}}>;
+
+export type DistrictCandidateRegistrySource = Readonly<
+  Omit<CandidateRegistrySource, "winnerSource"> & {{
+    winnerSource: DistrictWinnerRegistrySource;
+  }}
+>;
+
+export type PartyRegistrySource = Readonly<{{
+  url: string;
+  sha256: string;
+  sourceReportType: 236 | 303;
+  retrievedAt: string;
+  finalUrl: string;
+  provenance: "live-official" | "wayback";
+}}>;
+
+type RegistryCandidate = Readonly<{{
+  voteKey: `gas:candidate-vibid:${{string}}`;
+  candidateVibid: string;
+  fullName: string;
+  nominatingEntity: string;
+  registrationStatus: string;
+  isElected: boolean;
+  /** Literal election-status flag in the candidate registry when it differs. */
+  registryIsElected?: boolean;
+}}>;
+
+export type DistrictCandidate = RegistryCandidate;
+export type PresidentialCandidate = RegistryCandidate;
+
+export type DistrictResultIdentityAnomaly = Readonly<{{
+  districtNumber: number;
+  voteKey: `special:official-result-label:${{number}}`;
+  rawLabel: string;
+  reason: string;
+  observedLevels: readonly ("oik" | "tik" | "uik")[];
+  observedCounts: Readonly<{{ oik: number; tik: number; uik: number }}>;
+}}>;
+
+export type ObfuscatedOikWinnerLabelAnomaly = Readonly<{{
+  districtNumber: number;
+  rawLabel: string;
+  winnerCandidateKey: `gas:candidate-vibid:${{string}}`;
+  winnerCandidateVibid: string;
+}}>;
+
+type SingleMemberDistrictBase = Readonly<{{
+  election: "{dataset["election"]}";
+  districtNumber: number;
+  oikTvd: string;
+  oikName: string;
+  regionCode: string;
+  regionTvd: string;
+  regionName: string;
+  candidates: readonly DistrictCandidate[];
+  resultIdentityAnomalies: readonly DistrictResultIdentityAnomaly[];
+  obfuscatedWinnerLabelAnomalies: readonly ObfuscatedOikWinnerLabelAnomaly[];
+  source: DistrictCandidateRegistrySource;
+}}>;
+
+export type CandidateWinnerDistrict = Readonly<SingleMemberDistrictBase & {{
+  winnerCandidateVibid: string;
+  specialWinnerKey?: never;
+}}>;
+
+export type SpecialWinnerDistrict = Readonly<SingleMemberDistrictBase & {{
+  winnerCandidateVibid: null;
+  specialWinnerKey: string;
+}}>;
+
+export type SingleMemberDistrict = CandidateWinnerDistrict | SpecialWinnerDistrict;
+
+export type PresidentialCandidateCatalog = Readonly<{{
+  election: "{dataset["election"]}";
+  winnerCandidateVibid: string;
+  candidates: readonly PresidentialCandidate[];
+  source: CandidateRegistrySource;
+}}>;
+
+export type PartyRegistryDecision = Readonly<{{
+  date: string;
+  number: string;
+}}>;
+
+type DumaPartyChoiceBase = Readonly<{{
+  voteKey: string;
+  officialName: string;
+  isOnFederalBallot: boolean;
+  registrationStatus?: string;
+  catalogOrdinal?: number;
+  ballotNumber?: number;
+  entityKind?: string;
+  charterRegistrationDate?: string;
+  justiceRegistryNumber?: string;
+  federalListCertification?: PartyRegistryDecision;
+  federalListRegistration?: PartyRegistryDecision;
+  singleMemberListCertification?: PartyRegistryDecision;
+  listMandates?: number;
+  officialVotes?: number;
+  officialVotePercent?: string;
+}}>;
+
+export type ModernDumaPartyChoice = Readonly<DumaPartyChoiceBase & {{
+  voteKey: `gas:vrnio:${{string}}`;
+  electoralAssociationVrnio: string;
+}}>;
+
+export type LegacyDumaPartyChoice = Readonly<DumaPartyChoiceBase & {{
+  voteKey: `gas:association-vibid:${{string}}`;
+  associationVibid: string;
+  listVibid: string;
+  detailSource: PartyRegistrySource;
+}}>;
+
+export type SpecialDumaPartyChoice = Readonly<DumaPartyChoiceBase & {{
+  voteKey: `special:${{string}}`;
+}}>;
+
+export type DumaPartyChoice =
+  | ModernDumaPartyChoice
+  | LegacyDumaPartyChoice
+  | SpecialDumaPartyChoice;
+
+export type DumaPartyCatalog = Readonly<{{
+  election: "{dataset["election"]}";
+  choices: readonly DumaPartyChoice[];
+  source: PartyRegistrySource;
+  detailSources?: readonly PartyRegistrySource[];
 }}>;
 
 type UikProtocolBase = Readonly<{{
@@ -284,6 +1541,7 @@ def generate(
 ) -> dict[str, int]:
     if shard_size < 1:
         raise ValueError("shard-size must be positive")
+    validate_registry_catalogs(dataset)
     relations = dataset["relations"]
     has_districts = str(dataset["election"]).endswith("-duma") and "candidate" in dataset[
         "contests"
@@ -416,6 +1674,11 @@ def generate(
         + "\n] satisfies readonly UikTikRelation[];\n"
     )
     atomic_write(output / "uik-to-tik.ts", relation_content.encode("utf-8"))
+    district_count, district_shards = write_district_catalog(
+        dataset, output, declaration_prefix
+    )
+    candidate_count = write_candidate_catalog(dataset, output, declaration_prefix)
+    party_choice_count = write_party_catalog(dataset, output, declaration_prefix)
     write_types(dataset, output)
     roots.extend(
         path
@@ -431,6 +1694,10 @@ def generate(
         "tics": len(tik_sources),
         "protocol_shards": len(expected),
         "relation_shards": len(relation_expected),
+        "districts": district_count,
+        "district_shards": district_shards,
+        "candidates": candidate_count,
+        "party_choices": party_choice_count,
     }
 
 

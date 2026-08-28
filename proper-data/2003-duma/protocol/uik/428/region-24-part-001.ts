@@ -42,13 +42,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 203,
-      "Дмитриевский Владимир Вениаминович": 19,
-      "Клюкин Александр Николаевич": 55,
-      "Колмаков Валерий Агафонович": 6,
-      "Пащенко Олег Анатольевич": 54,
-      "Сидоров Анатолий Евгеньевич": 8,
-      "Против всех": 80
+      "gas:candidate-vibid:324300266695": 203,
+      "gas:candidate-vibid:1001000136022": 19,
+      "gas:candidate-vibid:1001000225917": 55,
+      "gas:candidate-vibid:324300266862": 6,
+      "gas:candidate-vibid:1001000217903": 54,
+      "gas:candidate-vibid:1001000202290": 8,
+      "special:against-all": 80
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067605&region=0&sub_region=0&type=429",
@@ -98,13 +98,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 307,
-      "Дмитриевский Владимир Вениаминович": 38,
-      "Клюкин Александр Николаевич": 94,
-      "Колмаков Валерий Агафонович": 16,
-      "Пащенко Олег Анатольевич": 83,
-      "Сидоров Анатолий Евгеньевич": 5,
-      "Против всех": 110
+      "gas:candidate-vibid:324300266695": 307,
+      "gas:candidate-vibid:1001000136022": 38,
+      "gas:candidate-vibid:1001000225917": 94,
+      "gas:candidate-vibid:324300266862": 16,
+      "gas:candidate-vibid:1001000217903": 83,
+      "gas:candidate-vibid:1001000202290": 5,
+      "special:against-all": 110
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067605&region=0&sub_region=0&type=429",
@@ -154,13 +154,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 373,
-      "Дмитриевский Владимир Вениаминович": 48,
-      "Клюкин Александр Николаевич": 107,
-      "Колмаков Валерий Агафонович": 23,
-      "Пащенко Олег Анатольевич": 151,
-      "Сидоров Анатолий Евгеньевич": 10,
-      "Против всех": 153
+      "gas:candidate-vibid:324300266695": 373,
+      "gas:candidate-vibid:1001000136022": 48,
+      "gas:candidate-vibid:1001000225917": 107,
+      "gas:candidate-vibid:324300266862": 23,
+      "gas:candidate-vibid:1001000217903": 151,
+      "gas:candidate-vibid:1001000202290": 10,
+      "special:against-all": 153
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067605&region=0&sub_region=0&type=429",
@@ -210,13 +210,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 187,
-      "Дмитриевский Владимир Вениаминович": 68,
-      "Клюкин Александр Николаевич": 153,
-      "Колмаков Валерий Агафонович": 23,
-      "Пащенко Олег Анатольевич": 141,
-      "Сидоров Анатолий Евгеньевич": 10,
-      "Против всех": 182
+      "gas:candidate-vibid:324300266695": 187,
+      "gas:candidate-vibid:1001000136022": 68,
+      "gas:candidate-vibid:1001000225917": 153,
+      "gas:candidate-vibid:324300266862": 23,
+      "gas:candidate-vibid:1001000217903": 141,
+      "gas:candidate-vibid:1001000202290": 10,
+      "special:against-all": 182
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067605&region=0&sub_region=0&type=429",
@@ -266,13 +266,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 157,
-      "Дмитриевский Владимир Вениаминович": 45,
-      "Клюкин Александр Николаевич": 92,
-      "Колмаков Валерий Агафонович": 7,
-      "Пащенко Олег Анатольевич": 106,
-      "Сидоров Анатолий Евгеньевич": 14,
-      "Против всех": 99
+      "gas:candidate-vibid:324300266695": 157,
+      "gas:candidate-vibid:1001000136022": 45,
+      "gas:candidate-vibid:1001000225917": 92,
+      "gas:candidate-vibid:324300266862": 7,
+      "gas:candidate-vibid:1001000217903": 106,
+      "gas:candidate-vibid:1001000202290": 14,
+      "special:against-all": 99
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067605&region=0&sub_region=0&type=429",
@@ -322,13 +322,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 265,
-      "Дмитриевский Владимир Вениаминович": 42,
-      "Клюкин Александр Николаевич": 87,
-      "Колмаков Валерий Агафонович": 24,
-      "Пащенко Олег Анатольевич": 154,
-      "Сидоров Анатолий Евгеньевич": 9,
-      "Против всех": 152
+      "gas:candidate-vibid:324300266695": 265,
+      "gas:candidate-vibid:1001000136022": 42,
+      "gas:candidate-vibid:1001000225917": 87,
+      "gas:candidate-vibid:324300266862": 24,
+      "gas:candidate-vibid:1001000217903": 154,
+      "gas:candidate-vibid:1001000202290": 9,
+      "special:against-all": 152
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067605&region=0&sub_region=0&type=429",
@@ -378,13 +378,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 341,
-      "Дмитриевский Владимир Вениаминович": 34,
-      "Клюкин Александр Николаевич": 149,
-      "Колмаков Валерий Агафонович": 19,
-      "Пащенко Олег Анатольевич": 115,
-      "Сидоров Анатолий Евгеньевич": 11,
-      "Против всех": 152
+      "gas:candidate-vibid:324300266695": 341,
+      "gas:candidate-vibid:1001000136022": 34,
+      "gas:candidate-vibid:1001000225917": 149,
+      "gas:candidate-vibid:324300266862": 19,
+      "gas:candidate-vibid:1001000217903": 115,
+      "gas:candidate-vibid:1001000202290": 11,
+      "special:against-all": 152
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067605&region=0&sub_region=0&type=429",
@@ -434,13 +434,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 332,
-      "Дмитриевский Владимир Вениаминович": 37,
-      "Клюкин Александр Николаевич": 133,
-      "Колмаков Валерий Агафонович": 26,
-      "Пащенко Олег Анатольевич": 174,
-      "Сидоров Анатолий Евгеньевич": 10,
-      "Против всех": 180
+      "gas:candidate-vibid:324300266695": 332,
+      "gas:candidate-vibid:1001000136022": 37,
+      "gas:candidate-vibid:1001000225917": 133,
+      "gas:candidate-vibid:324300266862": 26,
+      "gas:candidate-vibid:1001000217903": 174,
+      "gas:candidate-vibid:1001000202290": 10,
+      "special:against-all": 180
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067605&region=0&sub_region=0&type=429",
@@ -490,13 +490,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 261,
-      "Дмитриевский Владимир Вениаминович": 28,
-      "Клюкин Александр Николаевич": 109,
-      "Колмаков Валерий Агафонович": 10,
-      "Пащенко Олег Анатольевич": 79,
-      "Сидоров Анатолий Евгеньевич": 3,
-      "Против всех": 151
+      "gas:candidate-vibid:324300266695": 261,
+      "gas:candidate-vibid:1001000136022": 28,
+      "gas:candidate-vibid:1001000225917": 109,
+      "gas:candidate-vibid:324300266862": 10,
+      "gas:candidate-vibid:1001000217903": 79,
+      "gas:candidate-vibid:1001000202290": 3,
+      "special:against-all": 151
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067605&region=0&sub_region=0&type=429",
@@ -546,13 +546,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 360,
-      "Дмитриевский Владимир Вениаминович": 32,
-      "Клюкин Александр Николаевич": 115,
-      "Колмаков Валерий Агафонович": 20,
-      "Пащенко Олег Анатольевич": 119,
-      "Сидоров Анатолий Евгеньевич": 6,
-      "Против всех": 174
+      "gas:candidate-vibid:324300266695": 360,
+      "gas:candidate-vibid:1001000136022": 32,
+      "gas:candidate-vibid:1001000225917": 115,
+      "gas:candidate-vibid:324300266862": 20,
+      "gas:candidate-vibid:1001000217903": 119,
+      "gas:candidate-vibid:1001000202290": 6,
+      "special:against-all": 174
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067605&region=0&sub_region=0&type=429",
@@ -602,13 +602,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 319,
-      "Дмитриевский Владимир Вениаминович": 53,
-      "Клюкин Александр Николаевич": 145,
-      "Колмаков Валерий Агафонович": 19,
-      "Пащенко Олег Анатольевич": 155,
-      "Сидоров Анатолий Евгеньевич": 9,
-      "Против всех": 163
+      "gas:candidate-vibid:324300266695": 319,
+      "gas:candidate-vibid:1001000136022": 53,
+      "gas:candidate-vibid:1001000225917": 145,
+      "gas:candidate-vibid:324300266862": 19,
+      "gas:candidate-vibid:1001000217903": 155,
+      "gas:candidate-vibid:1001000202290": 9,
+      "special:against-all": 163
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067605&region=0&sub_region=0&type=429",
@@ -658,13 +658,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 52,
-      "Дмитриевский Владимир Вениаминович": 17,
-      "Клюкин Александр Николаевич": 38,
-      "Колмаков Валерий Агафонович": 9,
-      "Пащенко Олег Анатольевич": 24,
-      "Сидоров Анатолий Евгеньевич": 3,
-      "Против всех": 39
+      "gas:candidate-vibid:324300266695": 52,
+      "gas:candidate-vibid:1001000136022": 17,
+      "gas:candidate-vibid:1001000225917": 38,
+      "gas:candidate-vibid:324300266862": 9,
+      "gas:candidate-vibid:1001000217903": 24,
+      "gas:candidate-vibid:1001000202290": 3,
+      "special:against-all": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067605&region=0&sub_region=0&type=429",
@@ -714,13 +714,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 35,
-      "Дмитриевский Владимир Вениаминович": 6,
-      "Клюкин Александр Николаевич": 14,
-      "Колмаков Валерий Агафонович": 1,
-      "Пащенко Олег Анатольевич": 4,
-      "Сидоров Анатолий Евгеньевич": 0,
-      "Против всех": 15
+      "gas:candidate-vibid:324300266695": 35,
+      "gas:candidate-vibid:1001000136022": 6,
+      "gas:candidate-vibid:1001000225917": 14,
+      "gas:candidate-vibid:324300266862": 1,
+      "gas:candidate-vibid:1001000217903": 4,
+      "gas:candidate-vibid:1001000202290": 0,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067605&region=0&sub_region=0&type=429",
@@ -770,13 +770,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 44,
-      "Дмитриевский Владимир Вениаминович": 15,
-      "Клюкин Александр Николаевич": 35,
-      "Колмаков Валерий Агафонович": 4,
-      "Пащенко Олег Анатольевич": 9,
-      "Сидоров Анатолий Евгеньевич": 6,
-      "Против всех": 27
+      "gas:candidate-vibid:324300266695": 44,
+      "gas:candidate-vibid:1001000136022": 15,
+      "gas:candidate-vibid:1001000225917": 35,
+      "gas:candidate-vibid:324300266862": 4,
+      "gas:candidate-vibid:1001000217903": 9,
+      "gas:candidate-vibid:1001000202290": 6,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067605&region=0&sub_region=0&type=429",
@@ -826,13 +826,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 246,
-      "Дмитриевский Владимир Вениаминович": 43,
-      "Клюкин Александр Николаевич": 180,
-      "Колмаков Валерий Агафонович": 22,
-      "Пащенко Олег Анатольевич": 126,
-      "Сидоров Анатолий Евгеньевич": 9,
-      "Против всех": 104
+      "gas:candidate-vibid:324300266695": 246,
+      "gas:candidate-vibid:1001000136022": 43,
+      "gas:candidate-vibid:1001000225917": 180,
+      "gas:candidate-vibid:324300266862": 22,
+      "gas:candidate-vibid:1001000217903": 126,
+      "gas:candidate-vibid:1001000202290": 9,
+      "special:against-all": 104
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067605&region=0&sub_region=0&type=429",
@@ -882,13 +882,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 50,
-      "Дмитриевский Владимир Вениаминович": 28,
-      "Клюкин Александр Николаевич": 67,
-      "Колмаков Валерий Агафонович": 9,
-      "Пащенко Олег Анатольевич": 38,
-      "Сидоров Анатолий Евгеньевич": 3,
-      "Против всех": 40
+      "gas:candidate-vibid:324300266695": 50,
+      "gas:candidate-vibid:1001000136022": 28,
+      "gas:candidate-vibid:1001000225917": 67,
+      "gas:candidate-vibid:324300266862": 9,
+      "gas:candidate-vibid:1001000217903": 38,
+      "gas:candidate-vibid:1001000202290": 3,
+      "special:against-all": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067605&region=0&sub_region=0&type=429",
@@ -938,13 +938,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 33,
-      "Дмитриевский Владимир Вениаминович": 6,
-      "Клюкин Александр Николаевич": 13,
-      "Колмаков Валерий Агафонович": 3,
-      "Пащенко Олег Анатольевич": 15,
-      "Сидоров Анатолий Евгеньевич": 0,
-      "Против всех": 11
+      "gas:candidate-vibid:324300266695": 33,
+      "gas:candidate-vibid:1001000136022": 6,
+      "gas:candidate-vibid:1001000225917": 13,
+      "gas:candidate-vibid:324300266862": 3,
+      "gas:candidate-vibid:1001000217903": 15,
+      "gas:candidate-vibid:1001000202290": 0,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067605&region=0&sub_region=0&type=429",
@@ -994,13 +994,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 32,
-      "Дмитриевский Владимир Вениаминович": 8,
-      "Клюкин Александр Николаевич": 15,
-      "Колмаков Валерий Агафонович": 1,
-      "Пащенко Олег Анатольевич": 5,
-      "Сидоров Анатолий Евгеньевич": 2,
-      "Против всех": 6
+      "gas:candidate-vibid:324300266695": 32,
+      "gas:candidate-vibid:1001000136022": 8,
+      "gas:candidate-vibid:1001000225917": 15,
+      "gas:candidate-vibid:324300266862": 1,
+      "gas:candidate-vibid:1001000217903": 5,
+      "gas:candidate-vibid:1001000202290": 2,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067605&region=0&sub_region=0&type=429",
@@ -1050,13 +1050,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 34,
-      "Дмитриевский Владимир Вениаминович": 19,
-      "Клюкин Александр Николаевич": 24,
-      "Колмаков Валерий Агафонович": 2,
-      "Пащенко Олег Анатольевич": 7,
-      "Сидоров Анатолий Евгеньевич": 3,
-      "Против всех": 20
+      "gas:candidate-vibid:324300266695": 34,
+      "gas:candidate-vibid:1001000136022": 19,
+      "gas:candidate-vibid:1001000225917": 24,
+      "gas:candidate-vibid:324300266862": 2,
+      "gas:candidate-vibid:1001000217903": 7,
+      "gas:candidate-vibid:1001000202290": 3,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067605&region=0&sub_region=0&type=429",
@@ -1106,13 +1106,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 124,
-      "Дмитриевский Владимир Вениаминович": 29,
-      "Клюкин Александр Николаевич": 44,
-      "Колмаков Валерий Агафонович": 21,
-      "Пащенко Олег Анатольевич": 113,
-      "Сидоров Анатолий Евгеньевич": 14,
-      "Против всех": 110
+      "gas:candidate-vibid:324300266695": 124,
+      "gas:candidate-vibid:1001000136022": 29,
+      "gas:candidate-vibid:1001000225917": 44,
+      "gas:candidate-vibid:324300266862": 21,
+      "gas:candidate-vibid:1001000217903": 113,
+      "gas:candidate-vibid:1001000202290": 14,
+      "special:against-all": 110
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067605&region=0&sub_region=0&type=429",
@@ -1162,13 +1162,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 111,
-      "Дмитриевский Владимир Вениаминович": 48,
-      "Клюкин Александр Николаевич": 161,
-      "Колмаков Валерий Агафонович": 29,
-      "Пащенко Олег Анатольевич": 112,
-      "Сидоров Анатолий Евгеньевич": 25,
-      "Против всех": 193
+      "gas:candidate-vibid:324300266695": 111,
+      "gas:candidate-vibid:1001000136022": 48,
+      "gas:candidate-vibid:1001000225917": 161,
+      "gas:candidate-vibid:324300266862": 29,
+      "gas:candidate-vibid:1001000217903": 112,
+      "gas:candidate-vibid:1001000202290": 25,
+      "special:against-all": 193
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067605&region=0&sub_region=0&type=429",
@@ -1218,13 +1218,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 79,
-      "Дмитриевский Владимир Вениаминович": 54,
-      "Клюкин Александр Николаевич": 149,
-      "Колмаков Валерий Агафонович": 32,
-      "Пащенко Олег Анатольевич": 164,
-      "Сидоров Анатолий Евгеньевич": 20,
-      "Против всех": 108
+      "gas:candidate-vibid:324300266695": 79,
+      "gas:candidate-vibid:1001000136022": 54,
+      "gas:candidate-vibid:1001000225917": 149,
+      "gas:candidate-vibid:324300266862": 32,
+      "gas:candidate-vibid:1001000217903": 164,
+      "gas:candidate-vibid:1001000202290": 20,
+      "special:against-all": 108
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067605&region=0&sub_region=0&type=429",
@@ -1274,13 +1274,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 6,
-      "Дмитриевский Владимир Вениаминович": 13,
-      "Клюкин Александр Николаевич": 23,
-      "Колмаков Валерий Агафонович": 5,
-      "Пащенко Олег Анатольевич": 13,
-      "Сидоров Анатолий Евгеньевич": 2,
-      "Против всех": 5
+      "gas:candidate-vibid:324300266695": 6,
+      "gas:candidate-vibid:1001000136022": 13,
+      "gas:candidate-vibid:1001000225917": 23,
+      "gas:candidate-vibid:324300266862": 5,
+      "gas:candidate-vibid:1001000217903": 13,
+      "gas:candidate-vibid:1001000202290": 2,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067605&region=0&sub_region=0&type=429",
@@ -1330,13 +1330,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 64,
-      "Дмитриевский Владимир Вениаминович": 29,
-      "Клюкин Александр Николаевич": 54,
-      "Колмаков Валерий Агафонович": 7,
-      "Пащенко Олег Анатольевич": 23,
-      "Сидоров Анатолий Евгеньевич": 5,
-      "Против всех": 19
+      "gas:candidate-vibid:324300266695": 64,
+      "gas:candidate-vibid:1001000136022": 29,
+      "gas:candidate-vibid:1001000225917": 54,
+      "gas:candidate-vibid:324300266862": 7,
+      "gas:candidate-vibid:1001000217903": 23,
+      "gas:candidate-vibid:1001000202290": 5,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067605&region=0&sub_region=0&type=429",
@@ -1386,13 +1386,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 17,
-      "Дмитриевский Владимир Вениаминович": 6,
-      "Клюкин Александр Николаевич": 36,
-      "Колмаков Валерий Агафонович": 5,
-      "Пащенко Олег Анатольевич": 4,
-      "Сидоров Анатолий Евгеньевич": 1,
-      "Против всех": 8
+      "gas:candidate-vibid:324300266695": 17,
+      "gas:candidate-vibid:1001000136022": 6,
+      "gas:candidate-vibid:1001000225917": 36,
+      "gas:candidate-vibid:324300266862": 5,
+      "gas:candidate-vibid:1001000217903": 4,
+      "gas:candidate-vibid:1001000202290": 1,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067605&region=0&sub_region=0&type=429",
@@ -1442,13 +1442,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 9,
-      "Дмитриевский Владимир Вениаминович": 8,
-      "Клюкин Александр Николаевич": 18,
-      "Колмаков Валерий Агафонович": 3,
-      "Пащенко Олег Анатольевич": 5,
-      "Сидоров Анатолий Евгеньевич": 1,
-      "Против всех": 11
+      "gas:candidate-vibid:324300266695": 9,
+      "gas:candidate-vibid:1001000136022": 8,
+      "gas:candidate-vibid:1001000225917": 18,
+      "gas:candidate-vibid:324300266862": 3,
+      "gas:candidate-vibid:1001000217903": 5,
+      "gas:candidate-vibid:1001000202290": 1,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067605&region=0&sub_region=0&type=429",
@@ -1498,13 +1498,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 201,
-      "Дмитриевский Владимир Вениаминович": 75,
-      "Клюкин Александр Николаевич": 184,
-      "Колмаков Валерий Агафонович": 33,
-      "Пащенко Олег Анатольевич": 207,
-      "Сидоров Анатолий Евгеньевич": 27,
-      "Против всех": 203
+      "gas:candidate-vibid:324300266695": 201,
+      "gas:candidate-vibid:1001000136022": 75,
+      "gas:candidate-vibid:1001000225917": 184,
+      "gas:candidate-vibid:324300266862": 33,
+      "gas:candidate-vibid:1001000217903": 207,
+      "gas:candidate-vibid:1001000202290": 27,
+      "special:against-all": 203
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067605&region=0&sub_region=0&type=429",
@@ -1554,13 +1554,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 35,
-      "Дмитриевский Владимир Вениаминович": 9,
-      "Клюкин Александр Николаевич": 40,
-      "Колмаков Валерий Агафонович": 5,
-      "Пащенко Олег Анатольевич": 18,
-      "Сидоров Анатолий Евгеньевич": 3,
-      "Против всех": 30
+      "gas:candidate-vibid:324300266695": 35,
+      "gas:candidate-vibid:1001000136022": 9,
+      "gas:candidate-vibid:1001000225917": 40,
+      "gas:candidate-vibid:324300266862": 5,
+      "gas:candidate-vibid:1001000217903": 18,
+      "gas:candidate-vibid:1001000202290": 3,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067605&region=0&sub_region=0&type=429",
@@ -1610,13 +1610,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 29,
-      "Дмитриевский Владимир Вениаминович": 9,
-      "Клюкин Александр Николаевич": 8,
-      "Колмаков Валерий Агафонович": 4,
-      "Пащенко Олег Анатольевич": 4,
-      "Сидоров Анатолий Евгеньевич": 1,
-      "Против всех": 20
+      "gas:candidate-vibid:324300266695": 29,
+      "gas:candidate-vibid:1001000136022": 9,
+      "gas:candidate-vibid:1001000225917": 8,
+      "gas:candidate-vibid:324300266862": 4,
+      "gas:candidate-vibid:1001000217903": 4,
+      "gas:candidate-vibid:1001000202290": 1,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067605&region=0&sub_region=0&type=429",
@@ -1666,13 +1666,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 133,
-      "Дмитриевский Владимир Вениаминович": 45,
-      "Клюкин Александр Николаевич": 65,
-      "Колмаков Валерий Агафонович": 12,
-      "Пащенко Олег Анатольевич": 168,
-      "Сидоров Анатолий Евгеньевич": 12,
-      "Против всех": 91
+      "gas:candidate-vibid:324300266695": 133,
+      "gas:candidate-vibid:1001000136022": 45,
+      "gas:candidate-vibid:1001000225917": 65,
+      "gas:candidate-vibid:324300266862": 12,
+      "gas:candidate-vibid:1001000217903": 168,
+      "gas:candidate-vibid:1001000202290": 12,
+      "special:against-all": 91
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067605&region=0&sub_region=0&type=429",
@@ -1722,13 +1722,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 44,
-      "Дмитриевский Владимир Вениаминович": 19,
-      "Клюкин Александр Николаевич": 36,
-      "Колмаков Валерий Агафонович": 6,
-      "Пащенко Олег Анатольевич": 25,
-      "Сидоров Анатолий Евгеньевич": 4,
-      "Против всех": 30
+      "gas:candidate-vibid:324300266695": 44,
+      "gas:candidate-vibid:1001000136022": 19,
+      "gas:candidate-vibid:1001000225917": 36,
+      "gas:candidate-vibid:324300266862": 6,
+      "gas:candidate-vibid:1001000217903": 25,
+      "gas:candidate-vibid:1001000202290": 4,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067605&region=0&sub_region=0&type=429",
@@ -1778,13 +1778,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 26,
-      "Дмитриевский Владимир Вениаминович": 5,
-      "Клюкин Александр Николаевич": 15,
-      "Колмаков Валерий Агафонович": 0,
-      "Пащенко Олег Анатольевич": 33,
-      "Сидоров Анатолий Евгеньевич": 0,
-      "Против всех": 25
+      "gas:candidate-vibid:324300266695": 26,
+      "gas:candidate-vibid:1001000136022": 5,
+      "gas:candidate-vibid:1001000225917": 15,
+      "gas:candidate-vibid:324300266862": 0,
+      "gas:candidate-vibid:1001000217903": 33,
+      "gas:candidate-vibid:1001000202290": 0,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067605&region=0&sub_region=0&type=429",
@@ -1834,13 +1834,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 359,
-      "Дмитриевский Владимир Вениаминович": 48,
-      "Клюкин Александр Николаевич": 291,
-      "Колмаков Валерий Агафонович": 6,
-      "Пащенко Олег Анатольевич": 79,
-      "Сидоров Анатолий Евгеньевич": 8,
-      "Против всех": 141
+      "gas:candidate-vibid:324300266695": 359,
+      "gas:candidate-vibid:1001000136022": 48,
+      "gas:candidate-vibid:1001000225917": 291,
+      "gas:candidate-vibid:324300266862": 6,
+      "gas:candidate-vibid:1001000217903": 79,
+      "gas:candidate-vibid:1001000202290": 8,
+      "special:against-all": 141
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067606&region=0&sub_region=0&type=429",
@@ -1890,13 +1890,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 115,
-      "Дмитриевский Владимир Вениаминович": 34,
-      "Клюкин Александр Николаевич": 199,
-      "Колмаков Валерий Агафонович": 8,
-      "Пащенко Олег Анатольевич": 64,
-      "Сидоров Анатолий Евгеньевич": 5,
-      "Против всех": 197
+      "gas:candidate-vibid:324300266695": 115,
+      "gas:candidate-vibid:1001000136022": 34,
+      "gas:candidate-vibid:1001000225917": 199,
+      "gas:candidate-vibid:324300266862": 8,
+      "gas:candidate-vibid:1001000217903": 64,
+      "gas:candidate-vibid:1001000202290": 5,
+      "special:against-all": 197
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067606&region=0&sub_region=0&type=429",
@@ -1946,13 +1946,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 279,
-      "Дмитриевский Владимир Вениаминович": 70,
-      "Клюкин Александр Николаевич": 311,
-      "Колмаков Валерий Агафонович": 28,
-      "Пащенко Олег Анатольевич": 88,
-      "Сидоров Анатолий Евгеньевич": 13,
-      "Против всех": 241
+      "gas:candidate-vibid:324300266695": 279,
+      "gas:candidate-vibid:1001000136022": 70,
+      "gas:candidate-vibid:1001000225917": 311,
+      "gas:candidate-vibid:324300266862": 28,
+      "gas:candidate-vibid:1001000217903": 88,
+      "gas:candidate-vibid:1001000202290": 13,
+      "special:against-all": 241
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067606&region=0&sub_region=0&type=429",
@@ -2002,13 +2002,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 182,
-      "Дмитриевский Владимир Вениаминович": 54,
-      "Клюкин Александр Николаевич": 435,
-      "Колмаков Валерий Агафонович": 23,
-      "Пащенко Олег Анатольевич": 89,
-      "Сидоров Анатолий Евгеньевич": 19,
-      "Против всех": 247
+      "gas:candidate-vibid:324300266695": 182,
+      "gas:candidate-vibid:1001000136022": 54,
+      "gas:candidate-vibid:1001000225917": 435,
+      "gas:candidate-vibid:324300266862": 23,
+      "gas:candidate-vibid:1001000217903": 89,
+      "gas:candidate-vibid:1001000202290": 19,
+      "special:against-all": 247
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067606&region=0&sub_region=0&type=429",
@@ -2058,13 +2058,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 250,
-      "Дмитриевский Владимир Вениаминович": 74,
-      "Клюкин Александр Николаевич": 420,
-      "Колмаков Валерий Агафонович": 22,
-      "Пащенко Олег Анатольевич": 79,
-      "Сидоров Анатолий Евгеньевич": 9,
-      "Против всех": 318
+      "gas:candidate-vibid:324300266695": 250,
+      "gas:candidate-vibid:1001000136022": 74,
+      "gas:candidate-vibid:1001000225917": 420,
+      "gas:candidate-vibid:324300266862": 22,
+      "gas:candidate-vibid:1001000217903": 79,
+      "gas:candidate-vibid:1001000202290": 9,
+      "special:against-all": 318
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067606&region=0&sub_region=0&type=429",
@@ -2114,13 +2114,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 213,
-      "Дмитриевский Владимир Вениаминович": 58,
-      "Клюкин Александр Николаевич": 372,
-      "Колмаков Валерий Агафонович": 25,
-      "Пащенко Олег Анатольевич": 57,
-      "Сидоров Анатолий Евгеньевич": 14,
-      "Против всех": 268
+      "gas:candidate-vibid:324300266695": 213,
+      "gas:candidate-vibid:1001000136022": 58,
+      "gas:candidate-vibid:1001000225917": 372,
+      "gas:candidate-vibid:324300266862": 25,
+      "gas:candidate-vibid:1001000217903": 57,
+      "gas:candidate-vibid:1001000202290": 14,
+      "special:against-all": 268
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067606&region=0&sub_region=0&type=429",
@@ -2170,13 +2170,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 198,
-      "Дмитриевский Владимир Вениаминович": 50,
-      "Клюкин Александр Николаевич": 405,
-      "Колмаков Валерий Агафонович": 16,
-      "Пащенко Олег Анатольевич": 62,
-      "Сидоров Анатолий Евгеньевич": 9,
-      "Против всех": 268
+      "gas:candidate-vibid:324300266695": 198,
+      "gas:candidate-vibid:1001000136022": 50,
+      "gas:candidate-vibid:1001000225917": 405,
+      "gas:candidate-vibid:324300266862": 16,
+      "gas:candidate-vibid:1001000217903": 62,
+      "gas:candidate-vibid:1001000202290": 9,
+      "special:against-all": 268
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067606&region=0&sub_region=0&type=429",
@@ -2226,13 +2226,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 235,
-      "Дмитриевский Владимир Вениаминович": 57,
-      "Клюкин Александр Николаевич": 402,
-      "Колмаков Валерий Агафонович": 13,
-      "Пащенко Олег Анатольевич": 67,
-      "Сидоров Анатолий Евгеньевич": 11,
-      "Против всех": 219
+      "gas:candidate-vibid:324300266695": 235,
+      "gas:candidate-vibid:1001000136022": 57,
+      "gas:candidate-vibid:1001000225917": 402,
+      "gas:candidate-vibid:324300266862": 13,
+      "gas:candidate-vibid:1001000217903": 67,
+      "gas:candidate-vibid:1001000202290": 11,
+      "special:against-all": 219
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067606&region=0&sub_region=0&type=429",
@@ -2282,13 +2282,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 240,
-      "Дмитриевский Владимир Вениаминович": 64,
-      "Клюкин Александр Николаевич": 360,
-      "Колмаков Валерий Агафонович": 17,
-      "Пащенко Олег Анатольевич": 43,
-      "Сидоров Анатолий Евгеньевич": 10,
-      "Против всех": 248
+      "gas:candidate-vibid:324300266695": 240,
+      "gas:candidate-vibid:1001000136022": 64,
+      "gas:candidate-vibid:1001000225917": 360,
+      "gas:candidate-vibid:324300266862": 17,
+      "gas:candidate-vibid:1001000217903": 43,
+      "gas:candidate-vibid:1001000202290": 10,
+      "special:against-all": 248
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067606&region=0&sub_region=0&type=429",
@@ -2338,13 +2338,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 195,
-      "Дмитриевский Владимир Вениаминович": 41,
-      "Клюкин Александр Николаевич": 347,
-      "Колмаков Валерий Агафонович": 26,
-      "Пащенко Олег Анатольевич": 65,
-      "Сидоров Анатолий Евгеньевич": 12,
-      "Против всех": 246
+      "gas:candidate-vibid:324300266695": 195,
+      "gas:candidate-vibid:1001000136022": 41,
+      "gas:candidate-vibid:1001000225917": 347,
+      "gas:candidate-vibid:324300266862": 26,
+      "gas:candidate-vibid:1001000217903": 65,
+      "gas:candidate-vibid:1001000202290": 12,
+      "special:against-all": 246
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067606&region=0&sub_region=0&type=429",
@@ -2394,13 +2394,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 252,
-      "Дмитриевский Владимир Вениаминович": 62,
-      "Клюкин Александр Николаевич": 276,
-      "Колмаков Валерий Агафонович": 10,
-      "Пащенко Олег Анатольевич": 98,
-      "Сидоров Анатолий Евгеньевич": 12,
-      "Против всех": 254
+      "gas:candidate-vibid:324300266695": 252,
+      "gas:candidate-vibid:1001000136022": 62,
+      "gas:candidate-vibid:1001000225917": 276,
+      "gas:candidate-vibid:324300266862": 10,
+      "gas:candidate-vibid:1001000217903": 98,
+      "gas:candidate-vibid:1001000202290": 12,
+      "special:against-all": 254
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067606&region=0&sub_region=0&type=429",
@@ -2450,13 +2450,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 136,
-      "Дмитриевский Владимир Вениаминович": 31,
-      "Клюкин Александр Николаевич": 207,
-      "Колмаков Валерий Агафонович": 6,
-      "Пащенко Олег Анатольевич": 22,
-      "Сидоров Анатолий Евгеньевич": 5,
-      "Против всех": 123
+      "gas:candidate-vibid:324300266695": 136,
+      "gas:candidate-vibid:1001000136022": 31,
+      "gas:candidate-vibid:1001000225917": 207,
+      "gas:candidate-vibid:324300266862": 6,
+      "gas:candidate-vibid:1001000217903": 22,
+      "gas:candidate-vibid:1001000202290": 5,
+      "special:against-all": 123
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067606&region=0&sub_region=0&type=429",
@@ -2506,13 +2506,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 212,
-      "Дмитриевский Владимир Вениаминович": 80,
-      "Клюкин Александр Николаевич": 350,
-      "Колмаков Валерий Агафонович": 10,
-      "Пащенко Олег Анатольевич": 59,
-      "Сидоров Анатолий Евгеньевич": 15,
-      "Против всех": 278
+      "gas:candidate-vibid:324300266695": 212,
+      "gas:candidate-vibid:1001000136022": 80,
+      "gas:candidate-vibid:1001000225917": 350,
+      "gas:candidate-vibid:324300266862": 10,
+      "gas:candidate-vibid:1001000217903": 59,
+      "gas:candidate-vibid:1001000202290": 15,
+      "special:against-all": 278
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067606&region=0&sub_region=0&type=429",
@@ -2562,13 +2562,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 268,
-      "Дмитриевский Владимир Вениаминович": 74,
-      "Клюкин Александр Николаевич": 333,
-      "Колмаков Валерий Агафонович": 14,
-      "Пащенко Олег Анатольевич": 66,
-      "Сидоров Анатолий Евгеньевич": 15,
-      "Против всех": 290
+      "gas:candidate-vibid:324300266695": 268,
+      "gas:candidate-vibid:1001000136022": 74,
+      "gas:candidate-vibid:1001000225917": 333,
+      "gas:candidate-vibid:324300266862": 14,
+      "gas:candidate-vibid:1001000217903": 66,
+      "gas:candidate-vibid:1001000202290": 15,
+      "special:against-all": 290
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067606&region=0&sub_region=0&type=429",
@@ -2618,13 +2618,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 123,
-      "Дмитриевский Владимир Вениаминович": 15,
-      "Клюкин Александр Николаевич": 146,
-      "Колмаков Валерий Агафонович": 8,
-      "Пащенко Олег Анатольевич": 16,
-      "Сидоров Анатолий Евгеньевич": 7,
-      "Против всех": 39
+      "gas:candidate-vibid:324300266695": 123,
+      "gas:candidate-vibid:1001000136022": 15,
+      "gas:candidate-vibid:1001000225917": 146,
+      "gas:candidate-vibid:324300266862": 8,
+      "gas:candidate-vibid:1001000217903": 16,
+      "gas:candidate-vibid:1001000202290": 7,
+      "special:against-all": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067606&region=0&sub_region=0&type=429",
@@ -2674,13 +2674,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 216,
-      "Дмитриевский Владимир Вениаминович": 40,
-      "Клюкин Александр Николаевич": 168,
-      "Колмаков Валерий Агафонович": 10,
-      "Пащенко Олег Анатольевич": 49,
-      "Сидоров Анатолий Евгеньевич": 14,
-      "Против всех": 138
+      "gas:candidate-vibid:324300266695": 216,
+      "gas:candidate-vibid:1001000136022": 40,
+      "gas:candidate-vibid:1001000225917": 168,
+      "gas:candidate-vibid:324300266862": 10,
+      "gas:candidate-vibid:1001000217903": 49,
+      "gas:candidate-vibid:1001000202290": 14,
+      "special:against-all": 138
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067606&region=0&sub_region=0&type=429",
@@ -2730,13 +2730,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 214,
-      "Дмитриевский Владимир Вениаминович": 69,
-      "Клюкин Александр Николаевич": 340,
-      "Колмаков Валерий Агафонович": 10,
-      "Пащенко Олег Анатольевич": 35,
-      "Сидоров Анатолий Евгеньевич": 9,
-      "Против всех": 198
+      "gas:candidate-vibid:324300266695": 214,
+      "gas:candidate-vibid:1001000136022": 69,
+      "gas:candidate-vibid:1001000225917": 340,
+      "gas:candidate-vibid:324300266862": 10,
+      "gas:candidate-vibid:1001000217903": 35,
+      "gas:candidate-vibid:1001000202290": 9,
+      "special:against-all": 198
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067606&region=0&sub_region=0&type=429",
@@ -2786,13 +2786,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 373,
-      "Дмитриевский Владимир Вениаминович": 93,
-      "Клюкин Александр Николаевич": 330,
-      "Колмаков Валерий Агафонович": 14,
-      "Пащенко Олег Анатольевич": 51,
-      "Сидоров Анатолий Евгеньевич": 14,
-      "Против всех": 277
+      "gas:candidate-vibid:324300266695": 373,
+      "gas:candidate-vibid:1001000136022": 93,
+      "gas:candidate-vibid:1001000225917": 330,
+      "gas:candidate-vibid:324300266862": 14,
+      "gas:candidate-vibid:1001000217903": 51,
+      "gas:candidate-vibid:1001000202290": 14,
+      "special:against-all": 277
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067606&region=0&sub_region=0&type=429",
@@ -2842,13 +2842,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 352,
-      "Дмитриевский Владимир Вениаминович": 62,
-      "Клюкин Александр Николаевич": 299,
-      "Колмаков Валерий Агафонович": 10,
-      "Пащенко Олег Анатольевич": 98,
-      "Сидоров Анатолий Евгеньевич": 16,
-      "Против всех": 256
+      "gas:candidate-vibid:324300266695": 352,
+      "gas:candidate-vibid:1001000136022": 62,
+      "gas:candidate-vibid:1001000225917": 299,
+      "gas:candidate-vibid:324300266862": 10,
+      "gas:candidate-vibid:1001000217903": 98,
+      "gas:candidate-vibid:1001000202290": 16,
+      "special:against-all": 256
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067606&region=0&sub_region=0&type=429",
@@ -2898,13 +2898,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 93,
-      "Дмитриевский Владимир Вениаминович": 48,
-      "Клюкин Александр Николаевич": 204,
-      "Колмаков Валерий Агафонович": 21,
-      "Пащенко Олег Анатольевич": 74,
-      "Сидоров Анатолий Евгеньевич": 11,
-      "Против всех": 107
+      "gas:candidate-vibid:324300266695": 93,
+      "gas:candidate-vibid:1001000136022": 48,
+      "gas:candidate-vibid:1001000225917": 204,
+      "gas:candidate-vibid:324300266862": 21,
+      "gas:candidate-vibid:1001000217903": 74,
+      "gas:candidate-vibid:1001000202290": 11,
+      "special:against-all": 107
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067607&region=0&sub_region=0&type=429",
@@ -2954,13 +2954,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 20,
-      "Дмитриевский Владимир Вениаминович": 6,
-      "Клюкин Александр Николаевич": 14,
-      "Колмаков Валерий Агафонович": 6,
-      "Пащенко Олег Анатольевич": 11,
-      "Сидоров Анатолий Евгеньевич": 2,
-      "Против всех": 13
+      "gas:candidate-vibid:324300266695": 20,
+      "gas:candidate-vibid:1001000136022": 6,
+      "gas:candidate-vibid:1001000225917": 14,
+      "gas:candidate-vibid:324300266862": 6,
+      "gas:candidate-vibid:1001000217903": 11,
+      "gas:candidate-vibid:1001000202290": 2,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067607&region=0&sub_region=0&type=429",
@@ -3010,13 +3010,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 17,
-      "Дмитриевский Владимир Вениаминович": 8,
-      "Клюкин Александр Николаевич": 43,
-      "Колмаков Валерий Агафонович": 4,
-      "Пащенко Олег Анатольевич": 6,
-      "Сидоров Анатолий Евгеньевич": 0,
-      "Против всех": 14
+      "gas:candidate-vibid:324300266695": 17,
+      "gas:candidate-vibid:1001000136022": 8,
+      "gas:candidate-vibid:1001000225917": 43,
+      "gas:candidate-vibid:324300266862": 4,
+      "gas:candidate-vibid:1001000217903": 6,
+      "gas:candidate-vibid:1001000202290": 0,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067607&region=0&sub_region=0&type=429",
@@ -3066,13 +3066,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 9,
-      "Дмитриевский Владимир Вениаминович": 12,
-      "Клюкин Александр Николаевич": 21,
-      "Колмаков Валерий Агафонович": 4,
-      "Пащенко Олег Анатольевич": 12,
-      "Сидоров Анатолий Евгеньевич": 3,
-      "Против всех": 20
+      "gas:candidate-vibid:324300266695": 9,
+      "gas:candidate-vibid:1001000136022": 12,
+      "gas:candidate-vibid:1001000225917": 21,
+      "gas:candidate-vibid:324300266862": 4,
+      "gas:candidate-vibid:1001000217903": 12,
+      "gas:candidate-vibid:1001000202290": 3,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067607&region=0&sub_region=0&type=429",
@@ -3122,13 +3122,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 13,
-      "Дмитриевский Владимир Вениаминович": 13,
-      "Клюкин Александр Николаевич": 44,
-      "Колмаков Валерий Агафонович": 6,
-      "Пащенко Олег Анатольевич": 60,
-      "Сидоров Анатолий Евгеньевич": 1,
-      "Против всех": 16
+      "gas:candidate-vibid:324300266695": 13,
+      "gas:candidate-vibid:1001000136022": 13,
+      "gas:candidate-vibid:1001000225917": 44,
+      "gas:candidate-vibid:324300266862": 6,
+      "gas:candidate-vibid:1001000217903": 60,
+      "gas:candidate-vibid:1001000202290": 1,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067607&region=0&sub_region=0&type=429",
@@ -3178,13 +3178,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 35,
-      "Дмитриевский Владимир Вениаминович": 44,
-      "Клюкин Александр Николаевич": 149,
-      "Колмаков Валерий Агафонович": 15,
-      "Пащенко Олег Анатольевич": 82,
-      "Сидоров Анатолий Евгеньевич": 2,
-      "Против всех": 67
+      "gas:candidate-vibid:324300266695": 35,
+      "gas:candidate-vibid:1001000136022": 44,
+      "gas:candidate-vibid:1001000225917": 149,
+      "gas:candidate-vibid:324300266862": 15,
+      "gas:candidate-vibid:1001000217903": 82,
+      "gas:candidate-vibid:1001000202290": 2,
+      "special:against-all": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067607&region=0&sub_region=0&type=429",
@@ -3234,13 +3234,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 30,
-      "Дмитриевский Владимир Вениаминович": 9,
-      "Клюкин Александр Николаевич": 45,
-      "Колмаков Валерий Агафонович": 7,
-      "Пащенко Олег Анатольевич": 20,
-      "Сидоров Анатолий Евгеньевич": 7,
-      "Против всех": 26
+      "gas:candidate-vibid:324300266695": 30,
+      "gas:candidate-vibid:1001000136022": 9,
+      "gas:candidate-vibid:1001000225917": 45,
+      "gas:candidate-vibid:324300266862": 7,
+      "gas:candidate-vibid:1001000217903": 20,
+      "gas:candidate-vibid:1001000202290": 7,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067607&region=0&sub_region=0&type=429",
@@ -3290,13 +3290,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 70,
-      "Дмитриевский Владимир Вениаминович": 14,
-      "Клюкин Александр Николаевич": 49,
-      "Колмаков Валерий Агафонович": 7,
-      "Пащенко Олег Анатольевич": 11,
-      "Сидоров Анатолий Евгеньевич": 2,
-      "Против всех": 21
+      "gas:candidate-vibid:324300266695": 70,
+      "gas:candidate-vibid:1001000136022": 14,
+      "gas:candidate-vibid:1001000225917": 49,
+      "gas:candidate-vibid:324300266862": 7,
+      "gas:candidate-vibid:1001000217903": 11,
+      "gas:candidate-vibid:1001000202290": 2,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067607&region=0&sub_region=0&type=429",
@@ -3346,13 +3346,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 21,
-      "Дмитриевский Владимир Вениаминович": 14,
-      "Клюкин Александр Николаевич": 16,
-      "Колмаков Валерий Агафонович": 2,
-      "Пащенко Олег Анатольевич": 25,
-      "Сидоров Анатолий Евгеньевич": 3,
-      "Против всех": 12
+      "gas:candidate-vibid:324300266695": 21,
+      "gas:candidate-vibid:1001000136022": 14,
+      "gas:candidate-vibid:1001000225917": 16,
+      "gas:candidate-vibid:324300266862": 2,
+      "gas:candidate-vibid:1001000217903": 25,
+      "gas:candidate-vibid:1001000202290": 3,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067607&region=0&sub_region=0&type=429",
@@ -3402,13 +3402,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 10,
-      "Дмитриевский Владимир Вениаминович": 14,
-      "Клюкин Александр Николаевич": 15,
-      "Колмаков Валерий Агафонович": 13,
-      "Пащенко Олег Анатольевич": 10,
-      "Сидоров Анатолий Евгеньевич": 1,
-      "Против всех": 28
+      "gas:candidate-vibid:324300266695": 10,
+      "gas:candidate-vibid:1001000136022": 14,
+      "gas:candidate-vibid:1001000225917": 15,
+      "gas:candidate-vibid:324300266862": 13,
+      "gas:candidate-vibid:1001000217903": 10,
+      "gas:candidate-vibid:1001000202290": 1,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067607&region=0&sub_region=0&type=429",
@@ -3458,13 +3458,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 20,
-      "Дмитриевский Владимир Вениаминович": 15,
-      "Клюкин Александр Николаевич": 57,
-      "Колмаков Валерий Агафонович": 4,
-      "Пащенко Олег Анатольевич": 15,
-      "Сидоров Анатолий Евгеньевич": 1,
-      "Против всех": 30
+      "gas:candidate-vibid:324300266695": 20,
+      "gas:candidate-vibid:1001000136022": 15,
+      "gas:candidate-vibid:1001000225917": 57,
+      "gas:candidate-vibid:324300266862": 4,
+      "gas:candidate-vibid:1001000217903": 15,
+      "gas:candidate-vibid:1001000202290": 1,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067607&region=0&sub_region=0&type=429",
@@ -3514,13 +3514,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 82,
-      "Дмитриевский Владимир Вениаминович": 24,
-      "Клюкин Александр Николаевич": 147,
-      "Колмаков Валерий Агафонович": 4,
-      "Пащенко Олег Анатольевич": 43,
-      "Сидоров Анатолий Евгеньевич": 6,
-      "Против всех": 80
+      "gas:candidate-vibid:324300266695": 82,
+      "gas:candidate-vibid:1001000136022": 24,
+      "gas:candidate-vibid:1001000225917": 147,
+      "gas:candidate-vibid:324300266862": 4,
+      "gas:candidate-vibid:1001000217903": 43,
+      "gas:candidate-vibid:1001000202290": 6,
+      "special:against-all": 80
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067607&region=0&sub_region=0&type=429",
@@ -3570,13 +3570,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 30,
-      "Дмитриевский Владимир Вениаминович": 9,
-      "Клюкин Александр Николаевич": 36,
-      "Колмаков Валерий Агафонович": 4,
-      "Пащенко Олег Анатольевич": 20,
-      "Сидоров Анатолий Евгеньевич": 3,
-      "Против всех": 24
+      "gas:candidate-vibid:324300266695": 30,
+      "gas:candidate-vibid:1001000136022": 9,
+      "gas:candidate-vibid:1001000225917": 36,
+      "gas:candidate-vibid:324300266862": 4,
+      "gas:candidate-vibid:1001000217903": 20,
+      "gas:candidate-vibid:1001000202290": 3,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067607&region=0&sub_region=0&type=429",
@@ -3626,13 +3626,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 12,
-      "Дмитриевский Владимир Вениаминович": 11,
-      "Клюкин Александр Николаевич": 23,
-      "Колмаков Валерий Агафонович": 8,
-      "Пащенко Олег Анатольевич": 9,
-      "Сидоров Анатолий Евгеньевич": 2,
-      "Против всех": 27
+      "gas:candidate-vibid:324300266695": 12,
+      "gas:candidate-vibid:1001000136022": 11,
+      "gas:candidate-vibid:1001000225917": 23,
+      "gas:candidate-vibid:324300266862": 8,
+      "gas:candidate-vibid:1001000217903": 9,
+      "gas:candidate-vibid:1001000202290": 2,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067607&region=0&sub_region=0&type=429",
@@ -3682,13 +3682,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 7,
-      "Дмитриевский Владимир Вениаминович": 16,
-      "Клюкин Александр Николаевич": 35,
-      "Колмаков Валерий Агафонович": 2,
-      "Пащенко Олег Анатольевич": 10,
-      "Сидоров Анатолий Евгеньевич": 3,
-      "Против всех": 23
+      "gas:candidate-vibid:324300266695": 7,
+      "gas:candidate-vibid:1001000136022": 16,
+      "gas:candidate-vibid:1001000225917": 35,
+      "gas:candidate-vibid:324300266862": 2,
+      "gas:candidate-vibid:1001000217903": 10,
+      "gas:candidate-vibid:1001000202290": 3,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067607&region=0&sub_region=0&type=429",
@@ -3738,13 +3738,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 79,
-      "Дмитриевский Владимир Вениаминович": 26,
-      "Клюкин Александр Николаевич": 136,
-      "Колмаков Валерий Агафонович": 8,
-      "Пащенко Олег Анатольевич": 30,
-      "Сидоров Анатолий Евгеньевич": 8,
-      "Против всех": 46
+      "gas:candidate-vibid:324300266695": 79,
+      "gas:candidate-vibid:1001000136022": 26,
+      "gas:candidate-vibid:1001000225917": 136,
+      "gas:candidate-vibid:324300266862": 8,
+      "gas:candidate-vibid:1001000217903": 30,
+      "gas:candidate-vibid:1001000202290": 8,
+      "special:against-all": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067607&region=0&sub_region=0&type=429",
@@ -3794,13 +3794,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 62,
-      "Дмитриевский Владимир Вениаминович": 25,
-      "Клюкин Александр Николаевич": 97,
-      "Колмаков Валерий Агафонович": 15,
-      "Пащенко Олег Анатольевич": 43,
-      "Сидоров Анатолий Евгеньевич": 9,
-      "Против всех": 58
+      "gas:candidate-vibid:324300266695": 62,
+      "gas:candidate-vibid:1001000136022": 25,
+      "gas:candidate-vibid:1001000225917": 97,
+      "gas:candidate-vibid:324300266862": 15,
+      "gas:candidate-vibid:1001000217903": 43,
+      "gas:candidate-vibid:1001000202290": 9,
+      "special:against-all": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067607&region=0&sub_region=0&type=429",
@@ -3850,13 +3850,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 7,
-      "Дмитриевский Владимир Вениаминович": 4,
-      "Клюкин Александр Николаевич": 23,
-      "Колмаков Валерий Агафонович": 2,
-      "Пащенко Олег Анатольевич": 9,
-      "Сидоров Анатолий Евгеньевич": 1,
-      "Против всех": 9
+      "gas:candidate-vibid:324300266695": 7,
+      "gas:candidate-vibid:1001000136022": 4,
+      "gas:candidate-vibid:1001000225917": 23,
+      "gas:candidate-vibid:324300266862": 2,
+      "gas:candidate-vibid:1001000217903": 9,
+      "gas:candidate-vibid:1001000202290": 1,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067607&region=0&sub_region=0&type=429",
@@ -3906,13 +3906,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 27,
-      "Дмитриевский Владимир Вениаминович": 11,
-      "Клюкин Александр Николаевич": 81,
-      "Колмаков Валерий Агафонович": 3,
-      "Пащенко Олег Анатольевич": 18,
-      "Сидоров Анатолий Евгеньевич": 4,
-      "Против всех": 25
+      "gas:candidate-vibid:324300266695": 27,
+      "gas:candidate-vibid:1001000136022": 11,
+      "gas:candidate-vibid:1001000225917": 81,
+      "gas:candidate-vibid:324300266862": 3,
+      "gas:candidate-vibid:1001000217903": 18,
+      "gas:candidate-vibid:1001000202290": 4,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067607&region=0&sub_region=0&type=429",
@@ -3962,13 +3962,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 15,
-      "Дмитриевский Владимир Вениаминович": 7,
-      "Клюкин Александр Николаевич": 47,
-      "Колмаков Валерий Агафонович": 5,
-      "Пащенко Олег Анатольевич": 7,
-      "Сидоров Анатолий Евгеньевич": 1,
-      "Против всех": 6
+      "gas:candidate-vibid:324300266695": 15,
+      "gas:candidate-vibid:1001000136022": 7,
+      "gas:candidate-vibid:1001000225917": 47,
+      "gas:candidate-vibid:324300266862": 5,
+      "gas:candidate-vibid:1001000217903": 7,
+      "gas:candidate-vibid:1001000202290": 1,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067607&region=0&sub_region=0&type=429",
@@ -4018,13 +4018,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 104,
-      "Дмитриевский Владимир Вениаминович": 16,
-      "Клюкин Александр Николаевич": 171,
-      "Колмаков Валерий Агафонович": 3,
-      "Пащенко Олег Анатольевич": 15,
-      "Сидоров Анатолий Евгеньевич": 1,
-      "Против всех": 63
+      "gas:candidate-vibid:324300266695": 104,
+      "gas:candidate-vibid:1001000136022": 16,
+      "gas:candidate-vibid:1001000225917": 171,
+      "gas:candidate-vibid:324300266862": 3,
+      "gas:candidate-vibid:1001000217903": 15,
+      "gas:candidate-vibid:1001000202290": 1,
+      "special:against-all": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067607&region=0&sub_region=0&type=429",
@@ -4074,13 +4074,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 186,
-      "Дмитриевский Владимир Вениаминович": 12,
-      "Клюкин Александр Николаевич": 244,
-      "Колмаков Валерий Агафонович": 8,
-      "Пащенко Олег Анатольевич": 22,
-      "Сидоров Анатолий Евгеньевич": 2,
-      "Против всех": 64
+      "gas:candidate-vibid:324300266695": 186,
+      "gas:candidate-vibid:1001000136022": 12,
+      "gas:candidate-vibid:1001000225917": 244,
+      "gas:candidate-vibid:324300266862": 8,
+      "gas:candidate-vibid:1001000217903": 22,
+      "gas:candidate-vibid:1001000202290": 2,
+      "special:against-all": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067607&region=0&sub_region=0&type=429",
@@ -4130,13 +4130,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 43,
-      "Дмитриевский Владимир Вениаминович": 6,
-      "Клюкин Александр Николаевич": 36,
-      "Колмаков Валерий Агафонович": 3,
-      "Пащенко Олег Анатольевич": 7,
-      "Сидоров Анатолий Евгеньевич": 2,
-      "Против всех": 18
+      "gas:candidate-vibid:324300266695": 43,
+      "gas:candidate-vibid:1001000136022": 6,
+      "gas:candidate-vibid:1001000225917": 36,
+      "gas:candidate-vibid:324300266862": 3,
+      "gas:candidate-vibid:1001000217903": 7,
+      "gas:candidate-vibid:1001000202290": 2,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067607&region=0&sub_region=0&type=429",
@@ -4186,13 +4186,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 46,
-      "Дмитриевский Владимир Вениаминович": 19,
-      "Клюкин Александр Николаевич": 63,
-      "Колмаков Валерий Агафонович": 3,
-      "Пащенко Олег Анатольевич": 4,
-      "Сидоров Анатолий Евгеньевич": 1,
-      "Против всех": 17
+      "gas:candidate-vibid:324300266695": 46,
+      "gas:candidate-vibid:1001000136022": 19,
+      "gas:candidate-vibid:1001000225917": 63,
+      "gas:candidate-vibid:324300266862": 3,
+      "gas:candidate-vibid:1001000217903": 4,
+      "gas:candidate-vibid:1001000202290": 1,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067607&region=0&sub_region=0&type=429",
@@ -4242,13 +4242,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 26,
-      "Дмитриевский Владимир Вениаминович": 7,
-      "Клюкин Александр Николаевич": 101,
-      "Колмаков Валерий Агафонович": 7,
-      "Пащенко Олег Анатольевич": 9,
-      "Сидоров Анатолий Евгеньевич": 0,
-      "Против всех": 29
+      "gas:candidate-vibid:324300266695": 26,
+      "gas:candidate-vibid:1001000136022": 7,
+      "gas:candidate-vibid:1001000225917": 101,
+      "gas:candidate-vibid:324300266862": 7,
+      "gas:candidate-vibid:1001000217903": 9,
+      "gas:candidate-vibid:1001000202290": 0,
+      "special:against-all": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067607&region=0&sub_region=0&type=429",
@@ -4298,13 +4298,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 16,
-      "Дмитриевский Владимир Вениаминович": 10,
-      "Клюкин Александр Николаевич": 30,
-      "Колмаков Валерий Агафонович": 6,
-      "Пащенко Олег Анатольевич": 10,
-      "Сидоров Анатолий Евгеньевич": 0,
-      "Против всех": 9
+      "gas:candidate-vibid:324300266695": 16,
+      "gas:candidate-vibid:1001000136022": 10,
+      "gas:candidate-vibid:1001000225917": 30,
+      "gas:candidate-vibid:324300266862": 6,
+      "gas:candidate-vibid:1001000217903": 10,
+      "gas:candidate-vibid:1001000202290": 0,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067607&region=0&sub_region=0&type=429",
@@ -4354,13 +4354,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 20,
-      "Дмитриевский Владимир Вениаминович": 10,
-      "Клюкин Александр Николаевич": 83,
-      "Колмаков Валерий Агафонович": 4,
-      "Пащенко Олег Анатольевич": 6,
-      "Сидоров Анатолий Евгеньевич": 3,
-      "Против всех": 36
+      "gas:candidate-vibid:324300266695": 20,
+      "gas:candidate-vibid:1001000136022": 10,
+      "gas:candidate-vibid:1001000225917": 83,
+      "gas:candidate-vibid:324300266862": 4,
+      "gas:candidate-vibid:1001000217903": 6,
+      "gas:candidate-vibid:1001000202290": 3,
+      "special:against-all": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067607&region=0&sub_region=0&type=429",
@@ -4410,13 +4410,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 133,
-      "Дмитриевский Владимир Вениаминович": 44,
-      "Клюкин Александр Николаевич": 189,
-      "Колмаков Валерий Агафонович": 9,
-      "Пащенко Олег Анатольевич": 49,
-      "Сидоров Анатолий Евгеньевич": 2,
-      "Против всех": 66
+      "gas:candidate-vibid:324300266695": 133,
+      "gas:candidate-vibid:1001000136022": 44,
+      "gas:candidate-vibid:1001000225917": 189,
+      "gas:candidate-vibid:324300266862": 9,
+      "gas:candidate-vibid:1001000217903": 49,
+      "gas:candidate-vibid:1001000202290": 2,
+      "special:against-all": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067607&region=0&sub_region=0&type=429",
@@ -4466,13 +4466,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 21,
-      "Дмитриевский Владимир Вениаминович": 5,
-      "Клюкин Александр Николаевич": 8,
-      "Колмаков Валерий Агафонович": 2,
-      "Пащенко Олег Анатольевич": 0,
-      "Сидоров Анатолий Евгеньевич": 1,
-      "Против всех": 14
+      "gas:candidate-vibid:324300266695": 21,
+      "gas:candidate-vibid:1001000136022": 5,
+      "gas:candidate-vibid:1001000225917": 8,
+      "gas:candidate-vibid:324300266862": 2,
+      "gas:candidate-vibid:1001000217903": 0,
+      "gas:candidate-vibid:1001000202290": 1,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067607&region=0&sub_region=0&type=429",
@@ -4522,13 +4522,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 91,
-      "Дмитриевский Владимир Вениаминович": 6,
-      "Клюкин Александр Николаевич": 25,
-      "Колмаков Валерий Агафонович": 5,
-      "Пащенко Олег Анатольевич": 16,
-      "Сидоров Анатолий Евгеньевич": 4,
-      "Против всех": 23
+      "gas:candidate-vibid:324300266695": 91,
+      "gas:candidate-vibid:1001000136022": 6,
+      "gas:candidate-vibid:1001000225917": 25,
+      "gas:candidate-vibid:324300266862": 5,
+      "gas:candidate-vibid:1001000217903": 16,
+      "gas:candidate-vibid:1001000202290": 4,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067607&region=0&sub_region=0&type=429",
@@ -4578,13 +4578,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 18,
-      "Дмитриевский Владимир Вениаминович": 17,
-      "Клюкин Александр Николаевич": 44,
-      "Колмаков Валерий Агафонович": 7,
-      "Пащенко Олег Анатольевич": 29,
-      "Сидоров Анатолий Евгеньевич": 4,
-      "Против всех": 32
+      "gas:candidate-vibid:324300266695": 18,
+      "gas:candidate-vibid:1001000136022": 17,
+      "gas:candidate-vibid:1001000225917": 44,
+      "gas:candidate-vibid:324300266862": 7,
+      "gas:candidate-vibid:1001000217903": 29,
+      "gas:candidate-vibid:1001000202290": 4,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067607&region=0&sub_region=0&type=429",
@@ -4634,13 +4634,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 37,
-      "Дмитриевский Владимир Вениаминович": 26,
-      "Клюкин Александр Николаевич": 20,
-      "Колмаков Валерий Агафонович": 7,
-      "Пащенко Олег Анатольевич": 18,
-      "Сидоров Анатолий Евгеньевич": 4,
-      "Против всех": 34
+      "gas:candidate-vibid:324300266695": 37,
+      "gas:candidate-vibid:1001000136022": 26,
+      "gas:candidate-vibid:1001000225917": 20,
+      "gas:candidate-vibid:324300266862": 7,
+      "gas:candidate-vibid:1001000217903": 18,
+      "gas:candidate-vibid:1001000202290": 4,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067607&region=0&sub_region=0&type=429",
@@ -4690,13 +4690,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 13,
-      "Дмитриевский Владимир Вениаминович": 1,
-      "Клюкин Александр Николаевич": 17,
-      "Колмаков Валерий Агафонович": 6,
-      "Пащенко Олег Анатольевич": 3,
-      "Сидоров Анатолий Евгеньевич": 4,
-      "Против всех": 6
+      "gas:candidate-vibid:324300266695": 13,
+      "gas:candidate-vibid:1001000136022": 1,
+      "gas:candidate-vibid:1001000225917": 17,
+      "gas:candidate-vibid:324300266862": 6,
+      "gas:candidate-vibid:1001000217903": 3,
+      "gas:candidate-vibid:1001000202290": 4,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067607&region=0&sub_region=0&type=429",
@@ -4746,13 +4746,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 264,
-      "Дмитриевский Владимир Вениаминович": 46,
-      "Клюкин Александр Николаевич": 448,
-      "Колмаков Валерий Агафонович": 4,
-      "Пащенко Олег Анатольевич": 92,
-      "Сидоров Анатолий Евгеньевич": 2,
-      "Против всех": 170
+      "gas:candidate-vibid:324300266695": 264,
+      "gas:candidate-vibid:1001000136022": 46,
+      "gas:candidate-vibid:1001000225917": 448,
+      "gas:candidate-vibid:324300266862": 4,
+      "gas:candidate-vibid:1001000217903": 92,
+      "gas:candidate-vibid:1001000202290": 2,
+      "special:against-all": 170
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067608&region=0&sub_region=0&type=429",
@@ -4802,13 +4802,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 119,
-      "Дмитриевский Владимир Вениаминович": 25,
-      "Клюкин Александр Николаевич": 209,
-      "Колмаков Валерий Агафонович": 3,
-      "Пащенко Олег Анатольевич": 38,
-      "Сидоров Анатолий Евгеньевич": 4,
-      "Против всех": 60
+      "gas:candidate-vibid:324300266695": 119,
+      "gas:candidate-vibid:1001000136022": 25,
+      "gas:candidate-vibid:1001000225917": 209,
+      "gas:candidate-vibid:324300266862": 3,
+      "gas:candidate-vibid:1001000217903": 38,
+      "gas:candidate-vibid:1001000202290": 4,
+      "special:against-all": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067608&region=0&sub_region=0&type=429",
@@ -4858,13 +4858,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 52,
-      "Дмитриевский Владимир Вениаминович": 18,
-      "Клюкин Александр Николаевич": 114,
-      "Колмаков Валерий Агафонович": 0,
-      "Пащенко Олег Анатольевич": 15,
-      "Сидоров Анатолий Евгеньевич": 4,
-      "Против всех": 29
+      "gas:candidate-vibid:324300266695": 52,
+      "gas:candidate-vibid:1001000136022": 18,
+      "gas:candidate-vibid:1001000225917": 114,
+      "gas:candidate-vibid:324300266862": 0,
+      "gas:candidate-vibid:1001000217903": 15,
+      "gas:candidate-vibid:1001000202290": 4,
+      "special:against-all": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067608&region=0&sub_region=0&type=429",
@@ -4914,13 +4914,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 125,
-      "Дмитриевский Владимир Вениаминович": 25,
-      "Клюкин Александр Николаевич": 219,
-      "Колмаков Валерий Агафонович": 2,
-      "Пащенко Олег Анатольевич": 23,
-      "Сидоров Анатолий Евгеньевич": 3,
-      "Против всех": 67
+      "gas:candidate-vibid:324300266695": 125,
+      "gas:candidate-vibid:1001000136022": 25,
+      "gas:candidate-vibid:1001000225917": 219,
+      "gas:candidate-vibid:324300266862": 2,
+      "gas:candidate-vibid:1001000217903": 23,
+      "gas:candidate-vibid:1001000202290": 3,
+      "special:against-all": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067608&region=0&sub_region=0&type=429",
@@ -4970,13 +4970,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 130,
-      "Дмитриевский Владимир Вениаминович": 26,
-      "Клюкин Александр Николаевич": 309,
-      "Колмаков Валерий Агафонович": 6,
-      "Пащенко Олег Анатольевич": 52,
-      "Сидоров Анатолий Евгеньевич": 4,
-      "Против всех": 98
+      "gas:candidate-vibid:324300266695": 130,
+      "gas:candidate-vibid:1001000136022": 26,
+      "gas:candidate-vibid:1001000225917": 309,
+      "gas:candidate-vibid:324300266862": 6,
+      "gas:candidate-vibid:1001000217903": 52,
+      "gas:candidate-vibid:1001000202290": 4,
+      "special:against-all": 98
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067608&region=0&sub_region=0&type=429",
@@ -5026,13 +5026,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 78,
-      "Дмитриевский Владимир Вениаминович": 23,
-      "Клюкин Александр Николаевич": 242,
-      "Колмаков Валерий Агафонович": 7,
-      "Пащенко Олег Анатольевич": 37,
-      "Сидоров Анатолий Евгеньевич": 0,
-      "Против всех": 91
+      "gas:candidate-vibid:324300266695": 78,
+      "gas:candidate-vibid:1001000136022": 23,
+      "gas:candidate-vibid:1001000225917": 242,
+      "gas:candidate-vibid:324300266862": 7,
+      "gas:candidate-vibid:1001000217903": 37,
+      "gas:candidate-vibid:1001000202290": 0,
+      "special:against-all": 91
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067608&region=0&sub_region=0&type=429",
@@ -5082,13 +5082,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 42,
-      "Дмитриевский Владимир Вениаминович": 25,
-      "Клюкин Александр Николаевич": 267,
-      "Колмаков Валерий Агафонович": 7,
-      "Пащенко Олег Анатольевич": 30,
-      "Сидоров Анатолий Евгеньевич": 7,
-      "Против всех": 43
+      "gas:candidate-vibid:324300266695": 42,
+      "gas:candidate-vibid:1001000136022": 25,
+      "gas:candidate-vibid:1001000225917": 267,
+      "gas:candidate-vibid:324300266862": 7,
+      "gas:candidate-vibid:1001000217903": 30,
+      "gas:candidate-vibid:1001000202290": 7,
+      "special:against-all": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067608&region=0&sub_region=0&type=429",
@@ -5138,13 +5138,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 66,
-      "Дмитриевский Владимир Вениаминович": 17,
-      "Клюкин Александр Николаевич": 301,
-      "Колмаков Валерий Агафонович": 6,
-      "Пащенко Олег Анатольевич": 30,
-      "Сидоров Анатолий Евгеньевич": 4,
-      "Против всех": 60
+      "gas:candidate-vibid:324300266695": 66,
+      "gas:candidate-vibid:1001000136022": 17,
+      "gas:candidate-vibid:1001000225917": 301,
+      "gas:candidate-vibid:324300266862": 6,
+      "gas:candidate-vibid:1001000217903": 30,
+      "gas:candidate-vibid:1001000202290": 4,
+      "special:against-all": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067608&region=0&sub_region=0&type=429",
@@ -5194,13 +5194,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 108,
-      "Дмитриевский Владимир Вениаминович": 22,
-      "Клюкин Александр Николаевич": 296,
-      "Колмаков Валерий Агафонович": 13,
-      "Пащенко Олег Анатольевич": 34,
-      "Сидоров Анатолий Евгеньевич": 3,
-      "Против всех": 67
+      "gas:candidate-vibid:324300266695": 108,
+      "gas:candidate-vibid:1001000136022": 22,
+      "gas:candidate-vibid:1001000225917": 296,
+      "gas:candidate-vibid:324300266862": 13,
+      "gas:candidate-vibid:1001000217903": 34,
+      "gas:candidate-vibid:1001000202290": 3,
+      "special:against-all": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067608&region=0&sub_region=0&type=429",
@@ -5250,13 +5250,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 105,
-      "Дмитриевский Владимир Вениаминович": 23,
-      "Клюкин Александр Николаевич": 220,
-      "Колмаков Валерий Агафонович": 5,
-      "Пащенко Олег Анатольевич": 26,
-      "Сидоров Анатолий Евгеньевич": 5,
-      "Против всех": 67
+      "gas:candidate-vibid:324300266695": 105,
+      "gas:candidate-vibid:1001000136022": 23,
+      "gas:candidate-vibid:1001000225917": 220,
+      "gas:candidate-vibid:324300266862": 5,
+      "gas:candidate-vibid:1001000217903": 26,
+      "gas:candidate-vibid:1001000202290": 5,
+      "special:against-all": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067608&region=0&sub_region=0&type=429",
@@ -5306,13 +5306,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 48,
-      "Дмитриевский Владимир Вениаминович": 11,
-      "Клюкин Александр Николаевич": 46,
-      "Колмаков Валерий Агафонович": 6,
-      "Пащенко Олег Анатольевич": 15,
-      "Сидоров Анатолий Евгеньевич": 3,
-      "Против всех": 20
+      "gas:candidate-vibid:324300266695": 48,
+      "gas:candidate-vibid:1001000136022": 11,
+      "gas:candidate-vibid:1001000225917": 46,
+      "gas:candidate-vibid:324300266862": 6,
+      "gas:candidate-vibid:1001000217903": 15,
+      "gas:candidate-vibid:1001000202290": 3,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067608&region=0&sub_region=0&type=429",
@@ -5362,13 +5362,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 82,
-      "Дмитриевский Владимир Вениаминович": 25,
-      "Клюкин Александр Николаевич": 88,
-      "Колмаков Валерий Агафонович": 6,
-      "Пащенко Олег Анатольевич": 73,
-      "Сидоров Анатолий Евгеньевич": 4,
-      "Против всех": 43
+      "gas:candidate-vibid:324300266695": 82,
+      "gas:candidate-vibid:1001000136022": 25,
+      "gas:candidate-vibid:1001000225917": 88,
+      "gas:candidate-vibid:324300266862": 6,
+      "gas:candidate-vibid:1001000217903": 73,
+      "gas:candidate-vibid:1001000202290": 4,
+      "special:against-all": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067608&region=0&sub_region=0&type=429",
@@ -5418,13 +5418,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 22,
-      "Дмитриевский Владимир Вениаминович": 13,
-      "Клюкин Александр Николаевич": 27,
-      "Колмаков Валерий Агафонович": 3,
-      "Пащенко Олег Анатольевич": 5,
-      "Сидоров Анатолий Евгеньевич": 3,
-      "Против всех": 25
+      "gas:candidate-vibid:324300266695": 22,
+      "gas:candidate-vibid:1001000136022": 13,
+      "gas:candidate-vibid:1001000225917": 27,
+      "gas:candidate-vibid:324300266862": 3,
+      "gas:candidate-vibid:1001000217903": 5,
+      "gas:candidate-vibid:1001000202290": 3,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067608&region=0&sub_region=0&type=429",
@@ -5474,13 +5474,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 56,
-      "Дмитриевский Владимир Вениаминович": 30,
-      "Клюкин Александр Николаевич": 119,
-      "Колмаков Валерий Агафонович": 6,
-      "Пащенко Олег Анатольевич": 66,
-      "Сидоров Анатолий Евгеньевич": 7,
-      "Против всех": 54
+      "gas:candidate-vibid:324300266695": 56,
+      "gas:candidate-vibid:1001000136022": 30,
+      "gas:candidate-vibid:1001000225917": 119,
+      "gas:candidate-vibid:324300266862": 6,
+      "gas:candidate-vibid:1001000217903": 66,
+      "gas:candidate-vibid:1001000202290": 7,
+      "special:against-all": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067608&region=0&sub_region=0&type=429",
@@ -5530,13 +5530,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 91,
-      "Дмитриевский Владимир Вениаминович": 52,
-      "Клюкин Александр Николаевич": 235,
-      "Колмаков Валерий Агафонович": 16,
-      "Пащенко Олег Анатольевич": 123,
-      "Сидоров Анатолий Евгеньевич": 14,
-      "Против всех": 124
+      "gas:candidate-vibid:324300266695": 91,
+      "gas:candidate-vibid:1001000136022": 52,
+      "gas:candidate-vibid:1001000225917": 235,
+      "gas:candidate-vibid:324300266862": 16,
+      "gas:candidate-vibid:1001000217903": 123,
+      "gas:candidate-vibid:1001000202290": 14,
+      "special:against-all": 124
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067608&region=0&sub_region=0&type=429",
@@ -5586,13 +5586,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 0,
-      "Дмитриевский Владимир Вениаминович": 10,
-      "Клюкин Александр Николаевич": 65,
-      "Колмаков Валерий Агафонович": 7,
-      "Пащенко Олег Анатольевич": 12,
-      "Сидоров Анатолий Евгеньевич": 15,
-      "Против всех": 21
+      "gas:candidate-vibid:324300266695": 0,
+      "gas:candidate-vibid:1001000136022": 10,
+      "gas:candidate-vibid:1001000225917": 65,
+      "gas:candidate-vibid:324300266862": 7,
+      "gas:candidate-vibid:1001000217903": 12,
+      "gas:candidate-vibid:1001000202290": 15,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067608&region=0&sub_region=0&type=429",
@@ -5642,13 +5642,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 16,
-      "Дмитриевский Владимир Вениаминович": 24,
-      "Клюкин Александр Николаевич": 91,
-      "Колмаков Валерий Агафонович": 10,
-      "Пащенко Олег Анатольевич": 23,
-      "Сидоров Анатолий Евгеньевич": 12,
-      "Против всех": 39
+      "gas:candidate-vibid:324300266695": 16,
+      "gas:candidate-vibid:1001000136022": 24,
+      "gas:candidate-vibid:1001000225917": 91,
+      "gas:candidate-vibid:324300266862": 10,
+      "gas:candidate-vibid:1001000217903": 23,
+      "gas:candidate-vibid:1001000202290": 12,
+      "special:against-all": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067608&region=0&sub_region=0&type=429",
@@ -5698,13 +5698,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 35,
-      "Дмитриевский Владимир Вениаминович": 23,
-      "Клюкин Александр Николаевич": 41,
-      "Колмаков Валерий Агафонович": 11,
-      "Пащенко Олег Анатольевич": 36,
-      "Сидоров Анатолий Евгеньевич": 5,
-      "Против всех": 29
+      "gas:candidate-vibid:324300266695": 35,
+      "gas:candidate-vibid:1001000136022": 23,
+      "gas:candidate-vibid:1001000225917": 41,
+      "gas:candidate-vibid:324300266862": 11,
+      "gas:candidate-vibid:1001000217903": 36,
+      "gas:candidate-vibid:1001000202290": 5,
+      "special:against-all": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067608&region=0&sub_region=0&type=429",
@@ -5754,13 +5754,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 16,
-      "Дмитриевский Владимир Вениаминович": 13,
-      "Клюкин Александр Николаевич": 65,
-      "Колмаков Валерий Агафонович": 1,
-      "Пащенко Олег Анатольевич": 12,
-      "Сидоров Анатолий Евгеньевич": 5,
-      "Против всех": 8
+      "gas:candidate-vibid:324300266695": 16,
+      "gas:candidate-vibid:1001000136022": 13,
+      "gas:candidate-vibid:1001000225917": 65,
+      "gas:candidate-vibid:324300266862": 1,
+      "gas:candidate-vibid:1001000217903": 12,
+      "gas:candidate-vibid:1001000202290": 5,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067608&region=0&sub_region=0&type=429",
@@ -5810,13 +5810,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 21,
-      "Дмитриевский Владимир Вениаминович": 6,
-      "Клюкин Александр Николаевич": 40,
-      "Колмаков Валерий Агафонович": 1,
-      "Пащенко Олег Анатольевич": 5,
-      "Сидоров Анатолий Евгеньевич": 0,
-      "Против всех": 14
+      "gas:candidate-vibid:324300266695": 21,
+      "gas:candidate-vibid:1001000136022": 6,
+      "gas:candidate-vibid:1001000225917": 40,
+      "gas:candidate-vibid:324300266862": 1,
+      "gas:candidate-vibid:1001000217903": 5,
+      "gas:candidate-vibid:1001000202290": 0,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067608&region=0&sub_region=0&type=429",
@@ -5866,13 +5866,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 14,
-      "Дмитриевский Владимир Вениаминович": 15,
-      "Клюкин Александр Николаевич": 68,
-      "Колмаков Валерий Агафонович": 2,
-      "Пащенко Олег Анатольевич": 15,
-      "Сидоров Анатолий Евгеньевич": 0,
-      "Против всех": 21
+      "gas:candidate-vibid:324300266695": 14,
+      "gas:candidate-vibid:1001000136022": 15,
+      "gas:candidate-vibid:1001000225917": 68,
+      "gas:candidate-vibid:324300266862": 2,
+      "gas:candidate-vibid:1001000217903": 15,
+      "gas:candidate-vibid:1001000202290": 0,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067608&region=0&sub_region=0&type=429",
@@ -5922,13 +5922,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 7,
-      "Дмитриевский Владимир Вениаминович": 9,
-      "Клюкин Александр Николаевич": 41,
-      "Колмаков Валерий Агафонович": 4,
-      "Пащенко Олег Анатольевич": 35,
-      "Сидоров Анатолий Евгеньевич": 0,
-      "Против всех": 25
+      "gas:candidate-vibid:324300266695": 7,
+      "gas:candidate-vibid:1001000136022": 9,
+      "gas:candidate-vibid:1001000225917": 41,
+      "gas:candidate-vibid:324300266862": 4,
+      "gas:candidate-vibid:1001000217903": 35,
+      "gas:candidate-vibid:1001000202290": 0,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067608&region=0&sub_region=0&type=429",
@@ -5978,13 +5978,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 18,
-      "Дмитриевский Владимир Вениаминович": 12,
-      "Клюкин Александр Николаевич": 55,
-      "Колмаков Валерий Агафонович": 10,
-      "Пащенко Олег Анатольевич": 24,
-      "Сидоров Анатолий Евгеньевич": 3,
-      "Против всех": 35
+      "gas:candidate-vibid:324300266695": 18,
+      "gas:candidate-vibid:1001000136022": 12,
+      "gas:candidate-vibid:1001000225917": 55,
+      "gas:candidate-vibid:324300266862": 10,
+      "gas:candidate-vibid:1001000217903": 24,
+      "gas:candidate-vibid:1001000202290": 3,
+      "special:against-all": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067608&region=0&sub_region=0&type=429",
@@ -6034,13 +6034,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 89,
-      "Дмитриевский Владимир Вениаминович": 56,
-      "Клюкин Александр Николаевич": 144,
-      "Колмаков Валерий Агафонович": 19,
-      "Пащенко Олег Анатольевич": 82,
-      "Сидоров Анатолий Евгеньевич": 15,
-      "Против всех": 121
+      "gas:candidate-vibid:324300266695": 89,
+      "gas:candidate-vibid:1001000136022": 56,
+      "gas:candidate-vibid:1001000225917": 144,
+      "gas:candidate-vibid:324300266862": 19,
+      "gas:candidate-vibid:1001000217903": 82,
+      "gas:candidate-vibid:1001000202290": 15,
+      "special:against-all": 121
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067608&region=0&sub_region=0&type=429",
@@ -6090,13 +6090,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 42,
-      "Дмитриевский Владимир Вениаминович": 23,
-      "Клюкин Александр Николаевич": 33,
-      "Колмаков Валерий Агафонович": 9,
-      "Пащенко Олег Анатольевич": 17,
-      "Сидоров Анатолий Евгеньевич": 8,
-      "Против всех": 23
+      "gas:candidate-vibid:324300266695": 42,
+      "gas:candidate-vibid:1001000136022": 23,
+      "gas:candidate-vibid:1001000225917": 33,
+      "gas:candidate-vibid:324300266862": 9,
+      "gas:candidate-vibid:1001000217903": 17,
+      "gas:candidate-vibid:1001000202290": 8,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067608&region=0&sub_region=0&type=429",
@@ -6146,13 +6146,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 9,
-      "Дмитриевский Владимир Вениаминович": 2,
-      "Клюкин Александр Николаевич": 24,
-      "Колмаков Валерий Агафонович": 1,
-      "Пащенко Олег Анатольевич": 0,
-      "Сидоров Анатолий Евгеньевич": 4,
-      "Против всех": 4
+      "gas:candidate-vibid:324300266695": 9,
+      "gas:candidate-vibid:1001000136022": 2,
+      "gas:candidate-vibid:1001000225917": 24,
+      "gas:candidate-vibid:324300266862": 1,
+      "gas:candidate-vibid:1001000217903": 0,
+      "gas:candidate-vibid:1001000202290": 4,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067608&region=0&sub_region=0&type=429",
@@ -6202,13 +6202,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 22,
-      "Дмитриевский Владимир Вениаминович": 19,
-      "Клюкин Александр Николаевич": 36,
-      "Колмаков Валерий Агафонович": 2,
-      "Пащенко Олег Анатольевич": 12,
-      "Сидоров Анатолий Евгеньевич": 5,
-      "Против всех": 18
+      "gas:candidate-vibid:324300266695": 22,
+      "gas:candidate-vibid:1001000136022": 19,
+      "gas:candidate-vibid:1001000225917": 36,
+      "gas:candidate-vibid:324300266862": 2,
+      "gas:candidate-vibid:1001000217903": 12,
+      "gas:candidate-vibid:1001000202290": 5,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067608&region=0&sub_region=0&type=429",
@@ -6258,13 +6258,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 48,
-      "Дмитриевский Владимир Вениаминович": 28,
-      "Клюкин Александр Николаевич": 204,
-      "Колмаков Валерий Агафонович": 7,
-      "Пащенко Олег Анатольевич": 42,
-      "Сидоров Анатолий Евгеньевич": 7,
-      "Против всех": 63
+      "gas:candidate-vibid:324300266695": 48,
+      "gas:candidate-vibid:1001000136022": 28,
+      "gas:candidate-vibid:1001000225917": 204,
+      "gas:candidate-vibid:324300266862": 7,
+      "gas:candidate-vibid:1001000217903": 42,
+      "gas:candidate-vibid:1001000202290": 7,
+      "special:against-all": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067608&region=0&sub_region=0&type=429",
@@ -6314,13 +6314,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 10,
-      "Дмитриевский Владимир Вениаминович": 16,
-      "Клюкин Александр Николаевич": 48,
-      "Колмаков Валерий Агафонович": 2,
-      "Пащенко Олег Анатольевич": 2,
-      "Сидоров Анатолий Евгеньевич": 1,
-      "Против всех": 7
+      "gas:candidate-vibid:324300266695": 10,
+      "gas:candidate-vibid:1001000136022": 16,
+      "gas:candidate-vibid:1001000225917": 48,
+      "gas:candidate-vibid:324300266862": 2,
+      "gas:candidate-vibid:1001000217903": 2,
+      "gas:candidate-vibid:1001000202290": 1,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067608&region=0&sub_region=0&type=429",
@@ -6370,13 +6370,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 27,
-      "Дмитриевский Владимир Вениаминович": 9,
-      "Клюкин Александр Николаевич": 59,
-      "Колмаков Валерий Агафонович": 2,
-      "Пащенко Олег Анатольевич": 13,
-      "Сидоров Анатолий Евгеньевич": 2,
-      "Против всех": 17
+      "gas:candidate-vibid:324300266695": 27,
+      "gas:candidate-vibid:1001000136022": 9,
+      "gas:candidate-vibid:1001000225917": 59,
+      "gas:candidate-vibid:324300266862": 2,
+      "gas:candidate-vibid:1001000217903": 13,
+      "gas:candidate-vibid:1001000202290": 2,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067608&region=0&sub_region=0&type=429",
@@ -6426,13 +6426,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 79,
-      "Дмитриевский Владимир Вениаминович": 13,
-      "Клюкин Александр Николаевич": 118,
-      "Колмаков Валерий Агафонович": 6,
-      "Пащенко Олег Анатольевич": 49,
-      "Сидоров Анатолий Евгеньевич": 5,
-      "Против всех": 62
+      "gas:candidate-vibid:324300266695": 79,
+      "gas:candidate-vibid:1001000136022": 13,
+      "gas:candidate-vibid:1001000225917": 118,
+      "gas:candidate-vibid:324300266862": 6,
+      "gas:candidate-vibid:1001000217903": 49,
+      "gas:candidate-vibid:1001000202290": 5,
+      "special:against-all": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067608&region=0&sub_region=0&type=429",
@@ -6482,13 +6482,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 17,
-      "Дмитриевский Владимир Вениаминович": 14,
-      "Клюкин Александр Николаевич": 36,
-      "Колмаков Валерий Агафонович": 4,
-      "Пащенко Олег Анатольевич": 7,
-      "Сидоров Анатолий Евгеньевич": 5,
-      "Против всех": 18
+      "gas:candidate-vibid:324300266695": 17,
+      "gas:candidate-vibid:1001000136022": 14,
+      "gas:candidate-vibid:1001000225917": 36,
+      "gas:candidate-vibid:324300266862": 4,
+      "gas:candidate-vibid:1001000217903": 7,
+      "gas:candidate-vibid:1001000202290": 5,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067608&region=0&sub_region=0&type=429",
@@ -6538,13 +6538,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 75,
-      "Дмитриевский Владимир Вениаминович": 9,
-      "Клюкин Александр Николаевич": 37,
-      "Колмаков Валерий Агафонович": 7,
-      "Пащенко Олег Анатольевич": 19,
-      "Сидоров Анатолий Евгеньевич": 1,
-      "Против всех": 27
+      "gas:candidate-vibid:324300266695": 75,
+      "gas:candidate-vibid:1001000136022": 9,
+      "gas:candidate-vibid:1001000225917": 37,
+      "gas:candidate-vibid:324300266862": 7,
+      "gas:candidate-vibid:1001000217903": 19,
+      "gas:candidate-vibid:1001000202290": 1,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067608&region=0&sub_region=0&type=429",
@@ -6594,13 +6594,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 13,
-      "Дмитриевский Владимир Вениаминович": 8,
-      "Клюкин Александр Николаевич": 116,
-      "Колмаков Валерий Агафонович": 4,
-      "Пащенко Олег Анатольевич": 20,
-      "Сидоров Анатолий Евгеньевич": 3,
-      "Против всех": 32
+      "gas:candidate-vibid:324300266695": 13,
+      "gas:candidate-vibid:1001000136022": 8,
+      "gas:candidate-vibid:1001000225917": 116,
+      "gas:candidate-vibid:324300266862": 4,
+      "gas:candidate-vibid:1001000217903": 20,
+      "gas:candidate-vibid:1001000202290": 3,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067608&region=0&sub_region=0&type=429",
@@ -6650,13 +6650,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 15,
-      "Дмитриевский Владимир Вениаминович": 6,
-      "Клюкин Александр Николаевич": 18,
-      "Колмаков Валерий Агафонович": 3,
-      "Пащенко Олег Анатольевич": 2,
-      "Сидоров Анатолий Евгеньевич": 4,
-      "Против всех": 21
+      "gas:candidate-vibid:324300266695": 15,
+      "gas:candidate-vibid:1001000136022": 6,
+      "gas:candidate-vibid:1001000225917": 18,
+      "gas:candidate-vibid:324300266862": 3,
+      "gas:candidate-vibid:1001000217903": 2,
+      "gas:candidate-vibid:1001000202290": 4,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067608&region=0&sub_region=0&type=429",
@@ -6706,13 +6706,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 14,
-      "Дмитриевский Владимир Вениаминович": 5,
-      "Клюкин Александр Николаевич": 40,
-      "Колмаков Валерий Агафонович": 3,
-      "Пащенко Олег Анатольевич": 12,
-      "Сидоров Анатолий Евгеньевич": 1,
-      "Против всех": 9
+      "gas:candidate-vibid:324300266695": 14,
+      "gas:candidate-vibid:1001000136022": 5,
+      "gas:candidate-vibid:1001000225917": 40,
+      "gas:candidate-vibid:324300266862": 3,
+      "gas:candidate-vibid:1001000217903": 12,
+      "gas:candidate-vibid:1001000202290": 1,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067608&region=0&sub_region=0&type=429",
@@ -6762,13 +6762,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 41,
-      "Дмитриевский Владимир Вениаминович": 11,
-      "Клюкин Александр Николаевич": 81,
-      "Колмаков Валерий Агафонович": 4,
-      "Пащенко Олег Анатольевич": 18,
-      "Сидоров Анатолий Евгеньевич": 3,
-      "Против всех": 35
+      "gas:candidate-vibid:324300266695": 41,
+      "gas:candidate-vibid:1001000136022": 11,
+      "gas:candidate-vibid:1001000225917": 81,
+      "gas:candidate-vibid:324300266862": 4,
+      "gas:candidate-vibid:1001000217903": 18,
+      "gas:candidate-vibid:1001000202290": 3,
+      "special:against-all": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067608&region=0&sub_region=0&type=429",
@@ -6818,13 +6818,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 22,
-      "Дмитриевский Владимир Вениаминович": 21,
-      "Клюкин Александр Николаевич": 84,
-      "Колмаков Валерий Агафонович": 1,
-      "Пащенко Олег Анатольевич": 13,
-      "Сидоров Анатолий Евгеньевич": 9,
-      "Против всех": 21
+      "gas:candidate-vibid:324300266695": 22,
+      "gas:candidate-vibid:1001000136022": 21,
+      "gas:candidate-vibid:1001000225917": 84,
+      "gas:candidate-vibid:324300266862": 1,
+      "gas:candidate-vibid:1001000217903": 13,
+      "gas:candidate-vibid:1001000202290": 9,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067608&region=0&sub_region=0&type=429",
@@ -6874,13 +6874,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 89,
-      "Дмитриевский Владимир Вениаминович": 32,
-      "Клюкин Александр Николаевич": 169,
-      "Колмаков Валерий Агафонович": 12,
-      "Пащенко Олег Анатольевич": 110,
-      "Сидоров Анатолий Евгеньевич": 5,
-      "Против всех": 64
+      "gas:candidate-vibid:324300266695": 89,
+      "gas:candidate-vibid:1001000136022": 32,
+      "gas:candidate-vibid:1001000225917": 169,
+      "gas:candidate-vibid:324300266862": 12,
+      "gas:candidate-vibid:1001000217903": 110,
+      "gas:candidate-vibid:1001000202290": 5,
+      "special:against-all": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067608&region=0&sub_region=0&type=429",
@@ -6930,13 +6930,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 45,
-      "Дмитриевский Владимир Вениаминович": 4,
-      "Клюкин Александр Николаевич": 70,
-      "Колмаков Валерий Агафонович": 1,
-      "Пащенко Олег Анатольевич": 12,
-      "Сидоров Анатолий Евгеньевич": 1,
-      "Против всех": 6
+      "gas:candidate-vibid:324300266695": 45,
+      "gas:candidate-vibid:1001000136022": 4,
+      "gas:candidate-vibid:1001000225917": 70,
+      "gas:candidate-vibid:324300266862": 1,
+      "gas:candidate-vibid:1001000217903": 12,
+      "gas:candidate-vibid:1001000202290": 1,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067608&region=0&sub_region=0&type=429",
@@ -6986,13 +6986,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 15,
-      "Дмитриевский Владимир Вениаминович": 1,
-      "Клюкин Александр Николаевич": 50,
-      "Колмаков Валерий Агафонович": 0,
-      "Пащенко Олег Анатольевич": 2,
-      "Сидоров Анатолий Евгеньевич": 0,
-      "Против всех": 4
+      "gas:candidate-vibid:324300266695": 15,
+      "gas:candidate-vibid:1001000136022": 1,
+      "gas:candidate-vibid:1001000225917": 50,
+      "gas:candidate-vibid:324300266862": 0,
+      "gas:candidate-vibid:1001000217903": 2,
+      "gas:candidate-vibid:1001000202290": 0,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067608&region=0&sub_region=0&type=429",
@@ -7042,13 +7042,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 91,
-      "Дмитриевский Владимир Вениаминович": 30,
-      "Клюкин Александр Николаевич": 77,
-      "Колмаков Валерий Агафонович": 6,
-      "Пащенко Олег Анатольевич": 49,
-      "Сидоров Анатолий Евгеньевич": 3,
-      "Против всех": 115
+      "gas:candidate-vibid:324300266695": 91,
+      "gas:candidate-vibid:1001000136022": 30,
+      "gas:candidate-vibid:1001000225917": 77,
+      "gas:candidate-vibid:324300266862": 6,
+      "gas:candidate-vibid:1001000217903": 49,
+      "gas:candidate-vibid:1001000202290": 3,
+      "special:against-all": 115
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067608&region=0&sub_region=0&type=429",
@@ -7098,13 +7098,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 176,
-      "Дмитриевский Владимир Вениаминович": 38,
-      "Клюкин Александр Николаевич": 263,
-      "Колмаков Валерий Агафонович": 17,
-      "Пащенко Олег Анатольевич": 83,
-      "Сидоров Анатолий Евгеньевич": 18,
-      "Против всех": 120
+      "gas:candidate-vibid:324300266695": 176,
+      "gas:candidate-vibid:1001000136022": 38,
+      "gas:candidate-vibid:1001000225917": 263,
+      "gas:candidate-vibid:324300266862": 17,
+      "gas:candidate-vibid:1001000217903": 83,
+      "gas:candidate-vibid:1001000202290": 18,
+      "special:against-all": 120
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067609&region=0&sub_region=0&type=429",
@@ -7154,13 +7154,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 159,
-      "Дмитриевский Владимир Вениаминович": 41,
-      "Клюкин Александр Николаевич": 203,
-      "Колмаков Валерий Агафонович": 20,
-      "Пащенко Олег Анатольевич": 65,
-      "Сидоров Анатолий Евгеньевич": 18,
-      "Против всех": 116
+      "gas:candidate-vibid:324300266695": 159,
+      "gas:candidate-vibid:1001000136022": 41,
+      "gas:candidate-vibid:1001000225917": 203,
+      "gas:candidate-vibid:324300266862": 20,
+      "gas:candidate-vibid:1001000217903": 65,
+      "gas:candidate-vibid:1001000202290": 18,
+      "special:against-all": 116
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067609&region=0&sub_region=0&type=429",
@@ -7210,13 +7210,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 115,
-      "Дмитриевский Владимир Вениаминович": 30,
-      "Клюкин Александр Николаевич": 135,
-      "Колмаков Валерий Агафонович": 7,
-      "Пащенко Олег Анатольевич": 24,
-      "Сидоров Анатолий Евгеньевич": 7,
-      "Против всех": 102
+      "gas:candidate-vibid:324300266695": 115,
+      "gas:candidate-vibid:1001000136022": 30,
+      "gas:candidate-vibid:1001000225917": 135,
+      "gas:candidate-vibid:324300266862": 7,
+      "gas:candidate-vibid:1001000217903": 24,
+      "gas:candidate-vibid:1001000202290": 7,
+      "special:against-all": 102
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067609&region=0&sub_region=0&type=429",
@@ -7266,13 +7266,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 7,
-      "Дмитриевский Владимир Вениаминович": 2,
-      "Клюкин Александр Николаевич": 44,
-      "Колмаков Валерий Агафонович": 1,
-      "Пащенко Олег Анатольевич": 2,
-      "Сидоров Анатолий Евгеньевич": 1,
-      "Против всех": 19
+      "gas:candidate-vibid:324300266695": 7,
+      "gas:candidate-vibid:1001000136022": 2,
+      "gas:candidate-vibid:1001000225917": 44,
+      "gas:candidate-vibid:324300266862": 1,
+      "gas:candidate-vibid:1001000217903": 2,
+      "gas:candidate-vibid:1001000202290": 1,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067609&region=0&sub_region=0&type=429",
@@ -7322,13 +7322,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 10,
-      "Дмитриевский Владимир Вениаминович": 1,
-      "Клюкин Александр Николаевич": 52,
-      "Колмаков Валерий Агафонович": 1,
-      "Пащенко Олег Анатольевич": 0,
-      "Сидоров Анатолий Евгеньевич": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:324300266695": 10,
+      "gas:candidate-vibid:1001000136022": 1,
+      "gas:candidate-vibid:1001000225917": 52,
+      "gas:candidate-vibid:324300266862": 1,
+      "gas:candidate-vibid:1001000217903": 0,
+      "gas:candidate-vibid:1001000202290": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067609&region=0&sub_region=0&type=429",
@@ -7378,13 +7378,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 5,
-      "Дмитриевский Владимир Вениаминович": 1,
-      "Клюкин Александр Николаевич": 52,
-      "Колмаков Валерий Агафонович": 1,
-      "Пащенко Олег Анатольевич": 2,
-      "Сидоров Анатолий Евгеньевич": 2,
-      "Против всех": 8
+      "gas:candidate-vibid:324300266695": 5,
+      "gas:candidate-vibid:1001000136022": 1,
+      "gas:candidate-vibid:1001000225917": 52,
+      "gas:candidate-vibid:324300266862": 1,
+      "gas:candidate-vibid:1001000217903": 2,
+      "gas:candidate-vibid:1001000202290": 2,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067609&region=0&sub_region=0&type=429",
@@ -7434,13 +7434,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 18,
-      "Дмитриевский Владимир Вениаминович": 7,
-      "Клюкин Александр Николаевич": 143,
-      "Колмаков Валерий Агафонович": 2,
-      "Пащенко Олег Анатольевич": 4,
-      "Сидоров Анатолий Евгеньевич": 8,
-      "Против всех": 47
+      "gas:candidate-vibid:324300266695": 18,
+      "gas:candidate-vibid:1001000136022": 7,
+      "gas:candidate-vibid:1001000225917": 143,
+      "gas:candidate-vibid:324300266862": 2,
+      "gas:candidate-vibid:1001000217903": 4,
+      "gas:candidate-vibid:1001000202290": 8,
+      "special:against-all": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067609&region=0&sub_region=0&type=429",
@@ -7490,13 +7490,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 14,
-      "Дмитриевский Владимир Вениаминович": 15,
-      "Клюкин Александр Николаевич": 79,
-      "Колмаков Валерий Агафонович": 4,
-      "Пащенко Олег Анатольевич": 11,
-      "Сидоров Анатолий Евгеньевич": 1,
-      "Против всех": 25
+      "gas:candidate-vibid:324300266695": 14,
+      "gas:candidate-vibid:1001000136022": 15,
+      "gas:candidate-vibid:1001000225917": 79,
+      "gas:candidate-vibid:324300266862": 4,
+      "gas:candidate-vibid:1001000217903": 11,
+      "gas:candidate-vibid:1001000202290": 1,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067609&region=0&sub_region=0&type=429",
@@ -7546,13 +7546,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 55,
-      "Дмитриевский Владимир Вениаминович": 8,
-      "Клюкин Александр Николаевич": 6,
-      "Колмаков Валерий Агафонович": 2,
-      "Пащенко Олег Анатольевич": 5,
-      "Сидоров Анатолий Евгеньевич": 1,
-      "Против всех": 15
+      "gas:candidate-vibid:324300266695": 55,
+      "gas:candidate-vibid:1001000136022": 8,
+      "gas:candidate-vibid:1001000225917": 6,
+      "gas:candidate-vibid:324300266862": 2,
+      "gas:candidate-vibid:1001000217903": 5,
+      "gas:candidate-vibid:1001000202290": 1,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067609&region=0&sub_region=0&type=429",
@@ -7602,13 +7602,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 46,
-      "Дмитриевский Владимир Вениаминович": 12,
-      "Клюкин Александр Николаевич": 12,
-      "Колмаков Валерий Агафонович": 1,
-      "Пащенко Олег Анатольевич": 16,
-      "Сидоров Анатолий Евгеньевич": 6,
-      "Против всех": 21
+      "gas:candidate-vibid:324300266695": 46,
+      "gas:candidate-vibid:1001000136022": 12,
+      "gas:candidate-vibid:1001000225917": 12,
+      "gas:candidate-vibid:324300266862": 1,
+      "gas:candidate-vibid:1001000217903": 16,
+      "gas:candidate-vibid:1001000202290": 6,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067609&region=0&sub_region=0&type=429",
@@ -7658,13 +7658,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 35,
-      "Дмитриевский Владимир Вениаминович": 5,
-      "Клюкин Александр Николаевич": 83,
-      "Колмаков Валерий Агафонович": 3,
-      "Пащенко Олег Анатольевич": 22,
-      "Сидоров Анатолий Евгеньевич": 1,
-      "Против всех": 34
+      "gas:candidate-vibid:324300266695": 35,
+      "gas:candidate-vibid:1001000136022": 5,
+      "gas:candidate-vibid:1001000225917": 83,
+      "gas:candidate-vibid:324300266862": 3,
+      "gas:candidate-vibid:1001000217903": 22,
+      "gas:candidate-vibid:1001000202290": 1,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067609&region=0&sub_region=0&type=429",
@@ -7714,13 +7714,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 4,
-      "Дмитриевский Владимир Вениаминович": 14,
-      "Клюкин Александр Николаевич": 42,
-      "Колмаков Валерий Агафонович": 3,
-      "Пащенко Олег Анатольевич": 2,
-      "Сидоров Анатолий Евгеньевич": 2,
-      "Против всех": 3
+      "gas:candidate-vibid:324300266695": 4,
+      "gas:candidate-vibid:1001000136022": 14,
+      "gas:candidate-vibid:1001000225917": 42,
+      "gas:candidate-vibid:324300266862": 3,
+      "gas:candidate-vibid:1001000217903": 2,
+      "gas:candidate-vibid:1001000202290": 2,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067609&region=0&sub_region=0&type=429",
@@ -7770,13 +7770,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 30,
-      "Дмитриевский Владимир Вениаминович": 8,
-      "Клюкин Александр Николаевич": 34,
-      "Колмаков Валерий Агафонович": 1,
-      "Пащенко Олег Анатольевич": 6,
-      "Сидоров Анатолий Евгеньевич": 1,
-      "Против всех": 21
+      "gas:candidate-vibid:324300266695": 30,
+      "gas:candidate-vibid:1001000136022": 8,
+      "gas:candidate-vibid:1001000225917": 34,
+      "gas:candidate-vibid:324300266862": 1,
+      "gas:candidate-vibid:1001000217903": 6,
+      "gas:candidate-vibid:1001000202290": 1,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067609&region=0&sub_region=0&type=429",
@@ -7826,13 +7826,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 23,
-      "Дмитриевский Владимир Вениаминович": 6,
-      "Клюкин Александр Николаевич": 95,
-      "Колмаков Валерий Агафонович": 7,
-      "Пащенко Олег Анатольевич": 12,
-      "Сидоров Анатолий Евгеньевич": 6,
-      "Против всех": 26
+      "gas:candidate-vibid:324300266695": 23,
+      "gas:candidate-vibid:1001000136022": 6,
+      "gas:candidate-vibid:1001000225917": 95,
+      "gas:candidate-vibid:324300266862": 7,
+      "gas:candidate-vibid:1001000217903": 12,
+      "gas:candidate-vibid:1001000202290": 6,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067609&region=0&sub_region=0&type=429",
@@ -7882,13 +7882,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 91,
-      "Дмитриевский Владимир Вениаминович": 8,
-      "Клюкин Александр Николаевич": 125,
-      "Колмаков Валерий Агафонович": 10,
-      "Пащенко Олег Анатольевич": 30,
-      "Сидоров Анатолий Евгеньевич": 4,
-      "Против всех": 40
+      "gas:candidate-vibid:324300266695": 91,
+      "gas:candidate-vibid:1001000136022": 8,
+      "gas:candidate-vibid:1001000225917": 125,
+      "gas:candidate-vibid:324300266862": 10,
+      "gas:candidate-vibid:1001000217903": 30,
+      "gas:candidate-vibid:1001000202290": 4,
+      "special:against-all": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067609&region=0&sub_region=0&type=429",
@@ -7938,13 +7938,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 29,
-      "Дмитриевский Владимир Вениаминович": 0,
-      "Клюкин Александр Николаевич": 17,
-      "Колмаков Валерий Агафонович": 1,
-      "Пащенко Олег Анатольевич": 2,
-      "Сидоров Анатолий Евгеньевич": 1,
-      "Против всех": 3
+      "gas:candidate-vibid:324300266695": 29,
+      "gas:candidate-vibid:1001000136022": 0,
+      "gas:candidate-vibid:1001000225917": 17,
+      "gas:candidate-vibid:324300266862": 1,
+      "gas:candidate-vibid:1001000217903": 2,
+      "gas:candidate-vibid:1001000202290": 1,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067609&region=0&sub_region=0&type=429",
@@ -7994,13 +7994,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 5,
-      "Дмитриевский Владимир Вениаминович": 5,
-      "Клюкин Александр Николаевич": 33,
-      "Колмаков Валерий Агафонович": 1,
-      "Пащенко Олег Анатольевич": 4,
-      "Сидоров Анатолий Евгеньевич": 1,
-      "Против всех": 22
+      "gas:candidate-vibid:324300266695": 5,
+      "gas:candidate-vibid:1001000136022": 5,
+      "gas:candidate-vibid:1001000225917": 33,
+      "gas:candidate-vibid:324300266862": 1,
+      "gas:candidate-vibid:1001000217903": 4,
+      "gas:candidate-vibid:1001000202290": 1,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067609&region=0&sub_region=0&type=429",
@@ -8050,13 +8050,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 54,
-      "Дмитриевский Владимир Вениаминович": 1,
-      "Клюкин Александр Николаевич": 57,
-      "Колмаков Валерий Агафонович": 1,
-      "Пащенко Олег Анатольевич": 3,
-      "Сидоров Анатолий Евгеньевич": 1,
-      "Против всех": 33
+      "gas:candidate-vibid:324300266695": 54,
+      "gas:candidate-vibid:1001000136022": 1,
+      "gas:candidate-vibid:1001000225917": 57,
+      "gas:candidate-vibid:324300266862": 1,
+      "gas:candidate-vibid:1001000217903": 3,
+      "gas:candidate-vibid:1001000202290": 1,
+      "special:against-all": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067609&region=0&sub_region=0&type=429",
@@ -8106,13 +8106,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 13,
-      "Дмитриевский Владимир Вениаминович": 2,
-      "Клюкин Александр Николаевич": 72,
-      "Колмаков Валерий Агафонович": 4,
-      "Пащенко Олег Анатольевич": 13,
-      "Сидоров Анатолий Евгеньевич": 3,
-      "Против всех": 22
+      "gas:candidate-vibid:324300266695": 13,
+      "gas:candidate-vibid:1001000136022": 2,
+      "gas:candidate-vibid:1001000225917": 72,
+      "gas:candidate-vibid:324300266862": 4,
+      "gas:candidate-vibid:1001000217903": 13,
+      "gas:candidate-vibid:1001000202290": 3,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067609&region=0&sub_region=0&type=429",
@@ -8162,13 +8162,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 10,
-      "Дмитриевский Владимир Вениаминович": 3,
-      "Клюкин Александр Николаевич": 60,
-      "Колмаков Валерий Агафонович": 0,
-      "Пащенко Олег Анатольевич": 12,
-      "Сидоров Анатолий Евгеньевич": 1,
-      "Против всех": 13
+      "gas:candidate-vibid:324300266695": 10,
+      "gas:candidate-vibid:1001000136022": 3,
+      "gas:candidate-vibid:1001000225917": 60,
+      "gas:candidate-vibid:324300266862": 0,
+      "gas:candidate-vibid:1001000217903": 12,
+      "gas:candidate-vibid:1001000202290": 1,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067609&region=0&sub_region=0&type=429",
@@ -8218,13 +8218,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 26,
-      "Дмитриевский Владимир Вениаминович": 10,
-      "Клюкин Александр Николаевич": 66,
-      "Колмаков Валерий Агафонович": 7,
-      "Пащенко Олег Анатольевич": 38,
-      "Сидоров Анатолий Евгеньевич": 5,
-      "Против всех": 29
+      "gas:candidate-vibid:324300266695": 26,
+      "gas:candidate-vibid:1001000136022": 10,
+      "gas:candidate-vibid:1001000225917": 66,
+      "gas:candidate-vibid:324300266862": 7,
+      "gas:candidate-vibid:1001000217903": 38,
+      "gas:candidate-vibid:1001000202290": 5,
+      "special:against-all": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067609&region=0&sub_region=0&type=429",
@@ -8274,13 +8274,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 1,
-      "Дмитриевский Владимир Вениаминович": 3,
-      "Клюкин Александр Николаевич": 25,
-      "Колмаков Валерий Агафонович": 0,
-      "Пащенко Олег Анатольевич": 6,
-      "Сидоров Анатолий Евгеньевич": 0,
-      "Против всех": 4
+      "gas:candidate-vibid:324300266695": 1,
+      "gas:candidate-vibid:1001000136022": 3,
+      "gas:candidate-vibid:1001000225917": 25,
+      "gas:candidate-vibid:324300266862": 0,
+      "gas:candidate-vibid:1001000217903": 6,
+      "gas:candidate-vibid:1001000202290": 0,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067609&region=0&sub_region=0&type=429",
@@ -8330,13 +8330,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 21,
-      "Дмитриевский Владимир Вениаминович": 2,
-      "Клюкин Александр Николаевич": 18,
-      "Колмаков Валерий Агафонович": 0,
-      "Пащенко Олег Анатольевич": 3,
-      "Сидоров Анатолий Евгеньевич": 1,
-      "Против всех": 4
+      "gas:candidate-vibid:324300266695": 21,
+      "gas:candidate-vibid:1001000136022": 2,
+      "gas:candidate-vibid:1001000225917": 18,
+      "gas:candidate-vibid:324300266862": 0,
+      "gas:candidate-vibid:1001000217903": 3,
+      "gas:candidate-vibid:1001000202290": 1,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067609&region=0&sub_region=0&type=429",
@@ -8386,13 +8386,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 4,
-      "Дмитриевский Владимир Вениаминович": 8,
-      "Клюкин Александр Николаевич": 34,
-      "Колмаков Валерий Агафонович": 2,
-      "Пащенко Олег Анатольевич": 9,
-      "Сидоров Анатолий Евгеньевич": 1,
-      "Против всех": 19
+      "gas:candidate-vibid:324300266695": 4,
+      "gas:candidate-vibid:1001000136022": 8,
+      "gas:candidate-vibid:1001000225917": 34,
+      "gas:candidate-vibid:324300266862": 2,
+      "gas:candidate-vibid:1001000217903": 9,
+      "gas:candidate-vibid:1001000202290": 1,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067609&region=0&sub_region=0&type=429",
@@ -8442,13 +8442,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 21,
-      "Дмитриевский Владимир Вениаминович": 4,
-      "Клюкин Александр Николаевич": 37,
-      "Колмаков Валерий Агафонович": 2,
-      "Пащенко Олег Анатольевич": 2,
-      "Сидоров Анатолий Евгеньевич": 1,
-      "Против всех": 12
+      "gas:candidate-vibid:324300266695": 21,
+      "gas:candidate-vibid:1001000136022": 4,
+      "gas:candidate-vibid:1001000225917": 37,
+      "gas:candidate-vibid:324300266862": 2,
+      "gas:candidate-vibid:1001000217903": 2,
+      "gas:candidate-vibid:1001000202290": 1,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067609&region=0&sub_region=0&type=429",
@@ -8498,13 +8498,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 89,
-      "Дмитриевский Владимир Вениаминович": 57,
-      "Клюкин Александр Николаевич": 552,
-      "Колмаков Валерий Агафонович": 21,
-      "Пащенко Олег Анатольевич": 35,
-      "Сидоров Анатолий Евгеньевич": 19,
-      "Против всех": 281
+      "gas:candidate-vibid:324300266695": 89,
+      "gas:candidate-vibid:1001000136022": 57,
+      "gas:candidate-vibid:1001000225917": 552,
+      "gas:candidate-vibid:324300266862": 21,
+      "gas:candidate-vibid:1001000217903": 35,
+      "gas:candidate-vibid:1001000202290": 19,
+      "special:against-all": 281
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067610&region=0&sub_region=0&type=429",
@@ -8554,13 +8554,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 89,
-      "Дмитриевский Владимир Вениаминович": 46,
-      "Клюкин Александр Николаевич": 567,
-      "Колмаков Валерий Агафонович": 15,
-      "Пащенко Олег Анатольевич": 53,
-      "Сидоров Анатолий Евгеньевич": 18,
-      "Против всех": 287
+      "gas:candidate-vibid:324300266695": 89,
+      "gas:candidate-vibid:1001000136022": 46,
+      "gas:candidate-vibid:1001000225917": 567,
+      "gas:candidate-vibid:324300266862": 15,
+      "gas:candidate-vibid:1001000217903": 53,
+      "gas:candidate-vibid:1001000202290": 18,
+      "special:against-all": 287
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067610&region=0&sub_region=0&type=429",
@@ -8610,13 +8610,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 120,
-      "Дмитриевский Владимир Вениаминович": 165,
-      "Клюкин Александр Николаевич": 579,
-      "Колмаков Валерий Агафонович": 70,
-      "Пащенко Олег Анатольевич": 68,
-      "Сидоров Анатолий Евгеньевич": 79,
-      "Против всех": 489
+      "gas:candidate-vibid:324300266695": 120,
+      "gas:candidate-vibid:1001000136022": 165,
+      "gas:candidate-vibid:1001000225917": 579,
+      "gas:candidate-vibid:324300266862": 70,
+      "gas:candidate-vibid:1001000217903": 68,
+      "gas:candidate-vibid:1001000202290": 79,
+      "special:against-all": 489
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067610&region=0&sub_region=0&type=429",
@@ -8666,13 +8666,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 103,
-      "Дмитриевский Владимир Вениаминович": 48,
-      "Клюкин Александр Николаевич": 387,
-      "Колмаков Валерий Агафонович": 10,
-      "Пащенко Олег Анатольевич": 37,
-      "Сидоров Анатолий Евгеньевич": 9,
-      "Против всех": 182
+      "gas:candidate-vibid:324300266695": 103,
+      "gas:candidate-vibid:1001000136022": 48,
+      "gas:candidate-vibid:1001000225917": 387,
+      "gas:candidate-vibid:324300266862": 10,
+      "gas:candidate-vibid:1001000217903": 37,
+      "gas:candidate-vibid:1001000202290": 9,
+      "special:against-all": 182
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067610&region=0&sub_region=0&type=429",
@@ -8722,13 +8722,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 162,
-      "Дмитриевский Владимир Вениаминович": 35,
-      "Клюкин Александр Николаевич": 305,
-      "Колмаков Валерий Агафонович": 5,
-      "Пащенко Олег Анатольевич": 79,
-      "Сидоров Анатолий Евгеньевич": 5,
-      "Против всех": 145
+      "gas:candidate-vibid:324300266695": 162,
+      "gas:candidate-vibid:1001000136022": 35,
+      "gas:candidate-vibid:1001000225917": 305,
+      "gas:candidate-vibid:324300266862": 5,
+      "gas:candidate-vibid:1001000217903": 79,
+      "gas:candidate-vibid:1001000202290": 5,
+      "special:against-all": 145
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067611&region=0&sub_region=0&type=429",
@@ -8778,13 +8778,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 167,
-      "Дмитриевский Владимир Вениаминович": 41,
-      "Клюкин Александр Николаевич": 386,
-      "Колмаков Валерий Агафонович": 3,
-      "Пащенко Олег Анатольевич": 42,
-      "Сидоров Анатолий Евгеньевич": 8,
-      "Против всех": 127
+      "gas:candidate-vibid:324300266695": 167,
+      "gas:candidate-vibid:1001000136022": 41,
+      "gas:candidate-vibid:1001000225917": 386,
+      "gas:candidate-vibid:324300266862": 3,
+      "gas:candidate-vibid:1001000217903": 42,
+      "gas:candidate-vibid:1001000202290": 8,
+      "special:against-all": 127
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067611&region=0&sub_region=0&type=429",
@@ -8834,13 +8834,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 180,
-      "Дмитриевский Владимир Вениаминович": 34,
-      "Клюкин Александр Николаевич": 391,
-      "Колмаков Валерий Агафонович": 8,
-      "Пащенко Олег Анатольевич": 91,
-      "Сидоров Анатолий Евгеньевич": 9,
-      "Против всех": 119
+      "gas:candidate-vibid:324300266695": 180,
+      "gas:candidate-vibid:1001000136022": 34,
+      "gas:candidate-vibid:1001000225917": 391,
+      "gas:candidate-vibid:324300266862": 8,
+      "gas:candidate-vibid:1001000217903": 91,
+      "gas:candidate-vibid:1001000202290": 9,
+      "special:against-all": 119
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067611&region=0&sub_region=0&type=429",
@@ -8890,13 +8890,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 87,
-      "Дмитриевский Владимир Вениаминович": 37,
-      "Клюкин Александр Николаевич": 166,
-      "Колмаков Валерий Агафонович": 6,
-      "Пащенко Олег Анатольевич": 80,
-      "Сидоров Анатолий Евгеньевич": 11,
-      "Против всех": 56
+      "gas:candidate-vibid:324300266695": 87,
+      "gas:candidate-vibid:1001000136022": 37,
+      "gas:candidate-vibid:1001000225917": 166,
+      "gas:candidate-vibid:324300266862": 6,
+      "gas:candidate-vibid:1001000217903": 80,
+      "gas:candidate-vibid:1001000202290": 11,
+      "special:against-all": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067611&region=0&sub_region=0&type=429",
@@ -8946,13 +8946,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 28,
-      "Дмитриевский Владимир Вениаминович": 4,
-      "Клюкин Александр Николаевич": 38,
-      "Колмаков Валерий Агафонович": 0,
-      "Пащенко Олег Анатольевич": 16,
-      "Сидоров Анатолий Евгеньевич": 0,
-      "Против всех": 17
+      "gas:candidate-vibid:324300266695": 28,
+      "gas:candidate-vibid:1001000136022": 4,
+      "gas:candidate-vibid:1001000225917": 38,
+      "gas:candidate-vibid:324300266862": 0,
+      "gas:candidate-vibid:1001000217903": 16,
+      "gas:candidate-vibid:1001000202290": 0,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067611&region=0&sub_region=0&type=429",
@@ -9002,13 +9002,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 12,
-      "Дмитриевский Владимир Вениаминович": 2,
-      "Клюкин Александр Николаевич": 25,
-      "Колмаков Валерий Агафонович": 3,
-      "Пащенко Олег Анатольевич": 7,
-      "Сидоров Анатолий Евгеньевич": 1,
-      "Против всех": 11
+      "gas:candidate-vibid:324300266695": 12,
+      "gas:candidate-vibid:1001000136022": 2,
+      "gas:candidate-vibid:1001000225917": 25,
+      "gas:candidate-vibid:324300266862": 3,
+      "gas:candidate-vibid:1001000217903": 7,
+      "gas:candidate-vibid:1001000202290": 1,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067611&region=0&sub_region=0&type=429",
@@ -9058,13 +9058,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 2,
-      "Дмитриевский Владимир Вениаминович": 4,
-      "Клюкин Александр Николаевич": 72,
-      "Колмаков Валерий Агафонович": 1,
-      "Пащенко Олег Анатольевич": 9,
-      "Сидоров Анатолий Евгеньевич": 2,
-      "Против всех": 14
+      "gas:candidate-vibid:324300266695": 2,
+      "gas:candidate-vibid:1001000136022": 4,
+      "gas:candidate-vibid:1001000225917": 72,
+      "gas:candidate-vibid:324300266862": 1,
+      "gas:candidate-vibid:1001000217903": 9,
+      "gas:candidate-vibid:1001000202290": 2,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067611&region=0&sub_region=0&type=429",
@@ -9114,13 +9114,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 13,
-      "Дмитриевский Владимир Вениаминович": 17,
-      "Клюкин Александр Николаевич": 27,
-      "Колмаков Валерий Агафонович": 4,
-      "Пащенко Олег Анатольевич": 9,
-      "Сидоров Анатолий Евгеньевич": 0,
-      "Против всех": 15
+      "gas:candidate-vibid:324300266695": 13,
+      "gas:candidate-vibid:1001000136022": 17,
+      "gas:candidate-vibid:1001000225917": 27,
+      "gas:candidate-vibid:324300266862": 4,
+      "gas:candidate-vibid:1001000217903": 9,
+      "gas:candidate-vibid:1001000202290": 0,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067611&region=0&sub_region=0&type=429",
@@ -9170,13 +9170,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 15,
-      "Дмитриевский Владимир Вениаминович": 1,
-      "Клюкин Александр Николаевич": 26,
-      "Колмаков Валерий Агафонович": 0,
-      "Пащенко Олег Анатольевич": 7,
-      "Сидоров Анатолий Евгеньевич": 0,
-      "Против всех": 13
+      "gas:candidate-vibid:324300266695": 15,
+      "gas:candidate-vibid:1001000136022": 1,
+      "gas:candidate-vibid:1001000225917": 26,
+      "gas:candidate-vibid:324300266862": 0,
+      "gas:candidate-vibid:1001000217903": 7,
+      "gas:candidate-vibid:1001000202290": 0,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067611&region=0&sub_region=0&type=429",
@@ -9226,13 +9226,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 29,
-      "Дмитриевский Владимир Вениаминович": 14,
-      "Клюкин Александр Николаевич": 200,
-      "Колмаков Валерий Агафонович": 9,
-      "Пащенко Олег Анатольевич": 42,
-      "Сидоров Анатолий Евгеньевич": 6,
-      "Против всех": 30
+      "gas:candidate-vibid:324300266695": 29,
+      "gas:candidate-vibid:1001000136022": 14,
+      "gas:candidate-vibid:1001000225917": 200,
+      "gas:candidate-vibid:324300266862": 9,
+      "gas:candidate-vibid:1001000217903": 42,
+      "gas:candidate-vibid:1001000202290": 6,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067611&region=0&sub_region=0&type=429",
@@ -9282,13 +9282,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 24,
-      "Дмитриевский Владимир Вениаминович": 5,
-      "Клюкин Александр Николаевич": 32,
-      "Колмаков Валерий Агафонович": 1,
-      "Пащенко Олег Анатольевич": 20,
-      "Сидоров Анатолий Евгеньевич": 1,
-      "Против всех": 8
+      "gas:candidate-vibid:324300266695": 24,
+      "gas:candidate-vibid:1001000136022": 5,
+      "gas:candidate-vibid:1001000225917": 32,
+      "gas:candidate-vibid:324300266862": 1,
+      "gas:candidate-vibid:1001000217903": 20,
+      "gas:candidate-vibid:1001000202290": 1,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067611&region=0&sub_region=0&type=429",
@@ -9338,13 +9338,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 5,
-      "Дмитриевский Владимир Вениаминович": 10,
-      "Клюкин Александр Николаевич": 9,
-      "Колмаков Валерий Агафонович": 1,
-      "Пащенко Олег Анатольевич": 5,
-      "Сидоров Анатолий Евгеньевич": 1,
-      "Против всех": 5
+      "gas:candidate-vibid:324300266695": 5,
+      "gas:candidate-vibid:1001000136022": 10,
+      "gas:candidate-vibid:1001000225917": 9,
+      "gas:candidate-vibid:324300266862": 1,
+      "gas:candidate-vibid:1001000217903": 5,
+      "gas:candidate-vibid:1001000202290": 1,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067611&region=0&sub_region=0&type=429",
@@ -9394,13 +9394,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 2,
-      "Дмитриевский Владимир Вениаминович": 5,
-      "Клюкин Александр Николаевич": 23,
-      "Колмаков Валерий Агафонович": 0,
-      "Пащенко Олег Анатольевич": 3,
-      "Сидоров Анатолий Евгеньевич": 2,
-      "Против всех": 5
+      "gas:candidate-vibid:324300266695": 2,
+      "gas:candidate-vibid:1001000136022": 5,
+      "gas:candidate-vibid:1001000225917": 23,
+      "gas:candidate-vibid:324300266862": 0,
+      "gas:candidate-vibid:1001000217903": 3,
+      "gas:candidate-vibid:1001000202290": 2,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067611&region=0&sub_region=0&type=429",
@@ -9450,13 +9450,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 50,
-      "Дмитриевский Владимир Вениаминович": 9,
-      "Клюкин Александр Николаевич": 73,
-      "Колмаков Валерий Агафонович": 0,
-      "Пащенко Олег Анатольевич": 19,
-      "Сидоров Анатолий Евгеньевич": 3,
-      "Против всех": 12
+      "gas:candidate-vibid:324300266695": 50,
+      "gas:candidate-vibid:1001000136022": 9,
+      "gas:candidate-vibid:1001000225917": 73,
+      "gas:candidate-vibid:324300266862": 0,
+      "gas:candidate-vibid:1001000217903": 19,
+      "gas:candidate-vibid:1001000202290": 3,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067611&region=0&sub_region=0&type=429",
@@ -9506,13 +9506,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 20,
-      "Дмитриевский Владимир Вениаминович": 6,
-      "Клюкин Александр Николаевич": 79,
-      "Колмаков Валерий Агафонович": 1,
-      "Пащенко Олег Анатольевич": 2,
-      "Сидоров Анатолий Евгеньевич": 1,
-      "Против всех": 8
+      "gas:candidate-vibid:324300266695": 20,
+      "gas:candidate-vibid:1001000136022": 6,
+      "gas:candidate-vibid:1001000225917": 79,
+      "gas:candidate-vibid:324300266862": 1,
+      "gas:candidate-vibid:1001000217903": 2,
+      "gas:candidate-vibid:1001000202290": 1,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067611&region=0&sub_region=0&type=429",
@@ -9562,13 +9562,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 7,
-      "Дмитриевский Владимир Вениаминович": 10,
-      "Клюкин Александр Николаевич": 42,
-      "Колмаков Валерий Агафонович": 3,
-      "Пащенко Олег Анатольевич": 14,
-      "Сидоров Анатолий Евгеньевич": 0,
-      "Против всех": 16
+      "gas:candidate-vibid:324300266695": 7,
+      "gas:candidate-vibid:1001000136022": 10,
+      "gas:candidate-vibid:1001000225917": 42,
+      "gas:candidate-vibid:324300266862": 3,
+      "gas:candidate-vibid:1001000217903": 14,
+      "gas:candidate-vibid:1001000202290": 0,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067611&region=0&sub_region=0&type=429",
@@ -9618,13 +9618,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 20,
-      "Дмитриевский Владимир Вениаминович": 14,
-      "Клюкин Александр Николаевич": 92,
-      "Колмаков Валерий Агафонович": 2,
-      "Пащенко Олег Анатольевич": 10,
-      "Сидоров Анатолий Евгеньевич": 4,
-      "Против всех": 25
+      "gas:candidate-vibid:324300266695": 20,
+      "gas:candidate-vibid:1001000136022": 14,
+      "gas:candidate-vibid:1001000225917": 92,
+      "gas:candidate-vibid:324300266862": 2,
+      "gas:candidate-vibid:1001000217903": 10,
+      "gas:candidate-vibid:1001000202290": 4,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067611&region=0&sub_region=0&type=429",
@@ -9674,13 +9674,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 21,
-      "Дмитриевский Владимир Вениаминович": 4,
-      "Клюкин Александр Николаевич": 42,
-      "Колмаков Валерий Агафонович": 1,
-      "Пащенко Олег Анатольевич": 13,
-      "Сидоров Анатолий Евгеньевич": 2,
-      "Против всех": 20
+      "gas:candidate-vibid:324300266695": 21,
+      "gas:candidate-vibid:1001000136022": 4,
+      "gas:candidate-vibid:1001000225917": 42,
+      "gas:candidate-vibid:324300266862": 1,
+      "gas:candidate-vibid:1001000217903": 13,
+      "gas:candidate-vibid:1001000202290": 2,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067611&region=0&sub_region=0&type=429",
@@ -9730,13 +9730,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 6,
-      "Дмитриевский Владимир Вениаминович": 6,
-      "Клюкин Александр Николаевич": 35,
-      "Колмаков Валерий Агафонович": 5,
-      "Пащенко Олег Анатольевич": 16,
-      "Сидоров Анатолий Евгеньевич": 3,
-      "Против всех": 3
+      "gas:candidate-vibid:324300266695": 6,
+      "gas:candidate-vibid:1001000136022": 6,
+      "gas:candidate-vibid:1001000225917": 35,
+      "gas:candidate-vibid:324300266862": 5,
+      "gas:candidate-vibid:1001000217903": 16,
+      "gas:candidate-vibid:1001000202290": 3,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067611&region=0&sub_region=0&type=429",
@@ -9786,13 +9786,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 21,
-      "Дмитриевский Владимир Вениаминович": 9,
-      "Клюкин Александр Николаевич": 227,
-      "Колмаков Валерий Агафонович": 1,
-      "Пащенко Олег Анатольевич": 31,
-      "Сидоров Анатолий Евгеньевич": 2,
-      "Против всех": 32
+      "gas:candidate-vibid:324300266695": 21,
+      "gas:candidate-vibid:1001000136022": 9,
+      "gas:candidate-vibid:1001000225917": 227,
+      "gas:candidate-vibid:324300266862": 1,
+      "gas:candidate-vibid:1001000217903": 31,
+      "gas:candidate-vibid:1001000202290": 2,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067611&region=0&sub_region=0&type=429",
@@ -9842,13 +9842,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 19,
-      "Дмитриевский Владимир Вениаминович": 2,
-      "Клюкин Александр Николаевич": 139,
-      "Колмаков Валерий Агафонович": 4,
-      "Пащенко Олег Анатольевич": 13,
-      "Сидоров Анатолий Евгеньевич": 2,
-      "Против всех": 41
+      "gas:candidate-vibid:324300266695": 19,
+      "gas:candidate-vibid:1001000136022": 2,
+      "gas:candidate-vibid:1001000225917": 139,
+      "gas:candidate-vibid:324300266862": 4,
+      "gas:candidate-vibid:1001000217903": 13,
+      "gas:candidate-vibid:1001000202290": 2,
+      "special:against-all": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067611&region=0&sub_region=0&type=429",
@@ -9898,13 +9898,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 6,
-      "Дмитриевский Владимир Вениаминович": 2,
-      "Клюкин Александр Николаевич": 47,
-      "Колмаков Валерий Агафонович": 1,
-      "Пащенко Олег Анатольевич": 12,
-      "Сидоров Анатолий Евгеньевич": 1,
-      "Против всех": 17
+      "gas:candidate-vibid:324300266695": 6,
+      "gas:candidate-vibid:1001000136022": 2,
+      "gas:candidate-vibid:1001000225917": 47,
+      "gas:candidate-vibid:324300266862": 1,
+      "gas:candidate-vibid:1001000217903": 12,
+      "gas:candidate-vibid:1001000202290": 1,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067611&region=0&sub_region=0&type=429",
@@ -9954,13 +9954,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 45,
-      "Дмитриевский Владимир Вениаминович": 21,
-      "Клюкин Александр Николаевич": 220,
-      "Колмаков Валерий Агафонович": 10,
-      "Пащенко Олег Анатольевич": 32,
-      "Сидоров Анатолий Евгеньевич": 11,
-      "Против всех": 49
+      "gas:candidate-vibid:324300266695": 45,
+      "gas:candidate-vibid:1001000136022": 21,
+      "gas:candidate-vibid:1001000225917": 220,
+      "gas:candidate-vibid:324300266862": 10,
+      "gas:candidate-vibid:1001000217903": 32,
+      "gas:candidate-vibid:1001000202290": 11,
+      "special:against-all": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067611&region=0&sub_region=0&type=429",
@@ -10010,13 +10010,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 18,
-      "Дмитриевский Владимир Вениаминович": 10,
-      "Клюкин Александр Николаевич": 108,
-      "Колмаков Валерий Агафонович": 3,
-      "Пащенко Олег Анатольевич": 6,
-      "Сидоров Анатолий Евгеньевич": 0,
-      "Против всех": 28
+      "gas:candidate-vibid:324300266695": 18,
+      "gas:candidate-vibid:1001000136022": 10,
+      "gas:candidate-vibid:1001000225917": 108,
+      "gas:candidate-vibid:324300266862": 3,
+      "gas:candidate-vibid:1001000217903": 6,
+      "gas:candidate-vibid:1001000202290": 0,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067611&region=0&sub_region=0&type=429",
@@ -10066,13 +10066,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 39,
-      "Дмитриевский Владимир Вениаминович": 17,
-      "Клюкин Александр Николаевич": 104,
-      "Колмаков Валерий Агафонович": 6,
-      "Пащенко Олег Анатольевич": 17,
-      "Сидоров Анатолий Евгеньевич": 3,
-      "Против всех": 34
+      "gas:candidate-vibid:324300266695": 39,
+      "gas:candidate-vibid:1001000136022": 17,
+      "gas:candidate-vibid:1001000225917": 104,
+      "gas:candidate-vibid:324300266862": 6,
+      "gas:candidate-vibid:1001000217903": 17,
+      "gas:candidate-vibid:1001000202290": 3,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067611&region=0&sub_region=0&type=429",
@@ -10122,13 +10122,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 3,
-      "Дмитриевский Владимир Вениаминович": 7,
-      "Клюкин Александр Николаевич": 35,
-      "Колмаков Валерий Агафонович": 2,
-      "Пащенко Олег Анатольевич": 5,
-      "Сидоров Анатолий Евгеньевич": 0,
-      "Против всех": 5
+      "gas:candidate-vibid:324300266695": 3,
+      "gas:candidate-vibid:1001000136022": 7,
+      "gas:candidate-vibid:1001000225917": 35,
+      "gas:candidate-vibid:324300266862": 2,
+      "gas:candidate-vibid:1001000217903": 5,
+      "gas:candidate-vibid:1001000202290": 0,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067611&region=0&sub_region=0&type=429",
@@ -10178,13 +10178,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 39,
-      "Дмитриевский Владимир Вениаминович": 19,
-      "Клюкин Александр Николаевич": 149,
-      "Колмаков Валерий Агафонович": 4,
-      "Пащенко Олег Анатольевич": 21,
-      "Сидоров Анатолий Евгеньевич": 2,
-      "Против всех": 39
+      "gas:candidate-vibid:324300266695": 39,
+      "gas:candidate-vibid:1001000136022": 19,
+      "gas:candidate-vibid:1001000225917": 149,
+      "gas:candidate-vibid:324300266862": 4,
+      "gas:candidate-vibid:1001000217903": 21,
+      "gas:candidate-vibid:1001000202290": 2,
+      "special:against-all": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067611&region=0&sub_region=0&type=429",
@@ -10234,13 +10234,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 14,
-      "Дмитриевский Владимир Вениаминович": 5,
-      "Клюкин Александр Николаевич": 30,
-      "Колмаков Валерий Агафонович": 6,
-      "Пащенко Олег Анатольевич": 9,
-      "Сидоров Анатолий Евгеньевич": 1,
-      "Против всех": 25
+      "gas:candidate-vibid:324300266695": 14,
+      "gas:candidate-vibid:1001000136022": 5,
+      "gas:candidate-vibid:1001000225917": 30,
+      "gas:candidate-vibid:324300266862": 6,
+      "gas:candidate-vibid:1001000217903": 9,
+      "gas:candidate-vibid:1001000202290": 1,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067611&region=0&sub_region=0&type=429",
@@ -10290,13 +10290,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 32,
-      "Дмитриевский Владимир Вениаминович": 4,
-      "Клюкин Александр Николаевич": 80,
-      "Колмаков Валерий Агафонович": 3,
-      "Пащенко Олег Анатольевич": 16,
-      "Сидоров Анатолий Евгеньевич": 6,
-      "Против всех": 30
+      "gas:candidate-vibid:324300266695": 32,
+      "gas:candidate-vibid:1001000136022": 4,
+      "gas:candidate-vibid:1001000225917": 80,
+      "gas:candidate-vibid:324300266862": 3,
+      "gas:candidate-vibid:1001000217903": 16,
+      "gas:candidate-vibid:1001000202290": 6,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067611&region=0&sub_region=0&type=429",
@@ -10346,13 +10346,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 172,
-      "Дмитриевский Владимир Вениаминович": 16,
-      "Клюкин Александр Николаевич": 99,
-      "Колмаков Валерий Агафонович": 1,
-      "Пащенко Олег Анатольевич": 36,
-      "Сидоров Анатолий Евгеньевич": 5,
-      "Против всех": 239
+      "gas:candidate-vibid:324300266695": 172,
+      "gas:candidate-vibid:1001000136022": 16,
+      "gas:candidate-vibid:1001000225917": 99,
+      "gas:candidate-vibid:324300266862": 1,
+      "gas:candidate-vibid:1001000217903": 36,
+      "gas:candidate-vibid:1001000202290": 5,
+      "special:against-all": 239
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067612&region=0&sub_region=0&type=429",
@@ -10402,13 +10402,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 215,
-      "Дмитриевский Владимир Вениаминович": 33,
-      "Клюкин Александр Николаевич": 140,
-      "Колмаков Валерий Агафонович": 5,
-      "Пащенко Олег Анатольевич": 47,
-      "Сидоров Анатолий Евгеньевич": 5,
-      "Против всех": 364
+      "gas:candidate-vibid:324300266695": 215,
+      "gas:candidate-vibid:1001000136022": 33,
+      "gas:candidate-vibid:1001000225917": 140,
+      "gas:candidate-vibid:324300266862": 5,
+      "gas:candidate-vibid:1001000217903": 47,
+      "gas:candidate-vibid:1001000202290": 5,
+      "special:against-all": 364
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067612&region=0&sub_region=0&type=429",
@@ -10458,13 +10458,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 297,
-      "Дмитриевский Владимир Вениаминович": 39,
-      "Клюкин Александр Николаевич": 165,
-      "Колмаков Валерий Агафонович": 5,
-      "Пащенко Олег Анатольевич": 86,
-      "Сидоров Анатолий Евгеньевич": 3,
-      "Против всех": 498
+      "gas:candidate-vibid:324300266695": 297,
+      "gas:candidate-vibid:1001000136022": 39,
+      "gas:candidate-vibid:1001000225917": 165,
+      "gas:candidate-vibid:324300266862": 5,
+      "gas:candidate-vibid:1001000217903": 86,
+      "gas:candidate-vibid:1001000202290": 3,
+      "special:against-all": 498
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067612&region=0&sub_region=0&type=429",
@@ -10514,13 +10514,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 229,
-      "Дмитриевский Владимир Вениаминович": 55,
-      "Клюкин Александр Николаевич": 161,
-      "Колмаков Валерий Агафонович": 6,
-      "Пащенко Олег Анатольевич": 70,
-      "Сидоров Анатолий Евгеньевич": 15,
-      "Против всех": 599
+      "gas:candidate-vibid:324300266695": 229,
+      "gas:candidate-vibid:1001000136022": 55,
+      "gas:candidate-vibid:1001000225917": 161,
+      "gas:candidate-vibid:324300266862": 6,
+      "gas:candidate-vibid:1001000217903": 70,
+      "gas:candidate-vibid:1001000202290": 15,
+      "special:against-all": 599
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067612&region=0&sub_region=0&type=429",
@@ -10570,13 +10570,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 268,
-      "Дмитриевский Владимир Вениаминович": 29,
-      "Клюкин Александр Николаевич": 152,
-      "Колмаков Валерий Агафонович": 12,
-      "Пащенко Олег Анатольевич": 65,
-      "Сидоров Анатолий Евгеньевич": 12,
-      "Против всех": 446
+      "gas:candidate-vibid:324300266695": 268,
+      "gas:candidate-vibid:1001000136022": 29,
+      "gas:candidate-vibid:1001000225917": 152,
+      "gas:candidate-vibid:324300266862": 12,
+      "gas:candidate-vibid:1001000217903": 65,
+      "gas:candidate-vibid:1001000202290": 12,
+      "special:against-all": 446
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067612&region=0&sub_region=0&type=429",
@@ -10626,13 +10626,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 261,
-      "Дмитриевский Владимир Вениаминович": 22,
-      "Клюкин Александр Николаевич": 178,
-      "Колмаков Валерий Агафонович": 8,
-      "Пащенко Олег Анатольевич": 135,
-      "Сидоров Анатолий Евгеньевич": 14,
-      "Против всех": 419
+      "gas:candidate-vibid:324300266695": 261,
+      "gas:candidate-vibid:1001000136022": 22,
+      "gas:candidate-vibid:1001000225917": 178,
+      "gas:candidate-vibid:324300266862": 8,
+      "gas:candidate-vibid:1001000217903": 135,
+      "gas:candidate-vibid:1001000202290": 14,
+      "special:against-all": 419
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067612&region=0&sub_region=0&type=429",
@@ -10682,13 +10682,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 261,
-      "Дмитриевский Владимир Вениаминович": 33,
-      "Клюкин Александр Николаевич": 208,
-      "Колмаков Валерий Агафонович": 13,
-      "Пащенко Олег Анатольевич": 85,
-      "Сидоров Анатолий Евгеньевич": 21,
-      "Против всех": 489
+      "gas:candidate-vibid:324300266695": 261,
+      "gas:candidate-vibid:1001000136022": 33,
+      "gas:candidate-vibid:1001000225917": 208,
+      "gas:candidate-vibid:324300266862": 13,
+      "gas:candidate-vibid:1001000217903": 85,
+      "gas:candidate-vibid:1001000202290": 21,
+      "special:against-all": 489
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067612&region=0&sub_region=0&type=429",
@@ -10738,13 +10738,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 310,
-      "Дмитриевский Владимир Вениаминович": 27,
-      "Клюкин Александр Николаевич": 206,
-      "Колмаков Валерий Агафонович": 12,
-      "Пащенко Олег Анатольевич": 103,
-      "Сидоров Анатолий Евгеньевич": 15,
-      "Против всех": 500
+      "gas:candidate-vibid:324300266695": 310,
+      "gas:candidate-vibid:1001000136022": 27,
+      "gas:candidate-vibid:1001000225917": 206,
+      "gas:candidate-vibid:324300266862": 12,
+      "gas:candidate-vibid:1001000217903": 103,
+      "gas:candidate-vibid:1001000202290": 15,
+      "special:against-all": 500
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067612&region=0&sub_region=0&type=429",
@@ -10794,13 +10794,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 391,
-      "Дмитриевский Владимир Вениаминович": 35,
-      "Клюкин Александр Николаевич": 254,
-      "Колмаков Валерий Агафонович": 13,
-      "Пащенко Олег Анатольевич": 104,
-      "Сидоров Анатолий Евгеньевич": 11,
-      "Против всех": 557
+      "gas:candidate-vibid:324300266695": 391,
+      "gas:candidate-vibid:1001000136022": 35,
+      "gas:candidate-vibid:1001000225917": 254,
+      "gas:candidate-vibid:324300266862": 13,
+      "gas:candidate-vibid:1001000217903": 104,
+      "gas:candidate-vibid:1001000202290": 11,
+      "special:against-all": 557
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067612&region=0&sub_region=0&type=429",
@@ -10850,13 +10850,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 406,
-      "Дмитриевский Владимир Вениаминович": 28,
-      "Клюкин Александр Николаевич": 181,
-      "Колмаков Валерий Агафонович": 7,
-      "Пащенко Олег Анатольевич": 116,
-      "Сидоров Анатолий Евгеньевич": 13,
-      "Против всех": 580
+      "gas:candidate-vibid:324300266695": 406,
+      "gas:candidate-vibid:1001000136022": 28,
+      "gas:candidate-vibid:1001000225917": 181,
+      "gas:candidate-vibid:324300266862": 7,
+      "gas:candidate-vibid:1001000217903": 116,
+      "gas:candidate-vibid:1001000202290": 13,
+      "special:against-all": 580
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067612&region=0&sub_region=0&type=429",
@@ -10906,13 +10906,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 286,
-      "Дмитриевский Владимир Вениаминович": 41,
-      "Клюкин Александр Николаевич": 189,
-      "Колмаков Валерий Агафонович": 8,
-      "Пащенко Олег Анатольевич": 80,
-      "Сидоров Анатолий Евгеньевич": 20,
-      "Против всех": 512
+      "gas:candidate-vibid:324300266695": 286,
+      "gas:candidate-vibid:1001000136022": 41,
+      "gas:candidate-vibid:1001000225917": 189,
+      "gas:candidate-vibid:324300266862": 8,
+      "gas:candidate-vibid:1001000217903": 80,
+      "gas:candidate-vibid:1001000202290": 20,
+      "special:against-all": 512
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067612&region=0&sub_region=0&type=429",
@@ -10962,13 +10962,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 313,
-      "Дмитриевский Владимир Вениаминович": 22,
-      "Клюкин Александр Николаевич": 176,
-      "Колмаков Валерий Агафонович": 11,
-      "Пащенко Олег Анатольевич": 68,
-      "Сидоров Анатолий Евгеньевич": 12,
-      "Против всех": 484
+      "gas:candidate-vibid:324300266695": 313,
+      "gas:candidate-vibid:1001000136022": 22,
+      "gas:candidate-vibid:1001000225917": 176,
+      "gas:candidate-vibid:324300266862": 11,
+      "gas:candidate-vibid:1001000217903": 68,
+      "gas:candidate-vibid:1001000202290": 12,
+      "special:against-all": 484
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067612&region=0&sub_region=0&type=429",
@@ -11018,13 +11018,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 161,
-      "Дмитриевский Владимир Вениаминович": 38,
-      "Клюкин Александр Николаевич": 144,
-      "Колмаков Валерий Агафонович": 8,
-      "Пащенко Олег Анатольевич": 61,
-      "Сидоров Анатолий Евгеньевич": 7,
-      "Против всех": 470
+      "gas:candidate-vibid:324300266695": 161,
+      "gas:candidate-vibid:1001000136022": 38,
+      "gas:candidate-vibid:1001000225917": 144,
+      "gas:candidate-vibid:324300266862": 8,
+      "gas:candidate-vibid:1001000217903": 61,
+      "gas:candidate-vibid:1001000202290": 7,
+      "special:against-all": 470
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067612&region=0&sub_region=0&type=429",
@@ -11074,13 +11074,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 263,
-      "Дмитриевский Владимир Вениаминович": 29,
-      "Клюкин Александр Николаевич": 202,
-      "Колмаков Валерий Агафонович": 9,
-      "Пащенко Олег Анатольевич": 108,
-      "Сидоров Анатолий Евгеньевич": 12,
-      "Против всех": 550
+      "gas:candidate-vibid:324300266695": 263,
+      "gas:candidate-vibid:1001000136022": 29,
+      "gas:candidate-vibid:1001000225917": 202,
+      "gas:candidate-vibid:324300266862": 9,
+      "gas:candidate-vibid:1001000217903": 108,
+      "gas:candidate-vibid:1001000202290": 12,
+      "special:against-all": 550
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067612&region=0&sub_region=0&type=429",
@@ -11130,13 +11130,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 301,
-      "Дмитриевский Владимир Вениаминович": 46,
-      "Клюкин Александр Николаевич": 231,
-      "Колмаков Валерий Агафонович": 10,
-      "Пащенко Олег Анатольевич": 67,
-      "Сидоров Анатолий Евгеньевич": 11,
-      "Против всех": 459
+      "gas:candidate-vibid:324300266695": 301,
+      "gas:candidate-vibid:1001000136022": 46,
+      "gas:candidate-vibid:1001000225917": 231,
+      "gas:candidate-vibid:324300266862": 10,
+      "gas:candidate-vibid:1001000217903": 67,
+      "gas:candidate-vibid:1001000202290": 11,
+      "special:against-all": 459
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067612&region=0&sub_region=0&type=429",
@@ -11186,13 +11186,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 170,
-      "Дмитриевский Владимир Вениаминович": 29,
-      "Клюкин Александр Николаевич": 164,
-      "Колмаков Валерий Агафонович": 8,
-      "Пащенко Олег Анатольевич": 47,
-      "Сидоров Анатолий Евгеньевич": 4,
-      "Против всех": 308
+      "gas:candidate-vibid:324300266695": 170,
+      "gas:candidate-vibid:1001000136022": 29,
+      "gas:candidate-vibid:1001000225917": 164,
+      "gas:candidate-vibid:324300266862": 8,
+      "gas:candidate-vibid:1001000217903": 47,
+      "gas:candidate-vibid:1001000202290": 4,
+      "special:against-all": 308
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067612&region=0&sub_region=0&type=429",
@@ -11242,13 +11242,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 296,
-      "Дмитриевский Владимир Вениаминович": 24,
-      "Клюкин Александр Николаевич": 136,
-      "Колмаков Валерий Агафонович": 9,
-      "Пащенко Олег Анатольевич": 47,
-      "Сидоров Анатолий Евгеньевич": 12,
-      "Против всех": 367
+      "gas:candidate-vibid:324300266695": 296,
+      "gas:candidate-vibid:1001000136022": 24,
+      "gas:candidate-vibid:1001000225917": 136,
+      "gas:candidate-vibid:324300266862": 9,
+      "gas:candidate-vibid:1001000217903": 47,
+      "gas:candidate-vibid:1001000202290": 12,
+      "special:against-all": 367
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067612&region=0&sub_region=0&type=429",
@@ -11298,13 +11298,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 324,
-      "Дмитриевский Владимир Вениаминович": 48,
-      "Клюкин Александр Николаевич": 252,
-      "Колмаков Валерий Агафонович": 12,
-      "Пащенко Олег Анатольевич": 142,
-      "Сидоров Анатолий Евгеньевич": 27,
-      "Против всех": 598
+      "gas:candidate-vibid:324300266695": 324,
+      "gas:candidate-vibid:1001000136022": 48,
+      "gas:candidate-vibid:1001000225917": 252,
+      "gas:candidate-vibid:324300266862": 12,
+      "gas:candidate-vibid:1001000217903": 142,
+      "gas:candidate-vibid:1001000202290": 27,
+      "special:against-all": 598
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067612&region=0&sub_region=0&type=429",
@@ -11354,13 +11354,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 151,
-      "Дмитриевский Владимир Вениаминович": 44,
-      "Клюкин Александр Николаевич": 192,
-      "Колмаков Валерий Агафонович": 7,
-      "Пащенко Олег Анатольевич": 86,
-      "Сидоров Анатолий Евгеньевич": 18,
-      "Против всех": 403
+      "gas:candidate-vibid:324300266695": 151,
+      "gas:candidate-vibid:1001000136022": 44,
+      "gas:candidate-vibid:1001000225917": 192,
+      "gas:candidate-vibid:324300266862": 7,
+      "gas:candidate-vibid:1001000217903": 86,
+      "gas:candidate-vibid:1001000202290": 18,
+      "special:against-all": 403
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067612&region=0&sub_region=0&type=429",
@@ -11410,13 +11410,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 30,
-      "Дмитриевский Владимир Вениаминович": 6,
-      "Клюкин Александр Николаевич": 26,
-      "Колмаков Валерий Агафонович": 2,
-      "Пащенко Олег Анатольевич": 6,
-      "Сидоров Анатолий Евгеньевич": 2,
-      "Против всех": 56
+      "gas:candidate-vibid:324300266695": 30,
+      "gas:candidate-vibid:1001000136022": 6,
+      "gas:candidate-vibid:1001000225917": 26,
+      "gas:candidate-vibid:324300266862": 2,
+      "gas:candidate-vibid:1001000217903": 6,
+      "gas:candidate-vibid:1001000202290": 2,
+      "special:against-all": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067612&region=0&sub_region=0&type=429",
@@ -11466,13 +11466,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 18,
-      "Дмитриевский Владимир Вениаминович": 5,
-      "Клюкин Александр Николаевич": 22,
-      "Колмаков Валерий Агафонович": 1,
-      "Пащенко Олег Анатольевич": 24,
-      "Сидоров Анатолий Евгеньевич": 3,
-      "Против всех": 20
+      "gas:candidate-vibid:324300266695": 18,
+      "gas:candidate-vibid:1001000136022": 5,
+      "gas:candidate-vibid:1001000225917": 22,
+      "gas:candidate-vibid:324300266862": 1,
+      "gas:candidate-vibid:1001000217903": 24,
+      "gas:candidate-vibid:1001000202290": 3,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067613&region=0&sub_region=0&type=429",
@@ -11522,13 +11522,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 19,
-      "Дмитриевский Владимир Вениаминович": 2,
-      "Клюкин Александр Николаевич": 54,
-      "Колмаков Валерий Агафонович": 2,
-      "Пащенко Олег Анатольевич": 14,
-      "Сидоров Анатолий Евгеньевич": 1,
-      "Против всех": 48
+      "gas:candidate-vibid:324300266695": 19,
+      "gas:candidate-vibid:1001000136022": 2,
+      "gas:candidate-vibid:1001000225917": 54,
+      "gas:candidate-vibid:324300266862": 2,
+      "gas:candidate-vibid:1001000217903": 14,
+      "gas:candidate-vibid:1001000202290": 1,
+      "special:against-all": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067613&region=0&sub_region=0&type=429",
@@ -11578,13 +11578,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 19,
-      "Дмитриевский Владимир Вениаминович": 8,
-      "Клюкин Александр Николаевич": 77,
-      "Колмаков Валерий Агафонович": 2,
-      "Пащенко Олег Анатольевич": 7,
-      "Сидоров Анатолий Евгеньевич": 1,
-      "Против всех": 31
+      "gas:candidate-vibid:324300266695": 19,
+      "gas:candidate-vibid:1001000136022": 8,
+      "gas:candidate-vibid:1001000225917": 77,
+      "gas:candidate-vibid:324300266862": 2,
+      "gas:candidate-vibid:1001000217903": 7,
+      "gas:candidate-vibid:1001000202290": 1,
+      "special:against-all": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067613&region=0&sub_region=0&type=429",
@@ -11634,13 +11634,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 17,
-      "Дмитриевский Владимир Вениаминович": 3,
-      "Клюкин Александр Николаевич": 49,
-      "Колмаков Валерий Агафонович": 0,
-      "Пащенко Олег Анатольевич": 7,
-      "Сидоров Анатолий Евгеньевич": 0,
-      "Против всех": 22
+      "gas:candidate-vibid:324300266695": 17,
+      "gas:candidate-vibid:1001000136022": 3,
+      "gas:candidate-vibid:1001000225917": 49,
+      "gas:candidate-vibid:324300266862": 0,
+      "gas:candidate-vibid:1001000217903": 7,
+      "gas:candidate-vibid:1001000202290": 0,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067613&region=0&sub_region=0&type=429",
@@ -11690,13 +11690,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 36,
-      "Дмитриевский Владимир Вениаминович": 18,
-      "Клюкин Александр Николаевич": 151,
-      "Колмаков Валерий Агафонович": 1,
-      "Пащенко Олег Анатольевич": 33,
-      "Сидоров Анатолий Евгеньевич": 2,
-      "Против всех": 53
+      "gas:candidate-vibid:324300266695": 36,
+      "gas:candidate-vibid:1001000136022": 18,
+      "gas:candidate-vibid:1001000225917": 151,
+      "gas:candidate-vibid:324300266862": 1,
+      "gas:candidate-vibid:1001000217903": 33,
+      "gas:candidate-vibid:1001000202290": 2,
+      "special:against-all": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067613&region=0&sub_region=0&type=429",
@@ -11746,13 +11746,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 14,
-      "Дмитриевский Владимир Вениаминович": 6,
-      "Клюкин Александр Николаевич": 84,
-      "Колмаков Валерий Агафонович": 1,
-      "Пащенко Олег Анатольевич": 17,
-      "Сидоров Анатолий Евгеньевич": 3,
-      "Против всех": 24
+      "gas:candidate-vibid:324300266695": 14,
+      "gas:candidate-vibid:1001000136022": 6,
+      "gas:candidate-vibid:1001000225917": 84,
+      "gas:candidate-vibid:324300266862": 1,
+      "gas:candidate-vibid:1001000217903": 17,
+      "gas:candidate-vibid:1001000202290": 3,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067613&region=0&sub_region=0&type=429",
@@ -11802,13 +11802,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 31,
-      "Дмитриевский Владимир Вениаминович": 10,
-      "Клюкин Александр Николаевич": 116,
-      "Колмаков Валерий Агафонович": 3,
-      "Пащенко Олег Анатольевич": 16,
-      "Сидоров Анатолий Евгеньевич": 2,
-      "Против всех": 18
+      "gas:candidate-vibid:324300266695": 31,
+      "gas:candidate-vibid:1001000136022": 10,
+      "gas:candidate-vibid:1001000225917": 116,
+      "gas:candidate-vibid:324300266862": 3,
+      "gas:candidate-vibid:1001000217903": 16,
+      "gas:candidate-vibid:1001000202290": 2,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067613&region=0&sub_region=0&type=429",
@@ -11858,13 +11858,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 6,
-      "Дмитриевский Владимир Вениаминович": 1,
-      "Клюкин Александр Николаевич": 52,
-      "Колмаков Валерий Агафонович": 3,
-      "Пащенко Олег Анатольевич": 3,
-      "Сидоров Анатолий Евгеньевич": 2,
-      "Против всех": 22
+      "gas:candidate-vibid:324300266695": 6,
+      "gas:candidate-vibid:1001000136022": 1,
+      "gas:candidate-vibid:1001000225917": 52,
+      "gas:candidate-vibid:324300266862": 3,
+      "gas:candidate-vibid:1001000217903": 3,
+      "gas:candidate-vibid:1001000202290": 2,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067613&region=0&sub_region=0&type=429",
@@ -11914,13 +11914,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 5,
-      "Дмитриевский Владимир Вениаминович": 2,
-      "Клюкин Александр Николаевич": 33,
-      "Колмаков Валерий Агафонович": 0,
-      "Пащенко Олег Анатольевич": 3,
-      "Сидоров Анатолий Евгеньевич": 0,
-      "Против всех": 10
+      "gas:candidate-vibid:324300266695": 5,
+      "gas:candidate-vibid:1001000136022": 2,
+      "gas:candidate-vibid:1001000225917": 33,
+      "gas:candidate-vibid:324300266862": 0,
+      "gas:candidate-vibid:1001000217903": 3,
+      "gas:candidate-vibid:1001000202290": 0,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067613&region=0&sub_region=0&type=429",
@@ -11970,13 +11970,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 2,
-      "Дмитриевский Владимир Вениаминович": 3,
-      "Клюкин Александр Николаевич": 18,
-      "Колмаков Валерий Агафонович": 2,
-      "Пащенко Олег Анатольевич": 7,
-      "Сидоров Анатолий Евгеньевич": 5,
-      "Против всех": 10
+      "gas:candidate-vibid:324300266695": 2,
+      "gas:candidate-vibid:1001000136022": 3,
+      "gas:candidate-vibid:1001000225917": 18,
+      "gas:candidate-vibid:324300266862": 2,
+      "gas:candidate-vibid:1001000217903": 7,
+      "gas:candidate-vibid:1001000202290": 5,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067613&region=0&sub_region=0&type=429",
@@ -12026,13 +12026,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 16,
-      "Дмитриевский Владимир Вениаминович": 13,
-      "Клюкин Александр Николаевич": 50,
-      "Колмаков Валерий Агафонович": 5,
-      "Пащенко Олег Анатольевич": 5,
-      "Сидоров Анатолий Евгеньевич": 1,
-      "Против всех": 25
+      "gas:candidate-vibid:324300266695": 16,
+      "gas:candidate-vibid:1001000136022": 13,
+      "gas:candidate-vibid:1001000225917": 50,
+      "gas:candidate-vibid:324300266862": 5,
+      "gas:candidate-vibid:1001000217903": 5,
+      "gas:candidate-vibid:1001000202290": 1,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067613&region=0&sub_region=0&type=429",
@@ -12082,13 +12082,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 6,
-      "Дмитриевский Владимир Вениаминович": 4,
-      "Клюкин Александр Николаевич": 12,
-      "Колмаков Валерий Агафонович": 1,
-      "Пащенко Олег Анатольевич": 7,
-      "Сидоров Анатолий Евгеньевич": 1,
-      "Против всех": 38
+      "gas:candidate-vibid:324300266695": 6,
+      "gas:candidate-vibid:1001000136022": 4,
+      "gas:candidate-vibid:1001000225917": 12,
+      "gas:candidate-vibid:324300266862": 1,
+      "gas:candidate-vibid:1001000217903": 7,
+      "gas:candidate-vibid:1001000202290": 1,
+      "special:against-all": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067613&region=0&sub_region=0&type=429",
@@ -12138,13 +12138,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 13,
-      "Дмитриевский Владимир Вениаминович": 2,
-      "Клюкин Александр Николаевич": 27,
-      "Колмаков Валерий Агафонович": 4,
-      "Пащенко Олег Анатольевич": 5,
-      "Сидоров Анатолий Евгеньевич": 3,
-      "Против всех": 10
+      "gas:candidate-vibid:324300266695": 13,
+      "gas:candidate-vibid:1001000136022": 2,
+      "gas:candidate-vibid:1001000225917": 27,
+      "gas:candidate-vibid:324300266862": 4,
+      "gas:candidate-vibid:1001000217903": 5,
+      "gas:candidate-vibid:1001000202290": 3,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067613&region=0&sub_region=0&type=429",
@@ -12194,13 +12194,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 38,
-      "Дмитриевский Владимир Вениаминович": 10,
-      "Клюкин Александр Николаевич": 86,
-      "Колмаков Валерий Агафонович": 3,
-      "Пащенко Олег Анатольевич": 14,
-      "Сидоров Анатолий Евгеньевич": 4,
-      "Против всех": 138
+      "gas:candidate-vibid:324300266695": 38,
+      "gas:candidate-vibid:1001000136022": 10,
+      "gas:candidate-vibid:1001000225917": 86,
+      "gas:candidate-vibid:324300266862": 3,
+      "gas:candidate-vibid:1001000217903": 14,
+      "gas:candidate-vibid:1001000202290": 4,
+      "special:against-all": 138
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067613&region=0&sub_region=0&type=429",
@@ -12250,13 +12250,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 43,
-      "Дмитриевский Владимир Вениаминович": 13,
-      "Клюкин Александр Николаевич": 77,
-      "Колмаков Валерий Агафонович": 4,
-      "Пащенко Олег Анатольевич": 15,
-      "Сидоров Анатолий Евгеньевич": 4,
-      "Против всех": 44
+      "gas:candidate-vibid:324300266695": 43,
+      "gas:candidate-vibid:1001000136022": 13,
+      "gas:candidate-vibid:1001000225917": 77,
+      "gas:candidate-vibid:324300266862": 4,
+      "gas:candidate-vibid:1001000217903": 15,
+      "gas:candidate-vibid:1001000202290": 4,
+      "special:against-all": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067613&region=0&sub_region=0&type=429",
@@ -12306,13 +12306,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 24,
-      "Дмитриевский Владимир Вениаминович": 3,
-      "Клюкин Александр Николаевич": 51,
-      "Колмаков Валерий Агафонович": 4,
-      "Пащенко Олег Анатольевич": 9,
-      "Сидоров Анатолий Евгеньевич": 2,
-      "Против всех": 18
+      "gas:candidate-vibid:324300266695": 24,
+      "gas:candidate-vibid:1001000136022": 3,
+      "gas:candidate-vibid:1001000225917": 51,
+      "gas:candidate-vibid:324300266862": 4,
+      "gas:candidate-vibid:1001000217903": 9,
+      "gas:candidate-vibid:1001000202290": 2,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067613&region=0&sub_region=0&type=429",
@@ -12362,13 +12362,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 29,
-      "Дмитриевский Владимир Вениаминович": 7,
-      "Клюкин Александр Николаевич": 11,
-      "Колмаков Валерий Агафонович": 1,
-      "Пащенко Олег Анатольевич": 1,
-      "Сидоров Анатолий Евгеньевич": 1,
-      "Против всех": 20
+      "gas:candidate-vibid:324300266695": 29,
+      "gas:candidate-vibid:1001000136022": 7,
+      "gas:candidate-vibid:1001000225917": 11,
+      "gas:candidate-vibid:324300266862": 1,
+      "gas:candidate-vibid:1001000217903": 1,
+      "gas:candidate-vibid:1001000202290": 1,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067613&region=0&sub_region=0&type=429",
@@ -12418,13 +12418,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 104,
-      "Дмитриевский Владимир Вениаминович": 27,
-      "Клюкин Александр Николаевич": 175,
-      "Колмаков Валерий Агафонович": 7,
-      "Пащенко Олег Анатольевич": 97,
-      "Сидоров Анатолий Евгеньевич": 4,
-      "Против всех": 128
+      "gas:candidate-vibid:324300266695": 104,
+      "gas:candidate-vibid:1001000136022": 27,
+      "gas:candidate-vibid:1001000225917": 175,
+      "gas:candidate-vibid:324300266862": 7,
+      "gas:candidate-vibid:1001000217903": 97,
+      "gas:candidate-vibid:1001000202290": 4,
+      "special:against-all": 128
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067613&region=0&sub_region=0&type=429",
@@ -12474,13 +12474,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 14,
-      "Дмитриевский Владимир Вениаминович": 6,
-      "Клюкин Александр Николаевич": 29,
-      "Колмаков Валерий Агафонович": 0,
-      "Пащенко Олег Анатольевич": 30,
-      "Сидоров Анатолий Евгеньевич": 0,
-      "Против всех": 20
+      "gas:candidate-vibid:324300266695": 14,
+      "gas:candidate-vibid:1001000136022": 6,
+      "gas:candidate-vibid:1001000225917": 29,
+      "gas:candidate-vibid:324300266862": 0,
+      "gas:candidate-vibid:1001000217903": 30,
+      "gas:candidate-vibid:1001000202290": 0,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067613&region=0&sub_region=0&type=429",
@@ -12530,13 +12530,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 15,
-      "Дмитриевский Владимир Вениаминович": 12,
-      "Клюкин Александр Николаевич": 61,
-      "Колмаков Валерий Агафонович": 4,
-      "Пащенко Олег Анатольевич": 23,
-      "Сидоров Анатолий Евгеньевич": 4,
-      "Против всех": 36
+      "gas:candidate-vibid:324300266695": 15,
+      "gas:candidate-vibid:1001000136022": 12,
+      "gas:candidate-vibid:1001000225917": 61,
+      "gas:candidate-vibid:324300266862": 4,
+      "gas:candidate-vibid:1001000217903": 23,
+      "gas:candidate-vibid:1001000202290": 4,
+      "special:against-all": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067613&region=0&sub_region=0&type=429",
@@ -12586,13 +12586,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 2,
-      "Дмитриевский Владимир Вениаминович": 0,
-      "Клюкин Александр Николаевич": 32,
-      "Колмаков Валерий Агафонович": 2,
-      "Пащенко Олег Анатольевич": 11,
-      "Сидоров Анатолий Евгеньевич": 2,
-      "Против всех": 30
+      "gas:candidate-vibid:324300266695": 2,
+      "gas:candidate-vibid:1001000136022": 0,
+      "gas:candidate-vibid:1001000225917": 32,
+      "gas:candidate-vibid:324300266862": 2,
+      "gas:candidate-vibid:1001000217903": 11,
+      "gas:candidate-vibid:1001000202290": 2,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067613&region=0&sub_region=0&type=429",
@@ -12642,13 +12642,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 32,
-      "Дмитриевский Владимир Вениаминович": 5,
-      "Клюкин Александр Николаевич": 15,
-      "Колмаков Валерий Агафонович": 0,
-      "Пащенко Олег Анатольевич": 7,
-      "Сидоров Анатолий Евгеньевич": 0,
-      "Против всех": 32
+      "gas:candidate-vibid:324300266695": 32,
+      "gas:candidate-vibid:1001000136022": 5,
+      "gas:candidate-vibid:1001000225917": 15,
+      "gas:candidate-vibid:324300266862": 0,
+      "gas:candidate-vibid:1001000217903": 7,
+      "gas:candidate-vibid:1001000202290": 0,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067613&region=0&sub_region=0&type=429",
@@ -12698,13 +12698,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 50,
-      "Дмитриевский Владимир Вениаминович": 28,
-      "Клюкин Александр Николаевич": 216,
-      "Колмаков Валерий Агафонович": 20,
-      "Пащенко Олег Анатольевич": 58,
-      "Сидоров Анатолий Евгеньевич": 6,
-      "Против всех": 84
+      "gas:candidate-vibid:324300266695": 50,
+      "gas:candidate-vibid:1001000136022": 28,
+      "gas:candidate-vibid:1001000225917": 216,
+      "gas:candidate-vibid:324300266862": 20,
+      "gas:candidate-vibid:1001000217903": 58,
+      "gas:candidate-vibid:1001000202290": 6,
+      "special:against-all": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067613&region=0&sub_region=0&type=429",
@@ -12754,13 +12754,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 10,
-      "Дмитриевский Владимир Вениаминович": 5,
-      "Клюкин Александр Николаевич": 29,
-      "Колмаков Валерий Агафонович": 10,
-      "Пащенко Олег Анатольевич": 13,
-      "Сидоров Анатолий Евгеньевич": 0,
-      "Против всех": 11
+      "gas:candidate-vibid:324300266695": 10,
+      "gas:candidate-vibid:1001000136022": 5,
+      "gas:candidate-vibid:1001000225917": 29,
+      "gas:candidate-vibid:324300266862": 10,
+      "gas:candidate-vibid:1001000217903": 13,
+      "gas:candidate-vibid:1001000202290": 0,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067613&region=0&sub_region=0&type=429",
@@ -12810,13 +12810,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 6,
-      "Дмитриевский Владимир Вениаминович": 5,
-      "Клюкин Александр Николаевич": 53,
-      "Колмаков Валерий Агафонович": 0,
-      "Пащенко Олег Анатольевич": 4,
-      "Сидоров Анатолий Евгеньевич": 1,
-      "Против всех": 10
+      "gas:candidate-vibid:324300266695": 6,
+      "gas:candidate-vibid:1001000136022": 5,
+      "gas:candidate-vibid:1001000225917": 53,
+      "gas:candidate-vibid:324300266862": 0,
+      "gas:candidate-vibid:1001000217903": 4,
+      "gas:candidate-vibid:1001000202290": 1,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067613&region=0&sub_region=0&type=429",
@@ -12866,13 +12866,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 8,
-      "Дмитриевский Владимир Вениаминович": 4,
-      "Клюкин Александр Николаевич": 14,
-      "Колмаков Валерий Агафонович": 2,
-      "Пащенко Олег Анатольевич": 5,
-      "Сидоров Анатолий Евгеньевич": 0,
-      "Против всех": 13
+      "gas:candidate-vibid:324300266695": 8,
+      "gas:candidate-vibid:1001000136022": 4,
+      "gas:candidate-vibid:1001000225917": 14,
+      "gas:candidate-vibid:324300266862": 2,
+      "gas:candidate-vibid:1001000217903": 5,
+      "gas:candidate-vibid:1001000202290": 0,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067613&region=0&sub_region=0&type=429",
@@ -12922,13 +12922,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 24,
-      "Дмитриевский Владимир Вениаминович": 0,
-      "Клюкин Александр Николаевич": 57,
-      "Колмаков Валерий Агафонович": 4,
-      "Пащенко Олег Анатольевич": 3,
-      "Сидоров Анатолий Евгеньевич": 3,
-      "Против всех": 19
+      "gas:candidate-vibid:324300266695": 24,
+      "gas:candidate-vibid:1001000136022": 0,
+      "gas:candidate-vibid:1001000225917": 57,
+      "gas:candidate-vibid:324300266862": 4,
+      "gas:candidate-vibid:1001000217903": 3,
+      "gas:candidate-vibid:1001000202290": 3,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067613&region=0&sub_region=0&type=429",
@@ -12978,13 +12978,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 12,
-      "Дмитриевский Владимир Вениаминович": 9,
-      "Клюкин Александр Николаевич": 15,
-      "Колмаков Валерий Агафонович": 0,
-      "Пащенко Олег Анатольевич": 17,
-      "Сидоров Анатолий Евгеньевич": 0,
-      "Против всех": 20
+      "gas:candidate-vibid:324300266695": 12,
+      "gas:candidate-vibid:1001000136022": 9,
+      "gas:candidate-vibid:1001000225917": 15,
+      "gas:candidate-vibid:324300266862": 0,
+      "gas:candidate-vibid:1001000217903": 17,
+      "gas:candidate-vibid:1001000202290": 0,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067613&region=0&sub_region=0&type=429",
@@ -13034,13 +13034,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 8,
-      "Дмитриевский Владимир Вениаминович": 1,
-      "Клюкин Александр Николаевич": 3,
-      "Колмаков Валерий Агафонович": 2,
-      "Пащенко Олег Анатольевич": 5,
-      "Сидоров Анатолий Евгеньевич": 2,
-      "Против всех": 12
+      "gas:candidate-vibid:324300266695": 8,
+      "gas:candidate-vibid:1001000136022": 1,
+      "gas:candidate-vibid:1001000225917": 3,
+      "gas:candidate-vibid:324300266862": 2,
+      "gas:candidate-vibid:1001000217903": 5,
+      "gas:candidate-vibid:1001000202290": 2,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067613&region=0&sub_region=0&type=429",
@@ -13090,13 +13090,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 13,
-      "Дмитриевский Владимир Вениаминович": 5,
-      "Клюкин Александр Николаевич": 52,
-      "Колмаков Валерий Агафонович": 16,
-      "Пащенко Олег Анатольевич": 8,
-      "Сидоров Анатолий Евгеньевич": 3,
-      "Против всех": 12
+      "gas:candidate-vibid:324300266695": 13,
+      "gas:candidate-vibid:1001000136022": 5,
+      "gas:candidate-vibid:1001000225917": 52,
+      "gas:candidate-vibid:324300266862": 16,
+      "gas:candidate-vibid:1001000217903": 8,
+      "gas:candidate-vibid:1001000202290": 3,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067613&region=0&sub_region=0&type=429",
@@ -13146,13 +13146,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 15,
-      "Дмитриевский Владимир Вениаминович": 2,
-      "Клюкин Александр Николаевич": 48,
-      "Колмаков Валерий Агафонович": 3,
-      "Пащенко Олег Анатольевич": 15,
-      "Сидоров Анатолий Евгеньевич": 5,
-      "Против всех": 10
+      "gas:candidate-vibid:324300266695": 15,
+      "gas:candidate-vibid:1001000136022": 2,
+      "gas:candidate-vibid:1001000225917": 48,
+      "gas:candidate-vibid:324300266862": 3,
+      "gas:candidate-vibid:1001000217903": 15,
+      "gas:candidate-vibid:1001000202290": 5,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067613&region=0&sub_region=0&type=429",
@@ -13202,13 +13202,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 115,
-      "Дмитриевский Владимир Вениаминович": 13,
-      "Клюкин Александр Николаевич": 76,
-      "Колмаков Валерий Агафонович": 9,
-      "Пащенко Олег Анатольевич": 50,
-      "Сидоров Анатолий Евгеньевич": 12,
-      "Против всех": 54
+      "gas:candidate-vibid:324300266695": 115,
+      "gas:candidate-vibid:1001000136022": 13,
+      "gas:candidate-vibid:1001000225917": 76,
+      "gas:candidate-vibid:324300266862": 9,
+      "gas:candidate-vibid:1001000217903": 50,
+      "gas:candidate-vibid:1001000202290": 12,
+      "special:against-all": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067613&region=0&sub_region=0&type=429",
@@ -13258,13 +13258,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 13,
-      "Дмитриевский Владимир Вениаминович": 10,
-      "Клюкин Александр Николаевич": 21,
-      "Колмаков Валерий Агафонович": 4,
-      "Пащенко Олег Анатольевич": 8,
-      "Сидоров Анатолий Евгеньевич": 1,
-      "Против всех": 9
+      "gas:candidate-vibid:324300266695": 13,
+      "gas:candidate-vibid:1001000136022": 10,
+      "gas:candidate-vibid:1001000225917": 21,
+      "gas:candidate-vibid:324300266862": 4,
+      "gas:candidate-vibid:1001000217903": 8,
+      "gas:candidate-vibid:1001000202290": 1,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067613&region=0&sub_region=0&type=429",
@@ -13314,13 +13314,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 10,
-      "Дмитриевский Владимир Вениаминович": 6,
-      "Клюкин Александр Николаевич": 39,
-      "Колмаков Валерий Агафонович": 0,
-      "Пащенко Олег Анатольевич": 7,
-      "Сидоров Анатолий Евгеньевич": 1,
-      "Против всех": 8
+      "gas:candidate-vibid:324300266695": 10,
+      "gas:candidate-vibid:1001000136022": 6,
+      "gas:candidate-vibid:1001000225917": 39,
+      "gas:candidate-vibid:324300266862": 0,
+      "gas:candidate-vibid:1001000217903": 7,
+      "gas:candidate-vibid:1001000202290": 1,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067613&region=0&sub_region=0&type=429",
@@ -13370,13 +13370,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 15,
-      "Дмитриевский Владимир Вениаминович": 4,
-      "Клюкин Александр Николаевич": 34,
-      "Колмаков Валерий Агафонович": 0,
-      "Пащенко Олег Анатольевич": 12,
-      "Сидоров Анатолий Евгеньевич": 3,
-      "Против всех": 10
+      "gas:candidate-vibid:324300266695": 15,
+      "gas:candidate-vibid:1001000136022": 4,
+      "gas:candidate-vibid:1001000225917": 34,
+      "gas:candidate-vibid:324300266862": 0,
+      "gas:candidate-vibid:1001000217903": 12,
+      "gas:candidate-vibid:1001000202290": 3,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067613&region=0&sub_region=0&type=429",
@@ -13426,13 +13426,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 11,
-      "Дмитриевский Владимир Вениаминович": 7,
-      "Клюкин Александр Николаевич": 55,
-      "Колмаков Валерий Агафонович": 0,
-      "Пащенко Олег Анатольевич": 5,
-      "Сидоров Анатолий Евгеньевич": 0,
-      "Против всех": 15
+      "gas:candidate-vibid:324300266695": 11,
+      "gas:candidate-vibid:1001000136022": 7,
+      "gas:candidate-vibid:1001000225917": 55,
+      "gas:candidate-vibid:324300266862": 0,
+      "gas:candidate-vibid:1001000217903": 5,
+      "gas:candidate-vibid:1001000202290": 0,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067613&region=0&sub_region=0&type=429",
@@ -13482,13 +13482,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 54,
-      "Дмитриевский Владимир Вениаминович": 35,
-      "Клюкин Александр Николаевич": 97,
-      "Колмаков Валерий Агафонович": 1,
-      "Пащенко Олег Анатольевич": 28,
-      "Сидоров Анатолий Евгеньевич": 4,
-      "Против всех": 64
+      "gas:candidate-vibid:324300266695": 54,
+      "gas:candidate-vibid:1001000136022": 35,
+      "gas:candidate-vibid:1001000225917": 97,
+      "gas:candidate-vibid:324300266862": 1,
+      "gas:candidate-vibid:1001000217903": 28,
+      "gas:candidate-vibid:1001000202290": 4,
+      "special:against-all": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067613&region=0&sub_region=0&type=429",
@@ -13538,13 +13538,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 2,
-      "Дмитриевский Владимир Вениаминович": 2,
-      "Клюкин Александр Николаевич": 26,
-      "Колмаков Валерий Агафонович": 2,
-      "Пащенко Олег Анатольевич": 1,
-      "Сидоров Анатолий Евгеньевич": 1,
-      "Против всех": 2
+      "gas:candidate-vibid:324300266695": 2,
+      "gas:candidate-vibid:1001000136022": 2,
+      "gas:candidate-vibid:1001000225917": 26,
+      "gas:candidate-vibid:324300266862": 2,
+      "gas:candidate-vibid:1001000217903": 1,
+      "gas:candidate-vibid:1001000202290": 1,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067613&region=0&sub_region=0&type=429",
@@ -13594,13 +13594,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 9,
-      "Дмитриевский Владимир Вениаминович": 4,
-      "Клюкин Александр Николаевич": 16,
-      "Колмаков Валерий Агафонович": 6,
-      "Пащенко Олег Анатольевич": 15,
-      "Сидоров Анатолий Евгеньевич": 0,
-      "Против всех": 20
+      "gas:candidate-vibid:324300266695": 9,
+      "gas:candidate-vibid:1001000136022": 4,
+      "gas:candidate-vibid:1001000225917": 16,
+      "gas:candidate-vibid:324300266862": 6,
+      "gas:candidate-vibid:1001000217903": 15,
+      "gas:candidate-vibid:1001000202290": 0,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067613&region=0&sub_region=0&type=429",
@@ -13650,13 +13650,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 2,
-      "Дмитриевский Владимир Вениаминович": 2,
-      "Клюкин Александр Николаевич": 42,
-      "Колмаков Валерий Агафонович": 3,
-      "Пащенко Олег Анатольевич": 26,
-      "Сидоров Анатолий Евгеньевич": 1,
-      "Против всех": 15
+      "gas:candidate-vibid:324300266695": 2,
+      "gas:candidate-vibid:1001000136022": 2,
+      "gas:candidate-vibid:1001000225917": 42,
+      "gas:candidate-vibid:324300266862": 3,
+      "gas:candidate-vibid:1001000217903": 26,
+      "gas:candidate-vibid:1001000202290": 1,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067613&region=0&sub_region=0&type=429",
@@ -13706,13 +13706,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 231,
-      "Дмитриевский Владимир Вениаминович": 30,
-      "Клюкин Александр Николаевич": 179,
-      "Колмаков Валерий Агафонович": 6,
-      "Пащенко Олег Анатольевич": 42,
-      "Сидоров Анатолий Евгеньевич": 13,
-      "Против всех": 256
+      "gas:candidate-vibid:324300266695": 231,
+      "gas:candidate-vibid:1001000136022": 30,
+      "gas:candidate-vibid:1001000225917": 179,
+      "gas:candidate-vibid:324300266862": 6,
+      "gas:candidate-vibid:1001000217903": 42,
+      "gas:candidate-vibid:1001000202290": 13,
+      "special:against-all": 256
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067613&region=0&sub_region=0&type=429",
@@ -13762,13 +13762,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 59,
-      "Дмитриевский Владимир Вениаминович": 10,
-      "Клюкин Александр Николаевич": 35,
-      "Колмаков Валерий Агафонович": 4,
-      "Пащенко Олег Анатольевич": 11,
-      "Сидоров Анатолий Евгеньевич": 1,
-      "Против всех": 49
+      "gas:candidate-vibid:324300266695": 59,
+      "gas:candidate-vibid:1001000136022": 10,
+      "gas:candidate-vibid:1001000225917": 35,
+      "gas:candidate-vibid:324300266862": 4,
+      "gas:candidate-vibid:1001000217903": 11,
+      "gas:candidate-vibid:1001000202290": 1,
+      "special:against-all": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067613&region=0&sub_region=0&type=429",
@@ -13818,13 +13818,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 49,
-      "Дмитриевский Владимир Вениаминович": 9,
-      "Клюкин Александр Николаевич": 26,
-      "Колмаков Валерий Агафонович": 2,
-      "Пащенко Олег Анатольевич": 6,
-      "Сидоров Анатолий Евгеньевич": 0,
-      "Против всех": 25
+      "gas:candidate-vibid:324300266695": 49,
+      "gas:candidate-vibid:1001000136022": 9,
+      "gas:candidate-vibid:1001000225917": 26,
+      "gas:candidate-vibid:324300266862": 2,
+      "gas:candidate-vibid:1001000217903": 6,
+      "gas:candidate-vibid:1001000202290": 0,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067613&region=0&sub_region=0&type=429",
@@ -13874,13 +13874,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 103,
-      "Дмитриевский Владимир Вениаминович": 13,
-      "Клюкин Александр Николаевич": 89,
-      "Колмаков Валерий Агафонович": 6,
-      "Пащенко Олег Анатольевич": 31,
-      "Сидоров Анатолий Евгеньевич": 6,
-      "Против всех": 64
+      "gas:candidate-vibid:324300266695": 103,
+      "gas:candidate-vibid:1001000136022": 13,
+      "gas:candidate-vibid:1001000225917": 89,
+      "gas:candidate-vibid:324300266862": 6,
+      "gas:candidate-vibid:1001000217903": 31,
+      "gas:candidate-vibid:1001000202290": 6,
+      "special:against-all": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067613&region=0&sub_region=0&type=429",
@@ -13930,13 +13930,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 10,
-      "Дмитриевский Владимир Вениаминович": 5,
-      "Клюкин Александр Николаевич": 26,
-      "Колмаков Валерий Агафонович": 1,
-      "Пащенко Олег Анатольевич": 6,
-      "Сидоров Анатолий Евгеньевич": 3,
-      "Против всех": 18
+      "gas:candidate-vibid:324300266695": 10,
+      "gas:candidate-vibid:1001000136022": 5,
+      "gas:candidate-vibid:1001000225917": 26,
+      "gas:candidate-vibid:324300266862": 1,
+      "gas:candidate-vibid:1001000217903": 6,
+      "gas:candidate-vibid:1001000202290": 3,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067613&region=0&sub_region=0&type=429",
@@ -13986,13 +13986,13 @@ export const duma_2003_uik_428_region_24_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Васильев Евгений Яковлевич": 10,
-      "Дмитриевский Владимир Вениаминович": 6,
-      "Клюкин Александр Николаевич": 12,
-      "Колмаков Валерий Агафонович": 2,
-      "Пащенко Олег Анатольевич": 11,
-      "Сидоров Анатолий Евгеньевич": 3,
-      "Против всех": 13
+      "gas:candidate-vibid:324300266695": 10,
+      "gas:candidate-vibid:1001000136022": 6,
+      "gas:candidate-vibid:1001000225917": 12,
+      "gas:candidate-vibid:324300266862": 2,
+      "gas:candidate-vibid:1001000217903": 11,
+      "gas:candidate-vibid:1001000202290": 3,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067613&region=0&sub_region=0&type=429",

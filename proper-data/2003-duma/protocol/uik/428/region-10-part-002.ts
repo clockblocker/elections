@@ -42,15 +42,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 37,
-      "Лиминчук Владимир Илларионович": 9,
-      "Мяки Артур Элденович": 118,
-      "Петеляева Ирина Владимировна": 279,
-      "Пивненко Валентина Николаевна": 395,
-      "Потиевский Виктор Александрович": 14,
-      "Тюков Борис Иванович": 68,
-      "Шилик Владимир Ильич": 10,
-      "Против всех": 138
+      "gas:candidate-vibid:210200072671": 37,
+      "gas:candidate-vibid:1001000190281": 9,
+      "gas:candidate-vibid:1001000113896": 118,
+      "gas:candidate-vibid:1001000112179": 279,
+      "gas:candidate-vibid:1001000225878": 395,
+      "gas:candidate-vibid:1001000195025": 14,
+      "gas:candidate-vibid:1001000121792": 68,
+      "gas:candidate-vibid:1001000201797": 10,
+      "special:against-all": 138
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073029&region=0&sub_region=0&type=429",
@@ -100,15 +100,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 54,
-      "Лиминчук Владимир Илларионович": 6,
-      "Мяки Артур Элденович": 99,
-      "Петеляева Ирина Владимировна": 197,
-      "Пивненко Валентина Николаевна": 391,
-      "Потиевский Виктор Александрович": 7,
-      "Тюков Борис Иванович": 69,
-      "Шилик Владимир Ильич": 12,
-      "Против всех": 100
+      "gas:candidate-vibid:210200072671": 54,
+      "gas:candidate-vibid:1001000190281": 6,
+      "gas:candidate-vibid:1001000113896": 99,
+      "gas:candidate-vibid:1001000112179": 197,
+      "gas:candidate-vibid:1001000225878": 391,
+      "gas:candidate-vibid:1001000195025": 7,
+      "gas:candidate-vibid:1001000121792": 69,
+      "gas:candidate-vibid:1001000201797": 12,
+      "special:against-all": 100
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073029&region=0&sub_region=0&type=429",
@@ -158,15 +158,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 48,
-      "Лиминчук Владимир Илларионович": 6,
-      "Мяки Артур Элденович": 116,
-      "Петеляева Ирина Владимировна": 254,
-      "Пивненко Валентина Николаевна": 336,
-      "Потиевский Виктор Александрович": 5,
-      "Тюков Борис Иванович": 72,
-      "Шилик Владимир Ильич": 7,
-      "Против всех": 165
+      "gas:candidate-vibid:210200072671": 48,
+      "gas:candidate-vibid:1001000190281": 6,
+      "gas:candidate-vibid:1001000113896": 116,
+      "gas:candidate-vibid:1001000112179": 254,
+      "gas:candidate-vibid:1001000225878": 336,
+      "gas:candidate-vibid:1001000195025": 5,
+      "gas:candidate-vibid:1001000121792": 72,
+      "gas:candidate-vibid:1001000201797": 7,
+      "special:against-all": 165
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073029&region=0&sub_region=0&type=429",
@@ -216,15 +216,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 38,
-      "Лиминчук Владимир Илларионович": 4,
-      "Мяки Артур Элденович": 137,
-      "Петеляева Ирина Владимировна": 308,
-      "Пивненко Валентина Николаевна": 336,
-      "Потиевский Виктор Александрович": 6,
-      "Тюков Борис Иванович": 63,
-      "Шилик Владимир Ильич": 8,
-      "Против всех": 144
+      "gas:candidate-vibid:210200072671": 38,
+      "gas:candidate-vibid:1001000190281": 4,
+      "gas:candidate-vibid:1001000113896": 137,
+      "gas:candidate-vibid:1001000112179": 308,
+      "gas:candidate-vibid:1001000225878": 336,
+      "gas:candidate-vibid:1001000195025": 6,
+      "gas:candidate-vibid:1001000121792": 63,
+      "gas:candidate-vibid:1001000201797": 8,
+      "special:against-all": 144
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073029&region=0&sub_region=0&type=429",
@@ -274,15 +274,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 51,
-      "Лиминчук Владимир Илларионович": 8,
-      "Мяки Артур Элденович": 136,
-      "Петеляева Ирина Владимировна": 318,
-      "Пивненко Валентина Николаевна": 351,
-      "Потиевский Виктор Александрович": 11,
-      "Тюков Борис Иванович": 60,
-      "Шилик Владимир Ильич": 14,
-      "Против всех": 199
+      "gas:candidate-vibid:210200072671": 51,
+      "gas:candidate-vibid:1001000190281": 8,
+      "gas:candidate-vibid:1001000113896": 136,
+      "gas:candidate-vibid:1001000112179": 318,
+      "gas:candidate-vibid:1001000225878": 351,
+      "gas:candidate-vibid:1001000195025": 11,
+      "gas:candidate-vibid:1001000121792": 60,
+      "gas:candidate-vibid:1001000201797": 14,
+      "special:against-all": 199
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073029&region=0&sub_region=0&type=429",
@@ -332,15 +332,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 64,
-      "Лиминчук Владимир Илларионович": 7,
-      "Мяки Артур Элденович": 107,
-      "Петеляева Ирина Владимировна": 244,
-      "Пивненко Валентина Николаевна": 393,
-      "Потиевский Виктор Александрович": 12,
-      "Тюков Борис Иванович": 56,
-      "Шилик Владимир Ильич": 7,
-      "Против всех": 145
+      "gas:candidate-vibid:210200072671": 64,
+      "gas:candidate-vibid:1001000190281": 7,
+      "gas:candidate-vibid:1001000113896": 107,
+      "gas:candidate-vibid:1001000112179": 244,
+      "gas:candidate-vibid:1001000225878": 393,
+      "gas:candidate-vibid:1001000195025": 12,
+      "gas:candidate-vibid:1001000121792": 56,
+      "gas:candidate-vibid:1001000201797": 7,
+      "special:against-all": 145
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073029&region=0&sub_region=0&type=429",
@@ -390,15 +390,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 61,
-      "Лиминчук Владимир Илларионович": 10,
-      "Мяки Артур Элденович": 120,
-      "Петеляева Ирина Владимировна": 263,
-      "Пивненко Валентина Николаевна": 354,
-      "Потиевский Виктор Александрович": 14,
-      "Тюков Борис Иванович": 82,
-      "Шилик Владимир Ильич": 10,
-      "Против всех": 151
+      "gas:candidate-vibid:210200072671": 61,
+      "gas:candidate-vibid:1001000190281": 10,
+      "gas:candidate-vibid:1001000113896": 120,
+      "gas:candidate-vibid:1001000112179": 263,
+      "gas:candidate-vibid:1001000225878": 354,
+      "gas:candidate-vibid:1001000195025": 14,
+      "gas:candidate-vibid:1001000121792": 82,
+      "gas:candidate-vibid:1001000201797": 10,
+      "special:against-all": 151
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073029&region=0&sub_region=0&type=429",
@@ -448,15 +448,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 51,
-      "Лиминчук Владимир Илларионович": 4,
-      "Мяки Артур Элденович": 113,
-      "Петеляева Ирина Владимировна": 290,
-      "Пивненко Валентина Николаевна": 385,
-      "Потиевский Виктор Александрович": 10,
-      "Тюков Борис Иванович": 62,
-      "Шилик Владимир Ильич": 9,
-      "Против всех": 149
+      "gas:candidate-vibid:210200072671": 51,
+      "gas:candidate-vibid:1001000190281": 4,
+      "gas:candidate-vibid:1001000113896": 113,
+      "gas:candidate-vibid:1001000112179": 290,
+      "gas:candidate-vibid:1001000225878": 385,
+      "gas:candidate-vibid:1001000195025": 10,
+      "gas:candidate-vibid:1001000121792": 62,
+      "gas:candidate-vibid:1001000201797": 9,
+      "special:against-all": 149
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073029&region=0&sub_region=0&type=429",
@@ -506,15 +506,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 37,
-      "Лиминчук Владимир Илларионович": 5,
-      "Мяки Артур Элденович": 109,
-      "Петеляева Ирина Владимировна": 259,
-      "Пивненко Валентина Николаевна": 301,
-      "Потиевский Виктор Александрович": 5,
-      "Тюков Борис Иванович": 44,
-      "Шилик Владимир Ильич": 10,
-      "Против всех": 127
+      "gas:candidate-vibid:210200072671": 37,
+      "gas:candidate-vibid:1001000190281": 5,
+      "gas:candidate-vibid:1001000113896": 109,
+      "gas:candidate-vibid:1001000112179": 259,
+      "gas:candidate-vibid:1001000225878": 301,
+      "gas:candidate-vibid:1001000195025": 5,
+      "gas:candidate-vibid:1001000121792": 44,
+      "gas:candidate-vibid:1001000201797": 10,
+      "special:against-all": 127
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073029&region=0&sub_region=0&type=429",
@@ -564,15 +564,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 61,
-      "Лиминчук Владимир Илларионович": 6,
-      "Мяки Артур Элденович": 116,
-      "Петеляева Ирина Владимировна": 251,
-      "Пивненко Валентина Николаевна": 336,
-      "Потиевский Виктор Александрович": 13,
-      "Тюков Борис Иванович": 58,
-      "Шилик Владимир Ильич": 6,
-      "Против всех": 101
+      "gas:candidate-vibid:210200072671": 61,
+      "gas:candidate-vibid:1001000190281": 6,
+      "gas:candidate-vibid:1001000113896": 116,
+      "gas:candidate-vibid:1001000112179": 251,
+      "gas:candidate-vibid:1001000225878": 336,
+      "gas:candidate-vibid:1001000195025": 13,
+      "gas:candidate-vibid:1001000121792": 58,
+      "gas:candidate-vibid:1001000201797": 6,
+      "special:against-all": 101
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073029&region=0&sub_region=0&type=429",
@@ -622,15 +622,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 54,
-      "Лиминчук Владимир Илларионович": 8,
-      "Мяки Артур Элденович": 114,
-      "Петеляева Ирина Владимировна": 268,
-      "Пивненко Валентина Николаевна": 388,
-      "Потиевский Виктор Александрович": 15,
-      "Тюков Борис Иванович": 47,
-      "Шилик Владимир Ильич": 10,
-      "Против всех": 164
+      "gas:candidate-vibid:210200072671": 54,
+      "gas:candidate-vibid:1001000190281": 8,
+      "gas:candidate-vibid:1001000113896": 114,
+      "gas:candidate-vibid:1001000112179": 268,
+      "gas:candidate-vibid:1001000225878": 388,
+      "gas:candidate-vibid:1001000195025": 15,
+      "gas:candidate-vibid:1001000121792": 47,
+      "gas:candidate-vibid:1001000201797": 10,
+      "special:against-all": 164
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073029&region=0&sub_region=0&type=429",
@@ -680,15 +680,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 39,
-      "Лиминчук Владимир Илларионович": 6,
-      "Мяки Артур Элденович": 145,
-      "Петеляева Ирина Владимировна": 248,
-      "Пивненко Валентина Николаевна": 353,
-      "Потиевский Виктор Александрович": 7,
-      "Тюков Борис Иванович": 63,
-      "Шилик Владимир Ильич": 6,
-      "Против всех": 124
+      "gas:candidate-vibid:210200072671": 39,
+      "gas:candidate-vibid:1001000190281": 6,
+      "gas:candidate-vibid:1001000113896": 145,
+      "gas:candidate-vibid:1001000112179": 248,
+      "gas:candidate-vibid:1001000225878": 353,
+      "gas:candidate-vibid:1001000195025": 7,
+      "gas:candidate-vibid:1001000121792": 63,
+      "gas:candidate-vibid:1001000201797": 6,
+      "special:against-all": 124
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073029&region=0&sub_region=0&type=429",
@@ -738,15 +738,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 45,
-      "Лиминчук Владимир Илларионович": 10,
-      "Мяки Артур Элденович": 99,
-      "Петеляева Ирина Владимировна": 229,
-      "Пивненко Валентина Николаевна": 347,
-      "Потиевский Виктор Александрович": 7,
-      "Тюков Борис Иванович": 60,
-      "Шилик Владимир Ильич": 11,
-      "Против всех": 110
+      "gas:candidate-vibid:210200072671": 45,
+      "gas:candidate-vibid:1001000190281": 10,
+      "gas:candidate-vibid:1001000113896": 99,
+      "gas:candidate-vibid:1001000112179": 229,
+      "gas:candidate-vibid:1001000225878": 347,
+      "gas:candidate-vibid:1001000195025": 7,
+      "gas:candidate-vibid:1001000121792": 60,
+      "gas:candidate-vibid:1001000201797": 11,
+      "special:against-all": 110
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073029&region=0&sub_region=0&type=429",
@@ -796,15 +796,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 62,
-      "Лиминчук Владимир Илларионович": 8,
-      "Мяки Артур Элденович": 153,
-      "Петеляева Ирина Владимировна": 347,
-      "Пивненко Валентина Николаевна": 357,
-      "Потиевский Виктор Александрович": 5,
-      "Тюков Борис Иванович": 65,
-      "Шилик Владимир Ильич": 8,
-      "Против всех": 147
+      "gas:candidate-vibid:210200072671": 62,
+      "gas:candidate-vibid:1001000190281": 8,
+      "gas:candidate-vibid:1001000113896": 153,
+      "gas:candidate-vibid:1001000112179": 347,
+      "gas:candidate-vibid:1001000225878": 357,
+      "gas:candidate-vibid:1001000195025": 5,
+      "gas:candidate-vibid:1001000121792": 65,
+      "gas:candidate-vibid:1001000201797": 8,
+      "special:against-all": 147
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073029&region=0&sub_region=0&type=429",
@@ -854,15 +854,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 30,
-      "Лиминчук Владимир Илларионович": 21,
-      "Мяки Артур Элденович": 145,
-      "Петеляева Ирина Владимировна": 166,
-      "Пивненко Валентина Николаевна": 931,
-      "Потиевский Виктор Александрович": 12,
-      "Тюков Борис Иванович": 104,
-      "Шилик Владимир Ильич": 4,
-      "Против всех": 134
+      "gas:candidate-vibid:210200072671": 30,
+      "gas:candidate-vibid:1001000190281": 21,
+      "gas:candidate-vibid:1001000113896": 145,
+      "gas:candidate-vibid:1001000112179": 166,
+      "gas:candidate-vibid:1001000225878": 931,
+      "gas:candidate-vibid:1001000195025": 12,
+      "gas:candidate-vibid:1001000121792": 104,
+      "gas:candidate-vibid:1001000201797": 4,
+      "special:against-all": 134
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073030&region=0&sub_region=0&type=429",
@@ -912,15 +912,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 11,
-      "Лиминчук Владимир Илларионович": 1,
-      "Мяки Артур Элденович": 15,
-      "Петеляева Ирина Владимировна": 33,
-      "Пивненко Валентина Николаевна": 532,
-      "Потиевский Виктор Александрович": 3,
-      "Тюков Борис Иванович": 23,
-      "Шилик Владимир Ильич": 3,
-      "Против всех": 36
+      "gas:candidate-vibid:210200072671": 11,
+      "gas:candidate-vibid:1001000190281": 1,
+      "gas:candidate-vibid:1001000113896": 15,
+      "gas:candidate-vibid:1001000112179": 33,
+      "gas:candidate-vibid:1001000225878": 532,
+      "gas:candidate-vibid:1001000195025": 3,
+      "gas:candidate-vibid:1001000121792": 23,
+      "gas:candidate-vibid:1001000201797": 3,
+      "special:against-all": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073030&region=0&sub_region=0&type=429",
@@ -970,15 +970,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 8,
-      "Лиминчук Владимир Илларионович": 1,
-      "Мяки Артур Элденович": 27,
-      "Петеляева Ирина Владимировна": 18,
-      "Пивненко Валентина Николаевна": 298,
-      "Потиевский Виктор Александрович": 7,
-      "Тюков Борис Иванович": 28,
-      "Шилик Владимир Ильич": 4,
-      "Против всех": 21
+      "gas:candidate-vibid:210200072671": 8,
+      "gas:candidate-vibid:1001000190281": 1,
+      "gas:candidate-vibid:1001000113896": 27,
+      "gas:candidate-vibid:1001000112179": 18,
+      "gas:candidate-vibid:1001000225878": 298,
+      "gas:candidate-vibid:1001000195025": 7,
+      "gas:candidate-vibid:1001000121792": 28,
+      "gas:candidate-vibid:1001000201797": 4,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073030&region=0&sub_region=0&type=429",
@@ -1028,15 +1028,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 10,
-      "Лиминчук Владимир Илларионович": 6,
-      "Мяки Артур Элденович": 57,
-      "Петеляева Ирина Владимировна": 13,
-      "Пивненко Валентина Николаевна": 220,
-      "Потиевский Виктор Александрович": 5,
-      "Тюков Борис Иванович": 95,
-      "Шилик Владимир Ильич": 8,
-      "Против всех": 25
+      "gas:candidate-vibid:210200072671": 10,
+      "gas:candidate-vibid:1001000190281": 6,
+      "gas:candidate-vibid:1001000113896": 57,
+      "gas:candidate-vibid:1001000112179": 13,
+      "gas:candidate-vibid:1001000225878": 220,
+      "gas:candidate-vibid:1001000195025": 5,
+      "gas:candidate-vibid:1001000121792": 95,
+      "gas:candidate-vibid:1001000201797": 8,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073030&region=0&sub_region=0&type=429",
@@ -1086,15 +1086,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 2,
-      "Лиминчук Владимир Илларионович": 3,
-      "Мяки Артур Элденович": 10,
-      "Петеляева Ирина Владимировна": 8,
-      "Пивненко Валентина Николаевна": 164,
-      "Потиевский Виктор Александрович": 1,
-      "Тюков Борис Иванович": 5,
-      "Шилик Владимир Ильич": 1,
-      "Против всех": 16
+      "gas:candidate-vibid:210200072671": 2,
+      "gas:candidate-vibid:1001000190281": 3,
+      "gas:candidate-vibid:1001000113896": 10,
+      "gas:candidate-vibid:1001000112179": 8,
+      "gas:candidate-vibid:1001000225878": 164,
+      "gas:candidate-vibid:1001000195025": 1,
+      "gas:candidate-vibid:1001000121792": 5,
+      "gas:candidate-vibid:1001000201797": 1,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073030&region=0&sub_region=0&type=429",
@@ -1144,15 +1144,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 2,
-      "Лиминчук Владимир Илларионович": 5,
-      "Мяки Артур Элденович": 38,
-      "Петеляева Ирина Владимировна": 7,
-      "Пивненко Валентина Николаевна": 134,
-      "Потиевский Виктор Александрович": 4,
-      "Тюков Борис Иванович": 9,
-      "Шилик Владимир Ильич": 2,
-      "Против всех": 7
+      "gas:candidate-vibid:210200072671": 2,
+      "gas:candidate-vibid:1001000190281": 5,
+      "gas:candidate-vibid:1001000113896": 38,
+      "gas:candidate-vibid:1001000112179": 7,
+      "gas:candidate-vibid:1001000225878": 134,
+      "gas:candidate-vibid:1001000195025": 4,
+      "gas:candidate-vibid:1001000121792": 9,
+      "gas:candidate-vibid:1001000201797": 2,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073030&region=0&sub_region=0&type=429",
@@ -1202,15 +1202,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 2,
-      "Лиминчук Владимир Илларионович": 1,
-      "Мяки Артур Элденович": 20,
-      "Петеляева Ирина Владимировна": 8,
-      "Пивненко Валентина Николаевна": 98,
-      "Потиевский Виктор Александрович": 0,
-      "Тюков Борис Иванович": 16,
-      "Шилик Владимир Ильич": 1,
-      "Против всех": 4
+      "gas:candidate-vibid:210200072671": 2,
+      "gas:candidate-vibid:1001000190281": 1,
+      "gas:candidate-vibid:1001000113896": 20,
+      "gas:candidate-vibid:1001000112179": 8,
+      "gas:candidate-vibid:1001000225878": 98,
+      "gas:candidate-vibid:1001000195025": 0,
+      "gas:candidate-vibid:1001000121792": 16,
+      "gas:candidate-vibid:1001000201797": 1,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073030&region=0&sub_region=0&type=429",
@@ -1260,15 +1260,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 1,
-      "Лиминчук Владимир Илларионович": 5,
-      "Мяки Артур Элденович": 34,
-      "Петеляева Ирина Владимировна": 3,
-      "Пивненко Валентина Николаевна": 121,
-      "Потиевский Виктор Александрович": 1,
-      "Тюков Борис Иванович": 2,
-      "Шилик Владимир Ильич": 5,
-      "Против всех": 13
+      "gas:candidate-vibid:210200072671": 1,
+      "gas:candidate-vibid:1001000190281": 5,
+      "gas:candidate-vibid:1001000113896": 34,
+      "gas:candidate-vibid:1001000112179": 3,
+      "gas:candidate-vibid:1001000225878": 121,
+      "gas:candidate-vibid:1001000195025": 1,
+      "gas:candidate-vibid:1001000121792": 2,
+      "gas:candidate-vibid:1001000201797": 5,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073030&region=0&sub_region=0&type=429",
@@ -1318,15 +1318,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 33,
-      "Лиминчук Владимир Илларионович": 10,
-      "Мяки Артур Элденович": 112,
-      "Петеляева Ирина Владимировна": 54,
-      "Пивненко Валентина Николаевна": 448,
-      "Потиевский Виктор Александрович": 14,
-      "Тюков Борис Иванович": 32,
-      "Шилик Владимир Ильич": 10,
-      "Против всех": 137
+      "gas:candidate-vibid:210200072671": 33,
+      "gas:candidate-vibid:1001000190281": 10,
+      "gas:candidate-vibid:1001000113896": 112,
+      "gas:candidate-vibid:1001000112179": 54,
+      "gas:candidate-vibid:1001000225878": 448,
+      "gas:candidate-vibid:1001000195025": 14,
+      "gas:candidate-vibid:1001000121792": 32,
+      "gas:candidate-vibid:1001000201797": 10,
+      "special:against-all": 137
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073030&region=0&sub_region=0&type=429",
@@ -1376,15 +1376,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 0,
-      "Лиминчук Владимир Илларионович": 1,
-      "Мяки Артур Элденович": 1,
-      "Петеляева Ирина Владимировна": 5,
-      "Пивненко Валентина Николаевна": 86,
-      "Потиевский Виктор Александрович": 1,
-      "Тюков Борис Иванович": 3,
-      "Шилик Владимир Ильич": 1,
-      "Против всех": 4
+      "gas:candidate-vibid:210200072671": 0,
+      "gas:candidate-vibid:1001000190281": 1,
+      "gas:candidate-vibid:1001000113896": 1,
+      "gas:candidate-vibid:1001000112179": 5,
+      "gas:candidate-vibid:1001000225878": 86,
+      "gas:candidate-vibid:1001000195025": 1,
+      "gas:candidate-vibid:1001000121792": 3,
+      "gas:candidate-vibid:1001000201797": 1,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073030&region=0&sub_region=0&type=429",
@@ -1434,15 +1434,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 9,
-      "Лиминчук Владимир Илларионович": 4,
-      "Мяки Артур Элденович": 69,
-      "Петеляева Ирина Владимировна": 33,
-      "Пивненко Валентина Николаевна": 362,
-      "Потиевский Виктор Александрович": 4,
-      "Тюков Борис Иванович": 28,
-      "Шилик Владимир Ильич": 3,
-      "Против всех": 18
+      "gas:candidate-vibid:210200072671": 9,
+      "gas:candidate-vibid:1001000190281": 4,
+      "gas:candidate-vibid:1001000113896": 69,
+      "gas:candidate-vibid:1001000112179": 33,
+      "gas:candidate-vibid:1001000225878": 362,
+      "gas:candidate-vibid:1001000195025": 4,
+      "gas:candidate-vibid:1001000121792": 28,
+      "gas:candidate-vibid:1001000201797": 3,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073030&region=0&sub_region=0&type=429",
@@ -1492,15 +1492,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 3,
-      "Лиминчук Владимир Илларионович": 1,
-      "Мяки Артур Элденович": 11,
-      "Петеляева Ирина Владимировна": 11,
-      "Пивненко Валентина Николаевна": 186,
-      "Потиевский Виктор Александрович": 2,
-      "Тюков Борис Иванович": 18,
-      "Шилик Владимир Ильич": 0,
-      "Против всех": 14
+      "gas:candidate-vibid:210200072671": 3,
+      "gas:candidate-vibid:1001000190281": 1,
+      "gas:candidate-vibid:1001000113896": 11,
+      "gas:candidate-vibid:1001000112179": 11,
+      "gas:candidate-vibid:1001000225878": 186,
+      "gas:candidate-vibid:1001000195025": 2,
+      "gas:candidate-vibid:1001000121792": 18,
+      "gas:candidate-vibid:1001000201797": 0,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073030&region=0&sub_region=0&type=429",
@@ -1550,15 +1550,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 23,
-      "Лиминчук Владимир Илларионович": 10,
-      "Мяки Артур Элденович": 104,
-      "Петеляева Ирина Владимировна": 163,
-      "Пивненко Валентина Николаевна": 583,
-      "Потиевский Виктор Александрович": 12,
-      "Тюков Борис Иванович": 76,
-      "Шилик Владимир Ильич": 4,
-      "Против всех": 82
+      "gas:candidate-vibid:210200072671": 23,
+      "gas:candidate-vibid:1001000190281": 10,
+      "gas:candidate-vibid:1001000113896": 104,
+      "gas:candidate-vibid:1001000112179": 163,
+      "gas:candidate-vibid:1001000225878": 583,
+      "gas:candidate-vibid:1001000195025": 12,
+      "gas:candidate-vibid:1001000121792": 76,
+      "gas:candidate-vibid:1001000201797": 4,
+      "special:against-all": 82
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073030&region=0&sub_region=0&type=429",
@@ -1608,15 +1608,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 5,
-      "Лиминчук Владимир Илларионович": 1,
-      "Мяки Артур Элденович": 31,
-      "Петеляева Ирина Владимировна": 23,
-      "Пивненко Валентина Николаевна": 307,
-      "Потиевский Виктор Александрович": 6,
-      "Тюков Борис Иванович": 7,
-      "Шилик Владимир Ильич": 6,
-      "Против всех": 16
+      "gas:candidate-vibid:210200072671": 5,
+      "gas:candidate-vibid:1001000190281": 1,
+      "gas:candidate-vibid:1001000113896": 31,
+      "gas:candidate-vibid:1001000112179": 23,
+      "gas:candidate-vibid:1001000225878": 307,
+      "gas:candidate-vibid:1001000195025": 6,
+      "gas:candidate-vibid:1001000121792": 7,
+      "gas:candidate-vibid:1001000201797": 6,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073030&region=0&sub_region=0&type=429",
@@ -1666,15 +1666,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 0,
-      "Лиминчук Владимир Илларионович": 2,
-      "Мяки Артур Элденович": 1,
-      "Петеляева Ирина Владимировна": 5,
-      "Пивненко Валентина Николаевна": 119,
-      "Потиевский Виктор Александрович": 0,
-      "Тюков Борис Иванович": 19,
-      "Шилик Владимир Ильич": 1,
-      "Против всех": 5
+      "gas:candidate-vibid:210200072671": 0,
+      "gas:candidate-vibid:1001000190281": 2,
+      "gas:candidate-vibid:1001000113896": 1,
+      "gas:candidate-vibid:1001000112179": 5,
+      "gas:candidate-vibid:1001000225878": 119,
+      "gas:candidate-vibid:1001000195025": 0,
+      "gas:candidate-vibid:1001000121792": 19,
+      "gas:candidate-vibid:1001000201797": 1,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073030&region=0&sub_region=0&type=429",
@@ -1724,15 +1724,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 26,
-      "Лиминчук Владимир Илларионович": 13,
-      "Мяки Артур Элденович": 91,
-      "Петеляева Ирина Владимировна": 306,
-      "Пивненко Валентина Николаевна": 529,
-      "Потиевский Виктор Александрович": 6,
-      "Тюков Борис Иванович": 89,
-      "Шилик Владимир Ильич": 5,
-      "Против всех": 103
+      "gas:candidate-vibid:210200072671": 26,
+      "gas:candidate-vibid:1001000190281": 13,
+      "gas:candidate-vibid:1001000113896": 91,
+      "gas:candidate-vibid:1001000112179": 306,
+      "gas:candidate-vibid:1001000225878": 529,
+      "gas:candidate-vibid:1001000195025": 6,
+      "gas:candidate-vibid:1001000121792": 89,
+      "gas:candidate-vibid:1001000201797": 5,
+      "special:against-all": 103
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073031&region=0&sub_region=0&type=429",
@@ -1782,15 +1782,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 11,
-      "Лиминчук Владимир Илларионович": 3,
-      "Мяки Артур Элденович": 47,
-      "Петеляева Ирина Владимировна": 234,
-      "Пивненко Валентина Николаевна": 307,
-      "Потиевский Виктор Александрович": 5,
-      "Тюков Борис Иванович": 79,
-      "Шилик Владимир Ильич": 3,
-      "Против всех": 61
+      "gas:candidate-vibid:210200072671": 11,
+      "gas:candidate-vibid:1001000190281": 3,
+      "gas:candidate-vibid:1001000113896": 47,
+      "gas:candidate-vibid:1001000112179": 234,
+      "gas:candidate-vibid:1001000225878": 307,
+      "gas:candidate-vibid:1001000195025": 5,
+      "gas:candidate-vibid:1001000121792": 79,
+      "gas:candidate-vibid:1001000201797": 3,
+      "special:against-all": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073031&region=0&sub_region=0&type=429",
@@ -1840,15 +1840,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 12,
-      "Лиминчук Владимир Илларионович": 4,
-      "Мяки Артур Элденович": 57,
-      "Петеляева Ирина Владимировна": 206,
-      "Пивненко Валентина Николаевна": 275,
-      "Потиевский Виктор Александрович": 2,
-      "Тюков Борис Иванович": 72,
-      "Шилик Владимир Ильич": 2,
-      "Против всех": 78
+      "gas:candidate-vibid:210200072671": 12,
+      "gas:candidate-vibid:1001000190281": 4,
+      "gas:candidate-vibid:1001000113896": 57,
+      "gas:candidate-vibid:1001000112179": 206,
+      "gas:candidate-vibid:1001000225878": 275,
+      "gas:candidate-vibid:1001000195025": 2,
+      "gas:candidate-vibid:1001000121792": 72,
+      "gas:candidate-vibid:1001000201797": 2,
+      "special:against-all": 78
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073031&region=0&sub_region=0&type=429",
@@ -1898,15 +1898,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 8,
-      "Лиминчук Владимир Илларионович": 4,
-      "Мяки Артур Элденович": 42,
-      "Петеляева Ирина Владимировна": 165,
-      "Пивненко Валентина Николаевна": 259,
-      "Потиевский Виктор Александрович": 3,
-      "Тюков Борис Иванович": 47,
-      "Шилик Владимир Ильич": 2,
-      "Против всех": 45
+      "gas:candidate-vibid:210200072671": 8,
+      "gas:candidate-vibid:1001000190281": 4,
+      "gas:candidate-vibid:1001000113896": 42,
+      "gas:candidate-vibid:1001000112179": 165,
+      "gas:candidate-vibid:1001000225878": 259,
+      "gas:candidate-vibid:1001000195025": 3,
+      "gas:candidate-vibid:1001000121792": 47,
+      "gas:candidate-vibid:1001000201797": 2,
+      "special:against-all": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073031&region=0&sub_region=0&type=429",
@@ -1956,15 +1956,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 14,
-      "Лиминчук Владимир Илларионович": 1,
-      "Мяки Артур Элденович": 30,
-      "Петеляева Ирина Владимировна": 62,
-      "Пивненко Валентина Николаевна": 138,
-      "Потиевский Виктор Александрович": 3,
-      "Тюков Борис Иванович": 21,
-      "Шилик Владимир Ильич": 0,
-      "Против всех": 30
+      "gas:candidate-vibid:210200072671": 14,
+      "gas:candidate-vibid:1001000190281": 1,
+      "gas:candidate-vibid:1001000113896": 30,
+      "gas:candidate-vibid:1001000112179": 62,
+      "gas:candidate-vibid:1001000225878": 138,
+      "gas:candidate-vibid:1001000195025": 3,
+      "gas:candidate-vibid:1001000121792": 21,
+      "gas:candidate-vibid:1001000201797": 0,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073031&region=0&sub_region=0&type=429",
@@ -2014,15 +2014,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 6,
-      "Лиминчук Владимир Илларионович": 8,
-      "Мяки Артур Элденович": 54,
-      "Петеляева Ирина Владимировна": 147,
-      "Пивненко Валентина Николаевна": 273,
-      "Потиевский Виктор Александрович": 3,
-      "Тюков Борис Иванович": 46,
-      "Шилик Владимир Ильич": 1,
-      "Против всех": 62
+      "gas:candidate-vibid:210200072671": 6,
+      "gas:candidate-vibid:1001000190281": 8,
+      "gas:candidate-vibid:1001000113896": 54,
+      "gas:candidate-vibid:1001000112179": 147,
+      "gas:candidate-vibid:1001000225878": 273,
+      "gas:candidate-vibid:1001000195025": 3,
+      "gas:candidate-vibid:1001000121792": 46,
+      "gas:candidate-vibid:1001000201797": 1,
+      "special:against-all": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073031&region=0&sub_region=0&type=429",
@@ -2072,15 +2072,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 17,
-      "Лиминчук Владимир Илларионович": 13,
-      "Мяки Артур Элденович": 122,
-      "Петеляева Ирина Владимировна": 352,
-      "Пивненко Валентина Николаевна": 543,
-      "Потиевский Виктор Александрович": 8,
-      "Тюков Борис Иванович": 103,
-      "Шилик Владимир Ильич": 3,
-      "Против всех": 120
+      "gas:candidate-vibid:210200072671": 17,
+      "gas:candidate-vibid:1001000190281": 13,
+      "gas:candidate-vibid:1001000113896": 122,
+      "gas:candidate-vibid:1001000112179": 352,
+      "gas:candidate-vibid:1001000225878": 543,
+      "gas:candidate-vibid:1001000195025": 8,
+      "gas:candidate-vibid:1001000121792": 103,
+      "gas:candidate-vibid:1001000201797": 3,
+      "special:against-all": 120
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073031&region=0&sub_region=0&type=429",
@@ -2130,15 +2130,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 14,
-      "Лиминчук Владимир Илларионович": 2,
-      "Мяки Артур Элденович": 49,
-      "Петеляева Ирина Владимировна": 165,
-      "Пивненко Валентина Николаевна": 294,
-      "Потиевский Виктор Александрович": 3,
-      "Тюков Борис Иванович": 57,
-      "Шилик Владимир Ильич": 3,
-      "Против всех": 50
+      "gas:candidate-vibid:210200072671": 14,
+      "gas:candidate-vibid:1001000190281": 2,
+      "gas:candidate-vibid:1001000113896": 49,
+      "gas:candidate-vibid:1001000112179": 165,
+      "gas:candidate-vibid:1001000225878": 294,
+      "gas:candidate-vibid:1001000195025": 3,
+      "gas:candidate-vibid:1001000121792": 57,
+      "gas:candidate-vibid:1001000201797": 3,
+      "special:against-all": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073031&region=0&sub_region=0&type=429",
@@ -2188,15 +2188,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 4,
-      "Лиминчук Владимир Илларионович": 4,
-      "Мяки Артур Элденович": 13,
-      "Петеляева Ирина Владимировна": 54,
-      "Пивненко Валентина Николаевна": 143,
-      "Потиевский Виктор Александрович": 2,
-      "Тюков Борис Иванович": 29,
-      "Шилик Владимир Ильич": 2,
-      "Против всех": 14
+      "gas:candidate-vibid:210200072671": 4,
+      "gas:candidate-vibid:1001000190281": 4,
+      "gas:candidate-vibid:1001000113896": 13,
+      "gas:candidate-vibid:1001000112179": 54,
+      "gas:candidate-vibid:1001000225878": 143,
+      "gas:candidate-vibid:1001000195025": 2,
+      "gas:candidate-vibid:1001000121792": 29,
+      "gas:candidate-vibid:1001000201797": 2,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073031&region=0&sub_region=0&type=429",
@@ -2246,15 +2246,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 4,
-      "Лиминчук Владимир Илларионович": 7,
-      "Мяки Артур Элденович": 10,
-      "Петеляева Ирина Владимировна": 13,
-      "Пивненко Валентина Николаевна": 69,
-      "Потиевский Виктор Александрович": 5,
-      "Тюков Борис Иванович": 19,
-      "Шилик Владимир Ильич": 1,
-      "Против всех": 4
+      "gas:candidate-vibid:210200072671": 4,
+      "gas:candidate-vibid:1001000190281": 7,
+      "gas:candidate-vibid:1001000113896": 10,
+      "gas:candidate-vibid:1001000112179": 13,
+      "gas:candidate-vibid:1001000225878": 69,
+      "gas:candidate-vibid:1001000195025": 5,
+      "gas:candidate-vibid:1001000121792": 19,
+      "gas:candidate-vibid:1001000201797": 1,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073031&region=0&sub_region=0&type=429",
@@ -2304,15 +2304,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 9,
-      "Лиминчук Владимир Илларионович": 5,
-      "Мяки Артур Элденович": 66,
-      "Петеляева Ирина Владимировна": 217,
-      "Пивненко Валентина Николаевна": 543,
-      "Потиевский Виктор Александрович": 6,
-      "Тюков Борис Иванович": 70,
-      "Шилик Владимир Ильич": 3,
-      "Против всех": 78
+      "gas:candidate-vibid:210200072671": 9,
+      "gas:candidate-vibid:1001000190281": 5,
+      "gas:candidate-vibid:1001000113896": 66,
+      "gas:candidate-vibid:1001000112179": 217,
+      "gas:candidate-vibid:1001000225878": 543,
+      "gas:candidate-vibid:1001000195025": 6,
+      "gas:candidate-vibid:1001000121792": 70,
+      "gas:candidate-vibid:1001000201797": 3,
+      "special:against-all": 78
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073031&region=0&sub_region=0&type=429",
@@ -2362,15 +2362,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 20,
-      "Лиминчук Владимир Илларионович": 7,
-      "Мяки Артур Элденович": 62,
-      "Петеляева Ирина Владимировна": 247,
-      "Пивненко Валентина Николаевна": 479,
-      "Потиевский Виктор Александрович": 4,
-      "Тюков Борис Иванович": 35,
-      "Шилик Владимир Ильич": 4,
-      "Против всех": 76
+      "gas:candidate-vibid:210200072671": 20,
+      "gas:candidate-vibid:1001000190281": 7,
+      "gas:candidate-vibid:1001000113896": 62,
+      "gas:candidate-vibid:1001000112179": 247,
+      "gas:candidate-vibid:1001000225878": 479,
+      "gas:candidate-vibid:1001000195025": 4,
+      "gas:candidate-vibid:1001000121792": 35,
+      "gas:candidate-vibid:1001000201797": 4,
+      "special:against-all": 76
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073031&region=0&sub_region=0&type=429",
@@ -2420,15 +2420,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 0,
-      "Лиминчук Владимир Илларионович": 2,
-      "Мяки Артур Элденович": 12,
-      "Петеляева Ирина Владимировна": 22,
-      "Пивненко Валентина Николаевна": 82,
-      "Потиевский Виктор Александрович": 2,
-      "Тюков Борис Иванович": 14,
-      "Шилик Владимир Ильич": 1,
-      "Против всех": 13
+      "gas:candidate-vibid:210200072671": 0,
+      "gas:candidate-vibid:1001000190281": 2,
+      "gas:candidate-vibid:1001000113896": 12,
+      "gas:candidate-vibid:1001000112179": 22,
+      "gas:candidate-vibid:1001000225878": 82,
+      "gas:candidate-vibid:1001000195025": 2,
+      "gas:candidate-vibid:1001000121792": 14,
+      "gas:candidate-vibid:1001000201797": 1,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073031&region=0&sub_region=0&type=429",
@@ -2478,15 +2478,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 1,
-      "Лиминчук Владимир Илларионович": 1,
-      "Мяки Артур Элденович": 9,
-      "Петеляева Ирина Владимировна": 10,
-      "Пивненко Валентина Николаевна": 43,
-      "Потиевский Виктор Александрович": 2,
-      "Тюков Борис Иванович": 6,
-      "Шилик Владимир Ильич": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:210200072671": 1,
+      "gas:candidate-vibid:1001000190281": 1,
+      "gas:candidate-vibid:1001000113896": 9,
+      "gas:candidate-vibid:1001000112179": 10,
+      "gas:candidate-vibid:1001000225878": 43,
+      "gas:candidate-vibid:1001000195025": 2,
+      "gas:candidate-vibid:1001000121792": 6,
+      "gas:candidate-vibid:1001000201797": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073031&region=0&sub_region=0&type=429",
@@ -2536,15 +2536,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 1,
-      "Лиминчук Владимир Илларионович": 1,
-      "Мяки Артур Элденович": 7,
-      "Петеляева Ирина Владимировна": 12,
-      "Пивненко Валентина Николаевна": 49,
-      "Потиевский Виктор Александрович": 2,
-      "Тюков Борис Иванович": 2,
-      "Шилик Владимир Ильич": 3,
-      "Против всех": 9
+      "gas:candidate-vibid:210200072671": 1,
+      "gas:candidate-vibid:1001000190281": 1,
+      "gas:candidate-vibid:1001000113896": 7,
+      "gas:candidate-vibid:1001000112179": 12,
+      "gas:candidate-vibid:1001000225878": 49,
+      "gas:candidate-vibid:1001000195025": 2,
+      "gas:candidate-vibid:1001000121792": 2,
+      "gas:candidate-vibid:1001000201797": 3,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073031&region=0&sub_region=0&type=429",
@@ -2594,15 +2594,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 3,
-      "Лиминчук Владимир Илларионович": 0,
-      "Мяки Артур Элденович": 2,
-      "Петеляева Ирина Владимировна": 4,
-      "Пивненко Валентина Николаевна": 20,
-      "Потиевский Виктор Александрович": 1,
-      "Тюков Борис Иванович": 8,
-      "Шилик Владимир Ильич": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:210200072671": 3,
+      "gas:candidate-vibid:1001000190281": 0,
+      "gas:candidate-vibid:1001000113896": 2,
+      "gas:candidate-vibid:1001000112179": 4,
+      "gas:candidate-vibid:1001000225878": 20,
+      "gas:candidate-vibid:1001000195025": 1,
+      "gas:candidate-vibid:1001000121792": 8,
+      "gas:candidate-vibid:1001000201797": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073031&region=0&sub_region=0&type=429",
@@ -2652,15 +2652,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 0,
-      "Лиминчук Владимир Илларионович": 0,
-      "Мяки Артур Элденович": 0,
-      "Петеляева Ирина Владимировна": 1,
-      "Пивненко Валентина Николаевна": 12,
-      "Потиевский Виктор Александрович": 1,
-      "Тюков Борис Иванович": 1,
-      "Шилик Владимир Ильич": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:210200072671": 0,
+      "gas:candidate-vibid:1001000190281": 0,
+      "gas:candidate-vibid:1001000113896": 0,
+      "gas:candidate-vibid:1001000112179": 1,
+      "gas:candidate-vibid:1001000225878": 12,
+      "gas:candidate-vibid:1001000195025": 1,
+      "gas:candidate-vibid:1001000121792": 1,
+      "gas:candidate-vibid:1001000201797": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073031&region=0&sub_region=0&type=429",
@@ -2710,15 +2710,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 19,
-      "Лиминчук Владимир Илларионович": 2,
-      "Мяки Артур Элденович": 71,
-      "Петеляева Ирина Владимировна": 142,
-      "Пивненко Валентина Николаевна": 732,
-      "Потиевский Виктор Александрович": 5,
-      "Тюков Борис Иванович": 119,
-      "Шилик Владимир Ильич": 0,
-      "Против всех": 70
+      "gas:candidate-vibid:210200072671": 19,
+      "gas:candidate-vibid:1001000190281": 2,
+      "gas:candidate-vibid:1001000113896": 71,
+      "gas:candidate-vibid:1001000112179": 142,
+      "gas:candidate-vibid:1001000225878": 732,
+      "gas:candidate-vibid:1001000195025": 5,
+      "gas:candidate-vibid:1001000121792": 119,
+      "gas:candidate-vibid:1001000201797": 0,
+      "special:against-all": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073031&region=0&sub_region=0&type=429",
@@ -2768,15 +2768,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 5,
-      "Лиминчук Владимир Илларионович": 3,
-      "Мяки Артур Элденович": 19,
-      "Петеляева Ирина Владимировна": 24,
-      "Пивненко Валентина Николаевна": 239,
-      "Потиевский Виктор Александрович": 1,
-      "Тюков Борис Иванович": 43,
-      "Шилик Владимир Ильич": 0,
-      "Против всех": 25
+      "gas:candidate-vibid:210200072671": 5,
+      "gas:candidate-vibid:1001000190281": 3,
+      "gas:candidate-vibid:1001000113896": 19,
+      "gas:candidate-vibid:1001000112179": 24,
+      "gas:candidate-vibid:1001000225878": 239,
+      "gas:candidate-vibid:1001000195025": 1,
+      "gas:candidate-vibid:1001000121792": 43,
+      "gas:candidate-vibid:1001000201797": 0,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073031&region=0&sub_region=0&type=429",
@@ -2826,15 +2826,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 0,
-      "Лиминчук Владимир Илларионович": 0,
-      "Мяки Артур Элденович": 4,
-      "Петеляева Ирина Владимировна": 0,
-      "Пивненко Валентина Николаевна": 40,
-      "Потиевский Виктор Александрович": 1,
-      "Тюков Борис Иванович": 8,
-      "Шилик Владимир Ильич": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:210200072671": 0,
+      "gas:candidate-vibid:1001000190281": 0,
+      "gas:candidate-vibid:1001000113896": 4,
+      "gas:candidate-vibid:1001000112179": 0,
+      "gas:candidate-vibid:1001000225878": 40,
+      "gas:candidate-vibid:1001000195025": 1,
+      "gas:candidate-vibid:1001000121792": 8,
+      "gas:candidate-vibid:1001000201797": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073031&region=0&sub_region=0&type=429",
@@ -2884,15 +2884,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 1,
-      "Лиминчук Владимир Илларионович": 0,
-      "Мяки Артур Элденович": 1,
-      "Петеляева Ирина Владимировна": 3,
-      "Пивненко Валентина Николаевна": 44,
-      "Потиевский Виктор Александрович": 0,
-      "Тюков Борис Иванович": 0,
-      "Шилик Владимир Ильич": 1,
-      "Против всех": 4
+      "gas:candidate-vibid:210200072671": 1,
+      "gas:candidate-vibid:1001000190281": 0,
+      "gas:candidate-vibid:1001000113896": 1,
+      "gas:candidate-vibid:1001000112179": 3,
+      "gas:candidate-vibid:1001000225878": 44,
+      "gas:candidate-vibid:1001000195025": 0,
+      "gas:candidate-vibid:1001000121792": 0,
+      "gas:candidate-vibid:1001000201797": 1,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073031&region=0&sub_region=0&type=429",
@@ -2942,15 +2942,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 2,
-      "Лиминчук Владимир Илларионович": 3,
-      "Мяки Артур Элденович": 10,
-      "Петеляева Ирина Владимировна": 6,
-      "Пивненко Валентина Николаевна": 98,
-      "Потиевский Виктор Александрович": 0,
-      "Тюков Борис Иванович": 4,
-      "Шилик Владимир Ильич": 5,
-      "Против всех": 13
+      "gas:candidate-vibid:210200072671": 2,
+      "gas:candidate-vibid:1001000190281": 3,
+      "gas:candidate-vibid:1001000113896": 10,
+      "gas:candidate-vibid:1001000112179": 6,
+      "gas:candidate-vibid:1001000225878": 98,
+      "gas:candidate-vibid:1001000195025": 0,
+      "gas:candidate-vibid:1001000121792": 4,
+      "gas:candidate-vibid:1001000201797": 5,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073031&region=0&sub_region=0&type=429",
@@ -3000,15 +3000,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 1,
-      "Лиминчук Владимир Илларионович": 0,
-      "Мяки Артур Элденович": 2,
-      "Петеляева Ирина Владимировна": 5,
-      "Пивненко Валентина Николаевна": 58,
-      "Потиевский Виктор Александрович": 1,
-      "Тюков Борис Иванович": 6,
-      "Шилик Владимир Ильич": 0,
-      "Против всех": 5
+      "gas:candidate-vibid:210200072671": 1,
+      "gas:candidate-vibid:1001000190281": 0,
+      "gas:candidate-vibid:1001000113896": 2,
+      "gas:candidate-vibid:1001000112179": 5,
+      "gas:candidate-vibid:1001000225878": 58,
+      "gas:candidate-vibid:1001000195025": 1,
+      "gas:candidate-vibid:1001000121792": 6,
+      "gas:candidate-vibid:1001000201797": 0,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073031&region=0&sub_region=0&type=429",
@@ -3058,15 +3058,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 0,
-      "Лиминчук Владимир Илларионович": 0,
-      "Мяки Артур Элденович": 0,
-      "Петеляева Ирина Владимировна": 0,
-      "Пивненко Валентина Николаевна": 25,
-      "Потиевский Виктор Александрович": 0,
-      "Тюков Борис Иванович": 0,
-      "Шилик Владимир Ильич": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:210200072671": 0,
+      "gas:candidate-vibid:1001000190281": 0,
+      "gas:candidate-vibid:1001000113896": 0,
+      "gas:candidate-vibid:1001000112179": 0,
+      "gas:candidate-vibid:1001000225878": 25,
+      "gas:candidate-vibid:1001000195025": 0,
+      "gas:candidate-vibid:1001000121792": 0,
+      "gas:candidate-vibid:1001000201797": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073031&region=0&sub_region=0&type=429",
@@ -3116,15 +3116,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 6,
-      "Лиминчук Владимир Илларионович": 0,
-      "Мяки Артур Элденович": 2,
-      "Петеляева Ирина Владимировна": 3,
-      "Пивненко Валентина Николаевна": 185,
-      "Потиевский Виктор Александрович": 1,
-      "Тюков Борис Иванович": 9,
-      "Шилик Владимир Ильич": 2,
-      "Против всех": 1
+      "gas:candidate-vibid:210200072671": 6,
+      "gas:candidate-vibid:1001000190281": 0,
+      "gas:candidate-vibid:1001000113896": 2,
+      "gas:candidate-vibid:1001000112179": 3,
+      "gas:candidate-vibid:1001000225878": 185,
+      "gas:candidate-vibid:1001000195025": 1,
+      "gas:candidate-vibid:1001000121792": 9,
+      "gas:candidate-vibid:1001000201797": 2,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073031&region=0&sub_region=0&type=429",
@@ -3174,15 +3174,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 1,
-      "Лиминчук Владимир Илларионович": 2,
-      "Мяки Артур Элденович": 26,
-      "Петеляева Ирина Владимировна": 23,
-      "Пивненко Валентина Николаевна": 255,
-      "Потиевский Виктор Александрович": 2,
-      "Тюков Борис Иванович": 9,
-      "Шилик Владимир Ильич": 0,
-      "Против всех": 10
+      "gas:candidate-vibid:210200072671": 1,
+      "gas:candidate-vibid:1001000190281": 2,
+      "gas:candidate-vibid:1001000113896": 26,
+      "gas:candidate-vibid:1001000112179": 23,
+      "gas:candidate-vibid:1001000225878": 255,
+      "gas:candidate-vibid:1001000195025": 2,
+      "gas:candidate-vibid:1001000121792": 9,
+      "gas:candidate-vibid:1001000201797": 0,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073031&region=0&sub_region=0&type=429",
@@ -3232,15 +3232,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 0,
-      "Лиминчук Владимир Илларионович": 1,
-      "Мяки Артур Элденович": 2,
-      "Петеляева Ирина Владимировна": 1,
-      "Пивненко Валентина Николаевна": 35,
-      "Потиевский Виктор Александрович": 0,
-      "Тюков Борис Иванович": 1,
-      "Шилик Владимир Ильич": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:210200072671": 0,
+      "gas:candidate-vibid:1001000190281": 1,
+      "gas:candidate-vibid:1001000113896": 2,
+      "gas:candidate-vibid:1001000112179": 1,
+      "gas:candidate-vibid:1001000225878": 35,
+      "gas:candidate-vibid:1001000195025": 0,
+      "gas:candidate-vibid:1001000121792": 1,
+      "gas:candidate-vibid:1001000201797": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073031&region=0&sub_region=0&type=429",
@@ -3290,15 +3290,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 3,
-      "Лиминчук Владимир Илларионович": 0,
-      "Мяки Артур Элденович": 2,
-      "Петеляева Ирина Владимировна": 6,
-      "Пивненко Валентина Николаевна": 54,
-      "Потиевский Виктор Александрович": 2,
-      "Тюков Борис Иванович": 3,
-      "Шилик Владимир Ильич": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:210200072671": 3,
+      "gas:candidate-vibid:1001000190281": 0,
+      "gas:candidate-vibid:1001000113896": 2,
+      "gas:candidate-vibid:1001000112179": 6,
+      "gas:candidate-vibid:1001000225878": 54,
+      "gas:candidate-vibid:1001000195025": 2,
+      "gas:candidate-vibid:1001000121792": 3,
+      "gas:candidate-vibid:1001000201797": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073031&region=0&sub_region=0&type=429",
@@ -3348,15 +3348,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 5,
-      "Лиминчук Владимир Илларионович": 0,
-      "Мяки Артур Элденович": 10,
-      "Петеляева Ирина Владимировна": 13,
-      "Пивненко Валентина Николаевна": 139,
-      "Потиевский Виктор Александрович": 2,
-      "Тюков Борис Иванович": 36,
-      "Шилик Владимир Ильич": 0,
-      "Против всех": 6
+      "gas:candidate-vibid:210200072671": 5,
+      "gas:candidate-vibid:1001000190281": 0,
+      "gas:candidate-vibid:1001000113896": 10,
+      "gas:candidate-vibid:1001000112179": 13,
+      "gas:candidate-vibid:1001000225878": 139,
+      "gas:candidate-vibid:1001000195025": 2,
+      "gas:candidate-vibid:1001000121792": 36,
+      "gas:candidate-vibid:1001000201797": 0,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073031&region=0&sub_region=0&type=429",
@@ -3406,15 +3406,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 1,
-      "Лиминчук Владимир Илларионович": 0,
-      "Мяки Артур Элденович": 13,
-      "Петеляева Ирина Владимировна": 10,
-      "Пивненко Валентина Николаевна": 62,
-      "Потиевский Виктор Александрович": 0,
-      "Тюков Борис Иванович": 9,
-      "Шилик Владимир Ильич": 0,
-      "Против всех": 15
+      "gas:candidate-vibid:210200072671": 1,
+      "gas:candidate-vibid:1001000190281": 0,
+      "gas:candidate-vibid:1001000113896": 13,
+      "gas:candidate-vibid:1001000112179": 10,
+      "gas:candidate-vibid:1001000225878": 62,
+      "gas:candidate-vibid:1001000195025": 0,
+      "gas:candidate-vibid:1001000121792": 9,
+      "gas:candidate-vibid:1001000201797": 0,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073031&region=0&sub_region=0&type=429",
@@ -3464,15 +3464,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 0,
-      "Лиминчук Владимир Илларионович": 0,
-      "Мяки Артур Элденович": 2,
-      "Петеляева Ирина Владимировна": 9,
-      "Пивненко Валентина Николаевна": 28,
-      "Потиевский Виктор Александрович": 0,
-      "Тюков Борис Иванович": 8,
-      "Шилик Владимир Ильич": 0,
-      "Против всех": 5
+      "gas:candidate-vibid:210200072671": 0,
+      "gas:candidate-vibid:1001000190281": 0,
+      "gas:candidate-vibid:1001000113896": 2,
+      "gas:candidate-vibid:1001000112179": 9,
+      "gas:candidate-vibid:1001000225878": 28,
+      "gas:candidate-vibid:1001000195025": 0,
+      "gas:candidate-vibid:1001000121792": 8,
+      "gas:candidate-vibid:1001000201797": 0,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073031&region=0&sub_region=0&type=429",
@@ -3522,15 +3522,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 0,
-      "Лиминчук Владимир Илларионович": 0,
-      "Мяки Артур Элденович": 0,
-      "Петеляева Ирина Владимировна": 2,
-      "Пивненко Валентина Николаевна": 20,
-      "Потиевский Виктор Александрович": 0,
-      "Тюков Борис Иванович": 0,
-      "Шилик Владимир Ильич": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:210200072671": 0,
+      "gas:candidate-vibid:1001000190281": 0,
+      "gas:candidate-vibid:1001000113896": 0,
+      "gas:candidate-vibid:1001000112179": 2,
+      "gas:candidate-vibid:1001000225878": 20,
+      "gas:candidate-vibid:1001000195025": 0,
+      "gas:candidate-vibid:1001000121792": 0,
+      "gas:candidate-vibid:1001000201797": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073031&region=0&sub_region=0&type=429",
@@ -3580,15 +3580,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 2,
-      "Лиминчук Владимир Илларионович": 0,
-      "Мяки Артур Элденович": 3,
-      "Петеляева Ирина Владимировна": 14,
-      "Пивненко Валентина Николаевна": 65,
-      "Потиевский Виктор Александрович": 1,
-      "Тюков Борис Иванович": 4,
-      "Шилик Владимир Ильич": 0,
-      "Против всех": 7
+      "gas:candidate-vibid:210200072671": 2,
+      "gas:candidate-vibid:1001000190281": 0,
+      "gas:candidate-vibid:1001000113896": 3,
+      "gas:candidate-vibid:1001000112179": 14,
+      "gas:candidate-vibid:1001000225878": 65,
+      "gas:candidate-vibid:1001000195025": 1,
+      "gas:candidate-vibid:1001000121792": 4,
+      "gas:candidate-vibid:1001000201797": 0,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073031&region=0&sub_region=0&type=429",
@@ -3638,15 +3638,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 0,
-      "Лиминчук Владимир Илларионович": 0,
-      "Мяки Артур Элденович": 1,
-      "Петеляева Ирина Владимировна": 1,
-      "Пивненко Валентина Николаевна": 38,
-      "Потиевский Виктор Александрович": 0,
-      "Тюков Борис Иванович": 11,
-      "Шилик Владимир Ильич": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:210200072671": 0,
+      "gas:candidate-vibid:1001000190281": 0,
+      "gas:candidate-vibid:1001000113896": 1,
+      "gas:candidate-vibid:1001000112179": 1,
+      "gas:candidate-vibid:1001000225878": 38,
+      "gas:candidate-vibid:1001000195025": 0,
+      "gas:candidate-vibid:1001000121792": 11,
+      "gas:candidate-vibid:1001000201797": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073031&region=0&sub_region=0&type=429",
@@ -3696,15 +3696,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 4,
-      "Лиминчук Владимир Илларионович": 2,
-      "Мяки Артур Элденович": 18,
-      "Петеляева Ирина Владимировна": 49,
-      "Пивненко Валентина Николаевна": 341,
-      "Потиевский Виктор Александрович": 2,
-      "Тюков Борис Иванович": 28,
-      "Шилик Владимир Ильич": 2,
-      "Против всех": 25
+      "gas:candidate-vibid:210200072671": 4,
+      "gas:candidate-vibid:1001000190281": 2,
+      "gas:candidate-vibid:1001000113896": 18,
+      "gas:candidate-vibid:1001000112179": 49,
+      "gas:candidate-vibid:1001000225878": 341,
+      "gas:candidate-vibid:1001000195025": 2,
+      "gas:candidate-vibid:1001000121792": 28,
+      "gas:candidate-vibid:1001000201797": 2,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073031&region=0&sub_region=0&type=429",
@@ -3754,15 +3754,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 0,
-      "Лиминчук Владимир Илларионович": 0,
-      "Мяки Артур Элденович": 7,
-      "Петеляева Ирина Владимировна": 6,
-      "Пивненко Валентина Николаевна": 95,
-      "Потиевский Виктор Александрович": 0,
-      "Тюков Борис Иванович": 3,
-      "Шилик Владимир Ильич": 0,
-      "Против всех": 5
+      "gas:candidate-vibid:210200072671": 0,
+      "gas:candidate-vibid:1001000190281": 0,
+      "gas:candidate-vibid:1001000113896": 7,
+      "gas:candidate-vibid:1001000112179": 6,
+      "gas:candidate-vibid:1001000225878": 95,
+      "gas:candidate-vibid:1001000195025": 0,
+      "gas:candidate-vibid:1001000121792": 3,
+      "gas:candidate-vibid:1001000201797": 0,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073031&region=0&sub_region=0&type=429",
@@ -3812,15 +3812,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 0,
-      "Лиминчук Владимир Илларионович": 0,
-      "Мяки Артур Элденович": 2,
-      "Петеляева Ирина Владимировна": 5,
-      "Пивненко Валентина Николаевна": 50,
-      "Потиевский Виктор Александрович": 2,
-      "Тюков Борис Иванович": 2,
-      "Шилик Владимир Ильич": 1,
-      "Против всех": 1
+      "gas:candidate-vibid:210200072671": 0,
+      "gas:candidate-vibid:1001000190281": 0,
+      "gas:candidate-vibid:1001000113896": 2,
+      "gas:candidate-vibid:1001000112179": 5,
+      "gas:candidate-vibid:1001000225878": 50,
+      "gas:candidate-vibid:1001000195025": 2,
+      "gas:candidate-vibid:1001000121792": 2,
+      "gas:candidate-vibid:1001000201797": 1,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073031&region=0&sub_region=0&type=429",
@@ -3870,15 +3870,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 7,
-      "Лиминчук Владимир Илларионович": 2,
-      "Мяки Артур Элденович": 1,
-      "Петеляева Ирина Владимировна": 12,
-      "Пивненко Валентина Николаевна": 185,
-      "Потиевский Виктор Александрович": 0,
-      "Тюков Борис Иванович": 4,
-      "Шилик Владимир Ильич": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:210200072671": 7,
+      "gas:candidate-vibid:1001000190281": 2,
+      "gas:candidate-vibid:1001000113896": 1,
+      "gas:candidate-vibid:1001000112179": 12,
+      "gas:candidate-vibid:1001000225878": 185,
+      "gas:candidate-vibid:1001000195025": 0,
+      "gas:candidate-vibid:1001000121792": 4,
+      "gas:candidate-vibid:1001000201797": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073031&region=0&sub_region=0&type=429",
@@ -3928,15 +3928,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 3,
-      "Лиминчук Владимир Илларионович": 0,
-      "Мяки Артур Элденович": 3,
-      "Петеляева Ирина Владимировна": 2,
-      "Пивненко Валентина Николаевна": 150,
-      "Потиевский Виктор Александрович": 0,
-      "Тюков Борис Иванович": 15,
-      "Шилик Владимир Ильич": 0,
-      "Против всех": 13
+      "gas:candidate-vibid:210200072671": 3,
+      "gas:candidate-vibid:1001000190281": 0,
+      "gas:candidate-vibid:1001000113896": 3,
+      "gas:candidate-vibid:1001000112179": 2,
+      "gas:candidate-vibid:1001000225878": 150,
+      "gas:candidate-vibid:1001000195025": 0,
+      "gas:candidate-vibid:1001000121792": 15,
+      "gas:candidate-vibid:1001000201797": 0,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073031&region=0&sub_region=0&type=429",
@@ -3986,15 +3986,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 3,
-      "Лиминчук Владимир Илларионович": 4,
-      "Мяки Артур Элденович": 40,
-      "Петеляева Ирина Владимировна": 42,
-      "Пивненко Валентина Николаевна": 270,
-      "Потиевский Виктор Александрович": 4,
-      "Тюков Борис Иванович": 50,
-      "Шилик Владимир Ильич": 1,
-      "Против всех": 30
+      "gas:candidate-vibid:210200072671": 3,
+      "gas:candidate-vibid:1001000190281": 4,
+      "gas:candidate-vibid:1001000113896": 40,
+      "gas:candidate-vibid:1001000112179": 42,
+      "gas:candidate-vibid:1001000225878": 270,
+      "gas:candidate-vibid:1001000195025": 4,
+      "gas:candidate-vibid:1001000121792": 50,
+      "gas:candidate-vibid:1001000201797": 1,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073031&region=0&sub_region=0&type=429",
@@ -4044,15 +4044,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 2,
-      "Лиминчук Владимир Илларионович": 4,
-      "Мяки Артур Элденович": 2,
-      "Петеляева Ирина Владимировна": 21,
-      "Пивненко Валентина Николаевна": 49,
-      "Потиевский Виктор Александрович": 3,
-      "Тюков Борис Иванович": 12,
-      "Шилик Владимир Ильич": 0,
-      "Против всех": 4
+      "gas:candidate-vibid:210200072671": 2,
+      "gas:candidate-vibid:1001000190281": 4,
+      "gas:candidate-vibid:1001000113896": 2,
+      "gas:candidate-vibid:1001000112179": 21,
+      "gas:candidate-vibid:1001000225878": 49,
+      "gas:candidate-vibid:1001000195025": 3,
+      "gas:candidate-vibid:1001000121792": 12,
+      "gas:candidate-vibid:1001000201797": 0,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073031&region=0&sub_region=0&type=429",
@@ -4102,15 +4102,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 1,
-      "Лиминчук Владимир Илларионович": 0,
-      "Мяки Артур Элденович": 5,
-      "Петеляева Ирина Владимировна": 6,
-      "Пивненко Валентина Николаевна": 53,
-      "Потиевский Виктор Александрович": 1,
-      "Тюков Борис Иванович": 20,
-      "Шилик Владимир Ильич": 0,
-      "Против всех": 21
+      "gas:candidate-vibid:210200072671": 1,
+      "gas:candidate-vibid:1001000190281": 0,
+      "gas:candidate-vibid:1001000113896": 5,
+      "gas:candidate-vibid:1001000112179": 6,
+      "gas:candidate-vibid:1001000225878": 53,
+      "gas:candidate-vibid:1001000195025": 1,
+      "gas:candidate-vibid:1001000121792": 20,
+      "gas:candidate-vibid:1001000201797": 0,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073031&region=0&sub_region=0&type=429",
@@ -4160,15 +4160,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 4,
-      "Лиминчук Владимир Илларионович": 2,
-      "Мяки Артур Элденович": 7,
-      "Петеляева Ирина Владимировна": 67,
-      "Пивненко Валентина Николаевна": 360,
-      "Потиевский Виктор Александрович": 3,
-      "Тюков Борис Иванович": 51,
-      "Шилик Владимир Ильич": 3,
-      "Против всех": 28
+      "gas:candidate-vibid:210200072671": 4,
+      "gas:candidate-vibid:1001000190281": 2,
+      "gas:candidate-vibid:1001000113896": 7,
+      "gas:candidate-vibid:1001000112179": 67,
+      "gas:candidate-vibid:1001000225878": 360,
+      "gas:candidate-vibid:1001000195025": 3,
+      "gas:candidate-vibid:1001000121792": 51,
+      "gas:candidate-vibid:1001000201797": 3,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073031&region=0&sub_region=0&type=429",
@@ -4218,15 +4218,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 2,
-      "Лиминчук Владимир Илларионович": 0,
-      "Мяки Артур Элденович": 1,
-      "Петеляева Ирина Владимировна": 4,
-      "Пивненко Валентина Николаевна": 42,
-      "Потиевский Виктор Александрович": 0,
-      "Тюков Борис Иванович": 0,
-      "Шилик Владимир Ильич": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:210200072671": 2,
+      "gas:candidate-vibid:1001000190281": 0,
+      "gas:candidate-vibid:1001000113896": 1,
+      "gas:candidate-vibid:1001000112179": 4,
+      "gas:candidate-vibid:1001000225878": 42,
+      "gas:candidate-vibid:1001000195025": 0,
+      "gas:candidate-vibid:1001000121792": 0,
+      "gas:candidate-vibid:1001000201797": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073031&region=0&sub_region=0&type=429",
@@ -4276,15 +4276,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 0,
-      "Лиминчук Владимир Илларионович": 1,
-      "Мяки Артур Элденович": 3,
-      "Петеляева Ирина Владимировна": 7,
-      "Пивненко Валентина Николаевна": 59,
-      "Потиевский Виктор Александрович": 0,
-      "Тюков Борис Иванович": 0,
-      "Шилик Владимир Ильич": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:210200072671": 0,
+      "gas:candidate-vibid:1001000190281": 1,
+      "gas:candidate-vibid:1001000113896": 3,
+      "gas:candidate-vibid:1001000112179": 7,
+      "gas:candidate-vibid:1001000225878": 59,
+      "gas:candidate-vibid:1001000195025": 0,
+      "gas:candidate-vibid:1001000121792": 0,
+      "gas:candidate-vibid:1001000201797": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073031&region=0&sub_region=0&type=429",
@@ -4334,15 +4334,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 0,
-      "Лиминчук Владимир Илларионович": 0,
-      "Мяки Артур Элденович": 2,
-      "Петеляева Ирина Владимировна": 3,
-      "Пивненко Валентина Николаевна": 114,
-      "Потиевский Виктор Александрович": 0,
-      "Тюков Борис Иванович": 5,
-      "Шилик Владимир Ильич": 0,
-      "Против всех": 6
+      "gas:candidate-vibid:210200072671": 0,
+      "gas:candidate-vibid:1001000190281": 0,
+      "gas:candidate-vibid:1001000113896": 2,
+      "gas:candidate-vibid:1001000112179": 3,
+      "gas:candidate-vibid:1001000225878": 114,
+      "gas:candidate-vibid:1001000195025": 0,
+      "gas:candidate-vibid:1001000121792": 5,
+      "gas:candidate-vibid:1001000201797": 0,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073031&region=0&sub_region=0&type=429",
@@ -4392,15 +4392,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 0,
-      "Лиминчук Владимир Илларионович": 0,
-      "Мяки Артур Элденович": 3,
-      "Петеляева Ирина Владимировна": 3,
-      "Пивненко Валентина Николаевна": 30,
-      "Потиевский Виктор Александрович": 1,
-      "Тюков Борис Иванович": 2,
-      "Шилик Владимир Ильич": 0,
-      "Против всех": 8
+      "gas:candidate-vibid:210200072671": 0,
+      "gas:candidate-vibid:1001000190281": 0,
+      "gas:candidate-vibid:1001000113896": 3,
+      "gas:candidate-vibid:1001000112179": 3,
+      "gas:candidate-vibid:1001000225878": 30,
+      "gas:candidate-vibid:1001000195025": 1,
+      "gas:candidate-vibid:1001000121792": 2,
+      "gas:candidate-vibid:1001000201797": 0,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073031&region=0&sub_region=0&type=429",
@@ -4450,15 +4450,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 0,
-      "Лиминчук Владимир Илларионович": 0,
-      "Мяки Артур Элденович": 0,
-      "Петеляева Ирина Владимировна": 1,
-      "Пивненко Валентина Николаевна": 16,
-      "Потиевский Виктор Александрович": 0,
-      "Тюков Борис Иванович": 3,
-      "Шилик Владимир Ильич": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:210200072671": 0,
+      "gas:candidate-vibid:1001000190281": 0,
+      "gas:candidate-vibid:1001000113896": 0,
+      "gas:candidate-vibid:1001000112179": 1,
+      "gas:candidate-vibid:1001000225878": 16,
+      "gas:candidate-vibid:1001000195025": 0,
+      "gas:candidate-vibid:1001000121792": 3,
+      "gas:candidate-vibid:1001000201797": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073031&region=0&sub_region=0&type=429",
@@ -4508,15 +4508,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 5,
-      "Лиминчук Владимир Илларионович": 5,
-      "Мяки Артур Элденович": 15,
-      "Петеляева Ирина Владимировна": 60,
-      "Пивненко Валентина Николаевна": 413,
-      "Потиевский Виктор Александрович": 4,
-      "Тюков Борис Иванович": 44,
-      "Шилик Владимир Ильич": 2,
-      "Против всех": 24
+      "gas:candidate-vibid:210200072671": 5,
+      "gas:candidate-vibid:1001000190281": 5,
+      "gas:candidate-vibid:1001000113896": 15,
+      "gas:candidate-vibid:1001000112179": 60,
+      "gas:candidate-vibid:1001000225878": 413,
+      "gas:candidate-vibid:1001000195025": 4,
+      "gas:candidate-vibid:1001000121792": 44,
+      "gas:candidate-vibid:1001000201797": 2,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073031&region=0&sub_region=0&type=429",
@@ -4566,15 +4566,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 0,
-      "Лиминчук Владимир Илларионович": 3,
-      "Мяки Артур Элденович": 2,
-      "Петеляева Ирина Владимировна": 7,
-      "Пивненко Валентина Николаевна": 52,
-      "Потиевский Виктор Александрович": 1,
-      "Тюков Борис Иванович": 6,
-      "Шилик Владимир Ильич": 1,
-      "Против всех": 8
+      "gas:candidate-vibid:210200072671": 0,
+      "gas:candidate-vibid:1001000190281": 3,
+      "gas:candidate-vibid:1001000113896": 2,
+      "gas:candidate-vibid:1001000112179": 7,
+      "gas:candidate-vibid:1001000225878": 52,
+      "gas:candidate-vibid:1001000195025": 1,
+      "gas:candidate-vibid:1001000121792": 6,
+      "gas:candidate-vibid:1001000201797": 1,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073031&region=0&sub_region=0&type=429",
@@ -4624,15 +4624,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 3,
-      "Лиминчук Владимир Илларионович": 2,
-      "Мяки Артур Элденович": 13,
-      "Петеляева Ирина Владимировна": 21,
-      "Пивненко Валентина Николаевна": 236,
-      "Потиевский Виктор Александрович": 1,
-      "Тюков Борис Иванович": 17,
-      "Шилик Владимир Ильич": 1,
-      "Против всех": 10
+      "gas:candidate-vibid:210200072671": 3,
+      "gas:candidate-vibid:1001000190281": 2,
+      "gas:candidate-vibid:1001000113896": 13,
+      "gas:candidate-vibid:1001000112179": 21,
+      "gas:candidate-vibid:1001000225878": 236,
+      "gas:candidate-vibid:1001000195025": 1,
+      "gas:candidate-vibid:1001000121792": 17,
+      "gas:candidate-vibid:1001000201797": 1,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073031&region=0&sub_region=0&type=429",
@@ -4682,15 +4682,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 1,
-      "Лиминчук Владимир Илларионович": 0,
-      "Мяки Артур Элденович": 2,
-      "Петеляева Ирина Владимировна": 1,
-      "Пивненко Валентина Николаевна": 28,
-      "Потиевский Виктор Александрович": 1,
-      "Тюков Борис Иванович": 0,
-      "Шилик Владимир Ильич": 2,
-      "Против всех": 8
+      "gas:candidate-vibid:210200072671": 1,
+      "gas:candidate-vibid:1001000190281": 0,
+      "gas:candidate-vibid:1001000113896": 2,
+      "gas:candidate-vibid:1001000112179": 1,
+      "gas:candidate-vibid:1001000225878": 28,
+      "gas:candidate-vibid:1001000195025": 1,
+      "gas:candidate-vibid:1001000121792": 0,
+      "gas:candidate-vibid:1001000201797": 2,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073031&region=0&sub_region=0&type=429",
@@ -4740,15 +4740,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 21,
-      "Лиминчук Владимир Илларионович": 25,
-      "Мяки Артур Элденович": 151,
-      "Петеляева Ирина Владимировна": 168,
-      "Пивненко Валентина Николаевна": 531,
-      "Потиевский Виктор Александрович": 5,
-      "Тюков Борис Иванович": 97,
-      "Шилик Владимир Ильич": 1,
-      "Против всех": 117
+      "gas:candidate-vibid:210200072671": 21,
+      "gas:candidate-vibid:1001000190281": 25,
+      "gas:candidate-vibid:1001000113896": 151,
+      "gas:candidate-vibid:1001000112179": 168,
+      "gas:candidate-vibid:1001000225878": 531,
+      "gas:candidate-vibid:1001000195025": 5,
+      "gas:candidate-vibid:1001000121792": 97,
+      "gas:candidate-vibid:1001000201797": 1,
+      "special:against-all": 117
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073033&region=0&sub_region=0&type=429",
@@ -4798,15 +4798,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 26,
-      "Лиминчук Владимир Илларионович": 19,
-      "Мяки Артур Элденович": 92,
-      "Петеляева Ирина Владимировна": 143,
-      "Пивненко Валентина Николаевна": 481,
-      "Потиевский Виктор Александрович": 5,
-      "Тюков Борис Иванович": 70,
-      "Шилик Владимир Ильич": 3,
-      "Против всех": 79
+      "gas:candidate-vibid:210200072671": 26,
+      "gas:candidate-vibid:1001000190281": 19,
+      "gas:candidate-vibid:1001000113896": 92,
+      "gas:candidate-vibid:1001000112179": 143,
+      "gas:candidate-vibid:1001000225878": 481,
+      "gas:candidate-vibid:1001000195025": 5,
+      "gas:candidate-vibid:1001000121792": 70,
+      "gas:candidate-vibid:1001000201797": 3,
+      "special:against-all": 79
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073033&region=0&sub_region=0&type=429",
@@ -4856,15 +4856,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 7,
-      "Лиминчук Владимир Илларионович": 3,
-      "Мяки Артур Элденович": 72,
-      "Петеляева Ирина Владимировна": 54,
-      "Пивненко Валентина Николаевна": 215,
-      "Потиевский Виктор Александрович": 1,
-      "Тюков Борис Иванович": 12,
-      "Шилик Владимир Ильич": 0,
-      "Против всех": 18
+      "gas:candidate-vibid:210200072671": 7,
+      "gas:candidate-vibid:1001000190281": 3,
+      "gas:candidate-vibid:1001000113896": 72,
+      "gas:candidate-vibid:1001000112179": 54,
+      "gas:candidate-vibid:1001000225878": 215,
+      "gas:candidate-vibid:1001000195025": 1,
+      "gas:candidate-vibid:1001000121792": 12,
+      "gas:candidate-vibid:1001000201797": 0,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073033&region=0&sub_region=0&type=429",
@@ -4914,15 +4914,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 0,
-      "Лиминчук Владимир Илларионович": 1,
-      "Мяки Артур Элденович": 4,
-      "Петеляева Ирина Владимировна": 72,
-      "Пивненко Валентина Николаевна": 272,
-      "Потиевский Виктор Александрович": 0,
-      "Тюков Борис Иванович": 3,
-      "Шилик Владимир Ильич": 2,
-      "Против всех": 26
+      "gas:candidate-vibid:210200072671": 0,
+      "gas:candidate-vibid:1001000190281": 1,
+      "gas:candidate-vibid:1001000113896": 4,
+      "gas:candidate-vibid:1001000112179": 72,
+      "gas:candidate-vibid:1001000225878": 272,
+      "gas:candidate-vibid:1001000195025": 0,
+      "gas:candidate-vibid:1001000121792": 3,
+      "gas:candidate-vibid:1001000201797": 2,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073033&region=0&sub_region=0&type=429",
@@ -4972,15 +4972,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 2,
-      "Лиминчук Владимир Илларионович": 0,
-      "Мяки Артур Элденович": 1,
-      "Петеляева Ирина Владимировна": 3,
-      "Пивненко Валентина Николаевна": 17,
-      "Потиевский Виктор Александрович": 0,
-      "Тюков Борис Иванович": 8,
-      "Шилик Владимир Ильич": 1,
-      "Против всех": 4
+      "gas:candidate-vibid:210200072671": 2,
+      "gas:candidate-vibid:1001000190281": 0,
+      "gas:candidate-vibid:1001000113896": 1,
+      "gas:candidate-vibid:1001000112179": 3,
+      "gas:candidate-vibid:1001000225878": 17,
+      "gas:candidate-vibid:1001000195025": 0,
+      "gas:candidate-vibid:1001000121792": 8,
+      "gas:candidate-vibid:1001000201797": 1,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073033&region=0&sub_region=0&type=429",
@@ -5030,15 +5030,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 17,
-      "Лиминчук Владимир Илларионович": 3,
-      "Мяки Артур Элденович": 64,
-      "Петеляева Ирина Владимировна": 147,
-      "Пивненко Валентина Николаевна": 935,
-      "Потиевский Виктор Александрович": 5,
-      "Тюков Борис Иванович": 49,
-      "Шилик Владимир Ильич": 3,
-      "Против всех": 136
+      "gas:candidate-vibid:210200072671": 17,
+      "gas:candidate-vibid:1001000190281": 3,
+      "gas:candidate-vibid:1001000113896": 64,
+      "gas:candidate-vibid:1001000112179": 147,
+      "gas:candidate-vibid:1001000225878": 935,
+      "gas:candidate-vibid:1001000195025": 5,
+      "gas:candidate-vibid:1001000121792": 49,
+      "gas:candidate-vibid:1001000201797": 3,
+      "special:against-all": 136
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073033&region=0&sub_region=0&type=429",
@@ -5088,15 +5088,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 4,
-      "Лиминчук Владимир Илларионович": 0,
-      "Мяки Артур Элденович": 11,
-      "Петеляева Ирина Владимировна": 17,
-      "Пивненко Валентина Николаевна": 160,
-      "Потиевский Виктор Александрович": 0,
-      "Тюков Борис Иванович": 9,
-      "Шилик Владимир Ильич": 2,
-      "Против всех": 16
+      "gas:candidate-vibid:210200072671": 4,
+      "gas:candidate-vibid:1001000190281": 0,
+      "gas:candidate-vibid:1001000113896": 11,
+      "gas:candidate-vibid:1001000112179": 17,
+      "gas:candidate-vibid:1001000225878": 160,
+      "gas:candidate-vibid:1001000195025": 0,
+      "gas:candidate-vibid:1001000121792": 9,
+      "gas:candidate-vibid:1001000201797": 2,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073033&region=0&sub_region=0&type=429",
@@ -5146,15 +5146,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 3,
-      "Лиминчук Владимир Илларионович": 2,
-      "Мяки Артур Элденович": 3,
-      "Петеляева Ирина Владимировна": 9,
-      "Пивненко Валентина Николаевна": 190,
-      "Потиевский Виктор Александрович": 3,
-      "Тюков Борис Иванович": 3,
-      "Шилик Владимир Ильич": 2,
-      "Против всех": 12
+      "gas:candidate-vibid:210200072671": 3,
+      "gas:candidate-vibid:1001000190281": 2,
+      "gas:candidate-vibid:1001000113896": 3,
+      "gas:candidate-vibid:1001000112179": 9,
+      "gas:candidate-vibid:1001000225878": 190,
+      "gas:candidate-vibid:1001000195025": 3,
+      "gas:candidate-vibid:1001000121792": 3,
+      "gas:candidate-vibid:1001000201797": 2,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073033&region=0&sub_region=0&type=429",
@@ -5204,15 +5204,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 8,
-      "Лиминчук Владимир Илларионович": 4,
-      "Мяки Артур Элденович": 56,
-      "Петеляева Ирина Владимировна": 83,
-      "Пивненко Валентина Николаевна": 496,
-      "Потиевский Виктор Александрович": 8,
-      "Тюков Борис Иванович": 56,
-      "Шилик Владимир Ильич": 2,
-      "Против всех": 46
+      "gas:candidate-vibid:210200072671": 8,
+      "gas:candidate-vibid:1001000190281": 4,
+      "gas:candidate-vibid:1001000113896": 56,
+      "gas:candidate-vibid:1001000112179": 83,
+      "gas:candidate-vibid:1001000225878": 496,
+      "gas:candidate-vibid:1001000195025": 8,
+      "gas:candidate-vibid:1001000121792": 56,
+      "gas:candidate-vibid:1001000201797": 2,
+      "special:against-all": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073033&region=0&sub_region=0&type=429",
@@ -5262,15 +5262,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 6,
-      "Лиминчук Владимир Илларионович": 1,
-      "Мяки Артур Элденович": 9,
-      "Петеляева Ирина Владимировна": 41,
-      "Пивненко Валентина Николаевна": 223,
-      "Потиевский Виктор Александрович": 2,
-      "Тюков Борис Иванович": 41,
-      "Шилик Владимир Ильич": 0,
-      "Против всех": 19
+      "gas:candidate-vibid:210200072671": 6,
+      "gas:candidate-vibid:1001000190281": 1,
+      "gas:candidate-vibid:1001000113896": 9,
+      "gas:candidate-vibid:1001000112179": 41,
+      "gas:candidate-vibid:1001000225878": 223,
+      "gas:candidate-vibid:1001000195025": 2,
+      "gas:candidate-vibid:1001000121792": 41,
+      "gas:candidate-vibid:1001000201797": 0,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073033&region=0&sub_region=0&type=429",
@@ -5320,15 +5320,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 3,
-      "Лиминчук Владимир Илларионович": 0,
-      "Мяки Артур Элденович": 0,
-      "Петеляева Ирина Владимировна": 8,
-      "Пивненко Валентина Николаевна": 65,
-      "Потиевский Виктор Александрович": 0,
-      "Тюков Борис Иванович": 8,
-      "Шилик Владимир Ильич": 1,
-      "Против всех": 13
+      "gas:candidate-vibid:210200072671": 3,
+      "gas:candidate-vibid:1001000190281": 0,
+      "gas:candidate-vibid:1001000113896": 0,
+      "gas:candidate-vibid:1001000112179": 8,
+      "gas:candidate-vibid:1001000225878": 65,
+      "gas:candidate-vibid:1001000195025": 0,
+      "gas:candidate-vibid:1001000121792": 8,
+      "gas:candidate-vibid:1001000201797": 1,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073033&region=0&sub_region=0&type=429",
@@ -5378,15 +5378,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 1,
-      "Лиминчук Владимир Илларионович": 0,
-      "Мяки Артур Элденович": 4,
-      "Петеляева Ирина Владимировна": 12,
-      "Пивненко Валентина Николаевна": 181,
-      "Потиевский Виктор Александрович": 3,
-      "Тюков Борис Иванович": 11,
-      "Шилик Владимир Ильич": 0,
-      "Против всех": 14
+      "gas:candidate-vibid:210200072671": 1,
+      "gas:candidate-vibid:1001000190281": 0,
+      "gas:candidate-vibid:1001000113896": 4,
+      "gas:candidate-vibid:1001000112179": 12,
+      "gas:candidate-vibid:1001000225878": 181,
+      "gas:candidate-vibid:1001000195025": 3,
+      "gas:candidate-vibid:1001000121792": 11,
+      "gas:candidate-vibid:1001000201797": 0,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073033&region=0&sub_region=0&type=429",
@@ -5436,15 +5436,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 4,
-      "Лиминчук Владимир Илларионович": 1,
-      "Мяки Артур Элденович": 7,
-      "Петеляева Ирина Владимировна": 9,
-      "Пивненко Валентина Николаевна": 127,
-      "Потиевский Виктор Александрович": 2,
-      "Тюков Борис Иванович": 15,
-      "Шилик Владимир Ильич": 0,
-      "Против всех": 8
+      "gas:candidate-vibid:210200072671": 4,
+      "gas:candidate-vibid:1001000190281": 1,
+      "gas:candidate-vibid:1001000113896": 7,
+      "gas:candidate-vibid:1001000112179": 9,
+      "gas:candidate-vibid:1001000225878": 127,
+      "gas:candidate-vibid:1001000195025": 2,
+      "gas:candidate-vibid:1001000121792": 15,
+      "gas:candidate-vibid:1001000201797": 0,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073033&region=0&sub_region=0&type=429",
@@ -5494,15 +5494,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 3,
-      "Лиминчук Владимир Илларионович": 5,
-      "Мяки Артур Элденович": 25,
-      "Петеляева Ирина Владимировна": 45,
-      "Пивненко Валентина Николаевна": 136,
-      "Потиевский Виктор Александрович": 2,
-      "Тюков Борис Иванович": 16,
-      "Шилик Владимир Ильич": 0,
-      "Против всех": 24
+      "gas:candidate-vibid:210200072671": 3,
+      "gas:candidate-vibid:1001000190281": 5,
+      "gas:candidate-vibid:1001000113896": 25,
+      "gas:candidate-vibid:1001000112179": 45,
+      "gas:candidate-vibid:1001000225878": 136,
+      "gas:candidate-vibid:1001000195025": 2,
+      "gas:candidate-vibid:1001000121792": 16,
+      "gas:candidate-vibid:1001000201797": 0,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073033&region=0&sub_region=0&type=429",
@@ -5552,15 +5552,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 11,
-      "Лиминчук Владимир Илларионович": 5,
-      "Мяки Артур Элденович": 45,
-      "Петеляева Ирина Владимировна": 183,
-      "Пивненко Валентина Николаевна": 464,
-      "Потиевский Виктор Александрович": 2,
-      "Тюков Борис Иванович": 42,
-      "Шилик Владимир Ильич": 1,
-      "Против всех": 56
+      "gas:candidate-vibid:210200072671": 11,
+      "gas:candidate-vibid:1001000190281": 5,
+      "gas:candidate-vibid:1001000113896": 45,
+      "gas:candidate-vibid:1001000112179": 183,
+      "gas:candidate-vibid:1001000225878": 464,
+      "gas:candidate-vibid:1001000195025": 2,
+      "gas:candidate-vibid:1001000121792": 42,
+      "gas:candidate-vibid:1001000201797": 1,
+      "special:against-all": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073033&region=0&sub_region=0&type=429",
@@ -5610,15 +5610,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 12,
-      "Лиминчук Владимир Илларионович": 1,
-      "Мяки Артур Элденович": 58,
-      "Петеляева Ирина Владимировна": 118,
-      "Пивненко Валентина Николаевна": 446,
-      "Потиевский Виктор Александрович": 8,
-      "Тюков Борис Иванович": 50,
-      "Шилик Владимир Ильич": 0,
-      "Против всех": 58
+      "gas:candidate-vibid:210200072671": 12,
+      "gas:candidate-vibid:1001000190281": 1,
+      "gas:candidate-vibid:1001000113896": 58,
+      "gas:candidate-vibid:1001000112179": 118,
+      "gas:candidate-vibid:1001000225878": 446,
+      "gas:candidate-vibid:1001000195025": 8,
+      "gas:candidate-vibid:1001000121792": 50,
+      "gas:candidate-vibid:1001000201797": 0,
+      "special:against-all": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073033&region=0&sub_region=0&type=429",
@@ -5668,15 +5668,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 3,
-      "Лиминчук Владимир Илларионович": 0,
-      "Мяки Артур Элденович": 5,
-      "Петеляева Ирина Владимировна": 18,
-      "Пивненко Валентина Николаевна": 185,
-      "Потиевский Виктор Александрович": 2,
-      "Тюков Борис Иванович": 8,
-      "Шилик Владимир Ильич": 1,
-      "Против всех": 9
+      "gas:candidate-vibid:210200072671": 3,
+      "gas:candidate-vibid:1001000190281": 0,
+      "gas:candidate-vibid:1001000113896": 5,
+      "gas:candidate-vibid:1001000112179": 18,
+      "gas:candidate-vibid:1001000225878": 185,
+      "gas:candidate-vibid:1001000195025": 2,
+      "gas:candidate-vibid:1001000121792": 8,
+      "gas:candidate-vibid:1001000201797": 1,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073033&region=0&sub_region=0&type=429",
@@ -5726,15 +5726,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 1,
-      "Лиминчук Владимир Илларионович": 0,
-      "Мяки Артур Элденович": 1,
-      "Петеляева Ирина Владимировна": 6,
-      "Пивненко Валентина Николаевна": 35,
-      "Потиевский Виктор Александрович": 1,
-      "Тюков Борис Иванович": 15,
-      "Шилик Владимир Ильич": 1,
-      "Против всех": 3
+      "gas:candidate-vibid:210200072671": 1,
+      "gas:candidate-vibid:1001000190281": 0,
+      "gas:candidate-vibid:1001000113896": 1,
+      "gas:candidate-vibid:1001000112179": 6,
+      "gas:candidate-vibid:1001000225878": 35,
+      "gas:candidate-vibid:1001000195025": 1,
+      "gas:candidate-vibid:1001000121792": 15,
+      "gas:candidate-vibid:1001000201797": 1,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073033&region=0&sub_region=0&type=429",
@@ -5784,15 +5784,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 7,
-      "Лиминчук Владимир Илларионович": 6,
-      "Мяки Артур Элденович": 78,
-      "Петеляева Ирина Владимировна": 131,
-      "Пивненко Валентина Николаевна": 373,
-      "Потиевский Виктор Александрович": 3,
-      "Тюков Борис Иванович": 52,
-      "Шилик Владимир Ильич": 5,
-      "Против всех": 53
+      "gas:candidate-vibid:210200072671": 7,
+      "gas:candidate-vibid:1001000190281": 6,
+      "gas:candidate-vibid:1001000113896": 78,
+      "gas:candidate-vibid:1001000112179": 131,
+      "gas:candidate-vibid:1001000225878": 373,
+      "gas:candidate-vibid:1001000195025": 3,
+      "gas:candidate-vibid:1001000121792": 52,
+      "gas:candidate-vibid:1001000201797": 5,
+      "special:against-all": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073034&region=0&sub_region=0&type=429",
@@ -5842,15 +5842,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 8,
-      "Лиминчук Владимир Илларионович": 1,
-      "Мяки Артур Элденович": 100,
-      "Петеляева Ирина Владимировна": 113,
-      "Пивненко Валентина Николаевна": 282,
-      "Потиевский Виктор Александрович": 4,
-      "Тюков Борис Иванович": 37,
-      "Шилик Владимир Ильич": 1,
-      "Против всех": 58
+      "gas:candidate-vibid:210200072671": 8,
+      "gas:candidate-vibid:1001000190281": 1,
+      "gas:candidate-vibid:1001000113896": 100,
+      "gas:candidate-vibid:1001000112179": 113,
+      "gas:candidate-vibid:1001000225878": 282,
+      "gas:candidate-vibid:1001000195025": 4,
+      "gas:candidate-vibid:1001000121792": 37,
+      "gas:candidate-vibid:1001000201797": 1,
+      "special:against-all": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073034&region=0&sub_region=0&type=429",
@@ -5900,15 +5900,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 8,
-      "Лиминчук Владимир Илларионович": 6,
-      "Мяки Артур Элденович": 67,
-      "Петеляева Ирина Владимировна": 163,
-      "Пивненко Валентина Николаевна": 327,
-      "Потиевский Виктор Александрович": 4,
-      "Тюков Борис Иванович": 49,
-      "Шилик Владимир Ильич": 7,
-      "Против всех": 54
+      "gas:candidate-vibid:210200072671": 8,
+      "gas:candidate-vibid:1001000190281": 6,
+      "gas:candidate-vibid:1001000113896": 67,
+      "gas:candidate-vibid:1001000112179": 163,
+      "gas:candidate-vibid:1001000225878": 327,
+      "gas:candidate-vibid:1001000195025": 4,
+      "gas:candidate-vibid:1001000121792": 49,
+      "gas:candidate-vibid:1001000201797": 7,
+      "special:against-all": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073034&region=0&sub_region=0&type=429",
@@ -5958,15 +5958,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 3,
-      "Лиминчук Владимир Илларионович": 7,
-      "Мяки Артур Элденович": 34,
-      "Петеляева Ирина Владимировна": 74,
-      "Пивненко Валентина Николаевна": 177,
-      "Потиевский Виктор Александрович": 0,
-      "Тюков Борис Иванович": 26,
-      "Шилик Владимир Ильич": 2,
-      "Против всех": 43
+      "gas:candidate-vibid:210200072671": 3,
+      "gas:candidate-vibid:1001000190281": 7,
+      "gas:candidate-vibid:1001000113896": 34,
+      "gas:candidate-vibid:1001000112179": 74,
+      "gas:candidate-vibid:1001000225878": 177,
+      "gas:candidate-vibid:1001000195025": 0,
+      "gas:candidate-vibid:1001000121792": 26,
+      "gas:candidate-vibid:1001000201797": 2,
+      "special:against-all": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073034&region=0&sub_region=0&type=429",
@@ -6016,15 +6016,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 1,
-      "Лиминчук Владимир Илларионович": 9,
-      "Мяки Артур Элденович": 22,
-      "Петеляева Ирина Владимировна": 38,
-      "Пивненко Валентина Николаевна": 160,
-      "Потиевский Виктор Александрович": 1,
-      "Тюков Борис Иванович": 10,
-      "Шилик Владимир Ильич": 3,
-      "Против всех": 26
+      "gas:candidate-vibid:210200072671": 1,
+      "gas:candidate-vibid:1001000190281": 9,
+      "gas:candidate-vibid:1001000113896": 22,
+      "gas:candidate-vibid:1001000112179": 38,
+      "gas:candidate-vibid:1001000225878": 160,
+      "gas:candidate-vibid:1001000195025": 1,
+      "gas:candidate-vibid:1001000121792": 10,
+      "gas:candidate-vibid:1001000201797": 3,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073034&region=0&sub_region=0&type=429",
@@ -6074,15 +6074,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 1,
-      "Лиминчук Владимир Илларионович": 3,
-      "Мяки Артур Элденович": 20,
-      "Петеляева Ирина Владимировна": 46,
-      "Пивненко Валентина Николаевна": 167,
-      "Потиевский Виктор Александрович": 0,
-      "Тюков Борис Иванович": 7,
-      "Шилик Владимир Ильич": 1,
-      "Против всех": 18
+      "gas:candidate-vibid:210200072671": 1,
+      "gas:candidate-vibid:1001000190281": 3,
+      "gas:candidate-vibid:1001000113896": 20,
+      "gas:candidate-vibid:1001000112179": 46,
+      "gas:candidate-vibid:1001000225878": 167,
+      "gas:candidate-vibid:1001000195025": 0,
+      "gas:candidate-vibid:1001000121792": 7,
+      "gas:candidate-vibid:1001000201797": 1,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073034&region=0&sub_region=0&type=429",
@@ -6132,15 +6132,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 17,
-      "Лиминчук Владимир Илларионович": 6,
-      "Мяки Артур Элденович": 72,
-      "Петеляева Ирина Владимировна": 112,
-      "Пивненко Валентина Николаевна": 260,
-      "Потиевский Виктор Александрович": 4,
-      "Тюков Борис Иванович": 25,
-      "Шилик Владимир Ильич": 3,
-      "Против всех": 57
+      "gas:candidate-vibid:210200072671": 17,
+      "gas:candidate-vibid:1001000190281": 6,
+      "gas:candidate-vibid:1001000113896": 72,
+      "gas:candidate-vibid:1001000112179": 112,
+      "gas:candidate-vibid:1001000225878": 260,
+      "gas:candidate-vibid:1001000195025": 4,
+      "gas:candidate-vibid:1001000121792": 25,
+      "gas:candidate-vibid:1001000201797": 3,
+      "special:against-all": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073034&region=0&sub_region=0&type=429",
@@ -6190,15 +6190,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 0,
-      "Лиминчук Владимир Илларионович": 0,
-      "Мяки Артур Элденович": 4,
-      "Петеляева Ирина Владимировна": 14,
-      "Пивненко Валентина Николаевна": 51,
-      "Потиевский Виктор Александрович": 0,
-      "Тюков Борис Иванович": 1,
-      "Шилик Владимир Ильич": 1,
-      "Против всех": 5
+      "gas:candidate-vibid:210200072671": 0,
+      "gas:candidate-vibid:1001000190281": 0,
+      "gas:candidate-vibid:1001000113896": 4,
+      "gas:candidate-vibid:1001000112179": 14,
+      "gas:candidate-vibid:1001000225878": 51,
+      "gas:candidate-vibid:1001000195025": 0,
+      "gas:candidate-vibid:1001000121792": 1,
+      "gas:candidate-vibid:1001000201797": 1,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073034&region=0&sub_region=0&type=429",
@@ -6248,15 +6248,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 0,
-      "Лиминчук Владимир Илларионович": 2,
-      "Мяки Артур Элденович": 20,
-      "Петеляева Ирина Владимировна": 48,
-      "Пивненко Валентина Николаевна": 121,
-      "Потиевский Виктор Александрович": 0,
-      "Тюков Борис Иванович": 11,
-      "Шилик Владимир Ильич": 0,
-      "Против всех": 19
+      "gas:candidate-vibid:210200072671": 0,
+      "gas:candidate-vibid:1001000190281": 2,
+      "gas:candidate-vibid:1001000113896": 20,
+      "gas:candidate-vibid:1001000112179": 48,
+      "gas:candidate-vibid:1001000225878": 121,
+      "gas:candidate-vibid:1001000195025": 0,
+      "gas:candidate-vibid:1001000121792": 11,
+      "gas:candidate-vibid:1001000201797": 0,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073034&region=0&sub_region=0&type=429",
@@ -6306,15 +6306,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 1,
-      "Лиминчук Владимир Илларионович": 3,
-      "Мяки Артур Элденович": 44,
-      "Петеляева Ирина Владимировна": 0,
-      "Пивненко Валентина Николаевна": 3,
-      "Потиевский Виктор Александрович": 0,
-      "Тюков Борис Иванович": 0,
-      "Шилик Владимир Ильич": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:210200072671": 1,
+      "gas:candidate-vibid:1001000190281": 3,
+      "gas:candidate-vibid:1001000113896": 44,
+      "gas:candidate-vibid:1001000112179": 0,
+      "gas:candidate-vibid:1001000225878": 3,
+      "gas:candidate-vibid:1001000195025": 0,
+      "gas:candidate-vibid:1001000121792": 0,
+      "gas:candidate-vibid:1001000201797": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073034&region=0&sub_region=0&type=429",
@@ -6364,15 +6364,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 0,
-      "Лиминчук Владимир Илларионович": 2,
-      "Мяки Артур Элденович": 4,
-      "Петеляева Ирина Владимировна": 4,
-      "Пивненко Валентина Николаевна": 74,
-      "Потиевский Виктор Александрович": 1,
-      "Тюков Борис Иванович": 2,
-      "Шилик Владимир Ильич": 0,
-      "Против всех": 7
+      "gas:candidate-vibid:210200072671": 0,
+      "gas:candidate-vibid:1001000190281": 2,
+      "gas:candidate-vibid:1001000113896": 4,
+      "gas:candidate-vibid:1001000112179": 4,
+      "gas:candidate-vibid:1001000225878": 74,
+      "gas:candidate-vibid:1001000195025": 1,
+      "gas:candidate-vibid:1001000121792": 2,
+      "gas:candidate-vibid:1001000201797": 0,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073034&region=0&sub_region=0&type=429",
@@ -6422,15 +6422,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 9,
-      "Лиминчук Владимир Илларионович": 7,
-      "Мяки Артур Элденович": 63,
-      "Петеляева Ирина Владимировна": 73,
-      "Пивненко Валентина Николаевна": 220,
-      "Потиевский Виктор Александрович": 4,
-      "Тюков Борис Иванович": 34,
-      "Шилик Владимир Ильич": 4,
-      "Против всех": 45
+      "gas:candidate-vibid:210200072671": 9,
+      "gas:candidate-vibid:1001000190281": 7,
+      "gas:candidate-vibid:1001000113896": 63,
+      "gas:candidate-vibid:1001000112179": 73,
+      "gas:candidate-vibid:1001000225878": 220,
+      "gas:candidate-vibid:1001000195025": 4,
+      "gas:candidate-vibid:1001000121792": 34,
+      "gas:candidate-vibid:1001000201797": 4,
+      "special:against-all": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073034&region=0&sub_region=0&type=429",
@@ -6480,15 +6480,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 2,
-      "Лиминчук Владимир Илларионович": 2,
-      "Мяки Артур Элденович": 11,
-      "Петеляева Ирина Владимировна": 12,
-      "Пивненко Валентина Николаевна": 60,
-      "Потиевский Виктор Александрович": 1,
-      "Тюков Борис Иванович": 2,
-      "Шилик Владимир Ильич": 1,
-      "Против всех": 16
+      "gas:candidate-vibid:210200072671": 2,
+      "gas:candidate-vibid:1001000190281": 2,
+      "gas:candidate-vibid:1001000113896": 11,
+      "gas:candidate-vibid:1001000112179": 12,
+      "gas:candidate-vibid:1001000225878": 60,
+      "gas:candidate-vibid:1001000195025": 1,
+      "gas:candidate-vibid:1001000121792": 2,
+      "gas:candidate-vibid:1001000201797": 1,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073034&region=0&sub_region=0&type=429",
@@ -6538,15 +6538,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 8,
-      "Лиминчук Владимир Илларионович": 1,
-      "Мяки Артур Элденович": 22,
-      "Петеляева Ирина Владимировна": 100,
-      "Пивненко Валентина Николаевна": 176,
-      "Потиевский Виктор Александрович": 1,
-      "Тюков Борис Иванович": 32,
-      "Шилик Владимир Ильич": 2,
-      "Против всех": 29
+      "gas:candidate-vibid:210200072671": 8,
+      "gas:candidate-vibid:1001000190281": 1,
+      "gas:candidate-vibid:1001000113896": 22,
+      "gas:candidate-vibid:1001000112179": 100,
+      "gas:candidate-vibid:1001000225878": 176,
+      "gas:candidate-vibid:1001000195025": 1,
+      "gas:candidate-vibid:1001000121792": 32,
+      "gas:candidate-vibid:1001000201797": 2,
+      "special:against-all": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073034&region=0&sub_region=0&type=429",
@@ -6596,15 +6596,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 4,
-      "Лиминчук Владимир Илларионович": 1,
-      "Мяки Артур Элденович": 4,
-      "Петеляева Ирина Владимировна": 66,
-      "Пивненко Валентина Николаевна": 92,
-      "Потиевский Виктор Александрович": 0,
-      "Тюков Борис Иванович": 15,
-      "Шилик Владимир Ильич": 0,
-      "Против всех": 7
+      "gas:candidate-vibid:210200072671": 4,
+      "gas:candidate-vibid:1001000190281": 1,
+      "gas:candidate-vibid:1001000113896": 4,
+      "gas:candidate-vibid:1001000112179": 66,
+      "gas:candidate-vibid:1001000225878": 92,
+      "gas:candidate-vibid:1001000195025": 0,
+      "gas:candidate-vibid:1001000121792": 15,
+      "gas:candidate-vibid:1001000201797": 0,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073034&region=0&sub_region=0&type=429",
@@ -6654,15 +6654,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 2,
-      "Лиминчук Владимир Илларионович": 2,
-      "Мяки Артур Элденович": 3,
-      "Петеляева Ирина Владимировна": 39,
-      "Пивненко Валентина Николаевна": 53,
-      "Потиевский Виктор Александрович": 0,
-      "Тюков Борис Иванович": 4,
-      "Шилик Владимир Ильич": 0,
-      "Против всех": 6
+      "gas:candidate-vibid:210200072671": 2,
+      "gas:candidate-vibid:1001000190281": 2,
+      "gas:candidate-vibid:1001000113896": 3,
+      "gas:candidate-vibid:1001000112179": 39,
+      "gas:candidate-vibid:1001000225878": 53,
+      "gas:candidate-vibid:1001000195025": 0,
+      "gas:candidate-vibid:1001000121792": 4,
+      "gas:candidate-vibid:1001000201797": 0,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073034&region=0&sub_region=0&type=429",
@@ -6712,15 +6712,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 1,
-      "Лиминчук Владимир Илларионович": 0,
-      "Мяки Артур Элденович": 0,
-      "Петеляева Ирина Владимировна": 14,
-      "Пивненко Валентина Николаевна": 23,
-      "Потиевский Виктор Александрович": 1,
-      "Тюков Борис Иванович": 5,
-      "Шилик Владимир Ильич": 0,
-      "Против всех": 7
+      "gas:candidate-vibid:210200072671": 1,
+      "gas:candidate-vibid:1001000190281": 0,
+      "gas:candidate-vibid:1001000113896": 0,
+      "gas:candidate-vibid:1001000112179": 14,
+      "gas:candidate-vibid:1001000225878": 23,
+      "gas:candidate-vibid:1001000195025": 1,
+      "gas:candidate-vibid:1001000121792": 5,
+      "gas:candidate-vibid:1001000201797": 0,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073034&region=0&sub_region=0&type=429",
@@ -6770,15 +6770,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 4,
-      "Лиминчук Владимир Илларионович": 5,
-      "Мяки Артур Элденович": 36,
-      "Петеляева Ирина Владимировна": 39,
-      "Пивненко Валентина Николаевна": 239,
-      "Потиевский Виктор Александрович": 2,
-      "Тюков Борис Иванович": 14,
-      "Шилик Владимир Ильич": 1,
-      "Против всех": 8
+      "gas:candidate-vibid:210200072671": 4,
+      "gas:candidate-vibid:1001000190281": 5,
+      "gas:candidate-vibid:1001000113896": 36,
+      "gas:candidate-vibid:1001000112179": 39,
+      "gas:candidate-vibid:1001000225878": 239,
+      "gas:candidate-vibid:1001000195025": 2,
+      "gas:candidate-vibid:1001000121792": 14,
+      "gas:candidate-vibid:1001000201797": 1,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073034&region=0&sub_region=0&type=429",
@@ -6828,15 +6828,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 4,
-      "Лиминчук Владимир Илларионович": 0,
-      "Мяки Артур Элденович": 31,
-      "Петеляева Ирина Владимировна": 16,
-      "Пивненко Валентина Николаевна": 166,
-      "Потиевский Виктор Александрович": 1,
-      "Тюков Борис Иванович": 18,
-      "Шилик Владимир Ильич": 1,
-      "Против всех": 12
+      "gas:candidate-vibid:210200072671": 4,
+      "gas:candidate-vibid:1001000190281": 0,
+      "gas:candidate-vibid:1001000113896": 31,
+      "gas:candidate-vibid:1001000112179": 16,
+      "gas:candidate-vibid:1001000225878": 166,
+      "gas:candidate-vibid:1001000195025": 1,
+      "gas:candidate-vibid:1001000121792": 18,
+      "gas:candidate-vibid:1001000201797": 1,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073034&region=0&sub_region=0&type=429",
@@ -6886,15 +6886,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 3,
-      "Лиминчук Владимир Илларионович": 0,
-      "Мяки Артур Элденович": 3,
-      "Петеляева Ирина Владимировна": 3,
-      "Пивненко Валентина Николаевна": 27,
-      "Потиевский Виктор Александрович": 2,
-      "Тюков Борис Иванович": 3,
-      "Шилик Владимир Ильич": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:210200072671": 3,
+      "gas:candidate-vibid:1001000190281": 0,
+      "gas:candidate-vibid:1001000113896": 3,
+      "gas:candidate-vibid:1001000112179": 3,
+      "gas:candidate-vibid:1001000225878": 27,
+      "gas:candidate-vibid:1001000195025": 2,
+      "gas:candidate-vibid:1001000121792": 3,
+      "gas:candidate-vibid:1001000201797": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073034&region=0&sub_region=0&type=429",
@@ -6944,15 +6944,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 1,
-      "Лиминчук Владимир Илларионович": 1,
-      "Мяки Артур Элденович": 7,
-      "Петеляева Ирина Владимировна": 3,
-      "Пивненко Валентина Николаевна": 51,
-      "Потиевский Виктор Александрович": 1,
-      "Тюков Борис Иванович": 2,
-      "Шилик Владимир Ильич": 0,
-      "Против всех": 4
+      "gas:candidate-vibid:210200072671": 1,
+      "gas:candidate-vibid:1001000190281": 1,
+      "gas:candidate-vibid:1001000113896": 7,
+      "gas:candidate-vibid:1001000112179": 3,
+      "gas:candidate-vibid:1001000225878": 51,
+      "gas:candidate-vibid:1001000195025": 1,
+      "gas:candidate-vibid:1001000121792": 2,
+      "gas:candidate-vibid:1001000201797": 0,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073034&region=0&sub_region=0&type=429",
@@ -7002,15 +7002,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 0,
-      "Лиминчук Владимир Илларионович": 0,
-      "Мяки Артур Элденович": 2,
-      "Петеляева Ирина Владимировна": 8,
-      "Пивненко Валентина Николаевна": 44,
-      "Потиевский Виктор Александрович": 0,
-      "Тюков Борис Иванович": 5,
-      "Шилик Владимир Ильич": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:210200072671": 0,
+      "gas:candidate-vibid:1001000190281": 0,
+      "gas:candidate-vibid:1001000113896": 2,
+      "gas:candidate-vibid:1001000112179": 8,
+      "gas:candidate-vibid:1001000225878": 44,
+      "gas:candidate-vibid:1001000195025": 0,
+      "gas:candidate-vibid:1001000121792": 5,
+      "gas:candidate-vibid:1001000201797": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073034&region=0&sub_region=0&type=429",
@@ -7060,15 +7060,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 6,
-      "Лиминчук Владимир Илларионович": 3,
-      "Мяки Артур Элденович": 18,
-      "Петеляева Ирина Владимировна": 43,
-      "Пивненко Валентина Николаевна": 229,
-      "Потиевский Виктор Александрович": 3,
-      "Тюков Борис Иванович": 18,
-      "Шилик Владимир Ильич": 0,
-      "Против всех": 15
+      "gas:candidate-vibid:210200072671": 6,
+      "gas:candidate-vibid:1001000190281": 3,
+      "gas:candidate-vibid:1001000113896": 18,
+      "gas:candidate-vibid:1001000112179": 43,
+      "gas:candidate-vibid:1001000225878": 229,
+      "gas:candidate-vibid:1001000195025": 3,
+      "gas:candidate-vibid:1001000121792": 18,
+      "gas:candidate-vibid:1001000201797": 0,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073034&region=0&sub_region=0&type=429",
@@ -7118,15 +7118,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 4,
-      "Лиминчук Владимир Илларионович": 3,
-      "Мяки Артур Элденович": 11,
-      "Петеляева Ирина Владимировна": 45,
-      "Пивненко Валентина Николаевна": 214,
-      "Потиевский Виктор Александрович": 3,
-      "Тюков Борис Иванович": 4,
-      "Шилик Владимир Ильич": 0,
-      "Против всех": 18
+      "gas:candidate-vibid:210200072671": 4,
+      "gas:candidate-vibid:1001000190281": 3,
+      "gas:candidate-vibid:1001000113896": 11,
+      "gas:candidate-vibid:1001000112179": 45,
+      "gas:candidate-vibid:1001000225878": 214,
+      "gas:candidate-vibid:1001000195025": 3,
+      "gas:candidate-vibid:1001000121792": 4,
+      "gas:candidate-vibid:1001000201797": 0,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073034&region=0&sub_region=0&type=429",
@@ -7176,15 +7176,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 11,
-      "Лиминчук Владимир Илларионович": 0,
-      "Мяки Артур Элденович": 10,
-      "Петеляева Ирина Владимировна": 7,
-      "Пивненко Валентина Николаевна": 51,
-      "Потиевский Виктор Александрович": 6,
-      "Тюков Борис Иванович": 3,
-      "Шилик Владимир Ильич": 2,
-      "Против всех": 49
+      "gas:candidate-vibid:210200072671": 11,
+      "gas:candidate-vibid:1001000190281": 0,
+      "gas:candidate-vibid:1001000113896": 10,
+      "gas:candidate-vibid:1001000112179": 7,
+      "gas:candidate-vibid:1001000225878": 51,
+      "gas:candidate-vibid:1001000195025": 6,
+      "gas:candidate-vibid:1001000121792": 3,
+      "gas:candidate-vibid:1001000201797": 2,
+      "special:against-all": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073034&region=0&sub_region=0&type=429",
@@ -7234,15 +7234,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 1,
-      "Лиминчук Владимир Илларионович": 1,
-      "Мяки Артур Элденович": 9,
-      "Петеляева Ирина Владимировна": 4,
-      "Пивненко Валентина Николаевна": 70,
-      "Потиевский Виктор Александрович": 0,
-      "Тюков Борис Иванович": 3,
-      "Шилик Владимир Ильич": 0,
-      "Против всех": 4
+      "gas:candidate-vibid:210200072671": 1,
+      "gas:candidate-vibid:1001000190281": 1,
+      "gas:candidate-vibid:1001000113896": 9,
+      "gas:candidate-vibid:1001000112179": 4,
+      "gas:candidate-vibid:1001000225878": 70,
+      "gas:candidate-vibid:1001000195025": 0,
+      "gas:candidate-vibid:1001000121792": 3,
+      "gas:candidate-vibid:1001000201797": 0,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073034&region=0&sub_region=0&type=429",
@@ -7292,15 +7292,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 8,
-      "Лиминчук Владимир Илларионович": 4,
-      "Мяки Артур Элденович": 5,
-      "Петеляева Ирина Владимировна": 23,
-      "Пивненко Валентина Николаевна": 140,
-      "Потиевский Виктор Александрович": 1,
-      "Тюков Борис Иванович": 5,
-      "Шилик Владимир Ильич": 1,
-      "Против всех": 12
+      "gas:candidate-vibid:210200072671": 8,
+      "gas:candidate-vibid:1001000190281": 4,
+      "gas:candidate-vibid:1001000113896": 5,
+      "gas:candidate-vibid:1001000112179": 23,
+      "gas:candidate-vibid:1001000225878": 140,
+      "gas:candidate-vibid:1001000195025": 1,
+      "gas:candidate-vibid:1001000121792": 5,
+      "gas:candidate-vibid:1001000201797": 1,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073034&region=0&sub_region=0&type=429",
@@ -7350,15 +7350,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 34,
-      "Лиминчук Владимир Илларионович": 6,
-      "Мяки Артур Элденович": 164,
-      "Петеляева Ирина Владимировна": 108,
-      "Пивненко Валентина Николаевна": 958,
-      "Потиевский Виктор Александрович": 14,
-      "Тюков Борис Иванович": 46,
-      "Шилик Владимир Ильич": 7,
-      "Против всех": 150
+      "gas:candidate-vibid:210200072671": 34,
+      "gas:candidate-vibid:1001000190281": 6,
+      "gas:candidate-vibid:1001000113896": 164,
+      "gas:candidate-vibid:1001000112179": 108,
+      "gas:candidate-vibid:1001000225878": 958,
+      "gas:candidate-vibid:1001000195025": 14,
+      "gas:candidate-vibid:1001000121792": 46,
+      "gas:candidate-vibid:1001000201797": 7,
+      "special:against-all": 150
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073035&region=0&sub_region=0&type=429",
@@ -7408,15 +7408,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 30,
-      "Лиминчук Владимир Илларионович": 5,
-      "Мяки Артур Элденович": 172,
-      "Петеляева Ирина Владимировна": 135,
-      "Пивненко Валентина Николаевна": 913,
-      "Потиевский Виктор Александрович": 22,
-      "Тюков Борис Иванович": 53,
-      "Шилик Владимир Ильич": 9,
-      "Против всех": 159
+      "gas:candidate-vibid:210200072671": 30,
+      "gas:candidate-vibid:1001000190281": 5,
+      "gas:candidate-vibid:1001000113896": 172,
+      "gas:candidate-vibid:1001000112179": 135,
+      "gas:candidate-vibid:1001000225878": 913,
+      "gas:candidate-vibid:1001000195025": 22,
+      "gas:candidate-vibid:1001000121792": 53,
+      "gas:candidate-vibid:1001000201797": 9,
+      "special:against-all": 159
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073035&region=0&sub_region=0&type=429",
@@ -7466,15 +7466,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 23,
-      "Лиминчук Владимир Илларионович": 4,
-      "Мяки Артур Элденович": 94,
-      "Петеляева Ирина Владимировна": 63,
-      "Пивненко Валентина Николаевна": 838,
-      "Потиевский Виктор Александрович": 12,
-      "Тюков Борис Иванович": 35,
-      "Шилик Владимир Ильич": 2,
-      "Против всех": 156
+      "gas:candidate-vibid:210200072671": 23,
+      "gas:candidate-vibid:1001000190281": 4,
+      "gas:candidate-vibid:1001000113896": 94,
+      "gas:candidate-vibid:1001000112179": 63,
+      "gas:candidate-vibid:1001000225878": 838,
+      "gas:candidate-vibid:1001000195025": 12,
+      "gas:candidate-vibid:1001000121792": 35,
+      "gas:candidate-vibid:1001000201797": 2,
+      "special:against-all": 156
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073035&region=0&sub_region=0&type=429",
@@ -7524,15 +7524,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 33,
-      "Лиминчук Владимир Илларионович": 12,
-      "Мяки Артур Элденович": 154,
-      "Петеляева Ирина Владимировна": 124,
-      "Пивненко Валентина Николаевна": 893,
-      "Потиевский Виктор Александрович": 16,
-      "Тюков Борис Иванович": 34,
-      "Шилик Владимир Ильич": 8,
-      "Против всех": 160
+      "gas:candidate-vibid:210200072671": 33,
+      "gas:candidate-vibid:1001000190281": 12,
+      "gas:candidate-vibid:1001000113896": 154,
+      "gas:candidate-vibid:1001000112179": 124,
+      "gas:candidate-vibid:1001000225878": 893,
+      "gas:candidate-vibid:1001000195025": 16,
+      "gas:candidate-vibid:1001000121792": 34,
+      "gas:candidate-vibid:1001000201797": 8,
+      "special:against-all": 160
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073035&region=0&sub_region=0&type=429",
@@ -7582,15 +7582,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 24,
-      "Лиминчук Владимир Илларионович": 8,
-      "Мяки Артур Элденович": 117,
-      "Петеляева Ирина Владимировна": 108,
-      "Пивненко Валентина Николаевна": 872,
-      "Потиевский Виктор Александрович": 11,
-      "Тюков Борис Иванович": 37,
-      "Шилик Владимир Ильич": 3,
-      "Против всех": 114
+      "gas:candidate-vibid:210200072671": 24,
+      "gas:candidate-vibid:1001000190281": 8,
+      "gas:candidate-vibid:1001000113896": 117,
+      "gas:candidate-vibid:1001000112179": 108,
+      "gas:candidate-vibid:1001000225878": 872,
+      "gas:candidate-vibid:1001000195025": 11,
+      "gas:candidate-vibid:1001000121792": 37,
+      "gas:candidate-vibid:1001000201797": 3,
+      "special:against-all": 114
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073035&region=0&sub_region=0&type=429",
@@ -7640,15 +7640,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 32,
-      "Лиминчук Владимир Илларионович": 8,
-      "Мяки Артур Элденович": 142,
-      "Петеляева Ирина Владимировна": 123,
-      "Пивненко Валентина Николаевна": 990,
-      "Потиевский Виктор Александрович": 16,
-      "Тюков Борис Иванович": 49,
-      "Шилик Владимир Ильич": 10,
-      "Против всех": 193
+      "gas:candidate-vibid:210200072671": 32,
+      "gas:candidate-vibid:1001000190281": 8,
+      "gas:candidate-vibid:1001000113896": 142,
+      "gas:candidate-vibid:1001000112179": 123,
+      "gas:candidate-vibid:1001000225878": 990,
+      "gas:candidate-vibid:1001000195025": 16,
+      "gas:candidate-vibid:1001000121792": 49,
+      "gas:candidate-vibid:1001000201797": 10,
+      "special:against-all": 193
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073035&region=0&sub_region=0&type=429",
@@ -7698,15 +7698,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 36,
-      "Лиминчук Владимир Илларионович": 7,
-      "Мяки Артур Элденович": 141,
-      "Петеляева Ирина Владимировна": 104,
-      "Пивненко Валентина Николаевна": 864,
-      "Потиевский Виктор Александрович": 10,
-      "Тюков Борис Иванович": 50,
-      "Шилик Владимир Ильич": 5,
-      "Против всех": 135
+      "gas:candidate-vibid:210200072671": 36,
+      "gas:candidate-vibid:1001000190281": 7,
+      "gas:candidate-vibid:1001000113896": 141,
+      "gas:candidate-vibid:1001000112179": 104,
+      "gas:candidate-vibid:1001000225878": 864,
+      "gas:candidate-vibid:1001000195025": 10,
+      "gas:candidate-vibid:1001000121792": 50,
+      "gas:candidate-vibid:1001000201797": 5,
+      "special:against-all": 135
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073035&region=0&sub_region=0&type=429",
@@ -7756,15 +7756,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 23,
-      "Лиминчук Владимир Илларионович": 3,
-      "Мяки Артур Элденович": 134,
-      "Петеляева Ирина Владимировна": 128,
-      "Пивненко Валентина Николаевна": 880,
-      "Потиевский Виктор Александрович": 11,
-      "Тюков Борис Иванович": 33,
-      "Шилик Владимир Ильич": 6,
-      "Против всех": 172
+      "gas:candidate-vibid:210200072671": 23,
+      "gas:candidate-vibid:1001000190281": 3,
+      "gas:candidate-vibid:1001000113896": 134,
+      "gas:candidate-vibid:1001000112179": 128,
+      "gas:candidate-vibid:1001000225878": 880,
+      "gas:candidate-vibid:1001000195025": 11,
+      "gas:candidate-vibid:1001000121792": 33,
+      "gas:candidate-vibid:1001000201797": 6,
+      "special:against-all": 172
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073035&region=0&sub_region=0&type=429",
@@ -7814,15 +7814,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 25,
-      "Лиминчук Владимир Илларионович": 11,
-      "Мяки Артур Элденович": 55,
-      "Петеляева Ирина Владимировна": 52,
-      "Пивненко Валентина Николаевна": 415,
-      "Потиевский Виктор Александрович": 7,
-      "Тюков Борис Иванович": 32,
-      "Шилик Владимир Ильич": 9,
-      "Против всех": 122
+      "gas:candidate-vibid:210200072671": 25,
+      "gas:candidate-vibid:1001000190281": 11,
+      "gas:candidate-vibid:1001000113896": 55,
+      "gas:candidate-vibid:1001000112179": 52,
+      "gas:candidate-vibid:1001000225878": 415,
+      "gas:candidate-vibid:1001000195025": 7,
+      "gas:candidate-vibid:1001000121792": 32,
+      "gas:candidate-vibid:1001000201797": 9,
+      "special:against-all": 122
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073035&region=0&sub_region=0&type=429",
@@ -7872,15 +7872,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 2,
-      "Лиминчук Владимир Илларионович": 0,
-      "Мяки Артур Элденович": 15,
-      "Петеляева Ирина Владимировна": 10,
-      "Пивненко Валентина Николаевна": 172,
-      "Потиевский Виктор Александрович": 1,
-      "Тюков Борис Иванович": 5,
-      "Шилик Владимир Ильич": 1,
-      "Против всех": 3
+      "gas:candidate-vibid:210200072671": 2,
+      "gas:candidate-vibid:1001000190281": 0,
+      "gas:candidate-vibid:1001000113896": 15,
+      "gas:candidate-vibid:1001000112179": 10,
+      "gas:candidate-vibid:1001000225878": 172,
+      "gas:candidate-vibid:1001000195025": 1,
+      "gas:candidate-vibid:1001000121792": 5,
+      "gas:candidate-vibid:1001000201797": 1,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073035&region=0&sub_region=0&type=429",
@@ -7930,15 +7930,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 12,
-      "Лиминчук Владимир Илларионович": 10,
-      "Мяки Артур Элденович": 124,
-      "Петеляева Ирина Владимировна": 116,
-      "Пивненко Валентина Николаевна": 652,
-      "Потиевский Виктор Александрович": 6,
-      "Тюков Борис Иванович": 83,
-      "Шилик Владимир Ильич": 2,
-      "Против всех": 78
+      "gas:candidate-vibid:210200072671": 12,
+      "gas:candidate-vibid:1001000190281": 10,
+      "gas:candidate-vibid:1001000113896": 124,
+      "gas:candidate-vibid:1001000112179": 116,
+      "gas:candidate-vibid:1001000225878": 652,
+      "gas:candidate-vibid:1001000195025": 6,
+      "gas:candidate-vibid:1001000121792": 83,
+      "gas:candidate-vibid:1001000201797": 2,
+      "special:against-all": 78
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073036&region=0&sub_region=0&type=429",
@@ -7988,15 +7988,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 0,
-      "Лиминчук Владимир Илларионович": 1,
-      "Мяки Артур Элденович": 23,
-      "Петеляева Ирина Владимировна": 25,
-      "Пивненко Валентина Николаевна": 129,
-      "Потиевский Виктор Александрович": 1,
-      "Тюков Борис Иванович": 17,
-      "Шилик Владимир Ильич": 0,
-      "Против всех": 14
+      "gas:candidate-vibid:210200072671": 0,
+      "gas:candidate-vibid:1001000190281": 1,
+      "gas:candidate-vibid:1001000113896": 23,
+      "gas:candidate-vibid:1001000112179": 25,
+      "gas:candidate-vibid:1001000225878": 129,
+      "gas:candidate-vibid:1001000195025": 1,
+      "gas:candidate-vibid:1001000121792": 17,
+      "gas:candidate-vibid:1001000201797": 0,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073036&region=0&sub_region=0&type=429",
@@ -8046,15 +8046,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 23,
-      "Лиминчук Владимир Илларионович": 8,
-      "Мяки Артур Элденович": 123,
-      "Петеляева Ирина Владимировна": 122,
-      "Пивненко Валентина Николаевна": 582,
-      "Потиевский Виктор Александрович": 3,
-      "Тюков Борис Иванович": 93,
-      "Шилик Владимир Ильич": 7,
-      "Против всех": 82
+      "gas:candidate-vibid:210200072671": 23,
+      "gas:candidate-vibid:1001000190281": 8,
+      "gas:candidate-vibid:1001000113896": 123,
+      "gas:candidate-vibid:1001000112179": 122,
+      "gas:candidate-vibid:1001000225878": 582,
+      "gas:candidate-vibid:1001000195025": 3,
+      "gas:candidate-vibid:1001000121792": 93,
+      "gas:candidate-vibid:1001000201797": 7,
+      "special:against-all": 82
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073036&region=0&sub_region=0&type=429",
@@ -8104,15 +8104,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 7,
-      "Лиминчук Владимир Илларионович": 3,
-      "Мяки Артур Элденович": 83,
-      "Петеляева Ирина Владимировна": 59,
-      "Пивненко Валентина Николаевна": 466,
-      "Потиевский Виктор Александрович": 2,
-      "Тюков Борис Иванович": 46,
-      "Шилик Владимир Ильич": 2,
-      "Против всех": 48
+      "gas:candidate-vibid:210200072671": 7,
+      "gas:candidate-vibid:1001000190281": 3,
+      "gas:candidate-vibid:1001000113896": 83,
+      "gas:candidate-vibid:1001000112179": 59,
+      "gas:candidate-vibid:1001000225878": 466,
+      "gas:candidate-vibid:1001000195025": 2,
+      "gas:candidate-vibid:1001000121792": 46,
+      "gas:candidate-vibid:1001000201797": 2,
+      "special:against-all": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073036&region=0&sub_region=0&type=429",
@@ -8162,15 +8162,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 7,
-      "Лиминчук Владимир Илларионович": 2,
-      "Мяки Артур Элденович": 105,
-      "Петеляева Ирина Владимировна": 28,
-      "Пивненко Валентина Николаевна": 241,
-      "Потиевский Виктор Александрович": 5,
-      "Тюков Борис Иванович": 11,
-      "Шилик Владимир Ильич": 2,
-      "Против всех": 30
+      "gas:candidate-vibid:210200072671": 7,
+      "gas:candidate-vibid:1001000190281": 2,
+      "gas:candidate-vibid:1001000113896": 105,
+      "gas:candidate-vibid:1001000112179": 28,
+      "gas:candidate-vibid:1001000225878": 241,
+      "gas:candidate-vibid:1001000195025": 5,
+      "gas:candidate-vibid:1001000121792": 11,
+      "gas:candidate-vibid:1001000201797": 2,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073036&region=0&sub_region=0&type=429",
@@ -8220,15 +8220,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 1,
-      "Лиминчук Владимир Илларионович": 0,
-      "Мяки Артур Элденович": 33,
-      "Петеляева Ирина Владимировна": 6,
-      "Пивненко Валентина Николаевна": 53,
-      "Потиевский Виктор Александрович": 0,
-      "Тюков Борис Иванович": 2,
-      "Шилик Владимир Ильич": 1,
-      "Против всех": 3
+      "gas:candidate-vibid:210200072671": 1,
+      "gas:candidate-vibid:1001000190281": 0,
+      "gas:candidate-vibid:1001000113896": 33,
+      "gas:candidate-vibid:1001000112179": 6,
+      "gas:candidate-vibid:1001000225878": 53,
+      "gas:candidate-vibid:1001000195025": 0,
+      "gas:candidate-vibid:1001000121792": 2,
+      "gas:candidate-vibid:1001000201797": 1,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073036&region=0&sub_region=0&type=429",
@@ -8278,15 +8278,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 9,
-      "Лиминчук Владимир Илларионович": 5,
-      "Мяки Артур Элденович": 146,
-      "Петеляева Ирина Владимировна": 66,
-      "Пивненко Валентина Николаевна": 299,
-      "Потиевский Виктор Александрович": 2,
-      "Тюков Борис Иванович": 19,
-      "Шилик Владимир Ильич": 1,
-      "Против всех": 45
+      "gas:candidate-vibid:210200072671": 9,
+      "gas:candidate-vibid:1001000190281": 5,
+      "gas:candidate-vibid:1001000113896": 146,
+      "gas:candidate-vibid:1001000112179": 66,
+      "gas:candidate-vibid:1001000225878": 299,
+      "gas:candidate-vibid:1001000195025": 2,
+      "gas:candidate-vibid:1001000121792": 19,
+      "gas:candidate-vibid:1001000201797": 1,
+      "special:against-all": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073036&region=0&sub_region=0&type=429",
@@ -8336,15 +8336,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 0,
-      "Лиминчук Владимир Илларионович": 2,
-      "Мяки Артур Элденович": 6,
-      "Петеляева Ирина Владимировна": 14,
-      "Пивненко Валентина Николаевна": 83,
-      "Потиевский Виктор Александрович": 0,
-      "Тюков Борис Иванович": 4,
-      "Шилик Владимир Ильич": 1,
-      "Против всех": 10
+      "gas:candidate-vibid:210200072671": 0,
+      "gas:candidate-vibid:1001000190281": 2,
+      "gas:candidate-vibid:1001000113896": 6,
+      "gas:candidate-vibid:1001000112179": 14,
+      "gas:candidate-vibid:1001000225878": 83,
+      "gas:candidate-vibid:1001000195025": 0,
+      "gas:candidate-vibid:1001000121792": 4,
+      "gas:candidate-vibid:1001000201797": 1,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073036&region=0&sub_region=0&type=429",
@@ -8394,15 +8394,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 1,
-      "Лиминчук Владимир Илларионович": 2,
-      "Мяки Артур Элденович": 17,
-      "Петеляева Ирина Владимировна": 6,
-      "Пивненко Валентина Николаевна": 116,
-      "Потиевский Виктор Александрович": 1,
-      "Тюков Борис Иванович": 6,
-      "Шилик Владимир Ильич": 0,
-      "Против всех": 4
+      "gas:candidate-vibid:210200072671": 1,
+      "gas:candidate-vibid:1001000190281": 2,
+      "gas:candidate-vibid:1001000113896": 17,
+      "gas:candidate-vibid:1001000112179": 6,
+      "gas:candidate-vibid:1001000225878": 116,
+      "gas:candidate-vibid:1001000195025": 1,
+      "gas:candidate-vibid:1001000121792": 6,
+      "gas:candidate-vibid:1001000201797": 0,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073036&region=0&sub_region=0&type=429",
@@ -8452,15 +8452,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 6,
-      "Лиминчук Владимир Илларионович": 4,
-      "Мяки Артур Элденович": 43,
-      "Петеляева Ирина Владимировна": 22,
-      "Пивненко Валентина Николаевна": 315,
-      "Потиевский Виктор Александрович": 4,
-      "Тюков Борис Иванович": 19,
-      "Шилик Владимир Ильич": 1,
-      "Против всех": 22
+      "gas:candidate-vibid:210200072671": 6,
+      "gas:candidate-vibid:1001000190281": 4,
+      "gas:candidate-vibid:1001000113896": 43,
+      "gas:candidate-vibid:1001000112179": 22,
+      "gas:candidate-vibid:1001000225878": 315,
+      "gas:candidate-vibid:1001000195025": 4,
+      "gas:candidate-vibid:1001000121792": 19,
+      "gas:candidate-vibid:1001000201797": 1,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073036&region=0&sub_region=0&type=429",
@@ -8510,15 +8510,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 11,
-      "Лиминчук Владимир Илларионович": 5,
-      "Мяки Артур Элденович": 77,
-      "Петеляева Ирина Владимировна": 54,
-      "Пивненко Валентина Николаевна": 552,
-      "Потиевский Виктор Александрович": 5,
-      "Тюков Борис Иванович": 24,
-      "Шилик Владимир Ильич": 4,
-      "Против всех": 89
+      "gas:candidate-vibid:210200072671": 11,
+      "gas:candidate-vibid:1001000190281": 5,
+      "gas:candidate-vibid:1001000113896": 77,
+      "gas:candidate-vibid:1001000112179": 54,
+      "gas:candidate-vibid:1001000225878": 552,
+      "gas:candidate-vibid:1001000195025": 5,
+      "gas:candidate-vibid:1001000121792": 24,
+      "gas:candidate-vibid:1001000201797": 4,
+      "special:against-all": 89
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073036&region=0&sub_region=0&type=429",
@@ -8568,15 +8568,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 8,
-      "Лиминчук Владимир Илларионович": 1,
-      "Мяки Артур Элденович": 108,
-      "Петеляева Ирина Владимировна": 50,
-      "Пивненко Валентина Николаевна": 404,
-      "Потиевский Виктор Александрович": 7,
-      "Тюков Борис Иванович": 29,
-      "Шилик Владимир Ильич": 2,
-      "Против всех": 39
+      "gas:candidate-vibid:210200072671": 8,
+      "gas:candidate-vibid:1001000190281": 1,
+      "gas:candidate-vibid:1001000113896": 108,
+      "gas:candidate-vibid:1001000112179": 50,
+      "gas:candidate-vibid:1001000225878": 404,
+      "gas:candidate-vibid:1001000195025": 7,
+      "gas:candidate-vibid:1001000121792": 29,
+      "gas:candidate-vibid:1001000201797": 2,
+      "special:against-all": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073036&region=0&sub_region=0&type=429",
@@ -8626,15 +8626,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 2,
-      "Лиминчук Владимир Илларионович": 2,
-      "Мяки Артур Элденович": 3,
-      "Петеляева Ирина Владимировна": 3,
-      "Пивненко Валентина Николаевна": 224,
-      "Потиевский Виктор Александрович": 5,
-      "Тюков Борис Иванович": 4,
-      "Шилик Владимир Ильич": 0,
-      "Против всех": 6
+      "gas:candidate-vibid:210200072671": 2,
+      "gas:candidate-vibid:1001000190281": 2,
+      "gas:candidate-vibid:1001000113896": 3,
+      "gas:candidate-vibid:1001000112179": 3,
+      "gas:candidate-vibid:1001000225878": 224,
+      "gas:candidate-vibid:1001000195025": 5,
+      "gas:candidate-vibid:1001000121792": 4,
+      "gas:candidate-vibid:1001000201797": 0,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073036&region=0&sub_region=0&type=429",
@@ -8684,15 +8684,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 3,
-      "Лиминчук Владимир Илларионович": 1,
-      "Мяки Артур Элденович": 9,
-      "Петеляева Ирина Владимировна": 14,
-      "Пивненко Валентина Николаевна": 193,
-      "Потиевский Виктор Александрович": 1,
-      "Тюков Борис Иванович": 6,
-      "Шилик Владимир Ильич": 1,
-      "Против всех": 11
+      "gas:candidate-vibid:210200072671": 3,
+      "gas:candidate-vibid:1001000190281": 1,
+      "gas:candidate-vibid:1001000113896": 9,
+      "gas:candidate-vibid:1001000112179": 14,
+      "gas:candidate-vibid:1001000225878": 193,
+      "gas:candidate-vibid:1001000195025": 1,
+      "gas:candidate-vibid:1001000121792": 6,
+      "gas:candidate-vibid:1001000201797": 1,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073036&region=0&sub_region=0&type=429",
@@ -8742,15 +8742,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 0,
-      "Лиминчук Владимир Илларионович": 1,
-      "Мяки Артур Элденович": 1,
-      "Петеляева Ирина Владимировна": 4,
-      "Пивненко Валентина Николаевна": 45,
-      "Потиевский Виктор Александрович": 1,
-      "Тюков Борис Иванович": 1,
-      "Шилик Владимир Ильич": 0,
-      "Против всех": 6
+      "gas:candidate-vibid:210200072671": 0,
+      "gas:candidate-vibid:1001000190281": 1,
+      "gas:candidate-vibid:1001000113896": 1,
+      "gas:candidate-vibid:1001000112179": 4,
+      "gas:candidate-vibid:1001000225878": 45,
+      "gas:candidate-vibid:1001000195025": 1,
+      "gas:candidate-vibid:1001000121792": 1,
+      "gas:candidate-vibid:1001000201797": 0,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073036&region=0&sub_region=0&type=429",
@@ -8800,15 +8800,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 3,
-      "Лиминчук Владимир Илларионович": 0,
-      "Мяки Артур Элденович": 2,
-      "Петеляева Ирина Владимировна": 4,
-      "Пивненко Валентина Николаевна": 64,
-      "Потиевский Виктор Александрович": 1,
-      "Тюков Борис Иванович": 2,
-      "Шилик Владимир Ильич": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:210200072671": 3,
+      "gas:candidate-vibid:1001000190281": 0,
+      "gas:candidate-vibid:1001000113896": 2,
+      "gas:candidate-vibid:1001000112179": 4,
+      "gas:candidate-vibid:1001000225878": 64,
+      "gas:candidate-vibid:1001000195025": 1,
+      "gas:candidate-vibid:1001000121792": 2,
+      "gas:candidate-vibid:1001000201797": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073036&region=0&sub_region=0&type=429",
@@ -8858,15 +8858,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 9,
-      "Лиминчук Владимир Илларионович": 5,
-      "Мяки Артур Элденович": 38,
-      "Петеляева Ирина Владимировна": 24,
-      "Пивненко Валентина Николаевна": 211,
-      "Потиевский Виктор Александрович": 3,
-      "Тюков Борис Иванович": 20,
-      "Шилик Владимир Ильич": 1,
-      "Против всех": 34
+      "gas:candidate-vibid:210200072671": 9,
+      "gas:candidate-vibid:1001000190281": 5,
+      "gas:candidate-vibid:1001000113896": 38,
+      "gas:candidate-vibid:1001000112179": 24,
+      "gas:candidate-vibid:1001000225878": 211,
+      "gas:candidate-vibid:1001000195025": 3,
+      "gas:candidate-vibid:1001000121792": 20,
+      "gas:candidate-vibid:1001000201797": 1,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073036&region=0&sub_region=0&type=429",
@@ -8916,15 +8916,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 16,
-      "Лиминчук Владимир Илларионович": 6,
-      "Мяки Артур Элденович": 188,
-      "Петеляева Ирина Владимировна": 108,
-      "Пивненко Валентина Николаевна": 653,
-      "Потиевский Виктор Александрович": 8,
-      "Тюков Борис Иванович": 59,
-      "Шилик Владимир Ильич": 8,
-      "Против всех": 82
+      "gas:candidate-vibid:210200072671": 16,
+      "gas:candidate-vibid:1001000190281": 6,
+      "gas:candidate-vibid:1001000113896": 188,
+      "gas:candidate-vibid:1001000112179": 108,
+      "gas:candidate-vibid:1001000225878": 653,
+      "gas:candidate-vibid:1001000195025": 8,
+      "gas:candidate-vibid:1001000121792": 59,
+      "gas:candidate-vibid:1001000201797": 8,
+      "special:against-all": 82
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073036&region=0&sub_region=0&type=429",
@@ -8974,15 +8974,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 53,
-      "Лиминчук Владимир Илларионович": 31,
-      "Мяки Артур Элденович": 85,
-      "Петеляева Ирина Владимировна": 107,
-      "Пивненко Валентина Николаевна": 1121,
-      "Потиевский Виктор Александрович": 25,
-      "Тюков Борис Иванович": 51,
-      "Шилик Владимир Ильич": 31,
-      "Против всех": 244
+      "gas:candidate-vibid:210200072671": 53,
+      "gas:candidate-vibid:1001000190281": 31,
+      "gas:candidate-vibid:1001000113896": 85,
+      "gas:candidate-vibid:1001000112179": 107,
+      "gas:candidate-vibid:1001000225878": 1121,
+      "gas:candidate-vibid:1001000195025": 25,
+      "gas:candidate-vibid:1001000121792": 51,
+      "gas:candidate-vibid:1001000201797": 31,
+      "special:against-all": 244
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073037&region=0&sub_region=0&type=429",
@@ -9032,15 +9032,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 9,
-      "Лиминчук Владимир Илларионович": 20,
-      "Мяки Артур Элденович": 69,
-      "Петеляева Ирина Владимировна": 48,
-      "Пивненко Валентина Николаевна": 738,
-      "Потиевский Виктор Александрович": 7,
-      "Тюков Борис Иванович": 36,
-      "Шилик Владимир Ильич": 3,
-      "Против всех": 42
+      "gas:candidate-vibid:210200072671": 9,
+      "gas:candidate-vibid:1001000190281": 20,
+      "gas:candidate-vibid:1001000113896": 69,
+      "gas:candidate-vibid:1001000112179": 48,
+      "gas:candidate-vibid:1001000225878": 738,
+      "gas:candidate-vibid:1001000195025": 7,
+      "gas:candidate-vibid:1001000121792": 36,
+      "gas:candidate-vibid:1001000201797": 3,
+      "special:against-all": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073037&region=0&sub_region=0&type=429",
@@ -9090,15 +9090,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 3,
-      "Лиминчук Владимир Илларионович": 0,
-      "Мяки Артур Элденович": 8,
-      "Петеляева Ирина Владимировна": 5,
-      "Пивненко Валентина Николаевна": 200,
-      "Потиевский Виктор Александрович": 0,
-      "Тюков Борис Иванович": 4,
-      "Шилик Владимир Ильич": 1,
-      "Против всех": 5
+      "gas:candidate-vibid:210200072671": 3,
+      "gas:candidate-vibid:1001000190281": 0,
+      "gas:candidate-vibid:1001000113896": 8,
+      "gas:candidate-vibid:1001000112179": 5,
+      "gas:candidate-vibid:1001000225878": 200,
+      "gas:candidate-vibid:1001000195025": 0,
+      "gas:candidate-vibid:1001000121792": 4,
+      "gas:candidate-vibid:1001000201797": 1,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073037&region=0&sub_region=0&type=429",
@@ -9148,15 +9148,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 15,
-      "Лиминчук Владимир Илларионович": 4,
-      "Мяки Артур Элденович": 99,
-      "Петеляева Ирина Владимировна": 63,
-      "Пивненко Валентина Николаевна": 687,
-      "Потиевский Виктор Александрович": 9,
-      "Тюков Борис Иванович": 43,
-      "Шилик Владимир Ильич": 4,
-      "Против всех": 69
+      "gas:candidate-vibid:210200072671": 15,
+      "gas:candidate-vibid:1001000190281": 4,
+      "gas:candidate-vibid:1001000113896": 99,
+      "gas:candidate-vibid:1001000112179": 63,
+      "gas:candidate-vibid:1001000225878": 687,
+      "gas:candidate-vibid:1001000195025": 9,
+      "gas:candidate-vibid:1001000121792": 43,
+      "gas:candidate-vibid:1001000201797": 4,
+      "special:against-all": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073037&region=0&sub_region=0&type=429",
@@ -9206,15 +9206,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 0,
-      "Лиминчук Владимир Илларионович": 1,
-      "Мяки Артур Элденович": 25,
-      "Петеляева Ирина Владимировна": 12,
-      "Пивненко Валентина Николаевна": 193,
-      "Потиевский Виктор Александрович": 1,
-      "Тюков Борис Иванович": 29,
-      "Шилик Владимир Ильич": 0,
-      "Против всех": 27
+      "gas:candidate-vibid:210200072671": 0,
+      "gas:candidate-vibid:1001000190281": 1,
+      "gas:candidate-vibid:1001000113896": 25,
+      "gas:candidate-vibid:1001000112179": 12,
+      "gas:candidate-vibid:1001000225878": 193,
+      "gas:candidate-vibid:1001000195025": 1,
+      "gas:candidate-vibid:1001000121792": 29,
+      "gas:candidate-vibid:1001000201797": 0,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073037&region=0&sub_region=0&type=429",
@@ -9264,15 +9264,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 2,
-      "Лиминчук Владимир Илларионович": 1,
-      "Мяки Артур Элденович": 84,
-      "Петеляева Ирина Владимировна": 12,
-      "Пивненко Валентина Николаевна": 233,
-      "Потиевский Виктор Александрович": 1,
-      "Тюков Борис Иванович": 22,
-      "Шилик Владимир Ильич": 2,
-      "Против всех": 19
+      "gas:candidate-vibid:210200072671": 2,
+      "gas:candidate-vibid:1001000190281": 1,
+      "gas:candidate-vibid:1001000113896": 84,
+      "gas:candidate-vibid:1001000112179": 12,
+      "gas:candidate-vibid:1001000225878": 233,
+      "gas:candidate-vibid:1001000195025": 1,
+      "gas:candidate-vibid:1001000121792": 22,
+      "gas:candidate-vibid:1001000201797": 2,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073037&region=0&sub_region=0&type=429",
@@ -9322,15 +9322,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 0,
-      "Лиминчук Владимир Илларионович": 1,
-      "Мяки Артур Элденович": 13,
-      "Петеляева Ирина Владимировна": 5,
-      "Пивненко Валентина Николаевна": 243,
-      "Потиевский Виктор Александрович": 2,
-      "Тюков Борис Иванович": 10,
-      "Шилик Владимир Ильич": 3,
-      "Против всех": 6
+      "gas:candidate-vibid:210200072671": 0,
+      "gas:candidate-vibid:1001000190281": 1,
+      "gas:candidate-vibid:1001000113896": 13,
+      "gas:candidate-vibid:1001000112179": 5,
+      "gas:candidate-vibid:1001000225878": 243,
+      "gas:candidate-vibid:1001000195025": 2,
+      "gas:candidate-vibid:1001000121792": 10,
+      "gas:candidate-vibid:1001000201797": 3,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073037&region=0&sub_region=0&type=429",
@@ -9380,15 +9380,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 5,
-      "Лиминчук Владимир Илларионович": 0,
-      "Мяки Артур Элденович": 27,
-      "Петеляева Ирина Владимировна": 15,
-      "Пивненко Валентина Николаевна": 157,
-      "Потиевский Виктор Александрович": 0,
-      "Тюков Борис Иванович": 3,
-      "Шилик Владимир Ильич": 1,
-      "Против всех": 28
+      "gas:candidate-vibid:210200072671": 5,
+      "gas:candidate-vibid:1001000190281": 0,
+      "gas:candidate-vibid:1001000113896": 27,
+      "gas:candidate-vibid:1001000112179": 15,
+      "gas:candidate-vibid:1001000225878": 157,
+      "gas:candidate-vibid:1001000195025": 0,
+      "gas:candidate-vibid:1001000121792": 3,
+      "gas:candidate-vibid:1001000201797": 1,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073037&region=0&sub_region=0&type=429",
@@ -9438,15 +9438,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 2,
-      "Лиминчук Владимир Илларионович": 0,
-      "Мяки Артур Элденович": 7,
-      "Петеляева Ирина Владимировна": 26,
-      "Пивненко Валентина Николаевна": 141,
-      "Потиевский Виктор Александрович": 1,
-      "Тюков Борис Иванович": 3,
-      "Шилик Владимир Ильич": 0,
-      "Против всех": 14
+      "gas:candidate-vibid:210200072671": 2,
+      "gas:candidate-vibid:1001000190281": 0,
+      "gas:candidate-vibid:1001000113896": 7,
+      "gas:candidate-vibid:1001000112179": 26,
+      "gas:candidate-vibid:1001000225878": 141,
+      "gas:candidate-vibid:1001000195025": 1,
+      "gas:candidate-vibid:1001000121792": 3,
+      "gas:candidate-vibid:1001000201797": 0,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073038&region=0&sub_region=0&type=429",
@@ -9496,15 +9496,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 1,
-      "Лиминчук Владимир Илларионович": 0,
-      "Мяки Артур Элденович": 13,
-      "Петеляева Ирина Владимировна": 26,
-      "Пивненко Валентина Николаевна": 78,
-      "Потиевский Виктор Александрович": 1,
-      "Тюков Борис Иванович": 6,
-      "Шилик Владимир Ильич": 1,
-      "Против всех": 11
+      "gas:candidate-vibid:210200072671": 1,
+      "gas:candidate-vibid:1001000190281": 0,
+      "gas:candidate-vibid:1001000113896": 13,
+      "gas:candidate-vibid:1001000112179": 26,
+      "gas:candidate-vibid:1001000225878": 78,
+      "gas:candidate-vibid:1001000195025": 1,
+      "gas:candidate-vibid:1001000121792": 6,
+      "gas:candidate-vibid:1001000201797": 1,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073038&region=0&sub_region=0&type=429",
@@ -9554,15 +9554,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 12,
-      "Лиминчук Владимир Илларионович": 13,
-      "Мяки Артур Элденович": 85,
-      "Петеляева Ирина Владимировна": 185,
-      "Пивненко Валентина Николаевна": 843,
-      "Потиевский Виктор Александрович": 15,
-      "Тюков Борис Иванович": 61,
-      "Шилик Владимир Ильич": 3,
-      "Против всех": 86
+      "gas:candidate-vibid:210200072671": 12,
+      "gas:candidate-vibid:1001000190281": 13,
+      "gas:candidate-vibid:1001000113896": 85,
+      "gas:candidate-vibid:1001000112179": 185,
+      "gas:candidate-vibid:1001000225878": 843,
+      "gas:candidate-vibid:1001000195025": 15,
+      "gas:candidate-vibid:1001000121792": 61,
+      "gas:candidate-vibid:1001000201797": 3,
+      "special:against-all": 86
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073038&region=0&sub_region=0&type=429",
@@ -9612,15 +9612,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 13,
-      "Лиминчук Владимир Илларионович": 4,
-      "Мяки Артур Элденович": 55,
-      "Петеляева Ирина Владимировна": 154,
-      "Пивненко Валентина Николаевна": 394,
-      "Потиевский Виктор Александрович": 5,
-      "Тюков Борис Иванович": 32,
-      "Шилик Владимир Ильич": 3,
-      "Против всех": 51
+      "gas:candidate-vibid:210200072671": 13,
+      "gas:candidate-vibid:1001000190281": 4,
+      "gas:candidate-vibid:1001000113896": 55,
+      "gas:candidate-vibid:1001000112179": 154,
+      "gas:candidate-vibid:1001000225878": 394,
+      "gas:candidate-vibid:1001000195025": 5,
+      "gas:candidate-vibid:1001000121792": 32,
+      "gas:candidate-vibid:1001000201797": 3,
+      "special:against-all": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073038&region=0&sub_region=0&type=429",
@@ -9670,15 +9670,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 19,
-      "Лиминчук Владимир Илларионович": 1,
-      "Мяки Артур Элденович": 47,
-      "Петеляева Ирина Владимировна": 100,
-      "Пивненко Валентина Николаевна": 517,
-      "Потиевский Виктор Александрович": 4,
-      "Тюков Борис Иванович": 31,
-      "Шилик Владимир Ильич": 3,
-      "Против всех": 59
+      "gas:candidate-vibid:210200072671": 19,
+      "gas:candidate-vibid:1001000190281": 1,
+      "gas:candidate-vibid:1001000113896": 47,
+      "gas:candidate-vibid:1001000112179": 100,
+      "gas:candidate-vibid:1001000225878": 517,
+      "gas:candidate-vibid:1001000195025": 4,
+      "gas:candidate-vibid:1001000121792": 31,
+      "gas:candidate-vibid:1001000201797": 3,
+      "special:against-all": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073038&region=0&sub_region=0&type=429",
@@ -9728,15 +9728,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 29,
-      "Лиминчук Владимир Илларионович": 4,
-      "Мяки Артур Элденович": 112,
-      "Петеляева Ирина Владимировна": 288,
-      "Пивненко Валентина Николаевна": 850,
-      "Потиевский Виктор Александрович": 20,
-      "Тюков Борис Иванович": 57,
-      "Шилик Владимир Ильич": 10,
-      "Против всех": 99
+      "gas:candidate-vibid:210200072671": 29,
+      "gas:candidate-vibid:1001000190281": 4,
+      "gas:candidate-vibid:1001000113896": 112,
+      "gas:candidate-vibid:1001000112179": 288,
+      "gas:candidate-vibid:1001000225878": 850,
+      "gas:candidate-vibid:1001000195025": 20,
+      "gas:candidate-vibid:1001000121792": 57,
+      "gas:candidate-vibid:1001000201797": 10,
+      "special:against-all": 99
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073038&region=0&sub_region=0&type=429",
@@ -9786,15 +9786,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 19,
-      "Лиминчук Владимир Илларионович": 5,
-      "Мяки Артур Элденович": 96,
-      "Петеляева Ирина Владимировна": 182,
-      "Пивненко Валентина Николаевна": 496,
-      "Потиевский Виктор Александрович": 13,
-      "Тюков Борис Иванович": 32,
-      "Шилик Владимир Ильич": 3,
-      "Против всех": 88
+      "gas:candidate-vibid:210200072671": 19,
+      "gas:candidate-vibid:1001000190281": 5,
+      "gas:candidate-vibid:1001000113896": 96,
+      "gas:candidate-vibid:1001000112179": 182,
+      "gas:candidate-vibid:1001000225878": 496,
+      "gas:candidate-vibid:1001000195025": 13,
+      "gas:candidate-vibid:1001000121792": 32,
+      "gas:candidate-vibid:1001000201797": 3,
+      "special:against-all": 88
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073038&region=0&sub_region=0&type=429",
@@ -9844,15 +9844,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 20,
-      "Лиминчук Владимир Илларионович": 2,
-      "Мяки Артур Элденович": 64,
-      "Петеляева Ирина Владимировна": 179,
-      "Пивненко Валентина Николаевна": 538,
-      "Потиевский Виктор Александрович": 9,
-      "Тюков Борис Иванович": 30,
-      "Шилик Владимир Ильич": 5,
-      "Против всех": 75
+      "gas:candidate-vibid:210200072671": 20,
+      "gas:candidate-vibid:1001000190281": 2,
+      "gas:candidate-vibid:1001000113896": 64,
+      "gas:candidate-vibid:1001000112179": 179,
+      "gas:candidate-vibid:1001000225878": 538,
+      "gas:candidate-vibid:1001000195025": 9,
+      "gas:candidate-vibid:1001000121792": 30,
+      "gas:candidate-vibid:1001000201797": 5,
+      "special:against-all": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073038&region=0&sub_region=0&type=429",
@@ -9902,15 +9902,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 18,
-      "Лиминчук Владимир Илларионович": 13,
-      "Мяки Артур Элденович": 155,
-      "Петеляева Ирина Владимировна": 321,
-      "Пивненко Валентина Николаевна": 801,
-      "Потиевский Виктор Александрович": 14,
-      "Тюков Борис Иванович": 44,
-      "Шилик Владимир Ильич": 7,
-      "Против всех": 106
+      "gas:candidate-vibid:210200072671": 18,
+      "gas:candidate-vibid:1001000190281": 13,
+      "gas:candidate-vibid:1001000113896": 155,
+      "gas:candidate-vibid:1001000112179": 321,
+      "gas:candidate-vibid:1001000225878": 801,
+      "gas:candidate-vibid:1001000195025": 14,
+      "gas:candidate-vibid:1001000121792": 44,
+      "gas:candidate-vibid:1001000201797": 7,
+      "special:against-all": 106
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073038&region=0&sub_region=0&type=429",
@@ -9960,15 +9960,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 19,
-      "Лиминчук Владимир Илларионович": 2,
-      "Мяки Артур Элденович": 81,
-      "Петеляева Ирина Владимировна": 177,
-      "Пивненко Валентина Николаевна": 682,
-      "Потиевский Виктор Александрович": 6,
-      "Тюков Борис Иванович": 42,
-      "Шилик Владимир Ильич": 3,
-      "Против всех": 105
+      "gas:candidate-vibid:210200072671": 19,
+      "gas:candidate-vibid:1001000190281": 2,
+      "gas:candidate-vibid:1001000113896": 81,
+      "gas:candidate-vibid:1001000112179": 177,
+      "gas:candidate-vibid:1001000225878": 682,
+      "gas:candidate-vibid:1001000195025": 6,
+      "gas:candidate-vibid:1001000121792": 42,
+      "gas:candidate-vibid:1001000201797": 3,
+      "special:against-all": 105
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073038&region=0&sub_region=0&type=429",
@@ -10018,15 +10018,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 26,
-      "Лиминчук Владимир Илларионович": 6,
-      "Мяки Артур Элденович": 163,
-      "Петеляева Ирина Владимировна": 296,
-      "Пивненко Валентина Николаевна": 980,
-      "Потиевский Виктор Александрович": 20,
-      "Тюков Борис Иванович": 51,
-      "Шилик Владимир Ильич": 3,
-      "Против всех": 160
+      "gas:candidate-vibid:210200072671": 26,
+      "gas:candidate-vibid:1001000190281": 6,
+      "gas:candidate-vibid:1001000113896": 163,
+      "gas:candidate-vibid:1001000112179": 296,
+      "gas:candidate-vibid:1001000225878": 980,
+      "gas:candidate-vibid:1001000195025": 20,
+      "gas:candidate-vibid:1001000121792": 51,
+      "gas:candidate-vibid:1001000201797": 3,
+      "special:against-all": 160
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073038&region=0&sub_region=0&type=429",
@@ -10076,15 +10076,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 24,
-      "Лиминчук Владимир Илларионович": 3,
-      "Мяки Артур Элденович": 79,
-      "Петеляева Ирина Владимировна": 381,
-      "Пивненко Валентина Николаевна": 855,
-      "Потиевский Виктор Александрович": 24,
-      "Тюков Борис Иванович": 49,
-      "Шилик Владимир Ильич": 9,
-      "Против всех": 125
+      "gas:candidate-vibid:210200072671": 24,
+      "gas:candidate-vibid:1001000190281": 3,
+      "gas:candidate-vibid:1001000113896": 79,
+      "gas:candidate-vibid:1001000112179": 381,
+      "gas:candidate-vibid:1001000225878": 855,
+      "gas:candidate-vibid:1001000195025": 24,
+      "gas:candidate-vibid:1001000121792": 49,
+      "gas:candidate-vibid:1001000201797": 9,
+      "special:against-all": 125
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073038&region=0&sub_region=0&type=429",
@@ -10134,15 +10134,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 19,
-      "Лиминчук Владимир Илларионович": 1,
-      "Мяки Артур Элденович": 71,
-      "Петеляева Ирина Владимировна": 234,
-      "Пивненко Валентина Николаевна": 522,
-      "Потиевский Виктор Александрович": 5,
-      "Тюков Борис Иванович": 26,
-      "Шилик Владимир Ильич": 3,
-      "Против всех": 74
+      "gas:candidate-vibid:210200072671": 19,
+      "gas:candidate-vibid:1001000190281": 1,
+      "gas:candidate-vibid:1001000113896": 71,
+      "gas:candidate-vibid:1001000112179": 234,
+      "gas:candidate-vibid:1001000225878": 522,
+      "gas:candidate-vibid:1001000195025": 5,
+      "gas:candidate-vibid:1001000121792": 26,
+      "gas:candidate-vibid:1001000201797": 3,
+      "special:against-all": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073038&region=0&sub_region=0&type=429",
@@ -10192,15 +10192,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 11,
-      "Лиминчук Владимир Илларионович": 3,
-      "Мяки Артур Элденович": 67,
-      "Петеляева Ирина Владимировна": 237,
-      "Пивненко Валентина Николаевна": 635,
-      "Потиевский Виктор Александрович": 8,
-      "Тюков Борис Иванович": 36,
-      "Шилик Владимир Ильич": 2,
-      "Против всех": 69
+      "gas:candidate-vibid:210200072671": 11,
+      "gas:candidate-vibid:1001000190281": 3,
+      "gas:candidate-vibid:1001000113896": 67,
+      "gas:candidate-vibid:1001000112179": 237,
+      "gas:candidate-vibid:1001000225878": 635,
+      "gas:candidate-vibid:1001000195025": 8,
+      "gas:candidate-vibid:1001000121792": 36,
+      "gas:candidate-vibid:1001000201797": 2,
+      "special:against-all": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073038&region=0&sub_region=0&type=429",
@@ -10250,15 +10250,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 10,
-      "Лиминчук Владимир Илларионович": 4,
-      "Мяки Артур Элденович": 39,
-      "Петеляева Ирина Владимировна": 84,
-      "Пивненко Валентина Николаевна": 286,
-      "Потиевский Виктор Александрович": 2,
-      "Тюков Борис Иванович": 24,
-      "Шилик Владимир Ильич": 5,
-      "Против всех": 45
+      "gas:candidate-vibid:210200072671": 10,
+      "gas:candidate-vibid:1001000190281": 4,
+      "gas:candidate-vibid:1001000113896": 39,
+      "gas:candidate-vibid:1001000112179": 84,
+      "gas:candidate-vibid:1001000225878": 286,
+      "gas:candidate-vibid:1001000195025": 2,
+      "gas:candidate-vibid:1001000121792": 24,
+      "gas:candidate-vibid:1001000201797": 5,
+      "special:against-all": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073038&region=0&sub_region=0&type=429",
@@ -10308,15 +10308,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 0,
-      "Лиминчук Владимир Илларионович": 0,
-      "Мяки Артур Элденович": 4,
-      "Петеляева Ирина Владимировна": 2,
-      "Пивненко Валентина Николаевна": 110,
-      "Потиевский Виктор Александрович": 0,
-      "Тюков Борис Иванович": 5,
-      "Шилик Владимир Ильич": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:210200072671": 0,
+      "gas:candidate-vibid:1001000190281": 0,
+      "gas:candidate-vibid:1001000113896": 4,
+      "gas:candidate-vibid:1001000112179": 2,
+      "gas:candidate-vibid:1001000225878": 110,
+      "gas:candidate-vibid:1001000195025": 0,
+      "gas:candidate-vibid:1001000121792": 5,
+      "gas:candidate-vibid:1001000201797": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073038&region=0&sub_region=0&type=429",
@@ -10366,15 +10366,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 12,
-      "Лиминчук Владимир Илларионович": 3,
-      "Мяки Артур Элденович": 43,
-      "Петеляева Ирина Владимировна": 88,
-      "Пивненко Валентина Николаевна": 332,
-      "Потиевский Виктор Александрович": 6,
-      "Тюков Борис Иванович": 22,
-      "Шилик Владимир Ильич": 1,
-      "Против всех": 33
+      "gas:candidate-vibid:210200072671": 12,
+      "gas:candidate-vibid:1001000190281": 3,
+      "gas:candidate-vibid:1001000113896": 43,
+      "gas:candidate-vibid:1001000112179": 88,
+      "gas:candidate-vibid:1001000225878": 332,
+      "gas:candidate-vibid:1001000195025": 6,
+      "gas:candidate-vibid:1001000121792": 22,
+      "gas:candidate-vibid:1001000201797": 1,
+      "special:against-all": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073038&region=0&sub_region=0&type=429",
@@ -10424,15 +10424,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 9,
-      "Лиминчук Владимир Илларионович": 2,
-      "Мяки Артур Элденович": 22,
-      "Петеляева Ирина Владимировна": 29,
-      "Пивненко Валентина Николаевна": 267,
-      "Потиевский Виктор Александрович": 2,
-      "Тюков Борис Иванович": 15,
-      "Шилик Владимир Ильич": 1,
-      "Против всех": 16
+      "gas:candidate-vibid:210200072671": 9,
+      "gas:candidate-vibid:1001000190281": 2,
+      "gas:candidate-vibid:1001000113896": 22,
+      "gas:candidate-vibid:1001000112179": 29,
+      "gas:candidate-vibid:1001000225878": 267,
+      "gas:candidate-vibid:1001000195025": 2,
+      "gas:candidate-vibid:1001000121792": 15,
+      "gas:candidate-vibid:1001000201797": 1,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073038&region=0&sub_region=0&type=429",
@@ -10482,15 +10482,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 14,
-      "Лиминчук Владимир Илларионович": 1,
-      "Мяки Артур Элденович": 63,
-      "Петеляева Ирина Владимировна": 217,
-      "Пивненко Валентина Николаевна": 340,
-      "Потиевский Виктор Александрович": 5,
-      "Тюков Борис Иванович": 42,
-      "Шилик Владимир Ильич": 7,
-      "Против всех": 74
+      "gas:candidate-vibid:210200072671": 14,
+      "gas:candidate-vibid:1001000190281": 1,
+      "gas:candidate-vibid:1001000113896": 63,
+      "gas:candidate-vibid:1001000112179": 217,
+      "gas:candidate-vibid:1001000225878": 340,
+      "gas:candidate-vibid:1001000195025": 5,
+      "gas:candidate-vibid:1001000121792": 42,
+      "gas:candidate-vibid:1001000201797": 7,
+      "special:against-all": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073038&region=0&sub_region=0&type=429",
@@ -10540,15 +10540,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 3,
-      "Лиминчук Владимир Илларионович": 3,
-      "Мяки Артур Элденович": 14,
-      "Петеляева Ирина Владимировна": 37,
-      "Пивненко Валентина Николаевна": 175,
-      "Потиевский Виктор Александрович": 1,
-      "Тюков Борис Иванович": 18,
-      "Шилик Владимир Ильич": 0,
-      "Против всех": 11
+      "gas:candidate-vibid:210200072671": 3,
+      "gas:candidate-vibid:1001000190281": 3,
+      "gas:candidate-vibid:1001000113896": 14,
+      "gas:candidate-vibid:1001000112179": 37,
+      "gas:candidate-vibid:1001000225878": 175,
+      "gas:candidate-vibid:1001000195025": 1,
+      "gas:candidate-vibid:1001000121792": 18,
+      "gas:candidate-vibid:1001000201797": 0,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073038&region=0&sub_region=0&type=429",
@@ -10598,15 +10598,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 2,
-      "Лиминчук Владимир Илларионович": 2,
-      "Мяки Артур Элденович": 6,
-      "Петеляева Ирина Владимировна": 15,
-      "Пивненко Валентина Николаевна": 150,
-      "Потиевский Виктор Александрович": 2,
-      "Тюков Борис Иванович": 11,
-      "Шилик Владимир Ильич": 1,
-      "Против всех": 9
+      "gas:candidate-vibid:210200072671": 2,
+      "gas:candidate-vibid:1001000190281": 2,
+      "gas:candidate-vibid:1001000113896": 6,
+      "gas:candidate-vibid:1001000112179": 15,
+      "gas:candidate-vibid:1001000225878": 150,
+      "gas:candidate-vibid:1001000195025": 2,
+      "gas:candidate-vibid:1001000121792": 11,
+      "gas:candidate-vibid:1001000201797": 1,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073038&region=0&sub_region=0&type=429",
@@ -10656,15 +10656,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 10,
-      "Лиминчук Владимир Илларионович": 0,
-      "Мяки Артур Элденович": 40,
-      "Петеляева Ирина Владимировна": 41,
-      "Пивненко Валентина Николаевна": 405,
-      "Потиевский Виктор Александрович": 7,
-      "Тюков Борис Иванович": 15,
-      "Шилик Владимир Ильич": 1,
-      "Против всех": 30
+      "gas:candidate-vibid:210200072671": 10,
+      "gas:candidate-vibid:1001000190281": 0,
+      "gas:candidate-vibid:1001000113896": 40,
+      "gas:candidate-vibid:1001000112179": 41,
+      "gas:candidate-vibid:1001000225878": 405,
+      "gas:candidate-vibid:1001000195025": 7,
+      "gas:candidate-vibid:1001000121792": 15,
+      "gas:candidate-vibid:1001000201797": 1,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073038&region=0&sub_region=0&type=429",
@@ -10714,15 +10714,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 1,
-      "Лиминчук Владимир Илларионович": 2,
-      "Мяки Артур Элденович": 6,
-      "Петеляева Ирина Владимировна": 6,
-      "Пивненко Валентина Николаевна": 63,
-      "Потиевский Виктор Александрович": 0,
-      "Тюков Борис Иванович": 7,
-      "Шилик Владимир Ильич": 1,
-      "Против всех": 3
+      "gas:candidate-vibid:210200072671": 1,
+      "gas:candidate-vibid:1001000190281": 2,
+      "gas:candidate-vibid:1001000113896": 6,
+      "gas:candidate-vibid:1001000112179": 6,
+      "gas:candidate-vibid:1001000225878": 63,
+      "gas:candidate-vibid:1001000195025": 0,
+      "gas:candidate-vibid:1001000121792": 7,
+      "gas:candidate-vibid:1001000201797": 1,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073038&region=0&sub_region=0&type=429",
@@ -10772,15 +10772,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 0,
-      "Лиминчук Владимир Илларионович": 2,
-      "Мяки Артур Элденович": 5,
-      "Петеляева Ирина Владимировна": 10,
-      "Пивненко Валентина Николаевна": 82,
-      "Потиевский Виктор Александрович": 2,
-      "Тюков Борис Иванович": 9,
-      "Шилик Владимир Ильич": 2,
-      "Против всех": 3
+      "gas:candidate-vibid:210200072671": 0,
+      "gas:candidate-vibid:1001000190281": 2,
+      "gas:candidate-vibid:1001000113896": 5,
+      "gas:candidate-vibid:1001000112179": 10,
+      "gas:candidate-vibid:1001000225878": 82,
+      "gas:candidate-vibid:1001000195025": 2,
+      "gas:candidate-vibid:1001000121792": 9,
+      "gas:candidate-vibid:1001000201797": 2,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073038&region=0&sub_region=0&type=429",
@@ -10830,15 +10830,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 0,
-      "Лиминчук Владимир Илларионович": 0,
-      "Мяки Артур Элденович": 3,
-      "Петеляева Ирина Владимировна": 8,
-      "Пивненко Валентина Николаевна": 109,
-      "Потиевский Виктор Александрович": 1,
-      "Тюков Борис Иванович": 5,
-      "Шилик Владимир Ильич": 0,
-      "Против всех": 7
+      "gas:candidate-vibid:210200072671": 0,
+      "gas:candidate-vibid:1001000190281": 0,
+      "gas:candidate-vibid:1001000113896": 3,
+      "gas:candidate-vibid:1001000112179": 8,
+      "gas:candidate-vibid:1001000225878": 109,
+      "gas:candidate-vibid:1001000195025": 1,
+      "gas:candidate-vibid:1001000121792": 5,
+      "gas:candidate-vibid:1001000201797": 0,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073038&region=0&sub_region=0&type=429",
@@ -10888,15 +10888,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 9,
-      "Лиминчук Владимир Илларионович": 1,
-      "Мяки Артур Элденович": 1,
-      "Петеляева Ирина Владимировна": 3,
-      "Пивненко Валентина Николаевна": 43,
-      "Потиевский Виктор Александрович": 0,
-      "Тюков Борис Иванович": 2,
-      "Шилик Владимир Ильич": 2,
-      "Против всех": 4
+      "gas:candidate-vibid:210200072671": 9,
+      "gas:candidate-vibid:1001000190281": 1,
+      "gas:candidate-vibid:1001000113896": 1,
+      "gas:candidate-vibid:1001000112179": 3,
+      "gas:candidate-vibid:1001000225878": 43,
+      "gas:candidate-vibid:1001000195025": 0,
+      "gas:candidate-vibid:1001000121792": 2,
+      "gas:candidate-vibid:1001000201797": 2,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073038&region=0&sub_region=0&type=429",
@@ -10946,15 +10946,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 3,
-      "Лиминчук Владимир Илларионович": 1,
-      "Мяки Артур Элденович": 12,
-      "Петеляева Ирина Владимировна": 47,
-      "Пивненко Валентина Николаевна": 150,
-      "Потиевский Виктор Александрович": 3,
-      "Тюков Борис Иванович": 5,
-      "Шилик Владимир Ильич": 0,
-      "Против всех": 6
+      "gas:candidate-vibid:210200072671": 3,
+      "gas:candidate-vibid:1001000190281": 1,
+      "gas:candidate-vibid:1001000113896": 12,
+      "gas:candidate-vibid:1001000112179": 47,
+      "gas:candidate-vibid:1001000225878": 150,
+      "gas:candidate-vibid:1001000195025": 3,
+      "gas:candidate-vibid:1001000121792": 5,
+      "gas:candidate-vibid:1001000201797": 0,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073038&region=0&sub_region=0&type=429",
@@ -11004,15 +11004,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 3,
-      "Лиминчук Владимир Илларионович": 4,
-      "Мяки Артур Элденович": 62,
-      "Петеляева Ирина Владимировна": 38,
-      "Пивненко Валентина Николаевна": 287,
-      "Потиевский Виктор Александрович": 5,
-      "Тюков Борис Иванович": 15,
-      "Шилик Владимир Ильич": 2,
-      "Против всех": 26
+      "gas:candidate-vibid:210200072671": 3,
+      "gas:candidate-vibid:1001000190281": 4,
+      "gas:candidate-vibid:1001000113896": 62,
+      "gas:candidate-vibid:1001000112179": 38,
+      "gas:candidate-vibid:1001000225878": 287,
+      "gas:candidate-vibid:1001000195025": 5,
+      "gas:candidate-vibid:1001000121792": 15,
+      "gas:candidate-vibid:1001000201797": 2,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073038&region=0&sub_region=0&type=429",
@@ -11062,15 +11062,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 21,
-      "Лиминчук Владимир Илларионович": 11,
-      "Мяки Артур Элденович": 88,
-      "Петеляева Ирина Владимировна": 240,
-      "Пивненко Валентина Николаевна": 521,
-      "Потиевский Виктор Александрович": 4,
-      "Тюков Борис Иванович": 40,
-      "Шилик Владимир Ильич": 6,
-      "Против всех": 91
+      "gas:candidate-vibid:210200072671": 21,
+      "gas:candidate-vibid:1001000190281": 11,
+      "gas:candidate-vibid:1001000113896": 88,
+      "gas:candidate-vibid:1001000112179": 240,
+      "gas:candidate-vibid:1001000225878": 521,
+      "gas:candidate-vibid:1001000195025": 4,
+      "gas:candidate-vibid:1001000121792": 40,
+      "gas:candidate-vibid:1001000201797": 6,
+      "special:against-all": 91
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073038&region=0&sub_region=0&type=429",
@@ -11120,15 +11120,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 1,
-      "Лиминчук Владимир Илларионович": 0,
-      "Мяки Артур Элденович": 2,
-      "Петеляева Ирина Владимировна": 12,
-      "Пивненко Валентина Николаевна": 87,
-      "Потиевский Виктор Александрович": 1,
-      "Тюков Борис Иванович": 0,
-      "Шилик Владимир Ильич": 0,
-      "Против всех": 5
+      "gas:candidate-vibid:210200072671": 1,
+      "gas:candidate-vibid:1001000190281": 0,
+      "gas:candidate-vibid:1001000113896": 2,
+      "gas:candidate-vibid:1001000112179": 12,
+      "gas:candidate-vibid:1001000225878": 87,
+      "gas:candidate-vibid:1001000195025": 1,
+      "gas:candidate-vibid:1001000121792": 0,
+      "gas:candidate-vibid:1001000201797": 0,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073038&region=0&sub_region=0&type=429",
@@ -11178,15 +11178,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 2,
-      "Лиминчук Владимир Илларионович": 0,
-      "Мяки Артур Элденович": 2,
-      "Петеляева Ирина Владимировна": 5,
-      "Пивненко Валентина Николаевна": 32,
-      "Потиевский Виктор Александрович": 1,
-      "Тюков Борис Иванович": 2,
-      "Шилик Владимир Ильич": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:210200072671": 2,
+      "gas:candidate-vibid:1001000190281": 0,
+      "gas:candidate-vibid:1001000113896": 2,
+      "gas:candidate-vibid:1001000112179": 5,
+      "gas:candidate-vibid:1001000225878": 32,
+      "gas:candidate-vibid:1001000195025": 1,
+      "gas:candidate-vibid:1001000121792": 2,
+      "gas:candidate-vibid:1001000201797": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073038&region=0&sub_region=0&type=429",
@@ -11236,15 +11236,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 5,
-      "Лиминчук Владимир Илларионович": 0,
-      "Мяки Артур Элденович": 46,
-      "Петеляева Ирина Владимировна": 35,
-      "Пивненко Валентина Николаевна": 64,
-      "Потиевский Виктор Александрович": 1,
-      "Тюков Борис Иванович": 3,
-      "Шилик Владимир Ильич": 1,
-      "Против всех": 11
+      "gas:candidate-vibid:210200072671": 5,
+      "gas:candidate-vibid:1001000190281": 0,
+      "gas:candidate-vibid:1001000113896": 46,
+      "gas:candidate-vibid:1001000112179": 35,
+      "gas:candidate-vibid:1001000225878": 64,
+      "gas:candidate-vibid:1001000195025": 1,
+      "gas:candidate-vibid:1001000121792": 3,
+      "gas:candidate-vibid:1001000201797": 1,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073039&region=0&sub_region=0&type=429",
@@ -11294,15 +11294,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 15,
-      "Лиминчук Владимир Илларионович": 5,
-      "Мяки Артур Элденович": 126,
-      "Петеляева Ирина Владимировна": 140,
-      "Пивненко Валентина Николаевна": 315,
-      "Потиевский Виктор Александрович": 6,
-      "Тюков Борис Иванович": 38,
-      "Шилик Владимир Ильич": 0,
-      "Против всех": 102
+      "gas:candidate-vibid:210200072671": 15,
+      "gas:candidate-vibid:1001000190281": 5,
+      "gas:candidate-vibid:1001000113896": 126,
+      "gas:candidate-vibid:1001000112179": 140,
+      "gas:candidate-vibid:1001000225878": 315,
+      "gas:candidate-vibid:1001000195025": 6,
+      "gas:candidate-vibid:1001000121792": 38,
+      "gas:candidate-vibid:1001000201797": 0,
+      "special:against-all": 102
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073039&region=0&sub_region=0&type=429",
@@ -11352,15 +11352,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 11,
-      "Лиминчук Владимир Илларионович": 8,
-      "Мяки Артур Элденович": 140,
-      "Петеляева Ирина Владимировна": 269,
-      "Пивненко Валентина Николаевна": 550,
-      "Потиевский Виктор Александрович": 7,
-      "Тюков Борис Иванович": 87,
-      "Шилик Владимир Ильич": 5,
-      "Против всех": 100
+      "gas:candidate-vibid:210200072671": 11,
+      "gas:candidate-vibid:1001000190281": 8,
+      "gas:candidate-vibid:1001000113896": 140,
+      "gas:candidate-vibid:1001000112179": 269,
+      "gas:candidate-vibid:1001000225878": 550,
+      "gas:candidate-vibid:1001000195025": 7,
+      "gas:candidate-vibid:1001000121792": 87,
+      "gas:candidate-vibid:1001000201797": 5,
+      "special:against-all": 100
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073039&region=0&sub_region=0&type=429",
@@ -11410,15 +11410,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 21,
-      "Лиминчук Владимир Илларионович": 9,
-      "Мяки Артур Элденович": 177,
-      "Петеляева Ирина Владимировна": 260,
-      "Пивненко Валентина Николаевна": 629,
-      "Потиевский Виктор Александрович": 7,
-      "Тюков Борис Иванович": 78,
-      "Шилик Владимир Ильич": 1,
-      "Против всех": 102
+      "gas:candidate-vibid:210200072671": 21,
+      "gas:candidate-vibid:1001000190281": 9,
+      "gas:candidate-vibid:1001000113896": 177,
+      "gas:candidate-vibid:1001000112179": 260,
+      "gas:candidate-vibid:1001000225878": 629,
+      "gas:candidate-vibid:1001000195025": 7,
+      "gas:candidate-vibid:1001000121792": 78,
+      "gas:candidate-vibid:1001000201797": 1,
+      "special:against-all": 102
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073039&region=0&sub_region=0&type=429",
@@ -11468,15 +11468,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 18,
-      "Лиминчук Владимир Илларионович": 11,
-      "Мяки Артур Элденович": 204,
-      "Петеляева Ирина Владимировна": 227,
-      "Пивненко Валентина Николаевна": 574,
-      "Потиевский Виктор Александрович": 2,
-      "Тюков Борис Иванович": 45,
-      "Шилик Владимир Ильич": 5,
-      "Против всех": 105
+      "gas:candidate-vibid:210200072671": 18,
+      "gas:candidate-vibid:1001000190281": 11,
+      "gas:candidate-vibid:1001000113896": 204,
+      "gas:candidate-vibid:1001000112179": 227,
+      "gas:candidate-vibid:1001000225878": 574,
+      "gas:candidate-vibid:1001000195025": 2,
+      "gas:candidate-vibid:1001000121792": 45,
+      "gas:candidate-vibid:1001000201797": 5,
+      "special:against-all": 105
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073039&region=0&sub_region=0&type=429",
@@ -11526,15 +11526,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 6,
-      "Лиминчук Владимир Илларионович": 3,
-      "Мяки Артур Элденович": 42,
-      "Петеляева Ирина Владимировна": 64,
-      "Пивненко Валентина Николаевна": 316,
-      "Потиевский Виктор Александрович": 4,
-      "Тюков Борис Иванович": 14,
-      "Шилик Владимир Ильич": 4,
-      "Против всех": 45
+      "gas:candidate-vibid:210200072671": 6,
+      "gas:candidate-vibid:1001000190281": 3,
+      "gas:candidate-vibid:1001000113896": 42,
+      "gas:candidate-vibid:1001000112179": 64,
+      "gas:candidate-vibid:1001000225878": 316,
+      "gas:candidate-vibid:1001000195025": 4,
+      "gas:candidate-vibid:1001000121792": 14,
+      "gas:candidate-vibid:1001000201797": 4,
+      "special:against-all": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073039&region=0&sub_region=0&type=429",
@@ -11584,15 +11584,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 8,
-      "Лиминчук Владимир Илларионович": 0,
-      "Мяки Артур Элденович": 32,
-      "Петеляева Ирина Владимировна": 45,
-      "Пивненко Валентина Николаевна": 297,
-      "Потиевский Виктор Александрович": 1,
-      "Тюков Борис Иванович": 17,
-      "Шилик Владимир Ильич": 2,
-      "Против всех": 25
+      "gas:candidate-vibid:210200072671": 8,
+      "gas:candidate-vibid:1001000190281": 0,
+      "gas:candidate-vibid:1001000113896": 32,
+      "gas:candidate-vibid:1001000112179": 45,
+      "gas:candidate-vibid:1001000225878": 297,
+      "gas:candidate-vibid:1001000195025": 1,
+      "gas:candidate-vibid:1001000121792": 17,
+      "gas:candidate-vibid:1001000201797": 2,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073039&region=0&sub_region=0&type=429",
@@ -11642,15 +11642,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 3,
-      "Лиминчук Владимир Илларионович": 6,
-      "Мяки Артур Элденович": 42,
-      "Петеляева Ирина Владимировна": 68,
-      "Пивненко Валентина Николаевна": 247,
-      "Потиевский Виктор Александрович": 1,
-      "Тюков Борис Иванович": 9,
-      "Шилик Владимир Ильич": 0,
-      "Против всех": 33
+      "gas:candidate-vibid:210200072671": 3,
+      "gas:candidate-vibid:1001000190281": 6,
+      "gas:candidate-vibid:1001000113896": 42,
+      "gas:candidate-vibid:1001000112179": 68,
+      "gas:candidate-vibid:1001000225878": 247,
+      "gas:candidate-vibid:1001000195025": 1,
+      "gas:candidate-vibid:1001000121792": 9,
+      "gas:candidate-vibid:1001000201797": 0,
+      "special:against-all": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073039&region=0&sub_region=0&type=429",
@@ -11700,15 +11700,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 5,
-      "Лиминчук Владимир Илларионович": 4,
-      "Мяки Артур Элденович": 15,
-      "Петеляева Ирина Владимировна": 25,
-      "Пивненко Валентина Николаевна": 284,
-      "Потиевский Виктор Александрович": 3,
-      "Тюков Борис Иванович": 12,
-      "Шилик Владимир Ильич": 1,
-      "Против всех": 16
+      "gas:candidate-vibid:210200072671": 5,
+      "gas:candidate-vibid:1001000190281": 4,
+      "gas:candidate-vibid:1001000113896": 15,
+      "gas:candidate-vibid:1001000112179": 25,
+      "gas:candidate-vibid:1001000225878": 284,
+      "gas:candidate-vibid:1001000195025": 3,
+      "gas:candidate-vibid:1001000121792": 12,
+      "gas:candidate-vibid:1001000201797": 1,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073039&region=0&sub_region=0&type=429",
@@ -11758,15 +11758,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 0,
-      "Лиминчук Владимир Илларионович": 1,
-      "Мяки Артур Элденович": 5,
-      "Петеляева Ирина Владимировна": 3,
-      "Пивненко Валентина Николаевна": 102,
-      "Потиевский Виктор Александрович": 0,
-      "Тюков Борис Иванович": 7,
-      "Шилик Владимир Ильич": 0,
-      "Против всех": 5
+      "gas:candidate-vibid:210200072671": 0,
+      "gas:candidate-vibid:1001000190281": 1,
+      "gas:candidate-vibid:1001000113896": 5,
+      "gas:candidate-vibid:1001000112179": 3,
+      "gas:candidate-vibid:1001000225878": 102,
+      "gas:candidate-vibid:1001000195025": 0,
+      "gas:candidate-vibid:1001000121792": 7,
+      "gas:candidate-vibid:1001000201797": 0,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073039&region=0&sub_region=0&type=429",
@@ -11816,15 +11816,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 3,
-      "Лиминчук Владимир Илларионович": 1,
-      "Мяки Артур Элденович": 3,
-      "Петеляева Ирина Владимировна": 3,
-      "Пивненко Валентина Николаевна": 148,
-      "Потиевский Виктор Александрович": 1,
-      "Тюков Борис Иванович": 10,
-      "Шилик Владимир Ильич": 1,
-      "Против всех": 10
+      "gas:candidate-vibid:210200072671": 3,
+      "gas:candidate-vibid:1001000190281": 1,
+      "gas:candidate-vibid:1001000113896": 3,
+      "gas:candidate-vibid:1001000112179": 3,
+      "gas:candidate-vibid:1001000225878": 148,
+      "gas:candidate-vibid:1001000195025": 1,
+      "gas:candidate-vibid:1001000121792": 10,
+      "gas:candidate-vibid:1001000201797": 1,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073039&region=0&sub_region=0&type=429",
@@ -11874,15 +11874,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 2,
-      "Лиминчук Владимир Илларионович": 0,
-      "Мяки Артур Элденович": 3,
-      "Петеляева Ирина Владимировна": 8,
-      "Пивненко Валентина Николаевна": 138,
-      "Потиевский Виктор Александрович": 1,
-      "Тюков Борис Иванович": 1,
-      "Шилик Владимир Ильич": 1,
-      "Против всех": 5
+      "gas:candidate-vibid:210200072671": 2,
+      "gas:candidate-vibid:1001000190281": 0,
+      "gas:candidate-vibid:1001000113896": 3,
+      "gas:candidate-vibid:1001000112179": 8,
+      "gas:candidate-vibid:1001000225878": 138,
+      "gas:candidate-vibid:1001000195025": 1,
+      "gas:candidate-vibid:1001000121792": 1,
+      "gas:candidate-vibid:1001000201797": 1,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073039&region=0&sub_region=0&type=429",
@@ -11932,15 +11932,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 2,
-      "Лиминчук Владимир Илларионович": 2,
-      "Мяки Артур Элденович": 11,
-      "Петеляева Ирина Владимировна": 14,
-      "Пивненко Валентина Николаевна": 229,
-      "Потиевский Виктор Александрович": 3,
-      "Тюков Борис Иванович": 7,
-      "Шилик Владимир Ильич": 1,
-      "Против всех": 8
+      "gas:candidate-vibid:210200072671": 2,
+      "gas:candidate-vibid:1001000190281": 2,
+      "gas:candidate-vibid:1001000113896": 11,
+      "gas:candidate-vibid:1001000112179": 14,
+      "gas:candidate-vibid:1001000225878": 229,
+      "gas:candidate-vibid:1001000195025": 3,
+      "gas:candidate-vibid:1001000121792": 7,
+      "gas:candidate-vibid:1001000201797": 1,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073039&region=0&sub_region=0&type=429",
@@ -11990,15 +11990,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 3,
-      "Лиминчук Владимир Илларионович": 1,
-      "Мяки Артур Элденович": 3,
-      "Петеляева Ирина Владимировна": 5,
-      "Пивненко Валентина Николаевна": 118,
-      "Потиевский Виктор Александрович": 1,
-      "Тюков Борис Иванович": 0,
-      "Шилик Владимир Ильич": 0,
-      "Против всех": 8
+      "gas:candidate-vibid:210200072671": 3,
+      "gas:candidate-vibid:1001000190281": 1,
+      "gas:candidate-vibid:1001000113896": 3,
+      "gas:candidate-vibid:1001000112179": 5,
+      "gas:candidate-vibid:1001000225878": 118,
+      "gas:candidate-vibid:1001000195025": 1,
+      "gas:candidate-vibid:1001000121792": 0,
+      "gas:candidate-vibid:1001000201797": 0,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073039&region=0&sub_region=0&type=429",
@@ -12048,15 +12048,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 2,
-      "Лиминчук Владимир Илларионович": 0,
-      "Мяки Артур Элденович": 5,
-      "Петеляева Ирина Владимировна": 12,
-      "Пивненко Валентина Николаевна": 93,
-      "Потиевский Виктор Александрович": 0,
-      "Тюков Борис Иванович": 3,
-      "Шилик Владимир Ильич": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:210200072671": 2,
+      "gas:candidate-vibid:1001000190281": 0,
+      "gas:candidate-vibid:1001000113896": 5,
+      "gas:candidate-vibid:1001000112179": 12,
+      "gas:candidate-vibid:1001000225878": 93,
+      "gas:candidate-vibid:1001000195025": 0,
+      "gas:candidate-vibid:1001000121792": 3,
+      "gas:candidate-vibid:1001000201797": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073039&region=0&sub_region=0&type=429",
@@ -12106,15 +12106,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 3,
-      "Лиминчук Владимир Илларионович": 1,
-      "Мяки Артур Элденович": 10,
-      "Петеляева Ирина Владимировна": 9,
-      "Пивненко Валентина Николаевна": 133,
-      "Потиевский Виктор Александрович": 1,
-      "Тюков Борис Иванович": 7,
-      "Шилик Владимир Ильич": 3,
-      "Против всех": 5
+      "gas:candidate-vibid:210200072671": 3,
+      "gas:candidate-vibid:1001000190281": 1,
+      "gas:candidate-vibid:1001000113896": 10,
+      "gas:candidate-vibid:1001000112179": 9,
+      "gas:candidate-vibid:1001000225878": 133,
+      "gas:candidate-vibid:1001000195025": 1,
+      "gas:candidate-vibid:1001000121792": 7,
+      "gas:candidate-vibid:1001000201797": 3,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073039&region=0&sub_region=0&type=429",
@@ -12164,15 +12164,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 0,
-      "Лиминчук Владимир Илларионович": 0,
-      "Мяки Артур Элденович": 4,
-      "Петеляева Ирина Владимировна": 2,
-      "Пивненко Валентина Николаевна": 36,
-      "Потиевский Виктор Александрович": 1,
-      "Тюков Борис Иванович": 3,
-      "Шилик Владимир Ильич": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:210200072671": 0,
+      "gas:candidate-vibid:1001000190281": 0,
+      "gas:candidate-vibid:1001000113896": 4,
+      "gas:candidate-vibid:1001000112179": 2,
+      "gas:candidate-vibid:1001000225878": 36,
+      "gas:candidate-vibid:1001000195025": 1,
+      "gas:candidate-vibid:1001000121792": 3,
+      "gas:candidate-vibid:1001000201797": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073039&region=0&sub_region=0&type=429",
@@ -12222,15 +12222,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 12,
-      "Лиминчук Владимир Илларионович": 10,
-      "Мяки Артур Элденович": 135,
-      "Петеляева Ирина Владимировна": 144,
-      "Пивненко Валентина Николаевна": 548,
-      "Потиевский Виктор Александрович": 10,
-      "Тюков Борис Иванович": 66,
-      "Шилик Владимир Ильич": 5,
-      "Против всех": 88
+      "gas:candidate-vibid:210200072671": 12,
+      "gas:candidate-vibid:1001000190281": 10,
+      "gas:candidate-vibid:1001000113896": 135,
+      "gas:candidate-vibid:1001000112179": 144,
+      "gas:candidate-vibid:1001000225878": 548,
+      "gas:candidate-vibid:1001000195025": 10,
+      "gas:candidate-vibid:1001000121792": 66,
+      "gas:candidate-vibid:1001000201797": 5,
+      "special:against-all": 88
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073039&region=0&sub_region=0&type=429",
@@ -12280,15 +12280,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 4,
-      "Лиминчук Владимир Илларионович": 0,
-      "Мяки Артур Элденович": 7,
-      "Петеляева Ирина Владимировна": 17,
-      "Пивненко Валентина Николаевна": 222,
-      "Потиевский Виктор Александрович": 3,
-      "Тюков Борис Иванович": 14,
-      "Шилик Владимир Ильич": 2,
-      "Против всех": 15
+      "gas:candidate-vibid:210200072671": 4,
+      "gas:candidate-vibid:1001000190281": 0,
+      "gas:candidate-vibid:1001000113896": 7,
+      "gas:candidate-vibid:1001000112179": 17,
+      "gas:candidate-vibid:1001000225878": 222,
+      "gas:candidate-vibid:1001000195025": 3,
+      "gas:candidate-vibid:1001000121792": 14,
+      "gas:candidate-vibid:1001000201797": 2,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073039&region=0&sub_region=0&type=429",
@@ -12338,15 +12338,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 0,
-      "Лиминчук Владимир Илларионович": 0,
-      "Мяки Артур Элденович": 0,
-      "Петеляева Ирина Владимировна": 3,
-      "Пивненко Валентина Николаевна": 44,
-      "Потиевский Виктор Александрович": 0,
-      "Тюков Борис Иванович": 4,
-      "Шилик Владимир Ильич": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:210200072671": 0,
+      "gas:candidate-vibid:1001000190281": 0,
+      "gas:candidate-vibid:1001000113896": 0,
+      "gas:candidate-vibid:1001000112179": 3,
+      "gas:candidate-vibid:1001000225878": 44,
+      "gas:candidate-vibid:1001000195025": 0,
+      "gas:candidate-vibid:1001000121792": 4,
+      "gas:candidate-vibid:1001000201797": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073039&region=0&sub_region=0&type=429",
@@ -12396,15 +12396,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 12,
-      "Лиминчук Владимир Илларионович": 3,
-      "Мяки Артур Элденович": 57,
-      "Петеляева Ирина Владимировна": 47,
-      "Пивненко Валентина Николаевна": 609,
-      "Потиевский Виктор Александрович": 9,
-      "Тюков Борис Иванович": 64,
-      "Шилик Владимир Ильич": 5,
-      "Против всех": 48
+      "gas:candidate-vibid:210200072671": 12,
+      "gas:candidate-vibid:1001000190281": 3,
+      "gas:candidate-vibid:1001000113896": 57,
+      "gas:candidate-vibid:1001000112179": 47,
+      "gas:candidate-vibid:1001000225878": 609,
+      "gas:candidate-vibid:1001000195025": 9,
+      "gas:candidate-vibid:1001000121792": 64,
+      "gas:candidate-vibid:1001000201797": 5,
+      "special:against-all": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073039&region=0&sub_region=0&type=429",
@@ -12454,15 +12454,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 8,
-      "Лиминчук Владимир Илларионович": 1,
-      "Мяки Артур Элденович": 4,
-      "Петеляева Ирина Владимировна": 19,
-      "Пивненко Валентина Николаевна": 200,
-      "Потиевский Виктор Александрович": 5,
-      "Тюков Борис Иванович": 14,
-      "Шилик Владимир Ильич": 2,
-      "Против всех": 18
+      "gas:candidate-vibid:210200072671": 8,
+      "gas:candidate-vibid:1001000190281": 1,
+      "gas:candidate-vibid:1001000113896": 4,
+      "gas:candidate-vibid:1001000112179": 19,
+      "gas:candidate-vibid:1001000225878": 200,
+      "gas:candidate-vibid:1001000195025": 5,
+      "gas:candidate-vibid:1001000121792": 14,
+      "gas:candidate-vibid:1001000201797": 2,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073039&region=0&sub_region=0&type=429",
@@ -12512,15 +12512,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 0,
-      "Лиминчук Владимир Илларионович": 0,
-      "Мяки Артур Элденович": 8,
-      "Петеляева Ирина Владимировна": 4,
-      "Пивненко Валентина Николаевна": 131,
-      "Потиевский Виктор Александрович": 0,
-      "Тюков Борис Иванович": 3,
-      "Шилик Владимир Ильич": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:210200072671": 0,
+      "gas:candidate-vibid:1001000190281": 0,
+      "gas:candidate-vibid:1001000113896": 8,
+      "gas:candidate-vibid:1001000112179": 4,
+      "gas:candidate-vibid:1001000225878": 131,
+      "gas:candidate-vibid:1001000195025": 0,
+      "gas:candidate-vibid:1001000121792": 3,
+      "gas:candidate-vibid:1001000201797": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200073039&region=0&sub_region=0&type=429",
@@ -12570,15 +12570,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 12,
-      "Лиминчук Владимир Илларионович": 6,
-      "Мяки Артур Элденович": 104,
-      "Петеляева Ирина Владимировна": 149,
-      "Пивненко Валентина Николаевна": 277,
-      "Потиевский Виктор Александрович": 3,
-      "Тюков Борис Иванович": 56,
-      "Шилик Владимир Ильич": 1,
-      "Против всех": 57
+      "gas:candidate-vibid:210200072671": 12,
+      "gas:candidate-vibid:1001000190281": 6,
+      "gas:candidate-vibid:1001000113896": 104,
+      "gas:candidate-vibid:1001000112179": 149,
+      "gas:candidate-vibid:1001000225878": 277,
+      "gas:candidate-vibid:1001000195025": 3,
+      "gas:candidate-vibid:1001000121792": 56,
+      "gas:candidate-vibid:1001000201797": 1,
+      "special:against-all": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200074555&region=0&sub_region=0&type=429",
@@ -12628,15 +12628,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 16,
-      "Лиминчук Владимир Илларионович": 15,
-      "Мяки Артур Элденович": 243,
-      "Петеляева Ирина Владимировна": 248,
-      "Пивненко Валентина Николаевна": 446,
-      "Потиевский Виктор Александрович": 6,
-      "Тюков Борис Иванович": 117,
-      "Шилик Владимир Ильич": 10,
-      "Против всех": 101
+      "gas:candidate-vibid:210200072671": 16,
+      "gas:candidate-vibid:1001000190281": 15,
+      "gas:candidate-vibid:1001000113896": 243,
+      "gas:candidate-vibid:1001000112179": 248,
+      "gas:candidate-vibid:1001000225878": 446,
+      "gas:candidate-vibid:1001000195025": 6,
+      "gas:candidate-vibid:1001000121792": 117,
+      "gas:candidate-vibid:1001000201797": 10,
+      "special:against-all": 101
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200074555&region=0&sub_region=0&type=429",
@@ -12686,15 +12686,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 25,
-      "Лиминчук Владимир Илларионович": 5,
-      "Мяки Артур Элденович": 164,
-      "Петеляева Ирина Владимировна": 197,
-      "Пивненко Валентина Николаевна": 422,
-      "Потиевский Виктор Александрович": 6,
-      "Тюков Борис Иванович": 46,
-      "Шилик Владимир Ильич": 1,
-      "Против всех": 82
+      "gas:candidate-vibid:210200072671": 25,
+      "gas:candidate-vibid:1001000190281": 5,
+      "gas:candidate-vibid:1001000113896": 164,
+      "gas:candidate-vibid:1001000112179": 197,
+      "gas:candidate-vibid:1001000225878": 422,
+      "gas:candidate-vibid:1001000195025": 6,
+      "gas:candidate-vibid:1001000121792": 46,
+      "gas:candidate-vibid:1001000201797": 1,
+      "special:against-all": 82
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200074555&region=0&sub_region=0&type=429",
@@ -12744,15 +12744,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 14,
-      "Лиминчук Владимир Илларионович": 2,
-      "Мяки Артур Элденович": 136,
-      "Петеляева Ирина Владимировна": 242,
-      "Пивненко Валентина Николаевна": 403,
-      "Потиевский Виктор Александрович": 5,
-      "Тюков Борис Иванович": 46,
-      "Шилик Владимир Ильич": 3,
-      "Против всех": 92
+      "gas:candidate-vibid:210200072671": 14,
+      "gas:candidate-vibid:1001000190281": 2,
+      "gas:candidate-vibid:1001000113896": 136,
+      "gas:candidate-vibid:1001000112179": 242,
+      "gas:candidate-vibid:1001000225878": 403,
+      "gas:candidate-vibid:1001000195025": 5,
+      "gas:candidate-vibid:1001000121792": 46,
+      "gas:candidate-vibid:1001000201797": 3,
+      "special:against-all": 92
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200074555&region=0&sub_region=0&type=429",
@@ -12802,15 +12802,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 13,
-      "Лиминчук Владимир Илларионович": 6,
-      "Мяки Артур Элденович": 51,
-      "Петеляева Ирина Владимировна": 150,
-      "Пивненко Валентина Николаевна": 445,
-      "Потиевский Виктор Александрович": 8,
-      "Тюков Борис Иванович": 31,
-      "Шилик Владимир Ильич": 1,
-      "Против всех": 34
+      "gas:candidate-vibid:210200072671": 13,
+      "gas:candidate-vibid:1001000190281": 6,
+      "gas:candidate-vibid:1001000113896": 51,
+      "gas:candidate-vibid:1001000112179": 150,
+      "gas:candidate-vibid:1001000225878": 445,
+      "gas:candidate-vibid:1001000195025": 8,
+      "gas:candidate-vibid:1001000121792": 31,
+      "gas:candidate-vibid:1001000201797": 1,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200074555&region=0&sub_region=0&type=429",
@@ -12860,15 +12860,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 10,
-      "Лиминчук Владимир Илларионович": 2,
-      "Мяки Артур Элденович": 41,
-      "Петеляева Ирина Владимировна": 65,
-      "Пивненко Валентина Николаевна": 244,
-      "Потиевский Виктор Александрович": 2,
-      "Тюков Борис Иванович": 15,
-      "Шилик Владимир Ильич": 2,
-      "Против всех": 27
+      "gas:candidate-vibid:210200072671": 10,
+      "gas:candidate-vibid:1001000190281": 2,
+      "gas:candidate-vibid:1001000113896": 41,
+      "gas:candidate-vibid:1001000112179": 65,
+      "gas:candidate-vibid:1001000225878": 244,
+      "gas:candidate-vibid:1001000195025": 2,
+      "gas:candidate-vibid:1001000121792": 15,
+      "gas:candidate-vibid:1001000201797": 2,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200074555&region=0&sub_region=0&type=429",
@@ -12918,15 +12918,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 2,
-      "Лиминчук Владимир Илларионович": 3,
-      "Мяки Артур Элденович": 11,
-      "Петеляева Ирина Владимировна": 29,
-      "Пивненко Валентина Николаевна": 89,
-      "Потиевский Виктор Александрович": 4,
-      "Тюков Борис Иванович": 0,
-      "Шилик Владимир Ильич": 1,
-      "Против всех": 9
+      "gas:candidate-vibid:210200072671": 2,
+      "gas:candidate-vibid:1001000190281": 3,
+      "gas:candidate-vibid:1001000113896": 11,
+      "gas:candidate-vibid:1001000112179": 29,
+      "gas:candidate-vibid:1001000225878": 89,
+      "gas:candidate-vibid:1001000195025": 4,
+      "gas:candidate-vibid:1001000121792": 0,
+      "gas:candidate-vibid:1001000201797": 1,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200074555&region=0&sub_region=0&type=429",
@@ -12976,15 +12976,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 4,
-      "Лиминчук Владимир Илларионович": 1,
-      "Мяки Артур Элденович": 2,
-      "Петеляева Ирина Владимировна": 18,
-      "Пивненко Валентина Николаевна": 66,
-      "Потиевский Виктор Александрович": 1,
-      "Тюков Борис Иванович": 5,
-      "Шилик Владимир Ильич": 0,
-      "Против всех": 7
+      "gas:candidate-vibid:210200072671": 4,
+      "gas:candidate-vibid:1001000190281": 1,
+      "gas:candidate-vibid:1001000113896": 2,
+      "gas:candidate-vibid:1001000112179": 18,
+      "gas:candidate-vibid:1001000225878": 66,
+      "gas:candidate-vibid:1001000195025": 1,
+      "gas:candidate-vibid:1001000121792": 5,
+      "gas:candidate-vibid:1001000201797": 0,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200074555&region=0&sub_region=0&type=429",
@@ -13034,15 +13034,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 2,
-      "Лиминчук Владимир Илларионович": 1,
-      "Мяки Артур Элденович": 26,
-      "Петеляева Ирина Владимировна": 21,
-      "Пивненко Валентина Николаевна": 58,
-      "Потиевский Виктор Александрович": 4,
-      "Тюков Борис Иванович": 2,
-      "Шилик Владимир Ильич": 2,
-      "Против всех": 1
+      "gas:candidate-vibid:210200072671": 2,
+      "gas:candidate-vibid:1001000190281": 1,
+      "gas:candidate-vibid:1001000113896": 26,
+      "gas:candidate-vibid:1001000112179": 21,
+      "gas:candidate-vibid:1001000225878": 58,
+      "gas:candidate-vibid:1001000195025": 4,
+      "gas:candidate-vibid:1001000121792": 2,
+      "gas:candidate-vibid:1001000201797": 2,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200074555&region=0&sub_region=0&type=429",
@@ -13092,15 +13092,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 4,
-      "Лиминчук Владимир Илларионович": 0,
-      "Мяки Артур Элденович": 45,
-      "Петеляева Ирина Владимировна": 55,
-      "Пивненко Валентина Николаевна": 129,
-      "Потиевский Виктор Александрович": 2,
-      "Тюков Борис Иванович": 9,
-      "Шилик Владимир Ильич": 3,
-      "Против всех": 12
+      "gas:candidate-vibid:210200072671": 4,
+      "gas:candidate-vibid:1001000190281": 0,
+      "gas:candidate-vibid:1001000113896": 45,
+      "gas:candidate-vibid:1001000112179": 55,
+      "gas:candidate-vibid:1001000225878": 129,
+      "gas:candidate-vibid:1001000195025": 2,
+      "gas:candidate-vibid:1001000121792": 9,
+      "gas:candidate-vibid:1001000201797": 3,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200074555&region=0&sub_region=0&type=429",
@@ -13150,15 +13150,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 3,
-      "Лиминчук Владимир Илларионович": 2,
-      "Мяки Артур Элденович": 15,
-      "Петеляева Ирина Владимировна": 18,
-      "Пивненко Валентина Николаевна": 66,
-      "Потиевский Виктор Александрович": 1,
-      "Тюков Борис Иванович": 7,
-      "Шилик Владимир Ильич": 2,
-      "Против всех": 13
+      "gas:candidate-vibid:210200072671": 3,
+      "gas:candidate-vibid:1001000190281": 2,
+      "gas:candidate-vibid:1001000113896": 15,
+      "gas:candidate-vibid:1001000112179": 18,
+      "gas:candidate-vibid:1001000225878": 66,
+      "gas:candidate-vibid:1001000195025": 1,
+      "gas:candidate-vibid:1001000121792": 7,
+      "gas:candidate-vibid:1001000201797": 2,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200074555&region=0&sub_region=0&type=429",
@@ -13208,15 +13208,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 13,
-      "Лиминчук Владимир Илларионович": 1,
-      "Мяки Артур Элденович": 38,
-      "Петеляева Ирина Владимировна": 83,
-      "Пивненко Валентина Николаевна": 249,
-      "Потиевский Виктор Александрович": 5,
-      "Тюков Борис Иванович": 22,
-      "Шилик Владимир Ильич": 4,
-      "Против всех": 37
+      "gas:candidate-vibid:210200072671": 13,
+      "gas:candidate-vibid:1001000190281": 1,
+      "gas:candidate-vibid:1001000113896": 38,
+      "gas:candidate-vibid:1001000112179": 83,
+      "gas:candidate-vibid:1001000225878": 249,
+      "gas:candidate-vibid:1001000195025": 5,
+      "gas:candidate-vibid:1001000121792": 22,
+      "gas:candidate-vibid:1001000201797": 4,
+      "special:against-all": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200074555&region=0&sub_region=0&type=429",
@@ -13266,15 +13266,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 12,
-      "Лиминчук Владимир Илларионович": 3,
-      "Мяки Артур Элденович": 28,
-      "Петеляева Ирина Владимировна": 88,
-      "Пивненко Валентина Николаевна": 251,
-      "Потиевский Виктор Александрович": 2,
-      "Тюков Борис Иванович": 17,
-      "Шилик Владимир Ильич": 6,
-      "Против всех": 46
+      "gas:candidate-vibid:210200072671": 12,
+      "gas:candidate-vibid:1001000190281": 3,
+      "gas:candidate-vibid:1001000113896": 28,
+      "gas:candidate-vibid:1001000112179": 88,
+      "gas:candidate-vibid:1001000225878": 251,
+      "gas:candidate-vibid:1001000195025": 2,
+      "gas:candidate-vibid:1001000121792": 17,
+      "gas:candidate-vibid:1001000201797": 6,
+      "special:against-all": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200074555&region=0&sub_region=0&type=429",
@@ -13324,15 +13324,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 11,
-      "Лиминчук Владимир Илларионович": 3,
-      "Мяки Артур Элденович": 39,
-      "Петеляева Ирина Владимировна": 96,
-      "Пивненко Валентина Николаевна": 382,
-      "Потиевский Виктор Александрович": 4,
-      "Тюков Борис Иванович": 28,
-      "Шилик Владимир Ильич": 3,
-      "Против всех": 40
+      "gas:candidate-vibid:210200072671": 11,
+      "gas:candidate-vibid:1001000190281": 3,
+      "gas:candidate-vibid:1001000113896": 39,
+      "gas:candidate-vibid:1001000112179": 96,
+      "gas:candidate-vibid:1001000225878": 382,
+      "gas:candidate-vibid:1001000195025": 4,
+      "gas:candidate-vibid:1001000121792": 28,
+      "gas:candidate-vibid:1001000201797": 3,
+      "special:against-all": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200074555&region=0&sub_region=0&type=429",
@@ -13382,15 +13382,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 5,
-      "Лиминчук Владимир Илларионович": 4,
-      "Мяки Артур Элденович": 9,
-      "Петеляева Ирина Владимировна": 42,
-      "Пивненко Валентина Николаевна": 97,
-      "Потиевский Виктор Александрович": 6,
-      "Тюков Борис Иванович": 16,
-      "Шилик Владимир Ильич": 9,
-      "Против всех": 11
+      "gas:candidate-vibid:210200072671": 5,
+      "gas:candidate-vibid:1001000190281": 4,
+      "gas:candidate-vibid:1001000113896": 9,
+      "gas:candidate-vibid:1001000112179": 42,
+      "gas:candidate-vibid:1001000225878": 97,
+      "gas:candidate-vibid:1001000195025": 6,
+      "gas:candidate-vibid:1001000121792": 16,
+      "gas:candidate-vibid:1001000201797": 9,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200074555&region=0&sub_region=0&type=429",
@@ -13440,15 +13440,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 0,
-      "Лиминчук Владимир Илларионович": 0,
-      "Мяки Артур Элденович": 9,
-      "Петеляева Ирина Владимировна": 19,
-      "Пивненко Валентина Николаевна": 78,
-      "Потиевский Виктор Александрович": 1,
-      "Тюков Борис Иванович": 3,
-      "Шилик Владимир Ильич": 1,
-      "Против всех": 5
+      "gas:candidate-vibid:210200072671": 0,
+      "gas:candidate-vibid:1001000190281": 0,
+      "gas:candidate-vibid:1001000113896": 9,
+      "gas:candidate-vibid:1001000112179": 19,
+      "gas:candidate-vibid:1001000225878": 78,
+      "gas:candidate-vibid:1001000195025": 1,
+      "gas:candidate-vibid:1001000121792": 3,
+      "gas:candidate-vibid:1001000201797": 1,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200074555&region=0&sub_region=0&type=429",
@@ -13498,15 +13498,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 3,
-      "Лиминчук Владимир Илларионович": 0,
-      "Мяки Артур Элденович": 17,
-      "Петеляева Ирина Владимировна": 47,
-      "Пивненко Валентина Николаевна": 181,
-      "Потиевский Виктор Александрович": 3,
-      "Тюков Борис Иванович": 11,
-      "Шилик Владимир Ильич": 4,
-      "Против всех": 17
+      "gas:candidate-vibid:210200072671": 3,
+      "gas:candidate-vibid:1001000190281": 0,
+      "gas:candidate-vibid:1001000113896": 17,
+      "gas:candidate-vibid:1001000112179": 47,
+      "gas:candidate-vibid:1001000225878": 181,
+      "gas:candidate-vibid:1001000195025": 3,
+      "gas:candidate-vibid:1001000121792": 11,
+      "gas:candidate-vibid:1001000201797": 4,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200074555&region=0&sub_region=0&type=429",
@@ -13556,15 +13556,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 0,
-      "Лиминчук Владимир Илларионович": 0,
-      "Мяки Артур Элденович": 2,
-      "Петеляева Ирина Владимировна": 17,
-      "Пивненко Валентина Николаевна": 23,
-      "Потиевский Виктор Александрович": 0,
-      "Тюков Борис Иванович": 5,
-      "Шилик Владимир Ильич": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:210200072671": 0,
+      "gas:candidate-vibid:1001000190281": 0,
+      "gas:candidate-vibid:1001000113896": 2,
+      "gas:candidate-vibid:1001000112179": 17,
+      "gas:candidate-vibid:1001000225878": 23,
+      "gas:candidate-vibid:1001000195025": 0,
+      "gas:candidate-vibid:1001000121792": 5,
+      "gas:candidate-vibid:1001000201797": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200074555&region=0&sub_region=0&type=429",
@@ -13614,15 +13614,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 1,
-      "Лиминчук Владимир Илларионович": 3,
-      "Мяки Артур Элденович": 15,
-      "Петеляева Ирина Владимировна": 14,
-      "Пивненко Валентина Николаевна": 39,
-      "Потиевский Виктор Александрович": 0,
-      "Тюков Борис Иванович": 10,
-      "Шилик Владимир Ильич": 0,
-      "Против всех": 4
+      "gas:candidate-vibid:210200072671": 1,
+      "gas:candidate-vibid:1001000190281": 3,
+      "gas:candidate-vibid:1001000113896": 15,
+      "gas:candidate-vibid:1001000112179": 14,
+      "gas:candidate-vibid:1001000225878": 39,
+      "gas:candidate-vibid:1001000195025": 0,
+      "gas:candidate-vibid:1001000121792": 10,
+      "gas:candidate-vibid:1001000201797": 0,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200074555&region=0&sub_region=0&type=429",
@@ -13672,15 +13672,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 1,
-      "Лиминчук Владимир Илларионович": 2,
-      "Мяки Артур Элденович": 20,
-      "Петеляева Ирина Владимировна": 29,
-      "Пивненко Валентина Николаевна": 157,
-      "Потиевский Виктор Александрович": 2,
-      "Тюков Борис Иванович": 2,
-      "Шилик Владимир Ильич": 0,
-      "Против всех": 18
+      "gas:candidate-vibid:210200072671": 1,
+      "gas:candidate-vibid:1001000190281": 2,
+      "gas:candidate-vibid:1001000113896": 20,
+      "gas:candidate-vibid:1001000112179": 29,
+      "gas:candidate-vibid:1001000225878": 157,
+      "gas:candidate-vibid:1001000195025": 2,
+      "gas:candidate-vibid:1001000121792": 2,
+      "gas:candidate-vibid:1001000201797": 0,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200074555&region=0&sub_region=0&type=429",
@@ -13730,15 +13730,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 1,
-      "Лиминчук Владимир Илларионович": 0,
-      "Мяки Артур Элденович": 1,
-      "Петеляева Ирина Владимировна": 0,
-      "Пивненко Валентина Николаевна": 34,
-      "Потиевский Виктор Александрович": 0,
-      "Тюков Борис Иванович": 0,
-      "Шилик Владимир Ильич": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:210200072671": 1,
+      "gas:candidate-vibid:1001000190281": 0,
+      "gas:candidate-vibid:1001000113896": 1,
+      "gas:candidate-vibid:1001000112179": 0,
+      "gas:candidate-vibid:1001000225878": 34,
+      "gas:candidate-vibid:1001000195025": 0,
+      "gas:candidate-vibid:1001000121792": 0,
+      "gas:candidate-vibid:1001000201797": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200074555&region=0&sub_region=0&type=429",
@@ -13788,15 +13788,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 0,
-      "Лиминчук Владимир Илларионович": 0,
-      "Мяки Артур Элденович": 0,
-      "Петеляева Ирина Владимировна": 4,
-      "Пивненко Валентина Николаевна": 27,
-      "Потиевский Виктор Александрович": 0,
-      "Тюков Борис Иванович": 2,
-      "Шилик Владимир Ильич": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:210200072671": 0,
+      "gas:candidate-vibid:1001000190281": 0,
+      "gas:candidate-vibid:1001000113896": 0,
+      "gas:candidate-vibid:1001000112179": 4,
+      "gas:candidate-vibid:1001000225878": 27,
+      "gas:candidate-vibid:1001000195025": 0,
+      "gas:candidate-vibid:1001000121792": 2,
+      "gas:candidate-vibid:1001000201797": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200074555&region=0&sub_region=0&type=429",
@@ -13846,15 +13846,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 0,
-      "Лиминчук Владимир Илларионович": 0,
-      "Мяки Артур Элденович": 3,
-      "Петеляева Ирина Владимировна": 2,
-      "Пивненко Валентина Николаевна": 20,
-      "Потиевский Виктор Александрович": 0,
-      "Тюков Борис Иванович": 0,
-      "Шилик Владимир Ильич": 1,
-      "Против всех": 1
+      "gas:candidate-vibid:210200072671": 0,
+      "gas:candidate-vibid:1001000190281": 0,
+      "gas:candidate-vibid:1001000113896": 3,
+      "gas:candidate-vibid:1001000112179": 2,
+      "gas:candidate-vibid:1001000225878": 20,
+      "gas:candidate-vibid:1001000195025": 0,
+      "gas:candidate-vibid:1001000121792": 0,
+      "gas:candidate-vibid:1001000201797": 1,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200074555&region=0&sub_region=0&type=429",
@@ -13904,15 +13904,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 0,
-      "Лиминчук Владимир Илларионович": 0,
-      "Мяки Артур Элденович": 2,
-      "Петеляева Ирина Владимировна": 2,
-      "Пивненко Валентина Николаевна": 20,
-      "Потиевский Виктор Александрович": 0,
-      "Тюков Борис Иванович": 0,
-      "Шилик Владимир Ильич": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:210200072671": 0,
+      "gas:candidate-vibid:1001000190281": 0,
+      "gas:candidate-vibid:1001000113896": 2,
+      "gas:candidate-vibid:1001000112179": 2,
+      "gas:candidate-vibid:1001000225878": 20,
+      "gas:candidate-vibid:1001000195025": 0,
+      "gas:candidate-vibid:1001000121792": 0,
+      "gas:candidate-vibid:1001000201797": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200074555&region=0&sub_region=0&type=429",
@@ -13962,15 +13962,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 6,
-      "Лиминчук Владимир Илларионович": 1,
-      "Мяки Артур Элденович": 55,
-      "Петеляева Ирина Владимировна": 70,
-      "Пивненко Валентина Николаевна": 298,
-      "Потиевский Виктор Александрович": 4,
-      "Тюков Борис Иванович": 32,
-      "Шилик Владимир Ильич": 1,
-      "Против всех": 32
+      "gas:candidate-vibid:210200072671": 6,
+      "gas:candidate-vibid:1001000190281": 1,
+      "gas:candidate-vibid:1001000113896": 55,
+      "gas:candidate-vibid:1001000112179": 70,
+      "gas:candidate-vibid:1001000225878": 298,
+      "gas:candidate-vibid:1001000195025": 4,
+      "gas:candidate-vibid:1001000121792": 32,
+      "gas:candidate-vibid:1001000201797": 1,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200074555&region=0&sub_region=0&type=429",
@@ -14020,15 +14020,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 4,
-      "Лиминчук Владимир Илларионович": 0,
-      "Мяки Артур Элденович": 16,
-      "Петеляева Ирина Владимировна": 16,
-      "Пивненко Валентина Николаевна": 131,
-      "Потиевский Виктор Александрович": 2,
-      "Тюков Борис Иванович": 15,
-      "Шилик Владимир Ильич": 0,
-      "Против всех": 7
+      "gas:candidate-vibid:210200072671": 4,
+      "gas:candidate-vibid:1001000190281": 0,
+      "gas:candidate-vibid:1001000113896": 16,
+      "gas:candidate-vibid:1001000112179": 16,
+      "gas:candidate-vibid:1001000225878": 131,
+      "gas:candidate-vibid:1001000195025": 2,
+      "gas:candidate-vibid:1001000121792": 15,
+      "gas:candidate-vibid:1001000201797": 0,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200074555&region=0&sub_region=0&type=429",
@@ -14078,15 +14078,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 6,
-      "Лиминчук Владимир Илларионович": 1,
-      "Мяки Артур Элденович": 58,
-      "Петеляева Ирина Владимировна": 36,
-      "Пивненко Валентина Николаевна": 136,
-      "Потиевский Виктор Александрович": 3,
-      "Тюков Борис Иванович": 25,
-      "Шилик Владимир Ильич": 2,
-      "Против всех": 12
+      "gas:candidate-vibid:210200072671": 6,
+      "gas:candidate-vibid:1001000190281": 1,
+      "gas:candidate-vibid:1001000113896": 58,
+      "gas:candidate-vibid:1001000112179": 36,
+      "gas:candidate-vibid:1001000225878": 136,
+      "gas:candidate-vibid:1001000195025": 3,
+      "gas:candidate-vibid:1001000121792": 25,
+      "gas:candidate-vibid:1001000201797": 2,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200074555&region=0&sub_region=0&type=429",
@@ -14136,15 +14136,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 0,
-      "Лиминчук Владимир Илларионович": 0,
-      "Мяки Артур Элденович": 15,
-      "Петеляева Ирина Владимировна": 12,
-      "Пивненко Валентина Николаевна": 55,
-      "Потиевский Виктор Александрович": 0,
-      "Тюков Борис Иванович": 10,
-      "Шилик Владимир Ильич": 1,
-      "Против всех": 4
+      "gas:candidate-vibid:210200072671": 0,
+      "gas:candidate-vibid:1001000190281": 0,
+      "gas:candidate-vibid:1001000113896": 15,
+      "gas:candidate-vibid:1001000112179": 12,
+      "gas:candidate-vibid:1001000225878": 55,
+      "gas:candidate-vibid:1001000195025": 0,
+      "gas:candidate-vibid:1001000121792": 10,
+      "gas:candidate-vibid:1001000201797": 1,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200074555&region=0&sub_region=0&type=429",
@@ -14194,15 +14194,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 5,
-      "Лиминчук Владимир Илларионович": 3,
-      "Мяки Артур Элденович": 49,
-      "Петеляева Ирина Владимировна": 24,
-      "Пивненко Валентина Николаевна": 199,
-      "Потиевский Виктор Александрович": 0,
-      "Тюков Борис Иванович": 9,
-      "Шилик Владимир Ильич": 0,
-      "Против всех": 14
+      "gas:candidate-vibid:210200072671": 5,
+      "gas:candidate-vibid:1001000190281": 3,
+      "gas:candidate-vibid:1001000113896": 49,
+      "gas:candidate-vibid:1001000112179": 24,
+      "gas:candidate-vibid:1001000225878": 199,
+      "gas:candidate-vibid:1001000195025": 0,
+      "gas:candidate-vibid:1001000121792": 9,
+      "gas:candidate-vibid:1001000201797": 0,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200074555&region=0&sub_region=0&type=429",
@@ -14252,15 +14252,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 9,
-      "Лиминчук Владимир Илларионович": 1,
-      "Мяки Артур Элденович": 29,
-      "Петеляева Ирина Владимировна": 54,
-      "Пивненко Валентина Николаевна": 260,
-      "Потиевский Виктор Александрович": 1,
-      "Тюков Борис Иванович": 20,
-      "Шилик Владимир Ильич": 0,
-      "Против всех": 25
+      "gas:candidate-vibid:210200072671": 9,
+      "gas:candidate-vibid:1001000190281": 1,
+      "gas:candidate-vibid:1001000113896": 29,
+      "gas:candidate-vibid:1001000112179": 54,
+      "gas:candidate-vibid:1001000225878": 260,
+      "gas:candidate-vibid:1001000195025": 1,
+      "gas:candidate-vibid:1001000121792": 20,
+      "gas:candidate-vibid:1001000201797": 0,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200074555&region=0&sub_region=0&type=429",
@@ -14310,15 +14310,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 2,
-      "Лиминчук Владимир Илларионович": 2,
-      "Мяки Артур Элденович": 13,
-      "Петеляева Ирина Владимировна": 15,
-      "Пивненко Валентина Николаевна": 61,
-      "Потиевский Виктор Александрович": 1,
-      "Тюков Борис Иванович": 11,
-      "Шилик Владимир Ильич": 0,
-      "Против всех": 6
+      "gas:candidate-vibid:210200072671": 2,
+      "gas:candidate-vibid:1001000190281": 2,
+      "gas:candidate-vibid:1001000113896": 13,
+      "gas:candidate-vibid:1001000112179": 15,
+      "gas:candidate-vibid:1001000225878": 61,
+      "gas:candidate-vibid:1001000195025": 1,
+      "gas:candidate-vibid:1001000121792": 11,
+      "gas:candidate-vibid:1001000201797": 0,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200074555&region=0&sub_region=0&type=429",
@@ -14368,15 +14368,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 39,
-      "Лиминчук Владимир Илларионович": 7,
-      "Мяки Артур Элденович": 108,
-      "Петеляева Ирина Владимировна": 148,
-      "Пивненко Валентина Николаевна": 291,
-      "Потиевский Виктор Александрович": 12,
-      "Тюков Борис Иванович": 45,
-      "Шилик Владимир Ильич": 9,
-      "Против всех": 89
+      "gas:candidate-vibid:210200072671": 39,
+      "gas:candidate-vibid:1001000190281": 7,
+      "gas:candidate-vibid:1001000113896": 108,
+      "gas:candidate-vibid:1001000112179": 148,
+      "gas:candidate-vibid:1001000225878": 291,
+      "gas:candidate-vibid:1001000195025": 12,
+      "gas:candidate-vibid:1001000121792": 45,
+      "gas:candidate-vibid:1001000201797": 9,
+      "special:against-all": 89
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200074556&region=0&sub_region=0&type=429",
@@ -14426,15 +14426,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 68,
-      "Лиминчук Владимир Илларионович": 9,
-      "Мяки Артур Элденович": 135,
-      "Петеляева Ирина Владимировна": 175,
-      "Пивненко Валентина Николаевна": 346,
-      "Потиевский Виктор Александрович": 6,
-      "Тюков Борис Иванович": 76,
-      "Шилик Владимир Ильич": 10,
-      "Против всех": 302
+      "gas:candidate-vibid:210200072671": 68,
+      "gas:candidate-vibid:1001000190281": 9,
+      "gas:candidate-vibid:1001000113896": 135,
+      "gas:candidate-vibid:1001000112179": 175,
+      "gas:candidate-vibid:1001000225878": 346,
+      "gas:candidate-vibid:1001000195025": 6,
+      "gas:candidate-vibid:1001000121792": 76,
+      "gas:candidate-vibid:1001000201797": 10,
+      "special:against-all": 302
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200074556&region=0&sub_region=0&type=429",
@@ -14484,15 +14484,15 @@ export const duma_2003_uik_428_region_10_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белянинов Алексей Иванович": 27,
-      "Лиминчук Владимир Илларионович": 9,
-      "Мяки Артур Элденович": 118,
-      "Петеляева Ирина Владимировна": 200,
-      "Пивненко Валентина Николаевна": 286,
-      "Потиевский Виктор Александрович": 8,
-      "Тюков Борис Иванович": 74,
-      "Шилик Владимир Ильич": 8,
-      "Против всех": 100
+      "gas:candidate-vibid:210200072671": 27,
+      "gas:candidate-vibid:1001000190281": 9,
+      "gas:candidate-vibid:1001000113896": 118,
+      "gas:candidate-vibid:1001000112179": 200,
+      "gas:candidate-vibid:1001000225878": 286,
+      "gas:candidate-vibid:1001000195025": 8,
+      "gas:candidate-vibid:1001000121792": 74,
+      "gas:candidate-vibid:1001000201797": 8,
+      "special:against-all": 100
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=210200074556&region=0&sub_region=0&type=429",

@@ -42,12 +42,12 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Деминенко Геннадий Яковлевич": 2,
-      "Крючин Сергей Васильевич": 33,
-      "Рахно Зинаида Васильевна": 2,
-      "Ткачев Алексей Николаевич": 231,
-      "Шалимов Анатолий Павлович": 4,
-      "Против всех": 32
+      "gas:candidate-vibid:1001000190303": 2,
+      "gas:candidate-vibid:1001000136020": 33,
+      "gas:candidate-vibid:1001000112195": 2,
+      "gas:candidate-vibid:323300670868": 231,
+      "gas:candidate-vibid:1001000195049": 4,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000046&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070409&region=0&sub_region=0&type=429",
@@ -97,12 +97,12 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Деминенко Геннадий Яковлевич": 36,
-      "Крючин Сергей Васильевич": 132,
-      "Рахно Зинаида Васильевна": 41,
-      "Ткачев Алексей Николаевич": 1279,
-      "Шалимов Анатолий Павлович": 9,
-      "Против всех": 117
+      "gas:candidate-vibid:1001000190303": 36,
+      "gas:candidate-vibid:1001000136020": 132,
+      "gas:candidate-vibid:1001000112195": 41,
+      "gas:candidate-vibid:323300670868": 1279,
+      "gas:candidate-vibid:1001000195049": 9,
+      "special:against-all": 117
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000046&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070409&region=0&sub_region=0&type=429",
@@ -152,12 +152,12 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Деминенко Геннадий Яковлевич": 14,
-      "Крючин Сергей Васильевич": 86,
-      "Рахно Зинаида Васильевна": 13,
-      "Ткачев Алексей Николаевич": 736,
-      "Шалимов Анатолий Павлович": 14,
-      "Против всех": 123
+      "gas:candidate-vibid:1001000190303": 14,
+      "gas:candidate-vibid:1001000136020": 86,
+      "gas:candidate-vibid:1001000112195": 13,
+      "gas:candidate-vibid:323300670868": 736,
+      "gas:candidate-vibid:1001000195049": 14,
+      "special:against-all": 123
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000046&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070409&region=0&sub_region=0&type=429",
@@ -207,12 +207,12 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Деминенко Геннадий Яковлевич": 10,
-      "Крючин Сергей Васильевич": 49,
-      "Рахно Зинаида Васильевна": 9,
-      "Ткачев Алексей Николаевич": 294,
-      "Шалимов Анатолий Павлович": 7,
-      "Против всех": 94
+      "gas:candidate-vibid:1001000190303": 10,
+      "gas:candidate-vibid:1001000136020": 49,
+      "gas:candidate-vibid:1001000112195": 9,
+      "gas:candidate-vibid:323300670868": 294,
+      "gas:candidate-vibid:1001000195049": 7,
+      "special:against-all": 94
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000046&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070409&region=0&sub_region=0&type=429",
@@ -262,12 +262,12 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Деминенко Геннадий Яковлевич": 14,
-      "Крючин Сергей Васильевич": 121,
-      "Рахно Зинаида Васильевна": 21,
-      "Ткачев Алексей Николаевич": 534,
-      "Шалимов Анатолий Павлович": 9,
-      "Против всех": 83
+      "gas:candidate-vibid:1001000190303": 14,
+      "gas:candidate-vibid:1001000136020": 121,
+      "gas:candidate-vibid:1001000112195": 21,
+      "gas:candidate-vibid:323300670868": 534,
+      "gas:candidate-vibid:1001000195049": 9,
+      "special:against-all": 83
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000046&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070409&region=0&sub_region=0&type=429",
@@ -317,12 +317,12 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Деминенко Геннадий Яковлевич": 0,
-      "Крючин Сергей Васильевич": 11,
-      "Рахно Зинаида Васильевна": 2,
-      "Ткачев Алексей Николаевич": 149,
-      "Шалимов Анатолий Павлович": 1,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000190303": 0,
+      "gas:candidate-vibid:1001000136020": 11,
+      "gas:candidate-vibid:1001000112195": 2,
+      "gas:candidate-vibid:323300670868": 149,
+      "gas:candidate-vibid:1001000195049": 1,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000046&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070409&region=0&sub_region=0&type=429",
@@ -372,12 +372,12 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Деминенко Геннадий Яковлевич": 0,
-      "Крючин Сергей Васильевич": 11,
-      "Рахно Зинаида Васильевна": 1,
-      "Ткачев Алексей Николаевич": 122,
-      "Шалимов Анатолий Павлович": 3,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000190303": 0,
+      "gas:candidate-vibid:1001000136020": 11,
+      "gas:candidate-vibid:1001000112195": 1,
+      "gas:candidate-vibid:323300670868": 122,
+      "gas:candidate-vibid:1001000195049": 3,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000046&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070409&region=0&sub_region=0&type=429",
@@ -427,12 +427,12 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Деминенко Геннадий Яковлевич": 3,
-      "Крючин Сергей Васильевич": 10,
-      "Рахно Зинаида Васильевна": 0,
-      "Ткачев Алексей Николаевич": 81,
-      "Шалимов Анатолий Павлович": 4,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000190303": 3,
+      "gas:candidate-vibid:1001000136020": 10,
+      "gas:candidate-vibid:1001000112195": 0,
+      "gas:candidate-vibid:323300670868": 81,
+      "gas:candidate-vibid:1001000195049": 4,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000046&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070409&region=0&sub_region=0&type=429",
@@ -482,12 +482,12 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Деминенко Геннадий Яковлевич": 5,
-      "Крючин Сергей Васильевич": 3,
-      "Рахно Зинаида Васильевна": 7,
-      "Ткачев Алексей Николаевич": 147,
-      "Шалимов Анатолий Павлович": 3,
-      "Против всех": 30
+      "gas:candidate-vibid:1001000190303": 5,
+      "gas:candidate-vibid:1001000136020": 3,
+      "gas:candidate-vibid:1001000112195": 7,
+      "gas:candidate-vibid:323300670868": 147,
+      "gas:candidate-vibid:1001000195049": 3,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000046&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070409&region=0&sub_region=0&type=429",
@@ -537,12 +537,12 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Деминенко Геннадий Яковлевич": 5,
-      "Крючин Сергей Васильевич": 29,
-      "Рахно Зинаида Васильевна": 3,
-      "Ткачев Алексей Николаевич": 182,
-      "Шалимов Анатолий Павлович": 7,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000190303": 5,
+      "gas:candidate-vibid:1001000136020": 29,
+      "gas:candidate-vibid:1001000112195": 3,
+      "gas:candidate-vibid:323300670868": 182,
+      "gas:candidate-vibid:1001000195049": 7,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000046&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070409&region=0&sub_region=0&type=429",
@@ -592,12 +592,12 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Деминенко Геннадий Яковлевич": 20,
-      "Крючин Сергей Васильевич": 115,
-      "Рахно Зинаида Васильевна": 40,
-      "Ткачев Алексей Николаевич": 984,
-      "Шалимов Анатолий Павлович": 19,
-      "Против всех": 170
+      "gas:candidate-vibid:1001000190303": 20,
+      "gas:candidate-vibid:1001000136020": 115,
+      "gas:candidate-vibid:1001000112195": 40,
+      "gas:candidate-vibid:323300670868": 984,
+      "gas:candidate-vibid:1001000195049": 19,
+      "special:against-all": 170
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000046&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070409&region=0&sub_region=0&type=429",
@@ -647,12 +647,12 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Деминенко Геннадий Яковлевич": 43,
-      "Крючин Сергей Васильевич": 243,
-      "Рахно Зинаида Васильевна": 45,
-      "Ткачев Алексей Николаевич": 870,
-      "Шалимов Анатолий Павлович": 18,
-      "Против всех": 173
+      "gas:candidate-vibid:1001000190303": 43,
+      "gas:candidate-vibid:1001000136020": 243,
+      "gas:candidate-vibid:1001000112195": 45,
+      "gas:candidate-vibid:323300670868": 870,
+      "gas:candidate-vibid:1001000195049": 18,
+      "special:against-all": 173
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000046&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070409&region=0&sub_region=0&type=429",
@@ -702,12 +702,12 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Деминенко Геннадий Яковлевич": 36,
-      "Крючин Сергей Васильевич": 207,
-      "Рахно Зинаида Васильевна": 42,
-      "Ткачев Алексей Николаевич": 795,
-      "Шалимов Анатолий Павлович": 20,
-      "Против всех": 196
+      "gas:candidate-vibid:1001000190303": 36,
+      "gas:candidate-vibid:1001000136020": 207,
+      "gas:candidate-vibid:1001000112195": 42,
+      "gas:candidate-vibid:323300670868": 795,
+      "gas:candidate-vibid:1001000195049": 20,
+      "special:against-all": 196
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000046&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070409&region=0&sub_region=0&type=429",
@@ -757,12 +757,12 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Деминенко Геннадий Яковлевич": 64,
-      "Крючин Сергей Васильевич": 153,
-      "Рахно Зинаида Васильевна": 39,
-      "Ткачев Алексей Николаевич": 906,
-      "Шалимов Анатолий Павлович": 34,
-      "Против всех": 149
+      "gas:candidate-vibid:1001000190303": 64,
+      "gas:candidate-vibid:1001000136020": 153,
+      "gas:candidate-vibid:1001000112195": 39,
+      "gas:candidate-vibid:323300670868": 906,
+      "gas:candidate-vibid:1001000195049": 34,
+      "special:against-all": 149
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000046&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070409&region=0&sub_region=0&type=429",
@@ -812,12 +812,12 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Деминенко Геннадий Яковлевич": 35,
-      "Крючин Сергей Васильевич": 148,
-      "Рахно Зинаида Васильевна": 59,
-      "Ткачев Алексей Николаевич": 681,
-      "Шалимов Анатолий Павлович": 20,
-      "Против всех": 139
+      "gas:candidate-vibid:1001000190303": 35,
+      "gas:candidate-vibid:1001000136020": 148,
+      "gas:candidate-vibid:1001000112195": 59,
+      "gas:candidate-vibid:323300670868": 681,
+      "gas:candidate-vibid:1001000195049": 20,
+      "special:against-all": 139
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000046&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070409&region=0&sub_region=0&type=429",
@@ -867,12 +867,12 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Деминенко Геннадий Яковлевич": 14,
-      "Крючин Сергей Васильевич": 42,
-      "Рахно Зинаида Васильевна": 66,
-      "Ткачев Алексей Николаевич": 434,
-      "Шалимов Анатолий Павлович": 8,
-      "Против всех": 81
+      "gas:candidate-vibid:1001000190303": 14,
+      "gas:candidate-vibid:1001000136020": 42,
+      "gas:candidate-vibid:1001000112195": 66,
+      "gas:candidate-vibid:323300670868": 434,
+      "gas:candidate-vibid:1001000195049": 8,
+      "special:against-all": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070410&region=0&sub_region=0&type=429",
@@ -922,12 +922,12 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Деминенко Геннадий Яковлевич": 20,
-      "Крючин Сергей Васильевич": 105,
-      "Рахно Зинаида Васильевна": 80,
-      "Ткачев Алексей Николаевич": 638,
-      "Шалимов Анатолий Павлович": 19,
-      "Против всех": 121
+      "gas:candidate-vibid:1001000190303": 20,
+      "gas:candidate-vibid:1001000136020": 105,
+      "gas:candidate-vibid:1001000112195": 80,
+      "gas:candidate-vibid:323300670868": 638,
+      "gas:candidate-vibid:1001000195049": 19,
+      "special:against-all": 121
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070410&region=0&sub_region=0&type=429",
@@ -977,12 +977,12 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Деминенко Геннадий Яковлевич": 23,
-      "Крючин Сергей Васильевич": 89,
-      "Рахно Зинаида Васильевна": 91,
-      "Ткачев Алексей Николаевич": 870,
-      "Шалимов Анатолий Павлович": 15,
-      "Против всех": 161
+      "gas:candidate-vibid:1001000190303": 23,
+      "gas:candidate-vibid:1001000136020": 89,
+      "gas:candidate-vibid:1001000112195": 91,
+      "gas:candidate-vibid:323300670868": 870,
+      "gas:candidate-vibid:1001000195049": 15,
+      "special:against-all": 161
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070410&region=0&sub_region=0&type=429",
@@ -1032,12 +1032,12 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Деминенко Геннадий Яковлевич": 23,
-      "Крючин Сергей Васильевич": 91,
-      "Рахно Зинаида Васильевна": 91,
-      "Ткачев Алексей Николаевич": 844,
-      "Шалимов Анатолий Павлович": 19,
-      "Против всех": 154
+      "gas:candidate-vibid:1001000190303": 23,
+      "gas:candidate-vibid:1001000136020": 91,
+      "gas:candidate-vibid:1001000112195": 91,
+      "gas:candidate-vibid:323300670868": 844,
+      "gas:candidate-vibid:1001000195049": 19,
+      "special:against-all": 154
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070410&region=0&sub_region=0&type=429",
@@ -1087,12 +1087,12 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Деминенко Геннадий Яковлевич": 12,
-      "Крючин Сергей Васильевич": 40,
-      "Рахно Зинаида Васильевна": 45,
-      "Ткачев Алексей Николаевич": 401,
-      "Шалимов Анатолий Павлович": 7,
-      "Против всех": 62
+      "gas:candidate-vibid:1001000190303": 12,
+      "gas:candidate-vibid:1001000136020": 40,
+      "gas:candidate-vibid:1001000112195": 45,
+      "gas:candidate-vibid:323300670868": 401,
+      "gas:candidate-vibid:1001000195049": 7,
+      "special:against-all": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070410&region=0&sub_region=0&type=429",
@@ -1142,12 +1142,12 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Деминенко Геннадий Яковлевич": 17,
-      "Крючин Сергей Васильевич": 65,
-      "Рахно Зинаида Васильевна": 55,
-      "Ткачев Алексей Николаевич": 578,
-      "Шалимов Анатолий Павлович": 7,
-      "Против всех": 111
+      "gas:candidate-vibid:1001000190303": 17,
+      "gas:candidate-vibid:1001000136020": 65,
+      "gas:candidate-vibid:1001000112195": 55,
+      "gas:candidate-vibid:323300670868": 578,
+      "gas:candidate-vibid:1001000195049": 7,
+      "special:against-all": 111
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070410&region=0&sub_region=0&type=429",
@@ -1197,12 +1197,12 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Деминенко Геннадий Яковлевич": 15,
-      "Крючин Сергей Васильевич": 30,
-      "Рахно Зинаида Васильевна": 43,
-      "Ткачев Алексей Николаевич": 357,
-      "Шалимов Анатолий Павлович": 3,
-      "Против всех": 70
+      "gas:candidate-vibid:1001000190303": 15,
+      "gas:candidate-vibid:1001000136020": 30,
+      "gas:candidate-vibid:1001000112195": 43,
+      "gas:candidate-vibid:323300670868": 357,
+      "gas:candidate-vibid:1001000195049": 3,
+      "special:against-all": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070410&region=0&sub_region=0&type=429",
@@ -1252,12 +1252,12 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Деминенко Геннадий Яковлевич": 19,
-      "Крючин Сергей Васильевич": 73,
-      "Рахно Зинаида Васильевна": 81,
-      "Ткачев Алексей Николаевич": 517,
-      "Шалимов Анатолий Павлович": 22,
-      "Против всех": 139
+      "gas:candidate-vibid:1001000190303": 19,
+      "gas:candidate-vibid:1001000136020": 73,
+      "gas:candidate-vibid:1001000112195": 81,
+      "gas:candidate-vibid:323300670868": 517,
+      "gas:candidate-vibid:1001000195049": 22,
+      "special:against-all": 139
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070410&region=0&sub_region=0&type=429",
@@ -1307,12 +1307,12 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Деминенко Геннадий Яковлевич": 24,
-      "Крючин Сергей Васильевич": 84,
-      "Рахно Зинаида Васильевна": 115,
-      "Ткачев Алексей Николаевич": 854,
-      "Шалимов Анатолий Павлович": 19,
-      "Против всех": 174
+      "gas:candidate-vibid:1001000190303": 24,
+      "gas:candidate-vibid:1001000136020": 84,
+      "gas:candidate-vibid:1001000112195": 115,
+      "gas:candidate-vibid:323300670868": 854,
+      "gas:candidate-vibid:1001000195049": 19,
+      "special:against-all": 174
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070410&region=0&sub_region=0&type=429",
@@ -1362,12 +1362,12 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Деминенко Геннадий Яковлевич": 9,
-      "Крючин Сергей Васильевич": 33,
-      "Рахно Зинаида Васильевна": 21,
-      "Ткачев Алексей Николаевич": 230,
-      "Шалимов Анатолий Павлович": 3,
-      "Против всех": 49
+      "gas:candidate-vibid:1001000190303": 9,
+      "gas:candidate-vibid:1001000136020": 33,
+      "gas:candidate-vibid:1001000112195": 21,
+      "gas:candidate-vibid:323300670868": 230,
+      "gas:candidate-vibid:1001000195049": 3,
+      "special:against-all": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070410&region=0&sub_region=0&type=429",
@@ -1417,12 +1417,12 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Деминенко Геннадий Яковлевич": 18,
-      "Крючин Сергей Васильевич": 76,
-      "Рахно Зинаида Васильевна": 40,
-      "Ткачев Алексей Николаевич": 568,
-      "Шалимов Анатолий Павлович": 18,
-      "Против всех": 127
+      "gas:candidate-vibid:1001000190303": 18,
+      "gas:candidate-vibid:1001000136020": 76,
+      "gas:candidate-vibid:1001000112195": 40,
+      "gas:candidate-vibid:323300670868": 568,
+      "gas:candidate-vibid:1001000195049": 18,
+      "special:against-all": 127
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070410&region=0&sub_region=0&type=429",
@@ -1472,12 +1472,12 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Деминенко Геннадий Яковлевич": 28,
-      "Крючин Сергей Васильевич": 99,
-      "Рахно Зинаида Васильевна": 125,
-      "Ткачев Алексей Николаевич": 754,
-      "Шалимов Анатолий Павлович": 17,
-      "Против всех": 179
+      "gas:candidate-vibid:1001000190303": 28,
+      "gas:candidate-vibid:1001000136020": 99,
+      "gas:candidate-vibid:1001000112195": 125,
+      "gas:candidate-vibid:323300670868": 754,
+      "gas:candidate-vibid:1001000195049": 17,
+      "special:against-all": 179
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070410&region=0&sub_region=0&type=429",
@@ -1527,12 +1527,12 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Деминенко Геннадий Яковлевич": 10,
-      "Крючин Сергей Васильевич": 30,
-      "Рахно Зинаида Васильевна": 47,
-      "Ткачев Алексей Николаевич": 304,
-      "Шалимов Анатолий Павлович": 9,
-      "Против всех": 72
+      "gas:candidate-vibid:1001000190303": 10,
+      "gas:candidate-vibid:1001000136020": 30,
+      "gas:candidate-vibid:1001000112195": 47,
+      "gas:candidate-vibid:323300670868": 304,
+      "gas:candidate-vibid:1001000195049": 9,
+      "special:against-all": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070410&region=0&sub_region=0&type=429",
@@ -1582,12 +1582,12 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Деминенко Геннадий Яковлевич": 36,
-      "Крючин Сергей Васильевич": 105,
-      "Рахно Зинаида Васильевна": 82,
-      "Ткачев Алексей Николаевич": 841,
-      "Шалимов Анатолий Павлович": 13,
-      "Против всех": 162
+      "gas:candidate-vibid:1001000190303": 36,
+      "gas:candidate-vibid:1001000136020": 105,
+      "gas:candidate-vibid:1001000112195": 82,
+      "gas:candidate-vibid:323300670868": 841,
+      "gas:candidate-vibid:1001000195049": 13,
+      "special:against-all": 162
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070410&region=0&sub_region=0&type=429",
@@ -1637,12 +1637,12 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Деминенко Геннадий Яковлевич": 13,
-      "Крючин Сергей Васильевич": 64,
-      "Рахно Зинаида Васильевна": 55,
-      "Ткачев Алексей Николаевич": 662,
-      "Шалимов Анатолий Павлович": 7,
-      "Против всех": 108
+      "gas:candidate-vibid:1001000190303": 13,
+      "gas:candidate-vibid:1001000136020": 64,
+      "gas:candidate-vibid:1001000112195": 55,
+      "gas:candidate-vibid:323300670868": 662,
+      "gas:candidate-vibid:1001000195049": 7,
+      "special:against-all": 108
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070410&region=0&sub_region=0&type=429",
@@ -1692,12 +1692,12 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Деминенко Геннадий Яковлевич": 6,
-      "Крючин Сергей Васильевич": 22,
-      "Рахно Зинаида Васильевна": 17,
-      "Ткачев Алексей Николаевич": 264,
-      "Шалимов Анатолий Павлович": 4,
-      "Против всех": 50
+      "gas:candidate-vibid:1001000190303": 6,
+      "gas:candidate-vibid:1001000136020": 22,
+      "gas:candidate-vibid:1001000112195": 17,
+      "gas:candidate-vibid:323300670868": 264,
+      "gas:candidate-vibid:1001000195049": 4,
+      "special:against-all": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070410&region=0&sub_region=0&type=429",
@@ -1747,12 +1747,12 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Деминенко Геннадий Яковлевич": 21,
-      "Крючин Сергей Васильевич": 55,
-      "Рахно Зинаида Васильевна": 43,
-      "Ткачев Алексей Николаевич": 418,
-      "Шалимов Анатолий Павлович": 12,
-      "Против всех": 105
+      "gas:candidate-vibid:1001000190303": 21,
+      "gas:candidate-vibid:1001000136020": 55,
+      "gas:candidate-vibid:1001000112195": 43,
+      "gas:candidate-vibid:323300670868": 418,
+      "gas:candidate-vibid:1001000195049": 12,
+      "special:against-all": 105
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070410&region=0&sub_region=0&type=429",
@@ -1802,12 +1802,12 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Деминенко Геннадий Яковлевич": 18,
-      "Крючин Сергей Васильевич": 83,
-      "Рахно Зинаида Васильевна": 32,
-      "Ткачев Алексей Николаевич": 566,
-      "Шалимов Анатолий Павлович": 16,
-      "Против всех": 69
+      "gas:candidate-vibid:1001000190303": 18,
+      "gas:candidate-vibid:1001000136020": 83,
+      "gas:candidate-vibid:1001000112195": 32,
+      "gas:candidate-vibid:323300670868": 566,
+      "gas:candidate-vibid:1001000195049": 16,
+      "special:against-all": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070410&region=0&sub_region=0&type=429",
@@ -1857,12 +1857,12 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Деминенко Геннадий Яковлевич": 11,
-      "Крючин Сергей Васильевич": 59,
-      "Рахно Зинаида Васильевна": 32,
-      "Ткачев Алексей Николаевич": 376,
-      "Шалимов Анатолий Павлович": 12,
-      "Против всех": 104
+      "gas:candidate-vibid:1001000190303": 11,
+      "gas:candidate-vibid:1001000136020": 59,
+      "gas:candidate-vibid:1001000112195": 32,
+      "gas:candidate-vibid:323300670868": 376,
+      "gas:candidate-vibid:1001000195049": 12,
+      "special:against-all": 104
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070410&region=0&sub_region=0&type=429",
@@ -1912,12 +1912,12 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Деминенко Геннадий Яковлевич": 4,
-      "Крючин Сергей Васильевич": 8,
-      "Рахно Зинаида Васильевна": 4,
-      "Ткачев Алексей Николаевич": 59,
-      "Шалимов Анатолий Павлович": 5,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000190303": 4,
+      "gas:candidate-vibid:1001000136020": 8,
+      "gas:candidate-vibid:1001000112195": 4,
+      "gas:candidate-vibid:323300670868": 59,
+      "gas:candidate-vibid:1001000195049": 5,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070410&region=0&sub_region=0&type=429",
@@ -1967,12 +1967,12 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Деминенко Геннадий Яковлевич": 25,
-      "Крючин Сергей Васильевич": 121,
-      "Рахно Зинаида Васильевна": 48,
-      "Ткачев Алексей Николаевич": 817,
-      "Шалимов Анатолий Павлович": 23,
-      "Против всех": 139
+      "gas:candidate-vibid:1001000190303": 25,
+      "gas:candidate-vibid:1001000136020": 121,
+      "gas:candidate-vibid:1001000112195": 48,
+      "gas:candidate-vibid:323300670868": 817,
+      "gas:candidate-vibid:1001000195049": 23,
+      "special:against-all": 139
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070410&region=0&sub_region=0&type=429",
@@ -2022,12 +2022,12 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Деминенко Геннадий Яковлевич": 32,
-      "Крючин Сергей Васильевич": 83,
-      "Рахно Зинаида Васильевна": 40,
-      "Ткачев Алексей Николаевич": 519,
-      "Шалимов Анатолий Павлович": 9,
-      "Против всех": 93
+      "gas:candidate-vibid:1001000190303": 32,
+      "gas:candidate-vibid:1001000136020": 83,
+      "gas:candidate-vibid:1001000112195": 40,
+      "gas:candidate-vibid:323300670868": 519,
+      "gas:candidate-vibid:1001000195049": 9,
+      "special:against-all": 93
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070410&region=0&sub_region=0&type=429",
@@ -2077,12 +2077,12 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Деминенко Геннадий Яковлевич": 10,
-      "Крючин Сергей Васильевич": 52,
-      "Рахно Зинаида Васильевна": 21,
-      "Ткачев Алексей Николаевич": 367,
-      "Шалимов Анатолий Павлович": 11,
-      "Против всех": 52
+      "gas:candidate-vibid:1001000190303": 10,
+      "gas:candidate-vibid:1001000136020": 52,
+      "gas:candidate-vibid:1001000112195": 21,
+      "gas:candidate-vibid:323300670868": 367,
+      "gas:candidate-vibid:1001000195049": 11,
+      "special:against-all": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070410&region=0&sub_region=0&type=429",
@@ -2132,12 +2132,12 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Деминенко Геннадий Яковлевич": 6,
-      "Крючин Сергей Васильевич": 29,
-      "Рахно Зинаида Васильевна": 12,
-      "Ткачев Алексей Николаевич": 271,
-      "Шалимов Анатолий Павлович": 8,
-      "Против всех": 44
+      "gas:candidate-vibid:1001000190303": 6,
+      "gas:candidate-vibid:1001000136020": 29,
+      "gas:candidate-vibid:1001000112195": 12,
+      "gas:candidate-vibid:323300670868": 271,
+      "gas:candidate-vibid:1001000195049": 8,
+      "special:against-all": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070410&region=0&sub_region=0&type=429",
@@ -2187,12 +2187,12 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Деминенко Геннадий Яковлевич": 18,
-      "Крючин Сергей Васильевич": 68,
-      "Рахно Зинаида Васильевна": 53,
-      "Ткачев Алексей Николаевич": 325,
-      "Шалимов Анатолий Павлович": 5,
-      "Против всех": 51
+      "gas:candidate-vibid:1001000190303": 18,
+      "gas:candidate-vibid:1001000136020": 68,
+      "gas:candidate-vibid:1001000112195": 53,
+      "gas:candidate-vibid:323300670868": 325,
+      "gas:candidate-vibid:1001000195049": 5,
+      "special:against-all": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070410&region=0&sub_region=0&type=429",
@@ -2242,12 +2242,12 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Деминенко Геннадий Яковлевич": 18,
-      "Крючин Сергей Васильевич": 92,
-      "Рахно Зинаида Васильевна": 59,
-      "Ткачев Алексей Николаевич": 950,
-      "Шалимов Анатолий Павлович": 9,
-      "Против всех": 125
+      "gas:candidate-vibid:1001000190303": 18,
+      "gas:candidate-vibid:1001000136020": 92,
+      "gas:candidate-vibid:1001000112195": 59,
+      "gas:candidate-vibid:323300670868": 950,
+      "gas:candidate-vibid:1001000195049": 9,
+      "special:against-all": 125
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070410&region=0&sub_region=0&type=429",
@@ -2297,12 +2297,12 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Деминенко Геннадий Яковлевич": 28,
-      "Крючин Сергей Васильевич": 67,
-      "Рахно Зинаида Васильевна": 29,
-      "Ткачев Алексей Николаевич": 696,
-      "Шалимов Анатолий Павлович": 9,
-      "Против всех": 74
+      "gas:candidate-vibid:1001000190303": 28,
+      "gas:candidate-vibid:1001000136020": 67,
+      "gas:candidate-vibid:1001000112195": 29,
+      "gas:candidate-vibid:323300670868": 696,
+      "gas:candidate-vibid:1001000195049": 9,
+      "special:against-all": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070410&region=0&sub_region=0&type=429",
@@ -2352,12 +2352,12 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Деминенко Геннадий Яковлевич": 14,
-      "Крючин Сергей Васильевич": 42,
-      "Рахно Зинаида Васильевна": 16,
-      "Ткачев Алексей Николаевич": 315,
-      "Шалимов Анатолий Павлович": 5,
-      "Против всех": 34
+      "gas:candidate-vibid:1001000190303": 14,
+      "gas:candidate-vibid:1001000136020": 42,
+      "gas:candidate-vibid:1001000112195": 16,
+      "gas:candidate-vibid:323300670868": 315,
+      "gas:candidate-vibid:1001000195049": 5,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070410&region=0&sub_region=0&type=429",
@@ -2407,12 +2407,12 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Деминенко Геннадий Яковлевич": 21,
-      "Крючин Сергей Васильевич": 77,
-      "Рахно Зинаида Васильевна": 45,
-      "Ткачев Алексей Николаевич": 559,
-      "Шалимов Анатолий Павлович": 9,
-      "Против всех": 100
+      "gas:candidate-vibid:1001000190303": 21,
+      "gas:candidate-vibid:1001000136020": 77,
+      "gas:candidate-vibid:1001000112195": 45,
+      "gas:candidate-vibid:323300670868": 559,
+      "gas:candidate-vibid:1001000195049": 9,
+      "special:against-all": 100
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070410&region=0&sub_region=0&type=429",
@@ -2462,12 +2462,12 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Деминенко Геннадий Яковлевич": 26,
-      "Крючин Сергей Васильевич": 65,
-      "Рахно Зинаида Васильевна": 37,
-      "Ткачев Алексей Николаевич": 665,
-      "Шалимов Анатолий Павлович": 11,
-      "Против всех": 108
+      "gas:candidate-vibid:1001000190303": 26,
+      "gas:candidate-vibid:1001000136020": 65,
+      "gas:candidate-vibid:1001000112195": 37,
+      "gas:candidate-vibid:323300670868": 665,
+      "gas:candidate-vibid:1001000195049": 11,
+      "special:against-all": 108
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070410&region=0&sub_region=0&type=429",
@@ -2517,12 +2517,12 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Деминенко Геннадий Яковлевич": 4,
-      "Крючин Сергей Васильевич": 23,
-      "Рахно Зинаида Васильевна": 4,
-      "Ткачев Алексей Николаевич": 148,
-      "Шалимов Анатолий Павлович": 13,
-      "Против всех": 51
+      "gas:candidate-vibid:1001000190303": 4,
+      "gas:candidate-vibid:1001000136020": 23,
+      "gas:candidate-vibid:1001000112195": 4,
+      "gas:candidate-vibid:323300670868": 148,
+      "gas:candidate-vibid:1001000195049": 13,
+      "special:against-all": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070410&region=0&sub_region=0&type=429",
@@ -2572,12 +2572,12 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Деминенко Геннадий Яковлевич": 4,
-      "Крючин Сергей Васильевич": 9,
-      "Рахно Зинаида Васильевна": 4,
-      "Ткачев Алексей Николаевич": 176,
-      "Шалимов Анатолий Павлович": 5,
-      "Против всех": 28
+      "gas:candidate-vibid:1001000190303": 4,
+      "gas:candidate-vibid:1001000136020": 9,
+      "gas:candidate-vibid:1001000112195": 4,
+      "gas:candidate-vibid:323300670868": 176,
+      "gas:candidate-vibid:1001000195049": 5,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070410&region=0&sub_region=0&type=429",
@@ -2627,12 +2627,12 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Деминенко Геннадий Яковлевич": 7,
-      "Крючин Сергей Васильевич": 7,
-      "Рахно Зинаида Васильевна": 3,
-      "Ткачев Алексей Николаевич": 190,
-      "Шалимов Анатолий Павлович": 4,
-      "Против всех": 28
+      "gas:candidate-vibid:1001000190303": 7,
+      "gas:candidate-vibid:1001000136020": 7,
+      "gas:candidate-vibid:1001000112195": 3,
+      "gas:candidate-vibid:323300670868": 190,
+      "gas:candidate-vibid:1001000195049": 4,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070410&region=0&sub_region=0&type=429",
@@ -2682,12 +2682,12 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Деминенко Геннадий Яковлевич": 10,
-      "Крючин Сергей Васильевич": 62,
-      "Рахно Зинаида Васильевна": 15,
-      "Ткачев Алексей Николаевич": 351,
-      "Шалимов Анатолий Павлович": 10,
-      "Против всех": 41
+      "gas:candidate-vibid:1001000190303": 10,
+      "gas:candidate-vibid:1001000136020": 62,
+      "gas:candidate-vibid:1001000112195": 15,
+      "gas:candidate-vibid:323300670868": 351,
+      "gas:candidate-vibid:1001000195049": 10,
+      "special:against-all": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070410&region=0&sub_region=0&type=429",
@@ -2737,12 +2737,12 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Деминенко Геннадий Яковлевич": 10,
-      "Крючин Сергей Васильевич": 4,
-      "Рахно Зинаида Васильевна": 7,
-      "Ткачев Алексей Николаевич": 220,
-      "Шалимов Анатолий Павлович": 3,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000190303": 10,
+      "gas:candidate-vibid:1001000136020": 4,
+      "gas:candidate-vibid:1001000112195": 7,
+      "gas:candidate-vibid:323300670868": 220,
+      "gas:candidate-vibid:1001000195049": 3,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070410&region=0&sub_region=0&type=429",
@@ -2792,12 +2792,12 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Деминенко Геннадий Яковлевич": 7,
-      "Крючин Сергей Васильевич": 32,
-      "Рахно Зинаида Васильевна": 10,
-      "Ткачев Алексей Николаевич": 486,
-      "Шалимов Анатолий Павлович": 6,
-      "Против всех": 66
+      "gas:candidate-vibid:1001000190303": 7,
+      "gas:candidate-vibid:1001000136020": 32,
+      "gas:candidate-vibid:1001000112195": 10,
+      "gas:candidate-vibid:323300670868": 486,
+      "gas:candidate-vibid:1001000195049": 6,
+      "special:against-all": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070410&region=0&sub_region=0&type=429",
@@ -2847,12 +2847,12 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Деминенко Геннадий Яковлевич": 13,
-      "Крючин Сергей Васильевич": 32,
-      "Рахно Зинаида Васильевна": 20,
-      "Ткачев Алексей Николаевич": 423,
-      "Шалимов Анатолий Павлович": 6,
-      "Против всех": 57
+      "gas:candidate-vibid:1001000190303": 13,
+      "gas:candidate-vibid:1001000136020": 32,
+      "gas:candidate-vibid:1001000112195": 20,
+      "gas:candidate-vibid:323300670868": 423,
+      "gas:candidate-vibid:1001000195049": 6,
+      "special:against-all": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070410&region=0&sub_region=0&type=429",
@@ -2902,12 +2902,12 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Деминенко Геннадий Яковлевич": 28,
-      "Крючин Сергей Васильевич": 109,
-      "Рахно Зинаида Васильевна": 46,
-      "Ткачев Алексей Николаевич": 1002,
-      "Шалимов Анатолий Павлович": 2,
-      "Против всех": 142
+      "gas:candidate-vibid:1001000190303": 28,
+      "gas:candidate-vibid:1001000136020": 109,
+      "gas:candidate-vibid:1001000112195": 46,
+      "gas:candidate-vibid:323300670868": 1002,
+      "gas:candidate-vibid:1001000195049": 2,
+      "special:against-all": 142
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070410&region=0&sub_region=0&type=429",
@@ -2957,12 +2957,12 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Деминенко Геннадий Яковлевич": 9,
-      "Крючин Сергей Васильевич": 42,
-      "Рахно Зинаида Васильевна": 17,
-      "Ткачев Алексей Николаевич": 355,
-      "Шалимов Анатолий Павлович": 4,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000190303": 9,
+      "gas:candidate-vibid:1001000136020": 42,
+      "gas:candidate-vibid:1001000112195": 17,
+      "gas:candidate-vibid:323300670868": 355,
+      "gas:candidate-vibid:1001000195049": 4,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070410&region=0&sub_region=0&type=429",
@@ -3012,12 +3012,12 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Деминенко Геннадий Яковлевич": 2,
-      "Крючин Сергей Васильевич": 15,
-      "Рахно Зинаида Васильевна": 4,
-      "Ткачев Алексей Николаевич": 280,
-      "Шалимов Анатолий Павлович": 6,
-      "Против всех": 31
+      "gas:candidate-vibid:1001000190303": 2,
+      "gas:candidate-vibid:1001000136020": 15,
+      "gas:candidate-vibid:1001000112195": 4,
+      "gas:candidate-vibid:323300670868": 280,
+      "gas:candidate-vibid:1001000195049": 6,
+      "special:against-all": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070410&region=0&sub_region=0&type=429",
@@ -3067,12 +3067,12 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Деминенко Геннадий Яковлевич": 2,
-      "Крючин Сергей Васильевич": 11,
-      "Рахно Зинаида Васильевна": 1,
-      "Ткачев Алексей Николаевич": 131,
-      "Шалимов Анатолий Павлович": 4,
-      "Против всех": 39
+      "gas:candidate-vibid:1001000190303": 2,
+      "gas:candidate-vibid:1001000136020": 11,
+      "gas:candidate-vibid:1001000112195": 1,
+      "gas:candidate-vibid:323300670868": 131,
+      "gas:candidate-vibid:1001000195049": 4,
+      "special:against-all": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070410&region=0&sub_region=0&type=429",
@@ -3122,12 +3122,12 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Деминенко Геннадий Яковлевич": 5,
-      "Крючин Сергей Васильевич": 28,
-      "Рахно Зинаида Васильевна": 8,
-      "Ткачев Алексей Николаевич": 373,
-      "Шалимов Анатолий Павлович": 5,
-      "Против всех": 38
+      "gas:candidate-vibid:1001000190303": 5,
+      "gas:candidate-vibid:1001000136020": 28,
+      "gas:candidate-vibid:1001000112195": 8,
+      "gas:candidate-vibid:323300670868": 373,
+      "gas:candidate-vibid:1001000195049": 5,
+      "special:against-all": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070410&region=0&sub_region=0&type=429",
@@ -3177,12 +3177,12 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Деминенко Геннадий Яковлевич": 5,
-      "Крючин Сергей Васильевич": 20,
-      "Рахно Зинаида Васильевна": 3,
-      "Ткачев Алексей Николаевич": 290,
-      "Шалимов Анатолий Павлович": 2,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000190303": 5,
+      "gas:candidate-vibid:1001000136020": 20,
+      "gas:candidate-vibid:1001000112195": 3,
+      "gas:candidate-vibid:323300670868": 290,
+      "gas:candidate-vibid:1001000195049": 2,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070410&region=0&sub_region=0&type=429",
@@ -3232,12 +3232,12 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Деминенко Геннадий Яковлевич": 11,
-      "Крючин Сергей Васильевич": 41,
-      "Рахно Зинаида Васильевна": 28,
-      "Ткачев Алексей Николаевич": 342,
-      "Шалимов Анатолий Павлович": 9,
-      "Против всех": 66
+      "gas:candidate-vibid:1001000190303": 11,
+      "gas:candidate-vibid:1001000136020": 41,
+      "gas:candidate-vibid:1001000112195": 28,
+      "gas:candidate-vibid:323300670868": 342,
+      "gas:candidate-vibid:1001000195049": 9,
+      "special:against-all": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070410&region=0&sub_region=0&type=429",
@@ -3287,12 +3287,12 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Деминенко Геннадий Яковлевич": 22,
-      "Крючин Сергей Васильевич": 90,
-      "Рахно Зинаида Васильевна": 39,
-      "Ткачев Алексей Николаевич": 936,
-      "Шалимов Анатолий Павлович": 13,
-      "Против всех": 108
+      "gas:candidate-vibid:1001000190303": 22,
+      "gas:candidate-vibid:1001000136020": 90,
+      "gas:candidate-vibid:1001000112195": 39,
+      "gas:candidate-vibid:323300670868": 936,
+      "gas:candidate-vibid:1001000195049": 13,
+      "special:against-all": 108
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070410&region=0&sub_region=0&type=429",
@@ -3342,12 +3342,12 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Деминенко Геннадий Яковлевич": 9,
-      "Крючин Сергей Васильевич": 43,
-      "Рахно Зинаида Васильевна": 19,
-      "Ткачев Алексей Николаевич": 411,
-      "Шалимов Анатолий Павлович": 6,
-      "Против всех": 74
+      "gas:candidate-vibid:1001000190303": 9,
+      "gas:candidate-vibid:1001000136020": 43,
+      "gas:candidate-vibid:1001000112195": 19,
+      "gas:candidate-vibid:323300670868": 411,
+      "gas:candidate-vibid:1001000195049": 6,
+      "special:against-all": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070410&region=0&sub_region=0&type=429",
@@ -3397,12 +3397,12 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Деминенко Геннадий Яковлевич": 3,
-      "Крючин Сергей Васильевич": 5,
-      "Рахно Зинаида Васильевна": 0,
-      "Ткачев Алексей Николаевич": 84,
-      "Шалимов Анатолий Павлович": 1,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000190303": 3,
+      "gas:candidate-vibid:1001000136020": 5,
+      "gas:candidate-vibid:1001000112195": 0,
+      "gas:candidate-vibid:323300670868": 84,
+      "gas:candidate-vibid:1001000195049": 1,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070410&region=0&sub_region=0&type=429",
@@ -3452,12 +3452,12 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Деминенко Геннадий Яковлевич": 15,
-      "Крючин Сергей Васильевич": 53,
-      "Рахно Зинаида Васильевна": 25,
-      "Ткачев Алексей Николаевич": 496,
-      "Шалимов Анатолий Павлович": 7,
-      "Против всех": 76
+      "gas:candidate-vibid:1001000190303": 15,
+      "gas:candidate-vibid:1001000136020": 53,
+      "gas:candidate-vibid:1001000112195": 25,
+      "gas:candidate-vibid:323300670868": 496,
+      "gas:candidate-vibid:1001000195049": 7,
+      "special:against-all": 76
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070410&region=0&sub_region=0&type=429",
@@ -3507,12 +3507,12 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Деминенко Геннадий Яковлевич": 7,
-      "Крючин Сергей Васильевич": 37,
-      "Рахно Зинаида Васильевна": 10,
-      "Ткачев Алексей Николаевич": 312,
-      "Шалимов Анатолий Павлович": 9,
-      "Против всех": 32
+      "gas:candidate-vibid:1001000190303": 7,
+      "gas:candidate-vibid:1001000136020": 37,
+      "gas:candidate-vibid:1001000112195": 10,
+      "gas:candidate-vibid:323300670868": 312,
+      "gas:candidate-vibid:1001000195049": 9,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070410&region=0&sub_region=0&type=429",
@@ -3562,12 +3562,12 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Деминенко Геннадий Яковлевич": 6,
-      "Крючин Сергей Васильевич": 21,
-      "Рахно Зинаида Васильевна": 7,
-      "Ткачев Алексей Николаевич": 167,
-      "Шалимов Анатолий Павлович": 4,
-      "Против всех": 25
+      "gas:candidate-vibid:1001000190303": 6,
+      "gas:candidate-vibid:1001000136020": 21,
+      "gas:candidate-vibid:1001000112195": 7,
+      "gas:candidate-vibid:323300670868": 167,
+      "gas:candidate-vibid:1001000195049": 4,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070410&region=0&sub_region=0&type=429",
@@ -3617,12 +3617,12 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Деминенко Геннадий Яковлевич": 2,
-      "Крючин Сергей Васильевич": 9,
-      "Рахно Зинаида Васильевна": 4,
-      "Ткачев Алексей Николаевич": 154,
-      "Шалимов Анатолий Павлович": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000190303": 2,
+      "gas:candidate-vibid:1001000136020": 9,
+      "gas:candidate-vibid:1001000112195": 4,
+      "gas:candidate-vibid:323300670868": 154,
+      "gas:candidate-vibid:1001000195049": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070410&region=0&sub_region=0&type=429",
@@ -3672,12 +3672,12 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Деминенко Геннадий Яковлевич": 3,
-      "Крючин Сергей Васильевич": 15,
-      "Рахно Зинаида Васильевна": 4,
-      "Ткачев Алексей Николаевич": 117,
-      "Шалимов Анатолий Павлович": 4,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000190303": 3,
+      "gas:candidate-vibid:1001000136020": 15,
+      "gas:candidate-vibid:1001000112195": 4,
+      "gas:candidate-vibid:323300670868": 117,
+      "gas:candidate-vibid:1001000195049": 4,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070410&region=0&sub_region=0&type=429",
@@ -3727,12 +3727,12 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Деминенко Геннадий Яковлевич": 3,
-      "Крючин Сергей Васильевич": 56,
-      "Рахно Зинаида Васильевна": 26,
-      "Ткачев Алексей Николаевич": 696,
-      "Шалимов Анатолий Павлович": 7,
-      "Против всех": 56
+      "gas:candidate-vibid:1001000190303": 3,
+      "gas:candidate-vibid:1001000136020": 56,
+      "gas:candidate-vibid:1001000112195": 26,
+      "gas:candidate-vibid:323300670868": 696,
+      "gas:candidate-vibid:1001000195049": 7,
+      "special:against-all": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070410&region=0&sub_region=0&type=429",
@@ -3782,12 +3782,12 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Деминенко Геннадий Яковлевич": 7,
-      "Крючин Сергей Васильевич": 64,
-      "Рахно Зинаида Васильевна": 16,
-      "Ткачев Алексей Николаевич": 788,
-      "Шалимов Анатолий Павлович": 10,
-      "Против всех": 82
+      "gas:candidate-vibid:1001000190303": 7,
+      "gas:candidate-vibid:1001000136020": 64,
+      "gas:candidate-vibid:1001000112195": 16,
+      "gas:candidate-vibid:323300670868": 788,
+      "gas:candidate-vibid:1001000195049": 10,
+      "special:against-all": 82
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070410&region=0&sub_region=0&type=429",
@@ -3837,12 +3837,12 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Деминенко Геннадий Яковлевич": 16,
-      "Крючин Сергей Васильевич": 82,
-      "Рахно Зинаида Васильевна": 30,
-      "Ткачев Алексей Николаевич": 889,
-      "Шалимов Анатолий Павлович": 17,
-      "Против всех": 70
+      "gas:candidate-vibid:1001000190303": 16,
+      "gas:candidate-vibid:1001000136020": 82,
+      "gas:candidate-vibid:1001000112195": 30,
+      "gas:candidate-vibid:323300670868": 889,
+      "gas:candidate-vibid:1001000195049": 17,
+      "special:against-all": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070410&region=0&sub_region=0&type=429",
@@ -3892,12 +3892,12 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Деминенко Геннадий Яковлевич": 6,
-      "Крючин Сергей Васильевич": 6,
-      "Рахно Зинаида Васильевна": 2,
-      "Ткачев Алексей Николаевич": 76,
-      "Шалимов Анатолий Павлович": 3,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000190303": 6,
+      "gas:candidate-vibid:1001000136020": 6,
+      "gas:candidate-vibid:1001000112195": 2,
+      "gas:candidate-vibid:323300670868": 76,
+      "gas:candidate-vibid:1001000195049": 3,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070410&region=0&sub_region=0&type=429",
@@ -3947,12 +3947,12 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Деминенко Геннадий Яковлевич": 20,
-      "Крючин Сергей Васильевич": 40,
-      "Рахно Зинаида Васильевна": 15,
-      "Ткачев Алексей Николаевич": 423,
-      "Шалимов Анатолий Павлович": 14,
-      "Против всех": 77
+      "gas:candidate-vibid:1001000190303": 20,
+      "gas:candidate-vibid:1001000136020": 40,
+      "gas:candidate-vibid:1001000112195": 15,
+      "gas:candidate-vibid:323300670868": 423,
+      "gas:candidate-vibid:1001000195049": 14,
+      "special:against-all": 77
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070410&region=0&sub_region=0&type=429",
@@ -4002,12 +4002,12 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Деминенко Геннадий Яковлевич": 24,
-      "Крючин Сергей Васильевич": 89,
-      "Рахно Зинаида Васильевна": 47,
-      "Ткачев Алексей Николаевич": 841,
-      "Шалимов Анатолий Павлович": 20,
-      "Против всех": 189
+      "gas:candidate-vibid:1001000190303": 24,
+      "gas:candidate-vibid:1001000136020": 89,
+      "gas:candidate-vibid:1001000112195": 47,
+      "gas:candidate-vibid:323300670868": 841,
+      "gas:candidate-vibid:1001000195049": 20,
+      "special:against-all": 189
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070410&region=0&sub_region=0&type=429",
@@ -4057,12 +4057,12 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Деминенко Геннадий Яковлевич": 21,
-      "Крючин Сергей Васильевич": 102,
-      "Рахно Зинаида Васильевна": 13,
-      "Ткачев Алексей Николаевич": 549,
-      "Шалимов Анатолий Павлович": 20,
-      "Против всех": 107
+      "gas:candidate-vibid:1001000190303": 21,
+      "gas:candidate-vibid:1001000136020": 102,
+      "gas:candidate-vibid:1001000112195": 13,
+      "gas:candidate-vibid:323300670868": 549,
+      "gas:candidate-vibid:1001000195049": 20,
+      "special:against-all": 107
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070410&region=0&sub_region=0&type=429",
@@ -4112,12 +4112,12 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Деминенко Геннадий Яковлевич": 3,
-      "Крючин Сергей Васильевич": 21,
-      "Рахно Зинаида Васильевна": 10,
-      "Ткачев Алексей Николаевич": 209,
-      "Шалимов Анатолий Павлович": 4,
-      "Против всех": 29
+      "gas:candidate-vibid:1001000190303": 3,
+      "gas:candidate-vibid:1001000136020": 21,
+      "gas:candidate-vibid:1001000112195": 10,
+      "gas:candidate-vibid:323300670868": 209,
+      "gas:candidate-vibid:1001000195049": 4,
+      "special:against-all": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070410&region=0&sub_region=0&type=429",
@@ -4167,12 +4167,12 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Деминенко Геннадий Яковлевич": 8,
-      "Крючин Сергей Васильевич": 43,
-      "Рахно Зинаида Васильевна": 18,
-      "Ткачев Алексей Николаевич": 501,
-      "Шалимов Анатолий Павлович": 8,
-      "Против всех": 64
+      "gas:candidate-vibid:1001000190303": 8,
+      "gas:candidate-vibid:1001000136020": 43,
+      "gas:candidate-vibid:1001000112195": 18,
+      "gas:candidate-vibid:323300670868": 501,
+      "gas:candidate-vibid:1001000195049": 8,
+      "special:against-all": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070410&region=0&sub_region=0&type=429",
@@ -4222,12 +4222,12 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Деминенко Геннадий Яковлевич": 11,
-      "Крючин Сергей Васильевич": 20,
-      "Рахно Зинаида Васильевна": 1,
-      "Ткачев Алексей Николаевич": 125,
-      "Шалимов Анатолий Павлович": 3,
-      "Против всех": 24
+      "gas:candidate-vibid:1001000190303": 11,
+      "gas:candidate-vibid:1001000136020": 20,
+      "gas:candidate-vibid:1001000112195": 1,
+      "gas:candidate-vibid:323300670868": 125,
+      "gas:candidate-vibid:1001000195049": 3,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070410&region=0&sub_region=0&type=429",
@@ -4277,12 +4277,12 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Деминенко Геннадий Яковлевич": 16,
-      "Крючин Сергей Васильевич": 95,
-      "Рахно Зинаида Васильевна": 46,
-      "Ткачев Алексей Николаевич": 684,
-      "Шалимов Анатолий Павлович": 19,
-      "Против всех": 164
+      "gas:candidate-vibid:1001000190303": 16,
+      "gas:candidate-vibid:1001000136020": 95,
+      "gas:candidate-vibid:1001000112195": 46,
+      "gas:candidate-vibid:323300670868": 684,
+      "gas:candidate-vibid:1001000195049": 19,
+      "special:against-all": 164
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070410&region=0&sub_region=0&type=429",
@@ -4332,12 +4332,12 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Деминенко Геннадий Яковлевич": 3,
-      "Крючин Сергей Васильевич": 16,
-      "Рахно Зинаида Васильевна": 4,
-      "Ткачев Алексей Николаевич": 115,
-      "Шалимов Анатолий Павлович": 1,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000190303": 3,
+      "gas:candidate-vibid:1001000136020": 16,
+      "gas:candidate-vibid:1001000112195": 4,
+      "gas:candidate-vibid:323300670868": 115,
+      "gas:candidate-vibid:1001000195049": 1,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070410&region=0&sub_region=0&type=429",
@@ -4387,12 +4387,12 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Деминенко Геннадий Яковлевич": 7,
-      "Крючин Сергей Васильевич": 21,
-      "Рахно Зинаида Васильевна": 4,
-      "Ткачев Алексей Николаевич": 254,
-      "Шалимов Анатолий Павлович": 2,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000190303": 7,
+      "gas:candidate-vibid:1001000136020": 21,
+      "gas:candidate-vibid:1001000112195": 4,
+      "gas:candidate-vibid:323300670868": 254,
+      "gas:candidate-vibid:1001000195049": 2,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070410&region=0&sub_region=0&type=429",
@@ -4442,12 +4442,12 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Деминенко Геннадий Яковлевич": 9,
-      "Крючин Сергей Васильевич": 39,
-      "Рахно Зинаида Васильевна": 12,
-      "Ткачев Алексей Николаевич": 231,
-      "Шалимов Анатолий Павлович": 8,
-      "Против всех": 36
+      "gas:candidate-vibid:1001000190303": 9,
+      "gas:candidate-vibid:1001000136020": 39,
+      "gas:candidate-vibid:1001000112195": 12,
+      "gas:candidate-vibid:323300670868": 231,
+      "gas:candidate-vibid:1001000195049": 8,
+      "special:against-all": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070410&region=0&sub_region=0&type=429",
@@ -4497,12 +4497,12 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Деминенко Геннадий Яковлевич": 3,
-      "Крючин Сергей Васильевич": 12,
-      "Рахно Зинаида Васильевна": 7,
-      "Ткачев Алексей Николаевич": 168,
-      "Шалимов Анатолий Павлович": 1,
-      "Против всех": 31
+      "gas:candidate-vibid:1001000190303": 3,
+      "gas:candidate-vibid:1001000136020": 12,
+      "gas:candidate-vibid:1001000112195": 7,
+      "gas:candidate-vibid:323300670868": 168,
+      "gas:candidate-vibid:1001000195049": 1,
+      "special:against-all": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070410&region=0&sub_region=0&type=429",
@@ -4552,12 +4552,12 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Деминенко Геннадий Яковлевич": 16,
-      "Крючин Сергей Васильевич": 34,
-      "Рахно Зинаида Васильевна": 23,
-      "Ткачев Алексей Николаевич": 533,
-      "Шалимов Анатолий Павлович": 19,
-      "Против всех": 56
+      "gas:candidate-vibid:1001000190303": 16,
+      "gas:candidate-vibid:1001000136020": 34,
+      "gas:candidate-vibid:1001000112195": 23,
+      "gas:candidate-vibid:323300670868": 533,
+      "gas:candidate-vibid:1001000195049": 19,
+      "special:against-all": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070410&region=0&sub_region=0&type=429",
@@ -4607,12 +4607,12 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Деминенко Геннадий Яковлевич": 7,
-      "Крючин Сергей Васильевич": 95,
-      "Рахно Зинаида Васильевна": 27,
-      "Ткачев Алексей Николаевич": 722,
-      "Шалимов Анатолий Павлович": 6,
-      "Против всех": 88
+      "gas:candidate-vibid:1001000190303": 7,
+      "gas:candidate-vibid:1001000136020": 95,
+      "gas:candidate-vibid:1001000112195": 27,
+      "gas:candidate-vibid:323300670868": 722,
+      "gas:candidate-vibid:1001000195049": 6,
+      "special:against-all": 88
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070410&region=0&sub_region=0&type=429",
@@ -4662,12 +4662,12 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Деминенко Геннадий Яковлевич": 3,
-      "Крючин Сергей Васильевич": 9,
-      "Рахно Зинаида Васильевна": 0,
-      "Ткачев Алексей Николаевич": 105,
-      "Шалимов Анатолий Павлович": 6,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000190303": 3,
+      "gas:candidate-vibid:1001000136020": 9,
+      "gas:candidate-vibid:1001000112195": 0,
+      "gas:candidate-vibid:323300670868": 105,
+      "gas:candidate-vibid:1001000195049": 6,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070410&region=0&sub_region=0&type=429",
@@ -4717,12 +4717,12 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Деминенко Геннадий Яковлевич": 39,
-      "Крючин Сергей Васильевич": 80,
-      "Рахно Зинаида Васильевна": 103,
-      "Ткачев Алексей Николаевич": 729,
-      "Шалимов Анатолий Павлович": 18,
-      "Против всех": 133
+      "gas:candidate-vibid:1001000190303": 39,
+      "gas:candidate-vibid:1001000136020": 80,
+      "gas:candidate-vibid:1001000112195": 103,
+      "gas:candidate-vibid:323300670868": 729,
+      "gas:candidate-vibid:1001000195049": 18,
+      "special:against-all": 133
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070411&region=0&sub_region=0&type=429",
@@ -4772,12 +4772,12 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Деминенко Геннадий Яковлевич": 14,
-      "Крючин Сергей Васильевич": 23,
-      "Рахно Зинаида Васильевна": 34,
-      "Ткачев Алексей Николаевич": 309,
-      "Шалимов Анатолий Павлович": 9,
-      "Против всех": 57
+      "gas:candidate-vibid:1001000190303": 14,
+      "gas:candidate-vibid:1001000136020": 23,
+      "gas:candidate-vibid:1001000112195": 34,
+      "gas:candidate-vibid:323300670868": 309,
+      "gas:candidate-vibid:1001000195049": 9,
+      "special:against-all": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070411&region=0&sub_region=0&type=429",
@@ -4827,12 +4827,12 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Деминенко Геннадий Яковлевич": 11,
-      "Крючин Сергей Васильевич": 41,
-      "Рахно Зинаида Васильевна": 26,
-      "Ткачев Алексей Николаевич": 219,
-      "Шалимов Анатолий Павлович": 8,
-      "Против всех": 78
+      "gas:candidate-vibid:1001000190303": 11,
+      "gas:candidate-vibid:1001000136020": 41,
+      "gas:candidate-vibid:1001000112195": 26,
+      "gas:candidate-vibid:323300670868": 219,
+      "gas:candidate-vibid:1001000195049": 8,
+      "special:against-all": 78
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070411&region=0&sub_region=0&type=429",
@@ -4882,12 +4882,12 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Деминенко Геннадий Яковлевич": 12,
-      "Крючин Сергей Васильевич": 24,
-      "Рахно Зинаида Васильевна": 24,
-      "Ткачев Алексей Николаевич": 332,
-      "Шалимов Анатолий Павлович": 15,
-      "Против всех": 64
+      "gas:candidate-vibid:1001000190303": 12,
+      "gas:candidate-vibid:1001000136020": 24,
+      "gas:candidate-vibid:1001000112195": 24,
+      "gas:candidate-vibid:323300670868": 332,
+      "gas:candidate-vibid:1001000195049": 15,
+      "special:against-all": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070411&region=0&sub_region=0&type=429",
@@ -4937,12 +4937,12 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Деминенко Геннадий Яковлевич": 5,
-      "Крючин Сергей Васильевич": 10,
-      "Рахно Зинаида Васильевна": 29,
-      "Ткачев Алексей Николаевич": 220,
-      "Шалимов Анатолий Павлович": 8,
-      "Против всех": 40
+      "gas:candidate-vibid:1001000190303": 5,
+      "gas:candidate-vibid:1001000136020": 10,
+      "gas:candidate-vibid:1001000112195": 29,
+      "gas:candidate-vibid:323300670868": 220,
+      "gas:candidate-vibid:1001000195049": 8,
+      "special:against-all": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070411&region=0&sub_region=0&type=429",
@@ -4992,12 +4992,12 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Деминенко Геннадий Яковлевич": 28,
-      "Крючин Сергей Васильевич": 73,
-      "Рахно Зинаида Васильевна": 45,
-      "Ткачев Алексей Николаевич": 634,
-      "Шалимов Анатолий Павлович": 16,
-      "Против всех": 59
+      "gas:candidate-vibid:1001000190303": 28,
+      "gas:candidate-vibid:1001000136020": 73,
+      "gas:candidate-vibid:1001000112195": 45,
+      "gas:candidate-vibid:323300670868": 634,
+      "gas:candidate-vibid:1001000195049": 16,
+      "special:against-all": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070411&region=0&sub_region=0&type=429",
@@ -5047,12 +5047,12 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Деминенко Геннадий Яковлевич": 34,
-      "Крючин Сергей Васильевич": 92,
-      "Рахно Зинаида Васильевна": 126,
-      "Ткачев Алексей Николаевич": 1056,
-      "Шалимов Анатолий Павлович": 36,
-      "Против всех": 255
+      "gas:candidate-vibid:1001000190303": 34,
+      "gas:candidate-vibid:1001000136020": 92,
+      "gas:candidate-vibid:1001000112195": 126,
+      "gas:candidate-vibid:323300670868": 1056,
+      "gas:candidate-vibid:1001000195049": 36,
+      "special:against-all": 255
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070411&region=0&sub_region=0&type=429",
@@ -5102,12 +5102,12 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Деминенко Геннадий Яковлевич": 26,
-      "Крючин Сергей Васильевич": 61,
-      "Рахно Зинаида Васильевна": 42,
-      "Ткачев Алексей Николаевич": 707,
-      "Шалимов Анатолий Павлович": 23,
-      "Против всех": 145
+      "gas:candidate-vibid:1001000190303": 26,
+      "gas:candidate-vibid:1001000136020": 61,
+      "gas:candidate-vibid:1001000112195": 42,
+      "gas:candidate-vibid:323300670868": 707,
+      "gas:candidate-vibid:1001000195049": 23,
+      "special:against-all": 145
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070411&region=0&sub_region=0&type=429",
@@ -5157,12 +5157,12 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Деминенко Геннадий Яковлевич": 15,
-      "Крючин Сергей Васильевич": 20,
-      "Рахно Зинаида Васильевна": 20,
-      "Ткачев Алексей Николаевич": 127,
-      "Шалимов Анатолий Павлович": 5,
-      "Против всех": 54
+      "gas:candidate-vibid:1001000190303": 15,
+      "gas:candidate-vibid:1001000136020": 20,
+      "gas:candidate-vibid:1001000112195": 20,
+      "gas:candidate-vibid:323300670868": 127,
+      "gas:candidate-vibid:1001000195049": 5,
+      "special:against-all": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070411&region=0&sub_region=0&type=429",
@@ -5212,12 +5212,12 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Деминенко Геннадий Яковлевич": 29,
-      "Крючин Сергей Васильевич": 27,
-      "Рахно Зинаида Васильевна": 67,
-      "Ткачев Алексей Николаевич": 619,
-      "Шалимов Анатолий Павлович": 19,
-      "Против всех": 106
+      "gas:candidate-vibid:1001000190303": 29,
+      "gas:candidate-vibid:1001000136020": 27,
+      "gas:candidate-vibid:1001000112195": 67,
+      "gas:candidate-vibid:323300670868": 619,
+      "gas:candidate-vibid:1001000195049": 19,
+      "special:against-all": 106
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070411&region=0&sub_region=0&type=429",
@@ -5267,12 +5267,12 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Деминенко Геннадий Яковлевич": 27,
-      "Крючин Сергей Васильевич": 42,
-      "Рахно Зинаида Васильевна": 42,
-      "Ткачев Алексей Николаевич": 312,
-      "Шалимов Анатолий Павлович": 25,
-      "Против всех": 146
+      "gas:candidate-vibid:1001000190303": 27,
+      "gas:candidate-vibid:1001000136020": 42,
+      "gas:candidate-vibid:1001000112195": 42,
+      "gas:candidate-vibid:323300670868": 312,
+      "gas:candidate-vibid:1001000195049": 25,
+      "special:against-all": 146
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070411&region=0&sub_region=0&type=429",
@@ -5322,12 +5322,12 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Деминенко Геннадий Яковлевич": 9,
-      "Крючин Сергей Васильевич": 28,
-      "Рахно Зинаида Васильевна": 9,
-      "Ткачев Алексей Николаевич": 142,
-      "Шалимов Анатолий Павлович": 18,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000190303": 9,
+      "gas:candidate-vibid:1001000136020": 28,
+      "gas:candidate-vibid:1001000112195": 9,
+      "gas:candidate-vibid:323300670868": 142,
+      "gas:candidate-vibid:1001000195049": 18,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070411&region=0&sub_region=0&type=429",
@@ -5377,12 +5377,12 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Деминенко Геннадий Яковлевич": 30,
-      "Крючин Сергей Васильевич": 58,
-      "Рахно Зинаида Васильевна": 55,
-      "Ткачев Алексей Николаевич": 659,
-      "Шалимов Анатолий Павлович": 26,
-      "Против всех": 149
+      "gas:candidate-vibid:1001000190303": 30,
+      "gas:candidate-vibid:1001000136020": 58,
+      "gas:candidate-vibid:1001000112195": 55,
+      "gas:candidate-vibid:323300670868": 659,
+      "gas:candidate-vibid:1001000195049": 26,
+      "special:against-all": 149
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070411&region=0&sub_region=0&type=429",
@@ -5432,12 +5432,12 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Деминенко Геннадий Яковлевич": 19,
-      "Крючин Сергей Васильевич": 49,
-      "Рахно Зинаида Васильевна": 65,
-      "Ткачев Алексей Николаевич": 571,
-      "Шалимов Анатолий Павлович": 19,
-      "Против всех": 129
+      "gas:candidate-vibid:1001000190303": 19,
+      "gas:candidate-vibid:1001000136020": 49,
+      "gas:candidate-vibid:1001000112195": 65,
+      "gas:candidate-vibid:323300670868": 571,
+      "gas:candidate-vibid:1001000195049": 19,
+      "special:against-all": 129
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070411&region=0&sub_region=0&type=429",
@@ -5487,12 +5487,12 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Деминенко Геннадий Яковлевич": 45,
-      "Крючин Сергей Васильевич": 92,
-      "Рахно Зинаида Васильевна": 133,
-      "Ткачев Алексей Николаевич": 864,
-      "Шалимов Анатолий Павлович": 38,
-      "Против всех": 256
+      "gas:candidate-vibid:1001000190303": 45,
+      "gas:candidate-vibid:1001000136020": 92,
+      "gas:candidate-vibid:1001000112195": 133,
+      "gas:candidate-vibid:323300670868": 864,
+      "gas:candidate-vibid:1001000195049": 38,
+      "special:against-all": 256
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070411&region=0&sub_region=0&type=429",
@@ -5542,12 +5542,12 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Деминенко Геннадий Яковлевич": 21,
-      "Крючин Сергей Васильевич": 36,
-      "Рахно Зинаида Васильевна": 61,
-      "Ткачев Алексей Николаевич": 422,
-      "Шалимов Анатолий Павлович": 19,
-      "Против всех": 109
+      "gas:candidate-vibid:1001000190303": 21,
+      "gas:candidate-vibid:1001000136020": 36,
+      "gas:candidate-vibid:1001000112195": 61,
+      "gas:candidate-vibid:323300670868": 422,
+      "gas:candidate-vibid:1001000195049": 19,
+      "special:against-all": 109
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070411&region=0&sub_region=0&type=429",
@@ -5597,12 +5597,12 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Деминенко Геннадий Яковлевич": 35,
-      "Крючин Сергей Васильевич": 46,
-      "Рахно Зинаида Васильевна": 69,
-      "Ткачев Алексей Николаевич": 577,
-      "Шалимов Анатолий Павлович": 27,
-      "Против всех": 173
+      "gas:candidate-vibid:1001000190303": 35,
+      "gas:candidate-vibid:1001000136020": 46,
+      "gas:candidate-vibid:1001000112195": 69,
+      "gas:candidate-vibid:323300670868": 577,
+      "gas:candidate-vibid:1001000195049": 27,
+      "special:against-all": 173
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070411&region=0&sub_region=0&type=429",
@@ -5652,12 +5652,12 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Деминенко Геннадий Яковлевич": 80,
-      "Крючин Сергей Васильевич": 102,
-      "Рахно Зинаида Васильевна": 94,
-      "Ткачев Алексей Николаевич": 795,
-      "Шалимов Анатолий Павлович": 37,
-      "Против всех": 191
+      "gas:candidate-vibid:1001000190303": 80,
+      "gas:candidate-vibid:1001000136020": 102,
+      "gas:candidate-vibid:1001000112195": 94,
+      "gas:candidate-vibid:323300670868": 795,
+      "gas:candidate-vibid:1001000195049": 37,
+      "special:against-all": 191
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070411&region=0&sub_region=0&type=429",
@@ -5707,12 +5707,12 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Деминенко Геннадий Яковлевич": 27,
-      "Крючин Сергей Васильевич": 63,
-      "Рахно Зинаида Васильевна": 86,
-      "Ткачев Алексей Николаевич": 749,
-      "Шалимов Анатолий Павлович": 24,
-      "Против всех": 180
+      "gas:candidate-vibid:1001000190303": 27,
+      "gas:candidate-vibid:1001000136020": 63,
+      "gas:candidate-vibid:1001000112195": 86,
+      "gas:candidate-vibid:323300670868": 749,
+      "gas:candidate-vibid:1001000195049": 24,
+      "special:against-all": 180
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070411&region=0&sub_region=0&type=429",
@@ -5762,12 +5762,12 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Деминенко Геннадий Яковлевич": 14,
-      "Крючин Сергей Васильевич": 17,
-      "Рахно Зинаида Васильевна": 9,
-      "Ткачев Алексей Николаевич": 268,
-      "Шалимов Анатолий Павлович": 5,
-      "Против всех": 47
+      "gas:candidate-vibid:1001000190303": 14,
+      "gas:candidate-vibid:1001000136020": 17,
+      "gas:candidate-vibid:1001000112195": 9,
+      "gas:candidate-vibid:323300670868": 268,
+      "gas:candidate-vibid:1001000195049": 5,
+      "special:against-all": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070411&region=0&sub_region=0&type=429",
@@ -5817,12 +5817,12 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Деминенко Геннадий Яковлевич": 14,
-      "Крючин Сергей Васильевич": 12,
-      "Рахно Зинаида Васильевна": 10,
-      "Ткачев Алексей Николаевич": 181,
-      "Шалимов Анатолий Павлович": 3,
-      "Против всех": 34
+      "gas:candidate-vibid:1001000190303": 14,
+      "gas:candidate-vibid:1001000136020": 12,
+      "gas:candidate-vibid:1001000112195": 10,
+      "gas:candidate-vibid:323300670868": 181,
+      "gas:candidate-vibid:1001000195049": 3,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070411&region=0&sub_region=0&type=429",
@@ -5872,12 +5872,12 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Деминенко Геннадий Яковлевич": 43,
-      "Крючин Сергей Васильевич": 68,
-      "Рахно Зинаида Васильевна": 96,
-      "Ткачев Алексей Николаевич": 684,
-      "Шалимов Анатолий Павлович": 37,
-      "Против всех": 152
+      "gas:candidate-vibid:1001000190303": 43,
+      "gas:candidate-vibid:1001000136020": 68,
+      "gas:candidate-vibid:1001000112195": 96,
+      "gas:candidate-vibid:323300670868": 684,
+      "gas:candidate-vibid:1001000195049": 37,
+      "special:against-all": 152
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070411&region=0&sub_region=0&type=429",
@@ -5927,12 +5927,12 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Деминенко Геннадий Яковлевич": 22,
-      "Крючин Сергей Васильевич": 100,
-      "Рахно Зинаида Васильевна": 107,
-      "Ткачев Алексей Николаевич": 545,
-      "Шалимов Анатолий Павлович": 22,
-      "Против всех": 146
+      "gas:candidate-vibid:1001000190303": 22,
+      "gas:candidate-vibid:1001000136020": 100,
+      "gas:candidate-vibid:1001000112195": 107,
+      "gas:candidate-vibid:323300670868": 545,
+      "gas:candidate-vibid:1001000195049": 22,
+      "special:against-all": 146
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070411&region=0&sub_region=0&type=429",
@@ -5982,12 +5982,12 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Деминенко Геннадий Яковлевич": 3,
-      "Крючин Сергей Васильевич": 16,
-      "Рахно Зинаида Васильевна": 28,
-      "Ткачев Алексей Николаевич": 152,
-      "Шалимов Анатолий Павлович": 5,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000190303": 3,
+      "gas:candidate-vibid:1001000136020": 16,
+      "gas:candidate-vibid:1001000112195": 28,
+      "gas:candidate-vibid:323300670868": 152,
+      "gas:candidate-vibid:1001000195049": 5,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070411&region=0&sub_region=0&type=429",
@@ -6037,12 +6037,12 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Деминенко Геннадий Яковлевич": 6,
-      "Крючин Сергей Васильевич": 12,
-      "Рахно Зинаида Васильевна": 16,
-      "Ткачев Алексей Николаевич": 173,
-      "Шалимов Анатолий Павлович": 2,
-      "Против всех": 32
+      "gas:candidate-vibid:1001000190303": 6,
+      "gas:candidate-vibid:1001000136020": 12,
+      "gas:candidate-vibid:1001000112195": 16,
+      "gas:candidate-vibid:323300670868": 173,
+      "gas:candidate-vibid:1001000195049": 2,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070411&region=0&sub_region=0&type=429",
@@ -6092,12 +6092,12 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Деминенко Геннадий Яковлевич": 21,
-      "Крючин Сергей Васильевич": 38,
-      "Рахно Зинаида Васильевна": 68,
-      "Ткачев Алексей Николаевич": 350,
-      "Шалимов Анатолий Павлович": 24,
-      "Против всех": 106
+      "gas:candidate-vibid:1001000190303": 21,
+      "gas:candidate-vibid:1001000136020": 38,
+      "gas:candidate-vibid:1001000112195": 68,
+      "gas:candidate-vibid:323300670868": 350,
+      "gas:candidate-vibid:1001000195049": 24,
+      "special:against-all": 106
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070411&region=0&sub_region=0&type=429",
@@ -6147,12 +6147,12 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Деминенко Геннадий Яковлевич": 34,
-      "Крючин Сергей Васильевич": 58,
-      "Рахно Зинаида Васильевна": 50,
-      "Ткачев Алексей Николаевич": 422,
-      "Шалимов Анатолий Павлович": 21,
-      "Против всех": 92
+      "gas:candidate-vibid:1001000190303": 34,
+      "gas:candidate-vibid:1001000136020": 58,
+      "gas:candidate-vibid:1001000112195": 50,
+      "gas:candidate-vibid:323300670868": 422,
+      "gas:candidate-vibid:1001000195049": 21,
+      "special:against-all": 92
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070411&region=0&sub_region=0&type=429",
@@ -6202,12 +6202,12 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Деминенко Геннадий Яковлевич": 13,
-      "Крючин Сергей Васильевич": 40,
-      "Рахно Зинаида Васильевна": 32,
-      "Ткачев Алексей Николаевич": 285,
-      "Шалимов Анатолий Павлович": 26,
-      "Против всех": 179
+      "gas:candidate-vibid:1001000190303": 13,
+      "gas:candidate-vibid:1001000136020": 40,
+      "gas:candidate-vibid:1001000112195": 32,
+      "gas:candidate-vibid:323300670868": 285,
+      "gas:candidate-vibid:1001000195049": 26,
+      "special:against-all": 179
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070411&region=0&sub_region=0&type=429",
@@ -6257,12 +6257,12 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Деминенко Геннадий Яковлевич": 23,
-      "Крючин Сергей Васильевич": 23,
-      "Рахно Зинаида Васильевна": 41,
-      "Ткачев Алексей Николаевич": 635,
-      "Шалимов Анатолий Павлович": 26,
-      "Против всех": 78
+      "gas:candidate-vibid:1001000190303": 23,
+      "gas:candidate-vibid:1001000136020": 23,
+      "gas:candidate-vibid:1001000112195": 41,
+      "gas:candidate-vibid:323300670868": 635,
+      "gas:candidate-vibid:1001000195049": 26,
+      "special:against-all": 78
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070411&region=0&sub_region=0&type=429",
@@ -6312,12 +6312,12 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Деминенко Геннадий Яковлевич": 23,
-      "Крючин Сергей Васильевич": 43,
-      "Рахно Зинаида Васильевна": 25,
-      "Ткачев Алексей Николаевич": 419,
-      "Шалимов Анатолий Павлович": 13,
-      "Против всех": 121
+      "gas:candidate-vibid:1001000190303": 23,
+      "gas:candidate-vibid:1001000136020": 43,
+      "gas:candidate-vibid:1001000112195": 25,
+      "gas:candidate-vibid:323300670868": 419,
+      "gas:candidate-vibid:1001000195049": 13,
+      "special:against-all": 121
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070411&region=0&sub_region=0&type=429",
@@ -6367,12 +6367,12 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Деминенко Геннадий Яковлевич": 5,
-      "Крючин Сергей Васильевич": 9,
-      "Рахно Зинаида Васильевна": 6,
-      "Ткачев Алексей Николаевич": 139,
-      "Шалимов Анатолий Павлович": 4,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000190303": 5,
+      "gas:candidate-vibid:1001000136020": 9,
+      "gas:candidate-vibid:1001000112195": 6,
+      "gas:candidate-vibid:323300670868": 139,
+      "gas:candidate-vibid:1001000195049": 4,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070411&region=0&sub_region=0&type=429",
@@ -6422,12 +6422,12 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Деминенко Геннадий Яковлевич": 16,
-      "Крючин Сергей Васильевич": 36,
-      "Рахно Зинаида Васильевна": 37,
-      "Ткачев Алексей Николаевич": 325,
-      "Шалимов Анатолий Павлович": 11,
-      "Против всех": 88
+      "gas:candidate-vibid:1001000190303": 16,
+      "gas:candidate-vibid:1001000136020": 36,
+      "gas:candidate-vibid:1001000112195": 37,
+      "gas:candidate-vibid:323300670868": 325,
+      "gas:candidate-vibid:1001000195049": 11,
+      "special:against-all": 88
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070411&region=0&sub_region=0&type=429",
@@ -6477,12 +6477,12 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Деминенко Геннадий Яковлевич": 5,
-      "Крючин Сергей Васильевич": 8,
-      "Рахно Зинаида Васильевна": 12,
-      "Ткачев Алексей Николаевич": 86,
-      "Шалимов Анатолий Павлович": 7,
-      "Против всех": 26
+      "gas:candidate-vibid:1001000190303": 5,
+      "gas:candidate-vibid:1001000136020": 8,
+      "gas:candidate-vibid:1001000112195": 12,
+      "gas:candidate-vibid:323300670868": 86,
+      "gas:candidate-vibid:1001000195049": 7,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070411&region=0&sub_region=0&type=429",
@@ -6532,12 +6532,12 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Деминенко Геннадий Яковлевич": 14,
-      "Крючин Сергей Васильевич": 2,
-      "Рахно Зинаида Васильевна": 8,
-      "Ткачев Алексей Николаевич": 335,
-      "Шалимов Анатолий Павлович": 2,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000190303": 14,
+      "gas:candidate-vibid:1001000136020": 2,
+      "gas:candidate-vibid:1001000112195": 8,
+      "gas:candidate-vibid:323300670868": 335,
+      "gas:candidate-vibid:1001000195049": 2,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070411&region=0&sub_region=0&type=429",
@@ -6587,12 +6587,12 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Деминенко Геннадий Яковлевич": 34,
-      "Крючин Сергей Васильевич": 24,
-      "Рахно Зинаида Васильевна": 30,
-      "Ткачев Алексей Николаевич": 997,
-      "Шалимов Анатолий Павлович": 17,
-      "Против всех": 89
+      "gas:candidate-vibid:1001000190303": 34,
+      "gas:candidate-vibid:1001000136020": 24,
+      "gas:candidate-vibid:1001000112195": 30,
+      "gas:candidate-vibid:323300670868": 997,
+      "gas:candidate-vibid:1001000195049": 17,
+      "special:against-all": 89
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070411&region=0&sub_region=0&type=429",
@@ -6642,12 +6642,12 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Деминенко Геннадий Яковлевич": 38,
-      "Крючин Сергей Васильевич": 69,
-      "Рахно Зинаида Васильевна": 66,
-      "Ткачев Алексей Николаевич": 480,
-      "Шалимов Анатолий Павлович": 32,
-      "Против всех": 170
+      "gas:candidate-vibid:1001000190303": 38,
+      "gas:candidate-vibid:1001000136020": 69,
+      "gas:candidate-vibid:1001000112195": 66,
+      "gas:candidate-vibid:323300670868": 480,
+      "gas:candidate-vibid:1001000195049": 32,
+      "special:against-all": 170
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070411&region=0&sub_region=0&type=429",
@@ -6697,12 +6697,12 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Деминенко Геннадий Яковлевич": 29,
-      "Крючин Сергей Васильевич": 56,
-      "Рахно Зинаида Васильевна": 104,
-      "Ткачев Алексей Николаевич": 492,
-      "Шалимов Анатолий Павлович": 22,
-      "Против всех": 168
+      "gas:candidate-vibid:1001000190303": 29,
+      "gas:candidate-vibid:1001000136020": 56,
+      "gas:candidate-vibid:1001000112195": 104,
+      "gas:candidate-vibid:323300670868": 492,
+      "gas:candidate-vibid:1001000195049": 22,
+      "special:against-all": 168
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070411&region=0&sub_region=0&type=429",
@@ -6752,12 +6752,12 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Деминенко Геннадий Яковлевич": 62,
-      "Крючин Сергей Васильевич": 73,
-      "Рахно Зинаида Васильевна": 111,
-      "Ткачев Алексей Николаевич": 551,
-      "Шалимов Анатолий Павлович": 44,
-      "Против всех": 155
+      "gas:candidate-vibid:1001000190303": 62,
+      "gas:candidate-vibid:1001000136020": 73,
+      "gas:candidate-vibid:1001000112195": 111,
+      "gas:candidate-vibid:323300670868": 551,
+      "gas:candidate-vibid:1001000195049": 44,
+      "special:against-all": 155
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070411&region=0&sub_region=0&type=429",
@@ -6807,12 +6807,12 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Деминенко Геннадий Яковлевич": 12,
-      "Крючин Сергей Васильевич": 20,
-      "Рахно Зинаида Васильевна": 31,
-      "Ткачев Алексей Николаевич": 483,
-      "Шалимов Анатолий Павлович": 6,
-      "Против всех": 55
+      "gas:candidate-vibid:1001000190303": 12,
+      "gas:candidate-vibid:1001000136020": 20,
+      "gas:candidate-vibid:1001000112195": 31,
+      "gas:candidate-vibid:323300670868": 483,
+      "gas:candidate-vibid:1001000195049": 6,
+      "special:against-all": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070411&region=0&sub_region=0&type=429",
@@ -6862,12 +6862,12 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Деминенко Геннадий Яковлевич": 18,
-      "Крючин Сергей Васильевич": 28,
-      "Рахно Зинаида Васильевна": 59,
-      "Ткачев Алексей Николаевич": 692,
-      "Шалимов Анатолий Павлович": 11,
-      "Против всех": 99
+      "gas:candidate-vibid:1001000190303": 18,
+      "gas:candidate-vibid:1001000136020": 28,
+      "gas:candidate-vibid:1001000112195": 59,
+      "gas:candidate-vibid:323300670868": 692,
+      "gas:candidate-vibid:1001000195049": 11,
+      "special:against-all": 99
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000049&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070412&region=0&sub_region=0&type=429",
@@ -6917,12 +6917,12 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Деминенко Геннадий Яковлевич": 13,
-      "Крючин Сергей Васильевич": 35,
-      "Рахно Зинаида Васильевна": 42,
-      "Ткачев Алексей Николаевич": 618,
-      "Шалимов Анатолий Павлович": 5,
-      "Против всех": 80
+      "gas:candidate-vibid:1001000190303": 13,
+      "gas:candidate-vibid:1001000136020": 35,
+      "gas:candidate-vibid:1001000112195": 42,
+      "gas:candidate-vibid:323300670868": 618,
+      "gas:candidate-vibid:1001000195049": 5,
+      "special:against-all": 80
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000049&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070412&region=0&sub_region=0&type=429",
@@ -6972,12 +6972,12 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Деминенко Геннадий Яковлевич": 15,
-      "Крючин Сергей Васильевич": 29,
-      "Рахно Зинаида Васильевна": 61,
-      "Ткачев Алексей Николаевич": 725,
-      "Шалимов Анатолий Павлович": 10,
-      "Против всех": 90
+      "gas:candidate-vibid:1001000190303": 15,
+      "gas:candidate-vibid:1001000136020": 29,
+      "gas:candidate-vibid:1001000112195": 61,
+      "gas:candidate-vibid:323300670868": 725,
+      "gas:candidate-vibid:1001000195049": 10,
+      "special:against-all": 90
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000049&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070412&region=0&sub_region=0&type=429",
@@ -7027,12 +7027,12 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Деминенко Геннадий Яковлевич": 9,
-      "Крючин Сергей Васильевич": 27,
-      "Рахно Зинаида Васильевна": 22,
-      "Ткачев Алексей Николаевич": 402,
-      "Шалимов Анатолий Павлович": 6,
-      "Против всех": 79
+      "gas:candidate-vibid:1001000190303": 9,
+      "gas:candidate-vibid:1001000136020": 27,
+      "gas:candidate-vibid:1001000112195": 22,
+      "gas:candidate-vibid:323300670868": 402,
+      "gas:candidate-vibid:1001000195049": 6,
+      "special:against-all": 79
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000049&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070412&region=0&sub_region=0&type=429",
@@ -7082,12 +7082,12 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Деминенко Геннадий Яковлевич": 4,
-      "Крючин Сергей Васильевич": 24,
-      "Рахно Зинаида Васильевна": 48,
-      "Ткачев Алексей Николаевич": 604,
-      "Шалимов Анатолий Павлович": 6,
-      "Против всех": 75
+      "gas:candidate-vibid:1001000190303": 4,
+      "gas:candidate-vibid:1001000136020": 24,
+      "gas:candidate-vibid:1001000112195": 48,
+      "gas:candidate-vibid:323300670868": 604,
+      "gas:candidate-vibid:1001000195049": 6,
+      "special:against-all": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000049&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070412&region=0&sub_region=0&type=429",
@@ -7137,12 +7137,12 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Деминенко Геннадий Яковлевич": 16,
-      "Крючин Сергей Васильевич": 41,
-      "Рахно Зинаида Васильевна": 90,
-      "Ткачев Алексей Николаевич": 601,
-      "Шалимов Анатолий Павлович": 10,
-      "Против всех": 126
+      "gas:candidate-vibid:1001000190303": 16,
+      "gas:candidate-vibid:1001000136020": 41,
+      "gas:candidate-vibid:1001000112195": 90,
+      "gas:candidate-vibid:323300670868": 601,
+      "gas:candidate-vibid:1001000195049": 10,
+      "special:against-all": 126
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000049&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070412&region=0&sub_region=0&type=429",
@@ -7192,12 +7192,12 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Деминенко Геннадий Яковлевич": 14,
-      "Крючин Сергей Васильевич": 40,
-      "Рахно Зинаида Васильевна": 55,
-      "Ткачев Алексей Николаевич": 582,
-      "Шалимов Анатолий Павлович": 10,
-      "Против всех": 106
+      "gas:candidate-vibid:1001000190303": 14,
+      "gas:candidate-vibid:1001000136020": 40,
+      "gas:candidate-vibid:1001000112195": 55,
+      "gas:candidate-vibid:323300670868": 582,
+      "gas:candidate-vibid:1001000195049": 10,
+      "special:against-all": 106
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000049&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070412&region=0&sub_region=0&type=429",
@@ -7247,12 +7247,12 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Деминенко Геннадий Яковлевич": 13,
-      "Крючин Сергей Васильевич": 53,
-      "Рахно Зинаида Васильевна": 103,
-      "Ткачев Алексей Николаевич": 776,
-      "Шалимов Анатолий Павлович": 12,
-      "Против всех": 154
+      "gas:candidate-vibid:1001000190303": 13,
+      "gas:candidate-vibid:1001000136020": 53,
+      "gas:candidate-vibid:1001000112195": 103,
+      "gas:candidate-vibid:323300670868": 776,
+      "gas:candidate-vibid:1001000195049": 12,
+      "special:against-all": 154
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000049&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070412&region=0&sub_region=0&type=429",
@@ -7302,12 +7302,12 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Деминенко Геннадий Яковлевич": 8,
-      "Крючин Сергей Васильевич": 37,
-      "Рахно Зинаида Васильевна": 46,
-      "Ткачев Алексей Николаевич": 572,
-      "Шалимов Анатолий Павлович": 10,
-      "Против всех": 83
+      "gas:candidate-vibid:1001000190303": 8,
+      "gas:candidate-vibid:1001000136020": 37,
+      "gas:candidate-vibid:1001000112195": 46,
+      "gas:candidate-vibid:323300670868": 572,
+      "gas:candidate-vibid:1001000195049": 10,
+      "special:against-all": 83
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000049&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070412&region=0&sub_region=0&type=429",
@@ -7357,12 +7357,12 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Деминенко Геннадий Яковлевич": 2,
-      "Крючин Сергей Васильевич": 3,
-      "Рахно Зинаида Васильевна": 2,
-      "Ткачев Алексей Николаевич": 61,
-      "Шалимов Анатолий Павлович": 0,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000190303": 2,
+      "gas:candidate-vibid:1001000136020": 3,
+      "gas:candidate-vibid:1001000112195": 2,
+      "gas:candidate-vibid:323300670868": 61,
+      "gas:candidate-vibid:1001000195049": 0,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000049&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070412&region=0&sub_region=0&type=429",
@@ -7412,12 +7412,12 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Деминенко Геннадий Яковлевич": 8,
-      "Крючин Сергей Васильевич": 17,
-      "Рахно Зинаида Васильевна": 25,
-      "Ткачев Алексей Николаевич": 228,
-      "Шалимов Анатолий Павлович": 2,
-      "Против всех": 28
+      "gas:candidate-vibid:1001000190303": 8,
+      "gas:candidate-vibid:1001000136020": 17,
+      "gas:candidate-vibid:1001000112195": 25,
+      "gas:candidate-vibid:323300670868": 228,
+      "gas:candidate-vibid:1001000195049": 2,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000049&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070412&region=0&sub_region=0&type=429",
@@ -7467,12 +7467,12 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Деминенко Геннадий Яковлевич": 10,
-      "Крючин Сергей Васильевич": 17,
-      "Рахно Зинаида Васильевна": 26,
-      "Ткачев Алексей Николаевич": 549,
-      "Шалимов Анатолий Павлович": 6,
-      "Против всех": 61
+      "gas:candidate-vibid:1001000190303": 10,
+      "gas:candidate-vibid:1001000136020": 17,
+      "gas:candidate-vibid:1001000112195": 26,
+      "gas:candidate-vibid:323300670868": 549,
+      "gas:candidate-vibid:1001000195049": 6,
+      "special:against-all": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000049&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070412&region=0&sub_region=0&type=429",
@@ -7522,12 +7522,12 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Деминенко Геннадий Яковлевич": 2,
-      "Крючин Сергей Васильевич": 4,
-      "Рахно Зинаида Васильевна": 7,
-      "Ткачев Алексей Николаевич": 279,
-      "Шалимов Анатолий Павлович": 0,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000190303": 2,
+      "gas:candidate-vibid:1001000136020": 4,
+      "gas:candidate-vibid:1001000112195": 7,
+      "gas:candidate-vibid:323300670868": 279,
+      "gas:candidate-vibid:1001000195049": 0,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000049&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070412&region=0&sub_region=0&type=429",
@@ -7577,12 +7577,12 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Деминенко Геннадий Яковлевич": 0,
-      "Крючин Сергей Васильевич": 3,
-      "Рахно Зинаида Васильевна": 2,
-      "Ткачев Алексей Николаевич": 101,
-      "Шалимов Анатолий Павлович": 1,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000190303": 0,
+      "gas:candidate-vibid:1001000136020": 3,
+      "gas:candidate-vibid:1001000112195": 2,
+      "gas:candidate-vibid:323300670868": 101,
+      "gas:candidate-vibid:1001000195049": 1,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000049&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070412&region=0&sub_region=0&type=429",
@@ -7632,12 +7632,12 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Деминенко Геннадий Яковлевич": 1,
-      "Крючин Сергей Васильевич": 8,
-      "Рахно Зинаида Васильевна": 19,
-      "Ткачев Алексей Николаевич": 236,
-      "Шалимов Анатолий Павлович": 2,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000190303": 1,
+      "gas:candidate-vibid:1001000136020": 8,
+      "gas:candidate-vibid:1001000112195": 19,
+      "gas:candidate-vibid:323300670868": 236,
+      "gas:candidate-vibid:1001000195049": 2,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000049&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070412&region=0&sub_region=0&type=429",
@@ -7687,12 +7687,12 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Деминенко Геннадий Яковлевич": 14,
-      "Крючин Сергей Васильевич": 42,
-      "Рахно Зинаида Васильевна": 46,
-      "Ткачев Алексей Николаевич": 934,
-      "Шалимов Анатолий Павлович": 10,
-      "Против всех": 105
+      "gas:candidate-vibid:1001000190303": 14,
+      "gas:candidate-vibid:1001000136020": 42,
+      "gas:candidate-vibid:1001000112195": 46,
+      "gas:candidate-vibid:323300670868": 934,
+      "gas:candidate-vibid:1001000195049": 10,
+      "special:against-all": 105
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000049&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070412&region=0&sub_region=0&type=429",
@@ -7742,12 +7742,12 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Деминенко Геннадий Яковлевич": 18,
-      "Крючин Сергей Васильевич": 38,
-      "Рахно Зинаида Васильевна": 53,
-      "Ткачев Алексей Николаевич": 826,
-      "Шалимов Анатолий Павлович": 33,
-      "Против всех": 67
+      "gas:candidate-vibid:1001000190303": 18,
+      "gas:candidate-vibid:1001000136020": 38,
+      "gas:candidate-vibid:1001000112195": 53,
+      "gas:candidate-vibid:323300670868": 826,
+      "gas:candidate-vibid:1001000195049": 33,
+      "special:against-all": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000049&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070412&region=0&sub_region=0&type=429",
@@ -7797,12 +7797,12 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Деминенко Геннадий Яковлевич": 8,
-      "Крючин Сергей Васильевич": 23,
-      "Рахно Зинаида Васильевна": 6,
-      "Ткачев Алексей Николаевич": 508,
-      "Шалимов Анатолий Павлович": 3,
-      "Против всех": 27
+      "gas:candidate-vibid:1001000190303": 8,
+      "gas:candidate-vibid:1001000136020": 23,
+      "gas:candidate-vibid:1001000112195": 6,
+      "gas:candidate-vibid:323300670868": 508,
+      "gas:candidate-vibid:1001000195049": 3,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000049&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070412&region=0&sub_region=0&type=429",
@@ -7852,12 +7852,12 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Деминенко Геннадий Яковлевич": 11,
-      "Крючин Сергей Васильевич": 33,
-      "Рахно Зинаида Васильевна": 57,
-      "Ткачев Алексей Николаевич": 363,
-      "Шалимов Анатолий Павлович": 15,
-      "Против всех": 77
+      "gas:candidate-vibid:1001000190303": 11,
+      "gas:candidate-vibid:1001000136020": 33,
+      "gas:candidate-vibid:1001000112195": 57,
+      "gas:candidate-vibid:323300670868": 363,
+      "gas:candidate-vibid:1001000195049": 15,
+      "special:against-all": 77
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000049&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070412&region=0&sub_region=0&type=429",
@@ -7907,12 +7907,12 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Деминенко Геннадий Яковлевич": 15,
-      "Крючин Сергей Васильевич": 51,
-      "Рахно Зинаида Васильевна": 16,
-      "Ткачев Алексей Николаевич": 738,
-      "Шалимов Анатолий Павлович": 17,
-      "Против всех": 60
+      "gas:candidate-vibid:1001000190303": 15,
+      "gas:candidate-vibid:1001000136020": 51,
+      "gas:candidate-vibid:1001000112195": 16,
+      "gas:candidate-vibid:323300670868": 738,
+      "gas:candidate-vibid:1001000195049": 17,
+      "special:against-all": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000049&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070412&region=0&sub_region=0&type=429",
@@ -7962,12 +7962,12 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Деминенко Геннадий Яковлевич": 13,
-      "Крючин Сергей Васильевич": 69,
-      "Рахно Зинаида Васильевна": 26,
-      "Ткачев Алексей Николаевич": 811,
-      "Шалимов Анатолий Павлович": 16,
-      "Против всех": 79
+      "gas:candidate-vibid:1001000190303": 13,
+      "gas:candidate-vibid:1001000136020": 69,
+      "gas:candidate-vibid:1001000112195": 26,
+      "gas:candidate-vibid:323300670868": 811,
+      "gas:candidate-vibid:1001000195049": 16,
+      "special:against-all": 79
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000049&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070412&region=0&sub_region=0&type=429",
@@ -8017,12 +8017,12 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Деминенко Геннадий Яковлевич": 7,
-      "Крючин Сергей Васильевич": 35,
-      "Рахно Зинаида Васильевна": 48,
-      "Ткачев Алексей Николаевич": 306,
-      "Шалимов Анатолий Павлович": 8,
-      "Против всех": 40
+      "gas:candidate-vibid:1001000190303": 7,
+      "gas:candidate-vibid:1001000136020": 35,
+      "gas:candidate-vibid:1001000112195": 48,
+      "gas:candidate-vibid:323300670868": 306,
+      "gas:candidate-vibid:1001000195049": 8,
+      "special:against-all": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000049&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070412&region=0&sub_region=0&type=429",
@@ -8072,21 +8072,21 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беличенко Александр Сергеевич": 22,
-      "Белоглазов Павел Валерьевич": 0,
-      "Высочин Анатолий Петрович": 14,
-      "Герасимов Дмитрий Михайлович": 1,
-      "Зацепина Нина Андреевна": 17,
-      "Ковалюк Михаил Анатольевич": 16,
-      "Кочьян Илья Айкасович": 28,
-      "Кузнецов Семен Иванович": 1,
-      "Панченко Сергей Васильевич": 1,
-      "Савченко Владимир Александрович": 2,
-      "Сергеева Людмила Леонидовна": 0,
-      "Ширшов Константин Владимирович": 42,
-      "Шишкарев Сергей Николаевич": 65,
-      "Ярышев Сергей Николаевич": 122,
-      "Против всех": 27
+      "gas:candidate-vibid:1001000136021": 22,
+      "gas:candidate-vibid:323300770831": 0,
+      "gas:candidate-vibid:323300770995": 14,
+      "gas:candidate-vibid:1001000195050": 1,
+      "gas:candidate-vibid:323300770913": 17,
+      "gas:candidate-vibid:323300770485": 16,
+      "gas:candidate-vibid:1001000225916": 28,
+      "gas:candidate-vibid:1001000190304": 1,
+      "gas:candidate-vibid:1001000112196": 1,
+      "gas:candidate-vibid:323300770543": 2,
+      "gas:candidate-vibid:323300770399": 0,
+      "gas:candidate-vibid:1001000121818": 42,
+      "gas:candidate-vibid:1001000187996": 65,
+      "gas:candidate-vibid:323300771002": 122,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000051&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070414&region=0&sub_region=0&type=429",
@@ -8136,21 +8136,21 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беличенко Александр Сергеевич": 15,
-      "Белоглазов Павел Валерьевич": 2,
-      "Высочин Анатолий Петрович": 18,
-      "Герасимов Дмитрий Михайлович": 4,
-      "Зацепина Нина Андреевна": 124,
-      "Ковалюк Михаил Анатольевич": 10,
-      "Кочьян Илья Айкасович": 191,
-      "Кузнецов Семен Иванович": 4,
-      "Панченко Сергей Васильевич": 3,
-      "Савченко Владимир Александрович": 0,
-      "Сергеева Людмила Леонидовна": 6,
-      "Ширшов Константин Владимирович": 48,
-      "Шишкарев Сергей Николаевич": 146,
-      "Ярышев Сергей Николаевич": 134,
-      "Против всех": 61
+      "gas:candidate-vibid:1001000136021": 15,
+      "gas:candidate-vibid:323300770831": 2,
+      "gas:candidate-vibid:323300770995": 18,
+      "gas:candidate-vibid:1001000195050": 4,
+      "gas:candidate-vibid:323300770913": 124,
+      "gas:candidate-vibid:323300770485": 10,
+      "gas:candidate-vibid:1001000225916": 191,
+      "gas:candidate-vibid:1001000190304": 4,
+      "gas:candidate-vibid:1001000112196": 3,
+      "gas:candidate-vibid:323300770543": 0,
+      "gas:candidate-vibid:323300770399": 6,
+      "gas:candidate-vibid:1001000121818": 48,
+      "gas:candidate-vibid:1001000187996": 146,
+      "gas:candidate-vibid:323300771002": 134,
+      "special:against-all": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000051&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070414&region=0&sub_region=0&type=429",
@@ -8200,21 +8200,21 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беличенко Александр Сергеевич": 8,
-      "Белоглазов Павел Валерьевич": 0,
-      "Высочин Анатолий Петрович": 9,
-      "Герасимов Дмитрий Михайлович": 1,
-      "Зацепина Нина Андреевна": 8,
-      "Ковалюк Михаил Анатольевич": 1,
-      "Кочьян Илья Айкасович": 67,
-      "Кузнецов Семен Иванович": 1,
-      "Панченко Сергей Васильевич": 7,
-      "Савченко Владимир Александрович": 2,
-      "Сергеева Людмила Леонидовна": 2,
-      "Ширшов Константин Владимирович": 47,
-      "Шишкарев Сергей Николаевич": 34,
-      "Ярышев Сергей Николаевич": 26,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000136021": 8,
+      "gas:candidate-vibid:323300770831": 0,
+      "gas:candidate-vibid:323300770995": 9,
+      "gas:candidate-vibid:1001000195050": 1,
+      "gas:candidate-vibid:323300770913": 8,
+      "gas:candidate-vibid:323300770485": 1,
+      "gas:candidate-vibid:1001000225916": 67,
+      "gas:candidate-vibid:1001000190304": 1,
+      "gas:candidate-vibid:1001000112196": 7,
+      "gas:candidate-vibid:323300770543": 2,
+      "gas:candidate-vibid:323300770399": 2,
+      "gas:candidate-vibid:1001000121818": 47,
+      "gas:candidate-vibid:1001000187996": 34,
+      "gas:candidate-vibid:323300771002": 26,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000051&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070414&region=0&sub_region=0&type=429",
@@ -8264,21 +8264,21 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беличенко Александр Сергеевич": 2,
-      "Белоглазов Павел Валерьевич": 1,
-      "Высочин Анатолий Петрович": 7,
-      "Герасимов Дмитрий Михайлович": 0,
-      "Зацепина Нина Андреевна": 13,
-      "Ковалюк Михаил Анатольевич": 36,
-      "Кочьян Илья Айкасович": 73,
-      "Кузнецов Семен Иванович": 0,
-      "Панченко Сергей Васильевич": 2,
-      "Савченко Владимир Александрович": 2,
-      "Сергеева Людмила Леонидовна": 3,
-      "Ширшов Константин Владимирович": 30,
-      "Шишкарев Сергей Николаевич": 21,
-      "Ярышев Сергей Николаевич": 32,
-      "Против всех": 35
+      "gas:candidate-vibid:1001000136021": 2,
+      "gas:candidate-vibid:323300770831": 1,
+      "gas:candidate-vibid:323300770995": 7,
+      "gas:candidate-vibid:1001000195050": 0,
+      "gas:candidate-vibid:323300770913": 13,
+      "gas:candidate-vibid:323300770485": 36,
+      "gas:candidate-vibid:1001000225916": 73,
+      "gas:candidate-vibid:1001000190304": 0,
+      "gas:candidate-vibid:1001000112196": 2,
+      "gas:candidate-vibid:323300770543": 2,
+      "gas:candidate-vibid:323300770399": 3,
+      "gas:candidate-vibid:1001000121818": 30,
+      "gas:candidate-vibid:1001000187996": 21,
+      "gas:candidate-vibid:323300771002": 32,
+      "special:against-all": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000051&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070414&region=0&sub_region=0&type=429",
@@ -8328,21 +8328,21 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беличенко Александр Сергеевич": 20,
-      "Белоглазов Павел Валерьевич": 2,
-      "Высочин Анатолий Петрович": 32,
-      "Герасимов Дмитрий Михайлович": 2,
-      "Зацепина Нина Андреевна": 31,
-      "Ковалюк Михаил Анатольевич": 53,
-      "Кочьян Илья Айкасович": 130,
-      "Кузнецов Семен Иванович": 6,
-      "Панченко Сергей Васильевич": 8,
-      "Савченко Владимир Александрович": 4,
-      "Сергеева Людмила Леонидовна": 7,
-      "Ширшов Константин Владимирович": 74,
-      "Шишкарев Сергей Николаевич": 74,
-      "Ярышев Сергей Николаевич": 106,
-      "Против всех": 64
+      "gas:candidate-vibid:1001000136021": 20,
+      "gas:candidate-vibid:323300770831": 2,
+      "gas:candidate-vibid:323300770995": 32,
+      "gas:candidate-vibid:1001000195050": 2,
+      "gas:candidate-vibid:323300770913": 31,
+      "gas:candidate-vibid:323300770485": 53,
+      "gas:candidate-vibid:1001000225916": 130,
+      "gas:candidate-vibid:1001000190304": 6,
+      "gas:candidate-vibid:1001000112196": 8,
+      "gas:candidate-vibid:323300770543": 4,
+      "gas:candidate-vibid:323300770399": 7,
+      "gas:candidate-vibid:1001000121818": 74,
+      "gas:candidate-vibid:1001000187996": 74,
+      "gas:candidate-vibid:323300771002": 106,
+      "special:against-all": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000051&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070414&region=0&sub_region=0&type=429",
@@ -8392,21 +8392,21 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беличенко Александр Сергеевич": 49,
-      "Белоглазов Павел Валерьевич": 2,
-      "Высочин Анатолий Петрович": 53,
-      "Герасимов Дмитрий Михайлович": 3,
-      "Зацепина Нина Андреевна": 58,
-      "Ковалюк Михаил Анатольевич": 25,
-      "Кочьян Илья Айкасович": 286,
-      "Кузнецов Семен Иванович": 10,
-      "Панченко Сергей Васильевич": 15,
-      "Савченко Владимир Александрович": 3,
-      "Сергеева Людмила Леонидовна": 10,
-      "Ширшов Константин Владимирович": 176,
-      "Шишкарев Сергей Николаевич": 187,
-      "Ярышев Сергей Николаевич": 205,
-      "Против всех": 106
+      "gas:candidate-vibid:1001000136021": 49,
+      "gas:candidate-vibid:323300770831": 2,
+      "gas:candidate-vibid:323300770995": 53,
+      "gas:candidate-vibid:1001000195050": 3,
+      "gas:candidate-vibid:323300770913": 58,
+      "gas:candidate-vibid:323300770485": 25,
+      "gas:candidate-vibid:1001000225916": 286,
+      "gas:candidate-vibid:1001000190304": 10,
+      "gas:candidate-vibid:1001000112196": 15,
+      "gas:candidate-vibid:323300770543": 3,
+      "gas:candidate-vibid:323300770399": 10,
+      "gas:candidate-vibid:1001000121818": 176,
+      "gas:candidate-vibid:1001000187996": 187,
+      "gas:candidate-vibid:323300771002": 205,
+      "special:against-all": 106
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000051&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070414&region=0&sub_region=0&type=429",
@@ -8456,21 +8456,21 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беличенко Александр Сергеевич": 6,
-      "Белоглазов Павел Валерьевич": 1,
-      "Высочин Анатолий Петрович": 8,
-      "Герасимов Дмитрий Михайлович": 4,
-      "Зацепина Нина Андреевна": 12,
-      "Ковалюк Михаил Анатольевич": 5,
-      "Кочьян Илья Айкасович": 147,
-      "Кузнецов Семен Иванович": 0,
-      "Панченко Сергей Васильевич": 8,
-      "Савченко Владимир Александрович": 1,
-      "Сергеева Людмила Леонидовна": 1,
-      "Ширшов Константин Владимирович": 32,
-      "Шишкарев Сергей Николаевич": 67,
-      "Ярышев Сергей Николаевич": 50,
-      "Против всех": 52
+      "gas:candidate-vibid:1001000136021": 6,
+      "gas:candidate-vibid:323300770831": 1,
+      "gas:candidate-vibid:323300770995": 8,
+      "gas:candidate-vibid:1001000195050": 4,
+      "gas:candidate-vibid:323300770913": 12,
+      "gas:candidate-vibid:323300770485": 5,
+      "gas:candidate-vibid:1001000225916": 147,
+      "gas:candidate-vibid:1001000190304": 0,
+      "gas:candidate-vibid:1001000112196": 8,
+      "gas:candidate-vibid:323300770543": 1,
+      "gas:candidate-vibid:323300770399": 1,
+      "gas:candidate-vibid:1001000121818": 32,
+      "gas:candidate-vibid:1001000187996": 67,
+      "gas:candidate-vibid:323300771002": 50,
+      "special:against-all": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000051&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070414&region=0&sub_region=0&type=429",
@@ -8520,21 +8520,21 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беличенко Александр Сергеевич": 12,
-      "Белоглазов Павел Валерьевич": 2,
-      "Высочин Анатолий Петрович": 15,
-      "Герасимов Дмитрий Михайлович": 3,
-      "Зацепина Нина Андреевна": 16,
-      "Ковалюк Михаил Анатольевич": 13,
-      "Кочьян Илья Айкасович": 304,
-      "Кузнецов Семен Иванович": 4,
-      "Панченко Сергей Васильевич": 2,
-      "Савченко Владимир Александрович": 1,
-      "Сергеева Людмила Леонидовна": 3,
-      "Ширшов Константин Владимирович": 81,
-      "Шишкарев Сергей Николаевич": 86,
-      "Ярышев Сергей Николаевич": 87,
-      "Против всех": 55
+      "gas:candidate-vibid:1001000136021": 12,
+      "gas:candidate-vibid:323300770831": 2,
+      "gas:candidate-vibid:323300770995": 15,
+      "gas:candidate-vibid:1001000195050": 3,
+      "gas:candidate-vibid:323300770913": 16,
+      "gas:candidate-vibid:323300770485": 13,
+      "gas:candidate-vibid:1001000225916": 304,
+      "gas:candidate-vibid:1001000190304": 4,
+      "gas:candidate-vibid:1001000112196": 2,
+      "gas:candidate-vibid:323300770543": 1,
+      "gas:candidate-vibid:323300770399": 3,
+      "gas:candidate-vibid:1001000121818": 81,
+      "gas:candidate-vibid:1001000187996": 86,
+      "gas:candidate-vibid:323300771002": 87,
+      "special:against-all": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000051&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070414&region=0&sub_region=0&type=429",
@@ -8584,21 +8584,21 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беличенко Александр Сергеевич": 6,
-      "Белоглазов Павел Валерьевич": 0,
-      "Высочин Анатолий Петрович": 20,
-      "Герасимов Дмитрий Михайлович": 0,
-      "Зацепина Нина Андреевна": 17,
-      "Ковалюк Михаил Анатольевич": 8,
-      "Кочьян Илья Айкасович": 210,
-      "Кузнецов Семен Иванович": 1,
-      "Панченко Сергей Васильевич": 7,
-      "Савченко Владимир Александрович": 0,
-      "Сергеева Людмила Леонидовна": 0,
-      "Ширшов Константин Владимирович": 23,
-      "Шишкарев Сергей Николаевич": 45,
-      "Ярышев Сергей Николаевич": 30,
-      "Против всех": 29
+      "gas:candidate-vibid:1001000136021": 6,
+      "gas:candidate-vibid:323300770831": 0,
+      "gas:candidate-vibid:323300770995": 20,
+      "gas:candidate-vibid:1001000195050": 0,
+      "gas:candidate-vibid:323300770913": 17,
+      "gas:candidate-vibid:323300770485": 8,
+      "gas:candidate-vibid:1001000225916": 210,
+      "gas:candidate-vibid:1001000190304": 1,
+      "gas:candidate-vibid:1001000112196": 7,
+      "gas:candidate-vibid:323300770543": 0,
+      "gas:candidate-vibid:323300770399": 0,
+      "gas:candidate-vibid:1001000121818": 23,
+      "gas:candidate-vibid:1001000187996": 45,
+      "gas:candidate-vibid:323300771002": 30,
+      "special:against-all": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000051&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070414&region=0&sub_region=0&type=429",
@@ -8648,21 +8648,21 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беличенко Александр Сергеевич": 10,
-      "Белоглазов Павел Валерьевич": 0,
-      "Высочин Анатолий Петрович": 49,
-      "Герасимов Дмитрий Михайлович": 2,
-      "Зацепина Нина Андреевна": 38,
-      "Ковалюк Михаил Анатольевич": 46,
-      "Кочьян Илья Айкасович": 186,
-      "Кузнецов Семен Иванович": 0,
-      "Панченко Сергей Васильевич": 22,
-      "Савченко Владимир Александрович": 2,
-      "Сергеева Людмила Леонидовна": 10,
-      "Ширшов Константин Владимирович": 90,
-      "Шишкарев Сергей Николаевич": 151,
-      "Ярышев Сергей Николаевич": 71,
-      "Против всех": 86
+      "gas:candidate-vibid:1001000136021": 10,
+      "gas:candidate-vibid:323300770831": 0,
+      "gas:candidate-vibid:323300770995": 49,
+      "gas:candidate-vibid:1001000195050": 2,
+      "gas:candidate-vibid:323300770913": 38,
+      "gas:candidate-vibid:323300770485": 46,
+      "gas:candidate-vibid:1001000225916": 186,
+      "gas:candidate-vibid:1001000190304": 0,
+      "gas:candidate-vibid:1001000112196": 22,
+      "gas:candidate-vibid:323300770543": 2,
+      "gas:candidate-vibid:323300770399": 10,
+      "gas:candidate-vibid:1001000121818": 90,
+      "gas:candidate-vibid:1001000187996": 151,
+      "gas:candidate-vibid:323300771002": 71,
+      "special:against-all": 86
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000051&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070414&region=0&sub_region=0&type=429",
@@ -8712,21 +8712,21 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беличенко Александр Сергеевич": 38,
-      "Белоглазов Павел Валерьевич": 7,
-      "Высочин Анатолий Петрович": 81,
-      "Герасимов Дмитрий Михайлович": 4,
-      "Зацепина Нина Андреевна": 46,
-      "Ковалюк Михаил Анатольевич": 18,
-      "Кочьян Илья Айкасович": 295,
-      "Кузнецов Семен Иванович": 10,
-      "Панченко Сергей Васильевич": 20,
-      "Савченко Владимир Александрович": 2,
-      "Сергеева Людмила Леонидовна": 12,
-      "Ширшов Константин Владимирович": 104,
-      "Шишкарев Сергей Николаевич": 116,
-      "Ярышев Сергей Николаевич": 130,
-      "Против всех": 162
+      "gas:candidate-vibid:1001000136021": 38,
+      "gas:candidate-vibid:323300770831": 7,
+      "gas:candidate-vibid:323300770995": 81,
+      "gas:candidate-vibid:1001000195050": 4,
+      "gas:candidate-vibid:323300770913": 46,
+      "gas:candidate-vibid:323300770485": 18,
+      "gas:candidate-vibid:1001000225916": 295,
+      "gas:candidate-vibid:1001000190304": 10,
+      "gas:candidate-vibid:1001000112196": 20,
+      "gas:candidate-vibid:323300770543": 2,
+      "gas:candidate-vibid:323300770399": 12,
+      "gas:candidate-vibid:1001000121818": 104,
+      "gas:candidate-vibid:1001000187996": 116,
+      "gas:candidate-vibid:323300771002": 130,
+      "special:against-all": 162
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000051&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070414&region=0&sub_region=0&type=429",
@@ -8776,21 +8776,21 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беличенко Александр Сергеевич": 8,
-      "Белоглазов Павел Валерьевич": 1,
-      "Высочин Анатолий Петрович": 65,
-      "Герасимов Дмитрий Михайлович": 3,
-      "Зацепина Нина Андреевна": 33,
-      "Ковалюк Михаил Анатольевич": 19,
-      "Кочьян Илья Айкасович": 328,
-      "Кузнецов Семен Иванович": 5,
-      "Панченко Сергей Васильевич": 14,
-      "Савченко Владимир Александрович": 6,
-      "Сергеева Людмила Леонидовна": 11,
-      "Ширшов Константин Владимирович": 67,
-      "Шишкарев Сергей Николаевич": 101,
-      "Ярышев Сергей Николаевич": 117,
-      "Против всех": 84
+      "gas:candidate-vibid:1001000136021": 8,
+      "gas:candidate-vibid:323300770831": 1,
+      "gas:candidate-vibid:323300770995": 65,
+      "gas:candidate-vibid:1001000195050": 3,
+      "gas:candidate-vibid:323300770913": 33,
+      "gas:candidate-vibid:323300770485": 19,
+      "gas:candidate-vibid:1001000225916": 328,
+      "gas:candidate-vibid:1001000190304": 5,
+      "gas:candidate-vibid:1001000112196": 14,
+      "gas:candidate-vibid:323300770543": 6,
+      "gas:candidate-vibid:323300770399": 11,
+      "gas:candidate-vibid:1001000121818": 67,
+      "gas:candidate-vibid:1001000187996": 101,
+      "gas:candidate-vibid:323300771002": 117,
+      "special:against-all": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000051&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070414&region=0&sub_region=0&type=429",
@@ -8840,21 +8840,21 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беличенко Александр Сергеевич": 17,
-      "Белоглазов Павел Валерьевич": 5,
-      "Высочин Анатолий Петрович": 49,
-      "Герасимов Дмитрий Михайлович": 1,
-      "Зацепина Нина Андреевна": 57,
-      "Ковалюк Михаил Анатольевич": 29,
-      "Кочьян Илья Айкасович": 276,
-      "Кузнецов Семен Иванович": 7,
-      "Панченко Сергей Васильевич": 20,
-      "Савченко Владимир Александрович": 8,
-      "Сергеева Людмила Леонидовна": 6,
-      "Ширшов Константин Владимирович": 71,
-      "Шишкарев Сергей Николаевич": 124,
-      "Ярышев Сергей Николаевич": 78,
-      "Против всех": 109
+      "gas:candidate-vibid:1001000136021": 17,
+      "gas:candidate-vibid:323300770831": 5,
+      "gas:candidate-vibid:323300770995": 49,
+      "gas:candidate-vibid:1001000195050": 1,
+      "gas:candidate-vibid:323300770913": 57,
+      "gas:candidate-vibid:323300770485": 29,
+      "gas:candidate-vibid:1001000225916": 276,
+      "gas:candidate-vibid:1001000190304": 7,
+      "gas:candidate-vibid:1001000112196": 20,
+      "gas:candidate-vibid:323300770543": 8,
+      "gas:candidate-vibid:323300770399": 6,
+      "gas:candidate-vibid:1001000121818": 71,
+      "gas:candidate-vibid:1001000187996": 124,
+      "gas:candidate-vibid:323300771002": 78,
+      "special:against-all": 109
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000051&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070414&region=0&sub_region=0&type=429",
@@ -8904,21 +8904,21 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беличенко Александр Сергеевич": 2,
-      "Белоглазов Павел Валерьевич": 1,
-      "Высочин Анатолий Петрович": 19,
-      "Герасимов Дмитрий Михайлович": 0,
-      "Зацепина Нина Андреевна": 3,
-      "Ковалюк Михаил Анатольевич": 2,
-      "Кочьян Илья Айкасович": 14,
-      "Кузнецов Семен Иванович": 0,
-      "Панченко Сергей Васильевич": 1,
-      "Савченко Владимир Александрович": 0,
-      "Сергеева Людмила Леонидовна": 1,
-      "Ширшов Константин Владимирович": 16,
-      "Шишкарев Сергей Николаевич": 10,
-      "Ярышев Сергей Николаевич": 52,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000136021": 2,
+      "gas:candidate-vibid:323300770831": 1,
+      "gas:candidate-vibid:323300770995": 19,
+      "gas:candidate-vibid:1001000195050": 0,
+      "gas:candidate-vibid:323300770913": 3,
+      "gas:candidate-vibid:323300770485": 2,
+      "gas:candidate-vibid:1001000225916": 14,
+      "gas:candidate-vibid:1001000190304": 0,
+      "gas:candidate-vibid:1001000112196": 1,
+      "gas:candidate-vibid:323300770543": 0,
+      "gas:candidate-vibid:323300770399": 1,
+      "gas:candidate-vibid:1001000121818": 16,
+      "gas:candidate-vibid:1001000187996": 10,
+      "gas:candidate-vibid:323300771002": 52,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000051&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070414&region=0&sub_region=0&type=429",
@@ -8968,21 +8968,21 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беличенко Александр Сергеевич": 0,
-      "Белоглазов Павел Валерьевич": 2,
-      "Высочин Анатолий Петрович": 0,
-      "Герасимов Дмитрий Михайлович": 1,
-      "Зацепина Нина Андреевна": 4,
-      "Ковалюк Михаил Анатольевич": 0,
-      "Кочьян Илья Айкасович": 39,
-      "Кузнецов Семен Иванович": 0,
-      "Панченко Сергей Васильевич": 0,
-      "Савченко Владимир Александрович": 0,
-      "Сергеева Людмила Леонидовна": 0,
-      "Ширшов Константин Владимирович": 6,
-      "Шишкарев Сергей Николаевич": 3,
-      "Ярышев Сергей Николаевич": 5,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000136021": 0,
+      "gas:candidate-vibid:323300770831": 2,
+      "gas:candidate-vibid:323300770995": 0,
+      "gas:candidate-vibid:1001000195050": 1,
+      "gas:candidate-vibid:323300770913": 4,
+      "gas:candidate-vibid:323300770485": 0,
+      "gas:candidate-vibid:1001000225916": 39,
+      "gas:candidate-vibid:1001000190304": 0,
+      "gas:candidate-vibid:1001000112196": 0,
+      "gas:candidate-vibid:323300770543": 0,
+      "gas:candidate-vibid:323300770399": 0,
+      "gas:candidate-vibid:1001000121818": 6,
+      "gas:candidate-vibid:1001000187996": 3,
+      "gas:candidate-vibid:323300771002": 5,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000051&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070414&region=0&sub_region=0&type=429",
@@ -9032,21 +9032,21 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беличенко Александр Сергеевич": 21,
-      "Белоглазов Павел Валерьевич": 23,
-      "Высочин Анатолий Петрович": 93,
-      "Герасимов Дмитрий Михайлович": 3,
-      "Зацепина Нина Андреевна": 36,
-      "Ковалюк Михаил Анатольевич": 18,
-      "Кочьян Илья Айкасович": 333,
-      "Кузнецов Семен Иванович": 2,
-      "Панченко Сергей Васильевич": 16,
-      "Савченко Владимир Александрович": 1,
-      "Сергеева Людмила Леонидовна": 6,
-      "Ширшов Константин Владимирович": 66,
-      "Шишкарев Сергей Николаевич": 93,
-      "Ярышев Сергей Николаевич": 75,
-      "Против всех": 117
+      "gas:candidate-vibid:1001000136021": 21,
+      "gas:candidate-vibid:323300770831": 23,
+      "gas:candidate-vibid:323300770995": 93,
+      "gas:candidate-vibid:1001000195050": 3,
+      "gas:candidate-vibid:323300770913": 36,
+      "gas:candidate-vibid:323300770485": 18,
+      "gas:candidate-vibid:1001000225916": 333,
+      "gas:candidate-vibid:1001000190304": 2,
+      "gas:candidate-vibid:1001000112196": 16,
+      "gas:candidate-vibid:323300770543": 1,
+      "gas:candidate-vibid:323300770399": 6,
+      "gas:candidate-vibid:1001000121818": 66,
+      "gas:candidate-vibid:1001000187996": 93,
+      "gas:candidate-vibid:323300771002": 75,
+      "special:against-all": 117
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000051&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070414&region=0&sub_region=0&type=429",
@@ -9096,21 +9096,21 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беличенко Александр Сергеевич": 6,
-      "Белоглазов Павел Валерьевич": 6,
-      "Высочин Анатолий Петрович": 36,
-      "Герасимов Дмитрий Михайлович": 0,
-      "Зацепина Нина Андреевна": 25,
-      "Ковалюк Михаил Анатольевич": 9,
-      "Кочьян Илья Айкасович": 60,
-      "Кузнецов Семен Иванович": 2,
-      "Панченко Сергей Васильевич": 2,
-      "Савченко Владимир Александрович": 0,
-      "Сергеева Людмила Леонидовна": 5,
-      "Ширшов Константин Владимирович": 22,
-      "Шишкарев Сергей Николаевич": 44,
-      "Ярышев Сергей Николаевич": 31,
-      "Против всех": 35
+      "gas:candidate-vibid:1001000136021": 6,
+      "gas:candidate-vibid:323300770831": 6,
+      "gas:candidate-vibid:323300770995": 36,
+      "gas:candidate-vibid:1001000195050": 0,
+      "gas:candidate-vibid:323300770913": 25,
+      "gas:candidate-vibid:323300770485": 9,
+      "gas:candidate-vibid:1001000225916": 60,
+      "gas:candidate-vibid:1001000190304": 2,
+      "gas:candidate-vibid:1001000112196": 2,
+      "gas:candidate-vibid:323300770543": 0,
+      "gas:candidate-vibid:323300770399": 5,
+      "gas:candidate-vibid:1001000121818": 22,
+      "gas:candidate-vibid:1001000187996": 44,
+      "gas:candidate-vibid:323300771002": 31,
+      "special:against-all": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000051&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070414&region=0&sub_region=0&type=429",
@@ -9160,21 +9160,21 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беличенко Александр Сергеевич": 15,
-      "Белоглазов Павел Валерьевич": 8,
-      "Высочин Анатолий Петрович": 112,
-      "Герасимов Дмитрий Михайлович": 3,
-      "Зацепина Нина Андреевна": 44,
-      "Ковалюк Михаил Анатольевич": 23,
-      "Кочьян Илья Айкасович": 117,
-      "Кузнецов Семен Иванович": 3,
-      "Панченко Сергей Васильевич": 14,
-      "Савченко Владимир Александрович": 5,
-      "Сергеева Людмила Леонидовна": 9,
-      "Ширшов Константин Владимирович": 54,
-      "Шишкарев Сергей Николаевич": 102,
-      "Ярышев Сергей Николаевич": 98,
-      "Против всех": 168
+      "gas:candidate-vibid:1001000136021": 15,
+      "gas:candidate-vibid:323300770831": 8,
+      "gas:candidate-vibid:323300770995": 112,
+      "gas:candidate-vibid:1001000195050": 3,
+      "gas:candidate-vibid:323300770913": 44,
+      "gas:candidate-vibid:323300770485": 23,
+      "gas:candidate-vibid:1001000225916": 117,
+      "gas:candidate-vibid:1001000190304": 3,
+      "gas:candidate-vibid:1001000112196": 14,
+      "gas:candidate-vibid:323300770543": 5,
+      "gas:candidate-vibid:323300770399": 9,
+      "gas:candidate-vibid:1001000121818": 54,
+      "gas:candidate-vibid:1001000187996": 102,
+      "gas:candidate-vibid:323300771002": 98,
+      "special:against-all": 168
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000051&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070414&region=0&sub_region=0&type=429",
@@ -9224,21 +9224,21 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беличенко Александр Сергеевич": 38,
-      "Белоглазов Павел Валерьевич": 13,
-      "Высочин Анатолий Петрович": 213,
-      "Герасимов Дмитрий Михайлович": 3,
-      "Зацепина Нина Андреевна": 59,
-      "Ковалюк Михаил Анатольевич": 60,
-      "Кочьян Илья Айкасович": 295,
-      "Кузнецов Семен Иванович": 10,
-      "Панченко Сергей Васильевич": 26,
-      "Савченко Владимир Александрович": 3,
-      "Сергеева Людмила Леонидовна": 13,
-      "Ширшов Константин Владимирович": 121,
-      "Шишкарев Сергей Николаевич": 163,
-      "Ярышев Сергей Николаевич": 108,
-      "Против всех": 200
+      "gas:candidate-vibid:1001000136021": 38,
+      "gas:candidate-vibid:323300770831": 13,
+      "gas:candidate-vibid:323300770995": 213,
+      "gas:candidate-vibid:1001000195050": 3,
+      "gas:candidate-vibid:323300770913": 59,
+      "gas:candidate-vibid:323300770485": 60,
+      "gas:candidate-vibid:1001000225916": 295,
+      "gas:candidate-vibid:1001000190304": 10,
+      "gas:candidate-vibid:1001000112196": 26,
+      "gas:candidate-vibid:323300770543": 3,
+      "gas:candidate-vibid:323300770399": 13,
+      "gas:candidate-vibid:1001000121818": 121,
+      "gas:candidate-vibid:1001000187996": 163,
+      "gas:candidate-vibid:323300771002": 108,
+      "special:against-all": 200
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000051&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070414&region=0&sub_region=0&type=429",
@@ -9288,21 +9288,21 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беличенко Александр Сергеевич": 27,
-      "Белоглазов Павел Валерьевич": 4,
-      "Высочин Анатолий Петрович": 88,
-      "Герасимов Дмитрий Михайлович": 8,
-      "Зацепина Нина Андреевна": 79,
-      "Ковалюк Михаил Анатольевич": 13,
-      "Кочьян Илья Айкасович": 120,
-      "Кузнецов Семен Иванович": 2,
-      "Панченко Сергей Васильевич": 15,
-      "Савченко Владимир Александрович": 2,
-      "Сергеева Людмила Леонидовна": 4,
-      "Ширшов Константин Владимирович": 71,
-      "Шишкарев Сергей Николаевич": 132,
-      "Ярышев Сергей Николаевич": 104,
-      "Против всех": 84
+      "gas:candidate-vibid:1001000136021": 27,
+      "gas:candidate-vibid:323300770831": 4,
+      "gas:candidate-vibid:323300770995": 88,
+      "gas:candidate-vibid:1001000195050": 8,
+      "gas:candidate-vibid:323300770913": 79,
+      "gas:candidate-vibid:323300770485": 13,
+      "gas:candidate-vibid:1001000225916": 120,
+      "gas:candidate-vibid:1001000190304": 2,
+      "gas:candidate-vibid:1001000112196": 15,
+      "gas:candidate-vibid:323300770543": 2,
+      "gas:candidate-vibid:323300770399": 4,
+      "gas:candidate-vibid:1001000121818": 71,
+      "gas:candidate-vibid:1001000187996": 132,
+      "gas:candidate-vibid:323300771002": 104,
+      "special:against-all": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000051&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070414&region=0&sub_region=0&type=429",
@@ -9352,21 +9352,21 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беличенко Александр Сергеевич": 5,
-      "Белоглазов Павел Валерьевич": 3,
-      "Высочин Анатолий Петрович": 74,
-      "Герасимов Дмитрий Михайлович": 2,
-      "Зацепина Нина Андреевна": 11,
-      "Ковалюк Михаил Анатольевич": 1,
-      "Кочьян Илья Айкасович": 81,
-      "Кузнецов Семен Иванович": 2,
-      "Панченко Сергей Васильевич": 4,
-      "Савченко Владимир Александрович": 2,
-      "Сергеева Людмила Леонидовна": 4,
-      "Ширшов Константин Владимирович": 88,
-      "Шишкарев Сергей Николаевич": 49,
-      "Ярышев Сергей Николаевич": 61,
-      "Против всех": 47
+      "gas:candidate-vibid:1001000136021": 5,
+      "gas:candidate-vibid:323300770831": 3,
+      "gas:candidate-vibid:323300770995": 74,
+      "gas:candidate-vibid:1001000195050": 2,
+      "gas:candidate-vibid:323300770913": 11,
+      "gas:candidate-vibid:323300770485": 1,
+      "gas:candidate-vibid:1001000225916": 81,
+      "gas:candidate-vibid:1001000190304": 2,
+      "gas:candidate-vibid:1001000112196": 4,
+      "gas:candidate-vibid:323300770543": 2,
+      "gas:candidate-vibid:323300770399": 4,
+      "gas:candidate-vibid:1001000121818": 88,
+      "gas:candidate-vibid:1001000187996": 49,
+      "gas:candidate-vibid:323300771002": 61,
+      "special:against-all": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000051&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070414&region=0&sub_region=0&type=429",
@@ -9416,21 +9416,21 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беличенко Александр Сергеевич": 20,
-      "Белоглазов Павел Валерьевич": 3,
-      "Высочин Анатолий Петрович": 114,
-      "Герасимов Дмитрий Михайлович": 2,
-      "Зацепина Нина Андреевна": 40,
-      "Ковалюк Михаил Анатольевич": 41,
-      "Кочьян Илья Айкасович": 252,
-      "Кузнецов Семен Иванович": 6,
-      "Панченко Сергей Васильевич": 14,
-      "Савченко Владимир Александрович": 2,
-      "Сергеева Людмила Леонидовна": 10,
-      "Ширшов Константин Владимирович": 92,
-      "Шишкарев Сергей Николаевич": 119,
-      "Ярышев Сергей Николаевич": 227,
-      "Против всех": 117
+      "gas:candidate-vibid:1001000136021": 20,
+      "gas:candidate-vibid:323300770831": 3,
+      "gas:candidate-vibid:323300770995": 114,
+      "gas:candidate-vibid:1001000195050": 2,
+      "gas:candidate-vibid:323300770913": 40,
+      "gas:candidate-vibid:323300770485": 41,
+      "gas:candidate-vibid:1001000225916": 252,
+      "gas:candidate-vibid:1001000190304": 6,
+      "gas:candidate-vibid:1001000112196": 14,
+      "gas:candidate-vibid:323300770543": 2,
+      "gas:candidate-vibid:323300770399": 10,
+      "gas:candidate-vibid:1001000121818": 92,
+      "gas:candidate-vibid:1001000187996": 119,
+      "gas:candidate-vibid:323300771002": 227,
+      "special:against-all": 117
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000051&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070414&region=0&sub_region=0&type=429",
@@ -9480,21 +9480,21 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беличенко Александр Сергеевич": 3,
-      "Белоглазов Павел Валерьевич": 0,
-      "Высочин Анатолий Петрович": 6,
-      "Герасимов Дмитрий Михайлович": 0,
-      "Зацепина Нина Андреевна": 0,
-      "Ковалюк Михаил Анатольевич": 7,
-      "Кочьян Илья Айкасович": 16,
-      "Кузнецов Семен Иванович": 0,
-      "Панченко Сергей Васильевич": 0,
-      "Савченко Владимир Александрович": 0,
-      "Сергеева Людмила Леонидовна": 0,
-      "Ширшов Константин Владимирович": 5,
-      "Шишкарев Сергей Николаевич": 14,
-      "Ярышев Сергей Николаевич": 10,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000136021": 3,
+      "gas:candidate-vibid:323300770831": 0,
+      "gas:candidate-vibid:323300770995": 6,
+      "gas:candidate-vibid:1001000195050": 0,
+      "gas:candidate-vibid:323300770913": 0,
+      "gas:candidate-vibid:323300770485": 7,
+      "gas:candidate-vibid:1001000225916": 16,
+      "gas:candidate-vibid:1001000190304": 0,
+      "gas:candidate-vibid:1001000112196": 0,
+      "gas:candidate-vibid:323300770543": 0,
+      "gas:candidate-vibid:323300770399": 0,
+      "gas:candidate-vibid:1001000121818": 5,
+      "gas:candidate-vibid:1001000187996": 14,
+      "gas:candidate-vibid:323300771002": 10,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000051&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070414&region=0&sub_region=0&type=429",
@@ -9544,21 +9544,21 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беличенко Александр Сергеевич": 9,
-      "Белоглазов Павел Валерьевич": 0,
-      "Высочин Анатолий Петрович": 15,
-      "Герасимов Дмитрий Михайлович": 0,
-      "Зацепина Нина Андреевна": 15,
-      "Ковалюк Михаил Анатольевич": 10,
-      "Кочьян Илья Айкасович": 112,
-      "Кузнецов Семен Иванович": 0,
-      "Панченко Сергей Васильевич": 3,
-      "Савченко Владимир Александрович": 1,
-      "Сергеева Людмила Леонидовна": 1,
-      "Ширшов Константин Владимирович": 9,
-      "Шишкарев Сергей Николаевич": 15,
-      "Ярышев Сергей Николаевич": 54,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000136021": 9,
+      "gas:candidate-vibid:323300770831": 0,
+      "gas:candidate-vibid:323300770995": 15,
+      "gas:candidate-vibid:1001000195050": 0,
+      "gas:candidate-vibid:323300770913": 15,
+      "gas:candidate-vibid:323300770485": 10,
+      "gas:candidate-vibid:1001000225916": 112,
+      "gas:candidate-vibid:1001000190304": 0,
+      "gas:candidate-vibid:1001000112196": 3,
+      "gas:candidate-vibid:323300770543": 1,
+      "gas:candidate-vibid:323300770399": 1,
+      "gas:candidate-vibid:1001000121818": 9,
+      "gas:candidate-vibid:1001000187996": 15,
+      "gas:candidate-vibid:323300771002": 54,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000051&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070414&region=0&sub_region=0&type=429",
@@ -9608,21 +9608,21 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беличенко Александр Сергеевич": 6,
-      "Белоглазов Павел Валерьевич": 50,
-      "Высочин Анатолий Петрович": 14,
-      "Герасимов Дмитрий Михайлович": 0,
-      "Зацепина Нина Андреевна": 17,
-      "Ковалюк Михаил Анатольевич": 12,
-      "Кочьян Илья Айкасович": 15,
-      "Кузнецов Семен Иванович": 4,
-      "Панченко Сергей Васильевич": 1,
-      "Савченко Владимир Александрович": 0,
-      "Сергеева Людмила Леонидовна": 0,
-      "Ширшов Константин Владимирович": 8,
-      "Шишкарев Сергей Николаевич": 54,
-      "Ярышев Сергей Николаевич": 5,
-      "Против всех": 24
+      "gas:candidate-vibid:1001000136021": 6,
+      "gas:candidate-vibid:323300770831": 50,
+      "gas:candidate-vibid:323300770995": 14,
+      "gas:candidate-vibid:1001000195050": 0,
+      "gas:candidate-vibid:323300770913": 17,
+      "gas:candidate-vibid:323300770485": 12,
+      "gas:candidate-vibid:1001000225916": 15,
+      "gas:candidate-vibid:1001000190304": 4,
+      "gas:candidate-vibid:1001000112196": 1,
+      "gas:candidate-vibid:323300770543": 0,
+      "gas:candidate-vibid:323300770399": 0,
+      "gas:candidate-vibid:1001000121818": 8,
+      "gas:candidate-vibid:1001000187996": 54,
+      "gas:candidate-vibid:323300771002": 5,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000051&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070414&region=0&sub_region=0&type=429",
@@ -9672,21 +9672,21 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беличенко Александр Сергеевич": 8,
-      "Белоглазов Павел Валерьевич": 2,
-      "Высочин Анатолий Петрович": 63,
-      "Герасимов Дмитрий Михайлович": 0,
-      "Зацепина Нина Андреевна": 26,
-      "Ковалюк Михаил Анатольевич": 12,
-      "Кочьян Илья Айкасович": 26,
-      "Кузнецов Семен Иванович": 1,
-      "Панченко Сергей Васильевич": 1,
-      "Савченко Владимир Александрович": 0,
-      "Сергеева Людмила Леонидовна": 2,
-      "Ширшов Константин Владимирович": 18,
-      "Шишкарев Сергей Николаевич": 22,
-      "Ярышев Сергей Николаевич": 21,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000136021": 8,
+      "gas:candidate-vibid:323300770831": 2,
+      "gas:candidate-vibid:323300770995": 63,
+      "gas:candidate-vibid:1001000195050": 0,
+      "gas:candidate-vibid:323300770913": 26,
+      "gas:candidate-vibid:323300770485": 12,
+      "gas:candidate-vibid:1001000225916": 26,
+      "gas:candidate-vibid:1001000190304": 1,
+      "gas:candidate-vibid:1001000112196": 1,
+      "gas:candidate-vibid:323300770543": 0,
+      "gas:candidate-vibid:323300770399": 2,
+      "gas:candidate-vibid:1001000121818": 18,
+      "gas:candidate-vibid:1001000187996": 22,
+      "gas:candidate-vibid:323300771002": 21,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000051&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070414&region=0&sub_region=0&type=429",
@@ -9736,21 +9736,21 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беличенко Александр Сергеевич": 3,
-      "Белоглазов Павел Валерьевич": 2,
-      "Высочин Анатолий Петрович": 13,
-      "Герасимов Дмитрий Михайлович": 0,
-      "Зацепина Нина Андреевна": 4,
-      "Ковалюк Михаил Анатольевич": 2,
-      "Кочьян Илья Айкасович": 17,
-      "Кузнецов Семен Иванович": 0,
-      "Панченко Сергей Васильевич": 0,
-      "Савченко Владимир Александрович": 0,
-      "Сергеева Людмила Леонидовна": 1,
-      "Ширшов Константин Владимирович": 3,
-      "Шишкарев Сергей Николаевич": 13,
-      "Ярышев Сергей Николаевич": 3,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000136021": 3,
+      "gas:candidate-vibid:323300770831": 2,
+      "gas:candidate-vibid:323300770995": 13,
+      "gas:candidate-vibid:1001000195050": 0,
+      "gas:candidate-vibid:323300770913": 4,
+      "gas:candidate-vibid:323300770485": 2,
+      "gas:candidate-vibid:1001000225916": 17,
+      "gas:candidate-vibid:1001000190304": 0,
+      "gas:candidate-vibid:1001000112196": 0,
+      "gas:candidate-vibid:323300770543": 0,
+      "gas:candidate-vibid:323300770399": 1,
+      "gas:candidate-vibid:1001000121818": 3,
+      "gas:candidate-vibid:1001000187996": 13,
+      "gas:candidate-vibid:323300771002": 3,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000051&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070414&region=0&sub_region=0&type=429",
@@ -9800,21 +9800,21 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беличенко Александр Сергеевич": 5,
-      "Белоглазов Павел Валерьевич": 9,
-      "Высочин Анатолий Петрович": 47,
-      "Герасимов Дмитрий Михайлович": 0,
-      "Зацепина Нина Андреевна": 4,
-      "Ковалюк Михаил Анатольевич": 11,
-      "Кочьян Илья Айкасович": 245,
-      "Кузнецов Семен Иванович": 1,
-      "Панченко Сергей Васильевич": 4,
-      "Савченко Владимир Александрович": 3,
-      "Сергеева Людмила Леонидовна": 1,
-      "Ширшов Константин Владимирович": 23,
-      "Шишкарев Сергей Николаевич": 41,
-      "Ярышев Сергей Николаевич": 17,
-      "Против всех": 41
+      "gas:candidate-vibid:1001000136021": 5,
+      "gas:candidate-vibid:323300770831": 9,
+      "gas:candidate-vibid:323300770995": 47,
+      "gas:candidate-vibid:1001000195050": 0,
+      "gas:candidate-vibid:323300770913": 4,
+      "gas:candidate-vibid:323300770485": 11,
+      "gas:candidate-vibid:1001000225916": 245,
+      "gas:candidate-vibid:1001000190304": 1,
+      "gas:candidate-vibid:1001000112196": 4,
+      "gas:candidate-vibid:323300770543": 3,
+      "gas:candidate-vibid:323300770399": 1,
+      "gas:candidate-vibid:1001000121818": 23,
+      "gas:candidate-vibid:1001000187996": 41,
+      "gas:candidate-vibid:323300771002": 17,
+      "special:against-all": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000051&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070414&region=0&sub_region=0&type=429",
@@ -9864,21 +9864,21 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беличенко Александр Сергеевич": 4,
-      "Белоглазов Павел Валерьевич": 1,
-      "Высочин Анатолий Петрович": 33,
-      "Герасимов Дмитрий Михайлович": 0,
-      "Зацепина Нина Андреевна": 32,
-      "Ковалюк Михаил Анатольевич": 14,
-      "Кочьян Илья Айкасович": 131,
-      "Кузнецов Семен Иванович": 0,
-      "Панченко Сергей Васильевич": 0,
-      "Савченко Владимир Александрович": 0,
-      "Сергеева Людмила Леонидовна": 3,
-      "Ширшов Константин Владимирович": 21,
-      "Шишкарев Сергей Николаевич": 21,
-      "Ярышев Сергей Николаевич": 24,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000136021": 4,
+      "gas:candidate-vibid:323300770831": 1,
+      "gas:candidate-vibid:323300770995": 33,
+      "gas:candidate-vibid:1001000195050": 0,
+      "gas:candidate-vibid:323300770913": 32,
+      "gas:candidate-vibid:323300770485": 14,
+      "gas:candidate-vibid:1001000225916": 131,
+      "gas:candidate-vibid:1001000190304": 0,
+      "gas:candidate-vibid:1001000112196": 0,
+      "gas:candidate-vibid:323300770543": 0,
+      "gas:candidate-vibid:323300770399": 3,
+      "gas:candidate-vibid:1001000121818": 21,
+      "gas:candidate-vibid:1001000187996": 21,
+      "gas:candidate-vibid:323300771002": 24,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000051&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070414&region=0&sub_region=0&type=429",
@@ -9928,21 +9928,21 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беличенко Александр Сергеевич": 4,
-      "Белоглазов Павел Валерьевич": 0,
-      "Высочин Анатолий Петрович": 47,
-      "Герасимов Дмитрий Михайлович": 0,
-      "Зацепина Нина Андреевна": 40,
-      "Ковалюк Михаил Анатольевич": 15,
-      "Кочьян Илья Айкасович": 218,
-      "Кузнецов Семен Иванович": 1,
-      "Панченко Сергей Васильевич": 6,
-      "Савченко Владимир Александрович": 2,
-      "Сергеева Людмила Леонидовна": 6,
-      "Ширшов Константин Владимирович": 27,
-      "Шишкарев Сергей Николаевич": 164,
-      "Ярышев Сергей Николаевич": 54,
-      "Против всех": 56
+      "gas:candidate-vibid:1001000136021": 4,
+      "gas:candidate-vibid:323300770831": 0,
+      "gas:candidate-vibid:323300770995": 47,
+      "gas:candidate-vibid:1001000195050": 0,
+      "gas:candidate-vibid:323300770913": 40,
+      "gas:candidate-vibid:323300770485": 15,
+      "gas:candidate-vibid:1001000225916": 218,
+      "gas:candidate-vibid:1001000190304": 1,
+      "gas:candidate-vibid:1001000112196": 6,
+      "gas:candidate-vibid:323300770543": 2,
+      "gas:candidate-vibid:323300770399": 6,
+      "gas:candidate-vibid:1001000121818": 27,
+      "gas:candidate-vibid:1001000187996": 164,
+      "gas:candidate-vibid:323300771002": 54,
+      "special:against-all": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000051&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070414&region=0&sub_region=0&type=429",
@@ -9992,21 +9992,21 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беличенко Александр Сергеевич": 5,
-      "Белоглазов Павел Валерьевич": 5,
-      "Высочин Анатолий Петрович": 39,
-      "Герасимов Дмитрий Михайлович": 1,
-      "Зацепина Нина Андреевна": 22,
-      "Ковалюк Михаил Анатольевич": 6,
-      "Кочьян Илья Айкасович": 44,
-      "Кузнецов Семен Иванович": 2,
-      "Панченко Сергей Васильевич": 0,
-      "Савченко Владимир Александрович": 2,
-      "Сергеева Людмила Леонидовна": 2,
-      "Ширшов Константин Владимирович": 22,
-      "Шишкарев Сергей Николаевич": 70,
-      "Ярышев Сергей Николаевич": 70,
-      "Против всех": 52
+      "gas:candidate-vibid:1001000136021": 5,
+      "gas:candidate-vibid:323300770831": 5,
+      "gas:candidate-vibid:323300770995": 39,
+      "gas:candidate-vibid:1001000195050": 1,
+      "gas:candidate-vibid:323300770913": 22,
+      "gas:candidate-vibid:323300770485": 6,
+      "gas:candidate-vibid:1001000225916": 44,
+      "gas:candidate-vibid:1001000190304": 2,
+      "gas:candidate-vibid:1001000112196": 0,
+      "gas:candidate-vibid:323300770543": 2,
+      "gas:candidate-vibid:323300770399": 2,
+      "gas:candidate-vibid:1001000121818": 22,
+      "gas:candidate-vibid:1001000187996": 70,
+      "gas:candidate-vibid:323300771002": 70,
+      "special:against-all": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000051&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070414&region=0&sub_region=0&type=429",
@@ -10056,21 +10056,21 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беличенко Александр Сергеевич": 11,
-      "Белоглазов Павел Валерьевич": 17,
-      "Высочин Анатолий Петрович": 41,
-      "Герасимов Дмитрий Михайлович": 0,
-      "Зацепина Нина Андреевна": 23,
-      "Ковалюк Михаил Анатольевич": 6,
-      "Кочьян Илья Айкасович": 61,
-      "Кузнецов Семен Иванович": 2,
-      "Панченко Сергей Васильевич": 3,
-      "Савченко Владимир Александрович": 0,
-      "Сергеева Людмила Леонидовна": 5,
-      "Ширшов Константин Владимирович": 64,
-      "Шишкарев Сергей Николаевич": 53,
-      "Ярышев Сергей Николаевич": 60,
-      "Против всех": 32
+      "gas:candidate-vibid:1001000136021": 11,
+      "gas:candidate-vibid:323300770831": 17,
+      "gas:candidate-vibid:323300770995": 41,
+      "gas:candidate-vibid:1001000195050": 0,
+      "gas:candidate-vibid:323300770913": 23,
+      "gas:candidate-vibid:323300770485": 6,
+      "gas:candidate-vibid:1001000225916": 61,
+      "gas:candidate-vibid:1001000190304": 2,
+      "gas:candidate-vibid:1001000112196": 3,
+      "gas:candidate-vibid:323300770543": 0,
+      "gas:candidate-vibid:323300770399": 5,
+      "gas:candidate-vibid:1001000121818": 64,
+      "gas:candidate-vibid:1001000187996": 53,
+      "gas:candidate-vibid:323300771002": 60,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000051&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070414&region=0&sub_region=0&type=429",
@@ -10120,21 +10120,21 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беличенко Александр Сергеевич": 8,
-      "Белоглазов Павел Валерьевич": 3,
-      "Высочин Анатолий Петрович": 48,
-      "Герасимов Дмитрий Михайлович": 1,
-      "Зацепина Нина Андреевна": 54,
-      "Ковалюк Михаил Анатольевич": 22,
-      "Кочьян Илья Айкасович": 145,
-      "Кузнецов Семен Иванович": 2,
-      "Панченко Сергей Васильевич": 2,
-      "Савченко Владимир Александрович": 2,
-      "Сергеева Людмила Леонидовна": 3,
-      "Ширшов Константин Владимирович": 38,
-      "Шишкарев Сергей Николаевич": 36,
-      "Ярышев Сергей Николаевич": 51,
-      "Против всех": 53
+      "gas:candidate-vibid:1001000136021": 8,
+      "gas:candidate-vibid:323300770831": 3,
+      "gas:candidate-vibid:323300770995": 48,
+      "gas:candidate-vibid:1001000195050": 1,
+      "gas:candidate-vibid:323300770913": 54,
+      "gas:candidate-vibid:323300770485": 22,
+      "gas:candidate-vibid:1001000225916": 145,
+      "gas:candidate-vibid:1001000190304": 2,
+      "gas:candidate-vibid:1001000112196": 2,
+      "gas:candidate-vibid:323300770543": 2,
+      "gas:candidate-vibid:323300770399": 3,
+      "gas:candidate-vibid:1001000121818": 38,
+      "gas:candidate-vibid:1001000187996": 36,
+      "gas:candidate-vibid:323300771002": 51,
+      "special:against-all": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000051&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070414&region=0&sub_region=0&type=429",
@@ -10184,21 +10184,21 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беличенко Александр Сергеевич": 5,
-      "Белоглазов Павел Валерьевич": 1,
-      "Высочин Анатолий Петрович": 7,
-      "Герасимов Дмитрий Михайлович": 0,
-      "Зацепина Нина Андреевна": 25,
-      "Ковалюк Михаил Анатольевич": 1,
-      "Кочьян Илья Айкасович": 28,
-      "Кузнецов Семен Иванович": 0,
-      "Панченко Сергей Васильевич": 1,
-      "Савченко Владимир Александрович": 0,
-      "Сергеева Людмила Леонидовна": 1,
-      "Ширшов Константин Владимирович": 11,
-      "Шишкарев Сергей Николаевич": 25,
-      "Ярышев Сергей Николаевич": 10,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000136021": 5,
+      "gas:candidate-vibid:323300770831": 1,
+      "gas:candidate-vibid:323300770995": 7,
+      "gas:candidate-vibid:1001000195050": 0,
+      "gas:candidate-vibid:323300770913": 25,
+      "gas:candidate-vibid:323300770485": 1,
+      "gas:candidate-vibid:1001000225916": 28,
+      "gas:candidate-vibid:1001000190304": 0,
+      "gas:candidate-vibid:1001000112196": 1,
+      "gas:candidate-vibid:323300770543": 0,
+      "gas:candidate-vibid:323300770399": 1,
+      "gas:candidate-vibid:1001000121818": 11,
+      "gas:candidate-vibid:1001000187996": 25,
+      "gas:candidate-vibid:323300771002": 10,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000051&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070414&region=0&sub_region=0&type=429",
@@ -10248,21 +10248,21 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беличенко Александр Сергеевич": 0,
-      "Белоглазов Павел Валерьевич": 1,
-      "Высочин Анатолий Петрович": 3,
-      "Герасимов Дмитрий Михайлович": 1,
-      "Зацепина Нина Андреевна": 5,
-      "Ковалюк Михаил Анатольевич": 0,
-      "Кочьян Илья Айкасович": 39,
-      "Кузнецов Семен Иванович": 1,
-      "Панченко Сергей Васильевич": 0,
-      "Савченко Владимир Александрович": 2,
-      "Сергеева Людмила Леонидовна": 0,
-      "Ширшов Константин Владимирович": 6,
-      "Шишкарев Сергей Николаевич": 10,
-      "Ярышев Сергей Николаевич": 24,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000136021": 0,
+      "gas:candidate-vibid:323300770831": 1,
+      "gas:candidate-vibid:323300770995": 3,
+      "gas:candidate-vibid:1001000195050": 1,
+      "gas:candidate-vibid:323300770913": 5,
+      "gas:candidate-vibid:323300770485": 0,
+      "gas:candidate-vibid:1001000225916": 39,
+      "gas:candidate-vibid:1001000190304": 1,
+      "gas:candidate-vibid:1001000112196": 0,
+      "gas:candidate-vibid:323300770543": 2,
+      "gas:candidate-vibid:323300770399": 0,
+      "gas:candidate-vibid:1001000121818": 6,
+      "gas:candidate-vibid:1001000187996": 10,
+      "gas:candidate-vibid:323300771002": 24,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000051&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070414&region=0&sub_region=0&type=429",
@@ -10312,21 +10312,21 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беличенко Александр Сергеевич": 0,
-      "Белоглазов Павел Валерьевич": 0,
-      "Высочин Анатолий Петрович": 2,
-      "Герасимов Дмитрий Михайлович": 1,
-      "Зацепина Нина Андреевна": 2,
-      "Ковалюк Михаил Анатольевич": 0,
-      "Кочьян Илья Айкасович": 36,
-      "Кузнецов Семен Иванович": 0,
-      "Панченко Сергей Васильевич": 0,
-      "Савченко Владимир Александрович": 0,
-      "Сергеева Людмила Леонидовна": 0,
-      "Ширшов Константин Владимирович": 14,
-      "Шишкарев Сергей Николаевич": 4,
-      "Ярышев Сергей Николаевич": 3,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000136021": 0,
+      "gas:candidate-vibid:323300770831": 0,
+      "gas:candidate-vibid:323300770995": 2,
+      "gas:candidate-vibid:1001000195050": 1,
+      "gas:candidate-vibid:323300770913": 2,
+      "gas:candidate-vibid:323300770485": 0,
+      "gas:candidate-vibid:1001000225916": 36,
+      "gas:candidate-vibid:1001000190304": 0,
+      "gas:candidate-vibid:1001000112196": 0,
+      "gas:candidate-vibid:323300770543": 0,
+      "gas:candidate-vibid:323300770399": 0,
+      "gas:candidate-vibid:1001000121818": 14,
+      "gas:candidate-vibid:1001000187996": 4,
+      "gas:candidate-vibid:323300771002": 3,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000051&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070414&region=0&sub_region=0&type=429",
@@ -10376,21 +10376,21 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беличенко Александр Сергеевич": 5,
-      "Белоглазов Павел Валерьевич": 15,
-      "Высочин Анатолий Петрович": 90,
-      "Герасимов Дмитрий Михайлович": 2,
-      "Зацепина Нина Андреевна": 83,
-      "Ковалюк Михаил Анатольевич": 44,
-      "Кочьян Илья Айкасович": 162,
-      "Кузнецов Семен Иванович": 1,
-      "Панченко Сергей Васильевич": 4,
-      "Савченко Владимир Александрович": 2,
-      "Сергеева Людмила Леонидовна": 8,
-      "Ширшов Константин Владимирович": 142,
-      "Шишкарев Сергей Николаевич": 93,
-      "Ярышев Сергей Николаевич": 61,
-      "Против всех": 115
+      "gas:candidate-vibid:1001000136021": 5,
+      "gas:candidate-vibid:323300770831": 15,
+      "gas:candidate-vibid:323300770995": 90,
+      "gas:candidate-vibid:1001000195050": 2,
+      "gas:candidate-vibid:323300770913": 83,
+      "gas:candidate-vibid:323300770485": 44,
+      "gas:candidate-vibid:1001000225916": 162,
+      "gas:candidate-vibid:1001000190304": 1,
+      "gas:candidate-vibid:1001000112196": 4,
+      "gas:candidate-vibid:323300770543": 2,
+      "gas:candidate-vibid:323300770399": 8,
+      "gas:candidate-vibid:1001000121818": 142,
+      "gas:candidate-vibid:1001000187996": 93,
+      "gas:candidate-vibid:323300771002": 61,
+      "special:against-all": 115
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000051&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070414&region=0&sub_region=0&type=429",
@@ -10440,21 +10440,21 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беличенко Александр Сергеевич": 5,
-      "Белоглазов Павел Валерьевич": 2,
-      "Высочин Анатолий Петрович": 8,
-      "Герасимов Дмитрий Михайлович": 1,
-      "Зацепина Нина Андреевна": 13,
-      "Ковалюк Михаил Анатольевич": 13,
-      "Кочьян Илья Айкасович": 34,
-      "Кузнецов Семен Иванович": 2,
-      "Панченко Сергей Васильевич": 1,
-      "Савченко Владимир Александрович": 2,
-      "Сергеева Людмила Леонидовна": 3,
-      "Ширшов Константин Владимирович": 28,
-      "Шишкарев Сергей Николаевич": 17,
-      "Ярышев Сергей Николаевич": 126,
-      "Против всех": 28
+      "gas:candidate-vibid:1001000136021": 5,
+      "gas:candidate-vibid:323300770831": 2,
+      "gas:candidate-vibid:323300770995": 8,
+      "gas:candidate-vibid:1001000195050": 1,
+      "gas:candidate-vibid:323300770913": 13,
+      "gas:candidate-vibid:323300770485": 13,
+      "gas:candidate-vibid:1001000225916": 34,
+      "gas:candidate-vibid:1001000190304": 2,
+      "gas:candidate-vibid:1001000112196": 1,
+      "gas:candidate-vibid:323300770543": 2,
+      "gas:candidate-vibid:323300770399": 3,
+      "gas:candidate-vibid:1001000121818": 28,
+      "gas:candidate-vibid:1001000187996": 17,
+      "gas:candidate-vibid:323300771002": 126,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000051&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070414&region=0&sub_region=0&type=429",
@@ -10504,21 +10504,21 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беличенко Александр Сергеевич": 9,
-      "Белоглазов Павел Валерьевич": 2,
-      "Высочин Анатолий Петрович": 11,
-      "Герасимов Дмитрий Михайлович": 1,
-      "Зацепина Нина Андреевна": 22,
-      "Ковалюк Михаил Анатольевич": 24,
-      "Кочьян Илья Айкасович": 158,
-      "Кузнецов Семен Иванович": 1,
-      "Панченко Сергей Васильевич": 3,
-      "Савченко Владимир Александрович": 2,
-      "Сергеева Людмила Леонидовна": 3,
-      "Ширшов Константин Владимирович": 33,
-      "Шишкарев Сергей Николаевич": 34,
-      "Ярышев Сергей Николаевич": 38,
-      "Против всех": 48
+      "gas:candidate-vibid:1001000136021": 9,
+      "gas:candidate-vibid:323300770831": 2,
+      "gas:candidate-vibid:323300770995": 11,
+      "gas:candidate-vibid:1001000195050": 1,
+      "gas:candidate-vibid:323300770913": 22,
+      "gas:candidate-vibid:323300770485": 24,
+      "gas:candidate-vibid:1001000225916": 158,
+      "gas:candidate-vibid:1001000190304": 1,
+      "gas:candidate-vibid:1001000112196": 3,
+      "gas:candidate-vibid:323300770543": 2,
+      "gas:candidate-vibid:323300770399": 3,
+      "gas:candidate-vibid:1001000121818": 33,
+      "gas:candidate-vibid:1001000187996": 34,
+      "gas:candidate-vibid:323300771002": 38,
+      "special:against-all": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000051&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070414&region=0&sub_region=0&type=429",
@@ -10568,21 +10568,21 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беличенко Александр Сергеевич": 2,
-      "Белоглазов Павел Валерьевич": 1,
-      "Высочин Анатолий Петрович": 6,
-      "Герасимов Дмитрий Михайлович": 1,
-      "Зацепина Нина Андреевна": 10,
-      "Ковалюк Михаил Анатольевич": 12,
-      "Кочьян Илья Айкасович": 70,
-      "Кузнецов Семен Иванович": 0,
-      "Панченко Сергей Васильевич": 0,
-      "Савченко Владимир Александрович": 0,
-      "Сергеева Людмила Леонидовна": 1,
-      "Ширшов Константин Владимирович": 11,
-      "Шишкарев Сергей Николаевич": 4,
-      "Ярышев Сергей Николаевич": 43,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000136021": 2,
+      "gas:candidate-vibid:323300770831": 1,
+      "gas:candidate-vibid:323300770995": 6,
+      "gas:candidate-vibid:1001000195050": 1,
+      "gas:candidate-vibid:323300770913": 10,
+      "gas:candidate-vibid:323300770485": 12,
+      "gas:candidate-vibid:1001000225916": 70,
+      "gas:candidate-vibid:1001000190304": 0,
+      "gas:candidate-vibid:1001000112196": 0,
+      "gas:candidate-vibid:323300770543": 0,
+      "gas:candidate-vibid:323300770399": 1,
+      "gas:candidate-vibid:1001000121818": 11,
+      "gas:candidate-vibid:1001000187996": 4,
+      "gas:candidate-vibid:323300771002": 43,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000051&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070414&region=0&sub_region=0&type=429",
@@ -10632,21 +10632,21 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беличенко Александр Сергеевич": 8,
-      "Белоглазов Павел Валерьевич": 3,
-      "Высочин Анатолий Петрович": 17,
-      "Герасимов Дмитрий Михайлович": 2,
-      "Зацепина Нина Андреевна": 14,
-      "Ковалюк Михаил Анатольевич": 28,
-      "Кочьян Илья Айкасович": 355,
-      "Кузнецов Семен Иванович": 0,
-      "Панченко Сергей Васильевич": 2,
-      "Савченко Владимир Александрович": 1,
-      "Сергеева Людмила Леонидовна": 1,
-      "Ширшов Константин Владимирович": 26,
-      "Шишкарев Сергей Николаевич": 20,
-      "Ярышев Сергей Николаевич": 36,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000136021": 8,
+      "gas:candidate-vibid:323300770831": 3,
+      "gas:candidate-vibid:323300770995": 17,
+      "gas:candidate-vibid:1001000195050": 2,
+      "gas:candidate-vibid:323300770913": 14,
+      "gas:candidate-vibid:323300770485": 28,
+      "gas:candidate-vibid:1001000225916": 355,
+      "gas:candidate-vibid:1001000190304": 0,
+      "gas:candidate-vibid:1001000112196": 2,
+      "gas:candidate-vibid:323300770543": 1,
+      "gas:candidate-vibid:323300770399": 1,
+      "gas:candidate-vibid:1001000121818": 26,
+      "gas:candidate-vibid:1001000187996": 20,
+      "gas:candidate-vibid:323300771002": 36,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000051&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070414&region=0&sub_region=0&type=429",
@@ -10696,21 +10696,21 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беличенко Александр Сергеевич": 1,
-      "Белоглазов Павел Валерьевич": 0,
-      "Высочин Анатолий Петрович": 7,
-      "Герасимов Дмитрий Михайлович": 1,
-      "Зацепина Нина Андреевна": 11,
-      "Ковалюк Михаил Анатольевич": 8,
-      "Кочьян Илья Айкасович": 36,
-      "Кузнецов Семен Иванович": 2,
-      "Панченко Сергей Васильевич": 1,
-      "Савченко Владимир Александрович": 0,
-      "Сергеева Людмила Леонидовна": 0,
-      "Ширшов Константин Владимирович": 12,
-      "Шишкарев Сергей Николаевич": 8,
-      "Ярышев Сергей Николаевич": 3,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000136021": 1,
+      "gas:candidate-vibid:323300770831": 0,
+      "gas:candidate-vibid:323300770995": 7,
+      "gas:candidate-vibid:1001000195050": 1,
+      "gas:candidate-vibid:323300770913": 11,
+      "gas:candidate-vibid:323300770485": 8,
+      "gas:candidate-vibid:1001000225916": 36,
+      "gas:candidate-vibid:1001000190304": 2,
+      "gas:candidate-vibid:1001000112196": 1,
+      "gas:candidate-vibid:323300770543": 0,
+      "gas:candidate-vibid:323300770399": 0,
+      "gas:candidate-vibid:1001000121818": 12,
+      "gas:candidate-vibid:1001000187996": 8,
+      "gas:candidate-vibid:323300771002": 3,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000051&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070414&region=0&sub_region=0&type=429",
@@ -10760,21 +10760,21 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беличенко Александр Сергеевич": 0,
-      "Белоглазов Павел Валерьевич": 0,
-      "Высочин Анатолий Петрович": 3,
-      "Герасимов Дмитрий Михайлович": 1,
-      "Зацепина Нина Андреевна": 2,
-      "Ковалюк Михаил Анатольевич": 6,
-      "Кочьян Илья Айкасович": 14,
-      "Кузнецов Семен Иванович": 1,
-      "Панченко Сергей Васильевич": 0,
-      "Савченко Владимир Александрович": 0,
-      "Сергеева Людмила Леонидовна": 1,
-      "Ширшов Константин Владимирович": 0,
-      "Шишкарев Сергей Николаевич": 3,
-      "Ярышев Сергей Николаевич": 6,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000136021": 0,
+      "gas:candidate-vibid:323300770831": 0,
+      "gas:candidate-vibid:323300770995": 3,
+      "gas:candidate-vibid:1001000195050": 1,
+      "gas:candidate-vibid:323300770913": 2,
+      "gas:candidate-vibid:323300770485": 6,
+      "gas:candidate-vibid:1001000225916": 14,
+      "gas:candidate-vibid:1001000190304": 1,
+      "gas:candidate-vibid:1001000112196": 0,
+      "gas:candidate-vibid:323300770543": 0,
+      "gas:candidate-vibid:323300770399": 1,
+      "gas:candidate-vibid:1001000121818": 0,
+      "gas:candidate-vibid:1001000187996": 3,
+      "gas:candidate-vibid:323300771002": 6,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000051&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070414&region=0&sub_region=0&type=429",
@@ -10824,21 +10824,21 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беличенко Александр Сергеевич": 1,
-      "Белоглазов Павел Валерьевич": 0,
-      "Высочин Анатолий Петрович": 6,
-      "Герасимов Дмитрий Михайлович": 0,
-      "Зацепина Нина Андреевна": 8,
-      "Ковалюк Михаил Анатольевич": 3,
-      "Кочьян Илья Айкасович": 62,
-      "Кузнецов Семен Иванович": 0,
-      "Панченко Сергей Васильевич": 0,
-      "Савченко Владимир Александрович": 0,
-      "Сергеева Людмила Леонидовна": 0,
-      "Ширшов Константин Владимирович": 7,
-      "Шишкарев Сергей Николаевич": 7,
-      "Ярышев Сергей Николаевич": 6,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000136021": 1,
+      "gas:candidate-vibid:323300770831": 0,
+      "gas:candidate-vibid:323300770995": 6,
+      "gas:candidate-vibid:1001000195050": 0,
+      "gas:candidate-vibid:323300770913": 8,
+      "gas:candidate-vibid:323300770485": 3,
+      "gas:candidate-vibid:1001000225916": 62,
+      "gas:candidate-vibid:1001000190304": 0,
+      "gas:candidate-vibid:1001000112196": 0,
+      "gas:candidate-vibid:323300770543": 0,
+      "gas:candidate-vibid:323300770399": 0,
+      "gas:candidate-vibid:1001000121818": 7,
+      "gas:candidate-vibid:1001000187996": 7,
+      "gas:candidate-vibid:323300771002": 6,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000051&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070414&region=0&sub_region=0&type=429",
@@ -10888,21 +10888,21 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беличенко Александр Сергеевич": 1,
-      "Белоглазов Павел Валерьевич": 5,
-      "Высочин Анатолий Петрович": 3,
-      "Герасимов Дмитрий Михайлович": 0,
-      "Зацепина Нина Андреевна": 8,
-      "Ковалюк Михаил Анатольевич": 16,
-      "Кочьян Илья Айкасович": 33,
-      "Кузнецов Семен Иванович": 0,
-      "Панченко Сергей Васильевич": 0,
-      "Савченко Владимир Александрович": 2,
-      "Сергеева Людмила Леонидовна": 3,
-      "Ширшов Константин Владимирович": 14,
-      "Шишкарев Сергей Николаевич": 8,
-      "Ярышев Сергей Николаевич": 13,
-      "Против всех": 29
+      "gas:candidate-vibid:1001000136021": 1,
+      "gas:candidate-vibid:323300770831": 5,
+      "gas:candidate-vibid:323300770995": 3,
+      "gas:candidate-vibid:1001000195050": 0,
+      "gas:candidate-vibid:323300770913": 8,
+      "gas:candidate-vibid:323300770485": 16,
+      "gas:candidate-vibid:1001000225916": 33,
+      "gas:candidate-vibid:1001000190304": 0,
+      "gas:candidate-vibid:1001000112196": 0,
+      "gas:candidate-vibid:323300770543": 2,
+      "gas:candidate-vibid:323300770399": 3,
+      "gas:candidate-vibid:1001000121818": 14,
+      "gas:candidate-vibid:1001000187996": 8,
+      "gas:candidate-vibid:323300771002": 13,
+      "special:against-all": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000051&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070414&region=0&sub_region=0&type=429",
@@ -10952,21 +10952,21 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беличенко Александр Сергеевич": 7,
-      "Белоглазов Павел Валерьевич": 4,
-      "Высочин Анатолий Петрович": 18,
-      "Герасимов Дмитрий Михайлович": 3,
-      "Зацепина Нина Андреевна": 27,
-      "Ковалюк Михаил Анатольевич": 62,
-      "Кочьян Илья Айкасович": 197,
-      "Кузнецов Семен Иванович": 2,
-      "Панченко Сергей Васильевич": 2,
-      "Савченко Владимир Александрович": 2,
-      "Сергеева Людмила Леонидовна": 3,
-      "Ширшов Константин Владимирович": 73,
-      "Шишкарев Сергей Николаевич": 28,
-      "Ярышев Сергей Николаевич": 134,
-      "Против всех": 48
+      "gas:candidate-vibid:1001000136021": 7,
+      "gas:candidate-vibid:323300770831": 4,
+      "gas:candidate-vibid:323300770995": 18,
+      "gas:candidate-vibid:1001000195050": 3,
+      "gas:candidate-vibid:323300770913": 27,
+      "gas:candidate-vibid:323300770485": 62,
+      "gas:candidate-vibid:1001000225916": 197,
+      "gas:candidate-vibid:1001000190304": 2,
+      "gas:candidate-vibid:1001000112196": 2,
+      "gas:candidate-vibid:323300770543": 2,
+      "gas:candidate-vibid:323300770399": 3,
+      "gas:candidate-vibid:1001000121818": 73,
+      "gas:candidate-vibid:1001000187996": 28,
+      "gas:candidate-vibid:323300771002": 134,
+      "special:against-all": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000051&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070414&region=0&sub_region=0&type=429",
@@ -11016,21 +11016,21 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беличенко Александр Сергеевич": 4,
-      "Белоглазов Павел Валерьевич": 0,
-      "Высочин Анатолий Петрович": 1,
-      "Герасимов Дмитрий Михайлович": 1,
-      "Зацепина Нина Андреевна": 7,
-      "Ковалюк Михаил Анатольевич": 8,
-      "Кочьян Илья Айкасович": 46,
-      "Кузнецов Семен Иванович": 1,
-      "Панченко Сергей Васильевич": 0,
-      "Савченко Владимир Александрович": 0,
-      "Сергеева Людмила Леонидовна": 0,
-      "Ширшов Константин Владимирович": 5,
-      "Шишкарев Сергей Николаевич": 3,
-      "Ярышев Сергей Николаевич": 31,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000136021": 4,
+      "gas:candidate-vibid:323300770831": 0,
+      "gas:candidate-vibid:323300770995": 1,
+      "gas:candidate-vibid:1001000195050": 1,
+      "gas:candidate-vibid:323300770913": 7,
+      "gas:candidate-vibid:323300770485": 8,
+      "gas:candidate-vibid:1001000225916": 46,
+      "gas:candidate-vibid:1001000190304": 1,
+      "gas:candidate-vibid:1001000112196": 0,
+      "gas:candidate-vibid:323300770543": 0,
+      "gas:candidate-vibid:323300770399": 0,
+      "gas:candidate-vibid:1001000121818": 5,
+      "gas:candidate-vibid:1001000187996": 3,
+      "gas:candidate-vibid:323300771002": 31,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000051&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070414&region=0&sub_region=0&type=429",
@@ -11080,21 +11080,21 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беличенко Александр Сергеевич": 1,
-      "Белоглазов Павел Валерьевич": 0,
-      "Высочин Анатолий Петрович": 4,
-      "Герасимов Дмитрий Михайлович": 0,
-      "Зацепина Нина Андреевна": 13,
-      "Ковалюк Михаил Анатольевич": 1,
-      "Кочьян Илья Айкасович": 158,
-      "Кузнецов Семен Иванович": 0,
-      "Панченко Сергей Васильевич": 1,
-      "Савченко Владимир Александрович": 0,
-      "Сергеева Людмила Леонидовна": 0,
-      "Ширшов Константин Владимирович": 18,
-      "Шишкарев Сергей Николаевич": 3,
-      "Ярышев Сергей Николаевич": 5,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000136021": 1,
+      "gas:candidate-vibid:323300770831": 0,
+      "gas:candidate-vibid:323300770995": 4,
+      "gas:candidate-vibid:1001000195050": 0,
+      "gas:candidate-vibid:323300770913": 13,
+      "gas:candidate-vibid:323300770485": 1,
+      "gas:candidate-vibid:1001000225916": 158,
+      "gas:candidate-vibid:1001000190304": 0,
+      "gas:candidate-vibid:1001000112196": 1,
+      "gas:candidate-vibid:323300770543": 0,
+      "gas:candidate-vibid:323300770399": 0,
+      "gas:candidate-vibid:1001000121818": 18,
+      "gas:candidate-vibid:1001000187996": 3,
+      "gas:candidate-vibid:323300771002": 5,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000051&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070414&region=0&sub_region=0&type=429",
@@ -11144,21 +11144,21 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беличенко Александр Сергеевич": 1,
-      "Белоглазов Павел Валерьевич": 0,
-      "Высочин Анатолий Петрович": 0,
-      "Герасимов Дмитрий Михайлович": 0,
-      "Зацепина Нина Андреевна": 0,
-      "Ковалюк Михаил Анатольевич": 3,
-      "Кочьян Илья Айкасович": 43,
-      "Кузнецов Семен Иванович": 0,
-      "Панченко Сергей Васильевич": 0,
-      "Савченко Владимир Александрович": 0,
-      "Сергеева Людмила Леонидовна": 0,
-      "Ширшов Константин Владимирович": 12,
-      "Шишкарев Сергей Николаевич": 0,
-      "Ярышев Сергей Николаевич": 9,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000136021": 1,
+      "gas:candidate-vibid:323300770831": 0,
+      "gas:candidate-vibid:323300770995": 0,
+      "gas:candidate-vibid:1001000195050": 0,
+      "gas:candidate-vibid:323300770913": 0,
+      "gas:candidate-vibid:323300770485": 3,
+      "gas:candidate-vibid:1001000225916": 43,
+      "gas:candidate-vibid:1001000190304": 0,
+      "gas:candidate-vibid:1001000112196": 0,
+      "gas:candidate-vibid:323300770543": 0,
+      "gas:candidate-vibid:323300770399": 0,
+      "gas:candidate-vibid:1001000121818": 12,
+      "gas:candidate-vibid:1001000187996": 0,
+      "gas:candidate-vibid:323300771002": 9,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000051&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070414&region=0&sub_region=0&type=429",
@@ -11208,21 +11208,21 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беличенко Александр Сергеевич": 26,
-      "Белоглазов Павел Валерьевич": 20,
-      "Высочин Анатолий Петрович": 33,
-      "Герасимов Дмитрий Михайлович": 5,
-      "Зацепина Нина Андреевна": 65,
-      "Ковалюк Михаил Анатольевич": 47,
-      "Кочьян Илья Айкасович": 50,
-      "Кузнецов Семен Иванович": 5,
-      "Панченко Сергей Васильевич": 25,
-      "Савченко Владимир Александрович": 5,
-      "Сергеева Людмила Леонидовна": 17,
-      "Ширшов Константин Владимирович": 93,
-      "Шишкарев Сергей Николаевич": 108,
-      "Ярышев Сергей Николаевич": 47,
-      "Против всех": 137
+      "gas:candidate-vibid:1001000136021": 26,
+      "gas:candidate-vibid:323300770831": 20,
+      "gas:candidate-vibid:323300770995": 33,
+      "gas:candidate-vibid:1001000195050": 5,
+      "gas:candidate-vibid:323300770913": 65,
+      "gas:candidate-vibid:323300770485": 47,
+      "gas:candidate-vibid:1001000225916": 50,
+      "gas:candidate-vibid:1001000190304": 5,
+      "gas:candidate-vibid:1001000112196": 25,
+      "gas:candidate-vibid:323300770543": 5,
+      "gas:candidate-vibid:323300770399": 17,
+      "gas:candidate-vibid:1001000121818": 93,
+      "gas:candidate-vibid:1001000187996": 108,
+      "gas:candidate-vibid:323300771002": 47,
+      "special:against-all": 137
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000052&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070415&region=0&sub_region=0&type=429",
@@ -11272,21 +11272,21 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беличенко Александр Сергеевич": 44,
-      "Белоглазов Павел Валерьевич": 26,
-      "Высочин Анатолий Петрович": 42,
-      "Герасимов Дмитрий Михайлович": 7,
-      "Зацепина Нина Андреевна": 78,
-      "Ковалюк Михаил Анатольевич": 29,
-      "Кочьян Илья Айкасович": 71,
-      "Кузнецов Семен Иванович": 4,
-      "Панченко Сергей Васильевич": 21,
-      "Савченко Владимир Александрович": 4,
-      "Сергеева Людмила Леонидовна": 6,
-      "Ширшов Константин Владимирович": 105,
-      "Шишкарев Сергей Николаевич": 108,
-      "Ярышев Сергей Николаевич": 132,
-      "Против всех": 201
+      "gas:candidate-vibid:1001000136021": 44,
+      "gas:candidate-vibid:323300770831": 26,
+      "gas:candidate-vibid:323300770995": 42,
+      "gas:candidate-vibid:1001000195050": 7,
+      "gas:candidate-vibid:323300770913": 78,
+      "gas:candidate-vibid:323300770485": 29,
+      "gas:candidate-vibid:1001000225916": 71,
+      "gas:candidate-vibid:1001000190304": 4,
+      "gas:candidate-vibid:1001000112196": 21,
+      "gas:candidate-vibid:323300770543": 4,
+      "gas:candidate-vibid:323300770399": 6,
+      "gas:candidate-vibid:1001000121818": 105,
+      "gas:candidate-vibid:1001000187996": 108,
+      "gas:candidate-vibid:323300771002": 132,
+      "special:against-all": 201
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000052&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070415&region=0&sub_region=0&type=429",
@@ -11336,21 +11336,21 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беличенко Александр Сергеевич": 32,
-      "Белоглазов Павел Валерьевич": 25,
-      "Высочин Анатолий Петрович": 25,
-      "Герасимов Дмитрий Михайлович": 5,
-      "Зацепина Нина Андреевна": 67,
-      "Ковалюк Михаил Анатольевич": 38,
-      "Кочьян Илья Айкасович": 44,
-      "Кузнецов Семен Иванович": 5,
-      "Панченко Сергей Васильевич": 10,
-      "Савченко Владимир Александрович": 4,
-      "Сергеева Людмила Леонидовна": 2,
-      "Ширшов Константин Владимирович": 85,
-      "Шишкарев Сергей Николаевич": 149,
-      "Ярышев Сергей Николаевич": 67,
-      "Против всех": 124
+      "gas:candidate-vibid:1001000136021": 32,
+      "gas:candidate-vibid:323300770831": 25,
+      "gas:candidate-vibid:323300770995": 25,
+      "gas:candidate-vibid:1001000195050": 5,
+      "gas:candidate-vibid:323300770913": 67,
+      "gas:candidate-vibid:323300770485": 38,
+      "gas:candidate-vibid:1001000225916": 44,
+      "gas:candidate-vibid:1001000190304": 5,
+      "gas:candidate-vibid:1001000112196": 10,
+      "gas:candidate-vibid:323300770543": 4,
+      "gas:candidate-vibid:323300770399": 2,
+      "gas:candidate-vibid:1001000121818": 85,
+      "gas:candidate-vibid:1001000187996": 149,
+      "gas:candidate-vibid:323300771002": 67,
+      "special:against-all": 124
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000052&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070415&region=0&sub_region=0&type=429",
@@ -11400,21 +11400,21 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беличенко Александр Сергеевич": 50,
-      "Белоглазов Павел Валерьевич": 22,
-      "Высочин Анатолий Петрович": 33,
-      "Герасимов Дмитрий Михайлович": 4,
-      "Зацепина Нина Андреевна": 75,
-      "Ковалюк Михаил Анатольевич": 24,
-      "Кочьян Илья Айкасович": 74,
-      "Кузнецов Семен Иванович": 5,
-      "Панченко Сергей Васильевич": 15,
-      "Савченко Владимир Александрович": 4,
-      "Сергеева Людмила Леонидовна": 7,
-      "Ширшов Константин Владимирович": 87,
-      "Шишкарев Сергей Николаевич": 113,
-      "Ярышев Сергей Николаевич": 94,
-      "Против всех": 137
+      "gas:candidate-vibid:1001000136021": 50,
+      "gas:candidate-vibid:323300770831": 22,
+      "gas:candidate-vibid:323300770995": 33,
+      "gas:candidate-vibid:1001000195050": 4,
+      "gas:candidate-vibid:323300770913": 75,
+      "gas:candidate-vibid:323300770485": 24,
+      "gas:candidate-vibid:1001000225916": 74,
+      "gas:candidate-vibid:1001000190304": 5,
+      "gas:candidate-vibid:1001000112196": 15,
+      "gas:candidate-vibid:323300770543": 4,
+      "gas:candidate-vibid:323300770399": 7,
+      "gas:candidate-vibid:1001000121818": 87,
+      "gas:candidate-vibid:1001000187996": 113,
+      "gas:candidate-vibid:323300771002": 94,
+      "special:against-all": 137
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000052&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070415&region=0&sub_region=0&type=429",
@@ -11464,21 +11464,21 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беличенко Александр Сергеевич": 39,
-      "Белоглазов Павел Валерьевич": 35,
-      "Высочин Анатолий Петрович": 27,
-      "Герасимов Дмитрий Михайлович": 3,
-      "Зацепина Нина Андреевна": 73,
-      "Ковалюк Михаил Анатольевич": 86,
-      "Кочьян Илья Айкасович": 111,
-      "Кузнецов Семен Иванович": 5,
-      "Панченко Сергей Васильевич": 20,
-      "Савченко Владимир Александрович": 5,
-      "Сергеева Людмила Леонидовна": 10,
-      "Ширшов Константин Владимирович": 191,
-      "Шишкарев Сергей Николаевич": 262,
-      "Ярышев Сергей Николаевич": 82,
-      "Против всех": 191
+      "gas:candidate-vibid:1001000136021": 39,
+      "gas:candidate-vibid:323300770831": 35,
+      "gas:candidate-vibid:323300770995": 27,
+      "gas:candidate-vibid:1001000195050": 3,
+      "gas:candidate-vibid:323300770913": 73,
+      "gas:candidate-vibid:323300770485": 86,
+      "gas:candidate-vibid:1001000225916": 111,
+      "gas:candidate-vibid:1001000190304": 5,
+      "gas:candidate-vibid:1001000112196": 20,
+      "gas:candidate-vibid:323300770543": 5,
+      "gas:candidate-vibid:323300770399": 10,
+      "gas:candidate-vibid:1001000121818": 191,
+      "gas:candidate-vibid:1001000187996": 262,
+      "gas:candidate-vibid:323300771002": 82,
+      "special:against-all": 191
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000052&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070415&region=0&sub_region=0&type=429",
@@ -11528,21 +11528,21 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беличенко Александр Сергеевич": 23,
-      "Белоглазов Павел Валерьевич": 37,
-      "Высочин Анатолий Петрович": 30,
-      "Герасимов Дмитрий Михайлович": 7,
-      "Зацепина Нина Андреевна": 57,
-      "Ковалюк Михаил Анатольевич": 72,
-      "Кочьян Илья Айкасович": 79,
-      "Кузнецов Семен Иванович": 12,
-      "Панченко Сергей Васильевич": 17,
-      "Савченко Владимир Александрович": 4,
-      "Сергеева Людмила Леонидовна": 14,
-      "Ширшов Константин Владимирович": 136,
-      "Шишкарев Сергей Николаевич": 162,
-      "Ярышев Сергей Николаевич": 63,
-      "Против всех": 176
+      "gas:candidate-vibid:1001000136021": 23,
+      "gas:candidate-vibid:323300770831": 37,
+      "gas:candidate-vibid:323300770995": 30,
+      "gas:candidate-vibid:1001000195050": 7,
+      "gas:candidate-vibid:323300770913": 57,
+      "gas:candidate-vibid:323300770485": 72,
+      "gas:candidate-vibid:1001000225916": 79,
+      "gas:candidate-vibid:1001000190304": 12,
+      "gas:candidate-vibid:1001000112196": 17,
+      "gas:candidate-vibid:323300770543": 4,
+      "gas:candidate-vibid:323300770399": 14,
+      "gas:candidate-vibid:1001000121818": 136,
+      "gas:candidate-vibid:1001000187996": 162,
+      "gas:candidate-vibid:323300771002": 63,
+      "special:against-all": 176
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000052&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070415&region=0&sub_region=0&type=429",
@@ -11592,21 +11592,21 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беличенко Александр Сергеевич": 6,
-      "Белоглазов Павел Валерьевич": 1,
-      "Высочин Анатолий Петрович": 4,
-      "Герасимов Дмитрий Михайлович": 2,
-      "Зацепина Нина Андреевна": 32,
-      "Ковалюк Михаил Анатольевич": 31,
-      "Кочьян Илья Айкасович": 13,
-      "Кузнецов Семен Иванович": 3,
-      "Панченко Сергей Васильевич": 7,
-      "Савченко Владимир Александрович": 2,
-      "Сергеева Людмила Леонидовна": 3,
-      "Ширшов Константин Владимирович": 12,
-      "Шишкарев Сергей Николаевич": 26,
-      "Ярышев Сергей Николаевич": 27,
-      "Против всех": 66
+      "gas:candidate-vibid:1001000136021": 6,
+      "gas:candidate-vibid:323300770831": 1,
+      "gas:candidate-vibid:323300770995": 4,
+      "gas:candidate-vibid:1001000195050": 2,
+      "gas:candidate-vibid:323300770913": 32,
+      "gas:candidate-vibid:323300770485": 31,
+      "gas:candidate-vibid:1001000225916": 13,
+      "gas:candidate-vibid:1001000190304": 3,
+      "gas:candidate-vibid:1001000112196": 7,
+      "gas:candidate-vibid:323300770543": 2,
+      "gas:candidate-vibid:323300770399": 3,
+      "gas:candidate-vibid:1001000121818": 12,
+      "gas:candidate-vibid:1001000187996": 26,
+      "gas:candidate-vibid:323300771002": 27,
+      "special:against-all": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000052&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070415&region=0&sub_region=0&type=429",
@@ -11656,21 +11656,21 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беличенко Александр Сергеевич": 45,
-      "Белоглазов Павел Валерьевич": 41,
-      "Высочин Анатолий Петрович": 43,
-      "Герасимов Дмитрий Михайлович": 8,
-      "Зацепина Нина Андреевна": 69,
-      "Ковалюк Михаил Анатольевич": 24,
-      "Кочьян Илья Айкасович": 111,
-      "Кузнецов Семен Иванович": 18,
-      "Панченко Сергей Васильевич": 19,
-      "Савченко Владимир Александрович": 5,
-      "Сергеева Людмила Леонидовна": 6,
-      "Ширшов Константин Владимирович": 120,
-      "Шишкарев Сергей Николаевич": 98,
-      "Ярышев Сергей Николаевич": 129,
-      "Против всех": 130
+      "gas:candidate-vibid:1001000136021": 45,
+      "gas:candidate-vibid:323300770831": 41,
+      "gas:candidate-vibid:323300770995": 43,
+      "gas:candidate-vibid:1001000195050": 8,
+      "gas:candidate-vibid:323300770913": 69,
+      "gas:candidate-vibid:323300770485": 24,
+      "gas:candidate-vibid:1001000225916": 111,
+      "gas:candidate-vibid:1001000190304": 18,
+      "gas:candidate-vibid:1001000112196": 19,
+      "gas:candidate-vibid:323300770543": 5,
+      "gas:candidate-vibid:323300770399": 6,
+      "gas:candidate-vibid:1001000121818": 120,
+      "gas:candidate-vibid:1001000187996": 98,
+      "gas:candidate-vibid:323300771002": 129,
+      "special:against-all": 130
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000052&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070415&region=0&sub_region=0&type=429",
@@ -11720,21 +11720,21 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беличенко Александр Сергеевич": 36,
-      "Белоглазов Павел Валерьевич": 22,
-      "Высочин Анатолий Петрович": 47,
-      "Герасимов Дмитрий Михайлович": 4,
-      "Зацепина Нина Андреевна": 109,
-      "Ковалюк Михаил Анатольевич": 46,
-      "Кочьян Илья Айкасович": 77,
-      "Кузнецов Семен Иванович": 13,
-      "Панченко Сергей Васильевич": 20,
-      "Савченко Владимир Александрович": 4,
-      "Сергеева Людмила Леонидовна": 5,
-      "Ширшов Константин Владимирович": 124,
-      "Шишкарев Сергей Николаевич": 143,
-      "Ярышев Сергей Николаевич": 74,
-      "Против всех": 154
+      "gas:candidate-vibid:1001000136021": 36,
+      "gas:candidate-vibid:323300770831": 22,
+      "gas:candidate-vibid:323300770995": 47,
+      "gas:candidate-vibid:1001000195050": 4,
+      "gas:candidate-vibid:323300770913": 109,
+      "gas:candidate-vibid:323300770485": 46,
+      "gas:candidate-vibid:1001000225916": 77,
+      "gas:candidate-vibid:1001000190304": 13,
+      "gas:candidate-vibid:1001000112196": 20,
+      "gas:candidate-vibid:323300770543": 4,
+      "gas:candidate-vibid:323300770399": 5,
+      "gas:candidate-vibid:1001000121818": 124,
+      "gas:candidate-vibid:1001000187996": 143,
+      "gas:candidate-vibid:323300771002": 74,
+      "special:against-all": 154
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000052&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070415&region=0&sub_region=0&type=429",
@@ -11784,21 +11784,21 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беличенко Александр Сергеевич": 40,
-      "Белоглазов Павел Валерьевич": 36,
-      "Высочин Анатолий Петрович": 61,
-      "Герасимов Дмитрий Михайлович": 9,
-      "Зацепина Нина Андреевна": 194,
-      "Ковалюк Михаил Анатольевич": 50,
-      "Кочьян Илья Айкасович": 69,
-      "Кузнецов Семен Иванович": 8,
-      "Панченко Сергей Васильевич": 30,
-      "Савченко Владимир Александрович": 12,
-      "Сергеева Людмила Леонидовна": 18,
-      "Ширшов Константин Владимирович": 131,
-      "Шишкарев Сергей Николаевич": 176,
-      "Ярышев Сергей Николаевич": 339,
-      "Против всех": 184
+      "gas:candidate-vibid:1001000136021": 40,
+      "gas:candidate-vibid:323300770831": 36,
+      "gas:candidate-vibid:323300770995": 61,
+      "gas:candidate-vibid:1001000195050": 9,
+      "gas:candidate-vibid:323300770913": 194,
+      "gas:candidate-vibid:323300770485": 50,
+      "gas:candidate-vibid:1001000225916": 69,
+      "gas:candidate-vibid:1001000190304": 8,
+      "gas:candidate-vibid:1001000112196": 30,
+      "gas:candidate-vibid:323300770543": 12,
+      "gas:candidate-vibid:323300770399": 18,
+      "gas:candidate-vibid:1001000121818": 131,
+      "gas:candidate-vibid:1001000187996": 176,
+      "gas:candidate-vibid:323300771002": 339,
+      "special:against-all": 184
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000052&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070415&region=0&sub_region=0&type=429",
@@ -11848,21 +11848,21 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беличенко Александр Сергеевич": 7,
-      "Белоглазов Павел Валерьевич": 2,
-      "Высочин Анатолий Петрович": 2,
-      "Герасимов Дмитрий Михайлович": 0,
-      "Зацепина Нина Андреевна": 8,
-      "Ковалюк Михаил Анатольевич": 4,
-      "Кочьян Илья Айкасович": 6,
-      "Кузнецов Семен Иванович": 0,
-      "Панченко Сергей Васильевич": 3,
-      "Савченко Владимир Александрович": 0,
-      "Сергеева Людмила Леонидовна": 1,
-      "Ширшов Константин Владимирович": 11,
-      "Шишкарев Сергей Николаевич": 25,
-      "Ярышев Сергей Николаевич": 146,
-      "Против всех": 27
+      "gas:candidate-vibid:1001000136021": 7,
+      "gas:candidate-vibid:323300770831": 2,
+      "gas:candidate-vibid:323300770995": 2,
+      "gas:candidate-vibid:1001000195050": 0,
+      "gas:candidate-vibid:323300770913": 8,
+      "gas:candidate-vibid:323300770485": 4,
+      "gas:candidate-vibid:1001000225916": 6,
+      "gas:candidate-vibid:1001000190304": 0,
+      "gas:candidate-vibid:1001000112196": 3,
+      "gas:candidate-vibid:323300770543": 0,
+      "gas:candidate-vibid:323300770399": 1,
+      "gas:candidate-vibid:1001000121818": 11,
+      "gas:candidate-vibid:1001000187996": 25,
+      "gas:candidate-vibid:323300771002": 146,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000052&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070415&region=0&sub_region=0&type=429",
@@ -11912,21 +11912,21 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беличенко Александр Сергеевич": 23,
-      "Белоглазов Павел Валерьевич": 8,
-      "Высочин Анатолий Петрович": 17,
-      "Герасимов Дмитрий Михайлович": 4,
-      "Зацепина Нина Андреевна": 66,
-      "Ковалюк Михаил Анатольевич": 98,
-      "Кочьян Илья Айкасович": 34,
-      "Кузнецов Семен Иванович": 4,
-      "Панченко Сергей Васильевич": 1,
-      "Савченко Владимир Александрович": 3,
-      "Сергеева Людмила Леонидовна": 7,
-      "Ширшов Константин Владимирович": 58,
-      "Шишкарев Сергей Николаевич": 73,
-      "Ярышев Сергей Николаевич": 61,
-      "Против всех": 74
+      "gas:candidate-vibid:1001000136021": 23,
+      "gas:candidate-vibid:323300770831": 8,
+      "gas:candidate-vibid:323300770995": 17,
+      "gas:candidate-vibid:1001000195050": 4,
+      "gas:candidate-vibid:323300770913": 66,
+      "gas:candidate-vibid:323300770485": 98,
+      "gas:candidate-vibid:1001000225916": 34,
+      "gas:candidate-vibid:1001000190304": 4,
+      "gas:candidate-vibid:1001000112196": 1,
+      "gas:candidate-vibid:323300770543": 3,
+      "gas:candidate-vibid:323300770399": 7,
+      "gas:candidate-vibid:1001000121818": 58,
+      "gas:candidate-vibid:1001000187996": 73,
+      "gas:candidate-vibid:323300771002": 61,
+      "special:against-all": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000052&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070415&region=0&sub_region=0&type=429",
@@ -11976,21 +11976,21 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беличенко Александр Сергеевич": 14,
-      "Белоглазов Павел Валерьевич": 5,
-      "Высочин Анатолий Петрович": 7,
-      "Герасимов Дмитрий Михайлович": 4,
-      "Зацепина Нина Андреевна": 23,
-      "Ковалюк Михаил Анатольевич": 120,
-      "Кочьян Илья Айкасович": 13,
-      "Кузнецов Семен Иванович": 2,
-      "Панченко Сергей Васильевич": 10,
-      "Савченко Владимир Александрович": 7,
-      "Сергеева Людмила Леонидовна": 3,
-      "Ширшов Константин Владимирович": 69,
-      "Шишкарев Сергей Николаевич": 57,
-      "Ярышев Сергей Николаевич": 53,
-      "Против всех": 33
+      "gas:candidate-vibid:1001000136021": 14,
+      "gas:candidate-vibid:323300770831": 5,
+      "gas:candidate-vibid:323300770995": 7,
+      "gas:candidate-vibid:1001000195050": 4,
+      "gas:candidate-vibid:323300770913": 23,
+      "gas:candidate-vibid:323300770485": 120,
+      "gas:candidate-vibid:1001000225916": 13,
+      "gas:candidate-vibid:1001000190304": 2,
+      "gas:candidate-vibid:1001000112196": 10,
+      "gas:candidate-vibid:323300770543": 7,
+      "gas:candidate-vibid:323300770399": 3,
+      "gas:candidate-vibid:1001000121818": 69,
+      "gas:candidate-vibid:1001000187996": 57,
+      "gas:candidate-vibid:323300771002": 53,
+      "special:against-all": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000052&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070415&region=0&sub_region=0&type=429",
@@ -12040,21 +12040,21 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беличенко Александр Сергеевич": 29,
-      "Белоглазов Павел Валерьевич": 23,
-      "Высочин Анатолий Петрович": 33,
-      "Герасимов Дмитрий Михайлович": 5,
-      "Зацепина Нина Андреевна": 61,
-      "Ковалюк Михаил Анатольевич": 148,
-      "Кочьян Илья Айкасович": 91,
-      "Кузнецов Семен Иванович": 6,
-      "Панченко Сергей Васильевич": 15,
-      "Савченко Владимир Александрович": 3,
-      "Сергеева Людмила Леонидовна": 9,
-      "Ширшов Константин Владимирович": 126,
-      "Шишкарев Сергей Николаевич": 156,
-      "Ярышев Сергей Николаевич": 258,
-      "Против всех": 173
+      "gas:candidate-vibid:1001000136021": 29,
+      "gas:candidate-vibid:323300770831": 23,
+      "gas:candidate-vibid:323300770995": 33,
+      "gas:candidate-vibid:1001000195050": 5,
+      "gas:candidate-vibid:323300770913": 61,
+      "gas:candidate-vibid:323300770485": 148,
+      "gas:candidate-vibid:1001000225916": 91,
+      "gas:candidate-vibid:1001000190304": 6,
+      "gas:candidate-vibid:1001000112196": 15,
+      "gas:candidate-vibid:323300770543": 3,
+      "gas:candidate-vibid:323300770399": 9,
+      "gas:candidate-vibid:1001000121818": 126,
+      "gas:candidate-vibid:1001000187996": 156,
+      "gas:candidate-vibid:323300771002": 258,
+      "special:against-all": 173
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000052&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070415&region=0&sub_region=0&type=429",
@@ -12104,21 +12104,21 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беличенко Александр Сергеевич": 48,
-      "Белоглазов Павел Валерьевич": 20,
-      "Высочин Анатолий Петрович": 24,
-      "Герасимов Дмитрий Михайлович": 3,
-      "Зацепина Нина Андреевна": 67,
-      "Ковалюк Михаил Анатольевич": 113,
-      "Кочьян Илья Айкасович": 74,
-      "Кузнецов Семен Иванович": 8,
-      "Панченко Сергей Васильевич": 20,
-      "Савченко Владимир Александрович": 9,
-      "Сергеева Людмила Леонидовна": 14,
-      "Ширшов Константин Владимирович": 155,
-      "Шишкарев Сергей Николаевич": 176,
-      "Ярышев Сергей Николаевич": 160,
-      "Против всех": 154
+      "gas:candidate-vibid:1001000136021": 48,
+      "gas:candidate-vibid:323300770831": 20,
+      "gas:candidate-vibid:323300770995": 24,
+      "gas:candidate-vibid:1001000195050": 3,
+      "gas:candidate-vibid:323300770913": 67,
+      "gas:candidate-vibid:323300770485": 113,
+      "gas:candidate-vibid:1001000225916": 74,
+      "gas:candidate-vibid:1001000190304": 8,
+      "gas:candidate-vibid:1001000112196": 20,
+      "gas:candidate-vibid:323300770543": 9,
+      "gas:candidate-vibid:323300770399": 14,
+      "gas:candidate-vibid:1001000121818": 155,
+      "gas:candidate-vibid:1001000187996": 176,
+      "gas:candidate-vibid:323300771002": 160,
+      "special:against-all": 154
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000052&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070415&region=0&sub_region=0&type=429",
@@ -12168,21 +12168,21 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беличенко Александр Сергеевич": 43,
-      "Белоглазов Павел Валерьевич": 16,
-      "Высочин Анатолий Петрович": 19,
-      "Герасимов Дмитрий Михайлович": 1,
-      "Зацепина Нина Андреевна": 46,
-      "Ковалюк Михаил Анатольевич": 77,
-      "Кочьян Илья Айкасович": 45,
-      "Кузнецов Семен Иванович": 4,
-      "Панченко Сергей Васильевич": 17,
-      "Савченко Владимир Александрович": 2,
-      "Сергеева Людмила Леонидовна": 4,
-      "Ширшов Константин Владимирович": 84,
-      "Шишкарев Сергей Николаевич": 104,
-      "Ярышев Сергей Николаевич": 150,
-      "Против всех": 118
+      "gas:candidate-vibid:1001000136021": 43,
+      "gas:candidate-vibid:323300770831": 16,
+      "gas:candidate-vibid:323300770995": 19,
+      "gas:candidate-vibid:1001000195050": 1,
+      "gas:candidate-vibid:323300770913": 46,
+      "gas:candidate-vibid:323300770485": 77,
+      "gas:candidate-vibid:1001000225916": 45,
+      "gas:candidate-vibid:1001000190304": 4,
+      "gas:candidate-vibid:1001000112196": 17,
+      "gas:candidate-vibid:323300770543": 2,
+      "gas:candidate-vibid:323300770399": 4,
+      "gas:candidate-vibid:1001000121818": 84,
+      "gas:candidate-vibid:1001000187996": 104,
+      "gas:candidate-vibid:323300771002": 150,
+      "special:against-all": 118
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000052&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070415&region=0&sub_region=0&type=429",
@@ -12232,21 +12232,21 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беличенко Александр Сергеевич": 36,
-      "Белоглазов Павел Валерьевич": 18,
-      "Высочин Анатолий Петрович": 37,
-      "Герасимов Дмитрий Михайлович": 3,
-      "Зацепина Нина Андреевна": 39,
-      "Ковалюк Михаил Анатольевич": 101,
-      "Кочьян Илья Айкасович": 83,
-      "Кузнецов Семен Иванович": 8,
-      "Панченко Сергей Васильевич": 5,
-      "Савченко Владимир Александрович": 7,
-      "Сергеева Людмила Леонидовна": 8,
-      "Ширшов Константин Владимирович": 112,
-      "Шишкарев Сергей Николаевич": 118,
-      "Ярышев Сергей Николаевич": 135,
-      "Против всех": 155
+      "gas:candidate-vibid:1001000136021": 36,
+      "gas:candidate-vibid:323300770831": 18,
+      "gas:candidate-vibid:323300770995": 37,
+      "gas:candidate-vibid:1001000195050": 3,
+      "gas:candidate-vibid:323300770913": 39,
+      "gas:candidate-vibid:323300770485": 101,
+      "gas:candidate-vibid:1001000225916": 83,
+      "gas:candidate-vibid:1001000190304": 8,
+      "gas:candidate-vibid:1001000112196": 5,
+      "gas:candidate-vibid:323300770543": 7,
+      "gas:candidate-vibid:323300770399": 8,
+      "gas:candidate-vibid:1001000121818": 112,
+      "gas:candidate-vibid:1001000187996": 118,
+      "gas:candidate-vibid:323300771002": 135,
+      "special:against-all": 155
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000052&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070415&region=0&sub_region=0&type=429",
@@ -12296,21 +12296,21 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беличенко Александр Сергеевич": 42,
-      "Белоглазов Павел Валерьевич": 20,
-      "Высочин Анатолий Петрович": 38,
-      "Герасимов Дмитрий Михайлович": 4,
-      "Зацепина Нина Андреевна": 77,
-      "Ковалюк Михаил Анатольевич": 153,
-      "Кочьян Илья Айкасович": 97,
-      "Кузнецов Семен Иванович": 2,
-      "Панченко Сергей Васильевич": 10,
-      "Савченко Владимир Александрович": 5,
-      "Сергеева Людмила Леонидовна": 16,
-      "Ширшов Константин Владимирович": 127,
-      "Шишкарев Сергей Николаевич": 151,
-      "Ярышев Сергей Николаевич": 113,
-      "Против всех": 133
+      "gas:candidate-vibid:1001000136021": 42,
+      "gas:candidate-vibid:323300770831": 20,
+      "gas:candidate-vibid:323300770995": 38,
+      "gas:candidate-vibid:1001000195050": 4,
+      "gas:candidate-vibid:323300770913": 77,
+      "gas:candidate-vibid:323300770485": 153,
+      "gas:candidate-vibid:1001000225916": 97,
+      "gas:candidate-vibid:1001000190304": 2,
+      "gas:candidate-vibid:1001000112196": 10,
+      "gas:candidate-vibid:323300770543": 5,
+      "gas:candidate-vibid:323300770399": 16,
+      "gas:candidate-vibid:1001000121818": 127,
+      "gas:candidate-vibid:1001000187996": 151,
+      "gas:candidate-vibid:323300771002": 113,
+      "special:against-all": 133
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000052&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070415&region=0&sub_region=0&type=429",
@@ -12360,21 +12360,21 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беличенко Александр Сергеевич": 42,
-      "Белоглазов Павел Валерьевич": 19,
-      "Высочин Анатолий Петрович": 36,
-      "Герасимов Дмитрий Михайлович": 0,
-      "Зацепина Нина Андреевна": 40,
-      "Ковалюк Михаил Анатольевич": 101,
-      "Кочьян Илья Айкасович": 87,
-      "Кузнецов Семен Иванович": 5,
-      "Панченко Сергей Васильевич": 12,
-      "Савченко Владимир Александрович": 3,
-      "Сергеева Людмила Леонидовна": 12,
-      "Ширшов Константин Владимирович": 111,
-      "Шишкарев Сергей Николаевич": 144,
-      "Ярышев Сергей Николаевич": 179,
-      "Против всех": 125
+      "gas:candidate-vibid:1001000136021": 42,
+      "gas:candidate-vibid:323300770831": 19,
+      "gas:candidate-vibid:323300770995": 36,
+      "gas:candidate-vibid:1001000195050": 0,
+      "gas:candidate-vibid:323300770913": 40,
+      "gas:candidate-vibid:323300770485": 101,
+      "gas:candidate-vibid:1001000225916": 87,
+      "gas:candidate-vibid:1001000190304": 5,
+      "gas:candidate-vibid:1001000112196": 12,
+      "gas:candidate-vibid:323300770543": 3,
+      "gas:candidate-vibid:323300770399": 12,
+      "gas:candidate-vibid:1001000121818": 111,
+      "gas:candidate-vibid:1001000187996": 144,
+      "gas:candidate-vibid:323300771002": 179,
+      "special:against-all": 125
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000052&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070415&region=0&sub_region=0&type=429",
@@ -12424,21 +12424,21 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беличенко Александр Сергеевич": 7,
-      "Белоглазов Павел Валерьевич": 8,
-      "Высочин Анатолий Петрович": 3,
-      "Герасимов Дмитрий Михайлович": 1,
-      "Зацепина Нина Андреевна": 3,
-      "Ковалюк Михаил Анатольевич": 62,
-      "Кочьян Илья Айкасович": 8,
-      "Кузнецов Семен Иванович": 1,
-      "Панченко Сергей Васильевич": 1,
-      "Савченко Владимир Александрович": 1,
-      "Сергеева Людмила Леонидовна": 0,
-      "Ширшов Константин Владимирович": 29,
-      "Шишкарев Сергей Николаевич": 43,
-      "Ярышев Сергей Николаевич": 21,
-      "Против всех": 31
+      "gas:candidate-vibid:1001000136021": 7,
+      "gas:candidate-vibid:323300770831": 8,
+      "gas:candidate-vibid:323300770995": 3,
+      "gas:candidate-vibid:1001000195050": 1,
+      "gas:candidate-vibid:323300770913": 3,
+      "gas:candidate-vibid:323300770485": 62,
+      "gas:candidate-vibid:1001000225916": 8,
+      "gas:candidate-vibid:1001000190304": 1,
+      "gas:candidate-vibid:1001000112196": 1,
+      "gas:candidate-vibid:323300770543": 1,
+      "gas:candidate-vibid:323300770399": 0,
+      "gas:candidate-vibid:1001000121818": 29,
+      "gas:candidate-vibid:1001000187996": 43,
+      "gas:candidate-vibid:323300771002": 21,
+      "special:against-all": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000052&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070415&region=0&sub_region=0&type=429",
@@ -12488,21 +12488,21 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беличенко Александр Сергеевич": 43,
-      "Белоглазов Павел Валерьевич": 7,
-      "Высочин Анатолий Петрович": 33,
-      "Герасимов Дмитрий Михайлович": 5,
-      "Зацепина Нина Андреевна": 54,
-      "Ковалюк Михаил Анатольевич": 135,
-      "Кочьян Илья Айкасович": 61,
-      "Кузнецов Семен Иванович": 5,
-      "Панченко Сергей Васильевич": 6,
-      "Савченко Владимир Александрович": 5,
-      "Сергеева Людмила Леонидовна": 6,
-      "Ширшов Константин Владимирович": 64,
-      "Шишкарев Сергей Николаевич": 131,
-      "Ярышев Сергей Николаевич": 85,
-      "Против всех": 80
+      "gas:candidate-vibid:1001000136021": 43,
+      "gas:candidate-vibid:323300770831": 7,
+      "gas:candidate-vibid:323300770995": 33,
+      "gas:candidate-vibid:1001000195050": 5,
+      "gas:candidate-vibid:323300770913": 54,
+      "gas:candidate-vibid:323300770485": 135,
+      "gas:candidate-vibid:1001000225916": 61,
+      "gas:candidate-vibid:1001000190304": 5,
+      "gas:candidate-vibid:1001000112196": 6,
+      "gas:candidate-vibid:323300770543": 5,
+      "gas:candidate-vibid:323300770399": 6,
+      "gas:candidate-vibid:1001000121818": 64,
+      "gas:candidate-vibid:1001000187996": 131,
+      "gas:candidate-vibid:323300771002": 85,
+      "special:against-all": 80
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000052&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070415&region=0&sub_region=0&type=429",
@@ -12552,21 +12552,21 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беличенко Александр Сергеевич": 48,
-      "Белоглазов Павел Валерьевич": 18,
-      "Высочин Анатолий Петрович": 24,
-      "Герасимов Дмитрий Михайлович": 5,
-      "Зацепина Нина Андреевна": 71,
-      "Ковалюк Михаил Анатольевич": 136,
-      "Кочьян Илья Айкасович": 72,
-      "Кузнецов Семен Иванович": 3,
-      "Панченко Сергей Васильевич": 16,
-      "Савченко Владимир Александрович": 7,
-      "Сергеева Людмила Леонидовна": 7,
-      "Ширшов Константин Владимирович": 117,
-      "Шишкарев Сергей Николаевич": 127,
-      "Ярышев Сергей Николаевич": 131,
-      "Против всех": 157
+      "gas:candidate-vibid:1001000136021": 48,
+      "gas:candidate-vibid:323300770831": 18,
+      "gas:candidate-vibid:323300770995": 24,
+      "gas:candidate-vibid:1001000195050": 5,
+      "gas:candidate-vibid:323300770913": 71,
+      "gas:candidate-vibid:323300770485": 136,
+      "gas:candidate-vibid:1001000225916": 72,
+      "gas:candidate-vibid:1001000190304": 3,
+      "gas:candidate-vibid:1001000112196": 16,
+      "gas:candidate-vibid:323300770543": 7,
+      "gas:candidate-vibid:323300770399": 7,
+      "gas:candidate-vibid:1001000121818": 117,
+      "gas:candidate-vibid:1001000187996": 127,
+      "gas:candidate-vibid:323300771002": 131,
+      "special:against-all": 157
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000052&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070415&region=0&sub_region=0&type=429",
@@ -12616,21 +12616,21 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беличенко Александр Сергеевич": 18,
-      "Белоглазов Павел Валерьевич": 6,
-      "Высочин Анатолий Петрович": 33,
-      "Герасимов Дмитрий Михайлович": 6,
-      "Зацепина Нина Андреевна": 168,
-      "Ковалюк Михаил Анатольевич": 36,
-      "Кочьян Илья Айкасович": 20,
-      "Кузнецов Семен Иванович": 10,
-      "Панченко Сергей Васильевич": 16,
-      "Савченко Владимир Александрович": 2,
-      "Сергеева Людмила Леонидовна": 7,
-      "Ширшов Константин Владимирович": 68,
-      "Шишкарев Сергей Николаевич": 108,
-      "Ярышев Сергей Николаевич": 148,
-      "Против всех": 52
+      "gas:candidate-vibid:1001000136021": 18,
+      "gas:candidate-vibid:323300770831": 6,
+      "gas:candidate-vibid:323300770995": 33,
+      "gas:candidate-vibid:1001000195050": 6,
+      "gas:candidate-vibid:323300770913": 168,
+      "gas:candidate-vibid:323300770485": 36,
+      "gas:candidate-vibid:1001000225916": 20,
+      "gas:candidate-vibid:1001000190304": 10,
+      "gas:candidate-vibid:1001000112196": 16,
+      "gas:candidate-vibid:323300770543": 2,
+      "gas:candidate-vibid:323300770399": 7,
+      "gas:candidate-vibid:1001000121818": 68,
+      "gas:candidate-vibid:1001000187996": 108,
+      "gas:candidate-vibid:323300771002": 148,
+      "special:against-all": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000052&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070415&region=0&sub_region=0&type=429",
@@ -12680,21 +12680,21 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беличенко Александр Сергеевич": 33,
-      "Белоглазов Павел Валерьевич": 10,
-      "Высочин Анатолий Петрович": 26,
-      "Герасимов Дмитрий Михайлович": 4,
-      "Зацепина Нина Андреевна": 129,
-      "Ковалюк Михаил Анатольевич": 19,
-      "Кочьян Илья Айкасович": 63,
-      "Кузнецов Семен Иванович": 7,
-      "Панченко Сергей Васильевич": 5,
-      "Савченко Владимир Александрович": 9,
-      "Сергеева Людмила Леонидовна": 13,
-      "Ширшов Константин Владимирович": 98,
-      "Шишкарев Сергей Николаевич": 229,
-      "Ярышев Сергей Николаевич": 114,
-      "Против всех": 94
+      "gas:candidate-vibid:1001000136021": 33,
+      "gas:candidate-vibid:323300770831": 10,
+      "gas:candidate-vibid:323300770995": 26,
+      "gas:candidate-vibid:1001000195050": 4,
+      "gas:candidate-vibid:323300770913": 129,
+      "gas:candidate-vibid:323300770485": 19,
+      "gas:candidate-vibid:1001000225916": 63,
+      "gas:candidate-vibid:1001000190304": 7,
+      "gas:candidate-vibid:1001000112196": 5,
+      "gas:candidate-vibid:323300770543": 9,
+      "gas:candidate-vibid:323300770399": 13,
+      "gas:candidate-vibid:1001000121818": 98,
+      "gas:candidate-vibid:1001000187996": 229,
+      "gas:candidate-vibid:323300771002": 114,
+      "special:against-all": 94
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000052&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070415&region=0&sub_region=0&type=429",
@@ -12744,21 +12744,21 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беличенко Александр Сергеевич": 6,
-      "Белоглазов Павел Валерьевич": 6,
-      "Высочин Анатолий Петрович": 9,
-      "Герасимов Дмитрий Михайлович": 2,
-      "Зацепина Нина Андреевна": 40,
-      "Ковалюк Михаил Анатольевич": 4,
-      "Кочьян Илья Айкасович": 8,
-      "Кузнецов Семен Иванович": 2,
-      "Панченко Сергей Васильевич": 1,
-      "Савченко Владимир Александрович": 0,
-      "Сергеева Людмила Леонидовна": 3,
-      "Ширшов Константин Владимирович": 19,
-      "Шишкарев Сергей Николаевич": 70,
-      "Ярышев Сергей Николаевич": 37,
-      "Против всех": 51
+      "gas:candidate-vibid:1001000136021": 6,
+      "gas:candidate-vibid:323300770831": 6,
+      "gas:candidate-vibid:323300770995": 9,
+      "gas:candidate-vibid:1001000195050": 2,
+      "gas:candidate-vibid:323300770913": 40,
+      "gas:candidate-vibid:323300770485": 4,
+      "gas:candidate-vibid:1001000225916": 8,
+      "gas:candidate-vibid:1001000190304": 2,
+      "gas:candidate-vibid:1001000112196": 1,
+      "gas:candidate-vibid:323300770543": 0,
+      "gas:candidate-vibid:323300770399": 3,
+      "gas:candidate-vibid:1001000121818": 19,
+      "gas:candidate-vibid:1001000187996": 70,
+      "gas:candidate-vibid:323300771002": 37,
+      "special:against-all": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000052&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070415&region=0&sub_region=0&type=429",
@@ -12808,21 +12808,21 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беличенко Александр Сергеевич": 8,
-      "Белоглазов Павел Валерьевич": 3,
-      "Высочин Анатолий Петрович": 9,
-      "Герасимов Дмитрий Михайлович": 1,
-      "Зацепина Нина Андреевна": 14,
-      "Ковалюк Михаил Анатольевич": 8,
-      "Кочьян Илья Айкасович": 21,
-      "Кузнецов Семен Иванович": 2,
-      "Панченко Сергей Васильевич": 0,
-      "Савченко Владимир Александрович": 1,
-      "Сергеева Людмила Леонидовна": 3,
-      "Ширшов Константин Владимирович": 12,
-      "Шишкарев Сергей Николаевич": 56,
-      "Ярышев Сергей Николаевич": 48,
-      "Против всех": 51
+      "gas:candidate-vibid:1001000136021": 8,
+      "gas:candidate-vibid:323300770831": 3,
+      "gas:candidate-vibid:323300770995": 9,
+      "gas:candidate-vibid:1001000195050": 1,
+      "gas:candidate-vibid:323300770913": 14,
+      "gas:candidate-vibid:323300770485": 8,
+      "gas:candidate-vibid:1001000225916": 21,
+      "gas:candidate-vibid:1001000190304": 2,
+      "gas:candidate-vibid:1001000112196": 0,
+      "gas:candidate-vibid:323300770543": 1,
+      "gas:candidate-vibid:323300770399": 3,
+      "gas:candidate-vibid:1001000121818": 12,
+      "gas:candidate-vibid:1001000187996": 56,
+      "gas:candidate-vibid:323300771002": 48,
+      "special:against-all": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000052&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070415&region=0&sub_region=0&type=429",
@@ -12872,21 +12872,21 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беличенко Александр Сергеевич": 4,
-      "Белоглазов Павел Валерьевич": 6,
-      "Высочин Анатолий Петрович": 6,
-      "Герасимов Дмитрий Михайлович": 4,
-      "Зацепина Нина Андреевна": 27,
-      "Ковалюк Михаил Анатольевич": 9,
-      "Кочьян Илья Айкасович": 24,
-      "Кузнецов Семен Иванович": 0,
-      "Панченко Сергей Васильевич": 6,
-      "Савченко Владимир Александрович": 4,
-      "Сергеева Людмила Леонидовна": 4,
-      "Ширшов Константин Владимирович": 31,
-      "Шишкарев Сергей Николаевич": 60,
-      "Ярышев Сергей Николаевич": 35,
-      "Против всех": 34
+      "gas:candidate-vibid:1001000136021": 4,
+      "gas:candidate-vibid:323300770831": 6,
+      "gas:candidate-vibid:323300770995": 6,
+      "gas:candidate-vibid:1001000195050": 4,
+      "gas:candidate-vibid:323300770913": 27,
+      "gas:candidate-vibid:323300770485": 9,
+      "gas:candidate-vibid:1001000225916": 24,
+      "gas:candidate-vibid:1001000190304": 0,
+      "gas:candidate-vibid:1001000112196": 6,
+      "gas:candidate-vibid:323300770543": 4,
+      "gas:candidate-vibid:323300770399": 4,
+      "gas:candidate-vibid:1001000121818": 31,
+      "gas:candidate-vibid:1001000187996": 60,
+      "gas:candidate-vibid:323300771002": 35,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000052&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070415&region=0&sub_region=0&type=429",
@@ -12936,21 +12936,21 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беличенко Александр Сергеевич": 2,
-      "Белоглазов Павел Валерьевич": 0,
-      "Высочин Анатолий Петрович": 2,
-      "Герасимов Дмитрий Михайлович": 0,
-      "Зацепина Нина Андреевна": 16,
-      "Ковалюк Михаил Анатольевич": 11,
-      "Кочьян Илья Айкасович": 6,
-      "Кузнецов Семен Иванович": 0,
-      "Панченко Сергей Васильевич": 0,
-      "Савченко Владимир Александрович": 1,
-      "Сергеева Людмила Леонидовна": 0,
-      "Ширшов Константин Владимирович": 8,
-      "Шишкарев Сергей Николаевич": 21,
-      "Ярышев Сергей Николаевич": 48,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000136021": 2,
+      "gas:candidate-vibid:323300770831": 0,
+      "gas:candidate-vibid:323300770995": 2,
+      "gas:candidate-vibid:1001000195050": 0,
+      "gas:candidate-vibid:323300770913": 16,
+      "gas:candidate-vibid:323300770485": 11,
+      "gas:candidate-vibid:1001000225916": 6,
+      "gas:candidate-vibid:1001000190304": 0,
+      "gas:candidate-vibid:1001000112196": 0,
+      "gas:candidate-vibid:323300770543": 1,
+      "gas:candidate-vibid:323300770399": 0,
+      "gas:candidate-vibid:1001000121818": 8,
+      "gas:candidate-vibid:1001000187996": 21,
+      "gas:candidate-vibid:323300771002": 48,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000052&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070415&region=0&sub_region=0&type=429",
@@ -13000,21 +13000,21 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беличенко Александр Сергеевич": 7,
-      "Белоглазов Павел Валерьевич": 8,
-      "Высочин Анатолий Петрович": 6,
-      "Герасимов Дмитрий Михайлович": 2,
-      "Зацепина Нина Андреевна": 16,
-      "Ковалюк Михаил Анатольевич": 8,
-      "Кочьян Илья Айкасович": 10,
-      "Кузнецов Семен Иванович": 0,
-      "Панченко Сергей Васильевич": 0,
-      "Савченко Владимир Александрович": 1,
-      "Сергеева Людмила Леонидовна": 2,
-      "Ширшов Константин Владимирович": 20,
-      "Шишкарев Сергей Николаевич": 45,
-      "Ярышев Сергей Николаевич": 13,
-      "Против всех": 27
+      "gas:candidate-vibid:1001000136021": 7,
+      "gas:candidate-vibid:323300770831": 8,
+      "gas:candidate-vibid:323300770995": 6,
+      "gas:candidate-vibid:1001000195050": 2,
+      "gas:candidate-vibid:323300770913": 16,
+      "gas:candidate-vibid:323300770485": 8,
+      "gas:candidate-vibid:1001000225916": 10,
+      "gas:candidate-vibid:1001000190304": 0,
+      "gas:candidate-vibid:1001000112196": 0,
+      "gas:candidate-vibid:323300770543": 1,
+      "gas:candidate-vibid:323300770399": 2,
+      "gas:candidate-vibid:1001000121818": 20,
+      "gas:candidate-vibid:1001000187996": 45,
+      "gas:candidate-vibid:323300771002": 13,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000052&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070415&region=0&sub_region=0&type=429",
@@ -13064,21 +13064,21 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беличенко Александр Сергеевич": 7,
-      "Белоглазов Павел Валерьевич": 10,
-      "Высочин Анатолий Петрович": 21,
-      "Герасимов Дмитрий Михайлович": 6,
-      "Зацепина Нина Андреевна": 249,
-      "Ковалюк Михаил Анатольевич": 29,
-      "Кочьян Илья Айкасович": 41,
-      "Кузнецов Семен Иванович": 3,
-      "Панченко Сергей Васильевич": 8,
-      "Савченко Владимир Александрович": 4,
-      "Сергеева Людмила Леонидовна": 10,
-      "Ширшов Константин Владимирович": 58,
-      "Шишкарев Сергей Николаевич": 131,
-      "Ярышев Сергей Николаевич": 77,
-      "Против всех": 69
+      "gas:candidate-vibid:1001000136021": 7,
+      "gas:candidate-vibid:323300770831": 10,
+      "gas:candidate-vibid:323300770995": 21,
+      "gas:candidate-vibid:1001000195050": 6,
+      "gas:candidate-vibid:323300770913": 249,
+      "gas:candidate-vibid:323300770485": 29,
+      "gas:candidate-vibid:1001000225916": 41,
+      "gas:candidate-vibid:1001000190304": 3,
+      "gas:candidate-vibid:1001000112196": 8,
+      "gas:candidate-vibid:323300770543": 4,
+      "gas:candidate-vibid:323300770399": 10,
+      "gas:candidate-vibid:1001000121818": 58,
+      "gas:candidate-vibid:1001000187996": 131,
+      "gas:candidate-vibid:323300771002": 77,
+      "special:against-all": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000052&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070415&region=0&sub_region=0&type=429",
@@ -13128,21 +13128,21 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беличенко Александр Сергеевич": 4,
-      "Белоглазов Павел Валерьевич": 1,
-      "Высочин Анатолий Петрович": 1,
-      "Герасимов Дмитрий Михайлович": 0,
-      "Зацепина Нина Андреевна": 47,
-      "Ковалюк Михаил Анатольевич": 11,
-      "Кочьян Илья Айкасович": 7,
-      "Кузнецов Семен Иванович": 0,
-      "Панченко Сергей Васильевич": 0,
-      "Савченко Владимир Александрович": 1,
-      "Сергеева Людмила Леонидовна": 10,
-      "Ширшов Константин Владимирович": 21,
-      "Шишкарев Сергей Николаевич": 39,
-      "Ярышев Сергей Николаевич": 14,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000136021": 4,
+      "gas:candidate-vibid:323300770831": 1,
+      "gas:candidate-vibid:323300770995": 1,
+      "gas:candidate-vibid:1001000195050": 0,
+      "gas:candidate-vibid:323300770913": 47,
+      "gas:candidate-vibid:323300770485": 11,
+      "gas:candidate-vibid:1001000225916": 7,
+      "gas:candidate-vibid:1001000190304": 0,
+      "gas:candidate-vibid:1001000112196": 0,
+      "gas:candidate-vibid:323300770543": 1,
+      "gas:candidate-vibid:323300770399": 10,
+      "gas:candidate-vibid:1001000121818": 21,
+      "gas:candidate-vibid:1001000187996": 39,
+      "gas:candidate-vibid:323300771002": 14,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000052&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070415&region=0&sub_region=0&type=429",
@@ -13192,21 +13192,21 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беличенко Александр Сергеевич": 25,
-      "Белоглазов Павел Валерьевич": 7,
-      "Высочин Анатолий Петрович": 45,
-      "Герасимов Дмитрий Михайлович": 3,
-      "Зацепина Нина Андреевна": 67,
-      "Ковалюк Михаил Анатольевич": 95,
-      "Кочьян Илья Айкасович": 64,
-      "Кузнецов Семен Иванович": 3,
-      "Панченко Сергей Васильевич": 17,
-      "Савченко Владимир Александрович": 6,
-      "Сергеева Людмила Леонидовна": 20,
-      "Ширшов Константин Владимирович": 139,
-      "Шишкарев Сергей Николаевич": 166,
-      "Ярышев Сергей Николаевич": 174,
-      "Против всех": 129
+      "gas:candidate-vibid:1001000136021": 25,
+      "gas:candidate-vibid:323300770831": 7,
+      "gas:candidate-vibid:323300770995": 45,
+      "gas:candidate-vibid:1001000195050": 3,
+      "gas:candidate-vibid:323300770913": 67,
+      "gas:candidate-vibid:323300770485": 95,
+      "gas:candidate-vibid:1001000225916": 64,
+      "gas:candidate-vibid:1001000190304": 3,
+      "gas:candidate-vibid:1001000112196": 17,
+      "gas:candidate-vibid:323300770543": 6,
+      "gas:candidate-vibid:323300770399": 20,
+      "gas:candidate-vibid:1001000121818": 139,
+      "gas:candidate-vibid:1001000187996": 166,
+      "gas:candidate-vibid:323300771002": 174,
+      "special:against-all": 129
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000052&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070415&region=0&sub_region=0&type=429",
@@ -13256,21 +13256,21 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беличенко Александр Сергеевич": 19,
-      "Белоглазов Павел Валерьевич": 4,
-      "Высочин Анатолий Петрович": 21,
-      "Герасимов Дмитрий Михайлович": 1,
-      "Зацепина Нина Андреевна": 65,
-      "Ковалюк Михаил Анатольевич": 66,
-      "Кочьян Илья Айкасович": 44,
-      "Кузнецов Семен Иванович": 3,
-      "Панченко Сергей Васильевич": 8,
-      "Савченко Владимир Александрович": 9,
-      "Сергеева Людмила Леонидовна": 21,
-      "Ширшов Константин Владимирович": 91,
-      "Шишкарев Сергей Николаевич": 140,
-      "Ярышев Сергей Николаевич": 139,
-      "Против всех": 87
+      "gas:candidate-vibid:1001000136021": 19,
+      "gas:candidate-vibid:323300770831": 4,
+      "gas:candidate-vibid:323300770995": 21,
+      "gas:candidate-vibid:1001000195050": 1,
+      "gas:candidate-vibid:323300770913": 65,
+      "gas:candidate-vibid:323300770485": 66,
+      "gas:candidate-vibid:1001000225916": 44,
+      "gas:candidate-vibid:1001000190304": 3,
+      "gas:candidate-vibid:1001000112196": 8,
+      "gas:candidate-vibid:323300770543": 9,
+      "gas:candidate-vibid:323300770399": 21,
+      "gas:candidate-vibid:1001000121818": 91,
+      "gas:candidate-vibid:1001000187996": 140,
+      "gas:candidate-vibid:323300771002": 139,
+      "special:against-all": 87
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000052&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070415&region=0&sub_region=0&type=429",
@@ -13320,21 +13320,21 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беличенко Александр Сергеевич": 0,
-      "Белоглазов Павел Валерьевич": 0,
-      "Высочин Анатолий Петрович": 10,
-      "Герасимов Дмитрий Михайлович": 0,
-      "Зацепина Нина Андреевна": 8,
-      "Ковалюк Михаил Анатольевич": 30,
-      "Кочьян Илья Айкасович": 2,
-      "Кузнецов Семен Иванович": 0,
-      "Панченко Сергей Васильевич": 1,
-      "Савченко Владимир Александрович": 0,
-      "Сергеева Людмила Леонидовна": 0,
-      "Ширшов Константин Владимирович": 18,
-      "Шишкарев Сергей Николаевич": 0,
-      "Ярышев Сергей Николаевич": 14,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000136021": 0,
+      "gas:candidate-vibid:323300770831": 0,
+      "gas:candidate-vibid:323300770995": 10,
+      "gas:candidate-vibid:1001000195050": 0,
+      "gas:candidate-vibid:323300770913": 8,
+      "gas:candidate-vibid:323300770485": 30,
+      "gas:candidate-vibid:1001000225916": 2,
+      "gas:candidate-vibid:1001000190304": 0,
+      "gas:candidate-vibid:1001000112196": 1,
+      "gas:candidate-vibid:323300770543": 0,
+      "gas:candidate-vibid:323300770399": 0,
+      "gas:candidate-vibid:1001000121818": 18,
+      "gas:candidate-vibid:1001000187996": 0,
+      "gas:candidate-vibid:323300771002": 14,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000052&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070415&region=0&sub_region=0&type=429",
@@ -13384,21 +13384,21 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беличенко Александр Сергеевич": 41,
-      "Белоглазов Павел Валерьевич": 41,
-      "Высочин Анатолий Петрович": 27,
-      "Герасимов Дмитрий Михайлович": 2,
-      "Зацепина Нина Андреевна": 73,
-      "Ковалюк Михаил Анатольевич": 256,
-      "Кочьян Илья Айкасович": 66,
-      "Кузнецов Семен Иванович": 3,
-      "Панченко Сергей Васильевич": 21,
-      "Савченко Владимир Александрович": 2,
-      "Сергеева Людмила Леонидовна": 14,
-      "Ширшов Константин Владимирович": 122,
-      "Шишкарев Сергей Николаевич": 250,
-      "Ярышев Сергей Николаевич": 166,
-      "Против всех": 186
+      "gas:candidate-vibid:1001000136021": 41,
+      "gas:candidate-vibid:323300770831": 41,
+      "gas:candidate-vibid:323300770995": 27,
+      "gas:candidate-vibid:1001000195050": 2,
+      "gas:candidate-vibid:323300770913": 73,
+      "gas:candidate-vibid:323300770485": 256,
+      "gas:candidate-vibid:1001000225916": 66,
+      "gas:candidate-vibid:1001000190304": 3,
+      "gas:candidate-vibid:1001000112196": 21,
+      "gas:candidate-vibid:323300770543": 2,
+      "gas:candidate-vibid:323300770399": 14,
+      "gas:candidate-vibid:1001000121818": 122,
+      "gas:candidate-vibid:1001000187996": 250,
+      "gas:candidate-vibid:323300771002": 166,
+      "special:against-all": 186
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000052&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070415&region=0&sub_region=0&type=429",
@@ -13448,21 +13448,21 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беличенко Александр Сергеевич": 31,
-      "Белоглазов Павел Валерьевич": 26,
-      "Высочин Анатолий Петрович": 33,
-      "Герасимов Дмитрий Михайлович": 0,
-      "Зацепина Нина Андреевна": 68,
-      "Ковалюк Михаил Анатольевич": 90,
-      "Кочьян Илья Айкасович": 42,
-      "Кузнецов Семен Иванович": 5,
-      "Панченко Сергей Васильевич": 17,
-      "Савченко Владимир Александрович": 5,
-      "Сергеева Людмила Леонидовна": 17,
-      "Ширшов Константин Владимирович": 111,
-      "Шишкарев Сергей Николаевич": 212,
-      "Ярышев Сергей Николаевич": 77,
-      "Против всех": 107
+      "gas:candidate-vibid:1001000136021": 31,
+      "gas:candidate-vibid:323300770831": 26,
+      "gas:candidate-vibid:323300770995": 33,
+      "gas:candidate-vibid:1001000195050": 0,
+      "gas:candidate-vibid:323300770913": 68,
+      "gas:candidate-vibid:323300770485": 90,
+      "gas:candidate-vibid:1001000225916": 42,
+      "gas:candidate-vibid:1001000190304": 5,
+      "gas:candidate-vibid:1001000112196": 17,
+      "gas:candidate-vibid:323300770543": 5,
+      "gas:candidate-vibid:323300770399": 17,
+      "gas:candidate-vibid:1001000121818": 111,
+      "gas:candidate-vibid:1001000187996": 212,
+      "gas:candidate-vibid:323300771002": 77,
+      "special:against-all": 107
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000052&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070415&region=0&sub_region=0&type=429",
@@ -13512,21 +13512,21 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беличенко Александр Сергеевич": 31,
-      "Белоглазов Павел Валерьевич": 50,
-      "Высочин Анатолий Петрович": 31,
-      "Герасимов Дмитрий Михайлович": 2,
-      "Зацепина Нина Андреевна": 77,
-      "Ковалюк Михаил Анатольевич": 69,
-      "Кочьян Илья Айкасович": 41,
-      "Кузнецов Семен Иванович": 5,
-      "Панченко Сергей Васильевич": 11,
-      "Савченко Владимир Александрович": 8,
-      "Сергеева Людмила Леонидовна": 6,
-      "Ширшов Константин Владимирович": 110,
-      "Шишкарев Сергей Николаевич": 195,
-      "Ярышев Сергей Николаевич": 101,
-      "Против всех": 112
+      "gas:candidate-vibid:1001000136021": 31,
+      "gas:candidate-vibid:323300770831": 50,
+      "gas:candidate-vibid:323300770995": 31,
+      "gas:candidate-vibid:1001000195050": 2,
+      "gas:candidate-vibid:323300770913": 77,
+      "gas:candidate-vibid:323300770485": 69,
+      "gas:candidate-vibid:1001000225916": 41,
+      "gas:candidate-vibid:1001000190304": 5,
+      "gas:candidate-vibid:1001000112196": 11,
+      "gas:candidate-vibid:323300770543": 8,
+      "gas:candidate-vibid:323300770399": 6,
+      "gas:candidate-vibid:1001000121818": 110,
+      "gas:candidate-vibid:1001000187996": 195,
+      "gas:candidate-vibid:323300771002": 101,
+      "special:against-all": 112
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000052&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070415&region=0&sub_region=0&type=429",
@@ -13576,21 +13576,21 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беличенко Александр Сергеевич": 45,
-      "Белоглазов Павел Валерьевич": 49,
-      "Высочин Анатолий Петрович": 33,
-      "Герасимов Дмитрий Михайлович": 6,
-      "Зацепина Нина Андреевна": 98,
-      "Ковалюк Михаил Анатольевич": 118,
-      "Кочьян Илья Айкасович": 79,
-      "Кузнецов Семен Иванович": 5,
-      "Панченко Сергей Васильевич": 16,
-      "Савченко Владимир Александрович": 8,
-      "Сергеева Людмила Леонидовна": 11,
-      "Ширшов Константин Владимирович": 118,
-      "Шишкарев Сергей Николаевич": 190,
-      "Ярышев Сергей Николаевич": 87,
-      "Против всех": 135
+      "gas:candidate-vibid:1001000136021": 45,
+      "gas:candidate-vibid:323300770831": 49,
+      "gas:candidate-vibid:323300770995": 33,
+      "gas:candidate-vibid:1001000195050": 6,
+      "gas:candidate-vibid:323300770913": 98,
+      "gas:candidate-vibid:323300770485": 118,
+      "gas:candidate-vibid:1001000225916": 79,
+      "gas:candidate-vibid:1001000190304": 5,
+      "gas:candidate-vibid:1001000112196": 16,
+      "gas:candidate-vibid:323300770543": 8,
+      "gas:candidate-vibid:323300770399": 11,
+      "gas:candidate-vibid:1001000121818": 118,
+      "gas:candidate-vibid:1001000187996": 190,
+      "gas:candidate-vibid:323300771002": 87,
+      "special:against-all": 135
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000052&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070415&region=0&sub_region=0&type=429",
@@ -13640,21 +13640,21 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беличенко Александр Сергеевич": 53,
-      "Белоглазов Павел Валерьевич": 56,
-      "Высочин Анатолий Петрович": 24,
-      "Герасимов Дмитрий Михайлович": 8,
-      "Зацепина Нина Андреевна": 119,
-      "Ковалюк Михаил Анатольевич": 172,
-      "Кочьян Илья Айкасович": 82,
-      "Кузнецов Семен Иванович": 10,
-      "Панченко Сергей Васильевич": 21,
-      "Савченко Владимир Александрович": 8,
-      "Сергеева Людмила Леонидовна": 9,
-      "Ширшов Константин Владимирович": 142,
-      "Шишкарев Сергей Николаевич": 263,
-      "Ярышев Сергей Николаевич": 76,
-      "Против всех": 210
+      "gas:candidate-vibid:1001000136021": 53,
+      "gas:candidate-vibid:323300770831": 56,
+      "gas:candidate-vibid:323300770995": 24,
+      "gas:candidate-vibid:1001000195050": 8,
+      "gas:candidate-vibid:323300770913": 119,
+      "gas:candidate-vibid:323300770485": 172,
+      "gas:candidate-vibid:1001000225916": 82,
+      "gas:candidate-vibid:1001000190304": 10,
+      "gas:candidate-vibid:1001000112196": 21,
+      "gas:candidate-vibid:323300770543": 8,
+      "gas:candidate-vibid:323300770399": 9,
+      "gas:candidate-vibid:1001000121818": 142,
+      "gas:candidate-vibid:1001000187996": 263,
+      "gas:candidate-vibid:323300771002": 76,
+      "special:against-all": 210
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000052&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070415&region=0&sub_region=0&type=429",
@@ -13704,21 +13704,21 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беличенко Александр Сергеевич": 45,
-      "Белоглазов Павел Валерьевич": 76,
-      "Высочин Анатолий Петрович": 51,
-      "Герасимов Дмитрий Михайлович": 5,
-      "Зацепина Нина Андреевна": 103,
-      "Ковалюк Михаил Анатольевич": 125,
-      "Кочьян Илья Айкасович": 100,
-      "Кузнецов Семен Иванович": 3,
-      "Панченко Сергей Васильевич": 18,
-      "Савченко Владимир Александрович": 8,
-      "Сергеева Людмила Леонидовна": 13,
-      "Ширшов Константин Владимирович": 151,
-      "Шишкарев Сергей Николаевич": 202,
-      "Ярышев Сергей Николаевич": 73,
-      "Против всех": 199
+      "gas:candidate-vibid:1001000136021": 45,
+      "gas:candidate-vibid:323300770831": 76,
+      "gas:candidate-vibid:323300770995": 51,
+      "gas:candidate-vibid:1001000195050": 5,
+      "gas:candidate-vibid:323300770913": 103,
+      "gas:candidate-vibid:323300770485": 125,
+      "gas:candidate-vibid:1001000225916": 100,
+      "gas:candidate-vibid:1001000190304": 3,
+      "gas:candidate-vibid:1001000112196": 18,
+      "gas:candidate-vibid:323300770543": 8,
+      "gas:candidate-vibid:323300770399": 13,
+      "gas:candidate-vibid:1001000121818": 151,
+      "gas:candidate-vibid:1001000187996": 202,
+      "gas:candidate-vibid:323300771002": 73,
+      "special:against-all": 199
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000052&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070415&region=0&sub_region=0&type=429",
@@ -13768,21 +13768,21 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беличенко Александр Сергеевич": 41,
-      "Белоглазов Павел Валерьевич": 44,
-      "Высочин Анатолий Петрович": 24,
-      "Герасимов Дмитрий Михайлович": 3,
-      "Зацепина Нина Андреевна": 97,
-      "Ковалюк Михаил Анатольевич": 55,
-      "Кочьян Илья Айкасович": 79,
-      "Кузнецов Семен Иванович": 3,
-      "Панченко Сергей Васильевич": 10,
-      "Савченко Владимир Александрович": 10,
-      "Сергеева Людмила Леонидовна": 15,
-      "Ширшов Константин Владимирович": 77,
-      "Шишкарев Сергей Николаевич": 185,
-      "Ярышев Сергей Николаевич": 197,
-      "Против всех": 209
+      "gas:candidate-vibid:1001000136021": 41,
+      "gas:candidate-vibid:323300770831": 44,
+      "gas:candidate-vibid:323300770995": 24,
+      "gas:candidate-vibid:1001000195050": 3,
+      "gas:candidate-vibid:323300770913": 97,
+      "gas:candidate-vibid:323300770485": 55,
+      "gas:candidate-vibid:1001000225916": 79,
+      "gas:candidate-vibid:1001000190304": 3,
+      "gas:candidate-vibid:1001000112196": 10,
+      "gas:candidate-vibid:323300770543": 10,
+      "gas:candidate-vibid:323300770399": 15,
+      "gas:candidate-vibid:1001000121818": 77,
+      "gas:candidate-vibid:1001000187996": 185,
+      "gas:candidate-vibid:323300771002": 197,
+      "special:against-all": 209
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000052&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070415&region=0&sub_region=0&type=429",
@@ -13832,21 +13832,21 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беличенко Александр Сергеевич": 53,
-      "Белоглазов Павел Валерьевич": 94,
-      "Высочин Анатолий Петрович": 36,
-      "Герасимов Дмитрий Михайлович": 3,
-      "Зацепина Нина Андреевна": 138,
-      "Ковалюк Михаил Анатольевич": 79,
-      "Кочьян Илья Айкасович": 56,
-      "Кузнецов Семен Иванович": 2,
-      "Панченко Сергей Васильевич": 12,
-      "Савченко Владимир Александрович": 8,
-      "Сергеева Людмила Леонидовна": 17,
-      "Ширшов Константин Владимирович": 136,
-      "Шишкарев Сергей Николаевич": 269,
-      "Ярышев Сергей Николаевич": 106,
-      "Против всех": 191
+      "gas:candidate-vibid:1001000136021": 53,
+      "gas:candidate-vibid:323300770831": 94,
+      "gas:candidate-vibid:323300770995": 36,
+      "gas:candidate-vibid:1001000195050": 3,
+      "gas:candidate-vibid:323300770913": 138,
+      "gas:candidate-vibid:323300770485": 79,
+      "gas:candidate-vibid:1001000225916": 56,
+      "gas:candidate-vibid:1001000190304": 2,
+      "gas:candidate-vibid:1001000112196": 12,
+      "gas:candidate-vibid:323300770543": 8,
+      "gas:candidate-vibid:323300770399": 17,
+      "gas:candidate-vibid:1001000121818": 136,
+      "gas:candidate-vibid:1001000187996": 269,
+      "gas:candidate-vibid:323300771002": 106,
+      "special:against-all": 191
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000052&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070415&region=0&sub_region=0&type=429",
@@ -13896,21 +13896,21 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беличенко Александр Сергеевич": 9,
-      "Белоглазов Павел Валерьевич": 4,
-      "Высочин Анатолий Петрович": 2,
-      "Герасимов Дмитрий Михайлович": 0,
-      "Зацепина Нина Андреевна": 8,
-      "Ковалюк Михаил Анатольевич": 35,
-      "Кочьян Илья Айкасович": 9,
-      "Кузнецов Семен Иванович": 0,
-      "Панченко Сергей Васильевич": 0,
-      "Савченко Владимир Александрович": 0,
-      "Сергеева Людмила Леонидовна": 1,
-      "Ширшов Константин Владимирович": 8,
-      "Шишкарев Сергей Николаевич": 10,
-      "Ярышев Сергей Николаевич": 23,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000136021": 9,
+      "gas:candidate-vibid:323300770831": 4,
+      "gas:candidate-vibid:323300770995": 2,
+      "gas:candidate-vibid:1001000195050": 0,
+      "gas:candidate-vibid:323300770913": 8,
+      "gas:candidate-vibid:323300770485": 35,
+      "gas:candidate-vibid:1001000225916": 9,
+      "gas:candidate-vibid:1001000190304": 0,
+      "gas:candidate-vibid:1001000112196": 0,
+      "gas:candidate-vibid:323300770543": 0,
+      "gas:candidate-vibid:323300770399": 1,
+      "gas:candidate-vibid:1001000121818": 8,
+      "gas:candidate-vibid:1001000187996": 10,
+      "gas:candidate-vibid:323300771002": 23,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000052&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070415&region=0&sub_region=0&type=429",
@@ -13960,21 +13960,21 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беличенко Александр Сергеевич": 47,
-      "Белоглазов Павел Валерьевич": 20,
-      "Высочин Анатолий Петрович": 45,
-      "Герасимов Дмитрий Михайлович": 1,
-      "Зацепина Нина Андреевна": 460,
-      "Ковалюк Михаил Анатольевич": 140,
-      "Кочьян Илья Айкасович": 112,
-      "Кузнецов Семен Иванович": 7,
-      "Панченко Сергей Васильевич": 23,
-      "Савченко Владимир Александрович": 3,
-      "Сергеева Людмила Леонидовна": 14,
-      "Ширшов Константин Владимирович": 77,
-      "Шишкарев Сергей Николаевич": 256,
-      "Ярышев Сергей Николаевич": 143,
-      "Против всех": 176
+      "gas:candidate-vibid:1001000136021": 47,
+      "gas:candidate-vibid:323300770831": 20,
+      "gas:candidate-vibid:323300770995": 45,
+      "gas:candidate-vibid:1001000195050": 1,
+      "gas:candidate-vibid:323300770913": 460,
+      "gas:candidate-vibid:323300770485": 140,
+      "gas:candidate-vibid:1001000225916": 112,
+      "gas:candidate-vibid:1001000190304": 7,
+      "gas:candidate-vibid:1001000112196": 23,
+      "gas:candidate-vibid:323300770543": 3,
+      "gas:candidate-vibid:323300770399": 14,
+      "gas:candidate-vibid:1001000121818": 77,
+      "gas:candidate-vibid:1001000187996": 256,
+      "gas:candidate-vibid:323300771002": 143,
+      "special:against-all": 176
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000052&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070415&region=0&sub_region=0&type=429",
@@ -14024,21 +14024,21 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беличенко Александр Сергеевич": 26,
-      "Белоглазов Павел Валерьевич": 13,
-      "Высочин Анатолий Петрович": 32,
-      "Герасимов Дмитрий Михайлович": 5,
-      "Зацепина Нина Андреевна": 139,
-      "Ковалюк Михаил Анатольевич": 151,
-      "Кочьян Илья Айкасович": 46,
-      "Кузнецов Семен Иванович": 5,
-      "Панченко Сергей Васильевич": 14,
-      "Савченко Владимир Александрович": 8,
-      "Сергеева Людмила Леонидовна": 18,
-      "Ширшов Константин Владимирович": 85,
-      "Шишкарев Сергей Николаевич": 203,
-      "Ярышев Сергей Николаевич": 179,
-      "Против всех": 133
+      "gas:candidate-vibid:1001000136021": 26,
+      "gas:candidate-vibid:323300770831": 13,
+      "gas:candidate-vibid:323300770995": 32,
+      "gas:candidate-vibid:1001000195050": 5,
+      "gas:candidate-vibid:323300770913": 139,
+      "gas:candidate-vibid:323300770485": 151,
+      "gas:candidate-vibid:1001000225916": 46,
+      "gas:candidate-vibid:1001000190304": 5,
+      "gas:candidate-vibid:1001000112196": 14,
+      "gas:candidate-vibid:323300770543": 8,
+      "gas:candidate-vibid:323300770399": 18,
+      "gas:candidate-vibid:1001000121818": 85,
+      "gas:candidate-vibid:1001000187996": 203,
+      "gas:candidate-vibid:323300771002": 179,
+      "special:against-all": 133
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000052&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070415&region=0&sub_region=0&type=429",
@@ -14088,21 +14088,21 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беличенко Александр Сергеевич": 3,
-      "Белоглазов Павел Валерьевич": 27,
-      "Высочин Анатолий Петрович": 10,
-      "Герасимов Дмитрий Михайлович": 0,
-      "Зацепина Нина Андреевна": 20,
-      "Ковалюк Михаил Анатольевич": 52,
-      "Кочьян Илья Айкасович": 20,
-      "Кузнецов Семен Иванович": 4,
-      "Панченко Сергей Васильевич": 1,
-      "Савченко Владимир Александрович": 2,
-      "Сергеева Людмила Леонидовна": 0,
-      "Ширшов Константин Владимирович": 28,
-      "Шишкарев Сергей Николаевич": 22,
-      "Ярышев Сергей Николаевич": 134,
-      "Против всех": 30
+      "gas:candidate-vibid:1001000136021": 3,
+      "gas:candidate-vibid:323300770831": 27,
+      "gas:candidate-vibid:323300770995": 10,
+      "gas:candidate-vibid:1001000195050": 0,
+      "gas:candidate-vibid:323300770913": 20,
+      "gas:candidate-vibid:323300770485": 52,
+      "gas:candidate-vibid:1001000225916": 20,
+      "gas:candidate-vibid:1001000190304": 4,
+      "gas:candidate-vibid:1001000112196": 1,
+      "gas:candidate-vibid:323300770543": 2,
+      "gas:candidate-vibid:323300770399": 0,
+      "gas:candidate-vibid:1001000121818": 28,
+      "gas:candidate-vibid:1001000187996": 22,
+      "gas:candidate-vibid:323300771002": 134,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000052&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070415&region=0&sub_region=0&type=429",
@@ -14152,21 +14152,21 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беличенко Александр Сергеевич": 0,
-      "Белоглазов Павел Валерьевич": 0,
-      "Высочин Анатолий Петрович": 1,
-      "Герасимов Дмитрий Михайлович": 1,
-      "Зацепина Нина Андреевна": 13,
-      "Ковалюк Михаил Анатольевич": 21,
-      "Кочьян Илья Айкасович": 3,
-      "Кузнецов Семен Иванович": 0,
-      "Панченко Сергей Васильевич": 3,
-      "Савченко Владимир Александрович": 0,
-      "Сергеева Людмила Леонидовна": 1,
-      "Ширшов Константин Владимирович": 23,
-      "Шишкарев Сергей Николаевич": 9,
-      "Ярышев Сергей Николаевич": 3,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000136021": 0,
+      "gas:candidate-vibid:323300770831": 0,
+      "gas:candidate-vibid:323300770995": 1,
+      "gas:candidate-vibid:1001000195050": 1,
+      "gas:candidate-vibid:323300770913": 13,
+      "gas:candidate-vibid:323300770485": 21,
+      "gas:candidate-vibid:1001000225916": 3,
+      "gas:candidate-vibid:1001000190304": 0,
+      "gas:candidate-vibid:1001000112196": 3,
+      "gas:candidate-vibid:323300770543": 0,
+      "gas:candidate-vibid:323300770399": 1,
+      "gas:candidate-vibid:1001000121818": 23,
+      "gas:candidate-vibid:1001000187996": 9,
+      "gas:candidate-vibid:323300771002": 3,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000052&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070415&region=0&sub_region=0&type=429",
@@ -14216,21 +14216,21 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беличенко Александр Сергеевич": 16,
-      "Белоглазов Павел Валерьевич": 14,
-      "Высочин Анатолий Петрович": 14,
-      "Герасимов Дмитрий Михайлович": 4,
-      "Зацепина Нина Андреевна": 62,
-      "Ковалюк Михаил Анатольевич": 85,
-      "Кочьян Илья Айкасович": 24,
-      "Кузнецов Семен Иванович": 3,
-      "Панченко Сергей Васильевич": 10,
-      "Савченко Владимир Александрович": 3,
-      "Сергеева Людмила Леонидовна": 6,
-      "Ширшов Константин Владимирович": 33,
-      "Шишкарев Сергей Николаевич": 86,
-      "Ярышев Сергей Николаевич": 72,
-      "Против всех": 92
+      "gas:candidate-vibid:1001000136021": 16,
+      "gas:candidate-vibid:323300770831": 14,
+      "gas:candidate-vibid:323300770995": 14,
+      "gas:candidate-vibid:1001000195050": 4,
+      "gas:candidate-vibid:323300770913": 62,
+      "gas:candidate-vibid:323300770485": 85,
+      "gas:candidate-vibid:1001000225916": 24,
+      "gas:candidate-vibid:1001000190304": 3,
+      "gas:candidate-vibid:1001000112196": 10,
+      "gas:candidate-vibid:323300770543": 3,
+      "gas:candidate-vibid:323300770399": 6,
+      "gas:candidate-vibid:1001000121818": 33,
+      "gas:candidate-vibid:1001000187996": 86,
+      "gas:candidate-vibid:323300771002": 72,
+      "special:against-all": 92
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000052&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070415&region=0&sub_region=0&type=429",
@@ -14280,21 +14280,21 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беличенко Александр Сергеевич": 36,
-      "Белоглазов Павел Валерьевич": 25,
-      "Высочин Анатолий Петрович": 34,
-      "Герасимов Дмитрий Михайлович": 2,
-      "Зацепина Нина Андреевна": 46,
-      "Ковалюк Михаил Анатольевич": 55,
-      "Кочьян Илья Айкасович": 81,
-      "Кузнецов Семен Иванович": 7,
-      "Панченко Сергей Васильевич": 15,
-      "Савченко Владимир Александрович": 3,
-      "Сергеева Людмила Леонидовна": 10,
-      "Ширшов Константин Владимирович": 147,
-      "Шишкарев Сергей Николаевич": 148,
-      "Ярышев Сергей Николаевич": 127,
-      "Против всех": 131
+      "gas:candidate-vibid:1001000136021": 36,
+      "gas:candidate-vibid:323300770831": 25,
+      "gas:candidate-vibid:323300770995": 34,
+      "gas:candidate-vibid:1001000195050": 2,
+      "gas:candidate-vibid:323300770913": 46,
+      "gas:candidate-vibid:323300770485": 55,
+      "gas:candidate-vibid:1001000225916": 81,
+      "gas:candidate-vibid:1001000190304": 7,
+      "gas:candidate-vibid:1001000112196": 15,
+      "gas:candidate-vibid:323300770543": 3,
+      "gas:candidate-vibid:323300770399": 10,
+      "gas:candidate-vibid:1001000121818": 147,
+      "gas:candidate-vibid:1001000187996": 148,
+      "gas:candidate-vibid:323300771002": 127,
+      "special:against-all": 131
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000052&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070415&region=0&sub_region=0&type=429",
@@ -14344,21 +14344,21 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беличенко Александр Сергеевич": 44,
-      "Белоглазов Павел Валерьевич": 12,
-      "Высочин Анатолий Петрович": 39,
-      "Герасимов Дмитрий Михайлович": 6,
-      "Зацепина Нина Андреевна": 36,
-      "Ковалюк Михаил Анатольевич": 41,
-      "Кочьян Илья Айкасович": 80,
-      "Кузнецов Семен Иванович": 7,
-      "Панченко Сергей Васильевич": 15,
-      "Савченко Владимир Александрович": 6,
-      "Сергеева Людмила Леонидовна": 8,
-      "Ширшов Константин Владимирович": 163,
-      "Шишкарев Сергей Николаевич": 225,
-      "Ярышев Сергей Николаевич": 94,
-      "Против всех": 170
+      "gas:candidate-vibid:1001000136021": 44,
+      "gas:candidate-vibid:323300770831": 12,
+      "gas:candidate-vibid:323300770995": 39,
+      "gas:candidate-vibid:1001000195050": 6,
+      "gas:candidate-vibid:323300770913": 36,
+      "gas:candidate-vibid:323300770485": 41,
+      "gas:candidate-vibid:1001000225916": 80,
+      "gas:candidate-vibid:1001000190304": 7,
+      "gas:candidate-vibid:1001000112196": 15,
+      "gas:candidate-vibid:323300770543": 6,
+      "gas:candidate-vibid:323300770399": 8,
+      "gas:candidate-vibid:1001000121818": 163,
+      "gas:candidate-vibid:1001000187996": 225,
+      "gas:candidate-vibid:323300771002": 94,
+      "special:against-all": 170
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000052&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070415&region=0&sub_region=0&type=429",
@@ -14408,21 +14408,21 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беличенко Александр Сергеевич": 30,
-      "Белоглазов Павел Валерьевич": 15,
-      "Высочин Анатолий Петрович": 46,
-      "Герасимов Дмитрий Михайлович": 5,
-      "Зацепина Нина Андреевна": 49,
-      "Ковалюк Михаил Анатольевич": 42,
-      "Кочьян Илья Айкасович": 48,
-      "Кузнецов Семен Иванович": 8,
-      "Панченко Сергей Васильевич": 17,
-      "Савченко Владимир Александрович": 3,
-      "Сергеева Людмила Леонидовна": 3,
-      "Ширшов Константин Владимирович": 133,
-      "Шишкарев Сергей Николаевич": 161,
-      "Ярышев Сергей Николаевич": 166,
-      "Против всех": 175
+      "gas:candidate-vibid:1001000136021": 30,
+      "gas:candidate-vibid:323300770831": 15,
+      "gas:candidate-vibid:323300770995": 46,
+      "gas:candidate-vibid:1001000195050": 5,
+      "gas:candidate-vibid:323300770913": 49,
+      "gas:candidate-vibid:323300770485": 42,
+      "gas:candidate-vibid:1001000225916": 48,
+      "gas:candidate-vibid:1001000190304": 8,
+      "gas:candidate-vibid:1001000112196": 17,
+      "gas:candidate-vibid:323300770543": 3,
+      "gas:candidate-vibid:323300770399": 3,
+      "gas:candidate-vibid:1001000121818": 133,
+      "gas:candidate-vibid:1001000187996": 161,
+      "gas:candidate-vibid:323300771002": 166,
+      "special:against-all": 175
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000052&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070415&region=0&sub_region=0&type=429",
@@ -14472,21 +14472,21 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беличенко Александр Сергеевич": 8,
-      "Белоглазов Павел Валерьевич": 8,
-      "Высочин Анатолий Петрович": 1,
-      "Герасимов Дмитрий Михайлович": 0,
-      "Зацепина Нина Андреевна": 3,
-      "Ковалюк Михаил Анатольевич": 21,
-      "Кочьян Илья Айкасович": 12,
-      "Кузнецов Семен Иванович": 2,
-      "Панченко Сергей Васильевич": 2,
-      "Савченко Владимир Александрович": 0,
-      "Сергеева Людмила Леонидовна": 2,
-      "Ширшов Константин Владимирович": 12,
-      "Шишкарев Сергей Николаевич": 52,
-      "Ярышев Сергей Николаевич": 63,
-      "Против всех": 27
+      "gas:candidate-vibid:1001000136021": 8,
+      "gas:candidate-vibid:323300770831": 8,
+      "gas:candidate-vibid:323300770995": 1,
+      "gas:candidate-vibid:1001000195050": 0,
+      "gas:candidate-vibid:323300770913": 3,
+      "gas:candidate-vibid:323300770485": 21,
+      "gas:candidate-vibid:1001000225916": 12,
+      "gas:candidate-vibid:1001000190304": 2,
+      "gas:candidate-vibid:1001000112196": 2,
+      "gas:candidate-vibid:323300770543": 0,
+      "gas:candidate-vibid:323300770399": 2,
+      "gas:candidate-vibid:1001000121818": 12,
+      "gas:candidate-vibid:1001000187996": 52,
+      "gas:candidate-vibid:323300771002": 63,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000052&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070415&region=0&sub_region=0&type=429",
@@ -14536,21 +14536,21 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беличенко Александр Сергеевич": 38,
-      "Белоглазов Павел Валерьевич": 4,
-      "Высочин Анатолий Петрович": 26,
-      "Герасимов Дмитрий Михайлович": 2,
-      "Зацепина Нина Андреевна": 49,
-      "Ковалюк Михаил Анатольевич": 49,
-      "Кочьян Илья Айкасович": 37,
-      "Кузнецов Семен Иванович": 5,
-      "Панченко Сергей Васильевич": 3,
-      "Савченко Владимир Александрович": 4,
-      "Сергеева Людмила Леонидовна": 15,
-      "Ширшов Константин Владимирович": 106,
-      "Шишкарев Сергей Николаевич": 125,
-      "Ярышев Сергей Николаевич": 314,
-      "Против всех": 153
+      "gas:candidate-vibid:1001000136021": 38,
+      "gas:candidate-vibid:323300770831": 4,
+      "gas:candidate-vibid:323300770995": 26,
+      "gas:candidate-vibid:1001000195050": 2,
+      "gas:candidate-vibid:323300770913": 49,
+      "gas:candidate-vibid:323300770485": 49,
+      "gas:candidate-vibid:1001000225916": 37,
+      "gas:candidate-vibid:1001000190304": 5,
+      "gas:candidate-vibid:1001000112196": 3,
+      "gas:candidate-vibid:323300770543": 4,
+      "gas:candidate-vibid:323300770399": 15,
+      "gas:candidate-vibid:1001000121818": 106,
+      "gas:candidate-vibid:1001000187996": 125,
+      "gas:candidate-vibid:323300771002": 314,
+      "special:against-all": 153
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000052&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070415&region=0&sub_region=0&type=429",
@@ -14600,21 +14600,21 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беличенко Александр Сергеевич": 23,
-      "Белоглазов Павел Валерьевич": 25,
-      "Высочин Анатолий Петрович": 32,
-      "Герасимов Дмитрий Михайлович": 6,
-      "Зацепина Нина Андреевна": 32,
-      "Ковалюк Михаил Анатольевич": 46,
-      "Кочьян Илья Айкасович": 70,
-      "Кузнецов Семен Иванович": 3,
-      "Панченко Сергей Васильевич": 13,
-      "Савченко Владимир Александрович": 3,
-      "Сергеева Людмила Леонидовна": 9,
-      "Ширшов Константин Владимирович": 167,
-      "Шишкарев Сергей Николаевич": 179,
-      "Ярышев Сергей Николаевич": 132,
-      "Против всех": 149
+      "gas:candidate-vibid:1001000136021": 23,
+      "gas:candidate-vibid:323300770831": 25,
+      "gas:candidate-vibid:323300770995": 32,
+      "gas:candidate-vibid:1001000195050": 6,
+      "gas:candidate-vibid:323300770913": 32,
+      "gas:candidate-vibid:323300770485": 46,
+      "gas:candidate-vibid:1001000225916": 70,
+      "gas:candidate-vibid:1001000190304": 3,
+      "gas:candidate-vibid:1001000112196": 13,
+      "gas:candidate-vibid:323300770543": 3,
+      "gas:candidate-vibid:323300770399": 9,
+      "gas:candidate-vibid:1001000121818": 167,
+      "gas:candidate-vibid:1001000187996": 179,
+      "gas:candidate-vibid:323300771002": 132,
+      "special:against-all": 149
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000052&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070415&region=0&sub_region=0&type=429",
@@ -14664,21 +14664,21 @@ export const duma_2003_uik_428_region_23_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беличенко Александр Сергеевич": 14,
-      "Белоглазов Павел Валерьевич": 11,
-      "Высочин Анатолий Петрович": 2,
-      "Герасимов Дмитрий Михайлович": 3,
-      "Зацепина Нина Андреевна": 42,
-      "Ковалюк Михаил Анатольевич": 8,
-      "Кочьян Илья Айкасович": 3,
-      "Кузнецов Семен Иванович": 0,
-      "Панченко Сергей Васильевич": 3,
-      "Савченко Владимир Александрович": 0,
-      "Сергеева Людмила Леонидовна": 7,
-      "Ширшов Константин Владимирович": 24,
-      "Шишкарев Сергей Николаевич": 23,
-      "Ярышев Сергей Николаевич": 23,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000136021": 14,
+      "gas:candidate-vibid:323300770831": 11,
+      "gas:candidate-vibid:323300770995": 2,
+      "gas:candidate-vibid:1001000195050": 3,
+      "gas:candidate-vibid:323300770913": 42,
+      "gas:candidate-vibid:323300770485": 8,
+      "gas:candidate-vibid:1001000225916": 3,
+      "gas:candidate-vibid:1001000190304": 0,
+      "gas:candidate-vibid:1001000112196": 3,
+      "gas:candidate-vibid:323300770543": 0,
+      "gas:candidate-vibid:323300770399": 7,
+      "gas:candidate-vibid:1001000121818": 24,
+      "gas:candidate-vibid:1001000187996": 23,
+      "gas:candidate-vibid:323300771002": 23,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000052&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070415&region=0&sub_region=0&type=429",

@@ -11,8 +11,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 247,
     "uikTvd": "4014008210007",
+    "uikName": "УИК №247",
     "tikTvd": "2012000461465",
     "tikName": "Шовгеновская",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 431,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 457,
@@ -28,12 +32,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 26,
-      "Гукасян Сергей Георгиевич": 10,
-      "Михайлов Андрей Павлович": 6,
-      "Резник Владислав Матусович": 367,
-      "Салов Евгений Иванович": 14,
-      "Цикуниб Русланбек Джахфарович": 8
+      "2012000469784": 26,
+      "2012000472636": 10,
+      "2012000466170": 6,
+      "2012000464062": 367,
+      "2012000470491": 14,
+      "2012000474339": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461465&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461465&type=464",
@@ -43,6 +47,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:42:30.875999+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461465&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461465&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -52,8 +60,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 248,
     "uikTvd": "4014008210008",
+    "uikName": "УИК №248",
     "tikTvd": "2012000461465",
     "tikName": "Шовгеновская",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 725,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 725,
@@ -69,12 +81,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 60,
-      "Гукасян Сергей Георгиевич": 3,
-      "Михайлов Андрей Павлович": 5,
-      "Резник Владислав Матусович": 590,
-      "Салов Евгений Иванович": 30,
-      "Цикуниб Русланбек Джахфарович": 1
+      "2012000469784": 60,
+      "2012000472636": 3,
+      "2012000466170": 5,
+      "2012000464062": 590,
+      "2012000470491": 30,
+      "2012000474339": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461465&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461465&type=464",
@@ -84,6 +96,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:42:30.875999+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461465&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461465&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -93,8 +109,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 249,
     "uikTvd": "4014008210009",
+    "uikName": "УИК №249",
     "tikTvd": "2012000461465",
     "tikName": "Шовгеновская",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 319,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 349,
@@ -110,12 +130,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 5,
-      "Гукасян Сергей Георгиевич": 4,
-      "Михайлов Андрей Павлович": 7,
-      "Резник Владислав Матусович": 276,
-      "Салов Евгений Иванович": 9,
-      "Цикуниб Русланбек Джахфарович": 3
+      "2012000469784": 5,
+      "2012000472636": 4,
+      "2012000466170": 7,
+      "2012000464062": 276,
+      "2012000470491": 9,
+      "2012000474339": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461465&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461465&type=464",
@@ -125,6 +145,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:42:30.875999+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461465&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461465&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -134,8 +158,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 250,
     "uikTvd": "4014008210010",
+    "uikName": "УИК №250",
     "tikTvd": "2012000461465",
     "tikName": "Шовгеновская",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 831,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 842,
@@ -151,12 +179,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 57,
-      "Гукасян Сергей Георгиевич": 30,
-      "Михайлов Андрей Павлович": 14,
-      "Резник Владислав Матусович": 644,
-      "Салов Евгений Иванович": 40,
-      "Цикуниб Русланбек Джахфарович": 6
+      "2012000469784": 57,
+      "2012000472636": 30,
+      "2012000466170": 14,
+      "2012000464062": 644,
+      "2012000470491": 40,
+      "2012000474339": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461465&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461465&type=464",
@@ -166,6 +194,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:42:30.875999+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461465&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461465&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -175,8 +207,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 251,
     "uikTvd": "4014008210011",
+    "uikName": "УИК №251",
     "tikTvd": "2012000461465",
     "tikName": "Шовгеновская",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 674,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 694,
@@ -192,12 +228,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 30,
-      "Гукасян Сергей Георгиевич": 36,
-      "Михайлов Андрей Павлович": 37,
-      "Резник Владислав Матусович": 456,
-      "Салов Евгений Иванович": 74,
-      "Цикуниб Русланбек Джахфарович": 6
+      "2012000469784": 30,
+      "2012000472636": 36,
+      "2012000466170": 37,
+      "2012000464062": 456,
+      "2012000470491": 74,
+      "2012000474339": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461465&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461465&type=464",
@@ -207,6 +243,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:42:30.875999+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461465&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461465&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -216,8 +256,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 252,
     "uikTvd": "4014008210012",
+    "uikName": "УИК №252",
     "tikTvd": "2012000461465",
     "tikName": "Шовгеновская",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 316,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 317,
@@ -233,12 +277,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 6,
-      "Гукасян Сергей Георгиевич": 10,
-      "Михайлов Андрей Павлович": 8,
-      "Резник Владислав Матусович": 258,
-      "Салов Евгений Иванович": 13,
-      "Цикуниб Русланбек Джахфарович": 3
+      "2012000469784": 6,
+      "2012000472636": 10,
+      "2012000466170": 8,
+      "2012000464062": 258,
+      "2012000470491": 13,
+      "2012000474339": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461465&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461465&type=464",
@@ -248,6 +292,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:42:30.875999+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461465&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461465&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -257,8 +305,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 253,
     "uikTvd": "4014008210013",
+    "uikName": "УИК №253",
     "tikTvd": "2012000461465",
     "tikName": "Шовгеновская",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 753,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 767,
@@ -274,12 +326,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 0,
-      "Гукасян Сергей Георгиевич": 18,
-      "Михайлов Андрей Павлович": 15,
-      "Резник Владислав Матусович": 609,
-      "Салов Евгений Иванович": 38,
-      "Цикуниб Русланбек Джахфарович": 32
+      "2012000469784": 0,
+      "2012000472636": 18,
+      "2012000466170": 15,
+      "2012000464062": 609,
+      "2012000470491": 38,
+      "2012000474339": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461465&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461465&type=464",
@@ -289,6 +341,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:42:30.875999+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461465&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461465&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -298,8 +354,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 254,
     "uikTvd": "4014008210014",
+    "uikName": "УИК №254",
     "tikTvd": "2012000461465",
     "tikName": "Шовгеновская",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 226,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 245,
@@ -315,12 +375,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 8,
-      "Гукасян Сергей Георгиевич": 2,
-      "Михайлов Андрей Павлович": 4,
-      "Резник Владислав Матусович": 177,
-      "Салов Евгений Иванович": 15,
-      "Цикуниб Русланбек Джахфарович": 2
+      "2012000469784": 8,
+      "2012000472636": 2,
+      "2012000466170": 4,
+      "2012000464062": 177,
+      "2012000470491": 15,
+      "2012000474339": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461465&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461465&type=464",
@@ -330,6 +390,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:42:30.875999+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461465&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461465&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -339,8 +403,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 255,
     "uikTvd": "4014008210015",
+    "uikName": "УИК №255",
     "tikTvd": "2012000461465",
     "tikName": "Шовгеновская",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 60,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 69,
@@ -356,12 +424,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 1,
-      "Гукасян Сергей Георгиевич": 3,
-      "Михайлов Андрей Павлович": 2,
-      "Резник Владислав Матусович": 43,
-      "Салов Евгений Иванович": 1,
-      "Цикуниб Русланбек Джахфарович": 0
+      "2012000469784": 1,
+      "2012000472636": 3,
+      "2012000466170": 2,
+      "2012000464062": 43,
+      "2012000470491": 1,
+      "2012000474339": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461465&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461465&type=464",
@@ -371,6 +439,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:42:30.875999+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461465&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461465&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -380,8 +452,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 256,
     "uikTvd": "4014008210016",
+    "uikName": "УИК №256",
     "tikTvd": "2012000461465",
     "tikName": "Шовгеновская",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1656,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1711,
@@ -397,12 +473,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 20,
-      "Гукасян Сергей Георгиевич": 0,
-      "Михайлов Андрей Павлович": 13,
-      "Резник Владислав Матусович": 1450,
-      "Салов Евгений Иванович": 103,
-      "Цикуниб Русланбек Джахфарович": 0
+      "2012000469784": 20,
+      "2012000472636": 0,
+      "2012000466170": 13,
+      "2012000464062": 1450,
+      "2012000470491": 103,
+      "2012000474339": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461465&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461465&type=464",
@@ -412,6 +488,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:42:30.875999+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461465&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461465&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -421,8 +501,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 257,
     "uikTvd": "4014008210017",
+    "uikName": "УИК №257",
     "tikTvd": "2012000461465",
     "tikName": "Шовгеновская",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1153,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1159,
@@ -438,12 +522,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 124,
-      "Гукасян Сергей Георгиевич": 5,
-      "Михайлов Андрей Павлович": 2,
-      "Резник Владислав Матусович": 812,
-      "Салов Евгений Иванович": 150,
-      "Цикуниб Русланбек Джахфарович": 5
+      "2012000469784": 124,
+      "2012000472636": 5,
+      "2012000466170": 2,
+      "2012000464062": 812,
+      "2012000470491": 150,
+      "2012000474339": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461465&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461465&type=464",
@@ -453,6 +537,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:42:30.875999+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461465&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461465&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -462,8 +550,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 258,
     "uikTvd": "4014008210018",
+    "uikName": "УИК №258",
     "tikTvd": "2012000461465",
     "tikName": "Шовгеновская",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 226,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 266,
@@ -479,12 +571,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 10,
-      "Гукасян Сергей Георгиевич": 10,
-      "Михайлов Андрей Павлович": 6,
-      "Резник Владислав Матусович": 179,
-      "Салов Евгений Иванович": 6,
-      "Цикуниб Русланбек Джахфарович": 4
+      "2012000469784": 10,
+      "2012000472636": 10,
+      "2012000466170": 6,
+      "2012000464062": 179,
+      "2012000470491": 6,
+      "2012000474339": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461465&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461465&type=464",
@@ -494,6 +586,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:42:30.875999+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461465&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461465&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -503,8 +599,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 259,
     "uikTvd": "4014008210019",
+    "uikName": "УИК №259",
     "tikTvd": "2012000461465",
     "tikName": "Шовгеновская",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1382,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1336,
@@ -520,12 +620,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 33,
-      "Гукасян Сергей Георгиевич": 46,
-      "Михайлов Андрей Павлович": 32,
-      "Резник Владислав Матусович": 1041,
-      "Салов Евгений Иванович": 114,
-      "Цикуниб Русланбек Джахфарович": 47
+      "2012000469784": 33,
+      "2012000472636": 46,
+      "2012000466170": 32,
+      "2012000464062": 1041,
+      "2012000470491": 114,
+      "2012000474339": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461465&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461465&type=464",
@@ -535,6 +635,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:42:30.875999+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461465&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461465&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -544,8 +648,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 260,
     "uikTvd": "4014008210020",
+    "uikName": "УИК №260",
     "tikTvd": "2012000461465",
     "tikName": "Шовгеновская",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 754,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 777,
@@ -561,12 +669,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 29,
-      "Гукасян Сергей Георгиевич": 0,
-      "Михайлов Андрей Павлович": 8,
-      "Резник Владислав Матусович": 624,
-      "Салов Евгений Иванович": 57,
-      "Цикуниб Русланбек Джахфарович": 0
+      "2012000469784": 29,
+      "2012000472636": 0,
+      "2012000466170": 8,
+      "2012000464062": 624,
+      "2012000470491": 57,
+      "2012000474339": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461465&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461465&type=464",
@@ -576,6 +684,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:42:30.875999+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461465&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461465&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -585,8 +697,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 261,
     "uikTvd": "4014008210021",
+    "uikName": "УИК №261",
     "tikTvd": "2012000461465",
     "tikName": "Шовгеновская",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 769,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 788,
@@ -602,12 +718,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 27,
-      "Гукасян Сергей Георгиевич": 4,
-      "Михайлов Андрей Павлович": 1,
-      "Резник Владислав Матусович": 601,
-      "Салов Евгений Иванович": 63,
-      "Цикуниб Русланбек Джахфарович": 2
+      "2012000469784": 27,
+      "2012000472636": 4,
+      "2012000466170": 1,
+      "2012000464062": 601,
+      "2012000470491": 63,
+      "2012000474339": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461465&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461465&type=464",
@@ -617,6 +733,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:42:30.875999+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461465&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461465&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -626,8 +746,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 262,
     "uikTvd": "4014008210022",
+    "uikName": "УИК №262",
     "tikTvd": "2012000461465",
     "tikName": "Шовгеновская",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 604,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 614,
@@ -643,12 +767,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 0,
-      "Гукасян Сергей Георгиевич": 21,
-      "Михайлов Андрей Павлович": 0,
-      "Резник Владислав Матусович": 515,
-      "Салов Евгений Иванович": 27,
-      "Цикуниб Русланбек Джахфарович": 12
+      "2012000469784": 0,
+      "2012000472636": 21,
+      "2012000466170": 0,
+      "2012000464062": 515,
+      "2012000470491": 27,
+      "2012000474339": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461465&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461465&type=464",
@@ -658,6 +782,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:42:30.875999+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461465&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461465&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -667,8 +795,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 263,
     "uikTvd": "4014008210023",
+    "uikName": "УИК №263",
     "tikTvd": "2012000461465",
     "tikName": "Шовгеновская",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 637,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 658,
@@ -684,12 +816,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 40,
-      "Гукасян Сергей Георгиевич": 20,
-      "Михайлов Андрей Павлович": 0,
-      "Резник Владислав Матусович": 463,
-      "Салов Евгений Иванович": 60,
-      "Цикуниб Русланбек Джахфарович": 20
+      "2012000469784": 40,
+      "2012000472636": 20,
+      "2012000466170": 0,
+      "2012000464062": 463,
+      "2012000470491": 60,
+      "2012000474339": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461465&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461465&type=464",
@@ -699,6 +831,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:42:30.875999+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461465&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461465&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -708,8 +844,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 226,
     "uikTvd": "4014009200026",
+    "uikName": "УИК №226",
     "tikTvd": "2012000461466",
     "tikName": "Теучежская",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1150,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1113,
@@ -725,12 +865,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 6,
-      "Гукасян Сергей Георгиевич": 7,
-      "Михайлов Андрей Павлович": 6,
-      "Резник Владислав Матусович": 1045,
-      "Салов Евгений Иванович": 22,
-      "Цикуниб Русланбек Джахфарович": 15
+      "2012000469784": 6,
+      "2012000472636": 7,
+      "2012000466170": 6,
+      "2012000464062": 1045,
+      "2012000470491": 22,
+      "2012000474339": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461466&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461466&type=464",
@@ -740,6 +880,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:46:35.075928+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461466&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461466&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -749,8 +893,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 227,
     "uikTvd": "4014009200027",
+    "uikName": "УИК №227",
     "tikTvd": "2012000461466",
     "tikName": "Теучежская",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1277,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1222,
@@ -766,12 +914,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 1,
-      "Гукасян Сергей Георгиевич": 1,
-      "Михайлов Андрей Павлович": 1,
-      "Резник Владислав Матусович": 1214,
-      "Салов Евгений Иванович": 1,
-      "Цикуниб Русланбек Джахфарович": 3
+      "2012000469784": 1,
+      "2012000472636": 1,
+      "2012000466170": 1,
+      "2012000464062": 1214,
+      "2012000470491": 1,
+      "2012000474339": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461466&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461466&type=464",
@@ -781,6 +929,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:46:35.075928+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461466&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461466&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -790,8 +942,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 228,
     "uikTvd": "4014009200028",
+    "uikName": "УИК №228",
     "tikTvd": "2012000461466",
     "tikName": "Теучежская",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 244,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 228,
@@ -807,12 +963,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 0,
-      "Гукасян Сергей Георгиевич": 0,
-      "Михайлов Андрей Павлович": 0,
-      "Резник Владислав Матусович": 178,
-      "Салов Евгений Иванович": 36,
-      "Цикуниб Русланбек Джахфарович": 7
+      "2012000469784": 0,
+      "2012000472636": 0,
+      "2012000466170": 0,
+      "2012000464062": 178,
+      "2012000470491": 36,
+      "2012000474339": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461466&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461466&type=464",
@@ -822,6 +978,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:46:35.075928+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461466&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461466&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -831,8 +991,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 229,
     "uikTvd": "4014009200029",
+    "uikName": "УИК №229",
     "tikTvd": "2012000461466",
     "tikName": "Теучежская",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 234,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 217,
@@ -848,12 +1012,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 0,
-      "Гукасян Сергей Георгиевич": 0,
-      "Михайлов Андрей Павлович": 0,
-      "Резник Владислав Матусович": 188,
-      "Салов Евгений Иванович": 0,
-      "Цикуниб Русланбек Джахфарович": 19
+      "2012000469784": 0,
+      "2012000472636": 0,
+      "2012000466170": 0,
+      "2012000464062": 188,
+      "2012000470491": 0,
+      "2012000474339": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461466&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461466&type=464",
@@ -863,6 +1027,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:46:35.075928+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461466&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461466&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -872,8 +1040,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 230,
     "uikTvd": "4014009200030",
+    "uikName": "УИК №230",
     "tikTvd": "2012000461466",
     "tikName": "Теучежская",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 108,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 99,
@@ -889,12 +1061,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 0,
-      "Гукасян Сергей Георгиевич": 0,
-      "Михайлов Андрей Павлович": 0,
-      "Резник Владислав Матусович": 89,
-      "Салов Евгений Иванович": 10,
-      "Цикуниб Русланбек Джахфарович": 0
+      "2012000469784": 0,
+      "2012000472636": 0,
+      "2012000466170": 0,
+      "2012000464062": 89,
+      "2012000470491": 10,
+      "2012000474339": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461466&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461466&type=464",
@@ -904,6 +1076,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:46:35.075928+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461466&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461466&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -913,8 +1089,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 231,
     "uikTvd": "4014009200031",
+    "uikName": "УИК №231",
     "tikTvd": "2012000461466",
     "tikName": "Теучежская",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 153,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 146,
@@ -930,12 +1110,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 0,
-      "Гукасян Сергей Георгиевич": 0,
-      "Михайлов Андрей Павлович": 0,
-      "Резник Владислав Матусович": 134,
-      "Салов Евгений Иванович": 12,
-      "Цикуниб Русланбек Джахфарович": 0
+      "2012000469784": 0,
+      "2012000472636": 0,
+      "2012000466170": 0,
+      "2012000464062": 134,
+      "2012000470491": 12,
+      "2012000474339": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461466&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461466&type=464",
@@ -945,6 +1125,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:46:35.075928+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461466&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461466&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -954,8 +1138,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 232,
     "uikTvd": "4014009200032",
+    "uikName": "УИК №232",
     "tikTvd": "2012000461466",
     "tikName": "Теучежская",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 573,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 557,
@@ -971,12 +1159,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 5,
-      "Гукасян Сергей Георгиевич": 5,
-      "Михайлов Андрей Павлович": 5,
-      "Резник Владислав Матусович": 502,
-      "Салов Евгений Иванович": 17,
-      "Цикуниб Русланбек Джахфарович": 20
+      "2012000469784": 5,
+      "2012000472636": 5,
+      "2012000466170": 5,
+      "2012000464062": 502,
+      "2012000470491": 17,
+      "2012000474339": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461466&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461466&type=464",
@@ -986,6 +1174,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:46:35.075928+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461466&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461466&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -995,8 +1187,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 233,
     "uikTvd": "4014009200033",
+    "uikName": "УИК №233",
     "tikTvd": "2012000461466",
     "tikName": "Теучежская",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1106,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1071,
@@ -1012,12 +1208,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 0,
-      "Гукасян Сергей Георгиевич": 0,
-      "Михайлов Андрей Павлович": 0,
-      "Резник Владислав Матусович": 987,
-      "Салов Евгений Иванович": 32,
-      "Цикуниб Русланбек Джахфарович": 16
+      "2012000469784": 0,
+      "2012000472636": 0,
+      "2012000466170": 0,
+      "2012000464062": 987,
+      "2012000470491": 32,
+      "2012000474339": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461466&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461466&type=464",
@@ -1027,6 +1223,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:46:35.075928+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461466&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461466&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -1036,8 +1236,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 234,
     "uikTvd": "4014009200034",
+    "uikName": "УИК №234",
     "tikTvd": "2012000461466",
     "tikName": "Теучежская",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2468,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2396,
@@ -1053,12 +1257,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 0,
-      "Гукасян Сергей Георгиевич": 0,
-      "Михайлов Андрей Павлович": 0,
-      "Резник Владислав Матусович": 2280,
-      "Салов Евгений Иванович": 19,
-      "Цикуниб Русланбек Джахфарович": 70
+      "2012000469784": 0,
+      "2012000472636": 0,
+      "2012000466170": 0,
+      "2012000464062": 2280,
+      "2012000470491": 19,
+      "2012000474339": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461466&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461466&type=464",
@@ -1068,6 +1272,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:46:35.075928+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461466&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461466&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -1077,8 +1285,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 235,
     "uikTvd": "4014009200035",
+    "uikName": "УИК №235",
     "tikTvd": "2012000461466",
     "tikName": "Теучежская",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 367,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 351,
@@ -1094,12 +1306,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 0,
-      "Гукасян Сергей Георгиевич": 0,
-      "Михайлов Андрей Павлович": 0,
-      "Резник Владислав Матусович": 310,
-      "Салов Евгений Иванович": 33,
-      "Цикуниб Русланбек Джахфарович": 3
+      "2012000469784": 0,
+      "2012000472636": 0,
+      "2012000466170": 0,
+      "2012000464062": 310,
+      "2012000470491": 33,
+      "2012000474339": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461466&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461466&type=464",
@@ -1109,6 +1321,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:46:35.075928+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461466&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461466&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -1118,8 +1334,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 236,
     "uikTvd": "4014009200036",
+    "uikName": "УИК №236",
     "tikTvd": "2012000461466",
     "tikName": "Теучежская",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 191,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 182,
@@ -1135,12 +1355,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 0,
-      "Гукасян Сергей Георгиевич": 0,
-      "Михайлов Андрей Павлович": 0,
-      "Резник Владислав Матусович": 172,
-      "Салов Евгений Иванович": 0,
-      "Цикуниб Русланбек Джахфарович": 10
+      "2012000469784": 0,
+      "2012000472636": 0,
+      "2012000466170": 0,
+      "2012000464062": 172,
+      "2012000470491": 0,
+      "2012000474339": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461466&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461466&type=464",
@@ -1150,6 +1370,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:46:35.075928+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461466&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461466&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -1159,8 +1383,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 237,
     "uikTvd": "4014009200037",
+    "uikName": "УИК №237",
     "tikTvd": "2012000461466",
     "tikName": "Теучежская",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 621,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 620,
@@ -1176,12 +1404,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 2,
-      "Гукасян Сергей Георгиевич": 1,
-      "Михайлов Андрей Павлович": 1,
-      "Резник Владислав Матусович": 584,
-      "Салов Евгений Иванович": 2,
-      "Цикуниб Русланбек Джахфарович": 8
+      "2012000469784": 2,
+      "2012000472636": 1,
+      "2012000466170": 1,
+      "2012000464062": 584,
+      "2012000470491": 2,
+      "2012000474339": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461466&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461466&type=464",
@@ -1191,6 +1419,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:46:35.075928+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461466&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461466&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -1200,8 +1432,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 238,
     "uikTvd": "4014009200038",
+    "uikName": "УИК №238",
     "tikTvd": "2012000461466",
     "tikName": "Теучежская",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1119,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1086,
@@ -1217,12 +1453,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 0,
-      "Гукасян Сергей Георгиевич": 0,
-      "Михайлов Андрей Павлович": 0,
-      "Резник Владислав Матусович": 1054,
-      "Салов Евгений Иванович": 27,
-      "Цикуниб Русланбек Джахфарович": 0
+      "2012000469784": 0,
+      "2012000472636": 0,
+      "2012000466170": 0,
+      "2012000464062": 1054,
+      "2012000470491": 27,
+      "2012000474339": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461466&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461466&type=464",
@@ -1232,6 +1468,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:46:35.075928+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461466&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461466&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -1241,8 +1481,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 239,
     "uikTvd": "4014009200039",
+    "uikName": "УИК №239",
     "tikTvd": "2012000461466",
     "tikName": "Теучежская",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 224,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 212,
@@ -1258,12 +1502,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 4,
-      "Гукасян Сергей Георгиевич": 0,
-      "Михайлов Андрей Павлович": 0,
-      "Резник Владислав Матусович": 192,
-      "Салов Евгений Иванович": 9,
-      "Цикуниб Русланбек Джахфарович": 0
+      "2012000469784": 4,
+      "2012000472636": 0,
+      "2012000466170": 0,
+      "2012000464062": 192,
+      "2012000470491": 9,
+      "2012000474339": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461466&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461466&type=464",
@@ -1273,6 +1517,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:46:35.075928+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461466&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461466&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -1282,8 +1530,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 240,
     "uikTvd": "4014009200040",
+    "uikName": "УИК №240",
     "tikTvd": "2012000461466",
     "tikName": "Теучежская",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 516,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 490,
@@ -1299,12 +1551,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 0,
-      "Гукасян Сергей Георгиевич": 0,
-      "Михайлов Андрей Павлович": 0,
-      "Резник Владислав Матусович": 472,
-      "Салов Евгений Иванович": 0,
-      "Цикуниб Русланбек Джахфарович": 18
+      "2012000469784": 0,
+      "2012000472636": 0,
+      "2012000466170": 0,
+      "2012000464062": 472,
+      "2012000470491": 0,
+      "2012000474339": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461466&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461466&type=464",
@@ -1314,6 +1566,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:46:35.075928+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461466&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461466&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -1323,8 +1579,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 241,
     "uikTvd": "4014009200041",
+    "uikName": "УИК №241",
     "tikTvd": "2012000461466",
     "tikName": "Теучежская",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 142,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 137,
@@ -1340,12 +1600,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 0,
-      "Гукасян Сергей Георгиевич": 0,
-      "Михайлов Андрей Павлович": 0,
-      "Резник Владислав Матусович": 128,
-      "Салов Евгений Иванович": 1,
-      "Цикуниб Русланбек Джахфарович": 5
+      "2012000469784": 0,
+      "2012000472636": 0,
+      "2012000466170": 0,
+      "2012000464062": 128,
+      "2012000470491": 1,
+      "2012000474339": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461466&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461466&type=464",
@@ -1355,6 +1615,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:46:35.075928+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461466&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461466&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -1364,8 +1628,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 242,
     "uikTvd": "4014009200042",
+    "uikName": "УИК №242",
     "tikTvd": "2012000461466",
     "tikName": "Теучежская",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 131,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 138,
@@ -1381,12 +1649,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 1,
-      "Гукасян Сергей Георгиевич": 1,
-      "Михайлов Андрей Павлович": 1,
-      "Резник Владислав Матусович": 118,
-      "Салов Евгений Иванович": 2,
-      "Цикуниб Русланбек Джахфарович": 1
+      "2012000469784": 1,
+      "2012000472636": 1,
+      "2012000466170": 1,
+      "2012000464062": 118,
+      "2012000470491": 2,
+      "2012000474339": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461466&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461466&type=464",
@@ -1396,6 +1664,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:46:35.075928+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461466&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461466&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -1405,8 +1677,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 243,
     "uikTvd": "4014009200043",
+    "uikName": "УИК №243",
     "tikTvd": "2012000461466",
     "tikName": "Теучежская",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 353,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 343,
@@ -1422,12 +1698,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 0,
-      "Гукасян Сергей Георгиевич": 0,
-      "Михайлов Андрей Павлович": 3,
-      "Резник Владислав Матусович": 330,
-      "Салов Евгений Иванович": 2,
-      "Цикуниб Русланбек Джахфарович": 5
+      "2012000469784": 0,
+      "2012000472636": 0,
+      "2012000466170": 3,
+      "2012000464062": 330,
+      "2012000470491": 2,
+      "2012000474339": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461466&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461466&type=464",
@@ -1437,6 +1713,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:46:35.075928+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461466&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461466&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -1446,8 +1726,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 244,
     "uikTvd": "4014009200044",
+    "uikName": "УИК №244",
     "tikTvd": "2012000461466",
     "tikName": "Теучежская",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1340,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1313,
@@ -1463,12 +1747,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 33,
-      "Гукасян Сергей Георгиевич": 0,
-      "Михайлов Андрей Павлович": 0,
-      "Резник Владислав Матусович": 1197,
-      "Салов Евгений Иванович": 75,
-      "Цикуниб Русланбек Джахфарович": 0
+      "2012000469784": 33,
+      "2012000472636": 0,
+      "2012000466170": 0,
+      "2012000464062": 1197,
+      "2012000470491": 75,
+      "2012000474339": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461466&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461466&type=464",
@@ -1478,6 +1762,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:46:35.075928+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461466&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461466&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -1487,8 +1775,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 245,
     "uikTvd": "4014009200045",
+    "uikName": "УИК №245",
     "tikTvd": "2012000461466",
     "tikName": "Теучежская",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 440,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 444,
@@ -1504,12 +1796,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 5,
-      "Гукасян Сергей Георгиевич": 0,
-      "Михайлов Андрей Павлович": 6,
-      "Резник Владислав Матусович": 409,
-      "Салов Евгений Иванович": 20,
-      "Цикуниб Русланбек Джахфарович": 0
+      "2012000469784": 5,
+      "2012000472636": 0,
+      "2012000466170": 6,
+      "2012000464062": 409,
+      "2012000470491": 20,
+      "2012000474339": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461466&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461466&type=464",
@@ -1519,6 +1811,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:46:35.075928+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461466&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461466&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -1528,8 +1824,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 246,
     "uikTvd": "4014009200046",
+    "uikName": "УИК №246",
     "tikTvd": "2012000461466",
     "tikName": "Теучежская",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 172,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 159,
@@ -1545,12 +1845,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 2,
-      "Гукасян Сергей Георгиевич": 0,
-      "Михайлов Андрей Павлович": 0,
-      "Резник Владислав Матусович": 146,
-      "Салов Евгений Иванович": 9,
-      "Цикуниб Русланбек Джахфарович": 0
+      "2012000469784": 2,
+      "2012000472636": 0,
+      "2012000466170": 0,
+      "2012000464062": 146,
+      "2012000470491": 9,
+      "2012000474339": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461466&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461466&type=464",
@@ -1560,6 +1860,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:46:35.075928+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461466&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461466&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -1569,8 +1873,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 187,
     "uikTvd": "4014007280321",
+    "uikName": "УИК №187",
     "tikTvd": "2012000461467",
     "tikName": "Тахтамукайская ",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1541,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1500,
@@ -1586,12 +1894,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 5,
-      "Гукасян Сергей Георгиевич": 11,
-      "Михайлов Андрей Павлович": 2,
-      "Резник Владислав Матусович": 1103,
-      "Салов Евгений Иванович": 60,
-      "Цикуниб Русланбек Джахфарович": 77
+      "2012000469784": 5,
+      "2012000472636": 11,
+      "2012000466170": 2,
+      "2012000464062": 1103,
+      "2012000470491": 60,
+      "2012000474339": 77
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461467&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461467&type=464",
@@ -1601,6 +1909,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:46:35.204980+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461467&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461467&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -1610,8 +1922,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 188,
     "uikTvd": "4014007280322",
+    "uikName": "УИК №188",
     "tikTvd": "2012000461467",
     "tikName": "Тахтамукайская ",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2054,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2000,
@@ -1627,12 +1943,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 25,
-      "Гукасян Сергей Георгиевич": 22,
-      "Михайлов Андрей Павлович": 22,
-      "Резник Владислав Матусович": 1357,
-      "Салов Евгений Иванович": 71,
-      "Цикуниб Русланбек Джахфарович": 155
+      "2012000469784": 25,
+      "2012000472636": 22,
+      "2012000466170": 22,
+      "2012000464062": 1357,
+      "2012000470491": 71,
+      "2012000474339": 155
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461467&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461467&type=464",
@@ -1642,6 +1958,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:46:35.204980+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461467&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461467&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -1651,8 +1971,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 189,
     "uikTvd": "4014007280323",
+    "uikName": "УИК №189",
     "tikTvd": "2012000461467",
     "tikName": "Тахтамукайская ",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2314,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2000,
@@ -1668,12 +1992,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 48,
-      "Гукасян Сергей Георгиевич": 49,
-      "Михайлов Андрей Павлович": 44,
-      "Резник Владислав Матусович": 1287,
-      "Салов Евгений Иванович": 73,
-      "Цикуниб Русланбек Джахфарович": 330
+      "2012000469784": 48,
+      "2012000472636": 49,
+      "2012000466170": 44,
+      "2012000464062": 1287,
+      "2012000470491": 73,
+      "2012000474339": 330
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461467&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461467&type=464",
@@ -1683,6 +2007,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:46:35.204980+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461467&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461467&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -1692,8 +2020,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 190,
     "uikTvd": "4014007280324",
+    "uikName": "УИК №190",
     "tikTvd": "2012000461467",
     "tikName": "Тахтамукайская ",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 795,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 750,
@@ -1709,12 +2041,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 36,
-      "Гукасян Сергей Георгиевич": 24,
-      "Михайлов Андрей Павлович": 51,
-      "Резник Владислав Матусович": 197,
-      "Салов Евгений Иванович": 46,
-      "Цикуниб Русланбек Джахфарович": 29
+      "2012000469784": 36,
+      "2012000472636": 24,
+      "2012000466170": 51,
+      "2012000464062": 197,
+      "2012000470491": 46,
+      "2012000474339": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461467&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461467&type=464",
@@ -1724,6 +2056,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:46:35.204980+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461467&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461467&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -1733,8 +2069,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 191,
     "uikTvd": "4014007280325",
+    "uikName": "УИК №191",
     "tikTvd": "2012000461467",
     "tikName": "Тахтамукайская ",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 517,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 500,
@@ -1750,12 +2090,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 32,
-      "Гукасян Сергей Георгиевич": 19,
-      "Михайлов Андрей Павлович": 17,
-      "Резник Владислав Матусович": 186,
-      "Салов Евгений Иванович": 36,
-      "Цикуниб Русланбек Джахфарович": 28
+      "2012000469784": 32,
+      "2012000472636": 19,
+      "2012000466170": 17,
+      "2012000464062": 186,
+      "2012000470491": 36,
+      "2012000474339": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461467&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461467&type=464",
@@ -1765,6 +2105,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:46:35.204980+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461467&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461467&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -1774,8 +2118,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 192,
     "uikTvd": "4014007280326",
+    "uikName": "УИК №192",
     "tikTvd": "2012000461467",
     "tikName": "Тахтамукайская ",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 256,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 290,
@@ -1791,12 +2139,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 5,
-      "Гукасян Сергей Георгиевич": 1,
-      "Михайлов Андрей Павлович": 8,
-      "Резник Владислав Матусович": 148,
-      "Салов Евгений Иванович": 8,
-      "Цикуниб Русланбек Джахфарович": 39
+      "2012000469784": 5,
+      "2012000472636": 1,
+      "2012000466170": 8,
+      "2012000464062": 148,
+      "2012000470491": 8,
+      "2012000474339": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461467&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461467&type=464",
@@ -1806,6 +2154,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:46:35.204980+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461467&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461467&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -1815,8 +2167,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 193,
     "uikTvd": "4014007280327",
+    "uikName": "УИК №193",
     "tikTvd": "2012000461467",
     "tikName": "Тахтамукайская ",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2579,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2400,
@@ -1832,12 +2188,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 86,
-      "Гукасян Сергей Георгиевич": 59,
-      "Михайлов Андрей Павлович": 99,
-      "Резник Владислав Матусович": 1648,
-      "Салов Евгений Иванович": 149,
-      "Цикуниб Русланбек Джахфарович": 84
+      "2012000469784": 86,
+      "2012000472636": 59,
+      "2012000466170": 99,
+      "2012000464062": 1648,
+      "2012000470491": 149,
+      "2012000474339": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461467&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461467&type=464",
@@ -1847,6 +2203,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:46:35.204980+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461467&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461467&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -1856,8 +2216,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 194,
     "uikTvd": "4014007280328",
+    "uikName": "УИК №194",
     "tikTvd": "2012000461467",
     "tikName": "Тахтамукайская ",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1918,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2000,
@@ -1873,12 +2237,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 61,
-      "Гукасян Сергей Георгиевич": 43,
-      "Михайлов Андрей Павлович": 83,
-      "Резник Владислав Матусович": 1542,
-      "Салов Евгений Иванович": 129,
-      "Цикуниб Русланбек Джахфарович": 49
+      "2012000469784": 61,
+      "2012000472636": 43,
+      "2012000466170": 83,
+      "2012000464062": 1542,
+      "2012000470491": 129,
+      "2012000474339": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461467&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461467&type=464",
@@ -1888,6 +2252,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:46:35.204980+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461467&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461467&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -1897,8 +2265,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 195,
     "uikTvd": "4014007280329",
+    "uikName": "УИК №195",
     "tikTvd": "2012000461467",
     "tikName": "Тахтамукайская ",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1509,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1400,
@@ -1914,12 +2286,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 146,
-      "Гукасян Сергей Георгиевич": 12,
-      "Михайлов Андрей Павлович": 20,
-      "Резник Владислав Матусович": 1001,
-      "Салов Евгений Иванович": 120,
-      "Цикуниб Русланбек Джахфарович": 35
+      "2012000469784": 146,
+      "2012000472636": 12,
+      "2012000466170": 20,
+      "2012000464062": 1001,
+      "2012000470491": 120,
+      "2012000474339": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461467&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461467&type=464",
@@ -1929,6 +2301,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:46:35.204980+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461467&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461467&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -1938,8 +2314,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 196,
     "uikTvd": "4014007280330",
+    "uikName": "УИК №196",
     "tikTvd": "2012000461467",
     "tikName": "Тахтамукайская ",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1825,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1800,
@@ -1955,12 +2335,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 333,
-      "Гукасян Сергей Георгиевич": 37,
-      "Михайлов Андрей Павлович": 38,
-      "Резник Владислав Матусович": 1030,
-      "Салов Евгений Иванович": 104,
-      "Цикуниб Русланбек Джахфарович": 33
+      "2012000469784": 333,
+      "2012000472636": 37,
+      "2012000466170": 38,
+      "2012000464062": 1030,
+      "2012000470491": 104,
+      "2012000474339": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461467&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461467&type=464",
@@ -1970,6 +2350,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:46:35.204980+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461467&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461467&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -1979,8 +2363,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 197,
     "uikTvd": "4014007280331",
+    "uikName": "УИК №197",
     "tikTvd": "2012000461467",
     "tikName": "Тахтамукайская ",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2024,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2000,
@@ -1996,12 +2384,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 60,
-      "Гукасян Сергей Георгиевич": 39,
-      "Михайлов Андрей Павлович": 57,
-      "Резник Владислав Матусович": 1410,
-      "Салов Евгений Иванович": 110,
-      "Цикуниб Русланбек Джахфарович": 43
+      "2012000469784": 60,
+      "2012000472636": 39,
+      "2012000466170": 57,
+      "2012000464062": 1410,
+      "2012000470491": 110,
+      "2012000474339": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461467&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461467&type=464",
@@ -2011,6 +2399,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:46:35.204980+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461467&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461467&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -2020,8 +2412,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 198,
     "uikTvd": "4014007280332",
+    "uikName": "УИК №198",
     "tikTvd": "2012000461467",
     "tikName": "Тахтамукайская ",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1967,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1900,
@@ -2037,12 +2433,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 82,
-      "Гукасян Сергей Георгиевич": 26,
-      "Михайлов Андрей Павлович": 46,
-      "Резник Владислав Матусович": 1250,
-      "Салов Евгений Иванович": 176,
-      "Цикуниб Русланбек Джахфарович": 57
+      "2012000469784": 82,
+      "2012000472636": 26,
+      "2012000466170": 46,
+      "2012000464062": 1250,
+      "2012000470491": 176,
+      "2012000474339": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461467&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461467&type=464",
@@ -2052,6 +2448,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:46:35.204980+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461467&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461467&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -2061,8 +2461,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 199,
     "uikTvd": "4014007280333",
+    "uikName": "УИК №199",
     "tikTvd": "2012000461467",
     "tikName": "Тахтамукайская ",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1118,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1000,
@@ -2078,12 +2482,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 49,
-      "Гукасян Сергей Георгиевич": 28,
-      "Михайлов Андрей Павлович": 30,
-      "Резник Владислав Матусович": 616,
-      "Салов Евгений Иванович": 54,
-      "Цикуниб Русланбек Джахфарович": 46
+      "2012000469784": 49,
+      "2012000472636": 28,
+      "2012000466170": 30,
+      "2012000464062": 616,
+      "2012000470491": 54,
+      "2012000474339": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461467&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461467&type=464",
@@ -2093,6 +2497,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:46:35.204980+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461467&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461467&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -2102,8 +2510,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 200,
     "uikTvd": "4014007280334",
+    "uikName": "УИК №200",
     "tikTvd": "2012000461467",
     "tikName": "Тахтамукайская ",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1435,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1400,
@@ -2119,12 +2531,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 23,
-      "Гукасян Сергей Георгиевич": 15,
-      "Михайлов Андрей Павлович": 78,
-      "Резник Владислав Матусович": 929,
-      "Салов Евгений Иванович": 53,
-      "Цикуниб Русланбек Джахфарович": 88
+      "2012000469784": 23,
+      "2012000472636": 15,
+      "2012000466170": 78,
+      "2012000464062": 929,
+      "2012000470491": 53,
+      "2012000474339": 88
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461467&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461467&type=464",
@@ -2134,6 +2546,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:46:35.204980+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461467&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461467&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -2143,8 +2559,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 201,
     "uikTvd": "4014007280335",
+    "uikName": "УИК №201",
     "tikTvd": "2012000461467",
     "tikName": "Тахтамукайская ",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 218,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 250,
@@ -2160,12 +2580,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 5,
-      "Гукасян Сергей Георгиевич": 13,
-      "Михайлов Андрей Павлович": 6,
-      "Резник Владислав Матусович": 98,
-      "Салов Евгений Иванович": 13,
-      "Цикуниб Русланбек Джахфарович": 2
+      "2012000469784": 5,
+      "2012000472636": 13,
+      "2012000466170": 6,
+      "2012000464062": 98,
+      "2012000470491": 13,
+      "2012000474339": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461467&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461467&type=464",
@@ -2175,6 +2595,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:46:35.204980+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461467&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461467&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -2184,8 +2608,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 202,
     "uikTvd": "4014007280336",
+    "uikName": "УИК №202",
     "tikTvd": "2012000461467",
     "tikName": "Тахтамукайская ",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 360,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 390,
@@ -2201,12 +2629,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 26,
-      "Гукасян Сергей Георгиевич": 22,
-      "Михайлов Андрей Павлович": 18,
-      "Резник Владислав Матусович": 128,
-      "Салов Евгений Иванович": 32,
-      "Цикуниб Русланбек Джахфарович": 13
+      "2012000469784": 26,
+      "2012000472636": 22,
+      "2012000466170": 18,
+      "2012000464062": 128,
+      "2012000470491": 32,
+      "2012000474339": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461467&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461467&type=464",
@@ -2216,6 +2644,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:46:35.204980+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461467&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461467&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -2225,8 +2657,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 203,
     "uikTvd": "4014007280337",
+    "uikName": "УИК №203",
     "tikTvd": "2012000461467",
     "tikName": "Тахтамукайская ",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 686,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 680,
@@ -2242,12 +2678,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 43,
-      "Гукасян Сергей Георгиевич": 25,
-      "Михайлов Андрей Павлович": 37,
-      "Резник Владислав Матусович": 347,
-      "Салов Евгений Иванович": 56,
-      "Цикуниб Русланбек Джахфарович": 16
+      "2012000469784": 43,
+      "2012000472636": 25,
+      "2012000466170": 37,
+      "2012000464062": 347,
+      "2012000470491": 56,
+      "2012000474339": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461467&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461467&type=464",
@@ -2257,6 +2693,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:46:35.204980+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461467&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461467&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -2266,8 +2706,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 204,
     "uikTvd": "4014007280338",
+    "uikName": "УИК №204",
     "tikTvd": "2012000461467",
     "tikName": "Тахтамукайская ",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 295,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 330,
@@ -2283,12 +2727,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 10,
-      "Гукасян Сергей Георгиевич": 15,
-      "Михайлов Андрей Павлович": 12,
-      "Резник Владислав Матусович": 156,
-      "Салов Евгений Иванович": 12,
-      "Цикуниб Русланбек Джахфарович": 26
+      "2012000469784": 10,
+      "2012000472636": 15,
+      "2012000466170": 12,
+      "2012000464062": 156,
+      "2012000470491": 12,
+      "2012000474339": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461467&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461467&type=464",
@@ -2298,6 +2742,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:46:35.204980+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461467&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461467&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -2307,8 +2755,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 205,
     "uikTvd": "4014007280339",
+    "uikName": "УИК №205",
     "tikTvd": "2012000461467",
     "tikName": "Тахтамукайская ",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1853,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1700,
@@ -2324,12 +2776,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 28,
-      "Гукасян Сергей Георгиевич": 36,
-      "Михайлов Андрей Павлович": 49,
-      "Резник Владислав Матусович": 1548,
-      "Салов Евгений Иванович": 15,
-      "Цикуниб Русланбек Джахфарович": 19
+      "2012000469784": 28,
+      "2012000472636": 36,
+      "2012000466170": 49,
+      "2012000464062": 1548,
+      "2012000470491": 15,
+      "2012000474339": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461467&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461467&type=464",
@@ -2339,6 +2791,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:46:35.204980+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461467&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461467&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -2348,8 +2804,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 206,
     "uikTvd": "4014007280340",
+    "uikName": "УИК №206",
     "tikTvd": "2012000461467",
     "tikName": "Тахтамукайская ",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2399,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2300,
@@ -2365,12 +2825,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 325,
-      "Гукасян Сергей Георгиевич": 55,
-      "Михайлов Андрей Павлович": 208,
-      "Резник Владислав Матусович": 1354,
-      "Салов Евгений Иванович": 151,
-      "Цикуниб Русланбек Джахфарович": 28
+      "2012000469784": 325,
+      "2012000472636": 55,
+      "2012000466170": 208,
+      "2012000464062": 1354,
+      "2012000470491": 151,
+      "2012000474339": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461467&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461467&type=464",
@@ -2380,6 +2840,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:46:35.204980+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461467&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461467&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -2389,8 +2853,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 207,
     "uikTvd": "4014007280341",
+    "uikName": "УИК №207",
     "tikTvd": "2012000461467",
     "tikName": "Тахтамукайская ",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2098,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2000,
@@ -2406,12 +2874,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 88,
-      "Гукасян Сергей Георгиевич": 77,
-      "Михайлов Андрей Павлович": 71,
-      "Резник Владислав Матусович": 1258,
-      "Салов Евгений Иванович": 168,
-      "Цикуниб Русланбек Джахфарович": 121
+      "2012000469784": 88,
+      "2012000472636": 77,
+      "2012000466170": 71,
+      "2012000464062": 1258,
+      "2012000470491": 168,
+      "2012000474339": 121
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461467&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461467&type=464",
@@ -2421,6 +2889,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:46:35.204980+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461467&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461467&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -2430,8 +2902,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 208,
     "uikTvd": "4014007280342",
+    "uikName": "УИК №208",
     "tikTvd": "2012000461467",
     "tikName": "Тахтамукайская ",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2220,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2000,
@@ -2447,12 +2923,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 41,
-      "Гукасян Сергей Георгиевич": 35,
-      "Михайлов Андрей Павлович": 54,
-      "Резник Владислав Матусович": 1709,
-      "Салов Евгений Иванович": 103,
-      "Цикуниб Русланбек Джахфарович": 37
+      "2012000469784": 41,
+      "2012000472636": 35,
+      "2012000466170": 54,
+      "2012000464062": 1709,
+      "2012000470491": 103,
+      "2012000474339": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461467&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461467&type=464",
@@ -2462,6 +2938,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:46:35.204980+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461467&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461467&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -2471,8 +2951,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 209,
     "uikTvd": "4014007280343",
+    "uikName": "УИК №209",
     "tikTvd": "2012000461467",
     "tikName": "Тахтамукайская ",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2451,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2300,
@@ -2488,12 +2972,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 63,
-      "Гукасян Сергей Георгиевич": 45,
-      "Михайлов Андрей Павлович": 87,
-      "Резник Владислав Матусович": 1717,
-      "Салов Евгений Иванович": 0,
-      "Цикуниб Русланбек Джахфарович": 45
+      "2012000469784": 63,
+      "2012000472636": 45,
+      "2012000466170": 87,
+      "2012000464062": 1717,
+      "2012000470491": 0,
+      "2012000474339": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461467&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461467&type=464",
@@ -2503,6 +2987,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:46:35.204980+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461467&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461467&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -2512,8 +3000,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 210,
     "uikTvd": "4014007280344",
+    "uikName": "УИК №210",
     "tikTvd": "2012000461467",
     "tikName": "Тахтамукайская ",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2486,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2300,
@@ -2529,12 +3021,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 156,
-      "Гукасян Сергей Георгиевич": 34,
-      "Михайлов Андрей Павлович": 61,
-      "Резник Владислав Матусович": 1708,
-      "Салов Евгений Иванович": 93,
-      "Цикуниб Русланбек Джахфарович": 54
+      "2012000469784": 156,
+      "2012000472636": 34,
+      "2012000466170": 61,
+      "2012000464062": 1708,
+      "2012000470491": 93,
+      "2012000474339": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461467&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461467&type=464",
@@ -2544,6 +3036,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:46:35.204980+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461467&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461467&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -2553,8 +3049,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 211,
     "uikTvd": "4014007280345",
+    "uikName": "УИК №211",
     "tikTvd": "2012000461467",
     "tikName": "Тахтамукайская ",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2529,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2400,
@@ -2570,12 +3070,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 71,
-      "Гукасян Сергей Георгиевич": 66,
-      "Михайлов Андрей Павлович": 96,
-      "Резник Владислав Матусович": 1608,
-      "Салов Евгений Иванович": 170,
-      "Цикуниб Русланбек Джахфарович": 39
+      "2012000469784": 71,
+      "2012000472636": 66,
+      "2012000466170": 96,
+      "2012000464062": 1608,
+      "2012000470491": 170,
+      "2012000474339": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461467&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461467&type=464",
@@ -2585,6 +3085,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:46:35.204980+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461467&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461467&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -2594,8 +3098,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 212,
     "uikTvd": "4014007280346",
+    "uikName": "УИК №212",
     "tikTvd": "2012000461467",
     "tikName": "Тахтамукайская ",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1267,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1200,
@@ -2611,12 +3119,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 29,
-      "Гукасян Сергей Георгиевич": 23,
-      "Михайлов Андрей Павлович": 43,
-      "Резник Владислав Матусович": 817,
-      "Салов Евгений Иванович": 85,
-      "Цикуниб Русланбек Джахфарович": 35
+      "2012000469784": 29,
+      "2012000472636": 23,
+      "2012000466170": 43,
+      "2012000464062": 817,
+      "2012000470491": 85,
+      "2012000474339": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461467&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461467&type=464",
@@ -2626,6 +3134,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:46:35.204980+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461467&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461467&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -2635,8 +3147,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 213,
     "uikTvd": "4014007280347",
+    "uikName": "УИК №213",
     "tikTvd": "2012000461467",
     "tikName": "Тахтамукайская ",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1535,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1400,
@@ -2652,12 +3168,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 46,
-      "Гукасян Сергей Георгиевич": 27,
-      "Михайлов Андрей Павлович": 48,
-      "Резник Владислав Матусович": 710,
-      "Салов Евгений Иванович": 92,
-      "Цикуниб Русланбек Джахфарович": 25
+      "2012000469784": 46,
+      "2012000472636": 27,
+      "2012000466170": 48,
+      "2012000464062": 710,
+      "2012000470491": 92,
+      "2012000474339": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461467&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461467&type=464",
@@ -2667,6 +3183,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:46:35.204980+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461467&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461467&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -2676,8 +3196,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 214,
     "uikTvd": "4014007280348",
+    "uikName": "УИК №214",
     "tikTvd": "2012000461467",
     "tikName": "Тахтамукайская ",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1870,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1800,
@@ -2693,12 +3217,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 81,
-      "Гукасян Сергей Георгиевич": 65,
-      "Михайлов Андрей Павлович": 100,
-      "Резник Владислав Матусович": 1118,
-      "Салов Евгений Иванович": 101,
-      "Цикуниб Русланбек Джахфарович": 72
+      "2012000469784": 81,
+      "2012000472636": 65,
+      "2012000466170": 100,
+      "2012000464062": 1118,
+      "2012000470491": 101,
+      "2012000474339": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461467&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461467&type=464",
@@ -2708,6 +3232,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:46:35.204980+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461467&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461467&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -2717,8 +3245,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 215,
     "uikTvd": "4014007280349",
+    "uikName": "УИК №215",
     "tikTvd": "2012000461467",
     "tikName": "Тахтамукайская ",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1322,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1200,
@@ -2734,12 +3266,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 100,
-      "Гукасян Сергей Георгиевич": 108,
-      "Михайлов Андрей Павлович": 99,
-      "Резник Владислав Матусович": 547,
-      "Салов Евгений Иванович": 151,
-      "Цикуниб Русланбек Джахфарович": 66
+      "2012000469784": 100,
+      "2012000472636": 108,
+      "2012000466170": 99,
+      "2012000464062": 547,
+      "2012000470491": 151,
+      "2012000474339": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461467&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461467&type=464",
@@ -2749,6 +3281,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:46:35.204980+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461467&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461467&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -2758,8 +3294,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 216,
     "uikTvd": "4014007280350",
+    "uikName": "УИК №216",
     "tikTvd": "2012000461467",
     "tikName": "Тахтамукайская ",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 165,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 180,
@@ -2775,12 +3315,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 4,
-      "Гукасян Сергей Георгиевич": 2,
-      "Михайлов Андрей Павлович": 3,
-      "Резник Владислав Матусович": 91,
-      "Салов Евгений Иванович": 12,
-      "Цикуниб Русланбек Джахфарович": 5
+      "2012000469784": 4,
+      "2012000472636": 2,
+      "2012000466170": 3,
+      "2012000464062": 91,
+      "2012000470491": 12,
+      "2012000474339": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461467&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461467&type=464",
@@ -2790,6 +3330,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:46:35.204980+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461467&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461467&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -2799,8 +3343,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 217,
     "uikTvd": "4014007280351",
+    "uikName": "УИК №217",
     "tikTvd": "2012000461467",
     "tikName": "Тахтамукайская ",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2298,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2200,
@@ -2816,12 +3364,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 191,
-      "Гукасян Сергей Георгиевич": 67,
-      "Михайлов Андрей Павлович": 146,
-      "Резник Владислав Матусович": 1225,
-      "Салов Евгений Иванович": 135,
-      "Цикуниб Русланбек Джахфарович": 139
+      "2012000469784": 191,
+      "2012000472636": 67,
+      "2012000466170": 146,
+      "2012000464062": 1225,
+      "2012000470491": 135,
+      "2012000474339": 139
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461467&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461467&type=464",
@@ -2831,6 +3379,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:46:35.204980+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461467&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461467&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -2840,8 +3392,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 218,
     "uikTvd": "4014007280352",
+    "uikName": "УИК №218",
     "tikTvd": "2012000461467",
     "tikName": "Тахтамукайская ",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1548,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1500,
@@ -2857,12 +3413,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 45,
-      "Гукасян Сергей Георгиевич": 32,
-      "Михайлов Андрей Павлович": 42,
-      "Резник Владислав Матусович": 885,
-      "Салов Евгений Иванович": 60,
-      "Цикуниб Русланбек Джахфарович": 201
+      "2012000469784": 45,
+      "2012000472636": 32,
+      "2012000466170": 42,
+      "2012000464062": 885,
+      "2012000470491": 60,
+      "2012000474339": 201
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461467&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461467&type=464",
@@ -2872,6 +3428,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:46:35.204980+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461467&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461467&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -2881,8 +3441,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 219,
     "uikTvd": "4014007280353",
+    "uikName": "УИК №219",
     "tikTvd": "2012000461467",
     "tikName": "Тахтамукайская ",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2081,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1900,
@@ -2898,12 +3462,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 146,
-      "Гукасян Сергей Георгиевич": 118,
-      "Михайлов Андрей Павлович": 149,
-      "Резник Владислав Матусович": 913,
-      "Салов Евгений Иванович": 242,
-      "Цикуниб Русланбек Джахфарович": 253
+      "2012000469784": 146,
+      "2012000472636": 118,
+      "2012000466170": 149,
+      "2012000464062": 913,
+      "2012000470491": 242,
+      "2012000474339": 253
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461467&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461467&type=464",
@@ -2913,6 +3477,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:46:35.204980+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461467&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461467&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -2922,8 +3490,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 220,
     "uikTvd": "4014007280354",
+    "uikName": "УИК №220",
     "tikTvd": "2012000461467",
     "tikName": "Тахтамукайская ",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 385,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 350,
@@ -2939,12 +3511,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 32,
-      "Гукасян Сергей Георгиевич": 18,
-      "Михайлов Андрей Павлович": 28,
-      "Резник Владислав Матусович": 208,
-      "Салов Евгений Иванович": 35,
-      "Цикуниб Русланбек Джахфарович": 29
+      "2012000469784": 32,
+      "2012000472636": 18,
+      "2012000466170": 28,
+      "2012000464062": 208,
+      "2012000470491": 35,
+      "2012000474339": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461467&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461467&type=464",
@@ -2954,6 +3526,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:46:35.204980+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461467&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461467&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -2963,8 +3539,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 221,
     "uikTvd": "4014007280355",
+    "uikName": "УИК №221",
     "tikTvd": "2012000461467",
     "tikName": "Тахтамукайская ",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1538,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1400,
@@ -2980,12 +3560,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 60,
-      "Гукасян Сергей Георгиевич": 44,
-      "Михайлов Андрей Павлович": 28,
-      "Резник Владислав Матусович": 724,
-      "Салов Евгений Иванович": 94,
-      "Цикуниб Русланбек Джахфарович": 149
+      "2012000469784": 60,
+      "2012000472636": 44,
+      "2012000466170": 28,
+      "2012000464062": 724,
+      "2012000470491": 94,
+      "2012000474339": 149
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461467&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461467&type=464",
@@ -2995,6 +3575,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:46:35.204980+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461467&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461467&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -3004,8 +3588,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 222,
     "uikTvd": "4014007280356",
+    "uikName": "УИК №222",
     "tikTvd": "2012000461467",
     "tikName": "Тахтамукайская ",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1296,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1200,
@@ -3021,12 +3609,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 35,
-      "Гукасян Сергей Георгиевич": 39,
-      "Михайлов Андрей Павлович": 13,
-      "Резник Владислав Матусович": 725,
-      "Салов Евгений Иванович": 115,
-      "Цикуниб Русланбек Джахфарович": 81
+      "2012000469784": 35,
+      "2012000472636": 39,
+      "2012000466170": 13,
+      "2012000464062": 725,
+      "2012000470491": 115,
+      "2012000474339": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461467&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461467&type=464",
@@ -3036,6 +3624,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:46:35.204980+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461467&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461467&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -3045,8 +3637,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 223,
     "uikTvd": "4014007280357",
+    "uikName": "УИК №223",
     "tikTvd": "2012000461467",
     "tikName": "Тахтамукайская ",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 446,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 430,
@@ -3062,12 +3658,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 17,
-      "Гукасян Сергей Георгиевич": 10,
-      "Михайлов Андрей Павлович": 6,
-      "Резник Владислав Матусович": 263,
-      "Салов Евгений Иванович": 32,
-      "Цикуниб Русланбек Джахфарович": 53
+      "2012000469784": 17,
+      "2012000472636": 10,
+      "2012000466170": 6,
+      "2012000464062": 263,
+      "2012000470491": 32,
+      "2012000474339": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461467&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461467&type=464",
@@ -3077,6 +3673,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:46:35.204980+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461467&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461467&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -3086,8 +3686,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 224,
     "uikTvd": "4014007280358",
+    "uikName": "УИК №224",
     "tikTvd": "2012000461467",
     "tikName": "Тахтамукайская ",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 210,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 200,
@@ -3103,12 +3707,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 5,
-      "Гукасян Сергей Георгиевич": 0,
-      "Михайлов Андрей Павлович": 0,
-      "Резник Владислав Матусович": 129,
-      "Салов Евгений Иванович": 42,
-      "Цикуниб Русланбек Джахфарович": 8
+      "2012000469784": 5,
+      "2012000472636": 0,
+      "2012000466170": 0,
+      "2012000464062": 129,
+      "2012000470491": 42,
+      "2012000474339": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461467&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461467&type=464",
@@ -3118,6 +3722,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:46:35.204980+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461467&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461467&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -3127,8 +3735,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 225,
     "uikTvd": "4014007280359",
+    "uikName": "УИК №225",
     "tikTvd": "2012000461467",
     "tikName": "Тахтамукайская ",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 301,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 320,
@@ -3144,12 +3756,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 20,
-      "Гукасян Сергей Георгиевич": 7,
-      "Михайлов Андрей Павлович": 14,
-      "Резник Владислав Матусович": 151,
-      "Салов Евгений Иванович": 19,
-      "Цикуниб Русланбек Джахфарович": 29
+      "2012000469784": 20,
+      "2012000472636": 7,
+      "2012000466170": 14,
+      "2012000464062": 151,
+      "2012000470491": 19,
+      "2012000474339": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461467&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461467&type=464",
@@ -3159,6 +3771,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:46:35.204980+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461467&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461467&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -3168,8 +3784,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 276,
     "uikTvd": "4014007280360",
+    "uikName": "УИК №276",
     "tikTvd": "2012000461467",
     "tikName": "Тахтамукайская ",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2833,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2650,
@@ -3185,12 +3805,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 217,
-      "Гукасян Сергей Георгиевич": 71,
-      "Михайлов Андрей Павлович": 132,
-      "Резник Владислав Матусович": 1524,
-      "Салов Евгений Иванович": 133,
-      "Цикуниб Русланбек Джахфарович": 145
+      "2012000469784": 217,
+      "2012000472636": 71,
+      "2012000466170": 132,
+      "2012000464062": 1524,
+      "2012000470491": 133,
+      "2012000474339": 145
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461467&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461467&type=464",
@@ -3200,6 +3820,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:46:35.204980+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461467&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461467&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -3209,8 +3833,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 277,
     "uikTvd": "4014007280361",
+    "uikName": "УИК №277",
     "tikTvd": "2012000461467",
     "tikName": "Тахтамукайская ",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1610,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1520,
@@ -3226,12 +3854,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 90,
-      "Гукасян Сергей Георгиевич": 58,
-      "Михайлов Андрей Павлович": 69,
-      "Резник Владислав Матусович": 862,
-      "Салов Евгений Иванович": 155,
-      "Цикуниб Русланбек Джахфарович": 91
+      "2012000469784": 90,
+      "2012000472636": 58,
+      "2012000466170": 69,
+      "2012000464062": 862,
+      "2012000470491": 155,
+      "2012000474339": 91
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461467&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461467&type=464",
@@ -3241,6 +3869,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:46:35.204980+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461467&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461467&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -3250,8 +3882,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 278,
     "uikTvd": "4014007280362",
+    "uikName": "УИК №278",
     "tikTvd": "2012000461467",
     "tikName": "Тахтамукайская ",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2191,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2050,
@@ -3267,12 +3903,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 56,
-      "Гукасян Сергей Георгиевич": 35,
-      "Михайлов Андрей Павлович": 35,
-      "Резник Владислав Матусович": 1522,
-      "Салов Евгений Иванович": 128,
-      "Цикуниб Русланбек Джахфарович": 92
+      "2012000469784": 56,
+      "2012000472636": 35,
+      "2012000466170": 35,
+      "2012000464062": 1522,
+      "2012000470491": 128,
+      "2012000474339": 92
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461467&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461467&type=464",
@@ -3282,6 +3918,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:46:35.204980+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461467&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461467&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -3291,8 +3931,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 115,
     "uikTvd": "4014005348858",
+    "uikName": "УИК №115",
     "tikTvd": "2012000461468",
     "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 535,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 563,
@@ -3308,12 +3952,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 11,
-      "Гукасян Сергей Георгиевич": 17,
-      "Михайлов Андрей Павлович": 33,
-      "Резник Владислав Матусович": 235,
-      "Салов Евгений Иванович": 45,
-      "Цикуниб Русланбек Джахфарович": 19
+      "2012000469784": 11,
+      "2012000472636": 17,
+      "2012000466170": 33,
+      "2012000464062": 235,
+      "2012000470491": 45,
+      "2012000474339": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461468&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461468&type=464",
@@ -3323,6 +3967,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:42:32.614743+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461468&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461468&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -3332,8 +3980,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 116,
     "uikTvd": "4014005348859",
+    "uikName": "УИК №116",
     "tikTvd": "2012000461468",
     "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1744,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1750,
@@ -3349,12 +4001,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 45,
-      "Гукасян Сергей Георгиевич": 54,
-      "Михайлов Андрей Павлович": 79,
-      "Резник Владислав Матусович": 296,
-      "Салов Евгений Иванович": 108,
-      "Цикуниб Русланбек Джахфарович": 48
+      "2012000469784": 45,
+      "2012000472636": 54,
+      "2012000466170": 79,
+      "2012000464062": 296,
+      "2012000470491": 108,
+      "2012000474339": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461468&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461468&type=464",
@@ -3364,6 +4016,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:42:32.614743+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461468&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461468&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -3373,8 +4029,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 117,
     "uikTvd": "4014005348860",
+    "uikName": "УИК №117",
     "tikTvd": "2012000461468",
     "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2123,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2150,
@@ -3390,12 +4050,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 47,
-      "Гукасян Сергей Георгиевич": 72,
-      "Михайлов Андрей Павлович": 114,
-      "Резник Владислав Матусович": 742,
-      "Салов Евгений Иванович": 175,
-      "Цикуниб Русланбек Джахфарович": 69
+      "2012000469784": 47,
+      "2012000472636": 72,
+      "2012000466170": 114,
+      "2012000464062": 742,
+      "2012000470491": 175,
+      "2012000474339": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461468&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461468&type=464",
@@ -3405,6 +4065,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:42:32.614743+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461468&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461468&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -3414,8 +4078,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 118,
     "uikTvd": "4014005348861",
+    "uikName": "УИК №118",
     "tikTvd": "2012000461468",
     "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2014,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1900,
@@ -3431,12 +4099,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 51,
-      "Гукасян Сергей Георгиевич": 72,
-      "Михайлов Андрей Павлович": 84,
-      "Резник Владислав Матусович": 628,
-      "Салов Евгений Иванович": 152,
-      "Цикуниб Русланбек Джахфарович": 56
+      "2012000469784": 51,
+      "2012000472636": 72,
+      "2012000466170": 84,
+      "2012000464062": 628,
+      "2012000470491": 152,
+      "2012000474339": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461468&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461468&type=464",
@@ -3446,6 +4114,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:42:32.614743+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461468&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461468&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -3455,8 +4127,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 119,
     "uikTvd": "4014005348862",
+    "uikName": "УИК №119",
     "tikTvd": "2012000461468",
     "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2095,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2050,
@@ -3472,12 +4148,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 35,
-      "Гукасян Сергей Георгиевич": 54,
-      "Михайлов Андрей Павлович": 56,
-      "Резник Владислав Матусович": 493,
-      "Салов Евгений Иванович": 427,
-      "Цикуниб Русланбек Джахфарович": 41
+      "2012000469784": 35,
+      "2012000472636": 54,
+      "2012000466170": 56,
+      "2012000464062": 493,
+      "2012000470491": 427,
+      "2012000474339": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461468&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461468&type=464",
@@ -3487,6 +4163,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:42:32.614743+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461468&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461468&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -3496,8 +4176,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 120,
     "uikTvd": "4014005348863",
+    "uikName": "УИК №120",
     "tikTvd": "2012000461468",
     "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2108,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2000,
@@ -3513,12 +4197,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 50,
-      "Гукасян Сергей Георгиевич": 58,
-      "Михайлов Андрей Павлович": 86,
-      "Резник Владислав Матусович": 769,
-      "Салов Евгений Иванович": 150,
-      "Цикуниб Русланбек Джахфарович": 96
+      "2012000469784": 50,
+      "2012000472636": 58,
+      "2012000466170": 86,
+      "2012000464062": 769,
+      "2012000470491": 150,
+      "2012000474339": 96
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461468&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461468&type=464",
@@ -3528,6 +4212,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:42:32.614743+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461468&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461468&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -3537,8 +4225,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 121,
     "uikTvd": "4014005348864",
+    "uikName": "УИК №121",
     "tikTvd": "2012000461468",
     "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2263,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2300,
@@ -3554,12 +4246,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 60,
-      "Гукасян Сергей Георгиевич": 155,
-      "Михайлов Андрей Павлович": 88,
-      "Резник Владислав Матусович": 700,
-      "Салов Евгений Иванович": 164,
-      "Цикуниб Русланбек Джахфарович": 49
+      "2012000469784": 60,
+      "2012000472636": 155,
+      "2012000466170": 88,
+      "2012000464062": 700,
+      "2012000470491": 164,
+      "2012000474339": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461468&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461468&type=464",
@@ -3569,6 +4261,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:42:32.614743+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461468&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461468&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -3578,8 +4274,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 122,
     "uikTvd": "4014005348865",
+    "uikName": "УИК №122",
     "tikTvd": "2012000461468",
     "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2245,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2200,
@@ -3595,12 +4295,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 31,
-      "Гукасян Сергей Георгиевич": 58,
-      "Михайлов Андрей Павлович": 87,
-      "Резник Владислав Матусович": 853,
-      "Салов Евгений Иванович": 132,
-      "Цикуниб Русланбек Джахфарович": 51
+      "2012000469784": 31,
+      "2012000472636": 58,
+      "2012000466170": 87,
+      "2012000464062": 853,
+      "2012000470491": 132,
+      "2012000474339": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461468&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461468&type=464",
@@ -3610,6 +4310,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:42:32.614743+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461468&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461468&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -3619,8 +4323,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 123,
     "uikTvd": "4014005348866",
+    "uikName": "УИК №123",
     "tikTvd": "2012000461468",
     "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2800,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2800,
@@ -3636,12 +4344,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 66,
-      "Гукасян Сергей Георгиевич": 68,
-      "Михайлов Андрей Павлович": 172,
-      "Резник Владислав Матусович": 644,
-      "Салов Евгений Иванович": 220,
-      "Цикуниб Русланбек Джахфарович": 71
+      "2012000469784": 66,
+      "2012000472636": 68,
+      "2012000466170": 172,
+      "2012000464062": 644,
+      "2012000470491": 220,
+      "2012000474339": 71
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461468&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461468&type=464",
@@ -3651,6 +4359,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:42:32.614743+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461468&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461468&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -3660,8 +4372,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 124,
     "uikTvd": "4014005348867",
+    "uikName": "УИК №124",
     "tikTvd": "2012000461468",
     "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2452,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2450,
@@ -3677,12 +4393,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 95,
-      "Гукасян Сергей Георгиевич": 61,
-      "Михайлов Андрей Павлович": 107,
-      "Резник Владислав Матусович": 512,
-      "Салов Евгений Иванович": 221,
-      "Цикуниб Русланбек Джахфарович": 106
+      "2012000469784": 95,
+      "2012000472636": 61,
+      "2012000466170": 107,
+      "2012000464062": 512,
+      "2012000470491": 221,
+      "2012000474339": 106
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461468&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461468&type=464",
@@ -3692,6 +4408,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:42:32.614743+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461468&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461468&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -3701,8 +4421,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 125,
     "uikTvd": "4014005348868",
+    "uikName": "УИК №125",
     "tikTvd": "2012000461468",
     "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2599,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2400,
@@ -3718,12 +4442,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 68,
-      "Гукасян Сергей Георгиевич": 94,
-      "Михайлов Андрей Павлович": 177,
-      "Резник Владислав Матусович": 958,
-      "Салов Евгений Иванович": 265,
-      "Цикуниб Русланбек Джахфарович": 125
+      "2012000469784": 68,
+      "2012000472636": 94,
+      "2012000466170": 177,
+      "2012000464062": 958,
+      "2012000470491": 265,
+      "2012000474339": 125
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461468&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461468&type=464",
@@ -3733,6 +4457,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:42:32.614743+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461468&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461468&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -3742,8 +4470,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 126,
     "uikTvd": "4014005348869",
+    "uikName": "УИК №126",
     "tikTvd": "2012000461468",
     "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2409,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2450,
@@ -3759,12 +4491,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 74,
-      "Гукасян Сергей Георгиевич": 60,
-      "Михайлов Андрей Павлович": 121,
-      "Резник Владислав Матусович": 1079,
-      "Салов Евгений Иванович": 272,
-      "Цикуниб Русланбек Джахфарович": 93
+      "2012000469784": 74,
+      "2012000472636": 60,
+      "2012000466170": 121,
+      "2012000464062": 1079,
+      "2012000470491": 272,
+      "2012000474339": 93
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461468&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461468&type=464",
@@ -3774,6 +4506,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:42:32.614743+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461468&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461468&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -3783,8 +4519,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 127,
     "uikTvd": "4014005348870",
+    "uikName": "УИК №127",
     "tikTvd": "2012000461468",
     "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1785,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1802,
@@ -3800,12 +4540,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 35,
-      "Гукасян Сергей Георгиевич": 67,
-      "Михайлов Андрей Павлович": 102,
-      "Резник Владислав Матусович": 282,
-      "Салов Евгений Иванович": 206,
-      "Цикуниб Русланбек Джахфарович": 84
+      "2012000469784": 35,
+      "2012000472636": 67,
+      "2012000466170": 102,
+      "2012000464062": 282,
+      "2012000470491": 206,
+      "2012000474339": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461468&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461468&type=464",
@@ -3815,6 +4555,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:42:32.614743+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461468&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461468&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -3824,8 +4568,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 128,
     "uikTvd": "4014005348871",
+    "uikName": "УИК №128",
     "tikTvd": "2012000461468",
     "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1290,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1293,
@@ -3841,12 +4589,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 21,
-      "Гукасян Сергей Георгиевич": 46,
-      "Михайлов Андрей Павлович": 67,
-      "Резник Владислав Матусович": 110,
-      "Салов Евгений Иванович": 121,
-      "Цикуниб Русланбек Джахфарович": 53
+      "2012000469784": 21,
+      "2012000472636": 46,
+      "2012000466170": 67,
+      "2012000464062": 110,
+      "2012000470491": 121,
+      "2012000474339": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461468&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461468&type=464",
@@ -3856,6 +4604,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:42:32.614743+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461468&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461468&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -3865,8 +4617,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 129,
     "uikTvd": "4014005348872",
+    "uikName": "УИК №129",
     "tikTvd": "2012000461468",
     "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2303,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2200,
@@ -3882,12 +4638,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 58,
-      "Гукасян Сергей Георгиевич": 71,
-      "Михайлов Андрей Павлович": 117,
-      "Резник Владислав Матусович": 738,
-      "Салов Евгений Иванович": 236,
-      "Цикуниб Русланбек Джахфарович": 88
+      "2012000469784": 58,
+      "2012000472636": 71,
+      "2012000466170": 117,
+      "2012000464062": 738,
+      "2012000470491": 236,
+      "2012000474339": 88
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461468&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461468&type=464",
@@ -3897,6 +4653,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:42:32.614743+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461468&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461468&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -3906,8 +4666,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 130,
     "uikTvd": "4014005348873",
+    "uikName": "УИК №130",
     "tikTvd": "2012000461468",
     "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1606,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1550,
@@ -3923,12 +4687,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 43,
-      "Гукасян Сергей Георгиевич": 74,
-      "Михайлов Андрей Павлович": 73,
-      "Резник Владислав Матусович": 217,
-      "Салов Евгений Иванович": 198,
-      "Цикуниб Русланбек Джахфарович": 48
+      "2012000469784": 43,
+      "2012000472636": 74,
+      "2012000466170": 73,
+      "2012000464062": 217,
+      "2012000470491": 198,
+      "2012000474339": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461468&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461468&type=464",
@@ -3938,6 +4702,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:42:32.614743+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461468&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461468&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -3947,8 +4715,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 131,
     "uikTvd": "4014005348874",
+    "uikName": "УИК №131",
     "tikTvd": "2012000461468",
     "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1703,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1700,
@@ -3964,12 +4736,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 60,
-      "Гукасян Сергей Георгиевич": 80,
-      "Михайлов Андрей Павлович": 79,
-      "Резник Владислав Матусович": 420,
-      "Салов Евгений Иванович": 129,
-      "Цикуниб Русланбек Джахфарович": 42
+      "2012000469784": 60,
+      "2012000472636": 80,
+      "2012000466170": 79,
+      "2012000464062": 420,
+      "2012000470491": 129,
+      "2012000474339": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461468&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461468&type=464",
@@ -3979,6 +4751,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:42:32.614743+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461468&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461468&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -3988,8 +4764,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 132,
     "uikTvd": "4014005348875",
+    "uikName": "УИК №132",
     "tikTvd": "2012000461468",
     "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2036,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2050,
@@ -4005,12 +4785,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 53,
-      "Гукасян Сергей Георгиевич": 69,
-      "Михайлов Андрей Павлович": 83,
-      "Резник Владислав Матусович": 466,
-      "Салов Евгений Иванович": 139,
-      "Цикуниб Русланбек Джахфарович": 60
+      "2012000469784": 53,
+      "2012000472636": 69,
+      "2012000466170": 83,
+      "2012000464062": 466,
+      "2012000470491": 139,
+      "2012000474339": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461468&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461468&type=464",
@@ -4020,6 +4800,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:42:32.614743+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461468&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461468&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -4029,8 +4813,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 133,
     "uikTvd": "4014005348876",
+    "uikName": "УИК №133",
     "tikTvd": "2012000461468",
     "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2386,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2400,
@@ -4046,12 +4834,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 103,
-      "Гукасян Сергей Георгиевич": 113,
-      "Михайлов Андрей Павлович": 156,
-      "Резник Владислав Матусович": 882,
-      "Салов Евгений Иванович": 195,
-      "Цикуниб Русланбек Джахфарович": 64
+      "2012000469784": 103,
+      "2012000472636": 113,
+      "2012000466170": 156,
+      "2012000464062": 882,
+      "2012000470491": 195,
+      "2012000474339": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461468&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461468&type=464",
@@ -4061,6 +4849,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:42:32.614743+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461468&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461468&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -4070,8 +4862,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 134,
     "uikTvd": "4014005348877",
+    "uikName": "УИК №134",
     "tikTvd": "2012000461468",
     "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1508,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1500,
@@ -4087,12 +4883,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 37,
-      "Гукасян Сергей Георгиевич": 45,
-      "Михайлов Андрей Павлович": 78,
-      "Резник Владислав Матусович": 395,
-      "Салов Евгений Иванович": 321,
-      "Цикуниб Русланбек Джахфарович": 75
+      "2012000469784": 37,
+      "2012000472636": 45,
+      "2012000466170": 78,
+      "2012000464062": 395,
+      "2012000470491": 321,
+      "2012000474339": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461468&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461468&type=464",
@@ -4102,6 +4898,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:42:32.614743+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461468&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461468&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -4111,8 +4911,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 135,
     "uikTvd": "4014005348878",
+    "uikName": "УИК №135",
     "tikTvd": "2012000461468",
     "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1723,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1700,
@@ -4128,12 +4932,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 41,
-      "Гукасян Сергей Георгиевич": 45,
-      "Михайлов Андрей Павлович": 72,
-      "Резник Владислав Матусович": 751,
-      "Салов Евгений Иванович": 140,
-      "Цикуниб Русланбек Джахфарович": 72
+      "2012000469784": 41,
+      "2012000472636": 45,
+      "2012000466170": 72,
+      "2012000464062": 751,
+      "2012000470491": 140,
+      "2012000474339": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461468&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461468&type=464",
@@ -4143,6 +4947,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:42:32.614743+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461468&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461468&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -4152,8 +4960,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 136,
     "uikTvd": "4014005348879",
+    "uikName": "УИК №136",
     "tikTvd": "2012000461468",
     "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1664,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1650,
@@ -4169,12 +4981,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 40,
-      "Гукасян Сергей Георгиевич": 51,
-      "Михайлов Андрей Павлович": 91,
-      "Резник Владислав Матусович": 661,
-      "Салов Евгений Иванович": 155,
-      "Цикуниб Русланбек Джахфарович": 46
+      "2012000469784": 40,
+      "2012000472636": 51,
+      "2012000466170": 91,
+      "2012000464062": 661,
+      "2012000470491": 155,
+      "2012000474339": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461468&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461468&type=464",
@@ -4184,6 +4996,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:42:32.614743+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461468&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461468&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -4193,8 +5009,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 137,
     "uikTvd": "4014005348880",
+    "uikName": "УИК №137",
     "tikTvd": "2012000461468",
     "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1675,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1700,
@@ -4210,12 +5030,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 40,
-      "Гукасян Сергей Георгиевич": 56,
-      "Михайлов Андрей Павлович": 84,
-      "Резник Владислав Матусович": 767,
-      "Салов Евгений Иванович": 151,
-      "Цикуниб Русланбек Джахфарович": 54
+      "2012000469784": 40,
+      "2012000472636": 56,
+      "2012000466170": 84,
+      "2012000464062": 767,
+      "2012000470491": 151,
+      "2012000474339": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461468&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461468&type=464",
@@ -4225,6 +5045,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:42:32.614743+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461468&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461468&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -4234,8 +5058,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 138,
     "uikTvd": "4014005348881",
+    "uikName": "УИК №138",
     "tikTvd": "2012000461468",
     "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1797,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1700,
@@ -4251,12 +5079,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 35,
-      "Гукасян Сергей Георгиевич": 57,
-      "Михайлов Андрей Павлович": 64,
-      "Резник Владислав Матусович": 839,
-      "Салов Евгений Иванович": 148,
-      "Цикуниб Русланбек Джахфарович": 59
+      "2012000469784": 35,
+      "2012000472636": 57,
+      "2012000466170": 64,
+      "2012000464062": 839,
+      "2012000470491": 148,
+      "2012000474339": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461468&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461468&type=464",
@@ -4266,6 +5094,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:42:32.614743+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461468&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461468&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -4275,8 +5107,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 139,
     "uikTvd": "4014005348882",
+    "uikName": "УИК №139",
     "tikTvd": "2012000461468",
     "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2480,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2500,
@@ -4292,12 +5128,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 63,
-      "Гукасян Сергей Георгиевич": 79,
-      "Михайлов Андрей Павлович": 107,
-      "Резник Владислав Матусович": 844,
-      "Салов Евгений Иванович": 303,
-      "Цикуниб Русланбек Джахфарович": 80
+      "2012000469784": 63,
+      "2012000472636": 79,
+      "2012000466170": 107,
+      "2012000464062": 844,
+      "2012000470491": 303,
+      "2012000474339": 80
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461468&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461468&type=464",
@@ -4307,6 +5143,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:42:32.614743+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461468&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461468&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -4316,8 +5156,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 140,
     "uikTvd": "4014005348883",
+    "uikName": "УИК №140",
     "tikTvd": "2012000461468",
     "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1749,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1750,
@@ -4333,12 +5177,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 33,
-      "Гукасян Сергей Георгиевич": 38,
-      "Михайлов Андрей Павлович": 93,
-      "Резник Владислав Матусович": 250,
-      "Салов Евгений Иванович": 184,
-      "Цикуниб Русланбек Джахфарович": 66
+      "2012000469784": 33,
+      "2012000472636": 38,
+      "2012000466170": 93,
+      "2012000464062": 250,
+      "2012000470491": 184,
+      "2012000474339": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461468&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461468&type=464",
@@ -4348,6 +5192,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:42:32.614743+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461468&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461468&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -4357,8 +5205,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 141,
     "uikTvd": "4014005348884",
+    "uikName": "УИК №141",
     "tikTvd": "2012000461468",
     "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2673,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2650,
@@ -4374,12 +5226,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 50,
-      "Гукасян Сергей Георгиевич": 80,
-      "Михайлов Андрей Павлович": 161,
-      "Резник Владислав Матусович": 231,
-      "Салов Евгений Иванович": 318,
-      "Цикуниб Русланбек Джахфарович": 105
+      "2012000469784": 50,
+      "2012000472636": 80,
+      "2012000466170": 161,
+      "2012000464062": 231,
+      "2012000470491": 318,
+      "2012000474339": 105
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461468&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461468&type=464",
@@ -4389,6 +5241,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:42:32.614743+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461468&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461468&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -4398,8 +5254,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 142,
     "uikTvd": "4014005348885",
+    "uikName": "УИК №142",
     "tikTvd": "2012000461468",
     "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2279,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2300,
@@ -4415,12 +5275,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 45,
-      "Гукасян Сергей Георгиевич": 72,
-      "Михайлов Андрей Павлович": 114,
-      "Резник Владислав Матусович": 221,
-      "Салов Евгений Иванович": 235,
-      "Цикуниб Русланбек Джахфарович": 115
+      "2012000469784": 45,
+      "2012000472636": 72,
+      "2012000466170": 114,
+      "2012000464062": 221,
+      "2012000470491": 235,
+      "2012000474339": 115
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461468&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461468&type=464",
@@ -4430,6 +5290,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:42:32.614743+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461468&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461468&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -4439,8 +5303,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 143,
     "uikTvd": "4014005348886",
+    "uikName": "УИК №143",
     "tikTvd": "2012000461468",
     "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1474,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1428,
@@ -4456,12 +5324,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 34,
-      "Гукасян Сергей Георгиевич": 28,
-      "Михайлов Андрей Павлович": 78,
-      "Резник Владислав Матусович": 362,
-      "Салов Евгений Иванович": 96,
-      "Цикуниб Русланбек Джахфарович": 49
+      "2012000469784": 34,
+      "2012000472636": 28,
+      "2012000466170": 78,
+      "2012000464062": 362,
+      "2012000470491": 96,
+      "2012000474339": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461468&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461468&type=464",
@@ -4471,6 +5339,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:42:32.614743+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461468&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461468&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -4480,8 +5352,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 144,
     "uikTvd": "4014005348887",
+    "uikName": "УИК №144",
     "tikTvd": "2012000461468",
     "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1374,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1400,
@@ -4497,12 +5373,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 43,
-      "Гукасян Сергей Георгиевич": 34,
-      "Михайлов Андрей Павлович": 64,
-      "Резник Владислав Матусович": 226,
-      "Салов Евгений Иванович": 152,
-      "Цикуниб Русланбек Джахфарович": 49
+      "2012000469784": 43,
+      "2012000472636": 34,
+      "2012000466170": 64,
+      "2012000464062": 226,
+      "2012000470491": 152,
+      "2012000474339": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461468&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461468&type=464",
@@ -4512,6 +5388,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:42:32.614743+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461468&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461468&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -4521,8 +5401,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 145,
     "uikTvd": "4014005348888",
+    "uikName": "УИК №145",
     "tikTvd": "2012000461468",
     "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1443,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1450,
@@ -4538,12 +5422,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 30,
-      "Гукасян Сергей Георгиевич": 35,
-      "Михайлов Андрей Павлович": 67,
-      "Резник Владислав Матусович": 119,
-      "Салов Евгений Иванович": 109,
-      "Цикуниб Русланбек Джахфарович": 43
+      "2012000469784": 30,
+      "2012000472636": 35,
+      "2012000466170": 67,
+      "2012000464062": 119,
+      "2012000470491": 109,
+      "2012000474339": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461468&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461468&type=464",
@@ -4553,6 +5437,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:42:32.614743+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461468&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461468&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -4562,8 +5450,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 146,
     "uikTvd": "4014005348889",
+    "uikName": "УИК №146",
     "tikTvd": "2012000461468",
     "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1433,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1400,
@@ -4579,12 +5471,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 33,
-      "Гукасян Сергей Георгиевич": 33,
-      "Михайлов Андрей Павлович": 59,
-      "Резник Владислав Матусович": 581,
-      "Салов Евгений Иванович": 141,
-      "Цикуниб Русланбек Джахфарович": 52
+      "2012000469784": 33,
+      "2012000472636": 33,
+      "2012000466170": 59,
+      "2012000464062": 581,
+      "2012000470491": 141,
+      "2012000474339": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461468&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461468&type=464",
@@ -4594,6 +5486,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:42:32.614743+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461468&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461468&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -4603,8 +5499,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 147,
     "uikTvd": "4014005348890",
+    "uikName": "УИК №147",
     "tikTvd": "2012000461468",
     "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1342,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1300,
@@ -4620,12 +5520,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 31,
-      "Гукасян Сергей Георгиевич": 62,
-      "Михайлов Андрей Павлович": 65,
-      "Резник Владислав Матусович": 136,
-      "Салов Евгений Иванович": 124,
-      "Цикуниб Русланбек Джахфарович": 41
+      "2012000469784": 31,
+      "2012000472636": 62,
+      "2012000466170": 65,
+      "2012000464062": 136,
+      "2012000470491": 124,
+      "2012000474339": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461468&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461468&type=464",
@@ -4635,6 +5535,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:42:32.614743+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461468&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461468&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -4644,8 +5548,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 148,
     "uikTvd": "4014005348891",
+    "uikName": "УИК №148",
     "tikTvd": "2012000461468",
     "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1526,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1500,
@@ -4661,12 +5569,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 34,
-      "Гукасян Сергей Георгиевич": 62,
-      "Михайлов Андрей Павлович": 85,
-      "Резник Владислав Матусович": 324,
-      "Салов Евгений Иванович": 157,
-      "Цикуниб Русланбек Джахфарович": 41
+      "2012000469784": 34,
+      "2012000472636": 62,
+      "2012000466170": 85,
+      "2012000464062": 324,
+      "2012000470491": 157,
+      "2012000474339": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461468&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461468&type=464",
@@ -4676,6 +5584,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:42:32.614743+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461468&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461468&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -4685,8 +5597,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 149,
     "uikTvd": "4014005348892",
+    "uikName": "УИК №149",
     "tikTvd": "2012000461468",
     "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1857,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1850,
@@ -4702,12 +5618,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 51,
-      "Гукасян Сергей Георгиевич": 55,
-      "Михайлов Андрей Павлович": 76,
-      "Резник Владислав Матусович": 890,
-      "Салов Евгений Иванович": 166,
-      "Цикуниб Русланбек Джахфарович": 46
+      "2012000469784": 51,
+      "2012000472636": 55,
+      "2012000466170": 76,
+      "2012000464062": 890,
+      "2012000470491": 166,
+      "2012000474339": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461468&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461468&type=464",
@@ -4717,6 +5633,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:42:32.614743+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461468&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461468&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -4726,8 +5646,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 150,
     "uikTvd": "4014005348893",
+    "uikName": "УИК №150",
     "tikTvd": "2012000461468",
     "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1815,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1850,
@@ -4743,12 +5667,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 44,
-      "Гукасян Сергей Георгиевич": 64,
-      "Михайлов Андрей Павлович": 86,
-      "Резник Владислав Матусович": 805,
-      "Салов Евгений Иванович": 148,
-      "Цикуниб Русланбек Джахфарович": 23
+      "2012000469784": 44,
+      "2012000472636": 64,
+      "2012000466170": 86,
+      "2012000464062": 805,
+      "2012000470491": 148,
+      "2012000474339": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461468&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461468&type=464",
@@ -4758,6 +5682,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:42:32.614743+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461468&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461468&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -4767,8 +5695,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 151,
     "uikTvd": "4014005348894",
+    "uikName": "УИК №151",
     "tikTvd": "2012000461468",
     "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2768,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2750,
@@ -4784,12 +5716,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 55,
-      "Гукасян Сергей Георгиевич": 78,
-      "Михайлов Андрей Павлович": 110,
-      "Резник Владислав Матусович": 432,
-      "Салов Евгений Иванович": 258,
-      "Цикуниб Русланбек Джахфарович": 91
+      "2012000469784": 55,
+      "2012000472636": 78,
+      "2012000466170": 110,
+      "2012000464062": 432,
+      "2012000470491": 258,
+      "2012000474339": 91
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461468&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461468&type=464",
@@ -4799,6 +5731,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:42:32.614743+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461468&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461468&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -4808,8 +5744,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 152,
     "uikTvd": "4014005348895",
+    "uikName": "УИК №152",
     "tikTvd": "2012000461468",
     "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2174,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2150,
@@ -4825,12 +5765,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 61,
-      "Гукасян Сергей Георгиевич": 64,
-      "Михайлов Андрей Павлович": 241,
-      "Резник Владислав Матусович": 1031,
-      "Салов Евгений Иванович": 170,
-      "Цикуниб Русланбек Джахфарович": 62
+      "2012000469784": 61,
+      "2012000472636": 64,
+      "2012000466170": 241,
+      "2012000464062": 1031,
+      "2012000470491": 170,
+      "2012000474339": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461468&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461468&type=464",
@@ -4840,6 +5780,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:42:32.614743+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461468&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461468&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -4849,8 +5793,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 153,
     "uikTvd": "4014005348896",
+    "uikName": "УИК №153",
     "tikTvd": "2012000461468",
     "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 3016,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2950,
@@ -4866,12 +5814,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 42,
-      "Гукасян Сергей Георгиевич": 77,
-      "Михайлов Андрей Павлович": 107,
-      "Резник Владислав Матусович": 274,
-      "Салов Евгений Иванович": 209,
-      "Цикуниб Русланбек Джахфарович": 101
+      "2012000469784": 42,
+      "2012000472636": 77,
+      "2012000466170": 107,
+      "2012000464062": 274,
+      "2012000470491": 209,
+      "2012000474339": 101
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461468&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461468&type=464",
@@ -4881,6 +5829,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:42:32.614743+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461468&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461468&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -4890,8 +5842,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 154,
     "uikTvd": "4014005348897",
+    "uikName": "УИК №154",
     "tikTvd": "2012000461468",
     "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 3134,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2950,
@@ -4907,12 +5863,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 81,
-      "Гукасян Сергей Георгиевич": 126,
-      "Михайлов Андрей Павлович": 184,
-      "Резник Владислав Матусович": 900,
-      "Салов Евгений Иванович": 340,
-      "Цикуниб Русланбек Джахфарович": 71
+      "2012000469784": 81,
+      "2012000472636": 126,
+      "2012000466170": 184,
+      "2012000464062": 900,
+      "2012000470491": 340,
+      "2012000474339": 71
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461468&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461468&type=464",
@@ -4922,6 +5878,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:42:32.614743+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461468&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461468&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -4931,8 +5891,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 155,
     "uikTvd": "4014005348898",
+    "uikName": "УИК №155",
     "tikTvd": "2012000461468",
     "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1448,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1300,
@@ -4948,12 +5912,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 50,
-      "Гукасян Сергей Георгиевич": 64,
-      "Михайлов Андрей Павлович": 69,
-      "Резник Владислав Матусович": 158,
-      "Салов Евгений Иванович": 115,
-      "Цикуниб Русланбек Джахфарович": 61
+      "2012000469784": 50,
+      "2012000472636": 64,
+      "2012000466170": 69,
+      "2012000464062": 158,
+      "2012000470491": 115,
+      "2012000474339": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461468&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461468&type=464",
@@ -4963,6 +5927,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:42:32.614743+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461468&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461468&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -4972,8 +5940,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 156,
     "uikTvd": "4014005348899",
+    "uikName": "УИК №156",
     "tikTvd": "2012000461468",
     "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1579,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1550,
@@ -4989,12 +5961,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 26,
-      "Гукасян Сергей Георгиевич": 59,
-      "Михайлов Андрей Павлович": 57,
-      "Резник Владислав Матусович": 297,
-      "Салов Евгений Иванович": 155,
-      "Цикуниб Русланбек Джахфарович": 63
+      "2012000469784": 26,
+      "2012000472636": 59,
+      "2012000466170": 57,
+      "2012000464062": 297,
+      "2012000470491": 155,
+      "2012000474339": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461468&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461468&type=464",
@@ -5004,6 +5976,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:42:32.614743+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461468&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461468&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -5013,8 +5989,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 157,
     "uikTvd": "4014005348900",
+    "uikName": "УИК №157",
     "tikTvd": "2012000461468",
     "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1184,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1150,
@@ -5030,12 +6010,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 16,
-      "Гукасян Сергей Георгиевич": 27,
-      "Михайлов Андрей Павлович": 35,
-      "Резник Владислав Матусович": 461,
-      "Салов Евгений Иванович": 79,
-      "Цикуниб Русланбек Джахфарович": 45
+      "2012000469784": 16,
+      "2012000472636": 27,
+      "2012000466170": 35,
+      "2012000464062": 461,
+      "2012000470491": 79,
+      "2012000474339": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461468&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461468&type=464",
@@ -5045,6 +6025,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:42:32.614743+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461468&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461468&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -5054,8 +6038,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 158,
     "uikTvd": "4014005348901",
+    "uikName": "УИК №158",
     "tikTvd": "2012000461468",
     "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1596,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1600,
@@ -5071,12 +6059,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 16,
-      "Гукасян Сергей Георгиевич": 25,
-      "Михайлов Андрей Павлович": 54,
-      "Резник Владислав Матусович": 81,
-      "Салов Евгений Иванович": 105,
-      "Цикуниб Русланбек Джахфарович": 26
+      "2012000469784": 16,
+      "2012000472636": 25,
+      "2012000466170": 54,
+      "2012000464062": 81,
+      "2012000470491": 105,
+      "2012000474339": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461468&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461468&type=464",
@@ -5086,6 +6074,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:42:32.614743+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461468&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461468&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -5095,8 +6087,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 159,
     "uikTvd": "4014005348902",
+    "uikName": "УИК №159",
     "tikTvd": "2012000461468",
     "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1988,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2000,
@@ -5112,12 +6108,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 61,
-      "Гукасян Сергей Георгиевич": 74,
-      "Михайлов Андрей Павлович": 115,
-      "Резник Владислав Матусович": 207,
-      "Салов Евгений Иванович": 186,
-      "Цикуниб Русланбек Джахфарович": 57
+      "2012000469784": 61,
+      "2012000472636": 74,
+      "2012000466170": 115,
+      "2012000464062": 207,
+      "2012000470491": 186,
+      "2012000474339": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461468&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461468&type=464",
@@ -5127,6 +6123,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:42:32.614743+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461468&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461468&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -5136,8 +6136,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 160,
     "uikTvd": "4014005348903",
+    "uikName": "УИК №160",
     "tikTvd": "2012000461468",
     "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1243,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1250,
@@ -5153,12 +6157,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 40,
-      "Гукасян Сергей Георгиевич": 43,
-      "Михайлов Андрей Павлович": 67,
-      "Резник Владислав Матусович": 206,
-      "Салов Евгений Иванович": 133,
-      "Цикуниб Русланбек Джахфарович": 34
+      "2012000469784": 40,
+      "2012000472636": 43,
+      "2012000466170": 67,
+      "2012000464062": 206,
+      "2012000470491": 133,
+      "2012000474339": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461468&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461468&type=464",
@@ -5168,6 +6172,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:42:32.614743+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461468&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461468&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -5177,8 +6185,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 161,
     "uikTvd": "4014005348904",
+    "uikName": "УИК №161",
     "tikTvd": "2012000461468",
     "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2596,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2550,
@@ -5194,12 +6206,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 109,
-      "Гукасян Сергей Георгиевич": 90,
-      "Михайлов Андрей Павлович": 155,
-      "Резник Владислав Матусович": 557,
-      "Салов Евгений Иванович": 258,
-      "Цикуниб Русланбек Джахфарович": 82
+      "2012000469784": 109,
+      "2012000472636": 90,
+      "2012000466170": 155,
+      "2012000464062": 557,
+      "2012000470491": 258,
+      "2012000474339": 82
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461468&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461468&type=464",
@@ -5209,6 +6221,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:42:32.614743+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461468&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461468&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -5218,8 +6234,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 162,
     "uikTvd": "4014005348905",
+    "uikName": "УИК №162",
     "tikTvd": "2012000461468",
     "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2276,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2250,
@@ -5235,12 +6255,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 96,
-      "Гукасян Сергей Георгиевич": 109,
-      "Михайлов Андрей Павлович": 168,
-      "Резник Владислав Матусович": 390,
-      "Салов Евгений Иванович": 234,
-      "Цикуниб Русланбек Джахфарович": 72
+      "2012000469784": 96,
+      "2012000472636": 109,
+      "2012000466170": 168,
+      "2012000464062": 390,
+      "2012000470491": 234,
+      "2012000474339": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461468&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461468&type=464",
@@ -5250,6 +6270,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:42:32.614743+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461468&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461468&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -5259,8 +6283,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 163,
     "uikTvd": "4014005348906",
+    "uikName": "УИК №163",
     "tikTvd": "2012000461468",
     "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2142,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2150,
@@ -5276,12 +6304,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 73,
-      "Гукасян Сергей Георгиевич": 72,
-      "Михайлов Андрей Павлович": 123,
-      "Резник Владислав Матусович": 227,
-      "Салов Евгений Иванович": 211,
-      "Цикуниб Русланбек Джахфарович": 44
+      "2012000469784": 73,
+      "2012000472636": 72,
+      "2012000466170": 123,
+      "2012000464062": 227,
+      "2012000470491": 211,
+      "2012000474339": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461468&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461468&type=464",
@@ -5291,6 +6319,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:42:32.614743+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461468&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461468&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -5300,8 +6332,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 164,
     "uikTvd": "4014005348907",
+    "uikName": "УИК №164",
     "tikTvd": "2012000461468",
     "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 989,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 850,
@@ -5317,12 +6353,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 25,
-      "Гукасян Сергей Георгиевич": 30,
-      "Михайлов Андрей Павлович": 33,
-      "Резник Владислав Матусович": 314,
-      "Салов Евгений Иванович": 71,
-      "Цикуниб Русланбек Джахфарович": 17
+      "2012000469784": 25,
+      "2012000472636": 30,
+      "2012000466170": 33,
+      "2012000464062": 314,
+      "2012000470491": 71,
+      "2012000474339": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461468&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461468&type=464",
@@ -5332,6 +6368,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:42:32.614743+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461468&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461468&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -5341,8 +6381,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 165,
     "uikTvd": "4014005348908",
+    "uikName": "УИК №165",
     "tikTvd": "2012000461468",
     "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1857,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1850,
@@ -5358,12 +6402,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 50,
-      "Гукасян Сергей Георгиевич": 59,
-      "Михайлов Андрей Павлович": 101,
-      "Резник Владислав Матусович": 399,
-      "Салов Евгений Иванович": 143,
-      "Цикуниб Русланбек Джахфарович": 84
+      "2012000469784": 50,
+      "2012000472636": 59,
+      "2012000466170": 101,
+      "2012000464062": 399,
+      "2012000470491": 143,
+      "2012000474339": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461468&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461468&type=464",
@@ -5373,6 +6417,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:42:32.614743+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461468&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461468&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -5382,8 +6430,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 166,
     "uikTvd": "4014005348909",
+    "uikName": "УИК №166",
     "tikTvd": "2012000461468",
     "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2118,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2100,
@@ -5399,12 +6451,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 150,
-      "Гукасян Сергей Георгиевич": 61,
-      "Михайлов Андрей Павлович": 118,
-      "Резник Владислав Матусович": 190,
-      "Салов Евгений Иванович": 541,
-      "Цикуниб Русланбек Джахфарович": 25
+      "2012000469784": 150,
+      "2012000472636": 61,
+      "2012000466170": 118,
+      "2012000464062": 190,
+      "2012000470491": 541,
+      "2012000474339": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461468&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461468&type=464",
@@ -5414,6 +6466,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:42:32.614743+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461468&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461468&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -5423,8 +6479,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 167,
     "uikTvd": "4014005348910",
+    "uikName": "УИК №167",
     "tikTvd": "2012000461468",
     "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2429,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2450,
@@ -5440,12 +6500,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 72,
-      "Гукасян Сергей Георгиевич": 78,
-      "Михайлов Андрей Павлович": 167,
-      "Резник Владислав Матусович": 339,
-      "Салов Евгений Иванович": 233,
-      "Цикуниб Русланбек Джахфарович": 67
+      "2012000469784": 72,
+      "2012000472636": 78,
+      "2012000466170": 167,
+      "2012000464062": 339,
+      "2012000470491": 233,
+      "2012000474339": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461468&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461468&type=464",
@@ -5455,6 +6515,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:42:32.614743+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461468&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461468&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -5464,8 +6528,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 168,
     "uikTvd": "4014005348911",
+    "uikName": "УИК №168",
     "tikTvd": "2012000461468",
     "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2219,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2250,
@@ -5481,12 +6549,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 72,
-      "Гукасян Сергей Георгиевич": 63,
-      "Михайлов Андрей Павлович": 148,
-      "Резник Владислав Матусович": 223,
-      "Салов Евгений Иванович": 212,
-      "Цикуниб Русланбек Джахфарович": 34
+      "2012000469784": 72,
+      "2012000472636": 63,
+      "2012000466170": 148,
+      "2012000464062": 223,
+      "2012000470491": 212,
+      "2012000474339": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461468&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461468&type=464",
@@ -5496,6 +6564,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:42:32.614743+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461468&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461468&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -5505,8 +6577,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 169,
     "uikTvd": "4014005348912",
+    "uikName": "УИК №169",
     "tikTvd": "2012000461468",
     "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2578,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2550,
@@ -5522,12 +6598,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 74,
-      "Гукасян Сергей Георгиевич": 99,
-      "Михайлов Андрей Павлович": 199,
-      "Резник Владислав Матусович": 319,
-      "Салов Евгений Иванович": 276,
-      "Цикуниб Русланбек Джахфарович": 62
+      "2012000469784": 74,
+      "2012000472636": 99,
+      "2012000466170": 199,
+      "2012000464062": 319,
+      "2012000470491": 276,
+      "2012000474339": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461468&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461468&type=464",
@@ -5537,6 +6613,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:42:32.614743+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461468&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461468&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -5546,8 +6626,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 170,
     "uikTvd": "4014005348913",
+    "uikName": "УИК №170",
     "tikTvd": "2012000461468",
     "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1329,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1302,
@@ -5563,12 +6647,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 28,
-      "Гукасян Сергей Георгиевич": 46,
-      "Михайлов Андрей Павлович": 66,
-      "Резник Владислав Матусович": 108,
-      "Салов Евгений Иванович": 107,
-      "Цикуниб Русланбек Джахфарович": 14
+      "2012000469784": 28,
+      "2012000472636": 46,
+      "2012000466170": 66,
+      "2012000464062": 108,
+      "2012000470491": 107,
+      "2012000474339": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461468&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461468&type=464",
@@ -5578,6 +6662,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:42:32.614743+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461468&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461468&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -5587,8 +6675,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 171,
     "uikTvd": "4014005348914",
+    "uikName": "УИК №171",
     "tikTvd": "2012000461468",
     "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2077,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2020,
@@ -5604,12 +6696,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 201,
-      "Гукасян Сергей Георгиевич": 168,
-      "Михайлов Андрей Павлович": 198,
-      "Резник Владислав Матусович": 488,
-      "Салов Евгений Иванович": 149,
-      "Цикуниб Русланбек Джахфарович": 99
+      "2012000469784": 201,
+      "2012000472636": 168,
+      "2012000466170": 198,
+      "2012000464062": 488,
+      "2012000470491": 149,
+      "2012000474339": 99
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461468&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461468&type=464",
@@ -5619,6 +6711,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:42:32.614743+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461468&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461468&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -5628,8 +6724,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 172,
     "uikTvd": "4014005348915",
+    "uikName": "УИК №172",
     "tikTvd": "2012000461468",
     "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 3023,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2900,
@@ -5645,12 +6745,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 42,
-      "Гукасян Сергей Георгиевич": 93,
-      "Михайлов Андрей Павлович": 130,
-      "Резник Владислав Матусович": 1267,
-      "Салов Евгений Иванович": 210,
-      "Цикуниб Русланбек Джахфарович": 129
+      "2012000469784": 42,
+      "2012000472636": 93,
+      "2012000466170": 130,
+      "2012000464062": 1267,
+      "2012000470491": 210,
+      "2012000474339": 129
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461468&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461468&type=464",
@@ -5660,6 +6760,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:42:32.614743+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461468&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461468&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -5669,8 +6773,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 173,
     "uikTvd": "4014005348916",
+    "uikName": "УИК №173",
     "tikTvd": "2012000461468",
     "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2000,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1950,
@@ -5686,12 +6794,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 35,
-      "Гукасян Сергей Георгиевич": 53,
-      "Михайлов Андрей Павлович": 85,
-      "Резник Владислав Матусович": 947,
-      "Салов Евгений Иванович": 130,
-      "Цикуниб Русланбек Джахфарович": 73
+      "2012000469784": 35,
+      "2012000472636": 53,
+      "2012000466170": 85,
+      "2012000464062": 947,
+      "2012000470491": 130,
+      "2012000474339": 73
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461468&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461468&type=464",
@@ -5701,6 +6809,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:42:32.614743+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461468&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461468&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -5710,8 +6822,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 174,
     "uikTvd": "4014005348917",
+    "uikName": "УИК №174",
     "tikTvd": "2012000461468",
     "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 518,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 500,
@@ -5727,12 +6843,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 21,
-      "Гукасян Сергей Георгиевич": 9,
-      "Михайлов Андрей Павлович": 39,
-      "Резник Владислав Матусович": 62,
-      "Салов Евгений Иванович": 26,
-      "Цикуниб Русланбек Джахфарович": 10
+      "2012000469784": 21,
+      "2012000472636": 9,
+      "2012000466170": 39,
+      "2012000464062": 62,
+      "2012000470491": 26,
+      "2012000474339": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461468&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461468&type=464",
@@ -5742,6 +6858,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:42:32.614743+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461468&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461468&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -5751,8 +6871,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 175,
     "uikTvd": "4014005348918",
+    "uikName": "УИК №175",
     "tikTvd": "2012000461468",
     "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2735,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2700,
@@ -5768,12 +6892,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 98,
-      "Гукасян Сергей Георгиевич": 100,
-      "Михайлов Андрей Павлович": 208,
-      "Резник Владислав Матусович": 1021,
-      "Салов Евгений Иванович": 224,
-      "Цикуниб Русланбек Джахфарович": 44
+      "2012000469784": 98,
+      "2012000472636": 100,
+      "2012000466170": 208,
+      "2012000464062": 1021,
+      "2012000470491": 224,
+      "2012000474339": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461468&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461468&type=464",
@@ -5783,6 +6907,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:42:32.614743+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461468&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461468&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -5792,8 +6920,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 176,
     "uikTvd": "4014005348919",
+    "uikName": "УИК №176",
     "tikTvd": "2012000461468",
     "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2700,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2700,
@@ -5809,12 +6941,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 88,
-      "Гукасян Сергей Георгиевич": 88,
-      "Михайлов Андрей Павлович": 156,
-      "Резник Владислав Матусович": 1189,
-      "Салов Евгений Иванович": 412,
-      "Цикуниб Русланбек Джахфарович": 30
+      "2012000469784": 88,
+      "2012000472636": 88,
+      "2012000466170": 156,
+      "2012000464062": 1189,
+      "2012000470491": 412,
+      "2012000474339": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461468&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461468&type=464",
@@ -5824,6 +6956,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:42:32.614743+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461468&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461468&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -5833,8 +6969,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 177,
     "uikTvd": "4014005348920",
+    "uikName": "УИК №177",
     "tikTvd": "2012000461468",
     "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1551,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1550,
@@ -5850,12 +6990,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 57,
-      "Гукасян Сергей Георгиевич": 58,
-      "Михайлов Андрей Павлович": 86,
-      "Резник Владислав Матусович": 144,
-      "Салов Евгений Иванович": 111,
-      "Цикуниб Русланбек Джахфарович": 13
+      "2012000469784": 57,
+      "2012000472636": 58,
+      "2012000466170": 86,
+      "2012000464062": 144,
+      "2012000470491": 111,
+      "2012000474339": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461468&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461468&type=464",
@@ -5865,6 +7005,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:42:32.614743+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461468&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461468&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -5874,8 +7018,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 178,
     "uikTvd": "4014005348921",
+    "uikName": "УИК №178",
     "tikTvd": "2012000461468",
     "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1052,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1027,
@@ -5891,12 +7039,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 23,
-      "Гукасян Сергей Георгиевич": 36,
-      "Михайлов Андрей Павлович": 66,
-      "Резник Владислав Матусович": 395,
-      "Салов Евгений Иванович": 55,
-      "Цикуниб Русланбек Джахфарович": 16
+      "2012000469784": 23,
+      "2012000472636": 36,
+      "2012000466170": 66,
+      "2012000464062": 395,
+      "2012000470491": 55,
+      "2012000474339": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461468&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461468&type=464",
@@ -5906,6 +7054,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:42:32.614743+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461468&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461468&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -5915,8 +7067,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 179,
     "uikTvd": "4014005348922",
+    "uikName": "УИК №179",
     "tikTvd": "2012000461468",
     "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 533,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 536,
@@ -5932,12 +7088,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 10,
-      "Гукасян Сергей Георгиевич": 14,
-      "Михайлов Андрей Павлович": 21,
-      "Резник Владислав Матусович": 265,
-      "Салов Евгений Иванович": 47,
-      "Цикуниб Русланбек Джахфарович": 4
+      "2012000469784": 10,
+      "2012000472636": 14,
+      "2012000466170": 21,
+      "2012000464062": 265,
+      "2012000470491": 47,
+      "2012000474339": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461468&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461468&type=464",
@@ -5947,6 +7103,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:42:32.614743+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461468&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461468&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -5956,8 +7116,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 180,
     "uikTvd": "4014005348923",
+    "uikName": "УИК №180",
     "tikTvd": "2012000461468",
     "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1255,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1239,
@@ -5973,12 +7137,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 41,
-      "Гукасян Сергей Георгиевич": 60,
-      "Михайлов Андрей Павлович": 43,
-      "Резник Владислав Матусович": 269,
-      "Салов Евгений Иванович": 89,
-      "Цикуниб Русланбек Джахфарович": 29
+      "2012000469784": 41,
+      "2012000472636": 60,
+      "2012000466170": 43,
+      "2012000464062": 269,
+      "2012000470491": 89,
+      "2012000474339": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461468&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461468&type=464",
@@ -5988,6 +7152,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:42:32.614743+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461468&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461468&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -5997,8 +7165,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 181,
     "uikTvd": "4014005348924",
+    "uikName": "УИК №181",
     "tikTvd": "2012000461468",
     "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 268,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 271,
@@ -6014,12 +7186,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 11,
-      "Гукасян Сергей Георгиевич": 8,
-      "Михайлов Андрей Павлович": 10,
-      "Резник Владислав Матусович": 123,
-      "Салов Евгений Иванович": 16,
-      "Цикуниб Русланбек Джахфарович": 2
+      "2012000469784": 11,
+      "2012000472636": 8,
+      "2012000466170": 10,
+      "2012000464062": 123,
+      "2012000470491": 16,
+      "2012000474339": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461468&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461468&type=464",
@@ -6029,6 +7201,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:42:32.614743+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461468&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461468&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -6038,8 +7214,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 182,
     "uikTvd": "4014005348925",
+    "uikName": "УИК №182",
     "tikTvd": "2012000461468",
     "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2571,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2450,
@@ -6055,12 +7235,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 90,
-      "Гукасян Сергей Георгиевич": 89,
-      "Михайлов Андрей Павлович": 110,
-      "Резник Владислав Матусович": 1101,
-      "Салов Евгений Иванович": 169,
-      "Цикуниб Русланбек Джахфарович": 58
+      "2012000469784": 90,
+      "2012000472636": 89,
+      "2012000466170": 110,
+      "2012000464062": 1101,
+      "2012000470491": 169,
+      "2012000474339": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461468&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461468&type=464",
@@ -6070,6 +7250,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:42:32.614743+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461468&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461468&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -6079,8 +7263,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 183,
     "uikTvd": "4014005348926",
+    "uikName": "УИК №183",
     "tikTvd": "2012000461468",
     "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2200,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2100,
@@ -6096,12 +7284,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 75,
-      "Гукасян Сергей Георгиевич": 66,
-      "Михайлов Андрей Павлович": 103,
-      "Резник Владислав Матусович": 488,
-      "Салов Евгений Иванович": 145,
-      "Цикуниб Русланбек Джахфарович": 21
+      "2012000469784": 75,
+      "2012000472636": 66,
+      "2012000466170": 103,
+      "2012000464062": 488,
+      "2012000470491": 145,
+      "2012000474339": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461468&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461468&type=464",
@@ -6111,6 +7299,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:42:32.614743+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461468&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461468&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -6120,8 +7312,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 184,
     "uikTvd": "4014005348927",
+    "uikName": "УИК №184",
     "tikTvd": "2012000461468",
     "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 129,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 132,
@@ -6137,12 +7333,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 9,
-      "Гукасян Сергей Георгиевич": 14,
-      "Михайлов Андрей Павлович": 12,
-      "Резник Владислав Матусович": 60,
-      "Салов Евгений Иванович": 27,
-      "Цикуниб Русланбек Джахфарович": 5
+      "2012000469784": 9,
+      "2012000472636": 14,
+      "2012000466170": 12,
+      "2012000464062": 60,
+      "2012000470491": 27,
+      "2012000474339": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461468&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461468&type=464",
@@ -6152,6 +7348,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:42:32.614743+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461468&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461468&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -6161,8 +7361,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 185,
     "uikTvd": "4014005348928",
+    "uikName": "УИК №185",
     "tikTvd": "2012000461468",
     "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 123,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 135,
@@ -6178,12 +7382,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 16,
-      "Гукасян Сергей Георгиевич": 12,
-      "Михайлов Андрей Павлович": 14,
-      "Резник Владислав Матусович": 40,
-      "Салов Евгений Иванович": 25,
-      "Цикуниб Русланбек Джахфарович": 13
+      "2012000469784": 16,
+      "2012000472636": 12,
+      "2012000466170": 14,
+      "2012000464062": 40,
+      "2012000470491": 25,
+      "2012000474339": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461468&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461468&type=464",
@@ -6193,6 +7397,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:42:32.614743+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461468&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461468&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -6202,8 +7410,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 186,
     "uikTvd": "4014005348929",
+    "uikName": "УИК №186",
     "tikTvd": "2012000461468",
     "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 209,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 199,
@@ -6219,12 +7431,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 14,
-      "Гукасян Сергей Георгиевич": 22,
-      "Михайлов Андрей Павлович": 23,
-      "Резник Владислав Матусович": 82,
-      "Салов Евгений Иванович": 37,
-      "Цикуниб Русланбек Джахфарович": 10
+      "2012000469784": 14,
+      "2012000472636": 22,
+      "2012000466170": 23,
+      "2012000464062": 82,
+      "2012000470491": 37,
+      "2012000474339": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461468&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461468&type=464",
@@ -6234,6 +7446,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:42:32.614743+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461468&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461468&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -6243,8 +7459,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 74,
     "uikTvd": "4014006393961",
+    "uikName": "УИК №74",
     "tikTvd": "2012000461469",
     "tikName": "Майкопская районная ",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2037,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2069,
@@ -6260,12 +7480,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 70,
-      "Гукасян Сергей Георгиевич": 110,
-      "Михайлов Андрей Павлович": 115,
-      "Резник Владислав Матусович": 853,
-      "Салов Евгений Иванович": 258,
-      "Цикуниб Русланбек Джахфарович": 24
+      "2012000469784": 70,
+      "2012000472636": 110,
+      "2012000466170": 115,
+      "2012000464062": 853,
+      "2012000470491": 258,
+      "2012000474339": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461469&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461469&type=464",
@@ -6275,6 +7495,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:42:32.833256+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461469&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461469&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -6284,8 +7508,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 75,
     "uikTvd": "4014006393962",
+    "uikName": "УИК №75",
     "tikTvd": "2012000461469",
     "tikName": "Майкопская районная ",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2407,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2366,
@@ -6301,12 +7529,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 80,
-      "Гукасян Сергей Георгиевич": 138,
-      "Михайлов Андрей Павлович": 130,
-      "Резник Владислав Матусович": 1013,
-      "Салов Евгений Иванович": 289,
-      "Цикуниб Русланбек Джахфарович": 30
+      "2012000469784": 80,
+      "2012000472636": 138,
+      "2012000466170": 130,
+      "2012000464062": 1013,
+      "2012000470491": 289,
+      "2012000474339": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461469&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461469&type=464",
@@ -6316,6 +7544,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:42:32.833256+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461469&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461469&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -6325,8 +7557,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 76,
     "uikTvd": "4014006393963",
+    "uikName": "УИК №76",
     "tikTvd": "2012000461469",
     "tikName": "Майкопская районная ",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2259,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2176,
@@ -6342,12 +7578,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 66,
-      "Гукасян Сергей Георгиевич": 99,
-      "Михайлов Андрей Павлович": 143,
-      "Резник Владислав Матусович": 1114,
-      "Салов Евгений Иванович": 241,
-      "Цикуниб Русланбек Джахфарович": 36
+      "2012000469784": 66,
+      "2012000472636": 99,
+      "2012000466170": 143,
+      "2012000464062": 1114,
+      "2012000470491": 241,
+      "2012000474339": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461469&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461469&type=464",
@@ -6357,6 +7593,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:42:32.833256+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461469&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461469&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -6366,8 +7606,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 77,
     "uikTvd": "4014006393964",
+    "uikName": "УИК №77",
     "tikTvd": "2012000461469",
     "tikName": "Майкопская районная ",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2545,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2379,
@@ -6383,12 +7627,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 78,
-      "Гукасян Сергей Георгиевич": 160,
-      "Михайлов Андрей Павлович": 165,
-      "Резник Владислав Матусович": 1283,
-      "Салов Евгений Иванович": 254,
-      "Цикуниб Русланбек Джахфарович": 56
+      "2012000469784": 78,
+      "2012000472636": 160,
+      "2012000466170": 165,
+      "2012000464062": 1283,
+      "2012000470491": 254,
+      "2012000474339": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461469&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461469&type=464",
@@ -6398,6 +7642,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:42:32.833256+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461469&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461469&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -6407,8 +7655,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 78,
     "uikTvd": "4014006393965",
+    "uikName": "УИК №78",
     "tikTvd": "2012000461469",
     "tikName": "Майкопская районная ",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 687,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 670,
@@ -6424,12 +7676,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 26,
-      "Гукасян Сергей Георгиевич": 33,
-      "Михайлов Андрей Павлович": 44,
-      "Резник Владислав Матусович": 86,
-      "Салов Евгений Иванович": 95,
-      "Цикуниб Русланбек Джахфарович": 10
+      "2012000469784": 26,
+      "2012000472636": 33,
+      "2012000466170": 44,
+      "2012000464062": 86,
+      "2012000470491": 95,
+      "2012000474339": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461469&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461469&type=464",
@@ -6439,6 +7691,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:42:32.833256+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461469&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461469&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -6448,8 +7704,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 79,
     "uikTvd": "4014006393966",
+    "uikName": "УИК №79",
     "tikTvd": "2012000461469",
     "tikName": "Майкопская районная ",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1170,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1178,
@@ -6465,12 +7725,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 40,
-      "Гукасян Сергей Георгиевич": 51,
-      "Михайлов Андрей Павлович": 71,
-      "Резник Владислав Матусович": 195,
-      "Салов Евгений Иванович": 192,
-      "Цикуниб Русланбек Джахфарович": 20
+      "2012000469784": 40,
+      "2012000472636": 51,
+      "2012000466170": 71,
+      "2012000464062": 195,
+      "2012000470491": 192,
+      "2012000474339": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461469&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461469&type=464",
@@ -6480,6 +7740,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:42:32.833256+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461469&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461469&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -6489,8 +7753,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 80,
     "uikTvd": "4014006393967",
+    "uikName": "УИК №80",
     "tikTvd": "2012000461469",
     "tikName": "Майкопская районная ",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1052,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1066,
@@ -6506,12 +7774,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 30,
-      "Гукасян Сергей Георгиевич": 147,
-      "Михайлов Андрей Павлович": 28,
-      "Резник Владислав Матусович": 225,
-      "Салов Евгений Иванович": 65,
-      "Цикуниб Русланбек Джахфарович": 15
+      "2012000469784": 30,
+      "2012000472636": 147,
+      "2012000466170": 28,
+      "2012000464062": 225,
+      "2012000470491": 65,
+      "2012000474339": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461469&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461469&type=464",
@@ -6521,6 +7789,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:42:32.833256+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461469&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461469&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -6530,8 +7802,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 81,
     "uikTvd": "4014006393968",
+    "uikName": "УИК №81",
     "tikTvd": "2012000461469",
     "tikName": "Майкопская районная ",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1635,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1533,
@@ -6547,12 +7823,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 38,
-      "Гукасян Сергей Георгиевич": 48,
-      "Михайлов Андрей Павлович": 53,
-      "Резник Владислав Матусович": 502,
-      "Салов Евгений Иванович": 157,
-      "Цикуниб Русланбек Джахфарович": 14
+      "2012000469784": 38,
+      "2012000472636": 48,
+      "2012000466170": 53,
+      "2012000464062": 502,
+      "2012000470491": 157,
+      "2012000474339": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461469&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461469&type=464",
@@ -6562,6 +7838,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:42:32.833256+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461469&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461469&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -6571,8 +7851,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 82,
     "uikTvd": "4014006393969",
+    "uikName": "УИК №82",
     "tikTvd": "2012000461469",
     "tikName": "Майкопская районная ",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1058,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1067,
@@ -6588,12 +7872,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 19,
-      "Гукасян Сергей Георгиевич": 33,
-      "Михайлов Андрей Павлович": 38,
-      "Резник Владислав Матусович": 345,
-      "Салов Евгений Иванович": 122,
-      "Цикуниб Русланбек Джахфарович": 5
+      "2012000469784": 19,
+      "2012000472636": 33,
+      "2012000466170": 38,
+      "2012000464062": 345,
+      "2012000470491": 122,
+      "2012000474339": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461469&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461469&type=464",
@@ -6603,6 +7887,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:42:32.833256+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461469&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461469&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -6612,8 +7900,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 83,
     "uikTvd": "4014006393970",
+    "uikName": "УИК №83",
     "tikTvd": "2012000461469",
     "tikName": "Майкопская районная ",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 362,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 372,
@@ -6629,12 +7921,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 4,
-      "Гукасян Сергей Георгиевич": 19,
-      "Михайлов Андрей Павлович": 11,
-      "Резник Владислав Матусович": 184,
-      "Салов Евгений Иванович": 31,
-      "Цикуниб Русланбек Джахфарович": 2
+      "2012000469784": 4,
+      "2012000472636": 19,
+      "2012000466170": 11,
+      "2012000464062": 184,
+      "2012000470491": 31,
+      "2012000474339": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461469&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461469&type=464",
@@ -6644,6 +7936,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:42:32.833256+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461469&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461469&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -6653,8 +7949,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 84,
     "uikTvd": "4014006393971",
+    "uikName": "УИК №84",
     "tikTvd": "2012000461469",
     "tikName": "Майкопская районная ",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1178,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1189,
@@ -6670,12 +7970,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 17,
-      "Гукасян Сергей Георгиевич": 40,
-      "Михайлов Андрей Павлович": 27,
-      "Резник Владислав Матусович": 324,
-      "Салов Евгений Иванович": 187,
-      "Цикуниб Русланбек Джахфарович": 11
+      "2012000469784": 17,
+      "2012000472636": 40,
+      "2012000466170": 27,
+      "2012000464062": 324,
+      "2012000470491": 187,
+      "2012000474339": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461469&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461469&type=464",
@@ -6685,6 +7985,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:42:32.833256+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461469&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461469&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -6694,8 +7998,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 85,
     "uikTvd": "4014006393972",
+    "uikName": "УИК №85",
     "tikTvd": "2012000461469",
     "tikName": "Майкопская районная ",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 437,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 425,
@@ -6711,12 +8019,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 25,
-      "Гукасян Сергей Георгиевич": 17,
-      "Михайлов Андрей Павлович": 27,
-      "Резник Владислав Матусович": 142,
-      "Салов Евгений Иванович": 35,
-      "Цикуниб Русланбек Джахфарович": 4
+      "2012000469784": 25,
+      "2012000472636": 17,
+      "2012000466170": 27,
+      "2012000464062": 142,
+      "2012000470491": 35,
+      "2012000474339": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461469&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461469&type=464",
@@ -6726,6 +8034,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:42:32.833256+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461469&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461469&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -6735,8 +8047,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 86,
     "uikTvd": "4014006393973",
+    "uikName": "УИК №86",
     "tikTvd": "2012000461469",
     "tikName": "Майкопская районная ",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 445,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 440,
@@ -6752,12 +8068,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 19,
-      "Гукасян Сергей Георгиевич": 19,
-      "Михайлов Андрей Павлович": 16,
-      "Резник Владислав Матусович": 198,
-      "Салов Евгений Иванович": 28,
-      "Цикуниб Русланбек Джахфарович": 8
+      "2012000469784": 19,
+      "2012000472636": 19,
+      "2012000466170": 16,
+      "2012000464062": 198,
+      "2012000470491": 28,
+      "2012000474339": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461469&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461469&type=464",
@@ -6767,6 +8083,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:42:32.833256+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461469&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461469&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -6776,8 +8096,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 87,
     "uikTvd": "4014006393974",
+    "uikName": "УИК №87",
     "tikTvd": "2012000461469",
     "tikName": "Майкопская районная ",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1030,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1023,
@@ -6793,12 +8117,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 38,
-      "Гукасян Сергей Георгиевич": 38,
-      "Михайлов Андрей Павлович": 42,
-      "Резник Владислав Матусович": 202,
-      "Салов Евгений Иванович": 183,
-      "Цикуниб Русланбек Джахфарович": 14
+      "2012000469784": 38,
+      "2012000472636": 38,
+      "2012000466170": 42,
+      "2012000464062": 202,
+      "2012000470491": 183,
+      "2012000474339": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461469&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461469&type=464",
@@ -6808,6 +8132,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:42:32.833256+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461469&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461469&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -6817,8 +8145,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 88,
     "uikTvd": "4014006393975",
+    "uikName": "УИК №88",
     "tikTvd": "2012000461469",
     "tikName": "Майкопская районная ",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1510,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1476,
@@ -6834,12 +8166,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 38,
-      "Гукасян Сергей Георгиевич": 44,
-      "Михайлов Андрей Павлович": 53,
-      "Резник Владислав Матусович": 221,
-      "Салов Евгений Иванович": 228,
-      "Цикуниб Русланбек Джахфарович": 20
+      "2012000469784": 38,
+      "2012000472636": 44,
+      "2012000466170": 53,
+      "2012000464062": 221,
+      "2012000470491": 228,
+      "2012000474339": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461469&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461469&type=464",
@@ -6849,6 +8181,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:42:32.833256+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461469&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461469&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -6858,8 +8194,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 89,
     "uikTvd": "4014006393976",
+    "uikName": "УИК №89",
     "tikTvd": "2012000461469",
     "tikName": "Майкопская районная ",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1521,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1509,
@@ -6875,12 +8215,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 43,
-      "Гукасян Сергей Георгиевич": 40,
-      "Михайлов Андрей Павлович": 72,
-      "Резник Владислав Матусович": 300,
-      "Салов Евгений Иванович": 166,
-      "Цикуниб Русланбек Джахфарович": 20
+      "2012000469784": 43,
+      "2012000472636": 40,
+      "2012000466170": 72,
+      "2012000464062": 300,
+      "2012000470491": 166,
+      "2012000474339": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461469&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461469&type=464",
@@ -6890,6 +8230,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:42:32.833256+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461469&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461469&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -6899,8 +8243,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 90,
     "uikTvd": "4014006393977",
+    "uikName": "УИК №90",
     "tikTvd": "2012000461469",
     "tikName": "Майкопская районная ",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1368,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1343,
@@ -6916,12 +8264,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 64,
-      "Гукасян Сергей Георгиевич": 50,
-      "Михайлов Андрей Павлович": 77,
-      "Резник Владислав Матусович": 232,
-      "Салов Евгений Иванович": 172,
-      "Цикуниб Русланбек Джахфарович": 14
+      "2012000469784": 64,
+      "2012000472636": 50,
+      "2012000466170": 77,
+      "2012000464062": 232,
+      "2012000470491": 172,
+      "2012000474339": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461469&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461469&type=464",
@@ -6931,6 +8279,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:42:32.833256+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461469&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461469&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -6940,8 +8292,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 91,
     "uikTvd": "4014006393978",
+    "uikName": "УИК №91",
     "tikTvd": "2012000461469",
     "tikName": "Майкопская районная ",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 135,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 121,
@@ -6957,12 +8313,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 8,
-      "Гукасян Сергей Георгиевич": 4,
-      "Михайлов Андрей Павлович": 5,
-      "Резник Владислав Матусович": 43,
-      "Салов Евгений Иванович": 9,
-      "Цикуниб Русланбек Джахфарович": 4
+      "2012000469784": 8,
+      "2012000472636": 4,
+      "2012000466170": 5,
+      "2012000464062": 43,
+      "2012000470491": 9,
+      "2012000474339": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461469&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461469&type=464",
@@ -6972,6 +8328,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:42:32.833256+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461469&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461469&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -6981,8 +8341,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 92,
     "uikTvd": "4014006393979",
+    "uikName": "УИК №92",
     "tikTvd": "2012000461469",
     "tikName": "Майкопская районная ",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 850,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 922,
@@ -6998,12 +8362,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 49,
-      "Гукасян Сергей Георгиевич": 28,
-      "Михайлов Андрей Павлович": 55,
-      "Резник Владислав Матусович": 180,
-      "Салов Евгений Иванович": 112,
-      "Цикуниб Русланбек Джахфарович": 19
+      "2012000469784": 49,
+      "2012000472636": 28,
+      "2012000466170": 55,
+      "2012000464062": 180,
+      "2012000470491": 112,
+      "2012000474339": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461469&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461469&type=464",
@@ -7013,6 +8377,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:42:32.833256+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461469&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461469&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -7022,8 +8390,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 93,
     "uikTvd": "4014006393980",
+    "uikName": "УИК №93",
     "tikTvd": "2012000461469",
     "tikName": "Майкопская районная ",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 182,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 175,
@@ -7039,12 +8411,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 11,
-      "Гукасян Сергей Георгиевич": 10,
-      "Михайлов Андрей Павлович": 6,
-      "Резник Владислав Матусович": 63,
-      "Салов Евгений Иванович": 19,
-      "Цикуниб Русланбек Джахфарович": 1
+      "2012000469784": 11,
+      "2012000472636": 10,
+      "2012000466170": 6,
+      "2012000464062": 63,
+      "2012000470491": 19,
+      "2012000474339": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461469&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461469&type=464",
@@ -7054,6 +8426,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:42:32.833256+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461469&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461469&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -7063,8 +8439,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 94,
     "uikTvd": "4014006393981",
+    "uikName": "УИК №94",
     "tikTvd": "2012000461469",
     "tikName": "Майкопская районная ",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 181,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 219,
@@ -7080,12 +8460,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 14,
-      "Гукасян Сергей Георгиевич": 6,
-      "Михайлов Андрей Павлович": 5,
-      "Резник Владислав Матусович": 81,
-      "Салов Евгений Иванович": 11,
-      "Цикуниб Русланбек Джахфарович": 1
+      "2012000469784": 14,
+      "2012000472636": 6,
+      "2012000466170": 5,
+      "2012000464062": 81,
+      "2012000470491": 11,
+      "2012000474339": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461469&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461469&type=464",
@@ -7095,6 +8475,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:42:32.833256+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461469&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461469&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -7104,8 +8488,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 95,
     "uikTvd": "4014006393982",
+    "uikName": "УИК №95",
     "tikTvd": "2012000461469",
     "tikName": "Майкопская районная ",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 560,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 524,
@@ -7121,12 +8509,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 12,
-      "Гукасян Сергей Георгиевич": 18,
-      "Михайлов Андрей Павлович": 13,
-      "Резник Владислав Матусович": 150,
-      "Салов Евгений Иванович": 91,
-      "Цикуниб Русланбек Джахфарович": 10
+      "2012000469784": 12,
+      "2012000472636": 18,
+      "2012000466170": 13,
+      "2012000464062": 150,
+      "2012000470491": 91,
+      "2012000474339": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461469&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461469&type=464",
@@ -7136,6 +8524,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:42:32.833256+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461469&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461469&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -7145,8 +8537,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 96,
     "uikTvd": "4014006393983",
+    "uikName": "УИК №96",
     "tikTvd": "2012000461469",
     "tikName": "Майкопская районная ",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1256,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1276,
@@ -7162,12 +8558,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 37,
-      "Гукасян Сергей Георгиевич": 26,
-      "Михайлов Андрей Павлович": 69,
-      "Резник Владислав Матусович": 583,
-      "Салов Евгений Иванович": 67,
-      "Цикуниб Русланбек Джахфарович": 11
+      "2012000469784": 37,
+      "2012000472636": 26,
+      "2012000466170": 69,
+      "2012000464062": 583,
+      "2012000470491": 67,
+      "2012000474339": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461469&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461469&type=464",
@@ -7177,6 +8573,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:42:32.833256+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461469&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461469&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -7186,8 +8586,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 97,
     "uikTvd": "4014006393984",
+    "uikName": "УИК №97",
     "tikTvd": "2012000461469",
     "tikName": "Майкопская районная ",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 417,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 460,
@@ -7203,12 +8607,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 14,
-      "Гукасян Сергей Георгиевич": 16,
-      "Михайлов Андрей Павлович": 22,
-      "Резник Владислав Матусович": 198,
-      "Салов Евгений Иванович": 38,
-      "Цикуниб Русланбек Джахфарович": 10
+      "2012000469784": 14,
+      "2012000472636": 16,
+      "2012000466170": 22,
+      "2012000464062": 198,
+      "2012000470491": 38,
+      "2012000474339": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461469&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461469&type=464",
@@ -7218,6 +8622,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:42:32.833256+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461469&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461469&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -7227,8 +8635,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 98,
     "uikTvd": "4014006393985",
+    "uikName": "УИК №98",
     "tikTvd": "2012000461469",
     "tikName": "Майкопская районная ",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2006,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1946,
@@ -7244,12 +8656,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 55,
-      "Гукасян Сергей Георгиевич": 55,
-      "Михайлов Андрей Павлович": 103,
-      "Резник Владислав Матусович": 266,
-      "Салов Евгений Иванович": 186,
-      "Цикуниб Русланбек Джахфарович": 21
+      "2012000469784": 55,
+      "2012000472636": 55,
+      "2012000466170": 103,
+      "2012000464062": 266,
+      "2012000470491": 186,
+      "2012000474339": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461469&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461469&type=464",
@@ -7259,6 +8671,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:42:32.833256+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461469&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461469&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -7268,8 +8684,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 99,
     "uikTvd": "4014006393986",
+    "uikName": "УИК №99",
     "tikTvd": "2012000461469",
     "tikName": "Майкопская районная ",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2998,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2901,
@@ -7285,12 +8705,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 104,
-      "Гукасян Сергей Георгиевич": 118,
-      "Михайлов Андрей Павлович": 157,
-      "Резник Владислав Матусович": 356,
-      "Салов Евгений Иванович": 286,
-      "Цикуниб Русланбек Джахфарович": 63
+      "2012000469784": 104,
+      "2012000472636": 118,
+      "2012000466170": 157,
+      "2012000464062": 356,
+      "2012000470491": 286,
+      "2012000474339": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461469&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461469&type=464",
@@ -7300,6 +8720,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:42:32.833256+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461469&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461469&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -7309,8 +8733,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 100,
     "uikTvd": "4014006393987",
+    "uikName": "УИК №100",
     "tikTvd": "2012000461469",
     "tikName": "Майкопская районная ",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1553,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1548,
@@ -7326,12 +8754,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 60,
-      "Гукасян Сергей Георгиевич": 69,
-      "Михайлов Андрей Павлович": 98,
-      "Резник Владислав Матусович": 303,
-      "Салов Евгений Иванович": 103,
-      "Цикуниб Русланбек Джахфарович": 92
+      "2012000469784": 60,
+      "2012000472636": 69,
+      "2012000466170": 98,
+      "2012000464062": 303,
+      "2012000470491": 103,
+      "2012000474339": 92
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461469&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461469&type=464",
@@ -7341,6 +8769,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:42:32.833256+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461469&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461469&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -7350,8 +8782,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 101,
     "uikTvd": "4014006393988",
+    "uikName": "УИК №101",
     "tikTvd": "2012000461469",
     "tikName": "Майкопская районная ",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 670,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 660,
@@ -7367,12 +8803,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 29,
-      "Гукасян Сергей Георгиевич": 34,
-      "Михайлов Андрей Павлович": 37,
-      "Резник Владислав Матусович": 154,
-      "Салов Евгений Иванович": 66,
-      "Цикуниб Русланбек Джахфарович": 12
+      "2012000469784": 29,
+      "2012000472636": 34,
+      "2012000466170": 37,
+      "2012000464062": 154,
+      "2012000470491": 66,
+      "2012000474339": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461469&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461469&type=464",
@@ -7382,6 +8818,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:42:32.833256+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461469&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461469&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -7391,8 +8831,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 102,
     "uikTvd": "4014006393989",
+    "uikName": "УИК №102",
     "tikTvd": "2012000461469",
     "tikName": "Майкопская районная ",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1362,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1364,
@@ -7408,12 +8852,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 61,
-      "Гукасян Сергей Георгиевич": 64,
-      "Михайлов Андрей Павлович": 83,
-      "Резник Владислав Матусович": 248,
-      "Салов Евгений Иванович": 130,
-      "Цикуниб Русланбек Джахфарович": 28
+      "2012000469784": 61,
+      "2012000472636": 64,
+      "2012000466170": 83,
+      "2012000464062": 248,
+      "2012000470491": 130,
+      "2012000474339": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461469&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461469&type=464",
@@ -7423,6 +8867,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:42:32.833256+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461469&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461469&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -7432,8 +8880,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 103,
     "uikTvd": "4014006393990",
+    "uikName": "УИК №103",
     "tikTvd": "2012000461469",
     "tikName": "Майкопская районная ",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1072,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1072,
@@ -7449,12 +8901,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 45,
-      "Гукасян Сергей Георгиевич": 49,
-      "Михайлов Андрей Павлович": 67,
-      "Резник Владислав Матусович": 331,
-      "Салов Евгений Иванович": 95,
-      "Цикуниб Русланбек Джахфарович": 31
+      "2012000469784": 45,
+      "2012000472636": 49,
+      "2012000466170": 67,
+      "2012000464062": 331,
+      "2012000470491": 95,
+      "2012000474339": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461469&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461469&type=464",
@@ -7464,6 +8916,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:42:32.833256+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461469&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461469&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -7473,8 +8929,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 104,
     "uikTvd": "4014006393991",
+    "uikName": "УИК №104",
     "tikTvd": "2012000461469",
     "tikName": "Майкопская районная ",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 586,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 572,
@@ -7490,12 +8950,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 16,
-      "Гукасян Сергей Георгиевич": 38,
-      "Михайлов Андрей Павлович": 15,
-      "Резник Владислав Матусович": 215,
-      "Салов Евгений Иванович": 36,
-      "Цикуниб Русланбек Джахфарович": 2
+      "2012000469784": 16,
+      "2012000472636": 38,
+      "2012000466170": 15,
+      "2012000464062": 215,
+      "2012000470491": 36,
+      "2012000474339": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461469&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461469&type=464",
@@ -7505,6 +8965,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:42:32.833256+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461469&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461469&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -7514,8 +8978,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 105,
     "uikTvd": "4014006393992",
+    "uikName": "УИК №105",
     "tikTvd": "2012000461469",
     "tikName": "Майкопская районная ",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 442,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 439,
@@ -7531,12 +8999,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 21,
-      "Гукасян Сергей Георгиевич": 22,
-      "Михайлов Андрей Павлович": 23,
-      "Резник Владислав Матусович": 110,
-      "Салов Евгений Иванович": 39,
-      "Цикуниб Русланбек Джахфарович": 6
+      "2012000469784": 21,
+      "2012000472636": 22,
+      "2012000466170": 23,
+      "2012000464062": 110,
+      "2012000470491": 39,
+      "2012000474339": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461469&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461469&type=464",
@@ -7546,6 +9014,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:42:32.833256+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461469&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461469&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -7555,8 +9027,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 106,
     "uikTvd": "4014006393993",
+    "uikName": "УИК №106",
     "tikTvd": "2012000461469",
     "tikName": "Майкопская районная ",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1321,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1316,
@@ -7572,12 +9048,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 36,
-      "Гукасян Сергей Георгиевич": 170,
-      "Михайлов Андрей Павлович": 59,
-      "Резник Владислав Матусович": 373,
-      "Салов Евгений Иванович": 67,
-      "Цикуниб Русланбек Джахфарович": 24
+      "2012000469784": 36,
+      "2012000472636": 170,
+      "2012000466170": 59,
+      "2012000464062": 373,
+      "2012000470491": 67,
+      "2012000474339": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461469&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461469&type=464",
@@ -7587,6 +9063,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:42:32.833256+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461469&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461469&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -7596,8 +9076,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 107,
     "uikTvd": "4014006393994",
+    "uikName": "УИК №107",
     "tikTvd": "2012000461469",
     "tikName": "Майкопская районная ",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1487,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1449,
@@ -7613,12 +9097,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 47,
-      "Гукасян Сергей Георгиевич": 152,
-      "Михайлов Андрей Павлович": 85,
-      "Резник Владислав Матусович": 168,
-      "Салов Евгений Иванович": 92,
-      "Цикуниб Русланбек Джахфарович": 41
+      "2012000469784": 47,
+      "2012000472636": 152,
+      "2012000466170": 85,
+      "2012000464062": 168,
+      "2012000470491": 92,
+      "2012000474339": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461469&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461469&type=464",
@@ -7628,6 +9112,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:42:32.833256+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461469&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461469&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -7637,8 +9125,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 108,
     "uikTvd": "4014006393995",
+    "uikName": "УИК №108",
     "tikTvd": "2012000461469",
     "tikName": "Майкопская районная ",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 366,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 364,
@@ -7654,12 +9146,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 10,
-      "Гукасян Сергей Георгиевич": 20,
-      "Михайлов Андрей Павлович": 9,
-      "Резник Владислав Матусович": 67,
-      "Салов Евгений Иванович": 7,
-      "Цикуниб Русланбек Джахфарович": 4
+      "2012000469784": 10,
+      "2012000472636": 20,
+      "2012000466170": 9,
+      "2012000464062": 67,
+      "2012000470491": 7,
+      "2012000474339": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461469&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461469&type=464",
@@ -7669,6 +9161,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:42:32.833256+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461469&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461469&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -7678,8 +9174,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 109,
     "uikTvd": "4014006393996",
+    "uikName": "УИК №109",
     "tikTvd": "2012000461469",
     "tikName": "Майкопская районная ",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 831,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 833,
@@ -7695,12 +9195,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 11,
-      "Гукасян Сергей Георгиевич": 93,
-      "Михайлов Андрей Павлович": 10,
-      "Резник Владислав Матусович": 265,
-      "Салов Евгений Иванович": 16,
-      "Цикуниб Русланбек Джахфарович": 6
+      "2012000469784": 11,
+      "2012000472636": 93,
+      "2012000466170": 10,
+      "2012000464062": 265,
+      "2012000470491": 16,
+      "2012000474339": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461469&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461469&type=464",
@@ -7710,6 +9210,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:42:32.833256+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461469&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461469&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -7719,8 +9223,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 110,
     "uikTvd": "4014006393997",
+    "uikName": "УИК №110",
     "tikTvd": "2012000461469",
     "tikName": "Майкопская районная ",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 578,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 565,
@@ -7736,12 +9244,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 20,
-      "Гукасян Сергей Георгиевич": 96,
-      "Михайлов Андрей Павлович": 32,
-      "Резник Владислав Матусович": 69,
-      "Салов Евгений Иванович": 27,
-      "Цикуниб Русланбек Джахфарович": 20
+      "2012000469784": 20,
+      "2012000472636": 96,
+      "2012000466170": 32,
+      "2012000464062": 69,
+      "2012000470491": 27,
+      "2012000474339": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461469&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461469&type=464",
@@ -7751,6 +9259,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:42:32.833256+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461469&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461469&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -7760,8 +9272,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 111,
     "uikTvd": "4014006393998",
+    "uikName": "УИК №111",
     "tikTvd": "2012000461469",
     "tikName": "Майкопская районная ",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1335,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1307,
@@ -7777,12 +9293,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 51,
-      "Гукасян Сергей Георгиевич": 65,
-      "Михайлов Андрей Павлович": 96,
-      "Резник Владислав Матусович": 297,
-      "Салов Евгений Иванович": 133,
-      "Цикуниб Русланбек Джахфарович": 19
+      "2012000469784": 51,
+      "2012000472636": 65,
+      "2012000466170": 96,
+      "2012000464062": 297,
+      "2012000470491": 133,
+      "2012000474339": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461469&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461469&type=464",
@@ -7792,6 +9308,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:42:32.833256+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461469&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461469&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -7801,8 +9321,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 112,
     "uikTvd": "4014006393999",
+    "uikName": "УИК №112",
     "tikTvd": "2012000461469",
     "tikName": "Майкопская районная ",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1171,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1160,
@@ -7818,12 +9342,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 69,
-      "Гукасян Сергей Георгиевич": 93,
-      "Михайлов Андрей Павлович": 65,
-      "Резник Владислав Матусович": 292,
-      "Салов Евгений Иванович": 112,
-      "Цикуниб Русланбек Джахфарович": 10
+      "2012000469784": 69,
+      "2012000472636": 93,
+      "2012000466170": 65,
+      "2012000464062": 292,
+      "2012000470491": 112,
+      "2012000474339": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461469&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461469&type=464",
@@ -7833,6 +9357,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:42:32.833256+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461469&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461469&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -7842,8 +9370,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 113,
     "uikTvd": "4014006394000",
+    "uikName": "УИК №113",
     "tikTvd": "2012000461469",
     "tikName": "Майкопская районная ",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1494,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1471,
@@ -7859,12 +9391,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 57,
-      "Гукасян Сергей Георгиевич": 85,
-      "Михайлов Андрей Павлович": 101,
-      "Резник Владислав Матусович": 399,
-      "Салов Евгений Иванович": 90,
-      "Цикуниб Русланбек Джахфарович": 27
+      "2012000469784": 57,
+      "2012000472636": 85,
+      "2012000466170": 101,
+      "2012000464062": 399,
+      "2012000470491": 90,
+      "2012000474339": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461469&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461469&type=464",
@@ -7874,6 +9406,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:42:32.833256+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461469&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461469&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -7883,8 +9419,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 114,
     "uikTvd": "4014006394001",
+    "uikName": "УИК №114",
     "tikTvd": "2012000461469",
     "tikName": "Майкопская районная ",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 359,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 400,
@@ -7900,12 +9440,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 8,
-      "Гукасян Сергей Георгиевич": 21,
-      "Михайлов Андрей Павлович": 10,
-      "Резник Владислав Матусович": 108,
-      "Салов Евгений Иванович": 39,
-      "Цикуниб Русланбек Джахфарович": 5
+      "2012000469784": 8,
+      "2012000472636": 21,
+      "2012000466170": 10,
+      "2012000464062": 108,
+      "2012000470491": 39,
+      "2012000474339": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461469&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461469&type=464",
@@ -7915,6 +9455,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:42:32.833256+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461469&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461469&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -7924,8 +9468,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 53,
     "uikTvd": "4014004229140",
+    "uikName": "УИК №53",
     "tikTvd": "2012000461470",
     "tikName": "Красногвардейская",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1356,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1340,
@@ -7941,12 +9489,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 37,
-      "Гукасян Сергей Георгиевич": 16,
-      "Михайлов Андрей Павлович": 34,
-      "Резник Владислав Матусович": 994,
-      "Салов Евгений Иванович": 149,
-      "Цикуниб Русланбек Джахфарович": 10
+      "2012000469784": 37,
+      "2012000472636": 16,
+      "2012000466170": 34,
+      "2012000464062": 994,
+      "2012000470491": 149,
+      "2012000474339": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461470&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461470&type=464",
@@ -7956,6 +9504,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:42:33.035173+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461470&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461470&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -7965,8 +9517,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 54,
     "uikTvd": "4014004229141",
+    "uikName": "УИК №54",
     "tikTvd": "2012000461470",
     "tikName": "Красногвардейская",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1636,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1630,
@@ -7982,12 +9538,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 43,
-      "Гукасян Сергей Георгиевич": 55,
-      "Михайлов Андрей Павлович": 71,
-      "Резник Владислав Матусович": 1127,
-      "Салов Евгений Иванович": 116,
-      "Цикуниб Русланбек Джахфарович": 64
+      "2012000469784": 43,
+      "2012000472636": 55,
+      "2012000466170": 71,
+      "2012000464062": 1127,
+      "2012000470491": 116,
+      "2012000474339": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461470&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461470&type=464",
@@ -7997,6 +9553,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:42:33.035173+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461470&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461470&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -8006,8 +9566,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 55,
     "uikTvd": "4014004229142",
+    "uikName": "УИК №55",
     "tikTvd": "2012000461470",
     "tikName": "Красногвардейская",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1009,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1000,
@@ -8023,12 +9587,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 16,
-      "Гукасян Сергей Георгиевич": 8,
-      "Михайлов Андрей Павлович": 14,
-      "Резник Владислав Матусович": 802,
-      "Салов Евгений Иванович": 115,
-      "Цикуниб Русланбек Джахфарович": 19
+      "2012000469784": 16,
+      "2012000472636": 8,
+      "2012000466170": 14,
+      "2012000464062": 802,
+      "2012000470491": 115,
+      "2012000474339": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461470&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461470&type=464",
@@ -8038,6 +9602,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:42:33.035173+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461470&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461470&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -8047,8 +9615,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 56,
     "uikTvd": "4014004229143",
+    "uikName": "УИК №56",
     "tikTvd": "2012000461470",
     "tikName": "Красногвардейская",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1812,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1760,
@@ -8064,12 +9636,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 3,
-      "Гукасян Сергей Георгиевич": 7,
-      "Михайлов Андрей Павлович": 4,
-      "Резник Владислав Матусович": 1625,
-      "Салов Евгений Иванович": 57,
-      "Цикуниб Русланбек Джахфарович": 10
+      "2012000469784": 3,
+      "2012000472636": 7,
+      "2012000466170": 4,
+      "2012000464062": 1625,
+      "2012000470491": 57,
+      "2012000474339": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461470&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461470&type=464",
@@ -8079,6 +9651,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:42:33.035173+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461470&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461470&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -8088,8 +9664,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 57,
     "uikTvd": "4014004229144",
+    "uikName": "УИК №57",
     "tikTvd": "2012000461470",
     "tikName": "Красногвардейская",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1826,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1800,
@@ -8105,12 +9685,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 7,
-      "Гукасян Сергей Георгиевич": 2,
-      "Михайлов Андрей Павлович": 4,
-      "Резник Владислав Матусович": 1501,
-      "Салов Евгений Иванович": 183,
-      "Цикуниб Русланбек Джахфарович": 0
+      "2012000469784": 7,
+      "2012000472636": 2,
+      "2012000466170": 4,
+      "2012000464062": 1501,
+      "2012000470491": 183,
+      "2012000474339": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461470&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461470&type=464",
@@ -8120,6 +9700,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:42:33.035173+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461470&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461470&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -8129,8 +9713,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 58,
     "uikTvd": "4014004229145",
+    "uikName": "УИК №58",
     "tikTvd": "2012000461470",
     "tikName": "Красногвардейская",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2068,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2030,
@@ -8146,12 +9734,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 24,
-      "Гукасян Сергей Георгиевич": 27,
-      "Михайлов Андрей Павлович": 32,
-      "Резник Владислав Матусович": 1779,
-      "Салов Евгений Иванович": 69,
-      "Цикуниб Русланбек Джахфарович": 12
+      "2012000469784": 24,
+      "2012000472636": 27,
+      "2012000466170": 32,
+      "2012000464062": 1779,
+      "2012000470491": 69,
+      "2012000474339": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461470&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461470&type=464",
@@ -8161,6 +9749,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:42:33.035173+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461470&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461470&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -8170,8 +9762,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 59,
     "uikTvd": "4014004229146",
+    "uikName": "УИК №59",
     "tikTvd": "2012000461470",
     "tikName": "Красногвардейская",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 845,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 830,
@@ -8187,12 +9783,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 18,
-      "Гукасян Сергей Георгиевич": 9,
-      "Михайлов Андрей Павлович": 3,
-      "Резник Владислав Матусович": 722,
-      "Салов Евгений Иванович": 18,
-      "Цикуниб Русланбек Джахфарович": 42
+      "2012000469784": 18,
+      "2012000472636": 9,
+      "2012000466170": 3,
+      "2012000464062": 722,
+      "2012000470491": 18,
+      "2012000474339": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461470&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461470&type=464",
@@ -8202,6 +9798,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:42:33.035173+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461470&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461470&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -8211,8 +9811,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 60,
     "uikTvd": "4014004229147",
+    "uikName": "УИК №60",
     "tikTvd": "2012000461470",
     "tikName": "Красногвардейская",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 946,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 930,
@@ -8228,12 +9832,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 31,
-      "Гукасян Сергей Георгиевич": 43,
-      "Михайлов Андрей Павлович": 33,
-      "Резник Владислав Матусович": 720,
-      "Салов Евгений Иванович": 27,
-      "Цикуниб Русланбек Джахфарович": 18
+      "2012000469784": 31,
+      "2012000472636": 43,
+      "2012000466170": 33,
+      "2012000464062": 720,
+      "2012000470491": 27,
+      "2012000474339": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461470&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461470&type=464",
@@ -8243,6 +9847,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:42:33.035173+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461470&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461470&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -8252,8 +9860,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 61,
     "uikTvd": "4014004229148",
+    "uikName": "УИК №61",
     "tikTvd": "2012000461470",
     "tikName": "Красногвардейская",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1977,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1950,
@@ -8269,12 +9881,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 100,
-      "Гукасян Сергей Георгиевич": 65,
-      "Михайлов Андрей Павлович": 119,
-      "Резник Владислав Матусович": 1256,
-      "Салов Евгений Иванович": 123,
-      "Цикуниб Русланбек Джахфарович": 36
+      "2012000469784": 100,
+      "2012000472636": 65,
+      "2012000466170": 119,
+      "2012000464062": 1256,
+      "2012000470491": 123,
+      "2012000474339": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461470&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461470&type=464",
@@ -8284,6 +9896,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:42:33.035173+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461470&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461470&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -8293,8 +9909,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 62,
     "uikTvd": "4014004229149",
+    "uikName": "УИК №62",
     "tikTvd": "2012000461470",
     "tikName": "Красногвардейская",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 621,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 610,
@@ -8310,12 +9930,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 35,
-      "Гукасян Сергей Георгиевич": 40,
-      "Михайлов Андрей Павлович": 51,
-      "Резник Владислав Матусович": 325,
-      "Салов Евгений Иванович": 39,
-      "Цикуниб Русланбек Джахфарович": 24
+      "2012000469784": 35,
+      "2012000472636": 40,
+      "2012000466170": 51,
+      "2012000464062": 325,
+      "2012000470491": 39,
+      "2012000474339": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461470&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461470&type=464",
@@ -8325,6 +9945,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:42:33.035173+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461470&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461470&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -8334,8 +9958,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 63,
     "uikTvd": "4014004229150",
+    "uikName": "УИК №63",
     "tikTvd": "2012000461470",
     "tikName": "Красногвардейская",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 765,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 750,
@@ -8351,12 +9979,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 23,
-      "Гукасян Сергей Георгиевич": 2,
-      "Михайлов Андрей Павлович": 2,
-      "Резник Владислав Матусович": 672,
-      "Салов Евгений Иванович": 33,
-      "Цикуниб Русланбек Джахфарович": 0
+      "2012000469784": 23,
+      "2012000472636": 2,
+      "2012000466170": 2,
+      "2012000464062": 672,
+      "2012000470491": 33,
+      "2012000474339": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461470&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461470&type=464",
@@ -8366,6 +9994,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:42:33.035173+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461470&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461470&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -8375,8 +10007,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 64,
     "uikTvd": "4014004229151",
+    "uikName": "УИК №64",
     "tikTvd": "2012000461470",
     "tikName": "Красногвардейская",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 628,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 610,
@@ -8392,12 +10028,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 31,
-      "Гукасян Сергей Георгиевич": 23,
-      "Михайлов Андрей Павлович": 21,
-      "Резник Владислав Матусович": 474,
-      "Салов Евгений Иванович": 45,
-      "Цикуниб Русланбек Джахфарович": 6
+      "2012000469784": 31,
+      "2012000472636": 23,
+      "2012000466170": 21,
+      "2012000464062": 474,
+      "2012000470491": 45,
+      "2012000474339": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461470&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461470&type=464",
@@ -8407,6 +10043,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:42:33.035173+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461470&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461470&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -8416,8 +10056,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 65,
     "uikTvd": "4014004229152",
+    "uikName": "УИК №65",
     "tikTvd": "2012000461470",
     "tikName": "Красногвардейская",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 298,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 290,
@@ -8433,12 +10077,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 8,
-      "Гукасян Сергей Георгиевич": 19,
-      "Михайлов Андрей Павлович": 9,
-      "Резник Владислав Матусович": 213,
-      "Салов Евгений Иванович": 23,
-      "Цикуниб Русланбек Джахфарович": 7
+      "2012000469784": 8,
+      "2012000472636": 19,
+      "2012000466170": 9,
+      "2012000464062": 213,
+      "2012000470491": 23,
+      "2012000474339": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461470&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461470&type=464",
@@ -8448,6 +10092,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:42:33.035173+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461470&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461470&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -8457,8 +10105,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 66,
     "uikTvd": "4014004229153",
+    "uikName": "УИК №66",
     "tikTvd": "2012000461470",
     "tikName": "Красногвардейская",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 350,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 340,
@@ -8474,12 +10126,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 10,
-      "Гукасян Сергей Георгиевич": 1,
-      "Михайлов Андрей Павлович": 5,
-      "Резник Владислав Матусович": 297,
-      "Салов Евгений Иванович": 14,
-      "Цикуниб Русланбек Джахфарович": 3
+      "2012000469784": 10,
+      "2012000472636": 1,
+      "2012000466170": 5,
+      "2012000464062": 297,
+      "2012000470491": 14,
+      "2012000474339": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461470&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461470&type=464",
@@ -8489,6 +10141,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:42:33.035173+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461470&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461470&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -8498,8 +10154,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 67,
     "uikTvd": "4014004229154",
+    "uikName": "УИК №67",
     "tikTvd": "2012000461470",
     "tikName": "Красногвардейская",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 704,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 690,
@@ -8515,12 +10175,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 33,
-      "Гукасян Сергей Георгиевич": 0,
-      "Михайлов Андрей Павлович": 34,
-      "Резник Владислав Матусович": 581,
-      "Салов Евгений Иванович": 34,
-      "Цикуниб Русланбек Джахфарович": 0
+      "2012000469784": 33,
+      "2012000472636": 0,
+      "2012000466170": 34,
+      "2012000464062": 581,
+      "2012000470491": 34,
+      "2012000474339": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461470&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461470&type=464",
@@ -8530,6 +10190,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:42:33.035173+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461470&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461470&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -8539,8 +10203,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 68,
     "uikTvd": "4014004229155",
+    "uikName": "УИК №68",
     "tikTvd": "2012000461470",
     "tikName": "Красногвардейская",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 855,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 830,
@@ -8556,12 +10224,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 40,
-      "Гукасян Сергей Георгиевич": 15,
-      "Михайлов Андрей Павлович": 26,
-      "Резник Владислав Матусович": 694,
-      "Салов Евгений Иванович": 41,
-      "Цикуниб Русланбек Джахфарович": 0
+      "2012000469784": 40,
+      "2012000472636": 15,
+      "2012000466170": 26,
+      "2012000464062": 694,
+      "2012000470491": 41,
+      "2012000474339": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461470&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461470&type=464",
@@ -8571,6 +10239,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:42:33.035173+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461470&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461470&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -8580,8 +10252,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 69,
     "uikTvd": "4014004229156",
+    "uikName": "УИК №69",
     "tikTvd": "2012000461470",
     "tikName": "Красногвардейская",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 289,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 280,
@@ -8597,12 +10273,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 14,
-      "Гукасян Сергей Георгиевич": 0,
-      "Михайлов Андрей Павлович": 10,
-      "Резник Владислав Матусович": 219,
-      "Салов Евгений Иванович": 31,
-      "Цикуниб Русланбек Джахфарович": 0
+      "2012000469784": 14,
+      "2012000472636": 0,
+      "2012000466170": 10,
+      "2012000464062": 219,
+      "2012000470491": 31,
+      "2012000474339": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461470&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461470&type=464",
@@ -8612,6 +10288,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:42:33.035173+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461470&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461470&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -8621,8 +10301,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 70,
     "uikTvd": "4014004229157",
+    "uikName": "УИК №70",
     "tikTvd": "2012000461470",
     "tikName": "Красногвардейская",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1194,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1170,
@@ -8638,12 +10322,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 15,
-      "Гукасян Сергей Георгиевич": 0,
-      "Михайлов Андрей Павлович": 6,
-      "Резник Владислав Матусович": 1115,
-      "Салов Евгений Иванович": 11,
-      "Цикуниб Русланбек Джахфарович": 0
+      "2012000469784": 15,
+      "2012000472636": 0,
+      "2012000466170": 6,
+      "2012000464062": 1115,
+      "2012000470491": 11,
+      "2012000474339": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461470&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461470&type=464",
@@ -8653,6 +10337,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:42:33.035173+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461470&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461470&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -8662,8 +10350,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 71,
     "uikTvd": "4014004229158",
+    "uikName": "УИК №71",
     "tikTvd": "2012000461470",
     "tikName": "Красногвардейская",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 480,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 470,
@@ -8679,12 +10371,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 5,
-      "Гукасян Сергей Георгиевич": 3,
-      "Михайлов Андрей Павлович": 3,
-      "Резник Владислав Матусович": 441,
-      "Салов Евгений Иванович": 7,
-      "Цикуниб Русланбек Джахфарович": 9
+      "2012000469784": 5,
+      "2012000472636": 3,
+      "2012000466170": 3,
+      "2012000464062": 441,
+      "2012000470491": 7,
+      "2012000474339": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461470&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461470&type=464",
@@ -8694,6 +10386,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:42:33.035173+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461470&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461470&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -8703,8 +10399,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 72,
     "uikTvd": "4014004229159",
+    "uikName": "УИК №72",
     "tikTvd": "2012000461470",
     "tikName": "Красногвардейская",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 302,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 295,
@@ -8720,12 +10420,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 10,
-      "Гукасян Сергей Георгиевич": 9,
-      "Михайлов Андрей Павлович": 8,
-      "Резник Владислав Матусович": 251,
-      "Салов Евгений Иванович": 17,
-      "Цикуниб Русланбек Джахфарович": 0
+      "2012000469784": 10,
+      "2012000472636": 9,
+      "2012000466170": 8,
+      "2012000464062": 251,
+      "2012000470491": 17,
+      "2012000474339": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461470&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461470&type=464",
@@ -8735,6 +10435,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:42:33.035173+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461470&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461470&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -8744,8 +10448,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 73,
     "uikTvd": "4014004229160",
+    "uikName": "УИК №73",
     "tikTvd": "2012000461470",
     "tikName": "Красногвардейская",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1016,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 995,
@@ -8761,12 +10469,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 0,
-      "Гукасян Сергей Георгиевич": 0,
-      "Михайлов Андрей Павлович": 0,
-      "Резник Владислав Матусович": 950,
-      "Салов Евгений Иванович": 40,
-      "Цикуниб Русланбек Джахфарович": 4
+      "2012000469784": 0,
+      "2012000472636": 0,
+      "2012000466170": 0,
+      "2012000464062": 950,
+      "2012000470491": 40,
+      "2012000474339": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461470&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461470&type=464",
@@ -8776,6 +10484,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:42:33.035173+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461470&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461470&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -8785,8 +10497,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 31,
     "uikTvd": "4014003237276",
+    "uikName": "УИК №31",
     "tikTvd": "2012000461471",
     "tikName": "Кошехабльская",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1899,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1900,
@@ -8802,12 +10518,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 125,
-      "Гукасян Сергей Георгиевич": 15,
-      "Михайлов Андрей Павлович": 49,
-      "Резник Владислав Матусович": 1370,
-      "Салов Евгений Иванович": 185,
-      "Цикуниб Русланбек Джахфарович": 42
+      "2012000469784": 125,
+      "2012000472636": 15,
+      "2012000466170": 49,
+      "2012000464062": 1370,
+      "2012000470491": 185,
+      "2012000474339": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461471&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461471&type=464",
@@ -8817,6 +10533,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:42:34.604749+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461471&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461471&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -8826,8 +10546,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 32,
     "uikTvd": "4014003237277",
+    "uikName": "УИК №32",
     "tikTvd": "2012000461471",
     "tikName": "Кошехабльская",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 138,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 179,
@@ -8843,12 +10567,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 6,
-      "Гукасян Сергей Георгиевич": 2,
-      "Михайлов Андрей Павлович": 2,
-      "Резник Владислав Матусович": 111,
-      "Салов Евгений Иванович": 4,
-      "Цикуниб Русланбек Джахфарович": 1
+      "2012000469784": 6,
+      "2012000472636": 2,
+      "2012000466170": 2,
+      "2012000464062": 111,
+      "2012000470491": 4,
+      "2012000474339": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461471&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461471&type=464",
@@ -8858,6 +10582,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:42:34.604749+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461471&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461471&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -8867,8 +10595,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 33,
     "uikTvd": "4014003237278",
+    "uikName": "УИК №33",
     "tikTvd": "2012000461471",
     "tikName": "Кошехабльская",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 179,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 220,
@@ -8884,12 +10616,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 8,
-      "Гукасян Сергей Георгиевич": 2,
-      "Михайлов Андрей Павлович": 13,
-      "Резник Владислав Матусович": 117,
-      "Салов Евгений Иванович": 9,
-      "Цикуниб Русланбек Джахфарович": 0
+      "2012000469784": 8,
+      "2012000472636": 2,
+      "2012000466170": 13,
+      "2012000464062": 117,
+      "2012000470491": 9,
+      "2012000474339": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461471&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461471&type=464",
@@ -8899,6 +10631,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:42:34.604749+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461471&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461471&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -8908,8 +10644,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 34,
     "uikTvd": "4014003237279",
+    "uikName": "УИК №34",
     "tikTvd": "2012000461471",
     "tikName": "Кошехабльская",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 414,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 420,
@@ -8925,12 +10665,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 25,
-      "Гукасян Сергей Георгиевич": 3,
-      "Михайлов Андрей Павлович": 6,
-      "Резник Владислав Матусович": 289,
-      "Салов Евгений Иванович": 37,
-      "Цикуниб Русланбек Джахфарович": 5
+      "2012000469784": 25,
+      "2012000472636": 3,
+      "2012000466170": 6,
+      "2012000464062": 289,
+      "2012000470491": 37,
+      "2012000474339": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461471&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461471&type=464",
@@ -8940,6 +10680,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:42:34.604749+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461471&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461471&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -8949,8 +10693,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 35,
     "uikTvd": "4014003237280",
+    "uikName": "УИК №35",
     "tikTvd": "2012000461471",
     "tikName": "Кошехабльская",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1945,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1950,
@@ -8966,12 +10714,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 135,
-      "Гукасян Сергей Георгиевич": 22,
-      "Михайлов Андрей Павлович": 67,
-      "Резник Владислав Матусович": 1376,
-      "Салов Евгений Иванович": 173,
-      "Цикуниб Русланбек Джахфарович": 27
+      "2012000469784": 135,
+      "2012000472636": 22,
+      "2012000466170": 67,
+      "2012000464062": 1376,
+      "2012000470491": 173,
+      "2012000474339": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461471&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461471&type=464",
@@ -8981,6 +10729,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:42:34.604749+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461471&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461471&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -8990,8 +10742,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 36,
     "uikTvd": "4014003237281",
+    "uikName": "УИК №36",
     "tikTvd": "2012000461471",
     "tikName": "Кошехабльская",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 557,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 550,
@@ -9007,12 +10763,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 31,
-      "Гукасян Сергей Георгиевич": 1,
-      "Михайлов Андрей Павлович": 10,
-      "Резник Владислав Матусович": 410,
-      "Салов Евгений Иванович": 55,
-      "Цикуниб Русланбек Джахфарович": 1
+      "2012000469784": 31,
+      "2012000472636": 1,
+      "2012000466170": 10,
+      "2012000464062": 410,
+      "2012000470491": 55,
+      "2012000474339": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461471&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461471&type=464",
@@ -9022,6 +10778,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:42:34.604749+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461471&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461471&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -9031,8 +10791,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 37,
     "uikTvd": "4014003237282",
+    "uikName": "УИК №37",
     "tikTvd": "2012000461471",
     "tikName": "Кошехабльская",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1065,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1050,
@@ -9048,12 +10812,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 55,
-      "Гукасян Сергей Георгиевич": 19,
-      "Михайлов Андрей Павлович": 43,
-      "Резник Владислав Матусович": 781,
-      "Салов Евгений Иванович": 106,
-      "Цикуниб Русланбек Джахфарович": 4
+      "2012000469784": 55,
+      "2012000472636": 19,
+      "2012000466170": 43,
+      "2012000464062": 781,
+      "2012000470491": 106,
+      "2012000474339": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461471&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461471&type=464",
@@ -9063,6 +10827,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:42:34.604749+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461471&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461471&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -9072,8 +10840,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 38,
     "uikTvd": "4014003237283",
+    "uikName": "УИК №38",
     "tikTvd": "2012000461471",
     "tikName": "Кошехабльская",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1218,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1200,
@@ -9089,12 +10861,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 76,
-      "Гукасян Сергей Георгиевич": 1,
-      "Михайлов Андрей Павлович": 31,
-      "Резник Владислав Матусович": 920,
-      "Салов Евгений Иванович": 121,
-      "Цикуниб Русланбек Джахфарович": 2
+      "2012000469784": 76,
+      "2012000472636": 1,
+      "2012000466170": 31,
+      "2012000464062": 920,
+      "2012000470491": 121,
+      "2012000474339": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461471&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461471&type=464",
@@ -9104,6 +10876,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:42:34.604749+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461471&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461471&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -9113,8 +10889,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 39,
     "uikTvd": "4014003237284",
+    "uikName": "УИК №39",
     "tikTvd": "2012000461471",
     "tikName": "Кошехабльская",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 144,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 147,
@@ -9130,12 +10910,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 7,
-      "Гукасян Сергей Георгиевич": 2,
-      "Михайлов Андрей Павлович": 2,
-      "Резник Владислав Матусович": 97,
-      "Салов Евгений Иванович": 11,
-      "Цикуниб Русланбек Джахфарович": 2
+      "2012000469784": 7,
+      "2012000472636": 2,
+      "2012000466170": 2,
+      "2012000464062": 97,
+      "2012000470491": 11,
+      "2012000474339": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461471&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461471&type=464",
@@ -9145,6 +10925,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:42:34.604749+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461471&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461471&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -9154,8 +10938,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 40,
     "uikTvd": "4014003237285",
+    "uikName": "УИК №40",
     "tikTvd": "2012000461471",
     "tikName": "Кошехабльская",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1709,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1700,
@@ -9171,12 +10959,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 109,
-      "Гукасян Сергей Георгиевич": 16,
-      "Михайлов Андрей Павлович": 21,
-      "Резник Владислав Матусович": 1269,
-      "Салов Евгений Иванович": 154,
-      "Цикуниб Русланбек Джахфарович": 21
+      "2012000469784": 109,
+      "2012000472636": 16,
+      "2012000466170": 21,
+      "2012000464062": 1269,
+      "2012000470491": 154,
+      "2012000474339": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461471&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461471&type=464",
@@ -9186,6 +10974,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:42:34.604749+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461471&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461471&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -9195,8 +10987,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 41,
     "uikTvd": "4014003237286",
+    "uikName": "УИК №41",
     "tikTvd": "2012000461471",
     "tikName": "Кошехабльская",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1368,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1350,
@@ -9212,12 +11008,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 72,
-      "Гукасян Сергей Георгиевич": 14,
-      "Михайлов Андрей Павлович": 24,
-      "Резник Владислав Матусович": 1017,
-      "Салов Евгений Иванович": 108,
-      "Цикуниб Русланбек Джахфарович": 25
+      "2012000469784": 72,
+      "2012000472636": 14,
+      "2012000466170": 24,
+      "2012000464062": 1017,
+      "2012000470491": 108,
+      "2012000474339": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461471&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461471&type=464",
@@ -9227,6 +11023,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:42:34.604749+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461471&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461471&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -9236,8 +11036,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 42,
     "uikTvd": "4014003237287",
+    "uikName": "УИК №42",
     "tikTvd": "2012000461471",
     "tikName": "Кошехабльская",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1070,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1070,
@@ -9253,12 +11057,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 65,
-      "Гукасян Сергей Георгиевич": 5,
-      "Михайлов Андрей Павлович": 28,
-      "Резник Владислав Матусович": 789,
-      "Салов Евгений Иванович": 91,
-      "Цикуниб Русланбек Джахфарович": 7
+      "2012000469784": 65,
+      "2012000472636": 5,
+      "2012000466170": 28,
+      "2012000464062": 789,
+      "2012000470491": 91,
+      "2012000474339": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461471&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461471&type=464",
@@ -9268,6 +11072,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:42:34.604749+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461471&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461471&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -9277,8 +11085,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 43,
     "uikTvd": "4014003237288",
+    "uikName": "УИК №43",
     "tikTvd": "2012000461471",
     "tikName": "Кошехабльская",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 698,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 700,
@@ -9294,12 +11106,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 37,
-      "Гукасян Сергей Георгиевич": 1,
-      "Михайлов Андрей Павлович": 12,
-      "Резник Владислав Матусович": 497,
-      "Салов Евгений Иванович": 74,
-      "Цикуниб Русланбек Джахфарович": 2
+      "2012000469784": 37,
+      "2012000472636": 1,
+      "2012000466170": 12,
+      "2012000464062": 497,
+      "2012000470491": 74,
+      "2012000474339": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461471&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461471&type=464",
@@ -9309,6 +11121,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:42:34.604749+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461471&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461471&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -9318,8 +11134,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 44,
     "uikTvd": "4014003237289",
+    "uikName": "УИК №44",
     "tikTvd": "2012000461471",
     "tikName": "Кошехабльская",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1456,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1450,
@@ -9335,12 +11155,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 76,
-      "Гукасян Сергей Георгиевич": 19,
-      "Михайлов Андрей Павлович": 38,
-      "Резник Владислав Матусович": 1062,
-      "Салов Евгений Иванович": 102,
-      "Цикуниб Русланбек Джахфарович": 35
+      "2012000469784": 76,
+      "2012000472636": 19,
+      "2012000466170": 38,
+      "2012000464062": 1062,
+      "2012000470491": 102,
+      "2012000474339": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461471&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461471&type=464",
@@ -9350,6 +11170,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:42:34.604749+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461471&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461471&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -9359,8 +11183,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 45,
     "uikTvd": "4014003237290",
+    "uikName": "УИК №45",
     "tikTvd": "2012000461471",
     "tikName": "Кошехабльская",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2035,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2050,
@@ -9376,12 +11204,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 89,
-      "Гукасян Сергей Георгиевич": 27,
-      "Михайлов Андрей Павлович": 19,
-      "Резник Владислав Матусович": 1580,
-      "Салов Евгений Иванович": 161,
-      "Цикуниб Русланбек Джахфарович": 45
+      "2012000469784": 89,
+      "2012000472636": 27,
+      "2012000466170": 19,
+      "2012000464062": 1580,
+      "2012000470491": 161,
+      "2012000474339": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461471&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461471&type=464",
@@ -9391,6 +11219,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:42:34.604749+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461471&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461471&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -9400,8 +11232,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 46,
     "uikTvd": "4014003237291",
+    "uikName": "УИК №46",
     "tikTvd": "2012000461471",
     "tikName": "Кошехабльская",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2014,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2030,
@@ -9417,12 +11253,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 107,
-      "Гукасян Сергей Георгиевич": 25,
-      "Михайлов Андрей Павлович": 36,
-      "Резник Владислав Матусович": 1514,
-      "Салов Евгений Иванович": 160,
-      "Цикуниб Русланбек Джахфарович": 49
+      "2012000469784": 107,
+      "2012000472636": 25,
+      "2012000466170": 36,
+      "2012000464062": 1514,
+      "2012000470491": 160,
+      "2012000474339": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461471&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461471&type=464",
@@ -9432,6 +11268,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:42:34.604749+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461471&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461471&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -9441,8 +11281,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 47,
     "uikTvd": "4014003237292",
+    "uikName": "УИК №47",
     "tikTvd": "2012000461471",
     "tikName": "Кошехабльская",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1235,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1230,
@@ -9458,12 +11302,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 65,
-      "Гукасян Сергей Георгиевич": 2,
-      "Михайлов Андрей Павлович": 32,
-      "Резник Владислав Матусович": 956,
-      "Салов Евгений Иванович": 108,
-      "Цикуниб Русланбек Джахфарович": 1
+      "2012000469784": 65,
+      "2012000472636": 2,
+      "2012000466170": 32,
+      "2012000464062": 956,
+      "2012000470491": 108,
+      "2012000474339": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461471&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461471&type=464",
@@ -9473,6 +11317,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:42:34.604749+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461471&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461471&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -9482,8 +11330,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 48,
     "uikTvd": "4014003237293",
+    "uikName": "УИК №48",
     "tikTvd": "2012000461471",
     "tikName": "Кошехабльская",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 102,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 144,
@@ -9499,12 +11351,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 2,
-      "Гукасян Сергей Георгиевич": 3,
-      "Михайлов Андрей Павлович": 6,
-      "Резник Владислав Матусович": 86,
-      "Салов Евгений Иванович": 2,
-      "Цикуниб Русланбек Джахфарович": 2
+      "2012000469784": 2,
+      "2012000472636": 3,
+      "2012000466170": 6,
+      "2012000464062": 86,
+      "2012000470491": 2,
+      "2012000474339": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461471&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461471&type=464",
@@ -9514,6 +11366,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:42:34.604749+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461471&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461471&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -9523,8 +11379,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 49,
     "uikTvd": "4014003237294",
+    "uikName": "УИК №49",
     "tikTvd": "2012000461471",
     "tikName": "Кошехабльская",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 833,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 820,
@@ -9540,12 +11400,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 58,
-      "Гукасян Сергей Георгиевич": 9,
-      "Михайлов Андрей Павлович": 21,
-      "Резник Владислав Матусович": 594,
-      "Салов Евгений Иванович": 37,
-      "Цикуниб Русланбек Джахфарович": 14
+      "2012000469784": 58,
+      "2012000472636": 9,
+      "2012000466170": 21,
+      "2012000464062": 594,
+      "2012000470491": 37,
+      "2012000474339": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461471&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461471&type=464",
@@ -9555,6 +11415,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:42:34.604749+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461471&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461471&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -9564,8 +11428,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 50,
     "uikTvd": "4014003237295",
+    "uikName": "УИК №50",
     "tikTvd": "2012000461471",
     "tikName": "Кошехабльская",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 526,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 525,
@@ -9581,12 +11449,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 29,
-      "Гукасян Сергей Георгиевич": 7,
-      "Михайлов Андрей Павлович": 9,
-      "Резник Владислав Матусович": 385,
-      "Салов Евгений Иванович": 44,
-      "Цикуниб Русланбек Джахфарович": 12
+      "2012000469784": 29,
+      "2012000472636": 7,
+      "2012000466170": 9,
+      "2012000464062": 385,
+      "2012000470491": 44,
+      "2012000474339": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461471&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461471&type=464",
@@ -9596,6 +11464,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:42:34.604749+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461471&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461471&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -9605,8 +11477,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 51,
     "uikTvd": "4014003237296",
+    "uikName": "УИК №51",
     "tikTvd": "2012000461471",
     "tikName": "Кошехабльская",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 520,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 500,
@@ -9622,12 +11498,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 27,
-      "Гукасян Сергей Георгиевич": 3,
-      "Михайлов Андрей Павлович": 7,
-      "Резник Владислав Матусович": 371,
-      "Салов Евгений Иванович": 45,
-      "Цикуниб Русланбек Джахфарович": 1
+      "2012000469784": 27,
+      "2012000472636": 3,
+      "2012000466170": 7,
+      "2012000464062": 371,
+      "2012000470491": 45,
+      "2012000474339": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461471&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461471&type=464",
@@ -9637,6 +11513,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:42:34.604749+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461471&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461471&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -9646,8 +11526,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 52,
     "uikTvd": "4014003237297",
+    "uikName": "УИК №52",
     "tikTvd": "2012000461471",
     "tikName": "Кошехабльская",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 500,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 537,
@@ -9663,12 +11547,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 21,
-      "Гукасян Сергей Георгиевич": 15,
-      "Михайлов Андрей Павлович": 13,
-      "Резник Владислав Матусович": 245,
-      "Салов Евгений Иванович": 39,
-      "Цикуниб Русланбек Джахфарович": 31
+      "2012000469784": 21,
+      "2012000472636": 15,
+      "2012000466170": 13,
+      "2012000464062": 245,
+      "2012000470491": 39,
+      "2012000474339": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461471&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461471&type=464",
@@ -9678,6 +11562,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:42:34.604749+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461471&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461471&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -9687,8 +11575,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 7,
     "uikTvd": "4014002217349",
+    "uikName": "УИК №7",
     "tikTvd": "2012000461472",
     "tikName": "Гиагинская",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2525,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2501,
@@ -9704,12 +11596,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 102,
-      "Гукасян Сергей Георгиевич": 94,
-      "Михайлов Андрей Павлович": 137,
-      "Резник Владислав Матусович": 376,
-      "Салов Евгений Иванович": 265,
-      "Цикуниб Русланбек Джахфарович": 32
+      "2012000469784": 102,
+      "2012000472636": 94,
+      "2012000466170": 137,
+      "2012000464062": 376,
+      "2012000470491": 265,
+      "2012000474339": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461472&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461472&type=464",
@@ -9719,6 +11611,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:42:34.840882+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461472&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461472&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -9728,8 +11624,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 8,
     "uikTvd": "4014002217350",
+    "uikName": "УИК №8",
     "tikTvd": "2012000461472",
     "tikName": "Гиагинская",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1822,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1826,
@@ -9745,12 +11645,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 73,
-      "Гукасян Сергей Георгиевич": 82,
-      "Михайлов Андрей Павлович": 97,
-      "Резник Владислав Матусович": 276,
-      "Салов Евгений Иванович": 211,
-      "Цикуниб Русланбек Джахфарович": 26
+      "2012000469784": 73,
+      "2012000472636": 82,
+      "2012000466170": 97,
+      "2012000464062": 276,
+      "2012000470491": 211,
+      "2012000474339": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461472&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461472&type=464",
@@ -9760,6 +11660,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:42:34.840882+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461472&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461472&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -9769,8 +11673,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 9,
     "uikTvd": "4014002217351",
+    "uikName": "УИК №9",
     "tikTvd": "2012000461472",
     "tikName": "Гиагинская",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2378,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2306,
@@ -9786,12 +11694,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 85,
-      "Гукасян Сергей Георгиевич": 124,
-      "Михайлов Андрей Павлович": 119,
-      "Резник Владислав Матусович": 429,
-      "Салов Евгений Иванович": 261,
-      "Цикуниб Русланбек Джахфарович": 50
+      "2012000469784": 85,
+      "2012000472636": 124,
+      "2012000466170": 119,
+      "2012000464062": 429,
+      "2012000470491": 261,
+      "2012000474339": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461472&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461472&type=464",
@@ -9801,6 +11709,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:42:34.840882+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461472&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461472&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -9810,8 +11722,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 10,
     "uikTvd": "4014002217352",
+    "uikName": "УИК №10",
     "tikTvd": "2012000461472",
     "tikName": "Гиагинская",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1735,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1759,
@@ -9827,12 +11743,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 71,
-      "Гукасян Сергей Георгиевич": 77,
-      "Михайлов Андрей Павлович": 92,
-      "Резник Владислав Матусович": 246,
-      "Салов Евгений Иванович": 182,
-      "Цикуниб Русланбек Джахфарович": 70
+      "2012000469784": 71,
+      "2012000472636": 77,
+      "2012000466170": 92,
+      "2012000464062": 246,
+      "2012000470491": 182,
+      "2012000474339": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461472&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461472&type=464",
@@ -9842,6 +11758,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:42:34.840882+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461472&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461472&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -9851,8 +11771,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 11,
     "uikTvd": "4014002217353",
+    "uikName": "УИК №11",
     "tikTvd": "2012000461472",
     "tikName": "Гиагинская",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1606,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1608,
@@ -9868,12 +11792,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 76,
-      "Гукасян Сергей Георгиевич": 74,
-      "Михайлов Андрей Павлович": 100,
-      "Резник Владислав Матусович": 272,
-      "Салов Евгений Иванович": 179,
-      "Цикуниб Русланбек Джахфарович": 46
+      "2012000469784": 76,
+      "2012000472636": 74,
+      "2012000466170": 100,
+      "2012000464062": 272,
+      "2012000470491": 179,
+      "2012000474339": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461472&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461472&type=464",
@@ -9883,6 +11807,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:42:34.840882+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461472&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461472&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -9892,8 +11820,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 12,
     "uikTvd": "4014002217354",
+    "uikName": "УИК №12",
     "tikTvd": "2012000461472",
     "tikName": "Гиагинская",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1267,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1289,
@@ -9909,12 +11841,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 53,
-      "Гукасян Сергей Георгиевич": 68,
-      "Михайлов Андрей Павлович": 87,
-      "Резник Владислав Матусович": 175,
-      "Салов Евгений Иванович": 106,
-      "Цикуниб Русланбек Джахфарович": 20
+      "2012000469784": 53,
+      "2012000472636": 68,
+      "2012000466170": 87,
+      "2012000464062": 175,
+      "2012000470491": 106,
+      "2012000474339": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461472&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461472&type=464",
@@ -9924,6 +11856,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:42:34.840882+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461472&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461472&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -9933,8 +11869,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 13,
     "uikTvd": "4014002217355",
+    "uikName": "УИК №13",
     "tikTvd": "2012000461472",
     "tikName": "Гиагинская",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1226,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1226,
@@ -9950,12 +11890,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 49,
-      "Гукасян Сергей Георгиевич": 58,
-      "Михайлов Андрей Павлович": 55,
-      "Резник Владислав Матусович": 287,
-      "Салов Евгений Иванович": 116,
-      "Цикуниб Русланбек Джахфарович": 10
+      "2012000469784": 49,
+      "2012000472636": 58,
+      "2012000466170": 55,
+      "2012000464062": 287,
+      "2012000470491": 116,
+      "2012000474339": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461472&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461472&type=464",
@@ -9965,6 +11905,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:42:34.840882+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461472&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461472&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -9974,8 +11918,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 14,
     "uikTvd": "4014002217356",
+    "uikName": "УИК №14",
     "tikTvd": "2012000461472",
     "tikName": "Гиагинская",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1001,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 984,
@@ -9991,12 +11939,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 50,
-      "Гукасян Сергей Георгиевич": 46,
-      "Михайлов Андрей Павлович": 58,
-      "Резник Владислав Матусович": 443,
-      "Салов Евгений Иванович": 83,
-      "Цикуниб Русланбек Джахфарович": 15
+      "2012000469784": 50,
+      "2012000472636": 46,
+      "2012000466170": 58,
+      "2012000464062": 443,
+      "2012000470491": 83,
+      "2012000474339": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461472&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461472&type=464",
@@ -10006,6 +11954,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:42:34.840882+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461472&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461472&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -10015,8 +11967,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 15,
     "uikTvd": "4014002217357",
+    "uikName": "УИК №15",
     "tikTvd": "2012000461472",
     "tikName": "Гиагинская",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 173,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 172,
@@ -10032,12 +11988,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 9,
-      "Гукасян Сергей Георгиевич": 10,
-      "Михайлов Андрей Павлович": 15,
-      "Резник Владислав Матусович": 46,
-      "Салов Евгений Иванович": 18,
-      "Цикуниб Русланбек Джахфарович": 3
+      "2012000469784": 9,
+      "2012000472636": 10,
+      "2012000466170": 15,
+      "2012000464062": 46,
+      "2012000470491": 18,
+      "2012000474339": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461472&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461472&type=464",
@@ -10047,6 +12003,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:42:34.840882+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461472&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461472&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -10056,8 +12016,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 16,
     "uikTvd": "4014002217358",
+    "uikName": "УИК №16",
     "tikTvd": "2012000461472",
     "tikName": "Гиагинская",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 968,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 986,
@@ -10073,12 +12037,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 51,
-      "Гукасян Сергей Георгиевич": 53,
-      "Михайлов Андрей Павлович": 122,
-      "Резник Владислав Матусович": 249,
-      "Салов Евгений Иванович": 104,
-      "Цикуниб Русланбек Джахфарович": 18
+      "2012000469784": 51,
+      "2012000472636": 53,
+      "2012000466170": 122,
+      "2012000464062": 249,
+      "2012000470491": 104,
+      "2012000474339": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461472&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461472&type=464",
@@ -10088,6 +12052,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:42:34.840882+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461472&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461472&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -10097,8 +12065,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 17,
     "uikTvd": "4014002217359",
+    "uikName": "УИК №17",
     "tikTvd": "2012000461472",
     "tikName": "Гиагинская",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 130,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 133,
@@ -10114,12 +12086,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 10,
-      "Гукасян Сергей Георгиевич": 15,
-      "Михайлов Андрей Павлович": 17,
-      "Резник Владислав Матусович": 26,
-      "Салов Евгений Иванович": 19,
-      "Цикуниб Русланбек Джахфарович": 4
+      "2012000469784": 10,
+      "2012000472636": 15,
+      "2012000466170": 17,
+      "2012000464062": 26,
+      "2012000470491": 19,
+      "2012000474339": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461472&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461472&type=464",
@@ -10129,6 +12101,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:42:34.840882+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461472&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461472&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -10138,8 +12114,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 18,
     "uikTvd": "4014002217360",
+    "uikName": "УИК №18",
     "tikTvd": "2012000461472",
     "tikName": "Гиагинская",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 60,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 59,
@@ -10155,12 +12135,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 7,
-      "Гукасян Сергей Георгиевич": 2,
-      "Михайлов Андрей Павлович": 9,
-      "Резник Владислав Матусович": 11,
-      "Салов Евгений Иванович": 17,
-      "Цикуниб Русланбек Джахфарович": 0
+      "2012000469784": 7,
+      "2012000472636": 2,
+      "2012000466170": 9,
+      "2012000464062": 11,
+      "2012000470491": 17,
+      "2012000474339": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461472&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461472&type=464",
@@ -10170,6 +12150,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:42:34.840882+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461472&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461472&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -10179,8 +12163,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 19,
     "uikTvd": "4014002217361",
+    "uikName": "УИК №19",
     "tikTvd": "2012000461472",
     "tikName": "Гиагинская",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 932,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 933,
@@ -10196,12 +12184,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 49,
-      "Гукасян Сергей Георгиевич": 68,
-      "Михайлов Андрей Павлович": 48,
-      "Резник Владислав Матусович": 246,
-      "Салов Евгений Иванович": 80,
-      "Цикуниб Русланбек Джахфарович": 7
+      "2012000469784": 49,
+      "2012000472636": 68,
+      "2012000466170": 48,
+      "2012000464062": 246,
+      "2012000470491": 80,
+      "2012000474339": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461472&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461472&type=464",
@@ -10211,6 +12199,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:42:34.840882+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461472&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461472&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   },
   {
@@ -10220,8 +12212,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 20,
     "uikTvd": "4014002217362",
+    "uikName": "УИК №20",
     "tikTvd": "2012000461472",
     "tikName": "Гиагинская",
+    "regionCode": "1",
+    "regionTvd": "100100225883178",
+    "regionName": "Республика Адыгея (Адыгея)",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1274,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1275,
@@ -10237,12 +12233,12 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Грунин Евгений Анатольевич": 31,
-      "Гукасян Сергей Георгиевич": 51,
-      "Михайлов Андрей Павлович": 45,
-      "Резник Владислав Матусович": 254,
-      "Салов Евгений Иванович": 133,
-      "Цикуниб Русланбек Джахфарович": 14
+      "2012000469784": 31,
+      "2012000472636": 51,
+      "2012000466170": 45,
+      "2012000464062": 254,
+      "2012000470491": 133,
+      "2012000474339": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461472&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461472&type=464",
@@ -10252,6 +12248,10 @@ export const duma_2021_uik_463_region_1_part_001 = [
       "retrievedAt": "2026-08-26T07:42:34.840882+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/adygei?action=show&root=1000002&tvd=2012000461472&vrn=100100225883172&region=1&global=&sub_region=1&prver=0&pronetvd=null&vibid=2012000461472&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100225883179"
     }
   }
 ] satisfies readonly UikProtocol[];

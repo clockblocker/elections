@@ -42,15 +42,15 @@ export const duma_2003_uik_428_region_21_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксаков Анатолий Геннадьевич": 516,
-      "Драндров Сергей Герольдович": 15,
-      "Жуков Валерий Валерианович": 25,
-      "Лин Евгений Людвигович": 34,
-      "Майоров Владимир Николаевич": 38,
-      "Моляков Игорь Юрьевич": 494,
-      "Рыжова Арина Николаевна": 31,
-      "Федоров Виктор Васильевич": 25,
-      "Против всех": 145
+      "gas:candidate-vibid:1001000131382": 516,
+      "gas:candidate-vibid:321300266818": 15,
+      "gas:candidate-vibid:1001000190299": 25,
+      "gas:candidate-vibid:1001000112184": 34,
+      "gas:candidate-vibid:321300266833": 38,
+      "gas:candidate-vibid:1001000121807": 494,
+      "gas:candidate-vibid:1001000339425": 31,
+      "gas:candidate-vibid:321300266821": 25,
+      "special:against-all": 145
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300266872&region=0&sub_region=0&type=429",
@@ -100,15 +100,15 @@ export const duma_2003_uik_428_region_21_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксаков Анатолий Геннадьевич": 178,
-      "Драндров Сергей Герольдович": 8,
-      "Жуков Валерий Валерианович": 7,
-      "Лин Евгений Людвигович": 5,
-      "Майоров Владимир Николаевич": 6,
-      "Моляков Игорь Юрьевич": 58,
-      "Рыжова Арина Николаевна": 5,
-      "Федоров Виктор Васильевич": 3,
-      "Против всех": 43
+      "gas:candidate-vibid:1001000131382": 178,
+      "gas:candidate-vibid:321300266818": 8,
+      "gas:candidate-vibid:1001000190299": 7,
+      "gas:candidate-vibid:1001000112184": 5,
+      "gas:candidate-vibid:321300266833": 6,
+      "gas:candidate-vibid:1001000121807": 58,
+      "gas:candidate-vibid:1001000339425": 5,
+      "gas:candidate-vibid:321300266821": 3,
+      "special:against-all": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300266872&region=0&sub_region=0&type=429",
@@ -158,15 +158,15 @@ export const duma_2003_uik_428_region_21_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксаков Анатолий Геннадьевич": 50,
-      "Драндров Сергей Герольдович": 3,
-      "Жуков Валерий Валерианович": 2,
-      "Лин Евгений Людвигович": 0,
-      "Майоров Владимир Николаевич": 1,
-      "Моляков Игорь Юрьевич": 18,
-      "Рыжова Арина Николаевна": 6,
-      "Федоров Виктор Васильевич": 2,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000131382": 50,
+      "gas:candidate-vibid:321300266818": 3,
+      "gas:candidate-vibid:1001000190299": 2,
+      "gas:candidate-vibid:1001000112184": 0,
+      "gas:candidate-vibid:321300266833": 1,
+      "gas:candidate-vibid:1001000121807": 18,
+      "gas:candidate-vibid:1001000339425": 6,
+      "gas:candidate-vibid:321300266821": 2,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300266872&region=0&sub_region=0&type=429",
@@ -216,15 +216,15 @@ export const duma_2003_uik_428_region_21_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксаков Анатолий Геннадьевич": 107,
-      "Драндров Сергей Герольдович": 3,
-      "Жуков Валерий Валерианович": 0,
-      "Лин Евгений Людвигович": 3,
-      "Майоров Владимир Николаевич": 3,
-      "Моляков Игорь Юрьевич": 29,
-      "Рыжова Арина Николаевна": 2,
-      "Федоров Виктор Васильевич": 2,
-      "Против всех": 25
+      "gas:candidate-vibid:1001000131382": 107,
+      "gas:candidate-vibid:321300266818": 3,
+      "gas:candidate-vibid:1001000190299": 0,
+      "gas:candidate-vibid:1001000112184": 3,
+      "gas:candidate-vibid:321300266833": 3,
+      "gas:candidate-vibid:1001000121807": 29,
+      "gas:candidate-vibid:1001000339425": 2,
+      "gas:candidate-vibid:321300266821": 2,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300266872&region=0&sub_region=0&type=429",
@@ -274,15 +274,15 @@ export const duma_2003_uik_428_region_21_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксаков Анатолий Геннадьевич": 142,
-      "Драндров Сергей Герольдович": 4,
-      "Жуков Валерий Валерианович": 3,
-      "Лин Евгений Людвигович": 0,
-      "Майоров Владимир Николаевич": 5,
-      "Моляков Игорь Юрьевич": 21,
-      "Рыжова Арина Николаевна": 1,
-      "Федоров Виктор Васильевич": 2,
-      "Против всех": 25
+      "gas:candidate-vibid:1001000131382": 142,
+      "gas:candidate-vibid:321300266818": 4,
+      "gas:candidate-vibid:1001000190299": 3,
+      "gas:candidate-vibid:1001000112184": 0,
+      "gas:candidate-vibid:321300266833": 5,
+      "gas:candidate-vibid:1001000121807": 21,
+      "gas:candidate-vibid:1001000339425": 1,
+      "gas:candidate-vibid:321300266821": 2,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300266872&region=0&sub_region=0&type=429",
@@ -332,15 +332,15 @@ export const duma_2003_uik_428_region_21_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксаков Анатолий Геннадьевич": 114,
-      "Драндров Сергей Герольдович": 1,
-      "Жуков Валерий Валерианович": 5,
-      "Лин Евгений Людвигович": 4,
-      "Майоров Владимир Николаевич": 10,
-      "Моляков Игорь Юрьевич": 39,
-      "Рыжова Арина Николаевна": 1,
-      "Федоров Виктор Васильевич": 3,
-      "Против всех": 34
+      "gas:candidate-vibid:1001000131382": 114,
+      "gas:candidate-vibid:321300266818": 1,
+      "gas:candidate-vibid:1001000190299": 5,
+      "gas:candidate-vibid:1001000112184": 4,
+      "gas:candidate-vibid:321300266833": 10,
+      "gas:candidate-vibid:1001000121807": 39,
+      "gas:candidate-vibid:1001000339425": 1,
+      "gas:candidate-vibid:321300266821": 3,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300266872&region=0&sub_region=0&type=429",
@@ -390,15 +390,15 @@ export const duma_2003_uik_428_region_21_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксаков Анатолий Геннадьевич": 123,
-      "Драндров Сергей Герольдович": 0,
-      "Жуков Валерий Валерианович": 0,
-      "Лин Евгений Людвигович": 0,
-      "Майоров Владимир Николаевич": 1,
-      "Моляков Игорь Юрьевич": 8,
-      "Рыжова Арина Николаевна": 0,
-      "Федоров Виктор Васильевич": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000131382": 123,
+      "gas:candidate-vibid:321300266818": 0,
+      "gas:candidate-vibid:1001000190299": 0,
+      "gas:candidate-vibid:1001000112184": 0,
+      "gas:candidate-vibid:321300266833": 1,
+      "gas:candidate-vibid:1001000121807": 8,
+      "gas:candidate-vibid:1001000339425": 0,
+      "gas:candidate-vibid:321300266821": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300266872&region=0&sub_region=0&type=429",
@@ -448,15 +448,15 @@ export const duma_2003_uik_428_region_21_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксаков Анатолий Геннадьевич": 248,
-      "Драндров Сергей Герольдович": 4,
-      "Жуков Валерий Валерианович": 2,
-      "Лин Евгений Людвигович": 4,
-      "Майоров Владимир Николаевич": 6,
-      "Моляков Игорь Юрьевич": 38,
-      "Рыжова Арина Николаевна": 2,
-      "Федоров Виктор Васильевич": 0,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000131382": 248,
+      "gas:candidate-vibid:321300266818": 4,
+      "gas:candidate-vibid:1001000190299": 2,
+      "gas:candidate-vibid:1001000112184": 4,
+      "gas:candidate-vibid:321300266833": 6,
+      "gas:candidate-vibid:1001000121807": 38,
+      "gas:candidate-vibid:1001000339425": 2,
+      "gas:candidate-vibid:321300266821": 0,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300266872&region=0&sub_region=0&type=429",
@@ -506,15 +506,15 @@ export const duma_2003_uik_428_region_21_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксаков Анатолий Геннадьевич": 157,
-      "Драндров Сергей Герольдович": 2,
-      "Жуков Валерий Валерианович": 2,
-      "Лин Евгений Людвигович": 3,
-      "Майоров Владимир Николаевич": 3,
-      "Моляков Игорь Юрьевич": 31,
-      "Рыжова Арина Николаевна": 3,
-      "Федоров Виктор Васильевич": 2,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000131382": 157,
+      "gas:candidate-vibid:321300266818": 2,
+      "gas:candidate-vibid:1001000190299": 2,
+      "gas:candidate-vibid:1001000112184": 3,
+      "gas:candidate-vibid:321300266833": 3,
+      "gas:candidate-vibid:1001000121807": 31,
+      "gas:candidate-vibid:1001000339425": 3,
+      "gas:candidate-vibid:321300266821": 2,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300266872&region=0&sub_region=0&type=429",
@@ -564,15 +564,15 @@ export const duma_2003_uik_428_region_21_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксаков Анатолий Геннадьевич": 91,
-      "Драндров Сергей Герольдович": 0,
-      "Жуков Валерий Валерианович": 1,
-      "Лин Евгений Людвигович": 0,
-      "Майоров Владимир Николаевич": 0,
-      "Моляков Игорь Юрьевич": 20,
-      "Рыжова Арина Николаевна": 0,
-      "Федоров Виктор Васильевич": 1,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000131382": 91,
+      "gas:candidate-vibid:321300266818": 0,
+      "gas:candidate-vibid:1001000190299": 1,
+      "gas:candidate-vibid:1001000112184": 0,
+      "gas:candidate-vibid:321300266833": 0,
+      "gas:candidate-vibid:1001000121807": 20,
+      "gas:candidate-vibid:1001000339425": 0,
+      "gas:candidate-vibid:321300266821": 1,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300266872&region=0&sub_region=0&type=429",
@@ -622,15 +622,15 @@ export const duma_2003_uik_428_region_21_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксаков Анатолий Геннадьевич": 307,
-      "Драндров Сергей Герольдович": 5,
-      "Жуков Валерий Валерианович": 3,
-      "Лин Евгений Людвигович": 6,
-      "Майоров Владимир Николаевич": 8,
-      "Моляков Игорь Юрьевич": 26,
-      "Рыжова Арина Николаевна": 7,
-      "Федоров Виктор Васильевич": 0,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000131382": 307,
+      "gas:candidate-vibid:321300266818": 5,
+      "gas:candidate-vibid:1001000190299": 3,
+      "gas:candidate-vibid:1001000112184": 6,
+      "gas:candidate-vibid:321300266833": 8,
+      "gas:candidate-vibid:1001000121807": 26,
+      "gas:candidate-vibid:1001000339425": 7,
+      "gas:candidate-vibid:321300266821": 0,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300266872&region=0&sub_region=0&type=429",
@@ -680,15 +680,15 @@ export const duma_2003_uik_428_region_21_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксаков Анатолий Геннадьевич": 214,
-      "Драндров Сергей Герольдович": 4,
-      "Жуков Валерий Валерианович": 3,
-      "Лин Евгений Людвигович": 2,
-      "Майоров Владимир Николаевич": 5,
-      "Моляков Игорь Юрьевич": 31,
-      "Рыжова Арина Николаевна": 7,
-      "Федоров Виктор Васильевич": 6,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000131382": 214,
+      "gas:candidate-vibid:321300266818": 4,
+      "gas:candidate-vibid:1001000190299": 3,
+      "gas:candidate-vibid:1001000112184": 2,
+      "gas:candidate-vibid:321300266833": 5,
+      "gas:candidate-vibid:1001000121807": 31,
+      "gas:candidate-vibid:1001000339425": 7,
+      "gas:candidate-vibid:321300266821": 6,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300266872&region=0&sub_region=0&type=429",
@@ -738,15 +738,15 @@ export const duma_2003_uik_428_region_21_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксаков Анатолий Геннадьевич": 232,
-      "Драндров Сергей Герольдович": 4,
-      "Жуков Валерий Валерианович": 4,
-      "Лин Евгений Людвигович": 6,
-      "Майоров Владимир Николаевич": 46,
-      "Моляков Игорь Юрьевич": 84,
-      "Рыжова Арина Николаевна": 11,
-      "Федоров Виктор Васильевич": 9,
-      "Против всех": 35
+      "gas:candidate-vibid:1001000131382": 232,
+      "gas:candidate-vibid:321300266818": 4,
+      "gas:candidate-vibid:1001000190299": 4,
+      "gas:candidate-vibid:1001000112184": 6,
+      "gas:candidate-vibid:321300266833": 46,
+      "gas:candidate-vibid:1001000121807": 84,
+      "gas:candidate-vibid:1001000339425": 11,
+      "gas:candidate-vibid:321300266821": 9,
+      "special:against-all": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300266873&region=0&sub_region=0&type=429",
@@ -796,15 +796,15 @@ export const duma_2003_uik_428_region_21_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксаков Анатолий Геннадьевич": 134,
-      "Драндров Сергей Герольдович": 2,
-      "Жуков Валерий Валерианович": 5,
-      "Лин Евгений Людвигович": 3,
-      "Майоров Владимир Николаевич": 13,
-      "Моляков Игорь Юрьевич": 45,
-      "Рыжова Арина Николаевна": 3,
-      "Федоров Виктор Васильевич": 2,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000131382": 134,
+      "gas:candidate-vibid:321300266818": 2,
+      "gas:candidate-vibid:1001000190299": 5,
+      "gas:candidate-vibid:1001000112184": 3,
+      "gas:candidate-vibid:321300266833": 13,
+      "gas:candidate-vibid:1001000121807": 45,
+      "gas:candidate-vibid:1001000339425": 3,
+      "gas:candidate-vibid:321300266821": 2,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300266873&region=0&sub_region=0&type=429",
@@ -854,15 +854,15 @@ export const duma_2003_uik_428_region_21_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксаков Анатолий Геннадьевич": 175,
-      "Драндров Сергей Герольдович": 0,
-      "Жуков Валерий Валерианович": 7,
-      "Лин Евгений Людвигович": 1,
-      "Майоров Владимир Николаевич": 13,
-      "Моляков Игорь Юрьевич": 40,
-      "Рыжова Арина Николаевна": 6,
-      "Федоров Виктор Васильевич": 5,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000131382": 175,
+      "gas:candidate-vibid:321300266818": 0,
+      "gas:candidate-vibid:1001000190299": 7,
+      "gas:candidate-vibid:1001000112184": 1,
+      "gas:candidate-vibid:321300266833": 13,
+      "gas:candidate-vibid:1001000121807": 40,
+      "gas:candidate-vibid:1001000339425": 6,
+      "gas:candidate-vibid:321300266821": 5,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300266873&region=0&sub_region=0&type=429",
@@ -912,15 +912,15 @@ export const duma_2003_uik_428_region_21_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксаков Анатолий Геннадьевич": 208,
-      "Драндров Сергей Герольдович": 1,
-      "Жуков Валерий Валерианович": 14,
-      "Лин Евгений Людвигович": 8,
-      "Майоров Владимир Николаевич": 23,
-      "Моляков Игорь Юрьевич": 46,
-      "Рыжова Арина Николаевна": 9,
-      "Федоров Виктор Васильевич": 11,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000131382": 208,
+      "gas:candidate-vibid:321300266818": 1,
+      "gas:candidate-vibid:1001000190299": 14,
+      "gas:candidate-vibid:1001000112184": 8,
+      "gas:candidate-vibid:321300266833": 23,
+      "gas:candidate-vibid:1001000121807": 46,
+      "gas:candidate-vibid:1001000339425": 9,
+      "gas:candidate-vibid:321300266821": 11,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300266873&region=0&sub_region=0&type=429",
@@ -970,15 +970,15 @@ export const duma_2003_uik_428_region_21_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксаков Анатолий Геннадьевич": 142,
-      "Драндров Сергей Герольдович": 11,
-      "Жуков Валерий Валерианович": 4,
-      "Лин Евгений Людвигович": 10,
-      "Майоров Владимир Николаевич": 24,
-      "Моляков Игорь Юрьевич": 42,
-      "Рыжова Арина Николаевна": 8,
-      "Федоров Виктор Васильевич": 10,
-      "Против всех": 42
+      "gas:candidate-vibid:1001000131382": 142,
+      "gas:candidate-vibid:321300266818": 11,
+      "gas:candidate-vibid:1001000190299": 4,
+      "gas:candidate-vibid:1001000112184": 10,
+      "gas:candidate-vibid:321300266833": 24,
+      "gas:candidate-vibid:1001000121807": 42,
+      "gas:candidate-vibid:1001000339425": 8,
+      "gas:candidate-vibid:321300266821": 10,
+      "special:against-all": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300266873&region=0&sub_region=0&type=429",
@@ -1028,15 +1028,15 @@ export const duma_2003_uik_428_region_21_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксаков Анатолий Геннадьевич": 45,
-      "Драндров Сергей Герольдович": 1,
-      "Жуков Валерий Валерианович": 2,
-      "Лин Евгений Людвигович": 3,
-      "Майоров Владимир Николаевич": 7,
-      "Моляков Игорь Юрьевич": 19,
-      "Рыжова Арина Николаевна": 6,
-      "Федоров Виктор Васильевич": 2,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000131382": 45,
+      "gas:candidate-vibid:321300266818": 1,
+      "gas:candidate-vibid:1001000190299": 2,
+      "gas:candidate-vibid:1001000112184": 3,
+      "gas:candidate-vibid:321300266833": 7,
+      "gas:candidate-vibid:1001000121807": 19,
+      "gas:candidate-vibid:1001000339425": 6,
+      "gas:candidate-vibid:321300266821": 2,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300266873&region=0&sub_region=0&type=429",
@@ -1086,15 +1086,15 @@ export const duma_2003_uik_428_region_21_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксаков Анатолий Геннадьевич": 170,
-      "Драндров Сергей Герольдович": 3,
-      "Жуков Валерий Валерианович": 4,
-      "Лин Евгений Людвигович": 2,
-      "Майоров Владимир Николаевич": 8,
-      "Моляков Игорь Юрьевич": 59,
-      "Рыжова Арина Николаевна": 2,
-      "Федоров Виктор Васильевич": 3,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000131382": 170,
+      "gas:candidate-vibid:321300266818": 3,
+      "gas:candidate-vibid:1001000190299": 4,
+      "gas:candidate-vibid:1001000112184": 2,
+      "gas:candidate-vibid:321300266833": 8,
+      "gas:candidate-vibid:1001000121807": 59,
+      "gas:candidate-vibid:1001000339425": 2,
+      "gas:candidate-vibid:321300266821": 3,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300266873&region=0&sub_region=0&type=429",
@@ -1144,15 +1144,15 @@ export const duma_2003_uik_428_region_21_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксаков Анатолий Геннадьевич": 340,
-      "Драндров Сергей Герольдович": 7,
-      "Жуков Валерий Валерианович": 3,
-      "Лин Евгений Людвигович": 3,
-      "Майоров Владимир Николаевич": 7,
-      "Моляков Игорь Юрьевич": 83,
-      "Рыжова Арина Николаевна": 4,
-      "Федоров Виктор Васильевич": 6,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000131382": 340,
+      "gas:candidate-vibid:321300266818": 7,
+      "gas:candidate-vibid:1001000190299": 3,
+      "gas:candidate-vibid:1001000112184": 3,
+      "gas:candidate-vibid:321300266833": 7,
+      "gas:candidate-vibid:1001000121807": 83,
+      "gas:candidate-vibid:1001000339425": 4,
+      "gas:candidate-vibid:321300266821": 6,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300266873&region=0&sub_region=0&type=429",
@@ -1202,15 +1202,15 @@ export const duma_2003_uik_428_region_21_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксаков Анатолий Геннадьевич": 199,
-      "Драндров Сергей Герольдович": 1,
-      "Жуков Валерий Валерианович": 2,
-      "Лин Евгений Людвигович": 5,
-      "Майоров Владимир Николаевич": 6,
-      "Моляков Игорь Юрьевич": 64,
-      "Рыжова Арина Николаевна": 6,
-      "Федоров Виктор Васильевич": 2,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000131382": 199,
+      "gas:candidate-vibid:321300266818": 1,
+      "gas:candidate-vibid:1001000190299": 2,
+      "gas:candidate-vibid:1001000112184": 5,
+      "gas:candidate-vibid:321300266833": 6,
+      "gas:candidate-vibid:1001000121807": 64,
+      "gas:candidate-vibid:1001000339425": 6,
+      "gas:candidate-vibid:321300266821": 2,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300266873&region=0&sub_region=0&type=429",
@@ -1260,15 +1260,15 @@ export const duma_2003_uik_428_region_21_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксаков Анатолий Геннадьевич": 334,
-      "Драндров Сергей Герольдович": 5,
-      "Жуков Валерий Валерианович": 6,
-      "Лин Евгений Людвигович": 4,
-      "Майоров Владимир Николаевич": 13,
-      "Моляков Игорь Юрьевич": 53,
-      "Рыжова Арина Николаевна": 7,
-      "Федоров Виктор Васильевич": 8,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000131382": 334,
+      "gas:candidate-vibid:321300266818": 5,
+      "gas:candidate-vibid:1001000190299": 6,
+      "gas:candidate-vibid:1001000112184": 4,
+      "gas:candidate-vibid:321300266833": 13,
+      "gas:candidate-vibid:1001000121807": 53,
+      "gas:candidate-vibid:1001000339425": 7,
+      "gas:candidate-vibid:321300266821": 8,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300266873&region=0&sub_region=0&type=429",
@@ -1318,15 +1318,15 @@ export const duma_2003_uik_428_region_21_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксаков Анатолий Геннадьевич": 134,
-      "Драндров Сергей Герольдович": 4,
-      "Жуков Валерий Валерианович": 3,
-      "Лин Евгений Людвигович": 0,
-      "Майоров Владимир Николаевич": 7,
-      "Моляков Игорь Юрьевич": 84,
-      "Рыжова Арина Николаевна": 6,
-      "Федоров Виктор Васильевич": 4,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000131382": 134,
+      "gas:candidate-vibid:321300266818": 4,
+      "gas:candidate-vibid:1001000190299": 3,
+      "gas:candidate-vibid:1001000112184": 0,
+      "gas:candidate-vibid:321300266833": 7,
+      "gas:candidate-vibid:1001000121807": 84,
+      "gas:candidate-vibid:1001000339425": 6,
+      "gas:candidate-vibid:321300266821": 4,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300266873&region=0&sub_region=0&type=429",
@@ -1376,15 +1376,15 @@ export const duma_2003_uik_428_region_21_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксаков Анатолий Геннадьевич": 207,
-      "Драндров Сергей Герольдович": 3,
-      "Жуков Валерий Валерианович": 4,
-      "Лин Евгений Людвигович": 2,
-      "Майоров Владимир Николаевич": 9,
-      "Моляков Игорь Юрьевич": 50,
-      "Рыжова Арина Николаевна": 3,
-      "Федоров Виктор Васильевич": 5,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000131382": 207,
+      "gas:candidate-vibid:321300266818": 3,
+      "gas:candidate-vibid:1001000190299": 4,
+      "gas:candidate-vibid:1001000112184": 2,
+      "gas:candidate-vibid:321300266833": 9,
+      "gas:candidate-vibid:1001000121807": 50,
+      "gas:candidate-vibid:1001000339425": 3,
+      "gas:candidate-vibid:321300266821": 5,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300266873&region=0&sub_region=0&type=429",
@@ -1434,15 +1434,15 @@ export const duma_2003_uik_428_region_21_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксаков Анатолий Геннадьевич": 230,
-      "Драндров Сергей Герольдович": 2,
-      "Жуков Валерий Валерианович": 1,
-      "Лин Евгений Людвигович": 3,
-      "Майоров Владимир Николаевич": 7,
-      "Моляков Игорь Юрьевич": 29,
-      "Рыжова Арина Николаевна": 3,
-      "Федоров Виктор Васильевич": 6,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000131382": 230,
+      "gas:candidate-vibid:321300266818": 2,
+      "gas:candidate-vibid:1001000190299": 1,
+      "gas:candidate-vibid:1001000112184": 3,
+      "gas:candidate-vibid:321300266833": 7,
+      "gas:candidate-vibid:1001000121807": 29,
+      "gas:candidate-vibid:1001000339425": 3,
+      "gas:candidate-vibid:321300266821": 6,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300266873&region=0&sub_region=0&type=429",
@@ -1492,15 +1492,15 @@ export const duma_2003_uik_428_region_21_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксаков Анатолий Геннадьевич": 82,
-      "Драндров Сергей Герольдович": 0,
-      "Жуков Валерий Валерианович": 1,
-      "Лин Евгений Людвигович": 0,
-      "Майоров Владимир Николаевич": 4,
-      "Моляков Игорь Юрьевич": 13,
-      "Рыжова Арина Николаевна": 3,
-      "Федоров Виктор Васильевич": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000131382": 82,
+      "gas:candidate-vibid:321300266818": 0,
+      "gas:candidate-vibid:1001000190299": 1,
+      "gas:candidate-vibid:1001000112184": 0,
+      "gas:candidate-vibid:321300266833": 4,
+      "gas:candidate-vibid:1001000121807": 13,
+      "gas:candidate-vibid:1001000339425": 3,
+      "gas:candidate-vibid:321300266821": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300266873&region=0&sub_region=0&type=429",
@@ -1550,15 +1550,15 @@ export const duma_2003_uik_428_region_21_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксаков Анатолий Геннадьевич": 140,
-      "Драндров Сергей Герольдович": 0,
-      "Жуков Валерий Валерианович": 3,
-      "Лин Евгений Людвигович": 3,
-      "Майоров Владимир Николаевич": 12,
-      "Моляков Игорь Юрьевич": 102,
-      "Рыжова Арина Николаевна": 8,
-      "Федоров Виктор Васильевич": 7,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000131382": 140,
+      "gas:candidate-vibid:321300266818": 0,
+      "gas:candidate-vibid:1001000190299": 3,
+      "gas:candidate-vibid:1001000112184": 3,
+      "gas:candidate-vibid:321300266833": 12,
+      "gas:candidate-vibid:1001000121807": 102,
+      "gas:candidate-vibid:1001000339425": 8,
+      "gas:candidate-vibid:321300266821": 7,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300266873&region=0&sub_region=0&type=429",
@@ -1608,15 +1608,15 @@ export const duma_2003_uik_428_region_21_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксаков Анатолий Геннадьевич": 51,
-      "Драндров Сергей Герольдович": 0,
-      "Жуков Валерий Валерианович": 0,
-      "Лин Евгений Людвигович": 1,
-      "Майоров Владимир Николаевич": 11,
-      "Моляков Игорь Юрьевич": 53,
-      "Рыжова Арина Николаевна": 9,
-      "Федоров Виктор Васильевич": 0,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000131382": 51,
+      "gas:candidate-vibid:321300266818": 0,
+      "gas:candidate-vibid:1001000190299": 0,
+      "gas:candidate-vibid:1001000112184": 1,
+      "gas:candidate-vibid:321300266833": 11,
+      "gas:candidate-vibid:1001000121807": 53,
+      "gas:candidate-vibid:1001000339425": 9,
+      "gas:candidate-vibid:321300266821": 0,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300266873&region=0&sub_region=0&type=429",
@@ -1666,15 +1666,15 @@ export const duma_2003_uik_428_region_21_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксаков Анатолий Геннадьевич": 625,
-      "Драндров Сергей Герольдович": 12,
-      "Жуков Валерий Валерианович": 14,
-      "Лин Евгений Людвигович": 16,
-      "Майоров Владимир Николаевич": 23,
-      "Моляков Игорь Юрьевич": 399,
-      "Рыжова Арина Николаевна": 18,
-      "Федоров Виктор Васильевич": 27,
-      "Против всех": 74
+      "gas:candidate-vibid:1001000131382": 625,
+      "gas:candidate-vibid:321300266818": 12,
+      "gas:candidate-vibid:1001000190299": 14,
+      "gas:candidate-vibid:1001000112184": 16,
+      "gas:candidate-vibid:321300266833": 23,
+      "gas:candidate-vibid:1001000121807": 399,
+      "gas:candidate-vibid:1001000339425": 18,
+      "gas:candidate-vibid:321300266821": 27,
+      "special:against-all": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300266873&region=0&sub_region=0&type=429",
@@ -1724,15 +1724,15 @@ export const duma_2003_uik_428_region_21_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксаков Анатолий Геннадьевич": 114,
-      "Драндров Сергей Герольдович": 0,
-      "Жуков Валерий Валерианович": 3,
-      "Лин Евгений Людвигович": 0,
-      "Майоров Владимир Николаевич": 2,
-      "Моляков Игорь Юрьевич": 23,
-      "Рыжова Арина Николаевна": 1,
-      "Федоров Виктор Васильевич": 3,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000131382": 114,
+      "gas:candidate-vibid:321300266818": 0,
+      "gas:candidate-vibid:1001000190299": 3,
+      "gas:candidate-vibid:1001000112184": 0,
+      "gas:candidate-vibid:321300266833": 2,
+      "gas:candidate-vibid:1001000121807": 23,
+      "gas:candidate-vibid:1001000339425": 1,
+      "gas:candidate-vibid:321300266821": 3,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300266873&region=0&sub_region=0&type=429",
@@ -1782,15 +1782,15 @@ export const duma_2003_uik_428_region_21_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксаков Анатолий Геннадьевич": 151,
-      "Драндров Сергей Герольдович": 2,
-      "Жуков Валерий Валерианович": 3,
-      "Лин Евгений Людвигович": 0,
-      "Майоров Владимир Николаевич": 3,
-      "Моляков Игорь Юрьевич": 22,
-      "Рыжова Арина Николаевна": 3,
-      "Федоров Виктор Васильевич": 5,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000131382": 151,
+      "gas:candidate-vibid:321300266818": 2,
+      "gas:candidate-vibid:1001000190299": 3,
+      "gas:candidate-vibid:1001000112184": 0,
+      "gas:candidate-vibid:321300266833": 3,
+      "gas:candidate-vibid:1001000121807": 22,
+      "gas:candidate-vibid:1001000339425": 3,
+      "gas:candidate-vibid:321300266821": 5,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300266873&region=0&sub_region=0&type=429",
@@ -1840,15 +1840,15 @@ export const duma_2003_uik_428_region_21_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксаков Анатолий Геннадьевич": 200,
-      "Драндров Сергей Герольдович": 0,
-      "Жуков Валерий Валерианович": 0,
-      "Лин Евгений Людвигович": 1,
-      "Майоров Владимир Николаевич": 7,
-      "Моляков Игорь Юрьевич": 33,
-      "Рыжова Арина Николаевна": 0,
-      "Федоров Виктор Васильевич": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000131382": 200,
+      "gas:candidate-vibid:321300266818": 0,
+      "gas:candidate-vibid:1001000190299": 0,
+      "gas:candidate-vibid:1001000112184": 1,
+      "gas:candidate-vibid:321300266833": 7,
+      "gas:candidate-vibid:1001000121807": 33,
+      "gas:candidate-vibid:1001000339425": 0,
+      "gas:candidate-vibid:321300266821": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300266873&region=0&sub_region=0&type=429",
@@ -1898,15 +1898,15 @@ export const duma_2003_uik_428_region_21_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксаков Анатолий Геннадьевич": 101,
-      "Драндров Сергей Герольдович": 1,
-      "Жуков Валерий Валерианович": 1,
-      "Лин Евгений Людвигович": 0,
-      "Майоров Владимир Николаевич": 4,
-      "Моляков Игорь Юрьевич": 23,
-      "Рыжова Арина Николаевна": 1,
-      "Федоров Виктор Васильевич": 3,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000131382": 101,
+      "gas:candidate-vibid:321300266818": 1,
+      "gas:candidate-vibid:1001000190299": 1,
+      "gas:candidate-vibid:1001000112184": 0,
+      "gas:candidate-vibid:321300266833": 4,
+      "gas:candidate-vibid:1001000121807": 23,
+      "gas:candidate-vibid:1001000339425": 1,
+      "gas:candidate-vibid:321300266821": 3,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300266873&region=0&sub_region=0&type=429",
@@ -1956,15 +1956,15 @@ export const duma_2003_uik_428_region_21_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксаков Анатолий Геннадьевич": 685,
-      "Драндров Сергей Герольдович": 4,
-      "Жуков Валерий Валерианович": 6,
-      "Лин Евгений Людвигович": 19,
-      "Майоров Владимир Николаевич": 20,
-      "Моляков Игорь Юрьевич": 280,
-      "Рыжова Арина Николаевна": 15,
-      "Федоров Виктор Васильевич": 17,
-      "Против всех": 92
+      "gas:candidate-vibid:1001000131382": 685,
+      "gas:candidate-vibid:321300266818": 4,
+      "gas:candidate-vibid:1001000190299": 6,
+      "gas:candidate-vibid:1001000112184": 19,
+      "gas:candidate-vibid:321300266833": 20,
+      "gas:candidate-vibid:1001000121807": 280,
+      "gas:candidate-vibid:1001000339425": 15,
+      "gas:candidate-vibid:321300266821": 17,
+      "special:against-all": 92
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300266873&region=0&sub_region=0&type=429",
@@ -2014,15 +2014,15 @@ export const duma_2003_uik_428_region_21_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксаков Анатолий Геннадьевич": 636,
-      "Драндров Сергей Герольдович": 6,
-      "Жуков Валерий Валерианович": 17,
-      "Лин Евгений Людвигович": 11,
-      "Майоров Владимир Николаевич": 18,
-      "Моляков Игорь Юрьевич": 216,
-      "Рыжова Арина Николаевна": 13,
-      "Федоров Виктор Васильевич": 12,
-      "Против всех": 85
+      "gas:candidate-vibid:1001000131382": 636,
+      "gas:candidate-vibid:321300266818": 6,
+      "gas:candidate-vibid:1001000190299": 17,
+      "gas:candidate-vibid:1001000112184": 11,
+      "gas:candidate-vibid:321300266833": 18,
+      "gas:candidate-vibid:1001000121807": 216,
+      "gas:candidate-vibid:1001000339425": 13,
+      "gas:candidate-vibid:321300266821": 12,
+      "special:against-all": 85
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300266873&region=0&sub_region=0&type=429",
@@ -2072,15 +2072,15 @@ export const duma_2003_uik_428_region_21_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксаков Анатолий Геннадьевич": 562,
-      "Драндров Сергей Герольдович": 10,
-      "Жуков Валерий Валерианович": 8,
-      "Лин Евгений Людвигович": 9,
-      "Майоров Владимир Николаевич": 21,
-      "Моляков Игорь Юрьевич": 224,
-      "Рыжова Арина Николаевна": 37,
-      "Федоров Виктор Васильевич": 13,
-      "Против всех": 104
+      "gas:candidate-vibid:1001000131382": 562,
+      "gas:candidate-vibid:321300266818": 10,
+      "gas:candidate-vibid:1001000190299": 8,
+      "gas:candidate-vibid:1001000112184": 9,
+      "gas:candidate-vibid:321300266833": 21,
+      "gas:candidate-vibid:1001000121807": 224,
+      "gas:candidate-vibid:1001000339425": 37,
+      "gas:candidate-vibid:321300266821": 13,
+      "special:against-all": 104
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300266873&region=0&sub_region=0&type=429",
@@ -2130,15 +2130,15 @@ export const duma_2003_uik_428_region_21_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксаков Анатолий Геннадьевич": 597,
-      "Драндров Сергей Герольдович": 10,
-      "Жуков Валерий Валерианович": 12,
-      "Лин Евгений Людвигович": 27,
-      "Майоров Владимир Николаевич": 17,
-      "Моляков Игорь Юрьевич": 208,
-      "Рыжова Арина Николаевна": 22,
-      "Федоров Виктор Васильевич": 10,
-      "Против всех": 67
+      "gas:candidate-vibid:1001000131382": 597,
+      "gas:candidate-vibid:321300266818": 10,
+      "gas:candidate-vibid:1001000190299": 12,
+      "gas:candidate-vibid:1001000112184": 27,
+      "gas:candidate-vibid:321300266833": 17,
+      "gas:candidate-vibid:1001000121807": 208,
+      "gas:candidate-vibid:1001000339425": 22,
+      "gas:candidate-vibid:321300266821": 10,
+      "special:against-all": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300266873&region=0&sub_region=0&type=429",
@@ -2188,15 +2188,15 @@ export const duma_2003_uik_428_region_21_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксаков Анатолий Геннадьевич": 190,
-      "Драндров Сергей Герольдович": 1,
-      "Жуков Валерий Валерианович": 3,
-      "Лин Евгений Людвигович": 8,
-      "Майоров Владимир Николаевич": 15,
-      "Моляков Игорь Юрьевич": 103,
-      "Рыжова Арина Николаевна": 6,
-      "Федоров Виктор Васильевич": 9,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000131382": 190,
+      "gas:candidate-vibid:321300266818": 1,
+      "gas:candidate-vibid:1001000190299": 3,
+      "gas:candidate-vibid:1001000112184": 8,
+      "gas:candidate-vibid:321300266833": 15,
+      "gas:candidate-vibid:1001000121807": 103,
+      "gas:candidate-vibid:1001000339425": 6,
+      "gas:candidate-vibid:321300266821": 9,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300266873&region=0&sub_region=0&type=429",
@@ -2246,15 +2246,15 @@ export const duma_2003_uik_428_region_21_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксаков Анатолий Геннадьевич": 111,
-      "Драндров Сергей Герольдович": 2,
-      "Жуков Валерий Валерианович": 1,
-      "Лин Евгений Людвигович": 0,
-      "Майоров Владимир Николаевич": 5,
-      "Моляков Игорь Юрьевич": 63,
-      "Рыжова Арина Николаевна": 1,
-      "Федоров Виктор Васильевич": 3,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000131382": 111,
+      "gas:candidate-vibid:321300266818": 2,
+      "gas:candidate-vibid:1001000190299": 1,
+      "gas:candidate-vibid:1001000112184": 0,
+      "gas:candidate-vibid:321300266833": 5,
+      "gas:candidate-vibid:1001000121807": 63,
+      "gas:candidate-vibid:1001000339425": 1,
+      "gas:candidate-vibid:321300266821": 3,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300266873&region=0&sub_region=0&type=429",
@@ -2304,15 +2304,15 @@ export const duma_2003_uik_428_region_21_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксаков Анатолий Геннадьевич": 413,
-      "Драндров Сергей Герольдович": 3,
-      "Жуков Валерий Валерианович": 7,
-      "Лин Евгений Людвигович": 7,
-      "Майоров Владимир Николаевич": 14,
-      "Моляков Игорь Юрьевич": 100,
-      "Рыжова Арина Николаевна": 8,
-      "Федоров Виктор Васильевич": 8,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000131382": 413,
+      "gas:candidate-vibid:321300266818": 3,
+      "gas:candidate-vibid:1001000190299": 7,
+      "gas:candidate-vibid:1001000112184": 7,
+      "gas:candidate-vibid:321300266833": 14,
+      "gas:candidate-vibid:1001000121807": 100,
+      "gas:candidate-vibid:1001000339425": 8,
+      "gas:candidate-vibid:321300266821": 8,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300266873&region=0&sub_region=0&type=429",
@@ -2362,15 +2362,15 @@ export const duma_2003_uik_428_region_21_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксаков Анатолий Геннадьевич": 278,
-      "Драндров Сергей Герольдович": 1,
-      "Жуков Валерий Валерианович": 3,
-      "Лин Евгений Людвигович": 2,
-      "Майоров Владимир Николаевич": 4,
-      "Моляков Игорь Юрьевич": 36,
-      "Рыжова Арина Николаевна": 2,
-      "Федоров Виктор Васильевич": 4,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000131382": 278,
+      "gas:candidate-vibid:321300266818": 1,
+      "gas:candidate-vibid:1001000190299": 3,
+      "gas:candidate-vibid:1001000112184": 2,
+      "gas:candidate-vibid:321300266833": 4,
+      "gas:candidate-vibid:1001000121807": 36,
+      "gas:candidate-vibid:1001000339425": 2,
+      "gas:candidate-vibid:321300266821": 4,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300266873&region=0&sub_region=0&type=429",
@@ -2420,15 +2420,15 @@ export const duma_2003_uik_428_region_21_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксаков Анатолий Геннадьевич": 430,
-      "Драндров Сергей Герольдович": 3,
-      "Жуков Валерий Валерианович": 6,
-      "Лин Евгений Людвигович": 0,
-      "Майоров Владимир Николаевич": 12,
-      "Моляков Игорь Юрьевич": 104,
-      "Рыжова Арина Николаевна": 12,
-      "Федоров Виктор Васильевич": 6,
-      "Против всех": 47
+      "gas:candidate-vibid:1001000131382": 430,
+      "gas:candidate-vibid:321300266818": 3,
+      "gas:candidate-vibid:1001000190299": 6,
+      "gas:candidate-vibid:1001000112184": 0,
+      "gas:candidate-vibid:321300266833": 12,
+      "gas:candidate-vibid:1001000121807": 104,
+      "gas:candidate-vibid:1001000339425": 12,
+      "gas:candidate-vibid:321300266821": 6,
+      "special:against-all": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300266873&region=0&sub_region=0&type=429",
@@ -2478,15 +2478,15 @@ export const duma_2003_uik_428_region_21_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксаков Анатолий Геннадьевич": 146,
-      "Драндров Сергей Герольдович": 5,
-      "Жуков Валерий Валерианович": 1,
-      "Лин Евгений Людвигович": 4,
-      "Майоров Владимир Николаевич": 13,
-      "Моляков Игорь Юрьевич": 36,
-      "Рыжова Арина Николаевна": 2,
-      "Федоров Виктор Васильевич": 5,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000131382": 146,
+      "gas:candidate-vibid:321300266818": 5,
+      "gas:candidate-vibid:1001000190299": 1,
+      "gas:candidate-vibid:1001000112184": 4,
+      "gas:candidate-vibid:321300266833": 13,
+      "gas:candidate-vibid:1001000121807": 36,
+      "gas:candidate-vibid:1001000339425": 2,
+      "gas:candidate-vibid:321300266821": 5,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300266873&region=0&sub_region=0&type=429",
@@ -2536,15 +2536,15 @@ export const duma_2003_uik_428_region_21_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксаков Анатолий Геннадьевич": 245,
-      "Драндров Сергей Герольдович": 4,
-      "Жуков Валерий Валерианович": 2,
-      "Лин Евгений Людвигович": 1,
-      "Майоров Владимир Николаевич": 4,
-      "Моляков Игорь Юрьевич": 76,
-      "Рыжова Арина Николаевна": 1,
-      "Федоров Виктор Васильевич": 3,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000131382": 245,
+      "gas:candidate-vibid:321300266818": 4,
+      "gas:candidate-vibid:1001000190299": 2,
+      "gas:candidate-vibid:1001000112184": 1,
+      "gas:candidate-vibid:321300266833": 4,
+      "gas:candidate-vibid:1001000121807": 76,
+      "gas:candidate-vibid:1001000339425": 1,
+      "gas:candidate-vibid:321300266821": 3,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300266873&region=0&sub_region=0&type=429",
@@ -2594,15 +2594,15 @@ export const duma_2003_uik_428_region_21_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксаков Анатолий Геннадьевич": 108,
-      "Драндров Сергей Герольдович": 2,
-      "Жуков Валерий Валерианович": 1,
-      "Лин Евгений Людвигович": 3,
-      "Майоров Владимир Николаевич": 9,
-      "Моляков Игорь Юрьевич": 17,
-      "Рыжова Арина Николаевна": 1,
-      "Федоров Виктор Васильевич": 4,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000131382": 108,
+      "gas:candidate-vibid:321300266818": 2,
+      "gas:candidate-vibid:1001000190299": 1,
+      "gas:candidate-vibid:1001000112184": 3,
+      "gas:candidate-vibid:321300266833": 9,
+      "gas:candidate-vibid:1001000121807": 17,
+      "gas:candidate-vibid:1001000339425": 1,
+      "gas:candidate-vibid:321300266821": 4,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300266873&region=0&sub_region=0&type=429",
@@ -2652,15 +2652,15 @@ export const duma_2003_uik_428_region_21_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксаков Анатолий Геннадьевич": 157,
-      "Драндров Сергей Герольдович": 2,
-      "Жуков Валерий Валерианович": 4,
-      "Лин Евгений Людвигович": 2,
-      "Майоров Владимир Николаевич": 10,
-      "Моляков Игорь Юрьевич": 59,
-      "Рыжова Арина Николаевна": 5,
-      "Федоров Виктор Васильевич": 2,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000131382": 157,
+      "gas:candidate-vibid:321300266818": 2,
+      "gas:candidate-vibid:1001000190299": 4,
+      "gas:candidate-vibid:1001000112184": 2,
+      "gas:candidate-vibid:321300266833": 10,
+      "gas:candidate-vibid:1001000121807": 59,
+      "gas:candidate-vibid:1001000339425": 5,
+      "gas:candidate-vibid:321300266821": 2,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300266873&region=0&sub_region=0&type=429",
@@ -2710,15 +2710,15 @@ export const duma_2003_uik_428_region_21_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксаков Анатолий Геннадьевич": 196,
-      "Драндров Сергей Герольдович": 2,
-      "Жуков Валерий Валерианович": 1,
-      "Лин Евгений Людвигович": 3,
-      "Майоров Владимир Николаевич": 5,
-      "Моляков Игорь Юрьевич": 74,
-      "Рыжова Арина Николаевна": 5,
-      "Федоров Виктор Васильевич": 4,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000131382": 196,
+      "gas:candidate-vibid:321300266818": 2,
+      "gas:candidate-vibid:1001000190299": 1,
+      "gas:candidate-vibid:1001000112184": 3,
+      "gas:candidate-vibid:321300266833": 5,
+      "gas:candidate-vibid:1001000121807": 74,
+      "gas:candidate-vibid:1001000339425": 5,
+      "gas:candidate-vibid:321300266821": 4,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300266873&region=0&sub_region=0&type=429",
@@ -2768,15 +2768,15 @@ export const duma_2003_uik_428_region_21_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксаков Анатолий Геннадьевич": 374,
-      "Драндров Сергей Герольдович": 4,
-      "Жуков Валерий Валерианович": 2,
-      "Лин Евгений Людвигович": 5,
-      "Майоров Владимир Николаевич": 13,
-      "Моляков Игорь Юрьевич": 60,
-      "Рыжова Арина Николаевна": 10,
-      "Федоров Виктор Васильевич": 7,
-      "Против всех": 24
+      "gas:candidate-vibid:1001000131382": 374,
+      "gas:candidate-vibid:321300266818": 4,
+      "gas:candidate-vibid:1001000190299": 2,
+      "gas:candidate-vibid:1001000112184": 5,
+      "gas:candidate-vibid:321300266833": 13,
+      "gas:candidate-vibid:1001000121807": 60,
+      "gas:candidate-vibid:1001000339425": 10,
+      "gas:candidate-vibid:321300266821": 7,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300266873&region=0&sub_region=0&type=429",
@@ -2826,15 +2826,15 @@ export const duma_2003_uik_428_region_21_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксаков Анатолий Геннадьевич": 267,
-      "Драндров Сергей Герольдович": 4,
-      "Жуков Валерий Валерианович": 1,
-      "Лин Евгений Людвигович": 5,
-      "Майоров Владимир Николаевич": 7,
-      "Моляков Игорь Юрьевич": 50,
-      "Рыжова Арина Николаевна": 6,
-      "Федоров Виктор Васильевич": 6,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000131382": 267,
+      "gas:candidate-vibid:321300266818": 4,
+      "gas:candidate-vibid:1001000190299": 1,
+      "gas:candidate-vibid:1001000112184": 5,
+      "gas:candidate-vibid:321300266833": 7,
+      "gas:candidate-vibid:1001000121807": 50,
+      "gas:candidate-vibid:1001000339425": 6,
+      "gas:candidate-vibid:321300266821": 6,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300266873&region=0&sub_region=0&type=429",
@@ -2884,15 +2884,15 @@ export const duma_2003_uik_428_region_21_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксаков Анатолий Геннадьевич": 140,
-      "Драндров Сергей Герольдович": 1,
-      "Жуков Валерий Валерианович": 6,
-      "Лин Евгений Людвигович": 2,
-      "Майоров Владимир Николаевич": 11,
-      "Моляков Игорь Юрьевич": 60,
-      "Рыжова Арина Николаевна": 6,
-      "Федоров Виктор Васильевич": 10,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000131382": 140,
+      "gas:candidate-vibid:321300266818": 1,
+      "gas:candidate-vibid:1001000190299": 6,
+      "gas:candidate-vibid:1001000112184": 2,
+      "gas:candidate-vibid:321300266833": 11,
+      "gas:candidate-vibid:1001000121807": 60,
+      "gas:candidate-vibid:1001000339425": 6,
+      "gas:candidate-vibid:321300266821": 10,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300266873&region=0&sub_region=0&type=429",
@@ -2942,15 +2942,15 @@ export const duma_2003_uik_428_region_21_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксаков Анатолий Геннадьевич": 98,
-      "Драндров Сергей Герольдович": 0,
-      "Жуков Валерий Валерианович": 3,
-      "Лин Евгений Людвигович": 3,
-      "Майоров Владимир Николаевич": 4,
-      "Моляков Игорь Юрьевич": 17,
-      "Рыжова Арина Николаевна": 3,
-      "Федоров Виктор Васильевич": 1,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000131382": 98,
+      "gas:candidate-vibid:321300266818": 0,
+      "gas:candidate-vibid:1001000190299": 3,
+      "gas:candidate-vibid:1001000112184": 3,
+      "gas:candidate-vibid:321300266833": 4,
+      "gas:candidate-vibid:1001000121807": 17,
+      "gas:candidate-vibid:1001000339425": 3,
+      "gas:candidate-vibid:321300266821": 1,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300266873&region=0&sub_region=0&type=429",
@@ -3000,15 +3000,15 @@ export const duma_2003_uik_428_region_21_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксаков Анатолий Геннадьевич": 92,
-      "Драндров Сергей Герольдович": 1,
-      "Жуков Валерий Валерианович": 3,
-      "Лин Евгений Людвигович": 1,
-      "Майоров Владимир Николаевич": 3,
-      "Моляков Игорь Юрьевич": 26,
-      "Рыжова Арина Николаевна": 2,
-      "Федоров Виктор Васильевич": 0,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000131382": 92,
+      "gas:candidate-vibid:321300266818": 1,
+      "gas:candidate-vibid:1001000190299": 3,
+      "gas:candidate-vibid:1001000112184": 1,
+      "gas:candidate-vibid:321300266833": 3,
+      "gas:candidate-vibid:1001000121807": 26,
+      "gas:candidate-vibid:1001000339425": 2,
+      "gas:candidate-vibid:321300266821": 0,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300266873&region=0&sub_region=0&type=429",
@@ -3058,15 +3058,15 @@ export const duma_2003_uik_428_region_21_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксаков Анатолий Геннадьевич": 170,
-      "Драндров Сергей Герольдович": 2,
-      "Жуков Валерий Валерианович": 5,
-      "Лин Евгений Людвигович": 2,
-      "Майоров Владимир Николаевич": 7,
-      "Моляков Игорь Юрьевич": 46,
-      "Рыжова Арина Николаевна": 1,
-      "Федоров Виктор Васильевич": 4,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000131382": 170,
+      "gas:candidate-vibid:321300266818": 2,
+      "gas:candidate-vibid:1001000190299": 5,
+      "gas:candidate-vibid:1001000112184": 2,
+      "gas:candidate-vibid:321300266833": 7,
+      "gas:candidate-vibid:1001000121807": 46,
+      "gas:candidate-vibid:1001000339425": 1,
+      "gas:candidate-vibid:321300266821": 4,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300266873&region=0&sub_region=0&type=429",
@@ -3116,15 +3116,15 @@ export const duma_2003_uik_428_region_21_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксаков Анатолий Геннадьевич": 327,
-      "Драндров Сергей Герольдович": 3,
-      "Жуков Валерий Валерианович": 6,
-      "Лин Евгений Людвигович": 9,
-      "Майоров Владимир Николаевич": 15,
-      "Моляков Игорь Юрьевич": 107,
-      "Рыжова Арина Николаевна": 5,
-      "Федоров Виктор Васильевич": 17,
-      "Против всех": 36
+      "gas:candidate-vibid:1001000131382": 327,
+      "gas:candidate-vibid:321300266818": 3,
+      "gas:candidate-vibid:1001000190299": 6,
+      "gas:candidate-vibid:1001000112184": 9,
+      "gas:candidate-vibid:321300266833": 15,
+      "gas:candidate-vibid:1001000121807": 107,
+      "gas:candidate-vibid:1001000339425": 5,
+      "gas:candidate-vibid:321300266821": 17,
+      "special:against-all": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300266873&region=0&sub_region=0&type=429",
@@ -3174,15 +3174,15 @@ export const duma_2003_uik_428_region_21_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксаков Анатолий Геннадьевич": 84,
-      "Драндров Сергей Герольдович": 1,
-      "Жуков Валерий Валерианович": 2,
-      "Лин Евгений Людвигович": 2,
-      "Майоров Владимир Николаевич": 3,
-      "Моляков Игорь Юрьевич": 41,
-      "Рыжова Арина Николаевна": 2,
-      "Федоров Виктор Васильевич": 5,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000131382": 84,
+      "gas:candidate-vibid:321300266818": 1,
+      "gas:candidate-vibid:1001000190299": 2,
+      "gas:candidate-vibid:1001000112184": 2,
+      "gas:candidate-vibid:321300266833": 3,
+      "gas:candidate-vibid:1001000121807": 41,
+      "gas:candidate-vibid:1001000339425": 2,
+      "gas:candidate-vibid:321300266821": 5,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300266873&region=0&sub_region=0&type=429",
@@ -3232,15 +3232,15 @@ export const duma_2003_uik_428_region_21_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксаков Анатолий Геннадьевич": 531,
-      "Драндров Сергей Герольдович": 11,
-      "Жуков Валерий Валерианович": 8,
-      "Лин Евгений Людвигович": 8,
-      "Майоров Владимир Николаевич": 19,
-      "Моляков Игорь Юрьевич": 195,
-      "Рыжова Арина Николаевна": 17,
-      "Федоров Виктор Васильевич": 11,
-      "Против всех": 90
+      "gas:candidate-vibid:1001000131382": 531,
+      "gas:candidate-vibid:321300266818": 11,
+      "gas:candidate-vibid:1001000190299": 8,
+      "gas:candidate-vibid:1001000112184": 8,
+      "gas:candidate-vibid:321300266833": 19,
+      "gas:candidate-vibid:1001000121807": 195,
+      "gas:candidate-vibid:1001000339425": 17,
+      "gas:candidate-vibid:321300266821": 11,
+      "special:against-all": 90
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300266873&region=0&sub_region=0&type=429",
@@ -3290,15 +3290,15 @@ export const duma_2003_uik_428_region_21_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксаков Анатолий Геннадьевич": 115,
-      "Драндров Сергей Герольдович": 3,
-      "Жуков Валерий Валерианович": 2,
-      "Лин Евгений Людвигович": 7,
-      "Майоров Владимир Николаевич": 16,
-      "Моляков Игорь Юрьевич": 31,
-      "Рыжова Арина Николаевна": 7,
-      "Федоров Виктор Васильевич": 5,
-      "Против всех": 28
+      "gas:candidate-vibid:1001000131382": 115,
+      "gas:candidate-vibid:321300266818": 3,
+      "gas:candidate-vibid:1001000190299": 2,
+      "gas:candidate-vibid:1001000112184": 7,
+      "gas:candidate-vibid:321300266833": 16,
+      "gas:candidate-vibid:1001000121807": 31,
+      "gas:candidate-vibid:1001000339425": 7,
+      "gas:candidate-vibid:321300266821": 5,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300266873&region=0&sub_region=0&type=429",
@@ -3348,15 +3348,15 @@ export const duma_2003_uik_428_region_21_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксаков Анатолий Геннадьевич": 211,
-      "Драндров Сергей Герольдович": 5,
-      "Жуков Валерий Валерианович": 12,
-      "Лин Евгений Людвигович": 5,
-      "Майоров Владимир Николаевич": 28,
-      "Моляков Игорь Юрьевич": 150,
-      "Рыжова Арина Николаевна": 8,
-      "Федоров Виктор Васильевич": 18,
-      "Против всех": 31
+      "gas:candidate-vibid:1001000131382": 211,
+      "gas:candidate-vibid:321300266818": 5,
+      "gas:candidate-vibid:1001000190299": 12,
+      "gas:candidate-vibid:1001000112184": 5,
+      "gas:candidate-vibid:321300266833": 28,
+      "gas:candidate-vibid:1001000121807": 150,
+      "gas:candidate-vibid:1001000339425": 8,
+      "gas:candidate-vibid:321300266821": 18,
+      "special:against-all": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300266873&region=0&sub_region=0&type=429",
@@ -3406,15 +3406,15 @@ export const duma_2003_uik_428_region_21_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксаков Анатолий Геннадьевич": 152,
-      "Драндров Сергей Герольдович": 4,
-      "Жуков Валерий Валерианович": 9,
-      "Лин Евгений Людвигович": 4,
-      "Майоров Владимир Николаевич": 6,
-      "Моляков Игорь Юрьевич": 57,
-      "Рыжова Арина Николаевна": 4,
-      "Федоров Виктор Васильевич": 3,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000131382": 152,
+      "gas:candidate-vibid:321300266818": 4,
+      "gas:candidate-vibid:1001000190299": 9,
+      "gas:candidate-vibid:1001000112184": 4,
+      "gas:candidate-vibid:321300266833": 6,
+      "gas:candidate-vibid:1001000121807": 57,
+      "gas:candidate-vibid:1001000339425": 4,
+      "gas:candidate-vibid:321300266821": 3,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300266873&region=0&sub_region=0&type=429",
@@ -3464,15 +3464,15 @@ export const duma_2003_uik_428_region_21_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксаков Анатолий Геннадьевич": 293,
-      "Драндров Сергей Герольдович": 5,
-      "Жуков Валерий Валерианович": 6,
-      "Лин Евгений Людвигович": 6,
-      "Майоров Владимир Николаевич": 22,
-      "Моляков Игорь Юрьевич": 41,
-      "Рыжова Арина Николаевна": 13,
-      "Федоров Виктор Васильевич": 7,
-      "Против всех": 43
+      "gas:candidate-vibid:1001000131382": 293,
+      "gas:candidate-vibid:321300266818": 5,
+      "gas:candidate-vibid:1001000190299": 6,
+      "gas:candidate-vibid:1001000112184": 6,
+      "gas:candidate-vibid:321300266833": 22,
+      "gas:candidate-vibid:1001000121807": 41,
+      "gas:candidate-vibid:1001000339425": 13,
+      "gas:candidate-vibid:321300266821": 7,
+      "special:against-all": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300266873&region=0&sub_region=0&type=429",
@@ -3522,15 +3522,15 @@ export const duma_2003_uik_428_region_21_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксаков Анатолий Геннадьевич": 125,
-      "Драндров Сергей Герольдович": 2,
-      "Жуков Валерий Валерианович": 4,
-      "Лин Евгений Людвигович": 1,
-      "Майоров Владимир Николаевич": 6,
-      "Моляков Игорь Юрьевич": 24,
-      "Рыжова Арина Николаевна": 1,
-      "Федоров Виктор Васильевич": 5,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000131382": 125,
+      "gas:candidate-vibid:321300266818": 2,
+      "gas:candidate-vibid:1001000190299": 4,
+      "gas:candidate-vibid:1001000112184": 1,
+      "gas:candidate-vibid:321300266833": 6,
+      "gas:candidate-vibid:1001000121807": 24,
+      "gas:candidate-vibid:1001000339425": 1,
+      "gas:candidate-vibid:321300266821": 5,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300266873&region=0&sub_region=0&type=429",
@@ -3580,15 +3580,15 @@ export const duma_2003_uik_428_region_21_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксаков Анатолий Геннадьевич": 116,
-      "Драндров Сергей Герольдович": 1,
-      "Жуков Валерий Валерианович": 5,
-      "Лин Евгений Людвигович": 1,
-      "Майоров Владимир Николаевич": 5,
-      "Моляков Игорь Юрьевич": 22,
-      "Рыжова Арина Николаевна": 3,
-      "Федоров Виктор Васильевич": 3,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000131382": 116,
+      "gas:candidate-vibid:321300266818": 1,
+      "gas:candidate-vibid:1001000190299": 5,
+      "gas:candidate-vibid:1001000112184": 1,
+      "gas:candidate-vibid:321300266833": 5,
+      "gas:candidate-vibid:1001000121807": 22,
+      "gas:candidate-vibid:1001000339425": 3,
+      "gas:candidate-vibid:321300266821": 3,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300266873&region=0&sub_region=0&type=429",
@@ -3638,15 +3638,15 @@ export const duma_2003_uik_428_region_21_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксаков Анатолий Геннадьевич": 444,
-      "Драндров Сергей Герольдович": 5,
-      "Жуков Валерий Валерианович": 8,
-      "Лин Евгений Людвигович": 7,
-      "Майоров Владимир Николаевич": 18,
-      "Моляков Игорь Юрьевич": 120,
-      "Рыжова Арина Николаевна": 18,
-      "Федоров Виктор Васильевич": 17,
-      "Против всех": 39
+      "gas:candidate-vibid:1001000131382": 444,
+      "gas:candidate-vibid:321300266818": 5,
+      "gas:candidate-vibid:1001000190299": 8,
+      "gas:candidate-vibid:1001000112184": 7,
+      "gas:candidate-vibid:321300266833": 18,
+      "gas:candidate-vibid:1001000121807": 120,
+      "gas:candidate-vibid:1001000339425": 18,
+      "gas:candidate-vibid:321300266821": 17,
+      "special:against-all": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300266873&region=0&sub_region=0&type=429",
@@ -3696,15 +3696,15 @@ export const duma_2003_uik_428_region_21_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксаков Анатолий Геннадьевич": 82,
-      "Драндров Сергей Герольдович": 2,
-      "Жуков Валерий Валерианович": 2,
-      "Лин Евгений Людвигович": 3,
-      "Майоров Владимир Николаевич": 2,
-      "Моляков Игорь Юрьевич": 34,
-      "Рыжова Арина Николаевна": 1,
-      "Федоров Виктор Васильевич": 1,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000131382": 82,
+      "gas:candidate-vibid:321300266818": 2,
+      "gas:candidate-vibid:1001000190299": 2,
+      "gas:candidate-vibid:1001000112184": 3,
+      "gas:candidate-vibid:321300266833": 2,
+      "gas:candidate-vibid:1001000121807": 34,
+      "gas:candidate-vibid:1001000339425": 1,
+      "gas:candidate-vibid:321300266821": 1,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300266873&region=0&sub_region=0&type=429",
@@ -3754,15 +3754,15 @@ export const duma_2003_uik_428_region_21_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксаков Анатолий Геннадьевич": 286,
-      "Драндров Сергей Герольдович": 6,
-      "Жуков Валерий Валерианович": 4,
-      "Лин Евгений Людвигович": 8,
-      "Майоров Владимир Николаевич": 15,
-      "Моляков Игорь Юрьевич": 141,
-      "Рыжова Арина Николаевна": 15,
-      "Федоров Виктор Васильевич": 18,
-      "Против всех": 80
+      "gas:candidate-vibid:1001000131382": 286,
+      "gas:candidate-vibid:321300266818": 6,
+      "gas:candidate-vibid:1001000190299": 4,
+      "gas:candidate-vibid:1001000112184": 8,
+      "gas:candidate-vibid:321300266833": 15,
+      "gas:candidate-vibid:1001000121807": 141,
+      "gas:candidate-vibid:1001000339425": 15,
+      "gas:candidate-vibid:321300266821": 18,
+      "special:against-all": 80
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300266873&region=0&sub_region=0&type=429",
@@ -3812,15 +3812,15 @@ export const duma_2003_uik_428_region_21_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксаков Анатолий Геннадьевич": 299,
-      "Драндров Сергей Герольдович": 0,
-      "Жуков Валерий Валерианович": 2,
-      "Лин Евгений Людвигович": 4,
-      "Майоров Владимир Николаевич": 9,
-      "Моляков Игорь Юрьевич": 83,
-      "Рыжова Арина Николаевна": 14,
-      "Федоров Виктор Васильевич": 7,
-      "Против всех": 28
+      "gas:candidate-vibid:1001000131382": 299,
+      "gas:candidate-vibid:321300266818": 0,
+      "gas:candidate-vibid:1001000190299": 2,
+      "gas:candidate-vibid:1001000112184": 4,
+      "gas:candidate-vibid:321300266833": 9,
+      "gas:candidate-vibid:1001000121807": 83,
+      "gas:candidate-vibid:1001000339425": 14,
+      "gas:candidate-vibid:321300266821": 7,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300266873&region=0&sub_region=0&type=429",
@@ -3870,15 +3870,15 @@ export const duma_2003_uik_428_region_21_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксаков Анатолий Геннадьевич": 306,
-      "Драндров Сергей Герольдович": 6,
-      "Жуков Валерий Валерианович": 8,
-      "Лин Евгений Людвигович": 4,
-      "Майоров Владимир Николаевич": 16,
-      "Моляков Игорь Юрьевич": 58,
-      "Рыжова Арина Николаевна": 9,
-      "Федоров Виктор Васильевич": 17,
-      "Против всех": 36
+      "gas:candidate-vibid:1001000131382": 306,
+      "gas:candidate-vibid:321300266818": 6,
+      "gas:candidate-vibid:1001000190299": 8,
+      "gas:candidate-vibid:1001000112184": 4,
+      "gas:candidate-vibid:321300266833": 16,
+      "gas:candidate-vibid:1001000121807": 58,
+      "gas:candidate-vibid:1001000339425": 9,
+      "gas:candidate-vibid:321300266821": 17,
+      "special:against-all": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300266873&region=0&sub_region=0&type=429",
@@ -3928,15 +3928,15 @@ export const duma_2003_uik_428_region_21_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксаков Анатолий Геннадьевич": 181,
-      "Драндров Сергей Герольдович": 2,
-      "Жуков Валерий Валерианович": 5,
-      "Лин Евгений Людвигович": 3,
-      "Майоров Владимир Николаевич": 6,
-      "Моляков Игорь Юрьевич": 27,
-      "Рыжова Арина Николаевна": 7,
-      "Федоров Виктор Васильевич": 4,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000131382": 181,
+      "gas:candidate-vibid:321300266818": 2,
+      "gas:candidate-vibid:1001000190299": 5,
+      "gas:candidate-vibid:1001000112184": 3,
+      "gas:candidate-vibid:321300266833": 6,
+      "gas:candidate-vibid:1001000121807": 27,
+      "gas:candidate-vibid:1001000339425": 7,
+      "gas:candidate-vibid:321300266821": 4,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300266873&region=0&sub_region=0&type=429",
@@ -3986,15 +3986,15 @@ export const duma_2003_uik_428_region_21_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксаков Анатолий Геннадьевич": 134,
-      "Драндров Сергей Герольдович": 0,
-      "Жуков Валерий Валерианович": 2,
-      "Лин Евгений Людвигович": 4,
-      "Майоров Владимир Николаевич": 26,
-      "Моляков Игорь Юрьевич": 32,
-      "Рыжова Арина Николаевна": 3,
-      "Федоров Виктор Васильевич": 2,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000131382": 134,
+      "gas:candidate-vibid:321300266818": 0,
+      "gas:candidate-vibid:1001000190299": 2,
+      "gas:candidate-vibid:1001000112184": 4,
+      "gas:candidate-vibid:321300266833": 26,
+      "gas:candidate-vibid:1001000121807": 32,
+      "gas:candidate-vibid:1001000339425": 3,
+      "gas:candidate-vibid:321300266821": 2,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300266874&region=0&sub_region=0&type=429",
@@ -4044,15 +4044,15 @@ export const duma_2003_uik_428_region_21_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксаков Анатолий Геннадьевич": 236,
-      "Драндров Сергей Герольдович": 1,
-      "Жуков Валерий Валерианович": 4,
-      "Лин Евгений Людвигович": 7,
-      "Майоров Владимир Николаевич": 43,
-      "Моляков Игорь Юрьевич": 65,
-      "Рыжова Арина Николаевна": 8,
-      "Федоров Виктор Васильевич": 12,
-      "Против всех": 40
+      "gas:candidate-vibid:1001000131382": 236,
+      "gas:candidate-vibid:321300266818": 1,
+      "gas:candidate-vibid:1001000190299": 4,
+      "gas:candidate-vibid:1001000112184": 7,
+      "gas:candidate-vibid:321300266833": 43,
+      "gas:candidate-vibid:1001000121807": 65,
+      "gas:candidate-vibid:1001000339425": 8,
+      "gas:candidate-vibid:321300266821": 12,
+      "special:against-all": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300266874&region=0&sub_region=0&type=429",
@@ -4102,15 +4102,15 @@ export const duma_2003_uik_428_region_21_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксаков Анатолий Геннадьевич": 220,
-      "Драндров Сергей Герольдович": 5,
-      "Жуков Валерий Валерианович": 3,
-      "Лин Евгений Людвигович": 13,
-      "Майоров Владимир Николаевич": 92,
-      "Моляков Игорь Юрьевич": 147,
-      "Рыжова Арина Николаевна": 12,
-      "Федоров Виктор Васильевич": 12,
-      "Против всех": 60
+      "gas:candidate-vibid:1001000131382": 220,
+      "gas:candidate-vibid:321300266818": 5,
+      "gas:candidate-vibid:1001000190299": 3,
+      "gas:candidate-vibid:1001000112184": 13,
+      "gas:candidate-vibid:321300266833": 92,
+      "gas:candidate-vibid:1001000121807": 147,
+      "gas:candidate-vibid:1001000339425": 12,
+      "gas:candidate-vibid:321300266821": 12,
+      "special:against-all": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300266874&region=0&sub_region=0&type=429",
@@ -4160,15 +4160,15 @@ export const duma_2003_uik_428_region_21_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксаков Анатолий Геннадьевич": 194,
-      "Драндров Сергей Герольдович": 3,
-      "Жуков Валерий Валерианович": 5,
-      "Лин Евгений Людвигович": 18,
-      "Майоров Владимир Николаевич": 62,
-      "Моляков Игорь Юрьевич": 112,
-      "Рыжова Арина Николаевна": 12,
-      "Федоров Виктор Васильевич": 13,
-      "Против всех": 49
+      "gas:candidate-vibid:1001000131382": 194,
+      "gas:candidate-vibid:321300266818": 3,
+      "gas:candidate-vibid:1001000190299": 5,
+      "gas:candidate-vibid:1001000112184": 18,
+      "gas:candidate-vibid:321300266833": 62,
+      "gas:candidate-vibid:1001000121807": 112,
+      "gas:candidate-vibid:1001000339425": 12,
+      "gas:candidate-vibid:321300266821": 13,
+      "special:against-all": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300266874&region=0&sub_region=0&type=429",
@@ -4218,15 +4218,15 @@ export const duma_2003_uik_428_region_21_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксаков Анатолий Геннадьевич": 135,
-      "Драндров Сергей Герольдович": 3,
-      "Жуков Валерий Валерианович": 1,
-      "Лин Евгений Людвигович": 10,
-      "Майоров Владимир Николаевич": 51,
-      "Моляков Игорь Юрьевич": 82,
-      "Рыжова Арина Николаевна": 7,
-      "Федоров Виктор Васильевич": 6,
-      "Против всех": 32
+      "gas:candidate-vibid:1001000131382": 135,
+      "gas:candidate-vibid:321300266818": 3,
+      "gas:candidate-vibid:1001000190299": 1,
+      "gas:candidate-vibid:1001000112184": 10,
+      "gas:candidate-vibid:321300266833": 51,
+      "gas:candidate-vibid:1001000121807": 82,
+      "gas:candidate-vibid:1001000339425": 7,
+      "gas:candidate-vibid:321300266821": 6,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300266874&region=0&sub_region=0&type=429",
@@ -4276,15 +4276,15 @@ export const duma_2003_uik_428_region_21_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксаков Анатолий Геннадьевич": 317,
-      "Драндров Сергей Герольдович": 3,
-      "Жуков Валерий Валерианович": 4,
-      "Лин Евгений Людвигович": 17,
-      "Майоров Владимир Николаевич": 52,
-      "Моляков Игорь Юрьевич": 134,
-      "Рыжова Арина Николаевна": 8,
-      "Федоров Виктор Васильевич": 11,
-      "Против всех": 60
+      "gas:candidate-vibid:1001000131382": 317,
+      "gas:candidate-vibid:321300266818": 3,
+      "gas:candidate-vibid:1001000190299": 4,
+      "gas:candidate-vibid:1001000112184": 17,
+      "gas:candidate-vibid:321300266833": 52,
+      "gas:candidate-vibid:1001000121807": 134,
+      "gas:candidate-vibid:1001000339425": 8,
+      "gas:candidate-vibid:321300266821": 11,
+      "special:against-all": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300266874&region=0&sub_region=0&type=429",
@@ -4334,15 +4334,15 @@ export const duma_2003_uik_428_region_21_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксаков Анатолий Геннадьевич": 308,
-      "Драндров Сергей Герольдович": 1,
-      "Жуков Валерий Валерианович": 6,
-      "Лин Евгений Людвигович": 17,
-      "Майоров Владимир Николаевич": 52,
-      "Моляков Игорь Юрьевич": 123,
-      "Рыжова Арина Николаевна": 12,
-      "Федоров Виктор Васильевич": 8,
-      "Против всех": 50
+      "gas:candidate-vibid:1001000131382": 308,
+      "gas:candidate-vibid:321300266818": 1,
+      "gas:candidate-vibid:1001000190299": 6,
+      "gas:candidate-vibid:1001000112184": 17,
+      "gas:candidate-vibid:321300266833": 52,
+      "gas:candidate-vibid:1001000121807": 123,
+      "gas:candidate-vibid:1001000339425": 12,
+      "gas:candidate-vibid:321300266821": 8,
+      "special:against-all": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300266874&region=0&sub_region=0&type=429",
@@ -4392,15 +4392,15 @@ export const duma_2003_uik_428_region_21_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксаков Анатолий Геннадьевич": 174,
-      "Драндров Сергей Герольдович": 1,
-      "Жуков Валерий Валерианович": 3,
-      "Лин Евгений Людвигович": 1,
-      "Майоров Владимир Николаевич": 38,
-      "Моляков Игорь Юрьевич": 73,
-      "Рыжова Арина Николаевна": 6,
-      "Федоров Виктор Васильевич": 8,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000131382": 174,
+      "gas:candidate-vibid:321300266818": 1,
+      "gas:candidate-vibid:1001000190299": 3,
+      "gas:candidate-vibid:1001000112184": 1,
+      "gas:candidate-vibid:321300266833": 38,
+      "gas:candidate-vibid:1001000121807": 73,
+      "gas:candidate-vibid:1001000339425": 6,
+      "gas:candidate-vibid:321300266821": 8,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300266874&region=0&sub_region=0&type=429",
@@ -4450,15 +4450,15 @@ export const duma_2003_uik_428_region_21_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксаков Анатолий Геннадьевич": 238,
-      "Драндров Сергей Герольдович": 2,
-      "Жуков Валерий Валерианович": 7,
-      "Лин Евгений Людвигович": 3,
-      "Майоров Владимир Николаевич": 73,
-      "Моляков Игорь Юрьевич": 49,
-      "Рыжова Арина Николаевна": 7,
-      "Федоров Виктор Васильевич": 5,
-      "Против всех": 33
+      "gas:candidate-vibid:1001000131382": 238,
+      "gas:candidate-vibid:321300266818": 2,
+      "gas:candidate-vibid:1001000190299": 7,
+      "gas:candidate-vibid:1001000112184": 3,
+      "gas:candidate-vibid:321300266833": 73,
+      "gas:candidate-vibid:1001000121807": 49,
+      "gas:candidate-vibid:1001000339425": 7,
+      "gas:candidate-vibid:321300266821": 5,
+      "special:against-all": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300266874&region=0&sub_region=0&type=429",
@@ -4508,15 +4508,15 @@ export const duma_2003_uik_428_region_21_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксаков Анатолий Геннадьевич": 87,
-      "Драндров Сергей Герольдович": 1,
-      "Жуков Валерий Валерианович": 2,
-      "Лин Евгений Людвигович": 1,
-      "Майоров Владимир Николаевич": 8,
-      "Моляков Игорь Юрьевич": 17,
-      "Рыжова Арина Николаевна": 7,
-      "Федоров Виктор Васильевич": 1,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000131382": 87,
+      "gas:candidate-vibid:321300266818": 1,
+      "gas:candidate-vibid:1001000190299": 2,
+      "gas:candidate-vibid:1001000112184": 1,
+      "gas:candidate-vibid:321300266833": 8,
+      "gas:candidate-vibid:1001000121807": 17,
+      "gas:candidate-vibid:1001000339425": 7,
+      "gas:candidate-vibid:321300266821": 1,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300266874&region=0&sub_region=0&type=429",
@@ -4566,15 +4566,15 @@ export const duma_2003_uik_428_region_21_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксаков Анатолий Геннадьевич": 132,
-      "Драндров Сергей Герольдович": 0,
-      "Жуков Валерий Валерианович": 2,
-      "Лин Евгений Людвигович": 1,
-      "Майоров Владимир Николаевич": 1,
-      "Моляков Игорь Юрьевич": 10,
-      "Рыжова Арина Николаевна": 2,
-      "Федоров Виктор Васильевич": 2,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000131382": 132,
+      "gas:candidate-vibid:321300266818": 0,
+      "gas:candidate-vibid:1001000190299": 2,
+      "gas:candidate-vibid:1001000112184": 1,
+      "gas:candidate-vibid:321300266833": 1,
+      "gas:candidate-vibid:1001000121807": 10,
+      "gas:candidate-vibid:1001000339425": 2,
+      "gas:candidate-vibid:321300266821": 2,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300266874&region=0&sub_region=0&type=429",
@@ -4624,15 +4624,15 @@ export const duma_2003_uik_428_region_21_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксаков Анатолий Геннадьевич": 68,
-      "Драндров Сергей Герольдович": 0,
-      "Жуков Валерий Валерианович": 7,
-      "Лин Евгений Людвигович": 2,
-      "Майоров Владимир Николаевич": 5,
-      "Моляков Игорь Юрьевич": 16,
-      "Рыжова Арина Николаевна": 4,
-      "Федоров Виктор Васильевич": 2,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000131382": 68,
+      "gas:candidate-vibid:321300266818": 0,
+      "gas:candidate-vibid:1001000190299": 7,
+      "gas:candidate-vibid:1001000112184": 2,
+      "gas:candidate-vibid:321300266833": 5,
+      "gas:candidate-vibid:1001000121807": 16,
+      "gas:candidate-vibid:1001000339425": 4,
+      "gas:candidate-vibid:321300266821": 2,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300266874&region=0&sub_region=0&type=429",
@@ -4682,15 +4682,15 @@ export const duma_2003_uik_428_region_21_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксаков Анатолий Геннадьевич": 201,
-      "Драндров Сергей Герольдович": 1,
-      "Жуков Валерий Валерианович": 1,
-      "Лин Евгений Людвигович": 2,
-      "Майоров Владимир Николаевич": 5,
-      "Моляков Игорь Юрьевич": 75,
-      "Рыжова Арина Николаевна": 1,
-      "Федоров Виктор Васильевич": 2,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000131382": 201,
+      "gas:candidate-vibid:321300266818": 1,
+      "gas:candidate-vibid:1001000190299": 1,
+      "gas:candidate-vibid:1001000112184": 2,
+      "gas:candidate-vibid:321300266833": 5,
+      "gas:candidate-vibid:1001000121807": 75,
+      "gas:candidate-vibid:1001000339425": 1,
+      "gas:candidate-vibid:321300266821": 2,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300266874&region=0&sub_region=0&type=429",
@@ -4740,15 +4740,15 @@ export const duma_2003_uik_428_region_21_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксаков Анатолий Геннадьевич": 205,
-      "Драндров Сергей Герольдович": 0,
-      "Жуков Валерий Валерианович": 1,
-      "Лин Евгений Людвигович": 1,
-      "Майоров Владимир Николаевич": 5,
-      "Моляков Игорь Юрьевич": 41,
-      "Рыжова Арина Николаевна": 1,
-      "Федоров Виктор Васильевич": 2,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000131382": 205,
+      "gas:candidate-vibid:321300266818": 0,
+      "gas:candidate-vibid:1001000190299": 1,
+      "gas:candidate-vibid:1001000112184": 1,
+      "gas:candidate-vibid:321300266833": 5,
+      "gas:candidate-vibid:1001000121807": 41,
+      "gas:candidate-vibid:1001000339425": 1,
+      "gas:candidate-vibid:321300266821": 2,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300266874&region=0&sub_region=0&type=429",
@@ -4798,15 +4798,15 @@ export const duma_2003_uik_428_region_21_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксаков Анатолий Геннадьевич": 219,
-      "Драндров Сергей Герольдович": 0,
-      "Жуков Валерий Валерианович": 0,
-      "Лин Евгений Людвигович": 0,
-      "Майоров Владимир Николаевич": 5,
-      "Моляков Игорь Юрьевич": 20,
-      "Рыжова Арина Николаевна": 1,
-      "Федоров Виктор Васильевич": 3,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000131382": 219,
+      "gas:candidate-vibid:321300266818": 0,
+      "gas:candidate-vibid:1001000190299": 0,
+      "gas:candidate-vibid:1001000112184": 0,
+      "gas:candidate-vibid:321300266833": 5,
+      "gas:candidate-vibid:1001000121807": 20,
+      "gas:candidate-vibid:1001000339425": 1,
+      "gas:candidate-vibid:321300266821": 3,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300266874&region=0&sub_region=0&type=429",
@@ -4856,15 +4856,15 @@ export const duma_2003_uik_428_region_21_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксаков Анатолий Геннадьевич": 122,
-      "Драндров Сергей Герольдович": 1,
-      "Жуков Валерий Валерианович": 1,
-      "Лин Евгений Людвигович": 0,
-      "Майоров Владимир Николаевич": 3,
-      "Моляков Игорь Юрьевич": 5,
-      "Рыжова Арина Николаевна": 1,
-      "Федоров Виктор Васильевич": 1,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000131382": 122,
+      "gas:candidate-vibid:321300266818": 1,
+      "gas:candidate-vibid:1001000190299": 1,
+      "gas:candidate-vibid:1001000112184": 0,
+      "gas:candidate-vibid:321300266833": 3,
+      "gas:candidate-vibid:1001000121807": 5,
+      "gas:candidate-vibid:1001000339425": 1,
+      "gas:candidate-vibid:321300266821": 1,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300266874&region=0&sub_region=0&type=429",
@@ -4914,15 +4914,15 @@ export const duma_2003_uik_428_region_21_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксаков Анатолий Геннадьевич": 231,
-      "Драндров Сергей Герольдович": 3,
-      "Жуков Валерий Валерианович": 2,
-      "Лин Евгений Людвигович": 2,
-      "Майоров Владимир Николаевич": 4,
-      "Моляков Игорь Юрьевич": 14,
-      "Рыжова Арина Николаевна": 1,
-      "Федоров Виктор Васильевич": 1,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000131382": 231,
+      "gas:candidate-vibid:321300266818": 3,
+      "gas:candidate-vibid:1001000190299": 2,
+      "gas:candidate-vibid:1001000112184": 2,
+      "gas:candidate-vibid:321300266833": 4,
+      "gas:candidate-vibid:1001000121807": 14,
+      "gas:candidate-vibid:1001000339425": 1,
+      "gas:candidate-vibid:321300266821": 1,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300266874&region=0&sub_region=0&type=429",
@@ -4972,15 +4972,15 @@ export const duma_2003_uik_428_region_21_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксаков Анатолий Геннадьевич": 69,
-      "Драндров Сергей Герольдович": 0,
-      "Жуков Валерий Валерианович": 0,
-      "Лин Евгений Людвигович": 0,
-      "Майоров Владимир Николаевич": 0,
-      "Моляков Игорь Юрьевич": 8,
-      "Рыжова Арина Николаевна": 0,
-      "Федоров Виктор Васильевич": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000131382": 69,
+      "gas:candidate-vibid:321300266818": 0,
+      "gas:candidate-vibid:1001000190299": 0,
+      "gas:candidate-vibid:1001000112184": 0,
+      "gas:candidate-vibid:321300266833": 0,
+      "gas:candidate-vibid:1001000121807": 8,
+      "gas:candidate-vibid:1001000339425": 0,
+      "gas:candidate-vibid:321300266821": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300266874&region=0&sub_region=0&type=429",
@@ -5030,15 +5030,15 @@ export const duma_2003_uik_428_region_21_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксаков Анатолий Геннадьевич": 130,
-      "Драндров Сергей Герольдович": 3,
-      "Жуков Валерий Валерианович": 2,
-      "Лин Евгений Людвигович": 2,
-      "Майоров Владимир Николаевич": 2,
-      "Моляков Игорь Юрьевич": 23,
-      "Рыжова Арина Николаевна": 2,
-      "Федоров Виктор Васильевич": 2,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000131382": 130,
+      "gas:candidate-vibid:321300266818": 3,
+      "gas:candidate-vibid:1001000190299": 2,
+      "gas:candidate-vibid:1001000112184": 2,
+      "gas:candidate-vibid:321300266833": 2,
+      "gas:candidate-vibid:1001000121807": 23,
+      "gas:candidate-vibid:1001000339425": 2,
+      "gas:candidate-vibid:321300266821": 2,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300266874&region=0&sub_region=0&type=429",
@@ -5088,15 +5088,15 @@ export const duma_2003_uik_428_region_21_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксаков Анатолий Геннадьевич": 59,
-      "Драндров Сергей Герольдович": 1,
-      "Жуков Валерий Валерианович": 1,
-      "Лин Евгений Людвигович": 1,
-      "Майоров Владимир Николаевич": 0,
-      "Моляков Игорь Юрьевич": 6,
-      "Рыжова Арина Николаевна": 1,
-      "Федоров Виктор Васильевич": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000131382": 59,
+      "gas:candidate-vibid:321300266818": 1,
+      "gas:candidate-vibid:1001000190299": 1,
+      "gas:candidate-vibid:1001000112184": 1,
+      "gas:candidate-vibid:321300266833": 0,
+      "gas:candidate-vibid:1001000121807": 6,
+      "gas:candidate-vibid:1001000339425": 1,
+      "gas:candidate-vibid:321300266821": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300266874&region=0&sub_region=0&type=429",
@@ -5146,15 +5146,15 @@ export const duma_2003_uik_428_region_21_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксаков Анатолий Геннадьевич": 381,
-      "Драндров Сергей Герольдович": 3,
-      "Жуков Валерий Валерианович": 3,
-      "Лин Евгений Людвигович": 8,
-      "Майоров Владимир Николаевич": 22,
-      "Моляков Игорь Юрьевич": 137,
-      "Рыжова Арина Николаевна": 6,
-      "Федоров Виктор Васильевич": 11,
-      "Против всех": 29
+      "gas:candidate-vibid:1001000131382": 381,
+      "gas:candidate-vibid:321300266818": 3,
+      "gas:candidate-vibid:1001000190299": 3,
+      "gas:candidate-vibid:1001000112184": 8,
+      "gas:candidate-vibid:321300266833": 22,
+      "gas:candidate-vibid:1001000121807": 137,
+      "gas:candidate-vibid:1001000339425": 6,
+      "gas:candidate-vibid:321300266821": 11,
+      "special:against-all": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300266874&region=0&sub_region=0&type=429",
@@ -5204,15 +5204,15 @@ export const duma_2003_uik_428_region_21_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксаков Анатолий Геннадьевич": 110,
-      "Драндров Сергей Герольдович": 0,
-      "Жуков Валерий Валерианович": 2,
-      "Лин Евгений Людвигович": 0,
-      "Майоров Владимир Николаевич": 3,
-      "Моляков Игорь Юрьевич": 23,
-      "Рыжова Арина Николаевна": 0,
-      "Федоров Виктор Васильевич": 4,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000131382": 110,
+      "gas:candidate-vibid:321300266818": 0,
+      "gas:candidate-vibid:1001000190299": 2,
+      "gas:candidate-vibid:1001000112184": 0,
+      "gas:candidate-vibid:321300266833": 3,
+      "gas:candidate-vibid:1001000121807": 23,
+      "gas:candidate-vibid:1001000339425": 0,
+      "gas:candidate-vibid:321300266821": 4,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300266874&region=0&sub_region=0&type=429",
@@ -5262,15 +5262,15 @@ export const duma_2003_uik_428_region_21_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксаков Анатолий Геннадьевич": 99,
-      "Драндров Сергей Герольдович": 0,
-      "Жуков Валерий Валерианович": 1,
-      "Лин Евгений Людвигович": 1,
-      "Майоров Владимир Николаевич": 4,
-      "Моляков Игорь Юрьевич": 20,
-      "Рыжова Арина Николаевна": 2,
-      "Федоров Виктор Васильевич": 0,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000131382": 99,
+      "gas:candidate-vibid:321300266818": 0,
+      "gas:candidate-vibid:1001000190299": 1,
+      "gas:candidate-vibid:1001000112184": 1,
+      "gas:candidate-vibid:321300266833": 4,
+      "gas:candidate-vibid:1001000121807": 20,
+      "gas:candidate-vibid:1001000339425": 2,
+      "gas:candidate-vibid:321300266821": 0,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300266874&region=0&sub_region=0&type=429",
@@ -5320,15 +5320,15 @@ export const duma_2003_uik_428_region_21_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксаков Анатолий Геннадьевич": 206,
-      "Драндров Сергей Герольдович": 3,
-      "Жуков Валерий Валерианович": 0,
-      "Лин Евгений Людвигович": 7,
-      "Майоров Владимир Николаевич": 14,
-      "Моляков Игорь Юрьевич": 98,
-      "Рыжова Арина Николаевна": 5,
-      "Федоров Виктор Васильевич": 11,
-      "Против всех": 24
+      "gas:candidate-vibid:1001000131382": 206,
+      "gas:candidate-vibid:321300266818": 3,
+      "gas:candidate-vibid:1001000190299": 0,
+      "gas:candidate-vibid:1001000112184": 7,
+      "gas:candidate-vibid:321300266833": 14,
+      "gas:candidate-vibid:1001000121807": 98,
+      "gas:candidate-vibid:1001000339425": 5,
+      "gas:candidate-vibid:321300266821": 11,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300266874&region=0&sub_region=0&type=429",
@@ -5378,15 +5378,15 @@ export const duma_2003_uik_428_region_21_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксаков Анатолий Геннадьевич": 100,
-      "Драндров Сергей Герольдович": 2,
-      "Жуков Валерий Валерианович": 0,
-      "Лин Евгений Людвигович": 0,
-      "Майоров Владимир Николаевич": 0,
-      "Моляков Игорь Юрьевич": 15,
-      "Рыжова Арина Николаевна": 0,
-      "Федоров Виктор Васильевич": 0,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000131382": 100,
+      "gas:candidate-vibid:321300266818": 2,
+      "gas:candidate-vibid:1001000190299": 0,
+      "gas:candidate-vibid:1001000112184": 0,
+      "gas:candidate-vibid:321300266833": 0,
+      "gas:candidate-vibid:1001000121807": 15,
+      "gas:candidate-vibid:1001000339425": 0,
+      "gas:candidate-vibid:321300266821": 0,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300266874&region=0&sub_region=0&type=429",
@@ -5436,15 +5436,15 @@ export const duma_2003_uik_428_region_21_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксаков Анатолий Геннадьевич": 159,
-      "Драндров Сергей Герольдович": 1,
-      "Жуков Валерий Валерианович": 0,
-      "Лин Евгений Людвигович": 2,
-      "Майоров Владимир Николаевич": 8,
-      "Моляков Игорь Юрьевич": 24,
-      "Рыжова Арина Николаевна": 1,
-      "Федоров Виктор Васильевич": 2,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000131382": 159,
+      "gas:candidate-vibid:321300266818": 1,
+      "gas:candidate-vibid:1001000190299": 0,
+      "gas:candidate-vibid:1001000112184": 2,
+      "gas:candidate-vibid:321300266833": 8,
+      "gas:candidate-vibid:1001000121807": 24,
+      "gas:candidate-vibid:1001000339425": 1,
+      "gas:candidate-vibid:321300266821": 2,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300266874&region=0&sub_region=0&type=429",
@@ -5494,15 +5494,15 @@ export const duma_2003_uik_428_region_21_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксаков Анатолий Геннадьевич": 219,
-      "Драндров Сергей Герольдович": 1,
-      "Жуков Валерий Валерианович": 2,
-      "Лин Евгений Людвигович": 3,
-      "Майоров Владимир Николаевич": 10,
-      "Моляков Игорь Юрьевич": 68,
-      "Рыжова Арина Николаевна": 7,
-      "Федоров Виктор Васильевич": 9,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000131382": 219,
+      "gas:candidate-vibid:321300266818": 1,
+      "gas:candidate-vibid:1001000190299": 2,
+      "gas:candidate-vibid:1001000112184": 3,
+      "gas:candidate-vibid:321300266833": 10,
+      "gas:candidate-vibid:1001000121807": 68,
+      "gas:candidate-vibid:1001000339425": 7,
+      "gas:candidate-vibid:321300266821": 9,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300266874&region=0&sub_region=0&type=429",
@@ -5552,15 +5552,15 @@ export const duma_2003_uik_428_region_21_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксаков Анатолий Геннадьевич": 119,
-      "Драндров Сергей Герольдович": 2,
-      "Жуков Валерий Валерианович": 5,
-      "Лин Евгений Людвигович": 3,
-      "Майоров Владимир Николаевич": 4,
-      "Моляков Игорь Юрьевич": 28,
-      "Рыжова Арина Николаевна": 2,
-      "Федоров Виктор Васильевич": 2,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000131382": 119,
+      "gas:candidate-vibid:321300266818": 2,
+      "gas:candidate-vibid:1001000190299": 5,
+      "gas:candidate-vibid:1001000112184": 3,
+      "gas:candidate-vibid:321300266833": 4,
+      "gas:candidate-vibid:1001000121807": 28,
+      "gas:candidate-vibid:1001000339425": 2,
+      "gas:candidate-vibid:321300266821": 2,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300266874&region=0&sub_region=0&type=429",
@@ -5610,15 +5610,15 @@ export const duma_2003_uik_428_region_21_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксаков Анатолий Геннадьевич": 137,
-      "Драндров Сергей Герольдович": 0,
-      "Жуков Валерий Валерианович": 2,
-      "Лин Евгений Людвигович": 0,
-      "Майоров Владимир Николаевич": 3,
-      "Моляков Игорь Юрьевич": 39,
-      "Рыжова Арина Николаевна": 3,
-      "Федоров Виктор Васильевич": 0,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000131382": 137,
+      "gas:candidate-vibid:321300266818": 0,
+      "gas:candidate-vibid:1001000190299": 2,
+      "gas:candidate-vibid:1001000112184": 0,
+      "gas:candidate-vibid:321300266833": 3,
+      "gas:candidate-vibid:1001000121807": 39,
+      "gas:candidate-vibid:1001000339425": 3,
+      "gas:candidate-vibid:321300266821": 0,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300266874&region=0&sub_region=0&type=429",
@@ -5668,15 +5668,15 @@ export const duma_2003_uik_428_region_21_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксаков Анатолий Геннадьевич": 176,
-      "Драндров Сергей Герольдович": 1,
-      "Жуков Валерий Валерианович": 0,
-      "Лин Евгений Людвигович": 0,
-      "Майоров Владимир Николаевич": 6,
-      "Моляков Игорь Юрьевич": 86,
-      "Рыжова Арина Николаевна": 5,
-      "Федоров Виктор Васильевич": 2,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000131382": 176,
+      "gas:candidate-vibid:321300266818": 1,
+      "gas:candidate-vibid:1001000190299": 0,
+      "gas:candidate-vibid:1001000112184": 0,
+      "gas:candidate-vibid:321300266833": 6,
+      "gas:candidate-vibid:1001000121807": 86,
+      "gas:candidate-vibid:1001000339425": 5,
+      "gas:candidate-vibid:321300266821": 2,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300266874&region=0&sub_region=0&type=429",
@@ -5726,15 +5726,15 @@ export const duma_2003_uik_428_region_21_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксаков Анатолий Геннадьевич": 63,
-      "Драндров Сергей Герольдович": 1,
-      "Жуков Валерий Валерианович": 2,
-      "Лин Евгений Людвигович": 0,
-      "Майоров Владимир Николаевич": 5,
-      "Моляков Игорь Юрьевич": 15,
-      "Рыжова Арина Николаевна": 0,
-      "Федоров Виктор Васильевич": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000131382": 63,
+      "gas:candidate-vibid:321300266818": 1,
+      "gas:candidate-vibid:1001000190299": 2,
+      "gas:candidate-vibid:1001000112184": 0,
+      "gas:candidate-vibid:321300266833": 5,
+      "gas:candidate-vibid:1001000121807": 15,
+      "gas:candidate-vibid:1001000339425": 0,
+      "gas:candidate-vibid:321300266821": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300266874&region=0&sub_region=0&type=429",
@@ -5784,15 +5784,15 @@ export const duma_2003_uik_428_region_21_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксаков Анатолий Геннадьевич": 200,
-      "Драндров Сергей Герольдович": 0,
-      "Жуков Валерий Валерианович": 6,
-      "Лин Евгений Людвигович": 5,
-      "Майоров Владимир Николаевич": 21,
-      "Моляков Игорь Юрьевич": 91,
-      "Рыжова Арина Николаевна": 3,
-      "Федоров Виктор Васильевич": 3,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000131382": 200,
+      "gas:candidate-vibid:321300266818": 0,
+      "gas:candidate-vibid:1001000190299": 6,
+      "gas:candidate-vibid:1001000112184": 5,
+      "gas:candidate-vibid:321300266833": 21,
+      "gas:candidate-vibid:1001000121807": 91,
+      "gas:candidate-vibid:1001000339425": 3,
+      "gas:candidate-vibid:321300266821": 3,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300266874&region=0&sub_region=0&type=429",
@@ -5842,15 +5842,15 @@ export const duma_2003_uik_428_region_21_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксаков Анатолий Геннадьевич": 41,
-      "Драндров Сергей Герольдович": 1,
-      "Жуков Валерий Валерианович": 1,
-      "Лин Евгений Людвигович": 5,
-      "Майоров Владимир Николаевич": 5,
-      "Моляков Игорь Юрьевич": 34,
-      "Рыжова Арина Николаевна": 0,
-      "Федоров Виктор Васильевич": 0,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000131382": 41,
+      "gas:candidate-vibid:321300266818": 1,
+      "gas:candidate-vibid:1001000190299": 1,
+      "gas:candidate-vibid:1001000112184": 5,
+      "gas:candidate-vibid:321300266833": 5,
+      "gas:candidate-vibid:1001000121807": 34,
+      "gas:candidate-vibid:1001000339425": 0,
+      "gas:candidate-vibid:321300266821": 0,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300266874&region=0&sub_region=0&type=429",
@@ -5900,15 +5900,15 @@ export const duma_2003_uik_428_region_21_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксаков Анатолий Геннадьевич": 107,
-      "Драндров Сергей Герольдович": 1,
-      "Жуков Валерий Валерианович": 1,
-      "Лин Евгений Людвигович": 2,
-      "Майоров Владимир Николаевич": 3,
-      "Моляков Игорь Юрьевич": 39,
-      "Рыжова Арина Николаевна": 6,
-      "Федоров Виктор Васильевич": 3,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000131382": 107,
+      "gas:candidate-vibid:321300266818": 1,
+      "gas:candidate-vibid:1001000190299": 1,
+      "gas:candidate-vibid:1001000112184": 2,
+      "gas:candidate-vibid:321300266833": 3,
+      "gas:candidate-vibid:1001000121807": 39,
+      "gas:candidate-vibid:1001000339425": 6,
+      "gas:candidate-vibid:321300266821": 3,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300266874&region=0&sub_region=0&type=429",
@@ -5958,15 +5958,15 @@ export const duma_2003_uik_428_region_21_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксаков Анатолий Геннадьевич": 111,
-      "Драндров Сергей Герольдович": 0,
-      "Жуков Валерий Валерианович": 2,
-      "Лин Евгений Людвигович": 0,
-      "Майоров Владимир Николаевич": 3,
-      "Моляков Игорь Юрьевич": 18,
-      "Рыжова Арина Николаевна": 0,
-      "Федоров Виктор Васильевич": 2,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000131382": 111,
+      "gas:candidate-vibid:321300266818": 0,
+      "gas:candidate-vibid:1001000190299": 2,
+      "gas:candidate-vibid:1001000112184": 0,
+      "gas:candidate-vibid:321300266833": 3,
+      "gas:candidate-vibid:1001000121807": 18,
+      "gas:candidate-vibid:1001000339425": 0,
+      "gas:candidate-vibid:321300266821": 2,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300266874&region=0&sub_region=0&type=429",
@@ -6016,15 +6016,15 @@ export const duma_2003_uik_428_region_21_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксаков Анатолий Геннадьевич": 44,
-      "Драндров Сергей Герольдович": 0,
-      "Жуков Валерий Валерианович": 0,
-      "Лин Евгений Людвигович": 0,
-      "Майоров Владимир Николаевич": 1,
-      "Моляков Игорь Юрьевич": 4,
-      "Рыжова Арина Николаевна": 1,
-      "Федоров Виктор Васильевич": 1,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000131382": 44,
+      "gas:candidate-vibid:321300266818": 0,
+      "gas:candidate-vibid:1001000190299": 0,
+      "gas:candidate-vibid:1001000112184": 0,
+      "gas:candidate-vibid:321300266833": 1,
+      "gas:candidate-vibid:1001000121807": 4,
+      "gas:candidate-vibid:1001000339425": 1,
+      "gas:candidate-vibid:321300266821": 1,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300266874&region=0&sub_region=0&type=429",
@@ -6074,15 +6074,15 @@ export const duma_2003_uik_428_region_21_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксаков Анатолий Геннадьевич": 89,
-      "Драндров Сергей Герольдович": 0,
-      "Жуков Валерий Валерианович": 0,
-      "Лин Евгений Людвигович": 0,
-      "Майоров Владимир Николаевич": 2,
-      "Моляков Игорь Юрьевич": 14,
-      "Рыжова Арина Николаевна": 0,
-      "Федоров Виктор Васильевич": 1,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000131382": 89,
+      "gas:candidate-vibid:321300266818": 0,
+      "gas:candidate-vibid:1001000190299": 0,
+      "gas:candidate-vibid:1001000112184": 0,
+      "gas:candidate-vibid:321300266833": 2,
+      "gas:candidate-vibid:1001000121807": 14,
+      "gas:candidate-vibid:1001000339425": 0,
+      "gas:candidate-vibid:321300266821": 1,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300266874&region=0&sub_region=0&type=429",
@@ -6132,15 +6132,15 @@ export const duma_2003_uik_428_region_21_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксаков Анатолий Геннадьевич": 49,
-      "Драндров Сергей Герольдович": 0,
-      "Жуков Валерий Валерианович": 0,
-      "Лин Евгений Людвигович": 1,
-      "Майоров Владимир Николаевич": 1,
-      "Моляков Игорь Юрьевич": 12,
-      "Рыжова Арина Николаевна": 0,
-      "Федоров Виктор Васильевич": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000131382": 49,
+      "gas:candidate-vibid:321300266818": 0,
+      "gas:candidate-vibid:1001000190299": 0,
+      "gas:candidate-vibid:1001000112184": 1,
+      "gas:candidate-vibid:321300266833": 1,
+      "gas:candidate-vibid:1001000121807": 12,
+      "gas:candidate-vibid:1001000339425": 0,
+      "gas:candidate-vibid:321300266821": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300266874&region=0&sub_region=0&type=429",
@@ -6190,15 +6190,15 @@ export const duma_2003_uik_428_region_21_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксаков Анатолий Геннадьевич": 247,
-      "Драндров Сергей Герольдович": 1,
-      "Жуков Валерий Валерианович": 1,
-      "Лин Евгений Людвигович": 5,
-      "Майоров Владимир Николаевич": 7,
-      "Моляков Игорь Юрьевич": 108,
-      "Рыжова Арина Николаевна": 2,
-      "Федоров Виктор Васильевич": 3,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000131382": 247,
+      "gas:candidate-vibid:321300266818": 1,
+      "gas:candidate-vibid:1001000190299": 1,
+      "gas:candidate-vibid:1001000112184": 5,
+      "gas:candidate-vibid:321300266833": 7,
+      "gas:candidate-vibid:1001000121807": 108,
+      "gas:candidate-vibid:1001000339425": 2,
+      "gas:candidate-vibid:321300266821": 3,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300266874&region=0&sub_region=0&type=429",
@@ -6248,15 +6248,15 @@ export const duma_2003_uik_428_region_21_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксаков Анатолий Геннадьевич": 144,
-      "Драндров Сергей Герольдович": 0,
-      "Жуков Валерий Валерианович": 1,
-      "Лин Евгений Людвигович": 2,
-      "Майоров Владимир Николаевич": 2,
-      "Моляков Игорь Юрьевич": 43,
-      "Рыжова Арина Николаевна": 1,
-      "Федоров Виктор Васильевич": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000131382": 144,
+      "gas:candidate-vibid:321300266818": 0,
+      "gas:candidate-vibid:1001000190299": 1,
+      "gas:candidate-vibid:1001000112184": 2,
+      "gas:candidate-vibid:321300266833": 2,
+      "gas:candidate-vibid:1001000121807": 43,
+      "gas:candidate-vibid:1001000339425": 1,
+      "gas:candidate-vibid:321300266821": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300266874&region=0&sub_region=0&type=429",
@@ -6306,15 +6306,15 @@ export const duma_2003_uik_428_region_21_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксаков Анатолий Геннадьевич": 161,
-      "Драндров Сергей Герольдович": 1,
-      "Жуков Валерий Валерианович": 5,
-      "Лин Евгений Людвигович": 2,
-      "Майоров Владимир Николаевич": 6,
-      "Моляков Игорь Юрьевич": 43,
-      "Рыжова Арина Николаевна": 4,
-      "Федоров Виктор Васильевич": 2,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000131382": 161,
+      "gas:candidate-vibid:321300266818": 1,
+      "gas:candidate-vibid:1001000190299": 5,
+      "gas:candidate-vibid:1001000112184": 2,
+      "gas:candidate-vibid:321300266833": 6,
+      "gas:candidate-vibid:1001000121807": 43,
+      "gas:candidate-vibid:1001000339425": 4,
+      "gas:candidate-vibid:321300266821": 2,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300266874&region=0&sub_region=0&type=429",
@@ -6364,15 +6364,15 @@ export const duma_2003_uik_428_region_21_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксаков Анатолий Геннадьевич": 185,
-      "Драндров Сергей Герольдович": 4,
-      "Жуков Валерий Валерианович": 1,
-      "Лин Евгений Людвигович": 3,
-      "Майоров Владимир Николаевич": 3,
-      "Моляков Игорь Юрьевич": 11,
-      "Рыжова Арина Николаевна": 2,
-      "Федоров Виктор Васильевич": 2,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000131382": 185,
+      "gas:candidate-vibid:321300266818": 4,
+      "gas:candidate-vibid:1001000190299": 1,
+      "gas:candidate-vibid:1001000112184": 3,
+      "gas:candidate-vibid:321300266833": 3,
+      "gas:candidate-vibid:1001000121807": 11,
+      "gas:candidate-vibid:1001000339425": 2,
+      "gas:candidate-vibid:321300266821": 2,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300266874&region=0&sub_region=0&type=429",
@@ -6422,15 +6422,15 @@ export const duma_2003_uik_428_region_21_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксаков Анатолий Геннадьевич": 115,
-      "Драндров Сергей Герольдович": 0,
-      "Жуков Валерий Валерианович": 3,
-      "Лин Евгений Людвигович": 2,
-      "Майоров Владимир Николаевич": 2,
-      "Моляков Игорь Юрьевич": 13,
-      "Рыжова Арина Николаевна": 2,
-      "Федоров Виктор Васильевич": 2,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000131382": 115,
+      "gas:candidate-vibid:321300266818": 0,
+      "gas:candidate-vibid:1001000190299": 3,
+      "gas:candidate-vibid:1001000112184": 2,
+      "gas:candidate-vibid:321300266833": 2,
+      "gas:candidate-vibid:1001000121807": 13,
+      "gas:candidate-vibid:1001000339425": 2,
+      "gas:candidate-vibid:321300266821": 2,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300266874&region=0&sub_region=0&type=429",
@@ -6480,15 +6480,15 @@ export const duma_2003_uik_428_region_21_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксаков Анатолий Геннадьевич": 184,
-      "Драндров Сергей Герольдович": 0,
-      "Жуков Валерий Валерианович": 0,
-      "Лин Евгений Людвигович": 1,
-      "Майоров Владимир Николаевич": 4,
-      "Моляков Игорь Юрьевич": 46,
-      "Рыжова Арина Николаевна": 2,
-      "Федоров Виктор Васильевич": 1,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000131382": 184,
+      "gas:candidate-vibid:321300266818": 0,
+      "gas:candidate-vibid:1001000190299": 0,
+      "gas:candidate-vibid:1001000112184": 1,
+      "gas:candidate-vibid:321300266833": 4,
+      "gas:candidate-vibid:1001000121807": 46,
+      "gas:candidate-vibid:1001000339425": 2,
+      "gas:candidate-vibid:321300266821": 1,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300266874&region=0&sub_region=0&type=429",
@@ -6538,15 +6538,15 @@ export const duma_2003_uik_428_region_21_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксаков Анатолий Геннадьевич": 80,
-      "Драндров Сергей Герольдович": 0,
-      "Жуков Валерий Валерианович": 1,
-      "Лин Евгений Людвигович": 0,
-      "Майоров Владимир Николаевич": 3,
-      "Моляков Игорь Юрьевич": 22,
-      "Рыжова Арина Николаевна": 0,
-      "Федоров Виктор Васильевич": 3,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000131382": 80,
+      "gas:candidate-vibid:321300266818": 0,
+      "gas:candidate-vibid:1001000190299": 1,
+      "gas:candidate-vibid:1001000112184": 0,
+      "gas:candidate-vibid:321300266833": 3,
+      "gas:candidate-vibid:1001000121807": 22,
+      "gas:candidate-vibid:1001000339425": 0,
+      "gas:candidate-vibid:321300266821": 3,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300266874&region=0&sub_region=0&type=429",
@@ -6596,15 +6596,15 @@ export const duma_2003_uik_428_region_21_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксаков Анатолий Геннадьевич": 344,
-      "Драндров Сергей Герольдович": 1,
-      "Жуков Валерий Валерианович": 1,
-      "Лин Евгений Людвигович": 3,
-      "Майоров Владимир Николаевич": 13,
-      "Моляков Игорь Юрьевич": 119,
-      "Рыжова Арина Николаевна": 7,
-      "Федоров Виктор Васильевич": 12,
-      "Против всех": 38
+      "gas:candidate-vibid:1001000131382": 344,
+      "gas:candidate-vibid:321300266818": 1,
+      "gas:candidate-vibid:1001000190299": 1,
+      "gas:candidate-vibid:1001000112184": 3,
+      "gas:candidate-vibid:321300266833": 13,
+      "gas:candidate-vibid:1001000121807": 119,
+      "gas:candidate-vibid:1001000339425": 7,
+      "gas:candidate-vibid:321300266821": 12,
+      "special:against-all": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300267224&region=0&sub_region=0&type=429",
@@ -6654,15 +6654,15 @@ export const duma_2003_uik_428_region_21_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксаков Анатолий Геннадьевич": 401,
-      "Драндров Сергей Герольдович": 2,
-      "Жуков Валерий Валерианович": 6,
-      "Лин Евгений Людвигович": 12,
-      "Майоров Владимир Николаевич": 22,
-      "Моляков Игорь Юрьевич": 168,
-      "Рыжова Арина Николаевна": 10,
-      "Федоров Виктор Васильевич": 7,
-      "Против всех": 42
+      "gas:candidate-vibid:1001000131382": 401,
+      "gas:candidate-vibid:321300266818": 2,
+      "gas:candidate-vibid:1001000190299": 6,
+      "gas:candidate-vibid:1001000112184": 12,
+      "gas:candidate-vibid:321300266833": 22,
+      "gas:candidate-vibid:1001000121807": 168,
+      "gas:candidate-vibid:1001000339425": 10,
+      "gas:candidate-vibid:321300266821": 7,
+      "special:against-all": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300267224&region=0&sub_region=0&type=429",
@@ -6712,15 +6712,15 @@ export const duma_2003_uik_428_region_21_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксаков Анатолий Геннадьевич": 523,
-      "Драндров Сергей Герольдович": 4,
-      "Жуков Валерий Валерианович": 3,
-      "Лин Евгений Людвигович": 10,
-      "Майоров Владимир Николаевич": 23,
-      "Моляков Игорь Юрьевич": 212,
-      "Рыжова Арина Николаевна": 6,
-      "Федоров Виктор Васильевич": 15,
-      "Против всех": 56
+      "gas:candidate-vibid:1001000131382": 523,
+      "gas:candidate-vibid:321300266818": 4,
+      "gas:candidate-vibid:1001000190299": 3,
+      "gas:candidate-vibid:1001000112184": 10,
+      "gas:candidate-vibid:321300266833": 23,
+      "gas:candidate-vibid:1001000121807": 212,
+      "gas:candidate-vibid:1001000339425": 6,
+      "gas:candidate-vibid:321300266821": 15,
+      "special:against-all": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300267224&region=0&sub_region=0&type=429",
@@ -6770,15 +6770,15 @@ export const duma_2003_uik_428_region_21_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксаков Анатолий Геннадьевич": 488,
-      "Драндров Сергей Герольдович": 2,
-      "Жуков Валерий Валерианович": 10,
-      "Лин Евгений Людвигович": 6,
-      "Майоров Владимир Николаевич": 29,
-      "Моляков Игорь Юрьевич": 173,
-      "Рыжова Арина Николаевна": 17,
-      "Федоров Виктор Васильевич": 14,
-      "Против всех": 61
+      "gas:candidate-vibid:1001000131382": 488,
+      "gas:candidate-vibid:321300266818": 2,
+      "gas:candidate-vibid:1001000190299": 10,
+      "gas:candidate-vibid:1001000112184": 6,
+      "gas:candidate-vibid:321300266833": 29,
+      "gas:candidate-vibid:1001000121807": 173,
+      "gas:candidate-vibid:1001000339425": 17,
+      "gas:candidate-vibid:321300266821": 14,
+      "special:against-all": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300267224&region=0&sub_region=0&type=429",
@@ -6828,15 +6828,15 @@ export const duma_2003_uik_428_region_21_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксаков Анатолий Геннадьевич": 269,
-      "Драндров Сергей Герольдович": 5,
-      "Жуков Валерий Валерианович": 5,
-      "Лин Евгений Людвигович": 7,
-      "Майоров Владимир Николаевич": 14,
-      "Моляков Игорь Юрьевич": 94,
-      "Рыжова Арина Николаевна": 7,
-      "Федоров Виктор Васильевич": 4,
-      "Против всех": 26
+      "gas:candidate-vibid:1001000131382": 269,
+      "gas:candidate-vibid:321300266818": 5,
+      "gas:candidate-vibid:1001000190299": 5,
+      "gas:candidate-vibid:1001000112184": 7,
+      "gas:candidate-vibid:321300266833": 14,
+      "gas:candidate-vibid:1001000121807": 94,
+      "gas:candidate-vibid:1001000339425": 7,
+      "gas:candidate-vibid:321300266821": 4,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300267224&region=0&sub_region=0&type=429",
@@ -6886,15 +6886,15 @@ export const duma_2003_uik_428_region_21_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксаков Анатолий Геннадьевич": 283,
-      "Драндров Сергей Герольдович": 1,
-      "Жуков Валерий Валерианович": 4,
-      "Лин Евгений Людвигович": 8,
-      "Майоров Владимир Николаевич": 13,
-      "Моляков Игорь Юрьевич": 116,
-      "Рыжова Арина Николаевна": 4,
-      "Федоров Виктор Васильевич": 4,
-      "Против всех": 28
+      "gas:candidate-vibid:1001000131382": 283,
+      "gas:candidate-vibid:321300266818": 1,
+      "gas:candidate-vibid:1001000190299": 4,
+      "gas:candidate-vibid:1001000112184": 8,
+      "gas:candidate-vibid:321300266833": 13,
+      "gas:candidate-vibid:1001000121807": 116,
+      "gas:candidate-vibid:1001000339425": 4,
+      "gas:candidate-vibid:321300266821": 4,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300267224&region=0&sub_region=0&type=429",
@@ -6944,15 +6944,15 @@ export const duma_2003_uik_428_region_21_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксаков Анатолий Геннадьевич": 516,
-      "Драндров Сергей Герольдович": 4,
-      "Жуков Валерий Валерианович": 6,
-      "Лин Евгений Людвигович": 8,
-      "Майоров Владимир Николаевич": 25,
-      "Моляков Игорь Юрьевич": 166,
-      "Рыжова Арина Николаевна": 4,
-      "Федоров Виктор Васильевич": 9,
-      "Против всех": 30
+      "gas:candidate-vibid:1001000131382": 516,
+      "gas:candidate-vibid:321300266818": 4,
+      "gas:candidate-vibid:1001000190299": 6,
+      "gas:candidate-vibid:1001000112184": 8,
+      "gas:candidate-vibid:321300266833": 25,
+      "gas:candidate-vibid:1001000121807": 166,
+      "gas:candidate-vibid:1001000339425": 4,
+      "gas:candidate-vibid:321300266821": 9,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300267224&region=0&sub_region=0&type=429",
@@ -7002,15 +7002,15 @@ export const duma_2003_uik_428_region_21_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксаков Анатолий Геннадьевич": 82,
-      "Драндров Сергей Герольдович": 2,
-      "Жуков Валерий Валерианович": 2,
-      "Лин Евгений Людвигович": 0,
-      "Майоров Владимир Николаевич": 13,
-      "Моляков Игорь Юрьевич": 53,
-      "Рыжова Арина Николаевна": 1,
-      "Федоров Виктор Васильевич": 4,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000131382": 82,
+      "gas:candidate-vibid:321300266818": 2,
+      "gas:candidate-vibid:1001000190299": 2,
+      "gas:candidate-vibid:1001000112184": 0,
+      "gas:candidate-vibid:321300266833": 13,
+      "gas:candidate-vibid:1001000121807": 53,
+      "gas:candidate-vibid:1001000339425": 1,
+      "gas:candidate-vibid:321300266821": 4,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300267224&region=0&sub_region=0&type=429",
@@ -7060,15 +7060,15 @@ export const duma_2003_uik_428_region_21_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксаков Анатолий Геннадьевич": 199,
-      "Драндров Сергей Герольдович": 1,
-      "Жуков Валерий Валерианович": 3,
-      "Лин Евгений Людвигович": 1,
-      "Майоров Владимир Николаевич": 13,
-      "Моляков Игорь Юрьевич": 44,
-      "Рыжова Арина Николаевна": 6,
-      "Федоров Виктор Васильевич": 4,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000131382": 199,
+      "gas:candidate-vibid:321300266818": 1,
+      "gas:candidate-vibid:1001000190299": 3,
+      "gas:candidate-vibid:1001000112184": 1,
+      "gas:candidate-vibid:321300266833": 13,
+      "gas:candidate-vibid:1001000121807": 44,
+      "gas:candidate-vibid:1001000339425": 6,
+      "gas:candidate-vibid:321300266821": 4,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300267224&region=0&sub_region=0&type=429",
@@ -7118,15 +7118,15 @@ export const duma_2003_uik_428_region_21_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксаков Анатолий Геннадьевич": 93,
-      "Драндров Сергей Герольдович": 0,
-      "Жуков Валерий Валерианович": 2,
-      "Лин Евгений Людвигович": 3,
-      "Майоров Владимир Николаевич": 1,
-      "Моляков Игорь Юрьевич": 16,
-      "Рыжова Арина Николаевна": 0,
-      "Федоров Виктор Васильевич": 2,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000131382": 93,
+      "gas:candidate-vibid:321300266818": 0,
+      "gas:candidate-vibid:1001000190299": 2,
+      "gas:candidate-vibid:1001000112184": 3,
+      "gas:candidate-vibid:321300266833": 1,
+      "gas:candidate-vibid:1001000121807": 16,
+      "gas:candidate-vibid:1001000339425": 0,
+      "gas:candidate-vibid:321300266821": 2,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300267224&region=0&sub_region=0&type=429",
@@ -7176,15 +7176,15 @@ export const duma_2003_uik_428_region_21_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксаков Анатолий Геннадьевич": 81,
-      "Драндров Сергей Герольдович": 1,
-      "Жуков Валерий Валерианович": 0,
-      "Лин Евгений Людвигович": 0,
-      "Майоров Владимир Николаевич": 2,
-      "Моляков Игорь Юрьевич": 37,
-      "Рыжова Арина Николаевна": 1,
-      "Федоров Виктор Васильевич": 1,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000131382": 81,
+      "gas:candidate-vibid:321300266818": 1,
+      "gas:candidate-vibid:1001000190299": 0,
+      "gas:candidate-vibid:1001000112184": 0,
+      "gas:candidate-vibid:321300266833": 2,
+      "gas:candidate-vibid:1001000121807": 37,
+      "gas:candidate-vibid:1001000339425": 1,
+      "gas:candidate-vibid:321300266821": 1,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300267224&region=0&sub_region=0&type=429",
@@ -7234,15 +7234,15 @@ export const duma_2003_uik_428_region_21_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксаков Анатолий Геннадьевич": 73,
-      "Драндров Сергей Герольдович": 1,
-      "Жуков Валерий Валерианович": 3,
-      "Лин Евгений Людвигович": 1,
-      "Майоров Владимир Николаевич": 6,
-      "Моляков Игорь Юрьевич": 41,
-      "Рыжова Арина Николаевна": 0,
-      "Федоров Виктор Васильевич": 3,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000131382": 73,
+      "gas:candidate-vibid:321300266818": 1,
+      "gas:candidate-vibid:1001000190299": 3,
+      "gas:candidate-vibid:1001000112184": 1,
+      "gas:candidate-vibid:321300266833": 6,
+      "gas:candidate-vibid:1001000121807": 41,
+      "gas:candidate-vibid:1001000339425": 0,
+      "gas:candidate-vibid:321300266821": 3,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300267224&region=0&sub_region=0&type=429",
@@ -7292,15 +7292,15 @@ export const duma_2003_uik_428_region_21_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксаков Анатолий Геннадьевич": 333,
-      "Драндров Сергей Герольдович": 2,
-      "Жуков Валерий Валерианович": 5,
-      "Лин Евгений Людвигович": 6,
-      "Майоров Владимир Николаевич": 18,
-      "Моляков Игорь Юрьевич": 73,
-      "Рыжова Арина Николаевна": 7,
-      "Федоров Виктор Васильевич": 10,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000131382": 333,
+      "gas:candidate-vibid:321300266818": 2,
+      "gas:candidate-vibid:1001000190299": 5,
+      "gas:candidate-vibid:1001000112184": 6,
+      "gas:candidate-vibid:321300266833": 18,
+      "gas:candidate-vibid:1001000121807": 73,
+      "gas:candidate-vibid:1001000339425": 7,
+      "gas:candidate-vibid:321300266821": 10,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300267224&region=0&sub_region=0&type=429",
@@ -7350,15 +7350,15 @@ export const duma_2003_uik_428_region_21_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксаков Анатолий Геннадьевич": 102,
-      "Драндров Сергей Герольдович": 1,
-      "Жуков Валерий Валерианович": 5,
-      "Лин Евгений Людвигович": 1,
-      "Майоров Владимир Николаевич": 8,
-      "Моляков Игорь Юрьевич": 38,
-      "Рыжова Арина Николаевна": 2,
-      "Федоров Виктор Васильевич": 6,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000131382": 102,
+      "gas:candidate-vibid:321300266818": 1,
+      "gas:candidate-vibid:1001000190299": 5,
+      "gas:candidate-vibid:1001000112184": 1,
+      "gas:candidate-vibid:321300266833": 8,
+      "gas:candidate-vibid:1001000121807": 38,
+      "gas:candidate-vibid:1001000339425": 2,
+      "gas:candidate-vibid:321300266821": 6,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300267224&region=0&sub_region=0&type=429",
@@ -7408,15 +7408,15 @@ export const duma_2003_uik_428_region_21_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксаков Анатолий Геннадьевич": 145,
-      "Драндров Сергей Герольдович": 0,
-      "Жуков Валерий Валерианович": 3,
-      "Лин Евгений Людвигович": 2,
-      "Майоров Владимир Николаевич": 6,
-      "Моляков Игорь Юрьевич": 110,
-      "Рыжова Арина Николаевна": 6,
-      "Федоров Виктор Васильевич": 3,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000131382": 145,
+      "gas:candidate-vibid:321300266818": 0,
+      "gas:candidate-vibid:1001000190299": 3,
+      "gas:candidate-vibid:1001000112184": 2,
+      "gas:candidate-vibid:321300266833": 6,
+      "gas:candidate-vibid:1001000121807": 110,
+      "gas:candidate-vibid:1001000339425": 6,
+      "gas:candidate-vibid:321300266821": 3,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300267224&region=0&sub_region=0&type=429",
@@ -7466,15 +7466,15 @@ export const duma_2003_uik_428_region_21_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксаков Анатолий Геннадьевич": 92,
-      "Драндров Сергей Герольдович": 2,
-      "Жуков Валерий Валерианович": 4,
-      "Лин Евгений Людвигович": 0,
-      "Майоров Владимир Николаевич": 1,
-      "Моляков Игорь Юрьевич": 29,
-      "Рыжова Арина Николаевна": 2,
-      "Федоров Виктор Васильевич": 4,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000131382": 92,
+      "gas:candidate-vibid:321300266818": 2,
+      "gas:candidate-vibid:1001000190299": 4,
+      "gas:candidate-vibid:1001000112184": 0,
+      "gas:candidate-vibid:321300266833": 1,
+      "gas:candidate-vibid:1001000121807": 29,
+      "gas:candidate-vibid:1001000339425": 2,
+      "gas:candidate-vibid:321300266821": 4,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300267224&region=0&sub_region=0&type=429",
@@ -7524,15 +7524,15 @@ export const duma_2003_uik_428_region_21_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксаков Анатолий Геннадьевич": 88,
-      "Драндров Сергей Герольдович": 3,
-      "Жуков Валерий Валерианович": 0,
-      "Лин Евгений Людвигович": 2,
-      "Майоров Владимир Николаевич": 8,
-      "Моляков Игорь Юрьевич": 28,
-      "Рыжова Арина Николаевна": 3,
-      "Федоров Виктор Васильевич": 3,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000131382": 88,
+      "gas:candidate-vibid:321300266818": 3,
+      "gas:candidate-vibid:1001000190299": 0,
+      "gas:candidate-vibid:1001000112184": 2,
+      "gas:candidate-vibid:321300266833": 8,
+      "gas:candidate-vibid:1001000121807": 28,
+      "gas:candidate-vibid:1001000339425": 3,
+      "gas:candidate-vibid:321300266821": 3,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300267224&region=0&sub_region=0&type=429",
@@ -7582,15 +7582,15 @@ export const duma_2003_uik_428_region_21_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксаков Анатолий Геннадьевич": 245,
-      "Драндров Сергей Герольдович": 3,
-      "Жуков Валерий Валерианович": 7,
-      "Лин Евгений Людвигович": 3,
-      "Майоров Владимир Николаевич": 22,
-      "Моляков Игорь Юрьевич": 80,
-      "Рыжова Арина Николаевна": 6,
-      "Федоров Виктор Васильевич": 10,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000131382": 245,
+      "gas:candidate-vibid:321300266818": 3,
+      "gas:candidate-vibid:1001000190299": 7,
+      "gas:candidate-vibid:1001000112184": 3,
+      "gas:candidate-vibid:321300266833": 22,
+      "gas:candidate-vibid:1001000121807": 80,
+      "gas:candidate-vibid:1001000339425": 6,
+      "gas:candidate-vibid:321300266821": 10,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300267224&region=0&sub_region=0&type=429",
@@ -7640,15 +7640,15 @@ export const duma_2003_uik_428_region_21_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксаков Анатолий Геннадьевич": 158,
-      "Драндров Сергей Герольдович": 5,
-      "Жуков Валерий Валерианович": 8,
-      "Лин Евгений Людвигович": 4,
-      "Майоров Владимир Николаевич": 9,
-      "Моляков Игорь Юрьевич": 71,
-      "Рыжова Арина Николаевна": 5,
-      "Федоров Виктор Васильевич": 6,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000131382": 158,
+      "gas:candidate-vibid:321300266818": 5,
+      "gas:candidate-vibid:1001000190299": 8,
+      "gas:candidate-vibid:1001000112184": 4,
+      "gas:candidate-vibid:321300266833": 9,
+      "gas:candidate-vibid:1001000121807": 71,
+      "gas:candidate-vibid:1001000339425": 5,
+      "gas:candidate-vibid:321300266821": 6,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300267224&region=0&sub_region=0&type=429",
@@ -7698,15 +7698,15 @@ export const duma_2003_uik_428_region_21_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксаков Анатолий Геннадьевич": 250,
-      "Драндров Сергей Герольдович": 1,
-      "Жуков Валерий Валерианович": 1,
-      "Лин Евгений Людвигович": 3,
-      "Майоров Владимир Николаевич": 9,
-      "Моляков Игорь Юрьевич": 51,
-      "Рыжова Арина Николаевна": 5,
-      "Федоров Виктор Васильевич": 4,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000131382": 250,
+      "gas:candidate-vibid:321300266818": 1,
+      "gas:candidate-vibid:1001000190299": 1,
+      "gas:candidate-vibid:1001000112184": 3,
+      "gas:candidate-vibid:321300266833": 9,
+      "gas:candidate-vibid:1001000121807": 51,
+      "gas:candidate-vibid:1001000339425": 5,
+      "gas:candidate-vibid:321300266821": 4,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300267224&region=0&sub_region=0&type=429",
@@ -7756,15 +7756,15 @@ export const duma_2003_uik_428_region_21_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксаков Анатолий Геннадьевич": 177,
-      "Драндров Сергей Герольдович": 2,
-      "Жуков Валерий Валерианович": 4,
-      "Лин Евгений Людвигович": 2,
-      "Майоров Владимир Николаевич": 9,
-      "Моляков Игорь Юрьевич": 51,
-      "Рыжова Арина Николаевна": 3,
-      "Федоров Виктор Васильевич": 2,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000131382": 177,
+      "gas:candidate-vibid:321300266818": 2,
+      "gas:candidate-vibid:1001000190299": 4,
+      "gas:candidate-vibid:1001000112184": 2,
+      "gas:candidate-vibid:321300266833": 9,
+      "gas:candidate-vibid:1001000121807": 51,
+      "gas:candidate-vibid:1001000339425": 3,
+      "gas:candidate-vibid:321300266821": 2,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300267224&region=0&sub_region=0&type=429",
@@ -7814,15 +7814,15 @@ export const duma_2003_uik_428_region_21_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксаков Анатолий Геннадьевич": 105,
-      "Драндров Сергей Герольдович": 3,
-      "Жуков Валерий Валерианович": 2,
-      "Лин Евгений Людвигович": 0,
-      "Майоров Владимир Николаевич": 1,
-      "Моляков Игорь Юрьевич": 20,
-      "Рыжова Арина Николаевна": 2,
-      "Федоров Виктор Васильевич": 4,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000131382": 105,
+      "gas:candidate-vibid:321300266818": 3,
+      "gas:candidate-vibid:1001000190299": 2,
+      "gas:candidate-vibid:1001000112184": 0,
+      "gas:candidate-vibid:321300266833": 1,
+      "gas:candidate-vibid:1001000121807": 20,
+      "gas:candidate-vibid:1001000339425": 2,
+      "gas:candidate-vibid:321300266821": 4,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300267224&region=0&sub_region=0&type=429",
@@ -7872,15 +7872,15 @@ export const duma_2003_uik_428_region_21_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксаков Анатолий Геннадьевич": 59,
-      "Драндров Сергей Герольдович": 3,
-      "Жуков Валерий Валерианович": 1,
-      "Лин Евгений Людвигович": 2,
-      "Майоров Владимир Николаевич": 7,
-      "Моляков Игорь Юрьевич": 20,
-      "Рыжова Арина Николаевна": 0,
-      "Федоров Виктор Васильевич": 6,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000131382": 59,
+      "gas:candidate-vibid:321300266818": 3,
+      "gas:candidate-vibid:1001000190299": 1,
+      "gas:candidate-vibid:1001000112184": 2,
+      "gas:candidate-vibid:321300266833": 7,
+      "gas:candidate-vibid:1001000121807": 20,
+      "gas:candidate-vibid:1001000339425": 0,
+      "gas:candidate-vibid:321300266821": 6,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300267224&region=0&sub_region=0&type=429",
@@ -7930,15 +7930,15 @@ export const duma_2003_uik_428_region_21_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксаков Анатолий Геннадьевич": 216,
-      "Драндров Сергей Герольдович": 0,
-      "Жуков Валерий Валерианович": 1,
-      "Лин Евгений Людвигович": 3,
-      "Майоров Владимир Николаевич": 11,
-      "Моляков Игорь Юрьевич": 89,
-      "Рыжова Арина Николаевна": 1,
-      "Федоров Виктор Васильевич": 2,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000131382": 216,
+      "gas:candidate-vibid:321300266818": 0,
+      "gas:candidate-vibid:1001000190299": 1,
+      "gas:candidate-vibid:1001000112184": 3,
+      "gas:candidate-vibid:321300266833": 11,
+      "gas:candidate-vibid:1001000121807": 89,
+      "gas:candidate-vibid:1001000339425": 1,
+      "gas:candidate-vibid:321300266821": 2,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300267224&region=0&sub_region=0&type=429",
@@ -7988,15 +7988,15 @@ export const duma_2003_uik_428_region_21_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксаков Анатолий Геннадьевич": 133,
-      "Драндров Сергей Герольдович": 3,
-      "Жуков Валерий Валерианович": 3,
-      "Лин Евгений Людвигович": 3,
-      "Майоров Владимир Николаевич": 2,
-      "Моляков Игорь Юрьевич": 69,
-      "Рыжова Арина Николаевна": 1,
-      "Федоров Виктор Васильевич": 2,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000131382": 133,
+      "gas:candidate-vibid:321300266818": 3,
+      "gas:candidate-vibid:1001000190299": 3,
+      "gas:candidate-vibid:1001000112184": 3,
+      "gas:candidate-vibid:321300266833": 2,
+      "gas:candidate-vibid:1001000121807": 69,
+      "gas:candidate-vibid:1001000339425": 1,
+      "gas:candidate-vibid:321300266821": 2,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300267224&region=0&sub_region=0&type=429",
@@ -8046,15 +8046,15 @@ export const duma_2003_uik_428_region_21_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксаков Анатолий Геннадьевич": 50,
-      "Драндров Сергей Герольдович": 0,
-      "Жуков Валерий Валерианович": 1,
-      "Лин Евгений Людвигович": 1,
-      "Майоров Владимир Николаевич": 2,
-      "Моляков Игорь Юрьевич": 46,
-      "Рыжова Арина Николаевна": 0,
-      "Федоров Виктор Васильевич": 2,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000131382": 50,
+      "gas:candidate-vibid:321300266818": 0,
+      "gas:candidate-vibid:1001000190299": 1,
+      "gas:candidate-vibid:1001000112184": 1,
+      "gas:candidate-vibid:321300266833": 2,
+      "gas:candidate-vibid:1001000121807": 46,
+      "gas:candidate-vibid:1001000339425": 0,
+      "gas:candidate-vibid:321300266821": 2,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300267224&region=0&sub_region=0&type=429",
@@ -8104,15 +8104,15 @@ export const duma_2003_uik_428_region_21_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксаков Анатолий Геннадьевич": 342,
-      "Драндров Сергей Герольдович": 2,
-      "Жуков Валерий Валерианович": 10,
-      "Лин Евгений Людвигович": 1,
-      "Майоров Владимир Николаевич": 23,
-      "Моляков Игорь Юрьевич": 47,
-      "Рыжова Арина Николаевна": 11,
-      "Федоров Виктор Васильевич": 8,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000131382": 342,
+      "gas:candidate-vibid:321300266818": 2,
+      "gas:candidate-vibid:1001000190299": 10,
+      "gas:candidate-vibid:1001000112184": 1,
+      "gas:candidate-vibid:321300266833": 23,
+      "gas:candidate-vibid:1001000121807": 47,
+      "gas:candidate-vibid:1001000339425": 11,
+      "gas:candidate-vibid:321300266821": 8,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300267224&region=0&sub_region=0&type=429",
@@ -8162,15 +8162,15 @@ export const duma_2003_uik_428_region_21_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксаков Анатолий Геннадьевич": 247,
-      "Драндров Сергей Герольдович": 2,
-      "Жуков Валерий Валерианович": 7,
-      "Лин Евгений Людвигович": 4,
-      "Майоров Владимир Николаевич": 7,
-      "Моляков Игорь Юрьевич": 36,
-      "Рыжова Арина Николаевна": 4,
-      "Федоров Виктор Васильевич": 10,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000131382": 247,
+      "gas:candidate-vibid:321300266818": 2,
+      "gas:candidate-vibid:1001000190299": 7,
+      "gas:candidate-vibid:1001000112184": 4,
+      "gas:candidate-vibid:321300266833": 7,
+      "gas:candidate-vibid:1001000121807": 36,
+      "gas:candidate-vibid:1001000339425": 4,
+      "gas:candidate-vibid:321300266821": 10,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300267224&region=0&sub_region=0&type=429",
@@ -8220,15 +8220,15 @@ export const duma_2003_uik_428_region_21_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксаков Анатолий Геннадьевич": 81,
-      "Драндров Сергей Герольдович": 3,
-      "Жуков Валерий Валерианович": 4,
-      "Лин Евгений Людвигович": 1,
-      "Майоров Владимир Николаевич": 7,
-      "Моляков Игорь Юрьевич": 37,
-      "Рыжова Арина Николаевна": 2,
-      "Федоров Виктор Васильевич": 8,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000131382": 81,
+      "gas:candidate-vibid:321300266818": 3,
+      "gas:candidate-vibid:1001000190299": 4,
+      "gas:candidate-vibid:1001000112184": 1,
+      "gas:candidate-vibid:321300266833": 7,
+      "gas:candidate-vibid:1001000121807": 37,
+      "gas:candidate-vibid:1001000339425": 2,
+      "gas:candidate-vibid:321300266821": 8,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300267224&region=0&sub_region=0&type=429",
@@ -8278,15 +8278,15 @@ export const duma_2003_uik_428_region_21_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксаков Анатолий Геннадьевич": 124,
-      "Драндров Сергей Герольдович": 1,
-      "Жуков Валерий Валерианович": 1,
-      "Лин Евгений Людвигович": 1,
-      "Майоров Владимир Николаевич": 3,
-      "Моляков Игорь Юрьевич": 19,
-      "Рыжова Арина Николаевна": 0,
-      "Федоров Виктор Васильевич": 2,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000131382": 124,
+      "gas:candidate-vibid:321300266818": 1,
+      "gas:candidate-vibid:1001000190299": 1,
+      "gas:candidate-vibid:1001000112184": 1,
+      "gas:candidate-vibid:321300266833": 3,
+      "gas:candidate-vibid:1001000121807": 19,
+      "gas:candidate-vibid:1001000339425": 0,
+      "gas:candidate-vibid:321300266821": 2,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300267224&region=0&sub_region=0&type=429",
@@ -8336,15 +8336,15 @@ export const duma_2003_uik_428_region_21_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксаков Анатолий Геннадьевич": 228,
-      "Драндров Сергей Герольдович": 2,
-      "Жуков Валерий Валерианович": 1,
-      "Лин Евгений Людвигович": 3,
-      "Майоров Владимир Николаевич": 5,
-      "Моляков Игорь Юрьевич": 20,
-      "Рыжова Арина Николаевна": 5,
-      "Федоров Виктор Васильевич": 3,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000131382": 228,
+      "gas:candidate-vibid:321300266818": 2,
+      "gas:candidate-vibid:1001000190299": 1,
+      "gas:candidate-vibid:1001000112184": 3,
+      "gas:candidate-vibid:321300266833": 5,
+      "gas:candidate-vibid:1001000121807": 20,
+      "gas:candidate-vibid:1001000339425": 5,
+      "gas:candidate-vibid:321300266821": 3,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300267224&region=0&sub_region=0&type=429",
@@ -8394,15 +8394,15 @@ export const duma_2003_uik_428_region_21_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксаков Анатолий Геннадьевич": 84,
-      "Драндров Сергей Герольдович": 4,
-      "Жуков Валерий Валерианович": 1,
-      "Лин Евгений Людвигович": 0,
-      "Майоров Владимир Николаевич": 1,
-      "Моляков Игорь Юрьевич": 13,
-      "Рыжова Арина Николаевна": 3,
-      "Федоров Виктор Васильевич": 5,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000131382": 84,
+      "gas:candidate-vibid:321300266818": 4,
+      "gas:candidate-vibid:1001000190299": 1,
+      "gas:candidate-vibid:1001000112184": 0,
+      "gas:candidate-vibid:321300266833": 1,
+      "gas:candidate-vibid:1001000121807": 13,
+      "gas:candidate-vibid:1001000339425": 3,
+      "gas:candidate-vibid:321300266821": 5,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300267224&region=0&sub_region=0&type=429",
@@ -8452,15 +8452,15 @@ export const duma_2003_uik_428_region_21_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксаков Анатолий Геннадьевич": 68,
-      "Драндров Сергей Герольдович": 0,
-      "Жуков Валерий Валерианович": 0,
-      "Лин Евгений Людвигович": 1,
-      "Майоров Владимир Николаевич": 5,
-      "Моляков Игорь Юрьевич": 35,
-      "Рыжова Арина Николаевна": 0,
-      "Федоров Виктор Васильевич": 2,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000131382": 68,
+      "gas:candidate-vibid:321300266818": 0,
+      "gas:candidate-vibid:1001000190299": 0,
+      "gas:candidate-vibid:1001000112184": 1,
+      "gas:candidate-vibid:321300266833": 5,
+      "gas:candidate-vibid:1001000121807": 35,
+      "gas:candidate-vibid:1001000339425": 0,
+      "gas:candidate-vibid:321300266821": 2,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=213002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=321300267224&region=0&sub_region=0&type=429",

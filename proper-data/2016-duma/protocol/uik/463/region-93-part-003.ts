@@ -43,15 +43,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 36,
-      "Бахарев Константин Михайлович": 222,
-      "Воропай Михаил Викторович": 15,
-      "Кийко Игорь Александрович": 45,
-      "Кискин Степан Степанович": 21,
-      "Паша Андрей Викторович": 5,
-      "Першиков Юрий Александрович": 1,
-      "Свистунов Александр Григорьевич": 2,
-      "Эмиров Рустем": 7
+      "gas:candidate-vibid:4934014106983": 36,
+      "gas:candidate-vibid:4934014106995": 222,
+      "gas:candidate-vibid:4934014107127": 15,
+      "gas:candidate-vibid:4934014106464": 45,
+      "gas:candidate-vibid:4934014106702": 21,
+      "gas:candidate-vibid:4934014106827": 5,
+      "gas:candidate-vibid:4934014107022": 1,
+      "gas:candidate-vibid:4934014106933": 2,
+      "gas:candidate-vibid:4934014106911": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105955&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105955&type=464",
@@ -102,15 +102,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 50,
-      "Бахарев Константин Михайлович": 575,
-      "Воропай Михаил Викторович": 37,
-      "Кийко Игорь Александрович": 71,
-      "Кискин Степан Степанович": 46,
-      "Паша Андрей Викторович": 22,
-      "Першиков Юрий Александрович": 4,
-      "Свистунов Александр Григорьевич": 7,
-      "Эмиров Рустем": 19
+      "gas:candidate-vibid:4934014106983": 50,
+      "gas:candidate-vibid:4934014106995": 575,
+      "gas:candidate-vibid:4934014107127": 37,
+      "gas:candidate-vibid:4934014106464": 71,
+      "gas:candidate-vibid:4934014106702": 46,
+      "gas:candidate-vibid:4934014106827": 22,
+      "gas:candidate-vibid:4934014107022": 4,
+      "gas:candidate-vibid:4934014106933": 7,
+      "gas:candidate-vibid:4934014106911": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105955&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105955&type=464",
@@ -161,15 +161,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 88,
-      "Бахарев Константин Михайлович": 533,
-      "Воропай Михаил Викторович": 29,
-      "Кийко Игорь Александрович": 53,
-      "Кискин Степан Степанович": 50,
-      "Паша Андрей Викторович": 13,
-      "Першиков Юрий Александрович": 9,
-      "Свистунов Александр Григорьевич": 3,
-      "Эмиров Рустем": 12
+      "gas:candidate-vibid:4934014106983": 88,
+      "gas:candidate-vibid:4934014106995": 533,
+      "gas:candidate-vibid:4934014107127": 29,
+      "gas:candidate-vibid:4934014106464": 53,
+      "gas:candidate-vibid:4934014106702": 50,
+      "gas:candidate-vibid:4934014106827": 13,
+      "gas:candidate-vibid:4934014107022": 9,
+      "gas:candidate-vibid:4934014106933": 3,
+      "gas:candidate-vibid:4934014106911": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105955&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105955&type=464",
@@ -220,15 +220,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 40,
-      "Бахарев Константин Михайлович": 295,
-      "Воропай Михаил Викторович": 28,
-      "Кийко Игорь Александрович": 44,
-      "Кискин Степан Степанович": 27,
-      "Паша Андрей Викторович": 10,
-      "Першиков Юрий Александрович": 1,
-      "Свистунов Александр Григорьевич": 1,
-      "Эмиров Рустем": 9
+      "gas:candidate-vibid:4934014106983": 40,
+      "gas:candidate-vibid:4934014106995": 295,
+      "gas:candidate-vibid:4934014107127": 28,
+      "gas:candidate-vibid:4934014106464": 44,
+      "gas:candidate-vibid:4934014106702": 27,
+      "gas:candidate-vibid:4934014106827": 10,
+      "gas:candidate-vibid:4934014107022": 1,
+      "gas:candidate-vibid:4934014106933": 1,
+      "gas:candidate-vibid:4934014106911": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105955&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105955&type=464",
@@ -279,15 +279,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 40,
-      "Бахарев Константин Михайлович": 379,
-      "Воропай Михаил Викторович": 22,
-      "Кийко Игорь Александрович": 79,
-      "Кискин Степан Степанович": 37,
-      "Паша Андрей Викторович": 25,
-      "Першиков Юрий Александрович": 3,
-      "Свистунов Александр Григорьевич": 2,
-      "Эмиров Рустем": 9
+      "gas:candidate-vibid:4934014106983": 40,
+      "gas:candidate-vibid:4934014106995": 379,
+      "gas:candidate-vibid:4934014107127": 22,
+      "gas:candidate-vibid:4934014106464": 79,
+      "gas:candidate-vibid:4934014106702": 37,
+      "gas:candidate-vibid:4934014106827": 25,
+      "gas:candidate-vibid:4934014107022": 3,
+      "gas:candidate-vibid:4934014106933": 2,
+      "gas:candidate-vibid:4934014106911": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105955&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105955&type=464",
@@ -338,15 +338,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 37,
-      "Бахарев Константин Михайлович": 357,
-      "Воропай Михаил Викторович": 20,
-      "Кийко Игорь Александрович": 40,
-      "Кискин Степан Степанович": 23,
-      "Паша Андрей Викторович": 16,
-      "Першиков Юрий Александрович": 1,
-      "Свистунов Александр Григорьевич": 4,
-      "Эмиров Рустем": 6
+      "gas:candidate-vibid:4934014106983": 37,
+      "gas:candidate-vibid:4934014106995": 357,
+      "gas:candidate-vibid:4934014107127": 20,
+      "gas:candidate-vibid:4934014106464": 40,
+      "gas:candidate-vibid:4934014106702": 23,
+      "gas:candidate-vibid:4934014106827": 16,
+      "gas:candidate-vibid:4934014107022": 1,
+      "gas:candidate-vibid:4934014106933": 4,
+      "gas:candidate-vibid:4934014106911": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105955&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105955&type=464",
@@ -397,15 +397,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 64,
-      "Бахарев Константин Михайлович": 444,
-      "Воропай Михаил Викторович": 21,
-      "Кийко Игорь Александрович": 53,
-      "Кискин Степан Степанович": 41,
-      "Паша Андрей Викторович": 26,
-      "Першиков Юрий Александрович": 4,
-      "Свистунов Александр Григорьевич": 5,
-      "Эмиров Рустем": 5
+      "gas:candidate-vibid:4934014106983": 64,
+      "gas:candidate-vibid:4934014106995": 444,
+      "gas:candidate-vibid:4934014107127": 21,
+      "gas:candidate-vibid:4934014106464": 53,
+      "gas:candidate-vibid:4934014106702": 41,
+      "gas:candidate-vibid:4934014106827": 26,
+      "gas:candidate-vibid:4934014107022": 4,
+      "gas:candidate-vibid:4934014106933": 5,
+      "gas:candidate-vibid:4934014106911": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105955&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105955&type=464",
@@ -456,15 +456,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 48,
-      "Бахарев Константин Михайлович": 419,
-      "Воропай Михаил Викторович": 17,
-      "Кийко Игорь Александрович": 62,
-      "Кискин Степан Степанович": 32,
-      "Паша Андрей Викторович": 19,
-      "Першиков Юрий Александрович": 1,
-      "Свистунов Александр Григорьевич": 8,
-      "Эмиров Рустем": 8
+      "gas:candidate-vibid:4934014106983": 48,
+      "gas:candidate-vibid:4934014106995": 419,
+      "gas:candidate-vibid:4934014107127": 17,
+      "gas:candidate-vibid:4934014106464": 62,
+      "gas:candidate-vibid:4934014106702": 32,
+      "gas:candidate-vibid:4934014106827": 19,
+      "gas:candidate-vibid:4934014107022": 1,
+      "gas:candidate-vibid:4934014106933": 8,
+      "gas:candidate-vibid:4934014106911": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105955&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105955&type=464",
@@ -515,15 +515,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 96,
-      "Бахарев Константин Михайлович": 592,
-      "Воропай Михаил Викторович": 21,
-      "Кийко Игорь Александрович": 85,
-      "Кискин Степан Степанович": 37,
-      "Паша Андрей Викторович": 36,
-      "Першиков Юрий Александрович": 2,
-      "Свистунов Александр Григорьевич": 9,
-      "Эмиров Рустем": 14
+      "gas:candidate-vibid:4934014106983": 96,
+      "gas:candidate-vibid:4934014106995": 592,
+      "gas:candidate-vibid:4934014107127": 21,
+      "gas:candidate-vibid:4934014106464": 85,
+      "gas:candidate-vibid:4934014106702": 37,
+      "gas:candidate-vibid:4934014106827": 36,
+      "gas:candidate-vibid:4934014107022": 2,
+      "gas:candidate-vibid:4934014106933": 9,
+      "gas:candidate-vibid:4934014106911": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105955&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105955&type=464",
@@ -574,15 +574,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 35,
-      "Бахарев Константин Михайлович": 257,
-      "Воропай Михаил Викторович": 14,
-      "Кийко Игорь Александрович": 35,
-      "Кискин Степан Степанович": 22,
-      "Паша Андрей Викторович": 9,
-      "Першиков Юрий Александрович": 2,
-      "Свистунов Александр Григорьевич": 1,
-      "Эмиров Рустем": 3
+      "gas:candidate-vibid:4934014106983": 35,
+      "gas:candidate-vibid:4934014106995": 257,
+      "gas:candidate-vibid:4934014107127": 14,
+      "gas:candidate-vibid:4934014106464": 35,
+      "gas:candidate-vibid:4934014106702": 22,
+      "gas:candidate-vibid:4934014106827": 9,
+      "gas:candidate-vibid:4934014107022": 2,
+      "gas:candidate-vibid:4934014106933": 1,
+      "gas:candidate-vibid:4934014106911": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105955&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105955&type=464",
@@ -633,15 +633,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 68,
-      "Бахарев Константин Михайлович": 516,
-      "Воропай Михаил Викторович": 25,
-      "Кийко Игорь Александрович": 53,
-      "Кискин Степан Степанович": 51,
-      "Паша Андрей Викторович": 12,
-      "Першиков Юрий Александрович": 4,
-      "Свистунов Александр Григорьевич": 2,
-      "Эмиров Рустем": 8
+      "gas:candidate-vibid:4934014106983": 68,
+      "gas:candidate-vibid:4934014106995": 516,
+      "gas:candidate-vibid:4934014107127": 25,
+      "gas:candidate-vibid:4934014106464": 53,
+      "gas:candidate-vibid:4934014106702": 51,
+      "gas:candidate-vibid:4934014106827": 12,
+      "gas:candidate-vibid:4934014107022": 4,
+      "gas:candidate-vibid:4934014106933": 2,
+      "gas:candidate-vibid:4934014106911": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105955&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105955&type=464",
@@ -692,15 +692,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 68,
-      "Бахарев Константин Михайлович": 538,
-      "Воропай Михаил Викторович": 23,
-      "Кийко Игорь Александрович": 53,
-      "Кискин Степан Степанович": 38,
-      "Паша Андрей Викторович": 31,
-      "Першиков Юрий Александрович": 7,
-      "Свистунов Александр Григорьевич": 5,
-      "Эмиров Рустем": 6
+      "gas:candidate-vibid:4934014106983": 68,
+      "gas:candidate-vibid:4934014106995": 538,
+      "gas:candidate-vibid:4934014107127": 23,
+      "gas:candidate-vibid:4934014106464": 53,
+      "gas:candidate-vibid:4934014106702": 38,
+      "gas:candidate-vibid:4934014106827": 31,
+      "gas:candidate-vibid:4934014107022": 7,
+      "gas:candidate-vibid:4934014106933": 5,
+      "gas:candidate-vibid:4934014106911": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105955&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105955&type=464",
@@ -751,15 +751,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 48,
-      "Бахарев Константин Михайлович": 348,
-      "Воропай Михаил Викторович": 15,
-      "Кийко Игорь Александрович": 57,
-      "Кискин Степан Степанович": 20,
-      "Паша Андрей Викторович": 18,
-      "Першиков Юрий Александрович": 2,
-      "Свистунов Александр Григорьевич": 3,
-      "Эмиров Рустем": 7
+      "gas:candidate-vibid:4934014106983": 48,
+      "gas:candidate-vibid:4934014106995": 348,
+      "gas:candidate-vibid:4934014107127": 15,
+      "gas:candidate-vibid:4934014106464": 57,
+      "gas:candidate-vibid:4934014106702": 20,
+      "gas:candidate-vibid:4934014106827": 18,
+      "gas:candidate-vibid:4934014107022": 2,
+      "gas:candidate-vibid:4934014106933": 3,
+      "gas:candidate-vibid:4934014106911": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105955&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105955&type=464",
@@ -810,15 +810,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 20,
-      "Бахарев Константин Михайлович": 190,
-      "Воропай Михаил Викторович": 5,
-      "Кийко Игорь Александрович": 31,
-      "Кискин Степан Степанович": 7,
-      "Паша Андрей Викторович": 8,
-      "Першиков Юрий Александрович": 1,
-      "Свистунов Александр Григорьевич": 2,
-      "Эмиров Рустем": 4
+      "gas:candidate-vibid:4934014106983": 20,
+      "gas:candidate-vibid:4934014106995": 190,
+      "gas:candidate-vibid:4934014107127": 5,
+      "gas:candidate-vibid:4934014106464": 31,
+      "gas:candidate-vibid:4934014106702": 7,
+      "gas:candidate-vibid:4934014106827": 8,
+      "gas:candidate-vibid:4934014107022": 1,
+      "gas:candidate-vibid:4934014106933": 2,
+      "gas:candidate-vibid:4934014106911": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105955&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105955&type=464",
@@ -869,15 +869,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 57,
-      "Бахарев Константин Михайлович": 514,
-      "Воропай Михаил Викторович": 28,
-      "Кийко Игорь Александрович": 77,
-      "Кискин Степан Степанович": 38,
-      "Паша Андрей Викторович": 19,
-      "Першиков Юрий Александрович": 7,
-      "Свистунов Александр Григорьевич": 5,
-      "Эмиров Рустем": 12
+      "gas:candidate-vibid:4934014106983": 57,
+      "gas:candidate-vibid:4934014106995": 514,
+      "gas:candidate-vibid:4934014107127": 28,
+      "gas:candidate-vibid:4934014106464": 77,
+      "gas:candidate-vibid:4934014106702": 38,
+      "gas:candidate-vibid:4934014106827": 19,
+      "gas:candidate-vibid:4934014107022": 7,
+      "gas:candidate-vibid:4934014106933": 5,
+      "gas:candidate-vibid:4934014106911": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105955&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105955&type=464",
@@ -928,15 +928,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 59,
-      "Бахарев Константин Михайлович": 633,
-      "Воропай Михаил Викторович": 30,
-      "Кийко Игорь Александрович": 72,
-      "Кискин Степан Степанович": 42,
-      "Паша Андрей Викторович": 28,
-      "Першиков Юрий Александрович": 3,
-      "Свистунов Александр Григорьевич": 5,
-      "Эмиров Рустем": 5
+      "gas:candidate-vibid:4934014106983": 59,
+      "gas:candidate-vibid:4934014106995": 633,
+      "gas:candidate-vibid:4934014107127": 30,
+      "gas:candidate-vibid:4934014106464": 72,
+      "gas:candidate-vibid:4934014106702": 42,
+      "gas:candidate-vibid:4934014106827": 28,
+      "gas:candidate-vibid:4934014107022": 3,
+      "gas:candidate-vibid:4934014106933": 5,
+      "gas:candidate-vibid:4934014106911": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105955&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105955&type=464",
@@ -987,15 +987,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 53,
-      "Бахарев Константин Михайлович": 539,
-      "Воропай Михаил Викторович": 48,
-      "Кийко Игорь Александрович": 64,
-      "Кискин Степан Степанович": 67,
-      "Паша Андрей Викторович": 29,
-      "Першиков Юрий Александрович": 3,
-      "Свистунов Александр Григорьевич": 4,
-      "Эмиров Рустем": 9
+      "gas:candidate-vibid:4934014106983": 53,
+      "gas:candidate-vibid:4934014106995": 539,
+      "gas:candidate-vibid:4934014107127": 48,
+      "gas:candidate-vibid:4934014106464": 64,
+      "gas:candidate-vibid:4934014106702": 67,
+      "gas:candidate-vibid:4934014106827": 29,
+      "gas:candidate-vibid:4934014107022": 3,
+      "gas:candidate-vibid:4934014106933": 4,
+      "gas:candidate-vibid:4934014106911": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105955&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105955&type=464",
@@ -1046,15 +1046,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 66,
-      "Бахарев Константин Михайлович": 665,
-      "Воропай Михаил Викторович": 39,
-      "Кийко Игорь Александрович": 74,
-      "Кискин Степан Степанович": 64,
-      "Паша Андрей Викторович": 34,
-      "Першиков Юрий Александрович": 6,
-      "Свистунов Александр Григорьевич": 5,
-      "Эмиров Рустем": 7
+      "gas:candidate-vibid:4934014106983": 66,
+      "gas:candidate-vibid:4934014106995": 665,
+      "gas:candidate-vibid:4934014107127": 39,
+      "gas:candidate-vibid:4934014106464": 74,
+      "gas:candidate-vibid:4934014106702": 64,
+      "gas:candidate-vibid:4934014106827": 34,
+      "gas:candidate-vibid:4934014107022": 6,
+      "gas:candidate-vibid:4934014106933": 5,
+      "gas:candidate-vibid:4934014106911": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105955&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105955&type=464",
@@ -1105,15 +1105,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 79,
-      "Бахарев Константин Михайлович": 633,
-      "Воропай Михаил Викторович": 35,
-      "Кийко Игорь Александрович": 92,
-      "Кискин Степан Степанович": 55,
-      "Паша Андрей Викторович": 40,
-      "Першиков Юрий Александрович": 3,
-      "Свистунов Александр Григорьевич": 3,
-      "Эмиров Рустем": 4
+      "gas:candidate-vibid:4934014106983": 79,
+      "gas:candidate-vibid:4934014106995": 633,
+      "gas:candidate-vibid:4934014107127": 35,
+      "gas:candidate-vibid:4934014106464": 92,
+      "gas:candidate-vibid:4934014106702": 55,
+      "gas:candidate-vibid:4934014106827": 40,
+      "gas:candidate-vibid:4934014107022": 3,
+      "gas:candidate-vibid:4934014106933": 3,
+      "gas:candidate-vibid:4934014106911": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105955&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105955&type=464",
@@ -1164,15 +1164,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 95,
-      "Бахарев Константин Михайлович": 661,
-      "Воропай Михаил Викторович": 36,
-      "Кийко Игорь Александрович": 103,
-      "Кискин Степан Степанович": 51,
-      "Паша Андрей Викторович": 40,
-      "Першиков Юрий Александрович": 3,
-      "Свистунов Александр Григорьевич": 6,
-      "Эмиров Рустем": 17
+      "gas:candidate-vibid:4934014106983": 95,
+      "gas:candidate-vibid:4934014106995": 661,
+      "gas:candidate-vibid:4934014107127": 36,
+      "gas:candidate-vibid:4934014106464": 103,
+      "gas:candidate-vibid:4934014106702": 51,
+      "gas:candidate-vibid:4934014106827": 40,
+      "gas:candidate-vibid:4934014107022": 3,
+      "gas:candidate-vibid:4934014106933": 6,
+      "gas:candidate-vibid:4934014106911": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105955&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105955&type=464",
@@ -1223,15 +1223,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 67,
-      "Бахарев Константин Михайлович": 583,
-      "Воропай Михаил Викторович": 42,
-      "Кийко Игорь Александрович": 63,
-      "Кискин Степан Степанович": 53,
-      "Паша Андрей Викторович": 27,
-      "Першиков Юрий Александрович": 7,
-      "Свистунов Александр Григорьевич": 5,
-      "Эмиров Рустем": 5
+      "gas:candidate-vibid:4934014106983": 67,
+      "gas:candidate-vibid:4934014106995": 583,
+      "gas:candidate-vibid:4934014107127": 42,
+      "gas:candidate-vibid:4934014106464": 63,
+      "gas:candidate-vibid:4934014106702": 53,
+      "gas:candidate-vibid:4934014106827": 27,
+      "gas:candidate-vibid:4934014107022": 7,
+      "gas:candidate-vibid:4934014106933": 5,
+      "gas:candidate-vibid:4934014106911": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105955&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105955&type=464",
@@ -1282,15 +1282,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 53,
-      "Бахарев Константин Михайлович": 617,
-      "Воропай Михаил Викторович": 28,
-      "Кийко Игорь Александрович": 73,
-      "Кискин Степан Степанович": 60,
-      "Паша Андрей Викторович": 21,
-      "Першиков Юрий Александрович": 3,
-      "Свистунов Александр Григорьевич": 7,
-      "Эмиров Рустем": 8
+      "gas:candidate-vibid:4934014106983": 53,
+      "gas:candidate-vibid:4934014106995": 617,
+      "gas:candidate-vibid:4934014107127": 28,
+      "gas:candidate-vibid:4934014106464": 73,
+      "gas:candidate-vibid:4934014106702": 60,
+      "gas:candidate-vibid:4934014106827": 21,
+      "gas:candidate-vibid:4934014107022": 3,
+      "gas:candidate-vibid:4934014106933": 7,
+      "gas:candidate-vibid:4934014106911": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105955&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105955&type=464",
@@ -1341,15 +1341,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 32,
-      "Бахарев Константин Михайлович": 468,
-      "Воропай Михаил Викторович": 21,
-      "Кийко Игорь Александрович": 56,
-      "Кискин Степан Степанович": 43,
-      "Паша Андрей Викторович": 16,
-      "Першиков Юрий Александрович": 6,
-      "Свистунов Александр Григорьевич": 4,
-      "Эмиров Рустем": 8
+      "gas:candidate-vibid:4934014106983": 32,
+      "gas:candidate-vibid:4934014106995": 468,
+      "gas:candidate-vibid:4934014107127": 21,
+      "gas:candidate-vibid:4934014106464": 56,
+      "gas:candidate-vibid:4934014106702": 43,
+      "gas:candidate-vibid:4934014106827": 16,
+      "gas:candidate-vibid:4934014107022": 6,
+      "gas:candidate-vibid:4934014106933": 4,
+      "gas:candidate-vibid:4934014106911": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105955&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105955&type=464",
@@ -1400,15 +1400,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 13,
-      "Бахарев Константин Михайлович": 121,
-      "Воропай Михаил Викторович": 1,
-      "Кийко Игорь Александрович": 2,
-      "Кискин Степан Степанович": 1,
-      "Паша Андрей Викторович": 1,
-      "Першиков Юрий Александрович": 0,
-      "Свистунов Александр Григорьевич": 0,
-      "Эмиров Рустем": 0
+      "gas:candidate-vibid:4934014106983": 13,
+      "gas:candidate-vibid:4934014106995": 121,
+      "gas:candidate-vibid:4934014107127": 1,
+      "gas:candidate-vibid:4934014106464": 2,
+      "gas:candidate-vibid:4934014106702": 1,
+      "gas:candidate-vibid:4934014106827": 1,
+      "gas:candidate-vibid:4934014107022": 0,
+      "gas:candidate-vibid:4934014106933": 0,
+      "gas:candidate-vibid:4934014106911": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105955&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105955&type=464",
@@ -1459,15 +1459,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 83,
-      "Бахарев Константин Михайлович": 615,
-      "Воропай Михаил Викторович": 28,
-      "Кийко Игорь Александрович": 72,
-      "Кискин Степан Степанович": 32,
-      "Паша Андрей Викторович": 24,
-      "Першиков Юрий Александрович": 5,
-      "Свистунов Александр Григорьевич": 6,
-      "Эмиров Рустем": 8
+      "gas:candidate-vibid:4934014106983": 83,
+      "gas:candidate-vibid:4934014106995": 615,
+      "gas:candidate-vibid:4934014107127": 28,
+      "gas:candidate-vibid:4934014106464": 72,
+      "gas:candidate-vibid:4934014106702": 32,
+      "gas:candidate-vibid:4934014106827": 24,
+      "gas:candidate-vibid:4934014107022": 5,
+      "gas:candidate-vibid:4934014106933": 6,
+      "gas:candidate-vibid:4934014106911": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105955&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105955&type=464",
@@ -1518,15 +1518,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 69,
-      "Бахарев Константин Михайлович": 581,
-      "Воропай Михаил Викторович": 25,
-      "Кийко Игорь Александрович": 56,
-      "Кискин Степан Степанович": 37,
-      "Паша Андрей Викторович": 24,
-      "Першиков Юрий Александрович": 4,
-      "Свистунов Александр Григорьевич": 2,
-      "Эмиров Рустем": 7
+      "gas:candidate-vibid:4934014106983": 69,
+      "gas:candidate-vibid:4934014106995": 581,
+      "gas:candidate-vibid:4934014107127": 25,
+      "gas:candidate-vibid:4934014106464": 56,
+      "gas:candidate-vibid:4934014106702": 37,
+      "gas:candidate-vibid:4934014106827": 24,
+      "gas:candidate-vibid:4934014107022": 4,
+      "gas:candidate-vibid:4934014106933": 2,
+      "gas:candidate-vibid:4934014106911": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105955&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105955&type=464",
@@ -1577,15 +1577,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 43,
-      "Бахарев Константин Михайлович": 297,
-      "Воропай Михаил Викторович": 15,
-      "Кийко Игорь Александрович": 37,
-      "Кискин Степан Степанович": 42,
-      "Паша Андрей Викторович": 11,
-      "Першиков Юрий Александрович": 3,
-      "Свистунов Александр Григорьевич": 4,
-      "Эмиров Рустем": 2
+      "gas:candidate-vibid:4934014106983": 43,
+      "gas:candidate-vibid:4934014106995": 297,
+      "gas:candidate-vibid:4934014107127": 15,
+      "gas:candidate-vibid:4934014106464": 37,
+      "gas:candidate-vibid:4934014106702": 42,
+      "gas:candidate-vibid:4934014106827": 11,
+      "gas:candidate-vibid:4934014107022": 3,
+      "gas:candidate-vibid:4934014106933": 4,
+      "gas:candidate-vibid:4934014106911": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105955&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105955&type=464",
@@ -1636,15 +1636,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 90,
-      "Бахарев Константин Михайлович": 669,
-      "Воропай Михаил Викторович": 36,
-      "Кийко Игорь Александрович": 83,
-      "Кискин Степан Степанович": 47,
-      "Паша Андрей Викторович": 37,
-      "Першиков Юрий Александрович": 1,
-      "Свистунов Александр Григорьевич": 7,
-      "Эмиров Рустем": 5
+      "gas:candidate-vibid:4934014106983": 90,
+      "gas:candidate-vibid:4934014106995": 669,
+      "gas:candidate-vibid:4934014107127": 36,
+      "gas:candidate-vibid:4934014106464": 83,
+      "gas:candidate-vibid:4934014106702": 47,
+      "gas:candidate-vibid:4934014106827": 37,
+      "gas:candidate-vibid:4934014107022": 1,
+      "gas:candidate-vibid:4934014106933": 7,
+      "gas:candidate-vibid:4934014106911": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105955&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105955&type=464",
@@ -1695,15 +1695,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 37,
-      "Бахарев Константин Михайлович": 279,
-      "Воропай Михаил Викторович": 19,
-      "Кийко Игорь Александрович": 32,
-      "Кискин Степан Степанович": 18,
-      "Паша Андрей Викторович": 14,
-      "Першиков Юрий Александрович": 1,
-      "Свистунов Александр Григорьевич": 1,
-      "Эмиров Рустем": 3
+      "gas:candidate-vibid:4934014106983": 37,
+      "gas:candidate-vibid:4934014106995": 279,
+      "gas:candidate-vibid:4934014107127": 19,
+      "gas:candidate-vibid:4934014106464": 32,
+      "gas:candidate-vibid:4934014106702": 18,
+      "gas:candidate-vibid:4934014106827": 14,
+      "gas:candidate-vibid:4934014107022": 1,
+      "gas:candidate-vibid:4934014106933": 1,
+      "gas:candidate-vibid:4934014106911": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105955&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105955&type=464",
@@ -1754,15 +1754,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 78,
-      "Бахарев Константин Михайлович": 589,
-      "Воропай Михаил Викторович": 27,
-      "Кийко Игорь Александрович": 62,
-      "Кискин Степан Степанович": 55,
-      "Паша Андрей Викторович": 17,
-      "Першиков Юрий Александрович": 2,
-      "Свистунов Александр Григорьевич": 6,
-      "Эмиров Рустем": 6
+      "gas:candidate-vibid:4934014106983": 78,
+      "gas:candidate-vibid:4934014106995": 589,
+      "gas:candidate-vibid:4934014107127": 27,
+      "gas:candidate-vibid:4934014106464": 62,
+      "gas:candidate-vibid:4934014106702": 55,
+      "gas:candidate-vibid:4934014106827": 17,
+      "gas:candidate-vibid:4934014107022": 2,
+      "gas:candidate-vibid:4934014106933": 6,
+      "gas:candidate-vibid:4934014106911": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105955&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105955&type=464",
@@ -1813,15 +1813,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 59,
-      "Бахарев Константин Михайлович": 540,
-      "Воропай Михаил Викторович": 29,
-      "Кийко Игорь Александрович": 56,
-      "Кискин Степан Степанович": 36,
-      "Паша Андрей Викторович": 12,
-      "Першиков Юрий Александрович": 1,
-      "Свистунов Александр Григорьевич": 2,
-      "Эмиров Рустем": 4
+      "gas:candidate-vibid:4934014106983": 59,
+      "gas:candidate-vibid:4934014106995": 540,
+      "gas:candidate-vibid:4934014107127": 29,
+      "gas:candidate-vibid:4934014106464": 56,
+      "gas:candidate-vibid:4934014106702": 36,
+      "gas:candidate-vibid:4934014106827": 12,
+      "gas:candidate-vibid:4934014107022": 1,
+      "gas:candidate-vibid:4934014106933": 2,
+      "gas:candidate-vibid:4934014106911": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105955&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105955&type=464",
@@ -1872,15 +1872,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 51,
-      "Бахарев Константин Михайлович": 467,
-      "Воропай Михаил Викторович": 41,
-      "Кийко Игорь Александрович": 61,
-      "Кискин Степан Степанович": 55,
-      "Паша Андрей Викторович": 26,
-      "Першиков Юрий Александрович": 1,
-      "Свистунов Александр Григорьевич": 3,
-      "Эмиров Рустем": 10
+      "gas:candidate-vibid:4934014106983": 51,
+      "gas:candidate-vibid:4934014106995": 467,
+      "gas:candidate-vibid:4934014107127": 41,
+      "gas:candidate-vibid:4934014106464": 61,
+      "gas:candidate-vibid:4934014106702": 55,
+      "gas:candidate-vibid:4934014106827": 26,
+      "gas:candidate-vibid:4934014107022": 1,
+      "gas:candidate-vibid:4934014106933": 3,
+      "gas:candidate-vibid:4934014106911": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105955&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105955&type=464",
@@ -1931,15 +1931,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 50,
-      "Бахарев Константин Михайлович": 452,
-      "Воропай Михаил Викторович": 25,
-      "Кийко Игорь Александрович": 63,
-      "Кискин Степан Степанович": 35,
-      "Паша Андрей Викторович": 13,
-      "Першиков Юрий Александрович": 4,
-      "Свистунов Александр Григорьевич": 4,
-      "Эмиров Рустем": 8
+      "gas:candidate-vibid:4934014106983": 50,
+      "gas:candidate-vibid:4934014106995": 452,
+      "gas:candidate-vibid:4934014107127": 25,
+      "gas:candidate-vibid:4934014106464": 63,
+      "gas:candidate-vibid:4934014106702": 35,
+      "gas:candidate-vibid:4934014106827": 13,
+      "gas:candidate-vibid:4934014107022": 4,
+      "gas:candidate-vibid:4934014106933": 4,
+      "gas:candidate-vibid:4934014106911": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105955&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105955&type=464",
@@ -1990,15 +1990,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 45,
-      "Бахарев Константин Михайлович": 360,
-      "Воропай Михаил Викторович": 30,
-      "Кийко Игорь Александрович": 44,
-      "Кискин Степан Степанович": 43,
-      "Паша Андрей Викторович": 17,
-      "Першиков Юрий Александрович": 2,
-      "Свистунов Александр Григорьевич": 6,
-      "Эмиров Рустем": 9
+      "gas:candidate-vibid:4934014106983": 45,
+      "gas:candidate-vibid:4934014106995": 360,
+      "gas:candidate-vibid:4934014107127": 30,
+      "gas:candidate-vibid:4934014106464": 44,
+      "gas:candidate-vibid:4934014106702": 43,
+      "gas:candidate-vibid:4934014106827": 17,
+      "gas:candidate-vibid:4934014107022": 2,
+      "gas:candidate-vibid:4934014106933": 6,
+      "gas:candidate-vibid:4934014106911": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105955&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105955&type=464",
@@ -2049,15 +2049,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 60,
-      "Бахарев Константин Михайлович": 597,
-      "Воропай Михаил Викторович": 43,
-      "Кийко Игорь Александрович": 85,
-      "Кискин Степан Степанович": 47,
-      "Паша Андрей Викторович": 23,
-      "Першиков Юрий Александрович": 8,
-      "Свистунов Александр Григорьевич": 3,
-      "Эмиров Рустем": 7
+      "gas:candidate-vibid:4934014106983": 60,
+      "gas:candidate-vibid:4934014106995": 597,
+      "gas:candidate-vibid:4934014107127": 43,
+      "gas:candidate-vibid:4934014106464": 85,
+      "gas:candidate-vibid:4934014106702": 47,
+      "gas:candidate-vibid:4934014106827": 23,
+      "gas:candidate-vibid:4934014107022": 8,
+      "gas:candidate-vibid:4934014106933": 3,
+      "gas:candidate-vibid:4934014106911": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105955&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105955&type=464",
@@ -2108,15 +2108,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 69,
-      "Бахарев Константин Михайлович": 658,
-      "Воропай Михаил Викторович": 48,
-      "Кийко Игорь Александрович": 77,
-      "Кискин Степан Степанович": 72,
-      "Паша Андрей Викторович": 23,
-      "Першиков Юрий Александрович": 0,
-      "Свистунов Александр Григорьевич": 5,
-      "Эмиров Рустем": 3
+      "gas:candidate-vibid:4934014106983": 69,
+      "gas:candidate-vibid:4934014106995": 658,
+      "gas:candidate-vibid:4934014107127": 48,
+      "gas:candidate-vibid:4934014106464": 77,
+      "gas:candidate-vibid:4934014106702": 72,
+      "gas:candidate-vibid:4934014106827": 23,
+      "gas:candidate-vibid:4934014107022": 0,
+      "gas:candidate-vibid:4934014106933": 5,
+      "gas:candidate-vibid:4934014106911": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105955&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105955&type=464",
@@ -2167,15 +2167,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 38,
-      "Бахарев Константин Михайлович": 345,
-      "Воропай Михаил Викторович": 28,
-      "Кийко Игорь Александрович": 51,
-      "Кискин Степан Степанович": 31,
-      "Паша Андрей Викторович": 9,
-      "Першиков Юрий Александрович": 3,
-      "Свистунов Александр Григорьевич": 7,
-      "Эмиров Рустем": 4
+      "gas:candidate-vibid:4934014106983": 38,
+      "gas:candidate-vibid:4934014106995": 345,
+      "gas:candidate-vibid:4934014107127": 28,
+      "gas:candidate-vibid:4934014106464": 51,
+      "gas:candidate-vibid:4934014106702": 31,
+      "gas:candidate-vibid:4934014106827": 9,
+      "gas:candidate-vibid:4934014107022": 3,
+      "gas:candidate-vibid:4934014106933": 7,
+      "gas:candidate-vibid:4934014106911": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105955&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105955&type=464",
@@ -2226,15 +2226,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 54,
-      "Бахарев Константин Михайлович": 412,
-      "Воропай Михаил Викторович": 26,
-      "Кийко Игорь Александрович": 50,
-      "Кискин Степан Степанович": 38,
-      "Паша Андрей Викторович": 26,
-      "Першиков Юрий Александрович": 3,
-      "Свистунов Александр Григорьевич": 4,
-      "Эмиров Рустем": 11
+      "gas:candidate-vibid:4934014106983": 54,
+      "gas:candidate-vibid:4934014106995": 412,
+      "gas:candidate-vibid:4934014107127": 26,
+      "gas:candidate-vibid:4934014106464": 50,
+      "gas:candidate-vibid:4934014106702": 38,
+      "gas:candidate-vibid:4934014106827": 26,
+      "gas:candidate-vibid:4934014107022": 3,
+      "gas:candidate-vibid:4934014106933": 4,
+      "gas:candidate-vibid:4934014106911": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105955&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105955&type=464",
@@ -2285,15 +2285,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 15,
-      "Бахарев Константин Михайлович": 84,
-      "Воропай Михаил Викторович": 3,
-      "Кийко Игорь Александрович": 14,
-      "Кискин Степан Степанович": 8,
-      "Паша Андрей Викторович": 5,
-      "Першиков Юрий Александрович": 0,
-      "Свистунов Александр Григорьевич": 0,
-      "Эмиров Рустем": 0
+      "gas:candidate-vibid:4934014106983": 15,
+      "gas:candidate-vibid:4934014106995": 84,
+      "gas:candidate-vibid:4934014107127": 3,
+      "gas:candidate-vibid:4934014106464": 14,
+      "gas:candidate-vibid:4934014106702": 8,
+      "gas:candidate-vibid:4934014106827": 5,
+      "gas:candidate-vibid:4934014107022": 0,
+      "gas:candidate-vibid:4934014106933": 0,
+      "gas:candidate-vibid:4934014106911": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105955&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105955&type=464",
@@ -2344,15 +2344,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 10,
-      "Бахарев Константин Михайлович": 82,
-      "Воропай Михаил Викторович": 8,
-      "Кийко Игорь Александрович": 13,
-      "Кискин Степан Степанович": 8,
-      "Паша Андрей Викторович": 4,
-      "Першиков Юрий Александрович": 0,
-      "Свистунов Александр Григорьевич": 0,
-      "Эмиров Рустем": 1
+      "gas:candidate-vibid:4934014106983": 10,
+      "gas:candidate-vibid:4934014106995": 82,
+      "gas:candidate-vibid:4934014107127": 8,
+      "gas:candidate-vibid:4934014106464": 13,
+      "gas:candidate-vibid:4934014106702": 8,
+      "gas:candidate-vibid:4934014106827": 4,
+      "gas:candidate-vibid:4934014107022": 0,
+      "gas:candidate-vibid:4934014106933": 0,
+      "gas:candidate-vibid:4934014106911": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105955&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105955&type=464",
@@ -2403,15 +2403,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 4,
-      "Бахарев Константин Михайлович": 74,
-      "Воропай Михаил Викторович": 7,
-      "Кийко Игорь Александрович": 8,
-      "Кискин Степан Степанович": 5,
-      "Паша Андрей Викторович": 3,
-      "Першиков Юрий Александрович": 1,
-      "Свистунов Александр Григорьевич": 2,
-      "Эмиров Рустем": 4
+      "gas:candidate-vibid:4934014106983": 4,
+      "gas:candidate-vibid:4934014106995": 74,
+      "gas:candidate-vibid:4934014107127": 7,
+      "gas:candidate-vibid:4934014106464": 8,
+      "gas:candidate-vibid:4934014106702": 5,
+      "gas:candidate-vibid:4934014106827": 3,
+      "gas:candidate-vibid:4934014107022": 1,
+      "gas:candidate-vibid:4934014106933": 2,
+      "gas:candidate-vibid:4934014106911": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105955&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105955&type=464",
@@ -2462,15 +2462,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 12,
-      "Бахарев Константин Михайлович": 72,
-      "Воропай Михаил Викторович": 0,
-      "Кийко Игорь Александрович": 9,
-      "Кискин Степан Степанович": 5,
-      "Паша Андрей Викторович": 6,
-      "Першиков Юрий Александрович": 0,
-      "Свистунов Александр Григорьевич": 0,
-      "Эмиров Рустем": 4
+      "gas:candidate-vibid:4934014106983": 12,
+      "gas:candidate-vibid:4934014106995": 72,
+      "gas:candidate-vibid:4934014107127": 0,
+      "gas:candidate-vibid:4934014106464": 9,
+      "gas:candidate-vibid:4934014106702": 5,
+      "gas:candidate-vibid:4934014106827": 6,
+      "gas:candidate-vibid:4934014107022": 0,
+      "gas:candidate-vibid:4934014106933": 0,
+      "gas:candidate-vibid:4934014106911": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105955&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105955&type=464",
@@ -2521,15 +2521,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 2,
-      "Бахарев Константин Михайлович": 1,
-      "Воропай Михаил Викторович": 0,
-      "Кийко Игорь Александрович": 0,
-      "Кискин Степан Степанович": 0,
-      "Паша Андрей Викторович": 0,
-      "Першиков Юрий Александрович": 1,
-      "Свистунов Александр Григорьевич": 0,
-      "Эмиров Рустем": 0
+      "gas:candidate-vibid:4934014106983": 2,
+      "gas:candidate-vibid:4934014106995": 1,
+      "gas:candidate-vibid:4934014107127": 0,
+      "gas:candidate-vibid:4934014106464": 0,
+      "gas:candidate-vibid:4934014106702": 0,
+      "gas:candidate-vibid:4934014106827": 0,
+      "gas:candidate-vibid:4934014107022": 1,
+      "gas:candidate-vibid:4934014106933": 0,
+      "gas:candidate-vibid:4934014106911": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105955&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105955&type=464",
@@ -2580,15 +2580,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 38,
-      "Бахарев Константин Михайлович": 803,
-      "Воропай Михаил Викторович": 17,
-      "Кийко Игорь Александрович": 54,
-      "Кискин Степан Степанович": 38,
-      "Паша Андрей Викторович": 41,
-      "Першиков Юрий Александрович": 3,
-      "Свистунов Александр Григорьевич": 1,
-      "Эмиров Рустем": 36
+      "gas:candidate-vibid:4934014106983": 38,
+      "gas:candidate-vibid:4934014106995": 803,
+      "gas:candidate-vibid:4934014107127": 17,
+      "gas:candidate-vibid:4934014106464": 54,
+      "gas:candidate-vibid:4934014106702": 38,
+      "gas:candidate-vibid:4934014106827": 41,
+      "gas:candidate-vibid:4934014107022": 3,
+      "gas:candidate-vibid:4934014106933": 1,
+      "gas:candidate-vibid:4934014106911": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105967&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105967&type=464",
@@ -2639,15 +2639,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 29,
-      "Бахарев Константин Михайлович": 459,
-      "Воропай Михаил Викторович": 16,
-      "Кийко Игорь Александрович": 35,
-      "Кискин Степан Степанович": 23,
-      "Паша Андрей Викторович": 57,
-      "Першиков Юрий Александрович": 6,
-      "Свистунов Александр Григорьевич": 1,
-      "Эмиров Рустем": 72
+      "gas:candidate-vibid:4934014106983": 29,
+      "gas:candidate-vibid:4934014106995": 459,
+      "gas:candidate-vibid:4934014107127": 16,
+      "gas:candidate-vibid:4934014106464": 35,
+      "gas:candidate-vibid:4934014106702": 23,
+      "gas:candidate-vibid:4934014106827": 57,
+      "gas:candidate-vibid:4934014107022": 6,
+      "gas:candidate-vibid:4934014106933": 1,
+      "gas:candidate-vibid:4934014106911": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105967&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105967&type=464",
@@ -2698,15 +2698,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 39,
-      "Бахарев Константин Михайлович": 700,
-      "Воропай Михаил Викторович": 17,
-      "Кийко Игорь Александрович": 66,
-      "Кискин Степан Степанович": 40,
-      "Паша Андрей Викторович": 59,
-      "Першиков Юрий Александрович": 6,
-      "Свистунов Александр Григорьевич": 4,
-      "Эмиров Рустем": 38
+      "gas:candidate-vibid:4934014106983": 39,
+      "gas:candidate-vibid:4934014106995": 700,
+      "gas:candidate-vibid:4934014107127": 17,
+      "gas:candidate-vibid:4934014106464": 66,
+      "gas:candidate-vibid:4934014106702": 40,
+      "gas:candidate-vibid:4934014106827": 59,
+      "gas:candidate-vibid:4934014107022": 6,
+      "gas:candidate-vibid:4934014106933": 4,
+      "gas:candidate-vibid:4934014106911": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105967&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105967&type=464",
@@ -2757,15 +2757,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 21,
-      "Бахарев Константин Михайлович": 379,
-      "Воропай Михаил Викторович": 6,
-      "Кийко Игорь Александрович": 31,
-      "Кискин Степан Степанович": 25,
-      "Паша Андрей Викторович": 46,
-      "Першиков Юрий Александрович": 3,
-      "Свистунов Александр Григорьевич": 1,
-      "Эмиров Рустем": 11
+      "gas:candidate-vibid:4934014106983": 21,
+      "gas:candidate-vibid:4934014106995": 379,
+      "gas:candidate-vibid:4934014107127": 6,
+      "gas:candidate-vibid:4934014106464": 31,
+      "gas:candidate-vibid:4934014106702": 25,
+      "gas:candidate-vibid:4934014106827": 46,
+      "gas:candidate-vibid:4934014107022": 3,
+      "gas:candidate-vibid:4934014106933": 1,
+      "gas:candidate-vibid:4934014106911": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105967&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105967&type=464",
@@ -2816,15 +2816,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 19,
-      "Бахарев Константин Михайлович": 439,
-      "Воропай Михаил Викторович": 11,
-      "Кийко Игорь Александрович": 31,
-      "Кискин Степан Степанович": 42,
-      "Паша Андрей Викторович": 47,
-      "Першиков Юрий Александрович": 0,
-      "Свистунов Александр Григорьевич": 2,
-      "Эмиров Рустем": 8
+      "gas:candidate-vibid:4934014106983": 19,
+      "gas:candidate-vibid:4934014106995": 439,
+      "gas:candidate-vibid:4934014107127": 11,
+      "gas:candidate-vibid:4934014106464": 31,
+      "gas:candidate-vibid:4934014106702": 42,
+      "gas:candidate-vibid:4934014106827": 47,
+      "gas:candidate-vibid:4934014107022": 0,
+      "gas:candidate-vibid:4934014106933": 2,
+      "gas:candidate-vibid:4934014106911": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105967&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105967&type=464",
@@ -2875,15 +2875,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 30,
-      "Бахарев Константин Михайлович": 371,
-      "Воропай Михаил Викторович": 14,
-      "Кийко Игорь Александрович": 33,
-      "Кискин Степан Степанович": 57,
-      "Паша Андрей Викторович": 54,
-      "Першиков Юрий Александрович": 4,
-      "Свистунов Александр Григорьевич": 3,
-      "Эмиров Рустем": 13
+      "gas:candidate-vibid:4934014106983": 30,
+      "gas:candidate-vibid:4934014106995": 371,
+      "gas:candidate-vibid:4934014107127": 14,
+      "gas:candidate-vibid:4934014106464": 33,
+      "gas:candidate-vibid:4934014106702": 57,
+      "gas:candidate-vibid:4934014106827": 54,
+      "gas:candidate-vibid:4934014107022": 4,
+      "gas:candidate-vibid:4934014106933": 3,
+      "gas:candidate-vibid:4934014106911": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105967&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105967&type=464",
@@ -2934,15 +2934,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 15,
-      "Бахарев Константин Михайлович": 432,
-      "Воропай Михаил Викторович": 10,
-      "Кийко Игорь Александрович": 21,
-      "Кискин Степан Степанович": 70,
-      "Паша Андрей Викторович": 61,
-      "Першиков Юрий Александрович": 5,
-      "Свистунов Александр Григорьевич": 2,
-      "Эмиров Рустем": 24
+      "gas:candidate-vibid:4934014106983": 15,
+      "gas:candidate-vibid:4934014106995": 432,
+      "gas:candidate-vibid:4934014107127": 10,
+      "gas:candidate-vibid:4934014106464": 21,
+      "gas:candidate-vibid:4934014106702": 70,
+      "gas:candidate-vibid:4934014106827": 61,
+      "gas:candidate-vibid:4934014107022": 5,
+      "gas:candidate-vibid:4934014106933": 2,
+      "gas:candidate-vibid:4934014106911": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105967&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105967&type=464",
@@ -2993,15 +2993,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 17,
-      "Бахарев Константин Михайлович": 269,
-      "Воропай Михаил Викторович": 4,
-      "Кийко Игорь Александрович": 16,
-      "Кискин Степан Степанович": 32,
-      "Паша Андрей Викторович": 17,
-      "Першиков Юрий Александрович": 0,
-      "Свистунов Александр Григорьевич": 5,
-      "Эмиров Рустем": 10
+      "gas:candidate-vibid:4934014106983": 17,
+      "gas:candidate-vibid:4934014106995": 269,
+      "gas:candidate-vibid:4934014107127": 4,
+      "gas:candidate-vibid:4934014106464": 16,
+      "gas:candidate-vibid:4934014106702": 32,
+      "gas:candidate-vibid:4934014106827": 17,
+      "gas:candidate-vibid:4934014107022": 0,
+      "gas:candidate-vibid:4934014106933": 5,
+      "gas:candidate-vibid:4934014106911": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105967&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105967&type=464",
@@ -3052,15 +3052,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 10,
-      "Бахарев Константин Михайлович": 286,
-      "Воропай Михаил Викторович": 2,
-      "Кийко Игорь Александрович": 14,
-      "Кискин Степан Степанович": 17,
-      "Паша Андрей Викторович": 29,
-      "Першиков Юрий Александрович": 3,
-      "Свистунов Александр Григорьевич": 2,
-      "Эмиров Рустем": 32
+      "gas:candidate-vibid:4934014106983": 10,
+      "gas:candidate-vibid:4934014106995": 286,
+      "gas:candidate-vibid:4934014107127": 2,
+      "gas:candidate-vibid:4934014106464": 14,
+      "gas:candidate-vibid:4934014106702": 17,
+      "gas:candidate-vibid:4934014106827": 29,
+      "gas:candidate-vibid:4934014107022": 3,
+      "gas:candidate-vibid:4934014106933": 2,
+      "gas:candidate-vibid:4934014106911": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105967&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105967&type=464",
@@ -3111,15 +3111,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 16,
-      "Бахарев Константин Михайлович": 312,
-      "Воропай Михаил Викторович": 7,
-      "Кийко Игорь Александрович": 29,
-      "Кискин Степан Степанович": 21,
-      "Паша Андрей Викторович": 38,
-      "Першиков Юрий Александрович": 0,
-      "Свистунов Александр Григорьевич": 2,
-      "Эмиров Рустем": 15
+      "gas:candidate-vibid:4934014106983": 16,
+      "gas:candidate-vibid:4934014106995": 312,
+      "gas:candidate-vibid:4934014107127": 7,
+      "gas:candidate-vibid:4934014106464": 29,
+      "gas:candidate-vibid:4934014106702": 21,
+      "gas:candidate-vibid:4934014106827": 38,
+      "gas:candidate-vibid:4934014107022": 0,
+      "gas:candidate-vibid:4934014106933": 2,
+      "gas:candidate-vibid:4934014106911": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105967&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105967&type=464",
@@ -3170,15 +3170,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 34,
-      "Бахарев Константин Михайлович": 373,
-      "Воропай Михаил Викторович": 11,
-      "Кийко Игорь Александрович": 27,
-      "Кискин Степан Степанович": 12,
-      "Паша Андрей Викторович": 30,
-      "Першиков Юрий Александрович": 5,
-      "Свистунов Александр Григорьевич": 0,
-      "Эмиров Рустем": 19
+      "gas:candidate-vibid:4934014106983": 34,
+      "gas:candidate-vibid:4934014106995": 373,
+      "gas:candidate-vibid:4934014107127": 11,
+      "gas:candidate-vibid:4934014106464": 27,
+      "gas:candidate-vibid:4934014106702": 12,
+      "gas:candidate-vibid:4934014106827": 30,
+      "gas:candidate-vibid:4934014107022": 5,
+      "gas:candidate-vibid:4934014106933": 0,
+      "gas:candidate-vibid:4934014106911": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105967&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105967&type=464",
@@ -3229,15 +3229,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 41,
-      "Бахарев Константин Михайлович": 514,
-      "Воропай Михаил Викторович": 10,
-      "Кийко Игорь Александрович": 42,
-      "Кискин Степан Степанович": 21,
-      "Паша Андрей Викторович": 30,
-      "Першиков Юрий Александрович": 1,
-      "Свистунов Александр Григорьевич": 4,
-      "Эмиров Рустем": 53
+      "gas:candidate-vibid:4934014106983": 41,
+      "gas:candidate-vibid:4934014106995": 514,
+      "gas:candidate-vibid:4934014107127": 10,
+      "gas:candidate-vibid:4934014106464": 42,
+      "gas:candidate-vibid:4934014106702": 21,
+      "gas:candidate-vibid:4934014106827": 30,
+      "gas:candidate-vibid:4934014107022": 1,
+      "gas:candidate-vibid:4934014106933": 4,
+      "gas:candidate-vibid:4934014106911": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105967&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105967&type=464",
@@ -3288,15 +3288,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 29,
-      "Бахарев Константин Михайлович": 557,
-      "Воропай Михаил Викторович": 12,
-      "Кийко Игорь Александрович": 33,
-      "Кискин Степан Степанович": 27,
-      "Паша Андрей Викторович": 39,
-      "Першиков Юрий Александрович": 5,
-      "Свистунов Александр Григорьевич": 3,
-      "Эмиров Рустем": 59
+      "gas:candidate-vibid:4934014106983": 29,
+      "gas:candidate-vibid:4934014106995": 557,
+      "gas:candidate-vibid:4934014107127": 12,
+      "gas:candidate-vibid:4934014106464": 33,
+      "gas:candidate-vibid:4934014106702": 27,
+      "gas:candidate-vibid:4934014106827": 39,
+      "gas:candidate-vibid:4934014107022": 5,
+      "gas:candidate-vibid:4934014106933": 3,
+      "gas:candidate-vibid:4934014106911": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105967&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105967&type=464",
@@ -3347,15 +3347,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 6,
-      "Бахарев Константин Михайлович": 65,
-      "Воропай Михаил Викторович": 3,
-      "Кийко Игорь Александрович": 11,
-      "Кискин Степан Степанович": 4,
-      "Паша Андрей Викторович": 4,
-      "Першиков Юрий Александрович": 0,
-      "Свистунов Александр Григорьевич": 1,
-      "Эмиров Рустем": 23
+      "gas:candidate-vibid:4934014106983": 6,
+      "gas:candidate-vibid:4934014106995": 65,
+      "gas:candidate-vibid:4934014107127": 3,
+      "gas:candidate-vibid:4934014106464": 11,
+      "gas:candidate-vibid:4934014106702": 4,
+      "gas:candidate-vibid:4934014106827": 4,
+      "gas:candidate-vibid:4934014107022": 0,
+      "gas:candidate-vibid:4934014106933": 1,
+      "gas:candidate-vibid:4934014106911": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105967&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105967&type=464",
@@ -3406,15 +3406,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 2,
-      "Бахарев Константин Михайлович": 165,
-      "Воропай Михаил Викторович": 3,
-      "Кийко Игорь Александрович": 12,
-      "Кискин Степан Степанович": 4,
-      "Паша Андрей Викторович": 8,
-      "Першиков Юрий Александрович": 1,
-      "Свистунов Александр Григорьевич": 0,
-      "Эмиров Рустем": 13
+      "gas:candidate-vibid:4934014106983": 2,
+      "gas:candidate-vibid:4934014106995": 165,
+      "gas:candidate-vibid:4934014107127": 3,
+      "gas:candidate-vibid:4934014106464": 12,
+      "gas:candidate-vibid:4934014106702": 4,
+      "gas:candidate-vibid:4934014106827": 8,
+      "gas:candidate-vibid:4934014107022": 1,
+      "gas:candidate-vibid:4934014106933": 0,
+      "gas:candidate-vibid:4934014106911": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105967&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105967&type=464",
@@ -3465,15 +3465,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 3,
-      "Бахарев Константин Михайлович": 38,
-      "Воропай Михаил Викторович": 2,
-      "Кийко Игорь Александрович": 4,
-      "Кискин Степан Степанович": 11,
-      "Паша Андрей Викторович": 1,
-      "Першиков Юрий Александрович": 1,
-      "Свистунов Александр Григорьевич": 0,
-      "Эмиров Рустем": 8
+      "gas:candidate-vibid:4934014106983": 3,
+      "gas:candidate-vibid:4934014106995": 38,
+      "gas:candidate-vibid:4934014107127": 2,
+      "gas:candidate-vibid:4934014106464": 4,
+      "gas:candidate-vibid:4934014106702": 11,
+      "gas:candidate-vibid:4934014106827": 1,
+      "gas:candidate-vibid:4934014107022": 1,
+      "gas:candidate-vibid:4934014106933": 0,
+      "gas:candidate-vibid:4934014106911": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105967&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105967&type=464",
@@ -3524,15 +3524,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 16,
-      "Бахарев Константин Михайлович": 331,
-      "Воропай Михаил Викторович": 10,
-      "Кийко Игорь Александрович": 21,
-      "Кискин Степан Степанович": 16,
-      "Паша Андрей Викторович": 33,
-      "Першиков Юрий Александрович": 4,
-      "Свистунов Александр Григорьевич": 0,
-      "Эмиров Рустем": 33
+      "gas:candidate-vibid:4934014106983": 16,
+      "gas:candidate-vibid:4934014106995": 331,
+      "gas:candidate-vibid:4934014107127": 10,
+      "gas:candidate-vibid:4934014106464": 21,
+      "gas:candidate-vibid:4934014106702": 16,
+      "gas:candidate-vibid:4934014106827": 33,
+      "gas:candidate-vibid:4934014107022": 4,
+      "gas:candidate-vibid:4934014106933": 0,
+      "gas:candidate-vibid:4934014106911": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105967&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105967&type=464",
@@ -3583,15 +3583,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 26,
-      "Бахарев Константин Михайлович": 391,
-      "Воропай Михаил Викторович": 8,
-      "Кийко Игорь Александрович": 30,
-      "Кискин Степан Степанович": 28,
-      "Паша Андрей Викторович": 41,
-      "Першиков Юрий Александрович": 7,
-      "Свистунов Александр Григорьевич": 1,
-      "Эмиров Рустем": 21
+      "gas:candidate-vibid:4934014106983": 26,
+      "gas:candidate-vibid:4934014106995": 391,
+      "gas:candidate-vibid:4934014107127": 8,
+      "gas:candidate-vibid:4934014106464": 30,
+      "gas:candidate-vibid:4934014106702": 28,
+      "gas:candidate-vibid:4934014106827": 41,
+      "gas:candidate-vibid:4934014107022": 7,
+      "gas:candidate-vibid:4934014106933": 1,
+      "gas:candidate-vibid:4934014106911": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105967&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105967&type=464",
@@ -3642,15 +3642,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 42,
-      "Бахарев Константин Михайлович": 460,
-      "Воропай Михаил Викторович": 8,
-      "Кийко Игорь Александрович": 27,
-      "Кискин Степан Степанович": 18,
-      "Паша Андрей Викторович": 16,
-      "Першиков Юрий Александрович": 1,
-      "Свистунов Александр Григорьевич": 3,
-      "Эмиров Рустем": 38
+      "gas:candidate-vibid:4934014106983": 42,
+      "gas:candidate-vibid:4934014106995": 460,
+      "gas:candidate-vibid:4934014107127": 8,
+      "gas:candidate-vibid:4934014106464": 27,
+      "gas:candidate-vibid:4934014106702": 18,
+      "gas:candidate-vibid:4934014106827": 16,
+      "gas:candidate-vibid:4934014107022": 1,
+      "gas:candidate-vibid:4934014106933": 3,
+      "gas:candidate-vibid:4934014106911": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105967&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105967&type=464",
@@ -3701,15 +3701,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 26,
-      "Бахарев Константин Михайлович": 408,
-      "Воропай Михаил Викторович": 12,
-      "Кийко Игорь Александрович": 26,
-      "Кискин Степан Степанович": 24,
-      "Паша Андрей Викторович": 26,
-      "Першиков Юрий Александрович": 3,
-      "Свистунов Александр Григорьевич": 3,
-      "Эмиров Рустем": 51
+      "gas:candidate-vibid:4934014106983": 26,
+      "gas:candidate-vibid:4934014106995": 408,
+      "gas:candidate-vibid:4934014107127": 12,
+      "gas:candidate-vibid:4934014106464": 26,
+      "gas:candidate-vibid:4934014106702": 24,
+      "gas:candidate-vibid:4934014106827": 26,
+      "gas:candidate-vibid:4934014107022": 3,
+      "gas:candidate-vibid:4934014106933": 3,
+      "gas:candidate-vibid:4934014106911": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105967&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105967&type=464",
@@ -3760,15 +3760,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 4,
-      "Бахарев Константин Михайлович": 68,
-      "Воропай Михаил Викторович": 3,
-      "Кийко Игорь Александрович": 6,
-      "Кискин Степан Степанович": 7,
-      "Паша Андрей Викторович": 3,
-      "Першиков Юрий Александрович": 0,
-      "Свистунов Александр Григорьевич": 1,
-      "Эмиров Рустем": 6
+      "gas:candidate-vibid:4934014106983": 4,
+      "gas:candidate-vibid:4934014106995": 68,
+      "gas:candidate-vibid:4934014107127": 3,
+      "gas:candidate-vibid:4934014106464": 6,
+      "gas:candidate-vibid:4934014106702": 7,
+      "gas:candidate-vibid:4934014106827": 3,
+      "gas:candidate-vibid:4934014107022": 0,
+      "gas:candidate-vibid:4934014106933": 1,
+      "gas:candidate-vibid:4934014106911": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105967&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105967&type=464",
@@ -3819,15 +3819,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 3,
-      "Бахарев Константин Михайлович": 81,
-      "Воропай Михаил Викторович": 0,
-      "Кийко Игорь Александрович": 4,
-      "Кискин Степан Степанович": 8,
-      "Паша Андрей Викторович": 14,
-      "Першиков Юрий Александрович": 0,
-      "Свистунов Александр Григорьевич": 0,
-      "Эмиров Рустем": 3
+      "gas:candidate-vibid:4934014106983": 3,
+      "gas:candidate-vibid:4934014106995": 81,
+      "gas:candidate-vibid:4934014107127": 0,
+      "gas:candidate-vibid:4934014106464": 4,
+      "gas:candidate-vibid:4934014106702": 8,
+      "gas:candidate-vibid:4934014106827": 14,
+      "gas:candidate-vibid:4934014107022": 0,
+      "gas:candidate-vibid:4934014106933": 0,
+      "gas:candidate-vibid:4934014106911": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105967&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105967&type=464",
@@ -3878,15 +3878,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 11,
-      "Бахарев Константин Михайлович": 263,
-      "Воропай Михаил Викторович": 3,
-      "Кийко Игорь Александрович": 20,
-      "Кискин Степан Степанович": 13,
-      "Паша Андрей Викторович": 49,
-      "Першиков Юрий Александрович": 2,
-      "Свистунов Александр Григорьевич": 1,
-      "Эмиров Рустем": 18
+      "gas:candidate-vibid:4934014106983": 11,
+      "gas:candidate-vibid:4934014106995": 263,
+      "gas:candidate-vibid:4934014107127": 3,
+      "gas:candidate-vibid:4934014106464": 20,
+      "gas:candidate-vibid:4934014106702": 13,
+      "gas:candidate-vibid:4934014106827": 49,
+      "gas:candidate-vibid:4934014107022": 2,
+      "gas:candidate-vibid:4934014106933": 1,
+      "gas:candidate-vibid:4934014106911": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105967&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105967&type=464",
@@ -3937,15 +3937,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 22,
-      "Бахарев Константин Михайлович": 247,
-      "Воропай Михаил Викторович": 25,
-      "Кийко Игорь Александрович": 22,
-      "Кискин Степан Степанович": 22,
-      "Паша Андрей Викторович": 10,
-      "Першиков Юрий Александрович": 7,
-      "Свистунов Александр Григорьевич": 0,
-      "Эмиров Рустем": 30
+      "gas:candidate-vibid:4934014106983": 22,
+      "gas:candidate-vibid:4934014106995": 247,
+      "gas:candidate-vibid:4934014107127": 25,
+      "gas:candidate-vibid:4934014106464": 22,
+      "gas:candidate-vibid:4934014106702": 22,
+      "gas:candidate-vibid:4934014106827": 10,
+      "gas:candidate-vibid:4934014107022": 7,
+      "gas:candidate-vibid:4934014106933": 0,
+      "gas:candidate-vibid:4934014106911": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105967&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105967&type=464",
@@ -3996,15 +3996,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 36,
-      "Бахарев Константин Михайлович": 605,
-      "Воропай Михаил Викторович": 9,
-      "Кийко Игорь Александрович": 47,
-      "Кискин Степан Степанович": 26,
-      "Паша Андрей Викторович": 27,
-      "Першиков Юрий Александрович": 1,
-      "Свистунов Александр Григорьевич": 10,
-      "Эмиров Рустем": 63
+      "gas:candidate-vibid:4934014106983": 36,
+      "gas:candidate-vibid:4934014106995": 605,
+      "gas:candidate-vibid:4934014107127": 9,
+      "gas:candidate-vibid:4934014106464": 47,
+      "gas:candidate-vibid:4934014106702": 26,
+      "gas:candidate-vibid:4934014106827": 27,
+      "gas:candidate-vibid:4934014107022": 1,
+      "gas:candidate-vibid:4934014106933": 10,
+      "gas:candidate-vibid:4934014106911": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105967&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105967&type=464",
@@ -4055,15 +4055,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 31,
-      "Бахарев Константин Михайлович": 709,
-      "Воропай Михаил Викторович": 17,
-      "Кийко Игорь Александрович": 75,
-      "Кискин Степан Степанович": 27,
-      "Паша Андрей Викторович": 29,
-      "Першиков Юрий Александрович": 3,
-      "Свистунов Александр Григорьевич": 6,
-      "Эмиров Рустем": 22
+      "gas:candidate-vibid:4934014106983": 31,
+      "gas:candidate-vibid:4934014106995": 709,
+      "gas:candidate-vibid:4934014107127": 17,
+      "gas:candidate-vibid:4934014106464": 75,
+      "gas:candidate-vibid:4934014106702": 27,
+      "gas:candidate-vibid:4934014106827": 29,
+      "gas:candidate-vibid:4934014107022": 3,
+      "gas:candidate-vibid:4934014106933": 6,
+      "gas:candidate-vibid:4934014106911": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105967&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105967&type=464",
@@ -4114,15 +4114,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 9,
-      "Бахарев Константин Михайлович": 195,
-      "Воропай Михаил Викторович": 4,
-      "Кийко Игорь Александрович": 12,
-      "Кискин Степан Степанович": 7,
-      "Паша Андрей Викторович": 11,
-      "Першиков Юрий Александрович": 0,
-      "Свистунов Александр Григорьевич": 0,
-      "Эмиров Рустем": 1
+      "gas:candidate-vibid:4934014106983": 9,
+      "gas:candidate-vibid:4934014106995": 195,
+      "gas:candidate-vibid:4934014107127": 4,
+      "gas:candidate-vibid:4934014106464": 12,
+      "gas:candidate-vibid:4934014106702": 7,
+      "gas:candidate-vibid:4934014106827": 11,
+      "gas:candidate-vibid:4934014107022": 0,
+      "gas:candidate-vibid:4934014106933": 0,
+      "gas:candidate-vibid:4934014106911": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105967&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105967&type=464",
@@ -4173,15 +4173,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 19,
-      "Бахарев Константин Михайлович": 369,
-      "Воропай Михаил Викторович": 11,
-      "Кийко Игорь Александрович": 17,
-      "Кискин Степан Степанович": 63,
-      "Паша Андрей Викторович": 39,
-      "Першиков Юрий Александрович": 1,
-      "Свистунов Александр Григорьевич": 2,
-      "Эмиров Рустем": 22
+      "gas:candidate-vibid:4934014106983": 19,
+      "gas:candidate-vibid:4934014106995": 369,
+      "gas:candidate-vibid:4934014107127": 11,
+      "gas:candidate-vibid:4934014106464": 17,
+      "gas:candidate-vibid:4934014106702": 63,
+      "gas:candidate-vibid:4934014106827": 39,
+      "gas:candidate-vibid:4934014107022": 1,
+      "gas:candidate-vibid:4934014106933": 2,
+      "gas:candidate-vibid:4934014106911": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105967&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105967&type=464",
@@ -4232,15 +4232,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 3,
-      "Бахарев Константин Михайлович": 72,
-      "Воропай Михаил Викторович": 2,
-      "Кийко Игорь Александрович": 1,
-      "Кискин Степан Степанович": 4,
-      "Паша Андрей Викторович": 5,
-      "Першиков Юрий Александрович": 0,
-      "Свистунов Александр Григорьевич": 0,
-      "Эмиров Рустем": 5
+      "gas:candidate-vibid:4934014106983": 3,
+      "gas:candidate-vibid:4934014106995": 72,
+      "gas:candidate-vibid:4934014107127": 2,
+      "gas:candidate-vibid:4934014106464": 1,
+      "gas:candidate-vibid:4934014106702": 4,
+      "gas:candidate-vibid:4934014106827": 5,
+      "gas:candidate-vibid:4934014107022": 0,
+      "gas:candidate-vibid:4934014106933": 0,
+      "gas:candidate-vibid:4934014106911": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105967&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105967&type=464",
@@ -4291,15 +4291,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 2,
-      "Бахарев Константин Михайлович": 77,
-      "Воропай Михаил Викторович": 2,
-      "Кийко Игорь Александрович": 1,
-      "Кискин Степан Степанович": 2,
-      "Паша Андрей Викторович": 7,
-      "Першиков Юрий Александрович": 3,
-      "Свистунов Александр Григорьевич": 0,
-      "Эмиров Рустем": 11
+      "gas:candidate-vibid:4934014106983": 2,
+      "gas:candidate-vibid:4934014106995": 77,
+      "gas:candidate-vibid:4934014107127": 2,
+      "gas:candidate-vibid:4934014106464": 1,
+      "gas:candidate-vibid:4934014106702": 2,
+      "gas:candidate-vibid:4934014106827": 7,
+      "gas:candidate-vibid:4934014107022": 3,
+      "gas:candidate-vibid:4934014106933": 0,
+      "gas:candidate-vibid:4934014106911": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105967&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105967&type=464",
@@ -4350,15 +4350,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 22,
-      "Бахарев Константин Михайлович": 400,
-      "Воропай Михаил Викторович": 5,
-      "Кийко Игорь Александрович": 26,
-      "Кискин Степан Степанович": 29,
-      "Паша Андрей Викторович": 22,
-      "Першиков Юрий Александрович": 2,
-      "Свистунов Александр Григорьевич": 1,
-      "Эмиров Рустем": 14
+      "gas:candidate-vibid:4934014106983": 22,
+      "gas:candidate-vibid:4934014106995": 400,
+      "gas:candidate-vibid:4934014107127": 5,
+      "gas:candidate-vibid:4934014106464": 26,
+      "gas:candidate-vibid:4934014106702": 29,
+      "gas:candidate-vibid:4934014106827": 22,
+      "gas:candidate-vibid:4934014107022": 2,
+      "gas:candidate-vibid:4934014106933": 1,
+      "gas:candidate-vibid:4934014106911": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105967&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105967&type=464",
@@ -4409,15 +4409,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 4,
-      "Бахарев Константин Михайлович": 216,
-      "Воропай Михаил Викторович": 1,
-      "Кийко Игорь Александрович": 15,
-      "Кискин Степан Степанович": 20,
-      "Паша Андрей Викторович": 4,
-      "Першиков Юрий Александрович": 1,
-      "Свистунов Александр Григорьевич": 1,
-      "Эмиров Рустем": 9
+      "gas:candidate-vibid:4934014106983": 4,
+      "gas:candidate-vibid:4934014106995": 216,
+      "gas:candidate-vibid:4934014107127": 1,
+      "gas:candidate-vibid:4934014106464": 15,
+      "gas:candidate-vibid:4934014106702": 20,
+      "gas:candidate-vibid:4934014106827": 4,
+      "gas:candidate-vibid:4934014107022": 1,
+      "gas:candidate-vibid:4934014106933": 1,
+      "gas:candidate-vibid:4934014106911": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105967&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105967&type=464",
@@ -4468,15 +4468,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 6,
-      "Бахарев Константин Михайлович": 122,
-      "Воропай Михаил Викторович": 0,
-      "Кийко Игорь Александрович": 8,
-      "Кискин Степан Степанович": 6,
-      "Паша Андрей Викторович": 6,
-      "Першиков Юрий Александрович": 0,
-      "Свистунов Александр Григорьевич": 0,
-      "Эмиров Рустем": 7
+      "gas:candidate-vibid:4934014106983": 6,
+      "gas:candidate-vibid:4934014106995": 122,
+      "gas:candidate-vibid:4934014107127": 0,
+      "gas:candidate-vibid:4934014106464": 8,
+      "gas:candidate-vibid:4934014106702": 6,
+      "gas:candidate-vibid:4934014106827": 6,
+      "gas:candidate-vibid:4934014107022": 0,
+      "gas:candidate-vibid:4934014106933": 0,
+      "gas:candidate-vibid:4934014106911": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105967&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105967&type=464",
@@ -4527,15 +4527,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 20,
-      "Бахарев Константин Михайлович": 464,
-      "Воропай Михаил Викторович": 8,
-      "Кийко Игорь Александрович": 20,
-      "Кискин Степан Степанович": 19,
-      "Паша Андрей Викторович": 38,
-      "Першиков Юрий Александрович": 1,
-      "Свистунов Александр Григорьевич": 2,
-      "Эмиров Рустем": 4
+      "gas:candidate-vibid:4934014106983": 20,
+      "gas:candidate-vibid:4934014106995": 464,
+      "gas:candidate-vibid:4934014107127": 8,
+      "gas:candidate-vibid:4934014106464": 20,
+      "gas:candidate-vibid:4934014106702": 19,
+      "gas:candidate-vibid:4934014106827": 38,
+      "gas:candidate-vibid:4934014107022": 1,
+      "gas:candidate-vibid:4934014106933": 2,
+      "gas:candidate-vibid:4934014106911": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105967&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105967&type=464",
@@ -4586,15 +4586,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 9,
-      "Бахарев Константин Михайлович": 537,
-      "Воропай Михаил Викторович": 7,
-      "Кийко Игорь Александрович": 25,
-      "Кискин Степан Степанович": 5,
-      "Паша Андрей Викторович": 21,
-      "Першиков Юрий Александрович": 2,
-      "Свистунов Александр Григорьевич": 1,
-      "Эмиров Рустем": 6
+      "gas:candidate-vibid:4934014106983": 9,
+      "gas:candidate-vibid:4934014106995": 537,
+      "gas:candidate-vibid:4934014107127": 7,
+      "gas:candidate-vibid:4934014106464": 25,
+      "gas:candidate-vibid:4934014106702": 5,
+      "gas:candidate-vibid:4934014106827": 21,
+      "gas:candidate-vibid:4934014107022": 2,
+      "gas:candidate-vibid:4934014106933": 1,
+      "gas:candidate-vibid:4934014106911": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105967&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105967&type=464",
@@ -4645,15 +4645,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 17,
-      "Бахарев Константин Михайлович": 314,
-      "Воропай Михаил Викторович": 3,
-      "Кийко Игорь Александрович": 16,
-      "Кискин Степан Степанович": 25,
-      "Паша Андрей Викторович": 25,
-      "Першиков Юрий Александрович": 1,
-      "Свистунов Александр Григорьевич": 0,
-      "Эмиров Рустем": 12
+      "gas:candidate-vibid:4934014106983": 17,
+      "gas:candidate-vibid:4934014106995": 314,
+      "gas:candidate-vibid:4934014107127": 3,
+      "gas:candidate-vibid:4934014106464": 16,
+      "gas:candidate-vibid:4934014106702": 25,
+      "gas:candidate-vibid:4934014106827": 25,
+      "gas:candidate-vibid:4934014107022": 1,
+      "gas:candidate-vibid:4934014106933": 0,
+      "gas:candidate-vibid:4934014106911": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105967&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105967&type=464",
@@ -4704,15 +4704,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 3,
-      "Бахарев Константин Михайлович": 279,
-      "Воропай Михаил Викторович": 5,
-      "Кийко Игорь Александрович": 10,
-      "Кискин Степан Степанович": 5,
-      "Паша Андрей Викторович": 16,
-      "Першиков Юрий Александрович": 1,
-      "Свистунов Александр Григорьевич": 1,
-      "Эмиров Рустем": 7
+      "gas:candidate-vibid:4934014106983": 3,
+      "gas:candidate-vibid:4934014106995": 279,
+      "gas:candidate-vibid:4934014107127": 5,
+      "gas:candidate-vibid:4934014106464": 10,
+      "gas:candidate-vibid:4934014106702": 5,
+      "gas:candidate-vibid:4934014106827": 16,
+      "gas:candidate-vibid:4934014107022": 1,
+      "gas:candidate-vibid:4934014106933": 1,
+      "gas:candidate-vibid:4934014106911": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105967&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105967&type=464",
@@ -4763,15 +4763,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 4,
-      "Бахарев Константин Михайлович": 141,
-      "Воропай Михаил Викторович": 2,
-      "Кийко Игорь Александрович": 8,
-      "Кискин Степан Степанович": 7,
-      "Паша Андрей Викторович": 9,
-      "Першиков Юрий Александрович": 1,
-      "Свистунов Александр Григорьевич": 1,
-      "Эмиров Рустем": 9
+      "gas:candidate-vibid:4934014106983": 4,
+      "gas:candidate-vibid:4934014106995": 141,
+      "gas:candidate-vibid:4934014107127": 2,
+      "gas:candidate-vibid:4934014106464": 8,
+      "gas:candidate-vibid:4934014106702": 7,
+      "gas:candidate-vibid:4934014106827": 9,
+      "gas:candidate-vibid:4934014107022": 1,
+      "gas:candidate-vibid:4934014106933": 1,
+      "gas:candidate-vibid:4934014106911": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105967&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105967&type=464",
@@ -4822,15 +4822,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 73,
-      "Бахарев Константин Михайлович": 1001,
-      "Воропай Михаил Викторович": 30,
-      "Кийко Игорь Александрович": 201,
-      "Кискин Степан Степанович": 41,
-      "Паша Андрей Викторович": 16,
-      "Першиков Юрий Александрович": 5,
-      "Свистунов Александр Григорьевич": 9,
-      "Эмиров Рустем": 18
+      "gas:candidate-vibid:4934014106983": 73,
+      "gas:candidate-vibid:4934014106995": 1001,
+      "gas:candidate-vibid:4934014107127": 30,
+      "gas:candidate-vibid:4934014106464": 201,
+      "gas:candidate-vibid:4934014106702": 41,
+      "gas:candidate-vibid:4934014106827": 16,
+      "gas:candidate-vibid:4934014107022": 5,
+      "gas:candidate-vibid:4934014106933": 9,
+      "gas:candidate-vibid:4934014106911": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105968&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105968&type=464",
@@ -4881,15 +4881,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 45,
-      "Бахарев Константин Михайлович": 893,
-      "Воропай Михаил Викторович": 24,
-      "Кийко Игорь Александрович": 76,
-      "Кискин Степан Степанович": 42,
-      "Паша Андрей Викторович": 11,
-      "Першиков Юрий Александрович": 7,
-      "Свистунов Александр Григорьевич": 7,
-      "Эмиров Рустем": 33
+      "gas:candidate-vibid:4934014106983": 45,
+      "gas:candidate-vibid:4934014106995": 893,
+      "gas:candidate-vibid:4934014107127": 24,
+      "gas:candidate-vibid:4934014106464": 76,
+      "gas:candidate-vibid:4934014106702": 42,
+      "gas:candidate-vibid:4934014106827": 11,
+      "gas:candidate-vibid:4934014107022": 7,
+      "gas:candidate-vibid:4934014106933": 7,
+      "gas:candidate-vibid:4934014106911": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105968&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105968&type=464",
@@ -4940,15 +4940,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 63,
-      "Бахарев Константин Михайлович": 714,
-      "Воропай Михаил Викторович": 29,
-      "Кийко Игорь Александрович": 69,
-      "Кискин Степан Степанович": 39,
-      "Паша Андрей Викторович": 12,
-      "Першиков Юрий Александрович": 4,
-      "Свистунов Александр Григорьевич": 7,
-      "Эмиров Рустем": 8
+      "gas:candidate-vibid:4934014106983": 63,
+      "gas:candidate-vibid:4934014106995": 714,
+      "gas:candidate-vibid:4934014107127": 29,
+      "gas:candidate-vibid:4934014106464": 69,
+      "gas:candidate-vibid:4934014106702": 39,
+      "gas:candidate-vibid:4934014106827": 12,
+      "gas:candidate-vibid:4934014107022": 4,
+      "gas:candidate-vibid:4934014106933": 7,
+      "gas:candidate-vibid:4934014106911": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105968&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105968&type=464",
@@ -4999,15 +4999,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 41,
-      "Бахарев Константин Михайлович": 1197,
-      "Воропай Михаил Викторович": 18,
-      "Кийко Игорь Александрович": 201,
-      "Кискин Степан Степанович": 171,
-      "Паша Андрей Викторович": 12,
-      "Першиков Юрий Александрович": 4,
-      "Свистунов Александр Григорьевич": 1,
-      "Эмиров Рустем": 19
+      "gas:candidate-vibid:4934014106983": 41,
+      "gas:candidate-vibid:4934014106995": 1197,
+      "gas:candidate-vibid:4934014107127": 18,
+      "gas:candidate-vibid:4934014106464": 201,
+      "gas:candidate-vibid:4934014106702": 171,
+      "gas:candidate-vibid:4934014106827": 12,
+      "gas:candidate-vibid:4934014107022": 4,
+      "gas:candidate-vibid:4934014106933": 1,
+      "gas:candidate-vibid:4934014106911": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105968&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105968&type=464",
@@ -5058,15 +5058,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 10,
-      "Бахарев Константин Михайлович": 186,
-      "Воропай Михаил Викторович": 2,
-      "Кийко Игорь Александрович": 21,
-      "Кискин Степан Степанович": 6,
-      "Паша Андрей Викторович": 3,
-      "Першиков Юрий Александрович": 0,
-      "Свистунов Александр Григорьевич": 0,
-      "Эмиров Рустем": 42
+      "gas:candidate-vibid:4934014106983": 10,
+      "gas:candidate-vibid:4934014106995": 186,
+      "gas:candidate-vibid:4934014107127": 2,
+      "gas:candidate-vibid:4934014106464": 21,
+      "gas:candidate-vibid:4934014106702": 6,
+      "gas:candidate-vibid:4934014106827": 3,
+      "gas:candidate-vibid:4934014107022": 0,
+      "gas:candidate-vibid:4934014106933": 0,
+      "gas:candidate-vibid:4934014106911": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105968&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105968&type=464",
@@ -5117,15 +5117,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 49,
-      "Бахарев Константин Михайлович": 1228,
-      "Воропай Михаил Викторович": 21,
-      "Кийко Игорь Александрович": 71,
-      "Кискин Степан Степанович": 35,
-      "Паша Андрей Викторович": 22,
-      "Першиков Юрий Александрович": 3,
-      "Свистунов Александр Григорьевич": 2,
-      "Эмиров Рустем": 9
+      "gas:candidate-vibid:4934014106983": 49,
+      "gas:candidate-vibid:4934014106995": 1228,
+      "gas:candidate-vibid:4934014107127": 21,
+      "gas:candidate-vibid:4934014106464": 71,
+      "gas:candidate-vibid:4934014106702": 35,
+      "gas:candidate-vibid:4934014106827": 22,
+      "gas:candidate-vibid:4934014107022": 3,
+      "gas:candidate-vibid:4934014106933": 2,
+      "gas:candidate-vibid:4934014106911": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105968&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105968&type=464",
@@ -5176,15 +5176,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 37,
-      "Бахарев Константин Михайлович": 596,
-      "Воропай Михаил Викторович": 18,
-      "Кийко Игорь Александрович": 55,
-      "Кискин Степан Степанович": 30,
-      "Паша Андрей Викторович": 13,
-      "Першиков Юрий Александрович": 5,
-      "Свистунов Александр Григорьевич": 6,
-      "Эмиров Рустем": 44
+      "gas:candidate-vibid:4934014106983": 37,
+      "gas:candidate-vibid:4934014106995": 596,
+      "gas:candidate-vibid:4934014107127": 18,
+      "gas:candidate-vibid:4934014106464": 55,
+      "gas:candidate-vibid:4934014106702": 30,
+      "gas:candidate-vibid:4934014106827": 13,
+      "gas:candidate-vibid:4934014107022": 5,
+      "gas:candidate-vibid:4934014106933": 6,
+      "gas:candidate-vibid:4934014106911": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105968&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105968&type=464",
@@ -5235,15 +5235,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 36,
-      "Бахарев Константин Михайлович": 656,
-      "Воропай Михаил Викторович": 8,
-      "Кийко Игорь Александрович": 146,
-      "Кискин Степан Степанович": 29,
-      "Паша Андрей Викторович": 4,
-      "Першиков Юрий Александрович": 1,
-      "Свистунов Александр Григорьевич": 0,
-      "Эмиров Рустем": 12
+      "gas:candidate-vibid:4934014106983": 36,
+      "gas:candidate-vibid:4934014106995": 656,
+      "gas:candidate-vibid:4934014107127": 8,
+      "gas:candidate-vibid:4934014106464": 146,
+      "gas:candidate-vibid:4934014106702": 29,
+      "gas:candidate-vibid:4934014106827": 4,
+      "gas:candidate-vibid:4934014107022": 1,
+      "gas:candidate-vibid:4934014106933": 0,
+      "gas:candidate-vibid:4934014106911": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105968&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105968&type=464",
@@ -5294,15 +5294,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 29,
-      "Бахарев Константин Михайлович": 990,
-      "Воропай Михаил Викторович": 12,
-      "Кийко Игорь Александрович": 28,
-      "Кискин Степан Степанович": 11,
-      "Паша Андрей Викторович": 20,
-      "Першиков Юрий Александрович": 3,
-      "Свистунов Александр Григорьевич": 2,
-      "Эмиров Рустем": 48
+      "gas:candidate-vibid:4934014106983": 29,
+      "gas:candidate-vibid:4934014106995": 990,
+      "gas:candidate-vibid:4934014107127": 12,
+      "gas:candidate-vibid:4934014106464": 28,
+      "gas:candidate-vibid:4934014106702": 11,
+      "gas:candidate-vibid:4934014106827": 20,
+      "gas:candidate-vibid:4934014107022": 3,
+      "gas:candidate-vibid:4934014106933": 2,
+      "gas:candidate-vibid:4934014106911": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105968&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105968&type=464",
@@ -5353,15 +5353,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 16,
-      "Бахарев Константин Михайлович": 742,
-      "Воропай Михаил Викторович": 9,
-      "Кийко Игорь Александрович": 18,
-      "Кискин Степан Степанович": 11,
-      "Паша Андрей Викторович": 3,
-      "Першиков Юрий Александрович": 0,
-      "Свистунов Александр Григорьевич": 0,
-      "Эмиров Рустем": 2
+      "gas:candidate-vibid:4934014106983": 16,
+      "gas:candidate-vibid:4934014106995": 742,
+      "gas:candidate-vibid:4934014107127": 9,
+      "gas:candidate-vibid:4934014106464": 18,
+      "gas:candidate-vibid:4934014106702": 11,
+      "gas:candidate-vibid:4934014106827": 3,
+      "gas:candidate-vibid:4934014107022": 0,
+      "gas:candidate-vibid:4934014106933": 0,
+      "gas:candidate-vibid:4934014106911": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105968&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105968&type=464",
@@ -5412,15 +5412,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 4,
-      "Бахарев Константин Михайлович": 171,
-      "Воропай Михаил Викторович": 10,
-      "Кийко Игорь Александрович": 5,
-      "Кискин Степан Степанович": 1,
-      "Паша Андрей Викторович": 1,
-      "Першиков Юрий Александрович": 3,
-      "Свистунов Александр Григорьевич": 1,
-      "Эмиров Рустем": 10
+      "gas:candidate-vibid:4934014106983": 4,
+      "gas:candidate-vibid:4934014106995": 171,
+      "gas:candidate-vibid:4934014107127": 10,
+      "gas:candidate-vibid:4934014106464": 5,
+      "gas:candidate-vibid:4934014106702": 1,
+      "gas:candidate-vibid:4934014106827": 1,
+      "gas:candidate-vibid:4934014107022": 3,
+      "gas:candidate-vibid:4934014106933": 1,
+      "gas:candidate-vibid:4934014106911": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105968&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105968&type=464",
@@ -5471,15 +5471,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 10,
-      "Бахарев Константин Михайлович": 174,
-      "Воропай Михаил Викторович": 11,
-      "Кийко Игорь Александрович": 8,
-      "Кискин Степан Степанович": 2,
-      "Паша Андрей Викторович": 4,
-      "Першиков Юрий Александрович": 0,
-      "Свистунов Александр Григорьевич": 2,
-      "Эмиров Рустем": 18
+      "gas:candidate-vibid:4934014106983": 10,
+      "gas:candidate-vibid:4934014106995": 174,
+      "gas:candidate-vibid:4934014107127": 11,
+      "gas:candidate-vibid:4934014106464": 8,
+      "gas:candidate-vibid:4934014106702": 2,
+      "gas:candidate-vibid:4934014106827": 4,
+      "gas:candidate-vibid:4934014107022": 0,
+      "gas:candidate-vibid:4934014106933": 2,
+      "gas:candidate-vibid:4934014106911": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105968&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105968&type=464",
@@ -5530,15 +5530,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 29,
-      "Бахарев Константин Михайлович": 596,
-      "Воропай Михаил Викторович": 10,
-      "Кийко Игорь Александрович": 53,
-      "Кискин Степан Степанович": 25,
-      "Паша Андрей Викторович": 11,
-      "Першиков Юрий Александрович": 1,
-      "Свистунов Александр Григорьевич": 3,
-      "Эмиров Рустем": 53
+      "gas:candidate-vibid:4934014106983": 29,
+      "gas:candidate-vibid:4934014106995": 596,
+      "gas:candidate-vibid:4934014107127": 10,
+      "gas:candidate-vibid:4934014106464": 53,
+      "gas:candidate-vibid:4934014106702": 25,
+      "gas:candidate-vibid:4934014106827": 11,
+      "gas:candidate-vibid:4934014107022": 1,
+      "gas:candidate-vibid:4934014106933": 3,
+      "gas:candidate-vibid:4934014106911": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105968&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105968&type=464",
@@ -5589,15 +5589,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 12,
-      "Бахарев Константин Михайлович": 237,
-      "Воропай Михаил Викторович": 4,
-      "Кийко Игорь Александрович": 6,
-      "Кискин Степан Степанович": 6,
-      "Паша Андрей Викторович": 3,
-      "Першиков Юрий Александрович": 4,
-      "Свистунов Александр Григорьевич": 1,
-      "Эмиров Рустем": 13
+      "gas:candidate-vibid:4934014106983": 12,
+      "gas:candidate-vibid:4934014106995": 237,
+      "gas:candidate-vibid:4934014107127": 4,
+      "gas:candidate-vibid:4934014106464": 6,
+      "gas:candidate-vibid:4934014106702": 6,
+      "gas:candidate-vibid:4934014106827": 3,
+      "gas:candidate-vibid:4934014107022": 4,
+      "gas:candidate-vibid:4934014106933": 1,
+      "gas:candidate-vibid:4934014106911": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105968&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105968&type=464",
@@ -5648,15 +5648,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 7,
-      "Бахарев Константин Михайлович": 201,
-      "Воропай Михаил Викторович": 8,
-      "Кийко Игорь Александрович": 10,
-      "Кискин Степан Степанович": 10,
-      "Паша Андрей Викторович": 1,
-      "Першиков Юрий Александрович": 0,
-      "Свистунов Александр Григорьевич": 1,
-      "Эмиров Рустем": 23
+      "gas:candidate-vibid:4934014106983": 7,
+      "gas:candidate-vibid:4934014106995": 201,
+      "gas:candidate-vibid:4934014107127": 8,
+      "gas:candidate-vibid:4934014106464": 10,
+      "gas:candidate-vibid:4934014106702": 10,
+      "gas:candidate-vibid:4934014106827": 1,
+      "gas:candidate-vibid:4934014107022": 0,
+      "gas:candidate-vibid:4934014106933": 1,
+      "gas:candidate-vibid:4934014106911": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105968&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105968&type=464",
@@ -5707,15 +5707,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 45,
-      "Бахарев Константин Михайлович": 611,
-      "Воропай Михаил Викторович": 34,
-      "Кийко Игорь Александрович": 68,
-      "Кискин Степан Степанович": 77,
-      "Паша Андрей Викторович": 26,
-      "Першиков Юрий Александрович": 7,
-      "Свистунов Александр Григорьевич": 8,
-      "Эмиров Рустем": 10
+      "gas:candidate-vibid:4934014106983": 45,
+      "gas:candidate-vibid:4934014106995": 611,
+      "gas:candidate-vibid:4934014107127": 34,
+      "gas:candidate-vibid:4934014106464": 68,
+      "gas:candidate-vibid:4934014106702": 77,
+      "gas:candidate-vibid:4934014106827": 26,
+      "gas:candidate-vibid:4934014107022": 7,
+      "gas:candidate-vibid:4934014106933": 8,
+      "gas:candidate-vibid:4934014106911": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105968&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105968&type=464",
@@ -5766,15 +5766,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 46,
-      "Бахарев Константин Михайлович": 656,
-      "Воропай Михаил Викторович": 32,
-      "Кийко Игорь Александрович": 82,
-      "Кискин Степан Степанович": 30,
-      "Паша Андрей Викторович": 17,
-      "Першиков Юрий Александрович": 7,
-      "Свистунов Александр Григорьевич": 15,
-      "Эмиров Рустем": 21
+      "gas:candidate-vibid:4934014106983": 46,
+      "gas:candidate-vibid:4934014106995": 656,
+      "gas:candidate-vibid:4934014107127": 32,
+      "gas:candidate-vibid:4934014106464": 82,
+      "gas:candidate-vibid:4934014106702": 30,
+      "gas:candidate-vibid:4934014106827": 17,
+      "gas:candidate-vibid:4934014107022": 7,
+      "gas:candidate-vibid:4934014106933": 15,
+      "gas:candidate-vibid:4934014106911": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105968&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105968&type=464",
@@ -5825,15 +5825,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 6,
-      "Бахарев Константин Михайлович": 175,
-      "Воропай Михаил Викторович": 1,
-      "Кийко Игорь Александрович": 2,
-      "Кискин Степан Степанович": 4,
-      "Паша Андрей Викторович": 1,
-      "Першиков Юрий Александрович": 1,
-      "Свистунов Александр Григорьевич": 0,
-      "Эмиров Рустем": 4
+      "gas:candidate-vibid:4934014106983": 6,
+      "gas:candidate-vibid:4934014106995": 175,
+      "gas:candidate-vibid:4934014107127": 1,
+      "gas:candidate-vibid:4934014106464": 2,
+      "gas:candidate-vibid:4934014106702": 4,
+      "gas:candidate-vibid:4934014106827": 1,
+      "gas:candidate-vibid:4934014107022": 1,
+      "gas:candidate-vibid:4934014106933": 0,
+      "gas:candidate-vibid:4934014106911": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105968&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105968&type=464",
@@ -5884,15 +5884,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 14,
-      "Бахарев Константин Михайлович": 287,
-      "Воропай Михаил Викторович": 6,
-      "Кийко Игорь Александрович": 23,
-      "Кискин Степан Степанович": 10,
-      "Паша Андрей Викторович": 3,
-      "Першиков Юрий Александрович": 0,
-      "Свистунов Александр Григорьевич": 1,
-      "Эмиров Рустем": 10
+      "gas:candidate-vibid:4934014106983": 14,
+      "gas:candidate-vibid:4934014106995": 287,
+      "gas:candidate-vibid:4934014107127": 6,
+      "gas:candidate-vibid:4934014106464": 23,
+      "gas:candidate-vibid:4934014106702": 10,
+      "gas:candidate-vibid:4934014106827": 3,
+      "gas:candidate-vibid:4934014107022": 0,
+      "gas:candidate-vibid:4934014106933": 1,
+      "gas:candidate-vibid:4934014106911": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105968&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105968&type=464",
@@ -5943,15 +5943,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 2,
-      "Бахарев Константин Михайлович": 150,
-      "Воропай Михаил Викторович": 0,
-      "Кийко Игорь Александрович": 8,
-      "Кискин Степан Степанович": 1,
-      "Паша Андрей Викторович": 0,
-      "Першиков Юрий Александрович": 1,
-      "Свистунов Александр Григорьевич": 0,
-      "Эмиров Рустем": 4
+      "gas:candidate-vibid:4934014106983": 2,
+      "gas:candidate-vibid:4934014106995": 150,
+      "gas:candidate-vibid:4934014107127": 0,
+      "gas:candidate-vibid:4934014106464": 8,
+      "gas:candidate-vibid:4934014106702": 1,
+      "gas:candidate-vibid:4934014106827": 0,
+      "gas:candidate-vibid:4934014107022": 1,
+      "gas:candidate-vibid:4934014106933": 0,
+      "gas:candidate-vibid:4934014106911": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105968&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105968&type=464",
@@ -6002,15 +6002,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 4,
-      "Бахарев Константин Михайлович": 128,
-      "Воропай Михаил Викторович": 1,
-      "Кийко Игорь Александрович": 8,
-      "Кискин Степан Степанович": 2,
-      "Паша Андрей Викторович": 0,
-      "Першиков Юрий Александрович": 1,
-      "Свистунов Александр Григорьевич": 1,
-      "Эмиров Рустем": 8
+      "gas:candidate-vibid:4934014106983": 4,
+      "gas:candidate-vibid:4934014106995": 128,
+      "gas:candidate-vibid:4934014107127": 1,
+      "gas:candidate-vibid:4934014106464": 8,
+      "gas:candidate-vibid:4934014106702": 2,
+      "gas:candidate-vibid:4934014106827": 0,
+      "gas:candidate-vibid:4934014107022": 1,
+      "gas:candidate-vibid:4934014106933": 1,
+      "gas:candidate-vibid:4934014106911": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105968&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105968&type=464",
@@ -6061,15 +6061,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 0,
-      "Бахарев Константин Михайлович": 98,
-      "Воропай Михаил Викторович": 3,
-      "Кийко Игорь Александрович": 4,
-      "Кискин Степан Степанович": 1,
-      "Паша Андрей Викторович": 2,
-      "Першиков Юрий Александрович": 2,
-      "Свистунов Александр Григорьевич": 0,
-      "Эмиров Рустем": 2
+      "gas:candidate-vibid:4934014106983": 0,
+      "gas:candidate-vibid:4934014106995": 98,
+      "gas:candidate-vibid:4934014107127": 3,
+      "gas:candidate-vibid:4934014106464": 4,
+      "gas:candidate-vibid:4934014106702": 1,
+      "gas:candidate-vibid:4934014106827": 2,
+      "gas:candidate-vibid:4934014107022": 2,
+      "gas:candidate-vibid:4934014106933": 0,
+      "gas:candidate-vibid:4934014106911": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105968&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105968&type=464",
@@ -6120,15 +6120,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 3,
-      "Бахарев Константин Михайлович": 184,
-      "Воропай Михаил Викторович": 1,
-      "Кийко Игорь Александрович": 3,
-      "Кискин Степан Степанович": 0,
-      "Паша Андрей Викторович": 0,
-      "Першиков Юрий Александрович": 0,
-      "Свистунов Александр Григорьевич": 0,
-      "Эмиров Рустем": 9
+      "gas:candidate-vibid:4934014106983": 3,
+      "gas:candidate-vibid:4934014106995": 184,
+      "gas:candidate-vibid:4934014107127": 1,
+      "gas:candidate-vibid:4934014106464": 3,
+      "gas:candidate-vibid:4934014106702": 0,
+      "gas:candidate-vibid:4934014106827": 0,
+      "gas:candidate-vibid:4934014107022": 0,
+      "gas:candidate-vibid:4934014106933": 0,
+      "gas:candidate-vibid:4934014106911": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105968&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105968&type=464",
@@ -6179,15 +6179,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 7,
-      "Бахарев Константин Михайлович": 499,
-      "Воропай Михаил Викторович": 7,
-      "Кийко Игорь Александрович": 17,
-      "Кискин Степан Степанович": 1,
-      "Паша Андрей Викторович": 2,
-      "Першиков Юрий Александрович": 5,
-      "Свистунов Александр Григорьевич": 5,
-      "Эмиров Рустем": 14
+      "gas:candidate-vibid:4934014106983": 7,
+      "gas:candidate-vibid:4934014106995": 499,
+      "gas:candidate-vibid:4934014107127": 7,
+      "gas:candidate-vibid:4934014106464": 17,
+      "gas:candidate-vibid:4934014106702": 1,
+      "gas:candidate-vibid:4934014106827": 2,
+      "gas:candidate-vibid:4934014107022": 5,
+      "gas:candidate-vibid:4934014106933": 5,
+      "gas:candidate-vibid:4934014106911": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105968&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105968&type=464",
@@ -6238,15 +6238,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 4,
-      "Бахарев Константин Михайлович": 103,
-      "Воропай Михаил Викторович": 1,
-      "Кийко Игорь Александрович": 1,
-      "Кискин Степан Степанович": 2,
-      "Паша Андрей Викторович": 0,
-      "Першиков Юрий Александрович": 0,
-      "Свистунов Александр Григорьевич": 0,
-      "Эмиров Рустем": 2
+      "gas:candidate-vibid:4934014106983": 4,
+      "gas:candidate-vibid:4934014106995": 103,
+      "gas:candidate-vibid:4934014107127": 1,
+      "gas:candidate-vibid:4934014106464": 1,
+      "gas:candidate-vibid:4934014106702": 2,
+      "gas:candidate-vibid:4934014106827": 0,
+      "gas:candidate-vibid:4934014107022": 0,
+      "gas:candidate-vibid:4934014106933": 0,
+      "gas:candidate-vibid:4934014106911": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105968&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105968&type=464",
@@ -6297,15 +6297,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 23,
-      "Бахарев Константин Михайлович": 466,
-      "Воропай Михаил Викторович": 34,
-      "Кийко Игорь Александрович": 33,
-      "Кискин Степан Степанович": 14,
-      "Паша Андрей Викторович": 6,
-      "Першиков Юрий Александрович": 3,
-      "Свистунов Александр Григорьевич": 3,
-      "Эмиров Рустем": 21
+      "gas:candidate-vibid:4934014106983": 23,
+      "gas:candidate-vibid:4934014106995": 466,
+      "gas:candidate-vibid:4934014107127": 34,
+      "gas:candidate-vibid:4934014106464": 33,
+      "gas:candidate-vibid:4934014106702": 14,
+      "gas:candidate-vibid:4934014106827": 6,
+      "gas:candidate-vibid:4934014107022": 3,
+      "gas:candidate-vibid:4934014106933": 3,
+      "gas:candidate-vibid:4934014106911": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105968&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105968&type=464",
@@ -6356,15 +6356,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 10,
-      "Бахарев Константин Михайлович": 207,
-      "Воропай Михаил Викторович": 7,
-      "Кийко Игорь Александрович": 11,
-      "Кискин Степан Степанович": 1,
-      "Паша Андрей Викторович": 1,
-      "Першиков Юрий Александрович": 2,
-      "Свистунов Александр Григорьевич": 0,
-      "Эмиров Рустем": 28
+      "gas:candidate-vibid:4934014106983": 10,
+      "gas:candidate-vibid:4934014106995": 207,
+      "gas:candidate-vibid:4934014107127": 7,
+      "gas:candidate-vibid:4934014106464": 11,
+      "gas:candidate-vibid:4934014106702": 1,
+      "gas:candidate-vibid:4934014106827": 1,
+      "gas:candidate-vibid:4934014107022": 2,
+      "gas:candidate-vibid:4934014106933": 0,
+      "gas:candidate-vibid:4934014106911": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105968&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105968&type=464",
@@ -6415,15 +6415,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 36,
-      "Бахарев Константин Михайлович": 669,
-      "Воропай Михаил Викторович": 15,
-      "Кийко Игорь Александрович": 38,
-      "Кискин Степан Степанович": 23,
-      "Паша Андрей Викторович": 6,
-      "Першиков Юрий Александрович": 3,
-      "Свистунов Александр Григорьевич": 0,
-      "Эмиров Рустем": 18
+      "gas:candidate-vibid:4934014106983": 36,
+      "gas:candidate-vibid:4934014106995": 669,
+      "gas:candidate-vibid:4934014107127": 15,
+      "gas:candidate-vibid:4934014106464": 38,
+      "gas:candidate-vibid:4934014106702": 23,
+      "gas:candidate-vibid:4934014106827": 6,
+      "gas:candidate-vibid:4934014107022": 3,
+      "gas:candidate-vibid:4934014106933": 0,
+      "gas:candidate-vibid:4934014106911": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105968&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105968&type=464",
@@ -6474,15 +6474,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 11,
-      "Бахарев Константин Михайлович": 314,
-      "Воропай Михаил Викторович": 13,
-      "Кийко Игорь Александрович": 8,
-      "Кискин Степан Степанович": 2,
-      "Паша Андрей Викторович": 0,
-      "Першиков Юрий Александрович": 3,
-      "Свистунов Александр Григорьевич": 2,
-      "Эмиров Рустем": 19
+      "gas:candidate-vibid:4934014106983": 11,
+      "gas:candidate-vibid:4934014106995": 314,
+      "gas:candidate-vibid:4934014107127": 13,
+      "gas:candidate-vibid:4934014106464": 8,
+      "gas:candidate-vibid:4934014106702": 2,
+      "gas:candidate-vibid:4934014106827": 0,
+      "gas:candidate-vibid:4934014107022": 3,
+      "gas:candidate-vibid:4934014106933": 2,
+      "gas:candidate-vibid:4934014106911": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105968&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105968&type=464",
@@ -6533,15 +6533,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 14,
-      "Бахарев Константин Михайлович": 443,
-      "Воропай Михаил Викторович": 9,
-      "Кийко Игорь Александрович": 29,
-      "Кискин Степан Степанович": 10,
-      "Паша Андрей Викторович": 0,
-      "Першиков Юрий Александрович": 0,
-      "Свистунов Александр Григорьевич": 2,
-      "Эмиров Рустем": 29
+      "gas:candidate-vibid:4934014106983": 14,
+      "gas:candidate-vibid:4934014106995": 443,
+      "gas:candidate-vibid:4934014107127": 9,
+      "gas:candidate-vibid:4934014106464": 29,
+      "gas:candidate-vibid:4934014106702": 10,
+      "gas:candidate-vibid:4934014106827": 0,
+      "gas:candidate-vibid:4934014107022": 0,
+      "gas:candidate-vibid:4934014106933": 2,
+      "gas:candidate-vibid:4934014106911": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105968&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105968&type=464",
@@ -6592,15 +6592,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 4,
-      "Бахарев Константин Михайлович": 208,
-      "Воропай Михаил Викторович": 9,
-      "Кийко Игорь Александрович": 14,
-      "Кискин Степан Степанович": 8,
-      "Паша Андрей Викторович": 1,
-      "Першиков Юрий Александрович": 0,
-      "Свистунов Александр Григорьевич": 1,
-      "Эмиров Рустем": 13
+      "gas:candidate-vibid:4934014106983": 4,
+      "gas:candidate-vibid:4934014106995": 208,
+      "gas:candidate-vibid:4934014107127": 9,
+      "gas:candidate-vibid:4934014106464": 14,
+      "gas:candidate-vibid:4934014106702": 8,
+      "gas:candidate-vibid:4934014106827": 1,
+      "gas:candidate-vibid:4934014107022": 0,
+      "gas:candidate-vibid:4934014106933": 1,
+      "gas:candidate-vibid:4934014106911": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105968&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105968&type=464",
@@ -6651,15 +6651,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 3,
-      "Бахарев Константин Михайлович": 554,
-      "Воропай Михаил Викторович": 4,
-      "Кийко Игорь Александрович": 14,
-      "Кискин Степан Степанович": 6,
-      "Паша Андрей Викторович": 2,
-      "Першиков Юрий Александрович": 0,
-      "Свистунов Александр Григорьевич": 1,
-      "Эмиров Рустем": 24
+      "gas:candidate-vibid:4934014106983": 3,
+      "gas:candidate-vibid:4934014106995": 554,
+      "gas:candidate-vibid:4934014107127": 4,
+      "gas:candidate-vibid:4934014106464": 14,
+      "gas:candidate-vibid:4934014106702": 6,
+      "gas:candidate-vibid:4934014106827": 2,
+      "gas:candidate-vibid:4934014107022": 0,
+      "gas:candidate-vibid:4934014106933": 1,
+      "gas:candidate-vibid:4934014106911": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105968&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105968&type=464",
@@ -6710,15 +6710,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 10,
-      "Бахарев Константин Михайлович": 339,
-      "Воропай Михаил Викторович": 5,
-      "Кийко Игорь Александрович": 50,
-      "Кискин Степан Степанович": 35,
-      "Паша Андрей Викторович": 4,
-      "Першиков Юрий Александрович": 0,
-      "Свистунов Александр Григорьевич": 0,
-      "Эмиров Рустем": 4
+      "gas:candidate-vibid:4934014106983": 10,
+      "gas:candidate-vibid:4934014106995": 339,
+      "gas:candidate-vibid:4934014107127": 5,
+      "gas:candidate-vibid:4934014106464": 50,
+      "gas:candidate-vibid:4934014106702": 35,
+      "gas:candidate-vibid:4934014106827": 4,
+      "gas:candidate-vibid:4934014107022": 0,
+      "gas:candidate-vibid:4934014106933": 0,
+      "gas:candidate-vibid:4934014106911": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105968&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105968&type=464",
@@ -6769,15 +6769,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 10,
-      "Бахарев Константин Михайлович": 548,
-      "Воропай Михаил Викторович": 14,
-      "Кийко Игорь Александрович": 25,
-      "Кискин Степан Степанович": 17,
-      "Паша Андрей Викторович": 6,
-      "Першиков Юрий Александрович": 2,
-      "Свистунов Александр Григорьевич": 1,
-      "Эмиров Рустем": 22
+      "gas:candidate-vibid:4934014106983": 10,
+      "gas:candidate-vibid:4934014106995": 548,
+      "gas:candidate-vibid:4934014107127": 14,
+      "gas:candidate-vibid:4934014106464": 25,
+      "gas:candidate-vibid:4934014106702": 17,
+      "gas:candidate-vibid:4934014106827": 6,
+      "gas:candidate-vibid:4934014107022": 2,
+      "gas:candidate-vibid:4934014106933": 1,
+      "gas:candidate-vibid:4934014106911": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105968&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105968&type=464",
@@ -6828,15 +6828,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 8,
-      "Бахарев Константин Михайлович": 155,
-      "Воропай Михаил Викторович": 6,
-      "Кийко Игорь Александрович": 13,
-      "Кискин Степан Степанович": 9,
-      "Паша Андрей Викторович": 2,
-      "Першиков Юрий Александрович": 0,
-      "Свистунов Александр Григорьевич": 0,
-      "Эмиров Рустем": 11
+      "gas:candidate-vibid:4934014106983": 8,
+      "gas:candidate-vibid:4934014106995": 155,
+      "gas:candidate-vibid:4934014107127": 6,
+      "gas:candidate-vibid:4934014106464": 13,
+      "gas:candidate-vibid:4934014106702": 9,
+      "gas:candidate-vibid:4934014106827": 2,
+      "gas:candidate-vibid:4934014107022": 0,
+      "gas:candidate-vibid:4934014106933": 0,
+      "gas:candidate-vibid:4934014106911": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105968&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105968&type=464",
@@ -6887,15 +6887,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 33,
-      "Бахарев Константин Михайлович": 599,
-      "Воропай Михаил Викторович": 15,
-      "Кийко Игорь Александрович": 35,
-      "Кискин Степан Степанович": 14,
-      "Паша Андрей Викторович": 6,
-      "Першиков Юрий Александрович": 7,
-      "Свистунов Александр Григорьевич": 5,
-      "Эмиров Рустем": 16
+      "gas:candidate-vibid:4934014106983": 33,
+      "gas:candidate-vibid:4934014106995": 599,
+      "gas:candidate-vibid:4934014107127": 15,
+      "gas:candidate-vibid:4934014106464": 35,
+      "gas:candidate-vibid:4934014106702": 14,
+      "gas:candidate-vibid:4934014106827": 6,
+      "gas:candidate-vibid:4934014107022": 7,
+      "gas:candidate-vibid:4934014106933": 5,
+      "gas:candidate-vibid:4934014106911": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105968&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105968&type=464",
@@ -6946,15 +6946,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 23,
-      "Бахарев Константин Михайлович": 705,
-      "Воропай Михаил Викторович": 12,
-      "Кийко Игорь Александрович": 27,
-      "Кискин Степан Степанович": 8,
-      "Паша Андрей Викторович": 11,
-      "Першиков Юрий Александрович": 3,
-      "Свистунов Александр Григорьевич": 2,
-      "Эмиров Рустем": 38
+      "gas:candidate-vibid:4934014106983": 23,
+      "gas:candidate-vibid:4934014106995": 705,
+      "gas:candidate-vibid:4934014107127": 12,
+      "gas:candidate-vibid:4934014106464": 27,
+      "gas:candidate-vibid:4934014106702": 8,
+      "gas:candidate-vibid:4934014106827": 11,
+      "gas:candidate-vibid:4934014107022": 3,
+      "gas:candidate-vibid:4934014106933": 2,
+      "gas:candidate-vibid:4934014106911": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105968&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105968&type=464",
@@ -7005,15 +7005,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 14,
-      "Бахарев Константин Михайлович": 292,
-      "Воропай Михаил Викторович": 1,
-      "Кийко Игорь Александрович": 13,
-      "Кискин Степан Степанович": 2,
-      "Паша Андрей Викторович": 8,
-      "Першиков Юрий Александрович": 1,
-      "Свистунов Александр Григорьевич": 3,
-      "Эмиров Рустем": 15
+      "gas:candidate-vibid:4934014106983": 14,
+      "gas:candidate-vibid:4934014106995": 292,
+      "gas:candidate-vibid:4934014107127": 1,
+      "gas:candidate-vibid:4934014106464": 13,
+      "gas:candidate-vibid:4934014106702": 2,
+      "gas:candidate-vibid:4934014106827": 8,
+      "gas:candidate-vibid:4934014107022": 1,
+      "gas:candidate-vibid:4934014106933": 3,
+      "gas:candidate-vibid:4934014106911": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105968&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105968&type=464",
@@ -7064,15 +7064,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 1,
-      "Бахарев Константин Михайлович": 102,
-      "Воропай Михаил Викторович": 0,
-      "Кийко Игорь Александрович": 4,
-      "Кискин Степан Степанович": 1,
-      "Паша Андрей Викторович": 0,
-      "Першиков Юрий Александрович": 0,
-      "Свистунов Александр Григорьевич": 0,
-      "Эмиров Рустем": 2
+      "gas:candidate-vibid:4934014106983": 1,
+      "gas:candidate-vibid:4934014106995": 102,
+      "gas:candidate-vibid:4934014107127": 0,
+      "gas:candidate-vibid:4934014106464": 4,
+      "gas:candidate-vibid:4934014106702": 1,
+      "gas:candidate-vibid:4934014106827": 0,
+      "gas:candidate-vibid:4934014107022": 0,
+      "gas:candidate-vibid:4934014106933": 0,
+      "gas:candidate-vibid:4934014106911": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105968&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105968&type=464",
@@ -7123,15 +7123,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 11,
-      "Бахарев Константин Михайлович": 728,
-      "Воропай Михаил Викторович": 0,
-      "Кийко Игорь Александрович": 4,
-      "Кискин Степан Степанович": 33,
-      "Паша Андрей Викторович": 6,
-      "Першиков Юрий Александрович": 0,
-      "Свистунов Александр Григорьевич": 0,
-      "Эмиров Рустем": 17
+      "gas:candidate-vibid:4934014106983": 11,
+      "gas:candidate-vibid:4934014106995": 728,
+      "gas:candidate-vibid:4934014107127": 0,
+      "gas:candidate-vibid:4934014106464": 4,
+      "gas:candidate-vibid:4934014106702": 33,
+      "gas:candidate-vibid:4934014106827": 6,
+      "gas:candidate-vibid:4934014107022": 0,
+      "gas:candidate-vibid:4934014106933": 0,
+      "gas:candidate-vibid:4934014106911": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105968&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105968&type=464",
@@ -7182,15 +7182,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 28,
-      "Бахарев Константин Михайлович": 465,
-      "Воропай Михаил Викторович": 26,
-      "Кийко Игорь Александрович": 38,
-      "Кискин Степан Степанович": 8,
-      "Паша Андрей Викторович": 7,
-      "Першиков Юрий Александрович": 3,
-      "Свистунов Александр Григорьевич": 3,
-      "Эмиров Рустем": 54
+      "gas:candidate-vibid:4934014106983": 28,
+      "gas:candidate-vibid:4934014106995": 465,
+      "gas:candidate-vibid:4934014107127": 26,
+      "gas:candidate-vibid:4934014106464": 38,
+      "gas:candidate-vibid:4934014106702": 8,
+      "gas:candidate-vibid:4934014106827": 7,
+      "gas:candidate-vibid:4934014107022": 3,
+      "gas:candidate-vibid:4934014106933": 3,
+      "gas:candidate-vibid:4934014106911": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105968&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105968&type=464",
@@ -7241,15 +7241,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 12,
-      "Бахарев Константин Михайлович": 689,
-      "Воропай Михаил Викторович": 4,
-      "Кийко Игорь Александрович": 18,
-      "Кискин Степан Степанович": 12,
-      "Паша Андрей Викторович": 2,
-      "Першиков Юрий Александрович": 1,
-      "Свистунов Александр Григорьевич": 0,
-      "Эмиров Рустем": 39
+      "gas:candidate-vibid:4934014106983": 12,
+      "gas:candidate-vibid:4934014106995": 689,
+      "gas:candidate-vibid:4934014107127": 4,
+      "gas:candidate-vibid:4934014106464": 18,
+      "gas:candidate-vibid:4934014106702": 12,
+      "gas:candidate-vibid:4934014106827": 2,
+      "gas:candidate-vibid:4934014107022": 1,
+      "gas:candidate-vibid:4934014106933": 0,
+      "gas:candidate-vibid:4934014106911": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105968&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105968&type=464",
@@ -7300,15 +7300,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 32,
-      "Бахарев Константин Михайлович": 539,
-      "Воропай Михаил Викторович": 26,
-      "Кийко Игорь Александрович": 68,
-      "Кискин Степан Степанович": 21,
-      "Паша Андрей Викторович": 9,
-      "Першиков Юрий Александрович": 5,
-      "Свистунов Александр Григорьевич": 1,
-      "Эмиров Рустем": 8
+      "gas:candidate-vibid:4934014106983": 32,
+      "gas:candidate-vibid:4934014106995": 539,
+      "gas:candidate-vibid:4934014107127": 26,
+      "gas:candidate-vibid:4934014106464": 68,
+      "gas:candidate-vibid:4934014106702": 21,
+      "gas:candidate-vibid:4934014106827": 9,
+      "gas:candidate-vibid:4934014107022": 5,
+      "gas:candidate-vibid:4934014106933": 1,
+      "gas:candidate-vibid:4934014106911": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105968&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105968&type=464",
@@ -7359,15 +7359,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 19,
-      "Бахарев Константин Михайлович": 385,
-      "Воропай Михаил Викторович": 13,
-      "Кийко Игорь Александрович": 33,
-      "Кискин Степан Степанович": 12,
-      "Паша Андрей Викторович": 11,
-      "Першиков Юрий Александрович": 1,
-      "Свистунов Александр Григорьевич": 3,
-      "Эмиров Рустем": 6
+      "gas:candidate-vibid:4934014106983": 19,
+      "gas:candidate-vibid:4934014106995": 385,
+      "gas:candidate-vibid:4934014107127": 13,
+      "gas:candidate-vibid:4934014106464": 33,
+      "gas:candidate-vibid:4934014106702": 12,
+      "gas:candidate-vibid:4934014106827": 11,
+      "gas:candidate-vibid:4934014107022": 1,
+      "gas:candidate-vibid:4934014106933": 3,
+      "gas:candidate-vibid:4934014106911": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105968&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105968&type=464",
@@ -7418,15 +7418,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 43,
-      "Бахарев Константин Михайлович": 539,
-      "Воропай Михаил Викторович": 14,
-      "Кийко Игорь Александрович": 60,
-      "Кискин Степан Степанович": 18,
-      "Паша Андрей Викторович": 7,
-      "Першиков Юрий Александрович": 3,
-      "Свистунов Александр Григорьевич": 3,
-      "Эмиров Рустем": 9
+      "gas:candidate-vibid:4934014106983": 43,
+      "gas:candidate-vibid:4934014106995": 539,
+      "gas:candidate-vibid:4934014107127": 14,
+      "gas:candidate-vibid:4934014106464": 60,
+      "gas:candidate-vibid:4934014106702": 18,
+      "gas:candidate-vibid:4934014106827": 7,
+      "gas:candidate-vibid:4934014107022": 3,
+      "gas:candidate-vibid:4934014106933": 3,
+      "gas:candidate-vibid:4934014106911": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105968&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105968&type=464",
@@ -7477,15 +7477,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 17,
-      "Бахарев Константин Михайлович": 364,
-      "Воропай Михаил Викторович": 10,
-      "Кийко Игорь Александрович": 40,
-      "Кискин Степан Степанович": 14,
-      "Паша Андрей Викторович": 18,
-      "Першиков Юрий Александрович": 1,
-      "Свистунов Александр Григорьевич": 0,
-      "Эмиров Рустем": 4
+      "gas:candidate-vibid:4934014106983": 17,
+      "gas:candidate-vibid:4934014106995": 364,
+      "gas:candidate-vibid:4934014107127": 10,
+      "gas:candidate-vibid:4934014106464": 40,
+      "gas:candidate-vibid:4934014106702": 14,
+      "gas:candidate-vibid:4934014106827": 18,
+      "gas:candidate-vibid:4934014107022": 1,
+      "gas:candidate-vibid:4934014106933": 0,
+      "gas:candidate-vibid:4934014106911": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105968&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105968&type=464",
@@ -7536,15 +7536,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 8,
-      "Бахарев Константин Михайлович": 317,
-      "Воропай Михаил Викторович": 13,
-      "Кийко Игорь Александрович": 18,
-      "Кискин Степан Степанович": 8,
-      "Паша Андрей Викторович": 6,
-      "Першиков Юрий Александрович": 4,
-      "Свистунов Александр Григорьевич": 2,
-      "Эмиров Рустем": 12
+      "gas:candidate-vibid:4934014106983": 8,
+      "gas:candidate-vibid:4934014106995": 317,
+      "gas:candidate-vibid:4934014107127": 13,
+      "gas:candidate-vibid:4934014106464": 18,
+      "gas:candidate-vibid:4934014106702": 8,
+      "gas:candidate-vibid:4934014106827": 6,
+      "gas:candidate-vibid:4934014107022": 4,
+      "gas:candidate-vibid:4934014106933": 2,
+      "gas:candidate-vibid:4934014106911": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105968&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105968&type=464",
@@ -7595,15 +7595,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 17,
-      "Бахарев Константин Михайлович": 363,
-      "Воропай Михаил Викторович": 4,
-      "Кийко Игорь Александрович": 18,
-      "Кискин Степан Степанович": 3,
-      "Паша Андрей Викторович": 4,
-      "Першиков Юрий Александрович": 0,
-      "Свистунов Александр Григорьевич": 0,
-      "Эмиров Рустем": 15
+      "gas:candidate-vibid:4934014106983": 17,
+      "gas:candidate-vibid:4934014106995": 363,
+      "gas:candidate-vibid:4934014107127": 4,
+      "gas:candidate-vibid:4934014106464": 18,
+      "gas:candidate-vibid:4934014106702": 3,
+      "gas:candidate-vibid:4934014106827": 4,
+      "gas:candidate-vibid:4934014107022": 0,
+      "gas:candidate-vibid:4934014106933": 0,
+      "gas:candidate-vibid:4934014106911": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105968&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105968&type=464",
@@ -7654,15 +7654,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 18,
-      "Бахарев Константин Михайлович": 339,
-      "Воропай Михаил Викторович": 12,
-      "Кийко Игорь Александрович": 25,
-      "Кискин Степан Степанович": 49,
-      "Паша Андрей Викторович": 15,
-      "Першиков Юрий Александрович": 3,
-      "Свистунов Александр Григорьевич": 1,
-      "Эмиров Рустем": 27
+      "gas:candidate-vibid:4934014106983": 18,
+      "gas:candidate-vibid:4934014106995": 339,
+      "gas:candidate-vibid:4934014107127": 12,
+      "gas:candidate-vibid:4934014106464": 25,
+      "gas:candidate-vibid:4934014106702": 49,
+      "gas:candidate-vibid:4934014106827": 15,
+      "gas:candidate-vibid:4934014107022": 3,
+      "gas:candidate-vibid:4934014106933": 1,
+      "gas:candidate-vibid:4934014106911": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105968&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105968&type=464",
@@ -7713,15 +7713,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 8,
-      "Бахарев Константин Михайлович": 251,
-      "Воропай Михаил Викторович": 5,
-      "Кийко Игорь Александрович": 12,
-      "Кискин Степан Степанович": 3,
-      "Паша Андрей Викторович": 2,
-      "Першиков Юрий Александрович": 0,
-      "Свистунов Александр Григорьевич": 2,
-      "Эмиров Рустем": 28
+      "gas:candidate-vibid:4934014106983": 8,
+      "gas:candidate-vibid:4934014106995": 251,
+      "gas:candidate-vibid:4934014107127": 5,
+      "gas:candidate-vibid:4934014106464": 12,
+      "gas:candidate-vibid:4934014106702": 3,
+      "gas:candidate-vibid:4934014106827": 2,
+      "gas:candidate-vibid:4934014107022": 0,
+      "gas:candidate-vibid:4934014106933": 2,
+      "gas:candidate-vibid:4934014106911": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105968&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105968&type=464",
@@ -7772,15 +7772,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 7,
-      "Бахарев Константин Михайлович": 259,
-      "Воропай Михаил Викторович": 9,
-      "Кийко Игорь Александрович": 9,
-      "Кискин Степан Степанович": 4,
-      "Паша Андрей Викторович": 7,
-      "Першиков Юрий Александрович": 0,
-      "Свистунов Александр Григорьевич": 0,
-      "Эмиров Рустем": 21
+      "gas:candidate-vibid:4934014106983": 7,
+      "gas:candidate-vibid:4934014106995": 259,
+      "gas:candidate-vibid:4934014107127": 9,
+      "gas:candidate-vibid:4934014106464": 9,
+      "gas:candidate-vibid:4934014106702": 4,
+      "gas:candidate-vibid:4934014106827": 7,
+      "gas:candidate-vibid:4934014107022": 0,
+      "gas:candidate-vibid:4934014106933": 0,
+      "gas:candidate-vibid:4934014106911": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105968&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105968&type=464",
@@ -7831,15 +7831,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 10,
-      "Бахарев Константин Михайлович": 254,
-      "Воропай Михаил Викторович": 14,
-      "Кийко Игорь Александрович": 15,
-      "Кискин Степан Степанович": 5,
-      "Паша Андрей Викторович": 4,
-      "Першиков Юрий Александрович": 3,
-      "Свистунов Александр Григорьевич": 0,
-      "Эмиров Рустем": 20
+      "gas:candidate-vibid:4934014106983": 10,
+      "gas:candidate-vibid:4934014106995": 254,
+      "gas:candidate-vibid:4934014107127": 14,
+      "gas:candidate-vibid:4934014106464": 15,
+      "gas:candidate-vibid:4934014106702": 5,
+      "gas:candidate-vibid:4934014106827": 4,
+      "gas:candidate-vibid:4934014107022": 3,
+      "gas:candidate-vibid:4934014106933": 0,
+      "gas:candidate-vibid:4934014106911": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105968&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105968&type=464",
@@ -7890,15 +7890,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 4,
-      "Бахарев Константин Михайлович": 136,
-      "Воропай Михаил Викторович": 7,
-      "Кийко Игорь Александрович": 0,
-      "Кискин Степан Степанович": 1,
-      "Паша Андрей Викторович": 1,
-      "Першиков Юрий Александрович": 0,
-      "Свистунов Александр Григорьевич": 1,
-      "Эмиров Рустем": 7
+      "gas:candidate-vibid:4934014106983": 4,
+      "gas:candidate-vibid:4934014106995": 136,
+      "gas:candidate-vibid:4934014107127": 7,
+      "gas:candidate-vibid:4934014106464": 0,
+      "gas:candidate-vibid:4934014106702": 1,
+      "gas:candidate-vibid:4934014106827": 1,
+      "gas:candidate-vibid:4934014107022": 0,
+      "gas:candidate-vibid:4934014106933": 1,
+      "gas:candidate-vibid:4934014106911": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105968&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105968&type=464",
@@ -7949,15 +7949,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 27,
-      "Бахарев Константин Михайлович": 765,
-      "Воропай Михаил Викторович": 13,
-      "Кийко Игорь Александрович": 58,
-      "Кискин Степан Степанович": 42,
-      "Паша Андрей Викторович": 9,
-      "Першиков Юрий Александрович": 3,
-      "Свистунов Александр Григорьевич": 3,
-      "Эмиров Рустем": 33
+      "gas:candidate-vibid:4934014106983": 27,
+      "gas:candidate-vibid:4934014106995": 765,
+      "gas:candidate-vibid:4934014107127": 13,
+      "gas:candidate-vibid:4934014106464": 58,
+      "gas:candidate-vibid:4934014106702": 42,
+      "gas:candidate-vibid:4934014106827": 9,
+      "gas:candidate-vibid:4934014107022": 3,
+      "gas:candidate-vibid:4934014106933": 3,
+      "gas:candidate-vibid:4934014106911": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105968&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105968&type=464",
@@ -8008,15 +8008,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 13,
-      "Бахарев Константин Михайлович": 198,
-      "Воропай Михаил Викторович": 11,
-      "Кийко Игорь Александрович": 15,
-      "Кискин Степан Степанович": 16,
-      "Паша Андрей Викторович": 3,
-      "Першиков Юрий Александрович": 1,
-      "Свистунов Александр Григорьевич": 1,
-      "Эмиров Рустем": 21
+      "gas:candidate-vibid:4934014106983": 13,
+      "gas:candidate-vibid:4934014106995": 198,
+      "gas:candidate-vibid:4934014107127": 11,
+      "gas:candidate-vibid:4934014106464": 15,
+      "gas:candidate-vibid:4934014106702": 16,
+      "gas:candidate-vibid:4934014106827": 3,
+      "gas:candidate-vibid:4934014107022": 1,
+      "gas:candidate-vibid:4934014106933": 1,
+      "gas:candidate-vibid:4934014106911": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105968&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105968&type=464",
@@ -8067,15 +8067,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 47,
-      "Бахарев Константин Михайлович": 686,
-      "Воропай Михаил Викторович": 11,
-      "Кийко Игорь Александрович": 52,
-      "Кискин Степан Степанович": 51,
-      "Паша Андрей Викторович": 8,
-      "Першиков Юрий Александрович": 2,
-      "Свистунов Александр Григорьевич": 6,
-      "Эмиров Рустем": 46
+      "gas:candidate-vibid:4934014106983": 47,
+      "gas:candidate-vibid:4934014106995": 686,
+      "gas:candidate-vibid:4934014107127": 11,
+      "gas:candidate-vibid:4934014106464": 52,
+      "gas:candidate-vibid:4934014106702": 51,
+      "gas:candidate-vibid:4934014106827": 8,
+      "gas:candidate-vibid:4934014107022": 2,
+      "gas:candidate-vibid:4934014106933": 6,
+      "gas:candidate-vibid:4934014106911": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105968&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105968&type=464",
@@ -8126,15 +8126,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 28,
-      "Бахарев Константин Михайлович": 367,
-      "Воропай Михаил Викторович": 14,
-      "Кийко Игорь Александрович": 28,
-      "Кискин Степан Степанович": 31,
-      "Паша Андрей Викторович": 19,
-      "Першиков Юрий Александрович": 6,
-      "Свистунов Александр Григорьевич": 0,
-      "Эмиров Рустем": 27
+      "gas:candidate-vibid:4934014106983": 28,
+      "gas:candidate-vibid:4934014106995": 367,
+      "gas:candidate-vibid:4934014107127": 14,
+      "gas:candidate-vibid:4934014106464": 28,
+      "gas:candidate-vibid:4934014106702": 31,
+      "gas:candidate-vibid:4934014106827": 19,
+      "gas:candidate-vibid:4934014107022": 6,
+      "gas:candidate-vibid:4934014106933": 0,
+      "gas:candidate-vibid:4934014106911": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105968&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105968&type=464",
@@ -8185,15 +8185,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 9,
-      "Бахарев Константин Михайлович": 188,
-      "Воропай Михаил Викторович": 4,
-      "Кийко Игорь Александрович": 8,
-      "Кискин Степан Степанович": 6,
-      "Паша Андрей Викторович": 2,
-      "Першиков Юрий Александрович": 0,
-      "Свистунов Александр Григорьевич": 0,
-      "Эмиров Рустем": 10
+      "gas:candidate-vibid:4934014106983": 9,
+      "gas:candidate-vibid:4934014106995": 188,
+      "gas:candidate-vibid:4934014107127": 4,
+      "gas:candidate-vibid:4934014106464": 8,
+      "gas:candidate-vibid:4934014106702": 6,
+      "gas:candidate-vibid:4934014106827": 2,
+      "gas:candidate-vibid:4934014107022": 0,
+      "gas:candidate-vibid:4934014106933": 0,
+      "gas:candidate-vibid:4934014106911": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105968&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105968&type=464",
@@ -8244,15 +8244,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 2,
-      "Бахарев Константин Михайлович": 155,
-      "Воропай Михаил Викторович": 3,
-      "Кийко Игорь Александрович": 1,
-      "Кискин Степан Степанович": 1,
-      "Паша Андрей Викторович": 0,
-      "Першиков Юрий Александрович": 1,
-      "Свистунов Александр Григорьевич": 0,
-      "Эмиров Рустем": 5
+      "gas:candidate-vibid:4934014106983": 2,
+      "gas:candidate-vibid:4934014106995": 155,
+      "gas:candidate-vibid:4934014107127": 3,
+      "gas:candidate-vibid:4934014106464": 1,
+      "gas:candidate-vibid:4934014106702": 1,
+      "gas:candidate-vibid:4934014106827": 0,
+      "gas:candidate-vibid:4934014107022": 1,
+      "gas:candidate-vibid:4934014106933": 0,
+      "gas:candidate-vibid:4934014106911": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105968&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105968&type=464",
@@ -8303,15 +8303,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 17,
-      "Бахарев Константин Михайлович": 267,
-      "Воропай Михаил Викторович": 16,
-      "Кийко Игорь Александрович": 20,
-      "Кискин Степан Степанович": 13,
-      "Паша Андрей Викторович": 0,
-      "Першиков Юрий Александрович": 1,
-      "Свистунов Александр Григорьевич": 1,
-      "Эмиров Рустем": 25
+      "gas:candidate-vibid:4934014106983": 17,
+      "gas:candidate-vibid:4934014106995": 267,
+      "gas:candidate-vibid:4934014107127": 16,
+      "gas:candidate-vibid:4934014106464": 20,
+      "gas:candidate-vibid:4934014106702": 13,
+      "gas:candidate-vibid:4934014106827": 0,
+      "gas:candidate-vibid:4934014107022": 1,
+      "gas:candidate-vibid:4934014106933": 1,
+      "gas:candidate-vibid:4934014106911": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105968&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105968&type=464",
@@ -8362,15 +8362,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 34,
-      "Бахарев Константин Михайлович": 655,
-      "Воропай Михаил Викторович": 25,
-      "Кийко Игорь Александрович": 73,
-      "Кискин Степан Степанович": 49,
-      "Паша Андрей Викторович": 17,
-      "Першиков Юрий Александрович": 2,
-      "Свистунов Александр Григорьевич": 1,
-      "Эмиров Рустем": 15
+      "gas:candidate-vibid:4934014106983": 34,
+      "gas:candidate-vibid:4934014106995": 655,
+      "gas:candidate-vibid:4934014107127": 25,
+      "gas:candidate-vibid:4934014106464": 73,
+      "gas:candidate-vibid:4934014106702": 49,
+      "gas:candidate-vibid:4934014106827": 17,
+      "gas:candidate-vibid:4934014107022": 2,
+      "gas:candidate-vibid:4934014106933": 1,
+      "gas:candidate-vibid:4934014106911": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105968&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105968&type=464",
@@ -8421,15 +8421,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 12,
-      "Бахарев Константин Михайлович": 199,
-      "Воропай Михаил Викторович": 8,
-      "Кийко Игорь Александрович": 14,
-      "Кискин Степан Степанович": 11,
-      "Паша Андрей Викторович": 6,
-      "Першиков Юрий Александрович": 1,
-      "Свистунов Александр Григорьевич": 1,
-      "Эмиров Рустем": 5
+      "gas:candidate-vibid:4934014106983": 12,
+      "gas:candidate-vibid:4934014106995": 199,
+      "gas:candidate-vibid:4934014107127": 8,
+      "gas:candidate-vibid:4934014106464": 14,
+      "gas:candidate-vibid:4934014106702": 11,
+      "gas:candidate-vibid:4934014106827": 6,
+      "gas:candidate-vibid:4934014107022": 1,
+      "gas:candidate-vibid:4934014106933": 1,
+      "gas:candidate-vibid:4934014106911": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105968&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105968&type=464",
@@ -8480,15 +8480,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 0,
-      "Бахарев Константин Михайлович": 165,
-      "Воропай Михаил Викторович": 7,
-      "Кийко Игорь Александрович": 6,
-      "Кискин Степан Степанович": 9,
-      "Паша Андрей Викторович": 1,
-      "Першиков Юрий Александрович": 0,
-      "Свистунов Александр Григорьевич": 0,
-      "Эмиров Рустем": 0
+      "gas:candidate-vibid:4934014106983": 0,
+      "gas:candidate-vibid:4934014106995": 165,
+      "gas:candidate-vibid:4934014107127": 7,
+      "gas:candidate-vibid:4934014106464": 6,
+      "gas:candidate-vibid:4934014106702": 9,
+      "gas:candidate-vibid:4934014106827": 1,
+      "gas:candidate-vibid:4934014107022": 0,
+      "gas:candidate-vibid:4934014106933": 0,
+      "gas:candidate-vibid:4934014106911": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105968&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105968&type=464",
@@ -8539,15 +8539,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 12,
-      "Бахарев Константин Михайлович": 297,
-      "Воропай Михаил Викторович": 4,
-      "Кийко Игорь Александрович": 26,
-      "Кискин Степан Степанович": 7,
-      "Паша Андрей Викторович": 3,
-      "Першиков Юрий Александрович": 2,
-      "Свистунов Александр Григорьевич": 2,
-      "Эмиров Рустем": 10
+      "gas:candidate-vibid:4934014106983": 12,
+      "gas:candidate-vibid:4934014106995": 297,
+      "gas:candidate-vibid:4934014107127": 4,
+      "gas:candidate-vibid:4934014106464": 26,
+      "gas:candidate-vibid:4934014106702": 7,
+      "gas:candidate-vibid:4934014106827": 3,
+      "gas:candidate-vibid:4934014107022": 2,
+      "gas:candidate-vibid:4934014106933": 2,
+      "gas:candidate-vibid:4934014106911": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105968&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105968&type=464",
@@ -8598,15 +8598,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 32,
-      "Бахарев Константин Михайлович": 493,
-      "Воропай Михаил Викторович": 18,
-      "Кийко Игорь Александрович": 45,
-      "Кискин Степан Степанович": 21,
-      "Паша Андрей Викторович": 32,
-      "Першиков Юрий Александрович": 1,
-      "Свистунов Александр Григорьевич": 5,
-      "Эмиров Рустем": 48
+      "gas:candidate-vibid:4934014106983": 32,
+      "gas:candidate-vibid:4934014106995": 493,
+      "gas:candidate-vibid:4934014107127": 18,
+      "gas:candidate-vibid:4934014106464": 45,
+      "gas:candidate-vibid:4934014106702": 21,
+      "gas:candidate-vibid:4934014106827": 32,
+      "gas:candidate-vibid:4934014107022": 1,
+      "gas:candidate-vibid:4934014106933": 5,
+      "gas:candidate-vibid:4934014106911": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105969&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105969&type=464",
@@ -8657,15 +8657,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 63,
-      "Бахарев Константин Михайлович": 881,
-      "Воропай Михаил Викторович": 45,
-      "Кийко Игорь Александрович": 135,
-      "Кискин Степан Степанович": 69,
-      "Паша Андрей Викторович": 33,
-      "Першиков Юрий Александрович": 5,
-      "Свистунов Александр Григорьевич": 8,
-      "Эмиров Рустем": 12
+      "gas:candidate-vibid:4934014106983": 63,
+      "gas:candidate-vibid:4934014106995": 881,
+      "gas:candidate-vibid:4934014107127": 45,
+      "gas:candidate-vibid:4934014106464": 135,
+      "gas:candidate-vibid:4934014106702": 69,
+      "gas:candidate-vibid:4934014106827": 33,
+      "gas:candidate-vibid:4934014107022": 5,
+      "gas:candidate-vibid:4934014106933": 8,
+      "gas:candidate-vibid:4934014106911": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105969&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105969&type=464",
@@ -8716,15 +8716,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 73,
-      "Бахарев Константин Михайлович": 881,
-      "Воропай Михаил Викторович": 14,
-      "Кийко Игорь Александрович": 110,
-      "Кискин Степан Степанович": 72,
-      "Паша Андрей Викторович": 44,
-      "Першиков Юрий Александрович": 3,
-      "Свистунов Александр Григорьевич": 10,
-      "Эмиров Рустем": 30
+      "gas:candidate-vibid:4934014106983": 73,
+      "gas:candidate-vibid:4934014106995": 881,
+      "gas:candidate-vibid:4934014107127": 14,
+      "gas:candidate-vibid:4934014106464": 110,
+      "gas:candidate-vibid:4934014106702": 72,
+      "gas:candidate-vibid:4934014106827": 44,
+      "gas:candidate-vibid:4934014107022": 3,
+      "gas:candidate-vibid:4934014106933": 10,
+      "gas:candidate-vibid:4934014106911": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105969&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105969&type=464",
@@ -8775,15 +8775,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 30,
-      "Бахарев Константин Михайлович": 397,
-      "Воропай Михаил Викторович": 13,
-      "Кийко Игорь Александрович": 80,
-      "Кискин Степан Степанович": 35,
-      "Паша Андрей Викторович": 25,
-      "Першиков Юрий Александрович": 3,
-      "Свистунов Александр Григорьевич": 5,
-      "Эмиров Рустем": 47
+      "gas:candidate-vibid:4934014106983": 30,
+      "gas:candidate-vibid:4934014106995": 397,
+      "gas:candidate-vibid:4934014107127": 13,
+      "gas:candidate-vibid:4934014106464": 80,
+      "gas:candidate-vibid:4934014106702": 35,
+      "gas:candidate-vibid:4934014106827": 25,
+      "gas:candidate-vibid:4934014107022": 3,
+      "gas:candidate-vibid:4934014106933": 5,
+      "gas:candidate-vibid:4934014106911": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105969&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105969&type=464",
@@ -8834,15 +8834,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 36,
-      "Бахарев Константин Михайлович": 472,
-      "Воропай Михаил Викторович": 13,
-      "Кийко Игорь Александрович": 57,
-      "Кискин Степан Степанович": 26,
-      "Паша Андрей Викторович": 28,
-      "Першиков Юрий Александрович": 8,
-      "Свистунов Александр Григорьевич": 1,
-      "Эмиров Рустем": 27
+      "gas:candidate-vibid:4934014106983": 36,
+      "gas:candidate-vibid:4934014106995": 472,
+      "gas:candidate-vibid:4934014107127": 13,
+      "gas:candidate-vibid:4934014106464": 57,
+      "gas:candidate-vibid:4934014106702": 26,
+      "gas:candidate-vibid:4934014106827": 28,
+      "gas:candidate-vibid:4934014107022": 8,
+      "gas:candidate-vibid:4934014106933": 1,
+      "gas:candidate-vibid:4934014106911": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105969&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105969&type=464",
@@ -8893,15 +8893,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 22,
-      "Бахарев Константин Михайлович": 526,
-      "Воропай Михаил Викторович": 8,
-      "Кийко Игорь Александрович": 102,
-      "Кискин Степан Степанович": 25,
-      "Паша Андрей Викторович": 41,
-      "Першиков Юрий Александрович": 0,
-      "Свистунов Александр Григорьевич": 0,
-      "Эмиров Рустем": 33
+      "gas:candidate-vibid:4934014106983": 22,
+      "gas:candidate-vibid:4934014106995": 526,
+      "gas:candidate-vibid:4934014107127": 8,
+      "gas:candidate-vibid:4934014106464": 102,
+      "gas:candidate-vibid:4934014106702": 25,
+      "gas:candidate-vibid:4934014106827": 41,
+      "gas:candidate-vibid:4934014107022": 0,
+      "gas:candidate-vibid:4934014106933": 0,
+      "gas:candidate-vibid:4934014106911": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105969&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105969&type=464",
@@ -8952,15 +8952,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 14,
-      "Бахарев Константин Михайлович": 512,
-      "Воропай Михаил Викторович": 9,
-      "Кийко Игорь Александрович": 46,
-      "Кискин Степан Степанович": 39,
-      "Паша Андрей Викторович": 50,
-      "Першиков Юрий Александрович": 0,
-      "Свистунов Александр Григорьевич": 3,
-      "Эмиров Рустем": 34
+      "gas:candidate-vibid:4934014106983": 14,
+      "gas:candidate-vibid:4934014106995": 512,
+      "gas:candidate-vibid:4934014107127": 9,
+      "gas:candidate-vibid:4934014106464": 46,
+      "gas:candidate-vibid:4934014106702": 39,
+      "gas:candidate-vibid:4934014106827": 50,
+      "gas:candidate-vibid:4934014107022": 0,
+      "gas:candidate-vibid:4934014106933": 3,
+      "gas:candidate-vibid:4934014106911": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105969&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105969&type=464",
@@ -9011,15 +9011,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 55,
-      "Бахарев Константин Михайлович": 1196,
-      "Воропай Михаил Викторович": 33,
-      "Кийко Игорь Александрович": 99,
-      "Кискин Степан Степанович": 51,
-      "Паша Андрей Викторович": 53,
-      "Першиков Юрий Александрович": 7,
-      "Свистунов Александр Григорьевич": 5,
-      "Эмиров Рустем": 31
+      "gas:candidate-vibid:4934014106983": 55,
+      "gas:candidate-vibid:4934014106995": 1196,
+      "gas:candidate-vibid:4934014107127": 33,
+      "gas:candidate-vibid:4934014106464": 99,
+      "gas:candidate-vibid:4934014106702": 51,
+      "gas:candidate-vibid:4934014106827": 53,
+      "gas:candidate-vibid:4934014107022": 7,
+      "gas:candidate-vibid:4934014106933": 5,
+      "gas:candidate-vibid:4934014106911": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105969&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105969&type=464",
@@ -9070,15 +9070,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 16,
-      "Бахарев Константин Михайлович": 194,
-      "Воропай Михаил Викторович": 4,
-      "Кийко Игорь Александрович": 43,
-      "Кискин Степан Степанович": 6,
-      "Паша Андрей Викторович": 19,
-      "Першиков Юрий Александрович": 1,
-      "Свистунов Александр Григорьевич": 1,
-      "Эмиров Рустем": 45
+      "gas:candidate-vibid:4934014106983": 16,
+      "gas:candidate-vibid:4934014106995": 194,
+      "gas:candidate-vibid:4934014107127": 4,
+      "gas:candidate-vibid:4934014106464": 43,
+      "gas:candidate-vibid:4934014106702": 6,
+      "gas:candidate-vibid:4934014106827": 19,
+      "gas:candidate-vibid:4934014107022": 1,
+      "gas:candidate-vibid:4934014106933": 1,
+      "gas:candidate-vibid:4934014106911": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105969&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105969&type=464",
@@ -9129,15 +9129,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 25,
-      "Бахарев Константин Михайлович": 611,
-      "Воропай Михаил Викторович": 23,
-      "Кийко Игорь Александрович": 37,
-      "Кискин Степан Степанович": 12,
-      "Паша Андрей Викторович": 22,
-      "Першиков Юрий Александрович": 3,
-      "Свистунов Александр Григорьевич": 3,
-      "Эмиров Рустем": 22
+      "gas:candidate-vibid:4934014106983": 25,
+      "gas:candidate-vibid:4934014106995": 611,
+      "gas:candidate-vibid:4934014107127": 23,
+      "gas:candidate-vibid:4934014106464": 37,
+      "gas:candidate-vibid:4934014106702": 12,
+      "gas:candidate-vibid:4934014106827": 22,
+      "gas:candidate-vibid:4934014107022": 3,
+      "gas:candidate-vibid:4934014106933": 3,
+      "gas:candidate-vibid:4934014106911": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105969&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105969&type=464",
@@ -9188,15 +9188,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 15,
-      "Бахарев Константин Михайлович": 630,
-      "Воропай Михаил Викторович": 9,
-      "Кийко Игорь Александрович": 29,
-      "Кискин Степан Степанович": 24,
-      "Паша Андрей Викторович": 15,
-      "Першиков Юрий Александрович": 0,
-      "Свистунов Александр Григорьевич": 0,
-      "Эмиров Рустем": 35
+      "gas:candidate-vibid:4934014106983": 15,
+      "gas:candidate-vibid:4934014106995": 630,
+      "gas:candidate-vibid:4934014107127": 9,
+      "gas:candidate-vibid:4934014106464": 29,
+      "gas:candidate-vibid:4934014106702": 24,
+      "gas:candidate-vibid:4934014106827": 15,
+      "gas:candidate-vibid:4934014107022": 0,
+      "gas:candidate-vibid:4934014106933": 0,
+      "gas:candidate-vibid:4934014106911": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105969&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105969&type=464",
@@ -9247,15 +9247,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 18,
-      "Бахарев Константин Михайлович": 742,
-      "Воропай Михаил Викторович": 49,
-      "Кийко Игорь Александрович": 83,
-      "Кискин Степан Степанович": 59,
-      "Паша Андрей Викторович": 52,
-      "Першиков Юрий Александрович": 0,
-      "Свистунов Александр Григорьевич": 2,
-      "Эмиров Рустем": 15
+      "gas:candidate-vibid:4934014106983": 18,
+      "gas:candidate-vibid:4934014106995": 742,
+      "gas:candidate-vibid:4934014107127": 49,
+      "gas:candidate-vibid:4934014106464": 83,
+      "gas:candidate-vibid:4934014106702": 59,
+      "gas:candidate-vibid:4934014106827": 52,
+      "gas:candidate-vibid:4934014107022": 0,
+      "gas:candidate-vibid:4934014106933": 2,
+      "gas:candidate-vibid:4934014106911": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105969&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105969&type=464",
@@ -9306,15 +9306,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 18,
-      "Бахарев Константин Михайлович": 397,
-      "Воропай Михаил Викторович": 17,
-      "Кийко Игорь Александрович": 39,
-      "Кискин Степан Степанович": 20,
-      "Паша Андрей Викторович": 20,
-      "Першиков Юрий Александрович": 3,
-      "Свистунов Александр Григорьевич": 1,
-      "Эмиров Рустем": 6
+      "gas:candidate-vibid:4934014106983": 18,
+      "gas:candidate-vibid:4934014106995": 397,
+      "gas:candidate-vibid:4934014107127": 17,
+      "gas:candidate-vibid:4934014106464": 39,
+      "gas:candidate-vibid:4934014106702": 20,
+      "gas:candidate-vibid:4934014106827": 20,
+      "gas:candidate-vibid:4934014107022": 3,
+      "gas:candidate-vibid:4934014106933": 1,
+      "gas:candidate-vibid:4934014106911": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105969&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105969&type=464",
@@ -9365,15 +9365,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 19,
-      "Бахарев Константин Михайлович": 650,
-      "Воропай Михаил Викторович": 9,
-      "Кийко Игорь Александрович": 55,
-      "Кискин Степан Степанович": 59,
-      "Паша Андрей Викторович": 61,
-      "Першиков Юрий Александрович": 3,
-      "Свистунов Александр Григорьевич": 0,
-      "Эмиров Рустем": 24
+      "gas:candidate-vibid:4934014106983": 19,
+      "gas:candidate-vibid:4934014106995": 650,
+      "gas:candidate-vibid:4934014107127": 9,
+      "gas:candidate-vibid:4934014106464": 55,
+      "gas:candidate-vibid:4934014106702": 59,
+      "gas:candidate-vibid:4934014106827": 61,
+      "gas:candidate-vibid:4934014107022": 3,
+      "gas:candidate-vibid:4934014106933": 0,
+      "gas:candidate-vibid:4934014106911": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105969&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105969&type=464",
@@ -9424,15 +9424,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 37,
-      "Бахарев Константин Михайлович": 444,
-      "Воропай Михаил Викторович": 7,
-      "Кийко Игорь Александрович": 73,
-      "Кискин Степан Степанович": 18,
-      "Паша Андрей Викторович": 19,
-      "Першиков Юрий Александрович": 5,
-      "Свистунов Александр Григорьевич": 5,
-      "Эмиров Рустем": 12
+      "gas:candidate-vibid:4934014106983": 37,
+      "gas:candidate-vibid:4934014106995": 444,
+      "gas:candidate-vibid:4934014107127": 7,
+      "gas:candidate-vibid:4934014106464": 73,
+      "gas:candidate-vibid:4934014106702": 18,
+      "gas:candidate-vibid:4934014106827": 19,
+      "gas:candidate-vibid:4934014107022": 5,
+      "gas:candidate-vibid:4934014106933": 5,
+      "gas:candidate-vibid:4934014106911": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105969&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105969&type=464",
@@ -9483,15 +9483,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 28,
-      "Бахарев Константин Михайлович": 729,
-      "Воропай Михаил Викторович": 12,
-      "Кийко Игорь Александрович": 68,
-      "Кискин Степан Степанович": 18,
-      "Паша Андрей Викторович": 11,
-      "Першиков Юрий Александрович": 4,
-      "Свистунов Александр Григорьевич": 3,
-      "Эмиров Рустем": 23
+      "gas:candidate-vibid:4934014106983": 28,
+      "gas:candidate-vibid:4934014106995": 729,
+      "gas:candidate-vibid:4934014107127": 12,
+      "gas:candidate-vibid:4934014106464": 68,
+      "gas:candidate-vibid:4934014106702": 18,
+      "gas:candidate-vibid:4934014106827": 11,
+      "gas:candidate-vibid:4934014107022": 4,
+      "gas:candidate-vibid:4934014106933": 3,
+      "gas:candidate-vibid:4934014106911": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105969&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105969&type=464",
@@ -9542,15 +9542,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 27,
-      "Бахарев Константин Михайлович": 257,
-      "Воропай Михаил Викторович": 10,
-      "Кийко Игорь Александрович": 39,
-      "Кискин Степан Степанович": 31,
-      "Паша Андрей Викторович": 14,
-      "Першиков Юрий Александрович": 4,
-      "Свистунов Александр Григорьевич": 3,
-      "Эмиров Рустем": 24
+      "gas:candidate-vibid:4934014106983": 27,
+      "gas:candidate-vibid:4934014106995": 257,
+      "gas:candidate-vibid:4934014107127": 10,
+      "gas:candidate-vibid:4934014106464": 39,
+      "gas:candidate-vibid:4934014106702": 31,
+      "gas:candidate-vibid:4934014106827": 14,
+      "gas:candidate-vibid:4934014107022": 4,
+      "gas:candidate-vibid:4934014106933": 3,
+      "gas:candidate-vibid:4934014106911": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105969&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105969&type=464",
@@ -9601,15 +9601,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 25,
-      "Бахарев Константин Михайлович": 853,
-      "Воропай Михаил Викторович": 23,
-      "Кийко Игорь Александрович": 67,
-      "Кискин Степан Степанович": 40,
-      "Паша Андрей Викторович": 31,
-      "Першиков Юрий Александрович": 2,
-      "Свистунов Александр Григорьевич": 3,
-      "Эмиров Рустем": 2
+      "gas:candidate-vibid:4934014106983": 25,
+      "gas:candidate-vibid:4934014106995": 853,
+      "gas:candidate-vibid:4934014107127": 23,
+      "gas:candidate-vibid:4934014106464": 67,
+      "gas:candidate-vibid:4934014106702": 40,
+      "gas:candidate-vibid:4934014106827": 31,
+      "gas:candidate-vibid:4934014107022": 2,
+      "gas:candidate-vibid:4934014106933": 3,
+      "gas:candidate-vibid:4934014106911": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105969&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105969&type=464",
@@ -9660,15 +9660,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 12,
-      "Бахарев Константин Михайлович": 328,
-      "Воропай Михаил Викторович": 3,
-      "Кийко Игорь Александрович": 26,
-      "Кискин Степан Степанович": 2,
-      "Паша Андрей Викторович": 22,
-      "Першиков Юрий Александрович": 2,
-      "Свистунов Александр Григорьевич": 0,
-      "Эмиров Рустем": 4
+      "gas:candidate-vibid:4934014106983": 12,
+      "gas:candidate-vibid:4934014106995": 328,
+      "gas:candidate-vibid:4934014107127": 3,
+      "gas:candidate-vibid:4934014106464": 26,
+      "gas:candidate-vibid:4934014106702": 2,
+      "gas:candidate-vibid:4934014106827": 22,
+      "gas:candidate-vibid:4934014107022": 2,
+      "gas:candidate-vibid:4934014106933": 0,
+      "gas:candidate-vibid:4934014106911": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105969&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105969&type=464",
@@ -9719,15 +9719,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 16,
-      "Бахарев Константин Михайлович": 609,
-      "Воропай Михаил Викторович": 14,
-      "Кийко Игорь Александрович": 51,
-      "Кискин Степан Степанович": 75,
-      "Паша Андрей Викторович": 38,
-      "Першиков Юрий Александрович": 3,
-      "Свистунов Александр Григорьевич": 1,
-      "Эмиров Рустем": 7
+      "gas:candidate-vibid:4934014106983": 16,
+      "gas:candidate-vibid:4934014106995": 609,
+      "gas:candidate-vibid:4934014107127": 14,
+      "gas:candidate-vibid:4934014106464": 51,
+      "gas:candidate-vibid:4934014106702": 75,
+      "gas:candidate-vibid:4934014106827": 38,
+      "gas:candidate-vibid:4934014107022": 3,
+      "gas:candidate-vibid:4934014106933": 1,
+      "gas:candidate-vibid:4934014106911": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105969&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105969&type=464",
@@ -9778,15 +9778,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 9,
-      "Бахарев Константин Михайлович": 394,
-      "Воропай Михаил Викторович": 5,
-      "Кийко Игорь Александрович": 12,
-      "Кискин Степан Степанович": 25,
-      "Паша Андрей Викторович": 8,
-      "Першиков Юрий Александрович": 1,
-      "Свистунов Александр Григорьевич": 1,
-      "Эмиров Рустем": 12
+      "gas:candidate-vibid:4934014106983": 9,
+      "gas:candidate-vibid:4934014106995": 394,
+      "gas:candidate-vibid:4934014107127": 5,
+      "gas:candidate-vibid:4934014106464": 12,
+      "gas:candidate-vibid:4934014106702": 25,
+      "gas:candidate-vibid:4934014106827": 8,
+      "gas:candidate-vibid:4934014107022": 1,
+      "gas:candidate-vibid:4934014106933": 1,
+      "gas:candidate-vibid:4934014106911": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105969&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105969&type=464",
@@ -9837,15 +9837,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 44,
-      "Бахарев Константин Михайлович": 499,
-      "Воропай Михаил Викторович": 16,
-      "Кийко Игорь Александрович": 49,
-      "Кискин Степан Степанович": 16,
-      "Паша Андрей Викторович": 42,
-      "Першиков Юрий Александрович": 2,
-      "Свистунов Александр Григорьевич": 1,
-      "Эмиров Рустем": 14
+      "gas:candidate-vibid:4934014106983": 44,
+      "gas:candidate-vibid:4934014106995": 499,
+      "gas:candidate-vibid:4934014107127": 16,
+      "gas:candidate-vibid:4934014106464": 49,
+      "gas:candidate-vibid:4934014106702": 16,
+      "gas:candidate-vibid:4934014106827": 42,
+      "gas:candidate-vibid:4934014107022": 2,
+      "gas:candidate-vibid:4934014106933": 1,
+      "gas:candidate-vibid:4934014106911": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105969&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105969&type=464",
@@ -9896,15 +9896,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 34,
-      "Бахарев Константин Михайлович": 514,
-      "Воропай Михаил Викторович": 38,
-      "Кийко Игорь Александрович": 48,
-      "Кискин Степан Степанович": 20,
-      "Паша Андрей Викторович": 26,
-      "Першиков Юрий Александрович": 3,
-      "Свистунов Александр Григорьевич": 2,
-      "Эмиров Рустем": 28
+      "gas:candidate-vibid:4934014106983": 34,
+      "gas:candidate-vibid:4934014106995": 514,
+      "gas:candidate-vibid:4934014107127": 38,
+      "gas:candidate-vibid:4934014106464": 48,
+      "gas:candidate-vibid:4934014106702": 20,
+      "gas:candidate-vibid:4934014106827": 26,
+      "gas:candidate-vibid:4934014107022": 3,
+      "gas:candidate-vibid:4934014106933": 2,
+      "gas:candidate-vibid:4934014106911": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105969&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105969&type=464",
@@ -9955,15 +9955,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 15,
-      "Бахарев Константин Михайлович": 486,
-      "Воропай Михаил Викторович": 0,
-      "Кийко Игорь Александрович": 39,
-      "Кискин Степан Степанович": 8,
-      "Паша Андрей Викторович": 27,
-      "Першиков Юрий Александрович": 0,
-      "Свистунов Александр Григорьевич": 1,
-      "Эмиров Рустем": 7
+      "gas:candidate-vibid:4934014106983": 15,
+      "gas:candidate-vibid:4934014106995": 486,
+      "gas:candidate-vibid:4934014107127": 0,
+      "gas:candidate-vibid:4934014106464": 39,
+      "gas:candidate-vibid:4934014106702": 8,
+      "gas:candidate-vibid:4934014106827": 27,
+      "gas:candidate-vibid:4934014107022": 0,
+      "gas:candidate-vibid:4934014106933": 1,
+      "gas:candidate-vibid:4934014106911": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105969&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105969&type=464",
@@ -10014,15 +10014,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 6,
-      "Бахарев Константин Михайлович": 180,
-      "Воропай Михаил Викторович": 2,
-      "Кийко Игорь Александрович": 20,
-      "Кискин Степан Степанович": 13,
-      "Паша Андрей Викторович": 4,
-      "Першиков Юрий Александрович": 0,
-      "Свистунов Александр Григорьевич": 0,
-      "Эмиров Рустем": 10
+      "gas:candidate-vibid:4934014106983": 6,
+      "gas:candidate-vibid:4934014106995": 180,
+      "gas:candidate-vibid:4934014107127": 2,
+      "gas:candidate-vibid:4934014106464": 20,
+      "gas:candidate-vibid:4934014106702": 13,
+      "gas:candidate-vibid:4934014106827": 4,
+      "gas:candidate-vibid:4934014107022": 0,
+      "gas:candidate-vibid:4934014106933": 0,
+      "gas:candidate-vibid:4934014106911": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105969&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105969&type=464",
@@ -10073,15 +10073,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 21,
-      "Бахарев Константин Михайлович": 445,
-      "Воропай Михаил Викторович": 8,
-      "Кийко Игорь Александрович": 35,
-      "Кискин Степан Степанович": 12,
-      "Паша Андрей Викторович": 5,
-      "Першиков Юрий Александрович": 1,
-      "Свистунов Александр Григорьевич": 1,
-      "Эмиров Рустем": 17
+      "gas:candidate-vibid:4934014106983": 21,
+      "gas:candidate-vibid:4934014106995": 445,
+      "gas:candidate-vibid:4934014107127": 8,
+      "gas:candidate-vibid:4934014106464": 35,
+      "gas:candidate-vibid:4934014106702": 12,
+      "gas:candidate-vibid:4934014106827": 5,
+      "gas:candidate-vibid:4934014107022": 1,
+      "gas:candidate-vibid:4934014106933": 1,
+      "gas:candidate-vibid:4934014106911": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105969&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105969&type=464",
@@ -10132,15 +10132,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 22,
-      "Бахарев Константин Михайлович": 403,
-      "Воропай Михаил Викторович": 12,
-      "Кийко Игорь Александрович": 18,
-      "Кискин Степан Степанович": 9,
-      "Паша Андрей Викторович": 11,
-      "Першиков Юрий Александрович": 0,
-      "Свистунов Александр Григорьевич": 0,
-      "Эмиров Рустем": 22
+      "gas:candidate-vibid:4934014106983": 22,
+      "gas:candidate-vibid:4934014106995": 403,
+      "gas:candidate-vibid:4934014107127": 12,
+      "gas:candidate-vibid:4934014106464": 18,
+      "gas:candidate-vibid:4934014106702": 9,
+      "gas:candidate-vibid:4934014106827": 11,
+      "gas:candidate-vibid:4934014107022": 0,
+      "gas:candidate-vibid:4934014106933": 0,
+      "gas:candidate-vibid:4934014106911": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105969&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105969&type=464",
@@ -10191,15 +10191,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 35,
-      "Бахарев Константин Михайлович": 950,
-      "Воропай Михаил Викторович": 8,
-      "Кийко Игорь Александрович": 131,
-      "Кискин Степан Степанович": 30,
-      "Паша Андрей Викторович": 110,
-      "Першиков Юрий Александрович": 6,
-      "Свистунов Александр Григорьевич": 3,
-      "Эмиров Рустем": 66
+      "gas:candidate-vibid:4934014106983": 35,
+      "gas:candidate-vibid:4934014106995": 950,
+      "gas:candidate-vibid:4934014107127": 8,
+      "gas:candidate-vibid:4934014106464": 131,
+      "gas:candidate-vibid:4934014106702": 30,
+      "gas:candidate-vibid:4934014106827": 110,
+      "gas:candidate-vibid:4934014107022": 6,
+      "gas:candidate-vibid:4934014106933": 3,
+      "gas:candidate-vibid:4934014106911": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105969&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105969&type=464",
@@ -10250,15 +10250,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 27,
-      "Бахарев Константин Михайлович": 501,
-      "Воропай Михаил Викторович": 14,
-      "Кийко Игорь Александрович": 69,
-      "Кискин Степан Степанович": 22,
-      "Паша Андрей Викторович": 43,
-      "Першиков Юрий Александрович": 4,
-      "Свистунов Александр Григорьевич": 0,
-      "Эмиров Рустем": 24
+      "gas:candidate-vibid:4934014106983": 27,
+      "gas:candidate-vibid:4934014106995": 501,
+      "gas:candidate-vibid:4934014107127": 14,
+      "gas:candidate-vibid:4934014106464": 69,
+      "gas:candidate-vibid:4934014106702": 22,
+      "gas:candidate-vibid:4934014106827": 43,
+      "gas:candidate-vibid:4934014107022": 4,
+      "gas:candidate-vibid:4934014106933": 0,
+      "gas:candidate-vibid:4934014106911": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105969&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105969&type=464",
@@ -10309,15 +10309,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 15,
-      "Бахарев Константин Михайлович": 178,
-      "Воропай Михаил Викторович": 1,
-      "Кийко Игорь Александрович": 20,
-      "Кискин Степан Степанович": 21,
-      "Паша Андрей Викторович": 27,
-      "Першиков Юрий Александрович": 1,
-      "Свистунов Александр Григорьевич": 1,
-      "Эмиров Рустем": 6
+      "gas:candidate-vibid:4934014106983": 15,
+      "gas:candidate-vibid:4934014106995": 178,
+      "gas:candidate-vibid:4934014107127": 1,
+      "gas:candidate-vibid:4934014106464": 20,
+      "gas:candidate-vibid:4934014106702": 21,
+      "gas:candidate-vibid:4934014106827": 27,
+      "gas:candidate-vibid:4934014107022": 1,
+      "gas:candidate-vibid:4934014106933": 1,
+      "gas:candidate-vibid:4934014106911": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105969&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105969&type=464",
@@ -10368,15 +10368,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 32,
-      "Бахарев Константин Михайлович": 580,
-      "Воропай Михаил Викторович": 17,
-      "Кийко Игорь Александрович": 46,
-      "Кискин Степан Степанович": 22,
-      "Паша Андрей Викторович": 44,
-      "Першиков Юрий Александрович": 2,
-      "Свистунов Александр Григорьевич": 4,
-      "Эмиров Рустем": 22
+      "gas:candidate-vibid:4934014106983": 32,
+      "gas:candidate-vibid:4934014106995": 580,
+      "gas:candidate-vibid:4934014107127": 17,
+      "gas:candidate-vibid:4934014106464": 46,
+      "gas:candidate-vibid:4934014106702": 22,
+      "gas:candidate-vibid:4934014106827": 44,
+      "gas:candidate-vibid:4934014107022": 2,
+      "gas:candidate-vibid:4934014106933": 4,
+      "gas:candidate-vibid:4934014106911": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105970&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105970&type=464",
@@ -10427,15 +10427,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 38,
-      "Бахарев Константин Михайлович": 488,
-      "Воропай Михаил Викторович": 14,
-      "Кийко Игорь Александрович": 34,
-      "Кискин Степан Степанович": 19,
-      "Паша Андрей Викторович": 36,
-      "Першиков Юрий Александрович": 3,
-      "Свистунов Александр Григорьевич": 1,
-      "Эмиров Рустем": 29
+      "gas:candidate-vibid:4934014106983": 38,
+      "gas:candidate-vibid:4934014106995": 488,
+      "gas:candidate-vibid:4934014107127": 14,
+      "gas:candidate-vibid:4934014106464": 34,
+      "gas:candidate-vibid:4934014106702": 19,
+      "gas:candidate-vibid:4934014106827": 36,
+      "gas:candidate-vibid:4934014107022": 3,
+      "gas:candidate-vibid:4934014106933": 1,
+      "gas:candidate-vibid:4934014106911": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105970&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105970&type=464",
@@ -10486,15 +10486,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 43,
-      "Бахарев Константин Михайлович": 617,
-      "Воропай Михаил Викторович": 16,
-      "Кийко Игорь Александрович": 49,
-      "Кискин Степан Степанович": 24,
-      "Паша Андрей Викторович": 41,
-      "Першиков Юрий Александрович": 3,
-      "Свистунов Александр Григорьевич": 3,
-      "Эмиров Рустем": 8
+      "gas:candidate-vibid:4934014106983": 43,
+      "gas:candidate-vibid:4934014106995": 617,
+      "gas:candidate-vibid:4934014107127": 16,
+      "gas:candidate-vibid:4934014106464": 49,
+      "gas:candidate-vibid:4934014106702": 24,
+      "gas:candidate-vibid:4934014106827": 41,
+      "gas:candidate-vibid:4934014107022": 3,
+      "gas:candidate-vibid:4934014106933": 3,
+      "gas:candidate-vibid:4934014106911": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105970&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105970&type=464",
@@ -10545,15 +10545,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 43,
-      "Бахарев Константин Михайлович": 636,
-      "Воропай Михаил Викторович": 25,
-      "Кийко Игорь Александрович": 33,
-      "Кискин Степан Степанович": 28,
-      "Паша Андрей Викторович": 30,
-      "Першиков Юрий Александрович": 2,
-      "Свистунов Александр Григорьевич": 4,
-      "Эмиров Рустем": 81
+      "gas:candidate-vibid:4934014106983": 43,
+      "gas:candidate-vibid:4934014106995": 636,
+      "gas:candidate-vibid:4934014107127": 25,
+      "gas:candidate-vibid:4934014106464": 33,
+      "gas:candidate-vibid:4934014106702": 28,
+      "gas:candidate-vibid:4934014106827": 30,
+      "gas:candidate-vibid:4934014107022": 2,
+      "gas:candidate-vibid:4934014106933": 4,
+      "gas:candidate-vibid:4934014106911": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105970&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105970&type=464",
@@ -10604,15 +10604,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 25,
-      "Бахарев Константин Михайлович": 454,
-      "Воропай Михаил Викторович": 54,
-      "Кийко Игорь Александрович": 63,
-      "Кискин Степан Степанович": 17,
-      "Паша Андрей Викторович": 28,
-      "Першиков Юрий Александрович": 1,
-      "Свистунов Александр Григорьевич": 3,
-      "Эмиров Рустем": 37
+      "gas:candidate-vibid:4934014106983": 25,
+      "gas:candidate-vibid:4934014106995": 454,
+      "gas:candidate-vibid:4934014107127": 54,
+      "gas:candidate-vibid:4934014106464": 63,
+      "gas:candidate-vibid:4934014106702": 17,
+      "gas:candidate-vibid:4934014106827": 28,
+      "gas:candidate-vibid:4934014107022": 1,
+      "gas:candidate-vibid:4934014106933": 3,
+      "gas:candidate-vibid:4934014106911": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105970&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105970&type=464",
@@ -10663,15 +10663,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 14,
-      "Бахарев Константин Михайлович": 274,
-      "Воропай Михаил Викторович": 9,
-      "Кийко Игорь Александрович": 24,
-      "Кискин Степан Степанович": 8,
-      "Паша Андрей Викторович": 17,
-      "Першиков Юрий Александрович": 4,
-      "Свистунов Александр Григорьевич": 0,
-      "Эмиров Рустем": 10
+      "gas:candidate-vibid:4934014106983": 14,
+      "gas:candidate-vibid:4934014106995": 274,
+      "gas:candidate-vibid:4934014107127": 9,
+      "gas:candidate-vibid:4934014106464": 24,
+      "gas:candidate-vibid:4934014106702": 8,
+      "gas:candidate-vibid:4934014106827": 17,
+      "gas:candidate-vibid:4934014107022": 4,
+      "gas:candidate-vibid:4934014106933": 0,
+      "gas:candidate-vibid:4934014106911": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105970&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105970&type=464",
@@ -10722,15 +10722,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 11,
-      "Бахарев Константин Михайлович": 147,
-      "Воропай Михаил Викторович": 9,
-      "Кийко Игорь Александрович": 12,
-      "Кискин Степан Степанович": 2,
-      "Паша Андрей Викторович": 11,
-      "Першиков Юрий Александрович": 1,
-      "Свистунов Александр Григорьевич": 0,
-      "Эмиров Рустем": 10
+      "gas:candidate-vibid:4934014106983": 11,
+      "gas:candidate-vibid:4934014106995": 147,
+      "gas:candidate-vibid:4934014107127": 9,
+      "gas:candidate-vibid:4934014106464": 12,
+      "gas:candidate-vibid:4934014106702": 2,
+      "gas:candidate-vibid:4934014106827": 11,
+      "gas:candidate-vibid:4934014107022": 1,
+      "gas:candidate-vibid:4934014106933": 0,
+      "gas:candidate-vibid:4934014106911": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105970&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105970&type=464",
@@ -10781,15 +10781,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 9,
-      "Бахарев Константин Михайлович": 148,
-      "Воропай Михаил Викторович": 7,
-      "Кийко Игорь Александрович": 12,
-      "Кискин Степан Степанович": 8,
-      "Паша Андрей Викторович": 13,
-      "Першиков Юрий Александрович": 1,
-      "Свистунов Александр Григорьевич": 0,
-      "Эмиров Рустем": 2
+      "gas:candidate-vibid:4934014106983": 9,
+      "gas:candidate-vibid:4934014106995": 148,
+      "gas:candidate-vibid:4934014107127": 7,
+      "gas:candidate-vibid:4934014106464": 12,
+      "gas:candidate-vibid:4934014106702": 8,
+      "gas:candidate-vibid:4934014106827": 13,
+      "gas:candidate-vibid:4934014107022": 1,
+      "gas:candidate-vibid:4934014106933": 0,
+      "gas:candidate-vibid:4934014106911": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105970&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105970&type=464",
@@ -10840,15 +10840,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 5,
-      "Бахарев Константин Михайлович": 178,
-      "Воропай Михаил Викторович": 4,
-      "Кийко Игорь Александрович": 11,
-      "Кискин Степан Степанович": 5,
-      "Паша Андрей Викторович": 12,
-      "Першиков Юрий Александрович": 0,
-      "Свистунов Александр Григорьевич": 1,
-      "Эмиров Рустем": 9
+      "gas:candidate-vibid:4934014106983": 5,
+      "gas:candidate-vibid:4934014106995": 178,
+      "gas:candidate-vibid:4934014107127": 4,
+      "gas:candidate-vibid:4934014106464": 11,
+      "gas:candidate-vibid:4934014106702": 5,
+      "gas:candidate-vibid:4934014106827": 12,
+      "gas:candidate-vibid:4934014107022": 0,
+      "gas:candidate-vibid:4934014106933": 1,
+      "gas:candidate-vibid:4934014106911": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105970&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105970&type=464",
@@ -10899,15 +10899,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 11,
-      "Бахарев Константин Михайлович": 314,
-      "Воропай Михаил Викторович": 10,
-      "Кийко Игорь Александрович": 13,
-      "Кискин Степан Степанович": 7,
-      "Паша Андрей Викторович": 24,
-      "Першиков Юрий Александрович": 1,
-      "Свистунов Александр Григорьевич": 1,
-      "Эмиров Рустем": 11
+      "gas:candidate-vibid:4934014106983": 11,
+      "gas:candidate-vibid:4934014106995": 314,
+      "gas:candidate-vibid:4934014107127": 10,
+      "gas:candidate-vibid:4934014106464": 13,
+      "gas:candidate-vibid:4934014106702": 7,
+      "gas:candidate-vibid:4934014106827": 24,
+      "gas:candidate-vibid:4934014107022": 1,
+      "gas:candidate-vibid:4934014106933": 1,
+      "gas:candidate-vibid:4934014106911": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105970&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105970&type=464",
@@ -10958,15 +10958,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 5,
-      "Бахарев Константин Михайлович": 198,
-      "Воропай Михаил Викторович": 5,
-      "Кийко Игорь Александрович": 5,
-      "Кискин Степан Степанович": 11,
-      "Паша Андрей Викторович": 11,
-      "Першиков Юрий Александрович": 1,
-      "Свистунов Александр Григорьевич": 1,
-      "Эмиров Рустем": 7
+      "gas:candidate-vibid:4934014106983": 5,
+      "gas:candidate-vibid:4934014106995": 198,
+      "gas:candidate-vibid:4934014107127": 5,
+      "gas:candidate-vibid:4934014106464": 5,
+      "gas:candidate-vibid:4934014106702": 11,
+      "gas:candidate-vibid:4934014106827": 11,
+      "gas:candidate-vibid:4934014107022": 1,
+      "gas:candidate-vibid:4934014106933": 1,
+      "gas:candidate-vibid:4934014106911": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105970&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105970&type=464",
@@ -11017,15 +11017,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 3,
-      "Бахарев Константин Михайлович": 94,
-      "Воропай Михаил Викторович": 3,
-      "Кийко Игорь Александрович": 3,
-      "Кискин Степан Степанович": 5,
-      "Паша Андрей Викторович": 5,
-      "Першиков Юрий Александрович": 0,
-      "Свистунов Александр Григорьевич": 1,
-      "Эмиров Рустем": 5
+      "gas:candidate-vibid:4934014106983": 3,
+      "gas:candidate-vibid:4934014106995": 94,
+      "gas:candidate-vibid:4934014107127": 3,
+      "gas:candidate-vibid:4934014106464": 3,
+      "gas:candidate-vibid:4934014106702": 5,
+      "gas:candidate-vibid:4934014106827": 5,
+      "gas:candidate-vibid:4934014107022": 0,
+      "gas:candidate-vibid:4934014106933": 1,
+      "gas:candidate-vibid:4934014106911": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105970&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105970&type=464",
@@ -11076,15 +11076,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 7,
-      "Бахарев Константин Михайлович": 177,
-      "Воропай Михаил Викторович": 6,
-      "Кийко Игорь Александрович": 9,
-      "Кискин Степан Степанович": 2,
-      "Паша Андрей Викторович": 14,
-      "Першиков Юрий Александрович": 0,
-      "Свистунов Александр Григорьевич": 0,
-      "Эмиров Рустем": 1
+      "gas:candidate-vibid:4934014106983": 7,
+      "gas:candidate-vibid:4934014106995": 177,
+      "gas:candidate-vibid:4934014107127": 6,
+      "gas:candidate-vibid:4934014106464": 9,
+      "gas:candidate-vibid:4934014106702": 2,
+      "gas:candidate-vibid:4934014106827": 14,
+      "gas:candidate-vibid:4934014107022": 0,
+      "gas:candidate-vibid:4934014106933": 0,
+      "gas:candidate-vibid:4934014106911": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105970&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105970&type=464",
@@ -11135,15 +11135,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 8,
-      "Бахарев Константин Михайлович": 61,
-      "Воропай Михаил Викторович": 6,
-      "Кийко Игорь Александрович": 5,
-      "Кискин Степан Степанович": 3,
-      "Паша Андрей Викторович": 4,
-      "Першиков Юрий Александрович": 0,
-      "Свистунов Александр Григорьевич": 1,
-      "Эмиров Рустем": 1
+      "gas:candidate-vibid:4934014106983": 8,
+      "gas:candidate-vibid:4934014106995": 61,
+      "gas:candidate-vibid:4934014107127": 6,
+      "gas:candidate-vibid:4934014106464": 5,
+      "gas:candidate-vibid:4934014106702": 3,
+      "gas:candidate-vibid:4934014106827": 4,
+      "gas:candidate-vibid:4934014107022": 0,
+      "gas:candidate-vibid:4934014106933": 1,
+      "gas:candidate-vibid:4934014106911": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105970&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105970&type=464",
@@ -11194,15 +11194,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 23,
-      "Бахарев Константин Михайлович": 306,
-      "Воропай Михаил Викторович": 7,
-      "Кийко Игорь Александрович": 21,
-      "Кискин Степан Степанович": 51,
-      "Паша Андрей Викторович": 19,
-      "Першиков Юрий Александрович": 0,
-      "Свистунов Александр Григорьевич": 3,
-      "Эмиров Рустем": 20
+      "gas:candidate-vibid:4934014106983": 23,
+      "gas:candidate-vibid:4934014106995": 306,
+      "gas:candidate-vibid:4934014107127": 7,
+      "gas:candidate-vibid:4934014106464": 21,
+      "gas:candidate-vibid:4934014106702": 51,
+      "gas:candidate-vibid:4934014106827": 19,
+      "gas:candidate-vibid:4934014107022": 0,
+      "gas:candidate-vibid:4934014106933": 3,
+      "gas:candidate-vibid:4934014106911": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105970&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105970&type=464",
@@ -11253,15 +11253,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 12,
-      "Бахарев Константин Михайлович": 436,
-      "Воропай Михаил Викторович": 15,
-      "Кийко Игорь Александрович": 17,
-      "Кискин Степан Степанович": 12,
-      "Паша Андрей Викторович": 104,
-      "Першиков Юрий Александрович": 1,
-      "Свистунов Александр Григорьевич": 0,
-      "Эмиров Рустем": 18
+      "gas:candidate-vibid:4934014106983": 12,
+      "gas:candidate-vibid:4934014106995": 436,
+      "gas:candidate-vibid:4934014107127": 15,
+      "gas:candidate-vibid:4934014106464": 17,
+      "gas:candidate-vibid:4934014106702": 12,
+      "gas:candidate-vibid:4934014106827": 104,
+      "gas:candidate-vibid:4934014107022": 1,
+      "gas:candidate-vibid:4934014106933": 0,
+      "gas:candidate-vibid:4934014106911": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105970&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105970&type=464",
@@ -11312,15 +11312,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 1,
-      "Бахарев Константин Михайлович": 71,
-      "Воропай Михаил Викторович": 15,
-      "Кийко Игорь Александрович": 2,
-      "Кискин Степан Степанович": 0,
-      "Паша Андрей Викторович": 14,
-      "Першиков Юрий Александрович": 0,
-      "Свистунов Александр Григорьевич": 0,
-      "Эмиров Рустем": 2
+      "gas:candidate-vibid:4934014106983": 1,
+      "gas:candidate-vibid:4934014106995": 71,
+      "gas:candidate-vibid:4934014107127": 15,
+      "gas:candidate-vibid:4934014106464": 2,
+      "gas:candidate-vibid:4934014106702": 0,
+      "gas:candidate-vibid:4934014106827": 14,
+      "gas:candidate-vibid:4934014107022": 0,
+      "gas:candidate-vibid:4934014106933": 0,
+      "gas:candidate-vibid:4934014106911": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105970&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105970&type=464",
@@ -11371,15 +11371,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 12,
-      "Бахарев Константин Михайлович": 257,
-      "Воропай Михаил Викторович": 0,
-      "Кийко Игорь Александрович": 9,
-      "Кискин Степан Степанович": 9,
-      "Паша Андрей Викторович": 13,
-      "Першиков Юрий Александрович": 0,
-      "Свистунов Александр Григорьевич": 1,
-      "Эмиров Рустем": 7
+      "gas:candidate-vibid:4934014106983": 12,
+      "gas:candidate-vibid:4934014106995": 257,
+      "gas:candidate-vibid:4934014107127": 0,
+      "gas:candidate-vibid:4934014106464": 9,
+      "gas:candidate-vibid:4934014106702": 9,
+      "gas:candidate-vibid:4934014106827": 13,
+      "gas:candidate-vibid:4934014107022": 0,
+      "gas:candidate-vibid:4934014106933": 1,
+      "gas:candidate-vibid:4934014106911": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105970&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105970&type=464",
@@ -11430,15 +11430,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 30,
-      "Бахарев Константин Михайлович": 396,
-      "Воропай Михаил Викторович": 21,
-      "Кийко Игорь Александрович": 29,
-      "Кискин Степан Степанович": 10,
-      "Паша Андрей Викторович": 11,
-      "Першиков Юрий Александрович": 2,
-      "Свистунов Александр Григорьевич": 2,
-      "Эмиров Рустем": 7
+      "gas:candidate-vibid:4934014106983": 30,
+      "gas:candidate-vibid:4934014106995": 396,
+      "gas:candidate-vibid:4934014107127": 21,
+      "gas:candidate-vibid:4934014106464": 29,
+      "gas:candidate-vibid:4934014106702": 10,
+      "gas:candidate-vibid:4934014106827": 11,
+      "gas:candidate-vibid:4934014107022": 2,
+      "gas:candidate-vibid:4934014106933": 2,
+      "gas:candidate-vibid:4934014106911": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105970&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105970&type=464",
@@ -11489,15 +11489,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 1,
-      "Бахарев Константин Михайлович": 162,
-      "Воропай Михаил Викторович": 3,
-      "Кийко Игорь Александрович": 3,
-      "Кискин Степан Степанович": 2,
-      "Паша Андрей Викторович": 1,
-      "Першиков Юрий Александрович": 1,
-      "Свистунов Александр Григорьевич": 0,
-      "Эмиров Рустем": 9
+      "gas:candidate-vibid:4934014106983": 1,
+      "gas:candidate-vibid:4934014106995": 162,
+      "gas:candidate-vibid:4934014107127": 3,
+      "gas:candidate-vibid:4934014106464": 3,
+      "gas:candidate-vibid:4934014106702": 2,
+      "gas:candidate-vibid:4934014106827": 1,
+      "gas:candidate-vibid:4934014107022": 1,
+      "gas:candidate-vibid:4934014106933": 0,
+      "gas:candidate-vibid:4934014106911": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105970&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105970&type=464",
@@ -11548,15 +11548,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 11,
-      "Бахарев Константин Михайлович": 424,
-      "Воропай Михаил Викторович": 20,
-      "Кийко Игорь Александрович": 24,
-      "Кискин Степан Степанович": 32,
-      "Паша Андрей Викторович": 27,
-      "Першиков Юрий Александрович": 2,
-      "Свистунов Александр Григорьевич": 2,
-      "Эмиров Рустем": 16
+      "gas:candidate-vibid:4934014106983": 11,
+      "gas:candidate-vibid:4934014106995": 424,
+      "gas:candidate-vibid:4934014107127": 20,
+      "gas:candidate-vibid:4934014106464": 24,
+      "gas:candidate-vibid:4934014106702": 32,
+      "gas:candidate-vibid:4934014106827": 27,
+      "gas:candidate-vibid:4934014107022": 2,
+      "gas:candidate-vibid:4934014106933": 2,
+      "gas:candidate-vibid:4934014106911": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105970&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105970&type=464",
@@ -11607,15 +11607,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 8,
-      "Бахарев Константин Михайлович": 168,
-      "Воропай Михаил Викторович": 23,
-      "Кийко Игорь Александрович": 10,
-      "Кискин Степан Степанович": 8,
-      "Паша Андрей Викторович": 3,
-      "Першиков Юрий Александрович": 0,
-      "Свистунов Александр Григорьевич": 2,
-      "Эмиров Рустем": 17
+      "gas:candidate-vibid:4934014106983": 8,
+      "gas:candidate-vibid:4934014106995": 168,
+      "gas:candidate-vibid:4934014107127": 23,
+      "gas:candidate-vibid:4934014106464": 10,
+      "gas:candidate-vibid:4934014106702": 8,
+      "gas:candidate-vibid:4934014106827": 3,
+      "gas:candidate-vibid:4934014107022": 0,
+      "gas:candidate-vibid:4934014106933": 2,
+      "gas:candidate-vibid:4934014106911": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105970&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105970&type=464",
@@ -11666,15 +11666,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 20,
-      "Бахарев Константин Михайлович": 494,
-      "Воропай Михаил Викторович": 14,
-      "Кийко Игорь Александрович": 27,
-      "Кискин Степан Степанович": 21,
-      "Паша Андрей Викторович": 28,
-      "Першиков Юрий Александрович": 0,
-      "Свистунов Александр Григорьевич": 1,
-      "Эмиров Рустем": 24
+      "gas:candidate-vibid:4934014106983": 20,
+      "gas:candidate-vibid:4934014106995": 494,
+      "gas:candidate-vibid:4934014107127": 14,
+      "gas:candidate-vibid:4934014106464": 27,
+      "gas:candidate-vibid:4934014106702": 21,
+      "gas:candidate-vibid:4934014106827": 28,
+      "gas:candidate-vibid:4934014107022": 0,
+      "gas:candidate-vibid:4934014106933": 1,
+      "gas:candidate-vibid:4934014106911": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105970&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105970&type=464",
@@ -11725,15 +11725,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 6,
-      "Бахарев Константин Михайлович": 203,
-      "Воропай Михаил Викторович": 6,
-      "Кийко Игорь Александрович": 4,
-      "Кискин Степан Степанович": 10,
-      "Паша Андрей Викторович": 12,
-      "Першиков Юрий Александрович": 1,
-      "Свистунов Александр Григорьевич": 0,
-      "Эмиров Рустем": 13
+      "gas:candidate-vibid:4934014106983": 6,
+      "gas:candidate-vibid:4934014106995": 203,
+      "gas:candidate-vibid:4934014107127": 6,
+      "gas:candidate-vibid:4934014106464": 4,
+      "gas:candidate-vibid:4934014106702": 10,
+      "gas:candidate-vibid:4934014106827": 12,
+      "gas:candidate-vibid:4934014107022": 1,
+      "gas:candidate-vibid:4934014106933": 0,
+      "gas:candidate-vibid:4934014106911": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105970&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105970&type=464",
@@ -11784,15 +11784,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 20,
-      "Бахарев Константин Михайлович": 628,
-      "Воропай Михаил Викторович": 19,
-      "Кийко Игорь Александрович": 37,
-      "Кискин Степан Степанович": 22,
-      "Паша Андрей Викторович": 31,
-      "Першиков Юрий Александрович": 2,
-      "Свистунов Александр Григорьевич": 4,
-      "Эмиров Рустем": 29
+      "gas:candidate-vibid:4934014106983": 20,
+      "gas:candidate-vibid:4934014106995": 628,
+      "gas:candidate-vibid:4934014107127": 19,
+      "gas:candidate-vibid:4934014106464": 37,
+      "gas:candidate-vibid:4934014106702": 22,
+      "gas:candidate-vibid:4934014106827": 31,
+      "gas:candidate-vibid:4934014107022": 2,
+      "gas:candidate-vibid:4934014106933": 4,
+      "gas:candidate-vibid:4934014106911": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105970&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105970&type=464",
@@ -11843,15 +11843,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 10,
-      "Бахарев Константин Михайлович": 171,
-      "Воропай Михаил Викторович": 8,
-      "Кийко Игорь Александрович": 3,
-      "Кискин Степан Степанович": 5,
-      "Паша Андрей Викторович": 7,
-      "Першиков Юрий Александрович": 1,
-      "Свистунов Александр Григорьевич": 0,
-      "Эмиров Рустем": 10
+      "gas:candidate-vibid:4934014106983": 10,
+      "gas:candidate-vibid:4934014106995": 171,
+      "gas:candidate-vibid:4934014107127": 8,
+      "gas:candidate-vibid:4934014106464": 3,
+      "gas:candidate-vibid:4934014106702": 5,
+      "gas:candidate-vibid:4934014106827": 7,
+      "gas:candidate-vibid:4934014107022": 1,
+      "gas:candidate-vibid:4934014106933": 0,
+      "gas:candidate-vibid:4934014106911": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105970&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105970&type=464",
@@ -11902,15 +11902,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 16,
-      "Бахарев Константин Михайлович": 562,
-      "Воропай Михаил Викторович": 11,
-      "Кийко Игорь Александрович": 20,
-      "Кискин Степан Степанович": 4,
-      "Паша Андрей Викторович": 5,
-      "Першиков Юрий Александрович": 1,
-      "Свистунов Александр Григорьевич": 2,
-      "Эмиров Рустем": 50
+      "gas:candidate-vibid:4934014106983": 16,
+      "gas:candidate-vibid:4934014106995": 562,
+      "gas:candidate-vibid:4934014107127": 11,
+      "gas:candidate-vibid:4934014106464": 20,
+      "gas:candidate-vibid:4934014106702": 4,
+      "gas:candidate-vibid:4934014106827": 5,
+      "gas:candidate-vibid:4934014107022": 1,
+      "gas:candidate-vibid:4934014106933": 2,
+      "gas:candidate-vibid:4934014106911": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105970&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105970&type=464",
@@ -11961,15 +11961,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 3,
-      "Бахарев Константин Михайлович": 166,
-      "Воропай Михаил Викторович": 3,
-      "Кийко Игорь Александрович": 8,
-      "Кискин Степан Степанович": 3,
-      "Паша Андрей Викторович": 5,
-      "Першиков Юрий Александрович": 1,
-      "Свистунов Александр Григорьевич": 0,
-      "Эмиров Рустем": 12
+      "gas:candidate-vibid:4934014106983": 3,
+      "gas:candidate-vibid:4934014106995": 166,
+      "gas:candidate-vibid:4934014107127": 3,
+      "gas:candidate-vibid:4934014106464": 8,
+      "gas:candidate-vibid:4934014106702": 3,
+      "gas:candidate-vibid:4934014106827": 5,
+      "gas:candidate-vibid:4934014107022": 1,
+      "gas:candidate-vibid:4934014106933": 0,
+      "gas:candidate-vibid:4934014106911": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105970&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105970&type=464",
@@ -12020,15 +12020,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 12,
-      "Бахарев Константин Михайлович": 369,
-      "Воропай Михаил Викторович": 8,
-      "Кийко Игорь Александрович": 15,
-      "Кискин Степан Степанович": 1,
-      "Паша Андрей Викторович": 21,
-      "Першиков Юрий Александрович": 0,
-      "Свистунов Александр Григорьевич": 3,
-      "Эмиров Рустем": 10
+      "gas:candidate-vibid:4934014106983": 12,
+      "gas:candidate-vibid:4934014106995": 369,
+      "gas:candidate-vibid:4934014107127": 8,
+      "gas:candidate-vibid:4934014106464": 15,
+      "gas:candidate-vibid:4934014106702": 1,
+      "gas:candidate-vibid:4934014106827": 21,
+      "gas:candidate-vibid:4934014107022": 0,
+      "gas:candidate-vibid:4934014106933": 3,
+      "gas:candidate-vibid:4934014106911": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105970&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105970&type=464",
@@ -12079,15 +12079,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 2,
-      "Бахарев Константин Михайлович": 90,
-      "Воропай Михаил Викторович": 9,
-      "Кийко Игорь Александрович": 3,
-      "Кискин Степан Степанович": 4,
-      "Паша Андрей Викторович": 5,
-      "Першиков Юрий Александрович": 1,
-      "Свистунов Александр Григорьевич": 2,
-      "Эмиров Рустем": 5
+      "gas:candidate-vibid:4934014106983": 2,
+      "gas:candidate-vibid:4934014106995": 90,
+      "gas:candidate-vibid:4934014107127": 9,
+      "gas:candidate-vibid:4934014106464": 3,
+      "gas:candidate-vibid:4934014106702": 4,
+      "gas:candidate-vibid:4934014106827": 5,
+      "gas:candidate-vibid:4934014107022": 1,
+      "gas:candidate-vibid:4934014106933": 2,
+      "gas:candidate-vibid:4934014106911": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105970&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105970&type=464",
@@ -12138,15 +12138,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 8,
-      "Бахарев Константин Михайлович": 370,
-      "Воропай Михаил Викторович": 5,
-      "Кийко Игорь Александрович": 16,
-      "Кискин Степан Степанович": 15,
-      "Паша Андрей Викторович": 16,
-      "Першиков Юрий Александрович": 0,
-      "Свистунов Александр Григорьевич": 0,
-      "Эмиров Рустем": 25
+      "gas:candidate-vibid:4934014106983": 8,
+      "gas:candidate-vibid:4934014106995": 370,
+      "gas:candidate-vibid:4934014107127": 5,
+      "gas:candidate-vibid:4934014106464": 16,
+      "gas:candidate-vibid:4934014106702": 15,
+      "gas:candidate-vibid:4934014106827": 16,
+      "gas:candidate-vibid:4934014107022": 0,
+      "gas:candidate-vibid:4934014106933": 0,
+      "gas:candidate-vibid:4934014106911": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105970&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105970&type=464",
@@ -12197,15 +12197,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 2,
-      "Бахарев Константин Михайлович": 161,
-      "Воропай Михаил Викторович": 9,
-      "Кийко Игорь Александрович": 2,
-      "Кискин Степан Степанович": 5,
-      "Паша Андрей Викторович": 6,
-      "Першиков Юрий Александрович": 0,
-      "Свистунов Александр Григорьевич": 0,
-      "Эмиров Рустем": 7
+      "gas:candidate-vibid:4934014106983": 2,
+      "gas:candidate-vibid:4934014106995": 161,
+      "gas:candidate-vibid:4934014107127": 9,
+      "gas:candidate-vibid:4934014106464": 2,
+      "gas:candidate-vibid:4934014106702": 5,
+      "gas:candidate-vibid:4934014106827": 6,
+      "gas:candidate-vibid:4934014107022": 0,
+      "gas:candidate-vibid:4934014106933": 0,
+      "gas:candidate-vibid:4934014106911": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105970&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105970&type=464",
@@ -12256,15 +12256,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 20,
-      "Бахарев Константин Михайлович": 286,
-      "Воропай Михаил Викторович": 21,
-      "Кийко Игорь Александрович": 20,
-      "Кискин Степан Степанович": 16,
-      "Паша Андрей Викторович": 12,
-      "Першиков Юрий Александрович": 1,
-      "Свистунов Александр Григорьевич": 2,
-      "Эмиров Рустем": 14
+      "gas:candidate-vibid:4934014106983": 20,
+      "gas:candidate-vibid:4934014106995": 286,
+      "gas:candidate-vibid:4934014107127": 21,
+      "gas:candidate-vibid:4934014106464": 20,
+      "gas:candidate-vibid:4934014106702": 16,
+      "gas:candidate-vibid:4934014106827": 12,
+      "gas:candidate-vibid:4934014107022": 1,
+      "gas:candidate-vibid:4934014106933": 2,
+      "gas:candidate-vibid:4934014106911": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105970&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105970&type=464",
@@ -12315,15 +12315,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 25,
-      "Бахарев Константин Михайлович": 272,
-      "Воропай Михаил Викторович": 17,
-      "Кийко Игорь Александрович": 57,
-      "Кискин Степан Степанович": 60,
-      "Паша Андрей Викторович": 21,
-      "Першиков Юрий Александрович": 2,
-      "Свистунов Александр Григорьевич": 8,
-      "Эмиров Рустем": 13
+      "gas:candidate-vibid:4934014106983": 25,
+      "gas:candidate-vibid:4934014106995": 272,
+      "gas:candidate-vibid:4934014107127": 17,
+      "gas:candidate-vibid:4934014106464": 57,
+      "gas:candidate-vibid:4934014106702": 60,
+      "gas:candidate-vibid:4934014106827": 21,
+      "gas:candidate-vibid:4934014107022": 2,
+      "gas:candidate-vibid:4934014106933": 8,
+      "gas:candidate-vibid:4934014106911": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105971&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105971&type=464",
@@ -12374,15 +12374,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 33,
-      "Бахарев Константин Михайлович": 295,
-      "Воропай Михаил Викторович": 29,
-      "Кийко Игорь Александрович": 38,
-      "Кискин Степан Степанович": 47,
-      "Паша Андрей Викторович": 10,
-      "Першиков Юрий Александрович": 8,
-      "Свистунов Александр Григорьевич": 7,
-      "Эмиров Рустем": 5
+      "gas:candidate-vibid:4934014106983": 33,
+      "gas:candidate-vibid:4934014106995": 295,
+      "gas:candidate-vibid:4934014107127": 29,
+      "gas:candidate-vibid:4934014106464": 38,
+      "gas:candidate-vibid:4934014106702": 47,
+      "gas:candidate-vibid:4934014106827": 10,
+      "gas:candidate-vibid:4934014107022": 8,
+      "gas:candidate-vibid:4934014106933": 7,
+      "gas:candidate-vibid:4934014106911": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105971&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105971&type=464",
@@ -12433,15 +12433,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 31,
-      "Бахарев Константин Михайлович": 490,
-      "Воропай Михаил Викторович": 52,
-      "Кийко Игорь Александрович": 61,
-      "Кискин Степан Степанович": 70,
-      "Паша Андрей Викторович": 20,
-      "Першиков Юрий Александрович": 9,
-      "Свистунов Александр Григорьевич": 6,
-      "Эмиров Рустем": 7
+      "gas:candidate-vibid:4934014106983": 31,
+      "gas:candidate-vibid:4934014106995": 490,
+      "gas:candidate-vibid:4934014107127": 52,
+      "gas:candidate-vibid:4934014106464": 61,
+      "gas:candidate-vibid:4934014106702": 70,
+      "gas:candidate-vibid:4934014106827": 20,
+      "gas:candidate-vibid:4934014107022": 9,
+      "gas:candidate-vibid:4934014106933": 6,
+      "gas:candidate-vibid:4934014106911": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105971&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105971&type=464",
@@ -12492,15 +12492,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 46,
-      "Бахарев Константин Михайлович": 640,
-      "Воропай Михаил Викторович": 65,
-      "Кийко Игорь Александрович": 95,
-      "Кискин Степан Степанович": 101,
-      "Паша Андрей Викторович": 25,
-      "Першиков Юрий Александрович": 11,
-      "Свистунов Александр Григорьевич": 6,
-      "Эмиров Рустем": 20
+      "gas:candidate-vibid:4934014106983": 46,
+      "gas:candidate-vibid:4934014106995": 640,
+      "gas:candidate-vibid:4934014107127": 65,
+      "gas:candidate-vibid:4934014106464": 95,
+      "gas:candidate-vibid:4934014106702": 101,
+      "gas:candidate-vibid:4934014106827": 25,
+      "gas:candidate-vibid:4934014107022": 11,
+      "gas:candidate-vibid:4934014106933": 6,
+      "gas:candidate-vibid:4934014106911": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105971&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105971&type=464",
@@ -12551,15 +12551,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 20,
-      "Бахарев Константин Михайлович": 576,
-      "Воропай Михаил Викторович": 22,
-      "Кийко Игорь Александрович": 42,
-      "Кискин Степан Степанович": 51,
-      "Паша Андрей Викторович": 19,
-      "Першиков Юрий Александрович": 6,
-      "Свистунов Александр Григорьевич": 9,
-      "Эмиров Рустем": 3
+      "gas:candidate-vibid:4934014106983": 20,
+      "gas:candidate-vibid:4934014106995": 576,
+      "gas:candidate-vibid:4934014107127": 22,
+      "gas:candidate-vibid:4934014106464": 42,
+      "gas:candidate-vibid:4934014106702": 51,
+      "gas:candidate-vibid:4934014106827": 19,
+      "gas:candidate-vibid:4934014107022": 6,
+      "gas:candidate-vibid:4934014106933": 9,
+      "gas:candidate-vibid:4934014106911": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105971&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105971&type=464",
@@ -12610,15 +12610,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 39,
-      "Бахарев Константин Михайлович": 820,
-      "Воропай Михаил Викторович": 30,
-      "Кийко Игорь Александрович": 87,
-      "Кискин Степан Степанович": 43,
-      "Паша Андрей Викторович": 19,
-      "Першиков Юрий Александрович": 10,
-      "Свистунов Александр Григорьевич": 8,
-      "Эмиров Рустем": 23
+      "gas:candidate-vibid:4934014106983": 39,
+      "gas:candidate-vibid:4934014106995": 820,
+      "gas:candidate-vibid:4934014107127": 30,
+      "gas:candidate-vibid:4934014106464": 87,
+      "gas:candidate-vibid:4934014106702": 43,
+      "gas:candidate-vibid:4934014106827": 19,
+      "gas:candidate-vibid:4934014107022": 10,
+      "gas:candidate-vibid:4934014106933": 8,
+      "gas:candidate-vibid:4934014106911": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105971&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105971&type=464",
@@ -12669,15 +12669,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 72,
-      "Бахарев Константин Михайлович": 678,
-      "Воропай Михаил Викторович": 59,
-      "Кийко Игорь Александрович": 88,
-      "Кискин Степан Степанович": 81,
-      "Паша Андрей Викторович": 15,
-      "Першиков Юрий Александрович": 12,
-      "Свистунов Александр Григорьевич": 12,
-      "Эмиров Рустем": 11
+      "gas:candidate-vibid:4934014106983": 72,
+      "gas:candidate-vibid:4934014106995": 678,
+      "gas:candidate-vibid:4934014107127": 59,
+      "gas:candidate-vibid:4934014106464": 88,
+      "gas:candidate-vibid:4934014106702": 81,
+      "gas:candidate-vibid:4934014106827": 15,
+      "gas:candidate-vibid:4934014107022": 12,
+      "gas:candidate-vibid:4934014106933": 12,
+      "gas:candidate-vibid:4934014106911": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105971&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105971&type=464",
@@ -12728,15 +12728,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 50,
-      "Бахарев Константин Михайлович": 602,
-      "Воропай Михаил Викторович": 64,
-      "Кийко Игорь Александрович": 103,
-      "Кискин Степан Степанович": 103,
-      "Паша Андрей Викторович": 26,
-      "Першиков Юрий Александрович": 11,
-      "Свистунов Александр Григорьевич": 10,
-      "Эмиров Рустем": 22
+      "gas:candidate-vibid:4934014106983": 50,
+      "gas:candidate-vibid:4934014106995": 602,
+      "gas:candidate-vibid:4934014107127": 64,
+      "gas:candidate-vibid:4934014106464": 103,
+      "gas:candidate-vibid:4934014106702": 103,
+      "gas:candidate-vibid:4934014106827": 26,
+      "gas:candidate-vibid:4934014107022": 11,
+      "gas:candidate-vibid:4934014106933": 10,
+      "gas:candidate-vibid:4934014106911": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105971&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105971&type=464",
@@ -12787,15 +12787,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 27,
-      "Бахарев Константин Михайлович": 359,
-      "Воропай Михаил Викторович": 27,
-      "Кийко Игорь Александрович": 49,
-      "Кискин Степан Степанович": 44,
-      "Паша Андрей Викторович": 13,
-      "Першиков Юрий Александрович": 7,
-      "Свистунов Александр Григорьевич": 4,
-      "Эмиров Рустем": 6
+      "gas:candidate-vibid:4934014106983": 27,
+      "gas:candidate-vibid:4934014106995": 359,
+      "gas:candidate-vibid:4934014107127": 27,
+      "gas:candidate-vibid:4934014106464": 49,
+      "gas:candidate-vibid:4934014106702": 44,
+      "gas:candidate-vibid:4934014106827": 13,
+      "gas:candidate-vibid:4934014107022": 7,
+      "gas:candidate-vibid:4934014106933": 4,
+      "gas:candidate-vibid:4934014106911": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105971&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105971&type=464",
@@ -12846,15 +12846,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 25,
-      "Бахарев Константин Михайлович": 300,
-      "Воропай Михаил Викторович": 25,
-      "Кийко Игорь Александрович": 47,
-      "Кискин Степан Степанович": 25,
-      "Паша Андрей Викторович": 7,
-      "Першиков Юрий Александрович": 6,
-      "Свистунов Александр Григорьевич": 2,
-      "Эмиров Рустем": 1
+      "gas:candidate-vibid:4934014106983": 25,
+      "gas:candidate-vibid:4934014106995": 300,
+      "gas:candidate-vibid:4934014107127": 25,
+      "gas:candidate-vibid:4934014106464": 47,
+      "gas:candidate-vibid:4934014106702": 25,
+      "gas:candidate-vibid:4934014106827": 7,
+      "gas:candidate-vibid:4934014107022": 6,
+      "gas:candidate-vibid:4934014106933": 2,
+      "gas:candidate-vibid:4934014106911": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105971&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105971&type=464",
@@ -12905,15 +12905,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 51,
-      "Бахарев Константин Михайлович": 659,
-      "Воропай Михаил Викторович": 58,
-      "Кийко Игорь Александрович": 183,
-      "Кискин Степан Степанович": 126,
-      "Паша Андрей Викторович": 14,
-      "Першиков Юрий Александрович": 6,
-      "Свистунов Александр Григорьевич": 6,
-      "Эмиров Рустем": 18
+      "gas:candidate-vibid:4934014106983": 51,
+      "gas:candidate-vibid:4934014106995": 659,
+      "gas:candidate-vibid:4934014107127": 58,
+      "gas:candidate-vibid:4934014106464": 183,
+      "gas:candidate-vibid:4934014106702": 126,
+      "gas:candidate-vibid:4934014106827": 14,
+      "gas:candidate-vibid:4934014107022": 6,
+      "gas:candidate-vibid:4934014106933": 6,
+      "gas:candidate-vibid:4934014106911": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105971&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105971&type=464",
@@ -12964,15 +12964,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 48,
-      "Бахарев Константин Михайлович": 580,
-      "Воропай Михаил Викторович": 46,
-      "Кийко Игорь Александрович": 93,
-      "Кискин Степан Степанович": 77,
-      "Паша Андрей Викторович": 31,
-      "Першиков Юрий Александрович": 6,
-      "Свистунов Александр Григорьевич": 5,
-      "Эмиров Рустем": 19
+      "gas:candidate-vibid:4934014106983": 48,
+      "gas:candidate-vibid:4934014106995": 580,
+      "gas:candidate-vibid:4934014107127": 46,
+      "gas:candidate-vibid:4934014106464": 93,
+      "gas:candidate-vibid:4934014106702": 77,
+      "gas:candidate-vibid:4934014106827": 31,
+      "gas:candidate-vibid:4934014107022": 6,
+      "gas:candidate-vibid:4934014106933": 5,
+      "gas:candidate-vibid:4934014106911": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105971&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105971&type=464",
@@ -13023,15 +13023,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 55,
-      "Бахарев Константин Михайлович": 677,
-      "Воропай Михаил Викторович": 66,
-      "Кийко Игорь Александрович": 108,
-      "Кискин Степан Степанович": 96,
-      "Паша Андрей Викторович": 26,
-      "Першиков Юрий Александрович": 10,
-      "Свистунов Александр Григорьевич": 4,
-      "Эмиров Рустем": 9
+      "gas:candidate-vibid:4934014106983": 55,
+      "gas:candidate-vibid:4934014106995": 677,
+      "gas:candidate-vibid:4934014107127": 66,
+      "gas:candidate-vibid:4934014106464": 108,
+      "gas:candidate-vibid:4934014106702": 96,
+      "gas:candidate-vibid:4934014106827": 26,
+      "gas:candidate-vibid:4934014107022": 10,
+      "gas:candidate-vibid:4934014106933": 4,
+      "gas:candidate-vibid:4934014106911": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105971&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105971&type=464",
@@ -13082,15 +13082,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 49,
-      "Бахарев Константин Михайлович": 555,
-      "Воропай Михаил Викторович": 58,
-      "Кийко Игорь Александрович": 95,
-      "Кискин Степан Степанович": 80,
-      "Паша Андрей Викторович": 25,
-      "Першиков Юрий Александрович": 7,
-      "Свистунов Александр Григорьевич": 11,
-      "Эмиров Рустем": 11
+      "gas:candidate-vibid:4934014106983": 49,
+      "gas:candidate-vibid:4934014106995": 555,
+      "gas:candidate-vibid:4934014107127": 58,
+      "gas:candidate-vibid:4934014106464": 95,
+      "gas:candidate-vibid:4934014106702": 80,
+      "gas:candidate-vibid:4934014106827": 25,
+      "gas:candidate-vibid:4934014107022": 7,
+      "gas:candidate-vibid:4934014106933": 11,
+      "gas:candidate-vibid:4934014106911": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105971&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105971&type=464",
@@ -13141,15 +13141,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 40,
-      "Бахарев Константин Михайлович": 445,
-      "Воропай Михаил Викторович": 44,
-      "Кийко Игорь Александрович": 75,
-      "Кискин Степан Степанович": 61,
-      "Паша Андрей Викторович": 18,
-      "Першиков Юрий Александрович": 5,
-      "Свистунов Александр Григорьевич": 5,
-      "Эмиров Рустем": 13
+      "gas:candidate-vibid:4934014106983": 40,
+      "gas:candidate-vibid:4934014106995": 445,
+      "gas:candidate-vibid:4934014107127": 44,
+      "gas:candidate-vibid:4934014106464": 75,
+      "gas:candidate-vibid:4934014106702": 61,
+      "gas:candidate-vibid:4934014106827": 18,
+      "gas:candidate-vibid:4934014107022": 5,
+      "gas:candidate-vibid:4934014106933": 5,
+      "gas:candidate-vibid:4934014106911": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105971&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105971&type=464",
@@ -13200,15 +13200,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 44,
-      "Бахарев Константин Михайлович": 388,
-      "Воропай Михаил Викторович": 35,
-      "Кийко Игорь Александрович": 52,
-      "Кискин Степан Степанович": 77,
-      "Паша Андрей Викторович": 14,
-      "Першиков Юрий Александрович": 3,
-      "Свистунов Александр Григорьевич": 5,
-      "Эмиров Рустем": 11
+      "gas:candidate-vibid:4934014106983": 44,
+      "gas:candidate-vibid:4934014106995": 388,
+      "gas:candidate-vibid:4934014107127": 35,
+      "gas:candidate-vibid:4934014106464": 52,
+      "gas:candidate-vibid:4934014106702": 77,
+      "gas:candidate-vibid:4934014106827": 14,
+      "gas:candidate-vibid:4934014107022": 3,
+      "gas:candidate-vibid:4934014106933": 5,
+      "gas:candidate-vibid:4934014106911": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105971&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105971&type=464",
@@ -13259,15 +13259,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 42,
-      "Бахарев Константин Михайлович": 598,
-      "Воропай Михаил Викторович": 42,
-      "Кийко Игорь Александрович": 189,
-      "Кискин Степан Степанович": 61,
-      "Паша Андрей Викторович": 22,
-      "Першиков Юрий Александрович": 10,
-      "Свистунов Александр Григорьевич": 2,
-      "Эмиров Рустем": 14
+      "gas:candidate-vibid:4934014106983": 42,
+      "gas:candidate-vibid:4934014106995": 598,
+      "gas:candidate-vibid:4934014107127": 42,
+      "gas:candidate-vibid:4934014106464": 189,
+      "gas:candidate-vibid:4934014106702": 61,
+      "gas:candidate-vibid:4934014106827": 22,
+      "gas:candidate-vibid:4934014107022": 10,
+      "gas:candidate-vibid:4934014106933": 2,
+      "gas:candidate-vibid:4934014106911": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105971&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105971&type=464",
@@ -13318,15 +13318,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 34,
-      "Бахарев Константин Михайлович": 750,
-      "Воропай Михаил Викторович": 28,
-      "Кийко Игорь Александрович": 81,
-      "Кискин Степан Степанович": 57,
-      "Паша Андрей Викторович": 11,
-      "Першиков Юрий Александрович": 8,
-      "Свистунов Александр Григорьевич": 3,
-      "Эмиров Рустем": 7
+      "gas:candidate-vibid:4934014106983": 34,
+      "gas:candidate-vibid:4934014106995": 750,
+      "gas:candidate-vibid:4934014107127": 28,
+      "gas:candidate-vibid:4934014106464": 81,
+      "gas:candidate-vibid:4934014106702": 57,
+      "gas:candidate-vibid:4934014106827": 11,
+      "gas:candidate-vibid:4934014107022": 8,
+      "gas:candidate-vibid:4934014106933": 3,
+      "gas:candidate-vibid:4934014106911": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105971&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105971&type=464",
@@ -13377,15 +13377,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 59,
-      "Бахарев Константин Михайлович": 511,
-      "Воропай Михаил Викторович": 60,
-      "Кийко Игорь Александрович": 107,
-      "Кискин Степан Степанович": 86,
-      "Паша Андрей Викторович": 31,
-      "Першиков Юрий Александрович": 3,
-      "Свистунов Александр Григорьевич": 7,
-      "Эмиров Рустем": 13
+      "gas:candidate-vibid:4934014106983": 59,
+      "gas:candidate-vibid:4934014106995": 511,
+      "gas:candidate-vibid:4934014107127": 60,
+      "gas:candidate-vibid:4934014106464": 107,
+      "gas:candidate-vibid:4934014106702": 86,
+      "gas:candidate-vibid:4934014106827": 31,
+      "gas:candidate-vibid:4934014107022": 3,
+      "gas:candidate-vibid:4934014106933": 7,
+      "gas:candidate-vibid:4934014106911": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105971&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105971&type=464",
@@ -13436,15 +13436,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 28,
-      "Бахарев Константин Михайлович": 425,
-      "Воропай Михаил Викторович": 28,
-      "Кийко Игорь Александрович": 61,
-      "Кискин Степан Степанович": 51,
-      "Паша Андрей Викторович": 12,
-      "Першиков Юрий Александрович": 6,
-      "Свистунов Александр Григорьевич": 3,
-      "Эмиров Рустем": 10
+      "gas:candidate-vibid:4934014106983": 28,
+      "gas:candidate-vibid:4934014106995": 425,
+      "gas:candidate-vibid:4934014107127": 28,
+      "gas:candidate-vibid:4934014106464": 61,
+      "gas:candidate-vibid:4934014106702": 51,
+      "gas:candidate-vibid:4934014106827": 12,
+      "gas:candidate-vibid:4934014107022": 6,
+      "gas:candidate-vibid:4934014106933": 3,
+      "gas:candidate-vibid:4934014106911": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105971&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105971&type=464",
@@ -13495,15 +13495,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 32,
-      "Бахарев Константин Михайлович": 213,
-      "Воропай Михаил Викторович": 15,
-      "Кийко Игорь Александрович": 23,
-      "Кискин Степан Степанович": 26,
-      "Паша Андрей Викторович": 6,
-      "Першиков Юрий Александрович": 6,
-      "Свистунов Александр Григорьевич": 2,
-      "Эмиров Рустем": 5
+      "gas:candidate-vibid:4934014106983": 32,
+      "gas:candidate-vibid:4934014106995": 213,
+      "gas:candidate-vibid:4934014107127": 15,
+      "gas:candidate-vibid:4934014106464": 23,
+      "gas:candidate-vibid:4934014106702": 26,
+      "gas:candidate-vibid:4934014106827": 6,
+      "gas:candidate-vibid:4934014107022": 6,
+      "gas:candidate-vibid:4934014106933": 2,
+      "gas:candidate-vibid:4934014106911": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105971&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105971&type=464",
@@ -13554,15 +13554,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 54,
-      "Бахарев Константин Михайлович": 715,
-      "Воропай Михаил Викторович": 37,
-      "Кийко Игорь Александрович": 100,
-      "Кискин Степан Степанович": 56,
-      "Паша Андрей Викторович": 22,
-      "Першиков Юрий Александрович": 5,
-      "Свистунов Александр Григорьевич": 5,
-      "Эмиров Рустем": 23
+      "gas:candidate-vibid:4934014106983": 54,
+      "gas:candidate-vibid:4934014106995": 715,
+      "gas:candidate-vibid:4934014107127": 37,
+      "gas:candidate-vibid:4934014106464": 100,
+      "gas:candidate-vibid:4934014106702": 56,
+      "gas:candidate-vibid:4934014106827": 22,
+      "gas:candidate-vibid:4934014107022": 5,
+      "gas:candidate-vibid:4934014106933": 5,
+      "gas:candidate-vibid:4934014106911": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105971&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105971&type=464",
@@ -13613,15 +13613,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 21,
-      "Бахарев Константин Михайлович": 392,
-      "Воропай Михаил Викторович": 23,
-      "Кийко Игорь Александрович": 70,
-      "Кискин Степан Степанович": 40,
-      "Паша Андрей Викторович": 19,
-      "Першиков Юрий Александрович": 8,
-      "Свистунов Александр Григорьевич": 7,
-      "Эмиров Рустем": 7
+      "gas:candidate-vibid:4934014106983": 21,
+      "gas:candidate-vibid:4934014106995": 392,
+      "gas:candidate-vibid:4934014107127": 23,
+      "gas:candidate-vibid:4934014106464": 70,
+      "gas:candidate-vibid:4934014106702": 40,
+      "gas:candidate-vibid:4934014106827": 19,
+      "gas:candidate-vibid:4934014107022": 8,
+      "gas:candidate-vibid:4934014106933": 7,
+      "gas:candidate-vibid:4934014106911": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105971&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105971&type=464",
@@ -13672,15 +13672,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 31,
-      "Бахарев Константин Михайлович": 403,
-      "Воропай Михаил Викторович": 29,
-      "Кийко Игорь Александрович": 50,
-      "Кискин Степан Степанович": 79,
-      "Паша Андрей Викторович": 14,
-      "Першиков Юрий Александрович": 8,
-      "Свистунов Александр Григорьевич": 6,
-      "Эмиров Рустем": 1
+      "gas:candidate-vibid:4934014106983": 31,
+      "gas:candidate-vibid:4934014106995": 403,
+      "gas:candidate-vibid:4934014107127": 29,
+      "gas:candidate-vibid:4934014106464": 50,
+      "gas:candidate-vibid:4934014106702": 79,
+      "gas:candidate-vibid:4934014106827": 14,
+      "gas:candidate-vibid:4934014107022": 8,
+      "gas:candidate-vibid:4934014106933": 6,
+      "gas:candidate-vibid:4934014106911": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105971&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105971&type=464",
@@ -13731,15 +13731,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 49,
-      "Бахарев Константин Михайлович": 549,
-      "Воропай Михаил Викторович": 33,
-      "Кийко Игорь Александрович": 98,
-      "Кискин Степан Степанович": 60,
-      "Паша Андрей Викторович": 13,
-      "Першиков Юрий Александрович": 7,
-      "Свистунов Александр Григорьевич": 6,
-      "Эмиров Рустем": 12
+      "gas:candidate-vibid:4934014106983": 49,
+      "gas:candidate-vibid:4934014106995": 549,
+      "gas:candidate-vibid:4934014107127": 33,
+      "gas:candidate-vibid:4934014106464": 98,
+      "gas:candidate-vibid:4934014106702": 60,
+      "gas:candidate-vibid:4934014106827": 13,
+      "gas:candidate-vibid:4934014107022": 7,
+      "gas:candidate-vibid:4934014106933": 6,
+      "gas:candidate-vibid:4934014106911": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105971&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105971&type=464",
@@ -13790,15 +13790,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 42,
-      "Бахарев Константин Михайлович": 432,
-      "Воропай Михаил Викторович": 48,
-      "Кийко Игорь Александрович": 68,
-      "Кискин Степан Степанович": 84,
-      "Паша Андрей Викторович": 25,
-      "Першиков Юрий Александрович": 6,
-      "Свистунов Александр Григорьевич": 2,
-      "Эмиров Рустем": 6
+      "gas:candidate-vibid:4934014106983": 42,
+      "gas:candidate-vibid:4934014106995": 432,
+      "gas:candidate-vibid:4934014107127": 48,
+      "gas:candidate-vibid:4934014106464": 68,
+      "gas:candidate-vibid:4934014106702": 84,
+      "gas:candidate-vibid:4934014106827": 25,
+      "gas:candidate-vibid:4934014107022": 6,
+      "gas:candidate-vibid:4934014106933": 2,
+      "gas:candidate-vibid:4934014106911": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105971&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105971&type=464",
@@ -13849,15 +13849,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 32,
-      "Бахарев Константин Михайлович": 445,
-      "Воропай Михаил Викторович": 71,
-      "Кийко Игорь Александрович": 84,
-      "Кискин Степан Степанович": 76,
-      "Паша Андрей Викторович": 13,
-      "Першиков Юрий Александрович": 9,
-      "Свистунов Александр Григорьевич": 5,
-      "Эмиров Рустем": 9
+      "gas:candidate-vibid:4934014106983": 32,
+      "gas:candidate-vibid:4934014106995": 445,
+      "gas:candidate-vibid:4934014107127": 71,
+      "gas:candidate-vibid:4934014106464": 84,
+      "gas:candidate-vibid:4934014106702": 76,
+      "gas:candidate-vibid:4934014106827": 13,
+      "gas:candidate-vibid:4934014107022": 9,
+      "gas:candidate-vibid:4934014106933": 5,
+      "gas:candidate-vibid:4934014106911": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105971&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105971&type=464",
@@ -13908,15 +13908,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 50,
-      "Бахарев Константин Михайлович": 770,
-      "Воропай Михаил Викторович": 106,
-      "Кийко Игорь Александрович": 137,
-      "Кискин Степан Степанович": 121,
-      "Паша Андрей Викторович": 30,
-      "Першиков Юрий Александрович": 14,
-      "Свистунов Александр Григорьевич": 13,
-      "Эмиров Рустем": 12
+      "gas:candidate-vibid:4934014106983": 50,
+      "gas:candidate-vibid:4934014106995": 770,
+      "gas:candidate-vibid:4934014107127": 106,
+      "gas:candidate-vibid:4934014106464": 137,
+      "gas:candidate-vibid:4934014106702": 121,
+      "gas:candidate-vibid:4934014106827": 30,
+      "gas:candidate-vibid:4934014107022": 14,
+      "gas:candidate-vibid:4934014106933": 13,
+      "gas:candidate-vibid:4934014106911": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105971&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105971&type=464",
@@ -13967,15 +13967,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 27,
-      "Бахарев Константин Михайлович": 350,
-      "Воропай Михаил Викторович": 78,
-      "Кийко Игорь Александрович": 53,
-      "Кискин Степан Степанович": 51,
-      "Паша Андрей Викторович": 17,
-      "Першиков Юрий Александрович": 6,
-      "Свистунов Александр Григорьевич": 5,
-      "Эмиров Рустем": 34
+      "gas:candidate-vibid:4934014106983": 27,
+      "gas:candidate-vibid:4934014106995": 350,
+      "gas:candidate-vibid:4934014107127": 78,
+      "gas:candidate-vibid:4934014106464": 53,
+      "gas:candidate-vibid:4934014106702": 51,
+      "gas:candidate-vibid:4934014106827": 17,
+      "gas:candidate-vibid:4934014107022": 6,
+      "gas:candidate-vibid:4934014106933": 5,
+      "gas:candidate-vibid:4934014106911": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105971&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105971&type=464",
@@ -14026,15 +14026,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 23,
-      "Бахарев Константин Михайлович": 332,
-      "Воропай Михаил Викторович": 86,
-      "Кийко Игорь Александрович": 53,
-      "Кискин Степан Степанович": 32,
-      "Паша Андрей Викторович": 9,
-      "Першиков Юрий Александрович": 1,
-      "Свистунов Александр Григорьевич": 5,
-      "Эмиров Рустем": 12
+      "gas:candidate-vibid:4934014106983": 23,
+      "gas:candidate-vibid:4934014106995": 332,
+      "gas:candidate-vibid:4934014107127": 86,
+      "gas:candidate-vibid:4934014106464": 53,
+      "gas:candidate-vibid:4934014106702": 32,
+      "gas:candidate-vibid:4934014106827": 9,
+      "gas:candidate-vibid:4934014107022": 1,
+      "gas:candidate-vibid:4934014106933": 5,
+      "gas:candidate-vibid:4934014106911": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105971&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105971&type=464",
@@ -14085,15 +14085,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 3,
-      "Бахарев Константин Михайлович": 76,
-      "Воропай Михаил Викторович": 6,
-      "Кийко Игорь Александрович": 10,
-      "Кискин Степан Степанович": 5,
-      "Паша Андрей Викторович": 5,
-      "Першиков Юрий Александрович": 1,
-      "Свистунов Александр Григорьевич": 0,
-      "Эмиров Рустем": 53
+      "gas:candidate-vibid:4934014106983": 3,
+      "gas:candidate-vibid:4934014106995": 76,
+      "gas:candidate-vibid:4934014107127": 6,
+      "gas:candidate-vibid:4934014106464": 10,
+      "gas:candidate-vibid:4934014106702": 5,
+      "gas:candidate-vibid:4934014106827": 5,
+      "gas:candidate-vibid:4934014107022": 1,
+      "gas:candidate-vibid:4934014106933": 0,
+      "gas:candidate-vibid:4934014106911": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105971&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105971&type=464",
@@ -14144,15 +14144,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 21,
-      "Бахарев Константин Михайлович": 814,
-      "Воропай Михаил Викторович": 167,
-      "Кийко Игорь Александрович": 59,
-      "Кискин Степан Степанович": 158,
-      "Паша Андрей Викторович": 11,
-      "Першиков Юрий Александрович": 3,
-      "Свистунов Александр Григорьевич": 5,
-      "Эмиров Рустем": 30
+      "gas:candidate-vibid:4934014106983": 21,
+      "gas:candidate-vibid:4934014106995": 814,
+      "gas:candidate-vibid:4934014107127": 167,
+      "gas:candidate-vibid:4934014106464": 59,
+      "gas:candidate-vibid:4934014106702": 158,
+      "gas:candidate-vibid:4934014106827": 11,
+      "gas:candidate-vibid:4934014107022": 3,
+      "gas:candidate-vibid:4934014106933": 5,
+      "gas:candidate-vibid:4934014106911": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105971&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105971&type=464",
@@ -14203,15 +14203,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 12,
-      "Бахарев Константин Михайлович": 539,
-      "Воропай Михаил Викторович": 47,
-      "Кийко Игорь Александрович": 14,
-      "Кискин Степан Степанович": 54,
-      "Паша Андрей Викторович": 7,
-      "Першиков Юрий Александрович": 1,
-      "Свистунов Александр Григорьевич": 0,
-      "Эмиров Рустем": 86
+      "gas:candidate-vibid:4934014106983": 12,
+      "gas:candidate-vibid:4934014106995": 539,
+      "gas:candidate-vibid:4934014107127": 47,
+      "gas:candidate-vibid:4934014106464": 14,
+      "gas:candidate-vibid:4934014106702": 54,
+      "gas:candidate-vibid:4934014106827": 7,
+      "gas:candidate-vibid:4934014107022": 1,
+      "gas:candidate-vibid:4934014106933": 0,
+      "gas:candidate-vibid:4934014106911": 86
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105971&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105971&type=464",
@@ -14262,15 +14262,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 84,
-      "Бахарев Константин Михайлович": 722,
-      "Воропай Михаил Викторович": 41,
-      "Кийко Игорь Александрович": 147,
-      "Кискин Степан Степанович": 66,
-      "Паша Андрей Викторович": 40,
-      "Першиков Юрий Александрович": 18,
-      "Свистунов Александр Григорьевич": 11,
-      "Эмиров Рустем": 19
+      "gas:candidate-vibid:4934014106983": 84,
+      "gas:candidate-vibid:4934014106995": 722,
+      "gas:candidate-vibid:4934014107127": 41,
+      "gas:candidate-vibid:4934014106464": 147,
+      "gas:candidate-vibid:4934014106702": 66,
+      "gas:candidate-vibid:4934014106827": 40,
+      "gas:candidate-vibid:4934014107022": 18,
+      "gas:candidate-vibid:4934014106933": 11,
+      "gas:candidate-vibid:4934014106911": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105971&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105971&type=464",
@@ -14321,15 +14321,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 55,
-      "Бахарев Константин Михайлович": 787,
-      "Воропай Михаил Викторович": 30,
-      "Кийко Игорь Александрович": 70,
-      "Кискин Степан Степанович": 79,
-      "Паша Андрей Викторович": 12,
-      "Першиков Юрий Александрович": 3,
-      "Свистунов Александр Григорьевич": 2,
-      "Эмиров Рустем": 7
+      "gas:candidate-vibid:4934014106983": 55,
+      "gas:candidate-vibid:4934014106995": 787,
+      "gas:candidate-vibid:4934014107127": 30,
+      "gas:candidate-vibid:4934014106464": 70,
+      "gas:candidate-vibid:4934014106702": 79,
+      "gas:candidate-vibid:4934014106827": 12,
+      "gas:candidate-vibid:4934014107022": 3,
+      "gas:candidate-vibid:4934014106933": 2,
+      "gas:candidate-vibid:4934014106911": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105971&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105971&type=464",
@@ -14380,15 +14380,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 11,
-      "Бахарев Константин Михайлович": 668,
-      "Воропай Михаил Викторович": 14,
-      "Кийко Игорь Александрович": 21,
-      "Кискин Степан Степанович": 55,
-      "Паша Андрей Викторович": 17,
-      "Першиков Юрий Александрович": 1,
-      "Свистунов Александр Григорьевич": 3,
-      "Эмиров Рустем": 4
+      "gas:candidate-vibid:4934014106983": 11,
+      "gas:candidate-vibid:4934014106995": 668,
+      "gas:candidate-vibid:4934014107127": 14,
+      "gas:candidate-vibid:4934014106464": 21,
+      "gas:candidate-vibid:4934014106702": 55,
+      "gas:candidate-vibid:4934014106827": 17,
+      "gas:candidate-vibid:4934014107022": 1,
+      "gas:candidate-vibid:4934014106933": 3,
+      "gas:candidate-vibid:4934014106911": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105971&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105971&type=464",
@@ -14439,15 +14439,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 59,
-      "Бахарев Константин Михайлович": 1211,
-      "Воропай Михаил Викторович": 43,
-      "Кийко Игорь Александрович": 114,
-      "Кискин Степан Степанович": 76,
-      "Паша Андрей Викторович": 31,
-      "Першиков Юрий Александрович": 10,
-      "Свистунов Александр Григорьевич": 11,
-      "Эмиров Рустем": 15
+      "gas:candidate-vibid:4934014106983": 59,
+      "gas:candidate-vibid:4934014106995": 1211,
+      "gas:candidate-vibid:4934014107127": 43,
+      "gas:candidate-vibid:4934014106464": 114,
+      "gas:candidate-vibid:4934014106702": 76,
+      "gas:candidate-vibid:4934014106827": 31,
+      "gas:candidate-vibid:4934014107022": 10,
+      "gas:candidate-vibid:4934014106933": 11,
+      "gas:candidate-vibid:4934014106911": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105971&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105971&type=464",
@@ -14498,15 +14498,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 38,
-      "Бахарев Константин Михайлович": 571,
-      "Воропай Михаил Викторович": 34,
-      "Кийко Игорь Александрович": 85,
-      "Кискин Степан Степанович": 78,
-      "Паша Андрей Викторович": 24,
-      "Першиков Юрий Александрович": 1,
-      "Свистунов Александр Григорьевич": 10,
-      "Эмиров Рустем": 9
+      "gas:candidate-vibid:4934014106983": 38,
+      "gas:candidate-vibid:4934014106995": 571,
+      "gas:candidate-vibid:4934014107127": 34,
+      "gas:candidate-vibid:4934014106464": 85,
+      "gas:candidate-vibid:4934014106702": 78,
+      "gas:candidate-vibid:4934014106827": 24,
+      "gas:candidate-vibid:4934014107022": 1,
+      "gas:candidate-vibid:4934014106933": 10,
+      "gas:candidate-vibid:4934014106911": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105971&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105971&type=464",
@@ -14557,15 +14557,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 66,
-      "Бахарев Константин Михайлович": 708,
-      "Воропай Михаил Викторович": 49,
-      "Кийко Игорь Александрович": 103,
-      "Кискин Степан Степанович": 94,
-      "Паша Андрей Викторович": 40,
-      "Першиков Юрий Александрович": 9,
-      "Свистунов Александр Григорьевич": 10,
-      "Эмиров Рустем": 9
+      "gas:candidate-vibid:4934014106983": 66,
+      "gas:candidate-vibid:4934014106995": 708,
+      "gas:candidate-vibid:4934014107127": 49,
+      "gas:candidate-vibid:4934014106464": 103,
+      "gas:candidate-vibid:4934014106702": 94,
+      "gas:candidate-vibid:4934014106827": 40,
+      "gas:candidate-vibid:4934014107022": 9,
+      "gas:candidate-vibid:4934014106933": 10,
+      "gas:candidate-vibid:4934014106911": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105971&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105971&type=464",
@@ -14616,15 +14616,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 65,
-      "Бахарев Константин Михайлович": 670,
-      "Воропай Михаил Викторович": 49,
-      "Кийко Игорь Александрович": 97,
-      "Кискин Степан Степанович": 96,
-      "Паша Андрей Викторович": 21,
-      "Першиков Юрий Александрович": 9,
-      "Свистунов Александр Григорьевич": 12,
-      "Эмиров Рустем": 14
+      "gas:candidate-vibid:4934014106983": 65,
+      "gas:candidate-vibid:4934014106995": 670,
+      "gas:candidate-vibid:4934014107127": 49,
+      "gas:candidate-vibid:4934014106464": 97,
+      "gas:candidate-vibid:4934014106702": 96,
+      "gas:candidate-vibid:4934014106827": 21,
+      "gas:candidate-vibid:4934014107022": 9,
+      "gas:candidate-vibid:4934014106933": 12,
+      "gas:candidate-vibid:4934014106911": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105971&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105971&type=464",
@@ -14675,15 +14675,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 35,
-      "Бахарев Константин Михайлович": 352,
-      "Воропай Михаил Викторович": 26,
-      "Кийко Игорь Александрович": 60,
-      "Кискин Степан Степанович": 44,
-      "Паша Андрей Викторович": 10,
-      "Першиков Юрий Александрович": 7,
-      "Свистунов Александр Григорьевич": 1,
-      "Эмиров Рустем": 14
+      "gas:candidate-vibid:4934014106983": 35,
+      "gas:candidate-vibid:4934014106995": 352,
+      "gas:candidate-vibid:4934014107127": 26,
+      "gas:candidate-vibid:4934014106464": 60,
+      "gas:candidate-vibid:4934014106702": 44,
+      "gas:candidate-vibid:4934014106827": 10,
+      "gas:candidate-vibid:4934014107022": 7,
+      "gas:candidate-vibid:4934014106933": 1,
+      "gas:candidate-vibid:4934014106911": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105971&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105971&type=464",
@@ -14734,15 +14734,15 @@ export const duma_2016_uik_463_region_93_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Валерий Викторович": 37,
-      "Бахарев Константин Михайлович": 796,
-      "Воропай Михаил Викторович": 28,
-      "Кийко Игорь Александрович": 56,
-      "Кискин Степан Степанович": 43,
-      "Паша Андрей Викторович": 20,
-      "Першиков Юрий Александрович": 7,
-      "Свистунов Александр Григорьевич": 1,
-      "Эмиров Рустем": 13
+      "gas:candidate-vibid:4934014106983": 37,
+      "gas:candidate-vibid:4934014106995": 796,
+      "gas:candidate-vibid:4934014107127": 28,
+      "gas:candidate-vibid:4934014106464": 56,
+      "gas:candidate-vibid:4934014106702": 43,
+      "gas:candidate-vibid:4934014106827": 20,
+      "gas:candidate-vibid:4934014107022": 7,
+      "gas:candidate-vibid:4934014106933": 1,
+      "gas:candidate-vibid:4934014106911": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/crimea?action=show&root=1000307&tvd=4934014105971&vrn=100100067795849&region=93&global=&sub_region=93&prver=0&pronetvd=null&vibid=4934014105971&type=464",

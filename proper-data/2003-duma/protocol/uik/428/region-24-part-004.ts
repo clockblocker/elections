@@ -42,12 +42,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 15,
-      "Кармазина Раиса Васильевна": 783,
-      "Коледов Олег Геннадьевич": 55,
-      "Смык Николай Михайлович": 29,
-      "Сысоева Наталья Александровна": 19,
-      "Против всех": 120
+      "gas:candidate-vibid:324300366742": 15,
+      "gas:candidate-vibid:1001000225918": 783,
+      "gas:candidate-vibid:1001000136023": 55,
+      "gas:candidate-vibid:1001000121819": 29,
+      "gas:candidate-vibid:1001000190310": 19,
+      "special:against-all": 120
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067629&region=0&sub_region=0&type=429",
@@ -97,12 +97,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 19,
-      "Кармазина Раиса Васильевна": 338,
-      "Коледов Олег Геннадьевич": 25,
-      "Смык Николай Михайлович": 15,
-      "Сысоева Наталья Александровна": 11,
-      "Против всех": 96
+      "gas:candidate-vibid:324300366742": 19,
+      "gas:candidate-vibid:1001000225918": 338,
+      "gas:candidate-vibid:1001000136023": 25,
+      "gas:candidate-vibid:1001000121819": 15,
+      "gas:candidate-vibid:1001000190310": 11,
+      "special:against-all": 96
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067629&region=0&sub_region=0&type=429",
@@ -152,12 +152,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 7,
-      "Кармазина Раиса Васильевна": 395,
-      "Коледов Олег Геннадьевич": 34,
-      "Смык Николай Михайлович": 18,
-      "Сысоева Наталья Александровна": 8,
-      "Против всех": 91
+      "gas:candidate-vibid:324300366742": 7,
+      "gas:candidate-vibid:1001000225918": 395,
+      "gas:candidate-vibid:1001000136023": 34,
+      "gas:candidate-vibid:1001000121819": 18,
+      "gas:candidate-vibid:1001000190310": 8,
+      "special:against-all": 91
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067629&region=0&sub_region=0&type=429",
@@ -207,12 +207,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 12,
-      "Кармазина Раиса Васильевна": 354,
-      "Коледов Олег Геннадьевич": 26,
-      "Смык Николай Михайлович": 18,
-      "Сысоева Наталья Александровна": 12,
-      "Против всех": 51
+      "gas:candidate-vibid:324300366742": 12,
+      "gas:candidate-vibid:1001000225918": 354,
+      "gas:candidate-vibid:1001000136023": 26,
+      "gas:candidate-vibid:1001000121819": 18,
+      "gas:candidate-vibid:1001000190310": 12,
+      "special:against-all": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067629&region=0&sub_region=0&type=429",
@@ -262,12 +262,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 15,
-      "Кармазина Раиса Васильевна": 459,
-      "Коледов Олег Геннадьевич": 34,
-      "Смык Николай Михайлович": 22,
-      "Сысоева Наталья Александровна": 20,
-      "Против всех": 104
+      "gas:candidate-vibid:324300366742": 15,
+      "gas:candidate-vibid:1001000225918": 459,
+      "gas:candidate-vibid:1001000136023": 34,
+      "gas:candidate-vibid:1001000121819": 22,
+      "gas:candidate-vibid:1001000190310": 20,
+      "special:against-all": 104
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067629&region=0&sub_region=0&type=429",
@@ -317,12 +317,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 7,
-      "Кармазина Раиса Васильевна": 351,
-      "Коледов Олег Геннадьевич": 27,
-      "Смык Николай Михайлович": 13,
-      "Сысоева Наталья Александровна": 21,
-      "Против всех": 65
+      "gas:candidate-vibid:324300366742": 7,
+      "gas:candidate-vibid:1001000225918": 351,
+      "gas:candidate-vibid:1001000136023": 27,
+      "gas:candidate-vibid:1001000121819": 13,
+      "gas:candidate-vibid:1001000190310": 21,
+      "special:against-all": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067629&region=0&sub_region=0&type=429",
@@ -372,12 +372,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 6,
-      "Кармазина Раиса Васильевна": 353,
-      "Коледов Олег Геннадьевич": 30,
-      "Смык Николай Михайлович": 13,
-      "Сысоева Наталья Александровна": 10,
-      "Против всех": 58
+      "gas:candidate-vibid:324300366742": 6,
+      "gas:candidate-vibid:1001000225918": 353,
+      "gas:candidate-vibid:1001000136023": 30,
+      "gas:candidate-vibid:1001000121819": 13,
+      "gas:candidate-vibid:1001000190310": 10,
+      "special:against-all": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067629&region=0&sub_region=0&type=429",
@@ -427,12 +427,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 8,
-      "Кармазина Раиса Васильевна": 656,
-      "Коледов Олег Геннадьевич": 47,
-      "Смык Николай Михайлович": 19,
-      "Сысоева Наталья Александровна": 25,
-      "Против всех": 107
+      "gas:candidate-vibid:324300366742": 8,
+      "gas:candidate-vibid:1001000225918": 656,
+      "gas:candidate-vibid:1001000136023": 47,
+      "gas:candidate-vibid:1001000121819": 19,
+      "gas:candidate-vibid:1001000190310": 25,
+      "special:against-all": 107
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067629&region=0&sub_region=0&type=429",
@@ -482,12 +482,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 10,
-      "Кармазина Раиса Васильевна": 424,
-      "Коледов Олег Геннадьевич": 29,
-      "Смык Николай Михайлович": 13,
-      "Сысоева Наталья Александровна": 15,
-      "Против всех": 64
+      "gas:candidate-vibid:324300366742": 10,
+      "gas:candidate-vibid:1001000225918": 424,
+      "gas:candidate-vibid:1001000136023": 29,
+      "gas:candidate-vibid:1001000121819": 13,
+      "gas:candidate-vibid:1001000190310": 15,
+      "special:against-all": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067629&region=0&sub_region=0&type=429",
@@ -537,12 +537,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 7,
-      "Кармазина Раиса Васильевна": 490,
-      "Коледов Олег Геннадьевич": 29,
-      "Смык Николай Михайлович": 25,
-      "Сысоева Наталья Александровна": 20,
-      "Против всех": 87
+      "gas:candidate-vibid:324300366742": 7,
+      "gas:candidate-vibid:1001000225918": 490,
+      "gas:candidate-vibid:1001000136023": 29,
+      "gas:candidate-vibid:1001000121819": 25,
+      "gas:candidate-vibid:1001000190310": 20,
+      "special:against-all": 87
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067629&region=0&sub_region=0&type=429",
@@ -592,12 +592,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 10,
-      "Кармазина Раиса Васильевна": 493,
-      "Коледов Олег Геннадьевич": 27,
-      "Смык Николай Михайлович": 23,
-      "Сысоева Наталья Александровна": 19,
-      "Против всех": 101
+      "gas:candidate-vibid:324300366742": 10,
+      "gas:candidate-vibid:1001000225918": 493,
+      "gas:candidate-vibid:1001000136023": 27,
+      "gas:candidate-vibid:1001000121819": 23,
+      "gas:candidate-vibid:1001000190310": 19,
+      "special:against-all": 101
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067629&region=0&sub_region=0&type=429",
@@ -647,12 +647,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 9,
-      "Кармазина Раиса Васильевна": 443,
-      "Коледов Олег Геннадьевич": 31,
-      "Смык Николай Михайлович": 17,
-      "Сысоева Наталья Александровна": 22,
-      "Против всех": 104
+      "gas:candidate-vibid:324300366742": 9,
+      "gas:candidate-vibid:1001000225918": 443,
+      "gas:candidate-vibid:1001000136023": 31,
+      "gas:candidate-vibid:1001000121819": 17,
+      "gas:candidate-vibid:1001000190310": 22,
+      "special:against-all": 104
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067629&region=0&sub_region=0&type=429",
@@ -702,12 +702,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 8,
-      "Кармазина Раиса Васильевна": 525,
-      "Коледов Олег Геннадьевич": 30,
-      "Смык Николай Михайлович": 14,
-      "Сысоева Наталья Александровна": 12,
-      "Против всех": 86
+      "gas:candidate-vibid:324300366742": 8,
+      "gas:candidate-vibid:1001000225918": 525,
+      "gas:candidate-vibid:1001000136023": 30,
+      "gas:candidate-vibid:1001000121819": 14,
+      "gas:candidate-vibid:1001000190310": 12,
+      "special:against-all": 86
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067629&region=0&sub_region=0&type=429",
@@ -757,12 +757,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 11,
-      "Кармазина Раиса Васильевна": 470,
-      "Коледов Олег Геннадьевич": 31,
-      "Смык Николай Михайлович": 14,
-      "Сысоева Наталья Александровна": 20,
-      "Против всех": 83
+      "gas:candidate-vibid:324300366742": 11,
+      "gas:candidate-vibid:1001000225918": 470,
+      "gas:candidate-vibid:1001000136023": 31,
+      "gas:candidate-vibid:1001000121819": 14,
+      "gas:candidate-vibid:1001000190310": 20,
+      "special:against-all": 83
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067629&region=0&sub_region=0&type=429",
@@ -812,12 +812,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 12,
-      "Кармазина Раиса Васильевна": 459,
-      "Коледов Олег Геннадьевич": 27,
-      "Смык Николай Михайлович": 22,
-      "Сысоева Наталья Александровна": 17,
-      "Против всех": 79
+      "gas:candidate-vibid:324300366742": 12,
+      "gas:candidate-vibid:1001000225918": 459,
+      "gas:candidate-vibid:1001000136023": 27,
+      "gas:candidate-vibid:1001000121819": 22,
+      "gas:candidate-vibid:1001000190310": 17,
+      "special:against-all": 79
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067629&region=0&sub_region=0&type=429",
@@ -867,12 +867,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 14,
-      "Кармазина Раиса Васильевна": 507,
-      "Коледов Олег Геннадьевич": 32,
-      "Смык Николай Михайлович": 23,
-      "Сысоева Наталья Александровна": 34,
-      "Против всех": 117
+      "gas:candidate-vibid:324300366742": 14,
+      "gas:candidate-vibid:1001000225918": 507,
+      "gas:candidate-vibid:1001000136023": 32,
+      "gas:candidate-vibid:1001000121819": 23,
+      "gas:candidate-vibid:1001000190310": 34,
+      "special:against-all": 117
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067629&region=0&sub_region=0&type=429",
@@ -922,12 +922,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 13,
-      "Кармазина Раиса Васильевна": 472,
-      "Коледов Олег Геннадьевич": 36,
-      "Смык Николай Михайлович": 22,
-      "Сысоева Наталья Александровна": 28,
-      "Против всех": 92
+      "gas:candidate-vibid:324300366742": 13,
+      "gas:candidate-vibid:1001000225918": 472,
+      "gas:candidate-vibid:1001000136023": 36,
+      "gas:candidate-vibid:1001000121819": 22,
+      "gas:candidate-vibid:1001000190310": 28,
+      "special:against-all": 92
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067629&region=0&sub_region=0&type=429",
@@ -977,12 +977,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 18,
-      "Кармазина Раиса Васильевна": 541,
-      "Коледов Олег Геннадьевич": 38,
-      "Смык Николай Михайлович": 25,
-      "Сысоева Наталья Александровна": 22,
-      "Против всех": 115
+      "gas:candidate-vibid:324300366742": 18,
+      "gas:candidate-vibid:1001000225918": 541,
+      "gas:candidate-vibid:1001000136023": 38,
+      "gas:candidate-vibid:1001000121819": 25,
+      "gas:candidate-vibid:1001000190310": 22,
+      "special:against-all": 115
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067629&region=0&sub_region=0&type=429",
@@ -1032,12 +1032,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 11,
-      "Кармазина Раиса Васильевна": 420,
-      "Коледов Олег Геннадьевич": 30,
-      "Смык Николай Михайлович": 13,
-      "Сысоева Наталья Александровна": 11,
-      "Против всех": 76
+      "gas:candidate-vibid:324300366742": 11,
+      "gas:candidate-vibid:1001000225918": 420,
+      "gas:candidate-vibid:1001000136023": 30,
+      "gas:candidate-vibid:1001000121819": 13,
+      "gas:candidate-vibid:1001000190310": 11,
+      "special:against-all": 76
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067629&region=0&sub_region=0&type=429",
@@ -1087,12 +1087,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 10,
-      "Кармазина Раиса Васильевна": 588,
-      "Коледов Олег Геннадьевич": 37,
-      "Смык Николай Михайлович": 19,
-      "Сысоева Наталья Александровна": 19,
-      "Против всех": 91
+      "gas:candidate-vibid:324300366742": 10,
+      "gas:candidate-vibid:1001000225918": 588,
+      "gas:candidate-vibid:1001000136023": 37,
+      "gas:candidate-vibid:1001000121819": 19,
+      "gas:candidate-vibid:1001000190310": 19,
+      "special:against-all": 91
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067629&region=0&sub_region=0&type=429",
@@ -1142,12 +1142,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 12,
-      "Кармазина Раиса Васильевна": 490,
-      "Коледов Олег Геннадьевич": 35,
-      "Смык Николай Михайлович": 20,
-      "Сысоева Наталья Александровна": 30,
-      "Против всех": 90
+      "gas:candidate-vibid:324300366742": 12,
+      "gas:candidate-vibid:1001000225918": 490,
+      "gas:candidate-vibid:1001000136023": 35,
+      "gas:candidate-vibid:1001000121819": 20,
+      "gas:candidate-vibid:1001000190310": 30,
+      "special:against-all": 90
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067629&region=0&sub_region=0&type=429",
@@ -1197,12 +1197,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 15,
-      "Кармазина Раиса Васильевна": 560,
-      "Коледов Олег Геннадьевич": 42,
-      "Смык Николай Михайлович": 19,
-      "Сысоева Наталья Александровна": 12,
-      "Против всех": 98
+      "gas:candidate-vibid:324300366742": 15,
+      "gas:candidate-vibid:1001000225918": 560,
+      "gas:candidate-vibid:1001000136023": 42,
+      "gas:candidate-vibid:1001000121819": 19,
+      "gas:candidate-vibid:1001000190310": 12,
+      "special:against-all": 98
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067629&region=0&sub_region=0&type=429",
@@ -1252,12 +1252,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 10,
-      "Кармазина Раиса Васильевна": 439,
-      "Коледов Олег Геннадьевич": 28,
-      "Смык Николай Михайлович": 6,
-      "Сысоева Наталья Александровна": 18,
-      "Против всех": 82
+      "gas:candidate-vibid:324300366742": 10,
+      "gas:candidate-vibid:1001000225918": 439,
+      "gas:candidate-vibid:1001000136023": 28,
+      "gas:candidate-vibid:1001000121819": 6,
+      "gas:candidate-vibid:1001000190310": 18,
+      "special:against-all": 82
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067629&region=0&sub_region=0&type=429",
@@ -1307,12 +1307,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 10,
-      "Кармазина Раиса Васильевна": 481,
-      "Коледов Олег Геннадьевич": 35,
-      "Смык Николай Михайлович": 21,
-      "Сысоева Наталья Александровна": 17,
-      "Против всех": 71
+      "gas:candidate-vibid:324300366742": 10,
+      "gas:candidate-vibid:1001000225918": 481,
+      "gas:candidate-vibid:1001000136023": 35,
+      "gas:candidate-vibid:1001000121819": 21,
+      "gas:candidate-vibid:1001000190310": 17,
+      "special:against-all": 71
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067629&region=0&sub_region=0&type=429",
@@ -1362,12 +1362,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 8,
-      "Кармазина Раиса Васильевна": 433,
-      "Коледов Олег Геннадьевич": 48,
-      "Смык Николай Михайлович": 25,
-      "Сысоева Наталья Александровна": 31,
-      "Против всех": 72
+      "gas:candidate-vibid:324300366742": 8,
+      "gas:candidate-vibid:1001000225918": 433,
+      "gas:candidate-vibid:1001000136023": 48,
+      "gas:candidate-vibid:1001000121819": 25,
+      "gas:candidate-vibid:1001000190310": 31,
+      "special:against-all": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067629&region=0&sub_region=0&type=429",
@@ -1417,12 +1417,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 18,
-      "Кармазина Раиса Васильевна": 795,
-      "Коледов Олег Геннадьевич": 45,
-      "Смык Николай Михайлович": 19,
-      "Сысоева Наталья Александровна": 32,
-      "Против всех": 144
+      "gas:candidate-vibid:324300366742": 18,
+      "gas:candidate-vibid:1001000225918": 795,
+      "gas:candidate-vibid:1001000136023": 45,
+      "gas:candidate-vibid:1001000121819": 19,
+      "gas:candidate-vibid:1001000190310": 32,
+      "special:against-all": 144
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067629&region=0&sub_region=0&type=429",
@@ -1472,12 +1472,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 18,
-      "Кармазина Раиса Васильевна": 834,
-      "Коледов Олег Геннадьевич": 52,
-      "Смык Николай Михайлович": 20,
-      "Сысоева Наталья Александровна": 18,
-      "Против всех": 155
+      "gas:candidate-vibid:324300366742": 18,
+      "gas:candidate-vibid:1001000225918": 834,
+      "gas:candidate-vibid:1001000136023": 52,
+      "gas:candidate-vibid:1001000121819": 20,
+      "gas:candidate-vibid:1001000190310": 18,
+      "special:against-all": 155
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067629&region=0&sub_region=0&type=429",
@@ -1527,12 +1527,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 13,
-      "Кармазина Раиса Васильевна": 608,
-      "Коледов Олег Геннадьевич": 39,
-      "Смык Николай Михайлович": 13,
-      "Сысоева Наталья Александровна": 20,
-      "Против всех": 102
+      "gas:candidate-vibid:324300366742": 13,
+      "gas:candidate-vibid:1001000225918": 608,
+      "gas:candidate-vibid:1001000136023": 39,
+      "gas:candidate-vibid:1001000121819": 13,
+      "gas:candidate-vibid:1001000190310": 20,
+      "special:against-all": 102
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067629&region=0&sub_region=0&type=429",
@@ -1582,12 +1582,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 6,
-      "Кармазина Раиса Васильевна": 637,
-      "Коледов Олег Геннадьевич": 45,
-      "Смык Николай Михайлович": 27,
-      "Сысоева Наталья Александровна": 18,
-      "Против всех": 136
+      "gas:candidate-vibid:324300366742": 6,
+      "gas:candidate-vibid:1001000225918": 637,
+      "gas:candidate-vibid:1001000136023": 45,
+      "gas:candidate-vibid:1001000121819": 27,
+      "gas:candidate-vibid:1001000190310": 18,
+      "special:against-all": 136
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067629&region=0&sub_region=0&type=429",
@@ -1637,12 +1637,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 13,
-      "Кармазина Раиса Васильевна": 919,
-      "Коледов Олег Геннадьевич": 55,
-      "Смык Николай Михайлович": 27,
-      "Сысоева Наталья Александровна": 34,
-      "Против всех": 147
+      "gas:candidate-vibid:324300366742": 13,
+      "gas:candidate-vibid:1001000225918": 919,
+      "gas:candidate-vibid:1001000136023": 55,
+      "gas:candidate-vibid:1001000121819": 27,
+      "gas:candidate-vibid:1001000190310": 34,
+      "special:against-all": 147
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067629&region=0&sub_region=0&type=429",
@@ -1692,12 +1692,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 15,
-      "Кармазина Раиса Васильевна": 488,
-      "Коледов Олег Геннадьевич": 42,
-      "Смык Николай Михайлович": 16,
-      "Сысоева Наталья Александровна": 21,
-      "Против всех": 86
+      "gas:candidate-vibid:324300366742": 15,
+      "gas:candidate-vibid:1001000225918": 488,
+      "gas:candidate-vibid:1001000136023": 42,
+      "gas:candidate-vibid:1001000121819": 16,
+      "gas:candidate-vibid:1001000190310": 21,
+      "special:against-all": 86
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067629&region=0&sub_region=0&type=429",
@@ -1747,12 +1747,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 5,
-      "Кармазина Раиса Васильевна": 52,
-      "Коледов Олег Геннадьевич": 5,
-      "Смык Николай Михайлович": 6,
-      "Сысоева Наталья Александровна": 7,
-      "Против всех": 10
+      "gas:candidate-vibid:324300366742": 5,
+      "gas:candidate-vibid:1001000225918": 52,
+      "gas:candidate-vibid:1001000136023": 5,
+      "gas:candidate-vibid:1001000121819": 6,
+      "gas:candidate-vibid:1001000190310": 7,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067629&region=0&sub_region=0&type=429",
@@ -1802,12 +1802,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 108,
-      "Кармазина Раиса Васильевна": 404,
-      "Коледов Олег Геннадьевич": 35,
-      "Смык Николай Михайлович": 208,
-      "Сысоева Наталья Александровна": 187,
-      "Против всех": 302
+      "gas:candidate-vibid:324300366742": 108,
+      "gas:candidate-vibid:1001000225918": 404,
+      "gas:candidate-vibid:1001000136023": 35,
+      "gas:candidate-vibid:1001000121819": 208,
+      "gas:candidate-vibid:1001000190310": 187,
+      "special:against-all": 302
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067630&region=0&sub_region=0&type=429",
@@ -1857,12 +1857,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 97,
-      "Кармазина Раиса Васильевна": 268,
-      "Коледов Олег Геннадьевич": 26,
-      "Смык Николай Михайлович": 126,
-      "Сысоева Наталья Александровна": 73,
-      "Против всех": 185
+      "gas:candidate-vibid:324300366742": 97,
+      "gas:candidate-vibid:1001000225918": 268,
+      "gas:candidate-vibid:1001000136023": 26,
+      "gas:candidate-vibid:1001000121819": 126,
+      "gas:candidate-vibid:1001000190310": 73,
+      "special:against-all": 185
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067630&region=0&sub_region=0&type=429",
@@ -1912,12 +1912,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 96,
-      "Кармазина Раиса Васильевна": 190,
-      "Коледов Олег Геннадьевич": 22,
-      "Смык Николай Михайлович": 74,
-      "Сысоева Наталья Александровна": 56,
-      "Против всех": 133
+      "gas:candidate-vibid:324300366742": 96,
+      "gas:candidate-vibid:1001000225918": 190,
+      "gas:candidate-vibid:1001000136023": 22,
+      "gas:candidate-vibid:1001000121819": 74,
+      "gas:candidate-vibid:1001000190310": 56,
+      "special:against-all": 133
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067630&region=0&sub_region=0&type=429",
@@ -1967,12 +1967,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 28,
-      "Кармазина Раиса Васильевна": 127,
-      "Коледов Олег Геннадьевич": 11,
-      "Смык Николай Михайлович": 64,
-      "Сысоева Наталья Александровна": 45,
-      "Против всех": 90
+      "gas:candidate-vibid:324300366742": 28,
+      "gas:candidate-vibid:1001000225918": 127,
+      "gas:candidate-vibid:1001000136023": 11,
+      "gas:candidate-vibid:1001000121819": 64,
+      "gas:candidate-vibid:1001000190310": 45,
+      "special:against-all": 90
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067630&region=0&sub_region=0&type=429",
@@ -2022,12 +2022,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 77,
-      "Кармазина Раиса Васильевна": 291,
-      "Коледов Олег Геннадьевич": 31,
-      "Смык Николай Михайлович": 115,
-      "Сысоева Наталья Александровна": 76,
-      "Против всех": 184
+      "gas:candidate-vibid:324300366742": 77,
+      "gas:candidate-vibid:1001000225918": 291,
+      "gas:candidate-vibid:1001000136023": 31,
+      "gas:candidate-vibid:1001000121819": 115,
+      "gas:candidate-vibid:1001000190310": 76,
+      "special:against-all": 184
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067630&region=0&sub_region=0&type=429",
@@ -2077,12 +2077,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 108,
-      "Кармазина Раиса Васильевна": 282,
-      "Коледов Олег Геннадьевич": 24,
-      "Смык Николай Михайлович": 132,
-      "Сысоева Наталья Александровна": 89,
-      "Против всех": 174
+      "gas:candidate-vibid:324300366742": 108,
+      "gas:candidate-vibid:1001000225918": 282,
+      "gas:candidate-vibid:1001000136023": 24,
+      "gas:candidate-vibid:1001000121819": 132,
+      "gas:candidate-vibid:1001000190310": 89,
+      "special:against-all": 174
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067630&region=0&sub_region=0&type=429",
@@ -2132,12 +2132,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 74,
-      "Кармазина Раиса Васильевна": 308,
-      "Коледов Олег Геннадьевич": 33,
-      "Смык Николай Михайлович": 120,
-      "Сысоева Наталья Александровна": 83,
-      "Против всех": 204
+      "gas:candidate-vibid:324300366742": 74,
+      "gas:candidate-vibid:1001000225918": 308,
+      "gas:candidate-vibid:1001000136023": 33,
+      "gas:candidate-vibid:1001000121819": 120,
+      "gas:candidate-vibid:1001000190310": 83,
+      "special:against-all": 204
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067630&region=0&sub_region=0&type=429",
@@ -2187,12 +2187,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 32,
-      "Кармазина Раиса Васильевна": 147,
-      "Коледов Олег Геннадьевич": 16,
-      "Смык Николай Михайлович": 63,
-      "Сысоева Наталья Александровна": 36,
-      "Против всех": 71
+      "gas:candidate-vibid:324300366742": 32,
+      "gas:candidate-vibid:1001000225918": 147,
+      "gas:candidate-vibid:1001000136023": 16,
+      "gas:candidate-vibid:1001000121819": 63,
+      "gas:candidate-vibid:1001000190310": 36,
+      "special:against-all": 71
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067630&region=0&sub_region=0&type=429",
@@ -2242,12 +2242,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 77,
-      "Кармазина Раиса Васильевна": 333,
-      "Коледов Олег Геннадьевич": 26,
-      "Смык Николай Михайлович": 99,
-      "Сысоева Наталья Александровна": 72,
-      "Против всех": 189
+      "gas:candidate-vibid:324300366742": 77,
+      "gas:candidate-vibid:1001000225918": 333,
+      "gas:candidate-vibid:1001000136023": 26,
+      "gas:candidate-vibid:1001000121819": 99,
+      "gas:candidate-vibid:1001000190310": 72,
+      "special:against-all": 189
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067630&region=0&sub_region=0&type=429",
@@ -2297,12 +2297,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 88,
-      "Кармазина Раиса Васильевна": 252,
-      "Коледов Олег Геннадьевич": 32,
-      "Смык Николай Михайлович": 96,
-      "Сысоева Наталья Александровна": 77,
-      "Против всех": 194
+      "gas:candidate-vibid:324300366742": 88,
+      "gas:candidate-vibid:1001000225918": 252,
+      "gas:candidate-vibid:1001000136023": 32,
+      "gas:candidate-vibid:1001000121819": 96,
+      "gas:candidate-vibid:1001000190310": 77,
+      "special:against-all": 194
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067630&region=0&sub_region=0&type=429",
@@ -2352,12 +2352,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 111,
-      "Кармазина Раиса Васильевна": 348,
-      "Коледов Олег Геннадьевич": 43,
-      "Смык Николай Михайлович": 153,
-      "Сысоева Наталья Александровна": 113,
-      "Против всех": 218
+      "gas:candidate-vibid:324300366742": 111,
+      "gas:candidate-vibid:1001000225918": 348,
+      "gas:candidate-vibid:1001000136023": 43,
+      "gas:candidate-vibid:1001000121819": 153,
+      "gas:candidate-vibid:1001000190310": 113,
+      "special:against-all": 218
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067630&region=0&sub_region=0&type=429",
@@ -2407,12 +2407,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 53,
-      "Кармазина Раиса Васильевна": 148,
-      "Коледов Олег Геннадьевич": 28,
-      "Смык Николай Михайлович": 49,
-      "Сысоева Наталья Александровна": 50,
-      "Против всех": 108
+      "gas:candidate-vibid:324300366742": 53,
+      "gas:candidate-vibid:1001000225918": 148,
+      "gas:candidate-vibid:1001000136023": 28,
+      "gas:candidate-vibid:1001000121819": 49,
+      "gas:candidate-vibid:1001000190310": 50,
+      "special:against-all": 108
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067630&region=0&sub_region=0&type=429",
@@ -2462,12 +2462,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 86,
-      "Кармазина Раиса Васильевна": 255,
-      "Коледов Олег Геннадьевич": 33,
-      "Смык Николай Михайлович": 82,
-      "Сысоева Наталья Александровна": 72,
-      "Против всех": 163
+      "gas:candidate-vibid:324300366742": 86,
+      "gas:candidate-vibid:1001000225918": 255,
+      "gas:candidate-vibid:1001000136023": 33,
+      "gas:candidate-vibid:1001000121819": 82,
+      "gas:candidate-vibid:1001000190310": 72,
+      "special:against-all": 163
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067630&region=0&sub_region=0&type=429",
@@ -2517,12 +2517,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 96,
-      "Кармазина Раиса Васильевна": 373,
-      "Коледов Олег Геннадьевич": 36,
-      "Смык Николай Михайлович": 219,
-      "Сысоева Наталья Александровна": 76,
-      "Против всех": 240
+      "gas:candidate-vibid:324300366742": 96,
+      "gas:candidate-vibid:1001000225918": 373,
+      "gas:candidate-vibid:1001000136023": 36,
+      "gas:candidate-vibid:1001000121819": 219,
+      "gas:candidate-vibid:1001000190310": 76,
+      "special:against-all": 240
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067630&region=0&sub_region=0&type=429",
@@ -2572,12 +2572,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 69,
-      "Кармазина Раиса Васильевна": 187,
-      "Коледов Олег Геннадьевич": 19,
-      "Смык Николай Михайлович": 99,
-      "Сысоева Наталья Александровна": 48,
-      "Против всех": 125
+      "gas:candidate-vibid:324300366742": 69,
+      "gas:candidate-vibid:1001000225918": 187,
+      "gas:candidate-vibid:1001000136023": 19,
+      "gas:candidate-vibid:1001000121819": 99,
+      "gas:candidate-vibid:1001000190310": 48,
+      "special:against-all": 125
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067630&region=0&sub_region=0&type=429",
@@ -2627,12 +2627,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 51,
-      "Кармазина Раиса Васильевна": 204,
-      "Коледов Олег Геннадьевич": 29,
-      "Смык Николай Михайлович": 104,
-      "Сысоева Наталья Александровна": 69,
-      "Против всех": 134
+      "gas:candidate-vibid:324300366742": 51,
+      "gas:candidate-vibid:1001000225918": 204,
+      "gas:candidate-vibid:1001000136023": 29,
+      "gas:candidate-vibid:1001000121819": 104,
+      "gas:candidate-vibid:1001000190310": 69,
+      "special:against-all": 134
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067630&region=0&sub_region=0&type=429",
@@ -2682,12 +2682,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 56,
-      "Кармазина Раиса Васильевна": 229,
-      "Коледов Олег Геннадьевич": 21,
-      "Смык Николай Михайлович": 98,
-      "Сысоева Наталья Александровна": 43,
-      "Против всех": 133
+      "gas:candidate-vibid:324300366742": 56,
+      "gas:candidate-vibid:1001000225918": 229,
+      "gas:candidate-vibid:1001000136023": 21,
+      "gas:candidate-vibid:1001000121819": 98,
+      "gas:candidate-vibid:1001000190310": 43,
+      "special:against-all": 133
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067630&region=0&sub_region=0&type=429",
@@ -2737,12 +2737,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 72,
-      "Кармазина Раиса Васильевна": 359,
-      "Коледов Олег Геннадьевич": 25,
-      "Смык Николай Михайлович": 219,
-      "Сысоева Наталья Александровна": 60,
-      "Против всех": 234
+      "gas:candidate-vibid:324300366742": 72,
+      "gas:candidate-vibid:1001000225918": 359,
+      "gas:candidate-vibid:1001000136023": 25,
+      "gas:candidate-vibid:1001000121819": 219,
+      "gas:candidate-vibid:1001000190310": 60,
+      "special:against-all": 234
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067630&region=0&sub_region=0&type=429",
@@ -2792,12 +2792,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 72,
-      "Кармазина Раиса Васильевна": 315,
-      "Коледов Олег Геннадьевич": 33,
-      "Смык Николай Михайлович": 141,
-      "Сысоева Наталья Александровна": 94,
-      "Против всех": 200
+      "gas:candidate-vibid:324300366742": 72,
+      "gas:candidate-vibid:1001000225918": 315,
+      "gas:candidate-vibid:1001000136023": 33,
+      "gas:candidate-vibid:1001000121819": 141,
+      "gas:candidate-vibid:1001000190310": 94,
+      "special:against-all": 200
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067630&region=0&sub_region=0&type=429",
@@ -2847,12 +2847,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 59,
-      "Кармазина Раиса Васильевна": 350,
-      "Коледов Олег Геннадьевич": 46,
-      "Смык Николай Михайлович": 101,
-      "Сысоева Наталья Александровна": 98,
-      "Против всех": 206
+      "gas:candidate-vibid:324300366742": 59,
+      "gas:candidate-vibid:1001000225918": 350,
+      "gas:candidate-vibid:1001000136023": 46,
+      "gas:candidate-vibid:1001000121819": 101,
+      "gas:candidate-vibid:1001000190310": 98,
+      "special:against-all": 206
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067630&region=0&sub_region=0&type=429",
@@ -2902,12 +2902,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 49,
-      "Кармазина Раиса Васильевна": 198,
-      "Коледов Олег Геннадьевич": 17,
-      "Смык Николай Михайлович": 56,
-      "Сысоева Наталья Александровна": 40,
-      "Против всех": 117
+      "gas:candidate-vibid:324300366742": 49,
+      "gas:candidate-vibid:1001000225918": 198,
+      "gas:candidate-vibid:1001000136023": 17,
+      "gas:candidate-vibid:1001000121819": 56,
+      "gas:candidate-vibid:1001000190310": 40,
+      "special:against-all": 117
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067630&region=0&sub_region=0&type=429",
@@ -2957,12 +2957,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 36,
-      "Кармазина Раиса Васильевна": 173,
-      "Коледов Олег Геннадьевич": 36,
-      "Смык Николай Михайлович": 56,
-      "Сысоева Наталья Александровна": 49,
-      "Против всех": 111
+      "gas:candidate-vibid:324300366742": 36,
+      "gas:candidate-vibid:1001000225918": 173,
+      "gas:candidate-vibid:1001000136023": 36,
+      "gas:candidate-vibid:1001000121819": 56,
+      "gas:candidate-vibid:1001000190310": 49,
+      "special:against-all": 111
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067630&region=0&sub_region=0&type=429",
@@ -3012,12 +3012,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 34,
-      "Кармазина Раиса Васильевна": 158,
-      "Коледов Олег Геннадьевич": 20,
-      "Смык Николай Михайлович": 41,
-      "Сысоева Наталья Александровна": 41,
-      "Против всех": 89
+      "gas:candidate-vibid:324300366742": 34,
+      "gas:candidate-vibid:1001000225918": 158,
+      "gas:candidate-vibid:1001000136023": 20,
+      "gas:candidate-vibid:1001000121819": 41,
+      "gas:candidate-vibid:1001000190310": 41,
+      "special:against-all": 89
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067630&region=0&sub_region=0&type=429",
@@ -3067,12 +3067,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 25,
-      "Кармазина Раиса Васильевна": 126,
-      "Коледов Олег Геннадьевич": 22,
-      "Смык Николай Михайлович": 56,
-      "Сысоева Наталья Александровна": 43,
-      "Против всех": 68
+      "gas:candidate-vibid:324300366742": 25,
+      "gas:candidate-vibid:1001000225918": 126,
+      "gas:candidate-vibid:1001000136023": 22,
+      "gas:candidate-vibid:1001000121819": 56,
+      "gas:candidate-vibid:1001000190310": 43,
+      "special:against-all": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067630&region=0&sub_region=0&type=429",
@@ -3122,12 +3122,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 19,
-      "Кармазина Раиса Васильевна": 126,
-      "Коледов Олег Геннадьевич": 14,
-      "Смык Николай Михайлович": 39,
-      "Сысоева Наталья Александровна": 23,
-      "Против всех": 51
+      "gas:candidate-vibid:324300366742": 19,
+      "gas:candidate-vibid:1001000225918": 126,
+      "gas:candidate-vibid:1001000136023": 14,
+      "gas:candidate-vibid:1001000121819": 39,
+      "gas:candidate-vibid:1001000190310": 23,
+      "special:against-all": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067630&region=0&sub_region=0&type=429",
@@ -3177,12 +3177,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 20,
-      "Кармазина Раиса Васильевна": 99,
-      "Коледов Олег Геннадьевич": 17,
-      "Смык Николай Михайлович": 36,
-      "Сысоева Наталья Александровна": 22,
-      "Против всех": 51
+      "gas:candidate-vibid:324300366742": 20,
+      "gas:candidate-vibid:1001000225918": 99,
+      "gas:candidate-vibid:1001000136023": 17,
+      "gas:candidate-vibid:1001000121819": 36,
+      "gas:candidate-vibid:1001000190310": 22,
+      "special:against-all": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067630&region=0&sub_region=0&type=429",
@@ -3232,12 +3232,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 60,
-      "Кармазина Раиса Васильевна": 244,
-      "Коледов Олег Геннадьевич": 50,
-      "Смык Николай Михайлович": 59,
-      "Сысоева Наталья Александровна": 76,
-      "Против всех": 147
+      "gas:candidate-vibid:324300366742": 60,
+      "gas:candidate-vibid:1001000225918": 244,
+      "gas:candidate-vibid:1001000136023": 50,
+      "gas:candidate-vibid:1001000121819": 59,
+      "gas:candidate-vibid:1001000190310": 76,
+      "special:against-all": 147
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067630&region=0&sub_region=0&type=429",
@@ -3287,12 +3287,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 48,
-      "Кармазина Раиса Васильевна": 269,
-      "Коледов Олег Геннадьевич": 38,
-      "Смык Николай Михайлович": 56,
-      "Сысоева Наталья Александровна": 82,
-      "Против всех": 139
+      "gas:candidate-vibid:324300366742": 48,
+      "gas:candidate-vibid:1001000225918": 269,
+      "gas:candidate-vibid:1001000136023": 38,
+      "gas:candidate-vibid:1001000121819": 56,
+      "gas:candidate-vibid:1001000190310": 82,
+      "special:against-all": 139
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067630&region=0&sub_region=0&type=429",
@@ -3342,12 +3342,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 23,
-      "Кармазина Раиса Васильевна": 89,
-      "Коледов Олег Геннадьевич": 15,
-      "Смык Николай Михайлович": 7,
-      "Сысоева Наталья Александровна": 26,
-      "Против всех": 115
+      "gas:candidate-vibid:324300366742": 23,
+      "gas:candidate-vibid:1001000225918": 89,
+      "gas:candidate-vibid:1001000136023": 15,
+      "gas:candidate-vibid:1001000121819": 7,
+      "gas:candidate-vibid:1001000190310": 26,
+      "special:against-all": 115
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067630&region=0&sub_region=0&type=429",
@@ -3397,12 +3397,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 24,
-      "Кармазина Раиса Васильевна": 110,
-      "Коледов Олег Геннадьевич": 27,
-      "Смык Николай Михайлович": 18,
-      "Сысоева Наталья Александровна": 62,
-      "Против всех": 107
+      "gas:candidate-vibid:324300366742": 24,
+      "gas:candidate-vibid:1001000225918": 110,
+      "gas:candidate-vibid:1001000136023": 27,
+      "gas:candidate-vibid:1001000121819": 18,
+      "gas:candidate-vibid:1001000190310": 62,
+      "special:against-all": 107
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067630&region=0&sub_region=0&type=429",
@@ -3452,12 +3452,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 30,
-      "Кармазина Раиса Васильевна": 98,
-      "Коледов Олег Геннадьевич": 8,
-      "Смык Николай Михайлович": 49,
-      "Сысоева Наталья Александровна": 38,
-      "Против всех": 85
+      "gas:candidate-vibid:324300366742": 30,
+      "gas:candidate-vibid:1001000225918": 98,
+      "gas:candidate-vibid:1001000136023": 8,
+      "gas:candidate-vibid:1001000121819": 49,
+      "gas:candidate-vibid:1001000190310": 38,
+      "special:against-all": 85
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067630&region=0&sub_region=0&type=429",
@@ -3507,12 +3507,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 71,
-      "Кармазина Раиса Васильевна": 340,
-      "Коледов Олег Геннадьевич": 30,
-      "Смык Николай Михайлович": 69,
-      "Сысоева Наталья Александровна": 73,
-      "Против всех": 185
+      "gas:candidate-vibid:324300366742": 71,
+      "gas:candidate-vibid:1001000225918": 340,
+      "gas:candidate-vibid:1001000136023": 30,
+      "gas:candidate-vibid:1001000121819": 69,
+      "gas:candidate-vibid:1001000190310": 73,
+      "special:against-all": 185
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067631&region=0&sub_region=0&type=429",
@@ -3562,12 +3562,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 15,
-      "Кармазина Раиса Васильевна": 74,
-      "Коледов Олег Геннадьевич": 7,
-      "Смык Николай Михайлович": 9,
-      "Сысоева Наталья Александровна": 39,
-      "Против всех": 100
+      "gas:candidate-vibid:324300366742": 15,
+      "gas:candidate-vibid:1001000225918": 74,
+      "gas:candidate-vibid:1001000136023": 7,
+      "gas:candidate-vibid:1001000121819": 9,
+      "gas:candidate-vibid:1001000190310": 39,
+      "special:against-all": 100
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067631&region=0&sub_region=0&type=429",
@@ -3617,12 +3617,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 17,
-      "Кармазина Раиса Васильевна": 189,
-      "Коледов Олег Геннадьевич": 47,
-      "Смык Николай Михайлович": 23,
-      "Сысоева Наталья Александровна": 51,
-      "Против всех": 161
+      "gas:candidate-vibid:324300366742": 17,
+      "gas:candidate-vibid:1001000225918": 189,
+      "gas:candidate-vibid:1001000136023": 47,
+      "gas:candidate-vibid:1001000121819": 23,
+      "gas:candidate-vibid:1001000190310": 51,
+      "special:against-all": 161
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067631&region=0&sub_region=0&type=429",
@@ -3672,12 +3672,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 2,
-      "Кармазина Раиса Васильевна": 10,
-      "Коледов Олег Геннадьевич": 1,
-      "Смык Николай Михайлович": 5,
-      "Сысоева Наталья Александровна": 2,
-      "Против всех": 5
+      "gas:candidate-vibid:324300366742": 2,
+      "gas:candidate-vibid:1001000225918": 10,
+      "gas:candidate-vibid:1001000136023": 1,
+      "gas:candidate-vibid:1001000121819": 5,
+      "gas:candidate-vibid:1001000190310": 2,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067631&region=0&sub_region=0&type=429",
@@ -3727,12 +3727,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 5,
-      "Кармазина Раиса Васильевна": 8,
-      "Коледов Олег Геннадьевич": 2,
-      "Смык Николай Михайлович": 9,
-      "Сысоева Наталья Александровна": 1,
-      "Против всех": 4
+      "gas:candidate-vibid:324300366742": 5,
+      "gas:candidate-vibid:1001000225918": 8,
+      "gas:candidate-vibid:1001000136023": 2,
+      "gas:candidate-vibid:1001000121819": 9,
+      "gas:candidate-vibid:1001000190310": 1,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067631&region=0&sub_region=0&type=429",
@@ -3782,12 +3782,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 79,
-      "Кармазина Раиса Васильевна": 332,
-      "Коледов Олег Геннадьевич": 41,
-      "Смык Николай Михайлович": 126,
-      "Сысоева Наталья Александровна": 103,
-      "Против всех": 235
+      "gas:candidate-vibid:324300366742": 79,
+      "gas:candidate-vibid:1001000225918": 332,
+      "gas:candidate-vibid:1001000136023": 41,
+      "gas:candidate-vibid:1001000121819": 126,
+      "gas:candidate-vibid:1001000190310": 103,
+      "special:against-all": 235
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067631&region=0&sub_region=0&type=429",
@@ -3837,12 +3837,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 25,
-      "Кармазина Раиса Васильевна": 119,
-      "Коледов Олег Геннадьевич": 22,
-      "Смык Николай Михайлович": 25,
-      "Сысоева Наталья Александровна": 31,
-      "Против всех": 94
+      "gas:candidate-vibid:324300366742": 25,
+      "gas:candidate-vibid:1001000225918": 119,
+      "gas:candidate-vibid:1001000136023": 22,
+      "gas:candidate-vibid:1001000121819": 25,
+      "gas:candidate-vibid:1001000190310": 31,
+      "special:against-all": 94
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067631&region=0&sub_region=0&type=429",
@@ -3892,12 +3892,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 44,
-      "Кармазина Раиса Васильевна": 267,
-      "Коледов Олег Геннадьевич": 18,
-      "Смык Николай Михайлович": 67,
-      "Сысоева Наталья Александровна": 68,
-      "Против всех": 128
+      "gas:candidate-vibid:324300366742": 44,
+      "gas:candidate-vibid:1001000225918": 267,
+      "gas:candidate-vibid:1001000136023": 18,
+      "gas:candidate-vibid:1001000121819": 67,
+      "gas:candidate-vibid:1001000190310": 68,
+      "special:against-all": 128
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067631&region=0&sub_region=0&type=429",
@@ -3947,12 +3947,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 56,
-      "Кармазина Раиса Васильевна": 272,
-      "Коледов Олег Геннадьевич": 55,
-      "Смык Николай Михайлович": 96,
-      "Сысоева Наталья Александровна": 103,
-      "Против всех": 190
+      "gas:candidate-vibid:324300366742": 56,
+      "gas:candidate-vibid:1001000225918": 272,
+      "gas:candidate-vibid:1001000136023": 55,
+      "gas:candidate-vibid:1001000121819": 96,
+      "gas:candidate-vibid:1001000190310": 103,
+      "special:against-all": 190
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067631&region=0&sub_region=0&type=429",
@@ -4002,12 +4002,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 85,
-      "Кармазина Раиса Васильевна": 388,
-      "Коледов Олег Геннадьевич": 64,
-      "Смык Николай Михайлович": 167,
-      "Сысоева Наталья Александровна": 134,
-      "Против всех": 236
+      "gas:candidate-vibid:324300366742": 85,
+      "gas:candidate-vibid:1001000225918": 388,
+      "gas:candidate-vibid:1001000136023": 64,
+      "gas:candidate-vibid:1001000121819": 167,
+      "gas:candidate-vibid:1001000190310": 134,
+      "special:against-all": 236
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067631&region=0&sub_region=0&type=429",
@@ -4057,12 +4057,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 96,
-      "Кармазина Раиса Васильевна": 417,
-      "Коледов Олег Геннадьевич": 50,
-      "Смык Николай Михайлович": 120,
-      "Сысоева Наталья Александровна": 135,
-      "Против всех": 307
+      "gas:candidate-vibid:324300366742": 96,
+      "gas:candidate-vibid:1001000225918": 417,
+      "gas:candidate-vibid:1001000136023": 50,
+      "gas:candidate-vibid:1001000121819": 120,
+      "gas:candidate-vibid:1001000190310": 135,
+      "special:against-all": 307
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067631&region=0&sub_region=0&type=429",
@@ -4112,12 +4112,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 93,
-      "Кармазина Раиса Васильевна": 368,
-      "Коледов Олег Геннадьевич": 49,
-      "Смык Николай Михайлович": 68,
-      "Сысоева Наталья Александровна": 89,
-      "Против всех": 209
+      "gas:candidate-vibid:324300366742": 93,
+      "gas:candidate-vibid:1001000225918": 368,
+      "gas:candidate-vibid:1001000136023": 49,
+      "gas:candidate-vibid:1001000121819": 68,
+      "gas:candidate-vibid:1001000190310": 89,
+      "special:against-all": 209
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067631&region=0&sub_region=0&type=429",
@@ -4167,12 +4167,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 97,
-      "Кармазина Раиса Васильевна": 358,
-      "Коледов Олег Геннадьевич": 38,
-      "Смык Николай Михайлович": 88,
-      "Сысоева Наталья Александровна": 129,
-      "Против всех": 273
+      "gas:candidate-vibid:324300366742": 97,
+      "gas:candidate-vibid:1001000225918": 358,
+      "gas:candidate-vibid:1001000136023": 38,
+      "gas:candidate-vibid:1001000121819": 88,
+      "gas:candidate-vibid:1001000190310": 129,
+      "special:against-all": 273
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067631&region=0&sub_region=0&type=429",
@@ -4222,12 +4222,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 95,
-      "Кармазина Раиса Васильевна": 403,
-      "Коледов Олег Геннадьевич": 51,
-      "Смык Николай Михайлович": 76,
-      "Сысоева Наталья Александровна": 116,
-      "Против всех": 221
+      "gas:candidate-vibid:324300366742": 95,
+      "gas:candidate-vibid:1001000225918": 403,
+      "gas:candidate-vibid:1001000136023": 51,
+      "gas:candidate-vibid:1001000121819": 76,
+      "gas:candidate-vibid:1001000190310": 116,
+      "special:against-all": 221
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067631&region=0&sub_region=0&type=429",
@@ -4277,12 +4277,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 115,
-      "Кармазина Раиса Васильевна": 465,
-      "Коледов Олег Геннадьевич": 48,
-      "Смык Николай Михайлович": 96,
-      "Сысоева Наталья Александровна": 140,
-      "Против всех": 299
+      "gas:candidate-vibid:324300366742": 115,
+      "gas:candidate-vibid:1001000225918": 465,
+      "gas:candidate-vibid:1001000136023": 48,
+      "gas:candidate-vibid:1001000121819": 96,
+      "gas:candidate-vibid:1001000190310": 140,
+      "special:against-all": 299
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067631&region=0&sub_region=0&type=429",
@@ -4332,12 +4332,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 91,
-      "Кармазина Раиса Васильевна": 345,
-      "Коледов Олег Геннадьевич": 42,
-      "Смык Николай Михайлович": 96,
-      "Сысоева Наталья Александровна": 131,
-      "Против всех": 256
+      "gas:candidate-vibid:324300366742": 91,
+      "gas:candidate-vibid:1001000225918": 345,
+      "gas:candidate-vibid:1001000136023": 42,
+      "gas:candidate-vibid:1001000121819": 96,
+      "gas:candidate-vibid:1001000190310": 131,
+      "special:against-all": 256
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067631&region=0&sub_region=0&type=429",
@@ -4387,12 +4387,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 60,
-      "Кармазина Раиса Васильевна": 336,
-      "Коледов Олег Геннадьевич": 57,
-      "Смык Николай Михайлович": 81,
-      "Сысоева Наталья Александровна": 111,
-      "Против всех": 251
+      "gas:candidate-vibid:324300366742": 60,
+      "gas:candidate-vibid:1001000225918": 336,
+      "gas:candidate-vibid:1001000136023": 57,
+      "gas:candidate-vibid:1001000121819": 81,
+      "gas:candidate-vibid:1001000190310": 111,
+      "special:against-all": 251
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067631&region=0&sub_region=0&type=429",
@@ -4442,12 +4442,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 0,
-      "Кармазина Раиса Васильевна": 2,
-      "Коледов Олег Геннадьевич": 0,
-      "Смык Николай Михайлович": 0,
-      "Сысоева Наталья Александровна": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:324300366742": 0,
+      "gas:candidate-vibid:1001000225918": 2,
+      "gas:candidate-vibid:1001000136023": 0,
+      "gas:candidate-vibid:1001000121819": 0,
+      "gas:candidate-vibid:1001000190310": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067631&region=0&sub_region=0&type=429",
@@ -4497,12 +4497,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 83,
-      "Кармазина Раиса Васильевна": 400,
-      "Коледов Олег Геннадьевич": 67,
-      "Смык Николай Михайлович": 139,
-      "Сысоева Наталья Александровна": 126,
-      "Против всех": 271
+      "gas:candidate-vibid:324300366742": 83,
+      "gas:candidate-vibid:1001000225918": 400,
+      "gas:candidate-vibid:1001000136023": 67,
+      "gas:candidate-vibid:1001000121819": 139,
+      "gas:candidate-vibid:1001000190310": 126,
+      "special:against-all": 271
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067631&region=0&sub_region=0&type=429",
@@ -4552,12 +4552,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 79,
-      "Кармазина Раиса Васильевна": 436,
-      "Коледов Олег Геннадьевич": 43,
-      "Смык Николай Михайлович": 71,
-      "Сысоева Наталья Александровна": 119,
-      "Против всех": 275
+      "gas:candidate-vibid:324300366742": 79,
+      "gas:candidate-vibid:1001000225918": 436,
+      "gas:candidate-vibid:1001000136023": 43,
+      "gas:candidate-vibid:1001000121819": 71,
+      "gas:candidate-vibid:1001000190310": 119,
+      "special:against-all": 275
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067631&region=0&sub_region=0&type=429",
@@ -4607,12 +4607,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 86,
-      "Кармазина Раиса Васильевна": 430,
-      "Коледов Олег Геннадьевич": 84,
-      "Смык Николай Михайлович": 195,
-      "Сысоева Наталья Александровна": 140,
-      "Против всех": 329
+      "gas:candidate-vibid:324300366742": 86,
+      "gas:candidate-vibid:1001000225918": 430,
+      "gas:candidate-vibid:1001000136023": 84,
+      "gas:candidate-vibid:1001000121819": 195,
+      "gas:candidate-vibid:1001000190310": 140,
+      "special:against-all": 329
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067631&region=0&sub_region=0&type=429",
@@ -4662,12 +4662,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 85,
-      "Кармазина Раиса Васильевна": 464,
-      "Коледов Олег Геннадьевич": 74,
-      "Смык Николай Михайлович": 171,
-      "Сысоева Наталья Александровна": 164,
-      "Против всех": 385
+      "gas:candidate-vibid:324300366742": 85,
+      "gas:candidate-vibid:1001000225918": 464,
+      "gas:candidate-vibid:1001000136023": 74,
+      "gas:candidate-vibid:1001000121819": 171,
+      "gas:candidate-vibid:1001000190310": 164,
+      "special:against-all": 385
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067631&region=0&sub_region=0&type=429",
@@ -4717,12 +4717,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 90,
-      "Кармазина Раиса Васильевна": 506,
-      "Коледов Олег Геннадьевич": 61,
-      "Смык Николай Михайлович": 159,
-      "Сысоева Наталья Александровна": 140,
-      "Против всех": 318
+      "gas:candidate-vibid:324300366742": 90,
+      "gas:candidate-vibid:1001000225918": 506,
+      "gas:candidate-vibid:1001000136023": 61,
+      "gas:candidate-vibid:1001000121819": 159,
+      "gas:candidate-vibid:1001000190310": 140,
+      "special:against-all": 318
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067631&region=0&sub_region=0&type=429",
@@ -4772,12 +4772,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 59,
-      "Кармазина Раиса Васильевна": 399,
-      "Коледов Олег Геннадьевич": 65,
-      "Смык Николай Михайлович": 123,
-      "Сысоева Наталья Александровна": 103,
-      "Против всех": 235
+      "gas:candidate-vibid:324300366742": 59,
+      "gas:candidate-vibid:1001000225918": 399,
+      "gas:candidate-vibid:1001000136023": 65,
+      "gas:candidate-vibid:1001000121819": 123,
+      "gas:candidate-vibid:1001000190310": 103,
+      "special:against-all": 235
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067631&region=0&sub_region=0&type=429",
@@ -4827,12 +4827,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 80,
-      "Кармазина Раиса Васильевна": 468,
-      "Коледов Олег Геннадьевич": 70,
-      "Смык Николай Михайлович": 210,
-      "Сысоева Наталья Александровна": 121,
-      "Против всех": 275
+      "gas:candidate-vibid:324300366742": 80,
+      "gas:candidate-vibid:1001000225918": 468,
+      "gas:candidate-vibid:1001000136023": 70,
+      "gas:candidate-vibid:1001000121819": 210,
+      "gas:candidate-vibid:1001000190310": 121,
+      "special:against-all": 275
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067631&region=0&sub_region=0&type=429",
@@ -4882,12 +4882,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 59,
-      "Кармазина Раиса Васильевна": 383,
-      "Коледов Олег Геннадьевич": 75,
-      "Смык Николай Михайлович": 111,
-      "Сысоева Наталья Александровна": 134,
-      "Против всех": 307
+      "gas:candidate-vibid:324300366742": 59,
+      "gas:candidate-vibid:1001000225918": 383,
+      "gas:candidate-vibid:1001000136023": 75,
+      "gas:candidate-vibid:1001000121819": 111,
+      "gas:candidate-vibid:1001000190310": 134,
+      "special:against-all": 307
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067631&region=0&sub_region=0&type=429",
@@ -4937,12 +4937,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 56,
-      "Кармазина Раиса Васильевна": 408,
-      "Коледов Олег Геннадьевич": 44,
-      "Смык Николай Михайлович": 156,
-      "Сысоева Наталья Александровна": 129,
-      "Против всех": 256
+      "gas:candidate-vibid:324300366742": 56,
+      "gas:candidate-vibid:1001000225918": 408,
+      "gas:candidate-vibid:1001000136023": 44,
+      "gas:candidate-vibid:1001000121819": 156,
+      "gas:candidate-vibid:1001000190310": 129,
+      "special:against-all": 256
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067631&region=0&sub_region=0&type=429",
@@ -4992,12 +4992,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 46,
-      "Кармазина Раиса Васильевна": 248,
-      "Коледов Олег Геннадьевич": 57,
-      "Смык Николай Михайлович": 58,
-      "Сысоева Наталья Александровна": 78,
-      "Против всех": 160
+      "gas:candidate-vibid:324300366742": 46,
+      "gas:candidate-vibid:1001000225918": 248,
+      "gas:candidate-vibid:1001000136023": 57,
+      "gas:candidate-vibid:1001000121819": 58,
+      "gas:candidate-vibid:1001000190310": 78,
+      "special:against-all": 160
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067631&region=0&sub_region=0&type=429",
@@ -5047,12 +5047,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 73,
-      "Кармазина Раиса Васильевна": 404,
-      "Коледов Олег Геннадьевич": 59,
-      "Смык Николай Михайлович": 176,
-      "Сысоева Наталья Александровна": 99,
-      "Против всех": 264
+      "gas:candidate-vibid:324300366742": 73,
+      "gas:candidate-vibid:1001000225918": 404,
+      "gas:candidate-vibid:1001000136023": 59,
+      "gas:candidate-vibid:1001000121819": 176,
+      "gas:candidate-vibid:1001000190310": 99,
+      "special:against-all": 264
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067631&region=0&sub_region=0&type=429",
@@ -5102,12 +5102,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 78,
-      "Кармазина Раиса Васильевна": 462,
-      "Коледов Олег Геннадьевич": 57,
-      "Смык Николай Михайлович": 150,
-      "Сысоева Наталья Александровна": 82,
-      "Против всех": 252
+      "gas:candidate-vibid:324300366742": 78,
+      "gas:candidate-vibid:1001000225918": 462,
+      "gas:candidate-vibid:1001000136023": 57,
+      "gas:candidate-vibid:1001000121819": 150,
+      "gas:candidate-vibid:1001000190310": 82,
+      "special:against-all": 252
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067631&region=0&sub_region=0&type=429",
@@ -5157,12 +5157,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 73,
-      "Кармазина Раиса Васильевна": 541,
-      "Коледов Олег Геннадьевич": 66,
-      "Смык Николай Михайлович": 151,
-      "Сысоева Наталья Александровна": 137,
-      "Против всех": 349
+      "gas:candidate-vibid:324300366742": 73,
+      "gas:candidate-vibid:1001000225918": 541,
+      "gas:candidate-vibid:1001000136023": 66,
+      "gas:candidate-vibid:1001000121819": 151,
+      "gas:candidate-vibid:1001000190310": 137,
+      "special:against-all": 349
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067631&region=0&sub_region=0&type=429",
@@ -5212,12 +5212,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 56,
-      "Кармазина Раиса Васильевна": 464,
-      "Коледов Олег Геннадьевич": 51,
-      "Смык Николай Михайлович": 140,
-      "Сысоева Наталья Александровна": 102,
-      "Против всех": 283
+      "gas:candidate-vibid:324300366742": 56,
+      "gas:candidate-vibid:1001000225918": 464,
+      "gas:candidate-vibid:1001000136023": 51,
+      "gas:candidate-vibid:1001000121819": 140,
+      "gas:candidate-vibid:1001000190310": 102,
+      "special:against-all": 283
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067631&region=0&sub_region=0&type=429",
@@ -5267,12 +5267,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 52,
-      "Кармазина Раиса Васильевна": 459,
-      "Коледов Олег Геннадьевич": 51,
-      "Смык Николай Михайлович": 156,
-      "Сысоева Наталья Александровна": 148,
-      "Против всех": 243
+      "gas:candidate-vibid:324300366742": 52,
+      "gas:candidate-vibid:1001000225918": 459,
+      "gas:candidate-vibid:1001000136023": 51,
+      "gas:candidate-vibid:1001000121819": 156,
+      "gas:candidate-vibid:1001000190310": 148,
+      "special:against-all": 243
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067631&region=0&sub_region=0&type=429",
@@ -5322,12 +5322,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 55,
-      "Кармазина Раиса Васильевна": 357,
-      "Коледов Олег Геннадьевич": 62,
-      "Смык Николай Михайлович": 195,
-      "Сысоева Наталья Александровна": 140,
-      "Против всех": 277
+      "gas:candidate-vibid:324300366742": 55,
+      "gas:candidate-vibid:1001000225918": 357,
+      "gas:candidate-vibid:1001000136023": 62,
+      "gas:candidate-vibid:1001000121819": 195,
+      "gas:candidate-vibid:1001000190310": 140,
+      "special:against-all": 277
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067631&region=0&sub_region=0&type=429",
@@ -5377,12 +5377,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 66,
-      "Кармазина Раиса Васильевна": 353,
-      "Коледов Олег Геннадьевич": 64,
-      "Смык Николай Михайлович": 173,
-      "Сысоева Наталья Александровна": 110,
-      "Против всех": 281
+      "gas:candidate-vibid:324300366742": 66,
+      "gas:candidate-vibid:1001000225918": 353,
+      "gas:candidate-vibid:1001000136023": 64,
+      "gas:candidate-vibid:1001000121819": 173,
+      "gas:candidate-vibid:1001000190310": 110,
+      "special:against-all": 281
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067631&region=0&sub_region=0&type=429",
@@ -5432,12 +5432,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 43,
-      "Кармазина Раиса Васильевна": 267,
-      "Коледов Олег Геннадьевич": 46,
-      "Смык Николай Михайлович": 112,
-      "Сысоева Наталья Александровна": 77,
-      "Против всех": 215
+      "gas:candidate-vibid:324300366742": 43,
+      "gas:candidate-vibid:1001000225918": 267,
+      "gas:candidate-vibid:1001000136023": 46,
+      "gas:candidate-vibid:1001000121819": 112,
+      "gas:candidate-vibid:1001000190310": 77,
+      "special:against-all": 215
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067631&region=0&sub_region=0&type=429",
@@ -5487,12 +5487,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 48,
-      "Кармазина Раиса Васильевна": 394,
-      "Коледов Олег Геннадьевич": 42,
-      "Смык Николай Михайлович": 109,
-      "Сысоева Наталья Александровна": 105,
-      "Против всех": 252
+      "gas:candidate-vibid:324300366742": 48,
+      "gas:candidate-vibid:1001000225918": 394,
+      "gas:candidate-vibid:1001000136023": 42,
+      "gas:candidate-vibid:1001000121819": 109,
+      "gas:candidate-vibid:1001000190310": 105,
+      "special:against-all": 252
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067631&region=0&sub_region=0&type=429",
@@ -5542,12 +5542,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 52,
-      "Кармазина Раиса Васильевна": 387,
-      "Коледов Олег Геннадьевич": 73,
-      "Смык Николай Михайлович": 123,
-      "Сысоева Наталья Александровна": 117,
-      "Против всех": 245
+      "gas:candidate-vibid:324300366742": 52,
+      "gas:candidate-vibid:1001000225918": 387,
+      "gas:candidate-vibid:1001000136023": 73,
+      "gas:candidate-vibid:1001000121819": 123,
+      "gas:candidate-vibid:1001000190310": 117,
+      "special:against-all": 245
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067631&region=0&sub_region=0&type=429",
@@ -5597,12 +5597,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 30,
-      "Кармазина Раиса Васильевна": 197,
-      "Коледов Олег Геннадьевич": 50,
-      "Смык Николай Михайлович": 33,
-      "Сысоева Наталья Александровна": 92,
-      "Против всех": 210
+      "gas:candidate-vibid:324300366742": 30,
+      "gas:candidate-vibid:1001000225918": 197,
+      "gas:candidate-vibid:1001000136023": 50,
+      "gas:candidate-vibid:1001000121819": 33,
+      "gas:candidate-vibid:1001000190310": 92,
+      "special:against-all": 210
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067631&region=0&sub_region=0&type=429",
@@ -5652,12 +5652,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 38,
-      "Кармазина Раиса Васильевна": 303,
-      "Коледов Олег Геннадьевич": 51,
-      "Смык Николай Михайлович": 101,
-      "Сысоева Наталья Александровна": 84,
-      "Против всех": 196
+      "gas:candidate-vibid:324300366742": 38,
+      "gas:candidate-vibid:1001000225918": 303,
+      "gas:candidate-vibid:1001000136023": 51,
+      "gas:candidate-vibid:1001000121819": 101,
+      "gas:candidate-vibid:1001000190310": 84,
+      "special:against-all": 196
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067631&region=0&sub_region=0&type=429",
@@ -5707,12 +5707,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 30,
-      "Кармазина Раиса Васильевна": 215,
-      "Коледов Олег Геннадьевич": 40,
-      "Смык Николай Михайлович": 85,
-      "Сысоева Наталья Александровна": 65,
-      "Против всех": 108
+      "gas:candidate-vibid:324300366742": 30,
+      "gas:candidate-vibid:1001000225918": 215,
+      "gas:candidate-vibid:1001000136023": 40,
+      "gas:candidate-vibid:1001000121819": 85,
+      "gas:candidate-vibid:1001000190310": 65,
+      "special:against-all": 108
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067631&region=0&sub_region=0&type=429",
@@ -5762,12 +5762,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 7,
-      "Кармазина Раиса Васильевна": 131,
-      "Коледов Олег Геннадьевич": 3,
-      "Смык Николай Михайлович": 18,
-      "Сысоева Наталья Александровна": 15,
-      "Против всех": 31
+      "gas:candidate-vibid:324300366742": 7,
+      "gas:candidate-vibid:1001000225918": 131,
+      "gas:candidate-vibid:1001000136023": 3,
+      "gas:candidate-vibid:1001000121819": 18,
+      "gas:candidate-vibid:1001000190310": 15,
+      "special:against-all": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067631&region=0&sub_region=0&type=429",
@@ -5817,12 +5817,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 29,
-      "Кармазина Раиса Васильевна": 230,
-      "Коледов Олег Геннадьевич": 37,
-      "Смык Николай Михайлович": 59,
-      "Сысоева Наталья Александровна": 71,
-      "Против всех": 165
+      "gas:candidate-vibid:324300366742": 29,
+      "gas:candidate-vibid:1001000225918": 230,
+      "gas:candidate-vibid:1001000136023": 37,
+      "gas:candidate-vibid:1001000121819": 59,
+      "gas:candidate-vibid:1001000190310": 71,
+      "special:against-all": 165
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067631&region=0&sub_region=0&type=429",
@@ -5872,12 +5872,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 36,
-      "Кармазина Раиса Васильевна": 226,
-      "Коледов Олег Геннадьевич": 41,
-      "Смык Николай Михайлович": 84,
-      "Сысоева Наталья Александровна": 53,
-      "Против всех": 125
+      "gas:candidate-vibid:324300366742": 36,
+      "gas:candidate-vibid:1001000225918": 226,
+      "gas:candidate-vibid:1001000136023": 41,
+      "gas:candidate-vibid:1001000121819": 84,
+      "gas:candidate-vibid:1001000190310": 53,
+      "special:against-all": 125
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067631&region=0&sub_region=0&type=429",
@@ -5927,12 +5927,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 74,
-      "Кармазина Раиса Васильевна": 409,
-      "Коледов Олег Геннадьевич": 56,
-      "Смык Николай Михайлович": 184,
-      "Сысоева Наталья Александровна": 123,
-      "Против всех": 253
+      "gas:candidate-vibid:324300366742": 74,
+      "gas:candidate-vibid:1001000225918": 409,
+      "gas:candidate-vibid:1001000136023": 56,
+      "gas:candidate-vibid:1001000121819": 184,
+      "gas:candidate-vibid:1001000190310": 123,
+      "special:against-all": 253
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067631&region=0&sub_region=0&type=429",
@@ -5982,12 +5982,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 66,
-      "Кармазина Раиса Васильевна": 421,
-      "Коледов Олег Геннадьевич": 67,
-      "Смык Николай Михайлович": 172,
-      "Сысоева Наталья Александровна": 132,
-      "Против всех": 250
+      "gas:candidate-vibid:324300366742": 66,
+      "gas:candidate-vibid:1001000225918": 421,
+      "gas:candidate-vibid:1001000136023": 67,
+      "gas:candidate-vibid:1001000121819": 172,
+      "gas:candidate-vibid:1001000190310": 132,
+      "special:against-all": 250
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067631&region=0&sub_region=0&type=429",
@@ -6037,12 +6037,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 74,
-      "Кармазина Раиса Васильевна": 336,
-      "Коледов Олег Геннадьевич": 54,
-      "Смык Николай Михайлович": 220,
-      "Сысоева Наталья Александровна": 123,
-      "Против всех": 254
+      "gas:candidate-vibid:324300366742": 74,
+      "gas:candidate-vibid:1001000225918": 336,
+      "gas:candidate-vibid:1001000136023": 54,
+      "gas:candidate-vibid:1001000121819": 220,
+      "gas:candidate-vibid:1001000190310": 123,
+      "special:against-all": 254
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067631&region=0&sub_region=0&type=429",
@@ -6092,12 +6092,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 59,
-      "Кармазина Раиса Васильевна": 371,
-      "Коледов Олег Геннадьевич": 67,
-      "Смык Николай Михайлович": 306,
-      "Сысоева Наталья Александровна": 119,
-      "Против всех": 287
+      "gas:candidate-vibid:324300366742": 59,
+      "gas:candidate-vibid:1001000225918": 371,
+      "gas:candidate-vibid:1001000136023": 67,
+      "gas:candidate-vibid:1001000121819": 306,
+      "gas:candidate-vibid:1001000190310": 119,
+      "special:against-all": 287
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067631&region=0&sub_region=0&type=429",
@@ -6147,12 +6147,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 78,
-      "Кармазина Раиса Васильевна": 422,
-      "Коледов Олег Геннадьевич": 63,
-      "Смык Николай Михайлович": 126,
-      "Сысоева Наталья Александровна": 170,
-      "Против всех": 337
+      "gas:candidate-vibid:324300366742": 78,
+      "gas:candidate-vibid:1001000225918": 422,
+      "gas:candidate-vibid:1001000136023": 63,
+      "gas:candidate-vibid:1001000121819": 126,
+      "gas:candidate-vibid:1001000190310": 170,
+      "special:against-all": 337
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067631&region=0&sub_region=0&type=429",
@@ -6202,12 +6202,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 66,
-      "Кармазина Раиса Васильевна": 391,
-      "Коледов Олег Геннадьевич": 56,
-      "Смык Николай Михайлович": 155,
-      "Сысоева Наталья Александровна": 134,
-      "Против всех": 381
+      "gas:candidate-vibid:324300366742": 66,
+      "gas:candidate-vibid:1001000225918": 391,
+      "gas:candidate-vibid:1001000136023": 56,
+      "gas:candidate-vibid:1001000121819": 155,
+      "gas:candidate-vibid:1001000190310": 134,
+      "special:against-all": 381
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067631&region=0&sub_region=0&type=429",
@@ -6257,12 +6257,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 53,
-      "Кармазина Раиса Васильевна": 276,
-      "Коледов Олег Геннадьевич": 40,
-      "Смык Николай Михайлович": 75,
-      "Сысоева Наталья Александровна": 96,
-      "Против всех": 178
+      "gas:candidate-vibid:324300366742": 53,
+      "gas:candidate-vibid:1001000225918": 276,
+      "gas:candidate-vibid:1001000136023": 40,
+      "gas:candidate-vibid:1001000121819": 75,
+      "gas:candidate-vibid:1001000190310": 96,
+      "special:against-all": 178
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067631&region=0&sub_region=0&type=429",
@@ -6312,12 +6312,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 59,
-      "Кармазина Раиса Васильевна": 340,
-      "Коледов Олег Геннадьевич": 74,
-      "Смык Николай Михайлович": 82,
-      "Сысоева Наталья Александровна": 103,
-      "Против всех": 300
+      "gas:candidate-vibid:324300366742": 59,
+      "gas:candidate-vibid:1001000225918": 340,
+      "gas:candidate-vibid:1001000136023": 74,
+      "gas:candidate-vibid:1001000121819": 82,
+      "gas:candidate-vibid:1001000190310": 103,
+      "special:against-all": 300
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067631&region=0&sub_region=0&type=429",
@@ -6367,12 +6367,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 75,
-      "Кармазина Раиса Васильевна": 387,
-      "Коледов Олег Геннадьевич": 56,
-      "Смык Николай Михайлович": 104,
-      "Сысоева Наталья Александровна": 110,
-      "Против всех": 272
+      "gas:candidate-vibid:324300366742": 75,
+      "gas:candidate-vibid:1001000225918": 387,
+      "gas:candidate-vibid:1001000136023": 56,
+      "gas:candidate-vibid:1001000121819": 104,
+      "gas:candidate-vibid:1001000190310": 110,
+      "special:against-all": 272
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067631&region=0&sub_region=0&type=429",
@@ -6422,12 +6422,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 29,
-      "Кармазина Раиса Васильевна": 205,
-      "Коледов Олег Геннадьевич": 33,
-      "Смык Николай Михайлович": 59,
-      "Сысоева Наталья Александровна": 47,
-      "Против всех": 161
+      "gas:candidate-vibid:324300366742": 29,
+      "gas:candidate-vibid:1001000225918": 205,
+      "gas:candidate-vibid:1001000136023": 33,
+      "gas:candidate-vibid:1001000121819": 59,
+      "gas:candidate-vibid:1001000190310": 47,
+      "special:against-all": 161
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067631&region=0&sub_region=0&type=429",
@@ -6477,12 +6477,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 77,
-      "Кармазина Раиса Васильевна": 356,
-      "Коледов Олег Геннадьевич": 55,
-      "Смык Николай Михайлович": 98,
-      "Сысоева Наталья Александровна": 118,
-      "Против всех": 264
+      "gas:candidate-vibid:324300366742": 77,
+      "gas:candidate-vibid:1001000225918": 356,
+      "gas:candidate-vibid:1001000136023": 55,
+      "gas:candidate-vibid:1001000121819": 98,
+      "gas:candidate-vibid:1001000190310": 118,
+      "special:against-all": 264
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067631&region=0&sub_region=0&type=429",
@@ -6532,12 +6532,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 89,
-      "Кармазина Раиса Васильевна": 438,
-      "Коледов Олег Геннадьевич": 56,
-      "Смык Николай Михайлович": 93,
-      "Сысоева Наталья Александровна": 111,
-      "Против всех": 307
+      "gas:candidate-vibid:324300366742": 89,
+      "gas:candidate-vibid:1001000225918": 438,
+      "gas:candidate-vibid:1001000136023": 56,
+      "gas:candidate-vibid:1001000121819": 93,
+      "gas:candidate-vibid:1001000190310": 111,
+      "special:against-all": 307
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067631&region=0&sub_region=0&type=429",
@@ -6587,12 +6587,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 71,
-      "Кармазина Раиса Васильевна": 382,
-      "Коледов Олег Геннадьевич": 61,
-      "Смык Николай Михайлович": 140,
-      "Сысоева Наталья Александровна": 114,
-      "Против всех": 274
+      "gas:candidate-vibid:324300366742": 71,
+      "gas:candidate-vibid:1001000225918": 382,
+      "gas:candidate-vibid:1001000136023": 61,
+      "gas:candidate-vibid:1001000121819": 140,
+      "gas:candidate-vibid:1001000190310": 114,
+      "special:against-all": 274
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067631&region=0&sub_region=0&type=429",
@@ -6642,12 +6642,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 75,
-      "Кармазина Раиса Васильевна": 341,
-      "Коледов Олег Геннадьевич": 52,
-      "Смык Николай Михайлович": 126,
-      "Сысоева Наталья Александровна": 106,
-      "Против всех": 285
+      "gas:candidate-vibid:324300366742": 75,
+      "gas:candidate-vibid:1001000225918": 341,
+      "gas:candidate-vibid:1001000136023": 52,
+      "gas:candidate-vibid:1001000121819": 126,
+      "gas:candidate-vibid:1001000190310": 106,
+      "special:against-all": 285
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067631&region=0&sub_region=0&type=429",
@@ -6697,12 +6697,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 66,
-      "Кармазина Раиса Васильевна": 363,
-      "Коледов Олег Геннадьевич": 45,
-      "Смык Николай Михайлович": 108,
-      "Сысоева Наталья Александровна": 92,
-      "Против всех": 236
+      "gas:candidate-vibid:324300366742": 66,
+      "gas:candidate-vibid:1001000225918": 363,
+      "gas:candidate-vibid:1001000136023": 45,
+      "gas:candidate-vibid:1001000121819": 108,
+      "gas:candidate-vibid:1001000190310": 92,
+      "special:against-all": 236
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067631&region=0&sub_region=0&type=429",
@@ -6752,12 +6752,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 62,
-      "Кармазина Раиса Васильевна": 275,
-      "Коледов Олег Геннадьевич": 60,
-      "Смык Николай Михайлович": 105,
-      "Сысоева Наталья Александровна": 83,
-      "Против всех": 224
+      "gas:candidate-vibid:324300366742": 62,
+      "gas:candidate-vibid:1001000225918": 275,
+      "gas:candidate-vibid:1001000136023": 60,
+      "gas:candidate-vibid:1001000121819": 105,
+      "gas:candidate-vibid:1001000190310": 83,
+      "special:against-all": 224
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067631&region=0&sub_region=0&type=429",
@@ -6807,12 +6807,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 113,
-      "Кармазина Раиса Васильевна": 484,
-      "Коледов Олег Геннадьевич": 79,
-      "Смык Николай Михайлович": 100,
-      "Сысоева Наталья Александровна": 165,
-      "Против всех": 323
+      "gas:candidate-vibid:324300366742": 113,
+      "gas:candidate-vibid:1001000225918": 484,
+      "gas:candidate-vibid:1001000136023": 79,
+      "gas:candidate-vibid:1001000121819": 100,
+      "gas:candidate-vibid:1001000190310": 165,
+      "special:against-all": 323
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067631&region=0&sub_region=0&type=429",
@@ -6862,12 +6862,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 106,
-      "Кармазина Раиса Васильевна": 433,
-      "Коледов Олег Геннадьевич": 64,
-      "Смык Николай Михайлович": 128,
-      "Сысоева Наталья Александровна": 135,
-      "Против всех": 265
+      "gas:candidate-vibid:324300366742": 106,
+      "gas:candidate-vibid:1001000225918": 433,
+      "gas:candidate-vibid:1001000136023": 64,
+      "gas:candidate-vibid:1001000121819": 128,
+      "gas:candidate-vibid:1001000190310": 135,
+      "special:against-all": 265
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067631&region=0&sub_region=0&type=429",
@@ -6917,12 +6917,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 115,
-      "Кармазина Раиса Васильевна": 416,
-      "Коледов Олег Геннадьевич": 76,
-      "Смык Николай Михайлович": 106,
-      "Сысоева Наталья Александровна": 132,
-      "Против всех": 350
+      "gas:candidate-vibid:324300366742": 115,
+      "gas:candidate-vibid:1001000225918": 416,
+      "gas:candidate-vibid:1001000136023": 76,
+      "gas:candidate-vibid:1001000121819": 106,
+      "gas:candidate-vibid:1001000190310": 132,
+      "special:against-all": 350
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067631&region=0&sub_region=0&type=429",
@@ -6972,12 +6972,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 66,
-      "Кармазина Раиса Васильевна": 235,
-      "Коледов Олег Геннадьевич": 36,
-      "Смык Николай Михайлович": 42,
-      "Сысоева Наталья Александровна": 94,
-      "Против всех": 220
+      "gas:candidate-vibid:324300366742": 66,
+      "gas:candidate-vibid:1001000225918": 235,
+      "gas:candidate-vibid:1001000136023": 36,
+      "gas:candidate-vibid:1001000121819": 42,
+      "gas:candidate-vibid:1001000190310": 94,
+      "special:against-all": 220
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067631&region=0&sub_region=0&type=429",
@@ -7027,12 +7027,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 83,
-      "Кармазина Раиса Васильевна": 410,
-      "Коледов Олег Геннадьевич": 65,
-      "Смык Николай Михайлович": 80,
-      "Сысоева Наталья Александровна": 138,
-      "Против всех": 325
+      "gas:candidate-vibid:324300366742": 83,
+      "gas:candidate-vibid:1001000225918": 410,
+      "gas:candidate-vibid:1001000136023": 65,
+      "gas:candidate-vibid:1001000121819": 80,
+      "gas:candidate-vibid:1001000190310": 138,
+      "special:against-all": 325
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067631&region=0&sub_region=0&type=429",
@@ -7082,12 +7082,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 64,
-      "Кармазина Раиса Васильевна": 258,
-      "Коледов Олег Геннадьевич": 48,
-      "Смык Николай Михайлович": 81,
-      "Сысоева Наталья Александровна": 94,
-      "Против всех": 231
+      "gas:candidate-vibid:324300366742": 64,
+      "gas:candidate-vibid:1001000225918": 258,
+      "gas:candidate-vibid:1001000136023": 48,
+      "gas:candidate-vibid:1001000121819": 81,
+      "gas:candidate-vibid:1001000190310": 94,
+      "special:against-all": 231
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067631&region=0&sub_region=0&type=429",
@@ -7137,12 +7137,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 90,
-      "Кармазина Раиса Васильевна": 425,
-      "Коледов Олег Геннадьевич": 69,
-      "Смык Николай Михайлович": 107,
-      "Сысоева Наталья Александровна": 148,
-      "Против всех": 283
+      "gas:candidate-vibid:324300366742": 90,
+      "gas:candidate-vibid:1001000225918": 425,
+      "gas:candidate-vibid:1001000136023": 69,
+      "gas:candidate-vibid:1001000121819": 107,
+      "gas:candidate-vibid:1001000190310": 148,
+      "special:against-all": 283
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067631&region=0&sub_region=0&type=429",
@@ -7192,12 +7192,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 68,
-      "Кармазина Раиса Васильевна": 366,
-      "Коледов Олег Геннадьевич": 67,
-      "Смык Николай Михайлович": 67,
-      "Сысоева Наталья Александровна": 119,
-      "Против всех": 305
+      "gas:candidate-vibid:324300366742": 68,
+      "gas:candidate-vibid:1001000225918": 366,
+      "gas:candidate-vibid:1001000136023": 67,
+      "gas:candidate-vibid:1001000121819": 67,
+      "gas:candidate-vibid:1001000190310": 119,
+      "special:against-all": 305
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067631&region=0&sub_region=0&type=429",
@@ -7247,12 +7247,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 89,
-      "Кармазина Раиса Васильевна": 379,
-      "Коледов Олег Геннадьевич": 54,
-      "Смык Николай Михайлович": 66,
-      "Сысоева Наталья Александровна": 92,
-      "Против всех": 235
+      "gas:candidate-vibid:324300366742": 89,
+      "gas:candidate-vibid:1001000225918": 379,
+      "gas:candidate-vibid:1001000136023": 54,
+      "gas:candidate-vibid:1001000121819": 66,
+      "gas:candidate-vibid:1001000190310": 92,
+      "special:against-all": 235
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067631&region=0&sub_region=0&type=429",
@@ -7302,12 +7302,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 76,
-      "Кармазина Раиса Васильевна": 259,
-      "Коледов Олег Геннадьевич": 61,
-      "Смык Николай Михайлович": 107,
-      "Сысоева Наталья Александровна": 129,
-      "Против всех": 250
+      "gas:candidate-vibid:324300366742": 76,
+      "gas:candidate-vibid:1001000225918": 259,
+      "gas:candidate-vibid:1001000136023": 61,
+      "gas:candidate-vibid:1001000121819": 107,
+      "gas:candidate-vibid:1001000190310": 129,
+      "special:against-all": 250
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067631&region=0&sub_region=0&type=429",
@@ -7357,12 +7357,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 87,
-      "Кармазина Раиса Васильевна": 431,
-      "Коледов Олег Геннадьевич": 66,
-      "Смык Николай Михайлович": 99,
-      "Сысоева Наталья Александровна": 138,
-      "Против всех": 349
+      "gas:candidate-vibid:324300366742": 87,
+      "gas:candidate-vibid:1001000225918": 431,
+      "gas:candidate-vibid:1001000136023": 66,
+      "gas:candidate-vibid:1001000121819": 99,
+      "gas:candidate-vibid:1001000190310": 138,
+      "special:against-all": 349
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067631&region=0&sub_region=0&type=429",
@@ -7412,12 +7412,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 95,
-      "Кармазина Раиса Васильевна": 457,
-      "Коледов Олег Геннадьевич": 69,
-      "Смык Николай Михайлович": 129,
-      "Сысоева Наталья Александровна": 124,
-      "Против всех": 385
+      "gas:candidate-vibid:324300366742": 95,
+      "gas:candidate-vibid:1001000225918": 457,
+      "gas:candidate-vibid:1001000136023": 69,
+      "gas:candidate-vibid:1001000121819": 129,
+      "gas:candidate-vibid:1001000190310": 124,
+      "special:against-all": 385
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067631&region=0&sub_region=0&type=429",
@@ -7467,12 +7467,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 47,
-      "Кармазина Раиса Васильевна": 308,
-      "Коледов Олег Геннадьевич": 40,
-      "Смык Николай Михайлович": 110,
-      "Сысоева Наталья Александровна": 79,
-      "Против всех": 221
+      "gas:candidate-vibid:324300366742": 47,
+      "gas:candidate-vibid:1001000225918": 308,
+      "gas:candidate-vibid:1001000136023": 40,
+      "gas:candidate-vibid:1001000121819": 110,
+      "gas:candidate-vibid:1001000190310": 79,
+      "special:against-all": 221
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067631&region=0&sub_region=0&type=429",
@@ -7522,12 +7522,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 85,
-      "Кармазина Раиса Васильевна": 360,
-      "Коледов Олег Геннадьевич": 57,
-      "Смык Николай Михайлович": 120,
-      "Сысоева Наталья Александровна": 110,
-      "Против всех": 279
+      "gas:candidate-vibid:324300366742": 85,
+      "gas:candidate-vibid:1001000225918": 360,
+      "gas:candidate-vibid:1001000136023": 57,
+      "gas:candidate-vibid:1001000121819": 120,
+      "gas:candidate-vibid:1001000190310": 110,
+      "special:against-all": 279
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067631&region=0&sub_region=0&type=429",
@@ -7577,12 +7577,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 14,
-      "Кармазина Раиса Васильевна": 151,
-      "Коледов Олег Геннадьевич": 46,
-      "Смык Николай Михайлович": 44,
-      "Сысоева Наталья Александровна": 45,
-      "Против всех": 128
+      "gas:candidate-vibid:324300366742": 14,
+      "gas:candidate-vibid:1001000225918": 151,
+      "gas:candidate-vibid:1001000136023": 46,
+      "gas:candidate-vibid:1001000121819": 44,
+      "gas:candidate-vibid:1001000190310": 45,
+      "special:against-all": 128
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067631&region=0&sub_region=0&type=429",
@@ -7632,12 +7632,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 46,
-      "Кармазина Раиса Васильевна": 282,
-      "Коледов Олег Геннадьевич": 34,
-      "Смык Николай Михайлович": 61,
-      "Сысоева Наталья Александровна": 72,
-      "Против всех": 200
+      "gas:candidate-vibid:324300366742": 46,
+      "gas:candidate-vibid:1001000225918": 282,
+      "gas:candidate-vibid:1001000136023": 34,
+      "gas:candidate-vibid:1001000121819": 61,
+      "gas:candidate-vibid:1001000190310": 72,
+      "special:against-all": 200
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067631&region=0&sub_region=0&type=429",
@@ -7687,12 +7687,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 66,
-      "Кармазина Раиса Васильевна": 322,
-      "Коледов Олег Геннадьевич": 53,
-      "Смык Николай Михайлович": 106,
-      "Сысоева Наталья Александровна": 81,
-      "Против всех": 243
+      "gas:candidate-vibid:324300366742": 66,
+      "gas:candidate-vibid:1001000225918": 322,
+      "gas:candidate-vibid:1001000136023": 53,
+      "gas:candidate-vibid:1001000121819": 106,
+      "gas:candidate-vibid:1001000190310": 81,
+      "special:against-all": 243
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067631&region=0&sub_region=0&type=429",
@@ -7742,12 +7742,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 34,
-      "Кармазина Раиса Васильевна": 239,
-      "Коледов Олег Геннадьевич": 49,
-      "Смык Николай Михайлович": 79,
-      "Сысоева Наталья Александровна": 81,
-      "Против всех": 187
+      "gas:candidate-vibid:324300366742": 34,
+      "gas:candidate-vibid:1001000225918": 239,
+      "gas:candidate-vibid:1001000136023": 49,
+      "gas:candidate-vibid:1001000121819": 79,
+      "gas:candidate-vibid:1001000190310": 81,
+      "special:against-all": 187
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067631&region=0&sub_region=0&type=429",
@@ -7797,12 +7797,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 12,
-      "Кармазина Раиса Васильевна": 90,
-      "Коледов Олег Геннадьевич": 21,
-      "Смык Николай Михайлович": 21,
-      "Сысоева Наталья Александровна": 23,
-      "Против всех": 57
+      "gas:candidate-vibid:324300366742": 12,
+      "gas:candidate-vibid:1001000225918": 90,
+      "gas:candidate-vibid:1001000136023": 21,
+      "gas:candidate-vibid:1001000121819": 21,
+      "gas:candidate-vibid:1001000190310": 23,
+      "special:against-all": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000028&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067632&region=0&sub_region=0&type=429",
@@ -7852,12 +7852,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 106,
-      "Кармазина Раиса Васильевна": 408,
-      "Коледов Олег Геннадьевич": 66,
-      "Смык Николай Михайлович": 133,
-      "Сысоева Наталья Александровна": 119,
-      "Против всех": 294
+      "gas:candidate-vibid:324300366742": 106,
+      "gas:candidate-vibid:1001000225918": 408,
+      "gas:candidate-vibid:1001000136023": 66,
+      "gas:candidate-vibid:1001000121819": 133,
+      "gas:candidate-vibid:1001000190310": 119,
+      "special:against-all": 294
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000028&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067632&region=0&sub_region=0&type=429",
@@ -7907,12 +7907,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 38,
-      "Кармазина Раиса Васильевна": 150,
-      "Коледов Олег Геннадьевич": 20,
-      "Смык Николай Михайлович": 18,
-      "Сысоева Наталья Александровна": 37,
-      "Против всех": 120
+      "gas:candidate-vibid:324300366742": 38,
+      "gas:candidate-vibid:1001000225918": 150,
+      "gas:candidate-vibid:1001000136023": 20,
+      "gas:candidate-vibid:1001000121819": 18,
+      "gas:candidate-vibid:1001000190310": 37,
+      "special:against-all": 120
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000028&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067632&region=0&sub_region=0&type=429",
@@ -7962,12 +7962,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 68,
-      "Кармазина Раиса Васильевна": 204,
-      "Коледов Олег Геннадьевич": 45,
-      "Смык Николай Михайлович": 37,
-      "Сысоева Наталья Александровна": 75,
-      "Против всех": 173
+      "gas:candidate-vibid:324300366742": 68,
+      "gas:candidate-vibid:1001000225918": 204,
+      "gas:candidate-vibid:1001000136023": 45,
+      "gas:candidate-vibid:1001000121819": 37,
+      "gas:candidate-vibid:1001000190310": 75,
+      "special:against-all": 173
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000028&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067632&region=0&sub_region=0&type=429",
@@ -8017,12 +8017,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 88,
-      "Кармазина Раиса Васильевна": 209,
-      "Коледов Олег Геннадьевич": 24,
-      "Смык Николай Михайлович": 85,
-      "Сысоева Наталья Александровна": 79,
-      "Против всех": 126
+      "gas:candidate-vibid:324300366742": 88,
+      "gas:candidate-vibid:1001000225918": 209,
+      "gas:candidate-vibid:1001000136023": 24,
+      "gas:candidate-vibid:1001000121819": 85,
+      "gas:candidate-vibid:1001000190310": 79,
+      "special:against-all": 126
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000028&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067632&region=0&sub_region=0&type=429",
@@ -8072,12 +8072,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 69,
-      "Кармазина Раиса Васильевна": 246,
-      "Коледов Олег Геннадьевич": 68,
-      "Смык Николай Михайлович": 41,
-      "Сысоева Наталья Александровна": 133,
-      "Против всех": 307
+      "gas:candidate-vibid:324300366742": 69,
+      "gas:candidate-vibid:1001000225918": 246,
+      "gas:candidate-vibid:1001000136023": 68,
+      "gas:candidate-vibid:1001000121819": 41,
+      "gas:candidate-vibid:1001000190310": 133,
+      "special:against-all": 307
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000028&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067632&region=0&sub_region=0&type=429",
@@ -8127,12 +8127,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 91,
-      "Кармазина Раиса Васильевна": 398,
-      "Коледов Олег Геннадьевич": 29,
-      "Смык Николай Михайлович": 89,
-      "Сысоева Наталья Александровна": 88,
-      "Против всех": 187
+      "gas:candidate-vibid:324300366742": 91,
+      "gas:candidate-vibid:1001000225918": 398,
+      "gas:candidate-vibid:1001000136023": 29,
+      "gas:candidate-vibid:1001000121819": 89,
+      "gas:candidate-vibid:1001000190310": 88,
+      "special:against-all": 187
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000028&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067632&region=0&sub_region=0&type=429",
@@ -8182,12 +8182,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 78,
-      "Кармазина Раиса Васильевна": 402,
-      "Коледов Олег Геннадьевич": 38,
-      "Смык Николай Михайлович": 92,
-      "Сысоева Наталья Александровна": 106,
-      "Против всех": 276
+      "gas:candidate-vibid:324300366742": 78,
+      "gas:candidate-vibid:1001000225918": 402,
+      "gas:candidate-vibid:1001000136023": 38,
+      "gas:candidate-vibid:1001000121819": 92,
+      "gas:candidate-vibid:1001000190310": 106,
+      "special:against-all": 276
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000028&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067632&region=0&sub_region=0&type=429",
@@ -8237,12 +8237,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 58,
-      "Кармазина Раиса Васильевна": 224,
-      "Коледов Олег Геннадьевич": 31,
-      "Смык Николай Михайлович": 61,
-      "Сысоева Наталья Александровна": 66,
-      "Против всех": 218
+      "gas:candidate-vibid:324300366742": 58,
+      "gas:candidate-vibid:1001000225918": 224,
+      "gas:candidate-vibid:1001000136023": 31,
+      "gas:candidate-vibid:1001000121819": 61,
+      "gas:candidate-vibid:1001000190310": 66,
+      "special:against-all": 218
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000028&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067632&region=0&sub_region=0&type=429",
@@ -8292,12 +8292,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 90,
-      "Кармазина Раиса Васильевна": 428,
-      "Коледов Олег Геннадьевич": 38,
-      "Смык Николай Михайлович": 123,
-      "Сысоева Наталья Александровна": 145,
-      "Против всех": 292
+      "gas:candidate-vibid:324300366742": 90,
+      "gas:candidate-vibid:1001000225918": 428,
+      "gas:candidate-vibid:1001000136023": 38,
+      "gas:candidate-vibid:1001000121819": 123,
+      "gas:candidate-vibid:1001000190310": 145,
+      "special:against-all": 292
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000028&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067632&region=0&sub_region=0&type=429",
@@ -8347,12 +8347,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 76,
-      "Кармазина Раиса Васильевна": 354,
-      "Коледов Олег Геннадьевич": 50,
-      "Смык Николай Михайлович": 112,
-      "Сысоева Наталья Александровна": 120,
-      "Против всех": 267
+      "gas:candidate-vibid:324300366742": 76,
+      "gas:candidate-vibid:1001000225918": 354,
+      "gas:candidate-vibid:1001000136023": 50,
+      "gas:candidate-vibid:1001000121819": 112,
+      "gas:candidate-vibid:1001000190310": 120,
+      "special:against-all": 267
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000028&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067632&region=0&sub_region=0&type=429",
@@ -8402,12 +8402,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 82,
-      "Кармазина Раиса Васильевна": 442,
-      "Коледов Олег Геннадьевич": 38,
-      "Смык Николай Михайлович": 137,
-      "Сысоева Наталья Александровна": 145,
-      "Против всех": 369
+      "gas:candidate-vibid:324300366742": 82,
+      "gas:candidate-vibid:1001000225918": 442,
+      "gas:candidate-vibid:1001000136023": 38,
+      "gas:candidate-vibid:1001000121819": 137,
+      "gas:candidate-vibid:1001000190310": 145,
+      "special:against-all": 369
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000028&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067632&region=0&sub_region=0&type=429",
@@ -8457,12 +8457,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 47,
-      "Кармазина Раиса Васильевна": 260,
-      "Коледов Олег Геннадьевич": 27,
-      "Смык Николай Михайлович": 70,
-      "Сысоева Наталья Александровна": 78,
-      "Против всех": 202
+      "gas:candidate-vibid:324300366742": 47,
+      "gas:candidate-vibid:1001000225918": 260,
+      "gas:candidate-vibid:1001000136023": 27,
+      "gas:candidate-vibid:1001000121819": 70,
+      "gas:candidate-vibid:1001000190310": 78,
+      "special:against-all": 202
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000028&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067632&region=0&sub_region=0&type=429",
@@ -8512,12 +8512,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 51,
-      "Кармазина Раиса Васильевна": 298,
-      "Коледов Олег Геннадьевич": 43,
-      "Смык Николай Михайлович": 74,
-      "Сысоева Наталья Александровна": 94,
-      "Против всех": 249
+      "gas:candidate-vibid:324300366742": 51,
+      "gas:candidate-vibid:1001000225918": 298,
+      "gas:candidate-vibid:1001000136023": 43,
+      "gas:candidate-vibid:1001000121819": 74,
+      "gas:candidate-vibid:1001000190310": 94,
+      "special:against-all": 249
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000028&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067632&region=0&sub_region=0&type=429",
@@ -8567,12 +8567,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 106,
-      "Кармазина Раиса Васильевна": 411,
-      "Коледов Олег Геннадьевич": 63,
-      "Смык Николай Михайлович": 116,
-      "Сысоева Наталья Александровна": 142,
-      "Против всех": 341
+      "gas:candidate-vibid:324300366742": 106,
+      "gas:candidate-vibid:1001000225918": 411,
+      "gas:candidate-vibid:1001000136023": 63,
+      "gas:candidate-vibid:1001000121819": 116,
+      "gas:candidate-vibid:1001000190310": 142,
+      "special:against-all": 341
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000028&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067632&region=0&sub_region=0&type=429",
@@ -8622,12 +8622,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 102,
-      "Кармазина Раиса Васильевна": 393,
-      "Коледов Олег Геннадьевич": 44,
-      "Смык Николай Михайлович": 129,
-      "Сысоева Наталья Александровна": 104,
-      "Против всех": 264
+      "gas:candidate-vibid:324300366742": 102,
+      "gas:candidate-vibid:1001000225918": 393,
+      "gas:candidate-vibid:1001000136023": 44,
+      "gas:candidate-vibid:1001000121819": 129,
+      "gas:candidate-vibid:1001000190310": 104,
+      "special:against-all": 264
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000028&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067632&region=0&sub_region=0&type=429",
@@ -8677,12 +8677,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 56,
-      "Кармазина Раиса Васильевна": 238,
-      "Коледов Олег Геннадьевич": 37,
-      "Смык Николай Михайлович": 73,
-      "Сысоева Наталья Александровна": 74,
-      "Против всех": 141
+      "gas:candidate-vibid:324300366742": 56,
+      "gas:candidate-vibid:1001000225918": 238,
+      "gas:candidate-vibid:1001000136023": 37,
+      "gas:candidate-vibid:1001000121819": 73,
+      "gas:candidate-vibid:1001000190310": 74,
+      "special:against-all": 141
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000028&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067632&region=0&sub_region=0&type=429",
@@ -8732,12 +8732,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 149,
-      "Кармазина Раиса Васильевна": 344,
-      "Коледов Олег Геннадьевич": 32,
-      "Смык Николай Михайлович": 92,
-      "Сысоева Наталья Александровна": 91,
-      "Против всех": 246
+      "gas:candidate-vibid:324300366742": 149,
+      "gas:candidate-vibid:1001000225918": 344,
+      "gas:candidate-vibid:1001000136023": 32,
+      "gas:candidate-vibid:1001000121819": 92,
+      "gas:candidate-vibid:1001000190310": 91,
+      "special:against-all": 246
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000028&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067632&region=0&sub_region=0&type=429",
@@ -8787,12 +8787,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 201,
-      "Кармазина Раиса Васильевна": 437,
-      "Коледов Олег Геннадьевич": 32,
-      "Смык Николай Михайлович": 150,
-      "Сысоева Наталья Александровна": 154,
-      "Против всех": 383
+      "gas:candidate-vibid:324300366742": 201,
+      "gas:candidate-vibid:1001000225918": 437,
+      "gas:candidate-vibid:1001000136023": 32,
+      "gas:candidate-vibid:1001000121819": 150,
+      "gas:candidate-vibid:1001000190310": 154,
+      "special:against-all": 383
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000028&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067632&region=0&sub_region=0&type=429",
@@ -8842,12 +8842,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 161,
-      "Кармазина Раиса Васильевна": 356,
-      "Коледов Олег Геннадьевич": 35,
-      "Смык Николай Михайлович": 128,
-      "Сысоева Наталья Александровна": 92,
-      "Против всех": 272
+      "gas:candidate-vibid:324300366742": 161,
+      "gas:candidate-vibid:1001000225918": 356,
+      "gas:candidate-vibid:1001000136023": 35,
+      "gas:candidate-vibid:1001000121819": 128,
+      "gas:candidate-vibid:1001000190310": 92,
+      "special:against-all": 272
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000028&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067632&region=0&sub_region=0&type=429",
@@ -8897,12 +8897,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 40,
-      "Кармазина Раиса Васильевна": 139,
-      "Коледов Олег Геннадьевич": 35,
-      "Смык Николай Михайлович": 33,
-      "Сысоева Наталья Александровна": 51,
-      "Против всех": 83
+      "gas:candidate-vibid:324300366742": 40,
+      "gas:candidate-vibid:1001000225918": 139,
+      "gas:candidate-vibid:1001000136023": 35,
+      "gas:candidate-vibid:1001000121819": 33,
+      "gas:candidate-vibid:1001000190310": 51,
+      "special:against-all": 83
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000028&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067632&region=0&sub_region=0&type=429",
@@ -8952,12 +8952,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 81,
-      "Кармазина Раиса Васильевна": 365,
-      "Коледов Олег Геннадьевич": 47,
-      "Смык Николай Михайлович": 91,
-      "Сысоева Наталья Александровна": 101,
-      "Против всех": 275
+      "gas:candidate-vibid:324300366742": 81,
+      "gas:candidate-vibid:1001000225918": 365,
+      "gas:candidate-vibid:1001000136023": 47,
+      "gas:candidate-vibid:1001000121819": 91,
+      "gas:candidate-vibid:1001000190310": 101,
+      "special:against-all": 275
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000028&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067632&region=0&sub_region=0&type=429",
@@ -9007,12 +9007,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 53,
-      "Кармазина Раиса Васильевна": 364,
-      "Коледов Олег Геннадьевич": 50,
-      "Смык Николай Михайлович": 109,
-      "Сысоева Наталья Александровна": 114,
-      "Против всех": 237
+      "gas:candidate-vibid:324300366742": 53,
+      "gas:candidate-vibid:1001000225918": 364,
+      "gas:candidate-vibid:1001000136023": 50,
+      "gas:candidate-vibid:1001000121819": 109,
+      "gas:candidate-vibid:1001000190310": 114,
+      "special:against-all": 237
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000028&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067632&region=0&sub_region=0&type=429",
@@ -9062,12 +9062,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 58,
-      "Кармазина Раиса Васильевна": 335,
-      "Коледов Олег Геннадьевич": 35,
-      "Смык Николай Михайлович": 83,
-      "Сысоева Наталья Александровна": 100,
-      "Против всех": 225
+      "gas:candidate-vibid:324300366742": 58,
+      "gas:candidate-vibid:1001000225918": 335,
+      "gas:candidate-vibid:1001000136023": 35,
+      "gas:candidate-vibid:1001000121819": 83,
+      "gas:candidate-vibid:1001000190310": 100,
+      "special:against-all": 225
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000028&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067632&region=0&sub_region=0&type=429",
@@ -9117,12 +9117,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 87,
-      "Кармазина Раиса Васильевна": 485,
-      "Коледов Олег Геннадьевич": 60,
-      "Смык Николай Михайлович": 147,
-      "Сысоева Наталья Александровна": 186,
-      "Против всех": 281
+      "gas:candidate-vibid:324300366742": 87,
+      "gas:candidate-vibid:1001000225918": 485,
+      "gas:candidate-vibid:1001000136023": 60,
+      "gas:candidate-vibid:1001000121819": 147,
+      "gas:candidate-vibid:1001000190310": 186,
+      "special:against-all": 281
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000028&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067632&region=0&sub_region=0&type=429",
@@ -9172,12 +9172,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 100,
-      "Кармазина Раиса Васильевна": 380,
-      "Коледов Олег Геннадьевич": 54,
-      "Смык Николай Михайлович": 98,
-      "Сысоева Наталья Александровна": 94,
-      "Против всех": 235
+      "gas:candidate-vibid:324300366742": 100,
+      "gas:candidate-vibid:1001000225918": 380,
+      "gas:candidate-vibid:1001000136023": 54,
+      "gas:candidate-vibid:1001000121819": 98,
+      "gas:candidate-vibid:1001000190310": 94,
+      "special:against-all": 235
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000028&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067632&region=0&sub_region=0&type=429",
@@ -9227,12 +9227,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 74,
-      "Кармазина Раиса Васильевна": 309,
-      "Коледов Олег Геннадьевич": 28,
-      "Смык Николай Михайлович": 120,
-      "Сысоева Наталья Александровна": 116,
-      "Против всех": 243
+      "gas:candidate-vibid:324300366742": 74,
+      "gas:candidate-vibid:1001000225918": 309,
+      "gas:candidate-vibid:1001000136023": 28,
+      "gas:candidate-vibid:1001000121819": 120,
+      "gas:candidate-vibid:1001000190310": 116,
+      "special:against-all": 243
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000028&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067632&region=0&sub_region=0&type=429",
@@ -9282,12 +9282,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 79,
-      "Кармазина Раиса Васильевна": 390,
-      "Коледов Олег Геннадьевич": 33,
-      "Смык Николай Михайлович": 118,
-      "Сысоева Наталья Александровна": 123,
-      "Против всех": 313
+      "gas:candidate-vibid:324300366742": 79,
+      "gas:candidate-vibid:1001000225918": 390,
+      "gas:candidate-vibid:1001000136023": 33,
+      "gas:candidate-vibid:1001000121819": 118,
+      "gas:candidate-vibid:1001000190310": 123,
+      "special:against-all": 313
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000028&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067632&region=0&sub_region=0&type=429",
@@ -9337,12 +9337,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 86,
-      "Кармазина Раиса Васильевна": 482,
-      "Коледов Олег Геннадьевич": 48,
-      "Смык Николай Михайлович": 152,
-      "Сысоева Наталья Александровна": 119,
-      "Против всех": 296
+      "gas:candidate-vibid:324300366742": 86,
+      "gas:candidate-vibid:1001000225918": 482,
+      "gas:candidate-vibid:1001000136023": 48,
+      "gas:candidate-vibid:1001000121819": 152,
+      "gas:candidate-vibid:1001000190310": 119,
+      "special:against-all": 296
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000028&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067632&region=0&sub_region=0&type=429",
@@ -9392,12 +9392,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 88,
-      "Кармазина Раиса Васильевна": 452,
-      "Коледов Олег Геннадьевич": 36,
-      "Смык Николай Михайлович": 149,
-      "Сысоева Наталья Александровна": 139,
-      "Против всех": 310
+      "gas:candidate-vibid:324300366742": 88,
+      "gas:candidate-vibid:1001000225918": 452,
+      "gas:candidate-vibid:1001000136023": 36,
+      "gas:candidate-vibid:1001000121819": 149,
+      "gas:candidate-vibid:1001000190310": 139,
+      "special:against-all": 310
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000028&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067632&region=0&sub_region=0&type=429",
@@ -9447,12 +9447,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 93,
-      "Кармазина Раиса Васильевна": 457,
-      "Коледов Олег Геннадьевич": 80,
-      "Смык Николай Михайлович": 162,
-      "Сысоева Наталья Александровна": 116,
-      "Против всех": 299
+      "gas:candidate-vibid:324300366742": 93,
+      "gas:candidate-vibid:1001000225918": 457,
+      "gas:candidate-vibid:1001000136023": 80,
+      "gas:candidate-vibid:1001000121819": 162,
+      "gas:candidate-vibid:1001000190310": 116,
+      "special:against-all": 299
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000028&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067632&region=0&sub_region=0&type=429",
@@ -9502,12 +9502,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 104,
-      "Кармазина Раиса Васильевна": 428,
-      "Коледов Олег Геннадьевич": 49,
-      "Смык Николай Михайлович": 160,
-      "Сысоева Наталья Александровна": 117,
-      "Против всех": 321
+      "gas:candidate-vibid:324300366742": 104,
+      "gas:candidate-vibid:1001000225918": 428,
+      "gas:candidate-vibid:1001000136023": 49,
+      "gas:candidate-vibid:1001000121819": 160,
+      "gas:candidate-vibid:1001000190310": 117,
+      "special:against-all": 321
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000028&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067632&region=0&sub_region=0&type=429",
@@ -9557,12 +9557,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 94,
-      "Кармазина Раиса Васильевна": 411,
-      "Коледов Олег Геннадьевич": 52,
-      "Смык Николай Михайлович": 150,
-      "Сысоева Наталья Александровна": 142,
-      "Против всех": 250
+      "gas:candidate-vibid:324300366742": 94,
+      "gas:candidate-vibid:1001000225918": 411,
+      "gas:candidate-vibid:1001000136023": 52,
+      "gas:candidate-vibid:1001000121819": 150,
+      "gas:candidate-vibid:1001000190310": 142,
+      "special:against-all": 250
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000028&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067632&region=0&sub_region=0&type=429",
@@ -9612,12 +9612,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 75,
-      "Кармазина Раиса Васильевна": 324,
-      "Коледов Олег Геннадьевич": 52,
-      "Смык Николай Михайлович": 192,
-      "Сысоева Наталья Александровна": 112,
-      "Против всех": 254
+      "gas:candidate-vibid:324300366742": 75,
+      "gas:candidate-vibid:1001000225918": 324,
+      "gas:candidate-vibid:1001000136023": 52,
+      "gas:candidate-vibid:1001000121819": 192,
+      "gas:candidate-vibid:1001000190310": 112,
+      "special:against-all": 254
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000028&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067632&region=0&sub_region=0&type=429",
@@ -9667,12 +9667,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 76,
-      "Кармазина Раиса Васильевна": 354,
-      "Коледов Олег Геннадьевич": 35,
-      "Смык Николай Михайлович": 97,
-      "Сысоева Наталья Александровна": 74,
-      "Против всех": 214
+      "gas:candidate-vibid:324300366742": 76,
+      "gas:candidate-vibid:1001000225918": 354,
+      "gas:candidate-vibid:1001000136023": 35,
+      "gas:candidate-vibid:1001000121819": 97,
+      "gas:candidate-vibid:1001000190310": 74,
+      "special:against-all": 214
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000028&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067632&region=0&sub_region=0&type=429",
@@ -9722,12 +9722,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 95,
-      "Кармазина Раиса Васильевна": 385,
-      "Коледов Олег Геннадьевич": 48,
-      "Смык Николай Михайлович": 147,
-      "Сысоева Наталья Александровна": 128,
-      "Против всех": 260
+      "gas:candidate-vibid:324300366742": 95,
+      "gas:candidate-vibid:1001000225918": 385,
+      "gas:candidate-vibid:1001000136023": 48,
+      "gas:candidate-vibid:1001000121819": 147,
+      "gas:candidate-vibid:1001000190310": 128,
+      "special:against-all": 260
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000028&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067632&region=0&sub_region=0&type=429",
@@ -9777,12 +9777,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 100,
-      "Кармазина Раиса Васильевна": 441,
-      "Коледов Олег Геннадьевич": 49,
-      "Смык Николай Михайлович": 145,
-      "Сысоева Наталья Александровна": 99,
-      "Против всех": 265
+      "gas:candidate-vibid:324300366742": 100,
+      "gas:candidate-vibid:1001000225918": 441,
+      "gas:candidate-vibid:1001000136023": 49,
+      "gas:candidate-vibid:1001000121819": 145,
+      "gas:candidate-vibid:1001000190310": 99,
+      "special:against-all": 265
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000028&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067632&region=0&sub_region=0&type=429",
@@ -9832,12 +9832,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 89,
-      "Кармазина Раиса Васильевна": 374,
-      "Коледов Олег Геннадьевич": 57,
-      "Смык Николай Михайлович": 150,
-      "Сысоева Наталья Александровна": 121,
-      "Против всех": 290
+      "gas:candidate-vibid:324300366742": 89,
+      "gas:candidate-vibid:1001000225918": 374,
+      "gas:candidate-vibid:1001000136023": 57,
+      "gas:candidate-vibid:1001000121819": 150,
+      "gas:candidate-vibid:1001000190310": 121,
+      "special:against-all": 290
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000028&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067632&region=0&sub_region=0&type=429",
@@ -9887,12 +9887,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 54,
-      "Кармазина Раиса Васильевна": 311,
-      "Коледов Олег Геннадьевич": 43,
-      "Смык Николай Михайлович": 50,
-      "Сысоева Наталья Александровна": 99,
-      "Против всех": 178
+      "gas:candidate-vibid:324300366742": 54,
+      "gas:candidate-vibid:1001000225918": 311,
+      "gas:candidate-vibid:1001000136023": 43,
+      "gas:candidate-vibid:1001000121819": 50,
+      "gas:candidate-vibid:1001000190310": 99,
+      "special:against-all": 178
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000028&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067632&region=0&sub_region=0&type=429",
@@ -9942,12 +9942,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 13,
-      "Кармазина Раиса Васильевна": 75,
-      "Коледов Олег Геннадьевич": 6,
-      "Смык Николай Михайлович": 23,
-      "Сысоева Наталья Александровна": 56,
-      "Против всех": 69
+      "gas:candidate-vibid:324300366742": 13,
+      "gas:candidate-vibid:1001000225918": 75,
+      "gas:candidate-vibid:1001000136023": 6,
+      "gas:candidate-vibid:1001000121819": 23,
+      "gas:candidate-vibid:1001000190310": 56,
+      "special:against-all": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000028&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067632&region=0&sub_region=0&type=429",
@@ -9997,12 +9997,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 23,
-      "Кармазина Раиса Васильевна": 191,
-      "Коледов Олег Геннадьевич": 32,
-      "Смык Николай Михайлович": 49,
-      "Сысоева Наталья Александровна": 67,
-      "Против всех": 147
+      "gas:candidate-vibid:324300366742": 23,
+      "gas:candidate-vibid:1001000225918": 191,
+      "gas:candidate-vibid:1001000136023": 32,
+      "gas:candidate-vibid:1001000121819": 49,
+      "gas:candidate-vibid:1001000190310": 67,
+      "special:against-all": 147
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000028&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067632&region=0&sub_region=0&type=429",
@@ -10052,12 +10052,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 27,
-      "Кармазина Раиса Васильевна": 128,
-      "Коледов Олег Геннадьевич": 28,
-      "Смык Николай Михайлович": 49,
-      "Сысоева Наталья Александровна": 60,
-      "Против всех": 121
+      "gas:candidate-vibid:324300366742": 27,
+      "gas:candidate-vibid:1001000225918": 128,
+      "gas:candidate-vibid:1001000136023": 28,
+      "gas:candidate-vibid:1001000121819": 49,
+      "gas:candidate-vibid:1001000190310": 60,
+      "special:against-all": 121
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000028&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067632&region=0&sub_region=0&type=429",
@@ -10107,12 +10107,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 16,
-      "Кармазина Раиса Васильевна": 66,
-      "Коледов Олег Геннадьевич": 8,
-      "Смык Николай Михайлович": 16,
-      "Сысоева Наталья Александровна": 25,
-      "Против всех": 39
+      "gas:candidate-vibid:324300366742": 16,
+      "gas:candidate-vibid:1001000225918": 66,
+      "gas:candidate-vibid:1001000136023": 8,
+      "gas:candidate-vibid:1001000121819": 16,
+      "gas:candidate-vibid:1001000190310": 25,
+      "special:against-all": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000028&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067632&region=0&sub_region=0&type=429",
@@ -10162,12 +10162,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 76,
-      "Кармазина Раиса Васильевна": 368,
-      "Коледов Олег Геннадьевич": 51,
-      "Смык Николай Михайлович": 169,
-      "Сысоева Наталья Александровна": 106,
-      "Против всех": 342
+      "gas:candidate-vibid:324300366742": 76,
+      "gas:candidate-vibid:1001000225918": 368,
+      "gas:candidate-vibid:1001000136023": 51,
+      "gas:candidate-vibid:1001000121819": 169,
+      "gas:candidate-vibid:1001000190310": 106,
+      "special:against-all": 342
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000028&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067632&region=0&sub_region=0&type=429",
@@ -10217,12 +10217,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 109,
-      "Кармазина Раиса Васильевна": 445,
-      "Коледов Олег Геннадьевич": 46,
-      "Смык Николай Михайлович": 171,
-      "Сысоева Наталья Александровна": 142,
-      "Против всех": 385
+      "gas:candidate-vibid:324300366742": 109,
+      "gas:candidate-vibid:1001000225918": 445,
+      "gas:candidate-vibid:1001000136023": 46,
+      "gas:candidate-vibid:1001000121819": 171,
+      "gas:candidate-vibid:1001000190310": 142,
+      "special:against-all": 385
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000028&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067632&region=0&sub_region=0&type=429",
@@ -10272,12 +10272,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 54,
-      "Кармазина Раиса Васильевна": 304,
-      "Коледов Олег Геннадьевич": 51,
-      "Смык Николай Михайлович": 88,
-      "Сысоева Наталья Александровна": 99,
-      "Против всех": 288
+      "gas:candidate-vibid:324300366742": 54,
+      "gas:candidate-vibid:1001000225918": 304,
+      "gas:candidate-vibid:1001000136023": 51,
+      "gas:candidate-vibid:1001000121819": 88,
+      "gas:candidate-vibid:1001000190310": 99,
+      "special:against-all": 288
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000028&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067632&region=0&sub_region=0&type=429",
@@ -10327,12 +10327,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 104,
-      "Кармазина Раиса Васильевна": 453,
-      "Коледов Олег Геннадьевич": 43,
-      "Смык Николай Михайлович": 168,
-      "Сысоева Наталья Александровна": 157,
-      "Против всех": 355
+      "gas:candidate-vibid:324300366742": 104,
+      "gas:candidate-vibid:1001000225918": 453,
+      "gas:candidate-vibid:1001000136023": 43,
+      "gas:candidate-vibid:1001000121819": 168,
+      "gas:candidate-vibid:1001000190310": 157,
+      "special:against-all": 355
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000028&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067632&region=0&sub_region=0&type=429",
@@ -10382,12 +10382,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 95,
-      "Кармазина Раиса Васильевна": 426,
-      "Коледов Олег Геннадьевич": 53,
-      "Смык Николай Михайлович": 163,
-      "Сысоева Наталья Александровна": 139,
-      "Против всех": 346
+      "gas:candidate-vibid:324300366742": 95,
+      "gas:candidate-vibid:1001000225918": 426,
+      "gas:candidate-vibid:1001000136023": 53,
+      "gas:candidate-vibid:1001000121819": 163,
+      "gas:candidate-vibid:1001000190310": 139,
+      "special:against-all": 346
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000028&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067632&region=0&sub_region=0&type=429",
@@ -10437,12 +10437,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 72,
-      "Кармазина Раиса Васильевна": 352,
-      "Коледов Олег Геннадьевич": 46,
-      "Смык Николай Михайлович": 148,
-      "Сысоева Наталья Александровна": 124,
-      "Против всех": 302
+      "gas:candidate-vibid:324300366742": 72,
+      "gas:candidate-vibid:1001000225918": 352,
+      "gas:candidate-vibid:1001000136023": 46,
+      "gas:candidate-vibid:1001000121819": 148,
+      "gas:candidate-vibid:1001000190310": 124,
+      "special:against-all": 302
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000028&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067632&region=0&sub_region=0&type=429",
@@ -10492,12 +10492,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 15,
-      "Кармазина Раиса Васильевна": 56,
-      "Коледов Олег Геннадьевич": 9,
-      "Смык Николай Михайлович": 27,
-      "Сысоева Наталья Александровна": 9,
-      "Против всех": 30
+      "gas:candidate-vibid:324300366742": 15,
+      "gas:candidate-vibid:1001000225918": 56,
+      "gas:candidate-vibid:1001000136023": 9,
+      "gas:candidate-vibid:1001000121819": 27,
+      "gas:candidate-vibid:1001000190310": 9,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000028&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067632&region=0&sub_region=0&type=429",
@@ -10547,12 +10547,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 63,
-      "Кармазина Раиса Васильевна": 285,
-      "Коледов Олег Геннадьевич": 62,
-      "Смык Николай Михайлович": 74,
-      "Сысоева Наталья Александровна": 102,
-      "Против всех": 194
+      "gas:candidate-vibid:324300366742": 63,
+      "gas:candidate-vibid:1001000225918": 285,
+      "gas:candidate-vibid:1001000136023": 62,
+      "gas:candidate-vibid:1001000121819": 74,
+      "gas:candidate-vibid:1001000190310": 102,
+      "special:against-all": 194
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000029&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067633&region=0&sub_region=0&type=429",
@@ -10602,12 +10602,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 64,
-      "Кармазина Раиса Васильевна": 230,
-      "Коледов Олег Геннадьевич": 43,
-      "Смык Николай Михайлович": 120,
-      "Сысоева Наталья Александровна": 47,
-      "Против всех": 140
+      "gas:candidate-vibid:324300366742": 64,
+      "gas:candidate-vibid:1001000225918": 230,
+      "gas:candidate-vibid:1001000136023": 43,
+      "gas:candidate-vibid:1001000121819": 120,
+      "gas:candidate-vibid:1001000190310": 47,
+      "special:against-all": 140
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000029&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067633&region=0&sub_region=0&type=429",
@@ -10657,12 +10657,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 94,
-      "Кармазина Раиса Васильевна": 397,
-      "Коледов Олег Геннадьевич": 56,
-      "Смык Николай Михайлович": 191,
-      "Сысоева Наталья Александровна": 109,
-      "Против всех": 251
+      "gas:candidate-vibid:324300366742": 94,
+      "gas:candidate-vibid:1001000225918": 397,
+      "gas:candidate-vibid:1001000136023": 56,
+      "gas:candidate-vibid:1001000121819": 191,
+      "gas:candidate-vibid:1001000190310": 109,
+      "special:against-all": 251
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000029&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067633&region=0&sub_region=0&type=429",
@@ -10712,12 +10712,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 71,
-      "Кармазина Раиса Васильевна": 373,
-      "Коледов Олег Геннадьевич": 41,
-      "Смык Николай Михайлович": 154,
-      "Сысоева Наталья Александровна": 95,
-      "Против всех": 249
+      "gas:candidate-vibid:324300366742": 71,
+      "gas:candidate-vibid:1001000225918": 373,
+      "gas:candidate-vibid:1001000136023": 41,
+      "gas:candidate-vibid:1001000121819": 154,
+      "gas:candidate-vibid:1001000190310": 95,
+      "special:against-all": 249
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000029&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067633&region=0&sub_region=0&type=429",
@@ -10767,12 +10767,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 69,
-      "Кармазина Раиса Васильевна": 270,
-      "Коледов Олег Геннадьевич": 19,
-      "Смык Николай Михайлович": 118,
-      "Сысоева Наталья Александровна": 68,
-      "Против всех": 189
+      "gas:candidate-vibid:324300366742": 69,
+      "gas:candidate-vibid:1001000225918": 270,
+      "gas:candidate-vibid:1001000136023": 19,
+      "gas:candidate-vibid:1001000121819": 118,
+      "gas:candidate-vibid:1001000190310": 68,
+      "special:against-all": 189
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000029&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067633&region=0&sub_region=0&type=429",
@@ -10822,12 +10822,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 101,
-      "Кармазина Раиса Васильевна": 390,
-      "Коледов Олег Геннадьевич": 41,
-      "Смык Николай Михайлович": 223,
-      "Сысоева Наталья Александровна": 118,
-      "Против всех": 267
+      "gas:candidate-vibid:324300366742": 101,
+      "gas:candidate-vibid:1001000225918": 390,
+      "gas:candidate-vibid:1001000136023": 41,
+      "gas:candidate-vibid:1001000121819": 223,
+      "gas:candidate-vibid:1001000190310": 118,
+      "special:against-all": 267
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000029&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067633&region=0&sub_region=0&type=429",
@@ -10877,12 +10877,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 113,
-      "Кармазина Раиса Васильевна": 361,
-      "Коледов Олег Геннадьевич": 47,
-      "Смык Николай Михайлович": 179,
-      "Сысоева Наталья Александровна": 89,
-      "Против всех": 235
+      "gas:candidate-vibid:324300366742": 113,
+      "gas:candidate-vibid:1001000225918": 361,
+      "gas:candidate-vibid:1001000136023": 47,
+      "gas:candidate-vibid:1001000121819": 179,
+      "gas:candidate-vibid:1001000190310": 89,
+      "special:against-all": 235
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000029&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067633&region=0&sub_region=0&type=429",
@@ -10932,12 +10932,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 76,
-      "Кармазина Раиса Васильевна": 317,
-      "Коледов Олег Геннадьевич": 46,
-      "Смык Николай Михайлович": 122,
-      "Сысоева Наталья Александровна": 79,
-      "Против всех": 226
+      "gas:candidate-vibid:324300366742": 76,
+      "gas:candidate-vibid:1001000225918": 317,
+      "gas:candidate-vibid:1001000136023": 46,
+      "gas:candidate-vibid:1001000121819": 122,
+      "gas:candidate-vibid:1001000190310": 79,
+      "special:against-all": 226
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000029&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067633&region=0&sub_region=0&type=429",
@@ -10987,12 +10987,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 73,
-      "Кармазина Раиса Васильевна": 417,
-      "Коледов Олег Геннадьевич": 54,
-      "Смык Николай Михайлович": 139,
-      "Сысоева Наталья Александровна": 93,
-      "Против всех": 273
+      "gas:candidate-vibid:324300366742": 73,
+      "gas:candidate-vibid:1001000225918": 417,
+      "gas:candidate-vibid:1001000136023": 54,
+      "gas:candidate-vibid:1001000121819": 139,
+      "gas:candidate-vibid:1001000190310": 93,
+      "special:against-all": 273
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000029&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067633&region=0&sub_region=0&type=429",
@@ -11042,12 +11042,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 81,
-      "Кармазина Раиса Васильевна": 396,
-      "Коледов Олег Геннадьевич": 66,
-      "Смык Николай Михайлович": 108,
-      "Сысоева Наталья Александровна": 94,
-      "Против всех": 243
+      "gas:candidate-vibid:324300366742": 81,
+      "gas:candidate-vibid:1001000225918": 396,
+      "gas:candidate-vibid:1001000136023": 66,
+      "gas:candidate-vibid:1001000121819": 108,
+      "gas:candidate-vibid:1001000190310": 94,
+      "special:against-all": 243
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000029&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067633&region=0&sub_region=0&type=429",
@@ -11097,12 +11097,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 95,
-      "Кармазина Раиса Васильевна": 476,
-      "Коледов Олег Геннадьевич": 51,
-      "Смык Николай Михайлович": 191,
-      "Сысоева Наталья Александровна": 119,
-      "Против всех": 307
+      "gas:candidate-vibid:324300366742": 95,
+      "gas:candidate-vibid:1001000225918": 476,
+      "gas:candidate-vibid:1001000136023": 51,
+      "gas:candidate-vibid:1001000121819": 191,
+      "gas:candidate-vibid:1001000190310": 119,
+      "special:against-all": 307
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000029&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067633&region=0&sub_region=0&type=429",
@@ -11152,12 +11152,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 62,
-      "Кармазина Раиса Васильевна": 327,
-      "Коледов Олег Геннадьевич": 38,
-      "Смык Николай Михайлович": 77,
-      "Сысоева Наталья Александровна": 62,
-      "Против всех": 194
+      "gas:candidate-vibid:324300366742": 62,
+      "gas:candidate-vibid:1001000225918": 327,
+      "gas:candidate-vibid:1001000136023": 38,
+      "gas:candidate-vibid:1001000121819": 77,
+      "gas:candidate-vibid:1001000190310": 62,
+      "special:against-all": 194
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000029&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067633&region=0&sub_region=0&type=429",
@@ -11207,12 +11207,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 68,
-      "Кармазина Раиса Васильевна": 358,
-      "Коледов Олег Геннадьевич": 58,
-      "Смык Николай Михайлович": 117,
-      "Сысоева Наталья Александровна": 84,
-      "Против всех": 263
+      "gas:candidate-vibid:324300366742": 68,
+      "gas:candidate-vibid:1001000225918": 358,
+      "gas:candidate-vibid:1001000136023": 58,
+      "gas:candidate-vibid:1001000121819": 117,
+      "gas:candidate-vibid:1001000190310": 84,
+      "special:against-all": 263
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000029&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067633&region=0&sub_region=0&type=429",
@@ -11262,12 +11262,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 39,
-      "Кармазина Раиса Васильевна": 224,
-      "Коледов Олег Геннадьевич": 38,
-      "Смык Николай Михайлович": 89,
-      "Сысоева Наталья Александровна": 74,
-      "Против всех": 154
+      "gas:candidate-vibid:324300366742": 39,
+      "gas:candidate-vibid:1001000225918": 224,
+      "gas:candidate-vibid:1001000136023": 38,
+      "gas:candidate-vibid:1001000121819": 89,
+      "gas:candidate-vibid:1001000190310": 74,
+      "special:against-all": 154
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000029&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067633&region=0&sub_region=0&type=429",
@@ -11317,12 +11317,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 72,
-      "Кармазина Раиса Васильевна": 329,
-      "Коледов Олег Геннадьевич": 52,
-      "Смык Николай Михайлович": 112,
-      "Сысоева Наталья Александровна": 109,
-      "Против всех": 266
+      "gas:candidate-vibid:324300366742": 72,
+      "gas:candidate-vibid:1001000225918": 329,
+      "gas:candidate-vibid:1001000136023": 52,
+      "gas:candidate-vibid:1001000121819": 112,
+      "gas:candidate-vibid:1001000190310": 109,
+      "special:against-all": 266
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000029&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067633&region=0&sub_region=0&type=429",
@@ -11372,12 +11372,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 110,
-      "Кармазина Раиса Васильевна": 379,
-      "Коледов Олег Геннадьевич": 67,
-      "Смык Николай Михайлович": 181,
-      "Сысоева Наталья Александровна": 136,
-      "Против всех": 260
+      "gas:candidate-vibid:324300366742": 110,
+      "gas:candidate-vibid:1001000225918": 379,
+      "gas:candidate-vibid:1001000136023": 67,
+      "gas:candidate-vibid:1001000121819": 181,
+      "gas:candidate-vibid:1001000190310": 136,
+      "special:against-all": 260
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000029&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067633&region=0&sub_region=0&type=429",
@@ -11427,12 +11427,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 109,
-      "Кармазина Раиса Васильевна": 399,
-      "Коледов Олег Геннадьевич": 70,
-      "Смык Николай Михайлович": 150,
-      "Сысоева Наталья Александровна": 129,
-      "Против всех": 256
+      "gas:candidate-vibid:324300366742": 109,
+      "gas:candidate-vibid:1001000225918": 399,
+      "gas:candidate-vibid:1001000136023": 70,
+      "gas:candidate-vibid:1001000121819": 150,
+      "gas:candidate-vibid:1001000190310": 129,
+      "special:against-all": 256
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000029&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067633&region=0&sub_region=0&type=429",
@@ -11482,12 +11482,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 88,
-      "Кармазина Раиса Васильевна": 473,
-      "Коледов Олег Геннадьевич": 46,
-      "Смык Николай Михайлович": 135,
-      "Сысоева Наталья Александровна": 137,
-      "Против всех": 259
+      "gas:candidate-vibid:324300366742": 88,
+      "gas:candidate-vibid:1001000225918": 473,
+      "gas:candidate-vibid:1001000136023": 46,
+      "gas:candidate-vibid:1001000121819": 135,
+      "gas:candidate-vibid:1001000190310": 137,
+      "special:against-all": 259
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000029&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067633&region=0&sub_region=0&type=429",
@@ -11537,12 +11537,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 78,
-      "Кармазина Раиса Васильевна": 396,
-      "Коледов Олег Геннадьевич": 52,
-      "Смык Николай Михайлович": 153,
-      "Сысоева Наталья Александровна": 106,
-      "Против всех": 235
+      "gas:candidate-vibid:324300366742": 78,
+      "gas:candidate-vibid:1001000225918": 396,
+      "gas:candidate-vibid:1001000136023": 52,
+      "gas:candidate-vibid:1001000121819": 153,
+      "gas:candidate-vibid:1001000190310": 106,
+      "special:against-all": 235
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000029&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067633&region=0&sub_region=0&type=429",
@@ -11592,12 +11592,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 51,
-      "Кармазина Раиса Васильевна": 455,
-      "Коледов Олег Геннадьевич": 64,
-      "Смык Николай Михайлович": 101,
-      "Сысоева Наталья Александровна": 116,
-      "Против всех": 230
+      "gas:candidate-vibid:324300366742": 51,
+      "gas:candidate-vibid:1001000225918": 455,
+      "gas:candidate-vibid:1001000136023": 64,
+      "gas:candidate-vibid:1001000121819": 101,
+      "gas:candidate-vibid:1001000190310": 116,
+      "special:against-all": 230
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000029&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067633&region=0&sub_region=0&type=429",
@@ -11647,12 +11647,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 112,
-      "Кармазина Раиса Васильевна": 432,
-      "Коледов Олег Геннадьевич": 56,
-      "Смык Николай Михайлович": 117,
-      "Сысоева Наталья Александровна": 108,
-      "Против всех": 278
+      "gas:candidate-vibid:324300366742": 112,
+      "gas:candidate-vibid:1001000225918": 432,
+      "gas:candidate-vibid:1001000136023": 56,
+      "gas:candidate-vibid:1001000121819": 117,
+      "gas:candidate-vibid:1001000190310": 108,
+      "special:against-all": 278
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000029&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067633&region=0&sub_region=0&type=429",
@@ -11702,12 +11702,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 115,
-      "Кармазина Раиса Васильевна": 462,
-      "Коледов Олег Геннадьевич": 53,
-      "Смык Николай Михайлович": 172,
-      "Сысоева Наталья Александровна": 119,
-      "Против всех": 274
+      "gas:candidate-vibid:324300366742": 115,
+      "gas:candidate-vibid:1001000225918": 462,
+      "gas:candidate-vibid:1001000136023": 53,
+      "gas:candidate-vibid:1001000121819": 172,
+      "gas:candidate-vibid:1001000190310": 119,
+      "special:against-all": 274
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000029&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067633&region=0&sub_region=0&type=429",
@@ -11757,12 +11757,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 61,
-      "Кармазина Раиса Васильевна": 475,
-      "Коледов Олег Геннадьевич": 65,
-      "Смык Николай Михайлович": 114,
-      "Сысоева Наталья Александровна": 107,
-      "Против всех": 310
+      "gas:candidate-vibid:324300366742": 61,
+      "gas:candidate-vibid:1001000225918": 475,
+      "gas:candidate-vibid:1001000136023": 65,
+      "gas:candidate-vibid:1001000121819": 114,
+      "gas:candidate-vibid:1001000190310": 107,
+      "special:against-all": 310
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000029&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067633&region=0&sub_region=0&type=429",
@@ -11812,12 +11812,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 120,
-      "Кармазина Раиса Васильевна": 444,
-      "Коледов Олег Геннадьевич": 63,
-      "Смык Николай Михайлович": 154,
-      "Сысоева Наталья Александровна": 121,
-      "Против всех": 285
+      "gas:candidate-vibid:324300366742": 120,
+      "gas:candidate-vibid:1001000225918": 444,
+      "gas:candidate-vibid:1001000136023": 63,
+      "gas:candidate-vibid:1001000121819": 154,
+      "gas:candidate-vibid:1001000190310": 121,
+      "special:against-all": 285
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000029&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067633&region=0&sub_region=0&type=429",
@@ -11867,12 +11867,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 93,
-      "Кармазина Раиса Васильевна": 368,
-      "Коледов Олег Геннадьевич": 41,
-      "Смык Николай Михайлович": 152,
-      "Сысоева Наталья Александровна": 110,
-      "Против всех": 264
+      "gas:candidate-vibid:324300366742": 93,
+      "gas:candidate-vibid:1001000225918": 368,
+      "gas:candidate-vibid:1001000136023": 41,
+      "gas:candidate-vibid:1001000121819": 152,
+      "gas:candidate-vibid:1001000190310": 110,
+      "special:against-all": 264
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000029&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067633&region=0&sub_region=0&type=429",
@@ -11922,12 +11922,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 144,
-      "Кармазина Раиса Васильевна": 417,
-      "Коледов Олег Геннадьевич": 52,
-      "Смык Николай Михайлович": 149,
-      "Сысоева Наталья Александровна": 104,
-      "Против всех": 309
+      "gas:candidate-vibid:324300366742": 144,
+      "gas:candidate-vibid:1001000225918": 417,
+      "gas:candidate-vibid:1001000136023": 52,
+      "gas:candidate-vibid:1001000121819": 149,
+      "gas:candidate-vibid:1001000190310": 104,
+      "special:against-all": 309
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000029&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067633&region=0&sub_region=0&type=429",
@@ -11977,12 +11977,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 98,
-      "Кармазина Раиса Васильевна": 388,
-      "Коледов Олег Геннадьевич": 49,
-      "Смык Николай Михайлович": 111,
-      "Сысоева Наталья Александровна": 136,
-      "Против всех": 232
+      "gas:candidate-vibid:324300366742": 98,
+      "gas:candidate-vibid:1001000225918": 388,
+      "gas:candidate-vibid:1001000136023": 49,
+      "gas:candidate-vibid:1001000121819": 111,
+      "gas:candidate-vibid:1001000190310": 136,
+      "special:against-all": 232
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000029&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067633&region=0&sub_region=0&type=429",
@@ -12032,12 +12032,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 74,
-      "Кармазина Раиса Васильевна": 341,
-      "Коледов Олег Геннадьевич": 71,
-      "Смык Николай Михайлович": 86,
-      "Сысоева Наталья Александровна": 90,
-      "Против всех": 228
+      "gas:candidate-vibid:324300366742": 74,
+      "gas:candidate-vibid:1001000225918": 341,
+      "gas:candidate-vibid:1001000136023": 71,
+      "gas:candidate-vibid:1001000121819": 86,
+      "gas:candidate-vibid:1001000190310": 90,
+      "special:against-all": 228
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000029&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067633&region=0&sub_region=0&type=429",
@@ -12087,12 +12087,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 75,
-      "Кармазина Раиса Васильевна": 349,
-      "Коледов Олег Геннадьевич": 62,
-      "Смык Николай Михайлович": 120,
-      "Сысоева Наталья Александровна": 118,
-      "Против всех": 273
+      "gas:candidate-vibid:324300366742": 75,
+      "gas:candidate-vibid:1001000225918": 349,
+      "gas:candidate-vibid:1001000136023": 62,
+      "gas:candidate-vibid:1001000121819": 120,
+      "gas:candidate-vibid:1001000190310": 118,
+      "special:against-all": 273
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000029&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067633&region=0&sub_region=0&type=429",
@@ -12142,12 +12142,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 55,
-      "Кармазина Раиса Васильевна": 91,
-      "Коледов Олег Геннадьевич": 50,
-      "Смык Николай Михайлович": 21,
-      "Сысоева Наталья Александровна": 36,
-      "Против всех": 117
+      "gas:candidate-vibid:324300366742": 55,
+      "gas:candidate-vibid:1001000225918": 91,
+      "gas:candidate-vibid:1001000136023": 50,
+      "gas:candidate-vibid:1001000121819": 21,
+      "gas:candidate-vibid:1001000190310": 36,
+      "special:against-all": 117
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000029&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067633&region=0&sub_region=0&type=429",
@@ -12197,12 +12197,12 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Данилов Валентин Владимирович": 75,
-      "Кармазина Раиса Васильевна": 432,
-      "Коледов Олег Геннадьевич": 42,
-      "Смык Николай Михайлович": 124,
-      "Сысоева Наталья Александровна": 93,
-      "Против всех": 252
+      "gas:candidate-vibid:324300366742": 75,
+      "gas:candidate-vibid:1001000225918": 432,
+      "gas:candidate-vibid:1001000136023": 42,
+      "gas:candidate-vibid:1001000121819": 124,
+      "gas:candidate-vibid:1001000190310": 93,
+      "special:against-all": 252
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000029&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067633&region=0&sub_region=0&type=429",
@@ -12252,15 +12252,15 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 190,
-      "Каспирович Сергей Викторович": 18,
-      "Ковалев Василий Николаевич": 5,
-      "Многогрешнов Александр Александрович": 9,
-      "Натаров Сергей Васильевич": 1,
-      "Романов Петр Васильевич": 42,
-      "Цуканов Сергей Андреевич": 1,
-      "Шевченко Анатолий Николаевич": 18,
-      "Против всех": 49
+      "gas:candidate-vibid:1001000225919": 190,
+      "gas:candidate-vibid:1001000136024": 18,
+      "gas:candidate-vibid:1001000195051": 5,
+      "gas:candidate-vibid:324300466702": 9,
+      "gas:candidate-vibid:1001000190312": 1,
+      "gas:candidate-vibid:1001000121820": 42,
+      "gas:candidate-vibid:1001000217904": 1,
+      "gas:candidate-vibid:324300466696": 18,
+      "special:against-all": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000030&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067635&region=0&sub_region=0&type=429",
@@ -12310,15 +12310,15 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 204,
-      "Каспирович Сергей Викторович": 27,
-      "Ковалев Василий Николаевич": 11,
-      "Многогрешнов Александр Александрович": 36,
-      "Натаров Сергей Васильевич": 6,
-      "Романов Петр Васильевич": 69,
-      "Цуканов Сергей Андреевич": 3,
-      "Шевченко Анатолий Николаевич": 25,
-      "Против всех": 67
+      "gas:candidate-vibid:1001000225919": 204,
+      "gas:candidate-vibid:1001000136024": 27,
+      "gas:candidate-vibid:1001000195051": 11,
+      "gas:candidate-vibid:324300466702": 36,
+      "gas:candidate-vibid:1001000190312": 6,
+      "gas:candidate-vibid:1001000121820": 69,
+      "gas:candidate-vibid:1001000217904": 3,
+      "gas:candidate-vibid:324300466696": 25,
+      "special:against-all": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000030&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067635&region=0&sub_region=0&type=429",
@@ -12368,15 +12368,15 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 54,
-      "Каспирович Сергей Викторович": 8,
-      "Ковалев Василий Николаевич": 5,
-      "Многогрешнов Александр Александрович": 45,
-      "Натаров Сергей Васильевич": 7,
-      "Романов Петр Васильевич": 80,
-      "Цуканов Сергей Андреевич": 12,
-      "Шевченко Анатолий Николаевич": 25,
-      "Против всех": 62
+      "gas:candidate-vibid:1001000225919": 54,
+      "gas:candidate-vibid:1001000136024": 8,
+      "gas:candidate-vibid:1001000195051": 5,
+      "gas:candidate-vibid:324300466702": 45,
+      "gas:candidate-vibid:1001000190312": 7,
+      "gas:candidate-vibid:1001000121820": 80,
+      "gas:candidate-vibid:1001000217904": 12,
+      "gas:candidate-vibid:324300466696": 25,
+      "special:against-all": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000030&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067635&region=0&sub_region=0&type=429",
@@ -12426,15 +12426,15 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 114,
-      "Каспирович Сергей Викторович": 35,
-      "Ковалев Василий Николаевич": 19,
-      "Многогрешнов Александр Александрович": 127,
-      "Натаров Сергей Васильевич": 8,
-      "Романов Петр Васильевич": 129,
-      "Цуканов Сергей Андреевич": 20,
-      "Шевченко Анатолий Николаевич": 49,
-      "Против всех": 116
+      "gas:candidate-vibid:1001000225919": 114,
+      "gas:candidate-vibid:1001000136024": 35,
+      "gas:candidate-vibid:1001000195051": 19,
+      "gas:candidate-vibid:324300466702": 127,
+      "gas:candidate-vibid:1001000190312": 8,
+      "gas:candidate-vibid:1001000121820": 129,
+      "gas:candidate-vibid:1001000217904": 20,
+      "gas:candidate-vibid:324300466696": 49,
+      "special:against-all": 116
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000030&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067635&region=0&sub_region=0&type=429",
@@ -12484,15 +12484,15 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 14,
-      "Каспирович Сергей Викторович": 1,
-      "Ковалев Василий Николаевич": 2,
-      "Многогрешнов Александр Александрович": 11,
-      "Натаров Сергей Васильевич": 0,
-      "Романов Петр Васильевич": 4,
-      "Цуканов Сергей Андреевич": 1,
-      "Шевченко Анатолий Николаевич": 8,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000225919": 14,
+      "gas:candidate-vibid:1001000136024": 1,
+      "gas:candidate-vibid:1001000195051": 2,
+      "gas:candidate-vibid:324300466702": 11,
+      "gas:candidate-vibid:1001000190312": 0,
+      "gas:candidate-vibid:1001000121820": 4,
+      "gas:candidate-vibid:1001000217904": 1,
+      "gas:candidate-vibid:324300466696": 8,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000030&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067635&region=0&sub_region=0&type=429",
@@ -12542,15 +12542,15 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 1,
-      "Каспирович Сергей Викторович": 1,
-      "Ковалев Василий Николаевич": 0,
-      "Многогрешнов Александр Александрович": 0,
-      "Натаров Сергей Васильевич": 1,
-      "Романов Петр Васильевич": 14,
-      "Цуканов Сергей Андреевич": 8,
-      "Шевченко Анатолий Николаевич": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000225919": 1,
+      "gas:candidate-vibid:1001000136024": 1,
+      "gas:candidate-vibid:1001000195051": 0,
+      "gas:candidate-vibid:324300466702": 0,
+      "gas:candidate-vibid:1001000190312": 1,
+      "gas:candidate-vibid:1001000121820": 14,
+      "gas:candidate-vibid:1001000217904": 8,
+      "gas:candidate-vibid:324300466696": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000030&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067635&region=0&sub_region=0&type=429",
@@ -12600,15 +12600,15 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 75,
-      "Каспирович Сергей Викторович": 1,
-      "Ковалев Василий Николаевич": 0,
-      "Многогрешнов Александр Александрович": 0,
-      "Натаров Сергей Васильевич": 0,
-      "Романов Петр Васильевич": 12,
-      "Цуканов Сергей Андреевич": 2,
-      "Шевченко Анатолий Николаевич": 6,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000225919": 75,
+      "gas:candidate-vibid:1001000136024": 1,
+      "gas:candidate-vibid:1001000195051": 0,
+      "gas:candidate-vibid:324300466702": 0,
+      "gas:candidate-vibid:1001000190312": 0,
+      "gas:candidate-vibid:1001000121820": 12,
+      "gas:candidate-vibid:1001000217904": 2,
+      "gas:candidate-vibid:324300466696": 6,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000030&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067635&region=0&sub_region=0&type=429",
@@ -12658,15 +12658,15 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 155,
-      "Каспирович Сергей Викторович": 6,
-      "Ковалев Василий Николаевич": 6,
-      "Многогрешнов Александр Александрович": 10,
-      "Натаров Сергей Васильевич": 2,
-      "Романов Петр Васильевич": 31,
-      "Цуканов Сергей Андреевич": 8,
-      "Шевченко Анатолий Николаевич": 16,
-      "Против всех": 46
+      "gas:candidate-vibid:1001000225919": 155,
+      "gas:candidate-vibid:1001000136024": 6,
+      "gas:candidate-vibid:1001000195051": 6,
+      "gas:candidate-vibid:324300466702": 10,
+      "gas:candidate-vibid:1001000190312": 2,
+      "gas:candidate-vibid:1001000121820": 31,
+      "gas:candidate-vibid:1001000217904": 8,
+      "gas:candidate-vibid:324300466696": 16,
+      "special:against-all": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000030&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067635&region=0&sub_region=0&type=429",
@@ -12716,15 +12716,15 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 68,
-      "Каспирович Сергей Викторович": 10,
-      "Ковалев Василий Николаевич": 2,
-      "Многогрешнов Александр Александрович": 3,
-      "Натаров Сергей Васильевич": 1,
-      "Романов Петр Васильевич": 21,
-      "Цуканов Сергей Андреевич": 2,
-      "Шевченко Анатолий Николаевич": 12,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000225919": 68,
+      "gas:candidate-vibid:1001000136024": 10,
+      "gas:candidate-vibid:1001000195051": 2,
+      "gas:candidate-vibid:324300466702": 3,
+      "gas:candidate-vibid:1001000190312": 1,
+      "gas:candidate-vibid:1001000121820": 21,
+      "gas:candidate-vibid:1001000217904": 2,
+      "gas:candidate-vibid:324300466696": 12,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000030&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067635&region=0&sub_region=0&type=429",
@@ -12774,15 +12774,15 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 5,
-      "Каспирович Сергей Викторович": 1,
-      "Ковалев Василий Николаевич": 0,
-      "Многогрешнов Александр Александрович": 0,
-      "Натаров Сергей Васильевич": 2,
-      "Романов Петр Васильевич": 1,
-      "Цуканов Сергей Андреевич": 0,
-      "Шевченко Анатолий Николаевич": 3,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000225919": 5,
+      "gas:candidate-vibid:1001000136024": 1,
+      "gas:candidate-vibid:1001000195051": 0,
+      "gas:candidate-vibid:324300466702": 0,
+      "gas:candidate-vibid:1001000190312": 2,
+      "gas:candidate-vibid:1001000121820": 1,
+      "gas:candidate-vibid:1001000217904": 0,
+      "gas:candidate-vibid:324300466696": 3,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000030&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067635&region=0&sub_region=0&type=429",
@@ -12832,15 +12832,15 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 50,
-      "Каспирович Сергей Викторович": 4,
-      "Ковалев Василий Николаевич": 4,
-      "Многогрешнов Александр Александрович": 12,
-      "Натаров Сергей Васильевич": 1,
-      "Романов Петр Васильевич": 12,
-      "Цуканов Сергей Андреевич": 0,
-      "Шевченко Анатолий Николаевич": 11,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000225919": 50,
+      "gas:candidate-vibid:1001000136024": 4,
+      "gas:candidate-vibid:1001000195051": 4,
+      "gas:candidate-vibid:324300466702": 12,
+      "gas:candidate-vibid:1001000190312": 1,
+      "gas:candidate-vibid:1001000121820": 12,
+      "gas:candidate-vibid:1001000217904": 0,
+      "gas:candidate-vibid:324300466696": 11,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000030&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067635&region=0&sub_region=0&type=429",
@@ -12890,15 +12890,15 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 15,
-      "Каспирович Сергей Викторович": 4,
-      "Ковалев Василий Николаевич": 0,
-      "Многогрешнов Александр Александрович": 4,
-      "Натаров Сергей Васильевич": 1,
-      "Романов Петр Васильевич": 50,
-      "Цуканов Сергей Андреевич": 2,
-      "Шевченко Анатолий Николаевич": 1,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000225919": 15,
+      "gas:candidate-vibid:1001000136024": 4,
+      "gas:candidate-vibid:1001000195051": 0,
+      "gas:candidate-vibid:324300466702": 4,
+      "gas:candidate-vibid:1001000190312": 1,
+      "gas:candidate-vibid:1001000121820": 50,
+      "gas:candidate-vibid:1001000217904": 2,
+      "gas:candidate-vibid:324300466696": 1,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000030&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067635&region=0&sub_region=0&type=429",
@@ -12948,15 +12948,15 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 3,
-      "Каспирович Сергей Викторович": 2,
-      "Ковалев Василий Николаевич": 1,
-      "Многогрешнов Александр Александрович": 6,
-      "Натаров Сергей Васильевич": 1,
-      "Романов Петр Васильевич": 7,
-      "Цуканов Сергей Андреевич": 0,
-      "Шевченко Анатолий Николаевич": 4,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000225919": 3,
+      "gas:candidate-vibid:1001000136024": 2,
+      "gas:candidate-vibid:1001000195051": 1,
+      "gas:candidate-vibid:324300466702": 6,
+      "gas:candidate-vibid:1001000190312": 1,
+      "gas:candidate-vibid:1001000121820": 7,
+      "gas:candidate-vibid:1001000217904": 0,
+      "gas:candidate-vibid:324300466696": 4,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000030&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067635&region=0&sub_region=0&type=429",
@@ -13006,15 +13006,15 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 15,
-      "Каспирович Сергей Викторович": 0,
-      "Ковалев Василий Николаевич": 1,
-      "Многогрешнов Александр Александрович": 0,
-      "Натаров Сергей Васильевич": 0,
-      "Романов Петр Васильевич": 3,
-      "Цуканов Сергей Андреевич": 1,
-      "Шевченко Анатолий Николаевич": 7,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000225919": 15,
+      "gas:candidate-vibid:1001000136024": 0,
+      "gas:candidate-vibid:1001000195051": 1,
+      "gas:candidate-vibid:324300466702": 0,
+      "gas:candidate-vibid:1001000190312": 0,
+      "gas:candidate-vibid:1001000121820": 3,
+      "gas:candidate-vibid:1001000217904": 1,
+      "gas:candidate-vibid:324300466696": 7,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000030&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067635&region=0&sub_region=0&type=429",
@@ -13064,15 +13064,15 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 258,
-      "Каспирович Сергей Викторович": 27,
-      "Ковалев Василий Николаевич": 10,
-      "Многогрешнов Александр Александрович": 19,
-      "Натаров Сергей Васильевич": 8,
-      "Романов Петр Васильевич": 155,
-      "Цуканов Сергей Андреевич": 7,
-      "Шевченко Анатолий Николаевич": 38,
-      "Против всех": 74
+      "gas:candidate-vibid:1001000225919": 258,
+      "gas:candidate-vibid:1001000136024": 27,
+      "gas:candidate-vibid:1001000195051": 10,
+      "gas:candidate-vibid:324300466702": 19,
+      "gas:candidate-vibid:1001000190312": 8,
+      "gas:candidate-vibid:1001000121820": 155,
+      "gas:candidate-vibid:1001000217904": 7,
+      "gas:candidate-vibid:324300466696": 38,
+      "special:against-all": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000030&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067635&region=0&sub_region=0&type=429",
@@ -13122,15 +13122,15 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 412,
-      "Каспирович Сергей Викторович": 49,
-      "Ковалев Василий Николаевич": 10,
-      "Многогрешнов Александр Александрович": 36,
-      "Натаров Сергей Васильевич": 11,
-      "Романов Петр Васильевич": 168,
-      "Цуканов Сергей Андреевич": 8,
-      "Шевченко Анатолий Николаевич": 111,
-      "Против всех": 164
+      "gas:candidate-vibid:1001000225919": 412,
+      "gas:candidate-vibid:1001000136024": 49,
+      "gas:candidate-vibid:1001000195051": 10,
+      "gas:candidate-vibid:324300466702": 36,
+      "gas:candidate-vibid:1001000190312": 11,
+      "gas:candidate-vibid:1001000121820": 168,
+      "gas:candidate-vibid:1001000217904": 8,
+      "gas:candidate-vibid:324300466696": 111,
+      "special:against-all": 164
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000030&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067635&region=0&sub_region=0&type=429",
@@ -13180,15 +13180,15 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 114,
-      "Каспирович Сергей Викторович": 16,
-      "Ковалев Василий Николаевич": 3,
-      "Многогрешнов Александр Александрович": 22,
-      "Натаров Сергей Васильевич": 6,
-      "Романов Петр Васильевич": 59,
-      "Цуканов Сергей Андреевич": 8,
-      "Шевченко Анатолий Николаевич": 30,
-      "Против всех": 59
+      "gas:candidate-vibid:1001000225919": 114,
+      "gas:candidate-vibid:1001000136024": 16,
+      "gas:candidate-vibid:1001000195051": 3,
+      "gas:candidate-vibid:324300466702": 22,
+      "gas:candidate-vibid:1001000190312": 6,
+      "gas:candidate-vibid:1001000121820": 59,
+      "gas:candidate-vibid:1001000217904": 8,
+      "gas:candidate-vibid:324300466696": 30,
+      "special:against-all": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000030&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067635&region=0&sub_region=0&type=429",
@@ -13238,15 +13238,15 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 17,
-      "Каспирович Сергей Викторович": 3,
-      "Ковалев Василий Николаевич": 0,
-      "Многогрешнов Александр Александрович": 3,
-      "Натаров Сергей Васильевич": 0,
-      "Романов Петр Васильевич": 21,
-      "Цуканов Сергей Андреевич": 2,
-      "Шевченко Анатолий Николаевич": 12,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000225919": 17,
+      "gas:candidate-vibid:1001000136024": 3,
+      "gas:candidate-vibid:1001000195051": 0,
+      "gas:candidate-vibid:324300466702": 3,
+      "gas:candidate-vibid:1001000190312": 0,
+      "gas:candidate-vibid:1001000121820": 21,
+      "gas:candidate-vibid:1001000217904": 2,
+      "gas:candidate-vibid:324300466696": 12,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000030&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067635&region=0&sub_region=0&type=429",
@@ -13296,15 +13296,15 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 32,
-      "Каспирович Сергей Викторович": 2,
-      "Ковалев Василий Николаевич": 0,
-      "Многогрешнов Александр Александрович": 1,
-      "Натаров Сергей Васильевич": 2,
-      "Романов Петр Васильевич": 9,
-      "Цуканов Сергей Андреевич": 0,
-      "Шевченко Анатолий Николаевич": 6,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000225919": 32,
+      "gas:candidate-vibid:1001000136024": 2,
+      "gas:candidate-vibid:1001000195051": 0,
+      "gas:candidate-vibid:324300466702": 1,
+      "gas:candidate-vibid:1001000190312": 2,
+      "gas:candidate-vibid:1001000121820": 9,
+      "gas:candidate-vibid:1001000217904": 0,
+      "gas:candidate-vibid:324300466696": 6,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000030&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067635&region=0&sub_region=0&type=429",
@@ -13354,15 +13354,15 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 32,
-      "Каспирович Сергей Викторович": 4,
-      "Ковалев Василий Николаевич": 4,
-      "Многогрешнов Александр Александрович": 4,
-      "Натаров Сергей Васильевич": 2,
-      "Романов Петр Васильевич": 21,
-      "Цуканов Сергей Андреевич": 2,
-      "Шевченко Анатолий Николаевич": 4,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000225919": 32,
+      "gas:candidate-vibid:1001000136024": 4,
+      "gas:candidate-vibid:1001000195051": 4,
+      "gas:candidate-vibid:324300466702": 4,
+      "gas:candidate-vibid:1001000190312": 2,
+      "gas:candidate-vibid:1001000121820": 21,
+      "gas:candidate-vibid:1001000217904": 2,
+      "gas:candidate-vibid:324300466696": 4,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000030&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067635&region=0&sub_region=0&type=429",
@@ -13412,15 +13412,15 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 16,
-      "Каспирович Сергей Викторович": 1,
-      "Ковалев Василий Николаевич": 0,
-      "Многогрешнов Александр Александрович": 0,
-      "Натаров Сергей Васильевич": 0,
-      "Романов Петр Васильевич": 2,
-      "Цуканов Сергей Андреевич": 0,
-      "Шевченко Анатолий Николаевич": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000225919": 16,
+      "gas:candidate-vibid:1001000136024": 1,
+      "gas:candidate-vibid:1001000195051": 0,
+      "gas:candidate-vibid:324300466702": 0,
+      "gas:candidate-vibid:1001000190312": 0,
+      "gas:candidate-vibid:1001000121820": 2,
+      "gas:candidate-vibid:1001000217904": 0,
+      "gas:candidate-vibid:324300466696": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000030&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067635&region=0&sub_region=0&type=429",
@@ -13470,15 +13470,15 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 52,
-      "Каспирович Сергей Викторович": 3,
-      "Ковалев Василий Николаевич": 2,
-      "Многогрешнов Александр Александрович": 7,
-      "Натаров Сергей Васильевич": 0,
-      "Романов Петр Васильевич": 25,
-      "Цуканов Сергей Андреевич": 3,
-      "Шевченко Анатолий Николаевич": 2,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000225919": 52,
+      "gas:candidate-vibid:1001000136024": 3,
+      "gas:candidate-vibid:1001000195051": 2,
+      "gas:candidate-vibid:324300466702": 7,
+      "gas:candidate-vibid:1001000190312": 0,
+      "gas:candidate-vibid:1001000121820": 25,
+      "gas:candidate-vibid:1001000217904": 3,
+      "gas:candidate-vibid:324300466696": 2,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000030&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067635&region=0&sub_region=0&type=429",
@@ -13528,15 +13528,15 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 24,
-      "Каспирович Сергей Викторович": 2,
-      "Ковалев Василий Николаевич": 2,
-      "Многогрешнов Александр Александрович": 1,
-      "Натаров Сергей Васильевич": 0,
-      "Романов Петр Васильевич": 9,
-      "Цуканов Сергей Андреевич": 2,
-      "Шевченко Анатолий Николаевич": 23,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000225919": 24,
+      "gas:candidate-vibid:1001000136024": 2,
+      "gas:candidate-vibid:1001000195051": 2,
+      "gas:candidate-vibid:324300466702": 1,
+      "gas:candidate-vibid:1001000190312": 0,
+      "gas:candidate-vibid:1001000121820": 9,
+      "gas:candidate-vibid:1001000217904": 2,
+      "gas:candidate-vibid:324300466696": 23,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000030&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067635&region=0&sub_region=0&type=429",
@@ -13586,15 +13586,15 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 93,
-      "Каспирович Сергей Викторович": 12,
-      "Ковалев Василий Николаевич": 1,
-      "Многогрешнов Александр Александрович": 42,
-      "Натаров Сергей Васильевич": 2,
-      "Романов Петр Васильевич": 142,
-      "Цуканов Сергей Андреевич": 20,
-      "Шевченко Анатолий Николаевич": 0,
-      "Против всех": 36
+      "gas:candidate-vibid:1001000225919": 93,
+      "gas:candidate-vibid:1001000136024": 12,
+      "gas:candidate-vibid:1001000195051": 1,
+      "gas:candidate-vibid:324300466702": 42,
+      "gas:candidate-vibid:1001000190312": 2,
+      "gas:candidate-vibid:1001000121820": 142,
+      "gas:candidate-vibid:1001000217904": 20,
+      "gas:candidate-vibid:324300466696": 0,
+      "special:against-all": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000031&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067636&region=0&sub_region=0&type=429",
@@ -13644,15 +13644,15 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 80,
-      "Каспирович Сергей Викторович": 10,
-      "Ковалев Василий Николаевич": 5,
-      "Многогрешнов Александр Александрович": 107,
-      "Натаров Сергей Васильевич": 3,
-      "Романов Петр Васильевич": 131,
-      "Цуканов Сергей Андреевич": 53,
-      "Шевченко Анатолий Николаевич": 2,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000225919": 80,
+      "gas:candidate-vibid:1001000136024": 10,
+      "gas:candidate-vibid:1001000195051": 5,
+      "gas:candidate-vibid:324300466702": 107,
+      "gas:candidate-vibid:1001000190312": 3,
+      "gas:candidate-vibid:1001000121820": 131,
+      "gas:candidate-vibid:1001000217904": 53,
+      "gas:candidate-vibid:324300466696": 2,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000031&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067636&region=0&sub_region=0&type=429",
@@ -13702,15 +13702,15 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 87,
-      "Каспирович Сергей Викторович": 15,
-      "Ковалев Василий Николаевич": 6,
-      "Многогрешнов Александр Александрович": 77,
-      "Натаров Сергей Васильевич": 3,
-      "Романов Петр Васильевич": 81,
-      "Цуканов Сергей Андреевич": 32,
-      "Шевченко Анатолий Николаевич": 0,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000225919": 87,
+      "gas:candidate-vibid:1001000136024": 15,
+      "gas:candidate-vibid:1001000195051": 6,
+      "gas:candidate-vibid:324300466702": 77,
+      "gas:candidate-vibid:1001000190312": 3,
+      "gas:candidate-vibid:1001000121820": 81,
+      "gas:candidate-vibid:1001000217904": 32,
+      "gas:candidate-vibid:324300466696": 0,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000031&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067636&region=0&sub_region=0&type=429",
@@ -13760,15 +13760,15 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 171,
-      "Каспирович Сергей Викторович": 43,
-      "Ковалев Василий Николаевич": 10,
-      "Многогрешнов Александр Александрович": 98,
-      "Натаров Сергей Васильевич": 5,
-      "Романов Петр Васильевич": 211,
-      "Цуканов Сергей Андреевич": 57,
-      "Шевченко Анатолий Николаевич": 1,
-      "Против всех": 48
+      "gas:candidate-vibid:1001000225919": 171,
+      "gas:candidate-vibid:1001000136024": 43,
+      "gas:candidate-vibid:1001000195051": 10,
+      "gas:candidate-vibid:324300466702": 98,
+      "gas:candidate-vibid:1001000190312": 5,
+      "gas:candidate-vibid:1001000121820": 211,
+      "gas:candidate-vibid:1001000217904": 57,
+      "gas:candidate-vibid:324300466696": 1,
+      "special:against-all": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000031&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067636&region=0&sub_region=0&type=429",
@@ -13818,15 +13818,15 @@ export const duma_2003_uik_428_region_24_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 66,
-      "Каспирович Сергей Викторович": 10,
-      "Ковалев Василий Николаевич": 4,
-      "Многогрешнов Александр Александрович": 50,
-      "Натаров Сергей Васильевич": 0,
-      "Романов Петр Васильевич": 64,
-      "Цуканов Сергей Андреевич": 29,
-      "Шевченко Анатолий Николаевич": 2,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000225919": 66,
+      "gas:candidate-vibid:1001000136024": 10,
+      "gas:candidate-vibid:1001000195051": 4,
+      "gas:candidate-vibid:324300466702": 50,
+      "gas:candidate-vibid:1001000190312": 0,
+      "gas:candidate-vibid:1001000121820": 64,
+      "gas:candidate-vibid:1001000217904": 29,
+      "gas:candidate-vibid:324300466696": 2,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000031&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067636&region=0&sub_region=0&type=429",

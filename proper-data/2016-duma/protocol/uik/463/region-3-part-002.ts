@@ -43,15 +43,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 35,
-      "Байгускарова Айгуль Ураловна": 146,
-      "Качкаев Павел Рюрикович": 468,
-      "Минниахметов Ренат Равилевич": 85,
-      "Нурисламов Борис Юрьевич": 47,
-      "Петров Виктор Григорьевич": 24,
-      "Саубанов Раис Нуриманович": 39,
-      "Сафин Фаиль Габдуллович": 26,
-      "Ющенко Александр Андреевич": 240
+      "gas:candidate-vibid:4024055203321": 35,
+      "gas:candidate-vibid:4024055203490": 146,
+      "gas:candidate-vibid:4024055203224": 468,
+      "gas:candidate-vibid:4024055189626": 85,
+      "gas:candidate-vibid:4024055201055": 47,
+      "gas:candidate-vibid:4024055203386": 24,
+      "gas:candidate-vibid:4024055189948": 39,
+      "gas:candidate-vibid:4024055203300": 26,
+      "gas:candidate-vibid:4024055189868": 240
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684931&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684931&type=464",
@@ -102,15 +102,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 62,
-      "Байгускарова Айгуль Ураловна": 103,
-      "Качкаев Павел Рюрикович": 469,
-      "Минниахметов Ренат Равилевич": 42,
-      "Нурисламов Борис Юрьевич": 25,
-      "Петров Виктор Григорьевич": 98,
-      "Саубанов Раис Нуриманович": 43,
-      "Сафин Фаиль Габдуллович": 56,
-      "Ющенко Александр Андреевич": 240
+      "gas:candidate-vibid:4024055203321": 62,
+      "gas:candidate-vibid:4024055203490": 103,
+      "gas:candidate-vibid:4024055203224": 469,
+      "gas:candidate-vibid:4024055189626": 42,
+      "gas:candidate-vibid:4024055201055": 25,
+      "gas:candidate-vibid:4024055203386": 98,
+      "gas:candidate-vibid:4024055189948": 43,
+      "gas:candidate-vibid:4024055203300": 56,
+      "gas:candidate-vibid:4024055189868": 240
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684931&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684931&type=464",
@@ -161,15 +161,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 26,
-      "Байгускарова Айгуль Ураловна": 20,
-      "Качкаев Павел Рюрикович": 438,
-      "Минниахметов Ренат Равилевич": 61,
-      "Нурисламов Борис Юрьевич": 47,
-      "Петров Виктор Григорьевич": 56,
-      "Саубанов Раис Нуриманович": 111,
-      "Сафин Фаиль Габдуллович": 55,
-      "Ющенко Александр Андреевич": 230
+      "gas:candidate-vibid:4024055203321": 26,
+      "gas:candidate-vibid:4024055203490": 20,
+      "gas:candidate-vibid:4024055203224": 438,
+      "gas:candidate-vibid:4024055189626": 61,
+      "gas:candidate-vibid:4024055201055": 47,
+      "gas:candidate-vibid:4024055203386": 56,
+      "gas:candidate-vibid:4024055189948": 111,
+      "gas:candidate-vibid:4024055203300": 55,
+      "gas:candidate-vibid:4024055189868": 230
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684931&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684931&type=464",
@@ -220,15 +220,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 72,
-      "Байгускарова Айгуль Ураловна": 83,
-      "Качкаев Павел Рюрикович": 621,
-      "Минниахметов Ренат Равилевич": 53,
-      "Нурисламов Борис Юрьевич": 93,
-      "Петров Виктор Григорьевич": 71,
-      "Саубанов Раис Нуриманович": 103,
-      "Сафин Фаиль Габдуллович": 83,
-      "Ющенко Александр Андреевич": 333
+      "gas:candidate-vibid:4024055203321": 72,
+      "gas:candidate-vibid:4024055203490": 83,
+      "gas:candidate-vibid:4024055203224": 621,
+      "gas:candidate-vibid:4024055189626": 53,
+      "gas:candidate-vibid:4024055201055": 93,
+      "gas:candidate-vibid:4024055203386": 71,
+      "gas:candidate-vibid:4024055189948": 103,
+      "gas:candidate-vibid:4024055203300": 83,
+      "gas:candidate-vibid:4024055189868": 333
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684931&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684931&type=464",
@@ -279,15 +279,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 61,
-      "Байгускарова Айгуль Ураловна": 221,
-      "Качкаев Павел Рюрикович": 609,
-      "Минниахметов Ренат Равилевич": 98,
-      "Нурисламов Борис Юрьевич": 30,
-      "Петров Виктор Григорьевич": 25,
-      "Саубанов Раис Нуриманович": 27,
-      "Сафин Фаиль Габдуллович": 45,
-      "Ющенко Александр Андреевич": 312
+      "gas:candidate-vibid:4024055203321": 61,
+      "gas:candidate-vibid:4024055203490": 221,
+      "gas:candidate-vibid:4024055203224": 609,
+      "gas:candidate-vibid:4024055189626": 98,
+      "gas:candidate-vibid:4024055201055": 30,
+      "gas:candidate-vibid:4024055203386": 25,
+      "gas:candidate-vibid:4024055189948": 27,
+      "gas:candidate-vibid:4024055203300": 45,
+      "gas:candidate-vibid:4024055189868": 312
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684931&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684931&type=464",
@@ -338,15 +338,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 5,
-      "Байгускарова Айгуль Ураловна": 4,
-      "Качкаев Павел Рюрикович": 53,
-      "Минниахметов Ренат Равилевич": 7,
-      "Нурисламов Борис Юрьевич": 1,
-      "Петров Виктор Григорьевич": 4,
-      "Саубанов Раис Нуриманович": 4,
-      "Сафин Фаиль Габдуллович": 2,
-      "Ющенко Александр Андреевич": 19
+      "gas:candidate-vibid:4024055203321": 5,
+      "gas:candidate-vibid:4024055203490": 4,
+      "gas:candidate-vibid:4024055203224": 53,
+      "gas:candidate-vibid:4024055189626": 7,
+      "gas:candidate-vibid:4024055201055": 1,
+      "gas:candidate-vibid:4024055203386": 4,
+      "gas:candidate-vibid:4024055189948": 4,
+      "gas:candidate-vibid:4024055203300": 2,
+      "gas:candidate-vibid:4024055189868": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684931&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684931&type=464",
@@ -397,15 +397,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 5,
-      "Байгускарова Айгуль Ураловна": 25,
-      "Качкаев Павел Рюрикович": 107,
-      "Минниахметов Ренат Равилевич": 9,
-      "Нурисламов Борис Юрьевич": 4,
-      "Петров Виктор Григорьевич": 6,
-      "Саубанов Раис Нуриманович": 2,
-      "Сафин Фаиль Габдуллович": 3,
-      "Ющенко Александр Андреевич": 52
+      "gas:candidate-vibid:4024055203321": 5,
+      "gas:candidate-vibid:4024055203490": 25,
+      "gas:candidate-vibid:4024055203224": 107,
+      "gas:candidate-vibid:4024055189626": 9,
+      "gas:candidate-vibid:4024055201055": 4,
+      "gas:candidate-vibid:4024055203386": 6,
+      "gas:candidate-vibid:4024055189948": 2,
+      "gas:candidate-vibid:4024055203300": 3,
+      "gas:candidate-vibid:4024055189868": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684931&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684931&type=464",
@@ -456,15 +456,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 1,
-      "Байгускарова Айгуль Ураловна": 5,
-      "Качкаев Павел Рюрикович": 73,
-      "Минниахметов Ренат Равилевич": 4,
-      "Нурисламов Борис Юрьевич": 1,
-      "Петров Виктор Григорьевич": 1,
-      "Саубанов Раис Нуриманович": 1,
-      "Сафин Фаиль Габдуллович": 3,
-      "Ющенко Александр Андреевич": 18
+      "gas:candidate-vibid:4024055203321": 1,
+      "gas:candidate-vibid:4024055203490": 5,
+      "gas:candidate-vibid:4024055203224": 73,
+      "gas:candidate-vibid:4024055189626": 4,
+      "gas:candidate-vibid:4024055201055": 1,
+      "gas:candidate-vibid:4024055203386": 1,
+      "gas:candidate-vibid:4024055189948": 1,
+      "gas:candidate-vibid:4024055203300": 3,
+      "gas:candidate-vibid:4024055189868": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684931&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684931&type=464",
@@ -515,15 +515,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 2,
-      "Байгускарова Айгуль Ураловна": 13,
-      "Качкаев Павел Рюрикович": 104,
-      "Минниахметов Ренат Равилевич": 6,
-      "Нурисламов Борис Юрьевич": 2,
-      "Петров Виктор Григорьевич": 0,
-      "Саубанов Раис Нуриманович": 1,
-      "Сафин Фаиль Габдуллович": 3,
-      "Ющенко Александр Андреевич": 56
+      "gas:candidate-vibid:4024055203321": 2,
+      "gas:candidate-vibid:4024055203490": 13,
+      "gas:candidate-vibid:4024055203224": 104,
+      "gas:candidate-vibid:4024055189626": 6,
+      "gas:candidate-vibid:4024055201055": 2,
+      "gas:candidate-vibid:4024055203386": 0,
+      "gas:candidate-vibid:4024055189948": 1,
+      "gas:candidate-vibid:4024055203300": 3,
+      "gas:candidate-vibid:4024055189868": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684931&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684931&type=464",
@@ -574,15 +574,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 0,
-      "Байгускарова Айгуль Ураловна": 5,
-      "Качкаев Павел Рюрикович": 13,
-      "Минниахметов Ренат Равилевич": 1,
-      "Нурисламов Борис Юрьевич": 1,
-      "Петров Виктор Григорьевич": 1,
-      "Саубанов Раис Нуриманович": 1,
-      "Сафин Фаиль Габдуллович": 1,
-      "Ющенко Александр Андреевич": 0
+      "gas:candidate-vibid:4024055203321": 0,
+      "gas:candidate-vibid:4024055203490": 5,
+      "gas:candidate-vibid:4024055203224": 13,
+      "gas:candidate-vibid:4024055189626": 1,
+      "gas:candidate-vibid:4024055201055": 1,
+      "gas:candidate-vibid:4024055203386": 1,
+      "gas:candidate-vibid:4024055189948": 1,
+      "gas:candidate-vibid:4024055203300": 1,
+      "gas:candidate-vibid:4024055189868": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684931&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684931&type=464",
@@ -633,15 +633,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 0,
-      "Байгускарова Айгуль Ураловна": 2,
-      "Качкаев Павел Рюрикович": 29,
-      "Минниахметов Ренат Равилевич": 2,
-      "Нурисламов Борис Юрьевич": 1,
-      "Петров Виктор Григорьевич": 0,
-      "Саубанов Раис Нуриманович": 0,
-      "Сафин Фаиль Габдуллович": 0,
-      "Ющенко Александр Андреевич": 14
+      "gas:candidate-vibid:4024055203321": 0,
+      "gas:candidate-vibid:4024055203490": 2,
+      "gas:candidate-vibid:4024055203224": 29,
+      "gas:candidate-vibid:4024055189626": 2,
+      "gas:candidate-vibid:4024055201055": 1,
+      "gas:candidate-vibid:4024055203386": 0,
+      "gas:candidate-vibid:4024055189948": 0,
+      "gas:candidate-vibid:4024055203300": 0,
+      "gas:candidate-vibid:4024055189868": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684931&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684931&type=464",
@@ -692,15 +692,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 0,
-      "Байгускарова Айгуль Ураловна": 2,
-      "Качкаев Павел Рюрикович": 23,
-      "Минниахметов Ренат Равилевич": 8,
-      "Нурисламов Борис Юрьевич": 0,
-      "Петров Виктор Григорьевич": 0,
-      "Саубанов Раис Нуриманович": 0,
-      "Сафин Фаиль Габдуллович": 3,
-      "Ющенко Александр Андреевич": 8
+      "gas:candidate-vibid:4024055203321": 0,
+      "gas:candidate-vibid:4024055203490": 2,
+      "gas:candidate-vibid:4024055203224": 23,
+      "gas:candidate-vibid:4024055189626": 8,
+      "gas:candidate-vibid:4024055201055": 0,
+      "gas:candidate-vibid:4024055203386": 0,
+      "gas:candidate-vibid:4024055189948": 0,
+      "gas:candidate-vibid:4024055203300": 3,
+      "gas:candidate-vibid:4024055189868": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684931&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684931&type=464",
@@ -751,15 +751,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 5,
-      "Байгускарова Айгуль Ураловна": 6,
-      "Качкаев Павел Рюрикович": 73,
-      "Минниахметов Ренат Равилевич": 3,
-      "Нурисламов Борис Юрьевич": 2,
-      "Петров Виктор Григорьевич": 3,
-      "Саубанов Раис Нуриманович": 4,
-      "Сафин Фаиль Габдуллович": 5,
-      "Ющенко Александр Андреевич": 44
+      "gas:candidate-vibid:4024055203321": 5,
+      "gas:candidate-vibid:4024055203490": 6,
+      "gas:candidate-vibid:4024055203224": 73,
+      "gas:candidate-vibid:4024055189626": 3,
+      "gas:candidate-vibid:4024055201055": 2,
+      "gas:candidate-vibid:4024055203386": 3,
+      "gas:candidate-vibid:4024055189948": 4,
+      "gas:candidate-vibid:4024055203300": 5,
+      "gas:candidate-vibid:4024055189868": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684931&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684931&type=464",
@@ -810,15 +810,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 2,
-      "Байгускарова Айгуль Ураловна": 20,
-      "Качкаев Павел Рюрикович": 82,
-      "Минниахметов Ренат Равилевич": 10,
-      "Нурисламов Борис Юрьевич": 6,
-      "Петров Виктор Григорьевич": 0,
-      "Саубанов Раис Нуриманович": 0,
-      "Сафин Фаиль Габдуллович": 4,
-      "Ющенко Александр Андреевич": 36
+      "gas:candidate-vibid:4024055203321": 2,
+      "gas:candidate-vibid:4024055203490": 20,
+      "gas:candidate-vibid:4024055203224": 82,
+      "gas:candidate-vibid:4024055189626": 10,
+      "gas:candidate-vibid:4024055201055": 6,
+      "gas:candidate-vibid:4024055203386": 0,
+      "gas:candidate-vibid:4024055189948": 0,
+      "gas:candidate-vibid:4024055203300": 4,
+      "gas:candidate-vibid:4024055189868": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684931&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684931&type=464",
@@ -869,15 +869,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 19,
-      "Байгускарова Айгуль Ураловна": 23,
-      "Качкаев Павел Рюрикович": 217,
-      "Минниахметов Ренат Равилевич": 70,
-      "Нурисламов Борис Юрьевич": 8,
-      "Петров Виктор Григорьевич": 12,
-      "Саубанов Раис Нуриманович": 24,
-      "Сафин Фаиль Габдуллович": 32,
-      "Ющенко Александр Андреевич": 109
+      "gas:candidate-vibid:4024055203321": 19,
+      "gas:candidate-vibid:4024055203490": 23,
+      "gas:candidate-vibid:4024055203224": 217,
+      "gas:candidate-vibid:4024055189626": 70,
+      "gas:candidate-vibid:4024055201055": 8,
+      "gas:candidate-vibid:4024055203386": 12,
+      "gas:candidate-vibid:4024055189948": 24,
+      "gas:candidate-vibid:4024055203300": 32,
+      "gas:candidate-vibid:4024055189868": 109
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684931&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684931&type=464",
@@ -928,15 +928,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 40,
-      "Байгускарова Айгуль Ураловна": 85,
-      "Качкаев Павел Рюрикович": 711,
-      "Минниахметов Ренат Равилевич": 40,
-      "Нурисламов Борис Юрьевич": 43,
-      "Петров Виктор Григорьевич": 57,
-      "Саубанов Раис Нуриманович": 44,
-      "Сафин Фаиль Габдуллович": 46,
-      "Ющенко Александр Андреевич": 506
+      "gas:candidate-vibid:4024055203321": 40,
+      "gas:candidate-vibid:4024055203490": 85,
+      "gas:candidate-vibid:4024055203224": 711,
+      "gas:candidate-vibid:4024055189626": 40,
+      "gas:candidate-vibid:4024055201055": 43,
+      "gas:candidate-vibid:4024055203386": 57,
+      "gas:candidate-vibid:4024055189948": 44,
+      "gas:candidate-vibid:4024055203300": 46,
+      "gas:candidate-vibid:4024055189868": 506
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684931&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684931&type=464",
@@ -987,15 +987,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 65,
-      "Байгускарова Айгуль Ураловна": 54,
-      "Качкаев Павел Рюрикович": 390,
-      "Минниахметов Ренат Равилевич": 26,
-      "Нурисламов Борис Юрьевич": 35,
-      "Петров Виктор Григорьевич": 52,
-      "Саубанов Раис Нуриманович": 65,
-      "Сафин Фаиль Габдуллович": 62,
-      "Ющенко Александр Андреевич": 200
+      "gas:candidate-vibid:4024055203321": 65,
+      "gas:candidate-vibid:4024055203490": 54,
+      "gas:candidate-vibid:4024055203224": 390,
+      "gas:candidate-vibid:4024055189626": 26,
+      "gas:candidate-vibid:4024055201055": 35,
+      "gas:candidate-vibid:4024055203386": 52,
+      "gas:candidate-vibid:4024055189948": 65,
+      "gas:candidate-vibid:4024055203300": 62,
+      "gas:candidate-vibid:4024055189868": 200
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684931&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684931&type=464",
@@ -1046,15 +1046,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 94,
-      "Байгускарова Айгуль Ураловна": 92,
-      "Качкаев Павел Рюрикович": 676,
-      "Минниахметов Ренат Равилевич": 89,
-      "Нурисламов Борис Юрьевич": 96,
-      "Петров Виктор Григорьевич": 83,
-      "Саубанов Раис Нуриманович": 73,
-      "Сафин Фаиль Габдуллович": 84,
-      "Ющенко Александр Андреевич": 347
+      "gas:candidate-vibid:4024055203321": 94,
+      "gas:candidate-vibid:4024055203490": 92,
+      "gas:candidate-vibid:4024055203224": 676,
+      "gas:candidate-vibid:4024055189626": 89,
+      "gas:candidate-vibid:4024055201055": 96,
+      "gas:candidate-vibid:4024055203386": 83,
+      "gas:candidate-vibid:4024055189948": 73,
+      "gas:candidate-vibid:4024055203300": 84,
+      "gas:candidate-vibid:4024055189868": 347
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684931&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684931&type=464",
@@ -1105,15 +1105,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 50,
-      "Байгускарова Айгуль Ураловна": 53,
-      "Качкаев Павел Рюрикович": 437,
-      "Минниахметов Ренат Равилевич": 51,
-      "Нурисламов Борис Юрьевич": 46,
-      "Петров Виктор Григорьевич": 59,
-      "Саубанов Раис Нуриманович": 66,
-      "Сафин Фаиль Габдуллович": 72,
-      "Ющенко Александр Андреевич": 223
+      "gas:candidate-vibid:4024055203321": 50,
+      "gas:candidate-vibid:4024055203490": 53,
+      "gas:candidate-vibid:4024055203224": 437,
+      "gas:candidate-vibid:4024055189626": 51,
+      "gas:candidate-vibid:4024055201055": 46,
+      "gas:candidate-vibid:4024055203386": 59,
+      "gas:candidate-vibid:4024055189948": 66,
+      "gas:candidate-vibid:4024055203300": 72,
+      "gas:candidate-vibid:4024055189868": 223
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684931&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684931&type=464",
@@ -1164,15 +1164,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 33,
-      "Байгускарова Айгуль Ураловна": 61,
-      "Качкаев Павел Рюрикович": 446,
-      "Минниахметов Ренат Равилевич": 84,
-      "Нурисламов Борис Юрьевич": 73,
-      "Петров Виктор Григорьевич": 46,
-      "Саубанов Раис Нуриманович": 62,
-      "Сафин Фаиль Габдуллович": 34,
-      "Ющенко Александр Андреевич": 228
+      "gas:candidate-vibid:4024055203321": 33,
+      "gas:candidate-vibid:4024055203490": 61,
+      "gas:candidate-vibid:4024055203224": 446,
+      "gas:candidate-vibid:4024055189626": 84,
+      "gas:candidate-vibid:4024055201055": 73,
+      "gas:candidate-vibid:4024055203386": 46,
+      "gas:candidate-vibid:4024055189948": 62,
+      "gas:candidate-vibid:4024055203300": 34,
+      "gas:candidate-vibid:4024055189868": 228
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684931&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684931&type=464",
@@ -1223,15 +1223,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 6,
-      "Байгускарова Айгуль Ураловна": 8,
-      "Качкаев Павел Рюрикович": 396,
-      "Минниахметов Ренат Равилевич": 19,
-      "Нурисламов Борис Юрьевич": 83,
-      "Петров Виктор Григорьевич": 6,
-      "Саубанов Раис Нуриманович": 70,
-      "Сафин Фаиль Габдуллович": 9,
-      "Ющенко Александр Андреевич": 239
+      "gas:candidate-vibid:4024055203321": 6,
+      "gas:candidate-vibid:4024055203490": 8,
+      "gas:candidate-vibid:4024055203224": 396,
+      "gas:candidate-vibid:4024055189626": 19,
+      "gas:candidate-vibid:4024055201055": 83,
+      "gas:candidate-vibid:4024055203386": 6,
+      "gas:candidate-vibid:4024055189948": 70,
+      "gas:candidate-vibid:4024055203300": 9,
+      "gas:candidate-vibid:4024055189868": 239
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684931&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684931&type=464",
@@ -1282,15 +1282,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 8,
-      "Байгускарова Айгуль Ураловна": 21,
-      "Качкаев Павел Рюрикович": 355,
-      "Минниахметов Ренат Равилевич": 32,
-      "Нурисламов Борис Юрьевич": 3,
-      "Петров Виктор Григорьевич": 12,
-      "Саубанов Раис Нуриманович": 2,
-      "Сафин Фаиль Габдуллович": 2,
-      "Ющенко Александр Андреевич": 143
+      "gas:candidate-vibid:4024055203321": 8,
+      "gas:candidate-vibid:4024055203490": 21,
+      "gas:candidate-vibid:4024055203224": 355,
+      "gas:candidate-vibid:4024055189626": 32,
+      "gas:candidate-vibid:4024055201055": 3,
+      "gas:candidate-vibid:4024055203386": 12,
+      "gas:candidate-vibid:4024055189948": 2,
+      "gas:candidate-vibid:4024055203300": 2,
+      "gas:candidate-vibid:4024055189868": 143
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684932&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684932&type=464",
@@ -1341,15 +1341,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 47,
-      "Байгускарова Айгуль Ураловна": 28,
-      "Качкаев Павел Рюрикович": 725,
-      "Минниахметов Ренат Равилевич": 59,
-      "Нурисламов Борис Юрьевич": 47,
-      "Петров Виктор Григорьевич": 37,
-      "Саубанов Раис Нуриманович": 0,
-      "Сафин Фаиль Габдуллович": 5,
-      "Ющенко Александр Андреевич": 222
+      "gas:candidate-vibid:4024055203321": 47,
+      "gas:candidate-vibid:4024055203490": 28,
+      "gas:candidate-vibid:4024055203224": 725,
+      "gas:candidate-vibid:4024055189626": 59,
+      "gas:candidate-vibid:4024055201055": 47,
+      "gas:candidate-vibid:4024055203386": 37,
+      "gas:candidate-vibid:4024055189948": 0,
+      "gas:candidate-vibid:4024055203300": 5,
+      "gas:candidate-vibid:4024055189868": 222
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684932&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684932&type=464",
@@ -1400,15 +1400,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 8,
-      "Байгускарова Айгуль Ураловна": 0,
-      "Качкаев Павел Рюрикович": 499,
-      "Минниахметов Ренат Равилевич": 24,
-      "Нурисламов Борис Юрьевич": 41,
-      "Петров Виктор Григорьевич": 0,
-      "Саубанов Раис Нуриманович": 41,
-      "Сафин Фаиль Габдуллович": 48,
-      "Ющенко Александр Андреевич": 145
+      "gas:candidate-vibid:4024055203321": 8,
+      "gas:candidate-vibid:4024055203490": 0,
+      "gas:candidate-vibid:4024055203224": 499,
+      "gas:candidate-vibid:4024055189626": 24,
+      "gas:candidate-vibid:4024055201055": 41,
+      "gas:candidate-vibid:4024055203386": 0,
+      "gas:candidate-vibid:4024055189948": 41,
+      "gas:candidate-vibid:4024055203300": 48,
+      "gas:candidate-vibid:4024055189868": 145
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684932&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684932&type=464",
@@ -1459,15 +1459,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 11,
-      "Байгускарова Айгуль Ураловна": 24,
-      "Качкаев Павел Рюрикович": 465,
-      "Минниахметов Ренат Равилевич": 50,
-      "Нурисламов Борис Юрьевич": 24,
-      "Петров Виктор Григорьевич": 9,
-      "Саубанов Раис Нуриманович": 4,
-      "Сафин Фаиль Габдуллович": 5,
-      "Ющенко Александр Андреевич": 148
+      "gas:candidate-vibid:4024055203321": 11,
+      "gas:candidate-vibid:4024055203490": 24,
+      "gas:candidate-vibid:4024055203224": 465,
+      "gas:candidate-vibid:4024055189626": 50,
+      "gas:candidate-vibid:4024055201055": 24,
+      "gas:candidate-vibid:4024055203386": 9,
+      "gas:candidate-vibid:4024055189948": 4,
+      "gas:candidate-vibid:4024055203300": 5,
+      "gas:candidate-vibid:4024055189868": 148
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684932&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684932&type=464",
@@ -1518,15 +1518,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 0,
-      "Байгускарова Айгуль Ураловна": 56,
-      "Качкаев Павел Рюрикович": 551,
-      "Минниахметов Ренат Равилевич": 0,
-      "Нурисламов Борис Юрьевич": 64,
-      "Петров Виктор Григорьевич": 40,
-      "Саубанов Раис Нуриманович": 0,
-      "Сафин Фаиль Габдуллович": 0,
-      "Ющенко Александр Андреевич": 178
+      "gas:candidate-vibid:4024055203321": 0,
+      "gas:candidate-vibid:4024055203490": 56,
+      "gas:candidate-vibid:4024055203224": 551,
+      "gas:candidate-vibid:4024055189626": 0,
+      "gas:candidate-vibid:4024055201055": 64,
+      "gas:candidate-vibid:4024055203386": 40,
+      "gas:candidate-vibid:4024055189948": 0,
+      "gas:candidate-vibid:4024055203300": 0,
+      "gas:candidate-vibid:4024055189868": 178
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684932&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684932&type=464",
@@ -1577,15 +1577,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 25,
-      "Байгускарова Айгуль Ураловна": 49,
-      "Качкаев Павел Рюрикович": 253,
-      "Минниахметов Ренат Равилевич": 31,
-      "Нурисламов Борис Юрьевич": 15,
-      "Петров Виктор Григорьевич": 10,
-      "Саубанов Раис Нуриманович": 8,
-      "Сафин Фаиль Габдуллович": 11,
-      "Ющенко Александр Андреевич": 48
+      "gas:candidate-vibid:4024055203321": 25,
+      "gas:candidate-vibid:4024055203490": 49,
+      "gas:candidate-vibid:4024055203224": 253,
+      "gas:candidate-vibid:4024055189626": 31,
+      "gas:candidate-vibid:4024055201055": 15,
+      "gas:candidate-vibid:4024055203386": 10,
+      "gas:candidate-vibid:4024055189948": 8,
+      "gas:candidate-vibid:4024055203300": 11,
+      "gas:candidate-vibid:4024055189868": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684932&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684932&type=464",
@@ -1636,15 +1636,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 15,
-      "Байгускарова Айгуль Ураловна": 9,
-      "Качкаев Павел Рюрикович": 746,
-      "Минниахметов Ренат Равилевич": 9,
-      "Нурисламов Борис Юрьевич": 25,
-      "Петров Виктор Григорьевич": 18,
-      "Саубанов Раис Нуриманович": 14,
-      "Сафин Фаиль Габдуллович": 12,
-      "Ющенко Александр Андреевич": 209
+      "gas:candidate-vibid:4024055203321": 15,
+      "gas:candidate-vibid:4024055203490": 9,
+      "gas:candidate-vibid:4024055203224": 746,
+      "gas:candidate-vibid:4024055189626": 9,
+      "gas:candidate-vibid:4024055201055": 25,
+      "gas:candidate-vibid:4024055203386": 18,
+      "gas:candidate-vibid:4024055189948": 14,
+      "gas:candidate-vibid:4024055203300": 12,
+      "gas:candidate-vibid:4024055189868": 209
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684932&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684932&type=464",
@@ -1695,15 +1695,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 0,
-      "Байгускарова Айгуль Ураловна": 20,
-      "Качкаев Павел Рюрикович": 699,
-      "Минниахметов Ренат Равилевич": 0,
-      "Нурисламов Борис Юрьевич": 0,
-      "Петров Виктор Григорьевич": 0,
-      "Саубанов Раис Нуриманович": 17,
-      "Сафин Фаиль Габдуллович": 0,
-      "Ющенко Александр Андреевич": 217
+      "gas:candidate-vibid:4024055203321": 0,
+      "gas:candidate-vibid:4024055203490": 20,
+      "gas:candidate-vibid:4024055203224": 699,
+      "gas:candidate-vibid:4024055189626": 0,
+      "gas:candidate-vibid:4024055201055": 0,
+      "gas:candidate-vibid:4024055203386": 0,
+      "gas:candidate-vibid:4024055189948": 17,
+      "gas:candidate-vibid:4024055203300": 0,
+      "gas:candidate-vibid:4024055189868": 217
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684932&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684932&type=464",
@@ -1754,15 +1754,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 13,
-      "Байгускарова Айгуль Ураловна": 41,
-      "Качкаев Павел Рюрикович": 576,
-      "Минниахметов Ренат Равилевич": 89,
-      "Нурисламов Борис Юрьевич": 3,
-      "Петров Виктор Григорьевич": 10,
-      "Саубанов Раис Нуриманович": 4,
-      "Сафин Фаиль Габдуллович": 6,
-      "Ющенко Александр Андреевич": 186
+      "gas:candidate-vibid:4024055203321": 13,
+      "gas:candidate-vibid:4024055203490": 41,
+      "gas:candidate-vibid:4024055203224": 576,
+      "gas:candidate-vibid:4024055189626": 89,
+      "gas:candidate-vibid:4024055201055": 3,
+      "gas:candidate-vibid:4024055203386": 10,
+      "gas:candidate-vibid:4024055189948": 4,
+      "gas:candidate-vibid:4024055203300": 6,
+      "gas:candidate-vibid:4024055189868": 186
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684932&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684932&type=464",
@@ -1813,15 +1813,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 32,
-      "Байгускарова Айгуль Ураловна": 76,
-      "Качкаев Павел Рюрикович": 433,
-      "Минниахметов Ренат Равилевич": 48,
-      "Нурисламов Борис Юрьевич": 18,
-      "Петров Виктор Григорьевич": 26,
-      "Саубанов Раис Нуриманович": 4,
-      "Сафин Фаиль Габдуллович": 16,
-      "Ющенко Александр Андреевич": 50
+      "gas:candidate-vibid:4024055203321": 32,
+      "gas:candidate-vibid:4024055203490": 76,
+      "gas:candidate-vibid:4024055203224": 433,
+      "gas:candidate-vibid:4024055189626": 48,
+      "gas:candidate-vibid:4024055201055": 18,
+      "gas:candidate-vibid:4024055203386": 26,
+      "gas:candidate-vibid:4024055189948": 4,
+      "gas:candidate-vibid:4024055203300": 16,
+      "gas:candidate-vibid:4024055189868": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684932&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684932&type=464",
@@ -1872,15 +1872,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 17,
-      "Байгускарова Айгуль Ураловна": 27,
-      "Качкаев Павел Рюрикович": 316,
-      "Минниахметов Ренат Равилевич": 51,
-      "Нурисламов Борис Юрьевич": 17,
-      "Петров Виктор Григорьевич": 11,
-      "Саубанов Раис Нуриманович": 4,
-      "Сафин Фаиль Габдуллович": 5,
-      "Ющенко Александр Андреевич": 39
+      "gas:candidate-vibid:4024055203321": 17,
+      "gas:candidate-vibid:4024055203490": 27,
+      "gas:candidate-vibid:4024055203224": 316,
+      "gas:candidate-vibid:4024055189626": 51,
+      "gas:candidate-vibid:4024055201055": 17,
+      "gas:candidate-vibid:4024055203386": 11,
+      "gas:candidate-vibid:4024055189948": 4,
+      "gas:candidate-vibid:4024055203300": 5,
+      "gas:candidate-vibid:4024055189868": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684932&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684932&type=464",
@@ -1931,15 +1931,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 27,
-      "Байгускарова Айгуль Ураловна": 16,
-      "Качкаев Павел Рюрикович": 524,
-      "Минниахметов Ренат Равилевич": 20,
-      "Нурисламов Борис Юрьевич": 8,
-      "Петров Виктор Григорьевич": 9,
-      "Саубанов Раис Нуриманович": 6,
-      "Сафин Фаиль Габдуллович": 8,
-      "Ющенко Александр Андреевич": 154
+      "gas:candidate-vibid:4024055203321": 27,
+      "gas:candidate-vibid:4024055203490": 16,
+      "gas:candidate-vibid:4024055203224": 524,
+      "gas:candidate-vibid:4024055189626": 20,
+      "gas:candidate-vibid:4024055201055": 8,
+      "gas:candidate-vibid:4024055203386": 9,
+      "gas:candidate-vibid:4024055189948": 6,
+      "gas:candidate-vibid:4024055203300": 8,
+      "gas:candidate-vibid:4024055189868": 154
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684932&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684932&type=464",
@@ -1990,15 +1990,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 1,
-      "Байгускарова Айгуль Ураловна": 55,
-      "Качкаев Павел Рюрикович": 289,
-      "Минниахметов Ренат Равилевич": 52,
-      "Нурисламов Борис Юрьевич": 12,
-      "Петров Виктор Григорьевич": 10,
-      "Саубанов Раис Нуриманович": 27,
-      "Сафин Фаиль Габдуллович": 22,
-      "Ющенко Александр Андреевич": 48
+      "gas:candidate-vibid:4024055203321": 1,
+      "gas:candidate-vibid:4024055203490": 55,
+      "gas:candidate-vibid:4024055203224": 289,
+      "gas:candidate-vibid:4024055189626": 52,
+      "gas:candidate-vibid:4024055201055": 12,
+      "gas:candidate-vibid:4024055203386": 10,
+      "gas:candidate-vibid:4024055189948": 27,
+      "gas:candidate-vibid:4024055203300": 22,
+      "gas:candidate-vibid:4024055189868": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684932&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684932&type=464",
@@ -2049,15 +2049,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 31,
-      "Байгускарова Айгуль Ураловна": 42,
-      "Качкаев Павел Рюрикович": 563,
-      "Минниахметов Ренат Равилевич": 19,
-      "Нурисламов Борис Юрьевич": 10,
-      "Петров Виктор Григорьевич": 14,
-      "Саубанов Раис Нуриманович": 7,
-      "Сафин Фаиль Габдуллович": 5,
-      "Ющенко Александр Андреевич": 165
+      "gas:candidate-vibid:4024055203321": 31,
+      "gas:candidate-vibid:4024055203490": 42,
+      "gas:candidate-vibid:4024055203224": 563,
+      "gas:candidate-vibid:4024055189626": 19,
+      "gas:candidate-vibid:4024055201055": 10,
+      "gas:candidate-vibid:4024055203386": 14,
+      "gas:candidate-vibid:4024055189948": 7,
+      "gas:candidate-vibid:4024055203300": 5,
+      "gas:candidate-vibid:4024055189868": 165
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684932&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684932&type=464",
@@ -2108,15 +2108,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 0,
-      "Байгускарова Айгуль Ураловна": 27,
-      "Качкаев Павел Рюрикович": 484,
-      "Минниахметов Ренат Равилевич": 0,
-      "Нурисламов Борис Юрьевич": 1,
-      "Петров Виктор Григорьевич": 0,
-      "Саубанов Раис Нуриманович": 59,
-      "Сафин Фаиль Габдуллович": 1,
-      "Ющенко Александр Андреевич": 175
+      "gas:candidate-vibid:4024055203321": 0,
+      "gas:candidate-vibid:4024055203490": 27,
+      "gas:candidate-vibid:4024055203224": 484,
+      "gas:candidate-vibid:4024055189626": 0,
+      "gas:candidate-vibid:4024055201055": 1,
+      "gas:candidate-vibid:4024055203386": 0,
+      "gas:candidate-vibid:4024055189948": 59,
+      "gas:candidate-vibid:4024055203300": 1,
+      "gas:candidate-vibid:4024055189868": 175
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684932&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684932&type=464",
@@ -2167,15 +2167,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 18,
-      "Байгускарова Айгуль Ураловна": 26,
-      "Качкаев Павел Рюрикович": 666,
-      "Минниахметов Ренат Равилевич": 28,
-      "Нурисламов Борис Юрьевич": 13,
-      "Петров Виктор Григорьевич": 15,
-      "Саубанов Раис Нуриманович": 46,
-      "Сафин Фаиль Габдуллович": 14,
-      "Ющенко Александр Андреевич": 213
+      "gas:candidate-vibid:4024055203321": 18,
+      "gas:candidate-vibid:4024055203490": 26,
+      "gas:candidate-vibid:4024055203224": 666,
+      "gas:candidate-vibid:4024055189626": 28,
+      "gas:candidate-vibid:4024055201055": 13,
+      "gas:candidate-vibid:4024055203386": 15,
+      "gas:candidate-vibid:4024055189948": 46,
+      "gas:candidate-vibid:4024055203300": 14,
+      "gas:candidate-vibid:4024055189868": 213
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684932&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684932&type=464",
@@ -2226,15 +2226,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 28,
-      "Байгускарова Айгуль Ураловна": 17,
-      "Качкаев Павел Рюрикович": 581,
-      "Минниахметов Ренат Равилевич": 34,
-      "Нурисламов Борис Юрьевич": 14,
-      "Петров Виктор Григорьевич": 27,
-      "Саубанов Раис Нуриманович": 26,
-      "Сафин Фаиль Габдуллович": 23,
-      "Ющенко Александр Андреевич": 187
+      "gas:candidate-vibid:4024055203321": 28,
+      "gas:candidate-vibid:4024055203490": 17,
+      "gas:candidate-vibid:4024055203224": 581,
+      "gas:candidate-vibid:4024055189626": 34,
+      "gas:candidate-vibid:4024055201055": 14,
+      "gas:candidate-vibid:4024055203386": 27,
+      "gas:candidate-vibid:4024055189948": 26,
+      "gas:candidate-vibid:4024055203300": 23,
+      "gas:candidate-vibid:4024055189868": 187
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684932&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684932&type=464",
@@ -2285,15 +2285,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 7,
-      "Байгускарова Айгуль Ураловна": 91,
-      "Качкаев Павел Рюрикович": 680,
-      "Минниахметов Ренат Равилевич": 9,
-      "Нурисламов Борис Юрьевич": 15,
-      "Петров Виктор Григорьевич": 9,
-      "Саубанов Раис Нуриманович": 93,
-      "Сафин Фаиль Габдуллович": 12,
-      "Ющенко Александр Андреевич": 181
+      "gas:candidate-vibid:4024055203321": 7,
+      "gas:candidate-vibid:4024055203490": 91,
+      "gas:candidate-vibid:4024055203224": 680,
+      "gas:candidate-vibid:4024055189626": 9,
+      "gas:candidate-vibid:4024055201055": 15,
+      "gas:candidate-vibid:4024055203386": 9,
+      "gas:candidate-vibid:4024055189948": 93,
+      "gas:candidate-vibid:4024055203300": 12,
+      "gas:candidate-vibid:4024055189868": 181
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684932&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684932&type=464",
@@ -2344,15 +2344,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 2,
-      "Байгускарова Айгуль Ураловна": 53,
-      "Качкаев Павел Рюрикович": 486,
-      "Минниахметов Ренат Равилевич": 15,
-      "Нурисламов Борис Юрьевич": 7,
-      "Петров Виктор Григорьевич": 7,
-      "Саубанов Раис Нуриманович": 54,
-      "Сафин Фаиль Габдуллович": 11,
-      "Ющенко Александр Андреевич": 103
+      "gas:candidate-vibid:4024055203321": 2,
+      "gas:candidate-vibid:4024055203490": 53,
+      "gas:candidate-vibid:4024055203224": 486,
+      "gas:candidate-vibid:4024055189626": 15,
+      "gas:candidate-vibid:4024055201055": 7,
+      "gas:candidate-vibid:4024055203386": 7,
+      "gas:candidate-vibid:4024055189948": 54,
+      "gas:candidate-vibid:4024055203300": 11,
+      "gas:candidate-vibid:4024055189868": 103
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684932&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684932&type=464",
@@ -2403,15 +2403,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 28,
-      "Байгускарова Айгуль Ураловна": 62,
-      "Качкаев Павел Рюрикович": 651,
-      "Минниахметов Ренат Равилевич": 14,
-      "Нурисламов Борис Юрьевич": 8,
-      "Петров Виктор Григорьевич": 7,
-      "Саубанов Раис Нуриманович": 36,
-      "Сафин Фаиль Габдуллович": 18,
-      "Ющенко Александр Андреевич": 151
+      "gas:candidate-vibid:4024055203321": 28,
+      "gas:candidate-vibid:4024055203490": 62,
+      "gas:candidate-vibid:4024055203224": 651,
+      "gas:candidate-vibid:4024055189626": 14,
+      "gas:candidate-vibid:4024055201055": 8,
+      "gas:candidate-vibid:4024055203386": 7,
+      "gas:candidate-vibid:4024055189948": 36,
+      "gas:candidate-vibid:4024055203300": 18,
+      "gas:candidate-vibid:4024055189868": 151
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684932&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684932&type=464",
@@ -2462,15 +2462,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 18,
-      "Байгускарова Айгуль Ураловна": 44,
-      "Качкаев Павел Рюрикович": 584,
-      "Минниахметов Ренат Равилевич": 60,
-      "Нурисламов Борис Юрьевич": 14,
-      "Петров Виктор Григорьевич": 14,
-      "Саубанов Раис Нуриманович": 2,
-      "Сафин Фаиль Габдуллович": 12,
-      "Ющенко Александр Андреевич": 197
+      "gas:candidate-vibid:4024055203321": 18,
+      "gas:candidate-vibid:4024055203490": 44,
+      "gas:candidate-vibid:4024055203224": 584,
+      "gas:candidate-vibid:4024055189626": 60,
+      "gas:candidate-vibid:4024055201055": 14,
+      "gas:candidate-vibid:4024055203386": 14,
+      "gas:candidate-vibid:4024055189948": 2,
+      "gas:candidate-vibid:4024055203300": 12,
+      "gas:candidate-vibid:4024055189868": 197
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684932&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684932&type=464",
@@ -2521,15 +2521,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 31,
-      "Байгускарова Айгуль Ураловна": 53,
-      "Качкаев Павел Рюрикович": 649,
-      "Минниахметов Ренат Равилевич": 51,
-      "Нурисламов Борис Юрьевич": 10,
-      "Петров Виктор Григорьевич": 10,
-      "Саубанов Раис Нуриманович": 5,
-      "Сафин Фаиль Габдуллович": 18,
-      "Ющенко Александр Андреевич": 123
+      "gas:candidate-vibid:4024055203321": 31,
+      "gas:candidate-vibid:4024055203490": 53,
+      "gas:candidate-vibid:4024055203224": 649,
+      "gas:candidate-vibid:4024055189626": 51,
+      "gas:candidate-vibid:4024055201055": 10,
+      "gas:candidate-vibid:4024055203386": 10,
+      "gas:candidate-vibid:4024055189948": 5,
+      "gas:candidate-vibid:4024055203300": 18,
+      "gas:candidate-vibid:4024055189868": 123
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684932&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684932&type=464",
@@ -2580,15 +2580,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 23,
-      "Байгускарова Айгуль Ураловна": 120,
-      "Качкаев Павел Рюрикович": 792,
-      "Минниахметов Ренат Равилевич": 28,
-      "Нурисламов Борис Юрьевич": 14,
-      "Петров Виктор Григорьевич": 12,
-      "Саубанов Раис Нуриманович": 17,
-      "Сафин Фаиль Габдуллович": 16,
-      "Ющенко Александр Андреевич": 256
+      "gas:candidate-vibid:4024055203321": 23,
+      "gas:candidate-vibid:4024055203490": 120,
+      "gas:candidate-vibid:4024055203224": 792,
+      "gas:candidate-vibid:4024055189626": 28,
+      "gas:candidate-vibid:4024055201055": 14,
+      "gas:candidate-vibid:4024055203386": 12,
+      "gas:candidate-vibid:4024055189948": 17,
+      "gas:candidate-vibid:4024055203300": 16,
+      "gas:candidate-vibid:4024055189868": 256
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684932&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684932&type=464",
@@ -2639,15 +2639,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 12,
-      "Байгускарова Айгуль Ураловна": 8,
-      "Качкаев Павел Рюрикович": 541,
-      "Минниахметов Ренат Равилевич": 76,
-      "Нурисламов Борис Юрьевич": 3,
-      "Петров Виктор Григорьевич": 5,
-      "Саубанов Раис Нуриманович": 23,
-      "Сафин Фаиль Габдуллович": 27,
-      "Ющенко Александр Андреевич": 175
+      "gas:candidate-vibid:4024055203321": 12,
+      "gas:candidate-vibid:4024055203490": 8,
+      "gas:candidate-vibid:4024055203224": 541,
+      "gas:candidate-vibid:4024055189626": 76,
+      "gas:candidate-vibid:4024055201055": 3,
+      "gas:candidate-vibid:4024055203386": 5,
+      "gas:candidate-vibid:4024055189948": 23,
+      "gas:candidate-vibid:4024055203300": 27,
+      "gas:candidate-vibid:4024055189868": 175
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684932&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684932&type=464",
@@ -2698,15 +2698,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 32,
-      "Байгускарова Айгуль Ураловна": 62,
-      "Качкаев Павел Рюрикович": 739,
-      "Минниахметов Ренат Равилевич": 73,
-      "Нурисламов Борис Юрьевич": 13,
-      "Петров Виктор Григорьевич": 10,
-      "Саубанов Раис Нуриманович": 4,
-      "Сафин Фаиль Габдуллович": 12,
-      "Ющенко Александр Андреевич": 245
+      "gas:candidate-vibid:4024055203321": 32,
+      "gas:candidate-vibid:4024055203490": 62,
+      "gas:candidate-vibid:4024055203224": 739,
+      "gas:candidate-vibid:4024055189626": 73,
+      "gas:candidate-vibid:4024055201055": 13,
+      "gas:candidate-vibid:4024055203386": 10,
+      "gas:candidate-vibid:4024055189948": 4,
+      "gas:candidate-vibid:4024055203300": 12,
+      "gas:candidate-vibid:4024055189868": 245
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684932&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684932&type=464",
@@ -2757,15 +2757,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 23,
-      "Байгускарова Айгуль Ураловна": 45,
-      "Качкаев Павел Рюрикович": 451,
-      "Минниахметов Ренат Равилевич": 37,
-      "Нурисламов Борис Юрьевич": 21,
-      "Петров Виктор Григорьевич": 11,
-      "Саубанов Раис Нуриманович": 3,
-      "Сафин Фаиль Габдуллович": 16,
-      "Ющенко Александр Андреевич": 131
+      "gas:candidate-vibid:4024055203321": 23,
+      "gas:candidate-vibid:4024055203490": 45,
+      "gas:candidate-vibid:4024055203224": 451,
+      "gas:candidate-vibid:4024055189626": 37,
+      "gas:candidate-vibid:4024055201055": 21,
+      "gas:candidate-vibid:4024055203386": 11,
+      "gas:candidate-vibid:4024055189948": 3,
+      "gas:candidate-vibid:4024055203300": 16,
+      "gas:candidate-vibid:4024055189868": 131
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684932&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684932&type=464",
@@ -2816,15 +2816,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 28,
-      "Байгускарова Айгуль Ураловна": 33,
-      "Качкаев Павел Рюрикович": 779,
-      "Минниахметов Ренат Равилевич": 31,
-      "Нурисламов Борис Юрьевич": 20,
-      "Петров Виктор Григорьевич": 49,
-      "Саубанов Раис Нуриманович": 41,
-      "Сафин Фаиль Габдуллович": 9,
-      "Ющенко Александр Андреевич": 244
+      "gas:candidate-vibid:4024055203321": 28,
+      "gas:candidate-vibid:4024055203490": 33,
+      "gas:candidate-vibid:4024055203224": 779,
+      "gas:candidate-vibid:4024055189626": 31,
+      "gas:candidate-vibid:4024055201055": 20,
+      "gas:candidate-vibid:4024055203386": 49,
+      "gas:candidate-vibid:4024055189948": 41,
+      "gas:candidate-vibid:4024055203300": 9,
+      "gas:candidate-vibid:4024055189868": 244
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684932&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684932&type=464",
@@ -2875,15 +2875,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 5,
-      "Байгускарова Айгуль Ураловна": 22,
-      "Качкаев Павел Рюрикович": 728,
-      "Минниахметов Ренат Равилевич": 141,
-      "Нурисламов Борис Юрьевич": 13,
-      "Петров Виктор Григорьевич": 1,
-      "Саубанов Раис Нуриманович": 4,
-      "Сафин Фаиль Габдуллович": 7,
-      "Ющенко Александр Андреевич": 207
+      "gas:candidate-vibid:4024055203321": 5,
+      "gas:candidate-vibid:4024055203490": 22,
+      "gas:candidate-vibid:4024055203224": 728,
+      "gas:candidate-vibid:4024055189626": 141,
+      "gas:candidate-vibid:4024055201055": 13,
+      "gas:candidate-vibid:4024055203386": 1,
+      "gas:candidate-vibid:4024055189948": 4,
+      "gas:candidate-vibid:4024055203300": 7,
+      "gas:candidate-vibid:4024055189868": 207
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684932&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684932&type=464",
@@ -2934,15 +2934,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 0,
-      "Байгускарова Айгуль Ураловна": 60,
-      "Качкаев Павел Рюрикович": 847,
-      "Минниахметов Ренат Равилевич": 0,
-      "Нурисламов Борис Юрьевич": 1,
-      "Петров Виктор Григорьевич": 0,
-      "Саубанов Раис Нуриманович": 56,
-      "Сафин Фаиль Габдуллович": 29,
-      "Ющенко Александр Андреевич": 227
+      "gas:candidate-vibid:4024055203321": 0,
+      "gas:candidate-vibid:4024055203490": 60,
+      "gas:candidate-vibid:4024055203224": 847,
+      "gas:candidate-vibid:4024055189626": 0,
+      "gas:candidate-vibid:4024055201055": 1,
+      "gas:candidate-vibid:4024055203386": 0,
+      "gas:candidate-vibid:4024055189948": 56,
+      "gas:candidate-vibid:4024055203300": 29,
+      "gas:candidate-vibid:4024055189868": 227
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684932&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684932&type=464",
@@ -2993,15 +2993,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 64,
-      "Байгускарова Айгуль Ураловна": 74,
-      "Качкаев Павел Рюрикович": 570,
-      "Минниахметов Ренат Равилевич": 18,
-      "Нурисламов Борис Юрьевич": 10,
-      "Петров Виктор Григорьевич": 0,
-      "Саубанов Раис Нуриманович": 0,
-      "Сафин Фаиль Габдуллович": 0,
-      "Ющенко Александр Андреевич": 184
+      "gas:candidate-vibid:4024055203321": 64,
+      "gas:candidate-vibid:4024055203490": 74,
+      "gas:candidate-vibid:4024055203224": 570,
+      "gas:candidate-vibid:4024055189626": 18,
+      "gas:candidate-vibid:4024055201055": 10,
+      "gas:candidate-vibid:4024055203386": 0,
+      "gas:candidate-vibid:4024055189948": 0,
+      "gas:candidate-vibid:4024055203300": 0,
+      "gas:candidate-vibid:4024055189868": 184
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684932&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684932&type=464",
@@ -3052,15 +3052,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 9,
-      "Байгускарова Айгуль Ураловна": 18,
-      "Качкаев Павел Рюрикович": 92,
-      "Минниахметов Ренат Равилевич": 19,
-      "Нурисламов Борис Юрьевич": 3,
-      "Петров Виктор Григорьевич": 2,
-      "Саубанов Раис Нуриманович": 2,
-      "Сафин Фаиль Габдуллович": 6,
-      "Ющенко Александр Андреевич": 6
+      "gas:candidate-vibid:4024055203321": 9,
+      "gas:candidate-vibid:4024055203490": 18,
+      "gas:candidate-vibid:4024055203224": 92,
+      "gas:candidate-vibid:4024055189626": 19,
+      "gas:candidate-vibid:4024055201055": 3,
+      "gas:candidate-vibid:4024055203386": 2,
+      "gas:candidate-vibid:4024055189948": 2,
+      "gas:candidate-vibid:4024055203300": 6,
+      "gas:candidate-vibid:4024055189868": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684932&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684932&type=464",
@@ -3111,15 +3111,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 22,
-      "Байгускарова Айгуль Ураловна": 48,
-      "Качкаев Павел Рюрикович": 596,
-      "Минниахметов Ренат Равилевич": 64,
-      "Нурисламов Борис Юрьевич": 15,
-      "Петров Виктор Григорьевич": 15,
-      "Саубанов Раис Нуриманович": 1,
-      "Сафин Фаиль Габдуллович": 3,
-      "Ющенко Александр Андреевич": 192
+      "gas:candidate-vibid:4024055203321": 22,
+      "gas:candidate-vibid:4024055203490": 48,
+      "gas:candidate-vibid:4024055203224": 596,
+      "gas:candidate-vibid:4024055189626": 64,
+      "gas:candidate-vibid:4024055201055": 15,
+      "gas:candidate-vibid:4024055203386": 15,
+      "gas:candidate-vibid:4024055189948": 1,
+      "gas:candidate-vibid:4024055203300": 3,
+      "gas:candidate-vibid:4024055189868": 192
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684932&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684932&type=464",
@@ -3170,15 +3170,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 13,
-      "Байгускарова Айгуль Ураловна": 29,
-      "Качкаев Павел Рюрикович": 708,
-      "Минниахметов Ренат Равилевич": 27,
-      "Нурисламов Борис Юрьевич": 19,
-      "Петров Виктор Григорьевич": 13,
-      "Саубанов Раис Нуриманович": 42,
-      "Сафин Фаиль Габдуллович": 29,
-      "Ющенко Александр Андреевич": 228
+      "gas:candidate-vibid:4024055203321": 13,
+      "gas:candidate-vibid:4024055203490": 29,
+      "gas:candidate-vibid:4024055203224": 708,
+      "gas:candidate-vibid:4024055189626": 27,
+      "gas:candidate-vibid:4024055201055": 19,
+      "gas:candidate-vibid:4024055203386": 13,
+      "gas:candidate-vibid:4024055189948": 42,
+      "gas:candidate-vibid:4024055203300": 29,
+      "gas:candidate-vibid:4024055189868": 228
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684932&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684932&type=464",
@@ -3229,15 +3229,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 6,
-      "Байгускарова Айгуль Ураловна": 10,
-      "Качкаев Павел Рюрикович": 347,
-      "Минниахметов Ренат Равилевич": 6,
-      "Нурисламов Борис Юрьевич": 4,
-      "Петров Виктор Григорьевич": 3,
-      "Саубанов Раис Нуриманович": 10,
-      "Сафин Фаиль Габдуллович": 9,
-      "Ющенко Александр Андреевич": 73
+      "gas:candidate-vibid:4024055203321": 6,
+      "gas:candidate-vibid:4024055203490": 10,
+      "gas:candidate-vibid:4024055203224": 347,
+      "gas:candidate-vibid:4024055189626": 6,
+      "gas:candidate-vibid:4024055201055": 4,
+      "gas:candidate-vibid:4024055203386": 3,
+      "gas:candidate-vibid:4024055189948": 10,
+      "gas:candidate-vibid:4024055203300": 9,
+      "gas:candidate-vibid:4024055189868": 73
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684933&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684933&type=464",
@@ -3288,15 +3288,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 0,
-      "Байгускарова Айгуль Ураловна": 3,
-      "Качкаев Павел Рюрикович": 252,
-      "Минниахметов Ренат Равилевич": 6,
-      "Нурисламов Борис Юрьевич": 0,
-      "Петров Виктор Григорьевич": 0,
-      "Саубанов Раис Нуриманович": 0,
-      "Сафин Фаиль Габдуллович": 0,
-      "Ющенко Александр Андреевич": 6
+      "gas:candidate-vibid:4024055203321": 0,
+      "gas:candidate-vibid:4024055203490": 3,
+      "gas:candidate-vibid:4024055203224": 252,
+      "gas:candidate-vibid:4024055189626": 6,
+      "gas:candidate-vibid:4024055201055": 0,
+      "gas:candidate-vibid:4024055203386": 0,
+      "gas:candidate-vibid:4024055189948": 0,
+      "gas:candidate-vibid:4024055203300": 0,
+      "gas:candidate-vibid:4024055189868": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684933&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684933&type=464",
@@ -3347,15 +3347,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 12,
-      "Байгускарова Айгуль Ураловна": 15,
-      "Качкаев Павел Рюрикович": 870,
-      "Минниахметов Ренат Равилевич": 30,
-      "Нурисламов Борис Юрьевич": 25,
-      "Петров Виктор Григорьевич": 22,
-      "Саубанов Раис Нуриманович": 14,
-      "Сафин Фаиль Габдуллович": 22,
-      "Ющенко Александр Андреевич": 180
+      "gas:candidate-vibid:4024055203321": 12,
+      "gas:candidate-vibid:4024055203490": 15,
+      "gas:candidate-vibid:4024055203224": 870,
+      "gas:candidate-vibid:4024055189626": 30,
+      "gas:candidate-vibid:4024055201055": 25,
+      "gas:candidate-vibid:4024055203386": 22,
+      "gas:candidate-vibid:4024055189948": 14,
+      "gas:candidate-vibid:4024055203300": 22,
+      "gas:candidate-vibid:4024055189868": 180
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684933&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684933&type=464",
@@ -3406,15 +3406,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 4,
-      "Байгускарова Айгуль Ураловна": 22,
-      "Качкаев Павел Рюрикович": 334,
-      "Минниахметов Ренат Равилевич": 18,
-      "Нурисламов Борис Юрьевич": 6,
-      "Петров Виктор Григорьевич": 4,
-      "Саубанов Раис Нуриманович": 3,
-      "Сафин Фаиль Габдуллович": 3,
-      "Ющенко Александр Андреевич": 3
+      "gas:candidate-vibid:4024055203321": 4,
+      "gas:candidate-vibid:4024055203490": 22,
+      "gas:candidate-vibid:4024055203224": 334,
+      "gas:candidate-vibid:4024055189626": 18,
+      "gas:candidate-vibid:4024055201055": 6,
+      "gas:candidate-vibid:4024055203386": 4,
+      "gas:candidate-vibid:4024055189948": 3,
+      "gas:candidate-vibid:4024055203300": 3,
+      "gas:candidate-vibid:4024055189868": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684933&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684933&type=464",
@@ -3465,15 +3465,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 1,
-      "Байгускарова Айгуль Ураловна": 0,
-      "Качкаев Павел Рюрикович": 540,
-      "Минниахметов Ренат Равилевич": 49,
-      "Нурисламов Борис Юрьевич": 5,
-      "Петров Виктор Григорьевич": 6,
-      "Саубанов Раис Нуриманович": 15,
-      "Сафин Фаиль Габдуллович": 8,
-      "Ющенко Александр Андреевич": 118
+      "gas:candidate-vibid:4024055203321": 1,
+      "gas:candidate-vibid:4024055203490": 0,
+      "gas:candidate-vibid:4024055203224": 540,
+      "gas:candidate-vibid:4024055189626": 49,
+      "gas:candidate-vibid:4024055201055": 5,
+      "gas:candidate-vibid:4024055203386": 6,
+      "gas:candidate-vibid:4024055189948": 15,
+      "gas:candidate-vibid:4024055203300": 8,
+      "gas:candidate-vibid:4024055189868": 118
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684933&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684933&type=464",
@@ -3524,15 +3524,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 4,
-      "Байгускарова Айгуль Ураловна": 19,
-      "Качкаев Павел Рюрикович": 1206,
-      "Минниахметов Ренат Равилевич": 13,
-      "Нурисламов Борис Юрьевич": 7,
-      "Петров Виктор Григорьевич": 3,
-      "Саубанов Раис Нуриманович": 11,
-      "Сафин Фаиль Габдуллович": 6,
-      "Ющенко Александр Андреевич": 235
+      "gas:candidate-vibid:4024055203321": 4,
+      "gas:candidate-vibid:4024055203490": 19,
+      "gas:candidate-vibid:4024055203224": 1206,
+      "gas:candidate-vibid:4024055189626": 13,
+      "gas:candidate-vibid:4024055201055": 7,
+      "gas:candidate-vibid:4024055203386": 3,
+      "gas:candidate-vibid:4024055189948": 11,
+      "gas:candidate-vibid:4024055203300": 6,
+      "gas:candidate-vibid:4024055189868": 235
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684933&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684933&type=464",
@@ -3583,15 +3583,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 12,
-      "Байгускарова Айгуль Ураловна": 15,
-      "Качкаев Павел Рюрикович": 726,
-      "Минниахметов Ренат Равилевич": 13,
-      "Нурисламов Борис Юрьевич": 10,
-      "Петров Виктор Григорьевич": 16,
-      "Саубанов Раис Нуриманович": 19,
-      "Сафин Фаиль Габдуллович": 16,
-      "Ющенко Александр Андреевич": 153
+      "gas:candidate-vibid:4024055203321": 12,
+      "gas:candidate-vibid:4024055203490": 15,
+      "gas:candidate-vibid:4024055203224": 726,
+      "gas:candidate-vibid:4024055189626": 13,
+      "gas:candidate-vibid:4024055201055": 10,
+      "gas:candidate-vibid:4024055203386": 16,
+      "gas:candidate-vibid:4024055189948": 19,
+      "gas:candidate-vibid:4024055203300": 16,
+      "gas:candidate-vibid:4024055189868": 153
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684933&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684933&type=464",
@@ -3642,15 +3642,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 3,
-      "Байгускарова Айгуль Ураловна": 5,
-      "Качкаев Павел Рюрикович": 703,
-      "Минниахметов Ренат Равилевич": 7,
-      "Нурисламов Борис Юрьевич": 6,
-      "Петров Виктор Григорьевич": 9,
-      "Саубанов Раис Нуриманович": 5,
-      "Сафин Фаиль Габдуллович": 5,
-      "Ющенко Александр Андреевич": 123
+      "gas:candidate-vibid:4024055203321": 3,
+      "gas:candidate-vibid:4024055203490": 5,
+      "gas:candidate-vibid:4024055203224": 703,
+      "gas:candidate-vibid:4024055189626": 7,
+      "gas:candidate-vibid:4024055201055": 6,
+      "gas:candidate-vibid:4024055203386": 9,
+      "gas:candidate-vibid:4024055189948": 5,
+      "gas:candidate-vibid:4024055203300": 5,
+      "gas:candidate-vibid:4024055189868": 123
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684933&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684933&type=464",
@@ -3701,15 +3701,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 2,
-      "Байгускарова Айгуль Ураловна": 3,
-      "Качкаев Павел Рюрикович": 692,
-      "Минниахметов Ренат Равилевич": 3,
-      "Нурисламов Борис Юрьевич": 2,
-      "Петров Виктор Григорьевич": 2,
-      "Саубанов Раис Нуриманович": 1,
-      "Сафин Фаиль Габдуллович": 1,
-      "Ющенко Александр Андреевич": 132
+      "gas:candidate-vibid:4024055203321": 2,
+      "gas:candidate-vibid:4024055203490": 3,
+      "gas:candidate-vibid:4024055203224": 692,
+      "gas:candidate-vibid:4024055189626": 3,
+      "gas:candidate-vibid:4024055201055": 2,
+      "gas:candidate-vibid:4024055203386": 2,
+      "gas:candidate-vibid:4024055189948": 1,
+      "gas:candidate-vibid:4024055203300": 1,
+      "gas:candidate-vibid:4024055189868": 132
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684933&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684933&type=464",
@@ -3760,15 +3760,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 2,
-      "Байгускарова Айгуль Ураловна": 2,
-      "Качкаев Павел Рюрикович": 358,
-      "Минниахметов Ренат Равилевич": 25,
-      "Нурисламов Борис Юрьевич": 0,
-      "Петров Виктор Григорьевич": 1,
-      "Саубанов Раис Нуриманович": 1,
-      "Сафин Фаиль Габдуллович": 1,
-      "Ющенко Александр Андреевич": 35
+      "gas:candidate-vibid:4024055203321": 2,
+      "gas:candidate-vibid:4024055203490": 2,
+      "gas:candidate-vibid:4024055203224": 358,
+      "gas:candidate-vibid:4024055189626": 25,
+      "gas:candidate-vibid:4024055201055": 0,
+      "gas:candidate-vibid:4024055203386": 1,
+      "gas:candidate-vibid:4024055189948": 1,
+      "gas:candidate-vibid:4024055203300": 1,
+      "gas:candidate-vibid:4024055189868": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684933&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684933&type=464",
@@ -3819,15 +3819,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 3,
-      "Байгускарова Айгуль Ураловна": 0,
-      "Качкаев Павел Рюрикович": 185,
-      "Минниахметов Ренат Равилевич": 7,
-      "Нурисламов Борис Юрьевич": 0,
-      "Петров Виктор Григорьевич": 0,
-      "Саубанов Раис Нуриманович": 0,
-      "Сафин Фаиль Габдуллович": 0,
-      "Ющенко Александр Андреевич": 13
+      "gas:candidate-vibid:4024055203321": 3,
+      "gas:candidate-vibid:4024055203490": 0,
+      "gas:candidate-vibid:4024055203224": 185,
+      "gas:candidate-vibid:4024055189626": 7,
+      "gas:candidate-vibid:4024055201055": 0,
+      "gas:candidate-vibid:4024055203386": 0,
+      "gas:candidate-vibid:4024055189948": 0,
+      "gas:candidate-vibid:4024055203300": 0,
+      "gas:candidate-vibid:4024055189868": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684933&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684933&type=464",
@@ -3878,15 +3878,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 0,
-      "Байгускарова Айгуль Ураловна": 26,
-      "Качкаев Павел Рюрикович": 339,
-      "Минниахметов Ренат Равилевич": 8,
-      "Нурисламов Борис Юрьевич": 6,
-      "Петров Виктор Григорьевич": 0,
-      "Саубанов Раис Нуриманович": 0,
-      "Сафин Фаиль Габдуллович": 2,
-      "Ющенко Александр Андреевич": 67
+      "gas:candidate-vibid:4024055203321": 0,
+      "gas:candidate-vibid:4024055203490": 26,
+      "gas:candidate-vibid:4024055203224": 339,
+      "gas:candidate-vibid:4024055189626": 8,
+      "gas:candidate-vibid:4024055201055": 6,
+      "gas:candidate-vibid:4024055203386": 0,
+      "gas:candidate-vibid:4024055189948": 0,
+      "gas:candidate-vibid:4024055203300": 2,
+      "gas:candidate-vibid:4024055189868": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684933&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684933&type=464",
@@ -3937,15 +3937,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 13,
-      "Байгускарова Айгуль Ураловна": 2,
-      "Качкаев Павел Рюрикович": 886,
-      "Минниахметов Ренат Равилевич": 124,
-      "Нурисламов Борис Юрьевич": 12,
-      "Петров Виктор Григорьевич": 4,
-      "Саубанов Раис Нуриманович": 1,
-      "Сафин Фаиль Габдуллович": 2,
-      "Ющенко Александр Андреевич": 166
+      "gas:candidate-vibid:4024055203321": 13,
+      "gas:candidate-vibid:4024055203490": 2,
+      "gas:candidate-vibid:4024055203224": 886,
+      "gas:candidate-vibid:4024055189626": 124,
+      "gas:candidate-vibid:4024055201055": 12,
+      "gas:candidate-vibid:4024055203386": 4,
+      "gas:candidate-vibid:4024055189948": 1,
+      "gas:candidate-vibid:4024055203300": 2,
+      "gas:candidate-vibid:4024055189868": 166
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684933&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684933&type=464",
@@ -3996,15 +3996,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 38,
-      "Байгускарова Айгуль Ураловна": 67,
-      "Качкаев Павел Рюрикович": 329,
-      "Минниахметов Ренат Равилевич": 204,
-      "Нурисламов Борис Юрьевич": 16,
-      "Петров Виктор Григорьевич": 17,
-      "Саубанов Раис Нуриманович": 12,
-      "Сафин Фаиль Габдуллович": 12,
-      "Ющенко Александр Андреевич": 45
+      "gas:candidate-vibid:4024055203321": 38,
+      "gas:candidate-vibid:4024055203490": 67,
+      "gas:candidate-vibid:4024055203224": 329,
+      "gas:candidate-vibid:4024055189626": 204,
+      "gas:candidate-vibid:4024055201055": 16,
+      "gas:candidate-vibid:4024055203386": 17,
+      "gas:candidate-vibid:4024055189948": 12,
+      "gas:candidate-vibid:4024055203300": 12,
+      "gas:candidate-vibid:4024055189868": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684933&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684933&type=464",
@@ -4055,15 +4055,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 0,
-      "Байгускарова Айгуль Ураловна": 11,
-      "Качкаев Павел Рюрикович": 187,
-      "Минниахметов Ренат Равилевич": 20,
-      "Нурисламов Борис Юрьевич": 0,
-      "Петров Виктор Григорьевич": 0,
-      "Саубанов Раис Нуриманович": 0,
-      "Сафин Фаиль Габдуллович": 0,
-      "Ющенко Александр Андреевич": 24
+      "gas:candidate-vibid:4024055203321": 0,
+      "gas:candidate-vibid:4024055203490": 11,
+      "gas:candidate-vibid:4024055203224": 187,
+      "gas:candidate-vibid:4024055189626": 20,
+      "gas:candidate-vibid:4024055201055": 0,
+      "gas:candidate-vibid:4024055203386": 0,
+      "gas:candidate-vibid:4024055189948": 0,
+      "gas:candidate-vibid:4024055203300": 0,
+      "gas:candidate-vibid:4024055189868": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684933&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684933&type=464",
@@ -4114,15 +4114,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 5,
-      "Байгускарова Айгуль Ураловна": 27,
-      "Качкаев Павел Рюрикович": 187,
-      "Минниахметов Ренат Равилевич": 25,
-      "Нурисламов Борис Юрьевич": 3,
-      "Петров Виктор Григорьевич": 3,
-      "Саубанов Раис Нуриманович": 4,
-      "Сафин Фаиль Габдуллович": 3,
-      "Ющенко Александр Андреевич": 28
+      "gas:candidate-vibid:4024055203321": 5,
+      "gas:candidate-vibid:4024055203490": 27,
+      "gas:candidate-vibid:4024055203224": 187,
+      "gas:candidate-vibid:4024055189626": 25,
+      "gas:candidate-vibid:4024055201055": 3,
+      "gas:candidate-vibid:4024055203386": 3,
+      "gas:candidate-vibid:4024055189948": 4,
+      "gas:candidate-vibid:4024055203300": 3,
+      "gas:candidate-vibid:4024055189868": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684933&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684933&type=464",
@@ -4173,15 +4173,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 2,
-      "Байгускарова Айгуль Ураловна": 4,
-      "Качкаев Павел Рюрикович": 134,
-      "Минниахметов Ренат Равилевич": 3,
-      "Нурисламов Борис Юрьевич": 0,
-      "Петров Виктор Григорьевич": 0,
-      "Саубанов Раис Нуриманович": 0,
-      "Сафин Фаиль Габдуллович": 0,
-      "Ющенко Александр Андреевич": 0
+      "gas:candidate-vibid:4024055203321": 2,
+      "gas:candidate-vibid:4024055203490": 4,
+      "gas:candidate-vibid:4024055203224": 134,
+      "gas:candidate-vibid:4024055189626": 3,
+      "gas:candidate-vibid:4024055201055": 0,
+      "gas:candidate-vibid:4024055203386": 0,
+      "gas:candidate-vibid:4024055189948": 0,
+      "gas:candidate-vibid:4024055203300": 0,
+      "gas:candidate-vibid:4024055189868": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684933&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684933&type=464",
@@ -4232,15 +4232,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 28,
-      "Байгускарова Айгуль Ураловна": 29,
-      "Качкаев Павел Рюрикович": 1534,
-      "Минниахметов Ренат Равилевич": 28,
-      "Нурисламов Борис Юрьевич": 31,
-      "Петров Виктор Григорьевич": 28,
-      "Саубанов Раис Нуриманович": 30,
-      "Сафин Фаиль Габдуллович": 28,
-      "Ющенко Александр Андреевич": 328
+      "gas:candidate-vibid:4024055203321": 28,
+      "gas:candidate-vibid:4024055203490": 29,
+      "gas:candidate-vibid:4024055203224": 1534,
+      "gas:candidate-vibid:4024055189626": 28,
+      "gas:candidate-vibid:4024055201055": 31,
+      "gas:candidate-vibid:4024055203386": 28,
+      "gas:candidate-vibid:4024055189948": 30,
+      "gas:candidate-vibid:4024055203300": 28,
+      "gas:candidate-vibid:4024055189868": 328
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684933&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684933&type=464",
@@ -4291,15 +4291,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 20,
-      "Байгускарова Айгуль Ураловна": 77,
-      "Качкаев Павел Рюрикович": 1492,
-      "Минниахметов Ренат Равилевич": 48,
-      "Нурисламов Борис Юрьевич": 36,
-      "Петров Виктор Григорьевич": 5,
-      "Саубанов Раис Нуриманович": 8,
-      "Сафин Фаиль Габдуллович": 15,
-      "Ющенко Александр Андреевич": 324
+      "gas:candidate-vibid:4024055203321": 20,
+      "gas:candidate-vibid:4024055203490": 77,
+      "gas:candidate-vibid:4024055203224": 1492,
+      "gas:candidate-vibid:4024055189626": 48,
+      "gas:candidate-vibid:4024055201055": 36,
+      "gas:candidate-vibid:4024055203386": 5,
+      "gas:candidate-vibid:4024055189948": 8,
+      "gas:candidate-vibid:4024055203300": 15,
+      "gas:candidate-vibid:4024055189868": 324
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684933&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684933&type=464",
@@ -4350,15 +4350,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 25,
-      "Байгускарова Айгуль Ураловна": 28,
-      "Качкаев Павел Рюрикович": 1096,
-      "Минниахметов Ренат Равилевич": 22,
-      "Нурисламов Борис Юрьевич": 21,
-      "Петров Виктор Григорьевич": 27,
-      "Саубанов Раис Нуриманович": 20,
-      "Сафин Фаиль Габдуллович": 24,
-      "Ющенко Александр Андреевич": 236
+      "gas:candidate-vibid:4024055203321": 25,
+      "gas:candidate-vibid:4024055203490": 28,
+      "gas:candidate-vibid:4024055203224": 1096,
+      "gas:candidate-vibid:4024055189626": 22,
+      "gas:candidate-vibid:4024055201055": 21,
+      "gas:candidate-vibid:4024055203386": 27,
+      "gas:candidate-vibid:4024055189948": 20,
+      "gas:candidate-vibid:4024055203300": 24,
+      "gas:candidate-vibid:4024055189868": 236
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684933&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684933&type=464",
@@ -4409,15 +4409,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 10,
-      "Байгускарова Айгуль Ураловна": 9,
-      "Качкаев Павел Рюрикович": 729,
-      "Минниахметов Ренат Равилевич": 2,
-      "Нурисламов Борис Юрьевич": 7,
-      "Петров Виктор Григорьевич": 6,
-      "Саубанов Раис Нуриманович": 3,
-      "Сафин Фаиль Габдуллович": 5,
-      "Ющенко Александр Андреевич": 142
+      "gas:candidate-vibid:4024055203321": 10,
+      "gas:candidate-vibid:4024055203490": 9,
+      "gas:candidate-vibid:4024055203224": 729,
+      "gas:candidate-vibid:4024055189626": 2,
+      "gas:candidate-vibid:4024055201055": 7,
+      "gas:candidate-vibid:4024055203386": 6,
+      "gas:candidate-vibid:4024055189948": 3,
+      "gas:candidate-vibid:4024055203300": 5,
+      "gas:candidate-vibid:4024055189868": 142
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684933&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684933&type=464",
@@ -4468,15 +4468,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 1,
-      "Байгускарова Айгуль Ураловна": 18,
-      "Качкаев Павел Рюрикович": 333,
-      "Минниахметов Ренат Равилевич": 17,
-      "Нурисламов Борис Юрьевич": 8,
-      "Петров Виктор Григорьевич": 4,
-      "Саубанов Раис Нуриманович": 17,
-      "Сафин Фаиль Габдуллович": 7,
-      "Ющенко Александр Андреевич": 13
+      "gas:candidate-vibid:4024055203321": 1,
+      "gas:candidate-vibid:4024055203490": 18,
+      "gas:candidate-vibid:4024055203224": 333,
+      "gas:candidate-vibid:4024055189626": 17,
+      "gas:candidate-vibid:4024055201055": 8,
+      "gas:candidate-vibid:4024055203386": 4,
+      "gas:candidate-vibid:4024055189948": 17,
+      "gas:candidate-vibid:4024055203300": 7,
+      "gas:candidate-vibid:4024055189868": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684933&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684933&type=464",
@@ -4527,15 +4527,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 29,
-      "Байгускарова Айгуль Ураловна": 24,
-      "Качкаев Павел Рюрикович": 874,
-      "Минниахметов Ренат Равилевич": 25,
-      "Нурисламов Борис Юрьевич": 0,
-      "Петров Виктор Григорьевич": 11,
-      "Саубанов Раис Нуриманович": 0,
-      "Сафин Фаиль Габдуллович": 33,
-      "Ющенко Александр Андреевич": 191
+      "gas:candidate-vibid:4024055203321": 29,
+      "gas:candidate-vibid:4024055203490": 24,
+      "gas:candidate-vibid:4024055203224": 874,
+      "gas:candidate-vibid:4024055189626": 25,
+      "gas:candidate-vibid:4024055201055": 0,
+      "gas:candidate-vibid:4024055203386": 11,
+      "gas:candidate-vibid:4024055189948": 0,
+      "gas:candidate-vibid:4024055203300": 33,
+      "gas:candidate-vibid:4024055189868": 191
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684933&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684933&type=464",
@@ -4586,15 +4586,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 13,
-      "Байгускарова Айгуль Ураловна": 18,
-      "Качкаев Павел Рюрикович": 474,
-      "Минниахметов Ренат Равилевич": 11,
-      "Нурисламов Борис Юрьевич": 3,
-      "Петров Виктор Григорьевич": 28,
-      "Саубанов Раис Нуриманович": 0,
-      "Сафин Фаиль Габдуллович": 2,
-      "Ющенко Александр Андреевич": 97
+      "gas:candidate-vibid:4024055203321": 13,
+      "gas:candidate-vibid:4024055203490": 18,
+      "gas:candidate-vibid:4024055203224": 474,
+      "gas:candidate-vibid:4024055189626": 11,
+      "gas:candidate-vibid:4024055201055": 3,
+      "gas:candidate-vibid:4024055203386": 28,
+      "gas:candidate-vibid:4024055189948": 0,
+      "gas:candidate-vibid:4024055203300": 2,
+      "gas:candidate-vibid:4024055189868": 97
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684933&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684933&type=464",
@@ -4645,15 +4645,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 0,
-      "Байгускарова Айгуль Ураловна": 0,
-      "Качкаев Павел Рюрикович": 171,
-      "Минниахметов Ренат Равилевич": 4,
-      "Нурисламов Борис Юрьевич": 0,
-      "Петров Виктор Григорьевич": 0,
-      "Саубанов Раис Нуриманович": 0,
-      "Сафин Фаиль Габдуллович": 0,
-      "Ющенко Александр Андреевич": 29
+      "gas:candidate-vibid:4024055203321": 0,
+      "gas:candidate-vibid:4024055203490": 0,
+      "gas:candidate-vibid:4024055203224": 171,
+      "gas:candidate-vibid:4024055189626": 4,
+      "gas:candidate-vibid:4024055201055": 0,
+      "gas:candidate-vibid:4024055203386": 0,
+      "gas:candidate-vibid:4024055189948": 0,
+      "gas:candidate-vibid:4024055203300": 0,
+      "gas:candidate-vibid:4024055189868": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684933&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684933&type=464",
@@ -4704,15 +4704,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 0,
-      "Байгускарова Айгуль Ураловна": 7,
-      "Качкаев Павел Рюрикович": 121,
-      "Минниахметов Ренат Равилевич": 8,
-      "Нурисламов Борис Юрьевич": 0,
-      "Петров Виктор Григорьевич": 0,
-      "Саубанов Раис Нуриманович": 0,
-      "Сафин Фаиль Габдуллович": 6,
-      "Ющенко Александр Андреевич": 24
+      "gas:candidate-vibid:4024055203321": 0,
+      "gas:candidate-vibid:4024055203490": 7,
+      "gas:candidate-vibid:4024055203224": 121,
+      "gas:candidate-vibid:4024055189626": 8,
+      "gas:candidate-vibid:4024055201055": 0,
+      "gas:candidate-vibid:4024055203386": 0,
+      "gas:candidate-vibid:4024055189948": 0,
+      "gas:candidate-vibid:4024055203300": 6,
+      "gas:candidate-vibid:4024055189868": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684933&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684933&type=464",
@@ -4763,15 +4763,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 0,
-      "Байгускарова Айгуль Ураловна": 46,
-      "Качкаев Павел Рюрикович": 550,
-      "Минниахметов Ренат Равилевич": 48,
-      "Нурисламов Борис Юрьевич": 0,
-      "Петров Виктор Григорьевич": 0,
-      "Саубанов Раис Нуриманович": 0,
-      "Сафин Фаиль Габдуллович": 0,
-      "Ющенко Александр Андреевич": 113
+      "gas:candidate-vibid:4024055203321": 0,
+      "gas:candidate-vibid:4024055203490": 46,
+      "gas:candidate-vibid:4024055203224": 550,
+      "gas:candidate-vibid:4024055189626": 48,
+      "gas:candidate-vibid:4024055201055": 0,
+      "gas:candidate-vibid:4024055203386": 0,
+      "gas:candidate-vibid:4024055189948": 0,
+      "gas:candidate-vibid:4024055203300": 0,
+      "gas:candidate-vibid:4024055189868": 113
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684933&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684933&type=464",
@@ -4822,15 +4822,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 9,
-      "Байгускарова Айгуль Ураловна": 24,
-      "Качкаев Павел Рюрикович": 439,
-      "Минниахметов Ренат Равилевич": 36,
-      "Нурисламов Борис Юрьевич": 2,
-      "Петров Виктор Григорьевич": 3,
-      "Саубанов Раис Нуриманович": 5,
-      "Сафин Фаиль Габдуллович": 3,
-      "Ющенко Александр Андреевич": 90
+      "gas:candidate-vibid:4024055203321": 9,
+      "gas:candidate-vibid:4024055203490": 24,
+      "gas:candidate-vibid:4024055203224": 439,
+      "gas:candidate-vibid:4024055189626": 36,
+      "gas:candidate-vibid:4024055201055": 2,
+      "gas:candidate-vibid:4024055203386": 3,
+      "gas:candidate-vibid:4024055189948": 5,
+      "gas:candidate-vibid:4024055203300": 3,
+      "gas:candidate-vibid:4024055189868": 90
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684933&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684933&type=464",
@@ -4881,15 +4881,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 0,
-      "Байгускарова Айгуль Ураловна": 12,
-      "Качкаев Павел Рюрикович": 208,
-      "Минниахметов Ренат Равилевич": 16,
-      "Нурисламов Борис Юрьевич": 0,
-      "Петров Виктор Григорьевич": 0,
-      "Саубанов Раис Нуриманович": 0,
-      "Сафин Фаиль Габдуллович": 0,
-      "Ющенко Александр Андреевич": 33
+      "gas:candidate-vibid:4024055203321": 0,
+      "gas:candidate-vibid:4024055203490": 12,
+      "gas:candidate-vibid:4024055203224": 208,
+      "gas:candidate-vibid:4024055189626": 16,
+      "gas:candidate-vibid:4024055201055": 0,
+      "gas:candidate-vibid:4024055203386": 0,
+      "gas:candidate-vibid:4024055189948": 0,
+      "gas:candidate-vibid:4024055203300": 0,
+      "gas:candidate-vibid:4024055189868": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684933&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684933&type=464",
@@ -4940,15 +4940,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 24,
-      "Байгускарова Айгуль Ураловна": 20,
-      "Качкаев Павел Рюрикович": 726,
-      "Минниахметов Ренат Равилевич": 10,
-      "Нурисламов Борис Юрьевич": 8,
-      "Петров Виктор Григорьевич": 28,
-      "Саубанов Раис Нуриманович": 4,
-      "Сафин Фаиль Габдуллович": 4,
-      "Ющенко Александр Андреевич": 153
+      "gas:candidate-vibid:4024055203321": 24,
+      "gas:candidate-vibid:4024055203490": 20,
+      "gas:candidate-vibid:4024055203224": 726,
+      "gas:candidate-vibid:4024055189626": 10,
+      "gas:candidate-vibid:4024055201055": 8,
+      "gas:candidate-vibid:4024055203386": 28,
+      "gas:candidate-vibid:4024055189948": 4,
+      "gas:candidate-vibid:4024055203300": 4,
+      "gas:candidate-vibid:4024055189868": 153
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684933&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684933&type=464",
@@ -4999,15 +4999,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 13,
-      "Байгускарова Айгуль Ураловна": 8,
-      "Качкаев Павел Рюрикович": 394,
-      "Минниахметов Ренат Равилевич": 29,
-      "Нурисламов Борис Юрьевич": 7,
-      "Петров Виктор Григорьевич": 5,
-      "Саубанов Раис Нуриманович": 1,
-      "Сафин Фаиль Габдуллович": 3,
-      "Ющенко Александр Андреевич": 9
+      "gas:candidate-vibid:4024055203321": 13,
+      "gas:candidate-vibid:4024055203490": 8,
+      "gas:candidate-vibid:4024055203224": 394,
+      "gas:candidate-vibid:4024055189626": 29,
+      "gas:candidate-vibid:4024055201055": 7,
+      "gas:candidate-vibid:4024055203386": 5,
+      "gas:candidate-vibid:4024055189948": 1,
+      "gas:candidate-vibid:4024055203300": 3,
+      "gas:candidate-vibid:4024055189868": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684933&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684933&type=464",
@@ -5058,15 +5058,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 6,
-      "Байгускарова Айгуль Ураловна": 15,
-      "Качкаев Павел Рюрикович": 349,
-      "Минниахметов Ренат Равилевич": 5,
-      "Нурисламов Борис Юрьевич": 5,
-      "Петров Виктор Григорьевич": 4,
-      "Саубанов Раис Нуриманович": 3,
-      "Сафин Фаиль Габдуллович": 1,
-      "Ющенко Александр Андреевич": 81
+      "gas:candidate-vibid:4024055203321": 6,
+      "gas:candidate-vibid:4024055203490": 15,
+      "gas:candidate-vibid:4024055203224": 349,
+      "gas:candidate-vibid:4024055189626": 5,
+      "gas:candidate-vibid:4024055201055": 5,
+      "gas:candidate-vibid:4024055203386": 4,
+      "gas:candidate-vibid:4024055189948": 3,
+      "gas:candidate-vibid:4024055203300": 1,
+      "gas:candidate-vibid:4024055189868": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684933&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684933&type=464",
@@ -5117,15 +5117,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 21,
-      "Байгускарова Айгуль Ураловна": 25,
-      "Качкаев Павел Рюрикович": 1259,
-      "Минниахметов Ренат Равилевич": 32,
-      "Нурисламов Борис Юрьевич": 27,
-      "Петров Виктор Григорьевич": 19,
-      "Саубанов Раис Нуриманович": 37,
-      "Сафин Фаиль Габдуллович": 29,
-      "Ющенко Александр Андреевич": 276
+      "gas:candidate-vibid:4024055203321": 21,
+      "gas:candidate-vibid:4024055203490": 25,
+      "gas:candidate-vibid:4024055203224": 1259,
+      "gas:candidate-vibid:4024055189626": 32,
+      "gas:candidate-vibid:4024055201055": 27,
+      "gas:candidate-vibid:4024055203386": 19,
+      "gas:candidate-vibid:4024055189948": 37,
+      "gas:candidate-vibid:4024055203300": 29,
+      "gas:candidate-vibid:4024055189868": 276
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684933&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684933&type=464",
@@ -5176,15 +5176,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 32,
-      "Байгускарова Айгуль Ураловна": 16,
-      "Качкаев Павел Рюрикович": 1389,
-      "Минниахметов Ренат Равилевич": 45,
-      "Нурисламов Борис Юрьевич": 25,
-      "Петров Виктор Григорьевич": 37,
-      "Саубанов Раис Нуриманович": 32,
-      "Сафин Фаиль Габдуллович": 26,
-      "Ющенко Александр Андреевич": 302
+      "gas:candidate-vibid:4024055203321": 32,
+      "gas:candidate-vibid:4024055203490": 16,
+      "gas:candidate-vibid:4024055203224": 1389,
+      "gas:candidate-vibid:4024055189626": 45,
+      "gas:candidate-vibid:4024055201055": 25,
+      "gas:candidate-vibid:4024055203386": 37,
+      "gas:candidate-vibid:4024055189948": 32,
+      "gas:candidate-vibid:4024055203300": 26,
+      "gas:candidate-vibid:4024055189868": 302
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684933&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684933&type=464",
@@ -5235,15 +5235,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 2,
-      "Байгускарова Айгуль Ураловна": 4,
-      "Качкаев Павел Рюрикович": 480,
-      "Минниахметов Ренат Равилевич": 44,
-      "Нурисламов Борис Юрьевич": 5,
-      "Петров Виктор Григорьевич": 2,
-      "Саубанов Раис Нуриманович": 2,
-      "Сафин Фаиль Габдуллович": 2,
-      "Ющенко Александр Андреевич": 95
+      "gas:candidate-vibid:4024055203321": 2,
+      "gas:candidate-vibid:4024055203490": 4,
+      "gas:candidate-vibid:4024055203224": 480,
+      "gas:candidate-vibid:4024055189626": 44,
+      "gas:candidate-vibid:4024055201055": 5,
+      "gas:candidate-vibid:4024055203386": 2,
+      "gas:candidate-vibid:4024055189948": 2,
+      "gas:candidate-vibid:4024055203300": 2,
+      "gas:candidate-vibid:4024055189868": 95
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684933&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684933&type=464",
@@ -5294,15 +5294,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 1,
-      "Байгускарова Айгуль Ураловна": 1,
-      "Качкаев Павел Рюрикович": 144,
-      "Минниахметов Ренат Равилевич": 2,
-      "Нурисламов Борис Юрьевич": 1,
-      "Петров Виктор Григорьевич": 1,
-      "Саубанов Раис Нуриманович": 5,
-      "Сафин Фаиль Габдуллович": 8,
-      "Ющенко Александр Андреевич": 31
+      "gas:candidate-vibid:4024055203321": 1,
+      "gas:candidate-vibid:4024055203490": 1,
+      "gas:candidate-vibid:4024055203224": 144,
+      "gas:candidate-vibid:4024055189626": 2,
+      "gas:candidate-vibid:4024055201055": 1,
+      "gas:candidate-vibid:4024055203386": 1,
+      "gas:candidate-vibid:4024055189948": 5,
+      "gas:candidate-vibid:4024055203300": 8,
+      "gas:candidate-vibid:4024055189868": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684933&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684933&type=464",
@@ -5353,15 +5353,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 21,
-      "Байгускарова Айгуль Ураловна": 12,
-      "Качкаев Павел Рюрикович": 560,
-      "Минниахметов Ренат Равилевич": 5,
-      "Нурисламов Борис Юрьевич": 3,
-      "Петров Виктор Григорьевич": 2,
-      "Саубанов Раис Нуриманович": 18,
-      "Сафин Фаиль Габдуллович": 17,
-      "Ющенко Александр Андреевич": 118
+      "gas:candidate-vibid:4024055203321": 21,
+      "gas:candidate-vibid:4024055203490": 12,
+      "gas:candidate-vibid:4024055203224": 560,
+      "gas:candidate-vibid:4024055189626": 5,
+      "gas:candidate-vibid:4024055201055": 3,
+      "gas:candidate-vibid:4024055203386": 2,
+      "gas:candidate-vibid:4024055189948": 18,
+      "gas:candidate-vibid:4024055203300": 17,
+      "gas:candidate-vibid:4024055189868": 118
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684933&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684933&type=464",
@@ -5412,15 +5412,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 2,
-      "Байгускарова Айгуль Ураловна": 4,
-      "Качкаев Павел Рюрикович": 227,
-      "Минниахметов Ренат Равилевич": 18,
-      "Нурисламов Борис Юрьевич": 2,
-      "Петров Виктор Григорьевич": 2,
-      "Саубанов Раис Нуриманович": 2,
-      "Сафин Фаиль Габдуллович": 1,
-      "Ющенко Александр Андреевич": 46
+      "gas:candidate-vibid:4024055203321": 2,
+      "gas:candidate-vibid:4024055203490": 4,
+      "gas:candidate-vibid:4024055203224": 227,
+      "gas:candidate-vibid:4024055189626": 18,
+      "gas:candidate-vibid:4024055201055": 2,
+      "gas:candidate-vibid:4024055203386": 2,
+      "gas:candidate-vibid:4024055189948": 2,
+      "gas:candidate-vibid:4024055203300": 1,
+      "gas:candidate-vibid:4024055189868": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684933&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684933&type=464",
@@ -5471,15 +5471,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 0,
-      "Байгускарова Айгуль Ураловна": 3,
-      "Качкаев Павел Рюрикович": 220,
-      "Минниахметов Ренат Равилевич": 6,
-      "Нурисламов Борис Юрьевич": 0,
-      "Петров Виктор Григорьевич": 0,
-      "Саубанов Раис Нуриманович": 0,
-      "Сафин Фаиль Габдуллович": 0,
-      "Ющенко Александр Андреевич": 2
+      "gas:candidate-vibid:4024055203321": 0,
+      "gas:candidate-vibid:4024055203490": 3,
+      "gas:candidate-vibid:4024055203224": 220,
+      "gas:candidate-vibid:4024055189626": 6,
+      "gas:candidate-vibid:4024055201055": 0,
+      "gas:candidate-vibid:4024055203386": 0,
+      "gas:candidate-vibid:4024055189948": 0,
+      "gas:candidate-vibid:4024055203300": 0,
+      "gas:candidate-vibid:4024055189868": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684933&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684933&type=464",
@@ -5530,15 +5530,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 16,
-      "Байгускарова Айгуль Ураловна": 82,
-      "Качкаев Павел Рюрикович": 331,
-      "Минниахметов Ренат Равилевич": 79,
-      "Нурисламов Борис Юрьевич": 22,
-      "Петров Виктор Григорьевич": 7,
-      "Саубанов Раис Нуриманович": 9,
-      "Сафин Фаиль Габдуллович": 9,
-      "Ющенко Александр Андреевич": 28
+      "gas:candidate-vibid:4024055203321": 16,
+      "gas:candidate-vibid:4024055203490": 82,
+      "gas:candidate-vibid:4024055203224": 331,
+      "gas:candidate-vibid:4024055189626": 79,
+      "gas:candidate-vibid:4024055201055": 22,
+      "gas:candidate-vibid:4024055203386": 7,
+      "gas:candidate-vibid:4024055189948": 9,
+      "gas:candidate-vibid:4024055203300": 9,
+      "gas:candidate-vibid:4024055189868": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684933&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684933&type=464",
@@ -5589,15 +5589,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 0,
-      "Байгускарова Айгуль Ураловна": 5,
-      "Качкаев Павел Рюрикович": 207,
-      "Минниахметов Ренат Равилевич": 15,
-      "Нурисламов Борис Юрьевич": 0,
-      "Петров Виктор Григорьевич": 0,
-      "Саубанов Раис Нуриманович": 0,
-      "Сафин Фаиль Габдуллович": 0,
-      "Ющенко Александр Андреевич": 5
+      "gas:candidate-vibid:4024055203321": 0,
+      "gas:candidate-vibid:4024055203490": 5,
+      "gas:candidate-vibid:4024055203224": 207,
+      "gas:candidate-vibid:4024055189626": 15,
+      "gas:candidate-vibid:4024055201055": 0,
+      "gas:candidate-vibid:4024055203386": 0,
+      "gas:candidate-vibid:4024055189948": 0,
+      "gas:candidate-vibid:4024055203300": 0,
+      "gas:candidate-vibid:4024055189868": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684933&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684933&type=464",
@@ -5648,15 +5648,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 3,
-      "Байгускарова Айгуль Ураловна": 26,
-      "Качкаев Павел Рюрикович": 167,
-      "Минниахметов Ренат Равилевич": 42,
-      "Нурисламов Борис Юрьевич": 10,
-      "Петров Виктор Григорьевич": 1,
-      "Саубанов Раис Нуриманович": 2,
-      "Сафин Фаиль Габдуллович": 5,
-      "Ющенко Александр Андреевич": 13
+      "gas:candidate-vibid:4024055203321": 3,
+      "gas:candidate-vibid:4024055203490": 26,
+      "gas:candidate-vibid:4024055203224": 167,
+      "gas:candidate-vibid:4024055189626": 42,
+      "gas:candidate-vibid:4024055201055": 10,
+      "gas:candidate-vibid:4024055203386": 1,
+      "gas:candidate-vibid:4024055189948": 2,
+      "gas:candidate-vibid:4024055203300": 5,
+      "gas:candidate-vibid:4024055189868": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684933&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684933&type=464",
@@ -5707,15 +5707,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 3,
-      "Байгускарова Айгуль Ураловна": 2,
-      "Качкаев Павел Рюрикович": 188,
-      "Минниахметов Ренат Равилевич": 0,
-      "Нурисламов Борис Юрьевич": 0,
-      "Петров Виктор Григорьевич": 0,
-      "Саубанов Раис Нуриманович": 5,
-      "Сафин Фаиль Габдуллович": 1,
-      "Ющенко Александр Андреевич": 6
+      "gas:candidate-vibid:4024055203321": 3,
+      "gas:candidate-vibid:4024055203490": 2,
+      "gas:candidate-vibid:4024055203224": 188,
+      "gas:candidate-vibid:4024055189626": 0,
+      "gas:candidate-vibid:4024055201055": 0,
+      "gas:candidate-vibid:4024055203386": 0,
+      "gas:candidate-vibid:4024055189948": 5,
+      "gas:candidate-vibid:4024055203300": 1,
+      "gas:candidate-vibid:4024055189868": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684933&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684933&type=464",
@@ -5766,15 +5766,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 4,
-      "Байгускарова Айгуль Ураловна": 34,
-      "Качкаев Павел Рюрикович": 441,
-      "Минниахметов Ренат Равилевич": 31,
-      "Нурисламов Борис Юрьевич": 16,
-      "Петров Виктор Григорьевич": 2,
-      "Саубанов Раис Нуриманович": 7,
-      "Сафин Фаиль Габдуллович": 10,
-      "Ющенко Александр Андреевич": 15
+      "gas:candidate-vibid:4024055203321": 4,
+      "gas:candidate-vibid:4024055203490": 34,
+      "gas:candidate-vibid:4024055203224": 441,
+      "gas:candidate-vibid:4024055189626": 31,
+      "gas:candidate-vibid:4024055201055": 16,
+      "gas:candidate-vibid:4024055203386": 2,
+      "gas:candidate-vibid:4024055189948": 7,
+      "gas:candidate-vibid:4024055203300": 10,
+      "gas:candidate-vibid:4024055189868": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684933&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684933&type=464",
@@ -5825,15 +5825,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 2,
-      "Байгускарова Айгуль Ураловна": 10,
-      "Качкаев Павел Рюрикович": 236,
-      "Минниахметов Ренат Равилевич": 14,
-      "Нурисламов Борис Юрьевич": 2,
-      "Петров Виктор Григорьевич": 0,
-      "Саубанов Раис Нуриманович": 0,
-      "Сафин Фаиль Габдуллович": 1,
-      "Ющенко Александр Андреевич": 8
+      "gas:candidate-vibid:4024055203321": 2,
+      "gas:candidate-vibid:4024055203490": 10,
+      "gas:candidate-vibid:4024055203224": 236,
+      "gas:candidate-vibid:4024055189626": 14,
+      "gas:candidate-vibid:4024055201055": 2,
+      "gas:candidate-vibid:4024055203386": 0,
+      "gas:candidate-vibid:4024055189948": 0,
+      "gas:candidate-vibid:4024055203300": 1,
+      "gas:candidate-vibid:4024055189868": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684933&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684933&type=464",
@@ -5884,15 +5884,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 9,
-      "Байгускарова Айгуль Ураловна": 32,
-      "Качкаев Павел Рюрикович": 544,
-      "Минниахметов Ренат Равилевич": 28,
-      "Нурисламов Борис Юрьевич": 1,
-      "Петров Виктор Григорьевич": 0,
-      "Саубанов Раис Нуриманович": 6,
-      "Сафин Фаиль Габдуллович": 7,
-      "Ющенко Александр Андреевич": 115
+      "gas:candidate-vibid:4024055203321": 9,
+      "gas:candidate-vibid:4024055203490": 32,
+      "gas:candidate-vibid:4024055203224": 544,
+      "gas:candidate-vibid:4024055189626": 28,
+      "gas:candidate-vibid:4024055201055": 1,
+      "gas:candidate-vibid:4024055203386": 0,
+      "gas:candidate-vibid:4024055189948": 6,
+      "gas:candidate-vibid:4024055203300": 7,
+      "gas:candidate-vibid:4024055189868": 115
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684933&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684933&type=464",
@@ -5943,15 +5943,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 11,
-      "Байгускарова Айгуль Ураловна": 13,
-      "Качкаев Павел Рюрикович": 444,
-      "Минниахметов Ренат Равилевич": 14,
-      "Нурисламов Борис Юрьевич": 9,
-      "Петров Виктор Григорьевич": 3,
-      "Саубанов Раис Нуриманович": 2,
-      "Сафин Фаиль Габдуллович": 0,
-      "Ющенко Александр Андреевич": 91
+      "gas:candidate-vibid:4024055203321": 11,
+      "gas:candidate-vibid:4024055203490": 13,
+      "gas:candidate-vibid:4024055203224": 444,
+      "gas:candidate-vibid:4024055189626": 14,
+      "gas:candidate-vibid:4024055201055": 9,
+      "gas:candidate-vibid:4024055203386": 3,
+      "gas:candidate-vibid:4024055189948": 2,
+      "gas:candidate-vibid:4024055203300": 0,
+      "gas:candidate-vibid:4024055189868": 91
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684933&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684933&type=464",
@@ -6002,15 +6002,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 7,
-      "Байгускарова Айгуль Ураловна": 10,
-      "Качкаев Павел Рюрикович": 527,
-      "Минниахметов Ренат Равилевич": 6,
-      "Нурисламов Борис Юрьевич": 2,
-      "Петров Виктор Григорьевич": 1,
-      "Саубанов Раис Нуриманович": 7,
-      "Сафин Фаиль Габдуллович": 3,
-      "Ющенко Александр Андреевич": 113
+      "gas:candidate-vibid:4024055203321": 7,
+      "gas:candidate-vibid:4024055203490": 10,
+      "gas:candidate-vibid:4024055203224": 527,
+      "gas:candidate-vibid:4024055189626": 6,
+      "gas:candidate-vibid:4024055201055": 2,
+      "gas:candidate-vibid:4024055203386": 1,
+      "gas:candidate-vibid:4024055189948": 7,
+      "gas:candidate-vibid:4024055203300": 3,
+      "gas:candidate-vibid:4024055189868": 113
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684933&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684933&type=464",
@@ -6061,15 +6061,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 27,
-      "Байгускарова Айгуль Ураловна": 24,
-      "Качкаев Павел Рюрикович": 454,
-      "Минниахметов Ренат Равилевич": 41,
-      "Нурисламов Борис Юрьевич": 9,
-      "Петров Виктор Григорьевич": 6,
-      "Саубанов Раис Нуриманович": 6,
-      "Сафин Фаиль Габдуллович": 11,
-      "Ющенко Александр Андреевич": 304
+      "gas:candidate-vibid:4024055203321": 27,
+      "gas:candidate-vibid:4024055203490": 24,
+      "gas:candidate-vibid:4024055203224": 454,
+      "gas:candidate-vibid:4024055189626": 41,
+      "gas:candidate-vibid:4024055201055": 9,
+      "gas:candidate-vibid:4024055203386": 6,
+      "gas:candidate-vibid:4024055189948": 6,
+      "gas:candidate-vibid:4024055203300": 11,
+      "gas:candidate-vibid:4024055189868": 304
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684934&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684934&type=464",
@@ -6120,15 +6120,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 48,
-      "Байгускарова Айгуль Ураловна": 102,
-      "Качкаев Павел Рюрикович": 485,
-      "Минниахметов Ренат Равилевич": 0,
-      "Нурисламов Борис Юрьевич": 69,
-      "Петров Виктор Григорьевич": 34,
-      "Саубанов Раис Нуриманович": 0,
-      "Сафин Фаиль Габдуллович": 42,
-      "Ющенко Александр Андреевич": 237
+      "gas:candidate-vibid:4024055203321": 48,
+      "gas:candidate-vibid:4024055203490": 102,
+      "gas:candidate-vibid:4024055203224": 485,
+      "gas:candidate-vibid:4024055189626": 0,
+      "gas:candidate-vibid:4024055201055": 69,
+      "gas:candidate-vibid:4024055203386": 34,
+      "gas:candidate-vibid:4024055189948": 0,
+      "gas:candidate-vibid:4024055203300": 42,
+      "gas:candidate-vibid:4024055189868": 237
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684934&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684934&type=464",
@@ -6179,15 +6179,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 39,
-      "Байгускарова Айгуль Ураловна": 10,
-      "Качкаев Павел Рюрикович": 400,
-      "Минниахметов Ренат Равилевич": 20,
-      "Нурисламов Борис Юрьевич": 43,
-      "Петров Виктор Григорьевич": 35,
-      "Саубанов Раис Нуриманович": 40,
-      "Сафин Фаиль Габдуллович": 10,
-      "Ющенко Александр Андреевич": 263
+      "gas:candidate-vibid:4024055203321": 39,
+      "gas:candidate-vibid:4024055203490": 10,
+      "gas:candidate-vibid:4024055203224": 400,
+      "gas:candidate-vibid:4024055189626": 20,
+      "gas:candidate-vibid:4024055201055": 43,
+      "gas:candidate-vibid:4024055203386": 35,
+      "gas:candidate-vibid:4024055189948": 40,
+      "gas:candidate-vibid:4024055203300": 10,
+      "gas:candidate-vibid:4024055189868": 263
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684934&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684934&type=464",
@@ -6238,15 +6238,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 19,
-      "Байгускарова Айгуль Ураловна": 26,
-      "Качкаев Павел Рюрикович": 144,
-      "Минниахметов Ренат Равилевич": 61,
-      "Нурисламов Борис Юрьевич": 11,
-      "Петров Виктор Григорьевич": 10,
-      "Саубанов Раис Нуриманович": 10,
-      "Сафин Фаиль Габдуллович": 22,
-      "Ющенко Александр Андреевич": 45
+      "gas:candidate-vibid:4024055203321": 19,
+      "gas:candidate-vibid:4024055203490": 26,
+      "gas:candidate-vibid:4024055203224": 144,
+      "gas:candidate-vibid:4024055189626": 61,
+      "gas:candidate-vibid:4024055201055": 11,
+      "gas:candidate-vibid:4024055203386": 10,
+      "gas:candidate-vibid:4024055189948": 10,
+      "gas:candidate-vibid:4024055203300": 22,
+      "gas:candidate-vibid:4024055189868": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684934&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684934&type=464",
@@ -6297,15 +6297,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 21,
-      "Байгускарова Айгуль Ураловна": 10,
-      "Качкаев Павел Рюрикович": 169,
-      "Минниахметов Ренат Равилевич": 19,
-      "Нурисламов Борис Юрьевич": 10,
-      "Петров Виктор Григорьевич": 2,
-      "Саубанов Раис Нуриманович": 7,
-      "Сафин Фаиль Габдуллович": 5,
-      "Ющенко Александр Андреевич": 70
+      "gas:candidate-vibid:4024055203321": 21,
+      "gas:candidate-vibid:4024055203490": 10,
+      "gas:candidate-vibid:4024055203224": 169,
+      "gas:candidate-vibid:4024055189626": 19,
+      "gas:candidate-vibid:4024055201055": 10,
+      "gas:candidate-vibid:4024055203386": 2,
+      "gas:candidate-vibid:4024055189948": 7,
+      "gas:candidate-vibid:4024055203300": 5,
+      "gas:candidate-vibid:4024055189868": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684934&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684934&type=464",
@@ -6356,15 +6356,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 69,
-      "Байгускарова Айгуль Ураловна": 60,
-      "Качкаев Павел Рюрикович": 398,
-      "Минниахметов Ренат Равилевич": 52,
-      "Нурисламов Борис Юрьевич": 21,
-      "Петров Виктор Григорьевич": 0,
-      "Саубанов Раис Нуриманович": 26,
-      "Сафин Фаиль Габдуллович": 41,
-      "Ющенко Александр Андреевич": 190
+      "gas:candidate-vibid:4024055203321": 69,
+      "gas:candidate-vibid:4024055203490": 60,
+      "gas:candidate-vibid:4024055203224": 398,
+      "gas:candidate-vibid:4024055189626": 52,
+      "gas:candidate-vibid:4024055201055": 21,
+      "gas:candidate-vibid:4024055203386": 0,
+      "gas:candidate-vibid:4024055189948": 26,
+      "gas:candidate-vibid:4024055203300": 41,
+      "gas:candidate-vibid:4024055189868": 190
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684934&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684934&type=464",
@@ -6415,15 +6415,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 6,
-      "Байгускарова Айгуль Ураловна": 22,
-      "Качкаев Павел Рюрикович": 184,
-      "Минниахметов Ренат Равилевич": 39,
-      "Нурисламов Борис Юрьевич": 14,
-      "Петров Виктор Григорьевич": 5,
-      "Саубанов Раис Нуриманович": 6,
-      "Сафин Фаиль Габдуллович": 8,
-      "Ющенко Александр Андреевич": 81
+      "gas:candidate-vibid:4024055203321": 6,
+      "gas:candidate-vibid:4024055203490": 22,
+      "gas:candidate-vibid:4024055203224": 184,
+      "gas:candidate-vibid:4024055189626": 39,
+      "gas:candidate-vibid:4024055201055": 14,
+      "gas:candidate-vibid:4024055203386": 5,
+      "gas:candidate-vibid:4024055189948": 6,
+      "gas:candidate-vibid:4024055203300": 8,
+      "gas:candidate-vibid:4024055189868": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684934&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684934&type=464",
@@ -6474,15 +6474,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 30,
-      "Байгускарова Айгуль Ураловна": 40,
-      "Качкаев Павел Рюрикович": 235,
-      "Минниахметов Ренат Равилевич": 40,
-      "Нурисламов Борис Юрьевич": 16,
-      "Петров Виктор Григорьевич": 0,
-      "Саубанов Раис Нуриманович": 16,
-      "Сафин Фаиль Габдуллович": 10,
-      "Ющенко Александр Андреевич": 105
+      "gas:candidate-vibid:4024055203321": 30,
+      "gas:candidate-vibid:4024055203490": 40,
+      "gas:candidate-vibid:4024055203224": 235,
+      "gas:candidate-vibid:4024055189626": 40,
+      "gas:candidate-vibid:4024055201055": 16,
+      "gas:candidate-vibid:4024055203386": 0,
+      "gas:candidate-vibid:4024055189948": 16,
+      "gas:candidate-vibid:4024055203300": 10,
+      "gas:candidate-vibid:4024055189868": 105
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684934&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684934&type=464",
@@ -6533,15 +6533,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 8,
-      "Байгускарова Айгуль Ураловна": 216,
-      "Качкаев Павел Рюрикович": 455,
-      "Минниахметов Ренат Равилевич": 38,
-      "Нурисламов Борис Юрьевич": 11,
-      "Петров Виктор Григорьевич": 13,
-      "Саубанов Раис Нуриманович": 7,
-      "Сафин Фаиль Габдуллович": 30,
-      "Ющенко Александр Андреевич": 225
+      "gas:candidate-vibid:4024055203321": 8,
+      "gas:candidate-vibid:4024055203490": 216,
+      "gas:candidate-vibid:4024055203224": 455,
+      "gas:candidate-vibid:4024055189626": 38,
+      "gas:candidate-vibid:4024055201055": 11,
+      "gas:candidate-vibid:4024055203386": 13,
+      "gas:candidate-vibid:4024055189948": 7,
+      "gas:candidate-vibid:4024055203300": 30,
+      "gas:candidate-vibid:4024055189868": 225
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684934&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684934&type=464",
@@ -6592,15 +6592,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 29,
-      "Байгускарова Айгуль Ураловна": 28,
-      "Качкаев Павел Рюрикович": 585,
-      "Минниахметов Ренат Равилевич": 54,
-      "Нурисламов Борис Юрьевич": 26,
-      "Петров Виктор Григорьевич": 23,
-      "Саубанов Раис Нуриманович": 15,
-      "Сафин Фаиль Габдуллович": 41,
-      "Ющенко Александр Андреевич": 279
+      "gas:candidate-vibid:4024055203321": 29,
+      "gas:candidate-vibid:4024055203490": 28,
+      "gas:candidate-vibid:4024055203224": 585,
+      "gas:candidate-vibid:4024055189626": 54,
+      "gas:candidate-vibid:4024055201055": 26,
+      "gas:candidate-vibid:4024055203386": 23,
+      "gas:candidate-vibid:4024055189948": 15,
+      "gas:candidate-vibid:4024055203300": 41,
+      "gas:candidate-vibid:4024055189868": 279
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684934&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684934&type=464",
@@ -6651,15 +6651,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 56,
-      "Байгускарова Айгуль Ураловна": 16,
-      "Качкаев Павел Рюрикович": 600,
-      "Минниахметов Ренат Равилевич": 150,
-      "Нурисламов Борис Юрьевич": 21,
-      "Петров Виктор Григорьевич": 17,
-      "Саубанов Раис Нуриманович": 8,
-      "Сафин Фаиль Габдуллович": 15,
-      "Ющенко Александр Андреевич": 171
+      "gas:candidate-vibid:4024055203321": 56,
+      "gas:candidate-vibid:4024055203490": 16,
+      "gas:candidate-vibid:4024055203224": 600,
+      "gas:candidate-vibid:4024055189626": 150,
+      "gas:candidate-vibid:4024055201055": 21,
+      "gas:candidate-vibid:4024055203386": 17,
+      "gas:candidate-vibid:4024055189948": 8,
+      "gas:candidate-vibid:4024055203300": 15,
+      "gas:candidate-vibid:4024055189868": 171
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684934&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684934&type=464",
@@ -6710,15 +6710,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 11,
-      "Байгускарова Айгуль Ураловна": 5,
-      "Качкаев Павел Рюрикович": 215,
-      "Минниахметов Ренат Равилевич": 16,
-      "Нурисламов Борис Юрьевич": 6,
-      "Петров Виктор Григорьевич": 4,
-      "Саубанов Раис Нуриманович": 3,
-      "Сафин Фаиль Габдуллович": 6,
-      "Ющенко Александр Андреевич": 77
+      "gas:candidate-vibid:4024055203321": 11,
+      "gas:candidate-vibid:4024055203490": 5,
+      "gas:candidate-vibid:4024055203224": 215,
+      "gas:candidate-vibid:4024055189626": 16,
+      "gas:candidate-vibid:4024055201055": 6,
+      "gas:candidate-vibid:4024055203386": 4,
+      "gas:candidate-vibid:4024055189948": 3,
+      "gas:candidate-vibid:4024055203300": 6,
+      "gas:candidate-vibid:4024055189868": 77
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684934&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684934&type=464",
@@ -6769,15 +6769,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 16,
-      "Байгускарова Айгуль Ураловна": 26,
-      "Качкаев Павел Рюрикович": 383,
-      "Минниахметов Ренат Равилевич": 27,
-      "Нурисламов Борис Юрьевич": 4,
-      "Петров Виктор Григорьевич": 10,
-      "Саубанов Раис Нуриманович": 3,
-      "Сафин Фаиль Габдуллович": 10,
-      "Ющенко Александр Андреевич": 143
+      "gas:candidate-vibid:4024055203321": 16,
+      "gas:candidate-vibid:4024055203490": 26,
+      "gas:candidate-vibid:4024055203224": 383,
+      "gas:candidate-vibid:4024055189626": 27,
+      "gas:candidate-vibid:4024055201055": 4,
+      "gas:candidate-vibid:4024055203386": 10,
+      "gas:candidate-vibid:4024055189948": 3,
+      "gas:candidate-vibid:4024055203300": 10,
+      "gas:candidate-vibid:4024055189868": 143
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684934&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684934&type=464",
@@ -6828,15 +6828,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 0,
-      "Байгускарова Айгуль Ураловна": 0,
-      "Качкаев Павел Рюрикович": 572,
-      "Минниахметов Ренат Равилевич": 50,
-      "Нурисламов Борис Юрьевич": 0,
-      "Петров Виктор Григорьевич": 0,
-      "Саубанов Раис Нуриманович": 49,
-      "Сафин Фаиль Габдуллович": 0,
-      "Ющенко Александр Андреевич": 285
+      "gas:candidate-vibid:4024055203321": 0,
+      "gas:candidate-vibid:4024055203490": 0,
+      "gas:candidate-vibid:4024055203224": 572,
+      "gas:candidate-vibid:4024055189626": 50,
+      "gas:candidate-vibid:4024055201055": 0,
+      "gas:candidate-vibid:4024055203386": 0,
+      "gas:candidate-vibid:4024055189948": 49,
+      "gas:candidate-vibid:4024055203300": 0,
+      "gas:candidate-vibid:4024055189868": 285
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684934&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684934&type=464",
@@ -6887,15 +6887,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 0,
-      "Байгускарова Айгуль Ураловна": 14,
-      "Качкаев Павел Рюрикович": 310,
-      "Минниахметов Ренат Равилевич": 9,
-      "Нурисламов Борис Юрьевич": 14,
-      "Петров Виктор Григорьевич": 0,
-      "Саубанов Раис Нуриманович": 27,
-      "Сафин Фаиль Габдуллович": 7,
-      "Ющенко Александр Андреевич": 16
+      "gas:candidate-vibid:4024055203321": 0,
+      "gas:candidate-vibid:4024055203490": 14,
+      "gas:candidate-vibid:4024055203224": 310,
+      "gas:candidate-vibid:4024055189626": 9,
+      "gas:candidate-vibid:4024055201055": 14,
+      "gas:candidate-vibid:4024055203386": 0,
+      "gas:candidate-vibid:4024055189948": 27,
+      "gas:candidate-vibid:4024055203300": 7,
+      "gas:candidate-vibid:4024055189868": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684934&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684934&type=464",
@@ -6946,15 +6946,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 3,
-      "Байгускарова Айгуль Ураловна": 14,
-      "Качкаев Павел Рюрикович": 172,
-      "Минниахметов Ренат Равилевич": 8,
-      "Нурисламов Борис Юрьевич": 4,
-      "Петров Виктор Григорьевич": 3,
-      "Саубанов Раис Нуриманович": 7,
-      "Сафин Фаиль Габдуллович": 6,
-      "Ющенко Александр Андреевич": 28
+      "gas:candidate-vibid:4024055203321": 3,
+      "gas:candidate-vibid:4024055203490": 14,
+      "gas:candidate-vibid:4024055203224": 172,
+      "gas:candidate-vibid:4024055189626": 8,
+      "gas:candidate-vibid:4024055201055": 4,
+      "gas:candidate-vibid:4024055203386": 3,
+      "gas:candidate-vibid:4024055189948": 7,
+      "gas:candidate-vibid:4024055203300": 6,
+      "gas:candidate-vibid:4024055189868": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684934&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684934&type=464",
@@ -7005,15 +7005,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 60,
-      "Байгускарова Айгуль Ураловна": 46,
-      "Качкаев Павел Рюрикович": 15,
-      "Минниахметов Ренат Равилевич": 63,
-      "Нурисламов Борис Юрьевич": 30,
-      "Петров Виктор Григорьевич": 55,
-      "Саубанов Раис Нуриманович": 40,
-      "Сафин Фаиль Габдуллович": 65,
-      "Ющенко Александр Андреевич": 50
+      "gas:candidate-vibid:4024055203321": 60,
+      "gas:candidate-vibid:4024055203490": 46,
+      "gas:candidate-vibid:4024055203224": 15,
+      "gas:candidate-vibid:4024055189626": 63,
+      "gas:candidate-vibid:4024055201055": 30,
+      "gas:candidate-vibid:4024055203386": 55,
+      "gas:candidate-vibid:4024055189948": 40,
+      "gas:candidate-vibid:4024055203300": 65,
+      "gas:candidate-vibid:4024055189868": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684934&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684934&type=464",
@@ -7064,15 +7064,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 0,
-      "Байгускарова Айгуль Ураловна": 5,
-      "Качкаев Павел Рюрикович": 185,
-      "Минниахметов Ренат Равилевич": 98,
-      "Нурисламов Борис Юрьевич": 0,
-      "Петров Виктор Григорьевич": 0,
-      "Саубанов Раис Нуриманович": 2,
-      "Сафин Фаиль Габдуллович": 32,
-      "Ющенко Александр Андреевич": 90
+      "gas:candidate-vibid:4024055203321": 0,
+      "gas:candidate-vibid:4024055203490": 5,
+      "gas:candidate-vibid:4024055203224": 185,
+      "gas:candidate-vibid:4024055189626": 98,
+      "gas:candidate-vibid:4024055201055": 0,
+      "gas:candidate-vibid:4024055203386": 0,
+      "gas:candidate-vibid:4024055189948": 2,
+      "gas:candidate-vibid:4024055203300": 32,
+      "gas:candidate-vibid:4024055189868": 90
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684934&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684934&type=464",
@@ -7123,15 +7123,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 0,
-      "Байгускарова Айгуль Ураловна": 12,
-      "Качкаев Павел Рюрикович": 142,
-      "Минниахметов Ренат Равилевич": 76,
-      "Нурисламов Борис Юрьевич": 0,
-      "Петров Виктор Григорьевич": 0,
-      "Саубанов Раис Нуриманович": 3,
-      "Сафин Фаиль Габдуллович": 13,
-      "Ющенко Александр Андреевич": 69
+      "gas:candidate-vibid:4024055203321": 0,
+      "gas:candidate-vibid:4024055203490": 12,
+      "gas:candidate-vibid:4024055203224": 142,
+      "gas:candidate-vibid:4024055189626": 76,
+      "gas:candidate-vibid:4024055201055": 0,
+      "gas:candidate-vibid:4024055203386": 0,
+      "gas:candidate-vibid:4024055189948": 3,
+      "gas:candidate-vibid:4024055203300": 13,
+      "gas:candidate-vibid:4024055189868": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684934&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684934&type=464",
@@ -7182,15 +7182,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 31,
-      "Байгускарова Айгуль Ураловна": 17,
-      "Качкаев Павел Рюрикович": 234,
-      "Минниахметов Ренат Равилевич": 101,
-      "Нурисламов Борис Юрьевич": 9,
-      "Петров Виктор Григорьевич": 3,
-      "Саубанов Раис Нуриманович": 2,
-      "Сафин Фаиль Габдуллович": 4,
-      "Ющенко Александр Андреевич": 114
+      "gas:candidate-vibid:4024055203321": 31,
+      "gas:candidate-vibid:4024055203490": 17,
+      "gas:candidate-vibid:4024055203224": 234,
+      "gas:candidate-vibid:4024055189626": 101,
+      "gas:candidate-vibid:4024055201055": 9,
+      "gas:candidate-vibid:4024055203386": 3,
+      "gas:candidate-vibid:4024055189948": 2,
+      "gas:candidate-vibid:4024055203300": 4,
+      "gas:candidate-vibid:4024055189868": 114
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684934&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684934&type=464",
@@ -7241,15 +7241,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 0,
-      "Байгускарова Айгуль Ураловна": 32,
-      "Качкаев Павел Рюрикович": 192,
-      "Минниахметов Ренат Равилевич": 31,
-      "Нурисламов Борис Юрьевич": 0,
-      "Петров Виктор Григорьевич": 0,
-      "Саубанов Раис Нуриманович": 13,
-      "Сафин Фаиль Габдуллович": 18,
-      "Ющенко Александр Андреевич": 81
+      "gas:candidate-vibid:4024055203321": 0,
+      "gas:candidate-vibid:4024055203490": 32,
+      "gas:candidate-vibid:4024055203224": 192,
+      "gas:candidate-vibid:4024055189626": 31,
+      "gas:candidate-vibid:4024055201055": 0,
+      "gas:candidate-vibid:4024055203386": 0,
+      "gas:candidate-vibid:4024055189948": 13,
+      "gas:candidate-vibid:4024055203300": 18,
+      "gas:candidate-vibid:4024055189868": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684934&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684934&type=464",
@@ -7300,15 +7300,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 5,
-      "Байгускарова Айгуль Ураловна": 14,
-      "Качкаев Павел Рюрикович": 135,
-      "Минниахметов Ренат Равилевич": 18,
-      "Нурисламов Борис Юрьевич": 10,
-      "Петров Виктор Григорьевич": 8,
-      "Саубанов Раис Нуриманович": 16,
-      "Сафин Фаиль Габдуллович": 27,
-      "Ющенко Александр Андреевич": 66
+      "gas:candidate-vibid:4024055203321": 5,
+      "gas:candidate-vibid:4024055203490": 14,
+      "gas:candidate-vibid:4024055203224": 135,
+      "gas:candidate-vibid:4024055189626": 18,
+      "gas:candidate-vibid:4024055201055": 10,
+      "gas:candidate-vibid:4024055203386": 8,
+      "gas:candidate-vibid:4024055189948": 16,
+      "gas:candidate-vibid:4024055203300": 27,
+      "gas:candidate-vibid:4024055189868": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684934&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684934&type=464",
@@ -7359,15 +7359,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 0,
-      "Байгускарова Айгуль Ураловна": 17,
-      "Качкаев Павел Рюрикович": 191,
-      "Минниахметов Ренат Равилевич": 6,
-      "Нурисламов Борис Юрьевич": 0,
-      "Петров Виктор Григорьевич": 0,
-      "Саубанов Раис Нуриманович": 11,
-      "Сафин Фаиль Габдуллович": 6,
-      "Ющенко Александр Андреевич": 74
+      "gas:candidate-vibid:4024055203321": 0,
+      "gas:candidate-vibid:4024055203490": 17,
+      "gas:candidate-vibid:4024055203224": 191,
+      "gas:candidate-vibid:4024055189626": 6,
+      "gas:candidate-vibid:4024055201055": 0,
+      "gas:candidate-vibid:4024055203386": 0,
+      "gas:candidate-vibid:4024055189948": 11,
+      "gas:candidate-vibid:4024055203300": 6,
+      "gas:candidate-vibid:4024055189868": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684934&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684934&type=464",
@@ -7418,15 +7418,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 2,
-      "Байгускарова Айгуль Ураловна": 14,
-      "Качкаев Павел Рюрикович": 183,
-      "Минниахметов Ренат Равилевич": 5,
-      "Нурисламов Борис Юрьевич": 5,
-      "Петров Виктор Григорьевич": 0,
-      "Саубанов Раис Нуриманович": 10,
-      "Сафин Фаиль Габдуллович": 0,
-      "Ющенко Александр Андреевич": 42
+      "gas:candidate-vibid:4024055203321": 2,
+      "gas:candidate-vibid:4024055203490": 14,
+      "gas:candidate-vibid:4024055203224": 183,
+      "gas:candidate-vibid:4024055189626": 5,
+      "gas:candidate-vibid:4024055201055": 5,
+      "gas:candidate-vibid:4024055203386": 0,
+      "gas:candidate-vibid:4024055189948": 10,
+      "gas:candidate-vibid:4024055203300": 0,
+      "gas:candidate-vibid:4024055189868": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684934&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684934&type=464",
@@ -7477,15 +7477,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 6,
-      "Байгускарова Айгуль Ураловна": 11,
-      "Качкаев Павел Рюрикович": 336,
-      "Минниахметов Ренат Равилевич": 16,
-      "Нурисламов Борис Юрьевич": 14,
-      "Петров Виктор Григорьевич": 6,
-      "Саубанов Раис Нуриманович": 54,
-      "Сафин Фаиль Габдуллович": 17,
-      "Ющенко Александр Андреевич": 61
+      "gas:candidate-vibid:4024055203321": 6,
+      "gas:candidate-vibid:4024055203490": 11,
+      "gas:candidate-vibid:4024055203224": 336,
+      "gas:candidate-vibid:4024055189626": 16,
+      "gas:candidate-vibid:4024055201055": 14,
+      "gas:candidate-vibid:4024055203386": 6,
+      "gas:candidate-vibid:4024055189948": 54,
+      "gas:candidate-vibid:4024055203300": 17,
+      "gas:candidate-vibid:4024055189868": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684934&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684934&type=464",
@@ -7536,15 +7536,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 2,
-      "Байгускарова Айгуль Ураловна": 46,
-      "Качкаев Павел Рюрикович": 208,
-      "Минниахметов Ренат Равилевич": 55,
-      "Нурисламов Борис Юрьевич": 4,
-      "Петров Виктор Григорьевич": 2,
-      "Саубанов Раис Нуриманович": 21,
-      "Сафин Фаиль Габдуллович": 20,
-      "Ющенко Александр Андреевич": 37
+      "gas:candidate-vibid:4024055203321": 2,
+      "gas:candidate-vibid:4024055203490": 46,
+      "gas:candidate-vibid:4024055203224": 208,
+      "gas:candidate-vibid:4024055189626": 55,
+      "gas:candidate-vibid:4024055201055": 4,
+      "gas:candidate-vibid:4024055203386": 2,
+      "gas:candidate-vibid:4024055189948": 21,
+      "gas:candidate-vibid:4024055203300": 20,
+      "gas:candidate-vibid:4024055189868": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684934&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684934&type=464",
@@ -7595,15 +7595,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 4,
-      "Байгускарова Айгуль Ураловна": 16,
-      "Качкаев Павел Рюрикович": 178,
-      "Минниахметов Ренат Равилевич": 36,
-      "Нурисламов Борис Юрьевич": 8,
-      "Петров Виктор Григорьевич": 0,
-      "Саубанов Раис Нуриманович": 12,
-      "Сафин Фаиль Габдуллович": 9,
-      "Ющенко Александр Андреевич": 28
+      "gas:candidate-vibid:4024055203321": 4,
+      "gas:candidate-vibid:4024055203490": 16,
+      "gas:candidate-vibid:4024055203224": 178,
+      "gas:candidate-vibid:4024055189626": 36,
+      "gas:candidate-vibid:4024055201055": 8,
+      "gas:candidate-vibid:4024055203386": 0,
+      "gas:candidate-vibid:4024055189948": 12,
+      "gas:candidate-vibid:4024055203300": 9,
+      "gas:candidate-vibid:4024055189868": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684934&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684934&type=464",
@@ -7654,15 +7654,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 4,
-      "Байгускарова Айгуль Ураловна": 39,
-      "Качкаев Павел Рюрикович": 341,
-      "Минниахметов Ренат Равилевич": 38,
-      "Нурисламов Борис Юрьевич": 10,
-      "Петров Виктор Григорьевич": 0,
-      "Саубанов Раис Нуриманович": 24,
-      "Сафин Фаиль Габдуллович": 12,
-      "Ющенко Александр Андреевич": 60
+      "gas:candidate-vibid:4024055203321": 4,
+      "gas:candidate-vibid:4024055203490": 39,
+      "gas:candidate-vibid:4024055203224": 341,
+      "gas:candidate-vibid:4024055189626": 38,
+      "gas:candidate-vibid:4024055201055": 10,
+      "gas:candidate-vibid:4024055203386": 0,
+      "gas:candidate-vibid:4024055189948": 24,
+      "gas:candidate-vibid:4024055203300": 12,
+      "gas:candidate-vibid:4024055189868": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684934&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684934&type=464",
@@ -7713,15 +7713,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 0,
-      "Байгускарова Айгуль Ураловна": 16,
-      "Качкаев Павел Рюрикович": 132,
-      "Минниахметов Ренат Равилевич": 6,
-      "Нурисламов Борис Юрьевич": 0,
-      "Петров Виктор Григорьевич": 0,
-      "Саубанов Раис Нуриманович": 6,
-      "Сафин Фаиль Габдуллович": 0,
-      "Ющенко Александр Андреевич": 23
+      "gas:candidate-vibid:4024055203321": 0,
+      "gas:candidate-vibid:4024055203490": 16,
+      "gas:candidate-vibid:4024055203224": 132,
+      "gas:candidate-vibid:4024055189626": 6,
+      "gas:candidate-vibid:4024055201055": 0,
+      "gas:candidate-vibid:4024055203386": 0,
+      "gas:candidate-vibid:4024055189948": 6,
+      "gas:candidate-vibid:4024055203300": 0,
+      "gas:candidate-vibid:4024055189868": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684934&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684934&type=464",
@@ -7772,15 +7772,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 7,
-      "Байгускарова Айгуль Ураловна": 37,
-      "Качкаев Павел Рюрикович": 189,
-      "Минниахметов Ренат Равилевич": 52,
-      "Нурисламов Борис Юрьевич": 8,
-      "Петров Виктор Григорьевич": 0,
-      "Саубанов Раис Нуриманович": 12,
-      "Сафин Фаиль Габдуллович": 0,
-      "Ющенко Александр Андреевич": 86
+      "gas:candidate-vibid:4024055203321": 7,
+      "gas:candidate-vibid:4024055203490": 37,
+      "gas:candidate-vibid:4024055203224": 189,
+      "gas:candidate-vibid:4024055189626": 52,
+      "gas:candidate-vibid:4024055201055": 8,
+      "gas:candidate-vibid:4024055203386": 0,
+      "gas:candidate-vibid:4024055189948": 12,
+      "gas:candidate-vibid:4024055203300": 0,
+      "gas:candidate-vibid:4024055189868": 86
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684934&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684934&type=464",
@@ -7831,15 +7831,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 0,
-      "Байгускарова Айгуль Ураловна": 8,
-      "Качкаев Павел Рюрикович": 100,
-      "Минниахметов Ренат Равилевич": 13,
-      "Нурисламов Борис Юрьевич": 1,
-      "Петров Виктор Григорьевич": 0,
-      "Саубанов Раис Нуриманович": 3,
-      "Сафин Фаиль Габдуллович": 4,
-      "Ющенко Александр Андреевич": 0
+      "gas:candidate-vibid:4024055203321": 0,
+      "gas:candidate-vibid:4024055203490": 8,
+      "gas:candidate-vibid:4024055203224": 100,
+      "gas:candidate-vibid:4024055189626": 13,
+      "gas:candidate-vibid:4024055201055": 1,
+      "gas:candidate-vibid:4024055203386": 0,
+      "gas:candidate-vibid:4024055189948": 3,
+      "gas:candidate-vibid:4024055203300": 4,
+      "gas:candidate-vibid:4024055189868": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684934&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684934&type=464",
@@ -7890,15 +7890,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 13,
-      "Байгускарова Айгуль Ураловна": 22,
-      "Качкаев Павел Рюрикович": 280,
-      "Минниахметов Ренат Равилевич": 41,
-      "Нурисламов Борис Юрьевич": 16,
-      "Петров Виктор Григорьевич": 10,
-      "Саубанов Раис Нуриманович": 32,
-      "Сафин Фаиль Габдуллович": 13,
-      "Ющенко Александр Андреевич": 130
+      "gas:candidate-vibid:4024055203321": 13,
+      "gas:candidate-vibid:4024055203490": 22,
+      "gas:candidate-vibid:4024055203224": 280,
+      "gas:candidate-vibid:4024055189626": 41,
+      "gas:candidate-vibid:4024055201055": 16,
+      "gas:candidate-vibid:4024055203386": 10,
+      "gas:candidate-vibid:4024055189948": 32,
+      "gas:candidate-vibid:4024055203300": 13,
+      "gas:candidate-vibid:4024055189868": 130
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684934&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684934&type=464",
@@ -7949,15 +7949,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 2,
-      "Байгускарова Айгуль Ураловна": 13,
-      "Качкаев Павел Рюрикович": 184,
-      "Минниахметов Ренат Равилевич": 82,
-      "Нурисламов Борис Юрьевич": 5,
-      "Петров Виктор Григорьевич": 7,
-      "Саубанов Раис Нуриманович": 4,
-      "Сафин Фаиль Габдуллович": 8,
-      "Ющенко Александр Андреевич": 102
+      "gas:candidate-vibid:4024055203321": 2,
+      "gas:candidate-vibid:4024055203490": 13,
+      "gas:candidate-vibid:4024055203224": 184,
+      "gas:candidate-vibid:4024055189626": 82,
+      "gas:candidate-vibid:4024055201055": 5,
+      "gas:candidate-vibid:4024055203386": 7,
+      "gas:candidate-vibid:4024055189948": 4,
+      "gas:candidate-vibid:4024055203300": 8,
+      "gas:candidate-vibid:4024055189868": 102
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684934&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684934&type=464",
@@ -8008,15 +8008,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 11,
-      "Байгускарова Айгуль Ураловна": 35,
-      "Качкаев Павел Рюрикович": 481,
-      "Минниахметов Ренат Равилевич": 122,
-      "Нурисламов Борис Юрьевич": 27,
-      "Петров Виктор Григорьевич": 3,
-      "Саубанов Раис Нуриманович": 38,
-      "Сафин Фаиль Габдуллович": 30,
-      "Ющенко Александр Андреевич": 125
+      "gas:candidate-vibid:4024055203321": 11,
+      "gas:candidate-vibid:4024055203490": 35,
+      "gas:candidate-vibid:4024055203224": 481,
+      "gas:candidate-vibid:4024055189626": 122,
+      "gas:candidate-vibid:4024055201055": 27,
+      "gas:candidate-vibid:4024055203386": 3,
+      "gas:candidate-vibid:4024055189948": 38,
+      "gas:candidate-vibid:4024055203300": 30,
+      "gas:candidate-vibid:4024055189868": 125
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684934&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684934&type=464",
@@ -8067,15 +8067,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 8,
-      "Байгускарова Айгуль Ураловна": 47,
-      "Качкаев Павел Рюрикович": 185,
-      "Минниахметов Ренат Равилевич": 41,
-      "Нурисламов Борис Юрьевич": 12,
-      "Петров Виктор Григорьевич": 1,
-      "Саубанов Раис Нуриманович": 2,
-      "Сафин Фаиль Габдуллович": 21,
-      "Ющенко Александр Андреевич": 90
+      "gas:candidate-vibid:4024055203321": 8,
+      "gas:candidate-vibid:4024055203490": 47,
+      "gas:candidate-vibid:4024055203224": 185,
+      "gas:candidate-vibid:4024055189626": 41,
+      "gas:candidate-vibid:4024055201055": 12,
+      "gas:candidate-vibid:4024055203386": 1,
+      "gas:candidate-vibid:4024055189948": 2,
+      "gas:candidate-vibid:4024055203300": 21,
+      "gas:candidate-vibid:4024055189868": 90
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684934&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684934&type=464",
@@ -8126,15 +8126,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 0,
-      "Байгускарова Айгуль Ураловна": 21,
-      "Качкаев Павел Рюрикович": 123,
-      "Минниахметов Ренат Равилевич": 49,
-      "Нурисламов Борис Юрьевич": 0,
-      "Петров Виктор Григорьевич": 0,
-      "Саубанов Раис Нуриманович": 20,
-      "Сафин Фаиль Габдуллович": 0,
-      "Ющенко Александр Андреевич": 60
+      "gas:candidate-vibid:4024055203321": 0,
+      "gas:candidate-vibid:4024055203490": 21,
+      "gas:candidate-vibid:4024055203224": 123,
+      "gas:candidate-vibid:4024055189626": 49,
+      "gas:candidate-vibid:4024055201055": 0,
+      "gas:candidate-vibid:4024055203386": 0,
+      "gas:candidate-vibid:4024055189948": 20,
+      "gas:candidate-vibid:4024055203300": 0,
+      "gas:candidate-vibid:4024055189868": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684934&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684934&type=464",
@@ -8185,15 +8185,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 11,
-      "Байгускарова Айгуль Ураловна": 10,
-      "Качкаев Павел Рюрикович": 287,
-      "Минниахметов Ренат Равилевич": 48,
-      "Нурисламов Борис Юрьевич": 4,
-      "Петров Виктор Григорьевич": 2,
-      "Саубанов Раис Нуриманович": 0,
-      "Сафин Фаиль Габдуллович": 0,
-      "Ющенко Александр Андреевич": 102
+      "gas:candidate-vibid:4024055203321": 11,
+      "gas:candidate-vibid:4024055203490": 10,
+      "gas:candidate-vibid:4024055203224": 287,
+      "gas:candidate-vibid:4024055189626": 48,
+      "gas:candidate-vibid:4024055201055": 4,
+      "gas:candidate-vibid:4024055203386": 2,
+      "gas:candidate-vibid:4024055189948": 0,
+      "gas:candidate-vibid:4024055203300": 0,
+      "gas:candidate-vibid:4024055189868": 102
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684934&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684934&type=464",
@@ -8244,15 +8244,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 7,
-      "Байгускарова Айгуль Ураловна": 11,
-      "Качкаев Павел Рюрикович": 103,
-      "Минниахметов Ренат Равилевич": 30,
-      "Нурисламов Борис Юрьевич": 2,
-      "Петров Виктор Григорьевич": 5,
-      "Саубанов Раис Нуриманович": 5,
-      "Сафин Фаиль Габдуллович": 5,
-      "Ющенко Александр Андреевич": 48
+      "gas:candidate-vibid:4024055203321": 7,
+      "gas:candidate-vibid:4024055203490": 11,
+      "gas:candidate-vibid:4024055203224": 103,
+      "gas:candidate-vibid:4024055189626": 30,
+      "gas:candidate-vibid:4024055201055": 2,
+      "gas:candidate-vibid:4024055203386": 5,
+      "gas:candidate-vibid:4024055189948": 5,
+      "gas:candidate-vibid:4024055203300": 5,
+      "gas:candidate-vibid:4024055189868": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684934&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684934&type=464",
@@ -8303,15 +8303,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 34,
-      "Байгускарова Айгуль Ураловна": 13,
-      "Качкаев Павел Рюрикович": 454,
-      "Минниахметов Ренат Равилевич": 16,
-      "Нурисламов Борис Юрьевич": 8,
-      "Петров Виктор Григорьевич": 3,
-      "Саубанов Раис Нуриманович": 14,
-      "Сафин Фаиль Габдуллович": 13,
-      "Ющенко Александр Андреевич": 21
+      "gas:candidate-vibid:4024055203321": 34,
+      "gas:candidate-vibid:4024055203490": 13,
+      "gas:candidate-vibid:4024055203224": 454,
+      "gas:candidate-vibid:4024055189626": 16,
+      "gas:candidate-vibid:4024055201055": 8,
+      "gas:candidate-vibid:4024055203386": 3,
+      "gas:candidate-vibid:4024055189948": 14,
+      "gas:candidate-vibid:4024055203300": 13,
+      "gas:candidate-vibid:4024055189868": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684934&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684934&type=464",
@@ -8362,15 +8362,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 10,
-      "Байгускарова Айгуль Ураловна": 3,
-      "Качкаев Павел Рюрикович": 264,
-      "Минниахметов Ренат Равилевич": 22,
-      "Нурисламов Борис Юрьевич": 0,
-      "Петров Виктор Григорьевич": 0,
-      "Саубанов Раис Нуриманович": 17,
-      "Сафин Фаиль Габдуллович": 15,
-      "Ющенко Александр Андреевич": 94
+      "gas:candidate-vibid:4024055203321": 10,
+      "gas:candidate-vibid:4024055203490": 3,
+      "gas:candidate-vibid:4024055203224": 264,
+      "gas:candidate-vibid:4024055189626": 22,
+      "gas:candidate-vibid:4024055201055": 0,
+      "gas:candidate-vibid:4024055203386": 0,
+      "gas:candidate-vibid:4024055189948": 17,
+      "gas:candidate-vibid:4024055203300": 15,
+      "gas:candidate-vibid:4024055189868": 94
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684934&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684934&type=464",
@@ -8421,15 +8421,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 5,
-      "Байгускарова Айгуль Ураловна": 14,
-      "Качкаев Павел Рюрикович": 194,
-      "Минниахметов Ренат Равилевич": 14,
-      "Нурисламов Борис Юрьевич": 5,
-      "Петров Виктор Григорьевич": 0,
-      "Саубанов Раис Нуриманович": 20,
-      "Сафин Фаиль Габдуллович": 50,
-      "Ющенко Александр Андреевич": 94
+      "gas:candidate-vibid:4024055203321": 5,
+      "gas:candidate-vibid:4024055203490": 14,
+      "gas:candidate-vibid:4024055203224": 194,
+      "gas:candidate-vibid:4024055189626": 14,
+      "gas:candidate-vibid:4024055201055": 5,
+      "gas:candidate-vibid:4024055203386": 0,
+      "gas:candidate-vibid:4024055189948": 20,
+      "gas:candidate-vibid:4024055203300": 50,
+      "gas:candidate-vibid:4024055189868": 94
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684934&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684934&type=464",
@@ -8480,15 +8480,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 28,
-      "Байгускарова Айгуль Ураловна": 18,
-      "Качкаев Павел Рюрикович": 153,
-      "Минниахметов Ренат Равилевич": 8,
-      "Нурисламов Борис Юрьевич": 27,
-      "Петров Виктор Григорьевич": 5,
-      "Саубанов Раис Нуриманович": 11,
-      "Сафин Фаиль Габдуллович": 14,
-      "Ющенко Александр Андреевич": 75
+      "gas:candidate-vibid:4024055203321": 28,
+      "gas:candidate-vibid:4024055203490": 18,
+      "gas:candidate-vibid:4024055203224": 153,
+      "gas:candidate-vibid:4024055189626": 8,
+      "gas:candidate-vibid:4024055201055": 27,
+      "gas:candidate-vibid:4024055203386": 5,
+      "gas:candidate-vibid:4024055189948": 11,
+      "gas:candidate-vibid:4024055203300": 14,
+      "gas:candidate-vibid:4024055189868": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684934&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684934&type=464",
@@ -8539,15 +8539,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 16,
-      "Байгускарова Айгуль Ураловна": 14,
-      "Качкаев Павел Рюрикович": 283,
-      "Минниахметов Ренат Равилевич": 10,
-      "Нурисламов Борис Юрьевич": 5,
-      "Петров Виктор Григорьевич": 7,
-      "Саубанов Раис Нуриманович": 3,
-      "Сафин Фаиль Габдуллович": 14,
-      "Ющенко Александр Андреевич": 63
+      "gas:candidate-vibid:4024055203321": 16,
+      "gas:candidate-vibid:4024055203490": 14,
+      "gas:candidate-vibid:4024055203224": 283,
+      "gas:candidate-vibid:4024055189626": 10,
+      "gas:candidate-vibid:4024055201055": 5,
+      "gas:candidate-vibid:4024055203386": 7,
+      "gas:candidate-vibid:4024055189948": 3,
+      "gas:candidate-vibid:4024055203300": 14,
+      "gas:candidate-vibid:4024055189868": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684934&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684934&type=464",
@@ -8598,15 +8598,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 4,
-      "Байгускарова Айгуль Ураловна": 5,
-      "Качкаев Павел Рюрикович": 39,
-      "Минниахметов Ренат Равилевич": 4,
-      "Нурисламов Борис Юрьевич": 2,
-      "Петров Виктор Григорьевич": 2,
-      "Саубанов Раис Нуриманович": 3,
-      "Сафин Фаиль Габдуллович": 9,
-      "Ющенко Александр Андреевич": 19
+      "gas:candidate-vibid:4024055203321": 4,
+      "gas:candidate-vibid:4024055203490": 5,
+      "gas:candidate-vibid:4024055203224": 39,
+      "gas:candidate-vibid:4024055189626": 4,
+      "gas:candidate-vibid:4024055201055": 2,
+      "gas:candidate-vibid:4024055203386": 2,
+      "gas:candidate-vibid:4024055189948": 3,
+      "gas:candidate-vibid:4024055203300": 9,
+      "gas:candidate-vibid:4024055189868": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684934&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684934&type=464",
@@ -8657,15 +8657,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 3,
-      "Байгускарова Айгуль Ураловна": 12,
-      "Качкаев Павел Рюрикович": 131,
-      "Минниахметов Ренат Равилевич": 15,
-      "Нурисламов Борис Юрьевич": 3,
-      "Петров Виктор Григорьевич": 2,
-      "Саубанов Раис Нуриманович": 3,
-      "Сафин Фаиль Габдуллович": 3,
-      "Ющенко Александр Андреевич": 21
+      "gas:candidate-vibid:4024055203321": 3,
+      "gas:candidate-vibid:4024055203490": 12,
+      "gas:candidate-vibid:4024055203224": 131,
+      "gas:candidate-vibid:4024055189626": 15,
+      "gas:candidate-vibid:4024055201055": 3,
+      "gas:candidate-vibid:4024055203386": 2,
+      "gas:candidate-vibid:4024055189948": 3,
+      "gas:candidate-vibid:4024055203300": 3,
+      "gas:candidate-vibid:4024055189868": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684934&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684934&type=464",
@@ -8716,15 +8716,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 14,
-      "Байгускарова Айгуль Ураловна": 15,
-      "Качкаев Павел Рюрикович": 139,
-      "Минниахметов Ренат Равилевич": 21,
-      "Нурисламов Борис Юрьевич": 2,
-      "Петров Виктор Григорьевич": 0,
-      "Саубанов Раис Нуриманович": 0,
-      "Сафин Фаиль Габдуллович": 10,
-      "Ющенко Александр Андреевич": 72
+      "gas:candidate-vibid:4024055203321": 14,
+      "gas:candidate-vibid:4024055203490": 15,
+      "gas:candidate-vibid:4024055203224": 139,
+      "gas:candidate-vibid:4024055189626": 21,
+      "gas:candidate-vibid:4024055201055": 2,
+      "gas:candidate-vibid:4024055203386": 0,
+      "gas:candidate-vibid:4024055189948": 0,
+      "gas:candidate-vibid:4024055203300": 10,
+      "gas:candidate-vibid:4024055189868": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684934&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684934&type=464",
@@ -8775,15 +8775,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 9,
-      "Байгускарова Айгуль Ураловна": 10,
-      "Качкаев Павел Рюрикович": 108,
-      "Минниахметов Ренат Равилевич": 7,
-      "Нурисламов Борис Юрьевич": 4,
-      "Петров Виктор Григорьевич": 1,
-      "Саубанов Раис Нуриманович": 21,
-      "Сафин Фаиль Габдуллович": 6,
-      "Ющенко Александр Андреевич": 55
+      "gas:candidate-vibid:4024055203321": 9,
+      "gas:candidate-vibid:4024055203490": 10,
+      "gas:candidate-vibid:4024055203224": 108,
+      "gas:candidate-vibid:4024055189626": 7,
+      "gas:candidate-vibid:4024055201055": 4,
+      "gas:candidate-vibid:4024055203386": 1,
+      "gas:candidate-vibid:4024055189948": 21,
+      "gas:candidate-vibid:4024055203300": 6,
+      "gas:candidate-vibid:4024055189868": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684934&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684934&type=464",
@@ -8834,15 +8834,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 10,
-      "Байгускарова Айгуль Ураловна": 11,
-      "Качкаев Павел Рюрикович": 211,
-      "Минниахметов Ренат Равилевич": 17,
-      "Нурисламов Борис Юрьевич": 8,
-      "Петров Виктор Григорьевич": 4,
-      "Саубанов Раис Нуриманович": 2,
-      "Сафин Фаиль Габдуллович": 6,
-      "Ющенко Александр Андреевич": 76
+      "gas:candidate-vibid:4024055203321": 10,
+      "gas:candidate-vibid:4024055203490": 11,
+      "gas:candidate-vibid:4024055203224": 211,
+      "gas:candidate-vibid:4024055189626": 17,
+      "gas:candidate-vibid:4024055201055": 8,
+      "gas:candidate-vibid:4024055203386": 4,
+      "gas:candidate-vibid:4024055189948": 2,
+      "gas:candidate-vibid:4024055203300": 6,
+      "gas:candidate-vibid:4024055189868": 76
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684934&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684934&type=464",
@@ -8893,15 +8893,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 15,
-      "Байгускарова Айгуль Ураловна": 34,
-      "Качкаев Павел Рюрикович": 640,
-      "Минниахметов Ренат Равилевич": 55,
-      "Нурисламов Борис Юрьевич": 12,
-      "Петров Виктор Григорьевич": 9,
-      "Саубанов Раис Нуриманович": 12,
-      "Сафин Фаиль Габдуллович": 19,
-      "Ющенко Александр Андреевич": 37
+      "gas:candidate-vibid:4024055203321": 15,
+      "gas:candidate-vibid:4024055203490": 34,
+      "gas:candidate-vibid:4024055203224": 640,
+      "gas:candidate-vibid:4024055189626": 55,
+      "gas:candidate-vibid:4024055201055": 12,
+      "gas:candidate-vibid:4024055203386": 9,
+      "gas:candidate-vibid:4024055189948": 12,
+      "gas:candidate-vibid:4024055203300": 19,
+      "gas:candidate-vibid:4024055189868": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684934&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684934&type=464",
@@ -8952,15 +8952,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 12,
-      "Байгускарова Айгуль Ураловна": 11,
-      "Качкаев Павел Рюрикович": 311,
-      "Минниахметов Ренат Равилевич": 12,
-      "Нурисламов Борис Юрьевич": 5,
-      "Петров Виктор Григорьевич": 7,
-      "Саубанов Раис Нуриманович": 2,
-      "Сафин Фаиль Габдуллович": 24,
-      "Ющенко Александр Андреевич": 20
+      "gas:candidate-vibid:4024055203321": 12,
+      "gas:candidate-vibid:4024055203490": 11,
+      "gas:candidate-vibid:4024055203224": 311,
+      "gas:candidate-vibid:4024055189626": 12,
+      "gas:candidate-vibid:4024055201055": 5,
+      "gas:candidate-vibid:4024055203386": 7,
+      "gas:candidate-vibid:4024055189948": 2,
+      "gas:candidate-vibid:4024055203300": 24,
+      "gas:candidate-vibid:4024055189868": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684934&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684934&type=464",
@@ -9011,15 +9011,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 14,
-      "Байгускарова Айгуль Ураловна": 16,
-      "Качкаев Павел Рюрикович": 139,
-      "Минниахметов Ренат Равилевич": 19,
-      "Нурисламов Борис Юрьевич": 4,
-      "Петров Виктор Григорьевич": 2,
-      "Саубанов Раис Нуриманович": 1,
-      "Сафин Фаиль Габдуллович": 7,
-      "Ющенко Александр Андреевич": 62
+      "gas:candidate-vibid:4024055203321": 14,
+      "gas:candidate-vibid:4024055203490": 16,
+      "gas:candidate-vibid:4024055203224": 139,
+      "gas:candidate-vibid:4024055189626": 19,
+      "gas:candidate-vibid:4024055201055": 4,
+      "gas:candidate-vibid:4024055203386": 2,
+      "gas:candidate-vibid:4024055189948": 1,
+      "gas:candidate-vibid:4024055203300": 7,
+      "gas:candidate-vibid:4024055189868": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684934&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684934&type=464",
@@ -9070,15 +9070,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 7,
-      "Байгускарова Айгуль Ураловна": 9,
-      "Качкаев Павел Рюрикович": 247,
-      "Минниахметов Ренат Равилевич": 16,
-      "Нурисламов Борис Юрьевич": 5,
-      "Петров Виктор Григорьевич": 4,
-      "Саубанов Раис Нуриманович": 0,
-      "Сафин Фаиль Габдуллович": 0,
-      "Ющенко Александр Андреевич": 17
+      "gas:candidate-vibid:4024055203321": 7,
+      "gas:candidate-vibid:4024055203490": 9,
+      "gas:candidate-vibid:4024055203224": 247,
+      "gas:candidate-vibid:4024055189626": 16,
+      "gas:candidate-vibid:4024055201055": 5,
+      "gas:candidate-vibid:4024055203386": 4,
+      "gas:candidate-vibid:4024055189948": 0,
+      "gas:candidate-vibid:4024055203300": 0,
+      "gas:candidate-vibid:4024055189868": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684935&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684935&type=464",
@@ -9129,15 +9129,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 9,
-      "Байгускарова Айгуль Ураловна": 15,
-      "Качкаев Павел Рюрикович": 185,
-      "Минниахметов Ренат Равилевич": 19,
-      "Нурисламов Борис Юрьевич": 9,
-      "Петров Виктор Григорьевич": 0,
-      "Саубанов Раис Нуриманович": 2,
-      "Сафин Фаиль Габдуллович": 8,
-      "Ющенко Александр Андреевич": 10
+      "gas:candidate-vibid:4024055203321": 9,
+      "gas:candidate-vibid:4024055203490": 15,
+      "gas:candidate-vibid:4024055203224": 185,
+      "gas:candidate-vibid:4024055189626": 19,
+      "gas:candidate-vibid:4024055201055": 9,
+      "gas:candidate-vibid:4024055203386": 0,
+      "gas:candidate-vibid:4024055189948": 2,
+      "gas:candidate-vibid:4024055203300": 8,
+      "gas:candidate-vibid:4024055189868": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684935&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684935&type=464",
@@ -9188,15 +9188,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 3,
-      "Байгускарова Айгуль Ураловна": 19,
-      "Качкаев Павел Рюрикович": 123,
-      "Минниахметов Ренат Равилевич": 9,
-      "Нурисламов Борис Юрьевич": 0,
-      "Петров Виктор Григорьевич": 2,
-      "Саубанов Раис Нуриманович": 5,
-      "Сафин Фаиль Габдуллович": 4,
-      "Ющенко Александр Андреевич": 6
+      "gas:candidate-vibid:4024055203321": 3,
+      "gas:candidate-vibid:4024055203490": 19,
+      "gas:candidate-vibid:4024055203224": 123,
+      "gas:candidate-vibid:4024055189626": 9,
+      "gas:candidate-vibid:4024055201055": 0,
+      "gas:candidate-vibid:4024055203386": 2,
+      "gas:candidate-vibid:4024055189948": 5,
+      "gas:candidate-vibid:4024055203300": 4,
+      "gas:candidate-vibid:4024055189868": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684935&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684935&type=464",
@@ -9247,15 +9247,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 2,
-      "Байгускарова Айгуль Ураловна": 4,
-      "Качкаев Павел Рюрикович": 65,
-      "Минниахметов Ренат Равилевич": 11,
-      "Нурисламов Борис Юрьевич": 3,
-      "Петров Виктор Григорьевич": 2,
-      "Саубанов Раис Нуриманович": 3,
-      "Сафин Фаиль Габдуллович": 5,
-      "Ющенко Александр Андреевич": 6
+      "gas:candidate-vibid:4024055203321": 2,
+      "gas:candidate-vibid:4024055203490": 4,
+      "gas:candidate-vibid:4024055203224": 65,
+      "gas:candidate-vibid:4024055189626": 11,
+      "gas:candidate-vibid:4024055201055": 3,
+      "gas:candidate-vibid:4024055203386": 2,
+      "gas:candidate-vibid:4024055189948": 3,
+      "gas:candidate-vibid:4024055203300": 5,
+      "gas:candidate-vibid:4024055189868": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684935&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684935&type=464",
@@ -9306,15 +9306,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 3,
-      "Байгускарова Айгуль Ураловна": 30,
-      "Качкаев Павел Рюрикович": 410,
-      "Минниахметов Ренат Равилевич": 12,
-      "Нурисламов Борис Юрьевич": 3,
-      "Петров Виктор Григорьевич": 0,
-      "Саубанов Раис Нуриманович": 4,
-      "Сафин Фаиль Габдуллович": 0,
-      "Ющенко Александр Андреевич": 92
+      "gas:candidate-vibid:4024055203321": 3,
+      "gas:candidate-vibid:4024055203490": 30,
+      "gas:candidate-vibid:4024055203224": 410,
+      "gas:candidate-vibid:4024055189626": 12,
+      "gas:candidate-vibid:4024055201055": 3,
+      "gas:candidate-vibid:4024055203386": 0,
+      "gas:candidate-vibid:4024055189948": 4,
+      "gas:candidate-vibid:4024055203300": 0,
+      "gas:candidate-vibid:4024055189868": 92
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684935&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684935&type=464",
@@ -9365,15 +9365,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 24,
-      "Байгускарова Айгуль Ураловна": 24,
-      "Качкаев Павел Рюрикович": 271,
-      "Минниахметов Ренат Равилевич": 24,
-      "Нурисламов Борис Юрьевич": 6,
-      "Петров Виктор Григорьевич": 5,
-      "Саубанов Раис Нуриманович": 14,
-      "Сафин Фаиль Габдуллович": 14,
-      "Ющенко Александр Андреевич": 66
+      "gas:candidate-vibid:4024055203321": 24,
+      "gas:candidate-vibid:4024055203490": 24,
+      "gas:candidate-vibid:4024055203224": 271,
+      "gas:candidate-vibid:4024055189626": 24,
+      "gas:candidate-vibid:4024055201055": 6,
+      "gas:candidate-vibid:4024055203386": 5,
+      "gas:candidate-vibid:4024055189948": 14,
+      "gas:candidate-vibid:4024055203300": 14,
+      "gas:candidate-vibid:4024055189868": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684935&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684935&type=464",
@@ -9424,15 +9424,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 7,
-      "Байгускарова Айгуль Ураловна": 35,
-      "Качкаев Павел Рюрикович": 169,
-      "Минниахметов Ренат Равилевич": 14,
-      "Нурисламов Борис Юрьевич": 10,
-      "Петров Виктор Григорьевич": 2,
-      "Саубанов Раис Нуриманович": 2,
-      "Сафин Фаиль Габдуллович": 3,
-      "Ющенко Александр Андреевич": 18
+      "gas:candidate-vibid:4024055203321": 7,
+      "gas:candidate-vibid:4024055203490": 35,
+      "gas:candidate-vibid:4024055203224": 169,
+      "gas:candidate-vibid:4024055189626": 14,
+      "gas:candidate-vibid:4024055201055": 10,
+      "gas:candidate-vibid:4024055203386": 2,
+      "gas:candidate-vibid:4024055189948": 2,
+      "gas:candidate-vibid:4024055203300": 3,
+      "gas:candidate-vibid:4024055189868": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684935&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684935&type=464",
@@ -9483,15 +9483,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 39,
-      "Байгускарова Айгуль Ураловна": 153,
-      "Качкаев Павел Рюрикович": 796,
-      "Минниахметов Ренат Равилевич": 184,
-      "Нурисламов Борис Юрьевич": 43,
-      "Петров Виктор Григорьевич": 14,
-      "Саубанов Раис Нуриманович": 32,
-      "Сафин Фаиль Габдуллович": 45,
-      "Ющенко Александр Андреевич": 95
+      "gas:candidate-vibid:4024055203321": 39,
+      "gas:candidate-vibid:4024055203490": 153,
+      "gas:candidate-vibid:4024055203224": 796,
+      "gas:candidate-vibid:4024055189626": 184,
+      "gas:candidate-vibid:4024055201055": 43,
+      "gas:candidate-vibid:4024055203386": 14,
+      "gas:candidate-vibid:4024055189948": 32,
+      "gas:candidate-vibid:4024055203300": 45,
+      "gas:candidate-vibid:4024055189868": 95
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684935&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684935&type=464",
@@ -9542,15 +9542,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 29,
-      "Байгускарова Айгуль Ураловна": 93,
-      "Качкаев Павел Рюрикович": 330,
-      "Минниахметов Ренат Равилевич": 95,
-      "Нурисламов Борис Юрьевич": 50,
-      "Петров Виктор Григорьевич": 15,
-      "Саубанов Раис Нуриманович": 31,
-      "Сафин Фаиль Габдуллович": 34,
-      "Ющенко Александр Андреевич": 278
+      "gas:candidate-vibid:4024055203321": 29,
+      "gas:candidate-vibid:4024055203490": 93,
+      "gas:candidate-vibid:4024055203224": 330,
+      "gas:candidate-vibid:4024055189626": 95,
+      "gas:candidate-vibid:4024055201055": 50,
+      "gas:candidate-vibid:4024055203386": 15,
+      "gas:candidate-vibid:4024055189948": 31,
+      "gas:candidate-vibid:4024055203300": 34,
+      "gas:candidate-vibid:4024055189868": 278
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684935&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684935&type=464",
@@ -9601,15 +9601,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 26,
-      "Байгускарова Айгуль Ураловна": 99,
-      "Качкаев Павел Рюрикович": 509,
-      "Минниахметов Ренат Равилевич": 89,
-      "Нурисламов Борис Юрьевич": 34,
-      "Петров Виктор Григорьевич": 13,
-      "Саубанов Раис Нуриманович": 28,
-      "Сафин Фаиль Габдуллович": 24,
-      "Ющенко Александр Андреевич": 99
+      "gas:candidate-vibid:4024055203321": 26,
+      "gas:candidate-vibid:4024055203490": 99,
+      "gas:candidate-vibid:4024055203224": 509,
+      "gas:candidate-vibid:4024055189626": 89,
+      "gas:candidate-vibid:4024055201055": 34,
+      "gas:candidate-vibid:4024055203386": 13,
+      "gas:candidate-vibid:4024055189948": 28,
+      "gas:candidate-vibid:4024055203300": 24,
+      "gas:candidate-vibid:4024055189868": 99
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684935&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684935&type=464",
@@ -9660,15 +9660,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 2,
-      "Байгускарова Айгуль Ураловна": 24,
-      "Качкаев Павел Рюрикович": 67,
-      "Минниахметов Ренат Равилевич": 17,
-      "Нурисламов Борис Юрьевич": 6,
-      "Петров Виктор Григорьевич": 3,
-      "Саубанов Раис Нуриманович": 2,
-      "Сафин Фаиль Габдуллович": 3,
-      "Ющенко Александр Андреевич": 8
+      "gas:candidate-vibid:4024055203321": 2,
+      "gas:candidate-vibid:4024055203490": 24,
+      "gas:candidate-vibid:4024055203224": 67,
+      "gas:candidate-vibid:4024055189626": 17,
+      "gas:candidate-vibid:4024055201055": 6,
+      "gas:candidate-vibid:4024055203386": 3,
+      "gas:candidate-vibid:4024055189948": 2,
+      "gas:candidate-vibid:4024055203300": 3,
+      "gas:candidate-vibid:4024055189868": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684935&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684935&type=464",
@@ -9719,15 +9719,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 0,
-      "Байгускарова Айгуль Ураловна": 1,
-      "Качкаев Павел Рюрикович": 60,
-      "Минниахметов Ренат Равилевич": 1,
-      "Нурисламов Борис Юрьевич": 2,
-      "Петров Виктор Григорьевич": 0,
-      "Саубанов Раис Нуриманович": 0,
-      "Сафин Фаиль Габдуллович": 0,
-      "Ющенко Александр Андреевич": 0
+      "gas:candidate-vibid:4024055203321": 0,
+      "gas:candidate-vibid:4024055203490": 1,
+      "gas:candidate-vibid:4024055203224": 60,
+      "gas:candidate-vibid:4024055189626": 1,
+      "gas:candidate-vibid:4024055201055": 2,
+      "gas:candidate-vibid:4024055203386": 0,
+      "gas:candidate-vibid:4024055189948": 0,
+      "gas:candidate-vibid:4024055203300": 0,
+      "gas:candidate-vibid:4024055189868": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684935&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684935&type=464",
@@ -9778,15 +9778,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 8,
-      "Байгускарова Айгуль Ураловна": 44,
-      "Качкаев Павел Рюрикович": 345,
-      "Минниахметов Ренат Равилевич": 3,
-      "Нурисламов Борис Юрьевич": 5,
-      "Петров Виктор Григорьевич": 6,
-      "Саубанов Раис Нуриманович": 1,
-      "Сафин Фаиль Габдуллович": 3,
-      "Ющенко Александр Андреевич": 19
+      "gas:candidate-vibid:4024055203321": 8,
+      "gas:candidate-vibid:4024055203490": 44,
+      "gas:candidate-vibid:4024055203224": 345,
+      "gas:candidate-vibid:4024055189626": 3,
+      "gas:candidate-vibid:4024055201055": 5,
+      "gas:candidate-vibid:4024055203386": 6,
+      "gas:candidate-vibid:4024055189948": 1,
+      "gas:candidate-vibid:4024055203300": 3,
+      "gas:candidate-vibid:4024055189868": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684935&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684935&type=464",
@@ -9837,15 +9837,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 6,
-      "Байгускарова Айгуль Ураловна": 3,
-      "Качкаев Павел Рюрикович": 235,
-      "Минниахметов Ренат Равилевич": 10,
-      "Нурисламов Борис Юрьевич": 3,
-      "Петров Виктор Григорьевич": 0,
-      "Саубанов Раис Нуриманович": 2,
-      "Сафин Фаиль Габдуллович": 0,
-      "Ющенко Александр Андреевич": 5
+      "gas:candidate-vibid:4024055203321": 6,
+      "gas:candidate-vibid:4024055203490": 3,
+      "gas:candidate-vibid:4024055203224": 235,
+      "gas:candidate-vibid:4024055189626": 10,
+      "gas:candidate-vibid:4024055201055": 3,
+      "gas:candidate-vibid:4024055203386": 0,
+      "gas:candidate-vibid:4024055189948": 2,
+      "gas:candidate-vibid:4024055203300": 0,
+      "gas:candidate-vibid:4024055189868": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684935&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684935&type=464",
@@ -9896,15 +9896,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 4,
-      "Байгускарова Айгуль Ураловна": 6,
-      "Качкаев Павел Рюрикович": 179,
-      "Минниахметов Ренат Равилевич": 4,
-      "Нурисламов Борис Юрьевич": 2,
-      "Петров Виктор Григорьевич": 3,
-      "Саубанов Раис Нуриманович": 1,
-      "Сафин Фаиль Габдуллович": 6,
-      "Ющенко Александр Андреевич": 2
+      "gas:candidate-vibid:4024055203321": 4,
+      "gas:candidate-vibid:4024055203490": 6,
+      "gas:candidate-vibid:4024055203224": 179,
+      "gas:candidate-vibid:4024055189626": 4,
+      "gas:candidate-vibid:4024055201055": 2,
+      "gas:candidate-vibid:4024055203386": 3,
+      "gas:candidate-vibid:4024055189948": 1,
+      "gas:candidate-vibid:4024055203300": 6,
+      "gas:candidate-vibid:4024055189868": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684935&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684935&type=464",
@@ -9955,15 +9955,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 26,
-      "Байгускарова Айгуль Ураловна": 21,
-      "Качкаев Павел Рюрикович": 164,
-      "Минниахметов Ренат Равилевич": 27,
-      "Нурисламов Борис Юрьевич": 14,
-      "Петров Виктор Григорьевич": 3,
-      "Саубанов Раис Нуриманович": 12,
-      "Сафин Фаиль Габдуллович": 13,
-      "Ющенко Александр Андреевич": 4
+      "gas:candidate-vibid:4024055203321": 26,
+      "gas:candidate-vibid:4024055203490": 21,
+      "gas:candidate-vibid:4024055203224": 164,
+      "gas:candidate-vibid:4024055189626": 27,
+      "gas:candidate-vibid:4024055201055": 14,
+      "gas:candidate-vibid:4024055203386": 3,
+      "gas:candidate-vibid:4024055189948": 12,
+      "gas:candidate-vibid:4024055203300": 13,
+      "gas:candidate-vibid:4024055189868": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684935&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684935&type=464",
@@ -10014,15 +10014,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 0,
-      "Байгускарова Айгуль Ураловна": 3,
-      "Качкаев Павел Рюрикович": 146,
-      "Минниахметов Ренат Равилевич": 10,
-      "Нурисламов Борис Юрьевич": 0,
-      "Петров Виктор Григорьевич": 7,
-      "Саубанов Раис Нуриманович": 0,
-      "Сафин Фаиль Габдуллович": 4,
-      "Ющенко Александр Андреевич": 3
+      "gas:candidate-vibid:4024055203321": 0,
+      "gas:candidate-vibid:4024055203490": 3,
+      "gas:candidate-vibid:4024055203224": 146,
+      "gas:candidate-vibid:4024055189626": 10,
+      "gas:candidate-vibid:4024055201055": 0,
+      "gas:candidate-vibid:4024055203386": 7,
+      "gas:candidate-vibid:4024055189948": 0,
+      "gas:candidate-vibid:4024055203300": 4,
+      "gas:candidate-vibid:4024055189868": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684935&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684935&type=464",
@@ -10073,15 +10073,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 6,
-      "Байгускарова Айгуль Ураловна": 13,
-      "Качкаев Павел Рюрикович": 313,
-      "Минниахметов Ренат Равилевич": 24,
-      "Нурисламов Борис Юрьевич": 0,
-      "Петров Виктор Григорьевич": 2,
-      "Саубанов Раис Нуриманович": 4,
-      "Сафин Фаиль Габдуллович": 10,
-      "Ющенко Александр Андреевич": 5
+      "gas:candidate-vibid:4024055203321": 6,
+      "gas:candidate-vibid:4024055203490": 13,
+      "gas:candidate-vibid:4024055203224": 313,
+      "gas:candidate-vibid:4024055189626": 24,
+      "gas:candidate-vibid:4024055201055": 0,
+      "gas:candidate-vibid:4024055203386": 2,
+      "gas:candidate-vibid:4024055189948": 4,
+      "gas:candidate-vibid:4024055203300": 10,
+      "gas:candidate-vibid:4024055189868": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684935&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684935&type=464",
@@ -10132,15 +10132,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 8,
-      "Байгускарова Айгуль Ураловна": 30,
-      "Качкаев Павел Рюрикович": 529,
-      "Минниахметов Ренат Равилевич": 17,
-      "Нурисламов Борис Юрьевич": 18,
-      "Петров Виктор Григорьевич": 0,
-      "Саубанов Раис Нуриманович": 4,
-      "Сафин Фаиль Габдуллович": 5,
-      "Ющенко Александр Андреевич": 21
+      "gas:candidate-vibid:4024055203321": 8,
+      "gas:candidate-vibid:4024055203490": 30,
+      "gas:candidate-vibid:4024055203224": 529,
+      "gas:candidate-vibid:4024055189626": 17,
+      "gas:candidate-vibid:4024055201055": 18,
+      "gas:candidate-vibid:4024055203386": 0,
+      "gas:candidate-vibid:4024055189948": 4,
+      "gas:candidate-vibid:4024055203300": 5,
+      "gas:candidate-vibid:4024055189868": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684935&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684935&type=464",
@@ -10191,15 +10191,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 0,
-      "Байгускарова Айгуль Ураловна": 11,
-      "Качкаев Павел Рюрикович": 191,
-      "Минниахметов Ренат Равилевич": 12,
-      "Нурисламов Борис Юрьевич": 0,
-      "Петров Виктор Григорьевич": 0,
-      "Саубанов Раис Нуриманович": 8,
-      "Сафин Фаиль Габдуллович": 0,
-      "Ющенко Александр Андреевич": 4
+      "gas:candidate-vibid:4024055203321": 0,
+      "gas:candidate-vibid:4024055203490": 11,
+      "gas:candidate-vibid:4024055203224": 191,
+      "gas:candidate-vibid:4024055189626": 12,
+      "gas:candidate-vibid:4024055201055": 0,
+      "gas:candidate-vibid:4024055203386": 0,
+      "gas:candidate-vibid:4024055189948": 8,
+      "gas:candidate-vibid:4024055203300": 0,
+      "gas:candidate-vibid:4024055189868": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684935&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684935&type=464",
@@ -10250,15 +10250,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 1,
-      "Байгускарова Айгуль Ураловна": 13,
-      "Качкаев Павел Рюрикович": 94,
-      "Минниахметов Ренат Равилевич": 32,
-      "Нурисламов Борис Юрьевич": 2,
-      "Петров Виктор Григорьевич": 0,
-      "Саубанов Раис Нуриманович": 4,
-      "Сафин Фаиль Габдуллович": 5,
-      "Ющенко Александр Андреевич": 0
+      "gas:candidate-vibid:4024055203321": 1,
+      "gas:candidate-vibid:4024055203490": 13,
+      "gas:candidate-vibid:4024055203224": 94,
+      "gas:candidate-vibid:4024055189626": 32,
+      "gas:candidate-vibid:4024055201055": 2,
+      "gas:candidate-vibid:4024055203386": 0,
+      "gas:candidate-vibid:4024055189948": 4,
+      "gas:candidate-vibid:4024055203300": 5,
+      "gas:candidate-vibid:4024055189868": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684935&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684935&type=464",
@@ -10309,15 +10309,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 8,
-      "Байгускарова Айгуль Ураловна": 12,
-      "Качкаев Павел Рюрикович": 174,
-      "Минниахметов Ренат Равилевич": 11,
-      "Нурисламов Борис Юрьевич": 1,
-      "Петров Виктор Григорьевич": 2,
-      "Саубанов Раис Нуриманович": 8,
-      "Сафин Фаиль Габдуллович": 4,
-      "Ющенко Александр Андреевич": 8
+      "gas:candidate-vibid:4024055203321": 8,
+      "gas:candidate-vibid:4024055203490": 12,
+      "gas:candidate-vibid:4024055203224": 174,
+      "gas:candidate-vibid:4024055189626": 11,
+      "gas:candidate-vibid:4024055201055": 1,
+      "gas:candidate-vibid:4024055203386": 2,
+      "gas:candidate-vibid:4024055189948": 8,
+      "gas:candidate-vibid:4024055203300": 4,
+      "gas:candidate-vibid:4024055189868": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684935&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684935&type=464",
@@ -10368,15 +10368,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 16,
-      "Байгускарова Айгуль Ураловна": 63,
-      "Качкаев Павел Рюрикович": 223,
-      "Минниахметов Ренат Равилевич": 51,
-      "Нурисламов Борис Юрьевич": 12,
-      "Петров Виктор Григорьевич": 7,
-      "Саубанов Раис Нуриманович": 50,
-      "Сафин Фаиль Габдуллович": 26,
-      "Ющенко Александр Андреевич": 62
+      "gas:candidate-vibid:4024055203321": 16,
+      "gas:candidate-vibid:4024055203490": 63,
+      "gas:candidate-vibid:4024055203224": 223,
+      "gas:candidate-vibid:4024055189626": 51,
+      "gas:candidate-vibid:4024055201055": 12,
+      "gas:candidate-vibid:4024055203386": 7,
+      "gas:candidate-vibid:4024055189948": 50,
+      "gas:candidate-vibid:4024055203300": 26,
+      "gas:candidate-vibid:4024055189868": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684935&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684935&type=464",
@@ -10427,15 +10427,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 4,
-      "Байгускарова Айгуль Ураловна": 14,
-      "Качкаев Павел Рюрикович": 172,
-      "Минниахметов Ренат Равилевич": 7,
-      "Нурисламов Борис Юрьевич": 2,
-      "Петров Виктор Григорьевич": 1,
-      "Саубанов Раис Нуриманович": 10,
-      "Сафин Фаиль Габдуллович": 6,
-      "Ющенко Александр Андреевич": 5
+      "gas:candidate-vibid:4024055203321": 4,
+      "gas:candidate-vibid:4024055203490": 14,
+      "gas:candidate-vibid:4024055203224": 172,
+      "gas:candidate-vibid:4024055189626": 7,
+      "gas:candidate-vibid:4024055201055": 2,
+      "gas:candidate-vibid:4024055203386": 1,
+      "gas:candidate-vibid:4024055189948": 10,
+      "gas:candidate-vibid:4024055203300": 6,
+      "gas:candidate-vibid:4024055189868": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684935&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684935&type=464",
@@ -10486,15 +10486,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 0,
-      "Байгускарова Айгуль Ураловна": 1,
-      "Качкаев Павел Рюрикович": 98,
-      "Минниахметов Ренат Равилевич": 1,
-      "Нурисламов Борис Юрьевич": 0,
-      "Петров Виктор Григорьевич": 0,
-      "Саубанов Раис Нуриманович": 0,
-      "Сафин Фаиль Габдуллович": 0,
-      "Ющенко Александр Андреевич": 0
+      "gas:candidate-vibid:4024055203321": 0,
+      "gas:candidate-vibid:4024055203490": 1,
+      "gas:candidate-vibid:4024055203224": 98,
+      "gas:candidate-vibid:4024055189626": 1,
+      "gas:candidate-vibid:4024055201055": 0,
+      "gas:candidate-vibid:4024055203386": 0,
+      "gas:candidate-vibid:4024055189948": 0,
+      "gas:candidate-vibid:4024055203300": 0,
+      "gas:candidate-vibid:4024055189868": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684935&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684935&type=464",
@@ -10545,15 +10545,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 3,
-      "Байгускарова Айгуль Ураловна": 3,
-      "Качкаев Павел Рюрикович": 126,
-      "Минниахметов Ренат Равилевич": 3,
-      "Нурисламов Борис Юрьевич": 2,
-      "Петров Виктор Григорьевич": 1,
-      "Саубанов Раис Нуриманович": 1,
-      "Сафин Фаиль Габдуллович": 3,
-      "Ющенко Александр Андреевич": 0
+      "gas:candidate-vibid:4024055203321": 3,
+      "gas:candidate-vibid:4024055203490": 3,
+      "gas:candidate-vibid:4024055203224": 126,
+      "gas:candidate-vibid:4024055189626": 3,
+      "gas:candidate-vibid:4024055201055": 2,
+      "gas:candidate-vibid:4024055203386": 1,
+      "gas:candidate-vibid:4024055189948": 1,
+      "gas:candidate-vibid:4024055203300": 3,
+      "gas:candidate-vibid:4024055189868": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684935&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684935&type=464",
@@ -10604,15 +10604,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 4,
-      "Байгускарова Айгуль Ураловна": 23,
-      "Качкаев Павел Рюрикович": 136,
-      "Минниахметов Ренат Равилевич": 24,
-      "Нурисламов Борис Юрьевич": 5,
-      "Петров Виктор Григорьевич": 0,
-      "Саубанов Раис Нуриманович": 6,
-      "Сафин Фаиль Габдуллович": 1,
-      "Ющенко Александр Андреевич": 1
+      "gas:candidate-vibid:4024055203321": 4,
+      "gas:candidate-vibid:4024055203490": 23,
+      "gas:candidate-vibid:4024055203224": 136,
+      "gas:candidate-vibid:4024055189626": 24,
+      "gas:candidate-vibid:4024055201055": 5,
+      "gas:candidate-vibid:4024055203386": 0,
+      "gas:candidate-vibid:4024055189948": 6,
+      "gas:candidate-vibid:4024055203300": 1,
+      "gas:candidate-vibid:4024055189868": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684935&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684935&type=464",
@@ -10663,15 +10663,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 8,
-      "Байгускарова Айгуль Ураловна": 10,
-      "Качкаев Павел Рюрикович": 405,
-      "Минниахметов Ренат Равилевич": 15,
-      "Нурисламов Борис Юрьевич": 13,
-      "Петров Виктор Григорьевич": 10,
-      "Саубанов Раис Нуриманович": 15,
-      "Сафин Фаиль Габдуллович": 8,
-      "Ющенко Александр Андреевич": 28
+      "gas:candidate-vibid:4024055203321": 8,
+      "gas:candidate-vibid:4024055203490": 10,
+      "gas:candidate-vibid:4024055203224": 405,
+      "gas:candidate-vibid:4024055189626": 15,
+      "gas:candidate-vibid:4024055201055": 13,
+      "gas:candidate-vibid:4024055203386": 10,
+      "gas:candidate-vibid:4024055189948": 15,
+      "gas:candidate-vibid:4024055203300": 8,
+      "gas:candidate-vibid:4024055189868": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684935&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684935&type=464",
@@ -10722,15 +10722,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 0,
-      "Байгускарова Айгуль Ураловна": 14,
-      "Качкаев Павел Рюрикович": 115,
-      "Минниахметов Ренат Равилевич": 17,
-      "Нурисламов Борис Юрьевич": 4,
-      "Петров Виктор Григорьевич": 0,
-      "Саубанов Раис Нуриманович": 0,
-      "Сафин Фаиль Габдуллович": 0,
-      "Ющенко Александр Андреевич": 10
+      "gas:candidate-vibid:4024055203321": 0,
+      "gas:candidate-vibid:4024055203490": 14,
+      "gas:candidate-vibid:4024055203224": 115,
+      "gas:candidate-vibid:4024055189626": 17,
+      "gas:candidate-vibid:4024055201055": 4,
+      "gas:candidate-vibid:4024055203386": 0,
+      "gas:candidate-vibid:4024055189948": 0,
+      "gas:candidate-vibid:4024055203300": 0,
+      "gas:candidate-vibid:4024055189868": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684935&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684935&type=464",
@@ -10781,15 +10781,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 3,
-      "Байгускарова Айгуль Ураловна": 30,
-      "Качкаев Павел Рюрикович": 255,
-      "Минниахметов Ренат Равилевич": 15,
-      "Нурисламов Борис Юрьевич": 10,
-      "Петров Виктор Григорьевич": 7,
-      "Саубанов Раис Нуриманович": 23,
-      "Сафин Фаиль Габдуллович": 3,
-      "Ющенко Александр Андреевич": 9
+      "gas:candidate-vibid:4024055203321": 3,
+      "gas:candidate-vibid:4024055203490": 30,
+      "gas:candidate-vibid:4024055203224": 255,
+      "gas:candidate-vibid:4024055189626": 15,
+      "gas:candidate-vibid:4024055201055": 10,
+      "gas:candidate-vibid:4024055203386": 7,
+      "gas:candidate-vibid:4024055189948": 23,
+      "gas:candidate-vibid:4024055203300": 3,
+      "gas:candidate-vibid:4024055189868": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684935&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684935&type=464",
@@ -10840,15 +10840,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 3,
-      "Байгускарова Айгуль Ураловна": 21,
-      "Качкаев Павел Рюрикович": 394,
-      "Минниахметов Ренат Равилевич": 15,
-      "Нурисламов Борис Юрьевич": 6,
-      "Петров Виктор Григорьевич": 3,
-      "Саубанов Раис Нуриманович": 4,
-      "Сафин Фаиль Габдуллович": 11,
-      "Ющенко Александр Андреевич": 53
+      "gas:candidate-vibid:4024055203321": 3,
+      "gas:candidate-vibid:4024055203490": 21,
+      "gas:candidate-vibid:4024055203224": 394,
+      "gas:candidate-vibid:4024055189626": 15,
+      "gas:candidate-vibid:4024055201055": 6,
+      "gas:candidate-vibid:4024055203386": 3,
+      "gas:candidate-vibid:4024055189948": 4,
+      "gas:candidate-vibid:4024055203300": 11,
+      "gas:candidate-vibid:4024055189868": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684935&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684935&type=464",
@@ -10899,15 +10899,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 10,
-      "Байгускарова Айгуль Ураловна": 21,
-      "Качкаев Павел Рюрикович": 219,
-      "Минниахметов Ренат Равилевич": 6,
-      "Нурисламов Борис Юрьевич": 16,
-      "Петров Виктор Григорьевич": 2,
-      "Саубанов Раис Нуриманович": 2,
-      "Сафин Фаиль Габдуллович": 4,
-      "Ющенко Александр Андреевич": 17
+      "gas:candidate-vibid:4024055203321": 10,
+      "gas:candidate-vibid:4024055203490": 21,
+      "gas:candidate-vibid:4024055203224": 219,
+      "gas:candidate-vibid:4024055189626": 6,
+      "gas:candidate-vibid:4024055201055": 16,
+      "gas:candidate-vibid:4024055203386": 2,
+      "gas:candidate-vibid:4024055189948": 2,
+      "gas:candidate-vibid:4024055203300": 4,
+      "gas:candidate-vibid:4024055189868": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684935&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684935&type=464",
@@ -10958,15 +10958,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 0,
-      "Байгускарова Айгуль Ураловна": 5,
-      "Качкаев Павел Рюрикович": 71,
-      "Минниахметов Ренат Равилевич": 10,
-      "Нурисламов Борис Юрьевич": 2,
-      "Петров Виктор Григорьевич": 1,
-      "Саубанов Раис Нуриманович": 0,
-      "Сафин Фаиль Габдуллович": 3,
-      "Ющенко Александр Андреевич": 1
+      "gas:candidate-vibid:4024055203321": 0,
+      "gas:candidate-vibid:4024055203490": 5,
+      "gas:candidate-vibid:4024055203224": 71,
+      "gas:candidate-vibid:4024055189626": 10,
+      "gas:candidate-vibid:4024055201055": 2,
+      "gas:candidate-vibid:4024055203386": 1,
+      "gas:candidate-vibid:4024055189948": 0,
+      "gas:candidate-vibid:4024055203300": 3,
+      "gas:candidate-vibid:4024055189868": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684935&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684935&type=464",
@@ -11017,15 +11017,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 4,
-      "Байгускарова Айгуль Ураловна": 23,
-      "Качкаев Павел Рюрикович": 84,
-      "Минниахметов Ренат Равилевич": 18,
-      "Нурисламов Борис Юрьевич": 3,
-      "Петров Виктор Григорьевич": 0,
-      "Саубанов Раис Нуриманович": 1,
-      "Сафин Фаиль Габдуллович": 7,
-      "Ющенко Александр Андреевич": 65
+      "gas:candidate-vibid:4024055203321": 4,
+      "gas:candidate-vibid:4024055203490": 23,
+      "gas:candidate-vibid:4024055203224": 84,
+      "gas:candidate-vibid:4024055189626": 18,
+      "gas:candidate-vibid:4024055201055": 3,
+      "gas:candidate-vibid:4024055203386": 0,
+      "gas:candidate-vibid:4024055189948": 1,
+      "gas:candidate-vibid:4024055203300": 7,
+      "gas:candidate-vibid:4024055189868": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684935&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684935&type=464",
@@ -11076,15 +11076,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 1,
-      "Байгускарова Айгуль Ураловна": 11,
-      "Качкаев Павел Рюрикович": 232,
-      "Минниахметов Ренат Равилевич": 5,
-      "Нурисламов Борис Юрьевич": 7,
-      "Петров Виктор Григорьевич": 0,
-      "Саубанов Раис Нуриманович": 2,
-      "Сафин Фаиль Габдуллович": 6,
-      "Ющенко Александр Андреевич": 56
+      "gas:candidate-vibid:4024055203321": 1,
+      "gas:candidate-vibid:4024055203490": 11,
+      "gas:candidate-vibid:4024055203224": 232,
+      "gas:candidate-vibid:4024055189626": 5,
+      "gas:candidate-vibid:4024055201055": 7,
+      "gas:candidate-vibid:4024055203386": 0,
+      "gas:candidate-vibid:4024055189948": 2,
+      "gas:candidate-vibid:4024055203300": 6,
+      "gas:candidate-vibid:4024055189868": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684935&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684935&type=464",
@@ -11135,15 +11135,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 1,
-      "Байгускарова Айгуль Ураловна": 6,
-      "Качкаев Павел Рюрикович": 140,
-      "Минниахметов Ренат Равилевич": 3,
-      "Нурисламов Борис Юрьевич": 2,
-      "Петров Виктор Григорьевич": 0,
-      "Саубанов Раис Нуриманович": 0,
-      "Сафин Фаиль Габдуллович": 0,
-      "Ющенко Александр Андреевич": 1
+      "gas:candidate-vibid:4024055203321": 1,
+      "gas:candidate-vibid:4024055203490": 6,
+      "gas:candidate-vibid:4024055203224": 140,
+      "gas:candidate-vibid:4024055189626": 3,
+      "gas:candidate-vibid:4024055201055": 2,
+      "gas:candidate-vibid:4024055203386": 0,
+      "gas:candidate-vibid:4024055189948": 0,
+      "gas:candidate-vibid:4024055203300": 0,
+      "gas:candidate-vibid:4024055189868": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684935&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684935&type=464",
@@ -11194,15 +11194,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 7,
-      "Байгускарова Айгуль Ураловна": 17,
-      "Качкаев Павел Рюрикович": 264,
-      "Минниахметов Ренат Равилевич": 24,
-      "Нурисламов Борис Юрьевич": 18,
-      "Петров Виктор Григорьевич": 2,
-      "Саубанов Раис Нуриманович": 11,
-      "Сафин Фаиль Габдуллович": 15,
-      "Ющенко Александр Андреевич": 25
+      "gas:candidate-vibid:4024055203321": 7,
+      "gas:candidate-vibid:4024055203490": 17,
+      "gas:candidate-vibid:4024055203224": 264,
+      "gas:candidate-vibid:4024055189626": 24,
+      "gas:candidate-vibid:4024055201055": 18,
+      "gas:candidate-vibid:4024055203386": 2,
+      "gas:candidate-vibid:4024055189948": 11,
+      "gas:candidate-vibid:4024055203300": 15,
+      "gas:candidate-vibid:4024055189868": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684935&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684935&type=464",
@@ -11253,15 +11253,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 2,
-      "Байгускарова Айгуль Ураловна": 17,
-      "Качкаев Павел Рюрикович": 151,
-      "Минниахметов Ренат Равилевич": 11,
-      "Нурисламов Борис Юрьевич": 2,
-      "Петров Виктор Григорьевич": 0,
-      "Саубанов Раис Нуриманович": 1,
-      "Сафин Фаиль Габдуллович": 1,
-      "Ющенко Александр Андреевич": 3
+      "gas:candidate-vibid:4024055203321": 2,
+      "gas:candidate-vibid:4024055203490": 17,
+      "gas:candidate-vibid:4024055203224": 151,
+      "gas:candidate-vibid:4024055189626": 11,
+      "gas:candidate-vibid:4024055201055": 2,
+      "gas:candidate-vibid:4024055203386": 0,
+      "gas:candidate-vibid:4024055189948": 1,
+      "gas:candidate-vibid:4024055203300": 1,
+      "gas:candidate-vibid:4024055189868": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684935&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684935&type=464",
@@ -11312,15 +11312,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 0,
-      "Байгускарова Айгуль Ураловна": 3,
-      "Качкаев Павел Рюрикович": 94,
-      "Минниахметов Ренат Равилевич": 6,
-      "Нурисламов Борис Юрьевич": 4,
-      "Петров Виктор Григорьевич": 0,
-      "Саубанов Раис Нуриманович": 0,
-      "Сафин Фаиль Габдуллович": 1,
-      "Ющенко Александр Андреевич": 0
+      "gas:candidate-vibid:4024055203321": 0,
+      "gas:candidate-vibid:4024055203490": 3,
+      "gas:candidate-vibid:4024055203224": 94,
+      "gas:candidate-vibid:4024055189626": 6,
+      "gas:candidate-vibid:4024055201055": 4,
+      "gas:candidate-vibid:4024055203386": 0,
+      "gas:candidate-vibid:4024055189948": 0,
+      "gas:candidate-vibid:4024055203300": 1,
+      "gas:candidate-vibid:4024055189868": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684935&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684935&type=464",
@@ -11371,15 +11371,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 0,
-      "Байгускарова Айгуль Ураловна": 6,
-      "Качкаев Павел Рюрикович": 82,
-      "Минниахметов Ренат Равилевич": 2,
-      "Нурисламов Борис Юрьевич": 2,
-      "Петров Виктор Григорьевич": 1,
-      "Саубанов Раис Нуриманович": 2,
-      "Сафин Фаиль Габдуллович": 0,
-      "Ющенко Александр Андреевич": 4
+      "gas:candidate-vibid:4024055203321": 0,
+      "gas:candidate-vibid:4024055203490": 6,
+      "gas:candidate-vibid:4024055203224": 82,
+      "gas:candidate-vibid:4024055189626": 2,
+      "gas:candidate-vibid:4024055201055": 2,
+      "gas:candidate-vibid:4024055203386": 1,
+      "gas:candidate-vibid:4024055189948": 2,
+      "gas:candidate-vibid:4024055203300": 0,
+      "gas:candidate-vibid:4024055189868": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684935&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684935&type=464",
@@ -11430,15 +11430,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 7,
-      "Байгускарова Айгуль Ураловна": 182,
-      "Качкаев Павел Рюрикович": 365,
-      "Минниахметов Ренат Равилевич": 48,
-      "Нурисламов Борис Юрьевич": 8,
-      "Петров Виктор Григорьевич": 5,
-      "Саубанов Раис Нуриманович": 7,
-      "Сафин Фаиль Габдуллович": 15,
-      "Ющенко Александр Андреевич": 97
+      "gas:candidate-vibid:4024055203321": 7,
+      "gas:candidate-vibid:4024055203490": 182,
+      "gas:candidate-vibid:4024055203224": 365,
+      "gas:candidate-vibid:4024055189626": 48,
+      "gas:candidate-vibid:4024055201055": 8,
+      "gas:candidate-vibid:4024055203386": 5,
+      "gas:candidate-vibid:4024055189948": 7,
+      "gas:candidate-vibid:4024055203300": 15,
+      "gas:candidate-vibid:4024055189868": 97
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684935&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684935&type=464",
@@ -11489,15 +11489,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 2,
-      "Байгускарова Айгуль Ураловна": 29,
-      "Качкаев Павел Рюрикович": 190,
-      "Минниахметов Ренат Равилевич": 23,
-      "Нурисламов Борис Юрьевич": 22,
-      "Петров Виктор Григорьевич": 3,
-      "Саубанов Раис Нуриманович": 5,
-      "Сафин Фаиль Габдуллович": 13,
-      "Ющенко Александр Андреевич": 28
+      "gas:candidate-vibid:4024055203321": 2,
+      "gas:candidate-vibid:4024055203490": 29,
+      "gas:candidate-vibid:4024055203224": 190,
+      "gas:candidate-vibid:4024055189626": 23,
+      "gas:candidate-vibid:4024055201055": 22,
+      "gas:candidate-vibid:4024055203386": 3,
+      "gas:candidate-vibid:4024055189948": 5,
+      "gas:candidate-vibid:4024055203300": 13,
+      "gas:candidate-vibid:4024055189868": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684935&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684935&type=464",
@@ -11548,15 +11548,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 7,
-      "Байгускарова Айгуль Ураловна": 20,
-      "Качкаев Павел Рюрикович": 144,
-      "Минниахметов Ренат Равилевич": 17,
-      "Нурисламов Борис Юрьевич": 5,
-      "Петров Виктор Григорьевич": 2,
-      "Саубанов Раис Нуриманович": 2,
-      "Сафин Фаиль Габдуллович": 8,
-      "Ющенко Александр Андреевич": 8
+      "gas:candidate-vibid:4024055203321": 7,
+      "gas:candidate-vibid:4024055203490": 20,
+      "gas:candidate-vibid:4024055203224": 144,
+      "gas:candidate-vibid:4024055189626": 17,
+      "gas:candidate-vibid:4024055201055": 5,
+      "gas:candidate-vibid:4024055203386": 2,
+      "gas:candidate-vibid:4024055189948": 2,
+      "gas:candidate-vibid:4024055203300": 8,
+      "gas:candidate-vibid:4024055189868": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684935&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684935&type=464",
@@ -11607,15 +11607,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 0,
-      "Байгускарова Айгуль Ураловна": 1,
-      "Качкаев Павел Рюрикович": 521,
-      "Минниахметов Ренат Равилевич": 0,
-      "Нурисламов Борис Юрьевич": 0,
-      "Петров Виктор Григорьевич": 0,
-      "Саубанов Раис Нуриманович": 0,
-      "Сафин Фаиль Габдуллович": 3,
-      "Ющенко Александр Андреевич": 46
+      "gas:candidate-vibid:4024055203321": 0,
+      "gas:candidate-vibid:4024055203490": 1,
+      "gas:candidate-vibid:4024055203224": 521,
+      "gas:candidate-vibid:4024055189626": 0,
+      "gas:candidate-vibid:4024055201055": 0,
+      "gas:candidate-vibid:4024055203386": 0,
+      "gas:candidate-vibid:4024055189948": 0,
+      "gas:candidate-vibid:4024055203300": 3,
+      "gas:candidate-vibid:4024055189868": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684935&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684935&type=464",
@@ -11666,15 +11666,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 0,
-      "Байгускарова Айгуль Ураловна": 4,
-      "Качкаев Павел Рюрикович": 127,
-      "Минниахметов Ренат Равилевич": 0,
-      "Нурисламов Борис Юрьевич": 0,
-      "Петров Виктор Григорьевич": 0,
-      "Саубанов Раис Нуриманович": 0,
-      "Сафин Фаиль Габдуллович": 0,
-      "Ющенко Александр Андреевич": 6
+      "gas:candidate-vibid:4024055203321": 0,
+      "gas:candidate-vibid:4024055203490": 4,
+      "gas:candidate-vibid:4024055203224": 127,
+      "gas:candidate-vibid:4024055189626": 0,
+      "gas:candidate-vibid:4024055201055": 0,
+      "gas:candidate-vibid:4024055203386": 0,
+      "gas:candidate-vibid:4024055189948": 0,
+      "gas:candidate-vibid:4024055203300": 0,
+      "gas:candidate-vibid:4024055189868": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684935&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684935&type=464",
@@ -11725,15 +11725,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 0,
-      "Байгускарова Айгуль Ураловна": 1,
-      "Качкаев Павел Рюрикович": 72,
-      "Минниахметов Ренат Равилевич": 0,
-      "Нурисламов Борис Юрьевич": 0,
-      "Петров Виктор Григорьевич": 0,
-      "Саубанов Раис Нуриманович": 0,
-      "Сафин Фаиль Габдуллович": 0,
-      "Ющенко Александр Андреевич": 6
+      "gas:candidate-vibid:4024055203321": 0,
+      "gas:candidate-vibid:4024055203490": 1,
+      "gas:candidate-vibid:4024055203224": 72,
+      "gas:candidate-vibid:4024055189626": 0,
+      "gas:candidate-vibid:4024055201055": 0,
+      "gas:candidate-vibid:4024055203386": 0,
+      "gas:candidate-vibid:4024055189948": 0,
+      "gas:candidate-vibid:4024055203300": 0,
+      "gas:candidate-vibid:4024055189868": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684935&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684935&type=464",
@@ -11784,15 +11784,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 0,
-      "Байгускарова Айгуль Ураловна": 6,
-      "Качкаев Павел Рюрикович": 344,
-      "Минниахметов Ренат Равилевич": 0,
-      "Нурисламов Борис Юрьевич": 0,
-      "Петров Виктор Григорьевич": 0,
-      "Саубанов Раис Нуриманович": 0,
-      "Сафин Фаиль Габдуллович": 0,
-      "Ющенко Александр Андреевич": 68
+      "gas:candidate-vibid:4024055203321": 0,
+      "gas:candidate-vibid:4024055203490": 6,
+      "gas:candidate-vibid:4024055203224": 344,
+      "gas:candidate-vibid:4024055189626": 0,
+      "gas:candidate-vibid:4024055201055": 0,
+      "gas:candidate-vibid:4024055203386": 0,
+      "gas:candidate-vibid:4024055189948": 0,
+      "gas:candidate-vibid:4024055203300": 0,
+      "gas:candidate-vibid:4024055189868": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684935&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684935&type=464",
@@ -11843,15 +11843,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 0,
-      "Байгускарова Айгуль Ураловна": 0,
-      "Качкаев Павел Рюрикович": 23,
-      "Минниахметов Ренат Равилевич": 0,
-      "Нурисламов Борис Юрьевич": 0,
-      "Петров Виктор Григорьевич": 0,
-      "Саубанов Раис Нуриманович": 0,
-      "Сафин Фаиль Габдуллович": 0,
-      "Ющенко Александр Андреевич": 0
+      "gas:candidate-vibid:4024055203321": 0,
+      "gas:candidate-vibid:4024055203490": 0,
+      "gas:candidate-vibid:4024055203224": 23,
+      "gas:candidate-vibid:4024055189626": 0,
+      "gas:candidate-vibid:4024055201055": 0,
+      "gas:candidate-vibid:4024055203386": 0,
+      "gas:candidate-vibid:4024055189948": 0,
+      "gas:candidate-vibid:4024055203300": 0,
+      "gas:candidate-vibid:4024055189868": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684935&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684935&type=464",
@@ -11902,15 +11902,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 5,
-      "Байгускарова Айгуль Ураловна": 23,
-      "Качкаев Павел Рюрикович": 260,
-      "Минниахметов Ренат Равилевич": 22,
-      "Нурисламов Борис Юрьевич": 10,
-      "Петров Виктор Григорьевич": 2,
-      "Саубанов Раис Нуриманович": 3,
-      "Сафин Фаиль Габдуллович": 7,
-      "Ющенко Александр Андреевич": 16
+      "gas:candidate-vibid:4024055203321": 5,
+      "gas:candidate-vibid:4024055203490": 23,
+      "gas:candidate-vibid:4024055203224": 260,
+      "gas:candidate-vibid:4024055189626": 22,
+      "gas:candidate-vibid:4024055201055": 10,
+      "gas:candidate-vibid:4024055203386": 2,
+      "gas:candidate-vibid:4024055189948": 3,
+      "gas:candidate-vibid:4024055203300": 7,
+      "gas:candidate-vibid:4024055189868": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684935&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684935&type=464",
@@ -11961,15 +11961,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 3,
-      "Байгускарова Айгуль Ураловна": 12,
-      "Качкаев Павел Рюрикович": 340,
-      "Минниахметов Ренат Равилевич": 19,
-      "Нурисламов Борис Юрьевич": 18,
-      "Петров Виктор Григорьевич": 10,
-      "Саубанов Раис Нуриманович": 7,
-      "Сафин Фаиль Габдуллович": 6,
-      "Ющенко Александр Андреевич": 20
+      "gas:candidate-vibid:4024055203321": 3,
+      "gas:candidate-vibid:4024055203490": 12,
+      "gas:candidate-vibid:4024055203224": 340,
+      "gas:candidate-vibid:4024055189626": 19,
+      "gas:candidate-vibid:4024055201055": 18,
+      "gas:candidate-vibid:4024055203386": 10,
+      "gas:candidate-vibid:4024055189948": 7,
+      "gas:candidate-vibid:4024055203300": 6,
+      "gas:candidate-vibid:4024055189868": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684935&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684935&type=464",
@@ -12020,15 +12020,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 17,
-      "Байгускарова Айгуль Ураловна": 11,
-      "Качкаев Павел Рюрикович": 256,
-      "Минниахметов Ренат Равилевич": 14,
-      "Нурисламов Борис Юрьевич": 2,
-      "Петров Виктор Григорьевич": 2,
-      "Саубанов Раис Нуриманович": 3,
-      "Сафин Фаиль Габдуллович": 5,
-      "Ющенко Александр Андреевич": 16
+      "gas:candidate-vibid:4024055203321": 17,
+      "gas:candidate-vibid:4024055203490": 11,
+      "gas:candidate-vibid:4024055203224": 256,
+      "gas:candidate-vibid:4024055189626": 14,
+      "gas:candidate-vibid:4024055201055": 2,
+      "gas:candidate-vibid:4024055203386": 2,
+      "gas:candidate-vibid:4024055189948": 3,
+      "gas:candidate-vibid:4024055203300": 5,
+      "gas:candidate-vibid:4024055189868": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684935&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684935&type=464",
@@ -12079,15 +12079,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 7,
-      "Байгускарова Айгуль Ураловна": 7,
-      "Качкаев Павел Рюрикович": 112,
-      "Минниахметов Ренат Равилевич": 8,
-      "Нурисламов Борис Юрьевич": 1,
-      "Петров Виктор Григорьевич": 3,
-      "Саубанов Раис Нуриманович": 7,
-      "Сафин Фаиль Габдуллович": 4,
-      "Ющенко Александр Андреевич": 3
+      "gas:candidate-vibid:4024055203321": 7,
+      "gas:candidate-vibid:4024055203490": 7,
+      "gas:candidate-vibid:4024055203224": 112,
+      "gas:candidate-vibid:4024055189626": 8,
+      "gas:candidate-vibid:4024055201055": 1,
+      "gas:candidate-vibid:4024055203386": 3,
+      "gas:candidate-vibid:4024055189948": 7,
+      "gas:candidate-vibid:4024055203300": 4,
+      "gas:candidate-vibid:4024055189868": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684935&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684935&type=464",
@@ -12138,15 +12138,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 21,
-      "Байгускарова Айгуль Ураловна": 128,
-      "Качкаев Павел Рюрикович": 556,
-      "Минниахметов Ренат Равилевич": 112,
-      "Нурисламов Борис Юрьевич": 8,
-      "Петров Виктор Григорьевич": 7,
-      "Саубанов Раис Нуриманович": 109,
-      "Сафин Фаиль Габдуллович": 13,
-      "Ющенко Александр Андреевич": 284
+      "gas:candidate-vibid:4024055203321": 21,
+      "gas:candidate-vibid:4024055203490": 128,
+      "gas:candidate-vibid:4024055203224": 556,
+      "gas:candidate-vibid:4024055189626": 112,
+      "gas:candidate-vibid:4024055201055": 8,
+      "gas:candidate-vibid:4024055203386": 7,
+      "gas:candidate-vibid:4024055189948": 109,
+      "gas:candidate-vibid:4024055203300": 13,
+      "gas:candidate-vibid:4024055189868": 284
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684936&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684936&type=464",
@@ -12197,15 +12197,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 10,
-      "Байгускарова Айгуль Ураловна": 48,
-      "Качкаев Павел Рюрикович": 522,
-      "Минниахметов Ренат Равилевич": 44,
-      "Нурисламов Борис Юрьевич": 15,
-      "Петров Виктор Григорьевич": 3,
-      "Саубанов Раис Нуриманович": 39,
-      "Сафин Фаиль Габдуллович": 16,
-      "Ющенко Александр Андреевич": 59
+      "gas:candidate-vibid:4024055203321": 10,
+      "gas:candidate-vibid:4024055203490": 48,
+      "gas:candidate-vibid:4024055203224": 522,
+      "gas:candidate-vibid:4024055189626": 44,
+      "gas:candidate-vibid:4024055201055": 15,
+      "gas:candidate-vibid:4024055203386": 3,
+      "gas:candidate-vibid:4024055189948": 39,
+      "gas:candidate-vibid:4024055203300": 16,
+      "gas:candidate-vibid:4024055189868": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684936&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684936&type=464",
@@ -12256,15 +12256,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 46,
-      "Байгускарова Айгуль Ураловна": 72,
-      "Качкаев Павел Рюрикович": 1004,
-      "Минниахметов Ренат Равилевич": 74,
-      "Нурисламов Борис Юрьевич": 13,
-      "Петров Виктор Григорьевич": 3,
-      "Саубанов Раис Нуриманович": 61,
-      "Сафин Фаиль Габдуллович": 18,
-      "Ющенко Александр Андреевич": 161
+      "gas:candidate-vibid:4024055203321": 46,
+      "gas:candidate-vibid:4024055203490": 72,
+      "gas:candidate-vibid:4024055203224": 1004,
+      "gas:candidate-vibid:4024055189626": 74,
+      "gas:candidate-vibid:4024055201055": 13,
+      "gas:candidate-vibid:4024055203386": 3,
+      "gas:candidate-vibid:4024055189948": 61,
+      "gas:candidate-vibid:4024055203300": 18,
+      "gas:candidate-vibid:4024055189868": 161
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684936&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684936&type=464",
@@ -12315,15 +12315,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 6,
-      "Байгускарова Айгуль Ураловна": 9,
-      "Качкаев Павел Рюрикович": 135,
-      "Минниахметов Ренат Равилевич": 9,
-      "Нурисламов Борис Юрьевич": 1,
-      "Петров Виктор Григорьевич": 0,
-      "Саубанов Раис Нуриманович": 2,
-      "Сафин Фаиль Габдуллович": 2,
-      "Ющенко Александр Андреевич": 5
+      "gas:candidate-vibid:4024055203321": 6,
+      "gas:candidate-vibid:4024055203490": 9,
+      "gas:candidate-vibid:4024055203224": 135,
+      "gas:candidate-vibid:4024055189626": 9,
+      "gas:candidate-vibid:4024055201055": 1,
+      "gas:candidate-vibid:4024055203386": 0,
+      "gas:candidate-vibid:4024055189948": 2,
+      "gas:candidate-vibid:4024055203300": 2,
+      "gas:candidate-vibid:4024055189868": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684936&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684936&type=464",
@@ -12374,15 +12374,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 15,
-      "Байгускарова Айгуль Ураловна": 0,
-      "Качкаев Павел Рюрикович": 71,
-      "Минниахметов Ренат Равилевич": 0,
-      "Нурисламов Борис Юрьевич": 0,
-      "Петров Виктор Григорьевич": 17,
-      "Саубанов Раис Нуриманович": 0,
-      "Сафин Фаиль Габдуллович": 0,
-      "Ющенко Александр Андреевич": 30
+      "gas:candidate-vibid:4024055203321": 15,
+      "gas:candidate-vibid:4024055203490": 0,
+      "gas:candidate-vibid:4024055203224": 71,
+      "gas:candidate-vibid:4024055189626": 0,
+      "gas:candidate-vibid:4024055201055": 0,
+      "gas:candidate-vibid:4024055203386": 17,
+      "gas:candidate-vibid:4024055189948": 0,
+      "gas:candidate-vibid:4024055203300": 0,
+      "gas:candidate-vibid:4024055189868": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684936&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684936&type=464",
@@ -12433,15 +12433,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 13,
-      "Байгускарова Айгуль Ураловна": 17,
-      "Качкаев Павел Рюрикович": 260,
-      "Минниахметов Ренат Равилевич": 8,
-      "Нурисламов Борис Юрьевич": 3,
-      "Петров Виктор Григорьевич": 1,
-      "Саубанов Раис Нуриманович": 9,
-      "Сафин Фаиль Габдуллович": 8,
-      "Ющенко Александр Андреевич": 21
+      "gas:candidate-vibid:4024055203321": 13,
+      "gas:candidate-vibid:4024055203490": 17,
+      "gas:candidate-vibid:4024055203224": 260,
+      "gas:candidate-vibid:4024055189626": 8,
+      "gas:candidate-vibid:4024055201055": 3,
+      "gas:candidate-vibid:4024055203386": 1,
+      "gas:candidate-vibid:4024055189948": 9,
+      "gas:candidate-vibid:4024055203300": 8,
+      "gas:candidate-vibid:4024055189868": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684936&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684936&type=464",
@@ -12492,15 +12492,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 5,
-      "Байгускарова Айгуль Ураловна": 3,
-      "Качкаев Павел Рюрикович": 84,
-      "Минниахметов Ренат Равилевич": 7,
-      "Нурисламов Борис Юрьевич": 0,
-      "Петров Виктор Григорьевич": 0,
-      "Саубанов Раис Нуриманович": 1,
-      "Сафин Фаиль Габдуллович": 0,
-      "Ющенко Александр Андреевич": 14
+      "gas:candidate-vibid:4024055203321": 5,
+      "gas:candidate-vibid:4024055203490": 3,
+      "gas:candidate-vibid:4024055203224": 84,
+      "gas:candidate-vibid:4024055189626": 7,
+      "gas:candidate-vibid:4024055201055": 0,
+      "gas:candidate-vibid:4024055203386": 0,
+      "gas:candidate-vibid:4024055189948": 1,
+      "gas:candidate-vibid:4024055203300": 0,
+      "gas:candidate-vibid:4024055189868": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684936&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684936&type=464",
@@ -12551,15 +12551,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 9,
-      "Байгускарова Айгуль Ураловна": 8,
-      "Качкаев Павел Рюрикович": 159,
-      "Минниахметов Ренат Равилевич": 19,
-      "Нурисламов Борис Юрьевич": 2,
-      "Петров Виктор Григорьевич": 2,
-      "Саубанов Раис Нуриманович": 1,
-      "Сафин Фаиль Габдуллович": 4,
-      "Ющенко Александр Андреевич": 10
+      "gas:candidate-vibid:4024055203321": 9,
+      "gas:candidate-vibid:4024055203490": 8,
+      "gas:candidate-vibid:4024055203224": 159,
+      "gas:candidate-vibid:4024055189626": 19,
+      "gas:candidate-vibid:4024055201055": 2,
+      "gas:candidate-vibid:4024055203386": 2,
+      "gas:candidate-vibid:4024055189948": 1,
+      "gas:candidate-vibid:4024055203300": 4,
+      "gas:candidate-vibid:4024055189868": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684936&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684936&type=464",
@@ -12610,15 +12610,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 0,
-      "Байгускарова Айгуль Ураловна": 5,
-      "Качкаев Павел Рюрикович": 320,
-      "Минниахметов Ренат Равилевич": 9,
-      "Нурисламов Борис Юрьевич": 0,
-      "Петров Виктор Григорьевич": 0,
-      "Саубанов Раис Нуриманович": 0,
-      "Сафин Фаиль Габдуллович": 0,
-      "Ющенко Александр Андреевич": 103
+      "gas:candidate-vibid:4024055203321": 0,
+      "gas:candidate-vibid:4024055203490": 5,
+      "gas:candidate-vibid:4024055203224": 320,
+      "gas:candidate-vibid:4024055189626": 9,
+      "gas:candidate-vibid:4024055201055": 0,
+      "gas:candidate-vibid:4024055203386": 0,
+      "gas:candidate-vibid:4024055189948": 0,
+      "gas:candidate-vibid:4024055203300": 0,
+      "gas:candidate-vibid:4024055189868": 103
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684936&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684936&type=464",
@@ -12669,15 +12669,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 5,
-      "Байгускарова Айгуль Ураловна": 36,
-      "Качкаев Павел Рюрикович": 131,
-      "Минниахметов Ренат Равилевич": 20,
-      "Нурисламов Борис Юрьевич": 30,
-      "Петров Виктор Григорьевич": 0,
-      "Саубанов Раис Нуриманович": 7,
-      "Сафин Фаиль Габдуллович": 4,
-      "Ющенко Александр Андреевич": 11
+      "gas:candidate-vibid:4024055203321": 5,
+      "gas:candidate-vibid:4024055203490": 36,
+      "gas:candidate-vibid:4024055203224": 131,
+      "gas:candidate-vibid:4024055189626": 20,
+      "gas:candidate-vibid:4024055201055": 30,
+      "gas:candidate-vibid:4024055203386": 0,
+      "gas:candidate-vibid:4024055189948": 7,
+      "gas:candidate-vibid:4024055203300": 4,
+      "gas:candidate-vibid:4024055189868": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684936&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684936&type=464",
@@ -12728,15 +12728,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 14,
-      "Байгускарова Айгуль Ураловна": 88,
-      "Качкаев Павел Рюрикович": 415,
-      "Минниахметов Ренат Равилевич": 102,
-      "Нурисламов Борис Юрьевич": 41,
-      "Петров Виктор Григорьевич": 10,
-      "Саубанов Раис Нуриманович": 31,
-      "Сафин Фаиль Габдуллович": 7,
-      "Ющенко Александр Андреевич": 212
+      "gas:candidate-vibid:4024055203321": 14,
+      "gas:candidate-vibid:4024055203490": 88,
+      "gas:candidate-vibid:4024055203224": 415,
+      "gas:candidate-vibid:4024055189626": 102,
+      "gas:candidate-vibid:4024055201055": 41,
+      "gas:candidate-vibid:4024055203386": 10,
+      "gas:candidate-vibid:4024055189948": 31,
+      "gas:candidate-vibid:4024055203300": 7,
+      "gas:candidate-vibid:4024055189868": 212
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684936&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684936&type=464",
@@ -12787,15 +12787,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 0,
-      "Байгускарова Айгуль Ураловна": 24,
-      "Качкаев Павел Рюрикович": 80,
-      "Минниахметов Ренат Равилевич": 14,
-      "Нурисламов Борис Юрьевич": 0,
-      "Петров Виктор Григорьевич": 0,
-      "Саубанов Раис Нуриманович": 16,
-      "Сафин Фаиль Габдуллович": 0,
-      "Ющенко Александр Андреевич": 42
+      "gas:candidate-vibid:4024055203321": 0,
+      "gas:candidate-vibid:4024055203490": 24,
+      "gas:candidate-vibid:4024055203224": 80,
+      "gas:candidate-vibid:4024055189626": 14,
+      "gas:candidate-vibid:4024055201055": 0,
+      "gas:candidate-vibid:4024055203386": 0,
+      "gas:candidate-vibid:4024055189948": 16,
+      "gas:candidate-vibid:4024055203300": 0,
+      "gas:candidate-vibid:4024055189868": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684936&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684936&type=464",
@@ -12846,15 +12846,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 6,
-      "Байгускарова Айгуль Ураловна": 57,
-      "Качкаев Павел Рюрикович": 250,
-      "Минниахметов Ренат Равилевич": 29,
-      "Нурисламов Борис Юрьевич": 6,
-      "Петров Виктор Григорьевич": 1,
-      "Саубанов Раис Нуриманович": 9,
-      "Сафин Фаиль Габдуллович": 4,
-      "Ющенко Александр Андреевич": 59
+      "gas:candidate-vibid:4024055203321": 6,
+      "gas:candidate-vibid:4024055203490": 57,
+      "gas:candidate-vibid:4024055203224": 250,
+      "gas:candidate-vibid:4024055189626": 29,
+      "gas:candidate-vibid:4024055201055": 6,
+      "gas:candidate-vibid:4024055203386": 1,
+      "gas:candidate-vibid:4024055189948": 9,
+      "gas:candidate-vibid:4024055203300": 4,
+      "gas:candidate-vibid:4024055189868": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684936&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684936&type=464",
@@ -12905,15 +12905,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 3,
-      "Байгускарова Айгуль Ураловна": 4,
-      "Качкаев Павел Рюрикович": 94,
-      "Минниахметов Ренат Равилевич": 4,
-      "Нурисламов Борис Юрьевич": 2,
-      "Петров Виктор Григорьевич": 1,
-      "Саубанов Раис Нуриманович": 1,
-      "Сафин Фаиль Габдуллович": 3,
-      "Ющенко Александр Андреевич": 41
+      "gas:candidate-vibid:4024055203321": 3,
+      "gas:candidate-vibid:4024055203490": 4,
+      "gas:candidate-vibid:4024055203224": 94,
+      "gas:candidate-vibid:4024055189626": 4,
+      "gas:candidate-vibid:4024055201055": 2,
+      "gas:candidate-vibid:4024055203386": 1,
+      "gas:candidate-vibid:4024055189948": 1,
+      "gas:candidate-vibid:4024055203300": 3,
+      "gas:candidate-vibid:4024055189868": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684936&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684936&type=464",
@@ -12964,15 +12964,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 52,
-      "Байгускарова Айгуль Ураловна": 46,
-      "Качкаев Павел Рюрикович": 459,
-      "Минниахметов Ренат Равилевич": 81,
-      "Нурисламов Борис Юрьевич": 41,
-      "Петров Виктор Григорьевич": 29,
-      "Саубанов Раис Нуриманович": 20,
-      "Сафин Фаиль Габдуллович": 30,
-      "Ющенко Александр Андреевич": 46
+      "gas:candidate-vibid:4024055203321": 52,
+      "gas:candidate-vibid:4024055203490": 46,
+      "gas:candidate-vibid:4024055203224": 459,
+      "gas:candidate-vibid:4024055189626": 81,
+      "gas:candidate-vibid:4024055201055": 41,
+      "gas:candidate-vibid:4024055203386": 29,
+      "gas:candidate-vibid:4024055189948": 20,
+      "gas:candidate-vibid:4024055203300": 30,
+      "gas:candidate-vibid:4024055189868": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684936&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684936&type=464",
@@ -13023,15 +13023,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 12,
-      "Байгускарова Айгуль Ураловна": 27,
-      "Качкаев Павел Рюрикович": 617,
-      "Минниахметов Ренат Равилевич": 26,
-      "Нурисламов Борис Юрьевич": 20,
-      "Петров Виктор Григорьевич": 8,
-      "Саубанов Раис Нуриманович": 5,
-      "Сафин Фаиль Габдуллович": 4,
-      "Ющенко Александр Андреевич": 17
+      "gas:candidate-vibid:4024055203321": 12,
+      "gas:candidate-vibid:4024055203490": 27,
+      "gas:candidate-vibid:4024055203224": 617,
+      "gas:candidate-vibid:4024055189626": 26,
+      "gas:candidate-vibid:4024055201055": 20,
+      "gas:candidate-vibid:4024055203386": 8,
+      "gas:candidate-vibid:4024055189948": 5,
+      "gas:candidate-vibid:4024055203300": 4,
+      "gas:candidate-vibid:4024055189868": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684936&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684936&type=464",
@@ -13082,15 +13082,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 13,
-      "Байгускарова Айгуль Ураловна": 3,
-      "Качкаев Павел Рюрикович": 96,
-      "Минниахметов Ренат Равилевич": 9,
-      "Нурисламов Борис Юрьевич": 5,
-      "Петров Виктор Григорьевич": 4,
-      "Саубанов Раис Нуриманович": 1,
-      "Сафин Фаиль Габдуллович": 1,
-      "Ющенко Александр Андреевич": 5
+      "gas:candidate-vibid:4024055203321": 13,
+      "gas:candidate-vibid:4024055203490": 3,
+      "gas:candidate-vibid:4024055203224": 96,
+      "gas:candidate-vibid:4024055189626": 9,
+      "gas:candidate-vibid:4024055201055": 5,
+      "gas:candidate-vibid:4024055203386": 4,
+      "gas:candidate-vibid:4024055189948": 1,
+      "gas:candidate-vibid:4024055203300": 1,
+      "gas:candidate-vibid:4024055189868": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684936&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684936&type=464",
@@ -13141,15 +13141,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 46,
-      "Байгускарова Айгуль Ураловна": 40,
-      "Качкаев Павел Рюрикович": 327,
-      "Минниахметов Ренат Равилевич": 58,
-      "Нурисламов Борис Юрьевич": 17,
-      "Петров Виктор Григорьевич": 13,
-      "Саубанов Раис Нуриманович": 6,
-      "Сафин Фаиль Габдуллович": 11,
-      "Ющенко Александр Андреевич": 42
+      "gas:candidate-vibid:4024055203321": 46,
+      "gas:candidate-vibid:4024055203490": 40,
+      "gas:candidate-vibid:4024055203224": 327,
+      "gas:candidate-vibid:4024055189626": 58,
+      "gas:candidate-vibid:4024055201055": 17,
+      "gas:candidate-vibid:4024055203386": 13,
+      "gas:candidate-vibid:4024055189948": 6,
+      "gas:candidate-vibid:4024055203300": 11,
+      "gas:candidate-vibid:4024055189868": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684936&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684936&type=464",
@@ -13200,15 +13200,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 5,
-      "Байгускарова Айгуль Ураловна": 9,
-      "Качкаев Павел Рюрикович": 165,
-      "Минниахметов Ренат Равилевич": 9,
-      "Нурисламов Борис Юрьевич": 5,
-      "Петров Виктор Григорьевич": 5,
-      "Саубанов Раис Нуриманович": 7,
-      "Сафин Фаиль Габдуллович": 7,
-      "Ющенко Александр Андреевич": 65
+      "gas:candidate-vibid:4024055203321": 5,
+      "gas:candidate-vibid:4024055203490": 9,
+      "gas:candidate-vibid:4024055203224": 165,
+      "gas:candidate-vibid:4024055189626": 9,
+      "gas:candidate-vibid:4024055201055": 5,
+      "gas:candidate-vibid:4024055203386": 5,
+      "gas:candidate-vibid:4024055189948": 7,
+      "gas:candidate-vibid:4024055203300": 7,
+      "gas:candidate-vibid:4024055189868": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684936&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684936&type=464",
@@ -13259,15 +13259,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 3,
-      "Байгускарова Айгуль Ураловна": 23,
-      "Качкаев Павел Рюрикович": 132,
-      "Минниахметов Ренат Равилевич": 58,
-      "Нурисламов Борис Юрьевич": 4,
-      "Петров Виктор Григорьевич": 5,
-      "Саубанов Раис Нуриманович": 9,
-      "Сафин Фаиль Габдуллович": 7,
-      "Ющенко Александр Андреевич": 62
+      "gas:candidate-vibid:4024055203321": 3,
+      "gas:candidate-vibid:4024055203490": 23,
+      "gas:candidate-vibid:4024055203224": 132,
+      "gas:candidate-vibid:4024055189626": 58,
+      "gas:candidate-vibid:4024055201055": 4,
+      "gas:candidate-vibid:4024055203386": 5,
+      "gas:candidate-vibid:4024055189948": 9,
+      "gas:candidate-vibid:4024055203300": 7,
+      "gas:candidate-vibid:4024055189868": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684936&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684936&type=464",
@@ -13318,15 +13318,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 11,
-      "Байгускарова Айгуль Ураловна": 30,
-      "Качкаев Павел Рюрикович": 308,
-      "Минниахметов Ренат Равилевич": 28,
-      "Нурисламов Борис Юрьевич": 14,
-      "Петров Виктор Григорьевич": 0,
-      "Саубанов Раис Нуриманович": 9,
-      "Сафин Фаиль Габдуллович": 18,
-      "Ющенко Александр Андреевич": 61
+      "gas:candidate-vibid:4024055203321": 11,
+      "gas:candidate-vibid:4024055203490": 30,
+      "gas:candidate-vibid:4024055203224": 308,
+      "gas:candidate-vibid:4024055189626": 28,
+      "gas:candidate-vibid:4024055201055": 14,
+      "gas:candidate-vibid:4024055203386": 0,
+      "gas:candidate-vibid:4024055189948": 9,
+      "gas:candidate-vibid:4024055203300": 18,
+      "gas:candidate-vibid:4024055189868": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684936&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684936&type=464",
@@ -13377,15 +13377,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 0,
-      "Байгускарова Айгуль Ураловна": 6,
-      "Качкаев Павел Рюрикович": 114,
-      "Минниахметов Ренат Равилевич": 5,
-      "Нурисламов Борис Юрьевич": 0,
-      "Петров Виктор Григорьевич": 0,
-      "Саубанов Раис Нуриманович": 3,
-      "Сафин Фаиль Габдуллович": 4,
-      "Ющенко Александр Андреевич": 10
+      "gas:candidate-vibid:4024055203321": 0,
+      "gas:candidate-vibid:4024055203490": 6,
+      "gas:candidate-vibid:4024055203224": 114,
+      "gas:candidate-vibid:4024055189626": 5,
+      "gas:candidate-vibid:4024055201055": 0,
+      "gas:candidate-vibid:4024055203386": 0,
+      "gas:candidate-vibid:4024055189948": 3,
+      "gas:candidate-vibid:4024055203300": 4,
+      "gas:candidate-vibid:4024055189868": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684936&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684936&type=464",
@@ -13436,15 +13436,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 2,
-      "Байгускарова Айгуль Ураловна": 12,
-      "Качкаев Павел Рюрикович": 97,
-      "Минниахметов Ренат Равилевич": 11,
-      "Нурисламов Борис Юрьевич": 2,
-      "Петров Виктор Григорьевич": 0,
-      "Саубанов Раис Нуриманович": 12,
-      "Сафин Фаиль Габдуллович": 3,
-      "Ющенко Александр Андреевич": 21
+      "gas:candidate-vibid:4024055203321": 2,
+      "gas:candidate-vibid:4024055203490": 12,
+      "gas:candidate-vibid:4024055203224": 97,
+      "gas:candidate-vibid:4024055189626": 11,
+      "gas:candidate-vibid:4024055201055": 2,
+      "gas:candidate-vibid:4024055203386": 0,
+      "gas:candidate-vibid:4024055189948": 12,
+      "gas:candidate-vibid:4024055203300": 3,
+      "gas:candidate-vibid:4024055189868": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684936&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684936&type=464",
@@ -13495,15 +13495,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 12,
-      "Байгускарова Айгуль Ураловна": 18,
-      "Качкаев Павел Рюрикович": 147,
-      "Минниахметов Ренат Равилевич": 16,
-      "Нурисламов Борис Юрьевич": 18,
-      "Петров Виктор Григорьевич": 15,
-      "Саубанов Раис Нуриманович": 6,
-      "Сафин Фаиль Габдуллович": 0,
-      "Ющенко Александр Андреевич": 69
+      "gas:candidate-vibid:4024055203321": 12,
+      "gas:candidate-vibid:4024055203490": 18,
+      "gas:candidate-vibid:4024055203224": 147,
+      "gas:candidate-vibid:4024055189626": 16,
+      "gas:candidate-vibid:4024055201055": 18,
+      "gas:candidate-vibid:4024055203386": 15,
+      "gas:candidate-vibid:4024055189948": 6,
+      "gas:candidate-vibid:4024055203300": 0,
+      "gas:candidate-vibid:4024055189868": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684936&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684936&type=464",
@@ -13554,15 +13554,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 5,
-      "Байгускарова Айгуль Ураловна": 7,
-      "Качкаев Павел Рюрикович": 107,
-      "Минниахметов Ренат Равилевич": 8,
-      "Нурисламов Борис Юрьевич": 6,
-      "Петров Виктор Григорьевич": 0,
-      "Саубанов Раис Нуриманович": 3,
-      "Сафин Фаиль Габдуллович": 2,
-      "Ющенко Александр Андреевич": 10
+      "gas:candidate-vibid:4024055203321": 5,
+      "gas:candidate-vibid:4024055203490": 7,
+      "gas:candidate-vibid:4024055203224": 107,
+      "gas:candidate-vibid:4024055189626": 8,
+      "gas:candidate-vibid:4024055201055": 6,
+      "gas:candidate-vibid:4024055203386": 0,
+      "gas:candidate-vibid:4024055189948": 3,
+      "gas:candidate-vibid:4024055203300": 2,
+      "gas:candidate-vibid:4024055189868": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684936&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684936&type=464",
@@ -13613,15 +13613,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 6,
-      "Байгускарова Айгуль Ураловна": 22,
-      "Качкаев Павел Рюрикович": 409,
-      "Минниахметов Ренат Равилевич": 37,
-      "Нурисламов Борис Юрьевич": 7,
-      "Петров Виктор Григорьевич": 2,
-      "Саубанов Раис Нуриманович": 13,
-      "Сафин Фаиль Габдуллович": 1,
-      "Ющенко Александр Андреевич": 5
+      "gas:candidate-vibid:4024055203321": 6,
+      "gas:candidate-vibid:4024055203490": 22,
+      "gas:candidate-vibid:4024055203224": 409,
+      "gas:candidate-vibid:4024055189626": 37,
+      "gas:candidate-vibid:4024055201055": 7,
+      "gas:candidate-vibid:4024055203386": 2,
+      "gas:candidate-vibid:4024055189948": 13,
+      "gas:candidate-vibid:4024055203300": 1,
+      "gas:candidate-vibid:4024055189868": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684936&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684936&type=464",
@@ -13672,15 +13672,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 1,
-      "Байгускарова Айгуль Ураловна": 16,
-      "Качкаев Павел Рюрикович": 142,
-      "Минниахметов Ренат Равилевич": 6,
-      "Нурисламов Борис Юрьевич": 1,
-      "Петров Виктор Григорьевич": 2,
-      "Саубанов Раис Нуриманович": 9,
-      "Сафин Фаиль Габдуллович": 2,
-      "Ющенко Александр Андреевич": 10
+      "gas:candidate-vibid:4024055203321": 1,
+      "gas:candidate-vibid:4024055203490": 16,
+      "gas:candidate-vibid:4024055203224": 142,
+      "gas:candidate-vibid:4024055189626": 6,
+      "gas:candidate-vibid:4024055201055": 1,
+      "gas:candidate-vibid:4024055203386": 2,
+      "gas:candidate-vibid:4024055189948": 9,
+      "gas:candidate-vibid:4024055203300": 2,
+      "gas:candidate-vibid:4024055189868": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684936&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684936&type=464",
@@ -13731,15 +13731,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 34,
-      "Байгускарова Айгуль Ураловна": 45,
-      "Качкаев Павел Рюрикович": 755,
-      "Минниахметов Ренат Равилевич": 108,
-      "Нурисламов Борис Юрьевич": 34,
-      "Петров Виктор Григорьевич": 15,
-      "Саубанов Раис Нуриманович": 34,
-      "Сафин Фаиль Габдуллович": 29,
-      "Ющенко Александр Андреевич": 248
+      "gas:candidate-vibid:4024055203321": 34,
+      "gas:candidate-vibid:4024055203490": 45,
+      "gas:candidate-vibid:4024055203224": 755,
+      "gas:candidate-vibid:4024055189626": 108,
+      "gas:candidate-vibid:4024055201055": 34,
+      "gas:candidate-vibid:4024055203386": 15,
+      "gas:candidate-vibid:4024055189948": 34,
+      "gas:candidate-vibid:4024055203300": 29,
+      "gas:candidate-vibid:4024055189868": 248
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684936&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684936&type=464",
@@ -13790,15 +13790,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 47,
-      "Байгускарова Айгуль Ураловна": 34,
-      "Качкаев Павел Рюрикович": 476,
-      "Минниахметов Ренат Равилевич": 48,
-      "Нурисламов Борис Юрьевич": 57,
-      "Петров Виктор Григорьевич": 54,
-      "Саубанов Раис Нуриманович": 21,
-      "Сафин Фаиль Габдуллович": 76,
-      "Ющенко Александр Андреевич": 244
+      "gas:candidate-vibid:4024055203321": 47,
+      "gas:candidate-vibid:4024055203490": 34,
+      "gas:candidate-vibid:4024055203224": 476,
+      "gas:candidate-vibid:4024055189626": 48,
+      "gas:candidate-vibid:4024055201055": 57,
+      "gas:candidate-vibid:4024055203386": 54,
+      "gas:candidate-vibid:4024055189948": 21,
+      "gas:candidate-vibid:4024055203300": 76,
+      "gas:candidate-vibid:4024055189868": 244
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684936&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684936&type=464",
@@ -13849,15 +13849,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 25,
-      "Байгускарова Айгуль Ураловна": 41,
-      "Качкаев Павел Рюрикович": 759,
-      "Минниахметов Ренат Равилевич": 44,
-      "Нурисламов Борис Юрьевич": 16,
-      "Петров Виктор Григорьевич": 1,
-      "Саубанов Раис Нуриманович": 24,
-      "Сафин Фаиль Габдуллович": 20,
-      "Ющенко Александр Андреевич": 111
+      "gas:candidate-vibid:4024055203321": 25,
+      "gas:candidate-vibid:4024055203490": 41,
+      "gas:candidate-vibid:4024055203224": 759,
+      "gas:candidate-vibid:4024055189626": 44,
+      "gas:candidate-vibid:4024055201055": 16,
+      "gas:candidate-vibid:4024055203386": 1,
+      "gas:candidate-vibid:4024055189948": 24,
+      "gas:candidate-vibid:4024055203300": 20,
+      "gas:candidate-vibid:4024055189868": 111
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684936&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684936&type=464",
@@ -13908,15 +13908,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 95,
-      "Байгускарова Айгуль Ураловна": 95,
-      "Качкаев Павел Рюрикович": 669,
-      "Минниахметов Ренат Равилевич": 101,
-      "Нурисламов Борис Юрьевич": 90,
-      "Петров Виктор Григорьевич": 143,
-      "Саубанов Раис Нуриманович": 145,
-      "Сафин Фаиль Габдуллович": 0,
-      "Ющенко Александр Андреевич": 335
+      "gas:candidate-vibid:4024055203321": 95,
+      "gas:candidate-vibid:4024055203490": 95,
+      "gas:candidate-vibid:4024055203224": 669,
+      "gas:candidate-vibid:4024055189626": 101,
+      "gas:candidate-vibid:4024055201055": 90,
+      "gas:candidate-vibid:4024055203386": 143,
+      "gas:candidate-vibid:4024055189948": 145,
+      "gas:candidate-vibid:4024055203300": 0,
+      "gas:candidate-vibid:4024055189868": 335
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684936&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684936&type=464",
@@ -13967,15 +13967,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 0,
-      "Байгускарова Айгуль Ураловна": 0,
-      "Качкаев Павел Рюрикович": 162,
-      "Минниахметов Ренат Равилевич": 0,
-      "Нурисламов Борис Юрьевич": 0,
-      "Петров Виктор Григорьевич": 57,
-      "Саубанов Раис Нуриманович": 57,
-      "Сафин Фаиль Габдуллович": 0,
-      "Ющенко Александр Андреевич": 83
+      "gas:candidate-vibid:4024055203321": 0,
+      "gas:candidate-vibid:4024055203490": 0,
+      "gas:candidate-vibid:4024055203224": 162,
+      "gas:candidate-vibid:4024055189626": 0,
+      "gas:candidate-vibid:4024055201055": 0,
+      "gas:candidate-vibid:4024055203386": 57,
+      "gas:candidate-vibid:4024055189948": 57,
+      "gas:candidate-vibid:4024055203300": 0,
+      "gas:candidate-vibid:4024055189868": 83
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684936&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684936&type=464",
@@ -14026,15 +14026,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 12,
-      "Байгускарова Айгуль Ураловна": 18,
-      "Качкаев Павел Рюрикович": 123,
-      "Минниахметов Ренат Равилевич": 17,
-      "Нурисламов Борис Юрьевич": 5,
-      "Петров Виктор Григорьевич": 8,
-      "Саубанов Раис Нуриманович": 10,
-      "Сафин Фаиль Габдуллович": 12,
-      "Ющенко Александр Андреевич": 65
+      "gas:candidate-vibid:4024055203321": 12,
+      "gas:candidate-vibid:4024055203490": 18,
+      "gas:candidate-vibid:4024055203224": 123,
+      "gas:candidate-vibid:4024055189626": 17,
+      "gas:candidate-vibid:4024055201055": 5,
+      "gas:candidate-vibid:4024055203386": 8,
+      "gas:candidate-vibid:4024055189948": 10,
+      "gas:candidate-vibid:4024055203300": 12,
+      "gas:candidate-vibid:4024055189868": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684936&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684936&type=464",
@@ -14085,15 +14085,15 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреева Елена Ярославовна": 0,
-      "Байгускарова Айгуль Ураловна": 30,
-      "Качкаев Павел Рюрикович": 192,
-      "Минниахметов Ренат Равилевич": 85,
-      "Нурисламов Борис Юрьевич": 0,
-      "Петров Виктор Григорьевич": 0,
-      "Саубанов Раис Нуриманович": 22,
-      "Сафин Фаиль Габдуллович": 0,
-      "Ющенко Александр Андреевич": 98
+      "gas:candidate-vibid:4024055203321": 0,
+      "gas:candidate-vibid:4024055203490": 30,
+      "gas:candidate-vibid:4024055203224": 192,
+      "gas:candidate-vibid:4024055189626": 85,
+      "gas:candidate-vibid:4024055201055": 0,
+      "gas:candidate-vibid:4024055203386": 0,
+      "gas:candidate-vibid:4024055189948": 22,
+      "gas:candidate-vibid:4024055203300": 0,
+      "gas:candidate-vibid:4024055189868": 98
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000006&tvd=20220001684936&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684936&type=464",
@@ -14144,13 +14144,13 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 34,
-      "Бикбаев Ильдар Зинурович": 111,
-      "Кадыров Рафис Фаизович": 47,
-      "Кузьмина Алла Александровна": 13,
-      "Лихачев Олег Эдуардович": 15,
-      "Рябов Вячеслав Владимирович": 93,
-      "Хафизов Рустам Фларидович": 48
+      "gas:candidate-vibid:4024058207925": 34,
+      "gas:candidate-vibid:4024058208161": 111,
+      "gas:candidate-vibid:4024058208025": 47,
+      "gas:candidate-vibid:4024058208193": 13,
+      "gas:candidate-vibid:4024058187280": 15,
+      "gas:candidate-vibid:4024058186602": 93,
+      "gas:candidate-vibid:4024058187114": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684938&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684938&type=464",
@@ -14201,13 +14201,13 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 60,
-      "Бикбаев Ильдар Зинурович": 281,
-      "Кадыров Рафис Фаизович": 69,
-      "Кузьмина Алла Александровна": 37,
-      "Лихачев Олег Эдуардович": 69,
-      "Рябов Вячеслав Владимирович": 125,
-      "Хафизов Рустам Фларидович": 79
+      "gas:candidate-vibid:4024058207925": 60,
+      "gas:candidate-vibid:4024058208161": 281,
+      "gas:candidate-vibid:4024058208025": 69,
+      "gas:candidate-vibid:4024058208193": 37,
+      "gas:candidate-vibid:4024058187280": 69,
+      "gas:candidate-vibid:4024058186602": 125,
+      "gas:candidate-vibid:4024058187114": 79
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684938&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684938&type=464",
@@ -14258,13 +14258,13 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 18,
-      "Бикбаев Ильдар Зинурович": 1167,
-      "Кадыров Рафис Фаизович": 174,
-      "Кузьмина Алла Александровна": 15,
-      "Лихачев Олег Эдуардович": 19,
-      "Рябов Вячеслав Владимирович": 185,
-      "Хафизов Рустам Фларидович": 275
+      "gas:candidate-vibid:4024058207925": 18,
+      "gas:candidate-vibid:4024058208161": 1167,
+      "gas:candidate-vibid:4024058208025": 174,
+      "gas:candidate-vibid:4024058208193": 15,
+      "gas:candidate-vibid:4024058187280": 19,
+      "gas:candidate-vibid:4024058186602": 185,
+      "gas:candidate-vibid:4024058187114": 275
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684938&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684938&type=464",
@@ -14315,13 +14315,13 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 61,
-      "Бикбаев Ильдар Зинурович": 259,
-      "Кадыров Рафис Фаизович": 71,
-      "Кузьмина Алла Александровна": 47,
-      "Лихачев Олег Эдуардович": 55,
-      "Рябов Вячеслав Владимирович": 98,
-      "Хафизов Рустам Фларидович": 111
+      "gas:candidate-vibid:4024058207925": 61,
+      "gas:candidate-vibid:4024058208161": 259,
+      "gas:candidate-vibid:4024058208025": 71,
+      "gas:candidate-vibid:4024058208193": 47,
+      "gas:candidate-vibid:4024058187280": 55,
+      "gas:candidate-vibid:4024058186602": 98,
+      "gas:candidate-vibid:4024058187114": 111
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684938&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684938&type=464",
@@ -14372,13 +14372,13 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 71,
-      "Бикбаев Ильдар Зинурович": 201,
-      "Кадыров Рафис Фаизович": 84,
-      "Кузьмина Алла Александровна": 19,
-      "Лихачев Олег Эдуардович": 34,
-      "Рябов Вячеслав Владимирович": 92,
-      "Хафизов Рустам Фларидович": 78
+      "gas:candidate-vibid:4024058207925": 71,
+      "gas:candidate-vibid:4024058208161": 201,
+      "gas:candidate-vibid:4024058208025": 84,
+      "gas:candidate-vibid:4024058208193": 19,
+      "gas:candidate-vibid:4024058187280": 34,
+      "gas:candidate-vibid:4024058186602": 92,
+      "gas:candidate-vibid:4024058187114": 78
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684938&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684938&type=464",
@@ -14429,13 +14429,13 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 143,
-      "Бикбаев Ильдар Зинурович": 428,
-      "Кадыров Рафис Фаизович": 18,
-      "Кузьмина Алла Александровна": 116,
-      "Лихачев Олег Эдуардович": 54,
-      "Рябов Вячеслав Владимирович": 201,
-      "Хафизов Рустам Фларидович": 154
+      "gas:candidate-vibid:4024058207925": 143,
+      "gas:candidate-vibid:4024058208161": 428,
+      "gas:candidate-vibid:4024058208025": 18,
+      "gas:candidate-vibid:4024058208193": 116,
+      "gas:candidate-vibid:4024058187280": 54,
+      "gas:candidate-vibid:4024058186602": 201,
+      "gas:candidate-vibid:4024058187114": 154
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684938&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684938&type=464",
@@ -14486,13 +14486,13 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 67,
-      "Бикбаев Ильдар Зинурович": 518,
-      "Кадыров Рафис Фаизович": 24,
-      "Кузьмина Алла Александровна": 138,
-      "Лихачев Олег Эдуардович": 43,
-      "Рябов Вячеслав Владимирович": 258,
-      "Хафизов Рустам Фларидович": 158
+      "gas:candidate-vibid:4024058207925": 67,
+      "gas:candidate-vibid:4024058208161": 518,
+      "gas:candidate-vibid:4024058208025": 24,
+      "gas:candidate-vibid:4024058208193": 138,
+      "gas:candidate-vibid:4024058187280": 43,
+      "gas:candidate-vibid:4024058186602": 258,
+      "gas:candidate-vibid:4024058187114": 158
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684938&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684938&type=464",
@@ -14543,13 +14543,13 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 105,
-      "Бикбаев Ильдар Зинурович": 382,
-      "Кадыров Рафис Фаизович": 121,
-      "Кузьмина Алла Александровна": 45,
-      "Лихачев Олег Эдуардович": 35,
-      "Рябов Вячеслав Владимирович": 176,
-      "Хафизов Рустам Фларидович": 80
+      "gas:candidate-vibid:4024058207925": 105,
+      "gas:candidate-vibid:4024058208161": 382,
+      "gas:candidate-vibid:4024058208025": 121,
+      "gas:candidate-vibid:4024058208193": 45,
+      "gas:candidate-vibid:4024058187280": 35,
+      "gas:candidate-vibid:4024058186602": 176,
+      "gas:candidate-vibid:4024058187114": 80
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684938&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684938&type=464",
@@ -14600,13 +14600,13 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 90,
-      "Бикбаев Ильдар Зинурович": 431,
-      "Кадыров Рафис Фаизович": 117,
-      "Кузьмина Алла Александровна": 91,
-      "Лихачев Олег Эдуардович": 111,
-      "Рябов Вячеслав Владимирович": 204,
-      "Хафизов Рустам Фларидович": 87
+      "gas:candidate-vibid:4024058207925": 90,
+      "gas:candidate-vibid:4024058208161": 431,
+      "gas:candidate-vibid:4024058208025": 117,
+      "gas:candidate-vibid:4024058208193": 91,
+      "gas:candidate-vibid:4024058187280": 111,
+      "gas:candidate-vibid:4024058186602": 204,
+      "gas:candidate-vibid:4024058187114": 87
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684938&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684938&type=464",
@@ -14657,13 +14657,13 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 138,
-      "Бикбаев Ильдар Зинурович": 389,
-      "Кадыров Рафис Фаизович": 112,
-      "Кузьмина Алла Александровна": 105,
-      "Лихачев Олег Эдуардович": 136,
-      "Рябов Вячеслав Владимирович": 173,
-      "Хафизов Рустам Фларидович": 126
+      "gas:candidate-vibid:4024058207925": 138,
+      "gas:candidate-vibid:4024058208161": 389,
+      "gas:candidate-vibid:4024058208025": 112,
+      "gas:candidate-vibid:4024058208193": 105,
+      "gas:candidate-vibid:4024058187280": 136,
+      "gas:candidate-vibid:4024058186602": 173,
+      "gas:candidate-vibid:4024058187114": 126
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684938&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684938&type=464",
@@ -14714,13 +14714,13 @@ export const duma_2016_uik_463_region_3_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бадретдинов Валиахмет Минниахметович": 55,
-      "Бикбаев Ильдар Зинурович": 133,
-      "Кадыров Рафис Фаизович": 36,
-      "Кузьмина Алла Александровна": 24,
-      "Лихачев Олег Эдуардович": 34,
-      "Рябов Вячеслав Владимирович": 84,
-      "Хафизов Рустам Фларидович": 72
+      "gas:candidate-vibid:4024058207925": 55,
+      "gas:candidate-vibid:4024058208161": 133,
+      "gas:candidate-vibid:4024058208025": 36,
+      "gas:candidate-vibid:4024058208193": 24,
+      "gas:candidate-vibid:4024058187280": 34,
+      "gas:candidate-vibid:4024058186602": 84,
+      "gas:candidate-vibid:4024058187114": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000007&tvd=20220001684938&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684938&type=464",

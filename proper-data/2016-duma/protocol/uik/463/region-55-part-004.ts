@@ -43,13 +43,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 1,
-      "Атаманиченко Кирилл Игоревич": 22,
-      "Дубовский Евгений Юрьевич": 6,
-      "Жуков Владимир Алексеевич": 14,
-      "Курнявко Олег Леонидович": 2,
-      "Огаркова Татьяна Михайловна": 0,
-      "Смолин Олег Николаевич": 50
+      "gas:candidate-vibid:2552000990097": 1,
+      "gas:candidate-vibid:2552000982914": 22,
+      "gas:candidate-vibid:2552000987491": 6,
+      "gas:candidate-vibid:2552000989928": 14,
+      "gas:candidate-vibid:2552000995699": 2,
+      "gas:candidate-vibid:2552000995804": 0,
+      "gas:candidate-vibid:2552000987306": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897345&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897345&type=464",
@@ -100,13 +100,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 1,
-      "Атаманиченко Кирилл Игоревич": 1,
-      "Дубовский Евгений Юрьевич": 13,
-      "Жуков Владимир Алексеевич": 9,
-      "Курнявко Олег Леонидович": 3,
-      "Огаркова Татьяна Михайловна": 0,
-      "Смолин Олег Николаевич": 46
+      "gas:candidate-vibid:2552000990097": 1,
+      "gas:candidate-vibid:2552000982914": 1,
+      "gas:candidate-vibid:2552000987491": 13,
+      "gas:candidate-vibid:2552000989928": 9,
+      "gas:candidate-vibid:2552000995699": 3,
+      "gas:candidate-vibid:2552000995804": 0,
+      "gas:candidate-vibid:2552000987306": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897345&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897345&type=464",
@@ -157,13 +157,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 12,
-      "Атаманиченко Кирилл Игоревич": 117,
-      "Дубовский Евгений Юрьевич": 82,
-      "Жуков Владимир Алексеевич": 98,
-      "Курнявко Олег Леонидович": 26,
-      "Огаркова Татьяна Михайловна": 24,
-      "Смолин Олег Николаевич": 171
+      "gas:candidate-vibid:2552000990097": 12,
+      "gas:candidate-vibid:2552000982914": 117,
+      "gas:candidate-vibid:2552000987491": 82,
+      "gas:candidate-vibid:2552000989928": 98,
+      "gas:candidate-vibid:2552000995699": 26,
+      "gas:candidate-vibid:2552000995804": 24,
+      "gas:candidate-vibid:2552000987306": 171
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897345&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897345&type=464",
@@ -214,13 +214,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 2,
-      "Атаманиченко Кирилл Игоревич": 14,
-      "Дубовский Евгений Юрьевич": 17,
-      "Жуков Владимир Алексеевич": 62,
-      "Курнявко Олег Леонидович": 4,
-      "Огаркова Татьяна Михайловна": 1,
-      "Смолин Олег Николаевич": 18
+      "gas:candidate-vibid:2552000990097": 2,
+      "gas:candidate-vibid:2552000982914": 14,
+      "gas:candidate-vibid:2552000987491": 17,
+      "gas:candidate-vibid:2552000989928": 62,
+      "gas:candidate-vibid:2552000995699": 4,
+      "gas:candidate-vibid:2552000995804": 1,
+      "gas:candidate-vibid:2552000987306": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897345&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897345&type=464",
@@ -271,13 +271,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 2,
-      "Атаманиченко Кирилл Игоревич": 33,
-      "Дубовский Евгений Юрьевич": 5,
-      "Жуков Владимир Алексеевич": 11,
-      "Курнявко Олег Леонидович": 5,
-      "Огаркова Татьяна Михайловна": 1,
-      "Смолин Олег Николаевич": 61
+      "gas:candidate-vibid:2552000990097": 2,
+      "gas:candidate-vibid:2552000982914": 33,
+      "gas:candidate-vibid:2552000987491": 5,
+      "gas:candidate-vibid:2552000989928": 11,
+      "gas:candidate-vibid:2552000995699": 5,
+      "gas:candidate-vibid:2552000995804": 1,
+      "gas:candidate-vibid:2552000987306": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897345&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897345&type=464",
@@ -328,13 +328,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 7,
-      "Атаманиченко Кирилл Игоревич": 72,
-      "Дубовский Евгений Юрьевич": 36,
-      "Жуков Владимир Алексеевич": 37,
-      "Курнявко Олег Леонидович": 8,
-      "Огаркова Татьяна Михайловна": 24,
-      "Смолин Олег Николаевич": 99
+      "gas:candidate-vibid:2552000990097": 7,
+      "gas:candidate-vibid:2552000982914": 72,
+      "gas:candidate-vibid:2552000987491": 36,
+      "gas:candidate-vibid:2552000989928": 37,
+      "gas:candidate-vibid:2552000995699": 8,
+      "gas:candidate-vibid:2552000995804": 24,
+      "gas:candidate-vibid:2552000987306": 99
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897345&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897345&type=464",
@@ -385,13 +385,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 7,
-      "Атаманиченко Кирилл Игоревич": 46,
-      "Дубовский Евгений Юрьевич": 32,
-      "Жуков Владимир Алексеевич": 22,
-      "Курнявко Олег Леонидович": 11,
-      "Огаркова Татьяна Михайловна": 6,
-      "Смолин Олег Николаевич": 81
+      "gas:candidate-vibid:2552000990097": 7,
+      "gas:candidate-vibid:2552000982914": 46,
+      "gas:candidate-vibid:2552000987491": 32,
+      "gas:candidate-vibid:2552000989928": 22,
+      "gas:candidate-vibid:2552000995699": 11,
+      "gas:candidate-vibid:2552000995804": 6,
+      "gas:candidate-vibid:2552000987306": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897345&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897345&type=464",
@@ -442,13 +442,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 2,
-      "Атаманиченко Кирилл Игоревич": 44,
-      "Дубовский Евгений Юрьевич": 22,
-      "Жуков Владимир Алексеевич": 19,
-      "Курнявко Олег Леонидович": 1,
-      "Огаркова Татьяна Михайловна": 8,
-      "Смолин Олег Николаевич": 37
+      "gas:candidate-vibid:2552000990097": 2,
+      "gas:candidate-vibid:2552000982914": 44,
+      "gas:candidate-vibid:2552000987491": 22,
+      "gas:candidate-vibid:2552000989928": 19,
+      "gas:candidate-vibid:2552000995699": 1,
+      "gas:candidate-vibid:2552000995804": 8,
+      "gas:candidate-vibid:2552000987306": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897345&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897345&type=464",
@@ -499,13 +499,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 1,
-      "Атаманиченко Кирилл Игоревич": 23,
-      "Дубовский Евгений Юрьевич": 12,
-      "Жуков Владимир Алексеевич": 1,
-      "Курнявко Олег Леонидович": 6,
-      "Огаркова Татьяна Михайловна": 4,
-      "Смолин Олег Николаевич": 6
+      "gas:candidate-vibid:2552000990097": 1,
+      "gas:candidate-vibid:2552000982914": 23,
+      "gas:candidate-vibid:2552000987491": 12,
+      "gas:candidate-vibid:2552000989928": 1,
+      "gas:candidate-vibid:2552000995699": 6,
+      "gas:candidate-vibid:2552000995804": 4,
+      "gas:candidate-vibid:2552000987306": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897345&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897345&type=464",
@@ -556,13 +556,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 2,
-      "Атаманиченко Кирилл Игоревич": 37,
-      "Дубовский Евгений Юрьевич": 24,
-      "Жуков Владимир Алексеевич": 21,
-      "Курнявко Олег Леонидович": 2,
-      "Огаркова Татьяна Михайловна": 5,
-      "Смолин Олег Николаевич": 61
+      "gas:candidate-vibid:2552000990097": 2,
+      "gas:candidate-vibid:2552000982914": 37,
+      "gas:candidate-vibid:2552000987491": 24,
+      "gas:candidate-vibid:2552000989928": 21,
+      "gas:candidate-vibid:2552000995699": 2,
+      "gas:candidate-vibid:2552000995804": 5,
+      "gas:candidate-vibid:2552000987306": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897345&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897345&type=464",
@@ -613,13 +613,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 1,
-      "Атаманиченко Кирилл Игоревич": 42,
-      "Дубовский Евгений Юрьевич": 19,
-      "Жуков Владимир Алексеевич": 25,
-      "Курнявко Олег Леонидович": 3,
-      "Огаркова Татьяна Михайловна": 8,
-      "Смолин Олег Николаевич": 70
+      "gas:candidate-vibid:2552000990097": 1,
+      "gas:candidate-vibid:2552000982914": 42,
+      "gas:candidate-vibid:2552000987491": 19,
+      "gas:candidate-vibid:2552000989928": 25,
+      "gas:candidate-vibid:2552000995699": 3,
+      "gas:candidate-vibid:2552000995804": 8,
+      "gas:candidate-vibid:2552000987306": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897345&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897345&type=464",
@@ -670,13 +670,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 7,
-      "Атаманиченко Кирилл Игоревич": 58,
-      "Дубовский Евгений Юрьевич": 43,
-      "Жуков Владимир Алексеевич": 49,
-      "Курнявко Олег Леонидович": 6,
-      "Огаркова Татьяна Михайловна": 8,
-      "Смолин Олег Николаевич": 206
+      "gas:candidate-vibid:2552000990097": 7,
+      "gas:candidate-vibid:2552000982914": 58,
+      "gas:candidate-vibid:2552000987491": 43,
+      "gas:candidate-vibid:2552000989928": 49,
+      "gas:candidate-vibid:2552000995699": 6,
+      "gas:candidate-vibid:2552000995804": 8,
+      "gas:candidate-vibid:2552000987306": 206
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897345&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897345&type=464",
@@ -727,13 +727,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 4,
-      "Атаманиченко Кирилл Игоревич": 22,
-      "Дубовский Евгений Юрьевич": 16,
-      "Жуков Владимир Алексеевич": 7,
-      "Курнявко Олег Леонидович": 0,
-      "Огаркова Татьяна Михайловна": 2,
-      "Смолин Олег Николаевич": 48
+      "gas:candidate-vibid:2552000990097": 4,
+      "gas:candidate-vibid:2552000982914": 22,
+      "gas:candidate-vibid:2552000987491": 16,
+      "gas:candidate-vibid:2552000989928": 7,
+      "gas:candidate-vibid:2552000995699": 0,
+      "gas:candidate-vibid:2552000995804": 2,
+      "gas:candidate-vibid:2552000987306": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897345&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897345&type=464",
@@ -784,13 +784,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 2,
-      "Атаманиченко Кирилл Игоревич": 11,
-      "Дубовский Евгений Юрьевич": 18,
-      "Жуков Владимир Алексеевич": 6,
-      "Курнявко Олег Леонидович": 4,
-      "Огаркова Татьяна Михайловна": 2,
-      "Смолин Олег Николаевич": 80
+      "gas:candidate-vibid:2552000990097": 2,
+      "gas:candidate-vibid:2552000982914": 11,
+      "gas:candidate-vibid:2552000987491": 18,
+      "gas:candidate-vibid:2552000989928": 6,
+      "gas:candidate-vibid:2552000995699": 4,
+      "gas:candidate-vibid:2552000995804": 2,
+      "gas:candidate-vibid:2552000987306": 80
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897345&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897345&type=464",
@@ -841,13 +841,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 2,
-      "Атаманиченко Кирилл Игоревич": 28,
-      "Дубовский Евгений Юрьевич": 8,
-      "Жуков Владимир Алексеевич": 19,
-      "Курнявко Олег Леонидович": 12,
-      "Огаркова Татьяна Михайловна": 5,
-      "Смолин Олег Николаевич": 23
+      "gas:candidate-vibid:2552000990097": 2,
+      "gas:candidate-vibid:2552000982914": 28,
+      "gas:candidate-vibid:2552000987491": 8,
+      "gas:candidate-vibid:2552000989928": 19,
+      "gas:candidate-vibid:2552000995699": 12,
+      "gas:candidate-vibid:2552000995804": 5,
+      "gas:candidate-vibid:2552000987306": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897345&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897345&type=464",
@@ -898,13 +898,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 6,
-      "Атаманиченко Кирилл Игоревич": 44,
-      "Дубовский Евгений Юрьевич": 31,
-      "Жуков Владимир Алексеевич": 21,
-      "Курнявко Олег Леонидович": 6,
-      "Огаркова Татьяна Михайловна": 6,
-      "Смолин Олег Николаевич": 103
+      "gas:candidate-vibid:2552000990097": 6,
+      "gas:candidate-vibid:2552000982914": 44,
+      "gas:candidate-vibid:2552000987491": 31,
+      "gas:candidate-vibid:2552000989928": 21,
+      "gas:candidate-vibid:2552000995699": 6,
+      "gas:candidate-vibid:2552000995804": 6,
+      "gas:candidate-vibid:2552000987306": 103
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897345&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897345&type=464",
@@ -955,13 +955,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 0,
-      "Атаманиченко Кирилл Игоревич": 30,
-      "Дубовский Евгений Юрьевич": 35,
-      "Жуков Владимир Алексеевич": 11,
-      "Курнявко Олег Леонидович": 2,
-      "Огаркова Татьяна Михайловна": 2,
-      "Смолин Олег Николаевич": 13
+      "gas:candidate-vibid:2552000990097": 0,
+      "gas:candidate-vibid:2552000982914": 30,
+      "gas:candidate-vibid:2552000987491": 35,
+      "gas:candidate-vibid:2552000989928": 11,
+      "gas:candidate-vibid:2552000995699": 2,
+      "gas:candidate-vibid:2552000995804": 2,
+      "gas:candidate-vibid:2552000987306": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897345&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897345&type=464",
@@ -1012,13 +1012,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 3,
-      "Атаманиченко Кирилл Игоревич": 40,
-      "Дубовский Евгений Юрьевич": 18,
-      "Жуков Владимир Алексеевич": 24,
-      "Курнявко Олег Леонидович": 8,
-      "Огаркова Татьяна Михайловна": 7,
-      "Смолин Олег Николаевич": 135
+      "gas:candidate-vibid:2552000990097": 3,
+      "gas:candidate-vibid:2552000982914": 40,
+      "gas:candidate-vibid:2552000987491": 18,
+      "gas:candidate-vibid:2552000989928": 24,
+      "gas:candidate-vibid:2552000995699": 8,
+      "gas:candidate-vibid:2552000995804": 7,
+      "gas:candidate-vibid:2552000987306": 135
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897345&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897345&type=464",
@@ -1069,13 +1069,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 7,
-      "Атаманиченко Кирилл Игоревич": 26,
-      "Дубовский Евгений Юрьевич": 18,
-      "Жуков Владимир Алексеевич": 11,
-      "Курнявко Олег Леонидович": 2,
-      "Огаркова Татьяна Михайловна": 3,
-      "Смолин Олег Николаевич": 69
+      "gas:candidate-vibid:2552000990097": 7,
+      "gas:candidate-vibid:2552000982914": 26,
+      "gas:candidate-vibid:2552000987491": 18,
+      "gas:candidate-vibid:2552000989928": 11,
+      "gas:candidate-vibid:2552000995699": 2,
+      "gas:candidate-vibid:2552000995804": 3,
+      "gas:candidate-vibid:2552000987306": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897345&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897345&type=464",
@@ -1126,13 +1126,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 3,
-      "Атаманиченко Кирилл Игоревич": 27,
-      "Дубовский Евгений Юрьевич": 12,
-      "Жуков Владимир Алексеевич": 11,
-      "Курнявко Олег Леонидович": 1,
-      "Огаркова Татьяна Михайловна": 6,
-      "Смолин Олег Николаевич": 24
+      "gas:candidate-vibid:2552000990097": 3,
+      "gas:candidate-vibid:2552000982914": 27,
+      "gas:candidate-vibid:2552000987491": 12,
+      "gas:candidate-vibid:2552000989928": 11,
+      "gas:candidate-vibid:2552000995699": 1,
+      "gas:candidate-vibid:2552000995804": 6,
+      "gas:candidate-vibid:2552000987306": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897345&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897345&type=464",
@@ -1183,13 +1183,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 8,
-      "Атаманиченко Кирилл Игоревич": 61,
-      "Дубовский Евгений Юрьевич": 35,
-      "Жуков Владимир Алексеевич": 67,
-      "Курнявко Олег Леонидович": 8,
-      "Огаркова Татьяна Михайловна": 10,
-      "Смолин Олег Николаевич": 242
+      "gas:candidate-vibid:2552000990097": 8,
+      "gas:candidate-vibid:2552000982914": 61,
+      "gas:candidate-vibid:2552000987491": 35,
+      "gas:candidate-vibid:2552000989928": 67,
+      "gas:candidate-vibid:2552000995699": 8,
+      "gas:candidate-vibid:2552000995804": 10,
+      "gas:candidate-vibid:2552000987306": 242
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897345&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897345&type=464",
@@ -1240,13 +1240,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 1,
-      "Атаманиченко Кирилл Игоревич": 4,
-      "Дубовский Евгений Юрьевич": 11,
-      "Жуков Владимир Алексеевич": 18,
-      "Курнявко Олег Леонидович": 0,
-      "Огаркова Татьяна Михайловна": 1,
-      "Смолин Олег Николаевич": 60
+      "gas:candidate-vibid:2552000990097": 1,
+      "gas:candidate-vibid:2552000982914": 4,
+      "gas:candidate-vibid:2552000987491": 11,
+      "gas:candidate-vibid:2552000989928": 18,
+      "gas:candidate-vibid:2552000995699": 0,
+      "gas:candidate-vibid:2552000995804": 1,
+      "gas:candidate-vibid:2552000987306": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897345&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897345&type=464",
@@ -1297,13 +1297,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 3,
-      "Атаманиченко Кирилл Игоревич": 4,
-      "Дубовский Евгений Юрьевич": 6,
-      "Жуков Владимир Алексеевич": 1,
-      "Курнявко Олег Леонидович": 1,
-      "Огаркова Татьяна Михайловна": 0,
-      "Смолин Олег Николаевич": 74
+      "gas:candidate-vibid:2552000990097": 3,
+      "gas:candidate-vibid:2552000982914": 4,
+      "gas:candidate-vibid:2552000987491": 6,
+      "gas:candidate-vibid:2552000989928": 1,
+      "gas:candidate-vibid:2552000995699": 1,
+      "gas:candidate-vibid:2552000995804": 0,
+      "gas:candidate-vibid:2552000987306": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897345&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897345&type=464",
@@ -1354,13 +1354,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 1,
-      "Атаманиченко Кирилл Игоревич": 7,
-      "Дубовский Евгений Юрьевич": 27,
-      "Жуков Владимир Алексеевич": 23,
-      "Курнявко Олег Леонидович": 3,
-      "Огаркова Татьяна Михайловна": 1,
-      "Смолин Олег Николаевич": 89
+      "gas:candidate-vibid:2552000990097": 1,
+      "gas:candidate-vibid:2552000982914": 7,
+      "gas:candidate-vibid:2552000987491": 27,
+      "gas:candidate-vibid:2552000989928": 23,
+      "gas:candidate-vibid:2552000995699": 3,
+      "gas:candidate-vibid:2552000995804": 1,
+      "gas:candidate-vibid:2552000987306": 89
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897345&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897345&type=464",
@@ -1411,13 +1411,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 0,
-      "Атаманиченко Кирилл Игоревич": 4,
-      "Дубовский Евгений Юрьевич": 6,
-      "Жуков Владимир Алексеевич": 10,
-      "Курнявко Олег Леонидович": 1,
-      "Огаркова Татьяна Михайловна": 1,
-      "Смолин Олег Николаевич": 112
+      "gas:candidate-vibid:2552000990097": 0,
+      "gas:candidate-vibid:2552000982914": 4,
+      "gas:candidate-vibid:2552000987491": 6,
+      "gas:candidate-vibid:2552000989928": 10,
+      "gas:candidate-vibid:2552000995699": 1,
+      "gas:candidate-vibid:2552000995804": 1,
+      "gas:candidate-vibid:2552000987306": 112
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897345&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897345&type=464",
@@ -1468,13 +1468,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 1,
-      "Атаманиченко Кирилл Игоревич": 1,
-      "Дубовский Евгений Юрьевич": 8,
-      "Жуков Владимир Алексеевич": 5,
-      "Курнявко Олег Леонидович": 0,
-      "Огаркова Татьяна Михайловна": 0,
-      "Смолин Олег Николаевич": 61
+      "gas:candidate-vibid:2552000990097": 1,
+      "gas:candidate-vibid:2552000982914": 1,
+      "gas:candidate-vibid:2552000987491": 8,
+      "gas:candidate-vibid:2552000989928": 5,
+      "gas:candidate-vibid:2552000995699": 0,
+      "gas:candidate-vibid:2552000995804": 0,
+      "gas:candidate-vibid:2552000987306": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897345&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897345&type=464",
@@ -1525,13 +1525,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 4,
-      "Атаманиченко Кирилл Игоревич": 50,
-      "Дубовский Евгений Юрьевич": 119,
-      "Жуков Владимир Алексеевич": 38,
-      "Курнявко Олег Леонидович": 7,
-      "Огаркова Татьяна Михайловна": 9,
-      "Смолин Олег Николаевич": 205
+      "gas:candidate-vibid:2552000990097": 4,
+      "gas:candidate-vibid:2552000982914": 50,
+      "gas:candidate-vibid:2552000987491": 119,
+      "gas:candidate-vibid:2552000989928": 38,
+      "gas:candidate-vibid:2552000995699": 7,
+      "gas:candidate-vibid:2552000995804": 9,
+      "gas:candidate-vibid:2552000987306": 205
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897345&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897345&type=464",
@@ -1582,13 +1582,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 9,
-      "Атаманиченко Кирилл Игоревич": 39,
-      "Дубовский Евгений Юрьевич": 25,
-      "Жуков Владимир Алексеевич": 20,
-      "Курнявко Олег Леонидович": 9,
-      "Огаркова Татьяна Михайловна": 7,
-      "Смолин Олег Николаевич": 72
+      "gas:candidate-vibid:2552000990097": 9,
+      "gas:candidate-vibid:2552000982914": 39,
+      "gas:candidate-vibid:2552000987491": 25,
+      "gas:candidate-vibid:2552000989928": 20,
+      "gas:candidate-vibid:2552000995699": 9,
+      "gas:candidate-vibid:2552000995804": 7,
+      "gas:candidate-vibid:2552000987306": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897345&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897345&type=464",
@@ -1639,13 +1639,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 6,
-      "Атаманиченко Кирилл Игоревич": 56,
-      "Дубовский Евгений Юрьевич": 27,
-      "Жуков Владимир Алексеевич": 18,
-      "Курнявко Олег Леонидович": 18,
-      "Огаркова Татьяна Михайловна": 8,
-      "Смолин Олег Николаевич": 69
+      "gas:candidate-vibid:2552000990097": 6,
+      "gas:candidate-vibid:2552000982914": 56,
+      "gas:candidate-vibid:2552000987491": 27,
+      "gas:candidate-vibid:2552000989928": 18,
+      "gas:candidate-vibid:2552000995699": 18,
+      "gas:candidate-vibid:2552000995804": 8,
+      "gas:candidate-vibid:2552000987306": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897345&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897345&type=464",
@@ -1696,13 +1696,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 6,
-      "Атаманиченко Кирилл Игоревич": 31,
-      "Дубовский Евгений Юрьевич": 11,
-      "Жуков Владимир Алексеевич": 26,
-      "Курнявко Олег Леонидович": 3,
-      "Огаркова Татьяна Михайловна": 9,
-      "Смолин Олег Николаевич": 25
+      "gas:candidate-vibid:2552000990097": 6,
+      "gas:candidate-vibid:2552000982914": 31,
+      "gas:candidate-vibid:2552000987491": 11,
+      "gas:candidate-vibid:2552000989928": 26,
+      "gas:candidate-vibid:2552000995699": 3,
+      "gas:candidate-vibid:2552000995804": 9,
+      "gas:candidate-vibid:2552000987306": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897345&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897345&type=464",
@@ -1753,13 +1753,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 6,
-      "Атаманиченко Кирилл Игоревич": 20,
-      "Дубовский Евгений Юрьевич": 62,
-      "Жуков Владимир Алексеевич": 12,
-      "Курнявко Олег Леонидович": 6,
-      "Огаркова Татьяна Михайловна": 13,
-      "Смолин Олег Николаевич": 28
+      "gas:candidate-vibid:2552000990097": 6,
+      "gas:candidate-vibid:2552000982914": 20,
+      "gas:candidate-vibid:2552000987491": 62,
+      "gas:candidate-vibid:2552000989928": 12,
+      "gas:candidate-vibid:2552000995699": 6,
+      "gas:candidate-vibid:2552000995804": 13,
+      "gas:candidate-vibid:2552000987306": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897345&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897345&type=464",
@@ -1810,13 +1810,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 1,
-      "Атаманиченко Кирилл Игоревич": 7,
-      "Дубовский Евгений Юрьевич": 14,
-      "Жуков Владимир Алексеевич": 2,
-      "Курнявко Олег Леонидович": 1,
-      "Огаркова Татьяна Михайловна": 0,
-      "Смолин Олег Николаевич": 21
+      "gas:candidate-vibid:2552000990097": 1,
+      "gas:candidate-vibid:2552000982914": 7,
+      "gas:candidate-vibid:2552000987491": 14,
+      "gas:candidate-vibid:2552000989928": 2,
+      "gas:candidate-vibid:2552000995699": 1,
+      "gas:candidate-vibid:2552000995804": 0,
+      "gas:candidate-vibid:2552000987306": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897345&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897345&type=464",
@@ -1867,13 +1867,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 19,
-      "Атаманиченко Кирилл Игоревич": 100,
-      "Дубовский Евгений Юрьевич": 67,
-      "Жуков Владимир Алексеевич": 45,
-      "Курнявко Олег Леонидович": 11,
-      "Огаркова Татьяна Михайловна": 11,
-      "Смолин Олег Николаевич": 132
+      "gas:candidate-vibid:2552000990097": 19,
+      "gas:candidate-vibid:2552000982914": 100,
+      "gas:candidate-vibid:2552000987491": 67,
+      "gas:candidate-vibid:2552000989928": 45,
+      "gas:candidate-vibid:2552000995699": 11,
+      "gas:candidate-vibid:2552000995804": 11,
+      "gas:candidate-vibid:2552000987306": 132
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897345&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897345&type=464",
@@ -1924,13 +1924,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 1,
-      "Атаманиченко Кирилл Игоревич": 86,
-      "Дубовский Евгений Юрьевич": 30,
-      "Жуков Владимир Алексеевич": 47,
-      "Курнявко Олег Леонидович": 7,
-      "Огаркова Татьяна Михайловна": 9,
-      "Смолин Олег Николаевич": 170
+      "gas:candidate-vibid:2552000990097": 1,
+      "gas:candidate-vibid:2552000982914": 86,
+      "gas:candidate-vibid:2552000987491": 30,
+      "gas:candidate-vibid:2552000989928": 47,
+      "gas:candidate-vibid:2552000995699": 7,
+      "gas:candidate-vibid:2552000995804": 9,
+      "gas:candidate-vibid:2552000987306": 170
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897345&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897345&type=464",
@@ -1981,13 +1981,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 14,
-      "Атаманиченко Кирилл Игоревич": 155,
-      "Дубовский Евгений Юрьевич": 63,
-      "Жуков Владимир Алексеевич": 65,
-      "Курнявко Олег Леонидович": 12,
-      "Огаркова Татьяна Михайловна": 25,
-      "Смолин Олег Николаевич": 169
+      "gas:candidate-vibid:2552000990097": 14,
+      "gas:candidate-vibid:2552000982914": 155,
+      "gas:candidate-vibid:2552000987491": 63,
+      "gas:candidate-vibid:2552000989928": 65,
+      "gas:candidate-vibid:2552000995699": 12,
+      "gas:candidate-vibid:2552000995804": 25,
+      "gas:candidate-vibid:2552000987306": 169
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897345&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897345&type=464",
@@ -2038,13 +2038,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 1,
-      "Атаманиченко Кирилл Игоревич": 20,
-      "Дубовский Евгений Юрьевич": 9,
-      "Жуков Владимир Алексеевич": 10,
-      "Курнявко Олег Леонидович": 3,
-      "Огаркова Татьяна Михайловна": 4,
-      "Смолин Олег Николаевич": 16
+      "gas:candidate-vibid:2552000990097": 1,
+      "gas:candidate-vibid:2552000982914": 20,
+      "gas:candidate-vibid:2552000987491": 9,
+      "gas:candidate-vibid:2552000989928": 10,
+      "gas:candidate-vibid:2552000995699": 3,
+      "gas:candidate-vibid:2552000995804": 4,
+      "gas:candidate-vibid:2552000987306": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897345&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897345&type=464",
@@ -2095,13 +2095,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 5,
-      "Атаманиченко Кирилл Игоревич": 38,
-      "Дубовский Евгений Юрьевич": 36,
-      "Жуков Владимир Алексеевич": 16,
-      "Курнявко Олег Леонидович": 3,
-      "Огаркова Татьяна Михайловна": 5,
-      "Смолин Олег Николаевич": 65
+      "gas:candidate-vibid:2552000990097": 5,
+      "gas:candidate-vibid:2552000982914": 38,
+      "gas:candidate-vibid:2552000987491": 36,
+      "gas:candidate-vibid:2552000989928": 16,
+      "gas:candidate-vibid:2552000995699": 3,
+      "gas:candidate-vibid:2552000995804": 5,
+      "gas:candidate-vibid:2552000987306": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897345&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897345&type=464",
@@ -2152,13 +2152,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 3,
-      "Атаманиченко Кирилл Игоревич": 27,
-      "Дубовский Евгений Юрьевич": 15,
-      "Жуков Владимир Алексеевич": 8,
-      "Курнявко Олег Леонидович": 2,
-      "Огаркова Татьяна Михайловна": 1,
-      "Смолин Олег Николаевич": 29
+      "gas:candidate-vibid:2552000990097": 3,
+      "gas:candidate-vibid:2552000982914": 27,
+      "gas:candidate-vibid:2552000987491": 15,
+      "gas:candidate-vibid:2552000989928": 8,
+      "gas:candidate-vibid:2552000995699": 2,
+      "gas:candidate-vibid:2552000995804": 1,
+      "gas:candidate-vibid:2552000987306": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897345&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897345&type=464",
@@ -2209,13 +2209,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 9,
-      "Атаманиченко Кирилл Игоревич": 126,
-      "Дубовский Евгений Юрьевич": 46,
-      "Жуков Владимир Алексеевич": 57,
-      "Курнявко Олег Леонидович": 8,
-      "Огаркова Татьяна Михайловна": 17,
-      "Смолин Олег Николаевич": 235
+      "gas:candidate-vibid:2552000990097": 9,
+      "gas:candidate-vibid:2552000982914": 126,
+      "gas:candidate-vibid:2552000987491": 46,
+      "gas:candidate-vibid:2552000989928": 57,
+      "gas:candidate-vibid:2552000995699": 8,
+      "gas:candidate-vibid:2552000995804": 17,
+      "gas:candidate-vibid:2552000987306": 235
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897345&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897345&type=464",
@@ -2266,13 +2266,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 11,
-      "Атаманиченко Кирилл Игоревич": 138,
-      "Дубовский Евгений Юрьевич": 65,
-      "Жуков Владимир Алексеевич": 53,
-      "Курнявко Олег Леонидович": 13,
-      "Огаркова Татьяна Михайловна": 21,
-      "Смолин Олег Николаевич": 189
+      "gas:candidate-vibid:2552000990097": 11,
+      "gas:candidate-vibid:2552000982914": 138,
+      "gas:candidate-vibid:2552000987491": 65,
+      "gas:candidate-vibid:2552000989928": 53,
+      "gas:candidate-vibid:2552000995699": 13,
+      "gas:candidate-vibid:2552000995804": 21,
+      "gas:candidate-vibid:2552000987306": 189
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897345&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897345&type=464",
@@ -2323,13 +2323,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 6,
-      "Атаманиченко Кирилл Игоревич": 65,
-      "Дубовский Евгений Юрьевич": 39,
-      "Жуков Владимир Алексеевич": 36,
-      "Курнявко Олег Леонидович": 4,
-      "Огаркова Татьяна Михайловна": 10,
-      "Смолин Олег Николаевич": 218
+      "gas:candidate-vibid:2552000990097": 6,
+      "gas:candidate-vibid:2552000982914": 65,
+      "gas:candidate-vibid:2552000987491": 39,
+      "gas:candidate-vibid:2552000989928": 36,
+      "gas:candidate-vibid:2552000995699": 4,
+      "gas:candidate-vibid:2552000995804": 10,
+      "gas:candidate-vibid:2552000987306": 218
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897345&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897345&type=464",
@@ -2380,13 +2380,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 10,
-      "Атаманиченко Кирилл Игоревич": 122,
-      "Дубовский Евгений Юрьевич": 68,
-      "Жуков Владимир Алексеевич": 57,
-      "Курнявко Олег Леонидович": 10,
-      "Огаркова Татьяна Михайловна": 26,
-      "Смолин Олег Николаевич": 243
+      "gas:candidate-vibid:2552000990097": 10,
+      "gas:candidate-vibid:2552000982914": 122,
+      "gas:candidate-vibid:2552000987491": 68,
+      "gas:candidate-vibid:2552000989928": 57,
+      "gas:candidate-vibid:2552000995699": 10,
+      "gas:candidate-vibid:2552000995804": 26,
+      "gas:candidate-vibid:2552000987306": 243
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897345&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897345&type=464",
@@ -2437,13 +2437,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 12,
-      "Атаманиченко Кирилл Игоревич": 101,
-      "Дубовский Евгений Юрьевич": 80,
-      "Жуков Владимир Алексеевич": 64,
-      "Курнявко Олег Леонидович": 11,
-      "Огаркова Татьяна Михайловна": 21,
-      "Смолин Олег Николаевич": 323
+      "gas:candidate-vibid:2552000990097": 12,
+      "gas:candidate-vibid:2552000982914": 101,
+      "gas:candidate-vibid:2552000987491": 80,
+      "gas:candidate-vibid:2552000989928": 64,
+      "gas:candidate-vibid:2552000995699": 11,
+      "gas:candidate-vibid:2552000995804": 21,
+      "gas:candidate-vibid:2552000987306": 323
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897345&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897345&type=464",
@@ -2494,13 +2494,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 7,
-      "Атаманиченко Кирилл Игоревич": 93,
-      "Дубовский Евгений Юрьевич": 33,
-      "Жуков Владимир Алексеевич": 52,
-      "Курнявко Олег Леонидович": 5,
-      "Огаркова Татьяна Михайловна": 22,
-      "Смолин Олег Николаевич": 162
+      "gas:candidate-vibid:2552000990097": 7,
+      "gas:candidate-vibid:2552000982914": 93,
+      "gas:candidate-vibid:2552000987491": 33,
+      "gas:candidate-vibid:2552000989928": 52,
+      "gas:candidate-vibid:2552000995699": 5,
+      "gas:candidate-vibid:2552000995804": 22,
+      "gas:candidate-vibid:2552000987306": 162
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897345&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897345&type=464",
@@ -2551,13 +2551,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 6,
-      "Атаманиченко Кирилл Игоревич": 68,
-      "Дубовский Евгений Юрьевич": 29,
-      "Жуков Владимир Алексеевич": 28,
-      "Курнявко Олег Леонидович": 4,
-      "Огаркова Татьяна Михайловна": 12,
-      "Смолин Олег Николаевич": 144
+      "gas:candidate-vibid:2552000990097": 6,
+      "gas:candidate-vibid:2552000982914": 68,
+      "gas:candidate-vibid:2552000987491": 29,
+      "gas:candidate-vibid:2552000989928": 28,
+      "gas:candidate-vibid:2552000995699": 4,
+      "gas:candidate-vibid:2552000995804": 12,
+      "gas:candidate-vibid:2552000987306": 144
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897345&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897345&type=464",
@@ -2608,13 +2608,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 11,
-      "Атаманиченко Кирилл Игоревич": 64,
-      "Дубовский Евгений Юрьевич": 30,
-      "Жуков Владимир Алексеевич": 47,
-      "Курнявко Олег Леонидович": 10,
-      "Огаркова Татьяна Михайловна": 17,
-      "Смолин Олег Николаевич": 223
+      "gas:candidate-vibid:2552000990097": 11,
+      "gas:candidate-vibid:2552000982914": 64,
+      "gas:candidate-vibid:2552000987491": 30,
+      "gas:candidate-vibid:2552000989928": 47,
+      "gas:candidate-vibid:2552000995699": 10,
+      "gas:candidate-vibid:2552000995804": 17,
+      "gas:candidate-vibid:2552000987306": 223
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897346&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897346&type=464",
@@ -2665,13 +2665,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 5,
-      "Атаманиченко Кирилл Игоревич": 63,
-      "Дубовский Евгений Юрьевич": 35,
-      "Жуков Владимир Алексеевич": 47,
-      "Курнявко Олег Леонидович": 10,
-      "Огаркова Татьяна Михайловна": 22,
-      "Смолин Олег Николаевич": 217
+      "gas:candidate-vibid:2552000990097": 5,
+      "gas:candidate-vibid:2552000982914": 63,
+      "gas:candidate-vibid:2552000987491": 35,
+      "gas:candidate-vibid:2552000989928": 47,
+      "gas:candidate-vibid:2552000995699": 10,
+      "gas:candidate-vibid:2552000995804": 22,
+      "gas:candidate-vibid:2552000987306": 217
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897346&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897346&type=464",
@@ -2722,13 +2722,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 1,
-      "Атаманиченко Кирилл Игоревич": 10,
-      "Дубовский Евгений Юрьевич": 6,
-      "Жуков Владимир Алексеевич": 20,
-      "Курнявко Олег Леонидович": 6,
-      "Огаркова Татьяна Михайловна": 2,
-      "Смолин Олег Николаевич": 38
+      "gas:candidate-vibid:2552000990097": 1,
+      "gas:candidate-vibid:2552000982914": 10,
+      "gas:candidate-vibid:2552000987491": 6,
+      "gas:candidate-vibid:2552000989928": 20,
+      "gas:candidate-vibid:2552000995699": 6,
+      "gas:candidate-vibid:2552000995804": 2,
+      "gas:candidate-vibid:2552000987306": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897346&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897346&type=464",
@@ -2779,13 +2779,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 5,
-      "Атаманиченко Кирилл Игоревич": 37,
-      "Дубовский Евгений Юрьевич": 34,
-      "Жуков Владимир Алексеевич": 47,
-      "Курнявко Олег Леонидович": 10,
-      "Огаркова Татьяна Михайловна": 11,
-      "Смолин Олег Николаевич": 139
+      "gas:candidate-vibid:2552000990097": 5,
+      "gas:candidate-vibid:2552000982914": 37,
+      "gas:candidate-vibid:2552000987491": 34,
+      "gas:candidate-vibid:2552000989928": 47,
+      "gas:candidate-vibid:2552000995699": 10,
+      "gas:candidate-vibid:2552000995804": 11,
+      "gas:candidate-vibid:2552000987306": 139
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897346&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897346&type=464",
@@ -2836,13 +2836,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 10,
-      "Атаманиченко Кирилл Игоревич": 20,
-      "Дубовский Евгений Юрьевич": 27,
-      "Жуков Владимир Алексеевич": 35,
-      "Курнявко Олег Леонидович": 7,
-      "Огаркова Татьяна Михайловна": 3,
-      "Смолин Олег Николаевич": 168
+      "gas:candidate-vibid:2552000990097": 10,
+      "gas:candidate-vibid:2552000982914": 20,
+      "gas:candidate-vibid:2552000987491": 27,
+      "gas:candidate-vibid:2552000989928": 35,
+      "gas:candidate-vibid:2552000995699": 7,
+      "gas:candidate-vibid:2552000995804": 3,
+      "gas:candidate-vibid:2552000987306": 168
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897346&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897346&type=464",
@@ -2893,13 +2893,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 12,
-      "Атаманиченко Кирилл Игоревич": 22,
-      "Дубовский Евгений Юрьевич": 37,
-      "Жуков Владимир Алексеевич": 43,
-      "Курнявко Олег Леонидович": 8,
-      "Огаркова Татьяна Михайловна": 7,
-      "Смолин Олег Николаевич": 238
+      "gas:candidate-vibid:2552000990097": 12,
+      "gas:candidate-vibid:2552000982914": 22,
+      "gas:candidate-vibid:2552000987491": 37,
+      "gas:candidate-vibid:2552000989928": 43,
+      "gas:candidate-vibid:2552000995699": 8,
+      "gas:candidate-vibid:2552000995804": 7,
+      "gas:candidate-vibid:2552000987306": 238
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897346&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897346&type=464",
@@ -2950,13 +2950,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 8,
-      "Атаманиченко Кирилл Игоревич": 31,
-      "Дубовский Евгений Юрьевич": 34,
-      "Жуков Владимир Алексеевич": 38,
-      "Курнявко Олег Леонидович": 6,
-      "Огаркова Татьяна Михайловна": 7,
-      "Смолин Олег Николаевич": 164
+      "gas:candidate-vibid:2552000990097": 8,
+      "gas:candidate-vibid:2552000982914": 31,
+      "gas:candidate-vibid:2552000987491": 34,
+      "gas:candidate-vibid:2552000989928": 38,
+      "gas:candidate-vibid:2552000995699": 6,
+      "gas:candidate-vibid:2552000995804": 7,
+      "gas:candidate-vibid:2552000987306": 164
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897346&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897346&type=464",
@@ -3007,13 +3007,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 12,
-      "Атаманиченко Кирилл Игоревич": 44,
-      "Дубовский Евгений Юрьевич": 46,
-      "Жуков Владимир Алексеевич": 56,
-      "Курнявко Олег Леонидович": 7,
-      "Огаркова Татьяна Михайловна": 17,
-      "Смолин Олег Николаевич": 180
+      "gas:candidate-vibid:2552000990097": 12,
+      "gas:candidate-vibid:2552000982914": 44,
+      "gas:candidate-vibid:2552000987491": 46,
+      "gas:candidate-vibid:2552000989928": 56,
+      "gas:candidate-vibid:2552000995699": 7,
+      "gas:candidate-vibid:2552000995804": 17,
+      "gas:candidate-vibid:2552000987306": 180
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897346&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897346&type=464",
@@ -3064,13 +3064,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 8,
-      "Атаманиченко Кирилл Игоревич": 18,
-      "Дубовский Евгений Юрьевич": 15,
-      "Жуков Владимир Алексеевич": 6,
-      "Курнявко Олег Леонидович": 0,
-      "Огаркова Татьяна Михайловна": 3,
-      "Смолин Олег Николаевич": 56
+      "gas:candidate-vibid:2552000990097": 8,
+      "gas:candidate-vibid:2552000982914": 18,
+      "gas:candidate-vibid:2552000987491": 15,
+      "gas:candidate-vibid:2552000989928": 6,
+      "gas:candidate-vibid:2552000995699": 0,
+      "gas:candidate-vibid:2552000995804": 3,
+      "gas:candidate-vibid:2552000987306": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897346&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897346&type=464",
@@ -3121,13 +3121,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 2,
-      "Атаманиченко Кирилл Игоревич": 64,
-      "Дубовский Евгений Юрьевич": 42,
-      "Жуков Владимир Алексеевич": 31,
-      "Курнявко Олег Леонидович": 3,
-      "Огаркова Татьяна Михайловна": 13,
-      "Смолин Олег Николаевич": 121
+      "gas:candidate-vibid:2552000990097": 2,
+      "gas:candidate-vibid:2552000982914": 64,
+      "gas:candidate-vibid:2552000987491": 42,
+      "gas:candidate-vibid:2552000989928": 31,
+      "gas:candidate-vibid:2552000995699": 3,
+      "gas:candidate-vibid:2552000995804": 13,
+      "gas:candidate-vibid:2552000987306": 121
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897346&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897346&type=464",
@@ -3178,13 +3178,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 7,
-      "Атаманиченко Кирилл Игоревич": 24,
-      "Дубовский Евгений Юрьевич": 22,
-      "Жуков Владимир Алексеевич": 19,
-      "Курнявко Олег Леонидович": 4,
-      "Огаркова Татьяна Михайловна": 8,
-      "Смолин Олег Николаевич": 49
+      "gas:candidate-vibid:2552000990097": 7,
+      "gas:candidate-vibid:2552000982914": 24,
+      "gas:candidate-vibid:2552000987491": 22,
+      "gas:candidate-vibid:2552000989928": 19,
+      "gas:candidate-vibid:2552000995699": 4,
+      "gas:candidate-vibid:2552000995804": 8,
+      "gas:candidate-vibid:2552000987306": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897346&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897346&type=464",
@@ -3235,13 +3235,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 2,
-      "Атаманиченко Кирилл Игоревич": 7,
-      "Дубовский Евгений Юрьевич": 11,
-      "Жуков Владимир Алексеевич": 8,
-      "Курнявко Олег Леонидович": 4,
-      "Огаркова Татьяна Михайловна": 1,
-      "Смолин Олег Николаевич": 44
+      "gas:candidate-vibid:2552000990097": 2,
+      "gas:candidate-vibid:2552000982914": 7,
+      "gas:candidate-vibid:2552000987491": 11,
+      "gas:candidate-vibid:2552000989928": 8,
+      "gas:candidate-vibid:2552000995699": 4,
+      "gas:candidate-vibid:2552000995804": 1,
+      "gas:candidate-vibid:2552000987306": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897346&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897346&type=464",
@@ -3292,13 +3292,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 3,
-      "Атаманиченко Кирилл Игоревич": 5,
-      "Дубовский Евгений Юрьевич": 12,
-      "Жуков Владимир Алексеевич": 16,
-      "Курнявко Олег Леонидович": 3,
-      "Огаркова Татьяна Михайловна": 3,
-      "Смолин Олег Николаевич": 35
+      "gas:candidate-vibid:2552000990097": 3,
+      "gas:candidate-vibid:2552000982914": 5,
+      "gas:candidate-vibid:2552000987491": 12,
+      "gas:candidate-vibid:2552000989928": 16,
+      "gas:candidate-vibid:2552000995699": 3,
+      "gas:candidate-vibid:2552000995804": 3,
+      "gas:candidate-vibid:2552000987306": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897346&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897346&type=464",
@@ -3349,13 +3349,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 2,
-      "Атаманиченко Кирилл Игоревич": 15,
-      "Дубовский Евгений Юрьевич": 5,
-      "Жуков Владимир Алексеевич": 3,
-      "Курнявко Олег Леонидович": 1,
-      "Огаркова Татьяна Михайловна": 1,
-      "Смолин Олег Николаевич": 24
+      "gas:candidate-vibid:2552000990097": 2,
+      "gas:candidate-vibid:2552000982914": 15,
+      "gas:candidate-vibid:2552000987491": 5,
+      "gas:candidate-vibid:2552000989928": 3,
+      "gas:candidate-vibid:2552000995699": 1,
+      "gas:candidate-vibid:2552000995804": 1,
+      "gas:candidate-vibid:2552000987306": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897346&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897346&type=464",
@@ -3406,13 +3406,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 7,
-      "Атаманиченко Кирилл Игоревич": 36,
-      "Дубовский Евгений Юрьевич": 23,
-      "Жуков Владимир Алексеевич": 44,
-      "Курнявко Олег Леонидович": 7,
-      "Огаркова Татьяна Михайловна": 8,
-      "Смолин Олег Николаевич": 103
+      "gas:candidate-vibid:2552000990097": 7,
+      "gas:candidate-vibid:2552000982914": 36,
+      "gas:candidate-vibid:2552000987491": 23,
+      "gas:candidate-vibid:2552000989928": 44,
+      "gas:candidate-vibid:2552000995699": 7,
+      "gas:candidate-vibid:2552000995804": 8,
+      "gas:candidate-vibid:2552000987306": 103
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897346&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897346&type=464",
@@ -3463,13 +3463,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 0,
-      "Атаманиченко Кирилл Игоревич": 4,
-      "Дубовский Евгений Юрьевич": 6,
-      "Жуков Владимир Алексеевич": 8,
-      "Курнявко Олег Леонидович": 0,
-      "Огаркова Татьяна Михайловна": 1,
-      "Смолин Олег Николаевич": 9
+      "gas:candidate-vibid:2552000990097": 0,
+      "gas:candidate-vibid:2552000982914": 4,
+      "gas:candidate-vibid:2552000987491": 6,
+      "gas:candidate-vibid:2552000989928": 8,
+      "gas:candidate-vibid:2552000995699": 0,
+      "gas:candidate-vibid:2552000995804": 1,
+      "gas:candidate-vibid:2552000987306": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897346&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897346&type=464",
@@ -3520,13 +3520,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 0,
-      "Атаманиченко Кирилл Игоревич": 5,
-      "Дубовский Евгений Юрьевич": 14,
-      "Жуков Владимир Алексеевич": 13,
-      "Курнявко Олег Леонидович": 1,
-      "Огаркова Татьяна Михайловна": 4,
-      "Смолин Олег Николаевич": 37
+      "gas:candidate-vibid:2552000990097": 0,
+      "gas:candidate-vibid:2552000982914": 5,
+      "gas:candidate-vibid:2552000987491": 14,
+      "gas:candidate-vibid:2552000989928": 13,
+      "gas:candidate-vibid:2552000995699": 1,
+      "gas:candidate-vibid:2552000995804": 4,
+      "gas:candidate-vibid:2552000987306": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897346&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897346&type=464",
@@ -3577,13 +3577,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 2,
-      "Атаманиченко Кирилл Игоревич": 13,
-      "Дубовский Евгений Юрьевич": 12,
-      "Жуков Владимир Алексеевич": 12,
-      "Курнявко Олег Леонидович": 3,
-      "Огаркова Татьяна Михайловна": 0,
-      "Смолин Олег Николаевич": 37
+      "gas:candidate-vibid:2552000990097": 2,
+      "gas:candidate-vibid:2552000982914": 13,
+      "gas:candidate-vibid:2552000987491": 12,
+      "gas:candidate-vibid:2552000989928": 12,
+      "gas:candidate-vibid:2552000995699": 3,
+      "gas:candidate-vibid:2552000995804": 0,
+      "gas:candidate-vibid:2552000987306": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897346&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897346&type=464",
@@ -3634,13 +3634,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 4,
-      "Атаманиченко Кирилл Игоревич": 47,
-      "Дубовский Евгений Юрьевич": 26,
-      "Жуков Владимир Алексеевич": 62,
-      "Курнявко Олег Леонидович": 9,
-      "Огаркова Татьяна Михайловна": 20,
-      "Смолин Олег Николаевич": 207
+      "gas:candidate-vibid:2552000990097": 4,
+      "gas:candidate-vibid:2552000982914": 47,
+      "gas:candidate-vibid:2552000987491": 26,
+      "gas:candidate-vibid:2552000989928": 62,
+      "gas:candidate-vibid:2552000995699": 9,
+      "gas:candidate-vibid:2552000995804": 20,
+      "gas:candidate-vibid:2552000987306": 207
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897346&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897346&type=464",
@@ -3691,13 +3691,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 4,
-      "Атаманиченко Кирилл Игоревич": 64,
-      "Дубовский Евгений Юрьевич": 31,
-      "Жуков Владимир Алексеевич": 46,
-      "Курнявко Олег Леонидович": 11,
-      "Огаркова Татьяна Михайловна": 18,
-      "Смолин Олег Николаевич": 228
+      "gas:candidate-vibid:2552000990097": 4,
+      "gas:candidate-vibid:2552000982914": 64,
+      "gas:candidate-vibid:2552000987491": 31,
+      "gas:candidate-vibid:2552000989928": 46,
+      "gas:candidate-vibid:2552000995699": 11,
+      "gas:candidate-vibid:2552000995804": 18,
+      "gas:candidate-vibid:2552000987306": 228
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897346&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897346&type=464",
@@ -3748,13 +3748,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 5,
-      "Атаманиченко Кирилл Игоревич": 61,
-      "Дубовский Евгений Юрьевич": 40,
-      "Жуков Владимир Алексеевич": 52,
-      "Курнявко Олег Леонидович": 3,
-      "Огаркова Татьяна Михайловна": 28,
-      "Смолин Олег Николаевич": 215
+      "gas:candidate-vibid:2552000990097": 5,
+      "gas:candidate-vibid:2552000982914": 61,
+      "gas:candidate-vibid:2552000987491": 40,
+      "gas:candidate-vibid:2552000989928": 52,
+      "gas:candidate-vibid:2552000995699": 3,
+      "gas:candidate-vibid:2552000995804": 28,
+      "gas:candidate-vibid:2552000987306": 215
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897346&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897346&type=464",
@@ -3805,13 +3805,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 3,
-      "Атаманиченко Кирилл Игоревич": 53,
-      "Дубовский Евгений Юрьевич": 31,
-      "Жуков Владимир Алексеевич": 52,
-      "Курнявко Олег Леонидович": 12,
-      "Огаркова Татьяна Михайловна": 18,
-      "Смолин Олег Николаевич": 235
+      "gas:candidate-vibid:2552000990097": 3,
+      "gas:candidate-vibid:2552000982914": 53,
+      "gas:candidate-vibid:2552000987491": 31,
+      "gas:candidate-vibid:2552000989928": 52,
+      "gas:candidate-vibid:2552000995699": 12,
+      "gas:candidate-vibid:2552000995804": 18,
+      "gas:candidate-vibid:2552000987306": 235
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897346&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897346&type=464",
@@ -3862,13 +3862,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 7,
-      "Атаманиченко Кирилл Игоревич": 28,
-      "Дубовский Евгений Юрьевич": 23,
-      "Жуков Владимир Алексеевич": 32,
-      "Курнявко Олег Леонидович": 3,
-      "Огаркова Татьяна Михайловна": 4,
-      "Смолин Олег Николаевич": 78
+      "gas:candidate-vibid:2552000990097": 7,
+      "gas:candidate-vibid:2552000982914": 28,
+      "gas:candidate-vibid:2552000987491": 23,
+      "gas:candidate-vibid:2552000989928": 32,
+      "gas:candidate-vibid:2552000995699": 3,
+      "gas:candidate-vibid:2552000995804": 4,
+      "gas:candidate-vibid:2552000987306": 78
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897346&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897346&type=464",
@@ -3919,13 +3919,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 2,
-      "Атаманиченко Кирилл Игоревич": 27,
-      "Дубовский Евгений Юрьевич": 24,
-      "Жуков Владимир Алексеевич": 29,
-      "Курнявко Олег Леонидович": 6,
-      "Огаркова Татьяна Михайловна": 1,
-      "Смолин Олег Николаевич": 83
+      "gas:candidate-vibid:2552000990097": 2,
+      "gas:candidate-vibid:2552000982914": 27,
+      "gas:candidate-vibid:2552000987491": 24,
+      "gas:candidate-vibid:2552000989928": 29,
+      "gas:candidate-vibid:2552000995699": 6,
+      "gas:candidate-vibid:2552000995804": 1,
+      "gas:candidate-vibid:2552000987306": 83
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897346&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897346&type=464",
@@ -3976,13 +3976,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 6,
-      "Атаманиченко Кирилл Игоревич": 108,
-      "Дубовский Евгений Юрьевич": 76,
-      "Жуков Владимир Алексеевич": 78,
-      "Курнявко Олег Леонидович": 14,
-      "Огаркова Татьяна Михайловна": 25,
-      "Смолин Олег Николаевич": 367
+      "gas:candidate-vibid:2552000990097": 6,
+      "gas:candidate-vibid:2552000982914": 108,
+      "gas:candidate-vibid:2552000987491": 76,
+      "gas:candidate-vibid:2552000989928": 78,
+      "gas:candidate-vibid:2552000995699": 14,
+      "gas:candidate-vibid:2552000995804": 25,
+      "gas:candidate-vibid:2552000987306": 367
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897347&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897347&type=464",
@@ -4033,13 +4033,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 8,
-      "Атаманиченко Кирилл Игоревич": 66,
-      "Дубовский Евгений Юрьевич": 49,
-      "Жуков Владимир Алексеевич": 49,
-      "Курнявко Олег Леонидович": 6,
-      "Огаркова Татьяна Михайловна": 18,
-      "Смолин Олег Николаевич": 196
+      "gas:candidate-vibid:2552000990097": 8,
+      "gas:candidate-vibid:2552000982914": 66,
+      "gas:candidate-vibid:2552000987491": 49,
+      "gas:candidate-vibid:2552000989928": 49,
+      "gas:candidate-vibid:2552000995699": 6,
+      "gas:candidate-vibid:2552000995804": 18,
+      "gas:candidate-vibid:2552000987306": 196
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897347&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897347&type=464",
@@ -4090,13 +4090,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 14,
-      "Атаманиченко Кирилл Игоревич": 101,
-      "Дубовский Евгений Юрьевич": 59,
-      "Жуков Владимир Алексеевич": 55,
-      "Курнявко Олег Леонидович": 8,
-      "Огаркова Татьяна Михайловна": 19,
-      "Смолин Олег Николаевич": 295
+      "gas:candidate-vibid:2552000990097": 14,
+      "gas:candidate-vibid:2552000982914": 101,
+      "gas:candidate-vibid:2552000987491": 59,
+      "gas:candidate-vibid:2552000989928": 55,
+      "gas:candidate-vibid:2552000995699": 8,
+      "gas:candidate-vibid:2552000995804": 19,
+      "gas:candidate-vibid:2552000987306": 295
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897347&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897347&type=464",
@@ -4147,13 +4147,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 8,
-      "Атаманиченко Кирилл Игоревич": 76,
-      "Дубовский Евгений Юрьевич": 59,
-      "Жуков Владимир Алексеевич": 48,
-      "Курнявко Олег Леонидович": 13,
-      "Огаркова Татьяна Михайловна": 20,
-      "Смолин Олег Николаевич": 246
+      "gas:candidate-vibid:2552000990097": 8,
+      "gas:candidate-vibid:2552000982914": 76,
+      "gas:candidate-vibid:2552000987491": 59,
+      "gas:candidate-vibid:2552000989928": 48,
+      "gas:candidate-vibid:2552000995699": 13,
+      "gas:candidate-vibid:2552000995804": 20,
+      "gas:candidate-vibid:2552000987306": 246
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897347&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897347&type=464",
@@ -4204,13 +4204,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 8,
-      "Атаманиченко Кирилл Игоревич": 80,
-      "Дубовский Евгений Юрьевич": 41,
-      "Жуков Владимир Алексеевич": 53,
-      "Курнявко Олег Леонидович": 11,
-      "Огаркова Татьяна Михайловна": 27,
-      "Смолин Олег Николаевич": 226
+      "gas:candidate-vibid:2552000990097": 8,
+      "gas:candidate-vibid:2552000982914": 80,
+      "gas:candidate-vibid:2552000987491": 41,
+      "gas:candidate-vibid:2552000989928": 53,
+      "gas:candidate-vibid:2552000995699": 11,
+      "gas:candidate-vibid:2552000995804": 27,
+      "gas:candidate-vibid:2552000987306": 226
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897347&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897347&type=464",
@@ -4261,13 +4261,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 12,
-      "Атаманиченко Кирилл Игоревич": 78,
-      "Дубовский Евгений Юрьевич": 45,
-      "Жуков Владимир Алексеевич": 43,
-      "Курнявко Олег Леонидович": 11,
-      "Огаркова Татьяна Михайловна": 18,
-      "Смолин Олег Николаевич": 243
+      "gas:candidate-vibid:2552000990097": 12,
+      "gas:candidate-vibid:2552000982914": 78,
+      "gas:candidate-vibid:2552000987491": 45,
+      "gas:candidate-vibid:2552000989928": 43,
+      "gas:candidate-vibid:2552000995699": 11,
+      "gas:candidate-vibid:2552000995804": 18,
+      "gas:candidate-vibid:2552000987306": 243
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897347&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897347&type=464",
@@ -4318,13 +4318,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 6,
-      "Атаманиченко Кирилл Игоревич": 61,
-      "Дубовский Евгений Юрьевич": 46,
-      "Жуков Владимир Алексеевич": 37,
-      "Курнявко Олег Леонидович": 10,
-      "Огаркова Татьяна Михайловна": 17,
-      "Смолин Олег Николаевич": 230
+      "gas:candidate-vibid:2552000990097": 6,
+      "gas:candidate-vibid:2552000982914": 61,
+      "gas:candidate-vibid:2552000987491": 46,
+      "gas:candidate-vibid:2552000989928": 37,
+      "gas:candidate-vibid:2552000995699": 10,
+      "gas:candidate-vibid:2552000995804": 17,
+      "gas:candidate-vibid:2552000987306": 230
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897347&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897347&type=464",
@@ -4375,13 +4375,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 3,
-      "Атаманиченко Кирилл Игоревич": 76,
-      "Дубовский Евгений Юрьевич": 55,
-      "Жуков Владимир Алексеевич": 63,
-      "Курнявко Олег Леонидович": 13,
-      "Огаркова Татьяна Михайловна": 27,
-      "Смолин Олег Николаевич": 238
+      "gas:candidate-vibid:2552000990097": 3,
+      "gas:candidate-vibid:2552000982914": 76,
+      "gas:candidate-vibid:2552000987491": 55,
+      "gas:candidate-vibid:2552000989928": 63,
+      "gas:candidate-vibid:2552000995699": 13,
+      "gas:candidate-vibid:2552000995804": 27,
+      "gas:candidate-vibid:2552000987306": 238
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897347&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897347&type=464",
@@ -4432,13 +4432,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 12,
-      "Атаманиченко Кирилл Игоревич": 40,
-      "Дубовский Евгений Юрьевич": 35,
-      "Жуков Владимир Алексеевич": 37,
-      "Курнявко Олег Леонидович": 13,
-      "Огаркова Татьяна Михайловна": 11,
-      "Смолин Олег Николаевич": 89
+      "gas:candidate-vibid:2552000990097": 12,
+      "gas:candidate-vibid:2552000982914": 40,
+      "gas:candidate-vibid:2552000987491": 35,
+      "gas:candidate-vibid:2552000989928": 37,
+      "gas:candidate-vibid:2552000995699": 13,
+      "gas:candidate-vibid:2552000995804": 11,
+      "gas:candidate-vibid:2552000987306": 89
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897347&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897347&type=464",
@@ -4489,13 +4489,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 3,
-      "Атаманиченко Кирилл Игоревич": 58,
-      "Дубовский Евгений Юрьевич": 21,
-      "Жуков Владимир Алексеевич": 33,
-      "Курнявко Олег Леонидович": 9,
-      "Огаркова Татьяна Михайловна": 5,
-      "Смолин Олег Николаевич": 59
+      "gas:candidate-vibid:2552000990097": 3,
+      "gas:candidate-vibid:2552000982914": 58,
+      "gas:candidate-vibid:2552000987491": 21,
+      "gas:candidate-vibid:2552000989928": 33,
+      "gas:candidate-vibid:2552000995699": 9,
+      "gas:candidate-vibid:2552000995804": 5,
+      "gas:candidate-vibid:2552000987306": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897347&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897347&type=464",
@@ -4546,13 +4546,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 4,
-      "Атаманиченко Кирилл Игоревич": 50,
-      "Дубовский Евгений Юрьевич": 31,
-      "Жуков Владимир Алексеевич": 31,
-      "Курнявко Олег Леонидович": 8,
-      "Огаркова Татьяна Михайловна": 6,
-      "Смолин Олег Николаевич": 124
+      "gas:candidate-vibid:2552000990097": 4,
+      "gas:candidate-vibid:2552000982914": 50,
+      "gas:candidate-vibid:2552000987491": 31,
+      "gas:candidate-vibid:2552000989928": 31,
+      "gas:candidate-vibid:2552000995699": 8,
+      "gas:candidate-vibid:2552000995804": 6,
+      "gas:candidate-vibid:2552000987306": 124
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897347&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897347&type=464",
@@ -4603,13 +4603,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 3,
-      "Атаманиченко Кирилл Игоревич": 33,
-      "Дубовский Евгений Юрьевич": 18,
-      "Жуков Владимир Алексеевич": 21,
-      "Курнявко Олег Леонидович": 8,
-      "Огаркова Татьяна Михайловна": 2,
-      "Смолин Олег Николаевич": 58
+      "gas:candidate-vibid:2552000990097": 3,
+      "gas:candidate-vibid:2552000982914": 33,
+      "gas:candidate-vibid:2552000987491": 18,
+      "gas:candidate-vibid:2552000989928": 21,
+      "gas:candidate-vibid:2552000995699": 8,
+      "gas:candidate-vibid:2552000995804": 2,
+      "gas:candidate-vibid:2552000987306": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897347&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897347&type=464",
@@ -4660,13 +4660,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 6,
-      "Атаманиченко Кирилл Игоревич": 31,
-      "Дубовский Евгений Юрьевич": 11,
-      "Жуков Владимир Алексеевич": 19,
-      "Курнявко Олег Леонидович": 6,
-      "Огаркова Татьяна Михайловна": 3,
-      "Смолин Олег Николаевич": 142
+      "gas:candidate-vibid:2552000990097": 6,
+      "gas:candidate-vibid:2552000982914": 31,
+      "gas:candidate-vibid:2552000987491": 11,
+      "gas:candidate-vibid:2552000989928": 19,
+      "gas:candidate-vibid:2552000995699": 6,
+      "gas:candidate-vibid:2552000995804": 3,
+      "gas:candidate-vibid:2552000987306": 142
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897347&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897347&type=464",
@@ -4717,13 +4717,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 7,
-      "Атаманиченко Кирилл Игоревич": 13,
-      "Дубовский Евгений Юрьевич": 14,
-      "Жуков Владимир Алексеевич": 16,
-      "Курнявко Олег Леонидович": 9,
-      "Огаркова Татьяна Михайловна": 2,
-      "Смолин Олег Николаевич": 125
+      "gas:candidate-vibid:2552000990097": 7,
+      "gas:candidate-vibid:2552000982914": 13,
+      "gas:candidate-vibid:2552000987491": 14,
+      "gas:candidate-vibid:2552000989928": 16,
+      "gas:candidate-vibid:2552000995699": 9,
+      "gas:candidate-vibid:2552000995804": 2,
+      "gas:candidate-vibid:2552000987306": 125
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897347&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897347&type=464",
@@ -4774,13 +4774,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 10,
-      "Атаманиченко Кирилл Игоревич": 90,
-      "Дубовский Евгений Юрьевич": 62,
-      "Жуков Владимир Алексеевич": 85,
-      "Курнявко Олег Леонидович": 10,
-      "Огаркова Татьяна Михайловна": 13,
-      "Смолин Олег Николаевич": 197
+      "gas:candidate-vibid:2552000990097": 10,
+      "gas:candidate-vibid:2552000982914": 90,
+      "gas:candidate-vibid:2552000987491": 62,
+      "gas:candidate-vibid:2552000989928": 85,
+      "gas:candidate-vibid:2552000995699": 10,
+      "gas:candidate-vibid:2552000995804": 13,
+      "gas:candidate-vibid:2552000987306": 197
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897347&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897347&type=464",
@@ -4831,13 +4831,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 0,
-      "Атаманиченко Кирилл Игоревич": 5,
-      "Дубовский Евгений Юрьевич": 4,
-      "Жуков Владимир Алексеевич": 6,
-      "Курнявко Олег Леонидович": 0,
-      "Огаркова Татьяна Михайловна": 3,
-      "Смолин Олег Николаевич": 47
+      "gas:candidate-vibid:2552000990097": 0,
+      "gas:candidate-vibid:2552000982914": 5,
+      "gas:candidate-vibid:2552000987491": 4,
+      "gas:candidate-vibid:2552000989928": 6,
+      "gas:candidate-vibid:2552000995699": 0,
+      "gas:candidate-vibid:2552000995804": 3,
+      "gas:candidate-vibid:2552000987306": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897347&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897347&type=464",
@@ -4888,13 +4888,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 10,
-      "Атаманиченко Кирилл Игоревич": 70,
-      "Дубовский Евгений Юрьевич": 70,
-      "Жуков Владимир Алексеевич": 66,
-      "Курнявко Олег Леонидович": 19,
-      "Огаркова Татьяна Михайловна": 22,
-      "Смолин Олег Николаевич": 275
+      "gas:candidate-vibid:2552000990097": 10,
+      "gas:candidate-vibid:2552000982914": 70,
+      "gas:candidate-vibid:2552000987491": 70,
+      "gas:candidate-vibid:2552000989928": 66,
+      "gas:candidate-vibid:2552000995699": 19,
+      "gas:candidate-vibid:2552000995804": 22,
+      "gas:candidate-vibid:2552000987306": 275
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897347&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897347&type=464",
@@ -4945,13 +4945,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 7,
-      "Атаманиченко Кирилл Игоревич": 12,
-      "Дубовский Евгений Юрьевич": 7,
-      "Жуков Владимир Алексеевич": 8,
-      "Курнявко Олег Леонидович": 1,
-      "Огаркова Татьяна Михайловна": 5,
-      "Смолин Олег Николаевич": 43
+      "gas:candidate-vibid:2552000990097": 7,
+      "gas:candidate-vibid:2552000982914": 12,
+      "gas:candidate-vibid:2552000987491": 7,
+      "gas:candidate-vibid:2552000989928": 8,
+      "gas:candidate-vibid:2552000995699": 1,
+      "gas:candidate-vibid:2552000995804": 5,
+      "gas:candidate-vibid:2552000987306": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897347&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897347&type=464",
@@ -5002,13 +5002,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 13,
-      "Атаманиченко Кирилл Игоревич": 67,
-      "Дубовский Евгений Юрьевич": 48,
-      "Жуков Владимир Алексеевич": 60,
-      "Курнявко Олег Леонидович": 10,
-      "Огаркова Татьяна Михайловна": 12,
-      "Смолин Олег Николаевич": 214
+      "gas:candidate-vibid:2552000990097": 13,
+      "gas:candidate-vibid:2552000982914": 67,
+      "gas:candidate-vibid:2552000987491": 48,
+      "gas:candidate-vibid:2552000989928": 60,
+      "gas:candidate-vibid:2552000995699": 10,
+      "gas:candidate-vibid:2552000995804": 12,
+      "gas:candidate-vibid:2552000987306": 214
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897347&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897347&type=464",
@@ -5059,13 +5059,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 1,
-      "Атаманиченко Кирилл Игоревич": 12,
-      "Дубовский Евгений Юрьевич": 26,
-      "Жуков Владимир Алексеевич": 13,
-      "Курнявко Олег Леонидович": 6,
-      "Огаркова Татьяна Михайловна": 4,
-      "Смолин Олег Николаевич": 70
+      "gas:candidate-vibid:2552000990097": 1,
+      "gas:candidate-vibid:2552000982914": 12,
+      "gas:candidate-vibid:2552000987491": 26,
+      "gas:candidate-vibid:2552000989928": 13,
+      "gas:candidate-vibid:2552000995699": 6,
+      "gas:candidate-vibid:2552000995804": 4,
+      "gas:candidate-vibid:2552000987306": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897347&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897347&type=464",
@@ -5116,13 +5116,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 0,
-      "Атаманиченко Кирилл Игоревич": 6,
-      "Дубовский Евгений Юрьевич": 6,
-      "Жуков Владимир Алексеевич": 18,
-      "Курнявко Олег Леонидович": 4,
-      "Огаркова Татьяна Михайловна": 3,
-      "Смолин Олег Николаевич": 49
+      "gas:candidate-vibid:2552000990097": 0,
+      "gas:candidate-vibid:2552000982914": 6,
+      "gas:candidate-vibid:2552000987491": 6,
+      "gas:candidate-vibid:2552000989928": 18,
+      "gas:candidate-vibid:2552000995699": 4,
+      "gas:candidate-vibid:2552000995804": 3,
+      "gas:candidate-vibid:2552000987306": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897347&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897347&type=464",
@@ -5173,13 +5173,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 8,
-      "Атаманиченко Кирилл Игоревич": 55,
-      "Дубовский Евгений Юрьевич": 50,
-      "Жуков Владимир Алексеевич": 63,
-      "Курнявко Олег Леонидович": 12,
-      "Огаркова Татьяна Михайловна": 15,
-      "Смолин Олег Николаевич": 304
+      "gas:candidate-vibid:2552000990097": 8,
+      "gas:candidate-vibid:2552000982914": 55,
+      "gas:candidate-vibid:2552000987491": 50,
+      "gas:candidate-vibid:2552000989928": 63,
+      "gas:candidate-vibid:2552000995699": 12,
+      "gas:candidate-vibid:2552000995804": 15,
+      "gas:candidate-vibid:2552000987306": 304
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897347&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897347&type=464",
@@ -5230,13 +5230,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 22,
-      "Атаманиченко Кирилл Игоревич": 10,
-      "Дубовский Евгений Юрьевич": 25,
-      "Жуков Владимир Алексеевич": 28,
-      "Курнявко Олег Леонидович": 13,
-      "Огаркова Татьяна Михайловна": 3,
-      "Смолин Олег Николаевич": 101
+      "gas:candidate-vibid:2552000990097": 22,
+      "gas:candidate-vibid:2552000982914": 10,
+      "gas:candidate-vibid:2552000987491": 25,
+      "gas:candidate-vibid:2552000989928": 28,
+      "gas:candidate-vibid:2552000995699": 13,
+      "gas:candidate-vibid:2552000995804": 3,
+      "gas:candidate-vibid:2552000987306": 101
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897347&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897347&type=464",
@@ -5287,13 +5287,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 4,
-      "Атаманиченко Кирилл Игоревич": 12,
-      "Дубовский Евгений Юрьевич": 18,
-      "Жуков Владимир Алексеевич": 26,
-      "Курнявко Олег Леонидович": 2,
-      "Огаркова Татьяна Михайловна": 4,
-      "Смолин Олег Николаевич": 102
+      "gas:candidate-vibid:2552000990097": 4,
+      "gas:candidate-vibid:2552000982914": 12,
+      "gas:candidate-vibid:2552000987491": 18,
+      "gas:candidate-vibid:2552000989928": 26,
+      "gas:candidate-vibid:2552000995699": 2,
+      "gas:candidate-vibid:2552000995804": 4,
+      "gas:candidate-vibid:2552000987306": 102
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897347&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897347&type=464",
@@ -5344,13 +5344,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 3,
-      "Атаманиченко Кирилл Игоревич": 5,
-      "Дубовский Евгений Юрьевич": 19,
-      "Жуков Владимир Алексеевич": 18,
-      "Курнявко Олег Леонидович": 4,
-      "Огаркова Татьяна Михайловна": 3,
-      "Смолин Олег Николаевич": 40
+      "gas:candidate-vibid:2552000990097": 3,
+      "gas:candidate-vibid:2552000982914": 5,
+      "gas:candidate-vibid:2552000987491": 19,
+      "gas:candidate-vibid:2552000989928": 18,
+      "gas:candidate-vibid:2552000995699": 4,
+      "gas:candidate-vibid:2552000995804": 3,
+      "gas:candidate-vibid:2552000987306": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897347&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897347&type=464",
@@ -5401,13 +5401,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 3,
-      "Атаманиченко Кирилл Игоревич": 12,
-      "Дубовский Евгений Юрьевич": 15,
-      "Жуков Владимир Алексеевич": 25,
-      "Курнявко Олег Леонидович": 1,
-      "Огаркова Татьяна Михайловна": 2,
-      "Смолин Олег Николаевич": 66
+      "gas:candidate-vibid:2552000990097": 3,
+      "gas:candidate-vibid:2552000982914": 12,
+      "gas:candidate-vibid:2552000987491": 15,
+      "gas:candidate-vibid:2552000989928": 25,
+      "gas:candidate-vibid:2552000995699": 1,
+      "gas:candidate-vibid:2552000995804": 2,
+      "gas:candidate-vibid:2552000987306": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897347&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897347&type=464",
@@ -5458,13 +5458,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 5,
-      "Атаманиченко Кирилл Игоревич": 14,
-      "Дубовский Евгений Юрьевич": 19,
-      "Жуков Владимир Алексеевич": 15,
-      "Курнявко Олег Леонидович": 5,
-      "Огаркова Татьяна Михайловна": 4,
-      "Смолин Олег Николаевич": 48
+      "gas:candidate-vibid:2552000990097": 5,
+      "gas:candidate-vibid:2552000982914": 14,
+      "gas:candidate-vibid:2552000987491": 19,
+      "gas:candidate-vibid:2552000989928": 15,
+      "gas:candidate-vibid:2552000995699": 5,
+      "gas:candidate-vibid:2552000995804": 4,
+      "gas:candidate-vibid:2552000987306": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897347&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897347&type=464",
@@ -5515,13 +5515,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 1,
-      "Атаманиченко Кирилл Игоревич": 14,
-      "Дубовский Евгений Юрьевич": 21,
-      "Жуков Владимир Алексеевич": 11,
-      "Курнявко Олег Леонидович": 3,
-      "Огаркова Татьяна Михайловна": 3,
-      "Смолин Олег Николаевич": 50
+      "gas:candidate-vibid:2552000990097": 1,
+      "gas:candidate-vibid:2552000982914": 14,
+      "gas:candidate-vibid:2552000987491": 21,
+      "gas:candidate-vibid:2552000989928": 11,
+      "gas:candidate-vibid:2552000995699": 3,
+      "gas:candidate-vibid:2552000995804": 3,
+      "gas:candidate-vibid:2552000987306": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897347&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897347&type=464",
@@ -5572,13 +5572,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 4,
-      "Атаманиченко Кирилл Игоревич": 6,
-      "Дубовский Евгений Юрьевич": 13,
-      "Жуков Владимир Алексеевич": 13,
-      "Курнявко Олег Леонидович": 2,
-      "Огаркова Татьяна Михайловна": 5,
-      "Смолин Олег Николаевич": 40
+      "gas:candidate-vibid:2552000990097": 4,
+      "gas:candidate-vibid:2552000982914": 6,
+      "gas:candidate-vibid:2552000987491": 13,
+      "gas:candidate-vibid:2552000989928": 13,
+      "gas:candidate-vibid:2552000995699": 2,
+      "gas:candidate-vibid:2552000995804": 5,
+      "gas:candidate-vibid:2552000987306": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897347&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897347&type=464",
@@ -5629,13 +5629,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 9,
-      "Атаманиченко Кирилл Игоревич": 62,
-      "Дубовский Евгений Юрьевич": 48,
-      "Жуков Владимир Алексеевич": 58,
-      "Курнявко Олег Леонидович": 12,
-      "Огаркова Татьяна Михайловна": 26,
-      "Смолин Олег Николаевич": 275
+      "gas:candidate-vibid:2552000990097": 9,
+      "gas:candidate-vibid:2552000982914": 62,
+      "gas:candidate-vibid:2552000987491": 48,
+      "gas:candidate-vibid:2552000989928": 58,
+      "gas:candidate-vibid:2552000995699": 12,
+      "gas:candidate-vibid:2552000995804": 26,
+      "gas:candidate-vibid:2552000987306": 275
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897347&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897347&type=464",
@@ -5686,13 +5686,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 1,
-      "Атаманиченко Кирилл Игоревич": 4,
-      "Дубовский Евгений Юрьевич": 11,
-      "Жуков Владимир Алексеевич": 5,
-      "Курнявко Олег Леонидович": 1,
-      "Огаркова Татьяна Михайловна": 2,
-      "Смолин Олег Николаевич": 30
+      "gas:candidate-vibid:2552000990097": 1,
+      "gas:candidate-vibid:2552000982914": 4,
+      "gas:candidate-vibid:2552000987491": 11,
+      "gas:candidate-vibid:2552000989928": 5,
+      "gas:candidate-vibid:2552000995699": 1,
+      "gas:candidate-vibid:2552000995804": 2,
+      "gas:candidate-vibid:2552000987306": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897347&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897347&type=464",
@@ -5743,13 +5743,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 6,
-      "Атаманиченко Кирилл Игоревич": 84,
-      "Дубовский Евгений Юрьевич": 47,
-      "Жуков Владимир Алексеевич": 109,
-      "Курнявко Олег Леонидович": 12,
-      "Огаркова Татьяна Михайловна": 23,
-      "Смолин Олег Николаевич": 241
+      "gas:candidate-vibid:2552000990097": 6,
+      "gas:candidate-vibid:2552000982914": 84,
+      "gas:candidate-vibid:2552000987491": 47,
+      "gas:candidate-vibid:2552000989928": 109,
+      "gas:candidate-vibid:2552000995699": 12,
+      "gas:candidate-vibid:2552000995804": 23,
+      "gas:candidate-vibid:2552000987306": 241
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897347&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897347&type=464",
@@ -5800,13 +5800,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 2,
-      "Атаманиченко Кирилл Игоревич": 9,
-      "Дубовский Евгений Юрьевич": 12,
-      "Жуков Владимир Алексеевич": 19,
-      "Курнявко Олег Леонидович": 3,
-      "Огаркова Татьяна Михайловна": 1,
-      "Смолин Олег Николаевич": 45
+      "gas:candidate-vibid:2552000990097": 2,
+      "gas:candidate-vibid:2552000982914": 9,
+      "gas:candidate-vibid:2552000987491": 12,
+      "gas:candidate-vibid:2552000989928": 19,
+      "gas:candidate-vibid:2552000995699": 3,
+      "gas:candidate-vibid:2552000995804": 1,
+      "gas:candidate-vibid:2552000987306": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897347&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897347&type=464",
@@ -5857,13 +5857,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 2,
-      "Атаманиченко Кирилл Игоревич": 0,
-      "Дубовский Евгений Юрьевич": 6,
-      "Жуков Владимир Алексеевич": 10,
-      "Курнявко Олег Леонидович": 1,
-      "Огаркова Татьяна Михайловна": 3,
-      "Смолин Олег Николаевич": 48
+      "gas:candidate-vibid:2552000990097": 2,
+      "gas:candidate-vibid:2552000982914": 0,
+      "gas:candidate-vibid:2552000987491": 6,
+      "gas:candidate-vibid:2552000989928": 10,
+      "gas:candidate-vibid:2552000995699": 1,
+      "gas:candidate-vibid:2552000995804": 3,
+      "gas:candidate-vibid:2552000987306": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897347&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897347&type=464",
@@ -5914,13 +5914,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 3,
-      "Атаманиченко Кирилл Игоревич": 5,
-      "Дубовский Евгений Юрьевич": 4,
-      "Жуков Владимир Алексеевич": 9,
-      "Курнявко Олег Леонидович": 4,
-      "Огаркова Татьяна Михайловна": 3,
-      "Смолин Олег Николаевич": 24
+      "gas:candidate-vibid:2552000990097": 3,
+      "gas:candidate-vibid:2552000982914": 5,
+      "gas:candidate-vibid:2552000987491": 4,
+      "gas:candidate-vibid:2552000989928": 9,
+      "gas:candidate-vibid:2552000995699": 4,
+      "gas:candidate-vibid:2552000995804": 3,
+      "gas:candidate-vibid:2552000987306": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897347&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897347&type=464",
@@ -5971,13 +5971,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 14,
-      "Атаманиченко Кирилл Игоревич": 83,
-      "Дубовский Евгений Юрьевич": 65,
-      "Жуков Владимир Алексеевич": 84,
-      "Курнявко Олег Леонидович": 10,
-      "Огаркова Татьяна Михайловна": 11,
-      "Смолин Олег Николаевич": 327
+      "gas:candidate-vibid:2552000990097": 14,
+      "gas:candidate-vibid:2552000982914": 83,
+      "gas:candidate-vibid:2552000987491": 65,
+      "gas:candidate-vibid:2552000989928": 84,
+      "gas:candidate-vibid:2552000995699": 10,
+      "gas:candidate-vibid:2552000995804": 11,
+      "gas:candidate-vibid:2552000987306": 327
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897347&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897347&type=464",
@@ -6028,13 +6028,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 8,
-      "Атаманиченко Кирилл Игоревич": 88,
-      "Дубовский Евгений Юрьевич": 33,
-      "Жуков Владимир Алексеевич": 55,
-      "Курнявко Олег Леонидович": 5,
-      "Огаркова Татьяна Михайловна": 20,
-      "Смолин Олег Николаевич": 226
+      "gas:candidate-vibid:2552000990097": 8,
+      "gas:candidate-vibid:2552000982914": 88,
+      "gas:candidate-vibid:2552000987491": 33,
+      "gas:candidate-vibid:2552000989928": 55,
+      "gas:candidate-vibid:2552000995699": 5,
+      "gas:candidate-vibid:2552000995804": 20,
+      "gas:candidate-vibid:2552000987306": 226
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897347&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897347&type=464",
@@ -6085,13 +6085,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 3,
-      "Атаманиченко Кирилл Игоревич": 7,
-      "Дубовский Евгений Юрьевич": 4,
-      "Жуков Владимир Алексеевич": 7,
-      "Курнявко Олег Леонидович": 0,
-      "Огаркова Татьяна Михайловна": 2,
-      "Смолин Олег Николаевич": 28
+      "gas:candidate-vibid:2552000990097": 3,
+      "gas:candidate-vibid:2552000982914": 7,
+      "gas:candidate-vibid:2552000987491": 4,
+      "gas:candidate-vibid:2552000989928": 7,
+      "gas:candidate-vibid:2552000995699": 0,
+      "gas:candidate-vibid:2552000995804": 2,
+      "gas:candidate-vibid:2552000987306": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897347&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897347&type=464",
@@ -6142,13 +6142,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 0,
-      "Атаманиченко Кирилл Игоревич": 4,
-      "Дубовский Евгений Юрьевич": 2,
-      "Жуков Владимир Алексеевич": 2,
-      "Курнявко Олег Леонидович": 0,
-      "Огаркова Татьяна Михайловна": 4,
-      "Смолин Олег Николаевич": 5
+      "gas:candidate-vibid:2552000990097": 0,
+      "gas:candidate-vibid:2552000982914": 4,
+      "gas:candidate-vibid:2552000987491": 2,
+      "gas:candidate-vibid:2552000989928": 2,
+      "gas:candidate-vibid:2552000995699": 0,
+      "gas:candidate-vibid:2552000995804": 4,
+      "gas:candidate-vibid:2552000987306": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897347&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897347&type=464",
@@ -6199,13 +6199,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 1,
-      "Атаманиченко Кирилл Игоревич": 17,
-      "Дубовский Евгений Юрьевич": 8,
-      "Жуков Владимир Алексеевич": 14,
-      "Курнявко Олег Леонидович": 1,
-      "Огаркова Татьяна Михайловна": 2,
-      "Смолин Олег Николаевич": 51
+      "gas:candidate-vibid:2552000990097": 1,
+      "gas:candidate-vibid:2552000982914": 17,
+      "gas:candidate-vibid:2552000987491": 8,
+      "gas:candidate-vibid:2552000989928": 14,
+      "gas:candidate-vibid:2552000995699": 1,
+      "gas:candidate-vibid:2552000995804": 2,
+      "gas:candidate-vibid:2552000987306": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897347&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897347&type=464",
@@ -6256,13 +6256,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 14,
-      "Атаманиченко Кирилл Игоревич": 73,
-      "Дубовский Евгений Юрьевич": 58,
-      "Жуков Владимир Алексеевич": 48,
-      "Курнявко Олег Леонидович": 13,
-      "Огаркова Татьяна Михайловна": 14,
-      "Смолин Олег Николаевич": 224
+      "gas:candidate-vibid:2552000990097": 14,
+      "gas:candidate-vibid:2552000982914": 73,
+      "gas:candidate-vibid:2552000987491": 58,
+      "gas:candidate-vibid:2552000989928": 48,
+      "gas:candidate-vibid:2552000995699": 13,
+      "gas:candidate-vibid:2552000995804": 14,
+      "gas:candidate-vibid:2552000987306": 224
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897347&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897347&type=464",
@@ -6313,13 +6313,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 0,
-      "Атаманиченко Кирилл Игоревич": 8,
-      "Дубовский Евгений Юрьевич": 8,
-      "Жуков Владимир Алексеевич": 17,
-      "Курнявко Олег Леонидович": 0,
-      "Огаркова Татьяна Михайловна": 8,
-      "Смолин Олег Николаевич": 36
+      "gas:candidate-vibid:2552000990097": 0,
+      "gas:candidate-vibid:2552000982914": 8,
+      "gas:candidate-vibid:2552000987491": 8,
+      "gas:candidate-vibid:2552000989928": 17,
+      "gas:candidate-vibid:2552000995699": 0,
+      "gas:candidate-vibid:2552000995804": 8,
+      "gas:candidate-vibid:2552000987306": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897347&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897347&type=464",
@@ -6370,13 +6370,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 2,
-      "Атаманиченко Кирилл Игоревич": 22,
-      "Дубовский Евгений Юрьевич": 4,
-      "Жуков Владимир Алексеевич": 8,
-      "Курнявко Олег Леонидович": 2,
-      "Огаркова Татьяна Михайловна": 2,
-      "Смолин Олег Николаевич": 30
+      "gas:candidate-vibid:2552000990097": 2,
+      "gas:candidate-vibid:2552000982914": 22,
+      "gas:candidate-vibid:2552000987491": 4,
+      "gas:candidate-vibid:2552000989928": 8,
+      "gas:candidate-vibid:2552000995699": 2,
+      "gas:candidate-vibid:2552000995804": 2,
+      "gas:candidate-vibid:2552000987306": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897347&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897347&type=464",
@@ -6427,13 +6427,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 15,
-      "Атаманиченко Кирилл Игоревич": 55,
-      "Дубовский Евгений Юрьевич": 29,
-      "Жуков Владимир Алексеевич": 58,
-      "Курнявко Олег Леонидович": 12,
-      "Огаркова Татьяна Михайловна": 19,
-      "Смолин Олег Николаевич": 316
+      "gas:candidate-vibid:2552000990097": 15,
+      "gas:candidate-vibid:2552000982914": 55,
+      "gas:candidate-vibid:2552000987491": 29,
+      "gas:candidate-vibid:2552000989928": 58,
+      "gas:candidate-vibid:2552000995699": 12,
+      "gas:candidate-vibid:2552000995804": 19,
+      "gas:candidate-vibid:2552000987306": 316
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897347&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897347&type=464",
@@ -6484,13 +6484,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 3,
-      "Атаманиченко Кирилл Игоревич": 13,
-      "Дубовский Евгений Юрьевич": 22,
-      "Жуков Владимир Алексеевич": 11,
-      "Курнявко Олег Леонидович": 2,
-      "Огаркова Татьяна Михайловна": 1,
-      "Смолин Олег Николаевич": 37
+      "gas:candidate-vibid:2552000990097": 3,
+      "gas:candidate-vibid:2552000982914": 13,
+      "gas:candidate-vibid:2552000987491": 22,
+      "gas:candidate-vibid:2552000989928": 11,
+      "gas:candidate-vibid:2552000995699": 2,
+      "gas:candidate-vibid:2552000995804": 1,
+      "gas:candidate-vibid:2552000987306": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897347&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897347&type=464",
@@ -6541,13 +6541,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 2,
-      "Атаманиченко Кирилл Игоревич": 2,
-      "Дубовский Евгений Юрьевич": 16,
-      "Жуков Владимир Алексеевич": 19,
-      "Курнявко Олег Леонидович": 5,
-      "Огаркова Татьяна Михайловна": 2,
-      "Смолин Олег Николаевич": 151
+      "gas:candidate-vibid:2552000990097": 2,
+      "gas:candidate-vibid:2552000982914": 2,
+      "gas:candidate-vibid:2552000987491": 16,
+      "gas:candidate-vibid:2552000989928": 19,
+      "gas:candidate-vibid:2552000995699": 5,
+      "gas:candidate-vibid:2552000995804": 2,
+      "gas:candidate-vibid:2552000987306": 151
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897347&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897347&type=464",
@@ -6598,13 +6598,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 2,
-      "Атаманиченко Кирилл Игоревич": 10,
-      "Дубовский Евгений Юрьевич": 7,
-      "Жуков Владимир Алексеевич": 6,
-      "Курнявко Олег Леонидович": 3,
-      "Огаркова Татьяна Михайловна": 0,
-      "Смолин Олег Николаевич": 113
+      "gas:candidate-vibid:2552000990097": 2,
+      "gas:candidate-vibid:2552000982914": 10,
+      "gas:candidate-vibid:2552000987491": 7,
+      "gas:candidate-vibid:2552000989928": 6,
+      "gas:candidate-vibid:2552000995699": 3,
+      "gas:candidate-vibid:2552000995804": 0,
+      "gas:candidate-vibid:2552000987306": 113
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897347&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897347&type=464",
@@ -6655,13 +6655,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 0,
-      "Атаманиченко Кирилл Игоревич": 13,
-      "Дубовский Евгений Юрьевич": 5,
-      "Жуков Владимир Алексеевич": 9,
-      "Курнявко Олег Леонидович": 1,
-      "Огаркова Татьяна Михайловна": 1,
-      "Смолин Олег Николаевич": 16
+      "gas:candidate-vibid:2552000990097": 0,
+      "gas:candidate-vibid:2552000982914": 13,
+      "gas:candidate-vibid:2552000987491": 5,
+      "gas:candidate-vibid:2552000989928": 9,
+      "gas:candidate-vibid:2552000995699": 1,
+      "gas:candidate-vibid:2552000995804": 1,
+      "gas:candidate-vibid:2552000987306": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897347&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897347&type=464",
@@ -6712,13 +6712,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 11,
-      "Атаманиченко Кирилл Игоревич": 116,
-      "Дубовский Евгений Юрьевич": 79,
-      "Жуков Владимир Алексеевич": 63,
-      "Курнявко Олег Леонидович": 18,
-      "Огаркова Татьяна Михайловна": 13,
-      "Смолин Олег Николаевич": 212
+      "gas:candidate-vibid:2552000990097": 11,
+      "gas:candidate-vibid:2552000982914": 116,
+      "gas:candidate-vibid:2552000987491": 79,
+      "gas:candidate-vibid:2552000989928": 63,
+      "gas:candidate-vibid:2552000995699": 18,
+      "gas:candidate-vibid:2552000995804": 13,
+      "gas:candidate-vibid:2552000987306": 212
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897348&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897348&type=464",
@@ -6769,13 +6769,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 15,
-      "Атаманиченко Кирилл Игоревич": 202,
-      "Дубовский Евгений Юрьевич": 117,
-      "Жуков Владимир Алексеевич": 92,
-      "Курнявко Олег Леонидович": 25,
-      "Огаркова Татьяна Михайловна": 31,
-      "Смолин Олег Николаевич": 401
+      "gas:candidate-vibid:2552000990097": 15,
+      "gas:candidate-vibid:2552000982914": 202,
+      "gas:candidate-vibid:2552000987491": 117,
+      "gas:candidate-vibid:2552000989928": 92,
+      "gas:candidate-vibid:2552000995699": 25,
+      "gas:candidate-vibid:2552000995804": 31,
+      "gas:candidate-vibid:2552000987306": 401
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897348&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897348&type=464",
@@ -6826,13 +6826,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 18,
-      "Атаманиченко Кирилл Игоревич": 220,
-      "Дубовский Евгений Юрьевич": 105,
-      "Жуков Владимир Алексеевич": 98,
-      "Курнявко Олег Леонидович": 21,
-      "Огаркова Татьяна Михайловна": 33,
-      "Смолин Олег Николаевич": 413
+      "gas:candidate-vibid:2552000990097": 18,
+      "gas:candidate-vibid:2552000982914": 220,
+      "gas:candidate-vibid:2552000987491": 105,
+      "gas:candidate-vibid:2552000989928": 98,
+      "gas:candidate-vibid:2552000995699": 21,
+      "gas:candidate-vibid:2552000995804": 33,
+      "gas:candidate-vibid:2552000987306": 413
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897348&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897348&type=464",
@@ -6883,13 +6883,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 6,
-      "Атаманиченко Кирилл Игоревич": 63,
-      "Дубовский Евгений Юрьевич": 41,
-      "Жуков Владимир Алексеевич": 75,
-      "Курнявко Олег Леонидович": 9,
-      "Огаркова Татьяна Михайловна": 17,
-      "Смолин Олег Николаевич": 212
+      "gas:candidate-vibid:2552000990097": 6,
+      "gas:candidate-vibid:2552000982914": 63,
+      "gas:candidate-vibid:2552000987491": 41,
+      "gas:candidate-vibid:2552000989928": 75,
+      "gas:candidate-vibid:2552000995699": 9,
+      "gas:candidate-vibid:2552000995804": 17,
+      "gas:candidate-vibid:2552000987306": 212
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897348&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897348&type=464",
@@ -6940,13 +6940,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 0,
-      "Атаманиченко Кирилл Игоревич": 1,
-      "Дубовский Евгений Юрьевич": 14,
-      "Жуков Владимир Алексеевич": 5,
-      "Курнявко Олег Леонидович": 0,
-      "Огаркова Татьяна Михайловна": 1,
-      "Смолин Олег Николаевич": 33
+      "gas:candidate-vibid:2552000990097": 0,
+      "gas:candidate-vibid:2552000982914": 1,
+      "gas:candidate-vibid:2552000987491": 14,
+      "gas:candidate-vibid:2552000989928": 5,
+      "gas:candidate-vibid:2552000995699": 0,
+      "gas:candidate-vibid:2552000995804": 1,
+      "gas:candidate-vibid:2552000987306": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897348&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897348&type=464",
@@ -6997,13 +6997,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 10,
-      "Атаманиченко Кирилл Игоревич": 66,
-      "Дубовский Евгений Юрьевич": 44,
-      "Жуков Владимир Алексеевич": 51,
-      "Курнявко Олег Леонидович": 12,
-      "Огаркова Татьяна Михайловна": 13,
-      "Смолин Олег Николаевич": 174
+      "gas:candidate-vibid:2552000990097": 10,
+      "gas:candidate-vibid:2552000982914": 66,
+      "gas:candidate-vibid:2552000987491": 44,
+      "gas:candidate-vibid:2552000989928": 51,
+      "gas:candidate-vibid:2552000995699": 12,
+      "gas:candidate-vibid:2552000995804": 13,
+      "gas:candidate-vibid:2552000987306": 174
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897348&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897348&type=464",
@@ -7054,13 +7054,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 17,
-      "Атаманиченко Кирилл Игоревич": 1,
-      "Дубовский Евгений Юрьевич": 12,
-      "Жуков Владимир Алексеевич": 12,
-      "Курнявко Олег Леонидович": 7,
-      "Огаркова Татьяна Михайловна": 1,
-      "Смолин Олег Николаевич": 37
+      "gas:candidate-vibid:2552000990097": 17,
+      "gas:candidate-vibid:2552000982914": 1,
+      "gas:candidate-vibid:2552000987491": 12,
+      "gas:candidate-vibid:2552000989928": 12,
+      "gas:candidate-vibid:2552000995699": 7,
+      "gas:candidate-vibid:2552000995804": 1,
+      "gas:candidate-vibid:2552000987306": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897348&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897348&type=464",
@@ -7111,13 +7111,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 1,
-      "Атаманиченко Кирилл Игоревич": 21,
-      "Дубовский Евгений Юрьевич": 10,
-      "Жуков Владимир Алексеевич": 9,
-      "Курнявко Олег Леонидович": 1,
-      "Огаркова Татьяна Михайловна": 2,
-      "Смолин Олег Николаевич": 47
+      "gas:candidate-vibid:2552000990097": 1,
+      "gas:candidate-vibid:2552000982914": 21,
+      "gas:candidate-vibid:2552000987491": 10,
+      "gas:candidate-vibid:2552000989928": 9,
+      "gas:candidate-vibid:2552000995699": 1,
+      "gas:candidate-vibid:2552000995804": 2,
+      "gas:candidate-vibid:2552000987306": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897348&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897348&type=464",
@@ -7168,13 +7168,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 2,
-      "Атаманиченко Кирилл Игоревич": 1,
-      "Дубовский Евгений Юрьевич": 11,
-      "Жуков Владимир Алексеевич": 11,
-      "Курнявко Олег Леонидович": 1,
-      "Огаркова Татьяна Михайловна": 4,
-      "Смолин Олег Николаевич": 20
+      "gas:candidate-vibid:2552000990097": 2,
+      "gas:candidate-vibid:2552000982914": 1,
+      "gas:candidate-vibid:2552000987491": 11,
+      "gas:candidate-vibid:2552000989928": 11,
+      "gas:candidate-vibid:2552000995699": 1,
+      "gas:candidate-vibid:2552000995804": 4,
+      "gas:candidate-vibid:2552000987306": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897348&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897348&type=464",
@@ -7225,13 +7225,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 2,
-      "Атаманиченко Кирилл Игоревич": 4,
-      "Дубовский Евгений Юрьевич": 12,
-      "Жуков Владимир Алексеевич": 36,
-      "Курнявко Олег Леонидович": 6,
-      "Огаркова Татьяна Михайловна": 6,
-      "Смолин Олег Николаевич": 126
+      "gas:candidate-vibid:2552000990097": 2,
+      "gas:candidate-vibid:2552000982914": 4,
+      "gas:candidate-vibid:2552000987491": 12,
+      "gas:candidate-vibid:2552000989928": 36,
+      "gas:candidate-vibid:2552000995699": 6,
+      "gas:candidate-vibid:2552000995804": 6,
+      "gas:candidate-vibid:2552000987306": 126
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897348&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897348&type=464",
@@ -7282,13 +7282,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 9,
-      "Атаманиченко Кирилл Игоревич": 57,
-      "Дубовский Евгений Юрьевич": 38,
-      "Жуков Владимир Алексеевич": 59,
-      "Курнявко Олег Леонидович": 11,
-      "Огаркова Татьяна Михайловна": 17,
-      "Смолин Олег Николаевич": 141
+      "gas:candidate-vibid:2552000990097": 9,
+      "gas:candidate-vibid:2552000982914": 57,
+      "gas:candidate-vibid:2552000987491": 38,
+      "gas:candidate-vibid:2552000989928": 59,
+      "gas:candidate-vibid:2552000995699": 11,
+      "gas:candidate-vibid:2552000995804": 17,
+      "gas:candidate-vibid:2552000987306": 141
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897348&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897348&type=464",
@@ -7339,13 +7339,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 2,
-      "Атаманиченко Кирилл Игоревич": 19,
-      "Дубовский Евгений Юрьевич": 32,
-      "Жуков Владимир Алексеевич": 14,
-      "Курнявко Олег Леонидович": 8,
-      "Огаркова Татьяна Михайловна": 11,
-      "Смолин Олег Николаевич": 67
+      "gas:candidate-vibid:2552000990097": 2,
+      "gas:candidate-vibid:2552000982914": 19,
+      "gas:candidate-vibid:2552000987491": 32,
+      "gas:candidate-vibid:2552000989928": 14,
+      "gas:candidate-vibid:2552000995699": 8,
+      "gas:candidate-vibid:2552000995804": 11,
+      "gas:candidate-vibid:2552000987306": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897348&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897348&type=464",
@@ -7396,13 +7396,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 3,
-      "Атаманиченко Кирилл Игоревич": 16,
-      "Дубовский Евгений Юрьевич": 16,
-      "Жуков Владимир Алексеевич": 18,
-      "Курнявко Олег Леонидович": 3,
-      "Огаркова Татьяна Михайловна": 4,
-      "Смолин Олег Николаевич": 31
+      "gas:candidate-vibid:2552000990097": 3,
+      "gas:candidate-vibid:2552000982914": 16,
+      "gas:candidate-vibid:2552000987491": 16,
+      "gas:candidate-vibid:2552000989928": 18,
+      "gas:candidate-vibid:2552000995699": 3,
+      "gas:candidate-vibid:2552000995804": 4,
+      "gas:candidate-vibid:2552000987306": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897348&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897348&type=464",
@@ -7453,13 +7453,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 0,
-      "Атаманиченко Кирилл Игоревич": 9,
-      "Дубовский Евгений Юрьевич": 13,
-      "Жуков Владимир Алексеевич": 12,
-      "Курнявко Олег Леонидович": 3,
-      "Огаркова Татьяна Михайловна": 1,
-      "Смолин Олег Николаевич": 35
+      "gas:candidate-vibid:2552000990097": 0,
+      "gas:candidate-vibid:2552000982914": 9,
+      "gas:candidate-vibid:2552000987491": 13,
+      "gas:candidate-vibid:2552000989928": 12,
+      "gas:candidate-vibid:2552000995699": 3,
+      "gas:candidate-vibid:2552000995804": 1,
+      "gas:candidate-vibid:2552000987306": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897348&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897348&type=464",
@@ -7510,13 +7510,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 15,
-      "Атаманиченко Кирилл Игоревич": 48,
-      "Дубовский Евгений Юрьевич": 117,
-      "Жуков Владимир Алексеевич": 94,
-      "Курнявко Олег Леонидович": 7,
-      "Огаркова Татьяна Михайловна": 8,
-      "Смолин Олег Николаевич": 112
+      "gas:candidate-vibid:2552000990097": 15,
+      "gas:candidate-vibid:2552000982914": 48,
+      "gas:candidate-vibid:2552000987491": 117,
+      "gas:candidate-vibid:2552000989928": 94,
+      "gas:candidate-vibid:2552000995699": 7,
+      "gas:candidate-vibid:2552000995804": 8,
+      "gas:candidate-vibid:2552000987306": 112
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897348&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897348&type=464",
@@ -7567,13 +7567,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 3,
-      "Атаманиченко Кирилл Игоревич": 10,
-      "Дубовский Евгений Юрьевич": 32,
-      "Жуков Владимир Алексеевич": 10,
-      "Курнявко Олег Леонидович": 4,
-      "Огаркова Татьяна Михайловна": 2,
-      "Смолин Олег Николаевич": 23
+      "gas:candidate-vibid:2552000990097": 3,
+      "gas:candidate-vibid:2552000982914": 10,
+      "gas:candidate-vibid:2552000987491": 32,
+      "gas:candidate-vibid:2552000989928": 10,
+      "gas:candidate-vibid:2552000995699": 4,
+      "gas:candidate-vibid:2552000995804": 2,
+      "gas:candidate-vibid:2552000987306": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897348&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897348&type=464",
@@ -7624,13 +7624,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 3,
-      "Атаманиченко Кирилл Игоревич": 3,
-      "Дубовский Евгений Юрьевич": 9,
-      "Жуков Владимир Алексеевич": 7,
-      "Курнявко Олег Леонидович": 2,
-      "Огаркова Татьяна Михайловна": 4,
-      "Смолин Олег Николаевич": 20
+      "gas:candidate-vibid:2552000990097": 3,
+      "gas:candidate-vibid:2552000982914": 3,
+      "gas:candidate-vibid:2552000987491": 9,
+      "gas:candidate-vibid:2552000989928": 7,
+      "gas:candidate-vibid:2552000995699": 2,
+      "gas:candidate-vibid:2552000995804": 4,
+      "gas:candidate-vibid:2552000987306": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897348&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897348&type=464",
@@ -7681,13 +7681,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 16,
-      "Атаманиченко Кирилл Игоревич": 69,
-      "Дубовский Евгений Юрьевич": 100,
-      "Жуков Владимир Алексеевич": 128,
-      "Курнявко Олег Леонидович": 10,
-      "Огаркова Татьяна Михайловна": 19,
-      "Смолин Олег Николаевич": 218
+      "gas:candidate-vibid:2552000990097": 16,
+      "gas:candidate-vibid:2552000982914": 69,
+      "gas:candidate-vibid:2552000987491": 100,
+      "gas:candidate-vibid:2552000989928": 128,
+      "gas:candidate-vibid:2552000995699": 10,
+      "gas:candidate-vibid:2552000995804": 19,
+      "gas:candidate-vibid:2552000987306": 218
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897348&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897348&type=464",
@@ -7738,13 +7738,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 1,
-      "Атаманиченко Кирилл Игоревич": 13,
-      "Дубовский Евгений Юрьевич": 9,
-      "Жуков Владимир Алексеевич": 11,
-      "Курнявко Олег Леонидович": 3,
-      "Огаркова Татьяна Михайловна": 3,
-      "Смолин Олег Николаевич": 30
+      "gas:candidate-vibid:2552000990097": 1,
+      "gas:candidate-vibid:2552000982914": 13,
+      "gas:candidate-vibid:2552000987491": 9,
+      "gas:candidate-vibid:2552000989928": 11,
+      "gas:candidate-vibid:2552000995699": 3,
+      "gas:candidate-vibid:2552000995804": 3,
+      "gas:candidate-vibid:2552000987306": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897348&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897348&type=464",
@@ -7795,13 +7795,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 0,
-      "Атаманиченко Кирилл Игоревич": 12,
-      "Дубовский Евгений Юрьевич": 7,
-      "Жуков Владимир Алексеевич": 10,
-      "Курнявко Олег Леонидович": 3,
-      "Огаркова Татьяна Михайловна": 1,
-      "Смолин Олег Николаевич": 13
+      "gas:candidate-vibid:2552000990097": 0,
+      "gas:candidate-vibid:2552000982914": 12,
+      "gas:candidate-vibid:2552000987491": 7,
+      "gas:candidate-vibid:2552000989928": 10,
+      "gas:candidate-vibid:2552000995699": 3,
+      "gas:candidate-vibid:2552000995804": 1,
+      "gas:candidate-vibid:2552000987306": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897348&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897348&type=464",
@@ -7852,13 +7852,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 12,
-      "Атаманиченко Кирилл Игоревич": 101,
-      "Дубовский Евгений Юрьевич": 84,
-      "Жуков Владимир Алексеевич": 176,
-      "Курнявко Олег Леонидович": 14,
-      "Огаркова Татьяна Михайловна": 11,
-      "Смолин Олег Николаевич": 227
+      "gas:candidate-vibid:2552000990097": 12,
+      "gas:candidate-vibid:2552000982914": 101,
+      "gas:candidate-vibid:2552000987491": 84,
+      "gas:candidate-vibid:2552000989928": 176,
+      "gas:candidate-vibid:2552000995699": 14,
+      "gas:candidate-vibid:2552000995804": 11,
+      "gas:candidate-vibid:2552000987306": 227
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897348&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897348&type=464",
@@ -7909,13 +7909,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 4,
-      "Атаманиченко Кирилл Игоревич": 22,
-      "Дубовский Евгений Юрьевич": 17,
-      "Жуков Владимир Алексеевич": 9,
-      "Курнявко Олег Леонидович": 3,
-      "Огаркова Татьяна Михайловна": 5,
-      "Смолин Олег Николаевич": 48
+      "gas:candidate-vibid:2552000990097": 4,
+      "gas:candidate-vibid:2552000982914": 22,
+      "gas:candidate-vibid:2552000987491": 17,
+      "gas:candidate-vibid:2552000989928": 9,
+      "gas:candidate-vibid:2552000995699": 3,
+      "gas:candidate-vibid:2552000995804": 5,
+      "gas:candidate-vibid:2552000987306": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897348&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897348&type=464",
@@ -7966,13 +7966,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 0,
-      "Атаманиченко Кирилл Игоревич": 4,
-      "Дубовский Евгений Юрьевич": 16,
-      "Жуков Владимир Алексеевич": 8,
-      "Курнявко Олег Леонидович": 0,
-      "Огаркова Татьяна Михайловна": 3,
-      "Смолин Олег Николаевич": 41
+      "gas:candidate-vibid:2552000990097": 0,
+      "gas:candidate-vibid:2552000982914": 4,
+      "gas:candidate-vibid:2552000987491": 16,
+      "gas:candidate-vibid:2552000989928": 8,
+      "gas:candidate-vibid:2552000995699": 0,
+      "gas:candidate-vibid:2552000995804": 3,
+      "gas:candidate-vibid:2552000987306": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897348&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897348&type=464",
@@ -8023,13 +8023,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 2,
-      "Атаманиченко Кирилл Игоревич": 15,
-      "Дубовский Евгений Юрьевич": 11,
-      "Жуков Владимир Алексеевич": 18,
-      "Курнявко Олег Леонидович": 1,
-      "Огаркова Татьяна Михайловна": 41,
-      "Смолин Олег Николаевич": 23
+      "gas:candidate-vibid:2552000990097": 2,
+      "gas:candidate-vibid:2552000982914": 15,
+      "gas:candidate-vibid:2552000987491": 11,
+      "gas:candidate-vibid:2552000989928": 18,
+      "gas:candidate-vibid:2552000995699": 1,
+      "gas:candidate-vibid:2552000995804": 41,
+      "gas:candidate-vibid:2552000987306": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897348&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897348&type=464",
@@ -8080,13 +8080,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 3,
-      "Атаманиченко Кирилл Игоревич": 2,
-      "Дубовский Евгений Юрьевич": 8,
-      "Жуков Владимир Алексеевич": 12,
-      "Курнявко Олег Леонидович": 1,
-      "Огаркова Татьяна Михайловна": 23,
-      "Смолин Олег Николаевич": 17
+      "gas:candidate-vibid:2552000990097": 3,
+      "gas:candidate-vibid:2552000982914": 2,
+      "gas:candidate-vibid:2552000987491": 8,
+      "gas:candidate-vibid:2552000989928": 12,
+      "gas:candidate-vibid:2552000995699": 1,
+      "gas:candidate-vibid:2552000995804": 23,
+      "gas:candidate-vibid:2552000987306": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897348&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897348&type=464",
@@ -8137,13 +8137,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 14,
-      "Атаманиченко Кирилл Игоревич": 83,
-      "Дубовский Евгений Юрьевич": 80,
-      "Жуков Владимир Алексеевич": 113,
-      "Курнявко Олег Леонидович": 13,
-      "Огаркова Татьяна Михайловна": 14,
-      "Смолин Олег Николаевич": 119
+      "gas:candidate-vibid:2552000990097": 14,
+      "gas:candidate-vibid:2552000982914": 83,
+      "gas:candidate-vibid:2552000987491": 80,
+      "gas:candidate-vibid:2552000989928": 113,
+      "gas:candidate-vibid:2552000995699": 13,
+      "gas:candidate-vibid:2552000995804": 14,
+      "gas:candidate-vibid:2552000987306": 119
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897348&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897348&type=464",
@@ -8194,13 +8194,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 0,
-      "Атаманиченко Кирилл Игоревич": 0,
-      "Дубовский Евгений Юрьевич": 8,
-      "Жуков Владимир Алексеевич": 26,
-      "Курнявко Олег Леонидович": 8,
-      "Огаркова Татьяна Михайловна": 3,
-      "Смолин Олег Николаевич": 39
+      "gas:candidate-vibid:2552000990097": 0,
+      "gas:candidate-vibid:2552000982914": 0,
+      "gas:candidate-vibid:2552000987491": 8,
+      "gas:candidate-vibid:2552000989928": 26,
+      "gas:candidate-vibid:2552000995699": 8,
+      "gas:candidate-vibid:2552000995804": 3,
+      "gas:candidate-vibid:2552000987306": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897348&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897348&type=464",
@@ -8251,13 +8251,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 1,
-      "Атаманиченко Кирилл Игоревич": 7,
-      "Дубовский Евгений Юрьевич": 12,
-      "Жуков Владимир Алексеевич": 4,
-      "Курнявко Олег Леонидович": 2,
-      "Огаркова Татьяна Михайловна": 0,
-      "Смолин Олег Николаевич": 21
+      "gas:candidate-vibid:2552000990097": 1,
+      "gas:candidate-vibid:2552000982914": 7,
+      "gas:candidate-vibid:2552000987491": 12,
+      "gas:candidate-vibid:2552000989928": 4,
+      "gas:candidate-vibid:2552000995699": 2,
+      "gas:candidate-vibid:2552000995804": 0,
+      "gas:candidate-vibid:2552000987306": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897348&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897348&type=464",
@@ -8308,13 +8308,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 3,
-      "Атаманиченко Кирилл Игоревич": 6,
-      "Дубовский Евгений Юрьевич": 3,
-      "Жуков Владимир Алексеевич": 10,
-      "Курнявко Олег Леонидович": 8,
-      "Огаркова Татьяна Михайловна": 5,
-      "Смолин Олег Николаевич": 36
+      "gas:candidate-vibid:2552000990097": 3,
+      "gas:candidate-vibid:2552000982914": 6,
+      "gas:candidate-vibid:2552000987491": 3,
+      "gas:candidate-vibid:2552000989928": 10,
+      "gas:candidate-vibid:2552000995699": 8,
+      "gas:candidate-vibid:2552000995804": 5,
+      "gas:candidate-vibid:2552000987306": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897348&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897348&type=464",
@@ -8365,13 +8365,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 6,
-      "Атаманиченко Кирилл Игоревич": 9,
-      "Дубовский Евгений Юрьевич": 24,
-      "Жуков Владимир Алексеевич": 9,
-      "Курнявко Олег Леонидович": 6,
-      "Огаркова Татьяна Михайловна": 2,
-      "Смолин Олег Николаевич": 44
+      "gas:candidate-vibid:2552000990097": 6,
+      "gas:candidate-vibid:2552000982914": 9,
+      "gas:candidate-vibid:2552000987491": 24,
+      "gas:candidate-vibid:2552000989928": 9,
+      "gas:candidate-vibid:2552000995699": 6,
+      "gas:candidate-vibid:2552000995804": 2,
+      "gas:candidate-vibid:2552000987306": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897348&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897348&type=464",
@@ -8422,13 +8422,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 0,
-      "Атаманиченко Кирилл Игоревич": 25,
-      "Дубовский Евгений Юрьевич": 18,
-      "Жуков Владимир Алексеевич": 32,
-      "Курнявко Олег Леонидович": 10,
-      "Огаркова Татьяна Михайловна": 0,
-      "Смолин Олег Николаевич": 85
+      "gas:candidate-vibid:2552000990097": 0,
+      "gas:candidate-vibid:2552000982914": 25,
+      "gas:candidate-vibid:2552000987491": 18,
+      "gas:candidate-vibid:2552000989928": 32,
+      "gas:candidate-vibid:2552000995699": 10,
+      "gas:candidate-vibid:2552000995804": 0,
+      "gas:candidate-vibid:2552000987306": 85
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897348&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897348&type=464",
@@ -8479,13 +8479,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 62,
-      "Атаманиченко Кирилл Игоревич": 76,
-      "Дубовский Евгений Юрьевич": 150,
-      "Жуков Владимир Алексеевич": 145,
-      "Курнявко Олег Леонидович": 18,
-      "Огаркова Татьяна Михайловна": 26,
-      "Смолин Олег Николаевич": 205
+      "gas:candidate-vibid:2552000990097": 62,
+      "gas:candidate-vibid:2552000982914": 76,
+      "gas:candidate-vibid:2552000987491": 150,
+      "gas:candidate-vibid:2552000989928": 145,
+      "gas:candidate-vibid:2552000995699": 18,
+      "gas:candidate-vibid:2552000995804": 26,
+      "gas:candidate-vibid:2552000987306": 205
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897348&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897348&type=464",
@@ -8536,13 +8536,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 4,
-      "Атаманиченко Кирилл Игоревич": 15,
-      "Дубовский Евгений Юрьевич": 31,
-      "Жуков Владимир Алексеевич": 12,
-      "Курнявко Олег Леонидович": 5,
-      "Огаркова Татьяна Михайловна": 6,
-      "Смолин Олег Николаевич": 24
+      "gas:candidate-vibid:2552000990097": 4,
+      "gas:candidate-vibid:2552000982914": 15,
+      "gas:candidate-vibid:2552000987491": 31,
+      "gas:candidate-vibid:2552000989928": 12,
+      "gas:candidate-vibid:2552000995699": 5,
+      "gas:candidate-vibid:2552000995804": 6,
+      "gas:candidate-vibid:2552000987306": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897348&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897348&type=464",
@@ -8593,13 +8593,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 12,
-      "Атаманиченко Кирилл Игоревич": 76,
-      "Дубовский Евгений Юрьевич": 89,
-      "Жуков Владимир Алексеевич": 80,
-      "Курнявко Олег Леонидович": 21,
-      "Огаркова Татьяна Михайловна": 11,
-      "Смолин Олег Николаевич": 216
+      "gas:candidate-vibid:2552000990097": 12,
+      "gas:candidate-vibid:2552000982914": 76,
+      "gas:candidate-vibid:2552000987491": 89,
+      "gas:candidate-vibid:2552000989928": 80,
+      "gas:candidate-vibid:2552000995699": 21,
+      "gas:candidate-vibid:2552000995804": 11,
+      "gas:candidate-vibid:2552000987306": 216
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897348&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897348&type=464",
@@ -8650,13 +8650,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 3,
-      "Атаманиченко Кирилл Игоревич": 19,
-      "Дубовский Евгений Юрьевич": 23,
-      "Жуков Владимир Алексеевич": 12,
-      "Курнявко Олег Леонидович": 4,
-      "Огаркова Татьяна Михайловна": 5,
-      "Смолин Олег Николаевич": 36
+      "gas:candidate-vibid:2552000990097": 3,
+      "gas:candidate-vibid:2552000982914": 19,
+      "gas:candidate-vibid:2552000987491": 23,
+      "gas:candidate-vibid:2552000989928": 12,
+      "gas:candidate-vibid:2552000995699": 4,
+      "gas:candidate-vibid:2552000995804": 5,
+      "gas:candidate-vibid:2552000987306": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897348&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897348&type=464",
@@ -8707,13 +8707,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 0,
-      "Атаманиченко Кирилл Игоревич": 6,
-      "Дубовский Евгений Юрьевич": 41,
-      "Жуков Владимир Алексеевич": 17,
-      "Курнявко Олег Леонидович": 17,
-      "Огаркова Татьяна Михайловна": 4,
-      "Смолин Олег Николаевич": 22
+      "gas:candidate-vibid:2552000990097": 0,
+      "gas:candidate-vibid:2552000982914": 6,
+      "gas:candidate-vibid:2552000987491": 41,
+      "gas:candidate-vibid:2552000989928": 17,
+      "gas:candidate-vibid:2552000995699": 17,
+      "gas:candidate-vibid:2552000995804": 4,
+      "gas:candidate-vibid:2552000987306": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897348&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897348&type=464",
@@ -8764,13 +8764,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 17,
-      "Атаманиченко Кирилл Игоревич": 79,
-      "Дубовский Евгений Юрьевич": 60,
-      "Жуков Владимир Алексеевич": 50,
-      "Курнявко Олег Леонидович": 15,
-      "Огаркова Татьяна Михайловна": 19,
-      "Смолин Олег Николаевич": 334
+      "gas:candidate-vibid:2552000990097": 17,
+      "gas:candidate-vibid:2552000982914": 79,
+      "gas:candidate-vibid:2552000987491": 60,
+      "gas:candidate-vibid:2552000989928": 50,
+      "gas:candidate-vibid:2552000995699": 15,
+      "gas:candidate-vibid:2552000995804": 19,
+      "gas:candidate-vibid:2552000987306": 334
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897349&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897349&type=464",
@@ -8821,13 +8821,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 9,
-      "Атаманиченко Кирилл Игоревич": 56,
-      "Дубовский Евгений Юрьевич": 37,
-      "Жуков Владимир Алексеевич": 41,
-      "Курнявко Олег Леонидович": 8,
-      "Огаркова Татьяна Михайловна": 16,
-      "Смолин Олег Николаевич": 175
+      "gas:candidate-vibid:2552000990097": 9,
+      "gas:candidate-vibid:2552000982914": 56,
+      "gas:candidate-vibid:2552000987491": 37,
+      "gas:candidate-vibid:2552000989928": 41,
+      "gas:candidate-vibid:2552000995699": 8,
+      "gas:candidate-vibid:2552000995804": 16,
+      "gas:candidate-vibid:2552000987306": 175
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897349&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897349&type=464",
@@ -8878,13 +8878,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 7,
-      "Атаманиченко Кирилл Игоревич": 11,
-      "Дубовский Евгений Юрьевич": 13,
-      "Жуков Владимир Алексеевич": 8,
-      "Курнявко Олег Леонидович": 3,
-      "Огаркова Татьяна Михайловна": 3,
-      "Смолин Олег Николаевич": 59
+      "gas:candidate-vibid:2552000990097": 7,
+      "gas:candidate-vibid:2552000982914": 11,
+      "gas:candidate-vibid:2552000987491": 13,
+      "gas:candidate-vibid:2552000989928": 8,
+      "gas:candidate-vibid:2552000995699": 3,
+      "gas:candidate-vibid:2552000995804": 3,
+      "gas:candidate-vibid:2552000987306": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897349&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897349&type=464",
@@ -8935,13 +8935,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 29,
-      "Атаманиченко Кирилл Игоревич": 143,
-      "Дубовский Евгений Юрьевич": 137,
-      "Жуков Владимир Алексеевич": 85,
-      "Курнявко Олег Леонидович": 26,
-      "Огаркова Татьяна Михайловна": 51,
-      "Смолин Олег Николаевич": 472
+      "gas:candidate-vibid:2552000990097": 29,
+      "gas:candidate-vibid:2552000982914": 143,
+      "gas:candidate-vibid:2552000987491": 137,
+      "gas:candidate-vibid:2552000989928": 85,
+      "gas:candidate-vibid:2552000995699": 26,
+      "gas:candidate-vibid:2552000995804": 51,
+      "gas:candidate-vibid:2552000987306": 472
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897349&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897349&type=464",
@@ -8992,13 +8992,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 11,
-      "Атаманиченко Кирилл Игоревич": 82,
-      "Дубовский Евгений Юрьевич": 62,
-      "Жуков Владимир Алексеевич": 48,
-      "Курнявко Олег Леонидович": 7,
-      "Огаркова Татьяна Михайловна": 18,
-      "Смолин Олег Николаевич": 234
+      "gas:candidate-vibid:2552000990097": 11,
+      "gas:candidate-vibid:2552000982914": 82,
+      "gas:candidate-vibid:2552000987491": 62,
+      "gas:candidate-vibid:2552000989928": 48,
+      "gas:candidate-vibid:2552000995699": 7,
+      "gas:candidate-vibid:2552000995804": 18,
+      "gas:candidate-vibid:2552000987306": 234
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897349&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897349&type=464",
@@ -9049,13 +9049,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 1,
-      "Атаманиченко Кирилл Игоревич": 30,
-      "Дубовский Евгений Юрьевич": 22,
-      "Жуков Владимир Алексеевич": 10,
-      "Курнявко Олег Леонидович": 1,
-      "Огаркова Татьяна Михайловна": 3,
-      "Смолин Олег Николаевич": 46
+      "gas:candidate-vibid:2552000990097": 1,
+      "gas:candidate-vibid:2552000982914": 30,
+      "gas:candidate-vibid:2552000987491": 22,
+      "gas:candidate-vibid:2552000989928": 10,
+      "gas:candidate-vibid:2552000995699": 1,
+      "gas:candidate-vibid:2552000995804": 3,
+      "gas:candidate-vibid:2552000987306": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897349&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897349&type=464",
@@ -9106,13 +9106,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 15,
-      "Атаманиченко Кирилл Игоревич": 132,
-      "Дубовский Евгений Юрьевич": 62,
-      "Жуков Владимир Алексеевич": 64,
-      "Курнявко Олег Леонидович": 15,
-      "Огаркова Татьяна Михайловна": 37,
-      "Смолин Олег Николаевич": 391
+      "gas:candidate-vibid:2552000990097": 15,
+      "gas:candidate-vibid:2552000982914": 132,
+      "gas:candidate-vibid:2552000987491": 62,
+      "gas:candidate-vibid:2552000989928": 64,
+      "gas:candidate-vibid:2552000995699": 15,
+      "gas:candidate-vibid:2552000995804": 37,
+      "gas:candidate-vibid:2552000987306": 391
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897349&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897349&type=464",
@@ -9163,13 +9163,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 1,
-      "Атаманиченко Кирилл Игоревич": 10,
-      "Дубовский Евгений Юрьевич": 11,
-      "Жуков Владимир Алексеевич": 2,
-      "Курнявко Олег Леонидович": 0,
-      "Огаркова Татьяна Михайловна": 2,
-      "Смолин Олег Николаевич": 23
+      "gas:candidate-vibid:2552000990097": 1,
+      "gas:candidate-vibid:2552000982914": 10,
+      "gas:candidate-vibid:2552000987491": 11,
+      "gas:candidate-vibid:2552000989928": 2,
+      "gas:candidate-vibid:2552000995699": 0,
+      "gas:candidate-vibid:2552000995804": 2,
+      "gas:candidate-vibid:2552000987306": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897349&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897349&type=464",
@@ -9220,13 +9220,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 4,
-      "Атаманиченко Кирилл Игоревич": 39,
-      "Дубовский Евгений Юрьевич": 15,
-      "Жуков Владимир Алексеевич": 16,
-      "Курнявко Олег Леонидович": 4,
-      "Огаркова Татьяна Михайловна": 4,
-      "Смолин Олег Николаевич": 85
+      "gas:candidate-vibid:2552000990097": 4,
+      "gas:candidate-vibid:2552000982914": 39,
+      "gas:candidate-vibid:2552000987491": 15,
+      "gas:candidate-vibid:2552000989928": 16,
+      "gas:candidate-vibid:2552000995699": 4,
+      "gas:candidate-vibid:2552000995804": 4,
+      "gas:candidate-vibid:2552000987306": 85
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897349&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897349&type=464",
@@ -9277,13 +9277,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 1,
-      "Атаманиченко Кирилл Игоревич": 6,
-      "Дубовский Евгений Юрьевич": 5,
-      "Жуков Владимир Алексеевич": 5,
-      "Курнявко Олег Леонидович": 1,
-      "Огаркова Татьяна Михайловна": 2,
-      "Смолин Олег Николаевич": 53
+      "gas:candidate-vibid:2552000990097": 1,
+      "gas:candidate-vibid:2552000982914": 6,
+      "gas:candidate-vibid:2552000987491": 5,
+      "gas:candidate-vibid:2552000989928": 5,
+      "gas:candidate-vibid:2552000995699": 1,
+      "gas:candidate-vibid:2552000995804": 2,
+      "gas:candidate-vibid:2552000987306": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897349&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897349&type=464",
@@ -9334,13 +9334,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 9,
-      "Атаманиченко Кирилл Игоревич": 93,
-      "Дубовский Евгений Юрьевич": 92,
-      "Жуков Владимир Алексеевич": 57,
-      "Курнявко Олег Леонидович": 13,
-      "Огаркова Татьяна Михайловна": 26,
-      "Смолин Олег Николаевич": 329
+      "gas:candidate-vibid:2552000990097": 9,
+      "gas:candidate-vibid:2552000982914": 93,
+      "gas:candidate-vibid:2552000987491": 92,
+      "gas:candidate-vibid:2552000989928": 57,
+      "gas:candidate-vibid:2552000995699": 13,
+      "gas:candidate-vibid:2552000995804": 26,
+      "gas:candidate-vibid:2552000987306": 329
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897349&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897349&type=464",
@@ -9391,13 +9391,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 16,
-      "Атаманиченко Кирилл Игоревич": 150,
-      "Дубовский Евгений Юрьевич": 89,
-      "Жуков Владимир Алексеевич": 87,
-      "Курнявко Олег Леонидович": 10,
-      "Огаркова Татьяна Михайловна": 29,
-      "Смолин Олег Николаевич": 331
+      "gas:candidate-vibid:2552000990097": 16,
+      "gas:candidate-vibid:2552000982914": 150,
+      "gas:candidate-vibid:2552000987491": 89,
+      "gas:candidate-vibid:2552000989928": 87,
+      "gas:candidate-vibid:2552000995699": 10,
+      "gas:candidate-vibid:2552000995804": 29,
+      "gas:candidate-vibid:2552000987306": 331
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897349&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897349&type=464",
@@ -9448,13 +9448,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 8,
-      "Атаманиченко Кирилл Игоревич": 91,
-      "Дубовский Евгений Юрьевич": 58,
-      "Жуков Владимир Алексеевич": 46,
-      "Курнявко Олег Леонидович": 8,
-      "Огаркова Татьяна Михайловна": 21,
-      "Смолин Олег Николаевич": 236
+      "gas:candidate-vibid:2552000990097": 8,
+      "gas:candidate-vibid:2552000982914": 91,
+      "gas:candidate-vibid:2552000987491": 58,
+      "gas:candidate-vibid:2552000989928": 46,
+      "gas:candidate-vibid:2552000995699": 8,
+      "gas:candidate-vibid:2552000995804": 21,
+      "gas:candidate-vibid:2552000987306": 236
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897349&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897349&type=464",
@@ -9505,13 +9505,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 11,
-      "Атаманиченко Кирилл Игоревич": 82,
-      "Дубовский Евгений Юрьевич": 75,
-      "Жуков Владимир Алексеевич": 60,
-      "Курнявко Олег Леонидович": 13,
-      "Огаркова Татьяна Михайловна": 21,
-      "Смолин Олег Николаевич": 222
+      "gas:candidate-vibid:2552000990097": 11,
+      "gas:candidate-vibid:2552000982914": 82,
+      "gas:candidate-vibid:2552000987491": 75,
+      "gas:candidate-vibid:2552000989928": 60,
+      "gas:candidate-vibid:2552000995699": 13,
+      "gas:candidate-vibid:2552000995804": 21,
+      "gas:candidate-vibid:2552000987306": 222
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897349&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897349&type=464",
@@ -9562,13 +9562,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 5,
-      "Атаманиченко Кирилл Игоревич": 55,
-      "Дубовский Евгений Юрьевич": 27,
-      "Жуков Владимир Алексеевич": 28,
-      "Курнявко Олег Леонидович": 5,
-      "Огаркова Татьяна Михайловна": 13,
-      "Смолин Олег Николаевич": 110
+      "gas:candidate-vibid:2552000990097": 5,
+      "gas:candidate-vibid:2552000982914": 55,
+      "gas:candidate-vibid:2552000987491": 27,
+      "gas:candidate-vibid:2552000989928": 28,
+      "gas:candidate-vibid:2552000995699": 5,
+      "gas:candidate-vibid:2552000995804": 13,
+      "gas:candidate-vibid:2552000987306": 110
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897349&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897349&type=464",
@@ -9619,13 +9619,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 12,
-      "Атаманиченко Кирилл Игоревич": 78,
-      "Дубовский Евгений Юрьевич": 72,
-      "Жуков Владимир Алексеевич": 52,
-      "Курнявко Олег Леонидович": 15,
-      "Огаркова Татьяна Михайловна": 18,
-      "Смолин Олег Николаевич": 177
+      "gas:candidate-vibid:2552000990097": 12,
+      "gas:candidate-vibid:2552000982914": 78,
+      "gas:candidate-vibid:2552000987491": 72,
+      "gas:candidate-vibid:2552000989928": 52,
+      "gas:candidate-vibid:2552000995699": 15,
+      "gas:candidate-vibid:2552000995804": 18,
+      "gas:candidate-vibid:2552000987306": 177
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897349&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897349&type=464",
@@ -9676,13 +9676,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 11,
-      "Атаманиченко Кирилл Игоревич": 53,
-      "Дубовский Евгений Юрьевич": 48,
-      "Жуков Владимир Алексеевич": 37,
-      "Курнявко Олег Леонидович": 7,
-      "Огаркова Татьяна Михайловна": 23,
-      "Смолин Олег Николаевич": 152
+      "gas:candidate-vibid:2552000990097": 11,
+      "gas:candidate-vibid:2552000982914": 53,
+      "gas:candidate-vibid:2552000987491": 48,
+      "gas:candidate-vibid:2552000989928": 37,
+      "gas:candidate-vibid:2552000995699": 7,
+      "gas:candidate-vibid:2552000995804": 23,
+      "gas:candidate-vibid:2552000987306": 152
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897349&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897349&type=464",
@@ -9733,13 +9733,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 14,
-      "Атаманиченко Кирилл Игоревич": 82,
-      "Дубовский Евгений Юрьевич": 90,
-      "Жуков Владимир Алексеевич": 83,
-      "Курнявко Олег Леонидович": 13,
-      "Огаркова Татьяна Михайловна": 25,
-      "Смолин Олег Николаевич": 303
+      "gas:candidate-vibid:2552000990097": 14,
+      "gas:candidate-vibid:2552000982914": 82,
+      "gas:candidate-vibid:2552000987491": 90,
+      "gas:candidate-vibid:2552000989928": 83,
+      "gas:candidate-vibid:2552000995699": 13,
+      "gas:candidate-vibid:2552000995804": 25,
+      "gas:candidate-vibid:2552000987306": 303
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897349&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897349&type=464",
@@ -9790,13 +9790,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 14,
-      "Атаманиченко Кирилл Игоревич": 60,
-      "Дубовский Евгений Юрьевич": 33,
-      "Жуков Владимир Алексеевич": 33,
-      "Курнявко Олег Леонидович": 7,
-      "Огаркова Татьяна Михайловна": 14,
-      "Смолин Олег Николаевич": 98
+      "gas:candidate-vibid:2552000990097": 14,
+      "gas:candidate-vibid:2552000982914": 60,
+      "gas:candidate-vibid:2552000987491": 33,
+      "gas:candidate-vibid:2552000989928": 33,
+      "gas:candidate-vibid:2552000995699": 7,
+      "gas:candidate-vibid:2552000995804": 14,
+      "gas:candidate-vibid:2552000987306": 98
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897349&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897349&type=464",
@@ -9847,13 +9847,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 22,
-      "Атаманиченко Кирилл Игоревич": 127,
-      "Дубовский Евгений Юрьевич": 78,
-      "Жуков Владимир Алексеевич": 94,
-      "Курнявко Олег Леонидович": 19,
-      "Огаркова Татьяна Михайловна": 30,
-      "Смолин Олег Николаевич": 400
+      "gas:candidate-vibid:2552000990097": 22,
+      "gas:candidate-vibid:2552000982914": 127,
+      "gas:candidate-vibid:2552000987491": 78,
+      "gas:candidate-vibid:2552000989928": 94,
+      "gas:candidate-vibid:2552000995699": 19,
+      "gas:candidate-vibid:2552000995804": 30,
+      "gas:candidate-vibid:2552000987306": 400
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897349&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897349&type=464",
@@ -9904,13 +9904,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 6,
-      "Атаманиченко Кирилл Игоревич": 64,
-      "Дубовский Евгений Юрьевич": 37,
-      "Жуков Владимир Алексеевич": 37,
-      "Курнявко Олег Леонидович": 10,
-      "Огаркова Татьяна Михайловна": 19,
-      "Смолин Олег Николаевич": 134
+      "gas:candidate-vibid:2552000990097": 6,
+      "gas:candidate-vibid:2552000982914": 64,
+      "gas:candidate-vibid:2552000987491": 37,
+      "gas:candidate-vibid:2552000989928": 37,
+      "gas:candidate-vibid:2552000995699": 10,
+      "gas:candidate-vibid:2552000995804": 19,
+      "gas:candidate-vibid:2552000987306": 134
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897349&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897349&type=464",
@@ -9961,13 +9961,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 24,
-      "Атаманиченко Кирилл Игоревич": 132,
-      "Дубовский Евгений Юрьевич": 105,
-      "Жуков Владимир Алексеевич": 107,
-      "Курнявко Олег Леонидович": 17,
-      "Огаркова Татьяна Михайловна": 38,
-      "Смолин Олег Николаевич": 455
+      "gas:candidate-vibid:2552000990097": 24,
+      "gas:candidate-vibid:2552000982914": 132,
+      "gas:candidate-vibid:2552000987491": 105,
+      "gas:candidate-vibid:2552000989928": 107,
+      "gas:candidate-vibid:2552000995699": 17,
+      "gas:candidate-vibid:2552000995804": 38,
+      "gas:candidate-vibid:2552000987306": 455
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897349&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897349&type=464",
@@ -10018,13 +10018,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 4,
-      "Атаманиченко Кирилл Игоревич": 46,
-      "Дубовский Евгений Юрьевич": 24,
-      "Жуков Владимир Алексеевич": 29,
-      "Курнявко Олег Леонидович": 9,
-      "Огаркова Татьяна Михайловна": 10,
-      "Смолин Олег Николаевич": 161
+      "gas:candidate-vibid:2552000990097": 4,
+      "gas:candidate-vibid:2552000982914": 46,
+      "gas:candidate-vibid:2552000987491": 24,
+      "gas:candidate-vibid:2552000989928": 29,
+      "gas:candidate-vibid:2552000995699": 9,
+      "gas:candidate-vibid:2552000995804": 10,
+      "gas:candidate-vibid:2552000987306": 161
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897349&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897349&type=464",
@@ -10075,13 +10075,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 4,
-      "Атаманиченко Кирилл Игоревич": 20,
-      "Дубовский Евгений Юрьевич": 13,
-      "Жуков Владимир Алексеевич": 15,
-      "Курнявко Олег Леонидович": 3,
-      "Огаркова Татьяна Михайловна": 10,
-      "Смолин Олег Николаевич": 34
+      "gas:candidate-vibid:2552000990097": 4,
+      "gas:candidate-vibid:2552000982914": 20,
+      "gas:candidate-vibid:2552000987491": 13,
+      "gas:candidate-vibid:2552000989928": 15,
+      "gas:candidate-vibid:2552000995699": 3,
+      "gas:candidate-vibid:2552000995804": 10,
+      "gas:candidate-vibid:2552000987306": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897349&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897349&type=464",
@@ -10132,13 +10132,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 1,
-      "Атаманиченко Кирилл Игоревич": 13,
-      "Дубовский Евгений Юрьевич": 14,
-      "Жуков Владимир Алексеевич": 11,
-      "Курнявко Олег Леонидович": 2,
-      "Огаркова Татьяна Михайловна": 3,
-      "Смолин Олег Николаевич": 85
+      "gas:candidate-vibid:2552000990097": 1,
+      "gas:candidate-vibid:2552000982914": 13,
+      "gas:candidate-vibid:2552000987491": 14,
+      "gas:candidate-vibid:2552000989928": 11,
+      "gas:candidate-vibid:2552000995699": 2,
+      "gas:candidate-vibid:2552000995804": 3,
+      "gas:candidate-vibid:2552000987306": 85
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897349&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897349&type=464",
@@ -10189,13 +10189,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 20,
-      "Атаманиченко Кирилл Игоревич": 126,
-      "Дубовский Евгений Юрьевич": 77,
-      "Жуков Владимир Алексеевич": 63,
-      "Курнявко Олег Леонидович": 12,
-      "Огаркова Татьяна Михайловна": 37,
-      "Смолин Олег Николаевич": 357
+      "gas:candidate-vibid:2552000990097": 20,
+      "gas:candidate-vibid:2552000982914": 126,
+      "gas:candidate-vibid:2552000987491": 77,
+      "gas:candidate-vibid:2552000989928": 63,
+      "gas:candidate-vibid:2552000995699": 12,
+      "gas:candidate-vibid:2552000995804": 37,
+      "gas:candidate-vibid:2552000987306": 357
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897349&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897349&type=464",
@@ -10246,13 +10246,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 4,
-      "Атаманиченко Кирилл Игоревич": 20,
-      "Дубовский Евгений Юрьевич": 12,
-      "Жуков Владимир Алексеевич": 13,
-      "Курнявко Олег Леонидович": 0,
-      "Огаркова Татьяна Михайловна": 5,
-      "Смолин Олег Николаевич": 35
+      "gas:candidate-vibid:2552000990097": 4,
+      "gas:candidate-vibid:2552000982914": 20,
+      "gas:candidate-vibid:2552000987491": 12,
+      "gas:candidate-vibid:2552000989928": 13,
+      "gas:candidate-vibid:2552000995699": 0,
+      "gas:candidate-vibid:2552000995804": 5,
+      "gas:candidate-vibid:2552000987306": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897349&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897349&type=464",
@@ -10303,13 +10303,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 12,
-      "Атаманиченко Кирилл Игоревич": 119,
-      "Дубовский Евгений Юрьевич": 84,
-      "Жуков Владимир Алексеевич": 67,
-      "Курнявко Олег Леонидович": 16,
-      "Огаркова Татьяна Михайловна": 31,
-      "Смолин Олег Николаевич": 344
+      "gas:candidate-vibid:2552000990097": 12,
+      "gas:candidate-vibid:2552000982914": 119,
+      "gas:candidate-vibid:2552000987491": 84,
+      "gas:candidate-vibid:2552000989928": 67,
+      "gas:candidate-vibid:2552000995699": 16,
+      "gas:candidate-vibid:2552000995804": 31,
+      "gas:candidate-vibid:2552000987306": 344
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897349&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897349&type=464",
@@ -10360,13 +10360,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 18,
-      "Атаманиченко Кирилл Игоревич": 111,
-      "Дубовский Евгений Юрьевич": 100,
-      "Жуков Владимир Алексеевич": 74,
-      "Курнявко Олег Леонидович": 14,
-      "Огаркова Татьяна Михайловна": 41,
-      "Смолин Олег Николаевич": 298
+      "gas:candidate-vibid:2552000990097": 18,
+      "gas:candidate-vibid:2552000982914": 111,
+      "gas:candidate-vibid:2552000987491": 100,
+      "gas:candidate-vibid:2552000989928": 74,
+      "gas:candidate-vibid:2552000995699": 14,
+      "gas:candidate-vibid:2552000995804": 41,
+      "gas:candidate-vibid:2552000987306": 298
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897349&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897349&type=464",
@@ -10417,13 +10417,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 3,
-      "Атаманиченко Кирилл Игоревич": 14,
-      "Дубовский Евгений Юрьевич": 16,
-      "Жуков Владимир Алексеевич": 5,
-      "Курнявко Олег Леонидович": 4,
-      "Огаркова Татьяна Михайловна": 6,
-      "Смолин Олег Николаевич": 62
+      "gas:candidate-vibid:2552000990097": 3,
+      "gas:candidate-vibid:2552000982914": 14,
+      "gas:candidate-vibid:2552000987491": 16,
+      "gas:candidate-vibid:2552000989928": 5,
+      "gas:candidate-vibid:2552000995699": 4,
+      "gas:candidate-vibid:2552000995804": 6,
+      "gas:candidate-vibid:2552000987306": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897349&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897349&type=464",
@@ -10474,13 +10474,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 10,
-      "Атаманиченко Кирилл Игоревич": 73,
-      "Дубовский Евгений Юрьевич": 47,
-      "Жуков Владимир Алексеевич": 50,
-      "Курнявко Олег Леонидович": 9,
-      "Огаркова Татьяна Михайловна": 23,
-      "Смолин Олег Николаевич": 239
+      "gas:candidate-vibid:2552000990097": 10,
+      "gas:candidate-vibid:2552000982914": 73,
+      "gas:candidate-vibid:2552000987491": 47,
+      "gas:candidate-vibid:2552000989928": 50,
+      "gas:candidate-vibid:2552000995699": 9,
+      "gas:candidate-vibid:2552000995804": 23,
+      "gas:candidate-vibid:2552000987306": 239
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897349&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897349&type=464",
@@ -10531,13 +10531,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 5,
-      "Атаманиченко Кирилл Игоревич": 19,
-      "Дубовский Евгений Юрьевич": 13,
-      "Жуков Владимир Алексеевич": 11,
-      "Курнявко Олег Леонидович": 1,
-      "Огаркова Татьяна Михайловна": 3,
-      "Смолин Олег Николаевич": 45
+      "gas:candidate-vibid:2552000990097": 5,
+      "gas:candidate-vibid:2552000982914": 19,
+      "gas:candidate-vibid:2552000987491": 13,
+      "gas:candidate-vibid:2552000989928": 11,
+      "gas:candidate-vibid:2552000995699": 1,
+      "gas:candidate-vibid:2552000995804": 3,
+      "gas:candidate-vibid:2552000987306": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897349&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897349&type=464",
@@ -10588,13 +10588,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 12,
-      "Атаманиченко Кирилл Игоревич": 57,
-      "Дубовский Евгений Юрьевич": 51,
-      "Жуков Владимир Алексеевич": 24,
-      "Курнявко Олег Леонидович": 7,
-      "Огаркова Татьяна Михайловна": 20,
-      "Смолин Олег Николаевич": 162
+      "gas:candidate-vibid:2552000990097": 12,
+      "gas:candidate-vibid:2552000982914": 57,
+      "gas:candidate-vibid:2552000987491": 51,
+      "gas:candidate-vibid:2552000989928": 24,
+      "gas:candidate-vibid:2552000995699": 7,
+      "gas:candidate-vibid:2552000995804": 20,
+      "gas:candidate-vibid:2552000987306": 162
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897349&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897349&type=464",
@@ -10645,13 +10645,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 8,
-      "Атаманиченко Кирилл Игоревич": 42,
-      "Дубовский Евгений Юрьевич": 50,
-      "Жуков Владимир Алексеевич": 55,
-      "Курнявко Олег Леонидович": 10,
-      "Огаркова Татьяна Михайловна": 19,
-      "Смолин Олег Николаевич": 187
+      "gas:candidate-vibid:2552000990097": 8,
+      "gas:candidate-vibid:2552000982914": 42,
+      "gas:candidate-vibid:2552000987491": 50,
+      "gas:candidate-vibid:2552000989928": 55,
+      "gas:candidate-vibid:2552000995699": 10,
+      "gas:candidate-vibid:2552000995804": 19,
+      "gas:candidate-vibid:2552000987306": 187
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897350&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897350&type=464",
@@ -10702,13 +10702,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 2,
-      "Атаманиченко Кирилл Игоревич": 10,
-      "Дубовский Евгений Юрьевич": 20,
-      "Жуков Владимир Алексеевич": 12,
-      "Курнявко Олег Леонидович": 1,
-      "Огаркова Татьяна Михайловна": 4,
-      "Смолин Олег Николаевич": 22
+      "gas:candidate-vibid:2552000990097": 2,
+      "gas:candidate-vibid:2552000982914": 10,
+      "gas:candidate-vibid:2552000987491": 20,
+      "gas:candidate-vibid:2552000989928": 12,
+      "gas:candidate-vibid:2552000995699": 1,
+      "gas:candidate-vibid:2552000995804": 4,
+      "gas:candidate-vibid:2552000987306": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897350&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897350&type=464",
@@ -10759,13 +10759,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 0,
-      "Атаманиченко Кирилл Игоревич": 3,
-      "Дубовский Евгений Юрьевич": 5,
-      "Жуков Владимир Алексеевич": 2,
-      "Курнявко Олег Леонидович": 2,
-      "Огаркова Татьяна Михайловна": 0,
-      "Смолин Олег Николаевич": 8
+      "gas:candidate-vibid:2552000990097": 0,
+      "gas:candidate-vibid:2552000982914": 3,
+      "gas:candidate-vibid:2552000987491": 5,
+      "gas:candidate-vibid:2552000989928": 2,
+      "gas:candidate-vibid:2552000995699": 2,
+      "gas:candidate-vibid:2552000995804": 0,
+      "gas:candidate-vibid:2552000987306": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897350&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897350&type=464",
@@ -10816,13 +10816,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 1,
-      "Атаманиченко Кирилл Игоревич": 14,
-      "Дубовский Евгений Юрьевич": 3,
-      "Жуков Владимир Алексеевич": 11,
-      "Курнявко Олег Леонидович": 0,
-      "Огаркова Татьяна Михайловна": 1,
-      "Смолин Олег Николаевич": 40
+      "gas:candidate-vibid:2552000990097": 1,
+      "gas:candidate-vibid:2552000982914": 14,
+      "gas:candidate-vibid:2552000987491": 3,
+      "gas:candidate-vibid:2552000989928": 11,
+      "gas:candidate-vibid:2552000995699": 0,
+      "gas:candidate-vibid:2552000995804": 1,
+      "gas:candidate-vibid:2552000987306": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897350&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897350&type=464",
@@ -10873,13 +10873,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 1,
-      "Атаманиченко Кирилл Игоревич": 19,
-      "Дубовский Евгений Юрьевич": 17,
-      "Жуков Владимир Алексеевич": 17,
-      "Курнявко Олег Леонидович": 2,
-      "Огаркова Татьяна Михайловна": 7,
-      "Смолин Олег Николаевич": 45
+      "gas:candidate-vibid:2552000990097": 1,
+      "gas:candidate-vibid:2552000982914": 19,
+      "gas:candidate-vibid:2552000987491": 17,
+      "gas:candidate-vibid:2552000989928": 17,
+      "gas:candidate-vibid:2552000995699": 2,
+      "gas:candidate-vibid:2552000995804": 7,
+      "gas:candidate-vibid:2552000987306": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897350&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897350&type=464",
@@ -10930,13 +10930,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 11,
-      "Атаманиченко Кирилл Игоревич": 55,
-      "Дубовский Евгений Юрьевич": 47,
-      "Жуков Владимир Алексеевич": 43,
-      "Курнявко Олег Леонидович": 7,
-      "Огаркова Татьяна Михайловна": 11,
-      "Смолин Олег Николаевич": 205
+      "gas:candidate-vibid:2552000990097": 11,
+      "gas:candidate-vibid:2552000982914": 55,
+      "gas:candidate-vibid:2552000987491": 47,
+      "gas:candidate-vibid:2552000989928": 43,
+      "gas:candidate-vibid:2552000995699": 7,
+      "gas:candidate-vibid:2552000995804": 11,
+      "gas:candidate-vibid:2552000987306": 205
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897350&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897350&type=464",
@@ -10987,13 +10987,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 2,
-      "Атаманиченко Кирилл Игоревич": 15,
-      "Дубовский Евгений Юрьевич": 14,
-      "Жуков Владимир Алексеевич": 7,
-      "Курнявко Олег Леонидович": 3,
-      "Огаркова Татьяна Михайловна": 2,
-      "Смолин Олег Николаевич": 90
+      "gas:candidate-vibid:2552000990097": 2,
+      "gas:candidate-vibid:2552000982914": 15,
+      "gas:candidate-vibid:2552000987491": 14,
+      "gas:candidate-vibid:2552000989928": 7,
+      "gas:candidate-vibid:2552000995699": 3,
+      "gas:candidate-vibid:2552000995804": 2,
+      "gas:candidate-vibid:2552000987306": 90
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897350&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897350&type=464",
@@ -11044,13 +11044,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 1,
-      "Атаманиченко Кирилл Игоревич": 7,
-      "Дубовский Евгений Юрьевич": 14,
-      "Жуков Владимир Алексеевич": 5,
-      "Курнявко Олег Леонидович": 2,
-      "Огаркова Татьяна Михайловна": 0,
-      "Смолин Олег Николаевич": 37
+      "gas:candidate-vibid:2552000990097": 1,
+      "gas:candidate-vibid:2552000982914": 7,
+      "gas:candidate-vibid:2552000987491": 14,
+      "gas:candidate-vibid:2552000989928": 5,
+      "gas:candidate-vibid:2552000995699": 2,
+      "gas:candidate-vibid:2552000995804": 0,
+      "gas:candidate-vibid:2552000987306": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897350&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897350&type=464",
@@ -11101,13 +11101,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 2,
-      "Атаманиченко Кирилл Игоревич": 26,
-      "Дубовский Евгений Юрьевич": 26,
-      "Жуков Владимир Алексеевич": 7,
-      "Курнявко Олег Леонидович": 5,
-      "Огаркова Татьяна Михайловна": 5,
-      "Смолин Олег Николаевич": 79
+      "gas:candidate-vibid:2552000990097": 2,
+      "gas:candidate-vibid:2552000982914": 26,
+      "gas:candidate-vibid:2552000987491": 26,
+      "gas:candidate-vibid:2552000989928": 7,
+      "gas:candidate-vibid:2552000995699": 5,
+      "gas:candidate-vibid:2552000995804": 5,
+      "gas:candidate-vibid:2552000987306": 79
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897350&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897350&type=464",
@@ -11158,13 +11158,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 0,
-      "Атаманиченко Кирилл Игоревич": 1,
-      "Дубовский Евгений Юрьевич": 3,
-      "Жуков Владимир Алексеевич": 1,
-      "Курнявко Олег Леонидович": 1,
-      "Огаркова Татьяна Михайловна": 0,
-      "Смолин Олег Николаевич": 4
+      "gas:candidate-vibid:2552000990097": 0,
+      "gas:candidate-vibid:2552000982914": 1,
+      "gas:candidate-vibid:2552000987491": 3,
+      "gas:candidate-vibid:2552000989928": 1,
+      "gas:candidate-vibid:2552000995699": 1,
+      "gas:candidate-vibid:2552000995804": 0,
+      "gas:candidate-vibid:2552000987306": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897350&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897350&type=464",
@@ -11215,13 +11215,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 4,
-      "Атаманиченко Кирилл Игоревич": 45,
-      "Дубовский Евгений Юрьевич": 30,
-      "Жуков Владимир Алексеевич": 39,
-      "Курнявко Олег Леонидович": 2,
-      "Огаркова Татьяна Михайловна": 8,
-      "Смолин Олег Николаевич": 77
+      "gas:candidate-vibid:2552000990097": 4,
+      "gas:candidate-vibid:2552000982914": 45,
+      "gas:candidate-vibid:2552000987491": 30,
+      "gas:candidate-vibid:2552000989928": 39,
+      "gas:candidate-vibid:2552000995699": 2,
+      "gas:candidate-vibid:2552000995804": 8,
+      "gas:candidate-vibid:2552000987306": 77
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897350&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897350&type=464",
@@ -11272,13 +11272,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 0,
-      "Атаманиченко Кирилл Игоревич": 17,
-      "Дубовский Евгений Юрьевич": 6,
-      "Жуков Владимир Алексеевич": 5,
-      "Курнявко Олег Леонидович": 4,
-      "Огаркова Татьяна Михайловна": 4,
-      "Смолин Олег Николаевич": 11
+      "gas:candidate-vibid:2552000990097": 0,
+      "gas:candidate-vibid:2552000982914": 17,
+      "gas:candidate-vibid:2552000987491": 6,
+      "gas:candidate-vibid:2552000989928": 5,
+      "gas:candidate-vibid:2552000995699": 4,
+      "gas:candidate-vibid:2552000995804": 4,
+      "gas:candidate-vibid:2552000987306": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897350&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897350&type=464",
@@ -11329,13 +11329,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 5,
-      "Атаманиченко Кирилл Игоревич": 33,
-      "Дубовский Евгений Юрьевич": 22,
-      "Жуков Владимир Алексеевич": 16,
-      "Курнявко Олег Леонидович": 3,
-      "Огаркова Татьяна Михайловна": 4,
-      "Смолин Олег Николаевич": 44
+      "gas:candidate-vibid:2552000990097": 5,
+      "gas:candidate-vibid:2552000982914": 33,
+      "gas:candidate-vibid:2552000987491": 22,
+      "gas:candidate-vibid:2552000989928": 16,
+      "gas:candidate-vibid:2552000995699": 3,
+      "gas:candidate-vibid:2552000995804": 4,
+      "gas:candidate-vibid:2552000987306": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897350&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897350&type=464",
@@ -11386,13 +11386,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 6,
-      "Атаманиченко Кирилл Игоревич": 31,
-      "Дубовский Евгений Юрьевич": 20,
-      "Жуков Владимир Алексеевич": 14,
-      "Курнявко Олег Леонидович": 3,
-      "Огаркова Татьяна Михайловна": 4,
-      "Смолин Олег Николаевич": 79
+      "gas:candidate-vibid:2552000990097": 6,
+      "gas:candidate-vibid:2552000982914": 31,
+      "gas:candidate-vibid:2552000987491": 20,
+      "gas:candidate-vibid:2552000989928": 14,
+      "gas:candidate-vibid:2552000995699": 3,
+      "gas:candidate-vibid:2552000995804": 4,
+      "gas:candidate-vibid:2552000987306": 79
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897350&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897350&type=464",
@@ -11443,13 +11443,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 0,
-      "Атаманиченко Кирилл Игоревич": 20,
-      "Дубовский Евгений Юрьевич": 5,
-      "Жуков Владимир Алексеевич": 9,
-      "Курнявко Олег Леонидович": 1,
-      "Огаркова Татьяна Михайловна": 3,
-      "Смолин Олег Николаевич": 43
+      "gas:candidate-vibid:2552000990097": 0,
+      "gas:candidate-vibid:2552000982914": 20,
+      "gas:candidate-vibid:2552000987491": 5,
+      "gas:candidate-vibid:2552000989928": 9,
+      "gas:candidate-vibid:2552000995699": 1,
+      "gas:candidate-vibid:2552000995804": 3,
+      "gas:candidate-vibid:2552000987306": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897350&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897350&type=464",
@@ -11500,13 +11500,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 4,
-      "Атаманиченко Кирилл Игоревич": 10,
-      "Дубовский Евгений Юрьевич": 8,
-      "Жуков Владимир Алексеевич": 3,
-      "Курнявко Олег Леонидович": 0,
-      "Огаркова Татьяна Михайловна": 2,
-      "Смолин Олег Николаевич": 8
+      "gas:candidate-vibid:2552000990097": 4,
+      "gas:candidate-vibid:2552000982914": 10,
+      "gas:candidate-vibid:2552000987491": 8,
+      "gas:candidate-vibid:2552000989928": 3,
+      "gas:candidate-vibid:2552000995699": 0,
+      "gas:candidate-vibid:2552000995804": 2,
+      "gas:candidate-vibid:2552000987306": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897350&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897350&type=464",
@@ -11557,13 +11557,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 2,
-      "Атаманиченко Кирилл Игоревич": 12,
-      "Дубовский Евгений Юрьевич": 11,
-      "Жуков Владимир Алексеевич": 12,
-      "Курнявко Олег Леонидович": 3,
-      "Огаркова Татьяна Михайловна": 2,
-      "Смолин Олег Николаевич": 58
+      "gas:candidate-vibid:2552000990097": 2,
+      "gas:candidate-vibid:2552000982914": 12,
+      "gas:candidate-vibid:2552000987491": 11,
+      "gas:candidate-vibid:2552000989928": 12,
+      "gas:candidate-vibid:2552000995699": 3,
+      "gas:candidate-vibid:2552000995804": 2,
+      "gas:candidate-vibid:2552000987306": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897350&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897350&type=464",
@@ -11614,13 +11614,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 9,
-      "Атаманиченко Кирилл Игоревич": 95,
-      "Дубовский Евгений Юрьевич": 57,
-      "Жуков Владимир Алексеевич": 71,
-      "Курнявко Олег Леонидович": 9,
-      "Огаркова Татьяна Михайловна": 21,
-      "Смолин Олег Николаевич": 173
+      "gas:candidate-vibid:2552000990097": 9,
+      "gas:candidate-vibid:2552000982914": 95,
+      "gas:candidate-vibid:2552000987491": 57,
+      "gas:candidate-vibid:2552000989928": 71,
+      "gas:candidate-vibid:2552000995699": 9,
+      "gas:candidate-vibid:2552000995804": 21,
+      "gas:candidate-vibid:2552000987306": 173
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897350&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897350&type=464",
@@ -11671,13 +11671,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 1,
-      "Атаманиченко Кирилл Игоревич": 15,
-      "Дубовский Евгений Юрьевич": 16,
-      "Жуков Владимир Алексеевич": 7,
-      "Курнявко Олег Леонидович": 5,
-      "Огаркова Татьяна Михайловна": 3,
-      "Смолин Олег Николаевич": 17
+      "gas:candidate-vibid:2552000990097": 1,
+      "gas:candidate-vibid:2552000982914": 15,
+      "gas:candidate-vibid:2552000987491": 16,
+      "gas:candidate-vibid:2552000989928": 7,
+      "gas:candidate-vibid:2552000995699": 5,
+      "gas:candidate-vibid:2552000995804": 3,
+      "gas:candidate-vibid:2552000987306": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897350&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897350&type=464",
@@ -11728,13 +11728,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 6,
-      "Атаманиченко Кирилл Игоревич": 20,
-      "Дубовский Евгений Юрьевич": 24,
-      "Жуков Владимир Алексеевич": 12,
-      "Курнявко Олег Леонидович": 3,
-      "Огаркова Татьяна Михайловна": 1,
-      "Смолин Олег Николаевич": 41
+      "gas:candidate-vibid:2552000990097": 6,
+      "gas:candidate-vibid:2552000982914": 20,
+      "gas:candidate-vibid:2552000987491": 24,
+      "gas:candidate-vibid:2552000989928": 12,
+      "gas:candidate-vibid:2552000995699": 3,
+      "gas:candidate-vibid:2552000995804": 1,
+      "gas:candidate-vibid:2552000987306": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897350&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897350&type=464",
@@ -11785,13 +11785,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 2,
-      "Атаманиченко Кирилл Игоревич": 16,
-      "Дубовский Евгений Юрьевич": 17,
-      "Жуков Владимир Алексеевич": 18,
-      "Курнявко Олег Леонидович": 1,
-      "Огаркова Татьяна Михайловна": 5,
-      "Смолин Олег Николаевич": 46
+      "gas:candidate-vibid:2552000990097": 2,
+      "gas:candidate-vibid:2552000982914": 16,
+      "gas:candidate-vibid:2552000987491": 17,
+      "gas:candidate-vibid:2552000989928": 18,
+      "gas:candidate-vibid:2552000995699": 1,
+      "gas:candidate-vibid:2552000995804": 5,
+      "gas:candidate-vibid:2552000987306": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897350&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897350&type=464",
@@ -11842,13 +11842,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 9,
-      "Атаманиченко Кирилл Игоревич": 41,
-      "Дубовский Евгений Юрьевич": 40,
-      "Жуков Владимир Алексеевич": 30,
-      "Курнявко Олег Леонидович": 10,
-      "Огаркова Татьяна Михайловна": 20,
-      "Смолин Олег Николаевич": 138
+      "gas:candidate-vibid:2552000990097": 9,
+      "gas:candidate-vibid:2552000982914": 41,
+      "gas:candidate-vibid:2552000987491": 40,
+      "gas:candidate-vibid:2552000989928": 30,
+      "gas:candidate-vibid:2552000995699": 10,
+      "gas:candidate-vibid:2552000995804": 20,
+      "gas:candidate-vibid:2552000987306": 138
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897350&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897350&type=464",
@@ -11899,13 +11899,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 0,
-      "Атаманиченко Кирилл Игоревич": 8,
-      "Дубовский Евгений Юрьевич": 2,
-      "Жуков Владимир Алексеевич": 8,
-      "Курнявко Олег Леонидович": 1,
-      "Огаркова Татьяна Михайловна": 0,
-      "Смолин Олег Николаевич": 14
+      "gas:candidate-vibid:2552000990097": 0,
+      "gas:candidate-vibid:2552000982914": 8,
+      "gas:candidate-vibid:2552000987491": 2,
+      "gas:candidate-vibid:2552000989928": 8,
+      "gas:candidate-vibid:2552000995699": 1,
+      "gas:candidate-vibid:2552000995804": 0,
+      "gas:candidate-vibid:2552000987306": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897350&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897350&type=464",
@@ -11956,13 +11956,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 5,
-      "Атаманиченко Кирилл Игоревич": 23,
-      "Дубовский Евгений Юрьевич": 17,
-      "Жуков Владимир Алексеевич": 11,
-      "Курнявко Олег Леонидович": 3,
-      "Огаркова Татьяна Михайловна": 5,
-      "Смолин Олег Николаевич": 21
+      "gas:candidate-vibid:2552000990097": 5,
+      "gas:candidate-vibid:2552000982914": 23,
+      "gas:candidate-vibid:2552000987491": 17,
+      "gas:candidate-vibid:2552000989928": 11,
+      "gas:candidate-vibid:2552000995699": 3,
+      "gas:candidate-vibid:2552000995804": 5,
+      "gas:candidate-vibid:2552000987306": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897350&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897350&type=464",
@@ -12013,13 +12013,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 8,
-      "Атаманиченко Кирилл Игоревич": 24,
-      "Дубовский Евгений Юрьевич": 22,
-      "Жуков Владимир Алексеевич": 11,
-      "Курнявко Олег Леонидович": 5,
-      "Огаркова Татьяна Михайловна": 8,
-      "Смолин Олег Николаевич": 57
+      "gas:candidate-vibid:2552000990097": 8,
+      "gas:candidate-vibid:2552000982914": 24,
+      "gas:candidate-vibid:2552000987491": 22,
+      "gas:candidate-vibid:2552000989928": 11,
+      "gas:candidate-vibid:2552000995699": 5,
+      "gas:candidate-vibid:2552000995804": 8,
+      "gas:candidate-vibid:2552000987306": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897350&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897350&type=464",
@@ -12070,13 +12070,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 3,
-      "Атаманиченко Кирилл Игоревич": 5,
-      "Дубовский Евгений Юрьевич": 3,
-      "Жуков Владимир Алексеевич": 4,
-      "Курнявко Олег Леонидович": 2,
-      "Огаркова Татьяна Михайловна": 1,
-      "Смолин Олег Николаевич": 18
+      "gas:candidate-vibid:2552000990097": 3,
+      "gas:candidate-vibid:2552000982914": 5,
+      "gas:candidate-vibid:2552000987491": 3,
+      "gas:candidate-vibid:2552000989928": 4,
+      "gas:candidate-vibid:2552000995699": 2,
+      "gas:candidate-vibid:2552000995804": 1,
+      "gas:candidate-vibid:2552000987306": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897350&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897350&type=464",
@@ -12127,13 +12127,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 8,
-      "Атаманиченко Кирилл Игоревич": 44,
-      "Дубовский Евгений Юрьевич": 60,
-      "Жуков Владимир Алексеевич": 45,
-      "Курнявко Олег Леонидович": 9,
-      "Огаркова Татьяна Михайловна": 26,
-      "Смолин Олег Николаевич": 170
+      "gas:candidate-vibid:2552000990097": 8,
+      "gas:candidate-vibid:2552000982914": 44,
+      "gas:candidate-vibid:2552000987491": 60,
+      "gas:candidate-vibid:2552000989928": 45,
+      "gas:candidate-vibid:2552000995699": 9,
+      "gas:candidate-vibid:2552000995804": 26,
+      "gas:candidate-vibid:2552000987306": 170
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897350&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897350&type=464",
@@ -12184,13 +12184,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 2,
-      "Атаманиченко Кирилл Игоревич": 17,
-      "Дубовский Евгений Юрьевич": 18,
-      "Жуков Владимир Алексеевич": 12,
-      "Курнявко Олег Леонидович": 2,
-      "Огаркова Татьяна Михайловна": 8,
-      "Смолин Олег Николаевич": 47
+      "gas:candidate-vibid:2552000990097": 2,
+      "gas:candidate-vibid:2552000982914": 17,
+      "gas:candidate-vibid:2552000987491": 18,
+      "gas:candidate-vibid:2552000989928": 12,
+      "gas:candidate-vibid:2552000995699": 2,
+      "gas:candidate-vibid:2552000995804": 8,
+      "gas:candidate-vibid:2552000987306": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897350&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897350&type=464",
@@ -12241,13 +12241,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 5,
-      "Атаманиченко Кирилл Игоревич": 81,
-      "Дубовский Евгений Юрьевич": 44,
-      "Жуков Владимир Алексеевич": 44,
-      "Курнявко Олег Леонидович": 9,
-      "Огаркова Татьяна Михайловна": 21,
-      "Смолин Олег Николаевич": 209
+      "gas:candidate-vibid:2552000990097": 5,
+      "gas:candidate-vibid:2552000982914": 81,
+      "gas:candidate-vibid:2552000987491": 44,
+      "gas:candidate-vibid:2552000989928": 44,
+      "gas:candidate-vibid:2552000995699": 9,
+      "gas:candidate-vibid:2552000995804": 21,
+      "gas:candidate-vibid:2552000987306": 209
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897350&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897350&type=464",
@@ -12298,13 +12298,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 2,
-      "Атаманиченко Кирилл Игоревич": 7,
-      "Дубовский Евгений Юрьевич": 11,
-      "Жуков Владимир Алексеевич": 7,
-      "Курнявко Олег Леонидович": 1,
-      "Огаркова Татьяна Михайловна": 0,
-      "Смолин Олег Николаевич": 17
+      "gas:candidate-vibid:2552000990097": 2,
+      "gas:candidate-vibid:2552000982914": 7,
+      "gas:candidate-vibid:2552000987491": 11,
+      "gas:candidate-vibid:2552000989928": 7,
+      "gas:candidate-vibid:2552000995699": 1,
+      "gas:candidate-vibid:2552000995804": 0,
+      "gas:candidate-vibid:2552000987306": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897350&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897350&type=464",
@@ -12355,13 +12355,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 2,
-      "Атаманиченко Кирилл Игоревич": 23,
-      "Дубовский Евгений Юрьевич": 17,
-      "Жуков Владимир Алексеевич": 9,
-      "Курнявко Олег Леонидович": 4,
-      "Огаркова Татьяна Михайловна": 4,
-      "Смолин Олег Николаевич": 61
+      "gas:candidate-vibid:2552000990097": 2,
+      "gas:candidate-vibid:2552000982914": 23,
+      "gas:candidate-vibid:2552000987491": 17,
+      "gas:candidate-vibid:2552000989928": 9,
+      "gas:candidate-vibid:2552000995699": 4,
+      "gas:candidate-vibid:2552000995804": 4,
+      "gas:candidate-vibid:2552000987306": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897350&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897350&type=464",
@@ -12412,13 +12412,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 2,
-      "Атаманиченко Кирилл Игоревич": 4,
-      "Дубовский Евгений Юрьевич": 9,
-      "Жуков Владимир Алексеевич": 5,
-      "Курнявко Олег Леонидович": 3,
-      "Огаркова Татьяна Михайловна": 2,
-      "Смолин Олег Николаевич": 16
+      "gas:candidate-vibid:2552000990097": 2,
+      "gas:candidate-vibid:2552000982914": 4,
+      "gas:candidate-vibid:2552000987491": 9,
+      "gas:candidate-vibid:2552000989928": 5,
+      "gas:candidate-vibid:2552000995699": 3,
+      "gas:candidate-vibid:2552000995804": 2,
+      "gas:candidate-vibid:2552000987306": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897350&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897350&type=464",
@@ -12469,13 +12469,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 0,
-      "Атаманиченко Кирилл Игоревич": 9,
-      "Дубовский Евгений Юрьевич": 6,
-      "Жуков Владимир Алексеевич": 6,
-      "Курнявко Олег Леонидович": 0,
-      "Огаркова Татьяна Михайловна": 7,
-      "Смолин Олег Николаевич": 19
+      "gas:candidate-vibid:2552000990097": 0,
+      "gas:candidate-vibid:2552000982914": 9,
+      "gas:candidate-vibid:2552000987491": 6,
+      "gas:candidate-vibid:2552000989928": 6,
+      "gas:candidate-vibid:2552000995699": 0,
+      "gas:candidate-vibid:2552000995804": 7,
+      "gas:candidate-vibid:2552000987306": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897350&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897350&type=464",
@@ -12526,13 +12526,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 17,
-      "Атаманиченко Кирилл Игоревич": 166,
-      "Дубовский Евгений Юрьевич": 80,
-      "Жуков Владимир Алексеевич": 82,
-      "Курнявко Олег Леонидович": 29,
-      "Огаркова Татьяна Михайловна": 23,
-      "Смолин Олег Николаевич": 313
+      "gas:candidate-vibid:2552000990097": 17,
+      "gas:candidate-vibid:2552000982914": 166,
+      "gas:candidate-vibid:2552000987491": 80,
+      "gas:candidate-vibid:2552000989928": 82,
+      "gas:candidate-vibid:2552000995699": 29,
+      "gas:candidate-vibid:2552000995804": 23,
+      "gas:candidate-vibid:2552000987306": 313
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897350&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897350&type=464",
@@ -12583,13 +12583,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 11,
-      "Атаманиченко Кирилл Игоревич": 230,
-      "Дубовский Евгений Юрьевич": 117,
-      "Жуков Владимир Алексеевич": 93,
-      "Курнявко Олег Леонидович": 15,
-      "Огаркова Татьяна Михайловна": 33,
-      "Смолин Олег Николаевич": 400
+      "gas:candidate-vibid:2552000990097": 11,
+      "gas:candidate-vibid:2552000982914": 230,
+      "gas:candidate-vibid:2552000987491": 117,
+      "gas:candidate-vibid:2552000989928": 93,
+      "gas:candidate-vibid:2552000995699": 15,
+      "gas:candidate-vibid:2552000995804": 33,
+      "gas:candidate-vibid:2552000987306": 400
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897350&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897350&type=464",
@@ -12640,13 +12640,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 19,
-      "Атаманиченко Кирилл Игоревич": 269,
-      "Дубовский Евгений Юрьевич": 153,
-      "Жуков Владимир Алексеевич": 122,
-      "Курнявко Олег Леонидович": 23,
-      "Огаркова Татьяна Михайловна": 45,
-      "Смолин Олег Николаевич": 498
+      "gas:candidate-vibid:2552000990097": 19,
+      "gas:candidate-vibid:2552000982914": 269,
+      "gas:candidate-vibid:2552000987491": 153,
+      "gas:candidate-vibid:2552000989928": 122,
+      "gas:candidate-vibid:2552000995699": 23,
+      "gas:candidate-vibid:2552000995804": 45,
+      "gas:candidate-vibid:2552000987306": 498
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897350&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897350&type=464",
@@ -12697,13 +12697,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 7,
-      "Атаманиченко Кирилл Игоревич": 65,
-      "Дубовский Евгений Юрьевич": 29,
-      "Жуков Владимир Алексеевич": 54,
-      "Курнявко Олег Леонидович": 8,
-      "Огаркова Татьяна Михайловна": 8,
-      "Смолин Олег Николаевич": 134
+      "gas:candidate-vibid:2552000990097": 7,
+      "gas:candidate-vibid:2552000982914": 65,
+      "gas:candidate-vibid:2552000987491": 29,
+      "gas:candidate-vibid:2552000989928": 54,
+      "gas:candidate-vibid:2552000995699": 8,
+      "gas:candidate-vibid:2552000995804": 8,
+      "gas:candidate-vibid:2552000987306": 134
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897350&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897350&type=464",
@@ -12754,13 +12754,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 2,
-      "Атаманиченко Кирилл Игоревич": 20,
-      "Дубовский Евгений Юрьевич": 19,
-      "Жуков Владимир Алексеевич": 12,
-      "Курнявко Олег Леонидович": 1,
-      "Огаркова Татьяна Михайловна": 1,
-      "Смолин Олег Николаевич": 23
+      "gas:candidate-vibid:2552000990097": 2,
+      "gas:candidate-vibid:2552000982914": 20,
+      "gas:candidate-vibid:2552000987491": 19,
+      "gas:candidate-vibid:2552000989928": 12,
+      "gas:candidate-vibid:2552000995699": 1,
+      "gas:candidate-vibid:2552000995804": 1,
+      "gas:candidate-vibid:2552000987306": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897350&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897350&type=464",
@@ -12811,13 +12811,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 0,
-      "Атаманиченко Кирилл Игоревич": 2,
-      "Дубовский Евгений Юрьевич": 2,
-      "Жуков Владимир Алексеевич": 12,
-      "Курнявко Олег Леонидович": 1,
-      "Огаркова Татьяна Михайловна": 0,
-      "Смолин Олег Николаевич": 30
+      "gas:candidate-vibid:2552000990097": 0,
+      "gas:candidate-vibid:2552000982914": 2,
+      "gas:candidate-vibid:2552000987491": 2,
+      "gas:candidate-vibid:2552000989928": 12,
+      "gas:candidate-vibid:2552000995699": 1,
+      "gas:candidate-vibid:2552000995804": 0,
+      "gas:candidate-vibid:2552000987306": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897350&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897350&type=464",
@@ -12868,13 +12868,13 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асташенко Сергей Дмитриевич": 0,
-      "Атаманиченко Кирилл Игоревич": 14,
-      "Дубовский Евгений Юрьевич": 8,
-      "Жуков Владимир Алексеевич": 6,
-      "Курнявко Олег Леонидович": 7,
-      "Огаркова Татьяна Михайловна": 1,
-      "Смолин Олег Николаевич": 11
+      "gas:candidate-vibid:2552000990097": 0,
+      "gas:candidate-vibid:2552000982914": 14,
+      "gas:candidate-vibid:2552000987491": 8,
+      "gas:candidate-vibid:2552000989928": 6,
+      "gas:candidate-vibid:2552000995699": 7,
+      "gas:candidate-vibid:2552000995804": 1,
+      "gas:candidate-vibid:2552000987306": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000184&tvd=2552000897350&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897350&type=464",
@@ -12925,16 +12925,16 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 12,
-      "Голушко Андрей Иванович": 275,
-      "Денисенко Олег Иванович": 95,
-      "Колесников Олег Юрьевич": 6,
-      "Кочетков Сергей Петрович": 3,
-      "Кравцов Александр Владимирович": 25,
-      "Ложкин Алексей Николаевич": 71,
-      "Мельников Борис Викторович": 2,
-      "Подзоров Александр Георгиевич": 23,
-      "Якименко Алексей Евгеньевич": 10
+      "gas:candidate-vibid:2552000990706": 12,
+      "gas:candidate-vibid:2552000990468": 275,
+      "gas:candidate-vibid:2552000994508": 95,
+      "gas:candidate-vibid:2552000995687": 6,
+      "gas:candidate-vibid:2552000995793": 3,
+      "gas:candidate-vibid:2552000987502": 25,
+      "gas:candidate-vibid:2552000983027": 71,
+      "gas:candidate-vibid:2552000992049": 2,
+      "gas:candidate-vibid:2552000989939": 23,
+      "gas:candidate-vibid:2552000995754": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897351&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897351&type=464",
@@ -12985,16 +12985,16 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 4,
-      "Голушко Андрей Иванович": 14,
-      "Денисенко Олег Иванович": 16,
-      "Колесников Олег Юрьевич": 0,
-      "Кочетков Сергей Петрович": 0,
-      "Кравцов Александр Владимирович": 2,
-      "Ложкин Алексей Николаевич": 10,
-      "Мельников Борис Викторович": 1,
-      "Подзоров Александр Георгиевич": 1,
-      "Якименко Алексей Евгеньевич": 1
+      "gas:candidate-vibid:2552000990706": 4,
+      "gas:candidate-vibid:2552000990468": 14,
+      "gas:candidate-vibid:2552000994508": 16,
+      "gas:candidate-vibid:2552000995687": 0,
+      "gas:candidate-vibid:2552000995793": 0,
+      "gas:candidate-vibid:2552000987502": 2,
+      "gas:candidate-vibid:2552000983027": 10,
+      "gas:candidate-vibid:2552000992049": 1,
+      "gas:candidate-vibid:2552000989939": 1,
+      "gas:candidate-vibid:2552000995754": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897351&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897351&type=464",
@@ -13045,16 +13045,16 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 21,
-      "Голушко Андрей Иванович": 197,
-      "Денисенко Олег Иванович": 217,
-      "Колесников Олег Юрьевич": 3,
-      "Кочетков Сергей Петрович": 13,
-      "Кравцов Александр Владимирович": 101,
-      "Ложкин Алексей Николаевич": 87,
-      "Мельников Борис Викторович": 14,
-      "Подзоров Александр Георгиевич": 46,
-      "Якименко Алексей Евгеньевич": 12
+      "gas:candidate-vibid:2552000990706": 21,
+      "gas:candidate-vibid:2552000990468": 197,
+      "gas:candidate-vibid:2552000994508": 217,
+      "gas:candidate-vibid:2552000995687": 3,
+      "gas:candidate-vibid:2552000995793": 13,
+      "gas:candidate-vibid:2552000987502": 101,
+      "gas:candidate-vibid:2552000983027": 87,
+      "gas:candidate-vibid:2552000992049": 14,
+      "gas:candidate-vibid:2552000989939": 46,
+      "gas:candidate-vibid:2552000995754": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897351&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897351&type=464",
@@ -13105,16 +13105,16 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 16,
-      "Голушко Андрей Иванович": 166,
-      "Денисенко Олег Иванович": 204,
-      "Колесников Олег Юрьевич": 6,
-      "Кочетков Сергей Петрович": 29,
-      "Кравцов Александр Владимирович": 94,
-      "Ложкин Алексей Николаевич": 96,
-      "Мельников Борис Викторович": 15,
-      "Подзоров Александр Георгиевич": 35,
-      "Якименко Алексей Евгеньевич": 9
+      "gas:candidate-vibid:2552000990706": 16,
+      "gas:candidate-vibid:2552000990468": 166,
+      "gas:candidate-vibid:2552000994508": 204,
+      "gas:candidate-vibid:2552000995687": 6,
+      "gas:candidate-vibid:2552000995793": 29,
+      "gas:candidate-vibid:2552000987502": 94,
+      "gas:candidate-vibid:2552000983027": 96,
+      "gas:candidate-vibid:2552000992049": 15,
+      "gas:candidate-vibid:2552000989939": 35,
+      "gas:candidate-vibid:2552000995754": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897351&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897351&type=464",
@@ -13165,16 +13165,16 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 15,
-      "Голушко Андрей Иванович": 242,
-      "Денисенко Олег Иванович": 259,
-      "Колесников Олег Юрьевич": 5,
-      "Кочетков Сергей Петрович": 24,
-      "Кравцов Александр Владимирович": 109,
-      "Ложкин Алексей Николаевич": 95,
-      "Мельников Борис Викторович": 29,
-      "Подзоров Александр Георгиевич": 32,
-      "Якименко Алексей Евгеньевич": 15
+      "gas:candidate-vibid:2552000990706": 15,
+      "gas:candidate-vibid:2552000990468": 242,
+      "gas:candidate-vibid:2552000994508": 259,
+      "gas:candidate-vibid:2552000995687": 5,
+      "gas:candidate-vibid:2552000995793": 24,
+      "gas:candidate-vibid:2552000987502": 109,
+      "gas:candidate-vibid:2552000983027": 95,
+      "gas:candidate-vibid:2552000992049": 29,
+      "gas:candidate-vibid:2552000989939": 32,
+      "gas:candidate-vibid:2552000995754": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897351&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897351&type=464",
@@ -13225,16 +13225,16 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 18,
-      "Голушко Андрей Иванович": 246,
-      "Денисенко Олег Иванович": 150,
-      "Колесников Олег Юрьевич": 12,
-      "Кочетков Сергей Петрович": 15,
-      "Кравцов Александр Владимирович": 44,
-      "Ложкин Алексей Николаевич": 92,
-      "Мельников Борис Викторович": 11,
-      "Подзоров Александр Георгиевич": 37,
-      "Якименко Алексей Евгеньевич": 9
+      "gas:candidate-vibid:2552000990706": 18,
+      "gas:candidate-vibid:2552000990468": 246,
+      "gas:candidate-vibid:2552000994508": 150,
+      "gas:candidate-vibid:2552000995687": 12,
+      "gas:candidate-vibid:2552000995793": 15,
+      "gas:candidate-vibid:2552000987502": 44,
+      "gas:candidate-vibid:2552000983027": 92,
+      "gas:candidate-vibid:2552000992049": 11,
+      "gas:candidate-vibid:2552000989939": 37,
+      "gas:candidate-vibid:2552000995754": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897351&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897351&type=464",
@@ -13285,16 +13285,16 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 16,
-      "Голушко Андрей Иванович": 188,
-      "Денисенко Олег Иванович": 222,
-      "Колесников Олег Юрьевич": 6,
-      "Кочетков Сергей Петрович": 19,
-      "Кравцов Александр Владимирович": 77,
-      "Ложкин Алексей Николаевич": 127,
-      "Мельников Борис Викторович": 24,
-      "Подзоров Александр Георгиевич": 46,
-      "Якименко Алексей Евгеньевич": 22
+      "gas:candidate-vibid:2552000990706": 16,
+      "gas:candidate-vibid:2552000990468": 188,
+      "gas:candidate-vibid:2552000994508": 222,
+      "gas:candidate-vibid:2552000995687": 6,
+      "gas:candidate-vibid:2552000995793": 19,
+      "gas:candidate-vibid:2552000987502": 77,
+      "gas:candidate-vibid:2552000983027": 127,
+      "gas:candidate-vibid:2552000992049": 24,
+      "gas:candidate-vibid:2552000989939": 46,
+      "gas:candidate-vibid:2552000995754": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897351&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897351&type=464",
@@ -13345,16 +13345,16 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 7,
-      "Голушко Андрей Иванович": 155,
-      "Денисенко Олег Иванович": 200,
-      "Колесников Олег Юрьевич": 6,
-      "Кочетков Сергей Петрович": 6,
-      "Кравцов Александр Владимирович": 72,
-      "Ложкин Алексей Николаевич": 65,
-      "Мельников Борис Викторович": 19,
-      "Подзоров Александр Георгиевич": 31,
-      "Якименко Алексей Евгеньевич": 16
+      "gas:candidate-vibid:2552000990706": 7,
+      "gas:candidate-vibid:2552000990468": 155,
+      "gas:candidate-vibid:2552000994508": 200,
+      "gas:candidate-vibid:2552000995687": 6,
+      "gas:candidate-vibid:2552000995793": 6,
+      "gas:candidate-vibid:2552000987502": 72,
+      "gas:candidate-vibid:2552000983027": 65,
+      "gas:candidate-vibid:2552000992049": 19,
+      "gas:candidate-vibid:2552000989939": 31,
+      "gas:candidate-vibid:2552000995754": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897351&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897351&type=464",
@@ -13405,16 +13405,16 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 12,
-      "Голушко Андрей Иванович": 168,
-      "Денисенко Олег Иванович": 187,
-      "Колесников Олег Юрьевич": 7,
-      "Кочетков Сергей Петрович": 14,
-      "Кравцов Александр Владимирович": 60,
-      "Ложкин Алексей Николаевич": 71,
-      "Мельников Борис Викторович": 25,
-      "Подзоров Александр Георгиевич": 37,
-      "Якименко Алексей Евгеньевич": 15
+      "gas:candidate-vibid:2552000990706": 12,
+      "gas:candidate-vibid:2552000990468": 168,
+      "gas:candidate-vibid:2552000994508": 187,
+      "gas:candidate-vibid:2552000995687": 7,
+      "gas:candidate-vibid:2552000995793": 14,
+      "gas:candidate-vibid:2552000987502": 60,
+      "gas:candidate-vibid:2552000983027": 71,
+      "gas:candidate-vibid:2552000992049": 25,
+      "gas:candidate-vibid:2552000989939": 37,
+      "gas:candidate-vibid:2552000995754": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897351&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897351&type=464",
@@ -13465,16 +13465,16 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 12,
-      "Голушко Андрей Иванович": 186,
-      "Денисенко Олег Иванович": 173,
-      "Колесников Олег Юрьевич": 7,
-      "Кочетков Сергей Петрович": 19,
-      "Кравцов Александр Владимирович": 53,
-      "Ложкин Алексей Николаевич": 73,
-      "Мельников Борис Викторович": 18,
-      "Подзоров Александр Георгиевич": 31,
-      "Якименко Алексей Евгеньевич": 9
+      "gas:candidate-vibid:2552000990706": 12,
+      "gas:candidate-vibid:2552000990468": 186,
+      "gas:candidate-vibid:2552000994508": 173,
+      "gas:candidate-vibid:2552000995687": 7,
+      "gas:candidate-vibid:2552000995793": 19,
+      "gas:candidate-vibid:2552000987502": 53,
+      "gas:candidate-vibid:2552000983027": 73,
+      "gas:candidate-vibid:2552000992049": 18,
+      "gas:candidate-vibid:2552000989939": 31,
+      "gas:candidate-vibid:2552000995754": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897351&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897351&type=464",
@@ -13525,16 +13525,16 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 4,
-      "Голушко Андрей Иванович": 67,
-      "Денисенко Олег Иванович": 52,
-      "Колесников Олег Юрьевич": 2,
-      "Кочетков Сергей Петрович": 2,
-      "Кравцов Александр Владимирович": 19,
-      "Ложкин Алексей Николаевич": 33,
-      "Мельников Борис Викторович": 9,
-      "Подзоров Александр Георгиевич": 12,
-      "Якименко Алексей Евгеньевич": 3
+      "gas:candidate-vibid:2552000990706": 4,
+      "gas:candidate-vibid:2552000990468": 67,
+      "gas:candidate-vibid:2552000994508": 52,
+      "gas:candidate-vibid:2552000995687": 2,
+      "gas:candidate-vibid:2552000995793": 2,
+      "gas:candidate-vibid:2552000987502": 19,
+      "gas:candidate-vibid:2552000983027": 33,
+      "gas:candidate-vibid:2552000992049": 9,
+      "gas:candidate-vibid:2552000989939": 12,
+      "gas:candidate-vibid:2552000995754": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897351&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897351&type=464",
@@ -13585,16 +13585,16 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 15,
-      "Голушко Андрей Иванович": 235,
-      "Денисенко Олег Иванович": 253,
-      "Колесников Олег Юрьевич": 9,
-      "Кочетков Сергей Петрович": 26,
-      "Кравцов Александр Владимирович": 78,
-      "Ложкин Алексей Николаевич": 99,
-      "Мельников Борис Викторович": 26,
-      "Подзоров Александр Георгиевич": 32,
-      "Якименко Алексей Евгеньевич": 21
+      "gas:candidate-vibid:2552000990706": 15,
+      "gas:candidate-vibid:2552000990468": 235,
+      "gas:candidate-vibid:2552000994508": 253,
+      "gas:candidate-vibid:2552000995687": 9,
+      "gas:candidate-vibid:2552000995793": 26,
+      "gas:candidate-vibid:2552000987502": 78,
+      "gas:candidate-vibid:2552000983027": 99,
+      "gas:candidate-vibid:2552000992049": 26,
+      "gas:candidate-vibid:2552000989939": 32,
+      "gas:candidate-vibid:2552000995754": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897351&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897351&type=464",
@@ -13645,16 +13645,16 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 16,
-      "Голушко Андрей Иванович": 250,
-      "Денисенко Олег Иванович": 223,
-      "Колесников Олег Юрьевич": 6,
-      "Кочетков Сергей Петрович": 16,
-      "Кравцов Александр Владимирович": 49,
-      "Ложкин Алексей Николаевич": 133,
-      "Мельников Борис Викторович": 10,
-      "Подзоров Александр Георгиевич": 43,
-      "Якименко Алексей Евгеньевич": 9
+      "gas:candidate-vibid:2552000990706": 16,
+      "gas:candidate-vibid:2552000990468": 250,
+      "gas:candidate-vibid:2552000994508": 223,
+      "gas:candidate-vibid:2552000995687": 6,
+      "gas:candidate-vibid:2552000995793": 16,
+      "gas:candidate-vibid:2552000987502": 49,
+      "gas:candidate-vibid:2552000983027": 133,
+      "gas:candidate-vibid:2552000992049": 10,
+      "gas:candidate-vibid:2552000989939": 43,
+      "gas:candidate-vibid:2552000995754": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897351&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897351&type=464",
@@ -13705,16 +13705,16 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 17,
-      "Голушко Андрей Иванович": 224,
-      "Денисенко Олег Иванович": 235,
-      "Колесников Олег Юрьевич": 12,
-      "Кочетков Сергей Петрович": 5,
-      "Кравцов Александр Владимирович": 47,
-      "Ложкин Алексей Николаевич": 77,
-      "Мельников Борис Викторович": 14,
-      "Подзоров Александр Георгиевич": 47,
-      "Якименко Алексей Евгеньевич": 12
+      "gas:candidate-vibid:2552000990706": 17,
+      "gas:candidate-vibid:2552000990468": 224,
+      "gas:candidate-vibid:2552000994508": 235,
+      "gas:candidate-vibid:2552000995687": 12,
+      "gas:candidate-vibid:2552000995793": 5,
+      "gas:candidate-vibid:2552000987502": 47,
+      "gas:candidate-vibid:2552000983027": 77,
+      "gas:candidate-vibid:2552000992049": 14,
+      "gas:candidate-vibid:2552000989939": 47,
+      "gas:candidate-vibid:2552000995754": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897351&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897351&type=464",
@@ -13765,16 +13765,16 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 13,
-      "Голушко Андрей Иванович": 185,
-      "Денисенко Олег Иванович": 223,
-      "Колесников Олег Юрьевич": 3,
-      "Кочетков Сергей Петрович": 26,
-      "Кравцов Александр Владимирович": 65,
-      "Ложкин Алексей Николаевич": 81,
-      "Мельников Борис Викторович": 29,
-      "Подзоров Александр Георгиевич": 38,
-      "Якименко Алексей Евгеньевич": 17
+      "gas:candidate-vibid:2552000990706": 13,
+      "gas:candidate-vibid:2552000990468": 185,
+      "gas:candidate-vibid:2552000994508": 223,
+      "gas:candidate-vibid:2552000995687": 3,
+      "gas:candidate-vibid:2552000995793": 26,
+      "gas:candidate-vibid:2552000987502": 65,
+      "gas:candidate-vibid:2552000983027": 81,
+      "gas:candidate-vibid:2552000992049": 29,
+      "gas:candidate-vibid:2552000989939": 38,
+      "gas:candidate-vibid:2552000995754": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897351&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897351&type=464",
@@ -13825,16 +13825,16 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 7,
-      "Голушко Андрей Иванович": 133,
-      "Денисенко Олег Иванович": 126,
-      "Колесников Олег Юрьевич": 3,
-      "Кочетков Сергей Петрович": 8,
-      "Кравцов Александр Владимирович": 38,
-      "Ложкин Алексей Николаевич": 41,
-      "Мельников Борис Викторович": 10,
-      "Подзоров Александр Георгиевич": 25,
-      "Якименко Алексей Евгеньевич": 7
+      "gas:candidate-vibid:2552000990706": 7,
+      "gas:candidate-vibid:2552000990468": 133,
+      "gas:candidate-vibid:2552000994508": 126,
+      "gas:candidate-vibid:2552000995687": 3,
+      "gas:candidate-vibid:2552000995793": 8,
+      "gas:candidate-vibid:2552000987502": 38,
+      "gas:candidate-vibid:2552000983027": 41,
+      "gas:candidate-vibid:2552000992049": 10,
+      "gas:candidate-vibid:2552000989939": 25,
+      "gas:candidate-vibid:2552000995754": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897351&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897351&type=464",
@@ -13885,16 +13885,16 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 16,
-      "Голушко Андрей Иванович": 139,
-      "Денисенко Олег Иванович": 172,
-      "Колесников Олег Юрьевич": 2,
-      "Кочетков Сергей Петрович": 8,
-      "Кравцов Александр Владимирович": 42,
-      "Ложкин Алексей Николаевич": 71,
-      "Мельников Борис Викторович": 22,
-      "Подзоров Александр Георгиевич": 25,
-      "Якименко Алексей Евгеньевич": 15
+      "gas:candidate-vibid:2552000990706": 16,
+      "gas:candidate-vibid:2552000990468": 139,
+      "gas:candidate-vibid:2552000994508": 172,
+      "gas:candidate-vibid:2552000995687": 2,
+      "gas:candidate-vibid:2552000995793": 8,
+      "gas:candidate-vibid:2552000987502": 42,
+      "gas:candidate-vibid:2552000983027": 71,
+      "gas:candidate-vibid:2552000992049": 22,
+      "gas:candidate-vibid:2552000989939": 25,
+      "gas:candidate-vibid:2552000995754": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897351&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897351&type=464",
@@ -13945,16 +13945,16 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 11,
-      "Голушко Андрей Иванович": 184,
-      "Денисенко Олег Иванович": 159,
-      "Колесников Олег Юрьевич": 1,
-      "Кочетков Сергей Петрович": 17,
-      "Кравцов Александр Владимирович": 57,
-      "Ложкин Алексей Николаевич": 91,
-      "Мельников Борис Викторович": 23,
-      "Подзоров Александр Георгиевич": 36,
-      "Якименко Алексей Евгеньевич": 13
+      "gas:candidate-vibid:2552000990706": 11,
+      "gas:candidate-vibid:2552000990468": 184,
+      "gas:candidate-vibid:2552000994508": 159,
+      "gas:candidate-vibid:2552000995687": 1,
+      "gas:candidate-vibid:2552000995793": 17,
+      "gas:candidate-vibid:2552000987502": 57,
+      "gas:candidate-vibid:2552000983027": 91,
+      "gas:candidate-vibid:2552000992049": 23,
+      "gas:candidate-vibid:2552000989939": 36,
+      "gas:candidate-vibid:2552000995754": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897351&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897351&type=464",
@@ -14005,16 +14005,16 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 13,
-      "Голушко Андрей Иванович": 180,
-      "Денисенко Олег Иванович": 137,
-      "Колесников Олег Юрьевич": 4,
-      "Кочетков Сергей Петрович": 27,
-      "Кравцов Александр Владимирович": 95,
-      "Ложкин Алексей Николаевич": 90,
-      "Мельников Борис Викторович": 13,
-      "Подзоров Александр Георгиевич": 34,
-      "Якименко Алексей Евгеньевич": 14
+      "gas:candidate-vibid:2552000990706": 13,
+      "gas:candidate-vibid:2552000990468": 180,
+      "gas:candidate-vibid:2552000994508": 137,
+      "gas:candidate-vibid:2552000995687": 4,
+      "gas:candidate-vibid:2552000995793": 27,
+      "gas:candidate-vibid:2552000987502": 95,
+      "gas:candidate-vibid:2552000983027": 90,
+      "gas:candidate-vibid:2552000992049": 13,
+      "gas:candidate-vibid:2552000989939": 34,
+      "gas:candidate-vibid:2552000995754": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897351&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897351&type=464",
@@ -14065,16 +14065,16 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 14,
-      "Голушко Андрей Иванович": 210,
-      "Денисенко Олег Иванович": 204,
-      "Колесников Олег Юрьевич": 7,
-      "Кочетков Сергей Петрович": 10,
-      "Кравцов Александр Владимирович": 103,
-      "Ложкин Алексей Николаевич": 103,
-      "Мельников Борис Викторович": 24,
-      "Подзоров Александр Георгиевич": 33,
-      "Якименко Алексей Евгеньевич": 14
+      "gas:candidate-vibid:2552000990706": 14,
+      "gas:candidate-vibid:2552000990468": 210,
+      "gas:candidate-vibid:2552000994508": 204,
+      "gas:candidate-vibid:2552000995687": 7,
+      "gas:candidate-vibid:2552000995793": 10,
+      "gas:candidate-vibid:2552000987502": 103,
+      "gas:candidate-vibid:2552000983027": 103,
+      "gas:candidate-vibid:2552000992049": 24,
+      "gas:candidate-vibid:2552000989939": 33,
+      "gas:candidate-vibid:2552000995754": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897351&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897351&type=464",
@@ -14125,16 +14125,16 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 7,
-      "Голушко Андрей Иванович": 210,
-      "Денисенко Олег Иванович": 254,
-      "Колесников Олег Юрьевич": 6,
-      "Кочетков Сергей Петрович": 22,
-      "Кравцов Александр Владимирович": 76,
-      "Ложкин Алексей Николаевич": 87,
-      "Мельников Борис Викторович": 22,
-      "Подзоров Александр Георгиевич": 27,
-      "Якименко Алексей Евгеньевич": 15
+      "gas:candidate-vibid:2552000990706": 7,
+      "gas:candidate-vibid:2552000990468": 210,
+      "gas:candidate-vibid:2552000994508": 254,
+      "gas:candidate-vibid:2552000995687": 6,
+      "gas:candidate-vibid:2552000995793": 22,
+      "gas:candidate-vibid:2552000987502": 76,
+      "gas:candidate-vibid:2552000983027": 87,
+      "gas:candidate-vibid:2552000992049": 22,
+      "gas:candidate-vibid:2552000989939": 27,
+      "gas:candidate-vibid:2552000995754": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897351&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897351&type=464",
@@ -14185,16 +14185,16 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 37,
-      "Голушко Андрей Иванович": 218,
-      "Денисенко Олег Иванович": 258,
-      "Колесников Олег Юрьевич": 15,
-      "Кочетков Сергей Петрович": 32,
-      "Кравцов Александр Владимирович": 90,
-      "Ложкин Алексей Николаевич": 130,
-      "Мельников Борис Викторович": 44,
-      "Подзоров Александр Георгиевич": 34,
-      "Якименко Алексей Евгеньевич": 12
+      "gas:candidate-vibid:2552000990706": 37,
+      "gas:candidate-vibid:2552000990468": 218,
+      "gas:candidate-vibid:2552000994508": 258,
+      "gas:candidate-vibid:2552000995687": 15,
+      "gas:candidate-vibid:2552000995793": 32,
+      "gas:candidate-vibid:2552000987502": 90,
+      "gas:candidate-vibid:2552000983027": 130,
+      "gas:candidate-vibid:2552000992049": 44,
+      "gas:candidate-vibid:2552000989939": 34,
+      "gas:candidate-vibid:2552000995754": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897351&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897351&type=464",
@@ -14245,16 +14245,16 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 9,
-      "Голушко Андрей Иванович": 212,
-      "Денисенко Олег Иванович": 196,
-      "Колесников Олег Юрьевич": 9,
-      "Кочетков Сергей Петрович": 22,
-      "Кравцов Александр Владимирович": 90,
-      "Ложкин Алексей Николаевич": 80,
-      "Мельников Борис Викторович": 26,
-      "Подзоров Александр Георгиевич": 41,
-      "Якименко Алексей Евгеньевич": 21
+      "gas:candidate-vibid:2552000990706": 9,
+      "gas:candidate-vibid:2552000990468": 212,
+      "gas:candidate-vibid:2552000994508": 196,
+      "gas:candidate-vibid:2552000995687": 9,
+      "gas:candidate-vibid:2552000995793": 22,
+      "gas:candidate-vibid:2552000987502": 90,
+      "gas:candidate-vibid:2552000983027": 80,
+      "gas:candidate-vibid:2552000992049": 26,
+      "gas:candidate-vibid:2552000989939": 41,
+      "gas:candidate-vibid:2552000995754": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897351&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897351&type=464",
@@ -14305,16 +14305,16 @@ export const duma_2016_uik_463_region_55_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аргат Ольга Владимировна": 25,
-      "Голушко Андрей Иванович": 163,
-      "Денисенко Олег Иванович": 223,
-      "Колесников Олег Юрьевич": 10,
-      "Кочетков Сергей Петрович": 16,
-      "Кравцов Александр Владимирович": 84,
-      "Ложкин Алексей Николаевич": 109,
-      "Мельников Борис Викторович": 20,
-      "Подзоров Александр Георгиевич": 41,
-      "Якименко Алексей Евгеньевич": 10
+      "gas:candidate-vibid:2552000990706": 25,
+      "gas:candidate-vibid:2552000990468": 163,
+      "gas:candidate-vibid:2552000994508": 223,
+      "gas:candidate-vibid:2552000995687": 10,
+      "gas:candidate-vibid:2552000995793": 16,
+      "gas:candidate-vibid:2552000987502": 84,
+      "gas:candidate-vibid:2552000983027": 109,
+      "gas:candidate-vibid:2552000992049": 20,
+      "gas:candidate-vibid:2552000989939": 41,
+      "gas:candidate-vibid:2552000995754": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/omsk?action=show&root=1000185&tvd=2552000897351&vrn=100100067795849&region=55&global=&sub_region=55&prver=0&pronetvd=null&vibid=2552000897351&type=464",

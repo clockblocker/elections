@@ -42,14 +42,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 2,
-      "Казаков Виктор Алексеевич": 271,
-      "Каримов Ринат Рафаелович": 5,
-      "Ненашев Владимир Петрович": 5,
-      "Петриков Геннадий Петрович": 12,
-      "Романов Валентин Степанович": 194,
-      "Сучков Дмитрий Александрович": 5,
-      "Против всех": 41
+      "gas:candidate-vibid:263200070662": 2,
+      "gas:candidate-vibid:1001000225978": 271,
+      "gas:candidate-vibid:1001000202329": 5,
+      "gas:candidate-vibid:1001000113971": 5,
+      "gas:candidate-vibid:263200071570": 12,
+      "gas:candidate-vibid:1001000121900": 194,
+      "gas:candidate-vibid:1001000195133": 5,
+      "special:against-all": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070882&region=0&sub_region=0&type=429",
@@ -99,14 +99,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 3,
-      "Казаков Виктор Алексеевич": 231,
-      "Каримов Ринат Рафаелович": 5,
-      "Ненашев Владимир Петрович": 7,
-      "Петриков Геннадий Петрович": 5,
-      "Романов Валентин Степанович": 169,
-      "Сучков Дмитрий Александрович": 2,
-      "Против всех": 41
+      "gas:candidate-vibid:263200070662": 3,
+      "gas:candidate-vibid:1001000225978": 231,
+      "gas:candidate-vibid:1001000202329": 5,
+      "gas:candidate-vibid:1001000113971": 7,
+      "gas:candidate-vibid:263200071570": 5,
+      "gas:candidate-vibid:1001000121900": 169,
+      "gas:candidate-vibid:1001000195133": 2,
+      "special:against-all": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070882&region=0&sub_region=0&type=429",
@@ -156,14 +156,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 4,
-      "Казаков Виктор Алексеевич": 272,
-      "Каримов Ринат Рафаелович": 2,
-      "Ненашев Владимир Петрович": 10,
-      "Петриков Геннадий Петрович": 12,
-      "Романов Валентин Степанович": 151,
-      "Сучков Дмитрий Александрович": 8,
-      "Против всех": 42
+      "gas:candidate-vibid:263200070662": 4,
+      "gas:candidate-vibid:1001000225978": 272,
+      "gas:candidate-vibid:1001000202329": 2,
+      "gas:candidate-vibid:1001000113971": 10,
+      "gas:candidate-vibid:263200071570": 12,
+      "gas:candidate-vibid:1001000121900": 151,
+      "gas:candidate-vibid:1001000195133": 8,
+      "special:against-all": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070882&region=0&sub_region=0&type=429",
@@ -213,14 +213,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 3,
-      "Казаков Виктор Алексеевич": 299,
-      "Каримов Ринат Рафаелович": 12,
-      "Ненашев Владимир Петрович": 10,
-      "Петриков Геннадий Петрович": 6,
-      "Романов Валентин Степанович": 185,
-      "Сучков Дмитрий Александрович": 6,
-      "Против всех": 45
+      "gas:candidate-vibid:263200070662": 3,
+      "gas:candidate-vibid:1001000225978": 299,
+      "gas:candidate-vibid:1001000202329": 12,
+      "gas:candidate-vibid:1001000113971": 10,
+      "gas:candidate-vibid:263200071570": 6,
+      "gas:candidate-vibid:1001000121900": 185,
+      "gas:candidate-vibid:1001000195133": 6,
+      "special:against-all": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070882&region=0&sub_region=0&type=429",
@@ -270,14 +270,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 3,
-      "Казаков Виктор Алексеевич": 316,
-      "Каримов Ринат Рафаелович": 10,
-      "Ненашев Владимир Петрович": 11,
-      "Петриков Геннадий Петрович": 12,
-      "Романов Валентин Степанович": 204,
-      "Сучков Дмитрий Александрович": 5,
-      "Против всех": 64
+      "gas:candidate-vibid:263200070662": 3,
+      "gas:candidate-vibid:1001000225978": 316,
+      "gas:candidate-vibid:1001000202329": 10,
+      "gas:candidate-vibid:1001000113971": 11,
+      "gas:candidate-vibid:263200071570": 12,
+      "gas:candidate-vibid:1001000121900": 204,
+      "gas:candidate-vibid:1001000195133": 5,
+      "special:against-all": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070882&region=0&sub_region=0&type=429",
@@ -327,14 +327,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 8,
-      "Казаков Виктор Алексеевич": 323,
-      "Каримов Ринат Рафаелович": 12,
-      "Ненашев Владимир Петрович": 11,
-      "Петриков Геннадий Петрович": 11,
-      "Романов Валентин Степанович": 316,
-      "Сучков Дмитрий Александрович": 5,
-      "Против всех": 100
+      "gas:candidate-vibid:263200070662": 8,
+      "gas:candidate-vibid:1001000225978": 323,
+      "gas:candidate-vibid:1001000202329": 12,
+      "gas:candidate-vibid:1001000113971": 11,
+      "gas:candidate-vibid:263200071570": 11,
+      "gas:candidate-vibid:1001000121900": 316,
+      "gas:candidate-vibid:1001000195133": 5,
+      "special:against-all": 100
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070882&region=0&sub_region=0&type=429",
@@ -384,14 +384,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 10,
-      "Казаков Виктор Алексеевич": 546,
-      "Каримов Ринат Рафаелович": 8,
-      "Ненашев Владимир Петрович": 17,
-      "Петриков Геннадий Петрович": 11,
-      "Романов Валентин Степанович": 288,
-      "Сучков Дмитрий Александрович": 7,
-      "Против всех": 173
+      "gas:candidate-vibid:263200070662": 10,
+      "gas:candidate-vibid:1001000225978": 546,
+      "gas:candidate-vibid:1001000202329": 8,
+      "gas:candidate-vibid:1001000113971": 17,
+      "gas:candidate-vibid:263200071570": 11,
+      "gas:candidate-vibid:1001000121900": 288,
+      "gas:candidate-vibid:1001000195133": 7,
+      "special:against-all": 173
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070882&region=0&sub_region=0&type=429",
@@ -441,14 +441,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 8,
-      "Казаков Виктор Алексеевич": 370,
-      "Каримов Ринат Рафаелович": 6,
-      "Ненашев Владимир Петрович": 15,
-      "Петриков Геннадий Петрович": 16,
-      "Романов Валентин Степанович": 310,
-      "Сучков Дмитрий Александрович": 8,
-      "Против всех": 82
+      "gas:candidate-vibid:263200070662": 8,
+      "gas:candidate-vibid:1001000225978": 370,
+      "gas:candidate-vibid:1001000202329": 6,
+      "gas:candidate-vibid:1001000113971": 15,
+      "gas:candidate-vibid:263200071570": 16,
+      "gas:candidate-vibid:1001000121900": 310,
+      "gas:candidate-vibid:1001000195133": 8,
+      "special:against-all": 82
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070882&region=0&sub_region=0&type=429",
@@ -498,14 +498,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 1,
-      "Казаков Виктор Алексеевич": 239,
-      "Каримов Ринат Рафаелович": 0,
-      "Ненашев Владимир Петрович": 7,
-      "Петриков Геннадий Петрович": 10,
-      "Романов Валентин Степанович": 170,
-      "Сучков Дмитрий Александрович": 1,
-      "Против всех": 47
+      "gas:candidate-vibid:263200070662": 1,
+      "gas:candidate-vibid:1001000225978": 239,
+      "gas:candidate-vibid:1001000202329": 0,
+      "gas:candidate-vibid:1001000113971": 7,
+      "gas:candidate-vibid:263200071570": 10,
+      "gas:candidate-vibid:1001000121900": 170,
+      "gas:candidate-vibid:1001000195133": 1,
+      "special:against-all": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070882&region=0&sub_region=0&type=429",
@@ -555,14 +555,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 9,
-      "Казаков Виктор Алексеевич": 383,
-      "Каримов Ринат Рафаелович": 3,
-      "Ненашев Владимир Петрович": 12,
-      "Петриков Геннадий Петрович": 4,
-      "Романов Валентин Степанович": 218,
-      "Сучков Дмитрий Александрович": 13,
-      "Против всех": 64
+      "gas:candidate-vibid:263200070662": 9,
+      "gas:candidate-vibid:1001000225978": 383,
+      "gas:candidate-vibid:1001000202329": 3,
+      "gas:candidate-vibid:1001000113971": 12,
+      "gas:candidate-vibid:263200071570": 4,
+      "gas:candidate-vibid:1001000121900": 218,
+      "gas:candidate-vibid:1001000195133": 13,
+      "special:against-all": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070882&region=0&sub_region=0&type=429",
@@ -612,14 +612,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 2,
-      "Казаков Виктор Алексеевич": 277,
-      "Каримов Ринат Рафаелович": 3,
-      "Ненашев Владимир Петрович": 14,
-      "Петриков Геннадий Петрович": 6,
-      "Романов Валентин Степанович": 153,
-      "Сучков Дмитрий Александрович": 5,
-      "Против всех": 47
+      "gas:candidate-vibid:263200070662": 2,
+      "gas:candidate-vibid:1001000225978": 277,
+      "gas:candidate-vibid:1001000202329": 3,
+      "gas:candidate-vibid:1001000113971": 14,
+      "gas:candidate-vibid:263200071570": 6,
+      "gas:candidate-vibid:1001000121900": 153,
+      "gas:candidate-vibid:1001000195133": 5,
+      "special:against-all": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070882&region=0&sub_region=0&type=429",
@@ -669,14 +669,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 1,
-      "Казаков Виктор Алексеевич": 192,
-      "Каримов Ринат Рафаелович": 7,
-      "Ненашев Владимир Петрович": 3,
-      "Петриков Геннадий Петрович": 3,
-      "Романов Валентин Степанович": 91,
-      "Сучков Дмитрий Александрович": 2,
-      "Против всех": 23
+      "gas:candidate-vibid:263200070662": 1,
+      "gas:candidate-vibid:1001000225978": 192,
+      "gas:candidate-vibid:1001000202329": 7,
+      "gas:candidate-vibid:1001000113971": 3,
+      "gas:candidate-vibid:263200071570": 3,
+      "gas:candidate-vibid:1001000121900": 91,
+      "gas:candidate-vibid:1001000195133": 2,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070882&region=0&sub_region=0&type=429",
@@ -726,14 +726,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 2,
-      "Казаков Виктор Алексеевич": 146,
-      "Каримов Ринат Рафаелович": 10,
-      "Ненашев Владимир Петрович": 4,
-      "Петриков Геннадий Петрович": 4,
-      "Романов Валентин Степанович": 112,
-      "Сучков Дмитрий Александрович": 4,
-      "Против всех": 37
+      "gas:candidate-vibid:263200070662": 2,
+      "gas:candidate-vibid:1001000225978": 146,
+      "gas:candidate-vibid:1001000202329": 10,
+      "gas:candidate-vibid:1001000113971": 4,
+      "gas:candidate-vibid:263200071570": 4,
+      "gas:candidate-vibid:1001000121900": 112,
+      "gas:candidate-vibid:1001000195133": 4,
+      "special:against-all": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070882&region=0&sub_region=0&type=429",
@@ -783,14 +783,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 7,
-      "Казаков Виктор Алексеевич": 272,
-      "Каримов Ринат Рафаелович": 3,
-      "Ненашев Владимир Петрович": 7,
-      "Петриков Геннадий Петрович": 2,
-      "Романов Валентин Степанович": 152,
-      "Сучков Дмитрий Александрович": 6,
-      "Против всех": 43
+      "gas:candidate-vibid:263200070662": 7,
+      "gas:candidate-vibid:1001000225978": 272,
+      "gas:candidate-vibid:1001000202329": 3,
+      "gas:candidate-vibid:1001000113971": 7,
+      "gas:candidate-vibid:263200071570": 2,
+      "gas:candidate-vibid:1001000121900": 152,
+      "gas:candidate-vibid:1001000195133": 6,
+      "special:against-all": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070882&region=0&sub_region=0&type=429",
@@ -840,14 +840,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 1,
-      "Казаков Виктор Алексеевич": 313,
-      "Каримов Ринат Рафаелович": 6,
-      "Ненашев Владимир Петрович": 7,
-      "Петриков Геннадий Петрович": 9,
-      "Романов Валентин Степанович": 161,
-      "Сучков Дмитрий Александрович": 10,
-      "Против всех": 54
+      "gas:candidate-vibid:263200070662": 1,
+      "gas:candidate-vibid:1001000225978": 313,
+      "gas:candidate-vibid:1001000202329": 6,
+      "gas:candidate-vibid:1001000113971": 7,
+      "gas:candidate-vibid:263200071570": 9,
+      "gas:candidate-vibid:1001000121900": 161,
+      "gas:candidate-vibid:1001000195133": 10,
+      "special:against-all": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070882&region=0&sub_region=0&type=429",
@@ -897,14 +897,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 5,
-      "Казаков Виктор Алексеевич": 410,
-      "Каримов Ринат Рафаелович": 4,
-      "Ненашев Владимир Петрович": 9,
-      "Петриков Геннадий Петрович": 12,
-      "Романов Валентин Степанович": 220,
-      "Сучков Дмитрий Александрович": 3,
-      "Против всех": 104
+      "gas:candidate-vibid:263200070662": 5,
+      "gas:candidate-vibid:1001000225978": 410,
+      "gas:candidate-vibid:1001000202329": 4,
+      "gas:candidate-vibid:1001000113971": 9,
+      "gas:candidate-vibid:263200071570": 12,
+      "gas:candidate-vibid:1001000121900": 220,
+      "gas:candidate-vibid:1001000195133": 3,
+      "special:against-all": 104
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070882&region=0&sub_region=0&type=429",
@@ -954,14 +954,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 0,
-      "Казаков Виктор Алексеевич": 90,
-      "Каримов Ринат Рафаелович": 2,
-      "Ненашев Владимир Петрович": 4,
-      "Петриков Геннадий Петрович": 4,
-      "Романов Валентин Степанович": 49,
-      "Сучков Дмитрий Александрович": 1,
-      "Против всех": 17
+      "gas:candidate-vibid:263200070662": 0,
+      "gas:candidate-vibid:1001000225978": 90,
+      "gas:candidate-vibid:1001000202329": 2,
+      "gas:candidate-vibid:1001000113971": 4,
+      "gas:candidate-vibid:263200071570": 4,
+      "gas:candidate-vibid:1001000121900": 49,
+      "gas:candidate-vibid:1001000195133": 1,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070882&region=0&sub_region=0&type=429",
@@ -1011,14 +1011,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 1,
-      "Казаков Виктор Алексеевич": 65,
-      "Каримов Ринат Рафаелович": 2,
-      "Ненашев Владимир Петрович": 4,
-      "Петриков Геннадий Петрович": 1,
-      "Романов Валентин Степанович": 75,
-      "Сучков Дмитрий Александрович": 1,
-      "Против всех": 19
+      "gas:candidate-vibid:263200070662": 1,
+      "gas:candidate-vibid:1001000225978": 65,
+      "gas:candidate-vibid:1001000202329": 2,
+      "gas:candidate-vibid:1001000113971": 4,
+      "gas:candidate-vibid:263200071570": 1,
+      "gas:candidate-vibid:1001000121900": 75,
+      "gas:candidate-vibid:1001000195133": 1,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070882&region=0&sub_region=0&type=429",
@@ -1068,14 +1068,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 3,
-      "Казаков Виктор Алексеевич": 96,
-      "Каримов Ринат Рафаелович": 3,
-      "Ненашев Владимир Петрович": 2,
-      "Петриков Геннадий Петрович": 0,
-      "Романов Валентин Степанович": 23,
-      "Сучков Дмитрий Александрович": 1,
-      "Против всех": 7
+      "gas:candidate-vibid:263200070662": 3,
+      "gas:candidate-vibid:1001000225978": 96,
+      "gas:candidate-vibid:1001000202329": 3,
+      "gas:candidate-vibid:1001000113971": 2,
+      "gas:candidate-vibid:263200071570": 0,
+      "gas:candidate-vibid:1001000121900": 23,
+      "gas:candidate-vibid:1001000195133": 1,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070882&region=0&sub_region=0&type=429",
@@ -1125,14 +1125,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 2,
-      "Казаков Виктор Алексеевич": 394,
-      "Каримов Ринат Рафаелович": 8,
-      "Ненашев Владимир Петрович": 15,
-      "Петриков Геннадий Петрович": 18,
-      "Романов Валентин Степанович": 288,
-      "Сучков Дмитрий Александрович": 12,
-      "Против всех": 89
+      "gas:candidate-vibid:263200070662": 2,
+      "gas:candidate-vibid:1001000225978": 394,
+      "gas:candidate-vibid:1001000202329": 8,
+      "gas:candidate-vibid:1001000113971": 15,
+      "gas:candidate-vibid:263200071570": 18,
+      "gas:candidate-vibid:1001000121900": 288,
+      "gas:candidate-vibid:1001000195133": 12,
+      "special:against-all": 89
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070882&region=0&sub_region=0&type=429",
@@ -1182,14 +1182,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 7,
-      "Казаков Виктор Алексеевич": 354,
-      "Каримов Ринат Рафаелович": 7,
-      "Ненашев Владимир Петрович": 19,
-      "Петриков Геннадий Петрович": 33,
-      "Романов Валентин Степанович": 240,
-      "Сучков Дмитрий Александрович": 9,
-      "Против всех": 79
+      "gas:candidate-vibid:263200070662": 7,
+      "gas:candidate-vibid:1001000225978": 354,
+      "gas:candidate-vibid:1001000202329": 7,
+      "gas:candidate-vibid:1001000113971": 19,
+      "gas:candidate-vibid:263200071570": 33,
+      "gas:candidate-vibid:1001000121900": 240,
+      "gas:candidate-vibid:1001000195133": 9,
+      "special:against-all": 79
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070882&region=0&sub_region=0&type=429",
@@ -1239,14 +1239,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 11,
-      "Казаков Виктор Алексеевич": 603,
-      "Каримов Ринат Рафаелович": 17,
-      "Ненашев Владимир Петрович": 19,
-      "Петриков Геннадий Петрович": 44,
-      "Романов Валентин Степанович": 259,
-      "Сучков Дмитрий Александрович": 16,
-      "Против всех": 184
+      "gas:candidate-vibid:263200070662": 11,
+      "gas:candidate-vibid:1001000225978": 603,
+      "gas:candidate-vibid:1001000202329": 17,
+      "gas:candidate-vibid:1001000113971": 19,
+      "gas:candidate-vibid:263200071570": 44,
+      "gas:candidate-vibid:1001000121900": 259,
+      "gas:candidate-vibid:1001000195133": 16,
+      "special:against-all": 184
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070882&region=0&sub_region=0&type=429",
@@ -1296,14 +1296,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 7,
-      "Казаков Виктор Алексеевич": 377,
-      "Каримов Ринат Рафаелович": 5,
-      "Ненашев Владимир Петрович": 14,
-      "Петриков Геннадий Петрович": 21,
-      "Романов Валентин Степанович": 265,
-      "Сучков Дмитрий Александрович": 9,
-      "Против всех": 89
+      "gas:candidate-vibid:263200070662": 7,
+      "gas:candidate-vibid:1001000225978": 377,
+      "gas:candidate-vibid:1001000202329": 5,
+      "gas:candidate-vibid:1001000113971": 14,
+      "gas:candidate-vibid:263200071570": 21,
+      "gas:candidate-vibid:1001000121900": 265,
+      "gas:candidate-vibid:1001000195133": 9,
+      "special:against-all": 89
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070882&region=0&sub_region=0&type=429",
@@ -1353,14 +1353,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 4,
-      "Казаков Виктор Алексеевич": 365,
-      "Каримов Ринат Рафаелович": 5,
-      "Ненашев Владимир Петрович": 13,
-      "Петриков Геннадий Петрович": 14,
-      "Романов Валентин Степанович": 136,
-      "Сучков Дмитрий Александрович": 6,
-      "Против всех": 53
+      "gas:candidate-vibid:263200070662": 4,
+      "gas:candidate-vibid:1001000225978": 365,
+      "gas:candidate-vibid:1001000202329": 5,
+      "gas:candidate-vibid:1001000113971": 13,
+      "gas:candidate-vibid:263200071570": 14,
+      "gas:candidate-vibid:1001000121900": 136,
+      "gas:candidate-vibid:1001000195133": 6,
+      "special:against-all": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070882&region=0&sub_region=0&type=429",
@@ -1410,14 +1410,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 1,
-      "Казаков Виктор Алексеевич": 383,
-      "Каримов Ринат Рафаелович": 6,
-      "Ненашев Владимир Петрович": 10,
-      "Петриков Геннадий Петрович": 20,
-      "Романов Валентин Степанович": 177,
-      "Сучков Дмитрий Александрович": 9,
-      "Против всех": 40
+      "gas:candidate-vibid:263200070662": 1,
+      "gas:candidate-vibid:1001000225978": 383,
+      "gas:candidate-vibid:1001000202329": 6,
+      "gas:candidate-vibid:1001000113971": 10,
+      "gas:candidate-vibid:263200071570": 20,
+      "gas:candidate-vibid:1001000121900": 177,
+      "gas:candidate-vibid:1001000195133": 9,
+      "special:against-all": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070882&region=0&sub_region=0&type=429",
@@ -1467,14 +1467,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 12,
-      "Казаков Виктор Алексеевич": 593,
-      "Каримов Ринат Рафаелович": 8,
-      "Ненашев Владимир Петрович": 8,
-      "Петриков Геннадий Петрович": 16,
-      "Романов Валентин Степанович": 255,
-      "Сучков Дмитрий Александрович": 12,
-      "Против всех": 85
+      "gas:candidate-vibid:263200070662": 12,
+      "gas:candidate-vibid:1001000225978": 593,
+      "gas:candidate-vibid:1001000202329": 8,
+      "gas:candidate-vibid:1001000113971": 8,
+      "gas:candidate-vibid:263200071570": 16,
+      "gas:candidate-vibid:1001000121900": 255,
+      "gas:candidate-vibid:1001000195133": 12,
+      "special:against-all": 85
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070882&region=0&sub_region=0&type=429",
@@ -1524,14 +1524,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 4,
-      "Казаков Виктор Алексеевич": 496,
-      "Каримов Ринат Рафаелович": 12,
-      "Ненашев Владимир Петрович": 16,
-      "Петриков Геннадий Петрович": 10,
-      "Романов Валентин Степанович": 221,
-      "Сучков Дмитрий Александрович": 15,
-      "Против всех": 111
+      "gas:candidate-vibid:263200070662": 4,
+      "gas:candidate-vibid:1001000225978": 496,
+      "gas:candidate-vibid:1001000202329": 12,
+      "gas:candidate-vibid:1001000113971": 16,
+      "gas:candidate-vibid:263200071570": 10,
+      "gas:candidate-vibid:1001000121900": 221,
+      "gas:candidate-vibid:1001000195133": 15,
+      "special:against-all": 111
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070882&region=0&sub_region=0&type=429",
@@ -1581,14 +1581,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 9,
-      "Казаков Виктор Алексеевич": 313,
-      "Каримов Ринат Рафаелович": 11,
-      "Ненашев Владимир Петрович": 4,
-      "Петриков Геннадий Петрович": 1,
-      "Романов Валентин Степанович": 152,
-      "Сучков Дмитрий Александрович": 4,
-      "Против всех": 24
+      "gas:candidate-vibid:263200070662": 9,
+      "gas:candidate-vibid:1001000225978": 313,
+      "gas:candidate-vibid:1001000202329": 11,
+      "gas:candidate-vibid:1001000113971": 4,
+      "gas:candidate-vibid:263200071570": 1,
+      "gas:candidate-vibid:1001000121900": 152,
+      "gas:candidate-vibid:1001000195133": 4,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070883&region=0&sub_region=0&type=429",
@@ -1638,14 +1638,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 7,
-      "Казаков Виктор Алексеевич": 326,
-      "Каримов Ринат Рафаелович": 12,
-      "Ненашев Владимир Петрович": 12,
-      "Петриков Геннадий Петрович": 14,
-      "Романов Валентин Степанович": 64,
-      "Сучков Дмитрий Александрович": 11,
-      "Против всех": 139
+      "gas:candidate-vibid:263200070662": 7,
+      "gas:candidate-vibid:1001000225978": 326,
+      "gas:candidate-vibid:1001000202329": 12,
+      "gas:candidate-vibid:1001000113971": 12,
+      "gas:candidate-vibid:263200071570": 14,
+      "gas:candidate-vibid:1001000121900": 64,
+      "gas:candidate-vibid:1001000195133": 11,
+      "special:against-all": 139
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070883&region=0&sub_region=0&type=429",
@@ -1695,14 +1695,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 2,
-      "Казаков Виктор Алексеевич": 472,
-      "Каримов Ринат Рафаелович": 14,
-      "Ненашев Владимир Петрович": 10,
-      "Петриков Геннадий Петрович": 8,
-      "Романов Валентин Степанович": 165,
-      "Сучков Дмитрий Александрович": 4,
-      "Против всех": 75
+      "gas:candidate-vibid:263200070662": 2,
+      "gas:candidate-vibid:1001000225978": 472,
+      "gas:candidate-vibid:1001000202329": 14,
+      "gas:candidate-vibid:1001000113971": 10,
+      "gas:candidate-vibid:263200071570": 8,
+      "gas:candidate-vibid:1001000121900": 165,
+      "gas:candidate-vibid:1001000195133": 4,
+      "special:against-all": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070883&region=0&sub_region=0&type=429",
@@ -1752,14 +1752,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 1,
-      "Казаков Виктор Алексеевич": 291,
-      "Каримов Ринат Рафаелович": 15,
-      "Ненашев Владимир Петрович": 12,
-      "Петриков Геннадий Петрович": 12,
-      "Романов Валентин Степанович": 218,
-      "Сучков Дмитрий Александрович": 2,
-      "Против всех": 38
+      "gas:candidate-vibid:263200070662": 1,
+      "gas:candidate-vibid:1001000225978": 291,
+      "gas:candidate-vibid:1001000202329": 15,
+      "gas:candidate-vibid:1001000113971": 12,
+      "gas:candidate-vibid:263200071570": 12,
+      "gas:candidate-vibid:1001000121900": 218,
+      "gas:candidate-vibid:1001000195133": 2,
+      "special:against-all": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070883&region=0&sub_region=0&type=429",
@@ -1809,14 +1809,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 3,
-      "Казаков Виктор Алексеевич": 101,
-      "Каримов Ринат Рафаелович": 20,
-      "Ненашев Владимир Петрович": 4,
-      "Петриков Геннадий Петрович": 0,
-      "Романов Валентин Степанович": 48,
-      "Сучков Дмитрий Александрович": 2,
-      "Против всех": 11
+      "gas:candidate-vibid:263200070662": 3,
+      "gas:candidate-vibid:1001000225978": 101,
+      "gas:candidate-vibid:1001000202329": 20,
+      "gas:candidate-vibid:1001000113971": 4,
+      "gas:candidate-vibid:263200071570": 0,
+      "gas:candidate-vibid:1001000121900": 48,
+      "gas:candidate-vibid:1001000195133": 2,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070883&region=0&sub_region=0&type=429",
@@ -1866,14 +1866,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 5,
-      "Казаков Виктор Алексеевич": 627,
-      "Каримов Ринат Рафаелович": 15,
-      "Ненашев Владимир Петрович": 6,
-      "Петриков Геннадий Петрович": 7,
-      "Романов Валентин Степанович": 386,
-      "Сучков Дмитрий Александрович": 9,
-      "Против всех": 78
+      "gas:candidate-vibid:263200070662": 5,
+      "gas:candidate-vibid:1001000225978": 627,
+      "gas:candidate-vibid:1001000202329": 15,
+      "gas:candidate-vibid:1001000113971": 6,
+      "gas:candidate-vibid:263200071570": 7,
+      "gas:candidate-vibid:1001000121900": 386,
+      "gas:candidate-vibid:1001000195133": 9,
+      "special:against-all": 78
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070883&region=0&sub_region=0&type=429",
@@ -1923,14 +1923,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 1,
-      "Казаков Виктор Алексеевич": 132,
-      "Каримов Ринат Рафаелович": 3,
-      "Ненашев Владимир Петрович": 7,
-      "Петриков Геннадий Петрович": 1,
-      "Романов Валентин Степанович": 52,
-      "Сучков Дмитрий Александрович": 2,
-      "Против всех": 6
+      "gas:candidate-vibid:263200070662": 1,
+      "gas:candidate-vibid:1001000225978": 132,
+      "gas:candidate-vibid:1001000202329": 3,
+      "gas:candidate-vibid:1001000113971": 7,
+      "gas:candidate-vibid:263200071570": 1,
+      "gas:candidate-vibid:1001000121900": 52,
+      "gas:candidate-vibid:1001000195133": 2,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070883&region=0&sub_region=0&type=429",
@@ -1980,14 +1980,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 4,
-      "Казаков Виктор Алексеевич": 61,
-      "Каримов Ринат Рафаелович": 2,
-      "Ненашев Владимир Петрович": 0,
-      "Петриков Геннадий Петрович": 0,
-      "Романов Валентин Степанович": 17,
-      "Сучков Дмитрий Александрович": 0,
-      "Против всех": 5
+      "gas:candidate-vibid:263200070662": 4,
+      "gas:candidate-vibid:1001000225978": 61,
+      "gas:candidate-vibid:1001000202329": 2,
+      "gas:candidate-vibid:1001000113971": 0,
+      "gas:candidate-vibid:263200071570": 0,
+      "gas:candidate-vibid:1001000121900": 17,
+      "gas:candidate-vibid:1001000195133": 0,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070883&region=0&sub_region=0&type=429",
@@ -2037,14 +2037,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 3,
-      "Казаков Виктор Алексеевич": 185,
-      "Каримов Ринат Рафаелович": 2,
-      "Ненашев Владимир Петрович": 4,
-      "Петриков Геннадий Петрович": 2,
-      "Романов Валентин Степанович": 114,
-      "Сучков Дмитрий Александрович": 1,
-      "Против всех": 13
+      "gas:candidate-vibid:263200070662": 3,
+      "gas:candidate-vibid:1001000225978": 185,
+      "gas:candidate-vibid:1001000202329": 2,
+      "gas:candidate-vibid:1001000113971": 4,
+      "gas:candidate-vibid:263200071570": 2,
+      "gas:candidate-vibid:1001000121900": 114,
+      "gas:candidate-vibid:1001000195133": 1,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070883&region=0&sub_region=0&type=429",
@@ -2094,14 +2094,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 1,
-      "Казаков Виктор Алексеевич": 31,
-      "Каримов Ринат Рафаелович": 0,
-      "Ненашев Владимир Петрович": 1,
-      "Петриков Геннадий Петрович": 1,
-      "Романов Валентин Степанович": 20,
-      "Сучков Дмитрий Александрович": 0,
-      "Против всех": 10
+      "gas:candidate-vibid:263200070662": 1,
+      "gas:candidate-vibid:1001000225978": 31,
+      "gas:candidate-vibid:1001000202329": 0,
+      "gas:candidate-vibid:1001000113971": 1,
+      "gas:candidate-vibid:263200071570": 1,
+      "gas:candidate-vibid:1001000121900": 20,
+      "gas:candidate-vibid:1001000195133": 0,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070883&region=0&sub_region=0&type=429",
@@ -2151,14 +2151,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 13,
-      "Казаков Виктор Алексеевич": 613,
-      "Каримов Ринат Рафаелович": 22,
-      "Ненашев Владимир Петрович": 15,
-      "Петриков Геннадий Петрович": 19,
-      "Романов Валентин Степанович": 245,
-      "Сучков Дмитрий Александрович": 7,
-      "Против всех": 70
+      "gas:candidate-vibid:263200070662": 13,
+      "gas:candidate-vibid:1001000225978": 613,
+      "gas:candidate-vibid:1001000202329": 22,
+      "gas:candidate-vibid:1001000113971": 15,
+      "gas:candidate-vibid:263200071570": 19,
+      "gas:candidate-vibid:1001000121900": 245,
+      "gas:candidate-vibid:1001000195133": 7,
+      "special:against-all": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070883&region=0&sub_region=0&type=429",
@@ -2208,14 +2208,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 4,
-      "Казаков Виктор Алексеевич": 137,
-      "Каримов Ринат Рафаелович": 4,
-      "Ненашев Владимир Петрович": 4,
-      "Петриков Геннадий Петрович": 6,
-      "Романов Валентин Степанович": 47,
-      "Сучков Дмитрий Александрович": 2,
-      "Против всех": 17
+      "gas:candidate-vibid:263200070662": 4,
+      "gas:candidate-vibid:1001000225978": 137,
+      "gas:candidate-vibid:1001000202329": 4,
+      "gas:candidate-vibid:1001000113971": 4,
+      "gas:candidate-vibid:263200071570": 6,
+      "gas:candidate-vibid:1001000121900": 47,
+      "gas:candidate-vibid:1001000195133": 2,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070883&region=0&sub_region=0&type=429",
@@ -2265,14 +2265,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 3,
-      "Казаков Виктор Алексеевич": 409,
-      "Каримов Ринат Рафаелович": 20,
-      "Ненашев Владимир Петрович": 11,
-      "Петриков Геннадий Петрович": 4,
-      "Романов Валентин Степанович": 162,
-      "Сучков Дмитрий Александрович": 10,
-      "Против всех": 51
+      "gas:candidate-vibid:263200070662": 3,
+      "gas:candidate-vibid:1001000225978": 409,
+      "gas:candidate-vibid:1001000202329": 20,
+      "gas:candidate-vibid:1001000113971": 11,
+      "gas:candidate-vibid:263200071570": 4,
+      "gas:candidate-vibid:1001000121900": 162,
+      "gas:candidate-vibid:1001000195133": 10,
+      "special:against-all": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070883&region=0&sub_region=0&type=429",
@@ -2322,14 +2322,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 0,
-      "Казаков Виктор Алексеевич": 110,
-      "Каримов Ринат Рафаелович": 3,
-      "Ненашев Владимир Петрович": 0,
-      "Петриков Геннадий Петрович": 1,
-      "Романов Валентин Степанович": 62,
-      "Сучков Дмитрий Александрович": 2,
-      "Против всех": 15
+      "gas:candidate-vibid:263200070662": 0,
+      "gas:candidate-vibid:1001000225978": 110,
+      "gas:candidate-vibid:1001000202329": 3,
+      "gas:candidate-vibid:1001000113971": 0,
+      "gas:candidate-vibid:263200071570": 1,
+      "gas:candidate-vibid:1001000121900": 62,
+      "gas:candidate-vibid:1001000195133": 2,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070883&region=0&sub_region=0&type=429",
@@ -2379,14 +2379,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 4,
-      "Казаков Виктор Алексеевич": 611,
-      "Каримов Ринат Рафаелович": 11,
-      "Ненашев Владимир Петрович": 8,
-      "Петриков Геннадий Петрович": 10,
-      "Романов Валентин Степанович": 455,
-      "Сучков Дмитрий Александрович": 14,
-      "Против всех": 83
+      "gas:candidate-vibid:263200070662": 4,
+      "gas:candidate-vibid:1001000225978": 611,
+      "gas:candidate-vibid:1001000202329": 11,
+      "gas:candidate-vibid:1001000113971": 8,
+      "gas:candidate-vibid:263200071570": 10,
+      "gas:candidate-vibid:1001000121900": 455,
+      "gas:candidate-vibid:1001000195133": 14,
+      "special:against-all": 83
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070883&region=0&sub_region=0&type=429",
@@ -2436,14 +2436,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 1,
-      "Казаков Виктор Алексеевич": 43,
-      "Каримов Ринат Рафаелович": 1,
-      "Ненашев Владимир Петрович": 0,
-      "Петриков Геннадий Петрович": 1,
-      "Романов Валентин Степанович": 29,
-      "Сучков Дмитрий Александрович": 2,
-      "Против всех": 10
+      "gas:candidate-vibid:263200070662": 1,
+      "gas:candidate-vibid:1001000225978": 43,
+      "gas:candidate-vibid:1001000202329": 1,
+      "gas:candidate-vibid:1001000113971": 0,
+      "gas:candidate-vibid:263200071570": 1,
+      "gas:candidate-vibid:1001000121900": 29,
+      "gas:candidate-vibid:1001000195133": 2,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070883&region=0&sub_region=0&type=429",
@@ -2493,14 +2493,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 3,
-      "Казаков Виктор Алексеевич": 98,
-      "Каримов Ринат Рафаелович": 0,
-      "Ненашев Владимир Петрович": 1,
-      "Петриков Геннадий Петрович": 1,
-      "Романов Валентин Степанович": 27,
-      "Сучков Дмитрий Александрович": 1,
-      "Против всех": 11
+      "gas:candidate-vibid:263200070662": 3,
+      "gas:candidate-vibid:1001000225978": 98,
+      "gas:candidate-vibid:1001000202329": 0,
+      "gas:candidate-vibid:1001000113971": 1,
+      "gas:candidate-vibid:263200071570": 1,
+      "gas:candidate-vibid:1001000121900": 27,
+      "gas:candidate-vibid:1001000195133": 1,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070883&region=0&sub_region=0&type=429",
@@ -2550,14 +2550,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 1,
-      "Казаков Виктор Алексеевич": 46,
-      "Каримов Ринат Рафаелович": 0,
-      "Ненашев Владимир Петрович": 0,
-      "Петриков Геннадий Петрович": 0,
-      "Романов Валентин Степанович": 29,
-      "Сучков Дмитрий Александрович": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:263200070662": 1,
+      "gas:candidate-vibid:1001000225978": 46,
+      "gas:candidate-vibid:1001000202329": 0,
+      "gas:candidate-vibid:1001000113971": 0,
+      "gas:candidate-vibid:263200071570": 0,
+      "gas:candidate-vibid:1001000121900": 29,
+      "gas:candidate-vibid:1001000195133": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070883&region=0&sub_region=0&type=429",
@@ -2607,14 +2607,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 3,
-      "Казаков Виктор Алексеевич": 698,
-      "Каримов Ринат Рафаелович": 9,
-      "Ненашев Владимир Петрович": 6,
-      "Петриков Геннадий Петрович": 0,
-      "Романов Валентин Степанович": 186,
-      "Сучков Дмитрий Александрович": 3,
-      "Против всех": 45
+      "gas:candidate-vibid:263200070662": 3,
+      "gas:candidate-vibid:1001000225978": 698,
+      "gas:candidate-vibid:1001000202329": 9,
+      "gas:candidate-vibid:1001000113971": 6,
+      "gas:candidate-vibid:263200071570": 0,
+      "gas:candidate-vibid:1001000121900": 186,
+      "gas:candidate-vibid:1001000195133": 3,
+      "special:against-all": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070883&region=0&sub_region=0&type=429",
@@ -2664,14 +2664,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 6,
-      "Казаков Виктор Алексеевич": 925,
-      "Каримов Ринат Рафаелович": 15,
-      "Ненашев Владимир Петрович": 14,
-      "Петриков Геннадий Петрович": 13,
-      "Романов Валентин Степанович": 228,
-      "Сучков Дмитрий Александрович": 7,
-      "Против всех": 95
+      "gas:candidate-vibid:263200070662": 6,
+      "gas:candidate-vibid:1001000225978": 925,
+      "gas:candidate-vibid:1001000202329": 15,
+      "gas:candidate-vibid:1001000113971": 14,
+      "gas:candidate-vibid:263200071570": 13,
+      "gas:candidate-vibid:1001000121900": 228,
+      "gas:candidate-vibid:1001000195133": 7,
+      "special:against-all": 95
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070883&region=0&sub_region=0&type=429",
@@ -2721,14 +2721,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 7,
-      "Казаков Виктор Алексеевич": 273,
-      "Каримов Ринат Рафаелович": 5,
-      "Ненашев Владимир Петрович": 1,
-      "Петриков Геннадий Петрович": 4,
-      "Романов Валентин Степанович": 264,
-      "Сучков Дмитрий Александрович": 4,
-      "Против всех": 43
+      "gas:candidate-vibid:263200070662": 7,
+      "gas:candidate-vibid:1001000225978": 273,
+      "gas:candidate-vibid:1001000202329": 5,
+      "gas:candidate-vibid:1001000113971": 1,
+      "gas:candidate-vibid:263200071570": 4,
+      "gas:candidate-vibid:1001000121900": 264,
+      "gas:candidate-vibid:1001000195133": 4,
+      "special:against-all": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070883&region=0&sub_region=0&type=429",
@@ -2778,14 +2778,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 2,
-      "Казаков Виктор Алексеевич": 198,
-      "Каримов Ринат Рафаелович": 6,
-      "Ненашев Владимир Петрович": 6,
-      "Петриков Геннадий Петрович": 7,
-      "Романов Валентин Степанович": 103,
-      "Сучков Дмитрий Александрович": 3,
-      "Против всех": 20
+      "gas:candidate-vibid:263200070662": 2,
+      "gas:candidate-vibid:1001000225978": 198,
+      "gas:candidate-vibid:1001000202329": 6,
+      "gas:candidate-vibid:1001000113971": 6,
+      "gas:candidate-vibid:263200071570": 7,
+      "gas:candidate-vibid:1001000121900": 103,
+      "gas:candidate-vibid:1001000195133": 3,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070883&region=0&sub_region=0&type=429",
@@ -2835,14 +2835,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 2,
-      "Казаков Виктор Алексеевич": 235,
-      "Каримов Ринат Рафаелович": 3,
-      "Ненашев Владимир Петрович": 5,
-      "Петриков Геннадий Петрович": 3,
-      "Романов Валентин Степанович": 81,
-      "Сучков Дмитрий Александрович": 0,
-      "Против всех": 24
+      "gas:candidate-vibid:263200070662": 2,
+      "gas:candidate-vibid:1001000225978": 235,
+      "gas:candidate-vibid:1001000202329": 3,
+      "gas:candidate-vibid:1001000113971": 5,
+      "gas:candidate-vibid:263200071570": 3,
+      "gas:candidate-vibid:1001000121900": 81,
+      "gas:candidate-vibid:1001000195133": 0,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070883&region=0&sub_region=0&type=429",
@@ -2892,14 +2892,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 5,
-      "Казаков Виктор Алексеевич": 618,
-      "Каримов Ринат Рафаелович": 4,
-      "Ненашев Владимир Петрович": 2,
-      "Петриков Геннадий Петрович": 4,
-      "Романов Валентин Степанович": 230,
-      "Сучков Дмитрий Александрович": 2,
-      "Против всех": 53
+      "gas:candidate-vibid:263200070662": 5,
+      "gas:candidate-vibid:1001000225978": 618,
+      "gas:candidate-vibid:1001000202329": 4,
+      "gas:candidate-vibid:1001000113971": 2,
+      "gas:candidate-vibid:263200071570": 4,
+      "gas:candidate-vibid:1001000121900": 230,
+      "gas:candidate-vibid:1001000195133": 2,
+      "special:against-all": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070883&region=0&sub_region=0&type=429",
@@ -2949,14 +2949,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 4,
-      "Казаков Виктор Алексеевич": 214,
-      "Каримов Ринат Рафаелович": 6,
-      "Ненашев Владимир Петрович": 6,
-      "Петриков Геннадий Петрович": 4,
-      "Романов Валентин Степанович": 120,
-      "Сучков Дмитрий Александрович": 4,
-      "Против всех": 20
+      "gas:candidate-vibid:263200070662": 4,
+      "gas:candidate-vibid:1001000225978": 214,
+      "gas:candidate-vibid:1001000202329": 6,
+      "gas:candidate-vibid:1001000113971": 6,
+      "gas:candidate-vibid:263200071570": 4,
+      "gas:candidate-vibid:1001000121900": 120,
+      "gas:candidate-vibid:1001000195133": 4,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070883&region=0&sub_region=0&type=429",
@@ -3006,14 +3006,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 2,
-      "Казаков Виктор Алексеевич": 335,
-      "Каримов Ринат Рафаелович": 10,
-      "Ненашев Владимир Петрович": 3,
-      "Петриков Геннадий Петрович": 6,
-      "Романов Валентин Степанович": 140,
-      "Сучков Дмитрий Александрович": 1,
-      "Против всех": 26
+      "gas:candidate-vibid:263200070662": 2,
+      "gas:candidate-vibid:1001000225978": 335,
+      "gas:candidate-vibid:1001000202329": 10,
+      "gas:candidate-vibid:1001000113971": 3,
+      "gas:candidate-vibid:263200071570": 6,
+      "gas:candidate-vibid:1001000121900": 140,
+      "gas:candidate-vibid:1001000195133": 1,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070884&region=0&sub_region=0&type=429",
@@ -3063,14 +3063,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 1,
-      "Казаков Виктор Алексеевич": 55,
-      "Каримов Ринат Рафаелович": 1,
-      "Ненашев Владимир Петрович": 0,
-      "Петриков Геннадий Петрович": 0,
-      "Романов Валентин Степанович": 26,
-      "Сучков Дмитрий Александрович": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:263200070662": 1,
+      "gas:candidate-vibid:1001000225978": 55,
+      "gas:candidate-vibid:1001000202329": 1,
+      "gas:candidate-vibid:1001000113971": 0,
+      "gas:candidate-vibid:263200071570": 0,
+      "gas:candidate-vibid:1001000121900": 26,
+      "gas:candidate-vibid:1001000195133": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070884&region=0&sub_region=0&type=429",
@@ -3120,14 +3120,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 2
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 7,
-      "Казаков Виктор Алексеевич": 320,
-      "Каримов Ринат Рафаелович": 16,
-      "Ненашев Владимир Петрович": 9,
-      "Петриков Геннадий Петрович": 22,
-      "Романов Валентин Степанович": 340,
-      "Сучков Дмитрий Александрович": 8,
-      "Против всех": 59
+      "gas:candidate-vibid:263200070662": 7,
+      "gas:candidate-vibid:1001000225978": 320,
+      "gas:candidate-vibid:1001000202329": 16,
+      "gas:candidate-vibid:1001000113971": 9,
+      "gas:candidate-vibid:263200071570": 22,
+      "gas:candidate-vibid:1001000121900": 340,
+      "gas:candidate-vibid:1001000195133": 8,
+      "special:against-all": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070884&region=0&sub_region=0&type=429",
@@ -3177,14 +3177,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 0,
-      "Казаков Виктор Алексеевич": 85,
-      "Каримов Ринат Рафаелович": 2,
-      "Ненашев Владимир Петрович": 1,
-      "Петриков Геннадий Петрович": 3,
-      "Романов Валентин Степанович": 22,
-      "Сучков Дмитрий Александрович": 1,
-      "Против всех": 1
+      "gas:candidate-vibid:263200070662": 0,
+      "gas:candidate-vibid:1001000225978": 85,
+      "gas:candidate-vibid:1001000202329": 2,
+      "gas:candidate-vibid:1001000113971": 1,
+      "gas:candidate-vibid:263200071570": 3,
+      "gas:candidate-vibid:1001000121900": 22,
+      "gas:candidate-vibid:1001000195133": 1,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070884&region=0&sub_region=0&type=429",
@@ -3234,14 +3234,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 2,
-      "Казаков Виктор Алексеевич": 367,
-      "Каримов Ринат Рафаелович": 0,
-      "Ненашев Владимир Петрович": 1,
-      "Петриков Геннадий Петрович": 3,
-      "Романов Валентин Степанович": 65,
-      "Сучков Дмитрий Александрович": 4,
-      "Против всех": 20
+      "gas:candidate-vibid:263200070662": 2,
+      "gas:candidate-vibid:1001000225978": 367,
+      "gas:candidate-vibid:1001000202329": 0,
+      "gas:candidate-vibid:1001000113971": 1,
+      "gas:candidate-vibid:263200071570": 3,
+      "gas:candidate-vibid:1001000121900": 65,
+      "gas:candidate-vibid:1001000195133": 4,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070884&region=0&sub_region=0&type=429",
@@ -3291,14 +3291,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 2,
-      "Казаков Виктор Алексеевич": 189,
-      "Каримов Ринат Рафаелович": 8,
-      "Ненашев Владимир Петрович": 0,
-      "Петриков Геннадий Петрович": 11,
-      "Романов Валентин Степанович": 93,
-      "Сучков Дмитрий Александрович": 2,
-      "Против всех": 16
+      "gas:candidate-vibid:263200070662": 2,
+      "gas:candidate-vibid:1001000225978": 189,
+      "gas:candidate-vibid:1001000202329": 8,
+      "gas:candidate-vibid:1001000113971": 0,
+      "gas:candidate-vibid:263200071570": 11,
+      "gas:candidate-vibid:1001000121900": 93,
+      "gas:candidate-vibid:1001000195133": 2,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070884&region=0&sub_region=0&type=429",
@@ -3348,14 +3348,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 1,
-      "Казаков Виктор Алексеевич": 65,
-      "Каримов Ринат Рафаелович": 1,
-      "Ненашев Владимир Петрович": 0,
-      "Петриков Геннадий Петрович": 0,
-      "Романов Валентин Степанович": 8,
-      "Сучков Дмитрий Александрович": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:263200070662": 1,
+      "gas:candidate-vibid:1001000225978": 65,
+      "gas:candidate-vibid:1001000202329": 1,
+      "gas:candidate-vibid:1001000113971": 0,
+      "gas:candidate-vibid:263200071570": 0,
+      "gas:candidate-vibid:1001000121900": 8,
+      "gas:candidate-vibid:1001000195133": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070884&region=0&sub_region=0&type=429",
@@ -3405,14 +3405,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 4,
-      "Казаков Виктор Алексеевич": 192,
-      "Каримов Ринат Рафаелович": 6,
-      "Ненашев Владимир Петрович": 6,
-      "Петриков Геннадий Петрович": 18,
-      "Романов Валентин Степанович": 54,
-      "Сучков Дмитрий Александрович": 3,
-      "Против всех": 24
+      "gas:candidate-vibid:263200070662": 4,
+      "gas:candidate-vibid:1001000225978": 192,
+      "gas:candidate-vibid:1001000202329": 6,
+      "gas:candidate-vibid:1001000113971": 6,
+      "gas:candidate-vibid:263200071570": 18,
+      "gas:candidate-vibid:1001000121900": 54,
+      "gas:candidate-vibid:1001000195133": 3,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070884&region=0&sub_region=0&type=429",
@@ -3462,14 +3462,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 2,
-      "Казаков Виктор Алексеевич": 150,
-      "Каримов Ринат Рафаелович": 0,
-      "Ненашев Владимир Петрович": 2,
-      "Петриков Геннадий Петрович": 4,
-      "Романов Валентин Степанович": 21,
-      "Сучков Дмитрий Александрович": 1,
-      "Против всех": 7
+      "gas:candidate-vibid:263200070662": 2,
+      "gas:candidate-vibid:1001000225978": 150,
+      "gas:candidate-vibid:1001000202329": 0,
+      "gas:candidate-vibid:1001000113971": 2,
+      "gas:candidate-vibid:263200071570": 4,
+      "gas:candidate-vibid:1001000121900": 21,
+      "gas:candidate-vibid:1001000195133": 1,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070884&region=0&sub_region=0&type=429",
@@ -3519,14 +3519,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 3,
-      "Казаков Виктор Алексеевич": 399,
-      "Каримов Ринат Рафаелович": 2,
-      "Ненашев Владимир Петрович": 7,
-      "Петриков Геннадий Петрович": 14,
-      "Романов Валентин Степанович": 217,
-      "Сучков Дмитрий Александрович": 8,
-      "Против всех": 62
+      "gas:candidate-vibid:263200070662": 3,
+      "gas:candidate-vibid:1001000225978": 399,
+      "gas:candidate-vibid:1001000202329": 2,
+      "gas:candidate-vibid:1001000113971": 7,
+      "gas:candidate-vibid:263200071570": 14,
+      "gas:candidate-vibid:1001000121900": 217,
+      "gas:candidate-vibid:1001000195133": 8,
+      "special:against-all": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070884&region=0&sub_region=0&type=429",
@@ -3576,14 +3576,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 2,
-      "Казаков Виктор Алексеевич": 238,
-      "Каримов Ринат Рафаелович": 6,
-      "Ненашев Владимир Петрович": 2,
-      "Петриков Геннадий Петрович": 10,
-      "Романов Валентин Степанович": 99,
-      "Сучков Дмитрий Александрович": 7,
-      "Против всех": 26
+      "gas:candidate-vibid:263200070662": 2,
+      "gas:candidate-vibid:1001000225978": 238,
+      "gas:candidate-vibid:1001000202329": 6,
+      "gas:candidate-vibid:1001000113971": 2,
+      "gas:candidate-vibid:263200071570": 10,
+      "gas:candidate-vibid:1001000121900": 99,
+      "gas:candidate-vibid:1001000195133": 7,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070884&region=0&sub_region=0&type=429",
@@ -3633,14 +3633,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 5,
-      "Казаков Виктор Алексеевич": 331,
-      "Каримов Ринат Рафаелович": 4,
-      "Ненашев Владимир Петрович": 8,
-      "Петриков Геннадий Петрович": 7,
-      "Романов Валентин Степанович": 161,
-      "Сучков Дмитрий Александрович": 6,
-      "Против всех": 20
+      "gas:candidate-vibid:263200070662": 5,
+      "gas:candidate-vibid:1001000225978": 331,
+      "gas:candidate-vibid:1001000202329": 4,
+      "gas:candidate-vibid:1001000113971": 8,
+      "gas:candidate-vibid:263200071570": 7,
+      "gas:candidate-vibid:1001000121900": 161,
+      "gas:candidate-vibid:1001000195133": 6,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070884&region=0&sub_region=0&type=429",
@@ -3690,14 +3690,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 1,
-      "Казаков Виктор Алексеевич": 333,
-      "Каримов Ринат Рафаелович": 6,
-      "Ненашев Владимир Петрович": 6,
-      "Петриков Геннадий Петрович": 11,
-      "Романов Валентин Степанович": 180,
-      "Сучков Дмитрий Александрович": 4,
-      "Против всех": 27
+      "gas:candidate-vibid:263200070662": 1,
+      "gas:candidate-vibid:1001000225978": 333,
+      "gas:candidate-vibid:1001000202329": 6,
+      "gas:candidate-vibid:1001000113971": 6,
+      "gas:candidate-vibid:263200071570": 11,
+      "gas:candidate-vibid:1001000121900": 180,
+      "gas:candidate-vibid:1001000195133": 4,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070884&region=0&sub_region=0&type=429",
@@ -3747,14 +3747,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 7,
-      "Казаков Виктор Алексеевич": 264,
-      "Каримов Ринат Рафаелович": 4,
-      "Ненашев Владимир Петрович": 5,
-      "Петриков Геннадий Петрович": 11,
-      "Романов Валентин Степанович": 108,
-      "Сучков Дмитрий Александрович": 2,
-      "Против всех": 36
+      "gas:candidate-vibid:263200070662": 7,
+      "gas:candidate-vibid:1001000225978": 264,
+      "gas:candidate-vibid:1001000202329": 4,
+      "gas:candidate-vibid:1001000113971": 5,
+      "gas:candidate-vibid:263200071570": 11,
+      "gas:candidate-vibid:1001000121900": 108,
+      "gas:candidate-vibid:1001000195133": 2,
+      "special:against-all": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070884&region=0&sub_region=0&type=429",
@@ -3804,14 +3804,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 1
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 3,
-      "Казаков Виктор Алексеевич": 159,
-      "Каримов Ринат Рафаелович": 1,
-      "Ненашев Владимир Петрович": 6,
-      "Петриков Геннадий Петрович": 2,
-      "Романов Валентин Степанович": 64,
-      "Сучков Дмитрий Александрович": 4,
-      "Против всех": 19
+      "gas:candidate-vibid:263200070662": 3,
+      "gas:candidate-vibid:1001000225978": 159,
+      "gas:candidate-vibid:1001000202329": 1,
+      "gas:candidate-vibid:1001000113971": 6,
+      "gas:candidate-vibid:263200071570": 2,
+      "gas:candidate-vibid:1001000121900": 64,
+      "gas:candidate-vibid:1001000195133": 4,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070884&region=0&sub_region=0&type=429",
@@ -3861,14 +3861,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 6,
-      "Казаков Виктор Алексеевич": 512,
-      "Каримов Ринат Рафаелович": 8,
-      "Ненашев Владимир Петрович": 16,
-      "Петриков Геннадий Петрович": 16,
-      "Романов Валентин Степанович": 137,
-      "Сучков Дмитрий Александрович": 5,
-      "Против всех": 90
+      "gas:candidate-vibid:263200070662": 6,
+      "gas:candidate-vibid:1001000225978": 512,
+      "gas:candidate-vibid:1001000202329": 8,
+      "gas:candidate-vibid:1001000113971": 16,
+      "gas:candidate-vibid:263200071570": 16,
+      "gas:candidate-vibid:1001000121900": 137,
+      "gas:candidate-vibid:1001000195133": 5,
+      "special:against-all": 90
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070884&region=0&sub_region=0&type=429",
@@ -3918,14 +3918,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 7,
-      "Казаков Виктор Алексеевич": 540,
-      "Каримов Ринат Рафаелович": 10,
-      "Ненашев Владимир Петрович": 12,
-      "Петриков Геннадий Петрович": 22,
-      "Романов Валентин Степанович": 232,
-      "Сучков Дмитрий Александрович": 12,
-      "Против всех": 96
+      "gas:candidate-vibid:263200070662": 7,
+      "gas:candidate-vibid:1001000225978": 540,
+      "gas:candidate-vibid:1001000202329": 10,
+      "gas:candidate-vibid:1001000113971": 12,
+      "gas:candidate-vibid:263200071570": 22,
+      "gas:candidate-vibid:1001000121900": 232,
+      "gas:candidate-vibid:1001000195133": 12,
+      "special:against-all": 96
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070884&region=0&sub_region=0&type=429",
@@ -3975,14 +3975,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 4,
-      "Казаков Виктор Алексеевич": 386,
-      "Каримов Ринат Рафаелович": 4,
-      "Ненашев Владимир Петрович": 13,
-      "Петриков Геннадий Петрович": 10,
-      "Романов Валентин Степанович": 136,
-      "Сучков Дмитрий Александрович": 9,
-      "Против всех": 52
+      "gas:candidate-vibid:263200070662": 4,
+      "gas:candidate-vibid:1001000225978": 386,
+      "gas:candidate-vibid:1001000202329": 4,
+      "gas:candidate-vibid:1001000113971": 13,
+      "gas:candidate-vibid:263200071570": 10,
+      "gas:candidate-vibid:1001000121900": 136,
+      "gas:candidate-vibid:1001000195133": 9,
+      "special:against-all": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070884&region=0&sub_region=0&type=429",
@@ -4032,14 +4032,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 2,
-      "Казаков Виктор Алексеевич": 401,
-      "Каримов Ринат Рафаелович": 2,
-      "Ненашев Владимир Петрович": 8,
-      "Петриков Геннадий Петрович": 8,
-      "Романов Валентин Степанович": 161,
-      "Сучков Дмитрий Александрович": 7,
-      "Против всех": 63
+      "gas:candidate-vibid:263200070662": 2,
+      "gas:candidate-vibid:1001000225978": 401,
+      "gas:candidate-vibid:1001000202329": 2,
+      "gas:candidate-vibid:1001000113971": 8,
+      "gas:candidate-vibid:263200071570": 8,
+      "gas:candidate-vibid:1001000121900": 161,
+      "gas:candidate-vibid:1001000195133": 7,
+      "special:against-all": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070884&region=0&sub_region=0&type=429",
@@ -4089,14 +4089,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 7,
-      "Казаков Виктор Алексеевич": 649,
-      "Каримов Ринат Рафаелович": 11,
-      "Ненашев Владимир Петрович": 9,
-      "Петриков Геннадий Петрович": 26,
-      "Романов Валентин Степанович": 202,
-      "Сучков Дмитрий Александрович": 16,
-      "Против всех": 75
+      "gas:candidate-vibid:263200070662": 7,
+      "gas:candidate-vibid:1001000225978": 649,
+      "gas:candidate-vibid:1001000202329": 11,
+      "gas:candidate-vibid:1001000113971": 9,
+      "gas:candidate-vibid:263200071570": 26,
+      "gas:candidate-vibid:1001000121900": 202,
+      "gas:candidate-vibid:1001000195133": 16,
+      "special:against-all": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070884&region=0&sub_region=0&type=429",
@@ -4146,14 +4146,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 19,
-      "Казаков Виктор Алексеевич": 634,
-      "Каримов Ринат Рафаелович": 14,
-      "Ненашев Владимир Петрович": 11,
-      "Петриков Геннадий Петрович": 27,
-      "Романов Валентин Степанович": 120,
-      "Сучков Дмитрий Александрович": 24,
-      "Против всех": 204
+      "gas:candidate-vibid:263200070662": 19,
+      "gas:candidate-vibid:1001000225978": 634,
+      "gas:candidate-vibid:1001000202329": 14,
+      "gas:candidate-vibid:1001000113971": 11,
+      "gas:candidate-vibid:263200071570": 27,
+      "gas:candidate-vibid:1001000121900": 120,
+      "gas:candidate-vibid:1001000195133": 24,
+      "special:against-all": 204
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070884&region=0&sub_region=0&type=429",
@@ -4203,14 +4203,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 1,
-      "Казаков Виктор Алексеевич": 58,
-      "Каримов Ринат Рафаелович": 0,
-      "Ненашев Владимир Петрович": 1,
-      "Петриков Геннадий Петрович": 0,
-      "Романов Валентин Степанович": 31,
-      "Сучков Дмитрий Александрович": 1,
-      "Против всех": 6
+      "gas:candidate-vibid:263200070662": 1,
+      "gas:candidate-vibid:1001000225978": 58,
+      "gas:candidate-vibid:1001000202329": 0,
+      "gas:candidate-vibid:1001000113971": 1,
+      "gas:candidate-vibid:263200071570": 0,
+      "gas:candidate-vibid:1001000121900": 31,
+      "gas:candidate-vibid:1001000195133": 1,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070884&region=0&sub_region=0&type=429",
@@ -4260,14 +4260,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 1,
-      "Казаков Виктор Алексеевич": 469,
-      "Каримов Ринат Рафаелович": 8,
-      "Ненашев Владимир Петрович": 0,
-      "Петриков Геннадий Петрович": 1,
-      "Романов Валентин Степанович": 102,
-      "Сучков Дмитрий Александрович": 1,
-      "Против всех": 17
+      "gas:candidate-vibid:263200070662": 1,
+      "gas:candidate-vibid:1001000225978": 469,
+      "gas:candidate-vibid:1001000202329": 8,
+      "gas:candidate-vibid:1001000113971": 0,
+      "gas:candidate-vibid:263200071570": 1,
+      "gas:candidate-vibid:1001000121900": 102,
+      "gas:candidate-vibid:1001000195133": 1,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070884&region=0&sub_region=0&type=429",
@@ -4317,14 +4317,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 0,
-      "Казаков Виктор Алексеевич": 145,
-      "Каримов Ринат Рафаелович": 4,
-      "Ненашев Владимир Петрович": 2,
-      "Петриков Геннадий Петрович": 2,
-      "Романов Валентин Степанович": 54,
-      "Сучков Дмитрий Александрович": 1,
-      "Против всех": 15
+      "gas:candidate-vibid:263200070662": 0,
+      "gas:candidate-vibid:1001000225978": 145,
+      "gas:candidate-vibid:1001000202329": 4,
+      "gas:candidate-vibid:1001000113971": 2,
+      "gas:candidate-vibid:263200071570": 2,
+      "gas:candidate-vibid:1001000121900": 54,
+      "gas:candidate-vibid:1001000195133": 1,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070884&region=0&sub_region=0&type=429",
@@ -4374,14 +4374,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 4,
-      "Казаков Виктор Алексеевич": 230,
-      "Каримов Ринат Рафаелович": 1,
-      "Ненашев Владимир Петрович": 3,
-      "Петриков Геннадий Петрович": 11,
-      "Романов Валентин Степанович": 89,
-      "Сучков Дмитрий Александрович": 2,
-      "Против всех": 13
+      "gas:candidate-vibid:263200070662": 4,
+      "gas:candidate-vibid:1001000225978": 230,
+      "gas:candidate-vibid:1001000202329": 1,
+      "gas:candidate-vibid:1001000113971": 3,
+      "gas:candidate-vibid:263200071570": 11,
+      "gas:candidate-vibid:1001000121900": 89,
+      "gas:candidate-vibid:1001000195133": 2,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070884&region=0&sub_region=0&type=429",
@@ -4431,14 +4431,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 1,
-      "Казаков Виктор Алексеевич": 468,
-      "Каримов Ринат Рафаелович": 9,
-      "Ненашев Владимир Петрович": 4,
-      "Петриков Геннадий Петрович": 14,
-      "Романов Валентин Степанович": 250,
-      "Сучков Дмитрий Александрович": 4,
-      "Против всех": 37
+      "gas:candidate-vibid:263200070662": 1,
+      "gas:candidate-vibid:1001000225978": 468,
+      "gas:candidate-vibid:1001000202329": 9,
+      "gas:candidate-vibid:1001000113971": 4,
+      "gas:candidate-vibid:263200071570": 14,
+      "gas:candidate-vibid:1001000121900": 250,
+      "gas:candidate-vibid:1001000195133": 4,
+      "special:against-all": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070884&region=0&sub_region=0&type=429",
@@ -4488,14 +4488,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 6,
-      "Казаков Виктор Алексеевич": 296,
-      "Каримов Ринат Рафаелович": 5,
-      "Ненашев Владимир Петрович": 10,
-      "Петриков Геннадий Петрович": 10,
-      "Романов Валентин Степанович": 226,
-      "Сучков Дмитрий Александрович": 9,
-      "Против всех": 58
+      "gas:candidate-vibid:263200070662": 6,
+      "gas:candidate-vibid:1001000225978": 296,
+      "gas:candidate-vibid:1001000202329": 5,
+      "gas:candidate-vibid:1001000113971": 10,
+      "gas:candidate-vibid:263200071570": 10,
+      "gas:candidate-vibid:1001000121900": 226,
+      "gas:candidate-vibid:1001000195133": 9,
+      "special:against-all": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070884&region=0&sub_region=0&type=429",
@@ -4545,14 +4545,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 4,
-      "Казаков Виктор Алексеевич": 433,
-      "Каримов Ринат Рафаелович": 14,
-      "Ненашев Владимир Петрович": 12,
-      "Петриков Геннадий Петрович": 10,
-      "Романов Валентин Степанович": 236,
-      "Сучков Дмитрий Александрович": 2,
-      "Против всех": 59
+      "gas:candidate-vibid:263200070662": 4,
+      "gas:candidate-vibid:1001000225978": 433,
+      "gas:candidate-vibid:1001000202329": 14,
+      "gas:candidate-vibid:1001000113971": 12,
+      "gas:candidate-vibid:263200071570": 10,
+      "gas:candidate-vibid:1001000121900": 236,
+      "gas:candidate-vibid:1001000195133": 2,
+      "special:against-all": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070884&region=0&sub_region=0&type=429",
@@ -4602,14 +4602,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 9,
-      "Казаков Виктор Алексеевич": 364,
-      "Каримов Ринат Рафаелович": 13,
-      "Ненашев Владимир Петрович": 10,
-      "Петриков Геннадий Петрович": 25,
-      "Романов Валентин Степанович": 153,
-      "Сучков Дмитрий Александрович": 6,
-      "Против всех": 84
+      "gas:candidate-vibid:263200070662": 9,
+      "gas:candidate-vibid:1001000225978": 364,
+      "gas:candidate-vibid:1001000202329": 13,
+      "gas:candidate-vibid:1001000113971": 10,
+      "gas:candidate-vibid:263200071570": 25,
+      "gas:candidate-vibid:1001000121900": 153,
+      "gas:candidate-vibid:1001000195133": 6,
+      "special:against-all": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070884&region=0&sub_region=0&type=429",
@@ -4659,14 +4659,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 2,
-      "Казаков Виктор Алексеевич": 193,
-      "Каримов Ринат Рафаелович": 5,
-      "Ненашев Владимир Петрович": 1,
-      "Петриков Геннадий Петрович": 5,
-      "Романов Валентин Степанович": 41,
-      "Сучков Дмитрий Александрович": 0,
-      "Против всех": 18
+      "gas:candidate-vibid:263200070662": 2,
+      "gas:candidate-vibid:1001000225978": 193,
+      "gas:candidate-vibid:1001000202329": 5,
+      "gas:candidate-vibid:1001000113971": 1,
+      "gas:candidate-vibid:263200071570": 5,
+      "gas:candidate-vibid:1001000121900": 41,
+      "gas:candidate-vibid:1001000195133": 0,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070884&region=0&sub_region=0&type=429",
@@ -4716,14 +4716,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 2,
-      "Казаков Виктор Алексеевич": 259,
-      "Каримов Ринат Рафаелович": 1,
-      "Ненашев Владимир Петрович": 1,
-      "Петриков Геннадий Петрович": 3,
-      "Романов Валентин Степанович": 69,
-      "Сучков Дмитрий Александрович": 2,
-      "Против всех": 28
+      "gas:candidate-vibid:263200070662": 2,
+      "gas:candidate-vibid:1001000225978": 259,
+      "gas:candidate-vibid:1001000202329": 1,
+      "gas:candidate-vibid:1001000113971": 1,
+      "gas:candidate-vibid:263200071570": 3,
+      "gas:candidate-vibid:1001000121900": 69,
+      "gas:candidate-vibid:1001000195133": 2,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070884&region=0&sub_region=0&type=429",
@@ -4773,14 +4773,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 1,
-      "Казаков Виктор Алексеевич": 89,
-      "Каримов Ринат Рафаелович": 3,
-      "Ненашев Владимир Петрович": 3,
-      "Петриков Геннадий Петрович": 2,
-      "Романов Валентин Степанович": 27,
-      "Сучков Дмитрий Александрович": 1,
-      "Против всех": 10
+      "gas:candidate-vibid:263200070662": 1,
+      "gas:candidate-vibid:1001000225978": 89,
+      "gas:candidate-vibid:1001000202329": 3,
+      "gas:candidate-vibid:1001000113971": 3,
+      "gas:candidate-vibid:263200071570": 2,
+      "gas:candidate-vibid:1001000121900": 27,
+      "gas:candidate-vibid:1001000195133": 1,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070884&region=0&sub_region=0&type=429",
@@ -4830,14 +4830,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 0,
-      "Казаков Виктор Алексеевич": 187,
-      "Каримов Ринат Рафаелович": 4,
-      "Ненашев Владимир Петрович": 3,
-      "Петриков Геннадий Петрович": 2,
-      "Романов Валентин Степанович": 48,
-      "Сучков Дмитрий Александрович": 2,
-      "Против всех": 13
+      "gas:candidate-vibid:263200070662": 0,
+      "gas:candidate-vibid:1001000225978": 187,
+      "gas:candidate-vibid:1001000202329": 4,
+      "gas:candidate-vibid:1001000113971": 3,
+      "gas:candidate-vibid:263200071570": 2,
+      "gas:candidate-vibid:1001000121900": 48,
+      "gas:candidate-vibid:1001000195133": 2,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070884&region=0&sub_region=0&type=429",
@@ -4887,14 +4887,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 1,
-      "Казаков Виктор Алексеевич": 168,
-      "Каримов Ринат Рафаелович": 1,
-      "Ненашев Владимир Петрович": 0,
-      "Петриков Геннадий Петрович": 1,
-      "Романов Валентин Степанович": 55,
-      "Сучков Дмитрий Александрович": 2,
-      "Против всех": 15
+      "gas:candidate-vibid:263200070662": 1,
+      "gas:candidate-vibid:1001000225978": 168,
+      "gas:candidate-vibid:1001000202329": 1,
+      "gas:candidate-vibid:1001000113971": 0,
+      "gas:candidate-vibid:263200071570": 1,
+      "gas:candidate-vibid:1001000121900": 55,
+      "gas:candidate-vibid:1001000195133": 2,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070884&region=0&sub_region=0&type=429",
@@ -4944,14 +4944,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 0,
-      "Казаков Виктор Алексеевич": 126,
-      "Каримов Ринат Рафаелович": 4,
-      "Ненашев Владимир Петрович": 2,
-      "Петриков Геннадий Петрович": 1,
-      "Романов Валентин Степанович": 60,
-      "Сучков Дмитрий Александрович": 5,
-      "Против всех": 7
+      "gas:candidate-vibid:263200070662": 0,
+      "gas:candidate-vibid:1001000225978": 126,
+      "gas:candidate-vibid:1001000202329": 4,
+      "gas:candidate-vibid:1001000113971": 2,
+      "gas:candidate-vibid:263200071570": 1,
+      "gas:candidate-vibid:1001000121900": 60,
+      "gas:candidate-vibid:1001000195133": 5,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070884&region=0&sub_region=0&type=429",
@@ -5001,14 +5001,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 0,
-      "Казаков Виктор Алексеевич": 93,
-      "Каримов Ринат Рафаелович": 1,
-      "Ненашев Владимир Петрович": 0,
-      "Петриков Геннадий Петрович": 1,
-      "Романов Валентин Степанович": 70,
-      "Сучков Дмитрий Александрович": 0,
-      "Против всех": 5
+      "gas:candidate-vibid:263200070662": 0,
+      "gas:candidate-vibid:1001000225978": 93,
+      "gas:candidate-vibid:1001000202329": 1,
+      "gas:candidate-vibid:1001000113971": 0,
+      "gas:candidate-vibid:263200071570": 1,
+      "gas:candidate-vibid:1001000121900": 70,
+      "gas:candidate-vibid:1001000195133": 0,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070884&region=0&sub_region=0&type=429",
@@ -5058,14 +5058,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 6,
-      "Казаков Виктор Алексеевич": 167,
-      "Каримов Ринат Рафаелович": 9,
-      "Ненашев Владимир Петрович": 2,
-      "Петриков Геннадий Петрович": 4,
-      "Романов Валентин Степанович": 81,
-      "Сучков Дмитрий Александрович": 1,
-      "Против всех": 6
+      "gas:candidate-vibid:263200070662": 6,
+      "gas:candidate-vibid:1001000225978": 167,
+      "gas:candidate-vibid:1001000202329": 9,
+      "gas:candidate-vibid:1001000113971": 2,
+      "gas:candidate-vibid:263200071570": 4,
+      "gas:candidate-vibid:1001000121900": 81,
+      "gas:candidate-vibid:1001000195133": 1,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070884&region=0&sub_region=0&type=429",
@@ -5115,14 +5115,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 7,
-      "Казаков Виктор Алексеевич": 492,
-      "Каримов Ринат Рафаелович": 9,
-      "Ненашев Владимир Петрович": 8,
-      "Петриков Геннадий Петрович": 23,
-      "Романов Валентин Степанович": 236,
-      "Сучков Дмитрий Александрович": 9,
-      "Против всех": 113
+      "gas:candidate-vibid:263200070662": 7,
+      "gas:candidate-vibid:1001000225978": 492,
+      "gas:candidate-vibid:1001000202329": 9,
+      "gas:candidate-vibid:1001000113971": 8,
+      "gas:candidate-vibid:263200071570": 23,
+      "gas:candidate-vibid:1001000121900": 236,
+      "gas:candidate-vibid:1001000195133": 9,
+      "special:against-all": 113
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070884&region=0&sub_region=0&type=429",
@@ -5172,14 +5172,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 3,
-      "Казаков Виктор Алексеевич": 166,
-      "Каримов Ринат Рафаелович": 1,
-      "Ненашев Владимир Петрович": 1,
-      "Петриков Геннадий Петрович": 11,
-      "Романов Валентин Степанович": 89,
-      "Сучков Дмитрий Александрович": 1,
-      "Против всех": 13
+      "gas:candidate-vibid:263200070662": 3,
+      "gas:candidate-vibid:1001000225978": 166,
+      "gas:candidate-vibid:1001000202329": 1,
+      "gas:candidate-vibid:1001000113971": 1,
+      "gas:candidate-vibid:263200071570": 11,
+      "gas:candidate-vibid:1001000121900": 89,
+      "gas:candidate-vibid:1001000195133": 1,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070884&region=0&sub_region=0&type=429",
@@ -5229,14 +5229,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 2,
-      "Казаков Виктор Алексеевич": 160,
-      "Каримов Ринат Рафаелович": 5,
-      "Ненашев Владимир Петрович": 4,
-      "Петриков Геннадий Петрович": 1,
-      "Романов Валентин Степанович": 188,
-      "Сучков Дмитрий Александрович": 2,
-      "Против всех": 29
+      "gas:candidate-vibid:263200070662": 2,
+      "gas:candidate-vibid:1001000225978": 160,
+      "gas:candidate-vibid:1001000202329": 5,
+      "gas:candidate-vibid:1001000113971": 4,
+      "gas:candidate-vibid:263200071570": 1,
+      "gas:candidate-vibid:1001000121900": 188,
+      "gas:candidate-vibid:1001000195133": 2,
+      "special:against-all": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070884&region=0&sub_region=0&type=429",
@@ -5286,14 +5286,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 3,
-      "Казаков Виктор Алексеевич": 395,
-      "Каримов Ринат Рафаелович": 5,
-      "Ненашев Владимир Петрович": 4,
-      "Петриков Геннадий Петрович": 5,
-      "Романов Валентин Степанович": 93,
-      "Сучков Дмитрий Александрович": 11,
-      "Против всех": 34
+      "gas:candidate-vibid:263200070662": 3,
+      "gas:candidate-vibid:1001000225978": 395,
+      "gas:candidate-vibid:1001000202329": 5,
+      "gas:candidate-vibid:1001000113971": 4,
+      "gas:candidate-vibid:263200071570": 5,
+      "gas:candidate-vibid:1001000121900": 93,
+      "gas:candidate-vibid:1001000195133": 11,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070884&region=0&sub_region=0&type=429",
@@ -5343,14 +5343,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 8,
-      "Казаков Виктор Алексеевич": 442,
-      "Каримов Ринат Рафаелович": 16,
-      "Ненашев Владимир Петрович": 11,
-      "Петриков Геннадий Петрович": 12,
-      "Романов Валентин Степанович": 279,
-      "Сучков Дмитрий Александрович": 7,
-      "Против всех": 59
+      "gas:candidate-vibid:263200070662": 8,
+      "gas:candidate-vibid:1001000225978": 442,
+      "gas:candidate-vibid:1001000202329": 16,
+      "gas:candidate-vibid:1001000113971": 11,
+      "gas:candidate-vibid:263200071570": 12,
+      "gas:candidate-vibid:1001000121900": 279,
+      "gas:candidate-vibid:1001000195133": 7,
+      "special:against-all": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070884&region=0&sub_region=0&type=429",
@@ -5400,14 +5400,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 6,
-      "Казаков Виктор Алексеевич": 342,
-      "Каримов Ринат Рафаелович": 8,
-      "Ненашев Владимир Петрович": 9,
-      "Петриков Геннадий Петрович": 12,
-      "Романов Валентин Степанович": 110,
-      "Сучков Дмитрий Александрович": 2,
-      "Против всех": 51
+      "gas:candidate-vibid:263200070662": 6,
+      "gas:candidate-vibid:1001000225978": 342,
+      "gas:candidate-vibid:1001000202329": 8,
+      "gas:candidate-vibid:1001000113971": 9,
+      "gas:candidate-vibid:263200071570": 12,
+      "gas:candidate-vibid:1001000121900": 110,
+      "gas:candidate-vibid:1001000195133": 2,
+      "special:against-all": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070884&region=0&sub_region=0&type=429",
@@ -5457,14 +5457,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 6,
-      "Казаков Виктор Алексеевич": 259,
-      "Каримов Ринат Рафаелович": 5,
-      "Ненашев Владимир Петрович": 11,
-      "Петриков Геннадий Петрович": 10,
-      "Романов Валентин Степанович": 85,
-      "Сучков Дмитрий Александрович": 2,
-      "Против всех": 26
+      "gas:candidate-vibid:263200070662": 6,
+      "gas:candidate-vibid:1001000225978": 259,
+      "gas:candidate-vibid:1001000202329": 5,
+      "gas:candidate-vibid:1001000113971": 11,
+      "gas:candidate-vibid:263200071570": 10,
+      "gas:candidate-vibid:1001000121900": 85,
+      "gas:candidate-vibid:1001000195133": 2,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070884&region=0&sub_region=0&type=429",
@@ -5514,14 +5514,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 7,
-      "Казаков Виктор Алексеевич": 122,
-      "Каримов Ринат Рафаелович": 8,
-      "Ненашев Владимир Петрович": 1,
-      "Петриков Геннадий Петрович": 5,
-      "Романов Валентин Степанович": 18,
-      "Сучков Дмитрий Александрович": 0,
-      "Против всех": 6
+      "gas:candidate-vibid:263200070662": 7,
+      "gas:candidate-vibid:1001000225978": 122,
+      "gas:candidate-vibid:1001000202329": 8,
+      "gas:candidate-vibid:1001000113971": 1,
+      "gas:candidate-vibid:263200071570": 5,
+      "gas:candidate-vibid:1001000121900": 18,
+      "gas:candidate-vibid:1001000195133": 0,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070884&region=0&sub_region=0&type=429",
@@ -5571,14 +5571,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 5,
-      "Казаков Виктор Алексеевич": 401,
-      "Каримов Ринат Рафаелович": 10,
-      "Ненашев Владимир Петрович": 9,
-      "Петриков Геннадий Петрович": 8,
-      "Романов Валентин Степанович": 120,
-      "Сучков Дмитрий Александрович": 2,
-      "Против всех": 29
+      "gas:candidate-vibid:263200070662": 5,
+      "gas:candidate-vibid:1001000225978": 401,
+      "gas:candidate-vibid:1001000202329": 10,
+      "gas:candidate-vibid:1001000113971": 9,
+      "gas:candidate-vibid:263200071570": 8,
+      "gas:candidate-vibid:1001000121900": 120,
+      "gas:candidate-vibid:1001000195133": 2,
+      "special:against-all": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070884&region=0&sub_region=0&type=429",
@@ -5628,14 +5628,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 0,
-      "Казаков Виктор Алексеевич": 205,
-      "Каримов Ринат Рафаелович": 1,
-      "Ненашев Владимир Петрович": 1,
-      "Петриков Геннадий Петрович": 2,
-      "Романов Валентин Степанович": 55,
-      "Сучков Дмитрий Александрович": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:263200070662": 0,
+      "gas:candidate-vibid:1001000225978": 205,
+      "gas:candidate-vibid:1001000202329": 1,
+      "gas:candidate-vibid:1001000113971": 1,
+      "gas:candidate-vibid:263200071570": 2,
+      "gas:candidate-vibid:1001000121900": 55,
+      "gas:candidate-vibid:1001000195133": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070885&region=0&sub_region=0&type=429",
@@ -5685,14 +5685,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 2,
-      "Казаков Виктор Алексеевич": 149,
-      "Каримов Ринат Рафаелович": 3,
-      "Ненашев Владимир Петрович": 1,
-      "Петриков Геннадий Петрович": 0,
-      "Романов Валентин Степанович": 48,
-      "Сучков Дмитрий Александрович": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:263200070662": 2,
+      "gas:candidate-vibid:1001000225978": 149,
+      "gas:candidate-vibid:1001000202329": 3,
+      "gas:candidate-vibid:1001000113971": 1,
+      "gas:candidate-vibid:263200071570": 0,
+      "gas:candidate-vibid:1001000121900": 48,
+      "gas:candidate-vibid:1001000195133": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070885&region=0&sub_region=0&type=429",
@@ -5742,14 +5742,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 0,
-      "Казаков Виктор Алексеевич": 100,
-      "Каримов Ринат Рафаелович": 0,
-      "Ненашев Владимир Петрович": 1,
-      "Петриков Геннадий Петрович": 2,
-      "Романов Валентин Степанович": 22,
-      "Сучков Дмитрий Александрович": 0,
-      "Против всех": 13
+      "gas:candidate-vibid:263200070662": 0,
+      "gas:candidate-vibid:1001000225978": 100,
+      "gas:candidate-vibid:1001000202329": 0,
+      "gas:candidate-vibid:1001000113971": 1,
+      "gas:candidate-vibid:263200071570": 2,
+      "gas:candidate-vibid:1001000121900": 22,
+      "gas:candidate-vibid:1001000195133": 0,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070885&region=0&sub_region=0&type=429",
@@ -5799,14 +5799,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 8,
-      "Казаков Виктор Алексеевич": 305,
-      "Каримов Ринат Рафаелович": 21,
-      "Ненашев Владимир Петрович": 1,
-      "Петриков Геннадий Петрович": 1,
-      "Романов Валентин Степанович": 83,
-      "Сучков Дмитрий Александрович": 1,
-      "Против всех": 10
+      "gas:candidate-vibid:263200070662": 8,
+      "gas:candidate-vibid:1001000225978": 305,
+      "gas:candidate-vibid:1001000202329": 21,
+      "gas:candidate-vibid:1001000113971": 1,
+      "gas:candidate-vibid:263200071570": 1,
+      "gas:candidate-vibid:1001000121900": 83,
+      "gas:candidate-vibid:1001000195133": 1,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070885&region=0&sub_region=0&type=429",
@@ -5856,14 +5856,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 1,
-      "Казаков Виктор Алексеевич": 89,
-      "Каримов Ринат Рафаелович": 3,
-      "Ненашев Владимир Петрович": 1,
-      "Петриков Геннадий Петрович": 0,
-      "Романов Валентин Степанович": 75,
-      "Сучков Дмитрий Александрович": 0,
-      "Против всех": 7
+      "gas:candidate-vibid:263200070662": 1,
+      "gas:candidate-vibid:1001000225978": 89,
+      "gas:candidate-vibid:1001000202329": 3,
+      "gas:candidate-vibid:1001000113971": 1,
+      "gas:candidate-vibid:263200071570": 0,
+      "gas:candidate-vibid:1001000121900": 75,
+      "gas:candidate-vibid:1001000195133": 0,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070885&region=0&sub_region=0&type=429",
@@ -5913,14 +5913,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 23,
-      "Казаков Виктор Алексеевич": 396,
-      "Каримов Ринат Рафаелович": 38,
-      "Ненашев Владимир Петрович": 0,
-      "Петриков Геннадий Петрович": 3,
-      "Романов Валентин Степанович": 200,
-      "Сучков Дмитрий Александрович": 0,
-      "Против всех": 14
+      "gas:candidate-vibid:263200070662": 23,
+      "gas:candidate-vibid:1001000225978": 396,
+      "gas:candidate-vibid:1001000202329": 38,
+      "gas:candidate-vibid:1001000113971": 0,
+      "gas:candidate-vibid:263200071570": 3,
+      "gas:candidate-vibid:1001000121900": 200,
+      "gas:candidate-vibid:1001000195133": 0,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070885&region=0&sub_region=0&type=429",
@@ -5970,14 +5970,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 22,
-      "Казаков Виктор Алексеевич": 342,
-      "Каримов Ринат Рафаелович": 47,
-      "Ненашев Владимир Петрович": 0,
-      "Петриков Геннадий Петрович": 3,
-      "Романов Валентин Степанович": 202,
-      "Сучков Дмитрий Александрович": 0,
-      "Против всех": 24
+      "gas:candidate-vibid:263200070662": 22,
+      "gas:candidate-vibid:1001000225978": 342,
+      "gas:candidate-vibid:1001000202329": 47,
+      "gas:candidate-vibid:1001000113971": 0,
+      "gas:candidate-vibid:263200071570": 3,
+      "gas:candidate-vibid:1001000121900": 202,
+      "gas:candidate-vibid:1001000195133": 0,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070885&region=0&sub_region=0&type=429",
@@ -6027,14 +6027,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 28,
-      "Казаков Виктор Алексеевич": 595,
-      "Каримов Ринат Рафаелович": 27,
-      "Ненашев Владимир Петрович": 3,
-      "Петриков Геннадий Петрович": 0,
-      "Романов Валентин Степанович": 186,
-      "Сучков Дмитрий Александрович": 0,
-      "Против всех": 16
+      "gas:candidate-vibid:263200070662": 28,
+      "gas:candidate-vibid:1001000225978": 595,
+      "gas:candidate-vibid:1001000202329": 27,
+      "gas:candidate-vibid:1001000113971": 3,
+      "gas:candidate-vibid:263200071570": 0,
+      "gas:candidate-vibid:1001000121900": 186,
+      "gas:candidate-vibid:1001000195133": 0,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070885&region=0&sub_region=0&type=429",
@@ -6084,14 +6084,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 3,
-      "Казаков Виктор Алексеевич": 515,
-      "Каримов Ринат Рафаелович": 20,
-      "Ненашев Владимир Петрович": 2,
-      "Петриков Геннадий Петрович": 3,
-      "Романов Валентин Степанович": 327,
-      "Сучков Дмитрий Александрович": 0,
-      "Против всех": 14
+      "gas:candidate-vibid:263200070662": 3,
+      "gas:candidate-vibid:1001000225978": 515,
+      "gas:candidate-vibid:1001000202329": 20,
+      "gas:candidate-vibid:1001000113971": 2,
+      "gas:candidate-vibid:263200071570": 3,
+      "gas:candidate-vibid:1001000121900": 327,
+      "gas:candidate-vibid:1001000195133": 0,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070885&region=0&sub_region=0&type=429",
@@ -6141,14 +6141,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 5,
-      "Казаков Виктор Алексеевич": 106,
-      "Каримов Ринат Рафаелович": 4,
-      "Ненашев Владимир Петрович": 0,
-      "Петриков Геннадий Петрович": 1,
-      "Романов Валентин Степанович": 89,
-      "Сучков Дмитрий Александрович": 3,
-      "Против всех": 9
+      "gas:candidate-vibid:263200070662": 5,
+      "gas:candidate-vibid:1001000225978": 106,
+      "gas:candidate-vibid:1001000202329": 4,
+      "gas:candidate-vibid:1001000113971": 0,
+      "gas:candidate-vibid:263200071570": 1,
+      "gas:candidate-vibid:1001000121900": 89,
+      "gas:candidate-vibid:1001000195133": 3,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070885&region=0&sub_region=0&type=429",
@@ -6198,14 +6198,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 24,
-      "Казаков Виктор Алексеевич": 534,
-      "Каримов Ринат Рафаелович": 21,
-      "Ненашев Владимир Петрович": 0,
-      "Петриков Геннадий Петрович": 3,
-      "Романов Валентин Степанович": 113,
-      "Сучков Дмитрий Александрович": 2,
-      "Против всех": 23
+      "gas:candidate-vibid:263200070662": 24,
+      "gas:candidate-vibid:1001000225978": 534,
+      "gas:candidate-vibid:1001000202329": 21,
+      "gas:candidate-vibid:1001000113971": 0,
+      "gas:candidate-vibid:263200071570": 3,
+      "gas:candidate-vibid:1001000121900": 113,
+      "gas:candidate-vibid:1001000195133": 2,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070885&region=0&sub_region=0&type=429",
@@ -6255,14 +6255,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 4,
-      "Казаков Виктор Алексеевич": 233,
-      "Каримов Ринат Рафаелович": 9,
-      "Ненашев Владимир Петрович": 0,
-      "Петриков Геннадий Петрович": 1,
-      "Романов Валентин Степанович": 35,
-      "Сучков Дмитрий Александрович": 0,
-      "Против всех": 12
+      "gas:candidate-vibid:263200070662": 4,
+      "gas:candidate-vibid:1001000225978": 233,
+      "gas:candidate-vibid:1001000202329": 9,
+      "gas:candidate-vibid:1001000113971": 0,
+      "gas:candidate-vibid:263200071570": 1,
+      "gas:candidate-vibid:1001000121900": 35,
+      "gas:candidate-vibid:1001000195133": 0,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070885&region=0&sub_region=0&type=429",
@@ -6312,14 +6312,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 0,
-      "Казаков Виктор Алексеевич": 175,
-      "Каримов Ринат Рафаелович": 0,
-      "Ненашев Владимир Петрович": 2,
-      "Петриков Геннадий Петрович": 0,
-      "Романов Валентин Степанович": 35,
-      "Сучков Дмитрий Александрович": 0,
-      "Против всех": 6
+      "gas:candidate-vibid:263200070662": 0,
+      "gas:candidate-vibid:1001000225978": 175,
+      "gas:candidate-vibid:1001000202329": 0,
+      "gas:candidate-vibid:1001000113971": 2,
+      "gas:candidate-vibid:263200071570": 0,
+      "gas:candidate-vibid:1001000121900": 35,
+      "gas:candidate-vibid:1001000195133": 0,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070885&region=0&sub_region=0&type=429",
@@ -6369,14 +6369,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 0,
-      "Казаков Виктор Алексеевич": 179,
-      "Каримов Ринат Рафаелович": 1,
-      "Ненашев Владимир Петрович": 0,
-      "Петриков Геннадий Петрович": 1,
-      "Романов Валентин Степанович": 17,
-      "Сучков Дмитрий Александрович": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:263200070662": 0,
+      "gas:candidate-vibid:1001000225978": 179,
+      "gas:candidate-vibid:1001000202329": 1,
+      "gas:candidate-vibid:1001000113971": 0,
+      "gas:candidate-vibid:263200071570": 1,
+      "gas:candidate-vibid:1001000121900": 17,
+      "gas:candidate-vibid:1001000195133": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070885&region=0&sub_region=0&type=429",
@@ -6426,14 +6426,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 5,
-      "Казаков Виктор Алексеевич": 801,
-      "Каримов Ринат Рафаелович": 6,
-      "Ненашев Владимир Петрович": 6,
-      "Петриков Геннадий Петрович": 2,
-      "Романов Валентин Степанович": 169,
-      "Сучков Дмитрий Александрович": 8,
-      "Против всех": 69
+      "gas:candidate-vibid:263200070662": 5,
+      "gas:candidate-vibid:1001000225978": 801,
+      "gas:candidate-vibid:1001000202329": 6,
+      "gas:candidate-vibid:1001000113971": 6,
+      "gas:candidate-vibid:263200071570": 2,
+      "gas:candidate-vibid:1001000121900": 169,
+      "gas:candidate-vibid:1001000195133": 8,
+      "special:against-all": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070886&region=0&sub_region=0&type=429",
@@ -6483,14 +6483,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 12,
-      "Казаков Виктор Алексеевич": 1096,
-      "Каримов Ринат Рафаелович": 18,
-      "Ненашев Владимир Петрович": 7,
-      "Петриков Геннадий Петрович": 6,
-      "Романов Валентин Степанович": 177,
-      "Сучков Дмитрий Александрович": 4,
-      "Против всех": 63
+      "gas:candidate-vibid:263200070662": 12,
+      "gas:candidate-vibid:1001000225978": 1096,
+      "gas:candidate-vibid:1001000202329": 18,
+      "gas:candidate-vibid:1001000113971": 7,
+      "gas:candidate-vibid:263200071570": 6,
+      "gas:candidate-vibid:1001000121900": 177,
+      "gas:candidate-vibid:1001000195133": 4,
+      "special:against-all": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070886&region=0&sub_region=0&type=429",
@@ -6540,14 +6540,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 0,
-      "Казаков Виктор Алексеевич": 97,
-      "Каримов Ринат Рафаелович": 1,
-      "Ненашев Владимир Петрович": 2,
-      "Петриков Геннадий Петрович": 0,
-      "Романов Валентин Степанович": 12,
-      "Сучков Дмитрий Александрович": 0,
-      "Против всех": 8
+      "gas:candidate-vibid:263200070662": 0,
+      "gas:candidate-vibid:1001000225978": 97,
+      "gas:candidate-vibid:1001000202329": 1,
+      "gas:candidate-vibid:1001000113971": 2,
+      "gas:candidate-vibid:263200071570": 0,
+      "gas:candidate-vibid:1001000121900": 12,
+      "gas:candidate-vibid:1001000195133": 0,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070886&region=0&sub_region=0&type=429",
@@ -6597,14 +6597,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 1,
-      "Казаков Виктор Алексеевич": 255,
-      "Каримов Ринат Рафаелович": 5,
-      "Ненашев Владимир Петрович": 2,
-      "Петриков Геннадий Петрович": 1,
-      "Романов Валентин Степанович": 34,
-      "Сучков Дмитрий Александрович": 0,
-      "Против всех": 7
+      "gas:candidate-vibid:263200070662": 1,
+      "gas:candidate-vibid:1001000225978": 255,
+      "gas:candidate-vibid:1001000202329": 5,
+      "gas:candidate-vibid:1001000113971": 2,
+      "gas:candidate-vibid:263200071570": 1,
+      "gas:candidate-vibid:1001000121900": 34,
+      "gas:candidate-vibid:1001000195133": 0,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070886&region=0&sub_region=0&type=429",
@@ -6654,14 +6654,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 2,
-      "Казаков Виктор Алексеевич": 290,
-      "Каримов Ринат Рафаелович": 2,
-      "Ненашев Владимир Петрович": 1,
-      "Петриков Геннадий Петрович": 1,
-      "Романов Валентин Степанович": 23,
-      "Сучков Дмитрий Александрович": 0,
-      "Против всех": 10
+      "gas:candidate-vibid:263200070662": 2,
+      "gas:candidate-vibid:1001000225978": 290,
+      "gas:candidate-vibid:1001000202329": 2,
+      "gas:candidate-vibid:1001000113971": 1,
+      "gas:candidate-vibid:263200071570": 1,
+      "gas:candidate-vibid:1001000121900": 23,
+      "gas:candidate-vibid:1001000195133": 0,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070886&region=0&sub_region=0&type=429",
@@ -6711,14 +6711,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 0,
-      "Казаков Виктор Алексеевич": 129,
-      "Каримов Ринат Рафаелович": 1,
-      "Ненашев Владимир Петрович": 0,
-      "Петриков Геннадий Петрович": 0,
-      "Романов Валентин Степанович": 11,
-      "Сучков Дмитрий Александрович": 0,
-      "Против всех": 6
+      "gas:candidate-vibid:263200070662": 0,
+      "gas:candidate-vibid:1001000225978": 129,
+      "gas:candidate-vibid:1001000202329": 1,
+      "gas:candidate-vibid:1001000113971": 0,
+      "gas:candidate-vibid:263200071570": 0,
+      "gas:candidate-vibid:1001000121900": 11,
+      "gas:candidate-vibid:1001000195133": 0,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070886&region=0&sub_region=0&type=429",
@@ -6768,14 +6768,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 2,
-      "Казаков Виктор Алексеевич": 243,
-      "Каримов Ринат Рафаелович": 6,
-      "Ненашев Владимир Петрович": 1,
-      "Петриков Геннадий Петрович": 4,
-      "Романов Валентин Степанович": 27,
-      "Сучков Дмитрий Александрович": 1,
-      "Против всех": 10
+      "gas:candidate-vibid:263200070662": 2,
+      "gas:candidate-vibid:1001000225978": 243,
+      "gas:candidate-vibid:1001000202329": 6,
+      "gas:candidate-vibid:1001000113971": 1,
+      "gas:candidate-vibid:263200071570": 4,
+      "gas:candidate-vibid:1001000121900": 27,
+      "gas:candidate-vibid:1001000195133": 1,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070886&region=0&sub_region=0&type=429",
@@ -6825,14 +6825,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 0,
-      "Казаков Виктор Алексеевич": 226,
-      "Каримов Ринат Рафаелович": 1,
-      "Ненашев Владимир Петрович": 0,
-      "Петриков Геннадий Петрович": 2,
-      "Романов Валентин Степанович": 31,
-      "Сучков Дмитрий Александрович": 1,
-      "Против всех": 3
+      "gas:candidate-vibid:263200070662": 0,
+      "gas:candidate-vibid:1001000225978": 226,
+      "gas:candidate-vibid:1001000202329": 1,
+      "gas:candidate-vibid:1001000113971": 0,
+      "gas:candidate-vibid:263200071570": 2,
+      "gas:candidate-vibid:1001000121900": 31,
+      "gas:candidate-vibid:1001000195133": 1,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070886&region=0&sub_region=0&type=429",
@@ -6882,14 +6882,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 0,
-      "Казаков Виктор Алексеевич": 110,
-      "Каримов Ринат Рафаелович": 1,
-      "Ненашев Владимир Петрович": 0,
-      "Петриков Геннадий Петрович": 0,
-      "Романов Валентин Степанович": 18,
-      "Сучков Дмитрий Александрович": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:263200070662": 0,
+      "gas:candidate-vibid:1001000225978": 110,
+      "gas:candidate-vibid:1001000202329": 1,
+      "gas:candidate-vibid:1001000113971": 0,
+      "gas:candidate-vibid:263200071570": 0,
+      "gas:candidate-vibid:1001000121900": 18,
+      "gas:candidate-vibid:1001000195133": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070886&region=0&sub_region=0&type=429",
@@ -6939,14 +6939,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 1,
-      "Казаков Виктор Алексеевич": 175,
-      "Каримов Ринат Рафаелович": 2,
-      "Ненашев Владимир Петрович": 0,
-      "Петриков Геннадий Петрович": 1,
-      "Романов Валентин Степанович": 45,
-      "Сучков Дмитрий Александрович": 0,
-      "Против всех": 4
+      "gas:candidate-vibid:263200070662": 1,
+      "gas:candidate-vibid:1001000225978": 175,
+      "gas:candidate-vibid:1001000202329": 2,
+      "gas:candidate-vibid:1001000113971": 0,
+      "gas:candidate-vibid:263200071570": 1,
+      "gas:candidate-vibid:1001000121900": 45,
+      "gas:candidate-vibid:1001000195133": 0,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070886&region=0&sub_region=0&type=429",
@@ -6996,14 +6996,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 1,
-      "Казаков Виктор Алексеевич": 95,
-      "Каримов Ринат Рафаелович": 0,
-      "Ненашев Владимир Петрович": 2,
-      "Петриков Геннадий Петрович": 1,
-      "Романов Валентин Степанович": 21,
-      "Сучков Дмитрий Александрович": 1,
-      "Против всех": 5
+      "gas:candidate-vibid:263200070662": 1,
+      "gas:candidate-vibid:1001000225978": 95,
+      "gas:candidate-vibid:1001000202329": 0,
+      "gas:candidate-vibid:1001000113971": 2,
+      "gas:candidate-vibid:263200071570": 1,
+      "gas:candidate-vibid:1001000121900": 21,
+      "gas:candidate-vibid:1001000195133": 1,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070886&region=0&sub_region=0&type=429",
@@ -7053,14 +7053,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 3,
-      "Казаков Виктор Алексеевич": 131,
-      "Каримов Ринат Рафаелович": 1,
-      "Ненашев Владимир Петрович": 2,
-      "Петриков Геннадий Петрович": 1,
-      "Романов Валентин Степанович": 13,
-      "Сучков Дмитрий Александрович": 2,
-      "Против всех": 31
+      "gas:candidate-vibid:263200070662": 3,
+      "gas:candidate-vibid:1001000225978": 131,
+      "gas:candidate-vibid:1001000202329": 1,
+      "gas:candidate-vibid:1001000113971": 2,
+      "gas:candidate-vibid:263200071570": 1,
+      "gas:candidate-vibid:1001000121900": 13,
+      "gas:candidate-vibid:1001000195133": 2,
+      "special:against-all": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070886&region=0&sub_region=0&type=429",
@@ -7110,14 +7110,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 1,
-      "Казаков Виктор Алексеевич": 155,
-      "Каримов Ринат Рафаелович": 3,
-      "Ненашев Владимир Петрович": 0,
-      "Петриков Геннадий Петрович": 1,
-      "Романов Валентин Степанович": 6,
-      "Сучков Дмитрий Александрович": 0,
-      "Против всех": 12
+      "gas:candidate-vibid:263200070662": 1,
+      "gas:candidate-vibid:1001000225978": 155,
+      "gas:candidate-vibid:1001000202329": 3,
+      "gas:candidate-vibid:1001000113971": 0,
+      "gas:candidate-vibid:263200071570": 1,
+      "gas:candidate-vibid:1001000121900": 6,
+      "gas:candidate-vibid:1001000195133": 0,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070886&region=0&sub_region=0&type=429",
@@ -7167,14 +7167,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 0,
-      "Казаков Виктор Алексеевич": 95,
-      "Каримов Ринат Рафаелович": 0,
-      "Ненашев Владимир Петрович": 0,
-      "Петриков Геннадий Петрович": 0,
-      "Романов Валентин Степанович": 13,
-      "Сучков Дмитрий Александрович": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:263200070662": 0,
+      "gas:candidate-vibid:1001000225978": 95,
+      "gas:candidate-vibid:1001000202329": 0,
+      "gas:candidate-vibid:1001000113971": 0,
+      "gas:candidate-vibid:263200071570": 0,
+      "gas:candidate-vibid:1001000121900": 13,
+      "gas:candidate-vibid:1001000195133": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070886&region=0&sub_region=0&type=429",
@@ -7224,14 +7224,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 5,
-      "Казаков Виктор Алексеевич": 533,
-      "Каримов Ринат Рафаелович": 5,
-      "Ненашев Владимир Петрович": 4,
-      "Петриков Геннадий Петрович": 5,
-      "Романов Валентин Степанович": 94,
-      "Сучков Дмитрий Александрович": 8,
-      "Против всех": 29
+      "gas:candidate-vibid:263200070662": 5,
+      "gas:candidate-vibid:1001000225978": 533,
+      "gas:candidate-vibid:1001000202329": 5,
+      "gas:candidate-vibid:1001000113971": 4,
+      "gas:candidate-vibid:263200071570": 5,
+      "gas:candidate-vibid:1001000121900": 94,
+      "gas:candidate-vibid:1001000195133": 8,
+      "special:against-all": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070886&region=0&sub_region=0&type=429",
@@ -7281,14 +7281,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 0,
-      "Казаков Виктор Алексеевич": 367,
-      "Каримов Ринат Рафаелович": 6,
-      "Ненашев Владимир Петрович": 2,
-      "Петриков Геннадий Петрович": 2,
-      "Романов Валентин Степанович": 29,
-      "Сучков Дмитрий Александрович": 2,
-      "Против всех": 11
+      "gas:candidate-vibid:263200070662": 0,
+      "gas:candidate-vibid:1001000225978": 367,
+      "gas:candidate-vibid:1001000202329": 6,
+      "gas:candidate-vibid:1001000113971": 2,
+      "gas:candidate-vibid:263200071570": 2,
+      "gas:candidate-vibid:1001000121900": 29,
+      "gas:candidate-vibid:1001000195133": 2,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070886&region=0&sub_region=0&type=429",
@@ -7338,14 +7338,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 0,
-      "Казаков Виктор Алексеевич": 482,
-      "Каримов Ринат Рафаелович": 2,
-      "Ненашев Владимир Петрович": 2,
-      "Петриков Геннадий Петрович": 1,
-      "Романов Валентин Степанович": 30,
-      "Сучков Дмитрий Александрович": 2,
-      "Против всех": 4
+      "gas:candidate-vibid:263200070662": 0,
+      "gas:candidate-vibid:1001000225978": 482,
+      "gas:candidate-vibid:1001000202329": 2,
+      "gas:candidate-vibid:1001000113971": 2,
+      "gas:candidate-vibid:263200071570": 1,
+      "gas:candidate-vibid:1001000121900": 30,
+      "gas:candidate-vibid:1001000195133": 2,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070886&region=0&sub_region=0&type=429",
@@ -7395,14 +7395,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 4,
-      "Казаков Виктор Алексеевич": 411,
-      "Каримов Ринат Рафаелович": 6,
-      "Ненашев Владимир Петрович": 2,
-      "Петриков Геннадий Петрович": 2,
-      "Романов Валентин Степанович": 49,
-      "Сучков Дмитрий Александрович": 3,
-      "Против всех": 20
+      "gas:candidate-vibid:263200070662": 4,
+      "gas:candidate-vibid:1001000225978": 411,
+      "gas:candidate-vibid:1001000202329": 6,
+      "gas:candidate-vibid:1001000113971": 2,
+      "gas:candidate-vibid:263200071570": 2,
+      "gas:candidate-vibid:1001000121900": 49,
+      "gas:candidate-vibid:1001000195133": 3,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070886&region=0&sub_region=0&type=429",
@@ -7452,14 +7452,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 0,
-      "Казаков Виктор Алексеевич": 103,
-      "Каримов Ринат Рафаелович": 0,
-      "Ненашев Владимир Петрович": 0,
-      "Петриков Геннадий Петрович": 7,
-      "Романов Валентин Степанович": 34,
-      "Сучков Дмитрий Александрович": 1,
-      "Против всех": 8
+      "gas:candidate-vibid:263200070662": 0,
+      "gas:candidate-vibid:1001000225978": 103,
+      "gas:candidate-vibid:1001000202329": 0,
+      "gas:candidate-vibid:1001000113971": 0,
+      "gas:candidate-vibid:263200071570": 7,
+      "gas:candidate-vibid:1001000121900": 34,
+      "gas:candidate-vibid:1001000195133": 1,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070886&region=0&sub_region=0&type=429",
@@ -7509,14 +7509,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 2,
-      "Казаков Виктор Алексеевич": 250,
-      "Каримов Ринат Рафаелович": 1,
-      "Ненашев Владимир Петрович": 0,
-      "Петриков Геннадий Петрович": 2,
-      "Романов Валентин Степанович": 26,
-      "Сучков Дмитрий Александрович": 2,
-      "Против всех": 14
+      "gas:candidate-vibid:263200070662": 2,
+      "gas:candidate-vibid:1001000225978": 250,
+      "gas:candidate-vibid:1001000202329": 1,
+      "gas:candidate-vibid:1001000113971": 0,
+      "gas:candidate-vibid:263200071570": 2,
+      "gas:candidate-vibid:1001000121900": 26,
+      "gas:candidate-vibid:1001000195133": 2,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070886&region=0&sub_region=0&type=429",
@@ -7566,14 +7566,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 1,
-      "Казаков Виктор Алексеевич": 192,
-      "Каримов Ринат Рафаелович": 2,
-      "Ненашев Владимир Петрович": 0,
-      "Петриков Геннадий Петрович": 0,
-      "Романов Валентин Степанович": 11,
-      "Сучков Дмитрий Александрович": 1,
-      "Против всех": 5
+      "gas:candidate-vibid:263200070662": 1,
+      "gas:candidate-vibid:1001000225978": 192,
+      "gas:candidate-vibid:1001000202329": 2,
+      "gas:candidate-vibid:1001000113971": 0,
+      "gas:candidate-vibid:263200071570": 0,
+      "gas:candidate-vibid:1001000121900": 11,
+      "gas:candidate-vibid:1001000195133": 1,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070886&region=0&sub_region=0&type=429",
@@ -7623,14 +7623,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 0,
-      "Казаков Виктор Алексеевич": 275,
-      "Каримов Ринат Рафаелович": 1,
-      "Ненашев Владимир Петрович": 1,
-      "Петриков Геннадий Петрович": 5,
-      "Романов Валентин Степанович": 26,
-      "Сучков Дмитрий Александрович": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:263200070662": 0,
+      "gas:candidate-vibid:1001000225978": 275,
+      "gas:candidate-vibid:1001000202329": 1,
+      "gas:candidate-vibid:1001000113971": 1,
+      "gas:candidate-vibid:263200071570": 5,
+      "gas:candidate-vibid:1001000121900": 26,
+      "gas:candidate-vibid:1001000195133": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070886&region=0&sub_region=0&type=429",
@@ -7680,14 +7680,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 0,
-      "Казаков Виктор Алексеевич": 179,
-      "Каримов Ринат Рафаелович": 5,
-      "Ненашев Владимир Петрович": 0,
-      "Петриков Геннадий Петрович": 7,
-      "Романов Валентин Степанович": 45,
-      "Сучков Дмитрий Александрович": 0,
-      "Против всех": 10
+      "gas:candidate-vibid:263200070662": 0,
+      "gas:candidate-vibid:1001000225978": 179,
+      "gas:candidate-vibid:1001000202329": 5,
+      "gas:candidate-vibid:1001000113971": 0,
+      "gas:candidate-vibid:263200071570": 7,
+      "gas:candidate-vibid:1001000121900": 45,
+      "gas:candidate-vibid:1001000195133": 0,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070886&region=0&sub_region=0&type=429",
@@ -7737,14 +7737,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 1,
-      "Казаков Виктор Алексеевич": 309,
-      "Каримов Ринат Рафаелович": 1,
-      "Ненашев Владимир Петрович": 2,
-      "Петриков Геннадий Петрович": 2,
-      "Романов Валентин Степанович": 28,
-      "Сучков Дмитрий Александрович": 0,
-      "Против всех": 7
+      "gas:candidate-vibid:263200070662": 1,
+      "gas:candidate-vibid:1001000225978": 309,
+      "gas:candidate-vibid:1001000202329": 1,
+      "gas:candidate-vibid:1001000113971": 2,
+      "gas:candidate-vibid:263200071570": 2,
+      "gas:candidate-vibid:1001000121900": 28,
+      "gas:candidate-vibid:1001000195133": 0,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070886&region=0&sub_region=0&type=429",
@@ -7794,14 +7794,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 3,
-      "Казаков Виктор Алексеевич": 503,
-      "Каримов Ринат Рафаелович": 7,
-      "Ненашев Владимир Петрович": 2,
-      "Петриков Геннадий Петрович": 7,
-      "Романов Валентин Степанович": 134,
-      "Сучков Дмитрий Александрович": 1,
-      "Против всех": 23
+      "gas:candidate-vibid:263200070662": 3,
+      "gas:candidate-vibid:1001000225978": 503,
+      "gas:candidate-vibid:1001000202329": 7,
+      "gas:candidate-vibid:1001000113971": 2,
+      "gas:candidate-vibid:263200071570": 7,
+      "gas:candidate-vibid:1001000121900": 134,
+      "gas:candidate-vibid:1001000195133": 1,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070886&region=0&sub_region=0&type=429",
@@ -7851,14 +7851,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 2,
-      "Казаков Виктор Алексеевич": 635,
-      "Каримов Ринат Рафаелович": 13,
-      "Ненашев Владимир Петрович": 6,
-      "Петриков Геннадий Петрович": 16,
-      "Романов Валентин Степанович": 212,
-      "Сучков Дмитрий Александрович": 7,
-      "Против всех": 84
+      "gas:candidate-vibid:263200070662": 2,
+      "gas:candidate-vibid:1001000225978": 635,
+      "gas:candidate-vibid:1001000202329": 13,
+      "gas:candidate-vibid:1001000113971": 6,
+      "gas:candidate-vibid:263200071570": 16,
+      "gas:candidate-vibid:1001000121900": 212,
+      "gas:candidate-vibid:1001000195133": 7,
+      "special:against-all": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070887&region=0&sub_region=0&type=429",
@@ -7908,14 +7908,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 8,
-      "Казаков Виктор Алексеевич": 428,
-      "Каримов Ринат Рафаелович": 3,
-      "Ненашев Владимир Петрович": 12,
-      "Петриков Геннадий Петрович": 10,
-      "Романов Валентин Степанович": 170,
-      "Сучков Дмитрий Александрович": 5,
-      "Против всех": 47
+      "gas:candidate-vibid:263200070662": 8,
+      "gas:candidate-vibid:1001000225978": 428,
+      "gas:candidate-vibid:1001000202329": 3,
+      "gas:candidate-vibid:1001000113971": 12,
+      "gas:candidate-vibid:263200071570": 10,
+      "gas:candidate-vibid:1001000121900": 170,
+      "gas:candidate-vibid:1001000195133": 5,
+      "special:against-all": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070887&region=0&sub_region=0&type=429",
@@ -7965,14 +7965,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 1,
-      "Казаков Виктор Алексеевич": 337,
-      "Каримов Ринат Рафаелович": 2,
-      "Ненашев Владимир Петрович": 9,
-      "Петриков Геннадий Петрович": 10,
-      "Романов Валентин Степанович": 170,
-      "Сучков Дмитрий Александрович": 1,
-      "Против всех": 29
+      "gas:candidate-vibid:263200070662": 1,
+      "gas:candidate-vibid:1001000225978": 337,
+      "gas:candidate-vibid:1001000202329": 2,
+      "gas:candidate-vibid:1001000113971": 9,
+      "gas:candidate-vibid:263200071570": 10,
+      "gas:candidate-vibid:1001000121900": 170,
+      "gas:candidate-vibid:1001000195133": 1,
+      "special:against-all": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070887&region=0&sub_region=0&type=429",
@@ -8022,14 +8022,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 5,
-      "Казаков Виктор Алексеевич": 429,
-      "Каримов Ринат Рафаелович": 7,
-      "Ненашев Владимир Петрович": 4,
-      "Петриков Геннадий Петрович": 9,
-      "Романов Валентин Степанович": 146,
-      "Сучков Дмитрий Александрович": 4,
-      "Против всех": 44
+      "gas:candidate-vibid:263200070662": 5,
+      "gas:candidate-vibid:1001000225978": 429,
+      "gas:candidate-vibid:1001000202329": 7,
+      "gas:candidate-vibid:1001000113971": 4,
+      "gas:candidate-vibid:263200071570": 9,
+      "gas:candidate-vibid:1001000121900": 146,
+      "gas:candidate-vibid:1001000195133": 4,
+      "special:against-all": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070887&region=0&sub_region=0&type=429",
@@ -8079,14 +8079,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 9,
-      "Казаков Виктор Алексеевич": 314,
-      "Каримов Ринат Рафаелович": 1,
-      "Ненашев Владимир Петрович": 2,
-      "Петриков Геннадий Петрович": 8,
-      "Романов Валентин Степанович": 97,
-      "Сучков Дмитрий Александрович": 5,
-      "Против всех": 45
+      "gas:candidate-vibid:263200070662": 9,
+      "gas:candidate-vibid:1001000225978": 314,
+      "gas:candidate-vibid:1001000202329": 1,
+      "gas:candidate-vibid:1001000113971": 2,
+      "gas:candidate-vibid:263200071570": 8,
+      "gas:candidate-vibid:1001000121900": 97,
+      "gas:candidate-vibid:1001000195133": 5,
+      "special:against-all": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070887&region=0&sub_region=0&type=429",
@@ -8136,14 +8136,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 6,
-      "Казаков Виктор Алексеевич": 410,
-      "Каримов Ринат Рафаелович": 6,
-      "Ненашев Владимир Петрович": 9,
-      "Петриков Геннадий Петрович": 10,
-      "Романов Валентин Степанович": 155,
-      "Сучков Дмитрий Александрович": 7,
-      "Против всех": 65
+      "gas:candidate-vibid:263200070662": 6,
+      "gas:candidate-vibid:1001000225978": 410,
+      "gas:candidate-vibid:1001000202329": 6,
+      "gas:candidate-vibid:1001000113971": 9,
+      "gas:candidate-vibid:263200071570": 10,
+      "gas:candidate-vibid:1001000121900": 155,
+      "gas:candidate-vibid:1001000195133": 7,
+      "special:against-all": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070887&region=0&sub_region=0&type=429",
@@ -8193,14 +8193,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 4,
-      "Казаков Виктор Алексеевич": 446,
-      "Каримов Ринат Рафаелович": 4,
-      "Ненашев Владимир Петрович": 5,
-      "Петриков Геннадий Петрович": 16,
-      "Романов Валентин Степанович": 182,
-      "Сучков Дмитрий Александрович": 4,
-      "Против всех": 52
+      "gas:candidate-vibid:263200070662": 4,
+      "gas:candidate-vibid:1001000225978": 446,
+      "gas:candidate-vibid:1001000202329": 4,
+      "gas:candidate-vibid:1001000113971": 5,
+      "gas:candidate-vibid:263200071570": 16,
+      "gas:candidate-vibid:1001000121900": 182,
+      "gas:candidate-vibid:1001000195133": 4,
+      "special:against-all": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070887&region=0&sub_region=0&type=429",
@@ -8250,14 +8250,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 4,
-      "Казаков Виктор Алексеевич": 397,
-      "Каримов Ринат Рафаелович": 5,
-      "Ненашев Владимир Петрович": 7,
-      "Петриков Геннадий Петрович": 10,
-      "Романов Валентин Степанович": 135,
-      "Сучков Дмитрий Александрович": 2,
-      "Против всех": 48
+      "gas:candidate-vibid:263200070662": 4,
+      "gas:candidate-vibid:1001000225978": 397,
+      "gas:candidate-vibid:1001000202329": 5,
+      "gas:candidate-vibid:1001000113971": 7,
+      "gas:candidate-vibid:263200071570": 10,
+      "gas:candidate-vibid:1001000121900": 135,
+      "gas:candidate-vibid:1001000195133": 2,
+      "special:against-all": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070887&region=0&sub_region=0&type=429",
@@ -8307,14 +8307,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 4,
-      "Казаков Виктор Алексеевич": 388,
-      "Каримов Ринат Рафаелович": 3,
-      "Ненашев Владимир Петрович": 3,
-      "Петриков Геннадий Петрович": 15,
-      "Романов Валентин Степанович": 108,
-      "Сучков Дмитрий Александрович": 3,
-      "Против всех": 54
+      "gas:candidate-vibid:263200070662": 4,
+      "gas:candidate-vibid:1001000225978": 388,
+      "gas:candidate-vibid:1001000202329": 3,
+      "gas:candidate-vibid:1001000113971": 3,
+      "gas:candidate-vibid:263200071570": 15,
+      "gas:candidate-vibid:1001000121900": 108,
+      "gas:candidate-vibid:1001000195133": 3,
+      "special:against-all": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070887&region=0&sub_region=0&type=429",
@@ -8364,14 +8364,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 1,
-      "Казаков Виктор Алексеевич": 436,
-      "Каримов Ринат Рафаелович": 7,
-      "Ненашев Владимир Петрович": 2,
-      "Петриков Геннадий Петрович": 10,
-      "Романов Валентин Степанович": 155,
-      "Сучков Дмитрий Александрович": 0,
-      "Против всех": 59
+      "gas:candidate-vibid:263200070662": 1,
+      "gas:candidate-vibid:1001000225978": 436,
+      "gas:candidate-vibid:1001000202329": 7,
+      "gas:candidate-vibid:1001000113971": 2,
+      "gas:candidate-vibid:263200071570": 10,
+      "gas:candidate-vibid:1001000121900": 155,
+      "gas:candidate-vibid:1001000195133": 0,
+      "special:against-all": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070887&region=0&sub_region=0&type=429",
@@ -8421,14 +8421,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 9,
-      "Казаков Виктор Алексеевич": 402,
-      "Каримов Ринат Рафаелович": 4,
-      "Ненашев Владимир Петрович": 7,
-      "Петриков Геннадий Петрович": 15,
-      "Романов Валентин Степанович": 119,
-      "Сучков Дмитрий Александрович": 4,
-      "Против всех": 56
+      "gas:candidate-vibid:263200070662": 9,
+      "gas:candidate-vibid:1001000225978": 402,
+      "gas:candidate-vibid:1001000202329": 4,
+      "gas:candidate-vibid:1001000113971": 7,
+      "gas:candidate-vibid:263200071570": 15,
+      "gas:candidate-vibid:1001000121900": 119,
+      "gas:candidate-vibid:1001000195133": 4,
+      "special:against-all": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070887&region=0&sub_region=0&type=429",
@@ -8478,14 +8478,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 10,
-      "Казаков Виктор Алексеевич": 501,
-      "Каримов Ринат Рафаелович": 3,
-      "Ненашев Владимир Петрович": 3,
-      "Петриков Геннадий Петрович": 20,
-      "Романов Валентин Степанович": 169,
-      "Сучков Дмитрий Александрович": 3,
-      "Против всех": 80
+      "gas:candidate-vibid:263200070662": 10,
+      "gas:candidate-vibid:1001000225978": 501,
+      "gas:candidate-vibid:1001000202329": 3,
+      "gas:candidate-vibid:1001000113971": 3,
+      "gas:candidate-vibid:263200071570": 20,
+      "gas:candidate-vibid:1001000121900": 169,
+      "gas:candidate-vibid:1001000195133": 3,
+      "special:against-all": 80
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070887&region=0&sub_region=0&type=429",
@@ -8535,14 +8535,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 6,
-      "Казаков Виктор Алексеевич": 409,
-      "Каримов Ринат Рафаелович": 5,
-      "Ненашев Владимир Петрович": 9,
-      "Петриков Геннадий Петрович": 3,
-      "Романов Валентин Степанович": 87,
-      "Сучков Дмитрий Александрович": 2,
-      "Против всех": 63
+      "gas:candidate-vibid:263200070662": 6,
+      "gas:candidate-vibid:1001000225978": 409,
+      "gas:candidate-vibid:1001000202329": 5,
+      "gas:candidate-vibid:1001000113971": 9,
+      "gas:candidate-vibid:263200071570": 3,
+      "gas:candidate-vibid:1001000121900": 87,
+      "gas:candidate-vibid:1001000195133": 2,
+      "special:against-all": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070887&region=0&sub_region=0&type=429",
@@ -8592,14 +8592,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 1,
-      "Казаков Виктор Алексеевич": 412,
-      "Каримов Ринат Рафаелович": 4,
-      "Ненашев Владимир Петрович": 6,
-      "Петриков Геннадий Петрович": 15,
-      "Романов Валентин Степанович": 110,
-      "Сучков Дмитрий Александрович": 4,
-      "Против всех": 38
+      "gas:candidate-vibid:263200070662": 1,
+      "gas:candidate-vibid:1001000225978": 412,
+      "gas:candidate-vibid:1001000202329": 4,
+      "gas:candidate-vibid:1001000113971": 6,
+      "gas:candidate-vibid:263200071570": 15,
+      "gas:candidate-vibid:1001000121900": 110,
+      "gas:candidate-vibid:1001000195133": 4,
+      "special:against-all": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070887&region=0&sub_region=0&type=429",
@@ -8649,14 +8649,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 2,
-      "Казаков Виктор Алексеевич": 549,
-      "Каримов Ринат Рафаелович": 4,
-      "Ненашев Владимир Петрович": 4,
-      "Петриков Геннадий Петрович": 14,
-      "Романов Валентин Степанович": 149,
-      "Сучков Дмитрий Александрович": 5,
-      "Против всех": 87
+      "gas:candidate-vibid:263200070662": 2,
+      "gas:candidate-vibid:1001000225978": 549,
+      "gas:candidate-vibid:1001000202329": 4,
+      "gas:candidate-vibid:1001000113971": 4,
+      "gas:candidate-vibid:263200071570": 14,
+      "gas:candidate-vibid:1001000121900": 149,
+      "gas:candidate-vibid:1001000195133": 5,
+      "special:against-all": 87
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070887&region=0&sub_region=0&type=429",
@@ -8706,14 +8706,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 7,
-      "Казаков Виктор Алексеевич": 437,
-      "Каримов Ринат Рафаелович": 4,
-      "Ненашев Владимир Петрович": 7,
-      "Петриков Геннадий Петрович": 11,
-      "Романов Валентин Степанович": 135,
-      "Сучков Дмитрий Александрович": 6,
-      "Против всех": 54
+      "gas:candidate-vibid:263200070662": 7,
+      "gas:candidate-vibid:1001000225978": 437,
+      "gas:candidate-vibid:1001000202329": 4,
+      "gas:candidate-vibid:1001000113971": 7,
+      "gas:candidate-vibid:263200071570": 11,
+      "gas:candidate-vibid:1001000121900": 135,
+      "gas:candidate-vibid:1001000195133": 6,
+      "special:against-all": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070887&region=0&sub_region=0&type=429",
@@ -8763,14 +8763,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 4,
-      "Казаков Виктор Алексеевич": 395,
-      "Каримов Ринат Рафаелович": 2,
-      "Ненашев Владимир Петрович": 4,
-      "Петриков Геннадий Петрович": 7,
-      "Романов Валентин Степанович": 140,
-      "Сучков Дмитрий Александрович": 5,
-      "Против всех": 42
+      "gas:candidate-vibid:263200070662": 4,
+      "gas:candidate-vibid:1001000225978": 395,
+      "gas:candidate-vibid:1001000202329": 2,
+      "gas:candidate-vibid:1001000113971": 4,
+      "gas:candidate-vibid:263200071570": 7,
+      "gas:candidate-vibid:1001000121900": 140,
+      "gas:candidate-vibid:1001000195133": 5,
+      "special:against-all": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070887&region=0&sub_region=0&type=429",
@@ -8820,14 +8820,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 8,
-      "Казаков Виктор Алексеевич": 477,
-      "Каримов Ринат Рафаелович": 0,
-      "Ненашев Владимир Петрович": 7,
-      "Петриков Геннадий Петрович": 15,
-      "Романов Валентин Степанович": 104,
-      "Сучков Дмитрий Александрович": 2,
-      "Против всех": 76
+      "gas:candidate-vibid:263200070662": 8,
+      "gas:candidate-vibid:1001000225978": 477,
+      "gas:candidate-vibid:1001000202329": 0,
+      "gas:candidate-vibid:1001000113971": 7,
+      "gas:candidate-vibid:263200071570": 15,
+      "gas:candidate-vibid:1001000121900": 104,
+      "gas:candidate-vibid:1001000195133": 2,
+      "special:against-all": 76
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070887&region=0&sub_region=0&type=429",
@@ -8877,14 +8877,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 1,
-      "Казаков Виктор Алексеевич": 276,
-      "Каримов Ринат Рафаелович": 7,
-      "Ненашев Владимир Петрович": 2,
-      "Петриков Геннадий Петрович": 20,
-      "Романов Валентин Степанович": 87,
-      "Сучков Дмитрий Александрович": 4,
-      "Против всех": 31
+      "gas:candidate-vibid:263200070662": 1,
+      "gas:candidate-vibid:1001000225978": 276,
+      "gas:candidate-vibid:1001000202329": 7,
+      "gas:candidate-vibid:1001000113971": 2,
+      "gas:candidate-vibid:263200071570": 20,
+      "gas:candidate-vibid:1001000121900": 87,
+      "gas:candidate-vibid:1001000195133": 4,
+      "special:against-all": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070887&region=0&sub_region=0&type=429",
@@ -8934,14 +8934,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 8,
-      "Казаков Виктор Алексеевич": 475,
-      "Каримов Ринат Рафаелович": 6,
-      "Ненашев Владимир Петрович": 1,
-      "Петриков Геннадий Петрович": 14,
-      "Романов Валентин Степанович": 127,
-      "Сучков Дмитрий Александрович": 7,
-      "Против всех": 47
+      "gas:candidate-vibid:263200070662": 8,
+      "gas:candidate-vibid:1001000225978": 475,
+      "gas:candidate-vibid:1001000202329": 6,
+      "gas:candidate-vibid:1001000113971": 1,
+      "gas:candidate-vibid:263200071570": 14,
+      "gas:candidate-vibid:1001000121900": 127,
+      "gas:candidate-vibid:1001000195133": 7,
+      "special:against-all": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070887&region=0&sub_region=0&type=429",
@@ -8991,14 +8991,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 1,
-      "Казаков Виктор Алексеевич": 499,
-      "Каримов Ринат Рафаелович": 7,
-      "Ненашев Владимир Петрович": 1,
-      "Петриков Геннадий Петрович": 10,
-      "Романов Валентин Степанович": 153,
-      "Сучков Дмитрий Александрович": 7,
-      "Против всех": 26
+      "gas:candidate-vibid:263200070662": 1,
+      "gas:candidate-vibid:1001000225978": 499,
+      "gas:candidate-vibid:1001000202329": 7,
+      "gas:candidate-vibid:1001000113971": 1,
+      "gas:candidate-vibid:263200071570": 10,
+      "gas:candidate-vibid:1001000121900": 153,
+      "gas:candidate-vibid:1001000195133": 7,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070887&region=0&sub_region=0&type=429",
@@ -9048,14 +9048,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 5,
-      "Казаков Виктор Алексеевич": 345,
-      "Каримов Ринат Рафаелович": 4,
-      "Ненашев Владимир Петрович": 4,
-      "Петриков Геннадий Петрович": 7,
-      "Романов Валентин Степанович": 119,
-      "Сучков Дмитрий Александрович": 5,
-      "Против всех": 34
+      "gas:candidate-vibid:263200070662": 5,
+      "gas:candidate-vibid:1001000225978": 345,
+      "gas:candidate-vibid:1001000202329": 4,
+      "gas:candidate-vibid:1001000113971": 4,
+      "gas:candidate-vibid:263200071570": 7,
+      "gas:candidate-vibid:1001000121900": 119,
+      "gas:candidate-vibid:1001000195133": 5,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070887&region=0&sub_region=0&type=429",
@@ -9105,14 +9105,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 3,
-      "Казаков Виктор Алексеевич": 497,
-      "Каримов Ринат Рафаелович": 11,
-      "Ненашев Владимир Петрович": 8,
-      "Петриков Геннадий Петрович": 14,
-      "Романов Валентин Степанович": 176,
-      "Сучков Дмитрий Александрович": 3,
-      "Против всех": 54
+      "gas:candidate-vibid:263200070662": 3,
+      "gas:candidate-vibid:1001000225978": 497,
+      "gas:candidate-vibid:1001000202329": 11,
+      "gas:candidate-vibid:1001000113971": 8,
+      "gas:candidate-vibid:263200071570": 14,
+      "gas:candidate-vibid:1001000121900": 176,
+      "gas:candidate-vibid:1001000195133": 3,
+      "special:against-all": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070887&region=0&sub_region=0&type=429",
@@ -9162,14 +9162,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 0,
-      "Казаков Виктор Алексеевич": 317,
-      "Каримов Ринат Рафаелович": 7,
-      "Ненашев Владимир Петрович": 0,
-      "Петриков Геннадий Петрович": 10,
-      "Романов Валентин Степанович": 128,
-      "Сучков Дмитрий Александрович": 2,
-      "Против всех": 43
+      "gas:candidate-vibid:263200070662": 0,
+      "gas:candidate-vibid:1001000225978": 317,
+      "gas:candidate-vibid:1001000202329": 7,
+      "gas:candidate-vibid:1001000113971": 0,
+      "gas:candidate-vibid:263200071570": 10,
+      "gas:candidate-vibid:1001000121900": 128,
+      "gas:candidate-vibid:1001000195133": 2,
+      "special:against-all": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070887&region=0&sub_region=0&type=429",
@@ -9219,14 +9219,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 2,
-      "Казаков Виктор Алексеевич": 187,
-      "Каримов Ринат Рафаелович": 3,
-      "Ненашев Владимир Петрович": 0,
-      "Петриков Геннадий Петрович": 8,
-      "Романов Валентин Степанович": 39,
-      "Сучков Дмитрий Александрович": 5,
-      "Против всех": 27
+      "gas:candidate-vibid:263200070662": 2,
+      "gas:candidate-vibid:1001000225978": 187,
+      "gas:candidate-vibid:1001000202329": 3,
+      "gas:candidate-vibid:1001000113971": 0,
+      "gas:candidate-vibid:263200071570": 8,
+      "gas:candidate-vibid:1001000121900": 39,
+      "gas:candidate-vibid:1001000195133": 5,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070887&region=0&sub_region=0&type=429",
@@ -9276,14 +9276,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 1,
-      "Казаков Виктор Алексеевич": 115,
-      "Каримов Ринат Рафаелович": 1,
-      "Ненашев Владимир Петрович": 2,
-      "Петриков Геннадий Петрович": 2,
-      "Романов Валентин Степанович": 16,
-      "Сучков Дмитрий Александрович": 1,
-      "Против всех": 4
+      "gas:candidate-vibid:263200070662": 1,
+      "gas:candidate-vibid:1001000225978": 115,
+      "gas:candidate-vibid:1001000202329": 1,
+      "gas:candidate-vibid:1001000113971": 2,
+      "gas:candidate-vibid:263200071570": 2,
+      "gas:candidate-vibid:1001000121900": 16,
+      "gas:candidate-vibid:1001000195133": 1,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070887&region=0&sub_region=0&type=429",
@@ -9333,14 +9333,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 3,
-      "Казаков Виктор Алексеевич": 110,
-      "Каримов Ринат Рафаелович": 4,
-      "Ненашев Владимир Петрович": 1,
-      "Петриков Геннадий Петрович": 3,
-      "Романов Валентин Степанович": 34,
-      "Сучков Дмитрий Александрович": 0,
-      "Против всех": 14
+      "gas:candidate-vibid:263200070662": 3,
+      "gas:candidate-vibid:1001000225978": 110,
+      "gas:candidate-vibid:1001000202329": 4,
+      "gas:candidate-vibid:1001000113971": 1,
+      "gas:candidate-vibid:263200071570": 3,
+      "gas:candidate-vibid:1001000121900": 34,
+      "gas:candidate-vibid:1001000195133": 0,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070887&region=0&sub_region=0&type=429",
@@ -9390,14 +9390,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 5,
-      "Казаков Виктор Алексеевич": 176,
-      "Каримов Ринат Рафаелович": 3,
-      "Ненашев Владимир Петрович": 3,
-      "Петриков Геннадий Петрович": 3,
-      "Романов Валентин Степанович": 35,
-      "Сучков Дмитрий Александрович": 0,
-      "Против всех": 10
+      "gas:candidate-vibid:263200070662": 5,
+      "gas:candidate-vibid:1001000225978": 176,
+      "gas:candidate-vibid:1001000202329": 3,
+      "gas:candidate-vibid:1001000113971": 3,
+      "gas:candidate-vibid:263200071570": 3,
+      "gas:candidate-vibid:1001000121900": 35,
+      "gas:candidate-vibid:1001000195133": 0,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070887&region=0&sub_region=0&type=429",
@@ -9447,14 +9447,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 6,
-      "Казаков Виктор Алексеевич": 568,
-      "Каримов Ринат Рафаелович": 6,
-      "Ненашев Владимир Петрович": 5,
-      "Петриков Геннадий Петрович": 7,
-      "Романов Валентин Степанович": 176,
-      "Сучков Дмитрий Александрович": 6,
-      "Против всех": 74
+      "gas:candidate-vibid:263200070662": 6,
+      "gas:candidate-vibid:1001000225978": 568,
+      "gas:candidate-vibid:1001000202329": 6,
+      "gas:candidate-vibid:1001000113971": 5,
+      "gas:candidate-vibid:263200071570": 7,
+      "gas:candidate-vibid:1001000121900": 176,
+      "gas:candidate-vibid:1001000195133": 6,
+      "special:against-all": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070887&region=0&sub_region=0&type=429",
@@ -9504,14 +9504,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 4,
-      "Казаков Виктор Алексеевич": 442,
-      "Каримов Ринат Рафаелович": 3,
-      "Ненашев Владимир Петрович": 2,
-      "Петриков Геннадий Петрович": 15,
-      "Романов Валентин Степанович": 126,
-      "Сучков Дмитрий Александрович": 7,
-      "Против всех": 73
+      "gas:candidate-vibid:263200070662": 4,
+      "gas:candidate-vibid:1001000225978": 442,
+      "gas:candidate-vibid:1001000202329": 3,
+      "gas:candidate-vibid:1001000113971": 2,
+      "gas:candidate-vibid:263200071570": 15,
+      "gas:candidate-vibid:1001000121900": 126,
+      "gas:candidate-vibid:1001000195133": 7,
+      "special:against-all": 73
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070887&region=0&sub_region=0&type=429",
@@ -9561,14 +9561,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 1,
-      "Казаков Виктор Алексеевич": 351,
-      "Каримов Ринат Рафаелович": 4,
-      "Ненашев Владимир Петрович": 5,
-      "Петриков Геннадий Петрович": 10,
-      "Романов Валентин Степанович": 130,
-      "Сучков Дмитрий Александрович": 5,
-      "Против всех": 62
+      "gas:candidate-vibid:263200070662": 1,
+      "gas:candidate-vibid:1001000225978": 351,
+      "gas:candidate-vibid:1001000202329": 4,
+      "gas:candidate-vibid:1001000113971": 5,
+      "gas:candidate-vibid:263200071570": 10,
+      "gas:candidate-vibid:1001000121900": 130,
+      "gas:candidate-vibid:1001000195133": 5,
+      "special:against-all": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070887&region=0&sub_region=0&type=429",
@@ -9618,14 +9618,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 4,
-      "Казаков Виктор Алексеевич": 411,
-      "Каримов Ринат Рафаелович": 5,
-      "Ненашев Владимир Петрович": 6,
-      "Петриков Геннадий Петрович": 11,
-      "Романов Валентин Степанович": 162,
-      "Сучков Дмитрий Александрович": 5,
-      "Против всех": 60
+      "gas:candidate-vibid:263200070662": 4,
+      "gas:candidate-vibid:1001000225978": 411,
+      "gas:candidate-vibid:1001000202329": 5,
+      "gas:candidate-vibid:1001000113971": 6,
+      "gas:candidate-vibid:263200071570": 11,
+      "gas:candidate-vibid:1001000121900": 162,
+      "gas:candidate-vibid:1001000195133": 5,
+      "special:against-all": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070887&region=0&sub_region=0&type=429",
@@ -9675,14 +9675,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 3,
-      "Казаков Виктор Алексеевич": 483,
-      "Каримов Ринат Рафаелович": 2,
-      "Ненашев Владимир Петрович": 3,
-      "Петриков Геннадий Петрович": 5,
-      "Романов Валентин Степанович": 104,
-      "Сучков Дмитрий Александрович": 5,
-      "Против всех": 68
+      "gas:candidate-vibid:263200070662": 3,
+      "gas:candidate-vibid:1001000225978": 483,
+      "gas:candidate-vibid:1001000202329": 2,
+      "gas:candidate-vibid:1001000113971": 3,
+      "gas:candidate-vibid:263200071570": 5,
+      "gas:candidate-vibid:1001000121900": 104,
+      "gas:candidate-vibid:1001000195133": 5,
+      "special:against-all": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070887&region=0&sub_region=0&type=429",
@@ -9732,14 +9732,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 2,
-      "Казаков Виктор Алексеевич": 423,
-      "Каримов Ринат Рафаелович": 7,
-      "Ненашев Владимир Петрович": 6,
-      "Петриков Геннадий Петрович": 14,
-      "Романов Валентин Степанович": 150,
-      "Сучков Дмитрий Александрович": 5,
-      "Против всех": 73
+      "gas:candidate-vibid:263200070662": 2,
+      "gas:candidate-vibid:1001000225978": 423,
+      "gas:candidate-vibid:1001000202329": 7,
+      "gas:candidate-vibid:1001000113971": 6,
+      "gas:candidate-vibid:263200071570": 14,
+      "gas:candidate-vibid:1001000121900": 150,
+      "gas:candidate-vibid:1001000195133": 5,
+      "special:against-all": 73
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070887&region=0&sub_region=0&type=429",
@@ -9789,14 +9789,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 5,
-      "Казаков Виктор Алексеевич": 307,
-      "Каримов Ринат Рафаелович": 5,
-      "Ненашев Владимир Петрович": 9,
-      "Петриков Геннадий Петрович": 16,
-      "Романов Валентин Степанович": 118,
-      "Сучков Дмитрий Александрович": 4,
-      "Против всех": 66
+      "gas:candidate-vibid:263200070662": 5,
+      "gas:candidate-vibid:1001000225978": 307,
+      "gas:candidate-vibid:1001000202329": 5,
+      "gas:candidate-vibid:1001000113971": 9,
+      "gas:candidate-vibid:263200071570": 16,
+      "gas:candidate-vibid:1001000121900": 118,
+      "gas:candidate-vibid:1001000195133": 4,
+      "special:against-all": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070887&region=0&sub_region=0&type=429",
@@ -9846,14 +9846,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 5,
-      "Казаков Виктор Алексеевич": 292,
-      "Каримов Ринат Рафаелович": 4,
-      "Ненашев Владимир Петрович": 6,
-      "Петриков Геннадий Петрович": 9,
-      "Романов Валентин Степанович": 71,
-      "Сучков Дмитрий Александрович": 2,
-      "Против всех": 30
+      "gas:candidate-vibid:263200070662": 5,
+      "gas:candidate-vibid:1001000225978": 292,
+      "gas:candidate-vibid:1001000202329": 4,
+      "gas:candidate-vibid:1001000113971": 6,
+      "gas:candidate-vibid:263200071570": 9,
+      "gas:candidate-vibid:1001000121900": 71,
+      "gas:candidate-vibid:1001000195133": 2,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070887&region=0&sub_region=0&type=429",
@@ -9903,14 +9903,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 4,
-      "Казаков Виктор Алексеевич": 296,
-      "Каримов Ринат Рафаелович": 4,
-      "Ненашев Владимир Петрович": 5,
-      "Петриков Геннадий Петрович": 8,
-      "Романов Валентин Степанович": 84,
-      "Сучков Дмитрий Александрович": 3,
-      "Против всех": 32
+      "gas:candidate-vibid:263200070662": 4,
+      "gas:candidate-vibid:1001000225978": 296,
+      "gas:candidate-vibid:1001000202329": 4,
+      "gas:candidate-vibid:1001000113971": 5,
+      "gas:candidate-vibid:263200071570": 8,
+      "gas:candidate-vibid:1001000121900": 84,
+      "gas:candidate-vibid:1001000195133": 3,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070887&region=0&sub_region=0&type=429",
@@ -9960,14 +9960,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 6,
-      "Казаков Виктор Алексеевич": 388,
-      "Каримов Ринат Рафаелович": 6,
-      "Ненашев Владимир Петрович": 10,
-      "Петриков Геннадий Петрович": 9,
-      "Романов Валентин Степанович": 62,
-      "Сучков Дмитрий Александрович": 4,
-      "Против всех": 45
+      "gas:candidate-vibid:263200070662": 6,
+      "gas:candidate-vibid:1001000225978": 388,
+      "gas:candidate-vibid:1001000202329": 6,
+      "gas:candidate-vibid:1001000113971": 10,
+      "gas:candidate-vibid:263200071570": 9,
+      "gas:candidate-vibid:1001000121900": 62,
+      "gas:candidate-vibid:1001000195133": 4,
+      "special:against-all": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070887&region=0&sub_region=0&type=429",
@@ -10017,14 +10017,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 7,
-      "Казаков Виктор Алексеевич": 802,
-      "Каримов Ринат Рафаелович": 8,
-      "Ненашев Владимир Петрович": 3,
-      "Петриков Геннадий Петрович": 16,
-      "Романов Валентин Степанович": 210,
-      "Сучков Дмитрий Александрович": 7,
-      "Против всех": 131
+      "gas:candidate-vibid:263200070662": 7,
+      "gas:candidate-vibid:1001000225978": 802,
+      "gas:candidate-vibid:1001000202329": 8,
+      "gas:candidate-vibid:1001000113971": 3,
+      "gas:candidate-vibid:263200071570": 16,
+      "gas:candidate-vibid:1001000121900": 210,
+      "gas:candidate-vibid:1001000195133": 7,
+      "special:against-all": 131
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070887&region=0&sub_region=0&type=429",
@@ -10074,14 +10074,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 2,
-      "Казаков Виктор Алексеевич": 731,
-      "Каримов Ринат Рафаелович": 10,
-      "Ненашев Владимир Петрович": 12,
-      "Петриков Геннадий Петрович": 11,
-      "Романов Валентин Степанович": 155,
-      "Сучков Дмитрий Александрович": 4,
-      "Против всех": 107
+      "gas:candidate-vibid:263200070662": 2,
+      "gas:candidate-vibid:1001000225978": 731,
+      "gas:candidate-vibid:1001000202329": 10,
+      "gas:candidate-vibid:1001000113971": 12,
+      "gas:candidate-vibid:263200071570": 11,
+      "gas:candidate-vibid:1001000121900": 155,
+      "gas:candidate-vibid:1001000195133": 4,
+      "special:against-all": 107
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070887&region=0&sub_region=0&type=429",
@@ -10131,14 +10131,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 11,
-      "Казаков Виктор Алексеевич": 411,
-      "Каримов Ринат Рафаелович": 20,
-      "Ненашев Владимир Петрович": 19,
-      "Петриков Геннадий Петрович": 5,
-      "Романов Валентин Степанович": 71,
-      "Сучков Дмитрий Александрович": 13,
-      "Против всех": 108
+      "gas:candidate-vibid:263200070662": 11,
+      "gas:candidate-vibid:1001000225978": 411,
+      "gas:candidate-vibid:1001000202329": 20,
+      "gas:candidate-vibid:1001000113971": 19,
+      "gas:candidate-vibid:263200071570": 5,
+      "gas:candidate-vibid:1001000121900": 71,
+      "gas:candidate-vibid:1001000195133": 13,
+      "special:against-all": 108
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070887&region=0&sub_region=0&type=429",
@@ -10188,14 +10188,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 4,
-      "Казаков Виктор Алексеевич": 653,
-      "Каримов Ринат Рафаелович": 9,
-      "Ненашев Владимир Петрович": 25,
-      "Петриков Геннадий Петрович": 16,
-      "Романов Валентин Степанович": 375,
-      "Сучков Дмитрий Александрович": 7,
-      "Против всех": 92
+      "gas:candidate-vibid:263200070662": 4,
+      "gas:candidate-vibid:1001000225978": 653,
+      "gas:candidate-vibid:1001000202329": 9,
+      "gas:candidate-vibid:1001000113971": 25,
+      "gas:candidate-vibid:263200071570": 16,
+      "gas:candidate-vibid:1001000121900": 375,
+      "gas:candidate-vibid:1001000195133": 7,
+      "special:against-all": 92
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070888&region=0&sub_region=0&type=429",
@@ -10245,14 +10245,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 6,
-      "Казаков Виктор Алексеевич": 820,
-      "Каримов Ринат Рафаелович": 14,
-      "Ненашев Владимир Петрович": 26,
-      "Петриков Геннадий Петрович": 19,
-      "Романов Валентин Степанович": 396,
-      "Сучков Дмитрий Александрович": 12,
-      "Против всех": 139
+      "gas:candidate-vibid:263200070662": 6,
+      "gas:candidate-vibid:1001000225978": 820,
+      "gas:candidate-vibid:1001000202329": 14,
+      "gas:candidate-vibid:1001000113971": 26,
+      "gas:candidate-vibid:263200071570": 19,
+      "gas:candidate-vibid:1001000121900": 396,
+      "gas:candidate-vibid:1001000195133": 12,
+      "special:against-all": 139
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070888&region=0&sub_region=0&type=429",
@@ -10302,14 +10302,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 11,
-      "Казаков Виктор Алексеевич": 800,
-      "Каримов Ринат Рафаелович": 10,
-      "Ненашев Владимир Петрович": 31,
-      "Петриков Геннадий Петрович": 23,
-      "Романов Валентин Степанович": 494,
-      "Сучков Дмитрий Александрович": 25,
-      "Против всех": 143
+      "gas:candidate-vibid:263200070662": 11,
+      "gas:candidate-vibid:1001000225978": 800,
+      "gas:candidate-vibid:1001000202329": 10,
+      "gas:candidate-vibid:1001000113971": 31,
+      "gas:candidate-vibid:263200071570": 23,
+      "gas:candidate-vibid:1001000121900": 494,
+      "gas:candidate-vibid:1001000195133": 25,
+      "special:against-all": 143
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070888&region=0&sub_region=0&type=429",
@@ -10359,14 +10359,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 18,
-      "Казаков Виктор Алексеевич": 678,
-      "Каримов Ринат Рафаелович": 16,
-      "Ненашев Владимир Петрович": 28,
-      "Петриков Геннадий Петрович": 13,
-      "Романов Валентин Степанович": 378,
-      "Сучков Дмитрий Александрович": 11,
-      "Против всех": 118
+      "gas:candidate-vibid:263200070662": 18,
+      "gas:candidate-vibid:1001000225978": 678,
+      "gas:candidate-vibid:1001000202329": 16,
+      "gas:candidate-vibid:1001000113971": 28,
+      "gas:candidate-vibid:263200071570": 13,
+      "gas:candidate-vibid:1001000121900": 378,
+      "gas:candidate-vibid:1001000195133": 11,
+      "special:against-all": 118
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070888&region=0&sub_region=0&type=429",
@@ -10416,14 +10416,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 17,
-      "Казаков Виктор Алексеевич": 889,
-      "Каримов Ринат Рафаелович": 11,
-      "Ненашев Владимир Петрович": 22,
-      "Петриков Геннадий Петрович": 24,
-      "Романов Валентин Степанович": 423,
-      "Сучков Дмитрий Александрович": 18,
-      "Против всех": 198
+      "gas:candidate-vibid:263200070662": 17,
+      "gas:candidate-vibid:1001000225978": 889,
+      "gas:candidate-vibid:1001000202329": 11,
+      "gas:candidate-vibid:1001000113971": 22,
+      "gas:candidate-vibid:263200071570": 24,
+      "gas:candidate-vibid:1001000121900": 423,
+      "gas:candidate-vibid:1001000195133": 18,
+      "special:against-all": 198
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070888&region=0&sub_region=0&type=429",
@@ -10473,14 +10473,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 13,
-      "Казаков Виктор Алексеевич": 883,
-      "Каримов Ринат Рафаелович": 18,
-      "Ненашев Владимир Петрович": 20,
-      "Петриков Геннадий Петрович": 16,
-      "Романов Валентин Степанович": 377,
-      "Сучков Дмитрий Александрович": 19,
-      "Против всех": 193
+      "gas:candidate-vibid:263200070662": 13,
+      "gas:candidate-vibid:1001000225978": 883,
+      "gas:candidate-vibid:1001000202329": 18,
+      "gas:candidate-vibid:1001000113971": 20,
+      "gas:candidate-vibid:263200071570": 16,
+      "gas:candidate-vibid:1001000121900": 377,
+      "gas:candidate-vibid:1001000195133": 19,
+      "special:against-all": 193
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070888&region=0&sub_region=0&type=429",
@@ -10530,14 +10530,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 11,
-      "Казаков Виктор Алексеевич": 857,
-      "Каримов Ринат Рафаелович": 8,
-      "Ненашев Владимир Петрович": 30,
-      "Петриков Геннадий Петрович": 15,
-      "Романов Валентин Степанович": 498,
-      "Сучков Дмитрий Александрович": 23,
-      "Против всех": 128
+      "gas:candidate-vibid:263200070662": 11,
+      "gas:candidate-vibid:1001000225978": 857,
+      "gas:candidate-vibid:1001000202329": 8,
+      "gas:candidate-vibid:1001000113971": 30,
+      "gas:candidate-vibid:263200071570": 15,
+      "gas:candidate-vibid:1001000121900": 498,
+      "gas:candidate-vibid:1001000195133": 23,
+      "special:against-all": 128
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070888&region=0&sub_region=0&type=429",
@@ -10587,14 +10587,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 8,
-      "Казаков Виктор Алексеевич": 706,
-      "Каримов Ринат Рафаелович": 21,
-      "Ненашев Владимир Петрович": 18,
-      "Петриков Геннадий Петрович": 13,
-      "Романов Валентин Степанович": 460,
-      "Сучков Дмитрий Александрович": 22,
-      "Против всех": 123
+      "gas:candidate-vibid:263200070662": 8,
+      "gas:candidate-vibid:1001000225978": 706,
+      "gas:candidate-vibid:1001000202329": 21,
+      "gas:candidate-vibid:1001000113971": 18,
+      "gas:candidate-vibid:263200071570": 13,
+      "gas:candidate-vibid:1001000121900": 460,
+      "gas:candidate-vibid:1001000195133": 22,
+      "special:against-all": 123
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070888&region=0&sub_region=0&type=429",
@@ -10644,14 +10644,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 8,
-      "Казаков Виктор Алексеевич": 840,
-      "Каримов Ринат Рафаелович": 9,
-      "Ненашев Владимир Петрович": 24,
-      "Петриков Геннадий Петрович": 18,
-      "Романов Валентин Степанович": 468,
-      "Сучков Дмитрий Александрович": 20,
-      "Против всех": 156
+      "gas:candidate-vibid:263200070662": 8,
+      "gas:candidate-vibid:1001000225978": 840,
+      "gas:candidate-vibid:1001000202329": 9,
+      "gas:candidate-vibid:1001000113971": 24,
+      "gas:candidate-vibid:263200071570": 18,
+      "gas:candidate-vibid:1001000121900": 468,
+      "gas:candidate-vibid:1001000195133": 20,
+      "special:against-all": 156
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070888&region=0&sub_region=0&type=429",
@@ -10701,14 +10701,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 8,
-      "Казаков Виктор Алексеевич": 801,
-      "Каримов Ринат Рафаелович": 11,
-      "Ненашев Владимир Петрович": 22,
-      "Петриков Геннадий Петрович": 11,
-      "Романов Валентин Степанович": 506,
-      "Сучков Дмитрий Александрович": 12,
-      "Против всех": 146
+      "gas:candidate-vibid:263200070662": 8,
+      "gas:candidate-vibid:1001000225978": 801,
+      "gas:candidate-vibid:1001000202329": 11,
+      "gas:candidate-vibid:1001000113971": 22,
+      "gas:candidate-vibid:263200071570": 11,
+      "gas:candidate-vibid:1001000121900": 506,
+      "gas:candidate-vibid:1001000195133": 12,
+      "special:against-all": 146
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070888&region=0&sub_region=0&type=429",
@@ -10758,14 +10758,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 15,
-      "Казаков Виктор Алексеевич": 809,
-      "Каримов Ринат Рафаелович": 11,
-      "Ненашев Владимир Петрович": 27,
-      "Петриков Геннадий Петрович": 16,
-      "Романов Валентин Степанович": 495,
-      "Сучков Дмитрий Александрович": 20,
-      "Против всех": 168
+      "gas:candidate-vibid:263200070662": 15,
+      "gas:candidate-vibid:1001000225978": 809,
+      "gas:candidate-vibid:1001000202329": 11,
+      "gas:candidate-vibid:1001000113971": 27,
+      "gas:candidate-vibid:263200071570": 16,
+      "gas:candidate-vibid:1001000121900": 495,
+      "gas:candidate-vibid:1001000195133": 20,
+      "special:against-all": 168
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070888&region=0&sub_region=0&type=429",
@@ -10815,14 +10815,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 12,
-      "Казаков Виктор Алексеевич": 773,
-      "Каримов Ринат Рафаелович": 18,
-      "Ненашев Владимир Петрович": 25,
-      "Петриков Геннадий Петрович": 7,
-      "Романов Валентин Степанович": 531,
-      "Сучков Дмитрий Александрович": 20,
-      "Против всех": 109
+      "gas:candidate-vibid:263200070662": 12,
+      "gas:candidate-vibid:1001000225978": 773,
+      "gas:candidate-vibid:1001000202329": 18,
+      "gas:candidate-vibid:1001000113971": 25,
+      "gas:candidate-vibid:263200071570": 7,
+      "gas:candidate-vibid:1001000121900": 531,
+      "gas:candidate-vibid:1001000195133": 20,
+      "special:against-all": 109
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070888&region=0&sub_region=0&type=429",
@@ -10872,14 +10872,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 8,
-      "Казаков Виктор Алексеевич": 668,
-      "Каримов Ринат Рафаелович": 14,
-      "Ненашев Владимир Петрович": 18,
-      "Петриков Геннадий Петрович": 13,
-      "Романов Валентин Степанович": 386,
-      "Сучков Дмитрий Александрович": 17,
-      "Против всех": 140
+      "gas:candidate-vibid:263200070662": 8,
+      "gas:candidate-vibid:1001000225978": 668,
+      "gas:candidate-vibid:1001000202329": 14,
+      "gas:candidate-vibid:1001000113971": 18,
+      "gas:candidate-vibid:263200071570": 13,
+      "gas:candidate-vibid:1001000121900": 386,
+      "gas:candidate-vibid:1001000195133": 17,
+      "special:against-all": 140
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070888&region=0&sub_region=0&type=429",
@@ -10929,14 +10929,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 8,
-      "Казаков Виктор Алексеевич": 535,
-      "Каримов Ринат Рафаелович": 10,
-      "Ненашев Владимир Петрович": 22,
-      "Петриков Геннадий Петрович": 21,
-      "Романов Валентин Степанович": 328,
-      "Сучков Дмитрий Александрович": 11,
-      "Против всех": 102
+      "gas:candidate-vibid:263200070662": 8,
+      "gas:candidate-vibid:1001000225978": 535,
+      "gas:candidate-vibid:1001000202329": 10,
+      "gas:candidate-vibid:1001000113971": 22,
+      "gas:candidate-vibid:263200071570": 21,
+      "gas:candidate-vibid:1001000121900": 328,
+      "gas:candidate-vibid:1001000195133": 11,
+      "special:against-all": 102
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070888&region=0&sub_region=0&type=429",
@@ -10986,14 +10986,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 0,
-      "Казаков Виктор Алексеевич": 41,
-      "Каримов Ринат Рафаелович": 0,
-      "Ненашев Владимир Петрович": 4,
-      "Петриков Геннадий Петрович": 1,
-      "Романов Валентин Степанович": 14,
-      "Сучков Дмитрий Александрович": 0,
-      "Против всех": 9
+      "gas:candidate-vibid:263200070662": 0,
+      "gas:candidate-vibid:1001000225978": 41,
+      "gas:candidate-vibid:1001000202329": 0,
+      "gas:candidate-vibid:1001000113971": 4,
+      "gas:candidate-vibid:263200071570": 1,
+      "gas:candidate-vibid:1001000121900": 14,
+      "gas:candidate-vibid:1001000195133": 0,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070888&region=0&sub_region=0&type=429",
@@ -11043,14 +11043,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 11,
-      "Казаков Виктор Алексеевич": 840,
-      "Каримов Ринат Рафаелович": 16,
-      "Ненашев Владимир Петрович": 35,
-      "Петриков Геннадий Петрович": 34,
-      "Романов Валентин Степанович": 428,
-      "Сучков Дмитрий Александрович": 22,
-      "Против всех": 194
+      "gas:candidate-vibid:263200070662": 11,
+      "gas:candidate-vibid:1001000225978": 840,
+      "gas:candidate-vibid:1001000202329": 16,
+      "gas:candidate-vibid:1001000113971": 35,
+      "gas:candidate-vibid:263200071570": 34,
+      "gas:candidate-vibid:1001000121900": 428,
+      "gas:candidate-vibid:1001000195133": 22,
+      "special:against-all": 194
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070889&region=0&sub_region=0&type=429",
@@ -11100,14 +11100,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 5,
-      "Казаков Виктор Алексеевич": 576,
-      "Каримов Ринат Рафаелович": 5,
-      "Ненашев Владимир Петрович": 18,
-      "Петриков Геннадий Петрович": 19,
-      "Романов Валентин Степанович": 265,
-      "Сучков Дмитрий Александрович": 9,
-      "Против всех": 68
+      "gas:candidate-vibid:263200070662": 5,
+      "gas:candidate-vibid:1001000225978": 576,
+      "gas:candidate-vibid:1001000202329": 5,
+      "gas:candidate-vibid:1001000113971": 18,
+      "gas:candidate-vibid:263200071570": 19,
+      "gas:candidate-vibid:1001000121900": 265,
+      "gas:candidate-vibid:1001000195133": 9,
+      "special:against-all": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070889&region=0&sub_region=0&type=429",
@@ -11157,14 +11157,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 8,
-      "Казаков Виктор Алексеевич": 455,
-      "Каримов Ринат Рафаелович": 7,
-      "Ненашев Владимир Петрович": 21,
-      "Петриков Геннадий Петрович": 19,
-      "Романов Валентин Степанович": 238,
-      "Сучков Дмитрий Александрович": 13,
-      "Против всех": 80
+      "gas:candidate-vibid:263200070662": 8,
+      "gas:candidate-vibid:1001000225978": 455,
+      "gas:candidate-vibid:1001000202329": 7,
+      "gas:candidate-vibid:1001000113971": 21,
+      "gas:candidate-vibid:263200071570": 19,
+      "gas:candidate-vibid:1001000121900": 238,
+      "gas:candidate-vibid:1001000195133": 13,
+      "special:against-all": 80
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070889&region=0&sub_region=0&type=429",
@@ -11214,14 +11214,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 5,
-      "Казаков Виктор Алексеевич": 290,
-      "Каримов Ринат Рафаелович": 2,
-      "Ненашев Владимир Петрович": 19,
-      "Петриков Геннадий Петрович": 11,
-      "Романов Валентин Степанович": 162,
-      "Сучков Дмитрий Александрович": 2,
-      "Против всех": 56
+      "gas:candidate-vibid:263200070662": 5,
+      "gas:candidate-vibid:1001000225978": 290,
+      "gas:candidate-vibid:1001000202329": 2,
+      "gas:candidate-vibid:1001000113971": 19,
+      "gas:candidate-vibid:263200071570": 11,
+      "gas:candidate-vibid:1001000121900": 162,
+      "gas:candidate-vibid:1001000195133": 2,
+      "special:against-all": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070889&region=0&sub_region=0&type=429",
@@ -11271,14 +11271,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 6,
-      "Казаков Виктор Алексеевич": 484,
-      "Каримов Ринат Рафаелович": 7,
-      "Ненашев Владимир Петрович": 18,
-      "Петриков Геннадий Петрович": 16,
-      "Романов Валентин Степанович": 302,
-      "Сучков Дмитрий Александрович": 3,
-      "Против всех": 83
+      "gas:candidate-vibid:263200070662": 6,
+      "gas:candidate-vibid:1001000225978": 484,
+      "gas:candidate-vibid:1001000202329": 7,
+      "gas:candidate-vibid:1001000113971": 18,
+      "gas:candidate-vibid:263200071570": 16,
+      "gas:candidate-vibid:1001000121900": 302,
+      "gas:candidate-vibid:1001000195133": 3,
+      "special:against-all": 83
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070889&region=0&sub_region=0&type=429",
@@ -11328,14 +11328,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 6,
-      "Казаков Виктор Алексеевич": 464,
-      "Каримов Ринат Рафаелович": 8,
-      "Ненашев Владимир Петрович": 20,
-      "Петриков Геннадий Петрович": 27,
-      "Романов Валентин Степанович": 223,
-      "Сучков Дмитрий Александрович": 6,
-      "Против всех": 78
+      "gas:candidate-vibid:263200070662": 6,
+      "gas:candidate-vibid:1001000225978": 464,
+      "gas:candidate-vibid:1001000202329": 8,
+      "gas:candidate-vibid:1001000113971": 20,
+      "gas:candidate-vibid:263200071570": 27,
+      "gas:candidate-vibid:1001000121900": 223,
+      "gas:candidate-vibid:1001000195133": 6,
+      "special:against-all": 78
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070889&region=0&sub_region=0&type=429",
@@ -11385,14 +11385,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 13,
-      "Казаков Виктор Алексеевич": 653,
-      "Каримов Ринат Рафаелович": 10,
-      "Ненашев Владимир Петрович": 21,
-      "Петриков Геннадий Петрович": 25,
-      "Романов Валентин Степанович": 386,
-      "Сучков Дмитрий Александрович": 19,
-      "Против всех": 162
+      "gas:candidate-vibid:263200070662": 13,
+      "gas:candidate-vibid:1001000225978": 653,
+      "gas:candidate-vibid:1001000202329": 10,
+      "gas:candidate-vibid:1001000113971": 21,
+      "gas:candidate-vibid:263200071570": 25,
+      "gas:candidate-vibid:1001000121900": 386,
+      "gas:candidate-vibid:1001000195133": 19,
+      "special:against-all": 162
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070889&region=0&sub_region=0&type=429",
@@ -11442,14 +11442,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 5,
-      "Казаков Виктор Алексеевич": 603,
-      "Каримов Ринат Рафаелович": 13,
-      "Ненашев Владимир Петрович": 21,
-      "Петриков Геннадий Петрович": 23,
-      "Романов Валентин Степанович": 269,
-      "Сучков Дмитрий Александрович": 9,
-      "Против всех": 121
+      "gas:candidate-vibid:263200070662": 5,
+      "gas:candidate-vibid:1001000225978": 603,
+      "gas:candidate-vibid:1001000202329": 13,
+      "gas:candidate-vibid:1001000113971": 21,
+      "gas:candidate-vibid:263200071570": 23,
+      "gas:candidate-vibid:1001000121900": 269,
+      "gas:candidate-vibid:1001000195133": 9,
+      "special:against-all": 121
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070889&region=0&sub_region=0&type=429",
@@ -11499,14 +11499,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 5,
-      "Казаков Виктор Алексеевич": 702,
-      "Каримов Ринат Рафаелович": 13,
-      "Ненашев Владимир Петрович": 19,
-      "Петриков Геннадий Петрович": 23,
-      "Романов Валентин Степанович": 372,
-      "Сучков Дмитрий Александрович": 15,
-      "Против всех": 130
+      "gas:candidate-vibid:263200070662": 5,
+      "gas:candidate-vibid:1001000225978": 702,
+      "gas:candidate-vibid:1001000202329": 13,
+      "gas:candidate-vibid:1001000113971": 19,
+      "gas:candidate-vibid:263200071570": 23,
+      "gas:candidate-vibid:1001000121900": 372,
+      "gas:candidate-vibid:1001000195133": 15,
+      "special:against-all": 130
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070889&region=0&sub_region=0&type=429",
@@ -11556,14 +11556,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 13,
-      "Казаков Виктор Алексеевич": 710,
-      "Каримов Ринат Рафаелович": 8,
-      "Ненашев Владимир Петрович": 18,
-      "Петриков Геннадий Петрович": 14,
-      "Романов Валентин Степанович": 356,
-      "Сучков Дмитрий Александрович": 6,
-      "Против всех": 111
+      "gas:candidate-vibid:263200070662": 13,
+      "gas:candidate-vibid:1001000225978": 710,
+      "gas:candidate-vibid:1001000202329": 8,
+      "gas:candidate-vibid:1001000113971": 18,
+      "gas:candidate-vibid:263200071570": 14,
+      "gas:candidate-vibid:1001000121900": 356,
+      "gas:candidate-vibid:1001000195133": 6,
+      "special:against-all": 111
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070889&region=0&sub_region=0&type=429",
@@ -11613,14 +11613,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 7,
-      "Казаков Виктор Алексеевич": 676,
-      "Каримов Ринат Рафаелович": 8,
-      "Ненашев Владимир Петрович": 23,
-      "Петриков Геннадий Петрович": 24,
-      "Романов Валентин Степанович": 382,
-      "Сучков Дмитрий Александрович": 19,
-      "Против всех": 121
+      "gas:candidate-vibid:263200070662": 7,
+      "gas:candidate-vibid:1001000225978": 676,
+      "gas:candidate-vibid:1001000202329": 8,
+      "gas:candidate-vibid:1001000113971": 23,
+      "gas:candidate-vibid:263200071570": 24,
+      "gas:candidate-vibid:1001000121900": 382,
+      "gas:candidate-vibid:1001000195133": 19,
+      "special:against-all": 121
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070889&region=0&sub_region=0&type=429",
@@ -11670,14 +11670,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 7,
-      "Казаков Виктор Алексеевич": 682,
-      "Каримов Ринат Рафаелович": 10,
-      "Ненашев Владимир Петрович": 16,
-      "Петриков Геннадий Петрович": 17,
-      "Романов Валентин Степанович": 450,
-      "Сучков Дмитрий Александрович": 10,
-      "Против всех": 129
+      "gas:candidate-vibid:263200070662": 7,
+      "gas:candidate-vibid:1001000225978": 682,
+      "gas:candidate-vibid:1001000202329": 10,
+      "gas:candidate-vibid:1001000113971": 16,
+      "gas:candidate-vibid:263200071570": 17,
+      "gas:candidate-vibid:1001000121900": 450,
+      "gas:candidate-vibid:1001000195133": 10,
+      "special:against-all": 129
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070889&region=0&sub_region=0&type=429",
@@ -11727,14 +11727,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 8,
-      "Казаков Виктор Алексеевич": 855,
-      "Каримов Ринат Рафаелович": 18,
-      "Ненашев Владимир Петрович": 20,
-      "Петриков Геннадий Петрович": 19,
-      "Романов Валентин Степанович": 412,
-      "Сучков Дмитрий Александрович": 16,
-      "Против всех": 96
+      "gas:candidate-vibid:263200070662": 8,
+      "gas:candidate-vibid:1001000225978": 855,
+      "gas:candidate-vibid:1001000202329": 18,
+      "gas:candidate-vibid:1001000113971": 20,
+      "gas:candidate-vibid:263200071570": 19,
+      "gas:candidate-vibid:1001000121900": 412,
+      "gas:candidate-vibid:1001000195133": 16,
+      "special:against-all": 96
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070889&region=0&sub_region=0&type=429",
@@ -11784,14 +11784,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 2,
-      "Казаков Виктор Алексеевич": 102,
-      "Каримов Ринат Рафаелович": 1,
-      "Ненашев Владимир Петрович": 6,
-      "Петриков Геннадий Петрович": 6,
-      "Романов Валентин Степанович": 65,
-      "Сучков Дмитрий Александрович": 6,
-      "Против всех": 16
+      "gas:candidate-vibid:263200070662": 2,
+      "gas:candidate-vibid:1001000225978": 102,
+      "gas:candidate-vibid:1001000202329": 1,
+      "gas:candidate-vibid:1001000113971": 6,
+      "gas:candidate-vibid:263200071570": 6,
+      "gas:candidate-vibid:1001000121900": 65,
+      "gas:candidate-vibid:1001000195133": 6,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070889&region=0&sub_region=0&type=429",
@@ -11841,14 +11841,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 11,
-      "Казаков Виктор Алексеевич": 608,
-      "Каримов Ринат Рафаелович": 6,
-      "Ненашев Владимир Петрович": 11,
-      "Петриков Геннадий Петрович": 17,
-      "Романов Валентин Степанович": 272,
-      "Сучков Дмитрий Александрович": 12,
-      "Против всех": 91
+      "gas:candidate-vibid:263200070662": 11,
+      "gas:candidate-vibid:1001000225978": 608,
+      "gas:candidate-vibid:1001000202329": 6,
+      "gas:candidate-vibid:1001000113971": 11,
+      "gas:candidate-vibid:263200071570": 17,
+      "gas:candidate-vibid:1001000121900": 272,
+      "gas:candidate-vibid:1001000195133": 12,
+      "special:against-all": 91
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070889&region=0&sub_region=0&type=429",
@@ -11898,14 +11898,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 3,
-      "Казаков Виктор Алексеевич": 340,
-      "Каримов Ринат Рафаелович": 6,
-      "Ненашев Владимир Петрович": 14,
-      "Петриков Геннадий Петрович": 10,
-      "Романов Валентин Степанович": 190,
-      "Сучков Дмитрий Александрович": 10,
-      "Против всех": 70
+      "gas:candidate-vibid:263200070662": 3,
+      "gas:candidate-vibid:1001000225978": 340,
+      "gas:candidate-vibid:1001000202329": 6,
+      "gas:candidate-vibid:1001000113971": 14,
+      "gas:candidate-vibid:263200071570": 10,
+      "gas:candidate-vibid:1001000121900": 190,
+      "gas:candidate-vibid:1001000195133": 10,
+      "special:against-all": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070889&region=0&sub_region=0&type=429",
@@ -11955,14 +11955,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 5,
-      "Казаков Виктор Алексеевич": 485,
-      "Каримов Ринат Рафаелович": 9,
-      "Ненашев Владимир Петрович": 38,
-      "Петриков Геннадий Петрович": 28,
-      "Романов Валентин Степанович": 241,
-      "Сучков Дмитрий Александрович": 2,
-      "Против всех": 104
+      "gas:candidate-vibid:263200070662": 5,
+      "gas:candidate-vibid:1001000225978": 485,
+      "gas:candidate-vibid:1001000202329": 9,
+      "gas:candidate-vibid:1001000113971": 38,
+      "gas:candidate-vibid:263200071570": 28,
+      "gas:candidate-vibid:1001000121900": 241,
+      "gas:candidate-vibid:1001000195133": 2,
+      "special:against-all": 104
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070889&region=0&sub_region=0&type=429",
@@ -12012,14 +12012,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 6,
-      "Казаков Виктор Алексеевич": 553,
-      "Каримов Ринат Рафаелович": 9,
-      "Ненашев Владимир Петрович": 15,
-      "Петриков Геннадий Петрович": 27,
-      "Романов Валентин Степанович": 308,
-      "Сучков Дмитрий Александрович": 14,
-      "Против всех": 104
+      "gas:candidate-vibid:263200070662": 6,
+      "gas:candidate-vibid:1001000225978": 553,
+      "gas:candidate-vibid:1001000202329": 9,
+      "gas:candidate-vibid:1001000113971": 15,
+      "gas:candidate-vibid:263200071570": 27,
+      "gas:candidate-vibid:1001000121900": 308,
+      "gas:candidate-vibid:1001000195133": 14,
+      "special:against-all": 104
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070889&region=0&sub_region=0&type=429",
@@ -12069,14 +12069,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 9,
-      "Казаков Виктор Алексеевич": 673,
-      "Каримов Ринат Рафаелович": 11,
-      "Ненашев Владимир Петрович": 23,
-      "Петриков Геннадий Петрович": 33,
-      "Романов Валентин Степанович": 372,
-      "Сучков Дмитрий Александрович": 12,
-      "Против всех": 113
+      "gas:candidate-vibid:263200070662": 9,
+      "gas:candidate-vibid:1001000225978": 673,
+      "gas:candidate-vibid:1001000202329": 11,
+      "gas:candidate-vibid:1001000113971": 23,
+      "gas:candidate-vibid:263200071570": 33,
+      "gas:candidate-vibid:1001000121900": 372,
+      "gas:candidate-vibid:1001000195133": 12,
+      "special:against-all": 113
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070889&region=0&sub_region=0&type=429",
@@ -12126,14 +12126,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 6,
-      "Казаков Виктор Алексеевич": 635,
-      "Каримов Ринат Рафаелович": 4,
-      "Ненашев Владимир Петрович": 27,
-      "Петриков Геннадий Петрович": 29,
-      "Романов Валентин Степанович": 407,
-      "Сучков Дмитрий Александрович": 14,
-      "Против всех": 110
+      "gas:candidate-vibid:263200070662": 6,
+      "gas:candidate-vibid:1001000225978": 635,
+      "gas:candidate-vibid:1001000202329": 4,
+      "gas:candidate-vibid:1001000113971": 27,
+      "gas:candidate-vibid:263200071570": 29,
+      "gas:candidate-vibid:1001000121900": 407,
+      "gas:candidate-vibid:1001000195133": 14,
+      "special:against-all": 110
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070889&region=0&sub_region=0&type=429",
@@ -12183,14 +12183,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 13,
-      "Казаков Виктор Алексеевич": 516,
-      "Каримов Ринат Рафаелович": 11,
-      "Ненашев Владимир Петрович": 18,
-      "Петриков Геннадий Петрович": 28,
-      "Романов Валентин Степанович": 333,
-      "Сучков Дмитрий Александрович": 12,
-      "Против всех": 88
+      "gas:candidate-vibid:263200070662": 13,
+      "gas:candidate-vibid:1001000225978": 516,
+      "gas:candidate-vibid:1001000202329": 11,
+      "gas:candidate-vibid:1001000113971": 18,
+      "gas:candidate-vibid:263200071570": 28,
+      "gas:candidate-vibid:1001000121900": 333,
+      "gas:candidate-vibid:1001000195133": 12,
+      "special:against-all": 88
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070889&region=0&sub_region=0&type=429",
@@ -12240,14 +12240,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 10,
-      "Казаков Виктор Алексеевич": 790,
-      "Каримов Ринат Рафаелович": 9,
-      "Ненашев Владимир Петрович": 27,
-      "Петриков Геннадий Петрович": 41,
-      "Романов Валентин Степанович": 462,
-      "Сучков Дмитрий Александрович": 18,
-      "Против всех": 157
+      "gas:candidate-vibid:263200070662": 10,
+      "gas:candidate-vibid:1001000225978": 790,
+      "gas:candidate-vibid:1001000202329": 9,
+      "gas:candidate-vibid:1001000113971": 27,
+      "gas:candidate-vibid:263200071570": 41,
+      "gas:candidate-vibid:1001000121900": 462,
+      "gas:candidate-vibid:1001000195133": 18,
+      "special:against-all": 157
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070889&region=0&sub_region=0&type=429",
@@ -12297,14 +12297,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 13,
-      "Казаков Виктор Алексеевич": 776,
-      "Каримов Ринат Рафаелович": 17,
-      "Ненашев Владимир Петрович": 27,
-      "Петриков Геннадий Петрович": 33,
-      "Романов Валентин Степанович": 458,
-      "Сучков Дмитрий Александрович": 9,
-      "Против всех": 140
+      "gas:candidate-vibid:263200070662": 13,
+      "gas:candidate-vibid:1001000225978": 776,
+      "gas:candidate-vibid:1001000202329": 17,
+      "gas:candidate-vibid:1001000113971": 27,
+      "gas:candidate-vibid:263200071570": 33,
+      "gas:candidate-vibid:1001000121900": 458,
+      "gas:candidate-vibid:1001000195133": 9,
+      "special:against-all": 140
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070889&region=0&sub_region=0&type=429",
@@ -12354,14 +12354,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 8,
-      "Казаков Виктор Алексеевич": 528,
-      "Каримов Ринат Рафаелович": 8,
-      "Ненашев Владимир Петрович": 17,
-      "Петриков Геннадий Петрович": 20,
-      "Романов Валентин Степанович": 309,
-      "Сучков Дмитрий Александрович": 15,
-      "Против всех": 116
+      "gas:candidate-vibid:263200070662": 8,
+      "gas:candidate-vibid:1001000225978": 528,
+      "gas:candidate-vibid:1001000202329": 8,
+      "gas:candidate-vibid:1001000113971": 17,
+      "gas:candidate-vibid:263200071570": 20,
+      "gas:candidate-vibid:1001000121900": 309,
+      "gas:candidate-vibid:1001000195133": 15,
+      "special:against-all": 116
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070889&region=0&sub_region=0&type=429",
@@ -12411,14 +12411,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 8,
-      "Казаков Виктор Алексеевич": 478,
-      "Каримов Ринат Рафаелович": 0,
-      "Ненашев Владимир Петрович": 26,
-      "Петриков Геннадий Петрович": 24,
-      "Романов Валентин Степанович": 386,
-      "Сучков Дмитрий Александрович": 3,
-      "Против всех": 90
+      "gas:candidate-vibid:263200070662": 8,
+      "gas:candidate-vibid:1001000225978": 478,
+      "gas:candidate-vibid:1001000202329": 0,
+      "gas:candidate-vibid:1001000113971": 26,
+      "gas:candidate-vibid:263200071570": 24,
+      "gas:candidate-vibid:1001000121900": 386,
+      "gas:candidate-vibid:1001000195133": 3,
+      "special:against-all": 90
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070889&region=0&sub_region=0&type=429",
@@ -12468,14 +12468,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 10,
-      "Казаков Виктор Алексеевич": 746,
-      "Каримов Ринат Рафаелович": 7,
-      "Ненашев Владимир Петрович": 14,
-      "Петриков Геннадий Петрович": 27,
-      "Романов Валентин Степанович": 413,
-      "Сучков Дмитрий Александрович": 13,
-      "Против всех": 113
+      "gas:candidate-vibid:263200070662": 10,
+      "gas:candidate-vibid:1001000225978": 746,
+      "gas:candidate-vibid:1001000202329": 7,
+      "gas:candidate-vibid:1001000113971": 14,
+      "gas:candidate-vibid:263200071570": 27,
+      "gas:candidate-vibid:1001000121900": 413,
+      "gas:candidate-vibid:1001000195133": 13,
+      "special:against-all": 113
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070889&region=0&sub_region=0&type=429",
@@ -12525,14 +12525,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 2,
-      "Казаков Виктор Алексеевич": 309,
-      "Каримов Ринат Рафаелович": 6,
-      "Ненашев Владимир Петрович": 13,
-      "Петриков Геннадий Петрович": 6,
-      "Романов Валентин Степанович": 179,
-      "Сучков Дмитрий Александрович": 4,
-      "Против всех": 67
+      "gas:candidate-vibid:263200070662": 2,
+      "gas:candidate-vibid:1001000225978": 309,
+      "gas:candidate-vibid:1001000202329": 6,
+      "gas:candidate-vibid:1001000113971": 13,
+      "gas:candidate-vibid:263200071570": 6,
+      "gas:candidate-vibid:1001000121900": 179,
+      "gas:candidate-vibid:1001000195133": 4,
+      "special:against-all": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070889&region=0&sub_region=0&type=429",
@@ -12582,14 +12582,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 5,
-      "Казаков Виктор Алексеевич": 235,
-      "Каримов Ринат Рафаелович": 5,
-      "Ненашев Владимир Петрович": 6,
-      "Петриков Геннадий Петрович": 13,
-      "Романов Валентин Степанович": 114,
-      "Сучков Дмитрий Александрович": 2,
-      "Против всех": 25
+      "gas:candidate-vibid:263200070662": 5,
+      "gas:candidate-vibid:1001000225978": 235,
+      "gas:candidate-vibid:1001000202329": 5,
+      "gas:candidate-vibid:1001000113971": 6,
+      "gas:candidate-vibid:263200071570": 13,
+      "gas:candidate-vibid:1001000121900": 114,
+      "gas:candidate-vibid:1001000195133": 2,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070889&region=0&sub_region=0&type=429",
@@ -12639,14 +12639,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 9,
-      "Казаков Виктор Алексеевич": 459,
-      "Каримов Ринат Рафаелович": 11,
-      "Ненашев Владимир Петрович": 22,
-      "Петриков Геннадий Петрович": 28,
-      "Романов Валентин Степанович": 269,
-      "Сучков Дмитрий Александрович": 12,
-      "Против всех": 72
+      "gas:candidate-vibid:263200070662": 9,
+      "gas:candidate-vibid:1001000225978": 459,
+      "gas:candidate-vibid:1001000202329": 11,
+      "gas:candidate-vibid:1001000113971": 22,
+      "gas:candidate-vibid:263200071570": 28,
+      "gas:candidate-vibid:1001000121900": 269,
+      "gas:candidate-vibid:1001000195133": 12,
+      "special:against-all": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070889&region=0&sub_region=0&type=429",
@@ -12696,14 +12696,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 3,
-      "Казаков Виктор Алексеевич": 404,
-      "Каримов Ринат Рафаелович": 7,
-      "Ненашев Владимир Петрович": 10,
-      "Петриков Геннадий Петрович": 33,
-      "Романов Валентин Степанович": 236,
-      "Сучков Дмитрий Александрович": 3,
-      "Против всех": 61
+      "gas:candidate-vibid:263200070662": 3,
+      "gas:candidate-vibid:1001000225978": 404,
+      "gas:candidate-vibid:1001000202329": 7,
+      "gas:candidate-vibid:1001000113971": 10,
+      "gas:candidate-vibid:263200071570": 33,
+      "gas:candidate-vibid:1001000121900": 236,
+      "gas:candidate-vibid:1001000195133": 3,
+      "special:against-all": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070889&region=0&sub_region=0&type=429",
@@ -12753,14 +12753,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 3,
-      "Казаков Виктор Алексеевич": 483,
-      "Каримов Ринат Рафаелович": 8,
-      "Ненашев Владимир Петрович": 15,
-      "Петриков Геннадий Петрович": 16,
-      "Романов Валентин Степанович": 172,
-      "Сучков Дмитрий Александрович": 7,
-      "Против всех": 71
+      "gas:candidate-vibid:263200070662": 3,
+      "gas:candidate-vibid:1001000225978": 483,
+      "gas:candidate-vibid:1001000202329": 8,
+      "gas:candidate-vibid:1001000113971": 15,
+      "gas:candidate-vibid:263200071570": 16,
+      "gas:candidate-vibid:1001000121900": 172,
+      "gas:candidate-vibid:1001000195133": 7,
+      "special:against-all": 71
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070889&region=0&sub_region=0&type=429",
@@ -12810,14 +12810,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 6,
-      "Казаков Виктор Алексеевич": 456,
-      "Каримов Ринат Рафаелович": 4,
-      "Ненашев Владимир Петрович": 16,
-      "Петриков Геннадий Петрович": 28,
-      "Романов Валентин Степанович": 225,
-      "Сучков Дмитрий Александрович": 8,
-      "Против всех": 61
+      "gas:candidate-vibid:263200070662": 6,
+      "gas:candidate-vibid:1001000225978": 456,
+      "gas:candidate-vibid:1001000202329": 4,
+      "gas:candidate-vibid:1001000113971": 16,
+      "gas:candidate-vibid:263200071570": 28,
+      "gas:candidate-vibid:1001000121900": 225,
+      "gas:candidate-vibid:1001000195133": 8,
+      "special:against-all": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070889&region=0&sub_region=0&type=429",
@@ -12867,14 +12867,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 3,
-      "Казаков Виктор Алексеевич": 481,
-      "Каримов Ринат Рафаелович": 5,
-      "Ненашев Владимир Петрович": 11,
-      "Петриков Геннадий Петрович": 32,
-      "Романов Валентин Степанович": 181,
-      "Сучков Дмитрий Александрович": 6,
-      "Против всех": 70
+      "gas:candidate-vibid:263200070662": 3,
+      "gas:candidate-vibid:1001000225978": 481,
+      "gas:candidate-vibid:1001000202329": 5,
+      "gas:candidate-vibid:1001000113971": 11,
+      "gas:candidate-vibid:263200071570": 32,
+      "gas:candidate-vibid:1001000121900": 181,
+      "gas:candidate-vibid:1001000195133": 6,
+      "special:against-all": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070889&region=0&sub_region=0&type=429",
@@ -12924,14 +12924,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 3,
-      "Казаков Виктор Алексеевич": 518,
-      "Каримов Ринат Рафаелович": 8,
-      "Ненашев Владимир Петрович": 17,
-      "Петриков Геннадий Петрович": 26,
-      "Романов Валентин Степанович": 234,
-      "Сучков Дмитрий Александрович": 7,
-      "Против всех": 71
+      "gas:candidate-vibid:263200070662": 3,
+      "gas:candidate-vibid:1001000225978": 518,
+      "gas:candidate-vibid:1001000202329": 8,
+      "gas:candidate-vibid:1001000113971": 17,
+      "gas:candidate-vibid:263200071570": 26,
+      "gas:candidate-vibid:1001000121900": 234,
+      "gas:candidate-vibid:1001000195133": 7,
+      "special:against-all": 71
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070889&region=0&sub_region=0&type=429",
@@ -12981,14 +12981,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 7,
-      "Казаков Виктор Алексеевич": 507,
-      "Каримов Ринат Рафаелович": 8,
-      "Ненашев Владимир Петрович": 20,
-      "Петриков Геннадий Петрович": 26,
-      "Романов Валентин Степанович": 252,
-      "Сучков Дмитрий Александрович": 7,
-      "Против всех": 80
+      "gas:candidate-vibid:263200070662": 7,
+      "gas:candidate-vibid:1001000225978": 507,
+      "gas:candidate-vibid:1001000202329": 8,
+      "gas:candidate-vibid:1001000113971": 20,
+      "gas:candidate-vibid:263200071570": 26,
+      "gas:candidate-vibid:1001000121900": 252,
+      "gas:candidate-vibid:1001000195133": 7,
+      "special:against-all": 80
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070889&region=0&sub_region=0&type=429",
@@ -13038,14 +13038,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 6,
-      "Казаков Виктор Алексеевич": 498,
-      "Каримов Ринат Рафаелович": 4,
-      "Ненашев Владимир Петрович": 10,
-      "Петриков Геннадий Петрович": 26,
-      "Романов Валентин Степанович": 263,
-      "Сучков Дмитрий Александрович": 6,
-      "Против всех": 77
+      "gas:candidate-vibid:263200070662": 6,
+      "gas:candidate-vibid:1001000225978": 498,
+      "gas:candidate-vibid:1001000202329": 4,
+      "gas:candidate-vibid:1001000113971": 10,
+      "gas:candidate-vibid:263200071570": 26,
+      "gas:candidate-vibid:1001000121900": 263,
+      "gas:candidate-vibid:1001000195133": 6,
+      "special:against-all": 77
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070889&region=0&sub_region=0&type=429",
@@ -13095,14 +13095,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 5,
-      "Казаков Виктор Алексеевич": 406,
-      "Каримов Ринат Рафаелович": 10,
-      "Ненашев Владимир Петрович": 9,
-      "Петриков Геннадий Петрович": 14,
-      "Романов Валентин Степанович": 241,
-      "Сучков Дмитрий Александрович": 5,
-      "Против всех": 83
+      "gas:candidate-vibid:263200070662": 5,
+      "gas:candidate-vibid:1001000225978": 406,
+      "gas:candidate-vibid:1001000202329": 10,
+      "gas:candidate-vibid:1001000113971": 9,
+      "gas:candidate-vibid:263200071570": 14,
+      "gas:candidate-vibid:1001000121900": 241,
+      "gas:candidate-vibid:1001000195133": 5,
+      "special:against-all": 83
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070889&region=0&sub_region=0&type=429",
@@ -13152,14 +13152,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 7,
-      "Казаков Виктор Алексеевич": 491,
-      "Каримов Ринат Рафаелович": 6,
-      "Ненашев Владимир Петрович": 9,
-      "Петриков Геннадий Петрович": 28,
-      "Романов Валентин Степанович": 275,
-      "Сучков Дмитрий Александрович": 11,
-      "Против всех": 67
+      "gas:candidate-vibid:263200070662": 7,
+      "gas:candidate-vibid:1001000225978": 491,
+      "gas:candidate-vibid:1001000202329": 6,
+      "gas:candidate-vibid:1001000113971": 9,
+      "gas:candidate-vibid:263200071570": 28,
+      "gas:candidate-vibid:1001000121900": 275,
+      "gas:candidate-vibid:1001000195133": 11,
+      "special:against-all": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070889&region=0&sub_region=0&type=429",
@@ -13209,14 +13209,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 6,
-      "Казаков Виктор Алексеевич": 244,
-      "Каримов Ринат Рафаелович": 8,
-      "Ненашев Владимир Петрович": 5,
-      "Петриков Геннадий Петрович": 16,
-      "Романов Валентин Степанович": 193,
-      "Сучков Дмитрий Александрович": 7,
-      "Против всех": 48
+      "gas:candidate-vibid:263200070662": 6,
+      "gas:candidate-vibid:1001000225978": 244,
+      "gas:candidate-vibid:1001000202329": 8,
+      "gas:candidate-vibid:1001000113971": 5,
+      "gas:candidate-vibid:263200071570": 16,
+      "gas:candidate-vibid:1001000121900": 193,
+      "gas:candidate-vibid:1001000195133": 7,
+      "special:against-all": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070889&region=0&sub_region=0&type=429",
@@ -13266,14 +13266,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 3,
-      "Казаков Виктор Алексеевич": 336,
-      "Каримов Ринат Рафаелович": 8,
-      "Ненашев Владимир Петрович": 10,
-      "Петриков Геннадий Петрович": 23,
-      "Романов Валентин Степанович": 154,
-      "Сучков Дмитрий Александрович": 4,
-      "Против всех": 42
+      "gas:candidate-vibid:263200070662": 3,
+      "gas:candidate-vibid:1001000225978": 336,
+      "gas:candidate-vibid:1001000202329": 8,
+      "gas:candidate-vibid:1001000113971": 10,
+      "gas:candidate-vibid:263200071570": 23,
+      "gas:candidate-vibid:1001000121900": 154,
+      "gas:candidate-vibid:1001000195133": 4,
+      "special:against-all": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070889&region=0&sub_region=0&type=429",
@@ -13323,14 +13323,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 12,
-      "Казаков Виктор Алексеевич": 413,
-      "Каримов Ринат Рафаелович": 7,
-      "Ненашев Владимир Петрович": 14,
-      "Петриков Геннадий Петрович": 20,
-      "Романов Валентин Степанович": 266,
-      "Сучков Дмитрий Александрович": 9,
-      "Против всех": 106
+      "gas:candidate-vibid:263200070662": 12,
+      "gas:candidate-vibid:1001000225978": 413,
+      "gas:candidate-vibid:1001000202329": 7,
+      "gas:candidate-vibid:1001000113971": 14,
+      "gas:candidate-vibid:263200071570": 20,
+      "gas:candidate-vibid:1001000121900": 266,
+      "gas:candidate-vibid:1001000195133": 9,
+      "special:against-all": 106
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070889&region=0&sub_region=0&type=429",
@@ -13380,14 +13380,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 7,
-      "Казаков Виктор Алексеевич": 552,
-      "Каримов Ринат Рафаелович": 5,
-      "Ненашев Владимир Петрович": 20,
-      "Петриков Геннадий Петрович": 21,
-      "Романов Валентин Степанович": 326,
-      "Сучков Дмитрий Александрович": 16,
-      "Против всех": 131
+      "gas:candidate-vibid:263200070662": 7,
+      "gas:candidate-vibid:1001000225978": 552,
+      "gas:candidate-vibid:1001000202329": 5,
+      "gas:candidate-vibid:1001000113971": 20,
+      "gas:candidate-vibid:263200071570": 21,
+      "gas:candidate-vibid:1001000121900": 326,
+      "gas:candidate-vibid:1001000195133": 16,
+      "special:against-all": 131
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070889&region=0&sub_region=0&type=429",
@@ -13437,14 +13437,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 12,
-      "Казаков Виктор Алексеевич": 778,
-      "Каримов Ринат Рафаелович": 11,
-      "Ненашев Владимир Петрович": 20,
-      "Петриков Геннадий Петрович": 24,
-      "Романов Валентин Степанович": 369,
-      "Сучков Дмитрий Александрович": 12,
-      "Против всех": 135
+      "gas:candidate-vibid:263200070662": 12,
+      "gas:candidate-vibid:1001000225978": 778,
+      "gas:candidate-vibid:1001000202329": 11,
+      "gas:candidate-vibid:1001000113971": 20,
+      "gas:candidate-vibid:263200071570": 24,
+      "gas:candidate-vibid:1001000121900": 369,
+      "gas:candidate-vibid:1001000195133": 12,
+      "special:against-all": 135
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070889&region=0&sub_region=0&type=429",
@@ -13494,14 +13494,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 7,
-      "Казаков Виктор Алексеевич": 430,
-      "Каримов Ринат Рафаелович": 9,
-      "Ненашев Владимир Петрович": 7,
-      "Петриков Геннадий Петрович": 16,
-      "Романов Валентин Степанович": 231,
-      "Сучков Дмитрий Александрович": 6,
-      "Против всех": 71
+      "gas:candidate-vibid:263200070662": 7,
+      "gas:candidate-vibid:1001000225978": 430,
+      "gas:candidate-vibid:1001000202329": 9,
+      "gas:candidate-vibid:1001000113971": 7,
+      "gas:candidate-vibid:263200071570": 16,
+      "gas:candidate-vibid:1001000121900": 231,
+      "gas:candidate-vibid:1001000195133": 6,
+      "special:against-all": 71
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070889&region=0&sub_region=0&type=429",
@@ -13551,14 +13551,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 0,
-      "Казаков Виктор Алексеевич": 175,
-      "Каримов Ринат Рафаелович": 3,
-      "Ненашев Владимир Петрович": 2,
-      "Петриков Геннадий Петрович": 8,
-      "Романов Валентин Степанович": 88,
-      "Сучков Дмитрий Александрович": 3,
-      "Против всех": 17
+      "gas:candidate-vibid:263200070662": 0,
+      "gas:candidate-vibid:1001000225978": 175,
+      "gas:candidate-vibid:1001000202329": 3,
+      "gas:candidate-vibid:1001000113971": 2,
+      "gas:candidate-vibid:263200071570": 8,
+      "gas:candidate-vibid:1001000121900": 88,
+      "gas:candidate-vibid:1001000195133": 3,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070889&region=0&sub_region=0&type=429",
@@ -13608,14 +13608,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 3,
-      "Казаков Виктор Алексеевич": 190,
-      "Каримов Ринат Рафаелович": 4,
-      "Ненашев Владимир Петрович": 5,
-      "Петриков Геннадий Петрович": 12,
-      "Романов Валентин Степанович": 107,
-      "Сучков Дмитрий Александрович": 3,
-      "Против всех": 15
+      "gas:candidate-vibid:263200070662": 3,
+      "gas:candidate-vibid:1001000225978": 190,
+      "gas:candidate-vibid:1001000202329": 4,
+      "gas:candidate-vibid:1001000113971": 5,
+      "gas:candidate-vibid:263200071570": 12,
+      "gas:candidate-vibid:1001000121900": 107,
+      "gas:candidate-vibid:1001000195133": 3,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070889&region=0&sub_region=0&type=429",
@@ -13665,14 +13665,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 3,
-      "Казаков Виктор Алексеевич": 592,
-      "Каримов Ринат Рафаелович": 15,
-      "Ненашев Владимир Петрович": 8,
-      "Петриков Геннадий Петрович": 22,
-      "Романов Валентин Степанович": 202,
-      "Сучков Дмитрий Александрович": 9,
-      "Против всех": 151
+      "gas:candidate-vibid:263200070662": 3,
+      "gas:candidate-vibid:1001000225978": 592,
+      "gas:candidate-vibid:1001000202329": 15,
+      "gas:candidate-vibid:1001000113971": 8,
+      "gas:candidate-vibid:263200071570": 22,
+      "gas:candidate-vibid:1001000121900": 202,
+      "gas:candidate-vibid:1001000195133": 9,
+      "special:against-all": 151
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070889&region=0&sub_region=0&type=429",
@@ -13722,14 +13722,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 5,
-      "Казаков Виктор Алексеевич": 208,
-      "Каримов Ринат Рафаелович": 6,
-      "Ненашев Владимир Петрович": 9,
-      "Петриков Геннадий Петрович": 26,
-      "Романов Валентин Степанович": 238,
-      "Сучков Дмитрий Александрович": 12,
-      "Против всех": 63
+      "gas:candidate-vibid:263200070662": 5,
+      "gas:candidate-vibid:1001000225978": 208,
+      "gas:candidate-vibid:1001000202329": 6,
+      "gas:candidate-vibid:1001000113971": 9,
+      "gas:candidate-vibid:263200071570": 26,
+      "gas:candidate-vibid:1001000121900": 238,
+      "gas:candidate-vibid:1001000195133": 12,
+      "special:against-all": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070889&region=0&sub_region=0&type=429",
@@ -13779,14 +13779,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 0,
-      "Казаков Виктор Алексеевич": 83,
-      "Каримов Ринат Рафаелович": 2,
-      "Ненашев Владимир Петрович": 2,
-      "Петриков Геннадий Петрович": 5,
-      "Романов Валентин Степанович": 34,
-      "Сучков Дмитрий Александрович": 1,
-      "Против всех": 5
+      "gas:candidate-vibid:263200070662": 0,
+      "gas:candidate-vibid:1001000225978": 83,
+      "gas:candidate-vibid:1001000202329": 2,
+      "gas:candidate-vibid:1001000113971": 2,
+      "gas:candidate-vibid:263200071570": 5,
+      "gas:candidate-vibid:1001000121900": 34,
+      "gas:candidate-vibid:1001000195133": 1,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070889&region=0&sub_region=0&type=429",
@@ -13836,14 +13836,14 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахмедшин Ринат Алексеевич": 4,
-      "Казаков Виктор Алексеевич": 587,
-      "Каримов Ринат Рафаелович": 7,
-      "Ненашев Владимир Петрович": 21,
-      "Петриков Геннадий Петрович": 16,
-      "Романов Валентин Степанович": 219,
-      "Сучков Дмитрий Александрович": 10,
-      "Против всех": 152
+      "gas:candidate-vibid:263200070662": 4,
+      "gas:candidate-vibid:1001000225978": 587,
+      "gas:candidate-vibid:1001000202329": 7,
+      "gas:candidate-vibid:1001000113971": 21,
+      "gas:candidate-vibid:263200071570": 16,
+      "gas:candidate-vibid:1001000121900": 219,
+      "gas:candidate-vibid:1001000195133": 10,
+      "special:against-all": 152
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070889&region=0&sub_region=0&type=429",
@@ -13893,17 +13893,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 42,
-      "Венедиктов Юрий Николаевич": 46,
-      "Гужов Виктор Валентинович": 20,
-      "Гусенков Виталий Волеевич": 17,
-      "Колосов Денис Олегович": 17,
-      "Лекарева Вера Александровна": 190,
-      "Макашов Альберт Михайлович": 263,
-      "Сидоров Сергей Вениаминович": 6,
-      "Телегин Александр Тимофеевич": 13,
-      "Федоров Михаил Васильевич": 137,
-      "Против всех": 202
+      "gas:candidate-vibid:1001000112248": 42,
+      "gas:candidate-vibid:1001000136114": 46,
+      "gas:candidate-vibid:363300270493": 20,
+      "gas:candidate-vibid:363300270568": 17,
+      "gas:candidate-vibid:1001000195134": 17,
+      "gas:candidate-vibid:363300270559": 190,
+      "gas:candidate-vibid:1001000121901": 263,
+      "gas:candidate-vibid:363300270556": 6,
+      "gas:candidate-vibid:1001000190406": 13,
+      "gas:candidate-vibid:1001000225979": 137,
+      "special:against-all": 202
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070890&region=0&sub_region=0&type=429",
@@ -13953,17 +13953,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 18,
-      "Венедиктов Юрий Николаевич": 33,
-      "Гужов Виктор Валентинович": 6,
-      "Гусенков Виталий Волеевич": 11,
-      "Колосов Денис Олегович": 11,
-      "Лекарева Вера Александровна": 126,
-      "Макашов Альберт Михайлович": 232,
-      "Сидоров Сергей Вениаминович": 2,
-      "Телегин Александр Тимофеевич": 3,
-      "Федоров Михаил Васильевич": 84,
-      "Против всех": 79
+      "gas:candidate-vibid:1001000112248": 18,
+      "gas:candidate-vibid:1001000136114": 33,
+      "gas:candidate-vibid:363300270493": 6,
+      "gas:candidate-vibid:363300270568": 11,
+      "gas:candidate-vibid:1001000195134": 11,
+      "gas:candidate-vibid:363300270559": 126,
+      "gas:candidate-vibid:1001000121901": 232,
+      "gas:candidate-vibid:363300270556": 2,
+      "gas:candidate-vibid:1001000190406": 3,
+      "gas:candidate-vibid:1001000225979": 84,
+      "special:against-all": 79
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070890&region=0&sub_region=0&type=429",
@@ -14013,17 +14013,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 27,
-      "Венедиктов Юрий Николаевич": 52,
-      "Гужов Виктор Валентинович": 16,
-      "Гусенков Виталий Волеевич": 15,
-      "Колосов Денис Олегович": 7,
-      "Лекарева Вера Александровна": 192,
-      "Макашов Альберт Михайлович": 268,
-      "Сидоров Сергей Вениаминович": 9,
-      "Телегин Александр Тимофеевич": 7,
-      "Федоров Михаил Васильевич": 166,
-      "Против всех": 148
+      "gas:candidate-vibid:1001000112248": 27,
+      "gas:candidate-vibid:1001000136114": 52,
+      "gas:candidate-vibid:363300270493": 16,
+      "gas:candidate-vibid:363300270568": 15,
+      "gas:candidate-vibid:1001000195134": 7,
+      "gas:candidate-vibid:363300270559": 192,
+      "gas:candidate-vibid:1001000121901": 268,
+      "gas:candidate-vibid:363300270556": 9,
+      "gas:candidate-vibid:1001000190406": 7,
+      "gas:candidate-vibid:1001000225979": 166,
+      "special:against-all": 148
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070890&region=0&sub_region=0&type=429",
@@ -14073,17 +14073,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 23,
-      "Венедиктов Юрий Николаевич": 39,
-      "Гужов Виктор Валентинович": 23,
-      "Гусенков Виталий Волеевич": 7,
-      "Колосов Денис Олегович": 3,
-      "Лекарева Вера Александровна": 118,
-      "Макашов Альберт Михайлович": 184,
-      "Сидоров Сергей Вениаминович": 6,
-      "Телегин Александр Тимофеевич": 12,
-      "Федоров Михаил Васильевич": 70,
-      "Против всех": 101
+      "gas:candidate-vibid:1001000112248": 23,
+      "gas:candidate-vibid:1001000136114": 39,
+      "gas:candidate-vibid:363300270493": 23,
+      "gas:candidate-vibid:363300270568": 7,
+      "gas:candidate-vibid:1001000195134": 3,
+      "gas:candidate-vibid:363300270559": 118,
+      "gas:candidate-vibid:1001000121901": 184,
+      "gas:candidate-vibid:363300270556": 6,
+      "gas:candidate-vibid:1001000190406": 12,
+      "gas:candidate-vibid:1001000225979": 70,
+      "special:against-all": 101
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070890&region=0&sub_region=0&type=429",
@@ -14133,17 +14133,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 37,
-      "Венедиктов Юрий Николаевич": 33,
-      "Гужов Виктор Валентинович": 13,
-      "Гусенков Виталий Волеевич": 15,
-      "Колосов Денис Олегович": 10,
-      "Лекарева Вера Александровна": 122,
-      "Макашов Альберт Михайлович": 343,
-      "Сидоров Сергей Вениаминович": 1,
-      "Телегин Александр Тимофеевич": 7,
-      "Федоров Михаил Васильевич": 112,
-      "Против всех": 123
+      "gas:candidate-vibid:1001000112248": 37,
+      "gas:candidate-vibid:1001000136114": 33,
+      "gas:candidate-vibid:363300270493": 13,
+      "gas:candidate-vibid:363300270568": 15,
+      "gas:candidate-vibid:1001000195134": 10,
+      "gas:candidate-vibid:363300270559": 122,
+      "gas:candidate-vibid:1001000121901": 343,
+      "gas:candidate-vibid:363300270556": 1,
+      "gas:candidate-vibid:1001000190406": 7,
+      "gas:candidate-vibid:1001000225979": 112,
+      "special:against-all": 123
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070890&region=0&sub_region=0&type=429",
@@ -14193,17 +14193,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 21,
-      "Венедиктов Юрий Николаевич": 29,
-      "Гужов Виктор Валентинович": 8,
-      "Гусенков Виталий Волеевич": 10,
-      "Колосов Денис Олегович": 3,
-      "Лекарева Вера Александровна": 158,
-      "Макашов Альберт Михайлович": 181,
-      "Сидоров Сергей Вениаминович": 3,
-      "Телегин Александр Тимофеевич": 6,
-      "Федоров Михаил Васильевич": 79,
-      "Против всех": 141
+      "gas:candidate-vibid:1001000112248": 21,
+      "gas:candidate-vibid:1001000136114": 29,
+      "gas:candidate-vibid:363300270493": 8,
+      "gas:candidate-vibid:363300270568": 10,
+      "gas:candidate-vibid:1001000195134": 3,
+      "gas:candidate-vibid:363300270559": 158,
+      "gas:candidate-vibid:1001000121901": 181,
+      "gas:candidate-vibid:363300270556": 3,
+      "gas:candidate-vibid:1001000190406": 6,
+      "gas:candidate-vibid:1001000225979": 79,
+      "special:against-all": 141
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070890&region=0&sub_region=0&type=429",
@@ -14253,17 +14253,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батищева Светлана Валентиновна": 37,
-      "Венедиктов Юрий Николаевич": 31,
-      "Гужов Виктор Валентинович": 13,
-      "Гусенков Виталий Волеевич": 19,
-      "Колосов Денис Олегович": 8,
-      "Лекарева Вера Александровна": 190,
-      "Макашов Альберт Михайлович": 374,
-      "Сидоров Сергей Вениаминович": 4,
-      "Телегин Александр Тимофеевич": 12,
-      "Федоров Михаил Васильевич": 146,
-      "Против всех": 135
+      "gas:candidate-vibid:1001000112248": 37,
+      "gas:candidate-vibid:1001000136114": 31,
+      "gas:candidate-vibid:363300270493": 13,
+      "gas:candidate-vibid:363300270568": 19,
+      "gas:candidate-vibid:1001000195134": 8,
+      "gas:candidate-vibid:363300270559": 190,
+      "gas:candidate-vibid:1001000121901": 374,
+      "gas:candidate-vibid:363300270556": 4,
+      "gas:candidate-vibid:1001000190406": 12,
+      "gas:candidate-vibid:1001000225979": 146,
+      "special:against-all": 135
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=632000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=263200070890&region=0&sub_region=0&type=429",

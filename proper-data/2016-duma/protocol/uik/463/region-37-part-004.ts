@@ -43,14 +43,14 @@ export const duma_2016_uik_463_region_37_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вальков Андрей Юрьевич": 8,
-      "Верясов Максим Петрович": 43,
-      "Ганенко Юрий Петрович": 2,
-      "Кленов Владимир Витальевич": 63,
-      "Кузьменко Виктор Николаевич": 10,
-      "Мельников Иван Юрьевич": 8,
-      "Сивохин Дмитрий Владимирович": 11,
-      "Смирнов Юрий Валентинович": 69
+      "gas:candidate-vibid:2372000907850": 8,
+      "gas:candidate-vibid:2372000880631": 43,
+      "gas:candidate-vibid:2372000908298": 2,
+      "gas:candidate-vibid:2372000906698": 63,
+      "gas:candidate-vibid:2372000907031": 10,
+      "gas:candidate-vibid:2372000908205": 8,
+      "gas:candidate-vibid:2372000906709": 11,
+      "gas:candidate-vibid:2372000908343": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000119&tvd=2372000849600&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849600&type=464",
@@ -101,14 +101,14 @@ export const duma_2016_uik_463_region_37_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вальков Андрей Юрьевич": 20,
-      "Верясов Максим Петрович": 59,
-      "Ганенко Юрий Петрович": 3,
-      "Кленов Владимир Витальевич": 58,
-      "Кузьменко Виктор Николаевич": 13,
-      "Мельников Иван Юрьевич": 1,
-      "Сивохин Дмитрий Владимирович": 20,
-      "Смирнов Юрий Валентинович": 96
+      "gas:candidate-vibid:2372000907850": 20,
+      "gas:candidate-vibid:2372000880631": 59,
+      "gas:candidate-vibid:2372000908298": 3,
+      "gas:candidate-vibid:2372000906698": 58,
+      "gas:candidate-vibid:2372000907031": 13,
+      "gas:candidate-vibid:2372000908205": 1,
+      "gas:candidate-vibid:2372000906709": 20,
+      "gas:candidate-vibid:2372000908343": 96
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000119&tvd=2372000849600&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849600&type=464",
@@ -159,14 +159,14 @@ export const duma_2016_uik_463_region_37_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вальков Андрей Юрьевич": 9,
-      "Верясов Максим Петрович": 49,
-      "Ганенко Юрий Петрович": 9,
-      "Кленов Владимир Витальевич": 69,
-      "Кузьменко Виктор Николаевич": 13,
-      "Мельников Иван Юрьевич": 10,
-      "Сивохин Дмитрий Владимирович": 22,
-      "Смирнов Юрий Валентинович": 112
+      "gas:candidate-vibid:2372000907850": 9,
+      "gas:candidate-vibid:2372000880631": 49,
+      "gas:candidate-vibid:2372000908298": 9,
+      "gas:candidate-vibid:2372000906698": 69,
+      "gas:candidate-vibid:2372000907031": 13,
+      "gas:candidate-vibid:2372000908205": 10,
+      "gas:candidate-vibid:2372000906709": 22,
+      "gas:candidate-vibid:2372000908343": 112
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000119&tvd=2372000849600&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849600&type=464",
@@ -217,14 +217,14 @@ export const duma_2016_uik_463_region_37_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вальков Андрей Юрьевич": 5,
-      "Верясов Максим Петрович": 42,
-      "Ганенко Юрий Петрович": 1,
-      "Кленов Владимир Витальевич": 17,
-      "Кузьменко Виктор Николаевич": 5,
-      "Мельников Иван Юрьевич": 3,
-      "Сивохин Дмитрий Владимирович": 11,
-      "Смирнов Юрий Валентинович": 50
+      "gas:candidate-vibid:2372000907850": 5,
+      "gas:candidate-vibid:2372000880631": 42,
+      "gas:candidate-vibid:2372000908298": 1,
+      "gas:candidate-vibid:2372000906698": 17,
+      "gas:candidate-vibid:2372000907031": 5,
+      "gas:candidate-vibid:2372000908205": 3,
+      "gas:candidate-vibid:2372000906709": 11,
+      "gas:candidate-vibid:2372000908343": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000119&tvd=2372000849600&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849600&type=464",
@@ -275,14 +275,14 @@ export const duma_2016_uik_463_region_37_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вальков Андрей Юрьевич": 9,
-      "Верясов Максим Петрович": 41,
-      "Ганенко Юрий Петрович": 2,
-      "Кленов Владимир Витальевич": 15,
-      "Кузьменко Виктор Николаевич": 4,
-      "Мельников Иван Юрьевич": 4,
-      "Сивохин Дмитрий Владимирович": 13,
-      "Смирнов Юрий Валентинович": 116
+      "gas:candidate-vibid:2372000907850": 9,
+      "gas:candidate-vibid:2372000880631": 41,
+      "gas:candidate-vibid:2372000908298": 2,
+      "gas:candidate-vibid:2372000906698": 15,
+      "gas:candidate-vibid:2372000907031": 4,
+      "gas:candidate-vibid:2372000908205": 4,
+      "gas:candidate-vibid:2372000906709": 13,
+      "gas:candidate-vibid:2372000908343": 116
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000119&tvd=2372000849600&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849600&type=464",
@@ -333,14 +333,14 @@ export const duma_2016_uik_463_region_37_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вальков Андрей Юрьевич": 19,
-      "Верясов Максим Петрович": 45,
-      "Ганенко Юрий Петрович": 7,
-      "Кленов Владимир Витальевич": 43,
-      "Кузьменко Виктор Николаевич": 11,
-      "Мельников Иван Юрьевич": 8,
-      "Сивохин Дмитрий Владимирович": 9,
-      "Смирнов Юрий Валентинович": 92
+      "gas:candidate-vibid:2372000907850": 19,
+      "gas:candidate-vibid:2372000880631": 45,
+      "gas:candidate-vibid:2372000908298": 7,
+      "gas:candidate-vibid:2372000906698": 43,
+      "gas:candidate-vibid:2372000907031": 11,
+      "gas:candidate-vibid:2372000908205": 8,
+      "gas:candidate-vibid:2372000906709": 9,
+      "gas:candidate-vibid:2372000908343": 92
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000119&tvd=2372000849600&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849600&type=464",
@@ -391,14 +391,14 @@ export const duma_2016_uik_463_region_37_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вальков Андрей Юрьевич": 5,
-      "Верясов Максим Петрович": 21,
-      "Ганенко Юрий Петрович": 1,
-      "Кленов Владимир Витальевич": 18,
-      "Кузьменко Виктор Николаевич": 12,
-      "Мельников Иван Юрьевич": 1,
-      "Сивохин Дмитрий Владимирович": 4,
-      "Смирнов Юрий Валентинович": 40
+      "gas:candidate-vibid:2372000907850": 5,
+      "gas:candidate-vibid:2372000880631": 21,
+      "gas:candidate-vibid:2372000908298": 1,
+      "gas:candidate-vibid:2372000906698": 18,
+      "gas:candidate-vibid:2372000907031": 12,
+      "gas:candidate-vibid:2372000908205": 1,
+      "gas:candidate-vibid:2372000906709": 4,
+      "gas:candidate-vibid:2372000908343": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000119&tvd=2372000849600&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849600&type=464",
@@ -449,14 +449,14 @@ export const duma_2016_uik_463_region_37_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вальков Андрей Юрьевич": 18,
-      "Верясов Максим Петрович": 58,
-      "Ганенко Юрий Петрович": 4,
-      "Кленов Владимир Витальевич": 113,
-      "Кузьменко Виктор Николаевич": 18,
-      "Мельников Иван Юрьевич": 7,
-      "Сивохин Дмитрий Владимирович": 15,
-      "Смирнов Юрий Валентинович": 218
+      "gas:candidate-vibid:2372000907850": 18,
+      "gas:candidate-vibid:2372000880631": 58,
+      "gas:candidate-vibid:2372000908298": 4,
+      "gas:candidate-vibid:2372000906698": 113,
+      "gas:candidate-vibid:2372000907031": 18,
+      "gas:candidate-vibid:2372000908205": 7,
+      "gas:candidate-vibid:2372000906709": 15,
+      "gas:candidate-vibid:2372000908343": 218
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000119&tvd=2372000849600&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849600&type=464",
@@ -507,14 +507,14 @@ export const duma_2016_uik_463_region_37_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вальков Андрей Юрьевич": 5,
-      "Верясов Максим Петрович": 34,
-      "Ганенко Юрий Петрович": 3,
-      "Кленов Владимир Витальевич": 46,
-      "Кузьменко Виктор Николаевич": 5,
-      "Мельников Иван Юрьевич": 3,
-      "Сивохин Дмитрий Владимирович": 8,
-      "Смирнов Юрий Валентинович": 95
+      "gas:candidate-vibid:2372000907850": 5,
+      "gas:candidate-vibid:2372000880631": 34,
+      "gas:candidate-vibid:2372000908298": 3,
+      "gas:candidate-vibid:2372000906698": 46,
+      "gas:candidate-vibid:2372000907031": 5,
+      "gas:candidate-vibid:2372000908205": 3,
+      "gas:candidate-vibid:2372000906709": 8,
+      "gas:candidate-vibid:2372000908343": 95
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000119&tvd=2372000849600&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849600&type=464",
@@ -565,14 +565,14 @@ export const duma_2016_uik_463_region_37_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вальков Андрей Юрьевич": 2,
-      "Верясов Максим Петрович": 24,
-      "Ганенко Юрий Петрович": 2,
-      "Кленов Владимир Витальевич": 11,
-      "Кузьменко Виктор Николаевич": 4,
-      "Мельников Иван Юрьевич": 1,
-      "Сивохин Дмитрий Владимирович": 0,
-      "Смирнов Юрий Валентинович": 116
+      "gas:candidate-vibid:2372000907850": 2,
+      "gas:candidate-vibid:2372000880631": 24,
+      "gas:candidate-vibid:2372000908298": 2,
+      "gas:candidate-vibid:2372000906698": 11,
+      "gas:candidate-vibid:2372000907031": 4,
+      "gas:candidate-vibid:2372000908205": 1,
+      "gas:candidate-vibid:2372000906709": 0,
+      "gas:candidate-vibid:2372000908343": 116
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000119&tvd=2372000849600&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849600&type=464",
@@ -623,14 +623,14 @@ export const duma_2016_uik_463_region_37_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вальков Андрей Юрьевич": 13,
-      "Верясов Максим Петрович": 31,
-      "Ганенко Юрий Петрович": 3,
-      "Кленов Владимир Витальевич": 47,
-      "Кузьменко Виктор Николаевич": 10,
-      "Мельников Иван Юрьевич": 3,
-      "Сивохин Дмитрий Владимирович": 6,
-      "Смирнов Юрий Валентинович": 97
+      "gas:candidate-vibid:2372000907850": 13,
+      "gas:candidate-vibid:2372000880631": 31,
+      "gas:candidate-vibid:2372000908298": 3,
+      "gas:candidate-vibid:2372000906698": 47,
+      "gas:candidate-vibid:2372000907031": 10,
+      "gas:candidate-vibid:2372000908205": 3,
+      "gas:candidate-vibid:2372000906709": 6,
+      "gas:candidate-vibid:2372000908343": 97
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000119&tvd=2372000849600&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849600&type=464",
@@ -681,14 +681,14 @@ export const duma_2016_uik_463_region_37_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вальков Андрей Юрьевич": 4,
-      "Верясов Максим Петрович": 25,
-      "Ганенко Юрий Петрович": 2,
-      "Кленов Владимир Витальевич": 37,
-      "Кузьменко Виктор Николаевич": 7,
-      "Мельников Иван Юрьевич": 3,
-      "Сивохин Дмитрий Владимирович": 12,
-      "Смирнов Юрий Валентинович": 68
+      "gas:candidate-vibid:2372000907850": 4,
+      "gas:candidate-vibid:2372000880631": 25,
+      "gas:candidate-vibid:2372000908298": 2,
+      "gas:candidate-vibid:2372000906698": 37,
+      "gas:candidate-vibid:2372000907031": 7,
+      "gas:candidate-vibid:2372000908205": 3,
+      "gas:candidate-vibid:2372000906709": 12,
+      "gas:candidate-vibid:2372000908343": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000119&tvd=2372000849600&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849600&type=464",
@@ -739,14 +739,14 @@ export const duma_2016_uik_463_region_37_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вальков Андрей Юрьевич": 10,
-      "Верясов Максим Петрович": 71,
-      "Ганенко Юрий Петрович": 2,
-      "Кленов Владимир Витальевич": 86,
-      "Кузьменко Виктор Николаевич": 76,
-      "Мельников Иван Юрьевич": 3,
-      "Сивохин Дмитрий Владимирович": 43,
-      "Смирнов Юрий Валентинович": 127
+      "gas:candidate-vibid:2372000907850": 10,
+      "gas:candidate-vibid:2372000880631": 71,
+      "gas:candidate-vibid:2372000908298": 2,
+      "gas:candidate-vibid:2372000906698": 86,
+      "gas:candidate-vibid:2372000907031": 76,
+      "gas:candidate-vibid:2372000908205": 3,
+      "gas:candidate-vibid:2372000906709": 43,
+      "gas:candidate-vibid:2372000908343": 127
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000119&tvd=2372000849601&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849601&type=464",
@@ -797,14 +797,14 @@ export const duma_2016_uik_463_region_37_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вальков Андрей Юрьевич": 18,
-      "Верясов Максим Петрович": 80,
-      "Ганенко Юрий Петрович": 1,
-      "Кленов Владимир Витальевич": 106,
-      "Кузьменко Виктор Николаевич": 77,
-      "Мельников Иван Юрьевич": 5,
-      "Сивохин Дмитрий Владимирович": 30,
-      "Смирнов Юрий Валентинович": 120
+      "gas:candidate-vibid:2372000907850": 18,
+      "gas:candidate-vibid:2372000880631": 80,
+      "gas:candidate-vibid:2372000908298": 1,
+      "gas:candidate-vibid:2372000906698": 106,
+      "gas:candidate-vibid:2372000907031": 77,
+      "gas:candidate-vibid:2372000908205": 5,
+      "gas:candidate-vibid:2372000906709": 30,
+      "gas:candidate-vibid:2372000908343": 120
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000119&tvd=2372000849601&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849601&type=464",
@@ -855,14 +855,14 @@ export const duma_2016_uik_463_region_37_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вальков Андрей Юрьевич": 12,
-      "Верясов Максим Петрович": 71,
-      "Ганенко Юрий Петрович": 4,
-      "Кленов Владимир Витальевич": 104,
-      "Кузьменко Виктор Николаевич": 61,
-      "Мельников Иван Юрьевич": 12,
-      "Сивохин Дмитрий Владимирович": 35,
-      "Смирнов Юрий Валентинович": 181
+      "gas:candidate-vibid:2372000907850": 12,
+      "gas:candidate-vibid:2372000880631": 71,
+      "gas:candidate-vibid:2372000908298": 4,
+      "gas:candidate-vibid:2372000906698": 104,
+      "gas:candidate-vibid:2372000907031": 61,
+      "gas:candidate-vibid:2372000908205": 12,
+      "gas:candidate-vibid:2372000906709": 35,
+      "gas:candidate-vibid:2372000908343": 181
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000119&tvd=2372000849601&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849601&type=464",
@@ -913,14 +913,14 @@ export const duma_2016_uik_463_region_37_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вальков Андрей Юрьевич": 12,
-      "Верясов Максим Петрович": 76,
-      "Ганенко Юрий Петрович": 2,
-      "Кленов Владимир Витальевич": 111,
-      "Кузьменко Виктор Николаевич": 72,
-      "Мельников Иван Юрьевич": 7,
-      "Сивохин Дмитрий Владимирович": 17,
-      "Смирнов Юрий Валентинович": 185
+      "gas:candidate-vibid:2372000907850": 12,
+      "gas:candidate-vibid:2372000880631": 76,
+      "gas:candidate-vibid:2372000908298": 2,
+      "gas:candidate-vibid:2372000906698": 111,
+      "gas:candidate-vibid:2372000907031": 72,
+      "gas:candidate-vibid:2372000908205": 7,
+      "gas:candidate-vibid:2372000906709": 17,
+      "gas:candidate-vibid:2372000908343": 185
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000119&tvd=2372000849601&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849601&type=464",
@@ -971,14 +971,14 @@ export const duma_2016_uik_463_region_37_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вальков Андрей Юрьевич": 13,
-      "Верясов Максим Петрович": 78,
-      "Ганенко Юрий Петрович": 5,
-      "Кленов Владимир Витальевич": 132,
-      "Кузьменко Виктор Николаевич": 102,
-      "Мельников Иван Юрьевич": 13,
-      "Сивохин Дмитрий Владимирович": 37,
-      "Смирнов Юрий Валентинович": 156
+      "gas:candidate-vibid:2372000907850": 13,
+      "gas:candidate-vibid:2372000880631": 78,
+      "gas:candidate-vibid:2372000908298": 5,
+      "gas:candidate-vibid:2372000906698": 132,
+      "gas:candidate-vibid:2372000907031": 102,
+      "gas:candidate-vibid:2372000908205": 13,
+      "gas:candidate-vibid:2372000906709": 37,
+      "gas:candidate-vibid:2372000908343": 156
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000119&tvd=2372000849601&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849601&type=464",
@@ -1029,14 +1029,14 @@ export const duma_2016_uik_463_region_37_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вальков Андрей Юрьевич": 10,
-      "Верясов Максим Петрович": 69,
-      "Ганенко Юрий Петрович": 0,
-      "Кленов Владимир Витальевич": 132,
-      "Кузьменко Виктор Николаевич": 77,
-      "Мельников Иван Юрьевич": 3,
-      "Сивохин Дмитрий Владимирович": 27,
-      "Смирнов Юрий Валентинович": 173
+      "gas:candidate-vibid:2372000907850": 10,
+      "gas:candidate-vibid:2372000880631": 69,
+      "gas:candidate-vibid:2372000908298": 0,
+      "gas:candidate-vibid:2372000906698": 132,
+      "gas:candidate-vibid:2372000907031": 77,
+      "gas:candidate-vibid:2372000908205": 3,
+      "gas:candidate-vibid:2372000906709": 27,
+      "gas:candidate-vibid:2372000908343": 173
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000119&tvd=2372000849601&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849601&type=464",
@@ -1087,14 +1087,14 @@ export const duma_2016_uik_463_region_37_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вальков Андрей Юрьевич": 12,
-      "Верясов Максим Петрович": 93,
-      "Ганенко Юрий Петрович": 2,
-      "Кленов Владимир Витальевич": 178,
-      "Кузьменко Виктор Николаевич": 103,
-      "Мельников Иван Юрьевич": 12,
-      "Сивохин Дмитрий Владимирович": 72,
-      "Смирнов Юрий Валентинович": 221
+      "gas:candidate-vibid:2372000907850": 12,
+      "gas:candidate-vibid:2372000880631": 93,
+      "gas:candidate-vibid:2372000908298": 2,
+      "gas:candidate-vibid:2372000906698": 178,
+      "gas:candidate-vibid:2372000907031": 103,
+      "gas:candidate-vibid:2372000908205": 12,
+      "gas:candidate-vibid:2372000906709": 72,
+      "gas:candidate-vibid:2372000908343": 221
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000119&tvd=2372000849601&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849601&type=464",
@@ -1145,14 +1145,14 @@ export const duma_2016_uik_463_region_37_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вальков Андрей Юрьевич": 8,
-      "Верясов Максим Петрович": 60,
-      "Ганенко Юрий Петрович": 2,
-      "Кленов Владимир Витальевич": 107,
-      "Кузьменко Виктор Николаевич": 78,
-      "Мельников Иван Юрьевич": 3,
-      "Сивохин Дмитрий Владимирович": 8,
-      "Смирнов Юрий Валентинович": 329
+      "gas:candidate-vibid:2372000907850": 8,
+      "gas:candidate-vibid:2372000880631": 60,
+      "gas:candidate-vibid:2372000908298": 2,
+      "gas:candidate-vibid:2372000906698": 107,
+      "gas:candidate-vibid:2372000907031": 78,
+      "gas:candidate-vibid:2372000908205": 3,
+      "gas:candidate-vibid:2372000906709": 8,
+      "gas:candidate-vibid:2372000908343": 329
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000119&tvd=2372000849601&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849601&type=464",
@@ -1203,14 +1203,14 @@ export const duma_2016_uik_463_region_37_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вальков Андрей Юрьевич": 19,
-      "Верясов Максим Петрович": 79,
-      "Ганенко Юрий Петрович": 3,
-      "Кленов Владимир Витальевич": 117,
-      "Кузьменко Виктор Николаевич": 102,
-      "Мельников Иван Юрьевич": 11,
-      "Сивохин Дмитрий Владимирович": 42,
-      "Смирнов Юрий Валентинович": 192
+      "gas:candidate-vibid:2372000907850": 19,
+      "gas:candidate-vibid:2372000880631": 79,
+      "gas:candidate-vibid:2372000908298": 3,
+      "gas:candidate-vibid:2372000906698": 117,
+      "gas:candidate-vibid:2372000907031": 102,
+      "gas:candidate-vibid:2372000908205": 11,
+      "gas:candidate-vibid:2372000906709": 42,
+      "gas:candidate-vibid:2372000908343": 192
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000119&tvd=2372000849601&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849601&type=464",
@@ -1261,14 +1261,14 @@ export const duma_2016_uik_463_region_37_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вальков Андрей Юрьевич": 17,
-      "Верясов Максим Петрович": 84,
-      "Ганенко Юрий Петрович": 6,
-      "Кленов Владимир Витальевич": 95,
-      "Кузьменко Виктор Николаевич": 106,
-      "Мельников Иван Юрьевич": 9,
-      "Сивохин Дмитрий Владимирович": 42,
-      "Смирнов Юрий Валентинович": 335
+      "gas:candidate-vibid:2372000907850": 17,
+      "gas:candidate-vibid:2372000880631": 84,
+      "gas:candidate-vibid:2372000908298": 6,
+      "gas:candidate-vibid:2372000906698": 95,
+      "gas:candidate-vibid:2372000907031": 106,
+      "gas:candidate-vibid:2372000908205": 9,
+      "gas:candidate-vibid:2372000906709": 42,
+      "gas:candidate-vibid:2372000908343": 335
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000119&tvd=2372000849601&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849601&type=464",
@@ -1319,14 +1319,14 @@ export const duma_2016_uik_463_region_37_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вальков Андрей Юрьевич": 26,
-      "Верясов Максим Петрович": 94,
-      "Ганенко Юрий Петрович": 2,
-      "Кленов Владимир Витальевич": 116,
-      "Кузьменко Виктор Николаевич": 110,
-      "Мельников Иван Юрьевич": 6,
-      "Сивохин Дмитрий Владимирович": 56,
-      "Смирнов Юрий Валентинович": 195
+      "gas:candidate-vibid:2372000907850": 26,
+      "gas:candidate-vibid:2372000880631": 94,
+      "gas:candidate-vibid:2372000908298": 2,
+      "gas:candidate-vibid:2372000906698": 116,
+      "gas:candidate-vibid:2372000907031": 110,
+      "gas:candidate-vibid:2372000908205": 6,
+      "gas:candidate-vibid:2372000906709": 56,
+      "gas:candidate-vibid:2372000908343": 195
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000119&tvd=2372000849601&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849601&type=464",
@@ -1377,14 +1377,14 @@ export const duma_2016_uik_463_region_37_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вальков Андрей Юрьевич": 13,
-      "Верясов Максим Петрович": 66,
-      "Ганенко Юрий Петрович": 2,
-      "Кленов Владимир Витальевич": 56,
-      "Кузьменко Виктор Николаевич": 64,
-      "Мельников Иван Юрьевич": 1,
-      "Сивохин Дмитрий Владимирович": 17,
-      "Смирнов Юрий Валентинович": 146
+      "gas:candidate-vibid:2372000907850": 13,
+      "gas:candidate-vibid:2372000880631": 66,
+      "gas:candidate-vibid:2372000908298": 2,
+      "gas:candidate-vibid:2372000906698": 56,
+      "gas:candidate-vibid:2372000907031": 64,
+      "gas:candidate-vibid:2372000908205": 1,
+      "gas:candidate-vibid:2372000906709": 17,
+      "gas:candidate-vibid:2372000908343": 146
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000119&tvd=2372000849601&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849601&type=464",
@@ -1435,14 +1435,14 @@ export const duma_2016_uik_463_region_37_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вальков Андрей Юрьевич": 10,
-      "Верясов Максим Петрович": 99,
-      "Ганенко Юрий Петрович": 2,
-      "Кленов Владимир Витальевич": 58,
-      "Кузьменко Виктор Николаевич": 72,
-      "Мельников Иван Юрьевич": 8,
-      "Сивохин Дмитрий Владимирович": 21,
-      "Смирнов Юрий Валентинович": 241
+      "gas:candidate-vibid:2372000907850": 10,
+      "gas:candidate-vibid:2372000880631": 99,
+      "gas:candidate-vibid:2372000908298": 2,
+      "gas:candidate-vibid:2372000906698": 58,
+      "gas:candidate-vibid:2372000907031": 72,
+      "gas:candidate-vibid:2372000908205": 8,
+      "gas:candidate-vibid:2372000906709": 21,
+      "gas:candidate-vibid:2372000908343": 241
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000119&tvd=2372000849601&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849601&type=464",
@@ -1493,14 +1493,14 @@ export const duma_2016_uik_463_region_37_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вальков Андрей Юрьевич": 5,
-      "Верясов Максим Петрович": 55,
-      "Ганенко Юрий Петрович": 2,
-      "Кленов Владимир Витальевич": 60,
-      "Кузьменко Виктор Николаевич": 78,
-      "Мельников Иван Юрьевич": 12,
-      "Сивохин Дмитрий Владимирович": 16,
-      "Смирнов Юрий Валентинович": 154
+      "gas:candidate-vibid:2372000907850": 5,
+      "gas:candidate-vibid:2372000880631": 55,
+      "gas:candidate-vibid:2372000908298": 2,
+      "gas:candidate-vibid:2372000906698": 60,
+      "gas:candidate-vibid:2372000907031": 78,
+      "gas:candidate-vibid:2372000908205": 12,
+      "gas:candidate-vibid:2372000906709": 16,
+      "gas:candidate-vibid:2372000908343": 154
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000119&tvd=2372000849601&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849601&type=464",
@@ -1551,14 +1551,14 @@ export const duma_2016_uik_463_region_37_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вальков Андрей Юрьевич": 8,
-      "Верясов Максим Петрович": 56,
-      "Ганенко Юрий Петрович": 2,
-      "Кленов Владимир Витальевич": 89,
-      "Кузьменко Виктор Николаевич": 60,
-      "Мельников Иван Юрьевич": 4,
-      "Сивохин Дмитрий Владимирович": 25,
-      "Смирнов Юрий Валентинович": 229
+      "gas:candidate-vibid:2372000907850": 8,
+      "gas:candidate-vibid:2372000880631": 56,
+      "gas:candidate-vibid:2372000908298": 2,
+      "gas:candidate-vibid:2372000906698": 89,
+      "gas:candidate-vibid:2372000907031": 60,
+      "gas:candidate-vibid:2372000908205": 4,
+      "gas:candidate-vibid:2372000906709": 25,
+      "gas:candidate-vibid:2372000908343": 229
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000119&tvd=2372000849601&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849601&type=464",
@@ -1609,14 +1609,14 @@ export const duma_2016_uik_463_region_37_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вальков Андрей Юрьевич": 7,
-      "Верясов Максим Петрович": 56,
-      "Ганенко Юрий Петрович": 4,
-      "Кленов Владимир Витальевич": 74,
-      "Кузьменко Виктор Николаевич": 59,
-      "Мельников Иван Юрьевич": 8,
-      "Сивохин Дмитрий Владимирович": 24,
-      "Смирнов Юрий Валентинович": 268
+      "gas:candidate-vibid:2372000907850": 7,
+      "gas:candidate-vibid:2372000880631": 56,
+      "gas:candidate-vibid:2372000908298": 4,
+      "gas:candidate-vibid:2372000906698": 74,
+      "gas:candidate-vibid:2372000907031": 59,
+      "gas:candidate-vibid:2372000908205": 8,
+      "gas:candidate-vibid:2372000906709": 24,
+      "gas:candidate-vibid:2372000908343": 268
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000119&tvd=2372000849601&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849601&type=464",
@@ -1667,14 +1667,14 @@ export const duma_2016_uik_463_region_37_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вальков Андрей Юрьевич": 13,
-      "Верясов Максим Петрович": 91,
-      "Ганенко Юрий Петрович": 2,
-      "Кленов Владимир Витальевич": 155,
-      "Кузьменко Виктор Николаевич": 87,
-      "Мельников Иван Юрьевич": 9,
-      "Сивохин Дмитрий Владимирович": 38,
-      "Смирнов Юрий Валентинович": 501
+      "gas:candidate-vibid:2372000907850": 13,
+      "gas:candidate-vibid:2372000880631": 91,
+      "gas:candidate-vibid:2372000908298": 2,
+      "gas:candidate-vibid:2372000906698": 155,
+      "gas:candidate-vibid:2372000907031": 87,
+      "gas:candidate-vibid:2372000908205": 9,
+      "gas:candidate-vibid:2372000906709": 38,
+      "gas:candidate-vibid:2372000908343": 501
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000119&tvd=2372000849601&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849601&type=464",
@@ -1725,14 +1725,14 @@ export const duma_2016_uik_463_region_37_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вальков Андрей Юрьевич": 6,
-      "Верясов Максим Петрович": 72,
-      "Ганенко Юрий Петрович": 2,
-      "Кленов Владимир Витальевич": 35,
-      "Кузьменко Виктор Николаевич": 50,
-      "Мельников Иван Юрьевич": 9,
-      "Сивохин Дмитрий Владимирович": 21,
-      "Смирнов Юрий Валентинович": 181
+      "gas:candidate-vibid:2372000907850": 6,
+      "gas:candidate-vibid:2372000880631": 72,
+      "gas:candidate-vibid:2372000908298": 2,
+      "gas:candidate-vibid:2372000906698": 35,
+      "gas:candidate-vibid:2372000907031": 50,
+      "gas:candidate-vibid:2372000908205": 9,
+      "gas:candidate-vibid:2372000906709": 21,
+      "gas:candidate-vibid:2372000908343": 181
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000119&tvd=2372000849601&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849601&type=464",
@@ -1783,14 +1783,14 @@ export const duma_2016_uik_463_region_37_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вальков Андрей Юрьевич": 8,
-      "Верясов Максим Петрович": 57,
-      "Ганенко Юрий Петрович": 3,
-      "Кленов Владимир Витальевич": 53,
-      "Кузьменко Виктор Николаевич": 35,
-      "Мельников Иван Юрьевич": 5,
-      "Сивохин Дмитрий Владимирович": 20,
-      "Смирнов Юрий Валентинович": 298
+      "gas:candidate-vibid:2372000907850": 8,
+      "gas:candidate-vibid:2372000880631": 57,
+      "gas:candidate-vibid:2372000908298": 3,
+      "gas:candidate-vibid:2372000906698": 53,
+      "gas:candidate-vibid:2372000907031": 35,
+      "gas:candidate-vibid:2372000908205": 5,
+      "gas:candidate-vibid:2372000906709": 20,
+      "gas:candidate-vibid:2372000908343": 298
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000119&tvd=2372000849601&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849601&type=464",
@@ -1841,14 +1841,14 @@ export const duma_2016_uik_463_region_37_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вальков Андрей Юрьевич": 9,
-      "Верясов Максим Петрович": 69,
-      "Ганенко Юрий Петрович": 4,
-      "Кленов Владимир Витальевич": 143,
-      "Кузьменко Виктор Николаевич": 86,
-      "Мельников Иван Юрьевич": 8,
-      "Сивохин Дмитрий Владимирович": 83,
-      "Смирнов Юрий Валентинович": 163
+      "gas:candidate-vibid:2372000907850": 9,
+      "gas:candidate-vibid:2372000880631": 69,
+      "gas:candidate-vibid:2372000908298": 4,
+      "gas:candidate-vibid:2372000906698": 143,
+      "gas:candidate-vibid:2372000907031": 86,
+      "gas:candidate-vibid:2372000908205": 8,
+      "gas:candidate-vibid:2372000906709": 83,
+      "gas:candidate-vibid:2372000908343": 163
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000119&tvd=2372000849601&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849601&type=464",
@@ -1899,14 +1899,14 @@ export const duma_2016_uik_463_region_37_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вальков Андрей Юрьевич": 13,
-      "Верясов Максим Петрович": 90,
-      "Ганенко Юрий Петрович": 3,
-      "Кленов Владимир Витальевич": 108,
-      "Кузьменко Виктор Николаевич": 66,
-      "Мельников Иван Юрьевич": 6,
-      "Сивохин Дмитрий Владимирович": 42,
-      "Смирнов Юрий Валентинович": 148
+      "gas:candidate-vibid:2372000907850": 13,
+      "gas:candidate-vibid:2372000880631": 90,
+      "gas:candidate-vibid:2372000908298": 3,
+      "gas:candidate-vibid:2372000906698": 108,
+      "gas:candidate-vibid:2372000907031": 66,
+      "gas:candidate-vibid:2372000908205": 6,
+      "gas:candidate-vibid:2372000906709": 42,
+      "gas:candidate-vibid:2372000908343": 148
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000119&tvd=2372000849601&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849601&type=464",
@@ -1957,14 +1957,14 @@ export const duma_2016_uik_463_region_37_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вальков Андрей Юрьевич": 17,
-      "Верясов Максим Петрович": 72,
-      "Ганенко Юрий Петрович": 2,
-      "Кленов Владимир Витальевич": 205,
-      "Кузьменко Виктор Николаевич": 29,
-      "Мельников Иван Юрьевич": 6,
-      "Сивохин Дмитрий Владимирович": 41,
-      "Смирнов Юрий Валентинович": 174
+      "gas:candidate-vibid:2372000907850": 17,
+      "gas:candidate-vibid:2372000880631": 72,
+      "gas:candidate-vibid:2372000908298": 2,
+      "gas:candidate-vibid:2372000906698": 205,
+      "gas:candidate-vibid:2372000907031": 29,
+      "gas:candidate-vibid:2372000908205": 6,
+      "gas:candidate-vibid:2372000906709": 41,
+      "gas:candidate-vibid:2372000908343": 174
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000119&tvd=2372000849602&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849602&type=464",
@@ -2015,14 +2015,14 @@ export const duma_2016_uik_463_region_37_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вальков Андрей Юрьевич": 13,
-      "Верясов Максим Петрович": 67,
-      "Ганенко Юрий Петрович": 6,
-      "Кленов Владимир Витальевич": 218,
-      "Кузьменко Виктор Николаевич": 28,
-      "Мельников Иван Юрьевич": 8,
-      "Сивохин Дмитрий Владимирович": 24,
-      "Смирнов Юрий Валентинович": 158
+      "gas:candidate-vibid:2372000907850": 13,
+      "gas:candidate-vibid:2372000880631": 67,
+      "gas:candidate-vibid:2372000908298": 6,
+      "gas:candidate-vibid:2372000906698": 218,
+      "gas:candidate-vibid:2372000907031": 28,
+      "gas:candidate-vibid:2372000908205": 8,
+      "gas:candidate-vibid:2372000906709": 24,
+      "gas:candidate-vibid:2372000908343": 158
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000119&tvd=2372000849602&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849602&type=464",
@@ -2073,14 +2073,14 @@ export const duma_2016_uik_463_region_37_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вальков Андрей Юрьевич": 17,
-      "Верясов Максим Петрович": 54,
-      "Ганенко Юрий Петрович": 4,
-      "Кленов Владимир Витальевич": 52,
-      "Кузьменко Виктор Николаевич": 25,
-      "Мельников Иван Юрьевич": 2,
-      "Сивохин Дмитрий Владимирович": 30,
-      "Смирнов Юрий Валентинович": 113
+      "gas:candidate-vibid:2372000907850": 17,
+      "gas:candidate-vibid:2372000880631": 54,
+      "gas:candidate-vibid:2372000908298": 4,
+      "gas:candidate-vibid:2372000906698": 52,
+      "gas:candidate-vibid:2372000907031": 25,
+      "gas:candidate-vibid:2372000908205": 2,
+      "gas:candidate-vibid:2372000906709": 30,
+      "gas:candidate-vibid:2372000908343": 113
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000119&tvd=2372000849602&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849602&type=464",
@@ -2131,14 +2131,14 @@ export const duma_2016_uik_463_region_37_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вальков Андрей Юрьевич": 7,
-      "Верясов Максим Петрович": 52,
-      "Ганенко Юрий Петрович": 2,
-      "Кленов Владимир Витальевич": 70,
-      "Кузьменко Виктор Николаевич": 21,
-      "Мельников Иван Юрьевич": 3,
-      "Сивохин Дмитрий Владимирович": 39,
-      "Смирнов Юрий Валентинович": 180
+      "gas:candidate-vibid:2372000907850": 7,
+      "gas:candidate-vibid:2372000880631": 52,
+      "gas:candidate-vibid:2372000908298": 2,
+      "gas:candidate-vibid:2372000906698": 70,
+      "gas:candidate-vibid:2372000907031": 21,
+      "gas:candidate-vibid:2372000908205": 3,
+      "gas:candidate-vibid:2372000906709": 39,
+      "gas:candidate-vibid:2372000908343": 180
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000119&tvd=2372000849602&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849602&type=464",
@@ -2189,14 +2189,14 @@ export const duma_2016_uik_463_region_37_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вальков Андрей Юрьевич": 14,
-      "Верясов Максим Петрович": 80,
-      "Ганенко Юрий Петрович": 5,
-      "Кленов Владимир Витальевич": 113,
-      "Кузьменко Виктор Николаевич": 39,
-      "Мельников Иван Юрьевич": 12,
-      "Сивохин Дмитрий Владимирович": 25,
-      "Смирнов Юрий Валентинович": 233
+      "gas:candidate-vibid:2372000907850": 14,
+      "gas:candidate-vibid:2372000880631": 80,
+      "gas:candidate-vibid:2372000908298": 5,
+      "gas:candidate-vibid:2372000906698": 113,
+      "gas:candidate-vibid:2372000907031": 39,
+      "gas:candidate-vibid:2372000908205": 12,
+      "gas:candidate-vibid:2372000906709": 25,
+      "gas:candidate-vibid:2372000908343": 233
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000119&tvd=2372000849602&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849602&type=464",
@@ -2247,14 +2247,14 @@ export const duma_2016_uik_463_region_37_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вальков Андрей Юрьевич": 14,
-      "Верясов Максим Петрович": 76,
-      "Ганенко Юрий Петрович": 3,
-      "Кленов Владимир Витальевич": 114,
-      "Кузьменко Виктор Николаевич": 51,
-      "Мельников Иван Юрьевич": 11,
-      "Сивохин Дмитрий Владимирович": 33,
-      "Смирнов Юрий Валентинович": 226
+      "gas:candidate-vibid:2372000907850": 14,
+      "gas:candidate-vibid:2372000880631": 76,
+      "gas:candidate-vibid:2372000908298": 3,
+      "gas:candidate-vibid:2372000906698": 114,
+      "gas:candidate-vibid:2372000907031": 51,
+      "gas:candidate-vibid:2372000908205": 11,
+      "gas:candidate-vibid:2372000906709": 33,
+      "gas:candidate-vibid:2372000908343": 226
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000119&tvd=2372000849602&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849602&type=464",
@@ -2305,14 +2305,14 @@ export const duma_2016_uik_463_region_37_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вальков Андрей Юрьевич": 24,
-      "Верясов Максим Петрович": 66,
-      "Ганенко Юрий Петрович": 4,
-      "Кленов Владимир Витальевич": 124,
-      "Кузьменко Виктор Николаевич": 35,
-      "Мельников Иван Юрьевич": 8,
-      "Сивохин Дмитрий Владимирович": 34,
-      "Смирнов Юрий Валентинович": 198
+      "gas:candidate-vibid:2372000907850": 24,
+      "gas:candidate-vibid:2372000880631": 66,
+      "gas:candidate-vibid:2372000908298": 4,
+      "gas:candidate-vibid:2372000906698": 124,
+      "gas:candidate-vibid:2372000907031": 35,
+      "gas:candidate-vibid:2372000908205": 8,
+      "gas:candidate-vibid:2372000906709": 34,
+      "gas:candidate-vibid:2372000908343": 198
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000119&tvd=2372000849602&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849602&type=464",
@@ -2363,14 +2363,14 @@ export const duma_2016_uik_463_region_37_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вальков Андрей Юрьевич": 8,
-      "Верясов Максим Петрович": 60,
-      "Ганенко Юрий Петрович": 3,
-      "Кленов Владимир Витальевич": 44,
-      "Кузьменко Виктор Николаевич": 30,
-      "Мельников Иван Юрьевич": 3,
-      "Сивохин Дмитрий Владимирович": 9,
-      "Смирнов Юрий Валентинович": 88
+      "gas:candidate-vibid:2372000907850": 8,
+      "gas:candidate-vibid:2372000880631": 60,
+      "gas:candidate-vibid:2372000908298": 3,
+      "gas:candidate-vibid:2372000906698": 44,
+      "gas:candidate-vibid:2372000907031": 30,
+      "gas:candidate-vibid:2372000908205": 3,
+      "gas:candidate-vibid:2372000906709": 9,
+      "gas:candidate-vibid:2372000908343": 88
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000119&tvd=2372000849602&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849602&type=464",
@@ -2421,14 +2421,14 @@ export const duma_2016_uik_463_region_37_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вальков Андрей Юрьевич": 6,
-      "Верясов Максим Петрович": 31,
-      "Ганенко Юрий Петрович": 2,
-      "Кленов Владимир Витальевич": 26,
-      "Кузьменко Виктор Николаевич": 17,
-      "Мельников Иван Юрьевич": 4,
-      "Сивохин Дмитрий Владимирович": 8,
-      "Смирнов Юрий Валентинович": 166
+      "gas:candidate-vibid:2372000907850": 6,
+      "gas:candidate-vibid:2372000880631": 31,
+      "gas:candidate-vibid:2372000908298": 2,
+      "gas:candidate-vibid:2372000906698": 26,
+      "gas:candidate-vibid:2372000907031": 17,
+      "gas:candidate-vibid:2372000908205": 4,
+      "gas:candidate-vibid:2372000906709": 8,
+      "gas:candidate-vibid:2372000908343": 166
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000119&tvd=2372000849602&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849602&type=464",
@@ -2479,14 +2479,14 @@ export const duma_2016_uik_463_region_37_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вальков Андрей Юрьевич": 9,
-      "Верясов Максим Петрович": 44,
-      "Ганенко Юрий Петрович": 2,
-      "Кленов Владимир Витальевич": 37,
-      "Кузьменко Виктор Николаевич": 29,
-      "Мельников Иван Юрьевич": 7,
-      "Сивохин Дмитрий Владимирович": 12,
-      "Смирнов Юрий Валентинович": 141
+      "gas:candidate-vibid:2372000907850": 9,
+      "gas:candidate-vibid:2372000880631": 44,
+      "gas:candidate-vibid:2372000908298": 2,
+      "gas:candidate-vibid:2372000906698": 37,
+      "gas:candidate-vibid:2372000907031": 29,
+      "gas:candidate-vibid:2372000908205": 7,
+      "gas:candidate-vibid:2372000906709": 12,
+      "gas:candidate-vibid:2372000908343": 141
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000119&tvd=2372000849602&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849602&type=464",
@@ -2537,14 +2537,14 @@ export const duma_2016_uik_463_region_37_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вальков Андрей Юрьевич": 14,
-      "Верясов Максим Петрович": 34,
-      "Ганенко Юрий Петрович": 5,
-      "Кленов Владимир Витальевич": 57,
-      "Кузьменко Виктор Николаевич": 35,
-      "Мельников Иван Юрьевич": 5,
-      "Сивохин Дмитрий Владимирович": 15,
-      "Смирнов Юрий Валентинович": 112
+      "gas:candidate-vibid:2372000907850": 14,
+      "gas:candidate-vibid:2372000880631": 34,
+      "gas:candidate-vibid:2372000908298": 5,
+      "gas:candidate-vibid:2372000906698": 57,
+      "gas:candidate-vibid:2372000907031": 35,
+      "gas:candidate-vibid:2372000908205": 5,
+      "gas:candidate-vibid:2372000906709": 15,
+      "gas:candidate-vibid:2372000908343": 112
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000119&tvd=2372000849602&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849602&type=464",
@@ -2595,14 +2595,14 @@ export const duma_2016_uik_463_region_37_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вальков Андрей Юрьевич": 1,
-      "Верясов Максим Петрович": 16,
-      "Ганенко Юрий Петрович": 0,
-      "Кленов Владимир Витальевич": 24,
-      "Кузьменко Виктор Николаевич": 10,
-      "Мельников Иван Юрьевич": 2,
-      "Сивохин Дмитрий Владимирович": 2,
-      "Смирнов Юрий Валентинович": 117
+      "gas:candidate-vibid:2372000907850": 1,
+      "gas:candidate-vibid:2372000880631": 16,
+      "gas:candidate-vibid:2372000908298": 0,
+      "gas:candidate-vibid:2372000906698": 24,
+      "gas:candidate-vibid:2372000907031": 10,
+      "gas:candidate-vibid:2372000908205": 2,
+      "gas:candidate-vibid:2372000906709": 2,
+      "gas:candidate-vibid:2372000908343": 117
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000119&tvd=2372000849602&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849602&type=464",
@@ -2653,14 +2653,14 @@ export const duma_2016_uik_463_region_37_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вальков Андрей Юрьевич": 10,
-      "Верясов Максим Петрович": 33,
-      "Ганенко Юрий Петрович": 2,
-      "Кленов Владимир Витальевич": 37,
-      "Кузьменко Виктор Николаевич": 18,
-      "Мельников Иван Юрьевич": 3,
-      "Сивохин Дмитрий Владимирович": 6,
-      "Смирнов Юрий Валентинович": 131
+      "gas:candidate-vibid:2372000907850": 10,
+      "gas:candidate-vibid:2372000880631": 33,
+      "gas:candidate-vibid:2372000908298": 2,
+      "gas:candidate-vibid:2372000906698": 37,
+      "gas:candidate-vibid:2372000907031": 18,
+      "gas:candidate-vibid:2372000908205": 3,
+      "gas:candidate-vibid:2372000906709": 6,
+      "gas:candidate-vibid:2372000908343": 131
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000119&tvd=2372000849602&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849602&type=464",
@@ -2711,14 +2711,14 @@ export const duma_2016_uik_463_region_37_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вальков Андрей Юрьевич": 15,
-      "Верясов Максим Петрович": 63,
-      "Ганенко Юрий Петрович": 4,
-      "Кленов Владимир Витальевич": 69,
-      "Кузьменко Виктор Николаевич": 30,
-      "Мельников Иван Юрьевич": 9,
-      "Сивохин Дмитрий Владимирович": 40,
-      "Смирнов Юрий Валентинович": 163
+      "gas:candidate-vibid:2372000907850": 15,
+      "gas:candidate-vibid:2372000880631": 63,
+      "gas:candidate-vibid:2372000908298": 4,
+      "gas:candidate-vibid:2372000906698": 69,
+      "gas:candidate-vibid:2372000907031": 30,
+      "gas:candidate-vibid:2372000908205": 9,
+      "gas:candidate-vibid:2372000906709": 40,
+      "gas:candidate-vibid:2372000908343": 163
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000119&tvd=2372000849602&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849602&type=464",
@@ -2769,14 +2769,14 @@ export const duma_2016_uik_463_region_37_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вальков Андрей Юрьевич": 3,
-      "Верясов Максим Петрович": 55,
-      "Ганенко Юрий Петрович": 6,
-      "Кленов Владимир Витальевич": 41,
-      "Кузьменко Виктор Николаевич": 20,
-      "Мельников Иван Юрьевич": 12,
-      "Сивохин Дмитрий Владимирович": 14,
-      "Смирнов Юрий Валентинович": 195
+      "gas:candidate-vibid:2372000907850": 3,
+      "gas:candidate-vibid:2372000880631": 55,
+      "gas:candidate-vibid:2372000908298": 6,
+      "gas:candidate-vibid:2372000906698": 41,
+      "gas:candidate-vibid:2372000907031": 20,
+      "gas:candidate-vibid:2372000908205": 12,
+      "gas:candidate-vibid:2372000906709": 14,
+      "gas:candidate-vibid:2372000908343": 195
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000119&tvd=2372000849602&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849602&type=464",
@@ -2827,14 +2827,14 @@ export const duma_2016_uik_463_region_37_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вальков Андрей Юрьевич": 3,
-      "Верясов Максим Петрович": 14,
-      "Ганенко Юрий Петрович": 1,
-      "Кленов Владимир Витальевич": 77,
-      "Кузьменко Виктор Николаевич": 13,
-      "Мельников Иван Юрьевич": 10,
-      "Сивохин Дмитрий Владимирович": 8,
-      "Смирнов Юрий Валентинович": 64
+      "gas:candidate-vibid:2372000907850": 3,
+      "gas:candidate-vibid:2372000880631": 14,
+      "gas:candidate-vibid:2372000908298": 1,
+      "gas:candidate-vibid:2372000906698": 77,
+      "gas:candidate-vibid:2372000907031": 13,
+      "gas:candidate-vibid:2372000908205": 10,
+      "gas:candidate-vibid:2372000906709": 8,
+      "gas:candidate-vibid:2372000908343": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000119&tvd=2372000849602&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849602&type=464",
@@ -2885,14 +2885,14 @@ export const duma_2016_uik_463_region_37_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вальков Андрей Юрьевич": 9,
-      "Верясов Максим Петрович": 36,
-      "Ганенко Юрий Петрович": 1,
-      "Кленов Владимир Витальевич": 73,
-      "Кузьменко Виктор Николаевич": 8,
-      "Мельников Иван Юрьевич": 12,
-      "Сивохин Дмитрий Владимирович": 12,
-      "Смирнов Юрий Валентинович": 76
+      "gas:candidate-vibid:2372000907850": 9,
+      "gas:candidate-vibid:2372000880631": 36,
+      "gas:candidate-vibid:2372000908298": 1,
+      "gas:candidate-vibid:2372000906698": 73,
+      "gas:candidate-vibid:2372000907031": 8,
+      "gas:candidate-vibid:2372000908205": 12,
+      "gas:candidate-vibid:2372000906709": 12,
+      "gas:candidate-vibid:2372000908343": 76
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ivanovo?action=show&root=1000119&tvd=2372000849602&vrn=100100067795849&region=37&global=&sub_region=37&prver=0&pronetvd=null&vibid=2372000849602&type=464",

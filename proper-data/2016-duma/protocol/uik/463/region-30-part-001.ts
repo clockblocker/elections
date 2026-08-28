@@ -43,14 +43,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 15,
-      "Востриков Егор Олегович": 4,
-      "Долиев Михаил Вячеславович": 1,
-      "Ковалёв Егор Викторович": 3,
-      "Никитина Наиля Зинуровна": 5,
-      "Огуль Леонид Анатольевич": 7,
-      "Родионов Сергей Леонидович": 0,
-      "Шеин Олег Васильевич": 5
+      "gas:candidate-vibid:2302000826854": 15,
+      "gas:candidate-vibid:2302000821738": 4,
+      "gas:candidate-vibid:2302000833686": 1,
+      "gas:candidate-vibid:2302000825752": 3,
+      "gas:candidate-vibid:2302000839430": 5,
+      "gas:candidate-vibid:2302000839216": 7,
+      "gas:candidate-vibid:2302000837297": 0,
+      "gas:candidate-vibid:2302000824415": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783724&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783724&type=464",
@@ -101,14 +101,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 21,
-      "Востриков Егор Олегович": 10,
-      "Долиев Михаил Вячеславович": 4,
-      "Ковалёв Егор Викторович": 7,
-      "Никитина Наиля Зинуровна": 0,
-      "Огуль Леонид Анатольевич": 16,
-      "Родионов Сергей Леонидович": 3,
-      "Шеин Олег Васильевич": 10
+      "gas:candidate-vibid:2302000826854": 21,
+      "gas:candidate-vibid:2302000821738": 10,
+      "gas:candidate-vibid:2302000833686": 4,
+      "gas:candidate-vibid:2302000825752": 7,
+      "gas:candidate-vibid:2302000839430": 0,
+      "gas:candidate-vibid:2302000839216": 16,
+      "gas:candidate-vibid:2302000837297": 3,
+      "gas:candidate-vibid:2302000824415": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783724&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783724&type=464",
@@ -159,14 +159,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 47,
-      "Востриков Егор Олегович": 38,
-      "Долиев Михаил Вячеславович": 0,
-      "Ковалёв Егор Викторович": 6,
-      "Никитина Наиля Зинуровна": 3,
-      "Огуль Леонид Анатольевич": 39,
-      "Родионов Сергей Леонидович": 5,
-      "Шеин Олег Васильевич": 22
+      "gas:candidate-vibid:2302000826854": 47,
+      "gas:candidate-vibid:2302000821738": 38,
+      "gas:candidate-vibid:2302000833686": 0,
+      "gas:candidate-vibid:2302000825752": 6,
+      "gas:candidate-vibid:2302000839430": 3,
+      "gas:candidate-vibid:2302000839216": 39,
+      "gas:candidate-vibid:2302000837297": 5,
+      "gas:candidate-vibid:2302000824415": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783724&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783724&type=464",
@@ -217,14 +217,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 36,
-      "Востриков Егор Олегович": 22,
-      "Долиев Михаил Вячеславович": 2,
-      "Ковалёв Егор Викторович": 6,
-      "Никитина Наиля Зинуровна": 4,
-      "Огуль Леонид Анатольевич": 33,
-      "Родионов Сергей Леонидович": 4,
-      "Шеин Олег Васильевич": 21
+      "gas:candidate-vibid:2302000826854": 36,
+      "gas:candidate-vibid:2302000821738": 22,
+      "gas:candidate-vibid:2302000833686": 2,
+      "gas:candidate-vibid:2302000825752": 6,
+      "gas:candidate-vibid:2302000839430": 4,
+      "gas:candidate-vibid:2302000839216": 33,
+      "gas:candidate-vibid:2302000837297": 4,
+      "gas:candidate-vibid:2302000824415": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783724&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783724&type=464",
@@ -275,14 +275,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 58,
-      "Востриков Егор Олегович": 35,
-      "Долиев Михаил Вячеславович": 9,
-      "Ковалёв Егор Викторович": 16,
-      "Никитина Наиля Зинуровна": 1,
-      "Огуль Леонид Анатольевич": 57,
-      "Родионов Сергей Леонидович": 3,
-      "Шеин Олег Васильевич": 39
+      "gas:candidate-vibid:2302000826854": 58,
+      "gas:candidate-vibid:2302000821738": 35,
+      "gas:candidate-vibid:2302000833686": 9,
+      "gas:candidate-vibid:2302000825752": 16,
+      "gas:candidate-vibid:2302000839430": 1,
+      "gas:candidate-vibid:2302000839216": 57,
+      "gas:candidate-vibid:2302000837297": 3,
+      "gas:candidate-vibid:2302000824415": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783724&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783724&type=464",
@@ -333,14 +333,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 56,
-      "Востриков Егор Олегович": 22,
-      "Долиев Михаил Вячеславович": 3,
-      "Ковалёв Егор Викторович": 12,
-      "Никитина Наиля Зинуровна": 5,
-      "Огуль Леонид Анатольевич": 47,
-      "Родионов Сергей Леонидович": 5,
-      "Шеин Олег Васильевич": 43
+      "gas:candidate-vibid:2302000826854": 56,
+      "gas:candidate-vibid:2302000821738": 22,
+      "gas:candidate-vibid:2302000833686": 3,
+      "gas:candidate-vibid:2302000825752": 12,
+      "gas:candidate-vibid:2302000839430": 5,
+      "gas:candidate-vibid:2302000839216": 47,
+      "gas:candidate-vibid:2302000837297": 5,
+      "gas:candidate-vibid:2302000824415": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783724&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783724&type=464",
@@ -391,14 +391,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 65,
-      "Востриков Егор Олегович": 30,
-      "Долиев Михаил Вячеславович": 3,
-      "Ковалёв Егор Викторович": 6,
-      "Никитина Наиля Зинуровна": 4,
-      "Огуль Леонид Анатольевич": 31,
-      "Родионов Сергей Леонидович": 5,
-      "Шеин Олег Васильевич": 36
+      "gas:candidate-vibid:2302000826854": 65,
+      "gas:candidate-vibid:2302000821738": 30,
+      "gas:candidate-vibid:2302000833686": 3,
+      "gas:candidate-vibid:2302000825752": 6,
+      "gas:candidate-vibid:2302000839430": 4,
+      "gas:candidate-vibid:2302000839216": 31,
+      "gas:candidate-vibid:2302000837297": 5,
+      "gas:candidate-vibid:2302000824415": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783724&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783724&type=464",
@@ -449,14 +449,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 31,
-      "Востриков Егор Олегович": 7,
-      "Долиев Михаил Вячеславович": 3,
-      "Ковалёв Егор Викторович": 16,
-      "Никитина Наиля Зинуровна": 2,
-      "Огуль Леонид Анатольевич": 50,
-      "Родионов Сергей Леонидович": 2,
-      "Шеин Олег Васильевич": 33
+      "gas:candidate-vibid:2302000826854": 31,
+      "gas:candidate-vibid:2302000821738": 7,
+      "gas:candidate-vibid:2302000833686": 3,
+      "gas:candidate-vibid:2302000825752": 16,
+      "gas:candidate-vibid:2302000839430": 2,
+      "gas:candidate-vibid:2302000839216": 50,
+      "gas:candidate-vibid:2302000837297": 2,
+      "gas:candidate-vibid:2302000824415": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783724&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783724&type=464",
@@ -507,14 +507,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 46,
-      "Востриков Егор Олегович": 12,
-      "Долиев Михаил Вячеславович": 1,
-      "Ковалёв Егор Викторович": 10,
-      "Никитина Наиля Зинуровна": 4,
-      "Огуль Леонид Анатольевич": 60,
-      "Родионов Сергей Леонидович": 1,
-      "Шеин Олег Васильевич": 42
+      "gas:candidate-vibid:2302000826854": 46,
+      "gas:candidate-vibid:2302000821738": 12,
+      "gas:candidate-vibid:2302000833686": 1,
+      "gas:candidate-vibid:2302000825752": 10,
+      "gas:candidate-vibid:2302000839430": 4,
+      "gas:candidate-vibid:2302000839216": 60,
+      "gas:candidate-vibid:2302000837297": 1,
+      "gas:candidate-vibid:2302000824415": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783724&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783724&type=464",
@@ -565,14 +565,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 72,
-      "Востриков Егор Олегович": 20,
-      "Долиев Михаил Вячеславович": 4,
-      "Ковалёв Егор Викторович": 20,
-      "Никитина Наиля Зинуровна": 6,
-      "Огуль Леонид Анатольевич": 120,
-      "Родионов Сергей Леонидович": 1,
-      "Шеин Олег Васильевич": 84
+      "gas:candidate-vibid:2302000826854": 72,
+      "gas:candidate-vibid:2302000821738": 20,
+      "gas:candidate-vibid:2302000833686": 4,
+      "gas:candidate-vibid:2302000825752": 20,
+      "gas:candidate-vibid:2302000839430": 6,
+      "gas:candidate-vibid:2302000839216": 120,
+      "gas:candidate-vibid:2302000837297": 1,
+      "gas:candidate-vibid:2302000824415": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783724&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783724&type=464",
@@ -623,14 +623,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 38,
-      "Востриков Егор Олегович": 19,
-      "Долиев Михаил Вячеславович": 2,
-      "Ковалёв Егор Викторович": 20,
-      "Никитина Наиля Зинуровна": 8,
-      "Огуль Леонид Анатольевич": 89,
-      "Родионов Сергей Леонидович": 0,
-      "Шеин Олег Васильевич": 61
+      "gas:candidate-vibid:2302000826854": 38,
+      "gas:candidate-vibid:2302000821738": 19,
+      "gas:candidate-vibid:2302000833686": 2,
+      "gas:candidate-vibid:2302000825752": 20,
+      "gas:candidate-vibid:2302000839430": 8,
+      "gas:candidate-vibid:2302000839216": 89,
+      "gas:candidate-vibid:2302000837297": 0,
+      "gas:candidate-vibid:2302000824415": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783724&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783724&type=464",
@@ -681,14 +681,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 24,
-      "Востриков Егор Олегович": 6,
-      "Долиев Михаил Вячеславович": 1,
-      "Ковалёв Егор Викторович": 8,
-      "Никитина Наиля Зинуровна": 6,
-      "Огуль Леонид Анатольевич": 41,
-      "Родионов Сергей Леонидович": 1,
-      "Шеин Олег Васильевич": 52
+      "gas:candidate-vibid:2302000826854": 24,
+      "gas:candidate-vibid:2302000821738": 6,
+      "gas:candidate-vibid:2302000833686": 1,
+      "gas:candidate-vibid:2302000825752": 8,
+      "gas:candidate-vibid:2302000839430": 6,
+      "gas:candidate-vibid:2302000839216": 41,
+      "gas:candidate-vibid:2302000837297": 1,
+      "gas:candidate-vibid:2302000824415": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783724&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783724&type=464",
@@ -739,14 +739,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 43,
-      "Востриков Егор Олегович": 23,
-      "Долиев Михаил Вячеславович": 3,
-      "Ковалёв Егор Викторович": 17,
-      "Никитина Наиля Зинуровна": 8,
-      "Огуль Леонид Анатольевич": 133,
-      "Родионов Сергей Леонидович": 3,
-      "Шеин Олег Васильевич": 79
+      "gas:candidate-vibid:2302000826854": 43,
+      "gas:candidate-vibid:2302000821738": 23,
+      "gas:candidate-vibid:2302000833686": 3,
+      "gas:candidate-vibid:2302000825752": 17,
+      "gas:candidate-vibid:2302000839430": 8,
+      "gas:candidate-vibid:2302000839216": 133,
+      "gas:candidate-vibid:2302000837297": 3,
+      "gas:candidate-vibid:2302000824415": 79
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783724&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783724&type=464",
@@ -797,14 +797,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 101,
-      "Востриков Егор Олегович": 27,
-      "Долиев Михаил Вячеславович": 8,
-      "Ковалёв Егор Викторович": 16,
-      "Никитина Наиля Зинуровна": 24,
-      "Огуль Леонид Анатольевич": 163,
-      "Родионов Сергей Леонидович": 18,
-      "Шеин Олег Васильевич": 104
+      "gas:candidate-vibid:2302000826854": 101,
+      "gas:candidate-vibid:2302000821738": 27,
+      "gas:candidate-vibid:2302000833686": 8,
+      "gas:candidate-vibid:2302000825752": 16,
+      "gas:candidate-vibid:2302000839430": 24,
+      "gas:candidate-vibid:2302000839216": 163,
+      "gas:candidate-vibid:2302000837297": 18,
+      "gas:candidate-vibid:2302000824415": 104
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783724&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783724&type=464",
@@ -855,14 +855,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 51,
-      "Востриков Егор Олегович": 13,
-      "Долиев Михаил Вячеславович": 2,
-      "Ковалёв Егор Викторович": 19,
-      "Никитина Наиля Зинуровна": 3,
-      "Огуль Леонид Анатольевич": 52,
-      "Родионов Сергей Леонидович": 0,
-      "Шеин Олег Васильевич": 68
+      "gas:candidate-vibid:2302000826854": 51,
+      "gas:candidate-vibid:2302000821738": 13,
+      "gas:candidate-vibid:2302000833686": 2,
+      "gas:candidate-vibid:2302000825752": 19,
+      "gas:candidate-vibid:2302000839430": 3,
+      "gas:candidate-vibid:2302000839216": 52,
+      "gas:candidate-vibid:2302000837297": 0,
+      "gas:candidate-vibid:2302000824415": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783724&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783724&type=464",
@@ -913,14 +913,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 39,
-      "Востриков Егор Олегович": 13,
-      "Долиев Михаил Вячеславович": 1,
-      "Ковалёв Егор Викторович": 6,
-      "Никитина Наиля Зинуровна": 1,
-      "Огуль Леонид Анатольевич": 63,
-      "Родионов Сергей Леонидович": 0,
-      "Шеин Олег Васильевич": 64
+      "gas:candidate-vibid:2302000826854": 39,
+      "gas:candidate-vibid:2302000821738": 13,
+      "gas:candidate-vibid:2302000833686": 1,
+      "gas:candidate-vibid:2302000825752": 6,
+      "gas:candidate-vibid:2302000839430": 1,
+      "gas:candidate-vibid:2302000839216": 63,
+      "gas:candidate-vibid:2302000837297": 0,
+      "gas:candidate-vibid:2302000824415": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783724&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783724&type=464",
@@ -971,14 +971,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 72,
-      "Востриков Егор Олегович": 36,
-      "Долиев Михаил Вячеславович": 4,
-      "Ковалёв Егор Викторович": 19,
-      "Никитина Наиля Зинуровна": 10,
-      "Огуль Леонид Анатольевич": 95,
-      "Родионов Сергей Леонидович": 5,
-      "Шеин Олег Васильевич": 86
+      "gas:candidate-vibid:2302000826854": 72,
+      "gas:candidate-vibid:2302000821738": 36,
+      "gas:candidate-vibid:2302000833686": 4,
+      "gas:candidate-vibid:2302000825752": 19,
+      "gas:candidate-vibid:2302000839430": 10,
+      "gas:candidate-vibid:2302000839216": 95,
+      "gas:candidate-vibid:2302000837297": 5,
+      "gas:candidate-vibid:2302000824415": 86
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783724&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783724&type=464",
@@ -1029,14 +1029,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 37,
-      "Востриков Егор Олегович": 14,
-      "Долиев Михаил Вячеславович": 4,
-      "Ковалёв Егор Викторович": 16,
-      "Никитина Наиля Зинуровна": 5,
-      "Огуль Леонид Анатольевич": 56,
-      "Родионов Сергей Леонидович": 6,
-      "Шеин Олег Васильевич": 27
+      "gas:candidate-vibid:2302000826854": 37,
+      "gas:candidate-vibid:2302000821738": 14,
+      "gas:candidate-vibid:2302000833686": 4,
+      "gas:candidate-vibid:2302000825752": 16,
+      "gas:candidate-vibid:2302000839430": 5,
+      "gas:candidate-vibid:2302000839216": 56,
+      "gas:candidate-vibid:2302000837297": 6,
+      "gas:candidate-vibid:2302000824415": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783724&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783724&type=464",
@@ -1087,14 +1087,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 10,
-      "Востриков Егор Олегович": 6,
-      "Долиев Михаил Вячеславович": 1,
-      "Ковалёв Егор Викторович": 3,
-      "Никитина Наиля Зинуровна": 0,
-      "Огуль Леонид Анатольевич": 16,
-      "Родионов Сергей Леонидович": 0,
-      "Шеин Олег Васильевич": 32
+      "gas:candidate-vibid:2302000826854": 10,
+      "gas:candidate-vibid:2302000821738": 6,
+      "gas:candidate-vibid:2302000833686": 1,
+      "gas:candidate-vibid:2302000825752": 3,
+      "gas:candidate-vibid:2302000839430": 0,
+      "gas:candidate-vibid:2302000839216": 16,
+      "gas:candidate-vibid:2302000837297": 0,
+      "gas:candidate-vibid:2302000824415": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783724&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783724&type=464",
@@ -1145,14 +1145,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 82,
-      "Востриков Егор Олегович": 11,
-      "Долиев Михаил Вячеславович": 4,
-      "Ковалёв Егор Викторович": 19,
-      "Никитина Наиля Зинуровна": 9,
-      "Огуль Леонид Анатольевич": 58,
-      "Родионов Сергей Леонидович": 5,
-      "Шеин Олег Васильевич": 47
+      "gas:candidate-vibid:2302000826854": 82,
+      "gas:candidate-vibid:2302000821738": 11,
+      "gas:candidate-vibid:2302000833686": 4,
+      "gas:candidate-vibid:2302000825752": 19,
+      "gas:candidate-vibid:2302000839430": 9,
+      "gas:candidate-vibid:2302000839216": 58,
+      "gas:candidate-vibid:2302000837297": 5,
+      "gas:candidate-vibid:2302000824415": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783724&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783724&type=464",
@@ -1203,14 +1203,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 96,
-      "Востриков Егор Олегович": 35,
-      "Долиев Михаил Вячеславович": 7,
-      "Ковалёв Егор Викторович": 15,
-      "Никитина Наиля Зинуровна": 7,
-      "Огуль Леонид Анатольевич": 124,
-      "Родионов Сергей Леонидович": 1,
-      "Шеин Олег Васильевич": 84
+      "gas:candidate-vibid:2302000826854": 96,
+      "gas:candidate-vibid:2302000821738": 35,
+      "gas:candidate-vibid:2302000833686": 7,
+      "gas:candidate-vibid:2302000825752": 15,
+      "gas:candidate-vibid:2302000839430": 7,
+      "gas:candidate-vibid:2302000839216": 124,
+      "gas:candidate-vibid:2302000837297": 1,
+      "gas:candidate-vibid:2302000824415": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783724&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783724&type=464",
@@ -1261,14 +1261,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 85,
-      "Востриков Егор Олегович": 32,
-      "Долиев Михаил Вячеславович": 3,
-      "Ковалёв Егор Викторович": 16,
-      "Никитина Наиля Зинуровна": 4,
-      "Огуль Леонид Анатольевич": 101,
-      "Родионов Сергей Леонидович": 5,
-      "Шеин Олег Васильевич": 60
+      "gas:candidate-vibid:2302000826854": 85,
+      "gas:candidate-vibid:2302000821738": 32,
+      "gas:candidate-vibid:2302000833686": 3,
+      "gas:candidate-vibid:2302000825752": 16,
+      "gas:candidate-vibid:2302000839430": 4,
+      "gas:candidate-vibid:2302000839216": 101,
+      "gas:candidate-vibid:2302000837297": 5,
+      "gas:candidate-vibid:2302000824415": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783724&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783724&type=464",
@@ -1319,14 +1319,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 61,
-      "Востриков Егор Олегович": 24,
-      "Долиев Михаил Вячеславович": 1,
-      "Ковалёв Егор Викторович": 17,
-      "Никитина Наиля Зинуровна": 13,
-      "Огуль Леонид Анатольевич": 88,
-      "Родионов Сергей Леонидович": 2,
-      "Шеин Олег Васильевич": 52
+      "gas:candidate-vibid:2302000826854": 61,
+      "gas:candidate-vibid:2302000821738": 24,
+      "gas:candidate-vibid:2302000833686": 1,
+      "gas:candidate-vibid:2302000825752": 17,
+      "gas:candidate-vibid:2302000839430": 13,
+      "gas:candidate-vibid:2302000839216": 88,
+      "gas:candidate-vibid:2302000837297": 2,
+      "gas:candidate-vibid:2302000824415": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783724&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783724&type=464",
@@ -1377,14 +1377,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 60,
-      "Востриков Егор Олегович": 12,
-      "Долиев Михаил Вячеславович": 3,
-      "Ковалёв Егор Викторович": 10,
-      "Никитина Наиля Зинуровна": 9,
-      "Огуль Леонид Анатольевич": 58,
-      "Родионов Сергей Леонидович": 5,
-      "Шеин Олег Васильевич": 47
+      "gas:candidate-vibid:2302000826854": 60,
+      "gas:candidate-vibid:2302000821738": 12,
+      "gas:candidate-vibid:2302000833686": 3,
+      "gas:candidate-vibid:2302000825752": 10,
+      "gas:candidate-vibid:2302000839430": 9,
+      "gas:candidate-vibid:2302000839216": 58,
+      "gas:candidate-vibid:2302000837297": 5,
+      "gas:candidate-vibid:2302000824415": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783724&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783724&type=464",
@@ -1435,14 +1435,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 123,
-      "Востриков Егор Олегович": 43,
-      "Долиев Михаил Вячеславович": 9,
-      "Ковалёв Егор Викторович": 25,
-      "Никитина Наиля Зинуровна": 15,
-      "Огуль Леонид Анатольевич": 123,
-      "Родионов Сергей Леонидович": 3,
-      "Шеин Олег Васильевич": 85
+      "gas:candidate-vibid:2302000826854": 123,
+      "gas:candidate-vibid:2302000821738": 43,
+      "gas:candidate-vibid:2302000833686": 9,
+      "gas:candidate-vibid:2302000825752": 25,
+      "gas:candidate-vibid:2302000839430": 15,
+      "gas:candidate-vibid:2302000839216": 123,
+      "gas:candidate-vibid:2302000837297": 3,
+      "gas:candidate-vibid:2302000824415": 85
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783724&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783724&type=464",
@@ -1493,14 +1493,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 106,
-      "Востриков Егор Олегович": 27,
-      "Долиев Михаил Вячеславович": 6,
-      "Ковалёв Егор Викторович": 19,
-      "Никитина Наиля Зинуровна": 15,
-      "Огуль Леонид Анатольевич": 105,
-      "Родионов Сергей Леонидович": 4,
-      "Шеин Олег Васильевич": 75
+      "gas:candidate-vibid:2302000826854": 106,
+      "gas:candidate-vibid:2302000821738": 27,
+      "gas:candidate-vibid:2302000833686": 6,
+      "gas:candidate-vibid:2302000825752": 19,
+      "gas:candidate-vibid:2302000839430": 15,
+      "gas:candidate-vibid:2302000839216": 105,
+      "gas:candidate-vibid:2302000837297": 4,
+      "gas:candidate-vibid:2302000824415": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783724&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783724&type=464",
@@ -1551,14 +1551,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 100,
-      "Востриков Егор Олегович": 18,
-      "Долиев Михаил Вячеславович": 4,
-      "Ковалёв Егор Викторович": 17,
-      "Никитина Наиля Зинуровна": 6,
-      "Огуль Леонид Анатольевич": 102,
-      "Родионов Сергей Леонидович": 2,
-      "Шеин Олег Васильевич": 91
+      "gas:candidate-vibid:2302000826854": 100,
+      "gas:candidate-vibid:2302000821738": 18,
+      "gas:candidate-vibid:2302000833686": 4,
+      "gas:candidate-vibid:2302000825752": 17,
+      "gas:candidate-vibid:2302000839430": 6,
+      "gas:candidate-vibid:2302000839216": 102,
+      "gas:candidate-vibid:2302000837297": 2,
+      "gas:candidate-vibid:2302000824415": 91
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783724&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783724&type=464",
@@ -1609,14 +1609,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 81,
-      "Востриков Егор Олегович": 11,
-      "Долиев Михаил Вячеславович": 3,
-      "Ковалёв Егор Викторович": 15,
-      "Никитина Наиля Зинуровна": 8,
-      "Огуль Леонид Анатольевич": 70,
-      "Родионов Сергей Леонидович": 1,
-      "Шеин Олег Васильевич": 51
+      "gas:candidate-vibid:2302000826854": 81,
+      "gas:candidate-vibid:2302000821738": 11,
+      "gas:candidate-vibid:2302000833686": 3,
+      "gas:candidate-vibid:2302000825752": 15,
+      "gas:candidate-vibid:2302000839430": 8,
+      "gas:candidate-vibid:2302000839216": 70,
+      "gas:candidate-vibid:2302000837297": 1,
+      "gas:candidate-vibid:2302000824415": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783724&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783724&type=464",
@@ -1667,14 +1667,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 21,
-      "Востриков Егор Олегович": 7,
-      "Долиев Михаил Вячеславович": 1,
-      "Ковалёв Егор Викторович": 3,
-      "Никитина Наиля Зинуровна": 3,
-      "Огуль Леонид Анатольевич": 23,
-      "Родионов Сергей Леонидович": 1,
-      "Шеин Олег Васильевич": 25
+      "gas:candidate-vibid:2302000826854": 21,
+      "gas:candidate-vibid:2302000821738": 7,
+      "gas:candidate-vibid:2302000833686": 1,
+      "gas:candidate-vibid:2302000825752": 3,
+      "gas:candidate-vibid:2302000839430": 3,
+      "gas:candidate-vibid:2302000839216": 23,
+      "gas:candidate-vibid:2302000837297": 1,
+      "gas:candidate-vibid:2302000824415": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783724&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783724&type=464",
@@ -1725,14 +1725,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 57,
-      "Востриков Егор Олегович": 77,
-      "Долиев Михаил Вячеславович": 1,
-      "Ковалёв Егор Викторович": 22,
-      "Никитина Наиля Зинуровна": 8,
-      "Огуль Леонид Анатольевич": 177,
-      "Родионов Сергей Леонидович": 8,
-      "Шеин Олег Васильевич": 274
+      "gas:candidate-vibid:2302000826854": 57,
+      "gas:candidate-vibid:2302000821738": 77,
+      "gas:candidate-vibid:2302000833686": 1,
+      "gas:candidate-vibid:2302000825752": 22,
+      "gas:candidate-vibid:2302000839430": 8,
+      "gas:candidate-vibid:2302000839216": 177,
+      "gas:candidate-vibid:2302000837297": 8,
+      "gas:candidate-vibid:2302000824415": 274
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783724&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783724&type=464",
@@ -1783,14 +1783,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 105,
-      "Востриков Егор Олегович": 52,
-      "Долиев Михаил Вячеславович": 7,
-      "Ковалёв Егор Викторович": 32,
-      "Никитина Наиля Зинуровна": 16,
-      "Огуль Леонид Анатольевич": 145,
-      "Родионов Сергей Леонидович": 9,
-      "Шеин Олег Васильевич": 236
+      "gas:candidate-vibid:2302000826854": 105,
+      "gas:candidate-vibid:2302000821738": 52,
+      "gas:candidate-vibid:2302000833686": 7,
+      "gas:candidate-vibid:2302000825752": 32,
+      "gas:candidate-vibid:2302000839430": 16,
+      "gas:candidate-vibid:2302000839216": 145,
+      "gas:candidate-vibid:2302000837297": 9,
+      "gas:candidate-vibid:2302000824415": 236
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783724&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783724&type=464",
@@ -1841,14 +1841,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 101,
-      "Востриков Егор Олегович": 53,
-      "Долиев Михаил Вячеславович": 4,
-      "Ковалёв Егор Викторович": 23,
-      "Никитина Наиля Зинуровна": 9,
-      "Огуль Леонид Анатольевич": 97,
-      "Родионов Сергей Леонидович": 4,
-      "Шеин Олег Васильевич": 166
+      "gas:candidate-vibid:2302000826854": 101,
+      "gas:candidate-vibid:2302000821738": 53,
+      "gas:candidate-vibid:2302000833686": 4,
+      "gas:candidate-vibid:2302000825752": 23,
+      "gas:candidate-vibid:2302000839430": 9,
+      "gas:candidate-vibid:2302000839216": 97,
+      "gas:candidate-vibid:2302000837297": 4,
+      "gas:candidate-vibid:2302000824415": 166
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783724&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783724&type=464",
@@ -1899,14 +1899,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 101,
-      "Востриков Егор Олегович": 49,
-      "Долиев Михаил Вячеславович": 10,
-      "Ковалёв Егор Викторович": 18,
-      "Никитина Наиля Зинуровна": 14,
-      "Огуль Леонид Анатольевич": 136,
-      "Родионов Сергей Леонидович": 8,
-      "Шеин Олег Васильевич": 172
+      "gas:candidate-vibid:2302000826854": 101,
+      "gas:candidate-vibid:2302000821738": 49,
+      "gas:candidate-vibid:2302000833686": 10,
+      "gas:candidate-vibid:2302000825752": 18,
+      "gas:candidate-vibid:2302000839430": 14,
+      "gas:candidate-vibid:2302000839216": 136,
+      "gas:candidate-vibid:2302000837297": 8,
+      "gas:candidate-vibid:2302000824415": 172
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783724&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783724&type=464",
@@ -1957,14 +1957,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 104,
-      "Востриков Егор Олегович": 41,
-      "Долиев Михаил Вячеславович": 5,
-      "Ковалёв Егор Викторович": 22,
-      "Никитина Наиля Зинуровна": 12,
-      "Огуль Леонид Анатольевич": 168,
-      "Родионов Сергей Леонидович": 6,
-      "Шеин Олег Васильевич": 362
+      "gas:candidate-vibid:2302000826854": 104,
+      "gas:candidate-vibid:2302000821738": 41,
+      "gas:candidate-vibid:2302000833686": 5,
+      "gas:candidate-vibid:2302000825752": 22,
+      "gas:candidate-vibid:2302000839430": 12,
+      "gas:candidate-vibid:2302000839216": 168,
+      "gas:candidate-vibid:2302000837297": 6,
+      "gas:candidate-vibid:2302000824415": 362
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783724&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783724&type=464",
@@ -2015,14 +2015,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 119,
-      "Востриков Егор Олегович": 49,
-      "Долиев Михаил Вячеславович": 7,
-      "Ковалёв Егор Викторович": 18,
-      "Никитина Наиля Зинуровна": 13,
-      "Огуль Леонид Анатольевич": 134,
-      "Родионов Сергей Леонидович": 10,
-      "Шеин Олег Васильевич": 350
+      "gas:candidate-vibid:2302000826854": 119,
+      "gas:candidate-vibid:2302000821738": 49,
+      "gas:candidate-vibid:2302000833686": 7,
+      "gas:candidate-vibid:2302000825752": 18,
+      "gas:candidate-vibid:2302000839430": 13,
+      "gas:candidate-vibid:2302000839216": 134,
+      "gas:candidate-vibid:2302000837297": 10,
+      "gas:candidate-vibid:2302000824415": 350
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783724&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783724&type=464",
@@ -2073,14 +2073,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 156,
-      "Востриков Егор Олегович": 54,
-      "Долиев Михаил Вячеславович": 10,
-      "Ковалёв Егор Викторович": 18,
-      "Никитина Наиля Зинуровна": 13,
-      "Огуль Леонид Анатольевич": 190,
-      "Родионов Сергей Леонидович": 9,
-      "Шеин Олег Васильевич": 430
+      "gas:candidate-vibid:2302000826854": 156,
+      "gas:candidate-vibid:2302000821738": 54,
+      "gas:candidate-vibid:2302000833686": 10,
+      "gas:candidate-vibid:2302000825752": 18,
+      "gas:candidate-vibid:2302000839430": 13,
+      "gas:candidate-vibid:2302000839216": 190,
+      "gas:candidate-vibid:2302000837297": 9,
+      "gas:candidate-vibid:2302000824415": 430
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783724&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783724&type=464",
@@ -2131,14 +2131,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 180,
-      "Востриков Егор Олегович": 202,
-      "Долиев Михаил Вячеславович": 32,
-      "Ковалёв Егор Викторович": 67,
-      "Никитина Наиля Зинуровна": 37,
-      "Огуль Леонид Анатольевич": 370,
-      "Родионов Сергей Леонидович": 42,
-      "Шеин Олег Васильевич": 474
+      "gas:candidate-vibid:2302000826854": 180,
+      "gas:candidate-vibid:2302000821738": 202,
+      "gas:candidate-vibid:2302000833686": 32,
+      "gas:candidate-vibid:2302000825752": 67,
+      "gas:candidate-vibid:2302000839430": 37,
+      "gas:candidate-vibid:2302000839216": 370,
+      "gas:candidate-vibid:2302000837297": 42,
+      "gas:candidate-vibid:2302000824415": 474
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783724&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783724&type=464",
@@ -2189,14 +2189,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 106,
-      "Востриков Егор Олегович": 68,
-      "Долиев Михаил Вячеславович": 1,
-      "Ковалёв Егор Викторович": 15,
-      "Никитина Наиля Зинуровна": 6,
-      "Огуль Леонид Анатольевич": 201,
-      "Родионов Сергей Леонидович": 15,
-      "Шеин Олег Васильевич": 339
+      "gas:candidate-vibid:2302000826854": 106,
+      "gas:candidate-vibid:2302000821738": 68,
+      "gas:candidate-vibid:2302000833686": 1,
+      "gas:candidate-vibid:2302000825752": 15,
+      "gas:candidate-vibid:2302000839430": 6,
+      "gas:candidate-vibid:2302000839216": 201,
+      "gas:candidate-vibid:2302000837297": 15,
+      "gas:candidate-vibid:2302000824415": 339
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783724&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783724&type=464",
@@ -2247,14 +2247,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 88,
-      "Востриков Егор Олегович": 58,
-      "Долиев Михаил Вячеславович": 5,
-      "Ковалёв Егор Викторович": 26,
-      "Никитина Наиля Зинуровна": 7,
-      "Огуль Леонид Анатольевич": 176,
-      "Родионов Сергей Леонидович": 11,
-      "Шеин Олег Васильевич": 315
+      "gas:candidate-vibid:2302000826854": 88,
+      "gas:candidate-vibid:2302000821738": 58,
+      "gas:candidate-vibid:2302000833686": 5,
+      "gas:candidate-vibid:2302000825752": 26,
+      "gas:candidate-vibid:2302000839430": 7,
+      "gas:candidate-vibid:2302000839216": 176,
+      "gas:candidate-vibid:2302000837297": 11,
+      "gas:candidate-vibid:2302000824415": 315
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783724&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783724&type=464",
@@ -2305,14 +2305,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 156,
-      "Востриков Егор Олегович": 62,
-      "Долиев Михаил Вячеславович": 9,
-      "Ковалёв Егор Викторович": 18,
-      "Никитина Наиля Зинуровна": 12,
-      "Огуль Леонид Анатольевич": 180,
-      "Родионов Сергей Леонидович": 9,
-      "Шеин Олег Васильевич": 393
+      "gas:candidate-vibid:2302000826854": 156,
+      "gas:candidate-vibid:2302000821738": 62,
+      "gas:candidate-vibid:2302000833686": 9,
+      "gas:candidate-vibid:2302000825752": 18,
+      "gas:candidate-vibid:2302000839430": 12,
+      "gas:candidate-vibid:2302000839216": 180,
+      "gas:candidate-vibid:2302000837297": 9,
+      "gas:candidate-vibid:2302000824415": 393
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783724&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783724&type=464",
@@ -2363,14 +2363,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 142,
-      "Востриков Егор Олегович": 52,
-      "Долиев Михаил Вячеславович": 10,
-      "Ковалёв Егор Викторович": 33,
-      "Никитина Наиля Зинуровна": 10,
-      "Огуль Леонид Анатольевич": 168,
-      "Родионов Сергей Леонидович": 11,
-      "Шеин Олег Васильевич": 376
+      "gas:candidate-vibid:2302000826854": 142,
+      "gas:candidate-vibid:2302000821738": 52,
+      "gas:candidate-vibid:2302000833686": 10,
+      "gas:candidate-vibid:2302000825752": 33,
+      "gas:candidate-vibid:2302000839430": 10,
+      "gas:candidate-vibid:2302000839216": 168,
+      "gas:candidate-vibid:2302000837297": 11,
+      "gas:candidate-vibid:2302000824415": 376
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783724&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783724&type=464",
@@ -2421,14 +2421,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 72,
-      "Востриков Егор Олегович": 49,
-      "Долиев Михаил Вячеславович": 3,
-      "Ковалёв Егор Викторович": 17,
-      "Никитина Наиля Зинуровна": 6,
-      "Огуль Леонид Анатольевич": 109,
-      "Родионов Сергей Леонидович": 10,
-      "Шеин Олег Васильевич": 191
+      "gas:candidate-vibid:2302000826854": 72,
+      "gas:candidate-vibid:2302000821738": 49,
+      "gas:candidate-vibid:2302000833686": 3,
+      "gas:candidate-vibid:2302000825752": 17,
+      "gas:candidate-vibid:2302000839430": 6,
+      "gas:candidate-vibid:2302000839216": 109,
+      "gas:candidate-vibid:2302000837297": 10,
+      "gas:candidate-vibid:2302000824415": 191
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783724&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783724&type=464",
@@ -2479,14 +2479,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 90,
-      "Востриков Егор Олегович": 57,
-      "Долиев Михаил Вячеславович": 5,
-      "Ковалёв Егор Викторович": 12,
-      "Никитина Наиля Зинуровна": 8,
-      "Огуль Леонид Анатольевич": 159,
-      "Родионов Сергей Леонидович": 7,
-      "Шеин Олег Васильевич": 281
+      "gas:candidate-vibid:2302000826854": 90,
+      "gas:candidate-vibid:2302000821738": 57,
+      "gas:candidate-vibid:2302000833686": 5,
+      "gas:candidate-vibid:2302000825752": 12,
+      "gas:candidate-vibid:2302000839430": 8,
+      "gas:candidate-vibid:2302000839216": 159,
+      "gas:candidate-vibid:2302000837297": 7,
+      "gas:candidate-vibid:2302000824415": 281
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783724&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783724&type=464",
@@ -2537,14 +2537,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 56,
-      "Востриков Егор Олегович": 50,
-      "Долиев Михаил Вячеславович": 4,
-      "Ковалёв Егор Викторович": 22,
-      "Никитина Наиля Зинуровна": 5,
-      "Огуль Леонид Анатольевич": 105,
-      "Родионов Сергей Леонидович": 4,
-      "Шеин Олег Васильевич": 104
+      "gas:candidate-vibid:2302000826854": 56,
+      "gas:candidate-vibid:2302000821738": 50,
+      "gas:candidate-vibid:2302000833686": 4,
+      "gas:candidate-vibid:2302000825752": 22,
+      "gas:candidate-vibid:2302000839430": 5,
+      "gas:candidate-vibid:2302000839216": 105,
+      "gas:candidate-vibid:2302000837297": 4,
+      "gas:candidate-vibid:2302000824415": 104
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783724&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783724&type=464",
@@ -2595,14 +2595,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 57,
-      "Востриков Егор Олегович": 28,
-      "Долиев Михаил Вячеславович": 4,
-      "Ковалёв Егор Викторович": 14,
-      "Никитина Наиля Зинуровна": 5,
-      "Огуль Леонид Анатольевич": 73,
-      "Родионов Сергей Леонидович": 6,
-      "Шеин Олег Васильевич": 88
+      "gas:candidate-vibid:2302000826854": 57,
+      "gas:candidate-vibid:2302000821738": 28,
+      "gas:candidate-vibid:2302000833686": 4,
+      "gas:candidate-vibid:2302000825752": 14,
+      "gas:candidate-vibid:2302000839430": 5,
+      "gas:candidate-vibid:2302000839216": 73,
+      "gas:candidate-vibid:2302000837297": 6,
+      "gas:candidate-vibid:2302000824415": 88
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783724&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783724&type=464",
@@ -2653,14 +2653,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 58,
-      "Востриков Егор Олегович": 21,
-      "Долиев Михаил Вячеславович": 3,
-      "Ковалёв Егор Викторович": 9,
-      "Никитина Наиля Зинуровна": 5,
-      "Огуль Леонид Анатольевич": 93,
-      "Родионов Сергей Леонидович": 3,
-      "Шеин Олег Васильевич": 136
+      "gas:candidate-vibid:2302000826854": 58,
+      "gas:candidate-vibid:2302000821738": 21,
+      "gas:candidate-vibid:2302000833686": 3,
+      "gas:candidate-vibid:2302000825752": 9,
+      "gas:candidate-vibid:2302000839430": 5,
+      "gas:candidate-vibid:2302000839216": 93,
+      "gas:candidate-vibid:2302000837297": 3,
+      "gas:candidate-vibid:2302000824415": 136
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783724&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783724&type=464",
@@ -2711,14 +2711,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 74,
-      "Востриков Егор Олегович": 34,
-      "Долиев Михаил Вячеславович": 1,
-      "Ковалёв Егор Викторович": 12,
-      "Никитина Наиля Зинуровна": 4,
-      "Огуль Леонид Анатольевич": 91,
-      "Родионов Сергей Леонидович": 4,
-      "Шеин Олег Васильевич": 133
+      "gas:candidate-vibid:2302000826854": 74,
+      "gas:candidate-vibid:2302000821738": 34,
+      "gas:candidate-vibid:2302000833686": 1,
+      "gas:candidate-vibid:2302000825752": 12,
+      "gas:candidate-vibid:2302000839430": 4,
+      "gas:candidate-vibid:2302000839216": 91,
+      "gas:candidate-vibid:2302000837297": 4,
+      "gas:candidate-vibid:2302000824415": 133
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783724&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783724&type=464",
@@ -2769,14 +2769,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 56,
-      "Востриков Егор Олегович": 49,
-      "Долиев Михаил Вячеславович": 4,
-      "Ковалёв Егор Викторович": 22,
-      "Никитина Наиля Зинуровна": 13,
-      "Огуль Леонид Анатольевич": 104,
-      "Родионов Сергей Леонидович": 5,
-      "Шеин Олег Васильевич": 96
+      "gas:candidate-vibid:2302000826854": 56,
+      "gas:candidate-vibid:2302000821738": 49,
+      "gas:candidate-vibid:2302000833686": 4,
+      "gas:candidate-vibid:2302000825752": 22,
+      "gas:candidate-vibid:2302000839430": 13,
+      "gas:candidate-vibid:2302000839216": 104,
+      "gas:candidate-vibid:2302000837297": 5,
+      "gas:candidate-vibid:2302000824415": 96
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783724&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783724&type=464",
@@ -2827,14 +2827,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 85,
-      "Востриков Егор Олегович": 55,
-      "Долиев Михаил Вячеславович": 5,
-      "Ковалёв Егор Викторович": 16,
-      "Никитина Наиля Зинуровна": 6,
-      "Огуль Леонид Анатольевич": 89,
-      "Родионов Сергей Леонидович": 5,
-      "Шеин Олег Васильевич": 110
+      "gas:candidate-vibid:2302000826854": 85,
+      "gas:candidate-vibid:2302000821738": 55,
+      "gas:candidate-vibid:2302000833686": 5,
+      "gas:candidate-vibid:2302000825752": 16,
+      "gas:candidate-vibid:2302000839430": 6,
+      "gas:candidate-vibid:2302000839216": 89,
+      "gas:candidate-vibid:2302000837297": 5,
+      "gas:candidate-vibid:2302000824415": 110
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783724&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783724&type=464",
@@ -2885,14 +2885,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 42,
-      "Востриков Егор Олегович": 29,
-      "Долиев Михаил Вячеславович": 1,
-      "Ковалёв Егор Викторович": 8,
-      "Никитина Наиля Зинуровна": 4,
-      "Огуль Леонид Анатольевич": 57,
-      "Родионов Сергей Леонидович": 0,
-      "Шеин Олег Васильевич": 65
+      "gas:candidate-vibid:2302000826854": 42,
+      "gas:candidate-vibid:2302000821738": 29,
+      "gas:candidate-vibid:2302000833686": 1,
+      "gas:candidate-vibid:2302000825752": 8,
+      "gas:candidate-vibid:2302000839430": 4,
+      "gas:candidate-vibid:2302000839216": 57,
+      "gas:candidate-vibid:2302000837297": 0,
+      "gas:candidate-vibid:2302000824415": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783724&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783724&type=464",
@@ -2943,14 +2943,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 81,
-      "Востриков Егор Олегович": 50,
-      "Долиев Михаил Вячеславович": 4,
-      "Ковалёв Егор Викторович": 19,
-      "Никитина Наиля Зинуровна": 6,
-      "Огуль Леонид Анатольевич": 113,
-      "Родионов Сергей Леонидович": 5,
-      "Шеин Олег Васильевич": 91
+      "gas:candidate-vibid:2302000826854": 81,
+      "gas:candidate-vibid:2302000821738": 50,
+      "gas:candidate-vibid:2302000833686": 4,
+      "gas:candidate-vibid:2302000825752": 19,
+      "gas:candidate-vibid:2302000839430": 6,
+      "gas:candidate-vibid:2302000839216": 113,
+      "gas:candidate-vibid:2302000837297": 5,
+      "gas:candidate-vibid:2302000824415": 91
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783724&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783724&type=464",
@@ -3001,14 +3001,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 42,
-      "Востриков Егор Олегович": 27,
-      "Долиев Михаил Вячеславович": 1,
-      "Ковалёв Егор Викторович": 11,
-      "Никитина Наиля Зинуровна": 3,
-      "Огуль Леонид Анатольевич": 57,
-      "Родионов Сергей Леонидович": 2,
-      "Шеин Олег Васильевич": 53
+      "gas:candidate-vibid:2302000826854": 42,
+      "gas:candidate-vibid:2302000821738": 27,
+      "gas:candidate-vibid:2302000833686": 1,
+      "gas:candidate-vibid:2302000825752": 11,
+      "gas:candidate-vibid:2302000839430": 3,
+      "gas:candidate-vibid:2302000839216": 57,
+      "gas:candidate-vibid:2302000837297": 2,
+      "gas:candidate-vibid:2302000824415": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783724&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783724&type=464",
@@ -3059,14 +3059,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 116,
-      "Востриков Егор Олегович": 168,
-      "Долиев Михаил Вячеславович": 17,
-      "Ковалёв Егор Викторович": 28,
-      "Никитина Наиля Зинуровна": 20,
-      "Огуль Леонид Анатольевич": 357,
-      "Родионов Сергей Леонидович": 12,
-      "Шеин Олег Васильевич": 235
+      "gas:candidate-vibid:2302000826854": 116,
+      "gas:candidate-vibid:2302000821738": 168,
+      "gas:candidate-vibid:2302000833686": 17,
+      "gas:candidate-vibid:2302000825752": 28,
+      "gas:candidate-vibid:2302000839430": 20,
+      "gas:candidate-vibid:2302000839216": 357,
+      "gas:candidate-vibid:2302000837297": 12,
+      "gas:candidate-vibid:2302000824415": 235
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783725&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783725&type=464",
@@ -3117,14 +3117,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 180,
-      "Востриков Егор Олегович": 181,
-      "Долиев Михаил Вячеславович": 34,
-      "Ковалёв Егор Викторович": 57,
-      "Никитина Наиля Зинуровна": 35,
-      "Огуль Леонид Анатольевич": 454,
-      "Родионов Сергей Леонидович": 34,
-      "Шеин Олег Васильевич": 254
+      "gas:candidate-vibid:2302000826854": 180,
+      "gas:candidate-vibid:2302000821738": 181,
+      "gas:candidate-vibid:2302000833686": 34,
+      "gas:candidate-vibid:2302000825752": 57,
+      "gas:candidate-vibid:2302000839430": 35,
+      "gas:candidate-vibid:2302000839216": 454,
+      "gas:candidate-vibid:2302000837297": 34,
+      "gas:candidate-vibid:2302000824415": 254
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783725&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783725&type=464",
@@ -3175,14 +3175,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 145,
-      "Востриков Егор Олегович": 163,
-      "Долиев Михаил Вячеславович": 26,
-      "Ковалёв Егор Викторович": 43,
-      "Никитина Наиля Зинуровна": 15,
-      "Огуль Леонид Анатольевич": 342,
-      "Родионов Сергей Леонидович": 29,
-      "Шеин Олег Васильевич": 236
+      "gas:candidate-vibid:2302000826854": 145,
+      "gas:candidate-vibid:2302000821738": 163,
+      "gas:candidate-vibid:2302000833686": 26,
+      "gas:candidate-vibid:2302000825752": 43,
+      "gas:candidate-vibid:2302000839430": 15,
+      "gas:candidate-vibid:2302000839216": 342,
+      "gas:candidate-vibid:2302000837297": 29,
+      "gas:candidate-vibid:2302000824415": 236
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783725&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783725&type=464",
@@ -3233,14 +3233,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 126,
-      "Востриков Егор Олегович": 181,
-      "Долиев Михаил Вячеславович": 19,
-      "Ковалёв Егор Викторович": 53,
-      "Никитина Наиля Зинуровна": 29,
-      "Огуль Леонид Анатольевич": 346,
-      "Родионов Сергей Леонидович": 16,
-      "Шеин Олег Васильевич": 231
+      "gas:candidate-vibid:2302000826854": 126,
+      "gas:candidate-vibid:2302000821738": 181,
+      "gas:candidate-vibid:2302000833686": 19,
+      "gas:candidate-vibid:2302000825752": 53,
+      "gas:candidate-vibid:2302000839430": 29,
+      "gas:candidate-vibid:2302000839216": 346,
+      "gas:candidate-vibid:2302000837297": 16,
+      "gas:candidate-vibid:2302000824415": 231
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783725&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783725&type=464",
@@ -3291,14 +3291,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 123,
-      "Востриков Егор Олегович": 149,
-      "Долиев Михаил Вячеславович": 27,
-      "Ковалёв Егор Викторович": 34,
-      "Никитина Наиля Зинуровна": 20,
-      "Огуль Леонид Анатольевич": 325,
-      "Родионов Сергей Леонидович": 14,
-      "Шеин Олег Васильевич": 261
+      "gas:candidate-vibid:2302000826854": 123,
+      "gas:candidate-vibid:2302000821738": 149,
+      "gas:candidate-vibid:2302000833686": 27,
+      "gas:candidate-vibid:2302000825752": 34,
+      "gas:candidate-vibid:2302000839430": 20,
+      "gas:candidate-vibid:2302000839216": 325,
+      "gas:candidate-vibid:2302000837297": 14,
+      "gas:candidate-vibid:2302000824415": 261
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783725&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783725&type=464",
@@ -3349,14 +3349,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 181,
-      "Востриков Егор Олегович": 234,
-      "Долиев Михаил Вячеславович": 49,
-      "Ковалёв Егор Викторович": 87,
-      "Никитина Наиля Зинуровна": 43,
-      "Огуль Леонид Анатольевич": 452,
-      "Родионов Сергей Леонидович": 33,
-      "Шеин Олег Васильевич": 252
+      "gas:candidate-vibid:2302000826854": 181,
+      "gas:candidate-vibid:2302000821738": 234,
+      "gas:candidate-vibid:2302000833686": 49,
+      "gas:candidate-vibid:2302000825752": 87,
+      "gas:candidate-vibid:2302000839430": 43,
+      "gas:candidate-vibid:2302000839216": 452,
+      "gas:candidate-vibid:2302000837297": 33,
+      "gas:candidate-vibid:2302000824415": 252
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783725&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783725&type=464",
@@ -3407,14 +3407,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 144,
-      "Востриков Егор Олегович": 195,
-      "Долиев Михаил Вячеславович": 29,
-      "Ковалёв Егор Викторович": 86,
-      "Никитина Наиля Зинуровна": 54,
-      "Огуль Леонид Анатольевич": 409,
-      "Родионов Сергей Леонидович": 28,
-      "Шеин Олег Васильевич": 221
+      "gas:candidate-vibid:2302000826854": 144,
+      "gas:candidate-vibid:2302000821738": 195,
+      "gas:candidate-vibid:2302000833686": 29,
+      "gas:candidate-vibid:2302000825752": 86,
+      "gas:candidate-vibid:2302000839430": 54,
+      "gas:candidate-vibid:2302000839216": 409,
+      "gas:candidate-vibid:2302000837297": 28,
+      "gas:candidate-vibid:2302000824415": 221
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783725&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783725&type=464",
@@ -3465,14 +3465,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 151,
-      "Востриков Егор Олегович": 198,
-      "Долиев Михаил Вячеславович": 52,
-      "Ковалёв Егор Викторович": 64,
-      "Никитина Наиля Зинуровна": 53,
-      "Огуль Леонид Анатольевич": 423,
-      "Родионов Сергей Леонидович": 33,
-      "Шеин Олег Васильевич": 351
+      "gas:candidate-vibid:2302000826854": 151,
+      "gas:candidate-vibid:2302000821738": 198,
+      "gas:candidate-vibid:2302000833686": 52,
+      "gas:candidate-vibid:2302000825752": 64,
+      "gas:candidate-vibid:2302000839430": 53,
+      "gas:candidate-vibid:2302000839216": 423,
+      "gas:candidate-vibid:2302000837297": 33,
+      "gas:candidate-vibid:2302000824415": 351
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783725&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783725&type=464",
@@ -3523,14 +3523,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 117,
-      "Востриков Егор Олегович": 166,
-      "Долиев Михаил Вячеславович": 17,
-      "Ковалёв Егор Викторович": 34,
-      "Никитина Наиля Зинуровна": 41,
-      "Огуль Леонид Анатольевич": 363,
-      "Родионов Сергей Леонидович": 23,
-      "Шеин Олег Васильевич": 271
+      "gas:candidate-vibid:2302000826854": 117,
+      "gas:candidate-vibid:2302000821738": 166,
+      "gas:candidate-vibid:2302000833686": 17,
+      "gas:candidate-vibid:2302000825752": 34,
+      "gas:candidate-vibid:2302000839430": 41,
+      "gas:candidate-vibid:2302000839216": 363,
+      "gas:candidate-vibid:2302000837297": 23,
+      "gas:candidate-vibid:2302000824415": 271
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783725&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783725&type=464",
@@ -3581,14 +3581,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 108,
-      "Востриков Егор Олегович": 121,
-      "Долиев Михаил Вячеславович": 17,
-      "Ковалёв Егор Викторович": 38,
-      "Никитина Наиля Зинуровна": 35,
-      "Огуль Леонид Анатольевич": 337,
-      "Родионов Сергей Леонидович": 15,
-      "Шеин Олег Васильевич": 152
+      "gas:candidate-vibid:2302000826854": 108,
+      "gas:candidate-vibid:2302000821738": 121,
+      "gas:candidate-vibid:2302000833686": 17,
+      "gas:candidate-vibid:2302000825752": 38,
+      "gas:candidate-vibid:2302000839430": 35,
+      "gas:candidate-vibid:2302000839216": 337,
+      "gas:candidate-vibid:2302000837297": 15,
+      "gas:candidate-vibid:2302000824415": 152
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783725&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783725&type=464",
@@ -3639,14 +3639,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 0,
-      "Востриков Егор Олегович": 0,
-      "Долиев Михаил Вячеславович": 0,
-      "Ковалёв Егор Викторович": 0,
-      "Никитина Наиля Зинуровна": 0,
-      "Огуль Леонид Анатольевич": 0,
-      "Родионов Сергей Леонидович": 0,
-      "Шеин Олег Васильевич": 0
+      "gas:candidate-vibid:2302000826854": 0,
+      "gas:candidate-vibid:2302000821738": 0,
+      "gas:candidate-vibid:2302000833686": 0,
+      "gas:candidate-vibid:2302000825752": 0,
+      "gas:candidate-vibid:2302000839430": 0,
+      "gas:candidate-vibid:2302000839216": 0,
+      "gas:candidate-vibid:2302000837297": 0,
+      "gas:candidate-vibid:2302000824415": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783725&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783725&type=464",
@@ -3697,14 +3697,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 0,
-      "Востриков Егор Олегович": 0,
-      "Долиев Михаил Вячеславович": 0,
-      "Ковалёв Егор Викторович": 0,
-      "Никитина Наиля Зинуровна": 0,
-      "Огуль Леонид Анатольевич": 0,
-      "Родионов Сергей Леонидович": 0,
-      "Шеин Олег Васильевич": 0
+      "gas:candidate-vibid:2302000826854": 0,
+      "gas:candidate-vibid:2302000821738": 0,
+      "gas:candidate-vibid:2302000833686": 0,
+      "gas:candidate-vibid:2302000825752": 0,
+      "gas:candidate-vibid:2302000839430": 0,
+      "gas:candidate-vibid:2302000839216": 0,
+      "gas:candidate-vibid:2302000837297": 0,
+      "gas:candidate-vibid:2302000824415": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783725&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783725&type=464",
@@ -3755,14 +3755,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 0,
-      "Востриков Егор Олегович": 0,
-      "Долиев Михаил Вячеславович": 0,
-      "Ковалёв Егор Викторович": 0,
-      "Никитина Наиля Зинуровна": 0,
-      "Огуль Леонид Анатольевич": 0,
-      "Родионов Сергей Леонидович": 0,
-      "Шеин Олег Васильевич": 0
+      "gas:candidate-vibid:2302000826854": 0,
+      "gas:candidate-vibid:2302000821738": 0,
+      "gas:candidate-vibid:2302000833686": 0,
+      "gas:candidate-vibid:2302000825752": 0,
+      "gas:candidate-vibid:2302000839430": 0,
+      "gas:candidate-vibid:2302000839216": 0,
+      "gas:candidate-vibid:2302000837297": 0,
+      "gas:candidate-vibid:2302000824415": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783725&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783725&type=464",
@@ -3813,14 +3813,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 0,
-      "Востриков Егор Олегович": 0,
-      "Долиев Михаил Вячеславович": 0,
-      "Ковалёв Егор Викторович": 0,
-      "Никитина Наиля Зинуровна": 0,
-      "Огуль Леонид Анатольевич": 0,
-      "Родионов Сергей Леонидович": 0,
-      "Шеин Олег Васильевич": 0
+      "gas:candidate-vibid:2302000826854": 0,
+      "gas:candidate-vibid:2302000821738": 0,
+      "gas:candidate-vibid:2302000833686": 0,
+      "gas:candidate-vibid:2302000825752": 0,
+      "gas:candidate-vibid:2302000839430": 0,
+      "gas:candidate-vibid:2302000839216": 0,
+      "gas:candidate-vibid:2302000837297": 0,
+      "gas:candidate-vibid:2302000824415": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783725&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783725&type=464",
@@ -3871,14 +3871,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 83,
-      "Востриков Егор Олегович": 40,
-      "Долиев Михаил Вячеславович": 10,
-      "Ковалёв Егор Викторович": 8,
-      "Никитина Наиля Зинуровна": 6,
-      "Огуль Леонид Анатольевич": 204,
-      "Родионов Сергей Леонидович": 8,
-      "Шеин Олег Васильевич": 311
+      "gas:candidate-vibid:2302000826854": 83,
+      "gas:candidate-vibid:2302000821738": 40,
+      "gas:candidate-vibid:2302000833686": 10,
+      "gas:candidate-vibid:2302000825752": 8,
+      "gas:candidate-vibid:2302000839430": 6,
+      "gas:candidate-vibid:2302000839216": 204,
+      "gas:candidate-vibid:2302000837297": 8,
+      "gas:candidate-vibid:2302000824415": 311
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783726&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783726&type=464",
@@ -3929,14 +3929,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 63,
-      "Востриков Егор Олегович": 62,
-      "Долиев Михаил Вячеславович": 6,
-      "Ковалёв Егор Викторович": 4,
-      "Никитина Наиля Зинуровна": 11,
-      "Огуль Леонид Анатольевич": 179,
-      "Родионов Сергей Леонидович": 12,
-      "Шеин Олег Васильевич": 317
+      "gas:candidate-vibid:2302000826854": 63,
+      "gas:candidate-vibid:2302000821738": 62,
+      "gas:candidate-vibid:2302000833686": 6,
+      "gas:candidate-vibid:2302000825752": 4,
+      "gas:candidate-vibid:2302000839430": 11,
+      "gas:candidate-vibid:2302000839216": 179,
+      "gas:candidate-vibid:2302000837297": 12,
+      "gas:candidate-vibid:2302000824415": 317
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783726&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783726&type=464",
@@ -3987,14 +3987,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 58,
-      "Востриков Егор Олегович": 43,
-      "Долиев Михаил Вячеславович": 7,
-      "Ковалёв Егор Викторович": 10,
-      "Никитина Наиля Зинуровна": 12,
-      "Огуль Леонид Анатольевич": 228,
-      "Родионов Сергей Леонидович": 8,
-      "Шеин Олег Васильевич": 289
+      "gas:candidate-vibid:2302000826854": 58,
+      "gas:candidate-vibid:2302000821738": 43,
+      "gas:candidate-vibid:2302000833686": 7,
+      "gas:candidate-vibid:2302000825752": 10,
+      "gas:candidate-vibid:2302000839430": 12,
+      "gas:candidate-vibid:2302000839216": 228,
+      "gas:candidate-vibid:2302000837297": 8,
+      "gas:candidate-vibid:2302000824415": 289
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783726&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783726&type=464",
@@ -4045,14 +4045,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 54,
-      "Востриков Егор Олегович": 50,
-      "Долиев Михаил Вячеславович": 9,
-      "Ковалёв Егор Викторович": 7,
-      "Никитина Наиля Зинуровна": 18,
-      "Огуль Леонид Анатольевич": 214,
-      "Родионов Сергей Леонидович": 4,
-      "Шеин Олег Васильевич": 337
+      "gas:candidate-vibid:2302000826854": 54,
+      "gas:candidate-vibid:2302000821738": 50,
+      "gas:candidate-vibid:2302000833686": 9,
+      "gas:candidate-vibid:2302000825752": 7,
+      "gas:candidate-vibid:2302000839430": 18,
+      "gas:candidate-vibid:2302000839216": 214,
+      "gas:candidate-vibid:2302000837297": 4,
+      "gas:candidate-vibid:2302000824415": 337
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783726&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783726&type=464",
@@ -4103,14 +4103,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 74,
-      "Востриков Егор Олегович": 46,
-      "Долиев Михаил Вячеславович": 7,
-      "Ковалёв Егор Викторович": 9,
-      "Никитина Наиля Зинуровна": 8,
-      "Огуль Леонид Анатольевич": 165,
-      "Родионов Сергей Леонидович": 10,
-      "Шеин Олег Васильевич": 326
+      "gas:candidate-vibid:2302000826854": 74,
+      "gas:candidate-vibid:2302000821738": 46,
+      "gas:candidate-vibid:2302000833686": 7,
+      "gas:candidate-vibid:2302000825752": 9,
+      "gas:candidate-vibid:2302000839430": 8,
+      "gas:candidate-vibid:2302000839216": 165,
+      "gas:candidate-vibid:2302000837297": 10,
+      "gas:candidate-vibid:2302000824415": 326
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783726&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783726&type=464",
@@ -4161,14 +4161,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 68,
-      "Востриков Егор Олегович": 38,
-      "Долиев Михаил Вячеславович": 6,
-      "Ковалёв Егор Викторович": 4,
-      "Никитина Наиля Зинуровна": 12,
-      "Огуль Леонид Анатольевич": 189,
-      "Родионов Сергей Леонидович": 6,
-      "Шеин Олег Васильевич": 263
+      "gas:candidate-vibid:2302000826854": 68,
+      "gas:candidate-vibid:2302000821738": 38,
+      "gas:candidate-vibid:2302000833686": 6,
+      "gas:candidate-vibid:2302000825752": 4,
+      "gas:candidate-vibid:2302000839430": 12,
+      "gas:candidate-vibid:2302000839216": 189,
+      "gas:candidate-vibid:2302000837297": 6,
+      "gas:candidate-vibid:2302000824415": 263
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783726&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783726&type=464",
@@ -4219,14 +4219,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 78,
-      "Востриков Егор Олегович": 48,
-      "Долиев Михаил Вячеславович": 17,
-      "Ковалёв Егор Викторович": 16,
-      "Никитина Наиля Зинуровна": 15,
-      "Огуль Леонид Анатольевич": 283,
-      "Родионов Сергей Леонидович": 11,
-      "Шеин Олег Васильевич": 386
+      "gas:candidate-vibid:2302000826854": 78,
+      "gas:candidate-vibid:2302000821738": 48,
+      "gas:candidate-vibid:2302000833686": 17,
+      "gas:candidate-vibid:2302000825752": 16,
+      "gas:candidate-vibid:2302000839430": 15,
+      "gas:candidate-vibid:2302000839216": 283,
+      "gas:candidate-vibid:2302000837297": 11,
+      "gas:candidate-vibid:2302000824415": 386
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783726&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783726&type=464",
@@ -4277,14 +4277,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 79,
-      "Востриков Егор Олегович": 37,
-      "Долиев Михаил Вячеславович": 12,
-      "Ковалёв Егор Викторович": 4,
-      "Никитина Наиля Зинуровна": 10,
-      "Огуль Леонид Анатольевич": 198,
-      "Родионов Сергей Леонидович": 11,
-      "Шеин Олег Васильевич": 339
+      "gas:candidate-vibid:2302000826854": 79,
+      "gas:candidate-vibid:2302000821738": 37,
+      "gas:candidate-vibid:2302000833686": 12,
+      "gas:candidate-vibid:2302000825752": 4,
+      "gas:candidate-vibid:2302000839430": 10,
+      "gas:candidate-vibid:2302000839216": 198,
+      "gas:candidate-vibid:2302000837297": 11,
+      "gas:candidate-vibid:2302000824415": 339
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783726&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783726&type=464",
@@ -4335,14 +4335,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 93,
-      "Востриков Егор Олегович": 56,
-      "Долиев Михаил Вячеславович": 13,
-      "Ковалёв Егор Викторович": 12,
-      "Никитина Наиля Зинуровна": 16,
-      "Огуль Леонид Анатольевич": 196,
-      "Родионов Сергей Леонидович": 11,
-      "Шеин Олег Васильевич": 351
+      "gas:candidate-vibid:2302000826854": 93,
+      "gas:candidate-vibid:2302000821738": 56,
+      "gas:candidate-vibid:2302000833686": 13,
+      "gas:candidate-vibid:2302000825752": 12,
+      "gas:candidate-vibid:2302000839430": 16,
+      "gas:candidate-vibid:2302000839216": 196,
+      "gas:candidate-vibid:2302000837297": 11,
+      "gas:candidate-vibid:2302000824415": 351
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783726&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783726&type=464",
@@ -4393,14 +4393,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 29,
-      "Востриков Егор Олегович": 9,
-      "Долиев Михаил Вячеславович": 2,
-      "Ковалёв Егор Викторович": 0,
-      "Никитина Наиля Зинуровна": 0,
-      "Огуль Леонид Анатольевич": 288,
-      "Родионов Сергей Леонидович": 1,
-      "Шеин Олег Васильевич": 137
+      "gas:candidate-vibid:2302000826854": 29,
+      "gas:candidate-vibid:2302000821738": 9,
+      "gas:candidate-vibid:2302000833686": 2,
+      "gas:candidate-vibid:2302000825752": 0,
+      "gas:candidate-vibid:2302000839430": 0,
+      "gas:candidate-vibid:2302000839216": 288,
+      "gas:candidate-vibid:2302000837297": 1,
+      "gas:candidate-vibid:2302000824415": 137
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783726&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783726&type=464",
@@ -4451,14 +4451,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 58,
-      "Востриков Егор Олегович": 37,
-      "Долиев Михаил Вячеславович": 8,
-      "Ковалёв Егор Викторович": 5,
-      "Никитина Наиля Зинуровна": 10,
-      "Огуль Леонид Анатольевич": 153,
-      "Родионов Сергей Леонидович": 6,
-      "Шеин Олег Васильевич": 266
+      "gas:candidate-vibid:2302000826854": 58,
+      "gas:candidate-vibid:2302000821738": 37,
+      "gas:candidate-vibid:2302000833686": 8,
+      "gas:candidate-vibid:2302000825752": 5,
+      "gas:candidate-vibid:2302000839430": 10,
+      "gas:candidate-vibid:2302000839216": 153,
+      "gas:candidate-vibid:2302000837297": 6,
+      "gas:candidate-vibid:2302000824415": 266
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783726&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783726&type=464",
@@ -4509,14 +4509,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 33,
-      "Востриков Егор Олегович": 24,
-      "Долиев Михаил Вячеславович": 2,
-      "Ковалёв Егор Викторович": 10,
-      "Никитина Наиля Зинуровна": 13,
-      "Огуль Леонид Анатольевич": 124,
-      "Родионов Сергей Леонидович": 3,
-      "Шеин Олег Васильевич": 121
+      "gas:candidate-vibid:2302000826854": 33,
+      "gas:candidate-vibid:2302000821738": 24,
+      "gas:candidate-vibid:2302000833686": 2,
+      "gas:candidate-vibid:2302000825752": 10,
+      "gas:candidate-vibid:2302000839430": 13,
+      "gas:candidate-vibid:2302000839216": 124,
+      "gas:candidate-vibid:2302000837297": 3,
+      "gas:candidate-vibid:2302000824415": 121
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783726&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783726&type=464",
@@ -4567,14 +4567,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 45,
-      "Востриков Егор Олегович": 36,
-      "Долиев Михаил Вячеславович": 9,
-      "Ковалёв Егор Викторович": 4,
-      "Никитина Наиля Зинуровна": 10,
-      "Огуль Леонид Анатольевич": 123,
-      "Родионов Сергей Леонидович": 6,
-      "Шеин Олег Васильевич": 169
+      "gas:candidate-vibid:2302000826854": 45,
+      "gas:candidate-vibid:2302000821738": 36,
+      "gas:candidate-vibid:2302000833686": 9,
+      "gas:candidate-vibid:2302000825752": 4,
+      "gas:candidate-vibid:2302000839430": 10,
+      "gas:candidate-vibid:2302000839216": 123,
+      "gas:candidate-vibid:2302000837297": 6,
+      "gas:candidate-vibid:2302000824415": 169
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783726&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783726&type=464",
@@ -4625,14 +4625,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 88,
-      "Востриков Егор Олегович": 47,
-      "Долиев Михаил Вячеславович": 3,
-      "Ковалёв Егор Викторович": 19,
-      "Никитина Наиля Зинуровна": 20,
-      "Огуль Леонид Анатольевич": 415,
-      "Родионов Сергей Леонидович": 10,
-      "Шеин Олег Васильевич": 423
+      "gas:candidate-vibid:2302000826854": 88,
+      "gas:candidate-vibid:2302000821738": 47,
+      "gas:candidate-vibid:2302000833686": 3,
+      "gas:candidate-vibid:2302000825752": 19,
+      "gas:candidate-vibid:2302000839430": 20,
+      "gas:candidate-vibid:2302000839216": 415,
+      "gas:candidate-vibid:2302000837297": 10,
+      "gas:candidate-vibid:2302000824415": 423
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783726&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783726&type=464",
@@ -4683,14 +4683,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 96,
-      "Востриков Егор Олегович": 42,
-      "Долиев Михаил Вячеславович": 15,
-      "Ковалёв Егор Викторович": 14,
-      "Никитина Наиля Зинуровна": 19,
-      "Огуль Леонид Анатольевич": 229,
-      "Родионов Сергей Леонидович": 11,
-      "Шеин Олег Васильевич": 438
+      "gas:candidate-vibid:2302000826854": 96,
+      "gas:candidate-vibid:2302000821738": 42,
+      "gas:candidate-vibid:2302000833686": 15,
+      "gas:candidate-vibid:2302000825752": 14,
+      "gas:candidate-vibid:2302000839430": 19,
+      "gas:candidate-vibid:2302000839216": 229,
+      "gas:candidate-vibid:2302000837297": 11,
+      "gas:candidate-vibid:2302000824415": 438
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783726&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783726&type=464",
@@ -4741,14 +4741,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 67,
-      "Востриков Егор Олегович": 46,
-      "Долиев Михаил Вячеславович": 15,
-      "Ковалёв Егор Викторович": 9,
-      "Никитина Наиля Зинуровна": 10,
-      "Огуль Леонид Анатольевич": 210,
-      "Родионов Сергей Леонидович": 5,
-      "Шеин Олег Васильевич": 391
+      "gas:candidate-vibid:2302000826854": 67,
+      "gas:candidate-vibid:2302000821738": 46,
+      "gas:candidate-vibid:2302000833686": 15,
+      "gas:candidate-vibid:2302000825752": 9,
+      "gas:candidate-vibid:2302000839430": 10,
+      "gas:candidate-vibid:2302000839216": 210,
+      "gas:candidate-vibid:2302000837297": 5,
+      "gas:candidate-vibid:2302000824415": 391
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783726&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783726&type=464",
@@ -4799,14 +4799,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 71,
-      "Востриков Егор Олегович": 59,
-      "Долиев Михаил Вячеславович": 10,
-      "Ковалёв Егор Викторович": 6,
-      "Никитина Наиля Зинуровна": 8,
-      "Огуль Леонид Анатольевич": 234,
-      "Родионов Сергей Леонидович": 6,
-      "Шеин Олег Васильевич": 346
+      "gas:candidate-vibid:2302000826854": 71,
+      "gas:candidate-vibid:2302000821738": 59,
+      "gas:candidate-vibid:2302000833686": 10,
+      "gas:candidate-vibid:2302000825752": 6,
+      "gas:candidate-vibid:2302000839430": 8,
+      "gas:candidate-vibid:2302000839216": 234,
+      "gas:candidate-vibid:2302000837297": 6,
+      "gas:candidate-vibid:2302000824415": 346
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783726&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783726&type=464",
@@ -4857,14 +4857,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 69,
-      "Востриков Егор Олегович": 25,
-      "Долиев Михаил Вячеславович": 16,
-      "Ковалёв Егор Викторович": 8,
-      "Никитина Наиля Зинуровна": 12,
-      "Огуль Леонид Анатольевич": 363,
-      "Родионов Сергей Леонидович": 8,
-      "Шеин Олег Васильевич": 195
+      "gas:candidate-vibid:2302000826854": 69,
+      "gas:candidate-vibid:2302000821738": 25,
+      "gas:candidate-vibid:2302000833686": 16,
+      "gas:candidate-vibid:2302000825752": 8,
+      "gas:candidate-vibid:2302000839430": 12,
+      "gas:candidate-vibid:2302000839216": 363,
+      "gas:candidate-vibid:2302000837297": 8,
+      "gas:candidate-vibid:2302000824415": 195
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783726&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783726&type=464",
@@ -4915,14 +4915,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 117,
-      "Востриков Егор Олегович": 51,
-      "Долиев Михаил Вячеславович": 7,
-      "Ковалёв Егор Викторович": 19,
-      "Никитина Наиля Зинуровна": 15,
-      "Огуль Леонид Анатольевич": 325,
-      "Родионов Сергей Леонидович": 12,
-      "Шеин Олег Васильевич": 421
+      "gas:candidate-vibid:2302000826854": 117,
+      "gas:candidate-vibid:2302000821738": 51,
+      "gas:candidate-vibid:2302000833686": 7,
+      "gas:candidate-vibid:2302000825752": 19,
+      "gas:candidate-vibid:2302000839430": 15,
+      "gas:candidate-vibid:2302000839216": 325,
+      "gas:candidate-vibid:2302000837297": 12,
+      "gas:candidate-vibid:2302000824415": 421
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783726&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783726&type=464",
@@ -4973,14 +4973,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 32,
-      "Востриков Егор Олегович": 33,
-      "Долиев Михаил Вячеславович": 7,
-      "Ковалёв Егор Викторович": 11,
-      "Никитина Наиля Зинуровна": 7,
-      "Огуль Леонид Анатольевич": 138,
-      "Родионов Сергей Леонидович": 1,
-      "Шеин Олег Васильевич": 93
+      "gas:candidate-vibid:2302000826854": 32,
+      "gas:candidate-vibid:2302000821738": 33,
+      "gas:candidate-vibid:2302000833686": 7,
+      "gas:candidate-vibid:2302000825752": 11,
+      "gas:candidate-vibid:2302000839430": 7,
+      "gas:candidate-vibid:2302000839216": 138,
+      "gas:candidate-vibid:2302000837297": 1,
+      "gas:candidate-vibid:2302000824415": 93
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783726&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783726&type=464",
@@ -5031,14 +5031,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 35,
-      "Востриков Егор Олегович": 30,
-      "Долиев Михаил Вячеславович": 5,
-      "Ковалёв Егор Викторович": 9,
-      "Никитина Наиля Зинуровна": 9,
-      "Огуль Леонид Анатольевич": 183,
-      "Родионов Сергей Леонидович": 4,
-      "Шеин Олег Васильевич": 166
+      "gas:candidate-vibid:2302000826854": 35,
+      "gas:candidate-vibid:2302000821738": 30,
+      "gas:candidate-vibid:2302000833686": 5,
+      "gas:candidate-vibid:2302000825752": 9,
+      "gas:candidate-vibid:2302000839430": 9,
+      "gas:candidate-vibid:2302000839216": 183,
+      "gas:candidate-vibid:2302000837297": 4,
+      "gas:candidate-vibid:2302000824415": 166
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783726&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783726&type=464",
@@ -5089,14 +5089,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 70,
-      "Востриков Егор Олегович": 42,
-      "Долиев Михаил Вячеславович": 11,
-      "Ковалёв Егор Викторович": 10,
-      "Никитина Наиля Зинуровна": 4,
-      "Огуль Леонид Анатольевич": 224,
-      "Родионов Сергей Леонидович": 5,
-      "Шеин Олег Васильевич": 294
+      "gas:candidate-vibid:2302000826854": 70,
+      "gas:candidate-vibid:2302000821738": 42,
+      "gas:candidate-vibid:2302000833686": 11,
+      "gas:candidate-vibid:2302000825752": 10,
+      "gas:candidate-vibid:2302000839430": 4,
+      "gas:candidate-vibid:2302000839216": 224,
+      "gas:candidate-vibid:2302000837297": 5,
+      "gas:candidate-vibid:2302000824415": 294
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783726&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783726&type=464",
@@ -5147,14 +5147,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 48,
-      "Востриков Егор Олегович": 45,
-      "Долиев Михаил Вячеславович": 4,
-      "Ковалёв Егор Викторович": 12,
-      "Никитина Наиля Зинуровна": 12,
-      "Огуль Леонид Анатольевич": 243,
-      "Родионов Сергей Леонидович": 14,
-      "Шеин Олег Васильевич": 306
+      "gas:candidate-vibid:2302000826854": 48,
+      "gas:candidate-vibid:2302000821738": 45,
+      "gas:candidate-vibid:2302000833686": 4,
+      "gas:candidate-vibid:2302000825752": 12,
+      "gas:candidate-vibid:2302000839430": 12,
+      "gas:candidate-vibid:2302000839216": 243,
+      "gas:candidate-vibid:2302000837297": 14,
+      "gas:candidate-vibid:2302000824415": 306
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783726&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783726&type=464",
@@ -5205,14 +5205,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 55,
-      "Востриков Егор Олегович": 44,
-      "Долиев Михаил Вячеславович": 3,
-      "Ковалёв Егор Викторович": 9,
-      "Никитина Наиля Зинуровна": 13,
-      "Огуль Леонид Анатольевич": 190,
-      "Родионов Сергей Леонидович": 7,
-      "Шеин Олег Васильевич": 225
+      "gas:candidate-vibid:2302000826854": 55,
+      "gas:candidate-vibid:2302000821738": 44,
+      "gas:candidate-vibid:2302000833686": 3,
+      "gas:candidate-vibid:2302000825752": 9,
+      "gas:candidate-vibid:2302000839430": 13,
+      "gas:candidate-vibid:2302000839216": 190,
+      "gas:candidate-vibid:2302000837297": 7,
+      "gas:candidate-vibid:2302000824415": 225
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783726&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783726&type=464",
@@ -5263,14 +5263,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 79,
-      "Востриков Егор Олегович": 48,
-      "Долиев Михаил Вячеславович": 12,
-      "Ковалёв Егор Викторович": 12,
-      "Никитина Наиля Зинуровна": 18,
-      "Огуль Леонид Анатольевич": 240,
-      "Родионов Сергей Леонидович": 13,
-      "Шеин Олег Васильевич": 343
+      "gas:candidate-vibid:2302000826854": 79,
+      "gas:candidate-vibid:2302000821738": 48,
+      "gas:candidate-vibid:2302000833686": 12,
+      "gas:candidate-vibid:2302000825752": 12,
+      "gas:candidate-vibid:2302000839430": 18,
+      "gas:candidate-vibid:2302000839216": 240,
+      "gas:candidate-vibid:2302000837297": 13,
+      "gas:candidate-vibid:2302000824415": 343
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783726&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783726&type=464",
@@ -5321,14 +5321,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 76,
-      "Востриков Егор Олегович": 45,
-      "Долиев Михаил Вячеславович": 8,
-      "Ковалёв Егор Викторович": 12,
-      "Никитина Наиля Зинуровна": 21,
-      "Огуль Леонид Анатольевич": 247,
-      "Родионов Сергей Леонидович": 6,
-      "Шеин Олег Васильевич": 328
+      "gas:candidate-vibid:2302000826854": 76,
+      "gas:candidate-vibid:2302000821738": 45,
+      "gas:candidate-vibid:2302000833686": 8,
+      "gas:candidate-vibid:2302000825752": 12,
+      "gas:candidate-vibid:2302000839430": 21,
+      "gas:candidate-vibid:2302000839216": 247,
+      "gas:candidate-vibid:2302000837297": 6,
+      "gas:candidate-vibid:2302000824415": 328
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783726&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783726&type=464",
@@ -5379,14 +5379,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 81,
-      "Востриков Егор Олегович": 45,
-      "Долиев Михаил Вячеславович": 7,
-      "Ковалёв Егор Викторович": 8,
-      "Никитина Наиля Зинуровна": 5,
-      "Огуль Леонид Анатольевич": 286,
-      "Родионов Сергей Леонидович": 10,
-      "Шеин Олег Васильевич": 307
+      "gas:candidate-vibid:2302000826854": 81,
+      "gas:candidate-vibid:2302000821738": 45,
+      "gas:candidate-vibid:2302000833686": 7,
+      "gas:candidate-vibid:2302000825752": 8,
+      "gas:candidate-vibid:2302000839430": 5,
+      "gas:candidate-vibid:2302000839216": 286,
+      "gas:candidate-vibid:2302000837297": 10,
+      "gas:candidate-vibid:2302000824415": 307
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783726&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783726&type=464",
@@ -5437,14 +5437,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 64,
-      "Востриков Егор Олегович": 44,
-      "Долиев Михаил Вячеславович": 16,
-      "Ковалёв Егор Викторович": 10,
-      "Никитина Наиля Зинуровна": 13,
-      "Огуль Леонид Анатольевич": 213,
-      "Родионов Сергей Леонидович": 19,
-      "Шеин Олег Васильевич": 294
+      "gas:candidate-vibid:2302000826854": 64,
+      "gas:candidate-vibid:2302000821738": 44,
+      "gas:candidate-vibid:2302000833686": 16,
+      "gas:candidate-vibid:2302000825752": 10,
+      "gas:candidate-vibid:2302000839430": 13,
+      "gas:candidate-vibid:2302000839216": 213,
+      "gas:candidate-vibid:2302000837297": 19,
+      "gas:candidate-vibid:2302000824415": 294
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783726&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783726&type=464",
@@ -5495,14 +5495,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 45,
-      "Востриков Егор Олегович": 31,
-      "Долиев Михаил Вячеславович": 6,
-      "Ковалёв Егор Викторович": 5,
-      "Никитина Наиля Зинуровна": 7,
-      "Огуль Леонид Анатольевич": 143,
-      "Родионов Сергей Леонидович": 4,
-      "Шеин Олег Васильевич": 229
+      "gas:candidate-vibid:2302000826854": 45,
+      "gas:candidate-vibid:2302000821738": 31,
+      "gas:candidate-vibid:2302000833686": 6,
+      "gas:candidate-vibid:2302000825752": 5,
+      "gas:candidate-vibid:2302000839430": 7,
+      "gas:candidate-vibid:2302000839216": 143,
+      "gas:candidate-vibid:2302000837297": 4,
+      "gas:candidate-vibid:2302000824415": 229
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783726&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783726&type=464",
@@ -5553,14 +5553,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 60,
-      "Востриков Егор Олегович": 27,
-      "Долиев Михаил Вячеславович": 16,
-      "Ковалёв Егор Викторович": 8,
-      "Никитина Наиля Зинуровна": 15,
-      "Огуль Леонид Анатольевич": 326,
-      "Родионов Сергей Леонидович": 11,
-      "Шеин Олег Васильевич": 355
+      "gas:candidate-vibid:2302000826854": 60,
+      "gas:candidate-vibid:2302000821738": 27,
+      "gas:candidate-vibid:2302000833686": 16,
+      "gas:candidate-vibid:2302000825752": 8,
+      "gas:candidate-vibid:2302000839430": 15,
+      "gas:candidate-vibid:2302000839216": 326,
+      "gas:candidate-vibid:2302000837297": 11,
+      "gas:candidate-vibid:2302000824415": 355
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783726&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783726&type=464",
@@ -5611,14 +5611,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 53,
-      "Востриков Егор Олегович": 32,
-      "Долиев Михаил Вячеславович": 4,
-      "Ковалёв Егор Викторович": 6,
-      "Никитина Наиля Зинуровна": 13,
-      "Огуль Леонид Анатольевич": 258,
-      "Родионов Сергей Леонидович": 13,
-      "Шеин Олег Васильевич": 341
+      "gas:candidate-vibid:2302000826854": 53,
+      "gas:candidate-vibid:2302000821738": 32,
+      "gas:candidate-vibid:2302000833686": 4,
+      "gas:candidate-vibid:2302000825752": 6,
+      "gas:candidate-vibid:2302000839430": 13,
+      "gas:candidate-vibid:2302000839216": 258,
+      "gas:candidate-vibid:2302000837297": 13,
+      "gas:candidate-vibid:2302000824415": 341
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783726&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783726&type=464",
@@ -5669,14 +5669,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 40,
-      "Востриков Егор Олегович": 25,
-      "Долиев Михаил Вячеславович": 5,
-      "Ковалёв Егор Викторович": 2,
-      "Никитина Наиля Зинуровна": 13,
-      "Огуль Леонид Анатольевич": 131,
-      "Родионов Сергей Леонидович": 3,
-      "Шеин Олег Васильевич": 187
+      "gas:candidate-vibid:2302000826854": 40,
+      "gas:candidate-vibid:2302000821738": 25,
+      "gas:candidate-vibid:2302000833686": 5,
+      "gas:candidate-vibid:2302000825752": 2,
+      "gas:candidate-vibid:2302000839430": 13,
+      "gas:candidate-vibid:2302000839216": 131,
+      "gas:candidate-vibid:2302000837297": 3,
+      "gas:candidate-vibid:2302000824415": 187
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783726&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783726&type=464",
@@ -5727,14 +5727,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 51,
-      "Востриков Егор Олегович": 33,
-      "Долиев Михаил Вячеславович": 5,
-      "Ковалёв Егор Викторович": 5,
-      "Никитина Наиля Зинуровна": 10,
-      "Огуль Леонид Анатольевич": 163,
-      "Родионов Сергей Леонидович": 5,
-      "Шеин Олег Васильевич": 287
+      "gas:candidate-vibid:2302000826854": 51,
+      "gas:candidate-vibid:2302000821738": 33,
+      "gas:candidate-vibid:2302000833686": 5,
+      "gas:candidate-vibid:2302000825752": 5,
+      "gas:candidate-vibid:2302000839430": 10,
+      "gas:candidate-vibid:2302000839216": 163,
+      "gas:candidate-vibid:2302000837297": 5,
+      "gas:candidate-vibid:2302000824415": 287
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783726&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783726&type=464",
@@ -5785,14 +5785,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 90,
-      "Востриков Егор Олегович": 31,
-      "Долиев Михаил Вячеславович": 9,
-      "Ковалёв Егор Викторович": 11,
-      "Никитина Наиля Зинуровна": 16,
-      "Огуль Леонид Анатольевич": 276,
-      "Родионов Сергей Леонидович": 15,
-      "Шеин Олег Васильевич": 327
+      "gas:candidate-vibid:2302000826854": 90,
+      "gas:candidate-vibid:2302000821738": 31,
+      "gas:candidate-vibid:2302000833686": 9,
+      "gas:candidate-vibid:2302000825752": 11,
+      "gas:candidate-vibid:2302000839430": 16,
+      "gas:candidate-vibid:2302000839216": 276,
+      "gas:candidate-vibid:2302000837297": 15,
+      "gas:candidate-vibid:2302000824415": 327
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783726&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783726&type=464",
@@ -5843,14 +5843,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 79,
-      "Востриков Егор Олегович": 46,
-      "Долиев Михаил Вячеславович": 19,
-      "Ковалёв Егор Викторович": 6,
-      "Никитина Наиля Зинуровна": 11,
-      "Огуль Леонид Анатольевич": 201,
-      "Родионов Сергей Леонидович": 15,
-      "Шеин Олег Васильевич": 367
+      "gas:candidate-vibid:2302000826854": 79,
+      "gas:candidate-vibid:2302000821738": 46,
+      "gas:candidate-vibid:2302000833686": 19,
+      "gas:candidate-vibid:2302000825752": 6,
+      "gas:candidate-vibid:2302000839430": 11,
+      "gas:candidate-vibid:2302000839216": 201,
+      "gas:candidate-vibid:2302000837297": 15,
+      "gas:candidate-vibid:2302000824415": 367
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783726&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783726&type=464",
@@ -5901,14 +5901,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 78,
-      "Востриков Егор Олегович": 43,
-      "Долиев Михаил Вячеславович": 15,
-      "Ковалёв Егор Викторович": 8,
-      "Никитина Наиля Зинуровна": 23,
-      "Огуль Леонид Анатольевич": 388,
-      "Родионов Сергей Леонидович": 9,
-      "Шеин Олег Васильевич": 416
+      "gas:candidate-vibid:2302000826854": 78,
+      "gas:candidate-vibid:2302000821738": 43,
+      "gas:candidate-vibid:2302000833686": 15,
+      "gas:candidate-vibid:2302000825752": 8,
+      "gas:candidate-vibid:2302000839430": 23,
+      "gas:candidate-vibid:2302000839216": 388,
+      "gas:candidate-vibid:2302000837297": 9,
+      "gas:candidate-vibid:2302000824415": 416
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783726&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783726&type=464",
@@ -5959,14 +5959,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 53,
-      "Востриков Егор Олегович": 29,
-      "Долиев Михаил Вячеславович": 3,
-      "Ковалёв Егор Викторович": 5,
-      "Никитина Наиля Зинуровна": 6,
-      "Огуль Леонид Анатольевич": 254,
-      "Родионов Сергей Леонидович": 6,
-      "Шеин Олег Васильевич": 123
+      "gas:candidate-vibid:2302000826854": 53,
+      "gas:candidate-vibid:2302000821738": 29,
+      "gas:candidate-vibid:2302000833686": 3,
+      "gas:candidate-vibid:2302000825752": 5,
+      "gas:candidate-vibid:2302000839430": 6,
+      "gas:candidate-vibid:2302000839216": 254,
+      "gas:candidate-vibid:2302000837297": 6,
+      "gas:candidate-vibid:2302000824415": 123
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783726&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783726&type=464",
@@ -6017,14 +6017,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 91,
-      "Востриков Егор Олегович": 75,
-      "Долиев Михаил Вячеславович": 7,
-      "Ковалёв Егор Викторович": 18,
-      "Никитина Наиля Зинуровна": 18,
-      "Огуль Леонид Анатольевич": 304,
-      "Родионов Сергей Леонидович": 13,
-      "Шеин Олег Васильевич": 334
+      "gas:candidate-vibid:2302000826854": 91,
+      "gas:candidate-vibid:2302000821738": 75,
+      "gas:candidate-vibid:2302000833686": 7,
+      "gas:candidate-vibid:2302000825752": 18,
+      "gas:candidate-vibid:2302000839430": 18,
+      "gas:candidate-vibid:2302000839216": 304,
+      "gas:candidate-vibid:2302000837297": 13,
+      "gas:candidate-vibid:2302000824415": 334
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783726&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783726&type=464",
@@ -6075,14 +6075,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 36,
-      "Востриков Егор Олегович": 19,
-      "Долиев Михаил Вячеславович": 5,
-      "Ковалёв Егор Викторович": 7,
-      "Никитина Наиля Зинуровна": 5,
-      "Огуль Леонид Анатольевич": 118,
-      "Родионов Сергей Леонидович": 4,
-      "Шеин Олег Васильевич": 130
+      "gas:candidate-vibid:2302000826854": 36,
+      "gas:candidate-vibid:2302000821738": 19,
+      "gas:candidate-vibid:2302000833686": 5,
+      "gas:candidate-vibid:2302000825752": 7,
+      "gas:candidate-vibid:2302000839430": 5,
+      "gas:candidate-vibid:2302000839216": 118,
+      "gas:candidate-vibid:2302000837297": 4,
+      "gas:candidate-vibid:2302000824415": 130
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783726&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783726&type=464",
@@ -6133,14 +6133,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 65,
-      "Востриков Егор Олегович": 30,
-      "Долиев Михаил Вячеславович": 7,
-      "Ковалёв Егор Викторович": 5,
-      "Никитина Наиля Зинуровна": 14,
-      "Огуль Леонид Анатольевич": 227,
-      "Родионов Сергей Леонидович": 3,
-      "Шеин Олег Васильевич": 185
+      "gas:candidate-vibid:2302000826854": 65,
+      "gas:candidate-vibid:2302000821738": 30,
+      "gas:candidate-vibid:2302000833686": 7,
+      "gas:candidate-vibid:2302000825752": 5,
+      "gas:candidate-vibid:2302000839430": 14,
+      "gas:candidate-vibid:2302000839216": 227,
+      "gas:candidate-vibid:2302000837297": 3,
+      "gas:candidate-vibid:2302000824415": 185
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783726&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783726&type=464",
@@ -6191,14 +6191,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 52,
-      "Востриков Егор Олегович": 34,
-      "Долиев Михаил Вячеславович": 11,
-      "Ковалёв Егор Викторович": 11,
-      "Никитина Наиля Зинуровна": 18,
-      "Огуль Леонид Анатольевич": 135,
-      "Родионов Сергей Леонидович": 4,
-      "Шеин Олег Васильевич": 275
+      "gas:candidate-vibid:2302000826854": 52,
+      "gas:candidate-vibid:2302000821738": 34,
+      "gas:candidate-vibid:2302000833686": 11,
+      "gas:candidate-vibid:2302000825752": 11,
+      "gas:candidate-vibid:2302000839430": 18,
+      "gas:candidate-vibid:2302000839216": 135,
+      "gas:candidate-vibid:2302000837297": 4,
+      "gas:candidate-vibid:2302000824415": 275
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783726&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783726&type=464",
@@ -6249,14 +6249,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 62,
-      "Востриков Егор Олегович": 35,
-      "Долиев Михаил Вячеславович": 17,
-      "Ковалёв Егор Викторович": 8,
-      "Никитина Наиля Зинуровна": 23,
-      "Огуль Леонид Анатольевич": 227,
-      "Родионов Сергей Леонидович": 10,
-      "Шеин Олег Васильевич": 238
+      "gas:candidate-vibid:2302000826854": 62,
+      "gas:candidate-vibid:2302000821738": 35,
+      "gas:candidate-vibid:2302000833686": 17,
+      "gas:candidate-vibid:2302000825752": 8,
+      "gas:candidate-vibid:2302000839430": 23,
+      "gas:candidate-vibid:2302000839216": 227,
+      "gas:candidate-vibid:2302000837297": 10,
+      "gas:candidate-vibid:2302000824415": 238
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783726&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783726&type=464",
@@ -6307,14 +6307,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 61,
-      "Востриков Егор Олегович": 41,
-      "Долиев Михаил Вячеславович": 6,
-      "Ковалёв Егор Викторович": 16,
-      "Никитина Наиля Зинуровна": 13,
-      "Огуль Леонид Анатольевич": 209,
-      "Родионов Сергей Леонидович": 5,
-      "Шеин Олег Васильевич": 265
+      "gas:candidate-vibid:2302000826854": 61,
+      "gas:candidate-vibid:2302000821738": 41,
+      "gas:candidate-vibid:2302000833686": 6,
+      "gas:candidate-vibid:2302000825752": 16,
+      "gas:candidate-vibid:2302000839430": 13,
+      "gas:candidate-vibid:2302000839216": 209,
+      "gas:candidate-vibid:2302000837297": 5,
+      "gas:candidate-vibid:2302000824415": 265
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783726&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783726&type=464",
@@ -6365,14 +6365,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 80,
-      "Востриков Егор Олегович": 41,
-      "Долиев Михаил Вячеславович": 8,
-      "Ковалёв Егор Викторович": 8,
-      "Никитина Наиля Зинуровна": 22,
-      "Огуль Леонид Анатольевич": 225,
-      "Родионов Сергей Леонидович": 12,
-      "Шеин Олег Васильевич": 448
+      "gas:candidate-vibid:2302000826854": 80,
+      "gas:candidate-vibid:2302000821738": 41,
+      "gas:candidate-vibid:2302000833686": 8,
+      "gas:candidate-vibid:2302000825752": 8,
+      "gas:candidate-vibid:2302000839430": 22,
+      "gas:candidate-vibid:2302000839216": 225,
+      "gas:candidate-vibid:2302000837297": 12,
+      "gas:candidate-vibid:2302000824415": 448
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783726&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783726&type=464",
@@ -6423,14 +6423,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 41,
-      "Востриков Егор Олегович": 34,
-      "Долиев Михаил Вячеславович": 3,
-      "Ковалёв Егор Викторович": 10,
-      "Никитина Наиля Зинуровна": 16,
-      "Огуль Леонид Анатольевич": 155,
-      "Родионов Сергей Леонидович": 5,
-      "Шеин Олег Васильевич": 129
+      "gas:candidate-vibid:2302000826854": 41,
+      "gas:candidate-vibid:2302000821738": 34,
+      "gas:candidate-vibid:2302000833686": 3,
+      "gas:candidate-vibid:2302000825752": 10,
+      "gas:candidate-vibid:2302000839430": 16,
+      "gas:candidate-vibid:2302000839216": 155,
+      "gas:candidate-vibid:2302000837297": 5,
+      "gas:candidate-vibid:2302000824415": 129
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783726&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783726&type=464",
@@ -6481,14 +6481,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 46,
-      "Востриков Егор Олегович": 33,
-      "Долиев Михаил Вячеславович": 7,
-      "Ковалёв Егор Викторович": 1,
-      "Никитина Наиля Зинуровна": 2,
-      "Огуль Леонид Анатольевич": 413,
-      "Родионов Сергей Леонидович": 0,
-      "Шеин Олег Васильевич": 313
+      "gas:candidate-vibid:2302000826854": 46,
+      "gas:candidate-vibid:2302000821738": 33,
+      "gas:candidate-vibid:2302000833686": 7,
+      "gas:candidate-vibid:2302000825752": 1,
+      "gas:candidate-vibid:2302000839430": 2,
+      "gas:candidate-vibid:2302000839216": 413,
+      "gas:candidate-vibid:2302000837297": 0,
+      "gas:candidate-vibid:2302000824415": 313
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783726&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783726&type=464",
@@ -6539,14 +6539,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 48,
-      "Востриков Егор Олегович": 37,
-      "Долиев Михаил Вячеславович": 7,
-      "Ковалёв Егор Викторович": 15,
-      "Никитина Наиля Зинуровна": 14,
-      "Огуль Леонид Анатольевич": 168,
-      "Родионов Сергей Леонидович": 4,
-      "Шеин Олег Васильевич": 262
+      "gas:candidate-vibid:2302000826854": 48,
+      "gas:candidate-vibid:2302000821738": 37,
+      "gas:candidate-vibid:2302000833686": 7,
+      "gas:candidate-vibid:2302000825752": 15,
+      "gas:candidate-vibid:2302000839430": 14,
+      "gas:candidate-vibid:2302000839216": 168,
+      "gas:candidate-vibid:2302000837297": 4,
+      "gas:candidate-vibid:2302000824415": 262
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783726&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783726&type=464",
@@ -6597,14 +6597,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 82,
-      "Востриков Егор Олегович": 67,
-      "Долиев Михаил Вячеславович": 13,
-      "Ковалёв Егор Викторович": 18,
-      "Никитина Наиля Зинуровна": 14,
-      "Огуль Леонид Анатольевич": 309,
-      "Родионов Сергей Леонидович": 9,
-      "Шеин Олег Васильевич": 269
+      "gas:candidate-vibid:2302000826854": 82,
+      "gas:candidate-vibid:2302000821738": 67,
+      "gas:candidate-vibid:2302000833686": 13,
+      "gas:candidate-vibid:2302000825752": 18,
+      "gas:candidate-vibid:2302000839430": 14,
+      "gas:candidate-vibid:2302000839216": 309,
+      "gas:candidate-vibid:2302000837297": 9,
+      "gas:candidate-vibid:2302000824415": 269
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783726&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783726&type=464",
@@ -6655,14 +6655,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 57,
-      "Востриков Егор Олегович": 32,
-      "Долиев Михаил Вячеславович": 4,
-      "Ковалёв Егор Викторович": 11,
-      "Никитина Наиля Зинуровна": 5,
-      "Огуль Леонид Анатольевич": 138,
-      "Родионов Сергей Леонидович": 5,
-      "Шеин Олег Васильевич": 217
+      "gas:candidate-vibid:2302000826854": 57,
+      "gas:candidate-vibid:2302000821738": 32,
+      "gas:candidate-vibid:2302000833686": 4,
+      "gas:candidate-vibid:2302000825752": 11,
+      "gas:candidate-vibid:2302000839430": 5,
+      "gas:candidate-vibid:2302000839216": 138,
+      "gas:candidate-vibid:2302000837297": 5,
+      "gas:candidate-vibid:2302000824415": 217
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783726&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783726&type=464",
@@ -6713,14 +6713,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 69,
-      "Востриков Егор Олегович": 51,
-      "Долиев Михаил Вячеславович": 10,
-      "Ковалёв Егор Викторович": 14,
-      "Никитина Наиля Зинуровна": 11,
-      "Огуль Леонид Анатольевич": 238,
-      "Родионов Сергей Леонидович": 5,
-      "Шеин Олег Васильевич": 207
+      "gas:candidate-vibid:2302000826854": 69,
+      "gas:candidate-vibid:2302000821738": 51,
+      "gas:candidate-vibid:2302000833686": 10,
+      "gas:candidate-vibid:2302000825752": 14,
+      "gas:candidate-vibid:2302000839430": 11,
+      "gas:candidate-vibid:2302000839216": 238,
+      "gas:candidate-vibid:2302000837297": 5,
+      "gas:candidate-vibid:2302000824415": 207
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783726&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783726&type=464",
@@ -6771,14 +6771,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 48,
-      "Востриков Егор Олегович": 31,
-      "Долиев Михаил Вячеславович": 7,
-      "Ковалёв Егор Викторович": 6,
-      "Никитина Наиля Зинуровна": 4,
-      "Огуль Леонид Анатольевич": 135,
-      "Родионов Сергей Леонидович": 10,
-      "Шеин Олег Васильевич": 134
+      "gas:candidate-vibid:2302000826854": 48,
+      "gas:candidate-vibid:2302000821738": 31,
+      "gas:candidate-vibid:2302000833686": 7,
+      "gas:candidate-vibid:2302000825752": 6,
+      "gas:candidate-vibid:2302000839430": 4,
+      "gas:candidate-vibid:2302000839216": 135,
+      "gas:candidate-vibid:2302000837297": 10,
+      "gas:candidate-vibid:2302000824415": 134
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783726&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783726&type=464",
@@ -6829,14 +6829,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 54,
-      "Востриков Егор Олегович": 42,
-      "Долиев Михаил Вячеславович": 7,
-      "Ковалёв Егор Викторович": 10,
-      "Никитина Наиля Зинуровна": 9,
-      "Огуль Леонид Анатольевич": 150,
-      "Родионов Сергей Леонидович": 9,
-      "Шеин Олег Васильевич": 173
+      "gas:candidate-vibid:2302000826854": 54,
+      "gas:candidate-vibid:2302000821738": 42,
+      "gas:candidate-vibid:2302000833686": 7,
+      "gas:candidate-vibid:2302000825752": 10,
+      "gas:candidate-vibid:2302000839430": 9,
+      "gas:candidate-vibid:2302000839216": 150,
+      "gas:candidate-vibid:2302000837297": 9,
+      "gas:candidate-vibid:2302000824415": 173
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783726&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783726&type=464",
@@ -6887,14 +6887,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 3,
-      "Востриков Егор Олегович": 4,
-      "Долиев Михаил Вячеславович": 2,
-      "Ковалёв Егор Викторович": 2,
-      "Никитина Наиля Зинуровна": 3,
-      "Огуль Леонид Анатольевич": 125,
-      "Родионов Сергей Леонидович": 4,
-      "Шеин Олег Васильевич": 23
+      "gas:candidate-vibid:2302000826854": 3,
+      "gas:candidate-vibid:2302000821738": 4,
+      "gas:candidate-vibid:2302000833686": 2,
+      "gas:candidate-vibid:2302000825752": 2,
+      "gas:candidate-vibid:2302000839430": 3,
+      "gas:candidate-vibid:2302000839216": 125,
+      "gas:candidate-vibid:2302000837297": 4,
+      "gas:candidate-vibid:2302000824415": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783726&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783726&type=464",
@@ -6945,14 +6945,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 28,
-      "Востриков Егор Олегович": 22,
-      "Долиев Михаил Вячеславович": 3,
-      "Ковалёв Егор Викторович": 6,
-      "Никитина Наиля Зинуровна": 8,
-      "Огуль Леонид Анатольевич": 76,
-      "Родионов Сергей Леонидович": 0,
-      "Шеин Олег Васильевич": 48
+      "gas:candidate-vibid:2302000826854": 28,
+      "gas:candidate-vibid:2302000821738": 22,
+      "gas:candidate-vibid:2302000833686": 3,
+      "gas:candidate-vibid:2302000825752": 6,
+      "gas:candidate-vibid:2302000839430": 8,
+      "gas:candidate-vibid:2302000839216": 76,
+      "gas:candidate-vibid:2302000837297": 0,
+      "gas:candidate-vibid:2302000824415": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783727&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783727&type=464",
@@ -7003,14 +7003,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 28,
-      "Востриков Егор Олегович": 2,
-      "Долиев Михаил Вячеславович": 0,
-      "Ковалёв Егор Викторович": 2,
-      "Никитина Наиля Зинуровна": 0,
-      "Огуль Леонид Анатольевич": 126,
-      "Родионов Сергей Леонидович": 0,
-      "Шеин Олег Васильевич": 13
+      "gas:candidate-vibid:2302000826854": 28,
+      "gas:candidate-vibid:2302000821738": 2,
+      "gas:candidate-vibid:2302000833686": 0,
+      "gas:candidate-vibid:2302000825752": 2,
+      "gas:candidate-vibid:2302000839430": 0,
+      "gas:candidate-vibid:2302000839216": 126,
+      "gas:candidate-vibid:2302000837297": 0,
+      "gas:candidate-vibid:2302000824415": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783727&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783727&type=464",
@@ -7061,14 +7061,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 74,
-      "Востриков Егор Олегович": 39,
-      "Долиев Михаил Вячеславович": 0,
-      "Ковалёв Егор Викторович": 15,
-      "Никитина Наиля Зинуровна": 7,
-      "Огуль Леонид Анатольевич": 188,
-      "Родионов Сергей Леонидович": 15,
-      "Шеин Олег Васильевич": 100
+      "gas:candidate-vibid:2302000826854": 74,
+      "gas:candidate-vibid:2302000821738": 39,
+      "gas:candidate-vibid:2302000833686": 0,
+      "gas:candidate-vibid:2302000825752": 15,
+      "gas:candidate-vibid:2302000839430": 7,
+      "gas:candidate-vibid:2302000839216": 188,
+      "gas:candidate-vibid:2302000837297": 15,
+      "gas:candidate-vibid:2302000824415": 100
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783727&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783727&type=464",
@@ -7119,14 +7119,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 90,
-      "Востриков Егор Олегович": 43,
-      "Долиев Михаил Вячеславович": 4,
-      "Ковалёв Егор Викторович": 7,
-      "Никитина Наиля Зинуровна": 4,
-      "Огуль Леонид Анатольевич": 163,
-      "Родионов Сергей Леонидович": 4,
-      "Шеин Олег Васильевич": 124
+      "gas:candidate-vibid:2302000826854": 90,
+      "gas:candidate-vibid:2302000821738": 43,
+      "gas:candidate-vibid:2302000833686": 4,
+      "gas:candidate-vibid:2302000825752": 7,
+      "gas:candidate-vibid:2302000839430": 4,
+      "gas:candidate-vibid:2302000839216": 163,
+      "gas:candidate-vibid:2302000837297": 4,
+      "gas:candidate-vibid:2302000824415": 124
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783727&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783727&type=464",
@@ -7177,14 +7177,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 71,
-      "Востриков Егор Олегович": 43,
-      "Долиев Михаил Вячеславович": 7,
-      "Ковалёв Егор Викторович": 13,
-      "Никитина Наиля Зинуровна": 12,
-      "Огуль Леонид Анатольевич": 157,
-      "Родионов Сергей Леонидович": 2,
-      "Шеин Олег Васильевич": 82
+      "gas:candidate-vibid:2302000826854": 71,
+      "gas:candidate-vibid:2302000821738": 43,
+      "gas:candidate-vibid:2302000833686": 7,
+      "gas:candidate-vibid:2302000825752": 13,
+      "gas:candidate-vibid:2302000839430": 12,
+      "gas:candidate-vibid:2302000839216": 157,
+      "gas:candidate-vibid:2302000837297": 2,
+      "gas:candidate-vibid:2302000824415": 82
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783727&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783727&type=464",
@@ -7235,14 +7235,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 55,
-      "Востриков Егор Олегович": 25,
-      "Долиев Михаил Вячеславович": 4,
-      "Ковалёв Егор Викторович": 13,
-      "Никитина Наиля Зинуровна": 2,
-      "Огуль Леонид Анатольевич": 127,
-      "Родионов Сергей Леонидович": 2,
-      "Шеин Олег Васильевич": 82
+      "gas:candidate-vibid:2302000826854": 55,
+      "gas:candidate-vibid:2302000821738": 25,
+      "gas:candidate-vibid:2302000833686": 4,
+      "gas:candidate-vibid:2302000825752": 13,
+      "gas:candidate-vibid:2302000839430": 2,
+      "gas:candidate-vibid:2302000839216": 127,
+      "gas:candidate-vibid:2302000837297": 2,
+      "gas:candidate-vibid:2302000824415": 82
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783727&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783727&type=464",
@@ -7293,14 +7293,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 62,
-      "Востриков Егор Олегович": 28,
-      "Долиев Михаил Вячеславович": 3,
-      "Ковалёв Егор Викторович": 19,
-      "Никитина Наиля Зинуровна": 13,
-      "Огуль Леонид Анатольевич": 183,
-      "Родионов Сергей Леонидович": 9,
-      "Шеин Олег Васильевич": 96
+      "gas:candidate-vibid:2302000826854": 62,
+      "gas:candidate-vibid:2302000821738": 28,
+      "gas:candidate-vibid:2302000833686": 3,
+      "gas:candidate-vibid:2302000825752": 19,
+      "gas:candidate-vibid:2302000839430": 13,
+      "gas:candidate-vibid:2302000839216": 183,
+      "gas:candidate-vibid:2302000837297": 9,
+      "gas:candidate-vibid:2302000824415": 96
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783727&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783727&type=464",
@@ -7351,14 +7351,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 47,
-      "Востриков Егор Олегович": 38,
-      "Долиев Михаил Вячеславович": 3,
-      "Ковалёв Егор Викторович": 11,
-      "Никитина Наиля Зинуровна": 3,
-      "Огуль Леонид Анатольевич": 115,
-      "Родионов Сергей Леонидович": 4,
-      "Шеин Олег Васильевич": 90
+      "gas:candidate-vibid:2302000826854": 47,
+      "gas:candidate-vibid:2302000821738": 38,
+      "gas:candidate-vibid:2302000833686": 3,
+      "gas:candidate-vibid:2302000825752": 11,
+      "gas:candidate-vibid:2302000839430": 3,
+      "gas:candidate-vibid:2302000839216": 115,
+      "gas:candidate-vibid:2302000837297": 4,
+      "gas:candidate-vibid:2302000824415": 90
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783727&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783727&type=464",
@@ -7409,14 +7409,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 47,
-      "Востриков Егор Олегович": 38,
-      "Долиев Михаил Вячеславович": 5,
-      "Ковалёв Егор Викторович": 14,
-      "Никитина Наиля Зинуровна": 10,
-      "Огуль Леонид Анатольевич": 157,
-      "Родионов Сергей Леонидович": 2,
-      "Шеин Олег Васильевич": 123
+      "gas:candidate-vibid:2302000826854": 47,
+      "gas:candidate-vibid:2302000821738": 38,
+      "gas:candidate-vibid:2302000833686": 5,
+      "gas:candidate-vibid:2302000825752": 14,
+      "gas:candidate-vibid:2302000839430": 10,
+      "gas:candidate-vibid:2302000839216": 157,
+      "gas:candidate-vibid:2302000837297": 2,
+      "gas:candidate-vibid:2302000824415": 123
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783727&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783727&type=464",
@@ -7467,14 +7467,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 42,
-      "Востриков Егор Олегович": 23,
-      "Долиев Михаил Вячеславович": 2,
-      "Ковалёв Егор Викторович": 20,
-      "Никитина Наиля Зинуровна": 3,
-      "Огуль Леонид Анатольевич": 106,
-      "Родионов Сергей Леонидович": 4,
-      "Шеин Олег Васильевич": 81
+      "gas:candidate-vibid:2302000826854": 42,
+      "gas:candidate-vibid:2302000821738": 23,
+      "gas:candidate-vibid:2302000833686": 2,
+      "gas:candidate-vibid:2302000825752": 20,
+      "gas:candidate-vibid:2302000839430": 3,
+      "gas:candidate-vibid:2302000839216": 106,
+      "gas:candidate-vibid:2302000837297": 4,
+      "gas:candidate-vibid:2302000824415": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783727&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783727&type=464",
@@ -7525,14 +7525,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 36,
-      "Востриков Егор Олегович": 22,
-      "Долиев Михаил Вячеславович": 4,
-      "Ковалёв Егор Викторович": 9,
-      "Никитина Наиля Зинуровна": 3,
-      "Огуль Леонид Анатольевич": 139,
-      "Родионов Сергей Леонидович": 1,
-      "Шеин Олег Васильевич": 43
+      "gas:candidate-vibid:2302000826854": 36,
+      "gas:candidate-vibid:2302000821738": 22,
+      "gas:candidate-vibid:2302000833686": 4,
+      "gas:candidate-vibid:2302000825752": 9,
+      "gas:candidate-vibid:2302000839430": 3,
+      "gas:candidate-vibid:2302000839216": 139,
+      "gas:candidate-vibid:2302000837297": 1,
+      "gas:candidate-vibid:2302000824415": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783727&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783727&type=464",
@@ -7583,14 +7583,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 55,
-      "Востриков Егор Олегович": 26,
-      "Долиев Михаил Вячеславович": 2,
-      "Ковалёв Егор Викторович": 11,
-      "Никитина Наиля Зинуровна": 7,
-      "Огуль Леонид Анатольевич": 134,
-      "Родионов Сергей Леонидович": 2,
-      "Шеин Олег Васильевич": 81
+      "gas:candidate-vibid:2302000826854": 55,
+      "gas:candidate-vibid:2302000821738": 26,
+      "gas:candidate-vibid:2302000833686": 2,
+      "gas:candidate-vibid:2302000825752": 11,
+      "gas:candidate-vibid:2302000839430": 7,
+      "gas:candidate-vibid:2302000839216": 134,
+      "gas:candidate-vibid:2302000837297": 2,
+      "gas:candidate-vibid:2302000824415": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783727&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783727&type=464",
@@ -7641,14 +7641,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 71,
-      "Востриков Егор Олегович": 50,
-      "Долиев Михаил Вячеславович": 3,
-      "Ковалёв Егор Викторович": 12,
-      "Никитина Наиля Зинуровна": 10,
-      "Огуль Леонид Анатольевич": 244,
-      "Родионов Сергей Леонидович": 1,
-      "Шеин Олег Васильевич": 99
+      "gas:candidate-vibid:2302000826854": 71,
+      "gas:candidate-vibid:2302000821738": 50,
+      "gas:candidate-vibid:2302000833686": 3,
+      "gas:candidate-vibid:2302000825752": 12,
+      "gas:candidate-vibid:2302000839430": 10,
+      "gas:candidate-vibid:2302000839216": 244,
+      "gas:candidate-vibid:2302000837297": 1,
+      "gas:candidate-vibid:2302000824415": 99
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783727&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783727&type=464",
@@ -7699,14 +7699,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 53,
-      "Востриков Егор Олегович": 12,
-      "Долиев Михаил Вячеславович": 1,
-      "Ковалёв Егор Викторович": 5,
-      "Никитина Наиля Зинуровна": 2,
-      "Огуль Леонид Анатольевич": 191,
-      "Родионов Сергей Леонидович": 2,
-      "Шеин Олег Васильевич": 51
+      "gas:candidate-vibid:2302000826854": 53,
+      "gas:candidate-vibid:2302000821738": 12,
+      "gas:candidate-vibid:2302000833686": 1,
+      "gas:candidate-vibid:2302000825752": 5,
+      "gas:candidate-vibid:2302000839430": 2,
+      "gas:candidate-vibid:2302000839216": 191,
+      "gas:candidate-vibid:2302000837297": 2,
+      "gas:candidate-vibid:2302000824415": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783727&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783727&type=464",
@@ -7757,14 +7757,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 65,
-      "Востриков Егор Олегович": 38,
-      "Долиев Михаил Вячеславович": 4,
-      "Ковалёв Егор Викторович": 17,
-      "Никитина Наиля Зинуровна": 3,
-      "Огуль Леонид Анатольевич": 199,
-      "Родионов Сергей Леонидович": 2,
-      "Шеин Олег Васильевич": 100
+      "gas:candidate-vibid:2302000826854": 65,
+      "gas:candidate-vibid:2302000821738": 38,
+      "gas:candidate-vibid:2302000833686": 4,
+      "gas:candidate-vibid:2302000825752": 17,
+      "gas:candidate-vibid:2302000839430": 3,
+      "gas:candidate-vibid:2302000839216": 199,
+      "gas:candidate-vibid:2302000837297": 2,
+      "gas:candidate-vibid:2302000824415": 100
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783727&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783727&type=464",
@@ -7815,14 +7815,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 50,
-      "Востриков Егор Олегович": 44,
-      "Долиев Михаил Вячеславович": 1,
-      "Ковалёв Егор Викторович": 11,
-      "Никитина Наиля Зинуровна": 5,
-      "Огуль Леонид Анатольевич": 171,
-      "Родионов Сергей Леонидович": 3,
-      "Шеин Олег Васильевич": 83
+      "gas:candidate-vibid:2302000826854": 50,
+      "gas:candidate-vibid:2302000821738": 44,
+      "gas:candidate-vibid:2302000833686": 1,
+      "gas:candidate-vibid:2302000825752": 11,
+      "gas:candidate-vibid:2302000839430": 5,
+      "gas:candidate-vibid:2302000839216": 171,
+      "gas:candidate-vibid:2302000837297": 3,
+      "gas:candidate-vibid:2302000824415": 83
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783727&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783727&type=464",
@@ -7873,14 +7873,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 83,
-      "Востриков Егор Олегович": 39,
-      "Долиев Михаил Вячеславович": 5,
-      "Ковалёв Егор Викторович": 26,
-      "Никитина Наиля Зинуровна": 8,
-      "Огуль Леонид Анатольевич": 282,
-      "Родионов Сергей Леонидович": 6,
-      "Шеин Олег Васильевич": 105
+      "gas:candidate-vibid:2302000826854": 83,
+      "gas:candidate-vibid:2302000821738": 39,
+      "gas:candidate-vibid:2302000833686": 5,
+      "gas:candidate-vibid:2302000825752": 26,
+      "gas:candidate-vibid:2302000839430": 8,
+      "gas:candidate-vibid:2302000839216": 282,
+      "gas:candidate-vibid:2302000837297": 6,
+      "gas:candidate-vibid:2302000824415": 105
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783727&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783727&type=464",
@@ -7931,14 +7931,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 0,
-      "Востриков Егор Олегович": 0,
-      "Долиев Михаил Вячеславович": 0,
-      "Ковалёв Егор Викторович": 0,
-      "Никитина Наиля Зинуровна": 0,
-      "Огуль Леонид Анатольевич": 130,
-      "Родионов Сергей Леонидович": 0,
-      "Шеин Олег Васильевич": 4
+      "gas:candidate-vibid:2302000826854": 0,
+      "gas:candidate-vibid:2302000821738": 0,
+      "gas:candidate-vibid:2302000833686": 0,
+      "gas:candidate-vibid:2302000825752": 0,
+      "gas:candidate-vibid:2302000839430": 0,
+      "gas:candidate-vibid:2302000839216": 130,
+      "gas:candidate-vibid:2302000837297": 0,
+      "gas:candidate-vibid:2302000824415": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783727&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783727&type=464",
@@ -7989,14 +7989,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 45,
-      "Востриков Егор Олегович": 130,
-      "Долиев Михаил Вячеславович": 19,
-      "Ковалёв Егор Викторович": 41,
-      "Никитина Наиля Зинуровна": 25,
-      "Огуль Леонид Анатольевич": 182,
-      "Родионов Сергей Леонидович": 9,
-      "Шеин Олег Васильевич": 60
+      "gas:candidate-vibid:2302000826854": 45,
+      "gas:candidate-vibid:2302000821738": 130,
+      "gas:candidate-vibid:2302000833686": 19,
+      "gas:candidate-vibid:2302000825752": 41,
+      "gas:candidate-vibid:2302000839430": 25,
+      "gas:candidate-vibid:2302000839216": 182,
+      "gas:candidate-vibid:2302000837297": 9,
+      "gas:candidate-vibid:2302000824415": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783727&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783727&type=464",
@@ -8047,14 +8047,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 80,
-      "Востриков Егор Олегович": 39,
-      "Долиев Михаил Вячеславович": 2,
-      "Ковалёв Егор Викторович": 18,
-      "Никитина Наиля Зинуровна": 13,
-      "Огуль Леонид Анатольевич": 204,
-      "Родионов Сергей Леонидович": 6,
-      "Шеин Олег Васильевич": 151
+      "gas:candidate-vibid:2302000826854": 80,
+      "gas:candidate-vibid:2302000821738": 39,
+      "gas:candidate-vibid:2302000833686": 2,
+      "gas:candidate-vibid:2302000825752": 18,
+      "gas:candidate-vibid:2302000839430": 13,
+      "gas:candidate-vibid:2302000839216": 204,
+      "gas:candidate-vibid:2302000837297": 6,
+      "gas:candidate-vibid:2302000824415": 151
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783727&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783727&type=464",
@@ -8105,14 +8105,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 59,
-      "Востриков Егор Олегович": 36,
-      "Долиев Михаил Вячеславович": 2,
-      "Ковалёв Егор Викторович": 17,
-      "Никитина Наиля Зинуровна": 6,
-      "Огуль Леонид Анатольевич": 251,
-      "Родионов Сергей Леонидович": 1,
-      "Шеин Олег Васильевич": 73
+      "gas:candidate-vibid:2302000826854": 59,
+      "gas:candidate-vibid:2302000821738": 36,
+      "gas:candidate-vibid:2302000833686": 2,
+      "gas:candidate-vibid:2302000825752": 17,
+      "gas:candidate-vibid:2302000839430": 6,
+      "gas:candidate-vibid:2302000839216": 251,
+      "gas:candidate-vibid:2302000837297": 1,
+      "gas:candidate-vibid:2302000824415": 73
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783727&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783727&type=464",
@@ -8163,14 +8163,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 10,
-      "Востриков Егор Олегович": 15,
-      "Долиев Михаил Вячеславович": 0,
-      "Ковалёв Егор Викторович": 0,
-      "Никитина Наиля Зинуровна": 0,
-      "Огуль Леонид Анатольевич": 143,
-      "Родионов Сергей Леонидович": 0,
-      "Шеин Олег Васильевич": 10
+      "gas:candidate-vibid:2302000826854": 10,
+      "gas:candidate-vibid:2302000821738": 15,
+      "gas:candidate-vibid:2302000833686": 0,
+      "gas:candidate-vibid:2302000825752": 0,
+      "gas:candidate-vibid:2302000839430": 0,
+      "gas:candidate-vibid:2302000839216": 143,
+      "gas:candidate-vibid:2302000837297": 0,
+      "gas:candidate-vibid:2302000824415": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783727&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783727&type=464",
@@ -8221,14 +8221,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 16,
-      "Востриков Егор Олегович": 6,
-      "Долиев Михаил Вячеславович": 0,
-      "Ковалёв Егор Викторович": 3,
-      "Никитина Наиля Зинуровна": 0,
-      "Огуль Леонид Анатольевич": 57,
-      "Родионов Сергей Леонидович": 1,
-      "Шеин Олег Васильевич": 20
+      "gas:candidate-vibid:2302000826854": 16,
+      "gas:candidate-vibid:2302000821738": 6,
+      "gas:candidate-vibid:2302000833686": 0,
+      "gas:candidate-vibid:2302000825752": 3,
+      "gas:candidate-vibid:2302000839430": 0,
+      "gas:candidate-vibid:2302000839216": 57,
+      "gas:candidate-vibid:2302000837297": 1,
+      "gas:candidate-vibid:2302000824415": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783727&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783727&type=464",
@@ -8279,14 +8279,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 52,
-      "Востриков Егор Олегович": 21,
-      "Долиев Михаил Вячеславович": 9,
-      "Ковалёв Егор Викторович": 17,
-      "Никитина Наиля Зинуровна": 16,
-      "Огуль Леонид Анатольевич": 251,
-      "Родионов Сергей Леонидович": 4,
-      "Шеин Олег Васильевич": 183
+      "gas:candidate-vibid:2302000826854": 52,
+      "gas:candidate-vibid:2302000821738": 21,
+      "gas:candidate-vibid:2302000833686": 9,
+      "gas:candidate-vibid:2302000825752": 17,
+      "gas:candidate-vibid:2302000839430": 16,
+      "gas:candidate-vibid:2302000839216": 251,
+      "gas:candidate-vibid:2302000837297": 4,
+      "gas:candidate-vibid:2302000824415": 183
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783727&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783727&type=464",
@@ -8337,14 +8337,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 21,
-      "Востриков Егор Олегович": 5,
-      "Долиев Михаил Вячеславович": 2,
-      "Ковалёв Егор Викторович": 5,
-      "Никитина Наиля Зинуровна": 9,
-      "Огуль Леонид Анатольевич": 83,
-      "Родионов Сергей Леонидович": 0,
-      "Шеин Олег Васильевич": 85
+      "gas:candidate-vibid:2302000826854": 21,
+      "gas:candidate-vibid:2302000821738": 5,
+      "gas:candidate-vibid:2302000833686": 2,
+      "gas:candidate-vibid:2302000825752": 5,
+      "gas:candidate-vibid:2302000839430": 9,
+      "gas:candidate-vibid:2302000839216": 83,
+      "gas:candidate-vibid:2302000837297": 0,
+      "gas:candidate-vibid:2302000824415": 85
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783727&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783727&type=464",
@@ -8395,14 +8395,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 49,
-      "Востриков Егор Олегович": 17,
-      "Долиев Михаил Вячеславович": 4,
-      "Ковалёв Егор Викторович": 5,
-      "Никитина Наиля Зинуровна": 8,
-      "Огуль Леонид Анатольевич": 211,
-      "Родионов Сергей Леонидович": 7,
-      "Шеин Олег Васильевич": 32
+      "gas:candidate-vibid:2302000826854": 49,
+      "gas:candidate-vibid:2302000821738": 17,
+      "gas:candidate-vibid:2302000833686": 4,
+      "gas:candidate-vibid:2302000825752": 5,
+      "gas:candidate-vibid:2302000839430": 8,
+      "gas:candidate-vibid:2302000839216": 211,
+      "gas:candidate-vibid:2302000837297": 7,
+      "gas:candidate-vibid:2302000824415": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783727&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783727&type=464",
@@ -8453,14 +8453,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 12,
-      "Востриков Егор Олегович": 19,
-      "Долиев Михаил Вячеславович": 2,
-      "Ковалёв Егор Викторович": 7,
-      "Никитина Наиля Зинуровна": 3,
-      "Огуль Леонид Анатольевич": 214,
-      "Родионов Сергей Леонидович": 2,
-      "Шеин Олег Васильевич": 27
+      "gas:candidate-vibid:2302000826854": 12,
+      "gas:candidate-vibid:2302000821738": 19,
+      "gas:candidate-vibid:2302000833686": 2,
+      "gas:candidate-vibid:2302000825752": 7,
+      "gas:candidate-vibid:2302000839430": 3,
+      "gas:candidate-vibid:2302000839216": 214,
+      "gas:candidate-vibid:2302000837297": 2,
+      "gas:candidate-vibid:2302000824415": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783727&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783727&type=464",
@@ -8511,14 +8511,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 80,
-      "Востриков Егор Олегович": 45,
-      "Долиев Михаил Вячеславович": 7,
-      "Ковалёв Егор Викторович": 6,
-      "Никитина Наиля Зинуровна": 10,
-      "Огуль Леонид Анатольевич": 297,
-      "Родионов Сергей Леонидович": 9,
-      "Шеин Олег Васильевич": 95
+      "gas:candidate-vibid:2302000826854": 80,
+      "gas:candidate-vibid:2302000821738": 45,
+      "gas:candidate-vibid:2302000833686": 7,
+      "gas:candidate-vibid:2302000825752": 6,
+      "gas:candidate-vibid:2302000839430": 10,
+      "gas:candidate-vibid:2302000839216": 297,
+      "gas:candidate-vibid:2302000837297": 9,
+      "gas:candidate-vibid:2302000824415": 95
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783728&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783728&type=464",
@@ -8569,14 +8569,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 92,
-      "Востриков Егор Олегович": 70,
-      "Долиев Михаил Вячеславович": 11,
-      "Ковалёв Егор Викторович": 20,
-      "Никитина Наиля Зинуровна": 11,
-      "Огуль Леонид Анатольевич": 406,
-      "Родионов Сергей Леонидович": 8,
-      "Шеин Олег Васильевич": 104
+      "gas:candidate-vibid:2302000826854": 92,
+      "gas:candidate-vibid:2302000821738": 70,
+      "gas:candidate-vibid:2302000833686": 11,
+      "gas:candidate-vibid:2302000825752": 20,
+      "gas:candidate-vibid:2302000839430": 11,
+      "gas:candidate-vibid:2302000839216": 406,
+      "gas:candidate-vibid:2302000837297": 8,
+      "gas:candidate-vibid:2302000824415": 104
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783728&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783728&type=464",
@@ -8627,14 +8627,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 113,
-      "Востриков Егор Олегович": 62,
-      "Долиев Михаил Вячеславович": 8,
-      "Ковалёв Егор Викторович": 12,
-      "Никитина Наиля Зинуровна": 9,
-      "Огуль Леонид Анатольевич": 474,
-      "Родионов Сергей Леонидович": 6,
-      "Шеин Олег Васильевич": 193
+      "gas:candidate-vibid:2302000826854": 113,
+      "gas:candidate-vibid:2302000821738": 62,
+      "gas:candidate-vibid:2302000833686": 8,
+      "gas:candidate-vibid:2302000825752": 12,
+      "gas:candidate-vibid:2302000839430": 9,
+      "gas:candidate-vibid:2302000839216": 474,
+      "gas:candidate-vibid:2302000837297": 6,
+      "gas:candidate-vibid:2302000824415": 193
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783728&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783728&type=464",
@@ -8685,14 +8685,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 89,
-      "Востриков Егор Олегович": 52,
-      "Долиев Михаил Вячеславович": 5,
-      "Ковалёв Егор Викторович": 10,
-      "Никитина Наиля Зинуровна": 8,
-      "Огуль Леонид Анатольевич": 342,
-      "Родионов Сергей Леонидович": 7,
-      "Шеин Олег Васильевич": 108
+      "gas:candidate-vibid:2302000826854": 89,
+      "gas:candidate-vibid:2302000821738": 52,
+      "gas:candidate-vibid:2302000833686": 5,
+      "gas:candidate-vibid:2302000825752": 10,
+      "gas:candidate-vibid:2302000839430": 8,
+      "gas:candidate-vibid:2302000839216": 342,
+      "gas:candidate-vibid:2302000837297": 7,
+      "gas:candidate-vibid:2302000824415": 108
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783728&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783728&type=464",
@@ -8743,14 +8743,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 17,
-      "Востриков Егор Олегович": 11,
-      "Долиев Михаил Вячеславович": 1,
-      "Ковалёв Егор Викторович": 6,
-      "Никитина Наиля Зинуровна": 1,
-      "Огуль Леонид Анатольевич": 81,
-      "Родионов Сергей Леонидович": 3,
-      "Шеин Олег Васильевич": 16
+      "gas:candidate-vibid:2302000826854": 17,
+      "gas:candidate-vibid:2302000821738": 11,
+      "gas:candidate-vibid:2302000833686": 1,
+      "gas:candidate-vibid:2302000825752": 6,
+      "gas:candidate-vibid:2302000839430": 1,
+      "gas:candidate-vibid:2302000839216": 81,
+      "gas:candidate-vibid:2302000837297": 3,
+      "gas:candidate-vibid:2302000824415": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783728&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783728&type=464",
@@ -8801,14 +8801,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 101,
-      "Востриков Егор Олегович": 47,
-      "Долиев Михаил Вячеславович": 2,
-      "Ковалёв Егор Викторович": 20,
-      "Никитина Наиля Зинуровна": 18,
-      "Огуль Леонид Анатольевич": 310,
-      "Родионов Сергей Леонидович": 4,
-      "Шеин Олег Васильевич": 105
+      "gas:candidate-vibid:2302000826854": 101,
+      "gas:candidate-vibid:2302000821738": 47,
+      "gas:candidate-vibid:2302000833686": 2,
+      "gas:candidate-vibid:2302000825752": 20,
+      "gas:candidate-vibid:2302000839430": 18,
+      "gas:candidate-vibid:2302000839216": 310,
+      "gas:candidate-vibid:2302000837297": 4,
+      "gas:candidate-vibid:2302000824415": 105
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783728&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783728&type=464",
@@ -8859,14 +8859,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 56,
-      "Востриков Егор Олегович": 38,
-      "Долиев Михаил Вячеславович": 5,
-      "Ковалёв Егор Викторович": 11,
-      "Никитина Наиля Зинуровна": 0,
-      "Огуль Леонид Анатольевич": 238,
-      "Родионов Сергей Леонидович": 9,
-      "Шеин Олег Васильевич": 90
+      "gas:candidate-vibid:2302000826854": 56,
+      "gas:candidate-vibid:2302000821738": 38,
+      "gas:candidate-vibid:2302000833686": 5,
+      "gas:candidate-vibid:2302000825752": 11,
+      "gas:candidate-vibid:2302000839430": 0,
+      "gas:candidate-vibid:2302000839216": 238,
+      "gas:candidate-vibid:2302000837297": 9,
+      "gas:candidate-vibid:2302000824415": 90
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783728&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783728&type=464",
@@ -8917,14 +8917,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 49,
-      "Востриков Егор Олегович": 42,
-      "Долиев Михаил Вячеславович": 5,
-      "Ковалёв Егор Викторович": 14,
-      "Никитина Наиля Зинуровна": 4,
-      "Огуль Леонид Анатольевич": 304,
-      "Родионов Сергей Леонидович": 5,
-      "Шеин Олег Васильевич": 63
+      "gas:candidate-vibid:2302000826854": 49,
+      "gas:candidate-vibid:2302000821738": 42,
+      "gas:candidate-vibid:2302000833686": 5,
+      "gas:candidate-vibid:2302000825752": 14,
+      "gas:candidate-vibid:2302000839430": 4,
+      "gas:candidate-vibid:2302000839216": 304,
+      "gas:candidate-vibid:2302000837297": 5,
+      "gas:candidate-vibid:2302000824415": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783728&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783728&type=464",
@@ -8975,14 +8975,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 68,
-      "Востриков Егор Олегович": 68,
-      "Долиев Михаил Вячеславович": 4,
-      "Ковалёв Егор Викторович": 16,
-      "Никитина Наиля Зинуровна": 7,
-      "Огуль Леонид Анатольевич": 351,
-      "Родионов Сергей Леонидович": 6,
-      "Шеин Олег Васильевич": 108
+      "gas:candidate-vibid:2302000826854": 68,
+      "gas:candidate-vibid:2302000821738": 68,
+      "gas:candidate-vibid:2302000833686": 4,
+      "gas:candidate-vibid:2302000825752": 16,
+      "gas:candidate-vibid:2302000839430": 7,
+      "gas:candidate-vibid:2302000839216": 351,
+      "gas:candidate-vibid:2302000837297": 6,
+      "gas:candidate-vibid:2302000824415": 108
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783728&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783728&type=464",
@@ -9033,14 +9033,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 34,
-      "Востриков Егор Олегович": 24,
-      "Долиев Михаил Вячеславович": 1,
-      "Ковалёв Егор Викторович": 6,
-      "Никитина Наиля Зинуровна": 1,
-      "Огуль Леонид Анатольевич": 203,
-      "Родионов Сергей Леонидович": 4,
-      "Шеин Олег Васильевич": 54
+      "gas:candidate-vibid:2302000826854": 34,
+      "gas:candidate-vibid:2302000821738": 24,
+      "gas:candidate-vibid:2302000833686": 1,
+      "gas:candidate-vibid:2302000825752": 6,
+      "gas:candidate-vibid:2302000839430": 1,
+      "gas:candidate-vibid:2302000839216": 203,
+      "gas:candidate-vibid:2302000837297": 4,
+      "gas:candidate-vibid:2302000824415": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783728&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783728&type=464",
@@ -9091,14 +9091,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 8,
-      "Востриков Егор Олегович": 2,
-      "Долиев Михаил Вячеславович": 1,
-      "Ковалёв Егор Викторович": 1,
-      "Никитина Наиля Зинуровна": 1,
-      "Огуль Леонид Анатольевич": 39,
-      "Родионов Сергей Леонидович": 0,
-      "Шеин Олег Васильевич": 7
+      "gas:candidate-vibid:2302000826854": 8,
+      "gas:candidate-vibid:2302000821738": 2,
+      "gas:candidate-vibid:2302000833686": 1,
+      "gas:candidate-vibid:2302000825752": 1,
+      "gas:candidate-vibid:2302000839430": 1,
+      "gas:candidate-vibid:2302000839216": 39,
+      "gas:candidate-vibid:2302000837297": 0,
+      "gas:candidate-vibid:2302000824415": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783728&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783728&type=464",
@@ -9149,14 +9149,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 6,
-      "Востриков Егор Олегович": 10,
-      "Долиев Михаил Вячеславович": 0,
-      "Ковалёв Егор Викторович": 5,
-      "Никитина Наиля Зинуровна": 3,
-      "Огуль Леонид Анатольевич": 46,
-      "Родионов Сергей Леонидович": 1,
-      "Шеин Олег Васильевич": 12
+      "gas:candidate-vibid:2302000826854": 6,
+      "gas:candidate-vibid:2302000821738": 10,
+      "gas:candidate-vibid:2302000833686": 0,
+      "gas:candidate-vibid:2302000825752": 5,
+      "gas:candidate-vibid:2302000839430": 3,
+      "gas:candidate-vibid:2302000839216": 46,
+      "gas:candidate-vibid:2302000837297": 1,
+      "gas:candidate-vibid:2302000824415": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783728&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783728&type=464",
@@ -9207,14 +9207,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 4,
-      "Востриков Егор Олегович": 7,
-      "Долиев Михаил Вячеславович": 2,
-      "Ковалёв Егор Викторович": 2,
-      "Никитина Наиля Зинуровна": 1,
-      "Огуль Леонид Анатольевич": 29,
-      "Родионов Сергей Леонидович": 1,
-      "Шеин Олег Васильевич": 16
+      "gas:candidate-vibid:2302000826854": 4,
+      "gas:candidate-vibid:2302000821738": 7,
+      "gas:candidate-vibid:2302000833686": 2,
+      "gas:candidate-vibid:2302000825752": 2,
+      "gas:candidate-vibid:2302000839430": 1,
+      "gas:candidate-vibid:2302000839216": 29,
+      "gas:candidate-vibid:2302000837297": 1,
+      "gas:candidate-vibid:2302000824415": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783728&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783728&type=464",
@@ -9265,14 +9265,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 81,
-      "Востриков Егор Олегович": 26,
-      "Долиев Михаил Вячеславович": 3,
-      "Ковалёв Егор Викторович": 17,
-      "Никитина Наиля Зинуровна": 8,
-      "Огуль Леонид Анатольевич": 229,
-      "Родионов Сергей Леонидович": 4,
-      "Шеин Олег Васильевич": 73
+      "gas:candidate-vibid:2302000826854": 81,
+      "gas:candidate-vibid:2302000821738": 26,
+      "gas:candidate-vibid:2302000833686": 3,
+      "gas:candidate-vibid:2302000825752": 17,
+      "gas:candidate-vibid:2302000839430": 8,
+      "gas:candidate-vibid:2302000839216": 229,
+      "gas:candidate-vibid:2302000837297": 4,
+      "gas:candidate-vibid:2302000824415": 73
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783728&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783728&type=464",
@@ -9323,14 +9323,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 46,
-      "Востриков Егор Олегович": 13,
-      "Долиев Михаил Вячеславович": 0,
-      "Ковалёв Егор Викторович": 3,
-      "Никитина Наиля Зинуровна": 5,
-      "Огуль Леонид Анатольевич": 91,
-      "Родионов Сергей Леонидович": 3,
-      "Шеин Олег Васильевич": 26
+      "gas:candidate-vibid:2302000826854": 46,
+      "gas:candidate-vibid:2302000821738": 13,
+      "gas:candidate-vibid:2302000833686": 0,
+      "gas:candidate-vibid:2302000825752": 3,
+      "gas:candidate-vibid:2302000839430": 5,
+      "gas:candidate-vibid:2302000839216": 91,
+      "gas:candidate-vibid:2302000837297": 3,
+      "gas:candidate-vibid:2302000824415": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783728&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783728&type=464",
@@ -9381,14 +9381,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 13,
-      "Востриков Егор Олегович": 7,
-      "Долиев Михаил Вячеславович": 0,
-      "Ковалёв Егор Викторович": 5,
-      "Никитина Наиля Зинуровна": 1,
-      "Огуль Леонид Анатольевич": 34,
-      "Родионов Сергей Леонидович": 0,
-      "Шеин Олег Васильевич": 22
+      "gas:candidate-vibid:2302000826854": 13,
+      "gas:candidate-vibid:2302000821738": 7,
+      "gas:candidate-vibid:2302000833686": 0,
+      "gas:candidate-vibid:2302000825752": 5,
+      "gas:candidate-vibid:2302000839430": 1,
+      "gas:candidate-vibid:2302000839216": 34,
+      "gas:candidate-vibid:2302000837297": 0,
+      "gas:candidate-vibid:2302000824415": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783728&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783728&type=464",
@@ -9439,14 +9439,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 40,
-      "Востриков Егор Олегович": 28,
-      "Долиев Михаил Вячеславович": 4,
-      "Ковалёв Егор Викторович": 5,
-      "Никитина Наиля Зинуровна": 3,
-      "Огуль Леонид Анатольевич": 182,
-      "Родионов Сергей Леонидович": 1,
-      "Шеин Олег Васильевич": 141
+      "gas:candidate-vibid:2302000826854": 40,
+      "gas:candidate-vibid:2302000821738": 28,
+      "gas:candidate-vibid:2302000833686": 4,
+      "gas:candidate-vibid:2302000825752": 5,
+      "gas:candidate-vibid:2302000839430": 3,
+      "gas:candidate-vibid:2302000839216": 182,
+      "gas:candidate-vibid:2302000837297": 1,
+      "gas:candidate-vibid:2302000824415": 141
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783728&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783728&type=464",
@@ -9497,14 +9497,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 106,
-      "Востриков Егор Олегович": 53,
-      "Долиев Михаил Вячеславович": 15,
-      "Ковалёв Егор Викторович": 32,
-      "Никитина Наиля Зинуровна": 17,
-      "Огуль Леонид Анатольевич": 251,
-      "Родионов Сергей Леонидович": 14,
-      "Шеин Олег Васильевич": 201
+      "gas:candidate-vibid:2302000826854": 106,
+      "gas:candidate-vibid:2302000821738": 53,
+      "gas:candidate-vibid:2302000833686": 15,
+      "gas:candidate-vibid:2302000825752": 32,
+      "gas:candidate-vibid:2302000839430": 17,
+      "gas:candidate-vibid:2302000839216": 251,
+      "gas:candidate-vibid:2302000837297": 14,
+      "gas:candidate-vibid:2302000824415": 201
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783728&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783728&type=464",
@@ -9555,14 +9555,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 67,
-      "Востриков Егор Олегович": 28,
-      "Долиев Михаил Вячеславович": 4,
-      "Ковалёв Егор Викторович": 15,
-      "Никитина Наиля Зинуровна": 7,
-      "Огуль Леонид Анатольевич": 244,
-      "Родионов Сергей Леонидович": 0,
-      "Шеин Олег Васильевич": 92
+      "gas:candidate-vibid:2302000826854": 67,
+      "gas:candidate-vibid:2302000821738": 28,
+      "gas:candidate-vibid:2302000833686": 4,
+      "gas:candidate-vibid:2302000825752": 15,
+      "gas:candidate-vibid:2302000839430": 7,
+      "gas:candidate-vibid:2302000839216": 244,
+      "gas:candidate-vibid:2302000837297": 0,
+      "gas:candidate-vibid:2302000824415": 92
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783728&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783728&type=464",
@@ -9613,14 +9613,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 36,
-      "Востриков Егор Олегович": 14,
-      "Долиев Михаил Вячеславович": 5,
-      "Ковалёв Егор Викторович": 11,
-      "Никитина Наиля Зинуровна": 6,
-      "Огуль Леонид Анатольевич": 280,
-      "Родионов Сергей Леонидович": 3,
-      "Шеин Олег Васильевич": 76
+      "gas:candidate-vibid:2302000826854": 36,
+      "gas:candidate-vibid:2302000821738": 14,
+      "gas:candidate-vibid:2302000833686": 5,
+      "gas:candidate-vibid:2302000825752": 11,
+      "gas:candidate-vibid:2302000839430": 6,
+      "gas:candidate-vibid:2302000839216": 280,
+      "gas:candidate-vibid:2302000837297": 3,
+      "gas:candidate-vibid:2302000824415": 76
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783728&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783728&type=464",
@@ -9671,14 +9671,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 32,
-      "Востриков Егор Олегович": 10,
-      "Долиев Михаил Вячеславович": 2,
-      "Ковалёв Егор Викторович": 8,
-      "Никитина Наиля Зинуровна": 1,
-      "Огуль Леонид Анатольевич": 108,
-      "Родионов Сергей Леонидович": 0,
-      "Шеин Олег Васильевич": 55
+      "gas:candidate-vibid:2302000826854": 32,
+      "gas:candidate-vibid:2302000821738": 10,
+      "gas:candidate-vibid:2302000833686": 2,
+      "gas:candidate-vibid:2302000825752": 8,
+      "gas:candidate-vibid:2302000839430": 1,
+      "gas:candidate-vibid:2302000839216": 108,
+      "gas:candidate-vibid:2302000837297": 0,
+      "gas:candidate-vibid:2302000824415": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783728&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783728&type=464",
@@ -9729,14 +9729,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 32,
-      "Востриков Егор Олегович": 4,
-      "Долиев Михаил Вячеславович": 2,
-      "Ковалёв Егор Викторович": 6,
-      "Никитина Наиля Зинуровна": 0,
-      "Огуль Леонид Анатольевич": 48,
-      "Родионов Сергей Леонидович": 0,
-      "Шеин Олег Васильевич": 16
+      "gas:candidate-vibid:2302000826854": 32,
+      "gas:candidate-vibid:2302000821738": 4,
+      "gas:candidate-vibid:2302000833686": 2,
+      "gas:candidate-vibid:2302000825752": 6,
+      "gas:candidate-vibid:2302000839430": 0,
+      "gas:candidate-vibid:2302000839216": 48,
+      "gas:candidate-vibid:2302000837297": 0,
+      "gas:candidate-vibid:2302000824415": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783728&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783728&type=464",
@@ -9787,14 +9787,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 92,
-      "Востриков Егор Олегович": 47,
-      "Долиев Михаил Вячеславович": 7,
-      "Ковалёв Егор Викторович": 11,
-      "Никитина Наиля Зинуровна": 3,
-      "Огуль Леонид Анатольевич": 243,
-      "Родионов Сергей Леонидович": 5,
-      "Шеин Олег Васильевич": 111
+      "gas:candidate-vibid:2302000826854": 92,
+      "gas:candidate-vibid:2302000821738": 47,
+      "gas:candidate-vibid:2302000833686": 7,
+      "gas:candidate-vibid:2302000825752": 11,
+      "gas:candidate-vibid:2302000839430": 3,
+      "gas:candidate-vibid:2302000839216": 243,
+      "gas:candidate-vibid:2302000837297": 5,
+      "gas:candidate-vibid:2302000824415": 111
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783728&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783728&type=464",
@@ -9845,14 +9845,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 19,
-      "Востриков Егор Олегович": 20,
-      "Долиев Михаил Вячеславович": 0,
-      "Ковалёв Егор Викторович": 9,
-      "Никитина Наиля Зинуровна": 2,
-      "Огуль Леонид Анатольевич": 150,
-      "Родионов Сергей Леонидович": 2,
-      "Шеин Олег Васильевич": 32
+      "gas:candidate-vibid:2302000826854": 19,
+      "gas:candidate-vibid:2302000821738": 20,
+      "gas:candidate-vibid:2302000833686": 0,
+      "gas:candidate-vibid:2302000825752": 9,
+      "gas:candidate-vibid:2302000839430": 2,
+      "gas:candidate-vibid:2302000839216": 150,
+      "gas:candidate-vibid:2302000837297": 2,
+      "gas:candidate-vibid:2302000824415": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783728&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783728&type=464",
@@ -9903,14 +9903,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 34,
-      "Востриков Егор Олегович": 15,
-      "Долиев Михаил Вячеславович": 0,
-      "Ковалёв Егор Викторович": 2,
-      "Никитина Наиля Зинуровна": 4,
-      "Огуль Леонид Анатольевич": 98,
-      "Родионов Сергей Леонидович": 3,
-      "Шеин Олег Васильевич": 22
+      "gas:candidate-vibid:2302000826854": 34,
+      "gas:candidate-vibid:2302000821738": 15,
+      "gas:candidate-vibid:2302000833686": 0,
+      "gas:candidate-vibid:2302000825752": 2,
+      "gas:candidate-vibid:2302000839430": 4,
+      "gas:candidate-vibid:2302000839216": 98,
+      "gas:candidate-vibid:2302000837297": 3,
+      "gas:candidate-vibid:2302000824415": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783728&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783728&type=464",
@@ -9961,14 +9961,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 18,
-      "Востриков Егор Олегович": 3,
-      "Долиев Михаил Вячеславович": 0,
-      "Ковалёв Егор Викторович": 2,
-      "Никитина Наиля Зинуровна": 2,
-      "Огуль Леонид Анатольевич": 65,
-      "Родионов Сергей Леонидович": 1,
-      "Шеин Олег Васильевич": 10
+      "gas:candidate-vibid:2302000826854": 18,
+      "gas:candidate-vibid:2302000821738": 3,
+      "gas:candidate-vibid:2302000833686": 0,
+      "gas:candidate-vibid:2302000825752": 2,
+      "gas:candidate-vibid:2302000839430": 2,
+      "gas:candidate-vibid:2302000839216": 65,
+      "gas:candidate-vibid:2302000837297": 1,
+      "gas:candidate-vibid:2302000824415": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783728&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783728&type=464",
@@ -10019,14 +10019,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 48,
-      "Востриков Егор Олегович": 27,
-      "Долиев Михаил Вячеславович": 2,
-      "Ковалёв Егор Викторович": 12,
-      "Никитина Наиля Зинуровна": 8,
-      "Огуль Леонид Анатольевич": 120,
-      "Родионов Сергей Леонидович": 0,
-      "Шеин Олег Васильевич": 132
+      "gas:candidate-vibid:2302000826854": 48,
+      "gas:candidate-vibid:2302000821738": 27,
+      "gas:candidate-vibid:2302000833686": 2,
+      "gas:candidate-vibid:2302000825752": 12,
+      "gas:candidate-vibid:2302000839430": 8,
+      "gas:candidate-vibid:2302000839216": 120,
+      "gas:candidate-vibid:2302000837297": 0,
+      "gas:candidate-vibid:2302000824415": 132
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783729&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783729&type=464",
@@ -10077,14 +10077,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 57,
-      "Востриков Егор Олегович": 26,
-      "Долиев Михаил Вячеславович": 1,
-      "Ковалёв Егор Викторович": 9,
-      "Никитина Наиля Зинуровна": 8,
-      "Огуль Леонид Анатольевич": 114,
-      "Родионов Сергей Леонидович": 5,
-      "Шеин Олег Васильевич": 98
+      "gas:candidate-vibid:2302000826854": 57,
+      "gas:candidate-vibid:2302000821738": 26,
+      "gas:candidate-vibid:2302000833686": 1,
+      "gas:candidate-vibid:2302000825752": 9,
+      "gas:candidate-vibid:2302000839430": 8,
+      "gas:candidate-vibid:2302000839216": 114,
+      "gas:candidate-vibid:2302000837297": 5,
+      "gas:candidate-vibid:2302000824415": 98
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783729&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783729&type=464",
@@ -10135,14 +10135,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 30,
-      "Востриков Егор Олегович": 12,
-      "Долиев Михаил Вячеславович": 3,
-      "Ковалёв Егор Викторович": 7,
-      "Никитина Наиля Зинуровна": 5,
-      "Огуль Леонид Анатольевич": 137,
-      "Родионов Сергей Леонидович": 2,
-      "Шеин Олег Васильевич": 47
+      "gas:candidate-vibid:2302000826854": 30,
+      "gas:candidate-vibid:2302000821738": 12,
+      "gas:candidate-vibid:2302000833686": 3,
+      "gas:candidate-vibid:2302000825752": 7,
+      "gas:candidate-vibid:2302000839430": 5,
+      "gas:candidate-vibid:2302000839216": 137,
+      "gas:candidate-vibid:2302000837297": 2,
+      "gas:candidate-vibid:2302000824415": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783729&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783729&type=464",
@@ -10193,14 +10193,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 78,
-      "Востриков Егор Олегович": 54,
-      "Долиев Михаил Вячеславович": 12,
-      "Ковалёв Егор Викторович": 23,
-      "Никитина Наиля Зинуровна": 7,
-      "Огуль Леонид Анатольевич": 250,
-      "Родионов Сергей Леонидович": 7,
-      "Шеин Олег Васильевич": 197
+      "gas:candidate-vibid:2302000826854": 78,
+      "gas:candidate-vibid:2302000821738": 54,
+      "gas:candidate-vibid:2302000833686": 12,
+      "gas:candidate-vibid:2302000825752": 23,
+      "gas:candidate-vibid:2302000839430": 7,
+      "gas:candidate-vibid:2302000839216": 250,
+      "gas:candidate-vibid:2302000837297": 7,
+      "gas:candidate-vibid:2302000824415": 197
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783729&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783729&type=464",
@@ -10251,14 +10251,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 54,
-      "Востриков Егор Олегович": 25,
-      "Долиев Михаил Вячеславович": 3,
-      "Ковалёв Егор Викторович": 7,
-      "Никитина Наиля Зинуровна": 6,
-      "Огуль Леонид Анатольевич": 125,
-      "Родионов Сергей Леонидович": 8,
-      "Шеин Олег Васильевич": 116
+      "gas:candidate-vibid:2302000826854": 54,
+      "gas:candidate-vibid:2302000821738": 25,
+      "gas:candidate-vibid:2302000833686": 3,
+      "gas:candidate-vibid:2302000825752": 7,
+      "gas:candidate-vibid:2302000839430": 6,
+      "gas:candidate-vibid:2302000839216": 125,
+      "gas:candidate-vibid:2302000837297": 8,
+      "gas:candidate-vibid:2302000824415": 116
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783729&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783729&type=464",
@@ -10309,14 +10309,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 35,
-      "Востриков Егор Олегович": 40,
-      "Долиев Михаил Вячеславович": 2,
-      "Ковалёв Егор Викторович": 2,
-      "Никитина Наиля Зинуровна": 6,
-      "Огуль Леонид Анатольевич": 96,
-      "Родионов Сергей Леонидович": 1,
-      "Шеин Олег Васильевич": 83
+      "gas:candidate-vibid:2302000826854": 35,
+      "gas:candidate-vibid:2302000821738": 40,
+      "gas:candidate-vibid:2302000833686": 2,
+      "gas:candidate-vibid:2302000825752": 2,
+      "gas:candidate-vibid:2302000839430": 6,
+      "gas:candidate-vibid:2302000839216": 96,
+      "gas:candidate-vibid:2302000837297": 1,
+      "gas:candidate-vibid:2302000824415": 83
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783729&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783729&type=464",
@@ -10367,14 +10367,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 19,
-      "Востриков Егор Олегович": 17,
-      "Долиев Михаил Вячеславович": 3,
-      "Ковалёв Егор Викторович": 1,
-      "Никитина Наиля Зинуровна": 1,
-      "Огуль Леонид Анатольевич": 60,
-      "Родионов Сергей Леонидович": 4,
-      "Шеин Олег Васильевич": 51
+      "gas:candidate-vibid:2302000826854": 19,
+      "gas:candidate-vibid:2302000821738": 17,
+      "gas:candidate-vibid:2302000833686": 3,
+      "gas:candidate-vibid:2302000825752": 1,
+      "gas:candidate-vibid:2302000839430": 1,
+      "gas:candidate-vibid:2302000839216": 60,
+      "gas:candidate-vibid:2302000837297": 4,
+      "gas:candidate-vibid:2302000824415": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783729&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783729&type=464",
@@ -10425,14 +10425,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 73,
-      "Востриков Егор Олегович": 30,
-      "Долиев Михаил Вячеславович": 2,
-      "Ковалёв Егор Викторович": 9,
-      "Никитина Наиля Зинуровна": 5,
-      "Огуль Леонид Анатольевич": 174,
-      "Родионов Сергей Леонидович": 2,
-      "Шеин Олег Васильевич": 128
+      "gas:candidate-vibid:2302000826854": 73,
+      "gas:candidate-vibid:2302000821738": 30,
+      "gas:candidate-vibid:2302000833686": 2,
+      "gas:candidate-vibid:2302000825752": 9,
+      "gas:candidate-vibid:2302000839430": 5,
+      "gas:candidate-vibid:2302000839216": 174,
+      "gas:candidate-vibid:2302000837297": 2,
+      "gas:candidate-vibid:2302000824415": 128
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783729&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783729&type=464",
@@ -10483,14 +10483,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 99,
-      "Востриков Егор Олегович": 44,
-      "Долиев Михаил Вячеславович": 3,
-      "Ковалёв Егор Викторович": 19,
-      "Никитина Наиля Зинуровна": 5,
-      "Огуль Леонид Анатольевич": 399,
-      "Родионов Сергей Леонидович": 5,
-      "Шеин Олег Васильевич": 274
+      "gas:candidate-vibid:2302000826854": 99,
+      "gas:candidate-vibid:2302000821738": 44,
+      "gas:candidate-vibid:2302000833686": 3,
+      "gas:candidate-vibid:2302000825752": 19,
+      "gas:candidate-vibid:2302000839430": 5,
+      "gas:candidate-vibid:2302000839216": 399,
+      "gas:candidate-vibid:2302000837297": 5,
+      "gas:candidate-vibid:2302000824415": 274
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783729&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783729&type=464",
@@ -10541,14 +10541,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 77,
-      "Востриков Егор Олегович": 56,
-      "Долиев Михаил Вячеславович": 3,
-      "Ковалёв Егор Викторович": 11,
-      "Никитина Наиля Зинуровна": 4,
-      "Огуль Леонид Анатольевич": 202,
-      "Родионов Сергей Леонидович": 4,
-      "Шеин Олег Васильевич": 158
+      "gas:candidate-vibid:2302000826854": 77,
+      "gas:candidate-vibid:2302000821738": 56,
+      "gas:candidate-vibid:2302000833686": 3,
+      "gas:candidate-vibid:2302000825752": 11,
+      "gas:candidate-vibid:2302000839430": 4,
+      "gas:candidate-vibid:2302000839216": 202,
+      "gas:candidate-vibid:2302000837297": 4,
+      "gas:candidate-vibid:2302000824415": 158
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783729&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783729&type=464",
@@ -10599,14 +10599,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 29,
-      "Востриков Егор Олегович": 18,
-      "Долиев Михаил Вячеславович": 4,
-      "Ковалёв Егор Викторович": 10,
-      "Никитина Наиля Зинуровна": 4,
-      "Огуль Леонид Анатольевич": 149,
-      "Родионов Сергей Леонидович": 3,
-      "Шеин Олег Васильевич": 55
+      "gas:candidate-vibid:2302000826854": 29,
+      "gas:candidate-vibid:2302000821738": 18,
+      "gas:candidate-vibid:2302000833686": 4,
+      "gas:candidate-vibid:2302000825752": 10,
+      "gas:candidate-vibid:2302000839430": 4,
+      "gas:candidate-vibid:2302000839216": 149,
+      "gas:candidate-vibid:2302000837297": 3,
+      "gas:candidate-vibid:2302000824415": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783729&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783729&type=464",
@@ -10657,14 +10657,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 16,
-      "Востриков Егор Олегович": 1,
-      "Долиев Михаил Вячеславович": 0,
-      "Ковалёв Егор Викторович": 5,
-      "Никитина Наиля Зинуровна": 3,
-      "Огуль Леонид Анатольевич": 46,
-      "Родионов Сергей Леонидович": 0,
-      "Шеин Олег Васильевич": 26
+      "gas:candidate-vibid:2302000826854": 16,
+      "gas:candidate-vibid:2302000821738": 1,
+      "gas:candidate-vibid:2302000833686": 0,
+      "gas:candidate-vibid:2302000825752": 5,
+      "gas:candidate-vibid:2302000839430": 3,
+      "gas:candidate-vibid:2302000839216": 46,
+      "gas:candidate-vibid:2302000837297": 0,
+      "gas:candidate-vibid:2302000824415": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783729&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783729&type=464",
@@ -10715,14 +10715,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 38,
-      "Востриков Егор Олегович": 10,
-      "Долиев Михаил Вячеславович": 4,
-      "Ковалёв Егор Викторович": 8,
-      "Никитина Наиля Зинуровна": 4,
-      "Огуль Леонид Анатольевич": 102,
-      "Родионов Сергей Леонидович": 3,
-      "Шеин Олег Васильевич": 77
+      "gas:candidate-vibid:2302000826854": 38,
+      "gas:candidate-vibid:2302000821738": 10,
+      "gas:candidate-vibid:2302000833686": 4,
+      "gas:candidate-vibid:2302000825752": 8,
+      "gas:candidate-vibid:2302000839430": 4,
+      "gas:candidate-vibid:2302000839216": 102,
+      "gas:candidate-vibid:2302000837297": 3,
+      "gas:candidate-vibid:2302000824415": 77
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783729&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783729&type=464",
@@ -10773,14 +10773,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 34,
-      "Востриков Егор Олегович": 5,
-      "Долиев Михаил Вячеславович": 1,
-      "Ковалёв Егор Викторович": 6,
-      "Никитина Наиля Зинуровна": 1,
-      "Огуль Леонид Анатольевич": 109,
-      "Родионов Сергей Леонидович": 5,
-      "Шеин Олег Васильевич": 108
+      "gas:candidate-vibid:2302000826854": 34,
+      "gas:candidate-vibid:2302000821738": 5,
+      "gas:candidate-vibid:2302000833686": 1,
+      "gas:candidate-vibid:2302000825752": 6,
+      "gas:candidate-vibid:2302000839430": 1,
+      "gas:candidate-vibid:2302000839216": 109,
+      "gas:candidate-vibid:2302000837297": 5,
+      "gas:candidate-vibid:2302000824415": 108
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783729&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783729&type=464",
@@ -10831,14 +10831,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 3,
-      "Востриков Егор Олегович": 1,
-      "Долиев Михаил Вячеславович": 0,
-      "Ковалёв Егор Викторович": 2,
-      "Никитина Наиля Зинуровна": 1,
-      "Огуль Леонид Анатольевич": 29,
-      "Родионов Сергей Леонидович": 1,
-      "Шеин Олег Васильевич": 7
+      "gas:candidate-vibid:2302000826854": 3,
+      "gas:candidate-vibid:2302000821738": 1,
+      "gas:candidate-vibid:2302000833686": 0,
+      "gas:candidate-vibid:2302000825752": 2,
+      "gas:candidate-vibid:2302000839430": 1,
+      "gas:candidate-vibid:2302000839216": 29,
+      "gas:candidate-vibid:2302000837297": 1,
+      "gas:candidate-vibid:2302000824415": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783729&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783729&type=464",
@@ -10889,14 +10889,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 2,
-      "Востриков Егор Олегович": 6,
-      "Долиев Михаил Вячеславович": 1,
-      "Ковалёв Егор Викторович": 0,
-      "Никитина Наиля Зинуровна": 0,
-      "Огуль Леонид Анатольевич": 34,
-      "Родионов Сергей Леонидович": 0,
-      "Шеин Олег Васильевич": 8
+      "gas:candidate-vibid:2302000826854": 2,
+      "gas:candidate-vibid:2302000821738": 6,
+      "gas:candidate-vibid:2302000833686": 1,
+      "gas:candidate-vibid:2302000825752": 0,
+      "gas:candidate-vibid:2302000839430": 0,
+      "gas:candidate-vibid:2302000839216": 34,
+      "gas:candidate-vibid:2302000837297": 0,
+      "gas:candidate-vibid:2302000824415": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783729&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783729&type=464",
@@ -10947,14 +10947,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 130,
-      "Востриков Егор Олегович": 23,
-      "Долиев Михаил Вячеславович": 5,
-      "Ковалёв Егор Викторович": 23,
-      "Никитина Наиля Зинуровна": 8,
-      "Огуль Леонид Анатольевич": 284,
-      "Родионов Сергей Леонидович": 3,
-      "Шеин Олег Васильевич": 122
+      "gas:candidate-vibid:2302000826854": 130,
+      "gas:candidate-vibid:2302000821738": 23,
+      "gas:candidate-vibid:2302000833686": 5,
+      "gas:candidate-vibid:2302000825752": 23,
+      "gas:candidate-vibid:2302000839430": 8,
+      "gas:candidate-vibid:2302000839216": 284,
+      "gas:candidate-vibid:2302000837297": 3,
+      "gas:candidate-vibid:2302000824415": 122
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783729&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783729&type=464",
@@ -11005,14 +11005,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 25,
-      "Востриков Егор Олегович": 21,
-      "Долиев Михаил Вячеславович": 4,
-      "Ковалёв Егор Викторович": 7,
-      "Никитина Наиля Зинуровна": 3,
-      "Огуль Леонид Анатольевич": 146,
-      "Родионов Сергей Леонидович": 6,
-      "Шеин Олег Васильевич": 114
+      "gas:candidate-vibid:2302000826854": 25,
+      "gas:candidate-vibid:2302000821738": 21,
+      "gas:candidate-vibid:2302000833686": 4,
+      "gas:candidate-vibid:2302000825752": 7,
+      "gas:candidate-vibid:2302000839430": 3,
+      "gas:candidate-vibid:2302000839216": 146,
+      "gas:candidate-vibid:2302000837297": 6,
+      "gas:candidate-vibid:2302000824415": 114
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783729&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783729&type=464",
@@ -11063,14 +11063,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 32,
-      "Востриков Егор Олегович": 20,
-      "Долиев Михаил Вячеславович": 2,
-      "Ковалёв Егор Викторович": 8,
-      "Никитина Наиля Зинуровна": 2,
-      "Огуль Леонид Анатольевич": 110,
-      "Родионов Сергей Леонидович": 2,
-      "Шеин Олег Васильевич": 126
+      "gas:candidate-vibid:2302000826854": 32,
+      "gas:candidate-vibid:2302000821738": 20,
+      "gas:candidate-vibid:2302000833686": 2,
+      "gas:candidate-vibid:2302000825752": 8,
+      "gas:candidate-vibid:2302000839430": 2,
+      "gas:candidate-vibid:2302000839216": 110,
+      "gas:candidate-vibid:2302000837297": 2,
+      "gas:candidate-vibid:2302000824415": 126
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783729&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783729&type=464",
@@ -11121,14 +11121,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 1,
-      "Востриков Егор Олегович": 1,
-      "Долиев Михаил Вячеславович": 1,
-      "Ковалёв Егор Викторович": 1,
-      "Никитина Наиля Зинуровна": 1,
-      "Огуль Леонид Анатольевич": 14,
-      "Родионов Сергей Леонидович": 0,
-      "Шеин Олег Васильевич": 33
+      "gas:candidate-vibid:2302000826854": 1,
+      "gas:candidate-vibid:2302000821738": 1,
+      "gas:candidate-vibid:2302000833686": 1,
+      "gas:candidate-vibid:2302000825752": 1,
+      "gas:candidate-vibid:2302000839430": 1,
+      "gas:candidate-vibid:2302000839216": 14,
+      "gas:candidate-vibid:2302000837297": 0,
+      "gas:candidate-vibid:2302000824415": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783729&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783729&type=464",
@@ -11179,14 +11179,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 8,
-      "Востриков Егор Олегович": 0,
-      "Долиев Михаил Вячеславович": 3,
-      "Ковалёв Егор Викторович": 1,
-      "Никитина Наиля Зинуровна": 2,
-      "Огуль Леонид Анатольевич": 124,
-      "Родионов Сергей Леонидович": 0,
-      "Шеин Олег Васильевич": 25
+      "gas:candidate-vibid:2302000826854": 8,
+      "gas:candidate-vibid:2302000821738": 0,
+      "gas:candidate-vibid:2302000833686": 3,
+      "gas:candidate-vibid:2302000825752": 1,
+      "gas:candidate-vibid:2302000839430": 2,
+      "gas:candidate-vibid:2302000839216": 124,
+      "gas:candidate-vibid:2302000837297": 0,
+      "gas:candidate-vibid:2302000824415": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783729&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783729&type=464",
@@ -11237,14 +11237,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 27,
-      "Востриков Егор Олегович": 34,
-      "Долиев Михаил Вячеславович": 2,
-      "Ковалёв Егор Викторович": 10,
-      "Никитина Наиля Зинуровна": 4,
-      "Огуль Леонид Анатольевич": 200,
-      "Родионов Сергей Леонидович": 4,
-      "Шеин Олег Васильевич": 123
+      "gas:candidate-vibid:2302000826854": 27,
+      "gas:candidate-vibid:2302000821738": 34,
+      "gas:candidate-vibid:2302000833686": 2,
+      "gas:candidate-vibid:2302000825752": 10,
+      "gas:candidate-vibid:2302000839430": 4,
+      "gas:candidate-vibid:2302000839216": 200,
+      "gas:candidate-vibid:2302000837297": 4,
+      "gas:candidate-vibid:2302000824415": 123
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783729&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783729&type=464",
@@ -11295,14 +11295,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 16,
-      "Востриков Егор Олегович": 2,
-      "Долиев Михаил Вячеславович": 2,
-      "Ковалёв Егор Викторович": 3,
-      "Никитина Наиля Зинуровна": 1,
-      "Огуль Леонид Анатольевич": 82,
-      "Родионов Сергей Леонидович": 2,
-      "Шеин Олег Васильевич": 34
+      "gas:candidate-vibid:2302000826854": 16,
+      "gas:candidate-vibid:2302000821738": 2,
+      "gas:candidate-vibid:2302000833686": 2,
+      "gas:candidate-vibid:2302000825752": 3,
+      "gas:candidate-vibid:2302000839430": 1,
+      "gas:candidate-vibid:2302000839216": 82,
+      "gas:candidate-vibid:2302000837297": 2,
+      "gas:candidate-vibid:2302000824415": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783729&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783729&type=464",
@@ -11353,14 +11353,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 6,
-      "Востриков Егор Олегович": 4,
-      "Долиев Михаил Вячеславович": 2,
-      "Ковалёв Егор Викторович": 2,
-      "Никитина Наиля Зинуровна": 1,
-      "Огуль Леонид Анатольевич": 23,
-      "Родионов Сергей Леонидович": 0,
-      "Шеин Олег Васильевич": 17
+      "gas:candidate-vibid:2302000826854": 6,
+      "gas:candidate-vibid:2302000821738": 4,
+      "gas:candidate-vibid:2302000833686": 2,
+      "gas:candidate-vibid:2302000825752": 2,
+      "gas:candidate-vibid:2302000839430": 1,
+      "gas:candidate-vibid:2302000839216": 23,
+      "gas:candidate-vibid:2302000837297": 0,
+      "gas:candidate-vibid:2302000824415": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783729&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783729&type=464",
@@ -11411,14 +11411,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 5,
-      "Востриков Егор Олегович": 6,
-      "Долиев Михаил Вячеславович": 2,
-      "Ковалёв Егор Викторович": 1,
-      "Никитина Наиля Зинуровна": 0,
-      "Огуль Леонид Анатольевич": 47,
-      "Родионов Сергей Леонидович": 0,
-      "Шеин Олег Васильевич": 23
+      "gas:candidate-vibid:2302000826854": 5,
+      "gas:candidate-vibid:2302000821738": 6,
+      "gas:candidate-vibid:2302000833686": 2,
+      "gas:candidate-vibid:2302000825752": 1,
+      "gas:candidate-vibid:2302000839430": 0,
+      "gas:candidate-vibid:2302000839216": 47,
+      "gas:candidate-vibid:2302000837297": 0,
+      "gas:candidate-vibid:2302000824415": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783729&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783729&type=464",
@@ -11469,14 +11469,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 101,
-      "Востриков Егор Олегович": 29,
-      "Долиев Михаил Вячеславович": 10,
-      "Ковалёв Егор Викторович": 21,
-      "Никитина Наиля Зинуровна": 7,
-      "Огуль Леонид Анатольевич": 401,
-      "Родионов Сергей Леонидович": 5,
-      "Шеин Олег Васильевич": 312
+      "gas:candidate-vibid:2302000826854": 101,
+      "gas:candidate-vibid:2302000821738": 29,
+      "gas:candidate-vibid:2302000833686": 10,
+      "gas:candidate-vibid:2302000825752": 21,
+      "gas:candidate-vibid:2302000839430": 7,
+      "gas:candidate-vibid:2302000839216": 401,
+      "gas:candidate-vibid:2302000837297": 5,
+      "gas:candidate-vibid:2302000824415": 312
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783729&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783729&type=464",
@@ -11527,14 +11527,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 29,
-      "Востриков Егор Олегович": 7,
-      "Долиев Михаил Вячеславович": 7,
-      "Ковалёв Егор Викторович": 12,
-      "Никитина Наиля Зинуровна": 6,
-      "Огуль Леонид Анатольевич": 87,
-      "Родионов Сергей Леонидович": 1,
-      "Шеин Олег Васильевич": 68
+      "gas:candidate-vibid:2302000826854": 29,
+      "gas:candidate-vibid:2302000821738": 7,
+      "gas:candidate-vibid:2302000833686": 7,
+      "gas:candidate-vibid:2302000825752": 12,
+      "gas:candidate-vibid:2302000839430": 6,
+      "gas:candidate-vibid:2302000839216": 87,
+      "gas:candidate-vibid:2302000837297": 1,
+      "gas:candidate-vibid:2302000824415": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783729&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783729&type=464",
@@ -11585,14 +11585,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 17,
-      "Востриков Егор Олегович": 10,
-      "Долиев Михаил Вячеславович": 2,
-      "Ковалёв Егор Викторович": 8,
-      "Никитина Наиля Зинуровна": 1,
-      "Огуль Леонид Анатольевич": 56,
-      "Родионов Сергей Леонидович": 3,
-      "Шеин Олег Васильевич": 36
+      "gas:candidate-vibid:2302000826854": 17,
+      "gas:candidate-vibid:2302000821738": 10,
+      "gas:candidate-vibid:2302000833686": 2,
+      "gas:candidate-vibid:2302000825752": 8,
+      "gas:candidate-vibid:2302000839430": 1,
+      "gas:candidate-vibid:2302000839216": 56,
+      "gas:candidate-vibid:2302000837297": 3,
+      "gas:candidate-vibid:2302000824415": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783729&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783729&type=464",
@@ -11643,14 +11643,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 33,
-      "Востриков Егор Олегович": 19,
-      "Долиев Михаил Вячеславович": 7,
-      "Ковалёв Егор Викторович": 4,
-      "Никитина Наиля Зинуровна": 7,
-      "Огуль Леонид Анатольевич": 106,
-      "Родионов Сергей Леонидович": 1,
-      "Шеин Олег Васильевич": 106
+      "gas:candidate-vibid:2302000826854": 33,
+      "gas:candidate-vibid:2302000821738": 19,
+      "gas:candidate-vibid:2302000833686": 7,
+      "gas:candidate-vibid:2302000825752": 4,
+      "gas:candidate-vibid:2302000839430": 7,
+      "gas:candidate-vibid:2302000839216": 106,
+      "gas:candidate-vibid:2302000837297": 1,
+      "gas:candidate-vibid:2302000824415": 106
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783729&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783729&type=464",
@@ -11701,14 +11701,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 54,
-      "Востриков Егор Олегович": 59,
-      "Долиев Михаил Вячеславович": 10,
-      "Ковалёв Егор Викторович": 16,
-      "Никитина Наиля Зинуровна": 11,
-      "Огуль Леонид Анатольевич": 409,
-      "Родионов Сергей Леонидович": 6,
-      "Шеин Олег Васильевич": 201
+      "gas:candidate-vibid:2302000826854": 54,
+      "gas:candidate-vibid:2302000821738": 59,
+      "gas:candidate-vibid:2302000833686": 10,
+      "gas:candidate-vibid:2302000825752": 16,
+      "gas:candidate-vibid:2302000839430": 11,
+      "gas:candidate-vibid:2302000839216": 409,
+      "gas:candidate-vibid:2302000837297": 6,
+      "gas:candidate-vibid:2302000824415": 201
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783729&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783729&type=464",
@@ -11759,14 +11759,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 51,
-      "Востриков Егор Олегович": 4,
-      "Долиев Михаил Вячеславович": 1,
-      "Ковалёв Егор Викторович": 22,
-      "Никитина Наиля Зинуровна": 7,
-      "Огуль Леонид Анатольевич": 193,
-      "Родионов Сергей Леонидович": 1,
-      "Шеин Олег Васильевич": 103
+      "gas:candidate-vibid:2302000826854": 51,
+      "gas:candidate-vibid:2302000821738": 4,
+      "gas:candidate-vibid:2302000833686": 1,
+      "gas:candidate-vibid:2302000825752": 22,
+      "gas:candidate-vibid:2302000839430": 7,
+      "gas:candidate-vibid:2302000839216": 193,
+      "gas:candidate-vibid:2302000837297": 1,
+      "gas:candidate-vibid:2302000824415": 103
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783729&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783729&type=464",
@@ -11817,14 +11817,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 62,
-      "Востриков Егор Олегович": 17,
-      "Долиев Михаил Вячеславович": 2,
-      "Ковалёв Егор Викторович": 14,
-      "Никитина Наиля Зинуровна": 19,
-      "Огуль Леонид Анатольевич": 152,
-      "Родионов Сергей Леонидович": 1,
-      "Шеин Олег Васильевич": 95
+      "gas:candidate-vibid:2302000826854": 62,
+      "gas:candidate-vibid:2302000821738": 17,
+      "gas:candidate-vibid:2302000833686": 2,
+      "gas:candidate-vibid:2302000825752": 14,
+      "gas:candidate-vibid:2302000839430": 19,
+      "gas:candidate-vibid:2302000839216": 152,
+      "gas:candidate-vibid:2302000837297": 1,
+      "gas:candidate-vibid:2302000824415": 95
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783729&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783729&type=464",
@@ -11875,14 +11875,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 7,
-      "Востриков Егор Олегович": 7,
-      "Долиев Михаил Вячеславович": 5,
-      "Ковалёв Егор Викторович": 6,
-      "Никитина Наиля Зинуровна": 2,
-      "Огуль Леонид Анатольевич": 45,
-      "Родионов Сергей Леонидович": 1,
-      "Шеин Олег Васильевич": 30
+      "gas:candidate-vibid:2302000826854": 7,
+      "gas:candidate-vibid:2302000821738": 7,
+      "gas:candidate-vibid:2302000833686": 5,
+      "gas:candidate-vibid:2302000825752": 6,
+      "gas:candidate-vibid:2302000839430": 2,
+      "gas:candidate-vibid:2302000839216": 45,
+      "gas:candidate-vibid:2302000837297": 1,
+      "gas:candidate-vibid:2302000824415": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783729&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783729&type=464",
@@ -11933,14 +11933,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 38,
-      "Востриков Егор Олегович": 2,
-      "Долиев Михаил Вячеславович": 4,
-      "Ковалёв Егор Викторович": 7,
-      "Никитина Наиля Зинуровна": 7,
-      "Огуль Леонид Анатольевич": 157,
-      "Родионов Сергей Леонидович": 3,
-      "Шеин Олег Васильевич": 61
+      "gas:candidate-vibid:2302000826854": 38,
+      "gas:candidate-vibid:2302000821738": 2,
+      "gas:candidate-vibid:2302000833686": 4,
+      "gas:candidate-vibid:2302000825752": 7,
+      "gas:candidate-vibid:2302000839430": 7,
+      "gas:candidate-vibid:2302000839216": 157,
+      "gas:candidate-vibid:2302000837297": 3,
+      "gas:candidate-vibid:2302000824415": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783729&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783729&type=464",
@@ -11991,14 +11991,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 6,
-      "Востриков Егор Олегович": 2,
-      "Долиев Михаил Вячеславович": 2,
-      "Ковалёв Егор Викторович": 1,
-      "Никитина Наиля Зинуровна": 0,
-      "Огуль Леонид Анатольевич": 57,
-      "Родионов Сергей Леонидович": 2,
-      "Шеин Олег Васильевич": 11
+      "gas:candidate-vibid:2302000826854": 6,
+      "gas:candidate-vibid:2302000821738": 2,
+      "gas:candidate-vibid:2302000833686": 2,
+      "gas:candidate-vibid:2302000825752": 1,
+      "gas:candidate-vibid:2302000839430": 0,
+      "gas:candidate-vibid:2302000839216": 57,
+      "gas:candidate-vibid:2302000837297": 2,
+      "gas:candidate-vibid:2302000824415": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783729&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783729&type=464",
@@ -12049,14 +12049,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 31,
-      "Востриков Егор Олегович": 35,
-      "Долиев Михаил Вячеславович": 10,
-      "Ковалёв Егор Викторович": 13,
-      "Никитина Наиля Зинуровна": 7,
-      "Огуль Леонид Анатольевич": 227,
-      "Родионов Сергей Леонидович": 5,
-      "Шеин Олег Васильевич": 74
+      "gas:candidate-vibid:2302000826854": 31,
+      "gas:candidate-vibid:2302000821738": 35,
+      "gas:candidate-vibid:2302000833686": 10,
+      "gas:candidate-vibid:2302000825752": 13,
+      "gas:candidate-vibid:2302000839430": 7,
+      "gas:candidate-vibid:2302000839216": 227,
+      "gas:candidate-vibid:2302000837297": 5,
+      "gas:candidate-vibid:2302000824415": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783729&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783729&type=464",
@@ -12107,14 +12107,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 6,
-      "Востриков Егор Олегович": 14,
-      "Долиев Михаил Вячеславович": 4,
-      "Ковалёв Егор Викторович": 6,
-      "Никитина Наиля Зинуровна": 1,
-      "Огуль Леонид Анатольевич": 81,
-      "Родионов Сергей Леонидович": 3,
-      "Шеин Олег Васильевич": 33
+      "gas:candidate-vibid:2302000826854": 6,
+      "gas:candidate-vibid:2302000821738": 14,
+      "gas:candidate-vibid:2302000833686": 4,
+      "gas:candidate-vibid:2302000825752": 6,
+      "gas:candidate-vibid:2302000839430": 1,
+      "gas:candidate-vibid:2302000839216": 81,
+      "gas:candidate-vibid:2302000837297": 3,
+      "gas:candidate-vibid:2302000824415": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783729&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783729&type=464",
@@ -12165,14 +12165,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 53,
-      "Востриков Егор Олегович": 25,
-      "Долиев Михаил Вячеславович": 2,
-      "Ковалёв Егор Викторович": 21,
-      "Никитина Наиля Зинуровна": 7,
-      "Огуль Леонид Анатольевич": 142,
-      "Родионов Сергей Леонидович": 1,
-      "Шеин Олег Васильевич": 125
+      "gas:candidate-vibid:2302000826854": 53,
+      "gas:candidate-vibid:2302000821738": 25,
+      "gas:candidate-vibid:2302000833686": 2,
+      "gas:candidate-vibid:2302000825752": 21,
+      "gas:candidate-vibid:2302000839430": 7,
+      "gas:candidate-vibid:2302000839216": 142,
+      "gas:candidate-vibid:2302000837297": 1,
+      "gas:candidate-vibid:2302000824415": 125
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783729&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783729&type=464",
@@ -12223,14 +12223,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 36,
-      "Востриков Егор Олегович": 18,
-      "Долиев Михаил Вячеславович": 1,
-      "Ковалёв Егор Викторович": 10,
-      "Никитина Наиля Зинуровна": 8,
-      "Огуль Леонид Анатольевич": 70,
-      "Родионов Сергей Леонидович": 4,
-      "Шеин Олег Васильевич": 100
+      "gas:candidate-vibid:2302000826854": 36,
+      "gas:candidate-vibid:2302000821738": 18,
+      "gas:candidate-vibid:2302000833686": 1,
+      "gas:candidate-vibid:2302000825752": 10,
+      "gas:candidate-vibid:2302000839430": 8,
+      "gas:candidate-vibid:2302000839216": 70,
+      "gas:candidate-vibid:2302000837297": 4,
+      "gas:candidate-vibid:2302000824415": 100
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783729&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783729&type=464",
@@ -12281,14 +12281,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 28,
-      "Востриков Егор Олегович": 4,
-      "Долиев Михаил Вячеславович": 3,
-      "Ковалёв Егор Викторович": 8,
-      "Никитина Наиля Зинуровна": 3,
-      "Огуль Леонид Анатольевич": 54,
-      "Родионов Сергей Леонидович": 4,
-      "Шеин Олег Васильевич": 44
+      "gas:candidate-vibid:2302000826854": 28,
+      "gas:candidate-vibid:2302000821738": 4,
+      "gas:candidate-vibid:2302000833686": 3,
+      "gas:candidate-vibid:2302000825752": 8,
+      "gas:candidate-vibid:2302000839430": 3,
+      "gas:candidate-vibid:2302000839216": 54,
+      "gas:candidate-vibid:2302000837297": 4,
+      "gas:candidate-vibid:2302000824415": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783729&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783729&type=464",
@@ -12339,14 +12339,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 24,
-      "Востриков Егор Олегович": 2,
-      "Долиев Михаил Вячеславович": 2,
-      "Ковалёв Егор Викторович": 2,
-      "Никитина Наиля Зинуровна": 2,
-      "Огуль Леонид Анатольевич": 77,
-      "Родионов Сергей Леонидович": 3,
-      "Шеин Олег Васильевич": 14
+      "gas:candidate-vibid:2302000826854": 24,
+      "gas:candidate-vibid:2302000821738": 2,
+      "gas:candidate-vibid:2302000833686": 2,
+      "gas:candidate-vibid:2302000825752": 2,
+      "gas:candidate-vibid:2302000839430": 2,
+      "gas:candidate-vibid:2302000839216": 77,
+      "gas:candidate-vibid:2302000837297": 3,
+      "gas:candidate-vibid:2302000824415": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783729&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783729&type=464",
@@ -12397,14 +12397,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 23,
-      "Востриков Егор Олегович": 15,
-      "Долиев Михаил Вячеславович": 3,
-      "Ковалёв Егор Викторович": 3,
-      "Никитина Наиля Зинуровна": 2,
-      "Огуль Леонид Анатольевич": 190,
-      "Родионов Сергей Леонидович": 1,
-      "Шеин Олег Васильевич": 57
+      "gas:candidate-vibid:2302000826854": 23,
+      "gas:candidate-vibid:2302000821738": 15,
+      "gas:candidate-vibid:2302000833686": 3,
+      "gas:candidate-vibid:2302000825752": 3,
+      "gas:candidate-vibid:2302000839430": 2,
+      "gas:candidate-vibid:2302000839216": 190,
+      "gas:candidate-vibid:2302000837297": 1,
+      "gas:candidate-vibid:2302000824415": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783729&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783729&type=464",
@@ -12455,14 +12455,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 47,
-      "Востриков Егор Олегович": 21,
-      "Долиев Михаил Вячеславович": 5,
-      "Ковалёв Егор Викторович": 15,
-      "Никитина Наиля Зинуровна": 29,
-      "Огуль Леонид Анатольевич": 127,
-      "Родионов Сергей Леонидович": 8,
-      "Шеин Олег Васильевич": 115
+      "gas:candidate-vibid:2302000826854": 47,
+      "gas:candidate-vibid:2302000821738": 21,
+      "gas:candidate-vibid:2302000833686": 5,
+      "gas:candidate-vibid:2302000825752": 15,
+      "gas:candidate-vibid:2302000839430": 29,
+      "gas:candidate-vibid:2302000839216": 127,
+      "gas:candidate-vibid:2302000837297": 8,
+      "gas:candidate-vibid:2302000824415": 115
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783729&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783729&type=464",
@@ -12513,14 +12513,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 13,
-      "Востриков Егор Олегович": 2,
-      "Долиев Михаил Вячеславович": 0,
-      "Ковалёв Егор Викторович": 2,
-      "Никитина Наиля Зинуровна": 2,
-      "Огуль Леонид Анатольевич": 51,
-      "Родионов Сергей Леонидович": 0,
-      "Шеин Олег Васильевич": 6
+      "gas:candidate-vibid:2302000826854": 13,
+      "gas:candidate-vibid:2302000821738": 2,
+      "gas:candidate-vibid:2302000833686": 0,
+      "gas:candidate-vibid:2302000825752": 2,
+      "gas:candidate-vibid:2302000839430": 2,
+      "gas:candidate-vibid:2302000839216": 51,
+      "gas:candidate-vibid:2302000837297": 0,
+      "gas:candidate-vibid:2302000824415": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783729&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783729&type=464",
@@ -12571,14 +12571,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 6,
-      "Востриков Егор Олегович": 1,
-      "Долиев Михаил Вячеславович": 1,
-      "Ковалёв Егор Викторович": 3,
-      "Никитина Наиля Зинуровна": 0,
-      "Огуль Леонид Анатольевич": 22,
-      "Родионов Сергей Леонидович": 1,
-      "Шеин Олег Васильевич": 12
+      "gas:candidate-vibid:2302000826854": 6,
+      "gas:candidate-vibid:2302000821738": 1,
+      "gas:candidate-vibid:2302000833686": 1,
+      "gas:candidate-vibid:2302000825752": 3,
+      "gas:candidate-vibid:2302000839430": 0,
+      "gas:candidate-vibid:2302000839216": 22,
+      "gas:candidate-vibid:2302000837297": 1,
+      "gas:candidate-vibid:2302000824415": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783729&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783729&type=464",
@@ -12629,14 +12629,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 32,
-      "Востриков Егор Олегович": 15,
-      "Долиев Михаил Вячеславович": 2,
-      "Ковалёв Егор Викторович": 6,
-      "Никитина Наиля Зинуровна": 7,
-      "Огуль Леонид Анатольевич": 146,
-      "Родионов Сергей Леонидович": 1,
-      "Шеин Олег Васильевич": 52
+      "gas:candidate-vibid:2302000826854": 32,
+      "gas:candidate-vibid:2302000821738": 15,
+      "gas:candidate-vibid:2302000833686": 2,
+      "gas:candidate-vibid:2302000825752": 6,
+      "gas:candidate-vibid:2302000839430": 7,
+      "gas:candidate-vibid:2302000839216": 146,
+      "gas:candidate-vibid:2302000837297": 1,
+      "gas:candidate-vibid:2302000824415": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783729&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783729&type=464",
@@ -12687,14 +12687,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 1,
-      "Востриков Егор Олегович": 3,
-      "Долиев Михаил Вячеславович": 1,
-      "Ковалёв Егор Викторович": 0,
-      "Никитина Наиля Зинуровна": 1,
-      "Огуль Леонид Анатольевич": 49,
-      "Родионов Сергей Леонидович": 0,
-      "Шеин Олег Васильевич": 21
+      "gas:candidate-vibid:2302000826854": 1,
+      "gas:candidate-vibid:2302000821738": 3,
+      "gas:candidate-vibid:2302000833686": 1,
+      "gas:candidate-vibid:2302000825752": 0,
+      "gas:candidate-vibid:2302000839430": 1,
+      "gas:candidate-vibid:2302000839216": 49,
+      "gas:candidate-vibid:2302000837297": 0,
+      "gas:candidate-vibid:2302000824415": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783729&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783729&type=464",
@@ -12745,14 +12745,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 115,
-      "Востриков Егор Олегович": 24,
-      "Долиев Михаил Вячеславович": 6,
-      "Ковалёв Егор Викторович": 12,
-      "Никитина Наиля Зинуровна": 8,
-      "Огуль Леонид Анатольевич": 161,
-      "Родионов Сергей Леонидович": 2,
-      "Шеин Олег Васильевич": 86
+      "gas:candidate-vibid:2302000826854": 115,
+      "gas:candidate-vibid:2302000821738": 24,
+      "gas:candidate-vibid:2302000833686": 6,
+      "gas:candidate-vibid:2302000825752": 12,
+      "gas:candidate-vibid:2302000839430": 8,
+      "gas:candidate-vibid:2302000839216": 161,
+      "gas:candidate-vibid:2302000837297": 2,
+      "gas:candidate-vibid:2302000824415": 86
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783729&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783729&type=464",
@@ -12803,14 +12803,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 52,
-      "Востриков Егор Олегович": 37,
-      "Долиев Михаил Вячеславович": 6,
-      "Ковалёв Егор Викторович": 16,
-      "Никитина Наиля Зинуровна": 13,
-      "Огуль Леонид Анатольевич": 202,
-      "Родионов Сергей Леонидович": 3,
-      "Шеин Олег Васильевич": 136
+      "gas:candidate-vibid:2302000826854": 52,
+      "gas:candidate-vibid:2302000821738": 37,
+      "gas:candidate-vibid:2302000833686": 6,
+      "gas:candidate-vibid:2302000825752": 16,
+      "gas:candidate-vibid:2302000839430": 13,
+      "gas:candidate-vibid:2302000839216": 202,
+      "gas:candidate-vibid:2302000837297": 3,
+      "gas:candidate-vibid:2302000824415": 136
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783730&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783730&type=464",
@@ -12861,14 +12861,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 14,
-      "Востриков Егор Олегович": 1,
-      "Долиев Михаил Вячеславович": 2,
-      "Ковалёв Егор Викторович": 4,
-      "Никитина Наиля Зинуровна": 3,
-      "Огуль Леонид Анатольевич": 71,
-      "Родионов Сергей Леонидович": 1,
-      "Шеин Олег Васильевич": 19
+      "gas:candidate-vibid:2302000826854": 14,
+      "gas:candidate-vibid:2302000821738": 1,
+      "gas:candidate-vibid:2302000833686": 2,
+      "gas:candidate-vibid:2302000825752": 4,
+      "gas:candidate-vibid:2302000839430": 3,
+      "gas:candidate-vibid:2302000839216": 71,
+      "gas:candidate-vibid:2302000837297": 1,
+      "gas:candidate-vibid:2302000824415": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783730&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783730&type=464",
@@ -12919,14 +12919,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 145,
-      "Востриков Егор Олегович": 17,
-      "Долиев Михаил Вячеславович": 10,
-      "Ковалёв Егор Викторович": 26,
-      "Никитина Наиля Зинуровна": 16,
-      "Огуль Леонид Анатольевич": 297,
-      "Родионов Сергей Леонидович": 5,
-      "Шеин Олег Васильевич": 97
+      "gas:candidate-vibid:2302000826854": 145,
+      "gas:candidate-vibid:2302000821738": 17,
+      "gas:candidate-vibid:2302000833686": 10,
+      "gas:candidate-vibid:2302000825752": 26,
+      "gas:candidate-vibid:2302000839430": 16,
+      "gas:candidate-vibid:2302000839216": 297,
+      "gas:candidate-vibid:2302000837297": 5,
+      "gas:candidate-vibid:2302000824415": 97
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783730&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783730&type=464",
@@ -12977,14 +12977,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 28,
-      "Востриков Егор Олегович": 3,
-      "Долиев Михаил Вячеславович": 2,
-      "Ковалёв Егор Викторович": 3,
-      "Никитина Наиля Зинуровна": 4,
-      "Огуль Леонид Анатольевич": 50,
-      "Родионов Сергей Леонидович": 0,
-      "Шеин Олег Васильевич": 29
+      "gas:candidate-vibid:2302000826854": 28,
+      "gas:candidate-vibid:2302000821738": 3,
+      "gas:candidate-vibid:2302000833686": 2,
+      "gas:candidate-vibid:2302000825752": 3,
+      "gas:candidate-vibid:2302000839430": 4,
+      "gas:candidate-vibid:2302000839216": 50,
+      "gas:candidate-vibid:2302000837297": 0,
+      "gas:candidate-vibid:2302000824415": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783730&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783730&type=464",
@@ -13035,14 +13035,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 107,
-      "Востриков Егор Олегович": 11,
-      "Долиев Михаил Вячеславович": 3,
-      "Ковалёв Егор Викторович": 28,
-      "Никитина Наиля Зинуровна": 3,
-      "Огуль Леонид Анатольевич": 109,
-      "Родионов Сергей Леонидович": 3,
-      "Шеин Олег Васильевич": 56
+      "gas:candidate-vibid:2302000826854": 107,
+      "gas:candidate-vibid:2302000821738": 11,
+      "gas:candidate-vibid:2302000833686": 3,
+      "gas:candidate-vibid:2302000825752": 28,
+      "gas:candidate-vibid:2302000839430": 3,
+      "gas:candidate-vibid:2302000839216": 109,
+      "gas:candidate-vibid:2302000837297": 3,
+      "gas:candidate-vibid:2302000824415": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783730&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783730&type=464",
@@ -13093,14 +13093,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 4,
-      "Востриков Егор Олегович": 2,
-      "Долиев Михаил Вячеславович": 0,
-      "Ковалёв Егор Викторович": 0,
-      "Никитина Наиля Зинуровна": 2,
-      "Огуль Леонид Анатольевич": 18,
-      "Родионов Сергей Леонидович": 0,
-      "Шеин Олег Васильевич": 6
+      "gas:candidate-vibid:2302000826854": 4,
+      "gas:candidate-vibid:2302000821738": 2,
+      "gas:candidate-vibid:2302000833686": 0,
+      "gas:candidate-vibid:2302000825752": 0,
+      "gas:candidate-vibid:2302000839430": 2,
+      "gas:candidate-vibid:2302000839216": 18,
+      "gas:candidate-vibid:2302000837297": 0,
+      "gas:candidate-vibid:2302000824415": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783730&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783730&type=464",
@@ -13151,14 +13151,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 25,
-      "Востриков Егор Олегович": 10,
-      "Долиев Михаил Вячеславович": 1,
-      "Ковалёв Егор Викторович": 3,
-      "Никитина Наиля Зинуровна": 3,
-      "Огуль Леонид Анатольевич": 87,
-      "Родионов Сергей Леонидович": 0,
-      "Шеин Олег Васильевич": 36
+      "gas:candidate-vibid:2302000826854": 25,
+      "gas:candidate-vibid:2302000821738": 10,
+      "gas:candidate-vibid:2302000833686": 1,
+      "gas:candidate-vibid:2302000825752": 3,
+      "gas:candidate-vibid:2302000839430": 3,
+      "gas:candidate-vibid:2302000839216": 87,
+      "gas:candidate-vibid:2302000837297": 0,
+      "gas:candidate-vibid:2302000824415": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783730&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783730&type=464",
@@ -13209,14 +13209,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 59,
-      "Востриков Егор Олегович": 11,
-      "Долиев Михаил Вячеславович": 2,
-      "Ковалёв Егор Викторович": 17,
-      "Никитина Наиля Зинуровна": 21,
-      "Огуль Леонид Анатольевич": 170,
-      "Родионов Сергей Леонидович": 1,
-      "Шеин Олег Васильевич": 57
+      "gas:candidate-vibid:2302000826854": 59,
+      "gas:candidate-vibid:2302000821738": 11,
+      "gas:candidate-vibid:2302000833686": 2,
+      "gas:candidate-vibid:2302000825752": 17,
+      "gas:candidate-vibid:2302000839430": 21,
+      "gas:candidate-vibid:2302000839216": 170,
+      "gas:candidate-vibid:2302000837297": 1,
+      "gas:candidate-vibid:2302000824415": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783730&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783730&type=464",
@@ -13267,14 +13267,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 71,
-      "Востриков Егор Олегович": 12,
-      "Долиев Михаил Вячеславович": 3,
-      "Ковалёв Егор Викторович": 8,
-      "Никитина Наиля Зинуровна": 8,
-      "Огуль Леонид Анатольевич": 149,
-      "Родионов Сергей Леонидович": 2,
-      "Шеин Олег Васильевич": 65
+      "gas:candidate-vibid:2302000826854": 71,
+      "gas:candidate-vibid:2302000821738": 12,
+      "gas:candidate-vibid:2302000833686": 3,
+      "gas:candidate-vibid:2302000825752": 8,
+      "gas:candidate-vibid:2302000839430": 8,
+      "gas:candidate-vibid:2302000839216": 149,
+      "gas:candidate-vibid:2302000837297": 2,
+      "gas:candidate-vibid:2302000824415": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783730&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783730&type=464",
@@ -13325,14 +13325,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 130,
-      "Востриков Егор Олегович": 46,
-      "Долиев Михаил Вячеславович": 6,
-      "Ковалёв Егор Викторович": 24,
-      "Никитина Наиля Зинуровна": 52,
-      "Огуль Леонид Анатольевич": 437,
-      "Родионов Сергей Леонидович": 5,
-      "Шеин Олег Васильевич": 227
+      "gas:candidate-vibid:2302000826854": 130,
+      "gas:candidate-vibid:2302000821738": 46,
+      "gas:candidate-vibid:2302000833686": 6,
+      "gas:candidate-vibid:2302000825752": 24,
+      "gas:candidate-vibid:2302000839430": 52,
+      "gas:candidate-vibid:2302000839216": 437,
+      "gas:candidate-vibid:2302000837297": 5,
+      "gas:candidate-vibid:2302000824415": 227
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783730&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783730&type=464",
@@ -13383,14 +13383,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 121,
-      "Востриков Егор Олегович": 67,
-      "Долиев Михаил Вячеславович": 4,
-      "Ковалёв Егор Викторович": 23,
-      "Никитина Наиля Зинуровна": 48,
-      "Огуль Леонид Анатольевич": 435,
-      "Родионов Сергей Леонидович": 5,
-      "Шеин Олег Васильевич": 187
+      "gas:candidate-vibid:2302000826854": 121,
+      "gas:candidate-vibid:2302000821738": 67,
+      "gas:candidate-vibid:2302000833686": 4,
+      "gas:candidate-vibid:2302000825752": 23,
+      "gas:candidate-vibid:2302000839430": 48,
+      "gas:candidate-vibid:2302000839216": 435,
+      "gas:candidate-vibid:2302000837297": 5,
+      "gas:candidate-vibid:2302000824415": 187
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783730&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783730&type=464",
@@ -13441,14 +13441,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 117,
-      "Востриков Егор Олегович": 53,
-      "Долиев Михаил Вячеславович": 11,
-      "Ковалёв Егор Викторович": 19,
-      "Никитина Наиля Зинуровна": 39,
-      "Огуль Леонид Анатольевич": 482,
-      "Родионов Сергей Леонидович": 5,
-      "Шеин Олег Васильевич": 198
+      "gas:candidate-vibid:2302000826854": 117,
+      "gas:candidate-vibid:2302000821738": 53,
+      "gas:candidate-vibid:2302000833686": 11,
+      "gas:candidate-vibid:2302000825752": 19,
+      "gas:candidate-vibid:2302000839430": 39,
+      "gas:candidate-vibid:2302000839216": 482,
+      "gas:candidate-vibid:2302000837297": 5,
+      "gas:candidate-vibid:2302000824415": 198
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783730&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783730&type=464",
@@ -13499,14 +13499,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 55,
-      "Востриков Егор Олегович": 21,
-      "Долиев Михаил Вячеславович": 6,
-      "Ковалёв Егор Викторович": 10,
-      "Никитина Наиля Зинуровна": 18,
-      "Огуль Леонид Анатольевич": 152,
-      "Родионов Сергей Леонидович": 4,
-      "Шеин Олег Васильевич": 62
+      "gas:candidate-vibid:2302000826854": 55,
+      "gas:candidate-vibid:2302000821738": 21,
+      "gas:candidate-vibid:2302000833686": 6,
+      "gas:candidate-vibid:2302000825752": 10,
+      "gas:candidate-vibid:2302000839430": 18,
+      "gas:candidate-vibid:2302000839216": 152,
+      "gas:candidate-vibid:2302000837297": 4,
+      "gas:candidate-vibid:2302000824415": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783730&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783730&type=464",
@@ -13557,14 +13557,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 50,
-      "Востриков Егор Олегович": 14,
-      "Долиев Михаил Вячеславович": 2,
-      "Ковалёв Егор Викторович": 8,
-      "Никитина Наиля Зинуровна": 15,
-      "Огуль Леонид Анатольевич": 154,
-      "Родионов Сергей Леонидович": 2,
-      "Шеин Олег Васильевич": 50
+      "gas:candidate-vibid:2302000826854": 50,
+      "gas:candidate-vibid:2302000821738": 14,
+      "gas:candidate-vibid:2302000833686": 2,
+      "gas:candidate-vibid:2302000825752": 8,
+      "gas:candidate-vibid:2302000839430": 15,
+      "gas:candidate-vibid:2302000839216": 154,
+      "gas:candidate-vibid:2302000837297": 2,
+      "gas:candidate-vibid:2302000824415": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783730&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783730&type=464",
@@ -13615,14 +13615,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 11,
-      "Востриков Егор Олегович": 3,
-      "Долиев Михаил Вячеславович": 1,
-      "Ковалёв Егор Викторович": 2,
-      "Никитина Наиля Зинуровна": 1,
-      "Огуль Леонид Анатольевич": 44,
-      "Родионов Сергей Леонидович": 2,
-      "Шеин Олег Васильевич": 8
+      "gas:candidate-vibid:2302000826854": 11,
+      "gas:candidate-vibid:2302000821738": 3,
+      "gas:candidate-vibid:2302000833686": 1,
+      "gas:candidate-vibid:2302000825752": 2,
+      "gas:candidate-vibid:2302000839430": 1,
+      "gas:candidate-vibid:2302000839216": 44,
+      "gas:candidate-vibid:2302000837297": 2,
+      "gas:candidate-vibid:2302000824415": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783730&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783730&type=464",
@@ -13673,14 +13673,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 23,
-      "Востриков Егор Олегович": 13,
-      "Долиев Михаил Вячеславович": 0,
-      "Ковалёв Егор Викторович": 11,
-      "Никитина Наиля Зинуровна": 5,
-      "Огуль Леонид Анатольевич": 106,
-      "Родионов Сергей Леонидович": 6,
-      "Шеин Олег Васильевич": 76
+      "gas:candidate-vibid:2302000826854": 23,
+      "gas:candidate-vibid:2302000821738": 13,
+      "gas:candidate-vibid:2302000833686": 0,
+      "gas:candidate-vibid:2302000825752": 11,
+      "gas:candidate-vibid:2302000839430": 5,
+      "gas:candidate-vibid:2302000839216": 106,
+      "gas:candidate-vibid:2302000837297": 6,
+      "gas:candidate-vibid:2302000824415": 76
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783730&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783730&type=464",
@@ -13731,14 +13731,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 20,
-      "Востриков Егор Олегович": 15,
-      "Долиев Михаил Вячеславович": 1,
-      "Ковалёв Егор Викторович": 9,
-      "Никитина Наиля Зинуровна": 7,
-      "Огуль Леонид Анатольевич": 89,
-      "Родионов Сергей Леонидович": 2,
-      "Шеин Олег Васильевич": 37
+      "gas:candidate-vibid:2302000826854": 20,
+      "gas:candidate-vibid:2302000821738": 15,
+      "gas:candidate-vibid:2302000833686": 1,
+      "gas:candidate-vibid:2302000825752": 9,
+      "gas:candidate-vibid:2302000839430": 7,
+      "gas:candidate-vibid:2302000839216": 89,
+      "gas:candidate-vibid:2302000837297": 2,
+      "gas:candidate-vibid:2302000824415": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783730&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783730&type=464",
@@ -13789,14 +13789,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 42,
-      "Востриков Егор Олегович": 19,
-      "Долиев Михаил Вячеславович": 10,
-      "Ковалёв Егор Викторович": 6,
-      "Никитина Наиля Зинуровна": 12,
-      "Огуль Леонид Анатольевич": 186,
-      "Родионов Сергей Леонидович": 3,
-      "Шеин Олег Васильевич": 64
+      "gas:candidate-vibid:2302000826854": 42,
+      "gas:candidate-vibid:2302000821738": 19,
+      "gas:candidate-vibid:2302000833686": 10,
+      "gas:candidate-vibid:2302000825752": 6,
+      "gas:candidate-vibid:2302000839430": 12,
+      "gas:candidate-vibid:2302000839216": 186,
+      "gas:candidate-vibid:2302000837297": 3,
+      "gas:candidate-vibid:2302000824415": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783730&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783730&type=464",
@@ -13847,14 +13847,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 105,
-      "Востриков Егор Олегович": 53,
-      "Долиев Михаил Вячеславович": 6,
-      "Ковалёв Егор Викторович": 27,
-      "Никитина Наиля Зинуровна": 30,
-      "Огуль Леонид Анатольевич": 235,
-      "Родионов Сергей Леонидович": 3,
-      "Шеин Олег Васильевич": 126
+      "gas:candidate-vibid:2302000826854": 105,
+      "gas:candidate-vibid:2302000821738": 53,
+      "gas:candidate-vibid:2302000833686": 6,
+      "gas:candidate-vibid:2302000825752": 27,
+      "gas:candidate-vibid:2302000839430": 30,
+      "gas:candidate-vibid:2302000839216": 235,
+      "gas:candidate-vibid:2302000837297": 3,
+      "gas:candidate-vibid:2302000824415": 126
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783730&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783730&type=464",
@@ -13905,14 +13905,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 98,
-      "Востриков Егор Олегович": 37,
-      "Долиев Михаил Вячеславович": 7,
-      "Ковалёв Егор Викторович": 23,
-      "Никитина Наиля Зинуровна": 12,
-      "Огуль Леонид Анатольевич": 284,
-      "Родионов Сергей Леонидович": 6,
-      "Шеин Олег Васильевич": 133
+      "gas:candidate-vibid:2302000826854": 98,
+      "gas:candidate-vibid:2302000821738": 37,
+      "gas:candidate-vibid:2302000833686": 7,
+      "gas:candidate-vibid:2302000825752": 23,
+      "gas:candidate-vibid:2302000839430": 12,
+      "gas:candidate-vibid:2302000839216": 284,
+      "gas:candidate-vibid:2302000837297": 6,
+      "gas:candidate-vibid:2302000824415": 133
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783730&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783730&type=464",
@@ -13963,14 +13963,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 23,
-      "Востриков Егор Олегович": 10,
-      "Долиев Михаил Вячеславович": 2,
-      "Ковалёв Егор Викторович": 13,
-      "Никитина Наиля Зинуровна": 4,
-      "Огуль Леонид Анатольевич": 96,
-      "Родионов Сергей Леонидович": 4,
-      "Шеин Олег Васильевич": 58
+      "gas:candidate-vibid:2302000826854": 23,
+      "gas:candidate-vibid:2302000821738": 10,
+      "gas:candidate-vibid:2302000833686": 2,
+      "gas:candidate-vibid:2302000825752": 13,
+      "gas:candidate-vibid:2302000839430": 4,
+      "gas:candidate-vibid:2302000839216": 96,
+      "gas:candidate-vibid:2302000837297": 4,
+      "gas:candidate-vibid:2302000824415": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783730&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783730&type=464",
@@ -14021,14 +14021,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 38,
-      "Востриков Егор Олегович": 20,
-      "Долиев Михаил Вячеславович": 3,
-      "Ковалёв Егор Викторович": 9,
-      "Никитина Наиля Зинуровна": 4,
-      "Огуль Леонид Анатольевич": 134,
-      "Родионов Сергей Леонидович": 4,
-      "Шеин Олег Васильевич": 84
+      "gas:candidate-vibid:2302000826854": 38,
+      "gas:candidate-vibid:2302000821738": 20,
+      "gas:candidate-vibid:2302000833686": 3,
+      "gas:candidate-vibid:2302000825752": 9,
+      "gas:candidate-vibid:2302000839430": 4,
+      "gas:candidate-vibid:2302000839216": 134,
+      "gas:candidate-vibid:2302000837297": 4,
+      "gas:candidate-vibid:2302000824415": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783731&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783731&type=464",
@@ -14079,14 +14079,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 32,
-      "Востриков Егор Олегович": 67,
-      "Долиев Михаил Вячеславович": 6,
-      "Ковалёв Егор Викторович": 12,
-      "Никитина Наиля Зинуровна": 13,
-      "Огуль Леонид Анатольевич": 196,
-      "Родионов Сергей Леонидович": 8,
-      "Шеин Олег Васильевич": 301
+      "gas:candidate-vibid:2302000826854": 32,
+      "gas:candidate-vibid:2302000821738": 67,
+      "gas:candidate-vibid:2302000833686": 6,
+      "gas:candidate-vibid:2302000825752": 12,
+      "gas:candidate-vibid:2302000839430": 13,
+      "gas:candidate-vibid:2302000839216": 196,
+      "gas:candidate-vibid:2302000837297": 8,
+      "gas:candidate-vibid:2302000824415": 301
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783731&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783731&type=464",
@@ -14137,14 +14137,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 67,
-      "Востриков Егор Олегович": 44,
-      "Долиев Михаил Вячеславович": 5,
-      "Ковалёв Егор Викторович": 14,
-      "Никитина Наиля Зинуровна": 1,
-      "Огуль Леонид Анатольевич": 202,
-      "Родионов Сергей Леонидович": 6,
-      "Шеин Олег Васильевич": 310
+      "gas:candidate-vibid:2302000826854": 67,
+      "gas:candidate-vibid:2302000821738": 44,
+      "gas:candidate-vibid:2302000833686": 5,
+      "gas:candidate-vibid:2302000825752": 14,
+      "gas:candidate-vibid:2302000839430": 1,
+      "gas:candidate-vibid:2302000839216": 202,
+      "gas:candidate-vibid:2302000837297": 6,
+      "gas:candidate-vibid:2302000824415": 310
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783731&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783731&type=464",
@@ -14195,14 +14195,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 50,
-      "Востриков Егор Олегович": 56,
-      "Долиев Михаил Вячеславович": 7,
-      "Ковалёв Егор Викторович": 7,
-      "Никитина Наиля Зинуровна": 9,
-      "Огуль Леонид Анатольевич": 172,
-      "Родионов Сергей Леонидович": 7,
-      "Шеин Олег Васильевич": 211
+      "gas:candidate-vibid:2302000826854": 50,
+      "gas:candidate-vibid:2302000821738": 56,
+      "gas:candidate-vibid:2302000833686": 7,
+      "gas:candidate-vibid:2302000825752": 7,
+      "gas:candidate-vibid:2302000839430": 9,
+      "gas:candidate-vibid:2302000839216": 172,
+      "gas:candidate-vibid:2302000837297": 7,
+      "gas:candidate-vibid:2302000824415": 211
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783731&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783731&type=464",
@@ -14253,14 +14253,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 32,
-      "Востриков Егор Олегович": 36,
-      "Долиев Михаил Вячеславович": 2,
-      "Ковалёв Егор Викторович": 7,
-      "Никитина Наиля Зинуровна": 3,
-      "Огуль Леонид Анатольевич": 121,
-      "Родионов Сергей Леонидович": 4,
-      "Шеин Олег Васильевич": 110
+      "gas:candidate-vibid:2302000826854": 32,
+      "gas:candidate-vibid:2302000821738": 36,
+      "gas:candidate-vibid:2302000833686": 2,
+      "gas:candidate-vibid:2302000825752": 7,
+      "gas:candidate-vibid:2302000839430": 3,
+      "gas:candidate-vibid:2302000839216": 121,
+      "gas:candidate-vibid:2302000837297": 4,
+      "gas:candidate-vibid:2302000824415": 110
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783731&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783731&type=464",
@@ -14311,14 +14311,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 63,
-      "Востриков Егор Олегович": 73,
-      "Долиев Михаил Вячеславович": 7,
-      "Ковалёв Егор Викторович": 4,
-      "Никитина Наиля Зинуровна": 14,
-      "Огуль Леонид Анатольевич": 350,
-      "Родионов Сергей Леонидович": 12,
-      "Шеин Олег Васильевич": 421
+      "gas:candidate-vibid:2302000826854": 63,
+      "gas:candidate-vibid:2302000821738": 73,
+      "gas:candidate-vibid:2302000833686": 7,
+      "gas:candidate-vibid:2302000825752": 4,
+      "gas:candidate-vibid:2302000839430": 14,
+      "gas:candidate-vibid:2302000839216": 350,
+      "gas:candidate-vibid:2302000837297": 12,
+      "gas:candidate-vibid:2302000824415": 421
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783731&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783731&type=464",
@@ -14369,14 +14369,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 72,
-      "Востриков Егор Олегович": 56,
-      "Долиев Михаил Вячеславович": 9,
-      "Ковалёв Егор Викторович": 10,
-      "Никитина Наиля Зинуровна": 12,
-      "Огуль Леонид Анатольевич": 157,
-      "Родионов Сергей Леонидович": 9,
-      "Шеин Олег Васильевич": 381
+      "gas:candidate-vibid:2302000826854": 72,
+      "gas:candidate-vibid:2302000821738": 56,
+      "gas:candidate-vibid:2302000833686": 9,
+      "gas:candidate-vibid:2302000825752": 10,
+      "gas:candidate-vibid:2302000839430": 12,
+      "gas:candidate-vibid:2302000839216": 157,
+      "gas:candidate-vibid:2302000837297": 9,
+      "gas:candidate-vibid:2302000824415": 381
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783731&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783731&type=464",
@@ -14427,14 +14427,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 45,
-      "Востриков Егор Олегович": 30,
-      "Долиев Михаил Вячеславович": 3,
-      "Ковалёв Егор Викторович": 1,
-      "Никитина Наиля Зинуровна": 5,
-      "Огуль Леонид Анатольевич": 191,
-      "Родионов Сергей Леонидович": 4,
-      "Шеин Олег Васильевич": 162
+      "gas:candidate-vibid:2302000826854": 45,
+      "gas:candidate-vibid:2302000821738": 30,
+      "gas:candidate-vibid:2302000833686": 3,
+      "gas:candidate-vibid:2302000825752": 1,
+      "gas:candidate-vibid:2302000839430": 5,
+      "gas:candidate-vibid:2302000839216": 191,
+      "gas:candidate-vibid:2302000837297": 4,
+      "gas:candidate-vibid:2302000824415": 162
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783731&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783731&type=464",
@@ -14485,14 +14485,14 @@ export const duma_2016_uik_463_region_30_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Арефьев Николай Васильевич": 37,
-      "Востриков Егор Олегович": 30,
-      "Долиев Михаил Вячеславович": 3,
-      "Ковалёв Егор Викторович": 9,
-      "Никитина Наиля Зинуровна": 6,
-      "Огуль Леонид Анатольевич": 166,
-      "Родионов Сергей Леонидович": 4,
-      "Шеин Олег Васильевич": 151
+      "gas:candidate-vibid:2302000826854": 37,
+      "gas:candidate-vibid:2302000821738": 30,
+      "gas:candidate-vibid:2302000833686": 3,
+      "gas:candidate-vibid:2302000825752": 9,
+      "gas:candidate-vibid:2302000839430": 6,
+      "gas:candidate-vibid:2302000839216": 166,
+      "gas:candidate-vibid:2302000837297": 4,
+      "gas:candidate-vibid:2302000824415": 151
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/astrakhan?action=show&root=1000094&tvd=2302000783731&vrn=100100067795849&region=30&global=&sub_region=30&prver=0&pronetvd=null&vibid=2302000783731&type=464",

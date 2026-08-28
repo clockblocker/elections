@@ -43,15 +43,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 162,
-      "Волынец Ирина Владимировна": 35,
-      "Пимкин Юрий Александрович": 38,
-      "Подаруев Степан Владимирович": 4,
-      "Рубан Алексей Викторович": 10,
-      "Садилова Ирина Владимировна": 13,
-      "Сивцев Евгений Викторович": 56,
-      "Симонова Раиса Наурдыевна": 4,
-      "Сторожев Геннадий Алексеевич": 15
+      "gas:candidate-vibid:25920001388604": 162,
+      "gas:candidate-vibid:25920001391198": 35,
+      "gas:candidate-vibid:25920001385656": 38,
+      "gas:candidate-vibid:25920001389008": 4,
+      "gas:candidate-vibid:25920001388525": 10,
+      "gas:candidate-vibid:25920001388338": 13,
+      "gas:candidate-vibid:25920001364699": 56,
+      "gas:candidate-vibid:25920001385238": 4,
+      "gas:candidate-vibid:25920001389271": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184786&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184786&type=464",
@@ -102,15 +102,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 221,
-      "Волынец Ирина Владимировна": 44,
-      "Пимкин Юрий Александрович": 23,
-      "Подаруев Степан Владимирович": 6,
-      "Рубан Алексей Викторович": 9,
-      "Садилова Ирина Владимировна": 31,
-      "Сивцев Евгений Викторович": 71,
-      "Симонова Раиса Наурдыевна": 8,
-      "Сторожев Геннадий Алексеевич": 25
+      "gas:candidate-vibid:25920001388604": 221,
+      "gas:candidate-vibid:25920001391198": 44,
+      "gas:candidate-vibid:25920001385656": 23,
+      "gas:candidate-vibid:25920001389008": 6,
+      "gas:candidate-vibid:25920001388525": 9,
+      "gas:candidate-vibid:25920001388338": 31,
+      "gas:candidate-vibid:25920001364699": 71,
+      "gas:candidate-vibid:25920001385238": 8,
+      "gas:candidate-vibid:25920001389271": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184786&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184786&type=464",
@@ -161,15 +161,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 278,
-      "Волынец Ирина Владимировна": 67,
-      "Пимкин Юрий Александрович": 42,
-      "Подаруев Степан Владимирович": 5,
-      "Рубан Алексей Викторович": 15,
-      "Садилова Ирина Владимировна": 24,
-      "Сивцев Евгений Викторович": 82,
-      "Симонова Раиса Наурдыевна": 15,
-      "Сторожев Геннадий Алексеевич": 52
+      "gas:candidate-vibid:25920001388604": 278,
+      "gas:candidate-vibid:25920001391198": 67,
+      "gas:candidate-vibid:25920001385656": 42,
+      "gas:candidate-vibid:25920001389008": 5,
+      "gas:candidate-vibid:25920001388525": 15,
+      "gas:candidate-vibid:25920001388338": 24,
+      "gas:candidate-vibid:25920001364699": 82,
+      "gas:candidate-vibid:25920001385238": 15,
+      "gas:candidate-vibid:25920001389271": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184786&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184786&type=464",
@@ -220,15 +220,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 322,
-      "Волынец Ирина Владимировна": 45,
-      "Пимкин Юрий Александрович": 41,
-      "Подаруев Степан Владимирович": 8,
-      "Рубан Алексей Викторович": 17,
-      "Садилова Ирина Владимировна": 18,
-      "Сивцев Евгений Викторович": 83,
-      "Симонова Раиса Наурдыевна": 10,
-      "Сторожев Геннадий Алексеевич": 32
+      "gas:candidate-vibid:25920001388604": 322,
+      "gas:candidate-vibid:25920001391198": 45,
+      "gas:candidate-vibid:25920001385656": 41,
+      "gas:candidate-vibid:25920001389008": 8,
+      "gas:candidate-vibid:25920001388525": 17,
+      "gas:candidate-vibid:25920001388338": 18,
+      "gas:candidate-vibid:25920001364699": 83,
+      "gas:candidate-vibid:25920001385238": 10,
+      "gas:candidate-vibid:25920001389271": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184786&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184786&type=464",
@@ -279,15 +279,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 317,
-      "Волынец Ирина Владимировна": 69,
-      "Пимкин Юрий Александрович": 36,
-      "Подаруев Степан Владимирович": 7,
-      "Рубан Алексей Викторович": 16,
-      "Садилова Ирина Владимировна": 30,
-      "Сивцев Евгений Викторович": 115,
-      "Симонова Раиса Наурдыевна": 11,
-      "Сторожев Геннадий Алексеевич": 50
+      "gas:candidate-vibid:25920001388604": 317,
+      "gas:candidate-vibid:25920001391198": 69,
+      "gas:candidate-vibid:25920001385656": 36,
+      "gas:candidate-vibid:25920001389008": 7,
+      "gas:candidate-vibid:25920001388525": 16,
+      "gas:candidate-vibid:25920001388338": 30,
+      "gas:candidate-vibid:25920001364699": 115,
+      "gas:candidate-vibid:25920001385238": 11,
+      "gas:candidate-vibid:25920001389271": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184786&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184786&type=464",
@@ -338,15 +338,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 519,
-      "Волынец Ирина Владимировна": 101,
-      "Пимкин Юрий Александрович": 63,
-      "Подаруев Степан Владимирович": 14,
-      "Рубан Алексей Викторович": 29,
-      "Садилова Ирина Владимировна": 44,
-      "Сивцев Евгений Викторович": 137,
-      "Симонова Раиса Наурдыевна": 16,
-      "Сторожев Геннадий Алексеевич": 76
+      "gas:candidate-vibid:25920001388604": 519,
+      "gas:candidate-vibid:25920001391198": 101,
+      "gas:candidate-vibid:25920001385656": 63,
+      "gas:candidate-vibid:25920001389008": 14,
+      "gas:candidate-vibid:25920001388525": 29,
+      "gas:candidate-vibid:25920001388338": 44,
+      "gas:candidate-vibid:25920001364699": 137,
+      "gas:candidate-vibid:25920001385238": 16,
+      "gas:candidate-vibid:25920001389271": 76
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184786&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184786&type=464",
@@ -397,15 +397,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 252,
-      "Волынец Ирина Владимировна": 74,
-      "Пимкин Юрий Александрович": 34,
-      "Подаруев Степан Владимирович": 14,
-      "Рубан Алексей Викторович": 10,
-      "Садилова Ирина Владимировна": 26,
-      "Сивцев Евгений Викторович": 85,
-      "Симонова Раиса Наурдыевна": 9,
-      "Сторожев Геннадий Алексеевич": 38
+      "gas:candidate-vibid:25920001388604": 252,
+      "gas:candidate-vibid:25920001391198": 74,
+      "gas:candidate-vibid:25920001385656": 34,
+      "gas:candidate-vibid:25920001389008": 14,
+      "gas:candidate-vibid:25920001388525": 10,
+      "gas:candidate-vibid:25920001388338": 26,
+      "gas:candidate-vibid:25920001364699": 85,
+      "gas:candidate-vibid:25920001385238": 9,
+      "gas:candidate-vibid:25920001389271": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184786&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184786&type=464",
@@ -456,15 +456,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 418,
-      "Волынец Ирина Владимировна": 100,
-      "Пимкин Юрий Александрович": 47,
-      "Подаруев Степан Владимирович": 9,
-      "Рубан Алексей Викторович": 17,
-      "Садилова Ирина Владимировна": 33,
-      "Сивцев Евгений Викторович": 121,
-      "Симонова Раиса Наурдыевна": 15,
-      "Сторожев Геннадий Алексеевич": 83
+      "gas:candidate-vibid:25920001388604": 418,
+      "gas:candidate-vibid:25920001391198": 100,
+      "gas:candidate-vibid:25920001385656": 47,
+      "gas:candidate-vibid:25920001389008": 9,
+      "gas:candidate-vibid:25920001388525": 17,
+      "gas:candidate-vibid:25920001388338": 33,
+      "gas:candidate-vibid:25920001364699": 121,
+      "gas:candidate-vibid:25920001385238": 15,
+      "gas:candidate-vibid:25920001389271": 83
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184786&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184786&type=464",
@@ -515,15 +515,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 80,
-      "Волынец Ирина Владимировна": 13,
-      "Пимкин Юрий Александрович": 14,
-      "Подаруев Степан Владимирович": 3,
-      "Рубан Алексей Викторович": 3,
-      "Садилова Ирина Владимировна": 4,
-      "Сивцев Евгений Викторович": 33,
-      "Симонова Раиса Наурдыевна": 1,
-      "Сторожев Геннадий Алексеевич": 4
+      "gas:candidate-vibid:25920001388604": 80,
+      "gas:candidate-vibid:25920001391198": 13,
+      "gas:candidate-vibid:25920001385656": 14,
+      "gas:candidate-vibid:25920001389008": 3,
+      "gas:candidate-vibid:25920001388525": 3,
+      "gas:candidate-vibid:25920001388338": 4,
+      "gas:candidate-vibid:25920001364699": 33,
+      "gas:candidate-vibid:25920001385238": 1,
+      "gas:candidate-vibid:25920001389271": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184786&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184786&type=464",
@@ -574,15 +574,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 265,
-      "Волынец Ирина Владимировна": 59,
-      "Пимкин Юрий Александрович": 47,
-      "Подаруев Степан Владимирович": 4,
-      "Рубан Алексей Викторович": 9,
-      "Садилова Ирина Владимировна": 26,
-      "Сивцев Евгений Викторович": 85,
-      "Симонова Раиса Наурдыевна": 9,
-      "Сторожев Геннадий Алексеевич": 47
+      "gas:candidate-vibid:25920001388604": 265,
+      "gas:candidate-vibid:25920001391198": 59,
+      "gas:candidate-vibid:25920001385656": 47,
+      "gas:candidate-vibid:25920001389008": 4,
+      "gas:candidate-vibid:25920001388525": 9,
+      "gas:candidate-vibid:25920001388338": 26,
+      "gas:candidate-vibid:25920001364699": 85,
+      "gas:candidate-vibid:25920001385238": 9,
+      "gas:candidate-vibid:25920001389271": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184786&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184786&type=464",
@@ -633,15 +633,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 314,
-      "Волынец Ирина Владимировна": 80,
-      "Пимкин Юрий Александрович": 52,
-      "Подаруев Степан Владимирович": 9,
-      "Рубан Алексей Викторович": 15,
-      "Садилова Ирина Владимировна": 29,
-      "Сивцев Евгений Викторович": 128,
-      "Симонова Раиса Наурдыевна": 17,
-      "Сторожев Геннадий Алексеевич": 63
+      "gas:candidate-vibid:25920001388604": 314,
+      "gas:candidate-vibid:25920001391198": 80,
+      "gas:candidate-vibid:25920001385656": 52,
+      "gas:candidate-vibid:25920001389008": 9,
+      "gas:candidate-vibid:25920001388525": 15,
+      "gas:candidate-vibid:25920001388338": 29,
+      "gas:candidate-vibid:25920001364699": 128,
+      "gas:candidate-vibid:25920001385238": 17,
+      "gas:candidate-vibid:25920001389271": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184786&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184786&type=464",
@@ -692,15 +692,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 443,
-      "Волынец Ирина Владимировна": 77,
-      "Пимкин Юрий Александрович": 57,
-      "Подаруев Степан Владимирович": 9,
-      "Рубан Алексей Викторович": 12,
-      "Садилова Ирина Владимировна": 17,
-      "Сивцев Евгений Викторович": 134,
-      "Симонова Раиса Наурдыевна": 15,
-      "Сторожев Геннадий Алексеевич": 62
+      "gas:candidate-vibid:25920001388604": 443,
+      "gas:candidate-vibid:25920001391198": 77,
+      "gas:candidate-vibid:25920001385656": 57,
+      "gas:candidate-vibid:25920001389008": 9,
+      "gas:candidate-vibid:25920001388525": 12,
+      "gas:candidate-vibid:25920001388338": 17,
+      "gas:candidate-vibid:25920001364699": 134,
+      "gas:candidate-vibid:25920001385238": 15,
+      "gas:candidate-vibid:25920001389271": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184786&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184786&type=464",
@@ -751,15 +751,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 71,
-      "Волынец Ирина Владимировна": 16,
-      "Пимкин Юрий Александрович": 7,
-      "Подаруев Степан Владимирович": 0,
-      "Рубан Алексей Викторович": 1,
-      "Садилова Ирина Владимировна": 6,
-      "Сивцев Евгений Викторович": 20,
-      "Симонова Раиса Наурдыевна": 3,
-      "Сторожев Геннадий Алексеевич": 5
+      "gas:candidate-vibid:25920001388604": 71,
+      "gas:candidate-vibid:25920001391198": 16,
+      "gas:candidate-vibid:25920001385656": 7,
+      "gas:candidate-vibid:25920001389008": 0,
+      "gas:candidate-vibid:25920001388525": 1,
+      "gas:candidate-vibid:25920001388338": 6,
+      "gas:candidate-vibid:25920001364699": 20,
+      "gas:candidate-vibid:25920001385238": 3,
+      "gas:candidate-vibid:25920001389271": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184786&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184786&type=464",
@@ -810,15 +810,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 112,
-      "Волынец Ирина Владимировна": 23,
-      "Пимкин Юрий Александрович": 18,
-      "Подаруев Степан Владимирович": 2,
-      "Рубан Алексей Викторович": 7,
-      "Садилова Ирина Владимировна": 8,
-      "Сивцев Евгений Викторович": 38,
-      "Симонова Раиса Наурдыевна": 3,
-      "Сторожев Геннадий Алексеевич": 21
+      "gas:candidate-vibid:25920001388604": 112,
+      "gas:candidate-vibid:25920001391198": 23,
+      "gas:candidate-vibid:25920001385656": 18,
+      "gas:candidate-vibid:25920001389008": 2,
+      "gas:candidate-vibid:25920001388525": 7,
+      "gas:candidate-vibid:25920001388338": 8,
+      "gas:candidate-vibid:25920001364699": 38,
+      "gas:candidate-vibid:25920001385238": 3,
+      "gas:candidate-vibid:25920001389271": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184786&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184786&type=464",
@@ -869,15 +869,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 386,
-      "Волынец Ирина Владимировна": 62,
-      "Пимкин Юрий Александрович": 46,
-      "Подаруев Степан Владимирович": 8,
-      "Рубан Алексей Викторович": 6,
-      "Садилова Ирина Владимировна": 18,
-      "Сивцев Евгений Викторович": 83,
-      "Симонова Раиса Наурдыевна": 12,
-      "Сторожев Геннадий Алексеевич": 38
+      "gas:candidate-vibid:25920001388604": 386,
+      "gas:candidate-vibid:25920001391198": 62,
+      "gas:candidate-vibid:25920001385656": 46,
+      "gas:candidate-vibid:25920001389008": 8,
+      "gas:candidate-vibid:25920001388525": 6,
+      "gas:candidate-vibid:25920001388338": 18,
+      "gas:candidate-vibid:25920001364699": 83,
+      "gas:candidate-vibid:25920001385238": 12,
+      "gas:candidate-vibid:25920001389271": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184786&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184786&type=464",
@@ -928,15 +928,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 40,
-      "Волынец Ирина Владимировна": 1,
-      "Пимкин Юрий Александрович": 9,
-      "Подаруев Степан Владимирович": 0,
-      "Рубан Алексей Викторович": 2,
-      "Садилова Ирина Владимировна": 1,
-      "Сивцев Евгений Викторович": 11,
-      "Симонова Раиса Наурдыевна": 2,
-      "Сторожев Геннадий Алексеевич": 9
+      "gas:candidate-vibid:25920001388604": 40,
+      "gas:candidate-vibid:25920001391198": 1,
+      "gas:candidate-vibid:25920001385656": 9,
+      "gas:candidate-vibid:25920001389008": 0,
+      "gas:candidate-vibid:25920001388525": 2,
+      "gas:candidate-vibid:25920001388338": 1,
+      "gas:candidate-vibid:25920001364699": 11,
+      "gas:candidate-vibid:25920001385238": 2,
+      "gas:candidate-vibid:25920001389271": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184786&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184786&type=464",
@@ -987,15 +987,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 79,
-      "Волынец Ирина Владимировна": 12,
-      "Пимкин Юрий Александрович": 9,
-      "Подаруев Степан Владимирович": 4,
-      "Рубан Алексей Викторович": 3,
-      "Садилова Ирина Владимировна": 0,
-      "Сивцев Евгений Викторович": 22,
-      "Симонова Раиса Наурдыевна": 3,
-      "Сторожев Геннадий Алексеевич": 12
+      "gas:candidate-vibid:25920001388604": 79,
+      "gas:candidate-vibid:25920001391198": 12,
+      "gas:candidate-vibid:25920001385656": 9,
+      "gas:candidate-vibid:25920001389008": 4,
+      "gas:candidate-vibid:25920001388525": 3,
+      "gas:candidate-vibid:25920001388338": 0,
+      "gas:candidate-vibid:25920001364699": 22,
+      "gas:candidate-vibid:25920001385238": 3,
+      "gas:candidate-vibid:25920001389271": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184786&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184786&type=464",
@@ -1046,15 +1046,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 49,
-      "Волынец Ирина Владимировна": 7,
-      "Пимкин Юрий Александрович": 9,
-      "Подаруев Степан Владимирович": 2,
-      "Рубан Алексей Викторович": 1,
-      "Садилова Ирина Владимировна": 2,
-      "Сивцев Евгений Викторович": 15,
-      "Симонова Раиса Наурдыевна": 0,
-      "Сторожев Геннадий Алексеевич": 7
+      "gas:candidate-vibid:25920001388604": 49,
+      "gas:candidate-vibid:25920001391198": 7,
+      "gas:candidate-vibid:25920001385656": 9,
+      "gas:candidate-vibid:25920001389008": 2,
+      "gas:candidate-vibid:25920001388525": 1,
+      "gas:candidate-vibid:25920001388338": 2,
+      "gas:candidate-vibid:25920001364699": 15,
+      "gas:candidate-vibid:25920001385238": 0,
+      "gas:candidate-vibid:25920001389271": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184786&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184786&type=464",
@@ -1105,15 +1105,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 15,
-      "Волынец Ирина Владимировна": 2,
-      "Пимкин Юрий Александрович": 4,
-      "Подаруев Степан Владимирович": 1,
-      "Рубан Алексей Викторович": 1,
-      "Садилова Ирина Владимировна": 2,
-      "Сивцев Евгений Викторович": 3,
-      "Симонова Раиса Наурдыевна": 0,
-      "Сторожев Геннадий Алексеевич": 2
+      "gas:candidate-vibid:25920001388604": 15,
+      "gas:candidate-vibid:25920001391198": 2,
+      "gas:candidate-vibid:25920001385656": 4,
+      "gas:candidate-vibid:25920001389008": 1,
+      "gas:candidate-vibid:25920001388525": 1,
+      "gas:candidate-vibid:25920001388338": 2,
+      "gas:candidate-vibid:25920001364699": 3,
+      "gas:candidate-vibid:25920001385238": 0,
+      "gas:candidate-vibid:25920001389271": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184786&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184786&type=464",
@@ -1164,15 +1164,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 20,
-      "Волынец Ирина Владимировна": 6,
-      "Пимкин Юрий Александрович": 0,
-      "Подаруев Степан Владимирович": 2,
-      "Рубан Алексей Викторович": 2,
-      "Садилова Ирина Владимировна": 1,
-      "Сивцев Евгений Викторович": 3,
-      "Симонова Раиса Наурдыевна": 0,
-      "Сторожев Геннадий Алексеевич": 3
+      "gas:candidate-vibid:25920001388604": 20,
+      "gas:candidate-vibid:25920001391198": 6,
+      "gas:candidate-vibid:25920001385656": 0,
+      "gas:candidate-vibid:25920001389008": 2,
+      "gas:candidate-vibid:25920001388525": 2,
+      "gas:candidate-vibid:25920001388338": 1,
+      "gas:candidate-vibid:25920001364699": 3,
+      "gas:candidate-vibid:25920001385238": 0,
+      "gas:candidate-vibid:25920001389271": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184786&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184786&type=464",
@@ -1223,15 +1223,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 149,
-      "Волынец Ирина Владимировна": 44,
-      "Пимкин Юрий Александрович": 23,
-      "Подаруев Степан Владимирович": 3,
-      "Рубан Алексей Викторович": 6,
-      "Садилова Ирина Владимировна": 8,
-      "Сивцев Евгений Викторович": 54,
-      "Симонова Раиса Наурдыевна": 10,
-      "Сторожев Геннадий Алексеевич": 17
+      "gas:candidate-vibid:25920001388604": 149,
+      "gas:candidate-vibid:25920001391198": 44,
+      "gas:candidate-vibid:25920001385656": 23,
+      "gas:candidate-vibid:25920001389008": 3,
+      "gas:candidate-vibid:25920001388525": 6,
+      "gas:candidate-vibid:25920001388338": 8,
+      "gas:candidate-vibid:25920001364699": 54,
+      "gas:candidate-vibid:25920001385238": 10,
+      "gas:candidate-vibid:25920001389271": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184786&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184786&type=464",
@@ -1282,15 +1282,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 52,
-      "Волынец Ирина Владимировна": 1,
-      "Пимкин Юрий Александрович": 10,
-      "Подаруев Степан Владимирович": 2,
-      "Рубан Алексей Викторович": 3,
-      "Садилова Ирина Владимировна": 2,
-      "Сивцев Евгений Викторович": 10,
-      "Симонова Раиса Наурдыевна": 5,
-      "Сторожев Геннадий Алексеевич": 4
+      "gas:candidate-vibid:25920001388604": 52,
+      "gas:candidate-vibid:25920001391198": 1,
+      "gas:candidate-vibid:25920001385656": 10,
+      "gas:candidate-vibid:25920001389008": 2,
+      "gas:candidate-vibid:25920001388525": 3,
+      "gas:candidate-vibid:25920001388338": 2,
+      "gas:candidate-vibid:25920001364699": 10,
+      "gas:candidate-vibid:25920001385238": 5,
+      "gas:candidate-vibid:25920001389271": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184786&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184786&type=464",
@@ -1341,15 +1341,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 173,
-      "Волынец Ирина Владимировна": 55,
-      "Пимкин Юрий Александрович": 28,
-      "Подаруев Степан Владимирович": 8,
-      "Рубан Алексей Викторович": 5,
-      "Садилова Ирина Владимировна": 8,
-      "Сивцев Евгений Викторович": 85,
-      "Симонова Раиса Наурдыевна": 5,
-      "Сторожев Геннадий Алексеевич": 50
+      "gas:candidate-vibid:25920001388604": 173,
+      "gas:candidate-vibid:25920001391198": 55,
+      "gas:candidate-vibid:25920001385656": 28,
+      "gas:candidate-vibid:25920001389008": 8,
+      "gas:candidate-vibid:25920001388525": 5,
+      "gas:candidate-vibid:25920001388338": 8,
+      "gas:candidate-vibid:25920001364699": 85,
+      "gas:candidate-vibid:25920001385238": 5,
+      "gas:candidate-vibid:25920001389271": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184787&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184787&type=464",
@@ -1400,15 +1400,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 213,
-      "Волынец Ирина Владимировна": 44,
-      "Пимкин Юрий Александрович": 26,
-      "Подаруев Степан Владимирович": 3,
-      "Рубан Алексей Викторович": 7,
-      "Садилова Ирина Владимировна": 6,
-      "Сивцев Евгений Викторович": 72,
-      "Симонова Раиса Наурдыевна": 11,
-      "Сторожев Геннадий Алексеевич": 48
+      "gas:candidate-vibid:25920001388604": 213,
+      "gas:candidate-vibid:25920001391198": 44,
+      "gas:candidate-vibid:25920001385656": 26,
+      "gas:candidate-vibid:25920001389008": 3,
+      "gas:candidate-vibid:25920001388525": 7,
+      "gas:candidate-vibid:25920001388338": 6,
+      "gas:candidate-vibid:25920001364699": 72,
+      "gas:candidate-vibid:25920001385238": 11,
+      "gas:candidate-vibid:25920001389271": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184787&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184787&type=464",
@@ -1459,15 +1459,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 262,
-      "Волынец Ирина Владимировна": 64,
-      "Пимкин Юрий Александрович": 25,
-      "Подаруев Степан Владимирович": 3,
-      "Рубан Алексей Викторович": 5,
-      "Садилова Ирина Владимировна": 12,
-      "Сивцев Евгений Викторович": 89,
-      "Симонова Раиса Наурдыевна": 8,
-      "Сторожев Геннадий Алексеевич": 31
+      "gas:candidate-vibid:25920001388604": 262,
+      "gas:candidate-vibid:25920001391198": 64,
+      "gas:candidate-vibid:25920001385656": 25,
+      "gas:candidate-vibid:25920001389008": 3,
+      "gas:candidate-vibid:25920001388525": 5,
+      "gas:candidate-vibid:25920001388338": 12,
+      "gas:candidate-vibid:25920001364699": 89,
+      "gas:candidate-vibid:25920001385238": 8,
+      "gas:candidate-vibid:25920001389271": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184787&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184787&type=464",
@@ -1518,15 +1518,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 100,
-      "Волынец Ирина Владимировна": 30,
-      "Пимкин Юрий Александрович": 15,
-      "Подаруев Степан Владимирович": 5,
-      "Рубан Алексей Викторович": 3,
-      "Садилова Ирина Владимировна": 4,
-      "Сивцев Евгений Викторович": 40,
-      "Симонова Раиса Наурдыевна": 5,
-      "Сторожев Геннадий Алексеевич": 25
+      "gas:candidate-vibid:25920001388604": 100,
+      "gas:candidate-vibid:25920001391198": 30,
+      "gas:candidate-vibid:25920001385656": 15,
+      "gas:candidate-vibid:25920001389008": 5,
+      "gas:candidate-vibid:25920001388525": 3,
+      "gas:candidate-vibid:25920001388338": 4,
+      "gas:candidate-vibid:25920001364699": 40,
+      "gas:candidate-vibid:25920001385238": 5,
+      "gas:candidate-vibid:25920001389271": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184787&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184787&type=464",
@@ -1577,15 +1577,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 109,
-      "Волынец Ирина Владимировна": 18,
-      "Пимкин Юрий Александрович": 17,
-      "Подаруев Степан Владимирович": 4,
-      "Рубан Алексей Викторович": 4,
-      "Садилова Ирина Владимировна": 8,
-      "Сивцев Евгений Викторович": 33,
-      "Симонова Раиса Наурдыевна": 6,
-      "Сторожев Геннадий Алексеевич": 16
+      "gas:candidate-vibid:25920001388604": 109,
+      "gas:candidate-vibid:25920001391198": 18,
+      "gas:candidate-vibid:25920001385656": 17,
+      "gas:candidate-vibid:25920001389008": 4,
+      "gas:candidate-vibid:25920001388525": 4,
+      "gas:candidate-vibid:25920001388338": 8,
+      "gas:candidate-vibid:25920001364699": 33,
+      "gas:candidate-vibid:25920001385238": 6,
+      "gas:candidate-vibid:25920001389271": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184787&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184787&type=464",
@@ -1636,15 +1636,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 128,
-      "Волынец Ирина Владимировна": 29,
-      "Пимкин Юрий Александрович": 9,
-      "Подаруев Степан Владимирович": 4,
-      "Рубан Алексей Викторович": 5,
-      "Садилова Ирина Владимировна": 8,
-      "Сивцев Евгений Викторович": 40,
-      "Симонова Раиса Наурдыевна": 4,
-      "Сторожев Геннадий Алексеевич": 10
+      "gas:candidate-vibid:25920001388604": 128,
+      "gas:candidate-vibid:25920001391198": 29,
+      "gas:candidate-vibid:25920001385656": 9,
+      "gas:candidate-vibid:25920001389008": 4,
+      "gas:candidate-vibid:25920001388525": 5,
+      "gas:candidate-vibid:25920001388338": 8,
+      "gas:candidate-vibid:25920001364699": 40,
+      "gas:candidate-vibid:25920001385238": 4,
+      "gas:candidate-vibid:25920001389271": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184787&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184787&type=464",
@@ -1695,15 +1695,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 233,
-      "Волынец Ирина Владимировна": 72,
-      "Пимкин Юрий Александрович": 18,
-      "Подаруев Степан Владимирович": 5,
-      "Рубан Алексей Викторович": 9,
-      "Садилова Ирина Владимировна": 10,
-      "Сивцев Евгений Викторович": 42,
-      "Симонова Раиса Наурдыевна": 5,
-      "Сторожев Геннадий Алексеевич": 43
+      "gas:candidate-vibid:25920001388604": 233,
+      "gas:candidate-vibid:25920001391198": 72,
+      "gas:candidate-vibid:25920001385656": 18,
+      "gas:candidate-vibid:25920001389008": 5,
+      "gas:candidate-vibid:25920001388525": 9,
+      "gas:candidate-vibid:25920001388338": 10,
+      "gas:candidate-vibid:25920001364699": 42,
+      "gas:candidate-vibid:25920001385238": 5,
+      "gas:candidate-vibid:25920001389271": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184787&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184787&type=464",
@@ -1754,15 +1754,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 127,
-      "Волынец Ирина Владимировна": 25,
-      "Пимкин Юрий Александрович": 17,
-      "Подаруев Степан Владимирович": 9,
-      "Рубан Алексей Викторович": 3,
-      "Садилова Ирина Владимировна": 5,
-      "Сивцев Евгений Викторович": 38,
-      "Симонова Раиса Наурдыевна": 2,
-      "Сторожев Геннадий Алексеевич": 17
+      "gas:candidate-vibid:25920001388604": 127,
+      "gas:candidate-vibid:25920001391198": 25,
+      "gas:candidate-vibid:25920001385656": 17,
+      "gas:candidate-vibid:25920001389008": 9,
+      "gas:candidate-vibid:25920001388525": 3,
+      "gas:candidate-vibid:25920001388338": 5,
+      "gas:candidate-vibid:25920001364699": 38,
+      "gas:candidate-vibid:25920001385238": 2,
+      "gas:candidate-vibid:25920001389271": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184787&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184787&type=464",
@@ -1813,15 +1813,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 236,
-      "Волынец Ирина Владимировна": 67,
-      "Пимкин Юрий Александрович": 30,
-      "Подаруев Степан Владимирович": 3,
-      "Рубан Алексей Викторович": 11,
-      "Садилова Ирина Владимировна": 16,
-      "Сивцев Евгений Викторович": 75,
-      "Симонова Раиса Наурдыевна": 13,
-      "Сторожев Геннадий Алексеевич": 52
+      "gas:candidate-vibid:25920001388604": 236,
+      "gas:candidate-vibid:25920001391198": 67,
+      "gas:candidate-vibid:25920001385656": 30,
+      "gas:candidate-vibid:25920001389008": 3,
+      "gas:candidate-vibid:25920001388525": 11,
+      "gas:candidate-vibid:25920001388338": 16,
+      "gas:candidate-vibid:25920001364699": 75,
+      "gas:candidate-vibid:25920001385238": 13,
+      "gas:candidate-vibid:25920001389271": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184787&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184787&type=464",
@@ -1872,15 +1872,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 298,
-      "Волынец Ирина Владимировна": 130,
-      "Пимкин Юрий Александрович": 50,
-      "Подаруев Степан Владимирович": 14,
-      "Рубан Алексей Викторович": 11,
-      "Садилова Ирина Владимировна": 20,
-      "Сивцев Евгений Викторович": 83,
-      "Симонова Раиса Наурдыевна": 10,
-      "Сторожев Геннадий Алексеевич": 90
+      "gas:candidate-vibid:25920001388604": 298,
+      "gas:candidate-vibid:25920001391198": 130,
+      "gas:candidate-vibid:25920001385656": 50,
+      "gas:candidate-vibid:25920001389008": 14,
+      "gas:candidate-vibid:25920001388525": 11,
+      "gas:candidate-vibid:25920001388338": 20,
+      "gas:candidate-vibid:25920001364699": 83,
+      "gas:candidate-vibid:25920001385238": 10,
+      "gas:candidate-vibid:25920001389271": 90
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184787&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184787&type=464",
@@ -1931,15 +1931,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 265,
-      "Волынец Ирина Владимировна": 99,
-      "Пимкин Юрий Александрович": 35,
-      "Подаруев Степан Владимирович": 4,
-      "Рубан Алексей Викторович": 12,
-      "Садилова Ирина Владимировна": 24,
-      "Сивцев Евгений Викторович": 83,
-      "Симонова Раиса Наурдыевна": 8,
-      "Сторожев Геннадий Алексеевич": 58
+      "gas:candidate-vibid:25920001388604": 265,
+      "gas:candidate-vibid:25920001391198": 99,
+      "gas:candidate-vibid:25920001385656": 35,
+      "gas:candidate-vibid:25920001389008": 4,
+      "gas:candidate-vibid:25920001388525": 12,
+      "gas:candidate-vibid:25920001388338": 24,
+      "gas:candidate-vibid:25920001364699": 83,
+      "gas:candidate-vibid:25920001385238": 8,
+      "gas:candidate-vibid:25920001389271": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184787&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184787&type=464",
@@ -1990,15 +1990,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 316,
-      "Волынец Ирина Владимировна": 72,
-      "Пимкин Юрий Александрович": 30,
-      "Подаруев Степан Владимирович": 11,
-      "Рубан Алексей Викторович": 8,
-      "Садилова Ирина Владимировна": 15,
-      "Сивцев Евгений Викторович": 81,
-      "Симонова Раиса Наурдыевна": 14,
-      "Сторожев Геннадий Алексеевич": 67
+      "gas:candidate-vibid:25920001388604": 316,
+      "gas:candidate-vibid:25920001391198": 72,
+      "gas:candidate-vibid:25920001385656": 30,
+      "gas:candidate-vibid:25920001389008": 11,
+      "gas:candidate-vibid:25920001388525": 8,
+      "gas:candidate-vibid:25920001388338": 15,
+      "gas:candidate-vibid:25920001364699": 81,
+      "gas:candidate-vibid:25920001385238": 14,
+      "gas:candidate-vibid:25920001389271": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184787&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184787&type=464",
@@ -2049,15 +2049,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 322,
-      "Волынец Ирина Владимировна": 87,
-      "Пимкин Юрий Александрович": 43,
-      "Подаруев Степан Владимирович": 7,
-      "Рубан Алексей Викторович": 7,
-      "Садилова Ирина Владимировна": 20,
-      "Сивцев Евгений Викторович": 87,
-      "Симонова Раиса Наурдыевна": 8,
-      "Сторожев Геннадий Алексеевич": 61
+      "gas:candidate-vibid:25920001388604": 322,
+      "gas:candidate-vibid:25920001391198": 87,
+      "gas:candidate-vibid:25920001385656": 43,
+      "gas:candidate-vibid:25920001389008": 7,
+      "gas:candidate-vibid:25920001388525": 7,
+      "gas:candidate-vibid:25920001388338": 20,
+      "gas:candidate-vibid:25920001364699": 87,
+      "gas:candidate-vibid:25920001385238": 8,
+      "gas:candidate-vibid:25920001389271": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184787&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184787&type=464",
@@ -2108,15 +2108,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 397,
-      "Волынец Ирина Владимировна": 120,
-      "Пимкин Юрий Александрович": 46,
-      "Подаруев Степан Владимирович": 16,
-      "Рубан Алексей Викторович": 8,
-      "Садилова Ирина Владимировна": 45,
-      "Сивцев Евгений Викторович": 119,
-      "Симонова Раиса Наурдыевна": 15,
-      "Сторожев Геннадий Алексеевич": 85
+      "gas:candidate-vibid:25920001388604": 397,
+      "gas:candidate-vibid:25920001391198": 120,
+      "gas:candidate-vibid:25920001385656": 46,
+      "gas:candidate-vibid:25920001389008": 16,
+      "gas:candidate-vibid:25920001388525": 8,
+      "gas:candidate-vibid:25920001388338": 45,
+      "gas:candidate-vibid:25920001364699": 119,
+      "gas:candidate-vibid:25920001385238": 15,
+      "gas:candidate-vibid:25920001389271": 85
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184787&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184787&type=464",
@@ -2167,15 +2167,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 405,
-      "Волынец Ирина Владимировна": 108,
-      "Пимкин Юрий Александрович": 49,
-      "Подаруев Степан Владимирович": 6,
-      "Рубан Алексей Викторович": 11,
-      "Садилова Ирина Владимировна": 16,
-      "Сивцев Евгений Викторович": 110,
-      "Симонова Раиса Наурдыевна": 10,
-      "Сторожев Геннадий Алексеевич": 86
+      "gas:candidate-vibid:25920001388604": 405,
+      "gas:candidate-vibid:25920001391198": 108,
+      "gas:candidate-vibid:25920001385656": 49,
+      "gas:candidate-vibid:25920001389008": 6,
+      "gas:candidate-vibid:25920001388525": 11,
+      "gas:candidate-vibid:25920001388338": 16,
+      "gas:candidate-vibid:25920001364699": 110,
+      "gas:candidate-vibid:25920001385238": 10,
+      "gas:candidate-vibid:25920001389271": 86
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184787&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184787&type=464",
@@ -2226,15 +2226,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 220,
-      "Волынец Ирина Владимировна": 67,
-      "Пимкин Юрий Александрович": 29,
-      "Подаруев Степан Владимирович": 7,
-      "Рубан Алексей Викторович": 4,
-      "Садилова Ирина Владимировна": 13,
-      "Сивцев Евгений Викторович": 53,
-      "Симонова Раиса Наурдыевна": 7,
-      "Сторожев Геннадий Алексеевич": 45
+      "gas:candidate-vibid:25920001388604": 220,
+      "gas:candidate-vibid:25920001391198": 67,
+      "gas:candidate-vibid:25920001385656": 29,
+      "gas:candidate-vibid:25920001389008": 7,
+      "gas:candidate-vibid:25920001388525": 4,
+      "gas:candidate-vibid:25920001388338": 13,
+      "gas:candidate-vibid:25920001364699": 53,
+      "gas:candidate-vibid:25920001385238": 7,
+      "gas:candidate-vibid:25920001389271": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184787&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184787&type=464",
@@ -2285,15 +2285,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 222,
-      "Волынец Ирина Владимировна": 106,
-      "Пимкин Юрий Александрович": 35,
-      "Подаруев Степан Владимирович": 1,
-      "Рубан Алексей Викторович": 9,
-      "Садилова Ирина Владимировна": 18,
-      "Сивцев Евгений Викторович": 76,
-      "Симонова Раиса Наурдыевна": 13,
-      "Сторожев Геннадий Алексеевич": 66
+      "gas:candidate-vibid:25920001388604": 222,
+      "gas:candidate-vibid:25920001391198": 106,
+      "gas:candidate-vibid:25920001385656": 35,
+      "gas:candidate-vibid:25920001389008": 1,
+      "gas:candidate-vibid:25920001388525": 9,
+      "gas:candidate-vibid:25920001388338": 18,
+      "gas:candidate-vibid:25920001364699": 76,
+      "gas:candidate-vibid:25920001385238": 13,
+      "gas:candidate-vibid:25920001389271": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184787&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184787&type=464",
@@ -2344,15 +2344,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 322,
-      "Волынец Ирина Владимировна": 100,
-      "Пимкин Юрий Александрович": 42,
-      "Подаруев Степан Владимирович": 12,
-      "Рубан Алексей Викторович": 7,
-      "Садилова Ирина Владимировна": 27,
-      "Сивцев Евгений Викторович": 120,
-      "Симонова Раиса Наурдыевна": 18,
-      "Сторожев Геннадий Алексеевич": 103
+      "gas:candidate-vibid:25920001388604": 322,
+      "gas:candidate-vibid:25920001391198": 100,
+      "gas:candidate-vibid:25920001385656": 42,
+      "gas:candidate-vibid:25920001389008": 12,
+      "gas:candidate-vibid:25920001388525": 7,
+      "gas:candidate-vibid:25920001388338": 27,
+      "gas:candidate-vibid:25920001364699": 120,
+      "gas:candidate-vibid:25920001385238": 18,
+      "gas:candidate-vibid:25920001389271": 103
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184787&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184787&type=464",
@@ -2403,15 +2403,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 148,
-      "Волынец Ирина Владимировна": 58,
-      "Пимкин Юрий Александрович": 23,
-      "Подаруев Степан Владимирович": 7,
-      "Рубан Алексей Викторович": 5,
-      "Садилова Ирина Владимировна": 12,
-      "Сивцев Евгений Викторович": 40,
-      "Симонова Раиса Наурдыевна": 8,
-      "Сторожев Геннадий Алексеевич": 31
+      "gas:candidate-vibid:25920001388604": 148,
+      "gas:candidate-vibid:25920001391198": 58,
+      "gas:candidate-vibid:25920001385656": 23,
+      "gas:candidate-vibid:25920001389008": 7,
+      "gas:candidate-vibid:25920001388525": 5,
+      "gas:candidate-vibid:25920001388338": 12,
+      "gas:candidate-vibid:25920001364699": 40,
+      "gas:candidate-vibid:25920001385238": 8,
+      "gas:candidate-vibid:25920001389271": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184787&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184787&type=464",
@@ -2462,15 +2462,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 329,
-      "Волынец Ирина Владимировна": 92,
-      "Пимкин Юрий Александрович": 46,
-      "Подаруев Степан Владимирович": 14,
-      "Рубан Алексей Викторович": 14,
-      "Садилова Ирина Владимировна": 19,
-      "Сивцев Евгений Викторович": 82,
-      "Симонова Раиса Наурдыевна": 18,
-      "Сторожев Геннадий Алексеевич": 75
+      "gas:candidate-vibid:25920001388604": 329,
+      "gas:candidate-vibid:25920001391198": 92,
+      "gas:candidate-vibid:25920001385656": 46,
+      "gas:candidate-vibid:25920001389008": 14,
+      "gas:candidate-vibid:25920001388525": 14,
+      "gas:candidate-vibid:25920001388338": 19,
+      "gas:candidate-vibid:25920001364699": 82,
+      "gas:candidate-vibid:25920001385238": 18,
+      "gas:candidate-vibid:25920001389271": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184787&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184787&type=464",
@@ -2521,15 +2521,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 264,
-      "Волынец Ирина Владимировна": 68,
-      "Пимкин Юрий Александрович": 26,
-      "Подаруев Степан Владимирович": 9,
-      "Рубан Алексей Викторович": 5,
-      "Садилова Ирина Владимировна": 22,
-      "Сивцев Евгений Викторович": 72,
-      "Симонова Раиса Наурдыевна": 12,
-      "Сторожев Геннадий Алексеевич": 68
+      "gas:candidate-vibid:25920001388604": 264,
+      "gas:candidate-vibid:25920001391198": 68,
+      "gas:candidate-vibid:25920001385656": 26,
+      "gas:candidate-vibid:25920001389008": 9,
+      "gas:candidate-vibid:25920001388525": 5,
+      "gas:candidate-vibid:25920001388338": 22,
+      "gas:candidate-vibid:25920001364699": 72,
+      "gas:candidate-vibid:25920001385238": 12,
+      "gas:candidate-vibid:25920001389271": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184787&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184787&type=464",
@@ -2580,15 +2580,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 308,
-      "Волынец Ирина Владимировна": 103,
-      "Пимкин Юрий Александрович": 46,
-      "Подаруев Степан Владимирович": 12,
-      "Рубан Алексей Викторович": 11,
-      "Садилова Ирина Владимировна": 27,
-      "Сивцев Евгений Викторович": 94,
-      "Симонова Раиса Наурдыевна": 17,
-      "Сторожев Геннадий Алексеевич": 90
+      "gas:candidate-vibid:25920001388604": 308,
+      "gas:candidate-vibid:25920001391198": 103,
+      "gas:candidate-vibid:25920001385656": 46,
+      "gas:candidate-vibid:25920001389008": 12,
+      "gas:candidate-vibid:25920001388525": 11,
+      "gas:candidate-vibid:25920001388338": 27,
+      "gas:candidate-vibid:25920001364699": 94,
+      "gas:candidate-vibid:25920001385238": 17,
+      "gas:candidate-vibid:25920001389271": 90
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184787&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184787&type=464",
@@ -2639,15 +2639,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 211,
-      "Волынец Ирина Владимировна": 67,
-      "Пимкин Юрий Александрович": 40,
-      "Подаруев Степан Владимирович": 10,
-      "Рубан Алексей Викторович": 12,
-      "Садилова Ирина Владимировна": 17,
-      "Сивцев Евгений Викторович": 84,
-      "Симонова Раиса Наурдыевна": 3,
-      "Сторожев Геннадий Алексеевич": 51
+      "gas:candidate-vibid:25920001388604": 211,
+      "gas:candidate-vibid:25920001391198": 67,
+      "gas:candidate-vibid:25920001385656": 40,
+      "gas:candidate-vibid:25920001389008": 10,
+      "gas:candidate-vibid:25920001388525": 12,
+      "gas:candidate-vibid:25920001388338": 17,
+      "gas:candidate-vibid:25920001364699": 84,
+      "gas:candidate-vibid:25920001385238": 3,
+      "gas:candidate-vibid:25920001389271": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184787&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184787&type=464",
@@ -2698,15 +2698,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 298,
-      "Волынец Ирина Владимировна": 51,
-      "Пимкин Юрий Александрович": 39,
-      "Подаруев Степан Владимирович": 12,
-      "Рубан Алексей Викторович": 5,
-      "Садилова Ирина Владимировна": 17,
-      "Сивцев Евгений Викторович": 87,
-      "Симонова Раиса Наурдыевна": 7,
-      "Сторожев Геннадий Алексеевич": 64
+      "gas:candidate-vibid:25920001388604": 298,
+      "gas:candidate-vibid:25920001391198": 51,
+      "gas:candidate-vibid:25920001385656": 39,
+      "gas:candidate-vibid:25920001389008": 12,
+      "gas:candidate-vibid:25920001388525": 5,
+      "gas:candidate-vibid:25920001388338": 17,
+      "gas:candidate-vibid:25920001364699": 87,
+      "gas:candidate-vibid:25920001385238": 7,
+      "gas:candidate-vibid:25920001389271": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184787&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184787&type=464",
@@ -2757,15 +2757,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 247,
-      "Волынец Ирина Владимировна": 56,
-      "Пимкин Юрий Александрович": 26,
-      "Подаруев Степан Владимирович": 13,
-      "Рубан Алексей Викторович": 8,
-      "Садилова Ирина Владимировна": 17,
-      "Сивцев Евгений Викторович": 79,
-      "Симонова Раиса Наурдыевна": 7,
-      "Сторожев Геннадий Алексеевич": 68
+      "gas:candidate-vibid:25920001388604": 247,
+      "gas:candidate-vibid:25920001391198": 56,
+      "gas:candidate-vibid:25920001385656": 26,
+      "gas:candidate-vibid:25920001389008": 13,
+      "gas:candidate-vibid:25920001388525": 8,
+      "gas:candidate-vibid:25920001388338": 17,
+      "gas:candidate-vibid:25920001364699": 79,
+      "gas:candidate-vibid:25920001385238": 7,
+      "gas:candidate-vibid:25920001389271": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184787&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184787&type=464",
@@ -2816,15 +2816,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 230,
-      "Волынец Ирина Владимировна": 58,
-      "Пимкин Юрий Александрович": 35,
-      "Подаруев Степан Владимирович": 3,
-      "Рубан Алексей Викторович": 3,
-      "Садилова Ирина Владимировна": 25,
-      "Сивцев Евгений Викторович": 84,
-      "Симонова Раиса Наурдыевна": 11,
-      "Сторожев Геннадий Алексеевич": 26
+      "gas:candidate-vibid:25920001388604": 230,
+      "gas:candidate-vibid:25920001391198": 58,
+      "gas:candidate-vibid:25920001385656": 35,
+      "gas:candidate-vibid:25920001389008": 3,
+      "gas:candidate-vibid:25920001388525": 3,
+      "gas:candidate-vibid:25920001388338": 25,
+      "gas:candidate-vibid:25920001364699": 84,
+      "gas:candidate-vibid:25920001385238": 11,
+      "gas:candidate-vibid:25920001389271": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184787&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184787&type=464",
@@ -2875,15 +2875,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 331,
-      "Волынец Ирина Владимировна": 72,
-      "Пимкин Юрий Александрович": 44,
-      "Подаруев Степан Владимирович": 5,
-      "Рубан Алексей Викторович": 9,
-      "Садилова Ирина Владимировна": 22,
-      "Сивцев Евгений Викторович": 83,
-      "Симонова Раиса Наурдыевна": 12,
-      "Сторожев Геннадий Алексеевич": 72
+      "gas:candidate-vibid:25920001388604": 331,
+      "gas:candidate-vibid:25920001391198": 72,
+      "gas:candidate-vibid:25920001385656": 44,
+      "gas:candidate-vibid:25920001389008": 5,
+      "gas:candidate-vibid:25920001388525": 9,
+      "gas:candidate-vibid:25920001388338": 22,
+      "gas:candidate-vibid:25920001364699": 83,
+      "gas:candidate-vibid:25920001385238": 12,
+      "gas:candidate-vibid:25920001389271": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184787&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184787&type=464",
@@ -2934,15 +2934,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 157,
-      "Волынец Ирина Владимировна": 65,
-      "Пимкин Юрий Александрович": 29,
-      "Подаруев Степан Владимирович": 8,
-      "Рубан Алексей Викторович": 6,
-      "Садилова Ирина Владимировна": 20,
-      "Сивцев Евгений Викторович": 51,
-      "Симонова Раиса Наурдыевна": 5,
-      "Сторожев Геннадий Алексеевич": 41
+      "gas:candidate-vibid:25920001388604": 157,
+      "gas:candidate-vibid:25920001391198": 65,
+      "gas:candidate-vibid:25920001385656": 29,
+      "gas:candidate-vibid:25920001389008": 8,
+      "gas:candidate-vibid:25920001388525": 6,
+      "gas:candidate-vibid:25920001388338": 20,
+      "gas:candidate-vibid:25920001364699": 51,
+      "gas:candidate-vibid:25920001385238": 5,
+      "gas:candidate-vibid:25920001389271": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184787&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184787&type=464",
@@ -2993,15 +2993,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 387,
-      "Волынец Ирина Владимировна": 81,
-      "Пимкин Юрий Александрович": 30,
-      "Подаруев Степан Владимирович": 10,
-      "Рубан Алексей Викторович": 9,
-      "Садилова Ирина Владимировна": 25,
-      "Сивцев Евгений Викторович": 99,
-      "Симонова Раиса Наурдыевна": 7,
-      "Сторожев Геннадий Алексеевич": 72
+      "gas:candidate-vibid:25920001388604": 387,
+      "gas:candidate-vibid:25920001391198": 81,
+      "gas:candidate-vibid:25920001385656": 30,
+      "gas:candidate-vibid:25920001389008": 10,
+      "gas:candidate-vibid:25920001388525": 9,
+      "gas:candidate-vibid:25920001388338": 25,
+      "gas:candidate-vibid:25920001364699": 99,
+      "gas:candidate-vibid:25920001385238": 7,
+      "gas:candidate-vibid:25920001389271": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184787&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184787&type=464",
@@ -3052,15 +3052,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 208,
-      "Волынец Ирина Владимировна": 45,
-      "Пимкин Юрий Александрович": 25,
-      "Подаруев Степан Владимирович": 7,
-      "Рубан Алексей Викторович": 8,
-      "Садилова Ирина Владимировна": 22,
-      "Сивцев Евгений Викторович": 75,
-      "Симонова Раиса Наурдыевна": 6,
-      "Сторожев Геннадий Алексеевич": 44
+      "gas:candidate-vibid:25920001388604": 208,
+      "gas:candidate-vibid:25920001391198": 45,
+      "gas:candidate-vibid:25920001385656": 25,
+      "gas:candidate-vibid:25920001389008": 7,
+      "gas:candidate-vibid:25920001388525": 8,
+      "gas:candidate-vibid:25920001388338": 22,
+      "gas:candidate-vibid:25920001364699": 75,
+      "gas:candidate-vibid:25920001385238": 6,
+      "gas:candidate-vibid:25920001389271": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184787&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184787&type=464",
@@ -3111,15 +3111,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 33,
-      "Волынец Ирина Владимировна": 17,
-      "Пимкин Юрий Александрович": 6,
-      "Подаруев Степан Владимирович": 4,
-      "Рубан Алексей Викторович": 2,
-      "Садилова Ирина Владимировна": 2,
-      "Сивцев Евгений Викторович": 14,
-      "Симонова Раиса Наурдыевна": 3,
-      "Сторожев Геннадий Алексеевич": 4
+      "gas:candidate-vibid:25920001388604": 33,
+      "gas:candidate-vibid:25920001391198": 17,
+      "gas:candidate-vibid:25920001385656": 6,
+      "gas:candidate-vibid:25920001389008": 4,
+      "gas:candidate-vibid:25920001388525": 2,
+      "gas:candidate-vibid:25920001388338": 2,
+      "gas:candidate-vibid:25920001364699": 14,
+      "gas:candidate-vibid:25920001385238": 3,
+      "gas:candidate-vibid:25920001389271": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184787&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184787&type=464",
@@ -3170,15 +3170,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 91,
-      "Волынец Ирина Владимировна": 24,
-      "Пимкин Юрий Александрович": 14,
-      "Подаруев Степан Владимирович": 7,
-      "Рубан Алексей Викторович": 3,
-      "Садилова Ирина Владимировна": 6,
-      "Сивцев Евгений Викторович": 24,
-      "Симонова Раиса Наурдыевна": 2,
-      "Сторожев Геннадий Алексеевич": 20
+      "gas:candidate-vibid:25920001388604": 91,
+      "gas:candidate-vibid:25920001391198": 24,
+      "gas:candidate-vibid:25920001385656": 14,
+      "gas:candidate-vibid:25920001389008": 7,
+      "gas:candidate-vibid:25920001388525": 3,
+      "gas:candidate-vibid:25920001388338": 6,
+      "gas:candidate-vibid:25920001364699": 24,
+      "gas:candidate-vibid:25920001385238": 2,
+      "gas:candidate-vibid:25920001389271": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184787&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184787&type=464",
@@ -3229,15 +3229,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 110,
-      "Волынец Ирина Владимировна": 12,
-      "Пимкин Юрий Александрович": 14,
-      "Подаруев Степан Владимирович": 3,
-      "Рубан Алексей Викторович": 3,
-      "Садилова Ирина Владимировна": 6,
-      "Сивцев Евгений Викторович": 29,
-      "Симонова Раиса Наурдыевна": 9,
-      "Сторожев Геннадий Алексеевич": 18
+      "gas:candidate-vibid:25920001388604": 110,
+      "gas:candidate-vibid:25920001391198": 12,
+      "gas:candidate-vibid:25920001385656": 14,
+      "gas:candidate-vibid:25920001389008": 3,
+      "gas:candidate-vibid:25920001388525": 3,
+      "gas:candidate-vibid:25920001388338": 6,
+      "gas:candidate-vibid:25920001364699": 29,
+      "gas:candidate-vibid:25920001385238": 9,
+      "gas:candidate-vibid:25920001389271": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184787&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184787&type=464",
@@ -3288,15 +3288,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 49,
-      "Волынец Ирина Владимировна": 9,
-      "Пимкин Юрий Александрович": 3,
-      "Подаруев Степан Владимирович": 3,
-      "Рубан Алексей Викторович": 1,
-      "Садилова Ирина Владимировна": 1,
-      "Сивцев Евгений Викторович": 12,
-      "Симонова Раиса Наурдыевна": 1,
-      "Сторожев Геннадий Алексеевич": 6
+      "gas:candidate-vibid:25920001388604": 49,
+      "gas:candidate-vibid:25920001391198": 9,
+      "gas:candidate-vibid:25920001385656": 3,
+      "gas:candidate-vibid:25920001389008": 3,
+      "gas:candidate-vibid:25920001388525": 1,
+      "gas:candidate-vibid:25920001388338": 1,
+      "gas:candidate-vibid:25920001364699": 12,
+      "gas:candidate-vibid:25920001385238": 1,
+      "gas:candidate-vibid:25920001389271": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184787&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184787&type=464",
@@ -3347,15 +3347,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 80,
-      "Волынец Ирина Владимировна": 9,
-      "Пимкин Юрий Александрович": 11,
-      "Подаруев Степан Владимирович": 2,
-      "Рубан Алексей Викторович": 0,
-      "Садилова Ирина Владимировна": 1,
-      "Сивцев Евгений Викторович": 8,
-      "Симонова Раиса Наурдыевна": 1,
-      "Сторожев Геннадий Алексеевич": 11
+      "gas:candidate-vibid:25920001388604": 80,
+      "gas:candidate-vibid:25920001391198": 9,
+      "gas:candidate-vibid:25920001385656": 11,
+      "gas:candidate-vibid:25920001389008": 2,
+      "gas:candidate-vibid:25920001388525": 0,
+      "gas:candidate-vibid:25920001388338": 1,
+      "gas:candidate-vibid:25920001364699": 8,
+      "gas:candidate-vibid:25920001385238": 1,
+      "gas:candidate-vibid:25920001389271": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184787&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184787&type=464",
@@ -3406,15 +3406,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 64,
-      "Волынец Ирина Владимировна": 14,
-      "Пимкин Юрий Александрович": 4,
-      "Подаруев Степан Владимирович": 2,
-      "Рубан Алексей Викторович": 2,
-      "Садилова Ирина Владимировна": 2,
-      "Сивцев Евгений Викторович": 11,
-      "Симонова Раиса Наурдыевна": 2,
-      "Сторожев Геннадий Алексеевич": 5
+      "gas:candidate-vibid:25920001388604": 64,
+      "gas:candidate-vibid:25920001391198": 14,
+      "gas:candidate-vibid:25920001385656": 4,
+      "gas:candidate-vibid:25920001389008": 2,
+      "gas:candidate-vibid:25920001388525": 2,
+      "gas:candidate-vibid:25920001388338": 2,
+      "gas:candidate-vibid:25920001364699": 11,
+      "gas:candidate-vibid:25920001385238": 2,
+      "gas:candidate-vibid:25920001389271": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184787&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184787&type=464",
@@ -3465,15 +3465,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 124,
-      "Волынец Ирина Владимировна": 11,
-      "Пимкин Юрий Александрович": 30,
-      "Подаруев Степан Владимирович": 4,
-      "Рубан Алексей Викторович": 2,
-      "Садилова Ирина Владимировна": 2,
-      "Сивцев Евгений Викторович": 12,
-      "Симонова Раиса Наурдыевна": 8,
-      "Сторожев Геннадий Алексеевич": 25
+      "gas:candidate-vibid:25920001388604": 124,
+      "gas:candidate-vibid:25920001391198": 11,
+      "gas:candidate-vibid:25920001385656": 30,
+      "gas:candidate-vibid:25920001389008": 4,
+      "gas:candidate-vibid:25920001388525": 2,
+      "gas:candidate-vibid:25920001388338": 2,
+      "gas:candidate-vibid:25920001364699": 12,
+      "gas:candidate-vibid:25920001385238": 8,
+      "gas:candidate-vibid:25920001389271": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184787&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184787&type=464",
@@ -3524,15 +3524,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 89,
-      "Волынец Ирина Владимировна": 29,
-      "Пимкин Юрий Александрович": 23,
-      "Подаруев Степан Владимирович": 1,
-      "Рубан Алексей Викторович": 0,
-      "Садилова Ирина Владимировна": 1,
-      "Сивцев Евгений Викторович": 6,
-      "Симонова Раиса Наурдыевна": 5,
-      "Сторожев Геннадий Алексеевич": 11
+      "gas:candidate-vibid:25920001388604": 89,
+      "gas:candidate-vibid:25920001391198": 29,
+      "gas:candidate-vibid:25920001385656": 23,
+      "gas:candidate-vibid:25920001389008": 1,
+      "gas:candidate-vibid:25920001388525": 0,
+      "gas:candidate-vibid:25920001388338": 1,
+      "gas:candidate-vibid:25920001364699": 6,
+      "gas:candidate-vibid:25920001385238": 5,
+      "gas:candidate-vibid:25920001389271": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184787&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184787&type=464",
@@ -3583,15 +3583,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 43,
-      "Волынец Ирина Владимировна": 6,
-      "Пимкин Юрий Александрович": 5,
-      "Подаруев Степан Владимирович": 0,
-      "Рубан Алексей Викторович": 0,
-      "Садилова Ирина Владимировна": 7,
-      "Сивцев Евгений Викторович": 3,
-      "Симонова Раиса Наурдыевна": 3,
-      "Сторожев Геннадий Алексеевич": 9
+      "gas:candidate-vibid:25920001388604": 43,
+      "gas:candidate-vibid:25920001391198": 6,
+      "gas:candidate-vibid:25920001385656": 5,
+      "gas:candidate-vibid:25920001389008": 0,
+      "gas:candidate-vibid:25920001388525": 0,
+      "gas:candidate-vibid:25920001388338": 7,
+      "gas:candidate-vibid:25920001364699": 3,
+      "gas:candidate-vibid:25920001385238": 3,
+      "gas:candidate-vibid:25920001389271": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184787&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184787&type=464",
@@ -3642,15 +3642,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 244,
-      "Волынец Ирина Владимировна": 29,
-      "Пимкин Юрий Александрович": 21,
-      "Подаруев Степан Владимирович": 3,
-      "Рубан Алексей Викторович": 3,
-      "Садилова Ирина Владимировна": 10,
-      "Сивцев Евгений Викторович": 64,
-      "Симонова Раиса Наурдыевна": 3,
-      "Сторожев Геннадий Алексеевич": 47
+      "gas:candidate-vibid:25920001388604": 244,
+      "gas:candidate-vibid:25920001391198": 29,
+      "gas:candidate-vibid:25920001385656": 21,
+      "gas:candidate-vibid:25920001389008": 3,
+      "gas:candidate-vibid:25920001388525": 3,
+      "gas:candidate-vibid:25920001388338": 10,
+      "gas:candidate-vibid:25920001364699": 64,
+      "gas:candidate-vibid:25920001385238": 3,
+      "gas:candidate-vibid:25920001389271": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184787&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184787&type=464",
@@ -3701,15 +3701,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 96,
-      "Волынец Ирина Владимировна": 26,
-      "Пимкин Юрий Александрович": 12,
-      "Подаруев Степан Владимирович": 3,
-      "Рубан Алексей Викторович": 1,
-      "Садилова Ирина Владимировна": 6,
-      "Сивцев Евгений Викторович": 22,
-      "Симонова Раиса Наурдыевна": 1,
-      "Сторожев Геннадий Алексеевич": 15
+      "gas:candidate-vibid:25920001388604": 96,
+      "gas:candidate-vibid:25920001391198": 26,
+      "gas:candidate-vibid:25920001385656": 12,
+      "gas:candidate-vibid:25920001389008": 3,
+      "gas:candidate-vibid:25920001388525": 1,
+      "gas:candidate-vibid:25920001388338": 6,
+      "gas:candidate-vibid:25920001364699": 22,
+      "gas:candidate-vibid:25920001385238": 1,
+      "gas:candidate-vibid:25920001389271": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184787&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184787&type=464",
@@ -3760,15 +3760,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 48,
-      "Волынец Ирина Владимировна": 7,
-      "Пимкин Юрий Александрович": 4,
-      "Подаруев Степан Владимирович": 1,
-      "Рубан Алексей Викторович": 1,
-      "Садилова Ирина Владимировна": 0,
-      "Сивцев Евгений Викторович": 0,
-      "Симонова Раиса Наурдыевна": 1,
-      "Сторожев Геннадий Алексеевич": 10
+      "gas:candidate-vibid:25920001388604": 48,
+      "gas:candidate-vibid:25920001391198": 7,
+      "gas:candidate-vibid:25920001385656": 4,
+      "gas:candidate-vibid:25920001389008": 1,
+      "gas:candidate-vibid:25920001388525": 1,
+      "gas:candidate-vibid:25920001388338": 0,
+      "gas:candidate-vibid:25920001364699": 0,
+      "gas:candidate-vibid:25920001385238": 1,
+      "gas:candidate-vibid:25920001389271": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184787&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184787&type=464",
@@ -3819,15 +3819,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 68,
-      "Волынец Ирина Владимировна": 7,
-      "Пимкин Юрий Александрович": 3,
-      "Подаруев Степан Владимирович": 2,
-      "Рубан Алексей Викторович": 2,
-      "Садилова Ирина Владимировна": 3,
-      "Сивцев Евгений Викторович": 5,
-      "Симонова Раиса Наурдыевна": 4,
-      "Сторожев Геннадий Алексеевич": 7
+      "gas:candidate-vibid:25920001388604": 68,
+      "gas:candidate-vibid:25920001391198": 7,
+      "gas:candidate-vibid:25920001385656": 3,
+      "gas:candidate-vibid:25920001389008": 2,
+      "gas:candidate-vibid:25920001388525": 2,
+      "gas:candidate-vibid:25920001388338": 3,
+      "gas:candidate-vibid:25920001364699": 5,
+      "gas:candidate-vibid:25920001385238": 4,
+      "gas:candidate-vibid:25920001389271": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184787&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184787&type=464",
@@ -3878,15 +3878,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 59,
-      "Волынец Ирина Владимировна": 5,
-      "Пимкин Юрий Александрович": 5,
-      "Подаруев Степан Владимирович": 0,
-      "Рубан Алексей Викторович": 0,
-      "Садилова Ирина Владимировна": 3,
-      "Сивцев Евгений Викторович": 15,
-      "Симонова Раиса Наурдыевна": 1,
-      "Сторожев Геннадий Алексеевич": 5
+      "gas:candidate-vibid:25920001388604": 59,
+      "gas:candidate-vibid:25920001391198": 5,
+      "gas:candidate-vibid:25920001385656": 5,
+      "gas:candidate-vibid:25920001389008": 0,
+      "gas:candidate-vibid:25920001388525": 0,
+      "gas:candidate-vibid:25920001388338": 3,
+      "gas:candidate-vibid:25920001364699": 15,
+      "gas:candidate-vibid:25920001385238": 1,
+      "gas:candidate-vibid:25920001389271": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184787&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184787&type=464",
@@ -3937,15 +3937,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 56,
-      "Волынец Ирина Владимировна": 9,
-      "Пимкин Юрий Александрович": 4,
-      "Подаруев Степан Владимирович": 2,
-      "Рубан Алексей Викторович": 2,
-      "Садилова Ирина Владимировна": 1,
-      "Сивцев Евгений Викторович": 5,
-      "Симонова Раиса Наурдыевна": 1,
-      "Сторожев Геннадий Алексеевич": 4
+      "gas:candidate-vibid:25920001388604": 56,
+      "gas:candidate-vibid:25920001391198": 9,
+      "gas:candidate-vibid:25920001385656": 4,
+      "gas:candidate-vibid:25920001389008": 2,
+      "gas:candidate-vibid:25920001388525": 2,
+      "gas:candidate-vibid:25920001388338": 1,
+      "gas:candidate-vibid:25920001364699": 5,
+      "gas:candidate-vibid:25920001385238": 1,
+      "gas:candidate-vibid:25920001389271": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184787&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184787&type=464",
@@ -3996,15 +3996,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 136,
-      "Волынец Ирина Владимировна": 24,
-      "Пимкин Юрий Александрович": 19,
-      "Подаруев Степан Владимирович": 4,
-      "Рубан Алексей Викторович": 3,
-      "Садилова Ирина Владимировна": 9,
-      "Сивцев Евгений Викторович": 34,
-      "Симонова Раиса Наурдыевна": 8,
-      "Сторожев Геннадий Алексеевич": 23
+      "gas:candidate-vibid:25920001388604": 136,
+      "gas:candidate-vibid:25920001391198": 24,
+      "gas:candidate-vibid:25920001385656": 19,
+      "gas:candidate-vibid:25920001389008": 4,
+      "gas:candidate-vibid:25920001388525": 3,
+      "gas:candidate-vibid:25920001388338": 9,
+      "gas:candidate-vibid:25920001364699": 34,
+      "gas:candidate-vibid:25920001385238": 8,
+      "gas:candidate-vibid:25920001389271": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184787&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184787&type=464",
@@ -4055,15 +4055,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 81,
-      "Волынец Ирина Владимировна": 20,
-      "Пимкин Юрий Александрович": 10,
-      "Подаруев Степан Владимирович": 2,
-      "Рубан Алексей Викторович": 2,
-      "Садилова Ирина Владимировна": 2,
-      "Сивцев Евгений Викторович": 25,
-      "Симонова Раиса Наурдыевна": 4,
-      "Сторожев Геннадий Алексеевич": 13
+      "gas:candidate-vibid:25920001388604": 81,
+      "gas:candidate-vibid:25920001391198": 20,
+      "gas:candidate-vibid:25920001385656": 10,
+      "gas:candidate-vibid:25920001389008": 2,
+      "gas:candidate-vibid:25920001388525": 2,
+      "gas:candidate-vibid:25920001388338": 2,
+      "gas:candidate-vibid:25920001364699": 25,
+      "gas:candidate-vibid:25920001385238": 4,
+      "gas:candidate-vibid:25920001389271": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184787&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184787&type=464",
@@ -4114,15 +4114,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 65,
-      "Волынец Ирина Владимировна": 11,
-      "Пимкин Юрий Александрович": 6,
-      "Подаруев Степан Владимирович": 1,
-      "Рубан Алексей Викторович": 3,
-      "Садилова Ирина Владимировна": 9,
-      "Сивцев Евгений Викторович": 34,
-      "Симонова Раиса Наурдыевна": 7,
-      "Сторожев Геннадий Алексеевич": 9
+      "gas:candidate-vibid:25920001388604": 65,
+      "gas:candidate-vibid:25920001391198": 11,
+      "gas:candidate-vibid:25920001385656": 6,
+      "gas:candidate-vibid:25920001389008": 1,
+      "gas:candidate-vibid:25920001388525": 3,
+      "gas:candidate-vibid:25920001388338": 9,
+      "gas:candidate-vibid:25920001364699": 34,
+      "gas:candidate-vibid:25920001385238": 7,
+      "gas:candidate-vibid:25920001389271": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184787&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184787&type=464",
@@ -4173,15 +4173,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 78,
-      "Волынец Ирина Владимировна": 12,
-      "Пимкин Юрий Александрович": 9,
-      "Подаруев Степан Владимирович": 3,
-      "Рубан Алексей Викторович": 2,
-      "Садилова Ирина Владимировна": 4,
-      "Сивцев Евгений Викторович": 21,
-      "Симонова Раиса Наурдыевна": 6,
-      "Сторожев Геннадий Алексеевич": 13
+      "gas:candidate-vibid:25920001388604": 78,
+      "gas:candidate-vibid:25920001391198": 12,
+      "gas:candidate-vibid:25920001385656": 9,
+      "gas:candidate-vibid:25920001389008": 3,
+      "gas:candidate-vibid:25920001388525": 2,
+      "gas:candidate-vibid:25920001388338": 4,
+      "gas:candidate-vibid:25920001364699": 21,
+      "gas:candidate-vibid:25920001385238": 6,
+      "gas:candidate-vibid:25920001389271": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184787&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184787&type=464",
@@ -4232,15 +4232,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 106,
-      "Волынец Ирина Владимировна": 20,
-      "Пимкин Юрий Александрович": 15,
-      "Подаруев Степан Владимирович": 2,
-      "Рубан Алексей Викторович": 0,
-      "Садилова Ирина Владимировна": 4,
-      "Сивцев Евгений Викторович": 20,
-      "Симонова Раиса Наурдыевна": 9,
-      "Сторожев Геннадий Алексеевич": 25
+      "gas:candidate-vibid:25920001388604": 106,
+      "gas:candidate-vibid:25920001391198": 20,
+      "gas:candidate-vibid:25920001385656": 15,
+      "gas:candidate-vibid:25920001389008": 2,
+      "gas:candidate-vibid:25920001388525": 0,
+      "gas:candidate-vibid:25920001388338": 4,
+      "gas:candidate-vibid:25920001364699": 20,
+      "gas:candidate-vibid:25920001385238": 9,
+      "gas:candidate-vibid:25920001389271": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184788&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184788&type=464",
@@ -4291,15 +4291,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 104,
-      "Волынец Ирина Владимировна": 15,
-      "Пимкин Юрий Александрович": 10,
-      "Подаруев Степан Владимирович": 1,
-      "Рубан Алексей Викторович": 3,
-      "Садилова Ирина Владимировна": 6,
-      "Сивцев Евгений Викторович": 19,
-      "Симонова Раиса Наурдыевна": 2,
-      "Сторожев Геннадий Алексеевич": 7
+      "gas:candidate-vibid:25920001388604": 104,
+      "gas:candidate-vibid:25920001391198": 15,
+      "gas:candidate-vibid:25920001385656": 10,
+      "gas:candidate-vibid:25920001389008": 1,
+      "gas:candidate-vibid:25920001388525": 3,
+      "gas:candidate-vibid:25920001388338": 6,
+      "gas:candidate-vibid:25920001364699": 19,
+      "gas:candidate-vibid:25920001385238": 2,
+      "gas:candidate-vibid:25920001389271": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184788&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184788&type=464",
@@ -4350,15 +4350,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 53,
-      "Волынец Ирина Владимировна": 16,
-      "Пимкин Юрий Александрович": 10,
-      "Подаруев Степан Владимирович": 1,
-      "Рубан Алексей Викторович": 0,
-      "Садилова Ирина Владимировна": 2,
-      "Сивцев Евгений Викторович": 17,
-      "Симонова Раиса Наурдыевна": 3,
-      "Сторожев Геннадий Алексеевич": 9
+      "gas:candidate-vibid:25920001388604": 53,
+      "gas:candidate-vibid:25920001391198": 16,
+      "gas:candidate-vibid:25920001385656": 10,
+      "gas:candidate-vibid:25920001389008": 1,
+      "gas:candidate-vibid:25920001388525": 0,
+      "gas:candidate-vibid:25920001388338": 2,
+      "gas:candidate-vibid:25920001364699": 17,
+      "gas:candidate-vibid:25920001385238": 3,
+      "gas:candidate-vibid:25920001389271": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184788&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184788&type=464",
@@ -4409,15 +4409,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 158,
-      "Волынец Ирина Владимировна": 37,
-      "Пимкин Юрий Александрович": 20,
-      "Подаруев Степан Владимирович": 7,
-      "Рубан Алексей Викторович": 5,
-      "Садилова Ирина Владимировна": 19,
-      "Сивцев Евгений Викторович": 32,
-      "Симонова Раиса Наурдыевна": 4,
-      "Сторожев Геннадий Алексеевич": 36
+      "gas:candidate-vibid:25920001388604": 158,
+      "gas:candidate-vibid:25920001391198": 37,
+      "gas:candidate-vibid:25920001385656": 20,
+      "gas:candidate-vibid:25920001389008": 7,
+      "gas:candidate-vibid:25920001388525": 5,
+      "gas:candidate-vibid:25920001388338": 19,
+      "gas:candidate-vibid:25920001364699": 32,
+      "gas:candidate-vibid:25920001385238": 4,
+      "gas:candidate-vibid:25920001389271": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184788&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184788&type=464",
@@ -4468,15 +4468,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 275,
-      "Волынец Ирина Владимировна": 65,
-      "Пимкин Юрий Александрович": 51,
-      "Подаруев Степан Владимирович": 10,
-      "Рубан Алексей Викторович": 6,
-      "Садилова Ирина Владимировна": 22,
-      "Сивцев Евгений Викторович": 55,
-      "Симонова Раиса Наурдыевна": 9,
-      "Сторожев Геннадий Алексеевич": 52
+      "gas:candidate-vibid:25920001388604": 275,
+      "gas:candidate-vibid:25920001391198": 65,
+      "gas:candidate-vibid:25920001385656": 51,
+      "gas:candidate-vibid:25920001389008": 10,
+      "gas:candidate-vibid:25920001388525": 6,
+      "gas:candidate-vibid:25920001388338": 22,
+      "gas:candidate-vibid:25920001364699": 55,
+      "gas:candidate-vibid:25920001385238": 9,
+      "gas:candidate-vibid:25920001389271": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184788&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184788&type=464",
@@ -4527,15 +4527,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 257,
-      "Волынец Ирина Владимировна": 56,
-      "Пимкин Юрий Александрович": 44,
-      "Подаруев Степан Владимирович": 5,
-      "Рубан Алексей Викторович": 3,
-      "Садилова Ирина Владимировна": 22,
-      "Сивцев Евгений Викторович": 77,
-      "Симонова Раиса Наурдыевна": 14,
-      "Сторожев Геннадий Алексеевич": 70
+      "gas:candidate-vibid:25920001388604": 257,
+      "gas:candidate-vibid:25920001391198": 56,
+      "gas:candidate-vibid:25920001385656": 44,
+      "gas:candidate-vibid:25920001389008": 5,
+      "gas:candidate-vibid:25920001388525": 3,
+      "gas:candidate-vibid:25920001388338": 22,
+      "gas:candidate-vibid:25920001364699": 77,
+      "gas:candidate-vibid:25920001385238": 14,
+      "gas:candidate-vibid:25920001389271": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184788&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184788&type=464",
@@ -4586,15 +4586,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 310,
-      "Волынец Ирина Владимировна": 75,
-      "Пимкин Юрий Александрович": 55,
-      "Подаруев Степан Владимирович": 8,
-      "Рубан Алексей Викторович": 9,
-      "Садилова Ирина Владимировна": 32,
-      "Сивцев Евгений Викторович": 97,
-      "Симонова Раиса Наурдыевна": 15,
-      "Сторожев Геннадий Алексеевич": 72
+      "gas:candidate-vibid:25920001388604": 310,
+      "gas:candidate-vibid:25920001391198": 75,
+      "gas:candidate-vibid:25920001385656": 55,
+      "gas:candidate-vibid:25920001389008": 8,
+      "gas:candidate-vibid:25920001388525": 9,
+      "gas:candidate-vibid:25920001388338": 32,
+      "gas:candidate-vibid:25920001364699": 97,
+      "gas:candidate-vibid:25920001385238": 15,
+      "gas:candidate-vibid:25920001389271": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184788&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184788&type=464",
@@ -4645,15 +4645,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 294,
-      "Волынец Ирина Владимировна": 67,
-      "Пимкин Юрий Александрович": 47,
-      "Подаруев Степан Владимирович": 6,
-      "Рубан Алексей Викторович": 5,
-      "Садилова Ирина Владимировна": 19,
-      "Сивцев Евгений Викторович": 63,
-      "Симонова Раиса Наурдыевна": 12,
-      "Сторожев Геннадий Алексеевич": 54
+      "gas:candidate-vibid:25920001388604": 294,
+      "gas:candidate-vibid:25920001391198": 67,
+      "gas:candidate-vibid:25920001385656": 47,
+      "gas:candidate-vibid:25920001389008": 6,
+      "gas:candidate-vibid:25920001388525": 5,
+      "gas:candidate-vibid:25920001388338": 19,
+      "gas:candidate-vibid:25920001364699": 63,
+      "gas:candidate-vibid:25920001385238": 12,
+      "gas:candidate-vibid:25920001389271": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184788&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184788&type=464",
@@ -4704,15 +4704,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 226,
-      "Волынец Ирина Владимировна": 54,
-      "Пимкин Юрий Александрович": 47,
-      "Подаруев Степан Владимирович": 6,
-      "Рубан Алексей Викторович": 7,
-      "Садилова Ирина Владимировна": 19,
-      "Сивцев Евгений Викторович": 75,
-      "Симонова Раиса Наурдыевна": 17,
-      "Сторожев Геннадий Алексеевич": 44
+      "gas:candidate-vibid:25920001388604": 226,
+      "gas:candidate-vibid:25920001391198": 54,
+      "gas:candidate-vibid:25920001385656": 47,
+      "gas:candidate-vibid:25920001389008": 6,
+      "gas:candidate-vibid:25920001388525": 7,
+      "gas:candidate-vibid:25920001388338": 19,
+      "gas:candidate-vibid:25920001364699": 75,
+      "gas:candidate-vibid:25920001385238": 17,
+      "gas:candidate-vibid:25920001389271": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184788&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184788&type=464",
@@ -4763,15 +4763,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 82,
-      "Волынец Ирина Владимировна": 12,
-      "Пимкин Юрий Александрович": 12,
-      "Подаруев Степан Владимирович": 7,
-      "Рубан Алексей Викторович": 1,
-      "Садилова Ирина Владимировна": 6,
-      "Сивцев Евгений Викторович": 29,
-      "Симонова Раиса Наурдыевна": 4,
-      "Сторожев Геннадий Алексеевич": 13
+      "gas:candidate-vibid:25920001388604": 82,
+      "gas:candidate-vibid:25920001391198": 12,
+      "gas:candidate-vibid:25920001385656": 12,
+      "gas:candidate-vibid:25920001389008": 7,
+      "gas:candidate-vibid:25920001388525": 1,
+      "gas:candidate-vibid:25920001388338": 6,
+      "gas:candidate-vibid:25920001364699": 29,
+      "gas:candidate-vibid:25920001385238": 4,
+      "gas:candidate-vibid:25920001389271": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184788&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184788&type=464",
@@ -4822,15 +4822,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 278,
-      "Волынец Ирина Владимировна": 74,
-      "Пимкин Юрий Александрович": 44,
-      "Подаруев Степан Владимирович": 20,
-      "Рубан Алексей Викторович": 11,
-      "Садилова Ирина Владимировна": 28,
-      "Сивцев Евгений Викторович": 81,
-      "Симонова Раиса Наурдыевна": 15,
-      "Сторожев Геннадий Алексеевич": 37
+      "gas:candidate-vibid:25920001388604": 278,
+      "gas:candidate-vibid:25920001391198": 74,
+      "gas:candidate-vibid:25920001385656": 44,
+      "gas:candidate-vibid:25920001389008": 20,
+      "gas:candidate-vibid:25920001388525": 11,
+      "gas:candidate-vibid:25920001388338": 28,
+      "gas:candidate-vibid:25920001364699": 81,
+      "gas:candidate-vibid:25920001385238": 15,
+      "gas:candidate-vibid:25920001389271": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184788&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184788&type=464",
@@ -4881,15 +4881,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 260,
-      "Волынец Ирина Владимировна": 63,
-      "Пимкин Юрий Александрович": 27,
-      "Подаруев Степан Владимирович": 6,
-      "Рубан Алексей Викторович": 9,
-      "Садилова Ирина Владимировна": 28,
-      "Сивцев Евгений Викторович": 80,
-      "Симонова Раиса Наурдыевна": 13,
-      "Сторожев Геннадий Алексеевич": 46
+      "gas:candidate-vibid:25920001388604": 260,
+      "gas:candidate-vibid:25920001391198": 63,
+      "gas:candidate-vibid:25920001385656": 27,
+      "gas:candidate-vibid:25920001389008": 6,
+      "gas:candidate-vibid:25920001388525": 9,
+      "gas:candidate-vibid:25920001388338": 28,
+      "gas:candidate-vibid:25920001364699": 80,
+      "gas:candidate-vibid:25920001385238": 13,
+      "gas:candidate-vibid:25920001389271": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184788&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184788&type=464",
@@ -4940,15 +4940,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 237,
-      "Волынец Ирина Владимировна": 62,
-      "Пимкин Юрий Александрович": 37,
-      "Подаруев Степан Владимирович": 7,
-      "Рубан Алексей Викторович": 9,
-      "Садилова Ирина Владимировна": 27,
-      "Сивцев Евгений Викторович": 77,
-      "Симонова Раиса Наурдыевна": 14,
-      "Сторожев Геннадий Алексеевич": 41
+      "gas:candidate-vibid:25920001388604": 237,
+      "gas:candidate-vibid:25920001391198": 62,
+      "gas:candidate-vibid:25920001385656": 37,
+      "gas:candidate-vibid:25920001389008": 7,
+      "gas:candidate-vibid:25920001388525": 9,
+      "gas:candidate-vibid:25920001388338": 27,
+      "gas:candidate-vibid:25920001364699": 77,
+      "gas:candidate-vibid:25920001385238": 14,
+      "gas:candidate-vibid:25920001389271": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184788&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184788&type=464",
@@ -4999,15 +4999,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 165,
-      "Волынец Ирина Владимировна": 36,
-      "Пимкин Юрий Александрович": 21,
-      "Подаруев Степан Владимирович": 5,
-      "Рубан Алексей Викторович": 6,
-      "Садилова Ирина Владимировна": 7,
-      "Сивцев Евгений Викторович": 46,
-      "Симонова Раиса Наурдыевна": 5,
-      "Сторожев Геннадий Алексеевич": 16
+      "gas:candidate-vibid:25920001388604": 165,
+      "gas:candidate-vibid:25920001391198": 36,
+      "gas:candidate-vibid:25920001385656": 21,
+      "gas:candidate-vibid:25920001389008": 5,
+      "gas:candidate-vibid:25920001388525": 6,
+      "gas:candidate-vibid:25920001388338": 7,
+      "gas:candidate-vibid:25920001364699": 46,
+      "gas:candidate-vibid:25920001385238": 5,
+      "gas:candidate-vibid:25920001389271": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184788&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184788&type=464",
@@ -5058,15 +5058,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 198,
-      "Волынец Ирина Владимировна": 27,
-      "Пимкин Юрий Александрович": 33,
-      "Подаруев Степан Владимирович": 2,
-      "Рубан Алексей Викторович": 8,
-      "Садилова Ирина Владимировна": 19,
-      "Сивцев Евгений Викторович": 32,
-      "Симонова Раиса Наурдыевна": 8,
-      "Сторожев Геннадий Алексеевич": 59
+      "gas:candidate-vibid:25920001388604": 198,
+      "gas:candidate-vibid:25920001391198": 27,
+      "gas:candidate-vibid:25920001385656": 33,
+      "gas:candidate-vibid:25920001389008": 2,
+      "gas:candidate-vibid:25920001388525": 8,
+      "gas:candidate-vibid:25920001388338": 19,
+      "gas:candidate-vibid:25920001364699": 32,
+      "gas:candidate-vibid:25920001385238": 8,
+      "gas:candidate-vibid:25920001389271": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184788&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184788&type=464",
@@ -5117,15 +5117,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 132,
-      "Волынец Ирина Владимировна": 22,
-      "Пимкин Юрий Александрович": 18,
-      "Подаруев Степан Владимирович": 6,
-      "Рубан Алексей Викторович": 4,
-      "Садилова Ирина Владимировна": 13,
-      "Сивцев Евгений Викторович": 29,
-      "Симонова Раиса Наурдыевна": 2,
-      "Сторожев Геннадий Алексеевич": 39
+      "gas:candidate-vibid:25920001388604": 132,
+      "gas:candidate-vibid:25920001391198": 22,
+      "gas:candidate-vibid:25920001385656": 18,
+      "gas:candidate-vibid:25920001389008": 6,
+      "gas:candidate-vibid:25920001388525": 4,
+      "gas:candidate-vibid:25920001388338": 13,
+      "gas:candidate-vibid:25920001364699": 29,
+      "gas:candidate-vibid:25920001385238": 2,
+      "gas:candidate-vibid:25920001389271": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184788&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184788&type=464",
@@ -5176,15 +5176,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 46,
-      "Волынец Ирина Владимировна": 12,
-      "Пимкин Юрий Александрович": 6,
-      "Подаруев Степан Владимирович": 0,
-      "Рубан Алексей Викторович": 2,
-      "Садилова Ирина Владимировна": 1,
-      "Сивцев Евгений Викторович": 14,
-      "Симонова Раиса Наурдыевна": 0,
-      "Сторожев Геннадий Алексеевич": 6
+      "gas:candidate-vibid:25920001388604": 46,
+      "gas:candidate-vibid:25920001391198": 12,
+      "gas:candidate-vibid:25920001385656": 6,
+      "gas:candidate-vibid:25920001389008": 0,
+      "gas:candidate-vibid:25920001388525": 2,
+      "gas:candidate-vibid:25920001388338": 1,
+      "gas:candidate-vibid:25920001364699": 14,
+      "gas:candidate-vibid:25920001385238": 0,
+      "gas:candidate-vibid:25920001389271": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184788&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184788&type=464",
@@ -5235,15 +5235,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 199,
-      "Волынец Ирина Владимировна": 47,
-      "Пимкин Юрий Александрович": 25,
-      "Подаруев Степан Владимирович": 5,
-      "Рубан Алексей Викторович": 3,
-      "Садилова Ирина Владимировна": 19,
-      "Сивцев Евгений Викторович": 49,
-      "Симонова Раиса Наурдыевна": 12,
-      "Сторожев Геннадий Алексеевич": 35
+      "gas:candidate-vibid:25920001388604": 199,
+      "gas:candidate-vibid:25920001391198": 47,
+      "gas:candidate-vibid:25920001385656": 25,
+      "gas:candidate-vibid:25920001389008": 5,
+      "gas:candidate-vibid:25920001388525": 3,
+      "gas:candidate-vibid:25920001388338": 19,
+      "gas:candidate-vibid:25920001364699": 49,
+      "gas:candidate-vibid:25920001385238": 12,
+      "gas:candidate-vibid:25920001389271": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184788&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184788&type=464",
@@ -5294,15 +5294,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 40,
-      "Волынец Ирина Владимировна": 3,
-      "Пимкин Юрий Александрович": 6,
-      "Подаруев Степан Владимирович": 1,
-      "Рубан Алексей Викторович": 2,
-      "Садилова Ирина Владимировна": 2,
-      "Сивцев Евгений Викторович": 7,
-      "Симонова Раиса Наурдыевна": 1,
-      "Сторожев Геннадий Алексеевич": 13
+      "gas:candidate-vibid:25920001388604": 40,
+      "gas:candidate-vibid:25920001391198": 3,
+      "gas:candidate-vibid:25920001385656": 6,
+      "gas:candidate-vibid:25920001389008": 1,
+      "gas:candidate-vibid:25920001388525": 2,
+      "gas:candidate-vibid:25920001388338": 2,
+      "gas:candidate-vibid:25920001364699": 7,
+      "gas:candidate-vibid:25920001385238": 1,
+      "gas:candidate-vibid:25920001389271": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184788&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184788&type=464",
@@ -5353,15 +5353,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 84,
-      "Волынец Ирина Владимировна": 8,
-      "Пимкин Юрий Александрович": 5,
-      "Подаруев Степан Владимирович": 3,
-      "Рубан Алексей Викторович": 5,
-      "Садилова Ирина Владимировна": 3,
-      "Сивцев Евгений Викторович": 11,
-      "Симонова Раиса Наурдыевна": 3,
-      "Сторожев Геннадий Алексеевич": 15
+      "gas:candidate-vibid:25920001388604": 84,
+      "gas:candidate-vibid:25920001391198": 8,
+      "gas:candidate-vibid:25920001385656": 5,
+      "gas:candidate-vibid:25920001389008": 3,
+      "gas:candidate-vibid:25920001388525": 5,
+      "gas:candidate-vibid:25920001388338": 3,
+      "gas:candidate-vibid:25920001364699": 11,
+      "gas:candidate-vibid:25920001385238": 3,
+      "gas:candidate-vibid:25920001389271": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184788&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184788&type=464",
@@ -5412,15 +5412,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 93,
-      "Волынец Ирина Владимировна": 4,
-      "Пимкин Юрий Александрович": 7,
-      "Подаруев Степан Владимирович": 3,
-      "Рубан Алексей Викторович": 3,
-      "Садилова Ирина Владимировна": 4,
-      "Сивцев Евгений Викторович": 8,
-      "Симонова Раиса Наурдыевна": 1,
-      "Сторожев Геннадий Алексеевич": 7
+      "gas:candidate-vibid:25920001388604": 93,
+      "gas:candidate-vibid:25920001391198": 4,
+      "gas:candidate-vibid:25920001385656": 7,
+      "gas:candidate-vibid:25920001389008": 3,
+      "gas:candidate-vibid:25920001388525": 3,
+      "gas:candidate-vibid:25920001388338": 4,
+      "gas:candidate-vibid:25920001364699": 8,
+      "gas:candidate-vibid:25920001385238": 1,
+      "gas:candidate-vibid:25920001389271": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184788&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184788&type=464",
@@ -5471,15 +5471,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 50,
-      "Волынец Ирина Владимировна": 14,
-      "Пимкин Юрий Александрович": 6,
-      "Подаруев Степан Владимирович": 2,
-      "Рубан Алексей Викторович": 2,
-      "Садилова Ирина Владимировна": 2,
-      "Сивцев Евгений Викторович": 9,
-      "Симонова Раиса Наурдыевна": 2,
-      "Сторожев Геннадий Алексеевич": 5
+      "gas:candidate-vibid:25920001388604": 50,
+      "gas:candidate-vibid:25920001391198": 14,
+      "gas:candidate-vibid:25920001385656": 6,
+      "gas:candidate-vibid:25920001389008": 2,
+      "gas:candidate-vibid:25920001388525": 2,
+      "gas:candidate-vibid:25920001388338": 2,
+      "gas:candidate-vibid:25920001364699": 9,
+      "gas:candidate-vibid:25920001385238": 2,
+      "gas:candidate-vibid:25920001389271": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184788&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184788&type=464",
@@ -5530,15 +5530,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 117,
-      "Волынец Ирина Владимировна": 12,
-      "Пимкин Юрий Александрович": 2,
-      "Подаруев Степан Владимирович": 2,
-      "Рубан Алексей Викторович": 2,
-      "Садилова Ирина Владимировна": 2,
-      "Сивцев Евгений Викторович": 8,
-      "Симонова Раиса Наурдыевна": 2,
-      "Сторожев Геннадий Алексеевич": 9
+      "gas:candidate-vibid:25920001388604": 117,
+      "gas:candidate-vibid:25920001391198": 12,
+      "gas:candidate-vibid:25920001385656": 2,
+      "gas:candidate-vibid:25920001389008": 2,
+      "gas:candidate-vibid:25920001388525": 2,
+      "gas:candidate-vibid:25920001388338": 2,
+      "gas:candidate-vibid:25920001364699": 8,
+      "gas:candidate-vibid:25920001385238": 2,
+      "gas:candidate-vibid:25920001389271": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184789&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184789&type=464",
@@ -5589,15 +5589,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 102,
-      "Волынец Ирина Владимировна": 5,
-      "Пимкин Юрий Александрович": 6,
-      "Подаруев Степан Владимирович": 2,
-      "Рубан Алексей Викторович": 0,
-      "Садилова Ирина Владимировна": 4,
-      "Сивцев Евгений Викторович": 9,
-      "Симонова Раиса Наурдыевна": 5,
-      "Сторожев Геннадий Алексеевич": 8
+      "gas:candidate-vibid:25920001388604": 102,
+      "gas:candidate-vibid:25920001391198": 5,
+      "gas:candidate-vibid:25920001385656": 6,
+      "gas:candidate-vibid:25920001389008": 2,
+      "gas:candidate-vibid:25920001388525": 0,
+      "gas:candidate-vibid:25920001388338": 4,
+      "gas:candidate-vibid:25920001364699": 9,
+      "gas:candidate-vibid:25920001385238": 5,
+      "gas:candidate-vibid:25920001389271": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184789&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184789&type=464",
@@ -5648,15 +5648,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 56,
-      "Волынец Ирина Владимировна": 5,
-      "Пимкин Юрий Александрович": 1,
-      "Подаруев Степан Владимирович": 3,
-      "Рубан Алексей Викторович": 1,
-      "Садилова Ирина Владимировна": 1,
-      "Сивцев Евгений Викторович": 3,
-      "Симонова Раиса Наурдыевна": 0,
-      "Сторожев Геннадий Алексеевич": 1
+      "gas:candidate-vibid:25920001388604": 56,
+      "gas:candidate-vibid:25920001391198": 5,
+      "gas:candidate-vibid:25920001385656": 1,
+      "gas:candidate-vibid:25920001389008": 3,
+      "gas:candidate-vibid:25920001388525": 1,
+      "gas:candidate-vibid:25920001388338": 1,
+      "gas:candidate-vibid:25920001364699": 3,
+      "gas:candidate-vibid:25920001385238": 0,
+      "gas:candidate-vibid:25920001389271": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184789&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184789&type=464",
@@ -5707,15 +5707,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 104,
-      "Волынец Ирина Владимировна": 23,
-      "Пимкин Юрий Александрович": 17,
-      "Подаруев Степан Владимирович": 2,
-      "Рубан Алексей Викторович": 2,
-      "Садилова Ирина Владимировна": 5,
-      "Сивцев Евгений Викторович": 12,
-      "Симонова Раиса Наурдыевна": 2,
-      "Сторожев Геннадий Алексеевич": 8
+      "gas:candidate-vibid:25920001388604": 104,
+      "gas:candidate-vibid:25920001391198": 23,
+      "gas:candidate-vibid:25920001385656": 17,
+      "gas:candidate-vibid:25920001389008": 2,
+      "gas:candidate-vibid:25920001388525": 2,
+      "gas:candidate-vibid:25920001388338": 5,
+      "gas:candidate-vibid:25920001364699": 12,
+      "gas:candidate-vibid:25920001385238": 2,
+      "gas:candidate-vibid:25920001389271": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184789&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184789&type=464",
@@ -5766,15 +5766,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 106,
-      "Волынец Ирина Владимировна": 12,
-      "Пимкин Юрий Александрович": 11,
-      "Подаруев Степан Владимирович": 0,
-      "Рубан Алексей Викторович": 1,
-      "Садилова Ирина Владимировна": 4,
-      "Сивцев Евгений Викторович": 5,
-      "Симонова Раиса Наурдыевна": 1,
-      "Сторожев Геннадий Алексеевич": 15
+      "gas:candidate-vibid:25920001388604": 106,
+      "gas:candidate-vibid:25920001391198": 12,
+      "gas:candidate-vibid:25920001385656": 11,
+      "gas:candidate-vibid:25920001389008": 0,
+      "gas:candidate-vibid:25920001388525": 1,
+      "gas:candidate-vibid:25920001388338": 4,
+      "gas:candidate-vibid:25920001364699": 5,
+      "gas:candidate-vibid:25920001385238": 1,
+      "gas:candidate-vibid:25920001389271": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184789&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184789&type=464",
@@ -5825,15 +5825,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 307,
-      "Волынец Ирина Владимировна": 115,
-      "Пимкин Юрий Александрович": 44,
-      "Подаруев Степан Владимирович": 2,
-      "Рубан Алексей Викторович": 7,
-      "Садилова Ирина Владимировна": 24,
-      "Сивцев Евгений Викторович": 62,
-      "Симонова Раиса Наурдыевна": 6,
-      "Сторожев Геннадий Алексеевич": 50
+      "gas:candidate-vibid:25920001388604": 307,
+      "gas:candidate-vibid:25920001391198": 115,
+      "gas:candidate-vibid:25920001385656": 44,
+      "gas:candidate-vibid:25920001389008": 2,
+      "gas:candidate-vibid:25920001388525": 7,
+      "gas:candidate-vibid:25920001388338": 24,
+      "gas:candidate-vibid:25920001364699": 62,
+      "gas:candidate-vibid:25920001385238": 6,
+      "gas:candidate-vibid:25920001389271": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184789&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184789&type=464",
@@ -5884,15 +5884,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 209,
-      "Волынец Ирина Владимировна": 46,
-      "Пимкин Юрий Александрович": 19,
-      "Подаруев Степан Владимирович": 5,
-      "Рубан Алексей Викторович": 4,
-      "Садилова Ирина Владимировна": 14,
-      "Сивцев Евгений Викторович": 32,
-      "Симонова Раиса Наурдыевна": 6,
-      "Сторожев Геннадий Алексеевич": 26
+      "gas:candidate-vibid:25920001388604": 209,
+      "gas:candidate-vibid:25920001391198": 46,
+      "gas:candidate-vibid:25920001385656": 19,
+      "gas:candidate-vibid:25920001389008": 5,
+      "gas:candidate-vibid:25920001388525": 4,
+      "gas:candidate-vibid:25920001388338": 14,
+      "gas:candidate-vibid:25920001364699": 32,
+      "gas:candidate-vibid:25920001385238": 6,
+      "gas:candidate-vibid:25920001389271": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184789&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184789&type=464",
@@ -5943,15 +5943,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 372,
-      "Волынец Ирина Владимировна": 120,
-      "Пимкин Юрий Александрович": 37,
-      "Подаруев Степан Владимирович": 5,
-      "Рубан Алексей Викторович": 3,
-      "Садилова Ирина Владимировна": 15,
-      "Сивцев Евгений Викторович": 58,
-      "Симонова Раиса Наурдыевна": 9,
-      "Сторожев Геннадий Алексеевич": 43
+      "gas:candidate-vibid:25920001388604": 372,
+      "gas:candidate-vibid:25920001391198": 120,
+      "gas:candidate-vibid:25920001385656": 37,
+      "gas:candidate-vibid:25920001389008": 5,
+      "gas:candidate-vibid:25920001388525": 3,
+      "gas:candidate-vibid:25920001388338": 15,
+      "gas:candidate-vibid:25920001364699": 58,
+      "gas:candidate-vibid:25920001385238": 9,
+      "gas:candidate-vibid:25920001389271": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184789&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184789&type=464",
@@ -6002,15 +6002,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 104,
-      "Волынец Ирина Владимировна": 30,
-      "Пимкин Юрий Александрович": 20,
-      "Подаруев Степан Владимирович": 2,
-      "Рубан Алексей Викторович": 2,
-      "Садилова Ирина Владимировна": 4,
-      "Сивцев Евгений Викторович": 20,
-      "Симонова Раиса Наурдыевна": 1,
-      "Сторожев Геннадий Алексеевич": 24
+      "gas:candidate-vibid:25920001388604": 104,
+      "gas:candidate-vibid:25920001391198": 30,
+      "gas:candidate-vibid:25920001385656": 20,
+      "gas:candidate-vibid:25920001389008": 2,
+      "gas:candidate-vibid:25920001388525": 2,
+      "gas:candidate-vibid:25920001388338": 4,
+      "gas:candidate-vibid:25920001364699": 20,
+      "gas:candidate-vibid:25920001385238": 1,
+      "gas:candidate-vibid:25920001389271": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184789&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184789&type=464",
@@ -6061,15 +6061,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 144,
-      "Волынец Ирина Владимировна": 46,
-      "Пимкин Юрий Александрович": 17,
-      "Подаруев Степан Владимирович": 3,
-      "Рубан Алексей Викторович": 1,
-      "Садилова Ирина Владимировна": 5,
-      "Сивцев Евгений Викторович": 31,
-      "Симонова Раиса Наурдыевна": 2,
-      "Сторожев Геннадий Алексеевич": 25
+      "gas:candidate-vibid:25920001388604": 144,
+      "gas:candidate-vibid:25920001391198": 46,
+      "gas:candidate-vibid:25920001385656": 17,
+      "gas:candidate-vibid:25920001389008": 3,
+      "gas:candidate-vibid:25920001388525": 1,
+      "gas:candidate-vibid:25920001388338": 5,
+      "gas:candidate-vibid:25920001364699": 31,
+      "gas:candidate-vibid:25920001385238": 2,
+      "gas:candidate-vibid:25920001389271": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184789&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184789&type=464",
@@ -6120,15 +6120,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 99,
-      "Волынец Ирина Владимировна": 32,
-      "Пимкин Юрий Александрович": 16,
-      "Подаруев Степан Владимирович": 2,
-      "Рубан Алексей Викторович": 1,
-      "Садилова Ирина Владимировна": 5,
-      "Сивцев Евгений Викторович": 2,
-      "Симонова Раиса Наурдыевна": 0,
-      "Сторожев Геннадий Алексеевич": 9
+      "gas:candidate-vibid:25920001388604": 99,
+      "gas:candidate-vibid:25920001391198": 32,
+      "gas:candidate-vibid:25920001385656": 16,
+      "gas:candidate-vibid:25920001389008": 2,
+      "gas:candidate-vibid:25920001388525": 1,
+      "gas:candidate-vibid:25920001388338": 5,
+      "gas:candidate-vibid:25920001364699": 2,
+      "gas:candidate-vibid:25920001385238": 0,
+      "gas:candidate-vibid:25920001389271": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184789&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184789&type=464",
@@ -6179,15 +6179,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 58,
-      "Волынец Ирина Владимировна": 11,
-      "Пимкин Юрий Александрович": 10,
-      "Подаруев Степан Владимирович": 1,
-      "Рубан Алексей Викторович": 3,
-      "Садилова Ирина Владимировна": 3,
-      "Сивцев Евгений Викторович": 4,
-      "Симонова Раиса Наурдыевна": 1,
-      "Сторожев Геннадий Алексеевич": 3
+      "gas:candidate-vibid:25920001388604": 58,
+      "gas:candidate-vibid:25920001391198": 11,
+      "gas:candidate-vibid:25920001385656": 10,
+      "gas:candidate-vibid:25920001389008": 1,
+      "gas:candidate-vibid:25920001388525": 3,
+      "gas:candidate-vibid:25920001388338": 3,
+      "gas:candidate-vibid:25920001364699": 4,
+      "gas:candidate-vibid:25920001385238": 1,
+      "gas:candidate-vibid:25920001389271": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184789&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184789&type=464",
@@ -6238,15 +6238,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 36,
-      "Волынец Ирина Владимировна": 34,
-      "Пимкин Юрий Александрович": 15,
-      "Подаруев Степан Владимирович": 0,
-      "Рубан Алексей Викторович": 2,
-      "Садилова Ирина Владимировна": 0,
-      "Сивцев Евгений Викторович": 0,
-      "Симонова Раиса Наурдыевна": 0,
-      "Сторожев Геннадий Алексеевич": 14
+      "gas:candidate-vibid:25920001388604": 36,
+      "gas:candidate-vibid:25920001391198": 34,
+      "gas:candidate-vibid:25920001385656": 15,
+      "gas:candidate-vibid:25920001389008": 0,
+      "gas:candidate-vibid:25920001388525": 2,
+      "gas:candidate-vibid:25920001388338": 0,
+      "gas:candidate-vibid:25920001364699": 0,
+      "gas:candidate-vibid:25920001385238": 0,
+      "gas:candidate-vibid:25920001389271": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184789&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184789&type=464",
@@ -6297,15 +6297,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 144,
-      "Волынец Ирина Владимировна": 21,
-      "Пимкин Юрий Александрович": 13,
-      "Подаруев Степан Владимирович": 0,
-      "Рубан Алексей Викторович": 1,
-      "Садилова Ирина Владимировна": 10,
-      "Сивцев Евгений Викторович": 22,
-      "Симонова Раиса Наурдыевна": 4,
-      "Сторожев Геннадий Алексеевич": 27
+      "gas:candidate-vibid:25920001388604": 144,
+      "gas:candidate-vibid:25920001391198": 21,
+      "gas:candidate-vibid:25920001385656": 13,
+      "gas:candidate-vibid:25920001389008": 0,
+      "gas:candidate-vibid:25920001388525": 1,
+      "gas:candidate-vibid:25920001388338": 10,
+      "gas:candidate-vibid:25920001364699": 22,
+      "gas:candidate-vibid:25920001385238": 4,
+      "gas:candidate-vibid:25920001389271": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184789&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184789&type=464",
@@ -6356,15 +6356,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 106,
-      "Волынец Ирина Владимировна": 26,
-      "Пимкин Юрий Александрович": 10,
-      "Подаруев Степан Владимирович": 1,
-      "Рубан Алексей Викторович": 3,
-      "Садилова Ирина Владимировна": 5,
-      "Сивцев Евгений Викторович": 6,
-      "Симонова Раиса Наурдыевна": 3,
-      "Сторожев Геннадий Алексеевич": 3
+      "gas:candidate-vibid:25920001388604": 106,
+      "gas:candidate-vibid:25920001391198": 26,
+      "gas:candidate-vibid:25920001385656": 10,
+      "gas:candidate-vibid:25920001389008": 1,
+      "gas:candidate-vibid:25920001388525": 3,
+      "gas:candidate-vibid:25920001388338": 5,
+      "gas:candidate-vibid:25920001364699": 6,
+      "gas:candidate-vibid:25920001385238": 3,
+      "gas:candidate-vibid:25920001389271": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184789&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184789&type=464",
@@ -6415,15 +6415,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 42,
-      "Волынец Ирина Владимировна": 19,
-      "Пимкин Юрий Александрович": 10,
-      "Подаруев Степан Владимирович": 2,
-      "Рубан Алексей Викторович": 0,
-      "Садилова Ирина Владимировна": 2,
-      "Сивцев Евгений Викторович": 4,
-      "Симонова Раиса Наурдыевна": 2,
-      "Сторожев Геннадий Алексеевич": 4
+      "gas:candidate-vibid:25920001388604": 42,
+      "gas:candidate-vibid:25920001391198": 19,
+      "gas:candidate-vibid:25920001385656": 10,
+      "gas:candidate-vibid:25920001389008": 2,
+      "gas:candidate-vibid:25920001388525": 0,
+      "gas:candidate-vibid:25920001388338": 2,
+      "gas:candidate-vibid:25920001364699": 4,
+      "gas:candidate-vibid:25920001385238": 2,
+      "gas:candidate-vibid:25920001389271": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184789&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184789&type=464",
@@ -6474,15 +6474,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 31,
-      "Волынец Ирина Владимировна": 13,
-      "Пимкин Юрий Александрович": 4,
-      "Подаруев Степан Владимирович": 0,
-      "Рубан Алексей Викторович": 2,
-      "Садилова Ирина Владимировна": 5,
-      "Сивцев Евгений Викторович": 4,
-      "Симонова Раиса Наурдыевна": 1,
-      "Сторожев Геннадий Алексеевич": 2
+      "gas:candidate-vibid:25920001388604": 31,
+      "gas:candidate-vibid:25920001391198": 13,
+      "gas:candidate-vibid:25920001385656": 4,
+      "gas:candidate-vibid:25920001389008": 0,
+      "gas:candidate-vibid:25920001388525": 2,
+      "gas:candidate-vibid:25920001388338": 5,
+      "gas:candidate-vibid:25920001364699": 4,
+      "gas:candidate-vibid:25920001385238": 1,
+      "gas:candidate-vibid:25920001389271": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184789&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184789&type=464",
@@ -6533,15 +6533,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 102,
-      "Волынец Ирина Владимировна": 12,
-      "Пимкин Юрий Александрович": 4,
-      "Подаруев Степан Владимирович": 3,
-      "Рубан Алексей Викторович": 3,
-      "Садилова Ирина Владимировна": 0,
-      "Сивцев Евгений Викторович": 8,
-      "Симонова Раиса Наурдыевна": 0,
-      "Сторожев Геннадий Алексеевич": 9
+      "gas:candidate-vibid:25920001388604": 102,
+      "gas:candidate-vibid:25920001391198": 12,
+      "gas:candidate-vibid:25920001385656": 4,
+      "gas:candidate-vibid:25920001389008": 3,
+      "gas:candidate-vibid:25920001388525": 3,
+      "gas:candidate-vibid:25920001388338": 0,
+      "gas:candidate-vibid:25920001364699": 8,
+      "gas:candidate-vibid:25920001385238": 0,
+      "gas:candidate-vibid:25920001389271": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184789&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184789&type=464",
@@ -6592,15 +6592,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 50,
-      "Волынец Ирина Владимировна": 6,
-      "Пимкин Юрий Александрович": 7,
-      "Подаруев Степан Владимирович": 0,
-      "Рубан Алексей Викторович": 3,
-      "Садилова Ирина Владимировна": 0,
-      "Сивцев Евгений Викторович": 18,
-      "Симонова Раиса Наурдыевна": 1,
-      "Сторожев Геннадий Алексеевич": 5
+      "gas:candidate-vibid:25920001388604": 50,
+      "gas:candidate-vibid:25920001391198": 6,
+      "gas:candidate-vibid:25920001385656": 7,
+      "gas:candidate-vibid:25920001389008": 0,
+      "gas:candidate-vibid:25920001388525": 3,
+      "gas:candidate-vibid:25920001388338": 0,
+      "gas:candidate-vibid:25920001364699": 18,
+      "gas:candidate-vibid:25920001385238": 1,
+      "gas:candidate-vibid:25920001389271": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184789&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184789&type=464",
@@ -6651,15 +6651,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 28,
-      "Волынец Ирина Владимировна": 4,
-      "Пимкин Юрий Александрович": 4,
-      "Подаруев Степан Владимирович": 0,
-      "Рубан Алексей Викторович": 2,
-      "Садилова Ирина Владимировна": 1,
-      "Сивцев Евгений Викторович": 4,
-      "Симонова Раиса Наурдыевна": 1,
-      "Сторожев Геннадий Алексеевич": 13
+      "gas:candidate-vibid:25920001388604": 28,
+      "gas:candidate-vibid:25920001391198": 4,
+      "gas:candidate-vibid:25920001385656": 4,
+      "gas:candidate-vibid:25920001389008": 0,
+      "gas:candidate-vibid:25920001388525": 2,
+      "gas:candidate-vibid:25920001388338": 1,
+      "gas:candidate-vibid:25920001364699": 4,
+      "gas:candidate-vibid:25920001385238": 1,
+      "gas:candidate-vibid:25920001389271": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184789&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184789&type=464",
@@ -6710,15 +6710,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 58,
-      "Волынец Ирина Владимировна": 14,
-      "Пимкин Юрий Александрович": 3,
-      "Подаруев Степан Владимирович": 0,
-      "Рубан Алексей Викторович": 3,
-      "Садилова Ирина Владимировна": 4,
-      "Сивцев Евгений Викторович": 3,
-      "Симонова Раиса Наурдыевна": 3,
-      "Сторожев Геннадий Алексеевич": 10
+      "gas:candidate-vibid:25920001388604": 58,
+      "gas:candidate-vibid:25920001391198": 14,
+      "gas:candidate-vibid:25920001385656": 3,
+      "gas:candidate-vibid:25920001389008": 0,
+      "gas:candidate-vibid:25920001388525": 3,
+      "gas:candidate-vibid:25920001388338": 4,
+      "gas:candidate-vibid:25920001364699": 3,
+      "gas:candidate-vibid:25920001385238": 3,
+      "gas:candidate-vibid:25920001389271": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184789&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184789&type=464",
@@ -6769,15 +6769,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 125,
-      "Волынец Ирина Владимировна": 30,
-      "Пимкин Юрий Александрович": 16,
-      "Подаруев Степан Владимирович": 3,
-      "Рубан Алексей Викторович": 0,
-      "Садилова Ирина Владимировна": 7,
-      "Сивцев Евгений Викторович": 9,
-      "Симонова Раиса Наурдыевна": 3,
-      "Сторожев Геннадий Алексеевич": 18
+      "gas:candidate-vibid:25920001388604": 125,
+      "gas:candidate-vibid:25920001391198": 30,
+      "gas:candidate-vibid:25920001385656": 16,
+      "gas:candidate-vibid:25920001389008": 3,
+      "gas:candidate-vibid:25920001388525": 0,
+      "gas:candidate-vibid:25920001388338": 7,
+      "gas:candidate-vibid:25920001364699": 9,
+      "gas:candidate-vibid:25920001385238": 3,
+      "gas:candidate-vibid:25920001389271": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184789&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184789&type=464",
@@ -6828,15 +6828,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 35,
-      "Волынец Ирина Владимировна": 7,
-      "Пимкин Юрий Александрович": 3,
-      "Подаруев Степан Владимирович": 0,
-      "Рубан Алексей Викторович": 0,
-      "Садилова Ирина Владимировна": 2,
-      "Сивцев Евгений Викторович": 1,
-      "Симонова Раиса Наурдыевна": 0,
-      "Сторожев Геннадий Алексеевич": 2
+      "gas:candidate-vibid:25920001388604": 35,
+      "gas:candidate-vibid:25920001391198": 7,
+      "gas:candidate-vibid:25920001385656": 3,
+      "gas:candidate-vibid:25920001389008": 0,
+      "gas:candidate-vibid:25920001388525": 0,
+      "gas:candidate-vibid:25920001388338": 2,
+      "gas:candidate-vibid:25920001364699": 1,
+      "gas:candidate-vibid:25920001385238": 0,
+      "gas:candidate-vibid:25920001389271": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184789&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184789&type=464",
@@ -6887,15 +6887,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 26,
-      "Волынец Ирина Владимировна": 8,
-      "Пимкин Юрий Александрович": 8,
-      "Подаруев Степан Владимирович": 0,
-      "Рубан Алексей Викторович": 2,
-      "Садилова Ирина Владимировна": 0,
-      "Сивцев Евгений Викторович": 7,
-      "Симонова Раиса Наурдыевна": 1,
-      "Сторожев Геннадий Алексеевич": 7
+      "gas:candidate-vibid:25920001388604": 26,
+      "gas:candidate-vibid:25920001391198": 8,
+      "gas:candidate-vibid:25920001385656": 8,
+      "gas:candidate-vibid:25920001389008": 0,
+      "gas:candidate-vibid:25920001388525": 2,
+      "gas:candidate-vibid:25920001388338": 0,
+      "gas:candidate-vibid:25920001364699": 7,
+      "gas:candidate-vibid:25920001385238": 1,
+      "gas:candidate-vibid:25920001389271": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184789&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184789&type=464",
@@ -6946,15 +6946,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 43,
-      "Волынец Ирина Владимировна": 12,
-      "Пимкин Юрий Александрович": 30,
-      "Подаруев Степан Владимирович": 0,
-      "Рубан Алексей Викторович": 1,
-      "Садилова Ирина Владимировна": 3,
-      "Сивцев Евгений Викторович": 4,
-      "Симонова Раиса Наурдыевна": 1,
-      "Сторожев Геннадий Алексеевич": 50
+      "gas:candidate-vibid:25920001388604": 43,
+      "gas:candidate-vibid:25920001391198": 12,
+      "gas:candidate-vibid:25920001385656": 30,
+      "gas:candidate-vibid:25920001389008": 0,
+      "gas:candidate-vibid:25920001388525": 1,
+      "gas:candidate-vibid:25920001388338": 3,
+      "gas:candidate-vibid:25920001364699": 4,
+      "gas:candidate-vibid:25920001385238": 1,
+      "gas:candidate-vibid:25920001389271": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184789&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184789&type=464",
@@ -7005,15 +7005,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 63,
-      "Волынец Ирина Владимировна": 19,
-      "Пимкин Юрий Александрович": 3,
-      "Подаруев Степан Владимирович": 1,
-      "Рубан Алексей Викторович": 0,
-      "Садилова Ирина Владимировна": 9,
-      "Сивцев Евгений Викторович": 7,
-      "Симонова Раиса Наурдыевна": 1,
-      "Сторожев Геннадий Алексеевич": 11
+      "gas:candidate-vibid:25920001388604": 63,
+      "gas:candidate-vibid:25920001391198": 19,
+      "gas:candidate-vibid:25920001385656": 3,
+      "gas:candidate-vibid:25920001389008": 1,
+      "gas:candidate-vibid:25920001388525": 0,
+      "gas:candidate-vibid:25920001388338": 9,
+      "gas:candidate-vibid:25920001364699": 7,
+      "gas:candidate-vibid:25920001385238": 1,
+      "gas:candidate-vibid:25920001389271": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184789&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184789&type=464",
@@ -7064,15 +7064,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 38,
-      "Волынец Ирина Владимировна": 12,
-      "Пимкин Юрий Александрович": 21,
-      "Подаруев Степан Владимирович": 0,
-      "Рубан Алексей Викторович": 1,
-      "Садилова Ирина Владимировна": 0,
-      "Сивцев Евгений Викторович": 4,
-      "Симонова Раиса Наурдыевна": 5,
-      "Сторожев Геннадий Алексеевич": 23
+      "gas:candidate-vibid:25920001388604": 38,
+      "gas:candidate-vibid:25920001391198": 12,
+      "gas:candidate-vibid:25920001385656": 21,
+      "gas:candidate-vibid:25920001389008": 0,
+      "gas:candidate-vibid:25920001388525": 1,
+      "gas:candidate-vibid:25920001388338": 0,
+      "gas:candidate-vibid:25920001364699": 4,
+      "gas:candidate-vibid:25920001385238": 5,
+      "gas:candidate-vibid:25920001389271": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184789&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184789&type=464",
@@ -7123,15 +7123,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 130,
-      "Волынец Ирина Владимировна": 11,
-      "Пимкин Юрий Александрович": 16,
-      "Подаруев Степан Владимирович": 2,
-      "Рубан Алексей Викторович": 2,
-      "Садилова Ирина Владимировна": 10,
-      "Сивцев Евгений Викторович": 18,
-      "Симонова Раиса Наурдыевна": 2,
-      "Сторожев Геннадий Алексеевич": 20
+      "gas:candidate-vibid:25920001388604": 130,
+      "gas:candidate-vibid:25920001391198": 11,
+      "gas:candidate-vibid:25920001385656": 16,
+      "gas:candidate-vibid:25920001389008": 2,
+      "gas:candidate-vibid:25920001388525": 2,
+      "gas:candidate-vibid:25920001388338": 10,
+      "gas:candidate-vibid:25920001364699": 18,
+      "gas:candidate-vibid:25920001385238": 2,
+      "gas:candidate-vibid:25920001389271": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184789&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184789&type=464",
@@ -7182,15 +7182,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 50,
-      "Волынец Ирина Владимировна": 2,
-      "Пимкин Юрий Александрович": 5,
-      "Подаруев Степан Владимирович": 0,
-      "Рубан Алексей Викторович": 1,
-      "Садилова Ирина Владимировна": 2,
-      "Сивцев Евгений Викторович": 1,
-      "Симонова Раиса Наурдыевна": 1,
-      "Сторожев Геннадий Алексеевич": 1
+      "gas:candidate-vibid:25920001388604": 50,
+      "gas:candidate-vibid:25920001391198": 2,
+      "gas:candidate-vibid:25920001385656": 5,
+      "gas:candidate-vibid:25920001389008": 0,
+      "gas:candidate-vibid:25920001388525": 1,
+      "gas:candidate-vibid:25920001388338": 2,
+      "gas:candidate-vibid:25920001364699": 1,
+      "gas:candidate-vibid:25920001385238": 1,
+      "gas:candidate-vibid:25920001389271": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184789&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184789&type=464",
@@ -7241,15 +7241,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 32,
-      "Волынец Ирина Владимировна": 1,
-      "Пимкин Юрий Александрович": 4,
-      "Подаруев Степан Владимирович": 2,
-      "Рубан Алексей Викторович": 1,
-      "Садилова Ирина Владимировна": 0,
-      "Сивцев Евгений Викторович": 4,
-      "Симонова Раиса Наурдыевна": 0,
-      "Сторожев Геннадий Алексеевич": 1
+      "gas:candidate-vibid:25920001388604": 32,
+      "gas:candidate-vibid:25920001391198": 1,
+      "gas:candidate-vibid:25920001385656": 4,
+      "gas:candidate-vibid:25920001389008": 2,
+      "gas:candidate-vibid:25920001388525": 1,
+      "gas:candidate-vibid:25920001388338": 0,
+      "gas:candidate-vibid:25920001364699": 4,
+      "gas:candidate-vibid:25920001385238": 0,
+      "gas:candidate-vibid:25920001389271": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184789&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184789&type=464",
@@ -7300,15 +7300,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 60,
-      "Волынец Ирина Владимировна": 5,
-      "Пимкин Юрий Александрович": 5,
-      "Подаруев Степан Владимирович": 0,
-      "Рубан Алексей Викторович": 0,
-      "Садилова Ирина Владимировна": 1,
-      "Сивцев Евгений Викторович": 2,
-      "Симонова Раиса Наурдыевна": 0,
-      "Сторожев Геннадий Алексеевич": 0
+      "gas:candidate-vibid:25920001388604": 60,
+      "gas:candidate-vibid:25920001391198": 5,
+      "gas:candidate-vibid:25920001385656": 5,
+      "gas:candidate-vibid:25920001389008": 0,
+      "gas:candidate-vibid:25920001388525": 0,
+      "gas:candidate-vibid:25920001388338": 1,
+      "gas:candidate-vibid:25920001364699": 2,
+      "gas:candidate-vibid:25920001385238": 0,
+      "gas:candidate-vibid:25920001389271": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184789&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184789&type=464",
@@ -7359,15 +7359,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 103,
-      "Волынец Ирина Владимировна": 17,
-      "Пимкин Юрий Александрович": 10,
-      "Подаруев Степан Владимирович": 1,
-      "Рубан Алексей Викторович": 1,
-      "Садилова Ирина Владимировна": 5,
-      "Сивцев Евгений Викторович": 9,
-      "Симонова Раиса Наурдыевна": 4,
-      "Сторожев Геннадий Алексеевич": 14
+      "gas:candidate-vibid:25920001388604": 103,
+      "gas:candidate-vibid:25920001391198": 17,
+      "gas:candidate-vibid:25920001385656": 10,
+      "gas:candidate-vibid:25920001389008": 1,
+      "gas:candidate-vibid:25920001388525": 1,
+      "gas:candidate-vibid:25920001388338": 5,
+      "gas:candidate-vibid:25920001364699": 9,
+      "gas:candidate-vibid:25920001385238": 4,
+      "gas:candidate-vibid:25920001389271": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184789&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184789&type=464",
@@ -7418,15 +7418,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 94,
-      "Волынец Ирина Владимировна": 15,
-      "Пимкин Юрий Александрович": 2,
-      "Подаруев Степан Владимирович": 5,
-      "Рубан Алексей Викторович": 2,
-      "Садилова Ирина Владимировна": 1,
-      "Сивцев Евгений Викторович": 16,
-      "Симонова Раиса Наурдыевна": 2,
-      "Сторожев Геннадий Алексеевич": 9
+      "gas:candidate-vibid:25920001388604": 94,
+      "gas:candidate-vibid:25920001391198": 15,
+      "gas:candidate-vibid:25920001385656": 2,
+      "gas:candidate-vibid:25920001389008": 5,
+      "gas:candidate-vibid:25920001388525": 2,
+      "gas:candidate-vibid:25920001388338": 1,
+      "gas:candidate-vibid:25920001364699": 16,
+      "gas:candidate-vibid:25920001385238": 2,
+      "gas:candidate-vibid:25920001389271": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184789&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184789&type=464",
@@ -7477,15 +7477,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 187,
-      "Волынец Ирина Владимировна": 53,
-      "Пимкин Юрий Александрович": 22,
-      "Подаруев Степан Владимирович": 11,
-      "Рубан Алексей Викторович": 8,
-      "Садилова Ирина Владимировна": 26,
-      "Сивцев Евгений Викторович": 68,
-      "Симонова Раиса Наурдыевна": 10,
-      "Сторожев Геннадий Алексеевич": 42
+      "gas:candidate-vibid:25920001388604": 187,
+      "gas:candidate-vibid:25920001391198": 53,
+      "gas:candidate-vibid:25920001385656": 22,
+      "gas:candidate-vibid:25920001389008": 11,
+      "gas:candidate-vibid:25920001388525": 8,
+      "gas:candidate-vibid:25920001388338": 26,
+      "gas:candidate-vibid:25920001364699": 68,
+      "gas:candidate-vibid:25920001385238": 10,
+      "gas:candidate-vibid:25920001389271": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184790&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184790&type=464",
@@ -7536,15 +7536,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 172,
-      "Волынец Ирина Владимировна": 48,
-      "Пимкин Юрий Александрович": 19,
-      "Подаруев Степан Владимирович": 6,
-      "Рубан Алексей Викторович": 7,
-      "Садилова Ирина Владимировна": 21,
-      "Сивцев Евгений Викторович": 46,
-      "Симонова Раиса Наурдыевна": 12,
-      "Сторожев Геннадий Алексеевич": 31
+      "gas:candidate-vibid:25920001388604": 172,
+      "gas:candidate-vibid:25920001391198": 48,
+      "gas:candidate-vibid:25920001385656": 19,
+      "gas:candidate-vibid:25920001389008": 6,
+      "gas:candidate-vibid:25920001388525": 7,
+      "gas:candidate-vibid:25920001388338": 21,
+      "gas:candidate-vibid:25920001364699": 46,
+      "gas:candidate-vibid:25920001385238": 12,
+      "gas:candidate-vibid:25920001389271": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184790&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184790&type=464",
@@ -7595,15 +7595,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 170,
-      "Волынец Ирина Владимировна": 52,
-      "Пимкин Юрий Александрович": 30,
-      "Подаруев Степан Владимирович": 6,
-      "Рубан Алексей Викторович": 2,
-      "Садилова Ирина Владимировна": 29,
-      "Сивцев Евгений Викторович": 73,
-      "Симонова Раиса Наурдыевна": 2,
-      "Сторожев Геннадий Алексеевич": 46
+      "gas:candidate-vibid:25920001388604": 170,
+      "gas:candidate-vibid:25920001391198": 52,
+      "gas:candidate-vibid:25920001385656": 30,
+      "gas:candidate-vibid:25920001389008": 6,
+      "gas:candidate-vibid:25920001388525": 2,
+      "gas:candidate-vibid:25920001388338": 29,
+      "gas:candidate-vibid:25920001364699": 73,
+      "gas:candidate-vibid:25920001385238": 2,
+      "gas:candidate-vibid:25920001389271": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184790&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184790&type=464",
@@ -7654,15 +7654,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 177,
-      "Волынец Ирина Владимировна": 48,
-      "Пимкин Юрий Александрович": 17,
-      "Подаруев Степан Владимирович": 9,
-      "Рубан Алексей Викторович": 4,
-      "Садилова Ирина Владимировна": 17,
-      "Сивцев Евгений Викторович": 52,
-      "Симонова Раиса Наурдыевна": 3,
-      "Сторожев Геннадий Алексеевич": 23
+      "gas:candidate-vibid:25920001388604": 177,
+      "gas:candidate-vibid:25920001391198": 48,
+      "gas:candidate-vibid:25920001385656": 17,
+      "gas:candidate-vibid:25920001389008": 9,
+      "gas:candidate-vibid:25920001388525": 4,
+      "gas:candidate-vibid:25920001388338": 17,
+      "gas:candidate-vibid:25920001364699": 52,
+      "gas:candidate-vibid:25920001385238": 3,
+      "gas:candidate-vibid:25920001389271": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184790&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184790&type=464",
@@ -7713,15 +7713,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 175,
-      "Волынец Ирина Владимировна": 48,
-      "Пимкин Юрий Александрович": 28,
-      "Подаруев Степан Владимирович": 6,
-      "Рубан Алексей Викторович": 9,
-      "Садилова Ирина Владимировна": 19,
-      "Сивцев Евгений Викторович": 61,
-      "Симонова Раиса Наурдыевна": 7,
-      "Сторожев Геннадий Алексеевич": 35
+      "gas:candidate-vibid:25920001388604": 175,
+      "gas:candidate-vibid:25920001391198": 48,
+      "gas:candidate-vibid:25920001385656": 28,
+      "gas:candidate-vibid:25920001389008": 6,
+      "gas:candidate-vibid:25920001388525": 9,
+      "gas:candidate-vibid:25920001388338": 19,
+      "gas:candidate-vibid:25920001364699": 61,
+      "gas:candidate-vibid:25920001385238": 7,
+      "gas:candidate-vibid:25920001389271": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184790&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184790&type=464",
@@ -7772,15 +7772,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 149,
-      "Волынец Ирина Владимировна": 47,
-      "Пимкин Юрий Александрович": 25,
-      "Подаруев Степан Владимирович": 1,
-      "Рубан Алексей Викторович": 6,
-      "Садилова Ирина Владимировна": 16,
-      "Сивцев Евгений Викторович": 60,
-      "Симонова Раиса Наурдыевна": 8,
-      "Сторожев Геннадий Алексеевич": 34
+      "gas:candidate-vibid:25920001388604": 149,
+      "gas:candidate-vibid:25920001391198": 47,
+      "gas:candidate-vibid:25920001385656": 25,
+      "gas:candidate-vibid:25920001389008": 1,
+      "gas:candidate-vibid:25920001388525": 6,
+      "gas:candidate-vibid:25920001388338": 16,
+      "gas:candidate-vibid:25920001364699": 60,
+      "gas:candidate-vibid:25920001385238": 8,
+      "gas:candidate-vibid:25920001389271": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184790&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184790&type=464",
@@ -7831,15 +7831,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 173,
-      "Волынец Ирина Владимировна": 40,
-      "Пимкин Юрий Александрович": 21,
-      "Подаруев Степан Владимирович": 4,
-      "Рубан Алексей Викторович": 9,
-      "Садилова Ирина Владимировна": 21,
-      "Сивцев Евгений Викторович": 59,
-      "Симонова Раиса Наурдыевна": 13,
-      "Сторожев Геннадий Алексеевич": 32
+      "gas:candidate-vibid:25920001388604": 173,
+      "gas:candidate-vibid:25920001391198": 40,
+      "gas:candidate-vibid:25920001385656": 21,
+      "gas:candidate-vibid:25920001389008": 4,
+      "gas:candidate-vibid:25920001388525": 9,
+      "gas:candidate-vibid:25920001388338": 21,
+      "gas:candidate-vibid:25920001364699": 59,
+      "gas:candidate-vibid:25920001385238": 13,
+      "gas:candidate-vibid:25920001389271": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184790&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184790&type=464",
@@ -7890,15 +7890,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 96,
-      "Волынец Ирина Владимировна": 2,
-      "Пимкин Юрий Александрович": 7,
-      "Подаруев Степан Владимирович": 1,
-      "Рубан Алексей Викторович": 4,
-      "Садилова Ирина Владимировна": 1,
-      "Сивцев Евгений Викторович": 10,
-      "Симонова Раиса Наурдыевна": 0,
-      "Сторожев Геннадий Алексеевич": 2
+      "gas:candidate-vibid:25920001388604": 96,
+      "gas:candidate-vibid:25920001391198": 2,
+      "gas:candidate-vibid:25920001385656": 7,
+      "gas:candidate-vibid:25920001389008": 1,
+      "gas:candidate-vibid:25920001388525": 4,
+      "gas:candidate-vibid:25920001388338": 1,
+      "gas:candidate-vibid:25920001364699": 10,
+      "gas:candidate-vibid:25920001385238": 0,
+      "gas:candidate-vibid:25920001389271": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184790&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184790&type=464",
@@ -7949,15 +7949,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 161,
-      "Волынец Ирина Владимировна": 32,
-      "Пимкин Юрий Александрович": 22,
-      "Подаруев Степан Владимирович": 8,
-      "Рубан Алексей Викторович": 4,
-      "Садилова Ирина Владимировна": 13,
-      "Сивцев Евгений Викторович": 38,
-      "Симонова Раиса Наурдыевна": 6,
-      "Сторожев Геннадий Алексеевич": 20
+      "gas:candidate-vibid:25920001388604": 161,
+      "gas:candidate-vibid:25920001391198": 32,
+      "gas:candidate-vibid:25920001385656": 22,
+      "gas:candidate-vibid:25920001389008": 8,
+      "gas:candidate-vibid:25920001388525": 4,
+      "gas:candidate-vibid:25920001388338": 13,
+      "gas:candidate-vibid:25920001364699": 38,
+      "gas:candidate-vibid:25920001385238": 6,
+      "gas:candidate-vibid:25920001389271": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184790&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184790&type=464",
@@ -8008,15 +8008,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 229,
-      "Волынец Ирина Владимировна": 35,
-      "Пимкин Юрий Александрович": 18,
-      "Подаруев Степан Владимирович": 4,
-      "Рубан Алексей Викторович": 4,
-      "Садилова Ирина Владимировна": 17,
-      "Сивцев Евгений Викторович": 54,
-      "Симонова Раиса Наурдыевна": 6,
-      "Сторожев Геннадий Алексеевич": 22
+      "gas:candidate-vibid:25920001388604": 229,
+      "gas:candidate-vibid:25920001391198": 35,
+      "gas:candidate-vibid:25920001385656": 18,
+      "gas:candidate-vibid:25920001389008": 4,
+      "gas:candidate-vibid:25920001388525": 4,
+      "gas:candidate-vibid:25920001388338": 17,
+      "gas:candidate-vibid:25920001364699": 54,
+      "gas:candidate-vibid:25920001385238": 6,
+      "gas:candidate-vibid:25920001389271": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184790&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184790&type=464",
@@ -8067,15 +8067,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 60,
-      "Волынец Ирина Владимировна": 19,
-      "Пимкин Юрий Александрович": 15,
-      "Подаруев Степан Владимирович": 2,
-      "Рубан Алексей Викторович": 8,
-      "Садилова Ирина Владимировна": 11,
-      "Сивцев Евгений Викторович": 25,
-      "Симонова Раиса Наурдыевна": 2,
-      "Сторожев Геннадий Алексеевич": 12
+      "gas:candidate-vibid:25920001388604": 60,
+      "gas:candidate-vibid:25920001391198": 19,
+      "gas:candidate-vibid:25920001385656": 15,
+      "gas:candidate-vibid:25920001389008": 2,
+      "gas:candidate-vibid:25920001388525": 8,
+      "gas:candidate-vibid:25920001388338": 11,
+      "gas:candidate-vibid:25920001364699": 25,
+      "gas:candidate-vibid:25920001385238": 2,
+      "gas:candidate-vibid:25920001389271": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184790&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184790&type=464",
@@ -8126,15 +8126,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 55,
-      "Волынец Ирина Владимировна": 1,
-      "Пимкин Юрий Александрович": 1,
-      "Подаруев Степан Владимирович": 1,
-      "Рубан Алексей Викторович": 1,
-      "Садилова Ирина Владимировна": 1,
-      "Сивцев Евгений Викторович": 41,
-      "Симонова Раиса Наурдыевна": 0,
-      "Сторожев Геннадий Алексеевич": 1
+      "gas:candidate-vibid:25920001388604": 55,
+      "gas:candidate-vibid:25920001391198": 1,
+      "gas:candidate-vibid:25920001385656": 1,
+      "gas:candidate-vibid:25920001389008": 1,
+      "gas:candidate-vibid:25920001388525": 1,
+      "gas:candidate-vibid:25920001388338": 1,
+      "gas:candidate-vibid:25920001364699": 41,
+      "gas:candidate-vibid:25920001385238": 0,
+      "gas:candidate-vibid:25920001389271": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184790&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184790&type=464",
@@ -8185,15 +8185,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 182,
-      "Волынец Ирина Владимировна": 50,
-      "Пимкин Юрий Александрович": 32,
-      "Подаруев Степан Владимирович": 6,
-      "Рубан Алексей Викторович": 7,
-      "Садилова Ирина Владимировна": 16,
-      "Сивцев Евгений Викторович": 53,
-      "Симонова Раиса Наурдыевна": 6,
-      "Сторожев Геннадий Алексеевич": 16
+      "gas:candidate-vibid:25920001388604": 182,
+      "gas:candidate-vibid:25920001391198": 50,
+      "gas:candidate-vibid:25920001385656": 32,
+      "gas:candidate-vibid:25920001389008": 6,
+      "gas:candidate-vibid:25920001388525": 7,
+      "gas:candidate-vibid:25920001388338": 16,
+      "gas:candidate-vibid:25920001364699": 53,
+      "gas:candidate-vibid:25920001385238": 6,
+      "gas:candidate-vibid:25920001389271": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184790&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184790&type=464",
@@ -8244,15 +8244,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 49,
-      "Волынец Ирина Владимировна": 14,
-      "Пимкин Юрий Александрович": 4,
-      "Подаруев Степан Владимирович": 4,
-      "Рубан Алексей Викторович": 4,
-      "Садилова Ирина Владимировна": 15,
-      "Сивцев Евгений Викторович": 18,
-      "Симонова Раиса Наурдыевна": 2,
-      "Сторожев Геннадий Алексеевич": 16
+      "gas:candidate-vibid:25920001388604": 49,
+      "gas:candidate-vibid:25920001391198": 14,
+      "gas:candidate-vibid:25920001385656": 4,
+      "gas:candidate-vibid:25920001389008": 4,
+      "gas:candidate-vibid:25920001388525": 4,
+      "gas:candidate-vibid:25920001388338": 15,
+      "gas:candidate-vibid:25920001364699": 18,
+      "gas:candidate-vibid:25920001385238": 2,
+      "gas:candidate-vibid:25920001389271": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184790&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184790&type=464",
@@ -8303,15 +8303,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 240,
-      "Волынец Ирина Владимировна": 51,
-      "Пимкин Юрий Александрович": 33,
-      "Подаруев Степан Владимирович": 9,
-      "Рубан Алексей Викторович": 4,
-      "Садилова Ирина Владимировна": 22,
-      "Сивцев Евгений Викторович": 53,
-      "Симонова Раиса Наурдыевна": 6,
-      "Сторожев Геннадий Алексеевич": 35
+      "gas:candidate-vibid:25920001388604": 240,
+      "gas:candidate-vibid:25920001391198": 51,
+      "gas:candidate-vibid:25920001385656": 33,
+      "gas:candidate-vibid:25920001389008": 9,
+      "gas:candidate-vibid:25920001388525": 4,
+      "gas:candidate-vibid:25920001388338": 22,
+      "gas:candidate-vibid:25920001364699": 53,
+      "gas:candidate-vibid:25920001385238": 6,
+      "gas:candidate-vibid:25920001389271": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184790&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184790&type=464",
@@ -8362,15 +8362,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 123,
-      "Волынец Ирина Владимировна": 22,
-      "Пимкин Юрий Александрович": 10,
-      "Подаруев Степан Владимирович": 3,
-      "Рубан Алексей Викторович": 1,
-      "Садилова Ирина Владимировна": 2,
-      "Сивцев Евгений Викторович": 27,
-      "Симонова Раиса Наурдыевна": 2,
-      "Сторожев Геннадий Алексеевич": 22
+      "gas:candidate-vibid:25920001388604": 123,
+      "gas:candidate-vibid:25920001391198": 22,
+      "gas:candidate-vibid:25920001385656": 10,
+      "gas:candidate-vibid:25920001389008": 3,
+      "gas:candidate-vibid:25920001388525": 1,
+      "gas:candidate-vibid:25920001388338": 2,
+      "gas:candidate-vibid:25920001364699": 27,
+      "gas:candidate-vibid:25920001385238": 2,
+      "gas:candidate-vibid:25920001389271": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184790&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184790&type=464",
@@ -8421,15 +8421,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 72,
-      "Волынец Ирина Владимировна": 4,
-      "Пимкин Юрий Александрович": 4,
-      "Подаруев Степан Владимирович": 2,
-      "Рубан Алексей Викторович": 2,
-      "Садилова Ирина Владимировна": 4,
-      "Сивцев Евгений Викторович": 23,
-      "Симонова Раиса Наурдыевна": 1,
-      "Сторожев Геннадий Алексеевич": 11
+      "gas:candidate-vibid:25920001388604": 72,
+      "gas:candidate-vibid:25920001391198": 4,
+      "gas:candidate-vibid:25920001385656": 4,
+      "gas:candidate-vibid:25920001389008": 2,
+      "gas:candidate-vibid:25920001388525": 2,
+      "gas:candidate-vibid:25920001388338": 4,
+      "gas:candidate-vibid:25920001364699": 23,
+      "gas:candidate-vibid:25920001385238": 1,
+      "gas:candidate-vibid:25920001389271": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184790&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184790&type=464",
@@ -8480,15 +8480,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 110,
-      "Волынец Ирина Владимировна": 20,
-      "Пимкин Юрий Александрович": 10,
-      "Подаруев Степан Владимирович": 3,
-      "Рубан Алексей Викторович": 3,
-      "Садилова Ирина Владимировна": 8,
-      "Сивцев Евгений Викторович": 25,
-      "Симонова Раиса Наурдыевна": 5,
-      "Сторожев Геннадий Алексеевич": 5
+      "gas:candidate-vibid:25920001388604": 110,
+      "gas:candidate-vibid:25920001391198": 20,
+      "gas:candidate-vibid:25920001385656": 10,
+      "gas:candidate-vibid:25920001389008": 3,
+      "gas:candidate-vibid:25920001388525": 3,
+      "gas:candidate-vibid:25920001388338": 8,
+      "gas:candidate-vibid:25920001364699": 25,
+      "gas:candidate-vibid:25920001385238": 5,
+      "gas:candidate-vibid:25920001389271": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184790&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184790&type=464",
@@ -8539,15 +8539,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 34,
-      "Волынец Ирина Владимировна": 9,
-      "Пимкин Юрий Александрович": 8,
-      "Подаруев Степан Владимирович": 5,
-      "Рубан Алексей Викторович": 1,
-      "Садилова Ирина Владимировна": 10,
-      "Сивцев Евгений Викторович": 14,
-      "Симонова Раиса Наурдыевна": 9,
-      "Сторожев Геннадий Алексеевич": 9
+      "gas:candidate-vibid:25920001388604": 34,
+      "gas:candidate-vibid:25920001391198": 9,
+      "gas:candidate-vibid:25920001385656": 8,
+      "gas:candidate-vibid:25920001389008": 5,
+      "gas:candidate-vibid:25920001388525": 1,
+      "gas:candidate-vibid:25920001388338": 10,
+      "gas:candidate-vibid:25920001364699": 14,
+      "gas:candidate-vibid:25920001385238": 9,
+      "gas:candidate-vibid:25920001389271": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184790&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184790&type=464",
@@ -8598,15 +8598,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 81,
-      "Волынец Ирина Владимировна": 12,
-      "Пимкин Юрий Александрович": 9,
-      "Подаруев Степан Владимирович": 5,
-      "Рубан Алексей Викторович": 2,
-      "Садилова Ирина Владимировна": 2,
-      "Сивцев Евгений Викторович": 12,
-      "Симонова Раиса Наурдыевна": 2,
-      "Сторожев Геннадий Алексеевич": 4
+      "gas:candidate-vibid:25920001388604": 81,
+      "gas:candidate-vibid:25920001391198": 12,
+      "gas:candidate-vibid:25920001385656": 9,
+      "gas:candidate-vibid:25920001389008": 5,
+      "gas:candidate-vibid:25920001388525": 2,
+      "gas:candidate-vibid:25920001388338": 2,
+      "gas:candidate-vibid:25920001364699": 12,
+      "gas:candidate-vibid:25920001385238": 2,
+      "gas:candidate-vibid:25920001389271": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184790&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184790&type=464",
@@ -8657,15 +8657,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 67,
-      "Волынец Ирина Владимировна": 10,
-      "Пимкин Юрий Александрович": 5,
-      "Подаруев Степан Владимирович": 1,
-      "Рубан Алексей Викторович": 2,
-      "Садилова Ирина Владимировна": 3,
-      "Сивцев Евгений Викторович": 12,
-      "Симонова Раиса Наурдыевна": 1,
-      "Сторожев Геннадий Алексеевич": 3
+      "gas:candidate-vibid:25920001388604": 67,
+      "gas:candidate-vibid:25920001391198": 10,
+      "gas:candidate-vibid:25920001385656": 5,
+      "gas:candidate-vibid:25920001389008": 1,
+      "gas:candidate-vibid:25920001388525": 2,
+      "gas:candidate-vibid:25920001388338": 3,
+      "gas:candidate-vibid:25920001364699": 12,
+      "gas:candidate-vibid:25920001385238": 1,
+      "gas:candidate-vibid:25920001389271": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184790&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184790&type=464",
@@ -8716,15 +8716,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 271,
-      "Волынец Ирина Владимировна": 37,
-      "Пимкин Юрий Александрович": 25,
-      "Подаруев Степан Владимирович": 4,
-      "Рубан Алексей Викторович": 6,
-      "Садилова Ирина Владимировна": 13,
-      "Сивцев Евгений Викторович": 185,
-      "Симонова Раиса Наурдыевна": 20,
-      "Сторожев Геннадий Алексеевич": 17
+      "gas:candidate-vibid:25920001388604": 271,
+      "gas:candidate-vibid:25920001391198": 37,
+      "gas:candidate-vibid:25920001385656": 25,
+      "gas:candidate-vibid:25920001389008": 4,
+      "gas:candidate-vibid:25920001388525": 6,
+      "gas:candidate-vibid:25920001388338": 13,
+      "gas:candidate-vibid:25920001364699": 185,
+      "gas:candidate-vibid:25920001385238": 20,
+      "gas:candidate-vibid:25920001389271": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184791&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184791&type=464",
@@ -8775,15 +8775,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 73,
-      "Волынец Ирина Владимировна": 12,
-      "Пимкин Юрий Александрович": 5,
-      "Подаруев Степан Владимирович": 1,
-      "Рубан Алексей Викторович": 2,
-      "Садилова Ирина Владимировна": 3,
-      "Сивцев Евгений Викторович": 39,
-      "Симонова Раиса Наурдыевна": 1,
-      "Сторожев Геннадий Алексеевич": 4
+      "gas:candidate-vibid:25920001388604": 73,
+      "gas:candidate-vibid:25920001391198": 12,
+      "gas:candidate-vibid:25920001385656": 5,
+      "gas:candidate-vibid:25920001389008": 1,
+      "gas:candidate-vibid:25920001388525": 2,
+      "gas:candidate-vibid:25920001388338": 3,
+      "gas:candidate-vibid:25920001364699": 39,
+      "gas:candidate-vibid:25920001385238": 1,
+      "gas:candidate-vibid:25920001389271": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184791&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184791&type=464",
@@ -8834,15 +8834,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 368,
-      "Волынец Ирина Владимировна": 50,
-      "Пимкин Юрий Александрович": 24,
-      "Подаруев Степан Владимирович": 7,
-      "Рубан Алексей Викторович": 5,
-      "Садилова Ирина Владимировна": 11,
-      "Сивцев Евгений Викторович": 181,
-      "Симонова Раиса Наурдыевна": 10,
-      "Сторожев Геннадий Алексеевич": 35
+      "gas:candidate-vibid:25920001388604": 368,
+      "gas:candidate-vibid:25920001391198": 50,
+      "gas:candidate-vibid:25920001385656": 24,
+      "gas:candidate-vibid:25920001389008": 7,
+      "gas:candidate-vibid:25920001388525": 5,
+      "gas:candidate-vibid:25920001388338": 11,
+      "gas:candidate-vibid:25920001364699": 181,
+      "gas:candidate-vibid:25920001385238": 10,
+      "gas:candidate-vibid:25920001389271": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184791&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184791&type=464",
@@ -8893,15 +8893,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 167,
-      "Волынец Ирина Владимировна": 20,
-      "Пимкин Юрий Александрович": 17,
-      "Подаруев Степан Владимирович": 0,
-      "Рубан Алексей Викторович": 2,
-      "Садилова Ирина Владимировна": 2,
-      "Сивцев Евгений Викторович": 86,
-      "Симонова Раиса Наурдыевна": 7,
-      "Сторожев Геннадий Алексеевич": 15
+      "gas:candidate-vibid:25920001388604": 167,
+      "gas:candidate-vibid:25920001391198": 20,
+      "gas:candidate-vibid:25920001385656": 17,
+      "gas:candidate-vibid:25920001389008": 0,
+      "gas:candidate-vibid:25920001388525": 2,
+      "gas:candidate-vibid:25920001388338": 2,
+      "gas:candidate-vibid:25920001364699": 86,
+      "gas:candidate-vibid:25920001385238": 7,
+      "gas:candidate-vibid:25920001389271": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184791&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184791&type=464",
@@ -8952,15 +8952,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 131,
-      "Волынец Ирина Владимировна": 17,
-      "Пимкин Юрий Александрович": 14,
-      "Подаруев Степан Владимирович": 5,
-      "Рубан Алексей Викторович": 4,
-      "Садилова Ирина Владимировна": 4,
-      "Сивцев Евгений Викторович": 98,
-      "Симонова Раиса Наурдыевна": 11,
-      "Сторожев Геннадий Алексеевич": 15
+      "gas:candidate-vibid:25920001388604": 131,
+      "gas:candidate-vibid:25920001391198": 17,
+      "gas:candidate-vibid:25920001385656": 14,
+      "gas:candidate-vibid:25920001389008": 5,
+      "gas:candidate-vibid:25920001388525": 4,
+      "gas:candidate-vibid:25920001388338": 4,
+      "gas:candidate-vibid:25920001364699": 98,
+      "gas:candidate-vibid:25920001385238": 11,
+      "gas:candidate-vibid:25920001389271": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184791&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184791&type=464",
@@ -9011,15 +9011,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 142,
-      "Волынец Ирина Владимировна": 14,
-      "Пимкин Юрий Александрович": 14,
-      "Подаруев Степан Владимирович": 1,
-      "Рубан Алексей Викторович": 5,
-      "Садилова Ирина Владимировна": 4,
-      "Сивцев Евгений Викторович": 99,
-      "Симонова Раиса Наурдыевна": 3,
-      "Сторожев Геннадий Алексеевич": 21
+      "gas:candidate-vibid:25920001388604": 142,
+      "gas:candidate-vibid:25920001391198": 14,
+      "gas:candidate-vibid:25920001385656": 14,
+      "gas:candidate-vibid:25920001389008": 1,
+      "gas:candidate-vibid:25920001388525": 5,
+      "gas:candidate-vibid:25920001388338": 4,
+      "gas:candidate-vibid:25920001364699": 99,
+      "gas:candidate-vibid:25920001385238": 3,
+      "gas:candidate-vibid:25920001389271": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184791&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184791&type=464",
@@ -9070,15 +9070,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 92,
-      "Волынец Ирина Владимировна": 3,
-      "Пимкин Юрий Александрович": 9,
-      "Подаруев Степан Владимирович": 3,
-      "Рубан Алексей Викторович": 3,
-      "Садилова Ирина Владимировна": 0,
-      "Сивцев Евгений Викторович": 35,
-      "Симонова Раиса Наурдыевна": 1,
-      "Сторожев Геннадий Алексеевич": 4
+      "gas:candidate-vibid:25920001388604": 92,
+      "gas:candidate-vibid:25920001391198": 3,
+      "gas:candidate-vibid:25920001385656": 9,
+      "gas:candidate-vibid:25920001389008": 3,
+      "gas:candidate-vibid:25920001388525": 3,
+      "gas:candidate-vibid:25920001388338": 0,
+      "gas:candidate-vibid:25920001364699": 35,
+      "gas:candidate-vibid:25920001385238": 1,
+      "gas:candidate-vibid:25920001389271": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184791&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184791&type=464",
@@ -9129,15 +9129,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 142,
-      "Волынец Ирина Владимировна": 28,
-      "Пимкин Юрий Александрович": 20,
-      "Подаруев Степан Владимирович": 3,
-      "Рубан Алексей Викторович": 1,
-      "Садилова Ирина Владимировна": 6,
-      "Сивцев Евгений Викторович": 88,
-      "Симонова Раиса Наурдыевна": 5,
-      "Сторожев Геннадий Алексеевич": 15
+      "gas:candidate-vibid:25920001388604": 142,
+      "gas:candidate-vibid:25920001391198": 28,
+      "gas:candidate-vibid:25920001385656": 20,
+      "gas:candidate-vibid:25920001389008": 3,
+      "gas:candidate-vibid:25920001388525": 1,
+      "gas:candidate-vibid:25920001388338": 6,
+      "gas:candidate-vibid:25920001364699": 88,
+      "gas:candidate-vibid:25920001385238": 5,
+      "gas:candidate-vibid:25920001389271": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184791&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184791&type=464",
@@ -9188,15 +9188,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 78,
-      "Волынец Ирина Владимировна": 18,
-      "Пимкин Юрий Александрович": 8,
-      "Подаруев Степан Владимирович": 1,
-      "Рубан Алексей Викторович": 2,
-      "Садилова Ирина Владимировна": 2,
-      "Сивцев Евгений Викторович": 68,
-      "Симонова Раиса Наурдыевна": 0,
-      "Сторожев Геннадий Алексеевич": 4
+      "gas:candidate-vibid:25920001388604": 78,
+      "gas:candidate-vibid:25920001391198": 18,
+      "gas:candidate-vibid:25920001385656": 8,
+      "gas:candidate-vibid:25920001389008": 1,
+      "gas:candidate-vibid:25920001388525": 2,
+      "gas:candidate-vibid:25920001388338": 2,
+      "gas:candidate-vibid:25920001364699": 68,
+      "gas:candidate-vibid:25920001385238": 0,
+      "gas:candidate-vibid:25920001389271": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184791&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184791&type=464",
@@ -9247,15 +9247,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 30,
-      "Волынец Ирина Владимировна": 1,
-      "Пимкин Юрий Александрович": 3,
-      "Подаруев Степан Владимирович": 1,
-      "Рубан Алексей Викторович": 2,
-      "Садилова Ирина Владимировна": 2,
-      "Сивцев Евгений Викторович": 41,
-      "Симонова Раиса Наурдыевна": 1,
-      "Сторожев Геннадий Алексеевич": 1
+      "gas:candidate-vibid:25920001388604": 30,
+      "gas:candidate-vibid:25920001391198": 1,
+      "gas:candidate-vibid:25920001385656": 3,
+      "gas:candidate-vibid:25920001389008": 1,
+      "gas:candidate-vibid:25920001388525": 2,
+      "gas:candidate-vibid:25920001388338": 2,
+      "gas:candidate-vibid:25920001364699": 41,
+      "gas:candidate-vibid:25920001385238": 1,
+      "gas:candidate-vibid:25920001389271": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184791&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184791&type=464",
@@ -9306,15 +9306,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 113,
-      "Волынец Ирина Владимировна": 5,
-      "Пимкин Юрий Александрович": 6,
-      "Подаруев Степан Владимирович": 4,
-      "Рубан Алексей Викторович": 3,
-      "Садилова Ирина Владимировна": 3,
-      "Сивцев Евгений Викторович": 38,
-      "Симонова Раиса Наурдыевна": 6,
-      "Сторожев Геннадий Алексеевич": 6
+      "gas:candidate-vibid:25920001388604": 113,
+      "gas:candidate-vibid:25920001391198": 5,
+      "gas:candidate-vibid:25920001385656": 6,
+      "gas:candidate-vibid:25920001389008": 4,
+      "gas:candidate-vibid:25920001388525": 3,
+      "gas:candidate-vibid:25920001388338": 3,
+      "gas:candidate-vibid:25920001364699": 38,
+      "gas:candidate-vibid:25920001385238": 6,
+      "gas:candidate-vibid:25920001389271": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184791&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184791&type=464",
@@ -9365,15 +9365,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 189,
-      "Волынец Ирина Владимировна": 24,
-      "Пимкин Юрий Александрович": 12,
-      "Подаруев Степан Владимирович": 7,
-      "Рубан Алексей Викторович": 6,
-      "Садилова Ирина Владимировна": 12,
-      "Сивцев Евгений Викторович": 61,
-      "Симонова Раиса Наурдыевна": 7,
-      "Сторожев Геннадий Алексеевич": 16
+      "gas:candidate-vibid:25920001388604": 189,
+      "gas:candidate-vibid:25920001391198": 24,
+      "gas:candidate-vibid:25920001385656": 12,
+      "gas:candidate-vibid:25920001389008": 7,
+      "gas:candidate-vibid:25920001388525": 6,
+      "gas:candidate-vibid:25920001388338": 12,
+      "gas:candidate-vibid:25920001364699": 61,
+      "gas:candidate-vibid:25920001385238": 7,
+      "gas:candidate-vibid:25920001389271": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184791&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184791&type=464",
@@ -9424,15 +9424,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 159,
-      "Волынец Ирина Владимировна": 19,
-      "Пимкин Юрий Александрович": 21,
-      "Подаруев Степан Владимирович": 4,
-      "Рубан Алексей Викторович": 6,
-      "Садилова Ирина Владимировна": 6,
-      "Сивцев Евгений Викторович": 62,
-      "Симонова Раиса Наурдыевна": 7,
-      "Сторожев Геннадий Алексеевич": 10
+      "gas:candidate-vibid:25920001388604": 159,
+      "gas:candidate-vibid:25920001391198": 19,
+      "gas:candidate-vibid:25920001385656": 21,
+      "gas:candidate-vibid:25920001389008": 4,
+      "gas:candidate-vibid:25920001388525": 6,
+      "gas:candidate-vibid:25920001388338": 6,
+      "gas:candidate-vibid:25920001364699": 62,
+      "gas:candidate-vibid:25920001385238": 7,
+      "gas:candidate-vibid:25920001389271": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184791&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184791&type=464",
@@ -9483,15 +9483,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 540,
-      "Волынец Ирина Владимировна": 107,
-      "Пимкин Юрий Александрович": 75,
-      "Подаруев Степан Владимирович": 14,
-      "Рубан Алексей Викторович": 18,
-      "Садилова Ирина Владимировна": 61,
-      "Сивцев Евгений Викторович": 79,
-      "Симонова Раиса Наурдыевна": 15,
-      "Сторожев Геннадий Алексеевич": 87
+      "gas:candidate-vibid:25920001388604": 540,
+      "gas:candidate-vibid:25920001391198": 107,
+      "gas:candidate-vibid:25920001385656": 75,
+      "gas:candidate-vibid:25920001389008": 14,
+      "gas:candidate-vibid:25920001388525": 18,
+      "gas:candidate-vibid:25920001388338": 61,
+      "gas:candidate-vibid:25920001364699": 79,
+      "gas:candidate-vibid:25920001385238": 15,
+      "gas:candidate-vibid:25920001389271": 87
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184792&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184792&type=464",
@@ -9542,15 +9542,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 486,
-      "Волынец Ирина Владимировна": 105,
-      "Пимкин Юрий Александрович": 80,
-      "Подаруев Степан Владимирович": 16,
-      "Рубан Алексей Викторович": 10,
-      "Садилова Ирина Владимировна": 69,
-      "Сивцев Евгений Викторович": 81,
-      "Симонова Раиса Наурдыевна": 17,
-      "Сторожев Геннадий Алексеевич": 124
+      "gas:candidate-vibid:25920001388604": 486,
+      "gas:candidate-vibid:25920001391198": 105,
+      "gas:candidate-vibid:25920001385656": 80,
+      "gas:candidate-vibid:25920001389008": 16,
+      "gas:candidate-vibid:25920001388525": 10,
+      "gas:candidate-vibid:25920001388338": 69,
+      "gas:candidate-vibid:25920001364699": 81,
+      "gas:candidate-vibid:25920001385238": 17,
+      "gas:candidate-vibid:25920001389271": 124
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184792&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184792&type=464",
@@ -9601,15 +9601,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 543,
-      "Волынец Ирина Владимировна": 99,
-      "Пимкин Юрий Александрович": 82,
-      "Подаруев Степан Владимирович": 11,
-      "Рубан Алексей Викторович": 13,
-      "Садилова Ирина Владимировна": 67,
-      "Сивцев Евгений Викторович": 92,
-      "Симонова Раиса Наурдыевна": 15,
-      "Сторожев Геннадий Алексеевич": 138
+      "gas:candidate-vibid:25920001388604": 543,
+      "gas:candidate-vibid:25920001391198": 99,
+      "gas:candidate-vibid:25920001385656": 82,
+      "gas:candidate-vibid:25920001389008": 11,
+      "gas:candidate-vibid:25920001388525": 13,
+      "gas:candidate-vibid:25920001388338": 67,
+      "gas:candidate-vibid:25920001364699": 92,
+      "gas:candidate-vibid:25920001385238": 15,
+      "gas:candidate-vibid:25920001389271": 138
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184792&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184792&type=464",
@@ -9660,15 +9660,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 446,
-      "Волынец Ирина Владимировна": 133,
-      "Пимкин Юрий Александрович": 82,
-      "Подаруев Степан Владимирович": 11,
-      "Рубан Алексей Викторович": 8,
-      "Садилова Ирина Владимировна": 57,
-      "Сивцев Евгений Викторович": 96,
-      "Симонова Раиса Наурдыевна": 13,
-      "Сторожев Геннадий Алексеевич": 108
+      "gas:candidate-vibid:25920001388604": 446,
+      "gas:candidate-vibid:25920001391198": 133,
+      "gas:candidate-vibid:25920001385656": 82,
+      "gas:candidate-vibid:25920001389008": 11,
+      "gas:candidate-vibid:25920001388525": 8,
+      "gas:candidate-vibid:25920001388338": 57,
+      "gas:candidate-vibid:25920001364699": 96,
+      "gas:candidate-vibid:25920001385238": 13,
+      "gas:candidate-vibid:25920001389271": 108
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184792&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184792&type=464",
@@ -9719,15 +9719,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 523,
-      "Волынец Ирина Владимировна": 115,
-      "Пимкин Юрий Александрович": 89,
-      "Подаруев Степан Владимирович": 13,
-      "Рубан Алексей Викторович": 16,
-      "Садилова Ирина Владимировна": 47,
-      "Сивцев Евгений Викторович": 80,
-      "Симонова Раиса Наурдыевна": 14,
-      "Сторожев Геннадий Алексеевич": 103
+      "gas:candidate-vibid:25920001388604": 523,
+      "gas:candidate-vibid:25920001391198": 115,
+      "gas:candidate-vibid:25920001385656": 89,
+      "gas:candidate-vibid:25920001389008": 13,
+      "gas:candidate-vibid:25920001388525": 16,
+      "gas:candidate-vibid:25920001388338": 47,
+      "gas:candidate-vibid:25920001364699": 80,
+      "gas:candidate-vibid:25920001385238": 14,
+      "gas:candidate-vibid:25920001389271": 103
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184792&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184792&type=464",
@@ -9778,15 +9778,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 492,
-      "Волынец Ирина Владимировна": 135,
-      "Пимкин Юрий Александрович": 66,
-      "Подаруев Степан Владимирович": 12,
-      "Рубан Алексей Викторович": 16,
-      "Садилова Ирина Владимировна": 65,
-      "Сивцев Евгений Викторович": 91,
-      "Симонова Раиса Наурдыевна": 15,
-      "Сторожев Геннадий Алексеевич": 107
+      "gas:candidate-vibid:25920001388604": 492,
+      "gas:candidate-vibid:25920001391198": 135,
+      "gas:candidate-vibid:25920001385656": 66,
+      "gas:candidate-vibid:25920001389008": 12,
+      "gas:candidate-vibid:25920001388525": 16,
+      "gas:candidate-vibid:25920001388338": 65,
+      "gas:candidate-vibid:25920001364699": 91,
+      "gas:candidate-vibid:25920001385238": 15,
+      "gas:candidate-vibid:25920001389271": 107
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184792&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184792&type=464",
@@ -9837,15 +9837,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 392,
-      "Волынец Ирина Владимировна": 99,
-      "Пимкин Юрий Александрович": 67,
-      "Подаруев Степан Владимирович": 27,
-      "Рубан Алексей Викторович": 13,
-      "Садилова Ирина Владимировна": 45,
-      "Сивцев Евгений Викторович": 83,
-      "Симонова Раиса Наурдыевна": 11,
-      "Сторожев Геннадий Алексеевич": 82
+      "gas:candidate-vibid:25920001388604": 392,
+      "gas:candidate-vibid:25920001391198": 99,
+      "gas:candidate-vibid:25920001385656": 67,
+      "gas:candidate-vibid:25920001389008": 27,
+      "gas:candidate-vibid:25920001388525": 13,
+      "gas:candidate-vibid:25920001388338": 45,
+      "gas:candidate-vibid:25920001364699": 83,
+      "gas:candidate-vibid:25920001385238": 11,
+      "gas:candidate-vibid:25920001389271": 82
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184792&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184792&type=464",
@@ -9896,15 +9896,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 214,
-      "Волынец Ирина Владимировна": 56,
-      "Пимкин Юрий Александрович": 38,
-      "Подаруев Степан Владимирович": 5,
-      "Рубан Алексей Викторович": 8,
-      "Садилова Ирина Владимировна": 32,
-      "Сивцев Евгений Викторович": 31,
-      "Симонова Раиса Наурдыевна": 6,
-      "Сторожев Геннадий Алексеевич": 39
+      "gas:candidate-vibid:25920001388604": 214,
+      "gas:candidate-vibid:25920001391198": 56,
+      "gas:candidate-vibid:25920001385656": 38,
+      "gas:candidate-vibid:25920001389008": 5,
+      "gas:candidate-vibid:25920001388525": 8,
+      "gas:candidate-vibid:25920001388338": 32,
+      "gas:candidate-vibid:25920001364699": 31,
+      "gas:candidate-vibid:25920001385238": 6,
+      "gas:candidate-vibid:25920001389271": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184792&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184792&type=464",
@@ -9955,15 +9955,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 217,
-      "Волынец Ирина Владимировна": 24,
-      "Пимкин Юрий Александрович": 36,
-      "Подаруев Степан Владимирович": 6,
-      "Рубан Алексей Викторович": 2,
-      "Садилова Ирина Владимировна": 19,
-      "Сивцев Евгений Викторович": 35,
-      "Симонова Раиса Наурдыевна": 2,
-      "Сторожев Геннадий Алексеевич": 52
+      "gas:candidate-vibid:25920001388604": 217,
+      "gas:candidate-vibid:25920001391198": 24,
+      "gas:candidate-vibid:25920001385656": 36,
+      "gas:candidate-vibid:25920001389008": 6,
+      "gas:candidate-vibid:25920001388525": 2,
+      "gas:candidate-vibid:25920001388338": 19,
+      "gas:candidate-vibid:25920001364699": 35,
+      "gas:candidate-vibid:25920001385238": 2,
+      "gas:candidate-vibid:25920001389271": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184792&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184792&type=464",
@@ -10014,15 +10014,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 228,
-      "Волынец Ирина Владимировна": 32,
-      "Пимкин Юрий Александрович": 34,
-      "Подаруев Степан Владимирович": 6,
-      "Рубан Алексей Викторович": 2,
-      "Садилова Ирина Владимировна": 17,
-      "Сивцев Евгений Викторович": 35,
-      "Симонова Раиса Наурдыевна": 10,
-      "Сторожев Геннадий Алексеевич": 29
+      "gas:candidate-vibid:25920001388604": 228,
+      "gas:candidate-vibid:25920001391198": 32,
+      "gas:candidate-vibid:25920001385656": 34,
+      "gas:candidate-vibid:25920001389008": 6,
+      "gas:candidate-vibid:25920001388525": 2,
+      "gas:candidate-vibid:25920001388338": 17,
+      "gas:candidate-vibid:25920001364699": 35,
+      "gas:candidate-vibid:25920001385238": 10,
+      "gas:candidate-vibid:25920001389271": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184792&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184792&type=464",
@@ -10073,15 +10073,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 391,
-      "Волынец Ирина Владимировна": 71,
-      "Пимкин Юрий Александрович": 51,
-      "Подаруев Степан Владимирович": 5,
-      "Рубан Алексей Викторович": 13,
-      "Садилова Ирина Владимировна": 36,
-      "Сивцев Евгений Викторович": 35,
-      "Симонова Раиса Наурдыевна": 8,
-      "Сторожев Геннадий Алексеевич": 70
+      "gas:candidate-vibid:25920001388604": 391,
+      "gas:candidate-vibid:25920001391198": 71,
+      "gas:candidate-vibid:25920001385656": 51,
+      "gas:candidate-vibid:25920001389008": 5,
+      "gas:candidate-vibid:25920001388525": 13,
+      "gas:candidate-vibid:25920001388338": 36,
+      "gas:candidate-vibid:25920001364699": 35,
+      "gas:candidate-vibid:25920001385238": 8,
+      "gas:candidate-vibid:25920001389271": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184792&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184792&type=464",
@@ -10132,15 +10132,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 78,
-      "Волынец Ирина Владимировна": 14,
-      "Пимкин Юрий Александрович": 9,
-      "Подаруев Степан Владимирович": 2,
-      "Рубан Алексей Викторович": 2,
-      "Садилова Ирина Владимировна": 6,
-      "Сивцев Евгений Викторович": 9,
-      "Симонова Раиса Наурдыевна": 3,
-      "Сторожев Геннадий Алексеевич": 12
+      "gas:candidate-vibid:25920001388604": 78,
+      "gas:candidate-vibid:25920001391198": 14,
+      "gas:candidate-vibid:25920001385656": 9,
+      "gas:candidate-vibid:25920001389008": 2,
+      "gas:candidate-vibid:25920001388525": 2,
+      "gas:candidate-vibid:25920001388338": 6,
+      "gas:candidate-vibid:25920001364699": 9,
+      "gas:candidate-vibid:25920001385238": 3,
+      "gas:candidate-vibid:25920001389271": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184792&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184792&type=464",
@@ -10191,15 +10191,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 346,
-      "Волынец Ирина Владимировна": 63,
-      "Пимкин Юрий Александрович": 44,
-      "Подаруев Степан Владимирович": 6,
-      "Рубан Алексей Викторович": 8,
-      "Садилова Ирина Владимировна": 46,
-      "Сивцев Евгений Викторович": 53,
-      "Симонова Раиса Наурдыевна": 17,
-      "Сторожев Геннадий Алексеевич": 68
+      "gas:candidate-vibid:25920001388604": 346,
+      "gas:candidate-vibid:25920001391198": 63,
+      "gas:candidate-vibid:25920001385656": 44,
+      "gas:candidate-vibid:25920001389008": 6,
+      "gas:candidate-vibid:25920001388525": 8,
+      "gas:candidate-vibid:25920001388338": 46,
+      "gas:candidate-vibid:25920001364699": 53,
+      "gas:candidate-vibid:25920001385238": 17,
+      "gas:candidate-vibid:25920001389271": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184792&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184792&type=464",
@@ -10250,15 +10250,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 432,
-      "Волынец Ирина Владимировна": 74,
-      "Пимкин Юрий Александрович": 52,
-      "Подаруев Степан Владимирович": 12,
-      "Рубан Алексей Викторович": 14,
-      "Садилова Ирина Владимировна": 30,
-      "Сивцев Евгений Викторович": 78,
-      "Симонова Раиса Наурдыевна": 13,
-      "Сторожев Геннадий Алексеевич": 77
+      "gas:candidate-vibid:25920001388604": 432,
+      "gas:candidate-vibid:25920001391198": 74,
+      "gas:candidate-vibid:25920001385656": 52,
+      "gas:candidate-vibid:25920001389008": 12,
+      "gas:candidate-vibid:25920001388525": 14,
+      "gas:candidate-vibid:25920001388338": 30,
+      "gas:candidate-vibid:25920001364699": 78,
+      "gas:candidate-vibid:25920001385238": 13,
+      "gas:candidate-vibid:25920001389271": 77
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184792&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184792&type=464",
@@ -10309,15 +10309,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 598,
-      "Волынец Ирина Владимировна": 88,
-      "Пимкин Юрий Александрович": 66,
-      "Подаруев Степан Владимирович": 15,
-      "Рубан Алексей Викторович": 14,
-      "Садилова Ирина Владимировна": 59,
-      "Сивцев Евгений Викторович": 61,
-      "Симонова Раиса Наурдыевна": 15,
-      "Сторожев Геннадий Алексеевич": 99
+      "gas:candidate-vibid:25920001388604": 598,
+      "gas:candidate-vibid:25920001391198": 88,
+      "gas:candidate-vibid:25920001385656": 66,
+      "gas:candidate-vibid:25920001389008": 15,
+      "gas:candidate-vibid:25920001388525": 14,
+      "gas:candidate-vibid:25920001388338": 59,
+      "gas:candidate-vibid:25920001364699": 61,
+      "gas:candidate-vibid:25920001385238": 15,
+      "gas:candidate-vibid:25920001389271": 99
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184792&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184792&type=464",
@@ -10368,15 +10368,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 286,
-      "Волынец Ирина Владимировна": 48,
-      "Пимкин Юрий Александрович": 43,
-      "Подаруев Степан Владимирович": 7,
-      "Рубан Алексей Викторович": 2,
-      "Садилова Ирина Владимировна": 24,
-      "Сивцев Евгений Викторович": 33,
-      "Симонова Раиса Наурдыевна": 12,
-      "Сторожев Геннадий Алексеевич": 31
+      "gas:candidate-vibid:25920001388604": 286,
+      "gas:candidate-vibid:25920001391198": 48,
+      "gas:candidate-vibid:25920001385656": 43,
+      "gas:candidate-vibid:25920001389008": 7,
+      "gas:candidate-vibid:25920001388525": 2,
+      "gas:candidate-vibid:25920001388338": 24,
+      "gas:candidate-vibid:25920001364699": 33,
+      "gas:candidate-vibid:25920001385238": 12,
+      "gas:candidate-vibid:25920001389271": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184792&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184792&type=464",
@@ -10427,15 +10427,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 307,
-      "Волынец Ирина Владимировна": 32,
-      "Пимкин Юрий Александрович": 25,
-      "Подаруев Степан Владимирович": 3,
-      "Рубан Алексей Викторович": 5,
-      "Садилова Ирина Владимировна": 26,
-      "Сивцев Евгений Викторович": 30,
-      "Симонова Раиса Наурдыевна": 13,
-      "Сторожев Геннадий Алексеевич": 46
+      "gas:candidate-vibid:25920001388604": 307,
+      "gas:candidate-vibid:25920001391198": 32,
+      "gas:candidate-vibid:25920001385656": 25,
+      "gas:candidate-vibid:25920001389008": 3,
+      "gas:candidate-vibid:25920001388525": 5,
+      "gas:candidate-vibid:25920001388338": 26,
+      "gas:candidate-vibid:25920001364699": 30,
+      "gas:candidate-vibid:25920001385238": 13,
+      "gas:candidate-vibid:25920001389271": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184792&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184792&type=464",
@@ -10486,15 +10486,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 174,
-      "Волынец Ирина Владимировна": 21,
-      "Пимкин Юрий Александрович": 36,
-      "Подаруев Степан Владимирович": 6,
-      "Рубан Алексей Викторович": 2,
-      "Садилова Ирина Владимировна": 10,
-      "Сивцев Евгений Викторович": 27,
-      "Симонова Раиса Наурдыевна": 4,
-      "Сторожев Геннадий Алексеевич": 54
+      "gas:candidate-vibid:25920001388604": 174,
+      "gas:candidate-vibid:25920001391198": 21,
+      "gas:candidate-vibid:25920001385656": 36,
+      "gas:candidate-vibid:25920001389008": 6,
+      "gas:candidate-vibid:25920001388525": 2,
+      "gas:candidate-vibid:25920001388338": 10,
+      "gas:candidate-vibid:25920001364699": 27,
+      "gas:candidate-vibid:25920001385238": 4,
+      "gas:candidate-vibid:25920001389271": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184792&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184792&type=464",
@@ -10545,15 +10545,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 23,
-      "Волынец Ирина Владимировна": 4,
-      "Пимкин Юрий Александрович": 2,
-      "Подаруев Степан Владимирович": 0,
-      "Рубан Алексей Викторович": 1,
-      "Садилова Ирина Владимировна": 1,
-      "Сивцев Евгений Викторович": 2,
-      "Симонова Раиса Наурдыевна": 1,
-      "Сторожев Геннадий Алексеевич": 3
+      "gas:candidate-vibid:25920001388604": 23,
+      "gas:candidate-vibid:25920001391198": 4,
+      "gas:candidate-vibid:25920001385656": 2,
+      "gas:candidate-vibid:25920001389008": 0,
+      "gas:candidate-vibid:25920001388525": 1,
+      "gas:candidate-vibid:25920001388338": 1,
+      "gas:candidate-vibid:25920001364699": 2,
+      "gas:candidate-vibid:25920001385238": 1,
+      "gas:candidate-vibid:25920001389271": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184792&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184792&type=464",
@@ -10604,15 +10604,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 68,
-      "Волынец Ирина Владимировна": 13,
-      "Пимкин Юрий Александрович": 4,
-      "Подаруев Степан Владимирович": 1,
-      "Рубан Алексей Викторович": 2,
-      "Садилова Ирина Владимировна": 6,
-      "Сивцев Евгений Викторович": 6,
-      "Симонова Раиса Наурдыевна": 1,
-      "Сторожев Геннадий Алексеевич": 4
+      "gas:candidate-vibid:25920001388604": 68,
+      "gas:candidate-vibid:25920001391198": 13,
+      "gas:candidate-vibid:25920001385656": 4,
+      "gas:candidate-vibid:25920001389008": 1,
+      "gas:candidate-vibid:25920001388525": 2,
+      "gas:candidate-vibid:25920001388338": 6,
+      "gas:candidate-vibid:25920001364699": 6,
+      "gas:candidate-vibid:25920001385238": 1,
+      "gas:candidate-vibid:25920001389271": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184792&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184792&type=464",
@@ -10663,15 +10663,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 111,
-      "Волынец Ирина Владимировна": 4,
-      "Пимкин Юрий Александрович": 8,
-      "Подаруев Степан Владимирович": 3,
-      "Рубан Алексей Викторович": 0,
-      "Садилова Ирина Владимировна": 5,
-      "Сивцев Евгений Викторович": 8,
-      "Симонова Раиса Наурдыевна": 2,
-      "Сторожев Геннадий Алексеевич": 14
+      "gas:candidate-vibid:25920001388604": 111,
+      "gas:candidate-vibid:25920001391198": 4,
+      "gas:candidate-vibid:25920001385656": 8,
+      "gas:candidate-vibid:25920001389008": 3,
+      "gas:candidate-vibid:25920001388525": 0,
+      "gas:candidate-vibid:25920001388338": 5,
+      "gas:candidate-vibid:25920001364699": 8,
+      "gas:candidate-vibid:25920001385238": 2,
+      "gas:candidate-vibid:25920001389271": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184792&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184792&type=464",
@@ -10722,15 +10722,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 103,
-      "Волынец Ирина Владимировна": 1,
-      "Пимкин Юрий Александрович": 14,
-      "Подаруев Степан Владимирович": 3,
-      "Рубан Алексей Викторович": 0,
-      "Садилова Ирина Владимировна": 5,
-      "Сивцев Евгений Викторович": 3,
-      "Симонова Раиса Наурдыевна": 2,
-      "Сторожев Геннадий Алексеевич": 9
+      "gas:candidate-vibid:25920001388604": 103,
+      "gas:candidate-vibid:25920001391198": 1,
+      "gas:candidate-vibid:25920001385656": 14,
+      "gas:candidate-vibid:25920001389008": 3,
+      "gas:candidate-vibid:25920001388525": 0,
+      "gas:candidate-vibid:25920001388338": 5,
+      "gas:candidate-vibid:25920001364699": 3,
+      "gas:candidate-vibid:25920001385238": 2,
+      "gas:candidate-vibid:25920001389271": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184792&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184792&type=464",
@@ -10781,15 +10781,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 98,
-      "Волынец Ирина Владимировна": 17,
-      "Пимкин Юрий Александрович": 10,
-      "Подаруев Степан Владимирович": 2,
-      "Рубан Алексей Викторович": 3,
-      "Садилова Ирина Владимировна": 4,
-      "Сивцев Евгений Викторович": 7,
-      "Симонова Раиса Наурдыевна": 5,
-      "Сторожев Геннадий Алексеевич": 10
+      "gas:candidate-vibid:25920001388604": 98,
+      "gas:candidate-vibid:25920001391198": 17,
+      "gas:candidate-vibid:25920001385656": 10,
+      "gas:candidate-vibid:25920001389008": 2,
+      "gas:candidate-vibid:25920001388525": 3,
+      "gas:candidate-vibid:25920001388338": 4,
+      "gas:candidate-vibid:25920001364699": 7,
+      "gas:candidate-vibid:25920001385238": 5,
+      "gas:candidate-vibid:25920001389271": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184792&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184792&type=464",
@@ -10840,15 +10840,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 183,
-      "Волынец Ирина Владимировна": 11,
-      "Пимкин Юрий Александрович": 28,
-      "Подаруев Степан Владимирович": 3,
-      "Рубан Алексей Викторович": 6,
-      "Садилова Ирина Владимировна": 9,
-      "Сивцев Евгений Викторович": 29,
-      "Симонова Раиса Наурдыевна": 6,
-      "Сторожев Геннадий Алексеевич": 33
+      "gas:candidate-vibid:25920001388604": 183,
+      "gas:candidate-vibid:25920001391198": 11,
+      "gas:candidate-vibid:25920001385656": 28,
+      "gas:candidate-vibid:25920001389008": 3,
+      "gas:candidate-vibid:25920001388525": 6,
+      "gas:candidate-vibid:25920001388338": 9,
+      "gas:candidate-vibid:25920001364699": 29,
+      "gas:candidate-vibid:25920001385238": 6,
+      "gas:candidate-vibid:25920001389271": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184792&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184792&type=464",
@@ -10899,15 +10899,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 25,
-      "Волынец Ирина Владимировна": 2,
-      "Пимкин Юрий Александрович": 0,
-      "Подаруев Степан Владимирович": 0,
-      "Рубан Алексей Викторович": 0,
-      "Садилова Ирина Владимировна": 1,
-      "Сивцев Евгений Викторович": 8,
-      "Симонова Раиса Наурдыевна": 1,
-      "Сторожев Геннадий Алексеевич": 1
+      "gas:candidate-vibid:25920001388604": 25,
+      "gas:candidate-vibid:25920001391198": 2,
+      "gas:candidate-vibid:25920001385656": 0,
+      "gas:candidate-vibid:25920001389008": 0,
+      "gas:candidate-vibid:25920001388525": 0,
+      "gas:candidate-vibid:25920001388338": 1,
+      "gas:candidate-vibid:25920001364699": 8,
+      "gas:candidate-vibid:25920001385238": 1,
+      "gas:candidate-vibid:25920001389271": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184792&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184792&type=464",
@@ -10958,15 +10958,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 35,
-      "Волынец Ирина Владимировна": 6,
-      "Пимкин Юрий Александрович": 5,
-      "Подаруев Степан Владимирович": 0,
-      "Рубан Алексей Викторович": 1,
-      "Садилова Ирина Владимировна": 5,
-      "Сивцев Евгений Викторович": 7,
-      "Симонова Раиса Наурдыевна": 2,
-      "Сторожев Геннадий Алексеевич": 9
+      "gas:candidate-vibid:25920001388604": 35,
+      "gas:candidate-vibid:25920001391198": 6,
+      "gas:candidate-vibid:25920001385656": 5,
+      "gas:candidate-vibid:25920001389008": 0,
+      "gas:candidate-vibid:25920001388525": 1,
+      "gas:candidate-vibid:25920001388338": 5,
+      "gas:candidate-vibid:25920001364699": 7,
+      "gas:candidate-vibid:25920001385238": 2,
+      "gas:candidate-vibid:25920001389271": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184792&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184792&type=464",
@@ -11017,15 +11017,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 90,
-      "Волынец Ирина Владимировна": 9,
-      "Пимкин Юрий Александрович": 14,
-      "Подаруев Степан Владимирович": 5,
-      "Рубан Алексей Викторович": 3,
-      "Садилова Ирина Владимировна": 7,
-      "Сивцев Евгений Викторович": 10,
-      "Симонова Раиса Наурдыевна": 6,
-      "Сторожев Геннадий Алексеевич": 9
+      "gas:candidate-vibid:25920001388604": 90,
+      "gas:candidate-vibid:25920001391198": 9,
+      "gas:candidate-vibid:25920001385656": 14,
+      "gas:candidate-vibid:25920001389008": 5,
+      "gas:candidate-vibid:25920001388525": 3,
+      "gas:candidate-vibid:25920001388338": 7,
+      "gas:candidate-vibid:25920001364699": 10,
+      "gas:candidate-vibid:25920001385238": 6,
+      "gas:candidate-vibid:25920001389271": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184792&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184792&type=464",
@@ -11076,15 +11076,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 48,
-      "Волынец Ирина Владимировна": 2,
-      "Пимкин Юрий Александрович": 1,
-      "Подаруев Степан Владимирович": 1,
-      "Рубан Алексей Викторович": 2,
-      "Садилова Ирина Владимировна": 1,
-      "Сивцев Евгений Викторович": 3,
-      "Симонова Раиса Наурдыевна": 2,
-      "Сторожев Геннадий Алексеевич": 1
+      "gas:candidate-vibid:25920001388604": 48,
+      "gas:candidate-vibid:25920001391198": 2,
+      "gas:candidate-vibid:25920001385656": 1,
+      "gas:candidate-vibid:25920001389008": 1,
+      "gas:candidate-vibid:25920001388525": 2,
+      "gas:candidate-vibid:25920001388338": 1,
+      "gas:candidate-vibid:25920001364699": 3,
+      "gas:candidate-vibid:25920001385238": 2,
+      "gas:candidate-vibid:25920001389271": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184792&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184792&type=464",
@@ -11135,15 +11135,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 16,
-      "Волынец Ирина Владимировна": 9,
-      "Пимкин Юрий Александрович": 4,
-      "Подаруев Степан Владимирович": 2,
-      "Рубан Алексей Викторович": 3,
-      "Садилова Ирина Владимировна": 3,
-      "Сивцев Евгений Викторович": 5,
-      "Симонова Раиса Наурдыевна": 2,
-      "Сторожев Геннадий Алексеевич": 8
+      "gas:candidate-vibid:25920001388604": 16,
+      "gas:candidate-vibid:25920001391198": 9,
+      "gas:candidate-vibid:25920001385656": 4,
+      "gas:candidate-vibid:25920001389008": 2,
+      "gas:candidate-vibid:25920001388525": 3,
+      "gas:candidate-vibid:25920001388338": 3,
+      "gas:candidate-vibid:25920001364699": 5,
+      "gas:candidate-vibid:25920001385238": 2,
+      "gas:candidate-vibid:25920001389271": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184792&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184792&type=464",
@@ -11194,15 +11194,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 31,
-      "Волынец Ирина Владимировна": 3,
-      "Пимкин Юрий Александрович": 3,
-      "Подаруев Степан Владимирович": 0,
-      "Рубан Алексей Викторович": 2,
-      "Садилова Ирина Владимировна": 2,
-      "Сивцев Евгений Викторович": 4,
-      "Симонова Раиса Наурдыевна": 1,
-      "Сторожев Геннадий Алексеевич": 3
+      "gas:candidate-vibid:25920001388604": 31,
+      "gas:candidate-vibid:25920001391198": 3,
+      "gas:candidate-vibid:25920001385656": 3,
+      "gas:candidate-vibid:25920001389008": 0,
+      "gas:candidate-vibid:25920001388525": 2,
+      "gas:candidate-vibid:25920001388338": 2,
+      "gas:candidate-vibid:25920001364699": 4,
+      "gas:candidate-vibid:25920001385238": 1,
+      "gas:candidate-vibid:25920001389271": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184792&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184792&type=464",
@@ -11253,15 +11253,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 23,
-      "Волынец Ирина Владимировна": 3,
-      "Пимкин Юрий Александрович": 4,
-      "Подаруев Степан Владимирович": 2,
-      "Рубан Алексей Викторович": 2,
-      "Садилова Ирина Владимировна": 0,
-      "Сивцев Евгений Викторович": 5,
-      "Симонова Раиса Наурдыевна": 2,
-      "Сторожев Геннадий Алексеевич": 11
+      "gas:candidate-vibid:25920001388604": 23,
+      "gas:candidate-vibid:25920001391198": 3,
+      "gas:candidate-vibid:25920001385656": 4,
+      "gas:candidate-vibid:25920001389008": 2,
+      "gas:candidate-vibid:25920001388525": 2,
+      "gas:candidate-vibid:25920001388338": 0,
+      "gas:candidate-vibid:25920001364699": 5,
+      "gas:candidate-vibid:25920001385238": 2,
+      "gas:candidate-vibid:25920001389271": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184792&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184792&type=464",
@@ -11312,15 +11312,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 91,
-      "Волынец Ирина Владимировна": 5,
-      "Пимкин Юрий Александрович": 14,
-      "Подаруев Степан Владимирович": 1,
-      "Рубан Алексей Викторович": 2,
-      "Садилова Ирина Владимировна": 1,
-      "Сивцев Евгений Викторович": 10,
-      "Симонова Раиса Наурдыевна": 1,
-      "Сторожев Геннадий Алексеевич": 16
+      "gas:candidate-vibid:25920001388604": 91,
+      "gas:candidate-vibid:25920001391198": 5,
+      "gas:candidate-vibid:25920001385656": 14,
+      "gas:candidate-vibid:25920001389008": 1,
+      "gas:candidate-vibid:25920001388525": 2,
+      "gas:candidate-vibid:25920001388338": 1,
+      "gas:candidate-vibid:25920001364699": 10,
+      "gas:candidate-vibid:25920001385238": 1,
+      "gas:candidate-vibid:25920001389271": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184792&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184792&type=464",
@@ -11371,15 +11371,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 34,
-      "Волынец Ирина Владимировна": 4,
-      "Пимкин Юрий Александрович": 4,
-      "Подаруев Степан Владимирович": 1,
-      "Рубан Алексей Викторович": 0,
-      "Садилова Ирина Владимировна": 1,
-      "Сивцев Евгений Викторович": 1,
-      "Симонова Раиса Наурдыевна": 2,
-      "Сторожев Геннадий Алексеевич": 8
+      "gas:candidate-vibid:25920001388604": 34,
+      "gas:candidate-vibid:25920001391198": 4,
+      "gas:candidate-vibid:25920001385656": 4,
+      "gas:candidate-vibid:25920001389008": 1,
+      "gas:candidate-vibid:25920001388525": 0,
+      "gas:candidate-vibid:25920001388338": 1,
+      "gas:candidate-vibid:25920001364699": 1,
+      "gas:candidate-vibid:25920001385238": 2,
+      "gas:candidate-vibid:25920001389271": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184792&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184792&type=464",
@@ -11430,15 +11430,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 57,
-      "Волынец Ирина Владимировна": 4,
-      "Пимкин Юрий Александрович": 2,
-      "Подаруев Степан Владимирович": 1,
-      "Рубан Алексей Викторович": 1,
-      "Садилова Ирина Владимировна": 4,
-      "Сивцев Евгений Викторович": 5,
-      "Симонова Раиса Наурдыевна": 0,
-      "Сторожев Геннадий Алексеевич": 2
+      "gas:candidate-vibid:25920001388604": 57,
+      "gas:candidate-vibid:25920001391198": 4,
+      "gas:candidate-vibid:25920001385656": 2,
+      "gas:candidate-vibid:25920001389008": 1,
+      "gas:candidate-vibid:25920001388525": 1,
+      "gas:candidate-vibid:25920001388338": 4,
+      "gas:candidate-vibid:25920001364699": 5,
+      "gas:candidate-vibid:25920001385238": 0,
+      "gas:candidate-vibid:25920001389271": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184792&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184792&type=464",
@@ -11489,15 +11489,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 45,
-      "Волынец Ирина Владимировна": 3,
-      "Пимкин Юрий Александрович": 2,
-      "Подаруев Степан Владимирович": 0,
-      "Рубан Алексей Викторович": 0,
-      "Садилова Ирина Владимировна": 2,
-      "Сивцев Евгений Викторович": 2,
-      "Симонова Раиса Наурдыевна": 0,
-      "Сторожев Геннадий Алексеевич": 10
+      "gas:candidate-vibid:25920001388604": 45,
+      "gas:candidate-vibid:25920001391198": 3,
+      "gas:candidate-vibid:25920001385656": 2,
+      "gas:candidate-vibid:25920001389008": 0,
+      "gas:candidate-vibid:25920001388525": 0,
+      "gas:candidate-vibid:25920001388338": 2,
+      "gas:candidate-vibid:25920001364699": 2,
+      "gas:candidate-vibid:25920001385238": 0,
+      "gas:candidate-vibid:25920001389271": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184792&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184792&type=464",
@@ -11548,15 +11548,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 94,
-      "Волынец Ирина Владимировна": 9,
-      "Пимкин Юрий Александрович": 12,
-      "Подаруев Степан Владимирович": 1,
-      "Рубан Алексей Викторович": 3,
-      "Садилова Ирина Владимировна": 1,
-      "Сивцев Евгений Викторович": 12,
-      "Симонова Раиса Наурдыевна": 1,
-      "Сторожев Геннадий Алексеевич": 11
+      "gas:candidate-vibid:25920001388604": 94,
+      "gas:candidate-vibid:25920001391198": 9,
+      "gas:candidate-vibid:25920001385656": 12,
+      "gas:candidate-vibid:25920001389008": 1,
+      "gas:candidate-vibid:25920001388525": 3,
+      "gas:candidate-vibid:25920001388338": 1,
+      "gas:candidate-vibid:25920001364699": 12,
+      "gas:candidate-vibid:25920001385238": 1,
+      "gas:candidate-vibid:25920001389271": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184792&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184792&type=464",
@@ -11607,15 +11607,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 98,
-      "Волынец Ирина Владимировна": 9,
-      "Пимкин Юрий Александрович": 12,
-      "Подаруев Степан Владимирович": 0,
-      "Рубан Алексей Викторович": 1,
-      "Садилова Ирина Владимировна": 5,
-      "Сивцев Евгений Викторович": 9,
-      "Симонова Раиса Наурдыевна": 4,
-      "Сторожев Геннадий Алексеевич": 14
+      "gas:candidate-vibid:25920001388604": 98,
+      "gas:candidate-vibid:25920001391198": 9,
+      "gas:candidate-vibid:25920001385656": 12,
+      "gas:candidate-vibid:25920001389008": 0,
+      "gas:candidate-vibid:25920001388525": 1,
+      "gas:candidate-vibid:25920001388338": 5,
+      "gas:candidate-vibid:25920001364699": 9,
+      "gas:candidate-vibid:25920001385238": 4,
+      "gas:candidate-vibid:25920001389271": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184792&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184792&type=464",
@@ -11666,15 +11666,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 129,
-      "Волынец Ирина Владимировна": 11,
-      "Пимкин Юрий Александрович": 13,
-      "Подаруев Степан Владимирович": 3,
-      "Рубан Алексей Викторович": 1,
-      "Садилова Ирина Владимировна": 9,
-      "Сивцев Евгений Викторович": 21,
-      "Симонова Раиса Наурдыевна": 2,
-      "Сторожев Геннадий Алексеевич": 15
+      "gas:candidate-vibid:25920001388604": 129,
+      "gas:candidate-vibid:25920001391198": 11,
+      "gas:candidate-vibid:25920001385656": 13,
+      "gas:candidate-vibid:25920001389008": 3,
+      "gas:candidate-vibid:25920001388525": 1,
+      "gas:candidate-vibid:25920001388338": 9,
+      "gas:candidate-vibid:25920001364699": 21,
+      "gas:candidate-vibid:25920001385238": 2,
+      "gas:candidate-vibid:25920001389271": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184792&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184792&type=464",
@@ -11725,15 +11725,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 229,
-      "Волынец Ирина Владимировна": 20,
-      "Пимкин Юрий Александрович": 38,
-      "Подаруев Степан Владимирович": 6,
-      "Рубан Алексей Викторович": 6,
-      "Садилова Ирина Владимировна": 11,
-      "Сивцев Евгений Викторович": 28,
-      "Симонова Раиса Наурдыевна": 6,
-      "Сторожев Геннадий Алексеевич": 44
+      "gas:candidate-vibid:25920001388604": 229,
+      "gas:candidate-vibid:25920001391198": 20,
+      "gas:candidate-vibid:25920001385656": 38,
+      "gas:candidate-vibid:25920001389008": 6,
+      "gas:candidate-vibid:25920001388525": 6,
+      "gas:candidate-vibid:25920001388338": 11,
+      "gas:candidate-vibid:25920001364699": 28,
+      "gas:candidate-vibid:25920001385238": 6,
+      "gas:candidate-vibid:25920001389271": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184792&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184792&type=464",
@@ -11784,15 +11784,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 34,
-      "Волынец Ирина Владимировна": 1,
-      "Пимкин Юрий Александрович": 4,
-      "Подаруев Степан Владимирович": 1,
-      "Рубан Алексей Викторович": 0,
-      "Садилова Ирина Владимировна": 1,
-      "Сивцев Евгений Викторович": 3,
-      "Симонова Раиса Наурдыевна": 1,
-      "Сторожев Геннадий Алексеевич": 5
+      "gas:candidate-vibid:25920001388604": 34,
+      "gas:candidate-vibid:25920001391198": 1,
+      "gas:candidate-vibid:25920001385656": 4,
+      "gas:candidate-vibid:25920001389008": 1,
+      "gas:candidate-vibid:25920001388525": 0,
+      "gas:candidate-vibid:25920001388338": 1,
+      "gas:candidate-vibid:25920001364699": 3,
+      "gas:candidate-vibid:25920001385238": 1,
+      "gas:candidate-vibid:25920001389271": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184792&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184792&type=464",
@@ -11843,15 +11843,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 193,
-      "Волынец Ирина Владимировна": 60,
-      "Пимкин Юрий Александрович": 32,
-      "Подаруев Степан Владимирович": 8,
-      "Рубан Алексей Викторович": 3,
-      "Садилова Ирина Владимировна": 12,
-      "Сивцев Евгений Викторович": 103,
-      "Симонова Раиса Наурдыевна": 13,
-      "Сторожев Геннадий Алексеевич": 50
+      "gas:candidate-vibid:25920001388604": 193,
+      "gas:candidate-vibid:25920001391198": 60,
+      "gas:candidate-vibid:25920001385656": 32,
+      "gas:candidate-vibid:25920001389008": 8,
+      "gas:candidate-vibid:25920001388525": 3,
+      "gas:candidate-vibid:25920001388338": 12,
+      "gas:candidate-vibid:25920001364699": 103,
+      "gas:candidate-vibid:25920001385238": 13,
+      "gas:candidate-vibid:25920001389271": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184793&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184793&type=464",
@@ -11902,15 +11902,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 263,
-      "Волынец Ирина Владимировна": 46,
-      "Пимкин Юрий Александрович": 41,
-      "Подаруев Степан Владимирович": 5,
-      "Рубан Алексей Викторович": 8,
-      "Садилова Ирина Владимировна": 17,
-      "Сивцев Евгений Викторович": 116,
-      "Симонова Раиса Наурдыевна": 8,
-      "Сторожев Геннадий Алексеевич": 63
+      "gas:candidate-vibid:25920001388604": 263,
+      "gas:candidate-vibid:25920001391198": 46,
+      "gas:candidate-vibid:25920001385656": 41,
+      "gas:candidate-vibid:25920001389008": 5,
+      "gas:candidate-vibid:25920001388525": 8,
+      "gas:candidate-vibid:25920001388338": 17,
+      "gas:candidate-vibid:25920001364699": 116,
+      "gas:candidate-vibid:25920001385238": 8,
+      "gas:candidate-vibid:25920001389271": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184793&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184793&type=464",
@@ -11961,15 +11961,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 142,
-      "Волынец Ирина Владимировна": 37,
-      "Пимкин Юрий Александрович": 21,
-      "Подаруев Степан Владимирович": 3,
-      "Рубан Алексей Викторович": 5,
-      "Садилова Ирина Владимировна": 10,
-      "Сивцев Евгений Викторович": 77,
-      "Симонова Раиса Наурдыевна": 5,
-      "Сторожев Геннадий Алексеевич": 29
+      "gas:candidate-vibid:25920001388604": 142,
+      "gas:candidate-vibid:25920001391198": 37,
+      "gas:candidate-vibid:25920001385656": 21,
+      "gas:candidate-vibid:25920001389008": 3,
+      "gas:candidate-vibid:25920001388525": 5,
+      "gas:candidate-vibid:25920001388338": 10,
+      "gas:candidate-vibid:25920001364699": 77,
+      "gas:candidate-vibid:25920001385238": 5,
+      "gas:candidate-vibid:25920001389271": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184793&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184793&type=464",
@@ -12020,15 +12020,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 159,
-      "Волынец Ирина Владимировна": 53,
-      "Пимкин Юрий Александрович": 35,
-      "Подаруев Степан Владимирович": 8,
-      "Рубан Алексей Викторович": 4,
-      "Садилова Ирина Владимировна": 10,
-      "Сивцев Евгений Викторович": 69,
-      "Симонова Раиса Наурдыевна": 2,
-      "Сторожев Геннадий Алексеевич": 50
+      "gas:candidate-vibid:25920001388604": 159,
+      "gas:candidate-vibid:25920001391198": 53,
+      "gas:candidate-vibid:25920001385656": 35,
+      "gas:candidate-vibid:25920001389008": 8,
+      "gas:candidate-vibid:25920001388525": 4,
+      "gas:candidate-vibid:25920001388338": 10,
+      "gas:candidate-vibid:25920001364699": 69,
+      "gas:candidate-vibid:25920001385238": 2,
+      "gas:candidate-vibid:25920001389271": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184793&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184793&type=464",
@@ -12079,15 +12079,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 165,
-      "Волынец Ирина Владимировна": 31,
-      "Пимкин Юрий Александрович": 34,
-      "Подаруев Степан Владимирович": 6,
-      "Рубан Алексей Викторович": 8,
-      "Садилова Ирина Владимировна": 14,
-      "Сивцев Евгений Викторович": 62,
-      "Симонова Раиса Наурдыевна": 9,
-      "Сторожев Геннадий Алексеевич": 36
+      "gas:candidate-vibid:25920001388604": 165,
+      "gas:candidate-vibid:25920001391198": 31,
+      "gas:candidate-vibid:25920001385656": 34,
+      "gas:candidate-vibid:25920001389008": 6,
+      "gas:candidate-vibid:25920001388525": 8,
+      "gas:candidate-vibid:25920001388338": 14,
+      "gas:candidate-vibid:25920001364699": 62,
+      "gas:candidate-vibid:25920001385238": 9,
+      "gas:candidate-vibid:25920001389271": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184793&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184793&type=464",
@@ -12138,15 +12138,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 224,
-      "Волынец Ирина Владимировна": 55,
-      "Пимкин Юрий Александрович": 44,
-      "Подаруев Степан Владимирович": 6,
-      "Рубан Алексей Викторович": 7,
-      "Садилова Ирина Владимировна": 11,
-      "Сивцев Евгений Викторович": 119,
-      "Симонова Раиса Наурдыевна": 7,
-      "Сторожев Геннадий Алексеевич": 60
+      "gas:candidate-vibid:25920001388604": 224,
+      "gas:candidate-vibid:25920001391198": 55,
+      "gas:candidate-vibid:25920001385656": 44,
+      "gas:candidate-vibid:25920001389008": 6,
+      "gas:candidate-vibid:25920001388525": 7,
+      "gas:candidate-vibid:25920001388338": 11,
+      "gas:candidate-vibid:25920001364699": 119,
+      "gas:candidate-vibid:25920001385238": 7,
+      "gas:candidate-vibid:25920001389271": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184793&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184793&type=464",
@@ -12197,15 +12197,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 192,
-      "Волынец Ирина Владимировна": 64,
-      "Пимкин Юрий Александрович": 43,
-      "Подаруев Степан Владимирович": 8,
-      "Рубан Алексей Викторович": 10,
-      "Садилова Ирина Владимировна": 12,
-      "Сивцев Евгений Викторович": 87,
-      "Симонова Раиса Наурдыевна": 9,
-      "Сторожев Геннадий Алексеевич": 49
+      "gas:candidate-vibid:25920001388604": 192,
+      "gas:candidate-vibid:25920001391198": 64,
+      "gas:candidate-vibid:25920001385656": 43,
+      "gas:candidate-vibid:25920001389008": 8,
+      "gas:candidate-vibid:25920001388525": 10,
+      "gas:candidate-vibid:25920001388338": 12,
+      "gas:candidate-vibid:25920001364699": 87,
+      "gas:candidate-vibid:25920001385238": 9,
+      "gas:candidate-vibid:25920001389271": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184793&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184793&type=464",
@@ -12256,15 +12256,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 167,
-      "Волынец Ирина Владимировна": 47,
-      "Пимкин Юрий Александрович": 24,
-      "Подаруев Степан Владимирович": 3,
-      "Рубан Алексей Викторович": 6,
-      "Садилова Ирина Владимировна": 9,
-      "Сивцев Евгений Викторович": 73,
-      "Симонова Раиса Наурдыевна": 6,
-      "Сторожев Геннадий Алексеевич": 45
+      "gas:candidate-vibid:25920001388604": 167,
+      "gas:candidate-vibid:25920001391198": 47,
+      "gas:candidate-vibid:25920001385656": 24,
+      "gas:candidate-vibid:25920001389008": 3,
+      "gas:candidate-vibid:25920001388525": 6,
+      "gas:candidate-vibid:25920001388338": 9,
+      "gas:candidate-vibid:25920001364699": 73,
+      "gas:candidate-vibid:25920001385238": 6,
+      "gas:candidate-vibid:25920001389271": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184793&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184793&type=464",
@@ -12315,15 +12315,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 152,
-      "Волынец Ирина Владимировна": 35,
-      "Пимкин Юрий Александрович": 30,
-      "Подаруев Степан Владимирович": 4,
-      "Рубан Алексей Викторович": 7,
-      "Садилова Ирина Владимировна": 10,
-      "Сивцев Евгений Викторович": 58,
-      "Симонова Раиса Наурдыевна": 5,
-      "Сторожев Геннадий Алексеевич": 28
+      "gas:candidate-vibid:25920001388604": 152,
+      "gas:candidate-vibid:25920001391198": 35,
+      "gas:candidate-vibid:25920001385656": 30,
+      "gas:candidate-vibid:25920001389008": 4,
+      "gas:candidate-vibid:25920001388525": 7,
+      "gas:candidate-vibid:25920001388338": 10,
+      "gas:candidate-vibid:25920001364699": 58,
+      "gas:candidate-vibid:25920001385238": 5,
+      "gas:candidate-vibid:25920001389271": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184793&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184793&type=464",
@@ -12374,15 +12374,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 59,
-      "Волынец Ирина Владимировна": 14,
-      "Пимкин Юрий Александрович": 7,
-      "Подаруев Степан Владимирович": 5,
-      "Рубан Алексей Викторович": 6,
-      "Садилова Ирина Владимировна": 0,
-      "Сивцев Евгений Викторович": 27,
-      "Симонова Раиса Наурдыевна": 1,
-      "Сторожев Геннадий Алексеевич": 12
+      "gas:candidate-vibid:25920001388604": 59,
+      "gas:candidate-vibid:25920001391198": 14,
+      "gas:candidate-vibid:25920001385656": 7,
+      "gas:candidate-vibid:25920001389008": 5,
+      "gas:candidate-vibid:25920001388525": 6,
+      "gas:candidate-vibid:25920001388338": 0,
+      "gas:candidate-vibid:25920001364699": 27,
+      "gas:candidate-vibid:25920001385238": 1,
+      "gas:candidate-vibid:25920001389271": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184793&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184793&type=464",
@@ -12433,15 +12433,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 128,
-      "Волынец Ирина Владимировна": 25,
-      "Пимкин Юрий Александрович": 25,
-      "Подаруев Степан Владимирович": 2,
-      "Рубан Алексей Викторович": 10,
-      "Садилова Ирина Владимировна": 5,
-      "Сивцев Евгений Викторович": 56,
-      "Симонова Раиса Наурдыевна": 7,
-      "Сторожев Геннадий Алексеевич": 33
+      "gas:candidate-vibid:25920001388604": 128,
+      "gas:candidate-vibid:25920001391198": 25,
+      "gas:candidate-vibid:25920001385656": 25,
+      "gas:candidate-vibid:25920001389008": 2,
+      "gas:candidate-vibid:25920001388525": 10,
+      "gas:candidate-vibid:25920001388338": 5,
+      "gas:candidate-vibid:25920001364699": 56,
+      "gas:candidate-vibid:25920001385238": 7,
+      "gas:candidate-vibid:25920001389271": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184793&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184793&type=464",
@@ -12492,15 +12492,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 196,
-      "Волынец Ирина Владимировна": 18,
-      "Пимкин Юрий Александрович": 25,
-      "Подаруев Степан Владимирович": 7,
-      "Рубан Алексей Викторович": 4,
-      "Садилова Ирина Владимировна": 9,
-      "Сивцев Евгений Викторович": 44,
-      "Симонова Раиса Наурдыевна": 3,
-      "Сторожев Геннадий Алексеевич": 30
+      "gas:candidate-vibid:25920001388604": 196,
+      "gas:candidate-vibid:25920001391198": 18,
+      "gas:candidate-vibid:25920001385656": 25,
+      "gas:candidate-vibid:25920001389008": 7,
+      "gas:candidate-vibid:25920001388525": 4,
+      "gas:candidate-vibid:25920001388338": 9,
+      "gas:candidate-vibid:25920001364699": 44,
+      "gas:candidate-vibid:25920001385238": 3,
+      "gas:candidate-vibid:25920001389271": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184793&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184793&type=464",
@@ -12551,15 +12551,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 70,
-      "Волынец Ирина Владимировна": 22,
-      "Пимкин Юрий Александрович": 14,
-      "Подаруев Степан Владимирович": 2,
-      "Рубан Алексей Викторович": 5,
-      "Садилова Ирина Владимировна": 10,
-      "Сивцев Евгений Викторович": 23,
-      "Симонова Раиса Наурдыевна": 9,
-      "Сторожев Геннадий Алексеевич": 11
+      "gas:candidate-vibid:25920001388604": 70,
+      "gas:candidate-vibid:25920001391198": 22,
+      "gas:candidate-vibid:25920001385656": 14,
+      "gas:candidate-vibid:25920001389008": 2,
+      "gas:candidate-vibid:25920001388525": 5,
+      "gas:candidate-vibid:25920001388338": 10,
+      "gas:candidate-vibid:25920001364699": 23,
+      "gas:candidate-vibid:25920001385238": 9,
+      "gas:candidate-vibid:25920001389271": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184793&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184793&type=464",
@@ -12610,15 +12610,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 146,
-      "Волынец Ирина Владимировна": 21,
-      "Пимкин Юрий Александрович": 25,
-      "Подаруев Степан Владимирович": 4,
-      "Рубан Алексей Викторович": 5,
-      "Садилова Ирина Владимировна": 11,
-      "Сивцев Евгений Викторович": 18,
-      "Симонова Раиса Наурдыевна": 6,
-      "Сторожев Геннадий Алексеевич": 33
+      "gas:candidate-vibid:25920001388604": 146,
+      "gas:candidate-vibid:25920001391198": 21,
+      "gas:candidate-vibid:25920001385656": 25,
+      "gas:candidate-vibid:25920001389008": 4,
+      "gas:candidate-vibid:25920001388525": 5,
+      "gas:candidate-vibid:25920001388338": 11,
+      "gas:candidate-vibid:25920001364699": 18,
+      "gas:candidate-vibid:25920001385238": 6,
+      "gas:candidate-vibid:25920001389271": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184793&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184793&type=464",
@@ -12669,15 +12669,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 173,
-      "Волынец Ирина Владимировна": 19,
-      "Пимкин Юрий Александрович": 17,
-      "Подаруев Степан Владимирович": 3,
-      "Рубан Алексей Викторович": 2,
-      "Садилова Ирина Владимировна": 6,
-      "Сивцев Евгений Викторович": 38,
-      "Симонова Раиса Наурдыевна": 2,
-      "Сторожев Геннадий Алексеевич": 25
+      "gas:candidate-vibid:25920001388604": 173,
+      "gas:candidate-vibid:25920001391198": 19,
+      "gas:candidate-vibid:25920001385656": 17,
+      "gas:candidate-vibid:25920001389008": 3,
+      "gas:candidate-vibid:25920001388525": 2,
+      "gas:candidate-vibid:25920001388338": 6,
+      "gas:candidate-vibid:25920001364699": 38,
+      "gas:candidate-vibid:25920001385238": 2,
+      "gas:candidate-vibid:25920001389271": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184793&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184793&type=464",
@@ -12728,15 +12728,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 116,
-      "Волынец Ирина Владимировна": 14,
-      "Пимкин Юрий Александрович": 5,
-      "Подаруев Степан Владимирович": 5,
-      "Рубан Алексей Викторович": 2,
-      "Садилова Ирина Владимировна": 8,
-      "Сивцев Евгений Викторович": 37,
-      "Симонова Раиса Наурдыевна": 5,
-      "Сторожев Геннадий Алексеевич": 1
+      "gas:candidate-vibid:25920001388604": 116,
+      "gas:candidate-vibid:25920001391198": 14,
+      "gas:candidate-vibid:25920001385656": 5,
+      "gas:candidate-vibid:25920001389008": 5,
+      "gas:candidate-vibid:25920001388525": 2,
+      "gas:candidate-vibid:25920001388338": 8,
+      "gas:candidate-vibid:25920001364699": 37,
+      "gas:candidate-vibid:25920001385238": 5,
+      "gas:candidate-vibid:25920001389271": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184793&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184793&type=464",
@@ -12787,15 +12787,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 183,
-      "Волынец Ирина Владимировна": 24,
-      "Пимкин Юрий Александрович": 24,
-      "Подаруев Степан Владимирович": 3,
-      "Рубан Алексей Викторович": 8,
-      "Садилова Ирина Владимировна": 15,
-      "Сивцев Евгений Викторович": 21,
-      "Симонова Раиса Наурдыевна": 6,
-      "Сторожев Геннадий Алексеевич": 40
+      "gas:candidate-vibid:25920001388604": 183,
+      "gas:candidate-vibid:25920001391198": 24,
+      "gas:candidate-vibid:25920001385656": 24,
+      "gas:candidate-vibid:25920001389008": 3,
+      "gas:candidate-vibid:25920001388525": 8,
+      "gas:candidate-vibid:25920001388338": 15,
+      "gas:candidate-vibid:25920001364699": 21,
+      "gas:candidate-vibid:25920001385238": 6,
+      "gas:candidate-vibid:25920001389271": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184794&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184794&type=464",
@@ -12846,15 +12846,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 140,
-      "Волынец Ирина Владимировна": 33,
-      "Пимкин Юрий Александрович": 24,
-      "Подаруев Степан Владимирович": 8,
-      "Рубан Алексей Викторович": 16,
-      "Садилова Ирина Владимировна": 14,
-      "Сивцев Евгений Викторович": 33,
-      "Симонова Раиса Наурдыевна": 4,
-      "Сторожев Геннадий Алексеевич": 24
+      "gas:candidate-vibid:25920001388604": 140,
+      "gas:candidate-vibid:25920001391198": 33,
+      "gas:candidate-vibid:25920001385656": 24,
+      "gas:candidate-vibid:25920001389008": 8,
+      "gas:candidate-vibid:25920001388525": 16,
+      "gas:candidate-vibid:25920001388338": 14,
+      "gas:candidate-vibid:25920001364699": 33,
+      "gas:candidate-vibid:25920001385238": 4,
+      "gas:candidate-vibid:25920001389271": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184795&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184795&type=464",
@@ -12905,15 +12905,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 113,
-      "Волынец Ирина Владимировна": 16,
-      "Пимкин Юрий Александрович": 19,
-      "Подаруев Степан Владимирович": 6,
-      "Рубан Алексей Викторович": 10,
-      "Садилова Ирина Владимировна": 8,
-      "Сивцев Евгений Викторович": 20,
-      "Симонова Раиса Наурдыевна": 4,
-      "Сторожев Геннадий Алексеевич": 12
+      "gas:candidate-vibid:25920001388604": 113,
+      "gas:candidate-vibid:25920001391198": 16,
+      "gas:candidate-vibid:25920001385656": 19,
+      "gas:candidate-vibid:25920001389008": 6,
+      "gas:candidate-vibid:25920001388525": 10,
+      "gas:candidate-vibid:25920001388338": 8,
+      "gas:candidate-vibid:25920001364699": 20,
+      "gas:candidate-vibid:25920001385238": 4,
+      "gas:candidate-vibid:25920001389271": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184795&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184795&type=464",
@@ -12964,15 +12964,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 109,
-      "Волынец Ирина Владимировна": 36,
-      "Пимкин Юрий Александрович": 25,
-      "Подаруев Степан Владимирович": 0,
-      "Рубан Алексей Викторович": 2,
-      "Садилова Ирина Владимировна": 7,
-      "Сивцев Евгений Викторович": 52,
-      "Симонова Раиса Наурдыевна": 8,
-      "Сторожев Геннадий Алексеевич": 19
+      "gas:candidate-vibid:25920001388604": 109,
+      "gas:candidate-vibid:25920001391198": 36,
+      "gas:candidate-vibid:25920001385656": 25,
+      "gas:candidate-vibid:25920001389008": 0,
+      "gas:candidate-vibid:25920001388525": 2,
+      "gas:candidate-vibid:25920001388338": 7,
+      "gas:candidate-vibid:25920001364699": 52,
+      "gas:candidate-vibid:25920001385238": 8,
+      "gas:candidate-vibid:25920001389271": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184795&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184795&type=464",
@@ -13023,15 +13023,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 99,
-      "Волынец Ирина Владимировна": 27,
-      "Пимкин Юрий Александрович": 13,
-      "Подаруев Степан Владимирович": 5,
-      "Рубан Алексей Викторович": 1,
-      "Садилова Ирина Владимировна": 9,
-      "Сивцев Евгений Викторович": 37,
-      "Симонова Раиса Наурдыевна": 4,
-      "Сторожев Геннадий Алексеевич": 17
+      "gas:candidate-vibid:25920001388604": 99,
+      "gas:candidate-vibid:25920001391198": 27,
+      "gas:candidate-vibid:25920001385656": 13,
+      "gas:candidate-vibid:25920001389008": 5,
+      "gas:candidate-vibid:25920001388525": 1,
+      "gas:candidate-vibid:25920001388338": 9,
+      "gas:candidate-vibid:25920001364699": 37,
+      "gas:candidate-vibid:25920001385238": 4,
+      "gas:candidate-vibid:25920001389271": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184795&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184795&type=464",
@@ -13082,15 +13082,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 164,
-      "Волынец Ирина Владимировна": 32,
-      "Пимкин Юрий Александрович": 32,
-      "Подаруев Степан Владимирович": 8,
-      "Рубан Алексей Викторович": 8,
-      "Садилова Ирина Владимировна": 23,
-      "Сивцев Евгений Викторович": 61,
-      "Симонова Раиса Наурдыевна": 8,
-      "Сторожев Геннадий Алексеевич": 23
+      "gas:candidate-vibid:25920001388604": 164,
+      "gas:candidate-vibid:25920001391198": 32,
+      "gas:candidate-vibid:25920001385656": 32,
+      "gas:candidate-vibid:25920001389008": 8,
+      "gas:candidate-vibid:25920001388525": 8,
+      "gas:candidate-vibid:25920001388338": 23,
+      "gas:candidate-vibid:25920001364699": 61,
+      "gas:candidate-vibid:25920001385238": 8,
+      "gas:candidate-vibid:25920001389271": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184795&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184795&type=464",
@@ -13141,15 +13141,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 37,
-      "Волынец Ирина Владимировна": 3,
-      "Пимкин Юрий Александрович": 4,
-      "Подаруев Степан Владимирович": 3,
-      "Рубан Алексей Викторович": 0,
-      "Садилова Ирина Владимировна": 3,
-      "Сивцев Евгений Викторович": 15,
-      "Симонова Раиса Наурдыевна": 0,
-      "Сторожев Геннадий Алексеевич": 3
+      "gas:candidate-vibid:25920001388604": 37,
+      "gas:candidate-vibid:25920001391198": 3,
+      "gas:candidate-vibid:25920001385656": 4,
+      "gas:candidate-vibid:25920001389008": 3,
+      "gas:candidate-vibid:25920001388525": 0,
+      "gas:candidate-vibid:25920001388338": 3,
+      "gas:candidate-vibid:25920001364699": 15,
+      "gas:candidate-vibid:25920001385238": 0,
+      "gas:candidate-vibid:25920001389271": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184795&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184795&type=464",
@@ -13200,15 +13200,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 204,
-      "Волынец Ирина Владимировна": 38,
-      "Пимкин Юрий Александрович": 28,
-      "Подаруев Степан Владимирович": 11,
-      "Рубан Алексей Викторович": 15,
-      "Садилова Ирина Владимировна": 25,
-      "Сивцев Евгений Викторович": 80,
-      "Симонова Раиса Наурдыевна": 18,
-      "Сторожев Геннадий Алексеевич": 51
+      "gas:candidate-vibid:25920001388604": 204,
+      "gas:candidate-vibid:25920001391198": 38,
+      "gas:candidate-vibid:25920001385656": 28,
+      "gas:candidate-vibid:25920001389008": 11,
+      "gas:candidate-vibid:25920001388525": 15,
+      "gas:candidate-vibid:25920001388338": 25,
+      "gas:candidate-vibid:25920001364699": 80,
+      "gas:candidate-vibid:25920001385238": 18,
+      "gas:candidate-vibid:25920001389271": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184795&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184795&type=464",
@@ -13259,15 +13259,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 139,
-      "Волынец Ирина Владимировна": 25,
-      "Пимкин Юрий Александрович": 14,
-      "Подаруев Степан Владимирович": 5,
-      "Рубан Алексей Викторович": 5,
-      "Садилова Ирина Владимировна": 14,
-      "Сивцев Евгений Викторович": 34,
-      "Симонова Раиса Наурдыевна": 9,
-      "Сторожев Геннадий Алексеевич": 25
+      "gas:candidate-vibid:25920001388604": 139,
+      "gas:candidate-vibid:25920001391198": 25,
+      "gas:candidate-vibid:25920001385656": 14,
+      "gas:candidate-vibid:25920001389008": 5,
+      "gas:candidate-vibid:25920001388525": 5,
+      "gas:candidate-vibid:25920001388338": 14,
+      "gas:candidate-vibid:25920001364699": 34,
+      "gas:candidate-vibid:25920001385238": 9,
+      "gas:candidate-vibid:25920001389271": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184795&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184795&type=464",
@@ -13318,15 +13318,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 141,
-      "Волынец Ирина Владимировна": 24,
-      "Пимкин Юрий Александрович": 28,
-      "Подаруев Степан Владимирович": 7,
-      "Рубан Алексей Викторович": 11,
-      "Садилова Ирина Владимировна": 16,
-      "Сивцев Евгений Викторович": 51,
-      "Симонова Раиса Наурдыевна": 4,
-      "Сторожев Геннадий Алексеевич": 20
+      "gas:candidate-vibid:25920001388604": 141,
+      "gas:candidate-vibid:25920001391198": 24,
+      "gas:candidate-vibid:25920001385656": 28,
+      "gas:candidate-vibid:25920001389008": 7,
+      "gas:candidate-vibid:25920001388525": 11,
+      "gas:candidate-vibid:25920001388338": 16,
+      "gas:candidate-vibid:25920001364699": 51,
+      "gas:candidate-vibid:25920001385238": 4,
+      "gas:candidate-vibid:25920001389271": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184795&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184795&type=464",
@@ -13377,15 +13377,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 179,
-      "Волынец Ирина Владимировна": 30,
-      "Пимкин Юрий Александрович": 18,
-      "Подаруев Степан Владимирович": 2,
-      "Рубан Алексей Викторович": 8,
-      "Садилова Ирина Владимировна": 18,
-      "Сивцев Евгений Викторович": 72,
-      "Симонова Раиса Наурдыевна": 11,
-      "Сторожев Геннадий Алексеевич": 24
+      "gas:candidate-vibid:25920001388604": 179,
+      "gas:candidate-vibid:25920001391198": 30,
+      "gas:candidate-vibid:25920001385656": 18,
+      "gas:candidate-vibid:25920001389008": 2,
+      "gas:candidate-vibid:25920001388525": 8,
+      "gas:candidate-vibid:25920001388338": 18,
+      "gas:candidate-vibid:25920001364699": 72,
+      "gas:candidate-vibid:25920001385238": 11,
+      "gas:candidate-vibid:25920001389271": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184795&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184795&type=464",
@@ -13436,15 +13436,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 80,
-      "Волынец Ирина Владимировна": 20,
-      "Пимкин Юрий Александрович": 13,
-      "Подаруев Степан Владимирович": 2,
-      "Рубан Алексей Викторович": 10,
-      "Садилова Ирина Владимировна": 10,
-      "Сивцев Евгений Викторович": 30,
-      "Симонова Раиса Наурдыевна": 5,
-      "Сторожев Геннадий Алексеевич": 17
+      "gas:candidate-vibid:25920001388604": 80,
+      "gas:candidate-vibid:25920001391198": 20,
+      "gas:candidate-vibid:25920001385656": 13,
+      "gas:candidate-vibid:25920001389008": 2,
+      "gas:candidate-vibid:25920001388525": 10,
+      "gas:candidate-vibid:25920001388338": 10,
+      "gas:candidate-vibid:25920001364699": 30,
+      "gas:candidate-vibid:25920001385238": 5,
+      "gas:candidate-vibid:25920001389271": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184795&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184795&type=464",
@@ -13495,15 +13495,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 247,
-      "Волынец Ирина Владимировна": 76,
-      "Пимкин Юрий Александрович": 45,
-      "Подаруев Степан Владимирович": 13,
-      "Рубан Алексей Викторович": 12,
-      "Садилова Ирина Владимировна": 32,
-      "Сивцев Евгений Викторович": 106,
-      "Симонова Раиса Наурдыевна": 19,
-      "Сторожев Геннадий Алексеевич": 70
+      "gas:candidate-vibid:25920001388604": 247,
+      "gas:candidate-vibid:25920001391198": 76,
+      "gas:candidate-vibid:25920001385656": 45,
+      "gas:candidate-vibid:25920001389008": 13,
+      "gas:candidate-vibid:25920001388525": 12,
+      "gas:candidate-vibid:25920001388338": 32,
+      "gas:candidate-vibid:25920001364699": 106,
+      "gas:candidate-vibid:25920001385238": 19,
+      "gas:candidate-vibid:25920001389271": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184795&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184795&type=464",
@@ -13554,15 +13554,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 254,
-      "Волынец Ирина Владимировна": 69,
-      "Пимкин Юрий Александрович": 50,
-      "Подаруев Степан Владимирович": 16,
-      "Рубан Алексей Викторович": 15,
-      "Садилова Ирина Владимировна": 27,
-      "Сивцев Евгений Викторович": 73,
-      "Симонова Раиса Наурдыевна": 10,
-      "Сторожев Геннадий Алексеевич": 71
+      "gas:candidate-vibid:25920001388604": 254,
+      "gas:candidate-vibid:25920001391198": 69,
+      "gas:candidate-vibid:25920001385656": 50,
+      "gas:candidate-vibid:25920001389008": 16,
+      "gas:candidate-vibid:25920001388525": 15,
+      "gas:candidate-vibid:25920001388338": 27,
+      "gas:candidate-vibid:25920001364699": 73,
+      "gas:candidate-vibid:25920001385238": 10,
+      "gas:candidate-vibid:25920001389271": 71
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184795&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184795&type=464",
@@ -13613,15 +13613,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 319,
-      "Волынец Ирина Владимировна": 75,
-      "Пимкин Юрий Александрович": 74,
-      "Подаруев Степан Владимирович": 11,
-      "Рубан Алексей Викторович": 17,
-      "Садилова Ирина Владимировна": 31,
-      "Сивцев Евгений Викторович": 88,
-      "Симонова Раиса Наурдыевна": 9,
-      "Сторожев Геннадий Алексеевич": 88
+      "gas:candidate-vibid:25920001388604": 319,
+      "gas:candidate-vibid:25920001391198": 75,
+      "gas:candidate-vibid:25920001385656": 74,
+      "gas:candidate-vibid:25920001389008": 11,
+      "gas:candidate-vibid:25920001388525": 17,
+      "gas:candidate-vibid:25920001388338": 31,
+      "gas:candidate-vibid:25920001364699": 88,
+      "gas:candidate-vibid:25920001385238": 9,
+      "gas:candidate-vibid:25920001389271": 88
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184795&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184795&type=464",
@@ -13672,15 +13672,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 333,
-      "Волынец Ирина Владимировна": 108,
-      "Пимкин Юрий Александрович": 78,
-      "Подаруев Степан Владимирович": 11,
-      "Рубан Алексей Викторович": 14,
-      "Садилова Ирина Владимировна": 34,
-      "Сивцев Евгений Викторович": 95,
-      "Симонова Раиса Наурдыевна": 19,
-      "Сторожев Геннадий Алексеевич": 89
+      "gas:candidate-vibid:25920001388604": 333,
+      "gas:candidate-vibid:25920001391198": 108,
+      "gas:candidate-vibid:25920001385656": 78,
+      "gas:candidate-vibid:25920001389008": 11,
+      "gas:candidate-vibid:25920001388525": 14,
+      "gas:candidate-vibid:25920001388338": 34,
+      "gas:candidate-vibid:25920001364699": 95,
+      "gas:candidate-vibid:25920001385238": 19,
+      "gas:candidate-vibid:25920001389271": 89
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184795&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184795&type=464",
@@ -13731,15 +13731,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 359,
-      "Волынец Ирина Владимировна": 92,
-      "Пимкин Юрий Александрович": 64,
-      "Подаруев Степан Владимирович": 14,
-      "Рубан Алексей Викторович": 13,
-      "Садилова Ирина Владимировна": 30,
-      "Сивцев Евгений Викторович": 90,
-      "Симонова Раиса Наурдыевна": 22,
-      "Сторожев Геннадий Алексеевич": 85
+      "gas:candidate-vibid:25920001388604": 359,
+      "gas:candidate-vibid:25920001391198": 92,
+      "gas:candidate-vibid:25920001385656": 64,
+      "gas:candidate-vibid:25920001389008": 14,
+      "gas:candidate-vibid:25920001388525": 13,
+      "gas:candidate-vibid:25920001388338": 30,
+      "gas:candidate-vibid:25920001364699": 90,
+      "gas:candidate-vibid:25920001385238": 22,
+      "gas:candidate-vibid:25920001389271": 85
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184795&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184795&type=464",
@@ -13790,15 +13790,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 137,
-      "Волынец Ирина Владимировна": 22,
-      "Пимкин Юрий Александрович": 20,
-      "Подаруев Степан Владимирович": 9,
-      "Рубан Алексей Викторович": 6,
-      "Садилова Ирина Владимировна": 16,
-      "Сивцев Евгений Викторович": 43,
-      "Симонова Раиса Наурдыевна": 12,
-      "Сторожев Геннадий Алексеевич": 34
+      "gas:candidate-vibid:25920001388604": 137,
+      "gas:candidate-vibid:25920001391198": 22,
+      "gas:candidate-vibid:25920001385656": 20,
+      "gas:candidate-vibid:25920001389008": 9,
+      "gas:candidate-vibid:25920001388525": 6,
+      "gas:candidate-vibid:25920001388338": 16,
+      "gas:candidate-vibid:25920001364699": 43,
+      "gas:candidate-vibid:25920001385238": 12,
+      "gas:candidate-vibid:25920001389271": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184795&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184795&type=464",
@@ -13849,15 +13849,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 319,
-      "Волынец Ирина Владимировна": 87,
-      "Пимкин Юрий Александрович": 45,
-      "Подаруев Степан Владимирович": 16,
-      "Рубан Алексей Викторович": 20,
-      "Садилова Ирина Владимировна": 28,
-      "Сивцев Евгений Викторович": 81,
-      "Симонова Раиса Наурдыевна": 21,
-      "Сторожев Геннадий Алексеевич": 78
+      "gas:candidate-vibid:25920001388604": 319,
+      "gas:candidate-vibid:25920001391198": 87,
+      "gas:candidate-vibid:25920001385656": 45,
+      "gas:candidate-vibid:25920001389008": 16,
+      "gas:candidate-vibid:25920001388525": 20,
+      "gas:candidate-vibid:25920001388338": 28,
+      "gas:candidate-vibid:25920001364699": 81,
+      "gas:candidate-vibid:25920001385238": 21,
+      "gas:candidate-vibid:25920001389271": 78
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184795&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184795&type=464",
@@ -13908,15 +13908,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 229,
-      "Волынец Ирина Владимировна": 52,
-      "Пимкин Юрий Александрович": 53,
-      "Подаруев Степан Владимирович": 14,
-      "Рубан Алексей Викторович": 14,
-      "Садилова Ирина Владимировна": 37,
-      "Сивцев Евгений Викторович": 60,
-      "Симонова Раиса Наурдыевна": 7,
-      "Сторожев Геннадий Алексеевич": 52
+      "gas:candidate-vibid:25920001388604": 229,
+      "gas:candidate-vibid:25920001391198": 52,
+      "gas:candidate-vibid:25920001385656": 53,
+      "gas:candidate-vibid:25920001389008": 14,
+      "gas:candidate-vibid:25920001388525": 14,
+      "gas:candidate-vibid:25920001388338": 37,
+      "gas:candidate-vibid:25920001364699": 60,
+      "gas:candidate-vibid:25920001385238": 7,
+      "gas:candidate-vibid:25920001389271": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184795&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184795&type=464",
@@ -13967,15 +13967,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 420,
-      "Волынец Ирина Владимировна": 73,
-      "Пимкин Юрий Александрович": 60,
-      "Подаруев Степан Владимирович": 20,
-      "Рубан Алексей Викторович": 23,
-      "Садилова Ирина Владимировна": 37,
-      "Сивцев Евгений Викторович": 83,
-      "Симонова Раиса Наурдыевна": 17,
-      "Сторожев Геннадий Алексеевич": 87
+      "gas:candidate-vibid:25920001388604": 420,
+      "gas:candidate-vibid:25920001391198": 73,
+      "gas:candidate-vibid:25920001385656": 60,
+      "gas:candidate-vibid:25920001389008": 20,
+      "gas:candidate-vibid:25920001388525": 23,
+      "gas:candidate-vibid:25920001388338": 37,
+      "gas:candidate-vibid:25920001364699": 83,
+      "gas:candidate-vibid:25920001385238": 17,
+      "gas:candidate-vibid:25920001389271": 87
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184795&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184795&type=464",
@@ -14026,15 +14026,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 367,
-      "Волынец Ирина Владимировна": 89,
-      "Пимкин Юрий Александрович": 45,
-      "Подаруев Степан Владимирович": 19,
-      "Рубан Алексей Викторович": 11,
-      "Садилова Ирина Владимировна": 45,
-      "Сивцев Евгений Викторович": 99,
-      "Симонова Раиса Наурдыевна": 20,
-      "Сторожев Геннадий Алексеевич": 83
+      "gas:candidate-vibid:25920001388604": 367,
+      "gas:candidate-vibid:25920001391198": 89,
+      "gas:candidate-vibid:25920001385656": 45,
+      "gas:candidate-vibid:25920001389008": 19,
+      "gas:candidate-vibid:25920001388525": 11,
+      "gas:candidate-vibid:25920001388338": 45,
+      "gas:candidate-vibid:25920001364699": 99,
+      "gas:candidate-vibid:25920001385238": 20,
+      "gas:candidate-vibid:25920001389271": 83
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184795&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184795&type=464",
@@ -14085,15 +14085,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 301,
-      "Волынец Ирина Владимировна": 84,
-      "Пимкин Юрий Александрович": 47,
-      "Подаруев Степан Владимирович": 15,
-      "Рубан Алексей Викторович": 12,
-      "Садилова Ирина Владимировна": 39,
-      "Сивцев Евгений Викторович": 100,
-      "Симонова Раиса Наурдыевна": 10,
-      "Сторожев Геннадий Алексеевич": 48
+      "gas:candidate-vibid:25920001388604": 301,
+      "gas:candidate-vibid:25920001391198": 84,
+      "gas:candidate-vibid:25920001385656": 47,
+      "gas:candidate-vibid:25920001389008": 15,
+      "gas:candidate-vibid:25920001388525": 12,
+      "gas:candidate-vibid:25920001388338": 39,
+      "gas:candidate-vibid:25920001364699": 100,
+      "gas:candidate-vibid:25920001385238": 10,
+      "gas:candidate-vibid:25920001389271": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184795&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184795&type=464",
@@ -14144,15 +14144,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 333,
-      "Волынец Ирина Владимировна": 96,
-      "Пимкин Юрий Александрович": 53,
-      "Подаруев Степан Владимирович": 13,
-      "Рубан Алексей Викторович": 18,
-      "Садилова Ирина Владимировна": 28,
-      "Сивцев Евгений Викторович": 83,
-      "Симонова Раиса Наурдыевна": 23,
-      "Сторожев Геннадий Алексеевич": 86
+      "gas:candidate-vibid:25920001388604": 333,
+      "gas:candidate-vibid:25920001391198": 96,
+      "gas:candidate-vibid:25920001385656": 53,
+      "gas:candidate-vibid:25920001389008": 13,
+      "gas:candidate-vibid:25920001388525": 18,
+      "gas:candidate-vibid:25920001388338": 28,
+      "gas:candidate-vibid:25920001364699": 83,
+      "gas:candidate-vibid:25920001385238": 23,
+      "gas:candidate-vibid:25920001389271": 86
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184795&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184795&type=464",
@@ -14203,15 +14203,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 28,
-      "Волынец Ирина Владимировна": 12,
-      "Пимкин Юрий Александрович": 14,
-      "Подаруев Степан Владимирович": 4,
-      "Рубан Алексей Викторович": 4,
-      "Садилова Ирина Владимировна": 8,
-      "Сивцев Евгений Викторович": 12,
-      "Симонова Раиса Наурдыевна": 0,
-      "Сторожев Геннадий Алексеевич": 17
+      "gas:candidate-vibid:25920001388604": 28,
+      "gas:candidate-vibid:25920001391198": 12,
+      "gas:candidate-vibid:25920001385656": 14,
+      "gas:candidate-vibid:25920001389008": 4,
+      "gas:candidate-vibid:25920001388525": 4,
+      "gas:candidate-vibid:25920001388338": 8,
+      "gas:candidate-vibid:25920001364699": 12,
+      "gas:candidate-vibid:25920001385238": 0,
+      "gas:candidate-vibid:25920001389271": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184795&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184795&type=464",
@@ -14262,15 +14262,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 232,
-      "Волынец Ирина Владимировна": 74,
-      "Пимкин Юрий Александрович": 46,
-      "Подаруев Степан Владимирович": 10,
-      "Рубан Алексей Викторович": 14,
-      "Садилова Ирина Владимировна": 34,
-      "Сивцев Евгений Викторович": 77,
-      "Симонова Раиса Наурдыевна": 16,
-      "Сторожев Геннадий Алексеевич": 60
+      "gas:candidate-vibid:25920001388604": 232,
+      "gas:candidate-vibid:25920001391198": 74,
+      "gas:candidate-vibid:25920001385656": 46,
+      "gas:candidate-vibid:25920001389008": 10,
+      "gas:candidate-vibid:25920001388525": 14,
+      "gas:candidate-vibid:25920001388338": 34,
+      "gas:candidate-vibid:25920001364699": 77,
+      "gas:candidate-vibid:25920001385238": 16,
+      "gas:candidate-vibid:25920001389271": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184795&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184795&type=464",
@@ -14321,15 +14321,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 146,
-      "Волынец Ирина Владимировна": 48,
-      "Пимкин Юрий Александрович": 42,
-      "Подаруев Степан Владимирович": 3,
-      "Рубан Алексей Викторович": 5,
-      "Садилова Ирина Владимировна": 32,
-      "Сивцев Евгений Викторович": 36,
-      "Симонова Раиса Наурдыевна": 14,
-      "Сторожев Геннадий Алексеевич": 40
+      "gas:candidate-vibid:25920001388604": 146,
+      "gas:candidate-vibid:25920001391198": 48,
+      "gas:candidate-vibid:25920001385656": 42,
+      "gas:candidate-vibid:25920001389008": 3,
+      "gas:candidate-vibid:25920001388525": 5,
+      "gas:candidate-vibid:25920001388338": 32,
+      "gas:candidate-vibid:25920001364699": 36,
+      "gas:candidate-vibid:25920001385238": 14,
+      "gas:candidate-vibid:25920001389271": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184795&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184795&type=464",
@@ -14380,15 +14380,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 169,
-      "Волынец Ирина Владимировна": 52,
-      "Пимкин Юрий Александрович": 25,
-      "Подаруев Степан Владимирович": 6,
-      "Рубан Алексей Викторович": 9,
-      "Садилова Ирина Владимировна": 25,
-      "Сивцев Евгений Викторович": 58,
-      "Симонова Раиса Наурдыевна": 19,
-      "Сторожев Геннадий Алексеевич": 41
+      "gas:candidate-vibid:25920001388604": 169,
+      "gas:candidate-vibid:25920001391198": 52,
+      "gas:candidate-vibid:25920001385656": 25,
+      "gas:candidate-vibid:25920001389008": 6,
+      "gas:candidate-vibid:25920001388525": 9,
+      "gas:candidate-vibid:25920001388338": 25,
+      "gas:candidate-vibid:25920001364699": 58,
+      "gas:candidate-vibid:25920001385238": 19,
+      "gas:candidate-vibid:25920001389271": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184795&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184795&type=464",
@@ -14439,15 +14439,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 118,
-      "Волынец Ирина Владимировна": 18,
-      "Пимкин Юрий Александрович": 21,
-      "Подаруев Степан Владимирович": 2,
-      "Рубан Алексей Викторович": 3,
-      "Садилова Ирина Владимировна": 1,
-      "Сивцев Евгений Викторович": 20,
-      "Симонова Раиса Наурдыевна": 6,
-      "Сторожев Геннадий Алексеевич": 19
+      "gas:candidate-vibid:25920001388604": 118,
+      "gas:candidate-vibid:25920001391198": 18,
+      "gas:candidate-vibid:25920001385656": 21,
+      "gas:candidate-vibid:25920001389008": 2,
+      "gas:candidate-vibid:25920001388525": 3,
+      "gas:candidate-vibid:25920001388338": 1,
+      "gas:candidate-vibid:25920001364699": 20,
+      "gas:candidate-vibid:25920001385238": 6,
+      "gas:candidate-vibid:25920001389271": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184795&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184795&type=464",
@@ -14498,15 +14498,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 201,
-      "Волынец Ирина Владимировна": 17,
-      "Пимкин Юрий Александрович": 29,
-      "Подаруев Степан Владимирович": 5,
-      "Рубан Алексей Викторович": 6,
-      "Садилова Ирина Владимировна": 12,
-      "Сивцев Евгений Викторович": 41,
-      "Симонова Раиса Наурдыевна": 20,
-      "Сторожев Геннадий Алексеевич": 26
+      "gas:candidate-vibid:25920001388604": 201,
+      "gas:candidate-vibid:25920001391198": 17,
+      "gas:candidate-vibid:25920001385656": 29,
+      "gas:candidate-vibid:25920001389008": 5,
+      "gas:candidate-vibid:25920001388525": 6,
+      "gas:candidate-vibid:25920001388338": 12,
+      "gas:candidate-vibid:25920001364699": 41,
+      "gas:candidate-vibid:25920001385238": 20,
+      "gas:candidate-vibid:25920001389271": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184795&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184795&type=464",
@@ -14557,15 +14557,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 40,
-      "Волынец Ирина Владимировна": 2,
-      "Пимкин Юрий Александрович": 6,
-      "Подаруев Степан Владимирович": 3,
-      "Рубан Алексей Викторович": 1,
-      "Садилова Ирина Владимировна": 2,
-      "Сивцев Евгений Викторович": 6,
-      "Симонова Раиса Наурдыевна": 6,
-      "Сторожев Геннадий Алексеевич": 2
+      "gas:candidate-vibid:25920001388604": 40,
+      "gas:candidate-vibid:25920001391198": 2,
+      "gas:candidate-vibid:25920001385656": 6,
+      "gas:candidate-vibid:25920001389008": 3,
+      "gas:candidate-vibid:25920001388525": 1,
+      "gas:candidate-vibid:25920001388338": 2,
+      "gas:candidate-vibid:25920001364699": 6,
+      "gas:candidate-vibid:25920001385238": 6,
+      "gas:candidate-vibid:25920001389271": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184795&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184795&type=464",
@@ -14616,15 +14616,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 36,
-      "Волынец Ирина Владимировна": 3,
-      "Пимкин Юрий Александрович": 1,
-      "Подаруев Степан Владимирович": 0,
-      "Рубан Алексей Викторович": 1,
-      "Садилова Ирина Владимировна": 2,
-      "Сивцев Евгений Викторович": 3,
-      "Симонова Раиса Наурдыевна": 4,
-      "Сторожев Геннадий Алексеевич": 3
+      "gas:candidate-vibid:25920001388604": 36,
+      "gas:candidate-vibid:25920001391198": 3,
+      "gas:candidate-vibid:25920001385656": 1,
+      "gas:candidate-vibid:25920001389008": 0,
+      "gas:candidate-vibid:25920001388525": 1,
+      "gas:candidate-vibid:25920001388338": 2,
+      "gas:candidate-vibid:25920001364699": 3,
+      "gas:candidate-vibid:25920001385238": 4,
+      "gas:candidate-vibid:25920001389271": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184795&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184795&type=464",
@@ -14675,15 +14675,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 52,
-      "Волынец Ирина Владимировна": 9,
-      "Пимкин Юрий Александрович": 6,
-      "Подаруев Степан Владимирович": 3,
-      "Рубан Алексей Викторович": 0,
-      "Садилова Ирина Владимировна": 9,
-      "Сивцев Евгений Викторович": 11,
-      "Симонова Раиса Наурдыевна": 7,
-      "Сторожев Геннадий Алексеевич": 5
+      "gas:candidate-vibid:25920001388604": 52,
+      "gas:candidate-vibid:25920001391198": 9,
+      "gas:candidate-vibid:25920001385656": 6,
+      "gas:candidate-vibid:25920001389008": 3,
+      "gas:candidate-vibid:25920001388525": 0,
+      "gas:candidate-vibid:25920001388338": 9,
+      "gas:candidate-vibid:25920001364699": 11,
+      "gas:candidate-vibid:25920001385238": 7,
+      "gas:candidate-vibid:25920001389271": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184795&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184795&type=464",
@@ -14734,15 +14734,15 @@ export const duma_2016_uik_463_region_90_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бурнашов Алексей Леонидович": 70,
-      "Волынец Ирина Владимировна": 6,
-      "Пимкин Юрий Александрович": 3,
-      "Подаруев Степан Владимирович": 2,
-      "Рубан Алексей Викторович": 11,
-      "Садилова Ирина Владимировна": 15,
-      "Сивцев Евгений Викторович": 10,
-      "Симонова Раиса Наурдыевна": 4,
-      "Сторожев Геннадий Алексеевич": 3
+      "gas:candidate-vibid:25920001388604": 70,
+      "gas:candidate-vibid:25920001391198": 6,
+      "gas:candidate-vibid:25920001385656": 3,
+      "gas:candidate-vibid:25920001389008": 2,
+      "gas:candidate-vibid:25920001388525": 11,
+      "gas:candidate-vibid:25920001388338": 15,
+      "gas:candidate-vibid:25920001364699": 10,
+      "gas:candidate-vibid:25920001385238": 4,
+      "gas:candidate-vibid:25920001389271": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/permkrai?action=show&root=1000297&tvd=25920001184795&vrn=100100067795849&region=90&global=&sub_region=90&prver=0&pronetvd=null&vibid=25920001184795&type=464",

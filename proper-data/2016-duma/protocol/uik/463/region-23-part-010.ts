@@ -43,13 +43,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ващенко Денис Юрьевич": 7,
-      "Езубов Алексей Петрович": 40,
-      "Карпекин Владимир Дмитриевич": 8,
-      "Линдблад Людмила Евгеньевна": 4,
-      "Нагнибеда Александр Иванович": 35,
-      "Сытник Николай Николаевич": 9,
-      "Халин Илья Сергеевич": 5
+      "gas:candidate-vibid:4234055233602": 7,
+      "gas:candidate-vibid:4234055233328": 40,
+      "gas:candidate-vibid:4234055233188": 8,
+      "gas:candidate-vibid:4234055234268": 4,
+      "gas:candidate-vibid:4234055234346": 35,
+      "gas:candidate-vibid:4234055223353": 9,
+      "gas:candidate-vibid:4234055233228": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000068&tvd=4234055222596&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234055222596&type=464",
@@ -100,13 +100,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ващенко Денис Юрьевич": 5,
-      "Езубов Алексей Петрович": 646,
-      "Карпекин Владимир Дмитриевич": 38,
-      "Линдблад Людмила Евгеньевна": 5,
-      "Нагнибеда Александр Иванович": 23,
-      "Сытник Николай Николаевич": 30,
-      "Халин Илья Сергеевич": 18
+      "gas:candidate-vibid:4234055233602": 5,
+      "gas:candidate-vibid:4234055233328": 646,
+      "gas:candidate-vibid:4234055233188": 38,
+      "gas:candidate-vibid:4234055234268": 5,
+      "gas:candidate-vibid:4234055234346": 23,
+      "gas:candidate-vibid:4234055223353": 30,
+      "gas:candidate-vibid:4234055233228": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000068&tvd=4234055222597&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234055222597&type=464",
@@ -157,13 +157,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ващенко Денис Юрьевич": 0,
-      "Езубов Алексей Петрович": 826,
-      "Карпекин Владимир Дмитриевич": 50,
-      "Линдблад Людмила Евгеньевна": 0,
-      "Нагнибеда Александр Иванович": 31,
-      "Сытник Николай Николаевич": 9,
-      "Халин Илья Сергеевич": 1
+      "gas:candidate-vibid:4234055233602": 0,
+      "gas:candidate-vibid:4234055233328": 826,
+      "gas:candidate-vibid:4234055233188": 50,
+      "gas:candidate-vibid:4234055234268": 0,
+      "gas:candidate-vibid:4234055234346": 31,
+      "gas:candidate-vibid:4234055223353": 9,
+      "gas:candidate-vibid:4234055233228": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000068&tvd=4234055222597&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234055222597&type=464",
@@ -214,13 +214,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ващенко Денис Юрьевич": 2,
-      "Езубов Алексей Петрович": 510,
-      "Карпекин Владимир Дмитриевич": 20,
-      "Линдблад Людмила Евгеньевна": 1,
-      "Нагнибеда Александр Иванович": 17,
-      "Сытник Николай Николаевич": 18,
-      "Халин Илья Сергеевич": 0
+      "gas:candidate-vibid:4234055233602": 2,
+      "gas:candidate-vibid:4234055233328": 510,
+      "gas:candidate-vibid:4234055233188": 20,
+      "gas:candidate-vibid:4234055234268": 1,
+      "gas:candidate-vibid:4234055234346": 17,
+      "gas:candidate-vibid:4234055223353": 18,
+      "gas:candidate-vibid:4234055233228": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000068&tvd=4234055222597&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234055222597&type=464",
@@ -271,13 +271,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ващенко Денис Юрьевич": 3,
-      "Езубов Алексей Петрович": 505,
-      "Карпекин Владимир Дмитриевич": 41,
-      "Линдблад Людмила Евгеньевна": 10,
-      "Нагнибеда Александр Иванович": 34,
-      "Сытник Николай Николаевич": 64,
-      "Халин Илья Сергеевич": 10
+      "gas:candidate-vibid:4234055233602": 3,
+      "gas:candidate-vibid:4234055233328": 505,
+      "gas:candidate-vibid:4234055233188": 41,
+      "gas:candidate-vibid:4234055234268": 10,
+      "gas:candidate-vibid:4234055234346": 34,
+      "gas:candidate-vibid:4234055223353": 64,
+      "gas:candidate-vibid:4234055233228": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000068&tvd=4234055222597&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234055222597&type=464",
@@ -328,13 +328,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ващенко Денис Юрьевич": 0,
-      "Езубов Алексей Петрович": 530,
-      "Карпекин Владимир Дмитриевич": 51,
-      "Линдблад Людмила Евгеньевна": 0,
-      "Нагнибеда Александр Иванович": 102,
-      "Сытник Николай Николаевич": 71,
-      "Халин Илья Сергеевич": 0
+      "gas:candidate-vibid:4234055233602": 0,
+      "gas:candidate-vibid:4234055233328": 530,
+      "gas:candidate-vibid:4234055233188": 51,
+      "gas:candidate-vibid:4234055234268": 0,
+      "gas:candidate-vibid:4234055234346": 102,
+      "gas:candidate-vibid:4234055223353": 71,
+      "gas:candidate-vibid:4234055233228": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000068&tvd=4234055222597&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234055222597&type=464",
@@ -385,13 +385,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ващенко Денис Юрьевич": 26,
-      "Езубов Алексей Петрович": 545,
-      "Карпекин Владимир Дмитриевич": 23,
-      "Линдблад Людмила Евгеньевна": 22,
-      "Нагнибеда Александр Иванович": 94,
-      "Сытник Николай Николаевич": 142,
-      "Халин Илья Сергеевич": 31
+      "gas:candidate-vibid:4234055233602": 26,
+      "gas:candidate-vibid:4234055233328": 545,
+      "gas:candidate-vibid:4234055233188": 23,
+      "gas:candidate-vibid:4234055234268": 22,
+      "gas:candidate-vibid:4234055234346": 94,
+      "gas:candidate-vibid:4234055223353": 142,
+      "gas:candidate-vibid:4234055233228": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000068&tvd=4234055222597&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234055222597&type=464",
@@ -442,13 +442,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ващенко Денис Юрьевич": 3,
-      "Езубов Алексей Петрович": 1130,
-      "Карпекин Владимир Дмитриевич": 54,
-      "Линдблад Людмила Евгеньевна": 8,
-      "Нагнибеда Александр Иванович": 15,
-      "Сытник Николай Николаевич": 18,
-      "Халин Илья Сергеевич": 0
+      "gas:candidate-vibid:4234055233602": 3,
+      "gas:candidate-vibid:4234055233328": 1130,
+      "gas:candidate-vibid:4234055233188": 54,
+      "gas:candidate-vibid:4234055234268": 8,
+      "gas:candidate-vibid:4234055234346": 15,
+      "gas:candidate-vibid:4234055223353": 18,
+      "gas:candidate-vibid:4234055233228": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000068&tvd=4234055222597&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234055222597&type=464",
@@ -499,13 +499,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ващенко Денис Юрьевич": 14,
-      "Езубов Алексей Петрович": 868,
-      "Карпекин Владимир Дмитриевич": 54,
-      "Линдблад Людмила Евгеньевна": 4,
-      "Нагнибеда Александр Иванович": 14,
-      "Сытник Николай Николаевич": 53,
-      "Халин Илья Сергеевич": 27
+      "gas:candidate-vibid:4234055233602": 14,
+      "gas:candidate-vibid:4234055233328": 868,
+      "gas:candidate-vibid:4234055233188": 54,
+      "gas:candidate-vibid:4234055234268": 4,
+      "gas:candidate-vibid:4234055234346": 14,
+      "gas:candidate-vibid:4234055223353": 53,
+      "gas:candidate-vibid:4234055233228": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000068&tvd=4234055222597&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234055222597&type=464",
@@ -556,13 +556,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ващенко Денис Юрьевич": 1,
-      "Езубов Алексей Петрович": 546,
-      "Карпекин Владимир Дмитриевич": 77,
-      "Линдблад Людмила Евгеньевна": 1,
-      "Нагнибеда Александр Иванович": 82,
-      "Сытник Николай Николаевич": 139,
-      "Халин Илья Сергеевич": 1
+      "gas:candidate-vibid:4234055233602": 1,
+      "gas:candidate-vibid:4234055233328": 546,
+      "gas:candidate-vibid:4234055233188": 77,
+      "gas:candidate-vibid:4234055234268": 1,
+      "gas:candidate-vibid:4234055234346": 82,
+      "gas:candidate-vibid:4234055223353": 139,
+      "gas:candidate-vibid:4234055233228": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000068&tvd=4234055222597&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234055222597&type=464",
@@ -613,13 +613,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ващенко Денис Юрьевич": 0,
-      "Езубов Алексей Петрович": 858,
-      "Карпекин Владимир Дмитриевич": 67,
-      "Линдблад Людмила Евгеньевна": 0,
-      "Нагнибеда Александр Иванович": 29,
-      "Сытник Николай Николаевич": 48,
-      "Халин Илья Сергеевич": 0
+      "gas:candidate-vibid:4234055233602": 0,
+      "gas:candidate-vibid:4234055233328": 858,
+      "gas:candidate-vibid:4234055233188": 67,
+      "gas:candidate-vibid:4234055234268": 0,
+      "gas:candidate-vibid:4234055234346": 29,
+      "gas:candidate-vibid:4234055223353": 48,
+      "gas:candidate-vibid:4234055233228": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000068&tvd=4234055222597&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234055222597&type=464",
@@ -670,13 +670,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ващенко Денис Юрьевич": 2,
-      "Езубов Алексей Петрович": 839,
-      "Карпекин Владимир Дмитриевич": 37,
-      "Линдблад Людмила Евгеньевна": 5,
-      "Нагнибеда Александр Иванович": 19,
-      "Сытник Николай Николаевич": 28,
-      "Халин Илья Сергеевич": 2
+      "gas:candidate-vibid:4234055233602": 2,
+      "gas:candidate-vibid:4234055233328": 839,
+      "gas:candidate-vibid:4234055233188": 37,
+      "gas:candidate-vibid:4234055234268": 5,
+      "gas:candidate-vibid:4234055234346": 19,
+      "gas:candidate-vibid:4234055223353": 28,
+      "gas:candidate-vibid:4234055233228": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000068&tvd=4234055222597&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234055222597&type=464",
@@ -727,13 +727,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ващенко Денис Юрьевич": 3,
-      "Езубов Алексей Петрович": 656,
-      "Карпекин Владимир Дмитриевич": 59,
-      "Линдблад Людмила Евгеньевна": 4,
-      "Нагнибеда Александр Иванович": 42,
-      "Сытник Николай Николаевич": 57,
-      "Халин Илья Сергеевич": 2
+      "gas:candidate-vibid:4234055233602": 3,
+      "gas:candidate-vibid:4234055233328": 656,
+      "gas:candidate-vibid:4234055233188": 59,
+      "gas:candidate-vibid:4234055234268": 4,
+      "gas:candidate-vibid:4234055234346": 42,
+      "gas:candidate-vibid:4234055223353": 57,
+      "gas:candidate-vibid:4234055233228": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000068&tvd=4234055222597&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234055222597&type=464",
@@ -784,13 +784,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ващенко Денис Юрьевич": 1,
-      "Езубов Алексей Петрович": 260,
-      "Карпекин Владимир Дмитриевич": 20,
-      "Линдблад Людмила Евгеньевна": 2,
-      "Нагнибеда Александр Иванович": 10,
-      "Сытник Николай Николаевич": 29,
-      "Халин Илья Сергеевич": 0
+      "gas:candidate-vibid:4234055233602": 1,
+      "gas:candidate-vibid:4234055233328": 260,
+      "gas:candidate-vibid:4234055233188": 20,
+      "gas:candidate-vibid:4234055234268": 2,
+      "gas:candidate-vibid:4234055234346": 10,
+      "gas:candidate-vibid:4234055223353": 29,
+      "gas:candidate-vibid:4234055233228": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000068&tvd=4234055222597&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234055222597&type=464",
@@ -841,13 +841,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ващенко Денис Юрьевич": 21,
-      "Езубов Алексей Петрович": 716,
-      "Карпекин Владимир Дмитриевич": 53,
-      "Линдблад Людмила Евгеньевна": 12,
-      "Нагнибеда Александр Иванович": 76,
-      "Сытник Николай Николаевич": 98,
-      "Халин Илья Сергеевич": 23
+      "gas:candidate-vibid:4234055233602": 21,
+      "gas:candidate-vibid:4234055233328": 716,
+      "gas:candidate-vibid:4234055233188": 53,
+      "gas:candidate-vibid:4234055234268": 12,
+      "gas:candidate-vibid:4234055234346": 76,
+      "gas:candidate-vibid:4234055223353": 98,
+      "gas:candidate-vibid:4234055233228": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000068&tvd=4234055222597&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234055222597&type=464",
@@ -898,13 +898,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ващенко Денис Юрьевич": 23,
-      "Езубов Алексей Петрович": 557,
-      "Карпекин Владимир Дмитриевич": 54,
-      "Линдблад Людмила Евгеньевна": 18,
-      "Нагнибеда Александр Иванович": 87,
-      "Сытник Николай Николаевич": 98,
-      "Халин Илья Сергеевич": 12
+      "gas:candidate-vibid:4234055233602": 23,
+      "gas:candidate-vibid:4234055233328": 557,
+      "gas:candidate-vibid:4234055233188": 54,
+      "gas:candidate-vibid:4234055234268": 18,
+      "gas:candidate-vibid:4234055234346": 87,
+      "gas:candidate-vibid:4234055223353": 98,
+      "gas:candidate-vibid:4234055233228": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000068&tvd=4234055222597&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234055222597&type=464",
@@ -955,13 +955,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ващенко Денис Юрьевич": 14,
-      "Езубов Алексей Петрович": 387,
-      "Карпекин Владимир Дмитриевич": 28,
-      "Линдблад Людмила Евгеньевна": 18,
-      "Нагнибеда Александр Иванович": 78,
-      "Сытник Николай Николаевич": 105,
-      "Халин Илья Сергеевич": 23
+      "gas:candidate-vibid:4234055233602": 14,
+      "gas:candidate-vibid:4234055233328": 387,
+      "gas:candidate-vibid:4234055233188": 28,
+      "gas:candidate-vibid:4234055234268": 18,
+      "gas:candidate-vibid:4234055234346": 78,
+      "gas:candidate-vibid:4234055223353": 105,
+      "gas:candidate-vibid:4234055233228": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000068&tvd=4234055222597&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234055222597&type=464",
@@ -1012,13 +1012,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ващенко Денис Юрьевич": 28,
-      "Езубов Алексей Петрович": 323,
-      "Карпекин Владимир Дмитриевич": 21,
-      "Линдблад Людмила Евгеньевна": 10,
-      "Нагнибеда Александр Иванович": 59,
-      "Сытник Николай Николаевич": 73,
-      "Халин Илья Сергеевич": 33
+      "gas:candidate-vibid:4234055233602": 28,
+      "gas:candidate-vibid:4234055233328": 323,
+      "gas:candidate-vibid:4234055233188": 21,
+      "gas:candidate-vibid:4234055234268": 10,
+      "gas:candidate-vibid:4234055234346": 59,
+      "gas:candidate-vibid:4234055223353": 73,
+      "gas:candidate-vibid:4234055233228": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000068&tvd=4234055222597&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234055222597&type=464",
@@ -1069,13 +1069,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ващенко Денис Юрьевич": 14,
-      "Езубов Алексей Петрович": 729,
-      "Карпекин Владимир Дмитриевич": 31,
-      "Линдблад Людмила Евгеньевна": 17,
-      "Нагнибеда Александр Иванович": 57,
-      "Сытник Николай Николаевич": 80,
-      "Халин Илья Сергеевич": 7
+      "gas:candidate-vibid:4234055233602": 14,
+      "gas:candidate-vibid:4234055233328": 729,
+      "gas:candidate-vibid:4234055233188": 31,
+      "gas:candidate-vibid:4234055234268": 17,
+      "gas:candidate-vibid:4234055234346": 57,
+      "gas:candidate-vibid:4234055223353": 80,
+      "gas:candidate-vibid:4234055233228": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000068&tvd=4234055222597&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234055222597&type=464",
@@ -1126,13 +1126,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ващенко Денис Юрьевич": 21,
-      "Езубов Алексей Петрович": 635,
-      "Карпекин Владимир Дмитриевич": 17,
-      "Линдблад Людмила Евгеньевна": 12,
-      "Нагнибеда Александр Иванович": 110,
-      "Сытник Николай Николаевич": 59,
-      "Халин Илья Сергеевич": 19
+      "gas:candidate-vibid:4234055233602": 21,
+      "gas:candidate-vibid:4234055233328": 635,
+      "gas:candidate-vibid:4234055233188": 17,
+      "gas:candidate-vibid:4234055234268": 12,
+      "gas:candidate-vibid:4234055234346": 110,
+      "gas:candidate-vibid:4234055223353": 59,
+      "gas:candidate-vibid:4234055233228": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000068&tvd=4234055222597&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234055222597&type=464",
@@ -1183,13 +1183,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ващенко Денис Юрьевич": 2,
-      "Езубов Алексей Петрович": 583,
-      "Карпекин Владимир Дмитриевич": 42,
-      "Линдблад Людмила Евгеньевна": 1,
-      "Нагнибеда Александр Иванович": 30,
-      "Сытник Николай Николаевич": 67,
-      "Халин Илья Сергеевич": 3
+      "gas:candidate-vibid:4234055233602": 2,
+      "gas:candidate-vibid:4234055233328": 583,
+      "gas:candidate-vibid:4234055233188": 42,
+      "gas:candidate-vibid:4234055234268": 1,
+      "gas:candidate-vibid:4234055234346": 30,
+      "gas:candidate-vibid:4234055223353": 67,
+      "gas:candidate-vibid:4234055233228": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000068&tvd=4234055222597&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234055222597&type=464",
@@ -1240,13 +1240,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ващенко Денис Юрьевич": 13,
-      "Езубов Алексей Петрович": 1053,
-      "Карпекин Владимир Дмитриевич": 80,
-      "Линдблад Людмила Евгеньевна": 15,
-      "Нагнибеда Александр Иванович": 46,
-      "Сытник Николай Николаевич": 69,
-      "Халин Илья Сергеевич": 17
+      "gas:candidate-vibid:4234055233602": 13,
+      "gas:candidate-vibid:4234055233328": 1053,
+      "gas:candidate-vibid:4234055233188": 80,
+      "gas:candidate-vibid:4234055234268": 15,
+      "gas:candidate-vibid:4234055234346": 46,
+      "gas:candidate-vibid:4234055223353": 69,
+      "gas:candidate-vibid:4234055233228": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000068&tvd=4234055222597&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234055222597&type=464",
@@ -1297,13 +1297,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ващенко Денис Юрьевич": 10,
-      "Езубов Алексей Петрович": 869,
-      "Карпекин Владимир Дмитриевич": 122,
-      "Линдблад Людмила Евгеньевна": 12,
-      "Нагнибеда Александр Иванович": 57,
-      "Сытник Николай Николаевич": 63,
-      "Халин Илья Сергеевич": 11
+      "gas:candidate-vibid:4234055233602": 10,
+      "gas:candidate-vibid:4234055233328": 869,
+      "gas:candidate-vibid:4234055233188": 122,
+      "gas:candidate-vibid:4234055234268": 12,
+      "gas:candidate-vibid:4234055234346": 57,
+      "gas:candidate-vibid:4234055223353": 63,
+      "gas:candidate-vibid:4234055233228": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000068&tvd=4234055222597&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234055222597&type=464",
@@ -1354,13 +1354,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ващенко Денис Юрьевич": 13,
-      "Езубов Алексей Петрович": 582,
-      "Карпекин Владимир Дмитриевич": 59,
-      "Линдблад Людмила Евгеньевна": 17,
-      "Нагнибеда Александр Иванович": 45,
-      "Сытник Николай Николаевич": 48,
-      "Халин Илья Сергеевич": 3
+      "gas:candidate-vibid:4234055233602": 13,
+      "gas:candidate-vibid:4234055233328": 582,
+      "gas:candidate-vibid:4234055233188": 59,
+      "gas:candidate-vibid:4234055234268": 17,
+      "gas:candidate-vibid:4234055234346": 45,
+      "gas:candidate-vibid:4234055223353": 48,
+      "gas:candidate-vibid:4234055233228": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000068&tvd=4234055222597&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234055222597&type=464",
@@ -1411,13 +1411,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ващенко Денис Юрьевич": 5,
-      "Езубов Алексей Петрович": 236,
-      "Карпекин Владимир Дмитриевич": 30,
-      "Линдблад Людмила Евгеньевна": 5,
-      "Нагнибеда Александр Иванович": 6,
-      "Сытник Николай Николаевич": 15,
-      "Халин Илья Сергеевич": 3
+      "gas:candidate-vibid:4234055233602": 5,
+      "gas:candidate-vibid:4234055233328": 236,
+      "gas:candidate-vibid:4234055233188": 30,
+      "gas:candidate-vibid:4234055234268": 5,
+      "gas:candidate-vibid:4234055234346": 6,
+      "gas:candidate-vibid:4234055223353": 15,
+      "gas:candidate-vibid:4234055233228": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000068&tvd=4234055222597&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234055222597&type=464",
@@ -1468,13 +1468,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ващенко Денис Юрьевич": 13,
-      "Езубов Алексей Петрович": 339,
-      "Карпекин Владимир Дмитриевич": 24,
-      "Линдблад Людмила Евгеньевна": 9,
-      "Нагнибеда Александр Иванович": 85,
-      "Сытник Николай Николаевич": 81,
-      "Халин Илья Сергеевич": 48
+      "gas:candidate-vibid:4234055233602": 13,
+      "gas:candidate-vibid:4234055233328": 339,
+      "gas:candidate-vibid:4234055233188": 24,
+      "gas:candidate-vibid:4234055234268": 9,
+      "gas:candidate-vibid:4234055234346": 85,
+      "gas:candidate-vibid:4234055223353": 81,
+      "gas:candidate-vibid:4234055233228": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000068&tvd=4234055222597&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234055222597&type=464",
@@ -1525,13 +1525,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ващенко Денис Юрьевич": 1,
-      "Езубов Алексей Петрович": 302,
-      "Карпекин Владимир Дмитриевич": 12,
-      "Линдблад Людмила Евгеньевна": 2,
-      "Нагнибеда Александр Иванович": 7,
-      "Сытник Николай Николаевич": 9,
-      "Халин Илья Сергеевич": 2
+      "gas:candidate-vibid:4234055233602": 1,
+      "gas:candidate-vibid:4234055233328": 302,
+      "gas:candidate-vibid:4234055233188": 12,
+      "gas:candidate-vibid:4234055234268": 2,
+      "gas:candidate-vibid:4234055234346": 7,
+      "gas:candidate-vibid:4234055223353": 9,
+      "gas:candidate-vibid:4234055233228": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000068&tvd=4234055222597&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234055222597&type=464",
@@ -1582,13 +1582,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ващенко Денис Юрьевич": 2,
-      "Езубов Алексей Петрович": 160,
-      "Карпекин Владимир Дмитриевич": 14,
-      "Линдблад Людмила Евгеньевна": 1,
-      "Нагнибеда Александр Иванович": 4,
-      "Сытник Николай Николаевич": 11,
-      "Халин Илья Сергеевич": 8
+      "gas:candidate-vibid:4234055233602": 2,
+      "gas:candidate-vibid:4234055233328": 160,
+      "gas:candidate-vibid:4234055233188": 14,
+      "gas:candidate-vibid:4234055234268": 1,
+      "gas:candidate-vibid:4234055234346": 4,
+      "gas:candidate-vibid:4234055223353": 11,
+      "gas:candidate-vibid:4234055233228": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000068&tvd=4234055222597&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234055222597&type=464",
@@ -1639,13 +1639,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ващенко Денис Юрьевич": 4,
-      "Езубов Алексей Петрович": 80,
-      "Карпекин Владимир Дмитриевич": 9,
-      "Линдблад Людмила Евгеньевна": 3,
-      "Нагнибеда Александр Иванович": 25,
-      "Сытник Николай Николаевич": 11,
-      "Халин Илья Сергеевич": 8
+      "gas:candidate-vibid:4234055233602": 4,
+      "gas:candidate-vibid:4234055233328": 80,
+      "gas:candidate-vibid:4234055233188": 9,
+      "gas:candidate-vibid:4234055234268": 3,
+      "gas:candidate-vibid:4234055234346": 25,
+      "gas:candidate-vibid:4234055223353": 11,
+      "gas:candidate-vibid:4234055233228": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000068&tvd=4234055222597&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234055222597&type=464",
@@ -1696,13 +1696,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ващенко Денис Юрьевич": 12,
-      "Езубов Алексей Петрович": 514,
-      "Карпекин Владимир Дмитриевич": 42,
-      "Линдблад Людмила Евгеньевна": 9,
-      "Нагнибеда Александр Иванович": 48,
-      "Сытник Николай Николаевич": 90,
-      "Халин Илья Сергеевич": 19
+      "gas:candidate-vibid:4234055233602": 12,
+      "gas:candidate-vibid:4234055233328": 514,
+      "gas:candidate-vibid:4234055233188": 42,
+      "gas:candidate-vibid:4234055234268": 9,
+      "gas:candidate-vibid:4234055234346": 48,
+      "gas:candidate-vibid:4234055223353": 90,
+      "gas:candidate-vibid:4234055233228": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000068&tvd=4234055222597&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234055222597&type=464",
@@ -1753,13 +1753,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ващенко Денис Юрьевич": 15,
-      "Езубов Алексей Петрович": 415,
-      "Карпекин Владимир Дмитриевич": 65,
-      "Линдблад Людмила Евгеньевна": 29,
-      "Нагнибеда Александр Иванович": 103,
-      "Сытник Николай Николаевич": 111,
-      "Халин Илья Сергеевич": 42
+      "gas:candidate-vibid:4234055233602": 15,
+      "gas:candidate-vibid:4234055233328": 415,
+      "gas:candidate-vibid:4234055233188": 65,
+      "gas:candidate-vibid:4234055234268": 29,
+      "gas:candidate-vibid:4234055234346": 103,
+      "gas:candidate-vibid:4234055223353": 111,
+      "gas:candidate-vibid:4234055233228": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000068&tvd=4234055222597&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234055222597&type=464",
@@ -1810,13 +1810,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ващенко Денис Юрьевич": 15,
-      "Езубов Алексей Петрович": 563,
-      "Карпекин Владимир Дмитриевич": 70,
-      "Линдблад Людмила Евгеньевна": 18,
-      "Нагнибеда Александр Иванович": 74,
-      "Сытник Николай Николаевич": 90,
-      "Халин Илья Сергеевич": 25
+      "gas:candidate-vibid:4234055233602": 15,
+      "gas:candidate-vibid:4234055233328": 563,
+      "gas:candidate-vibid:4234055233188": 70,
+      "gas:candidate-vibid:4234055234268": 18,
+      "gas:candidate-vibid:4234055234346": 74,
+      "gas:candidate-vibid:4234055223353": 90,
+      "gas:candidate-vibid:4234055233228": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000068&tvd=4234055222597&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234055222597&type=464",
@@ -1867,13 +1867,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ващенко Денис Юрьевич": 18,
-      "Езубов Алексей Петрович": 508,
-      "Карпекин Владимир Дмитриевич": 30,
-      "Линдблад Людмила Евгеньевна": 13,
-      "Нагнибеда Александр Иванович": 82,
-      "Сытник Николай Николаевич": 94,
-      "Халин Илья Сергеевич": 29
+      "gas:candidate-vibid:4234055233602": 18,
+      "gas:candidate-vibid:4234055233328": 508,
+      "gas:candidate-vibid:4234055233188": 30,
+      "gas:candidate-vibid:4234055234268": 13,
+      "gas:candidate-vibid:4234055234346": 82,
+      "gas:candidate-vibid:4234055223353": 94,
+      "gas:candidate-vibid:4234055233228": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000068&tvd=4234055222597&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234055222597&type=464",
@@ -1924,13 +1924,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ващенко Денис Юрьевич": 2,
-      "Езубов Алексей Петрович": 947,
-      "Карпекин Владимир Дмитриевич": 92,
-      "Линдблад Людмила Евгеньевна": 2,
-      "Нагнибеда Александр Иванович": 83,
-      "Сытник Николай Николаевич": 85,
-      "Халин Илья Сергеевич": 1
+      "gas:candidate-vibid:4234055233602": 2,
+      "gas:candidate-vibid:4234055233328": 947,
+      "gas:candidate-vibid:4234055233188": 92,
+      "gas:candidate-vibid:4234055234268": 2,
+      "gas:candidate-vibid:4234055234346": 83,
+      "gas:candidate-vibid:4234055223353": 85,
+      "gas:candidate-vibid:4234055233228": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000068&tvd=4234055222597&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234055222597&type=464",
@@ -1981,13 +1981,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ващенко Денис Юрьевич": 2,
-      "Езубов Алексей Петрович": 283,
-      "Карпекин Владимир Дмитриевич": 23,
-      "Линдблад Людмила Евгеньевна": 0,
-      "Нагнибеда Александр Иванович": 19,
-      "Сытник Николай Николаевич": 47,
-      "Халин Илья Сергеевич": 3
+      "gas:candidate-vibid:4234055233602": 2,
+      "gas:candidate-vibid:4234055233328": 283,
+      "gas:candidate-vibid:4234055233188": 23,
+      "gas:candidate-vibid:4234055234268": 0,
+      "gas:candidate-vibid:4234055234346": 19,
+      "gas:candidate-vibid:4234055223353": 47,
+      "gas:candidate-vibid:4234055233228": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000068&tvd=4234055222597&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234055222597&type=464",
@@ -2038,13 +2038,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ващенко Денис Юрьевич": 2,
-      "Езубов Алексей Петрович": 904,
-      "Карпекин Владимир Дмитриевич": 43,
-      "Линдблад Людмила Евгеньевна": 7,
-      "Нагнибеда Александр Иванович": 18,
-      "Сытник Николай Николаевич": 48,
-      "Халин Илья Сергеевич": 3
+      "gas:candidate-vibid:4234055233602": 2,
+      "gas:candidate-vibid:4234055233328": 904,
+      "gas:candidate-vibid:4234055233188": 43,
+      "gas:candidate-vibid:4234055234268": 7,
+      "gas:candidate-vibid:4234055234346": 18,
+      "gas:candidate-vibid:4234055223353": 48,
+      "gas:candidate-vibid:4234055233228": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000068&tvd=4234055222597&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234055222597&type=464",
@@ -2095,13 +2095,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ващенко Денис Юрьевич": 0,
-      "Езубов Алексей Петрович": 1077,
-      "Карпекин Владимир Дмитриевич": 154,
-      "Линдблад Людмила Евгеньевна": 0,
-      "Нагнибеда Александр Иванович": 13,
-      "Сытник Николай Николаевич": 39,
-      "Халин Илья Сергеевич": 0
+      "gas:candidate-vibid:4234055233602": 0,
+      "gas:candidate-vibid:4234055233328": 1077,
+      "gas:candidate-vibid:4234055233188": 154,
+      "gas:candidate-vibid:4234055234268": 0,
+      "gas:candidate-vibid:4234055234346": 13,
+      "gas:candidate-vibid:4234055223353": 39,
+      "gas:candidate-vibid:4234055233228": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000068&tvd=4234055222597&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234055222597&type=464",
@@ -2152,13 +2152,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ващенко Денис Юрьевич": 12,
-      "Езубов Алексей Петрович": 1180,
-      "Карпекин Владимир Дмитриевич": 88,
-      "Линдблад Людмила Евгеньевна": 18,
-      "Нагнибеда Александр Иванович": 56,
-      "Сытник Николай Николаевич": 67,
-      "Халин Илья Сергеевич": 42
+      "gas:candidate-vibid:4234055233602": 12,
+      "gas:candidate-vibid:4234055233328": 1180,
+      "gas:candidate-vibid:4234055233188": 88,
+      "gas:candidate-vibid:4234055234268": 18,
+      "gas:candidate-vibid:4234055234346": 56,
+      "gas:candidate-vibid:4234055223353": 67,
+      "gas:candidate-vibid:4234055233228": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000068&tvd=4234055222597&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234055222597&type=464",
@@ -2209,13 +2209,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ващенко Денис Юрьевич": 8,
-      "Езубов Алексей Петрович": 100,
-      "Карпекин Владимир Дмитриевич": 6,
-      "Линдблад Людмила Евгеньевна": 3,
-      "Нагнибеда Александр Иванович": 10,
-      "Сытник Николай Николаевич": 7,
-      "Халин Илья Сергеевич": 5
+      "gas:candidate-vibid:4234055233602": 8,
+      "gas:candidate-vibid:4234055233328": 100,
+      "gas:candidate-vibid:4234055233188": 6,
+      "gas:candidate-vibid:4234055234268": 3,
+      "gas:candidate-vibid:4234055234346": 10,
+      "gas:candidate-vibid:4234055223353": 7,
+      "gas:candidate-vibid:4234055233228": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000068&tvd=4234055222597&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234055222597&type=464",
@@ -2266,13 +2266,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ващенко Денис Юрьевич": 16,
-      "Езубов Алексей Петрович": 560,
-      "Карпекин Владимир Дмитриевич": 24,
-      "Линдблад Людмила Евгеньевна": 16,
-      "Нагнибеда Александр Иванович": 24,
-      "Сытник Николай Николаевич": 36,
-      "Халин Илья Сергеевич": 12
+      "gas:candidate-vibid:4234055233602": 16,
+      "gas:candidate-vibid:4234055233328": 560,
+      "gas:candidate-vibid:4234055233188": 24,
+      "gas:candidate-vibid:4234055234268": 16,
+      "gas:candidate-vibid:4234055234346": 24,
+      "gas:candidate-vibid:4234055223353": 36,
+      "gas:candidate-vibid:4234055233228": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000068&tvd=4234055222597&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234055222597&type=464",
@@ -2323,13 +2323,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ващенко Денис Юрьевич": 8,
-      "Езубов Алексей Петрович": 141,
-      "Карпекин Владимир Дмитриевич": 22,
-      "Линдблад Людмила Евгеньевна": 1,
-      "Нагнибеда Александр Иванович": 6,
-      "Сытник Николай Николаевич": 18,
-      "Халин Илья Сергеевич": 0
+      "gas:candidate-vibid:4234055233602": 8,
+      "gas:candidate-vibid:4234055233328": 141,
+      "gas:candidate-vibid:4234055233188": 22,
+      "gas:candidate-vibid:4234055234268": 1,
+      "gas:candidate-vibid:4234055234346": 6,
+      "gas:candidate-vibid:4234055223353": 18,
+      "gas:candidate-vibid:4234055233228": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000068&tvd=4234055222597&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234055222597&type=464",
@@ -2380,13 +2380,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ващенко Денис Юрьевич": 2,
-      "Езубов Алексей Петрович": 84,
-      "Карпекин Владимир Дмитриевич": 2,
-      "Линдблад Людмила Евгеньевна": 1,
-      "Нагнибеда Александр Иванович": 4,
-      "Сытник Николай Николаевич": 16,
-      "Халин Илья Сергеевич": 3
+      "gas:candidate-vibid:4234055233602": 2,
+      "gas:candidate-vibid:4234055233328": 84,
+      "gas:candidate-vibid:4234055233188": 2,
+      "gas:candidate-vibid:4234055234268": 1,
+      "gas:candidate-vibid:4234055234346": 4,
+      "gas:candidate-vibid:4234055223353": 16,
+      "gas:candidate-vibid:4234055233228": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000068&tvd=4234055222597&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234055222597&type=464",
@@ -2437,13 +2437,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ващенко Денис Юрьевич": 2,
-      "Езубов Алексей Петрович": 667,
-      "Карпекин Владимир Дмитриевич": 39,
-      "Линдблад Людмила Евгеньевна": 14,
-      "Нагнибеда Александр Иванович": 9,
-      "Сытник Николай Николаевич": 25,
-      "Халин Илья Сергеевич": 1
+      "gas:candidate-vibid:4234055233602": 2,
+      "gas:candidate-vibid:4234055233328": 667,
+      "gas:candidate-vibid:4234055233188": 39,
+      "gas:candidate-vibid:4234055234268": 14,
+      "gas:candidate-vibid:4234055234346": 9,
+      "gas:candidate-vibid:4234055223353": 25,
+      "gas:candidate-vibid:4234055233228": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000068&tvd=4234055222597&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234055222597&type=464",
@@ -2494,13 +2494,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ващенко Денис Юрьевич": 22,
-      "Езубов Алексей Петрович": 549,
-      "Карпекин Владимир Дмитриевич": 46,
-      "Линдблад Людмила Евгеньевна": 19,
-      "Нагнибеда Александр Иванович": 176,
-      "Сытник Николай Николаевич": 133,
-      "Халин Илья Сергеевич": 74
+      "gas:candidate-vibid:4234055233602": 22,
+      "gas:candidate-vibid:4234055233328": 549,
+      "gas:candidate-vibid:4234055233188": 46,
+      "gas:candidate-vibid:4234055234268": 19,
+      "gas:candidate-vibid:4234055234346": 176,
+      "gas:candidate-vibid:4234055223353": 133,
+      "gas:candidate-vibid:4234055233228": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000068&tvd=4234055222598&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234055222598&type=464",
@@ -2551,13 +2551,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ващенко Денис Юрьевич": 4,
-      "Езубов Алексей Петрович": 724,
-      "Карпекин Владимир Дмитриевич": 165,
-      "Линдблад Людмила Евгеньевна": 2,
-      "Нагнибеда Александр Иванович": 20,
-      "Сытник Николай Николаевич": 162,
-      "Халин Илья Сергеевич": 1
+      "gas:candidate-vibid:4234055233602": 4,
+      "gas:candidate-vibid:4234055233328": 724,
+      "gas:candidate-vibid:4234055233188": 165,
+      "gas:candidate-vibid:4234055234268": 2,
+      "gas:candidate-vibid:4234055234346": 20,
+      "gas:candidate-vibid:4234055223353": 162,
+      "gas:candidate-vibid:4234055233228": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000068&tvd=4234055222598&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234055222598&type=464",
@@ -2608,13 +2608,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ващенко Денис Юрьевич": 2,
-      "Езубов Алексей Петрович": 616,
-      "Карпекин Владимир Дмитриевич": 11,
-      "Линдблад Людмила Евгеньевна": 15,
-      "Нагнибеда Александр Иванович": 70,
-      "Сытник Николай Николаевич": 73,
-      "Халин Илья Сергеевич": 2
+      "gas:candidate-vibid:4234055233602": 2,
+      "gas:candidate-vibid:4234055233328": 616,
+      "gas:candidate-vibid:4234055233188": 11,
+      "gas:candidate-vibid:4234055234268": 15,
+      "gas:candidate-vibid:4234055234346": 70,
+      "gas:candidate-vibid:4234055223353": 73,
+      "gas:candidate-vibid:4234055233228": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000068&tvd=4234055222598&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234055222598&type=464",
@@ -2665,13 +2665,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ващенко Денис Юрьевич": 10,
-      "Езубов Алексей Петрович": 1240,
-      "Карпекин Владимир Дмитриевич": 84,
-      "Линдблад Людмила Евгеньевна": 4,
-      "Нагнибеда Александр Иванович": 60,
-      "Сытник Николай Николаевич": 60,
-      "Халин Илья Сергеевич": 10
+      "gas:candidate-vibid:4234055233602": 10,
+      "gas:candidate-vibid:4234055233328": 1240,
+      "gas:candidate-vibid:4234055233188": 84,
+      "gas:candidate-vibid:4234055234268": 4,
+      "gas:candidate-vibid:4234055234346": 60,
+      "gas:candidate-vibid:4234055223353": 60,
+      "gas:candidate-vibid:4234055233228": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000068&tvd=4234055222598&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234055222598&type=464",
@@ -2722,13 +2722,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ващенко Денис Юрьевич": 0,
-      "Езубов Алексей Петрович": 1070,
-      "Карпекин Владимир Дмитриевич": 97,
-      "Линдблад Людмила Евгеньевна": 0,
-      "Нагнибеда Александр Иванович": 80,
-      "Сытник Николай Николаевич": 91,
-      "Халин Илья Сергеевич": 0
+      "gas:candidate-vibid:4234055233602": 0,
+      "gas:candidate-vibid:4234055233328": 1070,
+      "gas:candidate-vibid:4234055233188": 97,
+      "gas:candidate-vibid:4234055234268": 0,
+      "gas:candidate-vibid:4234055234346": 80,
+      "gas:candidate-vibid:4234055223353": 91,
+      "gas:candidate-vibid:4234055233228": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000068&tvd=4234055222598&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234055222598&type=464",
@@ -2779,13 +2779,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ващенко Денис Юрьевич": 5,
-      "Езубов Алексей Петрович": 1209,
-      "Карпекин Владимир Дмитриевич": 98,
-      "Линдблад Людмила Евгеньевна": 2,
-      "Нагнибеда Александр Иванович": 16,
-      "Сытник Николай Николаевич": 87,
-      "Халин Илья Сергеевич": 2
+      "gas:candidate-vibid:4234055233602": 5,
+      "gas:candidate-vibid:4234055233328": 1209,
+      "gas:candidate-vibid:4234055233188": 98,
+      "gas:candidate-vibid:4234055234268": 2,
+      "gas:candidate-vibid:4234055234346": 16,
+      "gas:candidate-vibid:4234055223353": 87,
+      "gas:candidate-vibid:4234055233228": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000068&tvd=4234055222598&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234055222598&type=464",
@@ -2836,13 +2836,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ващенко Денис Юрьевич": 14,
-      "Езубов Алексей Петрович": 1240,
-      "Карпекин Владимир Дмитриевич": 120,
-      "Линдблад Людмила Евгеньевна": 10,
-      "Нагнибеда Александр Иванович": 40,
-      "Сытник Николай Николаевич": 100,
-      "Халин Илья Сергеевич": 25
+      "gas:candidate-vibid:4234055233602": 14,
+      "gas:candidate-vibid:4234055233328": 1240,
+      "gas:candidate-vibid:4234055233188": 120,
+      "gas:candidate-vibid:4234055234268": 10,
+      "gas:candidate-vibid:4234055234346": 40,
+      "gas:candidate-vibid:4234055223353": 100,
+      "gas:candidate-vibid:4234055233228": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000068&tvd=4234055222598&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234055222598&type=464",
@@ -2893,13 +2893,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ващенко Денис Юрьевич": 36,
-      "Езубов Алексей Петрович": 571,
-      "Карпекин Владимир Дмитриевич": 96,
-      "Линдблад Людмила Евгеньевна": 22,
-      "Нагнибеда Александр Иванович": 182,
-      "Сытник Николай Николаевич": 205,
-      "Халин Илья Сергеевич": 103
+      "gas:candidate-vibid:4234055233602": 36,
+      "gas:candidate-vibid:4234055233328": 571,
+      "gas:candidate-vibid:4234055233188": 96,
+      "gas:candidate-vibid:4234055234268": 22,
+      "gas:candidate-vibid:4234055234346": 182,
+      "gas:candidate-vibid:4234055223353": 205,
+      "gas:candidate-vibid:4234055233228": 103
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000068&tvd=4234055222598&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234055222598&type=464",
@@ -2950,13 +2950,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ващенко Денис Юрьевич": 6,
-      "Езубов Алексей Петрович": 502,
-      "Карпекин Владимир Дмитриевич": 102,
-      "Линдблад Людмила Евгеньевна": 6,
-      "Нагнибеда Александр Иванович": 34,
-      "Сытник Николай Николаевич": 161,
-      "Халин Илья Сергеевич": 4
+      "gas:candidate-vibid:4234055233602": 6,
+      "gas:candidate-vibid:4234055233328": 502,
+      "gas:candidate-vibid:4234055233188": 102,
+      "gas:candidate-vibid:4234055234268": 6,
+      "gas:candidate-vibid:4234055234346": 34,
+      "gas:candidate-vibid:4234055223353": 161,
+      "gas:candidate-vibid:4234055233228": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000068&tvd=4234055222598&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234055222598&type=464",
@@ -3007,13 +3007,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ващенко Денис Юрьевич": 5,
-      "Езубов Алексей Петрович": 552,
-      "Карпекин Владимир Дмитриевич": 59,
-      "Линдблад Людмила Евгеньевна": 3,
-      "Нагнибеда Александр Иванович": 97,
-      "Сытник Николай Николаевич": 178,
-      "Халин Илья Сергеевич": 18
+      "gas:candidate-vibid:4234055233602": 5,
+      "gas:candidate-vibid:4234055233328": 552,
+      "gas:candidate-vibid:4234055233188": 59,
+      "gas:candidate-vibid:4234055234268": 3,
+      "gas:candidate-vibid:4234055234346": 97,
+      "gas:candidate-vibid:4234055223353": 178,
+      "gas:candidate-vibid:4234055233228": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000068&tvd=4234055222598&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234055222598&type=464",
@@ -3064,13 +3064,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ващенко Денис Юрьевич": 20,
-      "Езубов Алексей Петрович": 291,
-      "Карпекин Владимир Дмитриевич": 35,
-      "Линдблад Людмила Евгеньевна": 15,
-      "Нагнибеда Александр Иванович": 73,
-      "Сытник Николай Николаевич": 102,
-      "Халин Илья Сергеевич": 38
+      "gas:candidate-vibid:4234055233602": 20,
+      "gas:candidate-vibid:4234055233328": 291,
+      "gas:candidate-vibid:4234055233188": 35,
+      "gas:candidate-vibid:4234055234268": 15,
+      "gas:candidate-vibid:4234055234346": 73,
+      "gas:candidate-vibid:4234055223353": 102,
+      "gas:candidate-vibid:4234055233228": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000068&tvd=4234055222598&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234055222598&type=464",
@@ -3121,13 +3121,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ващенко Денис Юрьевич": 27,
-      "Езубов Алексей Петрович": 907,
-      "Карпекин Владимир Дмитриевич": 103,
-      "Линдблад Людмила Евгеньевна": 21,
-      "Нагнибеда Александр Иванович": 129,
-      "Сытник Николай Николаевич": 144,
-      "Халин Илья Сергеевич": 1
+      "gas:candidate-vibid:4234055233602": 27,
+      "gas:candidate-vibid:4234055233328": 907,
+      "gas:candidate-vibid:4234055233188": 103,
+      "gas:candidate-vibid:4234055234268": 21,
+      "gas:candidate-vibid:4234055234346": 129,
+      "gas:candidate-vibid:4234055223353": 144,
+      "gas:candidate-vibid:4234055233228": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000068&tvd=4234055222598&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234055222598&type=464",
@@ -3178,13 +3178,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ващенко Денис Юрьевич": 29,
-      "Езубов Алексей Петрович": 915,
-      "Карпекин Владимир Дмитриевич": 84,
-      "Линдблад Людмила Евгеньевна": 46,
-      "Нагнибеда Александр Иванович": 112,
-      "Сытник Николай Николаевич": 168,
-      "Халин Илья Сергеевич": 54
+      "gas:candidate-vibid:4234055233602": 29,
+      "gas:candidate-vibid:4234055233328": 915,
+      "gas:candidate-vibid:4234055233188": 84,
+      "gas:candidate-vibid:4234055234268": 46,
+      "gas:candidate-vibid:4234055234346": 112,
+      "gas:candidate-vibid:4234055223353": 168,
+      "gas:candidate-vibid:4234055233228": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000068&tvd=4234055222598&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234055222598&type=464",
@@ -3235,13 +3235,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ващенко Денис Юрьевич": 1,
-      "Езубов Алексей Петрович": 1022,
-      "Карпекин Владимир Дмитриевич": 86,
-      "Линдблад Людмила Евгеньевна": 15,
-      "Нагнибеда Александр Иванович": 53,
-      "Сытник Николай Николаевич": 57,
-      "Халин Илья Сергеевич": 2
+      "gas:candidate-vibid:4234055233602": 1,
+      "gas:candidate-vibid:4234055233328": 1022,
+      "gas:candidate-vibid:4234055233188": 86,
+      "gas:candidate-vibid:4234055234268": 15,
+      "gas:candidate-vibid:4234055234346": 53,
+      "gas:candidate-vibid:4234055223353": 57,
+      "gas:candidate-vibid:4234055233228": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000068&tvd=4234055222598&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234055222598&type=464",
@@ -3292,13 +3292,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ващенко Денис Юрьевич": 9,
-      "Езубов Алексей Петрович": 384,
-      "Карпекин Владимир Дмитриевич": 17,
-      "Линдблад Людмила Евгеньевна": 16,
-      "Нагнибеда Александр Иванович": 82,
-      "Сытник Николай Николаевич": 88,
-      "Халин Илья Сергеевич": 29
+      "gas:candidate-vibid:4234055233602": 9,
+      "gas:candidate-vibid:4234055233328": 384,
+      "gas:candidate-vibid:4234055233188": 17,
+      "gas:candidate-vibid:4234055234268": 16,
+      "gas:candidate-vibid:4234055234346": 82,
+      "gas:candidate-vibid:4234055223353": 88,
+      "gas:candidate-vibid:4234055233228": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000068&tvd=4234055222598&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234055222598&type=464",
@@ -3349,13 +3349,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ващенко Денис Юрьевич": 30,
-      "Езубов Алексей Петрович": 943,
-      "Карпекин Владимир Дмитриевич": 158,
-      "Линдблад Людмила Евгеньевна": 25,
-      "Нагнибеда Александр Иванович": 132,
-      "Сытник Николай Николаевич": 116,
-      "Халин Илья Сергеевич": 32
+      "gas:candidate-vibid:4234055233602": 30,
+      "gas:candidate-vibid:4234055233328": 943,
+      "gas:candidate-vibid:4234055233188": 158,
+      "gas:candidate-vibid:4234055234268": 25,
+      "gas:candidate-vibid:4234055234346": 132,
+      "gas:candidate-vibid:4234055223353": 116,
+      "gas:candidate-vibid:4234055233228": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000068&tvd=4234055222598&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234055222598&type=464",
@@ -3406,13 +3406,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ващенко Денис Юрьевич": 2,
-      "Езубов Алексей Петрович": 860,
-      "Карпекин Владимир Дмитриевич": 88,
-      "Линдблад Людмила Евгеньевна": 2,
-      "Нагнибеда Александр Иванович": 80,
-      "Сытник Николай Николаевич": 32,
-      "Халин Илья Сергеевич": 2
+      "gas:candidate-vibid:4234055233602": 2,
+      "gas:candidate-vibid:4234055233328": 860,
+      "gas:candidate-vibid:4234055233188": 88,
+      "gas:candidate-vibid:4234055234268": 2,
+      "gas:candidate-vibid:4234055234346": 80,
+      "gas:candidate-vibid:4234055223353": 32,
+      "gas:candidate-vibid:4234055233228": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000068&tvd=4234055222598&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234055222598&type=464",
@@ -3463,13 +3463,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ващенко Денис Юрьевич": 5,
-      "Езубов Алексей Петрович": 841,
-      "Карпекин Владимир Дмитриевич": 84,
-      "Линдблад Людмила Евгеньевна": 9,
-      "Нагнибеда Александр Иванович": 80,
-      "Сытник Николай Николаевич": 61,
-      "Халин Илья Сергеевич": 17
+      "gas:candidate-vibid:4234055233602": 5,
+      "gas:candidate-vibid:4234055233328": 841,
+      "gas:candidate-vibid:4234055233188": 84,
+      "gas:candidate-vibid:4234055234268": 9,
+      "gas:candidate-vibid:4234055234346": 80,
+      "gas:candidate-vibid:4234055223353": 61,
+      "gas:candidate-vibid:4234055233228": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000068&tvd=4234055222598&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234055222598&type=464",
@@ -3520,13 +3520,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ващенко Денис Юрьевич": 15,
-      "Езубов Алексей Петрович": 820,
-      "Карпекин Владимир Дмитриевич": 88,
-      "Линдблад Людмила Евгеньевна": 15,
-      "Нагнибеда Александр Иванович": 55,
-      "Сытник Николай Николаевич": 77,
-      "Халин Илья Сергеевич": 35
+      "gas:candidate-vibid:4234055233602": 15,
+      "gas:candidate-vibid:4234055233328": 820,
+      "gas:candidate-vibid:4234055233188": 88,
+      "gas:candidate-vibid:4234055234268": 15,
+      "gas:candidate-vibid:4234055234346": 55,
+      "gas:candidate-vibid:4234055223353": 77,
+      "gas:candidate-vibid:4234055233228": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000068&tvd=4234055222598&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234055222598&type=464",
@@ -3577,13 +3577,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ващенко Денис Юрьевич": 6,
-      "Езубов Алексей Петрович": 909,
-      "Карпекин Владимир Дмитриевич": 52,
-      "Линдблад Людмила Евгеньевна": 0,
-      "Нагнибеда Александр Иванович": 32,
-      "Сытник Николай Николаевич": 41,
-      "Халин Илья Сергеевич": 5
+      "gas:candidate-vibid:4234055233602": 6,
+      "gas:candidate-vibid:4234055233328": 909,
+      "gas:candidate-vibid:4234055233188": 52,
+      "gas:candidate-vibid:4234055234268": 0,
+      "gas:candidate-vibid:4234055234346": 32,
+      "gas:candidate-vibid:4234055223353": 41,
+      "gas:candidate-vibid:4234055233228": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000068&tvd=4234055222598&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234055222598&type=464",
@@ -3634,13 +3634,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ващенко Денис Юрьевич": 13,
-      "Езубов Алексей Петрович": 679,
-      "Карпекин Владимир Дмитриевич": 86,
-      "Линдблад Людмила Евгеньевна": 24,
-      "Нагнибеда Александр Иванович": 97,
-      "Сытник Николай Николаевич": 21,
-      "Халин Илья Сергеевич": 6
+      "gas:candidate-vibid:4234055233602": 13,
+      "gas:candidate-vibid:4234055233328": 679,
+      "gas:candidate-vibid:4234055233188": 86,
+      "gas:candidate-vibid:4234055234268": 24,
+      "gas:candidate-vibid:4234055234346": 97,
+      "gas:candidate-vibid:4234055223353": 21,
+      "gas:candidate-vibid:4234055233228": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000068&tvd=4234055222598&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234055222598&type=464",
@@ -3691,13 +3691,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ващенко Денис Юрьевич": 0,
-      "Езубов Алексей Петрович": 652,
-      "Карпекин Владимир Дмитриевич": 32,
-      "Линдблад Людмила Евгеньевна": 0,
-      "Нагнибеда Александр Иванович": 108,
-      "Сытник Николай Николаевич": 109,
-      "Халин Илья Сергеевич": 0
+      "gas:candidate-vibid:4234055233602": 0,
+      "gas:candidate-vibid:4234055233328": 652,
+      "gas:candidate-vibid:4234055233188": 32,
+      "gas:candidate-vibid:4234055234268": 0,
+      "gas:candidate-vibid:4234055234346": 108,
+      "gas:candidate-vibid:4234055223353": 109,
+      "gas:candidate-vibid:4234055233228": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000068&tvd=4234055222598&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234055222598&type=464",
@@ -3748,13 +3748,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ващенко Денис Юрьевич": 16,
-      "Езубов Алексей Петрович": 1005,
-      "Карпекин Владимир Дмитриевич": 89,
-      "Линдблад Людмила Евгеньевна": 28,
-      "Нагнибеда Александр Иванович": 115,
-      "Сытник Николай Николаевич": 182,
-      "Халин Илья Сергеевич": 36
+      "gas:candidate-vibid:4234055233602": 16,
+      "gas:candidate-vibid:4234055233328": 1005,
+      "gas:candidate-vibid:4234055233188": 89,
+      "gas:candidate-vibid:4234055234268": 28,
+      "gas:candidate-vibid:4234055234346": 115,
+      "gas:candidate-vibid:4234055223353": 182,
+      "gas:candidate-vibid:4234055233228": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000068&tvd=4234055222598&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234055222598&type=464",
@@ -3805,13 +3805,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ващенко Денис Юрьевич": 2,
-      "Езубов Алексей Петрович": 350,
-      "Карпекин Владимир Дмитриевич": 45,
-      "Линдблад Людмила Евгеньевна": 13,
-      "Нагнибеда Александр Иванович": 133,
-      "Сытник Николай Николаевич": 93,
-      "Халин Илья Сергеевич": 36
+      "gas:candidate-vibid:4234055233602": 2,
+      "gas:candidate-vibid:4234055233328": 350,
+      "gas:candidate-vibid:4234055233188": 45,
+      "gas:candidate-vibid:4234055234268": 13,
+      "gas:candidate-vibid:4234055234346": 133,
+      "gas:candidate-vibid:4234055223353": 93,
+      "gas:candidate-vibid:4234055233228": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000068&tvd=4234055222598&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234055222598&type=464",
@@ -3862,13 +3862,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ващенко Денис Юрьевич": 7,
-      "Езубов Алексей Петрович": 682,
-      "Карпекин Владимир Дмитриевич": 43,
-      "Линдблад Людмила Евгеньевна": 5,
-      "Нагнибеда Александр Иванович": 22,
-      "Сытник Николай Николаевич": 25,
-      "Халин Илья Сергеевич": 17
+      "gas:candidate-vibid:4234055233602": 7,
+      "gas:candidate-vibid:4234055233328": 682,
+      "gas:candidate-vibid:4234055233188": 43,
+      "gas:candidate-vibid:4234055234268": 5,
+      "gas:candidate-vibid:4234055234346": 22,
+      "gas:candidate-vibid:4234055223353": 25,
+      "gas:candidate-vibid:4234055233228": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000068&tvd=4234055222598&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234055222598&type=464",
@@ -3919,13 +3919,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ващенко Денис Юрьевич": 7,
-      "Езубов Алексей Петрович": 104,
-      "Карпекин Владимир Дмитриевич": 19,
-      "Линдблад Людмила Евгеньевна": 3,
-      "Нагнибеда Александр Иванович": 43,
-      "Сытник Николай Николаевич": 22,
-      "Халин Илья Сергеевич": 1
+      "gas:candidate-vibid:4234055233602": 7,
+      "gas:candidate-vibid:4234055233328": 104,
+      "gas:candidate-vibid:4234055233188": 19,
+      "gas:candidate-vibid:4234055234268": 3,
+      "gas:candidate-vibid:4234055234346": 43,
+      "gas:candidate-vibid:4234055223353": 22,
+      "gas:candidate-vibid:4234055233228": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000068&tvd=4234055222598&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234055222598&type=464",
@@ -3976,13 +3976,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ващенко Денис Юрьевич": 17,
-      "Езубов Алексей Петрович": 404,
-      "Карпекин Владимир Дмитриевич": 12,
-      "Линдблад Людмила Евгеньевна": 9,
-      "Нагнибеда Александр Иванович": 41,
-      "Сытник Николай Николаевич": 88,
-      "Халин Илья Сергеевич": 30
+      "gas:candidate-vibid:4234055233602": 17,
+      "gas:candidate-vibid:4234055233328": 404,
+      "gas:candidate-vibid:4234055233188": 12,
+      "gas:candidate-vibid:4234055234268": 9,
+      "gas:candidate-vibid:4234055234346": 41,
+      "gas:candidate-vibid:4234055223353": 88,
+      "gas:candidate-vibid:4234055233228": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000068&tvd=4234055222598&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234055222598&type=464",
@@ -4033,13 +4033,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ващенко Денис Юрьевич": 8,
-      "Езубов Алексей Петрович": 811,
-      "Карпекин Владимир Дмитриевич": 94,
-      "Линдблад Людмила Евгеньевна": 9,
-      "Нагнибеда Александр Иванович": 74,
-      "Сытник Николай Николаевич": 72,
-      "Халин Илья Сергеевич": 6
+      "gas:candidate-vibid:4234055233602": 8,
+      "gas:candidate-vibid:4234055233328": 811,
+      "gas:candidate-vibid:4234055233188": 94,
+      "gas:candidate-vibid:4234055234268": 9,
+      "gas:candidate-vibid:4234055234346": 74,
+      "gas:candidate-vibid:4234055223353": 72,
+      "gas:candidate-vibid:4234055233228": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000068&tvd=4234055222598&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234055222598&type=464",
@@ -4090,13 +4090,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ващенко Денис Юрьевич": 0,
-      "Езубов Алексей Петрович": 217,
-      "Карпекин Владимир Дмитриевич": 11,
-      "Линдблад Людмила Евгеньевна": 0,
-      "Нагнибеда Александр Иванович": 5,
-      "Сытник Николай Николаевич": 8,
-      "Халин Илья Сергеевич": 0
+      "gas:candidate-vibid:4234055233602": 0,
+      "gas:candidate-vibid:4234055233328": 217,
+      "gas:candidate-vibid:4234055233188": 11,
+      "gas:candidate-vibid:4234055234268": 0,
+      "gas:candidate-vibid:4234055234346": 5,
+      "gas:candidate-vibid:4234055223353": 8,
+      "gas:candidate-vibid:4234055233228": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000068&tvd=4234055222598&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234055222598&type=464",
@@ -4147,13 +4147,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ващенко Денис Юрьевич": 11,
-      "Езубов Алексей Петрович": 280,
-      "Карпекин Владимир Дмитриевич": 15,
-      "Линдблад Людмила Евгеньевна": 6,
-      "Нагнибеда Александр Иванович": 42,
-      "Сытник Николай Николаевич": 36,
-      "Халин Илья Сергеевич": 14
+      "gas:candidate-vibid:4234055233602": 11,
+      "gas:candidate-vibid:4234055233328": 280,
+      "gas:candidate-vibid:4234055233188": 15,
+      "gas:candidate-vibid:4234055234268": 6,
+      "gas:candidate-vibid:4234055234346": 42,
+      "gas:candidate-vibid:4234055223353": 36,
+      "gas:candidate-vibid:4234055233228": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000068&tvd=4234055222598&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234055222598&type=464",
@@ -4204,13 +4204,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ващенко Денис Юрьевич": 0,
-      "Езубов Алексей Петрович": 310,
-      "Карпекин Владимир Дмитриевич": 11,
-      "Линдблад Людмила Евгеньевна": 0,
-      "Нагнибеда Александр Иванович": 14,
-      "Сытник Николай Николаевич": 18,
-      "Халин Илья Сергеевич": 0
+      "gas:candidate-vibid:4234055233602": 0,
+      "gas:candidate-vibid:4234055233328": 310,
+      "gas:candidate-vibid:4234055233188": 11,
+      "gas:candidate-vibid:4234055234268": 0,
+      "gas:candidate-vibid:4234055234346": 14,
+      "gas:candidate-vibid:4234055223353": 18,
+      "gas:candidate-vibid:4234055233228": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000068&tvd=4234055222598&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234055222598&type=464",
@@ -4261,13 +4261,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ващенко Денис Юрьевич": 6,
-      "Езубов Алексей Петрович": 486,
-      "Карпекин Владимир Дмитриевич": 30,
-      "Линдблад Людмила Евгеньевна": 4,
-      "Нагнибеда Александр Иванович": 15,
-      "Сытник Николай Николаевич": 22,
-      "Халин Илья Сергеевич": 8
+      "gas:candidate-vibid:4234055233602": 6,
+      "gas:candidate-vibid:4234055233328": 486,
+      "gas:candidate-vibid:4234055233188": 30,
+      "gas:candidate-vibid:4234055234268": 4,
+      "gas:candidate-vibid:4234055234346": 15,
+      "gas:candidate-vibid:4234055223353": 22,
+      "gas:candidate-vibid:4234055233228": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000068&tvd=4234055222598&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234055222598&type=464",
@@ -4318,13 +4318,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ващенко Денис Юрьевич": 26,
-      "Езубов Алексей Петрович": 596,
-      "Карпекин Владимир Дмитриевич": 41,
-      "Линдблад Людмила Евгеньевна": 20,
-      "Нагнибеда Александр Иванович": 87,
-      "Сытник Николай Николаевич": 231,
-      "Халин Илья Сергеевич": 82
+      "gas:candidate-vibid:4234055233602": 26,
+      "gas:candidate-vibid:4234055233328": 596,
+      "gas:candidate-vibid:4234055233188": 41,
+      "gas:candidate-vibid:4234055234268": 20,
+      "gas:candidate-vibid:4234055234346": 87,
+      "gas:candidate-vibid:4234055223353": 231,
+      "gas:candidate-vibid:4234055233228": 82
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000068&tvd=4234055222598&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234055222598&type=464",
@@ -4375,13 +4375,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ващенко Денис Юрьевич": 1,
-      "Езубов Алексей Петрович": 585,
-      "Карпекин Владимир Дмитриевич": 11,
-      "Линдблад Людмила Евгеньевна": 1,
-      "Нагнибеда Александр Иванович": 26,
-      "Сытник Николай Николаевич": 31,
-      "Халин Илья Сергеевич": 2
+      "gas:candidate-vibid:4234055233602": 1,
+      "gas:candidate-vibid:4234055233328": 585,
+      "gas:candidate-vibid:4234055233188": 11,
+      "gas:candidate-vibid:4234055234268": 1,
+      "gas:candidate-vibid:4234055234346": 26,
+      "gas:candidate-vibid:4234055223353": 31,
+      "gas:candidate-vibid:4234055233228": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000068&tvd=4234055222598&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234055222598&type=464",
@@ -4432,13 +4432,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ващенко Денис Юрьевич": 25,
-      "Езубов Алексей Петрович": 212,
-      "Карпекин Владимир Дмитриевич": 23,
-      "Линдблад Людмила Евгеньевна": 21,
-      "Нагнибеда Александр Иванович": 68,
-      "Сытник Николай Николаевич": 50,
-      "Халин Илья Сергеевич": 18
+      "gas:candidate-vibid:4234055233602": 25,
+      "gas:candidate-vibid:4234055233328": 212,
+      "gas:candidate-vibid:4234055233188": 23,
+      "gas:candidate-vibid:4234055234268": 21,
+      "gas:candidate-vibid:4234055234346": 68,
+      "gas:candidate-vibid:4234055223353": 50,
+      "gas:candidate-vibid:4234055233228": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000068&tvd=4234055222599&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234055222599&type=464",
@@ -4489,13 +4489,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ващенко Денис Юрьевич": 66,
-      "Езубов Алексей Петрович": 625,
-      "Карпекин Владимир Дмитриевич": 47,
-      "Линдблад Людмила Евгеньевна": 51,
-      "Нагнибеда Александр Иванович": 148,
-      "Сытник Николай Николаевич": 125,
-      "Халин Илья Сергеевич": 56
+      "gas:candidate-vibid:4234055233602": 66,
+      "gas:candidate-vibid:4234055233328": 625,
+      "gas:candidate-vibid:4234055233188": 47,
+      "gas:candidate-vibid:4234055234268": 51,
+      "gas:candidate-vibid:4234055234346": 148,
+      "gas:candidate-vibid:4234055223353": 125,
+      "gas:candidate-vibid:4234055233228": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000068&tvd=4234055222599&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234055222599&type=464",
@@ -4546,13 +4546,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ващенко Денис Юрьевич": 30,
-      "Езубов Алексей Петрович": 629,
-      "Карпекин Владимир Дмитриевич": 36,
-      "Линдблад Людмила Евгеньевна": 39,
-      "Нагнибеда Александр Иванович": 88,
-      "Сытник Николай Николаевич": 87,
-      "Халин Илья Сергеевич": 25
+      "gas:candidate-vibid:4234055233602": 30,
+      "gas:candidate-vibid:4234055233328": 629,
+      "gas:candidate-vibid:4234055233188": 36,
+      "gas:candidate-vibid:4234055234268": 39,
+      "gas:candidate-vibid:4234055234346": 88,
+      "gas:candidate-vibid:4234055223353": 87,
+      "gas:candidate-vibid:4234055233228": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000068&tvd=4234055222599&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234055222599&type=464",
@@ -4603,13 +4603,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ващенко Денис Юрьевич": 42,
-      "Езубов Алексей Петрович": 422,
-      "Карпекин Владимир Дмитриевич": 44,
-      "Линдблад Людмила Евгеньевна": 23,
-      "Нагнибеда Александр Иванович": 104,
-      "Сытник Николай Николаевич": 90,
-      "Халин Илья Сергеевич": 38
+      "gas:candidate-vibid:4234055233602": 42,
+      "gas:candidate-vibid:4234055233328": 422,
+      "gas:candidate-vibid:4234055233188": 44,
+      "gas:candidate-vibid:4234055234268": 23,
+      "gas:candidate-vibid:4234055234346": 104,
+      "gas:candidate-vibid:4234055223353": 90,
+      "gas:candidate-vibid:4234055233228": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000068&tvd=4234055222599&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234055222599&type=464",
@@ -4660,13 +4660,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ващенко Денис Юрьевич": 41,
-      "Езубов Алексей Петрович": 353,
-      "Карпекин Владимир Дмитриевич": 26,
-      "Линдблад Людмила Евгеньевна": 20,
-      "Нагнибеда Александр Иванович": 99,
-      "Сытник Николай Николаевич": 91,
-      "Халин Илья Сергеевич": 39
+      "gas:candidate-vibid:4234055233602": 41,
+      "gas:candidate-vibid:4234055233328": 353,
+      "gas:candidate-vibid:4234055233188": 26,
+      "gas:candidate-vibid:4234055234268": 20,
+      "gas:candidate-vibid:4234055234346": 99,
+      "gas:candidate-vibid:4234055223353": 91,
+      "gas:candidate-vibid:4234055233228": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000068&tvd=4234055222599&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234055222599&type=464",
@@ -4717,13 +4717,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ващенко Денис Юрьевич": 39,
-      "Езубов Алексей Петрович": 323,
-      "Карпекин Владимир Дмитриевич": 52,
-      "Линдблад Людмила Евгеньевна": 24,
-      "Нагнибеда Александр Иванович": 80,
-      "Сытник Николай Николаевич": 82,
-      "Халин Илья Сергеевич": 35
+      "gas:candidate-vibid:4234055233602": 39,
+      "gas:candidate-vibid:4234055233328": 323,
+      "gas:candidate-vibid:4234055233188": 52,
+      "gas:candidate-vibid:4234055234268": 24,
+      "gas:candidate-vibid:4234055234346": 80,
+      "gas:candidate-vibid:4234055223353": 82,
+      "gas:candidate-vibid:4234055233228": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000068&tvd=4234055222599&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234055222599&type=464",
@@ -4774,13 +4774,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ващенко Денис Юрьевич": 36,
-      "Езубов Алексей Петрович": 547,
-      "Карпекин Владимир Дмитриевич": 31,
-      "Линдблад Людмила Евгеньевна": 18,
-      "Нагнибеда Александр Иванович": 81,
-      "Сытник Николай Николаевич": 109,
-      "Халин Илья Сергеевич": 28
+      "gas:candidate-vibid:4234055233602": 36,
+      "gas:candidate-vibid:4234055233328": 547,
+      "gas:candidate-vibid:4234055233188": 31,
+      "gas:candidate-vibid:4234055234268": 18,
+      "gas:candidate-vibid:4234055234346": 81,
+      "gas:candidate-vibid:4234055223353": 109,
+      "gas:candidate-vibid:4234055233228": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000068&tvd=4234055222599&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234055222599&type=464",
@@ -4831,13 +4831,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ващенко Денис Юрьевич": 28,
-      "Езубов Алексей Петрович": 475,
-      "Карпекин Владимир Дмитриевич": 76,
-      "Линдблад Людмила Евгеньевна": 20,
-      "Нагнибеда Александр Иванович": 119,
-      "Сытник Николай Николаевич": 45,
-      "Халин Илья Сергеевич": 14
+      "gas:candidate-vibid:4234055233602": 28,
+      "gas:candidate-vibid:4234055233328": 475,
+      "gas:candidate-vibid:4234055233188": 76,
+      "gas:candidate-vibid:4234055234268": 20,
+      "gas:candidate-vibid:4234055234346": 119,
+      "gas:candidate-vibid:4234055223353": 45,
+      "gas:candidate-vibid:4234055233228": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000068&tvd=4234055222599&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234055222599&type=464",
@@ -4888,13 +4888,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ващенко Денис Юрьевич": 25,
-      "Езубов Алексей Петрович": 163,
-      "Карпекин Владимир Дмитриевич": 37,
-      "Линдблад Людмила Евгеньевна": 29,
-      "Нагнибеда Александр Иванович": 68,
-      "Сытник Николай Николаевич": 59,
-      "Халин Илья Сергеевич": 23
+      "gas:candidate-vibid:4234055233602": 25,
+      "gas:candidate-vibid:4234055233328": 163,
+      "gas:candidate-vibid:4234055233188": 37,
+      "gas:candidate-vibid:4234055234268": 29,
+      "gas:candidate-vibid:4234055234346": 68,
+      "gas:candidate-vibid:4234055223353": 59,
+      "gas:candidate-vibid:4234055233228": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000068&tvd=4234055222599&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234055222599&type=464",
@@ -4945,13 +4945,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ващенко Денис Юрьевич": 19,
-      "Езубов Алексей Петрович": 538,
-      "Карпекин Владимир Дмитриевич": 20,
-      "Линдблад Людмила Евгеньевна": 15,
-      "Нагнибеда Александр Иванович": 44,
-      "Сытник Николай Николаевич": 59,
-      "Халин Илья Сергеевич": 13
+      "gas:candidate-vibid:4234055233602": 19,
+      "gas:candidate-vibid:4234055233328": 538,
+      "gas:candidate-vibid:4234055233188": 20,
+      "gas:candidate-vibid:4234055234268": 15,
+      "gas:candidate-vibid:4234055234346": 44,
+      "gas:candidate-vibid:4234055223353": 59,
+      "gas:candidate-vibid:4234055233228": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000068&tvd=4234055222599&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234055222599&type=464",
@@ -5002,13 +5002,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ващенко Денис Юрьевич": 65,
-      "Езубов Алексей Петрович": 637,
-      "Карпекин Владимир Дмитриевич": 36,
-      "Линдблад Людмила Евгеньевна": 41,
-      "Нагнибеда Александр Иванович": 141,
-      "Сытник Николай Николаевич": 91,
-      "Халин Илья Сергеевич": 50
+      "gas:candidate-vibid:4234055233602": 65,
+      "gas:candidate-vibid:4234055233328": 637,
+      "gas:candidate-vibid:4234055233188": 36,
+      "gas:candidate-vibid:4234055234268": 41,
+      "gas:candidate-vibid:4234055234346": 141,
+      "gas:candidate-vibid:4234055223353": 91,
+      "gas:candidate-vibid:4234055233228": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000068&tvd=4234055222599&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234055222599&type=464",
@@ -5059,13 +5059,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ващенко Денис Юрьевич": 41,
-      "Езубов Алексей Петрович": 428,
-      "Карпекин Владимир Дмитриевич": 30,
-      "Линдблад Людмила Евгеньевна": 35,
-      "Нагнибеда Александр Иванович": 76,
-      "Сытник Николай Николаевич": 55,
-      "Халин Илья Сергеевич": 24
+      "gas:candidate-vibid:4234055233602": 41,
+      "gas:candidate-vibid:4234055233328": 428,
+      "gas:candidate-vibid:4234055233188": 30,
+      "gas:candidate-vibid:4234055234268": 35,
+      "gas:candidate-vibid:4234055234346": 76,
+      "gas:candidate-vibid:4234055223353": 55,
+      "gas:candidate-vibid:4234055233228": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000068&tvd=4234055222599&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234055222599&type=464",
@@ -5116,13 +5116,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ващенко Денис Юрьевич": 25,
-      "Езубов Алексей Петрович": 458,
-      "Карпекин Владимир Дмитриевич": 32,
-      "Линдблад Людмила Евгеньевна": 11,
-      "Нагнибеда Александр Иванович": 64,
-      "Сытник Николай Николаевич": 58,
-      "Халин Илья Сергеевич": 14
+      "gas:candidate-vibid:4234055233602": 25,
+      "gas:candidate-vibid:4234055233328": 458,
+      "gas:candidate-vibid:4234055233188": 32,
+      "gas:candidate-vibid:4234055234268": 11,
+      "gas:candidate-vibid:4234055234346": 64,
+      "gas:candidate-vibid:4234055223353": 58,
+      "gas:candidate-vibid:4234055233228": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000068&tvd=4234055222599&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234055222599&type=464",
@@ -5173,13 +5173,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ващенко Денис Юрьевич": 67,
-      "Езубов Алексей Петрович": 441,
-      "Карпекин Владимир Дмитриевич": 46,
-      "Линдблад Людмила Евгеньевна": 39,
-      "Нагнибеда Александр Иванович": 141,
-      "Сытник Николай Николаевич": 118,
-      "Халин Илья Сергеевич": 49
+      "gas:candidate-vibid:4234055233602": 67,
+      "gas:candidate-vibid:4234055233328": 441,
+      "gas:candidate-vibid:4234055233188": 46,
+      "gas:candidate-vibid:4234055234268": 39,
+      "gas:candidate-vibid:4234055234346": 141,
+      "gas:candidate-vibid:4234055223353": 118,
+      "gas:candidate-vibid:4234055233228": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000068&tvd=4234055222599&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234055222599&type=464",
@@ -5230,13 +5230,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ващенко Денис Юрьевич": 27,
-      "Езубов Алексей Петрович": 309,
-      "Карпекин Владимир Дмитриевич": 24,
-      "Линдблад Людмила Евгеньевна": 27,
-      "Нагнибеда Александр Иванович": 68,
-      "Сытник Николай Николаевич": 70,
-      "Халин Илья Сергеевич": 18
+      "gas:candidate-vibid:4234055233602": 27,
+      "gas:candidate-vibid:4234055233328": 309,
+      "gas:candidate-vibid:4234055233188": 24,
+      "gas:candidate-vibid:4234055234268": 27,
+      "gas:candidate-vibid:4234055234346": 68,
+      "gas:candidate-vibid:4234055223353": 70,
+      "gas:candidate-vibid:4234055233228": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000068&tvd=4234055222599&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234055222599&type=464",
@@ -5287,13 +5287,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ващенко Денис Юрьевич": 60,
-      "Езубов Алексей Петрович": 660,
-      "Карпекин Владимир Дмитриевич": 60,
-      "Линдблад Людмила Евгеньевна": 36,
-      "Нагнибеда Александр Иванович": 126,
-      "Сытник Николай Николаевич": 119,
-      "Халин Илья Сергеевич": 45
+      "gas:candidate-vibid:4234055233602": 60,
+      "gas:candidate-vibid:4234055233328": 660,
+      "gas:candidate-vibid:4234055233188": 60,
+      "gas:candidate-vibid:4234055234268": 36,
+      "gas:candidate-vibid:4234055234346": 126,
+      "gas:candidate-vibid:4234055223353": 119,
+      "gas:candidate-vibid:4234055233228": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000068&tvd=4234055222599&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234055222599&type=464",
@@ -5344,13 +5344,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ващенко Денис Юрьевич": 40,
-      "Езубов Алексей Петрович": 426,
-      "Карпекин Владимир Дмитриевич": 30,
-      "Линдблад Людмила Евгеньевна": 23,
-      "Нагнибеда Александр Иванович": 77,
-      "Сытник Николай Николаевич": 97,
-      "Халин Илья Сергеевич": 38
+      "gas:candidate-vibid:4234055233602": 40,
+      "gas:candidate-vibid:4234055233328": 426,
+      "gas:candidate-vibid:4234055233188": 30,
+      "gas:candidate-vibid:4234055234268": 23,
+      "gas:candidate-vibid:4234055234346": 77,
+      "gas:candidate-vibid:4234055223353": 97,
+      "gas:candidate-vibid:4234055233228": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000068&tvd=4234055222599&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234055222599&type=464",
@@ -5401,13 +5401,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ващенко Денис Юрьевич": 54,
-      "Езубов Алексей Петрович": 472,
-      "Карпекин Владимир Дмитриевич": 56,
-      "Линдблад Людмила Евгеньевна": 31,
-      "Нагнибеда Александр Иванович": 133,
-      "Сытник Николай Николаевич": 163,
-      "Халин Илья Сергеевич": 36
+      "gas:candidate-vibid:4234055233602": 54,
+      "gas:candidate-vibid:4234055233328": 472,
+      "gas:candidate-vibid:4234055233188": 56,
+      "gas:candidate-vibid:4234055234268": 31,
+      "gas:candidate-vibid:4234055234346": 133,
+      "gas:candidate-vibid:4234055223353": 163,
+      "gas:candidate-vibid:4234055233228": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000068&tvd=4234055222599&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234055222599&type=464",
@@ -5458,13 +5458,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ващенко Денис Юрьевич": 53,
-      "Езубов Алексей Петрович": 386,
-      "Карпекин Владимир Дмитриевич": 41,
-      "Линдблад Людмила Евгеньевна": 42,
-      "Нагнибеда Александр Иванович": 133,
-      "Сытник Николай Николаевич": 121,
-      "Халин Илья Сергеевич": 45
+      "gas:candidate-vibid:4234055233602": 53,
+      "gas:candidate-vibid:4234055233328": 386,
+      "gas:candidate-vibid:4234055233188": 41,
+      "gas:candidate-vibid:4234055234268": 42,
+      "gas:candidate-vibid:4234055234346": 133,
+      "gas:candidate-vibid:4234055223353": 121,
+      "gas:candidate-vibid:4234055233228": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000068&tvd=4234055222599&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234055222599&type=464",
@@ -5515,13 +5515,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ващенко Денис Юрьевич": 12,
-      "Езубов Алексей Петрович": 349,
-      "Карпекин Владимир Дмитриевич": 15,
-      "Линдблад Людмила Евгеньевна": 9,
-      "Нагнибеда Александр Иванович": 10,
-      "Сытник Николай Николаевич": 10,
-      "Халин Илья Сергеевич": 4
+      "gas:candidate-vibid:4234055233602": 12,
+      "gas:candidate-vibid:4234055233328": 349,
+      "gas:candidate-vibid:4234055233188": 15,
+      "gas:candidate-vibid:4234055234268": 9,
+      "gas:candidate-vibid:4234055234346": 10,
+      "gas:candidate-vibid:4234055223353": 10,
+      "gas:candidate-vibid:4234055233228": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000068&tvd=4234055222599&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234055222599&type=464",
@@ -5572,13 +5572,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ващенко Денис Юрьевич": 20,
-      "Езубов Алексей Петрович": 550,
-      "Карпекин Владимир Дмитриевич": 95,
-      "Линдблад Людмила Евгеньевна": 30,
-      "Нагнибеда Александр Иванович": 25,
-      "Сытник Николай Николаевич": 35,
-      "Халин Илья Сергеевич": 12
+      "gas:candidate-vibid:4234055233602": 20,
+      "gas:candidate-vibid:4234055233328": 550,
+      "gas:candidate-vibid:4234055233188": 95,
+      "gas:candidate-vibid:4234055234268": 30,
+      "gas:candidate-vibid:4234055234346": 25,
+      "gas:candidate-vibid:4234055223353": 35,
+      "gas:candidate-vibid:4234055233228": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000068&tvd=4234055222599&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234055222599&type=464",
@@ -5629,13 +5629,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ващенко Денис Юрьевич": 44,
-      "Езубов Алексей Петрович": 464,
-      "Карпекин Владимир Дмитриевич": 57,
-      "Линдблад Людмила Евгеньевна": 23,
-      "Нагнибеда Александр Иванович": 129,
-      "Сытник Николай Николаевич": 107,
-      "Халин Илья Сергеевич": 43
+      "gas:candidate-vibid:4234055233602": 44,
+      "gas:candidate-vibid:4234055233328": 464,
+      "gas:candidate-vibid:4234055233188": 57,
+      "gas:candidate-vibid:4234055234268": 23,
+      "gas:candidate-vibid:4234055234346": 129,
+      "gas:candidate-vibid:4234055223353": 107,
+      "gas:candidate-vibid:4234055233228": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000068&tvd=4234055222599&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234055222599&type=464",
@@ -5686,13 +5686,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ващенко Денис Юрьевич": 3,
-      "Езубов Алексей Петрович": 180,
-      "Карпекин Владимир Дмитриевич": 7,
-      "Линдблад Людмила Евгеньевна": 6,
-      "Нагнибеда Александр Иванович": 14,
-      "Сытник Николай Николаевич": 21,
-      "Халин Илья Сергеевич": 19
+      "gas:candidate-vibid:4234055233602": 3,
+      "gas:candidate-vibid:4234055233328": 180,
+      "gas:candidate-vibid:4234055233188": 7,
+      "gas:candidate-vibid:4234055234268": 6,
+      "gas:candidate-vibid:4234055234346": 14,
+      "gas:candidate-vibid:4234055223353": 21,
+      "gas:candidate-vibid:4234055233228": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000068&tvd=4234055222599&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234055222599&type=464",
@@ -5743,13 +5743,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ващенко Денис Юрьевич": 7,
-      "Езубов Алексей Петрович": 297,
-      "Карпекин Владимир Дмитриевич": 13,
-      "Линдблад Людмила Евгеньевна": 9,
-      "Нагнибеда Александр Иванович": 47,
-      "Сытник Николай Николаевич": 37,
-      "Халин Илья Сергеевич": 7
+      "gas:candidate-vibid:4234055233602": 7,
+      "gas:candidate-vibid:4234055233328": 297,
+      "gas:candidate-vibid:4234055233188": 13,
+      "gas:candidate-vibid:4234055234268": 9,
+      "gas:candidate-vibid:4234055234346": 47,
+      "gas:candidate-vibid:4234055223353": 37,
+      "gas:candidate-vibid:4234055233228": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000068&tvd=4234055222599&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234055222599&type=464",
@@ -5800,13 +5800,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ващенко Денис Юрьевич": 5,
-      "Езубов Алексей Петрович": 164,
-      "Карпекин Владимир Дмитриевич": 4,
-      "Линдблад Людмила Евгеньевна": 4,
-      "Нагнибеда Александр Иванович": 34,
-      "Сытник Николай Николаевич": 26,
-      "Халин Илья Сергеевич": 5
+      "gas:candidate-vibid:4234055233602": 5,
+      "gas:candidate-vibid:4234055233328": 164,
+      "gas:candidate-vibid:4234055233188": 4,
+      "gas:candidate-vibid:4234055234268": 4,
+      "gas:candidate-vibid:4234055234346": 34,
+      "gas:candidate-vibid:4234055223353": 26,
+      "gas:candidate-vibid:4234055233228": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000068&tvd=4234055222599&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234055222599&type=464",
@@ -5857,13 +5857,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ващенко Денис Юрьевич": 49,
-      "Езубов Алексей Петрович": 423,
-      "Карпекин Владимир Дмитриевич": 34,
-      "Линдблад Людмила Евгеньевна": 25,
-      "Нагнибеда Александр Иванович": 155,
-      "Сытник Николай Николаевич": 73,
-      "Халин Илья Сергеевич": 25
+      "gas:candidate-vibid:4234055233602": 49,
+      "gas:candidate-vibid:4234055233328": 423,
+      "gas:candidate-vibid:4234055233188": 34,
+      "gas:candidate-vibid:4234055234268": 25,
+      "gas:candidate-vibid:4234055234346": 155,
+      "gas:candidate-vibid:4234055223353": 73,
+      "gas:candidate-vibid:4234055233228": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000068&tvd=4234055222599&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234055222599&type=464",
@@ -5914,13 +5914,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ващенко Денис Юрьевич": 1,
-      "Езубов Алексей Петрович": 185,
-      "Карпекин Владимир Дмитриевич": 14,
-      "Линдблад Людмила Евгеньевна": 9,
-      "Нагнибеда Александр Иванович": 63,
-      "Сытник Николай Николаевич": 27,
-      "Халин Илья Сергеевич": 2
+      "gas:candidate-vibid:4234055233602": 1,
+      "gas:candidate-vibid:4234055233328": 185,
+      "gas:candidate-vibid:4234055233188": 14,
+      "gas:candidate-vibid:4234055234268": 9,
+      "gas:candidate-vibid:4234055234346": 63,
+      "gas:candidate-vibid:4234055223353": 27,
+      "gas:candidate-vibid:4234055233228": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000068&tvd=4234055222599&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234055222599&type=464",
@@ -5971,13 +5971,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ващенко Денис Юрьевич": 7,
-      "Езубов Алексей Петрович": 219,
-      "Карпекин Владимир Дмитриевич": 9,
-      "Линдблад Людмила Евгеньевна": 5,
-      "Нагнибеда Александр Иванович": 61,
-      "Сытник Николай Николаевич": 6,
-      "Халин Илья Сергеевич": 7
+      "gas:candidate-vibid:4234055233602": 7,
+      "gas:candidate-vibid:4234055233328": 219,
+      "gas:candidate-vibid:4234055233188": 9,
+      "gas:candidate-vibid:4234055234268": 5,
+      "gas:candidate-vibid:4234055234346": 61,
+      "gas:candidate-vibid:4234055223353": 6,
+      "gas:candidate-vibid:4234055233228": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000068&tvd=4234055222599&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234055222599&type=464",
@@ -6028,13 +6028,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ващенко Денис Юрьевич": 5,
-      "Езубов Алексей Петрович": 164,
-      "Карпекин Владимир Дмитриевич": 9,
-      "Линдблад Людмила Евгеньевна": 10,
-      "Нагнибеда Александр Иванович": 67,
-      "Сытник Николай Николаевич": 35,
-      "Халин Илья Сергеевич": 9
+      "gas:candidate-vibid:4234055233602": 5,
+      "gas:candidate-vibid:4234055233328": 164,
+      "gas:candidate-vibid:4234055233188": 9,
+      "gas:candidate-vibid:4234055234268": 10,
+      "gas:candidate-vibid:4234055234346": 67,
+      "gas:candidate-vibid:4234055223353": 35,
+      "gas:candidate-vibid:4234055233228": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000068&tvd=4234055222599&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234055222599&type=464",
@@ -6085,13 +6085,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ващенко Денис Юрьевич": 21,
-      "Езубов Алексей Петрович": 523,
-      "Карпекин Владимир Дмитриевич": 126,
-      "Линдблад Людмила Евгеньевна": 24,
-      "Нагнибеда Александр Иванович": 113,
-      "Сытник Николай Николаевич": 68,
-      "Халин Илья Сергеевич": 11
+      "gas:candidate-vibid:4234055233602": 21,
+      "gas:candidate-vibid:4234055233328": 523,
+      "gas:candidate-vibid:4234055233188": 126,
+      "gas:candidate-vibid:4234055234268": 24,
+      "gas:candidate-vibid:4234055234346": 113,
+      "gas:candidate-vibid:4234055223353": 68,
+      "gas:candidate-vibid:4234055233228": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000068&tvd=4234055222599&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234055222599&type=464",
@@ -6142,13 +6142,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ващенко Денис Юрьевич": 9,
-      "Езубов Алексей Петрович": 354,
-      "Карпекин Владимир Дмитриевич": 7,
-      "Линдблад Людмила Евгеньевна": 9,
-      "Нагнибеда Александр Иванович": 22,
-      "Сытник Николай Николаевич": 28,
-      "Халин Илья Сергеевич": 13
+      "gas:candidate-vibid:4234055233602": 9,
+      "gas:candidate-vibid:4234055233328": 354,
+      "gas:candidate-vibid:4234055233188": 7,
+      "gas:candidate-vibid:4234055234268": 9,
+      "gas:candidate-vibid:4234055234346": 22,
+      "gas:candidate-vibid:4234055223353": 28,
+      "gas:candidate-vibid:4234055233228": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000068&tvd=4234055222599&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234055222599&type=464",
@@ -6199,13 +6199,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ващенко Денис Юрьевич": 17,
-      "Езубов Алексей Петрович": 664,
-      "Карпекин Владимир Дмитриевич": 25,
-      "Линдблад Людмила Евгеньевна": 17,
-      "Нагнибеда Александр Иванович": 64,
-      "Сытник Николай Николаевич": 80,
-      "Халин Илья Сергеевич": 17
+      "gas:candidate-vibid:4234055233602": 17,
+      "gas:candidate-vibid:4234055233328": 664,
+      "gas:candidate-vibid:4234055233188": 25,
+      "gas:candidate-vibid:4234055234268": 17,
+      "gas:candidate-vibid:4234055234346": 64,
+      "gas:candidate-vibid:4234055223353": 80,
+      "gas:candidate-vibid:4234055233228": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000068&tvd=4234055222599&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234055222599&type=464",
@@ -6256,13 +6256,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ващенко Денис Юрьевич": 25,
-      "Езубов Алексей Петрович": 683,
-      "Карпекин Владимир Дмитриевич": 50,
-      "Линдблад Людмила Евгеньевна": 19,
-      "Нагнибеда Александр Иванович": 357,
-      "Сытник Николай Николаевич": 36,
-      "Халин Илья Сергеевич": 14
+      "gas:candidate-vibid:4234055233602": 25,
+      "gas:candidate-vibid:4234055233328": 683,
+      "gas:candidate-vibid:4234055233188": 50,
+      "gas:candidate-vibid:4234055234268": 19,
+      "gas:candidate-vibid:4234055234346": 357,
+      "gas:candidate-vibid:4234055223353": 36,
+      "gas:candidate-vibid:4234055233228": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000068&tvd=4234055222599&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234055222599&type=464",
@@ -6313,13 +6313,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ващенко Денис Юрьевич": 24,
-      "Езубов Алексей Петрович": 369,
-      "Карпекин Владимир Дмитриевич": 36,
-      "Линдблад Людмила Евгеньевна": 17,
-      "Нагнибеда Александр Иванович": 117,
-      "Сытник Николай Николаевич": 76,
-      "Халин Илья Сергеевич": 15
+      "gas:candidate-vibid:4234055233602": 24,
+      "gas:candidate-vibid:4234055233328": 369,
+      "gas:candidate-vibid:4234055233188": 36,
+      "gas:candidate-vibid:4234055234268": 17,
+      "gas:candidate-vibid:4234055234346": 117,
+      "gas:candidate-vibid:4234055223353": 76,
+      "gas:candidate-vibid:4234055233228": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000068&tvd=4234055222599&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234055222599&type=464",
@@ -6370,13 +6370,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ващенко Денис Юрьевич": 23,
-      "Езубов Алексей Петрович": 192,
-      "Карпекин Владимир Дмитриевич": 20,
-      "Линдблад Людмила Евгеньевна": 13,
-      "Нагнибеда Александр Иванович": 85,
-      "Сытник Николай Николаевич": 43,
-      "Халин Илья Сергеевич": 13
+      "gas:candidate-vibid:4234055233602": 23,
+      "gas:candidate-vibid:4234055233328": 192,
+      "gas:candidate-vibid:4234055233188": 20,
+      "gas:candidate-vibid:4234055234268": 13,
+      "gas:candidate-vibid:4234055234346": 85,
+      "gas:candidate-vibid:4234055223353": 43,
+      "gas:candidate-vibid:4234055233228": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000068&tvd=4234055222599&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234055222599&type=464",
@@ -6427,13 +6427,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ващенко Денис Юрьевич": 23,
-      "Езубов Алексей Петрович": 233,
-      "Карпекин Владимир Дмитриевич": 33,
-      "Линдблад Людмила Евгеньевна": 22,
-      "Нагнибеда Александр Иванович": 117,
-      "Сытник Николай Николаевич": 66,
-      "Халин Илья Сергеевич": 21
+      "gas:candidate-vibid:4234055233602": 23,
+      "gas:candidate-vibid:4234055233328": 233,
+      "gas:candidate-vibid:4234055233188": 33,
+      "gas:candidate-vibid:4234055234268": 22,
+      "gas:candidate-vibid:4234055234346": 117,
+      "gas:candidate-vibid:4234055223353": 66,
+      "gas:candidate-vibid:4234055233228": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000068&tvd=4234055222599&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234055222599&type=464",
@@ -6484,13 +6484,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ващенко Денис Юрьевич": 29,
-      "Езубов Алексей Петрович": 239,
-      "Карпекин Владимир Дмитриевич": 28,
-      "Линдблад Людмила Евгеньевна": 23,
-      "Нагнибеда Александр Иванович": 114,
-      "Сытник Николай Николаевич": 59,
-      "Халин Илья Сергеевич": 21
+      "gas:candidate-vibid:4234055233602": 29,
+      "gas:candidate-vibid:4234055233328": 239,
+      "gas:candidate-vibid:4234055233188": 28,
+      "gas:candidate-vibid:4234055234268": 23,
+      "gas:candidate-vibid:4234055234346": 114,
+      "gas:candidate-vibid:4234055223353": 59,
+      "gas:candidate-vibid:4234055233228": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000068&tvd=4234055222599&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234055222599&type=464",
@@ -6541,13 +6541,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ващенко Денис Юрьевич": 30,
-      "Езубов Алексей Петрович": 416,
-      "Карпекин Владимир Дмитриевич": 26,
-      "Линдблад Людмила Евгеньевна": 4,
-      "Нагнибеда Александр Иванович": 123,
-      "Сытник Николай Николаевич": 69,
-      "Халин Илья Сергеевич": 26
+      "gas:candidate-vibid:4234055233602": 30,
+      "gas:candidate-vibid:4234055233328": 416,
+      "gas:candidate-vibid:4234055233188": 26,
+      "gas:candidate-vibid:4234055234268": 4,
+      "gas:candidate-vibid:4234055234346": 123,
+      "gas:candidate-vibid:4234055223353": 69,
+      "gas:candidate-vibid:4234055233228": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000068&tvd=4234055222599&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234055222599&type=464",
@@ -6598,13 +6598,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ващенко Денис Юрьевич": 25,
-      "Езубов Алексей Петрович": 745,
-      "Карпекин Владимир Дмитриевич": 21,
-      "Линдблад Людмила Евгеньевна": 13,
-      "Нагнибеда Александр Иванович": 87,
-      "Сытник Николай Николаевич": 47,
-      "Халин Илья Сергеевич": 15
+      "gas:candidate-vibid:4234055233602": 25,
+      "gas:candidate-vibid:4234055233328": 745,
+      "gas:candidate-vibid:4234055233188": 21,
+      "gas:candidate-vibid:4234055234268": 13,
+      "gas:candidate-vibid:4234055234346": 87,
+      "gas:candidate-vibid:4234055223353": 47,
+      "gas:candidate-vibid:4234055233228": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000068&tvd=4234055222599&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234055222599&type=464",
@@ -6655,13 +6655,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ващенко Денис Юрьевич": 3,
-      "Езубов Алексей Петрович": 145,
-      "Карпекин Владимир Дмитриевич": 4,
-      "Линдблад Людмила Евгеньевна": 3,
-      "Нагнибеда Александр Иванович": 17,
-      "Сытник Николай Николаевич": 6,
-      "Халин Илья Сергеевич": 2
+      "gas:candidate-vibid:4234055233602": 3,
+      "gas:candidate-vibid:4234055233328": 145,
+      "gas:candidate-vibid:4234055233188": 4,
+      "gas:candidate-vibid:4234055234268": 3,
+      "gas:candidate-vibid:4234055234346": 17,
+      "gas:candidate-vibid:4234055223353": 6,
+      "gas:candidate-vibid:4234055233228": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000068&tvd=4234055222599&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234055222599&type=464",
@@ -6712,13 +6712,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ващенко Денис Юрьевич": 23,
-      "Езубов Алексей Петрович": 205,
-      "Карпекин Владимир Дмитриевич": 11,
-      "Линдблад Людмила Евгеньевна": 4,
-      "Нагнибеда Александр Иванович": 22,
-      "Сытник Николай Николаевич": 26,
-      "Халин Илья Сергеевич": 7
+      "gas:candidate-vibid:4234055233602": 23,
+      "gas:candidate-vibid:4234055233328": 205,
+      "gas:candidate-vibid:4234055233188": 11,
+      "gas:candidate-vibid:4234055234268": 4,
+      "gas:candidate-vibid:4234055234346": 22,
+      "gas:candidate-vibid:4234055223353": 26,
+      "gas:candidate-vibid:4234055233228": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000068&tvd=4234055222599&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234055222599&type=464",
@@ -6769,13 +6769,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ващенко Денис Юрьевич": 56,
-      "Езубов Алексей Петрович": 823,
-      "Карпекин Владимир Дмитриевич": 65,
-      "Линдблад Людмила Евгеньевна": 16,
-      "Нагнибеда Александр Иванович": 120,
-      "Сытник Николай Николаевич": 82,
-      "Халин Илья Сергеевич": 22
+      "gas:candidate-vibid:4234055233602": 56,
+      "gas:candidate-vibid:4234055233328": 823,
+      "gas:candidate-vibid:4234055233188": 65,
+      "gas:candidate-vibid:4234055234268": 16,
+      "gas:candidate-vibid:4234055234346": 120,
+      "gas:candidate-vibid:4234055223353": 82,
+      "gas:candidate-vibid:4234055233228": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000068&tvd=4234055222599&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234055222599&type=464",
@@ -6826,13 +6826,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ващенко Денис Юрьевич": 31,
-      "Езубов Алексей Петрович": 668,
-      "Карпекин Владимир Дмитриевич": 34,
-      "Линдблад Людмила Евгеньевна": 12,
-      "Нагнибеда Александр Иванович": 120,
-      "Сытник Николай Николаевич": 101,
-      "Халин Илья Сергеевич": 12
+      "gas:candidate-vibid:4234055233602": 31,
+      "gas:candidate-vibid:4234055233328": 668,
+      "gas:candidate-vibid:4234055233188": 34,
+      "gas:candidate-vibid:4234055234268": 12,
+      "gas:candidate-vibid:4234055234346": 120,
+      "gas:candidate-vibid:4234055223353": 101,
+      "gas:candidate-vibid:4234055233228": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000068&tvd=4234055222599&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234055222599&type=464",
@@ -6883,13 +6883,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ващенко Денис Юрьевич": 24,
-      "Езубов Алексей Петрович": 384,
-      "Карпекин Владимир Дмитриевич": 16,
-      "Линдблад Людмила Евгеньевна": 16,
-      "Нагнибеда Александр Иванович": 98,
-      "Сытник Николай Николаевич": 65,
-      "Халин Илья Сергеевич": 13
+      "gas:candidate-vibid:4234055233602": 24,
+      "gas:candidate-vibid:4234055233328": 384,
+      "gas:candidate-vibid:4234055233188": 16,
+      "gas:candidate-vibid:4234055234268": 16,
+      "gas:candidate-vibid:4234055234346": 98,
+      "gas:candidate-vibid:4234055223353": 65,
+      "gas:candidate-vibid:4234055233228": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000068&tvd=4234055222599&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234055222599&type=464",
@@ -6940,13 +6940,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ващенко Денис Юрьевич": 32,
-      "Езубов Алексей Петрович": 920,
-      "Карпекин Владимир Дмитриевич": 43,
-      "Линдблад Людмила Евгеньевна": 15,
-      "Нагнибеда Александр Иванович": 214,
-      "Сытник Николай Николаевич": 68,
-      "Халин Илья Сергеевич": 38
+      "gas:candidate-vibid:4234055233602": 32,
+      "gas:candidate-vibid:4234055233328": 920,
+      "gas:candidate-vibid:4234055233188": 43,
+      "gas:candidate-vibid:4234055234268": 15,
+      "gas:candidate-vibid:4234055234346": 214,
+      "gas:candidate-vibid:4234055223353": 68,
+      "gas:candidate-vibid:4234055233228": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000068&tvd=4234055222599&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234055222599&type=464",
@@ -6997,13 +6997,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ващенко Денис Юрьевич": 31,
-      "Езубов Алексей Петрович": 578,
-      "Карпекин Владимир Дмитриевич": 33,
-      "Линдблад Людмила Евгеньевна": 22,
-      "Нагнибеда Александр Иванович": 114,
-      "Сытник Николай Николаевич": 53,
-      "Халин Илья Сергеевич": 22
+      "gas:candidate-vibid:4234055233602": 31,
+      "gas:candidate-vibid:4234055233328": 578,
+      "gas:candidate-vibid:4234055233188": 33,
+      "gas:candidate-vibid:4234055234268": 22,
+      "gas:candidate-vibid:4234055234346": 114,
+      "gas:candidate-vibid:4234055223353": 53,
+      "gas:candidate-vibid:4234055233228": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000068&tvd=4234055222599&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234055222599&type=464",
@@ -7054,13 +7054,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ващенко Денис Юрьевич": 38,
-      "Езубов Алексей Петрович": 600,
-      "Карпекин Владимир Дмитриевич": 33,
-      "Линдблад Людмила Евгеньевна": 16,
-      "Нагнибеда Александр Иванович": 117,
-      "Сытник Николай Николаевич": 83,
-      "Халин Илья Сергеевич": 25
+      "gas:candidate-vibid:4234055233602": 38,
+      "gas:candidate-vibid:4234055233328": 600,
+      "gas:candidate-vibid:4234055233188": 33,
+      "gas:candidate-vibid:4234055234268": 16,
+      "gas:candidate-vibid:4234055234346": 117,
+      "gas:candidate-vibid:4234055223353": 83,
+      "gas:candidate-vibid:4234055233228": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000068&tvd=4234055222599&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234055222599&type=464",
@@ -7111,13 +7111,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ващенко Денис Юрьевич": 24,
-      "Езубов Алексей Петрович": 280,
-      "Карпекин Владимир Дмитриевич": 34,
-      "Линдблад Людмила Евгеньевна": 13,
-      "Нагнибеда Александр Иванович": 139,
-      "Сытник Николай Николаевич": 90,
-      "Халин Илья Сергеевич": 13
+      "gas:candidate-vibid:4234055233602": 24,
+      "gas:candidate-vibid:4234055233328": 280,
+      "gas:candidate-vibid:4234055233188": 34,
+      "gas:candidate-vibid:4234055234268": 13,
+      "gas:candidate-vibid:4234055234346": 139,
+      "gas:candidate-vibid:4234055223353": 90,
+      "gas:candidate-vibid:4234055233228": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000068&tvd=4234055222599&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234055222599&type=464",
@@ -7168,13 +7168,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ващенко Денис Юрьевич": 21,
-      "Езубов Алексей Петрович": 412,
-      "Карпекин Владимир Дмитриевич": 10,
-      "Линдблад Людмила Евгеньевна": 20,
-      "Нагнибеда Александр Иванович": 165,
-      "Сытник Николай Николаевич": 31,
-      "Халин Илья Сергеевич": 8
+      "gas:candidate-vibid:4234055233602": 21,
+      "gas:candidate-vibid:4234055233328": 412,
+      "gas:candidate-vibid:4234055233188": 10,
+      "gas:candidate-vibid:4234055234268": 20,
+      "gas:candidate-vibid:4234055234346": 165,
+      "gas:candidate-vibid:4234055223353": 31,
+      "gas:candidate-vibid:4234055233228": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000068&tvd=4234055222599&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234055222599&type=464",
@@ -7225,13 +7225,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ващенко Денис Юрьевич": 29,
-      "Езубов Алексей Петрович": 597,
-      "Карпекин Владимир Дмитриевич": 54,
-      "Линдблад Людмила Евгеньевна": 21,
-      "Нагнибеда Александр Иванович": 72,
-      "Сытник Николай Николаевич": 63,
-      "Халин Илья Сергеевич": 46
+      "gas:candidate-vibid:4234055233602": 29,
+      "gas:candidate-vibid:4234055233328": 597,
+      "gas:candidate-vibid:4234055233188": 54,
+      "gas:candidate-vibid:4234055234268": 21,
+      "gas:candidate-vibid:4234055234346": 72,
+      "gas:candidate-vibid:4234055223353": 63,
+      "gas:candidate-vibid:4234055233228": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000068&tvd=4234055222599&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234055222599&type=464",
@@ -7282,13 +7282,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ващенко Денис Юрьевич": 39,
-      "Езубов Алексей Петрович": 791,
-      "Карпекин Владимир Дмитриевич": 42,
-      "Линдблад Людмила Евгеньевна": 27,
-      "Нагнибеда Александр Иванович": 113,
-      "Сытник Николай Николаевич": 105,
-      "Халин Илья Сергеевич": 38
+      "gas:candidate-vibid:4234055233602": 39,
+      "gas:candidate-vibid:4234055233328": 791,
+      "gas:candidate-vibid:4234055233188": 42,
+      "gas:candidate-vibid:4234055234268": 27,
+      "gas:candidate-vibid:4234055234346": 113,
+      "gas:candidate-vibid:4234055223353": 105,
+      "gas:candidate-vibid:4234055233228": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000068&tvd=4234055222599&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234055222599&type=464",
@@ -7339,13 +7339,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ващенко Денис Юрьевич": 12,
-      "Езубов Алексей Петрович": 124,
-      "Карпекин Владимир Дмитриевич": 8,
-      "Линдблад Людмила Евгеньевна": 3,
-      "Нагнибеда Александр Иванович": 21,
-      "Сытник Николай Николаевич": 24,
-      "Халин Илья Сергеевич": 3
+      "gas:candidate-vibid:4234055233602": 12,
+      "gas:candidate-vibid:4234055233328": 124,
+      "gas:candidate-vibid:4234055233188": 8,
+      "gas:candidate-vibid:4234055234268": 3,
+      "gas:candidate-vibid:4234055234346": 21,
+      "gas:candidate-vibid:4234055223353": 24,
+      "gas:candidate-vibid:4234055233228": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000068&tvd=4234055222599&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234055222599&type=464",
@@ -7396,13 +7396,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ващенко Денис Юрьевич": 13,
-      "Езубов Алексей Петрович": 301,
-      "Карпекин Владимир Дмитриевич": 21,
-      "Линдблад Людмила Евгеньевна": 13,
-      "Нагнибеда Александр Иванович": 56,
-      "Сытник Николай Николаевич": 35,
-      "Халин Илья Сергеевич": 14
+      "gas:candidate-vibid:4234055233602": 13,
+      "gas:candidate-vibid:4234055233328": 301,
+      "gas:candidate-vibid:4234055233188": 21,
+      "gas:candidate-vibid:4234055234268": 13,
+      "gas:candidate-vibid:4234055234346": 56,
+      "gas:candidate-vibid:4234055223353": 35,
+      "gas:candidate-vibid:4234055233228": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000068&tvd=4234055222599&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234055222599&type=464",
@@ -7453,13 +7453,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ващенко Денис Юрьевич": 30,
-      "Езубов Алексей Петрович": 713,
-      "Карпекин Владимир Дмитриевич": 48,
-      "Линдблад Людмила Евгеньевна": 21,
-      "Нагнибеда Александр Иванович": 80,
-      "Сытник Николай Николаевич": 60,
-      "Халин Илья Сергеевич": 14
+      "gas:candidate-vibid:4234055233602": 30,
+      "gas:candidate-vibid:4234055233328": 713,
+      "gas:candidate-vibid:4234055233188": 48,
+      "gas:candidate-vibid:4234055234268": 21,
+      "gas:candidate-vibid:4234055234346": 80,
+      "gas:candidate-vibid:4234055223353": 60,
+      "gas:candidate-vibid:4234055233228": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000068&tvd=4234055222599&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234055222599&type=464",
@@ -7510,13 +7510,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ващенко Денис Юрьевич": 16,
-      "Езубов Алексей Петрович": 761,
-      "Карпекин Владимир Дмитриевич": 39,
-      "Линдблад Людмила Евгеньевна": 17,
-      "Нагнибеда Александр Иванович": 50,
-      "Сытник Николай Николаевич": 45,
-      "Халин Илья Сергеевич": 28
+      "gas:candidate-vibid:4234055233602": 16,
+      "gas:candidate-vibid:4234055233328": 761,
+      "gas:candidate-vibid:4234055233188": 39,
+      "gas:candidate-vibid:4234055234268": 17,
+      "gas:candidate-vibid:4234055234346": 50,
+      "gas:candidate-vibid:4234055223353": 45,
+      "gas:candidate-vibid:4234055233228": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000068&tvd=4234055222599&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234055222599&type=464",
@@ -7567,13 +7567,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ващенко Денис Юрьевич": 73,
-      "Езубов Алексей Петрович": 787,
-      "Карпекин Владимир Дмитриевич": 67,
-      "Линдблад Людмила Евгеньевна": 36,
-      "Нагнибеда Александр Иванович": 108,
-      "Сытник Николай Николаевич": 97,
-      "Халин Илья Сергеевич": 31
+      "gas:candidate-vibid:4234055233602": 73,
+      "gas:candidate-vibid:4234055233328": 787,
+      "gas:candidate-vibid:4234055233188": 67,
+      "gas:candidate-vibid:4234055234268": 36,
+      "gas:candidate-vibid:4234055234346": 108,
+      "gas:candidate-vibid:4234055223353": 97,
+      "gas:candidate-vibid:4234055233228": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000068&tvd=4234055222599&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234055222599&type=464",
@@ -7624,13 +7624,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ващенко Денис Юрьевич": 63,
-      "Езубов Алексей Петрович": 1196,
-      "Карпекин Владимир Дмитриевич": 70,
-      "Линдблад Людмила Евгеньевна": 20,
-      "Нагнибеда Александр Иванович": 126,
-      "Сытник Николай Николаевич": 126,
-      "Халин Илья Сергеевич": 30
+      "gas:candidate-vibid:4234055233602": 63,
+      "gas:candidate-vibid:4234055233328": 1196,
+      "gas:candidate-vibid:4234055233188": 70,
+      "gas:candidate-vibid:4234055234268": 20,
+      "gas:candidate-vibid:4234055234346": 126,
+      "gas:candidate-vibid:4234055223353": 126,
+      "gas:candidate-vibid:4234055233228": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000068&tvd=4234055222599&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234055222599&type=464",
@@ -7681,13 +7681,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ващенко Денис Юрьевич": 56,
-      "Езубов Алексей Петрович": 294,
-      "Карпекин Владимир Дмитриевич": 45,
-      "Линдблад Людмила Евгеньевна": 30,
-      "Нагнибеда Александр Иванович": 85,
-      "Сытник Николай Николаевич": 99,
-      "Халин Илья Сергеевич": 36
+      "gas:candidate-vibid:4234055233602": 56,
+      "gas:candidate-vibid:4234055233328": 294,
+      "gas:candidate-vibid:4234055233188": 45,
+      "gas:candidate-vibid:4234055234268": 30,
+      "gas:candidate-vibid:4234055234346": 85,
+      "gas:candidate-vibid:4234055223353": 99,
+      "gas:candidate-vibid:4234055233228": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000068&tvd=4234055222599&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234055222599&type=464",
@@ -7738,13 +7738,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ващенко Денис Юрьевич": 34,
-      "Езубов Алексей Петрович": 362,
-      "Карпекин Владимир Дмитриевич": 33,
-      "Линдблад Людмила Евгеньевна": 2,
-      "Нагнибеда Александр Иванович": 57,
-      "Сытник Николай Николаевич": 43,
-      "Халин Илья Сергеевич": 13
+      "gas:candidate-vibid:4234055233602": 34,
+      "gas:candidate-vibid:4234055233328": 362,
+      "gas:candidate-vibid:4234055233188": 33,
+      "gas:candidate-vibid:4234055234268": 2,
+      "gas:candidate-vibid:4234055234346": 57,
+      "gas:candidate-vibid:4234055223353": 43,
+      "gas:candidate-vibid:4234055233228": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000068&tvd=4234055222599&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234055222599&type=464",
@@ -7795,13 +7795,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ващенко Денис Юрьевич": 41,
-      "Езубов Алексей Петрович": 484,
-      "Карпекин Владимир Дмитриевич": 42,
-      "Линдблад Людмила Евгеньевна": 24,
-      "Нагнибеда Александр Иванович": 124,
-      "Сытник Николай Николаевич": 101,
-      "Халин Илья Сергеевич": 28
+      "gas:candidate-vibid:4234055233602": 41,
+      "gas:candidate-vibid:4234055233328": 484,
+      "gas:candidate-vibid:4234055233188": 42,
+      "gas:candidate-vibid:4234055234268": 24,
+      "gas:candidate-vibid:4234055234346": 124,
+      "gas:candidate-vibid:4234055223353": 101,
+      "gas:candidate-vibid:4234055233228": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000068&tvd=4234055222599&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234055222599&type=464",
@@ -7852,13 +7852,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ващенко Денис Юрьевич": 35,
-      "Езубов Алексей Петрович": 603,
-      "Карпекин Владимир Дмитриевич": 54,
-      "Линдблад Людмила Евгеньевна": 21,
-      "Нагнибеда Александр Иванович": 85,
-      "Сытник Николай Николаевич": 66,
-      "Халин Илья Сергеевич": 24
+      "gas:candidate-vibid:4234055233602": 35,
+      "gas:candidate-vibid:4234055233328": 603,
+      "gas:candidate-vibid:4234055233188": 54,
+      "gas:candidate-vibid:4234055234268": 21,
+      "gas:candidate-vibid:4234055234346": 85,
+      "gas:candidate-vibid:4234055223353": 66,
+      "gas:candidate-vibid:4234055233228": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000068&tvd=4234055222599&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234055222599&type=464",
@@ -7909,13 +7909,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 38,
-      "Ерохин Михаил Викторович": 73,
-      "Заруба Ольга Александровна": 67,
-      "Синяговский Владимир Ильич": 992,
-      "Тренин Алексей Николаевич": 120,
-      "Хот Валерий Владимирович": 104,
-      "Штуркин Владимир Николаевич": 46
+      "gas:candidate-vibid:4234056238349": 38,
+      "gas:candidate-vibid:4234056238140": 73,
+      "gas:candidate-vibid:4234056226051": 67,
+      "gas:candidate-vibid:4234056238639": 992,
+      "gas:candidate-vibid:4234056238262": 120,
+      "gas:candidate-vibid:4234056225742": 104,
+      "gas:candidate-vibid:4234056238794": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224469&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224469&type=464",
@@ -7966,13 +7966,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 44,
-      "Ерохин Михаил Викторович": 69,
-      "Заруба Ольга Александровна": 54,
-      "Синяговский Владимир Ильич": 961,
-      "Тренин Алексей Николаевич": 120,
-      "Хот Валерий Владимирович": 87,
-      "Штуркин Владимир Николаевич": 47
+      "gas:candidate-vibid:4234056238349": 44,
+      "gas:candidate-vibid:4234056238140": 69,
+      "gas:candidate-vibid:4234056226051": 54,
+      "gas:candidate-vibid:4234056238639": 961,
+      "gas:candidate-vibid:4234056238262": 120,
+      "gas:candidate-vibid:4234056225742": 87,
+      "gas:candidate-vibid:4234056238794": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224469&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224469&type=464",
@@ -8023,13 +8023,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 26,
-      "Ерохин Михаил Викторович": 56,
-      "Заруба Ольга Александровна": 54,
-      "Синяговский Владимир Ильич": 1509,
-      "Тренин Алексей Николаевич": 46,
-      "Хот Валерий Владимирович": 59,
-      "Штуркин Владимир Николаевич": 37
+      "gas:candidate-vibid:4234056238349": 26,
+      "gas:candidate-vibid:4234056238140": 56,
+      "gas:candidate-vibid:4234056226051": 54,
+      "gas:candidate-vibid:4234056238639": 1509,
+      "gas:candidate-vibid:4234056238262": 46,
+      "gas:candidate-vibid:4234056225742": 59,
+      "gas:candidate-vibid:4234056238794": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224469&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224469&type=464",
@@ -8080,13 +8080,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 34,
-      "Ерохин Михаил Викторович": 77,
-      "Заруба Ольга Александровна": 50,
-      "Синяговский Владимир Ильич": 841,
-      "Тренин Алексей Николаевич": 142,
-      "Хот Валерий Владимирович": 76,
-      "Штуркин Владимир Николаевич": 43
+      "gas:candidate-vibid:4234056238349": 34,
+      "gas:candidate-vibid:4234056238140": 77,
+      "gas:candidate-vibid:4234056226051": 50,
+      "gas:candidate-vibid:4234056238639": 841,
+      "gas:candidate-vibid:4234056238262": 142,
+      "gas:candidate-vibid:4234056225742": 76,
+      "gas:candidate-vibid:4234056238794": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224469&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224469&type=464",
@@ -8137,13 +8137,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 31,
-      "Ерохин Михаил Викторович": 47,
-      "Заруба Ольга Александровна": 11,
-      "Синяговский Владимир Ильич": 1234,
-      "Тренин Алексей Николаевич": 109,
-      "Хот Валерий Владимирович": 68,
-      "Штуркин Владимир Николаевич": 45
+      "gas:candidate-vibid:4234056238349": 31,
+      "gas:candidate-vibid:4234056238140": 47,
+      "gas:candidate-vibid:4234056226051": 11,
+      "gas:candidate-vibid:4234056238639": 1234,
+      "gas:candidate-vibid:4234056238262": 109,
+      "gas:candidate-vibid:4234056225742": 68,
+      "gas:candidate-vibid:4234056238794": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224469&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224469&type=464",
@@ -8194,13 +8194,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 29,
-      "Ерохин Михаил Викторович": 84,
-      "Заруба Ольга Александровна": 77,
-      "Синяговский Владимир Ильич": 1034,
-      "Тренин Алексей Николаевич": 95,
-      "Хот Валерий Владимирович": 116,
-      "Штуркин Владимир Николаевич": 48
+      "gas:candidate-vibid:4234056238349": 29,
+      "gas:candidate-vibid:4234056238140": 84,
+      "gas:candidate-vibid:4234056226051": 77,
+      "gas:candidate-vibid:4234056238639": 1034,
+      "gas:candidate-vibid:4234056238262": 95,
+      "gas:candidate-vibid:4234056225742": 116,
+      "gas:candidate-vibid:4234056238794": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224469&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224469&type=464",
@@ -8251,13 +8251,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 38,
-      "Ерохин Михаил Викторович": 35,
-      "Заруба Ольга Александровна": 23,
-      "Синяговский Владимир Ильич": 685,
-      "Тренин Алексей Николаевич": 103,
-      "Хот Валерий Владимирович": 83,
-      "Штуркин Владимир Николаевич": 35
+      "gas:candidate-vibid:4234056238349": 38,
+      "gas:candidate-vibid:4234056238140": 35,
+      "gas:candidate-vibid:4234056226051": 23,
+      "gas:candidate-vibid:4234056238639": 685,
+      "gas:candidate-vibid:4234056238262": 103,
+      "gas:candidate-vibid:4234056225742": 83,
+      "gas:candidate-vibid:4234056238794": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224469&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224469&type=464",
@@ -8308,13 +8308,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 26,
-      "Ерохин Михаил Викторович": 44,
-      "Заруба Ольга Александровна": 36,
-      "Синяговский Владимир Ильич": 1306,
-      "Тренин Алексей Николаевич": 61,
-      "Хот Валерий Владимирович": 63,
-      "Штуркин Владимир Николаевич": 23
+      "gas:candidate-vibid:4234056238349": 26,
+      "gas:candidate-vibid:4234056238140": 44,
+      "gas:candidate-vibid:4234056226051": 36,
+      "gas:candidate-vibid:4234056238639": 1306,
+      "gas:candidate-vibid:4234056238262": 61,
+      "gas:candidate-vibid:4234056225742": 63,
+      "gas:candidate-vibid:4234056238794": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224469&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224469&type=464",
@@ -8365,13 +8365,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 36,
-      "Ерохин Михаил Викторович": 77,
-      "Заруба Ольга Александровна": 58,
-      "Синяговский Владимир Ильич": 863,
-      "Тренин Алексей Николаевич": 90,
-      "Хот Валерий Владимирович": 114,
-      "Штуркин Владимир Николаевич": 43
+      "gas:candidate-vibid:4234056238349": 36,
+      "gas:candidate-vibid:4234056238140": 77,
+      "gas:candidate-vibid:4234056226051": 58,
+      "gas:candidate-vibid:4234056238639": 863,
+      "gas:candidate-vibid:4234056238262": 90,
+      "gas:candidate-vibid:4234056225742": 114,
+      "gas:candidate-vibid:4234056238794": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224469&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224469&type=464",
@@ -8422,13 +8422,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 44,
-      "Ерохин Михаил Викторович": 79,
-      "Заруба Ольга Александровна": 66,
-      "Синяговский Владимир Ильич": 1792,
-      "Тренин Алексей Николаевич": 123,
-      "Хот Валерий Владимирович": 84,
-      "Штуркин Владимир Николаевич": 65
+      "gas:candidate-vibid:4234056238349": 44,
+      "gas:candidate-vibid:4234056238140": 79,
+      "gas:candidate-vibid:4234056226051": 66,
+      "gas:candidate-vibid:4234056238639": 1792,
+      "gas:candidate-vibid:4234056238262": 123,
+      "gas:candidate-vibid:4234056225742": 84,
+      "gas:candidate-vibid:4234056238794": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224469&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224469&type=464",
@@ -8479,13 +8479,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 32,
-      "Ерохин Михаил Викторович": 65,
-      "Заруба Ольга Александровна": 62,
-      "Синяговский Владимир Ильич": 1419,
-      "Тренин Алексей Николаевич": 196,
-      "Хот Валерий Владимирович": 135,
-      "Штуркин Владимир Николаевич": 50
+      "gas:candidate-vibid:4234056238349": 32,
+      "gas:candidate-vibid:4234056238140": 65,
+      "gas:candidate-vibid:4234056226051": 62,
+      "gas:candidate-vibid:4234056238639": 1419,
+      "gas:candidate-vibid:4234056238262": 196,
+      "gas:candidate-vibid:4234056225742": 135,
+      "gas:candidate-vibid:4234056238794": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224469&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224469&type=464",
@@ -8536,13 +8536,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 9,
-      "Ерохин Михаил Викторович": 14,
-      "Заруба Ольга Александровна": 52,
-      "Синяговский Владимир Ильич": 1353,
-      "Тренин Алексей Николаевич": 114,
-      "Хот Валерий Владимирович": 107,
-      "Штуркин Владимир Николаевич": 21
+      "gas:candidate-vibid:4234056238349": 9,
+      "gas:candidate-vibid:4234056238140": 14,
+      "gas:candidate-vibid:4234056226051": 52,
+      "gas:candidate-vibid:4234056238639": 1353,
+      "gas:candidate-vibid:4234056238262": 114,
+      "gas:candidate-vibid:4234056225742": 107,
+      "gas:candidate-vibid:4234056238794": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224469&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224469&type=464",
@@ -8593,13 +8593,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 47,
-      "Ерохин Михаил Викторович": 74,
-      "Заруба Ольга Александровна": 72,
-      "Синяговский Владимир Ильич": 1193,
-      "Тренин Алексей Николаевич": 104,
-      "Хот Валерий Владимирович": 101,
-      "Штуркин Владимир Николаевич": 50
+      "gas:candidate-vibid:4234056238349": 47,
+      "gas:candidate-vibid:4234056238140": 74,
+      "gas:candidate-vibid:4234056226051": 72,
+      "gas:candidate-vibid:4234056238639": 1193,
+      "gas:candidate-vibid:4234056238262": 104,
+      "gas:candidate-vibid:4234056225742": 101,
+      "gas:candidate-vibid:4234056238794": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224469&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224469&type=464",
@@ -8650,13 +8650,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 12,
-      "Ерохин Михаил Викторович": 29,
-      "Заруба Ольга Александровна": 18,
-      "Синяговский Владимир Ильич": 685,
-      "Тренин Алексей Николаевич": 51,
-      "Хот Валерий Владимирович": 42,
-      "Штуркин Владимир Николаевич": 19
+      "gas:candidate-vibid:4234056238349": 12,
+      "gas:candidate-vibid:4234056238140": 29,
+      "gas:candidate-vibid:4234056226051": 18,
+      "gas:candidate-vibid:4234056238639": 685,
+      "gas:candidate-vibid:4234056238262": 51,
+      "gas:candidate-vibid:4234056225742": 42,
+      "gas:candidate-vibid:4234056238794": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224469&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224469&type=464",
@@ -8707,13 +8707,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 40,
-      "Ерохин Михаил Викторович": 58,
-      "Заруба Ольга Александровна": 22,
-      "Синяговский Владимир Ильич": 1094,
-      "Тренин Алексей Николаевич": 97,
-      "Хот Валерий Владимирович": 64,
-      "Штуркин Владимир Николаевич": 38
+      "gas:candidate-vibid:4234056238349": 40,
+      "gas:candidate-vibid:4234056238140": 58,
+      "gas:candidate-vibid:4234056226051": 22,
+      "gas:candidate-vibid:4234056238639": 1094,
+      "gas:candidate-vibid:4234056238262": 97,
+      "gas:candidate-vibid:4234056225742": 64,
+      "gas:candidate-vibid:4234056238794": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224469&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224469&type=464",
@@ -8764,13 +8764,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 17,
-      "Ерохин Михаил Викторович": 43,
-      "Заруба Ольга Александровна": 39,
-      "Синяговский Владимир Ильич": 1086,
-      "Тренин Алексей Николаевич": 62,
-      "Хот Валерий Владимирович": 60,
-      "Штуркин Владимир Николаевич": 31
+      "gas:candidate-vibid:4234056238349": 17,
+      "gas:candidate-vibid:4234056238140": 43,
+      "gas:candidate-vibid:4234056226051": 39,
+      "gas:candidate-vibid:4234056238639": 1086,
+      "gas:candidate-vibid:4234056238262": 62,
+      "gas:candidate-vibid:4234056225742": 60,
+      "gas:candidate-vibid:4234056238794": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224469&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224469&type=464",
@@ -8821,13 +8821,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 39,
-      "Ерохин Михаил Викторович": 71,
-      "Заруба Ольга Александровна": 66,
-      "Синяговский Владимир Ильич": 1262,
-      "Тренин Алексей Николаевич": 85,
-      "Хот Валерий Владимирович": 88,
-      "Штуркин Владимир Николаевич": 45
+      "gas:candidate-vibid:4234056238349": 39,
+      "gas:candidate-vibid:4234056238140": 71,
+      "gas:candidate-vibid:4234056226051": 66,
+      "gas:candidate-vibid:4234056238639": 1262,
+      "gas:candidate-vibid:4234056238262": 85,
+      "gas:candidate-vibid:4234056225742": 88,
+      "gas:candidate-vibid:4234056238794": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224469&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224469&type=464",
@@ -8878,13 +8878,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 10,
-      "Ерохин Михаил Викторович": 38,
-      "Заруба Ольга Александровна": 40,
-      "Синяговский Владимир Ильич": 246,
-      "Тренин Алексей Николаевич": 70,
-      "Хот Валерий Владимирович": 76,
-      "Штуркин Владимир Николаевич": 33
+      "gas:candidate-vibid:4234056238349": 10,
+      "gas:candidate-vibid:4234056238140": 38,
+      "gas:candidate-vibid:4234056226051": 40,
+      "gas:candidate-vibid:4234056238639": 246,
+      "gas:candidate-vibid:4234056238262": 70,
+      "gas:candidate-vibid:4234056225742": 76,
+      "gas:candidate-vibid:4234056238794": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224469&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224469&type=464",
@@ -8935,13 +8935,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 48,
-      "Ерохин Михаил Викторович": 56,
-      "Заруба Ольга Александровна": 64,
-      "Синяговский Владимир Ильич": 928,
-      "Тренин Алексей Николаевич": 71,
-      "Хот Валерий Владимирович": 84,
-      "Штуркин Владимир Николаевич": 43
+      "gas:candidate-vibid:4234056238349": 48,
+      "gas:candidate-vibid:4234056238140": 56,
+      "gas:candidate-vibid:4234056226051": 64,
+      "gas:candidate-vibid:4234056238639": 928,
+      "gas:candidate-vibid:4234056238262": 71,
+      "gas:candidate-vibid:4234056225742": 84,
+      "gas:candidate-vibid:4234056238794": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224469&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224469&type=464",
@@ -8992,13 +8992,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 4,
-      "Ерохин Михаил Викторович": 7,
-      "Заруба Ольга Александровна": 8,
-      "Синяговский Владимир Ильич": 987,
-      "Тренин Алексей Николаевич": 74,
-      "Хот Валерий Владимирович": 31,
-      "Штуркин Владимир Николаевич": 5
+      "gas:candidate-vibid:4234056238349": 4,
+      "gas:candidate-vibid:4234056238140": 7,
+      "gas:candidate-vibid:4234056226051": 8,
+      "gas:candidate-vibid:4234056238639": 987,
+      "gas:candidate-vibid:4234056238262": 74,
+      "gas:candidate-vibid:4234056225742": 31,
+      "gas:candidate-vibid:4234056238794": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224469&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224469&type=464",
@@ -9049,13 +9049,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 16,
-      "Ерохин Михаил Викторович": 25,
-      "Заруба Ольга Александровна": 19,
-      "Синяговский Владимир Ильич": 2075,
-      "Тренин Алексей Николаевич": 49,
-      "Хот Валерий Владимирович": 26,
-      "Штуркин Владимир Николаевич": 8
+      "gas:candidate-vibid:4234056238349": 16,
+      "gas:candidate-vibid:4234056238140": 25,
+      "gas:candidate-vibid:4234056226051": 19,
+      "gas:candidate-vibid:4234056238639": 2075,
+      "gas:candidate-vibid:4234056238262": 49,
+      "gas:candidate-vibid:4234056225742": 26,
+      "gas:candidate-vibid:4234056238794": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224469&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224469&type=464",
@@ -9106,13 +9106,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 37,
-      "Ерохин Михаил Викторович": 49,
-      "Заруба Ольга Александровна": 59,
-      "Синяговский Владимир Ильич": 1769,
-      "Тренин Алексей Николаевич": 200,
-      "Хот Валерий Владимирович": 60,
-      "Штуркин Владимир Николаевич": 15
+      "gas:candidate-vibid:4234056238349": 37,
+      "gas:candidate-vibid:4234056238140": 49,
+      "gas:candidate-vibid:4234056226051": 59,
+      "gas:candidate-vibid:4234056238639": 1769,
+      "gas:candidate-vibid:4234056238262": 200,
+      "gas:candidate-vibid:4234056225742": 60,
+      "gas:candidate-vibid:4234056238794": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224469&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224469&type=464",
@@ -9163,13 +9163,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 25,
-      "Ерохин Михаил Викторович": 30,
-      "Заруба Ольга Александровна": 22,
-      "Синяговский Владимир Ильич": 661,
-      "Тренин Алексей Николаевич": 25,
-      "Хот Валерий Владимирович": 44,
-      "Штуркин Владимир Николаевич": 18
+      "gas:candidate-vibid:4234056238349": 25,
+      "gas:candidate-vibid:4234056238140": 30,
+      "gas:candidate-vibid:4234056226051": 22,
+      "gas:candidate-vibid:4234056238639": 661,
+      "gas:candidate-vibid:4234056238262": 25,
+      "gas:candidate-vibid:4234056225742": 44,
+      "gas:candidate-vibid:4234056238794": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224469&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224469&type=464",
@@ -9220,13 +9220,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 1,
-      "Ерохин Михаил Викторович": 6,
-      "Заруба Ольга Александровна": 8,
-      "Синяговский Владимир Ильич": 293,
-      "Тренин Алексей Николаевич": 6,
-      "Хот Валерий Владимирович": 8,
-      "Штуркин Владимир Николаевич": 3
+      "gas:candidate-vibid:4234056238349": 1,
+      "gas:candidate-vibid:4234056238140": 6,
+      "gas:candidate-vibid:4234056226051": 8,
+      "gas:candidate-vibid:4234056238639": 293,
+      "gas:candidate-vibid:4234056238262": 6,
+      "gas:candidate-vibid:4234056225742": 8,
+      "gas:candidate-vibid:4234056238794": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224469&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224469&type=464",
@@ -9277,13 +9277,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 19,
-      "Ерохин Михаил Викторович": 43,
-      "Заруба Ольга Александровна": 43,
-      "Синяговский Владимир Ильич": 620,
-      "Тренин Алексей Николаевич": 38,
-      "Хот Валерий Владимирович": 47,
-      "Штуркин Владимир Николаевич": 17
+      "gas:candidate-vibid:4234056238349": 19,
+      "gas:candidate-vibid:4234056238140": 43,
+      "gas:candidate-vibid:4234056226051": 43,
+      "gas:candidate-vibid:4234056238639": 620,
+      "gas:candidate-vibid:4234056238262": 38,
+      "gas:candidate-vibid:4234056225742": 47,
+      "gas:candidate-vibid:4234056238794": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224469&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224469&type=464",
@@ -9334,13 +9334,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 31,
-      "Ерохин Михаил Викторович": 64,
-      "Заруба Ольга Александровна": 83,
-      "Синяговский Владимир Ильич": 1196,
-      "Тренин Алексей Николаевич": 79,
-      "Хот Валерий Владимирович": 97,
-      "Штуркин Владимир Николаевич": 34
+      "gas:candidate-vibid:4234056238349": 31,
+      "gas:candidate-vibid:4234056238140": 64,
+      "gas:candidate-vibid:4234056226051": 83,
+      "gas:candidate-vibid:4234056238639": 1196,
+      "gas:candidate-vibid:4234056238262": 79,
+      "gas:candidate-vibid:4234056225742": 97,
+      "gas:candidate-vibid:4234056238794": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224469&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224469&type=464",
@@ -9391,13 +9391,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 23,
-      "Ерохин Михаил Викторович": 71,
-      "Заруба Ольга Александровна": 49,
-      "Синяговский Владимир Ильич": 582,
-      "Тренин Алексей Николаевич": 65,
-      "Хот Валерий Владимирович": 101,
-      "Штуркин Владимир Николаевич": 35
+      "gas:candidate-vibid:4234056238349": 23,
+      "gas:candidate-vibid:4234056238140": 71,
+      "gas:candidate-vibid:4234056226051": 49,
+      "gas:candidate-vibid:4234056238639": 582,
+      "gas:candidate-vibid:4234056238262": 65,
+      "gas:candidate-vibid:4234056225742": 101,
+      "gas:candidate-vibid:4234056238794": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224469&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224469&type=464",
@@ -9448,13 +9448,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 9,
-      "Ерохин Михаил Викторович": 9,
-      "Заруба Ольга Александровна": 0,
-      "Синяговский Владимир Ильич": 215,
-      "Тренин Алексей Николаевич": 9,
-      "Хот Валерий Владимирович": 17,
-      "Штуркин Владимир Николаевич": 5
+      "gas:candidate-vibid:4234056238349": 9,
+      "gas:candidate-vibid:4234056238140": 9,
+      "gas:candidate-vibid:4234056226051": 0,
+      "gas:candidate-vibid:4234056238639": 215,
+      "gas:candidate-vibid:4234056238262": 9,
+      "gas:candidate-vibid:4234056225742": 17,
+      "gas:candidate-vibid:4234056238794": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224469&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224469&type=464",
@@ -9505,13 +9505,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 3,
-      "Ерохин Михаил Викторович": 15,
-      "Заруба Ольга Александровна": 10,
-      "Синяговский Владимир Ильич": 69,
-      "Тренин Алексей Николаевич": 11,
-      "Хот Валерий Владимирович": 9,
-      "Штуркин Владимир Николаевич": 8
+      "gas:candidate-vibid:4234056238349": 3,
+      "gas:candidate-vibid:4234056238140": 15,
+      "gas:candidate-vibid:4234056226051": 10,
+      "gas:candidate-vibid:4234056238639": 69,
+      "gas:candidate-vibid:4234056238262": 11,
+      "gas:candidate-vibid:4234056225742": 9,
+      "gas:candidate-vibid:4234056238794": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224469&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224469&type=464",
@@ -9562,13 +9562,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 6,
-      "Ерохин Михаил Викторович": 18,
-      "Заруба Ольга Александровна": 18,
-      "Синяговский Владимир Ильич": 860,
-      "Тренин Алексей Николаевич": 32,
-      "Хот Валерий Владимирович": 31,
-      "Штуркин Владимир Николаевич": 8
+      "gas:candidate-vibid:4234056238349": 6,
+      "gas:candidate-vibid:4234056238140": 18,
+      "gas:candidate-vibid:4234056226051": 18,
+      "gas:candidate-vibid:4234056238639": 860,
+      "gas:candidate-vibid:4234056238262": 32,
+      "gas:candidate-vibid:4234056225742": 31,
+      "gas:candidate-vibid:4234056238794": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224469&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224469&type=464",
@@ -9619,13 +9619,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 21,
-      "Ерохин Михаил Викторович": 42,
-      "Заруба Ольга Александровна": 69,
-      "Синяговский Владимир Ильич": 1269,
-      "Тренин Алексей Николаевич": 109,
-      "Хот Валерий Владимирович": 114,
-      "Штуркин Владимир Николаевич": 20
+      "gas:candidate-vibid:4234056238349": 21,
+      "gas:candidate-vibid:4234056238140": 42,
+      "gas:candidate-vibid:4234056226051": 69,
+      "gas:candidate-vibid:4234056238639": 1269,
+      "gas:candidate-vibid:4234056238262": 109,
+      "gas:candidate-vibid:4234056225742": 114,
+      "gas:candidate-vibid:4234056238794": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224469&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224469&type=464",
@@ -9676,13 +9676,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 2,
-      "Ерохин Михаил Викторович": 35,
-      "Заруба Ольга Александровна": 39,
-      "Синяговский Владимир Ильич": 621,
-      "Тренин Алексей Николаевич": 30,
-      "Хот Валерий Владимирович": 36,
-      "Штуркин Владимир Николаевич": 14
+      "gas:candidate-vibid:4234056238349": 2,
+      "gas:candidate-vibid:4234056238140": 35,
+      "gas:candidate-vibid:4234056226051": 39,
+      "gas:candidate-vibid:4234056238639": 621,
+      "gas:candidate-vibid:4234056238262": 30,
+      "gas:candidate-vibid:4234056225742": 36,
+      "gas:candidate-vibid:4234056238794": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224469&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224469&type=464",
@@ -9733,13 +9733,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 3,
-      "Ерохин Михаил Викторович": 16,
-      "Заруба Ольга Александровна": 12,
-      "Синяговский Владимир Ильич": 265,
-      "Тренин Алексей Николаевич": 15,
-      "Хот Валерий Владимирович": 17,
-      "Штуркин Владимир Николаевич": 6
+      "gas:candidate-vibid:4234056238349": 3,
+      "gas:candidate-vibid:4234056238140": 16,
+      "gas:candidate-vibid:4234056226051": 12,
+      "gas:candidate-vibid:4234056238639": 265,
+      "gas:candidate-vibid:4234056238262": 15,
+      "gas:candidate-vibid:4234056225742": 17,
+      "gas:candidate-vibid:4234056238794": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224469&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224469&type=464",
@@ -9790,13 +9790,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 5,
-      "Ерохин Михаил Викторович": 17,
-      "Заруба Ольга Александровна": 16,
-      "Синяговский Владимир Ильич": 346,
-      "Тренин Алексей Николаевич": 49,
-      "Хот Валерий Владимирович": 33,
-      "Штуркин Владимир Николаевич": 8
+      "gas:candidate-vibid:4234056238349": 5,
+      "gas:candidate-vibid:4234056238140": 17,
+      "gas:candidate-vibid:4234056226051": 16,
+      "gas:candidate-vibid:4234056238639": 346,
+      "gas:candidate-vibid:4234056238262": 49,
+      "gas:candidate-vibid:4234056225742": 33,
+      "gas:candidate-vibid:4234056238794": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224469&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224469&type=464",
@@ -9847,13 +9847,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 38,
-      "Ерохин Михаил Викторович": 73,
-      "Заруба Ольга Александровна": 68,
-      "Синяговский Владимир Ильич": 734,
-      "Тренин Алексей Николаевич": 101,
-      "Хот Валерий Владимирович": 112,
-      "Штуркин Владимир Николаевич": 37
+      "gas:candidate-vibid:4234056238349": 38,
+      "gas:candidate-vibid:4234056238140": 73,
+      "gas:candidate-vibid:4234056226051": 68,
+      "gas:candidate-vibid:4234056238639": 734,
+      "gas:candidate-vibid:4234056238262": 101,
+      "gas:candidate-vibid:4234056225742": 112,
+      "gas:candidate-vibid:4234056238794": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224469&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224469&type=464",
@@ -9904,13 +9904,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 35,
-      "Ерохин Михаил Викторович": 62,
-      "Заруба Ольга Александровна": 72,
-      "Синяговский Владимир Ильич": 930,
-      "Тренин Алексей Николаевич": 155,
-      "Хот Валерий Владимирович": 104,
-      "Штуркин Владимир Николаевич": 29
+      "gas:candidate-vibid:4234056238349": 35,
+      "gas:candidate-vibid:4234056238140": 62,
+      "gas:candidate-vibid:4234056226051": 72,
+      "gas:candidate-vibid:4234056238639": 930,
+      "gas:candidate-vibid:4234056238262": 155,
+      "gas:candidate-vibid:4234056225742": 104,
+      "gas:candidate-vibid:4234056238794": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224469&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224469&type=464",
@@ -9961,13 +9961,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 0,
-      "Ерохин Михаил Викторович": 17,
-      "Заруба Ольга Александровна": 14,
-      "Синяговский Владимир Ильич": 328,
-      "Тренин Алексей Николаевич": 17,
-      "Хот Валерий Владимирович": 29,
-      "Штуркин Владимир Николаевич": 0
+      "gas:candidate-vibid:4234056238349": 0,
+      "gas:candidate-vibid:4234056238140": 17,
+      "gas:candidate-vibid:4234056226051": 14,
+      "gas:candidate-vibid:4234056238639": 328,
+      "gas:candidate-vibid:4234056238262": 17,
+      "gas:candidate-vibid:4234056225742": 29,
+      "gas:candidate-vibid:4234056238794": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224469&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224469&type=464",
@@ -10018,13 +10018,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 13,
-      "Ерохин Михаил Викторович": 42,
-      "Заруба Ольга Александровна": 37,
-      "Синяговский Владимир Ильич": 705,
-      "Тренин Алексей Николаевич": 58,
-      "Хот Валерий Владимирович": 52,
-      "Штуркин Владимир Николаевич": 26
+      "gas:candidate-vibid:4234056238349": 13,
+      "gas:candidate-vibid:4234056238140": 42,
+      "gas:candidate-vibid:4234056226051": 37,
+      "gas:candidate-vibid:4234056238639": 705,
+      "gas:candidate-vibid:4234056238262": 58,
+      "gas:candidate-vibid:4234056225742": 52,
+      "gas:candidate-vibid:4234056238794": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224469&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224469&type=464",
@@ -10075,13 +10075,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 15,
-      "Ерохин Михаил Викторович": 59,
-      "Заруба Ольга Александровна": 54,
-      "Синяговский Владимир Ильич": 1054,
-      "Тренин Алексей Николаевич": 66,
-      "Хот Валерий Владимирович": 76,
-      "Штуркин Владимир Николаевич": 31
+      "gas:candidate-vibid:4234056238349": 15,
+      "gas:candidate-vibid:4234056238140": 59,
+      "gas:candidate-vibid:4234056226051": 54,
+      "gas:candidate-vibid:4234056238639": 1054,
+      "gas:candidate-vibid:4234056238262": 66,
+      "gas:candidate-vibid:4234056225742": 76,
+      "gas:candidate-vibid:4234056238794": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224469&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224469&type=464",
@@ -10132,13 +10132,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 21,
-      "Ерохин Михаил Викторович": 24,
-      "Заруба Ольга Александровна": 16,
-      "Синяговский Владимир Ильич": 1463,
-      "Тренин Алексей Николаевич": 124,
-      "Хот Валерий Владимирович": 117,
-      "Штуркин Владимир Николаевич": 97
+      "gas:candidate-vibid:4234056238349": 21,
+      "gas:candidate-vibid:4234056238140": 24,
+      "gas:candidate-vibid:4234056226051": 16,
+      "gas:candidate-vibid:4234056238639": 1463,
+      "gas:candidate-vibid:4234056238262": 124,
+      "gas:candidate-vibid:4234056225742": 117,
+      "gas:candidate-vibid:4234056238794": 97
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224469&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224469&type=464",
@@ -10189,13 +10189,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 29,
-      "Ерохин Михаил Викторович": 79,
-      "Заруба Ольга Александровна": 109,
-      "Синяговский Владимир Ильич": 558,
-      "Тренин Алексей Николаевич": 123,
-      "Хот Валерий Владимирович": 141,
-      "Штуркин Владимир Николаевич": 61
+      "gas:candidate-vibid:4234056238349": 29,
+      "gas:candidate-vibid:4234056238140": 79,
+      "gas:candidate-vibid:4234056226051": 109,
+      "gas:candidate-vibid:4234056238639": 558,
+      "gas:candidate-vibid:4234056238262": 123,
+      "gas:candidate-vibid:4234056225742": 141,
+      "gas:candidate-vibid:4234056238794": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224470&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224470&type=464",
@@ -10246,13 +10246,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 15,
-      "Ерохин Михаил Викторович": 9,
-      "Заруба Ольга Александровна": 72,
-      "Синяговский Владимир Ильич": 389,
-      "Тренин Алексей Николаевич": 30,
-      "Хот Валерий Владимирович": 40,
-      "Штуркин Владимир Николаевич": 5
+      "gas:candidate-vibid:4234056238349": 15,
+      "gas:candidate-vibid:4234056238140": 9,
+      "gas:candidate-vibid:4234056226051": 72,
+      "gas:candidate-vibid:4234056238639": 389,
+      "gas:candidate-vibid:4234056238262": 30,
+      "gas:candidate-vibid:4234056225742": 40,
+      "gas:candidate-vibid:4234056238794": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224470&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224470&type=464",
@@ -10303,13 +10303,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 22,
-      "Ерохин Михаил Викторович": 54,
-      "Заруба Ольга Александровна": 56,
-      "Синяговский Владимир Ильич": 274,
-      "Тренин Алексей Николаевич": 126,
-      "Хот Валерий Владимирович": 106,
-      "Штуркин Владимир Николаевич": 43
+      "gas:candidate-vibid:4234056238349": 22,
+      "gas:candidate-vibid:4234056238140": 54,
+      "gas:candidate-vibid:4234056226051": 56,
+      "gas:candidate-vibid:4234056238639": 274,
+      "gas:candidate-vibid:4234056238262": 126,
+      "gas:candidate-vibid:4234056225742": 106,
+      "gas:candidate-vibid:4234056238794": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224470&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224470&type=464",
@@ -10360,13 +10360,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 8,
-      "Ерохин Михаил Викторович": 37,
-      "Заруба Ольга Александровна": 66,
-      "Синяговский Владимир Ильич": 753,
-      "Тренин Алексей Николаевич": 169,
-      "Хот Валерий Владимирович": 87,
-      "Штуркин Владимир Николаевич": 8
+      "gas:candidate-vibid:4234056238349": 8,
+      "gas:candidate-vibid:4234056238140": 37,
+      "gas:candidate-vibid:4234056226051": 66,
+      "gas:candidate-vibid:4234056238639": 753,
+      "gas:candidate-vibid:4234056238262": 169,
+      "gas:candidate-vibid:4234056225742": 87,
+      "gas:candidate-vibid:4234056238794": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224470&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224470&type=464",
@@ -10417,13 +10417,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 23,
-      "Ерохин Михаил Викторович": 55,
-      "Заруба Ольга Александровна": 87,
-      "Синяговский Владимир Ильич": 244,
-      "Тренин Алексей Николаевич": 97,
-      "Хот Валерий Владимирович": 82,
-      "Штуркин Владимир Николаевич": 30
+      "gas:candidate-vibid:4234056238349": 23,
+      "gas:candidate-vibid:4234056238140": 55,
+      "gas:candidate-vibid:4234056226051": 87,
+      "gas:candidate-vibid:4234056238639": 244,
+      "gas:candidate-vibid:4234056238262": 97,
+      "gas:candidate-vibid:4234056225742": 82,
+      "gas:candidate-vibid:4234056238794": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224470&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224470&type=464",
@@ -10474,13 +10474,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 17,
-      "Ерохин Михаил Викторович": 61,
-      "Заруба Ольга Александровна": 79,
-      "Синяговский Владимир Ильич": 211,
-      "Тренин Алексей Николаевич": 174,
-      "Хот Валерий Владимирович": 111,
-      "Штуркин Владимир Николаевич": 38
+      "gas:candidate-vibid:4234056238349": 17,
+      "gas:candidate-vibid:4234056238140": 61,
+      "gas:candidate-vibid:4234056226051": 79,
+      "gas:candidate-vibid:4234056238639": 211,
+      "gas:candidate-vibid:4234056238262": 174,
+      "gas:candidate-vibid:4234056225742": 111,
+      "gas:candidate-vibid:4234056238794": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224470&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224470&type=464",
@@ -10531,13 +10531,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 40,
-      "Ерохин Михаил Викторович": 107,
-      "Заруба Ольга Александровна": 133,
-      "Синяговский Владимир Ильич": 357,
-      "Тренин Алексей Николаевич": 186,
-      "Хот Валерий Владимирович": 127,
-      "Штуркин Владимир Николаевич": 54
+      "gas:candidate-vibid:4234056238349": 40,
+      "gas:candidate-vibid:4234056238140": 107,
+      "gas:candidate-vibid:4234056226051": 133,
+      "gas:candidate-vibid:4234056238639": 357,
+      "gas:candidate-vibid:4234056238262": 186,
+      "gas:candidate-vibid:4234056225742": 127,
+      "gas:candidate-vibid:4234056238794": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224470&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224470&type=464",
@@ -10588,13 +10588,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 23,
-      "Ерохин Михаил Викторович": 80,
-      "Заруба Ольга Александровна": 78,
-      "Синяговский Владимир Ильич": 335,
-      "Тренин Алексей Николаевич": 134,
-      "Хот Валерий Владимирович": 120,
-      "Штуркин Владимир Николаевич": 47
+      "gas:candidate-vibid:4234056238349": 23,
+      "gas:candidate-vibid:4234056238140": 80,
+      "gas:candidate-vibid:4234056226051": 78,
+      "gas:candidate-vibid:4234056238639": 335,
+      "gas:candidate-vibid:4234056238262": 134,
+      "gas:candidate-vibid:4234056225742": 120,
+      "gas:candidate-vibid:4234056238794": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224470&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224470&type=464",
@@ -10645,13 +10645,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 105,
-      "Ерохин Михаил Викторович": 79,
-      "Заруба Ольга Александровна": 154,
-      "Синяговский Владимир Ильич": 598,
-      "Тренин Алексей Николаевич": 213,
-      "Хот Валерий Владимирович": 163,
-      "Штуркин Владимир Николаевич": 69
+      "gas:candidate-vibid:4234056238349": 105,
+      "gas:candidate-vibid:4234056238140": 79,
+      "gas:candidate-vibid:4234056226051": 154,
+      "gas:candidate-vibid:4234056238639": 598,
+      "gas:candidate-vibid:4234056238262": 213,
+      "gas:candidate-vibid:4234056225742": 163,
+      "gas:candidate-vibid:4234056238794": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224470&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224470&type=464",
@@ -10702,13 +10702,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 38,
-      "Ерохин Михаил Викторович": 100,
-      "Заруба Ольга Александровна": 142,
-      "Синяговский Владимир Ильич": 675,
-      "Тренин Алексей Николаевич": 162,
-      "Хот Валерий Владимирович": 186,
-      "Штуркин Владимир Николаевич": 45
+      "gas:candidate-vibid:4234056238349": 38,
+      "gas:candidate-vibid:4234056238140": 100,
+      "gas:candidate-vibid:4234056226051": 142,
+      "gas:candidate-vibid:4234056238639": 675,
+      "gas:candidate-vibid:4234056238262": 162,
+      "gas:candidate-vibid:4234056225742": 186,
+      "gas:candidate-vibid:4234056238794": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224470&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224470&type=464",
@@ -10759,13 +10759,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 4,
-      "Ерохин Михаил Викторович": 23,
-      "Заруба Ольга Александровна": 31,
-      "Синяговский Владимир Ильич": 160,
-      "Тренин Алексей Николаевич": 47,
-      "Хот Валерий Владимирович": 43,
-      "Штуркин Владимир Николаевич": 9
+      "gas:candidate-vibid:4234056238349": 4,
+      "gas:candidate-vibid:4234056238140": 23,
+      "gas:candidate-vibid:4234056226051": 31,
+      "gas:candidate-vibid:4234056238639": 160,
+      "gas:candidate-vibid:4234056238262": 47,
+      "gas:candidate-vibid:4234056225742": 43,
+      "gas:candidate-vibid:4234056238794": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224470&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224470&type=464",
@@ -10816,13 +10816,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 56,
-      "Ерохин Михаил Викторович": 119,
-      "Заруба Ольга Александровна": 163,
-      "Синяговский Владимир Ильич": 515,
-      "Тренин Алексей Николаевич": 174,
-      "Хот Валерий Владимирович": 182,
-      "Штуркин Владимир Николаевич": 86
+      "gas:candidate-vibid:4234056238349": 56,
+      "gas:candidate-vibid:4234056238140": 119,
+      "gas:candidate-vibid:4234056226051": 163,
+      "gas:candidate-vibid:4234056238639": 515,
+      "gas:candidate-vibid:4234056238262": 174,
+      "gas:candidate-vibid:4234056225742": 182,
+      "gas:candidate-vibid:4234056238794": 86
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224470&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224470&type=464",
@@ -10873,13 +10873,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 24,
-      "Ерохин Михаил Викторович": 102,
-      "Заруба Ольга Александровна": 134,
-      "Синяговский Владимир Ильич": 358,
-      "Тренин Алексей Николаевич": 175,
-      "Хот Валерий Владимирович": 130,
-      "Штуркин Владимир Николаевич": 39
+      "gas:candidate-vibid:4234056238349": 24,
+      "gas:candidate-vibid:4234056238140": 102,
+      "gas:candidate-vibid:4234056226051": 134,
+      "gas:candidate-vibid:4234056238639": 358,
+      "gas:candidate-vibid:4234056238262": 175,
+      "gas:candidate-vibid:4234056225742": 130,
+      "gas:candidate-vibid:4234056238794": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224470&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224470&type=464",
@@ -10930,13 +10930,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 34,
-      "Ерохин Михаил Викторович": 110,
-      "Заруба Ольга Александровна": 109,
-      "Синяговский Владимир Ильич": 534,
-      "Тренин Алексей Николаевич": 130,
-      "Хот Валерий Владимирович": 131,
-      "Штуркин Владимир Николаевич": 64
+      "gas:candidate-vibid:4234056238349": 34,
+      "gas:candidate-vibid:4234056238140": 110,
+      "gas:candidate-vibid:4234056226051": 109,
+      "gas:candidate-vibid:4234056238639": 534,
+      "gas:candidate-vibid:4234056238262": 130,
+      "gas:candidate-vibid:4234056225742": 131,
+      "gas:candidate-vibid:4234056238794": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224470&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224470&type=464",
@@ -10987,13 +10987,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 7,
-      "Ерохин Михаил Викторович": 8,
-      "Заруба Ольга Александровна": 8,
-      "Синяговский Владимир Ильич": 43,
-      "Тренин Алексей Николаевич": 4,
-      "Хот Валерий Владимирович": 8,
-      "Штуркин Владимир Николаевич": 3
+      "gas:candidate-vibid:4234056238349": 7,
+      "gas:candidate-vibid:4234056238140": 8,
+      "gas:candidate-vibid:4234056226051": 8,
+      "gas:candidate-vibid:4234056238639": 43,
+      "gas:candidate-vibid:4234056238262": 4,
+      "gas:candidate-vibid:4234056225742": 8,
+      "gas:candidate-vibid:4234056238794": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224470&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224470&type=464",
@@ -11044,13 +11044,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 8,
-      "Ерохин Михаил Викторович": 15,
-      "Заруба Ольга Александровна": 25,
-      "Синяговский Владимир Ильич": 180,
-      "Тренин Алексей Николаевич": 52,
-      "Хот Валерий Владимирович": 34,
-      "Штуркин Владимир Николаевич": 13
+      "gas:candidate-vibid:4234056238349": 8,
+      "gas:candidate-vibid:4234056238140": 15,
+      "gas:candidate-vibid:4234056226051": 25,
+      "gas:candidate-vibid:4234056238639": 180,
+      "gas:candidate-vibid:4234056238262": 52,
+      "gas:candidate-vibid:4234056225742": 34,
+      "gas:candidate-vibid:4234056238794": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224470&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224470&type=464",
@@ -11101,13 +11101,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 0,
-      "Ерохин Михаил Викторович": 5,
-      "Заруба Ольга Александровна": 3,
-      "Синяговский Владимир Ильич": 41,
-      "Тренин Алексей Николаевич": 7,
-      "Хот Валерий Владимирович": 5,
-      "Штуркин Владимир Николаевич": 2
+      "gas:candidate-vibid:4234056238349": 0,
+      "gas:candidate-vibid:4234056238140": 5,
+      "gas:candidate-vibid:4234056226051": 3,
+      "gas:candidate-vibid:4234056238639": 41,
+      "gas:candidate-vibid:4234056238262": 7,
+      "gas:candidate-vibid:4234056225742": 5,
+      "gas:candidate-vibid:4234056238794": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224470&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224470&type=464",
@@ -11158,13 +11158,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 18,
-      "Ерохин Михаил Викторович": 10,
-      "Заруба Ольга Александровна": 50,
-      "Синяговский Владимир Ильич": 87,
-      "Тренин Алексей Николаевич": 24,
-      "Хот Валерий Владимирович": 13,
-      "Штуркин Владимир Николаевич": 5
+      "gas:candidate-vibid:4234056238349": 18,
+      "gas:candidate-vibid:4234056238140": 10,
+      "gas:candidate-vibid:4234056226051": 50,
+      "gas:candidate-vibid:4234056238639": 87,
+      "gas:candidate-vibid:4234056238262": 24,
+      "gas:candidate-vibid:4234056225742": 13,
+      "gas:candidate-vibid:4234056238794": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224470&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224470&type=464",
@@ -11215,13 +11215,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 9,
-      "Ерохин Михаил Викторович": 12,
-      "Заруба Ольга Александровна": 27,
-      "Синяговский Владимир Ильич": 116,
-      "Тренин Алексей Николаевич": 72,
-      "Хот Валерий Владимирович": 27,
-      "Штуркин Владимир Николаевич": 6
+      "gas:candidate-vibid:4234056238349": 9,
+      "gas:candidate-vibid:4234056238140": 12,
+      "gas:candidate-vibid:4234056226051": 27,
+      "gas:candidate-vibid:4234056238639": 116,
+      "gas:candidate-vibid:4234056238262": 72,
+      "gas:candidate-vibid:4234056225742": 27,
+      "gas:candidate-vibid:4234056238794": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224470&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224470&type=464",
@@ -11272,13 +11272,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 9,
-      "Ерохин Михаил Викторович": 11,
-      "Заруба Ольга Александровна": 19,
-      "Синяговский Владимир Ильич": 98,
-      "Тренин Алексей Николаевич": 30,
-      "Хот Валерий Владимирович": 21,
-      "Штуркин Владимир Николаевич": 5
+      "gas:candidate-vibid:4234056238349": 9,
+      "gas:candidate-vibid:4234056238140": 11,
+      "gas:candidate-vibid:4234056226051": 19,
+      "gas:candidate-vibid:4234056238639": 98,
+      "gas:candidate-vibid:4234056238262": 30,
+      "gas:candidate-vibid:4234056225742": 21,
+      "gas:candidate-vibid:4234056238794": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224470&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224470&type=464",
@@ -11329,13 +11329,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 29,
-      "Ерохин Михаил Викторович": 44,
-      "Заруба Ольга Александровна": 46,
-      "Синяговский Владимир Ильич": 533,
-      "Тренин Алексей Николаевич": 80,
-      "Хот Валерий Владимирович": 108,
-      "Штуркин Владимир Николаевич": 27
+      "gas:candidate-vibid:4234056238349": 29,
+      "gas:candidate-vibid:4234056238140": 44,
+      "gas:candidate-vibid:4234056226051": 46,
+      "gas:candidate-vibid:4234056238639": 533,
+      "gas:candidate-vibid:4234056238262": 80,
+      "gas:candidate-vibid:4234056225742": 108,
+      "gas:candidate-vibid:4234056238794": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224470&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224470&type=464",
@@ -11386,13 +11386,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 31,
-      "Ерохин Михаил Викторович": 44,
-      "Заруба Ольга Александровна": 94,
-      "Синяговский Владимир Ильич": 270,
-      "Тренин Алексей Николаевич": 77,
-      "Хот Валерий Владимирович": 51,
-      "Штуркин Владимир Николаевич": 10
+      "gas:candidate-vibid:4234056238349": 31,
+      "gas:candidate-vibid:4234056238140": 44,
+      "gas:candidate-vibid:4234056226051": 94,
+      "gas:candidate-vibid:4234056238639": 270,
+      "gas:candidate-vibid:4234056238262": 77,
+      "gas:candidate-vibid:4234056225742": 51,
+      "gas:candidate-vibid:4234056238794": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224470&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224470&type=464",
@@ -11443,13 +11443,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 19,
-      "Ерохин Михаил Викторович": 47,
-      "Заруба Ольга Александровна": 56,
-      "Синяговский Владимир Ильич": 601,
-      "Тренин Алексей Николаевич": 65,
-      "Хот Валерий Владимирович": 89,
-      "Штуркин Владимир Николаевич": 26
+      "gas:candidate-vibid:4234056238349": 19,
+      "gas:candidate-vibid:4234056238140": 47,
+      "gas:candidate-vibid:4234056226051": 56,
+      "gas:candidate-vibid:4234056238639": 601,
+      "gas:candidate-vibid:4234056238262": 65,
+      "gas:candidate-vibid:4234056225742": 89,
+      "gas:candidate-vibid:4234056238794": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224470&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224470&type=464",
@@ -11500,13 +11500,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 16,
-      "Ерохин Михаил Викторович": 35,
-      "Заруба Ольга Александровна": 66,
-      "Синяговский Владимир Ильич": 511,
-      "Тренин Алексей Николаевич": 72,
-      "Хот Валерий Владимирович": 82,
-      "Штуркин Владимир Николаевич": 22
+      "gas:candidate-vibid:4234056238349": 16,
+      "gas:candidate-vibid:4234056238140": 35,
+      "gas:candidate-vibid:4234056226051": 66,
+      "gas:candidate-vibid:4234056238639": 511,
+      "gas:candidate-vibid:4234056238262": 72,
+      "gas:candidate-vibid:4234056225742": 82,
+      "gas:candidate-vibid:4234056238794": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224470&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224470&type=464",
@@ -11557,13 +11557,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 19,
-      "Ерохин Михаил Викторович": 52,
-      "Заруба Ольга Александровна": 44,
-      "Синяговский Владимир Ильич": 770,
-      "Тренин Алексей Николаевич": 182,
-      "Хот Валерий Владимирович": 115,
-      "Штуркин Владимир Николаевич": 31
+      "gas:candidate-vibid:4234056238349": 19,
+      "gas:candidate-vibid:4234056238140": 52,
+      "gas:candidate-vibid:4234056226051": 44,
+      "gas:candidate-vibid:4234056238639": 770,
+      "gas:candidate-vibid:4234056238262": 182,
+      "gas:candidate-vibid:4234056225742": 115,
+      "gas:candidate-vibid:4234056238794": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224470&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224470&type=464",
@@ -11614,13 +11614,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 12,
-      "Ерохин Михаил Викторович": 44,
-      "Заруба Ольга Александровна": 75,
-      "Синяговский Владимир Ильич": 314,
-      "Тренин Алексей Николаевич": 64,
-      "Хот Валерий Владимирович": 50,
-      "Штуркин Владимир Николаевич": 11
+      "gas:candidate-vibid:4234056238349": 12,
+      "gas:candidate-vibid:4234056238140": 44,
+      "gas:candidate-vibid:4234056226051": 75,
+      "gas:candidate-vibid:4234056238639": 314,
+      "gas:candidate-vibid:4234056238262": 64,
+      "gas:candidate-vibid:4234056225742": 50,
+      "gas:candidate-vibid:4234056238794": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224470&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224470&type=464",
@@ -11671,13 +11671,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 30,
-      "Ерохин Михаил Викторович": 66,
-      "Заруба Ольга Александровна": 93,
-      "Синяговский Владимир Ильич": 495,
-      "Тренин Алексей Николаевич": 67,
-      "Хот Валерий Владимирович": 107,
-      "Штуркин Владимир Николаевич": 33
+      "gas:candidate-vibid:4234056238349": 30,
+      "gas:candidate-vibid:4234056238140": 66,
+      "gas:candidate-vibid:4234056226051": 93,
+      "gas:candidate-vibid:4234056238639": 495,
+      "gas:candidate-vibid:4234056238262": 67,
+      "gas:candidate-vibid:4234056225742": 107,
+      "gas:candidate-vibid:4234056238794": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224470&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224470&type=464",
@@ -11728,13 +11728,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 10,
-      "Ерохин Михаил Викторович": 28,
-      "Заруба Ольга Александровна": 52,
-      "Синяговский Владимир Ильич": 374,
-      "Тренин Алексей Николаевич": 55,
-      "Хот Валерий Владимирович": 47,
-      "Штуркин Владимир Николаевич": 11
+      "gas:candidate-vibid:4234056238349": 10,
+      "gas:candidate-vibid:4234056238140": 28,
+      "gas:candidate-vibid:4234056226051": 52,
+      "gas:candidate-vibid:4234056238639": 374,
+      "gas:candidate-vibid:4234056238262": 55,
+      "gas:candidate-vibid:4234056225742": 47,
+      "gas:candidate-vibid:4234056238794": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224470&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224470&type=464",
@@ -11785,13 +11785,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 5,
-      "Ерохин Михаил Викторович": 25,
-      "Заруба Ольга Александровна": 28,
-      "Синяговский Владимир Ильич": 245,
-      "Тренин Алексей Николаевич": 17,
-      "Хот Валерий Владимирович": 33,
-      "Штуркин Владимир Николаевич": 7
+      "gas:candidate-vibid:4234056238349": 5,
+      "gas:candidate-vibid:4234056238140": 25,
+      "gas:candidate-vibid:4234056226051": 28,
+      "gas:candidate-vibid:4234056238639": 245,
+      "gas:candidate-vibid:4234056238262": 17,
+      "gas:candidate-vibid:4234056225742": 33,
+      "gas:candidate-vibid:4234056238794": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224470&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224470&type=464",
@@ -11842,13 +11842,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 15,
-      "Ерохин Михаил Викторович": 35,
-      "Заруба Ольга Александровна": 72,
-      "Синяговский Владимир Ильич": 251,
-      "Тренин Алексей Николаевич": 52,
-      "Хот Валерий Владимирович": 58,
-      "Штуркин Владимир Николаевич": 11
+      "gas:candidate-vibid:4234056238349": 15,
+      "gas:candidate-vibid:4234056238140": 35,
+      "gas:candidate-vibid:4234056226051": 72,
+      "gas:candidate-vibid:4234056238639": 251,
+      "gas:candidate-vibid:4234056238262": 52,
+      "gas:candidate-vibid:4234056225742": 58,
+      "gas:candidate-vibid:4234056238794": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224470&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224470&type=464",
@@ -11899,13 +11899,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 31,
-      "Ерохин Михаил Викторович": 72,
-      "Заруба Ольга Александровна": 149,
-      "Синяговский Владимир Ильич": 508,
-      "Тренин Алексей Николаевич": 117,
-      "Хот Валерий Владимирович": 183,
-      "Штуркин Владимир Николаевич": 38
+      "gas:candidate-vibid:4234056238349": 31,
+      "gas:candidate-vibid:4234056238140": 72,
+      "gas:candidate-vibid:4234056226051": 149,
+      "gas:candidate-vibid:4234056238639": 508,
+      "gas:candidate-vibid:4234056238262": 117,
+      "gas:candidate-vibid:4234056225742": 183,
+      "gas:candidate-vibid:4234056238794": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224470&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224470&type=464",
@@ -11956,13 +11956,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 7,
-      "Ерохин Михаил Викторович": 12,
-      "Заруба Ольга Александровна": 15,
-      "Синяговский Владимир Ильич": 32,
-      "Тренин Алексей Николаевич": 18,
-      "Хот Валерий Владимирович": 17,
-      "Штуркин Владимир Николаевич": 1
+      "gas:candidate-vibid:4234056238349": 7,
+      "gas:candidate-vibid:4234056238140": 12,
+      "gas:candidate-vibid:4234056226051": 15,
+      "gas:candidate-vibid:4234056238639": 32,
+      "gas:candidate-vibid:4234056238262": 18,
+      "gas:candidate-vibid:4234056225742": 17,
+      "gas:candidate-vibid:4234056238794": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224470&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224470&type=464",
@@ -12013,13 +12013,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 5,
-      "Ерохин Михаил Викторович": 10,
-      "Заруба Ольга Александровна": 13,
-      "Синяговский Владимир Ильич": 67,
-      "Тренин Алексей Николаевич": 7,
-      "Хот Валерий Владимирович": 9,
-      "Штуркин Владимир Николаевич": 4
+      "gas:candidate-vibid:4234056238349": 5,
+      "gas:candidate-vibid:4234056238140": 10,
+      "gas:candidate-vibid:4234056226051": 13,
+      "gas:candidate-vibid:4234056238639": 67,
+      "gas:candidate-vibid:4234056238262": 7,
+      "gas:candidate-vibid:4234056225742": 9,
+      "gas:candidate-vibid:4234056238794": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224470&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224470&type=464",
@@ -12070,13 +12070,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 2,
-      "Ерохин Михаил Викторович": 4,
-      "Заруба Ольга Александровна": 18,
-      "Синяговский Владимир Ильич": 44,
-      "Тренин Алексей Николаевич": 8,
-      "Хот Валерий Владимирович": 14,
-      "Штуркин Владимир Николаевич": 7
+      "gas:candidate-vibid:4234056238349": 2,
+      "gas:candidate-vibid:4234056238140": 4,
+      "gas:candidate-vibid:4234056226051": 18,
+      "gas:candidate-vibid:4234056238639": 44,
+      "gas:candidate-vibid:4234056238262": 8,
+      "gas:candidate-vibid:4234056225742": 14,
+      "gas:candidate-vibid:4234056238794": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224470&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224470&type=464",
@@ -12127,13 +12127,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 5,
-      "Ерохин Михаил Викторович": 13,
-      "Заруба Ольга Александровна": 17,
-      "Синяговский Владимир Ильич": 91,
-      "Тренин Алексей Николаевич": 12,
-      "Хот Валерий Владимирович": 27,
-      "Штуркин Владимир Николаевич": 2
+      "gas:candidate-vibid:4234056238349": 5,
+      "gas:candidate-vibid:4234056238140": 13,
+      "gas:candidate-vibid:4234056226051": 17,
+      "gas:candidate-vibid:4234056238639": 91,
+      "gas:candidate-vibid:4234056238262": 12,
+      "gas:candidate-vibid:4234056225742": 27,
+      "gas:candidate-vibid:4234056238794": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224470&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224470&type=464",
@@ -12184,13 +12184,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 95,
-      "Ерохин Михаил Викторович": 202,
-      "Заруба Ольга Александровна": 311,
-      "Синяговский Владимир Ильич": 992,
-      "Тренин Алексей Николаевич": 106,
-      "Хот Валерий Владимирович": 172,
-      "Штуркин Владимир Николаевич": 78
+      "gas:candidate-vibid:4234056238349": 95,
+      "gas:candidate-vibid:4234056238140": 202,
+      "gas:candidate-vibid:4234056226051": 311,
+      "gas:candidate-vibid:4234056238639": 992,
+      "gas:candidate-vibid:4234056238262": 106,
+      "gas:candidate-vibid:4234056225742": 172,
+      "gas:candidate-vibid:4234056238794": 78
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224470&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224470&type=464",
@@ -12241,13 +12241,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 22,
-      "Ерохин Михаил Викторович": 76,
-      "Заруба Ольга Александровна": 61,
-      "Синяговский Владимир Ильич": 933,
-      "Тренин Алексей Николаевич": 98,
-      "Хот Валерий Владимирович": 65,
-      "Штуркин Владимир Николаевич": 31
+      "gas:candidate-vibid:4234056238349": 22,
+      "gas:candidate-vibid:4234056238140": 76,
+      "gas:candidate-vibid:4234056226051": 61,
+      "gas:candidate-vibid:4234056238639": 933,
+      "gas:candidate-vibid:4234056238262": 98,
+      "gas:candidate-vibid:4234056225742": 65,
+      "gas:candidate-vibid:4234056238794": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224471&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224471&type=464",
@@ -12298,13 +12298,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 14,
-      "Ерохин Михаил Викторович": 67,
-      "Заруба Ольга Александровна": 3,
-      "Синяговский Владимир Ильич": 790,
-      "Тренин Алексей Николаевич": 71,
-      "Хот Валерий Владимирович": 69,
-      "Штуркин Владимир Николаевич": 17
+      "gas:candidate-vibid:4234056238349": 14,
+      "gas:candidate-vibid:4234056238140": 67,
+      "gas:candidate-vibid:4234056226051": 3,
+      "gas:candidate-vibid:4234056238639": 790,
+      "gas:candidate-vibid:4234056238262": 71,
+      "gas:candidate-vibid:4234056225742": 69,
+      "gas:candidate-vibid:4234056238794": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224471&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224471&type=464",
@@ -12355,13 +12355,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 17,
-      "Ерохин Михаил Викторович": 67,
-      "Заруба Ольга Александровна": 30,
-      "Синяговский Владимир Ильич": 518,
-      "Тренин Алексей Николаевич": 39,
-      "Хот Валерий Владимирович": 49,
-      "Штуркин Владимир Николаевич": 20
+      "gas:candidate-vibid:4234056238349": 17,
+      "gas:candidate-vibid:4234056238140": 67,
+      "gas:candidate-vibid:4234056226051": 30,
+      "gas:candidate-vibid:4234056238639": 518,
+      "gas:candidate-vibid:4234056238262": 39,
+      "gas:candidate-vibid:4234056225742": 49,
+      "gas:candidate-vibid:4234056238794": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224471&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224471&type=464",
@@ -12412,13 +12412,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 12,
-      "Ерохин Михаил Викторович": 58,
-      "Заруба Ольга Александровна": 42,
-      "Синяговский Владимир Ильич": 578,
-      "Тренин Алексей Николаевич": 46,
-      "Хот Валерий Владимирович": 81,
-      "Штуркин Владимир Николаевич": 25
+      "gas:candidate-vibid:4234056238349": 12,
+      "gas:candidate-vibid:4234056238140": 58,
+      "gas:candidate-vibid:4234056226051": 42,
+      "gas:candidate-vibid:4234056238639": 578,
+      "gas:candidate-vibid:4234056238262": 46,
+      "gas:candidate-vibid:4234056225742": 81,
+      "gas:candidate-vibid:4234056238794": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224471&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224471&type=464",
@@ -12469,13 +12469,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 14,
-      "Ерохин Михаил Викторович": 52,
-      "Заруба Ольга Александровна": 41,
-      "Синяговский Владимир Ильич": 934,
-      "Тренин Алексей Николаевич": 74,
-      "Хот Валерий Владимирович": 61,
-      "Штуркин Владимир Николаевич": 14
+      "gas:candidate-vibid:4234056238349": 14,
+      "gas:candidate-vibid:4234056238140": 52,
+      "gas:candidate-vibid:4234056226051": 41,
+      "gas:candidate-vibid:4234056238639": 934,
+      "gas:candidate-vibid:4234056238262": 74,
+      "gas:candidate-vibid:4234056225742": 61,
+      "gas:candidate-vibid:4234056238794": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224471&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224471&type=464",
@@ -12526,13 +12526,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 13,
-      "Ерохин Михаил Викторович": 58,
-      "Заруба Ольга Александровна": 25,
-      "Синяговский Владимир Ильич": 363,
-      "Тренин Алексей Николаевич": 33,
-      "Хот Валерий Владимирович": 58,
-      "Штуркин Владимир Николаевич": 12
+      "gas:candidate-vibid:4234056238349": 13,
+      "gas:candidate-vibid:4234056238140": 58,
+      "gas:candidate-vibid:4234056226051": 25,
+      "gas:candidate-vibid:4234056238639": 363,
+      "gas:candidate-vibid:4234056238262": 33,
+      "gas:candidate-vibid:4234056225742": 58,
+      "gas:candidate-vibid:4234056238794": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224471&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224471&type=464",
@@ -12583,13 +12583,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 3,
-      "Ерохин Михаил Викторович": 38,
-      "Заруба Ольга Александровна": 2,
-      "Синяговский Владимир Ильич": 513,
-      "Тренин Алексей Николаевич": 76,
-      "Хот Валерий Владимирович": 64,
-      "Штуркин Владимир Николаевич": 7
+      "gas:candidate-vibid:4234056238349": 3,
+      "gas:candidate-vibid:4234056238140": 38,
+      "gas:candidate-vibid:4234056226051": 2,
+      "gas:candidate-vibid:4234056238639": 513,
+      "gas:candidate-vibid:4234056238262": 76,
+      "gas:candidate-vibid:4234056225742": 64,
+      "gas:candidate-vibid:4234056238794": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224471&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224471&type=464",
@@ -12640,13 +12640,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 5,
-      "Ерохин Михаил Викторович": 4,
-      "Заруба Ольга Александровна": 4,
-      "Синяговский Владимир Ильич": 1791,
-      "Тренин Алексей Николаевич": 271,
-      "Хот Валерий Владимирович": 5,
-      "Штуркин Владимир Николаевич": 3
+      "gas:candidate-vibid:4234056238349": 5,
+      "gas:candidate-vibid:4234056238140": 4,
+      "gas:candidate-vibid:4234056226051": 4,
+      "gas:candidate-vibid:4234056238639": 1791,
+      "gas:candidate-vibid:4234056238262": 271,
+      "gas:candidate-vibid:4234056225742": 5,
+      "gas:candidate-vibid:4234056238794": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224471&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224471&type=464",
@@ -12697,13 +12697,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 1,
-      "Ерохин Михаил Викторович": 7,
-      "Заруба Ольга Александровна": 4,
-      "Синяговский Владимир Ильич": 1550,
-      "Тренин Алексей Николаевич": 212,
-      "Хот Валерий Владимирович": 2,
-      "Штуркин Владимир Николаевич": 2
+      "gas:candidate-vibid:4234056238349": 1,
+      "gas:candidate-vibid:4234056238140": 7,
+      "gas:candidate-vibid:4234056226051": 4,
+      "gas:candidate-vibid:4234056238639": 1550,
+      "gas:candidate-vibid:4234056238262": 212,
+      "gas:candidate-vibid:4234056225742": 2,
+      "gas:candidate-vibid:4234056238794": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224471&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224471&type=464",
@@ -12754,13 +12754,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 5,
-      "Ерохин Михаил Викторович": 4,
-      "Заруба Ольга Александровна": 3,
-      "Синяговский Владимир Ильич": 1278,
-      "Тренин Алексей Николаевич": 115,
-      "Хот Валерий Владимирович": 11,
-      "Штуркин Владимир Николаевич": 3
+      "gas:candidate-vibid:4234056238349": 5,
+      "gas:candidate-vibid:4234056238140": 4,
+      "gas:candidate-vibid:4234056226051": 3,
+      "gas:candidate-vibid:4234056238639": 1278,
+      "gas:candidate-vibid:4234056238262": 115,
+      "gas:candidate-vibid:4234056225742": 11,
+      "gas:candidate-vibid:4234056238794": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224471&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224471&type=464",
@@ -12811,13 +12811,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 10,
-      "Ерохин Михаил Викторович": 20,
-      "Заруба Ольга Александровна": 30,
-      "Синяговский Владимир Ильич": 393,
-      "Тренин Алексей Николаевич": 34,
-      "Хот Валерий Владимирович": 41,
-      "Штуркин Владимир Николаевич": 8
+      "gas:candidate-vibid:4234056238349": 10,
+      "gas:candidate-vibid:4234056238140": 20,
+      "gas:candidate-vibid:4234056226051": 30,
+      "gas:candidate-vibid:4234056238639": 393,
+      "gas:candidate-vibid:4234056238262": 34,
+      "gas:candidate-vibid:4234056225742": 41,
+      "gas:candidate-vibid:4234056238794": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224471&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224471&type=464",
@@ -12868,13 +12868,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 36,
-      "Ерохин Михаил Викторович": 99,
-      "Заруба Ольга Александровна": 78,
-      "Синяговский Владимир Ильич": 835,
-      "Тренин Алексей Николаевич": 91,
-      "Хот Валерий Владимирович": 96,
-      "Штуркин Владимир Николаевич": 29
+      "gas:candidate-vibid:4234056238349": 36,
+      "gas:candidate-vibid:4234056238140": 99,
+      "gas:candidate-vibid:4234056226051": 78,
+      "gas:candidate-vibid:4234056238639": 835,
+      "gas:candidate-vibid:4234056238262": 91,
+      "gas:candidate-vibid:4234056225742": 96,
+      "gas:candidate-vibid:4234056238794": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224471&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224471&type=464",
@@ -12925,13 +12925,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 19,
-      "Ерохин Михаил Викторович": 52,
-      "Заруба Ольга Александровна": 77,
-      "Синяговский Владимир Ильич": 895,
-      "Тренин Алексей Николаевич": 67,
-      "Хот Валерий Владимирович": 55,
-      "Штуркин Владимир Николаевич": 32
+      "gas:candidate-vibid:4234056238349": 19,
+      "gas:candidate-vibid:4234056238140": 52,
+      "gas:candidate-vibid:4234056226051": 77,
+      "gas:candidate-vibid:4234056238639": 895,
+      "gas:candidate-vibid:4234056238262": 67,
+      "gas:candidate-vibid:4234056225742": 55,
+      "gas:candidate-vibid:4234056238794": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224471&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224471&type=464",
@@ -12982,13 +12982,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 11,
-      "Ерохин Михаил Викторович": 37,
-      "Заруба Ольга Александровна": 26,
-      "Синяговский Владимир Ильич": 665,
-      "Тренин Алексей Николаевич": 41,
-      "Хот Валерий Владимирович": 44,
-      "Штуркин Владимир Николаевич": 14
+      "gas:candidate-vibid:4234056238349": 11,
+      "gas:candidate-vibid:4234056238140": 37,
+      "gas:candidate-vibid:4234056226051": 26,
+      "gas:candidate-vibid:4234056238639": 665,
+      "gas:candidate-vibid:4234056238262": 41,
+      "gas:candidate-vibid:4234056225742": 44,
+      "gas:candidate-vibid:4234056238794": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224471&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224471&type=464",
@@ -13039,13 +13039,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 7,
-      "Ерохин Михаил Викторович": 53,
-      "Заруба Ольга Александровна": 23,
-      "Синяговский Владимир Ильич": 372,
-      "Тренин Алексей Николаевич": 204,
-      "Хот Валерий Владимирович": 46,
-      "Штуркин Владимир Николаевич": 10
+      "gas:candidate-vibid:4234056238349": 7,
+      "gas:candidate-vibid:4234056238140": 53,
+      "gas:candidate-vibid:4234056226051": 23,
+      "gas:candidate-vibid:4234056238639": 372,
+      "gas:candidate-vibid:4234056238262": 204,
+      "gas:candidate-vibid:4234056225742": 46,
+      "gas:candidate-vibid:4234056238794": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224471&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224471&type=464",
@@ -13096,13 +13096,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 5,
-      "Ерохин Михаил Викторович": 44,
-      "Заруба Ольга Александровна": 18,
-      "Синяговский Владимир Ильич": 1130,
-      "Тренин Алексей Николаевич": 40,
-      "Хот Валерий Владимирович": 71,
-      "Штуркин Владимир Николаевич": 19
+      "gas:candidate-vibid:4234056238349": 5,
+      "gas:candidate-vibid:4234056238140": 44,
+      "gas:candidate-vibid:4234056226051": 18,
+      "gas:candidate-vibid:4234056238639": 1130,
+      "gas:candidate-vibid:4234056238262": 40,
+      "gas:candidate-vibid:4234056225742": 71,
+      "gas:candidate-vibid:4234056238794": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224471&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224471&type=464",
@@ -13153,13 +13153,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 2,
-      "Ерохин Михаил Викторович": 7,
-      "Заруба Ольга Александровна": 5,
-      "Синяговский Владимир Ильич": 58,
-      "Тренин Алексей Николаевич": 4,
-      "Хот Валерий Владимирович": 8,
-      "Штуркин Владимир Николаевич": 6
+      "gas:candidate-vibid:4234056238349": 2,
+      "gas:candidate-vibid:4234056238140": 7,
+      "gas:candidate-vibid:4234056226051": 5,
+      "gas:candidate-vibid:4234056238639": 58,
+      "gas:candidate-vibid:4234056238262": 4,
+      "gas:candidate-vibid:4234056225742": 8,
+      "gas:candidate-vibid:4234056238794": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224471&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224471&type=464",
@@ -13210,13 +13210,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 11,
-      "Ерохин Михаил Викторович": 99,
-      "Заруба Ольга Александровна": 6,
-      "Синяговский Владимир Ильич": 1334,
-      "Тренин Алексей Николаевич": 247,
-      "Хот Валерий Владимирович": 12,
-      "Штуркин Владимир Николаевич": 7
+      "gas:candidate-vibid:4234056238349": 11,
+      "gas:candidate-vibid:4234056238140": 99,
+      "gas:candidate-vibid:4234056226051": 6,
+      "gas:candidate-vibid:4234056238639": 1334,
+      "gas:candidate-vibid:4234056238262": 247,
+      "gas:candidate-vibid:4234056225742": 12,
+      "gas:candidate-vibid:4234056238794": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224473&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224473&type=464",
@@ -13267,13 +13267,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 0,
-      "Ерохин Михаил Викторович": 57,
-      "Заруба Ольга Александровна": 0,
-      "Синяговский Владимир Ильич": 695,
-      "Тренин Алексей Николаевич": 145,
-      "Хот Валерий Владимирович": 68,
-      "Штуркин Владимир Николаевич": 0
+      "gas:candidate-vibid:4234056238349": 0,
+      "gas:candidate-vibid:4234056238140": 57,
+      "gas:candidate-vibid:4234056226051": 0,
+      "gas:candidate-vibid:4234056238639": 695,
+      "gas:candidate-vibid:4234056238262": 145,
+      "gas:candidate-vibid:4234056225742": 68,
+      "gas:candidate-vibid:4234056238794": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224473&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224473&type=464",
@@ -13324,13 +13324,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 14,
-      "Ерохин Михаил Викторович": 50,
-      "Заруба Ольга Александровна": 51,
-      "Синяговский Владимир Ильич": 420,
-      "Тренин Алексей Николаевич": 46,
-      "Хот Валерий Владимирович": 49,
-      "Штуркин Владимир Николаевич": 20
+      "gas:candidate-vibid:4234056238349": 14,
+      "gas:candidate-vibid:4234056238140": 50,
+      "gas:candidate-vibid:4234056226051": 51,
+      "gas:candidate-vibid:4234056238639": 420,
+      "gas:candidate-vibid:4234056238262": 46,
+      "gas:candidate-vibid:4234056225742": 49,
+      "gas:candidate-vibid:4234056238794": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224473&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224473&type=464",
@@ -13381,13 +13381,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 88,
-      "Ерохин Михаил Викторович": 135,
-      "Заруба Ольга Александровна": 131,
-      "Синяговский Владимир Ильич": 448,
-      "Тренин Алексей Николаевич": 77,
-      "Хот Валерий Владимирович": 116,
-      "Штуркин Владимир Николаевич": 33
+      "gas:candidate-vibid:4234056238349": 88,
+      "gas:candidate-vibid:4234056238140": 135,
+      "gas:candidate-vibid:4234056226051": 131,
+      "gas:candidate-vibid:4234056238639": 448,
+      "gas:candidate-vibid:4234056238262": 77,
+      "gas:candidate-vibid:4234056225742": 116,
+      "gas:candidate-vibid:4234056238794": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224473&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224473&type=464",
@@ -13438,13 +13438,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 0,
-      "Ерохин Михаил Викторович": 66,
-      "Заруба Ольга Александровна": 0,
-      "Синяговский Владимир Ильич": 785,
-      "Тренин Алексей Николаевич": 165,
-      "Хот Валерий Владимирович": 89,
-      "Штуркин Владимир Николаевич": 0
+      "gas:candidate-vibid:4234056238349": 0,
+      "gas:candidate-vibid:4234056238140": 66,
+      "gas:candidate-vibid:4234056226051": 0,
+      "gas:candidate-vibid:4234056238639": 785,
+      "gas:candidate-vibid:4234056238262": 165,
+      "gas:candidate-vibid:4234056225742": 89,
+      "gas:candidate-vibid:4234056238794": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224473&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224473&type=464",
@@ -13495,13 +13495,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 0,
-      "Ерохин Михаил Викторович": 86,
-      "Заруба Ольга Александровна": 0,
-      "Синяговский Владимир Ильич": 656,
-      "Тренин Алексей Николаевич": 144,
-      "Хот Валерий Владимирович": 38,
-      "Штуркин Владимир Николаевич": 0
+      "gas:candidate-vibid:4234056238349": 0,
+      "gas:candidate-vibid:4234056238140": 86,
+      "gas:candidate-vibid:4234056226051": 0,
+      "gas:candidate-vibid:4234056238639": 656,
+      "gas:candidate-vibid:4234056238262": 144,
+      "gas:candidate-vibid:4234056225742": 38,
+      "gas:candidate-vibid:4234056238794": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224473&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224473&type=464",
@@ -13552,13 +13552,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 2,
-      "Ерохин Михаил Викторович": 9,
-      "Заруба Ольга Александровна": 12,
-      "Синяговский Владимир Ильич": 846,
-      "Тренин Алексей Николаевич": 153,
-      "Хот Валерий Владимирович": 59,
-      "Штуркин Владимир Николаевич": 7
+      "gas:candidate-vibid:4234056238349": 2,
+      "gas:candidate-vibid:4234056238140": 9,
+      "gas:candidate-vibid:4234056226051": 12,
+      "gas:candidate-vibid:4234056238639": 846,
+      "gas:candidate-vibid:4234056238262": 153,
+      "gas:candidate-vibid:4234056225742": 59,
+      "gas:candidate-vibid:4234056238794": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224473&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224473&type=464",
@@ -13609,13 +13609,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 17,
-      "Ерохин Михаил Викторович": 46,
-      "Заруба Ольга Александровна": 31,
-      "Синяговский Владимир Ильич": 250,
-      "Тренин Алексей Николаевич": 42,
-      "Хот Валерий Владимирович": 51,
-      "Штуркин Владимир Николаевич": 22
+      "gas:candidate-vibid:4234056238349": 17,
+      "gas:candidate-vibid:4234056238140": 46,
+      "gas:candidate-vibid:4234056226051": 31,
+      "gas:candidate-vibid:4234056238639": 250,
+      "gas:candidate-vibid:4234056238262": 42,
+      "gas:candidate-vibid:4234056225742": 51,
+      "gas:candidate-vibid:4234056238794": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224473&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224473&type=464",
@@ -13666,13 +13666,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 18,
-      "Ерохин Михаил Викторович": 98,
-      "Заруба Ольга Александровна": 69,
-      "Синяговский Владимир Ильич": 623,
-      "Тренин Алексей Николаевич": 106,
-      "Хот Валерий Владимирович": 113,
-      "Штуркин Владимир Николаевич": 46
+      "gas:candidate-vibid:4234056238349": 18,
+      "gas:candidate-vibid:4234056238140": 98,
+      "gas:candidate-vibid:4234056226051": 69,
+      "gas:candidate-vibid:4234056238639": 623,
+      "gas:candidate-vibid:4234056238262": 106,
+      "gas:candidate-vibid:4234056225742": 113,
+      "gas:candidate-vibid:4234056238794": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224473&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224473&type=464",
@@ -13723,13 +13723,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 0,
-      "Ерохин Михаил Викторович": 62,
-      "Заруба Ольга Александровна": 0,
-      "Синяговский Владимир Ильич": 936,
-      "Тренин Алексей Николаевич": 186,
-      "Хот Валерий Владимирович": 62,
-      "Штуркин Владимир Николаевич": 0
+      "gas:candidate-vibid:4234056238349": 0,
+      "gas:candidate-vibid:4234056238140": 62,
+      "gas:candidate-vibid:4234056226051": 0,
+      "gas:candidate-vibid:4234056238639": 936,
+      "gas:candidate-vibid:4234056238262": 186,
+      "gas:candidate-vibid:4234056225742": 62,
+      "gas:candidate-vibid:4234056238794": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224473&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224473&type=464",
@@ -13780,13 +13780,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 30,
-      "Ерохин Михаил Викторович": 78,
-      "Заруба Ольга Александровна": 62,
-      "Синяговский Владимир Ильич": 895,
-      "Тренин Алексей Николаевич": 182,
-      "Хот Валерий Владимирович": 72,
-      "Штуркин Владимир Николаевич": 30
+      "gas:candidate-vibid:4234056238349": 30,
+      "gas:candidate-vibid:4234056238140": 78,
+      "gas:candidate-vibid:4234056226051": 62,
+      "gas:candidate-vibid:4234056238639": 895,
+      "gas:candidate-vibid:4234056238262": 182,
+      "gas:candidate-vibid:4234056225742": 72,
+      "gas:candidate-vibid:4234056238794": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224473&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224473&type=464",
@@ -13837,13 +13837,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 25,
-      "Ерохин Михаил Викторович": 70,
-      "Заруба Ольга Александровна": 34,
-      "Синяговский Владимир Ильич": 1036,
-      "Тренин Алексей Николаевич": 71,
-      "Хот Валерий Владимирович": 77,
-      "Штуркин Владимир Николаевич": 12
+      "gas:candidate-vibid:4234056238349": 25,
+      "gas:candidate-vibid:4234056238140": 70,
+      "gas:candidate-vibid:4234056226051": 34,
+      "gas:candidate-vibid:4234056238639": 1036,
+      "gas:candidate-vibid:4234056238262": 71,
+      "gas:candidate-vibid:4234056225742": 77,
+      "gas:candidate-vibid:4234056238794": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224473&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224473&type=464",
@@ -13894,13 +13894,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 2,
-      "Ерохин Михаил Викторович": 60,
-      "Заруба Ольга Александровна": 0,
-      "Синяговский Владимир Ильич": 1229,
-      "Тренин Алексей Николаевич": 227,
-      "Хот Валерий Владимирович": 23,
-      "Штуркин Владимир Николаевич": 6
+      "gas:candidate-vibid:4234056238349": 2,
+      "gas:candidate-vibid:4234056238140": 60,
+      "gas:candidate-vibid:4234056226051": 0,
+      "gas:candidate-vibid:4234056238639": 1229,
+      "gas:candidate-vibid:4234056238262": 227,
+      "gas:candidate-vibid:4234056225742": 23,
+      "gas:candidate-vibid:4234056238794": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224473&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224473&type=464",
@@ -13951,13 +13951,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 0,
-      "Ерохин Михаил Викторович": 75,
-      "Заруба Ольга Александровна": 2,
-      "Синяговский Владимир Ильич": 1052,
-      "Тренин Алексей Николаевич": 226,
-      "Хот Валерий Владимирович": 151,
-      "Штуркин Владимир Николаевич": 0
+      "gas:candidate-vibid:4234056238349": 0,
+      "gas:candidate-vibid:4234056238140": 75,
+      "gas:candidate-vibid:4234056226051": 2,
+      "gas:candidate-vibid:4234056238639": 1052,
+      "gas:candidate-vibid:4234056238262": 226,
+      "gas:candidate-vibid:4234056225742": 151,
+      "gas:candidate-vibid:4234056238794": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224473&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224473&type=464",
@@ -14008,13 +14008,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 24,
-      "Ерохин Михаил Викторович": 72,
-      "Заруба Ольга Александровна": 25,
-      "Синяговский Владимир Ильич": 817,
-      "Тренин Алексей Николаевич": 180,
-      "Хот Валерий Владимирович": 60,
-      "Штуркин Владимир Николаевич": 24
+      "gas:candidate-vibid:4234056238349": 24,
+      "gas:candidate-vibid:4234056238140": 72,
+      "gas:candidate-vibid:4234056226051": 25,
+      "gas:candidate-vibid:4234056238639": 817,
+      "gas:candidate-vibid:4234056238262": 180,
+      "gas:candidate-vibid:4234056225742": 60,
+      "gas:candidate-vibid:4234056238794": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224473&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224473&type=464",
@@ -14065,13 +14065,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 29,
-      "Ерохин Михаил Викторович": 65,
-      "Заруба Ольга Александровна": 75,
-      "Синяговский Владимир Ильич": 399,
-      "Тренин Алексей Николаевич": 69,
-      "Хот Валерий Владимирович": 111,
-      "Штуркин Владимир Николаевич": 29
+      "gas:candidate-vibid:4234056238349": 29,
+      "gas:candidate-vibid:4234056238140": 65,
+      "gas:candidate-vibid:4234056226051": 75,
+      "gas:candidate-vibid:4234056238639": 399,
+      "gas:candidate-vibid:4234056238262": 69,
+      "gas:candidate-vibid:4234056225742": 111,
+      "gas:candidate-vibid:4234056238794": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224473&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224473&type=464",
@@ -14122,13 +14122,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 0,
-      "Ерохин Михаил Викторович": 148,
-      "Заруба Ольга Александровна": 0,
-      "Синяговский Владимир Ильич": 1659,
-      "Тренин Алексей Николаевич": 320,
-      "Хот Валерий Владимирович": 0,
-      "Штуркин Владимир Николаевич": 0
+      "gas:candidate-vibid:4234056238349": 0,
+      "gas:candidate-vibid:4234056238140": 148,
+      "gas:candidate-vibid:4234056226051": 0,
+      "gas:candidate-vibid:4234056238639": 1659,
+      "gas:candidate-vibid:4234056238262": 320,
+      "gas:candidate-vibid:4234056225742": 0,
+      "gas:candidate-vibid:4234056238794": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224473&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224473&type=464",
@@ -14179,13 +14179,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 30,
-      "Ерохин Михаил Викторович": 113,
-      "Заруба Ольга Александровна": 71,
-      "Синяговский Владимир Ильич": 846,
-      "Тренин Алексей Николаевич": 122,
-      "Хот Валерий Владимирович": 109,
-      "Штуркин Владимир Николаевич": 50
+      "gas:candidate-vibid:4234056238349": 30,
+      "gas:candidate-vibid:4234056238140": 113,
+      "gas:candidate-vibid:4234056226051": 71,
+      "gas:candidate-vibid:4234056238639": 846,
+      "gas:candidate-vibid:4234056238262": 122,
+      "gas:candidate-vibid:4234056225742": 109,
+      "gas:candidate-vibid:4234056238794": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224473&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224473&type=464",
@@ -14236,13 +14236,13 @@ export const duma_2016_uik_463_region_23_part_010 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Витишко Евгений Геннадиевич": 0,
-      "Ерохин Михаил Викторович": 68,
-      "Заруба Ольга Александровна": 13,
-      "Синяговский Владимир Ильич": 964,
-      "Тренин Алексей Николаевич": 212,
-      "Хот Валерий Владимирович": 95,
-      "Штуркин Владимир Николаевич": 7
+      "gas:candidate-vibid:4234056238349": 0,
+      "gas:candidate-vibid:4234056238140": 68,
+      "gas:candidate-vibid:4234056226051": 13,
+      "gas:candidate-vibid:4234056238639": 964,
+      "gas:candidate-vibid:4234056238262": 212,
+      "gas:candidate-vibid:4234056225742": 95,
+      "gas:candidate-vibid:4234056238794": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000066&tvd=4234056224473&vrn=100100067795849&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=4234056224473&type=464",

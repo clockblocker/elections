@@ -42,13 +42,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 89,
-      "Затулин Константин Федорович": 823,
-      "Николаев Андрей Иванович": 176,
-      "Николаев Николай Николаевич": 43,
-      "Смирнова Марина Николаевна": 42,
-      "Сухманский Вадим Сергеевич": 13,
-      "Против всех": 328
+      "gas:candidate-vibid:1001000202344": 89,
+      "gas:candidate-vibid:1001000226009": 823,
+      "gas:candidate-vibid:1001000131424": 176,
+      "gas:candidate-vibid:377300770828": 43,
+      "gas:candidate-vibid:1001000136151": 42,
+      "gas:candidate-vibid:377300770553": 13,
+      "special:against-all": 328
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770601&region=0&sub_region=0&type=429",
@@ -98,13 +98,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 89,
-      "Затулин Константин Федорович": 675,
-      "Николаев Андрей Иванович": 294,
-      "Николаев Николай Николаевич": 53,
-      "Смирнова Марина Николаевна": 31,
-      "Сухманский Вадим Сергеевич": 14,
-      "Против всех": 363
+      "gas:candidate-vibid:1001000202344": 89,
+      "gas:candidate-vibid:1001000226009": 675,
+      "gas:candidate-vibid:1001000131424": 294,
+      "gas:candidate-vibid:377300770828": 53,
+      "gas:candidate-vibid:1001000136151": 31,
+      "gas:candidate-vibid:377300770553": 14,
+      "special:against-all": 363
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770601&region=0&sub_region=0&type=429",
@@ -154,13 +154,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 82,
-      "Затулин Константин Федорович": 676,
-      "Николаев Андрей Иванович": 228,
-      "Николаев Николай Николаевич": 46,
-      "Смирнова Марина Николаевна": 29,
-      "Сухманский Вадим Сергеевич": 5,
-      "Против всех": 249
+      "gas:candidate-vibid:1001000202344": 82,
+      "gas:candidate-vibid:1001000226009": 676,
+      "gas:candidate-vibid:1001000131424": 228,
+      "gas:candidate-vibid:377300770828": 46,
+      "gas:candidate-vibid:1001000136151": 29,
+      "gas:candidate-vibid:377300770553": 5,
+      "special:against-all": 249
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770601&region=0&sub_region=0&type=429",
@@ -210,13 +210,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 76,
-      "Затулин Константин Федорович": 541,
-      "Николаев Андрей Иванович": 286,
-      "Николаев Николай Николаевич": 46,
-      "Смирнова Марина Николаевна": 38,
-      "Сухманский Вадим Сергеевич": 17,
-      "Против всех": 263
+      "gas:candidate-vibid:1001000202344": 76,
+      "gas:candidate-vibid:1001000226009": 541,
+      "gas:candidate-vibid:1001000131424": 286,
+      "gas:candidate-vibid:377300770828": 46,
+      "gas:candidate-vibid:1001000136151": 38,
+      "gas:candidate-vibid:377300770553": 17,
+      "special:against-all": 263
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770601&region=0&sub_region=0&type=429",
@@ -266,13 +266,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 84,
-      "Затулин Константин Федорович": 655,
-      "Николаев Андрей Иванович": 239,
-      "Николаев Николай Николаевич": 36,
-      "Смирнова Марина Николаевна": 23,
-      "Сухманский Вадим Сергеевич": 7,
-      "Против всех": 320
+      "gas:candidate-vibid:1001000202344": 84,
+      "gas:candidate-vibid:1001000226009": 655,
+      "gas:candidate-vibid:1001000131424": 239,
+      "gas:candidate-vibid:377300770828": 36,
+      "gas:candidate-vibid:1001000136151": 23,
+      "gas:candidate-vibid:377300770553": 7,
+      "special:against-all": 320
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770601&region=0&sub_region=0&type=429",
@@ -322,13 +322,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 54,
-      "Затулин Константин Федорович": 465,
-      "Николаев Андрей Иванович": 144,
-      "Николаев Николай Николаевич": 14,
-      "Смирнова Марина Николаевна": 32,
-      "Сухманский Вадим Сергеевич": 8,
-      "Против всех": 224
+      "gas:candidate-vibid:1001000202344": 54,
+      "gas:candidate-vibid:1001000226009": 465,
+      "gas:candidate-vibid:1001000131424": 144,
+      "gas:candidate-vibid:377300770828": 14,
+      "gas:candidate-vibid:1001000136151": 32,
+      "gas:candidate-vibid:377300770553": 8,
+      "special:against-all": 224
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770601&region=0&sub_region=0&type=429",
@@ -378,13 +378,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 87,
-      "Затулин Константин Федорович": 502,
-      "Николаев Андрей Иванович": 209,
-      "Николаев Николай Николаевич": 40,
-      "Смирнова Марина Николаевна": 36,
-      "Сухманский Вадим Сергеевич": 16,
-      "Против всех": 290
+      "gas:candidate-vibid:1001000202344": 87,
+      "gas:candidate-vibid:1001000226009": 502,
+      "gas:candidate-vibid:1001000131424": 209,
+      "gas:candidate-vibid:377300770828": 40,
+      "gas:candidate-vibid:1001000136151": 36,
+      "gas:candidate-vibid:377300770553": 16,
+      "special:against-all": 290
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770601&region=0&sub_region=0&type=429",
@@ -434,13 +434,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 43,
-      "Затулин Константин Федорович": 505,
-      "Николаев Андрей Иванович": 172,
-      "Николаев Николай Николаевич": 27,
-      "Смирнова Марина Николаевна": 13,
-      "Сухманский Вадим Сергеевич": 9,
-      "Против всех": 204
+      "gas:candidate-vibid:1001000202344": 43,
+      "gas:candidate-vibid:1001000226009": 505,
+      "gas:candidate-vibid:1001000131424": 172,
+      "gas:candidate-vibid:377300770828": 27,
+      "gas:candidate-vibid:1001000136151": 13,
+      "gas:candidate-vibid:377300770553": 9,
+      "special:against-all": 204
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770601&region=0&sub_region=0&type=429",
@@ -490,13 +490,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 81,
-      "Затулин Константин Федорович": 670,
-      "Николаев Андрей Иванович": 286,
-      "Николаев Николай Николаевич": 62,
-      "Смирнова Марина Николаевна": 40,
-      "Сухманский Вадим Сергеевич": 16,
-      "Против всех": 348
+      "gas:candidate-vibid:1001000202344": 81,
+      "gas:candidate-vibid:1001000226009": 670,
+      "gas:candidate-vibid:1001000131424": 286,
+      "gas:candidate-vibid:377300770828": 62,
+      "gas:candidate-vibid:1001000136151": 40,
+      "gas:candidate-vibid:377300770553": 16,
+      "special:against-all": 348
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770601&region=0&sub_region=0&type=429",
@@ -546,13 +546,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 87,
-      "Затулин Константин Федорович": 560,
-      "Николаев Андрей Иванович": 324,
-      "Николаев Николай Николаевич": 60,
-      "Смирнова Марина Николаевна": 36,
-      "Сухманский Вадим Сергеевич": 8,
-      "Против всех": 308
+      "gas:candidate-vibid:1001000202344": 87,
+      "gas:candidate-vibid:1001000226009": 560,
+      "gas:candidate-vibid:1001000131424": 324,
+      "gas:candidate-vibid:377300770828": 60,
+      "gas:candidate-vibid:1001000136151": 36,
+      "gas:candidate-vibid:377300770553": 8,
+      "special:against-all": 308
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770601&region=0&sub_region=0&type=429",
@@ -602,13 +602,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 69,
-      "Затулин Константин Федорович": 605,
-      "Николаев Андрей Иванович": 283,
-      "Николаев Николай Николаевич": 43,
-      "Смирнова Марина Николаевна": 45,
-      "Сухманский Вадим Сергеевич": 11,
-      "Против всех": 295
+      "gas:candidate-vibid:1001000202344": 69,
+      "gas:candidate-vibid:1001000226009": 605,
+      "gas:candidate-vibid:1001000131424": 283,
+      "gas:candidate-vibid:377300770828": 43,
+      "gas:candidate-vibid:1001000136151": 45,
+      "gas:candidate-vibid:377300770553": 11,
+      "special:against-all": 295
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770601&region=0&sub_region=0&type=429",
@@ -658,13 +658,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 73,
-      "Затулин Константин Федорович": 636,
-      "Николаев Андрей Иванович": 288,
-      "Николаев Николай Николаевич": 34,
-      "Смирнова Марина Николаевна": 41,
-      "Сухманский Вадим Сергеевич": 12,
-      "Против всех": 246
+      "gas:candidate-vibid:1001000202344": 73,
+      "gas:candidate-vibid:1001000226009": 636,
+      "gas:candidate-vibid:1001000131424": 288,
+      "gas:candidate-vibid:377300770828": 34,
+      "gas:candidate-vibid:1001000136151": 41,
+      "gas:candidate-vibid:377300770553": 12,
+      "special:against-all": 246
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770601&region=0&sub_region=0&type=429",
@@ -714,13 +714,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 60,
-      "Затулин Константин Федорович": 414,
-      "Николаев Андрей Иванович": 219,
-      "Николаев Николай Николаевич": 37,
-      "Смирнова Марина Николаевна": 15,
-      "Сухманский Вадим Сергеевич": 18,
-      "Против всех": 184
+      "gas:candidate-vibid:1001000202344": 60,
+      "gas:candidate-vibid:1001000226009": 414,
+      "gas:candidate-vibid:1001000131424": 219,
+      "gas:candidate-vibid:377300770828": 37,
+      "gas:candidate-vibid:1001000136151": 15,
+      "gas:candidate-vibid:377300770553": 18,
+      "special:against-all": 184
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770601&region=0&sub_region=0&type=429",
@@ -770,13 +770,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 87,
-      "Затулин Константин Федорович": 542,
-      "Николаев Андрей Иванович": 286,
-      "Николаев Николай Николаевич": 49,
-      "Смирнова Марина Николаевна": 15,
-      "Сухманский Вадим Сергеевич": 14,
-      "Против всех": 297
+      "gas:candidate-vibid:1001000202344": 87,
+      "gas:candidate-vibid:1001000226009": 542,
+      "gas:candidate-vibid:1001000131424": 286,
+      "gas:candidate-vibid:377300770828": 49,
+      "gas:candidate-vibid:1001000136151": 15,
+      "gas:candidate-vibid:377300770553": 14,
+      "special:against-all": 297
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770601&region=0&sub_region=0&type=429",
@@ -826,13 +826,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 59,
-      "Затулин Константин Федорович": 580,
-      "Николаев Андрей Иванович": 242,
-      "Николаев Николай Николаевич": 47,
-      "Смирнова Марина Николаевна": 34,
-      "Сухманский Вадим Сергеевич": 15,
-      "Против всех": 276
+      "gas:candidate-vibid:1001000202344": 59,
+      "gas:candidate-vibid:1001000226009": 580,
+      "gas:candidate-vibid:1001000131424": 242,
+      "gas:candidate-vibid:377300770828": 47,
+      "gas:candidate-vibid:1001000136151": 34,
+      "gas:candidate-vibid:377300770553": 15,
+      "special:against-all": 276
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770601&region=0&sub_region=0&type=429",
@@ -882,13 +882,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 67,
-      "Затулин Константин Федорович": 677,
-      "Николаев Андрей Иванович": 246,
-      "Николаев Николай Николаевич": 42,
-      "Смирнова Марина Николаевна": 42,
-      "Сухманский Вадим Сергеевич": 8,
-      "Против всех": 290
+      "gas:candidate-vibid:1001000202344": 67,
+      "gas:candidate-vibid:1001000226009": 677,
+      "gas:candidate-vibid:1001000131424": 246,
+      "gas:candidate-vibid:377300770828": 42,
+      "gas:candidate-vibid:1001000136151": 42,
+      "gas:candidate-vibid:377300770553": 8,
+      "special:against-all": 290
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770601&region=0&sub_region=0&type=429",
@@ -938,13 +938,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 54,
-      "Затулин Константин Федорович": 489,
-      "Николаев Андрей Иванович": 223,
-      "Николаев Николай Николаевич": 52,
-      "Смирнова Марина Николаевна": 45,
-      "Сухманский Вадим Сергеевич": 5,
-      "Против всех": 258
+      "gas:candidate-vibid:1001000202344": 54,
+      "gas:candidate-vibid:1001000226009": 489,
+      "gas:candidate-vibid:1001000131424": 223,
+      "gas:candidate-vibid:377300770828": 52,
+      "gas:candidate-vibid:1001000136151": 45,
+      "gas:candidate-vibid:377300770553": 5,
+      "special:against-all": 258
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770601&region=0&sub_region=0&type=429",
@@ -994,13 +994,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 5
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 68,
-      "Затулин Константин Федорович": 554,
-      "Николаев Андрей Иванович": 256,
-      "Николаев Николай Николаевич": 50,
-      "Смирнова Марина Николаевна": 26,
-      "Сухманский Вадим Сергеевич": 12,
-      "Против всех": 310
+      "gas:candidate-vibid:1001000202344": 68,
+      "gas:candidate-vibid:1001000226009": 554,
+      "gas:candidate-vibid:1001000131424": 256,
+      "gas:candidate-vibid:377300770828": 50,
+      "gas:candidate-vibid:1001000136151": 26,
+      "gas:candidate-vibid:377300770553": 12,
+      "special:against-all": 310
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770601&region=0&sub_region=0&type=429",
@@ -1050,13 +1050,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 69,
-      "Затулин Константин Федорович": 692,
-      "Николаев Андрей Иванович": 213,
-      "Николаев Николай Николаевич": 46,
-      "Смирнова Марина Николаевна": 39,
-      "Сухманский Вадим Сергеевич": 12,
-      "Против всех": 226
+      "gas:candidate-vibid:1001000202344": 69,
+      "gas:candidate-vibid:1001000226009": 692,
+      "gas:candidate-vibid:1001000131424": 213,
+      "gas:candidate-vibid:377300770828": 46,
+      "gas:candidate-vibid:1001000136151": 39,
+      "gas:candidate-vibid:377300770553": 12,
+      "special:against-all": 226
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770601&region=0&sub_region=0&type=429",
@@ -1106,13 +1106,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 72,
-      "Затулин Константин Федорович": 596,
-      "Николаев Андрей Иванович": 296,
-      "Николаев Николай Николаевич": 71,
-      "Смирнова Марина Николаевна": 32,
-      "Сухманский Вадим Сергеевич": 15,
-      "Против всех": 337
+      "gas:candidate-vibid:1001000202344": 72,
+      "gas:candidate-vibid:1001000226009": 596,
+      "gas:candidate-vibid:1001000131424": 296,
+      "gas:candidate-vibid:377300770828": 71,
+      "gas:candidate-vibid:1001000136151": 32,
+      "gas:candidate-vibid:377300770553": 15,
+      "special:against-all": 337
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770601&region=0&sub_region=0&type=429",
@@ -1162,13 +1162,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 66,
-      "Затулин Константин Федорович": 700,
-      "Николаев Андрей Иванович": 306,
-      "Николаев Николай Николаевич": 55,
-      "Смирнова Марина Николаевна": 32,
-      "Сухманский Вадим Сергеевич": 16,
-      "Против всех": 325
+      "gas:candidate-vibid:1001000202344": 66,
+      "gas:candidate-vibid:1001000226009": 700,
+      "gas:candidate-vibid:1001000131424": 306,
+      "gas:candidate-vibid:377300770828": 55,
+      "gas:candidate-vibid:1001000136151": 32,
+      "gas:candidate-vibid:377300770553": 16,
+      "special:against-all": 325
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770601&region=0&sub_region=0&type=429",
@@ -1218,13 +1218,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 1,
-      "Затулин Константин Федорович": 191,
-      "Николаев Андрей Иванович": 1,
-      "Николаев Николай Николаевич": 0,
-      "Смирнова Марина Николаевна": 0,
-      "Сухманский Вадим Сергеевич": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000202344": 1,
+      "gas:candidate-vibid:1001000226009": 191,
+      "gas:candidate-vibid:1001000131424": 1,
+      "gas:candidate-vibid:377300770828": 0,
+      "gas:candidate-vibid:1001000136151": 0,
+      "gas:candidate-vibid:377300770553": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770601&region=0&sub_region=0&type=429",
@@ -1274,13 +1274,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 114,
-      "Затулин Константин Федорович": 539,
-      "Николаев Андрей Иванович": 306,
-      "Николаев Николай Николаевич": 52,
-      "Смирнова Марина Николаевна": 23,
-      "Сухманский Вадим Сергеевич": 14,
-      "Против всех": 336
+      "gas:candidate-vibid:1001000202344": 114,
+      "gas:candidate-vibid:1001000226009": 539,
+      "gas:candidate-vibid:1001000131424": 306,
+      "gas:candidate-vibid:377300770828": 52,
+      "gas:candidate-vibid:1001000136151": 23,
+      "gas:candidate-vibid:377300770553": 14,
+      "special:against-all": 336
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770602&region=0&sub_region=0&type=429",
@@ -1330,13 +1330,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 113,
-      "Затулин Константин Федорович": 566,
-      "Николаев Андрей Иванович": 381,
-      "Николаев Николай Николаевич": 68,
-      "Смирнова Марина Николаевна": 23,
-      "Сухманский Вадим Сергеевич": 12,
-      "Против всех": 350
+      "gas:candidate-vibid:1001000202344": 113,
+      "gas:candidate-vibid:1001000226009": 566,
+      "gas:candidate-vibid:1001000131424": 381,
+      "gas:candidate-vibid:377300770828": 68,
+      "gas:candidate-vibid:1001000136151": 23,
+      "gas:candidate-vibid:377300770553": 12,
+      "special:against-all": 350
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770602&region=0&sub_region=0&type=429",
@@ -1386,13 +1386,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 91,
-      "Затулин Константин Федорович": 555,
-      "Николаев Андрей Иванович": 321,
-      "Николаев Николай Николаевич": 52,
-      "Смирнова Марина Николаевна": 35,
-      "Сухманский Вадим Сергеевич": 22,
-      "Против всех": 348
+      "gas:candidate-vibid:1001000202344": 91,
+      "gas:candidate-vibid:1001000226009": 555,
+      "gas:candidate-vibid:1001000131424": 321,
+      "gas:candidate-vibid:377300770828": 52,
+      "gas:candidate-vibid:1001000136151": 35,
+      "gas:candidate-vibid:377300770553": 22,
+      "special:against-all": 348
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770602&region=0&sub_region=0&type=429",
@@ -1442,13 +1442,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 78,
-      "Затулин Константин Федорович": 580,
-      "Николаев Андрей Иванович": 518,
-      "Николаев Николай Николаевич": 72,
-      "Смирнова Марина Николаевна": 25,
-      "Сухманский Вадим Сергеевич": 14,
-      "Против всех": 325
+      "gas:candidate-vibid:1001000202344": 78,
+      "gas:candidate-vibid:1001000226009": 580,
+      "gas:candidate-vibid:1001000131424": 518,
+      "gas:candidate-vibid:377300770828": 72,
+      "gas:candidate-vibid:1001000136151": 25,
+      "gas:candidate-vibid:377300770553": 14,
+      "special:against-all": 325
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770602&region=0&sub_region=0&type=429",
@@ -1498,13 +1498,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 56,
-      "Затулин Константин Федорович": 556,
-      "Николаев Андрей Иванович": 192,
-      "Николаев Николай Николаевич": 43,
-      "Смирнова Марина Николаевна": 29,
-      "Сухманский Вадим Сергеевич": 10,
-      "Против всех": 195
+      "gas:candidate-vibid:1001000202344": 56,
+      "gas:candidate-vibid:1001000226009": 556,
+      "gas:candidate-vibid:1001000131424": 192,
+      "gas:candidate-vibid:377300770828": 43,
+      "gas:candidate-vibid:1001000136151": 29,
+      "gas:candidate-vibid:377300770553": 10,
+      "special:against-all": 195
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770602&region=0&sub_region=0&type=429",
@@ -1554,13 +1554,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 65,
-      "Затулин Константин Федорович": 496,
-      "Николаев Андрей Иванович": 239,
-      "Николаев Николай Николаевич": 43,
-      "Смирнова Марина Николаевна": 22,
-      "Сухманский Вадим Сергеевич": 9,
-      "Против всех": 259
+      "gas:candidate-vibid:1001000202344": 65,
+      "gas:candidate-vibid:1001000226009": 496,
+      "gas:candidate-vibid:1001000131424": 239,
+      "gas:candidate-vibid:377300770828": 43,
+      "gas:candidate-vibid:1001000136151": 22,
+      "gas:candidate-vibid:377300770553": 9,
+      "special:against-all": 259
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770602&region=0&sub_region=0&type=429",
@@ -1610,13 +1610,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 59,
-      "Затулин Константин Федорович": 581,
-      "Николаев Андрей Иванович": 243,
-      "Николаев Николай Николаевич": 50,
-      "Смирнова Марина Николаевна": 22,
-      "Сухманский Вадим Сергеевич": 12,
-      "Против всех": 263
+      "gas:candidate-vibid:1001000202344": 59,
+      "gas:candidate-vibid:1001000226009": 581,
+      "gas:candidate-vibid:1001000131424": 243,
+      "gas:candidate-vibid:377300770828": 50,
+      "gas:candidate-vibid:1001000136151": 22,
+      "gas:candidate-vibid:377300770553": 12,
+      "special:against-all": 263
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770602&region=0&sub_region=0&type=429",
@@ -1666,13 +1666,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 70,
-      "Затулин Константин Федорович": 457,
-      "Николаев Андрей Иванович": 284,
-      "Николаев Николай Николаевич": 47,
-      "Смирнова Марина Николаевна": 25,
-      "Сухманский Вадим Сергеевич": 9,
-      "Против всех": 250
+      "gas:candidate-vibid:1001000202344": 70,
+      "gas:candidate-vibid:1001000226009": 457,
+      "gas:candidate-vibid:1001000131424": 284,
+      "gas:candidate-vibid:377300770828": 47,
+      "gas:candidate-vibid:1001000136151": 25,
+      "gas:candidate-vibid:377300770553": 9,
+      "special:against-all": 250
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770602&region=0&sub_region=0&type=429",
@@ -1722,13 +1722,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 51,
-      "Затулин Константин Федорович": 381,
-      "Николаев Андрей Иванович": 294,
-      "Николаев Николай Николаевич": 71,
-      "Смирнова Марина Николаевна": 36,
-      "Сухманский Вадим Сергеевич": 10,
-      "Против всех": 274
+      "gas:candidate-vibid:1001000202344": 51,
+      "gas:candidate-vibid:1001000226009": 381,
+      "gas:candidate-vibid:1001000131424": 294,
+      "gas:candidate-vibid:377300770828": 71,
+      "gas:candidate-vibid:1001000136151": 36,
+      "gas:candidate-vibid:377300770553": 10,
+      "special:against-all": 274
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770602&region=0&sub_region=0&type=429",
@@ -1778,13 +1778,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 61,
-      "Затулин Константин Федорович": 399,
-      "Николаев Андрей Иванович": 367,
-      "Николаев Николай Николаевич": 70,
-      "Смирнова Марина Николаевна": 34,
-      "Сухманский Вадим Сергеевич": 10,
-      "Против всех": 282
+      "gas:candidate-vibid:1001000202344": 61,
+      "gas:candidate-vibid:1001000226009": 399,
+      "gas:candidate-vibid:1001000131424": 367,
+      "gas:candidate-vibid:377300770828": 70,
+      "gas:candidate-vibid:1001000136151": 34,
+      "gas:candidate-vibid:377300770553": 10,
+      "special:against-all": 282
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770602&region=0&sub_region=0&type=429",
@@ -1834,13 +1834,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 77,
-      "Затулин Константин Федорович": 535,
-      "Николаев Андрей Иванович": 492,
-      "Николаев Николай Николаевич": 73,
-      "Смирнова Марина Николаевна": 38,
-      "Сухманский Вадим Сергеевич": 8,
-      "Против всех": 380
+      "gas:candidate-vibid:1001000202344": 77,
+      "gas:candidate-vibid:1001000226009": 535,
+      "gas:candidate-vibid:1001000131424": 492,
+      "gas:candidate-vibid:377300770828": 73,
+      "gas:candidate-vibid:1001000136151": 38,
+      "gas:candidate-vibid:377300770553": 8,
+      "special:against-all": 380
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770602&region=0&sub_region=0&type=429",
@@ -1890,13 +1890,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 76,
-      "Затулин Константин Федорович": 566,
-      "Николаев Андрей Иванович": 333,
-      "Николаев Николай Николаевич": 70,
-      "Смирнова Марина Николаевна": 27,
-      "Сухманский Вадим Сергеевич": 12,
-      "Против всех": 303
+      "gas:candidate-vibid:1001000202344": 76,
+      "gas:candidate-vibid:1001000226009": 566,
+      "gas:candidate-vibid:1001000131424": 333,
+      "gas:candidate-vibid:377300770828": 70,
+      "gas:candidate-vibid:1001000136151": 27,
+      "gas:candidate-vibid:377300770553": 12,
+      "special:against-all": 303
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770602&region=0&sub_region=0&type=429",
@@ -1946,13 +1946,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 74,
-      "Затулин Константин Федорович": 481,
-      "Николаев Андрей Иванович": 387,
-      "Николаев Николай Николаевич": 82,
-      "Смирнова Марина Николаевна": 29,
-      "Сухманский Вадим Сергеевич": 12,
-      "Против всех": 275
+      "gas:candidate-vibid:1001000202344": 74,
+      "gas:candidate-vibid:1001000226009": 481,
+      "gas:candidate-vibid:1001000131424": 387,
+      "gas:candidate-vibid:377300770828": 82,
+      "gas:candidate-vibid:1001000136151": 29,
+      "gas:candidate-vibid:377300770553": 12,
+      "special:against-all": 275
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770602&region=0&sub_region=0&type=429",
@@ -2002,13 +2002,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 94,
-      "Затулин Константин Федорович": 579,
-      "Николаев Андрей Иванович": 365,
-      "Николаев Николай Николаевич": 57,
-      "Смирнова Марина Николаевна": 31,
-      "Сухманский Вадим Сергеевич": 10,
-      "Против всех": 403
+      "gas:candidate-vibid:1001000202344": 94,
+      "gas:candidate-vibid:1001000226009": 579,
+      "gas:candidate-vibid:1001000131424": 365,
+      "gas:candidate-vibid:377300770828": 57,
+      "gas:candidate-vibid:1001000136151": 31,
+      "gas:candidate-vibid:377300770553": 10,
+      "special:against-all": 403
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770602&region=0&sub_region=0&type=429",
@@ -2058,13 +2058,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 88,
-      "Затулин Константин Федорович": 520,
-      "Николаев Андрей Иванович": 313,
-      "Николаев Николай Николаевич": 55,
-      "Смирнова Марина Николаевна": 30,
-      "Сухманский Вадим Сергеевич": 8,
-      "Против всех": 308
+      "gas:candidate-vibid:1001000202344": 88,
+      "gas:candidate-vibid:1001000226009": 520,
+      "gas:candidate-vibid:1001000131424": 313,
+      "gas:candidate-vibid:377300770828": 55,
+      "gas:candidate-vibid:1001000136151": 30,
+      "gas:candidate-vibid:377300770553": 8,
+      "special:against-all": 308
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770602&region=0&sub_region=0&type=429",
@@ -2114,13 +2114,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 62,
-      "Затулин Константин Федорович": 518,
-      "Николаев Андрей Иванович": 291,
-      "Николаев Николай Николаевич": 51,
-      "Смирнова Марина Николаевна": 38,
-      "Сухманский Вадим Сергеевич": 9,
-      "Против всех": 240
+      "gas:candidate-vibid:1001000202344": 62,
+      "gas:candidate-vibid:1001000226009": 518,
+      "gas:candidate-vibid:1001000131424": 291,
+      "gas:candidate-vibid:377300770828": 51,
+      "gas:candidate-vibid:1001000136151": 38,
+      "gas:candidate-vibid:377300770553": 9,
+      "special:against-all": 240
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770602&region=0&sub_region=0&type=429",
@@ -2170,13 +2170,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 50,
-      "Затулин Константин Федорович": 412,
-      "Николаев Андрей Иванович": 456,
-      "Николаев Николай Николаевич": 73,
-      "Смирнова Марина Николаевна": 18,
-      "Сухманский Вадим Сергеевич": 10,
-      "Против всех": 246
+      "gas:candidate-vibid:1001000202344": 50,
+      "gas:candidate-vibid:1001000226009": 412,
+      "gas:candidate-vibid:1001000131424": 456,
+      "gas:candidate-vibid:377300770828": 73,
+      "gas:candidate-vibid:1001000136151": 18,
+      "gas:candidate-vibid:377300770553": 10,
+      "special:against-all": 246
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770602&region=0&sub_region=0&type=429",
@@ -2226,13 +2226,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 89,
-      "Затулин Константин Федорович": 469,
-      "Николаев Андрей Иванович": 423,
-      "Николаев Николай Николаевич": 66,
-      "Смирнова Марина Николаевна": 45,
-      "Сухманский Вадим Сергеевич": 16,
-      "Против всех": 303
+      "gas:candidate-vibid:1001000202344": 89,
+      "gas:candidate-vibid:1001000226009": 469,
+      "gas:candidate-vibid:1001000131424": 423,
+      "gas:candidate-vibid:377300770828": 66,
+      "gas:candidate-vibid:1001000136151": 45,
+      "gas:candidate-vibid:377300770553": 16,
+      "special:against-all": 303
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770602&region=0&sub_region=0&type=429",
@@ -2282,13 +2282,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 77,
-      "Затулин Константин Федорович": 453,
-      "Николаев Андрей Иванович": 264,
-      "Николаев Николай Николаевич": 50,
-      "Смирнова Марина Николаевна": 31,
-      "Сухманский Вадим Сергеевич": 12,
-      "Против всех": 321
+      "gas:candidate-vibid:1001000202344": 77,
+      "gas:candidate-vibid:1001000226009": 453,
+      "gas:candidate-vibid:1001000131424": 264,
+      "gas:candidate-vibid:377300770828": 50,
+      "gas:candidate-vibid:1001000136151": 31,
+      "gas:candidate-vibid:377300770553": 12,
+      "special:against-all": 321
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770602&region=0&sub_region=0&type=429",
@@ -2338,13 +2338,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 56,
-      "Затулин Константин Федорович": 482,
-      "Николаев Андрей Иванович": 314,
-      "Николаев Николай Николаевич": 49,
-      "Смирнова Марина Николаевна": 29,
-      "Сухманский Вадим Сергеевич": 9,
-      "Против всех": 234
+      "gas:candidate-vibid:1001000202344": 56,
+      "gas:candidate-vibid:1001000226009": 482,
+      "gas:candidate-vibid:1001000131424": 314,
+      "gas:candidate-vibid:377300770828": 49,
+      "gas:candidate-vibid:1001000136151": 29,
+      "gas:candidate-vibid:377300770553": 9,
+      "special:against-all": 234
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770602&region=0&sub_region=0&type=429",
@@ -2394,13 +2394,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 64,
-      "Затулин Константин Федорович": 509,
-      "Николаев Андрей Иванович": 426,
-      "Николаев Николай Николаевич": 75,
-      "Смирнова Марина Николаевна": 35,
-      "Сухманский Вадим Сергеевич": 8,
-      "Против всех": 311
+      "gas:candidate-vibid:1001000202344": 64,
+      "gas:candidate-vibid:1001000226009": 509,
+      "gas:candidate-vibid:1001000131424": 426,
+      "gas:candidate-vibid:377300770828": 75,
+      "gas:candidate-vibid:1001000136151": 35,
+      "gas:candidate-vibid:377300770553": 8,
+      "special:against-all": 311
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770602&region=0&sub_region=0&type=429",
@@ -2450,13 +2450,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 85,
-      "Затулин Константин Федорович": 570,
-      "Николаев Андрей Иванович": 320,
-      "Николаев Николай Николаевич": 71,
-      "Смирнова Марина Николаевна": 34,
-      "Сухманский Вадим Сергеевич": 10,
-      "Против всех": 288
+      "gas:candidate-vibid:1001000202344": 85,
+      "gas:candidate-vibid:1001000226009": 570,
+      "gas:candidate-vibid:1001000131424": 320,
+      "gas:candidate-vibid:377300770828": 71,
+      "gas:candidate-vibid:1001000136151": 34,
+      "gas:candidate-vibid:377300770553": 10,
+      "special:against-all": 288
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770602&region=0&sub_region=0&type=429",
@@ -2506,13 +2506,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 72,
-      "Затулин Константин Федорович": 527,
-      "Николаев Андрей Иванович": 414,
-      "Николаев Николай Николаевич": 47,
-      "Смирнова Марина Николаевна": 20,
-      "Сухманский Вадим Сергеевич": 10,
-      "Против всех": 301
+      "gas:candidate-vibid:1001000202344": 72,
+      "gas:candidate-vibid:1001000226009": 527,
+      "gas:candidate-vibid:1001000131424": 414,
+      "gas:candidate-vibid:377300770828": 47,
+      "gas:candidate-vibid:1001000136151": 20,
+      "gas:candidate-vibid:377300770553": 10,
+      "special:against-all": 301
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770602&region=0&sub_region=0&type=429",
@@ -2562,13 +2562,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 86,
-      "Затулин Константин Федорович": 462,
-      "Николаев Андрей Иванович": 451,
-      "Николаев Николай Николаевич": 65,
-      "Смирнова Марина Николаевна": 36,
-      "Сухманский Вадим Сергеевич": 12,
-      "Против всех": 318
+      "gas:candidate-vibid:1001000202344": 86,
+      "gas:candidate-vibid:1001000226009": 462,
+      "gas:candidate-vibid:1001000131424": 451,
+      "gas:candidate-vibid:377300770828": 65,
+      "gas:candidate-vibid:1001000136151": 36,
+      "gas:candidate-vibid:377300770553": 12,
+      "special:against-all": 318
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770602&region=0&sub_region=0&type=429",
@@ -2618,13 +2618,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 76,
-      "Затулин Константин Федорович": 541,
-      "Николаев Андрей Иванович": 386,
-      "Николаев Николай Николаевич": 74,
-      "Смирнова Марина Николаевна": 33,
-      "Сухманский Вадим Сергеевич": 10,
-      "Против всех": 298
+      "gas:candidate-vibid:1001000202344": 76,
+      "gas:candidate-vibid:1001000226009": 541,
+      "gas:candidate-vibid:1001000131424": 386,
+      "gas:candidate-vibid:377300770828": 74,
+      "gas:candidate-vibid:1001000136151": 33,
+      "gas:candidate-vibid:377300770553": 10,
+      "special:against-all": 298
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770602&region=0&sub_region=0&type=429",
@@ -2674,13 +2674,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 77,
-      "Затулин Константин Федорович": 543,
-      "Николаев Андрей Иванович": 252,
-      "Николаев Николай Николаевич": 48,
-      "Смирнова Марина Николаевна": 27,
-      "Сухманский Вадим Сергеевич": 10,
-      "Против всех": 312
+      "gas:candidate-vibid:1001000202344": 77,
+      "gas:candidate-vibid:1001000226009": 543,
+      "gas:candidate-vibid:1001000131424": 252,
+      "gas:candidate-vibid:377300770828": 48,
+      "gas:candidate-vibid:1001000136151": 27,
+      "gas:candidate-vibid:377300770553": 10,
+      "special:against-all": 312
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770602&region=0&sub_region=0&type=429",
@@ -2730,13 +2730,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 51,
-      "Затулин Константин Федорович": 603,
-      "Николаев Андрей Иванович": 205,
-      "Николаев Николай Николаевич": 40,
-      "Смирнова Марина Николаевна": 37,
-      "Сухманский Вадим Сергеевич": 12,
-      "Против всех": 228
+      "gas:candidate-vibid:1001000202344": 51,
+      "gas:candidate-vibid:1001000226009": 603,
+      "gas:candidate-vibid:1001000131424": 205,
+      "gas:candidate-vibid:377300770828": 40,
+      "gas:candidate-vibid:1001000136151": 37,
+      "gas:candidate-vibid:377300770553": 12,
+      "special:against-all": 228
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770602&region=0&sub_region=0&type=429",
@@ -2786,13 +2786,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 75,
-      "Затулин Константин Федорович": 502,
-      "Николаев Андрей Иванович": 255,
-      "Николаев Николай Николаевич": 48,
-      "Смирнова Марина Николаевна": 44,
-      "Сухманский Вадим Сергеевич": 15,
-      "Против всех": 301
+      "gas:candidate-vibid:1001000202344": 75,
+      "gas:candidate-vibid:1001000226009": 502,
+      "gas:candidate-vibid:1001000131424": 255,
+      "gas:candidate-vibid:377300770828": 48,
+      "gas:candidate-vibid:1001000136151": 44,
+      "gas:candidate-vibid:377300770553": 15,
+      "special:against-all": 301
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770602&region=0&sub_region=0&type=429",
@@ -2842,13 +2842,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 105,
-      "Затулин Константин Федорович": 636,
-      "Николаев Андрей Иванович": 309,
-      "Николаев Николай Николаевич": 81,
-      "Смирнова Марина Николаевна": 38,
-      "Сухманский Вадим Сергеевич": 16,
-      "Против всех": 332
+      "gas:candidate-vibid:1001000202344": 105,
+      "gas:candidate-vibid:1001000226009": 636,
+      "gas:candidate-vibid:1001000131424": 309,
+      "gas:candidate-vibid:377300770828": 81,
+      "gas:candidate-vibid:1001000136151": 38,
+      "gas:candidate-vibid:377300770553": 16,
+      "special:against-all": 332
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770602&region=0&sub_region=0&type=429",
@@ -2898,13 +2898,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 76,
-      "Затулин Константин Федорович": 581,
-      "Николаев Андрей Иванович": 256,
-      "Николаев Николай Николаевич": 63,
-      "Смирнова Марина Николаевна": 38,
-      "Сухманский Вадим Сергеевич": 8,
-      "Против всех": 320
+      "gas:candidate-vibid:1001000202344": 76,
+      "gas:candidate-vibid:1001000226009": 581,
+      "gas:candidate-vibid:1001000131424": 256,
+      "gas:candidate-vibid:377300770828": 63,
+      "gas:candidate-vibid:1001000136151": 38,
+      "gas:candidate-vibid:377300770553": 8,
+      "special:against-all": 320
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770602&region=0&sub_region=0&type=429",
@@ -2954,13 +2954,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 114,
-      "Затулин Константин Федорович": 570,
-      "Николаев Андрей Иванович": 301,
-      "Николаев Николай Николаевич": 65,
-      "Смирнова Марина Николаевна": 37,
-      "Сухманский Вадим Сергеевич": 5,
-      "Против всех": 294
+      "gas:candidate-vibid:1001000202344": 114,
+      "gas:candidate-vibid:1001000226009": 570,
+      "gas:candidate-vibid:1001000131424": 301,
+      "gas:candidate-vibid:377300770828": 65,
+      "gas:candidate-vibid:1001000136151": 37,
+      "gas:candidate-vibid:377300770553": 5,
+      "special:against-all": 294
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770602&region=0&sub_region=0&type=429",
@@ -3010,13 +3010,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 78,
-      "Затулин Константин Федорович": 521,
-      "Николаев Андрей Иванович": 335,
-      "Николаев Николай Николаевич": 61,
-      "Смирнова Марина Николаевна": 34,
-      "Сухманский Вадим Сергеевич": 10,
-      "Против всех": 302
+      "gas:candidate-vibid:1001000202344": 78,
+      "gas:candidate-vibid:1001000226009": 521,
+      "gas:candidate-vibid:1001000131424": 335,
+      "gas:candidate-vibid:377300770828": 61,
+      "gas:candidate-vibid:1001000136151": 34,
+      "gas:candidate-vibid:377300770553": 10,
+      "special:against-all": 302
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770602&region=0&sub_region=0&type=429",
@@ -3066,13 +3066,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 97,
-      "Затулин Константин Федорович": 515,
-      "Николаев Андрей Иванович": 357,
-      "Николаев Николай Николаевич": 56,
-      "Смирнова Марина Николаевна": 41,
-      "Сухманский Вадим Сергеевич": 11,
-      "Против всех": 333
+      "gas:candidate-vibid:1001000202344": 97,
+      "gas:candidate-vibid:1001000226009": 515,
+      "gas:candidate-vibid:1001000131424": 357,
+      "gas:candidate-vibid:377300770828": 56,
+      "gas:candidate-vibid:1001000136151": 41,
+      "gas:candidate-vibid:377300770553": 11,
+      "special:against-all": 333
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770602&region=0&sub_region=0&type=429",
@@ -3122,13 +3122,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 89,
-      "Затулин Константин Федорович": 541,
-      "Николаев Андрей Иванович": 289,
-      "Николаев Николай Николаевич": 48,
-      "Смирнова Марина Николаевна": 27,
-      "Сухманский Вадим Сергеевич": 7,
-      "Против всех": 291
+      "gas:candidate-vibid:1001000202344": 89,
+      "gas:candidate-vibid:1001000226009": 541,
+      "gas:candidate-vibid:1001000131424": 289,
+      "gas:candidate-vibid:377300770828": 48,
+      "gas:candidate-vibid:1001000136151": 27,
+      "gas:candidate-vibid:377300770553": 7,
+      "special:against-all": 291
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770602&region=0&sub_region=0&type=429",
@@ -3178,13 +3178,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 50,
-      "Затулин Константин Федорович": 441,
-      "Николаев Андрей Иванович": 362,
-      "Николаев Николай Николаевич": 66,
-      "Смирнова Марина Николаевна": 23,
-      "Сухманский Вадим Сергеевич": 4,
-      "Против всех": 253
+      "gas:candidate-vibid:1001000202344": 50,
+      "gas:candidate-vibid:1001000226009": 441,
+      "gas:candidate-vibid:1001000131424": 362,
+      "gas:candidate-vibid:377300770828": 66,
+      "gas:candidate-vibid:1001000136151": 23,
+      "gas:candidate-vibid:377300770553": 4,
+      "special:against-all": 253
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770602&region=0&sub_region=0&type=429",
@@ -3234,13 +3234,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 75,
-      "Затулин Константин Федорович": 582,
-      "Николаев Андрей Иванович": 386,
-      "Николаев Николай Николаевич": 76,
-      "Смирнова Марина Николаевна": 31,
-      "Сухманский Вадим Сергеевич": 11,
-      "Против всех": 359
+      "gas:candidate-vibid:1001000202344": 75,
+      "gas:candidate-vibid:1001000226009": 582,
+      "gas:candidate-vibid:1001000131424": 386,
+      "gas:candidate-vibid:377300770828": 76,
+      "gas:candidate-vibid:1001000136151": 31,
+      "gas:candidate-vibid:377300770553": 11,
+      "special:against-all": 359
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770602&region=0&sub_region=0&type=429",
@@ -3290,13 +3290,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 99,
-      "Затулин Константин Федорович": 609,
-      "Николаев Андрей Иванович": 345,
-      "Николаев Николай Николаевич": 29,
-      "Смирнова Марина Николаевна": 9,
-      "Сухманский Вадим Сергеевич": 58,
-      "Против всех": 289
+      "gas:candidate-vibid:1001000202344": 99,
+      "gas:candidate-vibid:1001000226009": 609,
+      "gas:candidate-vibid:1001000131424": 345,
+      "gas:candidate-vibid:377300770828": 29,
+      "gas:candidate-vibid:1001000136151": 9,
+      "gas:candidate-vibid:377300770553": 58,
+      "special:against-all": 289
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770603&region=0&sub_region=0&type=429",
@@ -3346,13 +3346,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 114,
-      "Затулин Константин Федорович": 654,
-      "Николаев Андрей Иванович": 371,
-      "Николаев Николай Николаевич": 45,
-      "Смирнова Марина Николаевна": 40,
-      "Сухманский Вадим Сергеевич": 15,
-      "Против всех": 358
+      "gas:candidate-vibid:1001000202344": 114,
+      "gas:candidate-vibid:1001000226009": 654,
+      "gas:candidate-vibid:1001000131424": 371,
+      "gas:candidate-vibid:377300770828": 45,
+      "gas:candidate-vibid:1001000136151": 40,
+      "gas:candidate-vibid:377300770553": 15,
+      "special:against-all": 358
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770603&region=0&sub_region=0&type=429",
@@ -3402,13 +3402,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 85,
-      "Затулин Константин Федорович": 574,
-      "Николаев Андрей Иванович": 387,
-      "Николаев Николай Николаевич": 43,
-      "Смирнова Марина Николаевна": 21,
-      "Сухманский Вадим Сергеевич": 10,
-      "Против всех": 235
+      "gas:candidate-vibid:1001000202344": 85,
+      "gas:candidate-vibid:1001000226009": 574,
+      "gas:candidate-vibid:1001000131424": 387,
+      "gas:candidate-vibid:377300770828": 43,
+      "gas:candidate-vibid:1001000136151": 21,
+      "gas:candidate-vibid:377300770553": 10,
+      "special:against-all": 235
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770603&region=0&sub_region=0&type=429",
@@ -3458,13 +3458,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 108,
-      "Затулин Константин Федорович": 652,
-      "Николаев Андрей Иванович": 276,
-      "Николаев Николай Николаевич": 53,
-      "Смирнова Марина Николаевна": 40,
-      "Сухманский Вадим Сергеевич": 12,
-      "Против всех": 368
+      "gas:candidate-vibid:1001000202344": 108,
+      "gas:candidate-vibid:1001000226009": 652,
+      "gas:candidate-vibid:1001000131424": 276,
+      "gas:candidate-vibid:377300770828": 53,
+      "gas:candidate-vibid:1001000136151": 40,
+      "gas:candidate-vibid:377300770553": 12,
+      "special:against-all": 368
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770603&region=0&sub_region=0&type=429",
@@ -3514,13 +3514,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 72,
-      "Затулин Константин Федорович": 563,
-      "Николаев Андрей Иванович": 347,
-      "Николаев Николай Николаевич": 43,
-      "Смирнова Марина Николаевна": 45,
-      "Сухманский Вадим Сергеевич": 9,
-      "Против всех": 328
+      "gas:candidate-vibid:1001000202344": 72,
+      "gas:candidate-vibid:1001000226009": 563,
+      "gas:candidate-vibid:1001000131424": 347,
+      "gas:candidate-vibid:377300770828": 43,
+      "gas:candidate-vibid:1001000136151": 45,
+      "gas:candidate-vibid:377300770553": 9,
+      "special:against-all": 328
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770603&region=0&sub_region=0&type=429",
@@ -3570,13 +3570,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 48,
-      "Затулин Константин Федорович": 507,
-      "Николаев Андрей Иванович": 169,
-      "Николаев Николай Николаевич": 25,
-      "Смирнова Марина Николаевна": 1,
-      "Сухманский Вадим Сергеевич": 22,
-      "Против всех": 204
+      "gas:candidate-vibid:1001000202344": 48,
+      "gas:candidate-vibid:1001000226009": 507,
+      "gas:candidate-vibid:1001000131424": 169,
+      "gas:candidate-vibid:377300770828": 25,
+      "gas:candidate-vibid:1001000136151": 1,
+      "gas:candidate-vibid:377300770553": 22,
+      "special:against-all": 204
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770603&region=0&sub_region=0&type=429",
@@ -3626,13 +3626,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 78,
-      "Затулин Константин Федорович": 492,
-      "Николаев Андрей Иванович": 183,
-      "Николаев Николай Николаевич": 28,
-      "Смирнова Марина Николаевна": 29,
-      "Сухманский Вадим Сергеевич": 9,
-      "Против всех": 246
+      "gas:candidate-vibid:1001000202344": 78,
+      "gas:candidate-vibid:1001000226009": 492,
+      "gas:candidate-vibid:1001000131424": 183,
+      "gas:candidate-vibid:377300770828": 28,
+      "gas:candidate-vibid:1001000136151": 29,
+      "gas:candidate-vibid:377300770553": 9,
+      "special:against-all": 246
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770603&region=0&sub_region=0&type=429",
@@ -3682,13 +3682,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 93,
-      "Затулин Константин Федорович": 522,
-      "Николаев Андрей Иванович": 182,
-      "Николаев Николай Николаевич": 27,
-      "Смирнова Марина Николаевна": 32,
-      "Сухманский Вадим Сергеевич": 10,
-      "Против всех": 293
+      "gas:candidate-vibid:1001000202344": 93,
+      "gas:candidate-vibid:1001000226009": 522,
+      "gas:candidate-vibid:1001000131424": 182,
+      "gas:candidate-vibid:377300770828": 27,
+      "gas:candidate-vibid:1001000136151": 32,
+      "gas:candidate-vibid:377300770553": 10,
+      "special:against-all": 293
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770603&region=0&sub_region=0&type=429",
@@ -3738,13 +3738,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 81,
-      "Затулин Константин Федорович": 612,
-      "Николаев Андрей Иванович": 207,
-      "Николаев Николай Николаевич": 43,
-      "Смирнова Марина Николаевна": 45,
-      "Сухманский Вадим Сергеевич": 11,
-      "Против всех": 230
+      "gas:candidate-vibid:1001000202344": 81,
+      "gas:candidate-vibid:1001000226009": 612,
+      "gas:candidate-vibid:1001000131424": 207,
+      "gas:candidate-vibid:377300770828": 43,
+      "gas:candidate-vibid:1001000136151": 45,
+      "gas:candidate-vibid:377300770553": 11,
+      "special:against-all": 230
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770603&region=0&sub_region=0&type=429",
@@ -3794,13 +3794,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 60,
-      "Затулин Константин Федорович": 474,
-      "Николаев Андрей Иванович": 255,
-      "Николаев Николай Николаевич": 40,
-      "Смирнова Марина Николаевна": 20,
-      "Сухманский Вадим Сергеевич": 9,
-      "Против всех": 252
+      "gas:candidate-vibid:1001000202344": 60,
+      "gas:candidate-vibid:1001000226009": 474,
+      "gas:candidate-vibid:1001000131424": 255,
+      "gas:candidate-vibid:377300770828": 40,
+      "gas:candidate-vibid:1001000136151": 20,
+      "gas:candidate-vibid:377300770553": 9,
+      "special:against-all": 252
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770603&region=0&sub_region=0&type=429",
@@ -3850,13 +3850,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 102,
-      "Затулин Константин Федорович": 710,
-      "Николаев Андрей Иванович": 208,
-      "Николаев Николай Николаевич": 37,
-      "Смирнова Марина Николаевна": 37,
-      "Сухманский Вадим Сергеевич": 7,
-      "Против всех": 284
+      "gas:candidate-vibid:1001000202344": 102,
+      "gas:candidate-vibid:1001000226009": 710,
+      "gas:candidate-vibid:1001000131424": 208,
+      "gas:candidate-vibid:377300770828": 37,
+      "gas:candidate-vibid:1001000136151": 37,
+      "gas:candidate-vibid:377300770553": 7,
+      "special:against-all": 284
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770603&region=0&sub_region=0&type=429",
@@ -3906,13 +3906,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 83,
-      "Затулин Константин Федорович": 566,
-      "Николаев Андрей Иванович": 198,
-      "Николаев Николай Николаевич": 29,
-      "Смирнова Марина Николаевна": 36,
-      "Сухманский Вадим Сергеевич": 12,
-      "Против всех": 265
+      "gas:candidate-vibid:1001000202344": 83,
+      "gas:candidate-vibid:1001000226009": 566,
+      "gas:candidate-vibid:1001000131424": 198,
+      "gas:candidate-vibid:377300770828": 29,
+      "gas:candidate-vibid:1001000136151": 36,
+      "gas:candidate-vibid:377300770553": 12,
+      "special:against-all": 265
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770603&region=0&sub_region=0&type=429",
@@ -3962,13 +3962,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 59,
-      "Затулин Константин Федорович": 763,
-      "Николаев Андрей Иванович": 234,
-      "Николаев Николай Николаевич": 34,
-      "Смирнова Марина Николаевна": 31,
-      "Сухманский Вадим Сергеевич": 13,
-      "Против всех": 268
+      "gas:candidate-vibid:1001000202344": 59,
+      "gas:candidate-vibid:1001000226009": 763,
+      "gas:candidate-vibid:1001000131424": 234,
+      "gas:candidate-vibid:377300770828": 34,
+      "gas:candidate-vibid:1001000136151": 31,
+      "gas:candidate-vibid:377300770553": 13,
+      "special:against-all": 268
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770603&region=0&sub_region=0&type=429",
@@ -4018,13 +4018,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 119,
-      "Затулин Константин Федорович": 561,
-      "Николаев Андрей Иванович": 298,
-      "Николаев Николай Николаевич": 48,
-      "Смирнова Марина Николаевна": 43,
-      "Сухманский Вадим Сергеевич": 14,
-      "Против всех": 369
+      "gas:candidate-vibid:1001000202344": 119,
+      "gas:candidate-vibid:1001000226009": 561,
+      "gas:candidate-vibid:1001000131424": 298,
+      "gas:candidate-vibid:377300770828": 48,
+      "gas:candidate-vibid:1001000136151": 43,
+      "gas:candidate-vibid:377300770553": 14,
+      "special:against-all": 369
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770603&region=0&sub_region=0&type=429",
@@ -4074,13 +4074,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 91,
-      "Затулин Константин Федорович": 685,
-      "Николаев Андрей Иванович": 208,
-      "Николаев Николай Николаевич": 45,
-      "Смирнова Марина Николаевна": 42,
-      "Сухманский Вадим Сергеевич": 14,
-      "Против всех": 331
+      "gas:candidate-vibid:1001000202344": 91,
+      "gas:candidate-vibid:1001000226009": 685,
+      "gas:candidate-vibid:1001000131424": 208,
+      "gas:candidate-vibid:377300770828": 45,
+      "gas:candidate-vibid:1001000136151": 42,
+      "gas:candidate-vibid:377300770553": 14,
+      "special:against-all": 331
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770603&region=0&sub_region=0&type=429",
@@ -4130,13 +4130,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 87,
-      "Затулин Константин Федорович": 582,
-      "Николаев Андрей Иванович": 223,
-      "Николаев Николай Николаевич": 47,
-      "Смирнова Марина Николаевна": 50,
-      "Сухманский Вадим Сергеевич": 11,
-      "Против всех": 295
+      "gas:candidate-vibid:1001000202344": 87,
+      "gas:candidate-vibid:1001000226009": 582,
+      "gas:candidate-vibid:1001000131424": 223,
+      "gas:candidate-vibid:377300770828": 47,
+      "gas:candidate-vibid:1001000136151": 50,
+      "gas:candidate-vibid:377300770553": 11,
+      "special:against-all": 295
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770603&region=0&sub_region=0&type=429",
@@ -4186,13 +4186,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 102,
-      "Затулин Константин Федорович": 620,
-      "Николаев Андрей Иванович": 226,
-      "Николаев Николай Николаевич": 41,
-      "Смирнова Марина Николаевна": 31,
-      "Сухманский Вадим Сергеевич": 13,
-      "Против всех": 340
+      "gas:candidate-vibid:1001000202344": 102,
+      "gas:candidate-vibid:1001000226009": 620,
+      "gas:candidate-vibid:1001000131424": 226,
+      "gas:candidate-vibid:377300770828": 41,
+      "gas:candidate-vibid:1001000136151": 31,
+      "gas:candidate-vibid:377300770553": 13,
+      "special:against-all": 340
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770603&region=0&sub_region=0&type=429",
@@ -4242,13 +4242,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 65,
-      "Затулин Константин Федорович": 491,
-      "Николаев Андрей Иванович": 147,
-      "Николаев Николай Николаевич": 37,
-      "Смирнова Марина Николаевна": 28,
-      "Сухманский Вадим Сергеевич": 8,
-      "Против всех": 193
+      "gas:candidate-vibid:1001000202344": 65,
+      "gas:candidate-vibid:1001000226009": 491,
+      "gas:candidate-vibid:1001000131424": 147,
+      "gas:candidate-vibid:377300770828": 37,
+      "gas:candidate-vibid:1001000136151": 28,
+      "gas:candidate-vibid:377300770553": 8,
+      "special:against-all": 193
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770603&region=0&sub_region=0&type=429",
@@ -4298,13 +4298,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 64,
-      "Затулин Константин Федорович": 537,
-      "Николаев Андрей Иванович": 149,
-      "Николаев Николай Николаевич": 27,
-      "Смирнова Марина Николаевна": 37,
-      "Сухманский Вадим Сергеевич": 12,
-      "Против всех": 267
+      "gas:candidate-vibid:1001000202344": 64,
+      "gas:candidate-vibid:1001000226009": 537,
+      "gas:candidate-vibid:1001000131424": 149,
+      "gas:candidate-vibid:377300770828": 27,
+      "gas:candidate-vibid:1001000136151": 37,
+      "gas:candidate-vibid:377300770553": 12,
+      "special:against-all": 267
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770603&region=0&sub_region=0&type=429",
@@ -4354,13 +4354,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 80,
-      "Затулин Константин Федорович": 466,
-      "Николаев Андрей Иванович": 153,
-      "Николаев Николай Николаевич": 28,
-      "Смирнова Марина Николаевна": 35,
-      "Сухманский Вадим Сергеевич": 8,
-      "Против всех": 290
+      "gas:candidate-vibid:1001000202344": 80,
+      "gas:candidate-vibid:1001000226009": 466,
+      "gas:candidate-vibid:1001000131424": 153,
+      "gas:candidate-vibid:377300770828": 28,
+      "gas:candidate-vibid:1001000136151": 35,
+      "gas:candidate-vibid:377300770553": 8,
+      "special:against-all": 290
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770603&region=0&sub_region=0&type=429",
@@ -4410,13 +4410,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 74,
-      "Затулин Константин Федорович": 422,
-      "Николаев Андрей Иванович": 152,
-      "Николаев Николай Николаевич": 29,
-      "Смирнова Марина Николаевна": 24,
-      "Сухманский Вадим Сергеевич": 10,
-      "Против всех": 221
+      "gas:candidate-vibid:1001000202344": 74,
+      "gas:candidate-vibid:1001000226009": 422,
+      "gas:candidate-vibid:1001000131424": 152,
+      "gas:candidate-vibid:377300770828": 29,
+      "gas:candidate-vibid:1001000136151": 24,
+      "gas:candidate-vibid:377300770553": 10,
+      "special:against-all": 221
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770603&region=0&sub_region=0&type=429",
@@ -4466,13 +4466,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 76,
-      "Затулин Константин Федорович": 505,
-      "Николаев Андрей Иванович": 205,
-      "Николаев Николай Николаевич": 41,
-      "Смирнова Марина Николаевна": 38,
-      "Сухманский Вадим Сергеевич": 15,
-      "Против всех": 247
+      "gas:candidate-vibid:1001000202344": 76,
+      "gas:candidate-vibid:1001000226009": 505,
+      "gas:candidate-vibid:1001000131424": 205,
+      "gas:candidate-vibid:377300770828": 41,
+      "gas:candidate-vibid:1001000136151": 38,
+      "gas:candidate-vibid:377300770553": 15,
+      "special:against-all": 247
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770603&region=0&sub_region=0&type=429",
@@ -4522,13 +4522,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 73,
-      "Затулин Константин Федорович": 562,
-      "Николаев Андрей Иванович": 196,
-      "Николаев Николай Николаевич": 19,
-      "Смирнова Марина Николаевна": 37,
-      "Сухманский Вадим Сергеевич": 18,
-      "Против всех": 202
+      "gas:candidate-vibid:1001000202344": 73,
+      "gas:candidate-vibid:1001000226009": 562,
+      "gas:candidate-vibid:1001000131424": 196,
+      "gas:candidate-vibid:377300770828": 19,
+      "gas:candidate-vibid:1001000136151": 37,
+      "gas:candidate-vibid:377300770553": 18,
+      "special:against-all": 202
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770603&region=0&sub_region=0&type=429",
@@ -4578,13 +4578,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 73,
-      "Затулин Константин Федорович": 623,
-      "Николаев Андрей Иванович": 224,
-      "Николаев Николай Николаевич": 23,
-      "Смирнова Марина Николаевна": 51,
-      "Сухманский Вадим Сергеевич": 8,
-      "Против всех": 282
+      "gas:candidate-vibid:1001000202344": 73,
+      "gas:candidate-vibid:1001000226009": 623,
+      "gas:candidate-vibid:1001000131424": 224,
+      "gas:candidate-vibid:377300770828": 23,
+      "gas:candidate-vibid:1001000136151": 51,
+      "gas:candidate-vibid:377300770553": 8,
+      "special:against-all": 282
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770603&region=0&sub_region=0&type=429",
@@ -4634,13 +4634,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 90,
-      "Затулин Константин Федорович": 681,
-      "Николаев Андрей Иванович": 171,
-      "Николаев Николай Николаевич": 40,
-      "Смирнова Марина Николаевна": 32,
-      "Сухманский Вадим Сергеевич": 6,
-      "Против всех": 271
+      "gas:candidate-vibid:1001000202344": 90,
+      "gas:candidate-vibid:1001000226009": 681,
+      "gas:candidate-vibid:1001000131424": 171,
+      "gas:candidate-vibid:377300770828": 40,
+      "gas:candidate-vibid:1001000136151": 32,
+      "gas:candidate-vibid:377300770553": 6,
+      "special:against-all": 271
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770603&region=0&sub_region=0&type=429",
@@ -4690,13 +4690,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 80,
-      "Затулин Константин Федорович": 773,
-      "Николаев Андрей Иванович": 164,
-      "Николаев Николай Николаевич": 34,
-      "Смирнова Марина Николаевна": 25,
-      "Сухманский Вадим Сергеевич": 16,
-      "Против всех": 249
+      "gas:candidate-vibid:1001000202344": 80,
+      "gas:candidate-vibid:1001000226009": 773,
+      "gas:candidate-vibid:1001000131424": 164,
+      "gas:candidate-vibid:377300770828": 34,
+      "gas:candidate-vibid:1001000136151": 25,
+      "gas:candidate-vibid:377300770553": 16,
+      "special:against-all": 249
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770603&region=0&sub_region=0&type=429",
@@ -4746,13 +4746,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 80,
-      "Затулин Константин Федорович": 356,
-      "Николаев Андрей Иванович": 189,
-      "Николаев Николай Николаевич": 41,
-      "Смирнова Марина Николаевна": 23,
-      "Сухманский Вадим Сергеевич": 16,
-      "Против всех": 218
+      "gas:candidate-vibid:1001000202344": 80,
+      "gas:candidate-vibid:1001000226009": 356,
+      "gas:candidate-vibid:1001000131424": 189,
+      "gas:candidate-vibid:377300770828": 41,
+      "gas:candidate-vibid:1001000136151": 23,
+      "gas:candidate-vibid:377300770553": 16,
+      "special:against-all": 218
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770603&region=0&sub_region=0&type=429",
@@ -4802,13 +4802,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 82,
-      "Затулин Константин Федорович": 476,
-      "Николаев Андрей Иванович": 228,
-      "Николаев Николай Николаевич": 53,
-      "Смирнова Марина Николаевна": 19,
-      "Сухманский Вадим Сергеевич": 13,
-      "Против всех": 234
+      "gas:candidate-vibid:1001000202344": 82,
+      "gas:candidate-vibid:1001000226009": 476,
+      "gas:candidate-vibid:1001000131424": 228,
+      "gas:candidate-vibid:377300770828": 53,
+      "gas:candidate-vibid:1001000136151": 19,
+      "gas:candidate-vibid:377300770553": 13,
+      "special:against-all": 234
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770603&region=0&sub_region=0&type=429",
@@ -4858,13 +4858,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 65,
-      "Затулин Константин Федорович": 407,
-      "Николаев Андрей Иванович": 198,
-      "Николаев Николай Николаевич": 45,
-      "Смирнова Марина Николаевна": 29,
-      "Сухманский Вадим Сергеевич": 5,
-      "Против всех": 214
+      "gas:candidate-vibid:1001000202344": 65,
+      "gas:candidate-vibid:1001000226009": 407,
+      "gas:candidate-vibid:1001000131424": 198,
+      "gas:candidate-vibid:377300770828": 45,
+      "gas:candidate-vibid:1001000136151": 29,
+      "gas:candidate-vibid:377300770553": 5,
+      "special:against-all": 214
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770603&region=0&sub_region=0&type=429",
@@ -4914,13 +4914,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 81,
-      "Затулин Константин Федорович": 576,
-      "Николаев Андрей Иванович": 295,
-      "Николаев Николай Николаевич": 41,
-      "Смирнова Марина Николаевна": 38,
-      "Сухманский Вадим Сергеевич": 13,
-      "Против всех": 312
+      "gas:candidate-vibid:1001000202344": 81,
+      "gas:candidate-vibid:1001000226009": 576,
+      "gas:candidate-vibid:1001000131424": 295,
+      "gas:candidate-vibid:377300770828": 41,
+      "gas:candidate-vibid:1001000136151": 38,
+      "gas:candidate-vibid:377300770553": 13,
+      "special:against-all": 312
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770603&region=0&sub_region=0&type=429",
@@ -4970,13 +4970,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 59,
-      "Затулин Константин Федорович": 560,
-      "Николаев Андрей Иванович": 214,
-      "Николаев Николай Николаевич": 60,
-      "Смирнова Марина Николаевна": 33,
-      "Сухманский Вадим Сергеевич": 9,
-      "Против всех": 254
+      "gas:candidate-vibid:1001000202344": 59,
+      "gas:candidate-vibid:1001000226009": 560,
+      "gas:candidate-vibid:1001000131424": 214,
+      "gas:candidate-vibid:377300770828": 60,
+      "gas:candidate-vibid:1001000136151": 33,
+      "gas:candidate-vibid:377300770553": 9,
+      "special:against-all": 254
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770603&region=0&sub_region=0&type=429",
@@ -5026,13 +5026,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 94,
-      "Затулин Константин Федорович": 631,
-      "Николаев Андрей Иванович": 274,
-      "Николаев Николай Николаевич": 53,
-      "Смирнова Марина Николаевна": 37,
-      "Сухманский Вадим Сергеевич": 8,
-      "Против всех": 299
+      "gas:candidate-vibid:1001000202344": 94,
+      "gas:candidate-vibid:1001000226009": 631,
+      "gas:candidate-vibid:1001000131424": 274,
+      "gas:candidate-vibid:377300770828": 53,
+      "gas:candidate-vibid:1001000136151": 37,
+      "gas:candidate-vibid:377300770553": 8,
+      "special:against-all": 299
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770603&region=0&sub_region=0&type=429",
@@ -5082,13 +5082,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 67,
-      "Затулин Константин Федорович": 538,
-      "Николаев Андрей Иванович": 213,
-      "Николаев Николай Николаевич": 46,
-      "Смирнова Марина Николаевна": 39,
-      "Сухманский Вадим Сергеевич": 12,
-      "Против всех": 266
+      "gas:candidate-vibid:1001000202344": 67,
+      "gas:candidate-vibid:1001000226009": 538,
+      "gas:candidate-vibid:1001000131424": 213,
+      "gas:candidate-vibid:377300770828": 46,
+      "gas:candidate-vibid:1001000136151": 39,
+      "gas:candidate-vibid:377300770553": 12,
+      "special:against-all": 266
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770603&region=0&sub_region=0&type=429",
@@ -5138,13 +5138,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 8,
-      "Затулин Константин Федорович": 67,
-      "Николаев Андрей Иванович": 39,
-      "Николаев Николай Николаевич": 5,
-      "Смирнова Марина Николаевна": 4,
-      "Сухманский Вадим Сергеевич": 1,
-      "Против всех": 41
+      "gas:candidate-vibid:1001000202344": 8,
+      "gas:candidate-vibid:1001000226009": 67,
+      "gas:candidate-vibid:1001000131424": 39,
+      "gas:candidate-vibid:377300770828": 5,
+      "gas:candidate-vibid:1001000136151": 4,
+      "gas:candidate-vibid:377300770553": 1,
+      "special:against-all": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770603&region=0&sub_region=0&type=429",
@@ -5194,13 +5194,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ермакова Ирина Владимировна": 18,
-      "Затулин Константин Федорович": 125,
-      "Николаев Андрей Иванович": 34,
-      "Николаев Николай Николаевич": 20,
-      "Смирнова Марина Николаевна": 7,
-      "Сухманский Вадим Сергеевич": 6,
-      "Против всех": 47
+      "gas:candidate-vibid:1001000202344": 18,
+      "gas:candidate-vibid:1001000226009": 125,
+      "gas:candidate-vibid:1001000131424": 34,
+      "gas:candidate-vibid:377300770828": 20,
+      "gas:candidate-vibid:1001000136151": 7,
+      "gas:candidate-vibid:377300770553": 6,
+      "special:against-all": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773007013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300770603&region=0&sub_region=0&type=429",
@@ -5250,13 +5250,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 48,
-      "Борщев Валерий Васильевич": 286,
-      "Малинин Виктор Андреевич": 32,
-      "Рязанский Валерий Владимирович": 677,
-      "Сидоров Ярослав Северович": 118,
-      "Хидиятуллин Вагиз Назирович": 39,
-      "Против всех": 302
+      "gas:candidate-vibid:1001000136152": 48,
+      "gas:candidate-vibid:1001000112277": 286,
+      "gas:candidate-vibid:1001000190451": 32,
+      "gas:candidate-vibid:1001000226010": 677,
+      "gas:candidate-vibid:1001000121937": 118,
+      "gas:candidate-vibid:1001000195167": 39,
+      "special:against-all": 302
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870582&region=0&sub_region=0&type=429",
@@ -5306,13 +5306,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 37,
-      "Борщев Валерий Васильевич": 196,
-      "Малинин Виктор Андреевич": 40,
-      "Рязанский Валерий Владимирович": 638,
-      "Сидоров Ярослав Северович": 66,
-      "Хидиятуллин Вагиз Назирович": 44,
-      "Против всех": 204
+      "gas:candidate-vibid:1001000136152": 37,
+      "gas:candidate-vibid:1001000112277": 196,
+      "gas:candidate-vibid:1001000190451": 40,
+      "gas:candidate-vibid:1001000226010": 638,
+      "gas:candidate-vibid:1001000121937": 66,
+      "gas:candidate-vibid:1001000195167": 44,
+      "special:against-all": 204
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870582&region=0&sub_region=0&type=429",
@@ -5362,13 +5362,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 57,
-      "Борщев Валерий Васильевич": 219,
-      "Малинин Виктор Андреевич": 22,
-      "Рязанский Валерий Владимирович": 665,
-      "Сидоров Ярослав Северович": 93,
-      "Хидиятуллин Вагиз Назирович": 44,
-      "Против всех": 237
+      "gas:candidate-vibid:1001000136152": 57,
+      "gas:candidate-vibid:1001000112277": 219,
+      "gas:candidate-vibid:1001000190451": 22,
+      "gas:candidate-vibid:1001000226010": 665,
+      "gas:candidate-vibid:1001000121937": 93,
+      "gas:candidate-vibid:1001000195167": 44,
+      "special:against-all": 237
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870582&region=0&sub_region=0&type=429",
@@ -5418,13 +5418,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 56,
-      "Борщев Валерий Васильевич": 271,
-      "Малинин Виктор Андреевич": 39,
-      "Рязанский Валерий Владимирович": 640,
-      "Сидоров Ярослав Северович": 78,
-      "Хидиятуллин Вагиз Назирович": 51,
-      "Против всех": 243
+      "gas:candidate-vibid:1001000136152": 56,
+      "gas:candidate-vibid:1001000112277": 271,
+      "gas:candidate-vibid:1001000190451": 39,
+      "gas:candidate-vibid:1001000226010": 640,
+      "gas:candidate-vibid:1001000121937": 78,
+      "gas:candidate-vibid:1001000195167": 51,
+      "special:against-all": 243
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870582&region=0&sub_region=0&type=429",
@@ -5474,13 +5474,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 55,
-      "Борщев Валерий Васильевич": 314,
-      "Малинин Виктор Андреевич": 37,
-      "Рязанский Валерий Владимирович": 606,
-      "Сидоров Ярослав Северович": 137,
-      "Хидиятуллин Вагиз Назирович": 45,
-      "Против всех": 242
+      "gas:candidate-vibid:1001000136152": 55,
+      "gas:candidate-vibid:1001000112277": 314,
+      "gas:candidate-vibid:1001000190451": 37,
+      "gas:candidate-vibid:1001000226010": 606,
+      "gas:candidate-vibid:1001000121937": 137,
+      "gas:candidate-vibid:1001000195167": 45,
+      "special:against-all": 242
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870582&region=0&sub_region=0&type=429",
@@ -5530,13 +5530,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 27,
-      "Борщев Валерий Васильевич": 190,
-      "Малинин Виктор Андреевич": 20,
-      "Рязанский Валерий Владимирович": 552,
-      "Сидоров Ярослав Северович": 107,
-      "Хидиятуллин Вагиз Назирович": 35,
-      "Против всех": 184
+      "gas:candidate-vibid:1001000136152": 27,
+      "gas:candidate-vibid:1001000112277": 190,
+      "gas:candidate-vibid:1001000190451": 20,
+      "gas:candidate-vibid:1001000226010": 552,
+      "gas:candidate-vibid:1001000121937": 107,
+      "gas:candidate-vibid:1001000195167": 35,
+      "special:against-all": 184
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870582&region=0&sub_region=0&type=429",
@@ -5586,13 +5586,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 27,
-      "Борщев Валерий Васильевич": 180,
-      "Малинин Виктор Андреевич": 26,
-      "Рязанский Валерий Владимирович": 688,
-      "Сидоров Ярослав Северович": 94,
-      "Хидиятуллин Вагиз Назирович": 45,
-      "Против всех": 231
+      "gas:candidate-vibid:1001000136152": 27,
+      "gas:candidate-vibid:1001000112277": 180,
+      "gas:candidate-vibid:1001000190451": 26,
+      "gas:candidate-vibid:1001000226010": 688,
+      "gas:candidate-vibid:1001000121937": 94,
+      "gas:candidate-vibid:1001000195167": 45,
+      "special:against-all": 231
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870582&region=0&sub_region=0&type=429",
@@ -5642,13 +5642,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 30,
-      "Борщев Валерий Васильевич": 168,
-      "Малинин Виктор Андреевич": 18,
-      "Рязанский Валерий Владимирович": 586,
-      "Сидоров Ярослав Северович": 65,
-      "Хидиятуллин Вагиз Назирович": 29,
-      "Против всех": 253
+      "gas:candidate-vibid:1001000136152": 30,
+      "gas:candidate-vibid:1001000112277": 168,
+      "gas:candidate-vibid:1001000190451": 18,
+      "gas:candidate-vibid:1001000226010": 586,
+      "gas:candidate-vibid:1001000121937": 65,
+      "gas:candidate-vibid:1001000195167": 29,
+      "special:against-all": 253
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870582&region=0&sub_region=0&type=429",
@@ -5698,13 +5698,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 40,
-      "Борщев Валерий Васильевич": 361,
-      "Малинин Виктор Андреевич": 47,
-      "Рязанский Валерий Владимирович": 633,
-      "Сидоров Ярослав Северович": 134,
-      "Хидиятуллин Вагиз Назирович": 41,
-      "Против всех": 237
+      "gas:candidate-vibid:1001000136152": 40,
+      "gas:candidate-vibid:1001000112277": 361,
+      "gas:candidate-vibid:1001000190451": 47,
+      "gas:candidate-vibid:1001000226010": 633,
+      "gas:candidate-vibid:1001000121937": 134,
+      "gas:candidate-vibid:1001000195167": 41,
+      "special:against-all": 237
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870582&region=0&sub_region=0&type=429",
@@ -5754,13 +5754,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 38,
-      "Борщев Валерий Васильевич": 394,
-      "Малинин Виктор Андреевич": 18,
-      "Рязанский Валерий Владимирович": 544,
-      "Сидоров Ярослав Северович": 97,
-      "Хидиятуллин Вагиз Назирович": 53,
-      "Против всех": 229
+      "gas:candidate-vibid:1001000136152": 38,
+      "gas:candidate-vibid:1001000112277": 394,
+      "gas:candidate-vibid:1001000190451": 18,
+      "gas:candidate-vibid:1001000226010": 544,
+      "gas:candidate-vibid:1001000121937": 97,
+      "gas:candidate-vibid:1001000195167": 53,
+      "special:against-all": 229
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870582&region=0&sub_region=0&type=429",
@@ -5810,13 +5810,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 26,
-      "Борщев Валерий Васильевич": 285,
-      "Малинин Виктор Андреевич": 38,
-      "Рязанский Валерий Владимирович": 623,
-      "Сидоров Ярослав Северович": 103,
-      "Хидиятуллин Вагиз Назирович": 43,
-      "Против всех": 247
+      "gas:candidate-vibid:1001000136152": 26,
+      "gas:candidate-vibid:1001000112277": 285,
+      "gas:candidate-vibid:1001000190451": 38,
+      "gas:candidate-vibid:1001000226010": 623,
+      "gas:candidate-vibid:1001000121937": 103,
+      "gas:candidate-vibid:1001000195167": 43,
+      "special:against-all": 247
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870582&region=0&sub_region=0&type=429",
@@ -5866,13 +5866,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 49,
-      "Борщев Валерий Васильевич": 375,
-      "Малинин Виктор Андреевич": 31,
-      "Рязанский Валерий Владимирович": 625,
-      "Сидоров Ярослав Северович": 109,
-      "Хидиятуллин Вагиз Назирович": 64,
-      "Против всех": 283
+      "gas:candidate-vibid:1001000136152": 49,
+      "gas:candidate-vibid:1001000112277": 375,
+      "gas:candidate-vibid:1001000190451": 31,
+      "gas:candidate-vibid:1001000226010": 625,
+      "gas:candidate-vibid:1001000121937": 109,
+      "gas:candidate-vibid:1001000195167": 64,
+      "special:against-all": 283
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870582&region=0&sub_region=0&type=429",
@@ -5922,13 +5922,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 42,
-      "Борщев Валерий Васильевич": 311,
-      "Малинин Виктор Андреевич": 30,
-      "Рязанский Валерий Владимирович": 614,
-      "Сидоров Ярослав Северович": 100,
-      "Хидиятуллин Вагиз Назирович": 37,
-      "Против всех": 222
+      "gas:candidate-vibid:1001000136152": 42,
+      "gas:candidate-vibid:1001000112277": 311,
+      "gas:candidate-vibid:1001000190451": 30,
+      "gas:candidate-vibid:1001000226010": 614,
+      "gas:candidate-vibid:1001000121937": 100,
+      "gas:candidate-vibid:1001000195167": 37,
+      "special:against-all": 222
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870582&region=0&sub_region=0&type=429",
@@ -5978,13 +5978,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 30,
-      "Борщев Валерий Васильевич": 241,
-      "Малинин Виктор Андреевич": 34,
-      "Рязанский Валерий Владимирович": 593,
-      "Сидоров Ярослав Северович": 142,
-      "Хидиятуллин Вагиз Назирович": 43,
-      "Против всех": 237
+      "gas:candidate-vibid:1001000136152": 30,
+      "gas:candidate-vibid:1001000112277": 241,
+      "gas:candidate-vibid:1001000190451": 34,
+      "gas:candidate-vibid:1001000226010": 593,
+      "gas:candidate-vibid:1001000121937": 142,
+      "gas:candidate-vibid:1001000195167": 43,
+      "special:against-all": 237
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870582&region=0&sub_region=0&type=429",
@@ -6034,13 +6034,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 65,
-      "Борщев Валерий Васильевич": 340,
-      "Малинин Виктор Андреевич": 41,
-      "Рязанский Валерий Владимирович": 695,
-      "Сидоров Ярослав Северович": 111,
-      "Хидиятуллин Вагиз Назирович": 51,
-      "Против всех": 272
+      "gas:candidate-vibid:1001000136152": 65,
+      "gas:candidate-vibid:1001000112277": 340,
+      "gas:candidate-vibid:1001000190451": 41,
+      "gas:candidate-vibid:1001000226010": 695,
+      "gas:candidate-vibid:1001000121937": 111,
+      "gas:candidate-vibid:1001000195167": 51,
+      "special:against-all": 272
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870582&region=0&sub_region=0&type=429",
@@ -6090,13 +6090,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 36,
-      "Борщев Валерий Васильевич": 305,
-      "Малинин Виктор Андреевич": 37,
-      "Рязанский Валерий Владимирович": 604,
-      "Сидоров Ярослав Северович": 137,
-      "Хидиятуллин Вагиз Назирович": 46,
-      "Против всех": 223
+      "gas:candidate-vibid:1001000136152": 36,
+      "gas:candidate-vibid:1001000112277": 305,
+      "gas:candidate-vibid:1001000190451": 37,
+      "gas:candidate-vibid:1001000226010": 604,
+      "gas:candidate-vibid:1001000121937": 137,
+      "gas:candidate-vibid:1001000195167": 46,
+      "special:against-all": 223
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870582&region=0&sub_region=0&type=429",
@@ -6146,13 +6146,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 47,
-      "Борщев Валерий Васильевич": 349,
-      "Малинин Виктор Андреевич": 42,
-      "Рязанский Валерий Владимирович": 745,
-      "Сидоров Ярослав Северович": 96,
-      "Хидиятуллин Вагиз Назирович": 54,
-      "Против всех": 224
+      "gas:candidate-vibid:1001000136152": 47,
+      "gas:candidate-vibid:1001000112277": 349,
+      "gas:candidate-vibid:1001000190451": 42,
+      "gas:candidate-vibid:1001000226010": 745,
+      "gas:candidate-vibid:1001000121937": 96,
+      "gas:candidate-vibid:1001000195167": 54,
+      "special:against-all": 224
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870582&region=0&sub_region=0&type=429",
@@ -6202,13 +6202,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 45,
-      "Борщев Валерий Васильевич": 264,
-      "Малинин Виктор Андреевич": 48,
-      "Рязанский Валерий Владимирович": 623,
-      "Сидоров Ярослав Северович": 118,
-      "Хидиятуллин Вагиз Назирович": 39,
-      "Против всех": 232
+      "gas:candidate-vibid:1001000136152": 45,
+      "gas:candidate-vibid:1001000112277": 264,
+      "gas:candidate-vibid:1001000190451": 48,
+      "gas:candidate-vibid:1001000226010": 623,
+      "gas:candidate-vibid:1001000121937": 118,
+      "gas:candidate-vibid:1001000195167": 39,
+      "special:against-all": 232
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870582&region=0&sub_region=0&type=429",
@@ -6258,13 +6258,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 28,
-      "Борщев Валерий Васильевич": 242,
-      "Малинин Виктор Андреевич": 21,
-      "Рязанский Валерий Владимирович": 553,
-      "Сидоров Ярослав Северович": 67,
-      "Хидиятуллин Вагиз Назирович": 42,
-      "Против всех": 203
+      "gas:candidate-vibid:1001000136152": 28,
+      "gas:candidate-vibid:1001000112277": 242,
+      "gas:candidate-vibid:1001000190451": 21,
+      "gas:candidate-vibid:1001000226010": 553,
+      "gas:candidate-vibid:1001000121937": 67,
+      "gas:candidate-vibid:1001000195167": 42,
+      "special:against-all": 203
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870582&region=0&sub_region=0&type=429",
@@ -6314,13 +6314,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 36,
-      "Борщев Валерий Васильевич": 300,
-      "Малинин Виктор Андреевич": 29,
-      "Рязанский Валерий Владимирович": 584,
-      "Сидоров Ярослав Северович": 106,
-      "Хидиятуллин Вагиз Назирович": 45,
-      "Против всех": 236
+      "gas:candidate-vibid:1001000136152": 36,
+      "gas:candidate-vibid:1001000112277": 300,
+      "gas:candidate-vibid:1001000190451": 29,
+      "gas:candidate-vibid:1001000226010": 584,
+      "gas:candidate-vibid:1001000121937": 106,
+      "gas:candidate-vibid:1001000195167": 45,
+      "special:against-all": 236
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870582&region=0&sub_region=0&type=429",
@@ -6370,13 +6370,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 31,
-      "Борщев Валерий Васильевич": 330,
-      "Малинин Виктор Андреевич": 571,
-      "Рязанский Валерий Владимирович": 118,
-      "Сидоров Ярослав Северович": 41,
-      "Хидиятуллин Вагиз Назирович": 37,
-      "Против всех": 218
+      "gas:candidate-vibid:1001000136152": 31,
+      "gas:candidate-vibid:1001000112277": 330,
+      "gas:candidate-vibid:1001000190451": 571,
+      "gas:candidate-vibid:1001000226010": 118,
+      "gas:candidate-vibid:1001000121937": 41,
+      "gas:candidate-vibid:1001000195167": 37,
+      "special:against-all": 218
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870582&region=0&sub_region=0&type=429",
@@ -6426,13 +6426,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 39,
-      "Борщев Валерий Васильевич": 276,
-      "Малинин Виктор Андреевич": 42,
-      "Рязанский Валерий Владимирович": 658,
-      "Сидоров Ярослав Северович": 119,
-      "Хидиятуллин Вагиз Назирович": 57,
-      "Против всех": 311
+      "gas:candidate-vibid:1001000136152": 39,
+      "gas:candidate-vibid:1001000112277": 276,
+      "gas:candidate-vibid:1001000190451": 42,
+      "gas:candidate-vibid:1001000226010": 658,
+      "gas:candidate-vibid:1001000121937": 119,
+      "gas:candidate-vibid:1001000195167": 57,
+      "special:against-all": 311
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870582&region=0&sub_region=0&type=429",
@@ -6482,13 +6482,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 42,
-      "Борщев Валерий Васильевич": 251,
-      "Малинин Виктор Андреевич": 29,
-      "Рязанский Валерий Владимирович": 470,
-      "Сидоров Ярослав Северович": 62,
-      "Хидиятуллин Вагиз Назирович": 41,
-      "Против всех": 266
+      "gas:candidate-vibid:1001000136152": 42,
+      "gas:candidate-vibid:1001000112277": 251,
+      "gas:candidate-vibid:1001000190451": 29,
+      "gas:candidate-vibid:1001000226010": 470,
+      "gas:candidate-vibid:1001000121937": 62,
+      "gas:candidate-vibid:1001000195167": 41,
+      "special:against-all": 266
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870582&region=0&sub_region=0&type=429",
@@ -6538,13 +6538,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 50,
-      "Борщев Валерий Васильевич": 291,
-      "Малинин Виктор Андреевич": 45,
-      "Рязанский Валерий Владимирович": 486,
-      "Сидоров Ярослав Северович": 107,
-      "Хидиятуллин Вагиз Назирович": 62,
-      "Против всех": 209
+      "gas:candidate-vibid:1001000136152": 50,
+      "gas:candidate-vibid:1001000112277": 291,
+      "gas:candidate-vibid:1001000190451": 45,
+      "gas:candidate-vibid:1001000226010": 486,
+      "gas:candidate-vibid:1001000121937": 107,
+      "gas:candidate-vibid:1001000195167": 62,
+      "special:against-all": 209
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870582&region=0&sub_region=0&type=429",
@@ -6594,13 +6594,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 33,
-      "Борщев Валерий Васильевич": 191,
-      "Малинин Виктор Андреевич": 25,
-      "Рязанский Валерий Владимирович": 314,
-      "Сидоров Ярослав Северович": 117,
-      "Хидиятуллин Вагиз Назирович": 33,
-      "Против всех": 200
+      "gas:candidate-vibid:1001000136152": 33,
+      "gas:candidate-vibid:1001000112277": 191,
+      "gas:candidate-vibid:1001000190451": 25,
+      "gas:candidate-vibid:1001000226010": 314,
+      "gas:candidate-vibid:1001000121937": 117,
+      "gas:candidate-vibid:1001000195167": 33,
+      "special:against-all": 200
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870582&region=0&sub_region=0&type=429",
@@ -6650,13 +6650,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 40,
-      "Борщев Валерий Васильевич": 310,
-      "Малинин Виктор Андреевич": 25,
-      "Рязанский Валерий Владимирович": 590,
-      "Сидоров Ярослав Северович": 109,
-      "Хидиятуллин Вагиз Назирович": 58,
-      "Против всех": 229
+      "gas:candidate-vibid:1001000136152": 40,
+      "gas:candidate-vibid:1001000112277": 310,
+      "gas:candidate-vibid:1001000190451": 25,
+      "gas:candidate-vibid:1001000226010": 590,
+      "gas:candidate-vibid:1001000121937": 109,
+      "gas:candidate-vibid:1001000195167": 58,
+      "special:against-all": 229
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870582&region=0&sub_region=0&type=429",
@@ -6706,13 +6706,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 54,
-      "Борщев Валерий Васильевич": 394,
-      "Малинин Виктор Андреевич": 54,
-      "Рязанский Валерий Владимирович": 571,
-      "Сидоров Ярослав Северович": 99,
-      "Хидиятуллин Вагиз Назирович": 18,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000136152": 54,
+      "gas:candidate-vibid:1001000112277": 394,
+      "gas:candidate-vibid:1001000190451": 54,
+      "gas:candidate-vibid:1001000226010": 571,
+      "gas:candidate-vibid:1001000121937": 99,
+      "gas:candidate-vibid:1001000195167": 18,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870582&region=0&sub_region=0&type=429",
@@ -6762,13 +6762,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 36,
-      "Борщев Валерий Васильевич": 553,
-      "Малинин Виктор Андреевич": 38,
-      "Рязанский Валерий Владимирович": 555,
-      "Сидоров Ярослав Северович": 145,
-      "Хидиятуллин Вагиз Назирович": 61,
-      "Против всех": 250
+      "gas:candidate-vibid:1001000136152": 36,
+      "gas:candidate-vibid:1001000112277": 553,
+      "gas:candidate-vibid:1001000190451": 38,
+      "gas:candidate-vibid:1001000226010": 555,
+      "gas:candidate-vibid:1001000121937": 145,
+      "gas:candidate-vibid:1001000195167": 61,
+      "special:against-all": 250
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870582&region=0&sub_region=0&type=429",
@@ -6818,13 +6818,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 39,
-      "Борщев Валерий Васильевич": 302,
-      "Малинин Виктор Андреевич": 38,
-      "Рязанский Валерий Владимирович": 561,
-      "Сидоров Ярослав Северович": 97,
-      "Хидиятуллин Вагиз Назирович": 37,
-      "Против всех": 283
+      "gas:candidate-vibid:1001000136152": 39,
+      "gas:candidate-vibid:1001000112277": 302,
+      "gas:candidate-vibid:1001000190451": 38,
+      "gas:candidate-vibid:1001000226010": 561,
+      "gas:candidate-vibid:1001000121937": 97,
+      "gas:candidate-vibid:1001000195167": 37,
+      "special:against-all": 283
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870582&region=0&sub_region=0&type=429",
@@ -6874,13 +6874,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 38,
-      "Борщев Валерий Васильевич": 307,
-      "Малинин Виктор Андреевич": 37,
-      "Рязанский Валерий Владимирович": 691,
-      "Сидоров Ярослав Северович": 134,
-      "Хидиятуллин Вагиз Назирович": 59,
-      "Против всех": 246
+      "gas:candidate-vibid:1001000136152": 38,
+      "gas:candidate-vibid:1001000112277": 307,
+      "gas:candidate-vibid:1001000190451": 37,
+      "gas:candidate-vibid:1001000226010": 691,
+      "gas:candidate-vibid:1001000121937": 134,
+      "gas:candidate-vibid:1001000195167": 59,
+      "special:against-all": 246
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870582&region=0&sub_region=0&type=429",
@@ -6930,13 +6930,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 51,
-      "Борщев Валерий Васильевич": 351,
-      "Малинин Виктор Андреевич": 53,
-      "Рязанский Валерий Владимирович": 651,
-      "Сидоров Ярослав Северович": 153,
-      "Хидиятуллин Вагиз Назирович": 55,
-      "Против всех": 280
+      "gas:candidate-vibid:1001000136152": 51,
+      "gas:candidate-vibid:1001000112277": 351,
+      "gas:candidate-vibid:1001000190451": 53,
+      "gas:candidate-vibid:1001000226010": 651,
+      "gas:candidate-vibid:1001000121937": 153,
+      "gas:candidate-vibid:1001000195167": 55,
+      "special:against-all": 280
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870582&region=0&sub_region=0&type=429",
@@ -6986,13 +6986,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 38,
-      "Борщев Валерий Васильевич": 214,
-      "Малинин Виктор Андреевич": 16,
-      "Рязанский Валерий Владимирович": 511,
-      "Сидоров Ярослав Северович": 91,
-      "Хидиятуллин Вагиз Назирович": 22,
-      "Против всех": 194
+      "gas:candidate-vibid:1001000136152": 38,
+      "gas:candidate-vibid:1001000112277": 214,
+      "gas:candidate-vibid:1001000190451": 16,
+      "gas:candidate-vibid:1001000226010": 511,
+      "gas:candidate-vibid:1001000121937": 91,
+      "gas:candidate-vibid:1001000195167": 22,
+      "special:against-all": 194
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870582&region=0&sub_region=0&type=429",
@@ -7042,13 +7042,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 36,
-      "Борщев Валерий Васильевич": 260,
-      "Малинин Виктор Андреевич": 33,
-      "Рязанский Валерий Владимирович": 512,
-      "Сидоров Ярослав Северович": 91,
-      "Хидиятуллин Вагиз Назирович": 37,
-      "Против всех": 188
+      "gas:candidate-vibid:1001000136152": 36,
+      "gas:candidate-vibid:1001000112277": 260,
+      "gas:candidate-vibid:1001000190451": 33,
+      "gas:candidate-vibid:1001000226010": 512,
+      "gas:candidate-vibid:1001000121937": 91,
+      "gas:candidate-vibid:1001000195167": 37,
+      "special:against-all": 188
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870582&region=0&sub_region=0&type=429",
@@ -7098,13 +7098,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 39,
-      "Борщев Валерий Васильевич": 151,
-      "Малинин Виктор Андреевич": 15,
-      "Рязанский Валерий Владимирович": 544,
-      "Сидоров Ярослав Северович": 76,
-      "Хидиятуллин Вагиз Назирович": 49,
-      "Против всех": 216
+      "gas:candidate-vibid:1001000136152": 39,
+      "gas:candidate-vibid:1001000112277": 151,
+      "gas:candidate-vibid:1001000190451": 15,
+      "gas:candidate-vibid:1001000226010": 544,
+      "gas:candidate-vibid:1001000121937": 76,
+      "gas:candidate-vibid:1001000195167": 49,
+      "special:against-all": 216
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870582&region=0&sub_region=0&type=429",
@@ -7154,13 +7154,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 9,
-      "Борщев Валерий Васильевич": 38,
-      "Малинин Виктор Андреевич": 16,
-      "Рязанский Валерий Владимирович": 96,
-      "Сидоров Ярослав Северович": 24,
-      "Хидиятуллин Вагиз Назирович": 9,
-      "Против всех": 74
+      "gas:candidate-vibid:1001000136152": 9,
+      "gas:candidate-vibid:1001000112277": 38,
+      "gas:candidate-vibid:1001000190451": 16,
+      "gas:candidate-vibid:1001000226010": 96,
+      "gas:candidate-vibid:1001000121937": 24,
+      "gas:candidate-vibid:1001000195167": 9,
+      "special:against-all": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870582&region=0&sub_region=0&type=429",
@@ -7210,13 +7210,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 15,
-      "Борщев Валерий Васильевич": 17,
-      "Малинин Виктор Андреевич": 11,
-      "Рязанский Валерий Владимирович": 26,
-      "Сидоров Ярослав Северович": 27,
-      "Хидиятуллин Вагиз Назирович": 8,
-      "Против всех": 71
+      "gas:candidate-vibid:1001000136152": 15,
+      "gas:candidate-vibid:1001000112277": 17,
+      "gas:candidate-vibid:1001000190451": 11,
+      "gas:candidate-vibid:1001000226010": 26,
+      "gas:candidate-vibid:1001000121937": 27,
+      "gas:candidate-vibid:1001000195167": 8,
+      "special:against-all": 71
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870582&region=0&sub_region=0&type=429",
@@ -7266,13 +7266,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 2,
-      "Борщев Валерий Васильевич": 0,
-      "Малинин Виктор Андреевич": 0,
-      "Рязанский Валерий Владимирович": 4,
-      "Сидоров Ярослав Северович": 5,
-      "Хидиятуллин Вагиз Назирович": 5,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000136152": 2,
+      "gas:candidate-vibid:1001000112277": 0,
+      "gas:candidate-vibid:1001000190451": 0,
+      "gas:candidate-vibid:1001000226010": 4,
+      "gas:candidate-vibid:1001000121937": 5,
+      "gas:candidate-vibid:1001000195167": 5,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870582&region=0&sub_region=0&type=429",
@@ -7322,13 +7322,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 29,
-      "Борщев Валерий Васильевич": 17,
-      "Малинин Виктор Андреевич": 11,
-      "Рязанский Валерий Владимирович": 34,
-      "Сидоров Ярослав Северович": 12,
-      "Хидиятуллин Вагиз Назирович": 21,
-      "Против всех": 51
+      "gas:candidate-vibid:1001000136152": 29,
+      "gas:candidate-vibid:1001000112277": 17,
+      "gas:candidate-vibid:1001000190451": 11,
+      "gas:candidate-vibid:1001000226010": 34,
+      "gas:candidate-vibid:1001000121937": 12,
+      "gas:candidate-vibid:1001000195167": 21,
+      "special:against-all": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870582&region=0&sub_region=0&type=429",
@@ -7378,13 +7378,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 0,
-      "Борщев Валерий Васильевич": 0,
-      "Малинин Виктор Андреевич": 0,
-      "Рязанский Валерий Владимирович": 2,
-      "Сидоров Ярослав Северович": 3,
-      "Хидиятуллин Вагиз Назирович": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000136152": 0,
+      "gas:candidate-vibid:1001000112277": 0,
+      "gas:candidate-vibid:1001000190451": 0,
+      "gas:candidate-vibid:1001000226010": 2,
+      "gas:candidate-vibid:1001000121937": 3,
+      "gas:candidate-vibid:1001000195167": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870582&region=0&sub_region=0&type=429",
@@ -7434,13 +7434,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 1,
-      "Борщев Валерий Васильевич": 17,
-      "Малинин Виктор Андреевич": 3,
-      "Рязанский Валерий Владимирович": 17,
-      "Сидоров Ярослав Северович": 8,
-      "Хидиятуллин Вагиз Назирович": 2,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000136152": 1,
+      "gas:candidate-vibid:1001000112277": 17,
+      "gas:candidate-vibid:1001000190451": 3,
+      "gas:candidate-vibid:1001000226010": 17,
+      "gas:candidate-vibid:1001000121937": 8,
+      "gas:candidate-vibid:1001000195167": 2,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870582&region=0&sub_region=0&type=429",
@@ -7490,13 +7490,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 19,
-      "Борщев Валерий Васильевич": 67,
-      "Малинин Виктор Андреевич": 15,
-      "Рязанский Валерий Владимирович": 42,
-      "Сидоров Ярослав Северович": 26,
-      "Хидиятуллин Вагиз Назирович": 14,
-      "Против всех": 59
+      "gas:candidate-vibid:1001000136152": 19,
+      "gas:candidate-vibid:1001000112277": 67,
+      "gas:candidate-vibid:1001000190451": 15,
+      "gas:candidate-vibid:1001000226010": 42,
+      "gas:candidate-vibid:1001000121937": 26,
+      "gas:candidate-vibid:1001000195167": 14,
+      "special:against-all": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870582&region=0&sub_region=0&type=429",
@@ -7546,13 +7546,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 6,
-      "Борщев Валерий Васильевич": 76,
-      "Малинин Виктор Андреевич": 6,
-      "Рязанский Валерий Владимирович": 41,
-      "Сидоров Ярослав Северович": 16,
-      "Хидиятуллин Вагиз Назирович": 6,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000136152": 6,
+      "gas:candidate-vibid:1001000112277": 76,
+      "gas:candidate-vibid:1001000190451": 6,
+      "gas:candidate-vibid:1001000226010": 41,
+      "gas:candidate-vibid:1001000121937": 16,
+      "gas:candidate-vibid:1001000195167": 6,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870582&region=0&sub_region=0&type=429",
@@ -7602,13 +7602,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 6,
-      "Борщев Валерий Васильевич": 16,
-      "Малинин Виктор Андреевич": 1,
-      "Рязанский Валерий Владимирович": 26,
-      "Сидоров Ярослав Северович": 9,
-      "Хидиятуллин Вагиз Назирович": 4,
-      "Против всех": 43
+      "gas:candidate-vibid:1001000136152": 6,
+      "gas:candidate-vibid:1001000112277": 16,
+      "gas:candidate-vibid:1001000190451": 1,
+      "gas:candidate-vibid:1001000226010": 26,
+      "gas:candidate-vibid:1001000121937": 9,
+      "gas:candidate-vibid:1001000195167": 4,
+      "special:against-all": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870582&region=0&sub_region=0&type=429",
@@ -7658,13 +7658,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 4,
-      "Борщев Валерий Васильевич": 9,
-      "Малинин Виктор Андреевич": 6,
-      "Рязанский Валерий Владимирович": 35,
-      "Сидоров Ярослав Северович": 4,
-      "Хидиятуллин Вагиз Назирович": 6,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000136152": 4,
+      "gas:candidate-vibid:1001000112277": 9,
+      "gas:candidate-vibid:1001000190451": 6,
+      "gas:candidate-vibid:1001000226010": 35,
+      "gas:candidate-vibid:1001000121937": 4,
+      "gas:candidate-vibid:1001000195167": 6,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870582&region=0&sub_region=0&type=429",
@@ -7714,13 +7714,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 15,
-      "Борщев Валерий Васильевич": 11,
-      "Малинин Виктор Андреевич": 3,
-      "Рязанский Валерий Владимирович": 23,
-      "Сидоров Ярослав Северович": 18,
-      "Хидиятуллин Вагиз Назирович": 5,
-      "Против всех": 44
+      "gas:candidate-vibid:1001000136152": 15,
+      "gas:candidate-vibid:1001000112277": 11,
+      "gas:candidate-vibid:1001000190451": 3,
+      "gas:candidate-vibid:1001000226010": 23,
+      "gas:candidate-vibid:1001000121937": 18,
+      "gas:candidate-vibid:1001000195167": 5,
+      "special:against-all": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870582&region=0&sub_region=0&type=429",
@@ -7770,13 +7770,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 3,
-      "Борщев Валерий Васильевич": 9,
-      "Малинин Виктор Андреевич": 4,
-      "Рязанский Валерий Владимирович": 17,
-      "Сидоров Ярослав Северович": 5,
-      "Хидиятуллин Вагиз Назирович": 9,
-      "Против всех": 25
+      "gas:candidate-vibid:1001000136152": 3,
+      "gas:candidate-vibid:1001000112277": 9,
+      "gas:candidate-vibid:1001000190451": 4,
+      "gas:candidate-vibid:1001000226010": 17,
+      "gas:candidate-vibid:1001000121937": 5,
+      "gas:candidate-vibid:1001000195167": 9,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870582&region=0&sub_region=0&type=429",
@@ -7826,13 +7826,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 8,
-      "Борщев Валерий Васильевич": 11,
-      "Малинин Виктор Андреевич": 4,
-      "Рязанский Валерий Владимирович": 22,
-      "Сидоров Ярослав Северович": 11,
-      "Хидиятуллин Вагиз Назирович": 5,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000136152": 8,
+      "gas:candidate-vibid:1001000112277": 11,
+      "gas:candidate-vibid:1001000190451": 4,
+      "gas:candidate-vibid:1001000226010": 22,
+      "gas:candidate-vibid:1001000121937": 11,
+      "gas:candidate-vibid:1001000195167": 5,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870582&region=0&sub_region=0&type=429",
@@ -7882,13 +7882,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 1,
-      "Борщев Валерий Васильевич": 1,
-      "Малинин Виктор Андреевич": 0,
-      "Рязанский Валерий Владимирович": 11,
-      "Сидоров Ярослав Северович": 2,
-      "Хидиятуллин Вагиз Назирович": 2,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000136152": 1,
+      "gas:candidate-vibid:1001000112277": 1,
+      "gas:candidate-vibid:1001000190451": 0,
+      "gas:candidate-vibid:1001000226010": 11,
+      "gas:candidate-vibid:1001000121937": 2,
+      "gas:candidate-vibid:1001000195167": 2,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870582&region=0&sub_region=0&type=429",
@@ -7938,13 +7938,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 5,
-      "Борщев Валерий Васильевич": 37,
-      "Малинин Виктор Андреевич": 2,
-      "Рязанский Валерий Владимирович": 33,
-      "Сидоров Ярослав Северович": 8,
-      "Хидиятуллин Вагиз Назирович": 6,
-      "Против всех": 46
+      "gas:candidate-vibid:1001000136152": 5,
+      "gas:candidate-vibid:1001000112277": 37,
+      "gas:candidate-vibid:1001000190451": 2,
+      "gas:candidate-vibid:1001000226010": 33,
+      "gas:candidate-vibid:1001000121937": 8,
+      "gas:candidate-vibid:1001000195167": 6,
+      "special:against-all": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870582&region=0&sub_region=0&type=429",
@@ -7994,13 +7994,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 9,
-      "Борщев Валерий Васильевич": 12,
-      "Малинин Виктор Андреевич": 5,
-      "Рязанский Валерий Владимирович": 34,
-      "Сидоров Ярослав Северович": 12,
-      "Хидиятуллин Вагиз Назирович": 14,
-      "Против всех": 25
+      "gas:candidate-vibid:1001000136152": 9,
+      "gas:candidate-vibid:1001000112277": 12,
+      "gas:candidate-vibid:1001000190451": 5,
+      "gas:candidate-vibid:1001000226010": 34,
+      "gas:candidate-vibid:1001000121937": 12,
+      "gas:candidate-vibid:1001000195167": 14,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870582&region=0&sub_region=0&type=429",
@@ -8050,13 +8050,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 155,
-      "Борщев Валерий Васильевич": 208,
-      "Малинин Виктор Андреевич": 64,
-      "Рязанский Валерий Владимирович": 593,
-      "Сидоров Ярослав Северович": 191,
-      "Хидиятуллин Вагиз Назирович": 61,
-      "Против всех": 87
+      "gas:candidate-vibid:1001000136152": 155,
+      "gas:candidate-vibid:1001000112277": 208,
+      "gas:candidate-vibid:1001000190451": 64,
+      "gas:candidate-vibid:1001000226010": 593,
+      "gas:candidate-vibid:1001000121937": 191,
+      "gas:candidate-vibid:1001000195167": 61,
+      "special:against-all": 87
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870582&region=0&sub_region=0&type=429",
@@ -8106,13 +8106,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 2,
-      "Борщев Валерий Васильевич": 4,
-      "Малинин Виктор Андреевич": 5,
-      "Рязанский Валерий Владимирович": 7,
-      "Сидоров Ярослав Северович": 2,
-      "Хидиятуллин Вагиз Назирович": 4,
-      "Против всех": 24
+      "gas:candidate-vibid:1001000136152": 2,
+      "gas:candidate-vibid:1001000112277": 4,
+      "gas:candidate-vibid:1001000190451": 5,
+      "gas:candidate-vibid:1001000226010": 7,
+      "gas:candidate-vibid:1001000121937": 2,
+      "gas:candidate-vibid:1001000195167": 4,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870582&region=0&sub_region=0&type=429",
@@ -8162,13 +8162,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 36,
-      "Борщев Валерий Васильевич": 190,
-      "Малинин Виктор Андреевич": 31,
-      "Рязанский Валерий Владимирович": 146,
-      "Сидоров Ярослав Северович": 64,
-      "Хидиятуллин Вагиз Назирович": 45,
-      "Против всех": 165
+      "gas:candidate-vibid:1001000136152": 36,
+      "gas:candidate-vibid:1001000112277": 190,
+      "gas:candidate-vibid:1001000190451": 31,
+      "gas:candidate-vibid:1001000226010": 146,
+      "gas:candidate-vibid:1001000121937": 64,
+      "gas:candidate-vibid:1001000195167": 45,
+      "special:against-all": 165
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870582&region=0&sub_region=0&type=429",
@@ -8218,13 +8218,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 15,
-      "Борщев Валерий Васильевич": 52,
-      "Малинин Виктор Андреевич": 3,
-      "Рязанский Валерий Владимирович": 51,
-      "Сидоров Ярослав Северович": 5,
-      "Хидиятуллин Вагиз Назирович": 11,
-      "Против всех": 49
+      "gas:candidate-vibid:1001000136152": 15,
+      "gas:candidate-vibid:1001000112277": 52,
+      "gas:candidate-vibid:1001000190451": 3,
+      "gas:candidate-vibid:1001000226010": 51,
+      "gas:candidate-vibid:1001000121937": 5,
+      "gas:candidate-vibid:1001000195167": 11,
+      "special:against-all": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870582&region=0&sub_region=0&type=429",
@@ -8274,13 +8274,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 1,
-      "Борщев Валерий Васильевич": 4,
-      "Малинин Виктор Андреевич": 0,
-      "Рязанский Валерий Владимирович": 5,
-      "Сидоров Ярослав Северович": 0,
-      "Хидиятуллин Вагиз Назирович": 0,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000136152": 1,
+      "gas:candidate-vibid:1001000112277": 4,
+      "gas:candidate-vibid:1001000190451": 0,
+      "gas:candidate-vibid:1001000226010": 5,
+      "gas:candidate-vibid:1001000121937": 0,
+      "gas:candidate-vibid:1001000195167": 0,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870582&region=0&sub_region=0&type=429",
@@ -8330,13 +8330,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 8,
-      "Борщев Валерий Васильевич": 11,
-      "Малинин Виктор Андреевич": 2,
-      "Рязанский Валерий Владимирович": 25,
-      "Сидоров Ярослав Северович": 14,
-      "Хидиятуллин Вагиз Назирович": 3,
-      "Против всех": 28
+      "gas:candidate-vibid:1001000136152": 8,
+      "gas:candidate-vibid:1001000112277": 11,
+      "gas:candidate-vibid:1001000190451": 2,
+      "gas:candidate-vibid:1001000226010": 25,
+      "gas:candidate-vibid:1001000121937": 14,
+      "gas:candidate-vibid:1001000195167": 3,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870582&region=0&sub_region=0&type=429",
@@ -8386,13 +8386,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 7,
-      "Борщев Валерий Васильевич": 8,
-      "Малинин Виктор Андреевич": 6,
-      "Рязанский Валерий Владимирович": 8,
-      "Сидоров Ярослав Северович": 7,
-      "Хидиятуллин Вагиз Назирович": 4,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000136152": 7,
+      "gas:candidate-vibid:1001000112277": 8,
+      "gas:candidate-vibid:1001000190451": 6,
+      "gas:candidate-vibid:1001000226010": 8,
+      "gas:candidate-vibid:1001000121937": 7,
+      "gas:candidate-vibid:1001000195167": 4,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870582&region=0&sub_region=0&type=429",
@@ -8442,13 +8442,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 16,
-      "Борщев Валерий Васильевич": 57,
-      "Малинин Виктор Андреевич": 18,
-      "Рязанский Валерий Владимирович": 132,
-      "Сидоров Ярослав Северович": 44,
-      "Хидиятуллин Вагиз Назирович": 47,
-      "Против всех": 104
+      "gas:candidate-vibid:1001000136152": 16,
+      "gas:candidate-vibid:1001000112277": 57,
+      "gas:candidate-vibid:1001000190451": 18,
+      "gas:candidate-vibid:1001000226010": 132,
+      "gas:candidate-vibid:1001000121937": 44,
+      "gas:candidate-vibid:1001000195167": 47,
+      "special:against-all": 104
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870582&region=0&sub_region=0&type=429",
@@ -8498,13 +8498,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 4,
-      "Борщев Валерий Васильевич": 8,
-      "Малинин Виктор Андреевич": 0,
-      "Рязанский Валерий Владимирович": 19,
-      "Сидоров Ярослав Северович": 1,
-      "Хидиятуллин Вагиз Назирович": 2,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000136152": 4,
+      "gas:candidate-vibid:1001000112277": 8,
+      "gas:candidate-vibid:1001000190451": 0,
+      "gas:candidate-vibid:1001000226010": 19,
+      "gas:candidate-vibid:1001000121937": 1,
+      "gas:candidate-vibid:1001000195167": 2,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870582&region=0&sub_region=0&type=429",
@@ -8554,13 +8554,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 13,
-      "Борщев Валерий Васильевич": 84,
-      "Малинин Виктор Андреевич": 12,
-      "Рязанский Валерий Владимирович": 68,
-      "Сидоров Ярослав Северович": 50,
-      "Хидиятуллин Вагиз Назирович": 16,
-      "Против всех": 97
+      "gas:candidate-vibid:1001000136152": 13,
+      "gas:candidate-vibid:1001000112277": 84,
+      "gas:candidate-vibid:1001000190451": 12,
+      "gas:candidate-vibid:1001000226010": 68,
+      "gas:candidate-vibid:1001000121937": 50,
+      "gas:candidate-vibid:1001000195167": 16,
+      "special:against-all": 97
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870582&region=0&sub_region=0&type=429",
@@ -8610,13 +8610,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 2,
-      "Борщев Валерий Васильевич": 14,
-      "Малинин Виктор Андреевич": 0,
-      "Рязанский Валерий Владимирович": 16,
-      "Сидоров Ярослав Северович": 3,
-      "Хидиятуллин Вагиз Назирович": 2,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000136152": 2,
+      "gas:candidate-vibid:1001000112277": 14,
+      "gas:candidate-vibid:1001000190451": 0,
+      "gas:candidate-vibid:1001000226010": 16,
+      "gas:candidate-vibid:1001000121937": 3,
+      "gas:candidate-vibid:1001000195167": 2,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870582&region=0&sub_region=0&type=429",
@@ -8666,13 +8666,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 0,
-      "Борщев Валерий Васильевич": 15,
-      "Малинин Виктор Андреевич": 0,
-      "Рязанский Валерий Владимирович": 3,
-      "Сидоров Ярослав Северович": 4,
-      "Хидиятуллин Вагиз Назирович": 0,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000136152": 0,
+      "gas:candidate-vibid:1001000112277": 15,
+      "gas:candidate-vibid:1001000190451": 0,
+      "gas:candidate-vibid:1001000226010": 3,
+      "gas:candidate-vibid:1001000121937": 4,
+      "gas:candidate-vibid:1001000195167": 0,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870582&region=0&sub_region=0&type=429",
@@ -8722,13 +8722,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 1,
-      "Борщев Валерий Васильевич": 16,
-      "Малинин Виктор Андреевич": 0,
-      "Рязанский Валерий Владимирович": 4,
-      "Сидоров Ярослав Северович": 2,
-      "Хидиятуллин Вагиз Назирович": 3,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000136152": 1,
+      "gas:candidate-vibid:1001000112277": 16,
+      "gas:candidate-vibid:1001000190451": 0,
+      "gas:candidate-vibid:1001000226010": 4,
+      "gas:candidate-vibid:1001000121937": 2,
+      "gas:candidate-vibid:1001000195167": 3,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870582&region=0&sub_region=0&type=429",
@@ -8778,13 +8778,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 8,
-      "Борщев Валерий Васильевич": 144,
-      "Малинин Виктор Андреевич": 4,
-      "Рязанский Валерий Владимирович": 65,
-      "Сидоров Ярослав Северович": 34,
-      "Хидиятуллин Вагиз Назирович": 14,
-      "Против всех": 41
+      "gas:candidate-vibid:1001000136152": 8,
+      "gas:candidate-vibid:1001000112277": 144,
+      "gas:candidate-vibid:1001000190451": 4,
+      "gas:candidate-vibid:1001000226010": 65,
+      "gas:candidate-vibid:1001000121937": 34,
+      "gas:candidate-vibid:1001000195167": 14,
+      "special:against-all": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870582&region=0&sub_region=0&type=429",
@@ -8834,13 +8834,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 1,
-      "Борщев Валерий Васильевич": 18,
-      "Малинин Виктор Андреевич": 4,
-      "Рязанский Валерий Владимирович": 16,
-      "Сидоров Ярослав Северович": 3,
-      "Хидиятуллин Вагиз Назирович": 2,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000136152": 1,
+      "gas:candidate-vibid:1001000112277": 18,
+      "gas:candidate-vibid:1001000190451": 4,
+      "gas:candidate-vibid:1001000226010": 16,
+      "gas:candidate-vibid:1001000121937": 3,
+      "gas:candidate-vibid:1001000195167": 2,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870582&region=0&sub_region=0&type=429",
@@ -8890,13 +8890,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 37,
-      "Борщев Валерий Васильевич": 171,
-      "Малинин Виктор Андреевич": 33,
-      "Рязанский Валерий Владимирович": 608,
-      "Сидоров Ярослав Северович": 117,
-      "Хидиятуллин Вагиз Назирович": 42,
-      "Против всех": 271
+      "gas:candidate-vibid:1001000136152": 37,
+      "gas:candidate-vibid:1001000112277": 171,
+      "gas:candidate-vibid:1001000190451": 33,
+      "gas:candidate-vibid:1001000226010": 608,
+      "gas:candidate-vibid:1001000121937": 117,
+      "gas:candidate-vibid:1001000195167": 42,
+      "special:against-all": 271
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870583&region=0&sub_region=0&type=429",
@@ -8946,13 +8946,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 40,
-      "Борщев Валерий Васильевич": 293,
-      "Малинин Виктор Андреевич": 40,
-      "Рязанский Валерий Владимирович": 504,
-      "Сидоров Ярослав Северович": 103,
-      "Хидиятуллин Вагиз Назирович": 54,
-      "Против всех": 315
+      "gas:candidate-vibid:1001000136152": 40,
+      "gas:candidate-vibid:1001000112277": 293,
+      "gas:candidate-vibid:1001000190451": 40,
+      "gas:candidate-vibid:1001000226010": 504,
+      "gas:candidate-vibid:1001000121937": 103,
+      "gas:candidate-vibid:1001000195167": 54,
+      "special:against-all": 315
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870583&region=0&sub_region=0&type=429",
@@ -9002,13 +9002,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 55,
-      "Борщев Валерий Васильевич": 222,
-      "Малинин Виктор Андреевич": 36,
-      "Рязанский Валерий Владимирович": 692,
-      "Сидоров Ярослав Северович": 137,
-      "Хидиятуллин Вагиз Назирович": 54,
-      "Против всех": 344
+      "gas:candidate-vibid:1001000136152": 55,
+      "gas:candidate-vibid:1001000112277": 222,
+      "gas:candidate-vibid:1001000190451": 36,
+      "gas:candidate-vibid:1001000226010": 692,
+      "gas:candidate-vibid:1001000121937": 137,
+      "gas:candidate-vibid:1001000195167": 54,
+      "special:against-all": 344
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870583&region=0&sub_region=0&type=429",
@@ -9058,13 +9058,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 38,
-      "Борщев Валерий Васильевич": 384,
-      "Малинин Виктор Андреевич": 48,
-      "Рязанский Валерий Владимирович": 564,
-      "Сидоров Ярослав Северович": 108,
-      "Хидиятуллин Вагиз Назирович": 53,
-      "Против всех": 279
+      "gas:candidate-vibid:1001000136152": 38,
+      "gas:candidate-vibid:1001000112277": 384,
+      "gas:candidate-vibid:1001000190451": 48,
+      "gas:candidate-vibid:1001000226010": 564,
+      "gas:candidate-vibid:1001000121937": 108,
+      "gas:candidate-vibid:1001000195167": 53,
+      "special:against-all": 279
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870583&region=0&sub_region=0&type=429",
@@ -9114,13 +9114,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 45,
-      "Борщев Валерий Васильевич": 258,
-      "Малинин Виктор Андреевич": 33,
-      "Рязанский Валерий Владимирович": 715,
-      "Сидоров Ярослав Северович": 150,
-      "Хидиятуллин Вагиз Назирович": 46,
-      "Против всех": 329
+      "gas:candidate-vibid:1001000136152": 45,
+      "gas:candidate-vibid:1001000112277": 258,
+      "gas:candidate-vibid:1001000190451": 33,
+      "gas:candidate-vibid:1001000226010": 715,
+      "gas:candidate-vibid:1001000121937": 150,
+      "gas:candidate-vibid:1001000195167": 46,
+      "special:against-all": 329
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870583&region=0&sub_region=0&type=429",
@@ -9170,13 +9170,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 51,
-      "Борщев Валерий Васильевич": 242,
-      "Малинин Виктор Андреевич": 44,
-      "Рязанский Валерий Владимирович": 580,
-      "Сидоров Ярослав Северович": 132,
-      "Хидиятуллин Вагиз Назирович": 48,
-      "Против всех": 329
+      "gas:candidate-vibid:1001000136152": 51,
+      "gas:candidate-vibid:1001000112277": 242,
+      "gas:candidate-vibid:1001000190451": 44,
+      "gas:candidate-vibid:1001000226010": 580,
+      "gas:candidate-vibid:1001000121937": 132,
+      "gas:candidate-vibid:1001000195167": 48,
+      "special:against-all": 329
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870583&region=0&sub_region=0&type=429",
@@ -9226,13 +9226,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 39,
-      "Борщев Валерий Васильевич": 262,
-      "Малинин Виктор Андреевич": 25,
-      "Рязанский Валерий Владимирович": 589,
-      "Сидоров Ярослав Северович": 91,
-      "Хидиятуллин Вагиз Назирович": 44,
-      "Против всех": 291
+      "gas:candidate-vibid:1001000136152": 39,
+      "gas:candidate-vibid:1001000112277": 262,
+      "gas:candidate-vibid:1001000190451": 25,
+      "gas:candidate-vibid:1001000226010": 589,
+      "gas:candidate-vibid:1001000121937": 91,
+      "gas:candidate-vibid:1001000195167": 44,
+      "special:against-all": 291
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870583&region=0&sub_region=0&type=429",
@@ -9282,13 +9282,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 48,
-      "Борщев Валерий Васильевич": 290,
-      "Малинин Виктор Андреевич": 41,
-      "Рязанский Валерий Владимирович": 652,
-      "Сидоров Ярослав Северович": 140,
-      "Хидиятуллин Вагиз Назирович": 63,
-      "Против всех": 285
+      "gas:candidate-vibid:1001000136152": 48,
+      "gas:candidate-vibid:1001000112277": 290,
+      "gas:candidate-vibid:1001000190451": 41,
+      "gas:candidate-vibid:1001000226010": 652,
+      "gas:candidate-vibid:1001000121937": 140,
+      "gas:candidate-vibid:1001000195167": 63,
+      "special:against-all": 285
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870583&region=0&sub_region=0&type=429",
@@ -9338,13 +9338,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 50,
-      "Борщев Валерий Васильевич": 250,
-      "Малинин Виктор Андреевич": 37,
-      "Рязанский Валерий Владимирович": 573,
-      "Сидоров Ярослав Северович": 171,
-      "Хидиятуллин Вагиз Назирович": 57,
-      "Против всех": 346
+      "gas:candidate-vibid:1001000136152": 50,
+      "gas:candidate-vibid:1001000112277": 250,
+      "gas:candidate-vibid:1001000190451": 37,
+      "gas:candidate-vibid:1001000226010": 573,
+      "gas:candidate-vibid:1001000121937": 171,
+      "gas:candidate-vibid:1001000195167": 57,
+      "special:against-all": 346
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870583&region=0&sub_region=0&type=429",
@@ -9394,13 +9394,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 49,
-      "Борщев Валерий Васильевич": 194,
-      "Малинин Виктор Андреевич": 38,
-      "Рязанский Валерий Владимирович": 585,
-      "Сидоров Ярослав Северович": 145,
-      "Хидиятуллин Вагиз Назирович": 41,
-      "Против всех": 268
+      "gas:candidate-vibid:1001000136152": 49,
+      "gas:candidate-vibid:1001000112277": 194,
+      "gas:candidate-vibid:1001000190451": 38,
+      "gas:candidate-vibid:1001000226010": 585,
+      "gas:candidate-vibid:1001000121937": 145,
+      "gas:candidate-vibid:1001000195167": 41,
+      "special:against-all": 268
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870583&region=0&sub_region=0&type=429",
@@ -9450,13 +9450,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 44,
-      "Борщев Валерий Васильевич": 269,
-      "Малинин Виктор Андреевич": 47,
-      "Рязанский Валерий Владимирович": 708,
-      "Сидоров Ярослав Северович": 96,
-      "Хидиятуллин Вагиз Назирович": 50,
-      "Против всех": 313
+      "gas:candidate-vibid:1001000136152": 44,
+      "gas:candidate-vibid:1001000112277": 269,
+      "gas:candidate-vibid:1001000190451": 47,
+      "gas:candidate-vibid:1001000226010": 708,
+      "gas:candidate-vibid:1001000121937": 96,
+      "gas:candidate-vibid:1001000195167": 50,
+      "special:against-all": 313
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870583&region=0&sub_region=0&type=429",
@@ -9506,13 +9506,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 48,
-      "Борщев Валерий Васильевич": 253,
-      "Малинин Виктор Андреевич": 54,
-      "Рязанский Валерий Владимирович": 632,
-      "Сидоров Ярослав Северович": 120,
-      "Хидиятуллин Вагиз Назирович": 68,
-      "Против всех": 286
+      "gas:candidate-vibid:1001000136152": 48,
+      "gas:candidate-vibid:1001000112277": 253,
+      "gas:candidate-vibid:1001000190451": 54,
+      "gas:candidate-vibid:1001000226010": 632,
+      "gas:candidate-vibid:1001000121937": 120,
+      "gas:candidate-vibid:1001000195167": 68,
+      "special:against-all": 286
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870583&region=0&sub_region=0&type=429",
@@ -9562,13 +9562,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 27,
-      "Борщев Валерий Васильевич": 122,
-      "Малинин Виктор Андреевич": 12,
-      "Рязанский Валерий Владимирович": 464,
-      "Сидоров Ярослав Северович": 78,
-      "Хидиятуллин Вагиз Назирович": 27,
-      "Против всех": 187
+      "gas:candidate-vibid:1001000136152": 27,
+      "gas:candidate-vibid:1001000112277": 122,
+      "gas:candidate-vibid:1001000190451": 12,
+      "gas:candidate-vibid:1001000226010": 464,
+      "gas:candidate-vibid:1001000121937": 78,
+      "gas:candidate-vibid:1001000195167": 27,
+      "special:against-all": 187
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870583&region=0&sub_region=0&type=429",
@@ -9618,13 +9618,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 35,
-      "Борщев Валерий Васильевич": 128,
-      "Малинин Виктор Андреевич": 28,
-      "Рязанский Валерий Владимирович": 473,
-      "Сидоров Ярослав Северович": 57,
-      "Хидиятуллин Вагиз Назирович": 26,
-      "Против всех": 176
+      "gas:candidate-vibid:1001000136152": 35,
+      "gas:candidate-vibid:1001000112277": 128,
+      "gas:candidate-vibid:1001000190451": 28,
+      "gas:candidate-vibid:1001000226010": 473,
+      "gas:candidate-vibid:1001000121937": 57,
+      "gas:candidate-vibid:1001000195167": 26,
+      "special:against-all": 176
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870583&region=0&sub_region=0&type=429",
@@ -9674,13 +9674,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 41,
-      "Борщев Валерий Васильевич": 152,
-      "Малинин Виктор Андреевич": 45,
-      "Рязанский Валерий Владимирович": 603,
-      "Сидоров Ярослав Северович": 85,
-      "Хидиятуллин Вагиз Назирович": 31,
-      "Против всех": 255
+      "gas:candidate-vibid:1001000136152": 41,
+      "gas:candidate-vibid:1001000112277": 152,
+      "gas:candidate-vibid:1001000190451": 45,
+      "gas:candidate-vibid:1001000226010": 603,
+      "gas:candidate-vibid:1001000121937": 85,
+      "gas:candidate-vibid:1001000195167": 31,
+      "special:against-all": 255
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870583&region=0&sub_region=0&type=429",
@@ -9730,13 +9730,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 51,
-      "Борщев Валерий Васильевич": 168,
-      "Малинин Виктор Андреевич": 24,
-      "Рязанский Валерий Владимирович": 712,
-      "Сидоров Ярослав Северович": 95,
-      "Хидиятуллин Вагиз Назирович": 66,
-      "Против всех": 244
+      "gas:candidate-vibid:1001000136152": 51,
+      "gas:candidate-vibid:1001000112277": 168,
+      "gas:candidate-vibid:1001000190451": 24,
+      "gas:candidate-vibid:1001000226010": 712,
+      "gas:candidate-vibid:1001000121937": 95,
+      "gas:candidate-vibid:1001000195167": 66,
+      "special:against-all": 244
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870583&region=0&sub_region=0&type=429",
@@ -9786,13 +9786,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 64,
-      "Борщев Валерий Васильевич": 244,
-      "Малинин Виктор Андреевич": 44,
-      "Рязанский Валерий Владимирович": 668,
-      "Сидоров Ярослав Северович": 130,
-      "Хидиятуллин Вагиз Назирович": 64,
-      "Против всех": 373
+      "gas:candidate-vibid:1001000136152": 64,
+      "gas:candidate-vibid:1001000112277": 244,
+      "gas:candidate-vibid:1001000190451": 44,
+      "gas:candidate-vibid:1001000226010": 668,
+      "gas:candidate-vibid:1001000121937": 130,
+      "gas:candidate-vibid:1001000195167": 64,
+      "special:against-all": 373
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870583&region=0&sub_region=0&type=429",
@@ -9842,13 +9842,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 35,
-      "Борщев Валерий Васильевич": 223,
-      "Малинин Виктор Андреевич": 20,
-      "Рязанский Валерий Владимирович": 464,
-      "Сидоров Ярослав Северович": 85,
-      "Хидиятуллин Вагиз Назирович": 48,
-      "Против всех": 239
+      "gas:candidate-vibid:1001000136152": 35,
+      "gas:candidate-vibid:1001000112277": 223,
+      "gas:candidate-vibid:1001000190451": 20,
+      "gas:candidate-vibid:1001000226010": 464,
+      "gas:candidate-vibid:1001000121937": 85,
+      "gas:candidate-vibid:1001000195167": 48,
+      "special:against-all": 239
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870583&region=0&sub_region=0&type=429",
@@ -9898,13 +9898,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 43,
-      "Борщев Валерий Васильевич": 179,
-      "Малинин Виктор Андреевич": 41,
-      "Рязанский Валерий Владимирович": 537,
-      "Сидоров Ярослав Северович": 95,
-      "Хидиятуллин Вагиз Назирович": 54,
-      "Против всех": 219
+      "gas:candidate-vibid:1001000136152": 43,
+      "gas:candidate-vibid:1001000112277": 179,
+      "gas:candidate-vibid:1001000190451": 41,
+      "gas:candidate-vibid:1001000226010": 537,
+      "gas:candidate-vibid:1001000121937": 95,
+      "gas:candidate-vibid:1001000195167": 54,
+      "special:against-all": 219
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870583&region=0&sub_region=0&type=429",
@@ -9954,13 +9954,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 60,
-      "Борщев Валерий Васильевич": 171,
-      "Малинин Виктор Андреевич": 39,
-      "Рязанский Валерий Владимирович": 544,
-      "Сидоров Ярослав Северович": 96,
-      "Хидиятуллин Вагиз Назирович": 48,
-      "Против всех": 227
+      "gas:candidate-vibid:1001000136152": 60,
+      "gas:candidate-vibid:1001000112277": 171,
+      "gas:candidate-vibid:1001000190451": 39,
+      "gas:candidate-vibid:1001000226010": 544,
+      "gas:candidate-vibid:1001000121937": 96,
+      "gas:candidate-vibid:1001000195167": 48,
+      "special:against-all": 227
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870583&region=0&sub_region=0&type=429",
@@ -10010,13 +10010,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 35,
-      "Борщев Валерий Васильевич": 180,
-      "Малинин Виктор Андреевич": 30,
-      "Рязанский Валерий Владимирович": 489,
-      "Сидоров Ярослав Северович": 98,
-      "Хидиятуллин Вагиз Назирович": 48,
-      "Против всех": 253
+      "gas:candidate-vibid:1001000136152": 35,
+      "gas:candidate-vibid:1001000112277": 180,
+      "gas:candidate-vibid:1001000190451": 30,
+      "gas:candidate-vibid:1001000226010": 489,
+      "gas:candidate-vibid:1001000121937": 98,
+      "gas:candidate-vibid:1001000195167": 48,
+      "special:against-all": 253
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870583&region=0&sub_region=0&type=429",
@@ -10066,13 +10066,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 33,
-      "Борщев Валерий Васильевич": 155,
-      "Малинин Виктор Андреевич": 27,
-      "Рязанский Валерий Владимирович": 541,
-      "Сидоров Ярослав Северович": 86,
-      "Хидиятуллин Вагиз Назирович": 36,
-      "Против всех": 190
+      "gas:candidate-vibid:1001000136152": 33,
+      "gas:candidate-vibid:1001000112277": 155,
+      "gas:candidate-vibid:1001000190451": 27,
+      "gas:candidate-vibid:1001000226010": 541,
+      "gas:candidate-vibid:1001000121937": 86,
+      "gas:candidate-vibid:1001000195167": 36,
+      "special:against-all": 190
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870583&region=0&sub_region=0&type=429",
@@ -10122,13 +10122,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 55,
-      "Борщев Валерий Васильевич": 256,
-      "Малинин Виктор Андреевич": 47,
-      "Рязанский Валерий Владимирович": 580,
-      "Сидоров Ярослав Северович": 131,
-      "Хидиятуллин Вагиз Назирович": 61,
-      "Против всех": 303
+      "gas:candidate-vibid:1001000136152": 55,
+      "gas:candidate-vibid:1001000112277": 256,
+      "gas:candidate-vibid:1001000190451": 47,
+      "gas:candidate-vibid:1001000226010": 580,
+      "gas:candidate-vibid:1001000121937": 131,
+      "gas:candidate-vibid:1001000195167": 61,
+      "special:against-all": 303
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870583&region=0&sub_region=0&type=429",
@@ -10178,13 +10178,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 61,
-      "Борщев Валерий Васильевич": 244,
-      "Малинин Виктор Андреевич": 52,
-      "Рязанский Валерий Владимирович": 525,
-      "Сидоров Ярослав Северович": 109,
-      "Хидиятуллин Вагиз Назирович": 62,
-      "Против всех": 253
+      "gas:candidate-vibid:1001000136152": 61,
+      "gas:candidate-vibid:1001000112277": 244,
+      "gas:candidate-vibid:1001000190451": 52,
+      "gas:candidate-vibid:1001000226010": 525,
+      "gas:candidate-vibid:1001000121937": 109,
+      "gas:candidate-vibid:1001000195167": 62,
+      "special:against-all": 253
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870583&region=0&sub_region=0&type=429",
@@ -10234,13 +10234,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 51,
-      "Борщев Валерий Васильевич": 218,
-      "Малинин Виктор Андреевич": 46,
-      "Рязанский Валерий Владимирович": 579,
-      "Сидоров Ярослав Северович": 98,
-      "Хидиятуллин Вагиз Назирович": 56,
-      "Против всех": 307
+      "gas:candidate-vibid:1001000136152": 51,
+      "gas:candidate-vibid:1001000112277": 218,
+      "gas:candidate-vibid:1001000190451": 46,
+      "gas:candidate-vibid:1001000226010": 579,
+      "gas:candidate-vibid:1001000121937": 98,
+      "gas:candidate-vibid:1001000195167": 56,
+      "special:against-all": 307
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870583&region=0&sub_region=0&type=429",
@@ -10290,13 +10290,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 57,
-      "Борщев Валерий Васильевич": 347,
-      "Малинин Виктор Андреевич": 30,
-      "Рязанский Валерий Владимирович": 441,
-      "Сидоров Ярослав Северович": 92,
-      "Хидиятуллин Вагиз Назирович": 25,
-      "Против всех": 219
+      "gas:candidate-vibid:1001000136152": 57,
+      "gas:candidate-vibid:1001000112277": 347,
+      "gas:candidate-vibid:1001000190451": 30,
+      "gas:candidate-vibid:1001000226010": 441,
+      "gas:candidate-vibid:1001000121937": 92,
+      "gas:candidate-vibid:1001000195167": 25,
+      "special:against-all": 219
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870583&region=0&sub_region=0&type=429",
@@ -10346,13 +10346,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 43,
-      "Борщев Валерий Васильевич": 388,
-      "Малинин Виктор Андреевич": 41,
-      "Рязанский Валерий Владимирович": 518,
-      "Сидоров Ярослав Северович": 127,
-      "Хидиятуллин Вагиз Назирович": 56,
-      "Против всех": 288
+      "gas:candidate-vibid:1001000136152": 43,
+      "gas:candidate-vibid:1001000112277": 388,
+      "gas:candidate-vibid:1001000190451": 41,
+      "gas:candidate-vibid:1001000226010": 518,
+      "gas:candidate-vibid:1001000121937": 127,
+      "gas:candidate-vibid:1001000195167": 56,
+      "special:against-all": 288
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870583&region=0&sub_region=0&type=429",
@@ -10402,13 +10402,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 60,
-      "Борщев Валерий Васильевич": 225,
-      "Малинин Виктор Андреевич": 42,
-      "Рязанский Валерий Владимирович": 634,
-      "Сидоров Ярослав Северович": 108,
-      "Хидиятуллин Вагиз Назирович": 48,
-      "Против всех": 305
+      "gas:candidate-vibid:1001000136152": 60,
+      "gas:candidate-vibid:1001000112277": 225,
+      "gas:candidate-vibid:1001000190451": 42,
+      "gas:candidate-vibid:1001000226010": 634,
+      "gas:candidate-vibid:1001000121937": 108,
+      "gas:candidate-vibid:1001000195167": 48,
+      "special:against-all": 305
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870583&region=0&sub_region=0&type=429",
@@ -10458,13 +10458,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 63,
-      "Борщев Валерий Васильевич": 253,
-      "Малинин Виктор Андреевич": 56,
-      "Рязанский Валерий Владимирович": 614,
-      "Сидоров Ярослав Северович": 110,
-      "Хидиятуллин Вагиз Назирович": 55,
-      "Против всех": 327
+      "gas:candidate-vibid:1001000136152": 63,
+      "gas:candidate-vibid:1001000112277": 253,
+      "gas:candidate-vibid:1001000190451": 56,
+      "gas:candidate-vibid:1001000226010": 614,
+      "gas:candidate-vibid:1001000121937": 110,
+      "gas:candidate-vibid:1001000195167": 55,
+      "special:against-all": 327
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870583&region=0&sub_region=0&type=429",
@@ -10514,13 +10514,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 77,
-      "Борщев Валерий Васильевич": 207,
-      "Малинин Виктор Андреевич": 40,
-      "Рязанский Валерий Владимирович": 665,
-      "Сидоров Ярослав Северович": 95,
-      "Хидиятуллин Вагиз Назирович": 48,
-      "Против всех": 353
+      "gas:candidate-vibid:1001000136152": 77,
+      "gas:candidate-vibid:1001000112277": 207,
+      "gas:candidate-vibid:1001000190451": 40,
+      "gas:candidate-vibid:1001000226010": 665,
+      "gas:candidate-vibid:1001000121937": 95,
+      "gas:candidate-vibid:1001000195167": 48,
+      "special:against-all": 353
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870583&region=0&sub_region=0&type=429",
@@ -10570,13 +10570,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 51,
-      "Борщев Валерий Васильевич": 374,
-      "Малинин Виктор Андреевич": 53,
-      "Рязанский Валерий Владимирович": 618,
-      "Сидоров Ярослав Северович": 116,
-      "Хидиятуллин Вагиз Назирович": 53,
-      "Против всех": 285
+      "gas:candidate-vibid:1001000136152": 51,
+      "gas:candidate-vibid:1001000112277": 374,
+      "gas:candidate-vibid:1001000190451": 53,
+      "gas:candidate-vibid:1001000226010": 618,
+      "gas:candidate-vibid:1001000121937": 116,
+      "gas:candidate-vibid:1001000195167": 53,
+      "special:against-all": 285
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870583&region=0&sub_region=0&type=429",
@@ -10626,13 +10626,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 51,
-      "Борщев Валерий Васильевич": 261,
-      "Малинин Виктор Андреевич": 42,
-      "Рязанский Валерий Владимирович": 554,
-      "Сидоров Ярослав Северович": 94,
-      "Хидиятуллин Вагиз Назирович": 46,
-      "Против всех": 310
+      "gas:candidate-vibid:1001000136152": 51,
+      "gas:candidate-vibid:1001000112277": 261,
+      "gas:candidate-vibid:1001000190451": 42,
+      "gas:candidate-vibid:1001000226010": 554,
+      "gas:candidate-vibid:1001000121937": 94,
+      "gas:candidate-vibid:1001000195167": 46,
+      "special:against-all": 310
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870583&region=0&sub_region=0&type=429",
@@ -10682,13 +10682,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 39,
-      "Борщев Валерий Васильевич": 272,
-      "Малинин Виктор Андреевич": 54,
-      "Рязанский Валерий Владимирович": 673,
-      "Сидоров Ярослав Северович": 132,
-      "Хидиятуллин Вагиз Назирович": 46,
-      "Против всех": 309
+      "gas:candidate-vibid:1001000136152": 39,
+      "gas:candidate-vibid:1001000112277": 272,
+      "gas:candidate-vibid:1001000190451": 54,
+      "gas:candidate-vibid:1001000226010": 673,
+      "gas:candidate-vibid:1001000121937": 132,
+      "gas:candidate-vibid:1001000195167": 46,
+      "special:against-all": 309
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870583&region=0&sub_region=0&type=429",
@@ -10738,13 +10738,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 43,
-      "Борщев Валерий Васильевич": 244,
-      "Малинин Виктор Андреевич": 38,
-      "Рязанский Валерий Владимирович": 652,
-      "Сидоров Ярослав Северович": 129,
-      "Хидиятуллин Вагиз Назирович": 44,
-      "Против всех": 287
+      "gas:candidate-vibid:1001000136152": 43,
+      "gas:candidate-vibid:1001000112277": 244,
+      "gas:candidate-vibid:1001000190451": 38,
+      "gas:candidate-vibid:1001000226010": 652,
+      "gas:candidate-vibid:1001000121937": 129,
+      "gas:candidate-vibid:1001000195167": 44,
+      "special:against-all": 287
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870583&region=0&sub_region=0&type=429",
@@ -10794,13 +10794,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 34,
-      "Борщев Валерий Васильевич": 205,
-      "Малинин Виктор Андреевич": 35,
-      "Рязанский Валерий Владимирович": 498,
-      "Сидоров Ярослав Северович": 126,
-      "Хидиятуллин Вагиз Назирович": 36,
-      "Против всех": 295
+      "gas:candidate-vibid:1001000136152": 34,
+      "gas:candidate-vibid:1001000112277": 205,
+      "gas:candidate-vibid:1001000190451": 35,
+      "gas:candidate-vibid:1001000226010": 498,
+      "gas:candidate-vibid:1001000121937": 126,
+      "gas:candidate-vibid:1001000195167": 36,
+      "special:against-all": 295
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870584&region=0&sub_region=0&type=429",
@@ -10850,13 +10850,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 54,
-      "Борщев Валерий Васильевич": 150,
-      "Малинин Виктор Андреевич": 25,
-      "Рязанский Валерий Владимирович": 513,
-      "Сидоров Ярослав Северович": 102,
-      "Хидиятуллин Вагиз Назирович": 29,
-      "Против всех": 153
+      "gas:candidate-vibid:1001000136152": 54,
+      "gas:candidate-vibid:1001000112277": 150,
+      "gas:candidate-vibid:1001000190451": 25,
+      "gas:candidate-vibid:1001000226010": 513,
+      "gas:candidate-vibid:1001000121937": 102,
+      "gas:candidate-vibid:1001000195167": 29,
+      "special:against-all": 153
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870584&region=0&sub_region=0&type=429",
@@ -10906,13 +10906,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 34,
-      "Борщев Валерий Васильевич": 100,
-      "Малинин Виктор Андреевич": 32,
-      "Рязанский Валерий Владимирович": 607,
-      "Сидоров Ярослав Северович": 81,
-      "Хидиятуллин Вагиз Назирович": 35,
-      "Против всех": 206
+      "gas:candidate-vibid:1001000136152": 34,
+      "gas:candidate-vibid:1001000112277": 100,
+      "gas:candidate-vibid:1001000190451": 32,
+      "gas:candidate-vibid:1001000226010": 607,
+      "gas:candidate-vibid:1001000121937": 81,
+      "gas:candidate-vibid:1001000195167": 35,
+      "special:against-all": 206
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870584&region=0&sub_region=0&type=429",
@@ -10962,13 +10962,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 33,
-      "Борщев Валерий Васильевич": 117,
-      "Малинин Виктор Андреевич": 43,
-      "Рязанский Валерий Владимирович": 423,
-      "Сидоров Ярослав Северович": 97,
-      "Хидиятуллин Вагиз Назирович": 33,
-      "Против всех": 165
+      "gas:candidate-vibid:1001000136152": 33,
+      "gas:candidate-vibid:1001000112277": 117,
+      "gas:candidate-vibid:1001000190451": 43,
+      "gas:candidate-vibid:1001000226010": 423,
+      "gas:candidate-vibid:1001000121937": 97,
+      "gas:candidate-vibid:1001000195167": 33,
+      "special:against-all": 165
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870584&region=0&sub_region=0&type=429",
@@ -11018,13 +11018,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 38,
-      "Борщев Валерий Васильевич": 221,
-      "Малинин Виктор Андреевич": 46,
-      "Рязанский Валерий Владимирович": 365,
-      "Сидоров Ярослав Северович": 100,
-      "Хидиятуллин Вагиз Назирович": 31,
-      "Против всех": 257
+      "gas:candidate-vibid:1001000136152": 38,
+      "gas:candidate-vibid:1001000112277": 221,
+      "gas:candidate-vibid:1001000190451": 46,
+      "gas:candidate-vibid:1001000226010": 365,
+      "gas:candidate-vibid:1001000121937": 100,
+      "gas:candidate-vibid:1001000195167": 31,
+      "special:against-all": 257
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870584&region=0&sub_region=0&type=429",
@@ -11074,13 +11074,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 35,
-      "Борщев Валерий Васильевич": 73,
-      "Малинин Виктор Андреевич": 32,
-      "Рязанский Валерий Владимирович": 208,
-      "Сидоров Ярослав Северович": 44,
-      "Хидиятуллин Вагиз Назирович": 13,
-      "Против всех": 136
+      "gas:candidate-vibid:1001000136152": 35,
+      "gas:candidate-vibid:1001000112277": 73,
+      "gas:candidate-vibid:1001000190451": 32,
+      "gas:candidate-vibid:1001000226010": 208,
+      "gas:candidate-vibid:1001000121937": 44,
+      "gas:candidate-vibid:1001000195167": 13,
+      "special:against-all": 136
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870584&region=0&sub_region=0&type=429",
@@ -11130,13 +11130,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 37,
-      "Борщев Валерий Васильевич": 231,
-      "Малинин Виктор Андреевич": 46,
-      "Рязанский Валерий Владимирович": 527,
-      "Сидоров Ярослав Северович": 105,
-      "Хидиятуллин Вагиз Назирович": 41,
-      "Против всех": 286
+      "gas:candidate-vibid:1001000136152": 37,
+      "gas:candidate-vibid:1001000112277": 231,
+      "gas:candidate-vibid:1001000190451": 46,
+      "gas:candidate-vibid:1001000226010": 527,
+      "gas:candidate-vibid:1001000121937": 105,
+      "gas:candidate-vibid:1001000195167": 41,
+      "special:against-all": 286
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870585&region=0&sub_region=0&type=429",
@@ -11186,13 +11186,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 58,
-      "Борщев Валерий Васильевич": 312,
-      "Малинин Виктор Андреевич": 38,
-      "Рязанский Валерий Владимирович": 527,
-      "Сидоров Ярослав Северович": 107,
-      "Хидиятуллин Вагиз Назирович": 31,
-      "Против всех": 269
+      "gas:candidate-vibid:1001000136152": 58,
+      "gas:candidate-vibid:1001000112277": 312,
+      "gas:candidate-vibid:1001000190451": 38,
+      "gas:candidate-vibid:1001000226010": 527,
+      "gas:candidate-vibid:1001000121937": 107,
+      "gas:candidate-vibid:1001000195167": 31,
+      "special:against-all": 269
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870585&region=0&sub_region=0&type=429",
@@ -11242,13 +11242,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 59,
-      "Борщев Валерий Васильевич": 370,
-      "Малинин Виктор Андреевич": 43,
-      "Рязанский Валерий Владимирович": 583,
-      "Сидоров Ярослав Северович": 141,
-      "Хидиятуллин Вагиз Назирович": 58,
-      "Против всех": 325
+      "gas:candidate-vibid:1001000136152": 59,
+      "gas:candidate-vibid:1001000112277": 370,
+      "gas:candidate-vibid:1001000190451": 43,
+      "gas:candidate-vibid:1001000226010": 583,
+      "gas:candidate-vibid:1001000121937": 141,
+      "gas:candidate-vibid:1001000195167": 58,
+      "special:against-all": 325
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870585&region=0&sub_region=0&type=429",
@@ -11298,13 +11298,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 48,
-      "Борщев Валерий Васильевич": 346,
-      "Малинин Виктор Андреевич": 42,
-      "Рязанский Валерий Владимирович": 488,
-      "Сидоров Ярослав Северович": 138,
-      "Хидиятуллин Вагиз Назирович": 50,
-      "Против всех": 276
+      "gas:candidate-vibid:1001000136152": 48,
+      "gas:candidate-vibid:1001000112277": 346,
+      "gas:candidate-vibid:1001000190451": 42,
+      "gas:candidate-vibid:1001000226010": 488,
+      "gas:candidate-vibid:1001000121937": 138,
+      "gas:candidate-vibid:1001000195167": 50,
+      "special:against-all": 276
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870585&region=0&sub_region=0&type=429",
@@ -11354,13 +11354,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 49,
-      "Борщев Валерий Васильевич": 252,
-      "Малинин Виктор Андреевич": 51,
-      "Рязанский Валерий Владимирович": 638,
-      "Сидоров Ярослав Северович": 116,
-      "Хидиятуллин Вагиз Назирович": 46,
-      "Против всех": 292
+      "gas:candidate-vibid:1001000136152": 49,
+      "gas:candidate-vibid:1001000112277": 252,
+      "gas:candidate-vibid:1001000190451": 51,
+      "gas:candidate-vibid:1001000226010": 638,
+      "gas:candidate-vibid:1001000121937": 116,
+      "gas:candidate-vibid:1001000195167": 46,
+      "special:against-all": 292
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870585&region=0&sub_region=0&type=429",
@@ -11410,13 +11410,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 51,
-      "Борщев Валерий Васильевич": 330,
-      "Малинин Виктор Андреевич": 47,
-      "Рязанский Валерий Владимирович": 541,
-      "Сидоров Ярослав Северович": 111,
-      "Хидиятуллин Вагиз Назирович": 49,
-      "Против всех": 243
+      "gas:candidate-vibid:1001000136152": 51,
+      "gas:candidate-vibid:1001000112277": 330,
+      "gas:candidate-vibid:1001000190451": 47,
+      "gas:candidate-vibid:1001000226010": 541,
+      "gas:candidate-vibid:1001000121937": 111,
+      "gas:candidate-vibid:1001000195167": 49,
+      "special:against-all": 243
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870585&region=0&sub_region=0&type=429",
@@ -11466,13 +11466,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 43,
-      "Борщев Валерий Васильевич": 373,
-      "Малинин Виктор Андреевич": 48,
-      "Рязанский Валерий Владимирович": 462,
-      "Сидоров Ярослав Северович": 130,
-      "Хидиятуллин Вагиз Назирович": 43,
-      "Против всех": 243
+      "gas:candidate-vibid:1001000136152": 43,
+      "gas:candidate-vibid:1001000112277": 373,
+      "gas:candidate-vibid:1001000190451": 48,
+      "gas:candidate-vibid:1001000226010": 462,
+      "gas:candidate-vibid:1001000121937": 130,
+      "gas:candidate-vibid:1001000195167": 43,
+      "special:against-all": 243
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870585&region=0&sub_region=0&type=429",
@@ -11522,13 +11522,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 58,
-      "Борщев Валерий Васильевич": 285,
-      "Малинин Виктор Андреевич": 25,
-      "Рязанский Валерий Владимирович": 632,
-      "Сидоров Ярослав Северович": 157,
-      "Хидиятуллин Вагиз Назирович": 48,
-      "Против всех": 294
+      "gas:candidate-vibid:1001000136152": 58,
+      "gas:candidate-vibid:1001000112277": 285,
+      "gas:candidate-vibid:1001000190451": 25,
+      "gas:candidate-vibid:1001000226010": 632,
+      "gas:candidate-vibid:1001000121937": 157,
+      "gas:candidate-vibid:1001000195167": 48,
+      "special:against-all": 294
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870585&region=0&sub_region=0&type=429",
@@ -11578,13 +11578,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 41,
-      "Борщев Валерий Васильевич": 255,
-      "Малинин Виктор Андреевич": 31,
-      "Рязанский Валерий Владимирович": 553,
-      "Сидоров Ярослав Северович": 120,
-      "Хидиятуллин Вагиз Назирович": 48,
-      "Против всех": 242
+      "gas:candidate-vibid:1001000136152": 41,
+      "gas:candidate-vibid:1001000112277": 255,
+      "gas:candidate-vibid:1001000190451": 31,
+      "gas:candidate-vibid:1001000226010": 553,
+      "gas:candidate-vibid:1001000121937": 120,
+      "gas:candidate-vibid:1001000195167": 48,
+      "special:against-all": 242
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870585&region=0&sub_region=0&type=429",
@@ -11634,13 +11634,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 53,
-      "Борщев Валерий Васильевич": 357,
-      "Малинин Виктор Андреевич": 55,
-      "Рязанский Валерий Владимирович": 607,
-      "Сидоров Ярослав Северович": 128,
-      "Хидиятуллин Вагиз Назирович": 61,
-      "Против всех": 305
+      "gas:candidate-vibid:1001000136152": 53,
+      "gas:candidate-vibid:1001000112277": 357,
+      "gas:candidate-vibid:1001000190451": 55,
+      "gas:candidate-vibid:1001000226010": 607,
+      "gas:candidate-vibid:1001000121937": 128,
+      "gas:candidate-vibid:1001000195167": 61,
+      "special:against-all": 305
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870585&region=0&sub_region=0&type=429",
@@ -11690,13 +11690,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 35,
-      "Борщев Валерий Васильевич": 306,
-      "Малинин Виктор Андреевич": 48,
-      "Рязанский Валерий Владимирович": 533,
-      "Сидоров Ярослав Северович": 121,
-      "Хидиятуллин Вагиз Назирович": 38,
-      "Против всех": 269
+      "gas:candidate-vibid:1001000136152": 35,
+      "gas:candidate-vibid:1001000112277": 306,
+      "gas:candidate-vibid:1001000190451": 48,
+      "gas:candidate-vibid:1001000226010": 533,
+      "gas:candidate-vibid:1001000121937": 121,
+      "gas:candidate-vibid:1001000195167": 38,
+      "special:against-all": 269
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870585&region=0&sub_region=0&type=429",
@@ -11746,13 +11746,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 55,
-      "Борщев Валерий Васильевич": 250,
-      "Малинин Виктор Андреевич": 35,
-      "Рязанский Валерий Владимирович": 447,
-      "Сидоров Ярослав Северович": 112,
-      "Хидиятуллин Вагиз Назирович": 47,
-      "Против всех": 282
+      "gas:candidate-vibid:1001000136152": 55,
+      "gas:candidate-vibid:1001000112277": 250,
+      "gas:candidate-vibid:1001000190451": 35,
+      "gas:candidate-vibid:1001000226010": 447,
+      "gas:candidate-vibid:1001000121937": 112,
+      "gas:candidate-vibid:1001000195167": 47,
+      "special:against-all": 282
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870585&region=0&sub_region=0&type=429",
@@ -11802,13 +11802,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 48,
-      "Борщев Валерий Васильевич": 257,
-      "Малинин Виктор Андреевич": 28,
-      "Рязанский Валерий Владимирович": 489,
-      "Сидоров Ярослав Северович": 98,
-      "Хидиятуллин Вагиз Назирович": 23,
-      "Против всех": 250
+      "gas:candidate-vibid:1001000136152": 48,
+      "gas:candidate-vibid:1001000112277": 257,
+      "gas:candidate-vibid:1001000190451": 28,
+      "gas:candidate-vibid:1001000226010": 489,
+      "gas:candidate-vibid:1001000121937": 98,
+      "gas:candidate-vibid:1001000195167": 23,
+      "special:against-all": 250
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870585&region=0&sub_region=0&type=429",
@@ -11858,13 +11858,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 38,
-      "Борщев Валерий Васильевич": 309,
-      "Малинин Виктор Андреевич": 42,
-      "Рязанский Валерий Владимирович": 421,
-      "Сидоров Ярослав Северович": 87,
-      "Хидиятуллин Вагиз Назирович": 58,
-      "Против всех": 228
+      "gas:candidate-vibid:1001000136152": 38,
+      "gas:candidate-vibid:1001000112277": 309,
+      "gas:candidate-vibid:1001000190451": 42,
+      "gas:candidate-vibid:1001000226010": 421,
+      "gas:candidate-vibid:1001000121937": 87,
+      "gas:candidate-vibid:1001000195167": 58,
+      "special:against-all": 228
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870585&region=0&sub_region=0&type=429",
@@ -11914,13 +11914,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 62,
-      "Борщев Валерий Васильевич": 428,
-      "Малинин Виктор Андреевич": 36,
-      "Рязанский Валерий Владимирович": 501,
-      "Сидоров Ярослав Северович": 129,
-      "Хидиятуллин Вагиз Назирович": 43,
-      "Против всех": 340
+      "gas:candidate-vibid:1001000136152": 62,
+      "gas:candidate-vibid:1001000112277": 428,
+      "gas:candidate-vibid:1001000190451": 36,
+      "gas:candidate-vibid:1001000226010": 501,
+      "gas:candidate-vibid:1001000121937": 129,
+      "gas:candidate-vibid:1001000195167": 43,
+      "special:against-all": 340
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870585&region=0&sub_region=0&type=429",
@@ -11970,13 +11970,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 56,
-      "Борщев Валерий Васильевич": 284,
-      "Малинин Виктор Андреевич": 47,
-      "Рязанский Валерий Владимирович": 456,
-      "Сидоров Ярослав Северович": 133,
-      "Хидиятуллин Вагиз Назирович": 40,
-      "Против всех": 184
+      "gas:candidate-vibid:1001000136152": 56,
+      "gas:candidate-vibid:1001000112277": 284,
+      "gas:candidate-vibid:1001000190451": 47,
+      "gas:candidate-vibid:1001000226010": 456,
+      "gas:candidate-vibid:1001000121937": 133,
+      "gas:candidate-vibid:1001000195167": 40,
+      "special:against-all": 184
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870585&region=0&sub_region=0&type=429",
@@ -12026,13 +12026,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 57,
-      "Борщев Валерий Васильевич": 242,
-      "Малинин Виктор Андреевич": 47,
-      "Рязанский Валерий Владимирович": 492,
-      "Сидоров Ярослав Северович": 116,
-      "Хидиятуллин Вагиз Назирович": 43,
-      "Против всех": 248
+      "gas:candidate-vibid:1001000136152": 57,
+      "gas:candidate-vibid:1001000112277": 242,
+      "gas:candidate-vibid:1001000190451": 47,
+      "gas:candidate-vibid:1001000226010": 492,
+      "gas:candidate-vibid:1001000121937": 116,
+      "gas:candidate-vibid:1001000195167": 43,
+      "special:against-all": 248
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870585&region=0&sub_region=0&type=429",
@@ -12082,13 +12082,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 65,
-      "Борщев Валерий Васильевич": 228,
-      "Малинин Виктор Андреевич": 36,
-      "Рязанский Валерий Владимирович": 467,
-      "Сидоров Ярослав Северович": 99,
-      "Хидиятуллин Вагиз Назирович": 57,
-      "Против всех": 269
+      "gas:candidate-vibid:1001000136152": 65,
+      "gas:candidate-vibid:1001000112277": 228,
+      "gas:candidate-vibid:1001000190451": 36,
+      "gas:candidate-vibid:1001000226010": 467,
+      "gas:candidate-vibid:1001000121937": 99,
+      "gas:candidate-vibid:1001000195167": 57,
+      "special:against-all": 269
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870585&region=0&sub_region=0&type=429",
@@ -12138,13 +12138,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 60,
-      "Борщев Валерий Васильевич": 336,
-      "Малинин Виктор Андреевич": 43,
-      "Рязанский Валерий Владимирович": 519,
-      "Сидоров Ярослав Северович": 125,
-      "Хидиятуллин Вагиз Назирович": 57,
-      "Против всех": 284
+      "gas:candidate-vibid:1001000136152": 60,
+      "gas:candidate-vibid:1001000112277": 336,
+      "gas:candidate-vibid:1001000190451": 43,
+      "gas:candidate-vibid:1001000226010": 519,
+      "gas:candidate-vibid:1001000121937": 125,
+      "gas:candidate-vibid:1001000195167": 57,
+      "special:against-all": 284
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870585&region=0&sub_region=0&type=429",
@@ -12194,13 +12194,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 45,
-      "Борщев Валерий Васильевич": 253,
-      "Малинин Виктор Андреевич": 46,
-      "Рязанский Валерий Владимирович": 519,
-      "Сидоров Ярослав Северович": 132,
-      "Хидиятуллин Вагиз Назирович": 50,
-      "Против всех": 269
+      "gas:candidate-vibid:1001000136152": 45,
+      "gas:candidate-vibid:1001000112277": 253,
+      "gas:candidate-vibid:1001000190451": 46,
+      "gas:candidate-vibid:1001000226010": 519,
+      "gas:candidate-vibid:1001000121937": 132,
+      "gas:candidate-vibid:1001000195167": 50,
+      "special:against-all": 269
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870585&region=0&sub_region=0&type=429",
@@ -12250,13 +12250,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 56,
-      "Борщев Валерий Васильевич": 336,
-      "Малинин Виктор Андреевич": 41,
-      "Рязанский Валерий Владимирович": 547,
-      "Сидоров Ярослав Северович": 170,
-      "Хидиятуллин Вагиз Назирович": 30,
-      "Против всех": 280
+      "gas:candidate-vibid:1001000136152": 56,
+      "gas:candidate-vibid:1001000112277": 336,
+      "gas:candidate-vibid:1001000190451": 41,
+      "gas:candidate-vibid:1001000226010": 547,
+      "gas:candidate-vibid:1001000121937": 170,
+      "gas:candidate-vibid:1001000195167": 30,
+      "special:against-all": 280
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870585&region=0&sub_region=0&type=429",
@@ -12306,13 +12306,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 50,
-      "Борщев Валерий Васильевич": 284,
-      "Малинин Виктор Андреевич": 53,
-      "Рязанский Валерий Владимирович": 586,
-      "Сидоров Ярослав Северович": 142,
-      "Хидиятуллин Вагиз Назирович": 63,
-      "Против всех": 180
+      "gas:candidate-vibid:1001000136152": 50,
+      "gas:candidate-vibid:1001000112277": 284,
+      "gas:candidate-vibid:1001000190451": 53,
+      "gas:candidate-vibid:1001000226010": 586,
+      "gas:candidate-vibid:1001000121937": 142,
+      "gas:candidate-vibid:1001000195167": 63,
+      "special:against-all": 180
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870585&region=0&sub_region=0&type=429",
@@ -12362,13 +12362,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 52,
-      "Борщев Валерий Васильевич": 324,
-      "Малинин Виктор Андреевич": 56,
-      "Рязанский Валерий Владимирович": 478,
-      "Сидоров Ярослав Северович": 172,
-      "Хидиятуллин Вагиз Назирович": 45,
-      "Против всех": 303
+      "gas:candidate-vibid:1001000136152": 52,
+      "gas:candidate-vibid:1001000112277": 324,
+      "gas:candidate-vibid:1001000190451": 56,
+      "gas:candidate-vibid:1001000226010": 478,
+      "gas:candidate-vibid:1001000121937": 172,
+      "gas:candidate-vibid:1001000195167": 45,
+      "special:against-all": 303
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870585&region=0&sub_region=0&type=429",
@@ -12418,13 +12418,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 53,
-      "Борщев Валерий Васильевич": 265,
-      "Малинин Виктор Андреевич": 50,
-      "Рязанский Валерий Владимирович": 500,
-      "Сидоров Ярослав Северович": 152,
-      "Хидиятуллин Вагиз Назирович": 39,
-      "Против всех": 208
+      "gas:candidate-vibid:1001000136152": 53,
+      "gas:candidate-vibid:1001000112277": 265,
+      "gas:candidate-vibid:1001000190451": 50,
+      "gas:candidate-vibid:1001000226010": 500,
+      "gas:candidate-vibid:1001000121937": 152,
+      "gas:candidate-vibid:1001000195167": 39,
+      "special:against-all": 208
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870585&region=0&sub_region=0&type=429",
@@ -12474,13 +12474,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 9,
-      "Борщев Валерий Васильевич": 31,
-      "Малинин Виктор Андреевич": 9,
-      "Рязанский Валерий Владимирович": 106,
-      "Сидоров Ярослав Северович": 24,
-      "Хидиятуллин Вагиз Назирович": 7,
-      "Против всех": 72
+      "gas:candidate-vibid:1001000136152": 9,
+      "gas:candidate-vibid:1001000112277": 31,
+      "gas:candidate-vibid:1001000190451": 9,
+      "gas:candidate-vibid:1001000226010": 106,
+      "gas:candidate-vibid:1001000121937": 24,
+      "gas:candidate-vibid:1001000195167": 7,
+      "special:against-all": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870585&region=0&sub_region=0&type=429",
@@ -12530,13 +12530,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 51,
-      "Борщев Валерий Васильевич": 285,
-      "Малинин Виктор Андреевич": 36,
-      "Рязанский Валерий Владимирович": 774,
-      "Сидоров Ярослав Северович": 123,
-      "Хидиятуллин Вагиз Назирович": 71,
-      "Против всех": 338
+      "gas:candidate-vibid:1001000136152": 51,
+      "gas:candidate-vibid:1001000112277": 285,
+      "gas:candidate-vibid:1001000190451": 36,
+      "gas:candidate-vibid:1001000226010": 774,
+      "gas:candidate-vibid:1001000121937": 123,
+      "gas:candidate-vibid:1001000195167": 71,
+      "special:against-all": 338
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870586&region=0&sub_region=0&type=429",
@@ -12586,13 +12586,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 41,
-      "Борщев Валерий Васильевич": 227,
-      "Малинин Виктор Андреевич": 57,
-      "Рязанский Валерий Владимирович": 711,
-      "Сидоров Ярослав Северович": 110,
-      "Хидиятуллин Вагиз Назирович": 47,
-      "Против всех": 317
+      "gas:candidate-vibid:1001000136152": 41,
+      "gas:candidate-vibid:1001000112277": 227,
+      "gas:candidate-vibid:1001000190451": 57,
+      "gas:candidate-vibid:1001000226010": 711,
+      "gas:candidate-vibid:1001000121937": 110,
+      "gas:candidate-vibid:1001000195167": 47,
+      "special:against-all": 317
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870586&region=0&sub_region=0&type=429",
@@ -12642,13 +12642,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 40,
-      "Борщев Валерий Васильевич": 247,
-      "Малинин Виктор Андреевич": 33,
-      "Рязанский Валерий Владимирович": 725,
-      "Сидоров Ярослав Северович": 100,
-      "Хидиятуллин Вагиз Назирович": 92,
-      "Против всех": 323
+      "gas:candidate-vibid:1001000136152": 40,
+      "gas:candidate-vibid:1001000112277": 247,
+      "gas:candidate-vibid:1001000190451": 33,
+      "gas:candidate-vibid:1001000226010": 725,
+      "gas:candidate-vibid:1001000121937": 100,
+      "gas:candidate-vibid:1001000195167": 92,
+      "special:against-all": 323
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870586&region=0&sub_region=0&type=429",
@@ -12698,13 +12698,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 64,
-      "Борщев Валерий Васильевич": 234,
-      "Малинин Виктор Андреевич": 24,
-      "Рязанский Валерий Владимирович": 711,
-      "Сидоров Ярослав Северович": 102,
-      "Хидиятуллин Вагиз Назирович": 46,
-      "Против всех": 351
+      "gas:candidate-vibid:1001000136152": 64,
+      "gas:candidate-vibid:1001000112277": 234,
+      "gas:candidate-vibid:1001000190451": 24,
+      "gas:candidate-vibid:1001000226010": 711,
+      "gas:candidate-vibid:1001000121937": 102,
+      "gas:candidate-vibid:1001000195167": 46,
+      "special:against-all": 351
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870586&region=0&sub_region=0&type=429",
@@ -12754,13 +12754,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 42,
-      "Борщев Валерий Васильевич": 261,
-      "Малинин Виктор Андреевич": 33,
-      "Рязанский Валерий Владимирович": 565,
-      "Сидоров Ярослав Северович": 100,
-      "Хидиятуллин Вагиз Назирович": 39,
-      "Против всех": 231
+      "gas:candidate-vibid:1001000136152": 42,
+      "gas:candidate-vibid:1001000112277": 261,
+      "gas:candidate-vibid:1001000190451": 33,
+      "gas:candidate-vibid:1001000226010": 565,
+      "gas:candidate-vibid:1001000121937": 100,
+      "gas:candidate-vibid:1001000195167": 39,
+      "special:against-all": 231
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870586&region=0&sub_region=0&type=429",
@@ -12810,13 +12810,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 52,
-      "Борщев Валерий Васильевич": 216,
-      "Малинин Виктор Андреевич": 46,
-      "Рязанский Валерий Владимирович": 572,
-      "Сидоров Ярослав Северович": 102,
-      "Хидиятуллин Вагиз Назирович": 66,
-      "Против всех": 316
+      "gas:candidate-vibid:1001000136152": 52,
+      "gas:candidate-vibid:1001000112277": 216,
+      "gas:candidate-vibid:1001000190451": 46,
+      "gas:candidate-vibid:1001000226010": 572,
+      "gas:candidate-vibid:1001000121937": 102,
+      "gas:candidate-vibid:1001000195167": 66,
+      "special:against-all": 316
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870586&region=0&sub_region=0&type=429",
@@ -12866,13 +12866,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 32,
-      "Борщев Валерий Васильевич": 224,
-      "Малинин Виктор Андреевич": 27,
-      "Рязанский Валерий Владимирович": 577,
-      "Сидоров Ярослав Северович": 89,
-      "Хидиятуллин Вагиз Назирович": 24,
-      "Против всех": 258
+      "gas:candidate-vibid:1001000136152": 32,
+      "gas:candidate-vibid:1001000112277": 224,
+      "gas:candidate-vibid:1001000190451": 27,
+      "gas:candidate-vibid:1001000226010": 577,
+      "gas:candidate-vibid:1001000121937": 89,
+      "gas:candidate-vibid:1001000195167": 24,
+      "special:against-all": 258
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870586&region=0&sub_region=0&type=429",
@@ -12922,13 +12922,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 58,
-      "Борщев Валерий Васильевич": 235,
-      "Малинин Виктор Андреевич": 27,
-      "Рязанский Валерий Владимирович": 665,
-      "Сидоров Ярослав Северович": 89,
-      "Хидиятуллин Вагиз Назирович": 47,
-      "Против всех": 289
+      "gas:candidate-vibid:1001000136152": 58,
+      "gas:candidate-vibid:1001000112277": 235,
+      "gas:candidate-vibid:1001000190451": 27,
+      "gas:candidate-vibid:1001000226010": 665,
+      "gas:candidate-vibid:1001000121937": 89,
+      "gas:candidate-vibid:1001000195167": 47,
+      "special:against-all": 289
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870586&region=0&sub_region=0&type=429",
@@ -12978,13 +12978,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 54,
-      "Борщев Валерий Васильевич": 331,
-      "Малинин Виктор Андреевич": 32,
-      "Рязанский Валерий Владимирович": 652,
-      "Сидоров Ярослав Северович": 117,
-      "Хидиятуллин Вагиз Назирович": 58,
-      "Против всех": 296
+      "gas:candidate-vibid:1001000136152": 54,
+      "gas:candidate-vibid:1001000112277": 331,
+      "gas:candidate-vibid:1001000190451": 32,
+      "gas:candidate-vibid:1001000226010": 652,
+      "gas:candidate-vibid:1001000121937": 117,
+      "gas:candidate-vibid:1001000195167": 58,
+      "special:against-all": 296
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870586&region=0&sub_region=0&type=429",
@@ -13034,13 +13034,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 43,
-      "Борщев Валерий Васильевич": 281,
-      "Малинин Виктор Андреевич": 42,
-      "Рязанский Валерий Владимирович": 605,
-      "Сидоров Ярослав Северович": 129,
-      "Хидиятуллин Вагиз Назирович": 63,
-      "Против всех": 308
+      "gas:candidate-vibid:1001000136152": 43,
+      "gas:candidate-vibid:1001000112277": 281,
+      "gas:candidate-vibid:1001000190451": 42,
+      "gas:candidate-vibid:1001000226010": 605,
+      "gas:candidate-vibid:1001000121937": 129,
+      "gas:candidate-vibid:1001000195167": 63,
+      "special:against-all": 308
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870586&region=0&sub_region=0&type=429",
@@ -13090,13 +13090,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 64,
-      "Борщев Валерий Васильевич": 304,
-      "Малинин Виктор Андреевич": 49,
-      "Рязанский Валерий Владимирович": 636,
-      "Сидоров Ярослав Северович": 105,
-      "Хидиятуллин Вагиз Назирович": 84,
-      "Против всех": 297
+      "gas:candidate-vibid:1001000136152": 64,
+      "gas:candidate-vibid:1001000112277": 304,
+      "gas:candidate-vibid:1001000190451": 49,
+      "gas:candidate-vibid:1001000226010": 636,
+      "gas:candidate-vibid:1001000121937": 105,
+      "gas:candidate-vibid:1001000195167": 84,
+      "special:against-all": 297
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870586&region=0&sub_region=0&type=429",
@@ -13146,13 +13146,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 57,
-      "Борщев Валерий Васильевич": 314,
-      "Малинин Виктор Андреевич": 33,
-      "Рязанский Валерий Владимирович": 663,
-      "Сидоров Ярослав Северович": 127,
-      "Хидиятуллин Вагиз Назирович": 88,
-      "Против всех": 317
+      "gas:candidate-vibid:1001000136152": 57,
+      "gas:candidate-vibid:1001000112277": 314,
+      "gas:candidate-vibid:1001000190451": 33,
+      "gas:candidate-vibid:1001000226010": 663,
+      "gas:candidate-vibid:1001000121937": 127,
+      "gas:candidate-vibid:1001000195167": 88,
+      "special:against-all": 317
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870586&region=0&sub_region=0&type=429",
@@ -13202,13 +13202,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 77,
-      "Борщев Валерий Васильевич": 306,
-      "Малинин Виктор Андреевич": 40,
-      "Рязанский Валерий Владимирович": 662,
-      "Сидоров Ярослав Северович": 101,
-      "Хидиятуллин Вагиз Назирович": 68,
-      "Против всех": 371
+      "gas:candidate-vibid:1001000136152": 77,
+      "gas:candidate-vibid:1001000112277": 306,
+      "gas:candidate-vibid:1001000190451": 40,
+      "gas:candidate-vibid:1001000226010": 662,
+      "gas:candidate-vibid:1001000121937": 101,
+      "gas:candidate-vibid:1001000195167": 68,
+      "special:against-all": 371
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870586&region=0&sub_region=0&type=429",
@@ -13258,13 +13258,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 67,
-      "Борщев Валерий Васильевич": 263,
-      "Малинин Виктор Андреевич": 34,
-      "Рязанский Валерий Владимирович": 675,
-      "Сидоров Ярослав Северович": 122,
-      "Хидиятуллин Вагиз Назирович": 84,
-      "Против всех": 359
+      "gas:candidate-vibid:1001000136152": 67,
+      "gas:candidate-vibid:1001000112277": 263,
+      "gas:candidate-vibid:1001000190451": 34,
+      "gas:candidate-vibid:1001000226010": 675,
+      "gas:candidate-vibid:1001000121937": 122,
+      "gas:candidate-vibid:1001000195167": 84,
+      "special:against-all": 359
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870586&region=0&sub_region=0&type=429",
@@ -13314,13 +13314,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 54,
-      "Борщев Валерий Васильевич": 218,
-      "Малинин Виктор Андреевич": 44,
-      "Рязанский Валерий Владимирович": 709,
-      "Сидоров Ярослав Северович": 108,
-      "Хидиятуллин Вагиз Назирович": 72,
-      "Против всех": 276
+      "gas:candidate-vibid:1001000136152": 54,
+      "gas:candidate-vibid:1001000112277": 218,
+      "gas:candidate-vibid:1001000190451": 44,
+      "gas:candidate-vibid:1001000226010": 709,
+      "gas:candidate-vibid:1001000121937": 108,
+      "gas:candidate-vibid:1001000195167": 72,
+      "special:against-all": 276
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870586&region=0&sub_region=0&type=429",
@@ -13370,13 +13370,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 65,
-      "Борщев Валерий Васильевич": 334,
-      "Малинин Виктор Андреевич": 37,
-      "Рязанский Валерий Владимирович": 801,
-      "Сидоров Ярослав Северович": 98,
-      "Хидиятуллин Вагиз Назирович": 72,
-      "Против всех": 277
+      "gas:candidate-vibid:1001000136152": 65,
+      "gas:candidate-vibid:1001000112277": 334,
+      "gas:candidate-vibid:1001000190451": 37,
+      "gas:candidate-vibid:1001000226010": 801,
+      "gas:candidate-vibid:1001000121937": 98,
+      "gas:candidate-vibid:1001000195167": 72,
+      "special:against-all": 277
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870586&region=0&sub_region=0&type=429",
@@ -13426,13 +13426,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 36,
-      "Борщев Валерий Васильевич": 276,
-      "Малинин Виктор Андреевич": 44,
-      "Рязанский Валерий Владимирович": 567,
-      "Сидоров Ярослав Северович": 66,
-      "Хидиятуллин Вагиз Назирович": 55,
-      "Против всех": 239
+      "gas:candidate-vibid:1001000136152": 36,
+      "gas:candidate-vibid:1001000112277": 276,
+      "gas:candidate-vibid:1001000190451": 44,
+      "gas:candidate-vibid:1001000226010": 567,
+      "gas:candidate-vibid:1001000121937": 66,
+      "gas:candidate-vibid:1001000195167": 55,
+      "special:against-all": 239
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870586&region=0&sub_region=0&type=429",
@@ -13482,13 +13482,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 44,
-      "Борщев Валерий Васильевич": 212,
-      "Малинин Виктор Андреевич": 13,
-      "Рязанский Валерий Владимирович": 597,
-      "Сидоров Ярослав Северович": 63,
-      "Хидиятуллин Вагиз Назирович": 59,
-      "Против всех": 245
+      "gas:candidate-vibid:1001000136152": 44,
+      "gas:candidate-vibid:1001000112277": 212,
+      "gas:candidate-vibid:1001000190451": 13,
+      "gas:candidate-vibid:1001000226010": 597,
+      "gas:candidate-vibid:1001000121937": 63,
+      "gas:candidate-vibid:1001000195167": 59,
+      "special:against-all": 245
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870586&region=0&sub_region=0&type=429",
@@ -13538,13 +13538,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 57,
-      "Борщев Валерий Васильевич": 271,
-      "Малинин Виктор Андреевич": 29,
-      "Рязанский Валерий Владимирович": 676,
-      "Сидоров Ярослав Северович": 95,
-      "Хидиятуллин Вагиз Назирович": 64,
-      "Против всех": 310
+      "gas:candidate-vibid:1001000136152": 57,
+      "gas:candidate-vibid:1001000112277": 271,
+      "gas:candidate-vibid:1001000190451": 29,
+      "gas:candidate-vibid:1001000226010": 676,
+      "gas:candidate-vibid:1001000121937": 95,
+      "gas:candidate-vibid:1001000195167": 64,
+      "special:against-all": 310
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870586&region=0&sub_region=0&type=429",
@@ -13594,13 +13594,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 70,
-      "Борщев Валерий Васильевич": 290,
-      "Малинин Виктор Андреевич": 32,
-      "Рязанский Валерий Владимирович": 604,
-      "Сидоров Ярослав Северович": 80,
-      "Хидиятуллин Вагиз Назирович": 73,
-      "Против всех": 275
+      "gas:candidate-vibid:1001000136152": 70,
+      "gas:candidate-vibid:1001000112277": 290,
+      "gas:candidate-vibid:1001000190451": 32,
+      "gas:candidate-vibid:1001000226010": 604,
+      "gas:candidate-vibid:1001000121937": 80,
+      "gas:candidate-vibid:1001000195167": 73,
+      "special:against-all": 275
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870586&region=0&sub_region=0&type=429",
@@ -13650,13 +13650,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 39,
-      "Борщев Валерий Васильевич": 326,
-      "Малинин Виктор Андреевич": 19,
-      "Рязанский Валерий Владимирович": 706,
-      "Сидоров Ярослав Северович": 93,
-      "Хидиятуллин Вагиз Назирович": 71,
-      "Против всех": 301
+      "gas:candidate-vibid:1001000136152": 39,
+      "gas:candidate-vibid:1001000112277": 326,
+      "gas:candidate-vibid:1001000190451": 19,
+      "gas:candidate-vibid:1001000226010": 706,
+      "gas:candidate-vibid:1001000121937": 93,
+      "gas:candidate-vibid:1001000195167": 71,
+      "special:against-all": 301
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870586&region=0&sub_region=0&type=429",
@@ -13706,13 +13706,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 42,
-      "Борщев Валерий Васильевич": 319,
-      "Малинин Виктор Андреевич": 35,
-      "Рязанский Валерий Владимирович": 626,
-      "Сидоров Ярослав Северович": 123,
-      "Хидиятуллин Вагиз Назирович": 70,
-      "Против всех": 313
+      "gas:candidate-vibid:1001000136152": 42,
+      "gas:candidate-vibid:1001000112277": 319,
+      "gas:candidate-vibid:1001000190451": 35,
+      "gas:candidate-vibid:1001000226010": 626,
+      "gas:candidate-vibid:1001000121937": 123,
+      "gas:candidate-vibid:1001000195167": 70,
+      "special:against-all": 313
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870586&region=0&sub_region=0&type=429",
@@ -13762,13 +13762,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 53,
-      "Борщев Валерий Васильевич": 240,
-      "Малинин Виктор Андреевич": 49,
-      "Рязанский Валерий Владимирович": 663,
-      "Сидоров Ярослав Северович": 102,
-      "Хидиятуллин Вагиз Назирович": 62,
-      "Против всех": 267
+      "gas:candidate-vibid:1001000136152": 53,
+      "gas:candidate-vibid:1001000112277": 240,
+      "gas:candidate-vibid:1001000190451": 49,
+      "gas:candidate-vibid:1001000226010": 663,
+      "gas:candidate-vibid:1001000121937": 102,
+      "gas:candidate-vibid:1001000195167": 62,
+      "special:against-all": 267
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870587&region=0&sub_region=0&type=429",
@@ -13818,13 +13818,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 60,
-      "Борщев Валерий Васильевич": 207,
-      "Малинин Виктор Андреевич": 50,
-      "Рязанский Валерий Владимирович": 704,
-      "Сидоров Ярослав Северович": 95,
-      "Хидиятуллин Вагиз Назирович": 45,
-      "Против всех": 295
+      "gas:candidate-vibid:1001000136152": 60,
+      "gas:candidate-vibid:1001000112277": 207,
+      "gas:candidate-vibid:1001000190451": 50,
+      "gas:candidate-vibid:1001000226010": 704,
+      "gas:candidate-vibid:1001000121937": 95,
+      "gas:candidate-vibid:1001000195167": 45,
+      "special:against-all": 295
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870587&region=0&sub_region=0&type=429",
@@ -13874,13 +13874,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 59,
-      "Борщев Валерий Васильевич": 231,
-      "Малинин Виктор Андреевич": 45,
-      "Рязанский Валерий Владимирович": 658,
-      "Сидоров Ярослав Северович": 132,
-      "Хидиятуллин Вагиз Назирович": 65,
-      "Против всех": 320
+      "gas:candidate-vibid:1001000136152": 59,
+      "gas:candidate-vibid:1001000112277": 231,
+      "gas:candidate-vibid:1001000190451": 45,
+      "gas:candidate-vibid:1001000226010": 658,
+      "gas:candidate-vibid:1001000121937": 132,
+      "gas:candidate-vibid:1001000195167": 65,
+      "special:against-all": 320
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870587&region=0&sub_region=0&type=429",
@@ -13930,13 +13930,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 52,
-      "Борщев Валерий Васильевич": 216,
-      "Малинин Виктор Андреевич": 49,
-      "Рязанский Валерий Владимирович": 636,
-      "Сидоров Ярослав Северович": 121,
-      "Хидиятуллин Вагиз Назирович": 53,
-      "Против всех": 366
+      "gas:candidate-vibid:1001000136152": 52,
+      "gas:candidate-vibid:1001000112277": 216,
+      "gas:candidate-vibid:1001000190451": 49,
+      "gas:candidate-vibid:1001000226010": 636,
+      "gas:candidate-vibid:1001000121937": 121,
+      "gas:candidate-vibid:1001000195167": 53,
+      "special:against-all": 366
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870587&region=0&sub_region=0&type=429",
@@ -13986,13 +13986,13 @@ export const duma_2003_uik_428_region_77_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Болгов Олег Евгеньевич": 53,
-      "Борщев Валерий Васильевич": 217,
-      "Малинин Виктор Андреевич": 37,
-      "Рязанский Валерий Владимирович": 742,
-      "Сидоров Ярослав Северович": 141,
-      "Хидиятуллин Вагиз Назирович": 67,
-      "Против всех": 328
+      "gas:candidate-vibid:1001000136152": 53,
+      "gas:candidate-vibid:1001000112277": 217,
+      "gas:candidate-vibid:1001000190451": 37,
+      "gas:candidate-vibid:1001000226010": 742,
+      "gas:candidate-vibid:1001000121937": 141,
+      "gas:candidate-vibid:1001000195167": 67,
+      "special:against-all": 328
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773008006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300870587&region=0&sub_region=0&type=429",

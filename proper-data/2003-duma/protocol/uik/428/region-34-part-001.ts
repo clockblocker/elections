@@ -42,13 +42,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 171,
-      "Куликов Александр Дмитриевич": 184,
-      "Попов Владислав Анатольевич": 18,
-      "Тавалдыев Александр Максотович": 103,
-      "Тажибов Тажиб Гаджимагомедович": 4,
-      "Ширяев Анатолий Александрович": 15,
-      "Против всех": 49
+      "gas:candidate-vibid:1001000225930": 171,
+      "gas:candidate-vibid:1001000121838": 184,
+      "gas:candidate-vibid:334300170549": 18,
+      "gas:candidate-vibid:334300170379": 103,
+      "gas:candidate-vibid:1001000202299": 4,
+      "gas:candidate-vibid:334300170641": 15,
+      "special:against-all": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171314&region=0&sub_region=0&type=429",
@@ -98,13 +98,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 248,
-      "Куликов Александр Дмитриевич": 257,
-      "Попов Владислав Анатольевич": 30,
-      "Тавалдыев Александр Максотович": 171,
-      "Тажибов Тажиб Гаджимагомедович": 0,
-      "Ширяев Анатолий Александрович": 16,
-      "Против всех": 77
+      "gas:candidate-vibid:1001000225930": 248,
+      "gas:candidate-vibid:1001000121838": 257,
+      "gas:candidate-vibid:334300170549": 30,
+      "gas:candidate-vibid:334300170379": 171,
+      "gas:candidate-vibid:1001000202299": 0,
+      "gas:candidate-vibid:334300170641": 16,
+      "special:against-all": 77
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171314&region=0&sub_region=0&type=429",
@@ -154,13 +154,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 202,
-      "Куликов Александр Дмитриевич": 154,
-      "Попов Владислав Анатольевич": 13,
-      "Тавалдыев Александр Максотович": 206,
-      "Тажибов Тажиб Гаджимагомедович": 4,
-      "Ширяев Анатолий Александрович": 9,
-      "Против всех": 82
+      "gas:candidate-vibid:1001000225930": 202,
+      "gas:candidate-vibid:1001000121838": 154,
+      "gas:candidate-vibid:334300170549": 13,
+      "gas:candidate-vibid:334300170379": 206,
+      "gas:candidate-vibid:1001000202299": 4,
+      "gas:candidate-vibid:334300170641": 9,
+      "special:against-all": 82
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171314&region=0&sub_region=0&type=429",
@@ -210,13 +210,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 153,
-      "Куликов Александр Дмитриевич": 170,
-      "Попов Владислав Анатольевич": 28,
-      "Тавалдыев Александр Максотович": 102,
-      "Тажибов Тажиб Гаджимагомедович": 2,
-      "Ширяев Анатолий Александрович": 11,
-      "Против всех": 61
+      "gas:candidate-vibid:1001000225930": 153,
+      "gas:candidate-vibid:1001000121838": 170,
+      "gas:candidate-vibid:334300170549": 28,
+      "gas:candidate-vibid:334300170379": 102,
+      "gas:candidate-vibid:1001000202299": 2,
+      "gas:candidate-vibid:334300170641": 11,
+      "special:against-all": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171314&region=0&sub_region=0&type=429",
@@ -266,13 +266,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 72,
-      "Куликов Александр Дмитриевич": 90,
-      "Попов Владислав Анатольевич": 6,
-      "Тавалдыев Александр Максотович": 78,
-      "Тажибов Тажиб Гаджимагомедович": 4,
-      "Ширяев Анатолий Александрович": 7,
-      "Против всех": 25
+      "gas:candidate-vibid:1001000225930": 72,
+      "gas:candidate-vibid:1001000121838": 90,
+      "gas:candidate-vibid:334300170549": 6,
+      "gas:candidate-vibid:334300170379": 78,
+      "gas:candidate-vibid:1001000202299": 4,
+      "gas:candidate-vibid:334300170641": 7,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171314&region=0&sub_region=0&type=429",
@@ -322,13 +322,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 45,
-      "Куликов Александр Дмитриевич": 53,
-      "Попов Владислав Анатольевич": 4,
-      "Тавалдыев Александр Максотович": 27,
-      "Тажибов Тажиб Гаджимагомедович": 1,
-      "Ширяев Анатолий Александрович": 6,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000225930": 45,
+      "gas:candidate-vibid:1001000121838": 53,
+      "gas:candidate-vibid:334300170549": 4,
+      "gas:candidate-vibid:334300170379": 27,
+      "gas:candidate-vibid:1001000202299": 1,
+      "gas:candidate-vibid:334300170641": 6,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171314&region=0&sub_region=0&type=429",
@@ -378,13 +378,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 33,
-      "Куликов Александр Дмитриевич": 60,
-      "Попов Владислав Анатольевич": 4,
-      "Тавалдыев Александр Максотович": 18,
-      "Тажибов Тажиб Гаджимагомедович": 0,
-      "Ширяев Анатолий Александрович": 4,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000225930": 33,
+      "gas:candidate-vibid:1001000121838": 60,
+      "gas:candidate-vibid:334300170549": 4,
+      "gas:candidate-vibid:334300170379": 18,
+      "gas:candidate-vibid:1001000202299": 0,
+      "gas:candidate-vibid:334300170641": 4,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171314&region=0&sub_region=0&type=429",
@@ -434,13 +434,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 54,
-      "Куликов Александр Дмитриевич": 53,
-      "Попов Владислав Анатольевич": 3,
-      "Тавалдыев Александр Максотович": 38,
-      "Тажибов Тажиб Гаджимагомедович": 2,
-      "Ширяев Анатолий Александрович": 3,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000225930": 54,
+      "gas:candidate-vibid:1001000121838": 53,
+      "gas:candidate-vibid:334300170549": 3,
+      "gas:candidate-vibid:334300170379": 38,
+      "gas:candidate-vibid:1001000202299": 2,
+      "gas:candidate-vibid:334300170641": 3,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171314&region=0&sub_region=0&type=429",
@@ -490,13 +490,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 15,
-      "Куликов Александр Дмитриевич": 10,
-      "Попов Владислав Анатольевич": 4,
-      "Тавалдыев Александр Максотович": 23,
-      "Тажибов Тажиб Гаджимагомедович": 0,
-      "Ширяев Анатолий Александрович": 1,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000225930": 15,
+      "gas:candidate-vibid:1001000121838": 10,
+      "gas:candidate-vibid:334300170549": 4,
+      "gas:candidate-vibid:334300170379": 23,
+      "gas:candidate-vibid:1001000202299": 0,
+      "gas:candidate-vibid:334300170641": 1,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171314&region=0&sub_region=0&type=429",
@@ -546,13 +546,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 171,
-      "Куликов Александр Дмитриевич": 221,
-      "Попов Владислав Анатольевич": 30,
-      "Тавалдыев Александр Максотович": 52,
-      "Тажибов Тажиб Гаджимагомедович": 10,
-      "Ширяев Анатолий Александрович": 32,
-      "Против всех": 69
+      "gas:candidate-vibid:1001000225930": 171,
+      "gas:candidate-vibid:1001000121838": 221,
+      "gas:candidate-vibid:334300170549": 30,
+      "gas:candidate-vibid:334300170379": 52,
+      "gas:candidate-vibid:1001000202299": 10,
+      "gas:candidate-vibid:334300170641": 32,
+      "special:against-all": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171314&region=0&sub_region=0&type=429",
@@ -602,13 +602,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 19,
-      "Куликов Александр Дмитриевич": 12,
-      "Попов Владислав Анатольевич": 8,
-      "Тавалдыев Александр Максотович": 0,
-      "Тажибов Тажиб Гаджимагомедович": 1,
-      "Ширяев Анатолий Александрович": 3,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000225930": 19,
+      "gas:candidate-vibid:1001000121838": 12,
+      "gas:candidate-vibid:334300170549": 8,
+      "gas:candidate-vibid:334300170379": 0,
+      "gas:candidate-vibid:1001000202299": 1,
+      "gas:candidate-vibid:334300170641": 3,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171314&region=0&sub_region=0&type=429",
@@ -658,13 +658,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 12,
-      "Куликов Александр Дмитриевич": 7,
-      "Попов Владислав Анатольевич": 2,
-      "Тавалдыев Александр Максотович": 5,
-      "Тажибов Тажиб Гаджимагомедович": 0,
-      "Ширяев Анатолий Александрович": 1,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000225930": 12,
+      "gas:candidate-vibid:1001000121838": 7,
+      "gas:candidate-vibid:334300170549": 2,
+      "gas:candidate-vibid:334300170379": 5,
+      "gas:candidate-vibid:1001000202299": 0,
+      "gas:candidate-vibid:334300170641": 1,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171314&region=0&sub_region=0&type=429",
@@ -714,13 +714,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 97,
-      "Куликов Александр Дмитриевич": 49,
-      "Попов Владислав Анатольевич": 2,
-      "Тавалдыев Александр Максотович": 39,
-      "Тажибов Тажиб Гаджимагомедович": 3,
-      "Ширяев Анатолий Александрович": 6,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000225930": 97,
+      "gas:candidate-vibid:1001000121838": 49,
+      "gas:candidate-vibid:334300170549": 2,
+      "gas:candidate-vibid:334300170379": 39,
+      "gas:candidate-vibid:1001000202299": 3,
+      "gas:candidate-vibid:334300170641": 6,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171314&region=0&sub_region=0&type=429",
@@ -770,13 +770,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 105,
-      "Куликов Александр Дмитриевич": 66,
-      "Попов Владислав Анатольевич": 26,
-      "Тавалдыев Александр Максотович": 30,
-      "Тажибов Тажиб Гаджимагомедович": 3,
-      "Ширяев Анатолий Александрович": 10,
-      "Против всех": 49
+      "gas:candidate-vibid:1001000225930": 105,
+      "gas:candidate-vibid:1001000121838": 66,
+      "gas:candidate-vibid:334300170549": 26,
+      "gas:candidate-vibid:334300170379": 30,
+      "gas:candidate-vibid:1001000202299": 3,
+      "gas:candidate-vibid:334300170641": 10,
+      "special:against-all": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171314&region=0&sub_region=0&type=429",
@@ -826,13 +826,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 146,
-      "Куликов Александр Дмитриевич": 186,
-      "Попов Владислав Анатольевич": 21,
-      "Тавалдыев Александр Максотович": 35,
-      "Тажибов Тажиб Гаджимагомедович": 5,
-      "Ширяев Анатолий Александрович": 6,
-      "Против всех": 46
+      "gas:candidate-vibid:1001000225930": 146,
+      "gas:candidate-vibid:1001000121838": 186,
+      "gas:candidate-vibid:334300170549": 21,
+      "gas:candidate-vibid:334300170379": 35,
+      "gas:candidate-vibid:1001000202299": 5,
+      "gas:candidate-vibid:334300170641": 6,
+      "special:against-all": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171314&region=0&sub_region=0&type=429",
@@ -882,13 +882,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 153,
-      "Куликов Александр Дмитриевич": 169,
-      "Попов Владислав Анатольевич": 17,
-      "Тавалдыев Александр Максотович": 39,
-      "Тажибов Тажиб Гаджимагомедович": 4,
-      "Ширяев Анатолий Александрович": 23,
-      "Против всех": 60
+      "gas:candidate-vibid:1001000225930": 153,
+      "gas:candidate-vibid:1001000121838": 169,
+      "gas:candidate-vibid:334300170549": 17,
+      "gas:candidate-vibid:334300170379": 39,
+      "gas:candidate-vibid:1001000202299": 4,
+      "gas:candidate-vibid:334300170641": 23,
+      "special:against-all": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171314&region=0&sub_region=0&type=429",
@@ -938,13 +938,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 99,
-      "Куликов Александр Дмитриевич": 60,
-      "Попов Владислав Анатольевич": 14,
-      "Тавалдыев Александр Максотович": 253,
-      "Тажибов Тажиб Гаджимагомедович": 6,
-      "Ширяев Анатолий Александрович": 4,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000225930": 99,
+      "gas:candidate-vibid:1001000121838": 60,
+      "gas:candidate-vibid:334300170549": 14,
+      "gas:candidate-vibid:334300170379": 253,
+      "gas:candidate-vibid:1001000202299": 6,
+      "gas:candidate-vibid:334300170641": 4,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171314&region=0&sub_region=0&type=429",
@@ -994,13 +994,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 105,
-      "Куликов Александр Дмитриевич": 84,
-      "Попов Владислав Анатольевич": 24,
-      "Тавалдыев Александр Максотович": 60,
-      "Тажибов Тажиб Гаджимагомедович": 1,
-      "Ширяев Анатолий Александрович": 36,
-      "Против всех": 43
+      "gas:candidate-vibid:1001000225930": 105,
+      "gas:candidate-vibid:1001000121838": 84,
+      "gas:candidate-vibid:334300170549": 24,
+      "gas:candidate-vibid:334300170379": 60,
+      "gas:candidate-vibid:1001000202299": 1,
+      "gas:candidate-vibid:334300170641": 36,
+      "special:against-all": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171314&region=0&sub_region=0&type=429",
@@ -1050,13 +1050,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 206,
-      "Куликов Александр Дмитриевич": 221,
-      "Попов Владислав Анатольевич": 23,
-      "Тавалдыев Александр Максотович": 37,
-      "Тажибов Тажиб Гаджимагомедович": 2,
-      "Ширяев Анатолий Александрович": 32,
-      "Против всех": 50
+      "gas:candidate-vibid:1001000225930": 206,
+      "gas:candidate-vibid:1001000121838": 221,
+      "gas:candidate-vibid:334300170549": 23,
+      "gas:candidate-vibid:334300170379": 37,
+      "gas:candidate-vibid:1001000202299": 2,
+      "gas:candidate-vibid:334300170641": 32,
+      "special:against-all": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171314&region=0&sub_region=0&type=429",
@@ -1106,13 +1106,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 76,
-      "Куликов Александр Дмитриевич": 30,
-      "Попов Владислав Анатольевич": 8,
-      "Тавалдыев Александр Максотович": 107,
-      "Тажибов Тажиб Гаджимагомедович": 0,
-      "Ширяев Анатолий Александрович": 9,
-      "Против всех": 25
+      "gas:candidate-vibid:1001000225930": 76,
+      "gas:candidate-vibid:1001000121838": 30,
+      "gas:candidate-vibid:334300170549": 8,
+      "gas:candidate-vibid:334300170379": 107,
+      "gas:candidate-vibid:1001000202299": 0,
+      "gas:candidate-vibid:334300170641": 9,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171314&region=0&sub_region=0&type=429",
@@ -1162,13 +1162,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 144,
-      "Куликов Александр Дмитриевич": 143,
-      "Попов Владислав Анатольевич": 19,
-      "Тавалдыев Александр Максотович": 23,
-      "Тажибов Тажиб Гаджимагомедович": 1,
-      "Ширяев Анатолий Александрович": 32,
-      "Против всех": 33
+      "gas:candidate-vibid:1001000225930": 144,
+      "gas:candidate-vibid:1001000121838": 143,
+      "gas:candidate-vibid:334300170549": 19,
+      "gas:candidate-vibid:334300170379": 23,
+      "gas:candidate-vibid:1001000202299": 1,
+      "gas:candidate-vibid:334300170641": 32,
+      "special:against-all": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171314&region=0&sub_region=0&type=429",
@@ -1218,13 +1218,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 226,
-      "Куликов Александр Дмитриевич": 223,
-      "Попов Владислав Анатольевич": 18,
-      "Тавалдыев Александр Максотович": 31,
-      "Тажибов Тажиб Гаджимагомедович": 6,
-      "Ширяев Анатолий Александрович": 62,
-      "Против всех": 61
+      "gas:candidate-vibid:1001000225930": 226,
+      "gas:candidate-vibid:1001000121838": 223,
+      "gas:candidate-vibid:334300170549": 18,
+      "gas:candidate-vibid:334300170379": 31,
+      "gas:candidate-vibid:1001000202299": 6,
+      "gas:candidate-vibid:334300170641": 62,
+      "special:against-all": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171314&region=0&sub_region=0&type=429",
@@ -1274,13 +1274,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 20,
-      "Куликов Александр Дмитриевич": 55,
-      "Попов Владислав Анатольевич": 4,
-      "Тавалдыев Александр Максотович": 70,
-      "Тажибов Тажиб Гаджимагомедович": 0,
-      "Ширяев Анатолий Александрович": 0,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000225930": 20,
+      "gas:candidate-vibid:1001000121838": 55,
+      "gas:candidate-vibid:334300170549": 4,
+      "gas:candidate-vibid:334300170379": 70,
+      "gas:candidate-vibid:1001000202299": 0,
+      "gas:candidate-vibid:334300170641": 0,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171314&region=0&sub_region=0&type=429",
@@ -1330,13 +1330,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 116,
-      "Куликов Александр Дмитриевич": 136,
-      "Попов Владислав Анатольевич": 18,
-      "Тавалдыев Александр Максотович": 42,
-      "Тажибов Тажиб Гаджимагомедович": 0,
-      "Ширяев Анатолий Александрович": 19,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000225930": 116,
+      "gas:candidate-vibid:1001000121838": 136,
+      "gas:candidate-vibid:334300170549": 18,
+      "gas:candidate-vibid:334300170379": 42,
+      "gas:candidate-vibid:1001000202299": 0,
+      "gas:candidate-vibid:334300170641": 19,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171314&region=0&sub_region=0&type=429",
@@ -1386,13 +1386,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 33,
-      "Куликов Александр Дмитриевич": 13,
-      "Попов Владислав Анатольевич": 7,
-      "Тавалдыев Александр Максотович": 23,
-      "Тажибов Тажиб Гаджимагомедович": 2,
-      "Ширяев Анатолий Александрович": 3,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000225930": 33,
+      "gas:candidate-vibid:1001000121838": 13,
+      "gas:candidate-vibid:334300170549": 7,
+      "gas:candidate-vibid:334300170379": 23,
+      "gas:candidate-vibid:1001000202299": 2,
+      "gas:candidate-vibid:334300170641": 3,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171314&region=0&sub_region=0&type=429",
@@ -1442,13 +1442,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 196,
-      "Куликов Александр Дмитриевич": 176,
-      "Попов Владислав Анатольевич": 32,
-      "Тавалдыев Александр Максотович": 108,
-      "Тажибов Тажиб Гаджимагомедович": 6,
-      "Ширяев Анатолий Александрович": 31,
-      "Против всех": 56
+      "gas:candidate-vibid:1001000225930": 196,
+      "gas:candidate-vibid:1001000121838": 176,
+      "gas:candidate-vibid:334300170549": 32,
+      "gas:candidate-vibid:334300170379": 108,
+      "gas:candidate-vibid:1001000202299": 6,
+      "gas:candidate-vibid:334300170641": 31,
+      "special:against-all": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171314&region=0&sub_region=0&type=429",
@@ -1498,13 +1498,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 250,
-      "Куликов Александр Дмитриевич": 214,
-      "Попов Владислав Анатольевич": 20,
-      "Тавалдыев Александр Максотович": 27,
-      "Тажибов Тажиб Гаджимагомедович": 3,
-      "Ширяев Анатолий Александрович": 19,
-      "Против всех": 115
+      "gas:candidate-vibid:1001000225930": 250,
+      "gas:candidate-vibid:1001000121838": 214,
+      "gas:candidate-vibid:334300170549": 20,
+      "gas:candidate-vibid:334300170379": 27,
+      "gas:candidate-vibid:1001000202299": 3,
+      "gas:candidate-vibid:334300170641": 19,
+      "special:against-all": 115
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171316&region=0&sub_region=0&type=429",
@@ -1554,13 +1554,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 304,
-      "Куликов Александр Дмитриевич": 402,
-      "Попов Владислав Анатольевич": 29,
-      "Тавалдыев Александр Максотович": 38,
-      "Тажибов Тажиб Гаджимагомедович": 1,
-      "Ширяев Анатолий Александрович": 38,
-      "Против всех": 189
+      "gas:candidate-vibid:1001000225930": 304,
+      "gas:candidate-vibid:1001000121838": 402,
+      "gas:candidate-vibid:334300170549": 29,
+      "gas:candidate-vibid:334300170379": 38,
+      "gas:candidate-vibid:1001000202299": 1,
+      "gas:candidate-vibid:334300170641": 38,
+      "special:against-all": 189
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171316&region=0&sub_region=0&type=429",
@@ -1610,13 +1610,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 284,
-      "Куликов Александр Дмитриевич": 346,
-      "Попов Владислав Анатольевич": 23,
-      "Тавалдыев Александр Максотович": 32,
-      "Тажибов Тажиб Гаджимагомедович": 4,
-      "Ширяев Анатолий Александрович": 43,
-      "Против всех": 189
+      "gas:candidate-vibid:1001000225930": 284,
+      "gas:candidate-vibid:1001000121838": 346,
+      "gas:candidate-vibid:334300170549": 23,
+      "gas:candidate-vibid:334300170379": 32,
+      "gas:candidate-vibid:1001000202299": 4,
+      "gas:candidate-vibid:334300170641": 43,
+      "special:against-all": 189
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171316&region=0&sub_region=0&type=429",
@@ -1666,13 +1666,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 252,
-      "Куликов Александр Дмитриевич": 442,
-      "Попов Владислав Анатольевич": 27,
-      "Тавалдыев Александр Максотович": 36,
-      "Тажибов Тажиб Гаджимагомедович": 8,
-      "Ширяев Анатолий Александрович": 45,
-      "Против всех": 166
+      "gas:candidate-vibid:1001000225930": 252,
+      "gas:candidate-vibid:1001000121838": 442,
+      "gas:candidate-vibid:334300170549": 27,
+      "gas:candidate-vibid:334300170379": 36,
+      "gas:candidate-vibid:1001000202299": 8,
+      "gas:candidate-vibid:334300170641": 45,
+      "special:against-all": 166
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171316&region=0&sub_region=0&type=429",
@@ -1722,13 +1722,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 130,
-      "Куликов Александр Дмитриевич": 164,
-      "Попов Владислав Анатольевич": 6,
-      "Тавалдыев Александр Максотович": 10,
-      "Тажибов Тажиб Гаджимагомедович": 2,
-      "Ширяев Анатолий Александрович": 5,
-      "Против всех": 68
+      "gas:candidate-vibid:1001000225930": 130,
+      "gas:candidate-vibid:1001000121838": 164,
+      "gas:candidate-vibid:334300170549": 6,
+      "gas:candidate-vibid:334300170379": 10,
+      "gas:candidate-vibid:1001000202299": 2,
+      "gas:candidate-vibid:334300170641": 5,
+      "special:against-all": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171316&region=0&sub_region=0&type=429",
@@ -1778,13 +1778,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 318,
-      "Куликов Александр Дмитриевич": 244,
-      "Попов Владислав Анатольевич": 36,
-      "Тавалдыев Александр Максотович": 50,
-      "Тажибов Тажиб Гаджимагомедович": 3,
-      "Ширяев Анатолий Александрович": 24,
-      "Против всех": 187
+      "gas:candidate-vibid:1001000225930": 318,
+      "gas:candidate-vibid:1001000121838": 244,
+      "gas:candidate-vibid:334300170549": 36,
+      "gas:candidate-vibid:334300170379": 50,
+      "gas:candidate-vibid:1001000202299": 3,
+      "gas:candidate-vibid:334300170641": 24,
+      "special:against-all": 187
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171316&region=0&sub_region=0&type=429",
@@ -1834,13 +1834,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 276,
-      "Куликов Александр Дмитриевич": 236,
-      "Попов Владислав Анатольевич": 27,
-      "Тавалдыев Александр Максотович": 55,
-      "Тажибов Тажиб Гаджимагомедович": 5,
-      "Ширяев Анатолий Александрович": 17,
-      "Против всех": 170
+      "gas:candidate-vibid:1001000225930": 276,
+      "gas:candidate-vibid:1001000121838": 236,
+      "gas:candidate-vibid:334300170549": 27,
+      "gas:candidate-vibid:334300170379": 55,
+      "gas:candidate-vibid:1001000202299": 5,
+      "gas:candidate-vibid:334300170641": 17,
+      "special:against-all": 170
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171316&region=0&sub_region=0&type=429",
@@ -1890,13 +1890,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 271,
-      "Куликов Александр Дмитриевич": 319,
-      "Попов Владислав Анатольевич": 25,
-      "Тавалдыев Александр Максотович": 36,
-      "Тажибов Тажиб Гаджимагомедович": 0,
-      "Ширяев Анатолий Александрович": 18,
-      "Против всех": 131
+      "gas:candidate-vibid:1001000225930": 271,
+      "gas:candidate-vibid:1001000121838": 319,
+      "gas:candidate-vibid:334300170549": 25,
+      "gas:candidate-vibid:334300170379": 36,
+      "gas:candidate-vibid:1001000202299": 0,
+      "gas:candidate-vibid:334300170641": 18,
+      "special:against-all": 131
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171316&region=0&sub_region=0&type=429",
@@ -1946,13 +1946,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 344,
-      "Куликов Александр Дмитриевич": 402,
-      "Попов Владислав Анатольевич": 26,
-      "Тавалдыев Александр Максотович": 56,
-      "Тажибов Тажиб Гаджимагомедович": 5,
-      "Ширяев Анатолий Александрович": 31,
-      "Против всех": 221
+      "gas:candidate-vibid:1001000225930": 344,
+      "gas:candidate-vibid:1001000121838": 402,
+      "gas:candidate-vibid:334300170549": 26,
+      "gas:candidate-vibid:334300170379": 56,
+      "gas:candidate-vibid:1001000202299": 5,
+      "gas:candidate-vibid:334300170641": 31,
+      "special:against-all": 221
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171316&region=0&sub_region=0&type=429",
@@ -2002,13 +2002,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 218,
-      "Куликов Александр Дмитриевич": 251,
-      "Попов Владислав Анатольевич": 23,
-      "Тавалдыев Александр Максотович": 31,
-      "Тажибов Тажиб Гаджимагомедович": 6,
-      "Ширяев Анатолий Александрович": 24,
-      "Против всех": 144
+      "gas:candidate-vibid:1001000225930": 218,
+      "gas:candidate-vibid:1001000121838": 251,
+      "gas:candidate-vibid:334300170549": 23,
+      "gas:candidate-vibid:334300170379": 31,
+      "gas:candidate-vibid:1001000202299": 6,
+      "gas:candidate-vibid:334300170641": 24,
+      "special:against-all": 144
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171316&region=0&sub_region=0&type=429",
@@ -2058,13 +2058,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 316,
-      "Куликов Александр Дмитриевич": 369,
-      "Попов Владислав Анатольевич": 36,
-      "Тавалдыев Александр Максотович": 46,
-      "Тажибов Тажиб Гаджимагомедович": 4,
-      "Ширяев Анатолий Александрович": 43,
-      "Против всех": 164
+      "gas:candidate-vibid:1001000225930": 316,
+      "gas:candidate-vibid:1001000121838": 369,
+      "gas:candidate-vibid:334300170549": 36,
+      "gas:candidate-vibid:334300170379": 46,
+      "gas:candidate-vibid:1001000202299": 4,
+      "gas:candidate-vibid:334300170641": 43,
+      "special:against-all": 164
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171316&region=0&sub_region=0&type=429",
@@ -2114,13 +2114,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 295,
-      "Куликов Александр Дмитриевич": 321,
-      "Попов Владислав Анатольевич": 21,
-      "Тавалдыев Александр Максотович": 23,
-      "Тажибов Тажиб Гаджимагомедович": 10,
-      "Ширяев Анатолий Александрович": 19,
-      "Против всех": 163
+      "gas:candidate-vibid:1001000225930": 295,
+      "gas:candidate-vibid:1001000121838": 321,
+      "gas:candidate-vibid:334300170549": 21,
+      "gas:candidate-vibid:334300170379": 23,
+      "gas:candidate-vibid:1001000202299": 10,
+      "gas:candidate-vibid:334300170641": 19,
+      "special:against-all": 163
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171316&region=0&sub_region=0&type=429",
@@ -2170,13 +2170,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 373,
-      "Куликов Александр Дмитриевич": 463,
-      "Попов Владислав Анатольевич": 28,
-      "Тавалдыев Александр Максотович": 69,
-      "Тажибов Тажиб Гаджимагомедович": 3,
-      "Ширяев Анатолий Александрович": 34,
-      "Против всех": 196
+      "gas:candidate-vibid:1001000225930": 373,
+      "gas:candidate-vibid:1001000121838": 463,
+      "gas:candidate-vibid:334300170549": 28,
+      "gas:candidate-vibid:334300170379": 69,
+      "gas:candidate-vibid:1001000202299": 3,
+      "gas:candidate-vibid:334300170641": 34,
+      "special:against-all": 196
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171316&region=0&sub_region=0&type=429",
@@ -2226,13 +2226,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 230,
-      "Куликов Александр Дмитриевич": 268,
-      "Попов Владислав Анатольевич": 27,
-      "Тавалдыев Александр Максотович": 23,
-      "Тажибов Тажиб Гаджимагомедович": 3,
-      "Ширяев Анатолий Александрович": 24,
-      "Против всех": 133
+      "gas:candidate-vibid:1001000225930": 230,
+      "gas:candidate-vibid:1001000121838": 268,
+      "gas:candidate-vibid:334300170549": 27,
+      "gas:candidate-vibid:334300170379": 23,
+      "gas:candidate-vibid:1001000202299": 3,
+      "gas:candidate-vibid:334300170641": 24,
+      "special:against-all": 133
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171316&region=0&sub_region=0&type=429",
@@ -2282,13 +2282,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 237,
-      "Куликов Александр Дмитриевич": 291,
-      "Попов Владислав Анатольевич": 24,
-      "Тавалдыев Александр Максотович": 51,
-      "Тажибов Тажиб Гаджимагомедович": 4,
-      "Ширяев Анатолий Александрович": 24,
-      "Против всех": 128
+      "gas:candidate-vibid:1001000225930": 237,
+      "gas:candidate-vibid:1001000121838": 291,
+      "gas:candidate-vibid:334300170549": 24,
+      "gas:candidate-vibid:334300170379": 51,
+      "gas:candidate-vibid:1001000202299": 4,
+      "gas:candidate-vibid:334300170641": 24,
+      "special:against-all": 128
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171316&region=0&sub_region=0&type=429",
@@ -2338,13 +2338,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 327,
-      "Куликов Александр Дмитриевич": 261,
-      "Попов Владислав Анатольевич": 26,
-      "Тавалдыев Александр Максотович": 43,
-      "Тажибов Тажиб Гаджимагомедович": 9,
-      "Ширяев Анатолий Александрович": 23,
-      "Против всех": 177
+      "gas:candidate-vibid:1001000225930": 327,
+      "gas:candidate-vibid:1001000121838": 261,
+      "gas:candidate-vibid:334300170549": 26,
+      "gas:candidate-vibid:334300170379": 43,
+      "gas:candidate-vibid:1001000202299": 9,
+      "gas:candidate-vibid:334300170641": 23,
+      "special:against-all": 177
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171316&region=0&sub_region=0&type=429",
@@ -2394,13 +2394,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 292,
-      "Куликов Александр Дмитриевич": 280,
-      "Попов Владислав Анатольевич": 22,
-      "Тавалдыев Александр Максотович": 44,
-      "Тажибов Тажиб Гаджимагомедович": 4,
-      "Ширяев Анатолий Александрович": 33,
-      "Против всех": 214
+      "gas:candidate-vibid:1001000225930": 292,
+      "gas:candidate-vibid:1001000121838": 280,
+      "gas:candidate-vibid:334300170549": 22,
+      "gas:candidate-vibid:334300170379": 44,
+      "gas:candidate-vibid:1001000202299": 4,
+      "gas:candidate-vibid:334300170641": 33,
+      "special:against-all": 214
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171316&region=0&sub_region=0&type=429",
@@ -2450,13 +2450,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 149,
-      "Куликов Александр Дмитриевич": 176,
-      "Попов Владислав Анатольевич": 10,
-      "Тавалдыев Александр Максотович": 21,
-      "Тажибов Тажиб Гаджимагомедович": 5,
-      "Ширяев Анатолий Александрович": 14,
-      "Против всех": 86
+      "gas:candidate-vibid:1001000225930": 149,
+      "gas:candidate-vibid:1001000121838": 176,
+      "gas:candidate-vibid:334300170549": 10,
+      "gas:candidate-vibid:334300170379": 21,
+      "gas:candidate-vibid:1001000202299": 5,
+      "gas:candidate-vibid:334300170641": 14,
+      "special:against-all": 86
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171316&region=0&sub_region=0&type=429",
@@ -2506,13 +2506,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 364,
-      "Куликов Александр Дмитриевич": 388,
-      "Попов Владислав Анатольевич": 22,
-      "Тавалдыев Александр Максотович": 51,
-      "Тажибов Тажиб Гаджимагомедович": 6,
-      "Ширяев Анатолий Александрович": 43,
-      "Против всех": 203
+      "gas:candidate-vibid:1001000225930": 364,
+      "gas:candidate-vibid:1001000121838": 388,
+      "gas:candidate-vibid:334300170549": 22,
+      "gas:candidate-vibid:334300170379": 51,
+      "gas:candidate-vibid:1001000202299": 6,
+      "gas:candidate-vibid:334300170641": 43,
+      "special:against-all": 203
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171316&region=0&sub_region=0&type=429",
@@ -2562,13 +2562,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 397,
-      "Куликов Александр Дмитриевич": 552,
-      "Попов Владислав Анатольевич": 35,
-      "Тавалдыев Александр Максотович": 62,
-      "Тажибов Тажиб Гаджимагомедович": 9,
-      "Ширяев Анатолий Александрович": 39,
-      "Против всех": 254
+      "gas:candidate-vibid:1001000225930": 397,
+      "gas:candidate-vibid:1001000121838": 552,
+      "gas:candidate-vibid:334300170549": 35,
+      "gas:candidate-vibid:334300170379": 62,
+      "gas:candidate-vibid:1001000202299": 9,
+      "gas:candidate-vibid:334300170641": 39,
+      "special:against-all": 254
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171316&region=0&sub_region=0&type=429",
@@ -2618,13 +2618,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 225,
-      "Куликов Александр Дмитриевич": 335,
-      "Попов Владислав Анатольевич": 26,
-      "Тавалдыев Александр Максотович": 42,
-      "Тажибов Тажиб Гаджимагомедович": 8,
-      "Ширяев Анатолий Александрович": 31,
-      "Против всех": 145
+      "gas:candidate-vibid:1001000225930": 225,
+      "gas:candidate-vibid:1001000121838": 335,
+      "gas:candidate-vibid:334300170549": 26,
+      "gas:candidate-vibid:334300170379": 42,
+      "gas:candidate-vibid:1001000202299": 8,
+      "gas:candidate-vibid:334300170641": 31,
+      "special:against-all": 145
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171316&region=0&sub_region=0&type=429",
@@ -2674,13 +2674,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 348,
-      "Куликов Александр Дмитриевич": 403,
-      "Попов Владислав Анатольевич": 25,
-      "Тавалдыев Александр Максотович": 38,
-      "Тажибов Тажиб Гаджимагомедович": 4,
-      "Ширяев Анатолий Александрович": 31,
-      "Против всех": 195
+      "gas:candidate-vibid:1001000225930": 348,
+      "gas:candidate-vibid:1001000121838": 403,
+      "gas:candidate-vibid:334300170549": 25,
+      "gas:candidate-vibid:334300170379": 38,
+      "gas:candidate-vibid:1001000202299": 4,
+      "gas:candidate-vibid:334300170641": 31,
+      "special:against-all": 195
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171316&region=0&sub_region=0&type=429",
@@ -2730,13 +2730,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 381,
-      "Куликов Александр Дмитриевич": 557,
-      "Попов Владислав Анатольевич": 35,
-      "Тавалдыев Александр Максотович": 67,
-      "Тажибов Тажиб Гаджимагомедович": 2,
-      "Ширяев Анатолий Александрович": 27,
-      "Против всех": 229
+      "gas:candidate-vibid:1001000225930": 381,
+      "gas:candidate-vibid:1001000121838": 557,
+      "gas:candidate-vibid:334300170549": 35,
+      "gas:candidate-vibid:334300170379": 67,
+      "gas:candidate-vibid:1001000202299": 2,
+      "gas:candidate-vibid:334300170641": 27,
+      "special:against-all": 229
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171316&region=0&sub_region=0&type=429",
@@ -2786,13 +2786,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 301,
-      "Куликов Александр Дмитриевич": 507,
-      "Попов Владислав Анатольевич": 40,
-      "Тавалдыев Александр Максотович": 52,
-      "Тажибов Тажиб Гаджимагомедович": 3,
-      "Ширяев Анатолий Александрович": 30,
-      "Против всех": 210
+      "gas:candidate-vibid:1001000225930": 301,
+      "gas:candidate-vibid:1001000121838": 507,
+      "gas:candidate-vibid:334300170549": 40,
+      "gas:candidate-vibid:334300170379": 52,
+      "gas:candidate-vibid:1001000202299": 3,
+      "gas:candidate-vibid:334300170641": 30,
+      "special:against-all": 210
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171316&region=0&sub_region=0&type=429",
@@ -2842,13 +2842,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 477,
-      "Куликов Александр Дмитриевич": 661,
-      "Попов Владислав Анатольевич": 51,
-      "Тавалдыев Александр Максотович": 60,
-      "Тажибов Тажиб Гаджимагомедович": 5,
-      "Ширяев Анатолий Александрович": 40,
-      "Против всех": 277
+      "gas:candidate-vibid:1001000225930": 477,
+      "gas:candidate-vibid:1001000121838": 661,
+      "gas:candidate-vibid:334300170549": 51,
+      "gas:candidate-vibid:334300170379": 60,
+      "gas:candidate-vibid:1001000202299": 5,
+      "gas:candidate-vibid:334300170641": 40,
+      "special:against-all": 277
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171316&region=0&sub_region=0&type=429",
@@ -2898,13 +2898,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 260,
-      "Куликов Александр Дмитриевич": 376,
-      "Попов Владислав Анатольевич": 22,
-      "Тавалдыев Александр Максотович": 46,
-      "Тажибов Тажиб Гаджимагомедович": 8,
-      "Ширяев Анатолий Александрович": 15,
-      "Против всех": 135
+      "gas:candidate-vibid:1001000225930": 260,
+      "gas:candidate-vibid:1001000121838": 376,
+      "gas:candidate-vibid:334300170549": 22,
+      "gas:candidate-vibid:334300170379": 46,
+      "gas:candidate-vibid:1001000202299": 8,
+      "gas:candidate-vibid:334300170641": 15,
+      "special:against-all": 135
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171316&region=0&sub_region=0&type=429",
@@ -2954,13 +2954,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 384,
-      "Куликов Александр Дмитриевич": 514,
-      "Попов Владислав Анатольевич": 56,
-      "Тавалдыев Александр Максотович": 63,
-      "Тажибов Тажиб Гаджимагомедович": 8,
-      "Ширяев Анатолий Александрович": 37,
-      "Против всех": 259
+      "gas:candidate-vibid:1001000225930": 384,
+      "gas:candidate-vibid:1001000121838": 514,
+      "gas:candidate-vibid:334300170549": 56,
+      "gas:candidate-vibid:334300170379": 63,
+      "gas:candidate-vibid:1001000202299": 8,
+      "gas:candidate-vibid:334300170641": 37,
+      "special:against-all": 259
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171316&region=0&sub_region=0&type=429",
@@ -3010,13 +3010,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 233,
-      "Куликов Александр Дмитриевич": 332,
-      "Попов Владислав Анатольевич": 24,
-      "Тавалдыев Александр Максотович": 32,
-      "Тажибов Тажиб Гаджимагомедович": 5,
-      "Ширяев Анатолий Александрович": 29,
-      "Против всех": 142
+      "gas:candidate-vibid:1001000225930": 233,
+      "gas:candidate-vibid:1001000121838": 332,
+      "gas:candidate-vibid:334300170549": 24,
+      "gas:candidate-vibid:334300170379": 32,
+      "gas:candidate-vibid:1001000202299": 5,
+      "gas:candidate-vibid:334300170641": 29,
+      "special:against-all": 142
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171316&region=0&sub_region=0&type=429",
@@ -3066,13 +3066,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 265,
-      "Куликов Александр Дмитриевич": 236,
-      "Попов Владислав Анатольевич": 21,
-      "Тавалдыев Александр Максотович": 28,
-      "Тажибов Тажиб Гаджимагомедович": 2,
-      "Ширяев Анатолий Александрович": 23,
-      "Против всех": 154
+      "gas:candidate-vibid:1001000225930": 265,
+      "gas:candidate-vibid:1001000121838": 236,
+      "gas:candidate-vibid:334300170549": 21,
+      "gas:candidate-vibid:334300170379": 28,
+      "gas:candidate-vibid:1001000202299": 2,
+      "gas:candidate-vibid:334300170641": 23,
+      "special:against-all": 154
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171316&region=0&sub_region=0&type=429",
@@ -3122,13 +3122,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 348,
-      "Куликов Александр Дмитриевич": 385,
-      "Попов Владислав Анатольевич": 22,
-      "Тавалдыев Александр Максотович": 44,
-      "Тажибов Тажиб Гаджимагомедович": 2,
-      "Ширяев Анатолий Александрович": 16,
-      "Против всех": 162
+      "gas:candidate-vibid:1001000225930": 348,
+      "gas:candidate-vibid:1001000121838": 385,
+      "gas:candidate-vibid:334300170549": 22,
+      "gas:candidate-vibid:334300170379": 44,
+      "gas:candidate-vibid:1001000202299": 2,
+      "gas:candidate-vibid:334300170641": 16,
+      "special:against-all": 162
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171316&region=0&sub_region=0&type=429",
@@ -3178,13 +3178,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 342,
-      "Куликов Александр Дмитриевич": 548,
-      "Попов Владислав Анатольевич": 38,
-      "Тавалдыев Александр Максотович": 57,
-      "Тажибов Тажиб Гаджимагомедович": 3,
-      "Ширяев Анатолий Александрович": 19,
-      "Против всех": 219
+      "gas:candidate-vibid:1001000225930": 342,
+      "gas:candidate-vibid:1001000121838": 548,
+      "gas:candidate-vibid:334300170549": 38,
+      "gas:candidate-vibid:334300170379": 57,
+      "gas:candidate-vibid:1001000202299": 3,
+      "gas:candidate-vibid:334300170641": 19,
+      "special:against-all": 219
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171316&region=0&sub_region=0&type=429",
@@ -3234,13 +3234,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 299,
-      "Куликов Александр Дмитриевич": 370,
-      "Попов Владислав Анатольевич": 35,
-      "Тавалдыев Александр Максотович": 51,
-      "Тажибов Тажиб Гаджимагомедович": 4,
-      "Ширяев Анатолий Александрович": 27,
-      "Против всех": 241
+      "gas:candidate-vibid:1001000225930": 299,
+      "gas:candidate-vibid:1001000121838": 370,
+      "gas:candidate-vibid:334300170549": 35,
+      "gas:candidate-vibid:334300170379": 51,
+      "gas:candidate-vibid:1001000202299": 4,
+      "gas:candidate-vibid:334300170641": 27,
+      "special:against-all": 241
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171316&region=0&sub_region=0&type=429",
@@ -3290,13 +3290,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 291,
-      "Куликов Александр Дмитриевич": 437,
-      "Попов Владислав Анатольевич": 36,
-      "Тавалдыев Александр Максотович": 37,
-      "Тажибов Тажиб Гаджимагомедович": 5,
-      "Ширяев Анатолий Александрович": 25,
-      "Против всех": 179
+      "gas:candidate-vibid:1001000225930": 291,
+      "gas:candidate-vibid:1001000121838": 437,
+      "gas:candidate-vibid:334300170549": 36,
+      "gas:candidate-vibid:334300170379": 37,
+      "gas:candidate-vibid:1001000202299": 5,
+      "gas:candidate-vibid:334300170641": 25,
+      "special:against-all": 179
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171316&region=0&sub_region=0&type=429",
@@ -3346,13 +3346,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 354,
-      "Куликов Александр Дмитриевич": 562,
-      "Попов Владислав Анатольевич": 38,
-      "Тавалдыев Александр Максотович": 49,
-      "Тажибов Тажиб Гаджимагомедович": 3,
-      "Ширяев Анатолий Александрович": 25,
-      "Против всех": 207
+      "gas:candidate-vibid:1001000225930": 354,
+      "gas:candidate-vibid:1001000121838": 562,
+      "gas:candidate-vibid:334300170549": 38,
+      "gas:candidate-vibid:334300170379": 49,
+      "gas:candidate-vibid:1001000202299": 3,
+      "gas:candidate-vibid:334300170641": 25,
+      "special:against-all": 207
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171316&region=0&sub_region=0&type=429",
@@ -3402,13 +3402,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 411,
-      "Куликов Александр Дмитриевич": 584,
-      "Попов Владислав Анатольевич": 35,
-      "Тавалдыев Александр Максотович": 53,
-      "Тажибов Тажиб Гаджимагомедович": 1,
-      "Ширяев Анатолий Александрович": 17,
-      "Против всех": 255
+      "gas:candidate-vibid:1001000225930": 411,
+      "gas:candidate-vibid:1001000121838": 584,
+      "gas:candidate-vibid:334300170549": 35,
+      "gas:candidate-vibid:334300170379": 53,
+      "gas:candidate-vibid:1001000202299": 1,
+      "gas:candidate-vibid:334300170641": 17,
+      "special:against-all": 255
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171316&region=0&sub_region=0&type=429",
@@ -3458,13 +3458,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 431,
-      "Куликов Александр Дмитриевич": 554,
-      "Попов Владислав Анатольевич": 22,
-      "Тавалдыев Александр Максотович": 58,
-      "Тажибов Тажиб Гаджимагомедович": 1,
-      "Ширяев Анатолий Александрович": 30,
-      "Против всех": 220
+      "gas:candidate-vibid:1001000225930": 431,
+      "gas:candidate-vibid:1001000121838": 554,
+      "gas:candidate-vibid:334300170549": 22,
+      "gas:candidate-vibid:334300170379": 58,
+      "gas:candidate-vibid:1001000202299": 1,
+      "gas:candidate-vibid:334300170641": 30,
+      "special:against-all": 220
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171316&region=0&sub_region=0&type=429",
@@ -3514,13 +3514,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 494,
-      "Куликов Александр Дмитриевич": 581,
-      "Попов Владислав Анатольевич": 54,
-      "Тавалдыев Александр Максотович": 83,
-      "Тажибов Тажиб Гаджимагомедович": 6,
-      "Ширяев Анатолий Александрович": 44,
-      "Против всех": 281
+      "gas:candidate-vibid:1001000225930": 494,
+      "gas:candidate-vibid:1001000121838": 581,
+      "gas:candidate-vibid:334300170549": 54,
+      "gas:candidate-vibid:334300170379": 83,
+      "gas:candidate-vibid:1001000202299": 6,
+      "gas:candidate-vibid:334300170641": 44,
+      "special:against-all": 281
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171316&region=0&sub_region=0&type=429",
@@ -3570,13 +3570,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 351,
-      "Куликов Александр Дмитриевич": 574,
-      "Попов Владислав Анатольевич": 42,
-      "Тавалдыев Александр Максотович": 63,
-      "Тажибов Тажиб Гаджимагомедович": 2,
-      "Ширяев Анатолий Александрович": 29,
-      "Против всех": 245
+      "gas:candidate-vibid:1001000225930": 351,
+      "gas:candidate-vibid:1001000121838": 574,
+      "gas:candidate-vibid:334300170549": 42,
+      "gas:candidate-vibid:334300170379": 63,
+      "gas:candidate-vibid:1001000202299": 2,
+      "gas:candidate-vibid:334300170641": 29,
+      "special:against-all": 245
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171316&region=0&sub_region=0&type=429",
@@ -3626,13 +3626,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 464,
-      "Куликов Александр Дмитриевич": 544,
-      "Попов Владислав Анатольевич": 49,
-      "Тавалдыев Александр Максотович": 71,
-      "Тажибов Тажиб Гаджимагомедович": 6,
-      "Ширяев Анатолий Александрович": 41,
-      "Против всех": 304
+      "gas:candidate-vibid:1001000225930": 464,
+      "gas:candidate-vibid:1001000121838": 544,
+      "gas:candidate-vibid:334300170549": 49,
+      "gas:candidate-vibid:334300170379": 71,
+      "gas:candidate-vibid:1001000202299": 6,
+      "gas:candidate-vibid:334300170641": 41,
+      "special:against-all": 304
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171316&region=0&sub_region=0&type=429",
@@ -3682,13 +3682,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 402,
-      "Куликов Александр Дмитриевич": 325,
-      "Попов Владислав Анатольевич": 36,
-      "Тавалдыев Александр Максотович": 40,
-      "Тажибов Тажиб Гаджимагомедович": 7,
-      "Ширяев Анатолий Александрович": 20,
-      "Против всех": 211
+      "gas:candidate-vibid:1001000225930": 402,
+      "gas:candidate-vibid:1001000121838": 325,
+      "gas:candidate-vibid:334300170549": 36,
+      "gas:candidate-vibid:334300170379": 40,
+      "gas:candidate-vibid:1001000202299": 7,
+      "gas:candidate-vibid:334300170641": 20,
+      "special:against-all": 211
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171316&region=0&sub_region=0&type=429",
@@ -3738,13 +3738,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 363,
-      "Куликов Александр Дмитриевич": 481,
-      "Попов Владислав Анатольевич": 38,
-      "Тавалдыев Александр Максотович": 53,
-      "Тажибов Тажиб Гаджимагомедович": 4,
-      "Ширяев Анатолий Александрович": 37,
-      "Против всех": 244
+      "gas:candidate-vibid:1001000225930": 363,
+      "gas:candidate-vibid:1001000121838": 481,
+      "gas:candidate-vibid:334300170549": 38,
+      "gas:candidate-vibid:334300170379": 53,
+      "gas:candidate-vibid:1001000202299": 4,
+      "gas:candidate-vibid:334300170641": 37,
+      "special:against-all": 244
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171316&region=0&sub_region=0&type=429",
@@ -3794,13 +3794,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 431,
-      "Куликов Александр Дмитриевич": 547,
-      "Попов Владислав Анатольевич": 46,
-      "Тавалдыев Александр Максотович": 63,
-      "Тажибов Тажиб Гаджимагомедович": 7,
-      "Ширяев Анатолий Александрович": 25,
-      "Против всех": 268
+      "gas:candidate-vibid:1001000225930": 431,
+      "gas:candidate-vibid:1001000121838": 547,
+      "gas:candidate-vibid:334300170549": 46,
+      "gas:candidate-vibid:334300170379": 63,
+      "gas:candidate-vibid:1001000202299": 7,
+      "gas:candidate-vibid:334300170641": 25,
+      "special:against-all": 268
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171316&region=0&sub_region=0&type=429",
@@ -3850,13 +3850,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 394,
-      "Куликов Александр Дмитриевич": 476,
-      "Попов Владислав Анатольевич": 38,
-      "Тавалдыев Александр Максотович": 36,
-      "Тажибов Тажиб Гаджимагомедович": 1,
-      "Ширяев Анатолий Александрович": 32,
-      "Против всех": 190
+      "gas:candidate-vibid:1001000225930": 394,
+      "gas:candidate-vibid:1001000121838": 476,
+      "gas:candidate-vibid:334300170549": 38,
+      "gas:candidate-vibid:334300170379": 36,
+      "gas:candidate-vibid:1001000202299": 1,
+      "gas:candidate-vibid:334300170641": 32,
+      "special:against-all": 190
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171316&region=0&sub_region=0&type=429",
@@ -3906,13 +3906,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 416,
-      "Куликов Александр Дмитриевич": 509,
-      "Попов Владислав Анатольевич": 35,
-      "Тавалдыев Александр Максотович": 70,
-      "Тажибов Тажиб Гаджимагомедович": 7,
-      "Ширяев Анатолий Александрович": 31,
-      "Против всех": 268
+      "gas:candidate-vibid:1001000225930": 416,
+      "gas:candidate-vibid:1001000121838": 509,
+      "gas:candidate-vibid:334300170549": 35,
+      "gas:candidate-vibid:334300170379": 70,
+      "gas:candidate-vibid:1001000202299": 7,
+      "gas:candidate-vibid:334300170641": 31,
+      "special:against-all": 268
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171316&region=0&sub_region=0&type=429",
@@ -3962,13 +3962,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 320,
-      "Куликов Александр Дмитриевич": 243,
-      "Попов Владислав Анатольевич": 26,
-      "Тавалдыев Александр Максотович": 52,
-      "Тажибов Тажиб Гаджимагомедович": 4,
-      "Ширяев Анатолий Александрович": 14,
-      "Против всех": 229
+      "gas:candidate-vibid:1001000225930": 320,
+      "gas:candidate-vibid:1001000121838": 243,
+      "gas:candidate-vibid:334300170549": 26,
+      "gas:candidate-vibid:334300170379": 52,
+      "gas:candidate-vibid:1001000202299": 4,
+      "gas:candidate-vibid:334300170641": 14,
+      "special:against-all": 229
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171316&region=0&sub_region=0&type=429",
@@ -4018,13 +4018,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 286,
-      "Куликов Александр Дмитриевич": 359,
-      "Попов Владислав Анатольевич": 15,
-      "Тавалдыев Александр Максотович": 39,
-      "Тажибов Тажиб Гаджимагомедович": 6,
-      "Ширяев Анатолий Александрович": 21,
-      "Против всех": 163
+      "gas:candidate-vibid:1001000225930": 286,
+      "gas:candidate-vibid:1001000121838": 359,
+      "gas:candidate-vibid:334300170549": 15,
+      "gas:candidate-vibid:334300170379": 39,
+      "gas:candidate-vibid:1001000202299": 6,
+      "gas:candidate-vibid:334300170641": 21,
+      "special:against-all": 163
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171316&region=0&sub_region=0&type=429",
@@ -4074,13 +4074,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 1
     },
     "votes": {
-      "Агеев Александр Александрович": 315,
-      "Куликов Александр Дмитриевич": 418,
-      "Попов Владислав Анатольевич": 35,
-      "Тавалдыев Александр Максотович": 28,
-      "Тажибов Тажиб Гаджимагомедович": 1,
-      "Ширяев Анатолий Александрович": 29,
-      "Против всех": 162
+      "gas:candidate-vibid:1001000225930": 315,
+      "gas:candidate-vibid:1001000121838": 418,
+      "gas:candidate-vibid:334300170549": 35,
+      "gas:candidate-vibid:334300170379": 28,
+      "gas:candidate-vibid:1001000202299": 1,
+      "gas:candidate-vibid:334300170641": 29,
+      "special:against-all": 162
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171316&region=0&sub_region=0&type=429",
@@ -4130,13 +4130,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 323,
-      "Куликов Александр Дмитриевич": 341,
-      "Попов Владислав Анатольевич": 21,
-      "Тавалдыев Александр Максотович": 47,
-      "Тажибов Тажиб Гаджимагомедович": 3,
-      "Ширяев Анатолий Александрович": 19,
-      "Против всех": 191
+      "gas:candidate-vibid:1001000225930": 323,
+      "gas:candidate-vibid:1001000121838": 341,
+      "gas:candidate-vibid:334300170549": 21,
+      "gas:candidate-vibid:334300170379": 47,
+      "gas:candidate-vibid:1001000202299": 3,
+      "gas:candidate-vibid:334300170641": 19,
+      "special:against-all": 191
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171316&region=0&sub_region=0&type=429",
@@ -4186,13 +4186,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 300,
-      "Куликов Александр Дмитриевич": 382,
-      "Попов Владислав Анатольевич": 40,
-      "Тавалдыев Александр Максотович": 45,
-      "Тажибов Тажиб Гаджимагомедович": 0,
-      "Ширяев Анатолий Александрович": 24,
-      "Против всех": 196
+      "gas:candidate-vibid:1001000225930": 300,
+      "gas:candidate-vibid:1001000121838": 382,
+      "gas:candidate-vibid:334300170549": 40,
+      "gas:candidate-vibid:334300170379": 45,
+      "gas:candidate-vibid:1001000202299": 0,
+      "gas:candidate-vibid:334300170641": 24,
+      "special:against-all": 196
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171316&region=0&sub_region=0&type=429",
@@ -4242,13 +4242,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 345,
-      "Куликов Александр Дмитриевич": 314,
-      "Попов Владислав Анатольевич": 37,
-      "Тавалдыев Александр Максотович": 39,
-      "Тажибов Тажиб Гаджимагомедович": 5,
-      "Ширяев Анатолий Александрович": 28,
-      "Против всех": 238
+      "gas:candidate-vibid:1001000225930": 345,
+      "gas:candidate-vibid:1001000121838": 314,
+      "gas:candidate-vibid:334300170549": 37,
+      "gas:candidate-vibid:334300170379": 39,
+      "gas:candidate-vibid:1001000202299": 5,
+      "gas:candidate-vibid:334300170641": 28,
+      "special:against-all": 238
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171316&region=0&sub_region=0&type=429",
@@ -4298,13 +4298,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 259,
-      "Куликов Александр Дмитриевич": 315,
-      "Попов Владислав Анатольевич": 32,
-      "Тавалдыев Александр Максотович": 52,
-      "Тажибов Тажиб Гаджимагомедович": 5,
-      "Ширяев Анатолий Александрович": 26,
-      "Против всех": 165
+      "gas:candidate-vibid:1001000225930": 259,
+      "gas:candidate-vibid:1001000121838": 315,
+      "gas:candidate-vibid:334300170549": 32,
+      "gas:candidate-vibid:334300170379": 52,
+      "gas:candidate-vibid:1001000202299": 5,
+      "gas:candidate-vibid:334300170641": 26,
+      "special:against-all": 165
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171316&region=0&sub_region=0&type=429",
@@ -4354,13 +4354,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 316,
-      "Куликов Александр Дмитриевич": 269,
-      "Попов Владислав Анатольевич": 29,
-      "Тавалдыев Александр Максотович": 47,
-      "Тажибов Тажиб Гаджимагомедович": 4,
-      "Ширяев Анатолий Александрович": 25,
-      "Против всех": 173
+      "gas:candidate-vibid:1001000225930": 316,
+      "gas:candidate-vibid:1001000121838": 269,
+      "gas:candidate-vibid:334300170549": 29,
+      "gas:candidate-vibid:334300170379": 47,
+      "gas:candidate-vibid:1001000202299": 4,
+      "gas:candidate-vibid:334300170641": 25,
+      "special:against-all": 173
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171316&region=0&sub_region=0&type=429",
@@ -4410,13 +4410,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 380,
-      "Куликов Александр Дмитриевич": 362,
-      "Попов Владислав Анатольевич": 28,
-      "Тавалдыев Александр Максотович": 54,
-      "Тажибов Тажиб Гаджимагомедович": 7,
-      "Ширяев Анатолий Александрович": 24,
-      "Против всех": 214
+      "gas:candidate-vibid:1001000225930": 380,
+      "gas:candidate-vibid:1001000121838": 362,
+      "gas:candidate-vibid:334300170549": 28,
+      "gas:candidate-vibid:334300170379": 54,
+      "gas:candidate-vibid:1001000202299": 7,
+      "gas:candidate-vibid:334300170641": 24,
+      "special:against-all": 214
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171316&region=0&sub_region=0&type=429",
@@ -4466,13 +4466,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 287,
-      "Куликов Александр Дмитриевич": 400,
-      "Попов Владислав Анатольевич": 33,
-      "Тавалдыев Александр Максотович": 37,
-      "Тажибов Тажиб Гаджимагомедович": 9,
-      "Ширяев Анатолий Александрович": 26,
-      "Против всех": 201
+      "gas:candidate-vibid:1001000225930": 287,
+      "gas:candidate-vibid:1001000121838": 400,
+      "gas:candidate-vibid:334300170549": 33,
+      "gas:candidate-vibid:334300170379": 37,
+      "gas:candidate-vibid:1001000202299": 9,
+      "gas:candidate-vibid:334300170641": 26,
+      "special:against-all": 201
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171316&region=0&sub_region=0&type=429",
@@ -4522,13 +4522,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 279,
-      "Куликов Александр Дмитриевич": 470,
-      "Попов Владислав Анатольевич": 26,
-      "Тавалдыев Александр Максотович": 36,
-      "Тажибов Тажиб Гаджимагомедович": 7,
-      "Ширяев Анатолий Александрович": 24,
-      "Против всех": 226
+      "gas:candidate-vibid:1001000225930": 279,
+      "gas:candidate-vibid:1001000121838": 470,
+      "gas:candidate-vibid:334300170549": 26,
+      "gas:candidate-vibid:334300170379": 36,
+      "gas:candidate-vibid:1001000202299": 7,
+      "gas:candidate-vibid:334300170641": 24,
+      "special:against-all": 226
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171316&region=0&sub_region=0&type=429",
@@ -4578,13 +4578,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 361,
-      "Куликов Александр Дмитриевич": 436,
-      "Попов Владислав Анатольевич": 37,
-      "Тавалдыев Александр Максотович": 60,
-      "Тажибов Тажиб Гаджимагомедович": 2,
-      "Ширяев Анатолий Александрович": 28,
-      "Против всех": 272
+      "gas:candidate-vibid:1001000225930": 361,
+      "gas:candidate-vibid:1001000121838": 436,
+      "gas:candidate-vibid:334300170549": 37,
+      "gas:candidate-vibid:334300170379": 60,
+      "gas:candidate-vibid:1001000202299": 2,
+      "gas:candidate-vibid:334300170641": 28,
+      "special:against-all": 272
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171316&region=0&sub_region=0&type=429",
@@ -4634,13 +4634,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 411,
-      "Куликов Александр Дмитриевич": 463,
-      "Попов Владислав Анатольевич": 30,
-      "Тавалдыев Александр Максотович": 47,
-      "Тажибов Тажиб Гаджимагомедович": 7,
-      "Ширяев Анатолий Александрович": 40,
-      "Против всех": 262
+      "gas:candidate-vibid:1001000225930": 411,
+      "gas:candidate-vibid:1001000121838": 463,
+      "gas:candidate-vibid:334300170549": 30,
+      "gas:candidate-vibid:334300170379": 47,
+      "gas:candidate-vibid:1001000202299": 7,
+      "gas:candidate-vibid:334300170641": 40,
+      "special:against-all": 262
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171316&region=0&sub_region=0&type=429",
@@ -4690,13 +4690,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 510,
-      "Куликов Александр Дмитриевич": 555,
-      "Попов Владислав Анатольевич": 37,
-      "Тавалдыев Александр Максотович": 46,
-      "Тажибов Тажиб Гаджимагомедович": 10,
-      "Ширяев Анатолий Александрович": 35,
-      "Против всех": 296
+      "gas:candidate-vibid:1001000225930": 510,
+      "gas:candidate-vibid:1001000121838": 555,
+      "gas:candidate-vibid:334300170549": 37,
+      "gas:candidate-vibid:334300170379": 46,
+      "gas:candidate-vibid:1001000202299": 10,
+      "gas:candidate-vibid:334300170641": 35,
+      "special:against-all": 296
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171316&region=0&sub_region=0&type=429",
@@ -4746,13 +4746,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 488,
-      "Куликов Александр Дмитриевич": 544,
-      "Попов Владислав Анатольевич": 27,
-      "Тавалдыев Александр Максотович": 48,
-      "Тажибов Тажиб Гаджимагомедович": 6,
-      "Ширяев Анатолий Александрович": 25,
-      "Против всех": 292
+      "gas:candidate-vibid:1001000225930": 488,
+      "gas:candidate-vibid:1001000121838": 544,
+      "gas:candidate-vibid:334300170549": 27,
+      "gas:candidate-vibid:334300170379": 48,
+      "gas:candidate-vibid:1001000202299": 6,
+      "gas:candidate-vibid:334300170641": 25,
+      "special:against-all": 292
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171316&region=0&sub_region=0&type=429",
@@ -4802,13 +4802,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 1,
-      "Куликов Александр Дмитриевич": 2,
-      "Попов Владислав Анатольевич": 0,
-      "Тавалдыев Александр Максотович": 0,
-      "Тажибов Тажиб Гаджимагомедович": 0,
-      "Ширяев Анатолий Александрович": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000225930": 1,
+      "gas:candidate-vibid:1001000121838": 2,
+      "gas:candidate-vibid:334300170549": 0,
+      "gas:candidate-vibid:334300170379": 0,
+      "gas:candidate-vibid:1001000202299": 0,
+      "gas:candidate-vibid:334300170641": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171316&region=0&sub_region=0&type=429",
@@ -4858,13 +4858,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 491,
-      "Куликов Александр Дмитриевич": 454,
-      "Попов Владислав Анатольевич": 59,
-      "Тавалдыев Александр Максотович": 53,
-      "Тажибов Тажиб Гаджимагомедович": 5,
-      "Ширяев Анатолий Александрович": 31,
-      "Против всех": 260
+      "gas:candidate-vibid:1001000225930": 491,
+      "gas:candidate-vibid:1001000121838": 454,
+      "gas:candidate-vibid:334300170549": 59,
+      "gas:candidate-vibid:334300170379": 53,
+      "gas:candidate-vibid:1001000202299": 5,
+      "gas:candidate-vibid:334300170641": 31,
+      "special:against-all": 260
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171316&region=0&sub_region=0&type=429",
@@ -4914,13 +4914,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 358,
-      "Куликов Александр Дмитриевич": 444,
-      "Попов Владислав Анатольевич": 61,
-      "Тавалдыев Александр Максотович": 39,
-      "Тажибов Тажиб Гаджимагомедович": 10,
-      "Ширяев Анатолий Александрович": 37,
-      "Против всех": 225
+      "gas:candidate-vibid:1001000225930": 358,
+      "gas:candidate-vibid:1001000121838": 444,
+      "gas:candidate-vibid:334300170549": 61,
+      "gas:candidate-vibid:334300170379": 39,
+      "gas:candidate-vibid:1001000202299": 10,
+      "gas:candidate-vibid:334300170641": 37,
+      "special:against-all": 225
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171316&region=0&sub_region=0&type=429",
@@ -4970,13 +4970,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 453,
-      "Куликов Александр Дмитриевич": 458,
-      "Попов Владислав Анатольевич": 50,
-      "Тавалдыев Александр Максотович": 61,
-      "Тажибов Тажиб Гаджимагомедович": 8,
-      "Ширяев Анатолий Александрович": 26,
-      "Против всех": 278
+      "gas:candidate-vibid:1001000225930": 453,
+      "gas:candidate-vibid:1001000121838": 458,
+      "gas:candidate-vibid:334300170549": 50,
+      "gas:candidate-vibid:334300170379": 61,
+      "gas:candidate-vibid:1001000202299": 8,
+      "gas:candidate-vibid:334300170641": 26,
+      "special:against-all": 278
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171316&region=0&sub_region=0&type=429",
@@ -5026,13 +5026,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 491,
-      "Куликов Александр Дмитриевич": 514,
-      "Попов Владислав Анатольевич": 45,
-      "Тавалдыев Александр Максотович": 51,
-      "Тажибов Тажиб Гаджимагомедович": 6,
-      "Ширяев Анатолий Александрович": 31,
-      "Против всех": 257
+      "gas:candidate-vibid:1001000225930": 491,
+      "gas:candidate-vibid:1001000121838": 514,
+      "gas:candidate-vibid:334300170549": 45,
+      "gas:candidate-vibid:334300170379": 51,
+      "gas:candidate-vibid:1001000202299": 6,
+      "gas:candidate-vibid:334300170641": 31,
+      "special:against-all": 257
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171316&region=0&sub_region=0&type=429",
@@ -5082,13 +5082,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 454,
-      "Куликов Александр Дмитриевич": 500,
-      "Попов Владислав Анатольевич": 42,
-      "Тавалдыев Александр Максотович": 87,
-      "Тажибов Тажиб Гаджимагомедович": 9,
-      "Ширяев Анатолий Александрович": 41,
-      "Против всех": 349
+      "gas:candidate-vibid:1001000225930": 454,
+      "gas:candidate-vibid:1001000121838": 500,
+      "gas:candidate-vibid:334300170549": 42,
+      "gas:candidate-vibid:334300170379": 87,
+      "gas:candidate-vibid:1001000202299": 9,
+      "gas:candidate-vibid:334300170641": 41,
+      "special:against-all": 349
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171316&region=0&sub_region=0&type=429",
@@ -5138,13 +5138,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 395,
-      "Куликов Александр Дмитриевич": 370,
-      "Попов Владислав Анатольевич": 45,
-      "Тавалдыев Александр Максотович": 51,
-      "Тажибов Тажиб Гаджимагомедович": 3,
-      "Ширяев Анатолий Александрович": 29,
-      "Против всех": 263
+      "gas:candidate-vibid:1001000225930": 395,
+      "gas:candidate-vibid:1001000121838": 370,
+      "gas:candidate-vibid:334300170549": 45,
+      "gas:candidate-vibid:334300170379": 51,
+      "gas:candidate-vibid:1001000202299": 3,
+      "gas:candidate-vibid:334300170641": 29,
+      "special:against-all": 263
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171316&region=0&sub_region=0&type=429",
@@ -5194,13 +5194,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 335,
-      "Куликов Александр Дмитриевич": 372,
-      "Попов Владислав Анатольевич": 42,
-      "Тавалдыев Александр Максотович": 61,
-      "Тажибов Тажиб Гаджимагомедович": 5,
-      "Ширяев Анатолий Александрович": 36,
-      "Против всех": 238
+      "gas:candidate-vibid:1001000225930": 335,
+      "gas:candidate-vibid:1001000121838": 372,
+      "gas:candidate-vibid:334300170549": 42,
+      "gas:candidate-vibid:334300170379": 61,
+      "gas:candidate-vibid:1001000202299": 5,
+      "gas:candidate-vibid:334300170641": 36,
+      "special:against-all": 238
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171316&region=0&sub_region=0&type=429",
@@ -5250,13 +5250,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 417,
-      "Куликов Александр Дмитриевич": 471,
-      "Попов Владислав Анатольевич": 31,
-      "Тавалдыев Александр Максотович": 58,
-      "Тажибов Тажиб Гаджимагомедович": 6,
-      "Ширяев Анатолий Александрович": 26,
-      "Против всех": 209
+      "gas:candidate-vibid:1001000225930": 417,
+      "gas:candidate-vibid:1001000121838": 471,
+      "gas:candidate-vibid:334300170549": 31,
+      "gas:candidate-vibid:334300170379": 58,
+      "gas:candidate-vibid:1001000202299": 6,
+      "gas:candidate-vibid:334300170641": 26,
+      "special:against-all": 209
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171316&region=0&sub_region=0&type=429",
@@ -5306,13 +5306,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 503,
-      "Куликов Александр Дмитриевич": 426,
-      "Попов Владислав Анатольевич": 33,
-      "Тавалдыев Александр Максотович": 51,
-      "Тажибов Тажиб Гаджимагомедович": 8,
-      "Ширяев Анатолий Александрович": 26,
-      "Против всех": 262
+      "gas:candidate-vibid:1001000225930": 503,
+      "gas:candidate-vibid:1001000121838": 426,
+      "gas:candidate-vibid:334300170549": 33,
+      "gas:candidate-vibid:334300170379": 51,
+      "gas:candidate-vibid:1001000202299": 8,
+      "gas:candidate-vibid:334300170641": 26,
+      "special:against-all": 262
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171316&region=0&sub_region=0&type=429",
@@ -5362,13 +5362,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 461,
-      "Куликов Александр Дмитриевич": 354,
-      "Попов Владислав Анатольевич": 39,
-      "Тавалдыев Александр Максотович": 48,
-      "Тажибов Тажиб Гаджимагомедович": 6,
-      "Ширяев Анатолий Александрович": 22,
-      "Против всех": 237
+      "gas:candidate-vibid:1001000225930": 461,
+      "gas:candidate-vibid:1001000121838": 354,
+      "gas:candidate-vibid:334300170549": 39,
+      "gas:candidate-vibid:334300170379": 48,
+      "gas:candidate-vibid:1001000202299": 6,
+      "gas:candidate-vibid:334300170641": 22,
+      "special:against-all": 237
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171316&region=0&sub_region=0&type=429",
@@ -5418,13 +5418,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 403,
-      "Куликов Александр Дмитриевич": 353,
-      "Попов Владислав Анатольевич": 45,
-      "Тавалдыев Александр Максотович": 52,
-      "Тажибов Тажиб Гаджимагомедович": 5,
-      "Ширяев Анатолий Александрович": 36,
-      "Против всех": 229
+      "gas:candidate-vibid:1001000225930": 403,
+      "gas:candidate-vibid:1001000121838": 353,
+      "gas:candidate-vibid:334300170549": 45,
+      "gas:candidate-vibid:334300170379": 52,
+      "gas:candidate-vibid:1001000202299": 5,
+      "gas:candidate-vibid:334300170641": 36,
+      "special:against-all": 229
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171316&region=0&sub_region=0&type=429",
@@ -5474,13 +5474,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 483,
-      "Куликов Александр Дмитриевич": 398,
-      "Попов Владислав Анатольевич": 35,
-      "Тавалдыев Александр Максотович": 46,
-      "Тажибов Тажиб Гаджимагомедович": 4,
-      "Ширяев Анатолий Александрович": 26,
-      "Против всех": 232
+      "gas:candidate-vibid:1001000225930": 483,
+      "gas:candidate-vibid:1001000121838": 398,
+      "gas:candidate-vibid:334300170549": 35,
+      "gas:candidate-vibid:334300170379": 46,
+      "gas:candidate-vibid:1001000202299": 4,
+      "gas:candidate-vibid:334300170641": 26,
+      "special:against-all": 232
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171316&region=0&sub_region=0&type=429",
@@ -5530,13 +5530,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 449,
-      "Куликов Александр Дмитриевич": 358,
-      "Попов Владислав Анатольевич": 43,
-      "Тавалдыев Александр Максотович": 63,
-      "Тажибов Тажиб Гаджимагомедович": 4,
-      "Ширяев Анатолий Александрович": 37,
-      "Против всех": 289
+      "gas:candidate-vibid:1001000225930": 449,
+      "gas:candidate-vibid:1001000121838": 358,
+      "gas:candidate-vibid:334300170549": 43,
+      "gas:candidate-vibid:334300170379": 63,
+      "gas:candidate-vibid:1001000202299": 4,
+      "gas:candidate-vibid:334300170641": 37,
+      "special:against-all": 289
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171316&region=0&sub_region=0&type=429",
@@ -5586,13 +5586,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 453,
-      "Куликов Александр Дмитриевич": 411,
-      "Попов Владислав Анатольевич": 46,
-      "Тавалдыев Александр Максотович": 72,
-      "Тажибов Тажиб Гаджимагомедович": 5,
-      "Ширяев Анатолий Александрович": 45,
-      "Против всех": 302
+      "gas:candidate-vibid:1001000225930": 453,
+      "gas:candidate-vibid:1001000121838": 411,
+      "gas:candidate-vibid:334300170549": 46,
+      "gas:candidate-vibid:334300170379": 72,
+      "gas:candidate-vibid:1001000202299": 5,
+      "gas:candidate-vibid:334300170641": 45,
+      "special:against-all": 302
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171316&region=0&sub_region=0&type=429",
@@ -5642,13 +5642,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 481,
-      "Куликов Александр Дмитриевич": 355,
-      "Попов Владислав Анатольевич": 21,
-      "Тавалдыев Александр Максотович": 62,
-      "Тажибов Тажиб Гаджимагомедович": 5,
-      "Ширяев Анатолий Александрович": 27,
-      "Против всех": 330
+      "gas:candidate-vibid:1001000225930": 481,
+      "gas:candidate-vibid:1001000121838": 355,
+      "gas:candidate-vibid:334300170549": 21,
+      "gas:candidate-vibid:334300170379": 62,
+      "gas:candidate-vibid:1001000202299": 5,
+      "gas:candidate-vibid:334300170641": 27,
+      "special:against-all": 330
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171316&region=0&sub_region=0&type=429",
@@ -5698,13 +5698,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 437,
-      "Куликов Александр Дмитриевич": 404,
-      "Попов Владислав Анатольевич": 38,
-      "Тавалдыев Александр Максотович": 51,
-      "Тажибов Тажиб Гаджимагомедович": 6,
-      "Ширяев Анатолий Александрович": 31,
-      "Против всех": 268
+      "gas:candidate-vibid:1001000225930": 437,
+      "gas:candidate-vibid:1001000121838": 404,
+      "gas:candidate-vibid:334300170549": 38,
+      "gas:candidate-vibid:334300170379": 51,
+      "gas:candidate-vibid:1001000202299": 6,
+      "gas:candidate-vibid:334300170641": 31,
+      "special:against-all": 268
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171316&region=0&sub_region=0&type=429",
@@ -5754,13 +5754,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 457,
-      "Куликов Александр Дмитриевич": 393,
-      "Попов Владислав Анатольевич": 59,
-      "Тавалдыев Александр Максотович": 61,
-      "Тажибов Тажиб Гаджимагомедович": 5,
-      "Ширяев Анатолий Александрович": 44,
-      "Против всех": 272
+      "gas:candidate-vibid:1001000225930": 457,
+      "gas:candidate-vibid:1001000121838": 393,
+      "gas:candidate-vibid:334300170549": 59,
+      "gas:candidate-vibid:334300170379": 61,
+      "gas:candidate-vibid:1001000202299": 5,
+      "gas:candidate-vibid:334300170641": 44,
+      "special:against-all": 272
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171316&region=0&sub_region=0&type=429",
@@ -5810,13 +5810,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 412,
-      "Куликов Александр Дмитриевич": 418,
-      "Попов Владислав Анатольевич": 33,
-      "Тавалдыев Александр Максотович": 63,
-      "Тажибов Тажиб Гаджимагомедович": 6,
-      "Ширяев Анатолий Александрович": 54,
-      "Против всех": 241
+      "gas:candidate-vibid:1001000225930": 412,
+      "gas:candidate-vibid:1001000121838": 418,
+      "gas:candidate-vibid:334300170549": 33,
+      "gas:candidate-vibid:334300170379": 63,
+      "gas:candidate-vibid:1001000202299": 6,
+      "gas:candidate-vibid:334300170641": 54,
+      "special:against-all": 241
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171316&region=0&sub_region=0&type=429",
@@ -5866,13 +5866,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 429,
-      "Куликов Александр Дмитриевич": 392,
-      "Попов Владислав Анатольевич": 46,
-      "Тавалдыев Александр Максотович": 87,
-      "Тажибов Тажиб Гаджимагомедович": 1,
-      "Ширяев Анатолий Александрович": 40,
-      "Против всех": 306
+      "gas:candidate-vibid:1001000225930": 429,
+      "gas:candidate-vibid:1001000121838": 392,
+      "gas:candidate-vibid:334300170549": 46,
+      "gas:candidate-vibid:334300170379": 87,
+      "gas:candidate-vibid:1001000202299": 1,
+      "gas:candidate-vibid:334300170641": 40,
+      "special:against-all": 306
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171316&region=0&sub_region=0&type=429",
@@ -5922,13 +5922,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 485,
-      "Куликов Александр Дмитриевич": 365,
-      "Попов Владислав Анатольевич": 24,
-      "Тавалдыев Александр Максотович": 77,
-      "Тажибов Тажиб Гаджимагомедович": 6,
-      "Ширяев Анатолий Александрович": 32,
-      "Против всех": 277
+      "gas:candidate-vibid:1001000225930": 485,
+      "gas:candidate-vibid:1001000121838": 365,
+      "gas:candidate-vibid:334300170549": 24,
+      "gas:candidate-vibid:334300170379": 77,
+      "gas:candidate-vibid:1001000202299": 6,
+      "gas:candidate-vibid:334300170641": 32,
+      "special:against-all": 277
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171316&region=0&sub_region=0&type=429",
@@ -5978,13 +5978,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 345,
-      "Куликов Александр Дмитриевич": 351,
-      "Попов Владислав Анатольевич": 37,
-      "Тавалдыев Александр Максотович": 49,
-      "Тажибов Тажиб Гаджимагомедович": 8,
-      "Ширяев Анатолий Александрович": 30,
-      "Против всех": 280
+      "gas:candidate-vibid:1001000225930": 345,
+      "gas:candidate-vibid:1001000121838": 351,
+      "gas:candidate-vibid:334300170549": 37,
+      "gas:candidate-vibid:334300170379": 49,
+      "gas:candidate-vibid:1001000202299": 8,
+      "gas:candidate-vibid:334300170641": 30,
+      "special:against-all": 280
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171316&region=0&sub_region=0&type=429",
@@ -6034,13 +6034,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 437,
-      "Куликов Александр Дмитриевич": 389,
-      "Попов Владислав Анатольевич": 49,
-      "Тавалдыев Александр Максотович": 63,
-      "Тажибов Тажиб Гаджимагомедович": 4,
-      "Ширяев Анатолий Александрович": 50,
-      "Против всех": 319
+      "gas:candidate-vibid:1001000225930": 437,
+      "gas:candidate-vibid:1001000121838": 389,
+      "gas:candidate-vibid:334300170549": 49,
+      "gas:candidate-vibid:334300170379": 63,
+      "gas:candidate-vibid:1001000202299": 4,
+      "gas:candidate-vibid:334300170641": 50,
+      "special:against-all": 319
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171316&region=0&sub_region=0&type=429",
@@ -6090,13 +6090,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 280,
-      "Куликов Александр Дмитриевич": 312,
-      "Попов Владислав Анатольевич": 29,
-      "Тавалдыев Александр Максотович": 34,
-      "Тажибов Тажиб Гаджимагомедович": 6,
-      "Ширяев Анатолий Александрович": 33,
-      "Против всех": 234
+      "gas:candidate-vibid:1001000225930": 280,
+      "gas:candidate-vibid:1001000121838": 312,
+      "gas:candidate-vibid:334300170549": 29,
+      "gas:candidate-vibid:334300170379": 34,
+      "gas:candidate-vibid:1001000202299": 6,
+      "gas:candidate-vibid:334300170641": 33,
+      "special:against-all": 234
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171316&region=0&sub_region=0&type=429",
@@ -6146,13 +6146,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 299,
-      "Куликов Александр Дмитриевич": 326,
-      "Попов Владислав Анатольевич": 29,
-      "Тавалдыев Александр Максотович": 47,
-      "Тажибов Тажиб Гаджимагомедович": 6,
-      "Ширяев Анатолий Александрович": 23,
-      "Против всех": 212
+      "gas:candidate-vibid:1001000225930": 299,
+      "gas:candidate-vibid:1001000121838": 326,
+      "gas:candidate-vibid:334300170549": 29,
+      "gas:candidate-vibid:334300170379": 47,
+      "gas:candidate-vibid:1001000202299": 6,
+      "gas:candidate-vibid:334300170641": 23,
+      "special:against-all": 212
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171316&region=0&sub_region=0&type=429",
@@ -6202,13 +6202,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 408,
-      "Куликов Александр Дмитриевич": 375,
-      "Попов Владислав Анатольевич": 45,
-      "Тавалдыев Александр Максотович": 71,
-      "Тажибов Тажиб Гаджимагомедович": 12,
-      "Ширяев Анатолий Александрович": 39,
-      "Против всех": 297
+      "gas:candidate-vibid:1001000225930": 408,
+      "gas:candidate-vibid:1001000121838": 375,
+      "gas:candidate-vibid:334300170549": 45,
+      "gas:candidate-vibid:334300170379": 71,
+      "gas:candidate-vibid:1001000202299": 12,
+      "gas:candidate-vibid:334300170641": 39,
+      "special:against-all": 297
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171316&region=0&sub_region=0&type=429",
@@ -6258,13 +6258,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 437,
-      "Куликов Александр Дмитриевич": 351,
-      "Попов Владислав Анатольевич": 43,
-      "Тавалдыев Александр Максотович": 44,
-      "Тажибов Тажиб Гаджимагомедович": 10,
-      "Ширяев Анатолий Александрович": 32,
-      "Против всех": 306
+      "gas:candidate-vibid:1001000225930": 437,
+      "gas:candidate-vibid:1001000121838": 351,
+      "gas:candidate-vibid:334300170549": 43,
+      "gas:candidate-vibid:334300170379": 44,
+      "gas:candidate-vibid:1001000202299": 10,
+      "gas:candidate-vibid:334300170641": 32,
+      "special:against-all": 306
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171316&region=0&sub_region=0&type=429",
@@ -6314,13 +6314,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 446,
-      "Куликов Александр Дмитриевич": 379,
-      "Попов Владислав Анатольевич": 50,
-      "Тавалдыев Александр Максотович": 50,
-      "Тажибов Тажиб Гаджимагомедович": 7,
-      "Ширяев Анатолий Александрович": 39,
-      "Против всех": 324
+      "gas:candidate-vibid:1001000225930": 446,
+      "gas:candidate-vibid:1001000121838": 379,
+      "gas:candidate-vibid:334300170549": 50,
+      "gas:candidate-vibid:334300170379": 50,
+      "gas:candidate-vibid:1001000202299": 7,
+      "gas:candidate-vibid:334300170641": 39,
+      "special:against-all": 324
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171316&region=0&sub_region=0&type=429",
@@ -6370,13 +6370,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 439,
-      "Куликов Александр Дмитриевич": 362,
-      "Попов Владислав Анатольевич": 35,
-      "Тавалдыев Александр Максотович": 66,
-      "Тажибов Тажиб Гаджимагомедович": 9,
-      "Ширяев Анатолий Александрович": 32,
-      "Против всех": 308
+      "gas:candidate-vibid:1001000225930": 439,
+      "gas:candidate-vibid:1001000121838": 362,
+      "gas:candidate-vibid:334300170549": 35,
+      "gas:candidate-vibid:334300170379": 66,
+      "gas:candidate-vibid:1001000202299": 9,
+      "gas:candidate-vibid:334300170641": 32,
+      "special:against-all": 308
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171316&region=0&sub_region=0&type=429",
@@ -6426,13 +6426,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 427,
-      "Куликов Александр Дмитриевич": 327,
-      "Попов Владислав Анатольевич": 40,
-      "Тавалдыев Александр Максотович": 75,
-      "Тажибов Тажиб Гаджимагомедович": 7,
-      "Ширяев Анатолий Александрович": 45,
-      "Против всех": 260
+      "gas:candidate-vibid:1001000225930": 427,
+      "gas:candidate-vibid:1001000121838": 327,
+      "gas:candidate-vibid:334300170549": 40,
+      "gas:candidate-vibid:334300170379": 75,
+      "gas:candidate-vibid:1001000202299": 7,
+      "gas:candidate-vibid:334300170641": 45,
+      "special:against-all": 260
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171316&region=0&sub_region=0&type=429",
@@ -6482,13 +6482,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 498,
-      "Куликов Александр Дмитриевич": 351,
-      "Попов Владислав Анатольевич": 32,
-      "Тавалдыев Александр Максотович": 80,
-      "Тажибов Тажиб Гаджимагомедович": 7,
-      "Ширяев Анатолий Александрович": 29,
-      "Против всех": 345
+      "gas:candidate-vibid:1001000225930": 498,
+      "gas:candidate-vibid:1001000121838": 351,
+      "gas:candidate-vibid:334300170549": 32,
+      "gas:candidate-vibid:334300170379": 80,
+      "gas:candidate-vibid:1001000202299": 7,
+      "gas:candidate-vibid:334300170641": 29,
+      "special:against-all": 345
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171316&region=0&sub_region=0&type=429",
@@ -6538,13 +6538,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 280,
-      "Куликов Александр Дмитриевич": 283,
-      "Попов Владислав Анатольевич": 26,
-      "Тавалдыев Александр Максотович": 51,
-      "Тажибов Тажиб Гаджимагомедович": 1,
-      "Ширяев Анатолий Александрович": 24,
-      "Против всех": 131
+      "gas:candidate-vibid:1001000225930": 280,
+      "gas:candidate-vibid:1001000121838": 283,
+      "gas:candidate-vibid:334300170549": 26,
+      "gas:candidate-vibid:334300170379": 51,
+      "gas:candidate-vibid:1001000202299": 1,
+      "gas:candidate-vibid:334300170641": 24,
+      "special:against-all": 131
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171316&region=0&sub_region=0&type=429",
@@ -6594,13 +6594,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 366,
-      "Куликов Александр Дмитриевич": 493,
-      "Попов Владислав Анатольевич": 50,
-      "Тавалдыев Александр Максотович": 64,
-      "Тажибов Тажиб Гаджимагомедович": 9,
-      "Ширяев Анатолий Александрович": 27,
-      "Против всех": 218
+      "gas:candidate-vibid:1001000225930": 366,
+      "gas:candidate-vibid:1001000121838": 493,
+      "gas:candidate-vibid:334300170549": 50,
+      "gas:candidate-vibid:334300170379": 64,
+      "gas:candidate-vibid:1001000202299": 9,
+      "gas:candidate-vibid:334300170641": 27,
+      "special:against-all": 218
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171316&region=0&sub_region=0&type=429",
@@ -6650,13 +6650,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 326,
-      "Куликов Александр Дмитриевич": 297,
-      "Попов Владислав Анатольевич": 33,
-      "Тавалдыев Александр Максотович": 63,
-      "Тажибов Тажиб Гаджимагомедович": 11,
-      "Ширяев Анатолий Александрович": 25,
-      "Против всех": 225
+      "gas:candidate-vibid:1001000225930": 326,
+      "gas:candidate-vibid:1001000121838": 297,
+      "gas:candidate-vibid:334300170549": 33,
+      "gas:candidate-vibid:334300170379": 63,
+      "gas:candidate-vibid:1001000202299": 11,
+      "gas:candidate-vibid:334300170641": 25,
+      "special:against-all": 225
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171316&region=0&sub_region=0&type=429",
@@ -6706,13 +6706,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 438,
-      "Куликов Александр Дмитриевич": 332,
-      "Попов Владислав Анатольевич": 52,
-      "Тавалдыев Александр Максотович": 70,
-      "Тажибов Тажиб Гаджимагомедович": 7,
-      "Ширяев Анатолий Александрович": 37,
-      "Против всех": 321
+      "gas:candidate-vibid:1001000225930": 438,
+      "gas:candidate-vibid:1001000121838": 332,
+      "gas:candidate-vibid:334300170549": 52,
+      "gas:candidate-vibid:334300170379": 70,
+      "gas:candidate-vibid:1001000202299": 7,
+      "gas:candidate-vibid:334300170641": 37,
+      "special:against-all": 321
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171316&region=0&sub_region=0&type=429",
@@ -6762,13 +6762,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 417,
-      "Куликов Александр Дмитриевич": 454,
-      "Попов Владислав Анатольевич": 40,
-      "Тавалдыев Александр Максотович": 53,
-      "Тажибов Тажиб Гаджимагомедович": 4,
-      "Ширяев Анатолий Александрович": 28,
-      "Против всех": 189
+      "gas:candidate-vibid:1001000225930": 417,
+      "gas:candidate-vibid:1001000121838": 454,
+      "gas:candidate-vibid:334300170549": 40,
+      "gas:candidate-vibid:334300170379": 53,
+      "gas:candidate-vibid:1001000202299": 4,
+      "gas:candidate-vibid:334300170641": 28,
+      "special:against-all": 189
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171316&region=0&sub_region=0&type=429",
@@ -6818,13 +6818,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 4,
-      "Куликов Александр Дмитриевич": 9,
-      "Попов Владислав Анатольевич": 0,
-      "Тавалдыев Александр Максотович": 0,
-      "Тажибов Тажиб Гаджимагомедович": 0,
-      "Ширяев Анатолий Александрович": 2,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000225930": 4,
+      "gas:candidate-vibid:1001000121838": 9,
+      "gas:candidate-vibid:334300170549": 0,
+      "gas:candidate-vibid:334300170379": 0,
+      "gas:candidate-vibid:1001000202299": 0,
+      "gas:candidate-vibid:334300170641": 2,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171316&region=0&sub_region=0&type=429",
@@ -6874,13 +6874,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 517,
-      "Куликов Александр Дмитриевич": 262,
-      "Попов Владислав Анатольевич": 101,
-      "Тавалдыев Александр Максотович": 40,
-      "Тажибов Тажиб Гаджимагомедович": 27,
-      "Ширяев Анатолий Александрович": 67,
-      "Против всех": 451
+      "gas:candidate-vibid:1001000225930": 517,
+      "gas:candidate-vibid:1001000121838": 262,
+      "gas:candidate-vibid:334300170549": 101,
+      "gas:candidate-vibid:334300170379": 40,
+      "gas:candidate-vibid:1001000202299": 27,
+      "gas:candidate-vibid:334300170641": 67,
+      "special:against-all": 451
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171316&region=0&sub_region=0&type=429",
@@ -6930,13 +6930,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 384,
-      "Куликов Александр Дмитриевич": 448,
-      "Попов Владислав Анатольевич": 45,
-      "Тавалдыев Александр Максотович": 57,
-      "Тажибов Тажиб Гаджимагомедович": 6,
-      "Ширяев Анатолий Александрович": 20,
-      "Против всех": 226
+      "gas:candidate-vibid:1001000225930": 384,
+      "gas:candidate-vibid:1001000121838": 448,
+      "gas:candidate-vibid:334300170549": 45,
+      "gas:candidate-vibid:334300170379": 57,
+      "gas:candidate-vibid:1001000202299": 6,
+      "gas:candidate-vibid:334300170641": 20,
+      "special:against-all": 226
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171316&region=0&sub_region=0&type=429",
@@ -6986,13 +6986,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 334,
-      "Куликов Александр Дмитриевич": 287,
-      "Попов Владислав Анатольевич": 29,
-      "Тавалдыев Александр Максотович": 83,
-      "Тажибов Тажиб Гаджимагомедович": 1,
-      "Ширяев Анатолий Александрович": 23,
-      "Против всех": 209
+      "gas:candidate-vibid:1001000225930": 334,
+      "gas:candidate-vibid:1001000121838": 287,
+      "gas:candidate-vibid:334300170549": 29,
+      "gas:candidate-vibid:334300170379": 83,
+      "gas:candidate-vibid:1001000202299": 1,
+      "gas:candidate-vibid:334300170641": 23,
+      "special:against-all": 209
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171316&region=0&sub_region=0&type=429",
@@ -7042,13 +7042,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 450,
-      "Куликов Александр Дмитриевич": 433,
-      "Попов Владислав Анатольевич": 32,
-      "Тавалдыев Александр Максотович": 46,
-      "Тажибов Тажиб Гаджимагомедович": 11,
-      "Ширяев Анатолий Александрович": 26,
-      "Против всех": 212
+      "gas:candidate-vibid:1001000225930": 450,
+      "gas:candidate-vibid:1001000121838": 433,
+      "gas:candidate-vibid:334300170549": 32,
+      "gas:candidate-vibid:334300170379": 46,
+      "gas:candidate-vibid:1001000202299": 11,
+      "gas:candidate-vibid:334300170641": 26,
+      "special:against-all": 212
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171316&region=0&sub_region=0&type=429",
@@ -7098,13 +7098,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 341,
-      "Куликов Александр Дмитриевич": 348,
-      "Попов Владислав Анатольевич": 36,
-      "Тавалдыев Александр Максотович": 38,
-      "Тажибов Тажиб Гаджимагомедович": 14,
-      "Ширяев Анатолий Александрович": 35,
-      "Против всех": 269
+      "gas:candidate-vibid:1001000225930": 341,
+      "gas:candidate-vibid:1001000121838": 348,
+      "gas:candidate-vibid:334300170549": 36,
+      "gas:candidate-vibid:334300170379": 38,
+      "gas:candidate-vibid:1001000202299": 14,
+      "gas:candidate-vibid:334300170641": 35,
+      "special:against-all": 269
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171316&region=0&sub_region=0&type=429",
@@ -7154,13 +7154,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 149,
-      "Куликов Александр Дмитриевич": 111,
-      "Попов Владислав Анатольевич": 19,
-      "Тавалдыев Александр Максотович": 14,
-      "Тажибов Тажиб Гаджимагомедович": 1,
-      "Ширяев Анатолий Александрович": 18,
-      "Против всех": 91
+      "gas:candidate-vibid:1001000225930": 149,
+      "gas:candidate-vibid:1001000121838": 111,
+      "gas:candidate-vibid:334300170549": 19,
+      "gas:candidate-vibid:334300170379": 14,
+      "gas:candidate-vibid:1001000202299": 1,
+      "gas:candidate-vibid:334300170641": 18,
+      "special:against-all": 91
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171316&region=0&sub_region=0&type=429",
@@ -7210,13 +7210,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 238,
-      "Куликов Александр Дмитриевич": 260,
-      "Попов Владислав Анатольевич": 42,
-      "Тавалдыев Александр Максотович": 21,
-      "Тажибов Тажиб Гаджимагомедович": 3,
-      "Ширяев Анатолий Александрович": 35,
-      "Против всех": 123
+      "gas:candidate-vibid:1001000225930": 238,
+      "gas:candidate-vibid:1001000121838": 260,
+      "gas:candidate-vibid:334300170549": 42,
+      "gas:candidate-vibid:334300170379": 21,
+      "gas:candidate-vibid:1001000202299": 3,
+      "gas:candidate-vibid:334300170641": 35,
+      "special:against-all": 123
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171317&region=0&sub_region=0&type=429",
@@ -7266,13 +7266,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 259,
-      "Куликов Александр Дмитриевич": 180,
-      "Попов Владислав Анатольевич": 47,
-      "Тавалдыев Александр Максотович": 14,
-      "Тажибов Тажиб Гаджимагомедович": 0,
-      "Ширяев Анатолий Александрович": 26,
-      "Против всех": 128
+      "gas:candidate-vibid:1001000225930": 259,
+      "gas:candidate-vibid:1001000121838": 180,
+      "gas:candidate-vibid:334300170549": 47,
+      "gas:candidate-vibid:334300170379": 14,
+      "gas:candidate-vibid:1001000202299": 0,
+      "gas:candidate-vibid:334300170641": 26,
+      "special:against-all": 128
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171317&region=0&sub_region=0&type=429",
@@ -7322,13 +7322,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 235,
-      "Куликов Александр Дмитриевич": 210,
-      "Попов Владислав Анатольевич": 49,
-      "Тавалдыев Александр Максотович": 17,
-      "Тажибов Тажиб Гаджимагомедович": 3,
-      "Ширяев Анатолий Александрович": 28,
-      "Против всех": 89
+      "gas:candidate-vibid:1001000225930": 235,
+      "gas:candidate-vibid:1001000121838": 210,
+      "gas:candidate-vibid:334300170549": 49,
+      "gas:candidate-vibid:334300170379": 17,
+      "gas:candidate-vibid:1001000202299": 3,
+      "gas:candidate-vibid:334300170641": 28,
+      "special:against-all": 89
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171317&region=0&sub_region=0&type=429",
@@ -7378,13 +7378,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 205,
-      "Куликов Александр Дмитриевич": 219,
-      "Попов Владислав Анатольевич": 39,
-      "Тавалдыев Александр Максотович": 41,
-      "Тажибов Тажиб Гаджимагомедович": 5,
-      "Ширяев Анатолий Александрович": 30,
-      "Против всех": 70
+      "gas:candidate-vibid:1001000225930": 205,
+      "gas:candidate-vibid:1001000121838": 219,
+      "gas:candidate-vibid:334300170549": 39,
+      "gas:candidate-vibid:334300170379": 41,
+      "gas:candidate-vibid:1001000202299": 5,
+      "gas:candidate-vibid:334300170641": 30,
+      "special:against-all": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171317&region=0&sub_region=0&type=429",
@@ -7434,13 +7434,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 153,
-      "Куликов Александр Дмитриевич": 202,
-      "Попов Владислав Анатольевич": 32,
-      "Тавалдыев Александр Максотович": 13,
-      "Тажибов Тажиб Гаджимагомедович": 4,
-      "Ширяев Анатолий Александрович": 25,
-      "Против всех": 62
+      "gas:candidate-vibid:1001000225930": 153,
+      "gas:candidate-vibid:1001000121838": 202,
+      "gas:candidate-vibid:334300170549": 32,
+      "gas:candidate-vibid:334300170379": 13,
+      "gas:candidate-vibid:1001000202299": 4,
+      "gas:candidate-vibid:334300170641": 25,
+      "special:against-all": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171317&region=0&sub_region=0&type=429",
@@ -7490,13 +7490,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 136,
-      "Куликов Александр Дмитриевич": 190,
-      "Попов Владислав Анатольевич": 27,
-      "Тавалдыев Александр Максотович": 16,
-      "Тажибов Тажиб Гаджимагомедович": 3,
-      "Ширяев Анатолий Александрович": 30,
-      "Против всех": 59
+      "gas:candidate-vibid:1001000225930": 136,
+      "gas:candidate-vibid:1001000121838": 190,
+      "gas:candidate-vibid:334300170549": 27,
+      "gas:candidate-vibid:334300170379": 16,
+      "gas:candidate-vibid:1001000202299": 3,
+      "gas:candidate-vibid:334300170641": 30,
+      "special:against-all": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171317&region=0&sub_region=0&type=429",
@@ -7546,13 +7546,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 141,
-      "Куликов Александр Дмитриевич": 183,
-      "Попов Владислав Анатольевич": 38,
-      "Тавалдыев Александр Максотович": 15,
-      "Тажибов Тажиб Гаджимагомедович": 1,
-      "Ширяев Анатолий Александрович": 29,
-      "Против всех": 70
+      "gas:candidate-vibid:1001000225930": 141,
+      "gas:candidate-vibid:1001000121838": 183,
+      "gas:candidate-vibid:334300170549": 38,
+      "gas:candidate-vibid:334300170379": 15,
+      "gas:candidate-vibid:1001000202299": 1,
+      "gas:candidate-vibid:334300170641": 29,
+      "special:against-all": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171317&region=0&sub_region=0&type=429",
@@ -7602,13 +7602,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 189,
-      "Куликов Александр Дмитриевич": 168,
-      "Попов Владислав Анатольевич": 19,
-      "Тавалдыев Александр Максотович": 7,
-      "Тажибов Тажиб Гаджимагомедович": 0,
-      "Ширяев Анатолий Александрович": 19,
-      "Против всех": 58
+      "gas:candidate-vibid:1001000225930": 189,
+      "gas:candidate-vibid:1001000121838": 168,
+      "gas:candidate-vibid:334300170549": 19,
+      "gas:candidate-vibid:334300170379": 7,
+      "gas:candidate-vibid:1001000202299": 0,
+      "gas:candidate-vibid:334300170641": 19,
+      "special:against-all": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171317&region=0&sub_region=0&type=429",
@@ -7658,13 +7658,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 267,
-      "Куликов Александр Дмитриевич": 266,
-      "Попов Владислав Анатольевич": 59,
-      "Тавалдыев Александр Максотович": 17,
-      "Тажибов Тажиб Гаджимагомедович": 6,
-      "Ширяев Анатолий Александрович": 23,
-      "Против всех": 164
+      "gas:candidate-vibid:1001000225930": 267,
+      "gas:candidate-vibid:1001000121838": 266,
+      "gas:candidate-vibid:334300170549": 59,
+      "gas:candidate-vibid:334300170379": 17,
+      "gas:candidate-vibid:1001000202299": 6,
+      "gas:candidate-vibid:334300170641": 23,
+      "special:against-all": 164
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171317&region=0&sub_region=0&type=429",
@@ -7714,13 +7714,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 140,
-      "Куликов Александр Дмитриевич": 92,
-      "Попов Владислав Анатольевич": 24,
-      "Тавалдыев Александр Максотович": 14,
-      "Тажибов Тажиб Гаджимагомедович": 0,
-      "Ширяев Анатолий Александрович": 9,
-      "Против всех": 73
+      "gas:candidate-vibid:1001000225930": 140,
+      "gas:candidate-vibid:1001000121838": 92,
+      "gas:candidate-vibid:334300170549": 24,
+      "gas:candidate-vibid:334300170379": 14,
+      "gas:candidate-vibid:1001000202299": 0,
+      "gas:candidate-vibid:334300170641": 9,
+      "special:against-all": 73
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171317&region=0&sub_region=0&type=429",
@@ -7770,13 +7770,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 183,
-      "Куликов Александр Дмитриевич": 85,
-      "Попов Владислав Анатольевич": 35,
-      "Тавалдыев Александр Максотович": 7,
-      "Тажибов Тажиб Гаджимагомедович": 0,
-      "Ширяев Анатолий Александрович": 27,
-      "Против всех": 39
+      "gas:candidate-vibid:1001000225930": 183,
+      "gas:candidate-vibid:1001000121838": 85,
+      "gas:candidate-vibid:334300170549": 35,
+      "gas:candidate-vibid:334300170379": 7,
+      "gas:candidate-vibid:1001000202299": 0,
+      "gas:candidate-vibid:334300170641": 27,
+      "special:against-all": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171317&region=0&sub_region=0&type=429",
@@ -7826,13 +7826,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 48,
-      "Куликов Александр Дмитриевич": 24,
-      "Попов Владислав Анатольевич": 11,
-      "Тавалдыев Александр Максотович": 5,
-      "Тажибов Тажиб Гаджимагомедович": 0,
-      "Ширяев Анатолий Александрович": 6,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000225930": 48,
+      "gas:candidate-vibid:1001000121838": 24,
+      "gas:candidate-vibid:334300170549": 11,
+      "gas:candidate-vibid:334300170379": 5,
+      "gas:candidate-vibid:1001000202299": 0,
+      "gas:candidate-vibid:334300170641": 6,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171317&region=0&sub_region=0&type=429",
@@ -7882,13 +7882,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 43,
-      "Куликов Александр Дмитриевич": 33,
-      "Попов Владислав Анатольевич": 8,
-      "Тавалдыев Александр Максотович": 2,
-      "Тажибов Тажиб Гаджимагомедович": 7,
-      "Ширяев Анатолий Александрович": 0,
-      "Против всех": 32
+      "gas:candidate-vibid:1001000225930": 43,
+      "gas:candidate-vibid:1001000121838": 33,
+      "gas:candidate-vibid:334300170549": 8,
+      "gas:candidate-vibid:334300170379": 2,
+      "gas:candidate-vibid:1001000202299": 7,
+      "gas:candidate-vibid:334300170641": 0,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171317&region=0&sub_region=0&type=429",
@@ -7938,13 +7938,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 145,
-      "Куликов Александр Дмитриевич": 181,
-      "Попов Владислав Анатольевич": 34,
-      "Тавалдыев Александр Максотович": 5,
-      "Тажибов Тажиб Гаджимагомедович": 3,
-      "Ширяев Анатолий Александрович": 17,
-      "Против всех": 50
+      "gas:candidate-vibid:1001000225930": 145,
+      "gas:candidate-vibid:1001000121838": 181,
+      "gas:candidate-vibid:334300170549": 34,
+      "gas:candidate-vibid:334300170379": 5,
+      "gas:candidate-vibid:1001000202299": 3,
+      "gas:candidate-vibid:334300170641": 17,
+      "special:against-all": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171317&region=0&sub_region=0&type=429",
@@ -7994,13 +7994,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 146,
-      "Куликов Александр Дмитриевич": 172,
-      "Попов Владислав Анатольевич": 62,
-      "Тавалдыев Александр Максотович": 14,
-      "Тажибов Тажиб Гаджимагомедович": 2,
-      "Ширяев Анатолий Александрович": 9,
-      "Против всех": 70
+      "gas:candidate-vibid:1001000225930": 146,
+      "gas:candidate-vibid:1001000121838": 172,
+      "gas:candidate-vibid:334300170549": 62,
+      "gas:candidate-vibid:334300170379": 14,
+      "gas:candidate-vibid:1001000202299": 2,
+      "gas:candidate-vibid:334300170641": 9,
+      "special:against-all": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171317&region=0&sub_region=0&type=429",
@@ -8050,13 +8050,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 109,
-      "Куликов Александр Дмитриевич": 194,
-      "Попов Владислав Анатольевич": 21,
-      "Тавалдыев Александр Максотович": 8,
-      "Тажибов Тажиб Гаджимагомедович": 0,
-      "Ширяев Анатолий Александрович": 13,
-      "Против всех": 27
+      "gas:candidate-vibid:1001000225930": 109,
+      "gas:candidate-vibid:1001000121838": 194,
+      "gas:candidate-vibid:334300170549": 21,
+      "gas:candidate-vibid:334300170379": 8,
+      "gas:candidate-vibid:1001000202299": 0,
+      "gas:candidate-vibid:334300170641": 13,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171317&region=0&sub_region=0&type=429",
@@ -8106,13 +8106,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 104,
-      "Куликов Александр Дмитриевич": 146,
-      "Попов Владислав Анатольевич": 29,
-      "Тавалдыев Александр Максотович": 5,
-      "Тажибов Тажиб Гаджимагомедович": 2,
-      "Ширяев Анатолий Александрович": 15,
-      "Против всех": 53
+      "gas:candidate-vibid:1001000225930": 104,
+      "gas:candidate-vibid:1001000121838": 146,
+      "gas:candidate-vibid:334300170549": 29,
+      "gas:candidate-vibid:334300170379": 5,
+      "gas:candidate-vibid:1001000202299": 2,
+      "gas:candidate-vibid:334300170641": 15,
+      "special:against-all": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171317&region=0&sub_region=0&type=429",
@@ -8162,13 +8162,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 34,
-      "Куликов Александр Дмитриевич": 34,
-      "Попов Владислав Анатольевич": 3,
-      "Тавалдыев Александр Максотович": 3,
-      "Тажибов Тажиб Гаджимагомедович": 1,
-      "Ширяев Анатолий Александрович": 3,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000225930": 34,
+      "gas:candidate-vibid:1001000121838": 34,
+      "gas:candidate-vibid:334300170549": 3,
+      "gas:candidate-vibid:334300170379": 3,
+      "gas:candidate-vibid:1001000202299": 1,
+      "gas:candidate-vibid:334300170641": 3,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171317&region=0&sub_region=0&type=429",
@@ -8218,13 +8218,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 145,
-      "Куликов Александр Дмитриевич": 231,
-      "Попов Владислав Анатольевич": 22,
-      "Тавалдыев Александр Максотович": 16,
-      "Тажибов Тажиб Гаджимагомедович": 35,
-      "Ширяев Анатолий Александрович": 17,
-      "Против всех": 50
+      "gas:candidate-vibid:1001000225930": 145,
+      "gas:candidate-vibid:1001000121838": 231,
+      "gas:candidate-vibid:334300170549": 22,
+      "gas:candidate-vibid:334300170379": 16,
+      "gas:candidate-vibid:1001000202299": 35,
+      "gas:candidate-vibid:334300170641": 17,
+      "special:against-all": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171317&region=0&sub_region=0&type=429",
@@ -8274,13 +8274,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 100,
-      "Куликов Александр Дмитриевич": 60,
-      "Попов Владислав Анатольевич": 18,
-      "Тавалдыев Александр Максотович": 5,
-      "Тажибов Тажиб Гаджимагомедович": 4,
-      "Ширяев Анатолий Александрович": 14,
-      "Против всех": 42
+      "gas:candidate-vibid:1001000225930": 100,
+      "gas:candidate-vibid:1001000121838": 60,
+      "gas:candidate-vibid:334300170549": 18,
+      "gas:candidate-vibid:334300170379": 5,
+      "gas:candidate-vibid:1001000202299": 4,
+      "gas:candidate-vibid:334300170641": 14,
+      "special:against-all": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171317&region=0&sub_region=0&type=429",
@@ -8330,13 +8330,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 77,
-      "Куликов Александр Дмитриевич": 190,
-      "Попов Владислав Анатольевич": 34,
-      "Тавалдыев Александр Максотович": 14,
-      "Тажибов Тажиб Гаджимагомедович": 35,
-      "Ширяев Анатолий Александрович": 13,
-      "Против всех": 27
+      "gas:candidate-vibid:1001000225930": 77,
+      "gas:candidate-vibid:1001000121838": 190,
+      "gas:candidate-vibid:334300170549": 34,
+      "gas:candidate-vibid:334300170379": 14,
+      "gas:candidate-vibid:1001000202299": 35,
+      "gas:candidate-vibid:334300170641": 13,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171317&region=0&sub_region=0&type=429",
@@ -8386,13 +8386,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 17,
-      "Куликов Александр Дмитриевич": 85,
-      "Попов Владислав Анатольевич": 10,
-      "Тавалдыев Александр Максотович": 1,
-      "Тажибов Тажиб Гаджимагомедович": 0,
-      "Ширяев Анатолий Александрович": 1,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000225930": 17,
+      "gas:candidate-vibid:1001000121838": 85,
+      "gas:candidate-vibid:334300170549": 10,
+      "gas:candidate-vibid:334300170379": 1,
+      "gas:candidate-vibid:1001000202299": 0,
+      "gas:candidate-vibid:334300170641": 1,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171317&region=0&sub_region=0&type=429",
@@ -8442,13 +8442,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 206,
-      "Куликов Александр Дмитриевич": 212,
-      "Попов Владислав Анатольевич": 57,
-      "Тавалдыев Александр Максотович": 7,
-      "Тажибов Тажиб Гаджимагомедович": 3,
-      "Ширяев Анатолий Александрович": 33,
-      "Против всех": 61
+      "gas:candidate-vibid:1001000225930": 206,
+      "gas:candidate-vibid:1001000121838": 212,
+      "gas:candidate-vibid:334300170549": 57,
+      "gas:candidate-vibid:334300170379": 7,
+      "gas:candidate-vibid:1001000202299": 3,
+      "gas:candidate-vibid:334300170641": 33,
+      "special:against-all": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171317&region=0&sub_region=0&type=429",
@@ -8498,13 +8498,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 94,
-      "Куликов Александр Дмитриевич": 164,
-      "Попов Владислав Анатольевич": 42,
-      "Тавалдыев Александр Максотович": 8,
-      "Тажибов Тажиб Гаджимагомедович": 4,
-      "Ширяев Анатолий Александрович": 18,
-      "Против всех": 47
+      "gas:candidate-vibid:1001000225930": 94,
+      "gas:candidate-vibid:1001000121838": 164,
+      "gas:candidate-vibid:334300170549": 42,
+      "gas:candidate-vibid:334300170379": 8,
+      "gas:candidate-vibid:1001000202299": 4,
+      "gas:candidate-vibid:334300170641": 18,
+      "special:against-all": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171317&region=0&sub_region=0&type=429",
@@ -8554,13 +8554,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 42,
-      "Куликов Александр Дмитриевич": 38,
-      "Попов Владислав Анатольевич": 13,
-      "Тавалдыев Александр Максотович": 1,
-      "Тажибов Тажиб Гаджимагомедович": 0,
-      "Ширяев Анатолий Александрович": 2,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000225930": 42,
+      "gas:candidate-vibid:1001000121838": 38,
+      "gas:candidate-vibid:334300170549": 13,
+      "gas:candidate-vibid:334300170379": 1,
+      "gas:candidate-vibid:1001000202299": 0,
+      "gas:candidate-vibid:334300170641": 2,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171317&region=0&sub_region=0&type=429",
@@ -8610,13 +8610,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 47,
-      "Куликов Александр Дмитриевич": 30,
-      "Попов Владислав Анатольевич": 7,
-      "Тавалдыев Александр Максотович": 1,
-      "Тажибов Тажиб Гаджимагомедович": 0,
-      "Ширяев Анатолий Александрович": 2,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000225930": 47,
+      "gas:candidate-vibid:1001000121838": 30,
+      "gas:candidate-vibid:334300170549": 7,
+      "gas:candidate-vibid:334300170379": 1,
+      "gas:candidate-vibid:1001000202299": 0,
+      "gas:candidate-vibid:334300170641": 2,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171317&region=0&sub_region=0&type=429",
@@ -8666,13 +8666,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 32,
-      "Куликов Александр Дмитриевич": 17,
-      "Попов Владислав Анатольевич": 5,
-      "Тавалдыев Александр Максотович": 0,
-      "Тажибов Тажиб Гаджимагомедович": 0,
-      "Ширяев Анатолий Александрович": 0,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000225930": 32,
+      "gas:candidate-vibid:1001000121838": 17,
+      "gas:candidate-vibid:334300170549": 5,
+      "gas:candidate-vibid:334300170379": 0,
+      "gas:candidate-vibid:1001000202299": 0,
+      "gas:candidate-vibid:334300170641": 0,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171317&region=0&sub_region=0&type=429",
@@ -8722,13 +8722,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 104,
-      "Куликов Александр Дмитриевич": 207,
-      "Попов Владислав Анатольевич": 16,
-      "Тавалдыев Александр Максотович": 8,
-      "Тажибов Тажиб Гаджимагомедович": 0,
-      "Ширяев Анатолий Александрович": 2,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000225930": 104,
+      "gas:candidate-vibid:1001000121838": 207,
+      "gas:candidate-vibid:334300170549": 16,
+      "gas:candidate-vibid:334300170379": 8,
+      "gas:candidate-vibid:1001000202299": 0,
+      "gas:candidate-vibid:334300170641": 2,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171317&region=0&sub_region=0&type=429",
@@ -8778,13 +8778,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 103,
-      "Куликов Александр Дмитриевич": 152,
-      "Попов Владислав Анатольевич": 17,
-      "Тавалдыев Александр Максотович": 4,
-      "Тажибов Тажиб Гаджимагомедович": 0,
-      "Ширяев Анатолий Александрович": 2,
-      "Против всех": 31
+      "gas:candidate-vibid:1001000225930": 103,
+      "gas:candidate-vibid:1001000121838": 152,
+      "gas:candidate-vibid:334300170549": 17,
+      "gas:candidate-vibid:334300170379": 4,
+      "gas:candidate-vibid:1001000202299": 0,
+      "gas:candidate-vibid:334300170641": 2,
+      "special:against-all": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171317&region=0&sub_region=0&type=429",
@@ -8834,13 +8834,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 15,
-      "Куликов Александр Дмитриевич": 21,
-      "Попов Владислав Анатольевич": 5,
-      "Тавалдыев Александр Максотович": 0,
-      "Тажибов Тажиб Гаджимагомедович": 0,
-      "Ширяев Анатолий Александрович": 0,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000225930": 15,
+      "gas:candidate-vibid:1001000121838": 21,
+      "gas:candidate-vibid:334300170549": 5,
+      "gas:candidate-vibid:334300170379": 0,
+      "gas:candidate-vibid:1001000202299": 0,
+      "gas:candidate-vibid:334300170641": 0,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171317&region=0&sub_region=0&type=429",
@@ -8890,13 +8890,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 101,
-      "Куликов Александр Дмитриевич": 61,
-      "Попов Владислав Анатольевич": 26,
-      "Тавалдыев Александр Максотович": 4,
-      "Тажибов Тажиб Гаджимагомедович": 1,
-      "Ширяев Анатолий Александрович": 3,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000225930": 101,
+      "gas:candidate-vibid:1001000121838": 61,
+      "gas:candidate-vibid:334300170549": 26,
+      "gas:candidate-vibid:334300170379": 4,
+      "gas:candidate-vibid:1001000202299": 1,
+      "gas:candidate-vibid:334300170641": 3,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171317&region=0&sub_region=0&type=429",
@@ -8946,13 +8946,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 219,
-      "Куликов Александр Дмитриевич": 214,
-      "Попов Владислав Анатольевич": 35,
-      "Тавалдыев Александр Максотович": 3,
-      "Тажибов Тажиб Гаджимагомедович": 3,
-      "Ширяев Анатолий Александрович": 18,
-      "Против всех": 73
+      "gas:candidate-vibid:1001000225930": 219,
+      "gas:candidate-vibid:1001000121838": 214,
+      "gas:candidate-vibid:334300170549": 35,
+      "gas:candidate-vibid:334300170379": 3,
+      "gas:candidate-vibid:1001000202299": 3,
+      "gas:candidate-vibid:334300170641": 18,
+      "special:against-all": 73
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171317&region=0&sub_region=0&type=429",
@@ -9002,13 +9002,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 74,
-      "Куликов Александр Дмитриевич": 140,
-      "Попов Владислав Анатольевич": 36,
-      "Тавалдыев Александр Максотович": 20,
-      "Тажибов Тажиб Гаджимагомедович": 8,
-      "Ширяев Анатолий Александрович": 13,
-      "Против всех": 52
+      "gas:candidate-vibid:1001000225930": 74,
+      "gas:candidate-vibid:1001000121838": 140,
+      "gas:candidate-vibid:334300170549": 36,
+      "gas:candidate-vibid:334300170379": 20,
+      "gas:candidate-vibid:1001000202299": 8,
+      "gas:candidate-vibid:334300170641": 13,
+      "special:against-all": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171317&region=0&sub_region=0&type=429",
@@ -9058,13 +9058,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 20,
-      "Куликов Александр Дмитриевич": 26,
-      "Попов Владислав Анатольевич": 4,
-      "Тавалдыев Александр Максотович": 2,
-      "Тажибов Тажиб Гаджимагомедович": 1,
-      "Ширяев Анатолий Александрович": 0,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000225930": 20,
+      "gas:candidate-vibid:1001000121838": 26,
+      "gas:candidate-vibid:334300170549": 4,
+      "gas:candidate-vibid:334300170379": 2,
+      "gas:candidate-vibid:1001000202299": 1,
+      "gas:candidate-vibid:334300170641": 0,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171317&region=0&sub_region=0&type=429",
@@ -9114,13 +9114,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 36,
-      "Куликов Александр Дмитриевич": 39,
-      "Попов Владислав Анатольевич": 11,
-      "Тавалдыев Александр Максотович": 3,
-      "Тажибов Тажиб Гаджимагомедович": 0,
-      "Ширяев Анатолий Александрович": 1,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000225930": 36,
+      "gas:candidate-vibid:1001000121838": 39,
+      "gas:candidate-vibid:334300170549": 11,
+      "gas:candidate-vibid:334300170379": 3,
+      "gas:candidate-vibid:1001000202299": 0,
+      "gas:candidate-vibid:334300170641": 1,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171318&region=0&sub_region=0&type=429",
@@ -9170,13 +9170,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 104,
-      "Куликов Александр Дмитриевич": 49,
-      "Попов Владислав Анатольевич": 24,
-      "Тавалдыев Александр Максотович": 4,
-      "Тажибов Тажиб Гаджимагомедович": 1,
-      "Ширяев Анатолий Александрович": 2,
-      "Против всех": 26
+      "gas:candidate-vibid:1001000225930": 104,
+      "gas:candidate-vibid:1001000121838": 49,
+      "gas:candidate-vibid:334300170549": 24,
+      "gas:candidate-vibid:334300170379": 4,
+      "gas:candidate-vibid:1001000202299": 1,
+      "gas:candidate-vibid:334300170641": 2,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171318&region=0&sub_region=0&type=429",
@@ -9226,13 +9226,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 73,
-      "Куликов Александр Дмитриевич": 69,
-      "Попов Владислав Анатольевич": 47,
-      "Тавалдыев Александр Максотович": 9,
-      "Тажибов Тажиб Гаджимагомедович": 2,
-      "Ширяев Анатолий Александрович": 12,
-      "Против всех": 35
+      "gas:candidate-vibid:1001000225930": 73,
+      "gas:candidate-vibid:1001000121838": 69,
+      "gas:candidate-vibid:334300170549": 47,
+      "gas:candidate-vibid:334300170379": 9,
+      "gas:candidate-vibid:1001000202299": 2,
+      "gas:candidate-vibid:334300170641": 12,
+      "special:against-all": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171318&region=0&sub_region=0&type=429",
@@ -9282,13 +9282,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 87,
-      "Куликов Александр Дмитриевич": 62,
-      "Попов Владислав Анатольевич": 45,
-      "Тавалдыев Александр Максотович": 9,
-      "Тажибов Тажиб Гаджимагомедович": 4,
-      "Ширяев Анатолий Александрович": 7,
-      "Против всех": 37
+      "gas:candidate-vibid:1001000225930": 87,
+      "gas:candidate-vibid:1001000121838": 62,
+      "gas:candidate-vibid:334300170549": 45,
+      "gas:candidate-vibid:334300170379": 9,
+      "gas:candidate-vibid:1001000202299": 4,
+      "gas:candidate-vibid:334300170641": 7,
+      "special:against-all": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171318&region=0&sub_region=0&type=429",
@@ -9338,13 +9338,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 218,
-      "Куликов Александр Дмитриевич": 121,
-      "Попов Владислав Анатольевич": 62,
-      "Тавалдыев Александр Максотович": 6,
-      "Тажибов Тажиб Гаджимагомедович": 4,
-      "Ширяев Анатолий Александрович": 17,
-      "Против всех": 70
+      "gas:candidate-vibid:1001000225930": 218,
+      "gas:candidate-vibid:1001000121838": 121,
+      "gas:candidate-vibid:334300170549": 62,
+      "gas:candidate-vibid:334300170379": 6,
+      "gas:candidate-vibid:1001000202299": 4,
+      "gas:candidate-vibid:334300170641": 17,
+      "special:against-all": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171318&region=0&sub_region=0&type=429",
@@ -9394,13 +9394,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 156,
-      "Куликов Александр Дмитриевич": 103,
-      "Попов Владислав Анатольевич": 29,
-      "Тавалдыев Александр Максотович": 7,
-      "Тажибов Тажиб Гаджимагомедович": 2,
-      "Ширяев Анатолий Александрович": 13,
-      "Против всех": 50
+      "gas:candidate-vibid:1001000225930": 156,
+      "gas:candidate-vibid:1001000121838": 103,
+      "gas:candidate-vibid:334300170549": 29,
+      "gas:candidate-vibid:334300170379": 7,
+      "gas:candidate-vibid:1001000202299": 2,
+      "gas:candidate-vibid:334300170641": 13,
+      "special:against-all": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171318&region=0&sub_region=0&type=429",
@@ -9450,13 +9450,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 53,
-      "Куликов Александр Дмитриевич": 121,
-      "Попов Владислав Анатольевич": 20,
-      "Тавалдыев Александр Максотович": 2,
-      "Тажибов Тажиб Гаджимагомедович": 1,
-      "Ширяев Анатолий Александрович": 3,
-      "Против всех": 30
+      "gas:candidate-vibid:1001000225930": 53,
+      "gas:candidate-vibid:1001000121838": 121,
+      "gas:candidate-vibid:334300170549": 20,
+      "gas:candidate-vibid:334300170379": 2,
+      "gas:candidate-vibid:1001000202299": 1,
+      "gas:candidate-vibid:334300170641": 3,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171318&region=0&sub_region=0&type=429",
@@ -9506,13 +9506,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 45,
-      "Куликов Александр Дмитриевич": 28,
-      "Попов Владислав Анатольевич": 5,
-      "Тавалдыев Александр Максотович": 4,
-      "Тажибов Тажиб Гаджимагомедович": 0,
-      "Ширяев Анатолий Александрович": 13,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000225930": 45,
+      "gas:candidate-vibid:1001000121838": 28,
+      "gas:candidate-vibid:334300170549": 5,
+      "gas:candidate-vibid:334300170379": 4,
+      "gas:candidate-vibid:1001000202299": 0,
+      "gas:candidate-vibid:334300170641": 13,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171318&region=0&sub_region=0&type=429",
@@ -9562,13 +9562,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 286,
-      "Куликов Александр Дмитриевич": 141,
-      "Попов Владислав Анатольевич": 50,
-      "Тавалдыев Александр Максотович": 10,
-      "Тажибов Тажиб Гаджимагомедович": 3,
-      "Ширяев Анатолий Александрович": 20,
-      "Против всех": 83
+      "gas:candidate-vibid:1001000225930": 286,
+      "gas:candidate-vibid:1001000121838": 141,
+      "gas:candidate-vibid:334300170549": 50,
+      "gas:candidate-vibid:334300170379": 10,
+      "gas:candidate-vibid:1001000202299": 3,
+      "gas:candidate-vibid:334300170641": 20,
+      "special:against-all": 83
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171318&region=0&sub_region=0&type=429",
@@ -9618,13 +9618,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 156,
-      "Куликов Александр Дмитриевич": 41,
-      "Попов Владислав Анатольевич": 24,
-      "Тавалдыев Александр Максотович": 6,
-      "Тажибов Тажиб Гаджимагомедович": 0,
-      "Ширяев Анатолий Александрович": 10,
-      "Против всех": 32
+      "gas:candidate-vibid:1001000225930": 156,
+      "gas:candidate-vibid:1001000121838": 41,
+      "gas:candidate-vibid:334300170549": 24,
+      "gas:candidate-vibid:334300170379": 6,
+      "gas:candidate-vibid:1001000202299": 0,
+      "gas:candidate-vibid:334300170641": 10,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171318&region=0&sub_region=0&type=429",
@@ -9674,13 +9674,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 176,
-      "Куликов Александр Дмитриевич": 93,
-      "Попов Владислав Анатольевич": 27,
-      "Тавалдыев Александр Максотович": 10,
-      "Тажибов Тажиб Гаджимагомедович": 1,
-      "Ширяев Анатолий Александрович": 15,
-      "Против всех": 48
+      "gas:candidate-vibid:1001000225930": 176,
+      "gas:candidate-vibid:1001000121838": 93,
+      "gas:candidate-vibid:334300170549": 27,
+      "gas:candidate-vibid:334300170379": 10,
+      "gas:candidate-vibid:1001000202299": 1,
+      "gas:candidate-vibid:334300170641": 15,
+      "special:against-all": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171318&region=0&sub_region=0&type=429",
@@ -9730,13 +9730,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 43,
-      "Куликов Александр Дмитриевич": 5,
-      "Попов Владислав Анатольевич": 8,
-      "Тавалдыев Александр Максотович": 1,
-      "Тажибов Тажиб Гаджимагомедович": 1,
-      "Ширяев Анатолий Александрович": 1,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000225930": 43,
+      "gas:candidate-vibid:1001000121838": 5,
+      "gas:candidate-vibid:334300170549": 8,
+      "gas:candidate-vibid:334300170379": 1,
+      "gas:candidate-vibid:1001000202299": 1,
+      "gas:candidate-vibid:334300170641": 1,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171318&region=0&sub_region=0&type=429",
@@ -9786,13 +9786,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 66,
-      "Куликов Александр Дмитриевич": 17,
-      "Попов Владислав Анатольевич": 6,
-      "Тавалдыев Александр Максотович": 1,
-      "Тажибов Тажиб Гаджимагомедович": 2,
-      "Ширяев Анатолий Александрович": 0,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000225930": 66,
+      "gas:candidate-vibid:1001000121838": 17,
+      "gas:candidate-vibid:334300170549": 6,
+      "gas:candidate-vibid:334300170379": 1,
+      "gas:candidate-vibid:1001000202299": 2,
+      "gas:candidate-vibid:334300170641": 0,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171318&region=0&sub_region=0&type=429",
@@ -9842,13 +9842,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 31,
-      "Куликов Александр Дмитриевич": 4,
-      "Попов Владислав Анатольевич": 4,
-      "Тавалдыев Александр Максотович": 1,
-      "Тажибов Тажиб Гаджимагомедович": 0,
-      "Ширяев Анатолий Александрович": 4,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000225930": 31,
+      "gas:candidate-vibid:1001000121838": 4,
+      "gas:candidate-vibid:334300170549": 4,
+      "gas:candidate-vibid:334300170379": 1,
+      "gas:candidate-vibid:1001000202299": 0,
+      "gas:candidate-vibid:334300170641": 4,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171318&region=0&sub_region=0&type=429",
@@ -9898,13 +9898,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 33,
-      "Куликов Александр Дмитриевич": 17,
-      "Попов Владислав Анатольевич": 12,
-      "Тавалдыев Александр Максотович": 5,
-      "Тажибов Тажиб Гаджимагомедович": 1,
-      "Ширяев Анатолий Александрович": 2,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000225930": 33,
+      "gas:candidate-vibid:1001000121838": 17,
+      "gas:candidate-vibid:334300170549": 12,
+      "gas:candidate-vibid:334300170379": 5,
+      "gas:candidate-vibid:1001000202299": 1,
+      "gas:candidate-vibid:334300170641": 2,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171318&region=0&sub_region=0&type=429",
@@ -9954,13 +9954,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 343,
-      "Куликов Александр Дмитриевич": 138,
-      "Попов Владислав Анатольевич": 56,
-      "Тавалдыев Александр Максотович": 11,
-      "Тажибов Тажиб Гаджимагомедович": 11,
-      "Ширяев Анатолий Александрович": 21,
-      "Против всех": 48
+      "gas:candidate-vibid:1001000225930": 343,
+      "gas:candidate-vibid:1001000121838": 138,
+      "gas:candidate-vibid:334300170549": 56,
+      "gas:candidate-vibid:334300170379": 11,
+      "gas:candidate-vibid:1001000202299": 11,
+      "gas:candidate-vibid:334300170641": 21,
+      "special:against-all": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171318&region=0&sub_region=0&type=429",
@@ -10010,13 +10010,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 184,
-      "Куликов Александр Дмитриевич": 127,
-      "Попов Владислав Анатольевич": 37,
-      "Тавалдыев Александр Максотович": 9,
-      "Тажибов Тажиб Гаджимагомедович": 2,
-      "Ширяев Анатолий Александрович": 20,
-      "Против всех": 54
+      "gas:candidate-vibid:1001000225930": 184,
+      "gas:candidate-vibid:1001000121838": 127,
+      "gas:candidate-vibid:334300170549": 37,
+      "gas:candidate-vibid:334300170379": 9,
+      "gas:candidate-vibid:1001000202299": 2,
+      "gas:candidate-vibid:334300170641": 20,
+      "special:against-all": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171318&region=0&sub_region=0&type=429",
@@ -10066,13 +10066,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 60,
-      "Куликов Александр Дмитриевич": 26,
-      "Попов Владислав Анатольевич": 14,
-      "Тавалдыев Александр Максотович": 5,
-      "Тажибов Тажиб Гаджимагомедович": 2,
-      "Ширяев Анатолий Александрович": 3,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000225930": 60,
+      "gas:candidate-vibid:1001000121838": 26,
+      "gas:candidate-vibid:334300170549": 14,
+      "gas:candidate-vibid:334300170379": 5,
+      "gas:candidate-vibid:1001000202299": 2,
+      "gas:candidate-vibid:334300170641": 3,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171318&region=0&sub_region=0&type=429",
@@ -10122,13 +10122,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 175,
-      "Куликов Александр Дмитриевич": 104,
-      "Попов Владислав Анатольевич": 38,
-      "Тавалдыев Александр Максотович": 11,
-      "Тажибов Тажиб Гаджимагомедович": 8,
-      "Ширяев Анатолий Александрович": 27,
-      "Против всех": 66
+      "gas:candidate-vibid:1001000225930": 175,
+      "gas:candidate-vibid:1001000121838": 104,
+      "gas:candidate-vibid:334300170549": 38,
+      "gas:candidate-vibid:334300170379": 11,
+      "gas:candidate-vibid:1001000202299": 8,
+      "gas:candidate-vibid:334300170641": 27,
+      "special:against-all": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171318&region=0&sub_region=0&type=429",
@@ -10178,13 +10178,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 50,
-      "Куликов Александр Дмитриевич": 26,
-      "Попов Владислав Анатольевич": 25,
-      "Тавалдыев Александр Максотович": 6,
-      "Тажибов Тажиб Гаджимагомедович": 1,
-      "Ширяев Анатолий Александрович": 11,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000225930": 50,
+      "gas:candidate-vibid:1001000121838": 26,
+      "gas:candidate-vibid:334300170549": 25,
+      "gas:candidate-vibid:334300170379": 6,
+      "gas:candidate-vibid:1001000202299": 1,
+      "gas:candidate-vibid:334300170641": 11,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171318&region=0&sub_region=0&type=429",
@@ -10234,13 +10234,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 352,
-      "Куликов Александр Дмитриевич": 160,
-      "Попов Владислав Анатольевич": 48,
-      "Тавалдыев Александр Максотович": 10,
-      "Тажибов Тажиб Гаджимагомедович": 1,
-      "Ширяев Анатолий Александрович": 36,
-      "Против всех": 138
+      "gas:candidate-vibid:1001000225930": 352,
+      "gas:candidate-vibid:1001000121838": 160,
+      "gas:candidate-vibid:334300170549": 48,
+      "gas:candidate-vibid:334300170379": 10,
+      "gas:candidate-vibid:1001000202299": 1,
+      "gas:candidate-vibid:334300170641": 36,
+      "special:against-all": 138
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171318&region=0&sub_region=0&type=429",
@@ -10290,13 +10290,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 330,
-      "Куликов Александр Дмитриевич": 113,
-      "Попов Владислав Анатольевич": 40,
-      "Тавалдыев Александр Максотович": 6,
-      "Тажибов Тажиб Гаджимагомедович": 4,
-      "Ширяев Анатолий Александрович": 22,
-      "Против всех": 106
+      "gas:candidate-vibid:1001000225930": 330,
+      "gas:candidate-vibid:1001000121838": 113,
+      "gas:candidate-vibid:334300170549": 40,
+      "gas:candidate-vibid:334300170379": 6,
+      "gas:candidate-vibid:1001000202299": 4,
+      "gas:candidate-vibid:334300170641": 22,
+      "special:against-all": 106
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171318&region=0&sub_region=0&type=429",
@@ -10346,13 +10346,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 55,
-      "Куликов Александр Дмитриевич": 51,
-      "Попов Владислав Анатольевич": 30,
-      "Тавалдыев Александр Максотович": 2,
-      "Тажибов Тажиб Гаджимагомедович": 1,
-      "Ширяев Анатолий Александрович": 4,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000225930": 55,
+      "gas:candidate-vibid:1001000121838": 51,
+      "gas:candidate-vibid:334300170549": 30,
+      "gas:candidate-vibid:334300170379": 2,
+      "gas:candidate-vibid:1001000202299": 1,
+      "gas:candidate-vibid:334300170641": 4,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171318&region=0&sub_region=0&type=429",
@@ -10402,13 +10402,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 160,
-      "Куликов Александр Дмитриевич": 80,
-      "Попов Владислав Анатольевич": 29,
-      "Тавалдыев Александр Максотович": 8,
-      "Тажибов Тажиб Гаджимагомедович": 3,
-      "Ширяев Анатолий Александрович": 15,
-      "Против всех": 41
+      "gas:candidate-vibid:1001000225930": 160,
+      "gas:candidate-vibid:1001000121838": 80,
+      "gas:candidate-vibid:334300170549": 29,
+      "gas:candidate-vibid:334300170379": 8,
+      "gas:candidate-vibid:1001000202299": 3,
+      "gas:candidate-vibid:334300170641": 15,
+      "special:against-all": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171318&region=0&sub_region=0&type=429",
@@ -10458,13 +10458,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 228,
-      "Куликов Александр Дмитриевич": 101,
-      "Попов Владислав Анатольевич": 64,
-      "Тавалдыев Александр Максотович": 11,
-      "Тажибов Тажиб Гаджимагомедович": 1,
-      "Ширяев Анатолий Александрович": 19,
-      "Против всех": 95
+      "gas:candidate-vibid:1001000225930": 228,
+      "gas:candidate-vibid:1001000121838": 101,
+      "gas:candidate-vibid:334300170549": 64,
+      "gas:candidate-vibid:334300170379": 11,
+      "gas:candidate-vibid:1001000202299": 1,
+      "gas:candidate-vibid:334300170641": 19,
+      "special:against-all": 95
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171318&region=0&sub_region=0&type=429",
@@ -10514,13 +10514,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 372,
-      "Куликов Александр Дмитриевич": 165,
-      "Попов Владислав Анатольевич": 46,
-      "Тавалдыев Александр Максотович": 7,
-      "Тажибов Тажиб Гаджимагомедович": 4,
-      "Ширяев Анатолий Александрович": 23,
-      "Против всех": 141
+      "gas:candidate-vibid:1001000225930": 372,
+      "gas:candidate-vibid:1001000121838": 165,
+      "gas:candidate-vibid:334300170549": 46,
+      "gas:candidate-vibid:334300170379": 7,
+      "gas:candidate-vibid:1001000202299": 4,
+      "gas:candidate-vibid:334300170641": 23,
+      "special:against-all": 141
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171318&region=0&sub_region=0&type=429",
@@ -10570,13 +10570,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 445,
-      "Куликов Александр Дмитриевич": 233,
-      "Попов Владислав Анатольевич": 55,
-      "Тавалдыев Александр Максотович": 24,
-      "Тажибов Тажиб Гаджимагомедович": 2,
-      "Ширяев Анатолий Александрович": 44,
-      "Против всех": 211
+      "gas:candidate-vibid:1001000225930": 445,
+      "gas:candidate-vibid:1001000121838": 233,
+      "gas:candidate-vibid:334300170549": 55,
+      "gas:candidate-vibid:334300170379": 24,
+      "gas:candidate-vibid:1001000202299": 2,
+      "gas:candidate-vibid:334300170641": 44,
+      "special:against-all": 211
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171318&region=0&sub_region=0&type=429",
@@ -10626,13 +10626,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 357,
-      "Куликов Александр Дмитриевич": 280,
-      "Попов Владислав Анатольевич": 45,
-      "Тавалдыев Александр Максотович": 9,
-      "Тажибов Тажиб Гаджимагомедович": 4,
-      "Ширяев Анатолий Александрович": 27,
-      "Против всех": 169
+      "gas:candidate-vibid:1001000225930": 357,
+      "gas:candidate-vibid:1001000121838": 280,
+      "gas:candidate-vibid:334300170549": 45,
+      "gas:candidate-vibid:334300170379": 9,
+      "gas:candidate-vibid:1001000202299": 4,
+      "gas:candidate-vibid:334300170641": 27,
+      "special:against-all": 169
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171318&region=0&sub_region=0&type=429",
@@ -10682,13 +10682,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 286,
-      "Куликов Александр Дмитриевич": 234,
-      "Попов Владислав Анатольевич": 32,
-      "Тавалдыев Александр Максотович": 15,
-      "Тажибов Тажиб Гаджимагомедович": 4,
-      "Ширяев Анатолий Александрович": 22,
-      "Против всех": 123
+      "gas:candidate-vibid:1001000225930": 286,
+      "gas:candidate-vibid:1001000121838": 234,
+      "gas:candidate-vibid:334300170549": 32,
+      "gas:candidate-vibid:334300170379": 15,
+      "gas:candidate-vibid:1001000202299": 4,
+      "gas:candidate-vibid:334300170641": 22,
+      "special:against-all": 123
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171318&region=0&sub_region=0&type=429",
@@ -10738,13 +10738,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 653,
-      "Куликов Александр Дмитриевич": 278,
-      "Попов Владислав Анатольевич": 128,
-      "Тавалдыев Александр Максотович": 18,
-      "Тажибов Тажиб Гаджимагомедович": 2,
-      "Ширяев Анатолий Александрович": 57,
-      "Против всех": 166
+      "gas:candidate-vibid:1001000225930": 653,
+      "gas:candidate-vibid:1001000121838": 278,
+      "gas:candidate-vibid:334300170549": 128,
+      "gas:candidate-vibid:334300170379": 18,
+      "gas:candidate-vibid:1001000202299": 2,
+      "gas:candidate-vibid:334300170641": 57,
+      "special:against-all": 166
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171318&region=0&sub_region=0&type=429",
@@ -10794,13 +10794,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 58,
-      "Куликов Александр Дмитриевич": 178,
-      "Попов Владислав Анатольевич": 32,
-      "Тавалдыев Александр Максотович": 2,
-      "Тажибов Тажиб Гаджимагомедович": 0,
-      "Ширяев Анатолий Александрович": 11,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000225930": 58,
+      "gas:candidate-vibid:1001000121838": 178,
+      "gas:candidate-vibid:334300170549": 32,
+      "gas:candidate-vibid:334300170379": 2,
+      "gas:candidate-vibid:1001000202299": 0,
+      "gas:candidate-vibid:334300170641": 11,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171318&region=0&sub_region=0&type=429",
@@ -10850,13 +10850,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 178,
-      "Куликов Александр Дмитриевич": 182,
-      "Попов Владислав Анатольевич": 55,
-      "Тавалдыев Александр Максотович": 6,
-      "Тажибов Тажиб Гаджимагомедович": 1,
-      "Ширяев Анатолий Александрович": 9,
-      "Против всех": 58
+      "gas:candidate-vibid:1001000225930": 178,
+      "gas:candidate-vibid:1001000121838": 182,
+      "gas:candidate-vibid:334300170549": 55,
+      "gas:candidate-vibid:334300170379": 6,
+      "gas:candidate-vibid:1001000202299": 1,
+      "gas:candidate-vibid:334300170641": 9,
+      "special:against-all": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171318&region=0&sub_region=0&type=429",
@@ -10906,13 +10906,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 146,
-      "Куликов Александр Дмитриевич": 99,
-      "Попов Владислав Анатольевич": 52,
-      "Тавалдыев Александр Максотович": 11,
-      "Тажибов Тажиб Гаджимагомедович": 2,
-      "Ширяев Анатолий Александрович": 18,
-      "Против всех": 71
+      "gas:candidate-vibid:1001000225930": 146,
+      "gas:candidate-vibid:1001000121838": 99,
+      "gas:candidate-vibid:334300170549": 52,
+      "gas:candidate-vibid:334300170379": 11,
+      "gas:candidate-vibid:1001000202299": 2,
+      "gas:candidate-vibid:334300170641": 18,
+      "special:against-all": 71
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171318&region=0&sub_region=0&type=429",
@@ -10962,13 +10962,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 138,
-      "Куликов Александр Дмитриевич": 149,
-      "Попов Владислав Анатольевич": 44,
-      "Тавалдыев Александр Максотович": 20,
-      "Тажибов Тажиб Гаджимагомедович": 3,
-      "Ширяев Анатолий Александрович": 15,
-      "Против всех": 55
+      "gas:candidate-vibid:1001000225930": 138,
+      "gas:candidate-vibid:1001000121838": 149,
+      "gas:candidate-vibid:334300170549": 44,
+      "gas:candidate-vibid:334300170379": 20,
+      "gas:candidate-vibid:1001000202299": 3,
+      "gas:candidate-vibid:334300170641": 15,
+      "special:against-all": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171318&region=0&sub_region=0&type=429",
@@ -11018,13 +11018,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 41,
-      "Куликов Александр Дмитриевич": 20,
-      "Попов Владислав Анатольевич": 14,
-      "Тавалдыев Александр Максотович": 4,
-      "Тажибов Тажиб Гаджимагомедович": 0,
-      "Ширяев Анатолий Александрович": 2,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000225930": 41,
+      "gas:candidate-vibid:1001000121838": 20,
+      "gas:candidate-vibid:334300170549": 14,
+      "gas:candidate-vibid:334300170379": 4,
+      "gas:candidate-vibid:1001000202299": 0,
+      "gas:candidate-vibid:334300170641": 2,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171318&region=0&sub_region=0&type=429",
@@ -11074,13 +11074,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 231,
-      "Куликов Александр Дмитриевич": 198,
-      "Попов Владислав Анатольевич": 67,
-      "Тавалдыев Александр Максотович": 11,
-      "Тажибов Тажиб Гаджимагомедович": 6,
-      "Ширяев Анатолий Александрович": 42,
-      "Против всех": 76
+      "gas:candidate-vibid:1001000225930": 231,
+      "gas:candidate-vibid:1001000121838": 198,
+      "gas:candidate-vibid:334300170549": 67,
+      "gas:candidate-vibid:334300170379": 11,
+      "gas:candidate-vibid:1001000202299": 6,
+      "gas:candidate-vibid:334300170641": 42,
+      "special:against-all": 76
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171318&region=0&sub_region=0&type=429",
@@ -11130,13 +11130,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 123,
-      "Куликов Александр Дмитриевич": 269,
-      "Попов Владислав Анатольевич": 26,
-      "Тавалдыев Александр Максотович": 4,
-      "Тажибов Тажиб Гаджимагомедович": 2,
-      "Ширяев Анатолий Александрович": 14,
-      "Против всех": 46
+      "gas:candidate-vibid:1001000225930": 123,
+      "gas:candidate-vibid:1001000121838": 269,
+      "gas:candidate-vibid:334300170549": 26,
+      "gas:candidate-vibid:334300170379": 4,
+      "gas:candidate-vibid:1001000202299": 2,
+      "gas:candidate-vibid:334300170641": 14,
+      "special:against-all": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171318&region=0&sub_region=0&type=429",
@@ -11186,13 +11186,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 130,
-      "Куликов Александр Дмитриевич": 141,
-      "Попов Владислав Анатольевич": 36,
-      "Тавалдыев Александр Максотович": 7,
-      "Тажибов Тажиб Гаджимагомедович": 0,
-      "Ширяев Анатолий Александрович": 5,
-      "Против всех": 25
+      "gas:candidate-vibid:1001000225930": 130,
+      "gas:candidate-vibid:1001000121838": 141,
+      "gas:candidate-vibid:334300170549": 36,
+      "gas:candidate-vibid:334300170379": 7,
+      "gas:candidate-vibid:1001000202299": 0,
+      "gas:candidate-vibid:334300170641": 5,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171318&region=0&sub_region=0&type=429",
@@ -11242,13 +11242,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 200,
-      "Куликов Александр Дмитриевич": 226,
-      "Попов Владислав Анатольевич": 0,
-      "Тавалдыев Александр Максотович": 26,
-      "Тажибов Тажиб Гаджимагомедович": 28,
-      "Ширяев Анатолий Александрович": 23,
-      "Против всех": 81
+      "gas:candidate-vibid:1001000225930": 200,
+      "gas:candidate-vibid:1001000121838": 226,
+      "gas:candidate-vibid:334300170549": 0,
+      "gas:candidate-vibid:334300170379": 26,
+      "gas:candidate-vibid:1001000202299": 28,
+      "gas:candidate-vibid:334300170641": 23,
+      "special:against-all": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171318&region=0&sub_region=0&type=429",
@@ -11298,13 +11298,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 490,
-      "Куликов Александр Дмитриевич": 220,
-      "Попов Владислав Анатольевич": 90,
-      "Тавалдыев Александр Максотович": 29,
-      "Тажибов Тажиб Гаджимагомедович": 14,
-      "Ширяев Анатолий Александрович": 48,
-      "Против всех": 188
+      "gas:candidate-vibid:1001000225930": 490,
+      "gas:candidate-vibid:1001000121838": 220,
+      "gas:candidate-vibid:334300170549": 90,
+      "gas:candidate-vibid:334300170379": 29,
+      "gas:candidate-vibid:1001000202299": 14,
+      "gas:candidate-vibid:334300170641": 48,
+      "special:against-all": 188
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171318&region=0&sub_region=0&type=429",
@@ -11354,13 +11354,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 417,
-      "Куликов Александр Дмитриевич": 569,
-      "Попов Владислав Анатольевич": 36,
-      "Тавалдыев Александр Максотович": 25,
-      "Тажибов Тажиб Гаджимагомедович": 4,
-      "Ширяев Анатолий Александрович": 45,
-      "Против всех": 221
+      "gas:candidate-vibid:1001000225930": 417,
+      "gas:candidate-vibid:1001000121838": 569,
+      "gas:candidate-vibid:334300170549": 36,
+      "gas:candidate-vibid:334300170379": 25,
+      "gas:candidate-vibid:1001000202299": 4,
+      "gas:candidate-vibid:334300170641": 45,
+      "special:against-all": 221
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171319&region=0&sub_region=0&type=429",
@@ -11410,13 +11410,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 524,
-      "Куликов Александр Дмитриевич": 593,
-      "Попов Владислав Анатольевич": 61,
-      "Тавалдыев Александр Максотович": 40,
-      "Тажибов Тажиб Гаджимагомедович": 9,
-      "Ширяев Анатолий Александрович": 52,
-      "Против всех": 278
+      "gas:candidate-vibid:1001000225930": 524,
+      "gas:candidate-vibid:1001000121838": 593,
+      "gas:candidate-vibid:334300170549": 61,
+      "gas:candidate-vibid:334300170379": 40,
+      "gas:candidate-vibid:1001000202299": 9,
+      "gas:candidate-vibid:334300170641": 52,
+      "special:against-all": 278
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171319&region=0&sub_region=0&type=429",
@@ -11466,13 +11466,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 594,
-      "Куликов Александр Дмитриевич": 578,
-      "Попов Владислав Анатольевич": 42,
-      "Тавалдыев Александр Максотович": 51,
-      "Тажибов Тажиб Гаджимагомедович": 11,
-      "Ширяев Анатолий Александрович": 53,
-      "Против всех": 297
+      "gas:candidate-vibid:1001000225930": 594,
+      "gas:candidate-vibid:1001000121838": 578,
+      "gas:candidate-vibid:334300170549": 42,
+      "gas:candidate-vibid:334300170379": 51,
+      "gas:candidate-vibid:1001000202299": 11,
+      "gas:candidate-vibid:334300170641": 53,
+      "special:against-all": 297
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171319&region=0&sub_region=0&type=429",
@@ -11522,13 +11522,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 380,
-      "Куликов Александр Дмитриевич": 523,
-      "Попов Владислав Анатольевич": 29,
-      "Тавалдыев Александр Максотович": 41,
-      "Тажибов Тажиб Гаджимагомедович": 0,
-      "Ширяев Анатолий Александрович": 38,
-      "Против всех": 185
+      "gas:candidate-vibid:1001000225930": 380,
+      "gas:candidate-vibid:1001000121838": 523,
+      "gas:candidate-vibid:334300170549": 29,
+      "gas:candidate-vibid:334300170379": 41,
+      "gas:candidate-vibid:1001000202299": 0,
+      "gas:candidate-vibid:334300170641": 38,
+      "special:against-all": 185
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171319&region=0&sub_region=0&type=429",
@@ -11578,13 +11578,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 145,
-      "Куликов Александр Дмитриевич": 128,
-      "Попов Владислав Анатольевич": 4,
-      "Тавалдыев Александр Максотович": 8,
-      "Тажибов Тажиб Гаджимагомедович": 0,
-      "Ширяев Анатолий Александрович": 6,
-      "Против всех": 30
+      "gas:candidate-vibid:1001000225930": 145,
+      "gas:candidate-vibid:1001000121838": 128,
+      "gas:candidate-vibid:334300170549": 4,
+      "gas:candidate-vibid:334300170379": 8,
+      "gas:candidate-vibid:1001000202299": 0,
+      "gas:candidate-vibid:334300170641": 6,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171319&region=0&sub_region=0&type=429",
@@ -11634,13 +11634,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 112,
-      "Куликов Александр Дмитриевич": 223,
-      "Попов Владислав Анатольевич": 5,
-      "Тавалдыев Александр Максотович": 32,
-      "Тажибов Тажиб Гаджимагомедович": 6,
-      "Ширяев Анатолий Александрович": 4,
-      "Против всех": 33
+      "gas:candidate-vibid:1001000225930": 112,
+      "gas:candidate-vibid:1001000121838": 223,
+      "gas:candidate-vibid:334300170549": 5,
+      "gas:candidate-vibid:334300170379": 32,
+      "gas:candidate-vibid:1001000202299": 6,
+      "gas:candidate-vibid:334300170641": 4,
+      "special:against-all": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171319&region=0&sub_region=0&type=429",
@@ -11690,13 +11690,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 291,
-      "Куликов Александр Дмитриевич": 197,
-      "Попов Владислав Анатольевич": 12,
-      "Тавалдыев Александр Максотович": 13,
-      "Тажибов Тажиб Гаджимагомедович": 6,
-      "Ширяев Анатолий Александрович": 6,
-      "Против всех": 40
+      "gas:candidate-vibid:1001000225930": 291,
+      "gas:candidate-vibid:1001000121838": 197,
+      "gas:candidate-vibid:334300170549": 12,
+      "gas:candidate-vibid:334300170379": 13,
+      "gas:candidate-vibid:1001000202299": 6,
+      "gas:candidate-vibid:334300170641": 6,
+      "special:against-all": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171319&region=0&sub_region=0&type=429",
@@ -11746,13 +11746,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 204,
-      "Куликов Александр Дмитриевич": 289,
-      "Попов Владислав Анатольевич": 14,
-      "Тавалдыев Александр Максотович": 6,
-      "Тажибов Тажиб Гаджимагомедович": 5,
-      "Ширяев Анатолий Александрович": 12,
-      "Против всех": 52
+      "gas:candidate-vibid:1001000225930": 204,
+      "gas:candidate-vibid:1001000121838": 289,
+      "gas:candidate-vibid:334300170549": 14,
+      "gas:candidate-vibid:334300170379": 6,
+      "gas:candidate-vibid:1001000202299": 5,
+      "gas:candidate-vibid:334300170641": 12,
+      "special:against-all": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171319&region=0&sub_region=0&type=429",
@@ -11802,13 +11802,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 216,
-      "Куликов Александр Дмитриевич": 239,
-      "Попов Владислав Анатольевич": 16,
-      "Тавалдыев Александр Максотович": 16,
-      "Тажибов Тажиб Гаджимагомедович": 5,
-      "Ширяев Анатолий Александрович": 21,
-      "Против всех": 120
+      "gas:candidate-vibid:1001000225930": 216,
+      "gas:candidate-vibid:1001000121838": 239,
+      "gas:candidate-vibid:334300170549": 16,
+      "gas:candidate-vibid:334300170379": 16,
+      "gas:candidate-vibid:1001000202299": 5,
+      "gas:candidate-vibid:334300170641": 21,
+      "special:against-all": 120
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171319&region=0&sub_region=0&type=429",
@@ -11858,13 +11858,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 66,
-      "Куликов Александр Дмитриевич": 18,
-      "Попов Владислав Анатольевич": 5,
-      "Тавалдыев Александр Максотович": 1,
-      "Тажибов Тажиб Гаджимагомедович": 0,
-      "Ширяев Анатолий Александрович": 6,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000225930": 66,
+      "gas:candidate-vibid:1001000121838": 18,
+      "gas:candidate-vibid:334300170549": 5,
+      "gas:candidate-vibid:334300170379": 1,
+      "gas:candidate-vibid:1001000202299": 0,
+      "gas:candidate-vibid:334300170641": 6,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171319&region=0&sub_region=0&type=429",
@@ -11914,13 +11914,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 189,
-      "Куликов Александр Дмитриевич": 239,
-      "Попов Владислав Анатольевич": 15,
-      "Тавалдыев Александр Максотович": 38,
-      "Тажибов Тажиб Гаджимагомедович": 3,
-      "Ширяев Анатолий Александрович": 16,
-      "Против всех": 62
+      "gas:candidate-vibid:1001000225930": 189,
+      "gas:candidate-vibid:1001000121838": 239,
+      "gas:candidate-vibid:334300170549": 15,
+      "gas:candidate-vibid:334300170379": 38,
+      "gas:candidate-vibid:1001000202299": 3,
+      "gas:candidate-vibid:334300170641": 16,
+      "special:against-all": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171319&region=0&sub_region=0&type=429",
@@ -11970,13 +11970,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 69,
-      "Куликов Александр Дмитриевич": 95,
-      "Попов Владислав Анатольевич": 5,
-      "Тавалдыев Александр Максотович": 19,
-      "Тажибов Тажиб Гаджимагомедович": 4,
-      "Ширяев Анатолий Александрович": 1,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000225930": 69,
+      "gas:candidate-vibid:1001000121838": 95,
+      "gas:candidate-vibid:334300170549": 5,
+      "gas:candidate-vibid:334300170379": 19,
+      "gas:candidate-vibid:1001000202299": 4,
+      "gas:candidate-vibid:334300170641": 1,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171319&region=0&sub_region=0&type=429",
@@ -12026,13 +12026,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 201,
-      "Куликов Александр Дмитриевич": 134,
-      "Попов Владислав Анатольевич": 10,
-      "Тавалдыев Александр Максотович": 5,
-      "Тажибов Тажиб Гаджимагомедович": 0,
-      "Ширяев Анатолий Александрович": 11,
-      "Против всех": 35
+      "gas:candidate-vibid:1001000225930": 201,
+      "gas:candidate-vibid:1001000121838": 134,
+      "gas:candidate-vibid:334300170549": 10,
+      "gas:candidate-vibid:334300170379": 5,
+      "gas:candidate-vibid:1001000202299": 0,
+      "gas:candidate-vibid:334300170641": 11,
+      "special:against-all": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171319&region=0&sub_region=0&type=429",
@@ -12082,13 +12082,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 106,
-      "Куликов Александр Дмитриевич": 128,
-      "Попов Владислав Анатольевич": 12,
-      "Тавалдыев Александр Максотович": 7,
-      "Тажибов Тажиб Гаджимагомедович": 2,
-      "Ширяев Анатолий Александрович": 16,
-      "Против всех": 32
+      "gas:candidate-vibid:1001000225930": 106,
+      "gas:candidate-vibid:1001000121838": 128,
+      "gas:candidate-vibid:334300170549": 12,
+      "gas:candidate-vibid:334300170379": 7,
+      "gas:candidate-vibid:1001000202299": 2,
+      "gas:candidate-vibid:334300170641": 16,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171319&region=0&sub_region=0&type=429",
@@ -12138,13 +12138,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 81,
-      "Куликов Александр Дмитриевич": 48,
-      "Попов Владислав Анатольевич": 21,
-      "Тавалдыев Александр Максотович": 3,
-      "Тажибов Тажиб Гаджимагомедович": 3,
-      "Ширяев Анатолий Александрович": 2,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000225930": 81,
+      "gas:candidate-vibid:1001000121838": 48,
+      "gas:candidate-vibid:334300170549": 21,
+      "gas:candidate-vibid:334300170379": 3,
+      "gas:candidate-vibid:1001000202299": 3,
+      "gas:candidate-vibid:334300170641": 2,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171319&region=0&sub_region=0&type=429",
@@ -12194,13 +12194,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 53,
-      "Куликов Александр Дмитриевич": 30,
-      "Попов Владислав Анатольевич": 4,
-      "Тавалдыев Александр Максотович": 1,
-      "Тажибов Тажиб Гаджимагомедович": 1,
-      "Ширяев Анатолий Александрович": 8,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000225930": 53,
+      "gas:candidate-vibid:1001000121838": 30,
+      "gas:candidate-vibid:334300170549": 4,
+      "gas:candidate-vibid:334300170379": 1,
+      "gas:candidate-vibid:1001000202299": 1,
+      "gas:candidate-vibid:334300170641": 8,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171319&region=0&sub_region=0&type=429",
@@ -12250,13 +12250,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 78,
-      "Куликов Александр Дмитриевич": 79,
-      "Попов Владислав Анатольевич": 10,
-      "Тавалдыев Александр Максотович": 5,
-      "Тажибов Тажиб Гаджимагомедович": 2,
-      "Ширяев Анатолий Александрович": 6,
-      "Против всех": 28
+      "gas:candidate-vibid:1001000225930": 78,
+      "gas:candidate-vibid:1001000121838": 79,
+      "gas:candidate-vibid:334300170549": 10,
+      "gas:candidate-vibid:334300170379": 5,
+      "gas:candidate-vibid:1001000202299": 2,
+      "gas:candidate-vibid:334300170641": 6,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171319&region=0&sub_region=0&type=429",
@@ -12306,13 +12306,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 116,
-      "Куликов Александр Дмитриевич": 153,
-      "Попов Владислав Анатольевич": 9,
-      "Тавалдыев Александр Максотович": 30,
-      "Тажибов Тажиб Гаджимагомедович": 5,
-      "Ширяев Анатолий Александрович": 7,
-      "Против всех": 35
+      "gas:candidate-vibid:1001000225930": 116,
+      "gas:candidate-vibid:1001000121838": 153,
+      "gas:candidate-vibid:334300170549": 9,
+      "gas:candidate-vibid:334300170379": 30,
+      "gas:candidate-vibid:1001000202299": 5,
+      "gas:candidate-vibid:334300170641": 7,
+      "special:against-all": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171319&region=0&sub_region=0&type=429",
@@ -12362,13 +12362,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 22,
-      "Куликов Александр Дмитриевич": 41,
-      "Попов Владислав Анатольевич": 0,
-      "Тавалдыев Александр Максотович": 1,
-      "Тажибов Тажиб Гаджимагомедович": 6,
-      "Ширяев Анатолий Александрович": 3,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000225930": 22,
+      "gas:candidate-vibid:1001000121838": 41,
+      "gas:candidate-vibid:334300170549": 0,
+      "gas:candidate-vibid:334300170379": 1,
+      "gas:candidate-vibid:1001000202299": 6,
+      "gas:candidate-vibid:334300170641": 3,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171319&region=0&sub_region=0&type=429",
@@ -12418,13 +12418,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 74,
-      "Куликов Александр Дмитриевич": 107,
-      "Попов Владислав Анатольевич": 13,
-      "Тавалдыев Александр Максотович": 43,
-      "Тажибов Тажиб Гаджимагомедович": 0,
-      "Ширяев Анатолий Александрович": 0,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000225930": 74,
+      "gas:candidate-vibid:1001000121838": 107,
+      "gas:candidate-vibid:334300170549": 13,
+      "gas:candidate-vibid:334300170379": 43,
+      "gas:candidate-vibid:1001000202299": 0,
+      "gas:candidate-vibid:334300170641": 0,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171319&region=0&sub_region=0&type=429",
@@ -12474,13 +12474,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 33,
-      "Куликов Александр Дмитриевич": 35,
-      "Попов Владислав Анатольевич": 1,
-      "Тавалдыев Александр Максотович": 11,
-      "Тажибов Тажиб Гаджимагомедович": 0,
-      "Ширяев Анатолий Александрович": 1,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000225930": 33,
+      "gas:candidate-vibid:1001000121838": 35,
+      "gas:candidate-vibid:334300170549": 1,
+      "gas:candidate-vibid:334300170379": 11,
+      "gas:candidate-vibid:1001000202299": 0,
+      "gas:candidate-vibid:334300170641": 1,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171319&region=0&sub_region=0&type=429",
@@ -12530,13 +12530,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 120,
-      "Куликов Александр Дмитриевич": 81,
-      "Попов Владислав Анатольевич": 16,
-      "Тавалдыев Александр Максотович": 39,
-      "Тажибов Тажиб Гаджимагомедович": 4,
-      "Ширяев Анатолий Александрович": 5,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000225930": 120,
+      "gas:candidate-vibid:1001000121838": 81,
+      "gas:candidate-vibid:334300170549": 16,
+      "gas:candidate-vibid:334300170379": 39,
+      "gas:candidate-vibid:1001000202299": 4,
+      "gas:candidate-vibid:334300170641": 5,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171319&region=0&sub_region=0&type=429",
@@ -12586,13 +12586,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 122,
-      "Куликов Александр Дмитриевич": 52,
-      "Попов Владислав Анатольевич": 8,
-      "Тавалдыев Александр Максотович": 18,
-      "Тажибов Тажиб Гаджимагомедович": 3,
-      "Ширяев Анатолий Александрович": 2,
-      "Против всех": 29
+      "gas:candidate-vibid:1001000225930": 122,
+      "gas:candidate-vibid:1001000121838": 52,
+      "gas:candidate-vibid:334300170549": 8,
+      "gas:candidate-vibid:334300170379": 18,
+      "gas:candidate-vibid:1001000202299": 3,
+      "gas:candidate-vibid:334300170641": 2,
+      "special:against-all": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171319&region=0&sub_region=0&type=429",
@@ -12642,13 +12642,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 436,
-      "Куликов Александр Дмитриевич": 449,
-      "Попов Владислав Анатольевич": 52,
-      "Тавалдыев Александр Максотович": 33,
-      "Тажибов Тажиб Гаджимагомедович": 3,
-      "Ширяев Анатолий Александрович": 38,
-      "Против всех": 121
+      "gas:candidate-vibid:1001000225930": 436,
+      "gas:candidate-vibid:1001000121838": 449,
+      "gas:candidate-vibid:334300170549": 52,
+      "gas:candidate-vibid:334300170379": 33,
+      "gas:candidate-vibid:1001000202299": 3,
+      "gas:candidate-vibid:334300170641": 38,
+      "special:against-all": 121
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171320&region=0&sub_region=0&type=429",
@@ -12698,13 +12698,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 475,
-      "Куликов Александр Дмитриевич": 457,
-      "Попов Владислав Анатольевич": 52,
-      "Тавалдыев Александр Максотович": 42,
-      "Тажибов Тажиб Гаджимагомедович": 5,
-      "Ширяев Анатолий Александрович": 28,
-      "Против всех": 125
+      "gas:candidate-vibid:1001000225930": 475,
+      "gas:candidate-vibid:1001000121838": 457,
+      "gas:candidate-vibid:334300170549": 52,
+      "gas:candidate-vibid:334300170379": 42,
+      "gas:candidate-vibid:1001000202299": 5,
+      "gas:candidate-vibid:334300170641": 28,
+      "special:against-all": 125
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171320&region=0&sub_region=0&type=429",
@@ -12754,13 +12754,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 461,
-      "Куликов Александр Дмитриевич": 478,
-      "Попов Владислав Анатольевич": 31,
-      "Тавалдыев Александр Максотович": 46,
-      "Тажибов Тажиб Гаджимагомедович": 5,
-      "Ширяев Анатолий Александрович": 30,
-      "Против всех": 127
+      "gas:candidate-vibid:1001000225930": 461,
+      "gas:candidate-vibid:1001000121838": 478,
+      "gas:candidate-vibid:334300170549": 31,
+      "gas:candidate-vibid:334300170379": 46,
+      "gas:candidate-vibid:1001000202299": 5,
+      "gas:candidate-vibid:334300170641": 30,
+      "special:against-all": 127
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171320&region=0&sub_region=0&type=429",
@@ -12810,13 +12810,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 555,
-      "Куликов Александр Дмитриевич": 459,
-      "Попов Владислав Анатольевич": 51,
-      "Тавалдыев Александр Максотович": 49,
-      "Тажибов Тажиб Гаджимагомедович": 5,
-      "Ширяев Анатолий Александрович": 45,
-      "Против всех": 191
+      "gas:candidate-vibid:1001000225930": 555,
+      "gas:candidate-vibid:1001000121838": 459,
+      "gas:candidate-vibid:334300170549": 51,
+      "gas:candidate-vibid:334300170379": 49,
+      "gas:candidate-vibid:1001000202299": 5,
+      "gas:candidate-vibid:334300170641": 45,
+      "special:against-all": 191
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171320&region=0&sub_region=0&type=429",
@@ -12866,13 +12866,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 524,
-      "Куликов Александр Дмитриевич": 418,
-      "Попов Владислав Анатольевич": 47,
-      "Тавалдыев Александр Максотович": 44,
-      "Тажибов Тажиб Гаджимагомедович": 3,
-      "Ширяев Анатолий Александрович": 39,
-      "Против всех": 149
+      "gas:candidate-vibid:1001000225930": 524,
+      "gas:candidate-vibid:1001000121838": 418,
+      "gas:candidate-vibid:334300170549": 47,
+      "gas:candidate-vibid:334300170379": 44,
+      "gas:candidate-vibid:1001000202299": 3,
+      "gas:candidate-vibid:334300170641": 39,
+      "special:against-all": 149
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171320&region=0&sub_region=0&type=429",
@@ -12922,13 +12922,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 69,
-      "Куликов Александр Дмитриевич": 44,
-      "Попов Владислав Анатольевич": 3,
-      "Тавалдыев Александр Максотович": 15,
-      "Тажибов Тажиб Гаджимагомедович": 1,
-      "Ширяев Анатолий Александрович": 1,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000225930": 69,
+      "gas:candidate-vibid:1001000121838": 44,
+      "gas:candidate-vibid:334300170549": 3,
+      "gas:candidate-vibid:334300170379": 15,
+      "gas:candidate-vibid:1001000202299": 1,
+      "gas:candidate-vibid:334300170641": 1,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171320&region=0&sub_region=0&type=429",
@@ -12978,13 +12978,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 126,
-      "Куликов Александр Дмитриевич": 214,
-      "Попов Владислав Анатольевич": 15,
-      "Тавалдыев Александр Максотович": 38,
-      "Тажибов Тажиб Гаджимагомедович": 5,
-      "Ширяев Анатолий Александрович": 7,
-      "Против всех": 31
+      "gas:candidate-vibid:1001000225930": 126,
+      "gas:candidate-vibid:1001000121838": 214,
+      "gas:candidate-vibid:334300170549": 15,
+      "gas:candidate-vibid:334300170379": 38,
+      "gas:candidate-vibid:1001000202299": 5,
+      "gas:candidate-vibid:334300170641": 7,
+      "special:against-all": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171320&region=0&sub_region=0&type=429",
@@ -13034,13 +13034,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 262,
-      "Куликов Александр Дмитриевич": 297,
-      "Попов Владислав Анатольевич": 17,
-      "Тавалдыев Александр Максотович": 23,
-      "Тажибов Тажиб Гаджимагомедович": 9,
-      "Ширяев Анатолий Александрович": 8,
-      "Против всех": 60
+      "gas:candidate-vibid:1001000225930": 262,
+      "gas:candidate-vibid:1001000121838": 297,
+      "gas:candidate-vibid:334300170549": 17,
+      "gas:candidate-vibid:334300170379": 23,
+      "gas:candidate-vibid:1001000202299": 9,
+      "gas:candidate-vibid:334300170641": 8,
+      "special:against-all": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171320&region=0&sub_region=0&type=429",
@@ -13090,13 +13090,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 135,
-      "Куликов Александр Дмитриевич": 250,
-      "Попов Владислав Анатольевич": 23,
-      "Тавалдыев Александр Максотович": 53,
-      "Тажибов Тажиб Гаджимагомедович": 7,
-      "Ширяев Анатолий Александрович": 13,
-      "Против всех": 55
+      "gas:candidate-vibid:1001000225930": 135,
+      "gas:candidate-vibid:1001000121838": 250,
+      "gas:candidate-vibid:334300170549": 23,
+      "gas:candidate-vibid:334300170379": 53,
+      "gas:candidate-vibid:1001000202299": 7,
+      "gas:candidate-vibid:334300170641": 13,
+      "special:against-all": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171320&region=0&sub_region=0&type=429",
@@ -13146,13 +13146,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 5,
-      "Куликов Александр Дмитриевич": 33,
-      "Попов Владислав Анатольевич": 0,
-      "Тавалдыев Александр Максотович": 24,
-      "Тажибов Тажиб Гаджимагомедович": 1,
-      "Ширяев Анатолий Александрович": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000225930": 5,
+      "gas:candidate-vibid:1001000121838": 33,
+      "gas:candidate-vibid:334300170549": 0,
+      "gas:candidate-vibid:334300170379": 24,
+      "gas:candidate-vibid:1001000202299": 1,
+      "gas:candidate-vibid:334300170641": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171320&region=0&sub_region=0&type=429",
@@ -13202,13 +13202,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 125,
-      "Куликов Александр Дмитриевич": 161,
-      "Попов Владислав Анатольевич": 7,
-      "Тавалдыев Александр Максотович": 24,
-      "Тажибов Тажиб Гаджимагомедович": 0,
-      "Ширяев Анатолий Александрович": 11,
-      "Против всех": 48
+      "gas:candidate-vibid:1001000225930": 125,
+      "gas:candidate-vibid:1001000121838": 161,
+      "gas:candidate-vibid:334300170549": 7,
+      "gas:candidate-vibid:334300170379": 24,
+      "gas:candidate-vibid:1001000202299": 0,
+      "gas:candidate-vibid:334300170641": 11,
+      "special:against-all": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171320&region=0&sub_region=0&type=429",
@@ -13258,13 +13258,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 44,
-      "Куликов Александр Дмитриевич": 50,
-      "Попов Владислав Анатольевич": 7,
-      "Тавалдыев Александр Максотович": 7,
-      "Тажибов Тажиб Гаджимагомедович": 0,
-      "Ширяев Анатолий Александрович": 2,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000225930": 44,
+      "gas:candidate-vibid:1001000121838": 50,
+      "gas:candidate-vibid:334300170549": 7,
+      "gas:candidate-vibid:334300170379": 7,
+      "gas:candidate-vibid:1001000202299": 0,
+      "gas:candidate-vibid:334300170641": 2,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171320&region=0&sub_region=0&type=429",
@@ -13314,13 +13314,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 182,
-      "Куликов Александр Дмитриевич": 280,
-      "Попов Владислав Анатольевич": 35,
-      "Тавалдыев Александр Максотович": 23,
-      "Тажибов Тажиб Гаджимагомедович": 6,
-      "Ширяев Анатолий Александрович": 13,
-      "Против всех": 85
+      "gas:candidate-vibid:1001000225930": 182,
+      "gas:candidate-vibid:1001000121838": 280,
+      "gas:candidate-vibid:334300170549": 35,
+      "gas:candidate-vibid:334300170379": 23,
+      "gas:candidate-vibid:1001000202299": 6,
+      "gas:candidate-vibid:334300170641": 13,
+      "special:against-all": 85
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171320&region=0&sub_region=0&type=429",
@@ -13370,13 +13370,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 110,
-      "Куликов Александр Дмитриевич": 122,
-      "Попов Владислав Анатольевич": 17,
-      "Тавалдыев Александр Максотович": 14,
-      "Тажибов Тажиб Гаджимагомедович": 4,
-      "Ширяев Анатолий Александрович": 7,
-      "Против всех": 48
+      "gas:candidate-vibid:1001000225930": 110,
+      "gas:candidate-vibid:1001000121838": 122,
+      "gas:candidate-vibid:334300170549": 17,
+      "gas:candidate-vibid:334300170379": 14,
+      "gas:candidate-vibid:1001000202299": 4,
+      "gas:candidate-vibid:334300170641": 7,
+      "special:against-all": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171320&region=0&sub_region=0&type=429",
@@ -13426,13 +13426,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 92,
-      "Куликов Александр Дмитриевич": 74,
-      "Попов Владислав Анатольевич": 8,
-      "Тавалдыев Александр Максотович": 27,
-      "Тажибов Тажиб Гаджимагомедович": 5,
-      "Ширяев Анатолий Александрович": 5,
-      "Против всех": 28
+      "gas:candidate-vibid:1001000225930": 92,
+      "gas:candidate-vibid:1001000121838": 74,
+      "gas:candidate-vibid:334300170549": 8,
+      "gas:candidate-vibid:334300170379": 27,
+      "gas:candidate-vibid:1001000202299": 5,
+      "gas:candidate-vibid:334300170641": 5,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171320&region=0&sub_region=0&type=429",
@@ -13482,13 +13482,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 163,
-      "Куликов Александр Дмитриевич": 202,
-      "Попов Владислав Анатольевич": 32,
-      "Тавалдыев Александр Максотович": 27,
-      "Тажибов Тажиб Гаджимагомедович": 3,
-      "Ширяев Анатолий Александрович": 9,
-      "Против всех": 59
+      "gas:candidate-vibid:1001000225930": 163,
+      "gas:candidate-vibid:1001000121838": 202,
+      "gas:candidate-vibid:334300170549": 32,
+      "gas:candidate-vibid:334300170379": 27,
+      "gas:candidate-vibid:1001000202299": 3,
+      "gas:candidate-vibid:334300170641": 9,
+      "special:against-all": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171320&region=0&sub_region=0&type=429",
@@ -13538,13 +13538,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 247,
-      "Куликов Александр Дмитриевич": 174,
-      "Попов Владислав Анатольевич": 17,
-      "Тавалдыев Александр Максотович": 29,
-      "Тажибов Тажиб Гаджимагомедович": 3,
-      "Ширяев Анатолий Александрович": 3,
-      "Против всех": 52
+      "gas:candidate-vibid:1001000225930": 247,
+      "gas:candidate-vibid:1001000121838": 174,
+      "gas:candidate-vibid:334300170549": 17,
+      "gas:candidate-vibid:334300170379": 29,
+      "gas:candidate-vibid:1001000202299": 3,
+      "gas:candidate-vibid:334300170641": 3,
+      "special:against-all": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171320&region=0&sub_region=0&type=429",
@@ -13594,13 +13594,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 30,
-      "Куликов Александр Дмитриевич": 36,
-      "Попов Владислав Анатольевич": 4,
-      "Тавалдыев Александр Максотович": 18,
-      "Тажибов Тажиб Гаджимагомедович": 1,
-      "Ширяев Анатолий Александрович": 2,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000225930": 30,
+      "gas:candidate-vibid:1001000121838": 36,
+      "gas:candidate-vibid:334300170549": 4,
+      "gas:candidate-vibid:334300170379": 18,
+      "gas:candidate-vibid:1001000202299": 1,
+      "gas:candidate-vibid:334300170641": 2,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171320&region=0&sub_region=0&type=429",
@@ -13650,13 +13650,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 297,
-      "Куликов Александр Дмитриевич": 225,
-      "Попов Владислав Анатольевич": 15,
-      "Тавалдыев Александр Максотович": 9,
-      "Тажибов Тажиб Гаджимагомедович": 0,
-      "Ширяев Анатолий Александрович": 12,
-      "Против всех": 54
+      "gas:candidate-vibid:1001000225930": 297,
+      "gas:candidate-vibid:1001000121838": 225,
+      "gas:candidate-vibid:334300170549": 15,
+      "gas:candidate-vibid:334300170379": 9,
+      "gas:candidate-vibid:1001000202299": 0,
+      "gas:candidate-vibid:334300170641": 12,
+      "special:against-all": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171320&region=0&sub_region=0&type=429",
@@ -13706,13 +13706,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 144,
-      "Куликов Александр Дмитриевич": 153,
-      "Попов Владислав Анатольевич": 39,
-      "Тавалдыев Александр Максотович": 24,
-      "Тажибов Тажиб Гаджимагомедович": 2,
-      "Ширяев Анатолий Александрович": 14,
-      "Против всех": 81
+      "gas:candidate-vibid:1001000225930": 144,
+      "gas:candidate-vibid:1001000121838": 153,
+      "gas:candidate-vibid:334300170549": 39,
+      "gas:candidate-vibid:334300170379": 24,
+      "gas:candidate-vibid:1001000202299": 2,
+      "gas:candidate-vibid:334300170641": 14,
+      "special:against-all": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171320&region=0&sub_region=0&type=429",
@@ -13762,13 +13762,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 68,
-      "Куликов Александр Дмитриевич": 28,
-      "Попов Владислав Анатольевич": 8,
-      "Тавалдыев Александр Максотович": 11,
-      "Тажибов Тажиб Гаджимагомедович": 2,
-      "Ширяев Анатолий Александрович": 3,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000225930": 68,
+      "gas:candidate-vibid:1001000121838": 28,
+      "gas:candidate-vibid:334300170549": 8,
+      "gas:candidate-vibid:334300170379": 11,
+      "gas:candidate-vibid:1001000202299": 2,
+      "gas:candidate-vibid:334300170641": 3,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171320&region=0&sub_region=0&type=429",
@@ -13818,13 +13818,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 156,
-      "Куликов Александр Дмитриевич": 157,
-      "Попов Владислав Анатольевич": 24,
-      "Тавалдыев Александр Максотович": 33,
-      "Тажибов Тажиб Гаджимагомедович": 10,
-      "Ширяев Анатолий Александрович": 8,
-      "Против всех": 49
+      "gas:candidate-vibid:1001000225930": 156,
+      "gas:candidate-vibid:1001000121838": 157,
+      "gas:candidate-vibid:334300170549": 24,
+      "gas:candidate-vibid:334300170379": 33,
+      "gas:candidate-vibid:1001000202299": 10,
+      "gas:candidate-vibid:334300170641": 8,
+      "special:against-all": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171320&region=0&sub_region=0&type=429",
@@ -13874,13 +13874,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 235,
-      "Куликов Александр Дмитриевич": 219,
-      "Попов Владислав Анатольевич": 22,
-      "Тавалдыев Александр Максотович": 70,
-      "Тажибов Тажиб Гаджимагомедович": 1,
-      "Ширяев Анатолий Александрович": 17,
-      "Против всех": 65
+      "gas:candidate-vibid:1001000225930": 235,
+      "gas:candidate-vibid:1001000121838": 219,
+      "gas:candidate-vibid:334300170549": 22,
+      "gas:candidate-vibid:334300170379": 70,
+      "gas:candidate-vibid:1001000202299": 1,
+      "gas:candidate-vibid:334300170641": 17,
+      "special:against-all": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171321&region=0&sub_region=0&type=429",
@@ -13930,13 +13930,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 257,
-      "Куликов Александр Дмитриевич": 289,
-      "Попов Владислав Анатольевич": 15,
-      "Тавалдыев Александр Максотович": 27,
-      "Тажибов Тажиб Гаджимагомедович": 5,
-      "Ширяев Анатолий Александрович": 16,
-      "Против всех": 92
+      "gas:candidate-vibid:1001000225930": 257,
+      "gas:candidate-vibid:1001000121838": 289,
+      "gas:candidate-vibid:334300170549": 15,
+      "gas:candidate-vibid:334300170379": 27,
+      "gas:candidate-vibid:1001000202299": 5,
+      "gas:candidate-vibid:334300170641": 16,
+      "special:against-all": 92
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171321&region=0&sub_region=0&type=429",
@@ -13986,13 +13986,13 @@ export const duma_2003_uik_428_region_34_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Агеев Александр Александрович": 213,
-      "Куликов Александр Дмитриевич": 228,
-      "Попов Владислав Анатольевич": 16,
-      "Тавалдыев Александр Максотович": 30,
-      "Тажибов Тажиб Гаджимагомедович": 6,
-      "Ширяев Анатолий Александрович": 18,
-      "Против всех": 61
+      "gas:candidate-vibid:1001000225930": 213,
+      "gas:candidate-vibid:1001000121838": 228,
+      "gas:candidate-vibid:334300170549": 16,
+      "gas:candidate-vibid:334300170379": 30,
+      "gas:candidate-vibid:1001000202299": 6,
+      "gas:candidate-vibid:334300170641": 18,
+      "special:against-all": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=343001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=334300171321&region=0&sub_region=0&type=429",

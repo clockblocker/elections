@@ -42,14 +42,14 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 19,
-      "Говядовский Виктор Петрович": 6,
-      "Краузе Александр Анатольевич": 47,
-      "Селезнев Геннадий Николаевич": 461,
-      "Сидорин Сергей Валерьевич": 12,
-      "Табакова Елена Викторовна": 41,
-      "Хакамада Ирина Муцуовна": 190,
-      "Против всех": 77
+      "gas:candidate-vibid:1001000136163": 19,
+      "gas:candidate-vibid:378300470578": 6,
+      "gas:candidate-vibid:1001000121947": 47,
+      "gas:candidate-vibid:1001000190465": 461,
+      "gas:candidate-vibid:378300470566": 12,
+      "gas:candidate-vibid:378300470572": 41,
+      "gas:candidate-vibid:1001000114003": 190,
+      "special:against-all": 77
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470432&region=0&sub_region=0&type=429",
@@ -99,14 +99,14 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 22,
-      "Говядовский Виктор Петрович": 16,
-      "Краузе Александр Анатольевич": 84,
-      "Селезнев Геннадий Николаевич": 441,
-      "Сидорин Сергей Валерьевич": 9,
-      "Табакова Елена Викторовна": 82,
-      "Хакамада Ирина Муцуовна": 353,
-      "Против всех": 121
+      "gas:candidate-vibid:1001000136163": 22,
+      "gas:candidate-vibid:378300470578": 16,
+      "gas:candidate-vibid:1001000121947": 84,
+      "gas:candidate-vibid:1001000190465": 441,
+      "gas:candidate-vibid:378300470566": 9,
+      "gas:candidate-vibid:378300470572": 82,
+      "gas:candidate-vibid:1001000114003": 353,
+      "special:against-all": 121
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470432&region=0&sub_region=0&type=429",
@@ -156,14 +156,14 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 21,
-      "Говядовский Виктор Петрович": 20,
-      "Краузе Александр Анатольевич": 53,
-      "Селезнев Геннадий Николаевич": 376,
-      "Сидорин Сергей Валерьевич": 17,
-      "Табакова Елена Викторовна": 87,
-      "Хакамада Ирина Муцуовна": 235,
-      "Против всех": 109
+      "gas:candidate-vibid:1001000136163": 21,
+      "gas:candidate-vibid:378300470578": 20,
+      "gas:candidate-vibid:1001000121947": 53,
+      "gas:candidate-vibid:1001000190465": 376,
+      "gas:candidate-vibid:378300470566": 17,
+      "gas:candidate-vibid:378300470572": 87,
+      "gas:candidate-vibid:1001000114003": 235,
+      "special:against-all": 109
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470432&region=0&sub_region=0&type=429",
@@ -213,14 +213,14 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 39,
-      "Говядовский Виктор Петрович": 19,
-      "Краузе Александр Анатольевич": 67,
-      "Селезнев Геннадий Николаевич": 541,
-      "Сидорин Сергей Валерьевич": 21,
-      "Табакова Елена Викторовна": 61,
-      "Хакамада Ирина Муцуовна": 318,
-      "Против всех": 158
+      "gas:candidate-vibid:1001000136163": 39,
+      "gas:candidate-vibid:378300470578": 19,
+      "gas:candidate-vibid:1001000121947": 67,
+      "gas:candidate-vibid:1001000190465": 541,
+      "gas:candidate-vibid:378300470566": 21,
+      "gas:candidate-vibid:378300470572": 61,
+      "gas:candidate-vibid:1001000114003": 318,
+      "special:against-all": 158
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470432&region=0&sub_region=0&type=429",
@@ -270,14 +270,14 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 23,
-      "Говядовский Виктор Петрович": 12,
-      "Краузе Александр Анатольевич": 68,
-      "Селезнев Геннадий Николаевич": 597,
-      "Сидорин Сергей Валерьевич": 17,
-      "Табакова Елена Викторовна": 68,
-      "Хакамада Ирина Муцуовна": 295,
-      "Против всех": 128
+      "gas:candidate-vibid:1001000136163": 23,
+      "gas:candidate-vibid:378300470578": 12,
+      "gas:candidate-vibid:1001000121947": 68,
+      "gas:candidate-vibid:1001000190465": 597,
+      "gas:candidate-vibid:378300470566": 17,
+      "gas:candidate-vibid:378300470572": 68,
+      "gas:candidate-vibid:1001000114003": 295,
+      "special:against-all": 128
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470432&region=0&sub_region=0&type=429",
@@ -327,14 +327,14 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 26,
-      "Говядовский Виктор Петрович": 14,
-      "Краузе Александр Анатольевич": 60,
-      "Селезнев Геннадий Николаевич": 585,
-      "Сидорин Сергей Валерьевич": 14,
-      "Табакова Елена Викторовна": 68,
-      "Хакамада Ирина Муцуовна": 317,
-      "Против всех": 101
+      "gas:candidate-vibid:1001000136163": 26,
+      "gas:candidate-vibid:378300470578": 14,
+      "gas:candidate-vibid:1001000121947": 60,
+      "gas:candidate-vibid:1001000190465": 585,
+      "gas:candidate-vibid:378300470566": 14,
+      "gas:candidate-vibid:378300470572": 68,
+      "gas:candidate-vibid:1001000114003": 317,
+      "special:against-all": 101
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470432&region=0&sub_region=0&type=429",
@@ -384,14 +384,14 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 23,
-      "Говядовский Виктор Петрович": 17,
-      "Краузе Александр Анатольевич": 81,
-      "Селезнев Геннадий Николаевич": 610,
-      "Сидорин Сергей Валерьевич": 11,
-      "Табакова Елена Викторовна": 68,
-      "Хакамада Ирина Муцуовна": 348,
-      "Против всех": 122
+      "gas:candidate-vibid:1001000136163": 23,
+      "gas:candidate-vibid:378300470578": 17,
+      "gas:candidate-vibid:1001000121947": 81,
+      "gas:candidate-vibid:1001000190465": 610,
+      "gas:candidate-vibid:378300470566": 11,
+      "gas:candidate-vibid:378300470572": 68,
+      "gas:candidate-vibid:1001000114003": 348,
+      "special:against-all": 122
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470432&region=0&sub_region=0&type=429",
@@ -441,14 +441,14 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 27,
-      "Говядовский Виктор Петрович": 12,
-      "Краузе Александр Анатольевич": 69,
-      "Селезнев Геннадий Николаевич": 455,
-      "Сидорин Сергей Валерьевич": 15,
-      "Табакова Елена Викторовна": 69,
-      "Хакамада Ирина Муцуовна": 302,
-      "Против всех": 90
+      "gas:candidate-vibid:1001000136163": 27,
+      "gas:candidate-vibid:378300470578": 12,
+      "gas:candidate-vibid:1001000121947": 69,
+      "gas:candidate-vibid:1001000190465": 455,
+      "gas:candidate-vibid:378300470566": 15,
+      "gas:candidate-vibid:378300470572": 69,
+      "gas:candidate-vibid:1001000114003": 302,
+      "special:against-all": 90
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470432&region=0&sub_region=0&type=429",
@@ -498,14 +498,14 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 1,
-      "Говядовский Виктор Петрович": 0,
-      "Краузе Александр Анатольевич": 1,
-      "Селезнев Геннадий Николаевич": 2,
-      "Сидорин Сергей Валерьевич": 0,
-      "Табакова Елена Викторовна": 0,
-      "Хакамада Ирина Муцуовна": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000136163": 1,
+      "gas:candidate-vibid:378300470578": 0,
+      "gas:candidate-vibid:1001000121947": 1,
+      "gas:candidate-vibid:1001000190465": 2,
+      "gas:candidate-vibid:378300470566": 0,
+      "gas:candidate-vibid:378300470572": 0,
+      "gas:candidate-vibid:1001000114003": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470432&region=0&sub_region=0&type=429",
@@ -555,14 +555,14 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 0,
-      "Говядовский Виктор Петрович": 0,
-      "Краузе Александр Анатольевич": 0,
-      "Селезнев Геннадий Николаевич": 1,
-      "Сидорин Сергей Валерьевич": 2,
-      "Табакова Елена Викторовна": 0,
-      "Хакамада Ирина Муцуовна": 1,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000136163": 0,
+      "gas:candidate-vibid:378300470578": 0,
+      "gas:candidate-vibid:1001000121947": 0,
+      "gas:candidate-vibid:1001000190465": 1,
+      "gas:candidate-vibid:378300470566": 2,
+      "gas:candidate-vibid:378300470572": 0,
+      "gas:candidate-vibid:1001000114003": 1,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470432&region=0&sub_region=0&type=429",
@@ -612,14 +612,14 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 22,
-      "Говядовский Виктор Петрович": 22,
-      "Краузе Александр Анатольевич": 67,
-      "Селезнев Геннадий Николаевич": 547,
-      "Сидорин Сергей Валерьевич": 26,
-      "Табакова Елена Викторовна": 69,
-      "Хакамада Ирина Муцуовна": 319,
-      "Против всех": 179
+      "gas:candidate-vibid:1001000136163": 22,
+      "gas:candidate-vibid:378300470578": 22,
+      "gas:candidate-vibid:1001000121947": 67,
+      "gas:candidate-vibid:1001000190465": 547,
+      "gas:candidate-vibid:378300470566": 26,
+      "gas:candidate-vibid:378300470572": 69,
+      "gas:candidate-vibid:1001000114003": 319,
+      "special:against-all": 179
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470432&region=0&sub_region=0&type=429",
@@ -669,14 +669,14 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 37,
-      "Говядовский Виктор Петрович": 11,
-      "Краузе Александр Анатольевич": 74,
-      "Селезнев Геннадий Николаевич": 497,
-      "Сидорин Сергей Валерьевич": 39,
-      "Табакова Елена Викторовна": 97,
-      "Хакамада Ирина Муцуовна": 276,
-      "Против всех": 142
+      "gas:candidate-vibid:1001000136163": 37,
+      "gas:candidate-vibid:378300470578": 11,
+      "gas:candidate-vibid:1001000121947": 74,
+      "gas:candidate-vibid:1001000190465": 497,
+      "gas:candidate-vibid:378300470566": 39,
+      "gas:candidate-vibid:378300470572": 97,
+      "gas:candidate-vibid:1001000114003": 276,
+      "special:against-all": 142
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470432&region=0&sub_region=0&type=429",
@@ -726,14 +726,14 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 46,
-      "Говядовский Виктор Петрович": 26,
-      "Краузе Александр Анатольевич": 64,
-      "Селезнев Геннадий Николаевич": 577,
-      "Сидорин Сергей Валерьевич": 34,
-      "Табакова Елена Викторовна": 76,
-      "Хакамада Ирина Муцуовна": 317,
-      "Против всех": 168
+      "gas:candidate-vibid:1001000136163": 46,
+      "gas:candidate-vibid:378300470578": 26,
+      "gas:candidate-vibid:1001000121947": 64,
+      "gas:candidate-vibid:1001000190465": 577,
+      "gas:candidate-vibid:378300470566": 34,
+      "gas:candidate-vibid:378300470572": 76,
+      "gas:candidate-vibid:1001000114003": 317,
+      "special:against-all": 168
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470432&region=0&sub_region=0&type=429",
@@ -783,14 +783,14 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 32,
-      "Говядовский Виктор Петрович": 22,
-      "Краузе Александр Анатольевич": 66,
-      "Селезнев Геннадий Николаевич": 388,
-      "Сидорин Сергей Валерьевич": 13,
-      "Табакова Елена Викторовна": 69,
-      "Хакамада Ирина Муцуовна": 171,
-      "Против всех": 95
+      "gas:candidate-vibid:1001000136163": 32,
+      "gas:candidate-vibid:378300470578": 22,
+      "gas:candidate-vibid:1001000121947": 66,
+      "gas:candidate-vibid:1001000190465": 388,
+      "gas:candidate-vibid:378300470566": 13,
+      "gas:candidate-vibid:378300470572": 69,
+      "gas:candidate-vibid:1001000114003": 171,
+      "special:against-all": 95
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470432&region=0&sub_region=0&type=429",
@@ -840,14 +840,14 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 37,
-      "Говядовский Виктор Петрович": 15,
-      "Краузе Александр Анатольевич": 46,
-      "Селезнев Геннадий Николаевич": 486,
-      "Сидорин Сергей Валерьевич": 8,
-      "Табакова Елена Викторовна": 59,
-      "Хакамада Ирина Муцуовна": 192,
-      "Против всех": 131
+      "gas:candidate-vibid:1001000136163": 37,
+      "gas:candidate-vibid:378300470578": 15,
+      "gas:candidate-vibid:1001000121947": 46,
+      "gas:candidate-vibid:1001000190465": 486,
+      "gas:candidate-vibid:378300470566": 8,
+      "gas:candidate-vibid:378300470572": 59,
+      "gas:candidate-vibid:1001000114003": 192,
+      "special:against-all": 131
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470432&region=0&sub_region=0&type=429",
@@ -897,14 +897,14 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 30,
-      "Говядовский Виктор Петрович": 14,
-      "Краузе Александр Анатольевич": 51,
-      "Селезнев Геннадий Николаевич": 346,
-      "Сидорин Сергей Валерьевич": 18,
-      "Табакова Елена Викторовна": 51,
-      "Хакамада Ирина Муцуовна": 304,
-      "Против всех": 97
+      "gas:candidate-vibid:1001000136163": 30,
+      "gas:candidate-vibid:378300470578": 14,
+      "gas:candidate-vibid:1001000121947": 51,
+      "gas:candidate-vibid:1001000190465": 346,
+      "gas:candidate-vibid:378300470566": 18,
+      "gas:candidate-vibid:378300470572": 51,
+      "gas:candidate-vibid:1001000114003": 304,
+      "special:against-all": 97
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470432&region=0&sub_region=0&type=429",
@@ -954,14 +954,14 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 30,
-      "Говядовский Виктор Петрович": 20,
-      "Краузе Александр Анатольевич": 66,
-      "Селезнев Геннадий Николаевич": 400,
-      "Сидорин Сергей Валерьевич": 19,
-      "Табакова Елена Викторовна": 43,
-      "Хакамада Ирина Муцуовна": 199,
-      "Против всех": 105
+      "gas:candidate-vibid:1001000136163": 30,
+      "gas:candidate-vibid:378300470578": 20,
+      "gas:candidate-vibid:1001000121947": 66,
+      "gas:candidate-vibid:1001000190465": 400,
+      "gas:candidate-vibid:378300470566": 19,
+      "gas:candidate-vibid:378300470572": 43,
+      "gas:candidate-vibid:1001000114003": 199,
+      "special:against-all": 105
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470432&region=0&sub_region=0&type=429",
@@ -1011,14 +1011,14 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 33,
-      "Говядовский Виктор Петрович": 16,
-      "Краузе Александр Анатольевич": 75,
-      "Селезнев Геннадий Николаевич": 554,
-      "Сидорин Сергей Валерьевич": 23,
-      "Табакова Елена Викторовна": 53,
-      "Хакамада Ирина Муцуовна": 206,
-      "Против всех": 148
+      "gas:candidate-vibid:1001000136163": 33,
+      "gas:candidate-vibid:378300470578": 16,
+      "gas:candidate-vibid:1001000121947": 75,
+      "gas:candidate-vibid:1001000190465": 554,
+      "gas:candidate-vibid:378300470566": 23,
+      "gas:candidate-vibid:378300470572": 53,
+      "gas:candidate-vibid:1001000114003": 206,
+      "special:against-all": 148
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470432&region=0&sub_region=0&type=429",
@@ -1068,14 +1068,14 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 40,
-      "Говядовский Виктор Петрович": 21,
-      "Краузе Александр Анатольевич": 35,
-      "Селезнев Геннадий Николаевич": 422,
-      "Сидорин Сергей Валерьевич": 11,
-      "Табакова Елена Викторовна": 63,
-      "Хакамада Ирина Муцуовна": 194,
-      "Против всех": 122
+      "gas:candidate-vibid:1001000136163": 40,
+      "gas:candidate-vibid:378300470578": 21,
+      "gas:candidate-vibid:1001000121947": 35,
+      "gas:candidate-vibid:1001000190465": 422,
+      "gas:candidate-vibid:378300470566": 11,
+      "gas:candidate-vibid:378300470572": 63,
+      "gas:candidate-vibid:1001000114003": 194,
+      "special:against-all": 122
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470432&region=0&sub_region=0&type=429",
@@ -1125,14 +1125,14 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 36,
-      "Говядовский Виктор Петрович": 15,
-      "Краузе Александр Анатольевич": 51,
-      "Селезнев Геннадий Николаевич": 492,
-      "Сидорин Сергей Валерьевич": 18,
-      "Табакова Елена Викторовна": 64,
-      "Хакамада Ирина Муцуовна": 199,
-      "Против всех": 124
+      "gas:candidate-vibid:1001000136163": 36,
+      "gas:candidate-vibid:378300470578": 15,
+      "gas:candidate-vibid:1001000121947": 51,
+      "gas:candidate-vibid:1001000190465": 492,
+      "gas:candidate-vibid:378300470566": 18,
+      "gas:candidate-vibid:378300470572": 64,
+      "gas:candidate-vibid:1001000114003": 199,
+      "special:against-all": 124
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470432&region=0&sub_region=0&type=429",
@@ -1182,14 +1182,14 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 40,
-      "Говядовский Виктор Петрович": 17,
-      "Краузе Александр Анатольевич": 96,
-      "Селезнев Геннадий Николаевич": 553,
-      "Сидорин Сергей Валерьевич": 17,
-      "Табакова Елена Викторовна": 83,
-      "Хакамада Ирина Муцуовна": 224,
-      "Против всех": 118
+      "gas:candidate-vibid:1001000136163": 40,
+      "gas:candidate-vibid:378300470578": 17,
+      "gas:candidate-vibid:1001000121947": 96,
+      "gas:candidate-vibid:1001000190465": 553,
+      "gas:candidate-vibid:378300470566": 17,
+      "gas:candidate-vibid:378300470572": 83,
+      "gas:candidate-vibid:1001000114003": 224,
+      "special:against-all": 118
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470432&region=0&sub_region=0&type=429",
@@ -1239,14 +1239,14 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 48,
-      "Говядовский Виктор Петрович": 15,
-      "Краузе Александр Анатольевич": 68,
-      "Селезнев Геннадий Николаевич": 511,
-      "Сидорин Сергей Валерьевич": 23,
-      "Табакова Елена Викторовна": 98,
-      "Хакамада Ирина Муцуовна": 224,
-      "Против всех": 129
+      "gas:candidate-vibid:1001000136163": 48,
+      "gas:candidate-vibid:378300470578": 15,
+      "gas:candidate-vibid:1001000121947": 68,
+      "gas:candidate-vibid:1001000190465": 511,
+      "gas:candidate-vibid:378300470566": 23,
+      "gas:candidate-vibid:378300470572": 98,
+      "gas:candidate-vibid:1001000114003": 224,
+      "special:against-all": 129
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470432&region=0&sub_region=0&type=429",
@@ -1296,14 +1296,14 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 29,
-      "Говядовский Виктор Петрович": 25,
-      "Краузе Александр Анатольевич": 55,
-      "Селезнев Геннадий Николаевич": 516,
-      "Сидорин Сергей Валерьевич": 13,
-      "Табакова Елена Викторовна": 76,
-      "Хакамада Ирина Муцуовна": 215,
-      "Против всех": 126
+      "gas:candidate-vibid:1001000136163": 29,
+      "gas:candidate-vibid:378300470578": 25,
+      "gas:candidate-vibid:1001000121947": 55,
+      "gas:candidate-vibid:1001000190465": 516,
+      "gas:candidate-vibid:378300470566": 13,
+      "gas:candidate-vibid:378300470572": 76,
+      "gas:candidate-vibid:1001000114003": 215,
+      "special:against-all": 126
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470432&region=0&sub_region=0&type=429",
@@ -1353,14 +1353,14 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 26,
-      "Говядовский Виктор Петрович": 9,
-      "Краузе Александр Анатольевич": 67,
-      "Селезнев Геннадий Николаевич": 422,
-      "Сидорин Сергей Валерьевич": 14,
-      "Табакова Елена Викторовна": 83,
-      "Хакамада Ирина Муцуовна": 171,
-      "Против всех": 97
+      "gas:candidate-vibid:1001000136163": 26,
+      "gas:candidate-vibid:378300470578": 9,
+      "gas:candidate-vibid:1001000121947": 67,
+      "gas:candidate-vibid:1001000190465": 422,
+      "gas:candidate-vibid:378300470566": 14,
+      "gas:candidate-vibid:378300470572": 83,
+      "gas:candidate-vibid:1001000114003": 171,
+      "special:against-all": 97
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470432&region=0&sub_region=0&type=429",
@@ -1410,14 +1410,14 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 38,
-      "Говядовский Виктор Петрович": 11,
-      "Краузе Александр Анатольевич": 59,
-      "Селезнев Геннадий Николаевич": 447,
-      "Сидорин Сергей Валерьевич": 22,
-      "Табакова Елена Викторовна": 69,
-      "Хакамада Ирина Муцуовна": 185,
-      "Против всех": 109
+      "gas:candidate-vibid:1001000136163": 38,
+      "gas:candidate-vibid:378300470578": 11,
+      "gas:candidate-vibid:1001000121947": 59,
+      "gas:candidate-vibid:1001000190465": 447,
+      "gas:candidate-vibid:378300470566": 22,
+      "gas:candidate-vibid:378300470572": 69,
+      "gas:candidate-vibid:1001000114003": 185,
+      "special:against-all": 109
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470432&region=0&sub_region=0&type=429",
@@ -1467,14 +1467,14 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 17,
-      "Говядовский Виктор Петрович": 9,
-      "Краузе Александр Анатольевич": 58,
-      "Селезнев Геннадий Николаевич": 476,
-      "Сидорин Сергей Валерьевич": 21,
-      "Табакова Елена Викторовна": 79,
-      "Хакамада Ирина Муцуовна": 162,
-      "Против всех": 107
+      "gas:candidate-vibid:1001000136163": 17,
+      "gas:candidate-vibid:378300470578": 9,
+      "gas:candidate-vibid:1001000121947": 58,
+      "gas:candidate-vibid:1001000190465": 476,
+      "gas:candidate-vibid:378300470566": 21,
+      "gas:candidate-vibid:378300470572": 79,
+      "gas:candidate-vibid:1001000114003": 162,
+      "special:against-all": 107
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470432&region=0&sub_region=0&type=429",
@@ -1524,14 +1524,14 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 23,
-      "Говядовский Виктор Петрович": 10,
-      "Краузе Александр Анатольевич": 36,
-      "Селезнев Геннадий Николаевич": 288,
-      "Сидорин Сергей Валерьевич": 12,
-      "Табакова Елена Викторовна": 73,
-      "Хакамада Ирина Муцуовна": 131,
-      "Против всех": 87
+      "gas:candidate-vibid:1001000136163": 23,
+      "gas:candidate-vibid:378300470578": 10,
+      "gas:candidate-vibid:1001000121947": 36,
+      "gas:candidate-vibid:1001000190465": 288,
+      "gas:candidate-vibid:378300470566": 12,
+      "gas:candidate-vibid:378300470572": 73,
+      "gas:candidate-vibid:1001000114003": 131,
+      "special:against-all": 87
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470432&region=0&sub_region=0&type=429",
@@ -1581,14 +1581,14 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 27,
-      "Говядовский Виктор Петрович": 19,
-      "Краузе Александр Анатольевич": 64,
-      "Селезнев Геннадий Николаевич": 554,
-      "Сидорин Сергей Валерьевич": 21,
-      "Табакова Елена Викторовна": 67,
-      "Хакамада Ирина Муцуовна": 280,
-      "Против всех": 121
+      "gas:candidate-vibid:1001000136163": 27,
+      "gas:candidate-vibid:378300470578": 19,
+      "gas:candidate-vibid:1001000121947": 64,
+      "gas:candidate-vibid:1001000190465": 554,
+      "gas:candidate-vibid:378300470566": 21,
+      "gas:candidate-vibid:378300470572": 67,
+      "gas:candidate-vibid:1001000114003": 280,
+      "special:against-all": 121
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470432&region=0&sub_region=0&type=429",
@@ -1638,14 +1638,14 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 37,
-      "Говядовский Виктор Петрович": 13,
-      "Краузе Александр Анатольевич": 67,
-      "Селезнев Геннадий Николаевич": 521,
-      "Сидорин Сергей Валерьевич": 16,
-      "Табакова Елена Викторовна": 53,
-      "Хакамада Ирина Муцуовна": 195,
-      "Против всех": 113
+      "gas:candidate-vibid:1001000136163": 37,
+      "gas:candidate-vibid:378300470578": 13,
+      "gas:candidate-vibid:1001000121947": 67,
+      "gas:candidate-vibid:1001000190465": 521,
+      "gas:candidate-vibid:378300470566": 16,
+      "gas:candidate-vibid:378300470572": 53,
+      "gas:candidate-vibid:1001000114003": 195,
+      "special:against-all": 113
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470432&region=0&sub_region=0&type=429",
@@ -1695,14 +1695,14 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 33,
-      "Говядовский Виктор Петрович": 8,
-      "Краузе Александр Анатольевич": 64,
-      "Селезнев Геннадий Николаевич": 527,
-      "Сидорин Сергей Валерьевич": 12,
-      "Табакова Елена Викторовна": 84,
-      "Хакамада Ирина Муцуовна": 215,
-      "Против всех": 104
+      "gas:candidate-vibid:1001000136163": 33,
+      "gas:candidate-vibid:378300470578": 8,
+      "gas:candidate-vibid:1001000121947": 64,
+      "gas:candidate-vibid:1001000190465": 527,
+      "gas:candidate-vibid:378300470566": 12,
+      "gas:candidate-vibid:378300470572": 84,
+      "gas:candidate-vibid:1001000114003": 215,
+      "special:against-all": 104
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470432&region=0&sub_region=0&type=429",
@@ -1752,14 +1752,14 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 36,
-      "Говядовский Виктор Петрович": 8,
-      "Краузе Александр Анатольевич": 52,
-      "Селезнев Геннадий Николаевич": 617,
-      "Сидорин Сергей Валерьевич": 22,
-      "Табакова Елена Викторовна": 61,
-      "Хакамада Ирина Муцуовна": 102,
-      "Против всех": 101
+      "gas:candidate-vibid:1001000136163": 36,
+      "gas:candidate-vibid:378300470578": 8,
+      "gas:candidate-vibid:1001000121947": 52,
+      "gas:candidate-vibid:1001000190465": 617,
+      "gas:candidate-vibid:378300470566": 22,
+      "gas:candidate-vibid:378300470572": 61,
+      "gas:candidate-vibid:1001000114003": 102,
+      "special:against-all": 101
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470432&region=0&sub_region=0&type=429",
@@ -1809,14 +1809,14 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 0,
-      "Говядовский Виктор Петрович": 0,
-      "Краузе Александр Анатольевич": 2,
-      "Селезнев Геннадий Николаевич": 4,
-      "Сидорин Сергей Валерьевич": 0,
-      "Табакова Елена Викторовна": 0,
-      "Хакамада Ирина Муцуовна": 1,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000136163": 0,
+      "gas:candidate-vibid:378300470578": 0,
+      "gas:candidate-vibid:1001000121947": 2,
+      "gas:candidate-vibid:1001000190465": 4,
+      "gas:candidate-vibid:378300470566": 0,
+      "gas:candidate-vibid:378300470572": 0,
+      "gas:candidate-vibid:1001000114003": 1,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470432&region=0&sub_region=0&type=429",
@@ -1866,14 +1866,14 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 1,
-      "Говядовский Виктор Петрович": 0,
-      "Краузе Александр Анатольевич": 2,
-      "Селезнев Геннадий Николаевич": 4,
-      "Сидорин Сергей Валерьевич": 0,
-      "Табакова Елена Викторовна": 1,
-      "Хакамада Ирина Муцуовна": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000136163": 1,
+      "gas:candidate-vibid:378300470578": 0,
+      "gas:candidate-vibid:1001000121947": 2,
+      "gas:candidate-vibid:1001000190465": 4,
+      "gas:candidate-vibid:378300470566": 0,
+      "gas:candidate-vibid:378300470572": 1,
+      "gas:candidate-vibid:1001000114003": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470432&region=0&sub_region=0&type=429",
@@ -1923,14 +1923,14 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 2,
-      "Говядовский Виктор Петрович": 1,
-      "Краузе Александр Анатольевич": 3,
-      "Селезнев Геннадий Николаевич": 22,
-      "Сидорин Сергей Валерьевич": 1,
-      "Табакова Елена Викторовна": 3,
-      "Хакамада Ирина Муцуовна": 11,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000136163": 2,
+      "gas:candidate-vibid:378300470578": 1,
+      "gas:candidate-vibid:1001000121947": 3,
+      "gas:candidate-vibid:1001000190465": 22,
+      "gas:candidate-vibid:378300470566": 1,
+      "gas:candidate-vibid:378300470572": 3,
+      "gas:candidate-vibid:1001000114003": 11,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470432&region=0&sub_region=0&type=429",
@@ -1980,14 +1980,14 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 40,
-      "Говядовский Виктор Петрович": 17,
-      "Краузе Александр Анатольевич": 74,
-      "Селезнев Геннадий Николаевич": 608,
-      "Сидорин Сергей Валерьевич": 30,
-      "Табакова Елена Викторовна": 97,
-      "Хакамада Ирина Муцуовна": 188,
-      "Против всех": 141
+      "gas:candidate-vibid:1001000136163": 40,
+      "gas:candidate-vibid:378300470578": 17,
+      "gas:candidate-vibid:1001000121947": 74,
+      "gas:candidate-vibid:1001000190465": 608,
+      "gas:candidate-vibid:378300470566": 30,
+      "gas:candidate-vibid:378300470572": 97,
+      "gas:candidate-vibid:1001000114003": 188,
+      "special:against-all": 141
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470432&region=0&sub_region=0&type=429",
@@ -2037,14 +2037,14 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 28,
-      "Говядовский Виктор Петрович": 6,
-      "Краузе Александр Анатольевич": 48,
-      "Селезнев Геннадий Николаевич": 506,
-      "Сидорин Сергей Валерьевич": 17,
-      "Табакова Елена Викторовна": 63,
-      "Хакамада Ирина Муцуовна": 152,
-      "Против всех": 91
+      "gas:candidate-vibid:1001000136163": 28,
+      "gas:candidate-vibid:378300470578": 6,
+      "gas:candidate-vibid:1001000121947": 48,
+      "gas:candidate-vibid:1001000190465": 506,
+      "gas:candidate-vibid:378300470566": 17,
+      "gas:candidate-vibid:378300470572": 63,
+      "gas:candidate-vibid:1001000114003": 152,
+      "special:against-all": 91
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470432&region=0&sub_region=0&type=429",
@@ -2094,14 +2094,14 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 41,
-      "Говядовский Виктор Петрович": 20,
-      "Краузе Александр Анатольевич": 53,
-      "Селезнев Геннадий Николаевич": 598,
-      "Сидорин Сергей Валерьевич": 24,
-      "Табакова Елена Викторовна": 99,
-      "Хакамада Ирина Муцуовна": 220,
-      "Против всех": 138
+      "gas:candidate-vibid:1001000136163": 41,
+      "gas:candidate-vibid:378300470578": 20,
+      "gas:candidate-vibid:1001000121947": 53,
+      "gas:candidate-vibid:1001000190465": 598,
+      "gas:candidate-vibid:378300470566": 24,
+      "gas:candidate-vibid:378300470572": 99,
+      "gas:candidate-vibid:1001000114003": 220,
+      "special:against-all": 138
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470432&region=0&sub_region=0&type=429",
@@ -2151,14 +2151,14 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 41,
-      "Говядовский Виктор Петрович": 11,
-      "Краузе Александр Анатольевич": 49,
-      "Селезнев Геннадий Николаевич": 511,
-      "Сидорин Сергей Валерьевич": 21,
-      "Табакова Елена Викторовна": 89,
-      "Хакамада Ирина Муцуовна": 240,
-      "Против всех": 143
+      "gas:candidate-vibid:1001000136163": 41,
+      "gas:candidate-vibid:378300470578": 11,
+      "gas:candidate-vibid:1001000121947": 49,
+      "gas:candidate-vibid:1001000190465": 511,
+      "gas:candidate-vibid:378300470566": 21,
+      "gas:candidate-vibid:378300470572": 89,
+      "gas:candidate-vibid:1001000114003": 240,
+      "special:against-all": 143
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470432&region=0&sub_region=0&type=429",
@@ -2208,14 +2208,14 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 35,
-      "Говядовский Виктор Петрович": 8,
-      "Краузе Александр Анатольевич": 87,
-      "Селезнев Геннадий Николаевич": 562,
-      "Сидорин Сергей Валерьевич": 22,
-      "Табакова Елена Викторовна": 95,
-      "Хакамада Ирина Муцуовна": 180,
-      "Против всех": 122
+      "gas:candidate-vibid:1001000136163": 35,
+      "gas:candidate-vibid:378300470578": 8,
+      "gas:candidate-vibid:1001000121947": 87,
+      "gas:candidate-vibid:1001000190465": 562,
+      "gas:candidate-vibid:378300470566": 22,
+      "gas:candidate-vibid:378300470572": 95,
+      "gas:candidate-vibid:1001000114003": 180,
+      "special:against-all": 122
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470432&region=0&sub_region=0&type=429",
@@ -2265,14 +2265,14 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 28,
-      "Говядовский Виктор Петрович": 13,
-      "Краузе Александр Анатольевич": 48,
-      "Селезнев Геннадий Николаевич": 507,
-      "Сидорин Сергей Валерьевич": 22,
-      "Табакова Елена Викторовна": 83,
-      "Хакамада Ирина Муцуовна": 206,
-      "Против всех": 115
+      "gas:candidate-vibid:1001000136163": 28,
+      "gas:candidate-vibid:378300470578": 13,
+      "gas:candidate-vibid:1001000121947": 48,
+      "gas:candidate-vibid:1001000190465": 507,
+      "gas:candidate-vibid:378300470566": 22,
+      "gas:candidate-vibid:378300470572": 83,
+      "gas:candidate-vibid:1001000114003": 206,
+      "special:against-all": 115
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470432&region=0&sub_region=0&type=429",
@@ -2322,14 +2322,14 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 38,
-      "Говядовский Виктор Петрович": 16,
-      "Краузе Александр Анатольевич": 46,
-      "Селезнев Геннадий Николаевич": 535,
-      "Сидорин Сергей Валерьевич": 21,
-      "Табакова Елена Викторовна": 68,
-      "Хакамада Ирина Муцуовна": 186,
-      "Против всех": 143
+      "gas:candidate-vibid:1001000136163": 38,
+      "gas:candidate-vibid:378300470578": 16,
+      "gas:candidate-vibid:1001000121947": 46,
+      "gas:candidate-vibid:1001000190465": 535,
+      "gas:candidate-vibid:378300470566": 21,
+      "gas:candidate-vibid:378300470572": 68,
+      "gas:candidate-vibid:1001000114003": 186,
+      "special:against-all": 143
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470432&region=0&sub_region=0&type=429",
@@ -2379,14 +2379,14 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 38,
-      "Говядовский Виктор Петрович": 18,
-      "Краузе Александр Анатольевич": 47,
-      "Селезнев Геннадий Николаевич": 492,
-      "Сидорин Сергей Валерьевич": 14,
-      "Табакова Елена Викторовна": 87,
-      "Хакамада Ирина Муцуовна": 221,
-      "Против всех": 120
+      "gas:candidate-vibid:1001000136163": 38,
+      "gas:candidate-vibid:378300470578": 18,
+      "gas:candidate-vibid:1001000121947": 47,
+      "gas:candidate-vibid:1001000190465": 492,
+      "gas:candidate-vibid:378300470566": 14,
+      "gas:candidate-vibid:378300470572": 87,
+      "gas:candidate-vibid:1001000114003": 221,
+      "special:against-all": 120
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470432&region=0&sub_region=0&type=429",
@@ -2436,14 +2436,14 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 35,
-      "Говядовский Виктор Петрович": 25,
-      "Краузе Александр Анатольевич": 66,
-      "Селезнев Геннадий Николаевич": 613,
-      "Сидорин Сергей Валерьевич": 27,
-      "Табакова Елена Викторовна": 78,
-      "Хакамада Ирина Муцуовна": 213,
-      "Против всех": 119
+      "gas:candidate-vibid:1001000136163": 35,
+      "gas:candidate-vibid:378300470578": 25,
+      "gas:candidate-vibid:1001000121947": 66,
+      "gas:candidate-vibid:1001000190465": 613,
+      "gas:candidate-vibid:378300470566": 27,
+      "gas:candidate-vibid:378300470572": 78,
+      "gas:candidate-vibid:1001000114003": 213,
+      "special:against-all": 119
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470432&region=0&sub_region=0&type=429",
@@ -2493,14 +2493,14 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 32,
-      "Говядовский Виктор Петрович": 18,
-      "Краузе Александр Анатольевич": 63,
-      "Селезнев Геннадий Николаевич": 417,
-      "Сидорин Сергей Валерьевич": 38,
-      "Табакова Елена Викторовна": 77,
-      "Хакамада Ирина Муцуовна": 120,
-      "Против всех": 98
+      "gas:candidate-vibid:1001000136163": 32,
+      "gas:candidate-vibid:378300470578": 18,
+      "gas:candidate-vibid:1001000121947": 63,
+      "gas:candidate-vibid:1001000190465": 417,
+      "gas:candidate-vibid:378300470566": 38,
+      "gas:candidate-vibid:378300470572": 77,
+      "gas:candidate-vibid:1001000114003": 120,
+      "special:against-all": 98
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470432&region=0&sub_region=0&type=429",
@@ -2550,14 +2550,14 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 34,
-      "Говядовский Виктор Петрович": 8,
-      "Краузе Александр Анатольевич": 49,
-      "Селезнев Геннадий Николаевич": 405,
-      "Сидорин Сергей Валерьевич": 13,
-      "Табакова Елена Викторовна": 69,
-      "Хакамада Ирина Муцуовна": 90,
-      "Против всех": 76
+      "gas:candidate-vibid:1001000136163": 34,
+      "gas:candidate-vibid:378300470578": 8,
+      "gas:candidate-vibid:1001000121947": 49,
+      "gas:candidate-vibid:1001000190465": 405,
+      "gas:candidate-vibid:378300470566": 13,
+      "gas:candidate-vibid:378300470572": 69,
+      "gas:candidate-vibid:1001000114003": 90,
+      "special:against-all": 76
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470432&region=0&sub_region=0&type=429",
@@ -2607,14 +2607,14 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 43,
-      "Говядовский Виктор Петрович": 9,
-      "Краузе Александр Анатольевич": 50,
-      "Селезнев Геннадий Николаевич": 348,
-      "Сидорин Сергей Валерьевич": 29,
-      "Табакова Елена Викторовна": 71,
-      "Хакамада Ирина Муцуовна": 145,
-      "Против всех": 96
+      "gas:candidate-vibid:1001000136163": 43,
+      "gas:candidate-vibid:378300470578": 9,
+      "gas:candidate-vibid:1001000121947": 50,
+      "gas:candidate-vibid:1001000190465": 348,
+      "gas:candidate-vibid:378300470566": 29,
+      "gas:candidate-vibid:378300470572": 71,
+      "gas:candidate-vibid:1001000114003": 145,
+      "special:against-all": 96
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470432&region=0&sub_region=0&type=429",
@@ -2664,14 +2664,14 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 20,
-      "Говядовский Виктор Петрович": 10,
-      "Краузе Александр Анатольевич": 36,
-      "Селезнев Геннадий Николаевич": 347,
-      "Сидорин Сергей Валерьевич": 13,
-      "Табакова Елена Викторовна": 56,
-      "Хакамада Ирина Муцуовна": 125,
-      "Против всех": 69
+      "gas:candidate-vibid:1001000136163": 20,
+      "gas:candidate-vibid:378300470578": 10,
+      "gas:candidate-vibid:1001000121947": 36,
+      "gas:candidate-vibid:1001000190465": 347,
+      "gas:candidate-vibid:378300470566": 13,
+      "gas:candidate-vibid:378300470572": 56,
+      "gas:candidate-vibid:1001000114003": 125,
+      "special:against-all": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470432&region=0&sub_region=0&type=429",
@@ -2721,14 +2721,14 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 42,
-      "Говядовский Виктор Петрович": 23,
-      "Краузе Александр Анатольевич": 78,
-      "Селезнев Геннадий Николаевич": 600,
-      "Сидорин Сергей Валерьевич": 22,
-      "Табакова Елена Викторовна": 110,
-      "Хакамада Ирина Муцуовна": 253,
-      "Против всех": 116
+      "gas:candidate-vibid:1001000136163": 42,
+      "gas:candidate-vibid:378300470578": 23,
+      "gas:candidate-vibid:1001000121947": 78,
+      "gas:candidate-vibid:1001000190465": 600,
+      "gas:candidate-vibid:378300470566": 22,
+      "gas:candidate-vibid:378300470572": 110,
+      "gas:candidate-vibid:1001000114003": 253,
+      "special:against-all": 116
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470432&region=0&sub_region=0&type=429",
@@ -2778,14 +2778,14 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 37,
-      "Говядовский Виктор Петрович": 23,
-      "Краузе Александр Анатольевич": 87,
-      "Селезнев Геннадий Николаевич": 587,
-      "Сидорин Сергей Валерьевич": 22,
-      "Табакова Елена Викторовна": 104,
-      "Хакамада Ирина Муцуовна": 220,
-      "Против всех": 115
+      "gas:candidate-vibid:1001000136163": 37,
+      "gas:candidate-vibid:378300470578": 23,
+      "gas:candidate-vibid:1001000121947": 87,
+      "gas:candidate-vibid:1001000190465": 587,
+      "gas:candidate-vibid:378300470566": 22,
+      "gas:candidate-vibid:378300470572": 104,
+      "gas:candidate-vibid:1001000114003": 220,
+      "special:against-all": 115
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470432&region=0&sub_region=0&type=429",
@@ -2835,14 +2835,14 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 35,
-      "Говядовский Виктор Петрович": 8,
-      "Краузе Александр Анатольевич": 79,
-      "Селезнев Геннадий Николаевич": 544,
-      "Сидорин Сергей Валерьевич": 19,
-      "Табакова Елена Викторовна": 84,
-      "Хакамада Ирина Муцуовна": 173,
-      "Против всех": 121
+      "gas:candidate-vibid:1001000136163": 35,
+      "gas:candidate-vibid:378300470578": 8,
+      "gas:candidate-vibid:1001000121947": 79,
+      "gas:candidate-vibid:1001000190465": 544,
+      "gas:candidate-vibid:378300470566": 19,
+      "gas:candidate-vibid:378300470572": 84,
+      "gas:candidate-vibid:1001000114003": 173,
+      "special:against-all": 121
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470432&region=0&sub_region=0&type=429",
@@ -2892,14 +2892,14 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 28,
-      "Говядовский Виктор Петрович": 18,
-      "Краузе Александр Анатольевич": 62,
-      "Селезнев Геннадий Николаевич": 578,
-      "Сидорин Сергей Валерьевич": 23,
-      "Табакова Елена Викторовна": 95,
-      "Хакамада Ирина Муцуовна": 179,
-      "Против всех": 128
+      "gas:candidate-vibid:1001000136163": 28,
+      "gas:candidate-vibid:378300470578": 18,
+      "gas:candidate-vibid:1001000121947": 62,
+      "gas:candidate-vibid:1001000190465": 578,
+      "gas:candidate-vibid:378300470566": 23,
+      "gas:candidate-vibid:378300470572": 95,
+      "gas:candidate-vibid:1001000114003": 179,
+      "special:against-all": 128
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470432&region=0&sub_region=0&type=429",
@@ -2949,14 +2949,14 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 34,
-      "Говядовский Виктор Петрович": 24,
-      "Краузе Александр Анатольевич": 67,
-      "Селезнев Геннадий Николаевич": 574,
-      "Сидорин Сергей Валерьевич": 25,
-      "Табакова Елена Викторовна": 91,
-      "Хакамада Ирина Муцуовна": 241,
-      "Против всех": 142
+      "gas:candidate-vibid:1001000136163": 34,
+      "gas:candidate-vibid:378300470578": 24,
+      "gas:candidate-vibid:1001000121947": 67,
+      "gas:candidate-vibid:1001000190465": 574,
+      "gas:candidate-vibid:378300470566": 25,
+      "gas:candidate-vibid:378300470572": 91,
+      "gas:candidate-vibid:1001000114003": 241,
+      "special:against-all": 142
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470432&region=0&sub_region=0&type=429",
@@ -3006,14 +3006,14 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 34,
-      "Говядовский Виктор Петрович": 16,
-      "Краузе Александр Анатольевич": 59,
-      "Селезнев Геннадий Николаевич": 673,
-      "Сидорин Сергей Валерьевич": 15,
-      "Табакова Елена Викторовна": 55,
-      "Хакамада Ирина Муцуовна": 216,
-      "Против всех": 129
+      "gas:candidate-vibid:1001000136163": 34,
+      "gas:candidate-vibid:378300470578": 16,
+      "gas:candidate-vibid:1001000121947": 59,
+      "gas:candidate-vibid:1001000190465": 673,
+      "gas:candidate-vibid:378300470566": 15,
+      "gas:candidate-vibid:378300470572": 55,
+      "gas:candidate-vibid:1001000114003": 216,
+      "special:against-all": 129
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470432&region=0&sub_region=0&type=429",
@@ -3063,14 +3063,14 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 34,
-      "Говядовский Виктор Петрович": 9,
-      "Краузе Александр Анатольевич": 87,
-      "Селезнев Геннадий Николаевич": 629,
-      "Сидорин Сергей Валерьевич": 19,
-      "Табакова Елена Викторовна": 85,
-      "Хакамада Ирина Муцуовна": 220,
-      "Против всех": 106
+      "gas:candidate-vibid:1001000136163": 34,
+      "gas:candidate-vibid:378300470578": 9,
+      "gas:candidate-vibid:1001000121947": 87,
+      "gas:candidate-vibid:1001000190465": 629,
+      "gas:candidate-vibid:378300470566": 19,
+      "gas:candidate-vibid:378300470572": 85,
+      "gas:candidate-vibid:1001000114003": 220,
+      "special:against-all": 106
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470432&region=0&sub_region=0&type=429",
@@ -3120,14 +3120,14 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 36,
-      "Говядовский Виктор Петрович": 16,
-      "Краузе Александр Анатольевич": 58,
-      "Селезнев Геннадий Николаевич": 448,
-      "Сидорин Сергей Валерьевич": 17,
-      "Табакова Елена Викторовна": 91,
-      "Хакамада Ирина Муцуовна": 165,
-      "Против всех": 129
+      "gas:candidate-vibid:1001000136163": 36,
+      "gas:candidate-vibid:378300470578": 16,
+      "gas:candidate-vibid:1001000121947": 58,
+      "gas:candidate-vibid:1001000190465": 448,
+      "gas:candidate-vibid:378300470566": 17,
+      "gas:candidate-vibid:378300470572": 91,
+      "gas:candidate-vibid:1001000114003": 165,
+      "special:against-all": 129
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470432&region=0&sub_region=0&type=429",
@@ -3177,14 +3177,14 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 38,
-      "Говядовский Виктор Петрович": 18,
-      "Краузе Александр Анатольевич": 73,
-      "Селезнев Геннадий Николаевич": 438,
-      "Сидорин Сергей Валерьевич": 16,
-      "Табакова Елена Викторовна": 83,
-      "Хакамада Ирина Муцуовна": 186,
-      "Против всех": 110
+      "gas:candidate-vibid:1001000136163": 38,
+      "gas:candidate-vibid:378300470578": 18,
+      "gas:candidate-vibid:1001000121947": 73,
+      "gas:candidate-vibid:1001000190465": 438,
+      "gas:candidate-vibid:378300470566": 16,
+      "gas:candidate-vibid:378300470572": 83,
+      "gas:candidate-vibid:1001000114003": 186,
+      "special:against-all": 110
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470432&region=0&sub_region=0&type=429",
@@ -3234,14 +3234,14 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 33,
-      "Говядовский Виктор Петрович": 3,
-      "Краузе Александр Анатольевич": 66,
-      "Селезнев Геннадий Николаевич": 437,
-      "Сидорин Сергей Валерьевич": 16,
-      "Табакова Елена Викторовна": 78,
-      "Хакамада Ирина Муцуовна": 153,
-      "Против всех": 74
+      "gas:candidate-vibid:1001000136163": 33,
+      "gas:candidate-vibid:378300470578": 3,
+      "gas:candidate-vibid:1001000121947": 66,
+      "gas:candidate-vibid:1001000190465": 437,
+      "gas:candidate-vibid:378300470566": 16,
+      "gas:candidate-vibid:378300470572": 78,
+      "gas:candidate-vibid:1001000114003": 153,
+      "special:against-all": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470432&region=0&sub_region=0&type=429",
@@ -3291,14 +3291,14 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 49,
-      "Говядовский Виктор Петрович": 14,
-      "Краузе Александр Анатольевич": 77,
-      "Селезнев Геннадий Николаевич": 473,
-      "Сидорин Сергей Валерьевич": 27,
-      "Табакова Елена Викторовна": 77,
-      "Хакамада Ирина Муцуовна": 220,
-      "Против всех": 131
+      "gas:candidate-vibid:1001000136163": 49,
+      "gas:candidate-vibid:378300470578": 14,
+      "gas:candidate-vibid:1001000121947": 77,
+      "gas:candidate-vibid:1001000190465": 473,
+      "gas:candidate-vibid:378300470566": 27,
+      "gas:candidate-vibid:378300470572": 77,
+      "gas:candidate-vibid:1001000114003": 220,
+      "special:against-all": 131
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470432&region=0&sub_region=0&type=429",
@@ -3348,14 +3348,14 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 23,
-      "Говядовский Виктор Петрович": 6,
-      "Краузе Александр Анатольевич": 42,
-      "Селезнев Геннадий Николаевич": 333,
-      "Сидорин Сергей Валерьевич": 11,
-      "Табакова Елена Викторовна": 40,
-      "Хакамада Ирина Муцуовна": 111,
-      "Против всех": 65
+      "gas:candidate-vibid:1001000136163": 23,
+      "gas:candidate-vibid:378300470578": 6,
+      "gas:candidate-vibid:1001000121947": 42,
+      "gas:candidate-vibid:1001000190465": 333,
+      "gas:candidate-vibid:378300470566": 11,
+      "gas:candidate-vibid:378300470572": 40,
+      "gas:candidate-vibid:1001000114003": 111,
+      "special:against-all": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470432&region=0&sub_region=0&type=429",
@@ -3405,14 +3405,14 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 36,
-      "Говядовский Виктор Петрович": 8,
-      "Краузе Александр Анатольевич": 45,
-      "Селезнев Геннадий Николаевич": 414,
-      "Сидорин Сергей Валерьевич": 17,
-      "Табакова Елена Викторовна": 57,
-      "Хакамада Ирина Муцуовна": 134,
-      "Против всех": 90
+      "gas:candidate-vibid:1001000136163": 36,
+      "gas:candidate-vibid:378300470578": 8,
+      "gas:candidate-vibid:1001000121947": 45,
+      "gas:candidate-vibid:1001000190465": 414,
+      "gas:candidate-vibid:378300470566": 17,
+      "gas:candidate-vibid:378300470572": 57,
+      "gas:candidate-vibid:1001000114003": 134,
+      "special:against-all": 90
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470432&region=0&sub_region=0&type=429",
@@ -3462,14 +3462,14 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 41,
-      "Говядовский Виктор Петрович": 19,
-      "Краузе Александр Анатольевич": 76,
-      "Селезнев Геннадий Николаевич": 668,
-      "Сидорин Сергей Валерьевич": 20,
-      "Табакова Елена Викторовна": 81,
-      "Хакамада Ирина Муцуовна": 176,
-      "Против всех": 135
+      "gas:candidate-vibid:1001000136163": 41,
+      "gas:candidate-vibid:378300470578": 19,
+      "gas:candidate-vibid:1001000121947": 76,
+      "gas:candidate-vibid:1001000190465": 668,
+      "gas:candidate-vibid:378300470566": 20,
+      "gas:candidate-vibid:378300470572": 81,
+      "gas:candidate-vibid:1001000114003": 176,
+      "special:against-all": 135
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470432&region=0&sub_region=0&type=429",
@@ -3519,14 +3519,14 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 36,
-      "Говядовский Виктор Петрович": 16,
-      "Краузе Александр Анатольевич": 105,
-      "Селезнев Геннадий Николаевич": 552,
-      "Сидорин Сергей Валерьевич": 24,
-      "Табакова Елена Викторовна": 88,
-      "Хакамада Ирина Муцуовна": 155,
-      "Против всех": 120
+      "gas:candidate-vibid:1001000136163": 36,
+      "gas:candidate-vibid:378300470578": 16,
+      "gas:candidate-vibid:1001000121947": 105,
+      "gas:candidate-vibid:1001000190465": 552,
+      "gas:candidate-vibid:378300470566": 24,
+      "gas:candidate-vibid:378300470572": 88,
+      "gas:candidate-vibid:1001000114003": 155,
+      "special:against-all": 120
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470432&region=0&sub_region=0&type=429",
@@ -3576,14 +3576,14 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 20,
-      "Говядовский Виктор Петрович": 13,
-      "Краузе Александр Анатольевич": 37,
-      "Селезнев Геннадий Николаевич": 393,
-      "Сидорин Сергей Валерьевич": 17,
-      "Табакова Елена Викторовна": 58,
-      "Хакамада Ирина Муцуовна": 145,
-      "Против всех": 95
+      "gas:candidate-vibid:1001000136163": 20,
+      "gas:candidate-vibid:378300470578": 13,
+      "gas:candidate-vibid:1001000121947": 37,
+      "gas:candidate-vibid:1001000190465": 393,
+      "gas:candidate-vibid:378300470566": 17,
+      "gas:candidate-vibid:378300470572": 58,
+      "gas:candidate-vibid:1001000114003": 145,
+      "special:against-all": 95
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470432&region=0&sub_region=0&type=429",
@@ -3633,14 +3633,14 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 42,
-      "Говядовский Виктор Петрович": 21,
-      "Краузе Александр Анатольевич": 65,
-      "Селезнев Геннадий Николаевич": 516,
-      "Сидорин Сергей Валерьевич": 19,
-      "Табакова Елена Викторовна": 126,
-      "Хакамада Ирина Муцуовна": 203,
-      "Против всех": 133
+      "gas:candidate-vibid:1001000136163": 42,
+      "gas:candidate-vibid:378300470578": 21,
+      "gas:candidate-vibid:1001000121947": 65,
+      "gas:candidate-vibid:1001000190465": 516,
+      "gas:candidate-vibid:378300470566": 19,
+      "gas:candidate-vibid:378300470572": 126,
+      "gas:candidate-vibid:1001000114003": 203,
+      "special:against-all": 133
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470432&region=0&sub_region=0&type=429",
@@ -3690,14 +3690,14 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 28,
-      "Говядовский Виктор Петрович": 17,
-      "Краузе Александр Анатольевич": 48,
-      "Селезнев Геннадий Николаевич": 404,
-      "Сидорин Сергей Валерьевич": 13,
-      "Табакова Елена Викторовна": 105,
-      "Хакамада Ирина Муцуовна": 219,
-      "Против всех": 123
+      "gas:candidate-vibid:1001000136163": 28,
+      "gas:candidate-vibid:378300470578": 17,
+      "gas:candidate-vibid:1001000121947": 48,
+      "gas:candidate-vibid:1001000190465": 404,
+      "gas:candidate-vibid:378300470566": 13,
+      "gas:candidate-vibid:378300470572": 105,
+      "gas:candidate-vibid:1001000114003": 219,
+      "special:against-all": 123
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470432&region=0&sub_region=0&type=429",
@@ -3747,14 +3747,14 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 30,
-      "Говядовский Виктор Петрович": 13,
-      "Краузе Александр Анатольевич": 41,
-      "Селезнев Геннадий Николаевич": 307,
-      "Сидорин Сергей Валерьевич": 17,
-      "Табакова Елена Викторовна": 91,
-      "Хакамада Ирина Муцуовна": 160,
-      "Против всех": 83
+      "gas:candidate-vibid:1001000136163": 30,
+      "gas:candidate-vibid:378300470578": 13,
+      "gas:candidate-vibid:1001000121947": 41,
+      "gas:candidate-vibid:1001000190465": 307,
+      "gas:candidate-vibid:378300470566": 17,
+      "gas:candidate-vibid:378300470572": 91,
+      "gas:candidate-vibid:1001000114003": 160,
+      "special:against-all": 83
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470432&region=0&sub_region=0&type=429",
@@ -3804,14 +3804,14 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 43,
-      "Говядовский Виктор Петрович": 18,
-      "Краузе Александр Анатольевич": 65,
-      "Селезнев Геннадий Николаевич": 514,
-      "Сидорин Сергей Валерьевич": 26,
-      "Табакова Елена Викторовна": 75,
-      "Хакамада Ирина Муцуовна": 180,
-      "Против всех": 108
+      "gas:candidate-vibid:1001000136163": 43,
+      "gas:candidate-vibid:378300470578": 18,
+      "gas:candidate-vibid:1001000121947": 65,
+      "gas:candidate-vibid:1001000190465": 514,
+      "gas:candidate-vibid:378300470566": 26,
+      "gas:candidate-vibid:378300470572": 75,
+      "gas:candidate-vibid:1001000114003": 180,
+      "special:against-all": 108
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470432&region=0&sub_region=0&type=429",
@@ -3861,14 +3861,14 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 53,
-      "Говядовский Виктор Петрович": 13,
-      "Краузе Александр Анатольевич": 72,
-      "Селезнев Геннадий Николаевич": 483,
-      "Сидорин Сергей Валерьевич": 21,
-      "Табакова Елена Викторовна": 96,
-      "Хакамада Ирина Муцуовна": 176,
-      "Против всех": 133
+      "gas:candidate-vibid:1001000136163": 53,
+      "gas:candidate-vibid:378300470578": 13,
+      "gas:candidate-vibid:1001000121947": 72,
+      "gas:candidate-vibid:1001000190465": 483,
+      "gas:candidate-vibid:378300470566": 21,
+      "gas:candidate-vibid:378300470572": 96,
+      "gas:candidate-vibid:1001000114003": 176,
+      "special:against-all": 133
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470432&region=0&sub_region=0&type=429",
@@ -3918,14 +3918,14 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 50,
-      "Говядовский Виктор Петрович": 19,
-      "Краузе Александр Анатольевич": 45,
-      "Селезнев Геннадий Николаевич": 567,
-      "Сидорин Сергей Валерьевич": 16,
-      "Табакова Елена Викторовна": 117,
-      "Хакамада Ирина Муцуовна": 194,
-      "Против всех": 127
+      "gas:candidate-vibid:1001000136163": 50,
+      "gas:candidate-vibid:378300470578": 19,
+      "gas:candidate-vibid:1001000121947": 45,
+      "gas:candidate-vibid:1001000190465": 567,
+      "gas:candidate-vibid:378300470566": 16,
+      "gas:candidate-vibid:378300470572": 117,
+      "gas:candidate-vibid:1001000114003": 194,
+      "special:against-all": 127
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470432&region=0&sub_region=0&type=429",
@@ -3975,14 +3975,14 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 37,
-      "Говядовский Виктор Петрович": 19,
-      "Краузе Александр Анатольевич": 64,
-      "Селезнев Геннадий Николаевич": 513,
-      "Сидорин Сергей Валерьевич": 25,
-      "Табакова Елена Викторовна": 107,
-      "Хакамада Ирина Муцуовна": 217,
-      "Против всех": 141
+      "gas:candidate-vibid:1001000136163": 37,
+      "gas:candidate-vibid:378300470578": 19,
+      "gas:candidate-vibid:1001000121947": 64,
+      "gas:candidate-vibid:1001000190465": 513,
+      "gas:candidate-vibid:378300470566": 25,
+      "gas:candidate-vibid:378300470572": 107,
+      "gas:candidate-vibid:1001000114003": 217,
+      "special:against-all": 141
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470432&region=0&sub_region=0&type=429",
@@ -4032,14 +4032,14 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 49,
-      "Говядовский Виктор Петрович": 8,
-      "Краузе Александр Анатольевич": 40,
-      "Селезнев Геннадий Николаевич": 412,
-      "Сидорин Сергей Валерьевич": 17,
-      "Табакова Елена Викторовна": 80,
-      "Хакамада Ирина Муцуовна": 146,
-      "Против всех": 74
+      "gas:candidate-vibid:1001000136163": 49,
+      "gas:candidate-vibid:378300470578": 8,
+      "gas:candidate-vibid:1001000121947": 40,
+      "gas:candidate-vibid:1001000190465": 412,
+      "gas:candidate-vibid:378300470566": 17,
+      "gas:candidate-vibid:378300470572": 80,
+      "gas:candidate-vibid:1001000114003": 146,
+      "special:against-all": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470432&region=0&sub_region=0&type=429",
@@ -4089,14 +4089,14 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 39,
-      "Говядовский Виктор Петрович": 14,
-      "Краузе Александр Анатольевич": 51,
-      "Селезнев Геннадий Николаевич": 501,
-      "Сидорин Сергей Валерьевич": 16,
-      "Табакова Елена Викторовна": 80,
-      "Хакамада Ирина Муцуовна": 189,
-      "Против всех": 150
+      "gas:candidate-vibid:1001000136163": 39,
+      "gas:candidate-vibid:378300470578": 14,
+      "gas:candidate-vibid:1001000121947": 51,
+      "gas:candidate-vibid:1001000190465": 501,
+      "gas:candidate-vibid:378300470566": 16,
+      "gas:candidate-vibid:378300470572": 80,
+      "gas:candidate-vibid:1001000114003": 189,
+      "special:against-all": 150
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470432&region=0&sub_region=0&type=429",
@@ -4146,14 +4146,14 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 48,
-      "Говядовский Виктор Петрович": 22,
-      "Краузе Александр Анатольевич": 62,
-      "Селезнев Геннадий Николаевич": 567,
-      "Сидорин Сергей Валерьевич": 8,
-      "Табакова Елена Викторовна": 125,
-      "Хакамада Ирина Муцуовна": 228,
-      "Против всех": 164
+      "gas:candidate-vibid:1001000136163": 48,
+      "gas:candidate-vibid:378300470578": 22,
+      "gas:candidate-vibid:1001000121947": 62,
+      "gas:candidate-vibid:1001000190465": 567,
+      "gas:candidate-vibid:378300470566": 8,
+      "gas:candidate-vibid:378300470572": 125,
+      "gas:candidate-vibid:1001000114003": 228,
+      "special:against-all": 164
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470432&region=0&sub_region=0&type=429",
@@ -4203,14 +4203,14 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 27,
-      "Говядовский Виктор Петрович": 24,
-      "Краузе Александр Анатольевич": 86,
-      "Селезнев Геннадий Николаевич": 438,
-      "Сидорин Сергей Валерьевич": 20,
-      "Табакова Елена Викторовна": 74,
-      "Хакамада Ирина Муцуовна": 265,
-      "Против всех": 122
+      "gas:candidate-vibid:1001000136163": 27,
+      "gas:candidate-vibid:378300470578": 24,
+      "gas:candidate-vibid:1001000121947": 86,
+      "gas:candidate-vibid:1001000190465": 438,
+      "gas:candidate-vibid:378300470566": 20,
+      "gas:candidate-vibid:378300470572": 74,
+      "gas:candidate-vibid:1001000114003": 265,
+      "special:against-all": 122
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470432&region=0&sub_region=0&type=429",
@@ -4260,14 +4260,14 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 42,
-      "Говядовский Виктор Петрович": 13,
-      "Краузе Александр Анатольевич": 85,
-      "Селезнев Геннадий Николаевич": 420,
-      "Сидорин Сергей Валерьевич": 23,
-      "Табакова Елена Викторовна": 74,
-      "Хакамада Ирина Муцуовна": 195,
-      "Против всех": 112
+      "gas:candidate-vibid:1001000136163": 42,
+      "gas:candidate-vibid:378300470578": 13,
+      "gas:candidate-vibid:1001000121947": 85,
+      "gas:candidate-vibid:1001000190465": 420,
+      "gas:candidate-vibid:378300470566": 23,
+      "gas:candidate-vibid:378300470572": 74,
+      "gas:candidate-vibid:1001000114003": 195,
+      "special:against-all": 112
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470432&region=0&sub_region=0&type=429",
@@ -4317,14 +4317,14 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 57,
-      "Говядовский Виктор Петрович": 18,
-      "Краузе Александр Анатольевич": 66,
-      "Селезнев Геннадий Николаевич": 304,
-      "Сидорин Сергей Валерьевич": 28,
-      "Табакова Елена Викторовна": 71,
-      "Хакамада Ирина Муцуовна": 250,
-      "Против всех": 150
+      "gas:candidate-vibid:1001000136163": 57,
+      "gas:candidate-vibid:378300470578": 18,
+      "gas:candidate-vibid:1001000121947": 66,
+      "gas:candidate-vibid:1001000190465": 304,
+      "gas:candidate-vibid:378300470566": 28,
+      "gas:candidate-vibid:378300470572": 71,
+      "gas:candidate-vibid:1001000114003": 250,
+      "special:against-all": 150
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470432&region=0&sub_region=0&type=429",
@@ -4374,14 +4374,14 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 42,
-      "Говядовский Виктор Петрович": 15,
-      "Краузе Александр Анатольевич": 58,
-      "Селезнев Геннадий Николаевич": 384,
-      "Сидорин Сергей Валерьевич": 14,
-      "Табакова Елена Викторовна": 85,
-      "Хакамада Ирина Муцуовна": 163,
-      "Против всех": 100
+      "gas:candidate-vibid:1001000136163": 42,
+      "gas:candidate-vibid:378300470578": 15,
+      "gas:candidate-vibid:1001000121947": 58,
+      "gas:candidate-vibid:1001000190465": 384,
+      "gas:candidate-vibid:378300470566": 14,
+      "gas:candidate-vibid:378300470572": 85,
+      "gas:candidate-vibid:1001000114003": 163,
+      "special:against-all": 100
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470432&region=0&sub_region=0&type=429",
@@ -4431,14 +4431,14 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 21,
-      "Говядовский Виктор Петрович": 14,
-      "Краузе Александр Анатольевич": 34,
-      "Селезнев Геннадий Николаевич": 396,
-      "Сидорин Сергей Валерьевич": 9,
-      "Табакова Елена Викторовна": 89,
-      "Хакамада Ирина Муцуовна": 198,
-      "Против всех": 113
+      "gas:candidate-vibid:1001000136163": 21,
+      "gas:candidate-vibid:378300470578": 14,
+      "gas:candidate-vibid:1001000121947": 34,
+      "gas:candidate-vibid:1001000190465": 396,
+      "gas:candidate-vibid:378300470566": 9,
+      "gas:candidate-vibid:378300470572": 89,
+      "gas:candidate-vibid:1001000114003": 198,
+      "special:against-all": 113
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470432&region=0&sub_region=0&type=429",
@@ -4488,14 +4488,14 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 10,
-      "Говядовский Виктор Петрович": 5,
-      "Краузе Александр Анатольевич": 34,
-      "Селезнев Геннадий Николаевич": 136,
-      "Сидорин Сергей Валерьевич": 7,
-      "Табакова Елена Викторовна": 38,
-      "Хакамада Ирина Муцуовна": 96,
-      "Против всех": 40
+      "gas:candidate-vibid:1001000136163": 10,
+      "gas:candidate-vibid:378300470578": 5,
+      "gas:candidate-vibid:1001000121947": 34,
+      "gas:candidate-vibid:1001000190465": 136,
+      "gas:candidate-vibid:378300470566": 7,
+      "gas:candidate-vibid:378300470572": 38,
+      "gas:candidate-vibid:1001000114003": 96,
+      "special:against-all": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470433&region=0&sub_region=0&type=429",
@@ -4545,14 +4545,14 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 20,
-      "Говядовский Виктор Петрович": 10,
-      "Краузе Александр Анатольевич": 65,
-      "Селезнев Геннадий Николаевич": 343,
-      "Сидорин Сергей Валерьевич": 16,
-      "Табакова Елена Викторовна": 70,
-      "Хакамада Ирина Муцуовна": 237,
-      "Против всех": 85
+      "gas:candidate-vibid:1001000136163": 20,
+      "gas:candidate-vibid:378300470578": 10,
+      "gas:candidate-vibid:1001000121947": 65,
+      "gas:candidate-vibid:1001000190465": 343,
+      "gas:candidate-vibid:378300470566": 16,
+      "gas:candidate-vibid:378300470572": 70,
+      "gas:candidate-vibid:1001000114003": 237,
+      "special:against-all": 85
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470433&region=0&sub_region=0&type=429",
@@ -4602,14 +4602,14 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 96,
-      "Говядовский Виктор Петрович": 25,
-      "Краузе Александр Анатольевич": 103,
-      "Селезнев Геннадий Николаевич": 496,
-      "Сидорин Сергей Валерьевич": 32,
-      "Табакова Елена Викторовна": 180,
-      "Хакамада Ирина Муцуовна": 222,
-      "Против всех": 364
+      "gas:candidate-vibid:1001000136163": 96,
+      "gas:candidate-vibid:378300470578": 25,
+      "gas:candidate-vibid:1001000121947": 103,
+      "gas:candidate-vibid:1001000190465": 496,
+      "gas:candidate-vibid:378300470566": 32,
+      "gas:candidate-vibid:378300470572": 180,
+      "gas:candidate-vibid:1001000114003": 222,
+      "special:against-all": 364
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470433&region=0&sub_region=0&type=429",
@@ -4659,14 +4659,14 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 57,
-      "Говядовский Виктор Петрович": 16,
-      "Краузе Александр Анатольевич": 111,
-      "Селезнев Геннадий Николаевич": 744,
-      "Сидорин Сергей Валерьевич": 22,
-      "Табакова Елена Викторовна": 110,
-      "Хакамада Ирина Муцуовна": 361,
-      "Против всех": 196
+      "gas:candidate-vibid:1001000136163": 57,
+      "gas:candidate-vibid:378300470578": 16,
+      "gas:candidate-vibid:1001000121947": 111,
+      "gas:candidate-vibid:1001000190465": 744,
+      "gas:candidate-vibid:378300470566": 22,
+      "gas:candidate-vibid:378300470572": 110,
+      "gas:candidate-vibid:1001000114003": 361,
+      "special:against-all": 196
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470433&region=0&sub_region=0&type=429",
@@ -4716,14 +4716,14 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 31,
-      "Говядовский Виктор Петрович": 14,
-      "Краузе Александр Анатольевич": 107,
-      "Селезнев Геннадий Николаевич": 539,
-      "Сидорин Сергей Валерьевич": 18,
-      "Табакова Елена Викторовна": 72,
-      "Хакамада Ирина Муцуовна": 207,
-      "Против всех": 136
+      "gas:candidate-vibid:1001000136163": 31,
+      "gas:candidate-vibid:378300470578": 14,
+      "gas:candidate-vibid:1001000121947": 107,
+      "gas:candidate-vibid:1001000190465": 539,
+      "gas:candidate-vibid:378300470566": 18,
+      "gas:candidate-vibid:378300470572": 72,
+      "gas:candidate-vibid:1001000114003": 207,
+      "special:against-all": 136
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470433&region=0&sub_region=0&type=429",
@@ -4773,14 +4773,14 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 45,
-      "Говядовский Виктор Петрович": 21,
-      "Краузе Александр Анатольевич": 74,
-      "Селезнев Геннадий Николаевич": 469,
-      "Сидорин Сергей Валерьевич": 9,
-      "Табакова Елена Викторовна": 94,
-      "Хакамада Ирина Муцуовна": 299,
-      "Против всех": 125
+      "gas:candidate-vibid:1001000136163": 45,
+      "gas:candidate-vibid:378300470578": 21,
+      "gas:candidate-vibid:1001000121947": 74,
+      "gas:candidate-vibid:1001000190465": 469,
+      "gas:candidate-vibid:378300470566": 9,
+      "gas:candidate-vibid:378300470572": 94,
+      "gas:candidate-vibid:1001000114003": 299,
+      "special:against-all": 125
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470433&region=0&sub_region=0&type=429",
@@ -4830,14 +4830,14 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 48,
-      "Говядовский Виктор Петрович": 19,
-      "Краузе Александр Анатольевич": 80,
-      "Селезнев Геннадий Николаевич": 650,
-      "Сидорин Сергей Валерьевич": 19,
-      "Табакова Елена Викторовна": 89,
-      "Хакамада Ирина Муцуовна": 315,
-      "Против всех": 169
+      "gas:candidate-vibid:1001000136163": 48,
+      "gas:candidate-vibid:378300470578": 19,
+      "gas:candidate-vibid:1001000121947": 80,
+      "gas:candidate-vibid:1001000190465": 650,
+      "gas:candidate-vibid:378300470566": 19,
+      "gas:candidate-vibid:378300470572": 89,
+      "gas:candidate-vibid:1001000114003": 315,
+      "special:against-all": 169
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470433&region=0&sub_region=0&type=429",
@@ -4887,14 +4887,14 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 44,
-      "Говядовский Виктор Петрович": 21,
-      "Краузе Александр Анатольевич": 52,
-      "Селезнев Геннадий Николаевич": 485,
-      "Сидорин Сергей Валерьевич": 22,
-      "Табакова Елена Викторовна": 102,
-      "Хакамада Ирина Муцуовна": 319,
-      "Против всех": 187
+      "gas:candidate-vibid:1001000136163": 44,
+      "gas:candidate-vibid:378300470578": 21,
+      "gas:candidate-vibid:1001000121947": 52,
+      "gas:candidate-vibid:1001000190465": 485,
+      "gas:candidate-vibid:378300470566": 22,
+      "gas:candidate-vibid:378300470572": 102,
+      "gas:candidate-vibid:1001000114003": 319,
+      "special:against-all": 187
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470433&region=0&sub_region=0&type=429",
@@ -4944,14 +4944,14 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 39,
-      "Говядовский Виктор Петрович": 11,
-      "Краузе Александр Анатольевич": 103,
-      "Селезнев Геннадий Николаевич": 603,
-      "Сидорин Сергей Валерьевич": 21,
-      "Табакова Елена Викторовна": 75,
-      "Хакамада Ирина Муцуовна": 254,
-      "Против всех": 167
+      "gas:candidate-vibid:1001000136163": 39,
+      "gas:candidate-vibid:378300470578": 11,
+      "gas:candidate-vibid:1001000121947": 103,
+      "gas:candidate-vibid:1001000190465": 603,
+      "gas:candidate-vibid:378300470566": 21,
+      "gas:candidate-vibid:378300470572": 75,
+      "gas:candidate-vibid:1001000114003": 254,
+      "special:against-all": 167
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470433&region=0&sub_region=0&type=429",
@@ -5001,14 +5001,14 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 44,
-      "Говядовский Виктор Петрович": 20,
-      "Краузе Александр Анатольевич": 82,
-      "Селезнев Геннадий Николаевич": 587,
-      "Сидорин Сергей Валерьевич": 25,
-      "Табакова Елена Викторовна": 96,
-      "Хакамада Ирина Муцуовна": 318,
-      "Против всех": 138
+      "gas:candidate-vibid:1001000136163": 44,
+      "gas:candidate-vibid:378300470578": 20,
+      "gas:candidate-vibid:1001000121947": 82,
+      "gas:candidate-vibid:1001000190465": 587,
+      "gas:candidate-vibid:378300470566": 25,
+      "gas:candidate-vibid:378300470572": 96,
+      "gas:candidate-vibid:1001000114003": 318,
+      "special:against-all": 138
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470433&region=0&sub_region=0&type=429",
@@ -5058,14 +5058,14 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 33,
-      "Говядовский Виктор Петрович": 21,
-      "Краузе Александр Анатольевич": 84,
-      "Селезнев Геннадий Николаевич": 612,
-      "Сидорин Сергей Валерьевич": 28,
-      "Табакова Елена Викторовна": 118,
-      "Хакамада Ирина Муцуовна": 342,
-      "Против всех": 145
+      "gas:candidate-vibid:1001000136163": 33,
+      "gas:candidate-vibid:378300470578": 21,
+      "gas:candidate-vibid:1001000121947": 84,
+      "gas:candidate-vibid:1001000190465": 612,
+      "gas:candidate-vibid:378300470566": 28,
+      "gas:candidate-vibid:378300470572": 118,
+      "gas:candidate-vibid:1001000114003": 342,
+      "special:against-all": 145
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470433&region=0&sub_region=0&type=429",
@@ -5115,14 +5115,14 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 34,
-      "Говядовский Виктор Петрович": 10,
-      "Краузе Александр Анатольевич": 62,
-      "Селезнев Геннадий Николаевич": 485,
-      "Сидорин Сергей Валерьевич": 11,
-      "Табакова Елена Викторовна": 62,
-      "Хакамада Ирина Муцуовна": 280,
-      "Против всех": 111
+      "gas:candidate-vibid:1001000136163": 34,
+      "gas:candidate-vibid:378300470578": 10,
+      "gas:candidate-vibid:1001000121947": 62,
+      "gas:candidate-vibid:1001000190465": 485,
+      "gas:candidate-vibid:378300470566": 11,
+      "gas:candidate-vibid:378300470572": 62,
+      "gas:candidate-vibid:1001000114003": 280,
+      "special:against-all": 111
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470433&region=0&sub_region=0&type=429",
@@ -5172,14 +5172,14 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 40,
-      "Говядовский Виктор Петрович": 11,
-      "Краузе Александр Анатольевич": 74,
-      "Селезнев Геннадий Николаевич": 469,
-      "Сидорин Сергей Валерьевич": 14,
-      "Табакова Елена Викторовна": 71,
-      "Хакамада Ирина Муцуовна": 196,
-      "Против всех": 112
+      "gas:candidate-vibid:1001000136163": 40,
+      "gas:candidate-vibid:378300470578": 11,
+      "gas:candidate-vibid:1001000121947": 74,
+      "gas:candidate-vibid:1001000190465": 469,
+      "gas:candidate-vibid:378300470566": 14,
+      "gas:candidate-vibid:378300470572": 71,
+      "gas:candidate-vibid:1001000114003": 196,
+      "special:against-all": 112
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470433&region=0&sub_region=0&type=429",
@@ -5229,14 +5229,14 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 17,
-      "Говядовский Виктор Петрович": 17,
-      "Краузе Александр Анатольевич": 69,
-      "Селезнев Геннадий Николаевич": 526,
-      "Сидорин Сергей Валерьевич": 17,
-      "Табакова Елена Викторовна": 72,
-      "Хакамада Ирина Муцуовна": 250,
-      "Против всех": 148
+      "gas:candidate-vibid:1001000136163": 17,
+      "gas:candidate-vibid:378300470578": 17,
+      "gas:candidate-vibid:1001000121947": 69,
+      "gas:candidate-vibid:1001000190465": 526,
+      "gas:candidate-vibid:378300470566": 17,
+      "gas:candidate-vibid:378300470572": 72,
+      "gas:candidate-vibid:1001000114003": 250,
+      "special:against-all": 148
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470433&region=0&sub_region=0&type=429",
@@ -5286,14 +5286,14 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 30,
-      "Говядовский Виктор Петрович": 17,
-      "Краузе Александр Анатольевич": 42,
-      "Селезнев Геннадий Николаевич": 457,
-      "Сидорин Сергей Валерьевич": 20,
-      "Табакова Елена Викторовна": 52,
-      "Хакамада Ирина Муцуовна": 211,
-      "Против всех": 95
+      "gas:candidate-vibid:1001000136163": 30,
+      "gas:candidate-vibid:378300470578": 17,
+      "gas:candidate-vibid:1001000121947": 42,
+      "gas:candidate-vibid:1001000190465": 457,
+      "gas:candidate-vibid:378300470566": 20,
+      "gas:candidate-vibid:378300470572": 52,
+      "gas:candidate-vibid:1001000114003": 211,
+      "special:against-all": 95
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470433&region=0&sub_region=0&type=429",
@@ -5343,14 +5343,14 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 30,
-      "Говядовский Виктор Петрович": 21,
-      "Краузе Александр Анатольевич": 68,
-      "Селезнев Геннадий Николаевич": 442,
-      "Сидорин Сергей Валерьевич": 13,
-      "Табакова Елена Викторовна": 69,
-      "Хакамада Ирина Муцуовна": 240,
-      "Против всех": 118
+      "gas:candidate-vibid:1001000136163": 30,
+      "gas:candidate-vibid:378300470578": 21,
+      "gas:candidate-vibid:1001000121947": 68,
+      "gas:candidate-vibid:1001000190465": 442,
+      "gas:candidate-vibid:378300470566": 13,
+      "gas:candidate-vibid:378300470572": 69,
+      "gas:candidate-vibid:1001000114003": 240,
+      "special:against-all": 118
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470433&region=0&sub_region=0&type=429",
@@ -5400,14 +5400,14 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 20,
-      "Говядовский Виктор Петрович": 27,
-      "Краузе Александр Анатольевич": 62,
-      "Селезнев Геннадий Николаевич": 464,
-      "Сидорин Сергей Валерьевич": 19,
-      "Табакова Елена Викторовна": 85,
-      "Хакамада Ирина Муцуовна": 238,
-      "Против всех": 115
+      "gas:candidate-vibid:1001000136163": 20,
+      "gas:candidate-vibid:378300470578": 27,
+      "gas:candidate-vibid:1001000121947": 62,
+      "gas:candidate-vibid:1001000190465": 464,
+      "gas:candidate-vibid:378300470566": 19,
+      "gas:candidate-vibid:378300470572": 85,
+      "gas:candidate-vibid:1001000114003": 238,
+      "special:against-all": 115
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470433&region=0&sub_region=0&type=429",
@@ -5457,14 +5457,14 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 40,
-      "Говядовский Виктор Петрович": 9,
-      "Краузе Александр Анатольевич": 74,
-      "Селезнев Геннадий Николаевич": 470,
-      "Сидорин Сергей Валерьевич": 12,
-      "Табакова Елена Викторовна": 73,
-      "Хакамада Ирина Муцуовна": 286,
-      "Против всех": 112
+      "gas:candidate-vibid:1001000136163": 40,
+      "gas:candidate-vibid:378300470578": 9,
+      "gas:candidate-vibid:1001000121947": 74,
+      "gas:candidate-vibid:1001000190465": 470,
+      "gas:candidate-vibid:378300470566": 12,
+      "gas:candidate-vibid:378300470572": 73,
+      "gas:candidate-vibid:1001000114003": 286,
+      "special:against-all": 112
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470433&region=0&sub_region=0&type=429",
@@ -5514,14 +5514,14 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 30,
-      "Говядовский Виктор Петрович": 10,
-      "Краузе Александр Анатольевич": 45,
-      "Селезнев Геннадий Николаевич": 464,
-      "Сидорин Сергей Валерьевич": 24,
-      "Табакова Елена Викторовна": 82,
-      "Хакамада Ирина Муцуовна": 268,
-      "Против всех": 100
+      "gas:candidate-vibid:1001000136163": 30,
+      "gas:candidate-vibid:378300470578": 10,
+      "gas:candidate-vibid:1001000121947": 45,
+      "gas:candidate-vibid:1001000190465": 464,
+      "gas:candidate-vibid:378300470566": 24,
+      "gas:candidate-vibid:378300470572": 82,
+      "gas:candidate-vibid:1001000114003": 268,
+      "special:against-all": 100
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470433&region=0&sub_region=0&type=429",
@@ -5571,14 +5571,14 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 28,
-      "Говядовский Виктор Петрович": 11,
-      "Краузе Александр Анатольевич": 57,
-      "Селезнев Геннадий Николаевич": 464,
-      "Сидорин Сергей Валерьевич": 27,
-      "Табакова Елена Викторовна": 83,
-      "Хакамада Ирина Муцуовна": 299,
-      "Против всех": 108
+      "gas:candidate-vibid:1001000136163": 28,
+      "gas:candidate-vibid:378300470578": 11,
+      "gas:candidate-vibid:1001000121947": 57,
+      "gas:candidate-vibid:1001000190465": 464,
+      "gas:candidate-vibid:378300470566": 27,
+      "gas:candidate-vibid:378300470572": 83,
+      "gas:candidate-vibid:1001000114003": 299,
+      "special:against-all": 108
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470433&region=0&sub_region=0&type=429",
@@ -5628,14 +5628,14 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 25,
-      "Говядовский Виктор Петрович": 12,
-      "Краузе Александр Анатольевич": 62,
-      "Селезнев Геннадий Николаевич": 526,
-      "Сидорин Сергей Валерьевич": 13,
-      "Табакова Елена Викторовна": 74,
-      "Хакамада Ирина Муцуовна": 254,
-      "Против всех": 107
+      "gas:candidate-vibid:1001000136163": 25,
+      "gas:candidate-vibid:378300470578": 12,
+      "gas:candidate-vibid:1001000121947": 62,
+      "gas:candidate-vibid:1001000190465": 526,
+      "gas:candidate-vibid:378300470566": 13,
+      "gas:candidate-vibid:378300470572": 74,
+      "gas:candidate-vibid:1001000114003": 254,
+      "special:against-all": 107
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470433&region=0&sub_region=0&type=429",
@@ -5685,14 +5685,14 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 20,
-      "Говядовский Виктор Петрович": 23,
-      "Краузе Александр Анатольевич": 40,
-      "Селезнев Геннадий Николаевич": 452,
-      "Сидорин Сергей Валерьевич": 20,
-      "Табакова Елена Викторовна": 61,
-      "Хакамада Ирина Муцуовна": 230,
-      "Против всех": 127
+      "gas:candidate-vibid:1001000136163": 20,
+      "gas:candidate-vibid:378300470578": 23,
+      "gas:candidate-vibid:1001000121947": 40,
+      "gas:candidate-vibid:1001000190465": 452,
+      "gas:candidate-vibid:378300470566": 20,
+      "gas:candidate-vibid:378300470572": 61,
+      "gas:candidate-vibid:1001000114003": 230,
+      "special:against-all": 127
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470433&region=0&sub_region=0&type=429",
@@ -5742,14 +5742,14 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 36,
-      "Говядовский Виктор Петрович": 8,
-      "Краузе Александр Анатольевич": 49,
-      "Селезнев Геннадий Николаевич": 428,
-      "Сидорин Сергей Валерьевич": 18,
-      "Табакова Елена Викторовна": 62,
-      "Хакамада Ирина Муцуовна": 212,
-      "Против всех": 103
+      "gas:candidate-vibid:1001000136163": 36,
+      "gas:candidate-vibid:378300470578": 8,
+      "gas:candidate-vibid:1001000121947": 49,
+      "gas:candidate-vibid:1001000190465": 428,
+      "gas:candidate-vibid:378300470566": 18,
+      "gas:candidate-vibid:378300470572": 62,
+      "gas:candidate-vibid:1001000114003": 212,
+      "special:against-all": 103
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470433&region=0&sub_region=0&type=429",
@@ -5799,14 +5799,14 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 40,
-      "Говядовский Виктор Петрович": 20,
-      "Краузе Александр Анатольевич": 79,
-      "Селезнев Геннадий Николаевич": 614,
-      "Сидорин Сергей Валерьевич": 21,
-      "Табакова Елена Викторовна": 125,
-      "Хакамада Ирина Муцуовна": 267,
-      "Против всех": 117
+      "gas:candidate-vibid:1001000136163": 40,
+      "gas:candidate-vibid:378300470578": 20,
+      "gas:candidate-vibid:1001000121947": 79,
+      "gas:candidate-vibid:1001000190465": 614,
+      "gas:candidate-vibid:378300470566": 21,
+      "gas:candidate-vibid:378300470572": 125,
+      "gas:candidate-vibid:1001000114003": 267,
+      "special:against-all": 117
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470433&region=0&sub_region=0&type=429",
@@ -5856,14 +5856,14 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 41,
-      "Говядовский Виктор Петрович": 16,
-      "Краузе Александр Анатольевич": 82,
-      "Селезнев Геннадий Николаевич": 617,
-      "Сидорин Сергей Валерьевич": 24,
-      "Табакова Елена Викторовна": 105,
-      "Хакамада Ирина Муцуовна": 279,
-      "Против всех": 172
+      "gas:candidate-vibid:1001000136163": 41,
+      "gas:candidate-vibid:378300470578": 16,
+      "gas:candidate-vibid:1001000121947": 82,
+      "gas:candidate-vibid:1001000190465": 617,
+      "gas:candidate-vibid:378300470566": 24,
+      "gas:candidate-vibid:378300470572": 105,
+      "gas:candidate-vibid:1001000114003": 279,
+      "special:against-all": 172
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470433&region=0&sub_region=0&type=429",
@@ -5913,14 +5913,14 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 44,
-      "Говядовский Виктор Петрович": 18,
-      "Краузе Александр Анатольевич": 78,
-      "Селезнев Геннадий Николаевич": 612,
-      "Сидорин Сергей Валерьевич": 13,
-      "Табакова Елена Викторовна": 104,
-      "Хакамада Ирина Муцуовна": 258,
-      "Против всех": 110
+      "gas:candidate-vibid:1001000136163": 44,
+      "gas:candidate-vibid:378300470578": 18,
+      "gas:candidate-vibid:1001000121947": 78,
+      "gas:candidate-vibid:1001000190465": 612,
+      "gas:candidate-vibid:378300470566": 13,
+      "gas:candidate-vibid:378300470572": 104,
+      "gas:candidate-vibid:1001000114003": 258,
+      "special:against-all": 110
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470433&region=0&sub_region=0&type=429",
@@ -5970,14 +5970,14 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 27,
-      "Говядовский Виктор Петрович": 10,
-      "Краузе Александр Анатольевич": 81,
-      "Селезнев Геннадий Николаевич": 566,
-      "Сидорин Сергей Валерьевич": 15,
-      "Табакова Елена Викторовна": 87,
-      "Хакамада Ирина Муцуовна": 249,
-      "Против всех": 105
+      "gas:candidate-vibid:1001000136163": 27,
+      "gas:candidate-vibid:378300470578": 10,
+      "gas:candidate-vibid:1001000121947": 81,
+      "gas:candidate-vibid:1001000190465": 566,
+      "gas:candidate-vibid:378300470566": 15,
+      "gas:candidate-vibid:378300470572": 87,
+      "gas:candidate-vibid:1001000114003": 249,
+      "special:against-all": 105
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470433&region=0&sub_region=0&type=429",
@@ -6027,14 +6027,14 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 46,
-      "Говядовский Виктор Петрович": 15,
-      "Краузе Александр Анатольевич": 74,
-      "Селезнев Геннадий Николаевич": 565,
-      "Сидорин Сергей Валерьевич": 19,
-      "Табакова Елена Викторовна": 117,
-      "Хакамада Ирина Муцуовна": 265,
-      "Против всех": 110
+      "gas:candidate-vibid:1001000136163": 46,
+      "gas:candidate-vibid:378300470578": 15,
+      "gas:candidate-vibid:1001000121947": 74,
+      "gas:candidate-vibid:1001000190465": 565,
+      "gas:candidate-vibid:378300470566": 19,
+      "gas:candidate-vibid:378300470572": 117,
+      "gas:candidate-vibid:1001000114003": 265,
+      "special:against-all": 110
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470433&region=0&sub_region=0&type=429",
@@ -6084,14 +6084,14 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 24,
-      "Говядовский Виктор Петрович": 9,
-      "Краузе Александр Анатольевич": 52,
-      "Селезнев Геннадий Николаевич": 583,
-      "Сидорин Сергей Валерьевич": 20,
-      "Табакова Елена Викторовна": 95,
-      "Хакамада Ирина Муцуовна": 218,
-      "Против всех": 127
+      "gas:candidate-vibid:1001000136163": 24,
+      "gas:candidate-vibid:378300470578": 9,
+      "gas:candidate-vibid:1001000121947": 52,
+      "gas:candidate-vibid:1001000190465": 583,
+      "gas:candidate-vibid:378300470566": 20,
+      "gas:candidate-vibid:378300470572": 95,
+      "gas:candidate-vibid:1001000114003": 218,
+      "special:against-all": 127
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470433&region=0&sub_region=0&type=429",
@@ -6141,14 +6141,14 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 48,
-      "Говядовский Виктор Петрович": 23,
-      "Краузе Александр Анатольевич": 69,
-      "Селезнев Геннадий Николаевич": 522,
-      "Сидорин Сергей Валерьевич": 37,
-      "Табакова Елена Викторовна": 117,
-      "Хакамада Ирина Муцуовна": 151,
-      "Против всех": 141
+      "gas:candidate-vibid:1001000136163": 48,
+      "gas:candidate-vibid:378300470578": 23,
+      "gas:candidate-vibid:1001000121947": 69,
+      "gas:candidate-vibid:1001000190465": 522,
+      "gas:candidate-vibid:378300470566": 37,
+      "gas:candidate-vibid:378300470572": 117,
+      "gas:candidate-vibid:1001000114003": 151,
+      "special:against-all": 141
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470433&region=0&sub_region=0&type=429",
@@ -6198,14 +6198,14 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 29,
-      "Говядовский Виктор Петрович": 21,
-      "Краузе Александр Анатольевич": 71,
-      "Селезнев Геннадий Николаевич": 494,
-      "Сидорин Сергей Валерьевич": 39,
-      "Табакова Елена Викторовна": 108,
-      "Хакамада Ирина Муцуовна": 199,
-      "Против всех": 139
+      "gas:candidate-vibid:1001000136163": 29,
+      "gas:candidate-vibid:378300470578": 21,
+      "gas:candidate-vibid:1001000121947": 71,
+      "gas:candidate-vibid:1001000190465": 494,
+      "gas:candidate-vibid:378300470566": 39,
+      "gas:candidate-vibid:378300470572": 108,
+      "gas:candidate-vibid:1001000114003": 199,
+      "special:against-all": 139
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470433&region=0&sub_region=0&type=429",
@@ -6255,14 +6255,14 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 35,
-      "Говядовский Виктор Петрович": 11,
-      "Краузе Александр Анатольевич": 61,
-      "Селезнев Геннадий Николаевич": 478,
-      "Сидорин Сергей Валерьевич": 29,
-      "Табакова Елена Викторовна": 99,
-      "Хакамада Ирина Муцуовна": 195,
-      "Против всех": 110
+      "gas:candidate-vibid:1001000136163": 35,
+      "gas:candidate-vibid:378300470578": 11,
+      "gas:candidate-vibid:1001000121947": 61,
+      "gas:candidate-vibid:1001000190465": 478,
+      "gas:candidate-vibid:378300470566": 29,
+      "gas:candidate-vibid:378300470572": 99,
+      "gas:candidate-vibid:1001000114003": 195,
+      "special:against-all": 110
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470433&region=0&sub_region=0&type=429",
@@ -6312,14 +6312,14 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 19,
-      "Говядовский Виктор Петрович": 14,
-      "Краузе Александр Анатольевич": 59,
-      "Селезнев Геннадий Николаевич": 480,
-      "Сидорин Сергей Валерьевич": 32,
-      "Табакова Елена Викторовна": 67,
-      "Хакамада Ирина Муцуовна": 181,
-      "Против всех": 121
+      "gas:candidate-vibid:1001000136163": 19,
+      "gas:candidate-vibid:378300470578": 14,
+      "gas:candidate-vibid:1001000121947": 59,
+      "gas:candidate-vibid:1001000190465": 480,
+      "gas:candidate-vibid:378300470566": 32,
+      "gas:candidate-vibid:378300470572": 67,
+      "gas:candidate-vibid:1001000114003": 181,
+      "special:against-all": 121
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470433&region=0&sub_region=0&type=429",
@@ -6369,14 +6369,14 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 30,
-      "Говядовский Виктор Петрович": 11,
-      "Краузе Александр Анатольевич": 70,
-      "Селезнев Геннадий Николаевич": 478,
-      "Сидорин Сергей Валерьевич": 28,
-      "Табакова Елена Викторовна": 66,
-      "Хакамада Ирина Муцуовна": 191,
-      "Против всех": 108
+      "gas:candidate-vibid:1001000136163": 30,
+      "gas:candidate-vibid:378300470578": 11,
+      "gas:candidate-vibid:1001000121947": 70,
+      "gas:candidate-vibid:1001000190465": 478,
+      "gas:candidate-vibid:378300470566": 28,
+      "gas:candidate-vibid:378300470572": 66,
+      "gas:candidate-vibid:1001000114003": 191,
+      "special:against-all": 108
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470433&region=0&sub_region=0&type=429",
@@ -6426,14 +6426,14 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 27,
-      "Говядовский Виктор Петрович": 8,
-      "Краузе Александр Анатольевич": 89,
-      "Селезнев Геннадий Николаевич": 447,
-      "Сидорин Сергей Валерьевич": 27,
-      "Табакова Елена Викторовна": 84,
-      "Хакамада Ирина Муцуовна": 219,
-      "Против всех": 145
+      "gas:candidate-vibid:1001000136163": 27,
+      "gas:candidate-vibid:378300470578": 8,
+      "gas:candidate-vibid:1001000121947": 89,
+      "gas:candidate-vibid:1001000190465": 447,
+      "gas:candidate-vibid:378300470566": 27,
+      "gas:candidate-vibid:378300470572": 84,
+      "gas:candidate-vibid:1001000114003": 219,
+      "special:against-all": 145
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470433&region=0&sub_region=0&type=429",
@@ -6483,14 +6483,14 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 38,
-      "Говядовский Виктор Петрович": 13,
-      "Краузе Александр Анатольевич": 57,
-      "Селезнев Геннадий Николаевич": 521,
-      "Сидорин Сергей Валерьевич": 32,
-      "Табакова Елена Викторовна": 93,
-      "Хакамада Ирина Муцуовна": 142,
-      "Против всех": 107
+      "gas:candidate-vibid:1001000136163": 38,
+      "gas:candidate-vibid:378300470578": 13,
+      "gas:candidate-vibid:1001000121947": 57,
+      "gas:candidate-vibid:1001000190465": 521,
+      "gas:candidate-vibid:378300470566": 32,
+      "gas:candidate-vibid:378300470572": 93,
+      "gas:candidate-vibid:1001000114003": 142,
+      "special:against-all": 107
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470433&region=0&sub_region=0&type=429",
@@ -6540,14 +6540,14 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 34,
-      "Говядовский Виктор Петрович": 15,
-      "Краузе Александр Анатольевич": 53,
-      "Селезнев Геннадий Николаевич": 474,
-      "Сидорин Сергей Валерьевич": 28,
-      "Табакова Елена Викторовна": 87,
-      "Хакамада Ирина Муцуовна": 162,
-      "Против всех": 125
+      "gas:candidate-vibid:1001000136163": 34,
+      "gas:candidate-vibid:378300470578": 15,
+      "gas:candidate-vibid:1001000121947": 53,
+      "gas:candidate-vibid:1001000190465": 474,
+      "gas:candidate-vibid:378300470566": 28,
+      "gas:candidate-vibid:378300470572": 87,
+      "gas:candidate-vibid:1001000114003": 162,
+      "special:against-all": 125
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470433&region=0&sub_region=0&type=429",
@@ -6597,14 +6597,14 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 54,
-      "Говядовский Виктор Петрович": 21,
-      "Краузе Александр Анатольевич": 71,
-      "Селезнев Геннадий Николаевич": 516,
-      "Сидорин Сергей Валерьевич": 37,
-      "Табакова Елена Викторовна": 108,
-      "Хакамада Ирина Муцуовна": 247,
-      "Против всех": 156
+      "gas:candidate-vibid:1001000136163": 54,
+      "gas:candidate-vibid:378300470578": 21,
+      "gas:candidate-vibid:1001000121947": 71,
+      "gas:candidate-vibid:1001000190465": 516,
+      "gas:candidate-vibid:378300470566": 37,
+      "gas:candidate-vibid:378300470572": 108,
+      "gas:candidate-vibid:1001000114003": 247,
+      "special:against-all": 156
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470433&region=0&sub_region=0&type=429",
@@ -6654,14 +6654,14 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 51,
-      "Говядовский Виктор Петрович": 29,
-      "Краузе Александр Анатольевич": 60,
-      "Селезнев Геннадий Николаевич": 526,
-      "Сидорин Сергей Валерьевич": 31,
-      "Табакова Елена Викторовна": 114,
-      "Хакамада Ирина Муцуовна": 339,
-      "Против всех": 169
+      "gas:candidate-vibid:1001000136163": 51,
+      "gas:candidate-vibid:378300470578": 29,
+      "gas:candidate-vibid:1001000121947": 60,
+      "gas:candidate-vibid:1001000190465": 526,
+      "gas:candidate-vibid:378300470566": 31,
+      "gas:candidate-vibid:378300470572": 114,
+      "gas:candidate-vibid:1001000114003": 339,
+      "special:against-all": 169
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470433&region=0&sub_region=0&type=429",
@@ -6711,14 +6711,14 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 41,
-      "Говядовский Виктор Петрович": 13,
-      "Краузе Александр Анатольевич": 75,
-      "Селезнев Геннадий Николаевич": 625,
-      "Сидорин Сергей Валерьевич": 29,
-      "Табакова Елена Викторовна": 108,
-      "Хакамада Ирина Муцуовна": 211,
-      "Против всех": 122
+      "gas:candidate-vibid:1001000136163": 41,
+      "gas:candidate-vibid:378300470578": 13,
+      "gas:candidate-vibid:1001000121947": 75,
+      "gas:candidate-vibid:1001000190465": 625,
+      "gas:candidate-vibid:378300470566": 29,
+      "gas:candidate-vibid:378300470572": 108,
+      "gas:candidate-vibid:1001000114003": 211,
+      "special:against-all": 122
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470433&region=0&sub_region=0&type=429",
@@ -6768,14 +6768,14 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 34,
-      "Говядовский Виктор Петрович": 16,
-      "Краузе Александр Анатольевич": 52,
-      "Селезнев Геннадий Николаевич": 533,
-      "Сидорин Сергей Валерьевич": 34,
-      "Табакова Елена Викторовна": 66,
-      "Хакамада Ирина Муцуовна": 236,
-      "Против всех": 135
+      "gas:candidate-vibid:1001000136163": 34,
+      "gas:candidate-vibid:378300470578": 16,
+      "gas:candidate-vibid:1001000121947": 52,
+      "gas:candidate-vibid:1001000190465": 533,
+      "gas:candidate-vibid:378300470566": 34,
+      "gas:candidate-vibid:378300470572": 66,
+      "gas:candidate-vibid:1001000114003": 236,
+      "special:against-all": 135
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470433&region=0&sub_region=0&type=429",
@@ -6825,14 +6825,14 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 25,
-      "Говядовский Виктор Петрович": 11,
-      "Краузе Александр Анатольевич": 66,
-      "Селезнев Геннадий Николаевич": 451,
-      "Сидорин Сергей Валерьевич": 14,
-      "Табакова Елена Викторовна": 57,
-      "Хакамада Ирина Муцуовна": 241,
-      "Против всех": 114
+      "gas:candidate-vibid:1001000136163": 25,
+      "gas:candidate-vibid:378300470578": 11,
+      "gas:candidate-vibid:1001000121947": 66,
+      "gas:candidate-vibid:1001000190465": 451,
+      "gas:candidate-vibid:378300470566": 14,
+      "gas:candidate-vibid:378300470572": 57,
+      "gas:candidate-vibid:1001000114003": 241,
+      "special:against-all": 114
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470433&region=0&sub_region=0&type=429",
@@ -6882,14 +6882,14 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 48,
-      "Говядовский Виктор Петрович": 18,
-      "Краузе Александр Анатольевич": 62,
-      "Селезнев Геннадий Николаевич": 627,
-      "Сидорин Сергей Валерьевич": 38,
-      "Табакова Елена Викторовна": 81,
-      "Хакамада Ирина Муцуовна": 203,
-      "Против всех": 125
+      "gas:candidate-vibid:1001000136163": 48,
+      "gas:candidate-vibid:378300470578": 18,
+      "gas:candidate-vibid:1001000121947": 62,
+      "gas:candidate-vibid:1001000190465": 627,
+      "gas:candidate-vibid:378300470566": 38,
+      "gas:candidate-vibid:378300470572": 81,
+      "gas:candidate-vibid:1001000114003": 203,
+      "special:against-all": 125
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470433&region=0&sub_region=0&type=429",
@@ -6939,14 +6939,14 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 48,
-      "Говядовский Виктор Петрович": 6,
-      "Краузе Александр Анатольевич": 63,
-      "Селезнев Геннадий Николаевич": 645,
-      "Сидорин Сергей Валерьевич": 29,
-      "Табакова Елена Викторовна": 104,
-      "Хакамада Ирина Муцуовна": 302,
-      "Против всех": 130
+      "gas:candidate-vibid:1001000136163": 48,
+      "gas:candidate-vibid:378300470578": 6,
+      "gas:candidate-vibid:1001000121947": 63,
+      "gas:candidate-vibid:1001000190465": 645,
+      "gas:candidate-vibid:378300470566": 29,
+      "gas:candidate-vibid:378300470572": 104,
+      "gas:candidate-vibid:1001000114003": 302,
+      "special:against-all": 130
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470433&region=0&sub_region=0&type=429",
@@ -6996,14 +6996,14 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 26,
-      "Говядовский Виктор Петрович": 21,
-      "Краузе Александр Анатольевич": 78,
-      "Селезнев Геннадий Николаевич": 618,
-      "Сидорин Сергей Валерьевич": 24,
-      "Табакова Елена Викторовна": 103,
-      "Хакамада Ирина Муцуовна": 245,
-      "Против всех": 145
+      "gas:candidate-vibid:1001000136163": 26,
+      "gas:candidate-vibid:378300470578": 21,
+      "gas:candidate-vibid:1001000121947": 78,
+      "gas:candidate-vibid:1001000190465": 618,
+      "gas:candidate-vibid:378300470566": 24,
+      "gas:candidate-vibid:378300470572": 103,
+      "gas:candidate-vibid:1001000114003": 245,
+      "special:against-all": 145
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470433&region=0&sub_region=0&type=429",
@@ -7053,14 +7053,14 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 39,
-      "Говядовский Виктор Петрович": 17,
-      "Краузе Александр Анатольевич": 75,
-      "Селезнев Геннадий Николаевич": 681,
-      "Сидорин Сергей Валерьевич": 13,
-      "Табакова Елена Викторовна": 104,
-      "Хакамада Ирина Муцуовна": 220,
-      "Против всех": 145
+      "gas:candidate-vibid:1001000136163": 39,
+      "gas:candidate-vibid:378300470578": 17,
+      "gas:candidate-vibid:1001000121947": 75,
+      "gas:candidate-vibid:1001000190465": 681,
+      "gas:candidate-vibid:378300470566": 13,
+      "gas:candidate-vibid:378300470572": 104,
+      "gas:candidate-vibid:1001000114003": 220,
+      "special:against-all": 145
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470433&region=0&sub_region=0&type=429",
@@ -7110,14 +7110,14 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 50,
-      "Говядовский Виктор Петрович": 13,
-      "Краузе Александр Анатольевич": 81,
-      "Селезнев Геннадий Николаевич": 726,
-      "Сидорин Сергей Валерьевич": 27,
-      "Табакова Елена Викторовна": 78,
-      "Хакамада Ирина Муцуовна": 227,
-      "Против всех": 133
+      "gas:candidate-vibid:1001000136163": 50,
+      "gas:candidate-vibid:378300470578": 13,
+      "gas:candidate-vibid:1001000121947": 81,
+      "gas:candidate-vibid:1001000190465": 726,
+      "gas:candidate-vibid:378300470566": 27,
+      "gas:candidate-vibid:378300470572": 78,
+      "gas:candidate-vibid:1001000114003": 227,
+      "special:against-all": 133
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470433&region=0&sub_region=0&type=429",
@@ -7167,14 +7167,14 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 35,
-      "Говядовский Виктор Петрович": 10,
-      "Краузе Александр Анатольевич": 73,
-      "Селезнев Геннадий Николаевич": 570,
-      "Сидорин Сергей Валерьевич": 16,
-      "Табакова Елена Викторовна": 75,
-      "Хакамада Ирина Муцуовна": 231,
-      "Против всех": 114
+      "gas:candidate-vibid:1001000136163": 35,
+      "gas:candidate-vibid:378300470578": 10,
+      "gas:candidate-vibid:1001000121947": 73,
+      "gas:candidate-vibid:1001000190465": 570,
+      "gas:candidate-vibid:378300470566": 16,
+      "gas:candidate-vibid:378300470572": 75,
+      "gas:candidate-vibid:1001000114003": 231,
+      "special:against-all": 114
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470433&region=0&sub_region=0&type=429",
@@ -7224,14 +7224,14 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 26,
-      "Говядовский Виктор Петрович": 17,
-      "Краузе Александр Анатольевич": 64,
-      "Селезнев Геннадий Николаевич": 466,
-      "Сидорин Сергей Валерьевич": 19,
-      "Табакова Елена Викторовна": 106,
-      "Хакамада Ирина Муцуовна": 217,
-      "Против всех": 135
+      "gas:candidate-vibid:1001000136163": 26,
+      "gas:candidate-vibid:378300470578": 17,
+      "gas:candidate-vibid:1001000121947": 64,
+      "gas:candidate-vibid:1001000190465": 466,
+      "gas:candidate-vibid:378300470566": 19,
+      "gas:candidate-vibid:378300470572": 106,
+      "gas:candidate-vibid:1001000114003": 217,
+      "special:against-all": 135
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470433&region=0&sub_region=0&type=429",
@@ -7281,14 +7281,14 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 42,
-      "Говядовский Виктор Петрович": 16,
-      "Краузе Александр Анатольевич": 60,
-      "Селезнев Геннадий Николаевич": 553,
-      "Сидорин Сергей Валерьевич": 38,
-      "Табакова Елена Викторовна": 85,
-      "Хакамада Ирина Муцуовна": 206,
-      "Против всех": 133
+      "gas:candidate-vibid:1001000136163": 42,
+      "gas:candidate-vibid:378300470578": 16,
+      "gas:candidate-vibid:1001000121947": 60,
+      "gas:candidate-vibid:1001000190465": 553,
+      "gas:candidate-vibid:378300470566": 38,
+      "gas:candidate-vibid:378300470572": 85,
+      "gas:candidate-vibid:1001000114003": 206,
+      "special:against-all": 133
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470433&region=0&sub_region=0&type=429",
@@ -7338,14 +7338,14 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 28,
-      "Говядовский Виктор Петрович": 13,
-      "Краузе Александр Анатольевич": 65,
-      "Селезнев Геннадий Николаевич": 489,
-      "Сидорин Сергей Валерьевич": 21,
-      "Табакова Елена Викторовна": 67,
-      "Хакамада Ирина Муцуовна": 207,
-      "Против всех": 105
+      "gas:candidate-vibid:1001000136163": 28,
+      "gas:candidate-vibid:378300470578": 13,
+      "gas:candidate-vibid:1001000121947": 65,
+      "gas:candidate-vibid:1001000190465": 489,
+      "gas:candidate-vibid:378300470566": 21,
+      "gas:candidate-vibid:378300470572": 67,
+      "gas:candidate-vibid:1001000114003": 207,
+      "special:against-all": 105
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470433&region=0&sub_region=0&type=429",
@@ -7395,14 +7395,14 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 44,
-      "Говядовский Виктор Петрович": 9,
-      "Краузе Александр Анатольевич": 56,
-      "Селезнев Геннадий Николаевич": 463,
-      "Сидорин Сергей Валерьевич": 18,
-      "Табакова Елена Викторовна": 73,
-      "Хакамада Ирина Муцуовна": 236,
-      "Против всех": 112
+      "gas:candidate-vibid:1001000136163": 44,
+      "gas:candidate-vibid:378300470578": 9,
+      "gas:candidate-vibid:1001000121947": 56,
+      "gas:candidate-vibid:1001000190465": 463,
+      "gas:candidate-vibid:378300470566": 18,
+      "gas:candidate-vibid:378300470572": 73,
+      "gas:candidate-vibid:1001000114003": 236,
+      "special:against-all": 112
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470433&region=0&sub_region=0&type=429",
@@ -7452,14 +7452,14 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 35,
-      "Говядовский Виктор Петрович": 21,
-      "Краузе Александр Анатольевич": 90,
-      "Селезнев Геннадий Николаевич": 513,
-      "Сидорин Сергей Валерьевич": 19,
-      "Табакова Елена Викторовна": 99,
-      "Хакамада Ирина Муцуовна": 189,
-      "Против всех": 104
+      "gas:candidate-vibid:1001000136163": 35,
+      "gas:candidate-vibid:378300470578": 21,
+      "gas:candidate-vibid:1001000121947": 90,
+      "gas:candidate-vibid:1001000190465": 513,
+      "gas:candidate-vibid:378300470566": 19,
+      "gas:candidate-vibid:378300470572": 99,
+      "gas:candidate-vibid:1001000114003": 189,
+      "special:against-all": 104
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470433&region=0&sub_region=0&type=429",
@@ -7509,14 +7509,14 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 36,
-      "Говядовский Виктор Петрович": 10,
-      "Краузе Александр Анатольевич": 39,
-      "Селезнев Геннадий Николаевич": 469,
-      "Сидорин Сергей Валерьевич": 39,
-      "Табакова Елена Викторовна": 77,
-      "Хакамада Ирина Муцуовна": 205,
-      "Против всех": 91
+      "gas:candidate-vibid:1001000136163": 36,
+      "gas:candidate-vibid:378300470578": 10,
+      "gas:candidate-vibid:1001000121947": 39,
+      "gas:candidate-vibid:1001000190465": 469,
+      "gas:candidate-vibid:378300470566": 39,
+      "gas:candidate-vibid:378300470572": 77,
+      "gas:candidate-vibid:1001000114003": 205,
+      "special:against-all": 91
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470433&region=0&sub_region=0&type=429",
@@ -7566,14 +7566,14 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 32,
-      "Говядовский Виктор Петрович": 23,
-      "Краузе Александр Анатольевич": 83,
-      "Селезнев Геннадий Николаевич": 629,
-      "Сидорин Сергей Валерьевич": 19,
-      "Табакова Елена Викторовна": 75,
-      "Хакамада Ирина Муцуовна": 197,
-      "Против всех": 140
+      "gas:candidate-vibid:1001000136163": 32,
+      "gas:candidate-vibid:378300470578": 23,
+      "gas:candidate-vibid:1001000121947": 83,
+      "gas:candidate-vibid:1001000190465": 629,
+      "gas:candidate-vibid:378300470566": 19,
+      "gas:candidate-vibid:378300470572": 75,
+      "gas:candidate-vibid:1001000114003": 197,
+      "special:against-all": 140
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470433&region=0&sub_region=0&type=429",
@@ -7623,14 +7623,14 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 34,
-      "Говядовский Виктор Петрович": 27,
-      "Краузе Александр Анатольевич": 57,
-      "Селезнев Геннадий Николаевич": 533,
-      "Сидорин Сергей Валерьевич": 29,
-      "Табакова Елена Викторовна": 76,
-      "Хакамада Ирина Муцуовна": 246,
-      "Против всех": 148
+      "gas:candidate-vibid:1001000136163": 34,
+      "gas:candidate-vibid:378300470578": 27,
+      "gas:candidate-vibid:1001000121947": 57,
+      "gas:candidate-vibid:1001000190465": 533,
+      "gas:candidate-vibid:378300470566": 29,
+      "gas:candidate-vibid:378300470572": 76,
+      "gas:candidate-vibid:1001000114003": 246,
+      "special:against-all": 148
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470433&region=0&sub_region=0&type=429",
@@ -7680,14 +7680,14 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 33,
-      "Говядовский Виктор Петрович": 12,
-      "Краузе Александр Анатольевич": 50,
-      "Селезнев Геннадий Николаевич": 708,
-      "Сидорин Сергей Валерьевич": 32,
-      "Табакова Елена Викторовна": 76,
-      "Хакамада Ирина Муцуовна": 181,
-      "Против всех": 122
+      "gas:candidate-vibid:1001000136163": 33,
+      "gas:candidate-vibid:378300470578": 12,
+      "gas:candidate-vibid:1001000121947": 50,
+      "gas:candidate-vibid:1001000190465": 708,
+      "gas:candidate-vibid:378300470566": 32,
+      "gas:candidate-vibid:378300470572": 76,
+      "gas:candidate-vibid:1001000114003": 181,
+      "special:against-all": 122
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470433&region=0&sub_region=0&type=429",
@@ -7737,14 +7737,14 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 33,
-      "Говядовский Виктор Петрович": 10,
-      "Краузе Александр Анатольевич": 45,
-      "Селезнев Геннадий Николаевич": 489,
-      "Сидорин Сергей Валерьевич": 18,
-      "Табакова Елена Викторовна": 94,
-      "Хакамада Ирина Муцуовна": 142,
-      "Против всех": 111
+      "gas:candidate-vibid:1001000136163": 33,
+      "gas:candidate-vibid:378300470578": 10,
+      "gas:candidate-vibid:1001000121947": 45,
+      "gas:candidate-vibid:1001000190465": 489,
+      "gas:candidate-vibid:378300470566": 18,
+      "gas:candidate-vibid:378300470572": 94,
+      "gas:candidate-vibid:1001000114003": 142,
+      "special:against-all": 111
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470433&region=0&sub_region=0&type=429",
@@ -7794,14 +7794,14 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 43,
-      "Говядовский Виктор Петрович": 13,
-      "Краузе Александр Анатольевич": 59,
-      "Селезнев Геннадий Николаевич": 553,
-      "Сидорин Сергей Валерьевич": 20,
-      "Табакова Елена Викторовна": 77,
-      "Хакамада Ирина Муцуовна": 160,
-      "Против всех": 145
+      "gas:candidate-vibid:1001000136163": 43,
+      "gas:candidate-vibid:378300470578": 13,
+      "gas:candidate-vibid:1001000121947": 59,
+      "gas:candidate-vibid:1001000190465": 553,
+      "gas:candidate-vibid:378300470566": 20,
+      "gas:candidate-vibid:378300470572": 77,
+      "gas:candidate-vibid:1001000114003": 160,
+      "special:against-all": 145
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470433&region=0&sub_region=0&type=429",
@@ -7851,14 +7851,14 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 45,
-      "Говядовский Виктор Петрович": 17,
-      "Краузе Александр Анатольевич": 74,
-      "Селезнев Геннадий Николаевич": 582,
-      "Сидорин Сергей Валерьевич": 24,
-      "Табакова Елена Викторовна": 87,
-      "Хакамада Ирина Муцуовна": 254,
-      "Против всех": 133
+      "gas:candidate-vibid:1001000136163": 45,
+      "gas:candidate-vibid:378300470578": 17,
+      "gas:candidate-vibid:1001000121947": 74,
+      "gas:candidate-vibid:1001000190465": 582,
+      "gas:candidate-vibid:378300470566": 24,
+      "gas:candidate-vibid:378300470572": 87,
+      "gas:candidate-vibid:1001000114003": 254,
+      "special:against-all": 133
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470433&region=0&sub_region=0&type=429",
@@ -7908,14 +7908,14 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 34,
-      "Говядовский Виктор Петрович": 20,
-      "Краузе Александр Анатольевич": 44,
-      "Селезнев Геннадий Николаевич": 523,
-      "Сидорин Сергей Валерьевич": 24,
-      "Табакова Елена Викторовна": 78,
-      "Хакамада Ирина Муцуовна": 255,
-      "Против всех": 117
+      "gas:candidate-vibid:1001000136163": 34,
+      "gas:candidate-vibid:378300470578": 20,
+      "gas:candidate-vibid:1001000121947": 44,
+      "gas:candidate-vibid:1001000190465": 523,
+      "gas:candidate-vibid:378300470566": 24,
+      "gas:candidate-vibid:378300470572": 78,
+      "gas:candidate-vibid:1001000114003": 255,
+      "special:against-all": 117
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470433&region=0&sub_region=0&type=429",
@@ -7965,14 +7965,14 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 27,
-      "Говядовский Виктор Петрович": 22,
-      "Краузе Александр Анатольевич": 60,
-      "Селезнев Геннадий Николаевич": 633,
-      "Сидорин Сергей Валерьевич": 29,
-      "Табакова Елена Викторовна": 76,
-      "Хакамада Ирина Муцуовна": 188,
-      "Против всех": 143
+      "gas:candidate-vibid:1001000136163": 27,
+      "gas:candidate-vibid:378300470578": 22,
+      "gas:candidate-vibid:1001000121947": 60,
+      "gas:candidate-vibid:1001000190465": 633,
+      "gas:candidate-vibid:378300470566": 29,
+      "gas:candidate-vibid:378300470572": 76,
+      "gas:candidate-vibid:1001000114003": 188,
+      "special:against-all": 143
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470433&region=0&sub_region=0&type=429",
@@ -8022,14 +8022,14 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 27,
-      "Говядовский Виктор Петрович": 20,
-      "Краузе Александр Анатольевич": 45,
-      "Селезнев Геннадий Николаевич": 507,
-      "Сидорин Сергей Валерьевич": 9,
-      "Табакова Елена Викторовна": 97,
-      "Хакамада Ирина Муцуовна": 185,
-      "Против всех": 135
+      "gas:candidate-vibid:1001000136163": 27,
+      "gas:candidate-vibid:378300470578": 20,
+      "gas:candidate-vibid:1001000121947": 45,
+      "gas:candidate-vibid:1001000190465": 507,
+      "gas:candidate-vibid:378300470566": 9,
+      "gas:candidate-vibid:378300470572": 97,
+      "gas:candidate-vibid:1001000114003": 185,
+      "special:against-all": 135
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470433&region=0&sub_region=0&type=429",
@@ -8079,14 +8079,14 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 31,
-      "Говядовский Виктор Петрович": 30,
-      "Краузе Александр Анатольевич": 57,
-      "Селезнев Геннадий Николаевич": 569,
-      "Сидорин Сергей Валерьевич": 19,
-      "Табакова Елена Викторовна": 72,
-      "Хакамада Ирина Муцуовна": 195,
-      "Против всех": 168
+      "gas:candidate-vibid:1001000136163": 31,
+      "gas:candidate-vibid:378300470578": 30,
+      "gas:candidate-vibid:1001000121947": 57,
+      "gas:candidate-vibid:1001000190465": 569,
+      "gas:candidate-vibid:378300470566": 19,
+      "gas:candidate-vibid:378300470572": 72,
+      "gas:candidate-vibid:1001000114003": 195,
+      "special:against-all": 168
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470433&region=0&sub_region=0&type=429",
@@ -8136,14 +8136,14 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 36,
-      "Говядовский Виктор Петрович": 40,
-      "Краузе Александр Анатольевич": 73,
-      "Селезнев Геннадий Николаевич": 575,
-      "Сидорин Сергей Валерьевич": 16,
-      "Табакова Елена Викторовна": 71,
-      "Хакамада Ирина Муцуовна": 201,
-      "Против всех": 138
+      "gas:candidate-vibid:1001000136163": 36,
+      "gas:candidate-vibid:378300470578": 40,
+      "gas:candidate-vibid:1001000121947": 73,
+      "gas:candidate-vibid:1001000190465": 575,
+      "gas:candidate-vibid:378300470566": 16,
+      "gas:candidate-vibid:378300470572": 71,
+      "gas:candidate-vibid:1001000114003": 201,
+      "special:against-all": 138
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470433&region=0&sub_region=0&type=429",
@@ -8193,14 +8193,14 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 41,
-      "Говядовский Виктор Петрович": 31,
-      "Краузе Александр Анатольевич": 50,
-      "Селезнев Геннадий Николаевич": 503,
-      "Сидорин Сергей Валерьевич": 24,
-      "Табакова Елена Викторовна": 73,
-      "Хакамада Ирина Муцуовна": 169,
-      "Против всех": 118
+      "gas:candidate-vibid:1001000136163": 41,
+      "gas:candidate-vibid:378300470578": 31,
+      "gas:candidate-vibid:1001000121947": 50,
+      "gas:candidate-vibid:1001000190465": 503,
+      "gas:candidate-vibid:378300470566": 24,
+      "gas:candidate-vibid:378300470572": 73,
+      "gas:candidate-vibid:1001000114003": 169,
+      "special:against-all": 118
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470433&region=0&sub_region=0&type=429",
@@ -8250,14 +8250,14 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 36,
-      "Говядовский Виктор Петрович": 38,
-      "Краузе Александр Анатольевич": 38,
-      "Селезнев Геннадий Николаевич": 438,
-      "Сидорин Сергей Валерьевич": 8,
-      "Табакова Елена Викторовна": 44,
-      "Хакамада Ирина Муцуовна": 133,
-      "Против всех": 95
+      "gas:candidate-vibid:1001000136163": 36,
+      "gas:candidate-vibid:378300470578": 38,
+      "gas:candidate-vibid:1001000121947": 38,
+      "gas:candidate-vibid:1001000190465": 438,
+      "gas:candidate-vibid:378300470566": 8,
+      "gas:candidate-vibid:378300470572": 44,
+      "gas:candidate-vibid:1001000114003": 133,
+      "special:against-all": 95
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470433&region=0&sub_region=0&type=429",
@@ -8307,14 +8307,14 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 46,
-      "Говядовский Виктор Петрович": 15,
-      "Краузе Александр Анатольевич": 52,
-      "Селезнев Геннадий Николаевич": 568,
-      "Сидорин Сергей Валерьевич": 20,
-      "Табакова Елена Викторовна": 88,
-      "Хакамада Ирина Муцуовна": 164,
-      "Против всех": 107
+      "gas:candidate-vibid:1001000136163": 46,
+      "gas:candidate-vibid:378300470578": 15,
+      "gas:candidate-vibid:1001000121947": 52,
+      "gas:candidate-vibid:1001000190465": 568,
+      "gas:candidate-vibid:378300470566": 20,
+      "gas:candidate-vibid:378300470572": 88,
+      "gas:candidate-vibid:1001000114003": 164,
+      "special:against-all": 107
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470433&region=0&sub_region=0&type=429",
@@ -8364,14 +8364,14 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 37,
-      "Говядовский Виктор Петрович": 16,
-      "Краузе Александр Анатольевич": 64,
-      "Селезнев Геннадий Николаевич": 510,
-      "Сидорин Сергей Валерьевич": 38,
-      "Табакова Елена Викторовна": 53,
-      "Хакамада Ирина Муцуовна": 149,
-      "Против всех": 101
+      "gas:candidate-vibid:1001000136163": 37,
+      "gas:candidate-vibid:378300470578": 16,
+      "gas:candidate-vibid:1001000121947": 64,
+      "gas:candidate-vibid:1001000190465": 510,
+      "gas:candidate-vibid:378300470566": 38,
+      "gas:candidate-vibid:378300470572": 53,
+      "gas:candidate-vibid:1001000114003": 149,
+      "special:against-all": 101
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470433&region=0&sub_region=0&type=429",
@@ -8421,14 +8421,14 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 41,
-      "Говядовский Виктор Петрович": 13,
-      "Краузе Александр Анатольевич": 60,
-      "Селезнев Геннадий Николаевич": 466,
-      "Сидорин Сергей Валерьевич": 45,
-      "Табакова Елена Викторовна": 55,
-      "Хакамада Ирина Муцуовна": 140,
-      "Против всех": 105
+      "gas:candidate-vibid:1001000136163": 41,
+      "gas:candidate-vibid:378300470578": 13,
+      "gas:candidate-vibid:1001000121947": 60,
+      "gas:candidate-vibid:1001000190465": 466,
+      "gas:candidate-vibid:378300470566": 45,
+      "gas:candidate-vibid:378300470572": 55,
+      "gas:candidate-vibid:1001000114003": 140,
+      "special:against-all": 105
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470433&region=0&sub_region=0&type=429",
@@ -8478,14 +8478,14 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 48,
-      "Говядовский Виктор Петрович": 8,
-      "Краузе Александр Анатольевич": 48,
-      "Селезнев Геннадий Николаевич": 455,
-      "Сидорин Сергей Валерьевич": 40,
-      "Табакова Елена Викторовна": 78,
-      "Хакамада Ирина Муцуовна": 154,
-      "Против всех": 129
+      "gas:candidate-vibid:1001000136163": 48,
+      "gas:candidate-vibid:378300470578": 8,
+      "gas:candidate-vibid:1001000121947": 48,
+      "gas:candidate-vibid:1001000190465": 455,
+      "gas:candidate-vibid:378300470566": 40,
+      "gas:candidate-vibid:378300470572": 78,
+      "gas:candidate-vibid:1001000114003": 154,
+      "special:against-all": 129
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470433&region=0&sub_region=0&type=429",
@@ -8535,14 +8535,14 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 37,
-      "Говядовский Виктор Петрович": 14,
-      "Краузе Александр Анатольевич": 60,
-      "Селезнев Геннадий Николаевич": 522,
-      "Сидорин Сергей Валерьевич": 49,
-      "Табакова Елена Викторовна": 85,
-      "Хакамада Ирина Муцуовна": 162,
-      "Против всех": 115
+      "gas:candidate-vibid:1001000136163": 37,
+      "gas:candidate-vibid:378300470578": 14,
+      "gas:candidate-vibid:1001000121947": 60,
+      "gas:candidate-vibid:1001000190465": 522,
+      "gas:candidate-vibid:378300470566": 49,
+      "gas:candidate-vibid:378300470572": 85,
+      "gas:candidate-vibid:1001000114003": 162,
+      "special:against-all": 115
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470433&region=0&sub_region=0&type=429",
@@ -8592,14 +8592,14 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 24,
-      "Говядовский Виктор Петрович": 9,
-      "Краузе Александр Анатольевич": 29,
-      "Селезнев Геннадий Николаевич": 351,
-      "Сидорин Сергей Валерьевич": 14,
-      "Табакова Елена Викторовна": 53,
-      "Хакамада Ирина Муцуовна": 143,
-      "Против всех": 74
+      "gas:candidate-vibid:1001000136163": 24,
+      "gas:candidate-vibid:378300470578": 9,
+      "gas:candidate-vibid:1001000121947": 29,
+      "gas:candidate-vibid:1001000190465": 351,
+      "gas:candidate-vibid:378300470566": 14,
+      "gas:candidate-vibid:378300470572": 53,
+      "gas:candidate-vibid:1001000114003": 143,
+      "special:against-all": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470433&region=0&sub_region=0&type=429",
@@ -8649,14 +8649,14 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 25,
-      "Говядовский Виктор Петрович": 11,
-      "Краузе Александр Анатольевич": 77,
-      "Селезнев Геннадий Николаевич": 641,
-      "Сидорин Сергей Валерьевич": 37,
-      "Табакова Елена Викторовна": 72,
-      "Хакамада Ирина Муцуовна": 245,
-      "Против всех": 144
+      "gas:candidate-vibid:1001000136163": 25,
+      "gas:candidate-vibid:378300470578": 11,
+      "gas:candidate-vibid:1001000121947": 77,
+      "gas:candidate-vibid:1001000190465": 641,
+      "gas:candidate-vibid:378300470566": 37,
+      "gas:candidate-vibid:378300470572": 72,
+      "gas:candidate-vibid:1001000114003": 245,
+      "special:against-all": 144
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470433&region=0&sub_region=0&type=429",
@@ -8706,14 +8706,14 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 38,
-      "Говядовский Виктор Петрович": 17,
-      "Краузе Александр Анатольевич": 51,
-      "Селезнев Геннадий Николаевич": 509,
-      "Сидорин Сергей Валерьевич": 19,
-      "Табакова Елена Викторовна": 69,
-      "Хакамада Ирина Муцуовна": 197,
-      "Против всех": 110
+      "gas:candidate-vibid:1001000136163": 38,
+      "gas:candidate-vibid:378300470578": 17,
+      "gas:candidate-vibid:1001000121947": 51,
+      "gas:candidate-vibid:1001000190465": 509,
+      "gas:candidate-vibid:378300470566": 19,
+      "gas:candidate-vibid:378300470572": 69,
+      "gas:candidate-vibid:1001000114003": 197,
+      "special:against-all": 110
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470433&region=0&sub_region=0&type=429",
@@ -8763,14 +8763,14 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 21,
-      "Говядовский Виктор Петрович": 9,
-      "Краузе Александр Анатольевич": 51,
-      "Селезнев Геннадий Николаевич": 531,
-      "Сидорин Сергей Валерьевич": 28,
-      "Табакова Елена Викторовна": 40,
-      "Хакамада Ирина Муцуовна": 159,
-      "Против всех": 83
+      "gas:candidate-vibid:1001000136163": 21,
+      "gas:candidate-vibid:378300470578": 9,
+      "gas:candidate-vibid:1001000121947": 51,
+      "gas:candidate-vibid:1001000190465": 531,
+      "gas:candidate-vibid:378300470566": 28,
+      "gas:candidate-vibid:378300470572": 40,
+      "gas:candidate-vibid:1001000114003": 159,
+      "special:against-all": 83
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470433&region=0&sub_region=0&type=429",
@@ -8820,14 +8820,14 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 25,
-      "Говядовский Виктор Петрович": 12,
-      "Краузе Александр Анатольевич": 50,
-      "Селезнев Геннадий Николаевич": 491,
-      "Сидорин Сергей Валерьевич": 14,
-      "Табакова Елена Викторовна": 83,
-      "Хакамада Ирина Муцуовна": 175,
-      "Против всех": 132
+      "gas:candidate-vibid:1001000136163": 25,
+      "gas:candidate-vibid:378300470578": 12,
+      "gas:candidate-vibid:1001000121947": 50,
+      "gas:candidate-vibid:1001000190465": 491,
+      "gas:candidate-vibid:378300470566": 14,
+      "gas:candidate-vibid:378300470572": 83,
+      "gas:candidate-vibid:1001000114003": 175,
+      "special:against-all": 132
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470433&region=0&sub_region=0&type=429",
@@ -8877,14 +8877,14 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 26,
-      "Говядовский Виктор Петрович": 6,
-      "Краузе Александр Анатольевич": 62,
-      "Селезнев Геннадий Николаевич": 577,
-      "Сидорин Сергей Валерьевич": 9,
-      "Табакова Елена Викторовна": 61,
-      "Хакамада Ирина Муцуовна": 170,
-      "Против всех": 94
+      "gas:candidate-vibid:1001000136163": 26,
+      "gas:candidate-vibid:378300470578": 6,
+      "gas:candidate-vibid:1001000121947": 62,
+      "gas:candidate-vibid:1001000190465": 577,
+      "gas:candidate-vibid:378300470566": 9,
+      "gas:candidate-vibid:378300470572": 61,
+      "gas:candidate-vibid:1001000114003": 170,
+      "special:against-all": 94
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470433&region=0&sub_region=0&type=429",
@@ -8934,14 +8934,14 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 31,
-      "Говядовский Виктор Петрович": 11,
-      "Краузе Александр Анатольевич": 30,
-      "Селезнев Геннадий Николаевич": 509,
-      "Сидорин Сергей Валерьевич": 14,
-      "Табакова Елена Викторовна": 72,
-      "Хакамада Ирина Муцуовна": 139,
-      "Против всех": 145
+      "gas:candidate-vibid:1001000136163": 31,
+      "gas:candidate-vibid:378300470578": 11,
+      "gas:candidate-vibid:1001000121947": 30,
+      "gas:candidate-vibid:1001000190465": 509,
+      "gas:candidate-vibid:378300470566": 14,
+      "gas:candidate-vibid:378300470572": 72,
+      "gas:candidate-vibid:1001000114003": 139,
+      "special:against-all": 145
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470433&region=0&sub_region=0&type=429",
@@ -8991,14 +8991,14 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 28,
-      "Говядовский Виктор Петрович": 18,
-      "Краузе Александр Анатольевич": 59,
-      "Селезнев Геннадий Николаевич": 479,
-      "Сидорин Сергей Валерьевич": 13,
-      "Табакова Елена Викторовна": 57,
-      "Хакамада Ирина Муцуовна": 203,
-      "Против всех": 92
+      "gas:candidate-vibid:1001000136163": 28,
+      "gas:candidate-vibid:378300470578": 18,
+      "gas:candidate-vibid:1001000121947": 59,
+      "gas:candidate-vibid:1001000190465": 479,
+      "gas:candidate-vibid:378300470566": 13,
+      "gas:candidate-vibid:378300470572": 57,
+      "gas:candidate-vibid:1001000114003": 203,
+      "special:against-all": 92
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470433&region=0&sub_region=0&type=429",
@@ -9048,14 +9048,14 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 20,
-      "Говядовский Виктор Петрович": 9,
-      "Краузе Александр Анатольевич": 54,
-      "Селезнев Геннадий Николаевич": 588,
-      "Сидорин Сергей Валерьевич": 32,
-      "Табакова Елена Викторовна": 33,
-      "Хакамада Ирина Муцуовна": 183,
-      "Против всех": 122
+      "gas:candidate-vibid:1001000136163": 20,
+      "gas:candidate-vibid:378300470578": 9,
+      "gas:candidate-vibid:1001000121947": 54,
+      "gas:candidate-vibid:1001000190465": 588,
+      "gas:candidate-vibid:378300470566": 32,
+      "gas:candidate-vibid:378300470572": 33,
+      "gas:candidate-vibid:1001000114003": 183,
+      "special:against-all": 122
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470433&region=0&sub_region=0&type=429",
@@ -9105,14 +9105,14 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 26,
-      "Говядовский Виктор Петрович": 17,
-      "Краузе Александр Анатольевич": 42,
-      "Селезнев Геннадий Николаевич": 501,
-      "Сидорин Сергей Валерьевич": 18,
-      "Табакова Елена Викторовна": 74,
-      "Хакамада Ирина Муцуовна": 188,
-      "Против всех": 92
+      "gas:candidate-vibid:1001000136163": 26,
+      "gas:candidate-vibid:378300470578": 17,
+      "gas:candidate-vibid:1001000121947": 42,
+      "gas:candidate-vibid:1001000190465": 501,
+      "gas:candidate-vibid:378300470566": 18,
+      "gas:candidate-vibid:378300470572": 74,
+      "gas:candidate-vibid:1001000114003": 188,
+      "special:against-all": 92
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470433&region=0&sub_region=0&type=429",
@@ -9162,14 +9162,14 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 25,
-      "Говядовский Виктор Петрович": 10,
-      "Краузе Александр Анатольевич": 37,
-      "Селезнев Геннадий Николаевич": 337,
-      "Сидорин Сергей Валерьевич": 15,
-      "Табакова Елена Викторовна": 38,
-      "Хакамада Ирина Муцуовна": 124,
-      "Против всех": 93
+      "gas:candidate-vibid:1001000136163": 25,
+      "gas:candidate-vibid:378300470578": 10,
+      "gas:candidate-vibid:1001000121947": 37,
+      "gas:candidate-vibid:1001000190465": 337,
+      "gas:candidate-vibid:378300470566": 15,
+      "gas:candidate-vibid:378300470572": 38,
+      "gas:candidate-vibid:1001000114003": 124,
+      "special:against-all": 93
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470433&region=0&sub_region=0&type=429",
@@ -9219,14 +9219,14 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 27,
-      "Говядовский Виктор Петрович": 15,
-      "Краузе Александр Анатольевич": 71,
-      "Селезнев Геннадий Николаевич": 616,
-      "Сидорин Сергей Валерьевич": 30,
-      "Табакова Елена Викторовна": 80,
-      "Хакамада Ирина Муцуовна": 183,
-      "Против всех": 111
+      "gas:candidate-vibid:1001000136163": 27,
+      "gas:candidate-vibid:378300470578": 15,
+      "gas:candidate-vibid:1001000121947": 71,
+      "gas:candidate-vibid:1001000190465": 616,
+      "gas:candidate-vibid:378300470566": 30,
+      "gas:candidate-vibid:378300470572": 80,
+      "gas:candidate-vibid:1001000114003": 183,
+      "special:against-all": 111
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470433&region=0&sub_region=0&type=429",
@@ -9276,14 +9276,14 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 28,
-      "Говядовский Виктор Петрович": 9,
-      "Краузе Александр Анатольевич": 49,
-      "Селезнев Геннадий Николаевич": 540,
-      "Сидорин Сергей Валерьевич": 40,
-      "Табакова Елена Викторовна": 65,
-      "Хакамада Ирина Муцуовна": 141,
-      "Против всех": 115
+      "gas:candidate-vibid:1001000136163": 28,
+      "gas:candidate-vibid:378300470578": 9,
+      "gas:candidate-vibid:1001000121947": 49,
+      "gas:candidate-vibid:1001000190465": 540,
+      "gas:candidate-vibid:378300470566": 40,
+      "gas:candidate-vibid:378300470572": 65,
+      "gas:candidate-vibid:1001000114003": 141,
+      "special:against-all": 115
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470433&region=0&sub_region=0&type=429",
@@ -9333,14 +9333,14 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 22,
-      "Говядовский Виктор Петрович": 13,
-      "Краузе Александр Анатольевич": 53,
-      "Селезнев Геннадий Николаевич": 599,
-      "Сидорин Сергей Валерьевич": 34,
-      "Табакова Елена Викторовна": 60,
-      "Хакамада Ирина Муцуовна": 188,
-      "Против всех": 121
+      "gas:candidate-vibid:1001000136163": 22,
+      "gas:candidate-vibid:378300470578": 13,
+      "gas:candidate-vibid:1001000121947": 53,
+      "gas:candidate-vibid:1001000190465": 599,
+      "gas:candidate-vibid:378300470566": 34,
+      "gas:candidate-vibid:378300470572": 60,
+      "gas:candidate-vibid:1001000114003": 188,
+      "special:against-all": 121
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470433&region=0&sub_region=0&type=429",
@@ -9390,14 +9390,14 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 20,
-      "Говядовский Виктор Петрович": 5,
-      "Краузе Александр Анатольевич": 47,
-      "Селезнев Геннадий Николаевич": 410,
-      "Сидорин Сергей Валерьевич": 34,
-      "Табакова Елена Викторовна": 71,
-      "Хакамада Ирина Муцуовна": 131,
-      "Против всех": 75
+      "gas:candidate-vibid:1001000136163": 20,
+      "gas:candidate-vibid:378300470578": 5,
+      "gas:candidate-vibid:1001000121947": 47,
+      "gas:candidate-vibid:1001000190465": 410,
+      "gas:candidate-vibid:378300470566": 34,
+      "gas:candidate-vibid:378300470572": 71,
+      "gas:candidate-vibid:1001000114003": 131,
+      "special:against-all": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470433&region=0&sub_region=0&type=429",
@@ -9447,14 +9447,14 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 20,
-      "Говядовский Виктор Петрович": 9,
-      "Краузе Александр Анатольевич": 50,
-      "Селезнев Геннадий Николаевич": 432,
-      "Сидорин Сергей Валерьевич": 41,
-      "Табакова Елена Викторовна": 66,
-      "Хакамада Ирина Муцуовна": 156,
-      "Против всех": 120
+      "gas:candidate-vibid:1001000136163": 20,
+      "gas:candidate-vibid:378300470578": 9,
+      "gas:candidate-vibid:1001000121947": 50,
+      "gas:candidate-vibid:1001000190465": 432,
+      "gas:candidate-vibid:378300470566": 41,
+      "gas:candidate-vibid:378300470572": 66,
+      "gas:candidate-vibid:1001000114003": 156,
+      "special:against-all": 120
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470433&region=0&sub_region=0&type=429",
@@ -9504,14 +9504,14 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 19,
-      "Говядовский Виктор Петрович": 10,
-      "Краузе Александр Анатольевич": 47,
-      "Селезнев Геннадий Николаевич": 636,
-      "Сидорин Сергей Валерьевич": 32,
-      "Табакова Елена Викторовна": 75,
-      "Хакамада Ирина Муцуовна": 235,
-      "Против всех": 90
+      "gas:candidate-vibid:1001000136163": 19,
+      "gas:candidate-vibid:378300470578": 10,
+      "gas:candidate-vibid:1001000121947": 47,
+      "gas:candidate-vibid:1001000190465": 636,
+      "gas:candidate-vibid:378300470566": 32,
+      "gas:candidate-vibid:378300470572": 75,
+      "gas:candidate-vibid:1001000114003": 235,
+      "special:against-all": 90
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470433&region=0&sub_region=0&type=429",
@@ -9561,14 +9561,14 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 40,
-      "Говядовский Виктор Петрович": 26,
-      "Краузе Александр Анатольевич": 83,
-      "Селезнев Геннадий Николаевич": 670,
-      "Сидорин Сергей Валерьевич": 91,
-      "Табакова Елена Викторовна": 98,
-      "Хакамада Ирина Муцуовна": 257,
-      "Против всех": 166
+      "gas:candidate-vibid:1001000136163": 40,
+      "gas:candidate-vibid:378300470578": 26,
+      "gas:candidate-vibid:1001000121947": 83,
+      "gas:candidate-vibid:1001000190465": 670,
+      "gas:candidate-vibid:378300470566": 91,
+      "gas:candidate-vibid:378300470572": 98,
+      "gas:candidate-vibid:1001000114003": 257,
+      "special:against-all": 166
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470433&region=0&sub_region=0&type=429",
@@ -9618,14 +9618,14 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 39,
-      "Говядовский Виктор Петрович": 13,
-      "Краузе Александр Анатольевич": 40,
-      "Селезнев Геннадий Николаевич": 492,
-      "Сидорин Сергей Валерьевич": 42,
-      "Табакова Елена Викторовна": 76,
-      "Хакамада Ирина Муцуовна": 246,
-      "Против всех": 126
+      "gas:candidate-vibid:1001000136163": 39,
+      "gas:candidate-vibid:378300470578": 13,
+      "gas:candidate-vibid:1001000121947": 40,
+      "gas:candidate-vibid:1001000190465": 492,
+      "gas:candidate-vibid:378300470566": 42,
+      "gas:candidate-vibid:378300470572": 76,
+      "gas:candidate-vibid:1001000114003": 246,
+      "special:against-all": 126
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470433&region=0&sub_region=0&type=429",
@@ -9675,14 +9675,14 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 1,
-      "Говядовский Виктор Петрович": 1,
-      "Краузе Александр Анатольевич": 3,
-      "Селезнев Геннадий Николаевич": 45,
-      "Сидорин Сергей Валерьевич": 4,
-      "Табакова Елена Викторовна": 7,
-      "Хакамада Ирина Муцуовна": 26,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000136163": 1,
+      "gas:candidate-vibid:378300470578": 1,
+      "gas:candidate-vibid:1001000121947": 3,
+      "gas:candidate-vibid:1001000190465": 45,
+      "gas:candidate-vibid:378300470566": 4,
+      "gas:candidate-vibid:378300470572": 7,
+      "gas:candidate-vibid:1001000114003": 26,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470433&region=0&sub_region=0&type=429",
@@ -9732,14 +9732,14 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 33,
-      "Говядовский Виктор Петрович": 21,
-      "Краузе Александр Анатольевич": 56,
-      "Селезнев Геннадий Николаевич": 196,
-      "Сидорин Сергей Валерьевич": 22,
-      "Табакова Елена Викторовна": 97,
-      "Хакамада Ирина Муцуовна": 695,
-      "Против всех": 174
+      "gas:candidate-vibid:1001000136163": 33,
+      "gas:candidate-vibid:378300470578": 21,
+      "gas:candidate-vibid:1001000121947": 56,
+      "gas:candidate-vibid:1001000190465": 196,
+      "gas:candidate-vibid:378300470566": 22,
+      "gas:candidate-vibid:378300470572": 97,
+      "gas:candidate-vibid:1001000114003": 695,
+      "special:against-all": 174
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470433&region=0&sub_region=0&type=429",
@@ -9789,14 +9789,14 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 37,
-      "Говядовский Виктор Петрович": 31,
-      "Краузе Александр Анатольевич": 64,
-      "Селезнев Геннадий Николаевич": 291,
-      "Сидорин Сергей Валерьевич": 28,
-      "Табакова Елена Викторовна": 151,
-      "Хакамада Ирина Муцуовна": 1475,
-      "Против всех": 182
+      "gas:candidate-vibid:1001000136163": 37,
+      "gas:candidate-vibid:378300470578": 31,
+      "gas:candidate-vibid:1001000121947": 64,
+      "gas:candidate-vibid:1001000190465": 291,
+      "gas:candidate-vibid:378300470566": 28,
+      "gas:candidate-vibid:378300470572": 151,
+      "gas:candidate-vibid:1001000114003": 1475,
+      "special:against-all": 182
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470433&region=0&sub_region=0&type=429",
@@ -9846,14 +9846,14 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 11,
-      "Говядовский Виктор Петрович": 11,
-      "Краузе Александр Анатольевич": 42,
-      "Селезнев Геннадий Николаевич": 99,
-      "Сидорин Сергей Валерьевич": 10,
-      "Табакова Елена Викторовна": 63,
-      "Хакамада Ирина Муцуовна": 476,
-      "Против всех": 78
+      "gas:candidate-vibid:1001000136163": 11,
+      "gas:candidate-vibid:378300470578": 11,
+      "gas:candidate-vibid:1001000121947": 42,
+      "gas:candidate-vibid:1001000190465": 99,
+      "gas:candidate-vibid:378300470566": 10,
+      "gas:candidate-vibid:378300470572": 63,
+      "gas:candidate-vibid:1001000114003": 476,
+      "special:against-all": 78
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470433&region=0&sub_region=0&type=429",
@@ -9903,14 +9903,14 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Елена Владимировна": 6,
-      "Говядовский Виктор Петрович": 2,
-      "Краузе Александр Анатольевич": 19,
-      "Селезнев Геннадий Николаевич": 20,
-      "Сидорин Сергей Валерьевич": 0,
-      "Табакова Елена Викторовна": 16,
-      "Хакамада Ирина Муцуовна": 154,
-      "Против всех": 41
+      "gas:candidate-vibid:1001000136163": 6,
+      "gas:candidate-vibid:378300470578": 2,
+      "gas:candidate-vibid:1001000121947": 19,
+      "gas:candidate-vibid:1001000190465": 20,
+      "gas:candidate-vibid:378300470566": 0,
+      "gas:candidate-vibid:378300470572": 16,
+      "gas:candidate-vibid:1001000114003": 154,
+      "special:against-all": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300470433&region=0&sub_region=0&type=429",
@@ -9960,19 +9960,19 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альев Георгий Анатольевич": 40,
-      "Вострецов Сергей Алексеевич": 10,
-      "Голов Анатолий Григорьевич": 50,
-      "Гуляев Сергей Владимирович": 29,
-      "Дашков Павел Петрович": 9,
-      "Киркин Владимир Иннокентьевич": 1,
-      "Комиссаров Тарас Юрьевич": 10,
-      "Кривенченко Анатолий Николаевич": 45,
-      "Морозов Игорь Вячеславович": 7,
-      "Прянишников Сергей Викторович": 5,
-      "Романцов Владимир Анатольевич": 6,
-      "Шевелев Андрей Владимирович": 132,
-      "Против всех": 66
+      "gas:candidate-vibid:378300570405": 40,
+      "gas:candidate-vibid:1001000190467": 10,
+      "gas:candidate-vibid:1001000112285": 50,
+      "gas:candidate-vibid:1001000114004": 29,
+      "gas:candidate-vibid:378300570532": 9,
+      "gas:candidate-vibid:1001000195179": 1,
+      "gas:candidate-vibid:1001000136164": 10,
+      "gas:candidate-vibid:1001000188029": 45,
+      "gas:candidate-vibid:278200070547": 7,
+      "gas:candidate-vibid:378300570408": 5,
+      "gas:candidate-vibid:378300570582": 6,
+      "gas:candidate-vibid:1001000226019": 132,
+      "special:against-all": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783005001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300570632&region=0&sub_region=0&type=429",
@@ -10022,19 +10022,19 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альев Георгий Анатольевич": 53,
-      "Вострецов Сергей Алексеевич": 12,
-      "Голов Анатолий Григорьевич": 76,
-      "Гуляев Сергей Владимирович": 53,
-      "Дашков Павел Петрович": 22,
-      "Киркин Владимир Иннокентьевич": 4,
-      "Комиссаров Тарас Юрьевич": 26,
-      "Кривенченко Анатолий Николаевич": 48,
-      "Морозов Игорь Вячеславович": 5,
-      "Прянишников Сергей Викторович": 8,
-      "Романцов Владимир Анатольевич": 8,
-      "Шевелев Андрей Владимирович": 136,
-      "Против всех": 89
+      "gas:candidate-vibid:378300570405": 53,
+      "gas:candidate-vibid:1001000190467": 12,
+      "gas:candidate-vibid:1001000112285": 76,
+      "gas:candidate-vibid:1001000114004": 53,
+      "gas:candidate-vibid:378300570532": 22,
+      "gas:candidate-vibid:1001000195179": 4,
+      "gas:candidate-vibid:1001000136164": 26,
+      "gas:candidate-vibid:1001000188029": 48,
+      "gas:candidate-vibid:278200070547": 5,
+      "gas:candidate-vibid:378300570408": 8,
+      "gas:candidate-vibid:378300570582": 8,
+      "gas:candidate-vibid:1001000226019": 136,
+      "special:against-all": 89
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783005001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300570632&region=0&sub_region=0&type=429",
@@ -10084,19 +10084,19 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альев Георгий Анатольевич": 186,
-      "Вострецов Сергей Алексеевич": 22,
-      "Голов Анатолий Григорьевич": 101,
-      "Гуляев Сергей Владимирович": 96,
-      "Дашков Павел Петрович": 15,
-      "Киркин Владимир Иннокентьевич": 5,
-      "Комиссаров Тарас Юрьевич": 37,
-      "Кривенченко Анатолий Николаевич": 89,
-      "Морозов Игорь Вячеславович": 3,
-      "Прянишников Сергей Викторович": 7,
-      "Романцов Владимир Анатольевич": 2,
-      "Шевелев Андрей Владимирович": 193,
-      "Против всех": 111
+      "gas:candidate-vibid:378300570405": 186,
+      "gas:candidate-vibid:1001000190467": 22,
+      "gas:candidate-vibid:1001000112285": 101,
+      "gas:candidate-vibid:1001000114004": 96,
+      "gas:candidate-vibid:378300570532": 15,
+      "gas:candidate-vibid:1001000195179": 5,
+      "gas:candidate-vibid:1001000136164": 37,
+      "gas:candidate-vibid:1001000188029": 89,
+      "gas:candidate-vibid:278200070547": 3,
+      "gas:candidate-vibid:378300570408": 7,
+      "gas:candidate-vibid:378300570582": 2,
+      "gas:candidate-vibid:1001000226019": 193,
+      "special:against-all": 111
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783005001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300570632&region=0&sub_region=0&type=429",
@@ -10146,19 +10146,19 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альев Георгий Анатольевич": 89,
-      "Вострецов Сергей Алексеевич": 26,
-      "Голов Анатолий Григорьевич": 124,
-      "Гуляев Сергей Владимирович": 114,
-      "Дашков Павел Петрович": 49,
-      "Киркин Владимир Иннокентьевич": 7,
-      "Комиссаров Тарас Юрьевич": 25,
-      "Кривенченко Анатолий Николаевич": 86,
-      "Морозов Игорь Вячеславович": 21,
-      "Прянишников Сергей Викторович": 8,
-      "Романцов Владимир Анатольевич": 14,
-      "Шевелев Андрей Владимирович": 178,
-      "Против всех": 111
+      "gas:candidate-vibid:378300570405": 89,
+      "gas:candidate-vibid:1001000190467": 26,
+      "gas:candidate-vibid:1001000112285": 124,
+      "gas:candidate-vibid:1001000114004": 114,
+      "gas:candidate-vibid:378300570532": 49,
+      "gas:candidate-vibid:1001000195179": 7,
+      "gas:candidate-vibid:1001000136164": 25,
+      "gas:candidate-vibid:1001000188029": 86,
+      "gas:candidate-vibid:278200070547": 21,
+      "gas:candidate-vibid:378300570408": 8,
+      "gas:candidate-vibid:378300570582": 14,
+      "gas:candidate-vibid:1001000226019": 178,
+      "special:against-all": 111
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783005001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300570632&region=0&sub_region=0&type=429",
@@ -10208,19 +10208,19 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альев Георгий Анатольевич": 121,
-      "Вострецов Сергей Алексеевич": 18,
-      "Голов Анатолий Григорьевич": 125,
-      "Гуляев Сергей Владимирович": 87,
-      "Дашков Павел Петрович": 82,
-      "Киркин Владимир Иннокентьевич": 2,
-      "Комиссаров Тарас Юрьевич": 13,
-      "Кривенченко Анатолий Николаевич": 106,
-      "Морозов Игорь Вячеславович": 14,
-      "Прянишников Сергей Викторович": 14,
-      "Романцов Владимир Анатольевич": 11,
-      "Шевелев Андрей Владимирович": 128,
-      "Против всех": 109
+      "gas:candidate-vibid:378300570405": 121,
+      "gas:candidate-vibid:1001000190467": 18,
+      "gas:candidate-vibid:1001000112285": 125,
+      "gas:candidate-vibid:1001000114004": 87,
+      "gas:candidate-vibid:378300570532": 82,
+      "gas:candidate-vibid:1001000195179": 2,
+      "gas:candidate-vibid:1001000136164": 13,
+      "gas:candidate-vibid:1001000188029": 106,
+      "gas:candidate-vibid:278200070547": 14,
+      "gas:candidate-vibid:378300570408": 14,
+      "gas:candidate-vibid:378300570582": 11,
+      "gas:candidate-vibid:1001000226019": 128,
+      "special:against-all": 109
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783005001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300570632&region=0&sub_region=0&type=429",
@@ -10270,19 +10270,19 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альев Георгий Анатольевич": 82,
-      "Вострецов Сергей Алексеевич": 18,
-      "Голов Анатолий Григорьевич": 146,
-      "Гуляев Сергей Владимирович": 84,
-      "Дашков Павел Петрович": 88,
-      "Киркин Владимир Иннокентьевич": 8,
-      "Комиссаров Тарас Юрьевич": 24,
-      "Кривенченко Анатолий Николаевич": 80,
-      "Морозов Игорь Вячеславович": 21,
-      "Прянишников Сергей Викторович": 8,
-      "Романцов Владимир Анатольевич": 10,
-      "Шевелев Андрей Владимирович": 165,
-      "Против всех": 104
+      "gas:candidate-vibid:378300570405": 82,
+      "gas:candidate-vibid:1001000190467": 18,
+      "gas:candidate-vibid:1001000112285": 146,
+      "gas:candidate-vibid:1001000114004": 84,
+      "gas:candidate-vibid:378300570532": 88,
+      "gas:candidate-vibid:1001000195179": 8,
+      "gas:candidate-vibid:1001000136164": 24,
+      "gas:candidate-vibid:1001000188029": 80,
+      "gas:candidate-vibid:278200070547": 21,
+      "gas:candidate-vibid:378300570408": 8,
+      "gas:candidate-vibid:378300570582": 10,
+      "gas:candidate-vibid:1001000226019": 165,
+      "special:against-all": 104
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783005001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300570632&region=0&sub_region=0&type=429",
@@ -10332,19 +10332,19 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альев Георгий Анатольевич": 148,
-      "Вострецов Сергей Алексеевич": 52,
-      "Голов Анатолий Григорьевич": 159,
-      "Гуляев Сергей Владимирович": 96,
-      "Дашков Павел Петрович": 74,
-      "Киркин Владимир Иннокентьевич": 12,
-      "Комиссаров Тарас Юрьевич": 51,
-      "Кривенченко Анатолий Николаевич": 181,
-      "Морозов Игорь Вячеславович": 29,
-      "Прянишников Сергей Викторович": 14,
-      "Романцов Владимир Анатольевич": 17,
-      "Шевелев Андрей Владимирович": 284,
-      "Против всех": 206
+      "gas:candidate-vibid:378300570405": 148,
+      "gas:candidate-vibid:1001000190467": 52,
+      "gas:candidate-vibid:1001000112285": 159,
+      "gas:candidate-vibid:1001000114004": 96,
+      "gas:candidate-vibid:378300570532": 74,
+      "gas:candidate-vibid:1001000195179": 12,
+      "gas:candidate-vibid:1001000136164": 51,
+      "gas:candidate-vibid:1001000188029": 181,
+      "gas:candidate-vibid:278200070547": 29,
+      "gas:candidate-vibid:378300570408": 14,
+      "gas:candidate-vibid:378300570582": 17,
+      "gas:candidate-vibid:1001000226019": 284,
+      "special:against-all": 206
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783005001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300570632&region=0&sub_region=0&type=429",
@@ -10394,19 +10394,19 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альев Георгий Анатольевич": 116,
-      "Вострецов Сергей Алексеевич": 47,
-      "Голов Анатолий Григорьевич": 138,
-      "Гуляев Сергей Владимирович": 118,
-      "Дашков Павел Петрович": 115,
-      "Киркин Владимир Иннокентьевич": 14,
-      "Комиссаров Тарас Юрьевич": 41,
-      "Кривенченко Анатолий Николаевич": 165,
-      "Морозов Игорь Вячеславович": 26,
-      "Прянишников Сергей Викторович": 13,
-      "Романцов Владимир Анатольевич": 14,
-      "Шевелев Андрей Владимирович": 265,
-      "Против всех": 179
+      "gas:candidate-vibid:378300570405": 116,
+      "gas:candidate-vibid:1001000190467": 47,
+      "gas:candidate-vibid:1001000112285": 138,
+      "gas:candidate-vibid:1001000114004": 118,
+      "gas:candidate-vibid:378300570532": 115,
+      "gas:candidate-vibid:1001000195179": 14,
+      "gas:candidate-vibid:1001000136164": 41,
+      "gas:candidate-vibid:1001000188029": 165,
+      "gas:candidate-vibid:278200070547": 26,
+      "gas:candidate-vibid:378300570408": 13,
+      "gas:candidate-vibid:378300570582": 14,
+      "gas:candidate-vibid:1001000226019": 265,
+      "special:against-all": 179
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783005001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300570632&region=0&sub_region=0&type=429",
@@ -10456,19 +10456,19 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альев Георгий Анатольевич": 114,
-      "Вострецов Сергей Алексеевич": 29,
-      "Голов Анатолий Григорьевич": 121,
-      "Гуляев Сергей Владимирович": 127,
-      "Дашков Павел Петрович": 59,
-      "Киркин Владимир Иннокентьевич": 2,
-      "Комиссаров Тарас Юрьевич": 30,
-      "Кривенченко Анатолий Николаевич": 143,
-      "Морозов Игорь Вячеславович": 17,
-      "Прянишников Сергей Викторович": 14,
-      "Романцов Владимир Анатольевич": 19,
-      "Шевелев Андрей Владимирович": 257,
-      "Против всех": 166
+      "gas:candidate-vibid:378300570405": 114,
+      "gas:candidate-vibid:1001000190467": 29,
+      "gas:candidate-vibid:1001000112285": 121,
+      "gas:candidate-vibid:1001000114004": 127,
+      "gas:candidate-vibid:378300570532": 59,
+      "gas:candidate-vibid:1001000195179": 2,
+      "gas:candidate-vibid:1001000136164": 30,
+      "gas:candidate-vibid:1001000188029": 143,
+      "gas:candidate-vibid:278200070547": 17,
+      "gas:candidate-vibid:378300570408": 14,
+      "gas:candidate-vibid:378300570582": 19,
+      "gas:candidate-vibid:1001000226019": 257,
+      "special:against-all": 166
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783005001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300570632&region=0&sub_region=0&type=429",
@@ -10518,19 +10518,19 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альев Георгий Анатольевич": 86,
-      "Вострецов Сергей Алексеевич": 38,
-      "Голов Анатолий Григорьевич": 151,
-      "Гуляев Сергей Владимирович": 104,
-      "Дашков Павел Петрович": 54,
-      "Киркин Владимир Иннокентьевич": 3,
-      "Комиссаров Тарас Юрьевич": 35,
-      "Кривенченко Анатолий Николаевич": 122,
-      "Морозов Игорь Вячеславович": 22,
-      "Прянишников Сергей Викторович": 15,
-      "Романцов Владимир Анатольевич": 9,
-      "Шевелев Андрей Владимирович": 218,
-      "Против всех": 143
+      "gas:candidate-vibid:378300570405": 86,
+      "gas:candidate-vibid:1001000190467": 38,
+      "gas:candidate-vibid:1001000112285": 151,
+      "gas:candidate-vibid:1001000114004": 104,
+      "gas:candidate-vibid:378300570532": 54,
+      "gas:candidate-vibid:1001000195179": 3,
+      "gas:candidate-vibid:1001000136164": 35,
+      "gas:candidate-vibid:1001000188029": 122,
+      "gas:candidate-vibid:278200070547": 22,
+      "gas:candidate-vibid:378300570408": 15,
+      "gas:candidate-vibid:378300570582": 9,
+      "gas:candidate-vibid:1001000226019": 218,
+      "special:against-all": 143
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783005001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300570632&region=0&sub_region=0&type=429",
@@ -10580,19 +10580,19 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альев Георгий Анатольевич": 105,
-      "Вострецов Сергей Алексеевич": 34,
-      "Голов Анатолий Григорьевич": 125,
-      "Гуляев Сергей Владимирович": 119,
-      "Дашков Павел Петрович": 86,
-      "Киркин Владимир Иннокентьевич": 9,
-      "Комиссаров Тарас Юрьевич": 33,
-      "Кривенченко Анатолий Николаевич": 153,
-      "Морозов Игорь Вячеславович": 12,
-      "Прянишников Сергей Викторович": 12,
-      "Романцов Владимир Анатольевич": 11,
-      "Шевелев Андрей Владимирович": 230,
-      "Против всех": 141
+      "gas:candidate-vibid:378300570405": 105,
+      "gas:candidate-vibid:1001000190467": 34,
+      "gas:candidate-vibid:1001000112285": 125,
+      "gas:candidate-vibid:1001000114004": 119,
+      "gas:candidate-vibid:378300570532": 86,
+      "gas:candidate-vibid:1001000195179": 9,
+      "gas:candidate-vibid:1001000136164": 33,
+      "gas:candidate-vibid:1001000188029": 153,
+      "gas:candidate-vibid:278200070547": 12,
+      "gas:candidate-vibid:378300570408": 12,
+      "gas:candidate-vibid:378300570582": 11,
+      "gas:candidate-vibid:1001000226019": 230,
+      "special:against-all": 141
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783005001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300570632&region=0&sub_region=0&type=429",
@@ -10642,19 +10642,19 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альев Георгий Анатольевич": 84,
-      "Вострецов Сергей Алексеевич": 23,
-      "Голов Анатолий Григорьевич": 122,
-      "Гуляев Сергей Владимирович": 96,
-      "Дашков Павел Петрович": 97,
-      "Киркин Владимир Иннокентьевич": 2,
-      "Комиссаров Тарас Юрьевич": 23,
-      "Кривенченко Анатолий Николаевич": 139,
-      "Морозов Игорь Вячеславович": 17,
-      "Прянишников Сергей Викторович": 15,
-      "Романцов Владимир Анатольевич": 11,
-      "Шевелев Андрей Владимирович": 206,
-      "Против всех": 161
+      "gas:candidate-vibid:378300570405": 84,
+      "gas:candidate-vibid:1001000190467": 23,
+      "gas:candidate-vibid:1001000112285": 122,
+      "gas:candidate-vibid:1001000114004": 96,
+      "gas:candidate-vibid:378300570532": 97,
+      "gas:candidate-vibid:1001000195179": 2,
+      "gas:candidate-vibid:1001000136164": 23,
+      "gas:candidate-vibid:1001000188029": 139,
+      "gas:candidate-vibid:278200070547": 17,
+      "gas:candidate-vibid:378300570408": 15,
+      "gas:candidate-vibid:378300570582": 11,
+      "gas:candidate-vibid:1001000226019": 206,
+      "special:against-all": 161
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783005001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300570632&region=0&sub_region=0&type=429",
@@ -10704,19 +10704,19 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альев Георгий Анатольевич": 96,
-      "Вострецов Сергей Алексеевич": 25,
-      "Голов Анатолий Григорьевич": 112,
-      "Гуляев Сергей Владимирович": 111,
-      "Дашков Павел Петрович": 78,
-      "Киркин Владимир Иннокентьевич": 7,
-      "Комиссаров Тарас Юрьевич": 27,
-      "Кривенченко Анатолий Николаевич": 122,
-      "Морозов Игорь Вячеславович": 21,
-      "Прянишников Сергей Викторович": 9,
-      "Романцов Владимир Анатольевич": 12,
-      "Шевелев Андрей Владимирович": 173,
-      "Против всех": 130
+      "gas:candidate-vibid:378300570405": 96,
+      "gas:candidate-vibid:1001000190467": 25,
+      "gas:candidate-vibid:1001000112285": 112,
+      "gas:candidate-vibid:1001000114004": 111,
+      "gas:candidate-vibid:378300570532": 78,
+      "gas:candidate-vibid:1001000195179": 7,
+      "gas:candidate-vibid:1001000136164": 27,
+      "gas:candidate-vibid:1001000188029": 122,
+      "gas:candidate-vibid:278200070547": 21,
+      "gas:candidate-vibid:378300570408": 9,
+      "gas:candidate-vibid:378300570582": 12,
+      "gas:candidate-vibid:1001000226019": 173,
+      "special:against-all": 130
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783005001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300570632&region=0&sub_region=0&type=429",
@@ -10766,19 +10766,19 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альев Георгий Анатольевич": 62,
-      "Вострецов Сергей Алексеевич": 30,
-      "Голов Анатолий Григорьевич": 97,
-      "Гуляев Сергей Владимирович": 89,
-      "Дашков Павел Петрович": 136,
-      "Киркин Владимир Иннокентьевич": 10,
-      "Комиссаров Тарас Юрьевич": 43,
-      "Кривенченко Анатолий Николаевич": 151,
-      "Морозов Игорь Вячеславович": 23,
-      "Прянишников Сергей Викторович": 9,
-      "Романцов Владимир Анатольевич": 21,
-      "Шевелев Андрей Владимирович": 211,
-      "Против всех": 164
+      "gas:candidate-vibid:378300570405": 62,
+      "gas:candidate-vibid:1001000190467": 30,
+      "gas:candidate-vibid:1001000112285": 97,
+      "gas:candidate-vibid:1001000114004": 89,
+      "gas:candidate-vibid:378300570532": 136,
+      "gas:candidate-vibid:1001000195179": 10,
+      "gas:candidate-vibid:1001000136164": 43,
+      "gas:candidate-vibid:1001000188029": 151,
+      "gas:candidate-vibid:278200070547": 23,
+      "gas:candidate-vibid:378300570408": 9,
+      "gas:candidate-vibid:378300570582": 21,
+      "gas:candidate-vibid:1001000226019": 211,
+      "special:against-all": 164
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783005001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300570632&region=0&sub_region=0&type=429",
@@ -10828,19 +10828,19 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альев Георгий Анатольевич": 47,
-      "Вострецов Сергей Алексеевич": 18,
-      "Голов Анатолий Григорьевич": 117,
-      "Гуляев Сергей Владимирович": 89,
-      "Дашков Павел Петрович": 54,
-      "Киркин Владимир Иннокентьевич": 4,
-      "Комиссаров Тарас Юрьевич": 17,
-      "Кривенченко Анатолий Николаевич": 91,
-      "Морозов Игорь Вячеславович": 17,
-      "Прянишников Сергей Викторович": 2,
-      "Романцов Владимир Анатольевич": 15,
-      "Шевелев Андрей Владимирович": 160,
-      "Против всех": 100
+      "gas:candidate-vibid:378300570405": 47,
+      "gas:candidate-vibid:1001000190467": 18,
+      "gas:candidate-vibid:1001000112285": 117,
+      "gas:candidate-vibid:1001000114004": 89,
+      "gas:candidate-vibid:378300570532": 54,
+      "gas:candidate-vibid:1001000195179": 4,
+      "gas:candidate-vibid:1001000136164": 17,
+      "gas:candidate-vibid:1001000188029": 91,
+      "gas:candidate-vibid:278200070547": 17,
+      "gas:candidate-vibid:378300570408": 2,
+      "gas:candidate-vibid:378300570582": 15,
+      "gas:candidate-vibid:1001000226019": 160,
+      "special:against-all": 100
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783005001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300570632&region=0&sub_region=0&type=429",
@@ -10890,19 +10890,19 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альев Георгий Анатольевич": 109,
-      "Вострецов Сергей Алексеевич": 27,
-      "Голов Анатолий Григорьевич": 130,
-      "Гуляев Сергей Владимирович": 101,
-      "Дашков Павел Петрович": 83,
-      "Киркин Владимир Иннокентьевич": 7,
-      "Комиссаров Тарас Юрьевич": 23,
-      "Кривенченко Анатолий Николаевич": 155,
-      "Морозов Игорь Вячеславович": 23,
-      "Прянишников Сергей Викторович": 11,
-      "Романцов Владимир Анатольевич": 11,
-      "Шевелев Андрей Владимирович": 170,
-      "Против всех": 99
+      "gas:candidate-vibid:378300570405": 109,
+      "gas:candidate-vibid:1001000190467": 27,
+      "gas:candidate-vibid:1001000112285": 130,
+      "gas:candidate-vibid:1001000114004": 101,
+      "gas:candidate-vibid:378300570532": 83,
+      "gas:candidate-vibid:1001000195179": 7,
+      "gas:candidate-vibid:1001000136164": 23,
+      "gas:candidate-vibid:1001000188029": 155,
+      "gas:candidate-vibid:278200070547": 23,
+      "gas:candidate-vibid:378300570408": 11,
+      "gas:candidate-vibid:378300570582": 11,
+      "gas:candidate-vibid:1001000226019": 170,
+      "special:against-all": 99
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783005001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300570632&region=0&sub_region=0&type=429",
@@ -10952,19 +10952,19 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альев Георгий Анатольевич": 103,
-      "Вострецов Сергей Алексеевич": 38,
-      "Голов Анатолий Григорьевич": 196,
-      "Гуляев Сергей Владимирович": 136,
-      "Дашков Павел Петрович": 164,
-      "Киркин Владимир Иннокентьевич": 10,
-      "Комиссаров Тарас Юрьевич": 27,
-      "Кривенченко Анатолий Николаевич": 222,
-      "Морозов Игорь Вячеславович": 14,
-      "Прянишников Сергей Викторович": 13,
-      "Романцов Владимир Анатольевич": 16,
-      "Шевелев Андрей Владимирович": 228,
-      "Против всех": 231
+      "gas:candidate-vibid:378300570405": 103,
+      "gas:candidate-vibid:1001000190467": 38,
+      "gas:candidate-vibid:1001000112285": 196,
+      "gas:candidate-vibid:1001000114004": 136,
+      "gas:candidate-vibid:378300570532": 164,
+      "gas:candidate-vibid:1001000195179": 10,
+      "gas:candidate-vibid:1001000136164": 27,
+      "gas:candidate-vibid:1001000188029": 222,
+      "gas:candidate-vibid:278200070547": 14,
+      "gas:candidate-vibid:378300570408": 13,
+      "gas:candidate-vibid:378300570582": 16,
+      "gas:candidate-vibid:1001000226019": 228,
+      "special:against-all": 231
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783005001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300570632&region=0&sub_region=0&type=429",
@@ -11014,19 +11014,19 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альев Георгий Анатольевич": 152,
-      "Вострецов Сергей Алексеевич": 45,
-      "Голов Анатолий Григорьевич": 181,
-      "Гуляев Сергей Владимирович": 136,
-      "Дашков Павел Петрович": 116,
-      "Киркин Владимир Иннокентьевич": 7,
-      "Комиссаров Тарас Юрьевич": 39,
-      "Кривенченко Анатолий Николаевич": 160,
-      "Морозов Игорь Вячеславович": 16,
-      "Прянишников Сергей Викторович": 17,
-      "Романцов Владимир Анатольевич": 15,
-      "Шевелев Андрей Владимирович": 257,
-      "Против всех": 209
+      "gas:candidate-vibid:378300570405": 152,
+      "gas:candidate-vibid:1001000190467": 45,
+      "gas:candidate-vibid:1001000112285": 181,
+      "gas:candidate-vibid:1001000114004": 136,
+      "gas:candidate-vibid:378300570532": 116,
+      "gas:candidate-vibid:1001000195179": 7,
+      "gas:candidate-vibid:1001000136164": 39,
+      "gas:candidate-vibid:1001000188029": 160,
+      "gas:candidate-vibid:278200070547": 16,
+      "gas:candidate-vibid:378300570408": 17,
+      "gas:candidate-vibid:378300570582": 15,
+      "gas:candidate-vibid:1001000226019": 257,
+      "special:against-all": 209
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783005001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300570632&region=0&sub_region=0&type=429",
@@ -11076,19 +11076,19 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альев Георгий Анатольевич": 92,
-      "Вострецов Сергей Алексеевич": 30,
-      "Голов Анатолий Григорьевич": 126,
-      "Гуляев Сергей Владимирович": 82,
-      "Дашков Павел Петрович": 136,
-      "Киркин Владимир Иннокентьевич": 4,
-      "Комиссаров Тарас Юрьевич": 22,
-      "Кривенченко Анатолий Николаевич": 111,
-      "Морозов Игорь Вячеславович": 82,
-      "Прянишников Сергей Викторович": 15,
-      "Романцов Владимир Анатольевич": 10,
-      "Шевелев Андрей Владимирович": 201,
-      "Против всех": 164
+      "gas:candidate-vibid:378300570405": 92,
+      "gas:candidate-vibid:1001000190467": 30,
+      "gas:candidate-vibid:1001000112285": 126,
+      "gas:candidate-vibid:1001000114004": 82,
+      "gas:candidate-vibid:378300570532": 136,
+      "gas:candidate-vibid:1001000195179": 4,
+      "gas:candidate-vibid:1001000136164": 22,
+      "gas:candidate-vibid:1001000188029": 111,
+      "gas:candidate-vibid:278200070547": 82,
+      "gas:candidate-vibid:378300570408": 15,
+      "gas:candidate-vibid:378300570582": 10,
+      "gas:candidate-vibid:1001000226019": 201,
+      "special:against-all": 164
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783005001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300570632&region=0&sub_region=0&type=429",
@@ -11138,19 +11138,19 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альев Георгий Анатольевич": 79,
-      "Вострецов Сергей Алексеевич": 16,
-      "Голов Анатолий Григорьевич": 226,
-      "Гуляев Сергей Владимирович": 83,
-      "Дашков Павел Петрович": 107,
-      "Киркин Владимир Иннокентьевич": 8,
-      "Комиссаров Тарас Юрьевич": 23,
-      "Кривенченко Анатолий Николаевич": 119,
-      "Морозов Игорь Вячеславович": 29,
-      "Прянишников Сергей Викторович": 22,
-      "Романцов Владимир Анатольевич": 17,
-      "Шевелев Андрей Владимирович": 218,
-      "Против всех": 174
+      "gas:candidate-vibid:378300570405": 79,
+      "gas:candidate-vibid:1001000190467": 16,
+      "gas:candidate-vibid:1001000112285": 226,
+      "gas:candidate-vibid:1001000114004": 83,
+      "gas:candidate-vibid:378300570532": 107,
+      "gas:candidate-vibid:1001000195179": 8,
+      "gas:candidate-vibid:1001000136164": 23,
+      "gas:candidate-vibid:1001000188029": 119,
+      "gas:candidate-vibid:278200070547": 29,
+      "gas:candidate-vibid:378300570408": 22,
+      "gas:candidate-vibid:378300570582": 17,
+      "gas:candidate-vibid:1001000226019": 218,
+      "special:against-all": 174
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783005001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300570632&region=0&sub_region=0&type=429",
@@ -11200,19 +11200,19 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альев Георгий Анатольевич": 87,
-      "Вострецов Сергей Алексеевич": 40,
-      "Голов Анатолий Григорьевич": 138,
-      "Гуляев Сергей Владимирович": 91,
-      "Дашков Павел Петрович": 44,
-      "Киркин Владимир Иннокентьевич": 10,
-      "Комиссаров Тарас Юрьевич": 36,
-      "Кривенченко Анатолий Николаевич": 119,
-      "Морозов Игорь Вячеславович": 23,
-      "Прянишников Сергей Викторович": 17,
-      "Романцов Владимир Анатольевич": 10,
-      "Шевелев Андрей Владимирович": 224,
-      "Против всех": 131
+      "gas:candidate-vibid:378300570405": 87,
+      "gas:candidate-vibid:1001000190467": 40,
+      "gas:candidate-vibid:1001000112285": 138,
+      "gas:candidate-vibid:1001000114004": 91,
+      "gas:candidate-vibid:378300570532": 44,
+      "gas:candidate-vibid:1001000195179": 10,
+      "gas:candidate-vibid:1001000136164": 36,
+      "gas:candidate-vibid:1001000188029": 119,
+      "gas:candidate-vibid:278200070547": 23,
+      "gas:candidate-vibid:378300570408": 17,
+      "gas:candidate-vibid:378300570582": 10,
+      "gas:candidate-vibid:1001000226019": 224,
+      "special:against-all": 131
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783005001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300570632&region=0&sub_region=0&type=429",
@@ -11262,19 +11262,19 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альев Георгий Анатольевич": 173,
-      "Вострецов Сергей Алексеевич": 24,
-      "Голов Анатолий Григорьевич": 130,
-      "Гуляев Сергей Владимирович": 115,
-      "Дашков Павел Петрович": 52,
-      "Киркин Владимир Иннокентьевич": 6,
-      "Комиссаров Тарас Юрьевич": 27,
-      "Кривенченко Анатолий Николаевич": 87,
-      "Морозов Игорь Вячеславович": 40,
-      "Прянишников Сергей Викторович": 12,
-      "Романцов Владимир Анатольевич": 9,
-      "Шевелев Андрей Владимирович": 186,
-      "Против всех": 144
+      "gas:candidate-vibid:378300570405": 173,
+      "gas:candidate-vibid:1001000190467": 24,
+      "gas:candidate-vibid:1001000112285": 130,
+      "gas:candidate-vibid:1001000114004": 115,
+      "gas:candidate-vibid:378300570532": 52,
+      "gas:candidate-vibid:1001000195179": 6,
+      "gas:candidate-vibid:1001000136164": 27,
+      "gas:candidate-vibid:1001000188029": 87,
+      "gas:candidate-vibid:278200070547": 40,
+      "gas:candidate-vibid:378300570408": 12,
+      "gas:candidate-vibid:378300570582": 9,
+      "gas:candidate-vibid:1001000226019": 186,
+      "special:against-all": 144
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783005001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300570632&region=0&sub_region=0&type=429",
@@ -11324,19 +11324,19 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альев Георгий Анатольевич": 142,
-      "Вострецов Сергей Алексеевич": 34,
-      "Голов Анатолий Григорьевич": 172,
-      "Гуляев Сергей Владимирович": 113,
-      "Дашков Павел Петрович": 125,
-      "Киркин Владимир Иннокентьевич": 2,
-      "Комиссаров Тарас Юрьевич": 33,
-      "Кривенченко Анатолий Николаевич": 167,
-      "Морозов Игорь Вячеславович": 35,
-      "Прянишников Сергей Викторович": 25,
-      "Романцов Владимир Анатольевич": 34,
-      "Шевелев Андрей Владимирович": 246,
-      "Против всех": 217
+      "gas:candidate-vibid:378300570405": 142,
+      "gas:candidate-vibid:1001000190467": 34,
+      "gas:candidate-vibid:1001000112285": 172,
+      "gas:candidate-vibid:1001000114004": 113,
+      "gas:candidate-vibid:378300570532": 125,
+      "gas:candidate-vibid:1001000195179": 2,
+      "gas:candidate-vibid:1001000136164": 33,
+      "gas:candidate-vibid:1001000188029": 167,
+      "gas:candidate-vibid:278200070547": 35,
+      "gas:candidate-vibid:378300570408": 25,
+      "gas:candidate-vibid:378300570582": 34,
+      "gas:candidate-vibid:1001000226019": 246,
+      "special:against-all": 217
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783005001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300570632&region=0&sub_region=0&type=429",
@@ -11386,19 +11386,19 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альев Георгий Анатольевич": 135,
-      "Вострецов Сергей Алексеевич": 13,
-      "Голов Анатолий Григорьевич": 130,
-      "Гуляев Сергей Владимирович": 138,
-      "Дашков Павел Петрович": 78,
-      "Киркин Владимир Иннокентьевич": 8,
-      "Комиссаров Тарас Юрьевич": 23,
-      "Кривенченко Анатолий Николаевич": 80,
-      "Морозов Игорь Вячеславович": 7,
-      "Прянишников Сергей Викторович": 14,
-      "Романцов Владимир Анатольевич": 10,
-      "Шевелев Андрей Владимирович": 173,
-      "Против всех": 142
+      "gas:candidate-vibid:378300570405": 135,
+      "gas:candidate-vibid:1001000190467": 13,
+      "gas:candidate-vibid:1001000112285": 130,
+      "gas:candidate-vibid:1001000114004": 138,
+      "gas:candidate-vibid:378300570532": 78,
+      "gas:candidate-vibid:1001000195179": 8,
+      "gas:candidate-vibid:1001000136164": 23,
+      "gas:candidate-vibid:1001000188029": 80,
+      "gas:candidate-vibid:278200070547": 7,
+      "gas:candidate-vibid:378300570408": 14,
+      "gas:candidate-vibid:378300570582": 10,
+      "gas:candidate-vibid:1001000226019": 173,
+      "special:against-all": 142
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783005001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300570632&region=0&sub_region=0&type=429",
@@ -11448,19 +11448,19 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альев Георгий Анатольевич": 98,
-      "Вострецов Сергей Алексеевич": 19,
-      "Голов Анатолий Григорьевич": 164,
-      "Гуляев Сергей Владимирович": 78,
-      "Дашков Павел Петрович": 59,
-      "Киркин Владимир Иннокентьевич": 4,
-      "Комиссаров Тарас Юрьевич": 24,
-      "Кривенченко Анатолий Николаевич": 130,
-      "Морозов Игорь Вячеславович": 19,
-      "Прянишников Сергей Викторович": 13,
-      "Романцов Владимир Анатольевич": 14,
-      "Шевелев Андрей Владимирович": 169,
-      "Против всех": 136
+      "gas:candidate-vibid:378300570405": 98,
+      "gas:candidate-vibid:1001000190467": 19,
+      "gas:candidate-vibid:1001000112285": 164,
+      "gas:candidate-vibid:1001000114004": 78,
+      "gas:candidate-vibid:378300570532": 59,
+      "gas:candidate-vibid:1001000195179": 4,
+      "gas:candidate-vibid:1001000136164": 24,
+      "gas:candidate-vibid:1001000188029": 130,
+      "gas:candidate-vibid:278200070547": 19,
+      "gas:candidate-vibid:378300570408": 13,
+      "gas:candidate-vibid:378300570582": 14,
+      "gas:candidate-vibid:1001000226019": 169,
+      "special:against-all": 136
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783005001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300570632&region=0&sub_region=0&type=429",
@@ -11510,19 +11510,19 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альев Георгий Анатольевич": 131,
-      "Вострецов Сергей Алексеевич": 39,
-      "Голов Анатолий Григорьевич": 207,
-      "Гуляев Сергей Владимирович": 188,
-      "Дашков Павел Петрович": 62,
-      "Киркин Владимир Иннокентьевич": 11,
-      "Комиссаров Тарас Юрьевич": 27,
-      "Кривенченко Анатолий Николаевич": 125,
-      "Морозов Игорь Вячеславович": 9,
-      "Прянишников Сергей Викторович": 19,
-      "Романцов Владимир Анатольевич": 16,
-      "Шевелев Андрей Владимирович": 198,
-      "Против всех": 192
+      "gas:candidate-vibid:378300570405": 131,
+      "gas:candidate-vibid:1001000190467": 39,
+      "gas:candidate-vibid:1001000112285": 207,
+      "gas:candidate-vibid:1001000114004": 188,
+      "gas:candidate-vibid:378300570532": 62,
+      "gas:candidate-vibid:1001000195179": 11,
+      "gas:candidate-vibid:1001000136164": 27,
+      "gas:candidate-vibid:1001000188029": 125,
+      "gas:candidate-vibid:278200070547": 9,
+      "gas:candidate-vibid:378300570408": 19,
+      "gas:candidate-vibid:378300570582": 16,
+      "gas:candidate-vibid:1001000226019": 198,
+      "special:against-all": 192
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783005001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300570632&region=0&sub_region=0&type=429",
@@ -11572,19 +11572,19 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альев Георгий Анатольевич": 97,
-      "Вострецов Сергей Алексеевич": 28,
-      "Голов Анатолий Григорьевич": 146,
-      "Гуляев Сергей Владимирович": 102,
-      "Дашков Павел Петрович": 36,
-      "Киркин Владимир Иннокентьевич": 8,
-      "Комиссаров Тарас Юрьевич": 24,
-      "Кривенченко Анатолий Николаевич": 99,
-      "Морозов Игорь Вячеславович": 15,
-      "Прянишников Сергей Викторович": 12,
-      "Романцов Владимир Анатольевич": 13,
-      "Шевелев Андрей Владимирович": 208,
-      "Против всех": 164
+      "gas:candidate-vibid:378300570405": 97,
+      "gas:candidate-vibid:1001000190467": 28,
+      "gas:candidate-vibid:1001000112285": 146,
+      "gas:candidate-vibid:1001000114004": 102,
+      "gas:candidate-vibid:378300570532": 36,
+      "gas:candidate-vibid:1001000195179": 8,
+      "gas:candidate-vibid:1001000136164": 24,
+      "gas:candidate-vibid:1001000188029": 99,
+      "gas:candidate-vibid:278200070547": 15,
+      "gas:candidate-vibid:378300570408": 12,
+      "gas:candidate-vibid:378300570582": 13,
+      "gas:candidate-vibid:1001000226019": 208,
+      "special:against-all": 164
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783005001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300570632&region=0&sub_region=0&type=429",
@@ -11634,19 +11634,19 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альев Георгий Анатольевич": 97,
-      "Вострецов Сергей Алексеевич": 37,
-      "Голов Анатолий Григорьевич": 132,
-      "Гуляев Сергей Владимирович": 114,
-      "Дашков Павел Петрович": 54,
-      "Киркин Владимир Иннокентьевич": 6,
-      "Комиссаров Тарас Юрьевич": 31,
-      "Кривенченко Анатолий Николаевич": 133,
-      "Морозов Игорь Вячеславович": 25,
-      "Прянишников Сергей Викторович": 18,
-      "Романцов Владимир Анатольевич": 13,
-      "Шевелев Андрей Владимирович": 219,
-      "Против всех": 167
+      "gas:candidate-vibid:378300570405": 97,
+      "gas:candidate-vibid:1001000190467": 37,
+      "gas:candidate-vibid:1001000112285": 132,
+      "gas:candidate-vibid:1001000114004": 114,
+      "gas:candidate-vibid:378300570532": 54,
+      "gas:candidate-vibid:1001000195179": 6,
+      "gas:candidate-vibid:1001000136164": 31,
+      "gas:candidate-vibid:1001000188029": 133,
+      "gas:candidate-vibid:278200070547": 25,
+      "gas:candidate-vibid:378300570408": 18,
+      "gas:candidate-vibid:378300570582": 13,
+      "gas:candidate-vibid:1001000226019": 219,
+      "special:against-all": 167
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783005001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300570632&region=0&sub_region=0&type=429",
@@ -11696,19 +11696,19 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альев Георгий Анатольевич": 102,
-      "Вострецов Сергей Алексеевич": 39,
-      "Голов Анатолий Григорьевич": 106,
-      "Гуляев Сергей Владимирович": 74,
-      "Дашков Павел Петрович": 52,
-      "Киркин Владимир Иннокентьевич": 5,
-      "Комиссаров Тарас Юрьевич": 25,
-      "Кривенченко Анатолий Николаевич": 117,
-      "Морозов Игорь Вячеславович": 11,
-      "Прянишников Сергей Викторович": 8,
-      "Романцов Владимир Анатольевич": 16,
-      "Шевелев Андрей Владимирович": 161,
-      "Против всех": 131
+      "gas:candidate-vibid:378300570405": 102,
+      "gas:candidate-vibid:1001000190467": 39,
+      "gas:candidate-vibid:1001000112285": 106,
+      "gas:candidate-vibid:1001000114004": 74,
+      "gas:candidate-vibid:378300570532": 52,
+      "gas:candidate-vibid:1001000195179": 5,
+      "gas:candidate-vibid:1001000136164": 25,
+      "gas:candidate-vibid:1001000188029": 117,
+      "gas:candidate-vibid:278200070547": 11,
+      "gas:candidate-vibid:378300570408": 8,
+      "gas:candidate-vibid:378300570582": 16,
+      "gas:candidate-vibid:1001000226019": 161,
+      "special:against-all": 131
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783005001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300570632&region=0&sub_region=0&type=429",
@@ -11758,19 +11758,19 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альев Георгий Анатольевич": 114,
-      "Вострецов Сергей Алексеевич": 36,
-      "Голов Анатолий Григорьевич": 154,
-      "Гуляев Сергей Владимирович": 104,
-      "Дашков Павел Петрович": 93,
-      "Киркин Владимир Иннокентьевич": 6,
-      "Комиссаров Тарас Юрьевич": 35,
-      "Кривенченко Анатолий Николаевич": 137,
-      "Морозов Игорь Вячеславович": 14,
-      "Прянишников Сергей Викторович": 19,
-      "Романцов Владимир Анатольевич": 8,
-      "Шевелев Андрей Владимирович": 205,
-      "Против всех": 155
+      "gas:candidate-vibid:378300570405": 114,
+      "gas:candidate-vibid:1001000190467": 36,
+      "gas:candidate-vibid:1001000112285": 154,
+      "gas:candidate-vibid:1001000114004": 104,
+      "gas:candidate-vibid:378300570532": 93,
+      "gas:candidate-vibid:1001000195179": 6,
+      "gas:candidate-vibid:1001000136164": 35,
+      "gas:candidate-vibid:1001000188029": 137,
+      "gas:candidate-vibid:278200070547": 14,
+      "gas:candidate-vibid:378300570408": 19,
+      "gas:candidate-vibid:378300570582": 8,
+      "gas:candidate-vibid:1001000226019": 205,
+      "special:against-all": 155
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783005001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300570632&region=0&sub_region=0&type=429",
@@ -11820,19 +11820,19 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альев Георгий Анатольевич": 43,
-      "Вострецов Сергей Алексеевич": 20,
-      "Голов Анатолий Григорьевич": 232,
-      "Гуляев Сергей Владимирович": 76,
-      "Дашков Павел Петрович": 41,
-      "Киркин Владимир Иннокентьевич": 8,
-      "Комиссаров Тарас Юрьевич": 18,
-      "Кривенченко Анатолий Николаевич": 117,
-      "Морозов Игорь Вячеславович": 10,
-      "Прянишников Сергей Викторович": 21,
-      "Романцов Владимир Анатольевич": 9,
-      "Шевелев Андрей Владимирович": 179,
-      "Против всех": 94
+      "gas:candidate-vibid:378300570405": 43,
+      "gas:candidate-vibid:1001000190467": 20,
+      "gas:candidate-vibid:1001000112285": 232,
+      "gas:candidate-vibid:1001000114004": 76,
+      "gas:candidate-vibid:378300570532": 41,
+      "gas:candidate-vibid:1001000195179": 8,
+      "gas:candidate-vibid:1001000136164": 18,
+      "gas:candidate-vibid:1001000188029": 117,
+      "gas:candidate-vibid:278200070547": 10,
+      "gas:candidate-vibid:378300570408": 21,
+      "gas:candidate-vibid:378300570582": 9,
+      "gas:candidate-vibid:1001000226019": 179,
+      "special:against-all": 94
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783005001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300570632&region=0&sub_region=0&type=429",
@@ -11882,19 +11882,19 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альев Георгий Анатольевич": 69,
-      "Вострецов Сергей Алексеевич": 27,
-      "Голов Анатолий Григорьевич": 262,
-      "Гуляев Сергей Владимирович": 118,
-      "Дашков Павел Петрович": 69,
-      "Киркин Владимир Иннокентьевич": 8,
-      "Комиссаров Тарас Юрьевич": 29,
-      "Кривенченко Анатолий Николаевич": 155,
-      "Морозов Игорь Вячеславович": 11,
-      "Прянишников Сергей Викторович": 25,
-      "Романцов Владимир Анатольевич": 12,
-      "Шевелев Андрей Владимирович": 194,
-      "Против всех": 127
+      "gas:candidate-vibid:378300570405": 69,
+      "gas:candidate-vibid:1001000190467": 27,
+      "gas:candidate-vibid:1001000112285": 262,
+      "gas:candidate-vibid:1001000114004": 118,
+      "gas:candidate-vibid:378300570532": 69,
+      "gas:candidate-vibid:1001000195179": 8,
+      "gas:candidate-vibid:1001000136164": 29,
+      "gas:candidate-vibid:1001000188029": 155,
+      "gas:candidate-vibid:278200070547": 11,
+      "gas:candidate-vibid:378300570408": 25,
+      "gas:candidate-vibid:378300570582": 12,
+      "gas:candidate-vibid:1001000226019": 194,
+      "special:against-all": 127
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783005001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300570632&region=0&sub_region=0&type=429",
@@ -11944,19 +11944,19 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альев Георгий Анатольевич": 47,
-      "Вострецов Сергей Алексеевич": 14,
-      "Голов Анатолий Григорьевич": 161,
-      "Гуляев Сергей Владимирович": 112,
-      "Дашков Павел Петрович": 27,
-      "Киркин Владимир Иннокентьевич": 8,
-      "Комиссаров Тарас Юрьевич": 28,
-      "Кривенченко Анатолий Николаевич": 135,
-      "Морозов Игорь Вячеславович": 10,
-      "Прянишников Сергей Викторович": 19,
-      "Романцов Владимир Анатольевич": 29,
-      "Шевелев Андрей Владимирович": 167,
-      "Против всех": 99
+      "gas:candidate-vibid:378300570405": 47,
+      "gas:candidate-vibid:1001000190467": 14,
+      "gas:candidate-vibid:1001000112285": 161,
+      "gas:candidate-vibid:1001000114004": 112,
+      "gas:candidate-vibid:378300570532": 27,
+      "gas:candidate-vibid:1001000195179": 8,
+      "gas:candidate-vibid:1001000136164": 28,
+      "gas:candidate-vibid:1001000188029": 135,
+      "gas:candidate-vibid:278200070547": 10,
+      "gas:candidate-vibid:378300570408": 19,
+      "gas:candidate-vibid:378300570582": 29,
+      "gas:candidate-vibid:1001000226019": 167,
+      "special:against-all": 99
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783005001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300570632&region=0&sub_region=0&type=429",
@@ -12006,19 +12006,19 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альев Георгий Анатольевич": 55,
-      "Вострецов Сергей Алексеевич": 15,
-      "Голов Анатолий Григорьевич": 195,
-      "Гуляев Сергей Владимирович": 100,
-      "Дашков Павел Петрович": 44,
-      "Киркин Владимир Иннокентьевич": 6,
-      "Комиссаров Тарас Юрьевич": 30,
-      "Кривенченко Анатолий Николаевич": 162,
-      "Морозов Игорь Вячеславович": 10,
-      "Прянишников Сергей Викторович": 11,
-      "Романцов Владимир Анатольевич": 16,
-      "Шевелев Андрей Владимирович": 132,
-      "Против всех": 112
+      "gas:candidate-vibid:378300570405": 55,
+      "gas:candidate-vibid:1001000190467": 15,
+      "gas:candidate-vibid:1001000112285": 195,
+      "gas:candidate-vibid:1001000114004": 100,
+      "gas:candidate-vibid:378300570532": 44,
+      "gas:candidate-vibid:1001000195179": 6,
+      "gas:candidate-vibid:1001000136164": 30,
+      "gas:candidate-vibid:1001000188029": 162,
+      "gas:candidate-vibid:278200070547": 10,
+      "gas:candidate-vibid:378300570408": 11,
+      "gas:candidate-vibid:378300570582": 16,
+      "gas:candidate-vibid:1001000226019": 132,
+      "special:against-all": 112
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783005001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300570632&region=0&sub_region=0&type=429",
@@ -12068,19 +12068,19 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альев Георгий Анатольевич": 59,
-      "Вострецов Сергей Алексеевич": 37,
-      "Голов Анатолий Григорьевич": 153,
-      "Гуляев Сергей Владимирович": 106,
-      "Дашков Павел Петрович": 54,
-      "Киркин Владимир Иннокентьевич": 5,
-      "Комиссаров Тарас Юрьевич": 27,
-      "Кривенченко Анатолий Николаевич": 113,
-      "Морозов Игорь Вячеславович": 8,
-      "Прянишников Сергей Викторович": 13,
-      "Романцов Владимир Анатольевич": 9,
-      "Шевелев Андрей Владимирович": 220,
-      "Против всех": 138
+      "gas:candidate-vibid:378300570405": 59,
+      "gas:candidate-vibid:1001000190467": 37,
+      "gas:candidate-vibid:1001000112285": 153,
+      "gas:candidate-vibid:1001000114004": 106,
+      "gas:candidate-vibid:378300570532": 54,
+      "gas:candidate-vibid:1001000195179": 5,
+      "gas:candidate-vibid:1001000136164": 27,
+      "gas:candidate-vibid:1001000188029": 113,
+      "gas:candidate-vibid:278200070547": 8,
+      "gas:candidate-vibid:378300570408": 13,
+      "gas:candidate-vibid:378300570582": 9,
+      "gas:candidate-vibid:1001000226019": 220,
+      "special:against-all": 138
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783005001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300570632&region=0&sub_region=0&type=429",
@@ -12130,19 +12130,19 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альев Георгий Анатольевич": 81,
-      "Вострецов Сергей Алексеевич": 35,
-      "Голов Анатолий Григорьевич": 207,
-      "Гуляев Сергей Владимирович": 79,
-      "Дашков Павел Петрович": 68,
-      "Киркин Владимир Иннокентьевич": 8,
-      "Комиссаров Тарас Юрьевич": 25,
-      "Кривенченко Анатолий Николаевич": 247,
-      "Морозов Игорь Вячеславович": 13,
-      "Прянишников Сергей Викторович": 17,
-      "Романцов Владимир Анатольевич": 16,
-      "Шевелев Андрей Владимирович": 250,
-      "Против всех": 147
+      "gas:candidate-vibid:378300570405": 81,
+      "gas:candidate-vibid:1001000190467": 35,
+      "gas:candidate-vibid:1001000112285": 207,
+      "gas:candidate-vibid:1001000114004": 79,
+      "gas:candidate-vibid:378300570532": 68,
+      "gas:candidate-vibid:1001000195179": 8,
+      "gas:candidate-vibid:1001000136164": 25,
+      "gas:candidate-vibid:1001000188029": 247,
+      "gas:candidate-vibid:278200070547": 13,
+      "gas:candidate-vibid:378300570408": 17,
+      "gas:candidate-vibid:378300570582": 16,
+      "gas:candidate-vibid:1001000226019": 250,
+      "special:against-all": 147
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783005001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300570632&region=0&sub_region=0&type=429",
@@ -12192,19 +12192,19 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альев Георгий Анатольевич": 73,
-      "Вострецов Сергей Алексеевич": 26,
-      "Голов Анатолий Григорьевич": 228,
-      "Гуляев Сергей Владимирович": 87,
-      "Дашков Павел Петрович": 80,
-      "Киркин Владимир Иннокентьевич": 8,
-      "Комиссаров Тарас Юрьевич": 27,
-      "Кривенченко Анатолий Николаевич": 262,
-      "Морозов Игорь Вячеславович": 12,
-      "Прянишников Сергей Викторович": 12,
-      "Романцов Владимир Анатольевич": 15,
-      "Шевелев Андрей Владимирович": 271,
-      "Против всех": 155
+      "gas:candidate-vibid:378300570405": 73,
+      "gas:candidate-vibid:1001000190467": 26,
+      "gas:candidate-vibid:1001000112285": 228,
+      "gas:candidate-vibid:1001000114004": 87,
+      "gas:candidate-vibid:378300570532": 80,
+      "gas:candidate-vibid:1001000195179": 8,
+      "gas:candidate-vibid:1001000136164": 27,
+      "gas:candidate-vibid:1001000188029": 262,
+      "gas:candidate-vibid:278200070547": 12,
+      "gas:candidate-vibid:378300570408": 12,
+      "gas:candidate-vibid:378300570582": 15,
+      "gas:candidate-vibid:1001000226019": 271,
+      "special:against-all": 155
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783005001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300570632&region=0&sub_region=0&type=429",
@@ -12254,19 +12254,19 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альев Георгий Анатольевич": 118,
-      "Вострецов Сергей Алексеевич": 25,
-      "Голов Анатолий Григорьевич": 272,
-      "Гуляев Сергей Владимирович": 139,
-      "Дашков Павел Петрович": 43,
-      "Киркин Владимир Иннокентьевич": 10,
-      "Комиссаров Тарас Юрьевич": 25,
-      "Кривенченко Анатолий Николаевич": 173,
-      "Морозов Игорь Вячеславович": 11,
-      "Прянишников Сергей Викторович": 14,
-      "Романцов Владимир Анатольевич": 12,
-      "Шевелев Андрей Владимирович": 208,
-      "Против всех": 153
+      "gas:candidate-vibid:378300570405": 118,
+      "gas:candidate-vibid:1001000190467": 25,
+      "gas:candidate-vibid:1001000112285": 272,
+      "gas:candidate-vibid:1001000114004": 139,
+      "gas:candidate-vibid:378300570532": 43,
+      "gas:candidate-vibid:1001000195179": 10,
+      "gas:candidate-vibid:1001000136164": 25,
+      "gas:candidate-vibid:1001000188029": 173,
+      "gas:candidate-vibid:278200070547": 11,
+      "gas:candidate-vibid:378300570408": 14,
+      "gas:candidate-vibid:378300570582": 12,
+      "gas:candidate-vibid:1001000226019": 208,
+      "special:against-all": 153
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783005001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300570632&region=0&sub_region=0&type=429",
@@ -12316,19 +12316,19 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альев Георгий Анатольевич": 99,
-      "Вострецов Сергей Алексеевич": 43,
-      "Голов Анатолий Григорьевич": 303,
-      "Гуляев Сергей Владимирович": 120,
-      "Дашков Павел Петрович": 76,
-      "Киркин Владимир Иннокентьевич": 22,
-      "Комиссаров Тарас Юрьевич": 21,
-      "Кривенченко Анатолий Николаевич": 156,
-      "Морозов Игорь Вячеславович": 9,
-      "Прянишников Сергей Викторович": 12,
-      "Романцов Владимир Анатольевич": 12,
-      "Шевелев Андрей Владимирович": 220,
-      "Против всех": 158
+      "gas:candidate-vibid:378300570405": 99,
+      "gas:candidate-vibid:1001000190467": 43,
+      "gas:candidate-vibid:1001000112285": 303,
+      "gas:candidate-vibid:1001000114004": 120,
+      "gas:candidate-vibid:378300570532": 76,
+      "gas:candidate-vibid:1001000195179": 22,
+      "gas:candidate-vibid:1001000136164": 21,
+      "gas:candidate-vibid:1001000188029": 156,
+      "gas:candidate-vibid:278200070547": 9,
+      "gas:candidate-vibid:378300570408": 12,
+      "gas:candidate-vibid:378300570582": 12,
+      "gas:candidate-vibid:1001000226019": 220,
+      "special:against-all": 158
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783005001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300570632&region=0&sub_region=0&type=429",
@@ -12378,19 +12378,19 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альев Георгий Анатольевич": 105,
-      "Вострецов Сергей Алексеевич": 33,
-      "Голов Анатолий Григорьевич": 228,
-      "Гуляев Сергей Владимирович": 96,
-      "Дашков Павел Петрович": 97,
-      "Киркин Владимир Иннокентьевич": 9,
-      "Комиссаров Тарас Юрьевич": 31,
-      "Кривенченко Анатолий Николаевич": 190,
-      "Морозов Игорь Вячеславович": 9,
-      "Прянишников Сергей Викторович": 11,
-      "Романцов Владимир Анатольевич": 14,
-      "Шевелев Андрей Владимирович": 277,
-      "Против всех": 160
+      "gas:candidate-vibid:378300570405": 105,
+      "gas:candidate-vibid:1001000190467": 33,
+      "gas:candidate-vibid:1001000112285": 228,
+      "gas:candidate-vibid:1001000114004": 96,
+      "gas:candidate-vibid:378300570532": 97,
+      "gas:candidate-vibid:1001000195179": 9,
+      "gas:candidate-vibid:1001000136164": 31,
+      "gas:candidate-vibid:1001000188029": 190,
+      "gas:candidate-vibid:278200070547": 9,
+      "gas:candidate-vibid:378300570408": 11,
+      "gas:candidate-vibid:378300570582": 14,
+      "gas:candidate-vibid:1001000226019": 277,
+      "special:against-all": 160
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783005001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300570632&region=0&sub_region=0&type=429",
@@ -12440,19 +12440,19 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альев Георгий Анатольевич": 86,
-      "Вострецов Сергей Алексеевич": 38,
-      "Голов Анатолий Григорьевич": 197,
-      "Гуляев Сергей Владимирович": 116,
-      "Дашков Павел Петрович": 112,
-      "Киркин Владимир Иннокентьевич": 14,
-      "Комиссаров Тарас Юрьевич": 36,
-      "Кривенченко Анатолий Николаевич": 212,
-      "Морозов Игорь Вячеславович": 9,
-      "Прянишников Сергей Викторович": 22,
-      "Романцов Владимир Анатольевич": 20,
-      "Шевелев Андрей Владимирович": 261,
-      "Против всех": 193
+      "gas:candidate-vibid:378300570405": 86,
+      "gas:candidate-vibid:1001000190467": 38,
+      "gas:candidate-vibid:1001000112285": 197,
+      "gas:candidate-vibid:1001000114004": 116,
+      "gas:candidate-vibid:378300570532": 112,
+      "gas:candidate-vibid:1001000195179": 14,
+      "gas:candidate-vibid:1001000136164": 36,
+      "gas:candidate-vibid:1001000188029": 212,
+      "gas:candidate-vibid:278200070547": 9,
+      "gas:candidate-vibid:378300570408": 22,
+      "gas:candidate-vibid:378300570582": 20,
+      "gas:candidate-vibid:1001000226019": 261,
+      "special:against-all": 193
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783005001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300570632&region=0&sub_region=0&type=429",
@@ -12502,19 +12502,19 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альев Георгий Анатольевич": 79,
-      "Вострецов Сергей Алексеевич": 39,
-      "Голов Анатолий Григорьевич": 187,
-      "Гуляев Сергей Владимирович": 86,
-      "Дашков Павел Петрович": 92,
-      "Киркин Владимир Иннокентьевич": 9,
-      "Комиссаров Тарас Юрьевич": 36,
-      "Кривенченко Анатолий Николаевич": 129,
-      "Морозов Игорь Вячеславович": 14,
-      "Прянишников Сергей Викторович": 12,
-      "Романцов Владимир Анатольевич": 46,
-      "Шевелев Андрей Владимирович": 242,
-      "Против всех": 150
+      "gas:candidate-vibid:378300570405": 79,
+      "gas:candidate-vibid:1001000190467": 39,
+      "gas:candidate-vibid:1001000112285": 187,
+      "gas:candidate-vibid:1001000114004": 86,
+      "gas:candidate-vibid:378300570532": 92,
+      "gas:candidate-vibid:1001000195179": 9,
+      "gas:candidate-vibid:1001000136164": 36,
+      "gas:candidate-vibid:1001000188029": 129,
+      "gas:candidate-vibid:278200070547": 14,
+      "gas:candidate-vibid:378300570408": 12,
+      "gas:candidate-vibid:378300570582": 46,
+      "gas:candidate-vibid:1001000226019": 242,
+      "special:against-all": 150
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783005001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300570632&region=0&sub_region=0&type=429",
@@ -12564,19 +12564,19 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альев Георгий Анатольевич": 78,
-      "Вострецов Сергей Алексеевич": 37,
-      "Голов Анатолий Григорьевич": 256,
-      "Гуляев Сергей Владимирович": 89,
-      "Дашков Павел Петрович": 116,
-      "Киркин Владимир Иннокентьевич": 4,
-      "Комиссаров Тарас Юрьевич": 26,
-      "Кривенченко Анатолий Николаевич": 160,
-      "Морозов Игорь Вячеславович": 6,
-      "Прянишников Сергей Викторович": 24,
-      "Романцов Владимир Анатольевич": 26,
-      "Шевелев Андрей Владимирович": 250,
-      "Против всех": 134
+      "gas:candidate-vibid:378300570405": 78,
+      "gas:candidate-vibid:1001000190467": 37,
+      "gas:candidate-vibid:1001000112285": 256,
+      "gas:candidate-vibid:1001000114004": 89,
+      "gas:candidate-vibid:378300570532": 116,
+      "gas:candidate-vibid:1001000195179": 4,
+      "gas:candidate-vibid:1001000136164": 26,
+      "gas:candidate-vibid:1001000188029": 160,
+      "gas:candidate-vibid:278200070547": 6,
+      "gas:candidate-vibid:378300570408": 24,
+      "gas:candidate-vibid:378300570582": 26,
+      "gas:candidate-vibid:1001000226019": 250,
+      "special:against-all": 134
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783005001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300570632&region=0&sub_region=0&type=429",
@@ -12626,19 +12626,19 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альев Георгий Анатольевич": 94,
-      "Вострецов Сергей Алексеевич": 30,
-      "Голов Анатолий Григорьевич": 252,
-      "Гуляев Сергей Владимирович": 105,
-      "Дашков Павел Петрович": 58,
-      "Киркин Владимир Иннокентьевич": 7,
-      "Комиссаров Тарас Юрьевич": 23,
-      "Кривенченко Анатолий Николаевич": 149,
-      "Морозов Игорь Вячеславович": 7,
-      "Прянишников Сергей Викторович": 9,
-      "Романцов Владимир Анатольевич": 14,
-      "Шевелев Андрей Владимирович": 194,
-      "Против всех": 121
+      "gas:candidate-vibid:378300570405": 94,
+      "gas:candidate-vibid:1001000190467": 30,
+      "gas:candidate-vibid:1001000112285": 252,
+      "gas:candidate-vibid:1001000114004": 105,
+      "gas:candidate-vibid:378300570532": 58,
+      "gas:candidate-vibid:1001000195179": 7,
+      "gas:candidate-vibid:1001000136164": 23,
+      "gas:candidate-vibid:1001000188029": 149,
+      "gas:candidate-vibid:278200070547": 7,
+      "gas:candidate-vibid:378300570408": 9,
+      "gas:candidate-vibid:378300570582": 14,
+      "gas:candidate-vibid:1001000226019": 194,
+      "special:against-all": 121
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783005001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300570632&region=0&sub_region=0&type=429",
@@ -12688,19 +12688,19 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альев Георгий Анатольевич": 83,
-      "Вострецов Сергей Алексеевич": 29,
-      "Голов Анатолий Григорьевич": 202,
-      "Гуляев Сергей Владимирович": 76,
-      "Дашков Павел Петрович": 57,
-      "Киркин Владимир Иннокентьевич": 12,
-      "Комиссаров Тарас Юрьевич": 30,
-      "Кривенченко Анатолий Николаевич": 105,
-      "Морозов Игорь Вячеславович": 15,
-      "Прянишников Сергей Викторович": 13,
-      "Романцов Владимир Анатольевич": 8,
-      "Шевелев Андрей Владимирович": 181,
-      "Против всех": 133
+      "gas:candidate-vibid:378300570405": 83,
+      "gas:candidate-vibid:1001000190467": 29,
+      "gas:candidate-vibid:1001000112285": 202,
+      "gas:candidate-vibid:1001000114004": 76,
+      "gas:candidate-vibid:378300570532": 57,
+      "gas:candidate-vibid:1001000195179": 12,
+      "gas:candidate-vibid:1001000136164": 30,
+      "gas:candidate-vibid:1001000188029": 105,
+      "gas:candidate-vibid:278200070547": 15,
+      "gas:candidate-vibid:378300570408": 13,
+      "gas:candidate-vibid:378300570582": 8,
+      "gas:candidate-vibid:1001000226019": 181,
+      "special:against-all": 133
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783005001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300570632&region=0&sub_region=0&type=429",
@@ -12750,19 +12750,19 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альев Георгий Анатольевич": 98,
-      "Вострецов Сергей Алексеевич": 32,
-      "Голов Анатолий Григорьевич": 214,
-      "Гуляев Сергей Владимирович": 91,
-      "Дашков Павел Петрович": 80,
-      "Киркин Владимир Иннокентьевич": 7,
-      "Комиссаров Тарас Юрьевич": 27,
-      "Кривенченко Анатолий Николаевич": 202,
-      "Морозов Игорь Вячеславович": 18,
-      "Прянишников Сергей Викторович": 10,
-      "Романцов Владимир Анатольевич": 14,
-      "Шевелев Андрей Владимирович": 236,
-      "Против всех": 167
+      "gas:candidate-vibid:378300570405": 98,
+      "gas:candidate-vibid:1001000190467": 32,
+      "gas:candidate-vibid:1001000112285": 214,
+      "gas:candidate-vibid:1001000114004": 91,
+      "gas:candidate-vibid:378300570532": 80,
+      "gas:candidate-vibid:1001000195179": 7,
+      "gas:candidate-vibid:1001000136164": 27,
+      "gas:candidate-vibid:1001000188029": 202,
+      "gas:candidate-vibid:278200070547": 18,
+      "gas:candidate-vibid:378300570408": 10,
+      "gas:candidate-vibid:378300570582": 14,
+      "gas:candidate-vibid:1001000226019": 236,
+      "special:against-all": 167
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783005001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300570632&region=0&sub_region=0&type=429",
@@ -12812,19 +12812,19 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альев Георгий Анатольевич": 81,
-      "Вострецов Сергей Алексеевич": 23,
-      "Голов Анатолий Григорьевич": 156,
-      "Гуляев Сергей Владимирович": 111,
-      "Дашков Павел Петрович": 75,
-      "Киркин Владимир Иннокентьевич": 2,
-      "Комиссаров Тарас Юрьевич": 27,
-      "Кривенченко Анатолий Николаевич": 187,
-      "Морозов Игорь Вячеславович": 10,
-      "Прянишников Сергей Викторович": 10,
-      "Романцов Владимир Анатольевич": 15,
-      "Шевелев Андрей Владимирович": 229,
-      "Против всех": 168
+      "gas:candidate-vibid:378300570405": 81,
+      "gas:candidate-vibid:1001000190467": 23,
+      "gas:candidate-vibid:1001000112285": 156,
+      "gas:candidate-vibid:1001000114004": 111,
+      "gas:candidate-vibid:378300570532": 75,
+      "gas:candidate-vibid:1001000195179": 2,
+      "gas:candidate-vibid:1001000136164": 27,
+      "gas:candidate-vibid:1001000188029": 187,
+      "gas:candidate-vibid:278200070547": 10,
+      "gas:candidate-vibid:378300570408": 10,
+      "gas:candidate-vibid:378300570582": 15,
+      "gas:candidate-vibid:1001000226019": 229,
+      "special:against-all": 168
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783005001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300570632&region=0&sub_region=0&type=429",
@@ -12874,19 +12874,19 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альев Георгий Анатольевич": 85,
-      "Вострецов Сергей Алексеевич": 28,
-      "Голов Анатолий Григорьевич": 129,
-      "Гуляев Сергей Владимирович": 84,
-      "Дашков Павел Петрович": 51,
-      "Киркин Владимир Иннокентьевич": 8,
-      "Комиссаров Тарас Юрьевич": 26,
-      "Кривенченко Анатолий Николаевич": 168,
-      "Морозов Игорь Вячеславович": 14,
-      "Прянишников Сергей Викторович": 13,
-      "Романцов Владимир Анатольевич": 6,
-      "Шевелев Андрей Владимирович": 160,
-      "Против всех": 168
+      "gas:candidate-vibid:378300570405": 85,
+      "gas:candidate-vibid:1001000190467": 28,
+      "gas:candidate-vibid:1001000112285": 129,
+      "gas:candidate-vibid:1001000114004": 84,
+      "gas:candidate-vibid:378300570532": 51,
+      "gas:candidate-vibid:1001000195179": 8,
+      "gas:candidate-vibid:1001000136164": 26,
+      "gas:candidate-vibid:1001000188029": 168,
+      "gas:candidate-vibid:278200070547": 14,
+      "gas:candidate-vibid:378300570408": 13,
+      "gas:candidate-vibid:378300570582": 6,
+      "gas:candidate-vibid:1001000226019": 160,
+      "special:against-all": 168
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783005001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300570632&region=0&sub_region=0&type=429",
@@ -12936,19 +12936,19 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альев Георгий Анатольевич": 91,
-      "Вострецов Сергей Алексеевич": 42,
-      "Голов Анатолий Григорьевич": 189,
-      "Гуляев Сергей Владимирович": 151,
-      "Дашков Павел Петрович": 83,
-      "Киркин Владимир Иннокентьевич": 6,
-      "Комиссаров Тарас Юрьевич": 26,
-      "Кривенченко Анатолий Николаевич": 143,
-      "Морозов Игорь Вячеславович": 25,
-      "Прянишников Сергей Викторович": 7,
-      "Романцов Владимир Анатольевич": 11,
-      "Шевелев Андрей Владимирович": 206,
-      "Против всех": 156
+      "gas:candidate-vibid:378300570405": 91,
+      "gas:candidate-vibid:1001000190467": 42,
+      "gas:candidate-vibid:1001000112285": 189,
+      "gas:candidate-vibid:1001000114004": 151,
+      "gas:candidate-vibid:378300570532": 83,
+      "gas:candidate-vibid:1001000195179": 6,
+      "gas:candidate-vibid:1001000136164": 26,
+      "gas:candidate-vibid:1001000188029": 143,
+      "gas:candidate-vibid:278200070547": 25,
+      "gas:candidate-vibid:378300570408": 7,
+      "gas:candidate-vibid:378300570582": 11,
+      "gas:candidate-vibid:1001000226019": 206,
+      "special:against-all": 156
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783005001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300570632&region=0&sub_region=0&type=429",
@@ -12998,19 +12998,19 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альев Георгий Анатольевич": 98,
-      "Вострецов Сергей Алексеевич": 29,
-      "Голов Анатолий Григорьевич": 126,
-      "Гуляев Сергей Владимирович": 64,
-      "Дашков Павел Петрович": 46,
-      "Киркин Владимир Иннокентьевич": 6,
-      "Комиссаров Тарас Юрьевич": 28,
-      "Кривенченко Анатолий Николаевич": 162,
-      "Морозов Игорь Вячеславович": 13,
-      "Прянишников Сергей Викторович": 8,
-      "Романцов Владимир Анатольевич": 9,
-      "Шевелев Андрей Владимирович": 178,
-      "Против всех": 135
+      "gas:candidate-vibid:378300570405": 98,
+      "gas:candidate-vibid:1001000190467": 29,
+      "gas:candidate-vibid:1001000112285": 126,
+      "gas:candidate-vibid:1001000114004": 64,
+      "gas:candidate-vibid:378300570532": 46,
+      "gas:candidate-vibid:1001000195179": 6,
+      "gas:candidate-vibid:1001000136164": 28,
+      "gas:candidate-vibid:1001000188029": 162,
+      "gas:candidate-vibid:278200070547": 13,
+      "gas:candidate-vibid:378300570408": 8,
+      "gas:candidate-vibid:378300570582": 9,
+      "gas:candidate-vibid:1001000226019": 178,
+      "special:against-all": 135
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783005001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300570632&region=0&sub_region=0&type=429",
@@ -13060,19 +13060,19 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альев Георгий Анатольевич": 93,
-      "Вострецов Сергей Алексеевич": 35,
-      "Голов Анатолий Григорьевич": 144,
-      "Гуляев Сергей Владимирович": 80,
-      "Дашков Павел Петрович": 95,
-      "Киркин Владимир Иннокентьевич": 8,
-      "Комиссаров Тарас Юрьевич": 34,
-      "Кривенченко Анатолий Николаевич": 154,
-      "Морозов Игорь Вячеславович": 15,
-      "Прянишников Сергей Викторович": 8,
-      "Романцов Владимир Анатольевич": 10,
-      "Шевелев Андрей Владимирович": 216,
-      "Против всех": 147
+      "gas:candidate-vibid:378300570405": 93,
+      "gas:candidate-vibid:1001000190467": 35,
+      "gas:candidate-vibid:1001000112285": 144,
+      "gas:candidate-vibid:1001000114004": 80,
+      "gas:candidate-vibid:378300570532": 95,
+      "gas:candidate-vibid:1001000195179": 8,
+      "gas:candidate-vibid:1001000136164": 34,
+      "gas:candidate-vibid:1001000188029": 154,
+      "gas:candidate-vibid:278200070547": 15,
+      "gas:candidate-vibid:378300570408": 8,
+      "gas:candidate-vibid:378300570582": 10,
+      "gas:candidate-vibid:1001000226019": 216,
+      "special:against-all": 147
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783005001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300570632&region=0&sub_region=0&type=429",
@@ -13122,19 +13122,19 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альев Георгий Анатольевич": 55,
-      "Вострецов Сергей Алексеевич": 38,
-      "Голов Анатолий Григорьевич": 157,
-      "Гуляев Сергей Владимирович": 115,
-      "Дашков Павел Петрович": 100,
-      "Киркин Владимир Иннокентьевич": 3,
-      "Комиссаров Тарас Юрьевич": 37,
-      "Кривенченко Анатолий Николаевич": 149,
-      "Морозов Игорь Вячеславович": 18,
-      "Прянишников Сергей Викторович": 10,
-      "Романцов Владимир Анатольевич": 8,
-      "Шевелев Андрей Владимирович": 210,
-      "Против всех": 128
+      "gas:candidate-vibid:378300570405": 55,
+      "gas:candidate-vibid:1001000190467": 38,
+      "gas:candidate-vibid:1001000112285": 157,
+      "gas:candidate-vibid:1001000114004": 115,
+      "gas:candidate-vibid:378300570532": 100,
+      "gas:candidate-vibid:1001000195179": 3,
+      "gas:candidate-vibid:1001000136164": 37,
+      "gas:candidate-vibid:1001000188029": 149,
+      "gas:candidate-vibid:278200070547": 18,
+      "gas:candidate-vibid:378300570408": 10,
+      "gas:candidate-vibid:378300570582": 8,
+      "gas:candidate-vibid:1001000226019": 210,
+      "special:against-all": 128
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783005001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300570632&region=0&sub_region=0&type=429",
@@ -13184,19 +13184,19 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альев Георгий Анатольевич": 102,
-      "Вострецов Сергей Алексеевич": 21,
-      "Голов Анатолий Григорьевич": 150,
-      "Гуляев Сергей Владимирович": 105,
-      "Дашков Павел Петрович": 93,
-      "Киркин Владимир Иннокентьевич": 9,
-      "Комиссаров Тарас Юрьевич": 20,
-      "Кривенченко Анатолий Николаевич": 128,
-      "Морозов Игорь Вячеславович": 10,
-      "Прянишников Сергей Викторович": 22,
-      "Романцов Владимир Анатольевич": 17,
-      "Шевелев Андрей Владимирович": 230,
-      "Против всех": 176
+      "gas:candidate-vibid:378300570405": 102,
+      "gas:candidate-vibid:1001000190467": 21,
+      "gas:candidate-vibid:1001000112285": 150,
+      "gas:candidate-vibid:1001000114004": 105,
+      "gas:candidate-vibid:378300570532": 93,
+      "gas:candidate-vibid:1001000195179": 9,
+      "gas:candidate-vibid:1001000136164": 20,
+      "gas:candidate-vibid:1001000188029": 128,
+      "gas:candidate-vibid:278200070547": 10,
+      "gas:candidate-vibid:378300570408": 22,
+      "gas:candidate-vibid:378300570582": 17,
+      "gas:candidate-vibid:1001000226019": 230,
+      "special:against-all": 176
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783005001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300570632&region=0&sub_region=0&type=429",
@@ -13246,19 +13246,19 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альев Георгий Анатольевич": 87,
-      "Вострецов Сергей Алексеевич": 47,
-      "Голов Анатолий Григорьевич": 180,
-      "Гуляев Сергей Владимирович": 86,
-      "Дашков Павел Петрович": 86,
-      "Киркин Владимир Иннокентьевич": 9,
-      "Комиссаров Тарас Юрьевич": 25,
-      "Кривенченко Анатолий Николаевич": 142,
-      "Морозов Игорь Вячеславович": 19,
-      "Прянишников Сергей Викторович": 12,
-      "Романцов Владимир Анатольевич": 13,
-      "Шевелев Андрей Владимирович": 261,
-      "Против всех": 189
+      "gas:candidate-vibid:378300570405": 87,
+      "gas:candidate-vibid:1001000190467": 47,
+      "gas:candidate-vibid:1001000112285": 180,
+      "gas:candidate-vibid:1001000114004": 86,
+      "gas:candidate-vibid:378300570532": 86,
+      "gas:candidate-vibid:1001000195179": 9,
+      "gas:candidate-vibid:1001000136164": 25,
+      "gas:candidate-vibid:1001000188029": 142,
+      "gas:candidate-vibid:278200070547": 19,
+      "gas:candidate-vibid:378300570408": 12,
+      "gas:candidate-vibid:378300570582": 13,
+      "gas:candidate-vibid:1001000226019": 261,
+      "special:against-all": 189
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783005001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300570632&region=0&sub_region=0&type=429",
@@ -13308,19 +13308,19 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альев Георгий Анатольевич": 50,
-      "Вострецов Сергей Алексеевич": 38,
-      "Голов Анатолий Григорьевич": 158,
-      "Гуляев Сергей Владимирович": 78,
-      "Дашков Павел Петрович": 64,
-      "Киркин Владимир Иннокентьевич": 9,
-      "Комиссаров Тарас Юрьевич": 39,
-      "Кривенченко Анатолий Николаевич": 168,
-      "Морозов Игорь Вячеславович": 10,
-      "Прянишников Сергей Викторович": 15,
-      "Романцов Владимир Анатольевич": 9,
-      "Шевелев Андрей Владимирович": 268,
-      "Против всех": 170
+      "gas:candidate-vibid:378300570405": 50,
+      "gas:candidate-vibid:1001000190467": 38,
+      "gas:candidate-vibid:1001000112285": 158,
+      "gas:candidate-vibid:1001000114004": 78,
+      "gas:candidate-vibid:378300570532": 64,
+      "gas:candidate-vibid:1001000195179": 9,
+      "gas:candidate-vibid:1001000136164": 39,
+      "gas:candidate-vibid:1001000188029": 168,
+      "gas:candidate-vibid:278200070547": 10,
+      "gas:candidate-vibid:378300570408": 15,
+      "gas:candidate-vibid:378300570582": 9,
+      "gas:candidate-vibid:1001000226019": 268,
+      "special:against-all": 170
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783005001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300570632&region=0&sub_region=0&type=429",
@@ -13370,19 +13370,19 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альев Георгий Анатольевич": 82,
-      "Вострецов Сергей Алексеевич": 21,
-      "Голов Анатолий Григорьевич": 189,
-      "Гуляев Сергей Владимирович": 139,
-      "Дашков Павел Петрович": 133,
-      "Киркин Владимир Иннокентьевич": 8,
-      "Комиссаров Тарас Юрьевич": 21,
-      "Кривенченко Анатолий Николаевич": 148,
-      "Морозов Игорь Вячеславович": 19,
-      "Прянишников Сергей Викторович": 19,
-      "Романцов Владимир Анатольевич": 17,
-      "Шевелев Андрей Владимирович": 217,
-      "Против всех": 131
+      "gas:candidate-vibid:378300570405": 82,
+      "gas:candidate-vibid:1001000190467": 21,
+      "gas:candidate-vibid:1001000112285": 189,
+      "gas:candidate-vibid:1001000114004": 139,
+      "gas:candidate-vibid:378300570532": 133,
+      "gas:candidate-vibid:1001000195179": 8,
+      "gas:candidate-vibid:1001000136164": 21,
+      "gas:candidate-vibid:1001000188029": 148,
+      "gas:candidate-vibid:278200070547": 19,
+      "gas:candidate-vibid:378300570408": 19,
+      "gas:candidate-vibid:378300570582": 17,
+      "gas:candidate-vibid:1001000226019": 217,
+      "special:against-all": 131
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783005001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300570632&region=0&sub_region=0&type=429",
@@ -13432,19 +13432,19 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альев Георгий Анатольевич": 70,
-      "Вострецов Сергей Алексеевич": 16,
-      "Голов Анатолий Григорьевич": 128,
-      "Гуляев Сергей Владимирович": 96,
-      "Дашков Павел Петрович": 95,
-      "Киркин Владимир Иннокентьевич": 6,
-      "Комиссаров Тарас Юрьевич": 18,
-      "Кривенченко Анатолий Николаевич": 181,
-      "Морозов Игорь Вячеславович": 26,
-      "Прянишников Сергей Викторович": 20,
-      "Романцов Владимир Анатольевич": 11,
-      "Шевелев Андрей Владимирович": 205,
-      "Против всех": 168
+      "gas:candidate-vibid:378300570405": 70,
+      "gas:candidate-vibid:1001000190467": 16,
+      "gas:candidate-vibid:1001000112285": 128,
+      "gas:candidate-vibid:1001000114004": 96,
+      "gas:candidate-vibid:378300570532": 95,
+      "gas:candidate-vibid:1001000195179": 6,
+      "gas:candidate-vibid:1001000136164": 18,
+      "gas:candidate-vibid:1001000188029": 181,
+      "gas:candidate-vibid:278200070547": 26,
+      "gas:candidate-vibid:378300570408": 20,
+      "gas:candidate-vibid:378300570582": 11,
+      "gas:candidate-vibid:1001000226019": 205,
+      "special:against-all": 168
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783005001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300570632&region=0&sub_region=0&type=429",
@@ -13494,19 +13494,19 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альев Георгий Анатольевич": 58,
-      "Вострецов Сергей Алексеевич": 19,
-      "Голов Анатолий Григорьевич": 96,
-      "Гуляев Сергей Владимирович": 55,
-      "Дашков Павел Петрович": 55,
-      "Киркин Владимир Иннокентьевич": 8,
-      "Комиссаров Тарас Юрьевич": 21,
-      "Кривенченко Анатолий Николаевич": 147,
-      "Морозов Игорь Вячеславович": 12,
-      "Прянишников Сергей Викторович": 12,
-      "Романцов Владимир Анатольевич": 5,
-      "Шевелев Андрей Владимирович": 159,
-      "Против всех": 141
+      "gas:candidate-vibid:378300570405": 58,
+      "gas:candidate-vibid:1001000190467": 19,
+      "gas:candidate-vibid:1001000112285": 96,
+      "gas:candidate-vibid:1001000114004": 55,
+      "gas:candidate-vibid:378300570532": 55,
+      "gas:candidate-vibid:1001000195179": 8,
+      "gas:candidate-vibid:1001000136164": 21,
+      "gas:candidate-vibid:1001000188029": 147,
+      "gas:candidate-vibid:278200070547": 12,
+      "gas:candidate-vibid:378300570408": 12,
+      "gas:candidate-vibid:378300570582": 5,
+      "gas:candidate-vibid:1001000226019": 159,
+      "special:against-all": 141
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783005001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300570632&region=0&sub_region=0&type=429",
@@ -13556,19 +13556,19 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альев Георгий Анатольевич": 99,
-      "Вострецов Сергей Алексеевич": 39,
-      "Голов Анатолий Григорьевич": 125,
-      "Гуляев Сергей Владимирович": 98,
-      "Дашков Павел Петрович": 53,
-      "Киркин Владимир Иннокентьевич": 4,
-      "Комиссаров Тарас Юрьевич": 26,
-      "Кривенченко Анатолий Николаевич": 141,
-      "Морозов Игорь Вячеславович": 22,
-      "Прянишников Сергей Викторович": 22,
-      "Романцов Владимир Анатольевич": 13,
-      "Шевелев Андрей Владимирович": 223,
-      "Против всех": 160
+      "gas:candidate-vibid:378300570405": 99,
+      "gas:candidate-vibid:1001000190467": 39,
+      "gas:candidate-vibid:1001000112285": 125,
+      "gas:candidate-vibid:1001000114004": 98,
+      "gas:candidate-vibid:378300570532": 53,
+      "gas:candidate-vibid:1001000195179": 4,
+      "gas:candidate-vibid:1001000136164": 26,
+      "gas:candidate-vibid:1001000188029": 141,
+      "gas:candidate-vibid:278200070547": 22,
+      "gas:candidate-vibid:378300570408": 22,
+      "gas:candidate-vibid:378300570582": 13,
+      "gas:candidate-vibid:1001000226019": 223,
+      "special:against-all": 160
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783005001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300570632&region=0&sub_region=0&type=429",
@@ -13618,19 +13618,19 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альев Георгий Анатольевич": 99,
-      "Вострецов Сергей Алексеевич": 45,
-      "Голов Анатолий Григорьевич": 102,
-      "Гуляев Сергей Владимирович": 88,
-      "Дашков Павел Петрович": 77,
-      "Киркин Владимир Иннокентьевич": 12,
-      "Комиссаров Тарас Юрьевич": 42,
-      "Кривенченко Анатолий Николаевич": 141,
-      "Морозов Игорь Вячеславович": 16,
-      "Прянишников Сергей Викторович": 14,
-      "Романцов Владимир Анатольевич": 7,
-      "Шевелев Андрей Владимирович": 280,
-      "Против всех": 160
+      "gas:candidate-vibid:378300570405": 99,
+      "gas:candidate-vibid:1001000190467": 45,
+      "gas:candidate-vibid:1001000112285": 102,
+      "gas:candidate-vibid:1001000114004": 88,
+      "gas:candidate-vibid:378300570532": 77,
+      "gas:candidate-vibid:1001000195179": 12,
+      "gas:candidate-vibid:1001000136164": 42,
+      "gas:candidate-vibid:1001000188029": 141,
+      "gas:candidate-vibid:278200070547": 16,
+      "gas:candidate-vibid:378300570408": 14,
+      "gas:candidate-vibid:378300570582": 7,
+      "gas:candidate-vibid:1001000226019": 280,
+      "special:against-all": 160
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783005001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300570632&region=0&sub_region=0&type=429",
@@ -13680,19 +13680,19 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альев Георгий Анатольевич": 114,
-      "Вострецов Сергей Алексеевич": 86,
-      "Голов Анатолий Григорьевич": 144,
-      "Гуляев Сергей Владимирович": 116,
-      "Дашков Павел Петрович": 74,
-      "Киркин Владимир Иннокентьевич": 5,
-      "Комиссаров Тарас Юрьевич": 34,
-      "Кривенченко Анатолий Николаевич": 190,
-      "Морозов Игорь Вячеславович": 25,
-      "Прянишников Сергей Викторович": 14,
-      "Романцов Владимир Анатольевич": 19,
-      "Шевелев Андрей Владимирович": 258,
-      "Против всех": 134
+      "gas:candidate-vibid:378300570405": 114,
+      "gas:candidate-vibid:1001000190467": 86,
+      "gas:candidate-vibid:1001000112285": 144,
+      "gas:candidate-vibid:1001000114004": 116,
+      "gas:candidate-vibid:378300570532": 74,
+      "gas:candidate-vibid:1001000195179": 5,
+      "gas:candidate-vibid:1001000136164": 34,
+      "gas:candidate-vibid:1001000188029": 190,
+      "gas:candidate-vibid:278200070547": 25,
+      "gas:candidate-vibid:378300570408": 14,
+      "gas:candidate-vibid:378300570582": 19,
+      "gas:candidate-vibid:1001000226019": 258,
+      "special:against-all": 134
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783005001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300570632&region=0&sub_region=0&type=429",
@@ -13742,19 +13742,19 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альев Георгий Анатольевич": 122,
-      "Вострецов Сергей Алексеевич": 69,
-      "Голов Анатолий Григорьевич": 183,
-      "Гуляев Сергей Владимирович": 137,
-      "Дашков Павел Петрович": 67,
-      "Киркин Владимир Иннокентьевич": 4,
-      "Комиссаров Тарас Юрьевич": 31,
-      "Кривенченко Анатолий Николаевич": 164,
-      "Морозов Игорь Вячеславович": 31,
-      "Прянишников Сергей Викторович": 23,
-      "Романцов Владимир Анатольевич": 17,
-      "Шевелев Андрей Владимирович": 219,
-      "Против всех": 162
+      "gas:candidate-vibid:378300570405": 122,
+      "gas:candidate-vibid:1001000190467": 69,
+      "gas:candidate-vibid:1001000112285": 183,
+      "gas:candidate-vibid:1001000114004": 137,
+      "gas:candidate-vibid:378300570532": 67,
+      "gas:candidate-vibid:1001000195179": 4,
+      "gas:candidate-vibid:1001000136164": 31,
+      "gas:candidate-vibid:1001000188029": 164,
+      "gas:candidate-vibid:278200070547": 31,
+      "gas:candidate-vibid:378300570408": 23,
+      "gas:candidate-vibid:378300570582": 17,
+      "gas:candidate-vibid:1001000226019": 219,
+      "special:against-all": 162
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783005001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300570632&region=0&sub_region=0&type=429",
@@ -13804,19 +13804,19 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альев Георгий Анатольевич": 47,
-      "Вострецов Сергей Алексеевич": 20,
-      "Голов Анатолий Григорьевич": 99,
-      "Гуляев Сергей Владимирович": 77,
-      "Дашков Павел Петрович": 77,
-      "Киркин Владимир Иннокентьевич": 6,
-      "Комиссаров Тарас Юрьевич": 31,
-      "Кривенченко Анатолий Николаевич": 101,
-      "Морозов Игорь Вячеславович": 12,
-      "Прянишников Сергей Викторович": 18,
-      "Романцов Владимир Анатольевич": 12,
-      "Шевелев Андрей Владимирович": 204,
-      "Против всех": 124
+      "gas:candidate-vibid:378300570405": 47,
+      "gas:candidate-vibid:1001000190467": 20,
+      "gas:candidate-vibid:1001000112285": 99,
+      "gas:candidate-vibid:1001000114004": 77,
+      "gas:candidate-vibid:378300570532": 77,
+      "gas:candidate-vibid:1001000195179": 6,
+      "gas:candidate-vibid:1001000136164": 31,
+      "gas:candidate-vibid:1001000188029": 101,
+      "gas:candidate-vibid:278200070547": 12,
+      "gas:candidate-vibid:378300570408": 18,
+      "gas:candidate-vibid:378300570582": 12,
+      "gas:candidate-vibid:1001000226019": 204,
+      "special:against-all": 124
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783005001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300570632&region=0&sub_region=0&type=429",
@@ -13866,19 +13866,19 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альев Георгий Анатольевич": 93,
-      "Вострецов Сергей Алексеевич": 51,
-      "Голов Анатолий Григорьевич": 147,
-      "Гуляев Сергей Владимирович": 79,
-      "Дашков Павел Петрович": 53,
-      "Киркин Владимир Иннокентьевич": 6,
-      "Комиссаров Тарас Юрьевич": 45,
-      "Кривенченко Анатолий Николаевич": 140,
-      "Морозов Игорь Вячеславович": 12,
-      "Прянишников Сергей Викторович": 14,
-      "Романцов Владимир Анатольевич": 15,
-      "Шевелев Андрей Владимирович": 212,
-      "Против всех": 142
+      "gas:candidate-vibid:378300570405": 93,
+      "gas:candidate-vibid:1001000190467": 51,
+      "gas:candidate-vibid:1001000112285": 147,
+      "gas:candidate-vibid:1001000114004": 79,
+      "gas:candidate-vibid:378300570532": 53,
+      "gas:candidate-vibid:1001000195179": 6,
+      "gas:candidate-vibid:1001000136164": 45,
+      "gas:candidate-vibid:1001000188029": 140,
+      "gas:candidate-vibid:278200070547": 12,
+      "gas:candidate-vibid:378300570408": 14,
+      "gas:candidate-vibid:378300570582": 15,
+      "gas:candidate-vibid:1001000226019": 212,
+      "special:against-all": 142
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783005001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300570632&region=0&sub_region=0&type=429",
@@ -13928,19 +13928,19 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альев Георгий Анатольевич": 61,
-      "Вострецов Сергей Алексеевич": 39,
-      "Голов Анатолий Григорьевич": 99,
-      "Гуляев Сергей Владимирович": 83,
-      "Дашков Павел Петрович": 67,
-      "Киркин Владимир Иннокентьевич": 4,
-      "Комиссаров Тарас Юрьевич": 32,
-      "Кривенченко Анатолий Николаевич": 134,
-      "Морозов Игорь Вячеславович": 24,
-      "Прянишников Сергей Викторович": 13,
-      "Романцов Владимир Анатольевич": 12,
-      "Шевелев Андрей Владимирович": 181,
-      "Против всех": 129
+      "gas:candidate-vibid:378300570405": 61,
+      "gas:candidate-vibid:1001000190467": 39,
+      "gas:candidate-vibid:1001000112285": 99,
+      "gas:candidate-vibid:1001000114004": 83,
+      "gas:candidate-vibid:378300570532": 67,
+      "gas:candidate-vibid:1001000195179": 4,
+      "gas:candidate-vibid:1001000136164": 32,
+      "gas:candidate-vibid:1001000188029": 134,
+      "gas:candidate-vibid:278200070547": 24,
+      "gas:candidate-vibid:378300570408": 13,
+      "gas:candidate-vibid:378300570582": 12,
+      "gas:candidate-vibid:1001000226019": 181,
+      "special:against-all": 129
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783005001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300570632&region=0&sub_region=0&type=429",
@@ -13990,19 +13990,19 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альев Георгий Анатольевич": 68,
-      "Вострецов Сергей Алексеевич": 51,
-      "Голов Анатолий Григорьевич": 157,
-      "Гуляев Сергей Владимирович": 108,
-      "Дашков Павел Петрович": 89,
-      "Киркин Владимир Иннокентьевич": 8,
-      "Комиссаров Тарас Юрьевич": 36,
-      "Кривенченко Анатолий Николаевич": 96,
-      "Морозов Игорь Вячеславович": 16,
-      "Прянишников Сергей Викторович": 8,
-      "Романцов Владимир Анатольевич": 14,
-      "Шевелев Андрей Владимирович": 185,
-      "Против всех": 119
+      "gas:candidate-vibid:378300570405": 68,
+      "gas:candidate-vibid:1001000190467": 51,
+      "gas:candidate-vibid:1001000112285": 157,
+      "gas:candidate-vibid:1001000114004": 108,
+      "gas:candidate-vibid:378300570532": 89,
+      "gas:candidate-vibid:1001000195179": 8,
+      "gas:candidate-vibid:1001000136164": 36,
+      "gas:candidate-vibid:1001000188029": 96,
+      "gas:candidate-vibid:278200070547": 16,
+      "gas:candidate-vibid:378300570408": 8,
+      "gas:candidate-vibid:378300570582": 14,
+      "gas:candidate-vibid:1001000226019": 185,
+      "special:against-all": 119
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783005001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300570632&region=0&sub_region=0&type=429",
@@ -14052,19 +14052,19 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альев Георгий Анатольевич": 78,
-      "Вострецов Сергей Алексеевич": 55,
-      "Голов Анатолий Григорьевич": 141,
-      "Гуляев Сергей Владимирович": 99,
-      "Дашков Павел Петрович": 98,
-      "Киркин Владимир Иннокентьевич": 6,
-      "Комиссаров Тарас Юрьевич": 26,
-      "Кривенченко Анатолий Николаевич": 150,
-      "Морозов Игорь Вячеславович": 16,
-      "Прянишников Сергей Викторович": 13,
-      "Романцов Владимир Анатольевич": 26,
-      "Шевелев Андрей Владимирович": 191,
-      "Против всех": 164
+      "gas:candidate-vibid:378300570405": 78,
+      "gas:candidate-vibid:1001000190467": 55,
+      "gas:candidate-vibid:1001000112285": 141,
+      "gas:candidate-vibid:1001000114004": 99,
+      "gas:candidate-vibid:378300570532": 98,
+      "gas:candidate-vibid:1001000195179": 6,
+      "gas:candidate-vibid:1001000136164": 26,
+      "gas:candidate-vibid:1001000188029": 150,
+      "gas:candidate-vibid:278200070547": 16,
+      "gas:candidate-vibid:378300570408": 13,
+      "gas:candidate-vibid:378300570582": 26,
+      "gas:candidate-vibid:1001000226019": 191,
+      "special:against-all": 164
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783005001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300570632&region=0&sub_region=0&type=429",
@@ -14114,19 +14114,19 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альев Георгий Анатольевич": 127,
-      "Вострецов Сергей Алексеевич": 31,
-      "Голов Анатолий Григорьевич": 122,
-      "Гуляев Сергей Владимирович": 64,
-      "Дашков Павел Петрович": 86,
-      "Киркин Владимир Иннокентьевич": 6,
-      "Комиссаров Тарас Юрьевич": 49,
-      "Кривенченко Анатолий Николаевич": 162,
-      "Морозов Игорь Вячеславович": 14,
-      "Прянишников Сергей Викторович": 7,
-      "Романцов Владимир Анатольевич": 17,
-      "Шевелев Андрей Владимирович": 186,
-      "Против всех": 152
+      "gas:candidate-vibid:378300570405": 127,
+      "gas:candidate-vibid:1001000190467": 31,
+      "gas:candidate-vibid:1001000112285": 122,
+      "gas:candidate-vibid:1001000114004": 64,
+      "gas:candidate-vibid:378300570532": 86,
+      "gas:candidate-vibid:1001000195179": 6,
+      "gas:candidate-vibid:1001000136164": 49,
+      "gas:candidate-vibid:1001000188029": 162,
+      "gas:candidate-vibid:278200070547": 14,
+      "gas:candidate-vibid:378300570408": 7,
+      "gas:candidate-vibid:378300570582": 17,
+      "gas:candidate-vibid:1001000226019": 186,
+      "special:against-all": 152
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783005001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300570632&region=0&sub_region=0&type=429",
@@ -14176,19 +14176,19 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альев Георгий Анатольевич": 90,
-      "Вострецов Сергей Алексеевич": 36,
-      "Голов Анатолий Григорьевич": 96,
-      "Гуляев Сергей Владимирович": 114,
-      "Дашков Павел Петрович": 110,
-      "Киркин Владимир Иннокентьевич": 14,
-      "Комиссаров Тарас Юрьевич": 43,
-      "Кривенченко Анатолий Николаевич": 136,
-      "Морозов Игорь Вячеславович": 34,
-      "Прянишников Сергей Викторович": 17,
-      "Романцов Владимир Анатольевич": 17,
-      "Шевелев Андрей Владимирович": 231,
-      "Против всех": 149
+      "gas:candidate-vibid:378300570405": 90,
+      "gas:candidate-vibid:1001000190467": 36,
+      "gas:candidate-vibid:1001000112285": 96,
+      "gas:candidate-vibid:1001000114004": 114,
+      "gas:candidate-vibid:378300570532": 110,
+      "gas:candidate-vibid:1001000195179": 14,
+      "gas:candidate-vibid:1001000136164": 43,
+      "gas:candidate-vibid:1001000188029": 136,
+      "gas:candidate-vibid:278200070547": 34,
+      "gas:candidate-vibid:378300570408": 17,
+      "gas:candidate-vibid:378300570582": 17,
+      "gas:candidate-vibid:1001000226019": 231,
+      "special:against-all": 149
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783005001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300570632&region=0&sub_region=0&type=429",
@@ -14238,19 +14238,19 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альев Георгий Анатольевич": 67,
-      "Вострецов Сергей Алексеевич": 19,
-      "Голов Анатолий Григорьевич": 150,
-      "Гуляев Сергей Владимирович": 103,
-      "Дашков Павел Петрович": 119,
-      "Киркин Владимир Иннокентьевич": 6,
-      "Комиссаров Тарас Юрьевич": 25,
-      "Кривенченко Анатолий Николаевич": 143,
-      "Морозов Игорь Вячеславович": 26,
-      "Прянишников Сергей Викторович": 21,
-      "Романцов Владимир Анатольевич": 7,
-      "Шевелев Андрей Владимирович": 194,
-      "Против всех": 161
+      "gas:candidate-vibid:378300570405": 67,
+      "gas:candidate-vibid:1001000190467": 19,
+      "gas:candidate-vibid:1001000112285": 150,
+      "gas:candidate-vibid:1001000114004": 103,
+      "gas:candidate-vibid:378300570532": 119,
+      "gas:candidate-vibid:1001000195179": 6,
+      "gas:candidate-vibid:1001000136164": 25,
+      "gas:candidate-vibid:1001000188029": 143,
+      "gas:candidate-vibid:278200070547": 26,
+      "gas:candidate-vibid:378300570408": 21,
+      "gas:candidate-vibid:378300570582": 7,
+      "gas:candidate-vibid:1001000226019": 194,
+      "special:against-all": 161
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783005001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300570632&region=0&sub_region=0&type=429",
@@ -14300,19 +14300,19 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альев Георгий Анатольевич": 98,
-      "Вострецов Сергей Алексеевич": 37,
-      "Голов Анатолий Григорьевич": 162,
-      "Гуляев Сергей Владимирович": 118,
-      "Дашков Павел Петрович": 78,
-      "Киркин Владимир Иннокентьевич": 6,
-      "Комиссаров Тарас Юрьевич": 31,
-      "Кривенченко Анатолий Николаевич": 164,
-      "Морозов Игорь Вячеславович": 37,
-      "Прянишников Сергей Викторович": 12,
-      "Романцов Владимир Анатольевич": 19,
-      "Шевелев Андрей Владимирович": 194,
-      "Против всех": 140
+      "gas:candidate-vibid:378300570405": 98,
+      "gas:candidate-vibid:1001000190467": 37,
+      "gas:candidate-vibid:1001000112285": 162,
+      "gas:candidate-vibid:1001000114004": 118,
+      "gas:candidate-vibid:378300570532": 78,
+      "gas:candidate-vibid:1001000195179": 6,
+      "gas:candidate-vibid:1001000136164": 31,
+      "gas:candidate-vibid:1001000188029": 164,
+      "gas:candidate-vibid:278200070547": 37,
+      "gas:candidate-vibid:378300570408": 12,
+      "gas:candidate-vibid:378300570582": 19,
+      "gas:candidate-vibid:1001000226019": 194,
+      "special:against-all": 140
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783005001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300570632&region=0&sub_region=0&type=429",
@@ -14362,19 +14362,19 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альев Георгий Анатольевич": 101,
-      "Вострецов Сергей Алексеевич": 27,
-      "Голов Анатолий Григорьевич": 127,
-      "Гуляев Сергей Владимирович": 105,
-      "Дашков Павел Петрович": 89,
-      "Киркин Владимир Иннокентьевич": 7,
-      "Комиссаров Тарас Юрьевич": 32,
-      "Кривенченко Анатолий Николаевич": 137,
-      "Морозов Игорь Вячеславович": 22,
-      "Прянишников Сергей Викторович": 11,
-      "Романцов Владимир Анатольевич": 13,
-      "Шевелев Андрей Владимирович": 223,
-      "Против всех": 185
+      "gas:candidate-vibid:378300570405": 101,
+      "gas:candidate-vibid:1001000190467": 27,
+      "gas:candidate-vibid:1001000112285": 127,
+      "gas:candidate-vibid:1001000114004": 105,
+      "gas:candidate-vibid:378300570532": 89,
+      "gas:candidate-vibid:1001000195179": 7,
+      "gas:candidate-vibid:1001000136164": 32,
+      "gas:candidate-vibid:1001000188029": 137,
+      "gas:candidate-vibid:278200070547": 22,
+      "gas:candidate-vibid:378300570408": 11,
+      "gas:candidate-vibid:378300570582": 13,
+      "gas:candidate-vibid:1001000226019": 223,
+      "special:against-all": 185
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783005001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300570632&region=0&sub_region=0&type=429",
@@ -14424,19 +14424,19 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альев Георгий Анатольевич": 50,
-      "Вострецов Сергей Алексеевич": 22,
-      "Голов Анатолий Григорьевич": 127,
-      "Гуляев Сергей Владимирович": 93,
-      "Дашков Павел Петрович": 91,
-      "Киркин Владимир Иннокентьевич": 2,
-      "Комиссаров Тарас Юрьевич": 32,
-      "Кривенченко Анатолий Николаевич": 107,
-      "Морозов Игорь Вячеславович": 11,
-      "Прянишников Сергей Викторович": 13,
-      "Романцов Владимир Анатольевич": 8,
-      "Шевелев Андрей Владимирович": 179,
-      "Против всех": 122
+      "gas:candidate-vibid:378300570405": 50,
+      "gas:candidate-vibid:1001000190467": 22,
+      "gas:candidate-vibid:1001000112285": 127,
+      "gas:candidate-vibid:1001000114004": 93,
+      "gas:candidate-vibid:378300570532": 91,
+      "gas:candidate-vibid:1001000195179": 2,
+      "gas:candidate-vibid:1001000136164": 32,
+      "gas:candidate-vibid:1001000188029": 107,
+      "gas:candidate-vibid:278200070547": 11,
+      "gas:candidate-vibid:378300570408": 13,
+      "gas:candidate-vibid:378300570582": 8,
+      "gas:candidate-vibid:1001000226019": 179,
+      "special:against-all": 122
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783005001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300570632&region=0&sub_region=0&type=429",
@@ -14486,19 +14486,19 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альев Георгий Анатольевич": 52,
-      "Вострецов Сергей Алексеевич": 28,
-      "Голов Анатолий Григорьевич": 144,
-      "Гуляев Сергей Владимирович": 86,
-      "Дашков Павел Петрович": 57,
-      "Киркин Владимир Иннокентьевич": 5,
-      "Комиссаров Тарас Юрьевич": 28,
-      "Кривенченко Анатолий Николаевич": 134,
-      "Морозов Игорь Вячеславович": 12,
-      "Прянишников Сергей Викторович": 15,
-      "Романцов Владимир Анатольевич": 12,
-      "Шевелев Андрей Владимирович": 196,
-      "Против всех": 99
+      "gas:candidate-vibid:378300570405": 52,
+      "gas:candidate-vibid:1001000190467": 28,
+      "gas:candidate-vibid:1001000112285": 144,
+      "gas:candidate-vibid:1001000114004": 86,
+      "gas:candidate-vibid:378300570532": 57,
+      "gas:candidate-vibid:1001000195179": 5,
+      "gas:candidate-vibid:1001000136164": 28,
+      "gas:candidate-vibid:1001000188029": 134,
+      "gas:candidate-vibid:278200070547": 12,
+      "gas:candidate-vibid:378300570408": 15,
+      "gas:candidate-vibid:378300570582": 12,
+      "gas:candidate-vibid:1001000226019": 196,
+      "special:against-all": 99
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783005001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300570632&region=0&sub_region=0&type=429",
@@ -14548,19 +14548,19 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альев Георгий Анатольевич": 61,
-      "Вострецов Сергей Алексеевич": 37,
-      "Голов Анатолий Григорьевич": 132,
-      "Гуляев Сергей Владимирович": 90,
-      "Дашков Павел Петрович": 66,
-      "Киркин Владимир Иннокентьевич": 16,
-      "Комиссаров Тарас Юрьевич": 24,
-      "Кривенченко Анатолий Николаевич": 120,
-      "Морозов Игорь Вячеславович": 12,
-      "Прянишников Сергей Викторович": 9,
-      "Романцов Владимир Анатольевич": 9,
-      "Шевелев Андрей Владимирович": 226,
-      "Против всех": 126
+      "gas:candidate-vibid:378300570405": 61,
+      "gas:candidate-vibid:1001000190467": 37,
+      "gas:candidate-vibid:1001000112285": 132,
+      "gas:candidate-vibid:1001000114004": 90,
+      "gas:candidate-vibid:378300570532": 66,
+      "gas:candidate-vibid:1001000195179": 16,
+      "gas:candidate-vibid:1001000136164": 24,
+      "gas:candidate-vibid:1001000188029": 120,
+      "gas:candidate-vibid:278200070547": 12,
+      "gas:candidate-vibid:378300570408": 9,
+      "gas:candidate-vibid:378300570582": 9,
+      "gas:candidate-vibid:1001000226019": 226,
+      "special:against-all": 126
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783005002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300570633&region=0&sub_region=0&type=429",
@@ -14610,19 +14610,19 @@ export const duma_2003_uik_428_region_78_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альев Георгий Анатольевич": 87,
-      "Вострецов Сергей Алексеевич": 39,
-      "Голов Анатолий Григорьевич": 216,
-      "Гуляев Сергей Владимирович": 115,
-      "Дашков Павел Петрович": 81,
-      "Киркин Владимир Иннокентьевич": 6,
-      "Комиссаров Тарас Юрьевич": 24,
-      "Кривенченко Анатолий Николаевич": 150,
-      "Морозов Игорь Вячеславович": 6,
-      "Прянишников Сергей Викторович": 13,
-      "Романцов Владимир Анатольевич": 12,
-      "Шевелев Андрей Владимирович": 287,
-      "Против всех": 130
+      "gas:candidate-vibid:378300570405": 87,
+      "gas:candidate-vibid:1001000190467": 39,
+      "gas:candidate-vibid:1001000112285": 216,
+      "gas:candidate-vibid:1001000114004": 115,
+      "gas:candidate-vibid:378300570532": 81,
+      "gas:candidate-vibid:1001000195179": 6,
+      "gas:candidate-vibid:1001000136164": 24,
+      "gas:candidate-vibid:1001000188029": 150,
+      "gas:candidate-vibid:278200070547": 6,
+      "gas:candidate-vibid:378300570408": 13,
+      "gas:candidate-vibid:378300570582": 12,
+      "gas:candidate-vibid:1001000226019": 287,
+      "special:against-all": 130
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783005002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300570633&region=0&sub_region=0&type=429",

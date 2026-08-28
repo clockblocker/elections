@@ -42,14 +42,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 2,
-      "Безбородов Николай Максимович": 13,
-      "Веревкин Валерий Иванович": 2,
-      "Иванов Алексей Иванович": 3,
-      "Кислицын Василий Александрович": 44,
-      "Усманов Владимир Викторович": 19,
-      "Широков Игорь Юрьевич": 0,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000136067": 2,
+      "gas:candidate-vibid:245200067211": 13,
+      "gas:candidate-vibid:1001000190357": 2,
+      "gas:candidate-vibid:1001000112219": 3,
+      "gas:candidate-vibid:1001000121857": 44,
+      "gas:candidate-vibid:245200067363": 19,
+      "gas:candidate-vibid:1001000195086": 0,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066773&region=0&sub_region=0&type=429",
@@ -99,14 +99,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 12,
-      "Безбородов Николай Максимович": 17,
-      "Веревкин Валерий Иванович": 1,
-      "Иванов Алексей Иванович": 3,
-      "Кислицын Василий Александрович": 35,
-      "Усманов Владимир Викторович": 18,
-      "Широков Игорь Юрьевич": 2,
-      "Против всех": 25
+      "gas:candidate-vibid:1001000136067": 12,
+      "gas:candidate-vibid:245200067211": 17,
+      "gas:candidate-vibid:1001000190357": 1,
+      "gas:candidate-vibid:1001000112219": 3,
+      "gas:candidate-vibid:1001000121857": 35,
+      "gas:candidate-vibid:245200067363": 18,
+      "gas:candidate-vibid:1001000195086": 2,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066773&region=0&sub_region=0&type=429",
@@ -156,14 +156,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 48,
-      "Безбородов Николай Максимович": 81,
-      "Веревкин Валерий Иванович": 28,
-      "Иванов Алексей Иванович": 8,
-      "Кислицын Василий Александрович": 98,
-      "Усманов Владимир Викторович": 63,
-      "Широков Игорь Юрьевич": 4,
-      "Против всех": 60
+      "gas:candidate-vibid:1001000136067": 48,
+      "gas:candidate-vibid:245200067211": 81,
+      "gas:candidate-vibid:1001000190357": 28,
+      "gas:candidate-vibid:1001000112219": 8,
+      "gas:candidate-vibid:1001000121857": 98,
+      "gas:candidate-vibid:245200067363": 63,
+      "gas:candidate-vibid:1001000195086": 4,
+      "special:against-all": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066773&region=0&sub_region=0&type=429",
@@ -213,14 +213,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 74,
-      "Безбородов Николай Максимович": 41,
-      "Веревкин Валерий Иванович": 25,
-      "Иванов Алексей Иванович": 12,
-      "Кислицын Василий Александрович": 169,
-      "Усманов Владимир Викторович": 54,
-      "Широков Игорь Юрьевич": 7,
-      "Против всех": 77
+      "gas:candidate-vibid:1001000136067": 74,
+      "gas:candidate-vibid:245200067211": 41,
+      "gas:candidate-vibid:1001000190357": 25,
+      "gas:candidate-vibid:1001000112219": 12,
+      "gas:candidate-vibid:1001000121857": 169,
+      "gas:candidate-vibid:245200067363": 54,
+      "gas:candidate-vibid:1001000195086": 7,
+      "special:against-all": 77
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066773&region=0&sub_region=0&type=429",
@@ -270,14 +270,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 17,
-      "Безбородов Николай Максимович": 18,
-      "Веревкин Валерий Иванович": 11,
-      "Иванов Алексей Иванович": 7,
-      "Кислицын Василий Александрович": 41,
-      "Усманов Владимир Викторович": 9,
-      "Широков Игорь Юрьевич": 1,
-      "Против всех": 26
+      "gas:candidate-vibid:1001000136067": 17,
+      "gas:candidate-vibid:245200067211": 18,
+      "gas:candidate-vibid:1001000190357": 11,
+      "gas:candidate-vibid:1001000112219": 7,
+      "gas:candidate-vibid:1001000121857": 41,
+      "gas:candidate-vibid:245200067363": 9,
+      "gas:candidate-vibid:1001000195086": 1,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066773&region=0&sub_region=0&type=429",
@@ -327,14 +327,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 11,
-      "Безбородов Николай Максимович": 49,
-      "Веревкин Валерий Иванович": 2,
-      "Иванов Алексей Иванович": 6,
-      "Кислицын Василий Александрович": 74,
-      "Усманов Владимир Викторович": 11,
-      "Широков Игорь Юрьевич": 0,
-      "Против всех": 86
+      "gas:candidate-vibid:1001000136067": 11,
+      "gas:candidate-vibid:245200067211": 49,
+      "gas:candidate-vibid:1001000190357": 2,
+      "gas:candidate-vibid:1001000112219": 6,
+      "gas:candidate-vibid:1001000121857": 74,
+      "gas:candidate-vibid:245200067363": 11,
+      "gas:candidate-vibid:1001000195086": 0,
+      "special:against-all": 86
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066773&region=0&sub_region=0&type=429",
@@ -384,14 +384,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 10,
-      "Безбородов Николай Максимович": 17,
-      "Веревкин Валерий Иванович": 4,
-      "Иванов Алексей Иванович": 8,
-      "Кислицын Василий Александрович": 18,
-      "Усманов Владимир Викторович": 16,
-      "Широков Игорь Юрьевич": 1,
-      "Против всех": 28
+      "gas:candidate-vibid:1001000136067": 10,
+      "gas:candidate-vibid:245200067211": 17,
+      "gas:candidate-vibid:1001000190357": 4,
+      "gas:candidate-vibid:1001000112219": 8,
+      "gas:candidate-vibid:1001000121857": 18,
+      "gas:candidate-vibid:245200067363": 16,
+      "gas:candidate-vibid:1001000195086": 1,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066773&region=0&sub_region=0&type=429",
@@ -441,14 +441,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 48,
-      "Безбородов Николай Максимович": 101,
-      "Веревкин Валерий Иванович": 2,
-      "Иванов Алексей Иванович": 10,
-      "Кислицын Василий Александрович": 6,
-      "Усманов Владимир Викторович": 38,
-      "Широков Игорь Юрьевич": 20,
-      "Против всех": 84
+      "gas:candidate-vibid:1001000136067": 48,
+      "gas:candidate-vibid:245200067211": 101,
+      "gas:candidate-vibid:1001000190357": 2,
+      "gas:candidate-vibid:1001000112219": 10,
+      "gas:candidate-vibid:1001000121857": 6,
+      "gas:candidate-vibid:245200067363": 38,
+      "gas:candidate-vibid:1001000195086": 20,
+      "special:against-all": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066774&region=0&sub_region=0&type=429",
@@ -498,14 +498,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 64,
-      "Безбородов Николай Максимович": 134,
-      "Веревкин Валерий Иванович": 14,
-      "Иванов Алексей Иванович": 4,
-      "Кислицын Василий Александрович": 64,
-      "Усманов Владимир Викторович": 58,
-      "Широков Игорь Юрьевич": 5,
-      "Против всех": 59
+      "gas:candidate-vibid:1001000136067": 64,
+      "gas:candidate-vibid:245200067211": 134,
+      "gas:candidate-vibid:1001000190357": 14,
+      "gas:candidate-vibid:1001000112219": 4,
+      "gas:candidate-vibid:1001000121857": 64,
+      "gas:candidate-vibid:245200067363": 58,
+      "gas:candidate-vibid:1001000195086": 5,
+      "special:against-all": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066774&region=0&sub_region=0&type=429",
@@ -555,14 +555,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 57,
-      "Безбородов Николай Максимович": 63,
-      "Веревкин Валерий Иванович": 14,
-      "Иванов Алексей Иванович": 8,
-      "Кислицын Василий Александрович": 24,
-      "Усманов Владимир Викторович": 27,
-      "Широков Игорь Юрьевич": 7,
-      "Против всех": 35
+      "gas:candidate-vibid:1001000136067": 57,
+      "gas:candidate-vibid:245200067211": 63,
+      "gas:candidate-vibid:1001000190357": 14,
+      "gas:candidate-vibid:1001000112219": 8,
+      "gas:candidate-vibid:1001000121857": 24,
+      "gas:candidate-vibid:245200067363": 27,
+      "gas:candidate-vibid:1001000195086": 7,
+      "special:against-all": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066774&region=0&sub_region=0&type=429",
@@ -612,14 +612,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 37,
-      "Безбородов Николай Максимович": 62,
-      "Веревкин Валерий Иванович": 22,
-      "Иванов Алексей Иванович": 6,
-      "Кислицын Василий Александрович": 18,
-      "Усманов Владимир Викторович": 24,
-      "Широков Игорь Юрьевич": 3,
-      "Против всех": 55
+      "gas:candidate-vibid:1001000136067": 37,
+      "gas:candidate-vibid:245200067211": 62,
+      "gas:candidate-vibid:1001000190357": 22,
+      "gas:candidate-vibid:1001000112219": 6,
+      "gas:candidate-vibid:1001000121857": 18,
+      "gas:candidate-vibid:245200067363": 24,
+      "gas:candidate-vibid:1001000195086": 3,
+      "special:against-all": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066774&region=0&sub_region=0&type=429",
@@ -669,14 +669,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 24,
-      "Безбородов Николай Максимович": 101,
-      "Веревкин Валерий Иванович": 9,
-      "Иванов Алексей Иванович": 18,
-      "Кислицын Василий Александрович": 16,
-      "Усманов Владимир Викторович": 61,
-      "Широков Игорь Юрьевич": 4,
-      "Против всех": 64
+      "gas:candidate-vibid:1001000136067": 24,
+      "gas:candidate-vibid:245200067211": 101,
+      "gas:candidate-vibid:1001000190357": 9,
+      "gas:candidate-vibid:1001000112219": 18,
+      "gas:candidate-vibid:1001000121857": 16,
+      "gas:candidate-vibid:245200067363": 61,
+      "gas:candidate-vibid:1001000195086": 4,
+      "special:against-all": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066774&region=0&sub_region=0&type=429",
@@ -726,14 +726,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 10,
-      "Безбородов Николай Максимович": 52,
-      "Веревкин Валерий Иванович": 3,
-      "Иванов Алексей Иванович": 2,
-      "Кислицын Василий Александрович": 17,
-      "Усманов Владимир Викторович": 18,
-      "Широков Игорь Юрьевич": 1,
-      "Против всех": 30
+      "gas:candidate-vibid:1001000136067": 10,
+      "gas:candidate-vibid:245200067211": 52,
+      "gas:candidate-vibid:1001000190357": 3,
+      "gas:candidate-vibid:1001000112219": 2,
+      "gas:candidate-vibid:1001000121857": 17,
+      "gas:candidate-vibid:245200067363": 18,
+      "gas:candidate-vibid:1001000195086": 1,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066774&region=0&sub_region=0&type=429",
@@ -783,14 +783,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 2,
-      "Безбородов Николай Максимович": 18,
-      "Веревкин Валерий Иванович": 0,
-      "Иванов Алексей Иванович": 3,
-      "Кислицын Василий Александрович": 17,
-      "Усманов Владимир Викторович": 6,
-      "Широков Игорь Юрьевич": 1,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000136067": 2,
+      "gas:candidate-vibid:245200067211": 18,
+      "gas:candidate-vibid:1001000190357": 0,
+      "gas:candidate-vibid:1001000112219": 3,
+      "gas:candidate-vibid:1001000121857": 17,
+      "gas:candidate-vibid:245200067363": 6,
+      "gas:candidate-vibid:1001000195086": 1,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066774&region=0&sub_region=0&type=429",
@@ -840,14 +840,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 11,
-      "Безбородов Николай Максимович": 24,
-      "Веревкин Валерий Иванович": 3,
-      "Иванов Алексей Иванович": 7,
-      "Кислицын Василий Александрович": 11,
-      "Усманов Владимир Викторович": 8,
-      "Широков Игорь Юрьевич": 4,
-      "Против всех": 61
+      "gas:candidate-vibid:1001000136067": 11,
+      "gas:candidate-vibid:245200067211": 24,
+      "gas:candidate-vibid:1001000190357": 3,
+      "gas:candidate-vibid:1001000112219": 7,
+      "gas:candidate-vibid:1001000121857": 11,
+      "gas:candidate-vibid:245200067363": 8,
+      "gas:candidate-vibid:1001000195086": 4,
+      "special:against-all": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066774&region=0&sub_region=0&type=429",
@@ -897,14 +897,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 31,
-      "Безбородов Николай Максимович": 62,
-      "Веревкин Валерий Иванович": 3,
-      "Иванов Алексей Иванович": 10,
-      "Кислицын Василий Александрович": 46,
-      "Усманов Владимир Викторович": 18,
-      "Широков Игорь Юрьевич": 1,
-      "Против всех": 48
+      "gas:candidate-vibid:1001000136067": 31,
+      "gas:candidate-vibid:245200067211": 62,
+      "gas:candidate-vibid:1001000190357": 3,
+      "gas:candidate-vibid:1001000112219": 10,
+      "gas:candidate-vibid:1001000121857": 46,
+      "gas:candidate-vibid:245200067363": 18,
+      "gas:candidate-vibid:1001000195086": 1,
+      "special:against-all": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066774&region=0&sub_region=0&type=429",
@@ -954,14 +954,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 7,
-      "Безбородов Николай Максимович": 56,
-      "Веревкин Валерий Иванович": 4,
-      "Иванов Алексей Иванович": 5,
-      "Кислицын Василий Александрович": 6,
-      "Усманов Владимир Викторович": 4,
-      "Широков Игорь Юрьевич": 2,
-      "Против всех": 32
+      "gas:candidate-vibid:1001000136067": 7,
+      "gas:candidate-vibid:245200067211": 56,
+      "gas:candidate-vibid:1001000190357": 4,
+      "gas:candidate-vibid:1001000112219": 5,
+      "gas:candidate-vibid:1001000121857": 6,
+      "gas:candidate-vibid:245200067363": 4,
+      "gas:candidate-vibid:1001000195086": 2,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066774&region=0&sub_region=0&type=429",
@@ -1011,14 +1011,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 20,
-      "Безбородов Николай Максимович": 62,
-      "Веревкин Валерий Иванович": 7,
-      "Иванов Алексей Иванович": 6,
-      "Кислицын Василий Александрович": 33,
-      "Усманов Владимир Викторович": 44,
-      "Широков Игорь Юрьевич": 3,
-      "Против всех": 34
+      "gas:candidate-vibid:1001000136067": 20,
+      "gas:candidate-vibid:245200067211": 62,
+      "gas:candidate-vibid:1001000190357": 7,
+      "gas:candidate-vibid:1001000112219": 6,
+      "gas:candidate-vibid:1001000121857": 33,
+      "gas:candidate-vibid:245200067363": 44,
+      "gas:candidate-vibid:1001000195086": 3,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066774&region=0&sub_region=0&type=429",
@@ -1068,14 +1068,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 11,
-      "Безбородов Николай Максимович": 48,
-      "Веревкин Валерий Иванович": 2,
-      "Иванов Алексей Иванович": 5,
-      "Кислицын Василий Александрович": 9,
-      "Усманов Владимир Викторович": 17,
-      "Широков Игорь Юрьевич": 3,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000136067": 11,
+      "gas:candidate-vibid:245200067211": 48,
+      "gas:candidate-vibid:1001000190357": 2,
+      "gas:candidate-vibid:1001000112219": 5,
+      "gas:candidate-vibid:1001000121857": 9,
+      "gas:candidate-vibid:245200067363": 17,
+      "gas:candidate-vibid:1001000195086": 3,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066774&region=0&sub_region=0&type=429",
@@ -1125,14 +1125,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 76,
-      "Безбородов Николай Максимович": 189,
-      "Веревкин Валерий Иванович": 25,
-      "Иванов Алексей Иванович": 27,
-      "Кислицын Василий Александрович": 55,
-      "Усманов Владимир Викторович": 87,
-      "Широков Игорь Юрьевич": 6,
-      "Против всех": 99
+      "gas:candidate-vibid:1001000136067": 76,
+      "gas:candidate-vibid:245200067211": 189,
+      "gas:candidate-vibid:1001000190357": 25,
+      "gas:candidate-vibid:1001000112219": 27,
+      "gas:candidate-vibid:1001000121857": 55,
+      "gas:candidate-vibid:245200067363": 87,
+      "gas:candidate-vibid:1001000195086": 6,
+      "special:against-all": 99
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066774&region=0&sub_region=0&type=429",
@@ -1182,14 +1182,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 80,
-      "Безбородов Николай Максимович": 183,
-      "Веревкин Валерий Иванович": 28,
-      "Иванов Алексей Иванович": 13,
-      "Кислицын Василий Александрович": 82,
-      "Усманов Владимир Викторович": 76,
-      "Широков Игорь Юрьевич": 12,
-      "Против всех": 172
+      "gas:candidate-vibid:1001000136067": 80,
+      "gas:candidate-vibid:245200067211": 183,
+      "gas:candidate-vibid:1001000190357": 28,
+      "gas:candidate-vibid:1001000112219": 13,
+      "gas:candidate-vibid:1001000121857": 82,
+      "gas:candidate-vibid:245200067363": 76,
+      "gas:candidate-vibid:1001000195086": 12,
+      "special:against-all": 172
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066774&region=0&sub_region=0&type=429",
@@ -1239,14 +1239,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 138,
-      "Безбородов Николай Максимович": 207,
-      "Веревкин Валерий Иванович": 41,
-      "Иванов Алексей Иванович": 19,
-      "Кислицын Василий Александрович": 50,
-      "Усманов Владимир Викторович": 55,
-      "Широков Игорь Юрьевич": 10,
-      "Против всех": 140
+      "gas:candidate-vibid:1001000136067": 138,
+      "gas:candidate-vibid:245200067211": 207,
+      "gas:candidate-vibid:1001000190357": 41,
+      "gas:candidate-vibid:1001000112219": 19,
+      "gas:candidate-vibid:1001000121857": 50,
+      "gas:candidate-vibid:245200067363": 55,
+      "gas:candidate-vibid:1001000195086": 10,
+      "special:against-all": 140
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066774&region=0&sub_region=0&type=429",
@@ -1296,14 +1296,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 62,
-      "Безбородов Николай Максимович": 90,
-      "Веревкин Валерий Иванович": 22,
-      "Иванов Алексей Иванович": 8,
-      "Кислицын Василий Александрович": 26,
-      "Усманов Владимир Викторович": 17,
-      "Широков Игорь Юрьевич": 1,
-      "Против всех": 82
+      "gas:candidate-vibid:1001000136067": 62,
+      "gas:candidate-vibid:245200067211": 90,
+      "gas:candidate-vibid:1001000190357": 22,
+      "gas:candidate-vibid:1001000112219": 8,
+      "gas:candidate-vibid:1001000121857": 26,
+      "gas:candidate-vibid:245200067363": 17,
+      "gas:candidate-vibid:1001000195086": 1,
+      "special:against-all": 82
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066774&region=0&sub_region=0&type=429",
@@ -1353,14 +1353,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 29,
-      "Безбородов Николай Максимович": 27,
-      "Веревкин Валерий Иванович": 7,
-      "Иванов Алексей Иванович": 1,
-      "Кислицын Василий Александрович": 3,
-      "Усманов Владимир Викторович": 12,
-      "Широков Игорь Юрьевич": 0,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000136067": 29,
+      "gas:candidate-vibid:245200067211": 27,
+      "gas:candidate-vibid:1001000190357": 7,
+      "gas:candidate-vibid:1001000112219": 1,
+      "gas:candidate-vibid:1001000121857": 3,
+      "gas:candidate-vibid:245200067363": 12,
+      "gas:candidate-vibid:1001000195086": 0,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066774&region=0&sub_region=0&type=429",
@@ -1410,14 +1410,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 9,
-      "Безбородов Николай Максимович": 27,
-      "Веревкин Валерий Иванович": 10,
-      "Иванов Алексей Иванович": 2,
-      "Кислицын Василий Александрович": 11,
-      "Усманов Владимир Викторович": 7,
-      "Широков Игорь Юрьевич": 3,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000136067": 9,
+      "gas:candidate-vibid:245200067211": 27,
+      "gas:candidate-vibid:1001000190357": 10,
+      "gas:candidate-vibid:1001000112219": 2,
+      "gas:candidate-vibid:1001000121857": 11,
+      "gas:candidate-vibid:245200067363": 7,
+      "gas:candidate-vibid:1001000195086": 3,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066774&region=0&sub_region=0&type=429",
@@ -1467,14 +1467,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 16,
-      "Безбородов Николай Максимович": 59,
-      "Веревкин Валерий Иванович": 6,
-      "Иванов Алексей Иванович": 4,
-      "Кислицын Василий Александрович": 10,
-      "Усманов Владимир Викторович": 7,
-      "Широков Игорь Юрьевич": 1,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000136067": 16,
+      "gas:candidate-vibid:245200067211": 59,
+      "gas:candidate-vibid:1001000190357": 6,
+      "gas:candidate-vibid:1001000112219": 4,
+      "gas:candidate-vibid:1001000121857": 10,
+      "gas:candidate-vibid:245200067363": 7,
+      "gas:candidate-vibid:1001000195086": 1,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066774&region=0&sub_region=0&type=429",
@@ -1524,14 +1524,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 26,
-      "Безбородов Николай Максимович": 73,
-      "Веревкин Валерий Иванович": 16,
-      "Иванов Алексей Иванович": 14,
-      "Кислицын Василий Александрович": 9,
-      "Усманов Владимир Викторович": 49,
-      "Широков Игорь Юрьевич": 4,
-      "Против всех": 35
+      "gas:candidate-vibid:1001000136067": 26,
+      "gas:candidate-vibid:245200067211": 73,
+      "gas:candidate-vibid:1001000190357": 16,
+      "gas:candidate-vibid:1001000112219": 14,
+      "gas:candidate-vibid:1001000121857": 9,
+      "gas:candidate-vibid:245200067363": 49,
+      "gas:candidate-vibid:1001000195086": 4,
+      "special:against-all": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066774&region=0&sub_region=0&type=429",
@@ -1581,14 +1581,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 3,
-      "Безбородов Николай Максимович": 48,
-      "Веревкин Валерий Иванович": 3,
-      "Иванов Алексей Иванович": 0,
-      "Кислицын Василий Александрович": 1,
-      "Усманов Владимир Викторович": 3,
-      "Широков Игорь Юрьевич": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000136067": 3,
+      "gas:candidate-vibid:245200067211": 48,
+      "gas:candidate-vibid:1001000190357": 3,
+      "gas:candidate-vibid:1001000112219": 0,
+      "gas:candidate-vibid:1001000121857": 1,
+      "gas:candidate-vibid:245200067363": 3,
+      "gas:candidate-vibid:1001000195086": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066774&region=0&sub_region=0&type=429",
@@ -1638,14 +1638,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 52,
-      "Безбородов Николай Максимович": 160,
-      "Веревкин Валерий Иванович": 27,
-      "Иванов Алексей Иванович": 22,
-      "Кислицын Василий Александрович": 53,
-      "Усманов Владимир Викторович": 52,
-      "Широков Игорь Юрьевич": 5,
-      "Против всех": 74
+      "gas:candidate-vibid:1001000136067": 52,
+      "gas:candidate-vibid:245200067211": 160,
+      "gas:candidate-vibid:1001000190357": 27,
+      "gas:candidate-vibid:1001000112219": 22,
+      "gas:candidate-vibid:1001000121857": 53,
+      "gas:candidate-vibid:245200067363": 52,
+      "gas:candidate-vibid:1001000195086": 5,
+      "special:against-all": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066774&region=0&sub_region=0&type=429",
@@ -1695,14 +1695,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 14,
-      "Безбородов Николай Максимович": 36,
-      "Веревкин Валерий Иванович": 5,
-      "Иванов Алексей Иванович": 6,
-      "Кислицын Василий Александрович": 20,
-      "Усманов Владимир Викторович": 21,
-      "Широков Игорь Юрьевич": 0,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000136067": 14,
+      "gas:candidate-vibid:245200067211": 36,
+      "gas:candidate-vibid:1001000190357": 5,
+      "gas:candidate-vibid:1001000112219": 6,
+      "gas:candidate-vibid:1001000121857": 20,
+      "gas:candidate-vibid:245200067363": 21,
+      "gas:candidate-vibid:1001000195086": 0,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066774&region=0&sub_region=0&type=429",
@@ -1752,14 +1752,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 28,
-      "Безбородов Николай Максимович": 34,
-      "Веревкин Валерий Иванович": 6,
-      "Иванов Алексей Иванович": 7,
-      "Кислицын Василий Александрович": 6,
-      "Усманов Владимир Викторович": 35,
-      "Широков Игорь Юрьевич": 4,
-      "Против всех": 43
+      "gas:candidate-vibid:1001000136067": 28,
+      "gas:candidate-vibid:245200067211": 34,
+      "gas:candidate-vibid:1001000190357": 6,
+      "gas:candidate-vibid:1001000112219": 7,
+      "gas:candidate-vibid:1001000121857": 6,
+      "gas:candidate-vibid:245200067363": 35,
+      "gas:candidate-vibid:1001000195086": 4,
+      "special:against-all": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066774&region=0&sub_region=0&type=429",
@@ -1809,14 +1809,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 17,
-      "Безбородов Николай Максимович": 7,
-      "Веревкин Валерий Иванович": 1,
-      "Иванов Алексей Иванович": 2,
-      "Кислицын Василий Александрович": 13,
-      "Усманов Владимир Викторович": 1,
-      "Широков Игорь Юрьевич": 0,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000136067": 17,
+      "gas:candidate-vibid:245200067211": 7,
+      "gas:candidate-vibid:1001000190357": 1,
+      "gas:candidate-vibid:1001000112219": 2,
+      "gas:candidate-vibid:1001000121857": 13,
+      "gas:candidate-vibid:245200067363": 1,
+      "gas:candidate-vibid:1001000195086": 0,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066774&region=0&sub_region=0&type=429",
@@ -1866,14 +1866,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 54,
-      "Безбородов Николай Максимович": 140,
-      "Веревкин Валерий Иванович": 9,
-      "Иванов Алексей Иванович": 13,
-      "Кислицын Василий Александрович": 51,
-      "Усманов Владимир Викторович": 31,
-      "Широков Игорь Юрьевич": 2,
-      "Против всех": 56
+      "gas:candidate-vibid:1001000136067": 54,
+      "gas:candidate-vibid:245200067211": 140,
+      "gas:candidate-vibid:1001000190357": 9,
+      "gas:candidate-vibid:1001000112219": 13,
+      "gas:candidate-vibid:1001000121857": 51,
+      "gas:candidate-vibid:245200067363": 31,
+      "gas:candidate-vibid:1001000195086": 2,
+      "special:against-all": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066774&region=0&sub_region=0&type=429",
@@ -1923,14 +1923,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 8,
-      "Безбородов Николай Максимович": 37,
-      "Веревкин Валерий Иванович": 2,
-      "Иванов Алексей Иванович": 3,
-      "Кислицын Василий Александрович": 16,
-      "Усманов Владимир Викторович": 3,
-      "Широков Игорь Юрьевич": 2,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000136067": 8,
+      "gas:candidate-vibid:245200067211": 37,
+      "gas:candidate-vibid:1001000190357": 2,
+      "gas:candidate-vibid:1001000112219": 3,
+      "gas:candidate-vibid:1001000121857": 16,
+      "gas:candidate-vibid:245200067363": 3,
+      "gas:candidate-vibid:1001000195086": 2,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066774&region=0&sub_region=0&type=429",
@@ -1980,14 +1980,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 47,
-      "Безбородов Николай Максимович": 83,
-      "Веревкин Валерий Иванович": 17,
-      "Иванов Алексей Иванович": 10,
-      "Кислицын Василий Александрович": 27,
-      "Усманов Владимир Викторович": 23,
-      "Широков Игорь Юрьевич": 8,
-      "Против всех": 117
+      "gas:candidate-vibid:1001000136067": 47,
+      "gas:candidate-vibid:245200067211": 83,
+      "gas:candidate-vibid:1001000190357": 17,
+      "gas:candidate-vibid:1001000112219": 10,
+      "gas:candidate-vibid:1001000121857": 27,
+      "gas:candidate-vibid:245200067363": 23,
+      "gas:candidate-vibid:1001000195086": 8,
+      "special:against-all": 117
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066774&region=0&sub_region=0&type=429",
@@ -2037,14 +2037,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 37,
-      "Безбородов Николай Максимович": 94,
-      "Веревкин Валерий Иванович": 11,
-      "Иванов Алексей Иванович": 4,
-      "Кислицын Василий Александрович": 28,
-      "Усманов Владимир Викторович": 47,
-      "Широков Игорь Юрьевич": 8,
-      "Против всех": 38
+      "gas:candidate-vibid:1001000136067": 37,
+      "gas:candidate-vibid:245200067211": 94,
+      "gas:candidate-vibid:1001000190357": 11,
+      "gas:candidate-vibid:1001000112219": 4,
+      "gas:candidate-vibid:1001000121857": 28,
+      "gas:candidate-vibid:245200067363": 47,
+      "gas:candidate-vibid:1001000195086": 8,
+      "special:against-all": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066774&region=0&sub_region=0&type=429",
@@ -2094,14 +2094,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 2,
-      "Безбородов Николай Максимович": 21,
-      "Веревкин Валерий Иванович": 1,
-      "Иванов Алексей Иванович": 5,
-      "Кислицын Василий Александрович": 39,
-      "Усманов Владимир Викторович": 11,
-      "Широков Игорь Юрьевич": 2,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000136067": 2,
+      "gas:candidate-vibid:245200067211": 21,
+      "gas:candidate-vibid:1001000190357": 1,
+      "gas:candidate-vibid:1001000112219": 5,
+      "gas:candidate-vibid:1001000121857": 39,
+      "gas:candidate-vibid:245200067363": 11,
+      "gas:candidate-vibid:1001000195086": 2,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066774&region=0&sub_region=0&type=429",
@@ -2151,14 +2151,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 10,
-      "Безбородов Николай Максимович": 12,
-      "Веревкин Валерий Иванович": 3,
-      "Иванов Алексей Иванович": 0,
-      "Кислицын Василий Александрович": 4,
-      "Усманов Владимир Викторович": 11,
-      "Широков Игорь Юрьевич": 2,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000136067": 10,
+      "gas:candidate-vibid:245200067211": 12,
+      "gas:candidate-vibid:1001000190357": 3,
+      "gas:candidate-vibid:1001000112219": 0,
+      "gas:candidate-vibid:1001000121857": 4,
+      "gas:candidate-vibid:245200067363": 11,
+      "gas:candidate-vibid:1001000195086": 2,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066774&region=0&sub_region=0&type=429",
@@ -2208,14 +2208,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 37,
-      "Безбородов Николай Максимович": 50,
-      "Веревкин Валерий Иванович": 7,
-      "Иванов Алексей Иванович": 6,
-      "Кислицын Василий Александрович": 43,
-      "Усманов Владимир Викторович": 63,
-      "Широков Игорь Юрьевич": 8,
-      "Против всех": 47
+      "gas:candidate-vibid:1001000136067": 37,
+      "gas:candidate-vibid:245200067211": 50,
+      "gas:candidate-vibid:1001000190357": 7,
+      "gas:candidate-vibid:1001000112219": 6,
+      "gas:candidate-vibid:1001000121857": 43,
+      "gas:candidate-vibid:245200067363": 63,
+      "gas:candidate-vibid:1001000195086": 8,
+      "special:against-all": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066774&region=0&sub_region=0&type=429",
@@ -2265,14 +2265,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 7,
-      "Безбородов Николай Максимович": 13,
-      "Веревкин Валерий Иванович": 0,
-      "Иванов Алексей Иванович": 1,
-      "Кислицын Василий Александрович": 10,
-      "Усманов Владимир Викторович": 10,
-      "Широков Игорь Юрьевич": 0,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000136067": 7,
+      "gas:candidate-vibid:245200067211": 13,
+      "gas:candidate-vibid:1001000190357": 0,
+      "gas:candidate-vibid:1001000112219": 1,
+      "gas:candidate-vibid:1001000121857": 10,
+      "gas:candidate-vibid:245200067363": 10,
+      "gas:candidate-vibid:1001000195086": 0,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066774&region=0&sub_region=0&type=429",
@@ -2322,14 +2322,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 2,
-      "Безбородов Николай Максимович": 19,
-      "Веревкин Валерий Иванович": 1,
-      "Иванов Алексей Иванович": 1,
-      "Кислицын Василий Александрович": 2,
-      "Усманов Владимир Викторович": 13,
-      "Широков Игорь Юрьевич": 1,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000136067": 2,
+      "gas:candidate-vibid:245200067211": 19,
+      "gas:candidate-vibid:1001000190357": 1,
+      "gas:candidate-vibid:1001000112219": 1,
+      "gas:candidate-vibid:1001000121857": 2,
+      "gas:candidate-vibid:245200067363": 13,
+      "gas:candidate-vibid:1001000195086": 1,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066774&region=0&sub_region=0&type=429",
@@ -2379,14 +2379,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 37,
-      "Безбородов Николай Максимович": 81,
-      "Веревкин Валерий Иванович": 8,
-      "Иванов Алексей Иванович": 15,
-      "Кислицын Василий Александрович": 53,
-      "Усманов Владимир Викторович": 43,
-      "Широков Игорь Юрьевич": 6,
-      "Против всех": 30
+      "gas:candidate-vibid:1001000136067": 37,
+      "gas:candidate-vibid:245200067211": 81,
+      "gas:candidate-vibid:1001000190357": 8,
+      "gas:candidate-vibid:1001000112219": 15,
+      "gas:candidate-vibid:1001000121857": 53,
+      "gas:candidate-vibid:245200067363": 43,
+      "gas:candidate-vibid:1001000195086": 6,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066775&region=0&sub_region=0&type=429",
@@ -2436,14 +2436,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 14,
-      "Безбородов Николай Максимович": 46,
-      "Веревкин Валерий Иванович": 8,
-      "Иванов Алексей Иванович": 11,
-      "Кислицын Василий Александрович": 10,
-      "Усманов Владимир Викторович": 16,
-      "Широков Игорь Юрьевич": 1,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000136067": 14,
+      "gas:candidate-vibid:245200067211": 46,
+      "gas:candidate-vibid:1001000190357": 8,
+      "gas:candidate-vibid:1001000112219": 11,
+      "gas:candidate-vibid:1001000121857": 10,
+      "gas:candidate-vibid:245200067363": 16,
+      "gas:candidate-vibid:1001000195086": 1,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066775&region=0&sub_region=0&type=429",
@@ -2493,14 +2493,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 103,
-      "Безбородов Николай Максимович": 120,
-      "Веревкин Валерий Иванович": 35,
-      "Иванов Алексей Иванович": 28,
-      "Кислицын Василий Александрович": 159,
-      "Усманов Владимир Викторович": 141,
-      "Широков Игорь Юрьевич": 14,
-      "Против всех": 96
+      "gas:candidate-vibid:1001000136067": 103,
+      "gas:candidate-vibid:245200067211": 120,
+      "gas:candidate-vibid:1001000190357": 35,
+      "gas:candidate-vibid:1001000112219": 28,
+      "gas:candidate-vibid:1001000121857": 159,
+      "gas:candidate-vibid:245200067363": 141,
+      "gas:candidate-vibid:1001000195086": 14,
+      "special:against-all": 96
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066775&region=0&sub_region=0&type=429",
@@ -2550,14 +2550,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 91,
-      "Безбородов Николай Максимович": 152,
-      "Веревкин Валерий Иванович": 34,
-      "Иванов Алексей Иванович": 23,
-      "Кислицын Василий Александрович": 130,
-      "Усманов Владимир Викторович": 103,
-      "Широков Игорь Юрьевич": 13,
-      "Против всех": 92
+      "gas:candidate-vibid:1001000136067": 91,
+      "gas:candidate-vibid:245200067211": 152,
+      "gas:candidate-vibid:1001000190357": 34,
+      "gas:candidate-vibid:1001000112219": 23,
+      "gas:candidate-vibid:1001000121857": 130,
+      "gas:candidate-vibid:245200067363": 103,
+      "gas:candidate-vibid:1001000195086": 13,
+      "special:against-all": 92
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066775&region=0&sub_region=0&type=429",
@@ -2607,14 +2607,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 92,
-      "Безбородов Николай Максимович": 134,
-      "Веревкин Валерий Иванович": 34,
-      "Иванов Алексей Иванович": 8,
-      "Кислицын Василий Александрович": 46,
-      "Усманов Владимир Викторович": 115,
-      "Широков Игорь Юрьевич": 12,
-      "Против всех": 70
+      "gas:candidate-vibid:1001000136067": 92,
+      "gas:candidate-vibid:245200067211": 134,
+      "gas:candidate-vibid:1001000190357": 34,
+      "gas:candidate-vibid:1001000112219": 8,
+      "gas:candidate-vibid:1001000121857": 46,
+      "gas:candidate-vibid:245200067363": 115,
+      "gas:candidate-vibid:1001000195086": 12,
+      "special:against-all": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066775&region=0&sub_region=0&type=429",
@@ -2664,14 +2664,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 59,
-      "Безбородов Николай Максимович": 115,
-      "Веревкин Валерий Иванович": 26,
-      "Иванов Алексей Иванович": 20,
-      "Кислицын Василий Александрович": 41,
-      "Усманов Владимир Викторович": 77,
-      "Широков Игорь Юрьевич": 13,
-      "Против всех": 68
+      "gas:candidate-vibid:1001000136067": 59,
+      "gas:candidate-vibid:245200067211": 115,
+      "gas:candidate-vibid:1001000190357": 26,
+      "gas:candidate-vibid:1001000112219": 20,
+      "gas:candidate-vibid:1001000121857": 41,
+      "gas:candidate-vibid:245200067363": 77,
+      "gas:candidate-vibid:1001000195086": 13,
+      "special:against-all": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066775&region=0&sub_region=0&type=429",
@@ -2721,14 +2721,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 90,
-      "Безбородов Николай Максимович": 106,
-      "Веревкин Валерий Иванович": 30,
-      "Иванов Алексей Иванович": 23,
-      "Кислицын Василий Александрович": 107,
-      "Усманов Владимир Викторович": 130,
-      "Широков Игорь Юрьевич": 12,
-      "Против всех": 175
+      "gas:candidate-vibid:1001000136067": 90,
+      "gas:candidate-vibid:245200067211": 106,
+      "gas:candidate-vibid:1001000190357": 30,
+      "gas:candidate-vibid:1001000112219": 23,
+      "gas:candidate-vibid:1001000121857": 107,
+      "gas:candidate-vibid:245200067363": 130,
+      "gas:candidate-vibid:1001000195086": 12,
+      "special:against-all": 175
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066775&region=0&sub_region=0&type=429",
@@ -2778,14 +2778,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 2,
-      "Безбородов Николай Максимович": 5,
-      "Веревкин Валерий Иванович": 2,
-      "Иванов Алексей Иванович": 1,
-      "Кислицын Василий Александрович": 2,
-      "Усманов Владимир Викторович": 3,
-      "Широков Игорь Юрьевич": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000136067": 2,
+      "gas:candidate-vibid:245200067211": 5,
+      "gas:candidate-vibid:1001000190357": 2,
+      "gas:candidate-vibid:1001000112219": 1,
+      "gas:candidate-vibid:1001000121857": 2,
+      "gas:candidate-vibid:245200067363": 3,
+      "gas:candidate-vibid:1001000195086": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066775&region=0&sub_region=0&type=429",
@@ -2835,14 +2835,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 63,
-      "Безбородов Николай Максимович": 91,
-      "Веревкин Валерий Иванович": 17,
-      "Иванов Алексей Иванович": 16,
-      "Кислицын Василий Александрович": 65,
-      "Усманов Владимир Викторович": 68,
-      "Широков Игорь Юрьевич": 10,
-      "Против всех": 121
+      "gas:candidate-vibid:1001000136067": 63,
+      "gas:candidate-vibid:245200067211": 91,
+      "gas:candidate-vibid:1001000190357": 17,
+      "gas:candidate-vibid:1001000112219": 16,
+      "gas:candidate-vibid:1001000121857": 65,
+      "gas:candidate-vibid:245200067363": 68,
+      "gas:candidate-vibid:1001000195086": 10,
+      "special:against-all": 121
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066775&region=0&sub_region=0&type=429",
@@ -2892,14 +2892,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 90,
-      "Безбородов Николай Максимович": 93,
-      "Веревкин Валерий Иванович": 14,
-      "Иванов Алексей Иванович": 13,
-      "Кислицын Василий Александрович": 51,
-      "Усманов Владимир Викторович": 82,
-      "Широков Игорь Юрьевич": 11,
-      "Против всех": 89
+      "gas:candidate-vibid:1001000136067": 90,
+      "gas:candidate-vibid:245200067211": 93,
+      "gas:candidate-vibid:1001000190357": 14,
+      "gas:candidate-vibid:1001000112219": 13,
+      "gas:candidate-vibid:1001000121857": 51,
+      "gas:candidate-vibid:245200067363": 82,
+      "gas:candidate-vibid:1001000195086": 11,
+      "special:against-all": 89
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066775&region=0&sub_region=0&type=429",
@@ -2949,14 +2949,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 71,
-      "Безбородов Николай Максимович": 98,
-      "Веревкин Валерий Иванович": 9,
-      "Иванов Алексей Иванович": 15,
-      "Кислицын Василий Александрович": 28,
-      "Усманов Владимир Викторович": 62,
-      "Широков Игорь Юрьевич": 7,
-      "Против всех": 100
+      "gas:candidate-vibid:1001000136067": 71,
+      "gas:candidate-vibid:245200067211": 98,
+      "gas:candidate-vibid:1001000190357": 9,
+      "gas:candidate-vibid:1001000112219": 15,
+      "gas:candidate-vibid:1001000121857": 28,
+      "gas:candidate-vibid:245200067363": 62,
+      "gas:candidate-vibid:1001000195086": 7,
+      "special:against-all": 100
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066775&region=0&sub_region=0&type=429",
@@ -3006,14 +3006,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 72,
-      "Безбородов Николай Максимович": 99,
-      "Веревкин Валерий Иванович": 16,
-      "Иванов Алексей Иванович": 9,
-      "Кислицын Василий Александрович": 78,
-      "Усманов Владимир Викторович": 72,
-      "Широков Игорь Юрьевич": 18,
-      "Против всех": 159
+      "gas:candidate-vibid:1001000136067": 72,
+      "gas:candidate-vibid:245200067211": 99,
+      "gas:candidate-vibid:1001000190357": 16,
+      "gas:candidate-vibid:1001000112219": 9,
+      "gas:candidate-vibid:1001000121857": 78,
+      "gas:candidate-vibid:245200067363": 72,
+      "gas:candidate-vibid:1001000195086": 18,
+      "special:against-all": 159
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066775&region=0&sub_region=0&type=429",
@@ -3063,14 +3063,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 23,
-      "Безбородов Николай Максимович": 61,
-      "Веревкин Валерий Иванович": 6,
-      "Иванов Алексей Иванович": 4,
-      "Кислицын Василий Александрович": 37,
-      "Усманов Владимир Викторович": 13,
-      "Широков Игорь Юрьевич": 4,
-      "Против всех": 35
+      "gas:candidate-vibid:1001000136067": 23,
+      "gas:candidate-vibid:245200067211": 61,
+      "gas:candidate-vibid:1001000190357": 6,
+      "gas:candidate-vibid:1001000112219": 4,
+      "gas:candidate-vibid:1001000121857": 37,
+      "gas:candidate-vibid:245200067363": 13,
+      "gas:candidate-vibid:1001000195086": 4,
+      "special:against-all": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066775&region=0&sub_region=0&type=429",
@@ -3120,14 +3120,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 54,
-      "Безбородов Николай Максимович": 148,
-      "Веревкин Валерий Иванович": 8,
-      "Иванов Алексей Иванович": 27,
-      "Кислицын Василий Александрович": 23,
-      "Усманов Владимир Викторович": 112,
-      "Широков Игорь Юрьевич": 6,
-      "Против всех": 28
+      "gas:candidate-vibid:1001000136067": 54,
+      "gas:candidate-vibid:245200067211": 148,
+      "gas:candidate-vibid:1001000190357": 8,
+      "gas:candidate-vibid:1001000112219": 27,
+      "gas:candidate-vibid:1001000121857": 23,
+      "gas:candidate-vibid:245200067363": 112,
+      "gas:candidate-vibid:1001000195086": 6,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066775&region=0&sub_region=0&type=429",
@@ -3177,14 +3177,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 15,
-      "Безбородов Николай Максимович": 8,
-      "Веревкин Валерий Иванович": 0,
-      "Иванов Алексей Иванович": 8,
-      "Кислицын Василий Александрович": 15,
-      "Усманов Владимир Викторович": 4,
-      "Широков Игорь Юрьевич": 0,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000136067": 15,
+      "gas:candidate-vibid:245200067211": 8,
+      "gas:candidate-vibid:1001000190357": 0,
+      "gas:candidate-vibid:1001000112219": 8,
+      "gas:candidate-vibid:1001000121857": 15,
+      "gas:candidate-vibid:245200067363": 4,
+      "gas:candidate-vibid:1001000195086": 0,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066775&region=0&sub_region=0&type=429",
@@ -3234,14 +3234,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 30,
-      "Безбородов Николай Максимович": 47,
-      "Веревкин Валерий Иванович": 0,
-      "Иванов Алексей Иванович": 0,
-      "Кислицын Василий Александрович": 4,
-      "Усманов Владимир Викторович": 4,
-      "Широков Игорь Юрьевич": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000136067": 30,
+      "gas:candidate-vibid:245200067211": 47,
+      "gas:candidate-vibid:1001000190357": 0,
+      "gas:candidate-vibid:1001000112219": 0,
+      "gas:candidate-vibid:1001000121857": 4,
+      "gas:candidate-vibid:245200067363": 4,
+      "gas:candidate-vibid:1001000195086": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066775&region=0&sub_region=0&type=429",
@@ -3291,14 +3291,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 36,
-      "Безбородов Николай Максимович": 33,
-      "Веревкин Валерий Иванович": 6,
-      "Иванов Алексей Иванович": 9,
-      "Кислицын Василий Александрович": 18,
-      "Усманов Владимир Викторович": 16,
-      "Широков Игорь Юрьевич": 2,
-      "Против всех": 56
+      "gas:candidate-vibid:1001000136067": 36,
+      "gas:candidate-vibid:245200067211": 33,
+      "gas:candidate-vibid:1001000190357": 6,
+      "gas:candidate-vibid:1001000112219": 9,
+      "gas:candidate-vibid:1001000121857": 18,
+      "gas:candidate-vibid:245200067363": 16,
+      "gas:candidate-vibid:1001000195086": 2,
+      "special:against-all": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066775&region=0&sub_region=0&type=429",
@@ -3348,14 +3348,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 1,
-      "Безбородов Николай Максимович": 42,
-      "Веревкин Валерий Иванович": 0,
-      "Иванов Алексей Иванович": 1,
-      "Кислицын Василий Александрович": 0,
-      "Усманов Владимир Викторович": 5,
-      "Широков Игорь Юрьевич": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000136067": 1,
+      "gas:candidate-vibid:245200067211": 42,
+      "gas:candidate-vibid:1001000190357": 0,
+      "gas:candidate-vibid:1001000112219": 1,
+      "gas:candidate-vibid:1001000121857": 0,
+      "gas:candidate-vibid:245200067363": 5,
+      "gas:candidate-vibid:1001000195086": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066775&region=0&sub_region=0&type=429",
@@ -3405,14 +3405,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 18,
-      "Безбородов Николай Максимович": 97,
-      "Веревкин Валерий Иванович": 3,
-      "Иванов Алексей Иванович": 12,
-      "Кислицын Василий Александрович": 36,
-      "Усманов Владимир Викторович": 16,
-      "Широков Игорь Юрьевич": 4,
-      "Против всех": 29
+      "gas:candidate-vibid:1001000136067": 18,
+      "gas:candidate-vibid:245200067211": 97,
+      "gas:candidate-vibid:1001000190357": 3,
+      "gas:candidate-vibid:1001000112219": 12,
+      "gas:candidate-vibid:1001000121857": 36,
+      "gas:candidate-vibid:245200067363": 16,
+      "gas:candidate-vibid:1001000195086": 4,
+      "special:against-all": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066775&region=0&sub_region=0&type=429",
@@ -3462,14 +3462,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 22,
-      "Безбородов Николай Максимович": 75,
-      "Веревкин Валерий Иванович": 11,
-      "Иванов Алексей Иванович": 8,
-      "Кислицын Василий Александрович": 27,
-      "Усманов Владимир Викторович": 71,
-      "Широков Игорь Юрьевич": 1,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000136067": 22,
+      "gas:candidate-vibid:245200067211": 75,
+      "gas:candidate-vibid:1001000190357": 11,
+      "gas:candidate-vibid:1001000112219": 8,
+      "gas:candidate-vibid:1001000121857": 27,
+      "gas:candidate-vibid:245200067363": 71,
+      "gas:candidate-vibid:1001000195086": 1,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066775&region=0&sub_region=0&type=429",
@@ -3519,14 +3519,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 20,
-      "Безбородов Николай Максимович": 104,
-      "Веревкин Валерий Иванович": 11,
-      "Иванов Алексей Иванович": 8,
-      "Кислицын Василий Александрович": 7,
-      "Усманов Владимир Викторович": 36,
-      "Широков Игорь Юрьевич": 3,
-      "Против всех": 32
+      "gas:candidate-vibid:1001000136067": 20,
+      "gas:candidate-vibid:245200067211": 104,
+      "gas:candidate-vibid:1001000190357": 11,
+      "gas:candidate-vibid:1001000112219": 8,
+      "gas:candidate-vibid:1001000121857": 7,
+      "gas:candidate-vibid:245200067363": 36,
+      "gas:candidate-vibid:1001000195086": 3,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066775&region=0&sub_region=0&type=429",
@@ -3576,14 +3576,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 51,
-      "Безбородов Николай Максимович": 90,
-      "Веревкин Валерий Иванович": 2,
-      "Иванов Алексей Иванович": 14,
-      "Кислицын Василий Александрович": 12,
-      "Усманов Владимир Викторович": 56,
-      "Широков Игорь Юрьевич": 2,
-      "Против всех": 26
+      "gas:candidate-vibid:1001000136067": 51,
+      "gas:candidate-vibid:245200067211": 90,
+      "gas:candidate-vibid:1001000190357": 2,
+      "gas:candidate-vibid:1001000112219": 14,
+      "gas:candidate-vibid:1001000121857": 12,
+      "gas:candidate-vibid:245200067363": 56,
+      "gas:candidate-vibid:1001000195086": 2,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066775&region=0&sub_region=0&type=429",
@@ -3633,14 +3633,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 13,
-      "Безбородов Николай Максимович": 25,
-      "Веревкин Валерий Иванович": 2,
-      "Иванов Алексей Иванович": 6,
-      "Кислицын Василий Александрович": 4,
-      "Усманов Владимир Викторович": 13,
-      "Широков Игорь Юрьевич": 0,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000136067": 13,
+      "gas:candidate-vibid:245200067211": 25,
+      "gas:candidate-vibid:1001000190357": 2,
+      "gas:candidate-vibid:1001000112219": 6,
+      "gas:candidate-vibid:1001000121857": 4,
+      "gas:candidate-vibid:245200067363": 13,
+      "gas:candidate-vibid:1001000195086": 0,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066775&region=0&sub_region=0&type=429",
@@ -3690,14 +3690,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 13,
-      "Безбородов Николай Максимович": 132,
-      "Веревкин Валерий Иванович": 2,
-      "Иванов Алексей Иванович": 3,
-      "Кислицын Василий Александрович": 15,
-      "Усманов Владимир Викторович": 25,
-      "Широков Игорь Юрьевич": 0,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000136067": 13,
+      "gas:candidate-vibid:245200067211": 132,
+      "gas:candidate-vibid:1001000190357": 2,
+      "gas:candidate-vibid:1001000112219": 3,
+      "gas:candidate-vibid:1001000121857": 15,
+      "gas:candidate-vibid:245200067363": 25,
+      "gas:candidate-vibid:1001000195086": 0,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066775&region=0&sub_region=0&type=429",
@@ -3747,14 +3747,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 16,
-      "Безбородов Николай Максимович": 42,
-      "Веревкин Валерий Иванович": 21,
-      "Иванов Алексей Иванович": 13,
-      "Кислицын Василий Александрович": 8,
-      "Усманов Владимир Викторович": 38,
-      "Широков Игорь Юрьевич": 4,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000136067": 16,
+      "gas:candidate-vibid:245200067211": 42,
+      "gas:candidate-vibid:1001000190357": 21,
+      "gas:candidate-vibid:1001000112219": 13,
+      "gas:candidate-vibid:1001000121857": 8,
+      "gas:candidate-vibid:245200067363": 38,
+      "gas:candidate-vibid:1001000195086": 4,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066775&region=0&sub_region=0&type=429",
@@ -3804,14 +3804,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 87,
-      "Безбородов Николай Максимович": 104,
-      "Веревкин Валерий Иванович": 12,
-      "Иванов Алексей Иванович": 27,
-      "Кислицын Василий Александрович": 60,
-      "Усманов Владимир Викторович": 36,
-      "Широков Игорь Юрьевич": 11,
-      "Против всех": 86
+      "gas:candidate-vibid:1001000136067": 87,
+      "gas:candidate-vibid:245200067211": 104,
+      "gas:candidate-vibid:1001000190357": 12,
+      "gas:candidate-vibid:1001000112219": 27,
+      "gas:candidate-vibid:1001000121857": 60,
+      "gas:candidate-vibid:245200067363": 36,
+      "gas:candidate-vibid:1001000195086": 11,
+      "special:against-all": 86
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066775&region=0&sub_region=0&type=429",
@@ -3861,14 +3861,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 37,
-      "Безбородов Николай Максимович": 103,
-      "Веревкин Валерий Иванович": 21,
-      "Иванов Алексей Иванович": 13,
-      "Кислицын Василий Александрович": 11,
-      "Усманов Владимир Викторович": 47,
-      "Широков Игорь Юрьевич": 4,
-      "Против всех": 59
+      "gas:candidate-vibid:1001000136067": 37,
+      "gas:candidate-vibid:245200067211": 103,
+      "gas:candidate-vibid:1001000190357": 21,
+      "gas:candidate-vibid:1001000112219": 13,
+      "gas:candidate-vibid:1001000121857": 11,
+      "gas:candidate-vibid:245200067363": 47,
+      "gas:candidate-vibid:1001000195086": 4,
+      "special:against-all": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066775&region=0&sub_region=0&type=429",
@@ -3918,14 +3918,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 8,
-      "Безбородов Николай Максимович": 36,
-      "Веревкин Валерий Иванович": 1,
-      "Иванов Алексей Иванович": 3,
-      "Кислицын Василий Александрович": 2,
-      "Усманов Владимир Викторович": 30,
-      "Широков Игорь Юрьевич": 0,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000136067": 8,
+      "gas:candidate-vibid:245200067211": 36,
+      "gas:candidate-vibid:1001000190357": 1,
+      "gas:candidate-vibid:1001000112219": 3,
+      "gas:candidate-vibid:1001000121857": 2,
+      "gas:candidate-vibid:245200067363": 30,
+      "gas:candidate-vibid:1001000195086": 0,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066775&region=0&sub_region=0&type=429",
@@ -3975,14 +3975,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 16,
-      "Безбородов Николай Максимович": 43,
-      "Веревкин Валерий Иванович": 2,
-      "Иванов Алексей Иванович": 1,
-      "Кислицын Василий Александрович": 6,
-      "Усманов Владимир Викторович": 11,
-      "Широков Игорь Юрьевич": 0,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000136067": 16,
+      "gas:candidate-vibid:245200067211": 43,
+      "gas:candidate-vibid:1001000190357": 2,
+      "gas:candidate-vibid:1001000112219": 1,
+      "gas:candidate-vibid:1001000121857": 6,
+      "gas:candidate-vibid:245200067363": 11,
+      "gas:candidate-vibid:1001000195086": 0,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066775&region=0&sub_region=0&type=429",
@@ -4032,14 +4032,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 69,
-      "Безбородов Николай Максимович": 89,
-      "Веревкин Валерий Иванович": 20,
-      "Иванов Алексей Иванович": 19,
-      "Кислицын Василий Александрович": 71,
-      "Усманов Владимир Викторович": 48,
-      "Широков Игорь Юрьевич": 2,
-      "Против всех": 96
+      "gas:candidate-vibid:1001000136067": 69,
+      "gas:candidate-vibid:245200067211": 89,
+      "gas:candidate-vibid:1001000190357": 20,
+      "gas:candidate-vibid:1001000112219": 19,
+      "gas:candidate-vibid:1001000121857": 71,
+      "gas:candidate-vibid:245200067363": 48,
+      "gas:candidate-vibid:1001000195086": 2,
+      "special:against-all": 96
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066775&region=0&sub_region=0&type=429",
@@ -4089,14 +4089,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 7,
-      "Безбородов Николай Максимович": 39,
-      "Веревкин Валерий Иванович": 3,
-      "Иванов Алексей Иванович": 2,
-      "Кислицын Василий Александрович": 1,
-      "Усманов Владимир Викторович": 7,
-      "Широков Игорь Юрьевич": 0,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000136067": 7,
+      "gas:candidate-vibid:245200067211": 39,
+      "gas:candidate-vibid:1001000190357": 3,
+      "gas:candidate-vibid:1001000112219": 2,
+      "gas:candidate-vibid:1001000121857": 1,
+      "gas:candidate-vibid:245200067363": 7,
+      "gas:candidate-vibid:1001000195086": 0,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066775&region=0&sub_region=0&type=429",
@@ -4146,14 +4146,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 3,
-      "Безбородов Николай Максимович": 32,
-      "Веревкин Валерий Иванович": 4,
-      "Иванов Алексей Иванович": 4,
-      "Кислицын Василий Александрович": 0,
-      "Усманов Владимир Викторович": 9,
-      "Широков Игорь Юрьевич": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000136067": 3,
+      "gas:candidate-vibid:245200067211": 32,
+      "gas:candidate-vibid:1001000190357": 4,
+      "gas:candidate-vibid:1001000112219": 4,
+      "gas:candidate-vibid:1001000121857": 0,
+      "gas:candidate-vibid:245200067363": 9,
+      "gas:candidate-vibid:1001000195086": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066775&region=0&sub_region=0&type=429",
@@ -4203,14 +4203,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 28,
-      "Безбородов Николай Максимович": 35,
-      "Веревкин Валерий Иванович": 4,
-      "Иванов Алексей Иванович": 6,
-      "Кислицын Василий Александрович": 7,
-      "Усманов Владимир Викторович": 13,
-      "Широков Игорь Юрьевич": 1,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000136067": 28,
+      "gas:candidate-vibid:245200067211": 35,
+      "gas:candidate-vibid:1001000190357": 4,
+      "gas:candidate-vibid:1001000112219": 6,
+      "gas:candidate-vibid:1001000121857": 7,
+      "gas:candidate-vibid:245200067363": 13,
+      "gas:candidate-vibid:1001000195086": 1,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066775&region=0&sub_region=0&type=429",
@@ -4260,14 +4260,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 97,
-      "Безбородов Николай Максимович": 141,
-      "Веревкин Валерий Иванович": 34,
-      "Иванов Алексей Иванович": 41,
-      "Кислицын Василий Александрович": 38,
-      "Усманов Владимир Викторович": 90,
-      "Широков Игорь Юрьевич": 7,
-      "Против всех": 129
+      "gas:candidate-vibid:1001000136067": 97,
+      "gas:candidate-vibid:245200067211": 141,
+      "gas:candidate-vibid:1001000190357": 34,
+      "gas:candidate-vibid:1001000112219": 41,
+      "gas:candidate-vibid:1001000121857": 38,
+      "gas:candidate-vibid:245200067363": 90,
+      "gas:candidate-vibid:1001000195086": 7,
+      "special:against-all": 129
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066775&region=0&sub_region=0&type=429",
@@ -4317,14 +4317,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 91,
-      "Безбородов Николай Максимович": 109,
-      "Веревкин Валерий Иванович": 3,
-      "Иванов Алексей Иванович": 13,
-      "Кислицын Василий Александрович": 65,
-      "Усманов Владимир Викторович": 40,
-      "Широков Игорь Юрьевич": 1,
-      "Против всех": 41
+      "gas:candidate-vibid:1001000136067": 91,
+      "gas:candidate-vibid:245200067211": 109,
+      "gas:candidate-vibid:1001000190357": 3,
+      "gas:candidate-vibid:1001000112219": 13,
+      "gas:candidate-vibid:1001000121857": 65,
+      "gas:candidate-vibid:245200067363": 40,
+      "gas:candidate-vibid:1001000195086": 1,
+      "special:against-all": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066775&region=0&sub_region=0&type=429",
@@ -4374,14 +4374,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 35,
-      "Безбородов Николай Максимович": 15,
-      "Веревкин Валерий Иванович": 2,
-      "Иванов Алексей Иванович": 0,
-      "Кислицын Василий Александрович": 5,
-      "Усманов Владимир Викторович": 4,
-      "Широков Игорь Юрьевич": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000136067": 35,
+      "gas:candidate-vibid:245200067211": 15,
+      "gas:candidate-vibid:1001000190357": 2,
+      "gas:candidate-vibid:1001000112219": 0,
+      "gas:candidate-vibid:1001000121857": 5,
+      "gas:candidate-vibid:245200067363": 4,
+      "gas:candidate-vibid:1001000195086": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066775&region=0&sub_region=0&type=429",
@@ -4431,14 +4431,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 15,
-      "Безбородов Николай Максимович": 79,
-      "Веревкин Валерий Иванович": 5,
-      "Иванов Алексей Иванович": 12,
-      "Кислицын Василий Александрович": 16,
-      "Усманов Владимир Викторович": 15,
-      "Широков Игорь Юрьевич": 2,
-      "Против всех": 54
+      "gas:candidate-vibid:1001000136067": 15,
+      "gas:candidate-vibid:245200067211": 79,
+      "gas:candidate-vibid:1001000190357": 5,
+      "gas:candidate-vibid:1001000112219": 12,
+      "gas:candidate-vibid:1001000121857": 16,
+      "gas:candidate-vibid:245200067363": 15,
+      "gas:candidate-vibid:1001000195086": 2,
+      "special:against-all": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066775&region=0&sub_region=0&type=429",
@@ -4488,14 +4488,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 6,
-      "Безбородов Николай Максимович": 57,
-      "Веревкин Валерий Иванович": 2,
-      "Иванов Алексей Иванович": 6,
-      "Кислицын Василий Александрович": 0,
-      "Усманов Владимир Викторович": 5,
-      "Широков Игорь Юрьевич": 1,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000136067": 6,
+      "gas:candidate-vibid:245200067211": 57,
+      "gas:candidate-vibid:1001000190357": 2,
+      "gas:candidate-vibid:1001000112219": 6,
+      "gas:candidate-vibid:1001000121857": 0,
+      "gas:candidate-vibid:245200067363": 5,
+      "gas:candidate-vibid:1001000195086": 1,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066775&region=0&sub_region=0&type=429",
@@ -4545,14 +4545,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 20,
-      "Безбородов Николай Максимович": 88,
-      "Веревкин Валерий Иванович": 6,
-      "Иванов Алексей Иванович": 15,
-      "Кислицын Василий Александрович": 27,
-      "Усманов Владимир Викторович": 45,
-      "Широков Игорь Юрьевич": 0,
-      "Против всех": 35
+      "gas:candidate-vibid:1001000136067": 20,
+      "gas:candidate-vibid:245200067211": 88,
+      "gas:candidate-vibid:1001000190357": 6,
+      "gas:candidate-vibid:1001000112219": 15,
+      "gas:candidate-vibid:1001000121857": 27,
+      "gas:candidate-vibid:245200067363": 45,
+      "gas:candidate-vibid:1001000195086": 0,
+      "special:against-all": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066775&region=0&sub_region=0&type=429",
@@ -4602,14 +4602,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 14,
-      "Безбородов Николай Максимович": 100,
-      "Веревкин Валерий Иванович": 8,
-      "Иванов Алексей Иванович": 8,
-      "Кислицын Василий Александрович": 11,
-      "Усманов Владимир Викторович": 28,
-      "Широков Игорь Юрьевич": 3,
-      "Против всех": 32
+      "gas:candidate-vibid:1001000136067": 14,
+      "gas:candidate-vibid:245200067211": 100,
+      "gas:candidate-vibid:1001000190357": 8,
+      "gas:candidate-vibid:1001000112219": 8,
+      "gas:candidate-vibid:1001000121857": 11,
+      "gas:candidate-vibid:245200067363": 28,
+      "gas:candidate-vibid:1001000195086": 3,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066775&region=0&sub_region=0&type=429",
@@ -4659,14 +4659,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 20,
-      "Безбородов Николай Максимович": 55,
-      "Веревкин Валерий Иванович": 4,
-      "Иванов Алексей Иванович": 3,
-      "Кислицын Василий Александрович": 3,
-      "Усманов Владимир Викторович": 27,
-      "Широков Игорь Юрьевич": 0,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000136067": 20,
+      "gas:candidate-vibid:245200067211": 55,
+      "gas:candidate-vibid:1001000190357": 4,
+      "gas:candidate-vibid:1001000112219": 3,
+      "gas:candidate-vibid:1001000121857": 3,
+      "gas:candidate-vibid:245200067363": 27,
+      "gas:candidate-vibid:1001000195086": 0,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066775&region=0&sub_region=0&type=429",
@@ -4716,14 +4716,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 46,
-      "Безбородов Николай Максимович": 94,
-      "Веревкин Валерий Иванович": 16,
-      "Иванов Алексей Иванович": 21,
-      "Кислицын Василий Александрович": 44,
-      "Усманов Владимир Викторович": 31,
-      "Широков Игорь Юрьевич": 5,
-      "Против всех": 45
+      "gas:candidate-vibid:1001000136067": 46,
+      "gas:candidate-vibid:245200067211": 94,
+      "gas:candidate-vibid:1001000190357": 16,
+      "gas:candidate-vibid:1001000112219": 21,
+      "gas:candidate-vibid:1001000121857": 44,
+      "gas:candidate-vibid:245200067363": 31,
+      "gas:candidate-vibid:1001000195086": 5,
+      "special:against-all": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066775&region=0&sub_region=0&type=429",
@@ -4773,14 +4773,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 22,
-      "Безбородов Николай Максимович": 19,
-      "Веревкин Валерий Иванович": 1,
-      "Иванов Алексей Иванович": 1,
-      "Кислицын Василий Александрович": 2,
-      "Усманов Владимир Викторович": 8,
-      "Широков Игорь Юрьевич": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000136067": 22,
+      "gas:candidate-vibid:245200067211": 19,
+      "gas:candidate-vibid:1001000190357": 1,
+      "gas:candidate-vibid:1001000112219": 1,
+      "gas:candidate-vibid:1001000121857": 2,
+      "gas:candidate-vibid:245200067363": 8,
+      "gas:candidate-vibid:1001000195086": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066775&region=0&sub_region=0&type=429",
@@ -4830,14 +4830,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 7,
-      "Безбородов Николай Максимович": 32,
-      "Веревкин Валерий Иванович": 1,
-      "Иванов Алексей Иванович": 4,
-      "Кислицын Василий Александрович": 1,
-      "Усманов Владимир Викторович": 6,
-      "Широков Игорь Юрьевич": 0,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000136067": 7,
+      "gas:candidate-vibid:245200067211": 32,
+      "gas:candidate-vibid:1001000190357": 1,
+      "gas:candidate-vibid:1001000112219": 4,
+      "gas:candidate-vibid:1001000121857": 1,
+      "gas:candidate-vibid:245200067363": 6,
+      "gas:candidate-vibid:1001000195086": 0,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066775&region=0&sub_region=0&type=429",
@@ -4887,14 +4887,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 83,
-      "Безбородов Николай Максимович": 123,
-      "Веревкин Валерий Иванович": 47,
-      "Иванов Алексей Иванович": 21,
-      "Кислицын Василий Александрович": 166,
-      "Усманов Владимир Викторович": 94,
-      "Широков Игорь Юрьевич": 5,
-      "Против всех": 149
+      "gas:candidate-vibid:1001000136067": 83,
+      "gas:candidate-vibid:245200067211": 123,
+      "gas:candidate-vibid:1001000190357": 47,
+      "gas:candidate-vibid:1001000112219": 21,
+      "gas:candidate-vibid:1001000121857": 166,
+      "gas:candidate-vibid:245200067363": 94,
+      "gas:candidate-vibid:1001000195086": 5,
+      "special:against-all": 149
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066776&region=0&sub_region=0&type=429",
@@ -4944,14 +4944,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 80,
-      "Безбородов Николай Максимович": 157,
-      "Веревкин Валерий Иванович": 38,
-      "Иванов Алексей Иванович": 27,
-      "Кислицын Василий Александрович": 136,
-      "Усманов Владимир Викторович": 84,
-      "Широков Игорь Юрьевич": 11,
-      "Против всех": 134
+      "gas:candidate-vibid:1001000136067": 80,
+      "gas:candidate-vibid:245200067211": 157,
+      "gas:candidate-vibid:1001000190357": 38,
+      "gas:candidate-vibid:1001000112219": 27,
+      "gas:candidate-vibid:1001000121857": 136,
+      "gas:candidate-vibid:245200067363": 84,
+      "gas:candidate-vibid:1001000195086": 11,
+      "special:against-all": 134
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066776&region=0&sub_region=0&type=429",
@@ -5001,14 +5001,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 40,
-      "Безбородов Николай Максимович": 83,
-      "Веревкин Валерий Иванович": 24,
-      "Иванов Алексей Иванович": 12,
-      "Кислицын Василий Александрович": 30,
-      "Усманов Владимир Викторович": 35,
-      "Широков Игорь Юрьевич": 4,
-      "Против всех": 47
+      "gas:candidate-vibid:1001000136067": 40,
+      "gas:candidate-vibid:245200067211": 83,
+      "gas:candidate-vibid:1001000190357": 24,
+      "gas:candidate-vibid:1001000112219": 12,
+      "gas:candidate-vibid:1001000121857": 30,
+      "gas:candidate-vibid:245200067363": 35,
+      "gas:candidate-vibid:1001000195086": 4,
+      "special:against-all": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066776&region=0&sub_region=0&type=429",
@@ -5058,14 +5058,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 20,
-      "Безбородов Николай Максимович": 47,
-      "Веревкин Валерий Иванович": 10,
-      "Иванов Алексей Иванович": 13,
-      "Кислицын Василий Александрович": 31,
-      "Усманов Владимир Викторович": 43,
-      "Широков Игорь Юрьевич": 1,
-      "Против всех": 46
+      "gas:candidate-vibid:1001000136067": 20,
+      "gas:candidate-vibid:245200067211": 47,
+      "gas:candidate-vibid:1001000190357": 10,
+      "gas:candidate-vibid:1001000112219": 13,
+      "gas:candidate-vibid:1001000121857": 31,
+      "gas:candidate-vibid:245200067363": 43,
+      "gas:candidate-vibid:1001000195086": 1,
+      "special:against-all": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066776&region=0&sub_region=0&type=429",
@@ -5115,14 +5115,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 71,
-      "Безбородов Николай Максимович": 144,
-      "Веревкин Валерий Иванович": 43,
-      "Иванов Алексей Иванович": 18,
-      "Кислицын Василий Александрович": 146,
-      "Усманов Владимир Викторович": 77,
-      "Широков Игорь Юрьевич": 10,
-      "Против всех": 65
+      "gas:candidate-vibid:1001000136067": 71,
+      "gas:candidate-vibid:245200067211": 144,
+      "gas:candidate-vibid:1001000190357": 43,
+      "gas:candidate-vibid:1001000112219": 18,
+      "gas:candidate-vibid:1001000121857": 146,
+      "gas:candidate-vibid:245200067363": 77,
+      "gas:candidate-vibid:1001000195086": 10,
+      "special:against-all": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066776&region=0&sub_region=0&type=429",
@@ -5172,14 +5172,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 85,
-      "Безбородов Николай Максимович": 127,
-      "Веревкин Валерий Иванович": 62,
-      "Иванов Алексей Иванович": 19,
-      "Кислицын Василий Александрович": 100,
-      "Усманов Владимир Викторович": 105,
-      "Широков Игорь Юрьевич": 13,
-      "Против всех": 115
+      "gas:candidate-vibid:1001000136067": 85,
+      "gas:candidate-vibid:245200067211": 127,
+      "gas:candidate-vibid:1001000190357": 62,
+      "gas:candidate-vibid:1001000112219": 19,
+      "gas:candidate-vibid:1001000121857": 100,
+      "gas:candidate-vibid:245200067363": 105,
+      "gas:candidate-vibid:1001000195086": 13,
+      "special:against-all": 115
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066776&region=0&sub_region=0&type=429",
@@ -5229,14 +5229,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 9,
-      "Безбородов Николай Максимович": 29,
-      "Веревкин Валерий Иванович": 4,
-      "Иванов Алексей Иванович": 1,
-      "Кислицын Василий Александрович": 32,
-      "Усманов Владимир Викторович": 20,
-      "Широков Игорь Юрьевич": 1,
-      "Против всех": 35
+      "gas:candidate-vibid:1001000136067": 9,
+      "gas:candidate-vibid:245200067211": 29,
+      "gas:candidate-vibid:1001000190357": 4,
+      "gas:candidate-vibid:1001000112219": 1,
+      "gas:candidate-vibid:1001000121857": 32,
+      "gas:candidate-vibid:245200067363": 20,
+      "gas:candidate-vibid:1001000195086": 1,
+      "special:against-all": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066776&region=0&sub_region=0&type=429",
@@ -5286,14 +5286,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 24,
-      "Безбородов Николай Максимович": 122,
-      "Веревкин Валерий Иванович": 5,
-      "Иванов Алексей Иванович": 6,
-      "Кислицын Василий Александрович": 22,
-      "Усманов Владимир Викторович": 55,
-      "Широков Игорь Юрьевич": 3,
-      "Против всех": 45
+      "gas:candidate-vibid:1001000136067": 24,
+      "gas:candidate-vibid:245200067211": 122,
+      "gas:candidate-vibid:1001000190357": 5,
+      "gas:candidate-vibid:1001000112219": 6,
+      "gas:candidate-vibid:1001000121857": 22,
+      "gas:candidate-vibid:245200067363": 55,
+      "gas:candidate-vibid:1001000195086": 3,
+      "special:against-all": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066776&region=0&sub_region=0&type=429",
@@ -5343,14 +5343,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 88,
-      "Безбородов Николай Максимович": 106,
-      "Веревкин Валерий Иванович": 7,
-      "Иванов Алексей Иванович": 9,
-      "Кислицын Василий Александрович": 78,
-      "Усманов Владимир Викторович": 35,
-      "Широков Игорь Юрьевич": 8,
-      "Против всех": 71
+      "gas:candidate-vibid:1001000136067": 88,
+      "gas:candidate-vibid:245200067211": 106,
+      "gas:candidate-vibid:1001000190357": 7,
+      "gas:candidate-vibid:1001000112219": 9,
+      "gas:candidate-vibid:1001000121857": 78,
+      "gas:candidate-vibid:245200067363": 35,
+      "gas:candidate-vibid:1001000195086": 8,
+      "special:against-all": 71
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066776&region=0&sub_region=0&type=429",
@@ -5400,14 +5400,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 17,
-      "Безбородов Николай Максимович": 14,
-      "Веревкин Валерий Иванович": 0,
-      "Иванов Алексей Иванович": 0,
-      "Кислицын Василий Александрович": 20,
-      "Усманов Владимир Викторович": 3,
-      "Широков Игорь Юрьевич": 0,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000136067": 17,
+      "gas:candidate-vibid:245200067211": 14,
+      "gas:candidate-vibid:1001000190357": 0,
+      "gas:candidate-vibid:1001000112219": 0,
+      "gas:candidate-vibid:1001000121857": 20,
+      "gas:candidate-vibid:245200067363": 3,
+      "gas:candidate-vibid:1001000195086": 0,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066776&region=0&sub_region=0&type=429",
@@ -5457,14 +5457,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 17,
-      "Безбородов Николай Максимович": 36,
-      "Веревкин Валерий Иванович": 1,
-      "Иванов Алексей Иванович": 1,
-      "Кислицын Василий Александрович": 6,
-      "Усманов Владимир Викторович": 7,
-      "Широков Игорь Юрьевич": 1,
-      "Против всех": 27
+      "gas:candidate-vibid:1001000136067": 17,
+      "gas:candidate-vibid:245200067211": 36,
+      "gas:candidate-vibid:1001000190357": 1,
+      "gas:candidate-vibid:1001000112219": 1,
+      "gas:candidate-vibid:1001000121857": 6,
+      "gas:candidate-vibid:245200067363": 7,
+      "gas:candidate-vibid:1001000195086": 1,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066776&region=0&sub_region=0&type=429",
@@ -5514,14 +5514,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 14,
-      "Безбородов Николай Максимович": 1,
-      "Веревкин Валерий Иванович": 1,
-      "Иванов Алексей Иванович": 5,
-      "Кислицын Василий Александрович": 14,
-      "Усманов Владимир Викторович": 2,
-      "Широков Игорь Юрьевич": 1,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000136067": 14,
+      "gas:candidate-vibid:245200067211": 1,
+      "gas:candidate-vibid:1001000190357": 1,
+      "gas:candidate-vibid:1001000112219": 5,
+      "gas:candidate-vibid:1001000121857": 14,
+      "gas:candidate-vibid:245200067363": 2,
+      "gas:candidate-vibid:1001000195086": 1,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066776&region=0&sub_region=0&type=429",
@@ -5571,14 +5571,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 54,
-      "Безбородов Николай Максимович": 175,
-      "Веревкин Валерий Иванович": 15,
-      "Иванов Алексей Иванович": 22,
-      "Кислицын Василий Александрович": 51,
-      "Усманов Владимир Викторович": 50,
-      "Широков Игорь Юрьевич": 8,
-      "Против всех": 103
+      "gas:candidate-vibid:1001000136067": 54,
+      "gas:candidate-vibid:245200067211": 175,
+      "gas:candidate-vibid:1001000190357": 15,
+      "gas:candidate-vibid:1001000112219": 22,
+      "gas:candidate-vibid:1001000121857": 51,
+      "gas:candidate-vibid:245200067363": 50,
+      "gas:candidate-vibid:1001000195086": 8,
+      "special:against-all": 103
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066776&region=0&sub_region=0&type=429",
@@ -5628,14 +5628,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 6,
-      "Безбородов Николай Максимович": 22,
-      "Веревкин Валерий Иванович": 5,
-      "Иванов Алексей Иванович": 0,
-      "Кислицын Василий Александрович": 21,
-      "Усманов Владимир Викторович": 3,
-      "Широков Игорь Юрьевич": 0,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000136067": 6,
+      "gas:candidate-vibid:245200067211": 22,
+      "gas:candidate-vibid:1001000190357": 5,
+      "gas:candidate-vibid:1001000112219": 0,
+      "gas:candidate-vibid:1001000121857": 21,
+      "gas:candidate-vibid:245200067363": 3,
+      "gas:candidate-vibid:1001000195086": 0,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066776&region=0&sub_region=0&type=429",
@@ -5685,14 +5685,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 12,
-      "Безбородов Николай Максимович": 69,
-      "Веревкин Валерий Иванович": 5,
-      "Иванов Алексей Иванович": 8,
-      "Кислицын Василий Александрович": 43,
-      "Усманов Владимир Викторович": 8,
-      "Широков Игорь Юрьевич": 3,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000136067": 12,
+      "gas:candidate-vibid:245200067211": 69,
+      "gas:candidate-vibid:1001000190357": 5,
+      "gas:candidate-vibid:1001000112219": 8,
+      "gas:candidate-vibid:1001000121857": 43,
+      "gas:candidate-vibid:245200067363": 8,
+      "gas:candidate-vibid:1001000195086": 3,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066776&region=0&sub_region=0&type=429",
@@ -5742,14 +5742,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 6,
-      "Безбородов Николай Максимович": 33,
-      "Веревкин Валерий Иванович": 1,
-      "Иванов Алексей Иванович": 2,
-      "Кислицын Василий Александрович": 6,
-      "Усманов Владимир Викторович": 8,
-      "Широков Игорь Юрьевич": 0,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000136067": 6,
+      "gas:candidate-vibid:245200067211": 33,
+      "gas:candidate-vibid:1001000190357": 1,
+      "gas:candidate-vibid:1001000112219": 2,
+      "gas:candidate-vibid:1001000121857": 6,
+      "gas:candidate-vibid:245200067363": 8,
+      "gas:candidate-vibid:1001000195086": 0,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066776&region=0&sub_region=0&type=429",
@@ -5799,14 +5799,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 40,
-      "Безбородов Николай Максимович": 150,
-      "Веревкин Валерий Иванович": 15,
-      "Иванов Алексей Иванович": 12,
-      "Кислицын Василий Александрович": 40,
-      "Усманов Владимир Викторович": 46,
-      "Широков Игорь Юрьевич": 2,
-      "Против всех": 36
+      "gas:candidate-vibid:1001000136067": 40,
+      "gas:candidate-vibid:245200067211": 150,
+      "gas:candidate-vibid:1001000190357": 15,
+      "gas:candidate-vibid:1001000112219": 12,
+      "gas:candidate-vibid:1001000121857": 40,
+      "gas:candidate-vibid:245200067363": 46,
+      "gas:candidate-vibid:1001000195086": 2,
+      "special:against-all": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066776&region=0&sub_region=0&type=429",
@@ -5856,14 +5856,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 18,
-      "Безбородов Николай Максимович": 88,
-      "Веревкин Валерий Иванович": 7,
-      "Иванов Алексей Иванович": 6,
-      "Кислицын Василий Александрович": 32,
-      "Усманов Владимир Викторович": 23,
-      "Широков Игорь Юрьевич": 1,
-      "Против всех": 35
+      "gas:candidate-vibid:1001000136067": 18,
+      "gas:candidate-vibid:245200067211": 88,
+      "gas:candidate-vibid:1001000190357": 7,
+      "gas:candidate-vibid:1001000112219": 6,
+      "gas:candidate-vibid:1001000121857": 32,
+      "gas:candidate-vibid:245200067363": 23,
+      "gas:candidate-vibid:1001000195086": 1,
+      "special:against-all": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066776&region=0&sub_region=0&type=429",
@@ -5913,14 +5913,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 94,
-      "Безбородов Николай Максимович": 325,
-      "Веревкин Валерий Иванович": 20,
-      "Иванов Алексей Иванович": 32,
-      "Кислицын Василий Александрович": 243,
-      "Усманов Владимир Викторович": 92,
-      "Широков Игорь Юрьевич": 9,
-      "Против всех": 90
+      "gas:candidate-vibid:1001000136067": 94,
+      "gas:candidate-vibid:245200067211": 325,
+      "gas:candidate-vibid:1001000190357": 20,
+      "gas:candidate-vibid:1001000112219": 32,
+      "gas:candidate-vibid:1001000121857": 243,
+      "gas:candidate-vibid:245200067363": 92,
+      "gas:candidate-vibid:1001000195086": 9,
+      "special:against-all": 90
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066776&region=0&sub_region=0&type=429",
@@ -5970,14 +5970,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 42,
-      "Безбородов Николай Максимович": 155,
-      "Веревкин Валерий Иванович": 16,
-      "Иванов Алексей Иванович": 9,
-      "Кислицын Василий Александрович": 58,
-      "Усманов Владимир Викторович": 36,
-      "Широков Игорь Юрьевич": 9,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000136067": 42,
+      "gas:candidate-vibid:245200067211": 155,
+      "gas:candidate-vibid:1001000190357": 16,
+      "gas:candidate-vibid:1001000112219": 9,
+      "gas:candidate-vibid:1001000121857": 58,
+      "gas:candidate-vibid:245200067363": 36,
+      "gas:candidate-vibid:1001000195086": 9,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066776&region=0&sub_region=0&type=429",
@@ -6027,14 +6027,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 52,
-      "Безбородов Николай Максимович": 263,
-      "Веревкин Валерий Иванович": 12,
-      "Иванов Алексей Иванович": 12,
-      "Кислицын Василий Александрович": 60,
-      "Усманов Владимир Викторович": 84,
-      "Широков Игорь Юрьевич": 5,
-      "Против всех": 55
+      "gas:candidate-vibid:1001000136067": 52,
+      "gas:candidate-vibid:245200067211": 263,
+      "gas:candidate-vibid:1001000190357": 12,
+      "gas:candidate-vibid:1001000112219": 12,
+      "gas:candidate-vibid:1001000121857": 60,
+      "gas:candidate-vibid:245200067363": 84,
+      "gas:candidate-vibid:1001000195086": 5,
+      "special:against-all": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066776&region=0&sub_region=0&type=429",
@@ -6084,14 +6084,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 30,
-      "Безбородов Николай Максимович": 34,
-      "Веревкин Валерий Иванович": 0,
-      "Иванов Алексей Иванович": 5,
-      "Кислицын Василий Александрович": 18,
-      "Усманов Владимир Викторович": 13,
-      "Широков Игорь Юрьевич": 0,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000136067": 30,
+      "gas:candidate-vibid:245200067211": 34,
+      "gas:candidate-vibid:1001000190357": 0,
+      "gas:candidate-vibid:1001000112219": 5,
+      "gas:candidate-vibid:1001000121857": 18,
+      "gas:candidate-vibid:245200067363": 13,
+      "gas:candidate-vibid:1001000195086": 0,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066776&region=0&sub_region=0&type=429",
@@ -6141,14 +6141,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 32,
-      "Безбородов Николай Максимович": 146,
-      "Веревкин Валерий Иванович": 2,
-      "Иванов Алексей Иванович": 2,
-      "Кислицын Василий Александрович": 28,
-      "Усманов Владимир Викторович": 17,
-      "Широков Игорь Юрьевич": 0,
-      "Против всех": 37
+      "gas:candidate-vibid:1001000136067": 32,
+      "gas:candidate-vibid:245200067211": 146,
+      "gas:candidate-vibid:1001000190357": 2,
+      "gas:candidate-vibid:1001000112219": 2,
+      "gas:candidate-vibid:1001000121857": 28,
+      "gas:candidate-vibid:245200067363": 17,
+      "gas:candidate-vibid:1001000195086": 0,
+      "special:against-all": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066776&region=0&sub_region=0&type=429",
@@ -6198,14 +6198,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 5,
-      "Безбородов Николай Максимович": 46,
-      "Веревкин Валерий Иванович": 6,
-      "Иванов Алексей Иванович": 1,
-      "Кислицын Василий Александрович": 11,
-      "Усманов Владимир Викторович": 3,
-      "Широков Игорь Юрьевич": 0,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000136067": 5,
+      "gas:candidate-vibid:245200067211": 46,
+      "gas:candidate-vibid:1001000190357": 6,
+      "gas:candidate-vibid:1001000112219": 1,
+      "gas:candidate-vibid:1001000121857": 11,
+      "gas:candidate-vibid:245200067363": 3,
+      "gas:candidate-vibid:1001000195086": 0,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066776&region=0&sub_region=0&type=429",
@@ -6255,14 +6255,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 23,
-      "Безбородов Николай Максимович": 62,
-      "Веревкин Валерий Иванович": 1,
-      "Иванов Алексей Иванович": 4,
-      "Кислицын Василий Александрович": 53,
-      "Усманов Владимир Викторович": 39,
-      "Широков Игорь Юрьевич": 0,
-      "Против всех": 40
+      "gas:candidate-vibid:1001000136067": 23,
+      "gas:candidate-vibid:245200067211": 62,
+      "gas:candidate-vibid:1001000190357": 1,
+      "gas:candidate-vibid:1001000112219": 4,
+      "gas:candidate-vibid:1001000121857": 53,
+      "gas:candidate-vibid:245200067363": 39,
+      "gas:candidate-vibid:1001000195086": 0,
+      "special:against-all": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066776&region=0&sub_region=0&type=429",
@@ -6312,14 +6312,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 15,
-      "Безбородов Николай Максимович": 91,
-      "Веревкин Валерий Иванович": 3,
-      "Иванов Алексей Иванович": 4,
-      "Кислицын Василий Александрович": 24,
-      "Усманов Владимир Викторович": 32,
-      "Широков Игорь Юрьевич": 1,
-      "Против всех": 53
+      "gas:candidate-vibid:1001000136067": 15,
+      "gas:candidate-vibid:245200067211": 91,
+      "gas:candidate-vibid:1001000190357": 3,
+      "gas:candidate-vibid:1001000112219": 4,
+      "gas:candidate-vibid:1001000121857": 24,
+      "gas:candidate-vibid:245200067363": 32,
+      "gas:candidate-vibid:1001000195086": 1,
+      "special:against-all": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066776&region=0&sub_region=0&type=429",
@@ -6369,14 +6369,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 18,
-      "Безбородов Николай Максимович": 57,
-      "Веревкин Валерий Иванович": 8,
-      "Иванов Алексей Иванович": 2,
-      "Кислицын Василий Александрович": 78,
-      "Усманов Владимир Викторович": 28,
-      "Широков Игорь Юрьевич": 1,
-      "Против всех": 33
+      "gas:candidate-vibid:1001000136067": 18,
+      "gas:candidate-vibid:245200067211": 57,
+      "gas:candidate-vibid:1001000190357": 8,
+      "gas:candidate-vibid:1001000112219": 2,
+      "gas:candidate-vibid:1001000121857": 78,
+      "gas:candidate-vibid:245200067363": 28,
+      "gas:candidate-vibid:1001000195086": 1,
+      "special:against-all": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066776&region=0&sub_region=0&type=429",
@@ -6426,14 +6426,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 14,
-      "Безбородов Николай Максимович": 99,
-      "Веревкин Валерий Иванович": 5,
-      "Иванов Алексей Иванович": 5,
-      "Кислицын Василий Александрович": 37,
-      "Усманов Владимир Викторович": 17,
-      "Широков Игорь Юрьевич": 2,
-      "Против всех": 35
+      "gas:candidate-vibid:1001000136067": 14,
+      "gas:candidate-vibid:245200067211": 99,
+      "gas:candidate-vibid:1001000190357": 5,
+      "gas:candidate-vibid:1001000112219": 5,
+      "gas:candidate-vibid:1001000121857": 37,
+      "gas:candidate-vibid:245200067363": 17,
+      "gas:candidate-vibid:1001000195086": 2,
+      "special:against-all": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066776&region=0&sub_region=0&type=429",
@@ -6483,14 +6483,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 16,
-      "Безбородов Николай Максимович": 45,
-      "Веревкин Валерий Иванович": 6,
-      "Иванов Алексей Иванович": 7,
-      "Кислицын Василий Александрович": 14,
-      "Усманов Владимир Викторович": 11,
-      "Широков Игорь Юрьевич": 2,
-      "Против всех": 28
+      "gas:candidate-vibid:1001000136067": 16,
+      "gas:candidate-vibid:245200067211": 45,
+      "gas:candidate-vibid:1001000190357": 6,
+      "gas:candidate-vibid:1001000112219": 7,
+      "gas:candidate-vibid:1001000121857": 14,
+      "gas:candidate-vibid:245200067363": 11,
+      "gas:candidate-vibid:1001000195086": 2,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066776&region=0&sub_region=0&type=429",
@@ -6540,14 +6540,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 3,
-      "Безбородов Николай Максимович": 37,
-      "Веревкин Валерий Иванович": 2,
-      "Иванов Алексей Иванович": 3,
-      "Кислицын Василий Александрович": 25,
-      "Усманов Владимир Викторович": 8,
-      "Широков Игорь Юрьевич": 0,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000136067": 3,
+      "gas:candidate-vibid:245200067211": 37,
+      "gas:candidate-vibid:1001000190357": 2,
+      "gas:candidate-vibid:1001000112219": 3,
+      "gas:candidate-vibid:1001000121857": 25,
+      "gas:candidate-vibid:245200067363": 8,
+      "gas:candidate-vibid:1001000195086": 0,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066776&region=0&sub_region=0&type=429",
@@ -6597,14 +6597,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 17,
-      "Безбородов Николай Максимович": 106,
-      "Веревкин Валерий Иванович": 4,
-      "Иванов Алексей Иванович": 8,
-      "Кислицын Василий Александрович": 64,
-      "Усманов Владимир Викторович": 25,
-      "Широков Игорь Юрьевич": 3,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000136067": 17,
+      "gas:candidate-vibid:245200067211": 106,
+      "gas:candidate-vibid:1001000190357": 4,
+      "gas:candidate-vibid:1001000112219": 8,
+      "gas:candidate-vibid:1001000121857": 64,
+      "gas:candidate-vibid:245200067363": 25,
+      "gas:candidate-vibid:1001000195086": 3,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066776&region=0&sub_region=0&type=429",
@@ -6654,14 +6654,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 18,
-      "Безбородов Николай Максимович": 71,
-      "Веревкин Валерий Иванович": 5,
-      "Иванов Алексей Иванович": 7,
-      "Кислицын Василий Александрович": 10,
-      "Усманов Владимир Викторович": 3,
-      "Широков Игорь Юрьевич": 1,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000136067": 18,
+      "gas:candidate-vibid:245200067211": 71,
+      "gas:candidate-vibid:1001000190357": 5,
+      "gas:candidate-vibid:1001000112219": 7,
+      "gas:candidate-vibid:1001000121857": 10,
+      "gas:candidate-vibid:245200067363": 3,
+      "gas:candidate-vibid:1001000195086": 1,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066776&region=0&sub_region=0&type=429",
@@ -6711,14 +6711,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 16,
-      "Безбородов Николай Максимович": 114,
-      "Веревкин Валерий Иванович": 5,
-      "Иванов Алексей Иванович": 5,
-      "Кислицын Василий Александрович": 33,
-      "Усманов Владимир Викторович": 9,
-      "Широков Игорь Юрьевич": 2,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000136067": 16,
+      "gas:candidate-vibid:245200067211": 114,
+      "gas:candidate-vibid:1001000190357": 5,
+      "gas:candidate-vibid:1001000112219": 5,
+      "gas:candidate-vibid:1001000121857": 33,
+      "gas:candidate-vibid:245200067363": 9,
+      "gas:candidate-vibid:1001000195086": 2,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066776&region=0&sub_region=0&type=429",
@@ -6768,14 +6768,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 10,
-      "Безбородов Николай Максимович": 62,
-      "Веревкин Валерий Иванович": 8,
-      "Иванов Алексей Иванович": 5,
-      "Кислицын Василий Александрович": 22,
-      "Усманов Владимир Викторович": 14,
-      "Широков Игорь Юрьевич": 1,
-      "Против всех": 37
+      "gas:candidate-vibid:1001000136067": 10,
+      "gas:candidate-vibid:245200067211": 62,
+      "gas:candidate-vibid:1001000190357": 8,
+      "gas:candidate-vibid:1001000112219": 5,
+      "gas:candidate-vibid:1001000121857": 22,
+      "gas:candidate-vibid:245200067363": 14,
+      "gas:candidate-vibid:1001000195086": 1,
+      "special:against-all": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066776&region=0&sub_region=0&type=429",
@@ -6825,14 +6825,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 3,
-      "Безбородов Николай Максимович": 68,
-      "Веревкин Валерий Иванович": 1,
-      "Иванов Алексей Иванович": 1,
-      "Кислицын Василий Александрович": 5,
-      "Усманов Владимир Викторович": 1,
-      "Широков Игорь Юрьевич": 0,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000136067": 3,
+      "gas:candidate-vibid:245200067211": 68,
+      "gas:candidate-vibid:1001000190357": 1,
+      "gas:candidate-vibid:1001000112219": 1,
+      "gas:candidate-vibid:1001000121857": 5,
+      "gas:candidate-vibid:245200067363": 1,
+      "gas:candidate-vibid:1001000195086": 0,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066776&region=0&sub_region=0&type=429",
@@ -6882,14 +6882,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 64,
-      "Безбородов Николай Максимович": 107,
-      "Веревкин Валерий Иванович": 24,
-      "Иванов Алексей Иванович": 5,
-      "Кислицын Василий Александрович": 87,
-      "Усманов Владимир Викторович": 46,
-      "Широков Игорь Юрьевич": 1,
-      "Против всех": 72
+      "gas:candidate-vibid:1001000136067": 64,
+      "gas:candidate-vibid:245200067211": 107,
+      "gas:candidate-vibid:1001000190357": 24,
+      "gas:candidate-vibid:1001000112219": 5,
+      "gas:candidate-vibid:1001000121857": 87,
+      "gas:candidate-vibid:245200067363": 46,
+      "gas:candidate-vibid:1001000195086": 1,
+      "special:against-all": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066777&region=0&sub_region=0&type=429",
@@ -6939,14 +6939,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 69,
-      "Безбородов Николай Максимович": 94,
-      "Веревкин Валерий Иванович": 29,
-      "Иванов Алексей Иванович": 5,
-      "Кислицын Василий Александрович": 90,
-      "Усманов Владимир Викторович": 61,
-      "Широков Игорь Юрьевич": 2,
-      "Против всех": 62
+      "gas:candidate-vibid:1001000136067": 69,
+      "gas:candidate-vibid:245200067211": 94,
+      "gas:candidate-vibid:1001000190357": 29,
+      "gas:candidate-vibid:1001000112219": 5,
+      "gas:candidate-vibid:1001000121857": 90,
+      "gas:candidate-vibid:245200067363": 61,
+      "gas:candidate-vibid:1001000195086": 2,
+      "special:against-all": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066777&region=0&sub_region=0&type=429",
@@ -6996,14 +6996,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 82,
-      "Безбородов Николай Максимович": 107,
-      "Веревкин Валерий Иванович": 29,
-      "Иванов Алексей Иванович": 6,
-      "Кислицын Василий Александрович": 90,
-      "Усманов Владимир Викторович": 88,
-      "Широков Игорь Юрьевич": 3,
-      "Против всех": 103
+      "gas:candidate-vibid:1001000136067": 82,
+      "gas:candidate-vibid:245200067211": 107,
+      "gas:candidate-vibid:1001000190357": 29,
+      "gas:candidate-vibid:1001000112219": 6,
+      "gas:candidate-vibid:1001000121857": 90,
+      "gas:candidate-vibid:245200067363": 88,
+      "gas:candidate-vibid:1001000195086": 3,
+      "special:against-all": 103
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066777&region=0&sub_region=0&type=429",
@@ -7053,14 +7053,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 66,
-      "Безбородов Николай Максимович": 82,
-      "Веревкин Валерий Иванович": 18,
-      "Иванов Алексей Иванович": 5,
-      "Кислицын Василий Александрович": 73,
-      "Усманов Владимир Викторович": 65,
-      "Широков Игорь Юрьевич": 9,
-      "Против всех": 52
+      "gas:candidate-vibid:1001000136067": 66,
+      "gas:candidate-vibid:245200067211": 82,
+      "gas:candidate-vibid:1001000190357": 18,
+      "gas:candidate-vibid:1001000112219": 5,
+      "gas:candidate-vibid:1001000121857": 73,
+      "gas:candidate-vibid:245200067363": 65,
+      "gas:candidate-vibid:1001000195086": 9,
+      "special:against-all": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066777&region=0&sub_region=0&type=429",
@@ -7110,14 +7110,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 58,
-      "Безбородов Николай Максимович": 108,
-      "Веревкин Валерий Иванович": 7,
-      "Иванов Алексей Иванович": 5,
-      "Кислицын Василий Александрович": 95,
-      "Усманов Владимир Викторович": 32,
-      "Широков Игорь Юрьевич": 7,
-      "Против всех": 52
+      "gas:candidate-vibid:1001000136067": 58,
+      "gas:candidate-vibid:245200067211": 108,
+      "gas:candidate-vibid:1001000190357": 7,
+      "gas:candidate-vibid:1001000112219": 5,
+      "gas:candidate-vibid:1001000121857": 95,
+      "gas:candidate-vibid:245200067363": 32,
+      "gas:candidate-vibid:1001000195086": 7,
+      "special:against-all": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066777&region=0&sub_region=0&type=429",
@@ -7167,14 +7167,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 30,
-      "Безбородов Николай Максимович": 40,
-      "Веревкин Валерий Иванович": 2,
-      "Иванов Алексей Иванович": 2,
-      "Кислицын Василий Александрович": 13,
-      "Усманов Владимир Викторович": 17,
-      "Широков Игорь Юрьевич": 1,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000136067": 30,
+      "gas:candidate-vibid:245200067211": 40,
+      "gas:candidate-vibid:1001000190357": 2,
+      "gas:candidate-vibid:1001000112219": 2,
+      "gas:candidate-vibid:1001000121857": 13,
+      "gas:candidate-vibid:245200067363": 17,
+      "gas:candidate-vibid:1001000195086": 1,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066777&region=0&sub_region=0&type=429",
@@ -7224,14 +7224,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 13,
-      "Безбородов Николай Максимович": 31,
-      "Веревкин Валерий Иванович": 1,
-      "Иванов Алексей Иванович": 1,
-      "Кислицын Василий Александрович": 35,
-      "Усманов Владимир Викторович": 8,
-      "Широков Игорь Юрьевич": 1,
-      "Против всех": 25
+      "gas:candidate-vibid:1001000136067": 13,
+      "gas:candidate-vibid:245200067211": 31,
+      "gas:candidate-vibid:1001000190357": 1,
+      "gas:candidate-vibid:1001000112219": 1,
+      "gas:candidate-vibid:1001000121857": 35,
+      "gas:candidate-vibid:245200067363": 8,
+      "gas:candidate-vibid:1001000195086": 1,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066777&region=0&sub_region=0&type=429",
@@ -7281,14 +7281,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 18,
-      "Безбородов Николай Максимович": 37,
-      "Веревкин Валерий Иванович": 9,
-      "Иванов Алексей Иванович": 4,
-      "Кислицын Василий Александрович": 15,
-      "Усманов Владимир Викторович": 6,
-      "Широков Игорь Юрьевич": 3,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000136067": 18,
+      "gas:candidate-vibid:245200067211": 37,
+      "gas:candidate-vibid:1001000190357": 9,
+      "gas:candidate-vibid:1001000112219": 4,
+      "gas:candidate-vibid:1001000121857": 15,
+      "gas:candidate-vibid:245200067363": 6,
+      "gas:candidate-vibid:1001000195086": 3,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066777&region=0&sub_region=0&type=429",
@@ -7338,14 +7338,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 17,
-      "Безбородов Николай Максимович": 16,
-      "Веревкин Валерий Иванович": 0,
-      "Иванов Алексей Иванович": 3,
-      "Кислицын Василий Александрович": 8,
-      "Усманов Владимир Викторович": 2,
-      "Широков Игорь Юрьевич": 1,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000136067": 17,
+      "gas:candidate-vibid:245200067211": 16,
+      "gas:candidate-vibid:1001000190357": 0,
+      "gas:candidate-vibid:1001000112219": 3,
+      "gas:candidate-vibid:1001000121857": 8,
+      "gas:candidate-vibid:245200067363": 2,
+      "gas:candidate-vibid:1001000195086": 1,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066777&region=0&sub_region=0&type=429",
@@ -7395,14 +7395,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 30,
-      "Безбородов Николай Максимович": 96,
-      "Веревкин Валерий Иванович": 3,
-      "Иванов Алексей Иванович": 3,
-      "Кислицын Василий Александрович": 30,
-      "Усманов Владимир Викторович": 14,
-      "Широков Игорь Юрьевич": 0,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000136067": 30,
+      "gas:candidate-vibid:245200067211": 96,
+      "gas:candidate-vibid:1001000190357": 3,
+      "gas:candidate-vibid:1001000112219": 3,
+      "gas:candidate-vibid:1001000121857": 30,
+      "gas:candidate-vibid:245200067363": 14,
+      "gas:candidate-vibid:1001000195086": 0,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066777&region=0&sub_region=0&type=429",
@@ -7452,14 +7452,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 11,
-      "Безбородов Николай Максимович": 34,
-      "Веревкин Валерий Иванович": 3,
-      "Иванов Алексей Иванович": 2,
-      "Кислицын Василий Александрович": 13,
-      "Усманов Владимир Викторович": 12,
-      "Широков Игорь Юрьевич": 1,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000136067": 11,
+      "gas:candidate-vibid:245200067211": 34,
+      "gas:candidate-vibid:1001000190357": 3,
+      "gas:candidate-vibid:1001000112219": 2,
+      "gas:candidate-vibid:1001000121857": 13,
+      "gas:candidate-vibid:245200067363": 12,
+      "gas:candidate-vibid:1001000195086": 1,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066777&region=0&sub_region=0&type=429",
@@ -7509,14 +7509,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 16,
-      "Безбородов Николай Максимович": 71,
-      "Веревкин Валерий Иванович": 5,
-      "Иванов Алексей Иванович": 3,
-      "Кислицын Василий Александрович": 40,
-      "Усманов Владимир Викторович": 14,
-      "Широков Игорь Юрьевич": 0,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000136067": 16,
+      "gas:candidate-vibid:245200067211": 71,
+      "gas:candidate-vibid:1001000190357": 5,
+      "gas:candidate-vibid:1001000112219": 3,
+      "gas:candidate-vibid:1001000121857": 40,
+      "gas:candidate-vibid:245200067363": 14,
+      "gas:candidate-vibid:1001000195086": 0,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066777&region=0&sub_region=0&type=429",
@@ -7566,14 +7566,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 43,
-      "Безбородов Николай Максимович": 140,
-      "Веревкин Валерий Иванович": 11,
-      "Иванов Алексей Иванович": 1,
-      "Кислицын Василий Александрович": 51,
-      "Усманов Владимир Викторович": 23,
-      "Широков Игорь Юрьевич": 2,
-      "Против всех": 30
+      "gas:candidate-vibid:1001000136067": 43,
+      "gas:candidate-vibid:245200067211": 140,
+      "gas:candidate-vibid:1001000190357": 11,
+      "gas:candidate-vibid:1001000112219": 1,
+      "gas:candidate-vibid:1001000121857": 51,
+      "gas:candidate-vibid:245200067363": 23,
+      "gas:candidate-vibid:1001000195086": 2,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066777&region=0&sub_region=0&type=429",
@@ -7623,14 +7623,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 51,
-      "Безбородов Николай Максимович": 56,
-      "Веревкин Валерий Иванович": 11,
-      "Иванов Алексей Иванович": 7,
-      "Кислицын Василий Александрович": 84,
-      "Усманов Владимир Викторович": 37,
-      "Широков Игорь Юрьевич": 2,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000136067": 51,
+      "gas:candidate-vibid:245200067211": 56,
+      "gas:candidate-vibid:1001000190357": 11,
+      "gas:candidate-vibid:1001000112219": 7,
+      "gas:candidate-vibid:1001000121857": 84,
+      "gas:candidate-vibid:245200067363": 37,
+      "gas:candidate-vibid:1001000195086": 2,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066777&region=0&sub_region=0&type=429",
@@ -7680,14 +7680,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 37,
-      "Безбородов Николай Максимович": 87,
-      "Веревкин Валерий Иванович": 6,
-      "Иванов Алексей Иванович": 6,
-      "Кислицын Василий Александрович": 51,
-      "Усманов Владимир Викторович": 17,
-      "Широков Игорь Юрьевич": 3,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000136067": 37,
+      "gas:candidate-vibid:245200067211": 87,
+      "gas:candidate-vibid:1001000190357": 6,
+      "gas:candidate-vibid:1001000112219": 6,
+      "gas:candidate-vibid:1001000121857": 51,
+      "gas:candidate-vibid:245200067363": 17,
+      "gas:candidate-vibid:1001000195086": 3,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066777&region=0&sub_region=0&type=429",
@@ -7737,14 +7737,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 6,
-      "Безбородов Николай Максимович": 25,
-      "Веревкин Валерий Иванович": 0,
-      "Иванов Алексей Иванович": 3,
-      "Кислицын Василий Александрович": 1,
-      "Усманов Владимир Викторович": 6,
-      "Широков Игорь Юрьевич": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000136067": 6,
+      "gas:candidate-vibid:245200067211": 25,
+      "gas:candidate-vibid:1001000190357": 0,
+      "gas:candidate-vibid:1001000112219": 3,
+      "gas:candidate-vibid:1001000121857": 1,
+      "gas:candidate-vibid:245200067363": 6,
+      "gas:candidate-vibid:1001000195086": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066777&region=0&sub_region=0&type=429",
@@ -7794,14 +7794,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 27,
-      "Безбородов Николай Максимович": 78,
-      "Веревкин Валерий Иванович": 12,
-      "Иванов Алексей Иванович": 2,
-      "Кислицын Василий Александрович": 61,
-      "Усманов Владимир Викторович": 12,
-      "Широков Игорь Юрьевич": 4,
-      "Против всех": 47
+      "gas:candidate-vibid:1001000136067": 27,
+      "gas:candidate-vibid:245200067211": 78,
+      "gas:candidate-vibid:1001000190357": 12,
+      "gas:candidate-vibid:1001000112219": 2,
+      "gas:candidate-vibid:1001000121857": 61,
+      "gas:candidate-vibid:245200067363": 12,
+      "gas:candidate-vibid:1001000195086": 4,
+      "special:against-all": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066777&region=0&sub_region=0&type=429",
@@ -7851,14 +7851,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 15,
-      "Безбородов Николай Максимович": 43,
-      "Веревкин Валерий Иванович": 6,
-      "Иванов Алексей Иванович": 1,
-      "Кислицын Василий Александрович": 2,
-      "Усманов Владимир Викторович": 3,
-      "Широков Игорь Юрьевич": 2,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000136067": 15,
+      "gas:candidate-vibid:245200067211": 43,
+      "gas:candidate-vibid:1001000190357": 6,
+      "gas:candidate-vibid:1001000112219": 1,
+      "gas:candidate-vibid:1001000121857": 2,
+      "gas:candidate-vibid:245200067363": 3,
+      "gas:candidate-vibid:1001000195086": 2,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066777&region=0&sub_region=0&type=429",
@@ -7908,14 +7908,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 72,
-      "Безбородов Николай Максимович": 116,
-      "Веревкин Валерий Иванович": 18,
-      "Иванов Алексей Иванович": 13,
-      "Кислицын Василий Александрович": 126,
-      "Усманов Владимир Викторович": 37,
-      "Широков Игорь Юрьевич": 3,
-      "Против всех": 49
+      "gas:candidate-vibid:1001000136067": 72,
+      "gas:candidate-vibid:245200067211": 116,
+      "gas:candidate-vibid:1001000190357": 18,
+      "gas:candidate-vibid:1001000112219": 13,
+      "gas:candidate-vibid:1001000121857": 126,
+      "gas:candidate-vibid:245200067363": 37,
+      "gas:candidate-vibid:1001000195086": 3,
+      "special:against-all": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066777&region=0&sub_region=0&type=429",
@@ -7965,14 +7965,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 6,
-      "Безбородов Николай Максимович": 24,
-      "Веревкин Валерий Иванович": 2,
-      "Иванов Алексей Иванович": 7,
-      "Кислицын Василий Александрович": 8,
-      "Усманов Владимир Викторович": 0,
-      "Широков Игорь Юрьевич": 0,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000136067": 6,
+      "gas:candidate-vibid:245200067211": 24,
+      "gas:candidate-vibid:1001000190357": 2,
+      "gas:candidate-vibid:1001000112219": 7,
+      "gas:candidate-vibid:1001000121857": 8,
+      "gas:candidate-vibid:245200067363": 0,
+      "gas:candidate-vibid:1001000195086": 0,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066777&region=0&sub_region=0&type=429",
@@ -8022,14 +8022,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 45,
-      "Безбородов Николай Максимович": 83,
-      "Веревкин Валерий Иванович": 7,
-      "Иванов Алексей Иванович": 11,
-      "Кислицын Василий Александрович": 33,
-      "Усманов Владимир Викторович": 20,
-      "Широков Игорь Юрьевич": 3,
-      "Против всех": 44
+      "gas:candidate-vibid:1001000136067": 45,
+      "gas:candidate-vibid:245200067211": 83,
+      "gas:candidate-vibid:1001000190357": 7,
+      "gas:candidate-vibid:1001000112219": 11,
+      "gas:candidate-vibid:1001000121857": 33,
+      "gas:candidate-vibid:245200067363": 20,
+      "gas:candidate-vibid:1001000195086": 3,
+      "special:against-all": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066777&region=0&sub_region=0&type=429",
@@ -8079,14 +8079,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 27,
-      "Безбородов Николай Максимович": 39,
-      "Веревкин Валерий Иванович": 2,
-      "Иванов Алексей Иванович": 3,
-      "Кислицын Василий Александрович": 5,
-      "Усманов Владимир Викторович": 15,
-      "Широков Игорь Юрьевич": 1,
-      "Против всех": 31
+      "gas:candidate-vibid:1001000136067": 27,
+      "gas:candidate-vibid:245200067211": 39,
+      "gas:candidate-vibid:1001000190357": 2,
+      "gas:candidate-vibid:1001000112219": 3,
+      "gas:candidate-vibid:1001000121857": 5,
+      "gas:candidate-vibid:245200067363": 15,
+      "gas:candidate-vibid:1001000195086": 1,
+      "special:against-all": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066777&region=0&sub_region=0&type=429",
@@ -8136,14 +8136,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 52,
-      "Безбородов Николай Максимович": 52,
-      "Веревкин Валерий Иванович": 6,
-      "Иванов Алексей Иванович": 4,
-      "Кислицын Василий Александрович": 39,
-      "Усманов Владимир Викторович": 42,
-      "Широков Игорь Юрьевич": 4,
-      "Против всех": 35
+      "gas:candidate-vibid:1001000136067": 52,
+      "gas:candidate-vibid:245200067211": 52,
+      "gas:candidate-vibid:1001000190357": 6,
+      "gas:candidate-vibid:1001000112219": 4,
+      "gas:candidate-vibid:1001000121857": 39,
+      "gas:candidate-vibid:245200067363": 42,
+      "gas:candidate-vibid:1001000195086": 4,
+      "special:against-all": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066777&region=0&sub_region=0&type=429",
@@ -8193,14 +8193,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 24,
-      "Безбородов Николай Максимович": 38,
-      "Веревкин Валерий Иванович": 6,
-      "Иванов Алексей Иванович": 9,
-      "Кислицын Василий Александрович": 11,
-      "Усманов Владимир Викторович": 26,
-      "Широков Игорь Юрьевич": 0,
-      "Против всех": 41
+      "gas:candidate-vibid:1001000136067": 24,
+      "gas:candidate-vibid:245200067211": 38,
+      "gas:candidate-vibid:1001000190357": 6,
+      "gas:candidate-vibid:1001000112219": 9,
+      "gas:candidate-vibid:1001000121857": 11,
+      "gas:candidate-vibid:245200067363": 26,
+      "gas:candidate-vibid:1001000195086": 0,
+      "special:against-all": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066777&region=0&sub_region=0&type=429",
@@ -8250,14 +8250,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 28,
-      "Безбородов Николай Максимович": 84,
-      "Веревкин Валерий Иванович": 13,
-      "Иванов Алексей Иванович": 10,
-      "Кислицын Василий Александрович": 46,
-      "Усманов Владимир Викторович": 9,
-      "Широков Игорь Юрьевич": 2,
-      "Против всех": 41
+      "gas:candidate-vibid:1001000136067": 28,
+      "gas:candidate-vibid:245200067211": 84,
+      "gas:candidate-vibid:1001000190357": 13,
+      "gas:candidate-vibid:1001000112219": 10,
+      "gas:candidate-vibid:1001000121857": 46,
+      "gas:candidate-vibid:245200067363": 9,
+      "gas:candidate-vibid:1001000195086": 2,
+      "special:against-all": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066777&region=0&sub_region=0&type=429",
@@ -8307,14 +8307,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 28,
-      "Безбородов Николай Максимович": 23,
-      "Веревкин Валерий Иванович": 2,
-      "Иванов Алексей Иванович": 4,
-      "Кислицын Василий Александрович": 11,
-      "Усманов Владимир Викторович": 7,
-      "Широков Игорь Юрьевич": 0,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000136067": 28,
+      "gas:candidate-vibid:245200067211": 23,
+      "gas:candidate-vibid:1001000190357": 2,
+      "gas:candidate-vibid:1001000112219": 4,
+      "gas:candidate-vibid:1001000121857": 11,
+      "gas:candidate-vibid:245200067363": 7,
+      "gas:candidate-vibid:1001000195086": 0,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066777&region=0&sub_region=0&type=429",
@@ -8364,14 +8364,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 30,
-      "Безбородов Николай Максимович": 47,
-      "Веревкин Валерий Иванович": 5,
-      "Иванов Алексей Иванович": 4,
-      "Кислицын Василий Александрович": 12,
-      "Усманов Владимир Викторович": 14,
-      "Широков Игорь Юрьевич": 3,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000136067": 30,
+      "gas:candidate-vibid:245200067211": 47,
+      "gas:candidate-vibid:1001000190357": 5,
+      "gas:candidate-vibid:1001000112219": 4,
+      "gas:candidate-vibid:1001000121857": 12,
+      "gas:candidate-vibid:245200067363": 14,
+      "gas:candidate-vibid:1001000195086": 3,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066777&region=0&sub_region=0&type=429",
@@ -8421,14 +8421,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 12,
-      "Безбородов Николай Максимович": 19,
-      "Веревкин Валерий Иванович": 2,
-      "Иванов Алексей Иванович": 5,
-      "Кислицын Василий Александрович": 12,
-      "Усманов Владимир Викторович": 8,
-      "Широков Игорь Юрьевич": 1,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000136067": 12,
+      "gas:candidate-vibid:245200067211": 19,
+      "gas:candidate-vibid:1001000190357": 2,
+      "gas:candidate-vibid:1001000112219": 5,
+      "gas:candidate-vibid:1001000121857": 12,
+      "gas:candidate-vibid:245200067363": 8,
+      "gas:candidate-vibid:1001000195086": 1,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066777&region=0&sub_region=0&type=429",
@@ -8478,14 +8478,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 63,
-      "Безбородов Николай Максимович": 101,
-      "Веревкин Валерий Иванович": 11,
-      "Иванов Алексей Иванович": 6,
-      "Кислицын Василий Александрович": 42,
-      "Усманов Владимир Викторович": 29,
-      "Широков Игорь Юрьевич": 3,
-      "Против всех": 27
+      "gas:candidate-vibid:1001000136067": 63,
+      "gas:candidate-vibid:245200067211": 101,
+      "gas:candidate-vibid:1001000190357": 11,
+      "gas:candidate-vibid:1001000112219": 6,
+      "gas:candidate-vibid:1001000121857": 42,
+      "gas:candidate-vibid:245200067363": 29,
+      "gas:candidate-vibid:1001000195086": 3,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066777&region=0&sub_region=0&type=429",
@@ -8535,14 +8535,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 37,
-      "Безбородов Николай Максимович": 13,
-      "Веревкин Валерий Иванович": 2,
-      "Иванов Алексей Иванович": 1,
-      "Кислицын Василий Александрович": 6,
-      "Усманов Владимир Викторович": 2,
-      "Широков Игорь Юрьевич": 3,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000136067": 37,
+      "gas:candidate-vibid:245200067211": 13,
+      "gas:candidate-vibid:1001000190357": 2,
+      "gas:candidate-vibid:1001000112219": 1,
+      "gas:candidate-vibid:1001000121857": 6,
+      "gas:candidate-vibid:245200067363": 2,
+      "gas:candidate-vibid:1001000195086": 3,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066777&region=0&sub_region=0&type=429",
@@ -8592,14 +8592,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 10,
-      "Безбородов Николай Максимович": 19,
-      "Веревкин Валерий Иванович": 2,
-      "Иванов Алексей Иванович": 9,
-      "Кислицын Василий Александрович": 5,
-      "Усманов Владимир Викторович": 8,
-      "Широков Игорь Юрьевич": 1,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000136067": 10,
+      "gas:candidate-vibid:245200067211": 19,
+      "gas:candidate-vibid:1001000190357": 2,
+      "gas:candidate-vibid:1001000112219": 9,
+      "gas:candidate-vibid:1001000121857": 5,
+      "gas:candidate-vibid:245200067363": 8,
+      "gas:candidate-vibid:1001000195086": 1,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066777&region=0&sub_region=0&type=429",
@@ -8649,14 +8649,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 18,
-      "Безбородов Николай Максимович": 105,
-      "Веревкин Валерий Иванович": 6,
-      "Иванов Алексей Иванович": 7,
-      "Кислицын Василий Александрович": 70,
-      "Усманов Владимир Викторович": 20,
-      "Широков Игорь Юрьевич": 1,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000136067": 18,
+      "gas:candidate-vibid:245200067211": 105,
+      "gas:candidate-vibid:1001000190357": 6,
+      "gas:candidate-vibid:1001000112219": 7,
+      "gas:candidate-vibid:1001000121857": 70,
+      "gas:candidate-vibid:245200067363": 20,
+      "gas:candidate-vibid:1001000195086": 1,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066777&region=0&sub_region=0&type=429",
@@ -8706,14 +8706,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 1,
-      "Безбородов Николай Максимович": 14,
-      "Веревкин Валерий Иванович": 0,
-      "Иванов Алексей Иванович": 0,
-      "Кислицын Василий Александрович": 2,
-      "Усманов Владимир Викторович": 2,
-      "Широков Игорь Юрьевич": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000136067": 1,
+      "gas:candidate-vibid:245200067211": 14,
+      "gas:candidate-vibid:1001000190357": 0,
+      "gas:candidate-vibid:1001000112219": 0,
+      "gas:candidate-vibid:1001000121857": 2,
+      "gas:candidate-vibid:245200067363": 2,
+      "gas:candidate-vibid:1001000195086": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066777&region=0&sub_region=0&type=429",
@@ -8763,14 +8763,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 33,
-      "Безбородов Николай Максимович": 69,
-      "Веревкин Валерий Иванович": 8,
-      "Иванов Алексей Иванович": 6,
-      "Кислицын Василий Александрович": 17,
-      "Усманов Владимир Викторович": 14,
-      "Широков Игорь Юрьевич": 2,
-      "Против всех": 25
+      "gas:candidate-vibid:1001000136067": 33,
+      "gas:candidate-vibid:245200067211": 69,
+      "gas:candidate-vibid:1001000190357": 8,
+      "gas:candidate-vibid:1001000112219": 6,
+      "gas:candidate-vibid:1001000121857": 17,
+      "gas:candidate-vibid:245200067363": 14,
+      "gas:candidate-vibid:1001000195086": 2,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066777&region=0&sub_region=0&type=429",
@@ -8820,14 +8820,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 6,
-      "Безбородов Николай Максимович": 14,
-      "Веревкин Валерий Иванович": 1,
-      "Иванов Алексей Иванович": 2,
-      "Кислицын Василий Александрович": 2,
-      "Усманов Владимир Викторович": 5,
-      "Широков Игорь Юрьевич": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000136067": 6,
+      "gas:candidate-vibid:245200067211": 14,
+      "gas:candidate-vibid:1001000190357": 1,
+      "gas:candidate-vibid:1001000112219": 2,
+      "gas:candidate-vibid:1001000121857": 2,
+      "gas:candidate-vibid:245200067363": 5,
+      "gas:candidate-vibid:1001000195086": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066777&region=0&sub_region=0&type=429",
@@ -8877,14 +8877,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 25,
-      "Безбородов Николай Максимович": 93,
-      "Веревкин Валерий Иванович": 12,
-      "Иванов Алексей Иванович": 9,
-      "Кислицын Василий Александрович": 32,
-      "Усманов Владимир Викторович": 26,
-      "Широков Игорь Юрьевич": 0,
-      "Против всех": 44
+      "gas:candidate-vibid:1001000136067": 25,
+      "gas:candidate-vibid:245200067211": 93,
+      "gas:candidate-vibid:1001000190357": 12,
+      "gas:candidate-vibid:1001000112219": 9,
+      "gas:candidate-vibid:1001000121857": 32,
+      "gas:candidate-vibid:245200067363": 26,
+      "gas:candidate-vibid:1001000195086": 0,
+      "special:against-all": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066777&region=0&sub_region=0&type=429",
@@ -8934,14 +8934,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 0,
-      "Безбородов Николай Максимович": 18,
-      "Веревкин Валерий Иванович": 2,
-      "Иванов Алексей Иванович": 1,
-      "Кислицын Василий Александрович": 5,
-      "Усманов Владимир Викторович": 0,
-      "Широков Игорь Юрьевич": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000136067": 0,
+      "gas:candidate-vibid:245200067211": 18,
+      "gas:candidate-vibid:1001000190357": 2,
+      "gas:candidate-vibid:1001000112219": 1,
+      "gas:candidate-vibid:1001000121857": 5,
+      "gas:candidate-vibid:245200067363": 0,
+      "gas:candidate-vibid:1001000195086": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066777&region=0&sub_region=0&type=429",
@@ -8991,14 +8991,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 48,
-      "Безбородов Николай Максимович": 102,
-      "Веревкин Валерий Иванович": 4,
-      "Иванов Алексей Иванович": 10,
-      "Кислицын Василий Александрович": 42,
-      "Усманов Владимир Викторович": 32,
-      "Широков Игорь Юрьевич": 2,
-      "Против всех": 37
+      "gas:candidate-vibid:1001000136067": 48,
+      "gas:candidate-vibid:245200067211": 102,
+      "gas:candidate-vibid:1001000190357": 4,
+      "gas:candidate-vibid:1001000112219": 10,
+      "gas:candidate-vibid:1001000121857": 42,
+      "gas:candidate-vibid:245200067363": 32,
+      "gas:candidate-vibid:1001000195086": 2,
+      "special:against-all": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066777&region=0&sub_region=0&type=429",
@@ -9048,14 +9048,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 36,
-      "Безбородов Николай Максимович": 77,
-      "Веревкин Валерий Иванович": 12,
-      "Иванов Алексей Иванович": 5,
-      "Кислицын Василий Александрович": 57,
-      "Усманов Владимир Викторович": 10,
-      "Широков Игорь Юрьевич": 6,
-      "Против всех": 37
+      "gas:candidate-vibid:1001000136067": 36,
+      "gas:candidate-vibid:245200067211": 77,
+      "gas:candidate-vibid:1001000190357": 12,
+      "gas:candidate-vibid:1001000112219": 5,
+      "gas:candidate-vibid:1001000121857": 57,
+      "gas:candidate-vibid:245200067363": 10,
+      "gas:candidate-vibid:1001000195086": 6,
+      "special:against-all": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066777&region=0&sub_region=0&type=429",
@@ -9105,14 +9105,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 6,
-      "Безбородов Николай Максимович": 29,
-      "Веревкин Валерий Иванович": 1,
-      "Иванов Алексей Иванович": 1,
-      "Кислицын Василий Александрович": 5,
-      "Усманов Владимир Викторович": 1,
-      "Широков Игорь Юрьевич": 0,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000136067": 6,
+      "gas:candidate-vibid:245200067211": 29,
+      "gas:candidate-vibid:1001000190357": 1,
+      "gas:candidate-vibid:1001000112219": 1,
+      "gas:candidate-vibid:1001000121857": 5,
+      "gas:candidate-vibid:245200067363": 1,
+      "gas:candidate-vibid:1001000195086": 0,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066777&region=0&sub_region=0&type=429",
@@ -9162,14 +9162,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 6,
-      "Безбородов Николай Максимович": 29,
-      "Веревкин Валерий Иванович": 5,
-      "Иванов Алексей Иванович": 0,
-      "Кислицын Василий Александрович": 5,
-      "Усманов Владимир Викторович": 6,
-      "Широков Игорь Юрьевич": 0,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000136067": 6,
+      "gas:candidate-vibid:245200067211": 29,
+      "gas:candidate-vibid:1001000190357": 5,
+      "gas:candidate-vibid:1001000112219": 0,
+      "gas:candidate-vibid:1001000121857": 5,
+      "gas:candidate-vibid:245200067363": 6,
+      "gas:candidate-vibid:1001000195086": 0,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066778&region=0&sub_region=0&type=429",
@@ -9219,14 +9219,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 19,
-      "Безбородов Николай Максимович": 39,
-      "Веревкин Валерий Иванович": 4,
-      "Иванов Алексей Иванович": 7,
-      "Кислицын Василий Александрович": 8,
-      "Усманов Владимир Викторович": 7,
-      "Широков Игорь Юрьевич": 2,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000136067": 19,
+      "gas:candidate-vibid:245200067211": 39,
+      "gas:candidate-vibid:1001000190357": 4,
+      "gas:candidate-vibid:1001000112219": 7,
+      "gas:candidate-vibid:1001000121857": 8,
+      "gas:candidate-vibid:245200067363": 7,
+      "gas:candidate-vibid:1001000195086": 2,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066778&region=0&sub_region=0&type=429",
@@ -9276,14 +9276,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 10,
-      "Безбородов Николай Максимович": 21,
-      "Веревкин Валерий Иванович": 3,
-      "Иванов Алексей Иванович": 4,
-      "Кислицын Василий Александрович": 14,
-      "Усманов Владимир Викторович": 0,
-      "Широков Игорь Юрьевич": 3,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000136067": 10,
+      "gas:candidate-vibid:245200067211": 21,
+      "gas:candidate-vibid:1001000190357": 3,
+      "gas:candidate-vibid:1001000112219": 4,
+      "gas:candidate-vibid:1001000121857": 14,
+      "gas:candidate-vibid:245200067363": 0,
+      "gas:candidate-vibid:1001000195086": 3,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066778&region=0&sub_region=0&type=429",
@@ -9333,14 +9333,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 22,
-      "Безбородов Николай Максимович": 158,
-      "Веревкин Валерий Иванович": 7,
-      "Иванов Алексей Иванович": 11,
-      "Кислицын Василий Александрович": 36,
-      "Усманов Владимир Викторович": 15,
-      "Широков Игорь Юрьевич": 3,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000136067": 22,
+      "gas:candidate-vibid:245200067211": 158,
+      "gas:candidate-vibid:1001000190357": 7,
+      "gas:candidate-vibid:1001000112219": 11,
+      "gas:candidate-vibid:1001000121857": 36,
+      "gas:candidate-vibid:245200067363": 15,
+      "gas:candidate-vibid:1001000195086": 3,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066778&region=0&sub_region=0&type=429",
@@ -9390,14 +9390,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 52,
-      "Безбородов Николай Максимович": 118,
-      "Веревкин Валерий Иванович": 17,
-      "Иванов Алексей Иванович": 3,
-      "Кислицын Василий Александрович": 33,
-      "Усманов Владимир Викторович": 67,
-      "Широков Игорь Юрьевич": 0,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000136067": 52,
+      "gas:candidate-vibid:245200067211": 118,
+      "gas:candidate-vibid:1001000190357": 17,
+      "gas:candidate-vibid:1001000112219": 3,
+      "gas:candidate-vibid:1001000121857": 33,
+      "gas:candidate-vibid:245200067363": 67,
+      "gas:candidate-vibid:1001000195086": 0,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066778&region=0&sub_region=0&type=429",
@@ -9447,14 +9447,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 36,
-      "Безбородов Николай Максимович": 91,
-      "Веревкин Валерий Иванович": 20,
-      "Иванов Алексей Иванович": 16,
-      "Кислицын Василий Александрович": 32,
-      "Усманов Владимир Викторович": 40,
-      "Широков Игорь Юрьевич": 3,
-      "Против всех": 25
+      "gas:candidate-vibid:1001000136067": 36,
+      "gas:candidate-vibid:245200067211": 91,
+      "gas:candidate-vibid:1001000190357": 20,
+      "gas:candidate-vibid:1001000112219": 16,
+      "gas:candidate-vibid:1001000121857": 32,
+      "gas:candidate-vibid:245200067363": 40,
+      "gas:candidate-vibid:1001000195086": 3,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066778&region=0&sub_region=0&type=429",
@@ -9504,14 +9504,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 78,
-      "Безбородов Николай Максимович": 112,
-      "Веревкин Валерий Иванович": 58,
-      "Иванов Алексей Иванович": 18,
-      "Кислицын Василий Александрович": 88,
-      "Усманов Владимир Викторович": 60,
-      "Широков Игорь Юрьевич": 10,
-      "Против всех": 75
+      "gas:candidate-vibid:1001000136067": 78,
+      "gas:candidate-vibid:245200067211": 112,
+      "gas:candidate-vibid:1001000190357": 58,
+      "gas:candidate-vibid:1001000112219": 18,
+      "gas:candidate-vibid:1001000121857": 88,
+      "gas:candidate-vibid:245200067363": 60,
+      "gas:candidate-vibid:1001000195086": 10,
+      "special:against-all": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066778&region=0&sub_region=0&type=429",
@@ -9561,14 +9561,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 73,
-      "Безбородов Николай Максимович": 86,
-      "Веревкин Валерий Иванович": 18,
-      "Иванов Алексей Иванович": 12,
-      "Кислицын Василий Александрович": 45,
-      "Усманов Владимир Викторович": 40,
-      "Широков Игорь Юрьевич": 4,
-      "Против всех": 99
+      "gas:candidate-vibid:1001000136067": 73,
+      "gas:candidate-vibid:245200067211": 86,
+      "gas:candidate-vibid:1001000190357": 18,
+      "gas:candidate-vibid:1001000112219": 12,
+      "gas:candidate-vibid:1001000121857": 45,
+      "gas:candidate-vibid:245200067363": 40,
+      "gas:candidate-vibid:1001000195086": 4,
+      "special:against-all": 99
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066778&region=0&sub_region=0&type=429",
@@ -9618,14 +9618,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 63,
-      "Безбородов Николай Максимович": 113,
-      "Веревкин Валерий Иванович": 32,
-      "Иванов Алексей Иванович": 15,
-      "Кислицын Василий Александрович": 43,
-      "Усманов Владимир Викторович": 37,
-      "Широков Игорь Юрьевич": 0,
-      "Против всех": 49
+      "gas:candidate-vibid:1001000136067": 63,
+      "gas:candidate-vibid:245200067211": 113,
+      "gas:candidate-vibid:1001000190357": 32,
+      "gas:candidate-vibid:1001000112219": 15,
+      "gas:candidate-vibid:1001000121857": 43,
+      "gas:candidate-vibid:245200067363": 37,
+      "gas:candidate-vibid:1001000195086": 0,
+      "special:against-all": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066778&region=0&sub_region=0&type=429",
@@ -9675,14 +9675,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 55,
-      "Безбородов Николай Максимович": 91,
-      "Веревкин Валерий Иванович": 23,
-      "Иванов Алексей Иванович": 17,
-      "Кислицын Василий Александрович": 67,
-      "Усманов Владимир Викторович": 58,
-      "Широков Игорь Юрьевич": 5,
-      "Против всех": 60
+      "gas:candidate-vibid:1001000136067": 55,
+      "gas:candidate-vibid:245200067211": 91,
+      "gas:candidate-vibid:1001000190357": 23,
+      "gas:candidate-vibid:1001000112219": 17,
+      "gas:candidate-vibid:1001000121857": 67,
+      "gas:candidate-vibid:245200067363": 58,
+      "gas:candidate-vibid:1001000195086": 5,
+      "special:against-all": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066778&region=0&sub_region=0&type=429",
@@ -9732,14 +9732,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 42,
-      "Безбородов Николай Максимович": 62,
-      "Веревкин Валерий Иванович": 17,
-      "Иванов Алексей Иванович": 14,
-      "Кислицын Василий Александрович": 16,
-      "Усманов Владимир Викторович": 34,
-      "Широков Игорь Юрьевич": 0,
-      "Против всех": 54
+      "gas:candidate-vibid:1001000136067": 42,
+      "gas:candidate-vibid:245200067211": 62,
+      "gas:candidate-vibid:1001000190357": 17,
+      "gas:candidate-vibid:1001000112219": 14,
+      "gas:candidate-vibid:1001000121857": 16,
+      "gas:candidate-vibid:245200067363": 34,
+      "gas:candidate-vibid:1001000195086": 0,
+      "special:against-all": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066778&region=0&sub_region=0&type=429",
@@ -9789,14 +9789,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 62,
-      "Безбородов Николай Максимович": 109,
-      "Веревкин Валерий Иванович": 29,
-      "Иванов Алексей Иванович": 13,
-      "Кислицын Василий Александрович": 55,
-      "Усманов Владимир Викторович": 58,
-      "Широков Игорь Юрьевич": 7,
-      "Против всех": 54
+      "gas:candidate-vibid:1001000136067": 62,
+      "gas:candidate-vibid:245200067211": 109,
+      "gas:candidate-vibid:1001000190357": 29,
+      "gas:candidate-vibid:1001000112219": 13,
+      "gas:candidate-vibid:1001000121857": 55,
+      "gas:candidate-vibid:245200067363": 58,
+      "gas:candidate-vibid:1001000195086": 7,
+      "special:against-all": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066778&region=0&sub_region=0&type=429",
@@ -9846,14 +9846,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 81,
-      "Безбородов Николай Максимович": 102,
-      "Веревкин Валерий Иванович": 20,
-      "Иванов Алексей Иванович": 21,
-      "Кислицын Василий Александрович": 69,
-      "Усманов Владимир Викторович": 38,
-      "Широков Игорь Юрьевич": 3,
-      "Против всех": 77
+      "gas:candidate-vibid:1001000136067": 81,
+      "gas:candidate-vibid:245200067211": 102,
+      "gas:candidate-vibid:1001000190357": 20,
+      "gas:candidate-vibid:1001000112219": 21,
+      "gas:candidate-vibid:1001000121857": 69,
+      "gas:candidate-vibid:245200067363": 38,
+      "gas:candidate-vibid:1001000195086": 3,
+      "special:against-all": 77
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066778&region=0&sub_region=0&type=429",
@@ -9903,14 +9903,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 28,
-      "Безбородов Николай Максимович": 116,
-      "Веревкин Валерий Иванович": 47,
-      "Иванов Алексей Иванович": 4,
-      "Кислицын Василий Александрович": 35,
-      "Усманов Владимир Викторович": 26,
-      "Широков Игорь Юрьевич": 1,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000136067": 28,
+      "gas:candidate-vibid:245200067211": 116,
+      "gas:candidate-vibid:1001000190357": 47,
+      "gas:candidate-vibid:1001000112219": 4,
+      "gas:candidate-vibid:1001000121857": 35,
+      "gas:candidate-vibid:245200067363": 26,
+      "gas:candidate-vibid:1001000195086": 1,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066778&region=0&sub_region=0&type=429",
@@ -9960,14 +9960,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 30,
-      "Безбородов Николай Максимович": 144,
-      "Веревкин Валерий Иванович": 16,
-      "Иванов Алексей Иванович": 6,
-      "Кислицын Василий Александрович": 21,
-      "Усманов Владимир Викторович": 17,
-      "Широков Игорь Юрьевич": 1,
-      "Против всех": 61
+      "gas:candidate-vibid:1001000136067": 30,
+      "gas:candidate-vibid:245200067211": 144,
+      "gas:candidate-vibid:1001000190357": 16,
+      "gas:candidate-vibid:1001000112219": 6,
+      "gas:candidate-vibid:1001000121857": 21,
+      "gas:candidate-vibid:245200067363": 17,
+      "gas:candidate-vibid:1001000195086": 1,
+      "special:against-all": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066778&region=0&sub_region=0&type=429",
@@ -10017,14 +10017,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 32,
-      "Безбородов Николай Максимович": 52,
-      "Веревкин Валерий Иванович": 4,
-      "Иванов Алексей Иванович": 0,
-      "Кислицын Василий Александрович": 12,
-      "Усманов Владимир Викторович": 11,
-      "Широков Игорь Юрьевич": 2,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000136067": 32,
+      "gas:candidate-vibid:245200067211": 52,
+      "gas:candidate-vibid:1001000190357": 4,
+      "gas:candidate-vibid:1001000112219": 0,
+      "gas:candidate-vibid:1001000121857": 12,
+      "gas:candidate-vibid:245200067363": 11,
+      "gas:candidate-vibid:1001000195086": 2,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066778&region=0&sub_region=0&type=429",
@@ -10074,14 +10074,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 38,
-      "Безбородов Николай Максимович": 138,
-      "Веревкин Валерий Иванович": 10,
-      "Иванов Алексей Иванович": 11,
-      "Кислицын Василий Александрович": 79,
-      "Усманов Владимир Викторович": 28,
-      "Широков Игорь Юрьевич": 4,
-      "Против всех": 63
+      "gas:candidate-vibid:1001000136067": 38,
+      "gas:candidate-vibid:245200067211": 138,
+      "gas:candidate-vibid:1001000190357": 10,
+      "gas:candidate-vibid:1001000112219": 11,
+      "gas:candidate-vibid:1001000121857": 79,
+      "gas:candidate-vibid:245200067363": 28,
+      "gas:candidate-vibid:1001000195086": 4,
+      "special:against-all": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066778&region=0&sub_region=0&type=429",
@@ -10131,14 +10131,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 40,
-      "Безбородов Николай Максимович": 92,
-      "Веревкин Валерий Иванович": 5,
-      "Иванов Алексей Иванович": 10,
-      "Кислицын Василий Александрович": 10,
-      "Усманов Владимир Викторович": 8,
-      "Широков Игорь Юрьевич": 1,
-      "Против всех": 24
+      "gas:candidate-vibid:1001000136067": 40,
+      "gas:candidate-vibid:245200067211": 92,
+      "gas:candidate-vibid:1001000190357": 5,
+      "gas:candidate-vibid:1001000112219": 10,
+      "gas:candidate-vibid:1001000121857": 10,
+      "gas:candidate-vibid:245200067363": 8,
+      "gas:candidate-vibid:1001000195086": 1,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066778&region=0&sub_region=0&type=429",
@@ -10188,14 +10188,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 27,
-      "Безбородов Николай Максимович": 104,
-      "Веревкин Валерий Иванович": 16,
-      "Иванов Алексей Иванович": 5,
-      "Кислицын Василий Александрович": 14,
-      "Усманов Владимир Викторович": 18,
-      "Широков Игорь Юрьевич": 3,
-      "Против всех": 34
+      "gas:candidate-vibid:1001000136067": 27,
+      "gas:candidate-vibid:245200067211": 104,
+      "gas:candidate-vibid:1001000190357": 16,
+      "gas:candidate-vibid:1001000112219": 5,
+      "gas:candidate-vibid:1001000121857": 14,
+      "gas:candidate-vibid:245200067363": 18,
+      "gas:candidate-vibid:1001000195086": 3,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066778&region=0&sub_region=0&type=429",
@@ -10245,14 +10245,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 82,
-      "Безбородов Николай Максимович": 93,
-      "Веревкин Валерий Иванович": 26,
-      "Иванов Алексей Иванович": 14,
-      "Кислицын Василий Александрович": 51,
-      "Усманов Владимир Викторович": 27,
-      "Широков Игорь Юрьевич": 5,
-      "Против всех": 109
+      "gas:candidate-vibid:1001000136067": 82,
+      "gas:candidate-vibid:245200067211": 93,
+      "gas:candidate-vibid:1001000190357": 26,
+      "gas:candidate-vibid:1001000112219": 14,
+      "gas:candidate-vibid:1001000121857": 51,
+      "gas:candidate-vibid:245200067363": 27,
+      "gas:candidate-vibid:1001000195086": 5,
+      "special:against-all": 109
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066778&region=0&sub_region=0&type=429",
@@ -10302,14 +10302,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 10,
-      "Безбородов Николай Максимович": 14,
-      "Веревкин Валерий Иванович": 9,
-      "Иванов Алексей Иванович": 4,
-      "Кислицын Василий Александрович": 1,
-      "Усманов Владимир Викторович": 4,
-      "Широков Игорь Юрьевич": 0,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000136067": 10,
+      "gas:candidate-vibid:245200067211": 14,
+      "gas:candidate-vibid:1001000190357": 9,
+      "gas:candidate-vibid:1001000112219": 4,
+      "gas:candidate-vibid:1001000121857": 1,
+      "gas:candidate-vibid:245200067363": 4,
+      "gas:candidate-vibid:1001000195086": 0,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066778&region=0&sub_region=0&type=429",
@@ -10359,14 +10359,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 26,
-      "Безбородов Николай Максимович": 87,
-      "Веревкин Валерий Иванович": 7,
-      "Иванов Алексей Иванович": 11,
-      "Кислицын Василий Александрович": 44,
-      "Усманов Владимир Викторович": 8,
-      "Широков Игорь Юрьевич": 1,
-      "Против всех": 40
+      "gas:candidate-vibid:1001000136067": 26,
+      "gas:candidate-vibid:245200067211": 87,
+      "gas:candidate-vibid:1001000190357": 7,
+      "gas:candidate-vibid:1001000112219": 11,
+      "gas:candidate-vibid:1001000121857": 44,
+      "gas:candidate-vibid:245200067363": 8,
+      "gas:candidate-vibid:1001000195086": 1,
+      "special:against-all": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066778&region=0&sub_region=0&type=429",
@@ -10416,14 +10416,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 7,
-      "Безбородов Николай Максимович": 15,
-      "Веревкин Валерий Иванович": 20,
-      "Иванов Алексей Иванович": 8,
-      "Кислицын Василий Александрович": 8,
-      "Усманов Владимир Викторович": 8,
-      "Широков Игорь Юрьевич": 1,
-      "Против всех": 25
+      "gas:candidate-vibid:1001000136067": 7,
+      "gas:candidate-vibid:245200067211": 15,
+      "gas:candidate-vibid:1001000190357": 20,
+      "gas:candidate-vibid:1001000112219": 8,
+      "gas:candidate-vibid:1001000121857": 8,
+      "gas:candidate-vibid:245200067363": 8,
+      "gas:candidate-vibid:1001000195086": 1,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066778&region=0&sub_region=0&type=429",
@@ -10473,14 +10473,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 11,
-      "Безбородов Николай Максимович": 88,
-      "Веревкин Валерий Иванович": 1,
-      "Иванов Алексей Иванович": 2,
-      "Кислицын Василий Александрович": 57,
-      "Усманов Владимир Викторович": 9,
-      "Широков Игорь Юрьевич": 2,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000136067": 11,
+      "gas:candidate-vibid:245200067211": 88,
+      "gas:candidate-vibid:1001000190357": 1,
+      "gas:candidate-vibid:1001000112219": 2,
+      "gas:candidate-vibid:1001000121857": 57,
+      "gas:candidate-vibid:245200067363": 9,
+      "gas:candidate-vibid:1001000195086": 2,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066778&region=0&sub_region=0&type=429",
@@ -10530,14 +10530,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 1,
-      "Безбородов Николай Максимович": 5,
-      "Веревкин Валерий Иванович": 3,
-      "Иванов Алексей Иванович": 4,
-      "Кислицын Василий Александрович": 6,
-      "Усманов Владимир Викторович": 14,
-      "Широков Игорь Юрьевич": 0,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000136067": 1,
+      "gas:candidate-vibid:245200067211": 5,
+      "gas:candidate-vibid:1001000190357": 3,
+      "gas:candidate-vibid:1001000112219": 4,
+      "gas:candidate-vibid:1001000121857": 6,
+      "gas:candidate-vibid:245200067363": 14,
+      "gas:candidate-vibid:1001000195086": 0,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066778&region=0&sub_region=0&type=429",
@@ -10587,14 +10587,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 72,
-      "Безбородов Николай Максимович": 150,
-      "Веревкин Валерий Иванович": 8,
-      "Иванов Алексей Иванович": 26,
-      "Кислицын Василий Александрович": 55,
-      "Усманов Владимир Викторович": 28,
-      "Широков Игорь Юрьевич": 2,
-      "Против всех": 54
+      "gas:candidate-vibid:1001000136067": 72,
+      "gas:candidate-vibid:245200067211": 150,
+      "gas:candidate-vibid:1001000190357": 8,
+      "gas:candidate-vibid:1001000112219": 26,
+      "gas:candidate-vibid:1001000121857": 55,
+      "gas:candidate-vibid:245200067363": 28,
+      "gas:candidate-vibid:1001000195086": 2,
+      "special:against-all": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066778&region=0&sub_region=0&type=429",
@@ -10644,14 +10644,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 9,
-      "Безбородов Николай Максимович": 65,
-      "Веревкин Валерий Иванович": 19,
-      "Иванов Алексей Иванович": 3,
-      "Кислицын Василий Александрович": 18,
-      "Усманов Владимир Викторович": 5,
-      "Широков Игорь Юрьевич": 6,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000136067": 9,
+      "gas:candidate-vibid:245200067211": 65,
+      "gas:candidate-vibid:1001000190357": 19,
+      "gas:candidate-vibid:1001000112219": 3,
+      "gas:candidate-vibid:1001000121857": 18,
+      "gas:candidate-vibid:245200067363": 5,
+      "gas:candidate-vibid:1001000195086": 6,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066778&region=0&sub_region=0&type=429",
@@ -10701,14 +10701,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 17,
-      "Безбородов Николай Максимович": 27,
-      "Веревкин Валерий Иванович": 4,
-      "Иванов Алексей Иванович": 0,
-      "Кислицын Василий Александрович": 9,
-      "Усманов Владимир Викторович": 6,
-      "Широков Игорь Юрьевич": 3,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000136067": 17,
+      "gas:candidate-vibid:245200067211": 27,
+      "gas:candidate-vibid:1001000190357": 4,
+      "gas:candidate-vibid:1001000112219": 0,
+      "gas:candidate-vibid:1001000121857": 9,
+      "gas:candidate-vibid:245200067363": 6,
+      "gas:candidate-vibid:1001000195086": 3,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066778&region=0&sub_region=0&type=429",
@@ -10758,14 +10758,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 24,
-      "Безбородов Николай Максимович": 70,
-      "Веревкин Валерий Иванович": 5,
-      "Иванов Алексей Иванович": 4,
-      "Кислицын Василий Александрович": 30,
-      "Усманов Владимир Викторович": 13,
-      "Широков Игорь Юрьевич": 3,
-      "Против всех": 24
+      "gas:candidate-vibid:1001000136067": 24,
+      "gas:candidate-vibid:245200067211": 70,
+      "gas:candidate-vibid:1001000190357": 5,
+      "gas:candidate-vibid:1001000112219": 4,
+      "gas:candidate-vibid:1001000121857": 30,
+      "gas:candidate-vibid:245200067363": 13,
+      "gas:candidate-vibid:1001000195086": 3,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066778&region=0&sub_region=0&type=429",
@@ -10815,14 +10815,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 131,
-      "Безбородов Николай Максимович": 75,
-      "Веревкин Валерий Иванович": 27,
-      "Иванов Алексей Иванович": 16,
-      "Кислицын Василий Александрович": 178,
-      "Усманов Владимир Викторович": 32,
-      "Широков Игорь Юрьевич": 3,
-      "Против всех": 37
+      "gas:candidate-vibid:1001000136067": 131,
+      "gas:candidate-vibid:245200067211": 75,
+      "gas:candidate-vibid:1001000190357": 27,
+      "gas:candidate-vibid:1001000112219": 16,
+      "gas:candidate-vibid:1001000121857": 178,
+      "gas:candidate-vibid:245200067363": 32,
+      "gas:candidate-vibid:1001000195086": 3,
+      "special:against-all": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066778&region=0&sub_region=0&type=429",
@@ -10872,14 +10872,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 19,
-      "Безбородов Николай Максимович": 64,
-      "Веревкин Валерий Иванович": 14,
-      "Иванов Алексей Иванович": 8,
-      "Кислицын Василий Александрович": 23,
-      "Усманов Владимир Викторович": 42,
-      "Широков Игорь Юрьевич": 2,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000136067": 19,
+      "gas:candidate-vibid:245200067211": 64,
+      "gas:candidate-vibid:1001000190357": 14,
+      "gas:candidate-vibid:1001000112219": 8,
+      "gas:candidate-vibid:1001000121857": 23,
+      "gas:candidate-vibid:245200067363": 42,
+      "gas:candidate-vibid:1001000195086": 2,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066778&region=0&sub_region=0&type=429",
@@ -10929,14 +10929,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 11,
-      "Безбородов Николай Максимович": 15,
-      "Веревкин Валерий Иванович": 2,
-      "Иванов Алексей Иванович": 2,
-      "Кислицын Василий Александрович": 20,
-      "Усманов Владимир Викторович": 9,
-      "Широков Игорь Юрьевич": 1,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000136067": 11,
+      "gas:candidate-vibid:245200067211": 15,
+      "gas:candidate-vibid:1001000190357": 2,
+      "gas:candidate-vibid:1001000112219": 2,
+      "gas:candidate-vibid:1001000121857": 20,
+      "gas:candidate-vibid:245200067363": 9,
+      "gas:candidate-vibid:1001000195086": 1,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066778&region=0&sub_region=0&type=429",
@@ -10986,14 +10986,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 13,
-      "Безбородов Николай Максимович": 53,
-      "Веревкин Валерий Иванович": 11,
-      "Иванов Алексей Иванович": 6,
-      "Кислицын Василий Александрович": 56,
-      "Усманов Владимир Викторович": 9,
-      "Широков Игорь Юрьевич": 1,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000136067": 13,
+      "gas:candidate-vibid:245200067211": 53,
+      "gas:candidate-vibid:1001000190357": 11,
+      "gas:candidate-vibid:1001000112219": 6,
+      "gas:candidate-vibid:1001000121857": 56,
+      "gas:candidate-vibid:245200067363": 9,
+      "gas:candidate-vibid:1001000195086": 1,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066778&region=0&sub_region=0&type=429",
@@ -11043,14 +11043,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 37,
-      "Безбородов Николай Максимович": 92,
-      "Веревкин Валерий Иванович": 10,
-      "Иванов Алексей Иванович": 18,
-      "Кислицын Василий Александрович": 17,
-      "Усманов Владимир Викторович": 36,
-      "Широков Игорь Юрьевич": 2,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000136067": 37,
+      "gas:candidate-vibid:245200067211": 92,
+      "gas:candidate-vibid:1001000190357": 10,
+      "gas:candidate-vibid:1001000112219": 18,
+      "gas:candidate-vibid:1001000121857": 17,
+      "gas:candidate-vibid:245200067363": 36,
+      "gas:candidate-vibid:1001000195086": 2,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066778&region=0&sub_region=0&type=429",
@@ -11100,14 +11100,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 50,
-      "Безбородов Николай Максимович": 121,
-      "Веревкин Валерий Иванович": 2,
-      "Иванов Алексей Иванович": 5,
-      "Кислицын Василий Александрович": 6,
-      "Усманов Владимир Викторович": 11,
-      "Широков Игорь Юрьевич": 4,
-      "Против всех": 29
+      "gas:candidate-vibid:1001000136067": 50,
+      "gas:candidate-vibid:245200067211": 121,
+      "gas:candidate-vibid:1001000190357": 2,
+      "gas:candidate-vibid:1001000112219": 5,
+      "gas:candidate-vibid:1001000121857": 6,
+      "gas:candidate-vibid:245200067363": 11,
+      "gas:candidate-vibid:1001000195086": 4,
+      "special:against-all": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066778&region=0&sub_region=0&type=429",
@@ -11157,14 +11157,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 14,
-      "Безбородов Николай Максимович": 6,
-      "Веревкин Валерий Иванович": 2,
-      "Иванов Алексей Иванович": 0,
-      "Кислицын Василий Александрович": 2,
-      "Усманов Владимир Викторович": 2,
-      "Широков Игорь Юрьевич": 1,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000136067": 14,
+      "gas:candidate-vibid:245200067211": 6,
+      "gas:candidate-vibid:1001000190357": 2,
+      "gas:candidate-vibid:1001000112219": 0,
+      "gas:candidate-vibid:1001000121857": 2,
+      "gas:candidate-vibid:245200067363": 2,
+      "gas:candidate-vibid:1001000195086": 1,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066778&region=0&sub_region=0&type=429",
@@ -11214,14 +11214,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 27,
-      "Безбородов Николай Максимович": 87,
-      "Веревкин Валерий Иванович": 18,
-      "Иванов Алексей Иванович": 9,
-      "Кислицын Василий Александрович": 16,
-      "Усманов Владимир Викторович": 27,
-      "Широков Игорь Юрьевич": 5,
-      "Против всех": 38
+      "gas:candidate-vibid:1001000136067": 27,
+      "gas:candidate-vibid:245200067211": 87,
+      "gas:candidate-vibid:1001000190357": 18,
+      "gas:candidate-vibid:1001000112219": 9,
+      "gas:candidate-vibid:1001000121857": 16,
+      "gas:candidate-vibid:245200067363": 27,
+      "gas:candidate-vibid:1001000195086": 5,
+      "special:against-all": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066778&region=0&sub_region=0&type=429",
@@ -11271,14 +11271,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 22,
-      "Безбородов Николай Максимович": 58,
-      "Веревкин Валерий Иванович": 4,
-      "Иванов Алексей Иванович": 5,
-      "Кислицын Василий Александрович": 5,
-      "Усманов Владимир Викторович": 17,
-      "Широков Игорь Юрьевич": 1,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000136067": 22,
+      "gas:candidate-vibid:245200067211": 58,
+      "gas:candidate-vibid:1001000190357": 4,
+      "gas:candidate-vibid:1001000112219": 5,
+      "gas:candidate-vibid:1001000121857": 5,
+      "gas:candidate-vibid:245200067363": 17,
+      "gas:candidate-vibid:1001000195086": 1,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066778&region=0&sub_region=0&type=429",
@@ -11328,14 +11328,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 41,
-      "Безбородов Николай Максимович": 75,
-      "Веревкин Валерий Иванович": 7,
-      "Иванов Алексей Иванович": 8,
-      "Кислицын Василий Александрович": 34,
-      "Усманов Владимир Викторович": 13,
-      "Широков Игорь Юрьевич": 0,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000136067": 41,
+      "gas:candidate-vibid:245200067211": 75,
+      "gas:candidate-vibid:1001000190357": 7,
+      "gas:candidate-vibid:1001000112219": 8,
+      "gas:candidate-vibid:1001000121857": 34,
+      "gas:candidate-vibid:245200067363": 13,
+      "gas:candidate-vibid:1001000195086": 0,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066778&region=0&sub_region=0&type=429",
@@ -11385,14 +11385,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 9,
-      "Безбородов Николай Максимович": 20,
-      "Веревкин Валерий Иванович": 13,
-      "Иванов Алексей Иванович": 5,
-      "Кислицын Василий Александрович": 5,
-      "Усманов Владимир Викторович": 19,
-      "Широков Игорь Юрьевич": 1,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000136067": 9,
+      "gas:candidate-vibid:245200067211": 20,
+      "gas:candidate-vibid:1001000190357": 13,
+      "gas:candidate-vibid:1001000112219": 5,
+      "gas:candidate-vibid:1001000121857": 5,
+      "gas:candidate-vibid:245200067363": 19,
+      "gas:candidate-vibid:1001000195086": 1,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066778&region=0&sub_region=0&type=429",
@@ -11442,14 +11442,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 24,
-      "Безбородов Николай Максимович": 14,
-      "Веревкин Валерий Иванович": 3,
-      "Иванов Алексей Иванович": 1,
-      "Кислицын Василий Александрович": 4,
-      "Усманов Владимир Викторович": 7,
-      "Широков Игорь Юрьевич": 0,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000136067": 24,
+      "gas:candidate-vibid:245200067211": 14,
+      "gas:candidate-vibid:1001000190357": 3,
+      "gas:candidate-vibid:1001000112219": 1,
+      "gas:candidate-vibid:1001000121857": 4,
+      "gas:candidate-vibid:245200067363": 7,
+      "gas:candidate-vibid:1001000195086": 0,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066778&region=0&sub_region=0&type=429",
@@ -11499,14 +11499,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 43,
-      "Безбородов Николай Максимович": 89,
-      "Веревкин Валерий Иванович": 13,
-      "Иванов Алексей Иванович": 14,
-      "Кислицын Василий Александрович": 17,
-      "Усманов Владимир Викторович": 45,
-      "Широков Игорь Юрьевич": 2,
-      "Против всех": 29
+      "gas:candidate-vibid:1001000136067": 43,
+      "gas:candidate-vibid:245200067211": 89,
+      "gas:candidate-vibid:1001000190357": 13,
+      "gas:candidate-vibid:1001000112219": 14,
+      "gas:candidate-vibid:1001000121857": 17,
+      "gas:candidate-vibid:245200067363": 45,
+      "gas:candidate-vibid:1001000195086": 2,
+      "special:against-all": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066778&region=0&sub_region=0&type=429",
@@ -11556,14 +11556,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 19,
-      "Безбородов Николай Максимович": 42,
-      "Веревкин Валерий Иванович": 1,
-      "Иванов Алексей Иванович": 6,
-      "Кислицын Василий Александрович": 4,
-      "Усманов Владимир Викторович": 22,
-      "Широков Игорь Юрьевич": 0,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000136067": 19,
+      "gas:candidate-vibid:245200067211": 42,
+      "gas:candidate-vibid:1001000190357": 1,
+      "gas:candidate-vibid:1001000112219": 6,
+      "gas:candidate-vibid:1001000121857": 4,
+      "gas:candidate-vibid:245200067363": 22,
+      "gas:candidate-vibid:1001000195086": 0,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066778&region=0&sub_region=0&type=429",
@@ -11613,14 +11613,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 103,
-      "Безбородов Николай Максимович": 139,
-      "Веревкин Валерий Иванович": 86,
-      "Иванов Алексей Иванович": 37,
-      "Кислицын Василий Александрович": 207,
-      "Усманов Владимир Викторович": 136,
-      "Широков Игорь Юрьевич": 10,
-      "Против всех": 242
+      "gas:candidate-vibid:1001000136067": 103,
+      "gas:candidate-vibid:245200067211": 139,
+      "gas:candidate-vibid:1001000190357": 86,
+      "gas:candidate-vibid:1001000112219": 37,
+      "gas:candidate-vibid:1001000121857": 207,
+      "gas:candidate-vibid:245200067363": 136,
+      "gas:candidate-vibid:1001000195086": 10,
+      "special:against-all": 242
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066779&region=0&sub_region=0&type=429",
@@ -11670,14 +11670,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 124,
-      "Безбородов Николай Максимович": 145,
-      "Веревкин Валерий Иванович": 48,
-      "Иванов Алексей Иванович": 25,
-      "Кислицын Василий Александрович": 263,
-      "Усманов Владимир Викторович": 100,
-      "Широков Игорь Юрьевич": 17,
-      "Против всех": 163
+      "gas:candidate-vibid:1001000136067": 124,
+      "gas:candidate-vibid:245200067211": 145,
+      "gas:candidate-vibid:1001000190357": 48,
+      "gas:candidate-vibid:1001000112219": 25,
+      "gas:candidate-vibid:1001000121857": 263,
+      "gas:candidate-vibid:245200067363": 100,
+      "gas:candidate-vibid:1001000195086": 17,
+      "special:against-all": 163
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066779&region=0&sub_region=0&type=429",
@@ -11727,14 +11727,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 92,
-      "Безбородов Николай Максимович": 56,
-      "Веревкин Валерий Иванович": 44,
-      "Иванов Алексей Иванович": 19,
-      "Кислицын Василий Александрович": 172,
-      "Усманов Владимир Викторович": 57,
-      "Широков Игорь Юрьевич": 9,
-      "Против всех": 116
+      "gas:candidate-vibid:1001000136067": 92,
+      "gas:candidate-vibid:245200067211": 56,
+      "gas:candidate-vibid:1001000190357": 44,
+      "gas:candidate-vibid:1001000112219": 19,
+      "gas:candidate-vibid:1001000121857": 172,
+      "gas:candidate-vibid:245200067363": 57,
+      "gas:candidate-vibid:1001000195086": 9,
+      "special:against-all": 116
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066779&region=0&sub_region=0&type=429",
@@ -11784,14 +11784,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 61,
-      "Безбородов Николай Максимович": 61,
-      "Веревкин Валерий Иванович": 27,
-      "Иванов Алексей Иванович": 15,
-      "Кислицын Василий Александрович": 133,
-      "Усманов Владимир Викторович": 41,
-      "Широков Игорь Юрьевич": 8,
-      "Против всех": 51
+      "gas:candidate-vibid:1001000136067": 61,
+      "gas:candidate-vibid:245200067211": 61,
+      "gas:candidate-vibid:1001000190357": 27,
+      "gas:candidate-vibid:1001000112219": 15,
+      "gas:candidate-vibid:1001000121857": 133,
+      "gas:candidate-vibid:245200067363": 41,
+      "gas:candidate-vibid:1001000195086": 8,
+      "special:against-all": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066779&region=0&sub_region=0&type=429",
@@ -11841,14 +11841,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 61,
-      "Безбородов Николай Максимович": 70,
-      "Веревкин Валерий Иванович": 34,
-      "Иванов Алексей Иванович": 15,
-      "Кислицын Василий Александрович": 176,
-      "Усманов Владимир Викторович": 43,
-      "Широков Игорь Юрьевич": 7,
-      "Против всех": 189
+      "gas:candidate-vibid:1001000136067": 61,
+      "gas:candidate-vibid:245200067211": 70,
+      "gas:candidate-vibid:1001000190357": 34,
+      "gas:candidate-vibid:1001000112219": 15,
+      "gas:candidate-vibid:1001000121857": 176,
+      "gas:candidate-vibid:245200067363": 43,
+      "gas:candidate-vibid:1001000195086": 7,
+      "special:against-all": 189
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066779&region=0&sub_region=0&type=429",
@@ -11898,14 +11898,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 48,
-      "Безбородов Николай Максимович": 113,
-      "Веревкин Валерий Иванович": 52,
-      "Иванов Алексей Иванович": 29,
-      "Кислицын Василий Александрович": 207,
-      "Усманов Владимир Викторович": 60,
-      "Широков Игорь Юрьевич": 7,
-      "Против всех": 174
+      "gas:candidate-vibid:1001000136067": 48,
+      "gas:candidate-vibid:245200067211": 113,
+      "gas:candidate-vibid:1001000190357": 52,
+      "gas:candidate-vibid:1001000112219": 29,
+      "gas:candidate-vibid:1001000121857": 207,
+      "gas:candidate-vibid:245200067363": 60,
+      "gas:candidate-vibid:1001000195086": 7,
+      "special:against-all": 174
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066779&region=0&sub_region=0&type=429",
@@ -11955,14 +11955,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 96,
-      "Безбородов Николай Максимович": 142,
-      "Веревкин Валерий Иванович": 50,
-      "Иванов Алексей Иванович": 27,
-      "Кислицын Василий Александрович": 255,
-      "Усманов Владимир Викторович": 115,
-      "Широков Игорь Юрьевич": 14,
-      "Против всех": 237
+      "gas:candidate-vibid:1001000136067": 96,
+      "gas:candidate-vibid:245200067211": 142,
+      "gas:candidate-vibid:1001000190357": 50,
+      "gas:candidate-vibid:1001000112219": 27,
+      "gas:candidate-vibid:1001000121857": 255,
+      "gas:candidate-vibid:245200067363": 115,
+      "gas:candidate-vibid:1001000195086": 14,
+      "special:against-all": 237
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066779&region=0&sub_region=0&type=429",
@@ -12012,14 +12012,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 50,
-      "Безбородов Николай Максимович": 68,
-      "Веревкин Валерий Иванович": 37,
-      "Иванов Алексей Иванович": 14,
-      "Кислицын Василий Александрович": 168,
-      "Усманов Владимир Викторович": 55,
-      "Широков Игорь Юрьевич": 7,
-      "Против всех": 88
+      "gas:candidate-vibid:1001000136067": 50,
+      "gas:candidate-vibid:245200067211": 68,
+      "gas:candidate-vibid:1001000190357": 37,
+      "gas:candidate-vibid:1001000112219": 14,
+      "gas:candidate-vibid:1001000121857": 168,
+      "gas:candidate-vibid:245200067363": 55,
+      "gas:candidate-vibid:1001000195086": 7,
+      "special:against-all": 88
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066779&region=0&sub_region=0&type=429",
@@ -12069,14 +12069,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 90,
-      "Безбородов Николай Максимович": 94,
-      "Веревкин Валерий Иванович": 50,
-      "Иванов Алексей Иванович": 25,
-      "Кислицын Василий Александрович": 169,
-      "Усманов Владимир Викторович": 68,
-      "Широков Игорь Юрьевич": 3,
-      "Против всех": 202
+      "gas:candidate-vibid:1001000136067": 90,
+      "gas:candidate-vibid:245200067211": 94,
+      "gas:candidate-vibid:1001000190357": 50,
+      "gas:candidate-vibid:1001000112219": 25,
+      "gas:candidate-vibid:1001000121857": 169,
+      "gas:candidate-vibid:245200067363": 68,
+      "gas:candidate-vibid:1001000195086": 3,
+      "special:against-all": 202
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066779&region=0&sub_region=0&type=429",
@@ -12126,14 +12126,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 88,
-      "Безбородов Николай Максимович": 97,
-      "Веревкин Валерий Иванович": 59,
-      "Иванов Алексей Иванович": 23,
-      "Кислицын Василий Александрович": 134,
-      "Усманов Владимир Викторович": 106,
-      "Широков Игорь Юрьевич": 8,
-      "Против всех": 126
+      "gas:candidate-vibid:1001000136067": 88,
+      "gas:candidate-vibid:245200067211": 97,
+      "gas:candidate-vibid:1001000190357": 59,
+      "gas:candidate-vibid:1001000112219": 23,
+      "gas:candidate-vibid:1001000121857": 134,
+      "gas:candidate-vibid:245200067363": 106,
+      "gas:candidate-vibid:1001000195086": 8,
+      "special:against-all": 126
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066779&region=0&sub_region=0&type=429",
@@ -12183,14 +12183,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 29,
-      "Безбородов Николай Максимович": 64,
-      "Веревкин Валерий Иванович": 10,
-      "Иванов Алексей Иванович": 7,
-      "Кислицын Василий Александрович": 129,
-      "Усманов Владимир Викторович": 33,
-      "Широков Игорь Юрьевич": 9,
-      "Против всех": 36
+      "gas:candidate-vibid:1001000136067": 29,
+      "gas:candidate-vibid:245200067211": 64,
+      "gas:candidate-vibid:1001000190357": 10,
+      "gas:candidate-vibid:1001000112219": 7,
+      "gas:candidate-vibid:1001000121857": 129,
+      "gas:candidate-vibid:245200067363": 33,
+      "gas:candidate-vibid:1001000195086": 9,
+      "special:against-all": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066779&region=0&sub_region=0&type=429",
@@ -12240,14 +12240,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 24,
-      "Безбородов Николай Максимович": 70,
-      "Веревкин Валерий Иванович": 5,
-      "Иванов Алексей Иванович": 7,
-      "Кислицын Василий Александрович": 58,
-      "Усманов Владимир Викторович": 39,
-      "Широков Игорь Юрьевич": 2,
-      "Против всех": 56
+      "gas:candidate-vibid:1001000136067": 24,
+      "gas:candidate-vibid:245200067211": 70,
+      "gas:candidate-vibid:1001000190357": 5,
+      "gas:candidate-vibid:1001000112219": 7,
+      "gas:candidate-vibid:1001000121857": 58,
+      "gas:candidate-vibid:245200067363": 39,
+      "gas:candidate-vibid:1001000195086": 2,
+      "special:against-all": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066779&region=0&sub_region=0&type=429",
@@ -12297,14 +12297,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 2,
-      "Безбородов Николай Максимович": 18,
-      "Веревкин Валерий Иванович": 3,
-      "Иванов Алексей Иванович": 2,
-      "Кислицын Василий Александрович": 25,
-      "Усманов Владимир Викторович": 11,
-      "Широков Игорь Юрьевич": 0,
-      "Против всех": 67
+      "gas:candidate-vibid:1001000136067": 2,
+      "gas:candidate-vibid:245200067211": 18,
+      "gas:candidate-vibid:1001000190357": 3,
+      "gas:candidate-vibid:1001000112219": 2,
+      "gas:candidate-vibid:1001000121857": 25,
+      "gas:candidate-vibid:245200067363": 11,
+      "gas:candidate-vibid:1001000195086": 0,
+      "special:against-all": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066779&region=0&sub_region=0&type=429",
@@ -12354,14 +12354,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 57,
-      "Безбородов Николай Максимович": 145,
-      "Веревкин Валерий Иванович": 28,
-      "Иванов Алексей Иванович": 11,
-      "Кислицын Василий Александрович": 108,
-      "Усманов Владимир Викторович": 39,
-      "Широков Игорь Юрьевич": 4,
-      "Против всех": 50
+      "gas:candidate-vibid:1001000136067": 57,
+      "gas:candidate-vibid:245200067211": 145,
+      "gas:candidate-vibid:1001000190357": 28,
+      "gas:candidate-vibid:1001000112219": 11,
+      "gas:candidate-vibid:1001000121857": 108,
+      "gas:candidate-vibid:245200067363": 39,
+      "gas:candidate-vibid:1001000195086": 4,
+      "special:against-all": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066779&region=0&sub_region=0&type=429",
@@ -12411,14 +12411,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 37,
-      "Безбородов Николай Максимович": 101,
-      "Веревкин Валерий Иванович": 20,
-      "Иванов Алексей Иванович": 11,
-      "Кислицын Василий Александрович": 109,
-      "Усманов Владимир Викторович": 24,
-      "Широков Игорь Юрьевич": 4,
-      "Против всех": 47
+      "gas:candidate-vibid:1001000136067": 37,
+      "gas:candidate-vibid:245200067211": 101,
+      "gas:candidate-vibid:1001000190357": 20,
+      "gas:candidate-vibid:1001000112219": 11,
+      "gas:candidate-vibid:1001000121857": 109,
+      "gas:candidate-vibid:245200067363": 24,
+      "gas:candidate-vibid:1001000195086": 4,
+      "special:against-all": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066779&region=0&sub_region=0&type=429",
@@ -12468,14 +12468,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 19,
-      "Безбородов Николай Максимович": 22,
-      "Веревкин Валерий Иванович": 3,
-      "Иванов Алексей Иванович": 2,
-      "Кислицын Василий Александрович": 36,
-      "Усманов Владимир Викторович": 3,
-      "Широков Игорь Юрьевич": 1,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000136067": 19,
+      "gas:candidate-vibid:245200067211": 22,
+      "gas:candidate-vibid:1001000190357": 3,
+      "gas:candidate-vibid:1001000112219": 2,
+      "gas:candidate-vibid:1001000121857": 36,
+      "gas:candidate-vibid:245200067363": 3,
+      "gas:candidate-vibid:1001000195086": 1,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066779&region=0&sub_region=0&type=429",
@@ -12525,14 +12525,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 19,
-      "Безбородов Николай Максимович": 53,
-      "Веревкин Валерий Иванович": 12,
-      "Иванов Алексей Иванович": 7,
-      "Кислицын Василий Александрович": 57,
-      "Усманов Владимир Викторович": 25,
-      "Широков Игорь Юрьевич": 0,
-      "Против всех": 34
+      "gas:candidate-vibid:1001000136067": 19,
+      "gas:candidate-vibid:245200067211": 53,
+      "gas:candidate-vibid:1001000190357": 12,
+      "gas:candidate-vibid:1001000112219": 7,
+      "gas:candidate-vibid:1001000121857": 57,
+      "gas:candidate-vibid:245200067363": 25,
+      "gas:candidate-vibid:1001000195086": 0,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066779&region=0&sub_region=0&type=429",
@@ -12582,14 +12582,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 2,
-      "Безбородов Николай Максимович": 20,
-      "Веревкин Валерий Иванович": 2,
-      "Иванов Алексей Иванович": 1,
-      "Кислицын Василий Александрович": 51,
-      "Усманов Владимир Викторович": 8,
-      "Широков Игорь Юрьевич": 0,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000136067": 2,
+      "gas:candidate-vibid:245200067211": 20,
+      "gas:candidate-vibid:1001000190357": 2,
+      "gas:candidate-vibid:1001000112219": 1,
+      "gas:candidate-vibid:1001000121857": 51,
+      "gas:candidate-vibid:245200067363": 8,
+      "gas:candidate-vibid:1001000195086": 0,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066779&region=0&sub_region=0&type=429",
@@ -12639,14 +12639,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 42,
-      "Безбородов Николай Максимович": 77,
-      "Веревкин Валерий Иванович": 18,
-      "Иванов Алексей Иванович": 14,
-      "Кислицын Василий Александрович": 35,
-      "Усманов Владимир Викторович": 14,
-      "Широков Игорь Юрьевич": 5,
-      "Против всех": 55
+      "gas:candidate-vibid:1001000136067": 42,
+      "gas:candidate-vibid:245200067211": 77,
+      "gas:candidate-vibid:1001000190357": 18,
+      "gas:candidate-vibid:1001000112219": 14,
+      "gas:candidate-vibid:1001000121857": 35,
+      "gas:candidate-vibid:245200067363": 14,
+      "gas:candidate-vibid:1001000195086": 5,
+      "special:against-all": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066779&region=0&sub_region=0&type=429",
@@ -12696,14 +12696,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 12,
-      "Безбородов Николай Максимович": 17,
-      "Веревкин Валерий Иванович": 4,
-      "Иванов Алексей Иванович": 4,
-      "Кислицын Василий Александрович": 16,
-      "Усманов Владимир Викторович": 10,
-      "Широков Игорь Юрьевич": 0,
-      "Против всех": 24
+      "gas:candidate-vibid:1001000136067": 12,
+      "gas:candidate-vibid:245200067211": 17,
+      "gas:candidate-vibid:1001000190357": 4,
+      "gas:candidate-vibid:1001000112219": 4,
+      "gas:candidate-vibid:1001000121857": 16,
+      "gas:candidate-vibid:245200067363": 10,
+      "gas:candidate-vibid:1001000195086": 0,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066779&region=0&sub_region=0&type=429",
@@ -12753,14 +12753,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 15,
-      "Безбородов Николай Максимович": 78,
-      "Веревкин Валерий Иванович": 13,
-      "Иванов Алексей Иванович": 8,
-      "Кислицын Василий Александрович": 90,
-      "Усманов Владимир Викторович": 28,
-      "Широков Игорь Юрьевич": 2,
-      "Против всех": 41
+      "gas:candidate-vibid:1001000136067": 15,
+      "gas:candidate-vibid:245200067211": 78,
+      "gas:candidate-vibid:1001000190357": 13,
+      "gas:candidate-vibid:1001000112219": 8,
+      "gas:candidate-vibid:1001000121857": 90,
+      "gas:candidate-vibid:245200067363": 28,
+      "gas:candidate-vibid:1001000195086": 2,
+      "special:against-all": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066779&region=0&sub_region=0&type=429",
@@ -12810,14 +12810,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 6,
-      "Безбородов Николай Максимович": 33,
-      "Веревкин Валерий Иванович": 5,
-      "Иванов Алексей Иванович": 0,
-      "Кислицын Василий Александрович": 14,
-      "Усманов Владимир Викторович": 3,
-      "Широков Игорь Юрьевич": 1,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000136067": 6,
+      "gas:candidate-vibid:245200067211": 33,
+      "gas:candidate-vibid:1001000190357": 5,
+      "gas:candidate-vibid:1001000112219": 0,
+      "gas:candidate-vibid:1001000121857": 14,
+      "gas:candidate-vibid:245200067363": 3,
+      "gas:candidate-vibid:1001000195086": 1,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066779&region=0&sub_region=0&type=429",
@@ -12867,14 +12867,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 13,
-      "Безбородов Николай Максимович": 41,
-      "Веревкин Валерий Иванович": 1,
-      "Иванов Алексей Иванович": 11,
-      "Кислицын Василий Александрович": 9,
-      "Усманов Владимир Викторович": 9,
-      "Широков Игорь Юрьевич": 0,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000136067": 13,
+      "gas:candidate-vibid:245200067211": 41,
+      "gas:candidate-vibid:1001000190357": 1,
+      "gas:candidate-vibid:1001000112219": 11,
+      "gas:candidate-vibid:1001000121857": 9,
+      "gas:candidate-vibid:245200067363": 9,
+      "gas:candidate-vibid:1001000195086": 0,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066779&region=0&sub_region=0&type=429",
@@ -12924,14 +12924,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 20,
-      "Безбородов Николай Максимович": 49,
-      "Веревкин Валерий Иванович": 11,
-      "Иванов Алексей Иванович": 4,
-      "Кислицын Василий Александрович": 80,
-      "Усманов Владимир Викторович": 42,
-      "Широков Игорь Юрьевич": 4,
-      "Против всех": 118
+      "gas:candidate-vibid:1001000136067": 20,
+      "gas:candidate-vibid:245200067211": 49,
+      "gas:candidate-vibid:1001000190357": 11,
+      "gas:candidate-vibid:1001000112219": 4,
+      "gas:candidate-vibid:1001000121857": 80,
+      "gas:candidate-vibid:245200067363": 42,
+      "gas:candidate-vibid:1001000195086": 4,
+      "special:against-all": 118
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066779&region=0&sub_region=0&type=429",
@@ -12981,14 +12981,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 11,
-      "Безбородов Николай Максимович": 34,
-      "Веревкин Валерий Иванович": 4,
-      "Иванов Алексей Иванович": 0,
-      "Кислицын Василий Александрович": 20,
-      "Усманов Владимир Викторович": 6,
-      "Широков Игорь Юрьевич": 2,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000136067": 11,
+      "gas:candidate-vibid:245200067211": 34,
+      "gas:candidate-vibid:1001000190357": 4,
+      "gas:candidate-vibid:1001000112219": 0,
+      "gas:candidate-vibid:1001000121857": 20,
+      "gas:candidate-vibid:245200067363": 6,
+      "gas:candidate-vibid:1001000195086": 2,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066779&region=0&sub_region=0&type=429",
@@ -13038,14 +13038,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 6,
-      "Безбородов Николай Максимович": 19,
-      "Веревкин Валерий Иванович": 3,
-      "Иванов Алексей Иванович": 1,
-      "Кислицын Василий Александрович": 10,
-      "Усманов Владимир Викторович": 4,
-      "Широков Игорь Юрьевич": 0,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000136067": 6,
+      "gas:candidate-vibid:245200067211": 19,
+      "gas:candidate-vibid:1001000190357": 3,
+      "gas:candidate-vibid:1001000112219": 1,
+      "gas:candidate-vibid:1001000121857": 10,
+      "gas:candidate-vibid:245200067363": 4,
+      "gas:candidate-vibid:1001000195086": 0,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066779&region=0&sub_region=0&type=429",
@@ -13095,14 +13095,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 17,
-      "Безбородов Николай Максимович": 44,
-      "Веревкин Валерий Иванович": 3,
-      "Иванов Алексей Иванович": 3,
-      "Кислицын Василий Александрович": 24,
-      "Усманов Владимир Викторович": 5,
-      "Широков Игорь Юрьевич": 1,
-      "Против всех": 24
+      "gas:candidate-vibid:1001000136067": 17,
+      "gas:candidate-vibid:245200067211": 44,
+      "gas:candidate-vibid:1001000190357": 3,
+      "gas:candidate-vibid:1001000112219": 3,
+      "gas:candidate-vibid:1001000121857": 24,
+      "gas:candidate-vibid:245200067363": 5,
+      "gas:candidate-vibid:1001000195086": 1,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066779&region=0&sub_region=0&type=429",
@@ -13152,14 +13152,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 18,
-      "Безбородов Николай Максимович": 77,
-      "Веревкин Валерий Иванович": 11,
-      "Иванов Алексей Иванович": 12,
-      "Кислицын Василий Александрович": 123,
-      "Усманов Владимир Викторович": 44,
-      "Широков Игорь Юрьевич": 5,
-      "Против всех": 41
+      "gas:candidate-vibid:1001000136067": 18,
+      "gas:candidate-vibid:245200067211": 77,
+      "gas:candidate-vibid:1001000190357": 11,
+      "gas:candidate-vibid:1001000112219": 12,
+      "gas:candidate-vibid:1001000121857": 123,
+      "gas:candidate-vibid:245200067363": 44,
+      "gas:candidate-vibid:1001000195086": 5,
+      "special:against-all": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066779&region=0&sub_region=0&type=429",
@@ -13209,14 +13209,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 5,
-      "Безбородов Николай Максимович": 23,
-      "Веревкин Валерий Иванович": 4,
-      "Иванов Алексей Иванович": 3,
-      "Кислицын Василий Александрович": 10,
-      "Усманов Владимир Викторович": 3,
-      "Широков Игорь Юрьевич": 0,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000136067": 5,
+      "gas:candidate-vibid:245200067211": 23,
+      "gas:candidate-vibid:1001000190357": 4,
+      "gas:candidate-vibid:1001000112219": 3,
+      "gas:candidate-vibid:1001000121857": 10,
+      "gas:candidate-vibid:245200067363": 3,
+      "gas:candidate-vibid:1001000195086": 0,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066779&region=0&sub_region=0&type=429",
@@ -13266,14 +13266,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 23,
-      "Безбородов Николай Максимович": 76,
-      "Веревкин Валерий Иванович": 10,
-      "Иванов Алексей Иванович": 6,
-      "Кислицын Василий Александрович": 59,
-      "Усманов Владимир Викторович": 20,
-      "Широков Игорь Юрьевич": 0,
-      "Против всех": 41
+      "gas:candidate-vibid:1001000136067": 23,
+      "gas:candidate-vibid:245200067211": 76,
+      "gas:candidate-vibid:1001000190357": 10,
+      "gas:candidate-vibid:1001000112219": 6,
+      "gas:candidate-vibid:1001000121857": 59,
+      "gas:candidate-vibid:245200067363": 20,
+      "gas:candidate-vibid:1001000195086": 0,
+      "special:against-all": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066779&region=0&sub_region=0&type=429",
@@ -13323,14 +13323,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 9,
-      "Безбородов Николай Максимович": 29,
-      "Веревкин Валерий Иванович": 3,
-      "Иванов Алексей Иванович": 0,
-      "Кислицын Василий Александрович": 11,
-      "Усманов Владимир Викторович": 0,
-      "Широков Игорь Юрьевич": 0,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000136067": 9,
+      "gas:candidate-vibid:245200067211": 29,
+      "gas:candidate-vibid:1001000190357": 3,
+      "gas:candidate-vibid:1001000112219": 0,
+      "gas:candidate-vibid:1001000121857": 11,
+      "gas:candidate-vibid:245200067363": 0,
+      "gas:candidate-vibid:1001000195086": 0,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066779&region=0&sub_region=0&type=429",
@@ -13380,14 +13380,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 4,
-      "Безбородов Николай Максимович": 16,
-      "Веревкин Валерий Иванович": 1,
-      "Иванов Алексей Иванович": 3,
-      "Кислицын Василий Александрович": 4,
-      "Усманов Владимир Викторович": 4,
-      "Широков Игорь Юрьевич": 3,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000136067": 4,
+      "gas:candidate-vibid:245200067211": 16,
+      "gas:candidate-vibid:1001000190357": 1,
+      "gas:candidate-vibid:1001000112219": 3,
+      "gas:candidate-vibid:1001000121857": 4,
+      "gas:candidate-vibid:245200067363": 4,
+      "gas:candidate-vibid:1001000195086": 3,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066779&region=0&sub_region=0&type=429",
@@ -13437,14 +13437,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 22,
-      "Безбородов Николай Максимович": 42,
-      "Веревкин Валерий Иванович": 24,
-      "Иванов Алексей Иванович": 9,
-      "Кислицын Василий Александрович": 122,
-      "Усманов Владимир Викторович": 15,
-      "Широков Игорь Юрьевич": 2,
-      "Против всех": 59
+      "gas:candidate-vibid:1001000136067": 22,
+      "gas:candidate-vibid:245200067211": 42,
+      "gas:candidate-vibid:1001000190357": 24,
+      "gas:candidate-vibid:1001000112219": 9,
+      "gas:candidate-vibid:1001000121857": 122,
+      "gas:candidate-vibid:245200067363": 15,
+      "gas:candidate-vibid:1001000195086": 2,
+      "special:against-all": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066779&region=0&sub_region=0&type=429",
@@ -13494,14 +13494,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 13,
-      "Безбородов Николай Максимович": 23,
-      "Веревкин Валерий Иванович": 18,
-      "Иванов Алексей Иванович": 0,
-      "Кислицын Василий Александрович": 73,
-      "Усманов Владимир Викторович": 10,
-      "Широков Игорь Юрьевич": 2,
-      "Против всех": 28
+      "gas:candidate-vibid:1001000136067": 13,
+      "gas:candidate-vibid:245200067211": 23,
+      "gas:candidate-vibid:1001000190357": 18,
+      "gas:candidate-vibid:1001000112219": 0,
+      "gas:candidate-vibid:1001000121857": 73,
+      "gas:candidate-vibid:245200067363": 10,
+      "gas:candidate-vibid:1001000195086": 2,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066779&region=0&sub_region=0&type=429",
@@ -13551,14 +13551,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 9,
-      "Безбородов Николай Максимович": 40,
-      "Веревкин Валерий Иванович": 2,
-      "Иванов Алексей Иванович": 2,
-      "Кислицын Василий Александрович": 71,
-      "Усманов Владимир Викторович": 4,
-      "Широков Игорь Юрьевич": 1,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000136067": 9,
+      "gas:candidate-vibid:245200067211": 40,
+      "gas:candidate-vibid:1001000190357": 2,
+      "gas:candidate-vibid:1001000112219": 2,
+      "gas:candidate-vibid:1001000121857": 71,
+      "gas:candidate-vibid:245200067363": 4,
+      "gas:candidate-vibid:1001000195086": 1,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066779&region=0&sub_region=0&type=429",
@@ -13608,14 +13608,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 38,
-      "Безбородов Николай Максимович": 31,
-      "Веревкин Валерий Иванович": 10,
-      "Иванов Алексей Иванович": 4,
-      "Кислицын Василий Александрович": 29,
-      "Усманов Владимир Викторович": 14,
-      "Широков Игорь Юрьевич": 3,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000136067": 38,
+      "gas:candidate-vibid:245200067211": 31,
+      "gas:candidate-vibid:1001000190357": 10,
+      "gas:candidate-vibid:1001000112219": 4,
+      "gas:candidate-vibid:1001000121857": 29,
+      "gas:candidate-vibid:245200067363": 14,
+      "gas:candidate-vibid:1001000195086": 3,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066779&region=0&sub_region=0&type=429",
@@ -13665,14 +13665,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 13,
-      "Безбородов Николай Максимович": 126,
-      "Веревкин Валерий Иванович": 14,
-      "Иванов Алексей Иванович": 8,
-      "Кислицын Василий Александрович": 85,
-      "Усманов Владимир Викторович": 86,
-      "Широков Игорь Юрьевич": 0,
-      "Против всех": 40
+      "gas:candidate-vibid:1001000136067": 13,
+      "gas:candidate-vibid:245200067211": 126,
+      "gas:candidate-vibid:1001000190357": 14,
+      "gas:candidate-vibid:1001000112219": 8,
+      "gas:candidate-vibid:1001000121857": 85,
+      "gas:candidate-vibid:245200067363": 86,
+      "gas:candidate-vibid:1001000195086": 0,
+      "special:against-all": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066779&region=0&sub_region=0&type=429",
@@ -13722,14 +13722,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 3,
-      "Безбородов Николай Максимович": 27,
-      "Веревкин Валерий Иванович": 0,
-      "Иванов Алексей Иванович": 2,
-      "Кислицын Василий Александрович": 6,
-      "Усманов Владимир Викторович": 29,
-      "Широков Игорь Юрьевич": 3,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000136067": 3,
+      "gas:candidate-vibid:245200067211": 27,
+      "gas:candidate-vibid:1001000190357": 0,
+      "gas:candidate-vibid:1001000112219": 2,
+      "gas:candidate-vibid:1001000121857": 6,
+      "gas:candidate-vibid:245200067363": 29,
+      "gas:candidate-vibid:1001000195086": 3,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066779&region=0&sub_region=0&type=429",
@@ -13779,14 +13779,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 35,
-      "Безбородов Николай Максимович": 48,
-      "Веревкин Валерий Иванович": 6,
-      "Иванов Алексей Иванович": 12,
-      "Кислицын Василий Александрович": 55,
-      "Усманов Владимир Викторович": 30,
-      "Широков Игорь Юрьевич": 3,
-      "Против всех": 42
+      "gas:candidate-vibid:1001000136067": 35,
+      "gas:candidate-vibid:245200067211": 48,
+      "gas:candidate-vibid:1001000190357": 6,
+      "gas:candidate-vibid:1001000112219": 12,
+      "gas:candidate-vibid:1001000121857": 55,
+      "gas:candidate-vibid:245200067363": 30,
+      "gas:candidate-vibid:1001000195086": 3,
+      "special:against-all": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066779&region=0&sub_region=0&type=429",
@@ -13836,14 +13836,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 8,
-      "Безбородов Николай Максимович": 25,
-      "Веревкин Валерий Иванович": 2,
-      "Иванов Алексей Иванович": 2,
-      "Кислицын Василий Александрович": 29,
-      "Усманов Владимир Викторович": 6,
-      "Широков Игорь Юрьевич": 0,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000136067": 8,
+      "gas:candidate-vibid:245200067211": 25,
+      "gas:candidate-vibid:1001000190357": 2,
+      "gas:candidate-vibid:1001000112219": 2,
+      "gas:candidate-vibid:1001000121857": 29,
+      "gas:candidate-vibid:245200067363": 6,
+      "gas:candidate-vibid:1001000195086": 0,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066779&region=0&sub_region=0&type=429",
@@ -13893,14 +13893,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 53,
-      "Безбородов Николай Максимович": 115,
-      "Веревкин Валерий Иванович": 24,
-      "Иванов Алексей Иванович": 6,
-      "Кислицын Василий Александрович": 222,
-      "Усманов Владимир Викторович": 56,
-      "Широков Игорь Юрьевич": 14,
-      "Против всех": 110
+      "gas:candidate-vibid:1001000136067": 53,
+      "gas:candidate-vibid:245200067211": 115,
+      "gas:candidate-vibid:1001000190357": 24,
+      "gas:candidate-vibid:1001000112219": 6,
+      "gas:candidate-vibid:1001000121857": 222,
+      "gas:candidate-vibid:245200067363": 56,
+      "gas:candidate-vibid:1001000195086": 14,
+      "special:against-all": 110
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066779&region=0&sub_region=0&type=429",
@@ -13950,14 +13950,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 32,
-      "Безбородов Николай Максимович": 54,
-      "Веревкин Валерий Иванович": 10,
-      "Иванов Алексей Иванович": 9,
-      "Кислицын Василий Александрович": 75,
-      "Усманов Владимир Викторович": 12,
-      "Широков Игорь Юрьевич": 1,
-      "Против всех": 48
+      "gas:candidate-vibid:1001000136067": 32,
+      "gas:candidate-vibid:245200067211": 54,
+      "gas:candidate-vibid:1001000190357": 10,
+      "gas:candidate-vibid:1001000112219": 9,
+      "gas:candidate-vibid:1001000121857": 75,
+      "gas:candidate-vibid:245200067363": 12,
+      "gas:candidate-vibid:1001000195086": 1,
+      "special:against-all": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066779&region=0&sub_region=0&type=429",
@@ -14007,14 +14007,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 29,
-      "Безбородов Николай Максимович": 23,
-      "Веревкин Валерий Иванович": 16,
-      "Иванов Алексей Иванович": 6,
-      "Кислицын Василий Александрович": 31,
-      "Усманов Владимир Викторович": 15,
-      "Широков Игорь Юрьевич": 3,
-      "Против всех": 29
+      "gas:candidate-vibid:1001000136067": 29,
+      "gas:candidate-vibid:245200067211": 23,
+      "gas:candidate-vibid:1001000190357": 16,
+      "gas:candidate-vibid:1001000112219": 6,
+      "gas:candidate-vibid:1001000121857": 31,
+      "gas:candidate-vibid:245200067363": 15,
+      "gas:candidate-vibid:1001000195086": 3,
+      "special:against-all": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066779&region=0&sub_region=0&type=429",
@@ -14064,14 +14064,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 11,
-      "Безбородов Николай Максимович": 54,
-      "Веревкин Валерий Иванович": 3,
-      "Иванов Алексей Иванович": 4,
-      "Кислицын Василий Александрович": 39,
-      "Усманов Владимир Викторович": 17,
-      "Широков Игорь Юрьевич": 1,
-      "Против всех": 67
+      "gas:candidate-vibid:1001000136067": 11,
+      "gas:candidate-vibid:245200067211": 54,
+      "gas:candidate-vibid:1001000190357": 3,
+      "gas:candidate-vibid:1001000112219": 4,
+      "gas:candidate-vibid:1001000121857": 39,
+      "gas:candidate-vibid:245200067363": 17,
+      "gas:candidate-vibid:1001000195086": 1,
+      "special:against-all": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066779&region=0&sub_region=0&type=429",
@@ -14121,14 +14121,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 83,
-      "Безбородов Николай Максимович": 47,
-      "Веревкин Валерий Иванович": 12,
-      "Иванов Алексей Иванович": 11,
-      "Кислицын Василий Александрович": 121,
-      "Усманов Владимир Викторович": 35,
-      "Широков Игорь Юрьевич": 3,
-      "Против всех": 33
+      "gas:candidate-vibid:1001000136067": 83,
+      "gas:candidate-vibid:245200067211": 47,
+      "gas:candidate-vibid:1001000190357": 12,
+      "gas:candidate-vibid:1001000112219": 11,
+      "gas:candidate-vibid:1001000121857": 121,
+      "gas:candidate-vibid:245200067363": 35,
+      "gas:candidate-vibid:1001000195086": 3,
+      "special:against-all": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066779&region=0&sub_region=0&type=429",
@@ -14178,14 +14178,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 6,
-      "Безбородов Николай Максимович": 32,
-      "Веревкин Валерий Иванович": 3,
-      "Иванов Алексей Иванович": 1,
-      "Кислицын Василий Александрович": 25,
-      "Усманов Владимир Викторович": 11,
-      "Широков Игорь Юрьевич": 0,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000136067": 6,
+      "gas:candidate-vibid:245200067211": 32,
+      "gas:candidate-vibid:1001000190357": 3,
+      "gas:candidate-vibid:1001000112219": 1,
+      "gas:candidate-vibid:1001000121857": 25,
+      "gas:candidate-vibid:245200067363": 11,
+      "gas:candidate-vibid:1001000195086": 0,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066779&region=0&sub_region=0&type=429",
@@ -14235,14 +14235,14 @@ export const duma_2003_uik_428_region_45_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Александров Михаил Юрьевич": 12,
-      "Безбородов Николай Максимович": 50,
-      "Веревкин Валерий Иванович": 0,
-      "Иванов Алексей Иванович": 5,
-      "Кислицын Василий Александрович": 65,
-      "Усманов Владимир Викторович": 23,
-      "Широков Игорь Юрьевич": 1,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000136067": 12,
+      "gas:candidate-vibid:245200067211": 50,
+      "gas:candidate-vibid:1001000190357": 0,
+      "gas:candidate-vibid:1001000112219": 5,
+      "gas:candidate-vibid:1001000121857": 65,
+      "gas:candidate-vibid:245200067363": 23,
+      "gas:candidate-vibid:1001000195086": 1,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=452000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=245200066779&region=0&sub_region=0&type=429",

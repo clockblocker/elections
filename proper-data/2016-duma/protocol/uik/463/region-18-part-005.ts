@@ -43,13 +43,13 @@ export const duma_2016_uik_463_region_18_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 108,
-      "Бузилов Валерий Викторович": 302,
-      "Гусев Антон Владимирович": 98,
-      "Мишкин Юрий Алексеевич": 15,
-      "Назаров Михаил Геннадьевич": 17,
-      "Тимуршин Руслан Рифгатович": 12,
-      "Юнусов Фарид Анасович": 160
+      "gas:candidate-vibid:2182000785120": 108,
+      "gas:candidate-vibid:2182000787559": 302,
+      "gas:candidate-vibid:2182000783908": 98,
+      "gas:candidate-vibid:2182000785484": 15,
+      "gas:candidate-vibid:2182000788256": 17,
+      "gas:candidate-vibid:2182000786669": 12,
+      "gas:candidate-vibid:2182000786891": 160
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000049&tvd=2182000744087&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744087&type=464",
@@ -100,13 +100,13 @@ export const duma_2016_uik_463_region_18_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 103,
-      "Бузилов Валерий Викторович": 346,
-      "Гусев Антон Владимирович": 100,
-      "Мишкин Юрий Алексеевич": 33,
-      "Назаров Михаил Геннадьевич": 16,
-      "Тимуршин Руслан Рифгатович": 15,
-      "Юнусов Фарид Анасович": 160
+      "gas:candidate-vibid:2182000785120": 103,
+      "gas:candidate-vibid:2182000787559": 346,
+      "gas:candidate-vibid:2182000783908": 100,
+      "gas:candidate-vibid:2182000785484": 33,
+      "gas:candidate-vibid:2182000788256": 16,
+      "gas:candidate-vibid:2182000786669": 15,
+      "gas:candidate-vibid:2182000786891": 160
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000049&tvd=2182000744087&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744087&type=464",
@@ -157,13 +157,13 @@ export const duma_2016_uik_463_region_18_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 105,
-      "Бузилов Валерий Викторович": 319,
-      "Гусев Антон Владимирович": 90,
-      "Мишкин Юрий Алексеевич": 22,
-      "Назаров Михаил Геннадьевич": 25,
-      "Тимуршин Руслан Рифгатович": 12,
-      "Юнусов Фарид Анасович": 193
+      "gas:candidate-vibid:2182000785120": 105,
+      "gas:candidate-vibid:2182000787559": 319,
+      "gas:candidate-vibid:2182000783908": 90,
+      "gas:candidate-vibid:2182000785484": 22,
+      "gas:candidate-vibid:2182000788256": 25,
+      "gas:candidate-vibid:2182000786669": 12,
+      "gas:candidate-vibid:2182000786891": 193
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000049&tvd=2182000744087&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744087&type=464",
@@ -214,13 +214,13 @@ export const duma_2016_uik_463_region_18_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 93,
-      "Бузилов Валерий Викторович": 307,
-      "Гусев Антон Владимирович": 89,
-      "Мишкин Юрий Алексеевич": 21,
-      "Назаров Михаил Геннадьевич": 20,
-      "Тимуршин Руслан Рифгатович": 3,
-      "Юнусов Фарид Анасович": 156
+      "gas:candidate-vibid:2182000785120": 93,
+      "gas:candidate-vibid:2182000787559": 307,
+      "gas:candidate-vibid:2182000783908": 89,
+      "gas:candidate-vibid:2182000785484": 21,
+      "gas:candidate-vibid:2182000788256": 20,
+      "gas:candidate-vibid:2182000786669": 3,
+      "gas:candidate-vibid:2182000786891": 156
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000049&tvd=2182000744087&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744087&type=464",
@@ -271,13 +271,13 @@ export const duma_2016_uik_463_region_18_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 80,
-      "Бузилов Валерий Викторович": 286,
-      "Гусев Антон Владимирович": 89,
-      "Мишкин Юрий Алексеевич": 18,
-      "Назаров Михаил Геннадьевич": 18,
-      "Тимуршин Руслан Рифгатович": 14,
-      "Юнусов Фарид Анасович": 131
+      "gas:candidate-vibid:2182000785120": 80,
+      "gas:candidate-vibid:2182000787559": 286,
+      "gas:candidate-vibid:2182000783908": 89,
+      "gas:candidate-vibid:2182000785484": 18,
+      "gas:candidate-vibid:2182000788256": 18,
+      "gas:candidate-vibid:2182000786669": 14,
+      "gas:candidate-vibid:2182000786891": 131
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000049&tvd=2182000744087&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744087&type=464",
@@ -328,13 +328,13 @@ export const duma_2016_uik_463_region_18_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 92,
-      "Бузилов Валерий Викторович": 328,
-      "Гусев Антон Владимирович": 66,
-      "Мишкин Юрий Алексеевич": 21,
-      "Назаров Михаил Геннадьевич": 20,
-      "Тимуршин Руслан Рифгатович": 9,
-      "Юнусов Фарид Анасович": 72
+      "gas:candidate-vibid:2182000785120": 92,
+      "gas:candidate-vibid:2182000787559": 328,
+      "gas:candidate-vibid:2182000783908": 66,
+      "gas:candidate-vibid:2182000785484": 21,
+      "gas:candidate-vibid:2182000788256": 20,
+      "gas:candidate-vibid:2182000786669": 9,
+      "gas:candidate-vibid:2182000786891": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000049&tvd=2182000744087&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744087&type=464",
@@ -385,13 +385,13 @@ export const duma_2016_uik_463_region_18_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 117,
-      "Бузилов Валерий Викторович": 338,
-      "Гусев Антон Владимирович": 83,
-      "Мишкин Юрий Алексеевич": 23,
-      "Назаров Михаил Геннадьевич": 21,
-      "Тимуршин Руслан Рифгатович": 17,
-      "Юнусов Фарид Анасович": 167
+      "gas:candidate-vibid:2182000785120": 117,
+      "gas:candidate-vibid:2182000787559": 338,
+      "gas:candidate-vibid:2182000783908": 83,
+      "gas:candidate-vibid:2182000785484": 23,
+      "gas:candidate-vibid:2182000788256": 21,
+      "gas:candidate-vibid:2182000786669": 17,
+      "gas:candidate-vibid:2182000786891": 167
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000049&tvd=2182000744087&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744087&type=464",
@@ -442,13 +442,13 @@ export const duma_2016_uik_463_region_18_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 83,
-      "Бузилов Валерий Викторович": 271,
-      "Гусев Антон Владимирович": 63,
-      "Мишкин Юрий Алексеевич": 23,
-      "Назаров Михаил Геннадьевич": 13,
-      "Тимуршин Руслан Рифгатович": 17,
-      "Юнусов Фарид Анасович": 148
+      "gas:candidate-vibid:2182000785120": 83,
+      "gas:candidate-vibid:2182000787559": 271,
+      "gas:candidate-vibid:2182000783908": 63,
+      "gas:candidate-vibid:2182000785484": 23,
+      "gas:candidate-vibid:2182000788256": 13,
+      "gas:candidate-vibid:2182000786669": 17,
+      "gas:candidate-vibid:2182000786891": 148
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000049&tvd=2182000744087&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744087&type=464",
@@ -499,13 +499,13 @@ export const duma_2016_uik_463_region_18_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 128,
-      "Бузилов Валерий Викторович": 280,
-      "Гусев Антон Владимирович": 58,
-      "Мишкин Юрий Алексеевич": 22,
-      "Назаров Михаил Геннадьевич": 26,
-      "Тимуршин Руслан Рифгатович": 24,
-      "Юнусов Фарид Анасович": 181
+      "gas:candidate-vibid:2182000785120": 128,
+      "gas:candidate-vibid:2182000787559": 280,
+      "gas:candidate-vibid:2182000783908": 58,
+      "gas:candidate-vibid:2182000785484": 22,
+      "gas:candidate-vibid:2182000788256": 26,
+      "gas:candidate-vibid:2182000786669": 24,
+      "gas:candidate-vibid:2182000786891": 181
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000049&tvd=2182000744087&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744087&type=464",
@@ -556,13 +556,13 @@ export const duma_2016_uik_463_region_18_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 105,
-      "Бузилов Валерий Викторович": 279,
-      "Гусев Антон Владимирович": 82,
-      "Мишкин Юрий Алексеевич": 15,
-      "Назаров Михаил Геннадьевич": 28,
-      "Тимуршин Руслан Рифгатович": 16,
-      "Юнусов Фарид Анасович": 175
+      "gas:candidate-vibid:2182000785120": 105,
+      "gas:candidate-vibid:2182000787559": 279,
+      "gas:candidate-vibid:2182000783908": 82,
+      "gas:candidate-vibid:2182000785484": 15,
+      "gas:candidate-vibid:2182000788256": 28,
+      "gas:candidate-vibid:2182000786669": 16,
+      "gas:candidate-vibid:2182000786891": 175
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000049&tvd=2182000744087&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744087&type=464",
@@ -613,13 +613,13 @@ export const duma_2016_uik_463_region_18_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 139,
-      "Бузилов Валерий Викторович": 287,
-      "Гусев Антон Владимирович": 63,
-      "Мишкин Юрий Алексеевич": 24,
-      "Назаров Михаил Геннадьевич": 23,
-      "Тимуршин Руслан Рифгатович": 18,
-      "Юнусов Фарид Анасович": 216
+      "gas:candidate-vibid:2182000785120": 139,
+      "gas:candidate-vibid:2182000787559": 287,
+      "gas:candidate-vibid:2182000783908": 63,
+      "gas:candidate-vibid:2182000785484": 24,
+      "gas:candidate-vibid:2182000788256": 23,
+      "gas:candidate-vibid:2182000786669": 18,
+      "gas:candidate-vibid:2182000786891": 216
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000049&tvd=2182000744087&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744087&type=464",
@@ -670,13 +670,13 @@ export const duma_2016_uik_463_region_18_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 125,
-      "Бузилов Валерий Викторович": 388,
-      "Гусев Антон Владимирович": 82,
-      "Мишкин Юрий Алексеевич": 19,
-      "Назаров Михаил Геннадьевич": 29,
-      "Тимуршин Руслан Рифгатович": 11,
-      "Юнусов Фарид Анасович": 148
+      "gas:candidate-vibid:2182000785120": 125,
+      "gas:candidate-vibid:2182000787559": 388,
+      "gas:candidate-vibid:2182000783908": 82,
+      "gas:candidate-vibid:2182000785484": 19,
+      "gas:candidate-vibid:2182000788256": 29,
+      "gas:candidate-vibid:2182000786669": 11,
+      "gas:candidate-vibid:2182000786891": 148
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000049&tvd=2182000744087&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744087&type=464",
@@ -727,13 +727,13 @@ export const duma_2016_uik_463_region_18_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 120,
-      "Бузилов Валерий Викторович": 289,
-      "Гусев Антон Владимирович": 75,
-      "Мишкин Юрий Алексеевич": 20,
-      "Назаров Михаил Геннадьевич": 19,
-      "Тимуршин Руслан Рифгатович": 9,
-      "Юнусов Фарид Анасович": 144
+      "gas:candidate-vibid:2182000785120": 120,
+      "gas:candidate-vibid:2182000787559": 289,
+      "gas:candidate-vibid:2182000783908": 75,
+      "gas:candidate-vibid:2182000785484": 20,
+      "gas:candidate-vibid:2182000788256": 19,
+      "gas:candidate-vibid:2182000786669": 9,
+      "gas:candidate-vibid:2182000786891": 144
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000049&tvd=2182000744087&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744087&type=464",
@@ -784,13 +784,13 @@ export const duma_2016_uik_463_region_18_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 136,
-      "Бузилов Валерий Викторович": 268,
-      "Гусев Антон Владимирович": 74,
-      "Мишкин Юрий Алексеевич": 23,
-      "Назаров Михаил Геннадьевич": 23,
-      "Тимуршин Руслан Рифгатович": 11,
-      "Юнусов Фарид Анасович": 238
+      "gas:candidate-vibid:2182000785120": 136,
+      "gas:candidate-vibid:2182000787559": 268,
+      "gas:candidate-vibid:2182000783908": 74,
+      "gas:candidate-vibid:2182000785484": 23,
+      "gas:candidate-vibid:2182000788256": 23,
+      "gas:candidate-vibid:2182000786669": 11,
+      "gas:candidate-vibid:2182000786891": 238
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000049&tvd=2182000744087&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744087&type=464",
@@ -841,13 +841,13 @@ export const duma_2016_uik_463_region_18_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 132,
-      "Бузилов Валерий Викторович": 321,
-      "Гусев Антон Владимирович": 88,
-      "Мишкин Юрий Алексеевич": 22,
-      "Назаров Михаил Геннадьевич": 21,
-      "Тимуршин Руслан Рифгатович": 14,
-      "Юнусов Фарид Анасович": 240
+      "gas:candidate-vibid:2182000785120": 132,
+      "gas:candidate-vibid:2182000787559": 321,
+      "gas:candidate-vibid:2182000783908": 88,
+      "gas:candidate-vibid:2182000785484": 22,
+      "gas:candidate-vibid:2182000788256": 21,
+      "gas:candidate-vibid:2182000786669": 14,
+      "gas:candidate-vibid:2182000786891": 240
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000049&tvd=2182000744087&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744087&type=464",
@@ -898,13 +898,13 @@ export const duma_2016_uik_463_region_18_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 89,
-      "Бузилов Валерий Викторович": 193,
-      "Гусев Антон Владимирович": 57,
-      "Мишкин Юрий Алексеевич": 12,
-      "Назаров Михаил Геннадьевич": 17,
-      "Тимуршин Руслан Рифгатович": 13,
-      "Юнусов Фарид Анасович": 141
+      "gas:candidate-vibid:2182000785120": 89,
+      "gas:candidate-vibid:2182000787559": 193,
+      "gas:candidate-vibid:2182000783908": 57,
+      "gas:candidate-vibid:2182000785484": 12,
+      "gas:candidate-vibid:2182000788256": 17,
+      "gas:candidate-vibid:2182000786669": 13,
+      "gas:candidate-vibid:2182000786891": 141
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000049&tvd=2182000744087&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744087&type=464",
@@ -955,13 +955,13 @@ export const duma_2016_uik_463_region_18_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 76,
-      "Бузилов Валерий Викторович": 131,
-      "Гусев Антон Владимирович": 35,
-      "Мишкин Юрий Алексеевич": 12,
-      "Назаров Михаил Геннадьевич": 8,
-      "Тимуршин Руслан Рифгатович": 10,
-      "Юнусов Фарид Анасович": 83
+      "gas:candidate-vibid:2182000785120": 76,
+      "gas:candidate-vibid:2182000787559": 131,
+      "gas:candidate-vibid:2182000783908": 35,
+      "gas:candidate-vibid:2182000785484": 12,
+      "gas:candidate-vibid:2182000788256": 8,
+      "gas:candidate-vibid:2182000786669": 10,
+      "gas:candidate-vibid:2182000786891": 83
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000049&tvd=2182000744087&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744087&type=464",
@@ -1012,13 +1012,13 @@ export const duma_2016_uik_463_region_18_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 98,
-      "Бузилов Валерий Викторович": 260,
-      "Гусев Антон Владимирович": 69,
-      "Мишкин Юрий Алексеевич": 23,
-      "Назаров Михаил Геннадьевич": 32,
-      "Тимуршин Руслан Рифгатович": 19,
-      "Юнусов Фарид Анасович": 176
+      "gas:candidate-vibid:2182000785120": 98,
+      "gas:candidate-vibid:2182000787559": 260,
+      "gas:candidate-vibid:2182000783908": 69,
+      "gas:candidate-vibid:2182000785484": 23,
+      "gas:candidate-vibid:2182000788256": 32,
+      "gas:candidate-vibid:2182000786669": 19,
+      "gas:candidate-vibid:2182000786891": 176
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000049&tvd=2182000744087&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744087&type=464",
@@ -1069,13 +1069,13 @@ export const duma_2016_uik_463_region_18_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 92,
-      "Бузилов Валерий Викторович": 217,
-      "Гусев Антон Владимирович": 65,
-      "Мишкин Юрий Алексеевич": 19,
-      "Назаров Михаил Геннадьевич": 20,
-      "Тимуршин Руслан Рифгатович": 14,
-      "Юнусов Фарид Анасович": 180
+      "gas:candidate-vibid:2182000785120": 92,
+      "gas:candidate-vibid:2182000787559": 217,
+      "gas:candidate-vibid:2182000783908": 65,
+      "gas:candidate-vibid:2182000785484": 19,
+      "gas:candidate-vibid:2182000788256": 20,
+      "gas:candidate-vibid:2182000786669": 14,
+      "gas:candidate-vibid:2182000786891": 180
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000049&tvd=2182000744087&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744087&type=464",
@@ -1126,13 +1126,13 @@ export const duma_2016_uik_463_region_18_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 171,
-      "Бузилов Валерий Викторович": 314,
-      "Гусев Антон Владимирович": 80,
-      "Мишкин Юрий Алексеевич": 25,
-      "Назаров Михаил Геннадьевич": 33,
-      "Тимуршин Руслан Рифгатович": 18,
-      "Юнусов Фарид Анасович": 212
+      "gas:candidate-vibid:2182000785120": 171,
+      "gas:candidate-vibid:2182000787559": 314,
+      "gas:candidate-vibid:2182000783908": 80,
+      "gas:candidate-vibid:2182000785484": 25,
+      "gas:candidate-vibid:2182000788256": 33,
+      "gas:candidate-vibid:2182000786669": 18,
+      "gas:candidate-vibid:2182000786891": 212
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000049&tvd=2182000744087&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744087&type=464",
@@ -1183,13 +1183,13 @@ export const duma_2016_uik_463_region_18_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 136,
-      "Бузилов Валерий Викторович": 287,
-      "Гусев Антон Владимирович": 64,
-      "Мишкин Юрий Алексеевич": 21,
-      "Назаров Михаил Геннадьевич": 31,
-      "Тимуршин Руслан Рифгатович": 14,
-      "Юнусов Фарид Анасович": 247
+      "gas:candidate-vibid:2182000785120": 136,
+      "gas:candidate-vibid:2182000787559": 287,
+      "gas:candidate-vibid:2182000783908": 64,
+      "gas:candidate-vibid:2182000785484": 21,
+      "gas:candidate-vibid:2182000788256": 31,
+      "gas:candidate-vibid:2182000786669": 14,
+      "gas:candidate-vibid:2182000786891": 247
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000049&tvd=2182000744087&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744087&type=464",
@@ -1240,13 +1240,13 @@ export const duma_2016_uik_463_region_18_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 128,
-      "Бузилов Валерий Викторович": 389,
-      "Гусев Антон Владимирович": 94,
-      "Мишкин Юрий Алексеевич": 37,
-      "Назаров Михаил Геннадьевич": 26,
-      "Тимуршин Руслан Рифгатович": 10,
-      "Юнусов Фарид Анасович": 182
+      "gas:candidate-vibid:2182000785120": 128,
+      "gas:candidate-vibid:2182000787559": 389,
+      "gas:candidate-vibid:2182000783908": 94,
+      "gas:candidate-vibid:2182000785484": 37,
+      "gas:candidate-vibid:2182000788256": 26,
+      "gas:candidate-vibid:2182000786669": 10,
+      "gas:candidate-vibid:2182000786891": 182
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000049&tvd=2182000744087&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744087&type=464",
@@ -1297,13 +1297,13 @@ export const duma_2016_uik_463_region_18_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 38,
-      "Бузилов Валерий Викторович": 104,
-      "Гусев Антон Владимирович": 30,
-      "Мишкин Юрий Алексеевич": 6,
-      "Назаров Михаил Геннадьевич": 16,
-      "Тимуршин Руслан Рифгатович": 3,
-      "Юнусов Фарид Анасович": 35
+      "gas:candidate-vibid:2182000785120": 38,
+      "gas:candidate-vibid:2182000787559": 104,
+      "gas:candidate-vibid:2182000783908": 30,
+      "gas:candidate-vibid:2182000785484": 6,
+      "gas:candidate-vibid:2182000788256": 16,
+      "gas:candidate-vibid:2182000786669": 3,
+      "gas:candidate-vibid:2182000786891": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000049&tvd=2182000744087&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744087&type=464",
@@ -1354,13 +1354,13 @@ export const duma_2016_uik_463_region_18_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 100,
-      "Бузилов Валерий Викторович": 150,
-      "Гусев Антон Владимирович": 50,
-      "Мишкин Юрий Алексеевич": 14,
-      "Назаров Михаил Геннадьевич": 37,
-      "Тимуршин Руслан Рифгатович": 8,
-      "Юнусов Фарид Анасович": 62
+      "gas:candidate-vibid:2182000785120": 100,
+      "gas:candidate-vibid:2182000787559": 150,
+      "gas:candidate-vibid:2182000783908": 50,
+      "gas:candidate-vibid:2182000785484": 14,
+      "gas:candidate-vibid:2182000788256": 37,
+      "gas:candidate-vibid:2182000786669": 8,
+      "gas:candidate-vibid:2182000786891": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000049&tvd=2182000744087&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744087&type=464",
@@ -1411,13 +1411,13 @@ export const duma_2016_uik_463_region_18_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 101,
-      "Бузилов Валерий Викторович": 215,
-      "Гусев Антон Владимирович": 45,
-      "Мишкин Юрий Алексеевич": 15,
-      "Назаров Михаил Геннадьевич": 19,
-      "Тимуршин Руслан Рифгатович": 19,
-      "Юнусов Фарид Анасович": 147
+      "gas:candidate-vibid:2182000785120": 101,
+      "gas:candidate-vibid:2182000787559": 215,
+      "gas:candidate-vibid:2182000783908": 45,
+      "gas:candidate-vibid:2182000785484": 15,
+      "gas:candidate-vibid:2182000788256": 19,
+      "gas:candidate-vibid:2182000786669": 19,
+      "gas:candidate-vibid:2182000786891": 147
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000049&tvd=2182000744087&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744087&type=464",
@@ -1468,13 +1468,13 @@ export const duma_2016_uik_463_region_18_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 98,
-      "Бузилов Валерий Викторович": 212,
-      "Гусев Антон Владимирович": 55,
-      "Мишкин Юрий Алексеевич": 12,
-      "Назаров Михаил Геннадьевич": 30,
-      "Тимуршин Руслан Рифгатович": 20,
-      "Юнусов Фарид Анасович": 93
+      "gas:candidate-vibid:2182000785120": 98,
+      "gas:candidate-vibid:2182000787559": 212,
+      "gas:candidate-vibid:2182000783908": 55,
+      "gas:candidate-vibid:2182000785484": 12,
+      "gas:candidate-vibid:2182000788256": 30,
+      "gas:candidate-vibid:2182000786669": 20,
+      "gas:candidate-vibid:2182000786891": 93
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000049&tvd=2182000744087&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744087&type=464",
@@ -1525,13 +1525,13 @@ export const duma_2016_uik_463_region_18_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 78,
-      "Бузилов Валерий Викторович": 167,
-      "Гусев Антон Владимирович": 27,
-      "Мишкин Юрий Алексеевич": 15,
-      "Назаров Михаил Геннадьевич": 16,
-      "Тимуршин Руслан Рифгатович": 13,
-      "Юнусов Фарид Анасович": 97
+      "gas:candidate-vibid:2182000785120": 78,
+      "gas:candidate-vibid:2182000787559": 167,
+      "gas:candidate-vibid:2182000783908": 27,
+      "gas:candidate-vibid:2182000785484": 15,
+      "gas:candidate-vibid:2182000788256": 16,
+      "gas:candidate-vibid:2182000786669": 13,
+      "gas:candidate-vibid:2182000786891": 97
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000049&tvd=2182000744087&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744087&type=464",
@@ -1582,13 +1582,13 @@ export const duma_2016_uik_463_region_18_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 73,
-      "Бузилов Валерий Викторович": 209,
-      "Гусев Антон Владимирович": 40,
-      "Мишкин Юрий Алексеевич": 10,
-      "Назаров Михаил Геннадьевич": 14,
-      "Тимуршин Руслан Рифгатович": 9,
-      "Юнусов Фарид Анасович": 84
+      "gas:candidate-vibid:2182000785120": 73,
+      "gas:candidate-vibid:2182000787559": 209,
+      "gas:candidate-vibid:2182000783908": 40,
+      "gas:candidate-vibid:2182000785484": 10,
+      "gas:candidate-vibid:2182000788256": 14,
+      "gas:candidate-vibid:2182000786669": 9,
+      "gas:candidate-vibid:2182000786891": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000049&tvd=2182000744087&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744087&type=464",
@@ -1639,13 +1639,13 @@ export const duma_2016_uik_463_region_18_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 90,
-      "Бузилов Валерий Викторович": 166,
-      "Гусев Антон Владимирович": 41,
-      "Мишкин Юрий Алексеевич": 9,
-      "Назаров Михаил Геннадьевич": 23,
-      "Тимуршин Руслан Рифгатович": 14,
-      "Юнусов Фарид Анасович": 84
+      "gas:candidate-vibid:2182000785120": 90,
+      "gas:candidate-vibid:2182000787559": 166,
+      "gas:candidate-vibid:2182000783908": 41,
+      "gas:candidate-vibid:2182000785484": 9,
+      "gas:candidate-vibid:2182000788256": 23,
+      "gas:candidate-vibid:2182000786669": 14,
+      "gas:candidate-vibid:2182000786891": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000049&tvd=2182000744087&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744087&type=464",
@@ -1696,13 +1696,13 @@ export const duma_2016_uik_463_region_18_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 203,
-      "Бузилов Валерий Викторович": 310,
-      "Гусев Антон Владимирович": 96,
-      "Мишкин Юрий Алексеевич": 24,
-      "Назаров Михаил Геннадьевич": 44,
-      "Тимуршин Руслан Рифгатович": 17,
-      "Юнусов Фарид Анасович": 207
+      "gas:candidate-vibid:2182000785120": 203,
+      "gas:candidate-vibid:2182000787559": 310,
+      "gas:candidate-vibid:2182000783908": 96,
+      "gas:candidate-vibid:2182000785484": 24,
+      "gas:candidate-vibid:2182000788256": 44,
+      "gas:candidate-vibid:2182000786669": 17,
+      "gas:candidate-vibid:2182000786891": 207
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000049&tvd=2182000744087&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744087&type=464",
@@ -1753,13 +1753,13 @@ export const duma_2016_uik_463_region_18_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 128,
-      "Бузилов Валерий Викторович": 253,
-      "Гусев Антон Владимирович": 77,
-      "Мишкин Юрий Алексеевич": 29,
-      "Назаров Михаил Геннадьевич": 29,
-      "Тимуршин Руслан Рифгатович": 14,
-      "Юнусов Фарид Анасович": 145
+      "gas:candidate-vibid:2182000785120": 128,
+      "gas:candidate-vibid:2182000787559": 253,
+      "gas:candidate-vibid:2182000783908": 77,
+      "gas:candidate-vibid:2182000785484": 29,
+      "gas:candidate-vibid:2182000788256": 29,
+      "gas:candidate-vibid:2182000786669": 14,
+      "gas:candidate-vibid:2182000786891": 145
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000049&tvd=2182000744087&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744087&type=464",
@@ -1810,13 +1810,13 @@ export const duma_2016_uik_463_region_18_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 103,
-      "Бузилов Валерий Викторович": 238,
-      "Гусев Антон Владимирович": 68,
-      "Мишкин Юрий Алексеевич": 20,
-      "Назаров Михаил Геннадьевич": 25,
-      "Тимуршин Руслан Рифгатович": 23,
-      "Юнусов Фарид Анасович": 146
+      "gas:candidate-vibid:2182000785120": 103,
+      "gas:candidate-vibid:2182000787559": 238,
+      "gas:candidate-vibid:2182000783908": 68,
+      "gas:candidate-vibid:2182000785484": 20,
+      "gas:candidate-vibid:2182000788256": 25,
+      "gas:candidate-vibid:2182000786669": 23,
+      "gas:candidate-vibid:2182000786891": 146
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000049&tvd=2182000744087&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744087&type=464",
@@ -1867,13 +1867,13 @@ export const duma_2016_uik_463_region_18_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 157,
-      "Бузилов Валерий Викторович": 351,
-      "Гусев Антон Владимирович": 94,
-      "Мишкин Юрий Алексеевич": 31,
-      "Назаров Михаил Геннадьевич": 38,
-      "Тимуршин Руслан Рифгатович": 39,
-      "Юнусов Фарид Анасович": 224
+      "gas:candidate-vibid:2182000785120": 157,
+      "gas:candidate-vibid:2182000787559": 351,
+      "gas:candidate-vibid:2182000783908": 94,
+      "gas:candidate-vibid:2182000785484": 31,
+      "gas:candidate-vibid:2182000788256": 38,
+      "gas:candidate-vibid:2182000786669": 39,
+      "gas:candidate-vibid:2182000786891": 224
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000049&tvd=2182000744087&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744087&type=464",
@@ -1924,13 +1924,13 @@ export const duma_2016_uik_463_region_18_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 176,
-      "Бузилов Валерий Викторович": 298,
-      "Гусев Антон Владимирович": 75,
-      "Мишкин Юрий Алексеевич": 23,
-      "Назаров Михаил Геннадьевич": 38,
-      "Тимуршин Руслан Рифгатович": 17,
-      "Юнусов Фарид Анасович": 216
+      "gas:candidate-vibid:2182000785120": 176,
+      "gas:candidate-vibid:2182000787559": 298,
+      "gas:candidate-vibid:2182000783908": 75,
+      "gas:candidate-vibid:2182000785484": 23,
+      "gas:candidate-vibid:2182000788256": 38,
+      "gas:candidate-vibid:2182000786669": 17,
+      "gas:candidate-vibid:2182000786891": 216
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000049&tvd=2182000744087&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744087&type=464",
@@ -1981,13 +1981,13 @@ export const duma_2016_uik_463_region_18_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 61,
-      "Бузилов Валерий Викторович": 111,
-      "Гусев Антон Владимирович": 36,
-      "Мишкин Юрий Алексеевич": 13,
-      "Назаров Михаил Геннадьевич": 13,
-      "Тимуршин Руслан Рифгатович": 2,
-      "Юнусов Фарид Анасович": 58
+      "gas:candidate-vibid:2182000785120": 61,
+      "gas:candidate-vibid:2182000787559": 111,
+      "gas:candidate-vibid:2182000783908": 36,
+      "gas:candidate-vibid:2182000785484": 13,
+      "gas:candidate-vibid:2182000788256": 13,
+      "gas:candidate-vibid:2182000786669": 2,
+      "gas:candidate-vibid:2182000786891": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000049&tvd=2182000744087&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744087&type=464",
@@ -2038,13 +2038,13 @@ export const duma_2016_uik_463_region_18_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 148,
-      "Бузилов Валерий Викторович": 353,
-      "Гусев Антон Владимирович": 94,
-      "Мишкин Юрий Алексеевич": 24,
-      "Назаров Михаил Геннадьевич": 32,
-      "Тимуршин Руслан Рифгатович": 29,
-      "Юнусов Фарид Анасович": 168
+      "gas:candidate-vibid:2182000785120": 148,
+      "gas:candidate-vibid:2182000787559": 353,
+      "gas:candidate-vibid:2182000783908": 94,
+      "gas:candidate-vibid:2182000785484": 24,
+      "gas:candidate-vibid:2182000788256": 32,
+      "gas:candidate-vibid:2182000786669": 29,
+      "gas:candidate-vibid:2182000786891": 168
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000049&tvd=2182000744087&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744087&type=464",
@@ -2095,13 +2095,13 @@ export const duma_2016_uik_463_region_18_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 160,
-      "Бузилов Валерий Викторович": 365,
-      "Гусев Антон Владимирович": 89,
-      "Мишкин Юрий Алексеевич": 37,
-      "Назаров Михаил Геннадьевич": 43,
-      "Тимуршин Руслан Рифгатович": 20,
-      "Юнусов Фарид Анасович": 225
+      "gas:candidate-vibid:2182000785120": 160,
+      "gas:candidate-vibid:2182000787559": 365,
+      "gas:candidate-vibid:2182000783908": 89,
+      "gas:candidate-vibid:2182000785484": 37,
+      "gas:candidate-vibid:2182000788256": 43,
+      "gas:candidate-vibid:2182000786669": 20,
+      "gas:candidate-vibid:2182000786891": 225
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000049&tvd=2182000744087&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744087&type=464",
@@ -2152,13 +2152,13 @@ export const duma_2016_uik_463_region_18_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 151,
-      "Бузилов Валерий Викторович": 321,
-      "Гусев Антон Владимирович": 96,
-      "Мишкин Юрий Алексеевич": 20,
-      "Назаров Михаил Геннадьевич": 33,
-      "Тимуршин Руслан Рифгатович": 25,
-      "Юнусов Фарид Анасович": 243
+      "gas:candidate-vibid:2182000785120": 151,
+      "gas:candidate-vibid:2182000787559": 321,
+      "gas:candidate-vibid:2182000783908": 96,
+      "gas:candidate-vibid:2182000785484": 20,
+      "gas:candidate-vibid:2182000788256": 33,
+      "gas:candidate-vibid:2182000786669": 25,
+      "gas:candidate-vibid:2182000786891": 243
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000049&tvd=2182000744087&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744087&type=464",
@@ -2209,13 +2209,13 @@ export const duma_2016_uik_463_region_18_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 94,
-      "Бузилов Валерий Викторович": 224,
-      "Гусев Антон Владимирович": 60,
-      "Мишкин Юрий Алексеевич": 13,
-      "Назаров Михаил Геннадьевич": 24,
-      "Тимуршин Руслан Рифгатович": 9,
-      "Юнусов Фарид Анасович": 130
+      "gas:candidate-vibid:2182000785120": 94,
+      "gas:candidate-vibid:2182000787559": 224,
+      "gas:candidate-vibid:2182000783908": 60,
+      "gas:candidate-vibid:2182000785484": 13,
+      "gas:candidate-vibid:2182000788256": 24,
+      "gas:candidate-vibid:2182000786669": 9,
+      "gas:candidate-vibid:2182000786891": 130
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000049&tvd=2182000744087&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744087&type=464",
@@ -2266,13 +2266,13 @@ export const duma_2016_uik_463_region_18_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 118,
-      "Бузилов Валерий Викторович": 242,
-      "Гусев Антон Владимирович": 61,
-      "Мишкин Юрий Алексеевич": 29,
-      "Назаров Михаил Геннадьевич": 18,
-      "Тимуршин Руслан Рифгатович": 10,
-      "Юнусов Фарид Анасович": 184
+      "gas:candidate-vibid:2182000785120": 118,
+      "gas:candidate-vibid:2182000787559": 242,
+      "gas:candidate-vibid:2182000783908": 61,
+      "gas:candidate-vibid:2182000785484": 29,
+      "gas:candidate-vibid:2182000788256": 18,
+      "gas:candidate-vibid:2182000786669": 10,
+      "gas:candidate-vibid:2182000786891": 184
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000049&tvd=2182000744087&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744087&type=464",
@@ -2323,13 +2323,13 @@ export const duma_2016_uik_463_region_18_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 194,
-      "Бузилов Валерий Викторович": 393,
-      "Гусев Антон Владимирович": 116,
-      "Мишкин Юрий Алексеевич": 26,
-      "Назаров Михаил Геннадьевич": 32,
-      "Тимуршин Руслан Рифгатович": 26,
-      "Юнусов Фарид Анасович": 241
+      "gas:candidate-vibid:2182000785120": 194,
+      "gas:candidate-vibid:2182000787559": 393,
+      "gas:candidate-vibid:2182000783908": 116,
+      "gas:candidate-vibid:2182000785484": 26,
+      "gas:candidate-vibid:2182000788256": 32,
+      "gas:candidate-vibid:2182000786669": 26,
+      "gas:candidate-vibid:2182000786891": 241
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000049&tvd=2182000744087&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744087&type=464",
@@ -2380,13 +2380,13 @@ export const duma_2016_uik_463_region_18_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 113,
-      "Бузилов Валерий Викторович": 186,
-      "Гусев Антон Владимирович": 59,
-      "Мишкин Юрий Алексеевич": 19,
-      "Назаров Михаил Геннадьевич": 23,
-      "Тимуршин Руслан Рифгатович": 13,
-      "Юнусов Фарид Анасович": 115
+      "gas:candidate-vibid:2182000785120": 113,
+      "gas:candidate-vibid:2182000787559": 186,
+      "gas:candidate-vibid:2182000783908": 59,
+      "gas:candidate-vibid:2182000785484": 19,
+      "gas:candidate-vibid:2182000788256": 23,
+      "gas:candidate-vibid:2182000786669": 13,
+      "gas:candidate-vibid:2182000786891": 115
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000049&tvd=2182000744087&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744087&type=464",
@@ -2437,13 +2437,13 @@ export const duma_2016_uik_463_region_18_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 94,
-      "Бузилов Валерий Викторович": 277,
-      "Гусев Антон Владимирович": 74,
-      "Мишкин Юрий Алексеевич": 16,
-      "Назаров Михаил Геннадьевич": 31,
-      "Тимуршин Руслан Рифгатович": 21,
-      "Юнусов Фарид Анасович": 130
+      "gas:candidate-vibid:2182000785120": 94,
+      "gas:candidate-vibid:2182000787559": 277,
+      "gas:candidate-vibid:2182000783908": 74,
+      "gas:candidate-vibid:2182000785484": 16,
+      "gas:candidate-vibid:2182000788256": 31,
+      "gas:candidate-vibid:2182000786669": 21,
+      "gas:candidate-vibid:2182000786891": 130
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000049&tvd=2182000744087&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744087&type=464",
@@ -2494,13 +2494,13 @@ export const duma_2016_uik_463_region_18_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 154,
-      "Бузилов Валерий Викторович": 320,
-      "Гусев Антон Владимирович": 91,
-      "Мишкин Юрий Алексеевич": 28,
-      "Назаров Михаил Геннадьевич": 32,
-      "Тимуршин Руслан Рифгатович": 18,
-      "Юнусов Фарид Анасович": 202
+      "gas:candidate-vibid:2182000785120": 154,
+      "gas:candidate-vibid:2182000787559": 320,
+      "gas:candidate-vibid:2182000783908": 91,
+      "gas:candidate-vibid:2182000785484": 28,
+      "gas:candidate-vibid:2182000788256": 32,
+      "gas:candidate-vibid:2182000786669": 18,
+      "gas:candidate-vibid:2182000786891": 202
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000049&tvd=2182000744087&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744087&type=464",
@@ -2551,13 +2551,13 @@ export const duma_2016_uik_463_region_18_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 160,
-      "Бузилов Валерий Викторович": 310,
-      "Гусев Антон Владимирович": 90,
-      "Мишкин Юрий Алексеевич": 20,
-      "Назаров Михаил Геннадьевич": 30,
-      "Тимуршин Руслан Рифгатович": 28,
-      "Юнусов Фарид Анасович": 181
+      "gas:candidate-vibid:2182000785120": 160,
+      "gas:candidate-vibid:2182000787559": 310,
+      "gas:candidate-vibid:2182000783908": 90,
+      "gas:candidate-vibid:2182000785484": 20,
+      "gas:candidate-vibid:2182000788256": 30,
+      "gas:candidate-vibid:2182000786669": 28,
+      "gas:candidate-vibid:2182000786891": 181
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000049&tvd=2182000744087&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744087&type=464",
@@ -2608,13 +2608,13 @@ export const duma_2016_uik_463_region_18_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 188,
-      "Бузилов Валерий Викторович": 466,
-      "Гусев Антон Владимирович": 95,
-      "Мишкин Юрий Алексеевич": 34,
-      "Назаров Михаил Геннадьевич": 50,
-      "Тимуршин Руслан Рифгатович": 33,
-      "Юнусов Фарид Анасович": 251
+      "gas:candidate-vibid:2182000785120": 188,
+      "gas:candidate-vibid:2182000787559": 466,
+      "gas:candidate-vibid:2182000783908": 95,
+      "gas:candidate-vibid:2182000785484": 34,
+      "gas:candidate-vibid:2182000788256": 50,
+      "gas:candidate-vibid:2182000786669": 33,
+      "gas:candidate-vibid:2182000786891": 251
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000049&tvd=2182000744087&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744087&type=464",
@@ -2665,13 +2665,13 @@ export const duma_2016_uik_463_region_18_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 150,
-      "Бузилов Валерий Викторович": 276,
-      "Гусев Антон Владимирович": 87,
-      "Мишкин Юрий Алексеевич": 19,
-      "Назаров Михаил Геннадьевич": 36,
-      "Тимуршин Руслан Рифгатович": 28,
-      "Юнусов Фарид Анасович": 220
+      "gas:candidate-vibid:2182000785120": 150,
+      "gas:candidate-vibid:2182000787559": 276,
+      "gas:candidate-vibid:2182000783908": 87,
+      "gas:candidate-vibid:2182000785484": 19,
+      "gas:candidate-vibid:2182000788256": 36,
+      "gas:candidate-vibid:2182000786669": 28,
+      "gas:candidate-vibid:2182000786891": 220
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000049&tvd=2182000744087&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744087&type=464",
@@ -2722,13 +2722,13 @@ export const duma_2016_uik_463_region_18_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 173,
-      "Бузилов Валерий Викторович": 324,
-      "Гусев Антон Владимирович": 97,
-      "Мишкин Юрий Алексеевич": 25,
-      "Назаров Михаил Геннадьевич": 31,
-      "Тимуршин Руслан Рифгатович": 25,
-      "Юнусов Фарид Анасович": 222
+      "gas:candidate-vibid:2182000785120": 173,
+      "gas:candidate-vibid:2182000787559": 324,
+      "gas:candidate-vibid:2182000783908": 97,
+      "gas:candidate-vibid:2182000785484": 25,
+      "gas:candidate-vibid:2182000788256": 31,
+      "gas:candidate-vibid:2182000786669": 25,
+      "gas:candidate-vibid:2182000786891": 222
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000049&tvd=2182000744087&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744087&type=464",
@@ -2779,13 +2779,13 @@ export const duma_2016_uik_463_region_18_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 148,
-      "Бузилов Валерий Викторович": 331,
-      "Гусев Антон Владимирович": 102,
-      "Мишкин Юрий Алексеевич": 24,
-      "Назаров Михаил Геннадьевич": 25,
-      "Тимуршин Руслан Рифгатович": 21,
-      "Юнусов Фарид Анасович": 190
+      "gas:candidate-vibid:2182000785120": 148,
+      "gas:candidate-vibid:2182000787559": 331,
+      "gas:candidate-vibid:2182000783908": 102,
+      "gas:candidate-vibid:2182000785484": 24,
+      "gas:candidate-vibid:2182000788256": 25,
+      "gas:candidate-vibid:2182000786669": 21,
+      "gas:candidate-vibid:2182000786891": 190
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000049&tvd=2182000744087&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744087&type=464",
@@ -2836,13 +2836,13 @@ export const duma_2016_uik_463_region_18_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 31,
-      "Бузилов Валерий Викторович": 126,
-      "Гусев Антон Владимирович": 27,
-      "Мишкин Юрий Алексеевич": 6,
-      "Назаров Михаил Геннадьевич": 8,
-      "Тимуршин Руслан Рифгатович": 6,
-      "Юнусов Фарид Анасович": 25
+      "gas:candidate-vibid:2182000785120": 31,
+      "gas:candidate-vibid:2182000787559": 126,
+      "gas:candidate-vibid:2182000783908": 27,
+      "gas:candidate-vibid:2182000785484": 6,
+      "gas:candidate-vibid:2182000788256": 8,
+      "gas:candidate-vibid:2182000786669": 6,
+      "gas:candidate-vibid:2182000786891": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000049&tvd=2182000744087&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744087&type=464",
@@ -2893,13 +2893,13 @@ export const duma_2016_uik_463_region_18_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 60,
-      "Бузилов Валерий Викторович": 183,
-      "Гусев Антон Владимирович": 26,
-      "Мишкин Юрий Алексеевич": 10,
-      "Назаров Михаил Геннадьевич": 14,
-      "Тимуршин Руслан Рифгатович": 6,
-      "Юнусов Фарид Анасович": 105
+      "gas:candidate-vibid:2182000785120": 60,
+      "gas:candidate-vibid:2182000787559": 183,
+      "gas:candidate-vibid:2182000783908": 26,
+      "gas:candidate-vibid:2182000785484": 10,
+      "gas:candidate-vibid:2182000788256": 14,
+      "gas:candidate-vibid:2182000786669": 6,
+      "gas:candidate-vibid:2182000786891": 105
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000049&tvd=2182000744087&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744087&type=464",
@@ -2950,13 +2950,13 @@ export const duma_2016_uik_463_region_18_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 2,
-      "Бузилов Валерий Викторович": 27,
-      "Гусев Антон Владимирович": 5,
-      "Мишкин Юрий Алексеевич": 0,
-      "Назаров Михаил Геннадьевич": 0,
-      "Тимуршин Руслан Рифгатович": 0,
-      "Юнусов Фарид Анасович": 1
+      "gas:candidate-vibid:2182000785120": 2,
+      "gas:candidate-vibid:2182000787559": 27,
+      "gas:candidate-vibid:2182000783908": 5,
+      "gas:candidate-vibid:2182000785484": 0,
+      "gas:candidate-vibid:2182000788256": 0,
+      "gas:candidate-vibid:2182000786669": 0,
+      "gas:candidate-vibid:2182000786891": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000049&tvd=2182000744087&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744087&type=464",
@@ -3007,13 +3007,13 @@ export const duma_2016_uik_463_region_18_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 62,
-      "Бузилов Валерий Викторович": 201,
-      "Гусев Антон Владимирович": 54,
-      "Мишкин Юрий Алексеевич": 11,
-      "Назаров Михаил Геннадьевич": 47,
-      "Тимуршин Руслан Рифгатович": 17,
-      "Юнусов Фарид Анасович": 105
+      "gas:candidate-vibid:2182000785120": 62,
+      "gas:candidate-vibid:2182000787559": 201,
+      "gas:candidate-vibid:2182000783908": 54,
+      "gas:candidate-vibid:2182000785484": 11,
+      "gas:candidate-vibid:2182000788256": 47,
+      "gas:candidate-vibid:2182000786669": 17,
+      "gas:candidate-vibid:2182000786891": 105
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000049&tvd=2182000744087&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744087&type=464",
@@ -3064,13 +3064,13 @@ export const duma_2016_uik_463_region_18_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 176,
-      "Бузилов Валерий Викторович": 290,
-      "Гусев Антон Владимирович": 75,
-      "Мишкин Юрий Алексеевич": 33,
-      "Назаров Михаил Геннадьевич": 28,
-      "Тимуршин Руслан Рифгатович": 21,
-      "Юнусов Фарид Анасович": 219
+      "gas:candidate-vibid:2182000785120": 176,
+      "gas:candidate-vibid:2182000787559": 290,
+      "gas:candidate-vibid:2182000783908": 75,
+      "gas:candidate-vibid:2182000785484": 33,
+      "gas:candidate-vibid:2182000788256": 28,
+      "gas:candidate-vibid:2182000786669": 21,
+      "gas:candidate-vibid:2182000786891": 219
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000049&tvd=2182000744087&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744087&type=464",
@@ -3121,13 +3121,13 @@ export const duma_2016_uik_463_region_18_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 125,
-      "Бузилов Валерий Викторович": 270,
-      "Гусев Антон Владимирович": 77,
-      "Мишкин Юрий Алексеевич": 22,
-      "Назаров Михаил Геннадьевич": 40,
-      "Тимуршин Руслан Рифгатович": 24,
-      "Юнусов Фарид Анасович": 182
+      "gas:candidate-vibid:2182000785120": 125,
+      "gas:candidate-vibid:2182000787559": 270,
+      "gas:candidate-vibid:2182000783908": 77,
+      "gas:candidate-vibid:2182000785484": 22,
+      "gas:candidate-vibid:2182000788256": 40,
+      "gas:candidate-vibid:2182000786669": 24,
+      "gas:candidate-vibid:2182000786891": 182
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000049&tvd=2182000744087&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744087&type=464",
@@ -3178,13 +3178,13 @@ export const duma_2016_uik_463_region_18_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 103,
-      "Бузилов Валерий Викторович": 272,
-      "Гусев Антон Владимирович": 59,
-      "Мишкин Юрий Алексеевич": 28,
-      "Назаров Михаил Геннадьевич": 26,
-      "Тимуршин Руслан Рифгатович": 15,
-      "Юнусов Фарид Анасович": 153
+      "gas:candidate-vibid:2182000785120": 103,
+      "gas:candidate-vibid:2182000787559": 272,
+      "gas:candidate-vibid:2182000783908": 59,
+      "gas:candidate-vibid:2182000785484": 28,
+      "gas:candidate-vibid:2182000788256": 26,
+      "gas:candidate-vibid:2182000786669": 15,
+      "gas:candidate-vibid:2182000786891": 153
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000049&tvd=2182000744087&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744087&type=464",
@@ -3235,13 +3235,13 @@ export const duma_2016_uik_463_region_18_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 21,
-      "Бузилов Валерий Викторович": 60,
-      "Гусев Антон Владимирович": 16,
-      "Мишкин Юрий Алексеевич": 5,
-      "Назаров Михаил Геннадьевич": 2,
-      "Тимуршин Руслан Рифгатович": 6,
-      "Юнусов Фарид Анасович": 38
+      "gas:candidate-vibid:2182000785120": 21,
+      "gas:candidate-vibid:2182000787559": 60,
+      "gas:candidate-vibid:2182000783908": 16,
+      "gas:candidate-vibid:2182000785484": 5,
+      "gas:candidate-vibid:2182000788256": 2,
+      "gas:candidate-vibid:2182000786669": 6,
+      "gas:candidate-vibid:2182000786891": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000049&tvd=2182000744087&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744087&type=464",
@@ -3292,13 +3292,13 @@ export const duma_2016_uik_463_region_18_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 35,
-      "Бузилов Валерий Викторович": 113,
-      "Гусев Антон Владимирович": 33,
-      "Мишкин Юрий Алексеевич": 2,
-      "Назаров Михаил Геннадьевич": 10,
-      "Тимуршин Руслан Рифгатович": 7,
-      "Юнусов Фарид Анасович": 31
+      "gas:candidate-vibid:2182000785120": 35,
+      "gas:candidate-vibid:2182000787559": 113,
+      "gas:candidate-vibid:2182000783908": 33,
+      "gas:candidate-vibid:2182000785484": 2,
+      "gas:candidate-vibid:2182000788256": 10,
+      "gas:candidate-vibid:2182000786669": 7,
+      "gas:candidate-vibid:2182000786891": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000049&tvd=2182000744087&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744087&type=464",
@@ -3349,13 +3349,13 @@ export const duma_2016_uik_463_region_18_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 69,
-      "Бузилов Валерий Викторович": 126,
-      "Гусев Антон Владимирович": 27,
-      "Мишкин Юрий Алексеевич": 8,
-      "Назаров Михаил Геннадьевич": 37,
-      "Тимуршин Руслан Рифгатович": 8,
-      "Юнусов Фарид Анасович": 38
+      "gas:candidate-vibid:2182000785120": 69,
+      "gas:candidate-vibid:2182000787559": 126,
+      "gas:candidate-vibid:2182000783908": 27,
+      "gas:candidate-vibid:2182000785484": 8,
+      "gas:candidate-vibid:2182000788256": 37,
+      "gas:candidate-vibid:2182000786669": 8,
+      "gas:candidate-vibid:2182000786891": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000049&tvd=2182000744087&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744087&type=464",
@@ -3406,13 +3406,13 @@ export const duma_2016_uik_463_region_18_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 6,
-      "Бузилов Валерий Викторович": 32,
-      "Гусев Антон Владимирович": 3,
-      "Мишкин Юрий Алексеевич": 0,
-      "Назаров Михаил Геннадьевич": 2,
-      "Тимуршин Руслан Рифгатович": 0,
-      "Юнусов Фарид Анасович": 7
+      "gas:candidate-vibid:2182000785120": 6,
+      "gas:candidate-vibid:2182000787559": 32,
+      "gas:candidate-vibid:2182000783908": 3,
+      "gas:candidate-vibid:2182000785484": 0,
+      "gas:candidate-vibid:2182000788256": 2,
+      "gas:candidate-vibid:2182000786669": 0,
+      "gas:candidate-vibid:2182000786891": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000049&tvd=2182000744087&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744087&type=464",
@@ -3463,13 +3463,13 @@ export const duma_2016_uik_463_region_18_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 4,
-      "Бузилов Валерий Викторович": 11,
-      "Гусев Антон Владимирович": 1,
-      "Мишкин Юрий Алексеевич": 1,
-      "Назаров Михаил Геннадьевич": 2,
-      "Тимуршин Руслан Рифгатович": 0,
-      "Юнусов Фарид Анасович": 5
+      "gas:candidate-vibid:2182000785120": 4,
+      "gas:candidate-vibid:2182000787559": 11,
+      "gas:candidate-vibid:2182000783908": 1,
+      "gas:candidate-vibid:2182000785484": 1,
+      "gas:candidate-vibid:2182000788256": 2,
+      "gas:candidate-vibid:2182000786669": 0,
+      "gas:candidate-vibid:2182000786891": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000049&tvd=2182000744087&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744087&type=464",
@@ -3520,13 +3520,13 @@ export const duma_2016_uik_463_region_18_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 10,
-      "Бузилов Валерий Викторович": 19,
-      "Гусев Антон Владимирович": 2,
-      "Мишкин Юрий Алексеевич": 0,
-      "Назаров Михаил Геннадьевич": 0,
-      "Тимуршин Руслан Рифгатович": 0,
-      "Юнусов Фарид Анасович": 13
+      "gas:candidate-vibid:2182000785120": 10,
+      "gas:candidate-vibid:2182000787559": 19,
+      "gas:candidate-vibid:2182000783908": 2,
+      "gas:candidate-vibid:2182000785484": 0,
+      "gas:candidate-vibid:2182000788256": 0,
+      "gas:candidate-vibid:2182000786669": 0,
+      "gas:candidate-vibid:2182000786891": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000049&tvd=2182000744087&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744087&type=464",
@@ -3577,13 +3577,13 @@ export const duma_2016_uik_463_region_18_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 4,
-      "Бузилов Валерий Викторович": 15,
-      "Гусев Антон Владимирович": 3,
-      "Мишкин Юрий Алексеевич": 2,
-      "Назаров Михаил Геннадьевич": 0,
-      "Тимуршин Руслан Рифгатович": 1,
-      "Юнусов Фарид Анасович": 6
+      "gas:candidate-vibid:2182000785120": 4,
+      "gas:candidate-vibid:2182000787559": 15,
+      "gas:candidate-vibid:2182000783908": 3,
+      "gas:candidate-vibid:2182000785484": 2,
+      "gas:candidate-vibid:2182000788256": 0,
+      "gas:candidate-vibid:2182000786669": 1,
+      "gas:candidate-vibid:2182000786891": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000049&tvd=2182000744087&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744087&type=464",
@@ -3634,13 +3634,13 @@ export const duma_2016_uik_463_region_18_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 5,
-      "Бузилов Валерий Викторович": 15,
-      "Гусев Антон Владимирович": 3,
-      "Мишкин Юрий Алексеевич": 4,
-      "Назаров Михаил Геннадьевич": 0,
-      "Тимуршин Руслан Рифгатович": 0,
-      "Юнусов Фарид Анасович": 12
+      "gas:candidate-vibid:2182000785120": 5,
+      "gas:candidate-vibid:2182000787559": 15,
+      "gas:candidate-vibid:2182000783908": 3,
+      "gas:candidate-vibid:2182000785484": 4,
+      "gas:candidate-vibid:2182000788256": 0,
+      "gas:candidate-vibid:2182000786669": 0,
+      "gas:candidate-vibid:2182000786891": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000049&tvd=2182000744087&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744087&type=464",
@@ -3691,13 +3691,13 @@ export const duma_2016_uik_463_region_18_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 99,
-      "Бузилов Валерий Викторович": 223,
-      "Гусев Антон Владимирович": 55,
-      "Мишкин Юрий Алексеевич": 18,
-      "Назаров Михаил Геннадьевич": 19,
-      "Тимуршин Руслан Рифгатович": 9,
-      "Юнусов Фарид Анасович": 88
+      "gas:candidate-vibid:2182000785120": 99,
+      "gas:candidate-vibid:2182000787559": 223,
+      "gas:candidate-vibid:2182000783908": 55,
+      "gas:candidate-vibid:2182000785484": 18,
+      "gas:candidate-vibid:2182000788256": 19,
+      "gas:candidate-vibid:2182000786669": 9,
+      "gas:candidate-vibid:2182000786891": 88
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000049&tvd=2182000744088&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744088&type=464",
@@ -3748,13 +3748,13 @@ export const duma_2016_uik_463_region_18_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 76,
-      "Бузилов Валерий Викторович": 258,
-      "Гусев Антон Владимирович": 98,
-      "Мишкин Юрий Алексеевич": 16,
-      "Назаров Михаил Геннадьевич": 8,
-      "Тимуршин Руслан Рифгатович": 9,
-      "Юнусов Фарид Анасович": 101
+      "gas:candidate-vibid:2182000785120": 76,
+      "gas:candidate-vibid:2182000787559": 258,
+      "gas:candidate-vibid:2182000783908": 98,
+      "gas:candidate-vibid:2182000785484": 16,
+      "gas:candidate-vibid:2182000788256": 8,
+      "gas:candidate-vibid:2182000786669": 9,
+      "gas:candidate-vibid:2182000786891": 101
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000049&tvd=2182000744088&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744088&type=464",
@@ -3805,13 +3805,13 @@ export const duma_2016_uik_463_region_18_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 85,
-      "Бузилов Валерий Викторович": 217,
-      "Гусев Антон Владимирович": 76,
-      "Мишкин Юрий Алексеевич": 14,
-      "Назаров Михаил Геннадьевич": 11,
-      "Тимуршин Руслан Рифгатович": 8,
-      "Юнусов Фарид Анасович": 124
+      "gas:candidate-vibid:2182000785120": 85,
+      "gas:candidate-vibid:2182000787559": 217,
+      "gas:candidate-vibid:2182000783908": 76,
+      "gas:candidate-vibid:2182000785484": 14,
+      "gas:candidate-vibid:2182000788256": 11,
+      "gas:candidate-vibid:2182000786669": 8,
+      "gas:candidate-vibid:2182000786891": 124
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000049&tvd=2182000744088&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744088&type=464",
@@ -3862,13 +3862,13 @@ export const duma_2016_uik_463_region_18_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 89,
-      "Бузилов Валерий Викторович": 184,
-      "Гусев Антон Владимирович": 67,
-      "Мишкин Юрий Алексеевич": 17,
-      "Назаров Михаил Геннадьевич": 9,
-      "Тимуршин Руслан Рифгатович": 11,
-      "Юнусов Фарид Анасович": 70
+      "gas:candidate-vibid:2182000785120": 89,
+      "gas:candidate-vibid:2182000787559": 184,
+      "gas:candidate-vibid:2182000783908": 67,
+      "gas:candidate-vibid:2182000785484": 17,
+      "gas:candidate-vibid:2182000788256": 9,
+      "gas:candidate-vibid:2182000786669": 11,
+      "gas:candidate-vibid:2182000786891": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000049&tvd=2182000744088&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744088&type=464",
@@ -3919,13 +3919,13 @@ export const duma_2016_uik_463_region_18_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 114,
-      "Бузилов Валерий Викторович": 369,
-      "Гусев Антон Владимирович": 76,
-      "Мишкин Юрий Алексеевич": 26,
-      "Назаров Михаил Геннадьевич": 11,
-      "Тимуршин Руслан Рифгатович": 9,
-      "Юнусов Фарид Анасович": 128
+      "gas:candidate-vibid:2182000785120": 114,
+      "gas:candidate-vibid:2182000787559": 369,
+      "gas:candidate-vibid:2182000783908": 76,
+      "gas:candidate-vibid:2182000785484": 26,
+      "gas:candidate-vibid:2182000788256": 11,
+      "gas:candidate-vibid:2182000786669": 9,
+      "gas:candidate-vibid:2182000786891": 128
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000049&tvd=2182000744088&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744088&type=464",
@@ -3976,13 +3976,13 @@ export const duma_2016_uik_463_region_18_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 82,
-      "Бузилов Валерий Викторович": 160,
-      "Гусев Антон Владимирович": 40,
-      "Мишкин Юрий Алексеевич": 7,
-      "Назаров Михаил Геннадьевич": 8,
-      "Тимуршин Руслан Рифгатович": 7,
-      "Юнусов Фарид Анасович": 59
+      "gas:candidate-vibid:2182000785120": 82,
+      "gas:candidate-vibid:2182000787559": 160,
+      "gas:candidate-vibid:2182000783908": 40,
+      "gas:candidate-vibid:2182000785484": 7,
+      "gas:candidate-vibid:2182000788256": 8,
+      "gas:candidate-vibid:2182000786669": 7,
+      "gas:candidate-vibid:2182000786891": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000049&tvd=2182000744088&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744088&type=464",
@@ -4033,13 +4033,13 @@ export const duma_2016_uik_463_region_18_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 150,
-      "Бузилов Валерий Викторович": 436,
-      "Гусев Антон Владимирович": 77,
-      "Мишкин Юрий Алексеевич": 30,
-      "Назаров Михаил Геннадьевич": 22,
-      "Тимуршин Руслан Рифгатович": 32,
-      "Юнусов Фарид Анасович": 97
+      "gas:candidate-vibid:2182000785120": 150,
+      "gas:candidate-vibid:2182000787559": 436,
+      "gas:candidate-vibid:2182000783908": 77,
+      "gas:candidate-vibid:2182000785484": 30,
+      "gas:candidate-vibid:2182000788256": 22,
+      "gas:candidate-vibid:2182000786669": 32,
+      "gas:candidate-vibid:2182000786891": 97
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000049&tvd=2182000744088&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744088&type=464",
@@ -4090,13 +4090,13 @@ export const duma_2016_uik_463_region_18_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 72,
-      "Бузилов Валерий Викторович": 232,
-      "Гусев Антон Владимирович": 68,
-      "Мишкин Юрий Алексеевич": 12,
-      "Назаров Михаил Геннадьевич": 5,
-      "Тимуршин Руслан Рифгатович": 14,
-      "Юнусов Фарид Анасович": 76
+      "gas:candidate-vibid:2182000785120": 72,
+      "gas:candidate-vibid:2182000787559": 232,
+      "gas:candidate-vibid:2182000783908": 68,
+      "gas:candidate-vibid:2182000785484": 12,
+      "gas:candidate-vibid:2182000788256": 5,
+      "gas:candidate-vibid:2182000786669": 14,
+      "gas:candidate-vibid:2182000786891": 76
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000049&tvd=2182000744088&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744088&type=464",
@@ -4147,13 +4147,13 @@ export const duma_2016_uik_463_region_18_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 137,
-      "Бузилов Валерий Викторович": 303,
-      "Гусев Антон Владимирович": 82,
-      "Мишкин Юрий Алексеевич": 12,
-      "Назаров Михаил Геннадьевич": 12,
-      "Тимуршин Руслан Рифгатович": 26,
-      "Юнусов Фарид Анасович": 113
+      "gas:candidate-vibid:2182000785120": 137,
+      "gas:candidate-vibid:2182000787559": 303,
+      "gas:candidate-vibid:2182000783908": 82,
+      "gas:candidate-vibid:2182000785484": 12,
+      "gas:candidate-vibid:2182000788256": 12,
+      "gas:candidate-vibid:2182000786669": 26,
+      "gas:candidate-vibid:2182000786891": 113
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000049&tvd=2182000744088&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744088&type=464",
@@ -4204,13 +4204,13 @@ export const duma_2016_uik_463_region_18_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 132,
-      "Бузилов Валерий Викторович": 321,
-      "Гусев Антон Владимирович": 72,
-      "Мишкин Юрий Алексеевич": 26,
-      "Назаров Михаил Геннадьевич": 5,
-      "Тимуршин Руслан Рифгатович": 17,
-      "Юнусов Фарид Анасович": 84
+      "gas:candidate-vibid:2182000785120": 132,
+      "gas:candidate-vibid:2182000787559": 321,
+      "gas:candidate-vibid:2182000783908": 72,
+      "gas:candidate-vibid:2182000785484": 26,
+      "gas:candidate-vibid:2182000788256": 5,
+      "gas:candidate-vibid:2182000786669": 17,
+      "gas:candidate-vibid:2182000786891": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000049&tvd=2182000744088&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744088&type=464",
@@ -4261,13 +4261,13 @@ export const duma_2016_uik_463_region_18_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 126,
-      "Бузилов Валерий Викторович": 379,
-      "Гусев Антон Владимирович": 67,
-      "Мишкин Юрий Алексеевич": 21,
-      "Назаров Михаил Геннадьевич": 12,
-      "Тимуршин Руслан Рифгатович": 21,
-      "Юнусов Фарид Анасович": 87
+      "gas:candidate-vibid:2182000785120": 126,
+      "gas:candidate-vibid:2182000787559": 379,
+      "gas:candidate-vibid:2182000783908": 67,
+      "gas:candidate-vibid:2182000785484": 21,
+      "gas:candidate-vibid:2182000788256": 12,
+      "gas:candidate-vibid:2182000786669": 21,
+      "gas:candidate-vibid:2182000786891": 87
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000049&tvd=2182000744088&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744088&type=464",
@@ -4318,13 +4318,13 @@ export const duma_2016_uik_463_region_18_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 137,
-      "Бузилов Валерий Викторович": 332,
-      "Гусев Антон Владимирович": 96,
-      "Мишкин Юрий Алексеевич": 22,
-      "Назаров Михаил Геннадьевич": 13,
-      "Тимуршин Руслан Рифгатович": 24,
-      "Юнусов Фарид Анасович": 94
+      "gas:candidate-vibid:2182000785120": 137,
+      "gas:candidate-vibid:2182000787559": 332,
+      "gas:candidate-vibid:2182000783908": 96,
+      "gas:candidate-vibid:2182000785484": 22,
+      "gas:candidate-vibid:2182000788256": 13,
+      "gas:candidate-vibid:2182000786669": 24,
+      "gas:candidate-vibid:2182000786891": 94
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000049&tvd=2182000744088&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744088&type=464",
@@ -4375,13 +4375,13 @@ export const duma_2016_uik_463_region_18_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 68,
-      "Бузилов Валерий Викторович": 212,
-      "Гусев Антон Владимирович": 51,
-      "Мишкин Юрий Алексеевич": 13,
-      "Назаров Михаил Геннадьевич": 13,
-      "Тимуршин Руслан Рифгатович": 13,
-      "Юнусов Фарид Анасович": 53
+      "gas:candidate-vibid:2182000785120": 68,
+      "gas:candidate-vibid:2182000787559": 212,
+      "gas:candidate-vibid:2182000783908": 51,
+      "gas:candidate-vibid:2182000785484": 13,
+      "gas:candidate-vibid:2182000788256": 13,
+      "gas:candidate-vibid:2182000786669": 13,
+      "gas:candidate-vibid:2182000786891": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000049&tvd=2182000744088&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744088&type=464",
@@ -4432,13 +4432,13 @@ export const duma_2016_uik_463_region_18_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 60,
-      "Бузилов Валерий Викторович": 197,
-      "Гусев Антон Владимирович": 48,
-      "Мишкин Юрий Алексеевич": 10,
-      "Назаров Михаил Геннадьевич": 13,
-      "Тимуршин Руслан Рифгатович": 17,
-      "Юнусов Фарид Анасович": 63
+      "gas:candidate-vibid:2182000785120": 60,
+      "gas:candidate-vibid:2182000787559": 197,
+      "gas:candidate-vibid:2182000783908": 48,
+      "gas:candidate-vibid:2182000785484": 10,
+      "gas:candidate-vibid:2182000788256": 13,
+      "gas:candidate-vibid:2182000786669": 17,
+      "gas:candidate-vibid:2182000786891": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000049&tvd=2182000744088&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744088&type=464",
@@ -4489,13 +4489,13 @@ export const duma_2016_uik_463_region_18_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 61,
-      "Бузилов Валерий Викторович": 222,
-      "Гусев Антон Владимирович": 56,
-      "Мишкин Юрий Алексеевич": 12,
-      "Назаров Михаил Геннадьевич": 6,
-      "Тимуршин Руслан Рифгатович": 3,
-      "Юнусов Фарид Анасович": 83
+      "gas:candidate-vibid:2182000785120": 61,
+      "gas:candidate-vibid:2182000787559": 222,
+      "gas:candidate-vibid:2182000783908": 56,
+      "gas:candidate-vibid:2182000785484": 12,
+      "gas:candidate-vibid:2182000788256": 6,
+      "gas:candidate-vibid:2182000786669": 3,
+      "gas:candidate-vibid:2182000786891": 83
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000049&tvd=2182000744088&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744088&type=464",
@@ -4546,13 +4546,13 @@ export const duma_2016_uik_463_region_18_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 106,
-      "Бузилов Валерий Викторович": 265,
-      "Гусев Антон Владимирович": 87,
-      "Мишкин Юрий Алексеевич": 22,
-      "Назаров Михаил Геннадьевич": 16,
-      "Тимуршин Руслан Рифгатович": 10,
-      "Юнусов Фарид Анасович": 89
+      "gas:candidate-vibid:2182000785120": 106,
+      "gas:candidate-vibid:2182000787559": 265,
+      "gas:candidate-vibid:2182000783908": 87,
+      "gas:candidate-vibid:2182000785484": 22,
+      "gas:candidate-vibid:2182000788256": 16,
+      "gas:candidate-vibid:2182000786669": 10,
+      "gas:candidate-vibid:2182000786891": 89
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000049&tvd=2182000744088&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744088&type=464",
@@ -4603,13 +4603,13 @@ export const duma_2016_uik_463_region_18_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 69,
-      "Бузилов Валерий Викторович": 167,
-      "Гусев Антон Владимирович": 52,
-      "Мишкин Юрий Алексеевич": 19,
-      "Назаров Михаил Геннадьевич": 13,
-      "Тимуршин Руслан Рифгатович": 18,
-      "Юнусов Фарид Анасович": 69
+      "gas:candidate-vibid:2182000785120": 69,
+      "gas:candidate-vibid:2182000787559": 167,
+      "gas:candidate-vibid:2182000783908": 52,
+      "gas:candidate-vibid:2182000785484": 19,
+      "gas:candidate-vibid:2182000788256": 13,
+      "gas:candidate-vibid:2182000786669": 18,
+      "gas:candidate-vibid:2182000786891": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000049&tvd=2182000744088&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744088&type=464",
@@ -4660,13 +4660,13 @@ export const duma_2016_uik_463_region_18_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 101,
-      "Бузилов Валерий Викторович": 271,
-      "Гусев Антон Владимирович": 80,
-      "Мишкин Юрий Алексеевич": 20,
-      "Назаров Михаил Геннадьевич": 22,
-      "Тимуршин Руслан Рифгатович": 8,
-      "Юнусов Фарид Анасович": 154
+      "gas:candidate-vibid:2182000785120": 101,
+      "gas:candidate-vibid:2182000787559": 271,
+      "gas:candidate-vibid:2182000783908": 80,
+      "gas:candidate-vibid:2182000785484": 20,
+      "gas:candidate-vibid:2182000788256": 22,
+      "gas:candidate-vibid:2182000786669": 8,
+      "gas:candidate-vibid:2182000786891": 154
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000049&tvd=2182000744088&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744088&type=464",
@@ -4717,13 +4717,13 @@ export const duma_2016_uik_463_region_18_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 92,
-      "Бузилов Валерий Викторович": 185,
-      "Гусев Антон Владимирович": 75,
-      "Мишкин Юрий Алексеевич": 20,
-      "Назаров Михаил Геннадьевич": 12,
-      "Тимуршин Руслан Рифгатович": 10,
-      "Юнусов Фарид Анасович": 116
+      "gas:candidate-vibid:2182000785120": 92,
+      "gas:candidate-vibid:2182000787559": 185,
+      "gas:candidate-vibid:2182000783908": 75,
+      "gas:candidate-vibid:2182000785484": 20,
+      "gas:candidate-vibid:2182000788256": 12,
+      "gas:candidate-vibid:2182000786669": 10,
+      "gas:candidate-vibid:2182000786891": 116
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000049&tvd=2182000744088&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744088&type=464",
@@ -4774,13 +4774,13 @@ export const duma_2016_uik_463_region_18_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 61,
-      "Бузилов Валерий Викторович": 137,
-      "Гусев Антон Владимирович": 42,
-      "Мишкин Юрий Алексеевич": 8,
-      "Назаров Михаил Геннадьевич": 4,
-      "Тимуршин Руслан Рифгатович": 7,
-      "Юнусов Фарид Анасович": 86
+      "gas:candidate-vibid:2182000785120": 61,
+      "gas:candidate-vibid:2182000787559": 137,
+      "gas:candidate-vibid:2182000783908": 42,
+      "gas:candidate-vibid:2182000785484": 8,
+      "gas:candidate-vibid:2182000788256": 4,
+      "gas:candidate-vibid:2182000786669": 7,
+      "gas:candidate-vibid:2182000786891": 86
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000049&tvd=2182000744088&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744088&type=464",
@@ -4831,13 +4831,13 @@ export const duma_2016_uik_463_region_18_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 85,
-      "Бузилов Валерий Викторович": 260,
-      "Гусев Антон Владимирович": 66,
-      "Мишкин Юрий Алексеевич": 14,
-      "Назаров Михаил Геннадьевич": 13,
-      "Тимуршин Руслан Рифгатович": 8,
-      "Юнусов Фарид Анасович": 114
+      "gas:candidate-vibid:2182000785120": 85,
+      "gas:candidate-vibid:2182000787559": 260,
+      "gas:candidate-vibid:2182000783908": 66,
+      "gas:candidate-vibid:2182000785484": 14,
+      "gas:candidate-vibid:2182000788256": 13,
+      "gas:candidate-vibid:2182000786669": 8,
+      "gas:candidate-vibid:2182000786891": 114
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000049&tvd=2182000744088&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744088&type=464",
@@ -4888,13 +4888,13 @@ export const duma_2016_uik_463_region_18_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 117,
-      "Бузилов Валерий Викторович": 284,
-      "Гусев Антон Владимирович": 98,
-      "Мишкин Юрий Алексеевич": 22,
-      "Назаров Михаил Геннадьевич": 19,
-      "Тимуршин Руслан Рифгатович": 13,
-      "Юнусов Фарид Анасович": 191
+      "gas:candidate-vibid:2182000785120": 117,
+      "gas:candidate-vibid:2182000787559": 284,
+      "gas:candidate-vibid:2182000783908": 98,
+      "gas:candidate-vibid:2182000785484": 22,
+      "gas:candidate-vibid:2182000788256": 19,
+      "gas:candidate-vibid:2182000786669": 13,
+      "gas:candidate-vibid:2182000786891": 191
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000049&tvd=2182000744088&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744088&type=464",
@@ -4945,13 +4945,13 @@ export const duma_2016_uik_463_region_18_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 64,
-      "Бузилов Валерий Викторович": 186,
-      "Гусев Антон Владимирович": 64,
-      "Мишкин Юрий Алексеевич": 15,
-      "Назаров Михаил Геннадьевич": 13,
-      "Тимуршин Руслан Рифгатович": 8,
-      "Юнусов Фарид Анасович": 122
+      "gas:candidate-vibid:2182000785120": 64,
+      "gas:candidate-vibid:2182000787559": 186,
+      "gas:candidate-vibid:2182000783908": 64,
+      "gas:candidate-vibid:2182000785484": 15,
+      "gas:candidate-vibid:2182000788256": 13,
+      "gas:candidate-vibid:2182000786669": 8,
+      "gas:candidate-vibid:2182000786891": 122
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000049&tvd=2182000744088&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744088&type=464",
@@ -5002,13 +5002,13 @@ export const duma_2016_uik_463_region_18_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 118,
-      "Бузилов Валерий Викторович": 264,
-      "Гусев Антон Владимирович": 68,
-      "Мишкин Юрий Алексеевич": 19,
-      "Назаров Михаил Геннадьевич": 15,
-      "Тимуршин Руслан Рифгатович": 15,
-      "Юнусов Фарид Анасович": 157
+      "gas:candidate-vibid:2182000785120": 118,
+      "gas:candidate-vibid:2182000787559": 264,
+      "gas:candidate-vibid:2182000783908": 68,
+      "gas:candidate-vibid:2182000785484": 19,
+      "gas:candidate-vibid:2182000788256": 15,
+      "gas:candidate-vibid:2182000786669": 15,
+      "gas:candidate-vibid:2182000786891": 157
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000049&tvd=2182000744088&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744088&type=464",
@@ -5059,13 +5059,13 @@ export const duma_2016_uik_463_region_18_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 86,
-      "Бузилов Валерий Викторович": 183,
-      "Гусев Антон Владимирович": 54,
-      "Мишкин Юрий Алексеевич": 26,
-      "Назаров Михаил Геннадьевич": 2,
-      "Тимуршин Руслан Рифгатович": 10,
-      "Юнусов Фарид Анасович": 93
+      "gas:candidate-vibid:2182000785120": 86,
+      "gas:candidate-vibid:2182000787559": 183,
+      "gas:candidate-vibid:2182000783908": 54,
+      "gas:candidate-vibid:2182000785484": 26,
+      "gas:candidate-vibid:2182000788256": 2,
+      "gas:candidate-vibid:2182000786669": 10,
+      "gas:candidate-vibid:2182000786891": 93
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000049&tvd=2182000744088&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744088&type=464",
@@ -5116,13 +5116,13 @@ export const duma_2016_uik_463_region_18_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 99,
-      "Бузилов Валерий Викторович": 246,
-      "Гусев Антон Владимирович": 75,
-      "Мишкин Юрий Алексеевич": 20,
-      "Назаров Михаил Геннадьевич": 15,
-      "Тимуршин Руслан Рифгатович": 7,
-      "Юнусов Фарид Анасович": 172
+      "gas:candidate-vibid:2182000785120": 99,
+      "gas:candidate-vibid:2182000787559": 246,
+      "gas:candidate-vibid:2182000783908": 75,
+      "gas:candidate-vibid:2182000785484": 20,
+      "gas:candidate-vibid:2182000788256": 15,
+      "gas:candidate-vibid:2182000786669": 7,
+      "gas:candidate-vibid:2182000786891": 172
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000049&tvd=2182000744088&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744088&type=464",
@@ -5173,13 +5173,13 @@ export const duma_2016_uik_463_region_18_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 160,
-      "Бузилов Валерий Викторович": 363,
-      "Гусев Антон Владимирович": 104,
-      "Мишкин Юрий Алексеевич": 26,
-      "Назаров Михаил Геннадьевич": 17,
-      "Тимуршин Руслан Рифгатович": 22,
-      "Юнусов Фарид Анасович": 205
+      "gas:candidate-vibid:2182000785120": 160,
+      "gas:candidate-vibid:2182000787559": 363,
+      "gas:candidate-vibid:2182000783908": 104,
+      "gas:candidate-vibid:2182000785484": 26,
+      "gas:candidate-vibid:2182000788256": 17,
+      "gas:candidate-vibid:2182000786669": 22,
+      "gas:candidate-vibid:2182000786891": 205
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000049&tvd=2182000744088&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744088&type=464",
@@ -5230,13 +5230,13 @@ export const duma_2016_uik_463_region_18_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 128,
-      "Бузилов Валерий Викторович": 278,
-      "Гусев Антон Владимирович": 73,
-      "Мишкин Юрий Алексеевич": 30,
-      "Назаров Михаил Геннадьевич": 18,
-      "Тимуршин Руслан Рифгатович": 15,
-      "Юнусов Фарид Анасович": 161
+      "gas:candidate-vibid:2182000785120": 128,
+      "gas:candidate-vibid:2182000787559": 278,
+      "gas:candidate-vibid:2182000783908": 73,
+      "gas:candidate-vibid:2182000785484": 30,
+      "gas:candidate-vibid:2182000788256": 18,
+      "gas:candidate-vibid:2182000786669": 15,
+      "gas:candidate-vibid:2182000786891": 161
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000049&tvd=2182000744088&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744088&type=464",
@@ -5287,13 +5287,13 @@ export const duma_2016_uik_463_region_18_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 102,
-      "Бузилов Валерий Викторович": 239,
-      "Гусев Антон Владимирович": 77,
-      "Мишкин Юрий Алексеевич": 20,
-      "Назаров Михаил Геннадьевич": 9,
-      "Тимуршин Руслан Рифгатович": 8,
-      "Юнусов Фарид Анасович": 135
+      "gas:candidate-vibid:2182000785120": 102,
+      "gas:candidate-vibid:2182000787559": 239,
+      "gas:candidate-vibid:2182000783908": 77,
+      "gas:candidate-vibid:2182000785484": 20,
+      "gas:candidate-vibid:2182000788256": 9,
+      "gas:candidate-vibid:2182000786669": 8,
+      "gas:candidate-vibid:2182000786891": 135
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000049&tvd=2182000744088&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744088&type=464",
@@ -5344,13 +5344,13 @@ export const duma_2016_uik_463_region_18_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 82,
-      "Бузилов Валерий Викторович": 191,
-      "Гусев Антон Владимирович": 46,
-      "Мишкин Юрий Алексеевич": 16,
-      "Назаров Михаил Геннадьевич": 19,
-      "Тимуршин Руслан Рифгатович": 11,
-      "Юнусов Фарид Анасович": 101
+      "gas:candidate-vibid:2182000785120": 82,
+      "gas:candidate-vibid:2182000787559": 191,
+      "gas:candidate-vibid:2182000783908": 46,
+      "gas:candidate-vibid:2182000785484": 16,
+      "gas:candidate-vibid:2182000788256": 19,
+      "gas:candidate-vibid:2182000786669": 11,
+      "gas:candidate-vibid:2182000786891": 101
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000049&tvd=2182000744088&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744088&type=464",
@@ -5401,13 +5401,13 @@ export const duma_2016_uik_463_region_18_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 6,
-      "Бузилов Валерий Викторович": 29,
-      "Гусев Антон Владимирович": 7,
-      "Мишкин Юрий Алексеевич": 1,
-      "Назаров Михаил Геннадьевич": 0,
-      "Тимуршин Руслан Рифгатович": 2,
-      "Юнусов Фарид Анасович": 7
+      "gas:candidate-vibid:2182000785120": 6,
+      "gas:candidate-vibid:2182000787559": 29,
+      "gas:candidate-vibid:2182000783908": 7,
+      "gas:candidate-vibid:2182000785484": 1,
+      "gas:candidate-vibid:2182000788256": 0,
+      "gas:candidate-vibid:2182000786669": 2,
+      "gas:candidate-vibid:2182000786891": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000049&tvd=2182000744088&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744088&type=464",
@@ -5458,13 +5458,13 @@ export const duma_2016_uik_463_region_18_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 80,
-      "Бузилов Валерий Викторович": 243,
-      "Гусев Антон Владимирович": 100,
-      "Мишкин Юрий Алексеевич": 14,
-      "Назаров Михаил Геннадьевич": 14,
-      "Тимуршин Руслан Рифгатович": 11,
-      "Юнусов Фарид Анасович": 110
+      "gas:candidate-vibid:2182000785120": 80,
+      "gas:candidate-vibid:2182000787559": 243,
+      "gas:candidate-vibid:2182000783908": 100,
+      "gas:candidate-vibid:2182000785484": 14,
+      "gas:candidate-vibid:2182000788256": 14,
+      "gas:candidate-vibid:2182000786669": 11,
+      "gas:candidate-vibid:2182000786891": 110
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000049&tvd=2182000744088&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744088&type=464",
@@ -5515,13 +5515,13 @@ export const duma_2016_uik_463_region_18_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 114,
-      "Бузилов Валерий Викторович": 277,
-      "Гусев Антон Владимирович": 77,
-      "Мишкин Юрий Алексеевич": 26,
-      "Назаров Михаил Геннадьевич": 16,
-      "Тимуршин Руслан Рифгатович": 3,
-      "Юнусов Фарид Анасович": 125
+      "gas:candidate-vibid:2182000785120": 114,
+      "gas:candidate-vibid:2182000787559": 277,
+      "gas:candidate-vibid:2182000783908": 77,
+      "gas:candidate-vibid:2182000785484": 26,
+      "gas:candidate-vibid:2182000788256": 16,
+      "gas:candidate-vibid:2182000786669": 3,
+      "gas:candidate-vibid:2182000786891": 125
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000049&tvd=2182000744088&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744088&type=464",
@@ -5572,13 +5572,13 @@ export const duma_2016_uik_463_region_18_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 79,
-      "Бузилов Валерий Викторович": 300,
-      "Гусев Антон Владимирович": 65,
-      "Мишкин Юрий Алексеевич": 18,
-      "Назаров Михаил Геннадьевич": 6,
-      "Тимуршин Руслан Рифгатович": 8,
-      "Юнусов Фарид Анасович": 100
+      "gas:candidate-vibid:2182000785120": 79,
+      "gas:candidate-vibid:2182000787559": 300,
+      "gas:candidate-vibid:2182000783908": 65,
+      "gas:candidate-vibid:2182000785484": 18,
+      "gas:candidate-vibid:2182000788256": 6,
+      "gas:candidate-vibid:2182000786669": 8,
+      "gas:candidate-vibid:2182000786891": 100
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000049&tvd=2182000744088&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744088&type=464",
@@ -5629,13 +5629,13 @@ export const duma_2016_uik_463_region_18_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 59,
-      "Бузилов Валерий Викторович": 162,
-      "Гусев Антон Владимирович": 39,
-      "Мишкин Юрий Алексеевич": 10,
-      "Назаров Михаил Геннадьевич": 5,
-      "Тимуршин Руслан Рифгатович": 6,
-      "Юнусов Фарид Анасович": 52
+      "gas:candidate-vibid:2182000785120": 59,
+      "gas:candidate-vibid:2182000787559": 162,
+      "gas:candidate-vibid:2182000783908": 39,
+      "gas:candidate-vibid:2182000785484": 10,
+      "gas:candidate-vibid:2182000788256": 5,
+      "gas:candidate-vibid:2182000786669": 6,
+      "gas:candidate-vibid:2182000786891": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000049&tvd=2182000744088&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744088&type=464",
@@ -5686,13 +5686,13 @@ export const duma_2016_uik_463_region_18_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 72,
-      "Бузилов Валерий Викторович": 255,
-      "Гусев Антон Владимирович": 50,
-      "Мишкин Юрий Алексеевич": 15,
-      "Назаров Михаил Геннадьевич": 16,
-      "Тимуршин Руслан Рифгатович": 9,
-      "Юнусов Фарид Анасович": 101
+      "gas:candidate-vibid:2182000785120": 72,
+      "gas:candidate-vibid:2182000787559": 255,
+      "gas:candidate-vibid:2182000783908": 50,
+      "gas:candidate-vibid:2182000785484": 15,
+      "gas:candidate-vibid:2182000788256": 16,
+      "gas:candidate-vibid:2182000786669": 9,
+      "gas:candidate-vibid:2182000786891": 101
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000049&tvd=2182000744088&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744088&type=464",
@@ -5743,13 +5743,13 @@ export const duma_2016_uik_463_region_18_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 142,
-      "Бузилов Валерий Викторович": 352,
-      "Гусев Антон Владимирович": 99,
-      "Мишкин Юрий Алексеевич": 23,
-      "Назаров Михаил Геннадьевич": 39,
-      "Тимуршин Руслан Рифгатович": 19,
-      "Юнусов Фарид Анасович": 169
+      "gas:candidate-vibid:2182000785120": 142,
+      "gas:candidate-vibid:2182000787559": 352,
+      "gas:candidate-vibid:2182000783908": 99,
+      "gas:candidate-vibid:2182000785484": 23,
+      "gas:candidate-vibid:2182000788256": 39,
+      "gas:candidate-vibid:2182000786669": 19,
+      "gas:candidate-vibid:2182000786891": 169
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000049&tvd=2182000744088&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744088&type=464",
@@ -5800,13 +5800,13 @@ export const duma_2016_uik_463_region_18_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 85,
-      "Бузилов Валерий Викторович": 314,
-      "Гусев Антон Владимирович": 70,
-      "Мишкин Юрий Алексеевич": 27,
-      "Назаров Михаил Геннадьевич": 6,
-      "Тимуршин Руслан Рифгатович": 7,
-      "Юнусов Фарид Анасович": 127
+      "gas:candidate-vibid:2182000785120": 85,
+      "gas:candidate-vibid:2182000787559": 314,
+      "gas:candidate-vibid:2182000783908": 70,
+      "gas:candidate-vibid:2182000785484": 27,
+      "gas:candidate-vibid:2182000788256": 6,
+      "gas:candidate-vibid:2182000786669": 7,
+      "gas:candidate-vibid:2182000786891": 127
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000049&tvd=2182000744088&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744088&type=464",
@@ -5857,13 +5857,13 @@ export const duma_2016_uik_463_region_18_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 7,
-      "Бузилов Валерий Викторович": 16,
-      "Гусев Антон Владимирович": 0,
-      "Мишкин Юрий Алексеевич": 3,
-      "Назаров Михаил Геннадьевич": 0,
-      "Тимуршин Руслан Рифгатович": 0,
-      "Юнусов Фарид Анасович": 3
+      "gas:candidate-vibid:2182000785120": 7,
+      "gas:candidate-vibid:2182000787559": 16,
+      "gas:candidate-vibid:2182000783908": 0,
+      "gas:candidate-vibid:2182000785484": 3,
+      "gas:candidate-vibid:2182000788256": 0,
+      "gas:candidate-vibid:2182000786669": 0,
+      "gas:candidate-vibid:2182000786891": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000049&tvd=2182000744088&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744088&type=464",
@@ -5914,13 +5914,13 @@ export const duma_2016_uik_463_region_18_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 4,
-      "Бузилов Валерий Викторович": 16,
-      "Гусев Антон Владимирович": 2,
-      "Мишкин Юрий Алексеевич": 3,
-      "Назаров Михаил Геннадьевич": 0,
-      "Тимуршин Руслан Рифгатович": 1,
-      "Юнусов Фарид Анасович": 5
+      "gas:candidate-vibid:2182000785120": 4,
+      "gas:candidate-vibid:2182000787559": 16,
+      "gas:candidate-vibid:2182000783908": 2,
+      "gas:candidate-vibid:2182000785484": 3,
+      "gas:candidate-vibid:2182000788256": 0,
+      "gas:candidate-vibid:2182000786669": 1,
+      "gas:candidate-vibid:2182000786891": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000049&tvd=2182000744088&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744088&type=464",
@@ -5971,13 +5971,13 @@ export const duma_2016_uik_463_region_18_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 126,
-      "Бузилов Валерий Викторович": 223,
-      "Гусев Антон Владимирович": 60,
-      "Мишкин Юрий Алексеевич": 19,
-      "Назаров Михаил Геннадьевич": 20,
-      "Тимуршин Руслан Рифгатович": 10,
-      "Юнусов Фарид Анасович": 131
+      "gas:candidate-vibid:2182000785120": 126,
+      "gas:candidate-vibid:2182000787559": 223,
+      "gas:candidate-vibid:2182000783908": 60,
+      "gas:candidate-vibid:2182000785484": 19,
+      "gas:candidate-vibid:2182000788256": 20,
+      "gas:candidate-vibid:2182000786669": 10,
+      "gas:candidate-vibid:2182000786891": 131
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000049&tvd=2182000744088&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744088&type=464",
@@ -6028,13 +6028,13 @@ export const duma_2016_uik_463_region_18_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 31,
-      "Бузилов Валерий Викторович": 95,
-      "Гусев Антон Владимирович": 29,
-      "Мишкин Юрий Алексеевич": 9,
-      "Назаров Михаил Геннадьевич": 3,
-      "Тимуршин Руслан Рифгатович": 3,
-      "Юнусов Фарид Анасович": 39
+      "gas:candidate-vibid:2182000785120": 31,
+      "gas:candidate-vibid:2182000787559": 95,
+      "gas:candidate-vibid:2182000783908": 29,
+      "gas:candidate-vibid:2182000785484": 9,
+      "gas:candidate-vibid:2182000788256": 3,
+      "gas:candidate-vibid:2182000786669": 3,
+      "gas:candidate-vibid:2182000786891": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000049&tvd=2182000744088&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744088&type=464",
@@ -6085,13 +6085,13 @@ export const duma_2016_uik_463_region_18_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 35,
-      "Бузилов Валерий Викторович": 182,
-      "Гусев Антон Владимирович": 16,
-      "Мишкин Юрий Алексеевич": 17,
-      "Назаров Михаил Геннадьевич": 6,
-      "Тимуршин Руслан Рифгатович": 3,
-      "Юнусов Фарид Анасович": 17
+      "gas:candidate-vibid:2182000785120": 35,
+      "gas:candidate-vibid:2182000787559": 182,
+      "gas:candidate-vibid:2182000783908": 16,
+      "gas:candidate-vibid:2182000785484": 17,
+      "gas:candidate-vibid:2182000788256": 6,
+      "gas:candidate-vibid:2182000786669": 3,
+      "gas:candidate-vibid:2182000786891": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000049&tvd=2182000744088&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744088&type=464",
@@ -6142,13 +6142,13 @@ export const duma_2016_uik_463_region_18_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 91,
-      "Бузилов Валерий Викторович": 252,
-      "Гусев Антон Владимирович": 72,
-      "Мишкин Юрий Алексеевич": 24,
-      "Назаров Михаил Геннадьевич": 11,
-      "Тимуршин Руслан Рифгатович": 15,
-      "Юнусов Фарид Анасович": 131
+      "gas:candidate-vibid:2182000785120": 91,
+      "gas:candidate-vibid:2182000787559": 252,
+      "gas:candidate-vibid:2182000783908": 72,
+      "gas:candidate-vibid:2182000785484": 24,
+      "gas:candidate-vibid:2182000788256": 11,
+      "gas:candidate-vibid:2182000786669": 15,
+      "gas:candidate-vibid:2182000786891": 131
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000049&tvd=2182000744088&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744088&type=464",
@@ -6199,13 +6199,13 @@ export const duma_2016_uik_463_region_18_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 160,
-      "Бузилов Валерий Викторович": 334,
-      "Гусев Антон Владимирович": 103,
-      "Мишкин Юрий Алексеевич": 20,
-      "Назаров Михаил Геннадьевич": 15,
-      "Тимуршин Руслан Рифгатович": 12,
-      "Юнусов Фарид Анасович": 178
+      "gas:candidate-vibid:2182000785120": 160,
+      "gas:candidate-vibid:2182000787559": 334,
+      "gas:candidate-vibid:2182000783908": 103,
+      "gas:candidate-vibid:2182000785484": 20,
+      "gas:candidate-vibid:2182000788256": 15,
+      "gas:candidate-vibid:2182000786669": 12,
+      "gas:candidate-vibid:2182000786891": 178
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000049&tvd=2182000744088&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744088&type=464",
@@ -6256,13 +6256,13 @@ export const duma_2016_uik_463_region_18_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 190,
-      "Бузилов Валерий Викторович": 343,
-      "Гусев Антон Владимирович": 75,
-      "Мишкин Юрий Алексеевич": 24,
-      "Назаров Михаил Геннадьевич": 20,
-      "Тимуршин Руслан Рифгатович": 15,
-      "Юнусов Фарид Анасович": 199
+      "gas:candidate-vibid:2182000785120": 190,
+      "gas:candidate-vibid:2182000787559": 343,
+      "gas:candidate-vibid:2182000783908": 75,
+      "gas:candidate-vibid:2182000785484": 24,
+      "gas:candidate-vibid:2182000788256": 20,
+      "gas:candidate-vibid:2182000786669": 15,
+      "gas:candidate-vibid:2182000786891": 199
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000049&tvd=2182000744088&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744088&type=464",
@@ -6313,13 +6313,13 @@ export const duma_2016_uik_463_region_18_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 113,
-      "Бузилов Валерий Викторович": 200,
-      "Гусев Антон Владимирович": 79,
-      "Мишкин Юрий Алексеевич": 21,
-      "Назаров Михаил Геннадьевич": 13,
-      "Тимуршин Руслан Рифгатович": 10,
-      "Юнусов Фарид Анасович": 158
+      "gas:candidate-vibid:2182000785120": 113,
+      "gas:candidate-vibid:2182000787559": 200,
+      "gas:candidate-vibid:2182000783908": 79,
+      "gas:candidate-vibid:2182000785484": 21,
+      "gas:candidate-vibid:2182000788256": 13,
+      "gas:candidate-vibid:2182000786669": 10,
+      "gas:candidate-vibid:2182000786891": 158
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000049&tvd=2182000744088&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744088&type=464",
@@ -6370,13 +6370,13 @@ export const duma_2016_uik_463_region_18_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 152,
-      "Бузилов Валерий Викторович": 371,
-      "Гусев Антон Владимирович": 97,
-      "Мишкин Юрий Алексеевич": 26,
-      "Назаров Михаил Геннадьевич": 14,
-      "Тимуршин Руслан Рифгатович": 23,
-      "Юнусов Фарид Анасович": 146
+      "gas:candidate-vibid:2182000785120": 152,
+      "gas:candidate-vibid:2182000787559": 371,
+      "gas:candidate-vibid:2182000783908": 97,
+      "gas:candidate-vibid:2182000785484": 26,
+      "gas:candidate-vibid:2182000788256": 14,
+      "gas:candidate-vibid:2182000786669": 23,
+      "gas:candidate-vibid:2182000786891": 146
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000049&tvd=2182000744088&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744088&type=464",
@@ -6427,13 +6427,13 @@ export const duma_2016_uik_463_region_18_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 123,
-      "Бузилов Валерий Викторович": 265,
-      "Гусев Антон Владимирович": 65,
-      "Мишкин Юрий Алексеевич": 19,
-      "Назаров Михаил Геннадьевич": 18,
-      "Тимуршин Руслан Рифгатович": 30,
-      "Юнусов Фарид Анасович": 77
+      "gas:candidate-vibid:2182000785120": 123,
+      "gas:candidate-vibid:2182000787559": 265,
+      "gas:candidate-vibid:2182000783908": 65,
+      "gas:candidate-vibid:2182000785484": 19,
+      "gas:candidate-vibid:2182000788256": 18,
+      "gas:candidate-vibid:2182000786669": 30,
+      "gas:candidate-vibid:2182000786891": 77
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000049&tvd=2182000744088&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744088&type=464",
@@ -6484,13 +6484,13 @@ export const duma_2016_uik_463_region_18_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 110,
-      "Бузилов Валерий Викторович": 367,
-      "Гусев Антон Владимирович": 83,
-      "Мишкин Юрий Алексеевич": 11,
-      "Назаров Михаил Геннадьевич": 9,
-      "Тимуршин Руслан Рифгатович": 11,
-      "Юнусов Фарид Анасович": 123
+      "gas:candidate-vibid:2182000785120": 110,
+      "gas:candidate-vibid:2182000787559": 367,
+      "gas:candidate-vibid:2182000783908": 83,
+      "gas:candidate-vibid:2182000785484": 11,
+      "gas:candidate-vibid:2182000788256": 9,
+      "gas:candidate-vibid:2182000786669": 11,
+      "gas:candidate-vibid:2182000786891": 123
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000049&tvd=2182000744088&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744088&type=464",
@@ -6541,13 +6541,13 @@ export const duma_2016_uik_463_region_18_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 85,
-      "Бузилов Валерий Викторович": 184,
-      "Гусев Антон Владимирович": 57,
-      "Мишкин Юрий Алексеевич": 10,
-      "Назаров Михаил Геннадьевич": 17,
-      "Тимуршин Руслан Рифгатович": 6,
-      "Юнусов Фарид Анасович": 90
+      "gas:candidate-vibid:2182000785120": 85,
+      "gas:candidate-vibid:2182000787559": 184,
+      "gas:candidate-vibid:2182000783908": 57,
+      "gas:candidate-vibid:2182000785484": 10,
+      "gas:candidate-vibid:2182000788256": 17,
+      "gas:candidate-vibid:2182000786669": 6,
+      "gas:candidate-vibid:2182000786891": 90
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000049&tvd=2182000744088&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744088&type=464",
@@ -6598,13 +6598,13 @@ export const duma_2016_uik_463_region_18_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 46,
-      "Бузилов Валерий Викторович": 105,
-      "Гусев Антон Владимирович": 31,
-      "Мишкин Юрий Алексеевич": 7,
-      "Назаров Михаил Геннадьевич": 0,
-      "Тимуршин Руслан Рифгатович": 1,
-      "Юнусов Фарид Анасович": 57
+      "gas:candidate-vibid:2182000785120": 46,
+      "gas:candidate-vibid:2182000787559": 105,
+      "gas:candidate-vibid:2182000783908": 31,
+      "gas:candidate-vibid:2182000785484": 7,
+      "gas:candidate-vibid:2182000788256": 0,
+      "gas:candidate-vibid:2182000786669": 1,
+      "gas:candidate-vibid:2182000786891": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000049&tvd=2182000744088&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744088&type=464",
@@ -6655,13 +6655,13 @@ export const duma_2016_uik_463_region_18_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 131,
-      "Бузилов Валерий Викторович": 321,
-      "Гусев Антон Владимирович": 96,
-      "Мишкин Юрий Алексеевич": 22,
-      "Назаров Михаил Геннадьевич": 22,
-      "Тимуршин Руслан Рифгатович": 16,
-      "Юнусов Фарид Анасович": 119
+      "gas:candidate-vibid:2182000785120": 131,
+      "gas:candidate-vibid:2182000787559": 321,
+      "gas:candidate-vibid:2182000783908": 96,
+      "gas:candidate-vibid:2182000785484": 22,
+      "gas:candidate-vibid:2182000788256": 22,
+      "gas:candidate-vibid:2182000786669": 16,
+      "gas:candidate-vibid:2182000786891": 119
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000049&tvd=2182000744088&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744088&type=464",
@@ -6712,13 +6712,13 @@ export const duma_2016_uik_463_region_18_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 87,
-      "Бузилов Валерий Викторович": 170,
-      "Гусев Антон Владимирович": 43,
-      "Мишкин Юрий Алексеевич": 14,
-      "Назаров Михаил Геннадьевич": 8,
-      "Тимуршин Руслан Рифгатович": 16,
-      "Юнусов Фарид Анасович": 81
+      "gas:candidate-vibid:2182000785120": 87,
+      "gas:candidate-vibid:2182000787559": 170,
+      "gas:candidate-vibid:2182000783908": 43,
+      "gas:candidate-vibid:2182000785484": 14,
+      "gas:candidate-vibid:2182000788256": 8,
+      "gas:candidate-vibid:2182000786669": 16,
+      "gas:candidate-vibid:2182000786891": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000049&tvd=2182000744088&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744088&type=464",
@@ -6769,13 +6769,13 @@ export const duma_2016_uik_463_region_18_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 56,
-      "Бузилов Валерий Викторович": 157,
-      "Гусев Антон Владимирович": 44,
-      "Мишкин Юрий Алексеевич": 9,
-      "Назаров Михаил Геннадьевич": 4,
-      "Тимуршин Руслан Рифгатович": 5,
-      "Юнусов Фарид Анасович": 58
+      "gas:candidate-vibid:2182000785120": 56,
+      "gas:candidate-vibid:2182000787559": 157,
+      "gas:candidate-vibid:2182000783908": 44,
+      "gas:candidate-vibid:2182000785484": 9,
+      "gas:candidate-vibid:2182000788256": 4,
+      "gas:candidate-vibid:2182000786669": 5,
+      "gas:candidate-vibid:2182000786891": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000049&tvd=2182000744088&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744088&type=464",
@@ -6826,13 +6826,13 @@ export const duma_2016_uik_463_region_18_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 36,
-      "Бузилов Валерий Викторович": 112,
-      "Гусев Антон Владимирович": 33,
-      "Мишкин Юрий Алексеевич": 12,
-      "Назаров Михаил Геннадьевич": 7,
-      "Тимуршин Руслан Рифгатович": 5,
-      "Юнусов Фарид Анасович": 43
+      "gas:candidate-vibid:2182000785120": 36,
+      "gas:candidate-vibid:2182000787559": 112,
+      "gas:candidate-vibid:2182000783908": 33,
+      "gas:candidate-vibid:2182000785484": 12,
+      "gas:candidate-vibid:2182000788256": 7,
+      "gas:candidate-vibid:2182000786669": 5,
+      "gas:candidate-vibid:2182000786891": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000049&tvd=2182000744088&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744088&type=464",
@@ -6883,13 +6883,13 @@ export const duma_2016_uik_463_region_18_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 44,
-      "Бузилов Валерий Викторович": 155,
-      "Гусев Антон Владимирович": 49,
-      "Мишкин Юрий Алексеевич": 10,
-      "Назаров Михаил Геннадьевич": 4,
-      "Тимуршин Руслан Рифгатович": 8,
-      "Юнусов Фарид Анасович": 65
+      "gas:candidate-vibid:2182000785120": 44,
+      "gas:candidate-vibid:2182000787559": 155,
+      "gas:candidate-vibid:2182000783908": 49,
+      "gas:candidate-vibid:2182000785484": 10,
+      "gas:candidate-vibid:2182000788256": 4,
+      "gas:candidate-vibid:2182000786669": 8,
+      "gas:candidate-vibid:2182000786891": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000049&tvd=2182000744088&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744088&type=464",
@@ -6940,13 +6940,13 @@ export const duma_2016_uik_463_region_18_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 70,
-      "Бузилов Валерий Викторович": 145,
-      "Гусев Антон Владимирович": 49,
-      "Мишкин Юрий Алексеевич": 8,
-      "Назаров Михаил Геннадьевич": 10,
-      "Тимуршин Руслан Рифгатович": 12,
-      "Юнусов Фарид Анасович": 93
+      "gas:candidate-vibid:2182000785120": 70,
+      "gas:candidate-vibid:2182000787559": 145,
+      "gas:candidate-vibid:2182000783908": 49,
+      "gas:candidate-vibid:2182000785484": 8,
+      "gas:candidate-vibid:2182000788256": 10,
+      "gas:candidate-vibid:2182000786669": 12,
+      "gas:candidate-vibid:2182000786891": 93
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000049&tvd=2182000744088&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744088&type=464",
@@ -6997,13 +6997,13 @@ export const duma_2016_uik_463_region_18_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 233,
-      "Бузилов Валерий Викторович": 1052,
-      "Гусев Антон Владимирович": 143,
-      "Мишкин Юрий Алексеевич": 35,
-      "Назаров Михаил Геннадьевич": 16,
-      "Тимуршин Руслан Рифгатович": 6,
-      "Юнусов Фарид Анасович": 120
+      "gas:candidate-vibid:2182000785120": 233,
+      "gas:candidate-vibid:2182000787559": 1052,
+      "gas:candidate-vibid:2182000783908": 143,
+      "gas:candidate-vibid:2182000785484": 35,
+      "gas:candidate-vibid:2182000788256": 16,
+      "gas:candidate-vibid:2182000786669": 6,
+      "gas:candidate-vibid:2182000786891": 120
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000049&tvd=2182000744089&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744089&type=464",
@@ -7054,13 +7054,13 @@ export const duma_2016_uik_463_region_18_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 18,
-      "Бузилов Валерий Викторович": 83,
-      "Гусев Антон Владимирович": 11,
-      "Мишкин Юрий Алексеевич": 3,
-      "Назаров Михаил Геннадьевич": 1,
-      "Тимуршин Руслан Рифгатович": 0,
-      "Юнусов Фарид Анасович": 4
+      "gas:candidate-vibid:2182000785120": 18,
+      "gas:candidate-vibid:2182000787559": 83,
+      "gas:candidate-vibid:2182000783908": 11,
+      "gas:candidate-vibid:2182000785484": 3,
+      "gas:candidate-vibid:2182000788256": 1,
+      "gas:candidate-vibid:2182000786669": 0,
+      "gas:candidate-vibid:2182000786891": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000049&tvd=2182000744089&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744089&type=464",
@@ -7111,13 +7111,13 @@ export const duma_2016_uik_463_region_18_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 14,
-      "Бузилов Валерий Викторович": 21,
-      "Гусев Антон Владимирович": 0,
-      "Мишкин Юрий Алексеевич": 1,
-      "Назаров Михаил Геннадьевич": 0,
-      "Тимуршин Руслан Рифгатович": 0,
-      "Юнусов Фарид Анасович": 1
+      "gas:candidate-vibid:2182000785120": 14,
+      "gas:candidate-vibid:2182000787559": 21,
+      "gas:candidate-vibid:2182000783908": 0,
+      "gas:candidate-vibid:2182000785484": 1,
+      "gas:candidate-vibid:2182000788256": 0,
+      "gas:candidate-vibid:2182000786669": 0,
+      "gas:candidate-vibid:2182000786891": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000049&tvd=2182000744089&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744089&type=464",
@@ -7168,13 +7168,13 @@ export const duma_2016_uik_463_region_18_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 11,
-      "Бузилов Валерий Викторович": 44,
-      "Гусев Антон Владимирович": 5,
-      "Мишкин Юрий Алексеевич": 3,
-      "Назаров Михаил Геннадьевич": 2,
-      "Тимуршин Руслан Рифгатович": 0,
-      "Юнусов Фарид Анасович": 2
+      "gas:candidate-vibid:2182000785120": 11,
+      "gas:candidate-vibid:2182000787559": 44,
+      "gas:candidate-vibid:2182000783908": 5,
+      "gas:candidate-vibid:2182000785484": 3,
+      "gas:candidate-vibid:2182000788256": 2,
+      "gas:candidate-vibid:2182000786669": 0,
+      "gas:candidate-vibid:2182000786891": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000049&tvd=2182000744089&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744089&type=464",
@@ -7225,13 +7225,13 @@ export const duma_2016_uik_463_region_18_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 20,
-      "Бузилов Валерий Викторович": 140,
-      "Гусев Антон Владимирович": 12,
-      "Мишкин Юрий Алексеевич": 2,
-      "Назаров Михаил Геннадьевич": 2,
-      "Тимуршин Руслан Рифгатович": 3,
-      "Юнусов Фарид Анасович": 28
+      "gas:candidate-vibid:2182000785120": 20,
+      "gas:candidate-vibid:2182000787559": 140,
+      "gas:candidate-vibid:2182000783908": 12,
+      "gas:candidate-vibid:2182000785484": 2,
+      "gas:candidate-vibid:2182000788256": 2,
+      "gas:candidate-vibid:2182000786669": 3,
+      "gas:candidate-vibid:2182000786891": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000049&tvd=2182000744089&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744089&type=464",
@@ -7282,13 +7282,13 @@ export const duma_2016_uik_463_region_18_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 15,
-      "Бузилов Валерий Викторович": 64,
-      "Гусев Антон Владимирович": 11,
-      "Мишкин Юрий Алексеевич": 3,
-      "Назаров Михаил Геннадьевич": 0,
-      "Тимуршин Руслан Рифгатович": 0,
-      "Юнусов Фарид Анасович": 3
+      "gas:candidate-vibid:2182000785120": 15,
+      "gas:candidate-vibid:2182000787559": 64,
+      "gas:candidate-vibid:2182000783908": 11,
+      "gas:candidate-vibid:2182000785484": 3,
+      "gas:candidate-vibid:2182000788256": 0,
+      "gas:candidate-vibid:2182000786669": 0,
+      "gas:candidate-vibid:2182000786891": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000049&tvd=2182000744089&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744089&type=464",
@@ -7339,13 +7339,13 @@ export const duma_2016_uik_463_region_18_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 37,
-      "Бузилов Валерий Викторович": 204,
-      "Гусев Антон Владимирович": 19,
-      "Мишкин Юрий Алексеевич": 3,
-      "Назаров Михаил Геннадьевич": 1,
-      "Тимуршин Руслан Рифгатович": 0,
-      "Юнусов Фарид Анасович": 12
+      "gas:candidate-vibid:2182000785120": 37,
+      "gas:candidate-vibid:2182000787559": 204,
+      "gas:candidate-vibid:2182000783908": 19,
+      "gas:candidate-vibid:2182000785484": 3,
+      "gas:candidate-vibid:2182000788256": 1,
+      "gas:candidate-vibid:2182000786669": 0,
+      "gas:candidate-vibid:2182000786891": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000049&tvd=2182000744089&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744089&type=464",
@@ -7396,13 +7396,13 @@ export const duma_2016_uik_463_region_18_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 24,
-      "Бузилов Валерий Викторович": 108,
-      "Гусев Антон Владимирович": 22,
-      "Мишкин Юрий Алексеевич": 3,
-      "Назаров Михаил Геннадьевич": 1,
-      "Тимуршин Руслан Рифгатович": 1,
-      "Юнусов Фарид Анасович": 23
+      "gas:candidate-vibid:2182000785120": 24,
+      "gas:candidate-vibid:2182000787559": 108,
+      "gas:candidate-vibid:2182000783908": 22,
+      "gas:candidate-vibid:2182000785484": 3,
+      "gas:candidate-vibid:2182000788256": 1,
+      "gas:candidate-vibid:2182000786669": 1,
+      "gas:candidate-vibid:2182000786891": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000049&tvd=2182000744089&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744089&type=464",
@@ -7453,13 +7453,13 @@ export const duma_2016_uik_463_region_18_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 5,
-      "Бузилов Валерий Викторович": 46,
-      "Гусев Антон Владимирович": 14,
-      "Мишкин Юрий Алексеевич": 3,
-      "Назаров Михаил Геннадьевич": 1,
-      "Тимуршин Руслан Рифгатович": 1,
-      "Юнусов Фарид Анасович": 2
+      "gas:candidate-vibid:2182000785120": 5,
+      "gas:candidate-vibid:2182000787559": 46,
+      "gas:candidate-vibid:2182000783908": 14,
+      "gas:candidate-vibid:2182000785484": 3,
+      "gas:candidate-vibid:2182000788256": 1,
+      "gas:candidate-vibid:2182000786669": 1,
+      "gas:candidate-vibid:2182000786891": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000049&tvd=2182000744089&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744089&type=464",
@@ -7510,13 +7510,13 @@ export const duma_2016_uik_463_region_18_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 72,
-      "Бузилов Валерий Викторович": 159,
-      "Гусев Антон Владимирович": 19,
-      "Мишкин Юрий Алексеевич": 3,
-      "Назаров Михаил Геннадьевич": 5,
-      "Тимуршин Руслан Рифгатович": 0,
-      "Юнусов Фарид Анасович": 13
+      "gas:candidate-vibid:2182000785120": 72,
+      "gas:candidate-vibid:2182000787559": 159,
+      "gas:candidate-vibid:2182000783908": 19,
+      "gas:candidate-vibid:2182000785484": 3,
+      "gas:candidate-vibid:2182000788256": 5,
+      "gas:candidate-vibid:2182000786669": 0,
+      "gas:candidate-vibid:2182000786891": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000049&tvd=2182000744089&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744089&type=464",
@@ -7567,13 +7567,13 @@ export const duma_2016_uik_463_region_18_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 23,
-      "Бузилов Валерий Викторович": 94,
-      "Гусев Антон Владимирович": 12,
-      "Мишкин Юрий Алексеевич": 4,
-      "Назаров Михаил Геннадьевич": 0,
-      "Тимуршин Руслан Рифгатович": 0,
-      "Юнусов Фарид Анасович": 9
+      "gas:candidate-vibid:2182000785120": 23,
+      "gas:candidate-vibid:2182000787559": 94,
+      "gas:candidate-vibid:2182000783908": 12,
+      "gas:candidate-vibid:2182000785484": 4,
+      "gas:candidate-vibid:2182000788256": 0,
+      "gas:candidate-vibid:2182000786669": 0,
+      "gas:candidate-vibid:2182000786891": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000049&tvd=2182000744089&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744089&type=464",
@@ -7624,13 +7624,13 @@ export const duma_2016_uik_463_region_18_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 6,
-      "Бузилов Валерий Викторович": 76,
-      "Гусев Антон Владимирович": 4,
-      "Мишкин Юрий Алексеевич": 0,
-      "Назаров Михаил Геннадьевич": 0,
-      "Тимуршин Руслан Рифгатович": 0,
-      "Юнусов Фарид Анасович": 4
+      "gas:candidate-vibid:2182000785120": 6,
+      "gas:candidate-vibid:2182000787559": 76,
+      "gas:candidate-vibid:2182000783908": 4,
+      "gas:candidate-vibid:2182000785484": 0,
+      "gas:candidate-vibid:2182000788256": 0,
+      "gas:candidate-vibid:2182000786669": 0,
+      "gas:candidate-vibid:2182000786891": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000049&tvd=2182000744089&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744089&type=464",
@@ -7681,13 +7681,13 @@ export const duma_2016_uik_463_region_18_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 24,
-      "Бузилов Валерий Викторович": 91,
-      "Гусев Антон Владимирович": 18,
-      "Мишкин Юрий Алексеевич": 1,
-      "Назаров Михаил Геннадьевич": 3,
-      "Тимуршин Руслан Рифгатович": 1,
-      "Юнусов Фарид Анасович": 5
+      "gas:candidate-vibid:2182000785120": 24,
+      "gas:candidate-vibid:2182000787559": 91,
+      "gas:candidate-vibid:2182000783908": 18,
+      "gas:candidate-vibid:2182000785484": 1,
+      "gas:candidate-vibid:2182000788256": 3,
+      "gas:candidate-vibid:2182000786669": 1,
+      "gas:candidate-vibid:2182000786891": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000049&tvd=2182000744089&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744089&type=464",
@@ -7738,13 +7738,13 @@ export const duma_2016_uik_463_region_18_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 13,
-      "Бузилов Валерий Викторович": 43,
-      "Гусев Антон Владимирович": 5,
-      "Мишкин Юрий Алексеевич": 4,
-      "Назаров Михаил Геннадьевич": 2,
-      "Тимуршин Руслан Рифгатович": 0,
-      "Юнусов Фарид Анасович": 0
+      "gas:candidate-vibid:2182000785120": 13,
+      "gas:candidate-vibid:2182000787559": 43,
+      "gas:candidate-vibid:2182000783908": 5,
+      "gas:candidate-vibid:2182000785484": 4,
+      "gas:candidate-vibid:2182000788256": 2,
+      "gas:candidate-vibid:2182000786669": 0,
+      "gas:candidate-vibid:2182000786891": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000049&tvd=2182000744089&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744089&type=464",
@@ -7795,13 +7795,13 @@ export const duma_2016_uik_463_region_18_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 15,
-      "Бузилов Валерий Викторович": 66,
-      "Гусев Антон Владимирович": 4,
-      "Мишкин Юрий Алексеевич": 1,
-      "Назаров Михаил Геннадьевич": 0,
-      "Тимуршин Руслан Рифгатович": 0,
-      "Юнусов Фарид Анасович": 0
+      "gas:candidate-vibid:2182000785120": 15,
+      "gas:candidate-vibid:2182000787559": 66,
+      "gas:candidate-vibid:2182000783908": 4,
+      "gas:candidate-vibid:2182000785484": 1,
+      "gas:candidate-vibid:2182000788256": 0,
+      "gas:candidate-vibid:2182000786669": 0,
+      "gas:candidate-vibid:2182000786891": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000049&tvd=2182000744089&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744089&type=464",
@@ -7852,13 +7852,13 @@ export const duma_2016_uik_463_region_18_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 57,
-      "Бузилов Валерий Викторович": 134,
-      "Гусев Антон Владимирович": 28,
-      "Мишкин Юрий Алексеевич": 10,
-      "Назаров Михаил Геннадьевич": 1,
-      "Тимуршин Руслан Рифгатович": 3,
-      "Юнусов Фарид Анасович": 10
+      "gas:candidate-vibid:2182000785120": 57,
+      "gas:candidate-vibid:2182000787559": 134,
+      "gas:candidate-vibid:2182000783908": 28,
+      "gas:candidate-vibid:2182000785484": 10,
+      "gas:candidate-vibid:2182000788256": 1,
+      "gas:candidate-vibid:2182000786669": 3,
+      "gas:candidate-vibid:2182000786891": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000049&tvd=2182000744089&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744089&type=464",
@@ -7909,13 +7909,13 @@ export const duma_2016_uik_463_region_18_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 48,
-      "Бузилов Валерий Викторович": 151,
-      "Гусев Антон Владимирович": 17,
-      "Мишкин Юрий Алексеевич": 11,
-      "Назаров Михаил Геннадьевич": 0,
-      "Тимуршин Руслан Рифгатович": 1,
-      "Юнусов Фарид Анасович": 7
+      "gas:candidate-vibid:2182000785120": 48,
+      "gas:candidate-vibid:2182000787559": 151,
+      "gas:candidate-vibid:2182000783908": 17,
+      "gas:candidate-vibid:2182000785484": 11,
+      "gas:candidate-vibid:2182000788256": 0,
+      "gas:candidate-vibid:2182000786669": 1,
+      "gas:candidate-vibid:2182000786891": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000049&tvd=2182000744089&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744089&type=464",
@@ -7966,13 +7966,13 @@ export const duma_2016_uik_463_region_18_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 14,
-      "Бузилов Валерий Викторович": 51,
-      "Гусев Антон Владимирович": 6,
-      "Мишкин Юрий Алексеевич": 3,
-      "Назаров Михаил Геннадьевич": 0,
-      "Тимуршин Руслан Рифгатович": 0,
-      "Юнусов Фарид Анасович": 2
+      "gas:candidate-vibid:2182000785120": 14,
+      "gas:candidate-vibid:2182000787559": 51,
+      "gas:candidate-vibid:2182000783908": 6,
+      "gas:candidate-vibid:2182000785484": 3,
+      "gas:candidate-vibid:2182000788256": 0,
+      "gas:candidate-vibid:2182000786669": 0,
+      "gas:candidate-vibid:2182000786891": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000049&tvd=2182000744089&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744089&type=464",
@@ -8023,13 +8023,13 @@ export const duma_2016_uik_463_region_18_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 13,
-      "Бузилов Валерий Викторович": 47,
-      "Гусев Антон Владимирович": 4,
-      "Мишкин Юрий Алексеевич": 1,
-      "Назаров Михаил Геннадьевич": 2,
-      "Тимуршин Руслан Рифгатович": 0,
-      "Юнусов Фарид Анасович": 1
+      "gas:candidate-vibid:2182000785120": 13,
+      "gas:candidate-vibid:2182000787559": 47,
+      "gas:candidate-vibid:2182000783908": 4,
+      "gas:candidate-vibid:2182000785484": 1,
+      "gas:candidate-vibid:2182000788256": 2,
+      "gas:candidate-vibid:2182000786669": 0,
+      "gas:candidate-vibid:2182000786891": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000049&tvd=2182000744089&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744089&type=464",
@@ -8080,13 +8080,13 @@ export const duma_2016_uik_463_region_18_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 27,
-      "Бузилов Валерий Викторович": 172,
-      "Гусев Антон Владимирович": 8,
-      "Мишкин Юрий Алексеевич": 2,
-      "Назаров Михаил Геннадьевич": 4,
-      "Тимуршин Руслан Рифгатович": 1,
-      "Юнусов Фарид Анасович": 9
+      "gas:candidate-vibid:2182000785120": 27,
+      "gas:candidate-vibid:2182000787559": 172,
+      "gas:candidate-vibid:2182000783908": 8,
+      "gas:candidate-vibid:2182000785484": 2,
+      "gas:candidate-vibid:2182000788256": 4,
+      "gas:candidate-vibid:2182000786669": 1,
+      "gas:candidate-vibid:2182000786891": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000049&tvd=2182000744089&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744089&type=464",
@@ -8137,13 +8137,13 @@ export const duma_2016_uik_463_region_18_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 33,
-      "Бузилов Валерий Викторович": 129,
-      "Гусев Антон Владимирович": 12,
-      "Мишкин Юрий Алексеевич": 5,
-      "Назаров Михаил Геннадьевич": 1,
-      "Тимуршин Руслан Рифгатович": 0,
-      "Юнусов Фарид Анасович": 8
+      "gas:candidate-vibid:2182000785120": 33,
+      "gas:candidate-vibid:2182000787559": 129,
+      "gas:candidate-vibid:2182000783908": 12,
+      "gas:candidate-vibid:2182000785484": 5,
+      "gas:candidate-vibid:2182000788256": 1,
+      "gas:candidate-vibid:2182000786669": 0,
+      "gas:candidate-vibid:2182000786891": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000049&tvd=2182000744089&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744089&type=464",
@@ -8194,13 +8194,13 @@ export const duma_2016_uik_463_region_18_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 16,
-      "Бузилов Валерий Викторович": 93,
-      "Гусев Антон Владимирович": 9,
-      "Мишкин Юрий Алексеевич": 4,
-      "Назаров Михаил Геннадьевич": 0,
-      "Тимуршин Руслан Рифгатович": 0,
-      "Юнусов Фарид Анасович": 0
+      "gas:candidate-vibid:2182000785120": 16,
+      "gas:candidate-vibid:2182000787559": 93,
+      "gas:candidate-vibid:2182000783908": 9,
+      "gas:candidate-vibid:2182000785484": 4,
+      "gas:candidate-vibid:2182000788256": 0,
+      "gas:candidate-vibid:2182000786669": 0,
+      "gas:candidate-vibid:2182000786891": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000049&tvd=2182000744089&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744089&type=464",
@@ -8251,13 +8251,13 @@ export const duma_2016_uik_463_region_18_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 17,
-      "Бузилов Валерий Викторович": 73,
-      "Гусев Антон Владимирович": 2,
-      "Мишкин Юрий Алексеевич": 2,
-      "Назаров Михаил Геннадьевич": 1,
-      "Тимуршин Руслан Рифгатович": 0,
-      "Юнусов Фарид Анасович": 7
+      "gas:candidate-vibid:2182000785120": 17,
+      "gas:candidate-vibid:2182000787559": 73,
+      "gas:candidate-vibid:2182000783908": 2,
+      "gas:candidate-vibid:2182000785484": 2,
+      "gas:candidate-vibid:2182000788256": 1,
+      "gas:candidate-vibid:2182000786669": 0,
+      "gas:candidate-vibid:2182000786891": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000049&tvd=2182000744089&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744089&type=464",
@@ -8308,13 +8308,13 @@ export const duma_2016_uik_463_region_18_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 373,
-      "Бузилов Валерий Викторович": 483,
-      "Гусев Антон Владимирович": 35,
-      "Мишкин Юрий Алексеевич": 58,
-      "Назаров Михаил Геннадьевич": 8,
-      "Тимуршин Руслан Рифгатович": 9,
-      "Юнусов Фарид Анасович": 49
+      "gas:candidate-vibid:2182000785120": 373,
+      "gas:candidate-vibid:2182000787559": 483,
+      "gas:candidate-vibid:2182000783908": 35,
+      "gas:candidate-vibid:2182000785484": 58,
+      "gas:candidate-vibid:2182000788256": 8,
+      "gas:candidate-vibid:2182000786669": 9,
+      "gas:candidate-vibid:2182000786891": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000049&tvd=2182000744090&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744090&type=464",
@@ -8365,13 +8365,13 @@ export const duma_2016_uik_463_region_18_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 162,
-      "Бузилов Валерий Викторович": 325,
-      "Гусев Антон Владимирович": 15,
-      "Мишкин Юрий Алексеевич": 26,
-      "Назаров Михаил Геннадьевич": 0,
-      "Тимуршин Руслан Рифгатович": 3,
-      "Юнусов Фарид Анасович": 38
+      "gas:candidate-vibid:2182000785120": 162,
+      "gas:candidate-vibid:2182000787559": 325,
+      "gas:candidate-vibid:2182000783908": 15,
+      "gas:candidate-vibid:2182000785484": 26,
+      "gas:candidate-vibid:2182000788256": 0,
+      "gas:candidate-vibid:2182000786669": 3,
+      "gas:candidate-vibid:2182000786891": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000049&tvd=2182000744090&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744090&type=464",
@@ -8422,13 +8422,13 @@ export const duma_2016_uik_463_region_18_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 267,
-      "Бузилов Валерий Викторович": 423,
-      "Гусев Антон Владимирович": 24,
-      "Мишкин Юрий Алексеевич": 47,
-      "Назаров Михаил Геннадьевич": 4,
-      "Тимуршин Руслан Рифгатович": 3,
-      "Юнусов Фарид Анасович": 62
+      "gas:candidate-vibid:2182000785120": 267,
+      "gas:candidate-vibid:2182000787559": 423,
+      "gas:candidate-vibid:2182000783908": 24,
+      "gas:candidate-vibid:2182000785484": 47,
+      "gas:candidate-vibid:2182000788256": 4,
+      "gas:candidate-vibid:2182000786669": 3,
+      "gas:candidate-vibid:2182000786891": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000049&tvd=2182000744090&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744090&type=464",
@@ -8479,13 +8479,13 @@ export const duma_2016_uik_463_region_18_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 9,
-      "Бузилов Валерий Викторович": 53,
-      "Гусев Антон Владимирович": 2,
-      "Мишкин Юрий Алексеевич": 0,
-      "Назаров Михаил Геннадьевич": 1,
-      "Тимуршин Руслан Рифгатович": 1,
-      "Юнусов Фарид Анасович": 4
+      "gas:candidate-vibid:2182000785120": 9,
+      "gas:candidate-vibid:2182000787559": 53,
+      "gas:candidate-vibid:2182000783908": 2,
+      "gas:candidate-vibid:2182000785484": 0,
+      "gas:candidate-vibid:2182000788256": 1,
+      "gas:candidate-vibid:2182000786669": 1,
+      "gas:candidate-vibid:2182000786891": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000049&tvd=2182000744090&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744090&type=464",
@@ -8536,13 +8536,13 @@ export const duma_2016_uik_463_region_18_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 21,
-      "Бузилов Валерий Викторович": 49,
-      "Гусев Антон Владимирович": 1,
-      "Мишкин Юрий Алексеевич": 6,
-      "Назаров Михаил Геннадьевич": 0,
-      "Тимуршин Руслан Рифгатович": 0,
-      "Юнусов Фарид Анасович": 1
+      "gas:candidate-vibid:2182000785120": 21,
+      "gas:candidate-vibid:2182000787559": 49,
+      "gas:candidate-vibid:2182000783908": 1,
+      "gas:candidate-vibid:2182000785484": 6,
+      "gas:candidate-vibid:2182000788256": 0,
+      "gas:candidate-vibid:2182000786669": 0,
+      "gas:candidate-vibid:2182000786891": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000049&tvd=2182000744090&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744090&type=464",
@@ -8593,13 +8593,13 @@ export const duma_2016_uik_463_region_18_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 23,
-      "Бузилов Валерий Викторович": 50,
-      "Гусев Антон Владимирович": 4,
-      "Мишкин Юрий Алексеевич": 1,
-      "Назаров Михаил Геннадьевич": 2,
-      "Тимуршин Руслан Рифгатович": 0,
-      "Юнусов Фарид Анасович": 2
+      "gas:candidate-vibid:2182000785120": 23,
+      "gas:candidate-vibid:2182000787559": 50,
+      "gas:candidate-vibid:2182000783908": 4,
+      "gas:candidate-vibid:2182000785484": 1,
+      "gas:candidate-vibid:2182000788256": 2,
+      "gas:candidate-vibid:2182000786669": 0,
+      "gas:candidate-vibid:2182000786891": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000049&tvd=2182000744090&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744090&type=464",
@@ -8650,13 +8650,13 @@ export const duma_2016_uik_463_region_18_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 112,
-      "Бузилов Валерий Викторович": 215,
-      "Гусев Антон Владимирович": 29,
-      "Мишкин Юрий Алексеевич": 23,
-      "Назаров Михаил Геннадьевич": 3,
-      "Тимуршин Руслан Рифгатович": 0,
-      "Юнусов Фарид Анасович": 18
+      "gas:candidate-vibid:2182000785120": 112,
+      "gas:candidate-vibid:2182000787559": 215,
+      "gas:candidate-vibid:2182000783908": 29,
+      "gas:candidate-vibid:2182000785484": 23,
+      "gas:candidate-vibid:2182000788256": 3,
+      "gas:candidate-vibid:2182000786669": 0,
+      "gas:candidate-vibid:2182000786891": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000049&tvd=2182000744090&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744090&type=464",
@@ -8707,13 +8707,13 @@ export const duma_2016_uik_463_region_18_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 223,
-      "Бузилов Валерий Викторович": 246,
-      "Гусев Антон Владимирович": 23,
-      "Мишкин Юрий Алексеевич": 26,
-      "Назаров Михаил Геннадьевич": 4,
-      "Тимуршин Руслан Рифгатович": 3,
-      "Юнусов Фарид Анасович": 11
+      "gas:candidate-vibid:2182000785120": 223,
+      "gas:candidate-vibid:2182000787559": 246,
+      "gas:candidate-vibid:2182000783908": 23,
+      "gas:candidate-vibid:2182000785484": 26,
+      "gas:candidate-vibid:2182000788256": 4,
+      "gas:candidate-vibid:2182000786669": 3,
+      "gas:candidate-vibid:2182000786891": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000049&tvd=2182000744090&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744090&type=464",
@@ -8764,13 +8764,13 @@ export const duma_2016_uik_463_region_18_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 41,
-      "Бузилов Валерий Викторович": 194,
-      "Гусев Антон Владимирович": 15,
-      "Мишкин Юрий Алексеевич": 8,
-      "Назаров Михаил Геннадьевич": 4,
-      "Тимуршин Руслан Рифгатович": 1,
-      "Юнусов Фарид Анасович": 20
+      "gas:candidate-vibid:2182000785120": 41,
+      "gas:candidate-vibid:2182000787559": 194,
+      "gas:candidate-vibid:2182000783908": 15,
+      "gas:candidate-vibid:2182000785484": 8,
+      "gas:candidate-vibid:2182000788256": 4,
+      "gas:candidate-vibid:2182000786669": 1,
+      "gas:candidate-vibid:2182000786891": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000049&tvd=2182000744090&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744090&type=464",
@@ -8821,13 +8821,13 @@ export const duma_2016_uik_463_region_18_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 38,
-      "Бузилов Валерий Викторович": 136,
-      "Гусев Антон Владимирович": 4,
-      "Мишкин Юрий Алексеевич": 10,
-      "Назаров Михаил Геннадьевич": 2,
-      "Тимуршин Руслан Рифгатович": 0,
-      "Юнусов Фарид Анасович": 8
+      "gas:candidate-vibid:2182000785120": 38,
+      "gas:candidate-vibid:2182000787559": 136,
+      "gas:candidate-vibid:2182000783908": 4,
+      "gas:candidate-vibid:2182000785484": 10,
+      "gas:candidate-vibid:2182000788256": 2,
+      "gas:candidate-vibid:2182000786669": 0,
+      "gas:candidate-vibid:2182000786891": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000049&tvd=2182000744090&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744090&type=464",
@@ -8878,13 +8878,13 @@ export const duma_2016_uik_463_region_18_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 24,
-      "Бузилов Валерий Викторович": 83,
-      "Гусев Антон Владимирович": 8,
-      "Мишкин Юрий Алексеевич": 4,
-      "Назаров Михаил Геннадьевич": 1,
-      "Тимуршин Руслан Рифгатович": 5,
-      "Юнусов Фарид Анасович": 3
+      "gas:candidate-vibid:2182000785120": 24,
+      "gas:candidate-vibid:2182000787559": 83,
+      "gas:candidate-vibid:2182000783908": 8,
+      "gas:candidate-vibid:2182000785484": 4,
+      "gas:candidate-vibid:2182000788256": 1,
+      "gas:candidate-vibid:2182000786669": 5,
+      "gas:candidate-vibid:2182000786891": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000049&tvd=2182000744090&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744090&type=464",
@@ -8935,13 +8935,13 @@ export const duma_2016_uik_463_region_18_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 13,
-      "Бузилов Валерий Викторович": 53,
-      "Гусев Антон Владимирович": 0,
-      "Мишкин Юрий Алексеевич": 1,
-      "Назаров Михаил Геннадьевич": 0,
-      "Тимуршин Руслан Рифгатович": 0,
-      "Юнусов Фарид Анасович": 2
+      "gas:candidate-vibid:2182000785120": 13,
+      "gas:candidate-vibid:2182000787559": 53,
+      "gas:candidate-vibid:2182000783908": 0,
+      "gas:candidate-vibid:2182000785484": 1,
+      "gas:candidate-vibid:2182000788256": 0,
+      "gas:candidate-vibid:2182000786669": 0,
+      "gas:candidate-vibid:2182000786891": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000049&tvd=2182000744090&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744090&type=464",
@@ -8992,13 +8992,13 @@ export const duma_2016_uik_463_region_18_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 43,
-      "Бузилов Валерий Викторович": 40,
-      "Гусев Антон Владимирович": 3,
-      "Мишкин Юрий Алексеевич": 2,
-      "Назаров Михаил Геннадьевич": 1,
-      "Тимуршин Руслан Рифгатович": 1,
-      "Юнусов Фарид Анасович": 4
+      "gas:candidate-vibid:2182000785120": 43,
+      "gas:candidate-vibid:2182000787559": 40,
+      "gas:candidate-vibid:2182000783908": 3,
+      "gas:candidate-vibid:2182000785484": 2,
+      "gas:candidate-vibid:2182000788256": 1,
+      "gas:candidate-vibid:2182000786669": 1,
+      "gas:candidate-vibid:2182000786891": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000049&tvd=2182000744090&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744090&type=464",
@@ -9049,13 +9049,13 @@ export const duma_2016_uik_463_region_18_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 36,
-      "Бузилов Валерий Викторович": 231,
-      "Гусев Антон Владимирович": 11,
-      "Мишкин Юрий Алексеевич": 9,
-      "Назаров Михаил Геннадьевич": 4,
-      "Тимуршин Руслан Рифгатович": 1,
-      "Юнусов Фарид Анасович": 9
+      "gas:candidate-vibid:2182000785120": 36,
+      "gas:candidate-vibid:2182000787559": 231,
+      "gas:candidate-vibid:2182000783908": 11,
+      "gas:candidate-vibid:2182000785484": 9,
+      "gas:candidate-vibid:2182000788256": 4,
+      "gas:candidate-vibid:2182000786669": 1,
+      "gas:candidate-vibid:2182000786891": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000049&tvd=2182000744090&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744090&type=464",
@@ -9106,13 +9106,13 @@ export const duma_2016_uik_463_region_18_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 20,
-      "Бузилов Валерий Викторович": 148,
-      "Гусев Антон Владимирович": 7,
-      "Мишкин Юрий Алексеевич": 4,
-      "Назаров Михаил Геннадьевич": 3,
-      "Тимуршин Руслан Рифгатович": 1,
-      "Юнусов Фарид Анасович": 6
+      "gas:candidate-vibid:2182000785120": 20,
+      "gas:candidate-vibid:2182000787559": 148,
+      "gas:candidate-vibid:2182000783908": 7,
+      "gas:candidate-vibid:2182000785484": 4,
+      "gas:candidate-vibid:2182000788256": 3,
+      "gas:candidate-vibid:2182000786669": 1,
+      "gas:candidate-vibid:2182000786891": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000049&tvd=2182000744090&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744090&type=464",
@@ -9163,13 +9163,13 @@ export const duma_2016_uik_463_region_18_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 16,
-      "Бузилов Валерий Викторович": 111,
-      "Гусев Антон Владимирович": 6,
-      "Мишкин Юрий Алексеевич": 3,
-      "Назаров Михаил Геннадьевич": 0,
-      "Тимуршин Руслан Рифгатович": 1,
-      "Юнусов Фарид Анасович": 2
+      "gas:candidate-vibid:2182000785120": 16,
+      "gas:candidate-vibid:2182000787559": 111,
+      "gas:candidate-vibid:2182000783908": 6,
+      "gas:candidate-vibid:2182000785484": 3,
+      "gas:candidate-vibid:2182000788256": 0,
+      "gas:candidate-vibid:2182000786669": 1,
+      "gas:candidate-vibid:2182000786891": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000049&tvd=2182000744090&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744090&type=464",
@@ -9220,13 +9220,13 @@ export const duma_2016_uik_463_region_18_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 104,
-      "Бузилов Валерий Викторович": 155,
-      "Гусев Антон Владимирович": 16,
-      "Мишкин Юрий Алексеевич": 28,
-      "Назаров Михаил Геннадьевич": 7,
-      "Тимуршин Руслан Рифгатович": 2,
-      "Юнусов Фарид Анасович": 16
+      "gas:candidate-vibid:2182000785120": 104,
+      "gas:candidate-vibid:2182000787559": 155,
+      "gas:candidate-vibid:2182000783908": 16,
+      "gas:candidate-vibid:2182000785484": 28,
+      "gas:candidate-vibid:2182000788256": 7,
+      "gas:candidate-vibid:2182000786669": 2,
+      "gas:candidate-vibid:2182000786891": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000049&tvd=2182000744090&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744090&type=464",
@@ -9277,13 +9277,13 @@ export const duma_2016_uik_463_region_18_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 39,
-      "Бузилов Валерий Викторович": 65,
-      "Гусев Антон Владимирович": 1,
-      "Мишкин Юрий Алексеевич": 5,
-      "Назаров Михаил Геннадьевич": 1,
-      "Тимуршин Руслан Рифгатович": 0,
-      "Юнусов Фарид Анасович": 4
+      "gas:candidate-vibid:2182000785120": 39,
+      "gas:candidate-vibid:2182000787559": 65,
+      "gas:candidate-vibid:2182000783908": 1,
+      "gas:candidate-vibid:2182000785484": 5,
+      "gas:candidate-vibid:2182000788256": 1,
+      "gas:candidate-vibid:2182000786669": 0,
+      "gas:candidate-vibid:2182000786891": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000049&tvd=2182000744090&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744090&type=464",
@@ -9334,13 +9334,13 @@ export const duma_2016_uik_463_region_18_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 26,
-      "Бузилов Валерий Викторович": 74,
-      "Гусев Антон Владимирович": 3,
-      "Мишкин Юрий Алексеевич": 3,
-      "Назаров Михаил Геннадьевич": 2,
-      "Тимуршин Руслан Рифгатович": 0,
-      "Юнусов Фарид Анасович": 6
+      "gas:candidate-vibid:2182000785120": 26,
+      "gas:candidate-vibid:2182000787559": 74,
+      "gas:candidate-vibid:2182000783908": 3,
+      "gas:candidate-vibid:2182000785484": 3,
+      "gas:candidate-vibid:2182000788256": 2,
+      "gas:candidate-vibid:2182000786669": 0,
+      "gas:candidate-vibid:2182000786891": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000049&tvd=2182000744090&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744090&type=464",
@@ -9391,13 +9391,13 @@ export const duma_2016_uik_463_region_18_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 29,
-      "Бузилов Валерий Викторович": 109,
-      "Гусев Антон Владимирович": 6,
-      "Мишкин Юрий Алексеевич": 8,
-      "Назаров Михаил Геннадьевич": 0,
-      "Тимуршин Руслан Рифгатович": 1,
-      "Юнусов Фарид Анасович": 2
+      "gas:candidate-vibid:2182000785120": 29,
+      "gas:candidate-vibid:2182000787559": 109,
+      "gas:candidate-vibid:2182000783908": 6,
+      "gas:candidate-vibid:2182000785484": 8,
+      "gas:candidate-vibid:2182000788256": 0,
+      "gas:candidate-vibid:2182000786669": 1,
+      "gas:candidate-vibid:2182000786891": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000049&tvd=2182000744090&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744090&type=464",
@@ -9448,13 +9448,13 @@ export const duma_2016_uik_463_region_18_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 17,
-      "Бузилов Валерий Викторович": 76,
-      "Гусев Антон Владимирович": 1,
-      "Мишкин Юрий Алексеевич": 5,
-      "Назаров Михаил Геннадьевич": 1,
-      "Тимуршин Руслан Рифгатович": 0,
-      "Юнусов Фарид Анасович": 2
+      "gas:candidate-vibid:2182000785120": 17,
+      "gas:candidate-vibid:2182000787559": 76,
+      "gas:candidate-vibid:2182000783908": 1,
+      "gas:candidate-vibid:2182000785484": 5,
+      "gas:candidate-vibid:2182000788256": 1,
+      "gas:candidate-vibid:2182000786669": 0,
+      "gas:candidate-vibid:2182000786891": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000049&tvd=2182000744090&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744090&type=464",
@@ -9505,13 +9505,13 @@ export const duma_2016_uik_463_region_18_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 235,
-      "Бузилов Валерий Викторович": 90,
-      "Гусев Антон Владимирович": 32,
-      "Мишкин Юрий Алексеевич": 38,
-      "Назаров Михаил Геннадьевич": 4,
-      "Тимуршин Руслан Рифгатович": 1,
-      "Юнусов Фарид Анасович": 22
+      "gas:candidate-vibid:2182000785120": 235,
+      "gas:candidate-vibid:2182000787559": 90,
+      "gas:candidate-vibid:2182000783908": 32,
+      "gas:candidate-vibid:2182000785484": 38,
+      "gas:candidate-vibid:2182000788256": 4,
+      "gas:candidate-vibid:2182000786669": 1,
+      "gas:candidate-vibid:2182000786891": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000049&tvd=2182000744090&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744090&type=464",
@@ -9562,13 +9562,13 @@ export const duma_2016_uik_463_region_18_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 128,
-      "Бузилов Валерий Викторович": 111,
-      "Гусев Антон Владимирович": 22,
-      "Мишкин Юрий Алексеевич": 19,
-      "Назаров Михаил Геннадьевич": 3,
-      "Тимуршин Руслан Рифгатович": 2,
-      "Юнусов Фарид Анасович": 12
+      "gas:candidate-vibid:2182000785120": 128,
+      "gas:candidate-vibid:2182000787559": 111,
+      "gas:candidate-vibid:2182000783908": 22,
+      "gas:candidate-vibid:2182000785484": 19,
+      "gas:candidate-vibid:2182000788256": 3,
+      "gas:candidate-vibid:2182000786669": 2,
+      "gas:candidate-vibid:2182000786891": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000049&tvd=2182000744090&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744090&type=464",
@@ -9619,13 +9619,13 @@ export const duma_2016_uik_463_region_18_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 32,
-      "Бузилов Валерий Викторович": 286,
-      "Гусев Антон Владимирович": 12,
-      "Мишкин Юрий Алексеевич": 10,
-      "Назаров Михаил Геннадьевич": 0,
-      "Тимуршин Руслан Рифгатович": 0,
-      "Юнусов Фарид Анасович": 1
+      "gas:candidate-vibid:2182000785120": 32,
+      "gas:candidate-vibid:2182000787559": 286,
+      "gas:candidate-vibid:2182000783908": 12,
+      "gas:candidate-vibid:2182000785484": 10,
+      "gas:candidate-vibid:2182000788256": 0,
+      "gas:candidate-vibid:2182000786669": 0,
+      "gas:candidate-vibid:2182000786891": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000049&tvd=2182000744090&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744090&type=464",
@@ -9676,13 +9676,13 @@ export const duma_2016_uik_463_region_18_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 57,
-      "Бузилов Валерий Викторович": 150,
-      "Гусев Антон Владимирович": 11,
-      "Мишкин Юрий Алексеевич": 15,
-      "Назаров Михаил Геннадьевич": 1,
-      "Тимуршин Руслан Рифгатович": 1,
-      "Юнусов Фарид Анасович": 2
+      "gas:candidate-vibid:2182000785120": 57,
+      "gas:candidate-vibid:2182000787559": 150,
+      "gas:candidate-vibid:2182000783908": 11,
+      "gas:candidate-vibid:2182000785484": 15,
+      "gas:candidate-vibid:2182000788256": 1,
+      "gas:candidate-vibid:2182000786669": 1,
+      "gas:candidate-vibid:2182000786891": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000049&tvd=2182000744090&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744090&type=464",
@@ -9733,13 +9733,13 @@ export const duma_2016_uik_463_region_18_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 93,
-      "Бузилов Валерий Викторович": 33,
-      "Гусев Антон Владимирович": 2,
-      "Мишкин Юрий Алексеевич": 13,
-      "Назаров Михаил Геннадьевич": 0,
-      "Тимуршин Руслан Рифгатович": 0,
-      "Юнусов Фарид Анасович": 2
+      "gas:candidate-vibid:2182000785120": 93,
+      "gas:candidate-vibid:2182000787559": 33,
+      "gas:candidate-vibid:2182000783908": 2,
+      "gas:candidate-vibid:2182000785484": 13,
+      "gas:candidate-vibid:2182000788256": 0,
+      "gas:candidate-vibid:2182000786669": 0,
+      "gas:candidate-vibid:2182000786891": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000049&tvd=2182000744090&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744090&type=464",
@@ -9790,13 +9790,13 @@ export const duma_2016_uik_463_region_18_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 47,
-      "Бузилов Валерий Викторович": 68,
-      "Гусев Антон Владимирович": 11,
-      "Мишкин Юрий Алексеевич": 12,
-      "Назаров Михаил Геннадьевич": 4,
-      "Тимуршин Руслан Рифгатович": 2,
-      "Юнусов Фарид Анасович": 7
+      "gas:candidate-vibid:2182000785120": 47,
+      "gas:candidate-vibid:2182000787559": 68,
+      "gas:candidate-vibid:2182000783908": 11,
+      "gas:candidate-vibid:2182000785484": 12,
+      "gas:candidate-vibid:2182000788256": 4,
+      "gas:candidate-vibid:2182000786669": 2,
+      "gas:candidate-vibid:2182000786891": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000049&tvd=2182000744090&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744090&type=464",
@@ -9847,13 +9847,13 @@ export const duma_2016_uik_463_region_18_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 32,
-      "Бузилов Валерий Викторович": 40,
-      "Гусев Антон Владимирович": 2,
-      "Мишкин Юрий Алексеевич": 9,
-      "Назаров Михаил Геннадьевич": 0,
-      "Тимуршин Руслан Рифгатович": 0,
-      "Юнусов Фарид Анасович": 13
+      "gas:candidate-vibid:2182000785120": 32,
+      "gas:candidate-vibid:2182000787559": 40,
+      "gas:candidate-vibid:2182000783908": 2,
+      "gas:candidate-vibid:2182000785484": 9,
+      "gas:candidate-vibid:2182000788256": 0,
+      "gas:candidate-vibid:2182000786669": 0,
+      "gas:candidate-vibid:2182000786891": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000049&tvd=2182000744090&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744090&type=464",
@@ -9904,13 +9904,13 @@ export const duma_2016_uik_463_region_18_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 67,
-      "Бузилов Валерий Викторович": 43,
-      "Гусев Антон Владимирович": 10,
-      "Мишкин Юрий Алексеевич": 23,
-      "Назаров Михаил Геннадьевич": 4,
-      "Тимуршин Руслан Рифгатович": 1,
-      "Юнусов Фарид Анасович": 7
+      "gas:candidate-vibid:2182000785120": 67,
+      "gas:candidate-vibid:2182000787559": 43,
+      "gas:candidate-vibid:2182000783908": 10,
+      "gas:candidate-vibid:2182000785484": 23,
+      "gas:candidate-vibid:2182000788256": 4,
+      "gas:candidate-vibid:2182000786669": 1,
+      "gas:candidate-vibid:2182000786891": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000049&tvd=2182000744090&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744090&type=464",
@@ -9961,13 +9961,13 @@ export const duma_2016_uik_463_region_18_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 253,
-      "Бузилов Валерий Викторович": 869,
-      "Гусев Антон Владимирович": 68,
-      "Мишкин Юрий Алексеевич": 34,
-      "Назаров Михаил Геннадьевич": 9,
-      "Тимуршин Руслан Рифгатович": 2,
-      "Юнусов Фарид Анасович": 55
+      "gas:candidate-vibid:2182000785120": 253,
+      "gas:candidate-vibid:2182000787559": 869,
+      "gas:candidate-vibid:2182000783908": 68,
+      "gas:candidate-vibid:2182000785484": 34,
+      "gas:candidate-vibid:2182000788256": 9,
+      "gas:candidate-vibid:2182000786669": 2,
+      "gas:candidate-vibid:2182000786891": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000049&tvd=2182000744091&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744091&type=464",
@@ -10018,13 +10018,13 @@ export const duma_2016_uik_463_region_18_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 190,
-      "Бузилов Валерий Викторович": 963,
-      "Гусев Антон Владимирович": 90,
-      "Мишкин Юрий Алексеевич": 56,
-      "Назаров Михаил Геннадьевич": 12,
-      "Тимуршин Руслан Рифгатович": 9,
-      "Юнусов Фарид Анасович": 81
+      "gas:candidate-vibid:2182000785120": 190,
+      "gas:candidate-vibid:2182000787559": 963,
+      "gas:candidate-vibid:2182000783908": 90,
+      "gas:candidate-vibid:2182000785484": 56,
+      "gas:candidate-vibid:2182000788256": 12,
+      "gas:candidate-vibid:2182000786669": 9,
+      "gas:candidate-vibid:2182000786891": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000049&tvd=2182000744091&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744091&type=464",
@@ -10075,13 +10075,13 @@ export const duma_2016_uik_463_region_18_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 24,
-      "Бузилов Валерий Викторович": 143,
-      "Гусев Антон Владимирович": 11,
-      "Мишкин Юрий Алексеевич": 4,
-      "Назаров Михаил Геннадьевич": 1,
-      "Тимуршин Руслан Рифгатович": 0,
-      "Юнусов Фарид Анасович": 8
+      "gas:candidate-vibid:2182000785120": 24,
+      "gas:candidate-vibid:2182000787559": 143,
+      "gas:candidate-vibid:2182000783908": 11,
+      "gas:candidate-vibid:2182000785484": 4,
+      "gas:candidate-vibid:2182000788256": 1,
+      "gas:candidate-vibid:2182000786669": 0,
+      "gas:candidate-vibid:2182000786891": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000049&tvd=2182000744091&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744091&type=464",
@@ -10132,13 +10132,13 @@ export const duma_2016_uik_463_region_18_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 45,
-      "Бузилов Валерий Викторович": 243,
-      "Гусев Антон Владимирович": 19,
-      "Мишкин Юрий Алексеевич": 10,
-      "Назаров Михаил Геннадьевич": 2,
-      "Тимуршин Руслан Рифгатович": 0,
-      "Юнусов Фарид Анасович": 11
+      "gas:candidate-vibid:2182000785120": 45,
+      "gas:candidate-vibid:2182000787559": 243,
+      "gas:candidate-vibid:2182000783908": 19,
+      "gas:candidate-vibid:2182000785484": 10,
+      "gas:candidate-vibid:2182000788256": 2,
+      "gas:candidate-vibid:2182000786669": 0,
+      "gas:candidate-vibid:2182000786891": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000049&tvd=2182000744091&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744091&type=464",
@@ -10189,13 +10189,13 @@ export const duma_2016_uik_463_region_18_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 36,
-      "Бузилов Валерий Викторович": 260,
-      "Гусев Антон Владимирович": 17,
-      "Мишкин Юрий Алексеевич": 6,
-      "Назаров Михаил Геннадьевич": 1,
-      "Тимуршин Руслан Рифгатович": 0,
-      "Юнусов Фарид Анасович": 6
+      "gas:candidate-vibid:2182000785120": 36,
+      "gas:candidate-vibid:2182000787559": 260,
+      "gas:candidate-vibid:2182000783908": 17,
+      "gas:candidate-vibid:2182000785484": 6,
+      "gas:candidate-vibid:2182000788256": 1,
+      "gas:candidate-vibid:2182000786669": 0,
+      "gas:candidate-vibid:2182000786891": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000049&tvd=2182000744091&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744091&type=464",
@@ -10246,13 +10246,13 @@ export const duma_2016_uik_463_region_18_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 16,
-      "Бузилов Валерий Викторович": 108,
-      "Гусев Антон Владимирович": 7,
-      "Мишкин Юрий Алексеевич": 2,
-      "Назаров Михаил Геннадьевич": 1,
-      "Тимуршин Руслан Рифгатович": 0,
-      "Юнусов Фарид Анасович": 2
+      "gas:candidate-vibid:2182000785120": 16,
+      "gas:candidate-vibid:2182000787559": 108,
+      "gas:candidate-vibid:2182000783908": 7,
+      "gas:candidate-vibid:2182000785484": 2,
+      "gas:candidate-vibid:2182000788256": 1,
+      "gas:candidate-vibid:2182000786669": 0,
+      "gas:candidate-vibid:2182000786891": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000049&tvd=2182000744091&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744091&type=464",
@@ -10303,13 +10303,13 @@ export const duma_2016_uik_463_region_18_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 36,
-      "Бузилов Валерий Викторович": 249,
-      "Гусев Антон Владимирович": 14,
-      "Мишкин Юрий Алексеевич": 8,
-      "Назаров Михаил Геннадьевич": 1,
-      "Тимуршин Руслан Рифгатович": 3,
-      "Юнусов Фарид Анасович": 10
+      "gas:candidate-vibid:2182000785120": 36,
+      "gas:candidate-vibid:2182000787559": 249,
+      "gas:candidate-vibid:2182000783908": 14,
+      "gas:candidate-vibid:2182000785484": 8,
+      "gas:candidate-vibid:2182000788256": 1,
+      "gas:candidate-vibid:2182000786669": 3,
+      "gas:candidate-vibid:2182000786891": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000049&tvd=2182000744091&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744091&type=464",
@@ -10360,13 +10360,13 @@ export const duma_2016_uik_463_region_18_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 22,
-      "Бузилов Валерий Викторович": 207,
-      "Гусев Антон Владимирович": 9,
-      "Мишкин Юрий Алексеевич": 3,
-      "Назаров Михаил Геннадьевич": 0,
-      "Тимуршин Руслан Рифгатович": 2,
-      "Юнусов Фарид Анасович": 1
+      "gas:candidate-vibid:2182000785120": 22,
+      "gas:candidate-vibid:2182000787559": 207,
+      "gas:candidate-vibid:2182000783908": 9,
+      "gas:candidate-vibid:2182000785484": 3,
+      "gas:candidate-vibid:2182000788256": 0,
+      "gas:candidate-vibid:2182000786669": 2,
+      "gas:candidate-vibid:2182000786891": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000049&tvd=2182000744091&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744091&type=464",
@@ -10417,13 +10417,13 @@ export const duma_2016_uik_463_region_18_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 61,
-      "Бузилов Валерий Викторович": 323,
-      "Гусев Антон Владимирович": 28,
-      "Мишкин Юрий Алексеевич": 14,
-      "Назаров Михаил Геннадьевич": 0,
-      "Тимуршин Руслан Рифгатович": 0,
-      "Юнусов Фарид Анасович": 52
+      "gas:candidate-vibid:2182000785120": 61,
+      "gas:candidate-vibid:2182000787559": 323,
+      "gas:candidate-vibid:2182000783908": 28,
+      "gas:candidate-vibid:2182000785484": 14,
+      "gas:candidate-vibid:2182000788256": 0,
+      "gas:candidate-vibid:2182000786669": 0,
+      "gas:candidate-vibid:2182000786891": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000049&tvd=2182000744091&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744091&type=464",
@@ -10474,13 +10474,13 @@ export const duma_2016_uik_463_region_18_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 44,
-      "Бузилов Валерий Викторович": 167,
-      "Гусев Антон Владимирович": 28,
-      "Мишкин Юрий Алексеевич": 9,
-      "Назаров Михаил Геннадьевич": 2,
-      "Тимуршин Руслан Рифгатович": 1,
-      "Юнусов Фарид Анасович": 6
+      "gas:candidate-vibid:2182000785120": 44,
+      "gas:candidate-vibid:2182000787559": 167,
+      "gas:candidate-vibid:2182000783908": 28,
+      "gas:candidate-vibid:2182000785484": 9,
+      "gas:candidate-vibid:2182000788256": 2,
+      "gas:candidate-vibid:2182000786669": 1,
+      "gas:candidate-vibid:2182000786891": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000049&tvd=2182000744091&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744091&type=464",
@@ -10531,13 +10531,13 @@ export const duma_2016_uik_463_region_18_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 30,
-      "Бузилов Валерий Викторович": 337,
-      "Гусев Антон Владимирович": 11,
-      "Мишкин Юрий Алексеевич": 4,
-      "Назаров Михаил Геннадьевич": 1,
-      "Тимуршин Руслан Рифгатович": 2,
-      "Юнусов Фарид Анасович": 6
+      "gas:candidate-vibid:2182000785120": 30,
+      "gas:candidate-vibid:2182000787559": 337,
+      "gas:candidate-vibid:2182000783908": 11,
+      "gas:candidate-vibid:2182000785484": 4,
+      "gas:candidate-vibid:2182000788256": 1,
+      "gas:candidate-vibid:2182000786669": 2,
+      "gas:candidate-vibid:2182000786891": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000049&tvd=2182000744091&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744091&type=464",
@@ -10588,13 +10588,13 @@ export const duma_2016_uik_463_region_18_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 24,
-      "Бузилов Валерий Викторович": 231,
-      "Гусев Антон Владимирович": 17,
-      "Мишкин Юрий Алексеевич": 7,
-      "Назаров Михаил Геннадьевич": 5,
-      "Тимуршин Руслан Рифгатович": 0,
-      "Юнусов Фарид Анасович": 7
+      "gas:candidate-vibid:2182000785120": 24,
+      "gas:candidate-vibid:2182000787559": 231,
+      "gas:candidate-vibid:2182000783908": 17,
+      "gas:candidate-vibid:2182000785484": 7,
+      "gas:candidate-vibid:2182000788256": 5,
+      "gas:candidate-vibid:2182000786669": 0,
+      "gas:candidate-vibid:2182000786891": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000049&tvd=2182000744091&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744091&type=464",
@@ -10645,13 +10645,13 @@ export const duma_2016_uik_463_region_18_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 24,
-      "Бузилов Валерий Викторович": 132,
-      "Гусев Антон Владимирович": 12,
-      "Мишкин Юрий Алексеевич": 5,
-      "Назаров Михаил Геннадьевич": 0,
-      "Тимуршин Руслан Рифгатович": 2,
-      "Юнусов Фарид Анасович": 5
+      "gas:candidate-vibid:2182000785120": 24,
+      "gas:candidate-vibid:2182000787559": 132,
+      "gas:candidate-vibid:2182000783908": 12,
+      "gas:candidate-vibid:2182000785484": 5,
+      "gas:candidate-vibid:2182000788256": 0,
+      "gas:candidate-vibid:2182000786669": 2,
+      "gas:candidate-vibid:2182000786891": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000049&tvd=2182000744091&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744091&type=464",
@@ -10702,13 +10702,13 @@ export const duma_2016_uik_463_region_18_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 19,
-      "Бузилов Валерий Викторович": 326,
-      "Гусев Антон Владимирович": 6,
-      "Мишкин Юрий Алексеевич": 6,
-      "Назаров Михаил Геннадьевич": 5,
-      "Тимуршин Руслан Рифгатович": 2,
-      "Юнусов Фарид Анасович": 3
+      "gas:candidate-vibid:2182000785120": 19,
+      "gas:candidate-vibid:2182000787559": 326,
+      "gas:candidate-vibid:2182000783908": 6,
+      "gas:candidate-vibid:2182000785484": 6,
+      "gas:candidate-vibid:2182000788256": 5,
+      "gas:candidate-vibid:2182000786669": 2,
+      "gas:candidate-vibid:2182000786891": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000049&tvd=2182000744091&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744091&type=464",
@@ -10759,13 +10759,13 @@ export const duma_2016_uik_463_region_18_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 33,
-      "Бузилов Валерий Викторович": 284,
-      "Гусев Антон Владимирович": 27,
-      "Мишкин Юрий Алексеевич": 12,
-      "Назаров Михаил Геннадьевич": 1,
-      "Тимуршин Руслан Рифгатович": 2,
-      "Юнусов Фарид Анасович": 20
+      "gas:candidate-vibid:2182000785120": 33,
+      "gas:candidate-vibid:2182000787559": 284,
+      "gas:candidate-vibid:2182000783908": 27,
+      "gas:candidate-vibid:2182000785484": 12,
+      "gas:candidate-vibid:2182000788256": 1,
+      "gas:candidate-vibid:2182000786669": 2,
+      "gas:candidate-vibid:2182000786891": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000049&tvd=2182000744091&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744091&type=464",
@@ -10816,13 +10816,13 @@ export const duma_2016_uik_463_region_18_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 28,
-      "Бузилов Валерий Викторович": 174,
-      "Гусев Антон Владимирович": 11,
-      "Мишкин Юрий Алексеевич": 6,
-      "Назаров Михаил Геннадьевич": 0,
-      "Тимуршин Руслан Рифгатович": 3,
-      "Юнусов Фарид Анасович": 5
+      "gas:candidate-vibid:2182000785120": 28,
+      "gas:candidate-vibid:2182000787559": 174,
+      "gas:candidate-vibid:2182000783908": 11,
+      "gas:candidate-vibid:2182000785484": 6,
+      "gas:candidate-vibid:2182000788256": 0,
+      "gas:candidate-vibid:2182000786669": 3,
+      "gas:candidate-vibid:2182000786891": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000049&tvd=2182000744091&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744091&type=464",
@@ -10873,13 +10873,13 @@ export const duma_2016_uik_463_region_18_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 45,
-      "Бузилов Валерий Викторович": 550,
-      "Гусев Антон Владимирович": 18,
-      "Мишкин Юрий Алексеевич": 7,
-      "Назаров Михаил Геннадьевич": 1,
-      "Тимуршин Руслан Рифгатович": 2,
-      "Юнусов Фарид Анасович": 8
+      "gas:candidate-vibid:2182000785120": 45,
+      "gas:candidate-vibid:2182000787559": 550,
+      "gas:candidate-vibid:2182000783908": 18,
+      "gas:candidate-vibid:2182000785484": 7,
+      "gas:candidate-vibid:2182000788256": 1,
+      "gas:candidate-vibid:2182000786669": 2,
+      "gas:candidate-vibid:2182000786891": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000049&tvd=2182000744091&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744091&type=464",
@@ -10930,13 +10930,13 @@ export const duma_2016_uik_463_region_18_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 98,
-      "Бузилов Валерий Викторович": 370,
-      "Гусев Антон Владимирович": 27,
-      "Мишкин Юрий Алексеевич": 13,
-      "Назаров Михаил Геннадьевич": 0,
-      "Тимуршин Руслан Рифгатович": 2,
-      "Юнусов Фарид Анасович": 10
+      "gas:candidate-vibid:2182000785120": 98,
+      "gas:candidate-vibid:2182000787559": 370,
+      "gas:candidate-vibid:2182000783908": 27,
+      "gas:candidate-vibid:2182000785484": 13,
+      "gas:candidate-vibid:2182000788256": 0,
+      "gas:candidate-vibid:2182000786669": 2,
+      "gas:candidate-vibid:2182000786891": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000049&tvd=2182000744091&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744091&type=464",
@@ -10987,13 +10987,13 @@ export const duma_2016_uik_463_region_18_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 24,
-      "Бузилов Валерий Викторович": 181,
-      "Гусев Антон Владимирович": 18,
-      "Мишкин Юрий Алексеевич": 11,
-      "Назаров Михаил Геннадьевич": 2,
-      "Тимуршин Руслан Рифгатович": 1,
-      "Юнусов Фарид Анасович": 12
+      "gas:candidate-vibid:2182000785120": 24,
+      "gas:candidate-vibid:2182000787559": 181,
+      "gas:candidate-vibid:2182000783908": 18,
+      "gas:candidate-vibid:2182000785484": 11,
+      "gas:candidate-vibid:2182000788256": 2,
+      "gas:candidate-vibid:2182000786669": 1,
+      "gas:candidate-vibid:2182000786891": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000049&tvd=2182000744091&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744091&type=464",
@@ -11044,13 +11044,13 @@ export const duma_2016_uik_463_region_18_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 36,
-      "Бузилов Валерий Викторович": 272,
-      "Гусев Антон Владимирович": 21,
-      "Мишкин Юрий Алексеевич": 17,
-      "Назаров Михаил Геннадьевич": 2,
-      "Тимуршин Руслан Рифгатович": 1,
-      "Юнусов Фарид Анасович": 11
+      "gas:candidate-vibid:2182000785120": 36,
+      "gas:candidate-vibid:2182000787559": 272,
+      "gas:candidate-vibid:2182000783908": 21,
+      "gas:candidate-vibid:2182000785484": 17,
+      "gas:candidate-vibid:2182000788256": 2,
+      "gas:candidate-vibid:2182000786669": 1,
+      "gas:candidate-vibid:2182000786891": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000049&tvd=2182000744091&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744091&type=464",
@@ -11101,13 +11101,13 @@ export const duma_2016_uik_463_region_18_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 29,
-      "Бузилов Валерий Викторович": 138,
-      "Гусев Антон Владимирович": 9,
-      "Мишкин Юрий Алексеевич": 2,
-      "Назаров Михаил Геннадьевич": 4,
-      "Тимуршин Руслан Рифгатович": 4,
-      "Юнусов Фарид Анасович": 4
+      "gas:candidate-vibid:2182000785120": 29,
+      "gas:candidate-vibid:2182000787559": 138,
+      "gas:candidate-vibid:2182000783908": 9,
+      "gas:candidate-vibid:2182000785484": 2,
+      "gas:candidate-vibid:2182000788256": 4,
+      "gas:candidate-vibid:2182000786669": 4,
+      "gas:candidate-vibid:2182000786891": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000049&tvd=2182000744091&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744091&type=464",
@@ -11158,13 +11158,13 @@ export const duma_2016_uik_463_region_18_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 7,
-      "Бузилов Валерий Викторович": 67,
-      "Гусев Антон Владимирович": 9,
-      "Мишкин Юрий Алексеевич": 4,
-      "Назаров Михаил Геннадьевич": 0,
-      "Тимуршин Руслан Рифгатович": 0,
-      "Юнусов Фарид Анасович": 6
+      "gas:candidate-vibid:2182000785120": 7,
+      "gas:candidate-vibid:2182000787559": 67,
+      "gas:candidate-vibid:2182000783908": 9,
+      "gas:candidate-vibid:2182000785484": 4,
+      "gas:candidate-vibid:2182000788256": 0,
+      "gas:candidate-vibid:2182000786669": 0,
+      "gas:candidate-vibid:2182000786891": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000049&tvd=2182000744091&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744091&type=464",
@@ -11215,13 +11215,13 @@ export const duma_2016_uik_463_region_18_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 24,
-      "Бузилов Валерий Викторович": 219,
-      "Гусев Антон Владимирович": 17,
-      "Мишкин Юрий Алексеевич": 3,
-      "Назаров Михаил Геннадьевич": 0,
-      "Тимуршин Руслан Рифгатович": 0,
-      "Юнусов Фарид Анасович": 5
+      "gas:candidate-vibid:2182000785120": 24,
+      "gas:candidate-vibid:2182000787559": 219,
+      "gas:candidate-vibid:2182000783908": 17,
+      "gas:candidate-vibid:2182000785484": 3,
+      "gas:candidate-vibid:2182000788256": 0,
+      "gas:candidate-vibid:2182000786669": 0,
+      "gas:candidate-vibid:2182000786891": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000049&tvd=2182000744091&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744091&type=464",
@@ -11272,13 +11272,13 @@ export const duma_2016_uik_463_region_18_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 19,
-      "Бузилов Валерий Викторович": 151,
-      "Гусев Антон Владимирович": 10,
-      "Мишкин Юрий Алексеевич": 4,
-      "Назаров Михаил Геннадьевич": 1,
-      "Тимуршин Руслан Рифгатович": 0,
-      "Юнусов Фарид Анасович": 10
+      "gas:candidate-vibid:2182000785120": 19,
+      "gas:candidate-vibid:2182000787559": 151,
+      "gas:candidate-vibid:2182000783908": 10,
+      "gas:candidate-vibid:2182000785484": 4,
+      "gas:candidate-vibid:2182000788256": 1,
+      "gas:candidate-vibid:2182000786669": 0,
+      "gas:candidate-vibid:2182000786891": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000049&tvd=2182000744091&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744091&type=464",
@@ -11329,13 +11329,13 @@ export const duma_2016_uik_463_region_18_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 30,
-      "Бузилов Валерий Викторович": 415,
-      "Гусев Антон Владимирович": 19,
-      "Мишкин Юрий Алексеевич": 9,
-      "Назаров Михаил Геннадьевич": 3,
-      "Тимуршин Руслан Рифгатович": 2,
-      "Юнусов Фарид Анасович": 13
+      "gas:candidate-vibid:2182000785120": 30,
+      "gas:candidate-vibid:2182000787559": 415,
+      "gas:candidate-vibid:2182000783908": 19,
+      "gas:candidate-vibid:2182000785484": 9,
+      "gas:candidate-vibid:2182000788256": 3,
+      "gas:candidate-vibid:2182000786669": 2,
+      "gas:candidate-vibid:2182000786891": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000049&tvd=2182000744091&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744091&type=464",
@@ -11386,13 +11386,13 @@ export const duma_2016_uik_463_region_18_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 25,
-      "Бузилов Валерий Викторович": 166,
-      "Гусев Антон Владимирович": 15,
-      "Мишкин Юрий Алексеевич": 7,
-      "Назаров Михаил Геннадьевич": 0,
-      "Тимуршин Руслан Рифгатович": 1,
-      "Юнусов Фарид Анасович": 2
+      "gas:candidate-vibid:2182000785120": 25,
+      "gas:candidate-vibid:2182000787559": 166,
+      "gas:candidate-vibid:2182000783908": 15,
+      "gas:candidate-vibid:2182000785484": 7,
+      "gas:candidate-vibid:2182000788256": 0,
+      "gas:candidate-vibid:2182000786669": 1,
+      "gas:candidate-vibid:2182000786891": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000049&tvd=2182000744091&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744091&type=464",
@@ -11443,13 +11443,13 @@ export const duma_2016_uik_463_region_18_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 17,
-      "Бузилов Валерий Викторович": 120,
-      "Гусев Антон Владимирович": 6,
-      "Мишкин Юрий Алексеевич": 5,
-      "Назаров Михаил Геннадьевич": 0,
-      "Тимуршин Руслан Рифгатович": 1,
-      "Юнусов Фарид Анасович": 4
+      "gas:candidate-vibid:2182000785120": 17,
+      "gas:candidate-vibid:2182000787559": 120,
+      "gas:candidate-vibid:2182000783908": 6,
+      "gas:candidate-vibid:2182000785484": 5,
+      "gas:candidate-vibid:2182000788256": 0,
+      "gas:candidate-vibid:2182000786669": 1,
+      "gas:candidate-vibid:2182000786891": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000049&tvd=2182000744091&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744091&type=464",
@@ -11500,13 +11500,13 @@ export const duma_2016_uik_463_region_18_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 12,
-      "Бузилов Валерий Викторович": 97,
-      "Гусев Антон Владимирович": 10,
-      "Мишкин Юрий Алексеевич": 6,
-      "Назаров Михаил Геннадьевич": 0,
-      "Тимуршин Руслан Рифгатович": 0,
-      "Юнусов Фарид Анасович": 3
+      "gas:candidate-vibid:2182000785120": 12,
+      "gas:candidate-vibid:2182000787559": 97,
+      "gas:candidate-vibid:2182000783908": 10,
+      "gas:candidate-vibid:2182000785484": 6,
+      "gas:candidate-vibid:2182000788256": 0,
+      "gas:candidate-vibid:2182000786669": 0,
+      "gas:candidate-vibid:2182000786891": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000049&tvd=2182000744091&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744091&type=464",
@@ -11557,13 +11557,13 @@ export const duma_2016_uik_463_region_18_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бодров Владимир Петрович": 25,
-      "Бузилов Валерий Викторович": 152,
-      "Гусев Антон Владимирович": 11,
-      "Мишкин Юрий Алексеевич": 2,
-      "Назаров Михаил Геннадьевич": 0,
-      "Тимуршин Руслан Рифгатович": 0,
-      "Юнусов Фарид Анасович": 2
+      "gas:candidate-vibid:2182000785120": 25,
+      "gas:candidate-vibid:2182000787559": 152,
+      "gas:candidate-vibid:2182000783908": 11,
+      "gas:candidate-vibid:2182000785484": 2,
+      "gas:candidate-vibid:2182000788256": 0,
+      "gas:candidate-vibid:2182000786669": 0,
+      "gas:candidate-vibid:2182000786891": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/udmurt?action=show&root=1000049&tvd=2182000744091&vrn=100100067795849&region=18&global=&sub_region=18&prver=0&pronetvd=null&vibid=2182000744091&type=464",

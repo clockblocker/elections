@@ -43,12 +43,12 @@ export const duma_2016_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарь Оксана Андреевна": 287,
-      "Давыденко Юрий Борисович": 62,
-      "Жуков Павел Борисович": 50,
-      "Иваницкий Сергей Петрович": 171,
-      "Исаев Роман Вадимович": 104,
-      "Новиков Игорь Анатольевич": 117
+      "gas:candidate-vibid:2492000261575": 287,
+      "gas:candidate-vibid:2492000262337": 62,
+      "gas:candidate-vibid:2492000262357": 50,
+      "gas:candidate-vibid:2492000261403": 171,
+      "gas:candidate-vibid:2492000260321": 104,
+      "gas:candidate-vibid:2492000262445": 117
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000255745&vrn=100100067795849&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000255745&type=464",
@@ -99,12 +99,12 @@ export const duma_2016_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарь Оксана Андреевна": 320,
-      "Давыденко Юрий Борисович": 55,
-      "Жуков Павел Борисович": 25,
-      "Иваницкий Сергей Петрович": 201,
-      "Исаев Роман Вадимович": 117,
-      "Новиков Игорь Анатольевич": 142
+      "gas:candidate-vibid:2492000261575": 320,
+      "gas:candidate-vibid:2492000262337": 55,
+      "gas:candidate-vibid:2492000262357": 25,
+      "gas:candidate-vibid:2492000261403": 201,
+      "gas:candidate-vibid:2492000260321": 117,
+      "gas:candidate-vibid:2492000262445": 142
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000255745&vrn=100100067795849&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000255745&type=464",
@@ -155,12 +155,12 @@ export const duma_2016_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарь Оксана Андреевна": 280,
-      "Давыденко Юрий Борисович": 36,
-      "Жуков Павел Борисович": 25,
-      "Иваницкий Сергей Петрович": 158,
-      "Исаев Роман Вадимович": 122,
-      "Новиков Игорь Анатольевич": 136
+      "gas:candidate-vibid:2492000261575": 280,
+      "gas:candidate-vibid:2492000262337": 36,
+      "gas:candidate-vibid:2492000262357": 25,
+      "gas:candidate-vibid:2492000261403": 158,
+      "gas:candidate-vibid:2492000260321": 122,
+      "gas:candidate-vibid:2492000262445": 136
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000255745&vrn=100100067795849&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000255745&type=464",
@@ -211,12 +211,12 @@ export const duma_2016_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарь Оксана Андреевна": 288,
-      "Давыденко Юрий Борисович": 53,
-      "Жуков Павел Борисович": 36,
-      "Иваницкий Сергей Петрович": 157,
-      "Исаев Роман Вадимович": 116,
-      "Новиков Игорь Анатольевич": 128
+      "gas:candidate-vibid:2492000261575": 288,
+      "gas:candidate-vibid:2492000262337": 53,
+      "gas:candidate-vibid:2492000262357": 36,
+      "gas:candidate-vibid:2492000261403": 157,
+      "gas:candidate-vibid:2492000260321": 116,
+      "gas:candidate-vibid:2492000262445": 128
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000255745&vrn=100100067795849&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000255745&type=464",
@@ -267,12 +267,12 @@ export const duma_2016_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарь Оксана Андреевна": 122,
-      "Давыденко Юрий Борисович": 23,
-      "Жуков Павел Борисович": 9,
-      "Иваницкий Сергей Петрович": 101,
-      "Исаев Роман Вадимович": 56,
-      "Новиков Игорь Анатольевич": 57
+      "gas:candidate-vibid:2492000261575": 122,
+      "gas:candidate-vibid:2492000262337": 23,
+      "gas:candidate-vibid:2492000262357": 9,
+      "gas:candidate-vibid:2492000261403": 101,
+      "gas:candidate-vibid:2492000260321": 56,
+      "gas:candidate-vibid:2492000262445": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000255745&vrn=100100067795849&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000255745&type=464",
@@ -323,12 +323,12 @@ export const duma_2016_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарь Оксана Андреевна": 47,
-      "Давыденко Юрий Борисович": 6,
-      "Жуков Павел Борисович": 3,
-      "Иваницкий Сергей Петрович": 34,
-      "Исаев Роман Вадимович": 27,
-      "Новиков Игорь Анатольевич": 15
+      "gas:candidate-vibid:2492000261575": 47,
+      "gas:candidate-vibid:2492000262337": 6,
+      "gas:candidate-vibid:2492000262357": 3,
+      "gas:candidate-vibid:2492000261403": 34,
+      "gas:candidate-vibid:2492000260321": 27,
+      "gas:candidate-vibid:2492000262445": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000255745&vrn=100100067795849&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000255745&type=464",
@@ -379,12 +379,12 @@ export const duma_2016_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарь Оксана Андреевна": 44,
-      "Давыденко Юрий Борисович": 19,
-      "Жуков Павел Борисович": 12,
-      "Иваницкий Сергей Петрович": 48,
-      "Исаев Роман Вадимович": 32,
-      "Новиков Игорь Анатольевич": 26
+      "gas:candidate-vibid:2492000261575": 44,
+      "gas:candidate-vibid:2492000262337": 19,
+      "gas:candidate-vibid:2492000262357": 12,
+      "gas:candidate-vibid:2492000261403": 48,
+      "gas:candidate-vibid:2492000260321": 32,
+      "gas:candidate-vibid:2492000262445": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000255745&vrn=100100067795849&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000255745&type=464",
@@ -435,12 +435,12 @@ export const duma_2016_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарь Оксана Андреевна": 319,
-      "Давыденко Юрий Борисович": 43,
-      "Жуков Павел Борисович": 32,
-      "Иваницкий Сергей Петрович": 178,
-      "Исаев Роман Вадимович": 121,
-      "Новиков Игорь Анатольевич": 115
+      "gas:candidate-vibid:2492000261575": 319,
+      "gas:candidate-vibid:2492000262337": 43,
+      "gas:candidate-vibid:2492000262357": 32,
+      "gas:candidate-vibid:2492000261403": 178,
+      "gas:candidate-vibid:2492000260321": 121,
+      "gas:candidate-vibid:2492000262445": 115
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000255745&vrn=100100067795849&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000255745&type=464",
@@ -491,12 +491,12 @@ export const duma_2016_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарь Оксана Андреевна": 288,
-      "Давыденко Юрий Борисович": 38,
-      "Жуков Павел Борисович": 28,
-      "Иваницкий Сергей Петрович": 157,
-      "Исаев Роман Вадимович": 93,
-      "Новиков Игорь Анатольевич": 143
+      "gas:candidate-vibid:2492000261575": 288,
+      "gas:candidate-vibid:2492000262337": 38,
+      "gas:candidate-vibid:2492000262357": 28,
+      "gas:candidate-vibid:2492000261403": 157,
+      "gas:candidate-vibid:2492000260321": 93,
+      "gas:candidate-vibid:2492000262445": 143
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000255745&vrn=100100067795849&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000255745&type=464",
@@ -547,12 +547,12 @@ export const duma_2016_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарь Оксана Андреевна": 285,
-      "Давыденко Юрий Борисович": 44,
-      "Жуков Павел Борисович": 28,
-      "Иваницкий Сергей Петрович": 133,
-      "Исаев Роман Вадимович": 122,
-      "Новиков Игорь Анатольевич": 100
+      "gas:candidate-vibid:2492000261575": 285,
+      "gas:candidate-vibid:2492000262337": 44,
+      "gas:candidate-vibid:2492000262357": 28,
+      "gas:candidate-vibid:2492000261403": 133,
+      "gas:candidate-vibid:2492000260321": 122,
+      "gas:candidate-vibid:2492000262445": 100
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000255745&vrn=100100067795849&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000255745&type=464",
@@ -603,12 +603,12 @@ export const duma_2016_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарь Оксана Андреевна": 324,
-      "Давыденко Юрий Борисович": 58,
-      "Жуков Павел Борисович": 35,
-      "Иваницкий Сергей Петрович": 173,
-      "Исаев Роман Вадимович": 122,
-      "Новиков Игорь Анатольевич": 135
+      "gas:candidate-vibid:2492000261575": 324,
+      "gas:candidate-vibid:2492000262337": 58,
+      "gas:candidate-vibid:2492000262357": 35,
+      "gas:candidate-vibid:2492000261403": 173,
+      "gas:candidate-vibid:2492000260321": 122,
+      "gas:candidate-vibid:2492000262445": 135
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000255745&vrn=100100067795849&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000255745&type=464",
@@ -659,12 +659,12 @@ export const duma_2016_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарь Оксана Андреевна": 281,
-      "Давыденко Юрий Борисович": 65,
-      "Жуков Павел Борисович": 33,
-      "Иваницкий Сергей Петрович": 166,
-      "Исаев Роман Вадимович": 133,
-      "Новиков Игорь Анатольевич": 154
+      "gas:candidate-vibid:2492000261575": 281,
+      "gas:candidate-vibid:2492000262337": 65,
+      "gas:candidate-vibid:2492000262357": 33,
+      "gas:candidate-vibid:2492000261403": 166,
+      "gas:candidate-vibid:2492000260321": 133,
+      "gas:candidate-vibid:2492000262445": 154
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000255745&vrn=100100067795849&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000255745&type=464",
@@ -715,12 +715,12 @@ export const duma_2016_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарь Оксана Андреевна": 356,
-      "Давыденко Юрий Борисович": 56,
-      "Жуков Павел Борисович": 34,
-      "Иваницкий Сергей Петрович": 189,
-      "Исаев Роман Вадимович": 132,
-      "Новиков Игорь Анатольевич": 129
+      "gas:candidate-vibid:2492000261575": 356,
+      "gas:candidate-vibid:2492000262337": 56,
+      "gas:candidate-vibid:2492000262357": 34,
+      "gas:candidate-vibid:2492000261403": 189,
+      "gas:candidate-vibid:2492000260321": 132,
+      "gas:candidate-vibid:2492000262445": 129
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000255745&vrn=100100067795849&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000255745&type=464",
@@ -771,12 +771,12 @@ export const duma_2016_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарь Оксана Андреевна": 107,
-      "Давыденко Юрий Борисович": 14,
-      "Жуков Павел Борисович": 9,
-      "Иваницкий Сергей Петрович": 64,
-      "Исаев Роман Вадимович": 62,
-      "Новиков Игорь Анатольевич": 45
+      "gas:candidate-vibid:2492000261575": 107,
+      "gas:candidate-vibid:2492000262337": 14,
+      "gas:candidate-vibid:2492000262357": 9,
+      "gas:candidate-vibid:2492000261403": 64,
+      "gas:candidate-vibid:2492000260321": 62,
+      "gas:candidate-vibid:2492000262445": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000255745&vrn=100100067795849&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000255745&type=464",
@@ -827,12 +827,12 @@ export const duma_2016_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарь Оксана Андреевна": 231,
-      "Давыденко Юрий Борисович": 38,
-      "Жуков Павел Борисович": 26,
-      "Иваницкий Сергей Петрович": 117,
-      "Исаев Роман Вадимович": 90,
-      "Новиков Игорь Анатольевич": 70
+      "gas:candidate-vibid:2492000261575": 231,
+      "gas:candidate-vibid:2492000262337": 38,
+      "gas:candidate-vibid:2492000262357": 26,
+      "gas:candidate-vibid:2492000261403": 117,
+      "gas:candidate-vibid:2492000260321": 90,
+      "gas:candidate-vibid:2492000262445": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000255745&vrn=100100067795849&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000255745&type=464",
@@ -883,12 +883,12 @@ export const duma_2016_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарь Оксана Андреевна": 286,
-      "Давыденко Юрий Борисович": 47,
-      "Жуков Павел Борисович": 31,
-      "Иваницкий Сергей Петрович": 145,
-      "Исаев Роман Вадимович": 122,
-      "Новиков Игорь Анатольевич": 148
+      "gas:candidate-vibid:2492000261575": 286,
+      "gas:candidate-vibid:2492000262337": 47,
+      "gas:candidate-vibid:2492000262357": 31,
+      "gas:candidate-vibid:2492000261403": 145,
+      "gas:candidate-vibid:2492000260321": 122,
+      "gas:candidate-vibid:2492000262445": 148
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000255745&vrn=100100067795849&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000255745&type=464",
@@ -939,12 +939,12 @@ export const duma_2016_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарь Оксана Андреевна": 385,
-      "Давыденко Юрий Борисович": 36,
-      "Жуков Павел Борисович": 19,
-      "Иваницкий Сергей Петрович": 107,
-      "Исаев Роман Вадимович": 98,
-      "Новиков Игорь Анатольевич": 125
+      "gas:candidate-vibid:2492000261575": 385,
+      "gas:candidate-vibid:2492000262337": 36,
+      "gas:candidate-vibid:2492000262357": 19,
+      "gas:candidate-vibid:2492000261403": 107,
+      "gas:candidate-vibid:2492000260321": 98,
+      "gas:candidate-vibid:2492000262445": 125
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000255745&vrn=100100067795849&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000255745&type=464",
@@ -995,12 +995,12 @@ export const duma_2016_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарь Оксана Андреевна": 311,
-      "Давыденко Юрий Борисович": 59,
-      "Жуков Павел Борисович": 21,
-      "Иваницкий Сергей Петрович": 165,
-      "Исаев Роман Вадимович": 144,
-      "Новиков Игорь Анатольевич": 144
+      "gas:candidate-vibid:2492000261575": 311,
+      "gas:candidate-vibid:2492000262337": 59,
+      "gas:candidate-vibid:2492000262357": 21,
+      "gas:candidate-vibid:2492000261403": 165,
+      "gas:candidate-vibid:2492000260321": 144,
+      "gas:candidate-vibid:2492000262445": 144
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000255745&vrn=100100067795849&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000255745&type=464",
@@ -1051,12 +1051,12 @@ export const duma_2016_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарь Оксана Андреевна": 291,
-      "Давыденко Юрий Борисович": 52,
-      "Жуков Павел Борисович": 30,
-      "Иваницкий Сергей Петрович": 133,
-      "Исаев Роман Вадимович": 120,
-      "Новиков Игорь Анатольевич": 110
+      "gas:candidate-vibid:2492000261575": 291,
+      "gas:candidate-vibid:2492000262337": 52,
+      "gas:candidate-vibid:2492000262357": 30,
+      "gas:candidate-vibid:2492000261403": 133,
+      "gas:candidate-vibid:2492000260321": 120,
+      "gas:candidate-vibid:2492000262445": 110
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000255745&vrn=100100067795849&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000255745&type=464",
@@ -1107,12 +1107,12 @@ export const duma_2016_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарь Оксана Андреевна": 292,
-      "Давыденко Юрий Борисович": 59,
-      "Жуков Павел Борисович": 33,
-      "Иваницкий Сергей Петрович": 163,
-      "Исаев Роман Вадимович": 101,
-      "Новиков Игорь Анатольевич": 140
+      "gas:candidate-vibid:2492000261575": 292,
+      "gas:candidate-vibid:2492000262337": 59,
+      "gas:candidate-vibid:2492000262357": 33,
+      "gas:candidate-vibid:2492000261403": 163,
+      "gas:candidate-vibid:2492000260321": 101,
+      "gas:candidate-vibid:2492000262445": 140
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000255745&vrn=100100067795849&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000255745&type=464",
@@ -1163,12 +1163,12 @@ export const duma_2016_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарь Оксана Андреевна": 168,
-      "Давыденко Юрий Борисович": 34,
-      "Жуков Павел Борисович": 17,
-      "Иваницкий Сергей Петрович": 114,
-      "Исаев Роман Вадимович": 92,
-      "Новиков Игорь Анатольевич": 64
+      "gas:candidate-vibid:2492000261575": 168,
+      "gas:candidate-vibid:2492000262337": 34,
+      "gas:candidate-vibid:2492000262357": 17,
+      "gas:candidate-vibid:2492000261403": 114,
+      "gas:candidate-vibid:2492000260321": 92,
+      "gas:candidate-vibid:2492000262445": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000255745&vrn=100100067795849&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000255745&type=464",
@@ -1219,12 +1219,12 @@ export const duma_2016_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарь Оксана Андреевна": 56,
-      "Давыденко Юрий Борисович": 8,
-      "Жуков Павел Борисович": 3,
-      "Иваницкий Сергей Петрович": 46,
-      "Исаев Роман Вадимович": 30,
-      "Новиков Игорь Анатольевич": 32
+      "gas:candidate-vibid:2492000261575": 56,
+      "gas:candidate-vibid:2492000262337": 8,
+      "gas:candidate-vibid:2492000262357": 3,
+      "gas:candidate-vibid:2492000261403": 46,
+      "gas:candidate-vibid:2492000260321": 30,
+      "gas:candidate-vibid:2492000262445": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000255745&vrn=100100067795849&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000255745&type=464",
@@ -1275,12 +1275,12 @@ export const duma_2016_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарь Оксана Андреевна": 341,
-      "Давыденко Юрий Борисович": 58,
-      "Жуков Павел Борисович": 21,
-      "Иваницкий Сергей Петрович": 133,
-      "Исаев Роман Вадимович": 159,
-      "Новиков Игорь Анатольевич": 102
+      "gas:candidate-vibid:2492000261575": 341,
+      "gas:candidate-vibid:2492000262337": 58,
+      "gas:candidate-vibid:2492000262357": 21,
+      "gas:candidate-vibid:2492000261403": 133,
+      "gas:candidate-vibid:2492000260321": 159,
+      "gas:candidate-vibid:2492000262445": 102
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000255745&vrn=100100067795849&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000255745&type=464",
@@ -1331,12 +1331,12 @@ export const duma_2016_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарь Оксана Андреевна": 325,
-      "Давыденко Юрий Борисович": 66,
-      "Жуков Павел Борисович": 26,
-      "Иваницкий Сергей Петрович": 156,
-      "Исаев Роман Вадимович": 140,
-      "Новиков Игорь Анатольевич": 117
+      "gas:candidate-vibid:2492000261575": 325,
+      "gas:candidate-vibid:2492000262337": 66,
+      "gas:candidate-vibid:2492000262357": 26,
+      "gas:candidate-vibid:2492000261403": 156,
+      "gas:candidate-vibid:2492000260321": 140,
+      "gas:candidate-vibid:2492000262445": 117
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000255745&vrn=100100067795849&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000255745&type=464",
@@ -1387,12 +1387,12 @@ export const duma_2016_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарь Оксана Андреевна": 228,
-      "Давыденко Юрий Борисович": 46,
-      "Жуков Павел Борисович": 18,
-      "Иваницкий Сергей Петрович": 88,
-      "Исаев Роман Вадимович": 106,
-      "Новиков Игорь Анатольевич": 91
+      "gas:candidate-vibid:2492000261575": 228,
+      "gas:candidate-vibid:2492000262337": 46,
+      "gas:candidate-vibid:2492000262357": 18,
+      "gas:candidate-vibid:2492000261403": 88,
+      "gas:candidate-vibid:2492000260321": 106,
+      "gas:candidate-vibid:2492000262445": 91
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000255745&vrn=100100067795849&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000255745&type=464",
@@ -1443,12 +1443,12 @@ export const duma_2016_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарь Оксана Андреевна": 45,
-      "Давыденко Юрий Борисович": 14,
-      "Жуков Павел Борисович": 1,
-      "Иваницкий Сергей Петрович": 26,
-      "Исаев Роман Вадимович": 25,
-      "Новиков Игорь Анатольевич": 10
+      "gas:candidate-vibid:2492000261575": 45,
+      "gas:candidate-vibid:2492000262337": 14,
+      "gas:candidate-vibid:2492000262357": 1,
+      "gas:candidate-vibid:2492000261403": 26,
+      "gas:candidate-vibid:2492000260321": 25,
+      "gas:candidate-vibid:2492000262445": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000255745&vrn=100100067795849&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000255745&type=464",
@@ -1499,12 +1499,12 @@ export const duma_2016_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарь Оксана Андреевна": 214,
-      "Давыденко Юрий Борисович": 39,
-      "Жуков Павел Борисович": 8,
-      "Иваницкий Сергей Петрович": 127,
-      "Исаев Роман Вадимович": 92,
-      "Новиков Игорь Анатольевич": 87
+      "gas:candidate-vibid:2492000261575": 214,
+      "gas:candidate-vibid:2492000262337": 39,
+      "gas:candidate-vibid:2492000262357": 8,
+      "gas:candidate-vibid:2492000261403": 127,
+      "gas:candidate-vibid:2492000260321": 92,
+      "gas:candidate-vibid:2492000262445": 87
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000255745&vrn=100100067795849&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000255745&type=464",
@@ -1555,12 +1555,12 @@ export const duma_2016_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарь Оксана Андреевна": 293,
-      "Давыденко Юрий Борисович": 60,
-      "Жуков Павел Борисович": 24,
-      "Иваницкий Сергей Петрович": 191,
-      "Исаев Роман Вадимович": 134,
-      "Новиков Игорь Анатольевич": 151
+      "gas:candidate-vibid:2492000261575": 293,
+      "gas:candidate-vibid:2492000262337": 60,
+      "gas:candidate-vibid:2492000262357": 24,
+      "gas:candidate-vibid:2492000261403": 191,
+      "gas:candidate-vibid:2492000260321": 134,
+      "gas:candidate-vibid:2492000262445": 151
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000255745&vrn=100100067795849&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000255745&type=464",
@@ -1611,12 +1611,12 @@ export const duma_2016_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарь Оксана Андреевна": 354,
-      "Давыденко Юрий Борисович": 56,
-      "Жуков Павел Борисович": 32,
-      "Иваницкий Сергей Петрович": 171,
-      "Исаев Роман Вадимович": 135,
-      "Новиков Игорь Анатольевич": 105
+      "gas:candidate-vibid:2492000261575": 354,
+      "gas:candidate-vibid:2492000262337": 56,
+      "gas:candidate-vibid:2492000262357": 32,
+      "gas:candidate-vibid:2492000261403": 171,
+      "gas:candidate-vibid:2492000260321": 135,
+      "gas:candidate-vibid:2492000262445": 105
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000255745&vrn=100100067795849&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000255745&type=464",
@@ -1667,12 +1667,12 @@ export const duma_2016_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарь Оксана Андреевна": 244,
-      "Давыденко Юрий Борисович": 42,
-      "Жуков Павел Борисович": 20,
-      "Иваницкий Сергей Петрович": 112,
-      "Исаев Роман Вадимович": 98,
-      "Новиков Игорь Анатольевич": 100
+      "gas:candidate-vibid:2492000261575": 244,
+      "gas:candidate-vibid:2492000262337": 42,
+      "gas:candidate-vibid:2492000262357": 20,
+      "gas:candidate-vibid:2492000261403": 112,
+      "gas:candidate-vibid:2492000260321": 98,
+      "gas:candidate-vibid:2492000262445": 100
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000255745&vrn=100100067795849&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000255745&type=464",
@@ -1723,12 +1723,12 @@ export const duma_2016_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарь Оксана Андреевна": 92,
-      "Давыденко Юрий Борисович": 25,
-      "Жуков Павел Борисович": 9,
-      "Иваницкий Сергей Петрович": 49,
-      "Исаев Роман Вадимович": 45,
-      "Новиков Игорь Анатольевич": 47
+      "gas:candidate-vibid:2492000261575": 92,
+      "gas:candidate-vibid:2492000262337": 25,
+      "gas:candidate-vibid:2492000262357": 9,
+      "gas:candidate-vibid:2492000261403": 49,
+      "gas:candidate-vibid:2492000260321": 45,
+      "gas:candidate-vibid:2492000262445": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000255745&vrn=100100067795849&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000255745&type=464",
@@ -1779,12 +1779,12 @@ export const duma_2016_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарь Оксана Андреевна": 79,
-      "Давыденко Юрий Борисович": 15,
-      "Жуков Павел Борисович": 7,
-      "Иваницкий Сергей Петрович": 45,
-      "Исаев Роман Вадимович": 28,
-      "Новиков Игорь Анатольевич": 22
+      "gas:candidate-vibid:2492000261575": 79,
+      "gas:candidate-vibid:2492000262337": 15,
+      "gas:candidate-vibid:2492000262357": 7,
+      "gas:candidate-vibid:2492000261403": 45,
+      "gas:candidate-vibid:2492000260321": 28,
+      "gas:candidate-vibid:2492000262445": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000255745&vrn=100100067795849&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000255745&type=464",
@@ -1835,12 +1835,12 @@ export const duma_2016_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарь Оксана Андреевна": 127,
-      "Давыденко Юрий Борисович": 20,
-      "Жуков Павел Борисович": 6,
-      "Иваницкий Сергей Петрович": 53,
-      "Исаев Роман Вадимович": 61,
-      "Новиков Игорь Анатольевич": 34
+      "gas:candidate-vibid:2492000261575": 127,
+      "gas:candidate-vibid:2492000262337": 20,
+      "gas:candidate-vibid:2492000262357": 6,
+      "gas:candidate-vibid:2492000261403": 53,
+      "gas:candidate-vibid:2492000260321": 61,
+      "gas:candidate-vibid:2492000262445": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000255745&vrn=100100067795849&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000255745&type=464",
@@ -1891,12 +1891,12 @@ export const duma_2016_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарь Оксана Андреевна": 49,
-      "Давыденко Юрий Борисович": 9,
-      "Жуков Павел Борисович": 4,
-      "Иваницкий Сергей Петрович": 34,
-      "Исаев Роман Вадимович": 24,
-      "Новиков Игорь Анатольевич": 25
+      "gas:candidate-vibid:2492000261575": 49,
+      "gas:candidate-vibid:2492000262337": 9,
+      "gas:candidate-vibid:2492000262357": 4,
+      "gas:candidate-vibid:2492000261403": 34,
+      "gas:candidate-vibid:2492000260321": 24,
+      "gas:candidate-vibid:2492000262445": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000255745&vrn=100100067795849&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000255745&type=464",
@@ -1947,12 +1947,12 @@ export const duma_2016_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарь Оксана Андреевна": 236,
-      "Давыденко Юрий Борисович": 17,
-      "Жуков Павел Борисович": 5,
-      "Иваницкий Сергей Петрович": 25,
-      "Исаев Роман Вадимович": 66,
-      "Новиков Игорь Анатольевич": 37
+      "gas:candidate-vibid:2492000261575": 236,
+      "gas:candidate-vibid:2492000262337": 17,
+      "gas:candidate-vibid:2492000262357": 5,
+      "gas:candidate-vibid:2492000261403": 25,
+      "gas:candidate-vibid:2492000260321": 66,
+      "gas:candidate-vibid:2492000262445": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000255745&vrn=100100067795849&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000255745&type=464",
@@ -2003,12 +2003,12 @@ export const duma_2016_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарь Оксана Андреевна": 154,
-      "Давыденко Юрий Борисович": 24,
-      "Жуков Павел Борисович": 10,
-      "Иваницкий Сергей Петрович": 46,
-      "Исаев Роман Вадимович": 26,
-      "Новиков Игорь Анатольевич": 28
+      "gas:candidate-vibid:2492000261575": 154,
+      "gas:candidate-vibid:2492000262337": 24,
+      "gas:candidate-vibid:2492000262357": 10,
+      "gas:candidate-vibid:2492000261403": 46,
+      "gas:candidate-vibid:2492000260321": 26,
+      "gas:candidate-vibid:2492000262445": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000255745&vrn=100100067795849&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000255745&type=464",
@@ -2059,12 +2059,12 @@ export const duma_2016_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарь Оксана Андреевна": 350,
-      "Давыденко Юрий Борисович": 46,
-      "Жуков Павел Борисович": 28,
-      "Иваницкий Сергей Петрович": 127,
-      "Исаев Роман Вадимович": 138,
-      "Новиков Игорь Анатольевич": 102
+      "gas:candidate-vibid:2492000261575": 350,
+      "gas:candidate-vibid:2492000262337": 46,
+      "gas:candidate-vibid:2492000262357": 28,
+      "gas:candidate-vibid:2492000261403": 127,
+      "gas:candidate-vibid:2492000260321": 138,
+      "gas:candidate-vibid:2492000262445": 102
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000255745&vrn=100100067795849&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000255745&type=464",
@@ -2115,12 +2115,12 @@ export const duma_2016_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарь Оксана Андреевна": 115,
-      "Давыденко Юрий Борисович": 9,
-      "Жуков Павел Борисович": 6,
-      "Иваницкий Сергей Петрович": 10,
-      "Исаев Роман Вадимович": 30,
-      "Новиков Игорь Анатольевич": 14
+      "gas:candidate-vibid:2492000261575": 115,
+      "gas:candidate-vibid:2492000262337": 9,
+      "gas:candidate-vibid:2492000262357": 6,
+      "gas:candidate-vibid:2492000261403": 10,
+      "gas:candidate-vibid:2492000260321": 30,
+      "gas:candidate-vibid:2492000262445": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000255745&vrn=100100067795849&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000255745&type=464",
@@ -2171,12 +2171,12 @@ export const duma_2016_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарь Оксана Андреевна": 76,
-      "Давыденко Юрий Борисович": 21,
-      "Жуков Павел Борисович": 4,
-      "Иваницкий Сергей Петрович": 29,
-      "Исаев Роман Вадимович": 36,
-      "Новиков Игорь Анатольевич": 27
+      "gas:candidate-vibid:2492000261575": 76,
+      "gas:candidate-vibid:2492000262337": 21,
+      "gas:candidate-vibid:2492000262357": 4,
+      "gas:candidate-vibid:2492000261403": 29,
+      "gas:candidate-vibid:2492000260321": 36,
+      "gas:candidate-vibid:2492000262445": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000255745&vrn=100100067795849&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000255745&type=464",
@@ -2227,12 +2227,12 @@ export const duma_2016_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарь Оксана Андреевна": 4,
-      "Давыденко Юрий Борисович": 0,
-      "Жуков Павел Борисович": 0,
-      "Иваницкий Сергей Петрович": 1,
-      "Исаев Роман Вадимович": 0,
-      "Новиков Игорь Анатольевич": 0
+      "gas:candidate-vibid:2492000261575": 4,
+      "gas:candidate-vibid:2492000262337": 0,
+      "gas:candidate-vibid:2492000262357": 0,
+      "gas:candidate-vibid:2492000261403": 1,
+      "gas:candidate-vibid:2492000260321": 0,
+      "gas:candidate-vibid:2492000262445": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000255745&vrn=100100067795849&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000255745&type=464",
@@ -2283,12 +2283,12 @@ export const duma_2016_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарь Оксана Андреевна": 35,
-      "Давыденко Юрий Борисович": 1,
-      "Жуков Павел Борисович": 1,
-      "Иваницкий Сергей Петрович": 5,
-      "Исаев Роман Вадимович": 1,
-      "Новиков Игорь Анатольевич": 3
+      "gas:candidate-vibid:2492000261575": 35,
+      "gas:candidate-vibid:2492000262337": 1,
+      "gas:candidate-vibid:2492000262357": 1,
+      "gas:candidate-vibid:2492000261403": 5,
+      "gas:candidate-vibid:2492000260321": 1,
+      "gas:candidate-vibid:2492000262445": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000255745&vrn=100100067795849&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000255745&type=464",
@@ -2339,12 +2339,12 @@ export const duma_2016_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарь Оксана Андреевна": 34,
-      "Давыденко Юрий Борисович": 0,
-      "Жуков Павел Борисович": 0,
-      "Иваницкий Сергей Петрович": 2,
-      "Исаев Роман Вадимович": 0,
-      "Новиков Игорь Анатольевич": 2
+      "gas:candidate-vibid:2492000261575": 34,
+      "gas:candidate-vibid:2492000262337": 0,
+      "gas:candidate-vibid:2492000262357": 0,
+      "gas:candidate-vibid:2492000261403": 2,
+      "gas:candidate-vibid:2492000260321": 0,
+      "gas:candidate-vibid:2492000262445": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000255745&vrn=100100067795849&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000255745&type=464",
@@ -2395,12 +2395,12 @@ export const duma_2016_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарь Оксана Андреевна": 17,
-      "Давыденко Юрий Борисович": 0,
-      "Жуков Павел Борисович": 0,
-      "Иваницкий Сергей Петрович": 1,
-      "Исаев Роман Вадимович": 0,
-      "Новиков Игорь Анатольевич": 2
+      "gas:candidate-vibid:2492000261575": 17,
+      "gas:candidate-vibid:2492000262337": 0,
+      "gas:candidate-vibid:2492000262357": 0,
+      "gas:candidate-vibid:2492000261403": 1,
+      "gas:candidate-vibid:2492000260321": 0,
+      "gas:candidate-vibid:2492000262445": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000255745&vrn=100100067795849&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000255745&type=464",
@@ -2451,12 +2451,12 @@ export const duma_2016_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарь Оксана Андреевна": 8,
-      "Давыденко Юрий Борисович": 0,
-      "Жуков Павел Борисович": 0,
-      "Иваницкий Сергей Петрович": 1,
-      "Исаев Роман Вадимович": 0,
-      "Новиков Игорь Анатольевич": 1
+      "gas:candidate-vibid:2492000261575": 8,
+      "gas:candidate-vibid:2492000262337": 0,
+      "gas:candidate-vibid:2492000262357": 0,
+      "gas:candidate-vibid:2492000261403": 1,
+      "gas:candidate-vibid:2492000260321": 0,
+      "gas:candidate-vibid:2492000262445": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000255745&vrn=100100067795849&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000255745&type=464",
@@ -2507,12 +2507,12 @@ export const duma_2016_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарь Оксана Андреевна": 8,
-      "Давыденко Юрий Борисович": 0,
-      "Жуков Павел Борисович": 0,
-      "Иваницкий Сергей Петрович": 1,
-      "Исаев Роман Вадимович": 0,
-      "Новиков Игорь Анатольевич": 1
+      "gas:candidate-vibid:2492000261575": 8,
+      "gas:candidate-vibid:2492000262337": 0,
+      "gas:candidate-vibid:2492000262357": 0,
+      "gas:candidate-vibid:2492000261403": 1,
+      "gas:candidate-vibid:2492000260321": 0,
+      "gas:candidate-vibid:2492000262445": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000255745&vrn=100100067795849&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000255745&type=464",
@@ -2563,12 +2563,12 @@ export const duma_2016_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарь Оксана Андреевна": 16,
-      "Давыденко Юрий Борисович": 0,
-      "Жуков Павел Борисович": 0,
-      "Иваницкий Сергей Петрович": 1,
-      "Исаев Роман Вадимович": 0,
-      "Новиков Игорь Анатольевич": 1
+      "gas:candidate-vibid:2492000261575": 16,
+      "gas:candidate-vibid:2492000262337": 0,
+      "gas:candidate-vibid:2492000262357": 0,
+      "gas:candidate-vibid:2492000261403": 1,
+      "gas:candidate-vibid:2492000260321": 0,
+      "gas:candidate-vibid:2492000262445": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000255745&vrn=100100067795849&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000255745&type=464",
@@ -2619,12 +2619,12 @@ export const duma_2016_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарь Оксана Андреевна": 16,
-      "Давыденко Юрий Борисович": 0,
-      "Жуков Павел Борисович": 0,
-      "Иваницкий Сергей Петрович": 2,
-      "Исаев Роман Вадимович": 0,
-      "Новиков Игорь Анатольевич": 2
+      "gas:candidate-vibid:2492000261575": 16,
+      "gas:candidate-vibid:2492000262337": 0,
+      "gas:candidate-vibid:2492000262357": 0,
+      "gas:candidate-vibid:2492000261403": 2,
+      "gas:candidate-vibid:2492000260321": 0,
+      "gas:candidate-vibid:2492000262445": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000255745&vrn=100100067795849&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000255745&type=464",
@@ -2675,12 +2675,12 @@ export const duma_2016_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарь Оксана Андреевна": 15,
-      "Давыденко Юрий Борисович": 0,
-      "Жуков Павел Борисович": 0,
-      "Иваницкий Сергей Петрович": 2,
-      "Исаев Роман Вадимович": 0,
-      "Новиков Игорь Анатольевич": 2
+      "gas:candidate-vibid:2492000261575": 15,
+      "gas:candidate-vibid:2492000262337": 0,
+      "gas:candidate-vibid:2492000262357": 0,
+      "gas:candidate-vibid:2492000261403": 2,
+      "gas:candidate-vibid:2492000260321": 0,
+      "gas:candidate-vibid:2492000262445": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000255745&vrn=100100067795849&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000255745&type=464",
@@ -2731,12 +2731,12 @@ export const duma_2016_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарь Оксана Андреевна": 5,
-      "Давыденко Юрий Борисович": 0,
-      "Жуков Павел Борисович": 0,
-      "Иваницкий Сергей Петрович": 1,
-      "Исаев Роман Вадимович": 0,
-      "Новиков Игорь Анатольевич": 0
+      "gas:candidate-vibid:2492000261575": 5,
+      "gas:candidate-vibid:2492000262337": 0,
+      "gas:candidate-vibid:2492000262357": 0,
+      "gas:candidate-vibid:2492000261403": 1,
+      "gas:candidate-vibid:2492000260321": 0,
+      "gas:candidate-vibid:2492000262445": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000255745&vrn=100100067795849&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000255745&type=464",
@@ -2787,12 +2787,12 @@ export const duma_2016_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарь Оксана Андреевна": 5,
-      "Давыденко Юрий Борисович": 0,
-      "Жуков Павел Борисович": 0,
-      "Иваницкий Сергей Петрович": 0,
-      "Исаев Роман Вадимович": 1,
-      "Новиков Игорь Анатольевич": 0
+      "gas:candidate-vibid:2492000261575": 5,
+      "gas:candidate-vibid:2492000262337": 0,
+      "gas:candidate-vibid:2492000262357": 0,
+      "gas:candidate-vibid:2492000261403": 0,
+      "gas:candidate-vibid:2492000260321": 1,
+      "gas:candidate-vibid:2492000262445": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000255745&vrn=100100067795849&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000255745&type=464",
@@ -2843,12 +2843,12 @@ export const duma_2016_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарь Оксана Андреевна": 1,
-      "Давыденко Юрий Борисович": 1,
-      "Жуков Павел Борисович": 0,
-      "Иваницкий Сергей Петрович": 2,
-      "Исаев Роман Вадимович": 0,
-      "Новиков Игорь Анатольевич": 2
+      "gas:candidate-vibid:2492000261575": 1,
+      "gas:candidate-vibid:2492000262337": 1,
+      "gas:candidate-vibid:2492000262357": 0,
+      "gas:candidate-vibid:2492000261403": 2,
+      "gas:candidate-vibid:2492000260321": 0,
+      "gas:candidate-vibid:2492000262445": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000255745&vrn=100100067795849&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000255745&type=464",
@@ -2899,12 +2899,12 @@ export const duma_2016_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарь Оксана Андреевна": 17,
-      "Давыденко Юрий Борисович": 4,
-      "Жуков Павел Борисович": 4,
-      "Иваницкий Сергей Петрович": 0,
-      "Исаев Роман Вадимович": 4,
-      "Новиков Игорь Анатольевич": 1
+      "gas:candidate-vibid:2492000261575": 17,
+      "gas:candidate-vibid:2492000262337": 4,
+      "gas:candidate-vibid:2492000262357": 4,
+      "gas:candidate-vibid:2492000261403": 0,
+      "gas:candidate-vibid:2492000260321": 4,
+      "gas:candidate-vibid:2492000262445": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000255745&vrn=100100067795849&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000255745&type=464",
@@ -2955,12 +2955,12 @@ export const duma_2016_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарь Оксана Андреевна": 8,
-      "Давыденко Юрий Борисович": 1,
-      "Жуков Павел Борисович": 1,
-      "Иваницкий Сергей Петрович": 1,
-      "Исаев Роман Вадимович": 10,
-      "Новиков Игорь Анатольевич": 1
+      "gas:candidate-vibid:2492000261575": 8,
+      "gas:candidate-vibid:2492000262337": 1,
+      "gas:candidate-vibid:2492000262357": 1,
+      "gas:candidate-vibid:2492000261403": 1,
+      "gas:candidate-vibid:2492000260321": 10,
+      "gas:candidate-vibid:2492000262445": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000255745&vrn=100100067795849&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000255745&type=464",
@@ -3011,12 +3011,12 @@ export const duma_2016_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарь Оксана Андреевна": 10,
-      "Давыденко Юрий Борисович": 6,
-      "Жуков Павел Борисович": 2,
-      "Иваницкий Сергей Петрович": 1,
-      "Исаев Роман Вадимович": 3,
-      "Новиков Игорь Анатольевич": 2
+      "gas:candidate-vibid:2492000261575": 10,
+      "gas:candidate-vibid:2492000262337": 6,
+      "gas:candidate-vibid:2492000262357": 2,
+      "gas:candidate-vibid:2492000261403": 1,
+      "gas:candidate-vibid:2492000260321": 3,
+      "gas:candidate-vibid:2492000262445": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000255745&vrn=100100067795849&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000255745&type=464",
@@ -3067,12 +3067,12 @@ export const duma_2016_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарь Оксана Андреевна": 3,
-      "Давыденко Юрий Борисович": 4,
-      "Жуков Павел Борисович": 1,
-      "Иваницкий Сергей Петрович": 3,
-      "Исаев Роман Вадимович": 3,
-      "Новиков Игорь Анатольевич": 0
+      "gas:candidate-vibid:2492000261575": 3,
+      "gas:candidate-vibid:2492000262337": 4,
+      "gas:candidate-vibid:2492000262357": 1,
+      "gas:candidate-vibid:2492000261403": 3,
+      "gas:candidate-vibid:2492000260321": 3,
+      "gas:candidate-vibid:2492000262445": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000255745&vrn=100100067795849&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000255745&type=464",
@@ -3123,12 +3123,12 @@ export const duma_2016_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарь Оксана Андреевна": 8,
-      "Давыденко Юрий Борисович": 3,
-      "Жуков Павел Борисович": 0,
-      "Иваницкий Сергей Петрович": 2,
-      "Исаев Роман Вадимович": 4,
-      "Новиков Игорь Анатольевич": 1
+      "gas:candidate-vibid:2492000261575": 8,
+      "gas:candidate-vibid:2492000262337": 3,
+      "gas:candidate-vibid:2492000262357": 0,
+      "gas:candidate-vibid:2492000261403": 2,
+      "gas:candidate-vibid:2492000260321": 4,
+      "gas:candidate-vibid:2492000262445": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000255745&vrn=100100067795849&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000255745&type=464",
@@ -3179,12 +3179,12 @@ export const duma_2016_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарь Оксана Андреевна": 3,
-      "Давыденко Юрий Борисович": 1,
-      "Жуков Павел Борисович": 0,
-      "Иваницкий Сергей Петрович": 0,
-      "Исаев Роман Вадимович": 1,
-      "Новиков Игорь Анатольевич": 2
+      "gas:candidate-vibid:2492000261575": 3,
+      "gas:candidate-vibid:2492000262337": 1,
+      "gas:candidate-vibid:2492000262357": 0,
+      "gas:candidate-vibid:2492000261403": 0,
+      "gas:candidate-vibid:2492000260321": 1,
+      "gas:candidate-vibid:2492000262445": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000255745&vrn=100100067795849&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000255745&type=464",
@@ -3235,12 +3235,12 @@ export const duma_2016_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарь Оксана Андреевна": 2212,
-      "Давыденко Юрий Борисович": 124,
-      "Жуков Павел Борисович": 116,
-      "Иваницкий Сергей Петрович": 170,
-      "Исаев Роман Вадимович": 115,
-      "Новиков Игорь Анатольевич": 77
+      "gas:candidate-vibid:2492000261575": 2212,
+      "gas:candidate-vibid:2492000262337": 124,
+      "gas:candidate-vibid:2492000262357": 116,
+      "gas:candidate-vibid:2492000261403": 170,
+      "gas:candidate-vibid:2492000260321": 115,
+      "gas:candidate-vibid:2492000262445": 77
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000255745&vrn=100100067795849&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000255745&type=464",
@@ -3291,12 +3291,12 @@ export const duma_2016_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарь Оксана Андреевна": 89,
-      "Давыденко Юрий Борисович": 4,
-      "Жуков Павел Борисович": 5,
-      "Иваницкий Сергей Петрович": 6,
-      "Исаев Роман Вадимович": 17,
-      "Новиков Игорь Анатольевич": 2
+      "gas:candidate-vibid:2492000261575": 89,
+      "gas:candidate-vibid:2492000262337": 4,
+      "gas:candidate-vibid:2492000262357": 5,
+      "gas:candidate-vibid:2492000261403": 6,
+      "gas:candidate-vibid:2492000260321": 17,
+      "gas:candidate-vibid:2492000262445": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000255746&vrn=100100067795849&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000255746&type=464",
@@ -3347,12 +3347,12 @@ export const duma_2016_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарь Оксана Андреевна": 28,
-      "Давыденко Юрий Борисович": 2,
-      "Жуков Павел Борисович": 1,
-      "Иваницкий Сергей Петрович": 3,
-      "Исаев Роман Вадимович": 4,
-      "Новиков Игорь Анатольевич": 2
+      "gas:candidate-vibid:2492000261575": 28,
+      "gas:candidate-vibid:2492000262337": 2,
+      "gas:candidate-vibid:2492000262357": 1,
+      "gas:candidate-vibid:2492000261403": 3,
+      "gas:candidate-vibid:2492000260321": 4,
+      "gas:candidate-vibid:2492000262445": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000255746&vrn=100100067795849&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000255746&type=464",
@@ -3403,12 +3403,12 @@ export const duma_2016_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарь Оксана Андреевна": 111,
-      "Давыденко Юрий Борисович": 10,
-      "Жуков Павел Борисович": 6,
-      "Иваницкий Сергей Петрович": 20,
-      "Исаев Роман Вадимович": 15,
-      "Новиков Игорь Анатольевич": 10
+      "gas:candidate-vibid:2492000261575": 111,
+      "gas:candidate-vibid:2492000262337": 10,
+      "gas:candidate-vibid:2492000262357": 6,
+      "gas:candidate-vibid:2492000261403": 20,
+      "gas:candidate-vibid:2492000260321": 15,
+      "gas:candidate-vibid:2492000262445": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000255746&vrn=100100067795849&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000255746&type=464",
@@ -3459,12 +3459,12 @@ export const duma_2016_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарь Оксана Андреевна": 72,
-      "Давыденко Юрий Борисович": 5,
-      "Жуков Павел Борисович": 9,
-      "Иваницкий Сергей Петрович": 13,
-      "Исаев Роман Вадимович": 18,
-      "Новиков Игорь Анатольевич": 10
+      "gas:candidate-vibid:2492000261575": 72,
+      "gas:candidate-vibid:2492000262337": 5,
+      "gas:candidate-vibid:2492000262357": 9,
+      "gas:candidate-vibid:2492000261403": 13,
+      "gas:candidate-vibid:2492000260321": 18,
+      "gas:candidate-vibid:2492000262445": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000255746&vrn=100100067795849&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000255746&type=464",
@@ -3515,12 +3515,12 @@ export const duma_2016_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарь Оксана Андреевна": 171,
-      "Давыденко Юрий Борисович": 29,
-      "Жуков Павел Борисович": 21,
-      "Иваницкий Сергей Петрович": 60,
-      "Исаев Роман Вадимович": 83,
-      "Новиков Игорь Анатольевич": 48
+      "gas:candidate-vibid:2492000261575": 171,
+      "gas:candidate-vibid:2492000262337": 29,
+      "gas:candidate-vibid:2492000262357": 21,
+      "gas:candidate-vibid:2492000261403": 60,
+      "gas:candidate-vibid:2492000260321": 83,
+      "gas:candidate-vibid:2492000262445": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000255746&vrn=100100067795849&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000255746&type=464",
@@ -3571,12 +3571,12 @@ export const duma_2016_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарь Оксана Андреевна": 365,
-      "Давыденко Юрий Борисович": 57,
-      "Жуков Павел Борисович": 20,
-      "Иваницкий Сергей Петрович": 118,
-      "Исаев Роман Вадимович": 164,
-      "Новиков Игорь Анатольевич": 81
+      "gas:candidate-vibid:2492000261575": 365,
+      "gas:candidate-vibid:2492000262337": 57,
+      "gas:candidate-vibid:2492000262357": 20,
+      "gas:candidate-vibid:2492000261403": 118,
+      "gas:candidate-vibid:2492000260321": 164,
+      "gas:candidate-vibid:2492000262445": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000255746&vrn=100100067795849&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000255746&type=464",
@@ -3627,12 +3627,12 @@ export const duma_2016_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарь Оксана Андреевна": 163,
-      "Давыденко Юрий Борисович": 27,
-      "Жуков Павел Борисович": 7,
-      "Иваницкий Сергей Петрович": 43,
-      "Исаев Роман Вадимович": 69,
-      "Новиков Игорь Анатольевич": 27
+      "gas:candidate-vibid:2492000261575": 163,
+      "gas:candidate-vibid:2492000262337": 27,
+      "gas:candidate-vibid:2492000262357": 7,
+      "gas:candidate-vibid:2492000261403": 43,
+      "gas:candidate-vibid:2492000260321": 69,
+      "gas:candidate-vibid:2492000262445": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000255746&vrn=100100067795849&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000255746&type=464",
@@ -3683,12 +3683,12 @@ export const duma_2016_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарь Оксана Андреевна": 222,
-      "Давыденко Юрий Борисович": 31,
-      "Жуков Павел Борисович": 10,
-      "Иваницкий Сергей Петрович": 47,
-      "Исаев Роман Вадимович": 99,
-      "Новиков Игорь Анатольевич": 44
+      "gas:candidate-vibid:2492000261575": 222,
+      "gas:candidate-vibid:2492000262337": 31,
+      "gas:candidate-vibid:2492000262357": 10,
+      "gas:candidate-vibid:2492000261403": 47,
+      "gas:candidate-vibid:2492000260321": 99,
+      "gas:candidate-vibid:2492000262445": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000255747&vrn=100100067795849&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000255747&type=464",
@@ -3739,12 +3739,12 @@ export const duma_2016_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарь Оксана Андреевна": 299,
-      "Давыденко Юрий Борисович": 32,
-      "Жуков Павел Борисович": 13,
-      "Иваницкий Сергей Петрович": 51,
-      "Исаев Роман Вадимович": 85,
-      "Новиков Игорь Анатольевич": 44
+      "gas:candidate-vibid:2492000261575": 299,
+      "gas:candidate-vibid:2492000262337": 32,
+      "gas:candidate-vibid:2492000262357": 13,
+      "gas:candidate-vibid:2492000261403": 51,
+      "gas:candidate-vibid:2492000260321": 85,
+      "gas:candidate-vibid:2492000262445": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000255747&vrn=100100067795849&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000255747&type=464",
@@ -3795,12 +3795,12 @@ export const duma_2016_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарь Оксана Андреевна": 91,
-      "Давыденко Юрий Борисович": 11,
-      "Жуков Павел Борисович": 4,
-      "Иваницкий Сергей Петрович": 21,
-      "Исаев Роман Вадимович": 17,
-      "Новиков Игорь Анатольевич": 19
+      "gas:candidate-vibid:2492000261575": 91,
+      "gas:candidate-vibid:2492000262337": 11,
+      "gas:candidate-vibid:2492000262357": 4,
+      "gas:candidate-vibid:2492000261403": 21,
+      "gas:candidate-vibid:2492000260321": 17,
+      "gas:candidate-vibid:2492000262445": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000255747&vrn=100100067795849&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000255747&type=464",
@@ -3851,12 +3851,12 @@ export const duma_2016_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарь Оксана Андреевна": 148,
-      "Давыденко Юрий Борисович": 25,
-      "Жуков Павел Борисович": 5,
-      "Иваницкий Сергей Петрович": 36,
-      "Исаев Роман Вадимович": 37,
-      "Новиков Игорь Анатольевич": 28
+      "gas:candidate-vibid:2492000261575": 148,
+      "gas:candidate-vibid:2492000262337": 25,
+      "gas:candidate-vibid:2492000262357": 5,
+      "gas:candidate-vibid:2492000261403": 36,
+      "gas:candidate-vibid:2492000260321": 37,
+      "gas:candidate-vibid:2492000262445": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000255748&vrn=100100067795849&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000255748&type=464",
@@ -3907,12 +3907,12 @@ export const duma_2016_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарь Оксана Андреевна": 149,
-      "Давыденко Юрий Борисович": 23,
-      "Жуков Павел Борисович": 9,
-      "Иваницкий Сергей Петрович": 22,
-      "Исаев Роман Вадимович": 32,
-      "Новиков Игорь Анатольевич": 22
+      "gas:candidate-vibid:2492000261575": 149,
+      "gas:candidate-vibid:2492000262337": 23,
+      "gas:candidate-vibid:2492000262357": 9,
+      "gas:candidate-vibid:2492000261403": 22,
+      "gas:candidate-vibid:2492000260321": 32,
+      "gas:candidate-vibid:2492000262445": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000255748&vrn=100100067795849&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000255748&type=464",
@@ -3963,12 +3963,12 @@ export const duma_2016_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарь Оксана Андреевна": 126,
-      "Давыденко Юрий Борисович": 12,
-      "Жуков Павел Борисович": 3,
-      "Иваницкий Сергей Петрович": 21,
-      "Исаев Роман Вадимович": 16,
-      "Новиков Игорь Анатольевич": 12
+      "gas:candidate-vibid:2492000261575": 126,
+      "gas:candidate-vibid:2492000262337": 12,
+      "gas:candidate-vibid:2492000262357": 3,
+      "gas:candidate-vibid:2492000261403": 21,
+      "gas:candidate-vibid:2492000260321": 16,
+      "gas:candidate-vibid:2492000262445": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000255748&vrn=100100067795849&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000255748&type=464",
@@ -4019,12 +4019,12 @@ export const duma_2016_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарь Оксана Андреевна": 33,
-      "Давыденко Юрий Борисович": 2,
-      "Жуков Павел Борисович": 1,
-      "Иваницкий Сергей Петрович": 0,
-      "Исаев Роман Вадимович": 8,
-      "Новиков Игорь Анатольевич": 3
+      "gas:candidate-vibid:2492000261575": 33,
+      "gas:candidate-vibid:2492000262337": 2,
+      "gas:candidate-vibid:2492000262357": 1,
+      "gas:candidate-vibid:2492000261403": 0,
+      "gas:candidate-vibid:2492000260321": 8,
+      "gas:candidate-vibid:2492000262445": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000255748&vrn=100100067795849&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000255748&type=464",
@@ -4075,12 +4075,12 @@ export const duma_2016_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарь Оксана Андреевна": 32,
-      "Давыденко Юрий Борисович": 5,
-      "Жуков Павел Борисович": 1,
-      "Иваницкий Сергей Петрович": 17,
-      "Исаев Роман Вадимович": 4,
-      "Новиков Игорь Анатольевич": 4
+      "gas:candidate-vibid:2492000261575": 32,
+      "gas:candidate-vibid:2492000262337": 5,
+      "gas:candidate-vibid:2492000262357": 1,
+      "gas:candidate-vibid:2492000261403": 17,
+      "gas:candidate-vibid:2492000260321": 4,
+      "gas:candidate-vibid:2492000262445": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000255748&vrn=100100067795849&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000255748&type=464",
@@ -4131,12 +4131,12 @@ export const duma_2016_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарь Оксана Андреевна": 267,
-      "Давыденко Юрий Борисович": 28,
-      "Жуков Павел Борисович": 13,
-      "Иваницкий Сергей Петрович": 53,
-      "Исаев Роман Вадимович": 56,
-      "Новиков Игорь Анатольевич": 35
+      "gas:candidate-vibid:2492000261575": 267,
+      "gas:candidate-vibid:2492000262337": 28,
+      "gas:candidate-vibid:2492000262357": 13,
+      "gas:candidate-vibid:2492000261403": 53,
+      "gas:candidate-vibid:2492000260321": 56,
+      "gas:candidate-vibid:2492000262445": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000255749&vrn=100100067795849&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000255749&type=464",
@@ -4187,12 +4187,12 @@ export const duma_2016_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарь Оксана Андреевна": 366,
-      "Давыденко Юрий Борисович": 30,
-      "Жуков Павел Борисович": 17,
-      "Иваницкий Сергей Петрович": 65,
-      "Исаев Роман Вадимович": 60,
-      "Новиков Игорь Анатольевич": 35
+      "gas:candidate-vibid:2492000261575": 366,
+      "gas:candidate-vibid:2492000262337": 30,
+      "gas:candidate-vibid:2492000262357": 17,
+      "gas:candidate-vibid:2492000261403": 65,
+      "gas:candidate-vibid:2492000260321": 60,
+      "gas:candidate-vibid:2492000262445": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000255749&vrn=100100067795849&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000255749&type=464",
@@ -4243,12 +4243,12 @@ export const duma_2016_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарь Оксана Андреевна": 53,
-      "Давыденко Юрий Борисович": 3,
-      "Жуков Павел Борисович": 7,
-      "Иваницкий Сергей Петрович": 6,
-      "Исаев Роман Вадимович": 12,
-      "Новиков Игорь Анатольевич": 8
+      "gas:candidate-vibid:2492000261575": 53,
+      "gas:candidate-vibid:2492000262337": 3,
+      "gas:candidate-vibid:2492000262357": 7,
+      "gas:candidate-vibid:2492000261403": 6,
+      "gas:candidate-vibid:2492000260321": 12,
+      "gas:candidate-vibid:2492000262445": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000255749&vrn=100100067795849&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000255749&type=464",
@@ -4299,12 +4299,12 @@ export const duma_2016_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарь Оксана Андреевна": 308,
-      "Давыденко Юрий Борисович": 32,
-      "Жуков Павел Борисович": 8,
-      "Иваницкий Сергей Петрович": 76,
-      "Исаев Роман Вадимович": 102,
-      "Новиков Игорь Анатольевич": 48
+      "gas:candidate-vibid:2492000261575": 308,
+      "gas:candidate-vibid:2492000262337": 32,
+      "gas:candidate-vibid:2492000262357": 8,
+      "gas:candidate-vibid:2492000261403": 76,
+      "gas:candidate-vibid:2492000260321": 102,
+      "gas:candidate-vibid:2492000262445": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000255750&vrn=100100067795849&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000255750&type=464",
@@ -4355,12 +4355,12 @@ export const duma_2016_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарь Оксана Андреевна": 476,
-      "Давыденко Юрий Борисович": 32,
-      "Жуков Павел Борисович": 18,
-      "Иваницкий Сергей Петрович": 44,
-      "Исаев Роман Вадимович": 77,
-      "Новиков Игорь Анатольевич": 34
+      "gas:candidate-vibid:2492000261575": 476,
+      "gas:candidate-vibid:2492000262337": 32,
+      "gas:candidate-vibid:2492000262357": 18,
+      "gas:candidate-vibid:2492000261403": 44,
+      "gas:candidate-vibid:2492000260321": 77,
+      "gas:candidate-vibid:2492000262445": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000255750&vrn=100100067795849&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000255750&type=464",
@@ -4411,12 +4411,12 @@ export const duma_2016_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарь Оксана Андреевна": 49,
-      "Давыденко Юрий Борисович": 12,
-      "Жуков Павел Борисович": 5,
-      "Иваницкий Сергей Петрович": 18,
-      "Исаев Роман Вадимович": 16,
-      "Новиков Игорь Анатольевич": 13
+      "gas:candidate-vibid:2492000261575": 49,
+      "gas:candidate-vibid:2492000262337": 12,
+      "gas:candidate-vibid:2492000262357": 5,
+      "gas:candidate-vibid:2492000261403": 18,
+      "gas:candidate-vibid:2492000260321": 16,
+      "gas:candidate-vibid:2492000262445": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000255750&vrn=100100067795849&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000255750&type=464",
@@ -4467,12 +4467,12 @@ export const duma_2016_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарь Оксана Андреевна": 31,
-      "Давыденко Юрий Борисович": 5,
-      "Жуков Павел Борисович": 3,
-      "Иваницкий Сергей Петрович": 8,
-      "Исаев Роман Вадимович": 5,
-      "Новиков Игорь Анатольевич": 1
+      "gas:candidate-vibid:2492000261575": 31,
+      "gas:candidate-vibid:2492000262337": 5,
+      "gas:candidate-vibid:2492000262357": 3,
+      "gas:candidate-vibid:2492000261403": 8,
+      "gas:candidate-vibid:2492000260321": 5,
+      "gas:candidate-vibid:2492000262445": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000255750&vrn=100100067795849&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000255750&type=464",
@@ -4523,12 +4523,12 @@ export const duma_2016_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарь Оксана Андреевна": 140,
-      "Давыденко Юрий Борисович": 12,
-      "Жуков Павел Борисович": 8,
-      "Иваницкий Сергей Петрович": 26,
-      "Исаев Роман Вадимович": 25,
-      "Новиков Игорь Анатольевич": 14
+      "gas:candidate-vibid:2492000261575": 140,
+      "gas:candidate-vibid:2492000262337": 12,
+      "gas:candidate-vibid:2492000262357": 8,
+      "gas:candidate-vibid:2492000261403": 26,
+      "gas:candidate-vibid:2492000260321": 25,
+      "gas:candidate-vibid:2492000262445": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000255750&vrn=100100067795849&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000255750&type=464",
@@ -4579,12 +4579,12 @@ export const duma_2016_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарь Оксана Андреевна": 146,
-      "Давыденко Юрий Борисович": 42,
-      "Жуков Павел Борисович": 14,
-      "Иваницкий Сергей Петрович": 72,
-      "Исаев Роман Вадимович": 55,
-      "Новиков Игорь Анатольевич": 31
+      "gas:candidate-vibid:2492000261575": 146,
+      "gas:candidate-vibid:2492000262337": 42,
+      "gas:candidate-vibid:2492000262357": 14,
+      "gas:candidate-vibid:2492000261403": 72,
+      "gas:candidate-vibid:2492000260321": 55,
+      "gas:candidate-vibid:2492000262445": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000255750&vrn=100100067795849&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000255750&type=464",
@@ -4635,12 +4635,12 @@ export const duma_2016_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарь Оксана Андреевна": 32,
-      "Давыденко Юрий Борисович": 4,
-      "Жуков Павел Борисович": 3,
-      "Иваницкий Сергей Петрович": 6,
-      "Исаев Роман Вадимович": 4,
-      "Новиков Игорь Анатольевич": 1
+      "gas:candidate-vibid:2492000261575": 32,
+      "gas:candidate-vibid:2492000262337": 4,
+      "gas:candidate-vibid:2492000262357": 3,
+      "gas:candidate-vibid:2492000261403": 6,
+      "gas:candidate-vibid:2492000260321": 4,
+      "gas:candidate-vibid:2492000262445": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000255751&vrn=100100067795849&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000255751&type=464",
@@ -4691,12 +4691,12 @@ export const duma_2016_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарь Оксана Андреевна": 221,
-      "Давыденко Юрий Борисович": 31,
-      "Жуков Павел Борисович": 12,
-      "Иваницкий Сергей Петрович": 37,
-      "Исаев Роман Вадимович": 101,
-      "Новиков Игорь Анатольевич": 54
+      "gas:candidate-vibid:2492000261575": 221,
+      "gas:candidate-vibid:2492000262337": 31,
+      "gas:candidate-vibid:2492000262357": 12,
+      "gas:candidate-vibid:2492000261403": 37,
+      "gas:candidate-vibid:2492000260321": 101,
+      "gas:candidate-vibid:2492000262445": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000255751&vrn=100100067795849&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000255751&type=464",
@@ -4747,12 +4747,12 @@ export const duma_2016_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарь Оксана Андреевна": 223,
-      "Давыденко Юрий Борисович": 38,
-      "Жуков Павел Борисович": 10,
-      "Иваницкий Сергей Петрович": 76,
-      "Исаев Роман Вадимович": 90,
-      "Новиков Игорь Анатольевич": 59
+      "gas:candidate-vibid:2492000261575": 223,
+      "gas:candidate-vibid:2492000262337": 38,
+      "gas:candidate-vibid:2492000262357": 10,
+      "gas:candidate-vibid:2492000261403": 76,
+      "gas:candidate-vibid:2492000260321": 90,
+      "gas:candidate-vibid:2492000262445": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000255751&vrn=100100067795849&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000255751&type=464",
@@ -4803,12 +4803,12 @@ export const duma_2016_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарь Оксана Андреевна": 46,
-      "Давыденко Юрий Борисович": 2,
-      "Жуков Павел Борисович": 0,
-      "Иваницкий Сергей Петрович": 4,
-      "Исаев Роман Вадимович": 10,
-      "Новиков Игорь Анатольевич": 6
+      "gas:candidate-vibid:2492000261575": 46,
+      "gas:candidate-vibid:2492000262337": 2,
+      "gas:candidate-vibid:2492000262357": 0,
+      "gas:candidate-vibid:2492000261403": 4,
+      "gas:candidate-vibid:2492000260321": 10,
+      "gas:candidate-vibid:2492000262445": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000255751&vrn=100100067795849&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000255751&type=464",
@@ -4859,12 +4859,12 @@ export const duma_2016_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарь Оксана Андреевна": 66,
-      "Давыденко Юрий Борисович": 9,
-      "Жуков Павел Борисович": 5,
-      "Иваницкий Сергей Петрович": 11,
-      "Исаев Роман Вадимович": 23,
-      "Новиков Игорь Анатольевич": 7
+      "gas:candidate-vibid:2492000261575": 66,
+      "gas:candidate-vibid:2492000262337": 9,
+      "gas:candidate-vibid:2492000262357": 5,
+      "gas:candidate-vibid:2492000261403": 11,
+      "gas:candidate-vibid:2492000260321": 23,
+      "gas:candidate-vibid:2492000262445": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000255751&vrn=100100067795849&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000255751&type=464",
@@ -4915,12 +4915,12 @@ export const duma_2016_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарь Оксана Андреевна": 194,
-      "Давыденко Юрий Борисович": 7,
-      "Жуков Павел Борисович": 7,
-      "Иваницкий Сергей Петрович": 14,
-      "Исаев Роман Вадимович": 33,
-      "Новиков Игорь Анатольевич": 17
+      "gas:candidate-vibid:2492000261575": 194,
+      "gas:candidate-vibid:2492000262337": 7,
+      "gas:candidate-vibid:2492000262357": 7,
+      "gas:candidate-vibid:2492000261403": 14,
+      "gas:candidate-vibid:2492000260321": 33,
+      "gas:candidate-vibid:2492000262445": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000255751&vrn=100100067795849&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000255751&type=464",
@@ -4971,12 +4971,12 @@ export const duma_2016_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарь Оксана Андреевна": 124,
-      "Давыденко Юрий Борисович": 10,
-      "Жуков Павел Борисович": 1,
-      "Иваницкий Сергей Петрович": 10,
-      "Исаев Роман Вадимович": 13,
-      "Новиков Игорь Анатольевич": 14
+      "gas:candidate-vibid:2492000261575": 124,
+      "gas:candidate-vibid:2492000262337": 10,
+      "gas:candidate-vibid:2492000262357": 1,
+      "gas:candidate-vibid:2492000261403": 10,
+      "gas:candidate-vibid:2492000260321": 13,
+      "gas:candidate-vibid:2492000262445": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000255751&vrn=100100067795849&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000255751&type=464",
@@ -5027,12 +5027,12 @@ export const duma_2016_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарь Оксана Андреевна": 496,
-      "Давыденко Юрий Борисович": 48,
-      "Жуков Павел Борисович": 18,
-      "Иваницкий Сергей Петрович": 90,
-      "Исаев Роман Вадимович": 85,
-      "Новиков Игорь Анатольевич": 53
+      "gas:candidate-vibid:2492000261575": 496,
+      "gas:candidate-vibid:2492000262337": 48,
+      "gas:candidate-vibid:2492000262357": 18,
+      "gas:candidate-vibid:2492000261403": 90,
+      "gas:candidate-vibid:2492000260321": 85,
+      "gas:candidate-vibid:2492000262445": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000255752&vrn=100100067795849&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000255752&type=464",
@@ -5083,12 +5083,12 @@ export const duma_2016_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарь Оксана Андреевна": 58,
-      "Давыденко Юрий Борисович": 17,
-      "Жуков Павел Борисович": 5,
-      "Иваницкий Сергей Петрович": 22,
-      "Исаев Роман Вадимович": 29,
-      "Новиков Игорь Анатольевич": 11
+      "gas:candidate-vibid:2492000261575": 58,
+      "gas:candidate-vibid:2492000262337": 17,
+      "gas:candidate-vibid:2492000262357": 5,
+      "gas:candidate-vibid:2492000261403": 22,
+      "gas:candidate-vibid:2492000260321": 29,
+      "gas:candidate-vibid:2492000262445": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000255752&vrn=100100067795849&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000255752&type=464",
@@ -5139,12 +5139,12 @@ export const duma_2016_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарь Оксана Андреевна": 271,
-      "Давыденко Юрий Борисович": 20,
-      "Жуков Павел Борисович": 7,
-      "Иваницкий Сергей Петрович": 35,
-      "Исаев Роман Вадимович": 83,
-      "Новиков Игорь Анатольевич": 34
+      "gas:candidate-vibid:2492000261575": 271,
+      "gas:candidate-vibid:2492000262337": 20,
+      "gas:candidate-vibid:2492000262357": 7,
+      "gas:candidate-vibid:2492000261403": 35,
+      "gas:candidate-vibid:2492000260321": 83,
+      "gas:candidate-vibid:2492000262445": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000255752&vrn=100100067795849&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000255752&type=464",
@@ -5195,12 +5195,12 @@ export const duma_2016_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарь Оксана Андреевна": 244,
-      "Давыденко Юрий Борисович": 35,
-      "Жуков Павел Борисович": 14,
-      "Иваницкий Сергей Петрович": 44,
-      "Исаев Роман Вадимович": 68,
-      "Новиков Игорь Анатольевич": 46
+      "gas:candidate-vibid:2492000261575": 244,
+      "gas:candidate-vibid:2492000262337": 35,
+      "gas:candidate-vibid:2492000262357": 14,
+      "gas:candidate-vibid:2492000261403": 44,
+      "gas:candidate-vibid:2492000260321": 68,
+      "gas:candidate-vibid:2492000262445": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000255752&vrn=100100067795849&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000255752&type=464",
@@ -5251,12 +5251,12 @@ export const duma_2016_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарь Оксана Андреевна": 398,
-      "Давыденко Юрий Борисович": 41,
-      "Жуков Павел Борисович": 12,
-      "Иваницкий Сергей Петрович": 79,
-      "Исаев Роман Вадимович": 110,
-      "Новиков Игорь Анатольевич": 45
+      "gas:candidate-vibid:2492000261575": 398,
+      "gas:candidate-vibid:2492000262337": 41,
+      "gas:candidate-vibid:2492000262357": 12,
+      "gas:candidate-vibid:2492000261403": 79,
+      "gas:candidate-vibid:2492000260321": 110,
+      "gas:candidate-vibid:2492000262445": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000255752&vrn=100100067795849&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000255752&type=464",
@@ -5307,12 +5307,12 @@ export const duma_2016_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарь Оксана Андреевна": 54,
-      "Давыденко Юрий Борисович": 6,
-      "Жуков Павел Борисович": 3,
-      "Иваницкий Сергей Петрович": 10,
-      "Исаев Роман Вадимович": 6,
-      "Новиков Игорь Анатольевич": 3
+      "gas:candidate-vibid:2492000261575": 54,
+      "gas:candidate-vibid:2492000262337": 6,
+      "gas:candidate-vibid:2492000262357": 3,
+      "gas:candidate-vibid:2492000261403": 10,
+      "gas:candidate-vibid:2492000260321": 6,
+      "gas:candidate-vibid:2492000262445": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000255752&vrn=100100067795849&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000255752&type=464",
@@ -5363,12 +5363,12 @@ export const duma_2016_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарь Оксана Андреевна": 67,
-      "Давыденко Юрий Борисович": 11,
-      "Жуков Павел Борисович": 7,
-      "Иваницкий Сергей Петрович": 38,
-      "Исаев Роман Вадимович": 31,
-      "Новиков Игорь Анатольевич": 16
+      "gas:candidate-vibid:2492000261575": 67,
+      "gas:candidate-vibid:2492000262337": 11,
+      "gas:candidate-vibid:2492000262357": 7,
+      "gas:candidate-vibid:2492000261403": 38,
+      "gas:candidate-vibid:2492000260321": 31,
+      "gas:candidate-vibid:2492000262445": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000255752&vrn=100100067795849&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000255752&type=464",
@@ -5419,12 +5419,12 @@ export const duma_2016_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарь Оксана Андреевна": 53,
-      "Давыденко Юрий Борисович": 3,
-      "Жуков Павел Борисович": 2,
-      "Иваницкий Сергей Петрович": 10,
-      "Исаев Роман Вадимович": 16,
-      "Новиков Игорь Анатольевич": 3
+      "gas:candidate-vibid:2492000261575": 53,
+      "gas:candidate-vibid:2492000262337": 3,
+      "gas:candidate-vibid:2492000262357": 2,
+      "gas:candidate-vibid:2492000261403": 10,
+      "gas:candidate-vibid:2492000260321": 16,
+      "gas:candidate-vibid:2492000262445": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000255753&vrn=100100067795849&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000255753&type=464",
@@ -5475,12 +5475,12 @@ export const duma_2016_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарь Оксана Андреевна": 413,
-      "Давыденко Юрий Борисович": 33,
-      "Жуков Павел Борисович": 22,
-      "Иваницкий Сергей Петрович": 68,
-      "Исаев Роман Вадимович": 80,
-      "Новиков Игорь Анатольевич": 43
+      "gas:candidate-vibid:2492000261575": 413,
+      "gas:candidate-vibid:2492000262337": 33,
+      "gas:candidate-vibid:2492000262357": 22,
+      "gas:candidate-vibid:2492000261403": 68,
+      "gas:candidate-vibid:2492000260321": 80,
+      "gas:candidate-vibid:2492000262445": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000255753&vrn=100100067795849&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000255753&type=464",
@@ -5531,12 +5531,12 @@ export const duma_2016_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарь Оксана Андреевна": 256,
-      "Давыденко Юрий Борисович": 43,
-      "Жуков Павел Борисович": 20,
-      "Иваницкий Сергей Петрович": 58,
-      "Исаев Роман Вадимович": 71,
-      "Новиков Игорь Анатольевич": 39
+      "gas:candidate-vibid:2492000261575": 256,
+      "gas:candidate-vibid:2492000262337": 43,
+      "gas:candidate-vibid:2492000262357": 20,
+      "gas:candidate-vibid:2492000261403": 58,
+      "gas:candidate-vibid:2492000260321": 71,
+      "gas:candidate-vibid:2492000262445": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000255753&vrn=100100067795849&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000255753&type=464",
@@ -5587,12 +5587,12 @@ export const duma_2016_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарь Оксана Андреевна": 44,
-      "Давыденко Юрий Борисович": 2,
-      "Жуков Павел Борисович": 2,
-      "Иваницкий Сергей Петрович": 4,
-      "Исаев Роман Вадимович": 4,
-      "Новиков Игорь Анатольевич": 2
+      "gas:candidate-vibid:2492000261575": 44,
+      "gas:candidate-vibid:2492000262337": 2,
+      "gas:candidate-vibid:2492000262357": 2,
+      "gas:candidate-vibid:2492000261403": 4,
+      "gas:candidate-vibid:2492000260321": 4,
+      "gas:candidate-vibid:2492000262445": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000255753&vrn=100100067795849&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000255753&type=464",
@@ -5643,12 +5643,12 @@ export const duma_2016_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарь Оксана Андреевна": 197,
-      "Давыденко Юрий Борисович": 12,
-      "Жуков Павел Борисович": 4,
-      "Иваницкий Сергей Петрович": 38,
-      "Исаев Роман Вадимович": 38,
-      "Новиков Игорь Анатольевич": 13
+      "gas:candidate-vibid:2492000261575": 197,
+      "gas:candidate-vibid:2492000262337": 12,
+      "gas:candidate-vibid:2492000262357": 4,
+      "gas:candidate-vibid:2492000261403": 38,
+      "gas:candidate-vibid:2492000260321": 38,
+      "gas:candidate-vibid:2492000262445": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000255753&vrn=100100067795849&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000255753&type=464",
@@ -5699,12 +5699,12 @@ export const duma_2016_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарь Оксана Андреевна": 342,
-      "Давыденко Юрий Борисович": 39,
-      "Жуков Павел Борисович": 21,
-      "Иваницкий Сергей Петрович": 67,
-      "Исаев Роман Вадимович": 78,
-      "Новиков Игорь Анатольевич": 47
+      "gas:candidate-vibid:2492000261575": 342,
+      "gas:candidate-vibid:2492000262337": 39,
+      "gas:candidate-vibid:2492000262357": 21,
+      "gas:candidate-vibid:2492000261403": 67,
+      "gas:candidate-vibid:2492000260321": 78,
+      "gas:candidate-vibid:2492000262445": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000255753&vrn=100100067795849&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000255753&type=464",
@@ -5755,12 +5755,12 @@ export const duma_2016_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарь Оксана Андреевна": 258,
-      "Давыденко Юрий Борисович": 16,
-      "Жуков Павел Борисович": 9,
-      "Иваницкий Сергей Петрович": 42,
-      "Исаев Роман Вадимович": 44,
-      "Новиков Игорь Анатольевич": 34
+      "gas:candidate-vibid:2492000261575": 258,
+      "gas:candidate-vibid:2492000262337": 16,
+      "gas:candidate-vibid:2492000262357": 9,
+      "gas:candidate-vibid:2492000261403": 42,
+      "gas:candidate-vibid:2492000260321": 44,
+      "gas:candidate-vibid:2492000262445": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000255753&vrn=100100067795849&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000255753&type=464",
@@ -5811,12 +5811,12 @@ export const duma_2016_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарь Оксана Андреевна": 274,
-      "Давыденко Юрий Борисович": 27,
-      "Жуков Павел Борисович": 9,
-      "Иваницкий Сергей Петрович": 64,
-      "Исаев Роман Вадимович": 70,
-      "Новиков Игорь Анатольевич": 20
+      "gas:candidate-vibid:2492000261575": 274,
+      "gas:candidate-vibid:2492000262337": 27,
+      "gas:candidate-vibid:2492000262357": 9,
+      "gas:candidate-vibid:2492000261403": 64,
+      "gas:candidate-vibid:2492000260321": 70,
+      "gas:candidate-vibid:2492000262445": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000255754&vrn=100100067795849&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000255754&type=464",
@@ -5867,12 +5867,12 @@ export const duma_2016_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарь Оксана Андреевна": 113,
-      "Давыденко Юрий Борисович": 8,
-      "Жуков Павел Борисович": 6,
-      "Иваницкий Сергей Петрович": 17,
-      "Исаев Роман Вадимович": 40,
-      "Новиков Игорь Анатольевич": 23
+      "gas:candidate-vibid:2492000261575": 113,
+      "gas:candidate-vibid:2492000262337": 8,
+      "gas:candidate-vibid:2492000262357": 6,
+      "gas:candidate-vibid:2492000261403": 17,
+      "gas:candidate-vibid:2492000260321": 40,
+      "gas:candidate-vibid:2492000262445": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000255754&vrn=100100067795849&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000255754&type=464",
@@ -5923,12 +5923,12 @@ export const duma_2016_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарь Оксана Андреевна": 90,
-      "Давыденко Юрий Борисович": 6,
-      "Жуков Павел Борисович": 2,
-      "Иваницкий Сергей Петрович": 13,
-      "Исаев Роман Вадимович": 9,
-      "Новиков Игорь Анатольевич": 4
+      "gas:candidate-vibid:2492000261575": 90,
+      "gas:candidate-vibid:2492000262337": 6,
+      "gas:candidate-vibid:2492000262357": 2,
+      "gas:candidate-vibid:2492000261403": 13,
+      "gas:candidate-vibid:2492000260321": 9,
+      "gas:candidate-vibid:2492000262445": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000255754&vrn=100100067795849&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000255754&type=464",
@@ -5979,12 +5979,12 @@ export const duma_2016_uik_463_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарь Оксана Андреевна": 84,
-      "Давыденко Юрий Борисович": 15,
-      "Жуков Павел Борисович": 4,
-      "Иваницкий Сергей Петрович": 11,
-      "Исаев Роман Вадимович": 10,
-      "Новиков Игорь Анатольевич": 11
+      "gas:candidate-vibid:2492000261575": 84,
+      "gas:candidate-vibid:2492000262337": 15,
+      "gas:candidate-vibid:2492000262357": 4,
+      "gas:candidate-vibid:2492000261403": 11,
+      "gas:candidate-vibid:2492000260321": 10,
+      "gas:candidate-vibid:2492000262445": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/magadan?action=show&root=1000154&tvd=2492000255754&vrn=100100067795849&region=49&global=&sub_region=49&prver=0&pronetvd=null&vibid=2492000255754&type=464",

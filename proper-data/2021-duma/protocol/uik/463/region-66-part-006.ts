@@ -11,8 +11,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1009,
     "uikTvd": "4664061231942",
+    "uikName": "УИК №1009",
     "tikTvd": "26620002596905",
     "tikName": "Тугулымская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 80,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 70,
@@ -28,12 +32,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 26,
-      "Исаев Роман Васильевич": 1,
-      "Крылова Наталья Владимировна": 8,
-      "Прокашева Мария Васильевна": 1,
-      "Севастьянов Геннадий Валентинович": 2,
-      "Торощин Игорь Андреевич": 3
+      "4664024187128": 26,
+      "4664024187164": 1,
+      "4664024186922": 8,
+      "4664024187267": 1,
+      "4664024187184": 2,
+      "4664024186710": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596905&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596905&type=464",
@@ -43,6 +47,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:20.354197+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596905&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596905&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -52,8 +60,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1010,
     "uikTvd": "4664061231943",
+    "uikName": "УИК №1010",
     "tikTvd": "26620002596905",
     "tikName": "Тугулымская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 432,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 410,
@@ -69,12 +81,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 96,
-      "Исаев Роман Васильевич": 22,
-      "Крылова Наталья Владимировна": 33,
-      "Прокашева Мария Васильевна": 9,
-      "Севастьянов Геннадий Валентинович": 3,
-      "Торощин Игорь Андреевич": 32
+      "4664024187128": 96,
+      "4664024187164": 22,
+      "4664024186922": 33,
+      "4664024187267": 9,
+      "4664024187184": 3,
+      "4664024186710": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596905&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596905&type=464",
@@ -84,6 +96,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:20.354197+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596905&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596905&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -93,8 +109,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1011,
     "uikTvd": "4664061231944",
+    "uikName": "УИК №1011",
     "tikTvd": "26620002596905",
     "tikName": "Тугулымская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 454,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 450,
@@ -110,12 +130,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 143,
-      "Исаев Роман Васильевич": 14,
-      "Крылова Наталья Владимировна": 42,
-      "Прокашева Мария Васильевна": 6,
-      "Севастьянов Геннадий Валентинович": 2,
-      "Торощин Игорь Андреевич": 31
+      "4664024187128": 143,
+      "4664024187164": 14,
+      "4664024186922": 42,
+      "4664024187267": 6,
+      "4664024187184": 2,
+      "4664024186710": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596905&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596905&type=464",
@@ -125,6 +145,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:20.354197+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596905&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596905&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -134,8 +158,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1012,
     "uikTvd": "4664061231945",
+    "uikName": "УИК №1012",
     "tikTvd": "26620002596905",
     "tikName": "Тугулымская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 634,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 600,
@@ -151,12 +179,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 120,
-      "Исаев Роман Васильевич": 32,
-      "Крылова Наталья Владимировна": 47,
-      "Прокашева Мария Васильевна": 9,
-      "Севастьянов Геннадий Валентинович": 3,
-      "Торощин Игорь Андреевич": 44
+      "4664024187128": 120,
+      "4664024187164": 32,
+      "4664024186922": 47,
+      "4664024187267": 9,
+      "4664024187184": 3,
+      "4664024186710": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596905&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596905&type=464",
@@ -166,6 +194,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:20.354197+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596905&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596905&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -175,8 +207,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1013,
     "uikTvd": "4664061231946",
+    "uikName": "УИК №1013",
     "tikTvd": "26620002596905",
     "tikName": "Тугулымская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1042,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 900,
@@ -192,12 +228,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 182,
-      "Исаев Роман Васильевич": 43,
-      "Крылова Наталья Владимировна": 84,
-      "Прокашева Мария Васильевна": 11,
-      "Севастьянов Геннадий Валентинович": 9,
-      "Торощин Игорь Андреевич": 61
+      "4664024187128": 182,
+      "4664024187164": 43,
+      "4664024186922": 84,
+      "4664024187267": 11,
+      "4664024187184": 9,
+      "4664024186710": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596905&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596905&type=464",
@@ -207,6 +243,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:20.354197+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596905&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596905&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -216,8 +256,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1014,
     "uikTvd": "4664061231947",
+    "uikName": "УИК №1014",
     "tikTvd": "26620002596905",
     "tikName": "Тугулымская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1088,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1000,
@@ -233,12 +277,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 182,
-      "Исаев Роман Васильевич": 44,
-      "Крылова Наталья Владимировна": 81,
-      "Прокашева Мария Васильевна": 12,
-      "Севастьянов Геннадий Валентинович": 5,
-      "Торощин Игорь Андреевич": 60
+      "4664024187128": 182,
+      "4664024187164": 44,
+      "4664024186922": 81,
+      "4664024187267": 12,
+      "4664024187184": 5,
+      "4664024186710": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596905&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596905&type=464",
@@ -248,6 +292,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:20.354197+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596905&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596905&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -257,8 +305,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1015,
     "uikTvd": "4664061231948",
+    "uikName": "УИК №1015",
     "tikTvd": "26620002596905",
     "tikName": "Тугулымская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 694,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 590,
@@ -274,12 +326,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 166,
-      "Исаев Роман Васильевич": 27,
-      "Крылова Наталья Владимировна": 75,
-      "Прокашева Мария Васильевна": 14,
-      "Севастьянов Геннадий Валентинович": 9,
-      "Торощин Игорь Андреевич": 40
+      "4664024187128": 166,
+      "4664024187164": 27,
+      "4664024186922": 75,
+      "4664024187267": 14,
+      "4664024187184": 9,
+      "4664024186710": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596905&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596905&type=464",
@@ -289,6 +341,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:20.354197+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596905&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596905&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -298,8 +354,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1016,
     "uikTvd": "4664061231949",
+    "uikName": "УИК №1016",
     "tikTvd": "26620002596905",
     "tikName": "Тугулымская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 153,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 130,
@@ -315,12 +375,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 44,
-      "Исаев Роман Васильевич": 8,
-      "Крылова Наталья Владимировна": 11,
-      "Прокашева Мария Васильевна": 2,
-      "Севастьянов Геннадий Валентинович": 2,
-      "Торощин Игорь Андреевич": 3
+      "4664024187128": 44,
+      "4664024187164": 8,
+      "4664024186922": 11,
+      "4664024187267": 2,
+      "4664024187184": 2,
+      "4664024186710": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596905&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596905&type=464",
@@ -330,6 +390,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:20.354197+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596905&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596905&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -339,8 +403,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1017,
     "uikTvd": "4664061231950",
+    "uikName": "УИК №1017",
     "tikTvd": "26620002596905",
     "tikName": "Тугулымская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 160,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 140,
@@ -356,12 +424,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 33,
-      "Исаев Роман Васильевич": 11,
-      "Крылова Наталья Владимировна": 14,
-      "Прокашева Мария Васильевна": 3,
-      "Севастьянов Геннадий Валентинович": 4,
-      "Торощин Игорь Андреевич": 13
+      "4664024187128": 33,
+      "4664024187164": 11,
+      "4664024186922": 14,
+      "4664024187267": 3,
+      "4664024187184": 4,
+      "4664024186710": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596905&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596905&type=464",
@@ -371,6 +439,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:20.354197+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596905&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596905&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -380,8 +452,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1018,
     "uikTvd": "4664061231951",
+    "uikName": "УИК №1018",
     "tikTvd": "26620002596905",
     "tikName": "Тугулымская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 571,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 510,
@@ -397,12 +473,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 161,
-      "Исаев Роман Васильевич": 23,
-      "Крылова Наталья Владимировна": 45,
-      "Прокашева Мария Васильевна": 6,
-      "Севастьянов Геннадий Валентинович": 4,
-      "Торощин Игорь Андреевич": 39
+      "4664024187128": 161,
+      "4664024187164": 23,
+      "4664024186922": 45,
+      "4664024187267": 6,
+      "4664024187184": 4,
+      "4664024186710": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596905&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596905&type=464",
@@ -412,6 +488,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:20.354197+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596905&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596905&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -421,8 +501,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1019,
     "uikTvd": "4664061231952",
+    "uikName": "УИК №1019",
     "tikTvd": "26620002596905",
     "tikName": "Тугулымская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 282,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 250,
@@ -438,12 +522,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 126,
-      "Исаев Роман Васильевич": 3,
-      "Крылова Наталья Владимировна": 24,
-      "Прокашева Мария Васильевна": 4,
-      "Севастьянов Геннадий Валентинович": 1,
-      "Торощин Игорь Андреевич": 13
+      "4664024187128": 126,
+      "4664024187164": 3,
+      "4664024186922": 24,
+      "4664024187267": 4,
+      "4664024187184": 1,
+      "4664024186710": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596905&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596905&type=464",
@@ -453,6 +537,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:20.354197+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596905&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596905&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -462,8 +550,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1020,
     "uikTvd": "4664061231953",
+    "uikName": "УИК №1020",
     "tikTvd": "26620002596905",
     "tikName": "Тугулымская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 101,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 80,
@@ -479,12 +571,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 22,
-      "Исаев Роман Васильевич": 5,
-      "Крылова Наталья Владимировна": 3,
-      "Прокашева Мария Васильевна": 2,
-      "Севастьянов Геннадий Валентинович": 1,
-      "Торощин Игорь Андреевич": 6
+      "4664024187128": 22,
+      "4664024187164": 5,
+      "4664024186922": 3,
+      "4664024187267": 2,
+      "4664024187184": 1,
+      "4664024186710": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596905&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596905&type=464",
@@ -494,6 +586,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:20.354197+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596905&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596905&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -503,8 +599,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 815,
     "uikTvd": "4664055196193",
+    "uikName": "УИК №815",
     "tikTvd": "26620002596906",
     "tikName": "Слободо-Туринская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 451,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 400,
@@ -520,12 +620,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 129,
-      "Исаев Роман Васильевич": 19,
-      "Крылова Наталья Владимировна": 40,
-      "Прокашева Мария Васильевна": 7,
-      "Севастьянов Геннадий Валентинович": 4,
-      "Торощин Игорь Андреевич": 25
+      "4664024187128": 129,
+      "4664024187164": 19,
+      "4664024186922": 40,
+      "4664024187267": 7,
+      "4664024187184": 4,
+      "4664024186710": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596906&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596906&type=464",
@@ -535,6 +635,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:20.547320+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596906&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596906&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -544,8 +648,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 816,
     "uikTvd": "4664055196194",
+    "uikName": "УИК №816",
     "tikTvd": "26620002596906",
     "tikName": "Слободо-Туринская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 608,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 500,
@@ -561,12 +669,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 121,
-      "Исаев Роман Васильевич": 29,
-      "Крылова Наталья Владимировна": 57,
-      "Прокашева Мария Васильевна": 5,
-      "Севастьянов Геннадий Валентинович": 9,
-      "Торощин Игорь Андреевич": 40
+      "4664024187128": 121,
+      "4664024187164": 29,
+      "4664024186922": 57,
+      "4664024187267": 5,
+      "4664024187184": 9,
+      "4664024186710": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596906&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596906&type=464",
@@ -576,6 +684,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:20.547320+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596906&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596906&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -585,8 +697,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 817,
     "uikTvd": "4664055196195",
+    "uikName": "УИК №817",
     "tikTvd": "26620002596906",
     "tikName": "Слободо-Туринская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 652,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 500,
@@ -602,12 +718,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 172,
-      "Исаев Роман Васильевич": 40,
-      "Крылова Наталья Владимировна": 74,
-      "Прокашева Мария Васильевна": 13,
-      "Севастьянов Геннадий Валентинович": 9,
-      "Торощин Игорь Андреевич": 68
+      "4664024187128": 172,
+      "4664024187164": 40,
+      "4664024186922": 74,
+      "4664024187267": 13,
+      "4664024187184": 9,
+      "4664024186710": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596906&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596906&type=464",
@@ -617,6 +733,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:20.547320+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596906&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596906&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -626,8 +746,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 818,
     "uikTvd": "4664055196196",
+    "uikName": "УИК №818",
     "tikTvd": "26620002596906",
     "tikName": "Слободо-Туринская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 132,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 100,
@@ -643,12 +767,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 21,
-      "Исаев Роман Васильевич": 2,
-      "Крылова Наталья Владимировна": 12,
-      "Прокашева Мария Васильевна": 4,
-      "Севастьянов Геннадий Валентинович": 1,
-      "Торощин Игорь Андреевич": 14
+      "4664024187128": 21,
+      "4664024187164": 2,
+      "4664024186922": 12,
+      "4664024187267": 4,
+      "4664024187184": 1,
+      "4664024186710": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596906&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596906&type=464",
@@ -658,6 +782,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:20.547320+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596906&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596906&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -667,8 +795,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 819,
     "uikTvd": "4664055196197",
+    "uikName": "УИК №819",
     "tikTvd": "26620002596906",
     "tikName": "Слободо-Туринская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 279,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 250,
@@ -684,12 +816,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 93,
-      "Исаев Роман Васильевич": 6,
-      "Крылова Наталья Владимировна": 16,
-      "Прокашева Мария Васильевна": 5,
-      "Севастьянов Геннадий Валентинович": 4,
-      "Торощин Игорь Андреевич": 19
+      "4664024187128": 93,
+      "4664024187164": 6,
+      "4664024186922": 16,
+      "4664024187267": 5,
+      "4664024187184": 4,
+      "4664024186710": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596906&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596906&type=464",
@@ -699,6 +831,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:20.547320+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596906&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596906&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -708,8 +844,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 820,
     "uikTvd": "4664055196198",
+    "uikName": "УИК №820",
     "tikTvd": "26620002596906",
     "tikName": "Слободо-Туринская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 181,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 150,
@@ -725,12 +865,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 46,
-      "Исаев Роман Васильевич": 7,
-      "Крылова Наталья Владимировна": 26,
-      "Прокашева Мария Васильевна": 7,
-      "Севастьянов Геннадий Валентинович": 3,
-      "Торощин Игорь Андреевич": 16
+      "4664024187128": 46,
+      "4664024187164": 7,
+      "4664024186922": 26,
+      "4664024187267": 7,
+      "4664024187184": 3,
+      "4664024186710": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596906&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596906&type=464",
@@ -740,6 +880,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:20.547320+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596906&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596906&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -749,8 +893,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 821,
     "uikTvd": "4664055196199",
+    "uikName": "УИК №821",
     "tikTvd": "26620002596906",
     "tikName": "Слободо-Туринская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 341,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 300,
@@ -766,12 +914,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 111,
-      "Исаев Роман Васильевич": 10,
-      "Крылова Наталья Владимировна": 31,
-      "Прокашева Мария Васильевна": 3,
-      "Севастьянов Геннадий Валентинович": 2,
-      "Торощин Игорь Андреевич": 18
+      "4664024187128": 111,
+      "4664024187164": 10,
+      "4664024186922": 31,
+      "4664024187267": 3,
+      "4664024187184": 2,
+      "4664024186710": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596906&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596906&type=464",
@@ -781,6 +929,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:20.547320+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596906&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596906&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -790,8 +942,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 822,
     "uikTvd": "4664055196200",
+    "uikName": "УИК №822",
     "tikTvd": "26620002596906",
     "tikName": "Слободо-Туринская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 127,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 100,
@@ -807,12 +963,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 39,
-      "Исаев Роман Васильевич": 2,
-      "Крылова Наталья Владимировна": 12,
-      "Прокашева Мария Васильевна": 1,
-      "Севастьянов Геннадий Валентинович": 2,
-      "Торощин Игорь Андреевич": 4
+      "4664024187128": 39,
+      "4664024187164": 2,
+      "4664024186922": 12,
+      "4664024187267": 1,
+      "4664024187184": 2,
+      "4664024186710": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596906&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596906&type=464",
@@ -822,6 +978,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:20.547320+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596906&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596906&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -831,8 +991,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 823,
     "uikTvd": "4664055196201",
+    "uikName": "УИК №823",
     "tikTvd": "26620002596906",
     "tikName": "Слободо-Туринская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 765,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 600,
@@ -848,12 +1012,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 215,
-      "Исаев Роман Васильевич": 29,
-      "Крылова Наталья Владимировна": 60,
-      "Прокашева Мария Васильевна": 4,
-      "Севастьянов Геннадий Валентинович": 7,
-      "Торощин Игорь Андреевич": 60
+      "4664024187128": 215,
+      "4664024187164": 29,
+      "4664024186922": 60,
+      "4664024187267": 4,
+      "4664024187184": 7,
+      "4664024186710": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596906&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596906&type=464",
@@ -863,6 +1027,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:20.547320+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596906&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596906&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -872,8 +1040,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 824,
     "uikTvd": "4664055196202",
+    "uikName": "УИК №824",
     "tikTvd": "26620002596906",
     "tikName": "Слободо-Туринская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 173,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 150,
@@ -889,12 +1061,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 63,
-      "Исаев Роман Васильевич": 9,
-      "Крылова Наталья Владимировна": 8,
-      "Прокашева Мария Васильевна": 1,
-      "Севастьянов Геннадий Валентинович": 1,
-      "Торощин Игорь Андреевич": 14
+      "4664024187128": 63,
+      "4664024187164": 9,
+      "4664024186922": 8,
+      "4664024187267": 1,
+      "4664024187184": 1,
+      "4664024186710": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596906&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596906&type=464",
@@ -904,6 +1076,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:20.547320+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596906&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596906&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -913,8 +1089,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 825,
     "uikTvd": "4664055196203",
+    "uikName": "УИК №825",
     "tikTvd": "26620002596906",
     "tikName": "Слободо-Туринская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 540,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 400,
@@ -930,12 +1110,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 164,
-      "Исаев Роман Васильевич": 12,
-      "Крылова Наталья Владимировна": 33,
-      "Прокашева Мария Васильевна": 3,
-      "Севастьянов Геннадий Валентинович": 1,
-      "Торощин Игорь Андреевич": 41
+      "4664024187128": 164,
+      "4664024187164": 12,
+      "4664024186922": 33,
+      "4664024187267": 3,
+      "4664024187184": 1,
+      "4664024186710": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596906&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596906&type=464",
@@ -945,6 +1125,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:20.547320+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596906&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596906&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -954,8 +1138,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 826,
     "uikTvd": "4664055196204",
+    "uikName": "УИК №826",
     "tikTvd": "26620002596906",
     "tikName": "Слободо-Туринская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 162,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 150,
@@ -971,12 +1159,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 57,
-      "Исаев Роман Васильевич": 2,
-      "Крылова Наталья Владимировна": 8,
-      "Прокашева Мария Васильевна": 1,
-      "Севастьянов Геннадий Валентинович": 1,
-      "Торощин Игорь Андреевич": 24
+      "4664024187128": 57,
+      "4664024187164": 2,
+      "4664024186922": 8,
+      "4664024187267": 1,
+      "4664024187184": 1,
+      "4664024186710": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596906&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596906&type=464",
@@ -986,6 +1174,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:20.547320+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596906&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596906&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -995,8 +1187,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 827,
     "uikTvd": "4664055196205",
+    "uikName": "УИК №827",
     "tikTvd": "26620002596906",
     "tikName": "Слободо-Туринская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 202,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 200,
@@ -1012,12 +1208,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 42,
-      "Исаев Роман Васильевич": 12,
-      "Крылова Наталья Владимировна": 19,
-      "Прокашева Мария Васильевна": 7,
-      "Севастьянов Геннадий Валентинович": 2,
-      "Торощин Игорь Андреевич": 22
+      "4664024187128": 42,
+      "4664024187164": 12,
+      "4664024186922": 19,
+      "4664024187267": 7,
+      "4664024187184": 2,
+      "4664024186710": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596906&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596906&type=464",
@@ -1027,6 +1223,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:20.547320+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596906&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596906&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -1036,8 +1236,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 828,
     "uikTvd": "4664055196206",
+    "uikName": "УИК №828",
     "tikTvd": "26620002596906",
     "tikName": "Слободо-Туринская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 301,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 300,
@@ -1053,12 +1257,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 80,
-      "Исаев Роман Васильевич": 14,
-      "Крылова Наталья Владимировна": 37,
-      "Прокашева Мария Васильевна": 6,
-      "Севастьянов Геннадий Валентинович": 2,
-      "Торощин Игорь Андреевич": 26
+      "4664024187128": 80,
+      "4664024187164": 14,
+      "4664024186922": 37,
+      "4664024187267": 6,
+      "4664024187184": 2,
+      "4664024186710": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596906&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596906&type=464",
@@ -1068,6 +1272,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:20.547320+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596906&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596906&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -1077,8 +1285,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 829,
     "uikTvd": "4664055196207",
+    "uikName": "УИК №829",
     "tikTvd": "26620002596906",
     "tikName": "Слободо-Туринская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 674,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 500,
@@ -1094,12 +1306,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 185,
-      "Исаев Роман Васильевич": 28,
-      "Крылова Наталья Владимировна": 77,
-      "Прокашева Мария Васильевна": 5,
-      "Севастьянов Геннадий Валентинович": 6,
-      "Торощин Игорь Андреевич": 71
+      "4664024187128": 185,
+      "4664024187164": 28,
+      "4664024186922": 77,
+      "4664024187267": 5,
+      "4664024187184": 6,
+      "4664024186710": 71
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596906&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596906&type=464",
@@ -1109,6 +1321,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:20.547320+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596906&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596906&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -1118,8 +1334,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 830,
     "uikTvd": "4664055196208",
+    "uikName": "УИК №830",
     "tikTvd": "26620002596906",
     "tikName": "Слободо-Туринская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 166,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 150,
@@ -1135,12 +1355,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 41,
-      "Исаев Роман Васильевич": 9,
-      "Крылова Наталья Владимировна": 12,
-      "Прокашева Мария Васильевна": 4,
-      "Севастьянов Геннадий Валентинович": 1,
-      "Торощин Игорь Андреевич": 16
+      "4664024187128": 41,
+      "4664024187164": 9,
+      "4664024186922": 12,
+      "4664024187267": 4,
+      "4664024187184": 1,
+      "4664024186710": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596906&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596906&type=464",
@@ -1150,6 +1370,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:20.547320+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596906&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596906&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -1159,8 +1383,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 831,
     "uikTvd": "4664055196209",
+    "uikName": "УИК №831",
     "tikTvd": "26620002596906",
     "tikName": "Слободо-Туринская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 181,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 150,
@@ -1176,12 +1404,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 49,
-      "Исаев Роман Васильевич": 4,
-      "Крылова Наталья Владимировна": 18,
-      "Прокашева Мария Васильевна": 5,
-      "Севастьянов Геннадий Валентинович": 3,
-      "Торощин Игорь Андреевич": 27
+      "4664024187128": 49,
+      "4664024187164": 4,
+      "4664024186922": 18,
+      "4664024187267": 5,
+      "4664024187184": 3,
+      "4664024186710": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596906&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596906&type=464",
@@ -1191,6 +1419,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:20.547320+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596906&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596906&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -1200,8 +1432,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 832,
     "uikTvd": "4664055196210",
+    "uikName": "УИК №832",
     "tikTvd": "26620002596906",
     "tikName": "Слободо-Туринская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 399,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 350,
@@ -1217,12 +1453,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 98,
-      "Исаев Роман Васильевич": 6,
-      "Крылова Наталья Владимировна": 46,
-      "Прокашева Мария Васильевна": 7,
-      "Севастьянов Геннадий Валентинович": 2,
-      "Торощин Игорь Андреевич": 36
+      "4664024187128": 98,
+      "4664024187164": 6,
+      "4664024186922": 46,
+      "4664024187267": 7,
+      "4664024187184": 2,
+      "4664024186710": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596906&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596906&type=464",
@@ -1232,6 +1468,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:20.547320+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596906&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596906&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -1241,8 +1481,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 833,
     "uikTvd": "4664055196211",
+    "uikName": "УИК №833",
     "tikTvd": "26620002596906",
     "tikName": "Слободо-Туринская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2219,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1600,
@@ -1258,12 +1502,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 464,
-      "Исаев Роман Васильевич": 69,
-      "Крылова Наталья Владимировна": 237,
-      "Прокашева Мария Васильевна": 22,
-      "Севастьянов Геннадий Валентинович": 18,
-      "Торощин Игорь Андреевич": 165
+      "4664024187128": 464,
+      "4664024187164": 69,
+      "4664024186922": 237,
+      "4664024187267": 22,
+      "4664024187184": 18,
+      "4664024186710": 165
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596906&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596906&type=464",
@@ -1273,6 +1517,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:20.547320+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596906&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596906&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -1282,8 +1530,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 834,
     "uikTvd": "4664055196212",
+    "uikName": "УИК №834",
     "tikTvd": "26620002596906",
     "tikName": "Слободо-Туринская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1554,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1200,
@@ -1299,12 +1551,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 346,
-      "Исаев Роман Васильевич": 55,
-      "Крылова Наталья Владимировна": 144,
-      "Прокашева Мария Васильевна": 9,
-      "Севастьянов Геннадий Валентинович": 9,
-      "Торощин Игорь Андреевич": 131
+      "4664024187128": 346,
+      "4664024187164": 55,
+      "4664024186922": 144,
+      "4664024187267": 9,
+      "4664024187184": 9,
+      "4664024186710": 131
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596906&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596906&type=464",
@@ -1314,6 +1566,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:20.547320+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596906&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596906&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -1323,8 +1579,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 835,
     "uikTvd": "4664055196213",
+    "uikName": "УИК №835",
     "tikTvd": "26620002596906",
     "tikName": "Слободо-Туринская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1009,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 800,
@@ -1340,12 +1600,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 258,
-      "Исаев Роман Васильевич": 51,
-      "Крылова Наталья Владимировна": 136,
-      "Прокашева Мария Васильевна": 14,
-      "Севастьянов Геннадий Валентинович": 3,
-      "Торощин Игорь Андреевич": 82
+      "4664024187128": 258,
+      "4664024187164": 51,
+      "4664024186922": 136,
+      "4664024187267": 14,
+      "4664024187184": 3,
+      "4664024186710": 82
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596906&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596906&type=464",
@@ -1355,6 +1615,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:20.547320+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596906&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596906&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -1364,8 +1628,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 836,
     "uikTvd": "4664055196214",
+    "uikName": "УИК №836",
     "tikTvd": "26620002596906",
     "tikName": "Слободо-Туринская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 145,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 100,
@@ -1381,12 +1649,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 39,
-      "Исаев Роман Васильевич": 6,
-      "Крылова Наталья Владимировна": 15,
-      "Прокашева Мария Васильевна": 6,
-      "Севастьянов Геннадий Валентинович": 1,
-      "Торощин Игорь Андреевич": 12
+      "4664024187128": 39,
+      "4664024187164": 6,
+      "4664024186922": 15,
+      "4664024187267": 6,
+      "4664024187184": 1,
+      "4664024186710": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596906&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596906&type=464",
@@ -1396,6 +1664,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:20.547320+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596906&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596906&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -1405,8 +1677,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 347,
     "uikTvd": "4664002236165",
+    "uikName": "УИК №347",
     "tikTvd": "26620002596907",
     "tikName": "Ирбитская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 404,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 400,
@@ -1422,12 +1698,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 115,
-      "Исаев Роман Васильевич": 15,
-      "Крылова Наталья Владимировна": 30,
-      "Прокашева Мария Васильевна": 6,
-      "Севастьянов Геннадий Валентинович": 3,
-      "Торощин Игорь Андреевич": 71
+      "4664024187128": 115,
+      "4664024187164": 15,
+      "4664024186922": 30,
+      "4664024187267": 6,
+      "4664024187184": 3,
+      "4664024186710": 71
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596907&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596907&type=464",
@@ -1437,6 +1713,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:22.312627+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596907&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596907&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -1446,8 +1726,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 348,
     "uikTvd": "4664002236166",
+    "uikName": "УИК №348",
     "tikTvd": "26620002596907",
     "tikName": "Ирбитская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 456,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 450,
@@ -1463,12 +1747,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 138,
-      "Исаев Роман Васильевич": 6,
-      "Крылова Наталья Владимировна": 30,
-      "Прокашева Мария Васильевна": 7,
-      "Севастьянов Геннадий Валентинович": 4,
-      "Торощин Игорь Андреевич": 51
+      "4664024187128": 138,
+      "4664024187164": 6,
+      "4664024186922": 30,
+      "4664024187267": 7,
+      "4664024187184": 4,
+      "4664024186710": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596907&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596907&type=464",
@@ -1478,6 +1762,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:22.312627+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596907&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596907&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -1487,8 +1775,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 349,
     "uikTvd": "4664002236167",
+    "uikName": "УИК №349",
     "tikTvd": "26620002596907",
     "tikName": "Ирбитская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 442,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 450,
@@ -1504,12 +1796,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 152,
-      "Исаев Роман Васильевич": 18,
-      "Крылова Наталья Владимировна": 37,
-      "Прокашева Мария Васильевна": 8,
-      "Севастьянов Геннадий Валентинович": 7,
-      "Торощин Игорь Андреевич": 74
+      "4664024187128": 152,
+      "4664024187164": 18,
+      "4664024186922": 37,
+      "4664024187267": 8,
+      "4664024187184": 7,
+      "4664024186710": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596907&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596907&type=464",
@@ -1519,6 +1811,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:22.312627+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596907&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596907&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -1528,8 +1824,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 350,
     "uikTvd": "4664002236168",
+    "uikName": "УИК №350",
     "tikTvd": "26620002596907",
     "tikName": "Ирбитская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 221,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 200,
@@ -1545,12 +1845,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 78,
-      "Исаев Роман Васильевич": 9,
-      "Крылова Наталья Владимировна": 8,
-      "Прокашева Мария Васильевна": 2,
-      "Севастьянов Геннадий Валентинович": 2,
-      "Торощин Игорь Андреевич": 42
+      "4664024187128": 78,
+      "4664024187164": 9,
+      "4664024186922": 8,
+      "4664024187267": 2,
+      "4664024187184": 2,
+      "4664024186710": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596907&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596907&type=464",
@@ -1560,6 +1860,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:22.312627+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596907&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596907&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -1569,8 +1873,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 351,
     "uikTvd": "4664002236169",
+    "uikName": "УИК №351",
     "tikTvd": "26620002596907",
     "tikName": "Ирбитская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 230,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 200,
@@ -1586,12 +1894,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 52,
-      "Исаев Роман Васильевич": 7,
-      "Крылова Наталья Владимировна": 25,
-      "Прокашева Мария Васильевна": 2,
-      "Севастьянов Геннадий Валентинович": 3,
-      "Торощин Игорь Андреевич": 23
+      "4664024187128": 52,
+      "4664024187164": 7,
+      "4664024186922": 25,
+      "4664024187267": 2,
+      "4664024187184": 3,
+      "4664024186710": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596907&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596907&type=464",
@@ -1601,6 +1909,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:22.312627+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596907&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596907&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -1610,8 +1922,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 352,
     "uikTvd": "4664002236170",
+    "uikName": "УИК №352",
     "tikTvd": "26620002596907",
     "tikName": "Ирбитская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 645,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 650,
@@ -1627,12 +1943,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 157,
-      "Исаев Роман Васильевич": 23,
-      "Крылова Наталья Владимировна": 48,
-      "Прокашева Мария Васильевна": 2,
-      "Севастьянов Геннадий Валентинович": 3,
-      "Торощин Игорь Андреевич": 87
+      "4664024187128": 157,
+      "4664024187164": 23,
+      "4664024186922": 48,
+      "4664024187267": 2,
+      "4664024187184": 3,
+      "4664024186710": 87
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596907&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596907&type=464",
@@ -1642,6 +1958,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:22.312627+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596907&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596907&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -1651,8 +1971,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 353,
     "uikTvd": "4664002236171",
+    "uikName": "УИК №353",
     "tikTvd": "26620002596907",
     "tikName": "Ирбитская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 745,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 750,
@@ -1668,12 +1992,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 161,
-      "Исаев Роман Васильевич": 29,
-      "Крылова Наталья Владимировна": 74,
-      "Прокашева Мария Васильевна": 12,
-      "Севастьянов Геннадий Валентинович": 10,
-      "Торощин Игорь Андреевич": 103
+      "4664024187128": 161,
+      "4664024187164": 29,
+      "4664024186922": 74,
+      "4664024187267": 12,
+      "4664024187184": 10,
+      "4664024186710": 103
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596907&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596907&type=464",
@@ -1683,6 +2007,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:22.312627+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596907&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596907&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -1692,8 +2020,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 354,
     "uikTvd": "4664002236172",
+    "uikName": "УИК №354",
     "tikTvd": "26620002596907",
     "tikName": "Ирбитская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 152,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 150,
@@ -1709,12 +2041,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 40,
-      "Исаев Роман Васильевич": 7,
-      "Крылова Наталья Владимировна": 11,
-      "Прокашева Мария Васильевна": 5,
-      "Севастьянов Геннадий Валентинович": 1,
-      "Торощин Игорь Андреевич": 24
+      "4664024187128": 40,
+      "4664024187164": 7,
+      "4664024186922": 11,
+      "4664024187267": 5,
+      "4664024187184": 1,
+      "4664024186710": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596907&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596907&type=464",
@@ -1724,6 +2056,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:22.312627+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596907&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596907&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -1733,8 +2069,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 355,
     "uikTvd": "4664002236173",
+    "uikName": "УИК №355",
     "tikTvd": "26620002596907",
     "tikName": "Ирбитская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 708,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 700,
@@ -1750,12 +2090,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 152,
-      "Исаев Роман Васильевич": 33,
-      "Крылова Наталья Владимировна": 53,
-      "Прокашева Мария Васильевна": 14,
-      "Севастьянов Геннадий Валентинович": 2,
-      "Торощин Игорь Андреевич": 91
+      "4664024187128": 152,
+      "4664024187164": 33,
+      "4664024186922": 53,
+      "4664024187267": 14,
+      "4664024187184": 2,
+      "4664024186710": 91
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596907&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596907&type=464",
@@ -1765,6 +2105,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:22.312627+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596907&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596907&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -1774,8 +2118,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 356,
     "uikTvd": "4664002236174",
+    "uikName": "УИК №356",
     "tikTvd": "26620002596907",
     "tikName": "Ирбитская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 418,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 400,
@@ -1791,12 +2139,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 119,
-      "Исаев Роман Васильевич": 19,
-      "Крылова Наталья Владимировна": 38,
-      "Прокашева Мария Васильевна": 6,
-      "Севастьянов Геннадий Валентинович": 2,
-      "Торощин Игорь Андреевич": 51
+      "4664024187128": 119,
+      "4664024187164": 19,
+      "4664024186922": 38,
+      "4664024187267": 6,
+      "4664024187184": 2,
+      "4664024186710": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596907&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596907&type=464",
@@ -1806,6 +2154,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:22.312627+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596907&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596907&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -1815,8 +2167,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 357,
     "uikTvd": "4664002236175",
+    "uikName": "УИК №357",
     "tikTvd": "26620002596907",
     "tikName": "Ирбитская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 470,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 450,
@@ -1832,12 +2188,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 117,
-      "Исаев Роман Васильевич": 16,
-      "Крылова Наталья Владимировна": 34,
-      "Прокашева Мария Васильевна": 9,
-      "Севастьянов Геннадий Валентинович": 3,
-      "Торощин Игорь Андреевич": 58
+      "4664024187128": 117,
+      "4664024187164": 16,
+      "4664024186922": 34,
+      "4664024187267": 9,
+      "4664024187184": 3,
+      "4664024186710": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596907&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596907&type=464",
@@ -1847,6 +2203,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:22.312627+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596907&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596907&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -1856,8 +2216,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 358,
     "uikTvd": "4664002236176",
+    "uikName": "УИК №358",
     "tikTvd": "26620002596907",
     "tikName": "Ирбитская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 966,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 950,
@@ -1873,12 +2237,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 223,
-      "Исаев Роман Васильевич": 23,
-      "Крылова Наталья Владимировна": 101,
-      "Прокашева Мария Васильевна": 12,
-      "Севастьянов Геннадий Валентинович": 6,
-      "Торощин Игорь Андреевич": 83
+      "4664024187128": 223,
+      "4664024187164": 23,
+      "4664024186922": 101,
+      "4664024187267": 12,
+      "4664024187184": 6,
+      "4664024186710": 83
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596907&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596907&type=464",
@@ -1888,6 +2252,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:22.312627+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596907&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596907&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -1897,8 +2265,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 359,
     "uikTvd": "4664002236177",
+    "uikName": "УИК №359",
     "tikTvd": "26620002596907",
     "tikName": "Ирбитская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 243,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 250,
@@ -1914,12 +2286,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 56,
-      "Исаев Роман Васильевич": 6,
-      "Крылова Наталья Владимировна": 18,
-      "Прокашева Мария Васильевна": 1,
-      "Севастьянов Геннадий Валентинович": 2,
-      "Торощин Игорь Андреевич": 40
+      "4664024187128": 56,
+      "4664024187164": 6,
+      "4664024186922": 18,
+      "4664024187267": 1,
+      "4664024187184": 2,
+      "4664024186710": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596907&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596907&type=464",
@@ -1929,6 +2301,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:22.312627+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596907&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596907&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -1938,8 +2314,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 360,
     "uikTvd": "4664002236178",
+    "uikName": "УИК №360",
     "tikTvd": "26620002596907",
     "tikName": "Ирбитская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 183,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 180,
@@ -1955,12 +2335,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 49,
-      "Исаев Роман Васильевич": 5,
-      "Крылова Наталья Владимировна": 18,
-      "Прокашева Мария Васильевна": 1,
-      "Севастьянов Геннадий Валентинович": 1,
-      "Торощин Игорь Андреевич": 19
+      "4664024187128": 49,
+      "4664024187164": 5,
+      "4664024186922": 18,
+      "4664024187267": 1,
+      "4664024187184": 1,
+      "4664024186710": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596907&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596907&type=464",
@@ -1970,6 +2350,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:22.312627+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596907&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596907&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -1979,8 +2363,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 361,
     "uikTvd": "4664002236179",
+    "uikName": "УИК №361",
     "tikTvd": "26620002596907",
     "tikName": "Ирбитская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 511,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 500,
@@ -1996,12 +2384,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 125,
-      "Исаев Роман Васильевич": 34,
-      "Крылова Наталья Владимировна": 44,
-      "Прокашева Мария Васильевна": 7,
-      "Севастьянов Геннадий Валентинович": 5,
-      "Торощин Игорь Андреевич": 80
+      "4664024187128": 125,
+      "4664024187164": 34,
+      "4664024186922": 44,
+      "4664024187267": 7,
+      "4664024187184": 5,
+      "4664024186710": 80
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596907&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596907&type=464",
@@ -2011,6 +2399,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:22.312627+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596907&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596907&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -2020,8 +2412,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 362,
     "uikTvd": "4664002236180",
+    "uikName": "УИК №362",
     "tikTvd": "26620002596907",
     "tikName": "Ирбитская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 250,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 250,
@@ -2037,12 +2433,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 45,
-      "Исаев Роман Васильевич": 4,
-      "Крылова Наталья Владимировна": 28,
-      "Прокашева Мария Васильевна": 8,
-      "Севастьянов Геннадий Валентинович": 3,
-      "Торощин Игорь Андреевич": 43
+      "4664024187128": 45,
+      "4664024187164": 4,
+      "4664024186922": 28,
+      "4664024187267": 8,
+      "4664024187184": 3,
+      "4664024186710": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596907&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596907&type=464",
@@ -2052,6 +2448,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:22.312627+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596907&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596907&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -2061,8 +2461,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 364,
     "uikTvd": "4664002236181",
+    "uikName": "УИК №364",
     "tikTvd": "26620002596907",
     "tikName": "Ирбитская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 516,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 500,
@@ -2078,12 +2482,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 123,
-      "Исаев Роман Васильевич": 27,
-      "Крылова Наталья Владимировна": 72,
-      "Прокашева Мария Васильевна": 10,
-      "Севастьянов Геннадий Валентинович": 7,
-      "Торощин Игорь Андреевич": 70
+      "4664024187128": 123,
+      "4664024187164": 27,
+      "4664024186922": 72,
+      "4664024187267": 10,
+      "4664024187184": 7,
+      "4664024186710": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596907&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596907&type=464",
@@ -2093,6 +2497,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:22.312627+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596907&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596907&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -2102,8 +2510,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 365,
     "uikTvd": "4664002236182",
+    "uikName": "УИК №365",
     "tikTvd": "26620002596907",
     "tikName": "Ирбитская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 197,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 200,
@@ -2119,12 +2531,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 40,
-      "Исаев Роман Васильевич": 4,
-      "Крылова Наталья Владимировна": 29,
-      "Прокашева Мария Васильевна": 4,
-      "Севастьянов Геннадий Валентинович": 2,
-      "Торощин Игорь Андреевич": 41
+      "4664024187128": 40,
+      "4664024187164": 4,
+      "4664024186922": 29,
+      "4664024187267": 4,
+      "4664024187184": 2,
+      "4664024186710": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596907&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596907&type=464",
@@ -2134,6 +2546,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:22.312627+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596907&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596907&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -2143,8 +2559,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 366,
     "uikTvd": "4664002236183",
+    "uikName": "УИК №366",
     "tikTvd": "26620002596907",
     "tikName": "Ирбитская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 476,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 450,
@@ -2160,12 +2580,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 121,
-      "Исаев Роман Васильевич": 22,
-      "Крылова Наталья Владимировна": 43,
-      "Прокашева Мария Васильевна": 7,
-      "Севастьянов Геннадий Валентинович": 1,
-      "Торощин Игорь Андреевич": 56
+      "4664024187128": 121,
+      "4664024187164": 22,
+      "4664024186922": 43,
+      "4664024187267": 7,
+      "4664024187184": 1,
+      "4664024186710": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596907&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596907&type=464",
@@ -2175,6 +2595,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:22.312627+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596907&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596907&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -2184,8 +2608,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 367,
     "uikTvd": "4664002236184",
+    "uikName": "УИК №367",
     "tikTvd": "26620002596907",
     "tikName": "Ирбитская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1127,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1000,
@@ -2201,12 +2629,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 379,
-      "Исаев Роман Васильевич": 35,
-      "Крылова Наталья Владимировна": 101,
-      "Прокашева Мария Васильевна": 16,
-      "Севастьянов Геннадий Валентинович": 12,
-      "Торощин Игорь Андреевич": 156
+      "4664024187128": 379,
+      "4664024187164": 35,
+      "4664024186922": 101,
+      "4664024187267": 16,
+      "4664024187184": 12,
+      "4664024186710": 156
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596907&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596907&type=464",
@@ -2216,6 +2644,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:22.312627+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596907&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596907&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -2225,8 +2657,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 368,
     "uikTvd": "4664002236185",
+    "uikName": "УИК №368",
     "tikTvd": "26620002596907",
     "tikName": "Ирбитская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 398,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 400,
@@ -2242,12 +2678,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 140,
-      "Исаев Роман Васильевич": 17,
-      "Крылова Наталья Владимировна": 35,
-      "Прокашева Мария Васильевна": 4,
-      "Севастьянов Геннадий Валентинович": 2,
-      "Торощин Игорь Андреевич": 53
+      "4664024187128": 140,
+      "4664024187164": 17,
+      "4664024186922": 35,
+      "4664024187267": 4,
+      "4664024187184": 2,
+      "4664024186710": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596907&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596907&type=464",
@@ -2257,6 +2693,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:22.312627+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596907&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596907&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -2266,8 +2706,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 369,
     "uikTvd": "4664002236186",
+    "uikName": "УИК №369",
     "tikTvd": "26620002596907",
     "tikName": "Ирбитская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1077,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1000,
@@ -2283,12 +2727,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 238,
-      "Исаев Роман Васильевич": 30,
-      "Крылова Наталья Владимировна": 96,
-      "Прокашева Мария Васильевна": 9,
-      "Севастьянов Геннадий Валентинович": 8,
-      "Торощин Игорь Андреевич": 142
+      "4664024187128": 238,
+      "4664024187164": 30,
+      "4664024186922": 96,
+      "4664024187267": 9,
+      "4664024187184": 8,
+      "4664024186710": 142
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596907&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596907&type=464",
@@ -2298,6 +2742,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:22.312627+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596907&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596907&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -2307,8 +2755,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 370,
     "uikTvd": "4664002236187",
+    "uikName": "УИК №370",
     "tikTvd": "26620002596907",
     "tikName": "Ирбитская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 356,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 350,
@@ -2324,12 +2776,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 115,
-      "Исаев Роман Васильевич": 6,
-      "Крылова Наталья Владимировна": 25,
-      "Прокашева Мария Васильевна": 2,
-      "Севастьянов Геннадий Валентинович": 3,
-      "Торощин Игорь Андреевич": 49
+      "4664024187128": 115,
+      "4664024187164": 6,
+      "4664024186922": 25,
+      "4664024187267": 2,
+      "4664024187184": 3,
+      "4664024186710": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596907&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596907&type=464",
@@ -2339,6 +2791,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:22.312627+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596907&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596907&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -2348,8 +2804,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 371,
     "uikTvd": "4664002236188",
+    "uikName": "УИК №371",
     "tikTvd": "26620002596907",
     "tikName": "Ирбитская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 131,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 120,
@@ -2365,12 +2825,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 18,
-      "Исаев Роман Васильевич": 2,
-      "Крылова Наталья Владимировна": 18,
-      "Прокашева Мария Васильевна": 2,
-      "Севастьянов Геннадий Валентинович": 0,
-      "Торощин Игорь Андреевич": 26
+      "4664024187128": 18,
+      "4664024187164": 2,
+      "4664024186922": 18,
+      "4664024187267": 2,
+      "4664024187184": 0,
+      "4664024186710": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596907&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596907&type=464",
@@ -2380,6 +2840,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:22.312627+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596907&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596907&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -2389,8 +2853,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 372,
     "uikTvd": "4664002236189",
+    "uikName": "УИК №372",
     "tikTvd": "26620002596907",
     "tikName": "Ирбитская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 660,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 650,
@@ -2406,12 +2874,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 200,
-      "Исаев Роман Васильевич": 21,
-      "Крылова Наталья Владимировна": 73,
-      "Прокашева Мария Васильевна": 3,
-      "Севастьянов Геннадий Валентинович": 8,
-      "Торощин Игорь Андреевич": 59
+      "4664024187128": 200,
+      "4664024187164": 21,
+      "4664024186922": 73,
+      "4664024187267": 3,
+      "4664024187184": 8,
+      "4664024186710": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596907&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596907&type=464",
@@ -2421,6 +2889,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:22.312627+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596907&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596907&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -2430,8 +2902,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 373,
     "uikTvd": "4664002236190",
+    "uikName": "УИК №373",
     "tikTvd": "26620002596907",
     "tikName": "Ирбитская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 135,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 130,
@@ -2447,12 +2923,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 45,
-      "Исаев Роман Васильевич": 4,
-      "Крылова Наталья Владимировна": 23,
-      "Прокашева Мария Васильевна": 2,
-      "Севастьянов Геннадий Валентинович": 2,
-      "Торощин Игорь Андреевич": 15
+      "4664024187128": 45,
+      "4664024187164": 4,
+      "4664024186922": 23,
+      "4664024187267": 2,
+      "4664024187184": 2,
+      "4664024186710": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596907&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596907&type=464",
@@ -2462,6 +2938,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:22.312627+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596907&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596907&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -2471,8 +2951,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 374,
     "uikTvd": "4664002236191",
+    "uikName": "УИК №374",
     "tikTvd": "26620002596907",
     "tikName": "Ирбитская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 834,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 800,
@@ -2488,12 +2972,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 156,
-      "Исаев Роман Васильевич": 23,
-      "Крылова Наталья Владимировна": 100,
-      "Прокашева Мария Васильевна": 7,
-      "Севастьянов Геннадий Валентинович": 6,
-      "Торощин Игорь Андреевич": 106
+      "4664024187128": 156,
+      "4664024187164": 23,
+      "4664024186922": 100,
+      "4664024187267": 7,
+      "4664024187184": 6,
+      "4664024186710": 106
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596907&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596907&type=464",
@@ -2503,6 +2987,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:22.312627+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596907&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596907&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -2512,8 +3000,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 375,
     "uikTvd": "4664002236192",
+    "uikName": "УИК №375",
     "tikTvd": "26620002596907",
     "tikName": "Ирбитская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 618,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 600,
@@ -2529,12 +3021,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 140,
-      "Исаев Роман Васильевич": 20,
-      "Крылова Наталья Владимировна": 64,
-      "Прокашева Мария Васильевна": 7,
-      "Севастьянов Геннадий Валентинович": 5,
-      "Торощин Игорь Андреевич": 86
+      "4664024187128": 140,
+      "4664024187164": 20,
+      "4664024186922": 64,
+      "4664024187267": 7,
+      "4664024187184": 5,
+      "4664024186710": 86
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596907&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596907&type=464",
@@ -2544,6 +3036,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:22.312627+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596907&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596907&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -2553,8 +3049,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 376,
     "uikTvd": "4664002236193",
+    "uikName": "УИК №376",
     "tikTvd": "26620002596907",
     "tikName": "Ирбитская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 385,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 350,
@@ -2570,12 +3070,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 75,
-      "Исаев Роман Васильевич": 12,
-      "Крылова Наталья Владимировна": 37,
-      "Прокашева Мария Васильевна": 3,
-      "Севастьянов Геннадий Валентинович": 3,
-      "Торощин Игорь Андреевич": 31
+      "4664024187128": 75,
+      "4664024187164": 12,
+      "4664024186922": 37,
+      "4664024187267": 3,
+      "4664024187184": 3,
+      "4664024186710": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596907&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596907&type=464",
@@ -2585,6 +3085,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:22.312627+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596907&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596907&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -2594,8 +3098,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 377,
     "uikTvd": "4664002236194",
+    "uikName": "УИК №377",
     "tikTvd": "26620002596907",
     "tikName": "Ирбитская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 641,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 650,
@@ -2611,12 +3119,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 130,
-      "Исаев Роман Васильевич": 26,
-      "Крылова Наталья Владимировна": 59,
-      "Прокашева Мария Васильевна": 9,
-      "Севастьянов Геннадий Валентинович": 2,
-      "Торощин Игорь Андреевич": 74
+      "4664024187128": 130,
+      "4664024187164": 26,
+      "4664024186922": 59,
+      "4664024187267": 9,
+      "4664024187184": 2,
+      "4664024186710": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596907&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596907&type=464",
@@ -2626,6 +3134,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:22.312627+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596907&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596907&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -2635,8 +3147,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 378,
     "uikTvd": "4664002236195",
+    "uikName": "УИК №378",
     "tikTvd": "26620002596907",
     "tikName": "Ирбитская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 185,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 180,
@@ -2652,12 +3168,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 31,
-      "Исаев Роман Васильевич": 9,
-      "Крылова Наталья Владимировна": 14,
-      "Прокашева Мария Васильевна": 2,
-      "Севастьянов Геннадий Валентинович": 4,
-      "Торощин Игорь Андреевич": 28
+      "4664024187128": 31,
+      "4664024187164": 9,
+      "4664024186922": 14,
+      "4664024187267": 2,
+      "4664024187184": 4,
+      "4664024186710": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596907&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596907&type=464",
@@ -2667,6 +3183,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:22.312627+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596907&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596907&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -2676,8 +3196,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 379,
     "uikTvd": "4664002236196",
+    "uikName": "УИК №379",
     "tikTvd": "26620002596907",
     "tikName": "Ирбитская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 359,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 350,
@@ -2693,12 +3217,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 72,
-      "Исаев Роман Васильевич": 11,
-      "Крылова Наталья Владимировна": 24,
-      "Прокашева Мария Васильевна": 1,
-      "Севастьянов Геннадий Валентинович": 2,
-      "Торощин Игорь Андреевич": 37
+      "4664024187128": 72,
+      "4664024187164": 11,
+      "4664024186922": 24,
+      "4664024187267": 1,
+      "4664024187184": 2,
+      "4664024186710": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596907&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596907&type=464",
@@ -2708,6 +3232,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:22.312627+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596907&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596907&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -2717,8 +3245,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 380,
     "uikTvd": "4664002236197",
+    "uikName": "УИК №380",
     "tikTvd": "26620002596907",
     "tikName": "Ирбитская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 237,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 200,
@@ -2734,12 +3266,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 79,
-      "Исаев Роман Васильевич": 4,
-      "Крылова Наталья Владимировна": 20,
-      "Прокашева Мария Васильевна": 5,
-      "Севастьянов Геннадий Валентинович": 2,
-      "Торощин Игорь Андреевич": 29
+      "4664024187128": 79,
+      "4664024187164": 4,
+      "4664024186922": 20,
+      "4664024187267": 5,
+      "4664024187184": 2,
+      "4664024186710": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596907&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596907&type=464",
@@ -2749,6 +3281,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:22.312627+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596907&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596907&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -2758,8 +3294,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 381,
     "uikTvd": "4664002236198",
+    "uikName": "УИК №381",
     "tikTvd": "26620002596907",
     "tikName": "Ирбитская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 353,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 350,
@@ -2775,12 +3315,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 100,
-      "Исаев Роман Васильевич": 14,
-      "Крылова Наталья Владимировна": 23,
-      "Прокашева Мария Васильевна": 6,
-      "Севастьянов Геннадий Валентинович": 4,
-      "Торощин Игорь Андреевич": 31
+      "4664024187128": 100,
+      "4664024187164": 14,
+      "4664024186922": 23,
+      "4664024187267": 6,
+      "4664024187184": 4,
+      "4664024186710": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596907&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596907&type=464",
@@ -2790,6 +3330,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:22.312627+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596907&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596907&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -2799,8 +3343,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 382,
     "uikTvd": "4664002236199",
+    "uikName": "УИК №382",
     "tikTvd": "26620002596907",
     "tikName": "Ирбитская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 400,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 400,
@@ -2816,12 +3364,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 153,
-      "Исаев Роман Васильевич": 6,
-      "Крылова Наталья Владимировна": 27,
-      "Прокашева Мария Васильевна": 6,
-      "Севастьянов Геннадий Валентинович": 1,
-      "Торощин Игорь Андреевич": 49
+      "4664024187128": 153,
+      "4664024187164": 6,
+      "4664024186922": 27,
+      "4664024187267": 6,
+      "4664024187184": 1,
+      "4664024186710": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596907&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596907&type=464",
@@ -2831,6 +3379,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:22.312627+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596907&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596907&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -2840,8 +3392,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 383,
     "uikTvd": "4664002236200",
+    "uikName": "УИК №383",
     "tikTvd": "26620002596907",
     "tikName": "Ирбитская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 303,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 300,
@@ -2857,12 +3413,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 67,
-      "Исаев Роман Васильевич": 6,
-      "Крылова Наталья Владимировна": 37,
-      "Прокашева Мария Васильевна": 3,
-      "Севастьянов Геннадий Валентинович": 1,
-      "Торощин Игорь Андреевич": 35
+      "4664024187128": 67,
+      "4664024187164": 6,
+      "4664024186922": 37,
+      "4664024187267": 3,
+      "4664024187184": 1,
+      "4664024186710": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596907&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596907&type=464",
@@ -2872,6 +3428,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:22.312627+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596907&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596907&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -2881,8 +3441,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 384,
     "uikTvd": "4664002236201",
+    "uikName": "УИК №384",
     "tikTvd": "26620002596907",
     "tikName": "Ирбитская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 344,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 300,
@@ -2898,12 +3462,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 90,
-      "Исаев Роман Васильевич": 9,
-      "Крылова Наталья Владимировна": 33,
-      "Прокашева Мария Васильевна": 4,
-      "Севастьянов Геннадий Валентинович": 3,
-      "Торощин Игорь Андреевич": 52
+      "4664024187128": 90,
+      "4664024187164": 9,
+      "4664024186922": 33,
+      "4664024187267": 4,
+      "4664024187184": 3,
+      "4664024186710": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596907&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596907&type=464",
@@ -2913,6 +3477,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:22.312627+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596907&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596907&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -2922,8 +3490,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 385,
     "uikTvd": "4664002236202",
+    "uikName": "УИК №385",
     "tikTvd": "26620002596907",
     "tikName": "Ирбитская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 926,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 900,
@@ -2939,12 +3511,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 233,
-      "Исаев Роман Васильевич": 37,
-      "Крылова Наталья Владимировна": 102,
-      "Прокашева Мария Васильевна": 8,
-      "Севастьянов Геннадий Валентинович": 8,
-      "Торощин Игорь Андреевич": 113
+      "4664024187128": 233,
+      "4664024187164": 37,
+      "4664024186922": 102,
+      "4664024187267": 8,
+      "4664024187184": 8,
+      "4664024186710": 113
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596907&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596907&type=464",
@@ -2954,6 +3526,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:22.312627+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596907&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596907&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -2963,8 +3539,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 386,
     "uikTvd": "4664002236203",
+    "uikName": "УИК №386",
     "tikTvd": "26620002596907",
     "tikName": "Ирбитская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 321,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 300,
@@ -2980,12 +3560,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 88,
-      "Исаев Роман Васильевич": 17,
-      "Крылова Наталья Владимировна": 26,
-      "Прокашева Мария Васильевна": 2,
-      "Севастьянов Геннадий Валентинович": 1,
-      "Торощин Игорь Андреевич": 22
+      "4664024187128": 88,
+      "4664024187164": 17,
+      "4664024186922": 26,
+      "4664024187267": 2,
+      "4664024187184": 1,
+      "4664024186710": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596907&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596907&type=464",
@@ -2995,6 +3575,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:22.312627+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596907&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596907&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -3004,8 +3588,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 387,
     "uikTvd": "4664002236204",
+    "uikName": "УИК №387",
     "tikTvd": "26620002596907",
     "tikName": "Ирбитская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 320,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 300,
@@ -3021,12 +3609,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 84,
-      "Исаев Роман Васильевич": 8,
-      "Крылова Наталья Владимировна": 24,
-      "Прокашева Мария Васильевна": 7,
-      "Севастьянов Геннадий Валентинович": 4,
-      "Торощин Игорь Андреевич": 43
+      "4664024187128": 84,
+      "4664024187164": 8,
+      "4664024186922": 24,
+      "4664024187267": 7,
+      "4664024187184": 4,
+      "4664024186710": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596907&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596907&type=464",
@@ -3036,6 +3624,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:22.312627+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596907&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596907&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -3045,8 +3637,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 388,
     "uikTvd": "4664002236205",
+    "uikName": "УИК №388",
     "tikTvd": "26620002596907",
     "tikName": "Ирбитская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 596,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 600,
@@ -3062,12 +3658,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 257,
-      "Исаев Роман Васильевич": 10,
-      "Крылова Наталья Владимировна": 48,
-      "Прокашева Мария Васильевна": 6,
-      "Севастьянов Геннадий Валентинович": 6,
-      "Торощин Игорь Андреевич": 85
+      "4664024187128": 257,
+      "4664024187164": 10,
+      "4664024186922": 48,
+      "4664024187267": 6,
+      "4664024187184": 6,
+      "4664024186710": 85
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596907&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596907&type=464",
@@ -3077,6 +3673,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:22.312627+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596907&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596907&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -3086,8 +3686,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 389,
     "uikTvd": "4664002236206",
+    "uikName": "УИК №389",
     "tikTvd": "26620002596907",
     "tikName": "Ирбитская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 134,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 150,
@@ -3103,12 +3707,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 46,
-      "Исаев Роман Васильевич": 6,
-      "Крылова Наталья Владимировна": 9,
-      "Прокашева Мария Васильевна": 3,
-      "Севастьянов Геннадий Валентинович": 1,
-      "Торощин Игорь Андреевич": 10
+      "4664024187128": 46,
+      "4664024187164": 6,
+      "4664024186922": 9,
+      "4664024187267": 3,
+      "4664024187184": 1,
+      "4664024186710": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596907&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596907&type=464",
@@ -3118,6 +3722,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:22.312627+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596907&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596907&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -3127,8 +3735,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 390,
     "uikTvd": "4664002236207",
+    "uikName": "УИК №390",
     "tikTvd": "26620002596907",
     "tikName": "Ирбитская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 165,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 150,
@@ -3144,12 +3756,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 61,
-      "Исаев Роман Васильевич": 4,
-      "Крылова Наталья Владимировна": 11,
-      "Прокашева Мария Васильевна": 4,
-      "Севастьянов Геннадий Валентинович": 5,
-      "Торощин Игорь Андреевич": 20
+      "4664024187128": 61,
+      "4664024187164": 4,
+      "4664024186922": 11,
+      "4664024187267": 4,
+      "4664024187184": 5,
+      "4664024186710": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596907&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596907&type=464",
@@ -3159,6 +3771,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:22.312627+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596907&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596907&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -3168,8 +3784,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 391,
     "uikTvd": "4664002236208",
+    "uikName": "УИК №391",
     "tikTvd": "26620002596907",
     "tikName": "Ирбитская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 106,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 100,
@@ -3185,12 +3805,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 29,
-      "Исаев Роман Васильевич": 4,
-      "Крылова Наталья Владимировна": 11,
-      "Прокашева Мария Васильевна": 0,
-      "Севастьянов Геннадий Валентинович": 0,
-      "Торощин Игорь Андреевич": 11
+      "4664024187128": 29,
+      "4664024187164": 4,
+      "4664024186922": 11,
+      "4664024187267": 0,
+      "4664024187184": 0,
+      "4664024186710": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596907&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596907&type=464",
@@ -3200,6 +3820,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:22.312627+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596907&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596907&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -3209,8 +3833,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 392,
     "uikTvd": "4664002236209",
+    "uikName": "УИК №392",
     "tikTvd": "26620002596907",
     "tikName": "Ирбитская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 87,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 80,
@@ -3226,12 +3854,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 22,
-      "Исаев Роман Васильевич": 2,
-      "Крылова Наталья Владимировна": 10,
-      "Прокашева Мария Васильевна": 3,
-      "Севастьянов Геннадий Валентинович": 3,
-      "Торощин Игорь Андреевич": 13
+      "4664024187128": 22,
+      "4664024187164": 2,
+      "4664024186922": 10,
+      "4664024187267": 3,
+      "4664024187184": 3,
+      "4664024186710": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596907&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596907&type=464",
@@ -3241,6 +3869,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:22.312627+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596907&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596907&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -3250,8 +3882,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 393,
     "uikTvd": "4664002236210",
+    "uikName": "УИК №393",
     "tikTvd": "26620002596907",
     "tikName": "Ирбитская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 455,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 450,
@@ -3267,12 +3903,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 132,
-      "Исаев Роман Васильевич": 15,
-      "Крылова Наталья Владимировна": 38,
-      "Прокашева Мария Васильевна": 5,
-      "Севастьянов Геннадий Валентинович": 4,
-      "Торощин Игорь Андреевич": 54
+      "4664024187128": 132,
+      "4664024187164": 15,
+      "4664024186922": 38,
+      "4664024187267": 5,
+      "4664024187184": 4,
+      "4664024186710": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596907&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596907&type=464",
@@ -3282,6 +3918,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:22.312627+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596907&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596907&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -3291,8 +3931,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 394,
     "uikTvd": "4664002236211",
+    "uikName": "УИК №394",
     "tikTvd": "26620002596907",
     "tikName": "Ирбитская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 291,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 250,
@@ -3308,12 +3952,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 81,
-      "Исаев Роман Васильевич": 7,
-      "Крылова Наталья Владимировна": 37,
-      "Прокашева Мария Васильевна": 2,
-      "Севастьянов Геннадий Валентинович": 0,
-      "Торощин Игорь Андреевич": 28
+      "4664024187128": 81,
+      "4664024187164": 7,
+      "4664024186922": 37,
+      "4664024187267": 2,
+      "4664024187184": 0,
+      "4664024186710": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596907&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596907&type=464",
@@ -3323,6 +3967,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:22.312627+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596907&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596907&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -3332,8 +3980,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 395,
     "uikTvd": "4664002236212",
+    "uikName": "УИК №395",
     "tikTvd": "26620002596907",
     "tikName": "Ирбитская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 83,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 80,
@@ -3349,12 +4001,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 17,
-      "Исаев Роман Васильевич": 5,
-      "Крылова Наталья Владимировна": 13,
-      "Прокашева Мария Васильевна": 0,
-      "Севастьянов Геннадий Валентинович": 2,
-      "Торощин Игорь Андреевич": 9
+      "4664024187128": 17,
+      "4664024187164": 5,
+      "4664024186922": 13,
+      "4664024187267": 0,
+      "4664024187184": 2,
+      "4664024186710": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596907&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596907&type=464",
@@ -3364,6 +4016,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:22.312627+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596907&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596907&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -3373,8 +4029,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 396,
     "uikTvd": "4664002236213",
+    "uikName": "УИК №396",
     "tikTvd": "26620002596907",
     "tikName": "Ирбитская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 343,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 350,
@@ -3390,12 +4050,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 86,
-      "Исаев Роман Васильевич": 9,
-      "Крылова Наталья Владимировна": 19,
-      "Прокашева Мария Васильевна": 8,
-      "Севастьянов Геннадий Валентинович": 2,
-      "Торощин Игорь Андреевич": 42
+      "4664024187128": 86,
+      "4664024187164": 9,
+      "4664024186922": 19,
+      "4664024187267": 8,
+      "4664024187184": 2,
+      "4664024186710": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596907&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596907&type=464",
@@ -3405,6 +4065,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:22.312627+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596907&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596907&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -3414,8 +4078,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 397,
     "uikTvd": "4664002236214",
+    "uikName": "УИК №397",
     "tikTvd": "26620002596907",
     "tikName": "Ирбитская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1317,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1150,
@@ -3431,12 +4099,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 418,
-      "Исаев Роман Васильевич": 69,
-      "Крылова Наталья Владимировна": 111,
-      "Прокашева Мария Васильевна": 11,
-      "Севастьянов Геннадий Валентинович": 15,
-      "Торощин Игорь Андреевич": 180
+      "4664024187128": 418,
+      "4664024187164": 69,
+      "4664024186922": 111,
+      "4664024187267": 11,
+      "4664024187184": 15,
+      "4664024186710": 180
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596907&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596907&type=464",
@@ -3446,6 +4114,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:22.312627+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596907&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596907&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -3455,8 +4127,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2606,
     "uikTvd": "4664002236215",
+    "uikName": "УИК №2606",
     "tikTvd": "26620002596907",
     "tikName": "Ирбитская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 171,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 150,
@@ -3472,12 +4148,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 43,
-      "Исаев Роман Васильевич": 3,
-      "Крылова Наталья Владимировна": 12,
-      "Прокашева Мария Васильевна": 4,
-      "Севастьянов Геннадий Валентинович": 2,
-      "Торощин Игорь Андреевич": 7
+      "4664024187128": 43,
+      "4664024187164": 3,
+      "4664024186922": 12,
+      "4664024187267": 4,
+      "4664024187184": 2,
+      "4664024186710": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596907&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596907&type=464",
@@ -3487,6 +4163,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:22.312627+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596907&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596907&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -3496,8 +4176,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2608,
     "uikTvd": "4664002236216",
+    "uikName": "УИК №2608",
     "tikTvd": "26620002596907",
     "tikName": "Ирбитская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 83,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 80,
@@ -3513,12 +4197,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 43,
-      "Исаев Роман Васильевич": 1,
-      "Крылова Наталья Владимировна": 4,
-      "Прокашева Мария Васильевна": 0,
-      "Севастьянов Геннадий Валентинович": 0,
-      "Торощин Игорь Андреевич": 12
+      "4664024187128": 43,
+      "4664024187164": 1,
+      "4664024186922": 4,
+      "4664024187267": 0,
+      "4664024187184": 0,
+      "4664024186710": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596907&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596907&type=464",
@@ -3528,6 +4212,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:22.312627+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596907&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596907&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -3537,8 +4225,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2609,
     "uikTvd": "4664002236217",
+    "uikName": "УИК №2609",
     "tikTvd": "26620002596907",
     "tikName": "Ирбитская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 441,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 450,
@@ -3554,12 +4246,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 93,
-      "Исаев Роман Васильевич": 18,
-      "Крылова Наталья Владимировна": 43,
-      "Прокашева Мария Васильевна": 4,
-      "Севастьянов Геннадий Валентинович": 2,
-      "Торощин Игорь Андреевич": 69
+      "4664024187128": 93,
+      "4664024187164": 18,
+      "4664024186922": 43,
+      "4664024187267": 4,
+      "4664024187184": 2,
+      "4664024186710": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596907&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596907&type=464",
@@ -3569,6 +4261,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:22.312627+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596907&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596907&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -3578,8 +4274,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2677,
     "uikTvd": "4664002236218",
+    "uikName": "УИК №2677",
     "tikTvd": "26620002596907",
     "tikName": "Ирбитская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 247,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 250,
@@ -3595,12 +4295,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 52,
-      "Исаев Роман Васильевич": 9,
-      "Крылова Наталья Владимировна": 35,
-      "Прокашева Мария Васильевна": 2,
-      "Севастьянов Геннадий Валентинович": 2,
-      "Торощин Игорь Андреевич": 37
+      "4664024187128": 52,
+      "4664024187164": 9,
+      "4664024186922": 35,
+      "4664024187267": 2,
+      "4664024187184": 2,
+      "4664024186710": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596907&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596907&type=464",
@@ -3610,6 +4310,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:22.312627+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596907&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596907&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -3619,8 +4323,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1825,
     "uikTvd": "4664024184667",
+    "uikName": "УИК №1825",
     "tikTvd": "26620002596908",
     "tikName": "Ирбитская городская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1759,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1100,
@@ -3636,12 +4344,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 237,
-      "Исаев Роман Васильевич": 43,
-      "Крылова Наталья Владимировна": 106,
-      "Прокашева Мария Васильевна": 14,
-      "Севастьянов Геннадий Валентинович": 17,
-      "Торощин Игорь Андреевич": 192
+      "4664024187128": 237,
+      "4664024187164": 43,
+      "4664024186922": 106,
+      "4664024187267": 14,
+      "4664024187184": 17,
+      "4664024186710": 192
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596908&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596908&type=464",
@@ -3651,6 +4359,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:22.460168+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596908&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596908&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -3660,8 +4372,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1826,
     "uikTvd": "4664024184668",
+    "uikName": "УИК №1826",
     "tikTvd": "26620002596908",
     "tikName": "Ирбитская городская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1556,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1100,
@@ -3677,12 +4393,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 232,
-      "Исаев Роман Васильевич": 35,
-      "Крылова Наталья Владимировна": 91,
-      "Прокашева Мария Васильевна": 11,
-      "Севастьянов Геннадий Валентинович": 12,
-      "Торощин Игорь Андреевич": 174
+      "4664024187128": 232,
+      "4664024187164": 35,
+      "4664024186922": 91,
+      "4664024187267": 11,
+      "4664024187184": 12,
+      "4664024186710": 174
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596908&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596908&type=464",
@@ -3692,6 +4408,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:22.460168+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596908&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596908&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -3701,8 +4421,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1827,
     "uikTvd": "4664024184669",
+    "uikName": "УИК №1827",
     "tikTvd": "26620002596908",
     "tikName": "Ирбитская городская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1617,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1200,
@@ -3718,12 +4442,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 226,
-      "Исаев Роман Васильевич": 31,
-      "Крылова Наталья Владимировна": 101,
-      "Прокашева Мария Васильевна": 15,
-      "Севастьянов Геннадий Валентинович": 10,
-      "Торощин Игорь Андреевич": 155
+      "4664024187128": 226,
+      "4664024187164": 31,
+      "4664024186922": 101,
+      "4664024187267": 15,
+      "4664024187184": 10,
+      "4664024186710": 155
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596908&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596908&type=464",
@@ -3733,6 +4457,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:22.460168+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596908&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596908&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -3742,8 +4470,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1828,
     "uikTvd": "4664024184670",
+    "uikName": "УИК №1828",
     "tikTvd": "26620002596908",
     "tikName": "Ирбитская городская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1616,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1200,
@@ -3759,12 +4491,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 232,
-      "Исаев Роман Васильевич": 33,
-      "Крылова Наталья Владимировна": 98,
-      "Прокашева Мария Васильевна": 14,
-      "Севастьянов Геннадий Валентинович": 14,
-      "Торощин Игорь Андреевич": 234
+      "4664024187128": 232,
+      "4664024187164": 33,
+      "4664024186922": 98,
+      "4664024187267": 14,
+      "4664024187184": 14,
+      "4664024186710": 234
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596908&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596908&type=464",
@@ -3774,6 +4506,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:22.460168+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596908&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596908&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -3783,8 +4519,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1829,
     "uikTvd": "4664024184671",
+    "uikName": "УИК №1829",
     "tikTvd": "26620002596908",
     "tikName": "Ирбитская городская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1554,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1100,
@@ -3800,12 +4540,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 306,
-      "Исаев Роман Васильевич": 58,
-      "Крылова Наталья Владимировна": 116,
-      "Прокашева Мария Васильевна": 8,
-      "Севастьянов Геннадий Валентинович": 12,
-      "Торощин Игорь Андреевич": 239
+      "4664024187128": 306,
+      "4664024187164": 58,
+      "4664024186922": 116,
+      "4664024187267": 8,
+      "4664024187184": 12,
+      "4664024186710": 239
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596908&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596908&type=464",
@@ -3815,6 +4555,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:22.460168+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596908&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596908&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -3824,8 +4568,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1830,
     "uikTvd": "4664024184672",
+    "uikName": "УИК №1830",
     "tikTvd": "26620002596908",
     "tikName": "Ирбитская городская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1477,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1050,
@@ -3841,12 +4589,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 352,
-      "Исаев Роман Васильевич": 49,
-      "Крылова Наталья Владимировна": 109,
-      "Прокашева Мария Васильевна": 13,
-      "Севастьянов Геннадий Валентинович": 12,
-      "Торощин Игорь Андреевич": 213
+      "4664024187128": 352,
+      "4664024187164": 49,
+      "4664024186922": 109,
+      "4664024187267": 13,
+      "4664024187184": 12,
+      "4664024186710": 213
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596908&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596908&type=464",
@@ -3856,6 +4604,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:22.460168+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596908&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596908&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -3865,8 +4617,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1831,
     "uikTvd": "4664024184673",
+    "uikName": "УИК №1831",
     "tikTvd": "26620002596908",
     "tikName": "Ирбитская городская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1813,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1300,
@@ -3882,12 +4638,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 426,
-      "Исаев Роман Васильевич": 63,
-      "Крылова Наталья Владимировна": 158,
-      "Прокашева Мария Васильевна": 24,
-      "Севастьянов Геннадий Валентинович": 18,
-      "Торощин Игорь Андреевич": 362
+      "4664024187128": 426,
+      "4664024187164": 63,
+      "4664024186922": 158,
+      "4664024187267": 24,
+      "4664024187184": 18,
+      "4664024186710": 362
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596908&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596908&type=464",
@@ -3897,6 +4653,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:22.460168+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596908&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596908&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -3906,8 +4666,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1832,
     "uikTvd": "4664024184674",
+    "uikName": "УИК №1832",
     "tikTvd": "26620002596908",
     "tikName": "Ирбитская городская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1524,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1100,
@@ -3923,12 +4687,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 256,
-      "Исаев Роман Васильевич": 47,
-      "Крылова Наталья Владимировна": 114,
-      "Прокашева Мария Васильевна": 9,
-      "Севастьянов Геннадий Валентинович": 6,
-      "Торощин Игорь Андреевич": 175
+      "4664024187128": 256,
+      "4664024187164": 47,
+      "4664024186922": 114,
+      "4664024187267": 9,
+      "4664024187184": 6,
+      "4664024186710": 175
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596908&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596908&type=464",
@@ -3938,6 +4702,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:22.460168+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596908&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596908&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -3947,8 +4715,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1833,
     "uikTvd": "4664024184675",
+    "uikName": "УИК №1833",
     "tikTvd": "26620002596908",
     "tikName": "Ирбитская городская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1400,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1000,
@@ -3964,12 +4736,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 261,
-      "Исаев Роман Васильевич": 40,
-      "Крылова Наталья Владимировна": 111,
-      "Прокашева Мария Васильевна": 16,
-      "Севастьянов Геннадий Валентинович": 16,
-      "Торощин Игорь Андреевич": 192
+      "4664024187128": 261,
+      "4664024187164": 40,
+      "4664024186922": 111,
+      "4664024187267": 16,
+      "4664024187184": 16,
+      "4664024186710": 192
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596908&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596908&type=464",
@@ -3979,6 +4751,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:22.460168+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596908&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596908&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -3988,8 +4764,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1834,
     "uikTvd": "4664024184676",
+    "uikName": "УИК №1834",
     "tikTvd": "26620002596908",
     "tikName": "Ирбитская городская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1336,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1000,
@@ -4005,12 +4785,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 247,
-      "Исаев Роман Васильевич": 38,
-      "Крылова Наталья Владимировна": 90,
-      "Прокашева Мария Васильевна": 16,
-      "Севастьянов Геннадий Валентинович": 8,
-      "Торощин Игорь Андреевич": 212
+      "4664024187128": 247,
+      "4664024187164": 38,
+      "4664024186922": 90,
+      "4664024187267": 16,
+      "4664024187184": 8,
+      "4664024186710": 212
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596908&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596908&type=464",
@@ -4020,6 +4800,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:22.460168+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596908&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596908&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -4029,8 +4813,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1835,
     "uikTvd": "4664024184677",
+    "uikName": "УИК №1835",
     "tikTvd": "26620002596908",
     "tikName": "Ирбитская городская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1339,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1000,
@@ -4046,12 +4834,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 301,
-      "Исаев Роман Васильевич": 53,
-      "Крылова Наталья Владимировна": 106,
-      "Прокашева Мария Васильевна": 18,
-      "Севастьянов Геннадий Валентинович": 15,
-      "Торощин Игорь Андреевич": 198
+      "4664024187128": 301,
+      "4664024187164": 53,
+      "4664024186922": 106,
+      "4664024187267": 18,
+      "4664024187184": 15,
+      "4664024186710": 198
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596908&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596908&type=464",
@@ -4061,6 +4849,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:22.460168+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596908&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596908&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -4070,8 +4862,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1836,
     "uikTvd": "4664024184678",
+    "uikName": "УИК №1836",
     "tikTvd": "26620002596908",
     "tikName": "Ирбитская городская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1487,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1050,
@@ -4087,12 +4883,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 325,
-      "Исаев Роман Васильевич": 51,
-      "Крылова Наталья Владимировна": 130,
-      "Прокашева Мария Васильевна": 10,
-      "Севастьянов Геннадий Валентинович": 19,
-      "Торощин Игорь Андреевич": 230
+      "4664024187128": 325,
+      "4664024187164": 51,
+      "4664024186922": 130,
+      "4664024187267": 10,
+      "4664024187184": 19,
+      "4664024186710": 230
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596908&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596908&type=464",
@@ -4102,6 +4898,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:22.460168+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596908&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596908&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -4111,8 +4911,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1837,
     "uikTvd": "4664024184679",
+    "uikName": "УИК №1837",
     "tikTvd": "26620002596908",
     "tikName": "Ирбитская городская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1439,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1100,
@@ -4128,12 +4932,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 216,
-      "Исаев Роман Васильевич": 44,
-      "Крылова Наталья Владимировна": 122,
-      "Прокашева Мария Васильевна": 25,
-      "Севастьянов Геннадий Валентинович": 16,
-      "Торощин Игорь Андреевич": 157
+      "4664024187128": 216,
+      "4664024187164": 44,
+      "4664024186922": 122,
+      "4664024187267": 25,
+      "4664024187184": 16,
+      "4664024186710": 157
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596908&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596908&type=464",
@@ -4143,6 +4947,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:22.460168+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596908&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596908&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -4152,8 +4960,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1838,
     "uikTvd": "4664024184680",
+    "uikName": "УИК №1838",
     "tikTvd": "26620002596908",
     "tikName": "Ирбитская городская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1629,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1200,
@@ -4169,12 +4981,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 286,
-      "Исаев Роман Васильевич": 67,
-      "Крылова Наталья Владимировна": 132,
-      "Прокашева Мария Васильевна": 15,
-      "Севастьянов Геннадий Валентинович": 17,
-      "Торощин Игорь Андреевич": 215
+      "4664024187128": 286,
+      "4664024187164": 67,
+      "4664024186922": 132,
+      "4664024187267": 15,
+      "4664024187184": 17,
+      "4664024186710": 215
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596908&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596908&type=464",
@@ -4184,6 +4996,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:22.460168+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596908&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596908&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -4193,8 +5009,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1839,
     "uikTvd": "4664024184681",
+    "uikName": "УИК №1839",
     "tikTvd": "26620002596908",
     "tikName": "Ирбитская городская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1509,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1100,
@@ -4210,12 +5030,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 283,
-      "Исаев Роман Васильевич": 49,
-      "Крылова Наталья Владимировна": 120,
-      "Прокашева Мария Васильевна": 12,
-      "Севастьянов Геннадий Валентинович": 18,
-      "Торощин Игорь Андреевич": 209
+      "4664024187128": 283,
+      "4664024187164": 49,
+      "4664024186922": 120,
+      "4664024187267": 12,
+      "4664024187184": 18,
+      "4664024186710": 209
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596908&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596908&type=464",
@@ -4225,6 +5045,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:22.460168+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596908&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596908&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -4234,8 +5058,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1840,
     "uikTvd": "4664024184682",
+    "uikName": "УИК №1840",
     "tikTvd": "26620002596908",
     "tikName": "Ирбитская городская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1573,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1200,
@@ -4251,12 +5079,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 312,
-      "Исаев Роман Васильевич": 44,
-      "Крылова Наталья Владимировна": 128,
-      "Прокашева Мария Васильевна": 15,
-      "Севастьянов Геннадий Валентинович": 15,
-      "Торощин Игорь Андреевич": 203
+      "4664024187128": 312,
+      "4664024187164": 44,
+      "4664024186922": 128,
+      "4664024187267": 15,
+      "4664024187184": 15,
+      "4664024186710": 203
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596908&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596908&type=464",
@@ -4266,6 +5094,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:22.460168+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596908&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596908&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -4275,8 +5107,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2610,
     "uikTvd": "4664024184683",
+    "uikName": "УИК №2610",
     "tikTvd": "26620002596908",
     "tikName": "Ирбитская городская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1373,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1050,
@@ -4292,12 +5128,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 213,
-      "Исаев Роман Васильевич": 33,
-      "Крылова Наталья Владимировна": 106,
-      "Прокашева Мария Васильевна": 13,
-      "Севастьянов Геннадий Валентинович": 8,
-      "Торощин Игорь Андреевич": 162
+      "4664024187128": 213,
+      "4664024187164": 33,
+      "4664024186922": 106,
+      "4664024187267": 13,
+      "4664024187184": 8,
+      "4664024186710": 162
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596908&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596908&type=464",
@@ -4307,6 +5143,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:22.460168+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596908&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596908&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -4316,8 +5156,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2611,
     "uikTvd": "4664024184684",
+    "uikName": "УИК №2611",
     "tikTvd": "26620002596908",
     "tikName": "Ирбитская городская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1459,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1050,
@@ -4333,12 +5177,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 304,
-      "Исаев Роман Васильевич": 54,
-      "Крылова Наталья Владимировна": 130,
-      "Прокашева Мария Васильевна": 20,
-      "Севастьянов Геннадий Валентинович": 12,
-      "Торощин Игорь Андреевич": 221
+      "4664024187128": 304,
+      "4664024187164": 54,
+      "4664024186922": 130,
+      "4664024187267": 20,
+      "4664024187184": 12,
+      "4664024186710": 221
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596908&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596908&type=464",
@@ -4348,6 +5192,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:22.460168+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596908&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596908&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -4357,8 +5205,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2612,
     "uikTvd": "4664024184685",
+    "uikName": "УИК №2612",
     "tikTvd": "26620002596908",
     "tikName": "Ирбитская городская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1426,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1050,
@@ -4374,12 +5226,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 269,
-      "Исаев Роман Васильевич": 46,
-      "Крылова Наталья Владимировна": 103,
-      "Прокашева Мария Васильевна": 15,
-      "Севастьянов Геннадий Валентинович": 13,
-      "Торощин Игорь Андреевич": 193
+      "4664024187128": 269,
+      "4664024187164": 46,
+      "4664024186922": 103,
+      "4664024187267": 15,
+      "4664024187184": 13,
+      "4664024186710": 193
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596908&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596908&type=464",
@@ -4389,6 +5241,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:22.460168+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596908&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596908&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -4398,8 +5254,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2613,
     "uikTvd": "4664024184686",
+    "uikName": "УИК №2613",
     "tikTvd": "26620002596908",
     "tikName": "Ирбитская городская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1455,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1050,
@@ -4415,12 +5275,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 253,
-      "Исаев Роман Васильевич": 50,
-      "Крылова Наталья Владимировна": 139,
-      "Прокашева Мария Васильевна": 22,
-      "Севастьянов Геннадий Валентинович": 9,
-      "Торощин Игорь Андреевич": 185
+      "4664024187128": 253,
+      "4664024187164": 50,
+      "4664024186922": 139,
+      "4664024187267": 22,
+      "4664024187184": 9,
+      "4664024186710": 185
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596908&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596908&type=464",
@@ -4430,6 +5290,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:22.460168+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596908&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596908&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -4439,8 +5303,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 187,
     "uikTvd": "4664006188057",
+    "uikName": "УИК №187",
     "tikTvd": "26620002596909",
     "tikName": "Байкаловская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1298,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1100,
@@ -4456,12 +5324,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 320,
-      "Исаев Роман Васильевич": 39,
-      "Крылова Наталья Владимировна": 93,
-      "Прокашева Мария Васильевна": 12,
-      "Севастьянов Геннадий Валентинович": 7,
-      "Торощин Игорь Андреевич": 77
+      "4664024187128": 320,
+      "4664024187164": 39,
+      "4664024186922": 93,
+      "4664024187267": 12,
+      "4664024187184": 7,
+      "4664024186710": 77
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596909&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596909&type=464",
@@ -4471,6 +5339,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:22.631613+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596909&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596909&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -4480,8 +5352,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 188,
     "uikTvd": "4664006188058",
+    "uikName": "УИК №188",
     "tikTvd": "26620002596909",
     "tikName": "Байкаловская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1540,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1300,
@@ -4497,12 +5373,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 414,
-      "Исаев Роман Васильевич": 44,
-      "Крылова Наталья Владимировна": 122,
-      "Прокашева Мария Васильевна": 21,
-      "Севастьянов Геннадий Валентинович": 11,
-      "Торощин Игорь Андреевич": 125
+      "4664024187128": 414,
+      "4664024187164": 44,
+      "4664024186922": 122,
+      "4664024187267": 21,
+      "4664024187184": 11,
+      "4664024186710": 125
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596909&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596909&type=464",
@@ -4512,6 +5388,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:22.631613+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596909&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596909&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -4521,8 +5401,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 189,
     "uikTvd": "4664006188059",
+    "uikName": "УИК №189",
     "tikTvd": "26620002596909",
     "tikName": "Байкаловская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1513,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1300,
@@ -4538,12 +5422,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 405,
-      "Исаев Роман Васильевич": 50,
-      "Крылова Наталья Владимировна": 134,
-      "Прокашева Мария Васильевна": 18,
-      "Севастьянов Геннадий Валентинович": 10,
-      "Торощин Игорь Андреевич": 117
+      "4664024187128": 405,
+      "4664024187164": 50,
+      "4664024186922": 134,
+      "4664024187267": 18,
+      "4664024187184": 10,
+      "4664024186710": 117
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596909&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596909&type=464",
@@ -4553,6 +5437,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:22.631613+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596909&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596909&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -4562,8 +5450,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 190,
     "uikTvd": "4664006188060",
+    "uikName": "УИК №190",
     "tikTvd": "26620002596909",
     "tikName": "Байкаловская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 617,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 550,
@@ -4579,12 +5471,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 163,
-      "Исаев Роман Васильевич": 14,
-      "Крылова Наталья Владимировна": 71,
-      "Прокашева Мария Васильевна": 7,
-      "Севастьянов Геннадий Валентинович": 4,
-      "Торощин Игорь Андреевич": 58
+      "4664024187128": 163,
+      "4664024187164": 14,
+      "4664024186922": 71,
+      "4664024187267": 7,
+      "4664024187184": 4,
+      "4664024186710": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596909&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596909&type=464",
@@ -4594,6 +5486,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:22.631613+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596909&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596909&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -4603,8 +5499,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 191,
     "uikTvd": "4664006188061",
+    "uikName": "УИК №191",
     "tikTvd": "26620002596909",
     "tikName": "Байкаловская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 605,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 550,
@@ -4620,12 +5520,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 191,
-      "Исаев Роман Васильевич": 13,
-      "Крылова Наталья Владимировна": 45,
-      "Прокашева Мария Васильевна": 5,
-      "Севастьянов Геннадий Валентинович": 3,
-      "Торощин Игорь Андреевич": 30
+      "4664024187128": 191,
+      "4664024187164": 13,
+      "4664024186922": 45,
+      "4664024187267": 5,
+      "4664024187184": 3,
+      "4664024186710": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596909&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596909&type=464",
@@ -4635,6 +5535,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:22.631613+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596909&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596909&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -4644,8 +5548,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 192,
     "uikTvd": "4664006188062",
+    "uikName": "УИК №192",
     "tikTvd": "26620002596909",
     "tikName": "Байкаловская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 410,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 350,
@@ -4661,12 +5569,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 148,
-      "Исаев Роман Васильевич": 12,
-      "Крылова Наталья Владимировна": 20,
-      "Прокашева Мария Васильевна": 6,
-      "Севастьянов Геннадий Валентинович": 6,
-      "Торощин Игорь Андреевич": 33
+      "4664024187128": 148,
+      "4664024187164": 12,
+      "4664024186922": 20,
+      "4664024187267": 6,
+      "4664024187184": 6,
+      "4664024186710": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596909&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596909&type=464",
@@ -4676,6 +5584,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:22.631613+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596909&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596909&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -4685,8 +5597,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 193,
     "uikTvd": "4664006188063",
+    "uikName": "УИК №193",
     "tikTvd": "26620002596909",
     "tikName": "Байкаловская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 614,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 550,
@@ -4702,12 +5618,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 222,
-      "Исаев Роман Васильевич": 14,
-      "Крылова Наталья Владимировна": 57,
-      "Прокашева Мария Васильевна": 10,
-      "Севастьянов Геннадий Валентинович": 3,
-      "Торощин Игорь Андреевич": 42
+      "4664024187128": 222,
+      "4664024187164": 14,
+      "4664024186922": 57,
+      "4664024187267": 10,
+      "4664024187184": 3,
+      "4664024186710": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596909&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596909&type=464",
@@ -4717,6 +5633,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:22.631613+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596909&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596909&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -4726,8 +5646,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 194,
     "uikTvd": "4664006188064",
+    "uikName": "УИК №194",
     "tikTvd": "26620002596909",
     "tikName": "Байкаловская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 189,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 170,
@@ -4743,12 +5667,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 58,
-      "Исаев Роман Васильевич": 3,
-      "Крылова Наталья Владимировна": 7,
-      "Прокашева Мария Васильевна": 1,
-      "Севастьянов Геннадий Валентинович": 1,
-      "Торощин Игорь Андреевич": 19
+      "4664024187128": 58,
+      "4664024187164": 3,
+      "4664024186922": 7,
+      "4664024187267": 1,
+      "4664024187184": 1,
+      "4664024186710": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596909&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596909&type=464",
@@ -4758,6 +5682,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:22.631613+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596909&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596909&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -4767,8 +5695,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 195,
     "uikTvd": "4664006188065",
+    "uikName": "УИК №195",
     "tikTvd": "26620002596909",
     "tikName": "Байкаловская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 785,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 700,
@@ -4784,12 +5716,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 170,
-      "Исаев Роман Васильевич": 26,
-      "Крылова Наталья Владимировна": 51,
-      "Прокашева Мария Васильевна": 7,
-      "Севастьянов Геннадий Валентинович": 5,
-      "Торощин Игорь Андреевич": 59
+      "4664024187128": 170,
+      "4664024187164": 26,
+      "4664024186922": 51,
+      "4664024187267": 7,
+      "4664024187184": 5,
+      "4664024186710": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596909&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596909&type=464",
@@ -4799,6 +5731,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:22.631613+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596909&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596909&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -4808,8 +5744,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 196,
     "uikTvd": "4664006188066",
+    "uikName": "УИК №196",
     "tikTvd": "26620002596909",
     "tikName": "Байкаловская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 100,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 90,
@@ -4825,12 +5765,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 31,
-      "Исаев Роман Васильевич": 4,
-      "Крылова Наталья Владимировна": 10,
-      "Прокашева Мария Васильевна": 1,
-      "Севастьянов Геннадий Валентинович": 0,
-      "Торощин Игорь Андреевич": 15
+      "4664024187128": 31,
+      "4664024187164": 4,
+      "4664024186922": 10,
+      "4664024187267": 1,
+      "4664024187184": 0,
+      "4664024186710": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596909&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596909&type=464",
@@ -4840,6 +5780,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:22.631613+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596909&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596909&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -4849,8 +5793,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 197,
     "uikTvd": "4664006188067",
+    "uikName": "УИК №197",
     "tikTvd": "26620002596909",
     "tikName": "Байкаловская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 126,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 100,
@@ -4866,12 +5814,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 38,
-      "Исаев Роман Васильевич": 7,
-      "Крылова Наталья Владимировна": 11,
-      "Прокашева Мария Васильевна": 2,
-      "Севастьянов Геннадий Валентинович": 0,
-      "Торощин Игорь Андреевич": 18
+      "4664024187128": 38,
+      "4664024187164": 7,
+      "4664024186922": 11,
+      "4664024187267": 2,
+      "4664024187184": 0,
+      "4664024186710": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596909&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596909&type=464",
@@ -4881,6 +5829,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:22.631613+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596909&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596909&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -4890,8 +5842,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 198,
     "uikTvd": "4664006188068",
+    "uikName": "УИК №198",
     "tikTvd": "26620002596909",
     "tikName": "Байкаловская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 413,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 350,
@@ -4907,12 +5863,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 98,
-      "Исаев Роман Васильевич": 21,
-      "Крылова Наталья Владимировна": 44,
-      "Прокашева Мария Васильевна": 13,
-      "Севастьянов Геннадий Валентинович": 4,
-      "Торощин Игорь Андреевич": 51
+      "4664024187128": 98,
+      "4664024187164": 21,
+      "4664024186922": 44,
+      "4664024187267": 13,
+      "4664024187184": 4,
+      "4664024186710": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596909&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596909&type=464",
@@ -4922,6 +5878,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:22.631613+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596909&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596909&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -4931,8 +5891,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 199,
     "uikTvd": "4664006188069",
+    "uikName": "УИК №199",
     "tikTvd": "26620002596909",
     "tikName": "Байкаловская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 647,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 600,
@@ -4948,12 +5912,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 177,
-      "Исаев Роман Васильевич": 22,
-      "Крылова Наталья Владимировна": 54,
-      "Прокашева Мария Васильевна": 9,
-      "Севастьянов Геннадий Валентинович": 4,
-      "Торощин Игорь Андреевич": 36
+      "4664024187128": 177,
+      "4664024187164": 22,
+      "4664024186922": 54,
+      "4664024187267": 9,
+      "4664024187184": 4,
+      "4664024186710": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596909&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596909&type=464",
@@ -4963,6 +5927,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:22.631613+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596909&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596909&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -4972,8 +5940,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 200,
     "uikTvd": "4664006188070",
+    "uikName": "УИК №200",
     "tikTvd": "26620002596909",
     "tikName": "Байкаловская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 359,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 300,
@@ -4989,12 +5961,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 99,
-      "Исаев Роман Васильевич": 12,
-      "Крылова Наталья Владимировна": 42,
-      "Прокашева Мария Васильевна": 6,
-      "Севастьянов Геннадий Валентинович": 6,
-      "Торощин Игорь Андреевич": 41
+      "4664024187128": 99,
+      "4664024187164": 12,
+      "4664024186922": 42,
+      "4664024187267": 6,
+      "4664024187184": 6,
+      "4664024186710": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596909&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596909&type=464",
@@ -5004,6 +5976,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:22.631613+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596909&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596909&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -5013,8 +5989,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 201,
     "uikTvd": "4664006188071",
+    "uikName": "УИК №201",
     "tikTvd": "26620002596909",
     "tikName": "Байкаловская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 643,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 600,
@@ -5030,12 +6010,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 180,
-      "Исаев Роман Васильевич": 16,
-      "Крылова Наталья Владимировна": 27,
-      "Прокашева Мария Васильевна": 11,
-      "Севастьянов Геннадий Валентинович": 1,
-      "Торощин Игорь Андреевич": 44
+      "4664024187128": 180,
+      "4664024187164": 16,
+      "4664024186922": 27,
+      "4664024187267": 11,
+      "4664024187184": 1,
+      "4664024186710": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596909&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596909&type=464",
@@ -5045,6 +6025,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:22.631613+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596909&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596909&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -5054,8 +6038,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 202,
     "uikTvd": "4664006188072",
+    "uikName": "УИК №202",
     "tikTvd": "26620002596909",
     "tikName": "Байкаловская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 91,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 80,
@@ -5071,12 +6059,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 30,
-      "Исаев Роман Васильевич": 5,
-      "Крылова Наталья Владимировна": 4,
-      "Прокашева Мария Васильевна": 2,
-      "Севастьянов Геннадий Валентинович": 2,
-      "Торощин Игорь Андреевич": 8
+      "4664024187128": 30,
+      "4664024187164": 5,
+      "4664024186922": 4,
+      "4664024187267": 2,
+      "4664024187184": 2,
+      "4664024186710": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596909&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596909&type=464",
@@ -5086,6 +6074,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:22.631613+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596909&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596909&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -5095,8 +6087,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 203,
     "uikTvd": "4664006188073",
+    "uikName": "УИК №203",
     "tikTvd": "26620002596909",
     "tikName": "Байкаловская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 520,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 470,
@@ -5112,12 +6108,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 112,
-      "Исаев Роман Васильевич": 20,
-      "Крылова Наталья Владимировна": 40,
-      "Прокашева Мария Васильевна": 11,
-      "Севастьянов Геннадий Валентинович": 3,
-      "Торощин Игорь Андреевич": 46
+      "4664024187128": 112,
+      "4664024187164": 20,
+      "4664024186922": 40,
+      "4664024187267": 11,
+      "4664024187184": 3,
+      "4664024186710": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596909&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596909&type=464",
@@ -5127,6 +6123,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:22.631613+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596909&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596909&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -5136,8 +6136,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 204,
     "uikTvd": "4664006188074",
+    "uikName": "УИК №204",
     "tikTvd": "26620002596909",
     "tikName": "Байкаловская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 515,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 450,
@@ -5153,12 +6157,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 152,
-      "Исаев Роман Васильевич": 17,
-      "Крылова Наталья Владимировна": 73,
-      "Прокашева Мария Васильевна": 3,
-      "Севастьянов Геннадий Валентинович": 2,
-      "Торощин Игорь Андреевич": 45
+      "4664024187128": 152,
+      "4664024187164": 17,
+      "4664024186922": 73,
+      "4664024187267": 3,
+      "4664024187184": 2,
+      "4664024186710": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596909&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596909&type=464",
@@ -5168,6 +6172,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:22.631613+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596909&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596909&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -5177,8 +6185,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 205,
     "uikTvd": "4664006188075",
+    "uikName": "УИК №205",
     "tikTvd": "26620002596909",
     "tikName": "Байкаловская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 195,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 170,
@@ -5194,12 +6206,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 44,
-      "Исаев Роман Васильевич": 6,
-      "Крылова Наталья Владимировна": 10,
-      "Прокашева Мария Васильевна": 4,
-      "Севастьянов Геннадий Валентинович": 3,
-      "Торощин Игорь Андреевич": 14
+      "4664024187128": 44,
+      "4664024187164": 6,
+      "4664024186922": 10,
+      "4664024187267": 4,
+      "4664024187184": 3,
+      "4664024186710": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596909&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596909&type=464",
@@ -5209,6 +6221,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:22.631613+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596909&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596909&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -5218,8 +6234,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 206,
     "uikTvd": "4664006188076",
+    "uikName": "УИК №206",
     "tikTvd": "26620002596909",
     "tikName": "Байкаловская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 459,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 400,
@@ -5235,12 +6255,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 109,
-      "Исаев Роман Васильевич": 10,
-      "Крылова Наталья Владимировна": 32,
-      "Прокашева Мария Васильевна": 9,
-      "Севастьянов Геннадий Валентинович": 4,
-      "Торощин Игорь Андреевич": 38
+      "4664024187128": 109,
+      "4664024187164": 10,
+      "4664024186922": 32,
+      "4664024187267": 9,
+      "4664024187184": 4,
+      "4664024186710": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596909&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596909&type=464",
@@ -5250,6 +6270,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:22.631613+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596909&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596909&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -5259,8 +6283,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 207,
     "uikTvd": "4664006188077",
+    "uikName": "УИК №207",
     "tikTvd": "26620002596909",
     "tikName": "Байкаловская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 366,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 350,
@@ -5276,12 +6304,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 94,
-      "Исаев Роман Васильевич": 14,
-      "Крылова Наталья Владимировна": 40,
-      "Прокашева Мария Васильевна": 8,
-      "Севастьянов Геннадий Валентинович": 7,
-      "Торощин Игорь Андреевич": 26
+      "4664024187128": 94,
+      "4664024187164": 14,
+      "4664024186922": 40,
+      "4664024187267": 8,
+      "4664024187184": 7,
+      "4664024186710": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596909&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596909&type=464",
@@ -5291,6 +6319,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:22.631613+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596909&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596909&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -5300,8 +6332,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 208,
     "uikTvd": "4664006188078",
+    "uikName": "УИК №208",
     "tikTvd": "26620002596909",
     "tikName": "Байкаловская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 226,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 200,
@@ -5317,12 +6353,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 74,
-      "Исаев Роман Васильевич": 6,
-      "Крылова Наталья Владимировна": 27,
-      "Прокашева Мария Васильевна": 4,
-      "Севастьянов Геннадий Валентинович": 5,
-      "Торощин Игорь Андреевич": 9
+      "4664024187128": 74,
+      "4664024187164": 6,
+      "4664024186922": 27,
+      "4664024187267": 4,
+      "4664024187184": 5,
+      "4664024186710": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596909&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596909&type=464",
@@ -5332,6 +6368,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:22.631613+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596909&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596909&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -5341,8 +6381,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 149,
     "uikTvd": "4664019359328",
+    "uikName": "УИК №149",
     "tikTvd": "26620002596910",
     "tikName": "Екатеринбург, Октябрьская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 4,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 400,
@@ -5358,12 +6402,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 0,
-      "Исаев Роман Васильевич": 0,
-      "Крылова Наталья Владимировна": 3,
-      "Прокашева Мария Васильевна": 1,
-      "Севастьянов Геннадий Валентинович": 0,
-      "Торощин Игорь Андреевич": 0
+      "4664024187128": 0,
+      "4664024187164": 0,
+      "4664024186922": 3,
+      "4664024187267": 1,
+      "4664024187184": 0,
+      "4664024186710": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596910&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596910&type=464",
@@ -5373,6 +6417,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:24.135655+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596910&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596910&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -5382,8 +6430,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1542,
     "uikTvd": "4664019349470",
+    "uikName": "УИК №1542",
     "tikTvd": "26620002596910",
     "tikName": "Екатеринбург, Октябрьская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1999,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1800,
@@ -5399,12 +6451,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 195,
-      "Исаев Роман Васильевич": 142,
-      "Крылова Наталья Владимировна": 262,
-      "Прокашева Мария Васильевна": 24,
-      "Севастьянов Геннадий Валентинович": 75,
-      "Торощин Игорь Андреевич": 50
+      "4664024187128": 195,
+      "4664024187164": 142,
+      "4664024186922": 262,
+      "4664024187267": 24,
+      "4664024187184": 75,
+      "4664024186710": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596910&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596910&type=464",
@@ -5414,6 +6466,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:24.135655+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596910&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596910&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -5423,8 +6479,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1543,
     "uikTvd": "4664019349471",
+    "uikName": "УИК №1543",
     "tikTvd": "26620002596910",
     "tikName": "Екатеринбург, Октябрьская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2057,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2000,
@@ -5440,12 +6500,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 231,
-      "Исаев Роман Васильевич": 141,
-      "Крылова Наталья Владимировна": 267,
-      "Прокашева Мария Васильевна": 19,
-      "Севастьянов Геннадий Валентинович": 61,
-      "Торощин Игорь Андреевич": 62
+      "4664024187128": 231,
+      "4664024187164": 141,
+      "4664024186922": 267,
+      "4664024187267": 19,
+      "4664024187184": 61,
+      "4664024186710": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596910&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596910&type=464",
@@ -5455,6 +6515,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:24.135655+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596910&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596910&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -5464,8 +6528,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1544,
     "uikTvd": "4664019349472",
+    "uikName": "УИК №1544",
     "tikTvd": "26620002596910",
     "tikName": "Екатеринбург, Октябрьская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1635,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1500,
@@ -5481,12 +6549,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 229,
-      "Исаев Роман Васильевич": 109,
-      "Крылова Наталья Владимировна": 236,
-      "Прокашева Мария Васильевна": 33,
-      "Севастьянов Геннадий Валентинович": 88,
-      "Торощин Игорь Андреевич": 44
+      "4664024187128": 229,
+      "4664024187164": 109,
+      "4664024186922": 236,
+      "4664024187267": 33,
+      "4664024187184": 88,
+      "4664024186710": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596910&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596910&type=464",
@@ -5496,6 +6564,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:24.135655+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596910&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596910&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -5505,8 +6577,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1545,
     "uikTvd": "4664019349473",
+    "uikName": "УИК №1545",
     "tikTvd": "26620002596910",
     "tikName": "Екатеринбург, Октябрьская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1895,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1400,
@@ -5522,12 +6598,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 185,
-      "Исаев Роман Васильевич": 86,
-      "Крылова Наталья Владимировна": 171,
-      "Прокашева Мария Васильевна": 11,
-      "Севастьянов Геннадий Валентинович": 61,
-      "Торощин Игорь Андреевич": 37
+      "4664024187128": 185,
+      "4664024187164": 86,
+      "4664024186922": 171,
+      "4664024187267": 11,
+      "4664024187184": 61,
+      "4664024186710": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596910&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596910&type=464",
@@ -5537,6 +6613,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:24.135655+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596910&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596910&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -5546,8 +6626,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1546,
     "uikTvd": "4664019349474",
+    "uikName": "УИК №1546",
     "tikTvd": "26620002596910",
     "tikName": "Екатеринбург, Октябрьская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1539,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1400,
@@ -5563,12 +6647,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 189,
-      "Исаев Роман Васильевич": 116,
-      "Крылова Наталья Владимировна": 187,
-      "Прокашева Мария Васильевна": 36,
-      "Севастьянов Геннадий Валентинович": 74,
-      "Торощин Игорь Андреевич": 60
+      "4664024187128": 189,
+      "4664024187164": 116,
+      "4664024186922": 187,
+      "4664024187267": 36,
+      "4664024187184": 74,
+      "4664024186710": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596910&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596910&type=464",
@@ -5578,6 +6662,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:24.135655+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596910&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596910&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -5587,8 +6675,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1547,
     "uikTvd": "4664019349475",
+    "uikName": "УИК №1547",
     "tikTvd": "26620002596910",
     "tikName": "Екатеринбург, Октябрьская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1368,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1300,
@@ -5604,12 +6696,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 182,
-      "Исаев Роман Васильевич": 78,
-      "Крылова Наталья Владимировна": 200,
-      "Прокашева Мария Васильевна": 24,
-      "Севастьянов Геннадий Валентинович": 48,
-      "Торощин Игорь Андреевич": 35
+      "4664024187128": 182,
+      "4664024187164": 78,
+      "4664024186922": 200,
+      "4664024187267": 24,
+      "4664024187184": 48,
+      "4664024186710": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596910&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596910&type=464",
@@ -5619,6 +6711,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:24.135655+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596910&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596910&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -5628,8 +6724,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1548,
     "uikTvd": "4664019349476",
+    "uikName": "УИК №1548",
     "tikTvd": "26620002596910",
     "tikName": "Екатеринбург, Октябрьская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1756,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1700,
@@ -5645,12 +6745,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 274,
-      "Исаев Роман Васильевич": 117,
-      "Крылова Наталья Владимировна": 225,
-      "Прокашева Мария Васильевна": 29,
-      "Севастьянов Геннадий Валентинович": 85,
-      "Торощин Игорь Андреевич": 63
+      "4664024187128": 274,
+      "4664024187164": 117,
+      "4664024186922": 225,
+      "4664024187267": 29,
+      "4664024187184": 85,
+      "4664024186710": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596910&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596910&type=464",
@@ -5660,6 +6760,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:24.135655+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596910&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596910&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -5669,8 +6773,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1549,
     "uikTvd": "4664019349477",
+    "uikName": "УИК №1549",
     "tikTvd": "26620002596910",
     "tikName": "Екатеринбург, Октябрьская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1706,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1600,
@@ -5686,12 +6794,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 218,
-      "Исаев Роман Васильевич": 97,
-      "Крылова Наталья Владимировна": 200,
-      "Прокашева Мария Васильевна": 24,
-      "Севастьянов Геннадий Валентинович": 51,
-      "Торощин Игорь Андреевич": 52
+      "4664024187128": 218,
+      "4664024187164": 97,
+      "4664024186922": 200,
+      "4664024187267": 24,
+      "4664024187184": 51,
+      "4664024186710": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596910&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596910&type=464",
@@ -5701,6 +6809,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:24.135655+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596910&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596910&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -5710,8 +6822,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1550,
     "uikTvd": "4664019349478",
+    "uikName": "УИК №1550",
     "tikTvd": "26620002596910",
     "tikName": "Екатеринбург, Октябрьская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1705,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1600,
@@ -5727,12 +6843,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 253,
-      "Исаев Роман Васильевич": 129,
-      "Крылова Наталья Владимировна": 215,
-      "Прокашева Мария Васильевна": 19,
-      "Севастьянов Геннадий Валентинович": 68,
-      "Торощин Игорь Андреевич": 46
+      "4664024187128": 253,
+      "4664024187164": 129,
+      "4664024186922": 215,
+      "4664024187267": 19,
+      "4664024187184": 68,
+      "4664024186710": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596910&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596910&type=464",
@@ -5742,6 +6858,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:24.135655+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596910&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596910&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -5751,8 +6871,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1551,
     "uikTvd": "4664019349479",
+    "uikName": "УИК №1551",
     "tikTvd": "26620002596910",
     "tikName": "Екатеринбург, Октябрьская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1783,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1700,
@@ -5768,12 +6892,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 281,
-      "Исаев Роман Васильевич": 120,
-      "Крылова Наталья Владимировна": 220,
-      "Прокашева Мария Васильевна": 20,
-      "Севастьянов Геннадий Валентинович": 64,
-      "Торощин Игорь Андреевич": 50
+      "4664024187128": 281,
+      "4664024187164": 120,
+      "4664024186922": 220,
+      "4664024187267": 20,
+      "4664024187184": 64,
+      "4664024186710": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596910&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596910&type=464",
@@ -5783,6 +6907,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:24.135655+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596910&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596910&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -5792,8 +6920,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1552,
     "uikTvd": "4664019349480",
+    "uikName": "УИК №1552",
     "tikTvd": "26620002596910",
     "tikName": "Екатеринбург, Октябрьская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1806,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1600,
@@ -5809,12 +6941,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 243,
-      "Исаев Роман Васильевич": 132,
-      "Крылова Наталья Владимировна": 243,
-      "Прокашева Мария Васильевна": 20,
-      "Севастьянов Геннадий Валентинович": 80,
-      "Торощин Игорь Андреевич": 38
+      "4664024187128": 243,
+      "4664024187164": 132,
+      "4664024186922": 243,
+      "4664024187267": 20,
+      "4664024187184": 80,
+      "4664024186710": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596910&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596910&type=464",
@@ -5824,6 +6956,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:24.135655+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596910&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596910&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -5833,8 +6969,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1553,
     "uikTvd": "4664019349481",
+    "uikName": "УИК №1553",
     "tikTvd": "26620002596910",
     "tikName": "Екатеринбург, Октябрьская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1912,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1800,
@@ -5850,12 +6990,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 206,
-      "Исаев Роман Васильевич": 110,
-      "Крылова Наталья Владимировна": 244,
-      "Прокашева Мария Васильевна": 19,
-      "Севастьянов Геннадий Валентинович": 74,
-      "Торощин Игорь Андреевич": 46
+      "4664024187128": 206,
+      "4664024187164": 110,
+      "4664024186922": 244,
+      "4664024187267": 19,
+      "4664024187184": 74,
+      "4664024186710": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596910&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596910&type=464",
@@ -5865,6 +7005,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:24.135655+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596910&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596910&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -5874,8 +7018,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1554,
     "uikTvd": "4664019349482",
+    "uikName": "УИК №1554",
     "tikTvd": "26620002596910",
     "tikName": "Екатеринбург, Октябрьская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1623,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1500,
@@ -5891,12 +7039,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 268,
-      "Исаев Роман Васильевич": 123,
-      "Крылова Наталья Владимировна": 194,
-      "Прокашева Мария Васильевна": 37,
-      "Севастьянов Геннадий Валентинович": 64,
-      "Торощин Игорь Андреевич": 56
+      "4664024187128": 268,
+      "4664024187164": 123,
+      "4664024186922": 194,
+      "4664024187267": 37,
+      "4664024187184": 64,
+      "4664024186710": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596910&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596910&type=464",
@@ -5906,6 +7054,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:24.135655+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596910&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596910&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -5915,8 +7067,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1555,
     "uikTvd": "4664019349483",
+    "uikName": "УИК №1555",
     "tikTvd": "26620002596910",
     "tikName": "Екатеринбург, Октябрьская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1947,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1800,
@@ -5932,12 +7088,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 264,
-      "Исаев Роман Васильевич": 134,
-      "Крылова Наталья Владимировна": 263,
-      "Прокашева Мария Васильевна": 27,
-      "Севастьянов Геннадий Валентинович": 86,
-      "Торощин Игорь Андреевич": 50
+      "4664024187128": 264,
+      "4664024187164": 134,
+      "4664024186922": 263,
+      "4664024187267": 27,
+      "4664024187184": 86,
+      "4664024186710": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596910&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596910&type=464",
@@ -5947,6 +7103,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:24.135655+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596910&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596910&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -5956,8 +7116,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1556,
     "uikTvd": "4664019349484",
+    "uikName": "УИК №1556",
     "tikTvd": "26620002596910",
     "tikName": "Екатеринбург, Октябрьская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1685,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1600,
@@ -5973,12 +7137,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 209,
-      "Исаев Роман Васильевич": 121,
-      "Крылова Наталья Владимировна": 225,
-      "Прокашева Мария Васильевна": 15,
-      "Севастьянов Геннадий Валентинович": 45,
-      "Торощин Игорь Андреевич": 44
+      "4664024187128": 209,
+      "4664024187164": 121,
+      "4664024186922": 225,
+      "4664024187267": 15,
+      "4664024187184": 45,
+      "4664024186710": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596910&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596910&type=464",
@@ -5988,6 +7152,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:24.135655+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596910&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596910&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -5997,8 +7165,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1557,
     "uikTvd": "4664019349485",
+    "uikName": "УИК №1557",
     "tikTvd": "26620002596910",
     "tikName": "Екатеринбург, Октябрьская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1733,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1600,
@@ -6014,12 +7186,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 249,
-      "Исаев Роман Васильевич": 102,
-      "Крылова Наталья Владимировна": 217,
-      "Прокашева Мария Васильевна": 10,
-      "Севастьянов Геннадий Валентинович": 45,
-      "Торощин Игорь Андреевич": 54
+      "4664024187128": 249,
+      "4664024187164": 102,
+      "4664024186922": 217,
+      "4664024187267": 10,
+      "4664024187184": 45,
+      "4664024186710": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596910&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596910&type=464",
@@ -6029,6 +7201,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:24.135655+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596910&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596910&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -6038,8 +7214,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1558,
     "uikTvd": "4664019349486",
+    "uikName": "УИК №1558",
     "tikTvd": "26620002596910",
     "tikName": "Екатеринбург, Октябрьская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1773,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1700,
@@ -6055,12 +7235,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 274,
-      "Исаев Роман Васильевич": 99,
-      "Крылова Наталья Владимировна": 171,
-      "Прокашева Мария Васильевна": 26,
-      "Севастьянов Геннадий Валентинович": 47,
-      "Торощин Игорь Андреевич": 61
+      "4664024187128": 274,
+      "4664024187164": 99,
+      "4664024186922": 171,
+      "4664024187267": 26,
+      "4664024187184": 47,
+      "4664024186710": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596910&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596910&type=464",
@@ -6070,6 +7250,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:24.135655+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596910&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596910&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -6079,8 +7263,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1559,
     "uikTvd": "4664019349487",
+    "uikName": "УИК №1559",
     "tikTvd": "26620002596910",
     "tikName": "Екатеринбург, Октябрьская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2584,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2200,
@@ -6096,12 +7284,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 337,
-      "Исаев Роман Васильевич": 183,
-      "Крылова Наталья Владимировна": 354,
-      "Прокашева Мария Васильевна": 26,
-      "Севастьянов Геннадий Валентинович": 100,
-      "Торощин Игорь Андреевич": 59
+      "4664024187128": 337,
+      "4664024187164": 183,
+      "4664024186922": 354,
+      "4664024187267": 26,
+      "4664024187184": 100,
+      "4664024186710": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596910&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596910&type=464",
@@ -6111,6 +7299,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:24.135655+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596910&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596910&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -6120,8 +7312,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1560,
     "uikTvd": "4664019349488",
+    "uikName": "УИК №1560",
     "tikTvd": "26620002596910",
     "tikName": "Екатеринбург, Октябрьская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2287,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2200,
@@ -6137,12 +7333,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 325,
-      "Исаев Роман Васильевич": 151,
-      "Крылова Наталья Владимировна": 286,
-      "Прокашева Мария Васильевна": 33,
-      "Севастьянов Геннадий Валентинович": 57,
-      "Торощин Игорь Андреевич": 72
+      "4664024187128": 325,
+      "4664024187164": 151,
+      "4664024186922": 286,
+      "4664024187267": 33,
+      "4664024187184": 57,
+      "4664024186710": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596910&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596910&type=464",
@@ -6152,6 +7348,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:24.135655+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596910&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596910&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -6161,8 +7361,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1561,
     "uikTvd": "4664019349489",
+    "uikName": "УИК №1561",
     "tikTvd": "26620002596910",
     "tikName": "Екатеринбург, Октябрьская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2734,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2500,
@@ -6178,12 +7382,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 350,
-      "Исаев Роман Васильевич": 197,
-      "Крылова Наталья Владимировна": 373,
-      "Прокашева Мария Васильевна": 39,
-      "Севастьянов Геннадий Валентинович": 73,
-      "Торощин Игорь Андреевич": 67
+      "4664024187128": 350,
+      "4664024187164": 197,
+      "4664024186922": 373,
+      "4664024187267": 39,
+      "4664024187184": 73,
+      "4664024186710": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596910&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596910&type=464",
@@ -6193,6 +7397,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:24.135655+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596910&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596910&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -6202,8 +7410,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1562,
     "uikTvd": "4664019349490",
+    "uikName": "УИК №1562",
     "tikTvd": "26620002596910",
     "tikName": "Екатеринбург, Октябрьская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2530,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2300,
@@ -6219,12 +7431,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 336,
-      "Исаев Роман Васильевич": 170,
-      "Крылова Наталья Владимировна": 333,
-      "Прокашева Мария Васильевна": 32,
-      "Севастьянов Геннадий Валентинович": 103,
-      "Торощин Игорь Андреевич": 93
+      "4664024187128": 336,
+      "4664024187164": 170,
+      "4664024186922": 333,
+      "4664024187267": 32,
+      "4664024187184": 103,
+      "4664024186710": 93
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596910&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596910&type=464",
@@ -6234,6 +7446,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:24.135655+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596910&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596910&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -6243,8 +7459,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1563,
     "uikTvd": "4664019349491",
+    "uikName": "УИК №1563",
     "tikTvd": "26620002596910",
     "tikName": "Екатеринбург, Октябрьская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1612,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1500,
@@ -6260,12 +7480,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 59,
-      "Исаев Роман Васильевич": 41,
-      "Крылова Наталья Владимировна": 90,
-      "Прокашева Мария Васильевна": 9,
-      "Севастьянов Геннадий Валентинович": 28,
-      "Торощин Игорь Андреевич": 22
+      "4664024187128": 59,
+      "4664024187164": 41,
+      "4664024186922": 90,
+      "4664024187267": 9,
+      "4664024187184": 28,
+      "4664024186710": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596910&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596910&type=464",
@@ -6275,6 +7495,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:24.135655+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596910&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596910&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -6284,8 +7508,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1564,
     "uikTvd": "4664019349492",
+    "uikName": "УИК №1564",
     "tikTvd": "26620002596910",
     "tikName": "Екатеринбург, Октябрьская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2031,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1800,
@@ -6301,12 +7529,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 208,
-      "Исаев Роман Васильевич": 109,
-      "Крылова Наталья Владимировна": 251,
-      "Прокашева Мария Васильевна": 21,
-      "Севастьянов Геннадий Валентинович": 45,
-      "Торощин Игорь Андреевич": 48
+      "4664024187128": 208,
+      "4664024187164": 109,
+      "4664024186922": 251,
+      "4664024187267": 21,
+      "4664024187184": 45,
+      "4664024186710": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596910&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596910&type=464",
@@ -6316,6 +7544,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:24.135655+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596910&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596910&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -6325,8 +7557,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1565,
     "uikTvd": "4664019349493",
+    "uikName": "УИК №1565",
     "tikTvd": "26620002596910",
     "tikName": "Екатеринбург, Октябрьская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2291,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2100,
@@ -6342,12 +7578,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 237,
-      "Исаев Роман Васильевич": 127,
-      "Крылова Наталья Владимировна": 256,
-      "Прокашева Мария Васильевна": 25,
-      "Севастьянов Геннадий Валентинович": 43,
-      "Торощин Игорь Андреевич": 54
+      "4664024187128": 237,
+      "4664024187164": 127,
+      "4664024186922": 256,
+      "4664024187267": 25,
+      "4664024187184": 43,
+      "4664024186710": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596910&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596910&type=464",
@@ -6357,6 +7593,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:24.135655+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596910&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596910&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -6366,8 +7606,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1566,
     "uikTvd": "4664019349494",
+    "uikName": "УИК №1566",
     "tikTvd": "26620002596910",
     "tikName": "Екатеринбург, Октябрьская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2381,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2200,
@@ -6383,12 +7627,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 293,
-      "Исаев Роман Васильевич": 158,
-      "Крылова Наталья Владимировна": 286,
-      "Прокашева Мария Васильевна": 28,
-      "Севастьянов Геннадий Валентинович": 62,
-      "Торощин Игорь Андреевич": 66
+      "4664024187128": 293,
+      "4664024187164": 158,
+      "4664024186922": 286,
+      "4664024187267": 28,
+      "4664024187184": 62,
+      "4664024186710": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596910&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596910&type=464",
@@ -6398,6 +7642,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:24.135655+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596910&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596910&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -6407,8 +7655,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1567,
     "uikTvd": "4664019349495",
+    "uikName": "УИК №1567",
     "tikTvd": "26620002596910",
     "tikName": "Екатеринбург, Октябрьская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1847,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1700,
@@ -6424,12 +7676,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 268,
-      "Исаев Роман Васильевич": 112,
-      "Крылова Наталья Владимировна": 186,
-      "Прокашева Мария Васильевна": 24,
-      "Севастьянов Геннадий Валентинович": 53,
-      "Торощин Игорь Андреевич": 50
+      "4664024187128": 268,
+      "4664024187164": 112,
+      "4664024186922": 186,
+      "4664024187267": 24,
+      "4664024187184": 53,
+      "4664024186710": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596910&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596910&type=464",
@@ -6439,6 +7691,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:24.135655+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596910&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596910&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -6448,8 +7704,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1568,
     "uikTvd": "4664019349496",
+    "uikName": "УИК №1568",
     "tikTvd": "26620002596910",
     "tikName": "Екатеринбург, Октябрьская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2327,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2200,
@@ -6465,12 +7725,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 320,
-      "Исаев Роман Васильевич": 124,
-      "Крылова Наталья Владимировна": 277,
-      "Прокашева Мария Васильевна": 24,
-      "Севастьянов Геннадий Валентинович": 51,
-      "Торощин Игорь Андреевич": 68
+      "4664024187128": 320,
+      "4664024187164": 124,
+      "4664024186922": 277,
+      "4664024187267": 24,
+      "4664024187184": 51,
+      "4664024186710": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596910&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596910&type=464",
@@ -6480,6 +7740,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:24.135655+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596910&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596910&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -6489,8 +7753,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1569,
     "uikTvd": "4664019349497",
+    "uikName": "УИК №1569",
     "tikTvd": "26620002596910",
     "tikName": "Екатеринбург, Октябрьская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2310,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2200,
@@ -6506,12 +7774,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 376,
-      "Исаев Роман Васильевич": 131,
-      "Крылова Наталья Владимировна": 257,
-      "Прокашева Мария Васильевна": 30,
-      "Севастьянов Геннадий Валентинович": 64,
-      "Торощин Игорь Андреевич": 73
+      "4664024187128": 376,
+      "4664024187164": 131,
+      "4664024186922": 257,
+      "4664024187267": 30,
+      "4664024187184": 64,
+      "4664024186710": 73
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596910&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596910&type=464",
@@ -6521,6 +7789,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:24.135655+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596910&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596910&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -6530,8 +7802,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1570,
     "uikTvd": "4664019349498",
+    "uikName": "УИК №1570",
     "tikTvd": "26620002596910",
     "tikName": "Екатеринбург, Октябрьская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2506,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2300,
@@ -6547,12 +7823,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 349,
-      "Исаев Роман Васильевич": 137,
-      "Крылова Наталья Владимировна": 321,
-      "Прокашева Мария Васильевна": 35,
-      "Севастьянов Геннадий Валентинович": 81,
-      "Торощин Игорь Андреевич": 82
+      "4664024187128": 349,
+      "4664024187164": 137,
+      "4664024186922": 321,
+      "4664024187267": 35,
+      "4664024187184": 81,
+      "4664024186710": 82
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596910&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596910&type=464",
@@ -6562,6 +7838,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:24.135655+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596910&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596910&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -6571,8 +7851,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1571,
     "uikTvd": "4664019349499",
+    "uikName": "УИК №1571",
     "tikTvd": "26620002596910",
     "tikName": "Екатеринбург, Октябрьская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1910,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1800,
@@ -6588,12 +7872,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 268,
-      "Исаев Роман Васильевич": 92,
-      "Крылова Наталья Владимировна": 182,
-      "Прокашева Мария Васильевна": 24,
-      "Севастьянов Геннадий Валентинович": 44,
-      "Торощин Игорь Андреевич": 63
+      "4664024187128": 268,
+      "4664024187164": 92,
+      "4664024186922": 182,
+      "4664024187267": 24,
+      "4664024187184": 44,
+      "4664024186710": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596910&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596910&type=464",
@@ -6603,6 +7887,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:24.135655+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596910&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596910&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -6612,8 +7900,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1572,
     "uikTvd": "4664019349500",
+    "uikName": "УИК №1572",
     "tikTvd": "26620002596910",
     "tikName": "Екатеринбург, Октябрьская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1886,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1800,
@@ -6629,12 +7921,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 289,
-      "Исаев Роман Васильевич": 120,
-      "Крылова Наталья Владимировна": 257,
-      "Прокашева Мария Васильевна": 22,
-      "Севастьянов Геннадий Валентинович": 62,
-      "Торощин Игорь Андреевич": 62
+      "4664024187128": 289,
+      "4664024187164": 120,
+      "4664024186922": 257,
+      "4664024187267": 22,
+      "4664024187184": 62,
+      "4664024186710": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596910&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596910&type=464",
@@ -6644,6 +7936,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:24.135655+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596910&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596910&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -6653,8 +7949,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1573,
     "uikTvd": "4664019349501",
+    "uikName": "УИК №1573",
     "tikTvd": "26620002596910",
     "tikName": "Екатеринбург, Октябрьская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1491,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1400,
@@ -6670,12 +7970,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 225,
-      "Исаев Роман Васильевич": 89,
-      "Крылова Наталья Владимировна": 140,
-      "Прокашева Мария Васильевна": 23,
-      "Севастьянов Геннадий Валентинович": 46,
-      "Торощин Игорь Андреевич": 36
+      "4664024187128": 225,
+      "4664024187164": 89,
+      "4664024186922": 140,
+      "4664024187267": 23,
+      "4664024187184": 46,
+      "4664024186710": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596910&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596910&type=464",
@@ -6685,6 +7985,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:24.135655+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596910&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596910&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -6694,8 +7998,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1574,
     "uikTvd": "4664019349502",
+    "uikName": "УИК №1574",
     "tikTvd": "26620002596910",
     "tikName": "Екатеринбург, Октябрьская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1865,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1800,
@@ -6711,12 +8019,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 269,
-      "Исаев Роман Васильевич": 122,
-      "Крылова Наталья Владимировна": 233,
-      "Прокашева Мария Васильевна": 30,
-      "Севастьянов Геннадий Валентинович": 67,
-      "Торощин Игорь Андреевич": 57
+      "4664024187128": 269,
+      "4664024187164": 122,
+      "4664024186922": 233,
+      "4664024187267": 30,
+      "4664024187184": 67,
+      "4664024186710": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596910&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596910&type=464",
@@ -6726,6 +8034,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:24.135655+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596910&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596910&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -6735,8 +8047,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1575,
     "uikTvd": "4664019349503",
+    "uikName": "УИК №1575",
     "tikTvd": "26620002596910",
     "tikName": "Екатеринбург, Октябрьская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 941,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 800,
@@ -6752,12 +8068,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 105,
-      "Исаев Роман Васильевич": 53,
-      "Крылова Наталья Владимировна": 109,
-      "Прокашева Мария Васильевна": 6,
-      "Севастьянов Геннадий Валентинович": 30,
-      "Торощин Игорь Андреевич": 32
+      "4664024187128": 105,
+      "4664024187164": 53,
+      "4664024186922": 109,
+      "4664024187267": 6,
+      "4664024187184": 30,
+      "4664024186710": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596910&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596910&type=464",
@@ -6767,6 +8083,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:24.135655+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596910&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596910&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -6776,8 +8096,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1576,
     "uikTvd": "4664019349504",
+    "uikName": "УИК №1576",
     "tikTvd": "26620002596910",
     "tikName": "Екатеринбург, Октябрьская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2140,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2000,
@@ -6793,12 +8117,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 234,
-      "Исаев Роман Васильевич": 123,
-      "Крылова Наталья Владимировна": 229,
-      "Прокашева Мария Васильевна": 25,
-      "Севастьянов Геннадий Валентинович": 44,
-      "Торощин Игорь Андреевич": 67
+      "4664024187128": 234,
+      "4664024187164": 123,
+      "4664024186922": 229,
+      "4664024187267": 25,
+      "4664024187184": 44,
+      "4664024186710": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596910&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596910&type=464",
@@ -6808,6 +8132,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:24.135655+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596910&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596910&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -6817,8 +8145,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1577,
     "uikTvd": "4664019349505",
+    "uikName": "УИК №1577",
     "tikTvd": "26620002596910",
     "tikName": "Екатеринбург, Октябрьская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2433,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2300,
@@ -6834,12 +8166,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 341,
-      "Исаев Роман Васильевич": 144,
-      "Крылова Наталья Владимировна": 307,
-      "Прокашева Мария Васильевна": 34,
-      "Севастьянов Геннадий Валентинович": 46,
-      "Торощин Игорь Андреевич": 88
+      "4664024187128": 341,
+      "4664024187164": 144,
+      "4664024186922": 307,
+      "4664024187267": 34,
+      "4664024187184": 46,
+      "4664024186710": 88
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596910&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596910&type=464",
@@ -6849,6 +8181,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:24.135655+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596910&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596910&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -6858,8 +8194,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1578,
     "uikTvd": "4664019349506",
+    "uikName": "УИК №1578",
     "tikTvd": "26620002596910",
     "tikName": "Екатеринбург, Октябрьская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2052,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1700,
@@ -6875,12 +8215,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 271,
-      "Исаев Роман Васильевич": 97,
-      "Крылова Наталья Владимировна": 176,
-      "Прокашева Мария Васильевна": 26,
-      "Севастьянов Геннадий Валентинович": 32,
-      "Торощин Игорь Андреевич": 33
+      "4664024187128": 271,
+      "4664024187164": 97,
+      "4664024186922": 176,
+      "4664024187267": 26,
+      "4664024187184": 32,
+      "4664024186710": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596910&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596910&type=464",
@@ -6890,6 +8230,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:24.135655+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596910&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596910&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -6899,8 +8243,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1579,
     "uikTvd": "4664019349507",
+    "uikName": "УИК №1579",
     "tikTvd": "26620002596910",
     "tikName": "Екатеринбург, Октябрьская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2368,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2200,
@@ -6916,12 +8264,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 332,
-      "Исаев Роман Васильевич": 110,
-      "Крылова Наталья Владимировна": 232,
-      "Прокашева Мария Васильевна": 20,
-      "Севастьянов Геннадий Валентинович": 39,
-      "Торощин Игорь Андреевич": 70
+      "4664024187128": 332,
+      "4664024187164": 110,
+      "4664024186922": 232,
+      "4664024187267": 20,
+      "4664024187184": 39,
+      "4664024186710": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596910&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596910&type=464",
@@ -6931,6 +8279,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:24.135655+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596910&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596910&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -6940,8 +8292,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1580,
     "uikTvd": "4664019349508",
+    "uikName": "УИК №1580",
     "tikTvd": "26620002596910",
     "tikName": "Екатеринбург, Октябрьская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2468,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2300,
@@ -6957,12 +8313,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 355,
-      "Исаев Роман Васильевич": 134,
-      "Крылова Наталья Владимировна": 317,
-      "Прокашева Мария Васильевна": 24,
-      "Севастьянов Геннадий Валентинович": 41,
-      "Торощин Игорь Андреевич": 61
+      "4664024187128": 355,
+      "4664024187164": 134,
+      "4664024186922": 317,
+      "4664024187267": 24,
+      "4664024187184": 41,
+      "4664024186710": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596910&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596910&type=464",
@@ -6972,6 +8328,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:24.135655+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596910&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596910&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -6981,8 +8341,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1581,
     "uikTvd": "4664019349509",
+    "uikName": "УИК №1581",
     "tikTvd": "26620002596910",
     "tikName": "Екатеринбург, Октябрьская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2027,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1900,
@@ -6998,12 +8362,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 278,
-      "Исаев Роман Васильевич": 109,
-      "Крылова Наталья Владимировна": 266,
-      "Прокашева Мария Васильевна": 29,
-      "Севастьянов Геннадий Валентинович": 44,
-      "Торощин Игорь Андреевич": 80
+      "4664024187128": 278,
+      "4664024187164": 109,
+      "4664024186922": 266,
+      "4664024187267": 29,
+      "4664024187184": 44,
+      "4664024186710": 80
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596910&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596910&type=464",
@@ -7013,6 +8377,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:24.135655+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596910&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596910&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -7022,8 +8390,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1582,
     "uikTvd": "4664019349510",
+    "uikName": "УИК №1582",
     "tikTvd": "26620002596910",
     "tikName": "Екатеринбург, Октябрьская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2663,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2500,
@@ -7039,12 +8411,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 400,
-      "Исаев Роман Васильевич": 180,
-      "Крылова Наталья Владимировна": 358,
-      "Прокашева Мария Васильевна": 26,
-      "Севастьянов Геннадий Валентинович": 73,
-      "Торощин Игорь Андреевич": 97
+      "4664024187128": 400,
+      "4664024187164": 180,
+      "4664024186922": 358,
+      "4664024187267": 26,
+      "4664024187184": 73,
+      "4664024186710": 97
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596910&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596910&type=464",
@@ -7054,6 +8426,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:24.135655+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596910&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596910&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -7063,8 +8439,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1583,
     "uikTvd": "4664019349511",
+    "uikName": "УИК №1583",
     "tikTvd": "26620002596910",
     "tikName": "Екатеринбург, Октябрьская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1861,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1800,
@@ -7080,12 +8460,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 273,
-      "Исаев Роман Васильевич": 82,
-      "Крылова Наталья Владимировна": 246,
-      "Прокашева Мария Васильевна": 28,
-      "Севастьянов Геннадий Валентинович": 51,
-      "Торощин Игорь Андреевич": 64
+      "4664024187128": 273,
+      "4664024187164": 82,
+      "4664024186922": 246,
+      "4664024187267": 28,
+      "4664024187184": 51,
+      "4664024186710": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596910&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596910&type=464",
@@ -7095,6 +8475,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:24.135655+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596910&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596910&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -7104,8 +8488,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1584,
     "uikTvd": "4664019349512",
+    "uikName": "УИК №1584",
     "tikTvd": "26620002596910",
     "tikName": "Екатеринбург, Октябрьская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2227,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2100,
@@ -7121,12 +8509,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 334,
-      "Исаев Роман Васильевич": 114,
-      "Крылова Наталья Владимировна": 334,
-      "Прокашева Мария Васильевна": 35,
-      "Севастьянов Геннадий Валентинович": 68,
-      "Торощин Игорь Андреевич": 95
+      "4664024187128": 334,
+      "4664024187164": 114,
+      "4664024186922": 334,
+      "4664024187267": 35,
+      "4664024187184": 68,
+      "4664024186710": 95
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596910&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596910&type=464",
@@ -7136,6 +8524,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:24.135655+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596910&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596910&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -7145,8 +8537,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1585,
     "uikTvd": "4664019349513",
+    "uikName": "УИК №1585",
     "tikTvd": "26620002596910",
     "tikName": "Екатеринбург, Октябрьская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2029,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1900,
@@ -7162,12 +8558,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 313,
-      "Исаев Роман Васильевич": 85,
-      "Крылова Наталья Владимировна": 245,
-      "Прокашева Мария Васильевна": 19,
-      "Севастьянов Геннадий Валентинович": 35,
-      "Торощин Игорь Андреевич": 54
+      "4664024187128": 313,
+      "4664024187164": 85,
+      "4664024186922": 245,
+      "4664024187267": 19,
+      "4664024187184": 35,
+      "4664024186710": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596910&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596910&type=464",
@@ -7177,6 +8573,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:24.135655+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596910&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596910&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -7186,8 +8586,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1586,
     "uikTvd": "4664019349514",
+    "uikName": "УИК №1586",
     "tikTvd": "26620002596910",
     "tikName": "Екатеринбург, Октябрьская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2511,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2300,
@@ -7203,12 +8607,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 349,
-      "Исаев Роман Васильевич": 108,
-      "Крылова Наталья Владимировна": 314,
-      "Прокашева Мария Васильевна": 26,
-      "Севастьянов Геннадий Валентинович": 50,
-      "Торощин Игорь Андреевич": 61
+      "4664024187128": 349,
+      "4664024187164": 108,
+      "4664024186922": 314,
+      "4664024187267": 26,
+      "4664024187184": 50,
+      "4664024186710": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596910&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596910&type=464",
@@ -7218,6 +8622,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:24.135655+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596910&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596910&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -7227,8 +8635,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1587,
     "uikTvd": "4664019349515",
+    "uikName": "УИК №1587",
     "tikTvd": "26620002596910",
     "tikName": "Екатеринбург, Октябрьская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2786,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2600,
@@ -7244,12 +8656,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 312,
-      "Исаев Роман Васильевич": 134,
-      "Крылова Наталья Владимировна": 350,
-      "Прокашева Мария Васильевна": 34,
-      "Севастьянов Геннадий Валентинович": 43,
-      "Торощин Игорь Андреевич": 83
+      "4664024187128": 312,
+      "4664024187164": 134,
+      "4664024186922": 350,
+      "4664024187267": 34,
+      "4664024187184": 43,
+      "4664024186710": 83
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596910&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596910&type=464",
@@ -7259,6 +8671,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:24.135655+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596910&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596910&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -7268,8 +8684,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1588,
     "uikTvd": "4664019349516",
+    "uikName": "УИК №1588",
     "tikTvd": "26620002596910",
     "tikName": "Екатеринбург, Октябрьская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1795,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1700,
@@ -7285,12 +8705,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 183,
-      "Исаев Роман Васильевич": 72,
-      "Крылова Наталья Владимировна": 204,
-      "Прокашева Мария Васильевна": 25,
-      "Севастьянов Геннадий Валентинович": 32,
-      "Торощин Игорь Андреевич": 56
+      "4664024187128": 183,
+      "4664024187164": 72,
+      "4664024186922": 204,
+      "4664024187267": 25,
+      "4664024187184": 32,
+      "4664024186710": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596910&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596910&type=464",
@@ -7300,6 +8720,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:24.135655+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596910&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596910&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -7309,8 +8733,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1589,
     "uikTvd": "4664019349517",
+    "uikName": "УИК №1589",
     "tikTvd": "26620002596910",
     "tikName": "Екатеринбург, Октябрьская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2299,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2100,
@@ -7326,12 +8754,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 312,
-      "Исаев Роман Васильевич": 117,
-      "Крылова Наталья Владимировна": 243,
-      "Прокашева Мария Васильевна": 31,
-      "Севастьянов Геннадий Валентинович": 52,
-      "Торощин Игорь Андреевич": 94
+      "4664024187128": 312,
+      "4664024187164": 117,
+      "4664024186922": 243,
+      "4664024187267": 31,
+      "4664024187184": 52,
+      "4664024186710": 94
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596910&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596910&type=464",
@@ -7341,6 +8769,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:24.135655+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596910&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596910&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -7350,8 +8782,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1590,
     "uikTvd": "4664019349518",
+    "uikName": "УИК №1590",
     "tikTvd": "26620002596910",
     "tikName": "Екатеринбург, Октябрьская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2554,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2400,
@@ -7367,12 +8803,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 346,
-      "Исаев Роман Васильевич": 186,
-      "Крылова Наталья Владимировна": 323,
-      "Прокашева Мария Васильевна": 57,
-      "Севастьянов Геннадий Валентинович": 66,
-      "Торощин Игорь Андреевич": 115
+      "4664024187128": 346,
+      "4664024187164": 186,
+      "4664024186922": 323,
+      "4664024187267": 57,
+      "4664024187184": 66,
+      "4664024186710": 115
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596910&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596910&type=464",
@@ -7382,6 +8818,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:24.135655+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596910&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596910&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -7391,8 +8831,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1591,
     "uikTvd": "4664019349519",
+    "uikName": "УИК №1591",
     "tikTvd": "26620002596910",
     "tikName": "Екатеринбург, Октябрьская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1966,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1800,
@@ -7408,12 +8852,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 231,
-      "Исаев Роман Васильевич": 99,
-      "Крылова Наталья Владимировна": 199,
-      "Прокашева Мария Васильевна": 17,
-      "Севастьянов Геннадий Валентинович": 39,
-      "Торощин Игорь Андреевич": 77
+      "4664024187128": 231,
+      "4664024187164": 99,
+      "4664024186922": 199,
+      "4664024187267": 17,
+      "4664024187184": 39,
+      "4664024186710": 77
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596910&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596910&type=464",
@@ -7423,6 +8867,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:24.135655+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596910&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596910&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -7432,8 +8880,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1592,
     "uikTvd": "4664019349520",
+    "uikName": "УИК №1592",
     "tikTvd": "26620002596910",
     "tikName": "Екатеринбург, Октябрьская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1904,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1800,
@@ -7449,12 +8901,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 270,
-      "Исаев Роман Васильевич": 99,
-      "Крылова Наталья Владимировна": 231,
-      "Прокашева Мария Васильевна": 34,
-      "Севастьянов Геннадий Валентинович": 60,
-      "Торощин Игорь Андреевич": 53
+      "4664024187128": 270,
+      "4664024187164": 99,
+      "4664024186922": 231,
+      "4664024187267": 34,
+      "4664024187184": 60,
+      "4664024186710": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596910&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596910&type=464",
@@ -7464,6 +8916,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:24.135655+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596910&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596910&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -7473,8 +8929,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1593,
     "uikTvd": "4664019349521",
+    "uikName": "УИК №1593",
     "tikTvd": "26620002596910",
     "tikName": "Екатеринбург, Октябрьская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2835,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2500,
@@ -7490,12 +8950,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 411,
-      "Исаев Роман Васильевич": 160,
-      "Крылова Наталья Владимировна": 396,
-      "Прокашева Мария Васильевна": 50,
-      "Севастьянов Геннадий Валентинович": 66,
-      "Торощин Игорь Андреевич": 89
+      "4664024187128": 411,
+      "4664024187164": 160,
+      "4664024186922": 396,
+      "4664024187267": 50,
+      "4664024187184": 66,
+      "4664024186710": 89
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596910&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596910&type=464",
@@ -7505,6 +8965,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:24.135655+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596910&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596910&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -7514,8 +8978,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1594,
     "uikTvd": "4664019349522",
+    "uikName": "УИК №1594",
     "tikTvd": "26620002596910",
     "tikName": "Екатеринбург, Октябрьская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1214,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1200,
@@ -7531,12 +8999,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 140,
-      "Исаев Роман Васильевич": 49,
-      "Крылова Наталья Владимировна": 136,
-      "Прокашева Мария Васильевна": 13,
-      "Севастьянов Геннадий Валентинович": 20,
-      "Торощин Игорь Андреевич": 50
+      "4664024187128": 140,
+      "4664024187164": 49,
+      "4664024186922": 136,
+      "4664024187267": 13,
+      "4664024187184": 20,
+      "4664024186710": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596910&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596910&type=464",
@@ -7546,6 +9014,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:24.135655+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596910&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596910&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -7555,8 +9027,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1595,
     "uikTvd": "4664019349523",
+    "uikName": "УИК №1595",
     "tikTvd": "26620002596910",
     "tikName": "Екатеринбург, Октябрьская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2059,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1900,
@@ -7572,12 +9048,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 283,
-      "Исаев Роман Васильевич": 119,
-      "Крылова Наталья Владимировна": 223,
-      "Прокашева Мария Васильевна": 32,
-      "Севастьянов Геннадий Валентинович": 50,
-      "Торощин Игорь Андреевич": 60
+      "4664024187128": 283,
+      "4664024187164": 119,
+      "4664024186922": 223,
+      "4664024187267": 32,
+      "4664024187184": 50,
+      "4664024186710": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596910&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596910&type=464",
@@ -7587,6 +9063,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:24.135655+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596910&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596910&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -7596,8 +9076,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1697,
     "uikTvd": "4664019359329",
+    "uikName": "УИК №1697",
     "tikTvd": "26620002596910",
     "tikName": "Екатеринбург, Октябрьская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 0,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 0,
@@ -7613,12 +9097,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 0,
-      "Исаев Роман Васильевич": 0,
-      "Крылова Наталья Владимировна": 0,
-      "Прокашева Мария Васильевна": 0,
-      "Севастьянов Геннадий Валентинович": 0,
-      "Торощин Игорь Андреевич": 0
+      "4664024187128": 0,
+      "4664024187164": 0,
+      "4664024186922": 0,
+      "4664024187267": 0,
+      "4664024187184": 0,
+      "4664024186710": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596910&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596910&type=464",
@@ -7628,6 +9112,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:24.135655+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596910&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596910&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -7637,8 +9125,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1698,
     "uikTvd": "4664019359330",
+    "uikName": "УИК №1698",
     "tikTvd": "26620002596910",
     "tikName": "Екатеринбург, Октябрьская",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 27,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 400,
@@ -7654,12 +9146,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 15,
-      "Исаев Роман Васильевич": 3,
-      "Крылова Наталья Владимировна": 5,
-      "Прокашева Мария Васильевна": 0,
-      "Севастьянов Геннадий Валентинович": 2,
-      "Торощин Игорь Андреевич": 1
+      "4664024187128": 15,
+      "4664024187164": 3,
+      "4664024186922": 5,
+      "4664024187267": 0,
+      "4664024187184": 2,
+      "4664024186710": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596910&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596910&type=464",
@@ -7669,6 +9161,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:24.135655+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596910&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596910&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -7678,8 +9174,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 927,
     "uikTvd": "4664060249594",
+    "uikName": "УИК №927",
     "tikTvd": "26620002596911",
     "tikName": "Талицкая ",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1220,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1000,
@@ -7695,12 +9195,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 275,
-      "Исаев Роман Васильевич": 56,
-      "Крылова Наталья Владимировна": 111,
-      "Прокашева Мария Васильевна": 8,
-      "Севастьянов Геннадий Валентинович": 5,
-      "Торощин Игорь Андреевич": 60
+      "4664024187128": 275,
+      "4664024187164": 56,
+      "4664024186922": 111,
+      "4664024187267": 8,
+      "4664024187184": 5,
+      "4664024186710": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596911&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596911&type=464",
@@ -7710,6 +9210,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:24.513795+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596911&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596911&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -7719,8 +9223,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 928,
     "uikTvd": "4664060249595",
+    "uikName": "УИК №928",
     "tikTvd": "26620002596911",
     "tikName": "Талицкая ",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1947,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1600,
@@ -7736,12 +9244,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 497,
-      "Исаев Роман Васильевич": 95,
-      "Крылова Наталья Владимировна": 198,
-      "Прокашева Мария Васильевна": 27,
-      "Севастьянов Геннадий Валентинович": 13,
-      "Торощин Игорь Андреевич": 86
+      "4664024187128": 497,
+      "4664024187164": 95,
+      "4664024186922": 198,
+      "4664024187267": 27,
+      "4664024187184": 13,
+      "4664024186710": 86
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596911&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596911&type=464",
@@ -7751,6 +9259,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:24.513795+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596911&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596911&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -7760,8 +9272,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 929,
     "uikTvd": "4664060249596",
+    "uikName": "УИК №929",
     "tikTvd": "26620002596911",
     "tikName": "Талицкая ",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1610,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1300,
@@ -7777,12 +9293,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 418,
-      "Исаев Роман Васильевич": 76,
-      "Крылова Наталья Владимировна": 166,
-      "Прокашева Мария Васильевна": 15,
-      "Севастьянов Геннадий Валентинович": 20,
-      "Торощин Игорь Андреевич": 55
+      "4664024187128": 418,
+      "4664024187164": 76,
+      "4664024186922": 166,
+      "4664024187267": 15,
+      "4664024187184": 20,
+      "4664024186710": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596911&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596911&type=464",
@@ -7792,6 +9308,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:24.513795+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596911&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596911&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -7801,8 +9321,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 930,
     "uikTvd": "4664060249597",
+    "uikName": "УИК №930",
     "tikTvd": "26620002596911",
     "tikName": "Талицкая ",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1804,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1500,
@@ -7818,12 +9342,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 412,
-      "Исаев Роман Васильевич": 88,
-      "Крылова Наталья Владимировна": 179,
-      "Прокашева Мария Васильевна": 20,
-      "Севастьянов Геннадий Валентинович": 22,
-      "Торощин Игорь Андреевич": 70
+      "4664024187128": 412,
+      "4664024187164": 88,
+      "4664024186922": 179,
+      "4664024187267": 20,
+      "4664024187184": 22,
+      "4664024186710": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596911&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596911&type=464",
@@ -7833,6 +9357,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:24.513795+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596911&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596911&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -7842,8 +9370,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 931,
     "uikTvd": "4664060249598",
+    "uikName": "УИК №931",
     "tikTvd": "26620002596911",
     "tikName": "Талицкая ",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1625,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1300,
@@ -7859,12 +9391,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 405,
-      "Исаев Роман Васильевич": 72,
-      "Крылова Наталья Владимировна": 166,
-      "Прокашева Мария Васильевна": 12,
-      "Севастьянов Геннадий Валентинович": 18,
-      "Торощин Игорь Андреевич": 62
+      "4664024187128": 405,
+      "4664024187164": 72,
+      "4664024186922": 166,
+      "4664024187267": 12,
+      "4664024187184": 18,
+      "4664024186710": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596911&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596911&type=464",
@@ -7874,6 +9406,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:24.513795+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596911&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596911&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -7883,8 +9419,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 932,
     "uikTvd": "4664060249599",
+    "uikName": "УИК №932",
     "tikTvd": "26620002596911",
     "tikName": "Талицкая ",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 635,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 500,
@@ -7900,12 +9440,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 138,
-      "Исаев Роман Васильевич": 43,
-      "Крылова Наталья Владимировна": 53,
-      "Прокашева Мария Васильевна": 9,
-      "Севастьянов Геннадий Валентинович": 9,
-      "Торощин Игорь Андреевич": 32
+      "4664024187128": 138,
+      "4664024187164": 43,
+      "4664024186922": 53,
+      "4664024187267": 9,
+      "4664024187184": 9,
+      "4664024186710": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596911&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596911&type=464",
@@ -7915,6 +9455,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:24.513795+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596911&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596911&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -7924,8 +9468,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 933,
     "uikTvd": "4664060249600",
+    "uikName": "УИК №933",
     "tikTvd": "26620002596911",
     "tikName": "Талицкая ",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 908,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 700,
@@ -7941,12 +9489,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 187,
-      "Исаев Роман Васильевич": 51,
-      "Крылова Наталья Владимировна": 97,
-      "Прокашева Мария Васильевна": 15,
-      "Севастьянов Геннадий Валентинович": 12,
-      "Торощин Игорь Андреевич": 34
+      "4664024187128": 187,
+      "4664024187164": 51,
+      "4664024186922": 97,
+      "4664024187267": 15,
+      "4664024187184": 12,
+      "4664024186710": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596911&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596911&type=464",
@@ -7956,6 +9504,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:24.513795+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596911&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596911&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -7965,8 +9517,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 935,
     "uikTvd": "4664060249601",
+    "uikName": "УИК №935",
     "tikTvd": "26620002596911",
     "tikName": "Талицкая ",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1119,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 900,
@@ -7982,12 +9538,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 357,
-      "Исаев Роман Васильевич": 67,
-      "Крылова Наталья Владимировна": 126,
-      "Прокашева Мария Васильевна": 10,
-      "Севастьянов Геннадий Валентинович": 12,
-      "Торощин Игорь Андреевич": 51
+      "4664024187128": 357,
+      "4664024187164": 67,
+      "4664024186922": 126,
+      "4664024187267": 10,
+      "4664024187184": 12,
+      "4664024186710": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596911&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596911&type=464",
@@ -7997,6 +9553,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:24.513795+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596911&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596911&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -8006,8 +9566,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 936,
     "uikTvd": "4664060249602",
+    "uikName": "УИК №936",
     "tikTvd": "26620002596911",
     "tikName": "Талицкая ",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1563,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1100,
@@ -8023,12 +9587,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 397,
-      "Исаев Роман Васильевич": 77,
-      "Крылова Наталья Владимировна": 173,
-      "Прокашева Мария Васильевна": 16,
-      "Севастьянов Геннадий Валентинович": 17,
-      "Торощин Игорь Андреевич": 71
+      "4664024187128": 397,
+      "4664024187164": 77,
+      "4664024186922": 173,
+      "4664024187267": 16,
+      "4664024187184": 17,
+      "4664024186710": 71
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596911&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596911&type=464",
@@ -8038,6 +9602,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:24.513795+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596911&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596911&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -8047,8 +9615,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 937,
     "uikTvd": "4664060249603",
+    "uikName": "УИК №937",
     "tikTvd": "26620002596911",
     "tikName": "Талицкая ",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1638,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1300,
@@ -8064,12 +9636,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 348,
-      "Исаев Роман Васильевич": 87,
-      "Крылова Наталья Владимировна": 181,
-      "Прокашева Мария Васильевна": 16,
-      "Севастьянов Геннадий Валентинович": 18,
-      "Торощин Игорь Андреевич": 72
+      "4664024187128": 348,
+      "4664024187164": 87,
+      "4664024186922": 181,
+      "4664024187267": 16,
+      "4664024187184": 18,
+      "4664024186710": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596911&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596911&type=464",
@@ -8079,6 +9651,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:24.513795+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596911&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596911&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -8088,8 +9664,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 938,
     "uikTvd": "4664060249604",
+    "uikName": "УИК №938",
     "tikTvd": "26620002596911",
     "tikName": "Талицкая ",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1594,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1300,
@@ -8105,12 +9685,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 342,
-      "Исаев Роман Васильевич": 81,
-      "Крылова Наталья Владимировна": 171,
-      "Прокашева Мария Васильевна": 14,
-      "Севастьянов Геннадий Валентинович": 15,
-      "Торощин Игорь Андреевич": 66
+      "4664024187128": 342,
+      "4664024187164": 81,
+      "4664024186922": 171,
+      "4664024187267": 14,
+      "4664024187184": 15,
+      "4664024186710": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596911&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596911&type=464",
@@ -8120,6 +9700,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:24.513795+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596911&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596911&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -8129,8 +9713,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 939,
     "uikTvd": "4664060249605",
+    "uikName": "УИК №939",
     "tikTvd": "26620002596911",
     "tikName": "Талицкая ",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1567,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1300,
@@ -8146,12 +9734,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 358,
-      "Исаев Роман Васильевич": 79,
-      "Крылова Наталья Владимировна": 157,
-      "Прокашева Мария Васильевна": 19,
-      "Севастьянов Геннадий Валентинович": 15,
-      "Торощин Игорь Андреевич": 75
+      "4664024187128": 358,
+      "4664024187164": 79,
+      "4664024186922": 157,
+      "4664024187267": 19,
+      "4664024187184": 15,
+      "4664024186710": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596911&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596911&type=464",
@@ -8161,6 +9749,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:24.513795+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596911&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596911&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -8170,8 +9762,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 940,
     "uikTvd": "4664060249606",
+    "uikName": "УИК №940",
     "tikTvd": "26620002596911",
     "tikName": "Талицкая ",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1750,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1500,
@@ -8187,12 +9783,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 271,
-      "Исаев Роман Васильевич": 67,
-      "Крылова Наталья Владимировна": 219,
-      "Прокашева Мария Васильевна": 18,
-      "Севастьянов Геннадий Валентинович": 16,
-      "Торощин Игорь Андреевич": 72
+      "4664024187128": 271,
+      "4664024187164": 67,
+      "4664024186922": 219,
+      "4664024187267": 18,
+      "4664024187184": 16,
+      "4664024186710": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596911&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596911&type=464",
@@ -8202,6 +9798,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:24.513795+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596911&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596911&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -8211,8 +9811,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 941,
     "uikTvd": "4664060249607",
+    "uikName": "УИК №941",
     "tikTvd": "26620002596911",
     "tikName": "Талицкая ",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1189,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 900,
@@ -8228,12 +9832,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 297,
-      "Исаев Роман Васильевич": 69,
-      "Крылова Наталья Владимировна": 138,
-      "Прокашева Мария Васильевна": 20,
-      "Севастьянов Геннадий Валентинович": 9,
-      "Торощин Игорь Андреевич": 52
+      "4664024187128": 297,
+      "4664024187164": 69,
+      "4664024186922": 138,
+      "4664024187267": 20,
+      "4664024187184": 9,
+      "4664024186710": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596911&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596911&type=464",
@@ -8243,6 +9847,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:24.513795+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596911&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596911&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -8252,8 +9860,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 942,
     "uikTvd": "4664060249608",
+    "uikName": "УИК №942",
     "tikTvd": "26620002596911",
     "tikName": "Талицкая ",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1748,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1400,
@@ -8269,12 +9881,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 478,
-      "Исаев Роман Васильевич": 81,
-      "Крылова Наталья Владимировна": 186,
-      "Прокашева Мария Васильевна": 25,
-      "Севастьянов Геннадий Валентинович": 15,
-      "Торощин Игорь Андреевич": 75
+      "4664024187128": 478,
+      "4664024187164": 81,
+      "4664024186922": 186,
+      "4664024187267": 25,
+      "4664024187184": 15,
+      "4664024186710": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596911&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596911&type=464",
@@ -8284,6 +9896,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:24.513795+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596911&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596911&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -8293,8 +9909,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 945,
     "uikTvd": "4664060249609",
+    "uikName": "УИК №945",
     "tikTvd": "26620002596911",
     "tikName": "Талицкая ",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 663,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 500,
@@ -8310,12 +9930,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 168,
-      "Исаев Роман Васильевич": 31,
-      "Крылова Наталья Владимировна": 69,
-      "Прокашева Мария Васильевна": 9,
-      "Севастьянов Геннадий Валентинович": 5,
-      "Торощин Игорь Андреевич": 22
+      "4664024187128": 168,
+      "4664024187164": 31,
+      "4664024186922": 69,
+      "4664024187267": 9,
+      "4664024187184": 5,
+      "4664024186710": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596911&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596911&type=464",
@@ -8325,6 +9945,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:24.513795+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596911&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596911&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -8334,8 +9958,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 946,
     "uikTvd": "4664060249610",
+    "uikName": "УИК №946",
     "tikTvd": "26620002596911",
     "tikName": "Талицкая ",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 128,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 100,
@@ -8351,12 +9979,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 42,
-      "Исаев Роман Васильевич": 7,
-      "Крылова Наталья Владимировна": 22,
-      "Прокашева Мария Васильевна": 2,
-      "Севастьянов Геннадий Валентинович": 2,
-      "Торощин Игорь Андреевич": 3
+      "4664024187128": 42,
+      "4664024187164": 7,
+      "4664024186922": 22,
+      "4664024187267": 2,
+      "4664024187184": 2,
+      "4664024186710": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596911&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596911&type=464",
@@ -8366,6 +9994,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:24.513795+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596911&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596911&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -8375,8 +10007,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 947,
     "uikTvd": "4664060249611",
+    "uikName": "УИК №947",
     "tikTvd": "26620002596911",
     "tikName": "Талицкая ",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 341,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 300,
@@ -8392,12 +10028,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 142,
-      "Исаев Роман Васильевич": 17,
-      "Крылова Наталья Владимировна": 57,
-      "Прокашева Мария Васильевна": 4,
-      "Севастьянов Геннадий Валентинович": 3,
-      "Торощин Игорь Андреевич": 22
+      "4664024187128": 142,
+      "4664024187164": 17,
+      "4664024186922": 57,
+      "4664024187267": 4,
+      "4664024187184": 3,
+      "4664024186710": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596911&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596911&type=464",
@@ -8407,6 +10043,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:24.513795+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596911&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596911&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -8416,8 +10056,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 948,
     "uikTvd": "4664060249612",
+    "uikName": "УИК №948",
     "tikTvd": "26620002596911",
     "tikName": "Талицкая ",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 203,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 200,
@@ -8433,12 +10077,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 140,
-      "Исаев Роман Васильевич": 3,
-      "Крылова Наталья Владимировна": 18,
-      "Прокашева Мария Васильевна": 1,
-      "Севастьянов Геннадий Валентинович": 3,
-      "Торощин Игорь Андреевич": 22
+      "4664024187128": 140,
+      "4664024187164": 3,
+      "4664024186922": 18,
+      "4664024187267": 1,
+      "4664024187184": 3,
+      "4664024186710": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596911&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596911&type=464",
@@ -8448,6 +10092,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:24.513795+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596911&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596911&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -8457,8 +10105,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 949,
     "uikTvd": "4664060249613",
+    "uikName": "УИК №949",
     "tikTvd": "26620002596911",
     "tikName": "Талицкая ",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 144,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 100,
@@ -8474,12 +10126,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 71,
-      "Исаев Роман Васильевич": 5,
-      "Крылова Наталья Владимировна": 16,
-      "Прокашева Мария Васильевна": 2,
-      "Севастьянов Геннадий Валентинович": 3,
-      "Торощин Игорь Андреевич": 2
+      "4664024187128": 71,
+      "4664024187164": 5,
+      "4664024186922": 16,
+      "4664024187267": 2,
+      "4664024187184": 3,
+      "4664024186710": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596911&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596911&type=464",
@@ -8489,6 +10141,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:24.513795+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596911&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596911&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -8498,8 +10154,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 950,
     "uikTvd": "4664060249614",
+    "uikName": "УИК №950",
     "tikTvd": "26620002596911",
     "tikName": "Талицкая ",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 437,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 400,
@@ -8515,12 +10175,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 252,
-      "Исаев Роман Васильевич": 19,
-      "Крылова Наталья Владимировна": 37,
-      "Прокашева Мария Васильевна": 3,
-      "Севастьянов Геннадий Валентинович": 2,
-      "Торощин Игорь Андреевич": 24
+      "4664024187128": 252,
+      "4664024187164": 19,
+      "4664024186922": 37,
+      "4664024187267": 3,
+      "4664024187184": 2,
+      "4664024186710": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596911&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596911&type=464",
@@ -8530,6 +10190,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:24.513795+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596911&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596911&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -8539,8 +10203,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 951,
     "uikTvd": "4664060249615",
+    "uikName": "УИК №951",
     "tikTvd": "26620002596911",
     "tikName": "Талицкая ",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 132,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 100,
@@ -8556,12 +10224,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 79,
-      "Исаев Роман Васильевич": 4,
-      "Крылова Наталья Владимировна": 3,
-      "Прокашева Мария Васильевна": 1,
-      "Севастьянов Геннадий Валентинович": 1,
-      "Торощин Игорь Андреевич": 3
+      "4664024187128": 79,
+      "4664024187164": 4,
+      "4664024186922": 3,
+      "4664024187267": 1,
+      "4664024187184": 1,
+      "4664024186710": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596911&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596911&type=464",
@@ -8571,6 +10239,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:24.513795+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596911&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596911&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -8580,8 +10252,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 952,
     "uikTvd": "4664060249616",
+    "uikName": "УИК №952",
     "tikTvd": "26620002596911",
     "tikName": "Талицкая ",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 161,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 150,
@@ -8597,12 +10273,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 76,
-      "Исаев Роман Васильевич": 12,
-      "Крылова Наталья Владимировна": 24,
-      "Прокашева Мария Васильевна": 3,
-      "Севастьянов Геннадий Валентинович": 2,
-      "Торощин Игорь Андреевич": 7
+      "4664024187128": 76,
+      "4664024187164": 12,
+      "4664024186922": 24,
+      "4664024187267": 3,
+      "4664024187184": 2,
+      "4664024186710": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596911&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596911&type=464",
@@ -8612,6 +10288,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:24.513795+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596911&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596911&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -8621,8 +10301,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 953,
     "uikTvd": "4664060249617",
+    "uikName": "УИК №953",
     "tikTvd": "26620002596911",
     "tikName": "Талицкая ",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 489,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 400,
@@ -8638,12 +10322,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 174,
-      "Исаев Роман Васильевич": 27,
-      "Крылова Наталья Владимировна": 45,
-      "Прокашева Мария Васильевна": 4,
-      "Севастьянов Геннадий Валентинович": 6,
-      "Торощин Игорь Андреевич": 13
+      "4664024187128": 174,
+      "4664024187164": 27,
+      "4664024186922": 45,
+      "4664024187267": 4,
+      "4664024187184": 6,
+      "4664024186710": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596911&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596911&type=464",
@@ -8653,6 +10337,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:24.513795+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596911&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596911&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -8662,8 +10350,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 954,
     "uikTvd": "4664060249618",
+    "uikName": "УИК №954",
     "tikTvd": "26620002596911",
     "tikName": "Талицкая ",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 356,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 300,
@@ -8679,12 +10371,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 121,
-      "Исаев Роман Васильевич": 53,
-      "Крылова Наталья Владимировна": 41,
-      "Прокашева Мария Васильевна": 7,
-      "Севастьянов Геннадий Валентинович": 9,
-      "Торощин Игорь Андреевич": 22
+      "4664024187128": 121,
+      "4664024187164": 53,
+      "4664024186922": 41,
+      "4664024187267": 7,
+      "4664024187184": 9,
+      "4664024186710": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596911&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596911&type=464",
@@ -8694,6 +10386,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:24.513795+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596911&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596911&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -8703,8 +10399,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 955,
     "uikTvd": "4664060249619",
+    "uikName": "УИК №955",
     "tikTvd": "26620002596911",
     "tikName": "Талицкая ",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 146,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 150,
@@ -8720,12 +10420,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 88,
-      "Исаев Роман Васильевич": 12,
-      "Крылова Наталья Владимировна": 15,
-      "Прокашева Мария Васильевна": 4,
-      "Севастьянов Геннадий Валентинович": 3,
-      "Торощин Игорь Андреевич": 11
+      "4664024187128": 88,
+      "4664024187164": 12,
+      "4664024186922": 15,
+      "4664024187267": 4,
+      "4664024187184": 3,
+      "4664024186710": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596911&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596911&type=464",
@@ -8735,6 +10435,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:24.513795+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596911&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596911&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -8744,8 +10448,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 956,
     "uikTvd": "4664060249620",
+    "uikName": "УИК №956",
     "tikTvd": "26620002596911",
     "tikName": "Талицкая ",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 165,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 150,
@@ -8761,12 +10469,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 75,
-      "Исаев Роман Васильевич": 11,
-      "Крылова Наталья Владимировна": 33,
-      "Прокашева Мария Васильевна": 4,
-      "Севастьянов Геннадий Валентинович": 3,
-      "Торощин Игорь Андреевич": 7
+      "4664024187128": 75,
+      "4664024187164": 11,
+      "4664024186922": 33,
+      "4664024187267": 4,
+      "4664024187184": 3,
+      "4664024186710": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596911&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596911&type=464",
@@ -8776,6 +10484,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:24.513795+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596911&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596911&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -8785,8 +10497,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 957,
     "uikTvd": "4664060249621",
+    "uikName": "УИК №957",
     "tikTvd": "26620002596911",
     "tikName": "Талицкая ",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 383,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 300,
@@ -8802,12 +10518,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 135,
-      "Исаев Роман Васильевич": 22,
-      "Крылова Наталья Владимировна": 53,
-      "Прокашева Мария Васильевна": 7,
-      "Севастьянов Геннадий Валентинович": 10,
-      "Торощин Игорь Андреевич": 29
+      "4664024187128": 135,
+      "4664024187164": 22,
+      "4664024186922": 53,
+      "4664024187267": 7,
+      "4664024187184": 10,
+      "4664024186710": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596911&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596911&type=464",
@@ -8817,6 +10533,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:24.513795+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596911&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596911&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -8826,8 +10546,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 958,
     "uikTvd": "4664060249622",
+    "uikName": "УИК №958",
     "tikTvd": "26620002596911",
     "tikName": "Талицкая ",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 576,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 500,
@@ -8843,12 +10567,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 244,
-      "Исаев Роман Васильевич": 28,
-      "Крылова Наталья Владимировна": 68,
-      "Прокашева Мария Васильевна": 13,
-      "Севастьянов Геннадий Валентинович": 7,
-      "Торощин Игорь Андреевич": 26
+      "4664024187128": 244,
+      "4664024187164": 28,
+      "4664024186922": 68,
+      "4664024187267": 13,
+      "4664024187184": 7,
+      "4664024186710": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596911&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596911&type=464",
@@ -8858,6 +10582,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:24.513795+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596911&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596911&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -8867,8 +10595,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 959,
     "uikTvd": "4664060249623",
+    "uikName": "УИК №959",
     "tikTvd": "26620002596911",
     "tikName": "Талицкая ",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 438,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 400,
@@ -8884,12 +10616,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 171,
-      "Исаев Роман Васильевич": 38,
-      "Крылова Наталья Владимировна": 63,
-      "Прокашева Мария Васильевна": 7,
-      "Севастьянов Геннадий Валентинович": 4,
-      "Торощин Игорь Андреевич": 11
+      "4664024187128": 171,
+      "4664024187164": 38,
+      "4664024186922": 63,
+      "4664024187267": 7,
+      "4664024187184": 4,
+      "4664024186710": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596911&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596911&type=464",
@@ -8899,6 +10631,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:24.513795+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596911&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596911&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -8908,8 +10644,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 962,
     "uikTvd": "4664060249624",
+    "uikName": "УИК №962",
     "tikTvd": "26620002596911",
     "tikName": "Талицкая ",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 513,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 490,
@@ -8925,12 +10665,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 220,
-      "Исаев Роман Васильевич": 22,
-      "Крылова Наталья Владимировна": 52,
-      "Прокашева Мария Васильевна": 14,
-      "Севастьянов Геннадий Валентинович": 3,
-      "Торощин Игорь Андреевич": 29
+      "4664024187128": 220,
+      "4664024187164": 22,
+      "4664024186922": 52,
+      "4664024187267": 14,
+      "4664024187184": 3,
+      "4664024186710": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596911&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596911&type=464",
@@ -8940,6 +10680,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:24.513795+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596911&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596911&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -8949,8 +10693,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 963,
     "uikTvd": "4664060249625",
+    "uikName": "УИК №963",
     "tikTvd": "26620002596911",
     "tikName": "Талицкая ",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 138,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 110,
@@ -8966,12 +10714,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 26,
-      "Исаев Роман Васильевич": 9,
-      "Крылова Наталья Владимировна": 33,
-      "Прокашева Мария Васильевна": 5,
-      "Севастьянов Геннадий Валентинович": 2,
-      "Торощин Игорь Андреевич": 24
+      "4664024187128": 26,
+      "4664024187164": 9,
+      "4664024186922": 33,
+      "4664024187267": 5,
+      "4664024187184": 2,
+      "4664024186710": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596911&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596911&type=464",
@@ -8981,6 +10729,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:24.513795+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596911&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596911&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -8990,8 +10742,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 965,
     "uikTvd": "4664060249626",
+    "uikName": "УИК №965",
     "tikTvd": "26620002596911",
     "tikName": "Талицкая ",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 273,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 250,
@@ -9007,12 +10763,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 132,
-      "Исаев Роман Васильевич": 18,
-      "Крылова Наталья Владимировна": 32,
-      "Прокашева Мария Васильевна": 1,
-      "Севастьянов Геннадий Валентинович": 4,
-      "Торощин Игорь Андреевич": 11
+      "4664024187128": 132,
+      "4664024187164": 18,
+      "4664024186922": 32,
+      "4664024187267": 1,
+      "4664024187184": 4,
+      "4664024186710": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596911&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596911&type=464",
@@ -9022,6 +10778,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:24.513795+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596911&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596911&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -9031,8 +10791,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 966,
     "uikTvd": "4664060249627",
+    "uikName": "УИК №966",
     "tikTvd": "26620002596911",
     "tikName": "Талицкая ",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 393,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 300,
@@ -9048,12 +10812,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 172,
-      "Исаев Роман Васильевич": 23,
-      "Крылова Наталья Владимировна": 44,
-      "Прокашева Мария Васильевна": 9,
-      "Севастьянов Геннадий Валентинович": 3,
-      "Торощин Игорь Андреевич": 20
+      "4664024187128": 172,
+      "4664024187164": 23,
+      "4664024186922": 44,
+      "4664024187267": 9,
+      "4664024187184": 3,
+      "4664024186710": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596911&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596911&type=464",
@@ -9063,6 +10827,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:24.513795+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596911&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596911&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -9072,8 +10840,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 967,
     "uikTvd": "4664060249628",
+    "uikName": "УИК №967",
     "tikTvd": "26620002596911",
     "tikName": "Талицкая ",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 784,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 600,
@@ -9089,12 +10861,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 265,
-      "Исаев Роман Васильевич": 41,
-      "Крылова Наталья Владимировна": 111,
-      "Прокашева Мария Васильевна": 18,
-      "Севастьянов Геннадий Валентинович": 10,
-      "Торощин Игорь Андреевич": 29
+      "4664024187128": 265,
+      "4664024187164": 41,
+      "4664024186922": 111,
+      "4664024187267": 18,
+      "4664024187184": 10,
+      "4664024186710": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596911&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596911&type=464",
@@ -9104,6 +10876,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:24.513795+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596911&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596911&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -9113,8 +10889,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 968,
     "uikTvd": "4664060249629",
+    "uikName": "УИК №968",
     "tikTvd": "26620002596911",
     "tikName": "Талицкая ",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 202,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 200,
@@ -9130,12 +10910,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 133,
-      "Исаев Роман Васильевич": 4,
-      "Крылова Наталья Владимировна": 21,
-      "Прокашева Мария Васильевна": 1,
-      "Севастьянов Геннадий Валентинович": 2,
-      "Торощин Игорь Андреевич": 5
+      "4664024187128": 133,
+      "4664024187164": 4,
+      "4664024186922": 21,
+      "4664024187267": 1,
+      "4664024187184": 2,
+      "4664024186710": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596911&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596911&type=464",
@@ -9145,6 +10925,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:24.513795+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596911&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596911&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -9154,8 +10938,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 969,
     "uikTvd": "4664060249630",
+    "uikName": "УИК №969",
     "tikTvd": "26620002596911",
     "tikName": "Талицкая ",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 111,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 100,
@@ -9171,12 +10959,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 22,
-      "Исаев Роман Васильевич": 6,
-      "Крылова Наталья Владимировна": 16,
-      "Прокашева Мария Васильевна": 0,
-      "Севастьянов Геннадий Валентинович": 1,
-      "Торощин Игорь Андреевич": 7
+      "4664024187128": 22,
+      "4664024187164": 6,
+      "4664024186922": 16,
+      "4664024187267": 0,
+      "4664024187184": 1,
+      "4664024186710": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596911&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596911&type=464",
@@ -9186,6 +10974,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:24.513795+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596911&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596911&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -9195,8 +10987,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 970,
     "uikTvd": "4664060249631",
+    "uikName": "УИК №970",
     "tikTvd": "26620002596911",
     "tikName": "Талицкая ",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 560,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 500,
@@ -9212,12 +11008,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 214,
-      "Исаев Роман Васильевич": 32,
-      "Крылова Наталья Владимировна": 44,
-      "Прокашева Мария Васильевна": 7,
-      "Севастьянов Геннадий Валентинович": 4,
-      "Торощин Игорь Андреевич": 19
+      "4664024187128": 214,
+      "4664024187164": 32,
+      "4664024186922": 44,
+      "4664024187267": 7,
+      "4664024187184": 4,
+      "4664024186710": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596911&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596911&type=464",
@@ -9227,6 +11023,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:24.513795+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596911&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596911&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -9236,8 +11036,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 971,
     "uikTvd": "4664060249632",
+    "uikName": "УИК №971",
     "tikTvd": "26620002596911",
     "tikName": "Талицкая ",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 159,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 150,
@@ -9253,12 +11057,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 37,
-      "Исаев Роман Васильевич": 8,
-      "Крылова Наталья Владимировна": 16,
-      "Прокашева Мария Васильевна": 0,
-      "Севастьянов Геннадий Валентинович": 5,
-      "Торощин Игорь Андреевич": 10
+      "4664024187128": 37,
+      "4664024187164": 8,
+      "4664024186922": 16,
+      "4664024187267": 0,
+      "4664024187184": 5,
+      "4664024186710": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596911&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596911&type=464",
@@ -9268,6 +11072,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:24.513795+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596911&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596911&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -9277,8 +11085,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 972,
     "uikTvd": "4664060249633",
+    "uikName": "УИК №972",
     "tikTvd": "26620002596911",
     "tikName": "Талицкая ",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 60,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 50,
@@ -9294,12 +11106,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 35,
-      "Исаев Роман Васильевич": 2,
-      "Крылова Наталья Владимировна": 3,
-      "Прокашева Мария Васильевна": 0,
-      "Севастьянов Геннадий Валентинович": 0,
-      "Торощин Игорь Андреевич": 3
+      "4664024187128": 35,
+      "4664024187164": 2,
+      "4664024186922": 3,
+      "4664024187267": 0,
+      "4664024187184": 0,
+      "4664024186710": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596911&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596911&type=464",
@@ -9309,6 +11121,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:24.513795+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596911&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596911&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -9318,8 +11134,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 973,
     "uikTvd": "4664060249634",
+    "uikName": "УИК №973",
     "tikTvd": "26620002596911",
     "tikName": "Талицкая ",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1635,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1200,
@@ -9335,12 +11155,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 412,
-      "Исаев Роман Васильевич": 69,
-      "Крылова Наталья Владимировна": 212,
-      "Прокашева Мария Васильевна": 16,
-      "Севастьянов Геннадий Валентинович": 14,
-      "Торощин Игорь Андреевич": 57
+      "4664024187128": 412,
+      "4664024187164": 69,
+      "4664024186922": 212,
+      "4664024187267": 16,
+      "4664024187184": 14,
+      "4664024186710": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596911&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596911&type=464",
@@ -9350,6 +11170,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:24.513795+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596911&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596911&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -9359,8 +11183,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 974,
     "uikTvd": "4664060249635",
+    "uikName": "УИК №974",
     "tikTvd": "26620002596911",
     "tikName": "Талицкая ",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 272,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 250,
@@ -9376,12 +11204,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 172,
-      "Исаев Роман Васильевич": 10,
-      "Крылова Наталья Владимировна": 22,
-      "Прокашева Мария Васильевна": 2,
-      "Севастьянов Геннадий Валентинович": 2,
-      "Торощин Игорь Андреевич": 15
+      "4664024187128": 172,
+      "4664024187164": 10,
+      "4664024186922": 22,
+      "4664024187267": 2,
+      "4664024187184": 2,
+      "4664024186710": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596911&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596911&type=464",
@@ -9391,6 +11219,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:24.513795+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596911&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596911&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -9400,8 +11232,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 975,
     "uikTvd": "4664060249636",
+    "uikName": "УИК №975",
     "tikTvd": "26620002596911",
     "tikName": "Талицкая ",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 359,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 300,
@@ -9417,12 +11253,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 117,
-      "Исаев Роман Васильевич": 17,
-      "Крылова Наталья Владимировна": 34,
-      "Прокашева Мария Васильевна": 11,
-      "Севастьянов Геннадий Валентинович": 4,
-      "Торощин Игорь Андреевич": 12
+      "4664024187128": 117,
+      "4664024187164": 17,
+      "4664024186922": 34,
+      "4664024187267": 11,
+      "4664024187184": 4,
+      "4664024186710": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596911&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596911&type=464",
@@ -9432,6 +11268,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:24.513795+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596911&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596911&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -9441,8 +11281,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 976,
     "uikTvd": "4664060249637",
+    "uikName": "УИК №976",
     "tikTvd": "26620002596911",
     "tikName": "Талицкая ",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 190,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 150,
@@ -9458,12 +11302,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 58,
-      "Исаев Роман Васильевич": 11,
-      "Крылова Наталья Владимировна": 20,
-      "Прокашева Мария Васильевна": 0,
-      "Севастьянов Геннадий Валентинович": 1,
-      "Торощин Игорь Андреевич": 11
+      "4664024187128": 58,
+      "4664024187164": 11,
+      "4664024186922": 20,
+      "4664024187267": 0,
+      "4664024187184": 1,
+      "4664024186710": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596911&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596911&type=464",
@@ -9473,6 +11317,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:24.513795+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596911&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596911&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -9482,8 +11330,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 977,
     "uikTvd": "4664060249638",
+    "uikName": "УИК №977",
     "tikTvd": "26620002596911",
     "tikName": "Талицкая ",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 507,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 450,
@@ -9499,12 +11351,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 183,
-      "Исаев Роман Васильевич": 30,
-      "Крылова Наталья Владимировна": 77,
-      "Прокашева Мария Васильевна": 8,
-      "Севастьянов Геннадий Валентинович": 7,
-      "Торощин Игорь Андреевич": 23
+      "4664024187128": 183,
+      "4664024187164": 30,
+      "4664024186922": 77,
+      "4664024187267": 8,
+      "4664024187184": 7,
+      "4664024186710": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596911&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596911&type=464",
@@ -9514,6 +11366,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:24.513795+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596911&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596911&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -9523,8 +11379,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 978,
     "uikTvd": "4664060249639",
+    "uikName": "УИК №978",
     "tikTvd": "26620002596911",
     "tikName": "Талицкая ",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 500,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 400,
@@ -9540,12 +11400,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 149,
-      "Исаев Роман Васильевич": 24,
-      "Крылова Наталья Владимировна": 40,
-      "Прокашева Мария Васильевна": 3,
-      "Севастьянов Геннадий Валентинович": 6,
-      "Торощин Игорь Андреевич": 24
+      "4664024187128": 149,
+      "4664024187164": 24,
+      "4664024186922": 40,
+      "4664024187267": 3,
+      "4664024187184": 6,
+      "4664024186710": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596911&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596911&type=464",
@@ -9555,6 +11415,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:24.513795+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596911&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596911&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -9564,8 +11428,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 979,
     "uikTvd": "4664060249640",
+    "uikName": "УИК №979",
     "tikTvd": "26620002596911",
     "tikName": "Талицкая ",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 203,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 200,
@@ -9581,12 +11449,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 94,
-      "Исаев Роман Васильевич": 13,
-      "Крылова Наталья Владимировна": 14,
-      "Прокашева Мария Васильевна": 3,
-      "Севастьянов Геннадий Валентинович": 1,
-      "Торощин Игорь Андреевич": 5
+      "4664024187128": 94,
+      "4664024187164": 13,
+      "4664024186922": 14,
+      "4664024187267": 3,
+      "4664024187184": 1,
+      "4664024186710": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596911&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596911&type=464",
@@ -9596,6 +11464,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:24.513795+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596911&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596911&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -9605,8 +11477,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 980,
     "uikTvd": "4664060249641",
+    "uikName": "УИК №980",
     "tikTvd": "26620002596911",
     "tikName": "Талицкая ",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 822,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 600,
@@ -9622,12 +11498,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 303,
-      "Исаев Роман Васильевич": 32,
-      "Крылова Наталья Владимировна": 77,
-      "Прокашева Мария Васильевна": 10,
-      "Севастьянов Геннадий Валентинович": 3,
-      "Торощин Игорь Андреевич": 35
+      "4664024187128": 303,
+      "4664024187164": 32,
+      "4664024186922": 77,
+      "4664024187267": 10,
+      "4664024187184": 3,
+      "4664024186710": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596911&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596911&type=464",
@@ -9637,6 +11513,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:24.513795+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596911&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596911&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -9646,8 +11526,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 981,
     "uikTvd": "4664060249642",
+    "uikName": "УИК №981",
     "tikTvd": "26620002596911",
     "tikName": "Талицкая ",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 405,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 300,
@@ -9663,12 +11547,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 171,
-      "Исаев Роман Васильевич": 24,
-      "Крылова Наталья Владимировна": 52,
-      "Прокашева Мария Васильевна": 5,
-      "Севастьянов Геннадий Валентинович": 1,
-      "Торощин Игорь Андреевич": 29
+      "4664024187128": 171,
+      "4664024187164": 24,
+      "4664024186922": 52,
+      "4664024187267": 5,
+      "4664024187184": 1,
+      "4664024186710": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596911&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596911&type=464",
@@ -9678,6 +11562,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:24.513795+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596911&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596911&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -9687,8 +11575,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 982,
     "uikTvd": "4664060249643",
+    "uikName": "УИК №982",
     "tikTvd": "26620002596911",
     "tikName": "Талицкая ",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 454,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 350,
@@ -9704,12 +11596,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 155,
-      "Исаев Роман Васильевич": 10,
-      "Крылова Наталья Владимировна": 45,
-      "Прокашева Мария Васильевна": 5,
-      "Севастьянов Геннадий Валентинович": 3,
-      "Торощин Игорь Андреевич": 14
+      "4664024187128": 155,
+      "4664024187164": 10,
+      "4664024186922": 45,
+      "4664024187267": 5,
+      "4664024187184": 3,
+      "4664024186710": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596911&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596911&type=464",
@@ -9719,6 +11611,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:24.513795+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596911&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596911&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -9728,8 +11624,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 984,
     "uikTvd": "4664060249644",
+    "uikName": "УИК №984",
     "tikTvd": "26620002596911",
     "tikName": "Талицкая ",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 699,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 500,
@@ -9745,12 +11645,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 191,
-      "Исаев Роман Васильевич": 45,
-      "Крылова Наталья Владимировна": 128,
-      "Прокашева Мария Васильевна": 13,
-      "Севастьянов Геннадий Валентинович": 13,
-      "Торощин Игорь Андреевич": 33
+      "4664024187128": 191,
+      "4664024187164": 45,
+      "4664024186922": 128,
+      "4664024187267": 13,
+      "4664024187184": 13,
+      "4664024186710": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596911&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596911&type=464",
@@ -9760,6 +11660,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:24.513795+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596911&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596911&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -9769,8 +11673,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 986,
     "uikTvd": "4664060249645",
+    "uikName": "УИК №986",
     "tikTvd": "26620002596911",
     "tikName": "Талицкая ",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 858,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 700,
@@ -9786,12 +11694,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 259,
-      "Исаев Роман Васильевич": 51,
-      "Крылова Наталья Владимировна": 56,
-      "Прокашева Мария Васильевна": 18,
-      "Севастьянов Геннадий Валентинович": 6,
-      "Торощин Игорь Андреевич": 51
+      "4664024187128": 259,
+      "4664024187164": 51,
+      "4664024186922": 56,
+      "4664024187267": 18,
+      "4664024187184": 6,
+      "4664024186710": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596911&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596911&type=464",
@@ -9801,6 +11709,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:24.513795+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596911&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596911&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -9810,8 +11722,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 987,
     "uikTvd": "4664060255514",
+    "uikName": "УИК №987",
     "tikTvd": "26620002596911",
     "tikName": "Талицкая ",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 3,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 200,
@@ -9827,12 +11743,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 0,
-      "Исаев Роман Васильевич": 1,
-      "Крылова Наталья Владимировна": 0,
-      "Прокашева Мария Васильевна": 1,
-      "Севастьянов Геннадий Валентинович": 1,
-      "Торощин Игорь Андреевич": 0
+      "4664024187128": 0,
+      "4664024187164": 1,
+      "4664024186922": 0,
+      "4664024187267": 1,
+      "4664024187184": 1,
+      "4664024186710": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596911&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596911&type=464",
@@ -9842,6 +11758,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:24.513795+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596911&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596911&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -9851,8 +11771,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 697,
     "uikTvd": "4664050181257",
+    "uikName": "УИК №697",
     "tikTvd": "26620002596912",
     "tikName": "Пышминская ",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1684,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1500,
@@ -9868,12 +11792,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 411,
-      "Исаев Роман Васильевич": 58,
-      "Крылова Наталья Владимировна": 304,
-      "Прокашева Мария Васильевна": 20,
-      "Севастьянов Геннадий Валентинович": 11,
-      "Торощин Игорь Андреевич": 90
+      "4664024187128": 411,
+      "4664024187164": 58,
+      "4664024186922": 304,
+      "4664024187267": 20,
+      "4664024187184": 11,
+      "4664024186710": 90
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596912&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596912&type=464",
@@ -9883,6 +11807,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:24.681735+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596912&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596912&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -9892,8 +11820,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 698,
     "uikTvd": "4664050181258",
+    "uikName": "УИК №698",
     "tikTvd": "26620002596912",
     "tikName": "Пышминская ",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1117,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1000,
@@ -9909,12 +11841,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 253,
-      "Исаев Роман Васильевич": 36,
-      "Крылова Наталья Владимировна": 252,
-      "Прокашева Мария Васильевна": 12,
-      "Севастьянов Геннадий Валентинович": 8,
-      "Торощин Игорь Андреевич": 57
+      "4664024187128": 253,
+      "4664024187164": 36,
+      "4664024186922": 252,
+      "4664024187267": 12,
+      "4664024187184": 8,
+      "4664024186710": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596912&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596912&type=464",
@@ -9924,6 +11856,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:24.681735+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596912&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596912&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -9933,8 +11869,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 699,
     "uikTvd": "4664050181259",
+    "uikName": "УИК №699",
     "tikTvd": "26620002596912",
     "tikName": "Пышминская ",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1505,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1400,
@@ -9950,12 +11890,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 392,
-      "Исаев Роман Васильевич": 58,
-      "Крылова Наталья Владимировна": 284,
-      "Прокашева Мария Васильевна": 12,
-      "Севастьянов Геннадий Валентинович": 18,
-      "Торощин Игорь Андреевич": 75
+      "4664024187128": 392,
+      "4664024187164": 58,
+      "4664024186922": 284,
+      "4664024187267": 12,
+      "4664024187184": 18,
+      "4664024186710": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596912&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596912&type=464",
@@ -9965,6 +11905,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:24.681735+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596912&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596912&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -9974,8 +11918,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 700,
     "uikTvd": "4664050181260",
+    "uikName": "УИК №700",
     "tikTvd": "26620002596912",
     "tikName": "Пышминская ",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1747,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1600,
@@ -9991,12 +11939,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 385,
-      "Исаев Роман Васильевич": 76,
-      "Крылова Наталья Владимировна": 357,
-      "Прокашева Мария Васильевна": 18,
-      "Севастьянов Геннадий Валентинович": 13,
-      "Торощин Игорь Андреевич": 83
+      "4664024187128": 385,
+      "4664024187164": 76,
+      "4664024186922": 357,
+      "4664024187267": 18,
+      "4664024187184": 13,
+      "4664024186710": 83
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596912&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596912&type=464",
@@ -10006,6 +11954,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:24.681735+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596912&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596912&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -10015,8 +11967,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 701,
     "uikTvd": "4664050181261",
+    "uikName": "УИК №701",
     "tikTvd": "26620002596912",
     "tikName": "Пышминская ",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1636,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1500,
@@ -10032,12 +11988,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 333,
-      "Исаев Роман Васильевич": 65,
-      "Крылова Наталья Владимировна": 271,
-      "Прокашева Мария Васильевна": 12,
-      "Севастьянов Геннадий Валентинович": 11,
-      "Торощин Игорь Андреевич": 75
+      "4664024187128": 333,
+      "4664024187164": 65,
+      "4664024186922": 271,
+      "4664024187267": 12,
+      "4664024187184": 11,
+      "4664024186710": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596912&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596912&type=464",
@@ -10047,6 +12003,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:24.681735+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596912&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596912&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -10056,8 +12016,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 702,
     "uikTvd": "4664050181262",
+    "uikName": "УИК №702",
     "tikTvd": "26620002596912",
     "tikName": "Пышминская ",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 241,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 200,
@@ -10073,12 +12037,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 66,
-      "Исаев Роман Васильевич": 11,
-      "Крылова Наталья Владимировна": 32,
-      "Прокашева Мария Васильевна": 4,
-      "Севастьянов Геннадий Валентинович": 3,
-      "Торощин Игорь Андреевич": 9
+      "4664024187128": 66,
+      "4664024187164": 11,
+      "4664024186922": 32,
+      "4664024187267": 4,
+      "4664024187184": 3,
+      "4664024186710": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596912&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596912&type=464",
@@ -10088,6 +12052,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:24.681735+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596912&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596912&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -10097,8 +12065,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 703,
     "uikTvd": "4664050181263",
+    "uikName": "УИК №703",
     "tikTvd": "26620002596912",
     "tikName": "Пышминская ",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 330,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 300,
@@ -10114,12 +12086,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 98,
-      "Исаев Роман Васильевич": 7,
-      "Крылова Наталья Владимировна": 71,
-      "Прокашева Мария Васильевна": 4,
-      "Севастьянов Геннадий Валентинович": 2,
-      "Торощин Игорь Андреевич": 17
+      "4664024187128": 98,
+      "4664024187164": 7,
+      "4664024186922": 71,
+      "4664024187267": 4,
+      "4664024187184": 2,
+      "4664024186710": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596912&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596912&type=464",
@@ -10129,6 +12101,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:24.681735+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596912&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596912&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -10138,8 +12114,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 704,
     "uikTvd": "4664050181264",
+    "uikName": "УИК №704",
     "tikTvd": "26620002596912",
     "tikName": "Пышминская ",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 630,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 600,
@@ -10155,12 +12135,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 169,
-      "Исаев Роман Васильевич": 21,
-      "Крылова Наталья Владимировна": 95,
-      "Прокашева Мария Васильевна": 6,
-      "Севастьянов Геннадий Валентинович": 5,
-      "Торощин Игорь Андреевич": 22
+      "4664024187128": 169,
+      "4664024187164": 21,
+      "4664024186922": 95,
+      "4664024187267": 6,
+      "4664024187184": 5,
+      "4664024186710": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596912&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596912&type=464",
@@ -10170,6 +12150,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:24.681735+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596912&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596912&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -10179,8 +12163,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 705,
     "uikTvd": "4664050181265",
+    "uikName": "УИК №705",
     "tikTvd": "26620002596912",
     "tikName": "Пышминская ",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 163,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 150,
@@ -10196,12 +12184,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 47,
-      "Исаев Роман Васильевич": 7,
-      "Крылова Наталья Владимировна": 21,
-      "Прокашева Мария Васильевна": 1,
-      "Севастьянов Геннадий Валентинович": 2,
-      "Торощин Игорь Андреевич": 5
+      "4664024187128": 47,
+      "4664024187164": 7,
+      "4664024186922": 21,
+      "4664024187267": 1,
+      "4664024187184": 2,
+      "4664024186710": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596912&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596912&type=464",
@@ -10211,6 +12199,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:24.681735+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596912&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596912&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   },
   {
@@ -10220,8 +12212,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 706,
     "uikTvd": "4664050181266",
+    "uikName": "УИК №706",
     "tikTvd": "26620002596912",
     "tikName": "Пышминская ",
+    "regionCode": "66",
+    "regionTvd": "100100225883658",
+    "regionName": "Свердловская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 718,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 625,
@@ -10237,12 +12233,12 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Иванов Максим Анатольевич": 181,
-      "Исаев Роман Васильевич": 19,
-      "Крылова Наталья Владимировна": 131,
-      "Прокашева Мария Васильевна": 14,
-      "Севастьянов Геннадий Валентинович": 6,
-      "Торощин Игорь Андреевич": 32
+      "4664024187128": 181,
+      "4664024187164": 19,
+      "4664024186922": 131,
+      "4664024187267": 14,
+      "4664024187184": 6,
+      "4664024186710": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596912&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596912&type=464",
@@ -10252,6 +12248,10 @@ export const duma_2021_uik_463_region_66_part_006 = [
       "retrievedAt": "2026-08-26T08:06:24.681735+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000226&tvd=26620002596912&vrn=100100225883172&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620002596912&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100225883663"
     }
   }
 ] satisfies readonly UikProtocol[];

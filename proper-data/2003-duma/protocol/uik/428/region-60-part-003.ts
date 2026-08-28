@@ -42,17 +42,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 7,
-      "Кузнецов Михаил Варфоломеевич": 70,
-      "Лабунина Людмила Павловна": 0,
-      "Лисин Андрей Геннадьевич": 2,
-      "Митропольский Виктор Георгиевич": 0,
-      "Никитин Владимир Степанович": 11,
-      "Сигуткин Алексей Алексеевич": 67,
-      "Смирнов Игорь Евгеньевич": 7,
-      "Темин Василий Сергеевич": 13,
-      "Шлосберг Лев Маркович": 9,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000190400": 7,
+      "gas:candidate-vibid:260200070537": 70,
+      "gas:candidate-vibid:260200074054": 0,
+      "gas:candidate-vibid:260200070585": 2,
+      "gas:candidate-vibid:260200070606": 0,
+      "gas:candidate-vibid:1001000121893": 11,
+      "gas:candidate-vibid:1001000225972": 67,
+      "gas:candidate-vibid:1001000220835": 7,
+      "gas:candidate-vibid:1001000136103": 13,
+      "gas:candidate-vibid:1001000112244": 9,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070483&region=0&sub_region=0&type=429",
@@ -102,17 +102,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 6,
-      "Кузнецов Михаил Варфоломеевич": 52,
-      "Лабунина Людмила Павловна": 0,
-      "Лисин Андрей Геннадьевич": 5,
-      "Митропольский Виктор Георгиевич": 0,
-      "Никитин Владимир Степанович": 6,
-      "Сигуткин Алексей Алексеевич": 13,
-      "Смирнов Игорь Евгеньевич": 0,
-      "Темин Василий Сергеевич": 1,
-      "Шлосберг Лев Маркович": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000190400": 6,
+      "gas:candidate-vibid:260200070537": 52,
+      "gas:candidate-vibid:260200074054": 0,
+      "gas:candidate-vibid:260200070585": 5,
+      "gas:candidate-vibid:260200070606": 0,
+      "gas:candidate-vibid:1001000121893": 6,
+      "gas:candidate-vibid:1001000225972": 13,
+      "gas:candidate-vibid:1001000220835": 0,
+      "gas:candidate-vibid:1001000136103": 1,
+      "gas:candidate-vibid:1001000112244": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070483&region=0&sub_region=0&type=429",
@@ -162,17 +162,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 11,
-      "Кузнецов Михаил Варфоломеевич": 5,
-      "Лабунина Людмила Павловна": 2,
-      "Лисин Андрей Геннадьевич": 0,
-      "Митропольский Виктор Георгиевич": 0,
-      "Никитин Владимир Степанович": 7,
-      "Сигуткин Алексей Алексеевич": 30,
-      "Смирнов Игорь Евгеньевич": 1,
-      "Темин Василий Сергеевич": 2,
-      "Шлосберг Лев Маркович": 1,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000190400": 11,
+      "gas:candidate-vibid:260200070537": 5,
+      "gas:candidate-vibid:260200074054": 2,
+      "gas:candidate-vibid:260200070585": 0,
+      "gas:candidate-vibid:260200070606": 0,
+      "gas:candidate-vibid:1001000121893": 7,
+      "gas:candidate-vibid:1001000225972": 30,
+      "gas:candidate-vibid:1001000220835": 1,
+      "gas:candidate-vibid:1001000136103": 2,
+      "gas:candidate-vibid:1001000112244": 1,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070483&region=0&sub_region=0&type=429",
@@ -222,17 +222,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 53,
-      "Кузнецов Михаил Варфоломеевич": 99,
-      "Лабунина Людмила Павловна": 8,
-      "Лисин Андрей Геннадьевич": 4,
-      "Митропольский Виктор Георгиевич": 10,
-      "Никитин Владимир Степанович": 81,
-      "Сигуткин Алексей Алексеевич": 224,
-      "Смирнов Игорь Евгеньевич": 20,
-      "Темин Василий Сергеевич": 16,
-      "Шлосберг Лев Маркович": 4,
-      "Против всех": 36
+      "gas:candidate-vibid:1001000190400": 53,
+      "gas:candidate-vibid:260200070537": 99,
+      "gas:candidate-vibid:260200074054": 8,
+      "gas:candidate-vibid:260200070585": 4,
+      "gas:candidate-vibid:260200070606": 10,
+      "gas:candidate-vibid:1001000121893": 81,
+      "gas:candidate-vibid:1001000225972": 224,
+      "gas:candidate-vibid:1001000220835": 20,
+      "gas:candidate-vibid:1001000136103": 16,
+      "gas:candidate-vibid:1001000112244": 4,
+      "special:against-all": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070483&region=0&sub_region=0&type=429",
@@ -282,17 +282,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 35,
-      "Кузнецов Михаил Варфоломеевич": 61,
-      "Лабунина Людмила Павловна": 4,
-      "Лисин Андрей Геннадьевич": 7,
-      "Митропольский Виктор Георгиевич": 1,
-      "Никитин Владимир Степанович": 43,
-      "Сигуткин Алексей Алексеевич": 104,
-      "Смирнов Игорь Евгеньевич": 8,
-      "Темин Василий Сергеевич": 9,
-      "Шлосберг Лев Маркович": 5,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000190400": 35,
+      "gas:candidate-vibid:260200070537": 61,
+      "gas:candidate-vibid:260200074054": 4,
+      "gas:candidate-vibid:260200070585": 7,
+      "gas:candidate-vibid:260200070606": 1,
+      "gas:candidate-vibid:1001000121893": 43,
+      "gas:candidate-vibid:1001000225972": 104,
+      "gas:candidate-vibid:1001000220835": 8,
+      "gas:candidate-vibid:1001000136103": 9,
+      "gas:candidate-vibid:1001000112244": 5,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070483&region=0&sub_region=0&type=429",
@@ -342,17 +342,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 10,
-      "Кузнецов Михаил Варфоломеевич": 28,
-      "Лабунина Людмила Павловна": 1,
-      "Лисин Андрей Геннадьевич": 1,
-      "Митропольский Виктор Георгиевич": 0,
-      "Никитин Владимир Степанович": 15,
-      "Сигуткин Алексей Алексеевич": 69,
-      "Смирнов Игорь Евгеньевич": 1,
-      "Темин Василий Сергеевич": 6,
-      "Шлосберг Лев Маркович": 1,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000190400": 10,
+      "gas:candidate-vibid:260200070537": 28,
+      "gas:candidate-vibid:260200074054": 1,
+      "gas:candidate-vibid:260200070585": 1,
+      "gas:candidate-vibid:260200070606": 0,
+      "gas:candidate-vibid:1001000121893": 15,
+      "gas:candidate-vibid:1001000225972": 69,
+      "gas:candidate-vibid:1001000220835": 1,
+      "gas:candidate-vibid:1001000136103": 6,
+      "gas:candidate-vibid:1001000112244": 1,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070483&region=0&sub_region=0&type=429",
@@ -402,17 +402,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 51,
-      "Кузнецов Михаил Варфоломеевич": 117,
-      "Лабунина Людмила Павловна": 4,
-      "Лисин Андрей Геннадьевич": 6,
-      "Митропольский Виктор Георгиевич": 3,
-      "Никитин Владимир Степанович": 56,
-      "Сигуткин Алексей Алексеевич": 159,
-      "Смирнов Игорь Евгеньевич": 5,
-      "Темин Василий Сергеевич": 10,
-      "Шлосберг Лев Маркович": 3,
-      "Против всех": 26
+      "gas:candidate-vibid:1001000190400": 51,
+      "gas:candidate-vibid:260200070537": 117,
+      "gas:candidate-vibid:260200074054": 4,
+      "gas:candidate-vibid:260200070585": 6,
+      "gas:candidate-vibid:260200070606": 3,
+      "gas:candidate-vibid:1001000121893": 56,
+      "gas:candidate-vibid:1001000225972": 159,
+      "gas:candidate-vibid:1001000220835": 5,
+      "gas:candidate-vibid:1001000136103": 10,
+      "gas:candidate-vibid:1001000112244": 3,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070483&region=0&sub_region=0&type=429",
@@ -462,17 +462,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 44,
-      "Кузнецов Михаил Варфоломеевич": 43,
-      "Лабунина Людмила Павловна": 1,
-      "Лисин Андрей Геннадьевич": 2,
-      "Митропольский Виктор Георгиевич": 0,
-      "Никитин Владимир Степанович": 14,
-      "Сигуткин Алексей Алексеевич": 52,
-      "Смирнов Игорь Евгеньевич": 7,
-      "Темин Василий Сергеевич": 2,
-      "Шлосберг Лев Маркович": 1,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000190400": 44,
+      "gas:candidate-vibid:260200070537": 43,
+      "gas:candidate-vibid:260200074054": 1,
+      "gas:candidate-vibid:260200070585": 2,
+      "gas:candidate-vibid:260200070606": 0,
+      "gas:candidate-vibid:1001000121893": 14,
+      "gas:candidate-vibid:1001000225972": 52,
+      "gas:candidate-vibid:1001000220835": 7,
+      "gas:candidate-vibid:1001000136103": 2,
+      "gas:candidate-vibid:1001000112244": 1,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070483&region=0&sub_region=0&type=429",
@@ -522,17 +522,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 28,
-      "Кузнецов Михаил Варфоломеевич": 14,
-      "Лабунина Людмила Павловна": 3,
-      "Лисин Андрей Геннадьевич": 5,
-      "Митропольский Виктор Георгиевич": 2,
-      "Никитин Владимир Степанович": 13,
-      "Сигуткин Алексей Алексеевич": 57,
-      "Смирнов Игорь Евгеньевич": 9,
-      "Темин Василий Сергеевич": 5,
-      "Шлосберг Лев Маркович": 2,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000190400": 28,
+      "gas:candidate-vibid:260200070537": 14,
+      "gas:candidate-vibid:260200074054": 3,
+      "gas:candidate-vibid:260200070585": 5,
+      "gas:candidate-vibid:260200070606": 2,
+      "gas:candidate-vibid:1001000121893": 13,
+      "gas:candidate-vibid:1001000225972": 57,
+      "gas:candidate-vibid:1001000220835": 9,
+      "gas:candidate-vibid:1001000136103": 5,
+      "gas:candidate-vibid:1001000112244": 2,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070483&region=0&sub_region=0&type=429",
@@ -582,17 +582,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 160,
-      "Кузнецов Михаил Варфоломеевич": 171,
-      "Лабунина Людмила Павловна": 8,
-      "Лисин Андрей Геннадьевич": 22,
-      "Митропольский Виктор Георгиевич": 32,
-      "Никитин Владимир Степанович": 124,
-      "Сигуткин Алексей Алексеевич": 424,
-      "Смирнов Игорь Евгеньевич": 40,
-      "Темин Василий Сергеевич": 37,
-      "Шлосберг Лев Маркович": 35,
-      "Против всех": 115
+      "gas:candidate-vibid:1001000190400": 160,
+      "gas:candidate-vibid:260200070537": 171,
+      "gas:candidate-vibid:260200074054": 8,
+      "gas:candidate-vibid:260200070585": 22,
+      "gas:candidate-vibid:260200070606": 32,
+      "gas:candidate-vibid:1001000121893": 124,
+      "gas:candidate-vibid:1001000225972": 424,
+      "gas:candidate-vibid:1001000220835": 40,
+      "gas:candidate-vibid:1001000136103": 37,
+      "gas:candidate-vibid:1001000112244": 35,
+      "special:against-all": 115
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070483&region=0&sub_region=0&type=429",
@@ -642,17 +642,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 73,
-      "Кузнецов Михаил Варфоломеевич": 124,
-      "Лабунина Людмила Павловна": 3,
-      "Лисин Андрей Геннадьевич": 14,
-      "Митропольский Виктор Георгиевич": 2,
-      "Никитин Владимир Степанович": 125,
-      "Сигуткин Алексей Алексеевич": 231,
-      "Смирнов Игорь Евгеньевич": 19,
-      "Темин Василий Сергеевич": 10,
-      "Шлосберг Лев Маркович": 12,
-      "Против всех": 68
+      "gas:candidate-vibid:1001000190400": 73,
+      "gas:candidate-vibid:260200070537": 124,
+      "gas:candidate-vibid:260200074054": 3,
+      "gas:candidate-vibid:260200070585": 14,
+      "gas:candidate-vibid:260200070606": 2,
+      "gas:candidate-vibid:1001000121893": 125,
+      "gas:candidate-vibid:1001000225972": 231,
+      "gas:candidate-vibid:1001000220835": 19,
+      "gas:candidate-vibid:1001000136103": 10,
+      "gas:candidate-vibid:1001000112244": 12,
+      "special:against-all": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070483&region=0&sub_region=0&type=429",
@@ -702,17 +702,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 26,
-      "Кузнецов Михаил Варфоломеевич": 18,
-      "Лабунина Людмила Павловна": 2,
-      "Лисин Андрей Геннадьевич": 3,
-      "Митропольский Виктор Георгиевич": 0,
-      "Никитин Владимир Степанович": 19,
-      "Сигуткин Алексей Алексеевич": 48,
-      "Смирнов Игорь Евгеньевич": 2,
-      "Темин Василий Сергеевич": 2,
-      "Шлосберг Лев Маркович": 1,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000190400": 26,
+      "gas:candidate-vibid:260200070537": 18,
+      "gas:candidate-vibid:260200074054": 2,
+      "gas:candidate-vibid:260200070585": 3,
+      "gas:candidate-vibid:260200070606": 0,
+      "gas:candidate-vibid:1001000121893": 19,
+      "gas:candidate-vibid:1001000225972": 48,
+      "gas:candidate-vibid:1001000220835": 2,
+      "gas:candidate-vibid:1001000136103": 2,
+      "gas:candidate-vibid:1001000112244": 1,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070483&region=0&sub_region=0&type=429",
@@ -762,17 +762,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 11,
-      "Кузнецов Михаил Варфоломеевич": 9,
-      "Лабунина Людмила Павловна": 3,
-      "Лисин Андрей Геннадьевич": 4,
-      "Митропольский Виктор Георгиевич": 5,
-      "Никитин Владимир Степанович": 21,
-      "Сигуткин Алексей Алексеевич": 43,
-      "Смирнов Игорь Евгеньевич": 5,
-      "Темин Василий Сергеевич": 6,
-      "Шлосберг Лев Маркович": 1,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000190400": 11,
+      "gas:candidate-vibid:260200070537": 9,
+      "gas:candidate-vibid:260200074054": 3,
+      "gas:candidate-vibid:260200070585": 4,
+      "gas:candidate-vibid:260200070606": 5,
+      "gas:candidate-vibid:1001000121893": 21,
+      "gas:candidate-vibid:1001000225972": 43,
+      "gas:candidate-vibid:1001000220835": 5,
+      "gas:candidate-vibid:1001000136103": 6,
+      "gas:candidate-vibid:1001000112244": 1,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070483&region=0&sub_region=0&type=429",
@@ -822,17 +822,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 190,
-      "Кузнецов Михаил Варфоломеевич": 156,
-      "Лабунина Людмила Павловна": 28,
-      "Лисин Андрей Геннадьевич": 30,
-      "Митропольский Виктор Георгиевич": 22,
-      "Никитин Владимир Степанович": 121,
-      "Сигуткин Алексей Алексеевич": 436,
-      "Смирнов Игорь Евгеньевич": 42,
-      "Темин Василий Сергеевич": 53,
-      "Шлосберг Лев Маркович": 30,
-      "Против всех": 236
+      "gas:candidate-vibid:1001000190400": 190,
+      "gas:candidate-vibid:260200070537": 156,
+      "gas:candidate-vibid:260200074054": 28,
+      "gas:candidate-vibid:260200070585": 30,
+      "gas:candidate-vibid:260200070606": 22,
+      "gas:candidate-vibid:1001000121893": 121,
+      "gas:candidate-vibid:1001000225972": 436,
+      "gas:candidate-vibid:1001000220835": 42,
+      "gas:candidate-vibid:1001000136103": 53,
+      "gas:candidate-vibid:1001000112244": 30,
+      "special:against-all": 236
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070483&region=0&sub_region=0&type=429",
@@ -882,17 +882,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 21,
-      "Кузнецов Михаил Варфоломеевич": 50,
-      "Лабунина Людмила Павловна": 3,
-      "Лисин Андрей Геннадьевич": 4,
-      "Митропольский Виктор Георгиевич": 2,
-      "Никитин Владимир Степанович": 41,
-      "Сигуткин Алексей Алексеевич": 183,
-      "Смирнов Игорь Евгеньевич": 7,
-      "Темин Василий Сергеевич": 4,
-      "Шлосберг Лев Маркович": 0,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000190400": 21,
+      "gas:candidate-vibid:260200070537": 50,
+      "gas:candidate-vibid:260200074054": 3,
+      "gas:candidate-vibid:260200070585": 4,
+      "gas:candidate-vibid:260200070606": 2,
+      "gas:candidate-vibid:1001000121893": 41,
+      "gas:candidate-vibid:1001000225972": 183,
+      "gas:candidate-vibid:1001000220835": 7,
+      "gas:candidate-vibid:1001000136103": 4,
+      "gas:candidate-vibid:1001000112244": 0,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070483&region=0&sub_region=0&type=429",
@@ -942,17 +942,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 153,
-      "Кузнецов Михаил Варфоломеевич": 121,
-      "Лабунина Людмила Павловна": 5,
-      "Лисин Андрей Геннадьевич": 6,
-      "Митропольский Виктор Георгиевич": 8,
-      "Никитин Владимир Степанович": 92,
-      "Сигуткин Алексей Алексеевич": 145,
-      "Смирнов Игорь Евгеньевич": 6,
-      "Темин Василий Сергеевич": 23,
-      "Шлосберг Лев Маркович": 3,
-      "Против всех": 47
+      "gas:candidate-vibid:1001000190400": 153,
+      "gas:candidate-vibid:260200070537": 121,
+      "gas:candidate-vibid:260200074054": 5,
+      "gas:candidate-vibid:260200070585": 6,
+      "gas:candidate-vibid:260200070606": 8,
+      "gas:candidate-vibid:1001000121893": 92,
+      "gas:candidate-vibid:1001000225972": 145,
+      "gas:candidate-vibid:1001000220835": 6,
+      "gas:candidate-vibid:1001000136103": 23,
+      "gas:candidate-vibid:1001000112244": 3,
+      "special:against-all": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070483&region=0&sub_region=0&type=429",
@@ -1002,17 +1002,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 20,
-      "Кузнецов Михаил Варфоломеевич": 61,
-      "Лабунина Людмила Павловна": 1,
-      "Лисин Андрей Геннадьевич": 2,
-      "Митропольский Виктор Георгиевич": 0,
-      "Никитин Владимир Степанович": 17,
-      "Сигуткин Алексей Алексеевич": 14,
-      "Смирнов Игорь Евгеньевич": 8,
-      "Темин Василий Сергеевич": 5,
-      "Шлосберг Лев Маркович": 1,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000190400": 20,
+      "gas:candidate-vibid:260200070537": 61,
+      "gas:candidate-vibid:260200074054": 1,
+      "gas:candidate-vibid:260200070585": 2,
+      "gas:candidate-vibid:260200070606": 0,
+      "gas:candidate-vibid:1001000121893": 17,
+      "gas:candidate-vibid:1001000225972": 14,
+      "gas:candidate-vibid:1001000220835": 8,
+      "gas:candidate-vibid:1001000136103": 5,
+      "gas:candidate-vibid:1001000112244": 1,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070483&region=0&sub_region=0&type=429",
@@ -1062,17 +1062,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 36,
-      "Кузнецов Михаил Варфоломеевич": 70,
-      "Лабунина Людмила Павловна": 2,
-      "Лисин Андрей Геннадьевич": 6,
-      "Митропольский Виктор Георгиевич": 0,
-      "Никитин Владимир Степанович": 22,
-      "Сигуткин Алексей Алексеевич": 60,
-      "Смирнов Игорь Евгеньевич": 5,
-      "Темин Василий Сергеевич": 4,
-      "Шлосберг Лев Маркович": 1,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000190400": 36,
+      "gas:candidate-vibid:260200070537": 70,
+      "gas:candidate-vibid:260200074054": 2,
+      "gas:candidate-vibid:260200070585": 6,
+      "gas:candidate-vibid:260200070606": 0,
+      "gas:candidate-vibid:1001000121893": 22,
+      "gas:candidate-vibid:1001000225972": 60,
+      "gas:candidate-vibid:1001000220835": 5,
+      "gas:candidate-vibid:1001000136103": 4,
+      "gas:candidate-vibid:1001000112244": 1,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070483&region=0&sub_region=0&type=429",
@@ -1122,17 +1122,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 15,
-      "Кузнецов Михаил Варфоломеевич": 47,
-      "Лабунина Людмила Павловна": 2,
-      "Лисин Андрей Геннадьевич": 3,
-      "Митропольский Виктор Георгиевич": 0,
-      "Никитин Владимир Степанович": 32,
-      "Сигуткин Алексей Алексеевич": 134,
-      "Смирнов Игорь Евгеньевич": 4,
-      "Темин Василий Сергеевич": 2,
-      "Шлосберг Лев Маркович": 1,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000190400": 15,
+      "gas:candidate-vibid:260200070537": 47,
+      "gas:candidate-vibid:260200074054": 2,
+      "gas:candidate-vibid:260200070585": 3,
+      "gas:candidate-vibid:260200070606": 0,
+      "gas:candidate-vibid:1001000121893": 32,
+      "gas:candidate-vibid:1001000225972": 134,
+      "gas:candidate-vibid:1001000220835": 4,
+      "gas:candidate-vibid:1001000136103": 2,
+      "gas:candidate-vibid:1001000112244": 1,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070483&region=0&sub_region=0&type=429",
@@ -1182,17 +1182,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 22,
-      "Кузнецов Михаил Варфоломеевич": 22,
-      "Лабунина Людмила Павловна": 1,
-      "Лисин Андрей Геннадьевич": 2,
-      "Митропольский Виктор Георгиевич": 1,
-      "Никитин Владимир Степанович": 27,
-      "Сигуткин Алексей Алексеевич": 39,
-      "Смирнов Игорь Евгеньевич": 3,
-      "Темин Василий Сергеевич": 0,
-      "Шлосберг Лев Маркович": 3,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000190400": 22,
+      "gas:candidate-vibid:260200070537": 22,
+      "gas:candidate-vibid:260200074054": 1,
+      "gas:candidate-vibid:260200070585": 2,
+      "gas:candidate-vibid:260200070606": 1,
+      "gas:candidate-vibid:1001000121893": 27,
+      "gas:candidate-vibid:1001000225972": 39,
+      "gas:candidate-vibid:1001000220835": 3,
+      "gas:candidate-vibid:1001000136103": 0,
+      "gas:candidate-vibid:1001000112244": 3,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070483&region=0&sub_region=0&type=429",
@@ -1242,17 +1242,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 55,
-      "Кузнецов Михаил Варфоломеевич": 56,
-      "Лабунина Людмила Павловна": 0,
-      "Лисин Андрей Геннадьевич": 6,
-      "Митропольский Виктор Георгиевич": 3,
-      "Никитин Владимир Степанович": 88,
-      "Сигуткин Алексей Алексеевич": 152,
-      "Смирнов Игорь Евгеньевич": 9,
-      "Темин Василий Сергеевич": 8,
-      "Шлосберг Лев Маркович": 2,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000190400": 55,
+      "gas:candidate-vibid:260200070537": 56,
+      "gas:candidate-vibid:260200074054": 0,
+      "gas:candidate-vibid:260200070585": 6,
+      "gas:candidate-vibid:260200070606": 3,
+      "gas:candidate-vibid:1001000121893": 88,
+      "gas:candidate-vibid:1001000225972": 152,
+      "gas:candidate-vibid:1001000220835": 9,
+      "gas:candidate-vibid:1001000136103": 8,
+      "gas:candidate-vibid:1001000112244": 2,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070484&region=0&sub_region=0&type=429",
@@ -1302,17 +1302,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 75,
-      "Кузнецов Михаил Варфоломеевич": 91,
-      "Лабунина Людмила Павловна": 0,
-      "Лисин Андрей Геннадьевич": 1,
-      "Митропольский Виктор Георгиевич": 6,
-      "Никитин Владимир Степанович": 103,
-      "Сигуткин Алексей Алексеевич": 133,
-      "Смирнов Игорь Евгеньевич": 8,
-      "Темин Василий Сергеевич": 16,
-      "Шлосберг Лев Маркович": 0,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000190400": 75,
+      "gas:candidate-vibid:260200070537": 91,
+      "gas:candidate-vibid:260200074054": 0,
+      "gas:candidate-vibid:260200070585": 1,
+      "gas:candidate-vibid:260200070606": 6,
+      "gas:candidate-vibid:1001000121893": 103,
+      "gas:candidate-vibid:1001000225972": 133,
+      "gas:candidate-vibid:1001000220835": 8,
+      "gas:candidate-vibid:1001000136103": 16,
+      "gas:candidate-vibid:1001000112244": 0,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070484&region=0&sub_region=0&type=429",
@@ -1362,17 +1362,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 64,
-      "Кузнецов Михаил Варфоломеевич": 119,
-      "Лабунина Людмила Павловна": 2,
-      "Лисин Андрей Геннадьевич": 9,
-      "Митропольский Виктор Георгиевич": 14,
-      "Никитин Владимир Степанович": 84,
-      "Сигуткин Алексей Алексеевич": 145,
-      "Смирнов Игорь Евгеньевич": 4,
-      "Темин Василий Сергеевич": 13,
-      "Шлосберг Лев Маркович": 5,
-      "Против всех": 30
+      "gas:candidate-vibid:1001000190400": 64,
+      "gas:candidate-vibid:260200070537": 119,
+      "gas:candidate-vibid:260200074054": 2,
+      "gas:candidate-vibid:260200070585": 9,
+      "gas:candidate-vibid:260200070606": 14,
+      "gas:candidate-vibid:1001000121893": 84,
+      "gas:candidate-vibid:1001000225972": 145,
+      "gas:candidate-vibid:1001000220835": 4,
+      "gas:candidate-vibid:1001000136103": 13,
+      "gas:candidate-vibid:1001000112244": 5,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070484&region=0&sub_region=0&type=429",
@@ -1422,17 +1422,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 67,
-      "Кузнецов Михаил Варфоломеевич": 85,
-      "Лабунина Людмила Павловна": 2,
-      "Лисин Андрей Геннадьевич": 5,
-      "Митропольский Виктор Георгиевич": 11,
-      "Никитин Владимир Степанович": 112,
-      "Сигуткин Алексей Алексеевич": 127,
-      "Смирнов Игорь Евгеньевич": 16,
-      "Темин Василий Сергеевич": 13,
-      "Шлосберг Лев Маркович": 9,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000190400": 67,
+      "gas:candidate-vibid:260200070537": 85,
+      "gas:candidate-vibid:260200074054": 2,
+      "gas:candidate-vibid:260200070585": 5,
+      "gas:candidate-vibid:260200070606": 11,
+      "gas:candidate-vibid:1001000121893": 112,
+      "gas:candidate-vibid:1001000225972": 127,
+      "gas:candidate-vibid:1001000220835": 16,
+      "gas:candidate-vibid:1001000136103": 13,
+      "gas:candidate-vibid:1001000112244": 9,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070484&region=0&sub_region=0&type=429",
@@ -1482,17 +1482,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 47,
-      "Кузнецов Михаил Варфоломеевич": 79,
-      "Лабунина Людмила Павловна": 4,
-      "Лисин Андрей Геннадьевич": 4,
-      "Митропольский Виктор Георгиевич": 9,
-      "Никитин Владимир Степанович": 68,
-      "Сигуткин Алексей Алексеевич": 133,
-      "Смирнов Игорь Евгеньевич": 7,
-      "Темин Василий Сергеевич": 7,
-      "Шлосберг Лев Маркович": 0,
-      "Против всех": 28
+      "gas:candidate-vibid:1001000190400": 47,
+      "gas:candidate-vibid:260200070537": 79,
+      "gas:candidate-vibid:260200074054": 4,
+      "gas:candidate-vibid:260200070585": 4,
+      "gas:candidate-vibid:260200070606": 9,
+      "gas:candidate-vibid:1001000121893": 68,
+      "gas:candidate-vibid:1001000225972": 133,
+      "gas:candidate-vibid:1001000220835": 7,
+      "gas:candidate-vibid:1001000136103": 7,
+      "gas:candidate-vibid:1001000112244": 0,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070484&region=0&sub_region=0&type=429",
@@ -1542,17 +1542,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 63,
-      "Кузнецов Михаил Варфоломеевич": 59,
-      "Лабунина Людмила Павловна": 3,
-      "Лисин Андрей Геннадьевич": 5,
-      "Митропольский Виктор Георгиевич": 8,
-      "Никитин Владимир Степанович": 62,
-      "Сигуткин Алексей Алексеевич": 126,
-      "Смирнов Игорь Евгеньевич": 6,
-      "Темин Василий Сергеевич": 9,
-      "Шлосберг Лев Маркович": 8,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000190400": 63,
+      "gas:candidate-vibid:260200070537": 59,
+      "gas:candidate-vibid:260200074054": 3,
+      "gas:candidate-vibid:260200070585": 5,
+      "gas:candidate-vibid:260200070606": 8,
+      "gas:candidate-vibid:1001000121893": 62,
+      "gas:candidate-vibid:1001000225972": 126,
+      "gas:candidate-vibid:1001000220835": 6,
+      "gas:candidate-vibid:1001000136103": 9,
+      "gas:candidate-vibid:1001000112244": 8,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070484&region=0&sub_region=0&type=429",
@@ -1602,17 +1602,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 45,
-      "Кузнецов Михаил Варфоломеевич": 74,
-      "Лабунина Людмила Павловна": 0,
-      "Лисин Андрей Геннадьевич": 3,
-      "Митропольский Виктор Георгиевич": 3,
-      "Никитин Владимир Степанович": 105,
-      "Сигуткин Алексей Алексеевич": 116,
-      "Смирнов Игорь Евгеньевич": 15,
-      "Темин Василий Сергеевич": 12,
-      "Шлосберг Лев Маркович": 8,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000190400": 45,
+      "gas:candidate-vibid:260200070537": 74,
+      "gas:candidate-vibid:260200074054": 0,
+      "gas:candidate-vibid:260200070585": 3,
+      "gas:candidate-vibid:260200070606": 3,
+      "gas:candidate-vibid:1001000121893": 105,
+      "gas:candidate-vibid:1001000225972": 116,
+      "gas:candidate-vibid:1001000220835": 15,
+      "gas:candidate-vibid:1001000136103": 12,
+      "gas:candidate-vibid:1001000112244": 8,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070484&region=0&sub_region=0&type=429",
@@ -1662,17 +1662,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 41,
-      "Кузнецов Михаил Варфоломеевич": 58,
-      "Лабунина Людмила Павловна": 0,
-      "Лисин Андрей Геннадьевич": 5,
-      "Митропольский Виктор Георгиевич": 6,
-      "Никитин Владимир Степанович": 29,
-      "Сигуткин Алексей Алексеевич": 74,
-      "Смирнов Игорь Евгеньевич": 8,
-      "Темин Василий Сергеевич": 3,
-      "Шлосберг Лев Маркович": 1,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000190400": 41,
+      "gas:candidate-vibid:260200070537": 58,
+      "gas:candidate-vibid:260200074054": 0,
+      "gas:candidate-vibid:260200070585": 5,
+      "gas:candidate-vibid:260200070606": 6,
+      "gas:candidate-vibid:1001000121893": 29,
+      "gas:candidate-vibid:1001000225972": 74,
+      "gas:candidate-vibid:1001000220835": 8,
+      "gas:candidate-vibid:1001000136103": 3,
+      "gas:candidate-vibid:1001000112244": 1,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070484&region=0&sub_region=0&type=429",
@@ -1722,17 +1722,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 44,
-      "Кузнецов Михаил Варфоломеевич": 51,
-      "Лабунина Людмила Павловна": 0,
-      "Лисин Андрей Геннадьевич": 1,
-      "Митропольский Виктор Георгиевич": 3,
-      "Никитин Владимир Степанович": 34,
-      "Сигуткин Алексей Алексеевич": 52,
-      "Смирнов Игорь Евгеньевич": 3,
-      "Темин Василий Сергеевич": 0,
-      "Шлосберг Лев Маркович": 0,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000190400": 44,
+      "gas:candidate-vibid:260200070537": 51,
+      "gas:candidate-vibid:260200074054": 0,
+      "gas:candidate-vibid:260200070585": 1,
+      "gas:candidate-vibid:260200070606": 3,
+      "gas:candidate-vibid:1001000121893": 34,
+      "gas:candidate-vibid:1001000225972": 52,
+      "gas:candidate-vibid:1001000220835": 3,
+      "gas:candidate-vibid:1001000136103": 0,
+      "gas:candidate-vibid:1001000112244": 0,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070484&region=0&sub_region=0&type=429",
@@ -1782,17 +1782,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 86,
-      "Кузнецов Михаил Варфоломеевич": 87,
-      "Лабунина Людмила Павловна": 1,
-      "Лисин Андрей Геннадьевич": 3,
-      "Митропольский Виктор Георгиевич": 1,
-      "Никитин Владимир Степанович": 48,
-      "Сигуткин Алексей Алексеевич": 90,
-      "Смирнов Игорь Евгеньевич": 7,
-      "Темин Василий Сергеевич": 2,
-      "Шлосберг Лев Маркович": 5,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000190400": 86,
+      "gas:candidate-vibid:260200070537": 87,
+      "gas:candidate-vibid:260200074054": 1,
+      "gas:candidate-vibid:260200070585": 3,
+      "gas:candidate-vibid:260200070606": 1,
+      "gas:candidate-vibid:1001000121893": 48,
+      "gas:candidate-vibid:1001000225972": 90,
+      "gas:candidate-vibid:1001000220835": 7,
+      "gas:candidate-vibid:1001000136103": 2,
+      "gas:candidate-vibid:1001000112244": 5,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070484&region=0&sub_region=0&type=429",
@@ -1842,17 +1842,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 17,
-      "Кузнецов Михаил Варфоломеевич": 64,
-      "Лабунина Людмила Павловна": 3,
-      "Лисин Андрей Геннадьевич": 1,
-      "Митропольский Виктор Георгиевич": 3,
-      "Никитин Владимир Степанович": 24,
-      "Сигуткин Алексей Алексеевич": 27,
-      "Смирнов Игорь Евгеньевич": 1,
-      "Темин Василий Сергеевич": 0,
-      "Шлосберг Лев Маркович": 0,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000190400": 17,
+      "gas:candidate-vibid:260200070537": 64,
+      "gas:candidate-vibid:260200074054": 3,
+      "gas:candidate-vibid:260200070585": 1,
+      "gas:candidate-vibid:260200070606": 3,
+      "gas:candidate-vibid:1001000121893": 24,
+      "gas:candidate-vibid:1001000225972": 27,
+      "gas:candidate-vibid:1001000220835": 1,
+      "gas:candidate-vibid:1001000136103": 0,
+      "gas:candidate-vibid:1001000112244": 0,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070484&region=0&sub_region=0&type=429",
@@ -1902,17 +1902,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 43,
-      "Кузнецов Михаил Варфоломеевич": 33,
-      "Лабунина Людмила Павловна": 2,
-      "Лисин Андрей Геннадьевич": 1,
-      "Митропольский Виктор Георгиевич": 2,
-      "Никитин Владимир Степанович": 27,
-      "Сигуткин Алексей Алексеевич": 52,
-      "Смирнов Игорь Евгеньевич": 4,
-      "Темин Василий Сергеевич": 4,
-      "Шлосберг Лев Маркович": 0,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000190400": 43,
+      "gas:candidate-vibid:260200070537": 33,
+      "gas:candidate-vibid:260200074054": 2,
+      "gas:candidate-vibid:260200070585": 1,
+      "gas:candidate-vibid:260200070606": 2,
+      "gas:candidate-vibid:1001000121893": 27,
+      "gas:candidate-vibid:1001000225972": 52,
+      "gas:candidate-vibid:1001000220835": 4,
+      "gas:candidate-vibid:1001000136103": 4,
+      "gas:candidate-vibid:1001000112244": 0,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070484&region=0&sub_region=0&type=429",
@@ -1962,17 +1962,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 41,
-      "Кузнецов Михаил Варфоломеевич": 73,
-      "Лабунина Людмила Павловна": 2,
-      "Лисин Андрей Геннадьевич": 1,
-      "Митропольский Виктор Георгиевич": 2,
-      "Никитин Владимир Степанович": 34,
-      "Сигуткин Алексей Алексеевич": 105,
-      "Смирнов Игорь Евгеньевич": 3,
-      "Темин Василий Сергеевич": 6,
-      "Шлосберг Лев Маркович": 1,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000190400": 41,
+      "gas:candidate-vibid:260200070537": 73,
+      "gas:candidate-vibid:260200074054": 2,
+      "gas:candidate-vibid:260200070585": 1,
+      "gas:candidate-vibid:260200070606": 2,
+      "gas:candidate-vibid:1001000121893": 34,
+      "gas:candidate-vibid:1001000225972": 105,
+      "gas:candidate-vibid:1001000220835": 3,
+      "gas:candidate-vibid:1001000136103": 6,
+      "gas:candidate-vibid:1001000112244": 1,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070484&region=0&sub_region=0&type=429",
@@ -2022,17 +2022,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 17,
-      "Кузнецов Михаил Варфоломеевич": 24,
-      "Лабунина Людмила Павловна": 1,
-      "Лисин Андрей Геннадьевич": 5,
-      "Митропольский Виктор Георгиевич": 0,
-      "Никитин Владимир Степанович": 18,
-      "Сигуткин Алексей Алексеевич": 24,
-      "Смирнов Игорь Евгеньевич": 1,
-      "Темин Василий Сергеевич": 5,
-      "Шлосберг Лев Маркович": 2,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000190400": 17,
+      "gas:candidate-vibid:260200070537": 24,
+      "gas:candidate-vibid:260200074054": 1,
+      "gas:candidate-vibid:260200070585": 5,
+      "gas:candidate-vibid:260200070606": 0,
+      "gas:candidate-vibid:1001000121893": 18,
+      "gas:candidate-vibid:1001000225972": 24,
+      "gas:candidate-vibid:1001000220835": 1,
+      "gas:candidate-vibid:1001000136103": 5,
+      "gas:candidate-vibid:1001000112244": 2,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070484&region=0&sub_region=0&type=429",
@@ -2082,17 +2082,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 55,
-      "Кузнецов Михаил Варфоломеевич": 112,
-      "Лабунина Людмила Павловна": 0,
-      "Лисин Андрей Геннадьевич": 3,
-      "Митропольский Виктор Георгиевич": 3,
-      "Никитин Владимир Степанович": 53,
-      "Сигуткин Алексей Алексеевич": 78,
-      "Смирнов Игорь Евгеньевич": 2,
-      "Темин Василий Сергеевич": 2,
-      "Шлосберг Лев Маркович": 1,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000190400": 55,
+      "gas:candidate-vibid:260200070537": 112,
+      "gas:candidate-vibid:260200074054": 0,
+      "gas:candidate-vibid:260200070585": 3,
+      "gas:candidate-vibid:260200070606": 3,
+      "gas:candidate-vibid:1001000121893": 53,
+      "gas:candidate-vibid:1001000225972": 78,
+      "gas:candidate-vibid:1001000220835": 2,
+      "gas:candidate-vibid:1001000136103": 2,
+      "gas:candidate-vibid:1001000112244": 1,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070484&region=0&sub_region=0&type=429",
@@ -2142,17 +2142,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 74,
-      "Кузнецов Михаил Варфоломеевич": 34,
-      "Лабунина Людмила Павловна": 1,
-      "Лисин Андрей Геннадьевич": 3,
-      "Митропольский Виктор Георгиевич": 4,
-      "Никитин Владимир Степанович": 56,
-      "Сигуткин Алексей Алексеевич": 44,
-      "Смирнов Игорь Евгеньевич": 6,
-      "Темин Василий Сергеевич": 4,
-      "Шлосберг Лев Маркович": 1,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000190400": 74,
+      "gas:candidate-vibid:260200070537": 34,
+      "gas:candidate-vibid:260200074054": 1,
+      "gas:candidate-vibid:260200070585": 3,
+      "gas:candidate-vibid:260200070606": 4,
+      "gas:candidate-vibid:1001000121893": 56,
+      "gas:candidate-vibid:1001000225972": 44,
+      "gas:candidate-vibid:1001000220835": 6,
+      "gas:candidate-vibid:1001000136103": 4,
+      "gas:candidate-vibid:1001000112244": 1,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070484&region=0&sub_region=0&type=429",
@@ -2202,17 +2202,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 54,
-      "Кузнецов Михаил Варфоломеевич": 40,
-      "Лабунина Людмила Павловна": 1,
-      "Лисин Андрей Геннадьевич": 3,
-      "Митропольский Виктор Георгиевич": 3,
-      "Никитин Владимир Степанович": 13,
-      "Сигуткин Алексей Алексеевич": 72,
-      "Смирнов Игорь Евгеньевич": 5,
-      "Темин Василий Сергеевич": 3,
-      "Шлосберг Лев Маркович": 4,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000190400": 54,
+      "gas:candidate-vibid:260200070537": 40,
+      "gas:candidate-vibid:260200074054": 1,
+      "gas:candidate-vibid:260200070585": 3,
+      "gas:candidate-vibid:260200070606": 3,
+      "gas:candidate-vibid:1001000121893": 13,
+      "gas:candidate-vibid:1001000225972": 72,
+      "gas:candidate-vibid:1001000220835": 5,
+      "gas:candidate-vibid:1001000136103": 3,
+      "gas:candidate-vibid:1001000112244": 4,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070484&region=0&sub_region=0&type=429",
@@ -2262,17 +2262,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 28,
-      "Кузнецов Михаил Варфоломеевич": 67,
-      "Лабунина Людмила Павловна": 0,
-      "Лисин Андрей Геннадьевич": 2,
-      "Митропольский Виктор Георгиевич": 0,
-      "Никитин Владимир Степанович": 41,
-      "Сигуткин Алексей Алексеевич": 61,
-      "Смирнов Игорь Евгеньевич": 2,
-      "Темин Василий Сергеевич": 1,
-      "Шлосберг Лев Маркович": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000190400": 28,
+      "gas:candidate-vibid:260200070537": 67,
+      "gas:candidate-vibid:260200074054": 0,
+      "gas:candidate-vibid:260200070585": 2,
+      "gas:candidate-vibid:260200070606": 0,
+      "gas:candidate-vibid:1001000121893": 41,
+      "gas:candidate-vibid:1001000225972": 61,
+      "gas:candidate-vibid:1001000220835": 2,
+      "gas:candidate-vibid:1001000136103": 1,
+      "gas:candidate-vibid:1001000112244": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070484&region=0&sub_region=0&type=429",
@@ -2322,17 +2322,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 46,
-      "Кузнецов Михаил Варфоломеевич": 55,
-      "Лабунина Людмила Павловна": 0,
-      "Лисин Андрей Геннадьевич": 1,
-      "Митропольский Виктор Георгиевич": 2,
-      "Никитин Владимир Степанович": 57,
-      "Сигуткин Алексей Алексеевич": 71,
-      "Смирнов Игорь Евгеньевич": 2,
-      "Темин Василий Сергеевич": 3,
-      "Шлосберг Лев Маркович": 4,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000190400": 46,
+      "gas:candidate-vibid:260200070537": 55,
+      "gas:candidate-vibid:260200074054": 0,
+      "gas:candidate-vibid:260200070585": 1,
+      "gas:candidate-vibid:260200070606": 2,
+      "gas:candidate-vibid:1001000121893": 57,
+      "gas:candidate-vibid:1001000225972": 71,
+      "gas:candidate-vibid:1001000220835": 2,
+      "gas:candidate-vibid:1001000136103": 3,
+      "gas:candidate-vibid:1001000112244": 4,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070484&region=0&sub_region=0&type=429",
@@ -2382,17 +2382,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 55,
-      "Кузнецов Михаил Варфоломеевич": 111,
-      "Лабунина Людмила Павловна": 8,
-      "Лисин Андрей Геннадьевич": 10,
-      "Митропольский Виктор Георгиевич": 17,
-      "Никитин Владимир Степанович": 131,
-      "Сигуткин Алексей Алексеевич": 189,
-      "Смирнов Игорь Евгеньевич": 22,
-      "Темин Василий Сергеевич": 5,
-      "Шлосберг Лев Маркович": 40,
-      "Против всех": 79
+      "gas:candidate-vibid:1001000190400": 55,
+      "gas:candidate-vibid:260200070537": 111,
+      "gas:candidate-vibid:260200074054": 8,
+      "gas:candidate-vibid:260200070585": 10,
+      "gas:candidate-vibid:260200070606": 17,
+      "gas:candidate-vibid:1001000121893": 131,
+      "gas:candidate-vibid:1001000225972": 189,
+      "gas:candidate-vibid:1001000220835": 22,
+      "gas:candidate-vibid:1001000136103": 5,
+      "gas:candidate-vibid:1001000112244": 40,
+      "special:against-all": 79
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070485&region=0&sub_region=0&type=429",
@@ -2442,17 +2442,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 126,
-      "Кузнецов Михаил Варфоломеевич": 118,
-      "Лабунина Людмила Павловна": 9,
-      "Лисин Андрей Геннадьевич": 19,
-      "Митропольский Виктор Георгиевич": 27,
-      "Никитин Владимир Степанович": 223,
-      "Сигуткин Алексей Алексеевич": 226,
-      "Смирнов Игорь Евгеньевич": 37,
-      "Темин Василий Сергеевич": 20,
-      "Шлосберг Лев Маркович": 71,
-      "Против всех": 119
+      "gas:candidate-vibid:1001000190400": 126,
+      "gas:candidate-vibid:260200070537": 118,
+      "gas:candidate-vibid:260200074054": 9,
+      "gas:candidate-vibid:260200070585": 19,
+      "gas:candidate-vibid:260200070606": 27,
+      "gas:candidate-vibid:1001000121893": 223,
+      "gas:candidate-vibid:1001000225972": 226,
+      "gas:candidate-vibid:1001000220835": 37,
+      "gas:candidate-vibid:1001000136103": 20,
+      "gas:candidate-vibid:1001000112244": 71,
+      "special:against-all": 119
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070485&region=0&sub_region=0&type=429",
@@ -2502,17 +2502,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 124,
-      "Кузнецов Михаил Варфоломеевич": 110,
-      "Лабунина Людмила Павловна": 18,
-      "Лисин Андрей Геннадьевич": 21,
-      "Митропольский Виктор Георгиевич": 30,
-      "Никитин Владимир Степанович": 221,
-      "Сигуткин Алексей Алексеевич": 312,
-      "Смирнов Игорь Евгеньевич": 38,
-      "Темин Василий Сергеевич": 38,
-      "Шлосберг Лев Маркович": 57,
-      "Против всех": 123
+      "gas:candidate-vibid:1001000190400": 124,
+      "gas:candidate-vibid:260200070537": 110,
+      "gas:candidate-vibid:260200074054": 18,
+      "gas:candidate-vibid:260200070585": 21,
+      "gas:candidate-vibid:260200070606": 30,
+      "gas:candidate-vibid:1001000121893": 221,
+      "gas:candidate-vibid:1001000225972": 312,
+      "gas:candidate-vibid:1001000220835": 38,
+      "gas:candidate-vibid:1001000136103": 38,
+      "gas:candidate-vibid:1001000112244": 57,
+      "special:against-all": 123
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070485&region=0&sub_region=0&type=429",
@@ -2562,17 +2562,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 98,
-      "Кузнецов Михаил Варфоломеевич": 105,
-      "Лабунина Людмила Павловна": 14,
-      "Лисин Андрей Геннадьевич": 19,
-      "Митропольский Виктор Георгиевич": 23,
-      "Никитин Владимир Степанович": 253,
-      "Сигуткин Алексей Алексеевич": 235,
-      "Смирнов Игорь Евгеньевич": 53,
-      "Темин Василий Сергеевич": 17,
-      "Шлосберг Лев Маркович": 60,
-      "Против всех": 121
+      "gas:candidate-vibid:1001000190400": 98,
+      "gas:candidate-vibid:260200070537": 105,
+      "gas:candidate-vibid:260200074054": 14,
+      "gas:candidate-vibid:260200070585": 19,
+      "gas:candidate-vibid:260200070606": 23,
+      "gas:candidate-vibid:1001000121893": 253,
+      "gas:candidate-vibid:1001000225972": 235,
+      "gas:candidate-vibid:1001000220835": 53,
+      "gas:candidate-vibid:1001000136103": 17,
+      "gas:candidate-vibid:1001000112244": 60,
+      "special:against-all": 121
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070485&region=0&sub_region=0&type=429",
@@ -2622,17 +2622,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 107,
-      "Кузнецов Михаил Варфоломеевич": 94,
-      "Лабунина Людмила Павловна": 9,
-      "Лисин Андрей Геннадьевич": 19,
-      "Митропольский Виктор Георгиевич": 30,
-      "Никитин Владимир Степанович": 199,
-      "Сигуткин Алексей Алексеевич": 172,
-      "Смирнов Игорь Евгеньевич": 43,
-      "Темин Василий Сергеевич": 18,
-      "Шлосберг Лев Маркович": 37,
-      "Против всех": 109
+      "gas:candidate-vibid:1001000190400": 107,
+      "gas:candidate-vibid:260200070537": 94,
+      "gas:candidate-vibid:260200074054": 9,
+      "gas:candidate-vibid:260200070585": 19,
+      "gas:candidate-vibid:260200070606": 30,
+      "gas:candidate-vibid:1001000121893": 199,
+      "gas:candidate-vibid:1001000225972": 172,
+      "gas:candidate-vibid:1001000220835": 43,
+      "gas:candidate-vibid:1001000136103": 18,
+      "gas:candidate-vibid:1001000112244": 37,
+      "special:against-all": 109
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070485&region=0&sub_region=0&type=429",
@@ -2682,17 +2682,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 70,
-      "Кузнецов Михаил Варфоломеевич": 56,
-      "Лабунина Людмила Павловна": 4,
-      "Лисин Андрей Геннадьевич": 10,
-      "Митропольский Виктор Георгиевич": 15,
-      "Никитин Владимир Степанович": 105,
-      "Сигуткин Алексей Алексеевич": 161,
-      "Смирнов Игорь Евгеньевич": 21,
-      "Темин Василий Сергеевич": 10,
-      "Шлосберг Лев Маркович": 29,
-      "Против всех": 51
+      "gas:candidate-vibid:1001000190400": 70,
+      "gas:candidate-vibid:260200070537": 56,
+      "gas:candidate-vibid:260200074054": 4,
+      "gas:candidate-vibid:260200070585": 10,
+      "gas:candidate-vibid:260200070606": 15,
+      "gas:candidate-vibid:1001000121893": 105,
+      "gas:candidate-vibid:1001000225972": 161,
+      "gas:candidate-vibid:1001000220835": 21,
+      "gas:candidate-vibid:1001000136103": 10,
+      "gas:candidate-vibid:1001000112244": 29,
+      "special:against-all": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070485&region=0&sub_region=0&type=429",
@@ -2742,17 +2742,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 180,
-      "Кузнецов Михаил Варфоломеевич": 197,
-      "Лабунина Людмила Павловна": 16,
-      "Лисин Андрей Геннадьевич": 41,
-      "Митропольский Виктор Георгиевич": 42,
-      "Никитин Владимир Степанович": 326,
-      "Сигуткин Алексей Алексеевич": 346,
-      "Смирнов Игорь Евгеньевич": 90,
-      "Темин Василий Сергеевич": 31,
-      "Шлосберг Лев Маркович": 102,
-      "Против всех": 176
+      "gas:candidate-vibid:1001000190400": 180,
+      "gas:candidate-vibid:260200070537": 197,
+      "gas:candidate-vibid:260200074054": 16,
+      "gas:candidate-vibid:260200070585": 41,
+      "gas:candidate-vibid:260200070606": 42,
+      "gas:candidate-vibid:1001000121893": 326,
+      "gas:candidate-vibid:1001000225972": 346,
+      "gas:candidate-vibid:1001000220835": 90,
+      "gas:candidate-vibid:1001000136103": 31,
+      "gas:candidate-vibid:1001000112244": 102,
+      "special:against-all": 176
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070485&region=0&sub_region=0&type=429",
@@ -2802,17 +2802,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 97,
-      "Кузнецов Михаил Варфоломеевич": 115,
-      "Лабунина Людмила Павловна": 12,
-      "Лисин Андрей Геннадьевич": 30,
-      "Митропольский Виктор Георгиевич": 14,
-      "Никитин Владимир Степанович": 185,
-      "Сигуткин Алексей Алексеевич": 209,
-      "Смирнов Игорь Евгеньевич": 38,
-      "Темин Василий Сергеевич": 19,
-      "Шлосберг Лев Маркович": 52,
-      "Против всех": 95
+      "gas:candidate-vibid:1001000190400": 97,
+      "gas:candidate-vibid:260200070537": 115,
+      "gas:candidate-vibid:260200074054": 12,
+      "gas:candidate-vibid:260200070585": 30,
+      "gas:candidate-vibid:260200070606": 14,
+      "gas:candidate-vibid:1001000121893": 185,
+      "gas:candidate-vibid:1001000225972": 209,
+      "gas:candidate-vibid:1001000220835": 38,
+      "gas:candidate-vibid:1001000136103": 19,
+      "gas:candidate-vibid:1001000112244": 52,
+      "special:against-all": 95
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070485&region=0&sub_region=0&type=429",
@@ -2862,17 +2862,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 145,
-      "Кузнецов Михаил Варфоломеевич": 114,
-      "Лабунина Людмила Павловна": 8,
-      "Лисин Андрей Геннадьевич": 23,
-      "Митропольский Виктор Георгиевич": 14,
-      "Никитин Владимир Степанович": 187,
-      "Сигуткин Алексей Алексеевич": 256,
-      "Смирнов Игорь Евгеньевич": 46,
-      "Темин Василий Сергеевич": 39,
-      "Шлосберг Лев Маркович": 28,
-      "Против всех": 103
+      "gas:candidate-vibid:1001000190400": 145,
+      "gas:candidate-vibid:260200070537": 114,
+      "gas:candidate-vibid:260200074054": 8,
+      "gas:candidate-vibid:260200070585": 23,
+      "gas:candidate-vibid:260200070606": 14,
+      "gas:candidate-vibid:1001000121893": 187,
+      "gas:candidate-vibid:1001000225972": 256,
+      "gas:candidate-vibid:1001000220835": 46,
+      "gas:candidate-vibid:1001000136103": 39,
+      "gas:candidate-vibid:1001000112244": 28,
+      "special:against-all": 103
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070485&region=0&sub_region=0&type=429",
@@ -2922,17 +2922,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 60,
-      "Кузнецов Михаил Варфоломеевич": 94,
-      "Лабунина Людмила Павловна": 5,
-      "Лисин Андрей Геннадьевич": 13,
-      "Митропольский Виктор Георгиевич": 16,
-      "Никитин Владимир Степанович": 144,
-      "Сигуткин Алексей Алексеевич": 196,
-      "Смирнов Игорь Евгеньевич": 29,
-      "Темин Василий Сергеевич": 23,
-      "Шлосберг Лев Маркович": 26,
-      "Против всех": 70
+      "gas:candidate-vibid:1001000190400": 60,
+      "gas:candidate-vibid:260200070537": 94,
+      "gas:candidate-vibid:260200074054": 5,
+      "gas:candidate-vibid:260200070585": 13,
+      "gas:candidate-vibid:260200070606": 16,
+      "gas:candidate-vibid:1001000121893": 144,
+      "gas:candidate-vibid:1001000225972": 196,
+      "gas:candidate-vibid:1001000220835": 29,
+      "gas:candidate-vibid:1001000136103": 23,
+      "gas:candidate-vibid:1001000112244": 26,
+      "special:against-all": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070485&region=0&sub_region=0&type=429",
@@ -2982,17 +2982,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 151,
-      "Кузнецов Михаил Варфоломеевич": 222,
-      "Лабунина Людмила Павловна": 27,
-      "Лисин Андрей Геннадьевич": 30,
-      "Митропольский Виктор Георгиевич": 23,
-      "Никитин Владимир Степанович": 188,
-      "Сигуткин Алексей Алексеевич": 317,
-      "Смирнов Игорь Евгеньевич": 67,
-      "Темин Василий Сергеевич": 48,
-      "Шлосберг Лев Маркович": 42,
-      "Против всех": 177
+      "gas:candidate-vibid:1001000190400": 151,
+      "gas:candidate-vibid:260200070537": 222,
+      "gas:candidate-vibid:260200074054": 27,
+      "gas:candidate-vibid:260200070585": 30,
+      "gas:candidate-vibid:260200070606": 23,
+      "gas:candidate-vibid:1001000121893": 188,
+      "gas:candidate-vibid:1001000225972": 317,
+      "gas:candidate-vibid:1001000220835": 67,
+      "gas:candidate-vibid:1001000136103": 48,
+      "gas:candidate-vibid:1001000112244": 42,
+      "special:against-all": 177
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070485&region=0&sub_region=0&type=429",
@@ -3042,17 +3042,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 90,
-      "Кузнецов Михаил Варфоломеевич": 143,
-      "Лабунина Людмила Павловна": 6,
-      "Лисин Андрей Геннадьевич": 29,
-      "Митропольский Виктор Георгиевич": 23,
-      "Никитин Владимир Степанович": 137,
-      "Сигуткин Алексей Алексеевич": 200,
-      "Смирнов Игорь Евгеньевич": 36,
-      "Темин Василий Сергеевич": 20,
-      "Шлосберг Лев Маркович": 26,
-      "Против всех": 75
+      "gas:candidate-vibid:1001000190400": 90,
+      "gas:candidate-vibid:260200070537": 143,
+      "gas:candidate-vibid:260200074054": 6,
+      "gas:candidate-vibid:260200070585": 29,
+      "gas:candidate-vibid:260200070606": 23,
+      "gas:candidate-vibid:1001000121893": 137,
+      "gas:candidate-vibid:1001000225972": 200,
+      "gas:candidate-vibid:1001000220835": 36,
+      "gas:candidate-vibid:1001000136103": 20,
+      "gas:candidate-vibid:1001000112244": 26,
+      "special:against-all": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070485&region=0&sub_region=0&type=429",
@@ -3102,17 +3102,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 121,
-      "Кузнецов Михаил Варфоломеевич": 109,
-      "Лабунина Людмила Павловна": 7,
-      "Лисин Андрей Геннадьевич": 31,
-      "Митропольский Виктор Георгиевич": 8,
-      "Никитин Владимир Степанович": 85,
-      "Сигуткин Алексей Алексеевич": 158,
-      "Смирнов Игорь Евгеньевич": 23,
-      "Темин Василий Сергеевич": 26,
-      "Шлосберг Лев Маркович": 30,
-      "Против всех": 72
+      "gas:candidate-vibid:1001000190400": 121,
+      "gas:candidate-vibid:260200070537": 109,
+      "gas:candidate-vibid:260200074054": 7,
+      "gas:candidate-vibid:260200070585": 31,
+      "gas:candidate-vibid:260200070606": 8,
+      "gas:candidate-vibid:1001000121893": 85,
+      "gas:candidate-vibid:1001000225972": 158,
+      "gas:candidate-vibid:1001000220835": 23,
+      "gas:candidate-vibid:1001000136103": 26,
+      "gas:candidate-vibid:1001000112244": 30,
+      "special:against-all": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070485&region=0&sub_region=0&type=429",
@@ -3162,17 +3162,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 52,
-      "Кузнецов Михаил Варфоломеевич": 39,
-      "Лабунина Людмила Павловна": 7,
-      "Лисин Андрей Геннадьевич": 15,
-      "Митропольский Виктор Георгиевич": 3,
-      "Никитин Владимир Степанович": 80,
-      "Сигуткин Алексей Алексеевич": 121,
-      "Смирнов Игорь Евгеньевич": 30,
-      "Темин Василий Сергеевич": 25,
-      "Шлосберг Лев Маркович": 10,
-      "Против всех": 43
+      "gas:candidate-vibid:1001000190400": 52,
+      "gas:candidate-vibid:260200070537": 39,
+      "gas:candidate-vibid:260200074054": 7,
+      "gas:candidate-vibid:260200070585": 15,
+      "gas:candidate-vibid:260200070606": 3,
+      "gas:candidate-vibid:1001000121893": 80,
+      "gas:candidate-vibid:1001000225972": 121,
+      "gas:candidate-vibid:1001000220835": 30,
+      "gas:candidate-vibid:1001000136103": 25,
+      "gas:candidate-vibid:1001000112244": 10,
+      "special:against-all": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070485&region=0&sub_region=0&type=429",
@@ -3222,17 +3222,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 265,
-      "Кузнецов Михаил Варфоломеевич": 155,
-      "Лабунина Людмила Павловна": 22,
-      "Лисин Андрей Геннадьевич": 35,
-      "Митропольский Виктор Георгиевич": 17,
-      "Никитин Владимир Степанович": 213,
-      "Сигуткин Алексей Алексеевич": 422,
-      "Смирнов Игорь Евгеньевич": 31,
-      "Темин Василий Сергеевич": 24,
-      "Шлосберг Лев Маркович": 56,
-      "Против всех": 312
+      "gas:candidate-vibid:1001000190400": 265,
+      "gas:candidate-vibid:260200070537": 155,
+      "gas:candidate-vibid:260200074054": 22,
+      "gas:candidate-vibid:260200070585": 35,
+      "gas:candidate-vibid:260200070606": 17,
+      "gas:candidate-vibid:1001000121893": 213,
+      "gas:candidate-vibid:1001000225972": 422,
+      "gas:candidate-vibid:1001000220835": 31,
+      "gas:candidate-vibid:1001000136103": 24,
+      "gas:candidate-vibid:1001000112244": 56,
+      "special:against-all": 312
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070485&region=0&sub_region=0&type=429",
@@ -3282,17 +3282,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 73,
-      "Кузнецов Михаил Варфоломеевич": 123,
-      "Лабунина Людмила Павловна": 6,
-      "Лисин Андрей Геннадьевич": 18,
-      "Митропольский Виктор Георгиевич": 17,
-      "Никитин Владимир Степанович": 156,
-      "Сигуткин Алексей Алексеевич": 263,
-      "Смирнов Игорь Евгеньевич": 33,
-      "Темин Василий Сергеевич": 23,
-      "Шлосберг Лев Маркович": 26,
-      "Против всех": 82
+      "gas:candidate-vibid:1001000190400": 73,
+      "gas:candidate-vibid:260200070537": 123,
+      "gas:candidate-vibid:260200074054": 6,
+      "gas:candidate-vibid:260200070585": 18,
+      "gas:candidate-vibid:260200070606": 17,
+      "gas:candidate-vibid:1001000121893": 156,
+      "gas:candidate-vibid:1001000225972": 263,
+      "gas:candidate-vibid:1001000220835": 33,
+      "gas:candidate-vibid:1001000136103": 23,
+      "gas:candidate-vibid:1001000112244": 26,
+      "special:against-all": 82
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070485&region=0&sub_region=0&type=429",
@@ -3342,17 +3342,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 35,
-      "Кузнецов Михаил Варфоломеевич": 72,
-      "Лабунина Людмила Павловна": 3,
-      "Лисин Андрей Геннадьевич": 8,
-      "Митропольский Виктор Георгиевич": 8,
-      "Никитин Владимир Степанович": 40,
-      "Сигуткин Алексей Алексеевич": 89,
-      "Смирнов Игорь Евгеньевич": 9,
-      "Темин Василий Сергеевич": 11,
-      "Шлосберг Лев Маркович": 7,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000190400": 35,
+      "gas:candidate-vibid:260200070537": 72,
+      "gas:candidate-vibid:260200074054": 3,
+      "gas:candidate-vibid:260200070585": 8,
+      "gas:candidate-vibid:260200070606": 8,
+      "gas:candidate-vibid:1001000121893": 40,
+      "gas:candidate-vibid:1001000225972": 89,
+      "gas:candidate-vibid:1001000220835": 9,
+      "gas:candidate-vibid:1001000136103": 11,
+      "gas:candidate-vibid:1001000112244": 7,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070485&region=0&sub_region=0&type=429",
@@ -3402,17 +3402,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 71,
-      "Кузнецов Михаил Варфоломеевич": 146,
-      "Лабунина Людмила Павловна": 5,
-      "Лисин Андрей Геннадьевич": 10,
-      "Митропольский Виктор Георгиевич": 4,
-      "Никитин Владимир Степанович": 81,
-      "Сигуткин Алексей Алексеевич": 136,
-      "Смирнов Игорь Евгеньевич": 28,
-      "Темин Василий Сергеевич": 20,
-      "Шлосберг Лев Маркович": 14,
-      "Против всех": 60
+      "gas:candidate-vibid:1001000190400": 71,
+      "gas:candidate-vibid:260200070537": 146,
+      "gas:candidate-vibid:260200074054": 5,
+      "gas:candidate-vibid:260200070585": 10,
+      "gas:candidate-vibid:260200070606": 4,
+      "gas:candidate-vibid:1001000121893": 81,
+      "gas:candidate-vibid:1001000225972": 136,
+      "gas:candidate-vibid:1001000220835": 28,
+      "gas:candidate-vibid:1001000136103": 20,
+      "gas:candidate-vibid:1001000112244": 14,
+      "special:against-all": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070485&region=0&sub_region=0&type=429",
@@ -3462,17 +3462,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 234,
-      "Кузнецов Михаил Варфоломеевич": 171,
-      "Лабунина Людмила Павловна": 12,
-      "Лисин Андрей Геннадьевич": 39,
-      "Митропольский Виктор Георгиевич": 28,
-      "Никитин Владимир Степанович": 159,
-      "Сигуткин Алексей Алексеевич": 279,
-      "Смирнов Игорь Евгеньевич": 36,
-      "Темин Василий Сергеевич": 42,
-      "Шлосберг Лев Маркович": 27,
-      "Против всех": 183
+      "gas:candidate-vibid:1001000190400": 234,
+      "gas:candidate-vibid:260200070537": 171,
+      "gas:candidate-vibid:260200074054": 12,
+      "gas:candidate-vibid:260200070585": 39,
+      "gas:candidate-vibid:260200070606": 28,
+      "gas:candidate-vibid:1001000121893": 159,
+      "gas:candidate-vibid:1001000225972": 279,
+      "gas:candidate-vibid:1001000220835": 36,
+      "gas:candidate-vibid:1001000136103": 42,
+      "gas:candidate-vibid:1001000112244": 27,
+      "special:against-all": 183
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070485&region=0&sub_region=0&type=429",
@@ -3522,17 +3522,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 105,
-      "Кузнецов Михаил Варфоломеевич": 168,
-      "Лабунина Людмила Павловна": 14,
-      "Лисин Андрей Геннадьевич": 43,
-      "Митропольский Виктор Георгиевич": 13,
-      "Никитин Владимир Степанович": 153,
-      "Сигуткин Алексей Алексеевич": 259,
-      "Смирнов Игорь Евгеньевич": 46,
-      "Темин Василий Сергеевич": 29,
-      "Шлосберг Лев Маркович": 42,
-      "Против всех": 113
+      "gas:candidate-vibid:1001000190400": 105,
+      "gas:candidate-vibid:260200070537": 168,
+      "gas:candidate-vibid:260200074054": 14,
+      "gas:candidate-vibid:260200070585": 43,
+      "gas:candidate-vibid:260200070606": 13,
+      "gas:candidate-vibid:1001000121893": 153,
+      "gas:candidate-vibid:1001000225972": 259,
+      "gas:candidate-vibid:1001000220835": 46,
+      "gas:candidate-vibid:1001000136103": 29,
+      "gas:candidate-vibid:1001000112244": 42,
+      "special:against-all": 113
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070485&region=0&sub_region=0&type=429",
@@ -3582,17 +3582,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 105,
-      "Кузнецов Михаил Варфоломеевич": 138,
-      "Лабунина Людмила Павловна": 2,
-      "Лисин Андрей Геннадьевич": 32,
-      "Митропольский Виктор Георгиевич": 7,
-      "Никитин Владимир Степанович": 211,
-      "Сигуткин Алексей Алексеевич": 214,
-      "Смирнов Игорь Евгеньевич": 41,
-      "Темин Василий Сергеевич": 19,
-      "Шлосберг Лев Маркович": 55,
-      "Против всех": 101
+      "gas:candidate-vibid:1001000190400": 105,
+      "gas:candidate-vibid:260200070537": 138,
+      "gas:candidate-vibid:260200074054": 2,
+      "gas:candidate-vibid:260200070585": 32,
+      "gas:candidate-vibid:260200070606": 7,
+      "gas:candidate-vibid:1001000121893": 211,
+      "gas:candidate-vibid:1001000225972": 214,
+      "gas:candidate-vibid:1001000220835": 41,
+      "gas:candidate-vibid:1001000136103": 19,
+      "gas:candidate-vibid:1001000112244": 55,
+      "special:against-all": 101
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070485&region=0&sub_region=0&type=429",
@@ -3642,17 +3642,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 87,
-      "Кузнецов Михаил Варфоломеевич": 97,
-      "Лабунина Людмила Павловна": 7,
-      "Лисин Андрей Геннадьевич": 15,
-      "Митропольский Виктор Георгиевич": 15,
-      "Никитин Владимир Степанович": 114,
-      "Сигуткин Алексей Алексеевич": 183,
-      "Смирнов Игорь Евгеньевич": 26,
-      "Темин Василий Сергеевич": 7,
-      "Шлосберг Лев Маркович": 29,
-      "Против всех": 99
+      "gas:candidate-vibid:1001000190400": 87,
+      "gas:candidate-vibid:260200070537": 97,
+      "gas:candidate-vibid:260200074054": 7,
+      "gas:candidate-vibid:260200070585": 15,
+      "gas:candidate-vibid:260200070606": 15,
+      "gas:candidate-vibid:1001000121893": 114,
+      "gas:candidate-vibid:1001000225972": 183,
+      "gas:candidate-vibid:1001000220835": 26,
+      "gas:candidate-vibid:1001000136103": 7,
+      "gas:candidate-vibid:1001000112244": 29,
+      "special:against-all": 99
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070485&region=0&sub_region=0&type=429",
@@ -3702,17 +3702,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 140,
-      "Кузнецов Михаил Варфоломеевич": 112,
-      "Лабунина Людмила Павловна": 18,
-      "Лисин Андрей Геннадьевич": 46,
-      "Митропольский Виктор Георгиевич": 19,
-      "Никитин Владимир Степанович": 299,
-      "Сигуткин Алексей Алексеевич": 329,
-      "Смирнов Игорь Евгеньевич": 55,
-      "Темин Василий Сергеевич": 30,
-      "Шлосберг Лев Маркович": 60,
-      "Против всех": 125
+      "gas:candidate-vibid:1001000190400": 140,
+      "gas:candidate-vibid:260200070537": 112,
+      "gas:candidate-vibid:260200074054": 18,
+      "gas:candidate-vibid:260200070585": 46,
+      "gas:candidate-vibid:260200070606": 19,
+      "gas:candidate-vibid:1001000121893": 299,
+      "gas:candidate-vibid:1001000225972": 329,
+      "gas:candidate-vibid:1001000220835": 55,
+      "gas:candidate-vibid:1001000136103": 30,
+      "gas:candidate-vibid:1001000112244": 60,
+      "special:against-all": 125
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070485&region=0&sub_region=0&type=429",
@@ -3762,17 +3762,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 154,
-      "Кузнецов Михаил Варфоломеевич": 174,
-      "Лабунина Людмила Павловна": 14,
-      "Лисин Андрей Геннадьевич": 52,
-      "Митропольский Виктор Георгиевич": 31,
-      "Никитин Владимир Степанович": 289,
-      "Сигуткин Алексей Алексеевич": 321,
-      "Смирнов Игорь Евгеньевич": 67,
-      "Темин Василий Сергеевич": 40,
-      "Шлосберг Лев Маркович": 64,
-      "Против всех": 150
+      "gas:candidate-vibid:1001000190400": 154,
+      "gas:candidate-vibid:260200070537": 174,
+      "gas:candidate-vibid:260200074054": 14,
+      "gas:candidate-vibid:260200070585": 52,
+      "gas:candidate-vibid:260200070606": 31,
+      "gas:candidate-vibid:1001000121893": 289,
+      "gas:candidate-vibid:1001000225972": 321,
+      "gas:candidate-vibid:1001000220835": 67,
+      "gas:candidate-vibid:1001000136103": 40,
+      "gas:candidate-vibid:1001000112244": 64,
+      "special:against-all": 150
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070485&region=0&sub_region=0&type=429",
@@ -3822,17 +3822,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 118,
-      "Кузнецов Михаил Варфоломеевич": 104,
-      "Лабунина Людмила Павловна": 9,
-      "Лисин Андрей Геннадьевич": 15,
-      "Митропольский Виктор Георгиевич": 13,
-      "Никитин Владимир Степанович": 236,
-      "Сигуткин Алексей Алексеевич": 266,
-      "Смирнов Игорь Евгеньевич": 36,
-      "Темин Василий Сергеевич": 19,
-      "Шлосберг Лев Маркович": 46,
-      "Против всех": 78
+      "gas:candidate-vibid:1001000190400": 118,
+      "gas:candidate-vibid:260200070537": 104,
+      "gas:candidate-vibid:260200074054": 9,
+      "gas:candidate-vibid:260200070585": 15,
+      "gas:candidate-vibid:260200070606": 13,
+      "gas:candidate-vibid:1001000121893": 236,
+      "gas:candidate-vibid:1001000225972": 266,
+      "gas:candidate-vibid:1001000220835": 36,
+      "gas:candidate-vibid:1001000136103": 19,
+      "gas:candidate-vibid:1001000112244": 46,
+      "special:against-all": 78
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070485&region=0&sub_region=0&type=429",
@@ -3882,17 +3882,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 122,
-      "Кузнецов Михаил Варфоломеевич": 117,
-      "Лабунина Людмила Павловна": 7,
-      "Лисин Андрей Геннадьевич": 27,
-      "Митропольский Виктор Георгиевич": 22,
-      "Никитин Владимир Степанович": 209,
-      "Сигуткин Алексей Алексеевич": 272,
-      "Смирнов Игорь Евгеньевич": 56,
-      "Темин Василий Сергеевич": 21,
-      "Шлосберг Лев Маркович": 50,
-      "Против всех": 107
+      "gas:candidate-vibid:1001000190400": 122,
+      "gas:candidate-vibid:260200070537": 117,
+      "gas:candidate-vibid:260200074054": 7,
+      "gas:candidate-vibid:260200070585": 27,
+      "gas:candidate-vibid:260200070606": 22,
+      "gas:candidate-vibid:1001000121893": 209,
+      "gas:candidate-vibid:1001000225972": 272,
+      "gas:candidate-vibid:1001000220835": 56,
+      "gas:candidate-vibid:1001000136103": 21,
+      "gas:candidate-vibid:1001000112244": 50,
+      "special:against-all": 107
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070485&region=0&sub_region=0&type=429",
@@ -3942,17 +3942,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 108,
-      "Кузнецов Михаил Варфоломеевич": 81,
-      "Лабунина Людмила Павловна": 5,
-      "Лисин Андрей Геннадьевич": 9,
-      "Митропольский Виктор Георгиевич": 15,
-      "Никитин Владимир Степанович": 174,
-      "Сигуткин Алексей Алексеевич": 288,
-      "Смирнов Игорь Евгеньевич": 43,
-      "Темин Василий Сергеевич": 25,
-      "Шлосберг Лев Маркович": 40,
-      "Против всех": 100
+      "gas:candidate-vibid:1001000190400": 108,
+      "gas:candidate-vibid:260200070537": 81,
+      "gas:candidate-vibid:260200074054": 5,
+      "gas:candidate-vibid:260200070585": 9,
+      "gas:candidate-vibid:260200070606": 15,
+      "gas:candidate-vibid:1001000121893": 174,
+      "gas:candidate-vibid:1001000225972": 288,
+      "gas:candidate-vibid:1001000220835": 43,
+      "gas:candidate-vibid:1001000136103": 25,
+      "gas:candidate-vibid:1001000112244": 40,
+      "special:against-all": 100
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070485&region=0&sub_region=0&type=429",
@@ -4002,17 +4002,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 77,
-      "Кузнецов Михаил Варфоломеевич": 141,
-      "Лабунина Людмила Павловна": 24,
-      "Лисин Андрей Геннадьевич": 30,
-      "Митропольский Виктор Георгиевич": 27,
-      "Никитин Владимир Степанович": 108,
-      "Сигуткин Алексей Алексеевич": 315,
-      "Смирнов Игорь Евгеньевич": 42,
-      "Темин Василий Сергеевич": 53,
-      "Шлосберг Лев Маркович": 16,
-      "Против всех": 198
+      "gas:candidate-vibid:1001000190400": 77,
+      "gas:candidate-vibid:260200070537": 141,
+      "gas:candidate-vibid:260200074054": 24,
+      "gas:candidate-vibid:260200070585": 30,
+      "gas:candidate-vibid:260200070606": 27,
+      "gas:candidate-vibid:1001000121893": 108,
+      "gas:candidate-vibid:1001000225972": 315,
+      "gas:candidate-vibid:1001000220835": 42,
+      "gas:candidate-vibid:1001000136103": 53,
+      "gas:candidate-vibid:1001000112244": 16,
+      "special:against-all": 198
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070485&region=0&sub_region=0&type=429",
@@ -4062,17 +4062,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 151,
-      "Кузнецов Михаил Варфоломеевич": 149,
-      "Лабунина Людмила Павловна": 10,
-      "Лисин Андрей Геннадьевич": 33,
-      "Митропольский Виктор Георгиевич": 20,
-      "Никитин Владимир Степанович": 248,
-      "Сигуткин Алексей Алексеевич": 395,
-      "Смирнов Игорь Евгеньевич": 45,
-      "Темин Василий Сергеевич": 22,
-      "Шлосберг Лев Маркович": 44,
-      "Против всех": 138
+      "gas:candidate-vibid:1001000190400": 151,
+      "gas:candidate-vibid:260200070537": 149,
+      "gas:candidate-vibid:260200074054": 10,
+      "gas:candidate-vibid:260200070585": 33,
+      "gas:candidate-vibid:260200070606": 20,
+      "gas:candidate-vibid:1001000121893": 248,
+      "gas:candidate-vibid:1001000225972": 395,
+      "gas:candidate-vibid:1001000220835": 45,
+      "gas:candidate-vibid:1001000136103": 22,
+      "gas:candidate-vibid:1001000112244": 44,
+      "special:against-all": 138
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070485&region=0&sub_region=0&type=429",
@@ -4122,17 +4122,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 91,
-      "Кузнецов Михаил Варфоломеевич": 88,
-      "Лабунина Людмила Павловна": 11,
-      "Лисин Андрей Геннадьевич": 27,
-      "Митропольский Виктор Георгиевич": 26,
-      "Никитин Владимир Степанович": 164,
-      "Сигуткин Алексей Алексеевич": 216,
-      "Смирнов Игорь Евгеньевич": 20,
-      "Темин Василий Сергеевич": 23,
-      "Шлосберг Лев Маркович": 42,
-      "Против всех": 87
+      "gas:candidate-vibid:1001000190400": 91,
+      "gas:candidate-vibid:260200070537": 88,
+      "gas:candidate-vibid:260200074054": 11,
+      "gas:candidate-vibid:260200070585": 27,
+      "gas:candidate-vibid:260200070606": 26,
+      "gas:candidate-vibid:1001000121893": 164,
+      "gas:candidate-vibid:1001000225972": 216,
+      "gas:candidate-vibid:1001000220835": 20,
+      "gas:candidate-vibid:1001000136103": 23,
+      "gas:candidate-vibid:1001000112244": 42,
+      "special:against-all": 87
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070485&region=0&sub_region=0&type=429",
@@ -4182,17 +4182,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 98,
-      "Кузнецов Михаил Варфоломеевич": 101,
-      "Лабунина Людмила Павловна": 11,
-      "Лисин Андрей Геннадьевич": 20,
-      "Митропольский Виктор Георгиевич": 6,
-      "Никитин Владимир Степанович": 182,
-      "Сигуткин Алексей Алексеевич": 177,
-      "Смирнов Игорь Евгеньевич": 33,
-      "Темин Василий Сергеевич": 29,
-      "Шлосберг Лев Маркович": 24,
-      "Против всех": 69
+      "gas:candidate-vibid:1001000190400": 98,
+      "gas:candidate-vibid:260200070537": 101,
+      "gas:candidate-vibid:260200074054": 11,
+      "gas:candidate-vibid:260200070585": 20,
+      "gas:candidate-vibid:260200070606": 6,
+      "gas:candidate-vibid:1001000121893": 182,
+      "gas:candidate-vibid:1001000225972": 177,
+      "gas:candidate-vibid:1001000220835": 33,
+      "gas:candidate-vibid:1001000136103": 29,
+      "gas:candidate-vibid:1001000112244": 24,
+      "special:against-all": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070485&region=0&sub_region=0&type=429",
@@ -4242,17 +4242,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 118,
-      "Кузнецов Михаил Варфоломеевич": 137,
-      "Лабунина Людмила Павловна": 8,
-      "Лисин Андрей Геннадьевич": 34,
-      "Митропольский Виктор Георгиевич": 15,
-      "Никитин Владимир Степанович": 217,
-      "Сигуткин Алексей Алексеевич": 268,
-      "Смирнов Игорь Евгеньевич": 55,
-      "Темин Василий Сергеевич": 34,
-      "Шлосберг Лев Маркович": 47,
-      "Против всех": 134
+      "gas:candidate-vibid:1001000190400": 118,
+      "gas:candidate-vibid:260200070537": 137,
+      "gas:candidate-vibid:260200074054": 8,
+      "gas:candidate-vibid:260200070585": 34,
+      "gas:candidate-vibid:260200070606": 15,
+      "gas:candidate-vibid:1001000121893": 217,
+      "gas:candidate-vibid:1001000225972": 268,
+      "gas:candidate-vibid:1001000220835": 55,
+      "gas:candidate-vibid:1001000136103": 34,
+      "gas:candidate-vibid:1001000112244": 47,
+      "special:against-all": 134
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070485&region=0&sub_region=0&type=429",
@@ -4302,17 +4302,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 111,
-      "Кузнецов Михаил Варфоломеевич": 147,
-      "Лабунина Людмила Павловна": 10,
-      "Лисин Андрей Геннадьевич": 22,
-      "Митропольский Виктор Георгиевич": 13,
-      "Никитин Владимир Степанович": 217,
-      "Сигуткин Алексей Алексеевич": 245,
-      "Смирнов Игорь Евгеньевич": 27,
-      "Темин Василий Сергеевич": 21,
-      "Шлосберг Лев Маркович": 35,
-      "Против всех": 85
+      "gas:candidate-vibid:1001000190400": 111,
+      "gas:candidate-vibid:260200070537": 147,
+      "gas:candidate-vibid:260200074054": 10,
+      "gas:candidate-vibid:260200070585": 22,
+      "gas:candidate-vibid:260200070606": 13,
+      "gas:candidate-vibid:1001000121893": 217,
+      "gas:candidate-vibid:1001000225972": 245,
+      "gas:candidate-vibid:1001000220835": 27,
+      "gas:candidate-vibid:1001000136103": 21,
+      "gas:candidate-vibid:1001000112244": 35,
+      "special:against-all": 85
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070485&region=0&sub_region=0&type=429",
@@ -4362,17 +4362,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 124,
-      "Кузнецов Михаил Варфоломеевич": 236,
-      "Лабунина Людмила Павловна": 11,
-      "Лисин Андрей Геннадьевич": 45,
-      "Митропольский Виктор Георгиевич": 25,
-      "Никитин Владимир Степанович": 273,
-      "Сигуткин Алексей Алексеевич": 306,
-      "Смирнов Игорь Евгеньевич": 67,
-      "Темин Василий Сергеевич": 27,
-      "Шлосберг Лев Маркович": 72,
-      "Против всех": 148
+      "gas:candidate-vibid:1001000190400": 124,
+      "gas:candidate-vibid:260200070537": 236,
+      "gas:candidate-vibid:260200074054": 11,
+      "gas:candidate-vibid:260200070585": 45,
+      "gas:candidate-vibid:260200070606": 25,
+      "gas:candidate-vibid:1001000121893": 273,
+      "gas:candidate-vibid:1001000225972": 306,
+      "gas:candidate-vibid:1001000220835": 67,
+      "gas:candidate-vibid:1001000136103": 27,
+      "gas:candidate-vibid:1001000112244": 72,
+      "special:against-all": 148
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070485&region=0&sub_region=0&type=429",
@@ -4422,17 +4422,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 107,
-      "Кузнецов Михаил Варфоломеевич": 119,
-      "Лабунина Людмила Павловна": 16,
-      "Лисин Андрей Геннадьевич": 38,
-      "Митропольский Виктор Георгиевич": 19,
-      "Никитин Владимир Степанович": 160,
-      "Сигуткин Алексей Алексеевич": 203,
-      "Смирнов Игорь Евгеньевич": 52,
-      "Темин Василий Сергеевич": 56,
-      "Шлосберг Лев Маркович": 30,
-      "Против всех": 191
+      "gas:candidate-vibid:1001000190400": 107,
+      "gas:candidate-vibid:260200070537": 119,
+      "gas:candidate-vibid:260200074054": 16,
+      "gas:candidate-vibid:260200070585": 38,
+      "gas:candidate-vibid:260200070606": 19,
+      "gas:candidate-vibid:1001000121893": 160,
+      "gas:candidate-vibid:1001000225972": 203,
+      "gas:candidate-vibid:1001000220835": 52,
+      "gas:candidate-vibid:1001000136103": 56,
+      "gas:candidate-vibid:1001000112244": 30,
+      "special:against-all": 191
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070485&region=0&sub_region=0&type=429",
@@ -4482,17 +4482,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 144,
-      "Кузнецов Михаил Варфоломеевич": 156,
-      "Лабунина Людмила Павловна": 17,
-      "Лисин Андрей Геннадьевич": 39,
-      "Митропольский Виктор Георгиевич": 29,
-      "Никитин Владимир Степанович": 218,
-      "Сигуткин Алексей Алексеевич": 289,
-      "Смирнов Игорь Евгеньевич": 51,
-      "Темин Василий Сергеевич": 32,
-      "Шлосберг Лев Маркович": 48,
-      "Против всех": 110
+      "gas:candidate-vibid:1001000190400": 144,
+      "gas:candidate-vibid:260200070537": 156,
+      "gas:candidate-vibid:260200074054": 17,
+      "gas:candidate-vibid:260200070585": 39,
+      "gas:candidate-vibid:260200070606": 29,
+      "gas:candidate-vibid:1001000121893": 218,
+      "gas:candidate-vibid:1001000225972": 289,
+      "gas:candidate-vibid:1001000220835": 51,
+      "gas:candidate-vibid:1001000136103": 32,
+      "gas:candidate-vibid:1001000112244": 48,
+      "special:against-all": 110
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070485&region=0&sub_region=0&type=429",
@@ -4542,17 +4542,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 105,
-      "Кузнецов Михаил Варфоломеевич": 131,
-      "Лабунина Людмила Павловна": 11,
-      "Лисин Андрей Геннадьевич": 26,
-      "Митропольский Виктор Георгиевич": 31,
-      "Никитин Владимир Степанович": 193,
-      "Сигуткин Алексей Алексеевич": 313,
-      "Смирнов Игорь Евгеньевич": 41,
-      "Темин Василий Сергеевич": 29,
-      "Шлосберг Лев Маркович": 59,
-      "Против всех": 149
+      "gas:candidate-vibid:1001000190400": 105,
+      "gas:candidate-vibid:260200070537": 131,
+      "gas:candidate-vibid:260200074054": 11,
+      "gas:candidate-vibid:260200070585": 26,
+      "gas:candidate-vibid:260200070606": 31,
+      "gas:candidate-vibid:1001000121893": 193,
+      "gas:candidate-vibid:1001000225972": 313,
+      "gas:candidate-vibid:1001000220835": 41,
+      "gas:candidate-vibid:1001000136103": 29,
+      "gas:candidate-vibid:1001000112244": 59,
+      "special:against-all": 149
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070485&region=0&sub_region=0&type=429",
@@ -4602,17 +4602,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 123,
-      "Кузнецов Михаил Варфоломеевич": 155,
-      "Лабунина Людмила Павловна": 12,
-      "Лисин Андрей Геннадьевич": 33,
-      "Митропольский Виктор Георгиевич": 20,
-      "Никитин Владимир Степанович": 220,
-      "Сигуткин Алексей Алексеевич": 330,
-      "Смирнов Игорь Евгеньевич": 55,
-      "Темин Василий Сергеевич": 31,
-      "Шлосберг Лев Маркович": 59,
-      "Против всех": 125
+      "gas:candidate-vibid:1001000190400": 123,
+      "gas:candidate-vibid:260200070537": 155,
+      "gas:candidate-vibid:260200074054": 12,
+      "gas:candidate-vibid:260200070585": 33,
+      "gas:candidate-vibid:260200070606": 20,
+      "gas:candidate-vibid:1001000121893": 220,
+      "gas:candidate-vibid:1001000225972": 330,
+      "gas:candidate-vibid:1001000220835": 55,
+      "gas:candidate-vibid:1001000136103": 31,
+      "gas:candidate-vibid:1001000112244": 59,
+      "special:against-all": 125
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070485&region=0&sub_region=0&type=429",
@@ -4662,17 +4662,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 121,
-      "Кузнецов Михаил Варфоломеевич": 161,
-      "Лабунина Людмила Павловна": 14,
-      "Лисин Андрей Геннадьевич": 36,
-      "Митропольский Виктор Георгиевич": 15,
-      "Никитин Владимир Степанович": 178,
-      "Сигуткин Алексей Алексеевич": 271,
-      "Смирнов Игорь Евгеньевич": 64,
-      "Темин Василий Сергеевич": 28,
-      "Шлосберг Лев Маркович": 70,
-      "Против всех": 135
+      "gas:candidate-vibid:1001000190400": 121,
+      "gas:candidate-vibid:260200070537": 161,
+      "gas:candidate-vibid:260200074054": 14,
+      "gas:candidate-vibid:260200070585": 36,
+      "gas:candidate-vibid:260200070606": 15,
+      "gas:candidate-vibid:1001000121893": 178,
+      "gas:candidate-vibid:1001000225972": 271,
+      "gas:candidate-vibid:1001000220835": 64,
+      "gas:candidate-vibid:1001000136103": 28,
+      "gas:candidate-vibid:1001000112244": 70,
+      "special:against-all": 135
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070485&region=0&sub_region=0&type=429",
@@ -4722,17 +4722,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 102,
-      "Кузнецов Михаил Варфоломеевич": 142,
-      "Лабунина Людмила Павловна": 10,
-      "Лисин Андрей Геннадьевич": 37,
-      "Митропольский Виктор Георгиевич": 34,
-      "Никитин Владимир Степанович": 174,
-      "Сигуткин Алексей Алексеевич": 229,
-      "Смирнов Игорь Евгеньевич": 41,
-      "Темин Василий Сергеевич": 30,
-      "Шлосберг Лев Маркович": 41,
-      "Против всех": 118
+      "gas:candidate-vibid:1001000190400": 102,
+      "gas:candidate-vibid:260200070537": 142,
+      "gas:candidate-vibid:260200074054": 10,
+      "gas:candidate-vibid:260200070585": 37,
+      "gas:candidate-vibid:260200070606": 34,
+      "gas:candidate-vibid:1001000121893": 174,
+      "gas:candidate-vibid:1001000225972": 229,
+      "gas:candidate-vibid:1001000220835": 41,
+      "gas:candidate-vibid:1001000136103": 30,
+      "gas:candidate-vibid:1001000112244": 41,
+      "special:against-all": 118
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070485&region=0&sub_region=0&type=429",
@@ -4782,17 +4782,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 119,
-      "Кузнецов Михаил Варфоломеевич": 130,
-      "Лабунина Людмила Павловна": 12,
-      "Лисин Андрей Геннадьевич": 41,
-      "Митропольский Виктор Георгиевич": 22,
-      "Никитин Владимир Степанович": 219,
-      "Сигуткин Алексей Алексеевич": 240,
-      "Смирнов Игорь Евгеньевич": 75,
-      "Темин Василий Сергеевич": 17,
-      "Шлосберг Лев Маркович": 56,
-      "Против всех": 138
+      "gas:candidate-vibid:1001000190400": 119,
+      "gas:candidate-vibid:260200070537": 130,
+      "gas:candidate-vibid:260200074054": 12,
+      "gas:candidate-vibid:260200070585": 41,
+      "gas:candidate-vibid:260200070606": 22,
+      "gas:candidate-vibid:1001000121893": 219,
+      "gas:candidate-vibid:1001000225972": 240,
+      "gas:candidate-vibid:1001000220835": 75,
+      "gas:candidate-vibid:1001000136103": 17,
+      "gas:candidate-vibid:1001000112244": 56,
+      "special:against-all": 138
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070485&region=0&sub_region=0&type=429",
@@ -4842,17 +4842,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 110,
-      "Кузнецов Михаил Варфоломеевич": 65,
-      "Лабунина Людмила Павловна": 15,
-      "Лисин Андрей Геннадьевич": 24,
-      "Митропольский Виктор Георгиевич": 15,
-      "Никитин Владимир Степанович": 60,
-      "Сигуткин Алексей Алексеевич": 238,
-      "Смирнов Игорь Евгеньевич": 40,
-      "Темин Василий Сергеевич": 26,
-      "Шлосберг Лев Маркович": 64,
-      "Против всех": 164
+      "gas:candidate-vibid:1001000190400": 110,
+      "gas:candidate-vibid:260200070537": 65,
+      "gas:candidate-vibid:260200074054": 15,
+      "gas:candidate-vibid:260200070585": 24,
+      "gas:candidate-vibid:260200070606": 15,
+      "gas:candidate-vibid:1001000121893": 60,
+      "gas:candidate-vibid:1001000225972": 238,
+      "gas:candidate-vibid:1001000220835": 40,
+      "gas:candidate-vibid:1001000136103": 26,
+      "gas:candidate-vibid:1001000112244": 64,
+      "special:against-all": 164
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070485&region=0&sub_region=0&type=429",
@@ -4902,17 +4902,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 148,
-      "Кузнецов Михаил Варфоломеевич": 215,
-      "Лабунина Людмила Павловна": 11,
-      "Лисин Андрей Геннадьевич": 41,
-      "Митропольский Виктор Георгиевич": 17,
-      "Никитин Владимир Степанович": 268,
-      "Сигуткин Алексей Алексеевич": 323,
-      "Смирнов Игорь Евгеньевич": 60,
-      "Темин Василий Сергеевич": 31,
-      "Шлосберг Лев Маркович": 79,
-      "Против всех": 129
+      "gas:candidate-vibid:1001000190400": 148,
+      "gas:candidate-vibid:260200070537": 215,
+      "gas:candidate-vibid:260200074054": 11,
+      "gas:candidate-vibid:260200070585": 41,
+      "gas:candidate-vibid:260200070606": 17,
+      "gas:candidate-vibid:1001000121893": 268,
+      "gas:candidate-vibid:1001000225972": 323,
+      "gas:candidate-vibid:1001000220835": 60,
+      "gas:candidate-vibid:1001000136103": 31,
+      "gas:candidate-vibid:1001000112244": 79,
+      "special:against-all": 129
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070485&region=0&sub_region=0&type=429",
@@ -4962,17 +4962,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 125,
-      "Кузнецов Михаил Варфоломеевич": 195,
-      "Лабунина Людмила Павловна": 16,
-      "Лисин Андрей Геннадьевич": 59,
-      "Митропольский Виктор Георгиевич": 33,
-      "Никитин Владимир Степанович": 253,
-      "Сигуткин Алексей Алексеевич": 303,
-      "Смирнов Игорь Евгеньевич": 69,
-      "Темин Василий Сергеевич": 29,
-      "Шлосберг Лев Маркович": 87,
-      "Против всех": 189
+      "gas:candidate-vibid:1001000190400": 125,
+      "gas:candidate-vibid:260200070537": 195,
+      "gas:candidate-vibid:260200074054": 16,
+      "gas:candidate-vibid:260200070585": 59,
+      "gas:candidate-vibid:260200070606": 33,
+      "gas:candidate-vibid:1001000121893": 253,
+      "gas:candidate-vibid:1001000225972": 303,
+      "gas:candidate-vibid:1001000220835": 69,
+      "gas:candidate-vibid:1001000136103": 29,
+      "gas:candidate-vibid:1001000112244": 87,
+      "special:against-all": 189
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070485&region=0&sub_region=0&type=429",
@@ -5022,17 +5022,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 157,
-      "Кузнецов Михаил Варфоломеевич": 191,
-      "Лабунина Людмила Павловна": 13,
-      "Лисин Андрей Геннадьевич": 65,
-      "Митропольский Виктор Георгиевич": 28,
-      "Никитин Владимир Степанович": 266,
-      "Сигуткин Алексей Алексеевич": 300,
-      "Смирнов Игорь Евгеньевич": 100,
-      "Темин Василий Сергеевич": 40,
-      "Шлосберг Лев Маркович": 90,
-      "Против всех": 152
+      "gas:candidate-vibid:1001000190400": 157,
+      "gas:candidate-vibid:260200070537": 191,
+      "gas:candidate-vibid:260200074054": 13,
+      "gas:candidate-vibid:260200070585": 65,
+      "gas:candidate-vibid:260200070606": 28,
+      "gas:candidate-vibid:1001000121893": 266,
+      "gas:candidate-vibid:1001000225972": 300,
+      "gas:candidate-vibid:1001000220835": 100,
+      "gas:candidate-vibid:1001000136103": 40,
+      "gas:candidate-vibid:1001000112244": 90,
+      "special:against-all": 152
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070485&region=0&sub_region=0&type=429",
@@ -5082,17 +5082,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 169,
-      "Кузнецов Михаил Варфоломеевич": 161,
-      "Лабунина Людмила Павловна": 7,
-      "Лисин Андрей Геннадьевич": 18,
-      "Митропольский Виктор Георгиевич": 39,
-      "Никитин Владимир Степанович": 164,
-      "Сигуткин Алексей Алексеевич": 403,
-      "Смирнов Игорь Евгеньевич": 63,
-      "Темин Василий Сергеевич": 29,
-      "Шлосберг Лев Маркович": 91,
-      "Против всех": 179
+      "gas:candidate-vibid:1001000190400": 169,
+      "gas:candidate-vibid:260200070537": 161,
+      "gas:candidate-vibid:260200074054": 7,
+      "gas:candidate-vibid:260200070585": 18,
+      "gas:candidate-vibid:260200070606": 39,
+      "gas:candidate-vibid:1001000121893": 164,
+      "gas:candidate-vibid:1001000225972": 403,
+      "gas:candidate-vibid:1001000220835": 63,
+      "gas:candidate-vibid:1001000136103": 29,
+      "gas:candidate-vibid:1001000112244": 91,
+      "special:against-all": 179
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070485&region=0&sub_region=0&type=429",
@@ -5142,17 +5142,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 136,
-      "Кузнецов Михаил Варфоломеевич": 153,
-      "Лабунина Людмила Павловна": 11,
-      "Лисин Андрей Геннадьевич": 37,
-      "Митропольский Виктор Георгиевич": 30,
-      "Никитин Владимир Степанович": 198,
-      "Сигуткин Алексей Алексеевич": 320,
-      "Смирнов Игорь Евгеньевич": 70,
-      "Темин Василий Сергеевич": 28,
-      "Шлосберг Лев Маркович": 75,
-      "Против всех": 158
+      "gas:candidate-vibid:1001000190400": 136,
+      "gas:candidate-vibid:260200070537": 153,
+      "gas:candidate-vibid:260200074054": 11,
+      "gas:candidate-vibid:260200070585": 37,
+      "gas:candidate-vibid:260200070606": 30,
+      "gas:candidate-vibid:1001000121893": 198,
+      "gas:candidate-vibid:1001000225972": 320,
+      "gas:candidate-vibid:1001000220835": 70,
+      "gas:candidate-vibid:1001000136103": 28,
+      "gas:candidate-vibid:1001000112244": 75,
+      "special:against-all": 158
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070485&region=0&sub_region=0&type=429",
@@ -5202,17 +5202,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 140,
-      "Кузнецов Михаил Варфоломеевич": 187,
-      "Лабунина Людмила Павловна": 19,
-      "Лисин Андрей Геннадьевич": 26,
-      "Митропольский Виктор Георгиевич": 36,
-      "Никитин Владимир Степанович": 230,
-      "Сигуткин Алексей Алексеевич": 377,
-      "Смирнов Игорь Евгеньевич": 55,
-      "Темин Василий Сергеевич": 34,
-      "Шлосберг Лев Маркович": 69,
-      "Против всех": 161
+      "gas:candidate-vibid:1001000190400": 140,
+      "gas:candidate-vibid:260200070537": 187,
+      "gas:candidate-vibid:260200074054": 19,
+      "gas:candidate-vibid:260200070585": 26,
+      "gas:candidate-vibid:260200070606": 36,
+      "gas:candidate-vibid:1001000121893": 230,
+      "gas:candidate-vibid:1001000225972": 377,
+      "gas:candidate-vibid:1001000220835": 55,
+      "gas:candidate-vibid:1001000136103": 34,
+      "gas:candidate-vibid:1001000112244": 69,
+      "special:against-all": 161
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070485&region=0&sub_region=0&type=429",
@@ -5262,17 +5262,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 162,
-      "Кузнецов Михаил Варфоломеевич": 210,
-      "Лабунина Людмила Павловна": 13,
-      "Лисин Андрей Геннадьевич": 31,
-      "Митропольский Виктор Георгиевич": 24,
-      "Никитин Владимир Степанович": 172,
-      "Сигуткин Алексей Алексеевич": 361,
-      "Смирнов Игорь Евгеньевич": 72,
-      "Темин Василий Сергеевич": 29,
-      "Шлосберг Лев Маркович": 73,
-      "Против всех": 175
+      "gas:candidate-vibid:1001000190400": 162,
+      "gas:candidate-vibid:260200070537": 210,
+      "gas:candidate-vibid:260200074054": 13,
+      "gas:candidate-vibid:260200070585": 31,
+      "gas:candidate-vibid:260200070606": 24,
+      "gas:candidate-vibid:1001000121893": 172,
+      "gas:candidate-vibid:1001000225972": 361,
+      "gas:candidate-vibid:1001000220835": 72,
+      "gas:candidate-vibid:1001000136103": 29,
+      "gas:candidate-vibid:1001000112244": 73,
+      "special:against-all": 175
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070485&region=0&sub_region=0&type=429",
@@ -5322,17 +5322,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 95,
-      "Кузнецов Михаил Варфоломеевич": 122,
-      "Лабунина Людмила Павловна": 11,
-      "Лисин Андрей Геннадьевич": 27,
-      "Митропольский Виктор Георгиевич": 13,
-      "Никитин Владимир Степанович": 202,
-      "Сигуткин Алексей Алексеевич": 298,
-      "Смирнов Игорь Евгеньевич": 46,
-      "Темин Василий Сергеевич": 16,
-      "Шлосберг Лев Маркович": 85,
-      "Против всех": 162
+      "gas:candidate-vibid:1001000190400": 95,
+      "gas:candidate-vibid:260200070537": 122,
+      "gas:candidate-vibid:260200074054": 11,
+      "gas:candidate-vibid:260200070585": 27,
+      "gas:candidate-vibid:260200070606": 13,
+      "gas:candidate-vibid:1001000121893": 202,
+      "gas:candidate-vibid:1001000225972": 298,
+      "gas:candidate-vibid:1001000220835": 46,
+      "gas:candidate-vibid:1001000136103": 16,
+      "gas:candidate-vibid:1001000112244": 85,
+      "special:against-all": 162
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070485&region=0&sub_region=0&type=429",
@@ -5382,17 +5382,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 154,
-      "Кузнецов Михаил Варфоломеевич": 177,
-      "Лабунина Людмила Павловна": 13,
-      "Лисин Андрей Геннадьевич": 30,
-      "Митропольский Виктор Георгиевич": 26,
-      "Никитин Владимир Степанович": 247,
-      "Сигуткин Алексей Алексеевич": 414,
-      "Смирнов Игорь Евгеньевич": 68,
-      "Темин Василий Сергеевич": 41,
-      "Шлосберг Лев Маркович": 99,
-      "Против всех": 175
+      "gas:candidate-vibid:1001000190400": 154,
+      "gas:candidate-vibid:260200070537": 177,
+      "gas:candidate-vibid:260200074054": 13,
+      "gas:candidate-vibid:260200070585": 30,
+      "gas:candidate-vibid:260200070606": 26,
+      "gas:candidate-vibid:1001000121893": 247,
+      "gas:candidate-vibid:1001000225972": 414,
+      "gas:candidate-vibid:1001000220835": 68,
+      "gas:candidate-vibid:1001000136103": 41,
+      "gas:candidate-vibid:1001000112244": 99,
+      "special:against-all": 175
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070485&region=0&sub_region=0&type=429",
@@ -5442,17 +5442,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 139,
-      "Кузнецов Михаил Варфоломеевич": 172,
-      "Лабунина Людмила Павловна": 19,
-      "Лисин Андрей Геннадьевич": 44,
-      "Митропольский Виктор Георгиевич": 25,
-      "Никитин Владимир Степанович": 257,
-      "Сигуткин Алексей Алексеевич": 342,
-      "Смирнов Игорь Евгеньевич": 75,
-      "Темин Василий Сергеевич": 30,
-      "Шлосберг Лев Маркович": 77,
-      "Против всех": 172
+      "gas:candidate-vibid:1001000190400": 139,
+      "gas:candidate-vibid:260200070537": 172,
+      "gas:candidate-vibid:260200074054": 19,
+      "gas:candidate-vibid:260200070585": 44,
+      "gas:candidate-vibid:260200070606": 25,
+      "gas:candidate-vibid:1001000121893": 257,
+      "gas:candidate-vibid:1001000225972": 342,
+      "gas:candidate-vibid:1001000220835": 75,
+      "gas:candidate-vibid:1001000136103": 30,
+      "gas:candidate-vibid:1001000112244": 77,
+      "special:against-all": 172
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070485&region=0&sub_region=0&type=429",
@@ -5502,17 +5502,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 186,
-      "Кузнецов Михаил Варфоломеевич": 181,
-      "Лабунина Людмила Павловна": 11,
-      "Лисин Андрей Геннадьевич": 36,
-      "Митропольский Виктор Георгиевич": 27,
-      "Никитин Владимир Степанович": 302,
-      "Сигуткин Алексей Алексеевич": 338,
-      "Смирнов Игорь Евгеньевич": 92,
-      "Темин Василий Сергеевич": 25,
-      "Шлосберг Лев Маркович": 87,
-      "Против всех": 180
+      "gas:candidate-vibid:1001000190400": 186,
+      "gas:candidate-vibid:260200070537": 181,
+      "gas:candidate-vibid:260200074054": 11,
+      "gas:candidate-vibid:260200070585": 36,
+      "gas:candidate-vibid:260200070606": 27,
+      "gas:candidate-vibid:1001000121893": 302,
+      "gas:candidate-vibid:1001000225972": 338,
+      "gas:candidate-vibid:1001000220835": 92,
+      "gas:candidate-vibid:1001000136103": 25,
+      "gas:candidate-vibid:1001000112244": 87,
+      "special:against-all": 180
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070485&region=0&sub_region=0&type=429",
@@ -5562,17 +5562,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 115,
-      "Кузнецов Михаил Варфоломеевич": 178,
-      "Лабунина Людмила Павловна": 6,
-      "Лисин Андрей Геннадьевич": 40,
-      "Митропольский Виктор Георгиевич": 29,
-      "Никитин Владимир Степанович": 260,
-      "Сигуткин Алексей Алексеевич": 251,
-      "Смирнов Игорь Евгеньевич": 63,
-      "Темин Василий Сергеевич": 25,
-      "Шлосберг Лев Маркович": 61,
-      "Против всех": 139
+      "gas:candidate-vibid:1001000190400": 115,
+      "gas:candidate-vibid:260200070537": 178,
+      "gas:candidate-vibid:260200074054": 6,
+      "gas:candidate-vibid:260200070585": 40,
+      "gas:candidate-vibid:260200070606": 29,
+      "gas:candidate-vibid:1001000121893": 260,
+      "gas:candidate-vibid:1001000225972": 251,
+      "gas:candidate-vibid:1001000220835": 63,
+      "gas:candidate-vibid:1001000136103": 25,
+      "gas:candidate-vibid:1001000112244": 61,
+      "special:against-all": 139
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070485&region=0&sub_region=0&type=429",
@@ -5622,17 +5622,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 150,
-      "Кузнецов Михаил Варфоломеевич": 138,
-      "Лабунина Людмила Павловна": 16,
-      "Лисин Андрей Геннадьевич": 45,
-      "Митропольский Виктор Георгиевич": 35,
-      "Никитин Владимир Степанович": 237,
-      "Сигуткин Алексей Алексеевич": 257,
-      "Смирнов Игорь Евгеньевич": 66,
-      "Темин Василий Сергеевич": 36,
-      "Шлосберг Лев Маркович": 92,
-      "Против всех": 159
+      "gas:candidate-vibid:1001000190400": 150,
+      "gas:candidate-vibid:260200070537": 138,
+      "gas:candidate-vibid:260200074054": 16,
+      "gas:candidate-vibid:260200070585": 45,
+      "gas:candidate-vibid:260200070606": 35,
+      "gas:candidate-vibid:1001000121893": 237,
+      "gas:candidate-vibid:1001000225972": 257,
+      "gas:candidate-vibid:1001000220835": 66,
+      "gas:candidate-vibid:1001000136103": 36,
+      "gas:candidate-vibid:1001000112244": 92,
+      "special:against-all": 159
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070485&region=0&sub_region=0&type=429",
@@ -5682,17 +5682,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 117,
-      "Кузнецов Михаил Варфоломеевич": 183,
-      "Лабунина Людмила Павловна": 7,
-      "Лисин Андрей Геннадьевич": 49,
-      "Митропольский Виктор Георгиевич": 22,
-      "Никитин Владимир Степанович": 260,
-      "Сигуткин Алексей Алексеевич": 267,
-      "Смирнов Игорь Евгеньевич": 80,
-      "Темин Василий Сергеевич": 23,
-      "Шлосберг Лев Маркович": 61,
-      "Против всех": 142
+      "gas:candidate-vibid:1001000190400": 117,
+      "gas:candidate-vibid:260200070537": 183,
+      "gas:candidate-vibid:260200074054": 7,
+      "gas:candidate-vibid:260200070585": 49,
+      "gas:candidate-vibid:260200070606": 22,
+      "gas:candidate-vibid:1001000121893": 260,
+      "gas:candidate-vibid:1001000225972": 267,
+      "gas:candidate-vibid:1001000220835": 80,
+      "gas:candidate-vibid:1001000136103": 23,
+      "gas:candidate-vibid:1001000112244": 61,
+      "special:against-all": 142
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070485&region=0&sub_region=0&type=429",
@@ -5742,17 +5742,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 132,
-      "Кузнецов Михаил Варфоломеевич": 156,
-      "Лабунина Людмила Павловна": 13,
-      "Лисин Андрей Геннадьевич": 52,
-      "Митропольский Виктор Георгиевич": 21,
-      "Никитин Владимир Степанович": 212,
-      "Сигуткин Алексей Алексеевич": 302,
-      "Смирнов Игорь Евгеньевич": 58,
-      "Темин Василий Сергеевич": 23,
-      "Шлосберг Лев Маркович": 77,
-      "Против всех": 142
+      "gas:candidate-vibid:1001000190400": 132,
+      "gas:candidate-vibid:260200070537": 156,
+      "gas:candidate-vibid:260200074054": 13,
+      "gas:candidate-vibid:260200070585": 52,
+      "gas:candidate-vibid:260200070606": 21,
+      "gas:candidate-vibid:1001000121893": 212,
+      "gas:candidate-vibid:1001000225972": 302,
+      "gas:candidate-vibid:1001000220835": 58,
+      "gas:candidate-vibid:1001000136103": 23,
+      "gas:candidate-vibid:1001000112244": 77,
+      "special:against-all": 142
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070485&region=0&sub_region=0&type=429",
@@ -5802,17 +5802,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 145,
-      "Кузнецов Михаил Варфоломеевич": 187,
-      "Лабунина Людмила Павловна": 9,
-      "Лисин Андрей Геннадьевич": 35,
-      "Митропольский Виктор Георгиевич": 27,
-      "Никитин Владимир Степанович": 188,
-      "Сигуткин Алексей Алексеевич": 360,
-      "Смирнов Игорь Евгеньевич": 36,
-      "Темин Василий Сергеевич": 51,
-      "Шлосберг Лев Маркович": 65,
-      "Против всех": 138
+      "gas:candidate-vibid:1001000190400": 145,
+      "gas:candidate-vibid:260200070537": 187,
+      "gas:candidate-vibid:260200074054": 9,
+      "gas:candidate-vibid:260200070585": 35,
+      "gas:candidate-vibid:260200070606": 27,
+      "gas:candidate-vibid:1001000121893": 188,
+      "gas:candidate-vibid:1001000225972": 360,
+      "gas:candidate-vibid:1001000220835": 36,
+      "gas:candidate-vibid:1001000136103": 51,
+      "gas:candidate-vibid:1001000112244": 65,
+      "special:against-all": 138
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070485&region=0&sub_region=0&type=429",
@@ -5862,17 +5862,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 139,
-      "Кузнецов Михаил Варфоломеевич": 222,
-      "Лабунина Людмила Павловна": 17,
-      "Лисин Андрей Геннадьевич": 49,
-      "Митропольский Виктор Георгиевич": 23,
-      "Никитин Владимир Степанович": 270,
-      "Сигуткин Алексей Алексеевич": 338,
-      "Смирнов Игорь Евгеньевич": 59,
-      "Темин Василий Сергеевич": 47,
-      "Шлосберг Лев Маркович": 96,
-      "Против всех": 178
+      "gas:candidate-vibid:1001000190400": 139,
+      "gas:candidate-vibid:260200070537": 222,
+      "gas:candidate-vibid:260200074054": 17,
+      "gas:candidate-vibid:260200070585": 49,
+      "gas:candidate-vibid:260200070606": 23,
+      "gas:candidate-vibid:1001000121893": 270,
+      "gas:candidate-vibid:1001000225972": 338,
+      "gas:candidate-vibid:1001000220835": 59,
+      "gas:candidate-vibid:1001000136103": 47,
+      "gas:candidate-vibid:1001000112244": 96,
+      "special:against-all": 178
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070485&region=0&sub_region=0&type=429",
@@ -5922,17 +5922,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 155,
-      "Кузнецов Михаил Варфоломеевич": 240,
-      "Лабунина Людмила Павловна": 13,
-      "Лисин Андрей Геннадьевич": 52,
-      "Митропольский Виктор Георгиевич": 42,
-      "Никитин Владимир Степанович": 302,
-      "Сигуткин Алексей Алексеевич": 360,
-      "Смирнов Игорь Евгеньевич": 76,
-      "Темин Василий Сергеевич": 32,
-      "Шлосберг Лев Маркович": 72,
-      "Против всех": 141
+      "gas:candidate-vibid:1001000190400": 155,
+      "gas:candidate-vibid:260200070537": 240,
+      "gas:candidate-vibid:260200074054": 13,
+      "gas:candidate-vibid:260200070585": 52,
+      "gas:candidate-vibid:260200070606": 42,
+      "gas:candidate-vibid:1001000121893": 302,
+      "gas:candidate-vibid:1001000225972": 360,
+      "gas:candidate-vibid:1001000220835": 76,
+      "gas:candidate-vibid:1001000136103": 32,
+      "gas:candidate-vibid:1001000112244": 72,
+      "special:against-all": 141
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070485&region=0&sub_region=0&type=429",
@@ -5982,17 +5982,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 151,
-      "Кузнецов Михаил Варфоломеевич": 167,
-      "Лабунина Людмила Павловна": 13,
-      "Лисин Андрей Геннадьевич": 44,
-      "Митропольский Виктор Георгиевич": 18,
-      "Никитин Владимир Степанович": 266,
-      "Сигуткин Алексей Алексеевич": 300,
-      "Смирнов Игорь Евгеньевич": 56,
-      "Темин Василий Сергеевич": 37,
-      "Шлосберг Лев Маркович": 80,
-      "Против всех": 140
+      "gas:candidate-vibid:1001000190400": 151,
+      "gas:candidate-vibid:260200070537": 167,
+      "gas:candidate-vibid:260200074054": 13,
+      "gas:candidate-vibid:260200070585": 44,
+      "gas:candidate-vibid:260200070606": 18,
+      "gas:candidate-vibid:1001000121893": 266,
+      "gas:candidate-vibid:1001000225972": 300,
+      "gas:candidate-vibid:1001000220835": 56,
+      "gas:candidate-vibid:1001000136103": 37,
+      "gas:candidate-vibid:1001000112244": 80,
+      "special:against-all": 140
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070485&region=0&sub_region=0&type=429",
@@ -6042,17 +6042,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 130,
-      "Кузнецов Михаил Варфоломеевич": 162,
-      "Лабунина Людмила Павловна": 5,
-      "Лисин Андрей Геннадьевич": 42,
-      "Митропольский Виктор Георгиевич": 18,
-      "Никитин Владимир Степанович": 206,
-      "Сигуткин Алексей Алексеевич": 348,
-      "Смирнов Игорь Евгеньевич": 43,
-      "Темин Василий Сергеевич": 26,
-      "Шлосберг Лев Маркович": 77,
-      "Против всех": 126
+      "gas:candidate-vibid:1001000190400": 130,
+      "gas:candidate-vibid:260200070537": 162,
+      "gas:candidate-vibid:260200074054": 5,
+      "gas:candidate-vibid:260200070585": 42,
+      "gas:candidate-vibid:260200070606": 18,
+      "gas:candidate-vibid:1001000121893": 206,
+      "gas:candidate-vibid:1001000225972": 348,
+      "gas:candidate-vibid:1001000220835": 43,
+      "gas:candidate-vibid:1001000136103": 26,
+      "gas:candidate-vibid:1001000112244": 77,
+      "special:against-all": 126
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070485&region=0&sub_region=0&type=429",
@@ -6102,17 +6102,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 146,
-      "Кузнецов Михаил Варфоломеевич": 146,
-      "Лабунина Людмила Павловна": 12,
-      "Лисин Андрей Геннадьевич": 45,
-      "Митропольский Виктор Георгиевич": 17,
-      "Никитин Владимир Степанович": 202,
-      "Сигуткин Алексей Алексеевич": 280,
-      "Смирнов Игорь Евгеньевич": 57,
-      "Темин Василий Сергеевич": 13,
-      "Шлосберг Лев Маркович": 94,
-      "Против всех": 157
+      "gas:candidate-vibid:1001000190400": 146,
+      "gas:candidate-vibid:260200070537": 146,
+      "gas:candidate-vibid:260200074054": 12,
+      "gas:candidate-vibid:260200070585": 45,
+      "gas:candidate-vibid:260200070606": 17,
+      "gas:candidate-vibid:1001000121893": 202,
+      "gas:candidate-vibid:1001000225972": 280,
+      "gas:candidate-vibid:1001000220835": 57,
+      "gas:candidate-vibid:1001000136103": 13,
+      "gas:candidate-vibid:1001000112244": 94,
+      "special:against-all": 157
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070485&region=0&sub_region=0&type=429",
@@ -6162,17 +6162,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 74,
-      "Кузнецов Михаил Варфоломеевич": 133,
-      "Лабунина Людмила Павловна": 5,
-      "Лисин Андрей Геннадьевич": 46,
-      "Митропольский Виктор Георгиевич": 16,
-      "Никитин Владимир Степанович": 117,
-      "Сигуткин Алексей Алексеевич": 196,
-      "Смирнов Игорь Евгеньевич": 41,
-      "Темин Василий Сергеевич": 40,
-      "Шлосберг Лев Маркович": 30,
-      "Против всех": 91
+      "gas:candidate-vibid:1001000190400": 74,
+      "gas:candidate-vibid:260200070537": 133,
+      "gas:candidate-vibid:260200074054": 5,
+      "gas:candidate-vibid:260200070585": 46,
+      "gas:candidate-vibid:260200070606": 16,
+      "gas:candidate-vibid:1001000121893": 117,
+      "gas:candidate-vibid:1001000225972": 196,
+      "gas:candidate-vibid:1001000220835": 41,
+      "gas:candidate-vibid:1001000136103": 40,
+      "gas:candidate-vibid:1001000112244": 30,
+      "special:against-all": 91
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070485&region=0&sub_region=0&type=429",
@@ -6222,17 +6222,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 107,
-      "Кузнецов Михаил Варфоломеевич": 159,
-      "Лабунина Людмила Павловна": 7,
-      "Лисин Андрей Геннадьевич": 16,
-      "Митропольский Виктор Георгиевич": 17,
-      "Никитин Владимир Степанович": 165,
-      "Сигуткин Алексей Алексеевич": 310,
-      "Смирнов Игорь Евгеньевич": 38,
-      "Темин Василий Сергеевич": 28,
-      "Шлосберг Лев Маркович": 41,
-      "Против всех": 143
+      "gas:candidate-vibid:1001000190400": 107,
+      "gas:candidate-vibid:260200070537": 159,
+      "gas:candidate-vibid:260200074054": 7,
+      "gas:candidate-vibid:260200070585": 16,
+      "gas:candidate-vibid:260200070606": 17,
+      "gas:candidate-vibid:1001000121893": 165,
+      "gas:candidate-vibid:1001000225972": 310,
+      "gas:candidate-vibid:1001000220835": 38,
+      "gas:candidate-vibid:1001000136103": 28,
+      "gas:candidate-vibid:1001000112244": 41,
+      "special:against-all": 143
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070485&region=0&sub_region=0&type=429",
@@ -6282,17 +6282,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 86,
-      "Кузнецов Михаил Варфоломеевич": 195,
-      "Лабунина Людмила Павловна": 17,
-      "Лисин Андрей Геннадьевич": 26,
-      "Митропольский Виктор Георгиевич": 7,
-      "Никитин Владимир Степанович": 147,
-      "Сигуткин Алексей Алексеевич": 174,
-      "Смирнов Игорь Евгеньевич": 39,
-      "Темин Василий Сергеевич": 26,
-      "Шлосберг Лев Маркович": 43,
-      "Против всех": 97
+      "gas:candidate-vibid:1001000190400": 86,
+      "gas:candidate-vibid:260200070537": 195,
+      "gas:candidate-vibid:260200074054": 17,
+      "gas:candidate-vibid:260200070585": 26,
+      "gas:candidate-vibid:260200070606": 7,
+      "gas:candidate-vibid:1001000121893": 147,
+      "gas:candidate-vibid:1001000225972": 174,
+      "gas:candidate-vibid:1001000220835": 39,
+      "gas:candidate-vibid:1001000136103": 26,
+      "gas:candidate-vibid:1001000112244": 43,
+      "special:against-all": 97
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070485&region=0&sub_region=0&type=429",
@@ -6342,17 +6342,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 131,
-      "Кузнецов Михаил Варфоломеевич": 172,
-      "Лабунина Людмила Павловна": 13,
-      "Лисин Андрей Геннадьевич": 22,
-      "Митропольский Виктор Георгиевич": 26,
-      "Никитин Владимир Степанович": 173,
-      "Сигуткин Алексей Алексеевич": 346,
-      "Смирнов Игорь Евгеньевич": 40,
-      "Темин Василий Сергеевич": 37,
-      "Шлосберг Лев Маркович": 33,
-      "Против всех": 105
+      "gas:candidate-vibid:1001000190400": 131,
+      "gas:candidate-vibid:260200070537": 172,
+      "gas:candidate-vibid:260200074054": 13,
+      "gas:candidate-vibid:260200070585": 22,
+      "gas:candidate-vibid:260200070606": 26,
+      "gas:candidate-vibid:1001000121893": 173,
+      "gas:candidate-vibid:1001000225972": 346,
+      "gas:candidate-vibid:1001000220835": 40,
+      "gas:candidate-vibid:1001000136103": 37,
+      "gas:candidate-vibid:1001000112244": 33,
+      "special:against-all": 105
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070485&region=0&sub_region=0&type=429",
@@ -6402,17 +6402,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 64,
-      "Кузнецов Михаил Варфоломеевич": 101,
-      "Лабунина Людмила Павловна": 1,
-      "Лисин Андрей Геннадьевич": 11,
-      "Митропольский Виктор Георгиевич": 6,
-      "Никитин Владимир Степанович": 84,
-      "Сигуткин Алексей Алексеевич": 127,
-      "Смирнов Игорь Евгеньевич": 22,
-      "Темин Василий Сергеевич": 15,
-      "Шлосберг Лев Маркович": 10,
-      "Против всех": 69
+      "gas:candidate-vibid:1001000190400": 64,
+      "gas:candidate-vibid:260200070537": 101,
+      "gas:candidate-vibid:260200074054": 1,
+      "gas:candidate-vibid:260200070585": 11,
+      "gas:candidate-vibid:260200070606": 6,
+      "gas:candidate-vibid:1001000121893": 84,
+      "gas:candidate-vibid:1001000225972": 127,
+      "gas:candidate-vibid:1001000220835": 22,
+      "gas:candidate-vibid:1001000136103": 15,
+      "gas:candidate-vibid:1001000112244": 10,
+      "special:against-all": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070485&region=0&sub_region=0&type=429",
@@ -6462,17 +6462,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 149,
-      "Кузнецов Михаил Варфоломеевич": 179,
-      "Лабунина Людмила Павловна": 20,
-      "Лисин Андрей Геннадьевич": 26,
-      "Митропольский Виктор Георгиевич": 20,
-      "Никитин Владимир Степанович": 262,
-      "Сигуткин Алексей Алексеевич": 367,
-      "Смирнов Игорь Евгеньевич": 54,
-      "Темин Василий Сергеевич": 35,
-      "Шлосберг Лев Маркович": 56,
-      "Против всех": 141
+      "gas:candidate-vibid:1001000190400": 149,
+      "gas:candidate-vibid:260200070537": 179,
+      "gas:candidate-vibid:260200074054": 20,
+      "gas:candidate-vibid:260200070585": 26,
+      "gas:candidate-vibid:260200070606": 20,
+      "gas:candidate-vibid:1001000121893": 262,
+      "gas:candidate-vibid:1001000225972": 367,
+      "gas:candidate-vibid:1001000220835": 54,
+      "gas:candidate-vibid:1001000136103": 35,
+      "gas:candidate-vibid:1001000112244": 56,
+      "special:against-all": 141
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070485&region=0&sub_region=0&type=429",
@@ -6522,17 +6522,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 143,
-      "Кузнецов Михаил Варфоломеевич": 159,
-      "Лабунина Людмила Павловна": 16,
-      "Лисин Андрей Геннадьевич": 29,
-      "Митропольский Виктор Георгиевич": 30,
-      "Никитин Владимир Степанович": 252,
-      "Сигуткин Алексей Алексеевич": 325,
-      "Смирнов Игорь Евгеньевич": 42,
-      "Темин Василий Сергеевич": 35,
-      "Шлосберг Лев Маркович": 49,
-      "Против всех": 125
+      "gas:candidate-vibid:1001000190400": 143,
+      "gas:candidate-vibid:260200070537": 159,
+      "gas:candidate-vibid:260200074054": 16,
+      "gas:candidate-vibid:260200070585": 29,
+      "gas:candidate-vibid:260200070606": 30,
+      "gas:candidate-vibid:1001000121893": 252,
+      "gas:candidate-vibid:1001000225972": 325,
+      "gas:candidate-vibid:1001000220835": 42,
+      "gas:candidate-vibid:1001000136103": 35,
+      "gas:candidate-vibid:1001000112244": 49,
+      "special:against-all": 125
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070485&region=0&sub_region=0&type=429",
@@ -6582,17 +6582,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 154,
-      "Кузнецов Михаил Варфоломеевич": 114,
-      "Лабунина Людмила Павловна": 9,
-      "Лисин Андрей Геннадьевич": 29,
-      "Митропольский Виктор Георгиевич": 15,
-      "Никитин Владимир Степанович": 203,
-      "Сигуткин Алексей Алексеевич": 288,
-      "Смирнов Игорь Евгеньевич": 28,
-      "Темин Василий Сергеевич": 28,
-      "Шлосберг Лев Маркович": 23,
-      "Против всех": 109
+      "gas:candidate-vibid:1001000190400": 154,
+      "gas:candidate-vibid:260200070537": 114,
+      "gas:candidate-vibid:260200074054": 9,
+      "gas:candidate-vibid:260200070585": 29,
+      "gas:candidate-vibid:260200070606": 15,
+      "gas:candidate-vibid:1001000121893": 203,
+      "gas:candidate-vibid:1001000225972": 288,
+      "gas:candidate-vibid:1001000220835": 28,
+      "gas:candidate-vibid:1001000136103": 28,
+      "gas:candidate-vibid:1001000112244": 23,
+      "special:against-all": 109
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070485&region=0&sub_region=0&type=429",
@@ -6642,17 +6642,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 111,
-      "Кузнецов Михаил Варфоломеевич": 142,
-      "Лабунина Людмила Павловна": 8,
-      "Лисин Андрей Геннадьевич": 38,
-      "Митропольский Виктор Георгиевич": 21,
-      "Никитин Владимир Степанович": 249,
-      "Сигуткин Алексей Алексеевич": 231,
-      "Смирнов Игорь Евгеньевич": 31,
-      "Темин Василий Сергеевич": 28,
-      "Шлосберг Лев Маркович": 45,
-      "Против всех": 146
+      "gas:candidate-vibid:1001000190400": 111,
+      "gas:candidate-vibid:260200070537": 142,
+      "gas:candidate-vibid:260200074054": 8,
+      "gas:candidate-vibid:260200070585": 38,
+      "gas:candidate-vibid:260200070606": 21,
+      "gas:candidate-vibid:1001000121893": 249,
+      "gas:candidate-vibid:1001000225972": 231,
+      "gas:candidate-vibid:1001000220835": 31,
+      "gas:candidate-vibid:1001000136103": 28,
+      "gas:candidate-vibid:1001000112244": 45,
+      "special:against-all": 146
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070485&region=0&sub_region=0&type=429",
@@ -6702,17 +6702,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 153,
-      "Кузнецов Михаил Варфоломеевич": 154,
-      "Лабунина Людмила Павловна": 12,
-      "Лисин Андрей Геннадьевич": 55,
-      "Митропольский Виктор Георгиевич": 36,
-      "Никитин Владимир Степанович": 259,
-      "Сигуткин Алексей Алексеевич": 296,
-      "Смирнов Игорь Евгеньевич": 72,
-      "Темин Василий Сергеевич": 32,
-      "Шлосберг Лев Маркович": 63,
-      "Против всех": 139
+      "gas:candidate-vibid:1001000190400": 153,
+      "gas:candidate-vibid:260200070537": 154,
+      "gas:candidate-vibid:260200074054": 12,
+      "gas:candidate-vibid:260200070585": 55,
+      "gas:candidate-vibid:260200070606": 36,
+      "gas:candidate-vibid:1001000121893": 259,
+      "gas:candidate-vibid:1001000225972": 296,
+      "gas:candidate-vibid:1001000220835": 72,
+      "gas:candidate-vibid:1001000136103": 32,
+      "gas:candidate-vibid:1001000112244": 63,
+      "special:against-all": 139
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070485&region=0&sub_region=0&type=429",
@@ -6762,17 +6762,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 117,
-      "Кузнецов Михаил Варфоломеевич": 121,
-      "Лабунина Людмила Павловна": 9,
-      "Лисин Андрей Геннадьевич": 43,
-      "Митропольский Виктор Георгиевич": 20,
-      "Никитин Владимир Степанович": 163,
-      "Сигуткин Алексей Алексеевич": 193,
-      "Смирнов Игорь Евгеньевич": 38,
-      "Темин Василий Сергеевич": 17,
-      "Шлосберг Лев Маркович": 27,
-      "Против всех": 102
+      "gas:candidate-vibid:1001000190400": 117,
+      "gas:candidate-vibid:260200070537": 121,
+      "gas:candidate-vibid:260200074054": 9,
+      "gas:candidate-vibid:260200070585": 43,
+      "gas:candidate-vibid:260200070606": 20,
+      "gas:candidate-vibid:1001000121893": 163,
+      "gas:candidate-vibid:1001000225972": 193,
+      "gas:candidate-vibid:1001000220835": 38,
+      "gas:candidate-vibid:1001000136103": 17,
+      "gas:candidate-vibid:1001000112244": 27,
+      "special:against-all": 102
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070485&region=0&sub_region=0&type=429",
@@ -6822,17 +6822,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 106,
-      "Кузнецов Михаил Варфоломеевич": 132,
-      "Лабунина Людмила Павловна": 11,
-      "Лисин Андрей Геннадьевич": 34,
-      "Митропольский Виктор Георгиевич": 30,
-      "Никитин Владимир Степанович": 203,
-      "Сигуткин Алексей Алексеевич": 273,
-      "Смирнов Игорь Евгеньевич": 37,
-      "Темин Василий Сергеевич": 34,
-      "Шлосберг Лев Маркович": 36,
-      "Против всех": 118
+      "gas:candidate-vibid:1001000190400": 106,
+      "gas:candidate-vibid:260200070537": 132,
+      "gas:candidate-vibid:260200074054": 11,
+      "gas:candidate-vibid:260200070585": 34,
+      "gas:candidate-vibid:260200070606": 30,
+      "gas:candidate-vibid:1001000121893": 203,
+      "gas:candidate-vibid:1001000225972": 273,
+      "gas:candidate-vibid:1001000220835": 37,
+      "gas:candidate-vibid:1001000136103": 34,
+      "gas:candidate-vibid:1001000112244": 36,
+      "special:against-all": 118
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070485&region=0&sub_region=0&type=429",
@@ -6882,17 +6882,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 87,
-      "Кузнецов Михаил Варфоломеевич": 132,
-      "Лабунина Людмила Павловна": 4,
-      "Лисин Андрей Геннадьевич": 63,
-      "Митропольский Виктор Георгиевич": 22,
-      "Никитин Владимир Степанович": 202,
-      "Сигуткин Алексей Алексеевич": 253,
-      "Смирнов Игорь Евгеньевич": 30,
-      "Темин Василий Сергеевич": 23,
-      "Шлосберг Лев Маркович": 52,
-      "Против всех": 123
+      "gas:candidate-vibid:1001000190400": 87,
+      "gas:candidate-vibid:260200070537": 132,
+      "gas:candidate-vibid:260200074054": 4,
+      "gas:candidate-vibid:260200070585": 63,
+      "gas:candidate-vibid:260200070606": 22,
+      "gas:candidate-vibid:1001000121893": 202,
+      "gas:candidate-vibid:1001000225972": 253,
+      "gas:candidate-vibid:1001000220835": 30,
+      "gas:candidate-vibid:1001000136103": 23,
+      "gas:candidate-vibid:1001000112244": 52,
+      "special:against-all": 123
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070485&region=0&sub_region=0&type=429",
@@ -6942,17 +6942,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 141,
-      "Кузнецов Михаил Варфоломеевич": 112,
-      "Лабунина Людмила Павловна": 8,
-      "Лисин Андрей Геннадьевич": 41,
-      "Митропольский Виктор Георгиевич": 16,
-      "Никитин Владимир Степанович": 191,
-      "Сигуткин Алексей Алексеевич": 239,
-      "Смирнов Игорь Евгеньевич": 33,
-      "Темин Василий Сергеевич": 22,
-      "Шлосберг Лев Маркович": 34,
-      "Против всех": 117
+      "gas:candidate-vibid:1001000190400": 141,
+      "gas:candidate-vibid:260200070537": 112,
+      "gas:candidate-vibid:260200074054": 8,
+      "gas:candidate-vibid:260200070585": 41,
+      "gas:candidate-vibid:260200070606": 16,
+      "gas:candidate-vibid:1001000121893": 191,
+      "gas:candidate-vibid:1001000225972": 239,
+      "gas:candidate-vibid:1001000220835": 33,
+      "gas:candidate-vibid:1001000136103": 22,
+      "gas:candidate-vibid:1001000112244": 34,
+      "special:against-all": 117
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070485&region=0&sub_region=0&type=429",
@@ -7002,17 +7002,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 118,
-      "Кузнецов Михаил Варфоломеевич": 107,
-      "Лабунина Людмила Павловна": 8,
-      "Лисин Андрей Геннадьевич": 40,
-      "Митропольский Виктор Георгиевич": 30,
-      "Никитин Владимир Степанович": 218,
-      "Сигуткин Алексей Алексеевич": 206,
-      "Смирнов Игорь Евгеньевич": 40,
-      "Темин Василий Сергеевич": 25,
-      "Шлосберг Лев Маркович": 47,
-      "Против всех": 122
+      "gas:candidate-vibid:1001000190400": 118,
+      "gas:candidate-vibid:260200070537": 107,
+      "gas:candidate-vibid:260200074054": 8,
+      "gas:candidate-vibid:260200070585": 40,
+      "gas:candidate-vibid:260200070606": 30,
+      "gas:candidate-vibid:1001000121893": 218,
+      "gas:candidate-vibid:1001000225972": 206,
+      "gas:candidate-vibid:1001000220835": 40,
+      "gas:candidate-vibid:1001000136103": 25,
+      "gas:candidate-vibid:1001000112244": 47,
+      "special:against-all": 122
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070485&region=0&sub_region=0&type=429",
@@ -7062,17 +7062,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 113,
-      "Кузнецов Михаил Варфоломеевич": 92,
-      "Лабунина Людмила Павловна": 11,
-      "Лисин Андрей Геннадьевич": 54,
-      "Митропольский Виктор Георгиевич": 22,
-      "Никитин Владимир Степанович": 195,
-      "Сигуткин Алексей Алексеевич": 257,
-      "Смирнов Игорь Евгеньевич": 53,
-      "Темин Василий Сергеевич": 25,
-      "Шлосберг Лев Маркович": 41,
-      "Против всех": 124
+      "gas:candidate-vibid:1001000190400": 113,
+      "gas:candidate-vibid:260200070537": 92,
+      "gas:candidate-vibid:260200074054": 11,
+      "gas:candidate-vibid:260200070585": 54,
+      "gas:candidate-vibid:260200070606": 22,
+      "gas:candidate-vibid:1001000121893": 195,
+      "gas:candidate-vibid:1001000225972": 257,
+      "gas:candidate-vibid:1001000220835": 53,
+      "gas:candidate-vibid:1001000136103": 25,
+      "gas:candidate-vibid:1001000112244": 41,
+      "special:against-all": 124
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070485&region=0&sub_region=0&type=429",
@@ -7122,17 +7122,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 199,
-      "Кузнецов Михаил Варфоломеевич": 176,
-      "Лабунина Людмила Павловна": 15,
-      "Лисин Андрей Геннадьевич": 61,
-      "Митропольский Виктор Георгиевич": 38,
-      "Никитин Владимир Степанович": 303,
-      "Сигуткин Алексей Алексеевич": 322,
-      "Смирнов Игорь Евгеньевич": 60,
-      "Темин Василий Сергеевич": 39,
-      "Шлосберг Лев Маркович": 57,
-      "Против всех": 138
+      "gas:candidate-vibid:1001000190400": 199,
+      "gas:candidate-vibid:260200070537": 176,
+      "gas:candidate-vibid:260200074054": 15,
+      "gas:candidate-vibid:260200070585": 61,
+      "gas:candidate-vibid:260200070606": 38,
+      "gas:candidate-vibid:1001000121893": 303,
+      "gas:candidate-vibid:1001000225972": 322,
+      "gas:candidate-vibid:1001000220835": 60,
+      "gas:candidate-vibid:1001000136103": 39,
+      "gas:candidate-vibid:1001000112244": 57,
+      "special:against-all": 138
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070485&region=0&sub_region=0&type=429",
@@ -7182,17 +7182,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 98,
-      "Кузнецов Михаил Варфоломеевич": 133,
-      "Лабунина Людмила Павловна": 7,
-      "Лисин Андрей Геннадьевич": 44,
-      "Митропольский Виктор Георгиевич": 17,
-      "Никитин Владимир Степанович": 155,
-      "Сигуткин Алексей Алексеевич": 181,
-      "Смирнов Игорь Евгеньевич": 40,
-      "Темин Василий Сергеевич": 20,
-      "Шлосберг Лев Маркович": 46,
-      "Против всех": 104
+      "gas:candidate-vibid:1001000190400": 98,
+      "gas:candidate-vibid:260200070537": 133,
+      "gas:candidate-vibid:260200074054": 7,
+      "gas:candidate-vibid:260200070585": 44,
+      "gas:candidate-vibid:260200070606": 17,
+      "gas:candidate-vibid:1001000121893": 155,
+      "gas:candidate-vibid:1001000225972": 181,
+      "gas:candidate-vibid:1001000220835": 40,
+      "gas:candidate-vibid:1001000136103": 20,
+      "gas:candidate-vibid:1001000112244": 46,
+      "special:against-all": 104
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070485&region=0&sub_region=0&type=429",
@@ -7242,17 +7242,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 150,
-      "Кузнецов Михаил Варфоломеевич": 130,
-      "Лабунина Людмила Павловна": 12,
-      "Лисин Андрей Геннадьевич": 41,
-      "Митропольский Виктор Георгиевич": 14,
-      "Никитин Владимир Степанович": 174,
-      "Сигуткин Алексей Алексеевич": 193,
-      "Смирнов Игорь Евгеньевич": 46,
-      "Темин Василий Сергеевич": 32,
-      "Шлосберг Лев Маркович": 53,
-      "Против всех": 143
+      "gas:candidate-vibid:1001000190400": 150,
+      "gas:candidate-vibid:260200070537": 130,
+      "gas:candidate-vibid:260200074054": 12,
+      "gas:candidate-vibid:260200070585": 41,
+      "gas:candidate-vibid:260200070606": 14,
+      "gas:candidate-vibid:1001000121893": 174,
+      "gas:candidate-vibid:1001000225972": 193,
+      "gas:candidate-vibid:1001000220835": 46,
+      "gas:candidate-vibid:1001000136103": 32,
+      "gas:candidate-vibid:1001000112244": 53,
+      "special:against-all": 143
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070485&region=0&sub_region=0&type=429",
@@ -7302,17 +7302,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 130,
-      "Кузнецов Михаил Варфоломеевич": 223,
-      "Лабунина Людмила Павловна": 14,
-      "Лисин Андрей Геннадьевич": 38,
-      "Митропольский Виктор Георгиевич": 25,
-      "Никитин Владимир Степанович": 188,
-      "Сигуткин Алексей Алексеевич": 218,
-      "Смирнов Игорь Евгеньевич": 59,
-      "Темин Василий Сергеевич": 37,
-      "Шлосберг Лев Маркович": 44,
-      "Против всех": 163
+      "gas:candidate-vibid:1001000190400": 130,
+      "gas:candidate-vibid:260200070537": 223,
+      "gas:candidate-vibid:260200074054": 14,
+      "gas:candidate-vibid:260200070585": 38,
+      "gas:candidate-vibid:260200070606": 25,
+      "gas:candidate-vibid:1001000121893": 188,
+      "gas:candidate-vibid:1001000225972": 218,
+      "gas:candidate-vibid:1001000220835": 59,
+      "gas:candidate-vibid:1001000136103": 37,
+      "gas:candidate-vibid:1001000112244": 44,
+      "special:against-all": 163
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070485&region=0&sub_region=0&type=429",
@@ -7362,17 +7362,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 85,
-      "Кузнецов Михаил Варфоломеевич": 103,
-      "Лабунина Людмила Павловна": 9,
-      "Лисин Андрей Геннадьевич": 44,
-      "Митропольский Виктор Георгиевич": 11,
-      "Никитин Владимир Степанович": 109,
-      "Сигуткин Алексей Алексеевич": 172,
-      "Смирнов Игорь Евгеньевич": 28,
-      "Темин Василий Сергеевич": 13,
-      "Шлосберг Лев Маркович": 29,
-      "Против всех": 123
+      "gas:candidate-vibid:1001000190400": 85,
+      "gas:candidate-vibid:260200070537": 103,
+      "gas:candidate-vibid:260200074054": 9,
+      "gas:candidate-vibid:260200070585": 44,
+      "gas:candidate-vibid:260200070606": 11,
+      "gas:candidate-vibid:1001000121893": 109,
+      "gas:candidate-vibid:1001000225972": 172,
+      "gas:candidate-vibid:1001000220835": 28,
+      "gas:candidate-vibid:1001000136103": 13,
+      "gas:candidate-vibid:1001000112244": 29,
+      "special:against-all": 123
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070485&region=0&sub_region=0&type=429",
@@ -7422,17 +7422,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 29,
-      "Кузнецов Михаил Варфоломеевич": 25,
-      "Лабунина Людмила Павловна": 3,
-      "Лисин Андрей Геннадьевич": 1,
-      "Митропольский Виктор Георгиевич": 3,
-      "Никитин Владимир Степанович": 47,
-      "Сигуткин Алексей Алексеевич": 61,
-      "Смирнов Игорь Евгеньевич": 12,
-      "Темин Василий Сергеевич": 4,
-      "Шлосберг Лев Маркович": 7,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000190400": 29,
+      "gas:candidate-vibid:260200070537": 25,
+      "gas:candidate-vibid:260200074054": 3,
+      "gas:candidate-vibid:260200070585": 1,
+      "gas:candidate-vibid:260200070606": 3,
+      "gas:candidate-vibid:1001000121893": 47,
+      "gas:candidate-vibid:1001000225972": 61,
+      "gas:candidate-vibid:1001000220835": 12,
+      "gas:candidate-vibid:1001000136103": 4,
+      "gas:candidate-vibid:1001000112244": 7,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070485&region=0&sub_region=0&type=429",
@@ -7482,17 +7482,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 35,
-      "Кузнецов Михаил Варфоломеевич": 28,
-      "Лабунина Людмила Павловна": 6,
-      "Лисин Андрей Геннадьевич": 4,
-      "Митропольский Виктор Георгиевич": 5,
-      "Никитин Владимир Степанович": 41,
-      "Сигуткин Алексей Алексеевич": 54,
-      "Смирнов Игорь Евгеньевич": 13,
-      "Темин Василий Сергеевич": 9,
-      "Шлосберг Лев Маркович": 4,
-      "Против всех": 31
+      "gas:candidate-vibid:1001000190400": 35,
+      "gas:candidate-vibid:260200070537": 28,
+      "gas:candidate-vibid:260200074054": 6,
+      "gas:candidate-vibid:260200070585": 4,
+      "gas:candidate-vibid:260200070606": 5,
+      "gas:candidate-vibid:1001000121893": 41,
+      "gas:candidate-vibid:1001000225972": 54,
+      "gas:candidate-vibid:1001000220835": 13,
+      "gas:candidate-vibid:1001000136103": 9,
+      "gas:candidate-vibid:1001000112244": 4,
+      "special:against-all": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070485&region=0&sub_region=0&type=429",
@@ -7542,17 +7542,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 122,
-      "Кузнецов Михаил Варфоломеевич": 490,
-      "Лабунина Людмила Павловна": 1,
-      "Лисин Андрей Геннадьевич": 14,
-      "Митропольский Виктор Георгиевич": 45,
-      "Никитин Владимир Степанович": 293,
-      "Сигуткин Алексей Алексеевич": 447,
-      "Смирнов Игорь Евгеньевич": 20,
-      "Темин Василий Сергеевич": 29,
-      "Шлосберг Лев Маркович": 9,
-      "Против всех": 71
+      "gas:candidate-vibid:1001000190400": 122,
+      "gas:candidate-vibid:260200070537": 490,
+      "gas:candidate-vibid:260200074054": 1,
+      "gas:candidate-vibid:260200070585": 14,
+      "gas:candidate-vibid:260200070606": 45,
+      "gas:candidate-vibid:1001000121893": 293,
+      "gas:candidate-vibid:1001000225972": 447,
+      "gas:candidate-vibid:1001000220835": 20,
+      "gas:candidate-vibid:1001000136103": 29,
+      "gas:candidate-vibid:1001000112244": 9,
+      "special:against-all": 71
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070486&region=0&sub_region=0&type=429",
@@ -7602,17 +7602,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 106,
-      "Кузнецов Михаил Варфоломеевич": 341,
-      "Лабунина Людмила Павловна": 1,
-      "Лисин Андрей Геннадьевич": 15,
-      "Митропольский Виктор Георгиевич": 44,
-      "Никитин Владимир Степанович": 264,
-      "Сигуткин Алексей Алексеевич": 467,
-      "Смирнов Игорь Евгеньевич": 15,
-      "Темин Василий Сергеевич": 50,
-      "Шлосберг Лев Маркович": 4,
-      "Против всех": 65
+      "gas:candidate-vibid:1001000190400": 106,
+      "gas:candidate-vibid:260200070537": 341,
+      "gas:candidate-vibid:260200074054": 1,
+      "gas:candidate-vibid:260200070585": 15,
+      "gas:candidate-vibid:260200070606": 44,
+      "gas:candidate-vibid:1001000121893": 264,
+      "gas:candidate-vibid:1001000225972": 467,
+      "gas:candidate-vibid:1001000220835": 15,
+      "gas:candidate-vibid:1001000136103": 50,
+      "gas:candidate-vibid:1001000112244": 4,
+      "special:against-all": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070486&region=0&sub_region=0&type=429",
@@ -7662,17 +7662,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 62,
-      "Кузнецов Михаил Варфоломеевич": 118,
-      "Лабунина Людмила Павловна": 3,
-      "Лисин Андрей Геннадьевич": 5,
-      "Митропольский Виктор Георгиевич": 3,
-      "Никитин Владимир Степанович": 66,
-      "Сигуткин Алексей Алексеевич": 70,
-      "Смирнов Игорь Евгеньевич": 2,
-      "Темин Василий Сергеевич": 4,
-      "Шлосберг Лев Маркович": 2,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000190400": 62,
+      "gas:candidate-vibid:260200070537": 118,
+      "gas:candidate-vibid:260200074054": 3,
+      "gas:candidate-vibid:260200070585": 5,
+      "gas:candidate-vibid:260200070606": 3,
+      "gas:candidate-vibid:1001000121893": 66,
+      "gas:candidate-vibid:1001000225972": 70,
+      "gas:candidate-vibid:1001000220835": 2,
+      "gas:candidate-vibid:1001000136103": 4,
+      "gas:candidate-vibid:1001000112244": 2,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070486&region=0&sub_region=0&type=429",
@@ -7722,17 +7722,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 2,
-      "Кузнецов Михаил Варфоломеевич": 31,
-      "Лабунина Людмила Павловна": 1,
-      "Лисин Андрей Геннадьевич": 0,
-      "Митропольский Виктор Георгиевич": 2,
-      "Никитин Владимир Степанович": 12,
-      "Сигуткин Алексей Алексеевич": 6,
-      "Смирнов Игорь Евгеньевич": 2,
-      "Темин Василий Сергеевич": 1,
-      "Шлосберг Лев Маркович": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000190400": 2,
+      "gas:candidate-vibid:260200070537": 31,
+      "gas:candidate-vibid:260200074054": 1,
+      "gas:candidate-vibid:260200070585": 0,
+      "gas:candidate-vibid:260200070606": 2,
+      "gas:candidate-vibid:1001000121893": 12,
+      "gas:candidate-vibid:1001000225972": 6,
+      "gas:candidate-vibid:1001000220835": 2,
+      "gas:candidate-vibid:1001000136103": 1,
+      "gas:candidate-vibid:1001000112244": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070486&region=0&sub_region=0&type=429",
@@ -7782,17 +7782,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 23,
-      "Кузнецов Михаил Варфоломеевич": 54,
-      "Лабунина Людмила Павловна": 3,
-      "Лисин Андрей Геннадьевич": 4,
-      "Митропольский Виктор Георгиевич": 3,
-      "Никитин Владимир Степанович": 31,
-      "Сигуткин Алексей Алексеевич": 28,
-      "Смирнов Игорь Евгеньевич": 2,
-      "Темин Василий Сергеевич": 3,
-      "Шлосберг Лев Маркович": 5,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000190400": 23,
+      "gas:candidate-vibid:260200070537": 54,
+      "gas:candidate-vibid:260200074054": 3,
+      "gas:candidate-vibid:260200070585": 4,
+      "gas:candidate-vibid:260200070606": 3,
+      "gas:candidate-vibid:1001000121893": 31,
+      "gas:candidate-vibid:1001000225972": 28,
+      "gas:candidate-vibid:1001000220835": 2,
+      "gas:candidate-vibid:1001000136103": 3,
+      "gas:candidate-vibid:1001000112244": 5,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070486&region=0&sub_region=0&type=429",
@@ -7842,17 +7842,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 19,
-      "Кузнецов Михаил Варфоломеевич": 77,
-      "Лабунина Людмила Павловна": 2,
-      "Лисин Андрей Геннадьевич": 1,
-      "Митропольский Виктор Георгиевич": 5,
-      "Никитин Владимир Степанович": 39,
-      "Сигуткин Алексей Алексеевич": 46,
-      "Смирнов Игорь Евгеньевич": 1,
-      "Темин Василий Сергеевич": 2,
-      "Шлосберг Лев Маркович": 1,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000190400": 19,
+      "gas:candidate-vibid:260200070537": 77,
+      "gas:candidate-vibid:260200074054": 2,
+      "gas:candidate-vibid:260200070585": 1,
+      "gas:candidate-vibid:260200070606": 5,
+      "gas:candidate-vibid:1001000121893": 39,
+      "gas:candidate-vibid:1001000225972": 46,
+      "gas:candidate-vibid:1001000220835": 1,
+      "gas:candidate-vibid:1001000136103": 2,
+      "gas:candidate-vibid:1001000112244": 1,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070486&region=0&sub_region=0&type=429",
@@ -7902,17 +7902,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 21,
-      "Кузнецов Михаил Варфоломеевич": 88,
-      "Лабунина Людмила Павловна": 1,
-      "Лисин Андрей Геннадьевич": 3,
-      "Митропольский Виктор Георгиевич": 7,
-      "Никитин Владимир Степанович": 29,
-      "Сигуткин Алексей Алексеевич": 48,
-      "Смирнов Игорь Евгеньевич": 4,
-      "Темин Василий Сергеевич": 4,
-      "Шлосберг Лев Маркович": 1,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000190400": 21,
+      "gas:candidate-vibid:260200070537": 88,
+      "gas:candidate-vibid:260200074054": 1,
+      "gas:candidate-vibid:260200070585": 3,
+      "gas:candidate-vibid:260200070606": 7,
+      "gas:candidate-vibid:1001000121893": 29,
+      "gas:candidate-vibid:1001000225972": 48,
+      "gas:candidate-vibid:1001000220835": 4,
+      "gas:candidate-vibid:1001000136103": 4,
+      "gas:candidate-vibid:1001000112244": 1,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070486&region=0&sub_region=0&type=429",
@@ -7962,17 +7962,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 18,
-      "Кузнецов Михаил Варфоломеевич": 101,
-      "Лабунина Людмила Павловна": 0,
-      "Лисин Андрей Геннадьевич": 3,
-      "Митропольский Виктор Георгиевич": 1,
-      "Никитин Владимир Степанович": 55,
-      "Сигуткин Алексей Алексеевич": 26,
-      "Смирнов Игорь Евгеньевич": 0,
-      "Темин Василий Сергеевич": 3,
-      "Шлосберг Лев Маркович": 0,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000190400": 18,
+      "gas:candidate-vibid:260200070537": 101,
+      "gas:candidate-vibid:260200074054": 0,
+      "gas:candidate-vibid:260200070585": 3,
+      "gas:candidate-vibid:260200070606": 1,
+      "gas:candidate-vibid:1001000121893": 55,
+      "gas:candidate-vibid:1001000225972": 26,
+      "gas:candidate-vibid:1001000220835": 0,
+      "gas:candidate-vibid:1001000136103": 3,
+      "gas:candidate-vibid:1001000112244": 0,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070486&region=0&sub_region=0&type=429",
@@ -8022,17 +8022,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 59,
-      "Кузнецов Михаил Варфоломеевич": 43,
-      "Лабунина Людмила Павловна": 1,
-      "Лисин Андрей Геннадьевич": 0,
-      "Митропольский Виктор Георгиевич": 1,
-      "Никитин Владимир Степанович": 64,
-      "Сигуткин Алексей Алексеевич": 133,
-      "Смирнов Игорь Евгеньевич": 3,
-      "Темин Василий Сергеевич": 3,
-      "Шлосберг Лев Маркович": 1,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000190400": 59,
+      "gas:candidate-vibid:260200070537": 43,
+      "gas:candidate-vibid:260200074054": 1,
+      "gas:candidate-vibid:260200070585": 0,
+      "gas:candidate-vibid:260200070606": 1,
+      "gas:candidate-vibid:1001000121893": 64,
+      "gas:candidate-vibid:1001000225972": 133,
+      "gas:candidate-vibid:1001000220835": 3,
+      "gas:candidate-vibid:1001000136103": 3,
+      "gas:candidate-vibid:1001000112244": 1,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070486&region=0&sub_region=0&type=429",
@@ -8082,17 +8082,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 28,
-      "Кузнецов Михаил Варфоломеевич": 93,
-      "Лабунина Людмила Павловна": 1,
-      "Лисин Андрей Геннадьевич": 5,
-      "Митропольский Виктор Георгиевич": 4,
-      "Никитин Владимир Степанович": 33,
-      "Сигуткин Алексей Алексеевич": 93,
-      "Смирнов Игорь Евгеньевич": 6,
-      "Темин Василий Сергеевич": 3,
-      "Шлосберг Лев Маркович": 0,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000190400": 28,
+      "gas:candidate-vibid:260200070537": 93,
+      "gas:candidate-vibid:260200074054": 1,
+      "gas:candidate-vibid:260200070585": 5,
+      "gas:candidate-vibid:260200070606": 4,
+      "gas:candidate-vibid:1001000121893": 33,
+      "gas:candidate-vibid:1001000225972": 93,
+      "gas:candidate-vibid:1001000220835": 6,
+      "gas:candidate-vibid:1001000136103": 3,
+      "gas:candidate-vibid:1001000112244": 0,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070486&region=0&sub_region=0&type=429",
@@ -8142,17 +8142,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 41,
-      "Кузнецов Михаил Варфоломеевич": 53,
-      "Лабунина Людмила Павловна": 1,
-      "Лисин Андрей Геннадьевич": 0,
-      "Митропольский Виктор Георгиевич": 0,
-      "Никитин Владимир Степанович": 23,
-      "Сигуткин Алексей Алексеевич": 29,
-      "Смирнов Игорь Евгеньевич": 1,
-      "Темин Василий Сергеевич": 6,
-      "Шлосберг Лев Маркович": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000190400": 41,
+      "gas:candidate-vibid:260200070537": 53,
+      "gas:candidate-vibid:260200074054": 1,
+      "gas:candidate-vibid:260200070585": 0,
+      "gas:candidate-vibid:260200070606": 0,
+      "gas:candidate-vibid:1001000121893": 23,
+      "gas:candidate-vibid:1001000225972": 29,
+      "gas:candidate-vibid:1001000220835": 1,
+      "gas:candidate-vibid:1001000136103": 6,
+      "gas:candidate-vibid:1001000112244": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070486&region=0&sub_region=0&type=429",
@@ -8202,17 +8202,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 53,
-      "Кузнецов Михаил Варфоломеевич": 24,
-      "Лабунина Людмила Павловна": 0,
-      "Лисин Андрей Геннадьевич": 0,
-      "Митропольский Виктор Георгиевич": 3,
-      "Никитин Владимир Степанович": 10,
-      "Сигуткин Алексей Алексеевич": 13,
-      "Смирнов Игорь Евгеньевич": 2,
-      "Темин Василий Сергеевич": 3,
-      "Шлосберг Лев Маркович": 1,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000190400": 53,
+      "gas:candidate-vibid:260200070537": 24,
+      "gas:candidate-vibid:260200074054": 0,
+      "gas:candidate-vibid:260200070585": 0,
+      "gas:candidate-vibid:260200070606": 3,
+      "gas:candidate-vibid:1001000121893": 10,
+      "gas:candidate-vibid:1001000225972": 13,
+      "gas:candidate-vibid:1001000220835": 2,
+      "gas:candidate-vibid:1001000136103": 3,
+      "gas:candidate-vibid:1001000112244": 1,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070486&region=0&sub_region=0&type=429",
@@ -8262,17 +8262,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 103,
-      "Кузнецов Михаил Варфоломеевич": 134,
-      "Лабунина Людмила Павловна": 0,
-      "Лисин Андрей Геннадьевич": 1,
-      "Митропольский Виктор Георгиевич": 5,
-      "Никитин Владимир Степанович": 41,
-      "Сигуткин Алексей Алексеевич": 61,
-      "Смирнов Игорь Евгеньевич": 3,
-      "Темин Василий Сергеевич": 3,
-      "Шлосберг Лев Маркович": 0,
-      "Против всех": 25
+      "gas:candidate-vibid:1001000190400": 103,
+      "gas:candidate-vibid:260200070537": 134,
+      "gas:candidate-vibid:260200074054": 0,
+      "gas:candidate-vibid:260200070585": 1,
+      "gas:candidate-vibid:260200070606": 5,
+      "gas:candidate-vibid:1001000121893": 41,
+      "gas:candidate-vibid:1001000225972": 61,
+      "gas:candidate-vibid:1001000220835": 3,
+      "gas:candidate-vibid:1001000136103": 3,
+      "gas:candidate-vibid:1001000112244": 0,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070486&region=0&sub_region=0&type=429",
@@ -8322,17 +8322,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 19,
-      "Кузнецов Михаил Варфоломеевич": 99,
-      "Лабунина Людмила Павловна": 1,
-      "Лисин Андрей Геннадьевич": 5,
-      "Митропольский Виктор Георгиевич": 1,
-      "Никитин Владимир Степанович": 32,
-      "Сигуткин Алексей Алексеевич": 67,
-      "Смирнов Игорь Евгеньевич": 1,
-      "Темин Василий Сергеевич": 7,
-      "Шлосберг Лев Маркович": 0,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000190400": 19,
+      "gas:candidate-vibid:260200070537": 99,
+      "gas:candidate-vibid:260200074054": 1,
+      "gas:candidate-vibid:260200070585": 5,
+      "gas:candidate-vibid:260200070606": 1,
+      "gas:candidate-vibid:1001000121893": 32,
+      "gas:candidate-vibid:1001000225972": 67,
+      "gas:candidate-vibid:1001000220835": 1,
+      "gas:candidate-vibid:1001000136103": 7,
+      "gas:candidate-vibid:1001000112244": 0,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070486&region=0&sub_region=0&type=429",
@@ -8382,17 +8382,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 6,
-      "Кузнецов Михаил Варфоломеевич": 50,
-      "Лабунина Людмила Павловна": 1,
-      "Лисин Андрей Геннадьевич": 3,
-      "Митропольский Виктор Георгиевич": 0,
-      "Никитин Владимир Степанович": 51,
-      "Сигуткин Алексей Алексеевич": 33,
-      "Смирнов Игорь Евгеньевич": 6,
-      "Темин Василий Сергеевич": 1,
-      "Шлосберг Лев Маркович": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000190400": 6,
+      "gas:candidate-vibid:260200070537": 50,
+      "gas:candidate-vibid:260200074054": 1,
+      "gas:candidate-vibid:260200070585": 3,
+      "gas:candidate-vibid:260200070606": 0,
+      "gas:candidate-vibid:1001000121893": 51,
+      "gas:candidate-vibid:1001000225972": 33,
+      "gas:candidate-vibid:1001000220835": 6,
+      "gas:candidate-vibid:1001000136103": 1,
+      "gas:candidate-vibid:1001000112244": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070486&region=0&sub_region=0&type=429",
@@ -8442,17 +8442,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 8,
-      "Кузнецов Михаил Варфоломеевич": 55,
-      "Лабунина Людмила Павловна": 0,
-      "Лисин Андрей Геннадьевич": 3,
-      "Митропольский Виктор Георгиевич": 3,
-      "Никитин Владимир Степанович": 54,
-      "Сигуткин Алексей Алексеевич": 75,
-      "Смирнов Игорь Евгеньевич": 2,
-      "Темин Василий Сергеевич": 2,
-      "Шлосберг Лев Маркович": 1,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000190400": 8,
+      "gas:candidate-vibid:260200070537": 55,
+      "gas:candidate-vibid:260200074054": 0,
+      "gas:candidate-vibid:260200070585": 3,
+      "gas:candidate-vibid:260200070606": 3,
+      "gas:candidate-vibid:1001000121893": 54,
+      "gas:candidate-vibid:1001000225972": 75,
+      "gas:candidate-vibid:1001000220835": 2,
+      "gas:candidate-vibid:1001000136103": 2,
+      "gas:candidate-vibid:1001000112244": 1,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070486&region=0&sub_region=0&type=429",
@@ -8502,17 +8502,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 13,
-      "Кузнецов Михаил Варфоломеевич": 47,
-      "Лабунина Людмила Павловна": 2,
-      "Лисин Андрей Геннадьевич": 0,
-      "Митропольский Виктор Георгиевич": 3,
-      "Никитин Владимир Степанович": 24,
-      "Сигуткин Алексей Алексеевич": 102,
-      "Смирнов Игорь Евгеньевич": 0,
-      "Темин Василий Сергеевич": 5,
-      "Шлосберг Лев Маркович": 1,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000190400": 13,
+      "gas:candidate-vibid:260200070537": 47,
+      "gas:candidate-vibid:260200074054": 2,
+      "gas:candidate-vibid:260200070585": 0,
+      "gas:candidate-vibid:260200070606": 3,
+      "gas:candidate-vibid:1001000121893": 24,
+      "gas:candidate-vibid:1001000225972": 102,
+      "gas:candidate-vibid:1001000220835": 0,
+      "gas:candidate-vibid:1001000136103": 5,
+      "gas:candidate-vibid:1001000112244": 1,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070486&region=0&sub_region=0&type=429",
@@ -8562,17 +8562,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 12,
-      "Кузнецов Михаил Варфоломеевич": 27,
-      "Лабунина Людмила Павловна": 0,
-      "Лисин Андрей Геннадьевич": 2,
-      "Митропольский Виктор Георгиевич": 0,
-      "Никитин Владимир Степанович": 12,
-      "Сигуткин Алексей Алексеевич": 23,
-      "Смирнов Игорь Евгеньевич": 0,
-      "Темин Василий Сергеевич": 1,
-      "Шлосберг Лев Маркович": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000190400": 12,
+      "gas:candidate-vibid:260200070537": 27,
+      "gas:candidate-vibid:260200074054": 0,
+      "gas:candidate-vibid:260200070585": 2,
+      "gas:candidate-vibid:260200070606": 0,
+      "gas:candidate-vibid:1001000121893": 12,
+      "gas:candidate-vibid:1001000225972": 23,
+      "gas:candidate-vibid:1001000220835": 0,
+      "gas:candidate-vibid:1001000136103": 1,
+      "gas:candidate-vibid:1001000112244": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070486&region=0&sub_region=0&type=429",
@@ -8622,17 +8622,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 21,
-      "Кузнецов Михаил Варфоломеевич": 84,
-      "Лабунина Людмила Павловна": 2,
-      "Лисин Андрей Геннадьевич": 4,
-      "Митропольский Виктор Георгиевич": 3,
-      "Никитин Владимир Степанович": 57,
-      "Сигуткин Алексей Алексеевич": 73,
-      "Смирнов Игорь Евгеньевич": 0,
-      "Темин Василий Сергеевич": 10,
-      "Шлосберг Лев Маркович": 0,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000190400": 21,
+      "gas:candidate-vibid:260200070537": 84,
+      "gas:candidate-vibid:260200074054": 2,
+      "gas:candidate-vibid:260200070585": 4,
+      "gas:candidate-vibid:260200070606": 3,
+      "gas:candidate-vibid:1001000121893": 57,
+      "gas:candidate-vibid:1001000225972": 73,
+      "gas:candidate-vibid:1001000220835": 0,
+      "gas:candidate-vibid:1001000136103": 10,
+      "gas:candidate-vibid:1001000112244": 0,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070486&region=0&sub_region=0&type=429",
@@ -8682,17 +8682,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 19,
-      "Кузнецов Михаил Варфоломеевич": 50,
-      "Лабунина Людмила Павловна": 0,
-      "Лисин Андрей Геннадьевич": 0,
-      "Митропольский Виктор Георгиевич": 1,
-      "Никитин Владимир Степанович": 25,
-      "Сигуткин Алексей Алексеевич": 22,
-      "Смирнов Игорь Евгеньевич": 1,
-      "Темин Василий Сергеевич": 0,
-      "Шлосберг Лев Маркович": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000190400": 19,
+      "gas:candidate-vibid:260200070537": 50,
+      "gas:candidate-vibid:260200074054": 0,
+      "gas:candidate-vibid:260200070585": 0,
+      "gas:candidate-vibid:260200070606": 1,
+      "gas:candidate-vibid:1001000121893": 25,
+      "gas:candidate-vibid:1001000225972": 22,
+      "gas:candidate-vibid:1001000220835": 1,
+      "gas:candidate-vibid:1001000136103": 0,
+      "gas:candidate-vibid:1001000112244": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070486&region=0&sub_region=0&type=429",
@@ -8742,17 +8742,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 163,
-      "Кузнецов Михаил Варфоломеевич": 127,
-      "Лабунина Людмила Павловна": 4,
-      "Лисин Андрей Геннадьевич": 9,
-      "Митропольский Виктор Георгиевич": 3,
-      "Никитин Владимир Степанович": 96,
-      "Сигуткин Алексей Алексеевич": 238,
-      "Смирнов Игорь Евгеньевич": 20,
-      "Темин Василий Сергеевич": 28,
-      "Шлосберг Лев Маркович": 5,
-      "Против всех": 50
+      "gas:candidate-vibid:1001000190400": 163,
+      "gas:candidate-vibid:260200070537": 127,
+      "gas:candidate-vibid:260200074054": 4,
+      "gas:candidate-vibid:260200070585": 9,
+      "gas:candidate-vibid:260200070606": 3,
+      "gas:candidate-vibid:1001000121893": 96,
+      "gas:candidate-vibid:1001000225972": 238,
+      "gas:candidate-vibid:1001000220835": 20,
+      "gas:candidate-vibid:1001000136103": 28,
+      "gas:candidate-vibid:1001000112244": 5,
+      "special:against-all": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070487&region=0&sub_region=0&type=429",
@@ -8802,17 +8802,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 149,
-      "Кузнецов Михаил Варфоломеевич": 183,
-      "Лабунина Людмила Павловна": 6,
-      "Лисин Андрей Геннадьевич": 17,
-      "Митропольский Виктор Георгиевич": 12,
-      "Никитин Владимир Степанович": 124,
-      "Сигуткин Алексей Алексеевич": 301,
-      "Смирнов Игорь Евгеньевич": 21,
-      "Темин Василий Сергеевич": 29,
-      "Шлосберг Лев Маркович": 17,
-      "Против всех": 50
+      "gas:candidate-vibid:1001000190400": 149,
+      "gas:candidate-vibid:260200070537": 183,
+      "gas:candidate-vibid:260200074054": 6,
+      "gas:candidate-vibid:260200070585": 17,
+      "gas:candidate-vibid:260200070606": 12,
+      "gas:candidate-vibid:1001000121893": 124,
+      "gas:candidate-vibid:1001000225972": 301,
+      "gas:candidate-vibid:1001000220835": 21,
+      "gas:candidate-vibid:1001000136103": 29,
+      "gas:candidate-vibid:1001000112244": 17,
+      "special:against-all": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070487&region=0&sub_region=0&type=429",
@@ -8862,17 +8862,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 123,
-      "Кузнецов Михаил Варфоломеевич": 197,
-      "Лабунина Людмила Павловна": 1,
-      "Лисин Андрей Геннадьевич": 16,
-      "Митропольский Виктор Георгиевич": 12,
-      "Никитин Владимир Степанович": 86,
-      "Сигуткин Алексей Алексеевич": 241,
-      "Смирнов Игорь Евгеньевич": 16,
-      "Темин Василий Сергеевич": 21,
-      "Шлосберг Лев Маркович": 10,
-      "Против всех": 43
+      "gas:candidate-vibid:1001000190400": 123,
+      "gas:candidate-vibid:260200070537": 197,
+      "gas:candidate-vibid:260200074054": 1,
+      "gas:candidate-vibid:260200070585": 16,
+      "gas:candidate-vibid:260200070606": 12,
+      "gas:candidate-vibid:1001000121893": 86,
+      "gas:candidate-vibid:1001000225972": 241,
+      "gas:candidate-vibid:1001000220835": 16,
+      "gas:candidate-vibid:1001000136103": 21,
+      "gas:candidate-vibid:1001000112244": 10,
+      "special:against-all": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070487&region=0&sub_region=0&type=429",
@@ -8922,17 +8922,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 145,
-      "Кузнецов Михаил Варфоломеевич": 218,
-      "Лабунина Людмила Павловна": 7,
-      "Лисин Андрей Геннадьевич": 10,
-      "Митропольский Виктор Георгиевич": 13,
-      "Никитин Владимир Степанович": 125,
-      "Сигуткин Алексей Алексеевич": 265,
-      "Смирнов Игорь Евгеньевич": 20,
-      "Темин Василий Сергеевич": 31,
-      "Шлосберг Лев Маркович": 8,
-      "Против всех": 75
+      "gas:candidate-vibid:1001000190400": 145,
+      "gas:candidate-vibid:260200070537": 218,
+      "gas:candidate-vibid:260200074054": 7,
+      "gas:candidate-vibid:260200070585": 10,
+      "gas:candidate-vibid:260200070606": 13,
+      "gas:candidate-vibid:1001000121893": 125,
+      "gas:candidate-vibid:1001000225972": 265,
+      "gas:candidate-vibid:1001000220835": 20,
+      "gas:candidate-vibid:1001000136103": 31,
+      "gas:candidate-vibid:1001000112244": 8,
+      "special:against-all": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070487&region=0&sub_region=0&type=429",
@@ -8982,17 +8982,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 104,
-      "Кузнецов Михаил Варфоломеевич": 230,
-      "Лабунина Людмила Павловна": 10,
-      "Лисин Андрей Геннадьевич": 13,
-      "Митропольский Виктор Георгиевич": 17,
-      "Никитин Владимир Степанович": 104,
-      "Сигуткин Алексей Алексеевич": 276,
-      "Смирнов Игорь Евгеньевич": 9,
-      "Темин Василий Сергеевич": 29,
-      "Шлосберг Лев Маркович": 8,
-      "Против всех": 68
+      "gas:candidate-vibid:1001000190400": 104,
+      "gas:candidate-vibid:260200070537": 230,
+      "gas:candidate-vibid:260200074054": 10,
+      "gas:candidate-vibid:260200070585": 13,
+      "gas:candidate-vibid:260200070606": 17,
+      "gas:candidate-vibid:1001000121893": 104,
+      "gas:candidate-vibid:1001000225972": 276,
+      "gas:candidate-vibid:1001000220835": 9,
+      "gas:candidate-vibid:1001000136103": 29,
+      "gas:candidate-vibid:1001000112244": 8,
+      "special:against-all": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070487&region=0&sub_region=0&type=429",
@@ -9042,17 +9042,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 110,
-      "Кузнецов Михаил Варфоломеевич": 174,
-      "Лабунина Людмила Павловна": 8,
-      "Лисин Андрей Геннадьевич": 15,
-      "Митропольский Виктор Георгиевич": 16,
-      "Никитин Владимир Степанович": 72,
-      "Сигуткин Алексей Алексеевич": 249,
-      "Смирнов Игорь Евгеньевич": 16,
-      "Темин Василий Сергеевич": 29,
-      "Шлосберг Лев Маркович": 6,
-      "Против всех": 48
+      "gas:candidate-vibid:1001000190400": 110,
+      "gas:candidate-vibid:260200070537": 174,
+      "gas:candidate-vibid:260200074054": 8,
+      "gas:candidate-vibid:260200070585": 15,
+      "gas:candidate-vibid:260200070606": 16,
+      "gas:candidate-vibid:1001000121893": 72,
+      "gas:candidate-vibid:1001000225972": 249,
+      "gas:candidate-vibid:1001000220835": 16,
+      "gas:candidate-vibid:1001000136103": 29,
+      "gas:candidate-vibid:1001000112244": 6,
+      "special:against-all": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070487&region=0&sub_region=0&type=429",
@@ -9102,17 +9102,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 42,
-      "Кузнецов Михаил Варфоломеевич": 50,
-      "Лабунина Людмила Павловна": 0,
-      "Лисин Андрей Геннадьевич": 5,
-      "Митропольский Виктор Георгиевич": 6,
-      "Никитин Владимир Степанович": 36,
-      "Сигуткин Алексей Алексеевич": 335,
-      "Смирнов Игорь Евгеньевич": 9,
-      "Темин Василий Сергеевич": 17,
-      "Шлосберг Лев Маркович": 1,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000190400": 42,
+      "gas:candidate-vibid:260200070537": 50,
+      "gas:candidate-vibid:260200074054": 0,
+      "gas:candidate-vibid:260200070585": 5,
+      "gas:candidate-vibid:260200070606": 6,
+      "gas:candidate-vibid:1001000121893": 36,
+      "gas:candidate-vibid:1001000225972": 335,
+      "gas:candidate-vibid:1001000220835": 9,
+      "gas:candidate-vibid:1001000136103": 17,
+      "gas:candidate-vibid:1001000112244": 1,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070487&region=0&sub_region=0&type=429",
@@ -9162,17 +9162,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 55,
-      "Кузнецов Михаил Варфоломеевич": 99,
-      "Лабунина Людмила Павловна": 1,
-      "Лисин Андрей Геннадьевич": 3,
-      "Митропольский Виктор Георгиевич": 7,
-      "Никитин Владимир Степанович": 51,
-      "Сигуткин Алексей Алексеевич": 224,
-      "Смирнов Игорь Евгеньевич": 2,
-      "Темин Василий Сергеевич": 2,
-      "Шлосберг Лев Маркович": 2,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000190400": 55,
+      "gas:candidate-vibid:260200070537": 99,
+      "gas:candidate-vibid:260200074054": 1,
+      "gas:candidate-vibid:260200070585": 3,
+      "gas:candidate-vibid:260200070606": 7,
+      "gas:candidate-vibid:1001000121893": 51,
+      "gas:candidate-vibid:1001000225972": 224,
+      "gas:candidate-vibid:1001000220835": 2,
+      "gas:candidate-vibid:1001000136103": 2,
+      "gas:candidate-vibid:1001000112244": 2,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070487&region=0&sub_region=0&type=429",
@@ -9222,17 +9222,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 46,
-      "Кузнецов Михаил Варфоломеевич": 95,
-      "Лабунина Людмила Павловна": 3,
-      "Лисин Андрей Геннадьевич": 7,
-      "Митропольский Виктор Георгиевич": 1,
-      "Никитин Владимир Степанович": 25,
-      "Сигуткин Алексей Алексеевич": 156,
-      "Смирнов Игорь Евгеньевич": 5,
-      "Темин Василий Сергеевич": 6,
-      "Шлосберг Лев Маркович": 1,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000190400": 46,
+      "gas:candidate-vibid:260200070537": 95,
+      "gas:candidate-vibid:260200074054": 3,
+      "gas:candidate-vibid:260200070585": 7,
+      "gas:candidate-vibid:260200070606": 1,
+      "gas:candidate-vibid:1001000121893": 25,
+      "gas:candidate-vibid:1001000225972": 156,
+      "gas:candidate-vibid:1001000220835": 5,
+      "gas:candidate-vibid:1001000136103": 6,
+      "gas:candidate-vibid:1001000112244": 1,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070487&region=0&sub_region=0&type=429",
@@ -9282,17 +9282,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 54,
-      "Кузнецов Михаил Варфоломеевич": 53,
-      "Лабунина Людмила Павловна": 4,
-      "Лисин Андрей Геннадьевич": 6,
-      "Митропольский Виктор Георгиевич": 5,
-      "Никитин Владимир Степанович": 30,
-      "Сигуткин Алексей Алексеевич": 194,
-      "Смирнов Игорь Евгеньевич": 3,
-      "Темин Василий Сергеевич": 11,
-      "Шлосберг Лев Маркович": 2,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000190400": 54,
+      "gas:candidate-vibid:260200070537": 53,
+      "gas:candidate-vibid:260200074054": 4,
+      "gas:candidate-vibid:260200070585": 6,
+      "gas:candidate-vibid:260200070606": 5,
+      "gas:candidate-vibid:1001000121893": 30,
+      "gas:candidate-vibid:1001000225972": 194,
+      "gas:candidate-vibid:1001000220835": 3,
+      "gas:candidate-vibid:1001000136103": 11,
+      "gas:candidate-vibid:1001000112244": 2,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070487&region=0&sub_region=0&type=429",
@@ -9342,17 +9342,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 54,
-      "Кузнецов Михаил Варфоломеевич": 41,
-      "Лабунина Людмила Павловна": 1,
-      "Лисин Андрей Геннадьевич": 0,
-      "Митропольский Виктор Георгиевич": 0,
-      "Никитин Владимир Степанович": 15,
-      "Сигуткин Алексей Алексеевич": 64,
-      "Смирнов Игорь Евгеньевич": 2,
-      "Темин Василий Сергеевич": 2,
-      "Шлосберг Лев Маркович": 2,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000190400": 54,
+      "gas:candidate-vibid:260200070537": 41,
+      "gas:candidate-vibid:260200074054": 1,
+      "gas:candidate-vibid:260200070585": 0,
+      "gas:candidate-vibid:260200070606": 0,
+      "gas:candidate-vibid:1001000121893": 15,
+      "gas:candidate-vibid:1001000225972": 64,
+      "gas:candidate-vibid:1001000220835": 2,
+      "gas:candidate-vibid:1001000136103": 2,
+      "gas:candidate-vibid:1001000112244": 2,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070487&region=0&sub_region=0&type=429",
@@ -9402,17 +9402,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 126,
-      "Кузнецов Михаил Варфоломеевич": 164,
-      "Лабунина Людмила Павловна": 3,
-      "Лисин Андрей Геннадьевич": 9,
-      "Митропольский Виктор Георгиевич": 15,
-      "Никитин Владимир Степанович": 78,
-      "Сигуткин Алексей Алексеевич": 275,
-      "Смирнов Игорь Евгеньевич": 12,
-      "Темин Василий Сергеевич": 29,
-      "Шлосберг Лев Маркович": 3,
-      "Против всех": 49
+      "gas:candidate-vibid:1001000190400": 126,
+      "gas:candidate-vibid:260200070537": 164,
+      "gas:candidate-vibid:260200074054": 3,
+      "gas:candidate-vibid:260200070585": 9,
+      "gas:candidate-vibid:260200070606": 15,
+      "gas:candidate-vibid:1001000121893": 78,
+      "gas:candidate-vibid:1001000225972": 275,
+      "gas:candidate-vibid:1001000220835": 12,
+      "gas:candidate-vibid:1001000136103": 29,
+      "gas:candidate-vibid:1001000112244": 3,
+      "special:against-all": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070487&region=0&sub_region=0&type=429",
@@ -9462,17 +9462,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 41,
-      "Кузнецов Михаил Варфоломеевич": 90,
-      "Лабунина Людмила Павловна": 2,
-      "Лисин Андрей Геннадьевич": 6,
-      "Митропольский Виктор Георгиевич": 4,
-      "Никитин Владимир Степанович": 16,
-      "Сигуткин Алексей Алексеевич": 82,
-      "Смирнов Игорь Евгеньевич": 5,
-      "Темин Василий Сергеевич": 2,
-      "Шлосберг Лев Маркович": 0,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000190400": 41,
+      "gas:candidate-vibid:260200070537": 90,
+      "gas:candidate-vibid:260200074054": 2,
+      "gas:candidate-vibid:260200070585": 6,
+      "gas:candidate-vibid:260200070606": 4,
+      "gas:candidate-vibid:1001000121893": 16,
+      "gas:candidate-vibid:1001000225972": 82,
+      "gas:candidate-vibid:1001000220835": 5,
+      "gas:candidate-vibid:1001000136103": 2,
+      "gas:candidate-vibid:1001000112244": 0,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070487&region=0&sub_region=0&type=429",
@@ -9522,17 +9522,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 81,
-      "Кузнецов Михаил Варфоломеевич": 49,
-      "Лабунина Людмила Павловна": 1,
-      "Лисин Андрей Геннадьевич": 4,
-      "Митропольский Виктор Георгиевич": 7,
-      "Никитин Владимир Степанович": 21,
-      "Сигуткин Алексей Алексеевич": 152,
-      "Смирнов Игорь Евгеньевич": 9,
-      "Темин Василий Сергеевич": 13,
-      "Шлосберг Лев Маркович": 2,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000190400": 81,
+      "gas:candidate-vibid:260200070537": 49,
+      "gas:candidate-vibid:260200074054": 1,
+      "gas:candidate-vibid:260200070585": 4,
+      "gas:candidate-vibid:260200070606": 7,
+      "gas:candidate-vibid:1001000121893": 21,
+      "gas:candidate-vibid:1001000225972": 152,
+      "gas:candidate-vibid:1001000220835": 9,
+      "gas:candidate-vibid:1001000136103": 13,
+      "gas:candidate-vibid:1001000112244": 2,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070487&region=0&sub_region=0&type=429",
@@ -9582,17 +9582,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 21,
-      "Кузнецов Михаил Варфоломеевич": 35,
-      "Лабунина Людмила Павловна": 0,
-      "Лисин Андрей Геннадьевич": 0,
-      "Митропольский Виктор Георгиевич": 1,
-      "Никитин Владимир Степанович": 29,
-      "Сигуткин Алексей Алексеевич": 181,
-      "Смирнов Игорь Евгеньевич": 5,
-      "Темин Василий Сергеевич": 5,
-      "Шлосберг Лев Маркович": 1,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000190400": 21,
+      "gas:candidate-vibid:260200070537": 35,
+      "gas:candidate-vibid:260200074054": 0,
+      "gas:candidate-vibid:260200070585": 0,
+      "gas:candidate-vibid:260200070606": 1,
+      "gas:candidate-vibid:1001000121893": 29,
+      "gas:candidate-vibid:1001000225972": 181,
+      "gas:candidate-vibid:1001000220835": 5,
+      "gas:candidate-vibid:1001000136103": 5,
+      "gas:candidate-vibid:1001000112244": 1,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070487&region=0&sub_region=0&type=429",
@@ -9642,17 +9642,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 8,
-      "Кузнецов Михаил Варфоломеевич": 17,
-      "Лабунина Людмила Павловна": 1,
-      "Лисин Андрей Геннадьевич": 3,
-      "Митропольский Виктор Георгиевич": 0,
-      "Никитин Владимир Степанович": 4,
-      "Сигуткин Алексей Алексеевич": 66,
-      "Смирнов Игорь Евгеньевич": 1,
-      "Темин Василий Сергеевич": 3,
-      "Шлосберг Лев Маркович": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000190400": 8,
+      "gas:candidate-vibid:260200070537": 17,
+      "gas:candidate-vibid:260200074054": 1,
+      "gas:candidate-vibid:260200070585": 3,
+      "gas:candidate-vibid:260200070606": 0,
+      "gas:candidate-vibid:1001000121893": 4,
+      "gas:candidate-vibid:1001000225972": 66,
+      "gas:candidate-vibid:1001000220835": 1,
+      "gas:candidate-vibid:1001000136103": 3,
+      "gas:candidate-vibid:1001000112244": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070487&region=0&sub_region=0&type=429",
@@ -9702,17 +9702,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 80,
-      "Кузнецов Михаил Варфоломеевич": 31,
-      "Лабунина Людмила Павловна": 2,
-      "Лисин Андрей Геннадьевич": 2,
-      "Митропольский Виктор Георгиевич": 7,
-      "Никитин Владимир Степанович": 21,
-      "Сигуткин Алексей Алексеевич": 146,
-      "Смирнов Игорь Евгеньевич": 4,
-      "Темин Василий Сергеевич": 20,
-      "Шлосберг Лев Маркович": 3,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000190400": 80,
+      "gas:candidate-vibid:260200070537": 31,
+      "gas:candidate-vibid:260200074054": 2,
+      "gas:candidate-vibid:260200070585": 2,
+      "gas:candidate-vibid:260200070606": 7,
+      "gas:candidate-vibid:1001000121893": 21,
+      "gas:candidate-vibid:1001000225972": 146,
+      "gas:candidate-vibid:1001000220835": 4,
+      "gas:candidate-vibid:1001000136103": 20,
+      "gas:candidate-vibid:1001000112244": 3,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070487&region=0&sub_region=0&type=429",
@@ -9762,17 +9762,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 74,
-      "Кузнецов Михаил Варфоломеевич": 117,
-      "Лабунина Людмила Павловна": 3,
-      "Лисин Андрей Геннадьевич": 8,
-      "Митропольский Виктор Георгиевич": 14,
-      "Никитин Владимир Степанович": 75,
-      "Сигуткин Алексей Алексеевич": 180,
-      "Смирнов Игорь Евгеньевич": 10,
-      "Темин Василий Сергеевич": 28,
-      "Шлосберг Лев Маркович": 2,
-      "Против всех": 24
+      "gas:candidate-vibid:1001000190400": 74,
+      "gas:candidate-vibid:260200070537": 117,
+      "gas:candidate-vibid:260200074054": 3,
+      "gas:candidate-vibid:260200070585": 8,
+      "gas:candidate-vibid:260200070606": 14,
+      "gas:candidate-vibid:1001000121893": 75,
+      "gas:candidate-vibid:1001000225972": 180,
+      "gas:candidate-vibid:1001000220835": 10,
+      "gas:candidate-vibid:1001000136103": 28,
+      "gas:candidate-vibid:1001000112244": 2,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070487&region=0&sub_region=0&type=429",
@@ -9822,17 +9822,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 57,
-      "Кузнецов Михаил Варфоломеевич": 140,
-      "Лабунина Людмила Павловна": 2,
-      "Лисин Андрей Геннадьевич": 8,
-      "Митропольский Виктор Георгиевич": 4,
-      "Никитин Владимир Степанович": 39,
-      "Сигуткин Алексей Алексеевич": 200,
-      "Смирнов Игорь Евгеньевич": 11,
-      "Темин Василий Сергеевич": 14,
-      "Шлосберг Лев Маркович": 3,
-      "Против всех": 33
+      "gas:candidate-vibid:1001000190400": 57,
+      "gas:candidate-vibid:260200070537": 140,
+      "gas:candidate-vibid:260200074054": 2,
+      "gas:candidate-vibid:260200070585": 8,
+      "gas:candidate-vibid:260200070606": 4,
+      "gas:candidate-vibid:1001000121893": 39,
+      "gas:candidate-vibid:1001000225972": 200,
+      "gas:candidate-vibid:1001000220835": 11,
+      "gas:candidate-vibid:1001000136103": 14,
+      "gas:candidate-vibid:1001000112244": 3,
+      "special:against-all": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070487&region=0&sub_region=0&type=429",
@@ -9882,17 +9882,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 62,
-      "Кузнецов Михаил Варфоломеевич": 125,
-      "Лабунина Людмила Павловна": 4,
-      "Лисин Андрей Геннадьевич": 5,
-      "Митропольский Виктор Георгиевич": 11,
-      "Никитин Владимир Степанович": 97,
-      "Сигуткин Алексей Алексеевич": 181,
-      "Смирнов Игорь Евгеньевич": 14,
-      "Темин Василий Сергеевич": 17,
-      "Шлосберг Лев Маркович": 1,
-      "Против всех": 28
+      "gas:candidate-vibid:1001000190400": 62,
+      "gas:candidate-vibid:260200070537": 125,
+      "gas:candidate-vibid:260200074054": 4,
+      "gas:candidate-vibid:260200070585": 5,
+      "gas:candidate-vibid:260200070606": 11,
+      "gas:candidate-vibid:1001000121893": 97,
+      "gas:candidate-vibid:1001000225972": 181,
+      "gas:candidate-vibid:1001000220835": 14,
+      "gas:candidate-vibid:1001000136103": 17,
+      "gas:candidate-vibid:1001000112244": 1,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070487&region=0&sub_region=0&type=429",
@@ -9942,17 +9942,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 54,
-      "Кузнецов Михаил Варфоломеевич": 87,
-      "Лабунина Людмила Павловна": 2,
-      "Лисин Андрей Геннадьевич": 7,
-      "Митропольский Виктор Георгиевич": 3,
-      "Никитин Владимир Степанович": 34,
-      "Сигуткин Алексей Алексеевич": 121,
-      "Смирнов Игорь Евгеньевич": 5,
-      "Темин Василий Сергеевич": 9,
-      "Шлосберг Лев Маркович": 1,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000190400": 54,
+      "gas:candidate-vibid:260200070537": 87,
+      "gas:candidate-vibid:260200074054": 2,
+      "gas:candidate-vibid:260200070585": 7,
+      "gas:candidate-vibid:260200070606": 3,
+      "gas:candidate-vibid:1001000121893": 34,
+      "gas:candidate-vibid:1001000225972": 121,
+      "gas:candidate-vibid:1001000220835": 5,
+      "gas:candidate-vibid:1001000136103": 9,
+      "gas:candidate-vibid:1001000112244": 1,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070487&region=0&sub_region=0&type=429",
@@ -10002,17 +10002,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 6,
-      "Кузнецов Михаил Варфоломеевич": 32,
-      "Лабунина Людмила Павловна": 1,
-      "Лисин Андрей Геннадьевич": 1,
-      "Митропольский Виктор Георгиевич": 1,
-      "Никитин Владимир Степанович": 10,
-      "Сигуткин Алексей Алексеевич": 106,
-      "Смирнов Игорь Евгеньевич": 2,
-      "Темин Василий Сергеевич": 3,
-      "Шлосберг Лев Маркович": 3,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000190400": 6,
+      "gas:candidate-vibid:260200070537": 32,
+      "gas:candidate-vibid:260200074054": 1,
+      "gas:candidate-vibid:260200070585": 1,
+      "gas:candidate-vibid:260200070606": 1,
+      "gas:candidate-vibid:1001000121893": 10,
+      "gas:candidate-vibid:1001000225972": 106,
+      "gas:candidate-vibid:1001000220835": 2,
+      "gas:candidate-vibid:1001000136103": 3,
+      "gas:candidate-vibid:1001000112244": 3,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070487&region=0&sub_region=0&type=429",
@@ -10062,17 +10062,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 20,
-      "Кузнецов Михаил Варфоломеевич": 57,
-      "Лабунина Людмила Павловна": 0,
-      "Лисин Андрей Геннадьевич": 0,
-      "Митропольский Виктор Георгиевич": 0,
-      "Никитин Владимир Степанович": 17,
-      "Сигуткин Алексей Алексеевич": 102,
-      "Смирнов Игорь Евгеньевич": 4,
-      "Темин Василий Сергеевич": 12,
-      "Шлосберг Лев Маркович": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000190400": 20,
+      "gas:candidate-vibid:260200070537": 57,
+      "gas:candidate-vibid:260200074054": 0,
+      "gas:candidate-vibid:260200070585": 0,
+      "gas:candidate-vibid:260200070606": 0,
+      "gas:candidate-vibid:1001000121893": 17,
+      "gas:candidate-vibid:1001000225972": 102,
+      "gas:candidate-vibid:1001000220835": 4,
+      "gas:candidate-vibid:1001000136103": 12,
+      "gas:candidate-vibid:1001000112244": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070487&region=0&sub_region=0&type=429",
@@ -10122,17 +10122,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 25,
-      "Кузнецов Михаил Варфоломеевич": 27,
-      "Лабунина Людмила Павловна": 0,
-      "Лисин Андрей Геннадьевич": 3,
-      "Митропольский Виктор Георгиевич": 2,
-      "Никитин Владимир Степанович": 20,
-      "Сигуткин Алексей Алексеевич": 124,
-      "Смирнов Игорь Евгеньевич": 2,
-      "Темин Василий Сергеевич": 5,
-      "Шлосберг Лев Маркович": 3,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000190400": 25,
+      "gas:candidate-vibid:260200070537": 27,
+      "gas:candidate-vibid:260200074054": 0,
+      "gas:candidate-vibid:260200070585": 3,
+      "gas:candidate-vibid:260200070606": 2,
+      "gas:candidate-vibid:1001000121893": 20,
+      "gas:candidate-vibid:1001000225972": 124,
+      "gas:candidate-vibid:1001000220835": 2,
+      "gas:candidate-vibid:1001000136103": 5,
+      "gas:candidate-vibid:1001000112244": 3,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070487&region=0&sub_region=0&type=429",
@@ -10182,17 +10182,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 18,
-      "Кузнецов Михаил Варфоломеевич": 73,
-      "Лабунина Людмила Павловна": 2,
-      "Лисин Андрей Геннадьевич": 2,
-      "Митропольский Виктор Георгиевич": 6,
-      "Никитин Владимир Степанович": 16,
-      "Сигуткин Алексей Алексеевич": 70,
-      "Смирнов Игорь Евгеньевич": 4,
-      "Темин Василий Сергеевич": 1,
-      "Шлосберг Лев Маркович": 3,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000190400": 18,
+      "gas:candidate-vibid:260200070537": 73,
+      "gas:candidate-vibid:260200074054": 2,
+      "gas:candidate-vibid:260200070585": 2,
+      "gas:candidate-vibid:260200070606": 6,
+      "gas:candidate-vibid:1001000121893": 16,
+      "gas:candidate-vibid:1001000225972": 70,
+      "gas:candidate-vibid:1001000220835": 4,
+      "gas:candidate-vibid:1001000136103": 1,
+      "gas:candidate-vibid:1001000112244": 3,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070487&region=0&sub_region=0&type=429",
@@ -10242,17 +10242,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 10,
-      "Кузнецов Михаил Варфоломеевич": 62,
-      "Лабунина Людмила Павловна": 1,
-      "Лисин Андрей Геннадьевич": 2,
-      "Митропольский Виктор Георгиевич": 2,
-      "Никитин Владимир Степанович": 16,
-      "Сигуткин Алексей Алексеевич": 36,
-      "Смирнов Игорь Евгеньевич": 0,
-      "Темин Василий Сергеевич": 4,
-      "Шлосберг Лев Маркович": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000190400": 10,
+      "gas:candidate-vibid:260200070537": 62,
+      "gas:candidate-vibid:260200074054": 1,
+      "gas:candidate-vibid:260200070585": 2,
+      "gas:candidate-vibid:260200070606": 2,
+      "gas:candidate-vibid:1001000121893": 16,
+      "gas:candidate-vibid:1001000225972": 36,
+      "gas:candidate-vibid:1001000220835": 0,
+      "gas:candidate-vibid:1001000136103": 4,
+      "gas:candidate-vibid:1001000112244": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070487&region=0&sub_region=0&type=429",
@@ -10302,17 +10302,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 37,
-      "Кузнецов Михаил Варфоломеевич": 40,
-      "Лабунина Людмила Павловна": 1,
-      "Лисин Андрей Геннадьевич": 2,
-      "Митропольский Виктор Георгиевич": 1,
-      "Никитин Владимир Степанович": 7,
-      "Сигуткин Алексей Алексеевич": 35,
-      "Смирнов Игорь Евгеньевич": 2,
-      "Темин Василий Сергеевич": 6,
-      "Шлосберг Лев Маркович": 2,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000190400": 37,
+      "gas:candidate-vibid:260200070537": 40,
+      "gas:candidate-vibid:260200074054": 1,
+      "gas:candidate-vibid:260200070585": 2,
+      "gas:candidate-vibid:260200070606": 1,
+      "gas:candidate-vibid:1001000121893": 7,
+      "gas:candidate-vibid:1001000225972": 35,
+      "gas:candidate-vibid:1001000220835": 2,
+      "gas:candidate-vibid:1001000136103": 6,
+      "gas:candidate-vibid:1001000112244": 2,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070487&region=0&sub_region=0&type=429",
@@ -10362,17 +10362,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 26,
-      "Кузнецов Михаил Варфоломеевич": 51,
-      "Лабунина Людмила Павловна": 1,
-      "Лисин Андрей Геннадьевич": 5,
-      "Митропольский Виктор Георгиевич": 1,
-      "Никитин Владимир Степанович": 19,
-      "Сигуткин Алексей Алексеевич": 44,
-      "Смирнов Игорь Евгеньевич": 3,
-      "Темин Василий Сергеевич": 7,
-      "Шлосберг Лев Маркович": 1,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000190400": 26,
+      "gas:candidate-vibid:260200070537": 51,
+      "gas:candidate-vibid:260200074054": 1,
+      "gas:candidate-vibid:260200070585": 5,
+      "gas:candidate-vibid:260200070606": 1,
+      "gas:candidate-vibid:1001000121893": 19,
+      "gas:candidate-vibid:1001000225972": 44,
+      "gas:candidate-vibid:1001000220835": 3,
+      "gas:candidate-vibid:1001000136103": 7,
+      "gas:candidate-vibid:1001000112244": 1,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070487&region=0&sub_region=0&type=429",
@@ -10422,17 +10422,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 71,
-      "Кузнецов Михаил Варфоломеевич": 95,
-      "Лабунина Людмила Павловна": 2,
-      "Лисин Андрей Геннадьевич": 5,
-      "Митропольский Виктор Георгиевич": 0,
-      "Никитин Владимир Степанович": 50,
-      "Сигуткин Алексей Алексеевич": 77,
-      "Смирнов Игорь Евгеньевич": 7,
-      "Темин Василий Сергеевич": 11,
-      "Шлосберг Лев Маркович": 0,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000190400": 71,
+      "gas:candidate-vibid:260200070537": 95,
+      "gas:candidate-vibid:260200074054": 2,
+      "gas:candidate-vibid:260200070585": 5,
+      "gas:candidate-vibid:260200070606": 0,
+      "gas:candidate-vibid:1001000121893": 50,
+      "gas:candidate-vibid:1001000225972": 77,
+      "gas:candidate-vibid:1001000220835": 7,
+      "gas:candidate-vibid:1001000136103": 11,
+      "gas:candidate-vibid:1001000112244": 0,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070487&region=0&sub_region=0&type=429",
@@ -10482,17 +10482,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 13,
-      "Кузнецов Михаил Варфоломеевич": 46,
-      "Лабунина Людмила Павловна": 0,
-      "Лисин Андрей Геннадьевич": 3,
-      "Митропольский Виктор Георгиевич": 3,
-      "Никитин Владимир Степанович": 6,
-      "Сигуткин Алексей Алексеевич": 17,
-      "Смирнов Игорь Евгеньевич": 2,
-      "Темин Василий Сергеевич": 4,
-      "Шлосберг Лев Маркович": 0,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000190400": 13,
+      "gas:candidate-vibid:260200070537": 46,
+      "gas:candidate-vibid:260200074054": 0,
+      "gas:candidate-vibid:260200070585": 3,
+      "gas:candidate-vibid:260200070606": 3,
+      "gas:candidate-vibid:1001000121893": 6,
+      "gas:candidate-vibid:1001000225972": 17,
+      "gas:candidate-vibid:1001000220835": 2,
+      "gas:candidate-vibid:1001000136103": 4,
+      "gas:candidate-vibid:1001000112244": 0,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070487&region=0&sub_region=0&type=429",
@@ -10542,17 +10542,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 22,
-      "Кузнецов Михаил Варфоломеевич": 58,
-      "Лабунина Людмила Павловна": 1,
-      "Лисин Андрей Геннадьевич": 2,
-      "Митропольский Виктор Георгиевич": 2,
-      "Никитин Владимир Степанович": 56,
-      "Сигуткин Алексей Алексеевич": 102,
-      "Смирнов Игорь Евгеньевич": 7,
-      "Темин Василий Сергеевич": 4,
-      "Шлосберг Лев Маркович": 1,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000190400": 22,
+      "gas:candidate-vibid:260200070537": 58,
+      "gas:candidate-vibid:260200074054": 1,
+      "gas:candidate-vibid:260200070585": 2,
+      "gas:candidate-vibid:260200070606": 2,
+      "gas:candidate-vibid:1001000121893": 56,
+      "gas:candidate-vibid:1001000225972": 102,
+      "gas:candidate-vibid:1001000220835": 7,
+      "gas:candidate-vibid:1001000136103": 4,
+      "gas:candidate-vibid:1001000112244": 1,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070487&region=0&sub_region=0&type=429",
@@ -10602,17 +10602,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 62,
-      "Кузнецов Михаил Варфоломеевич": 129,
-      "Лабунина Людмила Павловна": 2,
-      "Лисин Андрей Геннадьевич": 4,
-      "Митропольский Виктор Георгиевич": 21,
-      "Никитин Владимир Степанович": 89,
-      "Сигуткин Алексей Алексеевич": 122,
-      "Смирнов Игорь Евгеньевич": 7,
-      "Темин Василий Сергеевич": 6,
-      "Шлосберг Лев Маркович": 2,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000190400": 62,
+      "gas:candidate-vibid:260200070537": 129,
+      "gas:candidate-vibid:260200074054": 2,
+      "gas:candidate-vibid:260200070585": 4,
+      "gas:candidate-vibid:260200070606": 21,
+      "gas:candidate-vibid:1001000121893": 89,
+      "gas:candidate-vibid:1001000225972": 122,
+      "gas:candidate-vibid:1001000220835": 7,
+      "gas:candidate-vibid:1001000136103": 6,
+      "gas:candidate-vibid:1001000112244": 2,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070488&region=0&sub_region=0&type=429",
@@ -10662,17 +10662,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 55,
-      "Кузнецов Михаил Варфоломеевич": 100,
-      "Лабунина Людмила Павловна": 5,
-      "Лисин Андрей Геннадьевич": 2,
-      "Митропольский Виктор Георгиевич": 27,
-      "Никитин Владимир Степанович": 38,
-      "Сигуткин Алексей Алексеевич": 66,
-      "Смирнов Игорь Евгеньевич": 5,
-      "Темин Василий Сергеевич": 9,
-      "Шлосберг Лев Маркович": 1,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000190400": 55,
+      "gas:candidate-vibid:260200070537": 100,
+      "gas:candidate-vibid:260200074054": 5,
+      "gas:candidate-vibid:260200070585": 2,
+      "gas:candidate-vibid:260200070606": 27,
+      "gas:candidate-vibid:1001000121893": 38,
+      "gas:candidate-vibid:1001000225972": 66,
+      "gas:candidate-vibid:1001000220835": 5,
+      "gas:candidate-vibid:1001000136103": 9,
+      "gas:candidate-vibid:1001000112244": 1,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070488&region=0&sub_region=0&type=429",
@@ -10722,17 +10722,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 11,
-      "Кузнецов Михаил Варфоломеевич": 37,
-      "Лабунина Людмила Павловна": 0,
-      "Лисин Андрей Геннадьевич": 0,
-      "Митропольский Виктор Георгиевич": 3,
-      "Никитин Владимир Степанович": 36,
-      "Сигуткин Алексей Алексеевич": 23,
-      "Смирнов Игорь Евгеньевич": 0,
-      "Темин Василий Сергеевич": 2,
-      "Шлосберг Лев Маркович": 0,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000190400": 11,
+      "gas:candidate-vibid:260200070537": 37,
+      "gas:candidate-vibid:260200074054": 0,
+      "gas:candidate-vibid:260200070585": 0,
+      "gas:candidate-vibid:260200070606": 3,
+      "gas:candidate-vibid:1001000121893": 36,
+      "gas:candidate-vibid:1001000225972": 23,
+      "gas:candidate-vibid:1001000220835": 0,
+      "gas:candidate-vibid:1001000136103": 2,
+      "gas:candidate-vibid:1001000112244": 0,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070488&region=0&sub_region=0&type=429",
@@ -10782,17 +10782,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 10,
-      "Кузнецов Михаил Варфоломеевич": 56,
-      "Лабунина Людмила Павловна": 6,
-      "Лисин Андрей Геннадьевич": 0,
-      "Митропольский Виктор Георгиевич": 12,
-      "Никитин Владимир Степанович": 19,
-      "Сигуткин Алексей Алексеевич": 92,
-      "Смирнов Игорь Евгеньевич": 3,
-      "Темин Василий Сергеевич": 4,
-      "Шлосберг Лев Маркович": 5,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000190400": 10,
+      "gas:candidate-vibid:260200070537": 56,
+      "gas:candidate-vibid:260200074054": 6,
+      "gas:candidate-vibid:260200070585": 0,
+      "gas:candidate-vibid:260200070606": 12,
+      "gas:candidate-vibid:1001000121893": 19,
+      "gas:candidate-vibid:1001000225972": 92,
+      "gas:candidate-vibid:1001000220835": 3,
+      "gas:candidate-vibid:1001000136103": 4,
+      "gas:candidate-vibid:1001000112244": 5,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070488&region=0&sub_region=0&type=429",
@@ -10842,17 +10842,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 29,
-      "Кузнецов Михаил Варфоломеевич": 30,
-      "Лабунина Людмила Павловна": 6,
-      "Лисин Андрей Геннадьевич": 0,
-      "Митропольский Виктор Георгиевич": 8,
-      "Никитин Владимир Степанович": 18,
-      "Сигуткин Алексей Алексеевич": 87,
-      "Смирнов Игорь Евгеньевич": 0,
-      "Темин Василий Сергеевич": 1,
-      "Шлосберг Лев Маркович": 1,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000190400": 29,
+      "gas:candidate-vibid:260200070537": 30,
+      "gas:candidate-vibid:260200074054": 6,
+      "gas:candidate-vibid:260200070585": 0,
+      "gas:candidate-vibid:260200070606": 8,
+      "gas:candidate-vibid:1001000121893": 18,
+      "gas:candidate-vibid:1001000225972": 87,
+      "gas:candidate-vibid:1001000220835": 0,
+      "gas:candidate-vibid:1001000136103": 1,
+      "gas:candidate-vibid:1001000112244": 1,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070488&region=0&sub_region=0&type=429",
@@ -10902,17 +10902,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 67,
-      "Кузнецов Михаил Варфоломеевич": 51,
-      "Лабунина Людмила Павловна": 3,
-      "Лисин Андрей Геннадьевич": 4,
-      "Митропольский Виктор Георгиевич": 70,
-      "Никитин Владимир Степанович": 50,
-      "Сигуткин Алексей Алексеевич": 99,
-      "Смирнов Игорь Евгеньевич": 2,
-      "Темин Василий Сергеевич": 2,
-      "Шлосберг Лев Маркович": 1,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000190400": 67,
+      "gas:candidate-vibid:260200070537": 51,
+      "gas:candidate-vibid:260200074054": 3,
+      "gas:candidate-vibid:260200070585": 4,
+      "gas:candidate-vibid:260200070606": 70,
+      "gas:candidate-vibid:1001000121893": 50,
+      "gas:candidate-vibid:1001000225972": 99,
+      "gas:candidate-vibid:1001000220835": 2,
+      "gas:candidate-vibid:1001000136103": 2,
+      "gas:candidate-vibid:1001000112244": 1,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070488&region=0&sub_region=0&type=429",
@@ -10962,17 +10962,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 16,
-      "Кузнецов Михаил Варфоломеевич": 145,
-      "Лабунина Людмила Павловна": 1,
-      "Лисин Андрей Геннадьевич": 0,
-      "Митропольский Виктор Георгиевич": 15,
-      "Никитин Владимир Степанович": 65,
-      "Сигуткин Алексей Алексеевич": 107,
-      "Смирнов Игорь Евгеньевич": 4,
-      "Темин Василий Сергеевич": 6,
-      "Шлосберг Лев Маркович": 3,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000190400": 16,
+      "gas:candidate-vibid:260200070537": 145,
+      "gas:candidate-vibid:260200074054": 1,
+      "gas:candidate-vibid:260200070585": 0,
+      "gas:candidate-vibid:260200070606": 15,
+      "gas:candidate-vibid:1001000121893": 65,
+      "gas:candidate-vibid:1001000225972": 107,
+      "gas:candidate-vibid:1001000220835": 4,
+      "gas:candidate-vibid:1001000136103": 6,
+      "gas:candidate-vibid:1001000112244": 3,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070488&region=0&sub_region=0&type=429",
@@ -11022,17 +11022,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 68,
-      "Кузнецов Михаил Варфоломеевич": 57,
-      "Лабунина Людмила Павловна": 1,
-      "Лисин Андрей Геннадьевич": 1,
-      "Митропольский Виктор Георгиевич": 11,
-      "Никитин Владимир Степанович": 22,
-      "Сигуткин Алексей Алексеевич": 48,
-      "Смирнов Игорь Евгеньевич": 3,
-      "Темин Василий Сергеевич": 3,
-      "Шлосберг Лев Маркович": 0,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000190400": 68,
+      "gas:candidate-vibid:260200070537": 57,
+      "gas:candidate-vibid:260200074054": 1,
+      "gas:candidate-vibid:260200070585": 1,
+      "gas:candidate-vibid:260200070606": 11,
+      "gas:candidate-vibid:1001000121893": 22,
+      "gas:candidate-vibid:1001000225972": 48,
+      "gas:candidate-vibid:1001000220835": 3,
+      "gas:candidate-vibid:1001000136103": 3,
+      "gas:candidate-vibid:1001000112244": 0,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070488&region=0&sub_region=0&type=429",
@@ -11082,17 +11082,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 41,
-      "Кузнецов Михаил Варфоломеевич": 57,
-      "Лабунина Людмила Павловна": 1,
-      "Лисин Андрей Геннадьевич": 0,
-      "Митропольский Виктор Георгиевич": 6,
-      "Никитин Владимир Степанович": 22,
-      "Сигуткин Алексей Алексеевич": 16,
-      "Смирнов Игорь Евгеньевич": 0,
-      "Темин Василий Сергеевич": 2,
-      "Шлосберг Лев Маркович": 0,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000190400": 41,
+      "gas:candidate-vibid:260200070537": 57,
+      "gas:candidate-vibid:260200074054": 1,
+      "gas:candidate-vibid:260200070585": 0,
+      "gas:candidate-vibid:260200070606": 6,
+      "gas:candidate-vibid:1001000121893": 22,
+      "gas:candidate-vibid:1001000225972": 16,
+      "gas:candidate-vibid:1001000220835": 0,
+      "gas:candidate-vibid:1001000136103": 2,
+      "gas:candidate-vibid:1001000112244": 0,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070488&region=0&sub_region=0&type=429",
@@ -11142,17 +11142,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 21,
-      "Кузнецов Михаил Варфоломеевич": 6,
-      "Лабунина Людмила Павловна": 1,
-      "Лисин Андрей Геннадьевич": 4,
-      "Митропольский Виктор Георгиевич": 8,
-      "Никитин Владимир Степанович": 21,
-      "Сигуткин Алексей Алексеевич": 19,
-      "Смирнов Игорь Евгеньевич": 3,
-      "Темин Василий Сергеевич": 0,
-      "Шлосберг Лев Маркович": 2,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000190400": 21,
+      "gas:candidate-vibid:260200070537": 6,
+      "gas:candidate-vibid:260200074054": 1,
+      "gas:candidate-vibid:260200070585": 4,
+      "gas:candidate-vibid:260200070606": 8,
+      "gas:candidate-vibid:1001000121893": 21,
+      "gas:candidate-vibid:1001000225972": 19,
+      "gas:candidate-vibid:1001000220835": 3,
+      "gas:candidate-vibid:1001000136103": 0,
+      "gas:candidate-vibid:1001000112244": 2,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070488&region=0&sub_region=0&type=429",
@@ -11202,17 +11202,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 53,
-      "Кузнецов Михаил Варфоломеевич": 114,
-      "Лабунина Людмила Павловна": 0,
-      "Лисин Андрей Геннадьевич": 4,
-      "Митропольский Виктор Георгиевич": 32,
-      "Никитин Владимир Степанович": 20,
-      "Сигуткин Алексей Алексеевич": 33,
-      "Смирнов Игорь Евгеньевич": 3,
-      "Темин Василий Сергеевич": 1,
-      "Шлосберг Лев Маркович": 2,
-      "Против всех": 32
+      "gas:candidate-vibid:1001000190400": 53,
+      "gas:candidate-vibid:260200070537": 114,
+      "gas:candidate-vibid:260200074054": 0,
+      "gas:candidate-vibid:260200070585": 4,
+      "gas:candidate-vibid:260200070606": 32,
+      "gas:candidate-vibid:1001000121893": 20,
+      "gas:candidate-vibid:1001000225972": 33,
+      "gas:candidate-vibid:1001000220835": 3,
+      "gas:candidate-vibid:1001000136103": 1,
+      "gas:candidate-vibid:1001000112244": 2,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070488&region=0&sub_region=0&type=429",
@@ -11262,17 +11262,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 87,
-      "Кузнецов Михаил Варфоломеевич": 82,
-      "Лабунина Людмила Павловна": 0,
-      "Лисин Андрей Геннадьевич": 5,
-      "Митропольский Виктор Георгиевич": 58,
-      "Никитин Владимир Степанович": 52,
-      "Сигуткин Алексей Алексеевич": 86,
-      "Смирнов Игорь Евгеньевич": 8,
-      "Темин Василий Сергеевич": 9,
-      "Шлосберг Лев Маркович": 0,
-      "Против всех": 25
+      "gas:candidate-vibid:1001000190400": 87,
+      "gas:candidate-vibid:260200070537": 82,
+      "gas:candidate-vibid:260200074054": 0,
+      "gas:candidate-vibid:260200070585": 5,
+      "gas:candidate-vibid:260200070606": 58,
+      "gas:candidate-vibid:1001000121893": 52,
+      "gas:candidate-vibid:1001000225972": 86,
+      "gas:candidate-vibid:1001000220835": 8,
+      "gas:candidate-vibid:1001000136103": 9,
+      "gas:candidate-vibid:1001000112244": 0,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070488&region=0&sub_region=0&type=429",
@@ -11322,17 +11322,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 57,
-      "Кузнецов Михаил Варфоломеевич": 110,
-      "Лабунина Людмила Павловна": 9,
-      "Лисин Андрей Геннадьевич": 3,
-      "Митропольский Виктор Георгиевич": 38,
-      "Никитин Владимир Степанович": 104,
-      "Сигуткин Алексей Алексеевич": 68,
-      "Смирнов Игорь Евгеньевич": 4,
-      "Темин Василий Сергеевич": 11,
-      "Шлосберг Лев Маркович": 5,
-      "Против всех": 37
+      "gas:candidate-vibid:1001000190400": 57,
+      "gas:candidate-vibid:260200070537": 110,
+      "gas:candidate-vibid:260200074054": 9,
+      "gas:candidate-vibid:260200070585": 3,
+      "gas:candidate-vibid:260200070606": 38,
+      "gas:candidate-vibid:1001000121893": 104,
+      "gas:candidate-vibid:1001000225972": 68,
+      "gas:candidate-vibid:1001000220835": 4,
+      "gas:candidate-vibid:1001000136103": 11,
+      "gas:candidate-vibid:1001000112244": 5,
+      "special:against-all": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070488&region=0&sub_region=0&type=429",
@@ -11382,17 +11382,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 117,
-      "Кузнецов Михаил Варфоломеевич": 50,
-      "Лабунина Людмила Павловна": 7,
-      "Лисин Андрей Геннадьевич": 22,
-      "Митропольский Виктор Георгиевич": 65,
-      "Никитин Владимир Степанович": 132,
-      "Сигуткин Алексей Алексеевич": 151,
-      "Смирнов Игорь Евгеньевич": 21,
-      "Темин Василий Сергеевич": 24,
-      "Шлосберг Лев Маркович": 4,
-      "Против всех": 45
+      "gas:candidate-vibid:1001000190400": 117,
+      "gas:candidate-vibid:260200070537": 50,
+      "gas:candidate-vibid:260200074054": 7,
+      "gas:candidate-vibid:260200070585": 22,
+      "gas:candidate-vibid:260200070606": 65,
+      "gas:candidate-vibid:1001000121893": 132,
+      "gas:candidate-vibid:1001000225972": 151,
+      "gas:candidate-vibid:1001000220835": 21,
+      "gas:candidate-vibid:1001000136103": 24,
+      "gas:candidate-vibid:1001000112244": 4,
+      "special:against-all": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070488&region=0&sub_region=0&type=429",
@@ -11442,17 +11442,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 49,
-      "Кузнецов Михаил Варфоломеевич": 50,
-      "Лабунина Людмила Павловна": 0,
-      "Лисин Андрей Геннадьевич": 5,
-      "Митропольский Виктор Георгиевич": 11,
-      "Никитин Владимир Степанович": 14,
-      "Сигуткин Алексей Алексеевич": 12,
-      "Смирнов Игорь Евгеньевич": 4,
-      "Темин Василий Сергеевич": 1,
-      "Шлосберг Лев Маркович": 2,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000190400": 49,
+      "gas:candidate-vibid:260200070537": 50,
+      "gas:candidate-vibid:260200074054": 0,
+      "gas:candidate-vibid:260200070585": 5,
+      "gas:candidate-vibid:260200070606": 11,
+      "gas:candidate-vibid:1001000121893": 14,
+      "gas:candidate-vibid:1001000225972": 12,
+      "gas:candidate-vibid:1001000220835": 4,
+      "gas:candidate-vibid:1001000136103": 1,
+      "gas:candidate-vibid:1001000112244": 2,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070488&region=0&sub_region=0&type=429",
@@ -11502,17 +11502,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 113,
-      "Кузнецов Михаил Варфоломеевич": 30,
-      "Лабунина Людмила Павловна": 1,
-      "Лисин Андрей Геннадьевич": 0,
-      "Митропольский Виктор Георгиевич": 38,
-      "Никитин Владимир Степанович": 20,
-      "Сигуткин Алексей Алексеевич": 77,
-      "Смирнов Игорь Евгеньевич": 6,
-      "Темин Василий Сергеевич": 3,
-      "Шлосберг Лев Маркович": 2,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000190400": 113,
+      "gas:candidate-vibid:260200070537": 30,
+      "gas:candidate-vibid:260200074054": 1,
+      "gas:candidate-vibid:260200070585": 0,
+      "gas:candidate-vibid:260200070606": 38,
+      "gas:candidate-vibid:1001000121893": 20,
+      "gas:candidate-vibid:1001000225972": 77,
+      "gas:candidate-vibid:1001000220835": 6,
+      "gas:candidate-vibid:1001000136103": 3,
+      "gas:candidate-vibid:1001000112244": 2,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070488&region=0&sub_region=0&type=429",
@@ -11562,17 +11562,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 5,
-      "Кузнецов Михаил Варфоломеевич": 17,
-      "Лабунина Людмила Павловна": 1,
-      "Лисин Андрей Геннадьевич": 0,
-      "Митропольский Виктор Георгиевич": 2,
-      "Никитин Владимир Степанович": 4,
-      "Сигуткин Алексей Алексеевич": 60,
-      "Смирнов Игорь Евгеньевич": 0,
-      "Темин Василий Сергеевич": 1,
-      "Шлосберг Лев Маркович": 2,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000190400": 5,
+      "gas:candidate-vibid:260200070537": 17,
+      "gas:candidate-vibid:260200074054": 1,
+      "gas:candidate-vibid:260200070585": 0,
+      "gas:candidate-vibid:260200070606": 2,
+      "gas:candidate-vibid:1001000121893": 4,
+      "gas:candidate-vibid:1001000225972": 60,
+      "gas:candidate-vibid:1001000220835": 0,
+      "gas:candidate-vibid:1001000136103": 1,
+      "gas:candidate-vibid:1001000112244": 2,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070488&region=0&sub_region=0&type=429",
@@ -11622,17 +11622,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 86,
-      "Кузнецов Михаил Варфоломеевич": 208,
-      "Лабунина Людмила Павловна": 4,
-      "Лисин Андрей Геннадьевич": 9,
-      "Митропольский Виктор Георгиевич": 128,
-      "Никитин Владимир Степанович": 121,
-      "Сигуткин Алексей Алексеевич": 289,
-      "Смирнов Игорь Евгеньевич": 14,
-      "Темин Василий Сергеевич": 17,
-      "Шлосберг Лев Маркович": 8,
-      "Против всех": 104
+      "gas:candidate-vibid:1001000190400": 86,
+      "gas:candidate-vibid:260200070537": 208,
+      "gas:candidate-vibid:260200074054": 4,
+      "gas:candidate-vibid:260200070585": 9,
+      "gas:candidate-vibid:260200070606": 128,
+      "gas:candidate-vibid:1001000121893": 121,
+      "gas:candidate-vibid:1001000225972": 289,
+      "gas:candidate-vibid:1001000220835": 14,
+      "gas:candidate-vibid:1001000136103": 17,
+      "gas:candidate-vibid:1001000112244": 8,
+      "special:against-all": 104
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070488&region=0&sub_region=0&type=429",
@@ -11682,17 +11682,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 6,
-      "Кузнецов Михаил Варфоломеевич": 32,
-      "Лабунина Людмила Павловна": 1,
-      "Лисин Андрей Геннадьевич": 1,
-      "Митропольский Виктор Георгиевич": 14,
-      "Никитин Владимир Степанович": 19,
-      "Сигуткин Алексей Алексеевич": 23,
-      "Смирнов Игорь Евгеньевич": 2,
-      "Темин Василий Сергеевич": 1,
-      "Шлосберг Лев Маркович": 2,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000190400": 6,
+      "gas:candidate-vibid:260200070537": 32,
+      "gas:candidate-vibid:260200074054": 1,
+      "gas:candidate-vibid:260200070585": 1,
+      "gas:candidate-vibid:260200070606": 14,
+      "gas:candidate-vibid:1001000121893": 19,
+      "gas:candidate-vibid:1001000225972": 23,
+      "gas:candidate-vibid:1001000220835": 2,
+      "gas:candidate-vibid:1001000136103": 1,
+      "gas:candidate-vibid:1001000112244": 2,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070488&region=0&sub_region=0&type=429",
@@ -11742,17 +11742,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 24,
-      "Кузнецов Михаил Варфоломеевич": 81,
-      "Лабунина Людмила Павловна": 1,
-      "Лисин Андрей Геннадьевич": 4,
-      "Митропольский Виктор Георгиевич": 34,
-      "Никитин Владимир Степанович": 51,
-      "Сигуткин Алексей Алексеевич": 47,
-      "Смирнов Игорь Евгеньевич": 1,
-      "Темин Василий Сергеевич": 2,
-      "Шлосберг Лев Маркович": 5,
-      "Против всех": 33
+      "gas:candidate-vibid:1001000190400": 24,
+      "gas:candidate-vibid:260200070537": 81,
+      "gas:candidate-vibid:260200074054": 1,
+      "gas:candidate-vibid:260200070585": 4,
+      "gas:candidate-vibid:260200070606": 34,
+      "gas:candidate-vibid:1001000121893": 51,
+      "gas:candidate-vibid:1001000225972": 47,
+      "gas:candidate-vibid:1001000220835": 1,
+      "gas:candidate-vibid:1001000136103": 2,
+      "gas:candidate-vibid:1001000112244": 5,
+      "special:against-all": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070488&region=0&sub_region=0&type=429",
@@ -11802,17 +11802,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 4,
-      "Кузнецов Михаил Варфоломеевич": 33,
-      "Лабунина Людмила Павловна": 0,
-      "Лисин Андрей Геннадьевич": 2,
-      "Митропольский Виктор Георгиевич": 3,
-      "Никитин Владимир Степанович": 22,
-      "Сигуткин Алексей Алексеевич": 29,
-      "Смирнов Игорь Евгеньевич": 0,
-      "Темин Василий Сергеевич": 1,
-      "Шлосберг Лев Маркович": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000190400": 4,
+      "gas:candidate-vibid:260200070537": 33,
+      "gas:candidate-vibid:260200074054": 0,
+      "gas:candidate-vibid:260200070585": 2,
+      "gas:candidate-vibid:260200070606": 3,
+      "gas:candidate-vibid:1001000121893": 22,
+      "gas:candidate-vibid:1001000225972": 29,
+      "gas:candidate-vibid:1001000220835": 0,
+      "gas:candidate-vibid:1001000136103": 1,
+      "gas:candidate-vibid:1001000112244": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070488&region=0&sub_region=0&type=429",
@@ -11862,17 +11862,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 13,
-      "Кузнецов Михаил Варфоломеевич": 40,
-      "Лабунина Людмила Павловна": 0,
-      "Лисин Андрей Геннадьевич": 1,
-      "Митропольский Виктор Георгиевич": 14,
-      "Никитин Владимир Степанович": 29,
-      "Сигуткин Алексей Алексеевич": 37,
-      "Смирнов Игорь Евгеньевич": 8,
-      "Темин Василий Сергеевич": 6,
-      "Шлосберг Лев Маркович": 2,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000190400": 13,
+      "gas:candidate-vibid:260200070537": 40,
+      "gas:candidate-vibid:260200074054": 0,
+      "gas:candidate-vibid:260200070585": 1,
+      "gas:candidate-vibid:260200070606": 14,
+      "gas:candidate-vibid:1001000121893": 29,
+      "gas:candidate-vibid:1001000225972": 37,
+      "gas:candidate-vibid:1001000220835": 8,
+      "gas:candidate-vibid:1001000136103": 6,
+      "gas:candidate-vibid:1001000112244": 2,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070488&region=0&sub_region=0&type=429",
@@ -11922,17 +11922,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 194,
-      "Кузнецов Михаил Варфоломеевич": 214,
-      "Лабунина Людмила Павловна": 2,
-      "Лисин Андрей Геннадьевич": 8,
-      "Митропольский Виктор Георгиевич": 38,
-      "Никитин Владимир Степанович": 132,
-      "Сигуткин Алексей Алексеевич": 78,
-      "Смирнов Игорь Евгеньевич": 13,
-      "Темин Василий Сергеевич": 16,
-      "Шлосберг Лев Маркович": 5,
-      "Против всех": 38
+      "gas:candidate-vibid:1001000190400": 194,
+      "gas:candidate-vibid:260200070537": 214,
+      "gas:candidate-vibid:260200074054": 2,
+      "gas:candidate-vibid:260200070585": 8,
+      "gas:candidate-vibid:260200070606": 38,
+      "gas:candidate-vibid:1001000121893": 132,
+      "gas:candidate-vibid:1001000225972": 78,
+      "gas:candidate-vibid:1001000220835": 13,
+      "gas:candidate-vibid:1001000136103": 16,
+      "gas:candidate-vibid:1001000112244": 5,
+      "special:against-all": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070488&region=0&sub_region=0&type=429",
@@ -11982,17 +11982,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 54,
-      "Кузнецов Михаил Варфоломеевич": 36,
-      "Лабунина Людмила Павловна": 3,
-      "Лисин Андрей Геннадьевич": 0,
-      "Митропольский Виктор Георгиевич": 9,
-      "Никитин Владимир Степанович": 39,
-      "Сигуткин Алексей Алексеевич": 39,
-      "Смирнов Игорь Евгеньевич": 4,
-      "Темин Василий Сергеевич": 1,
-      "Шлосберг Лев Маркович": 1,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000190400": 54,
+      "gas:candidate-vibid:260200070537": 36,
+      "gas:candidate-vibid:260200074054": 3,
+      "gas:candidate-vibid:260200070585": 0,
+      "gas:candidate-vibid:260200070606": 9,
+      "gas:candidate-vibid:1001000121893": 39,
+      "gas:candidate-vibid:1001000225972": 39,
+      "gas:candidate-vibid:1001000220835": 4,
+      "gas:candidate-vibid:1001000136103": 1,
+      "gas:candidate-vibid:1001000112244": 1,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070488&region=0&sub_region=0&type=429",
@@ -12042,17 +12042,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 28,
-      "Кузнецов Михаил Варфоломеевич": 46,
-      "Лабунина Людмила Павловна": 2,
-      "Лисин Андрей Геннадьевич": 1,
-      "Митропольский Виктор Георгиевич": 16,
-      "Никитин Владимир Степанович": 27,
-      "Сигуткин Алексей Алексеевич": 80,
-      "Смирнов Игорь Евгеньевич": 4,
-      "Темин Василий Сергеевич": 12,
-      "Шлосберг Лев Маркович": 0,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000190400": 28,
+      "gas:candidate-vibid:260200070537": 46,
+      "gas:candidate-vibid:260200074054": 2,
+      "gas:candidate-vibid:260200070585": 1,
+      "gas:candidate-vibid:260200070606": 16,
+      "gas:candidate-vibid:1001000121893": 27,
+      "gas:candidate-vibid:1001000225972": 80,
+      "gas:candidate-vibid:1001000220835": 4,
+      "gas:candidate-vibid:1001000136103": 12,
+      "gas:candidate-vibid:1001000112244": 0,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070488&region=0&sub_region=0&type=429",
@@ -12102,17 +12102,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 15,
-      "Кузнецов Михаил Варфоломеевич": 26,
-      "Лабунина Людмила Павловна": 0,
-      "Лисин Андрей Геннадьевич": 1,
-      "Митропольский Виктор Георгиевич": 14,
-      "Никитин Владимир Степанович": 19,
-      "Сигуткин Алексей Алексеевич": 68,
-      "Смирнов Игорь Евгеньевич": 2,
-      "Темин Василий Сергеевич": 0,
-      "Шлосберг Лев Маркович": 0,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000190400": 15,
+      "gas:candidate-vibid:260200070537": 26,
+      "gas:candidate-vibid:260200074054": 0,
+      "gas:candidate-vibid:260200070585": 1,
+      "gas:candidate-vibid:260200070606": 14,
+      "gas:candidate-vibid:1001000121893": 19,
+      "gas:candidate-vibid:1001000225972": 68,
+      "gas:candidate-vibid:1001000220835": 2,
+      "gas:candidate-vibid:1001000136103": 0,
+      "gas:candidate-vibid:1001000112244": 0,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070488&region=0&sub_region=0&type=429",
@@ -12162,17 +12162,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 200,
-      "Кузнецов Михаил Варфоломеевич": 44,
-      "Лабунина Людмила Павловна": 0,
-      "Лисин Андрей Геннадьевич": 1,
-      "Митропольский Виктор Георгиевич": 21,
-      "Никитин Владимир Степанович": 26,
-      "Сигуткин Алексей Алексеевич": 37,
-      "Смирнов Игорь Евгеньевич": 3,
-      "Темин Василий Сергеевич": 6,
-      "Шлосберг Лев Маркович": 0,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000190400": 200,
+      "gas:candidate-vibid:260200070537": 44,
+      "gas:candidate-vibid:260200074054": 0,
+      "gas:candidate-vibid:260200070585": 1,
+      "gas:candidate-vibid:260200070606": 21,
+      "gas:candidate-vibid:1001000121893": 26,
+      "gas:candidate-vibid:1001000225972": 37,
+      "gas:candidate-vibid:1001000220835": 3,
+      "gas:candidate-vibid:1001000136103": 6,
+      "gas:candidate-vibid:1001000112244": 0,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070488&region=0&sub_region=0&type=429",
@@ -12222,17 +12222,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 22,
-      "Кузнецов Михаил Варфоломеевич": 61,
-      "Лабунина Людмила Павловна": 2,
-      "Лисин Андрей Геннадьевич": 7,
-      "Митропольский Виктор Георгиевич": 20,
-      "Никитин Владимир Степанович": 100,
-      "Сигуткин Алексей Алексеевич": 125,
-      "Смирнов Игорь Евгеньевич": 6,
-      "Темин Василий Сергеевич": 5,
-      "Шлосберг Лев Маркович": 2,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000190400": 22,
+      "gas:candidate-vibid:260200070537": 61,
+      "gas:candidate-vibid:260200074054": 2,
+      "gas:candidate-vibid:260200070585": 7,
+      "gas:candidate-vibid:260200070606": 20,
+      "gas:candidate-vibid:1001000121893": 100,
+      "gas:candidate-vibid:1001000225972": 125,
+      "gas:candidate-vibid:1001000220835": 6,
+      "gas:candidate-vibid:1001000136103": 5,
+      "gas:candidate-vibid:1001000112244": 2,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070488&region=0&sub_region=0&type=429",
@@ -12282,17 +12282,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 21,
-      "Кузнецов Михаил Варфоломеевич": 32,
-      "Лабунина Людмила Павловна": 0,
-      "Лисин Андрей Геннадьевич": 0,
-      "Митропольский Виктор Георгиевич": 0,
-      "Никитин Владимир Степанович": 14,
-      "Сигуткин Алексей Алексеевич": 19,
-      "Смирнов Игорь Евгеньевич": 0,
-      "Темин Василий Сергеевич": 0,
-      "Шлосберг Лев Маркович": 2,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000190400": 21,
+      "gas:candidate-vibid:260200070537": 32,
+      "gas:candidate-vibid:260200074054": 0,
+      "gas:candidate-vibid:260200070585": 0,
+      "gas:candidate-vibid:260200070606": 0,
+      "gas:candidate-vibid:1001000121893": 14,
+      "gas:candidate-vibid:1001000225972": 19,
+      "gas:candidate-vibid:1001000220835": 0,
+      "gas:candidate-vibid:1001000136103": 0,
+      "gas:candidate-vibid:1001000112244": 2,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070488&region=0&sub_region=0&type=429",
@@ -12342,17 +12342,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 31,
-      "Кузнецов Михаил Варфоломеевич": 42,
-      "Лабунина Людмила Павловна": 5,
-      "Лисин Андрей Геннадьевич": 1,
-      "Митропольский Виктор Георгиевич": 16,
-      "Никитин Владимир Степанович": 51,
-      "Сигуткин Алексей Алексеевич": 149,
-      "Смирнов Игорь Евгеньевич": 10,
-      "Темин Василий Сергеевич": 7,
-      "Шлосберг Лев Маркович": 0,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000190400": 31,
+      "gas:candidate-vibid:260200070537": 42,
+      "gas:candidate-vibid:260200074054": 5,
+      "gas:candidate-vibid:260200070585": 1,
+      "gas:candidate-vibid:260200070606": 16,
+      "gas:candidate-vibid:1001000121893": 51,
+      "gas:candidate-vibid:1001000225972": 149,
+      "gas:candidate-vibid:1001000220835": 10,
+      "gas:candidate-vibid:1001000136103": 7,
+      "gas:candidate-vibid:1001000112244": 0,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070488&region=0&sub_region=0&type=429",
@@ -12402,17 +12402,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 13,
-      "Кузнецов Михаил Варфоломеевич": 121,
-      "Лабунина Людмила Павловна": 4,
-      "Лисин Андрей Геннадьевич": 3,
-      "Митропольский Виктор Георгиевич": 4,
-      "Никитин Владимир Степанович": 19,
-      "Сигуткин Алексей Алексеевич": 61,
-      "Смирнов Игорь Евгеньевич": 2,
-      "Темин Василий Сергеевич": 5,
-      "Шлосберг Лев Маркович": 1,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000190400": 13,
+      "gas:candidate-vibid:260200070537": 121,
+      "gas:candidate-vibid:260200074054": 4,
+      "gas:candidate-vibid:260200070585": 3,
+      "gas:candidate-vibid:260200070606": 4,
+      "gas:candidate-vibid:1001000121893": 19,
+      "gas:candidate-vibid:1001000225972": 61,
+      "gas:candidate-vibid:1001000220835": 2,
+      "gas:candidate-vibid:1001000136103": 5,
+      "gas:candidate-vibid:1001000112244": 1,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070488&region=0&sub_region=0&type=429",
@@ -12462,17 +12462,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 22,
-      "Кузнецов Михаил Варфоломеевич": 63,
-      "Лабунина Людмила Павловна": 3,
-      "Лисин Андрей Геннадьевич": 1,
-      "Митропольский Виктор Георгиевич": 10,
-      "Никитин Владимир Степанович": 20,
-      "Сигуткин Алексей Алексеевич": 47,
-      "Смирнов Игорь Евгеньевич": 5,
-      "Темин Василий Сергеевич": 4,
-      "Шлосберг Лев Маркович": 0,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000190400": 22,
+      "gas:candidate-vibid:260200070537": 63,
+      "gas:candidate-vibid:260200074054": 3,
+      "gas:candidate-vibid:260200070585": 1,
+      "gas:candidate-vibid:260200070606": 10,
+      "gas:candidate-vibid:1001000121893": 20,
+      "gas:candidate-vibid:1001000225972": 47,
+      "gas:candidate-vibid:1001000220835": 5,
+      "gas:candidate-vibid:1001000136103": 4,
+      "gas:candidate-vibid:1001000112244": 0,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070488&region=0&sub_region=0&type=429",
@@ -12522,17 +12522,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 27,
-      "Кузнецов Михаил Варфоломеевич": 53,
-      "Лабунина Людмила Павловна": 6,
-      "Лисин Андрей Геннадьевич": 1,
-      "Митропольский Виктор Георгиевич": 18,
-      "Никитин Владимир Степанович": 29,
-      "Сигуткин Алексей Алексеевич": 20,
-      "Смирнов Игорь Евгеньевич": 4,
-      "Темин Василий Сергеевич": 2,
-      "Шлосберг Лев Маркович": 1,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000190400": 27,
+      "gas:candidate-vibid:260200070537": 53,
+      "gas:candidate-vibid:260200074054": 6,
+      "gas:candidate-vibid:260200070585": 1,
+      "gas:candidate-vibid:260200070606": 18,
+      "gas:candidate-vibid:1001000121893": 29,
+      "gas:candidate-vibid:1001000225972": 20,
+      "gas:candidate-vibid:1001000220835": 4,
+      "gas:candidate-vibid:1001000136103": 2,
+      "gas:candidate-vibid:1001000112244": 1,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070488&region=0&sub_region=0&type=429",
@@ -12582,17 +12582,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 25,
-      "Кузнецов Михаил Варфоломеевич": 124,
-      "Лабунина Людмила Павловна": 7,
-      "Лисин Андрей Геннадьевич": 4,
-      "Митропольский Виктор Георгиевич": 52,
-      "Никитин Владимир Степанович": 45,
-      "Сигуткин Алексей Алексеевич": 93,
-      "Смирнов Игорь Евгеньевич": 13,
-      "Темин Василий Сергеевич": 8,
-      "Шлосберг Лев Маркович": 3,
-      "Против всех": 35
+      "gas:candidate-vibid:1001000190400": 25,
+      "gas:candidate-vibid:260200070537": 124,
+      "gas:candidate-vibid:260200074054": 7,
+      "gas:candidate-vibid:260200070585": 4,
+      "gas:candidate-vibid:260200070606": 52,
+      "gas:candidate-vibid:1001000121893": 45,
+      "gas:candidate-vibid:1001000225972": 93,
+      "gas:candidate-vibid:1001000220835": 13,
+      "gas:candidate-vibid:1001000136103": 8,
+      "gas:candidate-vibid:1001000112244": 3,
+      "special:against-all": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070488&region=0&sub_region=0&type=429",
@@ -12642,17 +12642,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 72,
-      "Кузнецов Михаил Варфоломеевич": 224,
-      "Лабунина Людмила Павловна": 5,
-      "Лисин Андрей Геннадьевич": 9,
-      "Митропольский Виктор Георгиевич": 74,
-      "Никитин Владимир Степанович": 105,
-      "Сигуткин Алексей Алексеевич": 87,
-      "Смирнов Игорь Евгеньевич": 10,
-      "Темин Василий Сергеевич": 13,
-      "Шлосберг Лев Маркович": 3,
-      "Против всех": 43
+      "gas:candidate-vibid:1001000190400": 72,
+      "gas:candidate-vibid:260200070537": 224,
+      "gas:candidate-vibid:260200074054": 5,
+      "gas:candidate-vibid:260200070585": 9,
+      "gas:candidate-vibid:260200070606": 74,
+      "gas:candidate-vibid:1001000121893": 105,
+      "gas:candidate-vibid:1001000225972": 87,
+      "gas:candidate-vibid:1001000220835": 10,
+      "gas:candidate-vibid:1001000136103": 13,
+      "gas:candidate-vibid:1001000112244": 3,
+      "special:against-all": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070488&region=0&sub_region=0&type=429",
@@ -12702,17 +12702,17 @@ export const duma_2003_uik_428_region_60_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брячак Михаил Васильевич": 14,
-      "Кузнецов Михаил Варфоломеевич": 53,
-      "Лабунина Людмила Павловна": 1,
-      "Лисин Андрей Геннадьевич": 1,
-      "Митропольский Виктор Георгиевич": 11,
-      "Никитин Владимир Степанович": 18,
-      "Сигуткин Алексей Алексеевич": 13,
-      "Смирнов Игорь Евгеньевич": 2,
-      "Темин Василий Сергеевич": 3,
-      "Шлосберг Лев Маркович": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000190400": 14,
+      "gas:candidate-vibid:260200070537": 53,
+      "gas:candidate-vibid:260200074054": 1,
+      "gas:candidate-vibid:260200070585": 1,
+      "gas:candidate-vibid:260200070606": 11,
+      "gas:candidate-vibid:1001000121893": 18,
+      "gas:candidate-vibid:1001000225972": 13,
+      "gas:candidate-vibid:1001000220835": 2,
+      "gas:candidate-vibid:1001000136103": 3,
+      "gas:candidate-vibid:1001000112244": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=602000026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=260200070488&region=0&sub_region=0&type=429",

@@ -11,6 +11,9 @@ export const duma_2021_tic_233_region_94 = [
     "ballot": "party",
     "tikTvd": "2942000305630",
     "tikName": "Нахимовская",
+    "regionCode": "94",
+    "regionTvd": "100100225883746",
+    "regionName": "город Севастополь",
     "uikCount": 47,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 83820,
@@ -108,6 +111,9 @@ export const duma_2021_tic_233_region_94 = [
     "ballot": "party",
     "tikTvd": "2942000305631",
     "tikName": "Ленинская",
+    "regionCode": "94",
+    "regionTvd": "100100225883746",
+    "regionName": "город Севастополь",
     "uikCount": 58,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 83249,
@@ -216,6 +222,9 @@ export const duma_2021_tic_233_region_94 = [
     "ballot": "party",
     "tikTvd": "2942000305632",
     "tikName": "Балаклавская",
+    "regionCode": "94",
+    "regionTvd": "100100225883746",
+    "regionName": "город Севастополь",
     "uikCount": 33,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 42846,
@@ -299,6 +308,9 @@ export const duma_2021_tic_233_region_94 = [
     "ballot": "party",
     "tikTvd": "2942000305633",
     "tikName": "Гагаринская",
+    "regionCode": "94",
+    "regionTvd": "100100225883746",
+    "regionName": "город Севастополь",
     "uikCount": 48,
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 107421,

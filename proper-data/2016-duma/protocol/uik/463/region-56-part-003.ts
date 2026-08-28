@@ -43,16 +43,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 13,
-      "Калинин Александр Владимирович": 11,
-      "Карпов Александр Николаевич": 12,
-      "Мищеряков Юрий Николаевич": 87,
-      "Рычагов Антон Владимирович": 2,
-      "Столпак Сергей Павлович": 0,
-      "Тишин Владимир Владимирович": 2,
-      "Фомин Сергей Александрович": 2,
-      "Фролов Владимир Иванович": 3,
-      "Химич Сергей Александрович": 2
+      "gas:candidate-vibid:2562000994789": 13,
+      "gas:candidate-vibid:25620001003788": 11,
+      "gas:candidate-vibid:2562000991818": 12,
+      "gas:candidate-vibid:25620001003464": 87,
+      "gas:candidate-vibid:25620001005325": 2,
+      "gas:candidate-vibid:25620001004283": 0,
+      "gas:candidate-vibid:25620001005338": 2,
+      "gas:candidate-vibid:25620001004865": 2,
+      "gas:candidate-vibid:2562000994730": 3,
+      "gas:candidate-vibid:25620001003230": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922493&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922493&type=464",
@@ -103,16 +103,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 8,
-      "Калинин Александр Владимирович": 5,
-      "Карпов Александр Николаевич": 10,
-      "Мищеряков Юрий Николаевич": 54,
-      "Рычагов Антон Владимирович": 0,
-      "Столпак Сергей Павлович": 0,
-      "Тишин Владимир Владимирович": 0,
-      "Фомин Сергей Александрович": 2,
-      "Фролов Владимир Иванович": 1,
-      "Химич Сергей Александрович": 0
+      "gas:candidate-vibid:2562000994789": 8,
+      "gas:candidate-vibid:25620001003788": 5,
+      "gas:candidate-vibid:2562000991818": 10,
+      "gas:candidate-vibid:25620001003464": 54,
+      "gas:candidate-vibid:25620001005325": 0,
+      "gas:candidate-vibid:25620001004283": 0,
+      "gas:candidate-vibid:25620001005338": 0,
+      "gas:candidate-vibid:25620001004865": 2,
+      "gas:candidate-vibid:2562000994730": 1,
+      "gas:candidate-vibid:25620001003230": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922493&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922493&type=464",
@@ -163,16 +163,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 11,
-      "Калинин Александр Владимирович": 9,
-      "Карпов Александр Николаевич": 18,
-      "Мищеряков Юрий Николаевич": 90,
-      "Рычагов Антон Владимирович": 2,
-      "Столпак Сергей Павлович": 1,
-      "Тишин Владимир Владимирович": 3,
-      "Фомин Сергей Александрович": 2,
-      "Фролов Владимир Иванович": 3,
-      "Химич Сергей Александрович": 2
+      "gas:candidate-vibid:2562000994789": 11,
+      "gas:candidate-vibid:25620001003788": 9,
+      "gas:candidate-vibid:2562000991818": 18,
+      "gas:candidate-vibid:25620001003464": 90,
+      "gas:candidate-vibid:25620001005325": 2,
+      "gas:candidate-vibid:25620001004283": 1,
+      "gas:candidate-vibid:25620001005338": 3,
+      "gas:candidate-vibid:25620001004865": 2,
+      "gas:candidate-vibid:2562000994730": 3,
+      "gas:candidate-vibid:25620001003230": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922493&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922493&type=464",
@@ -223,16 +223,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 43,
-      "Калинин Александр Владимирович": 28,
-      "Карпов Александр Николаевич": 28,
-      "Мищеряков Юрий Николаевич": 183,
-      "Рычагов Антон Владимирович": 2,
-      "Столпак Сергей Павлович": 3,
-      "Тишин Владимир Владимирович": 1,
-      "Фомин Сергей Александрович": 11,
-      "Фролов Владимир Иванович": 9,
-      "Химич Сергей Александрович": 5
+      "gas:candidate-vibid:2562000994789": 43,
+      "gas:candidate-vibid:25620001003788": 28,
+      "gas:candidate-vibid:2562000991818": 28,
+      "gas:candidate-vibid:25620001003464": 183,
+      "gas:candidate-vibid:25620001005325": 2,
+      "gas:candidate-vibid:25620001004283": 3,
+      "gas:candidate-vibid:25620001005338": 1,
+      "gas:candidate-vibid:25620001004865": 11,
+      "gas:candidate-vibid:2562000994730": 9,
+      "gas:candidate-vibid:25620001003230": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922493&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922493&type=464",
@@ -283,16 +283,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 38,
-      "Калинин Александр Владимирович": 37,
-      "Карпов Александр Николаевич": 78,
-      "Мищеряков Юрий Николаевич": 277,
-      "Рычагов Антон Владимирович": 10,
-      "Столпак Сергей Павлович": 6,
-      "Тишин Владимир Владимирович": 5,
-      "Фомин Сергей Александрович": 15,
-      "Фролов Владимир Иванович": 19,
-      "Химич Сергей Александрович": 10
+      "gas:candidate-vibid:2562000994789": 38,
+      "gas:candidate-vibid:25620001003788": 37,
+      "gas:candidate-vibid:2562000991818": 78,
+      "gas:candidate-vibid:25620001003464": 277,
+      "gas:candidate-vibid:25620001005325": 10,
+      "gas:candidate-vibid:25620001004283": 6,
+      "gas:candidate-vibid:25620001005338": 5,
+      "gas:candidate-vibid:25620001004865": 15,
+      "gas:candidate-vibid:2562000994730": 19,
+      "gas:candidate-vibid:25620001003230": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922493&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922493&type=464",
@@ -343,16 +343,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 54,
-      "Калинин Александр Владимирович": 47,
-      "Карпов Александр Николаевич": 54,
-      "Мищеряков Юрий Николаевич": 176,
-      "Рычагов Антон Владимирович": 8,
-      "Столпак Сергей Павлович": 3,
-      "Тишин Владимир Владимирович": 8,
-      "Фомин Сергей Александрович": 9,
-      "Фролов Владимир Иванович": 16,
-      "Химич Сергей Александрович": 3
+      "gas:candidate-vibid:2562000994789": 54,
+      "gas:candidate-vibid:25620001003788": 47,
+      "gas:candidate-vibid:2562000991818": 54,
+      "gas:candidate-vibid:25620001003464": 176,
+      "gas:candidate-vibid:25620001005325": 8,
+      "gas:candidate-vibid:25620001004283": 3,
+      "gas:candidate-vibid:25620001005338": 8,
+      "gas:candidate-vibid:25620001004865": 9,
+      "gas:candidate-vibid:2562000994730": 16,
+      "gas:candidate-vibid:25620001003230": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922493&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922493&type=464",
@@ -403,16 +403,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 3,
-      "Калинин Александр Владимирович": 9,
-      "Карпов Александр Николаевич": 16,
-      "Мищеряков Юрий Николаевич": 36,
-      "Рычагов Антон Владимирович": 0,
-      "Столпак Сергей Павлович": 0,
-      "Тишин Владимир Владимирович": 0,
-      "Фомин Сергей Александрович": 7,
-      "Фролов Владимир Иванович": 0,
-      "Химич Сергей Александрович": 0
+      "gas:candidate-vibid:2562000994789": 3,
+      "gas:candidate-vibid:25620001003788": 9,
+      "gas:candidate-vibid:2562000991818": 16,
+      "gas:candidate-vibid:25620001003464": 36,
+      "gas:candidate-vibid:25620001005325": 0,
+      "gas:candidate-vibid:25620001004283": 0,
+      "gas:candidate-vibid:25620001005338": 0,
+      "gas:candidate-vibid:25620001004865": 7,
+      "gas:candidate-vibid:2562000994730": 0,
+      "gas:candidate-vibid:25620001003230": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922493&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922493&type=464",
@@ -463,16 +463,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 6,
-      "Калинин Александр Владимирович": 18,
-      "Карпов Александр Николаевич": 21,
-      "Мищеряков Юрий Николаевич": 42,
-      "Рычагов Антон Владимирович": 2,
-      "Столпак Сергей Павлович": 0,
-      "Тишин Владимир Владимирович": 1,
-      "Фомин Сергей Александрович": 1,
-      "Фролов Владимир Иванович": 2,
-      "Химич Сергей Александрович": 1
+      "gas:candidate-vibid:2562000994789": 6,
+      "gas:candidate-vibid:25620001003788": 18,
+      "gas:candidate-vibid:2562000991818": 21,
+      "gas:candidate-vibid:25620001003464": 42,
+      "gas:candidate-vibid:25620001005325": 2,
+      "gas:candidate-vibid:25620001004283": 0,
+      "gas:candidate-vibid:25620001005338": 1,
+      "gas:candidate-vibid:25620001004865": 1,
+      "gas:candidate-vibid:2562000994730": 2,
+      "gas:candidate-vibid:25620001003230": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922493&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922493&type=464",
@@ -523,16 +523,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 17,
-      "Калинин Александр Владимирович": 6,
-      "Карпов Александр Николаевич": 11,
-      "Мищеряков Юрий Николаевич": 36,
-      "Рычагов Антон Владимирович": 0,
-      "Столпак Сергей Павлович": 0,
-      "Тишин Владимир Владимирович": 1,
-      "Фомин Сергей Александрович": 0,
-      "Фролов Владимир Иванович": 6,
-      "Химич Сергей Александрович": 1
+      "gas:candidate-vibid:2562000994789": 17,
+      "gas:candidate-vibid:25620001003788": 6,
+      "gas:candidate-vibid:2562000991818": 11,
+      "gas:candidate-vibid:25620001003464": 36,
+      "gas:candidate-vibid:25620001005325": 0,
+      "gas:candidate-vibid:25620001004283": 0,
+      "gas:candidate-vibid:25620001005338": 1,
+      "gas:candidate-vibid:25620001004865": 0,
+      "gas:candidate-vibid:2562000994730": 6,
+      "gas:candidate-vibid:25620001003230": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922493&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922493&type=464",
@@ -583,16 +583,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 16,
-      "Калинин Александр Владимирович": 11,
-      "Карпов Александр Николаевич": 8,
-      "Мищеряков Юрий Николаевич": 49,
-      "Рычагов Антон Владимирович": 4,
-      "Столпак Сергей Павлович": 4,
-      "Тишин Владимир Владимирович": 0,
-      "Фомин Сергей Александрович": 0,
-      "Фролов Владимир Иванович": 7,
-      "Химич Сергей Александрович": 6
+      "gas:candidate-vibid:2562000994789": 16,
+      "gas:candidate-vibid:25620001003788": 11,
+      "gas:candidate-vibid:2562000991818": 8,
+      "gas:candidate-vibid:25620001003464": 49,
+      "gas:candidate-vibid:25620001005325": 4,
+      "gas:candidate-vibid:25620001004283": 4,
+      "gas:candidate-vibid:25620001005338": 0,
+      "gas:candidate-vibid:25620001004865": 0,
+      "gas:candidate-vibid:2562000994730": 7,
+      "gas:candidate-vibid:25620001003230": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922493&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922493&type=464",
@@ -643,16 +643,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 50,
-      "Калинин Александр Владимирович": 37,
-      "Карпов Александр Николаевич": 51,
-      "Мищеряков Юрий Николаевич": 163,
-      "Рычагов Антон Владимирович": 8,
-      "Столпак Сергей Павлович": 4,
-      "Тишин Владимир Владимирович": 4,
-      "Фомин Сергей Александрович": 7,
-      "Фролов Владимир Иванович": 16,
-      "Химич Сергей Александрович": 8
+      "gas:candidate-vibid:2562000994789": 50,
+      "gas:candidate-vibid:25620001003788": 37,
+      "gas:candidate-vibid:2562000991818": 51,
+      "gas:candidate-vibid:25620001003464": 163,
+      "gas:candidate-vibid:25620001005325": 8,
+      "gas:candidate-vibid:25620001004283": 4,
+      "gas:candidate-vibid:25620001005338": 4,
+      "gas:candidate-vibid:25620001004865": 7,
+      "gas:candidate-vibid:2562000994730": 16,
+      "gas:candidate-vibid:25620001003230": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922493&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922493&type=464",
@@ -703,16 +703,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 8,
-      "Калинин Александр Владимирович": 4,
-      "Карпов Александр Николаевич": 19,
-      "Мищеряков Юрий Николаевич": 47,
-      "Рычагов Антон Владимирович": 0,
-      "Столпак Сергей Павлович": 0,
-      "Тишин Владимир Владимирович": 0,
-      "Фомин Сергей Александрович": 0,
-      "Фролов Владимир Иванович": 3,
-      "Химич Сергей Александрович": 0
+      "gas:candidate-vibid:2562000994789": 8,
+      "gas:candidate-vibid:25620001003788": 4,
+      "gas:candidate-vibid:2562000991818": 19,
+      "gas:candidate-vibid:25620001003464": 47,
+      "gas:candidate-vibid:25620001005325": 0,
+      "gas:candidate-vibid:25620001004283": 0,
+      "gas:candidate-vibid:25620001005338": 0,
+      "gas:candidate-vibid:25620001004865": 0,
+      "gas:candidate-vibid:2562000994730": 3,
+      "gas:candidate-vibid:25620001003230": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922493&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922493&type=464",
@@ -763,16 +763,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 39,
-      "Калинин Александр Владимирович": 20,
-      "Карпов Александр Николаевич": 33,
-      "Мищеряков Юрий Николаевич": 141,
-      "Рычагов Антон Владимирович": 4,
-      "Столпак Сергей Павлович": 1,
-      "Тишин Владимир Владимирович": 4,
-      "Фомин Сергей Александрович": 3,
-      "Фролов Владимир Иванович": 9,
-      "Химич Сергей Александрович": 2
+      "gas:candidate-vibid:2562000994789": 39,
+      "gas:candidate-vibid:25620001003788": 20,
+      "gas:candidate-vibid:2562000991818": 33,
+      "gas:candidate-vibid:25620001003464": 141,
+      "gas:candidate-vibid:25620001005325": 4,
+      "gas:candidate-vibid:25620001004283": 1,
+      "gas:candidate-vibid:25620001005338": 4,
+      "gas:candidate-vibid:25620001004865": 3,
+      "gas:candidate-vibid:2562000994730": 9,
+      "gas:candidate-vibid:25620001003230": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922493&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922493&type=464",
@@ -823,16 +823,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 81,
-      "Калинин Александр Владимирович": 26,
-      "Карпов Александр Николаевич": 26,
-      "Мищеряков Юрий Николаевич": 170,
-      "Рычагов Антон Владимирович": 6,
-      "Столпак Сергей Павлович": 1,
-      "Тишин Владимир Владимирович": 4,
-      "Фомин Сергей Александрович": 4,
-      "Фролов Владимир Иванович": 13,
-      "Химич Сергей Александрович": 4
+      "gas:candidate-vibid:2562000994789": 81,
+      "gas:candidate-vibid:25620001003788": 26,
+      "gas:candidate-vibid:2562000991818": 26,
+      "gas:candidate-vibid:25620001003464": 170,
+      "gas:candidate-vibid:25620001005325": 6,
+      "gas:candidate-vibid:25620001004283": 1,
+      "gas:candidate-vibid:25620001005338": 4,
+      "gas:candidate-vibid:25620001004865": 4,
+      "gas:candidate-vibid:2562000994730": 13,
+      "gas:candidate-vibid:25620001003230": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922493&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922493&type=464",
@@ -883,16 +883,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 30,
-      "Калинин Александр Владимирович": 22,
-      "Карпов Александр Николаевич": 20,
-      "Мищеряков Юрий Николаевич": 93,
-      "Рычагов Антон Владимирович": 1,
-      "Столпак Сергей Павлович": 0,
-      "Тишин Владимир Владимирович": 3,
-      "Фомин Сергей Александрович": 7,
-      "Фролов Владимир Иванович": 1,
-      "Химич Сергей Александрович": 0
+      "gas:candidate-vibid:2562000994789": 30,
+      "gas:candidate-vibid:25620001003788": 22,
+      "gas:candidate-vibid:2562000991818": 20,
+      "gas:candidate-vibid:25620001003464": 93,
+      "gas:candidate-vibid:25620001005325": 1,
+      "gas:candidate-vibid:25620001004283": 0,
+      "gas:candidate-vibid:25620001005338": 3,
+      "gas:candidate-vibid:25620001004865": 7,
+      "gas:candidate-vibid:2562000994730": 1,
+      "gas:candidate-vibid:25620001003230": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922493&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922493&type=464",
@@ -943,16 +943,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 17,
-      "Калинин Александр Владимирович": 5,
-      "Карпов Александр Николаевич": 7,
-      "Мищеряков Юрий Николаевич": 61,
-      "Рычагов Антон Владимирович": 1,
-      "Столпак Сергей Павлович": 0,
-      "Тишин Владимир Владимирович": 2,
-      "Фомин Сергей Александрович": 2,
-      "Фролов Владимир Иванович": 4,
-      "Химич Сергей Александрович": 0
+      "gas:candidate-vibid:2562000994789": 17,
+      "gas:candidate-vibid:25620001003788": 5,
+      "gas:candidate-vibid:2562000991818": 7,
+      "gas:candidate-vibid:25620001003464": 61,
+      "gas:candidate-vibid:25620001005325": 1,
+      "gas:candidate-vibid:25620001004283": 0,
+      "gas:candidate-vibid:25620001005338": 2,
+      "gas:candidate-vibid:25620001004865": 2,
+      "gas:candidate-vibid:2562000994730": 4,
+      "gas:candidate-vibid:25620001003230": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922493&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922493&type=464",
@@ -1003,16 +1003,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 38,
-      "Калинин Александр Владимирович": 22,
-      "Карпов Александр Николаевич": 28,
-      "Мищеряков Юрий Николаевич": 52,
-      "Рычагов Антон Владимирович": 0,
-      "Столпак Сергей Павлович": 4,
-      "Тишин Владимир Владимирович": 4,
-      "Фомин Сергей Александрович": 5,
-      "Фролов Владимир Иванович": 6,
-      "Химич Сергей Александрович": 6
+      "gas:candidate-vibid:2562000994789": 38,
+      "gas:candidate-vibid:25620001003788": 22,
+      "gas:candidate-vibid:2562000991818": 28,
+      "gas:candidate-vibid:25620001003464": 52,
+      "gas:candidate-vibid:25620001005325": 0,
+      "gas:candidate-vibid:25620001004283": 4,
+      "gas:candidate-vibid:25620001005338": 4,
+      "gas:candidate-vibid:25620001004865": 5,
+      "gas:candidate-vibid:2562000994730": 6,
+      "gas:candidate-vibid:25620001003230": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922493&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922493&type=464",
@@ -1063,16 +1063,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 26,
-      "Калинин Александр Владимирович": 11,
-      "Карпов Александр Николаевич": 32,
-      "Мищеряков Юрий Николаевич": 107,
-      "Рычагов Антон Владимирович": 1,
-      "Столпак Сергей Павлович": 0,
-      "Тишин Владимир Владимирович": 6,
-      "Фомин Сергей Александрович": 3,
-      "Фролов Владимир Иванович": 4,
-      "Химич Сергей Александрович": 4
+      "gas:candidate-vibid:2562000994789": 26,
+      "gas:candidate-vibid:25620001003788": 11,
+      "gas:candidate-vibid:2562000991818": 32,
+      "gas:candidate-vibid:25620001003464": 107,
+      "gas:candidate-vibid:25620001005325": 1,
+      "gas:candidate-vibid:25620001004283": 0,
+      "gas:candidate-vibid:25620001005338": 6,
+      "gas:candidate-vibid:25620001004865": 3,
+      "gas:candidate-vibid:2562000994730": 4,
+      "gas:candidate-vibid:25620001003230": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922493&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922493&type=464",
@@ -1123,16 +1123,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 94,
-      "Калинин Александр Владимирович": 51,
-      "Карпов Александр Николаевич": 87,
-      "Мищеряков Юрий Николаевич": 165,
-      "Рычагов Антон Владимирович": 11,
-      "Столпак Сергей Павлович": 4,
-      "Тишин Владимир Владимирович": 4,
-      "Фомин Сергей Александрович": 8,
-      "Фролов Владимир Иванович": 20,
-      "Химич Сергей Александрович": 8
+      "gas:candidate-vibid:2562000994789": 94,
+      "gas:candidate-vibid:25620001003788": 51,
+      "gas:candidate-vibid:2562000991818": 87,
+      "gas:candidate-vibid:25620001003464": 165,
+      "gas:candidate-vibid:25620001005325": 11,
+      "gas:candidate-vibid:25620001004283": 4,
+      "gas:candidate-vibid:25620001005338": 4,
+      "gas:candidate-vibid:25620001004865": 8,
+      "gas:candidate-vibid:2562000994730": 20,
+      "gas:candidate-vibid:25620001003230": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922493&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922493&type=464",
@@ -1183,16 +1183,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 53,
-      "Калинин Александр Владимирович": 29,
-      "Карпов Александр Николаевич": 25,
-      "Мищеряков Юрий Николаевич": 153,
-      "Рычагов Антон Владимирович": 3,
-      "Столпак Сергей Павлович": 0,
-      "Тишин Владимир Владимирович": 1,
-      "Фомин Сергей Александрович": 2,
-      "Фролов Владимир Иванович": 11,
-      "Химич Сергей Александрович": 1
+      "gas:candidate-vibid:2562000994789": 53,
+      "gas:candidate-vibid:25620001003788": 29,
+      "gas:candidate-vibid:2562000991818": 25,
+      "gas:candidate-vibid:25620001003464": 153,
+      "gas:candidate-vibid:25620001005325": 3,
+      "gas:candidate-vibid:25620001004283": 0,
+      "gas:candidate-vibid:25620001005338": 1,
+      "gas:candidate-vibid:25620001004865": 2,
+      "gas:candidate-vibid:2562000994730": 11,
+      "gas:candidate-vibid:25620001003230": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922493&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922493&type=464",
@@ -1243,16 +1243,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 2,
-      "Калинин Александр Владимирович": 4,
-      "Карпов Александр Николаевич": 0,
-      "Мищеряков Юрий Николаевич": 107,
-      "Рычагов Антон Владимирович": 0,
-      "Столпак Сергей Павлович": 2,
-      "Тишин Владимир Владимирович": 0,
-      "Фомин Сергей Александрович": 0,
-      "Фролов Владимир Иванович": 3,
-      "Химич Сергей Александрович": 1
+      "gas:candidate-vibid:2562000994789": 2,
+      "gas:candidate-vibid:25620001003788": 4,
+      "gas:candidate-vibid:2562000991818": 0,
+      "gas:candidate-vibid:25620001003464": 107,
+      "gas:candidate-vibid:25620001005325": 0,
+      "gas:candidate-vibid:25620001004283": 2,
+      "gas:candidate-vibid:25620001005338": 0,
+      "gas:candidate-vibid:25620001004865": 0,
+      "gas:candidate-vibid:2562000994730": 3,
+      "gas:candidate-vibid:25620001003230": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922493&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922493&type=464",
@@ -1303,16 +1303,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 102,
-      "Калинин Александр Владимирович": 74,
-      "Карпов Александр Николаевич": 175,
-      "Мищеряков Юрий Николаевич": 297,
-      "Рычагов Антон Владимирович": 20,
-      "Столпак Сергей Павлович": 7,
-      "Тишин Владимир Владимирович": 9,
-      "Фомин Сергей Александрович": 22,
-      "Фролов Владимир Иванович": 56,
-      "Химич Сергей Александрович": 7
+      "gas:candidate-vibid:2562000994789": 102,
+      "gas:candidate-vibid:25620001003788": 74,
+      "gas:candidate-vibid:2562000991818": 175,
+      "gas:candidate-vibid:25620001003464": 297,
+      "gas:candidate-vibid:25620001005325": 20,
+      "gas:candidate-vibid:25620001004283": 7,
+      "gas:candidate-vibid:25620001005338": 9,
+      "gas:candidate-vibid:25620001004865": 22,
+      "gas:candidate-vibid:2562000994730": 56,
+      "gas:candidate-vibid:25620001003230": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922494&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922494&type=464",
@@ -1363,16 +1363,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 121,
-      "Калинин Александр Владимирович": 58,
-      "Карпов Александр Николаевич": 249,
-      "Мищеряков Юрий Николаевич": 328,
-      "Рычагов Антон Владимирович": 17,
-      "Столпак Сергей Павлович": 17,
-      "Тишин Владимир Владимирович": 16,
-      "Фомин Сергей Александрович": 28,
-      "Фролов Владимир Иванович": 69,
-      "Химич Сергей Александрович": 22
+      "gas:candidate-vibid:2562000994789": 121,
+      "gas:candidate-vibid:25620001003788": 58,
+      "gas:candidate-vibid:2562000991818": 249,
+      "gas:candidate-vibid:25620001003464": 328,
+      "gas:candidate-vibid:25620001005325": 17,
+      "gas:candidate-vibid:25620001004283": 17,
+      "gas:candidate-vibid:25620001005338": 16,
+      "gas:candidate-vibid:25620001004865": 28,
+      "gas:candidate-vibid:2562000994730": 69,
+      "gas:candidate-vibid:25620001003230": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922494&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922494&type=464",
@@ -1423,16 +1423,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 144,
-      "Калинин Александр Владимирович": 85,
-      "Карпов Александр Николаевич": 232,
-      "Мищеряков Юрий Николаевич": 421,
-      "Рычагов Антон Владимирович": 20,
-      "Столпак Сергей Павлович": 7,
-      "Тишин Владимир Владимирович": 13,
-      "Фомин Сергей Александрович": 20,
-      "Фролов Владимир Иванович": 64,
-      "Химич Сергей Александрович": 17
+      "gas:candidate-vibid:2562000994789": 144,
+      "gas:candidate-vibid:25620001003788": 85,
+      "gas:candidate-vibid:2562000991818": 232,
+      "gas:candidate-vibid:25620001003464": 421,
+      "gas:candidate-vibid:25620001005325": 20,
+      "gas:candidate-vibid:25620001004283": 7,
+      "gas:candidate-vibid:25620001005338": 13,
+      "gas:candidate-vibid:25620001004865": 20,
+      "gas:candidate-vibid:2562000994730": 64,
+      "gas:candidate-vibid:25620001003230": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922494&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922494&type=464",
@@ -1483,16 +1483,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 138,
-      "Калинин Александр Владимирович": 94,
-      "Карпов Александр Николаевич": 239,
-      "Мищеряков Юрий Николаевич": 416,
-      "Рычагов Антон Владимирович": 15,
-      "Столпак Сергей Павлович": 18,
-      "Тишин Владимир Владимирович": 11,
-      "Фомин Сергей Александрович": 30,
-      "Фролов Владимир Иванович": 68,
-      "Химич Сергей Александрович": 18
+      "gas:candidate-vibid:2562000994789": 138,
+      "gas:candidate-vibid:25620001003788": 94,
+      "gas:candidate-vibid:2562000991818": 239,
+      "gas:candidate-vibid:25620001003464": 416,
+      "gas:candidate-vibid:25620001005325": 15,
+      "gas:candidate-vibid:25620001004283": 18,
+      "gas:candidate-vibid:25620001005338": 11,
+      "gas:candidate-vibid:25620001004865": 30,
+      "gas:candidate-vibid:2562000994730": 68,
+      "gas:candidate-vibid:25620001003230": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922494&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922494&type=464",
@@ -1543,16 +1543,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 15,
-      "Калинин Александр Владимирович": 7,
-      "Карпов Александр Николаевич": 23,
-      "Мищеряков Юрий Николаевич": 48,
-      "Рычагов Антон Владимирович": 0,
-      "Столпак Сергей Павлович": 0,
-      "Тишин Владимир Владимирович": 1,
-      "Фомин Сергей Александрович": 1,
-      "Фролов Владимир Иванович": 6,
-      "Химич Сергей Александрович": 3
+      "gas:candidate-vibid:2562000994789": 15,
+      "gas:candidate-vibid:25620001003788": 7,
+      "gas:candidate-vibid:2562000991818": 23,
+      "gas:candidate-vibid:25620001003464": 48,
+      "gas:candidate-vibid:25620001005325": 0,
+      "gas:candidate-vibid:25620001004283": 0,
+      "gas:candidate-vibid:25620001005338": 1,
+      "gas:candidate-vibid:25620001004865": 1,
+      "gas:candidate-vibid:2562000994730": 6,
+      "gas:candidate-vibid:25620001003230": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922494&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922494&type=464",
@@ -1603,16 +1603,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 26,
-      "Калинин Александр Владимирович": 32,
-      "Карпов Александр Николаевич": 63,
-      "Мищеряков Юрий Николаевич": 149,
-      "Рычагов Антон Владимирович": 6,
-      "Столпак Сергей Павлович": 5,
-      "Тишин Владимир Владимирович": 5,
-      "Фомин Сергей Александрович": 8,
-      "Фролов Владимир Иванович": 24,
-      "Химич Сергей Александрович": 5
+      "gas:candidate-vibid:2562000994789": 26,
+      "gas:candidate-vibid:25620001003788": 32,
+      "gas:candidate-vibid:2562000991818": 63,
+      "gas:candidate-vibid:25620001003464": 149,
+      "gas:candidate-vibid:25620001005325": 6,
+      "gas:candidate-vibid:25620001004283": 5,
+      "gas:candidate-vibid:25620001005338": 5,
+      "gas:candidate-vibid:25620001004865": 8,
+      "gas:candidate-vibid:2562000994730": 24,
+      "gas:candidate-vibid:25620001003230": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922494&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922494&type=464",
@@ -1663,16 +1663,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 29,
-      "Калинин Александр Владимирович": 20,
-      "Карпов Александр Николаевич": 33,
-      "Мищеряков Юрий Николаевич": 124,
-      "Рычагов Антон Владимирович": 5,
-      "Столпак Сергей Павлович": 2,
-      "Тишин Владимир Владимирович": 0,
-      "Фомин Сергей Александрович": 2,
-      "Фролов Владимир Иванович": 5,
-      "Химич Сергей Александрович": 1
+      "gas:candidate-vibid:2562000994789": 29,
+      "gas:candidate-vibid:25620001003788": 20,
+      "gas:candidate-vibid:2562000991818": 33,
+      "gas:candidate-vibid:25620001003464": 124,
+      "gas:candidate-vibid:25620001005325": 5,
+      "gas:candidate-vibid:25620001004283": 2,
+      "gas:candidate-vibid:25620001005338": 0,
+      "gas:candidate-vibid:25620001004865": 2,
+      "gas:candidate-vibid:2562000994730": 5,
+      "gas:candidate-vibid:25620001003230": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922494&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922494&type=464",
@@ -1723,16 +1723,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 237,
-      "Калинин Александр Владимирович": 65,
-      "Карпов Александр Николаевич": 54,
-      "Мищеряков Юрий Николаевич": 439,
-      "Рычагов Антон Владимирович": 7,
-      "Столпак Сергей Павлович": 3,
-      "Тишин Владимир Владимирович": 7,
-      "Фомин Сергей Александрович": 7,
-      "Фролов Владимир Иванович": 50,
-      "Химич Сергей Александрович": 4
+      "gas:candidate-vibid:2562000994789": 237,
+      "gas:candidate-vibid:25620001003788": 65,
+      "gas:candidate-vibid:2562000991818": 54,
+      "gas:candidate-vibid:25620001003464": 439,
+      "gas:candidate-vibid:25620001005325": 7,
+      "gas:candidate-vibid:25620001004283": 3,
+      "gas:candidate-vibid:25620001005338": 7,
+      "gas:candidate-vibid:25620001004865": 7,
+      "gas:candidate-vibid:2562000994730": 50,
+      "gas:candidate-vibid:25620001003230": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922494&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922494&type=464",
@@ -1783,16 +1783,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 80,
-      "Калинин Александр Владимирович": 42,
-      "Карпов Александр Николаевич": 58,
-      "Мищеряков Юрий Николаевич": 287,
-      "Рычагов Антон Владимирович": 4,
-      "Столпак Сергей Павлович": 4,
-      "Тишин Владимир Владимирович": 4,
-      "Фомин Сергей Александрович": 2,
-      "Фролов Владимир Иванович": 67,
-      "Химич Сергей Александрович": 2
+      "gas:candidate-vibid:2562000994789": 80,
+      "gas:candidate-vibid:25620001003788": 42,
+      "gas:candidate-vibid:2562000991818": 58,
+      "gas:candidate-vibid:25620001003464": 287,
+      "gas:candidate-vibid:25620001005325": 4,
+      "gas:candidate-vibid:25620001004283": 4,
+      "gas:candidate-vibid:25620001005338": 4,
+      "gas:candidate-vibid:25620001004865": 2,
+      "gas:candidate-vibid:2562000994730": 67,
+      "gas:candidate-vibid:25620001003230": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922494&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922494&type=464",
@@ -1843,16 +1843,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 87,
-      "Калинин Александр Владимирович": 54,
-      "Карпов Александр Николаевич": 46,
-      "Мищеряков Юрий Николаевич": 341,
-      "Рычагов Антон Владимирович": 4,
-      "Столпак Сергей Павлович": 0,
-      "Тишин Владимир Владимирович": 2,
-      "Фомин Сергей Александрович": 5,
-      "Фролов Владимир Иванович": 11,
-      "Химич Сергей Александрович": 6
+      "gas:candidate-vibid:2562000994789": 87,
+      "gas:candidate-vibid:25620001003788": 54,
+      "gas:candidate-vibid:2562000991818": 46,
+      "gas:candidate-vibid:25620001003464": 341,
+      "gas:candidate-vibid:25620001005325": 4,
+      "gas:candidate-vibid:25620001004283": 0,
+      "gas:candidate-vibid:25620001005338": 2,
+      "gas:candidate-vibid:25620001004865": 5,
+      "gas:candidate-vibid:2562000994730": 11,
+      "gas:candidate-vibid:25620001003230": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922494&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922494&type=464",
@@ -1903,16 +1903,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 3,
-      "Калинин Александр Владимирович": 5,
-      "Карпов Александр Николаевич": 2,
-      "Мищеряков Юрий Николаевич": 15,
-      "Рычагов Антон Владимирович": 0,
-      "Столпак Сергей Павлович": 0,
-      "Тишин Владимир Владимирович": 0,
-      "Фомин Сергей Александрович": 1,
-      "Фролов Владимир Иванович": 0,
-      "Химич Сергей Александрович": 0
+      "gas:candidate-vibid:2562000994789": 3,
+      "gas:candidate-vibid:25620001003788": 5,
+      "gas:candidate-vibid:2562000991818": 2,
+      "gas:candidate-vibid:25620001003464": 15,
+      "gas:candidate-vibid:25620001005325": 0,
+      "gas:candidate-vibid:25620001004283": 0,
+      "gas:candidate-vibid:25620001005338": 0,
+      "gas:candidate-vibid:25620001004865": 1,
+      "gas:candidate-vibid:2562000994730": 0,
+      "gas:candidate-vibid:25620001003230": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922494&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922494&type=464",
@@ -1963,16 +1963,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 63,
-      "Калинин Александр Владимирович": 67,
-      "Карпов Александр Николаевич": 36,
-      "Мищеряков Юрий Николаевич": 283,
-      "Рычагов Антон Владимирович": 7,
-      "Столпак Сергей Павлович": 4,
-      "Тишин Владимир Владимирович": 2,
-      "Фомин Сергей Александрович": 10,
-      "Фролов Владимир Иванович": 17,
-      "Химич Сергей Александрович": 10
+      "gas:candidate-vibid:2562000994789": 63,
+      "gas:candidate-vibid:25620001003788": 67,
+      "gas:candidate-vibid:2562000991818": 36,
+      "gas:candidate-vibid:25620001003464": 283,
+      "gas:candidate-vibid:25620001005325": 7,
+      "gas:candidate-vibid:25620001004283": 4,
+      "gas:candidate-vibid:25620001005338": 2,
+      "gas:candidate-vibid:25620001004865": 10,
+      "gas:candidate-vibid:2562000994730": 17,
+      "gas:candidate-vibid:25620001003230": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922494&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922494&type=464",
@@ -2023,16 +2023,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 87,
-      "Калинин Александр Владимирович": 53,
-      "Карпов Александр Николаевич": 95,
-      "Мищеряков Юрий Николаевич": 401,
-      "Рычагов Антон Владимирович": 1,
-      "Столпак Сергей Павлович": 2,
-      "Тишин Владимир Владимирович": 5,
-      "Фомин Сергей Александрович": 9,
-      "Фролов Владимир Иванович": 27,
-      "Химич Сергей Александрович": 11
+      "gas:candidate-vibid:2562000994789": 87,
+      "gas:candidate-vibid:25620001003788": 53,
+      "gas:candidate-vibid:2562000991818": 95,
+      "gas:candidate-vibid:25620001003464": 401,
+      "gas:candidate-vibid:25620001005325": 1,
+      "gas:candidate-vibid:25620001004283": 2,
+      "gas:candidate-vibid:25620001005338": 5,
+      "gas:candidate-vibid:25620001004865": 9,
+      "gas:candidate-vibid:2562000994730": 27,
+      "gas:candidate-vibid:25620001003230": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922494&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922494&type=464",
@@ -2083,16 +2083,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 11,
-      "Калинин Александр Владимирович": 4,
-      "Карпов Александр Николаевич": 4,
-      "Мищеряков Юрий Николаевич": 22,
-      "Рычагов Антон Владимирович": 1,
-      "Столпак Сергей Павлович": 0,
-      "Тишин Владимир Владимирович": 2,
-      "Фомин Сергей Александрович": 1,
-      "Фролов Владимир Иванович": 2,
-      "Химич Сергей Александрович": 0
+      "gas:candidate-vibid:2562000994789": 11,
+      "gas:candidate-vibid:25620001003788": 4,
+      "gas:candidate-vibid:2562000991818": 4,
+      "gas:candidate-vibid:25620001003464": 22,
+      "gas:candidate-vibid:25620001005325": 1,
+      "gas:candidate-vibid:25620001004283": 0,
+      "gas:candidate-vibid:25620001005338": 2,
+      "gas:candidate-vibid:25620001004865": 1,
+      "gas:candidate-vibid:2562000994730": 2,
+      "gas:candidate-vibid:25620001003230": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922494&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922494&type=464",
@@ -2143,16 +2143,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 0,
-      "Калинин Александр Владимирович": 1,
-      "Карпов Александр Николаевич": 2,
-      "Мищеряков Юрий Николаевич": 15,
-      "Рычагов Антон Владимирович": 0,
-      "Столпак Сергей Павлович": 0,
-      "Тишин Владимир Владимирович": 1,
-      "Фомин Сергей Александрович": 0,
-      "Фролов Владимир Иванович": 1,
-      "Химич Сергей Александрович": 0
+      "gas:candidate-vibid:2562000994789": 0,
+      "gas:candidate-vibid:25620001003788": 1,
+      "gas:candidate-vibid:2562000991818": 2,
+      "gas:candidate-vibid:25620001003464": 15,
+      "gas:candidate-vibid:25620001005325": 0,
+      "gas:candidate-vibid:25620001004283": 0,
+      "gas:candidate-vibid:25620001005338": 1,
+      "gas:candidate-vibid:25620001004865": 0,
+      "gas:candidate-vibid:2562000994730": 1,
+      "gas:candidate-vibid:25620001003230": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922494&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922494&type=464",
@@ -2203,16 +2203,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 0,
-      "Калинин Александр Владимирович": 4,
-      "Карпов Александр Николаевич": 4,
-      "Мищеряков Юрий Николаевич": 16,
-      "Рычагов Антон Владимирович": 1,
-      "Столпак Сергей Павлович": 1,
-      "Тишин Владимир Владимирович": 0,
-      "Фомин Сергей Александрович": 0,
-      "Фролов Владимир Иванович": 0,
-      "Химич Сергей Александрович": 0
+      "gas:candidate-vibid:2562000994789": 0,
+      "gas:candidate-vibid:25620001003788": 4,
+      "gas:candidate-vibid:2562000991818": 4,
+      "gas:candidate-vibid:25620001003464": 16,
+      "gas:candidate-vibid:25620001005325": 1,
+      "gas:candidate-vibid:25620001004283": 1,
+      "gas:candidate-vibid:25620001005338": 0,
+      "gas:candidate-vibid:25620001004865": 0,
+      "gas:candidate-vibid:2562000994730": 0,
+      "gas:candidate-vibid:25620001003230": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922494&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922494&type=464",
@@ -2263,16 +2263,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 52,
-      "Калинин Александр Владимирович": 29,
-      "Карпов Александр Николаевич": 49,
-      "Мищеряков Юрий Николаевич": 120,
-      "Рычагов Антон Владимирович": 1,
-      "Столпак Сергей Павлович": 6,
-      "Тишин Владимир Владимирович": 1,
-      "Фомин Сергей Александрович": 8,
-      "Фролов Владимир Иванович": 11,
-      "Химич Сергей Александрович": 8
+      "gas:candidate-vibid:2562000994789": 52,
+      "gas:candidate-vibid:25620001003788": 29,
+      "gas:candidate-vibid:2562000991818": 49,
+      "gas:candidate-vibid:25620001003464": 120,
+      "gas:candidate-vibid:25620001005325": 1,
+      "gas:candidate-vibid:25620001004283": 6,
+      "gas:candidate-vibid:25620001005338": 1,
+      "gas:candidate-vibid:25620001004865": 8,
+      "gas:candidate-vibid:2562000994730": 11,
+      "gas:candidate-vibid:25620001003230": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922494&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922494&type=464",
@@ -2323,16 +2323,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 20,
-      "Калинин Александр Владимирович": 25,
-      "Карпов Александр Николаевич": 43,
-      "Мищеряков Юрий Николаевич": 141,
-      "Рычагов Антон Владимирович": 8,
-      "Столпак Сергей Павлович": 0,
-      "Тишин Владимир Владимирович": 2,
-      "Фомин Сергей Александрович": 4,
-      "Фролов Владимир Иванович": 8,
-      "Химич Сергей Александрович": 2
+      "gas:candidate-vibid:2562000994789": 20,
+      "gas:candidate-vibid:25620001003788": 25,
+      "gas:candidate-vibid:2562000991818": 43,
+      "gas:candidate-vibid:25620001003464": 141,
+      "gas:candidate-vibid:25620001005325": 8,
+      "gas:candidate-vibid:25620001004283": 0,
+      "gas:candidate-vibid:25620001005338": 2,
+      "gas:candidate-vibid:25620001004865": 4,
+      "gas:candidate-vibid:2562000994730": 8,
+      "gas:candidate-vibid:25620001003230": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922494&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922494&type=464",
@@ -2383,16 +2383,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 65,
-      "Калинин Александр Владимирович": 51,
-      "Карпов Александр Николаевич": 93,
-      "Мищеряков Юрий Николаевич": 251,
-      "Рычагов Антон Владимирович": 12,
-      "Столпак Сергей Павлович": 7,
-      "Тишин Владимир Владимирович": 3,
-      "Фомин Сергей Александрович": 5,
-      "Фролов Владимир Иванович": 19,
-      "Химич Сергей Александрович": 8
+      "gas:candidate-vibid:2562000994789": 65,
+      "gas:candidate-vibid:25620001003788": 51,
+      "gas:candidate-vibid:2562000991818": 93,
+      "gas:candidate-vibid:25620001003464": 251,
+      "gas:candidate-vibid:25620001005325": 12,
+      "gas:candidate-vibid:25620001004283": 7,
+      "gas:candidate-vibid:25620001005338": 3,
+      "gas:candidate-vibid:25620001004865": 5,
+      "gas:candidate-vibid:2562000994730": 19,
+      "gas:candidate-vibid:25620001003230": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922494&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922494&type=464",
@@ -2443,16 +2443,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 7,
-      "Калинин Александр Владимирович": 4,
-      "Карпов Александр Николаевич": 23,
-      "Мищеряков Юрий Николаевич": 25,
-      "Рычагов Антон Владимирович": 0,
-      "Столпак Сергей Павлович": 0,
-      "Тишин Владимир Владимирович": 1,
-      "Фомин Сергей Александрович": 2,
-      "Фролов Владимир Иванович": 3,
-      "Химич Сергей Александрович": 2
+      "gas:candidate-vibid:2562000994789": 7,
+      "gas:candidate-vibid:25620001003788": 4,
+      "gas:candidate-vibid:2562000991818": 23,
+      "gas:candidate-vibid:25620001003464": 25,
+      "gas:candidate-vibid:25620001005325": 0,
+      "gas:candidate-vibid:25620001004283": 0,
+      "gas:candidate-vibid:25620001005338": 1,
+      "gas:candidate-vibid:25620001004865": 2,
+      "gas:candidate-vibid:2562000994730": 3,
+      "gas:candidate-vibid:25620001003230": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922494&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922494&type=464",
@@ -2503,16 +2503,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 2,
-      "Калинин Александр Владимирович": 11,
-      "Карпов Александр Николаевич": 24,
-      "Мищеряков Юрий Николаевич": 48,
-      "Рычагов Антон Владимирович": 2,
-      "Столпак Сергей Павлович": 1,
-      "Тишин Владимир Владимирович": 2,
-      "Фомин Сергей Александрович": 1,
-      "Фролов Владимир Иванович": 4,
-      "Химич Сергей Александрович": 1
+      "gas:candidate-vibid:2562000994789": 2,
+      "gas:candidate-vibid:25620001003788": 11,
+      "gas:candidate-vibid:2562000991818": 24,
+      "gas:candidate-vibid:25620001003464": 48,
+      "gas:candidate-vibid:25620001005325": 2,
+      "gas:candidate-vibid:25620001004283": 1,
+      "gas:candidate-vibid:25620001005338": 2,
+      "gas:candidate-vibid:25620001004865": 1,
+      "gas:candidate-vibid:2562000994730": 4,
+      "gas:candidate-vibid:25620001003230": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922494&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922494&type=464",
@@ -2563,16 +2563,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 6,
-      "Калинин Александр Владимирович": 11,
-      "Карпов Александр Николаевич": 37,
-      "Мищеряков Юрий Николаевич": 38,
-      "Рычагов Антон Владимирович": 0,
-      "Столпак Сергей Павлович": 1,
-      "Тишин Владимир Владимирович": 2,
-      "Фомин Сергей Александрович": 1,
-      "Фролов Владимир Иванович": 3,
-      "Химич Сергей Александрович": 1
+      "gas:candidate-vibid:2562000994789": 6,
+      "gas:candidate-vibid:25620001003788": 11,
+      "gas:candidate-vibid:2562000991818": 37,
+      "gas:candidate-vibid:25620001003464": 38,
+      "gas:candidate-vibid:25620001005325": 0,
+      "gas:candidate-vibid:25620001004283": 1,
+      "gas:candidate-vibid:25620001005338": 2,
+      "gas:candidate-vibid:25620001004865": 1,
+      "gas:candidate-vibid:2562000994730": 3,
+      "gas:candidate-vibid:25620001003230": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922494&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922494&type=464",
@@ -2623,16 +2623,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 50,
-      "Калинин Александр Владимирович": 37,
-      "Карпов Александр Николаевич": 47,
-      "Мищеряков Юрий Николаевич": 180,
-      "Рычагов Антон Владимирович": 5,
-      "Столпак Сергей Павлович": 5,
-      "Тишин Владимир Владимирович": 6,
-      "Фомин Сергей Александрович": 8,
-      "Фролов Владимир Иванович": 17,
-      "Химич Сергей Александрович": 5
+      "gas:candidate-vibid:2562000994789": 50,
+      "gas:candidate-vibid:25620001003788": 37,
+      "gas:candidate-vibid:2562000991818": 47,
+      "gas:candidate-vibid:25620001003464": 180,
+      "gas:candidate-vibid:25620001005325": 5,
+      "gas:candidate-vibid:25620001004283": 5,
+      "gas:candidate-vibid:25620001005338": 6,
+      "gas:candidate-vibid:25620001004865": 8,
+      "gas:candidate-vibid:2562000994730": 17,
+      "gas:candidate-vibid:25620001003230": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922494&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922494&type=464",
@@ -2683,16 +2683,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 37,
-      "Калинин Александр Владимирович": 22,
-      "Карпов Александр Николаевич": 52,
-      "Мищеряков Юрий Николаевич": 176,
-      "Рычагов Антон Владимирович": 5,
-      "Столпак Сергей Павлович": 2,
-      "Тишин Владимир Владимирович": 8,
-      "Фомин Сергей Александрович": 5,
-      "Фролов Владимир Иванович": 19,
-      "Химич Сергей Александрович": 5
+      "gas:candidate-vibid:2562000994789": 37,
+      "gas:candidate-vibid:25620001003788": 22,
+      "gas:candidate-vibid:2562000991818": 52,
+      "gas:candidate-vibid:25620001003464": 176,
+      "gas:candidate-vibid:25620001005325": 5,
+      "gas:candidate-vibid:25620001004283": 2,
+      "gas:candidate-vibid:25620001005338": 8,
+      "gas:candidate-vibid:25620001004865": 5,
+      "gas:candidate-vibid:2562000994730": 19,
+      "gas:candidate-vibid:25620001003230": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922494&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922494&type=464",
@@ -2743,16 +2743,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 40,
-      "Калинин Александр Владимирович": 15,
-      "Карпов Александр Николаевич": 41,
-      "Мищеряков Юрий Николаевич": 164,
-      "Рычагов Антон Владимирович": 4,
-      "Столпак Сергей Павлович": 3,
-      "Тишин Владимир Владимирович": 3,
-      "Фомин Сергей Александрович": 7,
-      "Фролов Владимир Иванович": 26,
-      "Химич Сергей Александрович": 2
+      "gas:candidate-vibid:2562000994789": 40,
+      "gas:candidate-vibid:25620001003788": 15,
+      "gas:candidate-vibid:2562000991818": 41,
+      "gas:candidate-vibid:25620001003464": 164,
+      "gas:candidate-vibid:25620001005325": 4,
+      "gas:candidate-vibid:25620001004283": 3,
+      "gas:candidate-vibid:25620001005338": 3,
+      "gas:candidate-vibid:25620001004865": 7,
+      "gas:candidate-vibid:2562000994730": 26,
+      "gas:candidate-vibid:25620001003230": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922494&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922494&type=464",
@@ -2803,16 +2803,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Амелин Максим Анатольевич": 30,
-      "Калинин Александр Владимирович": 35,
-      "Карпов Александр Николаевич": 66,
-      "Мищеряков Юрий Николаевич": 157,
-      "Рычагов Антон Владимирович": 5,
-      "Столпак Сергей Павлович": 3,
-      "Тишин Владимир Владимирович": 5,
-      "Фомин Сергей Александрович": 1,
-      "Фролов Владимир Иванович": 15,
-      "Химич Сергей Александрович": 2
+      "gas:candidate-vibid:2562000994789": 30,
+      "gas:candidate-vibid:25620001003788": 35,
+      "gas:candidate-vibid:2562000991818": 66,
+      "gas:candidate-vibid:25620001003464": 157,
+      "gas:candidate-vibid:25620001005325": 5,
+      "gas:candidate-vibid:25620001004283": 3,
+      "gas:candidate-vibid:25620001005338": 5,
+      "gas:candidate-vibid:25620001004865": 1,
+      "gas:candidate-vibid:2562000994730": 15,
+      "gas:candidate-vibid:25620001003230": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000187&tvd=2562000922494&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922494&type=464",
@@ -2863,16 +2863,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асяев Фаик Инсафович": 17,
-      "Головина Татьяна Александровна": 4,
-      "Катасонов Сергей Михайлович": 39,
-      "Климова Ирина Александровна": 1,
-      "Лазаров Георги Атанасов": 2,
-      "Мунжасаров Нурлан Нурмагамбетович": 6,
-      "Сухарев Игорь Николаевич": 114,
-      "Туршинов Дидар Саулебаевич": 2,
-      "Уралов Семен Сергеевич": 9,
-      "Щепинов Максим Александрович": 1
+      "gas:candidate-vibid:25620001004303": 17,
+      "gas:candidate-vibid:25620001004760": 4,
+      "gas:candidate-vibid:2562000991769": 39,
+      "gas:candidate-vibid:25620001004637": 1,
+      "gas:candidate-vibid:25620001004626": 2,
+      "gas:candidate-vibid:25620001004382": 6,
+      "gas:candidate-vibid:25620001003807": 114,
+      "gas:candidate-vibid:25620001004748": 2,
+      "gas:candidate-vibid:25620001001594": 9,
+      "gas:candidate-vibid:2562000997696": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000188&tvd=2562000922495&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922495&type=464",
@@ -2923,16 +2923,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асяев Фаик Инсафович": 7,
-      "Головина Татьяна Александровна": 2,
-      "Катасонов Сергей Михайлович": 15,
-      "Климова Ирина Александровна": 0,
-      "Лазаров Георги Атанасов": 0,
-      "Мунжасаров Нурлан Нурмагамбетович": 2,
-      "Сухарев Игорь Николаевич": 81,
-      "Туршинов Дидар Саулебаевич": 0,
-      "Уралов Семен Сергеевич": 7,
-      "Щепинов Максим Александрович": 4
+      "gas:candidate-vibid:25620001004303": 7,
+      "gas:candidate-vibid:25620001004760": 2,
+      "gas:candidate-vibid:2562000991769": 15,
+      "gas:candidate-vibid:25620001004637": 0,
+      "gas:candidate-vibid:25620001004626": 0,
+      "gas:candidate-vibid:25620001004382": 2,
+      "gas:candidate-vibid:25620001003807": 81,
+      "gas:candidate-vibid:25620001004748": 0,
+      "gas:candidate-vibid:25620001001594": 7,
+      "gas:candidate-vibid:2562000997696": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000188&tvd=2562000922495&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922495&type=464",
@@ -2983,16 +2983,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асяев Фаик Инсафович": 1,
-      "Головина Татьяна Александровна": 0,
-      "Катасонов Сергей Михайлович": 7,
-      "Климова Ирина Александровна": 4,
-      "Лазаров Георги Атанасов": 0,
-      "Мунжасаров Нурлан Нурмагамбетович": 0,
-      "Сухарев Игорь Николаевич": 263,
-      "Туршинов Дидар Саулебаевич": 2,
-      "Уралов Семен Сергеевич": 1,
-      "Щепинов Максим Александрович": 0
+      "gas:candidate-vibid:25620001004303": 1,
+      "gas:candidate-vibid:25620001004760": 0,
+      "gas:candidate-vibid:2562000991769": 7,
+      "gas:candidate-vibid:25620001004637": 4,
+      "gas:candidate-vibid:25620001004626": 0,
+      "gas:candidate-vibid:25620001004382": 0,
+      "gas:candidate-vibid:25620001003807": 263,
+      "gas:candidate-vibid:25620001004748": 2,
+      "gas:candidate-vibid:25620001001594": 1,
+      "gas:candidate-vibid:2562000997696": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000188&tvd=2562000922495&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922495&type=464",
@@ -3043,16 +3043,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асяев Фаик Инсафович": 15,
-      "Головина Татьяна Александровна": 2,
-      "Катасонов Сергей Михайлович": 29,
-      "Климова Ирина Александровна": 1,
-      "Лазаров Георги Атанасов": 0,
-      "Мунжасаров Нурлан Нурмагамбетович": 8,
-      "Сухарев Игорь Николаевич": 57,
-      "Туршинов Дидар Саулебаевич": 1,
-      "Уралов Семен Сергеевич": 27,
-      "Щепинов Максим Александрович": 2
+      "gas:candidate-vibid:25620001004303": 15,
+      "gas:candidate-vibid:25620001004760": 2,
+      "gas:candidate-vibid:2562000991769": 29,
+      "gas:candidate-vibid:25620001004637": 1,
+      "gas:candidate-vibid:25620001004626": 0,
+      "gas:candidate-vibid:25620001004382": 8,
+      "gas:candidate-vibid:25620001003807": 57,
+      "gas:candidate-vibid:25620001004748": 1,
+      "gas:candidate-vibid:25620001001594": 27,
+      "gas:candidate-vibid:2562000997696": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000188&tvd=2562000922495&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922495&type=464",
@@ -3103,16 +3103,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асяев Фаик Инсафович": 6,
-      "Головина Татьяна Александровна": 0,
-      "Катасонов Сергей Михайлович": 18,
-      "Климова Ирина Александровна": 0,
-      "Лазаров Георги Атанасов": 1,
-      "Мунжасаров Нурлан Нурмагамбетович": 2,
-      "Сухарев Игорь Николаевич": 62,
-      "Туршинов Дидар Саулебаевич": 0,
-      "Уралов Семен Сергеевич": 8,
-      "Щепинов Максим Александрович": 1
+      "gas:candidate-vibid:25620001004303": 6,
+      "gas:candidate-vibid:25620001004760": 0,
+      "gas:candidate-vibid:2562000991769": 18,
+      "gas:candidate-vibid:25620001004637": 0,
+      "gas:candidate-vibid:25620001004626": 1,
+      "gas:candidate-vibid:25620001004382": 2,
+      "gas:candidate-vibid:25620001003807": 62,
+      "gas:candidate-vibid:25620001004748": 0,
+      "gas:candidate-vibid:25620001001594": 8,
+      "gas:candidate-vibid:2562000997696": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000188&tvd=2562000922495&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922495&type=464",
@@ -3163,16 +3163,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асяев Фаик Инсафович": 17,
-      "Головина Татьяна Александровна": 1,
-      "Катасонов Сергей Михайлович": 45,
-      "Климова Ирина Александровна": 1,
-      "Лазаров Георги Атанасов": 0,
-      "Мунжасаров Нурлан Нурмагамбетович": 5,
-      "Сухарев Игорь Николаевич": 149,
-      "Туршинов Дидар Саулебаевич": 0,
-      "Уралов Семен Сергеевич": 12,
-      "Щепинов Максим Александрович": 0
+      "gas:candidate-vibid:25620001004303": 17,
+      "gas:candidate-vibid:25620001004760": 1,
+      "gas:candidate-vibid:2562000991769": 45,
+      "gas:candidate-vibid:25620001004637": 1,
+      "gas:candidate-vibid:25620001004626": 0,
+      "gas:candidate-vibid:25620001004382": 5,
+      "gas:candidate-vibid:25620001003807": 149,
+      "gas:candidate-vibid:25620001004748": 0,
+      "gas:candidate-vibid:25620001001594": 12,
+      "gas:candidate-vibid:2562000997696": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000188&tvd=2562000922495&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922495&type=464",
@@ -3223,16 +3223,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асяев Фаик Инсафович": 27,
-      "Головина Татьяна Александровна": 2,
-      "Катасонов Сергей Михайлович": 10,
-      "Климова Ирина Александровна": 1,
-      "Лазаров Георги Атанасов": 2,
-      "Мунжасаров Нурлан Нурмагамбетович": 9,
-      "Сухарев Игорь Николаевич": 98,
-      "Туршинов Дидар Саулебаевич": 0,
-      "Уралов Семен Сергеевич": 12,
-      "Щепинов Максим Александрович": 0
+      "gas:candidate-vibid:25620001004303": 27,
+      "gas:candidate-vibid:25620001004760": 2,
+      "gas:candidate-vibid:2562000991769": 10,
+      "gas:candidate-vibid:25620001004637": 1,
+      "gas:candidate-vibid:25620001004626": 2,
+      "gas:candidate-vibid:25620001004382": 9,
+      "gas:candidate-vibid:25620001003807": 98,
+      "gas:candidate-vibid:25620001004748": 0,
+      "gas:candidate-vibid:25620001001594": 12,
+      "gas:candidate-vibid:2562000997696": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000188&tvd=2562000922495&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922495&type=464",
@@ -3283,16 +3283,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асяев Фаик Инсафович": 17,
-      "Головина Татьяна Александровна": 1,
-      "Катасонов Сергей Михайлович": 22,
-      "Климова Ирина Александровна": 2,
-      "Лазаров Георги Атанасов": 1,
-      "Мунжасаров Нурлан Нурмагамбетович": 2,
-      "Сухарев Игорь Николаевич": 132,
-      "Туршинов Дидар Саулебаевич": 0,
-      "Уралов Семен Сергеевич": 11,
-      "Щепинов Максим Александрович": 2
+      "gas:candidate-vibid:25620001004303": 17,
+      "gas:candidate-vibid:25620001004760": 1,
+      "gas:candidate-vibid:2562000991769": 22,
+      "gas:candidate-vibid:25620001004637": 2,
+      "gas:candidate-vibid:25620001004626": 1,
+      "gas:candidate-vibid:25620001004382": 2,
+      "gas:candidate-vibid:25620001003807": 132,
+      "gas:candidate-vibid:25620001004748": 0,
+      "gas:candidate-vibid:25620001001594": 11,
+      "gas:candidate-vibid:2562000997696": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000188&tvd=2562000922495&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922495&type=464",
@@ -3343,16 +3343,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асяев Фаик Инсафович": 5,
-      "Головина Татьяна Александровна": 2,
-      "Катасонов Сергей Михайлович": 13,
-      "Климова Ирина Александровна": 1,
-      "Лазаров Георги Атанасов": 0,
-      "Мунжасаров Нурлан Нурмагамбетович": 1,
-      "Сухарев Игорь Николаевич": 84,
-      "Туршинов Дидар Саулебаевич": 0,
-      "Уралов Семен Сергеевич": 7,
-      "Щепинов Максим Александрович": 1
+      "gas:candidate-vibid:25620001004303": 5,
+      "gas:candidate-vibid:25620001004760": 2,
+      "gas:candidate-vibid:2562000991769": 13,
+      "gas:candidate-vibid:25620001004637": 1,
+      "gas:candidate-vibid:25620001004626": 0,
+      "gas:candidate-vibid:25620001004382": 1,
+      "gas:candidate-vibid:25620001003807": 84,
+      "gas:candidate-vibid:25620001004748": 0,
+      "gas:candidate-vibid:25620001001594": 7,
+      "gas:candidate-vibid:2562000997696": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000188&tvd=2562000922495&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922495&type=464",
@@ -3403,16 +3403,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асяев Фаик Инсафович": 20,
-      "Головина Татьяна Александровна": 0,
-      "Катасонов Сергей Михайлович": 33,
-      "Климова Ирина Александровна": 2,
-      "Лазаров Георги Атанасов": 0,
-      "Мунжасаров Нурлан Нурмагамбетович": 6,
-      "Сухарев Игорь Николаевич": 183,
-      "Туршинов Дидар Саулебаевич": 2,
-      "Уралов Семен Сергеевич": 12,
-      "Щепинов Максим Александрович": 0
+      "gas:candidate-vibid:25620001004303": 20,
+      "gas:candidate-vibid:25620001004760": 0,
+      "gas:candidate-vibid:2562000991769": 33,
+      "gas:candidate-vibid:25620001004637": 2,
+      "gas:candidate-vibid:25620001004626": 0,
+      "gas:candidate-vibid:25620001004382": 6,
+      "gas:candidate-vibid:25620001003807": 183,
+      "gas:candidate-vibid:25620001004748": 2,
+      "gas:candidate-vibid:25620001001594": 12,
+      "gas:candidate-vibid:2562000997696": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000188&tvd=2562000922495&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922495&type=464",
@@ -3463,16 +3463,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асяев Фаик Инсафович": 28,
-      "Головина Татьяна Александровна": 0,
-      "Катасонов Сергей Михайлович": 16,
-      "Климова Ирина Александровна": 0,
-      "Лазаров Георги Атанасов": 0,
-      "Мунжасаров Нурлан Нурмагамбетович": 6,
-      "Сухарев Игорь Николаевич": 49,
-      "Туршинов Дидар Саулебаевич": 1,
-      "Уралов Семен Сергеевич": 10,
-      "Щепинов Максим Александрович": 0
+      "gas:candidate-vibid:25620001004303": 28,
+      "gas:candidate-vibid:25620001004760": 0,
+      "gas:candidate-vibid:2562000991769": 16,
+      "gas:candidate-vibid:25620001004637": 0,
+      "gas:candidate-vibid:25620001004626": 0,
+      "gas:candidate-vibid:25620001004382": 6,
+      "gas:candidate-vibid:25620001003807": 49,
+      "gas:candidate-vibid:25620001004748": 1,
+      "gas:candidate-vibid:25620001001594": 10,
+      "gas:candidate-vibid:2562000997696": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000188&tvd=2562000922495&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922495&type=464",
@@ -3523,16 +3523,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асяев Фаик Инсафович": 21,
-      "Головина Татьяна Александровна": 5,
-      "Катасонов Сергей Михайлович": 31,
-      "Климова Ирина Александровна": 1,
-      "Лазаров Георги Атанасов": 1,
-      "Мунжасаров Нурлан Нурмагамбетович": 5,
-      "Сухарев Игорь Николаевич": 125,
-      "Туршинов Дидар Саулебаевич": 0,
-      "Уралов Семен Сергеевич": 17,
-      "Щепинов Максим Александрович": 1
+      "gas:candidate-vibid:25620001004303": 21,
+      "gas:candidate-vibid:25620001004760": 5,
+      "gas:candidate-vibid:2562000991769": 31,
+      "gas:candidate-vibid:25620001004637": 1,
+      "gas:candidate-vibid:25620001004626": 1,
+      "gas:candidate-vibid:25620001004382": 5,
+      "gas:candidate-vibid:25620001003807": 125,
+      "gas:candidate-vibid:25620001004748": 0,
+      "gas:candidate-vibid:25620001001594": 17,
+      "gas:candidate-vibid:2562000997696": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000188&tvd=2562000922495&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922495&type=464",
@@ -3583,16 +3583,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асяев Фаик Инсафович": 86,
-      "Головина Татьяна Александровна": 1,
-      "Катасонов Сергей Михайлович": 14,
-      "Климова Ирина Александровна": 0,
-      "Лазаров Георги Атанасов": 3,
-      "Мунжасаров Нурлан Нурмагамбетович": 20,
-      "Сухарев Игорь Николаевич": 358,
-      "Туршинов Дидар Саулебаевич": 2,
-      "Уралов Семен Сергеевич": 30,
-      "Щепинов Максим Александрович": 4
+      "gas:candidate-vibid:25620001004303": 86,
+      "gas:candidate-vibid:25620001004760": 1,
+      "gas:candidate-vibid:2562000991769": 14,
+      "gas:candidate-vibid:25620001004637": 0,
+      "gas:candidate-vibid:25620001004626": 3,
+      "gas:candidate-vibid:25620001004382": 20,
+      "gas:candidate-vibid:25620001003807": 358,
+      "gas:candidate-vibid:25620001004748": 2,
+      "gas:candidate-vibid:25620001001594": 30,
+      "gas:candidate-vibid:2562000997696": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000188&tvd=2562000922495&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922495&type=464",
@@ -3643,16 +3643,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асяев Фаик Инсафович": 6,
-      "Головина Татьяна Александровна": 0,
-      "Катасонов Сергей Михайлович": 28,
-      "Климова Ирина Александровна": 3,
-      "Лазаров Георги Атанасов": 1,
-      "Мунжасаров Нурлан Нурмагамбетович": 1,
-      "Сухарев Игорь Николаевич": 60,
-      "Туршинов Дидар Саулебаевич": 0,
-      "Уралов Семен Сергеевич": 10,
-      "Щепинов Максим Александрович": 1
+      "gas:candidate-vibid:25620001004303": 6,
+      "gas:candidate-vibid:25620001004760": 0,
+      "gas:candidate-vibid:2562000991769": 28,
+      "gas:candidate-vibid:25620001004637": 3,
+      "gas:candidate-vibid:25620001004626": 1,
+      "gas:candidate-vibid:25620001004382": 1,
+      "gas:candidate-vibid:25620001003807": 60,
+      "gas:candidate-vibid:25620001004748": 0,
+      "gas:candidate-vibid:25620001001594": 10,
+      "gas:candidate-vibid:2562000997696": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000188&tvd=2562000922495&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922495&type=464",
@@ -3703,16 +3703,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асяев Фаик Инсафович": 38,
-      "Головина Татьяна Александровна": 1,
-      "Катасонов Сергей Михайлович": 7,
-      "Климова Ирина Александровна": 0,
-      "Лазаров Георги Атанасов": 0,
-      "Мунжасаров Нурлан Нурмагамбетович": 4,
-      "Сухарев Игорь Николаевич": 55,
-      "Туршинов Дидар Саулебаевич": 1,
-      "Уралов Семен Сергеевич": 4,
-      "Щепинов Максим Александрович": 1
+      "gas:candidate-vibid:25620001004303": 38,
+      "gas:candidate-vibid:25620001004760": 1,
+      "gas:candidate-vibid:2562000991769": 7,
+      "gas:candidate-vibid:25620001004637": 0,
+      "gas:candidate-vibid:25620001004626": 0,
+      "gas:candidate-vibid:25620001004382": 4,
+      "gas:candidate-vibid:25620001003807": 55,
+      "gas:candidate-vibid:25620001004748": 1,
+      "gas:candidate-vibid:25620001001594": 4,
+      "gas:candidate-vibid:2562000997696": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000188&tvd=2562000922495&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922495&type=464",
@@ -3763,16 +3763,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асяев Фаик Инсафович": 37,
-      "Головина Татьяна Александровна": 3,
-      "Катасонов Сергей Михайлович": 60,
-      "Климова Ирина Александровна": 7,
-      "Лазаров Георги Атанасов": 2,
-      "Мунжасаров Нурлан Нурмагамбетович": 5,
-      "Сухарев Игорь Николаевич": 136,
-      "Туршинов Дидар Саулебаевич": 1,
-      "Уралов Семен Сергеевич": 11,
-      "Щепинов Максим Александрович": 0
+      "gas:candidate-vibid:25620001004303": 37,
+      "gas:candidate-vibid:25620001004760": 3,
+      "gas:candidate-vibid:2562000991769": 60,
+      "gas:candidate-vibid:25620001004637": 7,
+      "gas:candidate-vibid:25620001004626": 2,
+      "gas:candidate-vibid:25620001004382": 5,
+      "gas:candidate-vibid:25620001003807": 136,
+      "gas:candidate-vibid:25620001004748": 1,
+      "gas:candidate-vibid:25620001001594": 11,
+      "gas:candidate-vibid:2562000997696": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000188&tvd=2562000922495&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922495&type=464",
@@ -3823,16 +3823,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асяев Фаик Инсафович": 16,
-      "Головина Татьяна Александровна": 2,
-      "Катасонов Сергей Михайлович": 41,
-      "Климова Ирина Александровна": 0,
-      "Лазаров Георги Атанасов": 0,
-      "Мунжасаров Нурлан Нурмагамбетович": 6,
-      "Сухарев Игорь Николаевич": 79,
-      "Туршинов Дидар Саулебаевич": 2,
-      "Уралов Семен Сергеевич": 15,
-      "Щепинов Максим Александрович": 2
+      "gas:candidate-vibid:25620001004303": 16,
+      "gas:candidate-vibid:25620001004760": 2,
+      "gas:candidate-vibid:2562000991769": 41,
+      "gas:candidate-vibid:25620001004637": 0,
+      "gas:candidate-vibid:25620001004626": 0,
+      "gas:candidate-vibid:25620001004382": 6,
+      "gas:candidate-vibid:25620001003807": 79,
+      "gas:candidate-vibid:25620001004748": 2,
+      "gas:candidate-vibid:25620001001594": 15,
+      "gas:candidate-vibid:2562000997696": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000188&tvd=2562000922495&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922495&type=464",
@@ -3883,16 +3883,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асяев Фаик Инсафович": 4,
-      "Головина Татьяна Александровна": 1,
-      "Катасонов Сергей Михайлович": 17,
-      "Климова Ирина Александровна": 0,
-      "Лазаров Георги Атанасов": 1,
-      "Мунжасаров Нурлан Нурмагамбетович": 7,
-      "Сухарев Игорь Николаевич": 149,
-      "Туршинов Дидар Саулебаевич": 0,
-      "Уралов Семен Сергеевич": 9,
-      "Щепинов Максим Александрович": 1
+      "gas:candidate-vibid:25620001004303": 4,
+      "gas:candidate-vibid:25620001004760": 1,
+      "gas:candidate-vibid:2562000991769": 17,
+      "gas:candidate-vibid:25620001004637": 0,
+      "gas:candidate-vibid:25620001004626": 1,
+      "gas:candidate-vibid:25620001004382": 7,
+      "gas:candidate-vibid:25620001003807": 149,
+      "gas:candidate-vibid:25620001004748": 0,
+      "gas:candidate-vibid:25620001001594": 9,
+      "gas:candidate-vibid:2562000997696": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000188&tvd=2562000922495&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922495&type=464",
@@ -3943,16 +3943,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асяев Фаик Инсафович": 5,
-      "Головина Татьяна Александровна": 0,
-      "Катасонов Сергей Михайлович": 10,
-      "Климова Ирина Александровна": 1,
-      "Лазаров Георги Атанасов": 0,
-      "Мунжасаров Нурлан Нурмагамбетович": 8,
-      "Сухарев Игорь Николаевич": 31,
-      "Туршинов Дидар Саулебаевич": 0,
-      "Уралов Семен Сергеевич": 1,
-      "Щепинов Максим Александрович": 0
+      "gas:candidate-vibid:25620001004303": 5,
+      "gas:candidate-vibid:25620001004760": 0,
+      "gas:candidate-vibid:2562000991769": 10,
+      "gas:candidate-vibid:25620001004637": 1,
+      "gas:candidate-vibid:25620001004626": 0,
+      "gas:candidate-vibid:25620001004382": 8,
+      "gas:candidate-vibid:25620001003807": 31,
+      "gas:candidate-vibid:25620001004748": 0,
+      "gas:candidate-vibid:25620001001594": 1,
+      "gas:candidate-vibid:2562000997696": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000188&tvd=2562000922495&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922495&type=464",
@@ -4003,16 +4003,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асяев Фаик Инсафович": 24,
-      "Головина Татьяна Александровна": 1,
-      "Катасонов Сергей Михайлович": 44,
-      "Климова Ирина Александровна": 1,
-      "Лазаров Георги Атанасов": 1,
-      "Мунжасаров Нурлан Нурмагамбетович": 12,
-      "Сухарев Игорь Николаевич": 182,
-      "Туршинов Дидар Саулебаевич": 0,
-      "Уралов Семен Сергеевич": 27,
-      "Щепинов Максим Александрович": 1
+      "gas:candidate-vibid:25620001004303": 24,
+      "gas:candidate-vibid:25620001004760": 1,
+      "gas:candidate-vibid:2562000991769": 44,
+      "gas:candidate-vibid:25620001004637": 1,
+      "gas:candidate-vibid:25620001004626": 1,
+      "gas:candidate-vibid:25620001004382": 12,
+      "gas:candidate-vibid:25620001003807": 182,
+      "gas:candidate-vibid:25620001004748": 0,
+      "gas:candidate-vibid:25620001001594": 27,
+      "gas:candidate-vibid:2562000997696": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000188&tvd=2562000922495&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922495&type=464",
@@ -4063,16 +4063,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асяев Фаик Инсафович": 3,
-      "Головина Татьяна Александровна": 0,
-      "Катасонов Сергей Михайлович": 5,
-      "Климова Ирина Александровна": 0,
-      "Лазаров Георги Атанасов": 0,
-      "Мунжасаров Нурлан Нурмагамбетович": 0,
-      "Сухарев Игорь Николаевич": 38,
-      "Туршинов Дидар Саулебаевич": 1,
-      "Уралов Семен Сергеевич": 4,
-      "Щепинов Максим Александрович": 0
+      "gas:candidate-vibid:25620001004303": 3,
+      "gas:candidate-vibid:25620001004760": 0,
+      "gas:candidate-vibid:2562000991769": 5,
+      "gas:candidate-vibid:25620001004637": 0,
+      "gas:candidate-vibid:25620001004626": 0,
+      "gas:candidate-vibid:25620001004382": 0,
+      "gas:candidate-vibid:25620001003807": 38,
+      "gas:candidate-vibid:25620001004748": 1,
+      "gas:candidate-vibid:25620001001594": 4,
+      "gas:candidate-vibid:2562000997696": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000188&tvd=2562000922495&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922495&type=464",
@@ -4123,16 +4123,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асяев Фаик Инсафович": 9,
-      "Головина Татьяна Александровна": 0,
-      "Катасонов Сергей Михайлович": 7,
-      "Климова Ирина Александровна": 0,
-      "Лазаров Георги Атанасов": 0,
-      "Мунжасаров Нурлан Нурмагамбетович": 5,
-      "Сухарев Игорь Николаевич": 102,
-      "Туршинов Дидар Саулебаевич": 0,
-      "Уралов Семен Сергеевич": 5,
-      "Щепинов Максим Александрович": 0
+      "gas:candidate-vibid:25620001004303": 9,
+      "gas:candidate-vibid:25620001004760": 0,
+      "gas:candidate-vibid:2562000991769": 7,
+      "gas:candidate-vibid:25620001004637": 0,
+      "gas:candidate-vibid:25620001004626": 0,
+      "gas:candidate-vibid:25620001004382": 5,
+      "gas:candidate-vibid:25620001003807": 102,
+      "gas:candidate-vibid:25620001004748": 0,
+      "gas:candidate-vibid:25620001001594": 5,
+      "gas:candidate-vibid:2562000997696": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000188&tvd=2562000922495&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922495&type=464",
@@ -4183,16 +4183,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асяев Фаик Инсафович": 2,
-      "Головина Татьяна Александровна": 4,
-      "Катасонов Сергей Михайлович": 20,
-      "Климова Ирина Александровна": 2,
-      "Лазаров Георги Атанасов": 0,
-      "Мунжасаров Нурлан Нурмагамбетович": 9,
-      "Сухарев Игорь Николаевич": 67,
-      "Туршинов Дидар Саулебаевич": 0,
-      "Уралов Семен Сергеевич": 12,
-      "Щепинов Максим Александрович": 0
+      "gas:candidate-vibid:25620001004303": 2,
+      "gas:candidate-vibid:25620001004760": 4,
+      "gas:candidate-vibid:2562000991769": 20,
+      "gas:candidate-vibid:25620001004637": 2,
+      "gas:candidate-vibid:25620001004626": 0,
+      "gas:candidate-vibid:25620001004382": 9,
+      "gas:candidate-vibid:25620001003807": 67,
+      "gas:candidate-vibid:25620001004748": 0,
+      "gas:candidate-vibid:25620001001594": 12,
+      "gas:candidate-vibid:2562000997696": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000188&tvd=2562000922495&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922495&type=464",
@@ -4243,16 +4243,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асяев Фаик Инсафович": 12,
-      "Головина Татьяна Александровна": 0,
-      "Катасонов Сергей Михайлович": 51,
-      "Климова Ирина Александровна": 2,
-      "Лазаров Георги Атанасов": 1,
-      "Мунжасаров Нурлан Нурмагамбетович": 8,
-      "Сухарев Игорь Николаевич": 82,
-      "Туршинов Дидар Саулебаевич": 1,
-      "Уралов Семен Сергеевич": 24,
-      "Щепинов Максим Александрович": 3
+      "gas:candidate-vibid:25620001004303": 12,
+      "gas:candidate-vibid:25620001004760": 0,
+      "gas:candidate-vibid:2562000991769": 51,
+      "gas:candidate-vibid:25620001004637": 2,
+      "gas:candidate-vibid:25620001004626": 1,
+      "gas:candidate-vibid:25620001004382": 8,
+      "gas:candidate-vibid:25620001003807": 82,
+      "gas:candidate-vibid:25620001004748": 1,
+      "gas:candidate-vibid:25620001001594": 24,
+      "gas:candidate-vibid:2562000997696": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000188&tvd=2562000922495&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922495&type=464",
@@ -4303,16 +4303,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асяев Фаик Инсафович": 8,
-      "Головина Татьяна Александровна": 2,
-      "Катасонов Сергей Михайлович": 60,
-      "Климова Ирина Александровна": 0,
-      "Лазаров Георги Атанасов": 3,
-      "Мунжасаров Нурлан Нурмагамбетович": 3,
-      "Сухарев Игорь Николаевич": 77,
-      "Туршинов Дидар Саулебаевич": 2,
-      "Уралов Семен Сергеевич": 19,
-      "Щепинов Максим Александрович": 0
+      "gas:candidate-vibid:25620001004303": 8,
+      "gas:candidate-vibid:25620001004760": 2,
+      "gas:candidate-vibid:2562000991769": 60,
+      "gas:candidate-vibid:25620001004637": 0,
+      "gas:candidate-vibid:25620001004626": 3,
+      "gas:candidate-vibid:25620001004382": 3,
+      "gas:candidate-vibid:25620001003807": 77,
+      "gas:candidate-vibid:25620001004748": 2,
+      "gas:candidate-vibid:25620001001594": 19,
+      "gas:candidate-vibid:2562000997696": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000188&tvd=2562000922495&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922495&type=464",
@@ -4363,16 +4363,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асяев Фаик Инсафович": 11,
-      "Головина Татьяна Александровна": 9,
-      "Катасонов Сергей Михайлович": 27,
-      "Климова Ирина Александровна": 2,
-      "Лазаров Георги Атанасов": 3,
-      "Мунжасаров Нурлан Нурмагамбетович": 0,
-      "Сухарев Игорь Николаевич": 434,
-      "Туршинов Дидар Саулебаевич": 8,
-      "Уралов Семен Сергеевич": 30,
-      "Щепинов Максим Александрович": 0
+      "gas:candidate-vibid:25620001004303": 11,
+      "gas:candidate-vibid:25620001004760": 9,
+      "gas:candidate-vibid:2562000991769": 27,
+      "gas:candidate-vibid:25620001004637": 2,
+      "gas:candidate-vibid:25620001004626": 3,
+      "gas:candidate-vibid:25620001004382": 0,
+      "gas:candidate-vibid:25620001003807": 434,
+      "gas:candidate-vibid:25620001004748": 8,
+      "gas:candidate-vibid:25620001001594": 30,
+      "gas:candidate-vibid:2562000997696": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000188&tvd=2562000922495&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922495&type=464",
@@ -4423,16 +4423,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асяев Фаик Инсафович": 5,
-      "Головина Татьяна Александровна": 0,
-      "Катасонов Сергей Михайлович": 13,
-      "Климова Ирина Александровна": 0,
-      "Лазаров Георги Атанасов": 0,
-      "Мунжасаров Нурлан Нурмагамбетович": 0,
-      "Сухарев Игорь Николаевич": 86,
-      "Туршинов Дидар Саулебаевич": 0,
-      "Уралов Семен Сергеевич": 0,
-      "Щепинов Максим Александрович": 0
+      "gas:candidate-vibid:25620001004303": 5,
+      "gas:candidate-vibid:25620001004760": 0,
+      "gas:candidate-vibid:2562000991769": 13,
+      "gas:candidate-vibid:25620001004637": 0,
+      "gas:candidate-vibid:25620001004626": 0,
+      "gas:candidate-vibid:25620001004382": 0,
+      "gas:candidate-vibid:25620001003807": 86,
+      "gas:candidate-vibid:25620001004748": 0,
+      "gas:candidate-vibid:25620001001594": 0,
+      "gas:candidate-vibid:2562000997696": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000188&tvd=2562000922495&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922495&type=464",
@@ -4483,16 +4483,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асяев Фаик Инсафович": 2,
-      "Головина Татьяна Александровна": 2,
-      "Катасонов Сергей Михайлович": 17,
-      "Климова Ирина Александровна": 0,
-      "Лазаров Георги Атанасов": 0,
-      "Мунжасаров Нурлан Нурмагамбетович": 1,
-      "Сухарев Игорь Николаевич": 50,
-      "Туршинов Дидар Саулебаевич": 0,
-      "Уралов Семен Сергеевич": 3,
-      "Щепинов Максим Александрович": 1
+      "gas:candidate-vibid:25620001004303": 2,
+      "gas:candidate-vibid:25620001004760": 2,
+      "gas:candidate-vibid:2562000991769": 17,
+      "gas:candidate-vibid:25620001004637": 0,
+      "gas:candidate-vibid:25620001004626": 0,
+      "gas:candidate-vibid:25620001004382": 1,
+      "gas:candidate-vibid:25620001003807": 50,
+      "gas:candidate-vibid:25620001004748": 0,
+      "gas:candidate-vibid:25620001001594": 3,
+      "gas:candidate-vibid:2562000997696": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000188&tvd=2562000922495&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922495&type=464",
@@ -4543,16 +4543,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асяев Фаик Инсафович": 3,
-      "Головина Татьяна Александровна": 2,
-      "Катасонов Сергей Михайлович": 27,
-      "Климова Ирина Александровна": 2,
-      "Лазаров Георги Атанасов": 1,
-      "Мунжасаров Нурлан Нурмагамбетович": 9,
-      "Сухарев Игорь Николаевич": 105,
-      "Туршинов Дидар Саулебаевич": 1,
-      "Уралов Семен Сергеевич": 13,
-      "Щепинов Максим Александрович": 1
+      "gas:candidate-vibid:25620001004303": 3,
+      "gas:candidate-vibid:25620001004760": 2,
+      "gas:candidate-vibid:2562000991769": 27,
+      "gas:candidate-vibid:25620001004637": 2,
+      "gas:candidate-vibid:25620001004626": 1,
+      "gas:candidate-vibid:25620001004382": 9,
+      "gas:candidate-vibid:25620001003807": 105,
+      "gas:candidate-vibid:25620001004748": 1,
+      "gas:candidate-vibid:25620001001594": 13,
+      "gas:candidate-vibid:2562000997696": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000188&tvd=2562000922495&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922495&type=464",
@@ -4603,16 +4603,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асяев Фаик Инсафович": 7,
-      "Головина Татьяна Александровна": 0,
-      "Катасонов Сергей Михайлович": 29,
-      "Климова Ирина Александровна": 0,
-      "Лазаров Георги Атанасов": 0,
-      "Мунжасаров Нурлан Нурмагамбетович": 2,
-      "Сухарев Игорь Николаевич": 96,
-      "Туршинов Дидар Саулебаевич": 0,
-      "Уралов Семен Сергеевич": 3,
-      "Щепинов Максим Александрович": 0
+      "gas:candidate-vibid:25620001004303": 7,
+      "gas:candidate-vibid:25620001004760": 0,
+      "gas:candidate-vibid:2562000991769": 29,
+      "gas:candidate-vibid:25620001004637": 0,
+      "gas:candidate-vibid:25620001004626": 0,
+      "gas:candidate-vibid:25620001004382": 2,
+      "gas:candidate-vibid:25620001003807": 96,
+      "gas:candidate-vibid:25620001004748": 0,
+      "gas:candidate-vibid:25620001001594": 3,
+      "gas:candidate-vibid:2562000997696": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000188&tvd=2562000922495&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922495&type=464",
@@ -4663,16 +4663,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асяев Фаик Инсафович": 9,
-      "Головина Татьяна Александровна": 1,
-      "Катасонов Сергей Михайлович": 17,
-      "Климова Ирина Александровна": 1,
-      "Лазаров Георги Атанасов": 2,
-      "Мунжасаров Нурлан Нурмагамбетович": 6,
-      "Сухарев Игорь Николаевич": 116,
-      "Туршинов Дидар Саулебаевич": 0,
-      "Уралов Семен Сергеевич": 14,
-      "Щепинов Максим Александрович": 0
+      "gas:candidate-vibid:25620001004303": 9,
+      "gas:candidate-vibid:25620001004760": 1,
+      "gas:candidate-vibid:2562000991769": 17,
+      "gas:candidate-vibid:25620001004637": 1,
+      "gas:candidate-vibid:25620001004626": 2,
+      "gas:candidate-vibid:25620001004382": 6,
+      "gas:candidate-vibid:25620001003807": 116,
+      "gas:candidate-vibid:25620001004748": 0,
+      "gas:candidate-vibid:25620001001594": 14,
+      "gas:candidate-vibid:2562000997696": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000188&tvd=2562000922495&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922495&type=464",
@@ -4723,16 +4723,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асяев Фаик Инсафович": 2,
-      "Головина Татьяна Александровна": 0,
-      "Катасонов Сергей Михайлович": 6,
-      "Климова Ирина Александровна": 1,
-      "Лазаров Георги Атанасов": 1,
-      "Мунжасаров Нурлан Нурмагамбетович": 0,
-      "Сухарев Игорь Николаевич": 39,
-      "Туршинов Дидар Саулебаевич": 0,
-      "Уралов Семен Сергеевич": 1,
-      "Щепинов Максим Александрович": 1
+      "gas:candidate-vibid:25620001004303": 2,
+      "gas:candidate-vibid:25620001004760": 0,
+      "gas:candidate-vibid:2562000991769": 6,
+      "gas:candidate-vibid:25620001004637": 1,
+      "gas:candidate-vibid:25620001004626": 1,
+      "gas:candidate-vibid:25620001004382": 0,
+      "gas:candidate-vibid:25620001003807": 39,
+      "gas:candidate-vibid:25620001004748": 0,
+      "gas:candidate-vibid:25620001001594": 1,
+      "gas:candidate-vibid:2562000997696": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000188&tvd=2562000922495&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922495&type=464",
@@ -4783,16 +4783,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асяев Фаик Инсафович": 35,
-      "Головина Татьяна Александровна": 2,
-      "Катасонов Сергей Михайлович": 17,
-      "Климова Ирина Александровна": 1,
-      "Лазаров Георги Атанасов": 0,
-      "Мунжасаров Нурлан Нурмагамбетович": 8,
-      "Сухарев Игорь Николаевич": 192,
-      "Туршинов Дидар Саулебаевич": 0,
-      "Уралов Семен Сергеевич": 12,
-      "Щепинов Максим Александрович": 1
+      "gas:candidate-vibid:25620001004303": 35,
+      "gas:candidate-vibid:25620001004760": 2,
+      "gas:candidate-vibid:2562000991769": 17,
+      "gas:candidate-vibid:25620001004637": 1,
+      "gas:candidate-vibid:25620001004626": 0,
+      "gas:candidate-vibid:25620001004382": 8,
+      "gas:candidate-vibid:25620001003807": 192,
+      "gas:candidate-vibid:25620001004748": 0,
+      "gas:candidate-vibid:25620001001594": 12,
+      "gas:candidate-vibid:2562000997696": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000188&tvd=2562000922495&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922495&type=464",
@@ -4843,16 +4843,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асяев Фаик Инсафович": 46,
-      "Головина Татьяна Александровна": 13,
-      "Катасонов Сергей Михайлович": 163,
-      "Климова Ирина Александровна": 3,
-      "Лазаров Георги Атанасов": 5,
-      "Мунжасаров Нурлан Нурмагамбетович": 40,
-      "Сухарев Игорь Николаевич": 297,
-      "Туршинов Дидар Саулебаевич": 2,
-      "Уралов Семен Сергеевич": 121,
-      "Щепинов Максим Александрович": 4
+      "gas:candidate-vibid:25620001004303": 46,
+      "gas:candidate-vibid:25620001004760": 13,
+      "gas:candidate-vibid:2562000991769": 163,
+      "gas:candidate-vibid:25620001004637": 3,
+      "gas:candidate-vibid:25620001004626": 5,
+      "gas:candidate-vibid:25620001004382": 40,
+      "gas:candidate-vibid:25620001003807": 297,
+      "gas:candidate-vibid:25620001004748": 2,
+      "gas:candidate-vibid:25620001001594": 121,
+      "gas:candidate-vibid:2562000997696": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000188&tvd=2562000922495&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922495&type=464",
@@ -4903,16 +4903,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асяев Фаик Инсафович": 55,
-      "Головина Татьяна Александровна": 11,
-      "Катасонов Сергей Михайлович": 182,
-      "Климова Ирина Александровна": 9,
-      "Лазаров Георги Атанасов": 2,
-      "Мунжасаров Нурлан Нурмагамбетович": 32,
-      "Сухарев Игорь Николаевич": 340,
-      "Туршинов Дидар Саулебаевич": 7,
-      "Уралов Семен Сергеевич": 124,
-      "Щепинов Максим Александрович": 4
+      "gas:candidate-vibid:25620001004303": 55,
+      "gas:candidate-vibid:25620001004760": 11,
+      "gas:candidate-vibid:2562000991769": 182,
+      "gas:candidate-vibid:25620001004637": 9,
+      "gas:candidate-vibid:25620001004626": 2,
+      "gas:candidate-vibid:25620001004382": 32,
+      "gas:candidate-vibid:25620001003807": 340,
+      "gas:candidate-vibid:25620001004748": 7,
+      "gas:candidate-vibid:25620001001594": 124,
+      "gas:candidate-vibid:2562000997696": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000188&tvd=2562000922495&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922495&type=464",
@@ -4963,16 +4963,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асяев Фаик Инсафович": 53,
-      "Головина Татьяна Александровна": 8,
-      "Катасонов Сергей Михайлович": 161,
-      "Климова Ирина Александровна": 7,
-      "Лазаров Георги Атанасов": 4,
-      "Мунжасаров Нурлан Нурмагамбетович": 47,
-      "Сухарев Игорь Николаевич": 341,
-      "Туршинов Дидар Саулебаевич": 5,
-      "Уралов Семен Сергеевич": 83,
-      "Щепинов Максим Александрович": 9
+      "gas:candidate-vibid:25620001004303": 53,
+      "gas:candidate-vibid:25620001004760": 8,
+      "gas:candidate-vibid:2562000991769": 161,
+      "gas:candidate-vibid:25620001004637": 7,
+      "gas:candidate-vibid:25620001004626": 4,
+      "gas:candidate-vibid:25620001004382": 47,
+      "gas:candidate-vibid:25620001003807": 341,
+      "gas:candidate-vibid:25620001004748": 5,
+      "gas:candidate-vibid:25620001001594": 83,
+      "gas:candidate-vibid:2562000997696": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000188&tvd=2562000922495&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922495&type=464",
@@ -5023,16 +5023,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асяев Фаик Инсафович": 58,
-      "Головина Татьяна Александровна": 14,
-      "Катасонов Сергей Михайлович": 229,
-      "Климова Ирина Александровна": 10,
-      "Лазаров Георги Атанасов": 7,
-      "Мунжасаров Нурлан Нурмагамбетович": 33,
-      "Сухарев Игорь Николаевич": 430,
-      "Туршинов Дидар Саулебаевич": 1,
-      "Уралов Семен Сергеевич": 129,
-      "Щепинов Максим Александрович": 6
+      "gas:candidate-vibid:25620001004303": 58,
+      "gas:candidate-vibid:25620001004760": 14,
+      "gas:candidate-vibid:2562000991769": 229,
+      "gas:candidate-vibid:25620001004637": 10,
+      "gas:candidate-vibid:25620001004626": 7,
+      "gas:candidate-vibid:25620001004382": 33,
+      "gas:candidate-vibid:25620001003807": 430,
+      "gas:candidate-vibid:25620001004748": 1,
+      "gas:candidate-vibid:25620001001594": 129,
+      "gas:candidate-vibid:2562000997696": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000188&tvd=2562000922495&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922495&type=464",
@@ -5083,16 +5083,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асяев Фаик Инсафович": 15,
-      "Головина Татьяна Александровна": 6,
-      "Катасонов Сергей Михайлович": 32,
-      "Климова Ирина Александровна": 4,
-      "Лазаров Георги Атанасов": 1,
-      "Мунжасаров Нурлан Нурмагамбетович": 5,
-      "Сухарев Игорь Николаевич": 57,
-      "Туршинов Дидар Саулебаевич": 1,
-      "Уралов Семен Сергеевич": 9,
-      "Щепинов Максим Александрович": 1
+      "gas:candidate-vibid:25620001004303": 15,
+      "gas:candidate-vibid:25620001004760": 6,
+      "gas:candidate-vibid:2562000991769": 32,
+      "gas:candidate-vibid:25620001004637": 4,
+      "gas:candidate-vibid:25620001004626": 1,
+      "gas:candidate-vibid:25620001004382": 5,
+      "gas:candidate-vibid:25620001003807": 57,
+      "gas:candidate-vibid:25620001004748": 1,
+      "gas:candidate-vibid:25620001001594": 9,
+      "gas:candidate-vibid:2562000997696": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000188&tvd=2562000922495&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922495&type=464",
@@ -5143,16 +5143,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асяев Фаик Инсафович": 21,
-      "Головина Татьяна Александровна": 2,
-      "Катасонов Сергей Михайлович": 30,
-      "Климова Ирина Александровна": 2,
-      "Лазаров Георги Атанасов": 0,
-      "Мунжасаров Нурлан Нурмагамбетович": 6,
-      "Сухарев Игорь Николаевич": 76,
-      "Туршинов Дидар Саулебаевич": 1,
-      "Уралов Семен Сергеевич": 17,
-      "Щепинов Максим Александрович": 1
+      "gas:candidate-vibid:25620001004303": 21,
+      "gas:candidate-vibid:25620001004760": 2,
+      "gas:candidate-vibid:2562000991769": 30,
+      "gas:candidate-vibid:25620001004637": 2,
+      "gas:candidate-vibid:25620001004626": 0,
+      "gas:candidate-vibid:25620001004382": 6,
+      "gas:candidate-vibid:25620001003807": 76,
+      "gas:candidate-vibid:25620001004748": 1,
+      "gas:candidate-vibid:25620001001594": 17,
+      "gas:candidate-vibid:2562000997696": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000188&tvd=2562000922495&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922495&type=464",
@@ -5203,16 +5203,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асяев Фаик Инсафович": 49,
-      "Головина Татьяна Александровна": 22,
-      "Катасонов Сергей Михайлович": 263,
-      "Климова Ирина Александровна": 23,
-      "Лазаров Георги Атанасов": 14,
-      "Мунжасаров Нурлан Нурмагамбетович": 82,
-      "Сухарев Игорь Николаевич": 464,
-      "Туршинов Дидар Саулебаевич": 12,
-      "Уралов Семен Сергеевич": 264,
-      "Щепинов Максим Александрович": 12
+      "gas:candidate-vibid:25620001004303": 49,
+      "gas:candidate-vibid:25620001004760": 22,
+      "gas:candidate-vibid:2562000991769": 263,
+      "gas:candidate-vibid:25620001004637": 23,
+      "gas:candidate-vibid:25620001004626": 14,
+      "gas:candidate-vibid:25620001004382": 82,
+      "gas:candidate-vibid:25620001003807": 464,
+      "gas:candidate-vibid:25620001004748": 12,
+      "gas:candidate-vibid:25620001001594": 264,
+      "gas:candidate-vibid:2562000997696": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000188&tvd=2562000922496&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922496&type=464",
@@ -5263,16 +5263,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асяев Фаик Инсафович": 38,
-      "Головина Татьяна Александровна": 11,
-      "Катасонов Сергей Михайлович": 171,
-      "Климова Ирина Александровна": 15,
-      "Лазаров Георги Атанасов": 4,
-      "Мунжасаров Нурлан Нурмагамбетович": 52,
-      "Сухарев Игорь Николаевич": 268,
-      "Туршинов Дидар Саулебаевич": 1,
-      "Уралов Семен Сергеевич": 127,
-      "Щепинов Максим Александрович": 12
+      "gas:candidate-vibid:25620001004303": 38,
+      "gas:candidate-vibid:25620001004760": 11,
+      "gas:candidate-vibid:2562000991769": 171,
+      "gas:candidate-vibid:25620001004637": 15,
+      "gas:candidate-vibid:25620001004626": 4,
+      "gas:candidate-vibid:25620001004382": 52,
+      "gas:candidate-vibid:25620001003807": 268,
+      "gas:candidate-vibid:25620001004748": 1,
+      "gas:candidate-vibid:25620001001594": 127,
+      "gas:candidate-vibid:2562000997696": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000188&tvd=2562000922496&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922496&type=464",
@@ -5323,16 +5323,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асяев Фаик Инсафович": 52,
-      "Головина Татьяна Александровна": 17,
-      "Катасонов Сергей Михайлович": 223,
-      "Климова Ирина Александровна": 23,
-      "Лазаров Георги Атанасов": 5,
-      "Мунжасаров Нурлан Нурмагамбетович": 81,
-      "Сухарев Игорь Николаевич": 333,
-      "Туршинов Дидар Саулебаевич": 5,
-      "Уралов Семен Сергеевич": 226,
-      "Щепинов Максим Александрович": 11
+      "gas:candidate-vibid:25620001004303": 52,
+      "gas:candidate-vibid:25620001004760": 17,
+      "gas:candidate-vibid:2562000991769": 223,
+      "gas:candidate-vibid:25620001004637": 23,
+      "gas:candidate-vibid:25620001004626": 5,
+      "gas:candidate-vibid:25620001004382": 81,
+      "gas:candidate-vibid:25620001003807": 333,
+      "gas:candidate-vibid:25620001004748": 5,
+      "gas:candidate-vibid:25620001001594": 226,
+      "gas:candidate-vibid:2562000997696": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000188&tvd=2562000922496&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922496&type=464",
@@ -5383,16 +5383,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асяев Фаик Инсафович": 8,
-      "Головина Татьяна Александровна": 8,
-      "Катасонов Сергей Михайлович": 23,
-      "Климова Ирина Александровна": 2,
-      "Лазаров Георги Атанасов": 1,
-      "Мунжасаров Нурлан Нурмагамбетович": 7,
-      "Сухарев Игорь Николаевич": 83,
-      "Туршинов Дидар Саулебаевич": 3,
-      "Уралов Семен Сергеевич": 13,
-      "Щепинов Максим Александрович": 3
+      "gas:candidate-vibid:25620001004303": 8,
+      "gas:candidate-vibid:25620001004760": 8,
+      "gas:candidate-vibid:2562000991769": 23,
+      "gas:candidate-vibid:25620001004637": 2,
+      "gas:candidate-vibid:25620001004626": 1,
+      "gas:candidate-vibid:25620001004382": 7,
+      "gas:candidate-vibid:25620001003807": 83,
+      "gas:candidate-vibid:25620001004748": 3,
+      "gas:candidate-vibid:25620001001594": 13,
+      "gas:candidate-vibid:2562000997696": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000188&tvd=2562000922496&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922496&type=464",
@@ -5443,16 +5443,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асяев Фаик Инсафович": 17,
-      "Головина Татьяна Александровна": 6,
-      "Катасонов Сергей Михайлович": 80,
-      "Климова Ирина Александровна": 12,
-      "Лазаров Георги Атанасов": 10,
-      "Мунжасаров Нурлан Нурмагамбетович": 25,
-      "Сухарев Игорь Николаевич": 211,
-      "Туршинов Дидар Саулебаевич": 2,
-      "Уралов Семен Сергеевич": 84,
-      "Щепинов Максим Александрович": 6
+      "gas:candidate-vibid:25620001004303": 17,
+      "gas:candidate-vibid:25620001004760": 6,
+      "gas:candidate-vibid:2562000991769": 80,
+      "gas:candidate-vibid:25620001004637": 12,
+      "gas:candidate-vibid:25620001004626": 10,
+      "gas:candidate-vibid:25620001004382": 25,
+      "gas:candidate-vibid:25620001003807": 211,
+      "gas:candidate-vibid:25620001004748": 2,
+      "gas:candidate-vibid:25620001001594": 84,
+      "gas:candidate-vibid:2562000997696": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000188&tvd=2562000922496&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922496&type=464",
@@ -5503,16 +5503,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асяев Фаик Инсафович": 12,
-      "Головина Татьяна Александровна": 8,
-      "Катасонов Сергей Михайлович": 41,
-      "Климова Ирина Александровна": 6,
-      "Лазаров Георги Атанасов": 3,
-      "Мунжасаров Нурлан Нурмагамбетович": 4,
-      "Сухарев Игорь Николаевич": 84,
-      "Туршинов Дидар Саулебаевич": 1,
-      "Уралов Семен Сергеевич": 16,
-      "Щепинов Максим Александрович": 4
+      "gas:candidate-vibid:25620001004303": 12,
+      "gas:candidate-vibid:25620001004760": 8,
+      "gas:candidate-vibid:2562000991769": 41,
+      "gas:candidate-vibid:25620001004637": 6,
+      "gas:candidate-vibid:25620001004626": 3,
+      "gas:candidate-vibid:25620001004382": 4,
+      "gas:candidate-vibid:25620001003807": 84,
+      "gas:candidate-vibid:25620001004748": 1,
+      "gas:candidate-vibid:25620001001594": 16,
+      "gas:candidate-vibid:2562000997696": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000188&tvd=2562000922496&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922496&type=464",
@@ -5563,16 +5563,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асяев Фаик Инсафович": 4,
-      "Головина Татьяна Александровна": 2,
-      "Катасонов Сергей Михайлович": 15,
-      "Климова Ирина Александровна": 1,
-      "Лазаров Георги Атанасов": 1,
-      "Мунжасаров Нурлан Нурмагамбетович": 4,
-      "Сухарев Игорь Николаевич": 58,
-      "Туршинов Дидар Саулебаевич": 0,
-      "Уралов Семен Сергеевич": 8,
-      "Щепинов Максим Александрович": 1
+      "gas:candidate-vibid:25620001004303": 4,
+      "gas:candidate-vibid:25620001004760": 2,
+      "gas:candidate-vibid:2562000991769": 15,
+      "gas:candidate-vibid:25620001004637": 1,
+      "gas:candidate-vibid:25620001004626": 1,
+      "gas:candidate-vibid:25620001004382": 4,
+      "gas:candidate-vibid:25620001003807": 58,
+      "gas:candidate-vibid:25620001004748": 0,
+      "gas:candidate-vibid:25620001001594": 8,
+      "gas:candidate-vibid:2562000997696": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000188&tvd=2562000922496&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922496&type=464",
@@ -5623,16 +5623,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асяев Фаик Инсафович": 12,
-      "Головина Татьяна Александровна": 13,
-      "Катасонов Сергей Михайлович": 108,
-      "Климова Ирина Александровна": 7,
-      "Лазаров Георги Атанасов": 4,
-      "Мунжасаров Нурлан Нурмагамбетович": 23,
-      "Сухарев Игорь Николаевич": 180,
-      "Туршинов Дидар Саулебаевич": 2,
-      "Уралов Семен Сергеевич": 66,
-      "Щепинов Максим Александрович": 4
+      "gas:candidate-vibid:25620001004303": 12,
+      "gas:candidate-vibid:25620001004760": 13,
+      "gas:candidate-vibid:2562000991769": 108,
+      "gas:candidate-vibid:25620001004637": 7,
+      "gas:candidate-vibid:25620001004626": 4,
+      "gas:candidate-vibid:25620001004382": 23,
+      "gas:candidate-vibid:25620001003807": 180,
+      "gas:candidate-vibid:25620001004748": 2,
+      "gas:candidate-vibid:25620001001594": 66,
+      "gas:candidate-vibid:2562000997696": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000188&tvd=2562000922496&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922496&type=464",
@@ -5683,16 +5683,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асяев Фаик Инсафович": 8,
-      "Головина Татьяна Александровна": 7,
-      "Катасонов Сергей Михайлович": 41,
-      "Климова Ирина Александровна": 5,
-      "Лазаров Георги Атанасов": 3,
-      "Мунжасаров Нурлан Нурмагамбетович": 20,
-      "Сухарев Игорь Николаевич": 127,
-      "Туршинов Дидар Саулебаевич": 1,
-      "Уралов Семен Сергеевич": 50,
-      "Щепинов Максим Александрович": 5
+      "gas:candidate-vibid:25620001004303": 8,
+      "gas:candidate-vibid:25620001004760": 7,
+      "gas:candidate-vibid:2562000991769": 41,
+      "gas:candidate-vibid:25620001004637": 5,
+      "gas:candidate-vibid:25620001004626": 3,
+      "gas:candidate-vibid:25620001004382": 20,
+      "gas:candidate-vibid:25620001003807": 127,
+      "gas:candidate-vibid:25620001004748": 1,
+      "gas:candidate-vibid:25620001001594": 50,
+      "gas:candidate-vibid:2562000997696": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000188&tvd=2562000922496&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922496&type=464",
@@ -5743,16 +5743,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асяев Фаик Инсафович": 5,
-      "Головина Татьяна Александровна": 1,
-      "Катасонов Сергей Михайлович": 13,
-      "Климова Ирина Александровна": 4,
-      "Лазаров Георги Атанасов": 1,
-      "Мунжасаров Нурлан Нурмагамбетович": 4,
-      "Сухарев Игорь Николаевич": 36,
-      "Туршинов Дидар Саулебаевич": 1,
-      "Уралов Семен Сергеевич": 7,
-      "Щепинов Максим Александрович": 1
+      "gas:candidate-vibid:25620001004303": 5,
+      "gas:candidate-vibid:25620001004760": 1,
+      "gas:candidate-vibid:2562000991769": 13,
+      "gas:candidate-vibid:25620001004637": 4,
+      "gas:candidate-vibid:25620001004626": 1,
+      "gas:candidate-vibid:25620001004382": 4,
+      "gas:candidate-vibid:25620001003807": 36,
+      "gas:candidate-vibid:25620001004748": 1,
+      "gas:candidate-vibid:25620001001594": 7,
+      "gas:candidate-vibid:2562000997696": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000188&tvd=2562000922496&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922496&type=464",
@@ -5803,16 +5803,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асяев Фаик Инсафович": 11,
-      "Головина Татьяна Александровна": 8,
-      "Катасонов Сергей Михайлович": 70,
-      "Климова Ирина Александровна": 5,
-      "Лазаров Георги Атанасов": 4,
-      "Мунжасаров Нурлан Нурмагамбетович": 17,
-      "Сухарев Игорь Николаевич": 136,
-      "Туршинов Дидар Саулебаевич": 0,
-      "Уралов Семен Сергеевич": 31,
-      "Щепинов Максим Александрович": 3
+      "gas:candidate-vibid:25620001004303": 11,
+      "gas:candidate-vibid:25620001004760": 8,
+      "gas:candidate-vibid:2562000991769": 70,
+      "gas:candidate-vibid:25620001004637": 5,
+      "gas:candidate-vibid:25620001004626": 4,
+      "gas:candidate-vibid:25620001004382": 17,
+      "gas:candidate-vibid:25620001003807": 136,
+      "gas:candidate-vibid:25620001004748": 0,
+      "gas:candidate-vibid:25620001001594": 31,
+      "gas:candidate-vibid:2562000997696": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000188&tvd=2562000922496&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922496&type=464",
@@ -5863,16 +5863,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асяев Фаик Инсафович": 1,
-      "Головина Татьяна Александровна": 2,
-      "Катасонов Сергей Михайлович": 26,
-      "Климова Ирина Александровна": 3,
-      "Лазаров Георги Атанасов": 1,
-      "Мунжасаров Нурлан Нурмагамбетович": 10,
-      "Сухарев Игорь Николаевич": 38,
-      "Туршинов Дидар Саулебаевич": 2,
-      "Уралов Семен Сергеевич": 10,
-      "Щепинов Максим Александрович": 2
+      "gas:candidate-vibid:25620001004303": 1,
+      "gas:candidate-vibid:25620001004760": 2,
+      "gas:candidate-vibid:2562000991769": 26,
+      "gas:candidate-vibid:25620001004637": 3,
+      "gas:candidate-vibid:25620001004626": 1,
+      "gas:candidate-vibid:25620001004382": 10,
+      "gas:candidate-vibid:25620001003807": 38,
+      "gas:candidate-vibid:25620001004748": 2,
+      "gas:candidate-vibid:25620001001594": 10,
+      "gas:candidate-vibid:2562000997696": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000188&tvd=2562000922496&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922496&type=464",
@@ -5923,16 +5923,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асяев Фаик Инсафович": 6,
-      "Головина Татьяна Александровна": 1,
-      "Катасонов Сергей Михайлович": 49,
-      "Климова Ирина Александровна": 4,
-      "Лазаров Георги Атанасов": 2,
-      "Мунжасаров Нурлан Нурмагамбетович": 18,
-      "Сухарев Игорь Николаевич": 135,
-      "Туршинов Дидар Саулебаевич": 2,
-      "Уралов Семен Сергеевич": 20,
-      "Щепинов Максим Александрович": 1
+      "gas:candidate-vibid:25620001004303": 6,
+      "gas:candidate-vibid:25620001004760": 1,
+      "gas:candidate-vibid:2562000991769": 49,
+      "gas:candidate-vibid:25620001004637": 4,
+      "gas:candidate-vibid:25620001004626": 2,
+      "gas:candidate-vibid:25620001004382": 18,
+      "gas:candidate-vibid:25620001003807": 135,
+      "gas:candidate-vibid:25620001004748": 2,
+      "gas:candidate-vibid:25620001001594": 20,
+      "gas:candidate-vibid:2562000997696": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000188&tvd=2562000922496&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922496&type=464",
@@ -5983,16 +5983,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асяев Фаик Инсафович": 12,
-      "Головина Татьяна Александровна": 8,
-      "Катасонов Сергей Михайлович": 46,
-      "Климова Ирина Александровна": 6,
-      "Лазаров Георги Атанасов": 4,
-      "Мунжасаров Нурлан Нурмагамбетович": 26,
-      "Сухарев Игорь Николаевич": 102,
-      "Туршинов Дидар Саулебаевич": 1,
-      "Уралов Семен Сергеевич": 47,
-      "Щепинов Максим Александрович": 1
+      "gas:candidate-vibid:25620001004303": 12,
+      "gas:candidate-vibid:25620001004760": 8,
+      "gas:candidate-vibid:2562000991769": 46,
+      "gas:candidate-vibid:25620001004637": 6,
+      "gas:candidate-vibid:25620001004626": 4,
+      "gas:candidate-vibid:25620001004382": 26,
+      "gas:candidate-vibid:25620001003807": 102,
+      "gas:candidate-vibid:25620001004748": 1,
+      "gas:candidate-vibid:25620001001594": 47,
+      "gas:candidate-vibid:2562000997696": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000188&tvd=2562000922496&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922496&type=464",
@@ -6043,16 +6043,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асяев Фаик Инсафович": 17,
-      "Головина Татьяна Александровна": 3,
-      "Катасонов Сергей Михайлович": 20,
-      "Климова Ирина Александровна": 1,
-      "Лазаров Георги Атанасов": 2,
-      "Мунжасаров Нурлан Нурмагамбетович": 17,
-      "Сухарев Игорь Николаевич": 83,
-      "Туршинов Дидар Саулебаевич": 2,
-      "Уралов Семен Сергеевич": 22,
-      "Щепинов Максим Александрович": 0
+      "gas:candidate-vibid:25620001004303": 17,
+      "gas:candidate-vibid:25620001004760": 3,
+      "gas:candidate-vibid:2562000991769": 20,
+      "gas:candidate-vibid:25620001004637": 1,
+      "gas:candidate-vibid:25620001004626": 2,
+      "gas:candidate-vibid:25620001004382": 17,
+      "gas:candidate-vibid:25620001003807": 83,
+      "gas:candidate-vibid:25620001004748": 2,
+      "gas:candidate-vibid:25620001001594": 22,
+      "gas:candidate-vibid:2562000997696": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000188&tvd=2562000922496&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922496&type=464",
@@ -6103,16 +6103,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асяев Фаик Инсафович": 14,
-      "Головина Татьяна Александровна": 3,
-      "Катасонов Сергей Михайлович": 29,
-      "Климова Ирина Александровна": 5,
-      "Лазаров Георги Атанасов": 0,
-      "Мунжасаров Нурлан Нурмагамбетович": 28,
-      "Сухарев Игорь Николаевич": 92,
-      "Туршинов Дидар Саулебаевич": 3,
-      "Уралов Семен Сергеевич": 35,
-      "Щепинов Максим Александрович": 0
+      "gas:candidate-vibid:25620001004303": 14,
+      "gas:candidate-vibid:25620001004760": 3,
+      "gas:candidate-vibid:2562000991769": 29,
+      "gas:candidate-vibid:25620001004637": 5,
+      "gas:candidate-vibid:25620001004626": 0,
+      "gas:candidate-vibid:25620001004382": 28,
+      "gas:candidate-vibid:25620001003807": 92,
+      "gas:candidate-vibid:25620001004748": 3,
+      "gas:candidate-vibid:25620001001594": 35,
+      "gas:candidate-vibid:2562000997696": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000188&tvd=2562000922496&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922496&type=464",
@@ -6163,16 +6163,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асяев Фаик Инсафович": 7,
-      "Головина Татьяна Александровна": 3,
-      "Катасонов Сергей Михайлович": 50,
-      "Климова Ирина Александровна": 6,
-      "Лазаров Георги Атанасов": 0,
-      "Мунжасаров Нурлан Нурмагамбетович": 11,
-      "Сухарев Игорь Николаевич": 103,
-      "Туршинов Дидар Саулебаевич": 0,
-      "Уралов Семен Сергеевич": 23,
-      "Щепинов Максим Александрович": 0
+      "gas:candidate-vibid:25620001004303": 7,
+      "gas:candidate-vibid:25620001004760": 3,
+      "gas:candidate-vibid:2562000991769": 50,
+      "gas:candidate-vibid:25620001004637": 6,
+      "gas:candidate-vibid:25620001004626": 0,
+      "gas:candidate-vibid:25620001004382": 11,
+      "gas:candidate-vibid:25620001003807": 103,
+      "gas:candidate-vibid:25620001004748": 0,
+      "gas:candidate-vibid:25620001001594": 23,
+      "gas:candidate-vibid:2562000997696": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000188&tvd=2562000922496&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922496&type=464",
@@ -6223,16 +6223,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асяев Фаик Инсафович": 2,
-      "Головина Татьяна Александровна": 2,
-      "Катасонов Сергей Михайлович": 9,
-      "Климова Ирина Александровна": 1,
-      "Лазаров Георги Атанасов": 0,
-      "Мунжасаров Нурлан Нурмагамбетович": 5,
-      "Сухарев Игорь Николаевич": 20,
-      "Туршинов Дидар Саулебаевич": 0,
-      "Уралов Семен Сергеевич": 9,
-      "Щепинов Максим Александрович": 5
+      "gas:candidate-vibid:25620001004303": 2,
+      "gas:candidate-vibid:25620001004760": 2,
+      "gas:candidate-vibid:2562000991769": 9,
+      "gas:candidate-vibid:25620001004637": 1,
+      "gas:candidate-vibid:25620001004626": 0,
+      "gas:candidate-vibid:25620001004382": 5,
+      "gas:candidate-vibid:25620001003807": 20,
+      "gas:candidate-vibid:25620001004748": 0,
+      "gas:candidate-vibid:25620001001594": 9,
+      "gas:candidate-vibid:2562000997696": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000188&tvd=2562000922496&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922496&type=464",
@@ -6283,16 +6283,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асяев Фаик Инсафович": 1,
-      "Головина Татьяна Александровна": 0,
-      "Катасонов Сергей Михайлович": 7,
-      "Климова Ирина Александровна": 5,
-      "Лазаров Георги Атанасов": 1,
-      "Мунжасаров Нурлан Нурмагамбетович": 7,
-      "Сухарев Игорь Николаевич": 23,
-      "Туршинов Дидар Саулебаевич": 1,
-      "Уралов Семен Сергеевич": 12,
-      "Щепинов Максим Александрович": 0
+      "gas:candidate-vibid:25620001004303": 1,
+      "gas:candidate-vibid:25620001004760": 0,
+      "gas:candidate-vibid:2562000991769": 7,
+      "gas:candidate-vibid:25620001004637": 5,
+      "gas:candidate-vibid:25620001004626": 1,
+      "gas:candidate-vibid:25620001004382": 7,
+      "gas:candidate-vibid:25620001003807": 23,
+      "gas:candidate-vibid:25620001004748": 1,
+      "gas:candidate-vibid:25620001001594": 12,
+      "gas:candidate-vibid:2562000997696": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000188&tvd=2562000922496&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922496&type=464",
@@ -6343,16 +6343,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асяев Фаик Инсафович": 3,
-      "Головина Татьяна Александровна": 4,
-      "Катасонов Сергей Михайлович": 42,
-      "Климова Ирина Александровна": 5,
-      "Лазаров Георги Атанасов": 5,
-      "Мунжасаров Нурлан Нурмагамбетович": 14,
-      "Сухарев Игорь Николаевич": 137,
-      "Туршинов Дидар Саулебаевич": 2,
-      "Уралов Семен Сергеевич": 24,
-      "Щепинов Максим Александрович": 1
+      "gas:candidate-vibid:25620001004303": 3,
+      "gas:candidate-vibid:25620001004760": 4,
+      "gas:candidate-vibid:2562000991769": 42,
+      "gas:candidate-vibid:25620001004637": 5,
+      "gas:candidate-vibid:25620001004626": 5,
+      "gas:candidate-vibid:25620001004382": 14,
+      "gas:candidate-vibid:25620001003807": 137,
+      "gas:candidate-vibid:25620001004748": 2,
+      "gas:candidate-vibid:25620001001594": 24,
+      "gas:candidate-vibid:2562000997696": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000188&tvd=2562000922496&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922496&type=464",
@@ -6403,16 +6403,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асяев Фаик Инсафович": 3,
-      "Головина Татьяна Александровна": 0,
-      "Катасонов Сергей Михайлович": 12,
-      "Климова Ирина Александровна": 2,
-      "Лазаров Георги Атанасов": 6,
-      "Мунжасаров Нурлан Нурмагамбетович": 0,
-      "Сухарев Игорь Николаевич": 71,
-      "Туршинов Дидар Саулебаевич": 0,
-      "Уралов Семен Сергеевич": 7,
-      "Щепинов Максим Александрович": 0
+      "gas:candidate-vibid:25620001004303": 3,
+      "gas:candidate-vibid:25620001004760": 0,
+      "gas:candidate-vibid:2562000991769": 12,
+      "gas:candidate-vibid:25620001004637": 2,
+      "gas:candidate-vibid:25620001004626": 6,
+      "gas:candidate-vibid:25620001004382": 0,
+      "gas:candidate-vibid:25620001003807": 71,
+      "gas:candidate-vibid:25620001004748": 0,
+      "gas:candidate-vibid:25620001001594": 7,
+      "gas:candidate-vibid:2562000997696": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000188&tvd=2562000922496&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922496&type=464",
@@ -6463,16 +6463,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асяев Фаик Инсафович": 7,
-      "Головина Татьяна Александровна": 6,
-      "Катасонов Сергей Михайлович": 28,
-      "Климова Ирина Александровна": 5,
-      "Лазаров Георги Атанасов": 1,
-      "Мунжасаров Нурлан Нурмагамбетович": 12,
-      "Сухарев Игорь Николаевич": 92,
-      "Туршинов Дидар Саулебаевич": 3,
-      "Уралов Семен Сергеевич": 28,
-      "Щепинов Максим Александрович": 6
+      "gas:candidate-vibid:25620001004303": 7,
+      "gas:candidate-vibid:25620001004760": 6,
+      "gas:candidate-vibid:2562000991769": 28,
+      "gas:candidate-vibid:25620001004637": 5,
+      "gas:candidate-vibid:25620001004626": 1,
+      "gas:candidate-vibid:25620001004382": 12,
+      "gas:candidate-vibid:25620001003807": 92,
+      "gas:candidate-vibid:25620001004748": 3,
+      "gas:candidate-vibid:25620001001594": 28,
+      "gas:candidate-vibid:2562000997696": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000188&tvd=2562000922496&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922496&type=464",
@@ -6523,16 +6523,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асяев Фаик Инсафович": 10,
-      "Головина Татьяна Александровна": 6,
-      "Катасонов Сергей Михайлович": 84,
-      "Климова Ирина Александровна": 15,
-      "Лазаров Георги Атанасов": 7,
-      "Мунжасаров Нурлан Нурмагамбетович": 19,
-      "Сухарев Игорь Николаевич": 94,
-      "Туршинов Дидар Саулебаевич": 3,
-      "Уралов Семен Сергеевич": 50,
-      "Щепинов Максим Александрович": 3
+      "gas:candidate-vibid:25620001004303": 10,
+      "gas:candidate-vibid:25620001004760": 6,
+      "gas:candidate-vibid:2562000991769": 84,
+      "gas:candidate-vibid:25620001004637": 15,
+      "gas:candidate-vibid:25620001004626": 7,
+      "gas:candidate-vibid:25620001004382": 19,
+      "gas:candidate-vibid:25620001003807": 94,
+      "gas:candidate-vibid:25620001004748": 3,
+      "gas:candidate-vibid:25620001001594": 50,
+      "gas:candidate-vibid:2562000997696": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000188&tvd=2562000922496&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922496&type=464",
@@ -6583,16 +6583,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асяев Фаик Инсафович": 4,
-      "Головина Татьяна Александровна": 1,
-      "Катасонов Сергей Михайлович": 21,
-      "Климова Ирина Александровна": 5,
-      "Лазаров Георги Атанасов": 3,
-      "Мунжасаров Нурлан Нурмагамбетович": 12,
-      "Сухарев Игорь Николаевич": 55,
-      "Туршинов Дидар Саулебаевич": 1,
-      "Уралов Семен Сергеевич": 44,
-      "Щепинов Максим Александрович": 3
+      "gas:candidate-vibid:25620001004303": 4,
+      "gas:candidate-vibid:25620001004760": 1,
+      "gas:candidate-vibid:2562000991769": 21,
+      "gas:candidate-vibid:25620001004637": 5,
+      "gas:candidate-vibid:25620001004626": 3,
+      "gas:candidate-vibid:25620001004382": 12,
+      "gas:candidate-vibid:25620001003807": 55,
+      "gas:candidate-vibid:25620001004748": 1,
+      "gas:candidate-vibid:25620001001594": 44,
+      "gas:candidate-vibid:2562000997696": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000188&tvd=2562000922496&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922496&type=464",
@@ -6643,16 +6643,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асяев Фаик Инсафович": 4,
-      "Головина Татьяна Александровна": 4,
-      "Катасонов Сергей Михайлович": 34,
-      "Климова Ирина Александровна": 2,
-      "Лазаров Георги Атанасов": 4,
-      "Мунжасаров Нурлан Нурмагамбетович": 12,
-      "Сухарев Игорь Николаевич": 49,
-      "Туршинов Дидар Саулебаевич": 1,
-      "Уралов Семен Сергеевич": 12,
-      "Щепинов Максим Александрович": 1
+      "gas:candidate-vibid:25620001004303": 4,
+      "gas:candidate-vibid:25620001004760": 4,
+      "gas:candidate-vibid:2562000991769": 34,
+      "gas:candidate-vibid:25620001004637": 2,
+      "gas:candidate-vibid:25620001004626": 4,
+      "gas:candidate-vibid:25620001004382": 12,
+      "gas:candidate-vibid:25620001003807": 49,
+      "gas:candidate-vibid:25620001004748": 1,
+      "gas:candidate-vibid:25620001001594": 12,
+      "gas:candidate-vibid:2562000997696": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000188&tvd=2562000922496&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922496&type=464",
@@ -6703,16 +6703,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асяев Фаик Инсафович": 5,
-      "Головина Татьяна Александровна": 9,
-      "Катасонов Сергей Михайлович": 51,
-      "Климова Ирина Александровна": 6,
-      "Лазаров Георги Атанасов": 2,
-      "Мунжасаров Нурлан Нурмагамбетович": 16,
-      "Сухарев Игорь Николаевич": 126,
-      "Туршинов Дидар Саулебаевич": 1,
-      "Уралов Семен Сергеевич": 28,
-      "Щепинов Максим Александрович": 2
+      "gas:candidate-vibid:25620001004303": 5,
+      "gas:candidate-vibid:25620001004760": 9,
+      "gas:candidate-vibid:2562000991769": 51,
+      "gas:candidate-vibid:25620001004637": 6,
+      "gas:candidate-vibid:25620001004626": 2,
+      "gas:candidate-vibid:25620001004382": 16,
+      "gas:candidate-vibid:25620001003807": 126,
+      "gas:candidate-vibid:25620001004748": 1,
+      "gas:candidate-vibid:25620001001594": 28,
+      "gas:candidate-vibid:2562000997696": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000188&tvd=2562000922496&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922496&type=464",
@@ -6763,16 +6763,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асяев Фаик Инсафович": 11,
-      "Головина Татьяна Александровна": 6,
-      "Катасонов Сергей Михайлович": 75,
-      "Климова Ирина Александровна": 6,
-      "Лазаров Георги Атанасов": 0,
-      "Мунжасаров Нурлан Нурмагамбетович": 17,
-      "Сухарев Игорь Николаевич": 88,
-      "Туршинов Дидар Саулебаевич": 3,
-      "Уралов Семен Сергеевич": 43,
-      "Щепинов Максим Александрович": 3
+      "gas:candidate-vibid:25620001004303": 11,
+      "gas:candidate-vibid:25620001004760": 6,
+      "gas:candidate-vibid:2562000991769": 75,
+      "gas:candidate-vibid:25620001004637": 6,
+      "gas:candidate-vibid:25620001004626": 0,
+      "gas:candidate-vibid:25620001004382": 17,
+      "gas:candidate-vibid:25620001003807": 88,
+      "gas:candidate-vibid:25620001004748": 3,
+      "gas:candidate-vibid:25620001001594": 43,
+      "gas:candidate-vibid:2562000997696": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000188&tvd=2562000922496&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922496&type=464",
@@ -6823,16 +6823,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асяев Фаик Инсафович": 8,
-      "Головина Татьяна Александровна": 3,
-      "Катасонов Сергей Михайлович": 42,
-      "Климова Ирина Александровна": 2,
-      "Лазаров Георги Атанасов": 1,
-      "Мунжасаров Нурлан Нурмагамбетович": 5,
-      "Сухарев Игорь Николаевич": 122,
-      "Туршинов Дидар Саулебаевич": 2,
-      "Уралов Семен Сергеевич": 11,
-      "Щепинов Максим Александрович": 3
+      "gas:candidate-vibid:25620001004303": 8,
+      "gas:candidate-vibid:25620001004760": 3,
+      "gas:candidate-vibid:2562000991769": 42,
+      "gas:candidate-vibid:25620001004637": 2,
+      "gas:candidate-vibid:25620001004626": 1,
+      "gas:candidate-vibid:25620001004382": 5,
+      "gas:candidate-vibid:25620001003807": 122,
+      "gas:candidate-vibid:25620001004748": 2,
+      "gas:candidate-vibid:25620001001594": 11,
+      "gas:candidate-vibid:2562000997696": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000188&tvd=2562000922497&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922497&type=464",
@@ -6883,16 +6883,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асяев Фаик Инсафович": 3,
-      "Головина Татьяна Александровна": 2,
-      "Катасонов Сергей Михайлович": 14,
-      "Климова Ирина Александровна": 0,
-      "Лазаров Георги Атанасов": 3,
-      "Мунжасаров Нурлан Нурмагамбетович": 2,
-      "Сухарев Игорь Николаевич": 55,
-      "Туршинов Дидар Саулебаевич": 5,
-      "Уралов Семен Сергеевич": 0,
-      "Щепинов Максим Александрович": 2
+      "gas:candidate-vibid:25620001004303": 3,
+      "gas:candidate-vibid:25620001004760": 2,
+      "gas:candidate-vibid:2562000991769": 14,
+      "gas:candidate-vibid:25620001004637": 0,
+      "gas:candidate-vibid:25620001004626": 3,
+      "gas:candidate-vibid:25620001004382": 2,
+      "gas:candidate-vibid:25620001003807": 55,
+      "gas:candidate-vibid:25620001004748": 5,
+      "gas:candidate-vibid:25620001001594": 0,
+      "gas:candidate-vibid:2562000997696": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000188&tvd=2562000922497&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922497&type=464",
@@ -6943,16 +6943,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асяев Фаик Инсафович": 8,
-      "Головина Татьяна Александровна": 0,
-      "Катасонов Сергей Михайлович": 31,
-      "Климова Ирина Александровна": 6,
-      "Лазаров Георги Атанасов": 3,
-      "Мунжасаров Нурлан Нурмагамбетович": 13,
-      "Сухарев Игорь Николаевич": 256,
-      "Туршинов Дидар Саулебаевич": 1,
-      "Уралов Семен Сергеевич": 31,
-      "Щепинов Максим Александрович": 1
+      "gas:candidate-vibid:25620001004303": 8,
+      "gas:candidate-vibid:25620001004760": 0,
+      "gas:candidate-vibid:2562000991769": 31,
+      "gas:candidate-vibid:25620001004637": 6,
+      "gas:candidate-vibid:25620001004626": 3,
+      "gas:candidate-vibid:25620001004382": 13,
+      "gas:candidate-vibid:25620001003807": 256,
+      "gas:candidate-vibid:25620001004748": 1,
+      "gas:candidate-vibid:25620001001594": 31,
+      "gas:candidate-vibid:2562000997696": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000188&tvd=2562000922497&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922497&type=464",
@@ -7003,16 +7003,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асяев Фаик Инсафович": 1,
-      "Головина Татьяна Александровна": 0,
-      "Катасонов Сергей Михайлович": 11,
-      "Климова Ирина Александровна": 1,
-      "Лазаров Георги Атанасов": 2,
-      "Мунжасаров Нурлан Нурмагамбетович": 2,
-      "Сухарев Игорь Николаевич": 71,
-      "Туршинов Дидар Саулебаевич": 2,
-      "Уралов Семен Сергеевич": 3,
-      "Щепинов Максим Александрович": 3
+      "gas:candidate-vibid:25620001004303": 1,
+      "gas:candidate-vibid:25620001004760": 0,
+      "gas:candidate-vibid:2562000991769": 11,
+      "gas:candidate-vibid:25620001004637": 1,
+      "gas:candidate-vibid:25620001004626": 2,
+      "gas:candidate-vibid:25620001004382": 2,
+      "gas:candidate-vibid:25620001003807": 71,
+      "gas:candidate-vibid:25620001004748": 2,
+      "gas:candidate-vibid:25620001001594": 3,
+      "gas:candidate-vibid:2562000997696": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000188&tvd=2562000922497&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922497&type=464",
@@ -7063,16 +7063,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асяев Фаик Инсафович": 1,
-      "Головина Татьяна Александровна": 1,
-      "Катасонов Сергей Михайлович": 10,
-      "Климова Ирина Александровна": 1,
-      "Лазаров Георги Атанасов": 0,
-      "Мунжасаров Нурлан Нурмагамбетович": 5,
-      "Сухарев Игорь Николаевич": 155,
-      "Туршинов Дидар Саулебаевич": 2,
-      "Уралов Семен Сергеевич": 6,
-      "Щепинов Максим Александрович": 0
+      "gas:candidate-vibid:25620001004303": 1,
+      "gas:candidate-vibid:25620001004760": 1,
+      "gas:candidate-vibid:2562000991769": 10,
+      "gas:candidate-vibid:25620001004637": 1,
+      "gas:candidate-vibid:25620001004626": 0,
+      "gas:candidate-vibid:25620001004382": 5,
+      "gas:candidate-vibid:25620001003807": 155,
+      "gas:candidate-vibid:25620001004748": 2,
+      "gas:candidate-vibid:25620001001594": 6,
+      "gas:candidate-vibid:2562000997696": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000188&tvd=2562000922497&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922497&type=464",
@@ -7123,16 +7123,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асяев Фаик Инсафович": 4,
-      "Головина Татьяна Александровна": 0,
-      "Катасонов Сергей Михайлович": 25,
-      "Климова Ирина Александровна": 3,
-      "Лазаров Георги Атанасов": 2,
-      "Мунжасаров Нурлан Нурмагамбетович": 9,
-      "Сухарев Игорь Николаевич": 146,
-      "Туршинов Дидар Саулебаевич": 0,
-      "Уралов Семен Сергеевич": 12,
-      "Щепинов Максим Александрович": 0
+      "gas:candidate-vibid:25620001004303": 4,
+      "gas:candidate-vibid:25620001004760": 0,
+      "gas:candidate-vibid:2562000991769": 25,
+      "gas:candidate-vibid:25620001004637": 3,
+      "gas:candidate-vibid:25620001004626": 2,
+      "gas:candidate-vibid:25620001004382": 9,
+      "gas:candidate-vibid:25620001003807": 146,
+      "gas:candidate-vibid:25620001004748": 0,
+      "gas:candidate-vibid:25620001001594": 12,
+      "gas:candidate-vibid:2562000997696": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000188&tvd=2562000922497&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922497&type=464",
@@ -7183,16 +7183,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асяев Фаик Инсафович": 3,
-      "Головина Татьяна Александровна": 0,
-      "Катасонов Сергей Михайлович": 18,
-      "Климова Ирина Александровна": 4,
-      "Лазаров Георги Атанасов": 4,
-      "Мунжасаров Нурлан Нурмагамбетович": 1,
-      "Сухарев Игорь Николаевич": 111,
-      "Туршинов Дидар Саулебаевич": 0,
-      "Уралов Семен Сергеевич": 6,
-      "Щепинов Максим Александрович": 0
+      "gas:candidate-vibid:25620001004303": 3,
+      "gas:candidate-vibid:25620001004760": 0,
+      "gas:candidate-vibid:2562000991769": 18,
+      "gas:candidate-vibid:25620001004637": 4,
+      "gas:candidate-vibid:25620001004626": 4,
+      "gas:candidate-vibid:25620001004382": 1,
+      "gas:candidate-vibid:25620001003807": 111,
+      "gas:candidate-vibid:25620001004748": 0,
+      "gas:candidate-vibid:25620001001594": 6,
+      "gas:candidate-vibid:2562000997696": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000188&tvd=2562000922497&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922497&type=464",
@@ -7243,16 +7243,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асяев Фаик Инсафович": 0,
-      "Головина Татьяна Александровна": 0,
-      "Катасонов Сергей Михайлович": 9,
-      "Климова Ирина Александровна": 2,
-      "Лазаров Георги Атанасов": 0,
-      "Мунжасаров Нурлан Нурмагамбетович": 1,
-      "Сухарев Игорь Николаевич": 48,
-      "Туршинов Дидар Саулебаевич": 0,
-      "Уралов Семен Сергеевич": 4,
-      "Щепинов Максим Александрович": 0
+      "gas:candidate-vibid:25620001004303": 0,
+      "gas:candidate-vibid:25620001004760": 0,
+      "gas:candidate-vibid:2562000991769": 9,
+      "gas:candidate-vibid:25620001004637": 2,
+      "gas:candidate-vibid:25620001004626": 0,
+      "gas:candidate-vibid:25620001004382": 1,
+      "gas:candidate-vibid:25620001003807": 48,
+      "gas:candidate-vibid:25620001004748": 0,
+      "gas:candidate-vibid:25620001001594": 4,
+      "gas:candidate-vibid:2562000997696": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000188&tvd=2562000922497&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922497&type=464",
@@ -7303,16 +7303,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асяев Фаик Инсафович": 2,
-      "Головина Татьяна Александровна": 2,
-      "Катасонов Сергей Михайлович": 30,
-      "Климова Ирина Александровна": 5,
-      "Лазаров Георги Атанасов": 2,
-      "Мунжасаров Нурлан Нурмагамбетович": 5,
-      "Сухарев Игорь Николаевич": 77,
-      "Туршинов Дидар Саулебаевич": 0,
-      "Уралов Семен Сергеевич": 2,
-      "Щепинов Максим Александрович": 1
+      "gas:candidate-vibid:25620001004303": 2,
+      "gas:candidate-vibid:25620001004760": 2,
+      "gas:candidate-vibid:2562000991769": 30,
+      "gas:candidate-vibid:25620001004637": 5,
+      "gas:candidate-vibid:25620001004626": 2,
+      "gas:candidate-vibid:25620001004382": 5,
+      "gas:candidate-vibid:25620001003807": 77,
+      "gas:candidate-vibid:25620001004748": 0,
+      "gas:candidate-vibid:25620001001594": 2,
+      "gas:candidate-vibid:2562000997696": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000188&tvd=2562000922497&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922497&type=464",
@@ -7363,16 +7363,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асяев Фаик Инсафович": 2,
-      "Головина Татьяна Александровна": 1,
-      "Катасонов Сергей Михайлович": 9,
-      "Климова Ирина Александровна": 0,
-      "Лазаров Георги Атанасов": 0,
-      "Мунжасаров Нурлан Нурмагамбетович": 3,
-      "Сухарев Игорь Николаевич": 75,
-      "Туршинов Дидар Саулебаевич": 0,
-      "Уралов Семен Сергеевич": 4,
-      "Щепинов Максим Александрович": 1
+      "gas:candidate-vibid:25620001004303": 2,
+      "gas:candidate-vibid:25620001004760": 1,
+      "gas:candidate-vibid:2562000991769": 9,
+      "gas:candidate-vibid:25620001004637": 0,
+      "gas:candidate-vibid:25620001004626": 0,
+      "gas:candidate-vibid:25620001004382": 3,
+      "gas:candidate-vibid:25620001003807": 75,
+      "gas:candidate-vibid:25620001004748": 0,
+      "gas:candidate-vibid:25620001001594": 4,
+      "gas:candidate-vibid:2562000997696": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000188&tvd=2562000922497&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922497&type=464",
@@ -7423,16 +7423,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асяев Фаик Инсафович": 4,
-      "Головина Татьяна Александровна": 8,
-      "Катасонов Сергей Михайлович": 36,
-      "Климова Ирина Александровна": 4,
-      "Лазаров Георги Атанасов": 3,
-      "Мунжасаров Нурлан Нурмагамбетович": 6,
-      "Сухарев Игорь Николаевич": 234,
-      "Туршинов Дидар Саулебаевич": 2,
-      "Уралов Семен Сергеевич": 20,
-      "Щепинов Максим Александрович": 0
+      "gas:candidate-vibid:25620001004303": 4,
+      "gas:candidate-vibid:25620001004760": 8,
+      "gas:candidate-vibid:2562000991769": 36,
+      "gas:candidate-vibid:25620001004637": 4,
+      "gas:candidate-vibid:25620001004626": 3,
+      "gas:candidate-vibid:25620001004382": 6,
+      "gas:candidate-vibid:25620001003807": 234,
+      "gas:candidate-vibid:25620001004748": 2,
+      "gas:candidate-vibid:25620001001594": 20,
+      "gas:candidate-vibid:2562000997696": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000188&tvd=2562000922497&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922497&type=464",
@@ -7483,16 +7483,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асяев Фаик Инсафович": 1,
-      "Головина Татьяна Александровна": 4,
-      "Катасонов Сергей Михайлович": 11,
-      "Климова Ирина Александровна": 3,
-      "Лазаров Георги Атанасов": 2,
-      "Мунжасаров Нурлан Нурмагамбетович": 6,
-      "Сухарев Игорь Николаевич": 66,
-      "Туршинов Дидар Саулебаевич": 1,
-      "Уралов Семен Сергеевич": 6,
-      "Щепинов Максим Александрович": 2
+      "gas:candidate-vibid:25620001004303": 1,
+      "gas:candidate-vibid:25620001004760": 4,
+      "gas:candidate-vibid:2562000991769": 11,
+      "gas:candidate-vibid:25620001004637": 3,
+      "gas:candidate-vibid:25620001004626": 2,
+      "gas:candidate-vibid:25620001004382": 6,
+      "gas:candidate-vibid:25620001003807": 66,
+      "gas:candidate-vibid:25620001004748": 1,
+      "gas:candidate-vibid:25620001001594": 6,
+      "gas:candidate-vibid:2562000997696": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000188&tvd=2562000922497&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922497&type=464",
@@ -7543,16 +7543,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асяев Фаик Инсафович": 4,
-      "Головина Татьяна Александровна": 1,
-      "Катасонов Сергей Михайлович": 18,
-      "Климова Ирина Александровна": 0,
-      "Лазаров Георги Атанасов": 0,
-      "Мунжасаров Нурлан Нурмагамбетович": 7,
-      "Сухарев Игорь Николаевич": 107,
-      "Туршинов Дидар Саулебаевич": 1,
-      "Уралов Семен Сергеевич": 4,
-      "Щепинов Максим Александрович": 0
+      "gas:candidate-vibid:25620001004303": 4,
+      "gas:candidate-vibid:25620001004760": 1,
+      "gas:candidate-vibid:2562000991769": 18,
+      "gas:candidate-vibid:25620001004637": 0,
+      "gas:candidate-vibid:25620001004626": 0,
+      "gas:candidate-vibid:25620001004382": 7,
+      "gas:candidate-vibid:25620001003807": 107,
+      "gas:candidate-vibid:25620001004748": 1,
+      "gas:candidate-vibid:25620001001594": 4,
+      "gas:candidate-vibid:2562000997696": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000188&tvd=2562000922497&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922497&type=464",
@@ -7603,16 +7603,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асяев Фаик Инсафович": 3,
-      "Головина Татьяна Александровна": 4,
-      "Катасонов Сергей Михайлович": 16,
-      "Климова Ирина Александровна": 1,
-      "Лазаров Георги Атанасов": 4,
-      "Мунжасаров Нурлан Нурмагамбетович": 5,
-      "Сухарев Игорь Николаевич": 76,
-      "Туршинов Дидар Саулебаевич": 1,
-      "Уралов Семен Сергеевич": 3,
-      "Щепинов Максим Александрович": 0
+      "gas:candidate-vibid:25620001004303": 3,
+      "gas:candidate-vibid:25620001004760": 4,
+      "gas:candidate-vibid:2562000991769": 16,
+      "gas:candidate-vibid:25620001004637": 1,
+      "gas:candidate-vibid:25620001004626": 4,
+      "gas:candidate-vibid:25620001004382": 5,
+      "gas:candidate-vibid:25620001003807": 76,
+      "gas:candidate-vibid:25620001004748": 1,
+      "gas:candidate-vibid:25620001001594": 3,
+      "gas:candidate-vibid:2562000997696": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000188&tvd=2562000922497&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922497&type=464",
@@ -7663,16 +7663,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асяев Фаик Инсафович": 4,
-      "Головина Татьяна Александровна": 1,
-      "Катасонов Сергей Михайлович": 11,
-      "Климова Ирина Александровна": 2,
-      "Лазаров Георги Атанасов": 2,
-      "Мунжасаров Нурлан Нурмагамбетович": 4,
-      "Сухарев Игорь Николаевич": 114,
-      "Туршинов Дидар Саулебаевич": 0,
-      "Уралов Семен Сергеевич": 1,
-      "Щепинов Максим Александрович": 1
+      "gas:candidate-vibid:25620001004303": 4,
+      "gas:candidate-vibid:25620001004760": 1,
+      "gas:candidate-vibid:2562000991769": 11,
+      "gas:candidate-vibid:25620001004637": 2,
+      "gas:candidate-vibid:25620001004626": 2,
+      "gas:candidate-vibid:25620001004382": 4,
+      "gas:candidate-vibid:25620001003807": 114,
+      "gas:candidate-vibid:25620001004748": 0,
+      "gas:candidate-vibid:25620001001594": 1,
+      "gas:candidate-vibid:2562000997696": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000188&tvd=2562000922497&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922497&type=464",
@@ -7723,16 +7723,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асяев Фаик Инсафович": 1,
-      "Головина Татьяна Александровна": 2,
-      "Катасонов Сергей Михайлович": 21,
-      "Климова Ирина Александровна": 0,
-      "Лазаров Георги Атанасов": 1,
-      "Мунжасаров Нурлан Нурмагамбетович": 2,
-      "Сухарев Игорь Николаевич": 38,
-      "Туршинов Дидар Саулебаевич": 1,
-      "Уралов Семен Сергеевич": 14,
-      "Щепинов Максим Александрович": 0
+      "gas:candidate-vibid:25620001004303": 1,
+      "gas:candidate-vibid:25620001004760": 2,
+      "gas:candidate-vibid:2562000991769": 21,
+      "gas:candidate-vibid:25620001004637": 0,
+      "gas:candidate-vibid:25620001004626": 1,
+      "gas:candidate-vibid:25620001004382": 2,
+      "gas:candidate-vibid:25620001003807": 38,
+      "gas:candidate-vibid:25620001004748": 1,
+      "gas:candidate-vibid:25620001001594": 14,
+      "gas:candidate-vibid:2562000997696": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000188&tvd=2562000922497&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922497&type=464",
@@ -7783,16 +7783,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асяев Фаик Инсафович": 3,
-      "Головина Татьяна Александровна": 5,
-      "Катасонов Сергей Михайлович": 17,
-      "Климова Ирина Александровна": 1,
-      "Лазаров Георги Атанасов": 6,
-      "Мунжасаров Нурлан Нурмагамбетович": 4,
-      "Сухарев Игорь Николаевич": 64,
-      "Туршинов Дидар Саулебаевич": 0,
-      "Уралов Семен Сергеевич": 6,
-      "Щепинов Максим Александрович": 1
+      "gas:candidate-vibid:25620001004303": 3,
+      "gas:candidate-vibid:25620001004760": 5,
+      "gas:candidate-vibid:2562000991769": 17,
+      "gas:candidate-vibid:25620001004637": 1,
+      "gas:candidate-vibid:25620001004626": 6,
+      "gas:candidate-vibid:25620001004382": 4,
+      "gas:candidate-vibid:25620001003807": 64,
+      "gas:candidate-vibid:25620001004748": 0,
+      "gas:candidate-vibid:25620001001594": 6,
+      "gas:candidate-vibid:2562000997696": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000188&tvd=2562000922497&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922497&type=464",
@@ -7843,16 +7843,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асяев Фаик Инсафович": 2,
-      "Головина Татьяна Александровна": 6,
-      "Катасонов Сергей Михайлович": 31,
-      "Климова Ирина Александровна": 4,
-      "Лазаров Георги Атанасов": 3,
-      "Мунжасаров Нурлан Нурмагамбетович": 8,
-      "Сухарев Игорь Николаевич": 81,
-      "Туршинов Дидар Саулебаевич": 1,
-      "Уралов Семен Сергеевич": 16,
-      "Щепинов Максим Александрович": 2
+      "gas:candidate-vibid:25620001004303": 2,
+      "gas:candidate-vibid:25620001004760": 6,
+      "gas:candidate-vibid:2562000991769": 31,
+      "gas:candidate-vibid:25620001004637": 4,
+      "gas:candidate-vibid:25620001004626": 3,
+      "gas:candidate-vibid:25620001004382": 8,
+      "gas:candidate-vibid:25620001003807": 81,
+      "gas:candidate-vibid:25620001004748": 1,
+      "gas:candidate-vibid:25620001001594": 16,
+      "gas:candidate-vibid:2562000997696": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000188&tvd=2562000922497&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922497&type=464",
@@ -7903,16 +7903,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асяев Фаик Инсафович": 0,
-      "Головина Татьяна Александровна": 5,
-      "Катасонов Сергей Михайлович": 38,
-      "Климова Ирина Александровна": 3,
-      "Лазаров Георги Атанасов": 1,
-      "Мунжасаров Нурлан Нурмагамбетович": 2,
-      "Сухарев Игорь Николаевич": 113,
-      "Туршинов Дидар Саулебаевич": 0,
-      "Уралов Семен Сергеевич": 6,
-      "Щепинов Максим Александрович": 0
+      "gas:candidate-vibid:25620001004303": 0,
+      "gas:candidate-vibid:25620001004760": 5,
+      "gas:candidate-vibid:2562000991769": 38,
+      "gas:candidate-vibid:25620001004637": 3,
+      "gas:candidate-vibid:25620001004626": 1,
+      "gas:candidate-vibid:25620001004382": 2,
+      "gas:candidate-vibid:25620001003807": 113,
+      "gas:candidate-vibid:25620001004748": 0,
+      "gas:candidate-vibid:25620001001594": 6,
+      "gas:candidate-vibid:2562000997696": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000188&tvd=2562000922497&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922497&type=464",
@@ -7963,16 +7963,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асяев Фаик Инсафович": 0,
-      "Головина Татьяна Александровна": 0,
-      "Катасонов Сергей Михайлович": 9,
-      "Климова Ирина Александровна": 0,
-      "Лазаров Георги Атанасов": 0,
-      "Мунжасаров Нурлан Нурмагамбетович": 4,
-      "Сухарев Игорь Николаевич": 52,
-      "Туршинов Дидар Саулебаевич": 0,
-      "Уралов Семен Сергеевич": 24,
-      "Щепинов Максим Александрович": 0
+      "gas:candidate-vibid:25620001004303": 0,
+      "gas:candidate-vibid:25620001004760": 0,
+      "gas:candidate-vibid:2562000991769": 9,
+      "gas:candidate-vibid:25620001004637": 0,
+      "gas:candidate-vibid:25620001004626": 0,
+      "gas:candidate-vibid:25620001004382": 4,
+      "gas:candidate-vibid:25620001003807": 52,
+      "gas:candidate-vibid:25620001004748": 0,
+      "gas:candidate-vibid:25620001001594": 24,
+      "gas:candidate-vibid:2562000997696": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000188&tvd=2562000922497&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922497&type=464",
@@ -8023,16 +8023,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асяев Фаик Инсафович": 4,
-      "Головина Татьяна Александровна": 3,
-      "Катасонов Сергей Михайлович": 42,
-      "Климова Ирина Александровна": 6,
-      "Лазаров Георги Атанасов": 1,
-      "Мунжасаров Нурлан Нурмагамбетович": 12,
-      "Сухарев Игорь Николаевич": 69,
-      "Туршинов Дидар Саулебаевич": 1,
-      "Уралов Семен Сергеевич": 15,
-      "Щепинов Максим Александрович": 1
+      "gas:candidate-vibid:25620001004303": 4,
+      "gas:candidate-vibid:25620001004760": 3,
+      "gas:candidate-vibid:2562000991769": 42,
+      "gas:candidate-vibid:25620001004637": 6,
+      "gas:candidate-vibid:25620001004626": 1,
+      "gas:candidate-vibid:25620001004382": 12,
+      "gas:candidate-vibid:25620001003807": 69,
+      "gas:candidate-vibid:25620001004748": 1,
+      "gas:candidate-vibid:25620001001594": 15,
+      "gas:candidate-vibid:2562000997696": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000188&tvd=2562000922497&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922497&type=464",
@@ -8083,16 +8083,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асяев Фаик Инсафович": 2,
-      "Головина Татьяна Александровна": 2,
-      "Катасонов Сергей Михайлович": 29,
-      "Климова Ирина Александровна": 3,
-      "Лазаров Георги Атанасов": 1,
-      "Мунжасаров Нурлан Нурмагамбетович": 2,
-      "Сухарев Игорь Николаевич": 58,
-      "Туршинов Дидар Саулебаевич": 1,
-      "Уралов Семен Сергеевич": 12,
-      "Щепинов Максим Александрович": 1
+      "gas:candidate-vibid:25620001004303": 2,
+      "gas:candidate-vibid:25620001004760": 2,
+      "gas:candidate-vibid:2562000991769": 29,
+      "gas:candidate-vibid:25620001004637": 3,
+      "gas:candidate-vibid:25620001004626": 1,
+      "gas:candidate-vibid:25620001004382": 2,
+      "gas:candidate-vibid:25620001003807": 58,
+      "gas:candidate-vibid:25620001004748": 1,
+      "gas:candidate-vibid:25620001001594": 12,
+      "gas:candidate-vibid:2562000997696": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000188&tvd=2562000922497&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922497&type=464",
@@ -8143,16 +8143,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асяев Фаик Инсафович": 7,
-      "Головина Татьяна Александровна": 14,
-      "Катасонов Сергей Михайлович": 53,
-      "Климова Ирина Александровна": 7,
-      "Лазаров Георги Атанасов": 3,
-      "Мунжасаров Нурлан Нурмагамбетович": 18,
-      "Сухарев Игорь Николаевич": 165,
-      "Туршинов Дидар Саулебаевич": 0,
-      "Уралов Семен Сергеевич": 43,
-      "Щепинов Максим Александрович": 3
+      "gas:candidate-vibid:25620001004303": 7,
+      "gas:candidate-vibid:25620001004760": 14,
+      "gas:candidate-vibid:2562000991769": 53,
+      "gas:candidate-vibid:25620001004637": 7,
+      "gas:candidate-vibid:25620001004626": 3,
+      "gas:candidate-vibid:25620001004382": 18,
+      "gas:candidate-vibid:25620001003807": 165,
+      "gas:candidate-vibid:25620001004748": 0,
+      "gas:candidate-vibid:25620001001594": 43,
+      "gas:candidate-vibid:2562000997696": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000188&tvd=2562000922497&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922497&type=464",
@@ -8203,16 +8203,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асяев Фаик Инсафович": 4,
-      "Головина Татьяна Александровна": 2,
-      "Катасонов Сергей Михайлович": 11,
-      "Климова Ирина Александровна": 0,
-      "Лазаров Георги Атанасов": 1,
-      "Мунжасаров Нурлан Нурмагамбетович": 4,
-      "Сухарев Игорь Николаевич": 81,
-      "Туршинов Дидар Саулебаевич": 1,
-      "Уралов Семен Сергеевич": 3,
-      "Щепинов Максим Александрович": 1
+      "gas:candidate-vibid:25620001004303": 4,
+      "gas:candidate-vibid:25620001004760": 2,
+      "gas:candidate-vibid:2562000991769": 11,
+      "gas:candidate-vibid:25620001004637": 0,
+      "gas:candidate-vibid:25620001004626": 1,
+      "gas:candidate-vibid:25620001004382": 4,
+      "gas:candidate-vibid:25620001003807": 81,
+      "gas:candidate-vibid:25620001004748": 1,
+      "gas:candidate-vibid:25620001001594": 3,
+      "gas:candidate-vibid:2562000997696": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000188&tvd=2562000922497&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922497&type=464",
@@ -8263,16 +8263,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асяев Фаик Инсафович": 3,
-      "Головина Татьяна Александровна": 1,
-      "Катасонов Сергей Михайлович": 34,
-      "Климова Ирина Александровна": 2,
-      "Лазаров Георги Атанасов": 0,
-      "Мунжасаров Нурлан Нурмагамбетович": 5,
-      "Сухарев Игорь Николаевич": 40,
-      "Туршинов Дидар Саулебаевич": 0,
-      "Уралов Семен Сергеевич": 6,
-      "Щепинов Максим Александрович": 0
+      "gas:candidate-vibid:25620001004303": 3,
+      "gas:candidate-vibid:25620001004760": 1,
+      "gas:candidate-vibid:2562000991769": 34,
+      "gas:candidate-vibid:25620001004637": 2,
+      "gas:candidate-vibid:25620001004626": 0,
+      "gas:candidate-vibid:25620001004382": 5,
+      "gas:candidate-vibid:25620001003807": 40,
+      "gas:candidate-vibid:25620001004748": 0,
+      "gas:candidate-vibid:25620001001594": 6,
+      "gas:candidate-vibid:2562000997696": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000188&tvd=2562000922497&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922497&type=464",
@@ -8323,16 +8323,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асяев Фаик Инсафович": 24,
-      "Головина Татьяна Александровна": 21,
-      "Катасонов Сергей Михайлович": 388,
-      "Климова Ирина Александровна": 8,
-      "Лазаров Георги Атанасов": 15,
-      "Мунжасаров Нурлан Нурмагамбетович": 53,
-      "Сухарев Игорь Николаевич": 342,
-      "Туршинов Дидар Саулебаевич": 15,
-      "Уралов Семен Сергеевич": 136,
-      "Щепинов Максим Александрович": 15
+      "gas:candidate-vibid:25620001004303": 24,
+      "gas:candidate-vibid:25620001004760": 21,
+      "gas:candidate-vibid:2562000991769": 388,
+      "gas:candidate-vibid:25620001004637": 8,
+      "gas:candidate-vibid:25620001004626": 15,
+      "gas:candidate-vibid:25620001004382": 53,
+      "gas:candidate-vibid:25620001003807": 342,
+      "gas:candidate-vibid:25620001004748": 15,
+      "gas:candidate-vibid:25620001001594": 136,
+      "gas:candidate-vibid:2562000997696": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000188&tvd=2562000922497&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922497&type=464",
@@ -8383,16 +8383,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асяев Фаик Инсафович": 22,
-      "Головина Татьяна Александровна": 14,
-      "Катасонов Сергей Михайлович": 297,
-      "Климова Ирина Александровна": 7,
-      "Лазаров Георги Атанасов": 5,
-      "Мунжасаров Нурлан Нурмагамбетович": 25,
-      "Сухарев Игорь Николаевич": 264,
-      "Туршинов Дидар Саулебаевич": 10,
-      "Уралов Семен Сергеевич": 98,
-      "Щепинов Максим Александрович": 6
+      "gas:candidate-vibid:25620001004303": 22,
+      "gas:candidate-vibid:25620001004760": 14,
+      "gas:candidate-vibid:2562000991769": 297,
+      "gas:candidate-vibid:25620001004637": 7,
+      "gas:candidate-vibid:25620001004626": 5,
+      "gas:candidate-vibid:25620001004382": 25,
+      "gas:candidate-vibid:25620001003807": 264,
+      "gas:candidate-vibid:25620001004748": 10,
+      "gas:candidate-vibid:25620001001594": 98,
+      "gas:candidate-vibid:2562000997696": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000188&tvd=2562000922497&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922497&type=464",
@@ -8443,16 +8443,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асяев Фаик Инсафович": 3,
-      "Головина Татьяна Александровна": 4,
-      "Катасонов Сергей Михайлович": 81,
-      "Климова Ирина Александровна": 5,
-      "Лазаров Георги Атанасов": 1,
-      "Мунжасаров Нурлан Нурмагамбетович": 12,
-      "Сухарев Игорь Николаевич": 125,
-      "Туршинов Дидар Саулебаевич": 3,
-      "Уралов Семен Сергеевич": 26,
-      "Щепинов Максим Александрович": 2
+      "gas:candidate-vibid:25620001004303": 3,
+      "gas:candidate-vibid:25620001004760": 4,
+      "gas:candidate-vibid:2562000991769": 81,
+      "gas:candidate-vibid:25620001004637": 5,
+      "gas:candidate-vibid:25620001004626": 1,
+      "gas:candidate-vibid:25620001004382": 12,
+      "gas:candidate-vibid:25620001003807": 125,
+      "gas:candidate-vibid:25620001004748": 3,
+      "gas:candidate-vibid:25620001001594": 26,
+      "gas:candidate-vibid:2562000997696": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000188&tvd=2562000922497&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922497&type=464",
@@ -8503,16 +8503,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асяев Фаик Инсафович": 3,
-      "Головина Татьяна Александровна": 3,
-      "Катасонов Сергей Михайлович": 56,
-      "Климова Ирина Александровна": 1,
-      "Лазаров Георги Атанасов": 1,
-      "Мунжасаров Нурлан Нурмагамбетович": 3,
-      "Сухарев Игорь Николаевич": 111,
-      "Туршинов Дидар Саулебаевич": 1,
-      "Уралов Семен Сергеевич": 20,
-      "Щепинов Максим Александрович": 0
+      "gas:candidate-vibid:25620001004303": 3,
+      "gas:candidate-vibid:25620001004760": 3,
+      "gas:candidate-vibid:2562000991769": 56,
+      "gas:candidate-vibid:25620001004637": 1,
+      "gas:candidate-vibid:25620001004626": 1,
+      "gas:candidate-vibid:25620001004382": 3,
+      "gas:candidate-vibid:25620001003807": 111,
+      "gas:candidate-vibid:25620001004748": 1,
+      "gas:candidate-vibid:25620001001594": 20,
+      "gas:candidate-vibid:2562000997696": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000188&tvd=2562000922497&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922497&type=464",
@@ -8563,16 +8563,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асяев Фаик Инсафович": 4,
-      "Головина Татьяна Александровна": 2,
-      "Катасонов Сергей Михайлович": 19,
-      "Климова Ирина Александровна": 2,
-      "Лазаров Георги Атанасов": 1,
-      "Мунжасаров Нурлан Нурмагамбетович": 0,
-      "Сухарев Игорь Николаевич": 36,
-      "Туршинов Дидар Саулебаевич": 0,
-      "Уралов Семен Сергеевич": 2,
-      "Щепинов Максим Александрович": 2
+      "gas:candidate-vibid:25620001004303": 4,
+      "gas:candidate-vibid:25620001004760": 2,
+      "gas:candidate-vibid:2562000991769": 19,
+      "gas:candidate-vibid:25620001004637": 2,
+      "gas:candidate-vibid:25620001004626": 1,
+      "gas:candidate-vibid:25620001004382": 0,
+      "gas:candidate-vibid:25620001003807": 36,
+      "gas:candidate-vibid:25620001004748": 0,
+      "gas:candidate-vibid:25620001001594": 2,
+      "gas:candidate-vibid:2562000997696": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000188&tvd=2562000922497&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922497&type=464",
@@ -8623,16 +8623,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асяев Фаик Инсафович": 3,
-      "Головина Татьяна Александровна": 1,
-      "Катасонов Сергей Михайлович": 25,
-      "Климова Ирина Александровна": 1,
-      "Лазаров Георги Атанасов": 0,
-      "Мунжасаров Нурлан Нурмагамбетович": 3,
-      "Сухарев Игорь Николаевич": 55,
-      "Туршинов Дидар Саулебаевич": 0,
-      "Уралов Семен Сергеевич": 1,
-      "Щепинов Максим Александрович": 0
+      "gas:candidate-vibid:25620001004303": 3,
+      "gas:candidate-vibid:25620001004760": 1,
+      "gas:candidate-vibid:2562000991769": 25,
+      "gas:candidate-vibid:25620001004637": 1,
+      "gas:candidate-vibid:25620001004626": 0,
+      "gas:candidate-vibid:25620001004382": 3,
+      "gas:candidate-vibid:25620001003807": 55,
+      "gas:candidate-vibid:25620001004748": 0,
+      "gas:candidate-vibid:25620001001594": 1,
+      "gas:candidate-vibid:2562000997696": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000188&tvd=2562000922497&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922497&type=464",
@@ -8683,16 +8683,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асяев Фаик Инсафович": 2,
-      "Головина Татьяна Александровна": 5,
-      "Катасонов Сергей Михайлович": 30,
-      "Климова Ирина Александровна": 3,
-      "Лазаров Георги Атанасов": 3,
-      "Мунжасаров Нурлан Нурмагамбетович": 6,
-      "Сухарев Игорь Николаевич": 171,
-      "Туршинов Дидар Саулебаевич": 1,
-      "Уралов Семен Сергеевич": 31,
-      "Щепинов Максим Александрович": 3
+      "gas:candidate-vibid:25620001004303": 2,
+      "gas:candidate-vibid:25620001004760": 5,
+      "gas:candidate-vibid:2562000991769": 30,
+      "gas:candidate-vibid:25620001004637": 3,
+      "gas:candidate-vibid:25620001004626": 3,
+      "gas:candidate-vibid:25620001004382": 6,
+      "gas:candidate-vibid:25620001003807": 171,
+      "gas:candidate-vibid:25620001004748": 1,
+      "gas:candidate-vibid:25620001001594": 31,
+      "gas:candidate-vibid:2562000997696": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000188&tvd=2562000922497&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922497&type=464",
@@ -8743,16 +8743,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асяев Фаик Инсафович": 3,
-      "Головина Татьяна Александровна": 3,
-      "Катасонов Сергей Михайлович": 29,
-      "Климова Ирина Александровна": 2,
-      "Лазаров Георги Атанасов": 1,
-      "Мунжасаров Нурлан Нурмагамбетович": 1,
-      "Сухарев Игорь Николаевич": 55,
-      "Туршинов Дидар Саулебаевич": 3,
-      "Уралов Семен Сергеевич": 4,
-      "Щепинов Максим Александрович": 1
+      "gas:candidate-vibid:25620001004303": 3,
+      "gas:candidate-vibid:25620001004760": 3,
+      "gas:candidate-vibid:2562000991769": 29,
+      "gas:candidate-vibid:25620001004637": 2,
+      "gas:candidate-vibid:25620001004626": 1,
+      "gas:candidate-vibid:25620001004382": 1,
+      "gas:candidate-vibid:25620001003807": 55,
+      "gas:candidate-vibid:25620001004748": 3,
+      "gas:candidate-vibid:25620001001594": 4,
+      "gas:candidate-vibid:2562000997696": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000188&tvd=2562000922497&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922497&type=464",
@@ -8803,16 +8803,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асяев Фаик Инсафович": 1,
-      "Головина Татьяна Александровна": 3,
-      "Катасонов Сергей Михайлович": 18,
-      "Климова Ирина Александровна": 2,
-      "Лазаров Георги Атанасов": 0,
-      "Мунжасаров Нурлан Нурмагамбетович": 0,
-      "Сухарев Игорь Николаевич": 105,
-      "Туршинов Дидар Саулебаевич": 0,
-      "Уралов Семен Сергеевич": 12,
-      "Щепинов Максим Александрович": 1
+      "gas:candidate-vibid:25620001004303": 1,
+      "gas:candidate-vibid:25620001004760": 3,
+      "gas:candidate-vibid:2562000991769": 18,
+      "gas:candidate-vibid:25620001004637": 2,
+      "gas:candidate-vibid:25620001004626": 0,
+      "gas:candidate-vibid:25620001004382": 0,
+      "gas:candidate-vibid:25620001003807": 105,
+      "gas:candidate-vibid:25620001004748": 0,
+      "gas:candidate-vibid:25620001001594": 12,
+      "gas:candidate-vibid:2562000997696": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000188&tvd=2562000922497&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922497&type=464",
@@ -8863,16 +8863,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асяев Фаик Инсафович": 41,
-      "Головина Татьяна Александровна": 19,
-      "Катасонов Сергей Михайлович": 309,
-      "Климова Ирина Александровна": 10,
-      "Лазаров Георги Атанасов": 15,
-      "Мунжасаров Нурлан Нурмагамбетович": 46,
-      "Сухарев Игорь Николаевич": 322,
-      "Туршинов Дидар Саулебаевич": 12,
-      "Уралов Семен Сергеевич": 131,
-      "Щепинов Максим Александрович": 8
+      "gas:candidate-vibid:25620001004303": 41,
+      "gas:candidate-vibid:25620001004760": 19,
+      "gas:candidate-vibid:2562000991769": 309,
+      "gas:candidate-vibid:25620001004637": 10,
+      "gas:candidate-vibid:25620001004626": 15,
+      "gas:candidate-vibid:25620001004382": 46,
+      "gas:candidate-vibid:25620001003807": 322,
+      "gas:candidate-vibid:25620001004748": 12,
+      "gas:candidate-vibid:25620001001594": 131,
+      "gas:candidate-vibid:2562000997696": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000188&tvd=2562000922498&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922498&type=464",
@@ -8923,16 +8923,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асяев Фаик Инсафович": 34,
-      "Головина Татьяна Александровна": 22,
-      "Катасонов Сергей Михайлович": 230,
-      "Климова Ирина Александровна": 16,
-      "Лазаров Георги Атанасов": 11,
-      "Мунжасаров Нурлан Нурмагамбетович": 45,
-      "Сухарев Игорь Николаевич": 294,
-      "Туршинов Дидар Саулебаевич": 6,
-      "Уралов Семен Сергеевич": 108,
-      "Щепинов Максим Александрович": 19
+      "gas:candidate-vibid:25620001004303": 34,
+      "gas:candidate-vibid:25620001004760": 22,
+      "gas:candidate-vibid:2562000991769": 230,
+      "gas:candidate-vibid:25620001004637": 16,
+      "gas:candidate-vibid:25620001004626": 11,
+      "gas:candidate-vibid:25620001004382": 45,
+      "gas:candidate-vibid:25620001003807": 294,
+      "gas:candidate-vibid:25620001004748": 6,
+      "gas:candidate-vibid:25620001001594": 108,
+      "gas:candidate-vibid:2562000997696": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000188&tvd=2562000922498&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922498&type=464",
@@ -8983,16 +8983,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асяев Фаик Инсафович": 50,
-      "Головина Татьяна Александровна": 20,
-      "Катасонов Сергей Михайлович": 286,
-      "Климова Ирина Александровна": 23,
-      "Лазаров Георги Атанасов": 9,
-      "Мунжасаров Нурлан Нурмагамбетович": 69,
-      "Сухарев Игорь Николаевич": 294,
-      "Туршинов Дидар Саулебаевич": 8,
-      "Уралов Семен Сергеевич": 157,
-      "Щепинов Максим Александрович": 18
+      "gas:candidate-vibid:25620001004303": 50,
+      "gas:candidate-vibid:25620001004760": 20,
+      "gas:candidate-vibid:2562000991769": 286,
+      "gas:candidate-vibid:25620001004637": 23,
+      "gas:candidate-vibid:25620001004626": 9,
+      "gas:candidate-vibid:25620001004382": 69,
+      "gas:candidate-vibid:25620001003807": 294,
+      "gas:candidate-vibid:25620001004748": 8,
+      "gas:candidate-vibid:25620001001594": 157,
+      "gas:candidate-vibid:2562000997696": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000188&tvd=2562000922498&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922498&type=464",
@@ -9043,16 +9043,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асяев Фаик Инсафович": 16,
-      "Головина Татьяна Александровна": 5,
-      "Катасонов Сергей Михайлович": 89,
-      "Климова Ирина Александровна": 8,
-      "Лазаров Георги Атанасов": 7,
-      "Мунжасаров Нурлан Нурмагамбетович": 20,
-      "Сухарев Игорь Николаевич": 95,
-      "Туршинов Дидар Саулебаевич": 7,
-      "Уралов Семен Сергеевич": 82,
-      "Щепинов Максим Александрович": 9
+      "gas:candidate-vibid:25620001004303": 16,
+      "gas:candidate-vibid:25620001004760": 5,
+      "gas:candidate-vibid:2562000991769": 89,
+      "gas:candidate-vibid:25620001004637": 8,
+      "gas:candidate-vibid:25620001004626": 7,
+      "gas:candidate-vibid:25620001004382": 20,
+      "gas:candidate-vibid:25620001003807": 95,
+      "gas:candidate-vibid:25620001004748": 7,
+      "gas:candidate-vibid:25620001001594": 82,
+      "gas:candidate-vibid:2562000997696": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000188&tvd=2562000922498&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922498&type=464",
@@ -9103,16 +9103,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асяев Фаик Инсафович": 16,
-      "Головина Татьяна Александровна": 9,
-      "Катасонов Сергей Михайлович": 100,
-      "Климова Ирина Александровна": 10,
-      "Лазаров Георги Атанасов": 8,
-      "Мунжасаров Нурлан Нурмагамбетович": 14,
-      "Сухарев Игорь Николаевич": 166,
-      "Туршинов Дидар Саулебаевич": 3,
-      "Уралов Семен Сергеевич": 50,
-      "Щепинов Максим Александрович": 5
+      "gas:candidate-vibid:25620001004303": 16,
+      "gas:candidate-vibid:25620001004760": 9,
+      "gas:candidate-vibid:2562000991769": 100,
+      "gas:candidate-vibid:25620001004637": 10,
+      "gas:candidate-vibid:25620001004626": 8,
+      "gas:candidate-vibid:25620001004382": 14,
+      "gas:candidate-vibid:25620001003807": 166,
+      "gas:candidate-vibid:25620001004748": 3,
+      "gas:candidate-vibid:25620001001594": 50,
+      "gas:candidate-vibid:2562000997696": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000188&tvd=2562000922498&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922498&type=464",
@@ -9163,16 +9163,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асяев Фаик Инсафович": 26,
-      "Головина Татьяна Александровна": 6,
-      "Катасонов Сергей Михайлович": 78,
-      "Климова Ирина Александровна": 6,
-      "Лазаров Георги Атанасов": 5,
-      "Мунжасаров Нурлан Нурмагамбетович": 17,
-      "Сухарев Игорь Николаевич": 75,
-      "Туршинов Дидар Саулебаевич": 0,
-      "Уралов Семен Сергеевич": 27,
-      "Щепинов Максим Александрович": 5
+      "gas:candidate-vibid:25620001004303": 26,
+      "gas:candidate-vibid:25620001004760": 6,
+      "gas:candidate-vibid:2562000991769": 78,
+      "gas:candidate-vibid:25620001004637": 6,
+      "gas:candidate-vibid:25620001004626": 5,
+      "gas:candidate-vibid:25620001004382": 17,
+      "gas:candidate-vibid:25620001003807": 75,
+      "gas:candidate-vibid:25620001004748": 0,
+      "gas:candidate-vibid:25620001001594": 27,
+      "gas:candidate-vibid:2562000997696": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000188&tvd=2562000922498&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922498&type=464",
@@ -9223,16 +9223,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асяев Фаик Инсафович": 4,
-      "Головина Татьяна Александровна": 4,
-      "Катасонов Сергей Михайлович": 29,
-      "Климова Ирина Александровна": 1,
-      "Лазаров Георги Атанасов": 2,
-      "Мунжасаров Нурлан Нурмагамбетович": 5,
-      "Сухарев Игорь Николаевич": 95,
-      "Туршинов Дидар Саулебаевич": 1,
-      "Уралов Семен Сергеевич": 20,
-      "Щепинов Максим Александрович": 4
+      "gas:candidate-vibid:25620001004303": 4,
+      "gas:candidate-vibid:25620001004760": 4,
+      "gas:candidate-vibid:2562000991769": 29,
+      "gas:candidate-vibid:25620001004637": 1,
+      "gas:candidate-vibid:25620001004626": 2,
+      "gas:candidate-vibid:25620001004382": 5,
+      "gas:candidate-vibid:25620001003807": 95,
+      "gas:candidate-vibid:25620001004748": 1,
+      "gas:candidate-vibid:25620001001594": 20,
+      "gas:candidate-vibid:2562000997696": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000188&tvd=2562000922498&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922498&type=464",
@@ -9283,16 +9283,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асяев Фаик Инсафович": 31,
-      "Головина Татьяна Александровна": 3,
-      "Катасонов Сергей Михайлович": 56,
-      "Климова Ирина Александровна": 6,
-      "Лазаров Георги Атанасов": 5,
-      "Мунжасаров Нурлан Нурмагамбетович": 25,
-      "Сухарев Игорь Николаевич": 92,
-      "Туршинов Дидар Саулебаевич": 2,
-      "Уралов Семен Сергеевич": 34,
-      "Щепинов Максим Александрович": 1
+      "gas:candidate-vibid:25620001004303": 31,
+      "gas:candidate-vibid:25620001004760": 3,
+      "gas:candidate-vibid:2562000991769": 56,
+      "gas:candidate-vibid:25620001004637": 6,
+      "gas:candidate-vibid:25620001004626": 5,
+      "gas:candidate-vibid:25620001004382": 25,
+      "gas:candidate-vibid:25620001003807": 92,
+      "gas:candidate-vibid:25620001004748": 2,
+      "gas:candidate-vibid:25620001001594": 34,
+      "gas:candidate-vibid:2562000997696": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000188&tvd=2562000922498&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922498&type=464",
@@ -9343,16 +9343,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асяев Фаик Инсафович": 10,
-      "Головина Татьяна Александровна": 4,
-      "Катасонов Сергей Михайлович": 23,
-      "Климова Ирина Александровна": 2,
-      "Лазаров Георги Атанасов": 3,
-      "Мунжасаров Нурлан Нурмагамбетович": 20,
-      "Сухарев Игорь Николаевич": 90,
-      "Туршинов Дидар Саулебаевич": 1,
-      "Уралов Семен Сергеевич": 43,
-      "Щепинов Максим Александрович": 0
+      "gas:candidate-vibid:25620001004303": 10,
+      "gas:candidate-vibid:25620001004760": 4,
+      "gas:candidate-vibid:2562000991769": 23,
+      "gas:candidate-vibid:25620001004637": 2,
+      "gas:candidate-vibid:25620001004626": 3,
+      "gas:candidate-vibid:25620001004382": 20,
+      "gas:candidate-vibid:25620001003807": 90,
+      "gas:candidate-vibid:25620001004748": 1,
+      "gas:candidate-vibid:25620001001594": 43,
+      "gas:candidate-vibid:2562000997696": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000188&tvd=2562000922498&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922498&type=464",
@@ -9403,16 +9403,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асяев Фаик Инсафович": 5,
-      "Головина Татьяна Александровна": 6,
-      "Катасонов Сергей Михайлович": 47,
-      "Климова Ирина Александровна": 2,
-      "Лазаров Георги Атанасов": 1,
-      "Мунжасаров Нурлан Нурмагамбетович": 11,
-      "Сухарев Игорь Николаевич": 54,
-      "Туршинов Дидар Саулебаевич": 0,
-      "Уралов Семен Сергеевич": 24,
-      "Щепинов Максим Александрович": 3
+      "gas:candidate-vibid:25620001004303": 5,
+      "gas:candidate-vibid:25620001004760": 6,
+      "gas:candidate-vibid:2562000991769": 47,
+      "gas:candidate-vibid:25620001004637": 2,
+      "gas:candidate-vibid:25620001004626": 1,
+      "gas:candidate-vibid:25620001004382": 11,
+      "gas:candidate-vibid:25620001003807": 54,
+      "gas:candidate-vibid:25620001004748": 0,
+      "gas:candidate-vibid:25620001001594": 24,
+      "gas:candidate-vibid:2562000997696": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000188&tvd=2562000922498&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922498&type=464",
@@ -9463,16 +9463,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асяев Фаик Инсафович": 11,
-      "Головина Татьяна Александровна": 4,
-      "Катасонов Сергей Михайлович": 144,
-      "Климова Ирина Александровна": 6,
-      "Лазаров Георги Атанасов": 4,
-      "Мунжасаров Нурлан Нурмагамбетович": 16,
-      "Сухарев Игорь Николаевич": 211,
-      "Туршинов Дидар Саулебаевич": 2,
-      "Уралов Семен Сергеевич": 70,
-      "Щепинов Максим Александрович": 6
+      "gas:candidate-vibid:25620001004303": 11,
+      "gas:candidate-vibid:25620001004760": 4,
+      "gas:candidate-vibid:2562000991769": 144,
+      "gas:candidate-vibid:25620001004637": 6,
+      "gas:candidate-vibid:25620001004626": 4,
+      "gas:candidate-vibid:25620001004382": 16,
+      "gas:candidate-vibid:25620001003807": 211,
+      "gas:candidate-vibid:25620001004748": 2,
+      "gas:candidate-vibid:25620001001594": 70,
+      "gas:candidate-vibid:2562000997696": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000188&tvd=2562000922498&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922498&type=464",
@@ -9523,16 +9523,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асяев Фаик Инсафович": 5,
-      "Головина Татьяна Александровна": 5,
-      "Катасонов Сергей Михайлович": 45,
-      "Климова Ирина Александровна": 3,
-      "Лазаров Георги Атанасов": 0,
-      "Мунжасаров Нурлан Нурмагамбетович": 7,
-      "Сухарев Игорь Николаевич": 89,
-      "Туршинов Дидар Саулебаевич": 0,
-      "Уралов Семен Сергеевич": 18,
-      "Щепинов Максим Александрович": 0
+      "gas:candidate-vibid:25620001004303": 5,
+      "gas:candidate-vibid:25620001004760": 5,
+      "gas:candidate-vibid:2562000991769": 45,
+      "gas:candidate-vibid:25620001004637": 3,
+      "gas:candidate-vibid:25620001004626": 0,
+      "gas:candidate-vibid:25620001004382": 7,
+      "gas:candidate-vibid:25620001003807": 89,
+      "gas:candidate-vibid:25620001004748": 0,
+      "gas:candidate-vibid:25620001001594": 18,
+      "gas:candidate-vibid:2562000997696": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000188&tvd=2562000922498&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922498&type=464",
@@ -9583,16 +9583,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асяев Фаик Инсафович": 8,
-      "Головина Татьяна Александровна": 7,
-      "Катасонов Сергей Михайлович": 60,
-      "Климова Ирина Александровна": 7,
-      "Лазаров Георги Атанасов": 1,
-      "Мунжасаров Нурлан Нурмагамбетович": 12,
-      "Сухарев Игорь Николаевич": 85,
-      "Туршинов Дидар Саулебаевич": 2,
-      "Уралов Семен Сергеевич": 36,
-      "Щепинов Максим Александрович": 1
+      "gas:candidate-vibid:25620001004303": 8,
+      "gas:candidate-vibid:25620001004760": 7,
+      "gas:candidate-vibid:2562000991769": 60,
+      "gas:candidate-vibid:25620001004637": 7,
+      "gas:candidate-vibid:25620001004626": 1,
+      "gas:candidate-vibid:25620001004382": 12,
+      "gas:candidate-vibid:25620001003807": 85,
+      "gas:candidate-vibid:25620001004748": 2,
+      "gas:candidate-vibid:25620001001594": 36,
+      "gas:candidate-vibid:2562000997696": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000188&tvd=2562000922498&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922498&type=464",
@@ -9643,16 +9643,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асяев Фаик Инсафович": 2,
-      "Головина Татьяна Александровна": 4,
-      "Катасонов Сергей Михайлович": 80,
-      "Климова Ирина Александровна": 3,
-      "Лазаров Георги Атанасов": 5,
-      "Мунжасаров Нурлан Нурмагамбетович": 9,
-      "Сухарев Игорь Николаевич": 146,
-      "Туршинов Дидар Саулебаевич": 4,
-      "Уралов Семен Сергеевич": 19,
-      "Щепинов Максим Александрович": 3
+      "gas:candidate-vibid:25620001004303": 2,
+      "gas:candidate-vibid:25620001004760": 4,
+      "gas:candidate-vibid:2562000991769": 80,
+      "gas:candidate-vibid:25620001004637": 3,
+      "gas:candidate-vibid:25620001004626": 5,
+      "gas:candidate-vibid:25620001004382": 9,
+      "gas:candidate-vibid:25620001003807": 146,
+      "gas:candidate-vibid:25620001004748": 4,
+      "gas:candidate-vibid:25620001001594": 19,
+      "gas:candidate-vibid:2562000997696": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000188&tvd=2562000922498&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922498&type=464",
@@ -9703,16 +9703,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асяев Фаик Инсафович": 1,
-      "Головина Татьяна Александровна": 3,
-      "Катасонов Сергей Михайлович": 6,
-      "Климова Ирина Александровна": 1,
-      "Лазаров Георги Атанасов": 1,
-      "Мунжасаров Нурлан Нурмагамбетович": 3,
-      "Сухарев Игорь Николаевич": 31,
-      "Туршинов Дидар Саулебаевич": 0,
-      "Уралов Семен Сергеевич": 2,
-      "Щепинов Максим Александрович": 2
+      "gas:candidate-vibid:25620001004303": 1,
+      "gas:candidate-vibid:25620001004760": 3,
+      "gas:candidate-vibid:2562000991769": 6,
+      "gas:candidate-vibid:25620001004637": 1,
+      "gas:candidate-vibid:25620001004626": 1,
+      "gas:candidate-vibid:25620001004382": 3,
+      "gas:candidate-vibid:25620001003807": 31,
+      "gas:candidate-vibid:25620001004748": 0,
+      "gas:candidate-vibid:25620001001594": 2,
+      "gas:candidate-vibid:2562000997696": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000188&tvd=2562000922498&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922498&type=464",
@@ -9763,16 +9763,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асяев Фаик Инсафович": 7,
-      "Головина Татьяна Александровна": 3,
-      "Катасонов Сергей Михайлович": 62,
-      "Климова Ирина Александровна": 5,
-      "Лазаров Георги Атанасов": 5,
-      "Мунжасаров Нурлан Нурмагамбетович": 18,
-      "Сухарев Игорь Николаевич": 134,
-      "Туршинов Дидар Саулебаевич": 3,
-      "Уралов Семен Сергеевич": 29,
-      "Щепинов Максим Александрович": 1
+      "gas:candidate-vibid:25620001004303": 7,
+      "gas:candidate-vibid:25620001004760": 3,
+      "gas:candidate-vibid:2562000991769": 62,
+      "gas:candidate-vibid:25620001004637": 5,
+      "gas:candidate-vibid:25620001004626": 5,
+      "gas:candidate-vibid:25620001004382": 18,
+      "gas:candidate-vibid:25620001003807": 134,
+      "gas:candidate-vibid:25620001004748": 3,
+      "gas:candidate-vibid:25620001001594": 29,
+      "gas:candidate-vibid:2562000997696": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000188&tvd=2562000922498&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922498&type=464",
@@ -9823,16 +9823,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асяев Фаик Инсафович": 63,
-      "Головина Татьяна Александровна": 2,
-      "Катасонов Сергей Михайлович": 106,
-      "Климова Ирина Александровна": 11,
-      "Лазаров Георги Атанасов": 7,
-      "Мунжасаров Нурлан Нурмагамбетович": 76,
-      "Сухарев Игорь Николаевич": 136,
-      "Туршинов Дидар Саулебаевич": 6,
-      "Уралов Семен Сергеевич": 48,
-      "Щепинов Максим Александрович": 6
+      "gas:candidate-vibid:25620001004303": 63,
+      "gas:candidate-vibid:25620001004760": 2,
+      "gas:candidate-vibid:2562000991769": 106,
+      "gas:candidate-vibid:25620001004637": 11,
+      "gas:candidate-vibid:25620001004626": 7,
+      "gas:candidate-vibid:25620001004382": 76,
+      "gas:candidate-vibid:25620001003807": 136,
+      "gas:candidate-vibid:25620001004748": 6,
+      "gas:candidate-vibid:25620001001594": 48,
+      "gas:candidate-vibid:2562000997696": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000188&tvd=2562000922498&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922498&type=464",
@@ -9883,16 +9883,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асяев Фаик Инсафович": 51,
-      "Головина Татьяна Александровна": 8,
-      "Катасонов Сергей Михайлович": 168,
-      "Климова Ирина Александровна": 10,
-      "Лазаров Георги Атанасов": 6,
-      "Мунжасаров Нурлан Нурмагамбетович": 98,
-      "Сухарев Игорь Николаевич": 241,
-      "Туршинов Дидар Саулебаевич": 5,
-      "Уралов Семен Сергеевич": 88,
-      "Щепинов Максим Александрович": 10
+      "gas:candidate-vibid:25620001004303": 51,
+      "gas:candidate-vibid:25620001004760": 8,
+      "gas:candidate-vibid:2562000991769": 168,
+      "gas:candidate-vibid:25620001004637": 10,
+      "gas:candidate-vibid:25620001004626": 6,
+      "gas:candidate-vibid:25620001004382": 98,
+      "gas:candidate-vibid:25620001003807": 241,
+      "gas:candidate-vibid:25620001004748": 5,
+      "gas:candidate-vibid:25620001001594": 88,
+      "gas:candidate-vibid:2562000997696": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000188&tvd=2562000922498&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922498&type=464",
@@ -9943,16 +9943,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асяев Фаик Инсафович": 1,
-      "Головина Татьяна Александровна": 4,
-      "Катасонов Сергей Михайлович": 29,
-      "Климова Ирина Александровна": 1,
-      "Лазаров Георги Атанасов": 0,
-      "Мунжасаров Нурлан Нурмагамбетович": 20,
-      "Сухарев Игорь Николаевич": 53,
-      "Туршинов Дидар Саулебаевич": 0,
-      "Уралов Семен Сергеевич": 15,
-      "Щепинов Максим Александрович": 0
+      "gas:candidate-vibid:25620001004303": 1,
+      "gas:candidate-vibid:25620001004760": 4,
+      "gas:candidate-vibid:2562000991769": 29,
+      "gas:candidate-vibid:25620001004637": 1,
+      "gas:candidate-vibid:25620001004626": 0,
+      "gas:candidate-vibid:25620001004382": 20,
+      "gas:candidate-vibid:25620001003807": 53,
+      "gas:candidate-vibid:25620001004748": 0,
+      "gas:candidate-vibid:25620001001594": 15,
+      "gas:candidate-vibid:2562000997696": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000188&tvd=2562000922498&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922498&type=464",
@@ -10003,16 +10003,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асяев Фаик Инсафович": 27,
-      "Головина Татьяна Александровна": 10,
-      "Катасонов Сергей Михайлович": 152,
-      "Климова Ирина Александровна": 9,
-      "Лазаров Георги Атанасов": 4,
-      "Мунжасаров Нурлан Нурмагамбетович": 41,
-      "Сухарев Игорь Николаевич": 220,
-      "Туршинов Дидар Саулебаевич": 3,
-      "Уралов Семен Сергеевич": 90,
-      "Щепинов Максим Александрович": 9
+      "gas:candidate-vibid:25620001004303": 27,
+      "gas:candidate-vibid:25620001004760": 10,
+      "gas:candidate-vibid:2562000991769": 152,
+      "gas:candidate-vibid:25620001004637": 9,
+      "gas:candidate-vibid:25620001004626": 4,
+      "gas:candidate-vibid:25620001004382": 41,
+      "gas:candidate-vibid:25620001003807": 220,
+      "gas:candidate-vibid:25620001004748": 3,
+      "gas:candidate-vibid:25620001001594": 90,
+      "gas:candidate-vibid:2562000997696": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000188&tvd=2562000922498&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922498&type=464",
@@ -10063,16 +10063,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асяев Фаик Инсафович": 9,
-      "Головина Татьяна Александровна": 9,
-      "Катасонов Сергей Михайлович": 87,
-      "Климова Ирина Александровна": 7,
-      "Лазаров Георги Атанасов": 2,
-      "Мунжасаров Нурлан Нурмагамбетович": 22,
-      "Сухарев Игорь Николаевич": 109,
-      "Туршинов Дидар Саулебаевич": 5,
-      "Уралов Семен Сергеевич": 42,
-      "Щепинов Максим Александрович": 5
+      "gas:candidate-vibid:25620001004303": 9,
+      "gas:candidate-vibid:25620001004760": 9,
+      "gas:candidate-vibid:2562000991769": 87,
+      "gas:candidate-vibid:25620001004637": 7,
+      "gas:candidate-vibid:25620001004626": 2,
+      "gas:candidate-vibid:25620001004382": 22,
+      "gas:candidate-vibid:25620001003807": 109,
+      "gas:candidate-vibid:25620001004748": 5,
+      "gas:candidate-vibid:25620001001594": 42,
+      "gas:candidate-vibid:2562000997696": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000188&tvd=2562000922498&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922498&type=464",
@@ -10123,16 +10123,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асяев Фаик Инсафович": 10,
-      "Головина Татьяна Александровна": 7,
-      "Катасонов Сергей Михайлович": 59,
-      "Климова Ирина Александровна": 7,
-      "Лазаров Георги Атанасов": 7,
-      "Мунжасаров Нурлан Нурмагамбетович": 32,
-      "Сухарев Игорь Николаевич": 90,
-      "Туршинов Дидар Саулебаевич": 0,
-      "Уралов Семен Сергеевич": 32,
-      "Щепинов Максим Александрович": 1
+      "gas:candidate-vibid:25620001004303": 10,
+      "gas:candidate-vibid:25620001004760": 7,
+      "gas:candidate-vibid:2562000991769": 59,
+      "gas:candidate-vibid:25620001004637": 7,
+      "gas:candidate-vibid:25620001004626": 7,
+      "gas:candidate-vibid:25620001004382": 32,
+      "gas:candidate-vibid:25620001003807": 90,
+      "gas:candidate-vibid:25620001004748": 0,
+      "gas:candidate-vibid:25620001001594": 32,
+      "gas:candidate-vibid:2562000997696": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000188&tvd=2562000922498&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922498&type=464",
@@ -10183,16 +10183,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асяев Фаик Инсафович": 15,
-      "Головина Татьяна Александровна": 4,
-      "Катасонов Сергей Михайлович": 51,
-      "Климова Ирина Александровна": 4,
-      "Лазаров Георги Атанасов": 0,
-      "Мунжасаров Нурлан Нурмагамбетович": 13,
-      "Сухарев Игорь Николаевич": 39,
-      "Туршинов Дидар Саулебаевич": 3,
-      "Уралов Семен Сергеевич": 13,
-      "Щепинов Максим Александрович": 1
+      "gas:candidate-vibid:25620001004303": 15,
+      "gas:candidate-vibid:25620001004760": 4,
+      "gas:candidate-vibid:2562000991769": 51,
+      "gas:candidate-vibid:25620001004637": 4,
+      "gas:candidate-vibid:25620001004626": 0,
+      "gas:candidate-vibid:25620001004382": 13,
+      "gas:candidate-vibid:25620001003807": 39,
+      "gas:candidate-vibid:25620001004748": 3,
+      "gas:candidate-vibid:25620001001594": 13,
+      "gas:candidate-vibid:2562000997696": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000188&tvd=2562000922498&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922498&type=464",
@@ -10243,16 +10243,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асяев Фаик Инсафович": 10,
-      "Головина Татьяна Александровна": 2,
-      "Катасонов Сергей Михайлович": 19,
-      "Климова Ирина Александровна": 3,
-      "Лазаров Георги Атанасов": 0,
-      "Мунжасаров Нурлан Нурмагамбетович": 6,
-      "Сухарев Игорь Николаевич": 56,
-      "Туршинов Дидар Саулебаевич": 1,
-      "Уралов Семен Сергеевич": 15,
-      "Щепинов Максим Александрович": 0
+      "gas:candidate-vibid:25620001004303": 10,
+      "gas:candidate-vibid:25620001004760": 2,
+      "gas:candidate-vibid:2562000991769": 19,
+      "gas:candidate-vibid:25620001004637": 3,
+      "gas:candidate-vibid:25620001004626": 0,
+      "gas:candidate-vibid:25620001004382": 6,
+      "gas:candidate-vibid:25620001003807": 56,
+      "gas:candidate-vibid:25620001004748": 1,
+      "gas:candidate-vibid:25620001001594": 15,
+      "gas:candidate-vibid:2562000997696": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000188&tvd=2562000922499&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922499&type=464",
@@ -10303,16 +10303,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асяев Фаик Инсафович": 0,
-      "Головина Татьяна Александровна": 0,
-      "Катасонов Сергей Михайлович": 14,
-      "Климова Ирина Александровна": 0,
-      "Лазаров Георги Атанасов": 0,
-      "Мунжасаров Нурлан Нурмагамбетович": 4,
-      "Сухарев Игорь Николаевич": 155,
-      "Туршинов Дидар Саулебаевич": 0,
-      "Уралов Семен Сергеевич": 19,
-      "Щепинов Максим Александрович": 6
+      "gas:candidate-vibid:25620001004303": 0,
+      "gas:candidate-vibid:25620001004760": 0,
+      "gas:candidate-vibid:2562000991769": 14,
+      "gas:candidate-vibid:25620001004637": 0,
+      "gas:candidate-vibid:25620001004626": 0,
+      "gas:candidate-vibid:25620001004382": 4,
+      "gas:candidate-vibid:25620001003807": 155,
+      "gas:candidate-vibid:25620001004748": 0,
+      "gas:candidate-vibid:25620001001594": 19,
+      "gas:candidate-vibid:2562000997696": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000188&tvd=2562000922499&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922499&type=464",
@@ -10363,16 +10363,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асяев Фаик Инсафович": 5,
-      "Головина Татьяна Александровна": 4,
-      "Катасонов Сергей Михайлович": 52,
-      "Климова Ирина Александровна": 5,
-      "Лазаров Георги Атанасов": 5,
-      "Мунжасаров Нурлан Нурмагамбетович": 17,
-      "Сухарев Игорь Николаевич": 74,
-      "Туршинов Дидар Саулебаевич": 1,
-      "Уралов Семен Сергеевич": 60,
-      "Щепинов Максим Александрович": 0
+      "gas:candidate-vibid:25620001004303": 5,
+      "gas:candidate-vibid:25620001004760": 4,
+      "gas:candidate-vibid:2562000991769": 52,
+      "gas:candidate-vibid:25620001004637": 5,
+      "gas:candidate-vibid:25620001004626": 5,
+      "gas:candidate-vibid:25620001004382": 17,
+      "gas:candidate-vibid:25620001003807": 74,
+      "gas:candidate-vibid:25620001004748": 1,
+      "gas:candidate-vibid:25620001001594": 60,
+      "gas:candidate-vibid:2562000997696": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000188&tvd=2562000922499&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922499&type=464",
@@ -10423,16 +10423,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асяев Фаик Инсафович": 0,
-      "Головина Татьяна Александровна": 1,
-      "Катасонов Сергей Михайлович": 6,
-      "Климова Ирина Александровна": 1,
-      "Лазаров Георги Атанасов": 0,
-      "Мунжасаров Нурлан Нурмагамбетович": 3,
-      "Сухарев Игорь Николаевич": 59,
-      "Туршинов Дидар Саулебаевич": 0,
-      "Уралов Семен Сергеевич": 18,
-      "Щепинов Максим Александрович": 1
+      "gas:candidate-vibid:25620001004303": 0,
+      "gas:candidate-vibid:25620001004760": 1,
+      "gas:candidate-vibid:2562000991769": 6,
+      "gas:candidate-vibid:25620001004637": 1,
+      "gas:candidate-vibid:25620001004626": 0,
+      "gas:candidate-vibid:25620001004382": 3,
+      "gas:candidate-vibid:25620001003807": 59,
+      "gas:candidate-vibid:25620001004748": 0,
+      "gas:candidate-vibid:25620001001594": 18,
+      "gas:candidate-vibid:2562000997696": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000188&tvd=2562000922499&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922499&type=464",
@@ -10483,16 +10483,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асяев Фаик Инсафович": 5,
-      "Головина Татьяна Александровна": 2,
-      "Катасонов Сергей Михайлович": 12,
-      "Климова Ирина Александровна": 5,
-      "Лазаров Георги Атанасов": 1,
-      "Мунжасаров Нурлан Нурмагамбетович": 0,
-      "Сухарев Игорь Николаевич": 359,
-      "Туршинов Дидар Саулебаевич": 0,
-      "Уралов Семен Сергеевич": 1,
-      "Щепинов Максим Александрович": 2
+      "gas:candidate-vibid:25620001004303": 5,
+      "gas:candidate-vibid:25620001004760": 2,
+      "gas:candidate-vibid:2562000991769": 12,
+      "gas:candidate-vibid:25620001004637": 5,
+      "gas:candidate-vibid:25620001004626": 1,
+      "gas:candidate-vibid:25620001004382": 0,
+      "gas:candidate-vibid:25620001003807": 359,
+      "gas:candidate-vibid:25620001004748": 0,
+      "gas:candidate-vibid:25620001001594": 1,
+      "gas:candidate-vibid:2562000997696": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000188&tvd=2562000922499&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922499&type=464",
@@ -10543,16 +10543,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асяев Фаик Инсафович": 66,
-      "Головина Татьяна Александровна": 3,
-      "Катасонов Сергей Михайлович": 31,
-      "Климова Ирина Александровна": 8,
-      "Лазаров Георги Атанасов": 7,
-      "Мунжасаров Нурлан Нурмагамбетович": 16,
-      "Сухарев Игорь Николаевич": 123,
-      "Туршинов Дидар Саулебаевич": 3,
-      "Уралов Семен Сергеевич": 32,
-      "Щепинов Максим Александрович": 2
+      "gas:candidate-vibid:25620001004303": 66,
+      "gas:candidate-vibid:25620001004760": 3,
+      "gas:candidate-vibid:2562000991769": 31,
+      "gas:candidate-vibid:25620001004637": 8,
+      "gas:candidate-vibid:25620001004626": 7,
+      "gas:candidate-vibid:25620001004382": 16,
+      "gas:candidate-vibid:25620001003807": 123,
+      "gas:candidate-vibid:25620001004748": 3,
+      "gas:candidate-vibid:25620001001594": 32,
+      "gas:candidate-vibid:2562000997696": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000188&tvd=2562000922499&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922499&type=464",
@@ -10603,16 +10603,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асяев Фаик Инсафович": 3,
-      "Головина Татьяна Александровна": 3,
-      "Катасонов Сергей Михайлович": 43,
-      "Климова Ирина Александровна": 3,
-      "Лазаров Георги Атанасов": 1,
-      "Мунжасаров Нурлан Нурмагамбетович": 12,
-      "Сухарев Игорь Николаевич": 106,
-      "Туршинов Дидар Саулебаевич": 1,
-      "Уралов Семен Сергеевич": 32,
-      "Щепинов Максим Александрович": 2
+      "gas:candidate-vibid:25620001004303": 3,
+      "gas:candidate-vibid:25620001004760": 3,
+      "gas:candidate-vibid:2562000991769": 43,
+      "gas:candidate-vibid:25620001004637": 3,
+      "gas:candidate-vibid:25620001004626": 1,
+      "gas:candidate-vibid:25620001004382": 12,
+      "gas:candidate-vibid:25620001003807": 106,
+      "gas:candidate-vibid:25620001004748": 1,
+      "gas:candidate-vibid:25620001001594": 32,
+      "gas:candidate-vibid:2562000997696": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000188&tvd=2562000922499&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922499&type=464",
@@ -10663,16 +10663,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асяев Фаик Инсафович": 3,
-      "Головина Татьяна Александровна": 1,
-      "Катасонов Сергей Михайлович": 17,
-      "Климова Ирина Александровна": 0,
-      "Лазаров Георги Атанасов": 0,
-      "Мунжасаров Нурлан Нурмагамбетович": 2,
-      "Сухарев Игорь Николаевич": 39,
-      "Туршинов Дидар Саулебаевич": 0,
-      "Уралов Семен Сергеевич": 1,
-      "Щепинов Максим Александрович": 3
+      "gas:candidate-vibid:25620001004303": 3,
+      "gas:candidate-vibid:25620001004760": 1,
+      "gas:candidate-vibid:2562000991769": 17,
+      "gas:candidate-vibid:25620001004637": 0,
+      "gas:candidate-vibid:25620001004626": 0,
+      "gas:candidate-vibid:25620001004382": 2,
+      "gas:candidate-vibid:25620001003807": 39,
+      "gas:candidate-vibid:25620001004748": 0,
+      "gas:candidate-vibid:25620001001594": 1,
+      "gas:candidate-vibid:2562000997696": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000188&tvd=2562000922499&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922499&type=464",
@@ -10723,16 +10723,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асяев Фаик Инсафович": 7,
-      "Головина Татьяна Александровна": 2,
-      "Катасонов Сергей Михайлович": 18,
-      "Климова Ирина Александровна": 5,
-      "Лазаров Георги Атанасов": 0,
-      "Мунжасаров Нурлан Нурмагамбетович": 14,
-      "Сухарев Игорь Николаевич": 193,
-      "Туршинов Дидар Саулебаевич": 0,
-      "Уралов Семен Сергеевич": 19,
-      "Щепинов Максим Александрович": 0
+      "gas:candidate-vibid:25620001004303": 7,
+      "gas:candidate-vibid:25620001004760": 2,
+      "gas:candidate-vibid:2562000991769": 18,
+      "gas:candidate-vibid:25620001004637": 5,
+      "gas:candidate-vibid:25620001004626": 0,
+      "gas:candidate-vibid:25620001004382": 14,
+      "gas:candidate-vibid:25620001003807": 193,
+      "gas:candidate-vibid:25620001004748": 0,
+      "gas:candidate-vibid:25620001001594": 19,
+      "gas:candidate-vibid:2562000997696": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000188&tvd=2562000922499&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922499&type=464",
@@ -10783,16 +10783,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асяев Фаик Инсафович": 3,
-      "Головина Татьяна Александровна": 4,
-      "Катасонов Сергей Михайлович": 10,
-      "Климова Ирина Александровна": 3,
-      "Лазаров Георги Атанасов": 5,
-      "Мунжасаров Нурлан Нурмагамбетович": 5,
-      "Сухарев Игорь Николаевич": 137,
-      "Туршинов Дидар Саулебаевич": 1,
-      "Уралов Семен Сергеевич": 11,
-      "Щепинов Максим Александрович": 3
+      "gas:candidate-vibid:25620001004303": 3,
+      "gas:candidate-vibid:25620001004760": 4,
+      "gas:candidate-vibid:2562000991769": 10,
+      "gas:candidate-vibid:25620001004637": 3,
+      "gas:candidate-vibid:25620001004626": 5,
+      "gas:candidate-vibid:25620001004382": 5,
+      "gas:candidate-vibid:25620001003807": 137,
+      "gas:candidate-vibid:25620001004748": 1,
+      "gas:candidate-vibid:25620001001594": 11,
+      "gas:candidate-vibid:2562000997696": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000188&tvd=2562000922499&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922499&type=464",
@@ -10843,16 +10843,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асяев Фаик Инсафович": 35,
-      "Головина Татьяна Александровна": 8,
-      "Катасонов Сергей Михайлович": 115,
-      "Климова Ирина Александровна": 7,
-      "Лазаров Георги Атанасов": 1,
-      "Мунжасаров Нурлан Нурмагамбетович": 33,
-      "Сухарев Игорь Николаевич": 80,
-      "Туршинов Дидар Саулебаевич": 3,
-      "Уралов Семен Сергеевич": 51,
-      "Щепинов Максим Александрович": 1
+      "gas:candidate-vibid:25620001004303": 35,
+      "gas:candidate-vibid:25620001004760": 8,
+      "gas:candidate-vibid:2562000991769": 115,
+      "gas:candidate-vibid:25620001004637": 7,
+      "gas:candidate-vibid:25620001004626": 1,
+      "gas:candidate-vibid:25620001004382": 33,
+      "gas:candidate-vibid:25620001003807": 80,
+      "gas:candidate-vibid:25620001004748": 3,
+      "gas:candidate-vibid:25620001001594": 51,
+      "gas:candidate-vibid:2562000997696": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000188&tvd=2562000922499&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922499&type=464",
@@ -10903,16 +10903,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асяев Фаик Инсафович": 41,
-      "Головина Татьяна Александровна": 4,
-      "Катасонов Сергей Михайлович": 113,
-      "Климова Ирина Александровна": 6,
-      "Лазаров Георги Атанасов": 2,
-      "Мунжасаров Нурлан Нурмагамбетович": 31,
-      "Сухарев Игорь Николаевич": 90,
-      "Туршинов Дидар Саулебаевич": 1,
-      "Уралов Семен Сергеевич": 51,
-      "Щепинов Максим Александрович": 4
+      "gas:candidate-vibid:25620001004303": 41,
+      "gas:candidate-vibid:25620001004760": 4,
+      "gas:candidate-vibid:2562000991769": 113,
+      "gas:candidate-vibid:25620001004637": 6,
+      "gas:candidate-vibid:25620001004626": 2,
+      "gas:candidate-vibid:25620001004382": 31,
+      "gas:candidate-vibid:25620001003807": 90,
+      "gas:candidate-vibid:25620001004748": 1,
+      "gas:candidate-vibid:25620001001594": 51,
+      "gas:candidate-vibid:2562000997696": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000188&tvd=2562000922499&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922499&type=464",
@@ -10963,16 +10963,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асяев Фаик Инсафович": 3,
-      "Головина Татьяна Александровна": 1,
-      "Катасонов Сергей Михайлович": 14,
-      "Климова Ирина Александровна": 0,
-      "Лазаров Георги Атанасов": 1,
-      "Мунжасаров Нурлан Нурмагамбетович": 3,
-      "Сухарев Игорь Николаевич": 68,
-      "Туршинов Дидар Саулебаевич": 0,
-      "Уралов Семен Сергеевич": 6,
-      "Щепинов Максим Александрович": 0
+      "gas:candidate-vibid:25620001004303": 3,
+      "gas:candidate-vibid:25620001004760": 1,
+      "gas:candidate-vibid:2562000991769": 14,
+      "gas:candidate-vibid:25620001004637": 0,
+      "gas:candidate-vibid:25620001004626": 1,
+      "gas:candidate-vibid:25620001004382": 3,
+      "gas:candidate-vibid:25620001003807": 68,
+      "gas:candidate-vibid:25620001004748": 0,
+      "gas:candidate-vibid:25620001001594": 6,
+      "gas:candidate-vibid:2562000997696": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000188&tvd=2562000922499&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922499&type=464",
@@ -11023,16 +11023,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асяев Фаик Инсафович": 7,
-      "Головина Татьяна Александровна": 2,
-      "Катасонов Сергей Михайлович": 17,
-      "Климова Ирина Александровна": 7,
-      "Лазаров Георги Атанасов": 3,
-      "Мунжасаров Нурлан Нурмагамбетович": 2,
-      "Сухарев Игорь Николаевич": 88,
-      "Туршинов Дидар Саулебаевич": 2,
-      "Уралов Семен Сергеевич": 6,
-      "Щепинов Максим Александрович": 1
+      "gas:candidate-vibid:25620001004303": 7,
+      "gas:candidate-vibid:25620001004760": 2,
+      "gas:candidate-vibid:2562000991769": 17,
+      "gas:candidate-vibid:25620001004637": 7,
+      "gas:candidate-vibid:25620001004626": 3,
+      "gas:candidate-vibid:25620001004382": 2,
+      "gas:candidate-vibid:25620001003807": 88,
+      "gas:candidate-vibid:25620001004748": 2,
+      "gas:candidate-vibid:25620001001594": 6,
+      "gas:candidate-vibid:2562000997696": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000188&tvd=2562000922499&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922499&type=464",
@@ -11083,16 +11083,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асяев Фаик Инсафович": 28,
-      "Головина Татьяна Александровна": 17,
-      "Катасонов Сергей Михайлович": 112,
-      "Климова Ирина Александровна": 16,
-      "Лазаров Георги Атанасов": 8,
-      "Мунжасаров Нурлан Нурмагамбетович": 34,
-      "Сухарев Игорь Николаевич": 489,
-      "Туршинов Дидар Саулебаевич": 8,
-      "Уралов Семен Сергеевич": 120,
-      "Щепинов Максим Александрович": 9
+      "gas:candidate-vibid:25620001004303": 28,
+      "gas:candidate-vibid:25620001004760": 17,
+      "gas:candidate-vibid:2562000991769": 112,
+      "gas:candidate-vibid:25620001004637": 16,
+      "gas:candidate-vibid:25620001004626": 8,
+      "gas:candidate-vibid:25620001004382": 34,
+      "gas:candidate-vibid:25620001003807": 489,
+      "gas:candidate-vibid:25620001004748": 8,
+      "gas:candidate-vibid:25620001001594": 120,
+      "gas:candidate-vibid:2562000997696": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000188&tvd=2562000922499&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922499&type=464",
@@ -11143,16 +11143,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асяев Фаик Инсафович": 7,
-      "Головина Татьяна Александровна": 9,
-      "Катасонов Сергей Михайлович": 69,
-      "Климова Ирина Александровна": 8,
-      "Лазаров Георги Атанасов": 2,
-      "Мунжасаров Нурлан Нурмагамбетович": 16,
-      "Сухарев Игорь Николаевич": 103,
-      "Туршинов Дидар Саулебаевич": 3,
-      "Уралов Семен Сергеевич": 69,
-      "Щепинов Максим Александрович": 4
+      "gas:candidate-vibid:25620001004303": 7,
+      "gas:candidate-vibid:25620001004760": 9,
+      "gas:candidate-vibid:2562000991769": 69,
+      "gas:candidate-vibid:25620001004637": 8,
+      "gas:candidate-vibid:25620001004626": 2,
+      "gas:candidate-vibid:25620001004382": 16,
+      "gas:candidate-vibid:25620001003807": 103,
+      "gas:candidate-vibid:25620001004748": 3,
+      "gas:candidate-vibid:25620001001594": 69,
+      "gas:candidate-vibid:2562000997696": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000188&tvd=2562000922499&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922499&type=464",
@@ -11203,16 +11203,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асяев Фаик Инсафович": 18,
-      "Головина Татьяна Александровна": 11,
-      "Катасонов Сергей Михайлович": 100,
-      "Климова Ирина Александровна": 12,
-      "Лазаров Георги Атанасов": 3,
-      "Мунжасаров Нурлан Нурмагамбетович": 28,
-      "Сухарев Игорь Николаевич": 119,
-      "Туршинов Дидар Саулебаевич": 5,
-      "Уралов Семен Сергеевич": 75,
-      "Щепинов Максим Александрович": 6
+      "gas:candidate-vibid:25620001004303": 18,
+      "gas:candidate-vibid:25620001004760": 11,
+      "gas:candidate-vibid:2562000991769": 100,
+      "gas:candidate-vibid:25620001004637": 12,
+      "gas:candidate-vibid:25620001004626": 3,
+      "gas:candidate-vibid:25620001004382": 28,
+      "gas:candidate-vibid:25620001003807": 119,
+      "gas:candidate-vibid:25620001004748": 5,
+      "gas:candidate-vibid:25620001001594": 75,
+      "gas:candidate-vibid:2562000997696": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000188&tvd=2562000922499&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922499&type=464",
@@ -11263,16 +11263,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асяев Фаик Инсафович": 26,
-      "Головина Татьяна Александровна": 22,
-      "Катасонов Сергей Михайлович": 165,
-      "Климова Ирина Александровна": 17,
-      "Лазаров Георги Атанасов": 11,
-      "Мунжасаров Нурлан Нурмагамбетович": 47,
-      "Сухарев Игорь Николаевич": 230,
-      "Туршинов Дидар Саулебаевич": 2,
-      "Уралов Семен Сергеевич": 126,
-      "Щепинов Максим Александрович": 6
+      "gas:candidate-vibid:25620001004303": 26,
+      "gas:candidate-vibid:25620001004760": 22,
+      "gas:candidate-vibid:2562000991769": 165,
+      "gas:candidate-vibid:25620001004637": 17,
+      "gas:candidate-vibid:25620001004626": 11,
+      "gas:candidate-vibid:25620001004382": 47,
+      "gas:candidate-vibid:25620001003807": 230,
+      "gas:candidate-vibid:25620001004748": 2,
+      "gas:candidate-vibid:25620001001594": 126,
+      "gas:candidate-vibid:2562000997696": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000188&tvd=2562000922499&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922499&type=464",
@@ -11323,16 +11323,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асяев Фаик Инсафович": 3,
-      "Головина Татьяна Александровна": 0,
-      "Катасонов Сергей Михайлович": 19,
-      "Климова Ирина Александровна": 2,
-      "Лазаров Георги Атанасов": 0,
-      "Мунжасаров Нурлан Нурмагамбетович": 5,
-      "Сухарев Игорь Николаевич": 38,
-      "Туршинов Дидар Саулебаевич": 2,
-      "Уралов Семен Сергеевич": 2,
-      "Щепинов Максим Александрович": 1
+      "gas:candidate-vibid:25620001004303": 3,
+      "gas:candidate-vibid:25620001004760": 0,
+      "gas:candidate-vibid:2562000991769": 19,
+      "gas:candidate-vibid:25620001004637": 2,
+      "gas:candidate-vibid:25620001004626": 0,
+      "gas:candidate-vibid:25620001004382": 5,
+      "gas:candidate-vibid:25620001003807": 38,
+      "gas:candidate-vibid:25620001004748": 2,
+      "gas:candidate-vibid:25620001001594": 2,
+      "gas:candidate-vibid:2562000997696": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000188&tvd=2562000922499&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922499&type=464",
@@ -11383,16 +11383,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асяев Фаик Инсафович": 9,
-      "Головина Татьяна Александровна": 7,
-      "Катасонов Сергей Михайлович": 72,
-      "Климова Ирина Александровна": 8,
-      "Лазаров Георги Атанасов": 2,
-      "Мунжасаров Нурлан Нурмагамбетович": 11,
-      "Сухарев Игорь Николаевич": 170,
-      "Туршинов Дидар Саулебаевич": 1,
-      "Уралов Семен Сергеевич": 37,
-      "Щепинов Максим Александрович": 4
+      "gas:candidate-vibid:25620001004303": 9,
+      "gas:candidate-vibid:25620001004760": 7,
+      "gas:candidate-vibid:2562000991769": 72,
+      "gas:candidate-vibid:25620001004637": 8,
+      "gas:candidate-vibid:25620001004626": 2,
+      "gas:candidate-vibid:25620001004382": 11,
+      "gas:candidate-vibid:25620001003807": 170,
+      "gas:candidate-vibid:25620001004748": 1,
+      "gas:candidate-vibid:25620001001594": 37,
+      "gas:candidate-vibid:2562000997696": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000188&tvd=2562000922499&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922499&type=464",
@@ -11443,16 +11443,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асяев Фаик Инсафович": 2,
-      "Головина Татьяна Александровна": 2,
-      "Катасонов Сергей Михайлович": 18,
-      "Климова Ирина Александровна": 2,
-      "Лазаров Георги Атанасов": 0,
-      "Мунжасаров Нурлан Нурмагамбетович": 1,
-      "Сухарев Игорь Николаевич": 25,
-      "Туршинов Дидар Саулебаевич": 1,
-      "Уралов Семен Сергеевич": 1,
-      "Щепинов Максим Александрович": 0
+      "gas:candidate-vibid:25620001004303": 2,
+      "gas:candidate-vibid:25620001004760": 2,
+      "gas:candidate-vibid:2562000991769": 18,
+      "gas:candidate-vibid:25620001004637": 2,
+      "gas:candidate-vibid:25620001004626": 0,
+      "gas:candidate-vibid:25620001004382": 1,
+      "gas:candidate-vibid:25620001003807": 25,
+      "gas:candidate-vibid:25620001004748": 1,
+      "gas:candidate-vibid:25620001001594": 1,
+      "gas:candidate-vibid:2562000997696": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000188&tvd=2562000922499&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922499&type=464",
@@ -11503,16 +11503,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асяев Фаик Инсафович": 8,
-      "Головина Татьяна Александровна": 2,
-      "Катасонов Сергей Михайлович": 30,
-      "Климова Ирина Александровна": 4,
-      "Лазаров Георги Атанасов": 1,
-      "Мунжасаров Нурлан Нурмагамбетович": 5,
-      "Сухарев Игорь Николаевич": 113,
-      "Туршинов Дидар Саулебаевич": 1,
-      "Уралов Семен Сергеевич": 20,
-      "Щепинов Максим Александрович": 2
+      "gas:candidate-vibid:25620001004303": 8,
+      "gas:candidate-vibid:25620001004760": 2,
+      "gas:candidate-vibid:2562000991769": 30,
+      "gas:candidate-vibid:25620001004637": 4,
+      "gas:candidate-vibid:25620001004626": 1,
+      "gas:candidate-vibid:25620001004382": 5,
+      "gas:candidate-vibid:25620001003807": 113,
+      "gas:candidate-vibid:25620001004748": 1,
+      "gas:candidate-vibid:25620001001594": 20,
+      "gas:candidate-vibid:2562000997696": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000188&tvd=2562000922499&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922499&type=464",
@@ -11563,16 +11563,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асяев Фаик Инсафович": 13,
-      "Головина Татьяна Александровна": 8,
-      "Катасонов Сергей Михайлович": 37,
-      "Климова Ирина Александровна": 3,
-      "Лазаров Георги Атанасов": 2,
-      "Мунжасаров Нурлан Нурмагамбетович": 7,
-      "Сухарев Игорь Николаевич": 105,
-      "Туршинов Дидар Саулебаевич": 0,
-      "Уралов Семен Сергеевич": 24,
-      "Щепинов Максим Александрович": 2
+      "gas:candidate-vibid:25620001004303": 13,
+      "gas:candidate-vibid:25620001004760": 8,
+      "gas:candidate-vibid:2562000991769": 37,
+      "gas:candidate-vibid:25620001004637": 3,
+      "gas:candidate-vibid:25620001004626": 2,
+      "gas:candidate-vibid:25620001004382": 7,
+      "gas:candidate-vibid:25620001003807": 105,
+      "gas:candidate-vibid:25620001004748": 0,
+      "gas:candidate-vibid:25620001001594": 24,
+      "gas:candidate-vibid:2562000997696": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000188&tvd=2562000922499&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922499&type=464",
@@ -11623,16 +11623,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асяев Фаик Инсафович": 12,
-      "Головина Татьяна Александровна": 12,
-      "Катасонов Сергей Михайлович": 57,
-      "Климова Ирина Александровна": 20,
-      "Лазаров Георги Атанасов": 5,
-      "Мунжасаров Нурлан Нурмагамбетович": 14,
-      "Сухарев Игорь Николаевич": 231,
-      "Туршинов Дидар Саулебаевич": 2,
-      "Уралов Семен Сергеевич": 35,
-      "Щепинов Максим Александрович": 0
+      "gas:candidate-vibid:25620001004303": 12,
+      "gas:candidate-vibid:25620001004760": 12,
+      "gas:candidate-vibid:2562000991769": 57,
+      "gas:candidate-vibid:25620001004637": 20,
+      "gas:candidate-vibid:25620001004626": 5,
+      "gas:candidate-vibid:25620001004382": 14,
+      "gas:candidate-vibid:25620001003807": 231,
+      "gas:candidate-vibid:25620001004748": 2,
+      "gas:candidate-vibid:25620001001594": 35,
+      "gas:candidate-vibid:2562000997696": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000188&tvd=2562000922499&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922499&type=464",
@@ -11683,16 +11683,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асяев Фаик Инсафович": 5,
-      "Головина Татьяна Александровна": 5,
-      "Катасонов Сергей Михайлович": 28,
-      "Климова Ирина Александровна": 11,
-      "Лазаров Георги Атанасов": 2,
-      "Мунжасаров Нурлан Нурмагамбетович": 13,
-      "Сухарев Игорь Николаевич": 134,
-      "Туршинов Дидар Саулебаевич": 1,
-      "Уралов Семен Сергеевич": 33,
-      "Щепинов Максим Александрович": 7
+      "gas:candidate-vibid:25620001004303": 5,
+      "gas:candidate-vibid:25620001004760": 5,
+      "gas:candidate-vibid:2562000991769": 28,
+      "gas:candidate-vibid:25620001004637": 11,
+      "gas:candidate-vibid:25620001004626": 2,
+      "gas:candidate-vibid:25620001004382": 13,
+      "gas:candidate-vibid:25620001003807": 134,
+      "gas:candidate-vibid:25620001004748": 1,
+      "gas:candidate-vibid:25620001001594": 33,
+      "gas:candidate-vibid:2562000997696": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000188&tvd=2562000922499&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922499&type=464",
@@ -11743,16 +11743,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асяев Фаик Инсафович": 2,
-      "Головина Татьяна Александровна": 0,
-      "Катасонов Сергей Михайлович": 15,
-      "Климова Ирина Александровна": 1,
-      "Лазаров Георги Атанасов": 0,
-      "Мунжасаров Нурлан Нурмагамбетович": 2,
-      "Сухарев Игорь Николаевич": 25,
-      "Туршинов Дидар Саулебаевич": 0,
-      "Уралов Семен Сергеевич": 11,
-      "Щепинов Максим Александрович": 0
+      "gas:candidate-vibid:25620001004303": 2,
+      "gas:candidate-vibid:25620001004760": 0,
+      "gas:candidate-vibid:2562000991769": 15,
+      "gas:candidate-vibid:25620001004637": 1,
+      "gas:candidate-vibid:25620001004626": 0,
+      "gas:candidate-vibid:25620001004382": 2,
+      "gas:candidate-vibid:25620001003807": 25,
+      "gas:candidate-vibid:25620001004748": 0,
+      "gas:candidate-vibid:25620001001594": 11,
+      "gas:candidate-vibid:2562000997696": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000188&tvd=2562000922499&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922499&type=464",
@@ -11803,16 +11803,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асяев Фаик Инсафович": 1,
-      "Головина Татьяна Александровна": 1,
-      "Катасонов Сергей Михайлович": 12,
-      "Климова Ирина Александровна": 2,
-      "Лазаров Георги Атанасов": 3,
-      "Мунжасаров Нурлан Нурмагамбетович": 3,
-      "Сухарев Игорь Николаевич": 51,
-      "Туршинов Дидар Саулебаевич": 0,
-      "Уралов Семен Сергеевич": 11,
-      "Щепинов Максим Александрович": 0
+      "gas:candidate-vibid:25620001004303": 1,
+      "gas:candidate-vibid:25620001004760": 1,
+      "gas:candidate-vibid:2562000991769": 12,
+      "gas:candidate-vibid:25620001004637": 2,
+      "gas:candidate-vibid:25620001004626": 3,
+      "gas:candidate-vibid:25620001004382": 3,
+      "gas:candidate-vibid:25620001003807": 51,
+      "gas:candidate-vibid:25620001004748": 0,
+      "gas:candidate-vibid:25620001001594": 11,
+      "gas:candidate-vibid:2562000997696": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000188&tvd=2562000922499&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922499&type=464",
@@ -11863,16 +11863,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асяев Фаик Инсафович": 58,
-      "Головина Татьяна Александровна": 27,
-      "Катасонов Сергей Михайлович": 324,
-      "Климова Ирина Александровна": 29,
-      "Лазаров Георги Атанасов": 26,
-      "Мунжасаров Нурлан Нурмагамбетович": 35,
-      "Сухарев Игорь Николаевич": 250,
-      "Туршинов Дидар Саулебаевич": 8,
-      "Уралов Семен Сергеевич": 136,
-      "Щепинов Максим Александрович": 21
+      "gas:candidate-vibid:25620001004303": 58,
+      "gas:candidate-vibid:25620001004760": 27,
+      "gas:candidate-vibid:2562000991769": 324,
+      "gas:candidate-vibid:25620001004637": 29,
+      "gas:candidate-vibid:25620001004626": 26,
+      "gas:candidate-vibid:25620001004382": 35,
+      "gas:candidate-vibid:25620001003807": 250,
+      "gas:candidate-vibid:25620001004748": 8,
+      "gas:candidate-vibid:25620001001594": 136,
+      "gas:candidate-vibid:2562000997696": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000188&tvd=2562000922500&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922500&type=464",
@@ -11923,16 +11923,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асяев Фаик Инсафович": 31,
-      "Головина Татьяна Александровна": 11,
-      "Катасонов Сергей Михайлович": 212,
-      "Климова Ирина Александровна": 14,
-      "Лазаров Георги Атанасов": 16,
-      "Мунжасаров Нурлан Нурмагамбетович": 48,
-      "Сухарев Игорь Николаевич": 154,
-      "Туршинов Дидар Саулебаевич": 7,
-      "Уралов Семен Сергеевич": 67,
-      "Щепинов Максим Александрович": 21
+      "gas:candidate-vibid:25620001004303": 31,
+      "gas:candidate-vibid:25620001004760": 11,
+      "gas:candidate-vibid:2562000991769": 212,
+      "gas:candidate-vibid:25620001004637": 14,
+      "gas:candidate-vibid:25620001004626": 16,
+      "gas:candidate-vibid:25620001004382": 48,
+      "gas:candidate-vibid:25620001003807": 154,
+      "gas:candidate-vibid:25620001004748": 7,
+      "gas:candidate-vibid:25620001001594": 67,
+      "gas:candidate-vibid:2562000997696": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000188&tvd=2562000922500&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922500&type=464",
@@ -11983,16 +11983,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асяев Фаик Инсафович": 24,
-      "Головина Татьяна Александровна": 6,
-      "Катасонов Сергей Михайлович": 131,
-      "Климова Ирина Александровна": 5,
-      "Лазаров Георги Атанасов": 14,
-      "Мунжасаров Нурлан Нурмагамбетович": 21,
-      "Сухарев Игорь Николаевич": 128,
-      "Туршинов Дидар Саулебаевич": 7,
-      "Уралов Семен Сергеевич": 37,
-      "Щепинов Максим Александрович": 13
+      "gas:candidate-vibid:25620001004303": 24,
+      "gas:candidate-vibid:25620001004760": 6,
+      "gas:candidate-vibid:2562000991769": 131,
+      "gas:candidate-vibid:25620001004637": 5,
+      "gas:candidate-vibid:25620001004626": 14,
+      "gas:candidate-vibid:25620001004382": 21,
+      "gas:candidate-vibid:25620001003807": 128,
+      "gas:candidate-vibid:25620001004748": 7,
+      "gas:candidate-vibid:25620001001594": 37,
+      "gas:candidate-vibid:2562000997696": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000188&tvd=2562000922500&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922500&type=464",
@@ -12043,16 +12043,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асяев Фаик Инсафович": 19,
-      "Головина Татьяна Александровна": 8,
-      "Катасонов Сергей Михайлович": 127,
-      "Климова Ирина Александровна": 11,
-      "Лазаров Георги Атанасов": 9,
-      "Мунжасаров Нурлан Нурмагамбетович": 10,
-      "Сухарев Игорь Николаевич": 177,
-      "Туршинов Дидар Саулебаевич": 6,
-      "Уралов Семен Сергеевич": 45,
-      "Щепинов Максим Александрович": 12
+      "gas:candidate-vibid:25620001004303": 19,
+      "gas:candidate-vibid:25620001004760": 8,
+      "gas:candidate-vibid:2562000991769": 127,
+      "gas:candidate-vibid:25620001004637": 11,
+      "gas:candidate-vibid:25620001004626": 9,
+      "gas:candidate-vibid:25620001004382": 10,
+      "gas:candidate-vibid:25620001003807": 177,
+      "gas:candidate-vibid:25620001004748": 6,
+      "gas:candidate-vibid:25620001001594": 45,
+      "gas:candidate-vibid:2562000997696": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000188&tvd=2562000922500&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922500&type=464",
@@ -12103,16 +12103,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асяев Фаик Инсафович": 41,
-      "Головина Татьяна Александровна": 14,
-      "Катасонов Сергей Михайлович": 195,
-      "Климова Ирина Александровна": 7,
-      "Лазаров Георги Атанасов": 20,
-      "Мунжасаров Нурлан Нурмагамбетович": 47,
-      "Сухарев Игорь Николаевич": 188,
-      "Туршинов Дидар Саулебаевич": 10,
-      "Уралов Семен Сергеевич": 71,
-      "Щепинов Максим Александрович": 27
+      "gas:candidate-vibid:25620001004303": 41,
+      "gas:candidate-vibid:25620001004760": 14,
+      "gas:candidate-vibid:2562000991769": 195,
+      "gas:candidate-vibid:25620001004637": 7,
+      "gas:candidate-vibid:25620001004626": 20,
+      "gas:candidate-vibid:25620001004382": 47,
+      "gas:candidate-vibid:25620001003807": 188,
+      "gas:candidate-vibid:25620001004748": 10,
+      "gas:candidate-vibid:25620001001594": 71,
+      "gas:candidate-vibid:2562000997696": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000188&tvd=2562000922500&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922500&type=464",
@@ -12163,16 +12163,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асяев Фаик Инсафович": 10,
-      "Головина Татьяна Александровна": 4,
-      "Катасонов Сергей Михайлович": 199,
-      "Климова Ирина Александровна": 5,
-      "Лазаров Георги Атанасов": 3,
-      "Мунжасаров Нурлан Нурмагамбетович": 18,
-      "Сухарев Игорь Николаевич": 200,
-      "Туршинов Дидар Саулебаевич": 0,
-      "Уралов Семен Сергеевич": 62,
-      "Щепинов Максим Александрович": 9
+      "gas:candidate-vibid:25620001004303": 10,
+      "gas:candidate-vibid:25620001004760": 4,
+      "gas:candidate-vibid:2562000991769": 199,
+      "gas:candidate-vibid:25620001004637": 5,
+      "gas:candidate-vibid:25620001004626": 3,
+      "gas:candidate-vibid:25620001004382": 18,
+      "gas:candidate-vibid:25620001003807": 200,
+      "gas:candidate-vibid:25620001004748": 0,
+      "gas:candidate-vibid:25620001001594": 62,
+      "gas:candidate-vibid:2562000997696": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000188&tvd=2562000922500&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922500&type=464",
@@ -12223,16 +12223,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асяев Фаик Инсафович": 63,
-      "Головина Татьяна Александровна": 12,
-      "Катасонов Сергей Михайлович": 258,
-      "Климова Ирина Александровна": 21,
-      "Лазаров Георги Атанасов": 27,
-      "Мунжасаров Нурлан Нурмагамбетович": 41,
-      "Сухарев Игорь Николаевич": 191,
-      "Туршинов Дидар Саулебаевич": 18,
-      "Уралов Семен Сергеевич": 93,
-      "Щепинов Максим Александрович": 10
+      "gas:candidate-vibid:25620001004303": 63,
+      "gas:candidate-vibid:25620001004760": 12,
+      "gas:candidate-vibid:2562000991769": 258,
+      "gas:candidate-vibid:25620001004637": 21,
+      "gas:candidate-vibid:25620001004626": 27,
+      "gas:candidate-vibid:25620001004382": 41,
+      "gas:candidate-vibid:25620001003807": 191,
+      "gas:candidate-vibid:25620001004748": 18,
+      "gas:candidate-vibid:25620001001594": 93,
+      "gas:candidate-vibid:2562000997696": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000188&tvd=2562000922500&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922500&type=464",
@@ -12283,16 +12283,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асяев Фаик Инсафович": 39,
-      "Головина Татьяна Александровна": 15,
-      "Катасонов Сергей Михайлович": 233,
-      "Климова Ирина Александровна": 17,
-      "Лазаров Георги Атанасов": 24,
-      "Мунжасаров Нурлан Нурмагамбетович": 41,
-      "Сухарев Игорь Николаевич": 253,
-      "Туршинов Дидар Саулебаевич": 4,
-      "Уралов Семен Сергеевич": 96,
-      "Щепинов Максим Александрович": 14
+      "gas:candidate-vibid:25620001004303": 39,
+      "gas:candidate-vibid:25620001004760": 15,
+      "gas:candidate-vibid:2562000991769": 233,
+      "gas:candidate-vibid:25620001004637": 17,
+      "gas:candidate-vibid:25620001004626": 24,
+      "gas:candidate-vibid:25620001004382": 41,
+      "gas:candidate-vibid:25620001003807": 253,
+      "gas:candidate-vibid:25620001004748": 4,
+      "gas:candidate-vibid:25620001001594": 96,
+      "gas:candidate-vibid:2562000997696": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000188&tvd=2562000922500&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922500&type=464",
@@ -12343,16 +12343,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асяев Фаик Инсафович": 38,
-      "Головина Татьяна Александровна": 12,
-      "Катасонов Сергей Михайлович": 167,
-      "Климова Ирина Александровна": 10,
-      "Лазаров Георги Атанасов": 15,
-      "Мунжасаров Нурлан Нурмагамбетович": 32,
-      "Сухарев Игорь Николаевич": 167,
-      "Туршинов Дидар Саулебаевич": 5,
-      "Уралов Семен Сергеевич": 57,
-      "Щепинов Максим Александрович": 17
+      "gas:candidate-vibid:25620001004303": 38,
+      "gas:candidate-vibid:25620001004760": 12,
+      "gas:candidate-vibid:2562000991769": 167,
+      "gas:candidate-vibid:25620001004637": 10,
+      "gas:candidate-vibid:25620001004626": 15,
+      "gas:candidate-vibid:25620001004382": 32,
+      "gas:candidate-vibid:25620001003807": 167,
+      "gas:candidate-vibid:25620001004748": 5,
+      "gas:candidate-vibid:25620001001594": 57,
+      "gas:candidate-vibid:2562000997696": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000188&tvd=2562000922500&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922500&type=464",
@@ -12403,16 +12403,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асяев Фаик Инсафович": 29,
-      "Головина Татьяна Александровна": 9,
-      "Катасонов Сергей Михайлович": 224,
-      "Климова Ирина Александровна": 13,
-      "Лазаров Георги Атанасов": 12,
-      "Мунжасаров Нурлан Нурмагамбетович": 22,
-      "Сухарев Игорь Николаевич": 171,
-      "Туршинов Дидар Саулебаевич": 6,
-      "Уралов Семен Сергеевич": 64,
-      "Щепинов Максим Александрович": 11
+      "gas:candidate-vibid:25620001004303": 29,
+      "gas:candidate-vibid:25620001004760": 9,
+      "gas:candidate-vibid:2562000991769": 224,
+      "gas:candidate-vibid:25620001004637": 13,
+      "gas:candidate-vibid:25620001004626": 12,
+      "gas:candidate-vibid:25620001004382": 22,
+      "gas:candidate-vibid:25620001003807": 171,
+      "gas:candidate-vibid:25620001004748": 6,
+      "gas:candidate-vibid:25620001001594": 64,
+      "gas:candidate-vibid:2562000997696": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000188&tvd=2562000922500&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922500&type=464",
@@ -12463,16 +12463,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асяев Фаик Инсафович": 21,
-      "Головина Татьяна Александровна": 5,
-      "Катасонов Сергей Михайлович": 125,
-      "Климова Ирина Александровна": 4,
-      "Лазаров Георги Атанасов": 3,
-      "Мунжасаров Нурлан Нурмагамбетович": 16,
-      "Сухарев Игорь Николаевич": 126,
-      "Туршинов Дидар Саулебаевич": 4,
-      "Уралов Семен Сергеевич": 29,
-      "Щепинов Максим Александрович": 5
+      "gas:candidate-vibid:25620001004303": 21,
+      "gas:candidate-vibid:25620001004760": 5,
+      "gas:candidate-vibid:2562000991769": 125,
+      "gas:candidate-vibid:25620001004637": 4,
+      "gas:candidate-vibid:25620001004626": 3,
+      "gas:candidate-vibid:25620001004382": 16,
+      "gas:candidate-vibid:25620001003807": 126,
+      "gas:candidate-vibid:25620001004748": 4,
+      "gas:candidate-vibid:25620001001594": 29,
+      "gas:candidate-vibid:2562000997696": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000188&tvd=2562000922500&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922500&type=464",
@@ -12523,16 +12523,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асяев Фаик Инсафович": 54,
-      "Головина Татьяна Александровна": 22,
-      "Катасонов Сергей Михайлович": 275,
-      "Климова Ирина Александровна": 18,
-      "Лазаров Георги Атанасов": 11,
-      "Мунжасаров Нурлан Нурмагамбетович": 38,
-      "Сухарев Игорь Николаевич": 229,
-      "Туршинов Дидар Саулебаевич": 12,
-      "Уралов Семен Сергеевич": 147,
-      "Щепинов Максим Александрович": 21
+      "gas:candidate-vibid:25620001004303": 54,
+      "gas:candidate-vibid:25620001004760": 22,
+      "gas:candidate-vibid:2562000991769": 275,
+      "gas:candidate-vibid:25620001004637": 18,
+      "gas:candidate-vibid:25620001004626": 11,
+      "gas:candidate-vibid:25620001004382": 38,
+      "gas:candidate-vibid:25620001003807": 229,
+      "gas:candidate-vibid:25620001004748": 12,
+      "gas:candidate-vibid:25620001001594": 147,
+      "gas:candidate-vibid:2562000997696": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000188&tvd=2562000922500&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922500&type=464",
@@ -12583,16 +12583,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асяев Фаик Инсафович": 44,
-      "Головина Татьяна Александровна": 7,
-      "Катасонов Сергей Михайлович": 217,
-      "Климова Ирина Александровна": 10,
-      "Лазаров Георги Атанасов": 17,
-      "Мунжасаров Нурлан Нурмагамбетович": 38,
-      "Сухарев Игорь Николаевич": 223,
-      "Туршинов Дидар Саулебаевич": 8,
-      "Уралов Семен Сергеевич": 76,
-      "Щепинов Максим Александрович": 18
+      "gas:candidate-vibid:25620001004303": 44,
+      "gas:candidate-vibid:25620001004760": 7,
+      "gas:candidate-vibid:2562000991769": 217,
+      "gas:candidate-vibid:25620001004637": 10,
+      "gas:candidate-vibid:25620001004626": 17,
+      "gas:candidate-vibid:25620001004382": 38,
+      "gas:candidate-vibid:25620001003807": 223,
+      "gas:candidate-vibid:25620001004748": 8,
+      "gas:candidate-vibid:25620001001594": 76,
+      "gas:candidate-vibid:2562000997696": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000188&tvd=2562000922500&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922500&type=464",
@@ -12643,16 +12643,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асяев Фаик Инсафович": 45,
-      "Головина Татьяна Александровна": 32,
-      "Катасонов Сергей Михайлович": 264,
-      "Климова Ирина Александровна": 14,
-      "Лазаров Георги Атанасов": 29,
-      "Мунжасаров Нурлан Нурмагамбетович": 36,
-      "Сухарев Игорь Николаевич": 282,
-      "Туршинов Дидар Саулебаевич": 11,
-      "Уралов Семен Сергеевич": 126,
-      "Щепинов Максим Александрович": 26
+      "gas:candidate-vibid:25620001004303": 45,
+      "gas:candidate-vibid:25620001004760": 32,
+      "gas:candidate-vibid:2562000991769": 264,
+      "gas:candidate-vibid:25620001004637": 14,
+      "gas:candidate-vibid:25620001004626": 29,
+      "gas:candidate-vibid:25620001004382": 36,
+      "gas:candidate-vibid:25620001003807": 282,
+      "gas:candidate-vibid:25620001004748": 11,
+      "gas:candidate-vibid:25620001001594": 126,
+      "gas:candidate-vibid:2562000997696": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000188&tvd=2562000922500&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922500&type=464",
@@ -12703,16 +12703,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асяев Фаик Инсафович": 16,
-      "Головина Татьяна Александровна": 13,
-      "Катасонов Сергей Михайлович": 229,
-      "Климова Ирина Александровна": 13,
-      "Лазаров Георги Атанасов": 5,
-      "Мунжасаров Нурлан Нурмагамбетович": 24,
-      "Сухарев Игорь Николаевич": 166,
-      "Туршинов Дидар Саулебаевич": 3,
-      "Уралов Семен Сергеевич": 55,
-      "Щепинов Максим Александрович": 11
+      "gas:candidate-vibid:25620001004303": 16,
+      "gas:candidate-vibid:25620001004760": 13,
+      "gas:candidate-vibid:2562000991769": 229,
+      "gas:candidate-vibid:25620001004637": 13,
+      "gas:candidate-vibid:25620001004626": 5,
+      "gas:candidate-vibid:25620001004382": 24,
+      "gas:candidate-vibid:25620001003807": 166,
+      "gas:candidate-vibid:25620001004748": 3,
+      "gas:candidate-vibid:25620001001594": 55,
+      "gas:candidate-vibid:2562000997696": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000188&tvd=2562000922500&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922500&type=464",
@@ -12763,16 +12763,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асяев Фаик Инсафович": 27,
-      "Головина Татьяна Александровна": 17,
-      "Катасонов Сергей Михайлович": 236,
-      "Климова Ирина Александровна": 14,
-      "Лазаров Георги Атанасов": 17,
-      "Мунжасаров Нурлан Нурмагамбетович": 39,
-      "Сухарев Игорь Николаевич": 270,
-      "Туршинов Дидар Саулебаевич": 6,
-      "Уралов Семен Сергеевич": 106,
-      "Щепинов Максим Александрович": 12
+      "gas:candidate-vibid:25620001004303": 27,
+      "gas:candidate-vibid:25620001004760": 17,
+      "gas:candidate-vibid:2562000991769": 236,
+      "gas:candidate-vibid:25620001004637": 14,
+      "gas:candidate-vibid:25620001004626": 17,
+      "gas:candidate-vibid:25620001004382": 39,
+      "gas:candidate-vibid:25620001003807": 270,
+      "gas:candidate-vibid:25620001004748": 6,
+      "gas:candidate-vibid:25620001001594": 106,
+      "gas:candidate-vibid:2562000997696": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000188&tvd=2562000922500&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922500&type=464",
@@ -12823,16 +12823,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асяев Фаик Инсафович": 29,
-      "Головина Татьяна Александровна": 7,
-      "Катасонов Сергей Михайлович": 197,
-      "Климова Ирина Александровна": 13,
-      "Лазаров Георги Атанасов": 12,
-      "Мунжасаров Нурлан Нурмагамбетович": 30,
-      "Сухарев Игорь Николаевич": 197,
-      "Туршинов Дидар Саулебаевич": 7,
-      "Уралов Семен Сергеевич": 72,
-      "Щепинов Максим Александрович": 19
+      "gas:candidate-vibid:25620001004303": 29,
+      "gas:candidate-vibid:25620001004760": 7,
+      "gas:candidate-vibid:2562000991769": 197,
+      "gas:candidate-vibid:25620001004637": 13,
+      "gas:candidate-vibid:25620001004626": 12,
+      "gas:candidate-vibid:25620001004382": 30,
+      "gas:candidate-vibid:25620001003807": 197,
+      "gas:candidate-vibid:25620001004748": 7,
+      "gas:candidate-vibid:25620001001594": 72,
+      "gas:candidate-vibid:2562000997696": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000188&tvd=2562000922500&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922500&type=464",
@@ -12883,16 +12883,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асяев Фаик Инсафович": 21,
-      "Головина Татьяна Александровна": 11,
-      "Катасонов Сергей Михайлович": 179,
-      "Климова Ирина Александровна": 7,
-      "Лазаров Георги Атанасов": 9,
-      "Мунжасаров Нурлан Нурмагамбетович": 19,
-      "Сухарев Игорь Николаевич": 151,
-      "Туршинов Дидар Саулебаевич": 3,
-      "Уралов Семен Сергеевич": 66,
-      "Щепинов Максим Александрович": 12
+      "gas:candidate-vibid:25620001004303": 21,
+      "gas:candidate-vibid:25620001004760": 11,
+      "gas:candidate-vibid:2562000991769": 179,
+      "gas:candidate-vibid:25620001004637": 7,
+      "gas:candidate-vibid:25620001004626": 9,
+      "gas:candidate-vibid:25620001004382": 19,
+      "gas:candidate-vibid:25620001003807": 151,
+      "gas:candidate-vibid:25620001004748": 3,
+      "gas:candidate-vibid:25620001001594": 66,
+      "gas:candidate-vibid:2562000997696": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000188&tvd=2562000922500&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922500&type=464",
@@ -12943,16 +12943,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асяев Фаик Инсафович": 27,
-      "Головина Татьяна Александровна": 16,
-      "Катасонов Сергей Михайлович": 227,
-      "Климова Ирина Александровна": 9,
-      "Лазаров Георги Атанасов": 7,
-      "Мунжасаров Нурлан Нурмагамбетович": 26,
-      "Сухарев Игорь Николаевич": 233,
-      "Туршинов Дидар Саулебаевич": 10,
-      "Уралов Семен Сергеевич": 83,
-      "Щепинов Максим Александрович": 19
+      "gas:candidate-vibid:25620001004303": 27,
+      "gas:candidate-vibid:25620001004760": 16,
+      "gas:candidate-vibid:2562000991769": 227,
+      "gas:candidate-vibid:25620001004637": 9,
+      "gas:candidate-vibid:25620001004626": 7,
+      "gas:candidate-vibid:25620001004382": 26,
+      "gas:candidate-vibid:25620001003807": 233,
+      "gas:candidate-vibid:25620001004748": 10,
+      "gas:candidate-vibid:25620001001594": 83,
+      "gas:candidate-vibid:2562000997696": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000188&tvd=2562000922500&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922500&type=464",
@@ -13003,16 +13003,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асяев Фаик Инсафович": 40,
-      "Головина Татьяна Александровна": 14,
-      "Катасонов Сергей Михайлович": 238,
-      "Климова Ирина Александровна": 20,
-      "Лазаров Георги Атанасов": 10,
-      "Мунжасаров Нурлан Нурмагамбетович": 46,
-      "Сухарев Игорь Николаевич": 242,
-      "Туршинов Дидар Саулебаевич": 4,
-      "Уралов Семен Сергеевич": 96,
-      "Щепинов Максим Александрович": 30
+      "gas:candidate-vibid:25620001004303": 40,
+      "gas:candidate-vibid:25620001004760": 14,
+      "gas:candidate-vibid:2562000991769": 238,
+      "gas:candidate-vibid:25620001004637": 20,
+      "gas:candidate-vibid:25620001004626": 10,
+      "gas:candidate-vibid:25620001004382": 46,
+      "gas:candidate-vibid:25620001003807": 242,
+      "gas:candidate-vibid:25620001004748": 4,
+      "gas:candidate-vibid:25620001001594": 96,
+      "gas:candidate-vibid:2562000997696": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000188&tvd=2562000922500&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922500&type=464",
@@ -13063,16 +13063,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асяев Фаик Инсафович": 25,
-      "Головина Татьяна Александровна": 7,
-      "Катасонов Сергей Михайлович": 94,
-      "Климова Ирина Александровна": 3,
-      "Лазаров Георги Атанасов": 4,
-      "Мунжасаров Нурлан Нурмагамбетович": 13,
-      "Сухарев Игорь Николаевич": 93,
-      "Туршинов Дидар Саулебаевич": 7,
-      "Уралов Семен Сергеевич": 43,
-      "Щепинов Максим Александрович": 5
+      "gas:candidate-vibid:25620001004303": 25,
+      "gas:candidate-vibid:25620001004760": 7,
+      "gas:candidate-vibid:2562000991769": 94,
+      "gas:candidate-vibid:25620001004637": 3,
+      "gas:candidate-vibid:25620001004626": 4,
+      "gas:candidate-vibid:25620001004382": 13,
+      "gas:candidate-vibid:25620001003807": 93,
+      "gas:candidate-vibid:25620001004748": 7,
+      "gas:candidate-vibid:25620001001594": 43,
+      "gas:candidate-vibid:2562000997696": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000188&tvd=2562000922500&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922500&type=464",
@@ -13123,16 +13123,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асяев Фаик Инсафович": 47,
-      "Головина Татьяна Александровна": 12,
-      "Катасонов Сергей Михайлович": 247,
-      "Климова Ирина Александровна": 16,
-      "Лазаров Георги Атанасов": 26,
-      "Мунжасаров Нурлан Нурмагамбетович": 39,
-      "Сухарев Игорь Николаевич": 222,
-      "Туршинов Дидар Саулебаевич": 12,
-      "Уралов Семен Сергеевич": 94,
-      "Щепинов Максим Александрович": 22
+      "gas:candidate-vibid:25620001004303": 47,
+      "gas:candidate-vibid:25620001004760": 12,
+      "gas:candidate-vibid:2562000991769": 247,
+      "gas:candidate-vibid:25620001004637": 16,
+      "gas:candidate-vibid:25620001004626": 26,
+      "gas:candidate-vibid:25620001004382": 39,
+      "gas:candidate-vibid:25620001003807": 222,
+      "gas:candidate-vibid:25620001004748": 12,
+      "gas:candidate-vibid:25620001001594": 94,
+      "gas:candidate-vibid:2562000997696": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000188&tvd=2562000922500&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922500&type=464",
@@ -13183,16 +13183,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асяев Фаик Инсафович": 49,
-      "Головина Татьяна Александровна": 23,
-      "Катасонов Сергей Михайлович": 257,
-      "Климова Ирина Александровна": 9,
-      "Лазаров Георги Атанасов": 18,
-      "Мунжасаров Нурлан Нурмагамбетович": 47,
-      "Сухарев Игорь Николаевич": 185,
-      "Туршинов Дидар Саулебаевич": 6,
-      "Уралов Семен Сергеевич": 104,
-      "Щепинов Максим Александрович": 18
+      "gas:candidate-vibid:25620001004303": 49,
+      "gas:candidate-vibid:25620001004760": 23,
+      "gas:candidate-vibid:2562000991769": 257,
+      "gas:candidate-vibid:25620001004637": 9,
+      "gas:candidate-vibid:25620001004626": 18,
+      "gas:candidate-vibid:25620001004382": 47,
+      "gas:candidate-vibid:25620001003807": 185,
+      "gas:candidate-vibid:25620001004748": 6,
+      "gas:candidate-vibid:25620001001594": 104,
+      "gas:candidate-vibid:2562000997696": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000188&tvd=2562000922500&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922500&type=464",
@@ -13243,16 +13243,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асяев Фаик Инсафович": 40,
-      "Головина Татьяна Александровна": 18,
-      "Катасонов Сергей Михайлович": 260,
-      "Климова Ирина Александровна": 22,
-      "Лазаров Георги Атанасов": 15,
-      "Мунжасаров Нурлан Нурмагамбетович": 24,
-      "Сухарев Игорь Николаевич": 321,
-      "Туршинов Дидар Саулебаевич": 7,
-      "Уралов Семен Сергеевич": 91,
-      "Щепинов Максим Александрович": 30
+      "gas:candidate-vibid:25620001004303": 40,
+      "gas:candidate-vibid:25620001004760": 18,
+      "gas:candidate-vibid:2562000991769": 260,
+      "gas:candidate-vibid:25620001004637": 22,
+      "gas:candidate-vibid:25620001004626": 15,
+      "gas:candidate-vibid:25620001004382": 24,
+      "gas:candidate-vibid:25620001003807": 321,
+      "gas:candidate-vibid:25620001004748": 7,
+      "gas:candidate-vibid:25620001001594": 91,
+      "gas:candidate-vibid:2562000997696": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000188&tvd=2562000922500&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922500&type=464",
@@ -13303,16 +13303,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асяев Фаик Инсафович": 12,
-      "Головина Татьяна Александровна": 8,
-      "Катасонов Сергей Михайлович": 153,
-      "Климова Ирина Александровна": 9,
-      "Лазаров Георги Атанасов": 10,
-      "Мунжасаров Нурлан Нурмагамбетович": 19,
-      "Сухарев Игорь Николаевич": 164,
-      "Туршинов Дидар Саулебаевич": 5,
-      "Уралов Семен Сергеевич": 34,
-      "Щепинов Максим Александрович": 8
+      "gas:candidate-vibid:25620001004303": 12,
+      "gas:candidate-vibid:25620001004760": 8,
+      "gas:candidate-vibid:2562000991769": 153,
+      "gas:candidate-vibid:25620001004637": 9,
+      "gas:candidate-vibid:25620001004626": 10,
+      "gas:candidate-vibid:25620001004382": 19,
+      "gas:candidate-vibid:25620001003807": 164,
+      "gas:candidate-vibid:25620001004748": 5,
+      "gas:candidate-vibid:25620001001594": 34,
+      "gas:candidate-vibid:2562000997696": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000188&tvd=2562000922500&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922500&type=464",
@@ -13363,16 +13363,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асяев Фаик Инсафович": 13,
-      "Головина Татьяна Александровна": 3,
-      "Катасонов Сергей Михайлович": 109,
-      "Климова Ирина Александровна": 5,
-      "Лазаров Георги Атанасов": 2,
-      "Мунжасаров Нурлан Нурмагамбетович": 10,
-      "Сухарев Игорь Николаевич": 86,
-      "Туршинов Дидар Саулебаевич": 3,
-      "Уралов Семен Сергеевич": 36,
-      "Щепинов Максим Александрович": 5
+      "gas:candidate-vibid:25620001004303": 13,
+      "gas:candidate-vibid:25620001004760": 3,
+      "gas:candidate-vibid:2562000991769": 109,
+      "gas:candidate-vibid:25620001004637": 5,
+      "gas:candidate-vibid:25620001004626": 2,
+      "gas:candidate-vibid:25620001004382": 10,
+      "gas:candidate-vibid:25620001003807": 86,
+      "gas:candidate-vibid:25620001004748": 3,
+      "gas:candidate-vibid:25620001001594": 36,
+      "gas:candidate-vibid:2562000997696": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000188&tvd=2562000922500&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922500&type=464",
@@ -13423,16 +13423,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асяев Фаик Инсафович": 17,
-      "Головина Татьяна Александровна": 6,
-      "Катасонов Сергей Михайлович": 126,
-      "Климова Ирина Александровна": 13,
-      "Лазаров Георги Атанасов": 7,
-      "Мунжасаров Нурлан Нурмагамбетович": 15,
-      "Сухарев Игорь Николаевич": 105,
-      "Туршинов Дидар Саулебаевич": 2,
-      "Уралов Семен Сергеевич": 37,
-      "Щепинов Максим Александрович": 6
+      "gas:candidate-vibid:25620001004303": 17,
+      "gas:candidate-vibid:25620001004760": 6,
+      "gas:candidate-vibid:2562000991769": 126,
+      "gas:candidate-vibid:25620001004637": 13,
+      "gas:candidate-vibid:25620001004626": 7,
+      "gas:candidate-vibid:25620001004382": 15,
+      "gas:candidate-vibid:25620001003807": 105,
+      "gas:candidate-vibid:25620001004748": 2,
+      "gas:candidate-vibid:25620001001594": 37,
+      "gas:candidate-vibid:2562000997696": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000188&tvd=2562000922500&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922500&type=464",
@@ -13483,16 +13483,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асяев Фаик Инсафович": 90,
-      "Головина Татьяна Александровна": 13,
-      "Катасонов Сергей Михайлович": 336,
-      "Климова Ирина Александровна": 13,
-      "Лазаров Георги Атанасов": 21,
-      "Мунжасаров Нурлан Нурмагамбетович": 41,
-      "Сухарев Игорь Николаевич": 334,
-      "Туршинов Дидар Саулебаевич": 10,
-      "Уралов Семен Сергеевич": 121,
-      "Щепинов Максим Александрович": 30
+      "gas:candidate-vibid:25620001004303": 90,
+      "gas:candidate-vibid:25620001004760": 13,
+      "gas:candidate-vibid:2562000991769": 336,
+      "gas:candidate-vibid:25620001004637": 13,
+      "gas:candidate-vibid:25620001004626": 21,
+      "gas:candidate-vibid:25620001004382": 41,
+      "gas:candidate-vibid:25620001003807": 334,
+      "gas:candidate-vibid:25620001004748": 10,
+      "gas:candidate-vibid:25620001001594": 121,
+      "gas:candidate-vibid:2562000997696": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000188&tvd=2562000922500&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922500&type=464",
@@ -13543,16 +13543,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асяев Фаик Инсафович": 65,
-      "Головина Татьяна Александровна": 22,
-      "Катасонов Сергей Михайлович": 256,
-      "Климова Ирина Александровна": 15,
-      "Лазаров Георги Атанасов": 24,
-      "Мунжасаров Нурлан Нурмагамбетович": 26,
-      "Сухарев Игорь Николаевич": 283,
-      "Туршинов Дидар Саулебаевич": 8,
-      "Уралов Семен Сергеевич": 123,
-      "Щепинов Максим Александрович": 24
+      "gas:candidate-vibid:25620001004303": 65,
+      "gas:candidate-vibid:25620001004760": 22,
+      "gas:candidate-vibid:2562000991769": 256,
+      "gas:candidate-vibid:25620001004637": 15,
+      "gas:candidate-vibid:25620001004626": 24,
+      "gas:candidate-vibid:25620001004382": 26,
+      "gas:candidate-vibid:25620001003807": 283,
+      "gas:candidate-vibid:25620001004748": 8,
+      "gas:candidate-vibid:25620001001594": 123,
+      "gas:candidate-vibid:2562000997696": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000188&tvd=2562000922500&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922500&type=464",
@@ -13603,16 +13603,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асяев Фаик Инсафович": 62,
-      "Головина Татьяна Александровна": 21,
-      "Катасонов Сергей Михайлович": 260,
-      "Климова Ирина Александровна": 14,
-      "Лазаров Георги Атанасов": 19,
-      "Мунжасаров Нурлан Нурмагамбетович": 34,
-      "Сухарев Игорь Николаевич": 158,
-      "Туршинов Дидар Саулебаевич": 6,
-      "Уралов Семен Сергеевич": 117,
-      "Щепинов Максим Александрович": 23
+      "gas:candidate-vibid:25620001004303": 62,
+      "gas:candidate-vibid:25620001004760": 21,
+      "gas:candidate-vibid:2562000991769": 260,
+      "gas:candidate-vibid:25620001004637": 14,
+      "gas:candidate-vibid:25620001004626": 19,
+      "gas:candidate-vibid:25620001004382": 34,
+      "gas:candidate-vibid:25620001003807": 158,
+      "gas:candidate-vibid:25620001004748": 6,
+      "gas:candidate-vibid:25620001001594": 117,
+      "gas:candidate-vibid:2562000997696": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000188&tvd=2562000922500&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922500&type=464",
@@ -13663,16 +13663,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асяев Фаик Инсафович": 47,
-      "Головина Татьяна Александровна": 14,
-      "Катасонов Сергей Михайлович": 226,
-      "Климова Ирина Александровна": 15,
-      "Лазаров Георги Атанасов": 14,
-      "Мунжасаров Нурлан Нурмагамбетович": 18,
-      "Сухарев Игорь Николаевич": 247,
-      "Туршинов Дидар Саулебаевич": 5,
-      "Уралов Семен Сергеевич": 99,
-      "Щепинов Максим Александрович": 14
+      "gas:candidate-vibid:25620001004303": 47,
+      "gas:candidate-vibid:25620001004760": 14,
+      "gas:candidate-vibid:2562000991769": 226,
+      "gas:candidate-vibid:25620001004637": 15,
+      "gas:candidate-vibid:25620001004626": 14,
+      "gas:candidate-vibid:25620001004382": 18,
+      "gas:candidate-vibid:25620001003807": 247,
+      "gas:candidate-vibid:25620001004748": 5,
+      "gas:candidate-vibid:25620001001594": 99,
+      "gas:candidate-vibid:2562000997696": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000188&tvd=2562000922500&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922500&type=464",
@@ -13723,16 +13723,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асяев Фаик Инсафович": 63,
-      "Головина Татьяна Александровна": 10,
-      "Катасонов Сергей Михайлович": 245,
-      "Климова Ирина Александровна": 16,
-      "Лазаров Георги Атанасов": 12,
-      "Мунжасаров Нурлан Нурмагамбетович": 27,
-      "Сухарев Игорь Николаевич": 208,
-      "Туршинов Дидар Саулебаевич": 8,
-      "Уралов Семен Сергеевич": 88,
-      "Щепинов Максим Александрович": 17
+      "gas:candidate-vibid:25620001004303": 63,
+      "gas:candidate-vibid:25620001004760": 10,
+      "gas:candidate-vibid:2562000991769": 245,
+      "gas:candidate-vibid:25620001004637": 16,
+      "gas:candidate-vibid:25620001004626": 12,
+      "gas:candidate-vibid:25620001004382": 27,
+      "gas:candidate-vibid:25620001003807": 208,
+      "gas:candidate-vibid:25620001004748": 8,
+      "gas:candidate-vibid:25620001001594": 88,
+      "gas:candidate-vibid:2562000997696": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000188&tvd=2562000922500&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922500&type=464",
@@ -13783,16 +13783,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асяев Фаик Инсафович": 53,
-      "Головина Татьяна Александровна": 15,
-      "Катасонов Сергей Михайлович": 205,
-      "Климова Ирина Александровна": 11,
-      "Лазаров Георги Атанасов": 23,
-      "Мунжасаров Нурлан Нурмагамбетович": 30,
-      "Сухарев Игорь Николаевич": 156,
-      "Туршинов Дидар Саулебаевич": 1,
-      "Уралов Семен Сергеевич": 70,
-      "Щепинов Максим Александрович": 16
+      "gas:candidate-vibid:25620001004303": 53,
+      "gas:candidate-vibid:25620001004760": 15,
+      "gas:candidate-vibid:2562000991769": 205,
+      "gas:candidate-vibid:25620001004637": 11,
+      "gas:candidate-vibid:25620001004626": 23,
+      "gas:candidate-vibid:25620001004382": 30,
+      "gas:candidate-vibid:25620001003807": 156,
+      "gas:candidate-vibid:25620001004748": 1,
+      "gas:candidate-vibid:25620001001594": 70,
+      "gas:candidate-vibid:2562000997696": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000188&tvd=2562000922500&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922500&type=464",
@@ -13843,16 +13843,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асяев Фаик Инсафович": 34,
-      "Головина Татьяна Александровна": 17,
-      "Катасонов Сергей Михайлович": 192,
-      "Климова Ирина Александровна": 10,
-      "Лазаров Георги Атанасов": 9,
-      "Мунжасаров Нурлан Нурмагамбетович": 25,
-      "Сухарев Игорь Николаевич": 226,
-      "Туршинов Дидар Саулебаевич": 16,
-      "Уралов Семен Сергеевич": 113,
-      "Щепинов Максим Александрович": 20
+      "gas:candidate-vibid:25620001004303": 34,
+      "gas:candidate-vibid:25620001004760": 17,
+      "gas:candidate-vibid:2562000991769": 192,
+      "gas:candidate-vibid:25620001004637": 10,
+      "gas:candidate-vibid:25620001004626": 9,
+      "gas:candidate-vibid:25620001004382": 25,
+      "gas:candidate-vibid:25620001003807": 226,
+      "gas:candidate-vibid:25620001004748": 16,
+      "gas:candidate-vibid:25620001001594": 113,
+      "gas:candidate-vibid:2562000997696": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000188&tvd=2562000922500&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922500&type=464",
@@ -13903,16 +13903,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асяев Фаик Инсафович": 51,
-      "Головина Татьяна Александровна": 11,
-      "Катасонов Сергей Михайлович": 168,
-      "Климова Ирина Александровна": 13,
-      "Лазаров Георги Атанасов": 18,
-      "Мунжасаров Нурлан Нурмагамбетович": 22,
-      "Сухарев Игорь Николаевич": 164,
-      "Туршинов Дидар Саулебаевич": 4,
-      "Уралов Семен Сергеевич": 92,
-      "Щепинов Максим Александрович": 19
+      "gas:candidate-vibid:25620001004303": 51,
+      "gas:candidate-vibid:25620001004760": 11,
+      "gas:candidate-vibid:2562000991769": 168,
+      "gas:candidate-vibid:25620001004637": 13,
+      "gas:candidate-vibid:25620001004626": 18,
+      "gas:candidate-vibid:25620001004382": 22,
+      "gas:candidate-vibid:25620001003807": 164,
+      "gas:candidate-vibid:25620001004748": 4,
+      "gas:candidate-vibid:25620001001594": 92,
+      "gas:candidate-vibid:2562000997696": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000188&tvd=2562000922500&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922500&type=464",
@@ -13963,16 +13963,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асяев Фаик Инсафович": 65,
-      "Головина Татьяна Александровна": 31,
-      "Катасонов Сергей Михайлович": 280,
-      "Климова Ирина Александровна": 39,
-      "Лазаров Георги Атанасов": 37,
-      "Мунжасаров Нурлан Нурмагамбетович": 41,
-      "Сухарев Игорь Николаевич": 454,
-      "Туршинов Дидар Саулебаевич": 12,
-      "Уралов Семен Сергеевич": 106,
-      "Щепинов Максим Александрович": 26
+      "gas:candidate-vibid:25620001004303": 65,
+      "gas:candidate-vibid:25620001004760": 31,
+      "gas:candidate-vibid:2562000991769": 280,
+      "gas:candidate-vibid:25620001004637": 39,
+      "gas:candidate-vibid:25620001004626": 37,
+      "gas:candidate-vibid:25620001004382": 41,
+      "gas:candidate-vibid:25620001003807": 454,
+      "gas:candidate-vibid:25620001004748": 12,
+      "gas:candidate-vibid:25620001001594": 106,
+      "gas:candidate-vibid:2562000997696": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000188&tvd=2562000922500&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922500&type=464",
@@ -14023,16 +14023,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асяев Фаик Инсафович": 85,
-      "Головина Татьяна Александровна": 33,
-      "Катасонов Сергей Михайлович": 329,
-      "Климова Ирина Александровна": 12,
-      "Лазаров Георги Атанасов": 29,
-      "Мунжасаров Нурлан Нурмагамбетович": 41,
-      "Сухарев Игорь Николаевич": 499,
-      "Туршинов Дидар Саулебаевич": 17,
-      "Уралов Семен Сергеевич": 183,
-      "Щепинов Максим Александрович": 29
+      "gas:candidate-vibid:25620001004303": 85,
+      "gas:candidate-vibid:25620001004760": 33,
+      "gas:candidate-vibid:2562000991769": 329,
+      "gas:candidate-vibid:25620001004637": 12,
+      "gas:candidate-vibid:25620001004626": 29,
+      "gas:candidate-vibid:25620001004382": 41,
+      "gas:candidate-vibid:25620001003807": 499,
+      "gas:candidate-vibid:25620001004748": 17,
+      "gas:candidate-vibid:25620001001594": 183,
+      "gas:candidate-vibid:2562000997696": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000188&tvd=2562000922500&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922500&type=464",
@@ -14083,16 +14083,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асяев Фаик Инсафович": 93,
-      "Головина Татьяна Александровна": 20,
-      "Катасонов Сергей Михайлович": 338,
-      "Климова Ирина Александровна": 23,
-      "Лазаров Георги Атанасов": 32,
-      "Мунжасаров Нурлан Нурмагамбетович": 39,
-      "Сухарев Игорь Николаевич": 460,
-      "Туршинов Дидар Саулебаевич": 16,
-      "Уралов Семен Сергеевич": 204,
-      "Щепинов Максим Александрович": 57
+      "gas:candidate-vibid:25620001004303": 93,
+      "gas:candidate-vibid:25620001004760": 20,
+      "gas:candidate-vibid:2562000991769": 338,
+      "gas:candidate-vibid:25620001004637": 23,
+      "gas:candidate-vibid:25620001004626": 32,
+      "gas:candidate-vibid:25620001004382": 39,
+      "gas:candidate-vibid:25620001003807": 460,
+      "gas:candidate-vibid:25620001004748": 16,
+      "gas:candidate-vibid:25620001001594": 204,
+      "gas:candidate-vibid:2562000997696": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000188&tvd=2562000922500&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922500&type=464",
@@ -14143,16 +14143,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асяев Фаик Инсафович": 45,
-      "Головина Татьяна Александровна": 9,
-      "Катасонов Сергей Михайлович": 309,
-      "Климова Ирина Александровна": 15,
-      "Лазаров Георги Атанасов": 21,
-      "Мунжасаров Нурлан Нурмагамбетович": 22,
-      "Сухарев Игорь Николаевич": 441,
-      "Туршинов Дидар Саулебаевич": 2,
-      "Уралов Семен Сергеевич": 111,
-      "Щепинов Максим Александрович": 31
+      "gas:candidate-vibid:25620001004303": 45,
+      "gas:candidate-vibid:25620001004760": 9,
+      "gas:candidate-vibid:2562000991769": 309,
+      "gas:candidate-vibid:25620001004637": 15,
+      "gas:candidate-vibid:25620001004626": 21,
+      "gas:candidate-vibid:25620001004382": 22,
+      "gas:candidate-vibid:25620001003807": 441,
+      "gas:candidate-vibid:25620001004748": 2,
+      "gas:candidate-vibid:25620001001594": 111,
+      "gas:candidate-vibid:2562000997696": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000188&tvd=2562000922500&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922500&type=464",
@@ -14203,16 +14203,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асяев Фаик Инсафович": 70,
-      "Головина Татьяна Александровна": 13,
-      "Катасонов Сергей Михайлович": 253,
-      "Климова Ирина Александровна": 22,
-      "Лазаров Георги Атанасов": 20,
-      "Мунжасаров Нурлан Нурмагамбетович": 38,
-      "Сухарев Игорь Николаевич": 270,
-      "Туршинов Дидар Саулебаевич": 11,
-      "Уралов Семен Сергеевич": 85,
-      "Щепинов Максим Александрович": 35
+      "gas:candidate-vibid:25620001004303": 70,
+      "gas:candidate-vibid:25620001004760": 13,
+      "gas:candidate-vibid:2562000991769": 253,
+      "gas:candidate-vibid:25620001004637": 22,
+      "gas:candidate-vibid:25620001004626": 20,
+      "gas:candidate-vibid:25620001004382": 38,
+      "gas:candidate-vibid:25620001003807": 270,
+      "gas:candidate-vibid:25620001004748": 11,
+      "gas:candidate-vibid:25620001001594": 85,
+      "gas:candidate-vibid:2562000997696": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000188&tvd=2562000922500&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922500&type=464",
@@ -14263,16 +14263,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асяев Фаик Инсафович": 48,
-      "Головина Татьяна Александровна": 10,
-      "Катасонов Сергей Михайлович": 196,
-      "Климова Ирина Александровна": 15,
-      "Лазаров Георги Атанасов": 17,
-      "Мунжасаров Нурлан Нурмагамбетович": 43,
-      "Сухарев Игорь Николаевич": 166,
-      "Туршинов Дидар Саулебаевич": 7,
-      "Уралов Семен Сергеевич": 119,
-      "Щепинов Максим Александрович": 31
+      "gas:candidate-vibid:25620001004303": 48,
+      "gas:candidate-vibid:25620001004760": 10,
+      "gas:candidate-vibid:2562000991769": 196,
+      "gas:candidate-vibid:25620001004637": 15,
+      "gas:candidate-vibid:25620001004626": 17,
+      "gas:candidate-vibid:25620001004382": 43,
+      "gas:candidate-vibid:25620001003807": 166,
+      "gas:candidate-vibid:25620001004748": 7,
+      "gas:candidate-vibid:25620001001594": 119,
+      "gas:candidate-vibid:2562000997696": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000188&tvd=2562000922500&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922500&type=464",
@@ -14323,16 +14323,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асяев Фаик Инсафович": 90,
-      "Головина Татьяна Александровна": 9,
-      "Катасонов Сергей Михайлович": 331,
-      "Климова Ирина Александровна": 19,
-      "Лазаров Георги Атанасов": 21,
-      "Мунжасаров Нурлан Нурмагамбетович": 42,
-      "Сухарев Игорь Николаевич": 290,
-      "Туршинов Дидар Саулебаевич": 11,
-      "Уралов Семен Сергеевич": 168,
-      "Щепинов Максим Александрович": 30
+      "gas:candidate-vibid:25620001004303": 90,
+      "gas:candidate-vibid:25620001004760": 9,
+      "gas:candidate-vibid:2562000991769": 331,
+      "gas:candidate-vibid:25620001004637": 19,
+      "gas:candidate-vibid:25620001004626": 21,
+      "gas:candidate-vibid:25620001004382": 42,
+      "gas:candidate-vibid:25620001003807": 290,
+      "gas:candidate-vibid:25620001004748": 11,
+      "gas:candidate-vibid:25620001001594": 168,
+      "gas:candidate-vibid:2562000997696": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000188&tvd=2562000922500&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922500&type=464",
@@ -14383,16 +14383,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асяев Фаик Инсафович": 70,
-      "Головина Татьяна Александровна": 18,
-      "Катасонов Сергей Михайлович": 304,
-      "Климова Ирина Александровна": 12,
-      "Лазаров Георги Атанасов": 21,
-      "Мунжасаров Нурлан Нурмагамбетович": 26,
-      "Сухарев Игорь Николаевич": 275,
-      "Туршинов Дидар Саулебаевич": 16,
-      "Уралов Семен Сергеевич": 152,
-      "Щепинов Максим Александрович": 26
+      "gas:candidate-vibid:25620001004303": 70,
+      "gas:candidate-vibid:25620001004760": 18,
+      "gas:candidate-vibid:2562000991769": 304,
+      "gas:candidate-vibid:25620001004637": 12,
+      "gas:candidate-vibid:25620001004626": 21,
+      "gas:candidate-vibid:25620001004382": 26,
+      "gas:candidate-vibid:25620001003807": 275,
+      "gas:candidate-vibid:25620001004748": 16,
+      "gas:candidate-vibid:25620001001594": 152,
+      "gas:candidate-vibid:2562000997696": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000188&tvd=2562000922500&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922500&type=464",
@@ -14443,16 +14443,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асяев Фаик Инсафович": 64,
-      "Головина Татьяна Александровна": 15,
-      "Катасонов Сергей Михайлович": 211,
-      "Климова Ирина Александровна": 16,
-      "Лазаров Георги Атанасов": 20,
-      "Мунжасаров Нурлан Нурмагамбетович": 40,
-      "Сухарев Игорь Николаевич": 250,
-      "Туршинов Дидар Саулебаевич": 11,
-      "Уралов Семен Сергеевич": 121,
-      "Щепинов Максим Александрович": 19
+      "gas:candidate-vibid:25620001004303": 64,
+      "gas:candidate-vibid:25620001004760": 15,
+      "gas:candidate-vibid:2562000991769": 211,
+      "gas:candidate-vibid:25620001004637": 16,
+      "gas:candidate-vibid:25620001004626": 20,
+      "gas:candidate-vibid:25620001004382": 40,
+      "gas:candidate-vibid:25620001003807": 250,
+      "gas:candidate-vibid:25620001004748": 11,
+      "gas:candidate-vibid:25620001001594": 121,
+      "gas:candidate-vibid:2562000997696": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000188&tvd=2562000922500&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922500&type=464",
@@ -14503,16 +14503,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асяев Фаик Инсафович": 17,
-      "Головина Татьяна Александровна": 14,
-      "Катасонов Сергей Михайлович": 108,
-      "Климова Ирина Александровна": 13,
-      "Лазаров Георги Атанасов": 7,
-      "Мунжасаров Нурлан Нурмагамбетович": 56,
-      "Сухарев Игорь Николаевич": 352,
-      "Туршинов Дидар Саулебаевич": 7,
-      "Уралов Семен Сергеевич": 75,
-      "Щепинов Максим Александрович": 6
+      "gas:candidate-vibid:25620001004303": 17,
+      "gas:candidate-vibid:25620001004760": 14,
+      "gas:candidate-vibid:2562000991769": 108,
+      "gas:candidate-vibid:25620001004637": 13,
+      "gas:candidate-vibid:25620001004626": 7,
+      "gas:candidate-vibid:25620001004382": 56,
+      "gas:candidate-vibid:25620001003807": 352,
+      "gas:candidate-vibid:25620001004748": 7,
+      "gas:candidate-vibid:25620001001594": 75,
+      "gas:candidate-vibid:2562000997696": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000188&tvd=2562000922500&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922500&type=464",
@@ -14563,16 +14563,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асяев Фаик Инсафович": 13,
-      "Головина Татьяна Александровна": 3,
-      "Катасонов Сергей Михайлович": 68,
-      "Климова Ирина Александровна": 4,
-      "Лазаров Георги Атанасов": 3,
-      "Мунжасаров Нурлан Нурмагамбетович": 32,
-      "Сухарев Игорь Николаевич": 122,
-      "Туршинов Дидар Саулебаевич": 7,
-      "Уралов Семен Сергеевич": 22,
-      "Щепинов Максим Александрович": 7
+      "gas:candidate-vibid:25620001004303": 13,
+      "gas:candidate-vibid:25620001004760": 3,
+      "gas:candidate-vibid:2562000991769": 68,
+      "gas:candidate-vibid:25620001004637": 4,
+      "gas:candidate-vibid:25620001004626": 3,
+      "gas:candidate-vibid:25620001004382": 32,
+      "gas:candidate-vibid:25620001003807": 122,
+      "gas:candidate-vibid:25620001004748": 7,
+      "gas:candidate-vibid:25620001001594": 22,
+      "gas:candidate-vibid:2562000997696": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000188&tvd=2562000922500&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922500&type=464",
@@ -14623,16 +14623,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асяев Фаик Инсафович": 82,
-      "Головина Татьяна Александровна": 15,
-      "Катасонов Сергей Михайлович": 245,
-      "Климова Ирина Александровна": 12,
-      "Лазаров Георги Атанасов": 22,
-      "Мунжасаров Нурлан Нурмагамбетович": 32,
-      "Сухарев Игорь Николаевич": 291,
-      "Туршинов Дидар Саулебаевич": 5,
-      "Уралов Семен Сергеевич": 117,
-      "Щепинов Максим Александрович": 20
+      "gas:candidate-vibid:25620001004303": 82,
+      "gas:candidate-vibid:25620001004760": 15,
+      "gas:candidate-vibid:2562000991769": 245,
+      "gas:candidate-vibid:25620001004637": 12,
+      "gas:candidate-vibid:25620001004626": 22,
+      "gas:candidate-vibid:25620001004382": 32,
+      "gas:candidate-vibid:25620001003807": 291,
+      "gas:candidate-vibid:25620001004748": 5,
+      "gas:candidate-vibid:25620001001594": 117,
+      "gas:candidate-vibid:2562000997696": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000188&tvd=2562000922501&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922501&type=464",
@@ -14683,16 +14683,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асяев Фаик Инсафович": 71,
-      "Головина Татьяна Александровна": 13,
-      "Катасонов Сергей Михайлович": 212,
-      "Климова Ирина Александровна": 19,
-      "Лазаров Георги Атанасов": 23,
-      "Мунжасаров Нурлан Нурмагамбетович": 32,
-      "Сухарев Игорь Николаевич": 183,
-      "Туршинов Дидар Саулебаевич": 8,
-      "Уралов Семен Сергеевич": 115,
-      "Щепинов Максим Александрович": 15
+      "gas:candidate-vibid:25620001004303": 71,
+      "gas:candidate-vibid:25620001004760": 13,
+      "gas:candidate-vibid:2562000991769": 212,
+      "gas:candidate-vibid:25620001004637": 19,
+      "gas:candidate-vibid:25620001004626": 23,
+      "gas:candidate-vibid:25620001004382": 32,
+      "gas:candidate-vibid:25620001003807": 183,
+      "gas:candidate-vibid:25620001004748": 8,
+      "gas:candidate-vibid:25620001001594": 115,
+      "gas:candidate-vibid:2562000997696": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000188&tvd=2562000922501&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922501&type=464",
@@ -14743,16 +14743,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асяев Фаик Инсафович": 61,
-      "Головина Татьяна Александровна": 12,
-      "Катасонов Сергей Михайлович": 225,
-      "Климова Ирина Александровна": 9,
-      "Лазаров Георги Атанасов": 14,
-      "Мунжасаров Нурлан Нурмагамбетович": 18,
-      "Сухарев Игорь Николаевич": 230,
-      "Туршинов Дидар Саулебаевич": 2,
-      "Уралов Семен Сергеевич": 60,
-      "Щепинов Максим Александрович": 20
+      "gas:candidate-vibid:25620001004303": 61,
+      "gas:candidate-vibid:25620001004760": 12,
+      "gas:candidate-vibid:2562000991769": 225,
+      "gas:candidate-vibid:25620001004637": 9,
+      "gas:candidate-vibid:25620001004626": 14,
+      "gas:candidate-vibid:25620001004382": 18,
+      "gas:candidate-vibid:25620001003807": 230,
+      "gas:candidate-vibid:25620001004748": 2,
+      "gas:candidate-vibid:25620001001594": 60,
+      "gas:candidate-vibid:2562000997696": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000188&tvd=2562000922501&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922501&type=464",
@@ -14803,16 +14803,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асяев Фаик Инсафович": 65,
-      "Головина Татьяна Александровна": 21,
-      "Катасонов Сергей Михайлович": 239,
-      "Климова Ирина Александровна": 11,
-      "Лазаров Георги Атанасов": 9,
-      "Мунжасаров Нурлан Нурмагамбетович": 20,
-      "Сухарев Игорь Николаевич": 209,
-      "Туршинов Дидар Саулебаевич": 11,
-      "Уралов Семен Сергеевич": 82,
-      "Щепинов Максим Александрович": 22
+      "gas:candidate-vibid:25620001004303": 65,
+      "gas:candidate-vibid:25620001004760": 21,
+      "gas:candidate-vibid:2562000991769": 239,
+      "gas:candidate-vibid:25620001004637": 11,
+      "gas:candidate-vibid:25620001004626": 9,
+      "gas:candidate-vibid:25620001004382": 20,
+      "gas:candidate-vibid:25620001003807": 209,
+      "gas:candidate-vibid:25620001004748": 11,
+      "gas:candidate-vibid:25620001001594": 82,
+      "gas:candidate-vibid:2562000997696": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000188&tvd=2562000922501&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922501&type=464",
@@ -14863,16 +14863,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асяев Фаик Инсафович": 64,
-      "Головина Татьяна Александровна": 19,
-      "Катасонов Сергей Михайлович": 231,
-      "Климова Ирина Александровна": 15,
-      "Лазаров Георги Атанасов": 18,
-      "Мунжасаров Нурлан Нурмагамбетович": 40,
-      "Сухарев Игорь Николаевич": 394,
-      "Туршинов Дидар Саулебаевич": 12,
-      "Уралов Семен Сергеевич": 123,
-      "Щепинов Максим Александрович": 17
+      "gas:candidate-vibid:25620001004303": 64,
+      "gas:candidate-vibid:25620001004760": 19,
+      "gas:candidate-vibid:2562000991769": 231,
+      "gas:candidate-vibid:25620001004637": 15,
+      "gas:candidate-vibid:25620001004626": 18,
+      "gas:candidate-vibid:25620001004382": 40,
+      "gas:candidate-vibid:25620001003807": 394,
+      "gas:candidate-vibid:25620001004748": 12,
+      "gas:candidate-vibid:25620001001594": 123,
+      "gas:candidate-vibid:2562000997696": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000188&tvd=2562000922501&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922501&type=464",
@@ -14923,16 +14923,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асяев Фаик Инсафович": 79,
-      "Головина Татьяна Александровна": 22,
-      "Катасонов Сергей Михайлович": 305,
-      "Климова Ирина Александровна": 21,
-      "Лазаров Георги Атанасов": 15,
-      "Мунжасаров Нурлан Нурмагамбетович": 33,
-      "Сухарев Игорь Николаевич": 258,
-      "Туршинов Дидар Саулебаевич": 7,
-      "Уралов Семен Сергеевич": 107,
-      "Щепинов Максим Александрович": 20
+      "gas:candidate-vibid:25620001004303": 79,
+      "gas:candidate-vibid:25620001004760": 22,
+      "gas:candidate-vibid:2562000991769": 305,
+      "gas:candidate-vibid:25620001004637": 21,
+      "gas:candidate-vibid:25620001004626": 15,
+      "gas:candidate-vibid:25620001004382": 33,
+      "gas:candidate-vibid:25620001003807": 258,
+      "gas:candidate-vibid:25620001004748": 7,
+      "gas:candidate-vibid:25620001001594": 107,
+      "gas:candidate-vibid:2562000997696": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000188&tvd=2562000922501&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922501&type=464",
@@ -14983,16 +14983,16 @@ export const duma_2016_uik_463_region_56_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Асяев Фаик Инсафович": 26,
-      "Головина Татьяна Александровна": 5,
-      "Катасонов Сергей Михайлович": 125,
-      "Климова Ирина Александровна": 12,
-      "Лазаров Георги Атанасов": 16,
-      "Мунжасаров Нурлан Нурмагамбетович": 11,
-      "Сухарев Игорь Николаевич": 170,
-      "Туршинов Дидар Саулебаевич": 5,
-      "Уралов Семен Сергеевич": 55,
-      "Щепинов Максим Александрович": 13
+      "gas:candidate-vibid:25620001004303": 26,
+      "gas:candidate-vibid:25620001004760": 5,
+      "gas:candidate-vibid:2562000991769": 125,
+      "gas:candidate-vibid:25620001004637": 12,
+      "gas:candidate-vibid:25620001004626": 16,
+      "gas:candidate-vibid:25620001004382": 11,
+      "gas:candidate-vibid:25620001003807": 170,
+      "gas:candidate-vibid:25620001004748": 5,
+      "gas:candidate-vibid:25620001001594": 55,
+      "gas:candidate-vibid:2562000997696": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000188&tvd=2562000922501&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922501&type=464",

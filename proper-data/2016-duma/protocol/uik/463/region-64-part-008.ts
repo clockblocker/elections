@@ -43,15 +43,15 @@ export const duma_2016_uik_463_region_64_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афанасьев Сергей Николаевич": 5,
-      "Байрамов Эльнур Абдулали оглы": 0,
-      "Гришанцов Александр Иванович": 2,
-      "Журбин Александр Павлович": 3,
-      "Мазепов Алексей Анатольевич": 1,
-      "Максимов Василий Юрьевич": 47,
-      "Пьяных Дмитрий Сергеевич": 2,
-      "Сарсенгалиев Токтар Аянбаевич": 3,
-      "Фролов Константин Александрович": 0
+      "gas:candidate-vibid:4644046384487": 5,
+      "gas:candidate-vibid:4644046402852": 0,
+      "gas:candidate-vibid:4644046384579": 2,
+      "gas:candidate-vibid:4644046384714": 3,
+      "gas:candidate-vibid:4644046402793": 1,
+      "gas:candidate-vibid:4644046384764": 47,
+      "gas:candidate-vibid:4644046383672": 2,
+      "gas:candidate-vibid:4644046384451": 3,
+      "gas:candidate-vibid:4644046402805": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000218&tvd=26420001135289&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135289&type=464",
@@ -102,15 +102,15 @@ export const duma_2016_uik_463_region_64_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афанасьев Сергей Николаевич": 4,
-      "Байрамов Эльнур Абдулали оглы": 0,
-      "Гришанцов Александр Иванович": 1,
-      "Журбин Александр Павлович": 0,
-      "Мазепов Алексей Анатольевич": 1,
-      "Максимов Василий Юрьевич": 37,
-      "Пьяных Дмитрий Сергеевич": 1,
-      "Сарсенгалиев Токтар Аянбаевич": 2,
-      "Фролов Константин Александрович": 0
+      "gas:candidate-vibid:4644046384487": 4,
+      "gas:candidate-vibid:4644046402852": 0,
+      "gas:candidate-vibid:4644046384579": 1,
+      "gas:candidate-vibid:4644046384714": 0,
+      "gas:candidate-vibid:4644046402793": 1,
+      "gas:candidate-vibid:4644046384764": 37,
+      "gas:candidate-vibid:4644046383672": 1,
+      "gas:candidate-vibid:4644046384451": 2,
+      "gas:candidate-vibid:4644046402805": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000218&tvd=26420001135289&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135289&type=464",
@@ -161,15 +161,15 @@ export const duma_2016_uik_463_region_64_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афанасьев Сергей Николаевич": 10,
-      "Байрамов Эльнур Абдулали оглы": 1,
-      "Гришанцов Александр Иванович": 2,
-      "Журбин Александр Павлович": 2,
-      "Мазепов Алексей Анатольевич": 5,
-      "Максимов Василий Юрьевич": 49,
-      "Пьяных Дмитрий Сергеевич": 3,
-      "Сарсенгалиев Токтар Аянбаевич": 12,
-      "Фролов Константин Александрович": 2
+      "gas:candidate-vibid:4644046384487": 10,
+      "gas:candidate-vibid:4644046402852": 1,
+      "gas:candidate-vibid:4644046384579": 2,
+      "gas:candidate-vibid:4644046384714": 2,
+      "gas:candidate-vibid:4644046402793": 5,
+      "gas:candidate-vibid:4644046384764": 49,
+      "gas:candidate-vibid:4644046383672": 3,
+      "gas:candidate-vibid:4644046384451": 12,
+      "gas:candidate-vibid:4644046402805": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000218&tvd=26420001135289&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135289&type=464",
@@ -220,15 +220,15 @@ export const duma_2016_uik_463_region_64_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афанасьев Сергей Николаевич": 39,
-      "Байрамов Эльнур Абдулали оглы": 11,
-      "Гришанцов Александр Иванович": 31,
-      "Журбин Александр Павлович": 13,
-      "Мазепов Алексей Анатольевич": 12,
-      "Максимов Василий Юрьевич": 216,
-      "Пьяных Дмитрий Сергеевич": 14,
-      "Сарсенгалиев Токтар Аянбаевич": 31,
-      "Фролов Константин Александрович": 3
+      "gas:candidate-vibid:4644046384487": 39,
+      "gas:candidate-vibid:4644046402852": 11,
+      "gas:candidate-vibid:4644046384579": 31,
+      "gas:candidate-vibid:4644046384714": 13,
+      "gas:candidate-vibid:4644046402793": 12,
+      "gas:candidate-vibid:4644046384764": 216,
+      "gas:candidate-vibid:4644046383672": 14,
+      "gas:candidate-vibid:4644046384451": 31,
+      "gas:candidate-vibid:4644046402805": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000218&tvd=26420001135289&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135289&type=464",
@@ -279,15 +279,15 @@ export const duma_2016_uik_463_region_64_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афанасьев Сергей Николаевич": 27,
-      "Байрамов Эльнур Абдулали оглы": 17,
-      "Гришанцов Александр Иванович": 18,
-      "Журбин Александр Павлович": 9,
-      "Мазепов Алексей Анатольевич": 5,
-      "Максимов Василий Юрьевич": 230,
-      "Пьяных Дмитрий Сергеевич": 21,
-      "Сарсенгалиев Токтар Аянбаевич": 43,
-      "Фролов Константин Александрович": 9
+      "gas:candidate-vibid:4644046384487": 27,
+      "gas:candidate-vibid:4644046402852": 17,
+      "gas:candidate-vibid:4644046384579": 18,
+      "gas:candidate-vibid:4644046384714": 9,
+      "gas:candidate-vibid:4644046402793": 5,
+      "gas:candidate-vibid:4644046384764": 230,
+      "gas:candidate-vibid:4644046383672": 21,
+      "gas:candidate-vibid:4644046384451": 43,
+      "gas:candidate-vibid:4644046402805": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000218&tvd=26420001135289&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135289&type=464",
@@ -338,15 +338,15 @@ export const duma_2016_uik_463_region_64_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афанасьев Сергей Николаевич": 85,
-      "Байрамов Эльнур Абдулали оглы": 10,
-      "Гришанцов Александр Иванович": 24,
-      "Журбин Александр Павлович": 11,
-      "Мазепов Алексей Анатольевич": 7,
-      "Максимов Василий Юрьевич": 195,
-      "Пьяных Дмитрий Сергеевич": 25,
-      "Сарсенгалиев Токтар Аянбаевич": 52,
-      "Фролов Константин Александрович": 15
+      "gas:candidate-vibid:4644046384487": 85,
+      "gas:candidate-vibid:4644046402852": 10,
+      "gas:candidate-vibid:4644046384579": 24,
+      "gas:candidate-vibid:4644046384714": 11,
+      "gas:candidate-vibid:4644046402793": 7,
+      "gas:candidate-vibid:4644046384764": 195,
+      "gas:candidate-vibid:4644046383672": 25,
+      "gas:candidate-vibid:4644046384451": 52,
+      "gas:candidate-vibid:4644046402805": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000218&tvd=26420001135289&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135289&type=464",
@@ -397,15 +397,15 @@ export const duma_2016_uik_463_region_64_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афанасьев Сергей Николаевич": 70,
-      "Байрамов Эльнур Абдулали оглы": 3,
-      "Гришанцов Александр Иванович": 0,
-      "Журбин Александр Павлович": 3,
-      "Мазепов Алексей Анатольевич": 11,
-      "Максимов Василий Юрьевич": 269,
-      "Пьяных Дмитрий Сергеевич": 10,
-      "Сарсенгалиев Токтар Аянбаевич": 71,
-      "Фролов Константин Александрович": 9
+      "gas:candidate-vibid:4644046384487": 70,
+      "gas:candidate-vibid:4644046402852": 3,
+      "gas:candidate-vibid:4644046384579": 0,
+      "gas:candidate-vibid:4644046384714": 3,
+      "gas:candidate-vibid:4644046402793": 11,
+      "gas:candidate-vibid:4644046384764": 269,
+      "gas:candidate-vibid:4644046383672": 10,
+      "gas:candidate-vibid:4644046384451": 71,
+      "gas:candidate-vibid:4644046402805": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000218&tvd=26420001135289&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135289&type=464",
@@ -456,15 +456,15 @@ export const duma_2016_uik_463_region_64_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афанасьев Сергей Николаевич": 140,
-      "Байрамов Эльнур Абдулали оглы": 9,
-      "Гришанцов Александр Иванович": 21,
-      "Журбин Александр Павлович": 8,
-      "Мазепов Алексей Анатольевич": 19,
-      "Максимов Василий Юрьевич": 1347,
-      "Пьяных Дмитрий Сергеевич": 80,
-      "Сарсенгалиев Токтар Аянбаевич": 44,
-      "Фролов Константин Александрович": 12
+      "gas:candidate-vibid:4644046384487": 140,
+      "gas:candidate-vibid:4644046402852": 9,
+      "gas:candidate-vibid:4644046384579": 21,
+      "gas:candidate-vibid:4644046384714": 8,
+      "gas:candidate-vibid:4644046402793": 19,
+      "gas:candidate-vibid:4644046384764": 1347,
+      "gas:candidate-vibid:4644046383672": 80,
+      "gas:candidate-vibid:4644046384451": 44,
+      "gas:candidate-vibid:4644046402805": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000218&tvd=26420001135289&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135289&type=464",
@@ -515,15 +515,15 @@ export const duma_2016_uik_463_region_64_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афанасьев Сергей Николаевич": 71,
-      "Байрамов Эльнур Абдулали оглы": 8,
-      "Гришанцов Александр Иванович": 29,
-      "Журбин Александр Павлович": 8,
-      "Мазепов Алексей Анатольевич": 5,
-      "Максимов Василий Юрьевич": 1059,
-      "Пьяных Дмитрий Сергеевич": 52,
-      "Сарсенгалиев Токтар Аянбаевич": 29,
-      "Фролов Константин Александрович": 11
+      "gas:candidate-vibid:4644046384487": 71,
+      "gas:candidate-vibid:4644046402852": 8,
+      "gas:candidate-vibid:4644046384579": 29,
+      "gas:candidate-vibid:4644046384714": 8,
+      "gas:candidate-vibid:4644046402793": 5,
+      "gas:candidate-vibid:4644046384764": 1059,
+      "gas:candidate-vibid:4644046383672": 52,
+      "gas:candidate-vibid:4644046384451": 29,
+      "gas:candidate-vibid:4644046402805": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000218&tvd=26420001135289&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135289&type=464",
@@ -574,15 +574,15 @@ export const duma_2016_uik_463_region_64_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афанасьев Сергей Николаевич": 67,
-      "Байрамов Эльнур Абдулали оглы": 6,
-      "Гришанцов Александр Иванович": 33,
-      "Журбин Александр Павлович": 16,
-      "Мазепов Алексей Анатольевич": 5,
-      "Максимов Василий Юрьевич": 404,
-      "Пьяных Дмитрий Сергеевич": 51,
-      "Сарсенгалиев Токтар Аянбаевич": 62,
-      "Фролов Константин Александрович": 6
+      "gas:candidate-vibid:4644046384487": 67,
+      "gas:candidate-vibid:4644046402852": 6,
+      "gas:candidate-vibid:4644046384579": 33,
+      "gas:candidate-vibid:4644046384714": 16,
+      "gas:candidate-vibid:4644046402793": 5,
+      "gas:candidate-vibid:4644046384764": 404,
+      "gas:candidate-vibid:4644046383672": 51,
+      "gas:candidate-vibid:4644046384451": 62,
+      "gas:candidate-vibid:4644046402805": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000218&tvd=26420001135289&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135289&type=464",
@@ -633,15 +633,15 @@ export const duma_2016_uik_463_region_64_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афанасьев Сергей Николаевич": 228,
-      "Байрамов Эльнур Абдулали оглы": 9,
-      "Гришанцов Александр Иванович": 19,
-      "Журбин Александр Павлович": 8,
-      "Мазепов Алексей Анатольевич": 7,
-      "Максимов Василий Юрьевич": 460,
-      "Пьяных Дмитрий Сергеевич": 37,
-      "Сарсенгалиев Токтар Аянбаевич": 28,
-      "Фролов Константин Александрович": 5
+      "gas:candidate-vibid:4644046384487": 228,
+      "gas:candidate-vibid:4644046402852": 9,
+      "gas:candidate-vibid:4644046384579": 19,
+      "gas:candidate-vibid:4644046384714": 8,
+      "gas:candidate-vibid:4644046402793": 7,
+      "gas:candidate-vibid:4644046384764": 460,
+      "gas:candidate-vibid:4644046383672": 37,
+      "gas:candidate-vibid:4644046384451": 28,
+      "gas:candidate-vibid:4644046402805": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000218&tvd=26420001135289&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135289&type=464",
@@ -692,15 +692,15 @@ export const duma_2016_uik_463_region_64_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афанасьев Сергей Николаевич": 28,
-      "Байрамов Эльнур Абдулали оглы": 3,
-      "Гришанцов Александр Иванович": 9,
-      "Журбин Александр Павлович": 0,
-      "Мазепов Алексей Анатольевич": 7,
-      "Максимов Василий Юрьевич": 423,
-      "Пьяных Дмитрий Сергеевич": 10,
-      "Сарсенгалиев Токтар Аянбаевич": 13,
-      "Фролов Константин Александрович": 3
+      "gas:candidate-vibid:4644046384487": 28,
+      "gas:candidate-vibid:4644046402852": 3,
+      "gas:candidate-vibid:4644046384579": 9,
+      "gas:candidate-vibid:4644046384714": 0,
+      "gas:candidate-vibid:4644046402793": 7,
+      "gas:candidate-vibid:4644046384764": 423,
+      "gas:candidate-vibid:4644046383672": 10,
+      "gas:candidate-vibid:4644046384451": 13,
+      "gas:candidate-vibid:4644046402805": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000218&tvd=26420001135289&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135289&type=464",
@@ -751,15 +751,15 @@ export const duma_2016_uik_463_region_64_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афанасьев Сергей Николаевич": 34,
-      "Байрамов Эльнур Абдулали оглы": 1,
-      "Гришанцов Александр Иванович": 8,
-      "Журбин Александр Павлович": 6,
-      "Мазепов Алексей Анатольевич": 16,
-      "Максимов Василий Юрьевич": 312,
-      "Пьяных Дмитрий Сергеевич": 15,
-      "Сарсенгалиев Токтар Аянбаевич": 44,
-      "Фролов Константин Александрович": 9
+      "gas:candidate-vibid:4644046384487": 34,
+      "gas:candidate-vibid:4644046402852": 1,
+      "gas:candidate-vibid:4644046384579": 8,
+      "gas:candidate-vibid:4644046384714": 6,
+      "gas:candidate-vibid:4644046402793": 16,
+      "gas:candidate-vibid:4644046384764": 312,
+      "gas:candidate-vibid:4644046383672": 15,
+      "gas:candidate-vibid:4644046384451": 44,
+      "gas:candidate-vibid:4644046402805": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000218&tvd=26420001135289&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135289&type=464",
@@ -810,15 +810,15 @@ export const duma_2016_uik_463_region_64_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афанасьев Сергей Николаевич": 72,
-      "Байрамов Эльнур Абдулали оглы": 21,
-      "Гришанцов Александр Иванович": 14,
-      "Журбин Александр Павлович": 10,
-      "Мазепов Алексей Анатольевич": 4,
-      "Максимов Василий Юрьевич": 236,
-      "Пьяных Дмитрий Сергеевич": 29,
-      "Сарсенгалиев Токтар Аянбаевич": 61,
-      "Фролов Константин Александрович": 5
+      "gas:candidate-vibid:4644046384487": 72,
+      "gas:candidate-vibid:4644046402852": 21,
+      "gas:candidate-vibid:4644046384579": 14,
+      "gas:candidate-vibid:4644046384714": 10,
+      "gas:candidate-vibid:4644046402793": 4,
+      "gas:candidate-vibid:4644046384764": 236,
+      "gas:candidate-vibid:4644046383672": 29,
+      "gas:candidate-vibid:4644046384451": 61,
+      "gas:candidate-vibid:4644046402805": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000218&tvd=26420001135289&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135289&type=464",
@@ -869,15 +869,15 @@ export const duma_2016_uik_463_region_64_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афанасьев Сергей Николаевич": 65,
-      "Байрамов Эльнур Абдулали оглы": 21,
-      "Гришанцов Александр Иванович": 20,
-      "Журбин Александр Павлович": 13,
-      "Мазепов Алексей Анатольевич": 19,
-      "Максимов Василий Юрьевич": 702,
-      "Пьяных Дмитрий Сергеевич": 44,
-      "Сарсенгалиев Токтар Аянбаевич": 77,
-      "Фролов Константин Александрович": 11
+      "gas:candidate-vibid:4644046384487": 65,
+      "gas:candidate-vibid:4644046402852": 21,
+      "gas:candidate-vibid:4644046384579": 20,
+      "gas:candidate-vibid:4644046384714": 13,
+      "gas:candidate-vibid:4644046402793": 19,
+      "gas:candidate-vibid:4644046384764": 702,
+      "gas:candidate-vibid:4644046383672": 44,
+      "gas:candidate-vibid:4644046384451": 77,
+      "gas:candidate-vibid:4644046402805": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000218&tvd=26420001135289&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135289&type=464",
@@ -928,15 +928,15 @@ export const duma_2016_uik_463_region_64_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афанасьев Сергей Николаевич": 5,
-      "Байрамов Эльнур Абдулали оглы": 8,
-      "Гришанцов Александр Иванович": 2,
-      "Журбин Александр Павлович": 0,
-      "Мазепов Алексей Анатольевич": 3,
-      "Максимов Василий Юрьевич": 35,
-      "Пьяных Дмитрий Сергеевич": 1,
-      "Сарсенгалиев Токтар Аянбаевич": 15,
-      "Фролов Константин Александрович": 1
+      "gas:candidate-vibid:4644046384487": 5,
+      "gas:candidate-vibid:4644046402852": 8,
+      "gas:candidate-vibid:4644046384579": 2,
+      "gas:candidate-vibid:4644046384714": 0,
+      "gas:candidate-vibid:4644046402793": 3,
+      "gas:candidate-vibid:4644046384764": 35,
+      "gas:candidate-vibid:4644046383672": 1,
+      "gas:candidate-vibid:4644046384451": 15,
+      "gas:candidate-vibid:4644046402805": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000218&tvd=26420001135289&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135289&type=464",
@@ -987,15 +987,15 @@ export const duma_2016_uik_463_region_64_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афанасьев Сергей Николаевич": 81,
-      "Байрамов Эльнур Абдулали оглы": 16,
-      "Гришанцов Александр Иванович": 26,
-      "Журбин Александр Павлович": 8,
-      "Мазепов Алексей Анатольевич": 9,
-      "Максимов Василий Юрьевич": 352,
-      "Пьяных Дмитрий Сергеевич": 41,
-      "Сарсенгалиев Токтар Аянбаевич": 47,
-      "Фролов Константин Александрович": 12
+      "gas:candidate-vibid:4644046384487": 81,
+      "gas:candidate-vibid:4644046402852": 16,
+      "gas:candidate-vibid:4644046384579": 26,
+      "gas:candidate-vibid:4644046384714": 8,
+      "gas:candidate-vibid:4644046402793": 9,
+      "gas:candidate-vibid:4644046384764": 352,
+      "gas:candidate-vibid:4644046383672": 41,
+      "gas:candidate-vibid:4644046384451": 47,
+      "gas:candidate-vibid:4644046402805": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000218&tvd=26420001135289&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135289&type=464",
@@ -1046,15 +1046,15 @@ export const duma_2016_uik_463_region_64_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афанасьев Сергей Николаевич": 31,
-      "Байрамов Эльнур Абдулали оглы": 4,
-      "Гришанцов Александр Иванович": 6,
-      "Журбин Александр Павлович": 5,
-      "Мазепов Алексей Анатольевич": 2,
-      "Максимов Василий Юрьевич": 69,
-      "Пьяных Дмитрий Сергеевич": 15,
-      "Сарсенгалиев Токтар Аянбаевич": 9,
-      "Фролов Константин Александрович": 2
+      "gas:candidate-vibid:4644046384487": 31,
+      "gas:candidate-vibid:4644046402852": 4,
+      "gas:candidate-vibid:4644046384579": 6,
+      "gas:candidate-vibid:4644046384714": 5,
+      "gas:candidate-vibid:4644046402793": 2,
+      "gas:candidate-vibid:4644046384764": 69,
+      "gas:candidate-vibid:4644046383672": 15,
+      "gas:candidate-vibid:4644046384451": 9,
+      "gas:candidate-vibid:4644046402805": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000218&tvd=26420001135289&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135289&type=464",
@@ -1105,15 +1105,15 @@ export const duma_2016_uik_463_region_64_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афанасьев Сергей Николаевич": 28,
-      "Байрамов Эльнур Абдулали оглы": 6,
-      "Гришанцов Александр Иванович": 8,
-      "Журбин Александр Павлович": 8,
-      "Мазепов Алексей Анатольевич": 3,
-      "Максимов Василий Юрьевич": 30,
-      "Пьяных Дмитрий Сергеевич": 7,
-      "Сарсенгалиев Токтар Аянбаевич": 5,
-      "Фролов Константин Александрович": 1
+      "gas:candidate-vibid:4644046384487": 28,
+      "gas:candidate-vibid:4644046402852": 6,
+      "gas:candidate-vibid:4644046384579": 8,
+      "gas:candidate-vibid:4644046384714": 8,
+      "gas:candidate-vibid:4644046402793": 3,
+      "gas:candidate-vibid:4644046384764": 30,
+      "gas:candidate-vibid:4644046383672": 7,
+      "gas:candidate-vibid:4644046384451": 5,
+      "gas:candidate-vibid:4644046402805": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000218&tvd=26420001135289&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135289&type=464",
@@ -1164,15 +1164,15 @@ export const duma_2016_uik_463_region_64_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афанасьев Сергей Николаевич": 77,
-      "Байрамов Эльнур Абдулали оглы": 17,
-      "Гришанцов Александр Иванович": 14,
-      "Журбин Александр Павлович": 2,
-      "Мазепов Алексей Анатольевич": 8,
-      "Максимов Василий Юрьевич": 271,
-      "Пьяных Дмитрий Сергеевич": 21,
-      "Сарсенгалиев Токтар Аянбаевич": 22,
-      "Фролов Константин Александрович": 4
+      "gas:candidate-vibid:4644046384487": 77,
+      "gas:candidate-vibid:4644046402852": 17,
+      "gas:candidate-vibid:4644046384579": 14,
+      "gas:candidate-vibid:4644046384714": 2,
+      "gas:candidate-vibid:4644046402793": 8,
+      "gas:candidate-vibid:4644046384764": 271,
+      "gas:candidate-vibid:4644046383672": 21,
+      "gas:candidate-vibid:4644046384451": 22,
+      "gas:candidate-vibid:4644046402805": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000218&tvd=26420001135289&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135289&type=464",
@@ -1223,15 +1223,15 @@ export const duma_2016_uik_463_region_64_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афанасьев Сергей Николаевич": 7,
-      "Байрамов Эльнур Абдулали оглы": 4,
-      "Гришанцов Александр Иванович": 3,
-      "Журбин Александр Павлович": 2,
-      "Мазепов Алексей Анатольевич": 0,
-      "Максимов Василий Юрьевич": 56,
-      "Пьяных Дмитрий Сергеевич": 6,
-      "Сарсенгалиев Токтар Аянбаевич": 9,
-      "Фролов Константин Александрович": 1
+      "gas:candidate-vibid:4644046384487": 7,
+      "gas:candidate-vibid:4644046402852": 4,
+      "gas:candidate-vibid:4644046384579": 3,
+      "gas:candidate-vibid:4644046384714": 2,
+      "gas:candidate-vibid:4644046402793": 0,
+      "gas:candidate-vibid:4644046384764": 56,
+      "gas:candidate-vibid:4644046383672": 6,
+      "gas:candidate-vibid:4644046384451": 9,
+      "gas:candidate-vibid:4644046402805": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000218&tvd=26420001135289&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135289&type=464",
@@ -1282,15 +1282,15 @@ export const duma_2016_uik_463_region_64_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афанасьев Сергей Николаевич": 51,
-      "Байрамов Эльнур Абдулали оглы": 3,
-      "Гришанцов Александр Иванович": 7,
-      "Журбин Александр Павлович": 11,
-      "Мазепов Алексей Анатольевич": 8,
-      "Максимов Василий Юрьевич": 115,
-      "Пьяных Дмитрий Сергеевич": 38,
-      "Сарсенгалиев Токтар Аянбаевич": 153,
-      "Фролов Константин Александрович": 10
+      "gas:candidate-vibid:4644046384487": 51,
+      "gas:candidate-vibid:4644046402852": 3,
+      "gas:candidate-vibid:4644046384579": 7,
+      "gas:candidate-vibid:4644046384714": 11,
+      "gas:candidate-vibid:4644046402793": 8,
+      "gas:candidate-vibid:4644046384764": 115,
+      "gas:candidate-vibid:4644046383672": 38,
+      "gas:candidate-vibid:4644046384451": 153,
+      "gas:candidate-vibid:4644046402805": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000218&tvd=26420001135289&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135289&type=464",
@@ -1341,15 +1341,15 @@ export const duma_2016_uik_463_region_64_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афанасьев Сергей Николаевич": 85,
-      "Байрамов Эльнур Абдулали оглы": 10,
-      "Гришанцов Александр Иванович": 14,
-      "Журбин Александр Павлович": 7,
-      "Мазепов Алексей Анатольевич": 5,
-      "Максимов Василий Юрьевич": 145,
-      "Пьяных Дмитрий Сергеевич": 25,
-      "Сарсенгалиев Токтар Аянбаевич": 158,
-      "Фролов Константин Александрович": 4
+      "gas:candidate-vibid:4644046384487": 85,
+      "gas:candidate-vibid:4644046402852": 10,
+      "gas:candidate-vibid:4644046384579": 14,
+      "gas:candidate-vibid:4644046384714": 7,
+      "gas:candidate-vibid:4644046402793": 5,
+      "gas:candidate-vibid:4644046384764": 145,
+      "gas:candidate-vibid:4644046383672": 25,
+      "gas:candidate-vibid:4644046384451": 158,
+      "gas:candidate-vibid:4644046402805": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000218&tvd=26420001135289&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135289&type=464",
@@ -1400,15 +1400,15 @@ export const duma_2016_uik_463_region_64_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афанасьев Сергей Николаевич": 85,
-      "Байрамов Эльнур Абдулали оглы": 5,
-      "Гришанцов Александр Иванович": 21,
-      "Журбин Александр Павлович": 11,
-      "Мазепов Алексей Анатольевич": 7,
-      "Максимов Василий Юрьевич": 160,
-      "Пьяных Дмитрий Сергеевич": 43,
-      "Сарсенгалиев Токтар Аянбаевич": 185,
-      "Фролов Константин Александрович": 20
+      "gas:candidate-vibid:4644046384487": 85,
+      "gas:candidate-vibid:4644046402852": 5,
+      "gas:candidate-vibid:4644046384579": 21,
+      "gas:candidate-vibid:4644046384714": 11,
+      "gas:candidate-vibid:4644046402793": 7,
+      "gas:candidate-vibid:4644046384764": 160,
+      "gas:candidate-vibid:4644046383672": 43,
+      "gas:candidate-vibid:4644046384451": 185,
+      "gas:candidate-vibid:4644046402805": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000218&tvd=26420001135289&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135289&type=464",
@@ -1459,15 +1459,15 @@ export const duma_2016_uik_463_region_64_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афанасьев Сергей Николаевич": 99,
-      "Байрамов Эльнур Абдулали оглы": 8,
-      "Гришанцов Александр Иванович": 30,
-      "Журбин Александр Павлович": 13,
-      "Мазепов Алексей Анатольевич": 12,
-      "Максимов Василий Юрьевич": 221,
-      "Пьяных Дмитрий Сергеевич": 71,
-      "Сарсенгалиев Токтар Аянбаевич": 185,
-      "Фролов Константин Александрович": 15
+      "gas:candidate-vibid:4644046384487": 99,
+      "gas:candidate-vibid:4644046402852": 8,
+      "gas:candidate-vibid:4644046384579": 30,
+      "gas:candidate-vibid:4644046384714": 13,
+      "gas:candidate-vibid:4644046402793": 12,
+      "gas:candidate-vibid:4644046384764": 221,
+      "gas:candidate-vibid:4644046383672": 71,
+      "gas:candidate-vibid:4644046384451": 185,
+      "gas:candidate-vibid:4644046402805": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000218&tvd=26420001135289&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135289&type=464",
@@ -1518,15 +1518,15 @@ export const duma_2016_uik_463_region_64_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афанасьев Сергей Николаевич": 84,
-      "Байрамов Эльнур Абдулали оглы": 12,
-      "Гришанцов Александр Иванович": 26,
-      "Журбин Александр Павлович": 9,
-      "Мазепов Алексей Анатольевич": 5,
-      "Максимов Василий Юрьевич": 202,
-      "Пьяных Дмитрий Сергеевич": 46,
-      "Сарсенгалиев Токтар Аянбаевич": 257,
-      "Фролов Константин Александрович": 5
+      "gas:candidate-vibid:4644046384487": 84,
+      "gas:candidate-vibid:4644046402852": 12,
+      "gas:candidate-vibid:4644046384579": 26,
+      "gas:candidate-vibid:4644046384714": 9,
+      "gas:candidate-vibid:4644046402793": 5,
+      "gas:candidate-vibid:4644046384764": 202,
+      "gas:candidate-vibid:4644046383672": 46,
+      "gas:candidate-vibid:4644046384451": 257,
+      "gas:candidate-vibid:4644046402805": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000218&tvd=26420001135289&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135289&type=464",
@@ -1577,15 +1577,15 @@ export const duma_2016_uik_463_region_64_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афанасьев Сергей Николаевич": 68,
-      "Байрамов Эльнур Абдулали оглы": 5,
-      "Гришанцов Александр Иванович": 18,
-      "Журбин Александр Павлович": 5,
-      "Мазепов Алексей Анатольевич": 5,
-      "Максимов Василий Юрьевич": 133,
-      "Пьяных Дмитрий Сергеевич": 44,
-      "Сарсенгалиев Токтар Аянбаевич": 126,
-      "Фролов Константин Александрович": 12
+      "gas:candidate-vibid:4644046384487": 68,
+      "gas:candidate-vibid:4644046402852": 5,
+      "gas:candidate-vibid:4644046384579": 18,
+      "gas:candidate-vibid:4644046384714": 5,
+      "gas:candidate-vibid:4644046402793": 5,
+      "gas:candidate-vibid:4644046384764": 133,
+      "gas:candidate-vibid:4644046383672": 44,
+      "gas:candidate-vibid:4644046384451": 126,
+      "gas:candidate-vibid:4644046402805": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000218&tvd=26420001135289&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135289&type=464",
@@ -1636,15 +1636,15 @@ export const duma_2016_uik_463_region_64_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афанасьев Сергей Николаевич": 75,
-      "Байрамов Эльнур Абдулали оглы": 9,
-      "Гришанцов Александр Иванович": 16,
-      "Журбин Александр Павлович": 6,
-      "Мазепов Алексей Анатольевич": 2,
-      "Максимов Василий Юрьевич": 174,
-      "Пьяных Дмитрий Сергеевич": 41,
-      "Сарсенгалиев Токтар Аянбаевич": 130,
-      "Фролов Константин Александрович": 8
+      "gas:candidate-vibid:4644046384487": 75,
+      "gas:candidate-vibid:4644046402852": 9,
+      "gas:candidate-vibid:4644046384579": 16,
+      "gas:candidate-vibid:4644046384714": 6,
+      "gas:candidate-vibid:4644046402793": 2,
+      "gas:candidate-vibid:4644046384764": 174,
+      "gas:candidate-vibid:4644046383672": 41,
+      "gas:candidate-vibid:4644046384451": 130,
+      "gas:candidate-vibid:4644046402805": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000218&tvd=26420001135289&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135289&type=464",
@@ -1695,15 +1695,15 @@ export const duma_2016_uik_463_region_64_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афанасьев Сергей Николаевич": 45,
-      "Байрамов Эльнур Абдулали оглы": 6,
-      "Гришанцов Александр Иванович": 24,
-      "Журбин Александр Павлович": 5,
-      "Мазепов Алексей Анатольевич": 3,
-      "Максимов Василий Юрьевич": 93,
-      "Пьяных Дмитрий Сергеевич": 41,
-      "Сарсенгалиев Токтар Аянбаевич": 115,
-      "Фролов Константин Александрович": 2
+      "gas:candidate-vibid:4644046384487": 45,
+      "gas:candidate-vibid:4644046402852": 6,
+      "gas:candidate-vibid:4644046384579": 24,
+      "gas:candidate-vibid:4644046384714": 5,
+      "gas:candidate-vibid:4644046402793": 3,
+      "gas:candidate-vibid:4644046384764": 93,
+      "gas:candidate-vibid:4644046383672": 41,
+      "gas:candidate-vibid:4644046384451": 115,
+      "gas:candidate-vibid:4644046402805": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000218&tvd=26420001135289&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135289&type=464",
@@ -1754,15 +1754,15 @@ export const duma_2016_uik_463_region_64_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афанасьев Сергей Николаевич": 36,
-      "Байрамов Эльнур Абдулали оглы": 6,
-      "Гришанцов Александр Иванович": 10,
-      "Журбин Александр Павлович": 6,
-      "Мазепов Алексей Анатольевич": 4,
-      "Максимов Василий Юрьевич": 82,
-      "Пьяных Дмитрий Сергеевич": 33,
-      "Сарсенгалиев Токтар Аянбаевич": 190,
-      "Фролов Константин Александрович": 11
+      "gas:candidate-vibid:4644046384487": 36,
+      "gas:candidate-vibid:4644046402852": 6,
+      "gas:candidate-vibid:4644046384579": 10,
+      "gas:candidate-vibid:4644046384714": 6,
+      "gas:candidate-vibid:4644046402793": 4,
+      "gas:candidate-vibid:4644046384764": 82,
+      "gas:candidate-vibid:4644046383672": 33,
+      "gas:candidate-vibid:4644046384451": 190,
+      "gas:candidate-vibid:4644046402805": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000218&tvd=26420001135289&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135289&type=464",
@@ -1813,15 +1813,15 @@ export const duma_2016_uik_463_region_64_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афанасьев Сергей Николаевич": 71,
-      "Байрамов Эльнур Абдулали оглы": 3,
-      "Гришанцов Александр Иванович": 14,
-      "Журбин Александр Павлович": 8,
-      "Мазепов Алексей Анатольевич": 8,
-      "Максимов Василий Юрьевич": 106,
-      "Пьяных Дмитрий Сергеевич": 41,
-      "Сарсенгалиев Токтар Аянбаевич": 180,
-      "Фролов Константин Александрович": 9
+      "gas:candidate-vibid:4644046384487": 71,
+      "gas:candidate-vibid:4644046402852": 3,
+      "gas:candidate-vibid:4644046384579": 14,
+      "gas:candidate-vibid:4644046384714": 8,
+      "gas:candidate-vibid:4644046402793": 8,
+      "gas:candidate-vibid:4644046384764": 106,
+      "gas:candidate-vibid:4644046383672": 41,
+      "gas:candidate-vibid:4644046384451": 180,
+      "gas:candidate-vibid:4644046402805": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000218&tvd=26420001135289&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135289&type=464",
@@ -1872,15 +1872,15 @@ export const duma_2016_uik_463_region_64_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афанасьев Сергей Николаевич": 79,
-      "Байрамов Эльнур Абдулали оглы": 13,
-      "Гришанцов Александр Иванович": 27,
-      "Журбин Александр Павлович": 17,
-      "Мазепов Алексей Анатольевич": 6,
-      "Максимов Василий Юрьевич": 188,
-      "Пьяных Дмитрий Сергеевич": 52,
-      "Сарсенгалиев Токтар Аянбаевич": 230,
-      "Фролов Константин Александрович": 13
+      "gas:candidate-vibid:4644046384487": 79,
+      "gas:candidate-vibid:4644046402852": 13,
+      "gas:candidate-vibid:4644046384579": 27,
+      "gas:candidate-vibid:4644046384714": 17,
+      "gas:candidate-vibid:4644046402793": 6,
+      "gas:candidate-vibid:4644046384764": 188,
+      "gas:candidate-vibid:4644046383672": 52,
+      "gas:candidate-vibid:4644046384451": 230,
+      "gas:candidate-vibid:4644046402805": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000218&tvd=26420001135289&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135289&type=464",
@@ -1931,15 +1931,15 @@ export const duma_2016_uik_463_region_64_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афанасьев Сергей Николаевич": 40,
-      "Байрамов Эльнур Абдулали оглы": 5,
-      "Гришанцов Александр Иванович": 6,
-      "Журбин Александр Павлович": 5,
-      "Мазепов Алексей Анатольевич": 1,
-      "Максимов Василий Юрьевич": 120,
-      "Пьяных Дмитрий Сергеевич": 41,
-      "Сарсенгалиев Токтар Аянбаевич": 191,
-      "Фролов Константин Александрович": 13
+      "gas:candidate-vibid:4644046384487": 40,
+      "gas:candidate-vibid:4644046402852": 5,
+      "gas:candidate-vibid:4644046384579": 6,
+      "gas:candidate-vibid:4644046384714": 5,
+      "gas:candidate-vibid:4644046402793": 1,
+      "gas:candidate-vibid:4644046384764": 120,
+      "gas:candidate-vibid:4644046383672": 41,
+      "gas:candidate-vibid:4644046384451": 191,
+      "gas:candidate-vibid:4644046402805": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000218&tvd=26420001135289&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135289&type=464",
@@ -1990,15 +1990,15 @@ export const duma_2016_uik_463_region_64_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афанасьев Сергей Николаевич": 50,
-      "Байрамов Эльнур Абдулали оглы": 2,
-      "Гришанцов Александр Иванович": 9,
-      "Журбин Александр Павлович": 5,
-      "Мазепов Алексей Анатольевич": 1,
-      "Максимов Василий Юрьевич": 118,
-      "Пьяных Дмитрий Сергеевич": 26,
-      "Сарсенгалиев Токтар Аянбаевич": 227,
-      "Фролов Константин Александрович": 4
+      "gas:candidate-vibid:4644046384487": 50,
+      "gas:candidate-vibid:4644046402852": 2,
+      "gas:candidate-vibid:4644046384579": 9,
+      "gas:candidate-vibid:4644046384714": 5,
+      "gas:candidate-vibid:4644046402793": 1,
+      "gas:candidate-vibid:4644046384764": 118,
+      "gas:candidate-vibid:4644046383672": 26,
+      "gas:candidate-vibid:4644046384451": 227,
+      "gas:candidate-vibid:4644046402805": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000218&tvd=26420001135289&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135289&type=464",
@@ -2049,15 +2049,15 @@ export const duma_2016_uik_463_region_64_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афанасьев Сергей Николаевич": 56,
-      "Байрамов Эльнур Абдулали оглы": 6,
-      "Гришанцов Александр Иванович": 16,
-      "Журбин Александр Павлович": 7,
-      "Мазепов Алексей Анатольевич": 6,
-      "Максимов Василий Юрьевич": 165,
-      "Пьяных Дмитрий Сергеевич": 39,
-      "Сарсенгалиев Токтар Аянбаевич": 159,
-      "Фролов Константин Александрович": 5
+      "gas:candidate-vibid:4644046384487": 56,
+      "gas:candidate-vibid:4644046402852": 6,
+      "gas:candidate-vibid:4644046384579": 16,
+      "gas:candidate-vibid:4644046384714": 7,
+      "gas:candidate-vibid:4644046402793": 6,
+      "gas:candidate-vibid:4644046384764": 165,
+      "gas:candidate-vibid:4644046383672": 39,
+      "gas:candidate-vibid:4644046384451": 159,
+      "gas:candidate-vibid:4644046402805": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000218&tvd=26420001135289&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135289&type=464",
@@ -2108,15 +2108,15 @@ export const duma_2016_uik_463_region_64_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афанасьев Сергей Николаевич": 63,
-      "Байрамов Эльнур Абдулали оглы": 8,
-      "Гришанцов Александр Иванович": 20,
-      "Журбин Александр Павлович": 9,
-      "Мазепов Алексей Анатольевич": 5,
-      "Максимов Василий Юрьевич": 167,
-      "Пьяных Дмитрий Сергеевич": 37,
-      "Сарсенгалиев Токтар Аянбаевич": 198,
-      "Фролов Константин Александрович": 4
+      "gas:candidate-vibid:4644046384487": 63,
+      "gas:candidate-vibid:4644046402852": 8,
+      "gas:candidate-vibid:4644046384579": 20,
+      "gas:candidate-vibid:4644046384714": 9,
+      "gas:candidate-vibid:4644046402793": 5,
+      "gas:candidate-vibid:4644046384764": 167,
+      "gas:candidate-vibid:4644046383672": 37,
+      "gas:candidate-vibid:4644046384451": 198,
+      "gas:candidate-vibid:4644046402805": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000218&tvd=26420001135289&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135289&type=464",
@@ -2167,15 +2167,15 @@ export const duma_2016_uik_463_region_64_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афанасьев Сергей Николаевич": 72,
-      "Байрамов Эльнур Абдулали оглы": 13,
-      "Гришанцов Александр Иванович": 17,
-      "Журбин Александр Павлович": 8,
-      "Мазепов Алексей Анатольевич": 12,
-      "Максимов Василий Юрьевич": 170,
-      "Пьяных Дмитрий Сергеевич": 34,
-      "Сарсенгалиев Токтар Аянбаевич": 166,
-      "Фролов Константин Александрович": 11
+      "gas:candidate-vibid:4644046384487": 72,
+      "gas:candidate-vibid:4644046402852": 13,
+      "gas:candidate-vibid:4644046384579": 17,
+      "gas:candidate-vibid:4644046384714": 8,
+      "gas:candidate-vibid:4644046402793": 12,
+      "gas:candidate-vibid:4644046384764": 170,
+      "gas:candidate-vibid:4644046383672": 34,
+      "gas:candidate-vibid:4644046384451": 166,
+      "gas:candidate-vibid:4644046402805": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000218&tvd=26420001135289&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135289&type=464",
@@ -2226,15 +2226,15 @@ export const duma_2016_uik_463_region_64_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афанасьев Сергей Николаевич": 46,
-      "Байрамов Эльнур Абдулали оглы": 4,
-      "Гришанцов Александр Иванович": 16,
-      "Журбин Александр Павлович": 4,
-      "Мазепов Алексей Анатольевич": 5,
-      "Максимов Василий Юрьевич": 185,
-      "Пьяных Дмитрий Сергеевич": 38,
-      "Сарсенгалиев Токтар Аянбаевич": 188,
-      "Фролов Константин Александрович": 5
+      "gas:candidate-vibid:4644046384487": 46,
+      "gas:candidate-vibid:4644046402852": 4,
+      "gas:candidate-vibid:4644046384579": 16,
+      "gas:candidate-vibid:4644046384714": 4,
+      "gas:candidate-vibid:4644046402793": 5,
+      "gas:candidate-vibid:4644046384764": 185,
+      "gas:candidate-vibid:4644046383672": 38,
+      "gas:candidate-vibid:4644046384451": 188,
+      "gas:candidate-vibid:4644046402805": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000218&tvd=26420001135289&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135289&type=464",
@@ -2285,15 +2285,15 @@ export const duma_2016_uik_463_region_64_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афанасьев Сергей Николаевич": 64,
-      "Байрамов Эльнур Абдулали оглы": 3,
-      "Гришанцов Александр Иванович": 15,
-      "Журбин Александр Павлович": 7,
-      "Мазепов Алексей Анатольевич": 4,
-      "Максимов Василий Юрьевич": 155,
-      "Пьяных Дмитрий Сергеевич": 49,
-      "Сарсенгалиев Токтар Аянбаевич": 221,
-      "Фролов Константин Александрович": 5
+      "gas:candidate-vibid:4644046384487": 64,
+      "gas:candidate-vibid:4644046402852": 3,
+      "gas:candidate-vibid:4644046384579": 15,
+      "gas:candidate-vibid:4644046384714": 7,
+      "gas:candidate-vibid:4644046402793": 4,
+      "gas:candidate-vibid:4644046384764": 155,
+      "gas:candidate-vibid:4644046383672": 49,
+      "gas:candidate-vibid:4644046384451": 221,
+      "gas:candidate-vibid:4644046402805": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000218&tvd=26420001135289&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135289&type=464",
@@ -2344,15 +2344,15 @@ export const duma_2016_uik_463_region_64_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афанасьев Сергей Николаевич": 69,
-      "Байрамов Эльнур Абдулали оглы": 7,
-      "Гришанцов Александр Иванович": 19,
-      "Журбин Александр Павлович": 7,
-      "Мазепов Алексей Анатольевич": 6,
-      "Максимов Василий Юрьевич": 213,
-      "Пьяных Дмитрий Сергеевич": 44,
-      "Сарсенгалиев Токтар Аянбаевич": 208,
-      "Фролов Константин Александрович": 6
+      "gas:candidate-vibid:4644046384487": 69,
+      "gas:candidate-vibid:4644046402852": 7,
+      "gas:candidate-vibid:4644046384579": 19,
+      "gas:candidate-vibid:4644046384714": 7,
+      "gas:candidate-vibid:4644046402793": 6,
+      "gas:candidate-vibid:4644046384764": 213,
+      "gas:candidate-vibid:4644046383672": 44,
+      "gas:candidate-vibid:4644046384451": 208,
+      "gas:candidate-vibid:4644046402805": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000218&tvd=26420001135289&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135289&type=464",
@@ -2403,15 +2403,15 @@ export const duma_2016_uik_463_region_64_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афанасьев Сергей Николаевич": 72,
-      "Байрамов Эльнур Абдулали оглы": 4,
-      "Гришанцов Александр Иванович": 21,
-      "Журбин Александр Павлович": 5,
-      "Мазепов Алексей Анатольевич": 5,
-      "Максимов Василий Юрьевич": 136,
-      "Пьяных Дмитрий Сергеевич": 56,
-      "Сарсенгалиев Токтар Аянбаевич": 195,
-      "Фролов Константин Александрович": 1
+      "gas:candidate-vibid:4644046384487": 72,
+      "gas:candidate-vibid:4644046402852": 4,
+      "gas:candidate-vibid:4644046384579": 21,
+      "gas:candidate-vibid:4644046384714": 5,
+      "gas:candidate-vibid:4644046402793": 5,
+      "gas:candidate-vibid:4644046384764": 136,
+      "gas:candidate-vibid:4644046383672": 56,
+      "gas:candidate-vibid:4644046384451": 195,
+      "gas:candidate-vibid:4644046402805": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000218&tvd=26420001135289&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135289&type=464",
@@ -2462,15 +2462,15 @@ export const duma_2016_uik_463_region_64_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афанасьев Сергей Николаевич": 53,
-      "Байрамов Эльнур Абдулали оглы": 2,
-      "Гришанцов Александр Иванович": 24,
-      "Журбин Александр Павлович": 7,
-      "Мазепов Алексей Анатольевич": 11,
-      "Максимов Василий Юрьевич": 225,
-      "Пьяных Дмитрий Сергеевич": 64,
-      "Сарсенгалиев Токтар Аянбаевич": 20,
-      "Фролов Константин Александрович": 8
+      "gas:candidate-vibid:4644046384487": 53,
+      "gas:candidate-vibid:4644046402852": 2,
+      "gas:candidate-vibid:4644046384579": 24,
+      "gas:candidate-vibid:4644046384714": 7,
+      "gas:candidate-vibid:4644046402793": 11,
+      "gas:candidate-vibid:4644046384764": 225,
+      "gas:candidate-vibid:4644046383672": 64,
+      "gas:candidate-vibid:4644046384451": 20,
+      "gas:candidate-vibid:4644046402805": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000218&tvd=26420001135290&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135290&type=464",
@@ -2521,15 +2521,15 @@ export const duma_2016_uik_463_region_64_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афанасьев Сергей Николаевич": 35,
-      "Байрамов Эльнур Абдулали оглы": 4,
-      "Гришанцов Александр Иванович": 8,
-      "Журбин Александр Павлович": 7,
-      "Мазепов Алексей Анатольевич": 5,
-      "Максимов Василий Юрьевич": 222,
-      "Пьяных Дмитрий Сергеевич": 54,
-      "Сарсенгалиев Токтар Аянбаевич": 9,
-      "Фролов Константин Александрович": 3
+      "gas:candidate-vibid:4644046384487": 35,
+      "gas:candidate-vibid:4644046402852": 4,
+      "gas:candidate-vibid:4644046384579": 8,
+      "gas:candidate-vibid:4644046384714": 7,
+      "gas:candidate-vibid:4644046402793": 5,
+      "gas:candidate-vibid:4644046384764": 222,
+      "gas:candidate-vibid:4644046383672": 54,
+      "gas:candidate-vibid:4644046384451": 9,
+      "gas:candidate-vibid:4644046402805": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000218&tvd=26420001135290&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135290&type=464",
@@ -2580,15 +2580,15 @@ export const duma_2016_uik_463_region_64_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афанасьев Сергей Николаевич": 51,
-      "Байрамов Эльнур Абдулали оглы": 8,
-      "Гришанцов Александр Иванович": 5,
-      "Журбин Александр Павлович": 4,
-      "Мазепов Алексей Анатольевич": 7,
-      "Максимов Василий Юрьевич": 210,
-      "Пьяных Дмитрий Сергеевич": 51,
-      "Сарсенгалиев Токтар Аянбаевич": 19,
-      "Фролов Константин Александрович": 11
+      "gas:candidate-vibid:4644046384487": 51,
+      "gas:candidate-vibid:4644046402852": 8,
+      "gas:candidate-vibid:4644046384579": 5,
+      "gas:candidate-vibid:4644046384714": 4,
+      "gas:candidate-vibid:4644046402793": 7,
+      "gas:candidate-vibid:4644046384764": 210,
+      "gas:candidate-vibid:4644046383672": 51,
+      "gas:candidate-vibid:4644046384451": 19,
+      "gas:candidate-vibid:4644046402805": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000218&tvd=26420001135290&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135290&type=464",
@@ -2639,15 +2639,15 @@ export const duma_2016_uik_463_region_64_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афанасьев Сергей Николаевич": 36,
-      "Байрамов Эльнур Абдулали оглы": 10,
-      "Гришанцов Александр Иванович": 12,
-      "Журбин Александр Павлович": 15,
-      "Мазепов Алексей Анатольевич": 12,
-      "Максимов Василий Юрьевич": 217,
-      "Пьяных Дмитрий Сергеевич": 36,
-      "Сарсенгалиев Токтар Аянбаевич": 10,
-      "Фролов Константин Александрович": 1
+      "gas:candidate-vibid:4644046384487": 36,
+      "gas:candidate-vibid:4644046402852": 10,
+      "gas:candidate-vibid:4644046384579": 12,
+      "gas:candidate-vibid:4644046384714": 15,
+      "gas:candidate-vibid:4644046402793": 12,
+      "gas:candidate-vibid:4644046384764": 217,
+      "gas:candidate-vibid:4644046383672": 36,
+      "gas:candidate-vibid:4644046384451": 10,
+      "gas:candidate-vibid:4644046402805": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000218&tvd=26420001135290&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135290&type=464",
@@ -2698,15 +2698,15 @@ export const duma_2016_uik_463_region_64_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афанасьев Сергей Николаевич": 69,
-      "Байрамов Эльнур Абдулали оглы": 3,
-      "Гришанцов Александр Иванович": 14,
-      "Журбин Александр Павлович": 14,
-      "Мазепов Алексей Анатольевич": 6,
-      "Максимов Василий Юрьевич": 264,
-      "Пьяных Дмитрий Сергеевич": 51,
-      "Сарсенгалиев Токтар Аянбаевич": 17,
-      "Фролов Константин Александрович": 4
+      "gas:candidate-vibid:4644046384487": 69,
+      "gas:candidate-vibid:4644046402852": 3,
+      "gas:candidate-vibid:4644046384579": 14,
+      "gas:candidate-vibid:4644046384714": 14,
+      "gas:candidate-vibid:4644046402793": 6,
+      "gas:candidate-vibid:4644046384764": 264,
+      "gas:candidate-vibid:4644046383672": 51,
+      "gas:candidate-vibid:4644046384451": 17,
+      "gas:candidate-vibid:4644046402805": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000218&tvd=26420001135290&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135290&type=464",
@@ -2757,15 +2757,15 @@ export const duma_2016_uik_463_region_64_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афанасьев Сергей Николаевич": 83,
-      "Байрамов Эльнур Абдулали оглы": 9,
-      "Гришанцов Александр Иванович": 14,
-      "Журбин Александр Павлович": 7,
-      "Мазепов Алексей Анатольевич": 6,
-      "Максимов Василий Юрьевич": 217,
-      "Пьяных Дмитрий Сергеевич": 55,
-      "Сарсенгалиев Токтар Аянбаевич": 8,
-      "Фролов Константин Александрович": 10
+      "gas:candidate-vibid:4644046384487": 83,
+      "gas:candidate-vibid:4644046402852": 9,
+      "gas:candidate-vibid:4644046384579": 14,
+      "gas:candidate-vibid:4644046384714": 7,
+      "gas:candidate-vibid:4644046402793": 6,
+      "gas:candidate-vibid:4644046384764": 217,
+      "gas:candidate-vibid:4644046383672": 55,
+      "gas:candidate-vibid:4644046384451": 8,
+      "gas:candidate-vibid:4644046402805": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000218&tvd=26420001135290&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135290&type=464",
@@ -2816,15 +2816,15 @@ export const duma_2016_uik_463_region_64_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афанасьев Сергей Николаевич": 60,
-      "Байрамов Эльнур Абдулали оглы": 2,
-      "Гришанцов Александр Иванович": 16,
-      "Журбин Александр Павлович": 12,
-      "Мазепов Алексей Анатольевич": 10,
-      "Максимов Василий Юрьевич": 222,
-      "Пьяных Дмитрий Сергеевич": 64,
-      "Сарсенгалиев Токтар Аянбаевич": 15,
-      "Фролов Константин Александрович": 6
+      "gas:candidate-vibid:4644046384487": 60,
+      "gas:candidate-vibid:4644046402852": 2,
+      "gas:candidate-vibid:4644046384579": 16,
+      "gas:candidate-vibid:4644046384714": 12,
+      "gas:candidate-vibid:4644046402793": 10,
+      "gas:candidate-vibid:4644046384764": 222,
+      "gas:candidate-vibid:4644046383672": 64,
+      "gas:candidate-vibid:4644046384451": 15,
+      "gas:candidate-vibid:4644046402805": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000218&tvd=26420001135290&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135290&type=464",
@@ -2875,15 +2875,15 @@ export const duma_2016_uik_463_region_64_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афанасьев Сергей Николаевич": 82,
-      "Байрамов Эльнур Абдулали оглы": 7,
-      "Гришанцов Александр Иванович": 18,
-      "Журбин Александр Павлович": 9,
-      "Мазепов Алексей Анатольевич": 3,
-      "Максимов Василий Юрьевич": 226,
-      "Пьяных Дмитрий Сергеевич": 54,
-      "Сарсенгалиев Токтар Аянбаевич": 17,
-      "Фролов Константин Александрович": 6
+      "gas:candidate-vibid:4644046384487": 82,
+      "gas:candidate-vibid:4644046402852": 7,
+      "gas:candidate-vibid:4644046384579": 18,
+      "gas:candidate-vibid:4644046384714": 9,
+      "gas:candidate-vibid:4644046402793": 3,
+      "gas:candidate-vibid:4644046384764": 226,
+      "gas:candidate-vibid:4644046383672": 54,
+      "gas:candidate-vibid:4644046384451": 17,
+      "gas:candidate-vibid:4644046402805": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000218&tvd=26420001135290&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135290&type=464",
@@ -2934,15 +2934,15 @@ export const duma_2016_uik_463_region_64_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афанасьев Сергей Николаевич": 57,
-      "Байрамов Эльнур Абдулали оглы": 2,
-      "Гришанцов Александр Иванович": 13,
-      "Журбин Александр Павлович": 5,
-      "Мазепов Алексей Анатольевич": 1,
-      "Максимов Василий Юрьевич": 229,
-      "Пьяных Дмитрий Сергеевич": 39,
-      "Сарсенгалиев Токтар Аянбаевич": 13,
-      "Фролов Константин Александрович": 13
+      "gas:candidate-vibid:4644046384487": 57,
+      "gas:candidate-vibid:4644046402852": 2,
+      "gas:candidate-vibid:4644046384579": 13,
+      "gas:candidate-vibid:4644046384714": 5,
+      "gas:candidate-vibid:4644046402793": 1,
+      "gas:candidate-vibid:4644046384764": 229,
+      "gas:candidate-vibid:4644046383672": 39,
+      "gas:candidate-vibid:4644046384451": 13,
+      "gas:candidate-vibid:4644046402805": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000218&tvd=26420001135290&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135290&type=464",
@@ -2993,15 +2993,15 @@ export const duma_2016_uik_463_region_64_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афанасьев Сергей Николаевич": 46,
-      "Байрамов Эльнур Абдулали оглы": 7,
-      "Гришанцов Александр Иванович": 18,
-      "Журбин Александр Павлович": 6,
-      "Мазепов Алексей Анатольевич": 6,
-      "Максимов Василий Юрьевич": 191,
-      "Пьяных Дмитрий Сергеевич": 44,
-      "Сарсенгалиев Токтар Аянбаевич": 6,
-      "Фролов Константин Александрович": 4
+      "gas:candidate-vibid:4644046384487": 46,
+      "gas:candidate-vibid:4644046402852": 7,
+      "gas:candidate-vibid:4644046384579": 18,
+      "gas:candidate-vibid:4644046384714": 6,
+      "gas:candidate-vibid:4644046402793": 6,
+      "gas:candidate-vibid:4644046384764": 191,
+      "gas:candidate-vibid:4644046383672": 44,
+      "gas:candidate-vibid:4644046384451": 6,
+      "gas:candidate-vibid:4644046402805": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000218&tvd=26420001135290&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135290&type=464",
@@ -3052,15 +3052,15 @@ export const duma_2016_uik_463_region_64_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афанасьев Сергей Николаевич": 27,
-      "Байрамов Эльнур Абдулали оглы": 0,
-      "Гришанцов Александр Иванович": 7,
-      "Журбин Александр Павлович": 7,
-      "Мазепов Алексей Анатольевич": 8,
-      "Максимов Василий Юрьевич": 127,
-      "Пьяных Дмитрий Сергеевич": 38,
-      "Сарсенгалиев Токтар Аянбаевич": 10,
-      "Фролов Константин Александрович": 4
+      "gas:candidate-vibid:4644046384487": 27,
+      "gas:candidate-vibid:4644046402852": 0,
+      "gas:candidate-vibid:4644046384579": 7,
+      "gas:candidate-vibid:4644046384714": 7,
+      "gas:candidate-vibid:4644046402793": 8,
+      "gas:candidate-vibid:4644046384764": 127,
+      "gas:candidate-vibid:4644046383672": 38,
+      "gas:candidate-vibid:4644046384451": 10,
+      "gas:candidate-vibid:4644046402805": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000218&tvd=26420001135290&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135290&type=464",
@@ -3111,15 +3111,15 @@ export const duma_2016_uik_463_region_64_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афанасьев Сергей Николаевич": 42,
-      "Байрамов Эльнур Абдулали оглы": 4,
-      "Гришанцов Александр Иванович": 13,
-      "Журбин Александр Павлович": 7,
-      "Мазепов Алексей Анатольевич": 7,
-      "Максимов Василий Юрьевич": 159,
-      "Пьяных Дмитрий Сергеевич": 24,
-      "Сарсенгалиев Токтар Аянбаевич": 10,
-      "Фролов Константин Александрович": 10
+      "gas:candidate-vibid:4644046384487": 42,
+      "gas:candidate-vibid:4644046402852": 4,
+      "gas:candidate-vibid:4644046384579": 13,
+      "gas:candidate-vibid:4644046384714": 7,
+      "gas:candidate-vibid:4644046402793": 7,
+      "gas:candidate-vibid:4644046384764": 159,
+      "gas:candidate-vibid:4644046383672": 24,
+      "gas:candidate-vibid:4644046384451": 10,
+      "gas:candidate-vibid:4644046402805": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000218&tvd=26420001135290&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135290&type=464",
@@ -3170,15 +3170,15 @@ export const duma_2016_uik_463_region_64_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афанасьев Сергей Николаевич": 77,
-      "Байрамов Эльнур Абдулали оглы": 7,
-      "Гришанцов Александр Иванович": 18,
-      "Журбин Александр Павлович": 11,
-      "Мазепов Алексей Анатольевич": 7,
-      "Максимов Василий Юрьевич": 232,
-      "Пьяных Дмитрий Сергеевич": 61,
-      "Сарсенгалиев Токтар Аянбаевич": 16,
-      "Фролов Константин Александрович": 3
+      "gas:candidate-vibid:4644046384487": 77,
+      "gas:candidate-vibid:4644046402852": 7,
+      "gas:candidate-vibid:4644046384579": 18,
+      "gas:candidate-vibid:4644046384714": 11,
+      "gas:candidate-vibid:4644046402793": 7,
+      "gas:candidate-vibid:4644046384764": 232,
+      "gas:candidate-vibid:4644046383672": 61,
+      "gas:candidate-vibid:4644046384451": 16,
+      "gas:candidate-vibid:4644046402805": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000218&tvd=26420001135290&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135290&type=464",
@@ -3229,15 +3229,15 @@ export const duma_2016_uik_463_region_64_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афанасьев Сергей Николаевич": 66,
-      "Байрамов Эльнур Абдулали оглы": 7,
-      "Гришанцов Александр Иванович": 9,
-      "Журбин Александр Павлович": 10,
-      "Мазепов Алексей Анатольевич": 8,
-      "Максимов Василий Юрьевич": 207,
-      "Пьяных Дмитрий Сергеевич": 51,
-      "Сарсенгалиев Токтар Аянбаевич": 26,
-      "Фролов Константин Александрович": 16
+      "gas:candidate-vibid:4644046384487": 66,
+      "gas:candidate-vibid:4644046402852": 7,
+      "gas:candidate-vibid:4644046384579": 9,
+      "gas:candidate-vibid:4644046384714": 10,
+      "gas:candidate-vibid:4644046402793": 8,
+      "gas:candidate-vibid:4644046384764": 207,
+      "gas:candidate-vibid:4644046383672": 51,
+      "gas:candidate-vibid:4644046384451": 26,
+      "gas:candidate-vibid:4644046402805": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000218&tvd=26420001135290&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135290&type=464",
@@ -3288,15 +3288,15 @@ export const duma_2016_uik_463_region_64_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афанасьев Сергей Николаевич": 29,
-      "Байрамов Эльнур Абдулали оглы": 2,
-      "Гришанцов Александр Иванович": 3,
-      "Журбин Александр Павлович": 5,
-      "Мазепов Алексей Анатольевич": 6,
-      "Максимов Василий Юрьевич": 142,
-      "Пьяных Дмитрий Сергеевич": 31,
-      "Сарсенгалиев Токтар Аянбаевич": 6,
-      "Фролов Константин Александрович": 3
+      "gas:candidate-vibid:4644046384487": 29,
+      "gas:candidate-vibid:4644046402852": 2,
+      "gas:candidate-vibid:4644046384579": 3,
+      "gas:candidate-vibid:4644046384714": 5,
+      "gas:candidate-vibid:4644046402793": 6,
+      "gas:candidate-vibid:4644046384764": 142,
+      "gas:candidate-vibid:4644046383672": 31,
+      "gas:candidate-vibid:4644046384451": 6,
+      "gas:candidate-vibid:4644046402805": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000218&tvd=26420001135290&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135290&type=464",
@@ -3347,15 +3347,15 @@ export const duma_2016_uik_463_region_64_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афанасьев Сергей Николаевич": 13,
-      "Байрамов Эльнур Абдулали оглы": 4,
-      "Гришанцов Александр Иванович": 7,
-      "Журбин Александр Павлович": 6,
-      "Мазепов Алексей Анатольевич": 2,
-      "Максимов Василий Юрьевич": 126,
-      "Пьяных Дмитрий Сергеевич": 21,
-      "Сарсенгалиев Токтар Аянбаевич": 5,
-      "Фролов Константин Александрович": 5
+      "gas:candidate-vibid:4644046384487": 13,
+      "gas:candidate-vibid:4644046402852": 4,
+      "gas:candidate-vibid:4644046384579": 7,
+      "gas:candidate-vibid:4644046384714": 6,
+      "gas:candidate-vibid:4644046402793": 2,
+      "gas:candidate-vibid:4644046384764": 126,
+      "gas:candidate-vibid:4644046383672": 21,
+      "gas:candidate-vibid:4644046384451": 5,
+      "gas:candidate-vibid:4644046402805": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000218&tvd=26420001135290&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135290&type=464",
@@ -3406,15 +3406,15 @@ export const duma_2016_uik_463_region_64_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афанасьев Сергей Николаевич": 63,
-      "Байрамов Эльнур Абдулали оглы": 0,
-      "Гришанцов Александр Иванович": 4,
-      "Журбин Александр Павлович": 0,
-      "Мазепов Алексей Анатольевич": 1,
-      "Максимов Василий Юрьевич": 61,
-      "Пьяных Дмитрий Сергеевич": 17,
-      "Сарсенгалиев Токтар Аянбаевич": 1,
-      "Фролов Константин Александрович": 1
+      "gas:candidate-vibid:4644046384487": 63,
+      "gas:candidate-vibid:4644046402852": 0,
+      "gas:candidate-vibid:4644046384579": 4,
+      "gas:candidate-vibid:4644046384714": 0,
+      "gas:candidate-vibid:4644046402793": 1,
+      "gas:candidate-vibid:4644046384764": 61,
+      "gas:candidate-vibid:4644046383672": 17,
+      "gas:candidate-vibid:4644046384451": 1,
+      "gas:candidate-vibid:4644046402805": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000218&tvd=26420001135290&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135290&type=464",
@@ -3465,15 +3465,15 @@ export const duma_2016_uik_463_region_64_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афанасьев Сергей Николаевич": 35,
-      "Байрамов Эльнур Абдулали оглы": 3,
-      "Гришанцов Александр Иванович": 13,
-      "Журбин Александр Павлович": 7,
-      "Мазепов Алексей Анатольевич": 4,
-      "Максимов Василий Юрьевич": 126,
-      "Пьяных Дмитрий Сергеевич": 29,
-      "Сарсенгалиев Токтар Аянбаевич": 6,
-      "Фролов Константин Александрович": 3
+      "gas:candidate-vibid:4644046384487": 35,
+      "gas:candidate-vibid:4644046402852": 3,
+      "gas:candidate-vibid:4644046384579": 13,
+      "gas:candidate-vibid:4644046384714": 7,
+      "gas:candidate-vibid:4644046402793": 4,
+      "gas:candidate-vibid:4644046384764": 126,
+      "gas:candidate-vibid:4644046383672": 29,
+      "gas:candidate-vibid:4644046384451": 6,
+      "gas:candidate-vibid:4644046402805": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000218&tvd=26420001135290&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135290&type=464",
@@ -3524,15 +3524,15 @@ export const duma_2016_uik_463_region_64_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афанасьев Сергей Николаевич": 82,
-      "Байрамов Эльнур Абдулали оглы": 15,
-      "Гришанцов Александр Иванович": 27,
-      "Журбин Александр Павлович": 16,
-      "Мазепов Алексей Анатольевич": 31,
-      "Максимов Василий Юрьевич": 429,
-      "Пьяных Дмитрий Сергеевич": 55,
-      "Сарсенгалиев Токтар Аянбаевич": 12,
-      "Фролов Константин Александрович": 19
+      "gas:candidate-vibid:4644046384487": 82,
+      "gas:candidate-vibid:4644046402852": 15,
+      "gas:candidate-vibid:4644046384579": 27,
+      "gas:candidate-vibid:4644046384714": 16,
+      "gas:candidate-vibid:4644046402793": 31,
+      "gas:candidate-vibid:4644046384764": 429,
+      "gas:candidate-vibid:4644046383672": 55,
+      "gas:candidate-vibid:4644046384451": 12,
+      "gas:candidate-vibid:4644046402805": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000218&tvd=26420001135290&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135290&type=464",
@@ -3583,15 +3583,15 @@ export const duma_2016_uik_463_region_64_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афанасьев Сергей Николаевич": 12,
-      "Байрамов Эльнур Абдулали оглы": 6,
-      "Гришанцов Александр Иванович": 3,
-      "Журбин Александр Павлович": 9,
-      "Мазепов Алексей Анатольевич": 2,
-      "Максимов Василий Юрьевич": 319,
-      "Пьяных Дмитрий Сергеевич": 15,
-      "Сарсенгалиев Токтар Аянбаевич": 3,
-      "Фролов Константин Александрович": 5
+      "gas:candidate-vibid:4644046384487": 12,
+      "gas:candidate-vibid:4644046402852": 6,
+      "gas:candidate-vibid:4644046384579": 3,
+      "gas:candidate-vibid:4644046384714": 9,
+      "gas:candidate-vibid:4644046402793": 2,
+      "gas:candidate-vibid:4644046384764": 319,
+      "gas:candidate-vibid:4644046383672": 15,
+      "gas:candidate-vibid:4644046384451": 3,
+      "gas:candidate-vibid:4644046402805": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000218&tvd=26420001135290&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135290&type=464",
@@ -3642,15 +3642,15 @@ export const duma_2016_uik_463_region_64_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афанасьев Сергей Николаевич": 58,
-      "Байрамов Эльнур Абдулали оглы": 8,
-      "Гришанцов Александр Иванович": 12,
-      "Журбин Александр Павлович": 5,
-      "Мазепов Алексей Анатольевич": 4,
-      "Максимов Василий Юрьевич": 199,
-      "Пьяных Дмитрий Сергеевич": 28,
-      "Сарсенгалиев Токтар Аянбаевич": 16,
-      "Фролов Константин Александрович": 6
+      "gas:candidate-vibid:4644046384487": 58,
+      "gas:candidate-vibid:4644046402852": 8,
+      "gas:candidate-vibid:4644046384579": 12,
+      "gas:candidate-vibid:4644046384714": 5,
+      "gas:candidate-vibid:4644046402793": 4,
+      "gas:candidate-vibid:4644046384764": 199,
+      "gas:candidate-vibid:4644046383672": 28,
+      "gas:candidate-vibid:4644046384451": 16,
+      "gas:candidate-vibid:4644046402805": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000218&tvd=26420001135290&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135290&type=464",
@@ -3701,15 +3701,15 @@ export const duma_2016_uik_463_region_64_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афанасьев Сергей Николаевич": 22,
-      "Байрамов Эльнур Абдулали оглы": 4,
-      "Гришанцов Александр Иванович": 4,
-      "Журбин Александр Павлович": 2,
-      "Мазепов Алексей Анатольевич": 2,
-      "Максимов Василий Юрьевич": 96,
-      "Пьяных Дмитрий Сергеевич": 6,
-      "Сарсенгалиев Токтар Аянбаевич": 6,
-      "Фролов Константин Александрович": 4
+      "gas:candidate-vibid:4644046384487": 22,
+      "gas:candidate-vibid:4644046402852": 4,
+      "gas:candidate-vibid:4644046384579": 4,
+      "gas:candidate-vibid:4644046384714": 2,
+      "gas:candidate-vibid:4644046402793": 2,
+      "gas:candidate-vibid:4644046384764": 96,
+      "gas:candidate-vibid:4644046383672": 6,
+      "gas:candidate-vibid:4644046384451": 6,
+      "gas:candidate-vibid:4644046402805": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000218&tvd=26420001135290&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135290&type=464",
@@ -3760,15 +3760,15 @@ export const duma_2016_uik_463_region_64_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афанасьев Сергей Николаевич": 37,
-      "Байрамов Эльнур Абдулали оглы": 1,
-      "Гришанцов Александр Иванович": 14,
-      "Журбин Александр Павлович": 5,
-      "Мазепов Алексей Анатольевич": 3,
-      "Максимов Василий Юрьевич": 209,
-      "Пьяных Дмитрий Сергеевич": 21,
-      "Сарсенгалиев Токтар Аянбаевич": 9,
-      "Фролов Константин Александрович": 6
+      "gas:candidate-vibid:4644046384487": 37,
+      "gas:candidate-vibid:4644046402852": 1,
+      "gas:candidate-vibid:4644046384579": 14,
+      "gas:candidate-vibid:4644046384714": 5,
+      "gas:candidate-vibid:4644046402793": 3,
+      "gas:candidate-vibid:4644046384764": 209,
+      "gas:candidate-vibid:4644046383672": 21,
+      "gas:candidate-vibid:4644046384451": 9,
+      "gas:candidate-vibid:4644046402805": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000218&tvd=26420001135290&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135290&type=464",
@@ -3819,15 +3819,15 @@ export const duma_2016_uik_463_region_64_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афанасьев Сергей Николаевич": 39,
-      "Байрамов Эльнур Абдулали оглы": 5,
-      "Гришанцов Александр Иванович": 25,
-      "Журбин Александр Павлович": 8,
-      "Мазепов Алексей Анатольевич": 10,
-      "Максимов Василий Юрьевич": 158,
-      "Пьяных Дмитрий Сергеевич": 42,
-      "Сарсенгалиев Токтар Аянбаевич": 14,
-      "Фролов Константин Александрович": 3
+      "gas:candidate-vibid:4644046384487": 39,
+      "gas:candidate-vibid:4644046402852": 5,
+      "gas:candidate-vibid:4644046384579": 25,
+      "gas:candidate-vibid:4644046384714": 8,
+      "gas:candidate-vibid:4644046402793": 10,
+      "gas:candidate-vibid:4644046384764": 158,
+      "gas:candidate-vibid:4644046383672": 42,
+      "gas:candidate-vibid:4644046384451": 14,
+      "gas:candidate-vibid:4644046402805": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000218&tvd=26420001135290&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135290&type=464",
@@ -3878,15 +3878,15 @@ export const duma_2016_uik_463_region_64_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афанасьев Сергей Николаевич": 37,
-      "Байрамов Эльнур Абдулали оглы": 12,
-      "Гришанцов Александр Иванович": 14,
-      "Журбин Александр Павлович": 6,
-      "Мазепов Алексей Анатольевич": 4,
-      "Максимов Василий Юрьевич": 246,
-      "Пьяных Дмитрий Сергеевич": 24,
-      "Сарсенгалиев Токтар Аянбаевич": 6,
-      "Фролов Константин Александрович": 8
+      "gas:candidate-vibid:4644046384487": 37,
+      "gas:candidate-vibid:4644046402852": 12,
+      "gas:candidate-vibid:4644046384579": 14,
+      "gas:candidate-vibid:4644046384714": 6,
+      "gas:candidate-vibid:4644046402793": 4,
+      "gas:candidate-vibid:4644046384764": 246,
+      "gas:candidate-vibid:4644046383672": 24,
+      "gas:candidate-vibid:4644046384451": 6,
+      "gas:candidate-vibid:4644046402805": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000218&tvd=26420001135290&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135290&type=464",
@@ -3937,15 +3937,15 @@ export const duma_2016_uik_463_region_64_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афанасьев Сергей Николаевич": 33,
-      "Байрамов Эльнур Абдулали оглы": 7,
-      "Гришанцов Александр Иванович": 13,
-      "Журбин Александр Павлович": 12,
-      "Мазепов Алексей Анатольевич": 4,
-      "Максимов Василий Юрьевич": 286,
-      "Пьяных Дмитрий Сергеевич": 9,
-      "Сарсенгалиев Токтар Аянбаевич": 33,
-      "Фролов Константин Александрович": 3
+      "gas:candidate-vibid:4644046384487": 33,
+      "gas:candidate-vibid:4644046402852": 7,
+      "gas:candidate-vibid:4644046384579": 13,
+      "gas:candidate-vibid:4644046384714": 12,
+      "gas:candidate-vibid:4644046402793": 4,
+      "gas:candidate-vibid:4644046384764": 286,
+      "gas:candidate-vibid:4644046383672": 9,
+      "gas:candidate-vibid:4644046384451": 33,
+      "gas:candidate-vibid:4644046402805": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000218&tvd=26420001135290&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135290&type=464",
@@ -3996,15 +3996,15 @@ export const duma_2016_uik_463_region_64_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афанасьев Сергей Николаевич": 26,
-      "Байрамов Эльнур Абдулали оглы": 7,
-      "Гришанцов Александр Иванович": 9,
-      "Журбин Александр Павлович": 15,
-      "Мазепов Алексей Анатольевич": 8,
-      "Максимов Василий Юрьевич": 361,
-      "Пьяных Дмитрий Сергеевич": 22,
-      "Сарсенгалиев Токтар Аянбаевич": 25,
-      "Фролов Константин Александрович": 3
+      "gas:candidate-vibid:4644046384487": 26,
+      "gas:candidate-vibid:4644046402852": 7,
+      "gas:candidate-vibid:4644046384579": 9,
+      "gas:candidate-vibid:4644046384714": 15,
+      "gas:candidate-vibid:4644046402793": 8,
+      "gas:candidate-vibid:4644046384764": 361,
+      "gas:candidate-vibid:4644046383672": 22,
+      "gas:candidate-vibid:4644046384451": 25,
+      "gas:candidate-vibid:4644046402805": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000218&tvd=26420001135290&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135290&type=464",
@@ -4055,15 +4055,15 @@ export const duma_2016_uik_463_region_64_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афанасьев Сергей Николаевич": 33,
-      "Байрамов Эльнур Абдулали оглы": 15,
-      "Гришанцов Александр Иванович": 13,
-      "Журбин Александр Павлович": 6,
-      "Мазепов Алексей Анатольевич": 11,
-      "Максимов Василий Юрьевич": 347,
-      "Пьяных Дмитрий Сергеевич": 19,
-      "Сарсенгалиев Токтар Аянбаевич": 11,
-      "Фролов Константин Александрович": 1
+      "gas:candidate-vibid:4644046384487": 33,
+      "gas:candidate-vibid:4644046402852": 15,
+      "gas:candidate-vibid:4644046384579": 13,
+      "gas:candidate-vibid:4644046384714": 6,
+      "gas:candidate-vibid:4644046402793": 11,
+      "gas:candidate-vibid:4644046384764": 347,
+      "gas:candidate-vibid:4644046383672": 19,
+      "gas:candidate-vibid:4644046384451": 11,
+      "gas:candidate-vibid:4644046402805": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000218&tvd=26420001135290&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135290&type=464",
@@ -4114,15 +4114,15 @@ export const duma_2016_uik_463_region_64_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афанасьев Сергей Николаевич": 74,
-      "Байрамов Эльнур Абдулали оглы": 7,
-      "Гришанцов Александр Иванович": 17,
-      "Журбин Александр Павлович": 14,
-      "Мазепов Алексей Анатольевич": 1,
-      "Максимов Василий Юрьевич": 444,
-      "Пьяных Дмитрий Сергеевич": 53,
-      "Сарсенгалиев Токтар Аянбаевич": 5,
-      "Фролов Константин Александрович": 8
+      "gas:candidate-vibid:4644046384487": 74,
+      "gas:candidate-vibid:4644046402852": 7,
+      "gas:candidate-vibid:4644046384579": 17,
+      "gas:candidate-vibid:4644046384714": 14,
+      "gas:candidate-vibid:4644046402793": 1,
+      "gas:candidate-vibid:4644046384764": 444,
+      "gas:candidate-vibid:4644046383672": 53,
+      "gas:candidate-vibid:4644046384451": 5,
+      "gas:candidate-vibid:4644046402805": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000218&tvd=26420001135290&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135290&type=464",
@@ -4173,15 +4173,15 @@ export const duma_2016_uik_463_region_64_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афанасьев Сергей Николаевич": 27,
-      "Байрамов Эльнур Абдулали оглы": 13,
-      "Гришанцов Александр Иванович": 20,
-      "Журбин Александр Павлович": 5,
-      "Мазепов Алексей Анатольевич": 3,
-      "Максимов Василий Юрьевич": 173,
-      "Пьяных Дмитрий Сергеевич": 13,
-      "Сарсенгалиев Токтар Аянбаевич": 24,
-      "Фролов Константин Александрович": 8
+      "gas:candidate-vibid:4644046384487": 27,
+      "gas:candidate-vibid:4644046402852": 13,
+      "gas:candidate-vibid:4644046384579": 20,
+      "gas:candidate-vibid:4644046384714": 5,
+      "gas:candidate-vibid:4644046402793": 3,
+      "gas:candidate-vibid:4644046384764": 173,
+      "gas:candidate-vibid:4644046383672": 13,
+      "gas:candidate-vibid:4644046384451": 24,
+      "gas:candidate-vibid:4644046402805": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000218&tvd=26420001135290&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135290&type=464",
@@ -4232,15 +4232,15 @@ export const duma_2016_uik_463_region_64_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афанасьев Сергей Николаевич": 38,
-      "Байрамов Эльнур Абдулали оглы": 11,
-      "Гришанцов Александр Иванович": 20,
-      "Журбин Александр Павлович": 15,
-      "Мазепов Алексей Анатольевич": 7,
-      "Максимов Василий Юрьевич": 232,
-      "Пьяных Дмитрий Сергеевич": 28,
-      "Сарсенгалиев Токтар Аянбаевич": 15,
-      "Фролов Константин Александрович": 2
+      "gas:candidate-vibid:4644046384487": 38,
+      "gas:candidate-vibid:4644046402852": 11,
+      "gas:candidate-vibid:4644046384579": 20,
+      "gas:candidate-vibid:4644046384714": 15,
+      "gas:candidate-vibid:4644046402793": 7,
+      "gas:candidate-vibid:4644046384764": 232,
+      "gas:candidate-vibid:4644046383672": 28,
+      "gas:candidate-vibid:4644046384451": 15,
+      "gas:candidate-vibid:4644046402805": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000218&tvd=26420001135290&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135290&type=464",
@@ -4291,15 +4291,15 @@ export const duma_2016_uik_463_region_64_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афанасьев Сергей Николаевич": 49,
-      "Байрамов Эльнур Абдулали оглы": 2,
-      "Гришанцов Александр Иванович": 11,
-      "Журбин Александр Павлович": 5,
-      "Мазепов Алексей Анатольевич": 16,
-      "Максимов Василий Юрьевич": 377,
-      "Пьяных Дмитрий Сергеевич": 62,
-      "Сарсенгалиев Токтар Аянбаевич": 23,
-      "Фролов Константин Александрович": 8
+      "gas:candidate-vibid:4644046384487": 49,
+      "gas:candidate-vibid:4644046402852": 2,
+      "gas:candidate-vibid:4644046384579": 11,
+      "gas:candidate-vibid:4644046384714": 5,
+      "gas:candidate-vibid:4644046402793": 16,
+      "gas:candidate-vibid:4644046384764": 377,
+      "gas:candidate-vibid:4644046383672": 62,
+      "gas:candidate-vibid:4644046384451": 23,
+      "gas:candidate-vibid:4644046402805": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000218&tvd=26420001135290&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135290&type=464",
@@ -4350,15 +4350,15 @@ export const duma_2016_uik_463_region_64_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афанасьев Сергей Николаевич": 36,
-      "Байрамов Эльнур Абдулали оглы": 11,
-      "Гришанцов Александр Иванович": 11,
-      "Журбин Александр Павлович": 14,
-      "Мазепов Алексей Анатольевич": 14,
-      "Максимов Василий Юрьевич": 474,
-      "Пьяных Дмитрий Сергеевич": 28,
-      "Сарсенгалиев Токтар Аянбаевич": 15,
-      "Фролов Константин Александрович": 17
+      "gas:candidate-vibid:4644046384487": 36,
+      "gas:candidate-vibid:4644046402852": 11,
+      "gas:candidate-vibid:4644046384579": 11,
+      "gas:candidate-vibid:4644046384714": 14,
+      "gas:candidate-vibid:4644046402793": 14,
+      "gas:candidate-vibid:4644046384764": 474,
+      "gas:candidate-vibid:4644046383672": 28,
+      "gas:candidate-vibid:4644046384451": 15,
+      "gas:candidate-vibid:4644046402805": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000218&tvd=26420001135290&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135290&type=464",
@@ -4409,15 +4409,15 @@ export const duma_2016_uik_463_region_64_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афанасьев Сергей Николаевич": 16,
-      "Байрамов Эльнур Абдулали оглы": 1,
-      "Гришанцов Александр Иванович": 8,
-      "Журбин Александр Павлович": 2,
-      "Мазепов Алексей Анатольевич": 14,
-      "Максимов Василий Юрьевич": 344,
-      "Пьяных Дмитрий Сергеевич": 9,
-      "Сарсенгалиев Токтар Аянбаевич": 11,
-      "Фролов Константин Александрович": 0
+      "gas:candidate-vibid:4644046384487": 16,
+      "gas:candidate-vibid:4644046402852": 1,
+      "gas:candidate-vibid:4644046384579": 8,
+      "gas:candidate-vibid:4644046384714": 2,
+      "gas:candidate-vibid:4644046402793": 14,
+      "gas:candidate-vibid:4644046384764": 344,
+      "gas:candidate-vibid:4644046383672": 9,
+      "gas:candidate-vibid:4644046384451": 11,
+      "gas:candidate-vibid:4644046402805": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000218&tvd=26420001135290&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135290&type=464",
@@ -4468,15 +4468,15 @@ export const duma_2016_uik_463_region_64_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афанасьев Сергей Николаевич": 14,
-      "Байрамов Эльнур Абдулали оглы": 6,
-      "Гришанцов Александр Иванович": 8,
-      "Журбин Александр Павлович": 2,
-      "Мазепов Алексей Анатольевич": 5,
-      "Максимов Василий Юрьевич": 346,
-      "Пьяных Дмитрий Сергеевич": 22,
-      "Сарсенгалиев Токтар Аянбаевич": 34,
-      "Фролов Константин Александрович": 3
+      "gas:candidate-vibid:4644046384487": 14,
+      "gas:candidate-vibid:4644046402852": 6,
+      "gas:candidate-vibid:4644046384579": 8,
+      "gas:candidate-vibid:4644046384714": 2,
+      "gas:candidate-vibid:4644046402793": 5,
+      "gas:candidate-vibid:4644046384764": 346,
+      "gas:candidate-vibid:4644046383672": 22,
+      "gas:candidate-vibid:4644046384451": 34,
+      "gas:candidate-vibid:4644046402805": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000218&tvd=26420001135290&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135290&type=464",
@@ -4527,15 +4527,15 @@ export const duma_2016_uik_463_region_64_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афанасьев Сергей Николаевич": 19,
-      "Байрамов Эльнур Абдулали оглы": 9,
-      "Гришанцов Александр Иванович": 9,
-      "Журбин Александр Павлович": 7,
-      "Мазепов Алексей Анатольевич": 8,
-      "Максимов Василий Юрьевич": 243,
-      "Пьяных Дмитрий Сергеевич": 14,
-      "Сарсенгалиев Токтар Аянбаевич": 22,
-      "Фролов Константин Александрович": 1
+      "gas:candidate-vibid:4644046384487": 19,
+      "gas:candidate-vibid:4644046402852": 9,
+      "gas:candidate-vibid:4644046384579": 9,
+      "gas:candidate-vibid:4644046384714": 7,
+      "gas:candidate-vibid:4644046402793": 8,
+      "gas:candidate-vibid:4644046384764": 243,
+      "gas:candidate-vibid:4644046383672": 14,
+      "gas:candidate-vibid:4644046384451": 22,
+      "gas:candidate-vibid:4644046402805": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000218&tvd=26420001135290&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135290&type=464",
@@ -4586,15 +4586,15 @@ export const duma_2016_uik_463_region_64_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афанасьев Сергей Николаевич": 44,
-      "Байрамов Эльнур Абдулали оглы": 2,
-      "Гришанцов Александр Иванович": 12,
-      "Журбин Александр Павлович": 10,
-      "Мазепов Алексей Анатольевич": 7,
-      "Максимов Василий Юрьевич": 189,
-      "Пьяных Дмитрий Сергеевич": 62,
-      "Сарсенгалиев Токтар Аянбаевич": 20,
-      "Фролов Константин Александрович": 6
+      "gas:candidate-vibid:4644046384487": 44,
+      "gas:candidate-vibid:4644046402852": 2,
+      "gas:candidate-vibid:4644046384579": 12,
+      "gas:candidate-vibid:4644046384714": 10,
+      "gas:candidate-vibid:4644046402793": 7,
+      "gas:candidate-vibid:4644046384764": 189,
+      "gas:candidate-vibid:4644046383672": 62,
+      "gas:candidate-vibid:4644046384451": 20,
+      "gas:candidate-vibid:4644046402805": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000218&tvd=26420001135290&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135290&type=464",
@@ -4645,15 +4645,15 @@ export const duma_2016_uik_463_region_64_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афанасьев Сергей Николаевич": 12,
-      "Байрамов Эльнур Абдулали оглы": 5,
-      "Гришанцов Александр Иванович": 8,
-      "Журбин Александр Павлович": 14,
-      "Мазепов Алексей Анатольевич": 10,
-      "Максимов Василий Юрьевич": 486,
-      "Пьяных Дмитрий Сергеевич": 4,
-      "Сарсенгалиев Токтар Аянбаевич": 7,
-      "Фролов Константин Александрович": 3
+      "gas:candidate-vibid:4644046384487": 12,
+      "gas:candidate-vibid:4644046402852": 5,
+      "gas:candidate-vibid:4644046384579": 8,
+      "gas:candidate-vibid:4644046384714": 14,
+      "gas:candidate-vibid:4644046402793": 10,
+      "gas:candidate-vibid:4644046384764": 486,
+      "gas:candidate-vibid:4644046383672": 4,
+      "gas:candidate-vibid:4644046384451": 7,
+      "gas:candidate-vibid:4644046402805": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000218&tvd=26420001135290&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135290&type=464",
@@ -4704,15 +4704,15 @@ export const duma_2016_uik_463_region_64_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афанасьев Сергей Николаевич": 37,
-      "Байрамов Эльнур Абдулали оглы": 6,
-      "Гришанцов Александр Иванович": 11,
-      "Журбин Александр Павлович": 7,
-      "Мазепов Алексей Анатольевич": 10,
-      "Максимов Василий Юрьевич": 488,
-      "Пьяных Дмитрий Сергеевич": 42,
-      "Сарсенгалиев Токтар Аянбаевич": 16,
-      "Фролов Константин Александрович": 4
+      "gas:candidate-vibid:4644046384487": 37,
+      "gas:candidate-vibid:4644046402852": 6,
+      "gas:candidate-vibid:4644046384579": 11,
+      "gas:candidate-vibid:4644046384714": 7,
+      "gas:candidate-vibid:4644046402793": 10,
+      "gas:candidate-vibid:4644046384764": 488,
+      "gas:candidate-vibid:4644046383672": 42,
+      "gas:candidate-vibid:4644046384451": 16,
+      "gas:candidate-vibid:4644046402805": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000218&tvd=26420001135291&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135291&type=464",
@@ -4763,15 +4763,15 @@ export const duma_2016_uik_463_region_64_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афанасьев Сергей Николаевич": 33,
-      "Байрамов Эльнур Абдулали оглы": 11,
-      "Гришанцов Александр Иванович": 19,
-      "Журбин Александр Павлович": 9,
-      "Мазепов Алексей Анатольевич": 13,
-      "Максимов Василий Юрьевич": 557,
-      "Пьяных Дмитрий Сергеевич": 55,
-      "Сарсенгалиев Токтар Аянбаевич": 31,
-      "Фролов Константин Александрович": 18
+      "gas:candidate-vibid:4644046384487": 33,
+      "gas:candidate-vibid:4644046402852": 11,
+      "gas:candidate-vibid:4644046384579": 19,
+      "gas:candidate-vibid:4644046384714": 9,
+      "gas:candidate-vibid:4644046402793": 13,
+      "gas:candidate-vibid:4644046384764": 557,
+      "gas:candidate-vibid:4644046383672": 55,
+      "gas:candidate-vibid:4644046384451": 31,
+      "gas:candidate-vibid:4644046402805": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000218&tvd=26420001135291&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135291&type=464",
@@ -4822,15 +4822,15 @@ export const duma_2016_uik_463_region_64_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афанасьев Сергей Николаевич": 30,
-      "Байрамов Эльнур Абдулали оглы": 4,
-      "Гришанцов Александр Иванович": 15,
-      "Журбин Александр Павлович": 6,
-      "Мазепов Алексей Анатольевич": 10,
-      "Максимов Василий Юрьевич": 361,
-      "Пьяных Дмитрий Сергеевич": 34,
-      "Сарсенгалиев Токтар Аянбаевич": 17,
-      "Фролов Константин Александрович": 9
+      "gas:candidate-vibid:4644046384487": 30,
+      "gas:candidate-vibid:4644046402852": 4,
+      "gas:candidate-vibid:4644046384579": 15,
+      "gas:candidate-vibid:4644046384714": 6,
+      "gas:candidate-vibid:4644046402793": 10,
+      "gas:candidate-vibid:4644046384764": 361,
+      "gas:candidate-vibid:4644046383672": 34,
+      "gas:candidate-vibid:4644046384451": 17,
+      "gas:candidate-vibid:4644046402805": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000218&tvd=26420001135291&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135291&type=464",
@@ -4881,15 +4881,15 @@ export const duma_2016_uik_463_region_64_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афанасьев Сергей Николаевич": 41,
-      "Байрамов Эльнур Абдулали оглы": 2,
-      "Гришанцов Александр Иванович": 5,
-      "Журбин Александр Павлович": 7,
-      "Мазепов Алексей Анатольевич": 2,
-      "Максимов Василий Юрьевич": 300,
-      "Пьяных Дмитрий Сергеевич": 24,
-      "Сарсенгалиев Токтар Аянбаевич": 35,
-      "Фролов Константин Александрович": 10
+      "gas:candidate-vibid:4644046384487": 41,
+      "gas:candidate-vibid:4644046402852": 2,
+      "gas:candidate-vibid:4644046384579": 5,
+      "gas:candidate-vibid:4644046384714": 7,
+      "gas:candidate-vibid:4644046402793": 2,
+      "gas:candidate-vibid:4644046384764": 300,
+      "gas:candidate-vibid:4644046383672": 24,
+      "gas:candidate-vibid:4644046384451": 35,
+      "gas:candidate-vibid:4644046402805": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000218&tvd=26420001135291&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135291&type=464",
@@ -4940,15 +4940,15 @@ export const duma_2016_uik_463_region_64_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афанасьев Сергей Николаевич": 21,
-      "Байрамов Эльнур Абдулали оглы": 7,
-      "Гришанцов Александр Иванович": 8,
-      "Журбин Александр Павлович": 4,
-      "Мазепов Алексей Анатольевич": 12,
-      "Максимов Василий Юрьевич": 474,
-      "Пьяных Дмитрий Сергеевич": 15,
-      "Сарсенгалиев Токтар Аянбаевич": 22,
-      "Фролов Константин Александрович": 7
+      "gas:candidate-vibid:4644046384487": 21,
+      "gas:candidate-vibid:4644046402852": 7,
+      "gas:candidate-vibid:4644046384579": 8,
+      "gas:candidate-vibid:4644046384714": 4,
+      "gas:candidate-vibid:4644046402793": 12,
+      "gas:candidate-vibid:4644046384764": 474,
+      "gas:candidate-vibid:4644046383672": 15,
+      "gas:candidate-vibid:4644046384451": 22,
+      "gas:candidate-vibid:4644046402805": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000218&tvd=26420001135291&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135291&type=464",
@@ -4999,15 +4999,15 @@ export const duma_2016_uik_463_region_64_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афанасьев Сергей Николаевич": 31,
-      "Байрамов Эльнур Абдулали оглы": 8,
-      "Гришанцов Александр Иванович": 16,
-      "Журбин Александр Павлович": 10,
-      "Мазепов Алексей Анатольевич": 18,
-      "Максимов Василий Юрьевич": 439,
-      "Пьяных Дмитрий Сергеевич": 26,
-      "Сарсенгалиев Токтар Аянбаевич": 9,
-      "Фролов Константин Александрович": 8
+      "gas:candidate-vibid:4644046384487": 31,
+      "gas:candidate-vibid:4644046402852": 8,
+      "gas:candidate-vibid:4644046384579": 16,
+      "gas:candidate-vibid:4644046384714": 10,
+      "gas:candidate-vibid:4644046402793": 18,
+      "gas:candidate-vibid:4644046384764": 439,
+      "gas:candidate-vibid:4644046383672": 26,
+      "gas:candidate-vibid:4644046384451": 9,
+      "gas:candidate-vibid:4644046402805": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000218&tvd=26420001135291&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135291&type=464",
@@ -5058,15 +5058,15 @@ export const duma_2016_uik_463_region_64_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афанасьев Сергей Николаевич": 34,
-      "Байрамов Эльнур Абдулали оглы": 5,
-      "Гришанцов Александр Иванович": 22,
-      "Журбин Александр Павлович": 8,
-      "Мазепов Алексей Анатольевич": 12,
-      "Максимов Василий Юрьевич": 507,
-      "Пьяных Дмитрий Сергеевич": 40,
-      "Сарсенгалиев Токтар Аянбаевич": 78,
-      "Фролов Константин Александрович": 8
+      "gas:candidate-vibid:4644046384487": 34,
+      "gas:candidate-vibid:4644046402852": 5,
+      "gas:candidate-vibid:4644046384579": 22,
+      "gas:candidate-vibid:4644046384714": 8,
+      "gas:candidate-vibid:4644046402793": 12,
+      "gas:candidate-vibid:4644046384764": 507,
+      "gas:candidate-vibid:4644046383672": 40,
+      "gas:candidate-vibid:4644046384451": 78,
+      "gas:candidate-vibid:4644046402805": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000218&tvd=26420001135291&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135291&type=464",
@@ -5117,15 +5117,15 @@ export const duma_2016_uik_463_region_64_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афанасьев Сергей Николаевич": 75,
-      "Байрамов Эльнур Абдулали оглы": 8,
-      "Гришанцов Александр Иванович": 5,
-      "Журбин Александр Павлович": 4,
-      "Мазепов Алексей Анатольевич": 5,
-      "Максимов Василий Юрьевич": 530,
-      "Пьяных Дмитрий Сергеевич": 17,
-      "Сарсенгалиев Токтар Аянбаевич": 86,
-      "Фролов Константин Александрович": 2
+      "gas:candidate-vibid:4644046384487": 75,
+      "gas:candidate-vibid:4644046402852": 8,
+      "gas:candidate-vibid:4644046384579": 5,
+      "gas:candidate-vibid:4644046384714": 4,
+      "gas:candidate-vibid:4644046402793": 5,
+      "gas:candidate-vibid:4644046384764": 530,
+      "gas:candidate-vibid:4644046383672": 17,
+      "gas:candidate-vibid:4644046384451": 86,
+      "gas:candidate-vibid:4644046402805": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000218&tvd=26420001135291&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135291&type=464",
@@ -5176,15 +5176,15 @@ export const duma_2016_uik_463_region_64_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афанасьев Сергей Николаевич": 19,
-      "Байрамов Эльнур Абдулали оглы": 10,
-      "Гришанцов Александр Иванович": 6,
-      "Журбин Александр Павлович": 2,
-      "Мазепов Алексей Анатольевич": 6,
-      "Максимов Василий Юрьевич": 280,
-      "Пьяных Дмитрий Сергеевич": 12,
-      "Сарсенгалиев Токтар Аянбаевич": 59,
-      "Фролов Константин Александрович": 6
+      "gas:candidate-vibid:4644046384487": 19,
+      "gas:candidate-vibid:4644046402852": 10,
+      "gas:candidate-vibid:4644046384579": 6,
+      "gas:candidate-vibid:4644046384714": 2,
+      "gas:candidate-vibid:4644046402793": 6,
+      "gas:candidate-vibid:4644046384764": 280,
+      "gas:candidate-vibid:4644046383672": 12,
+      "gas:candidate-vibid:4644046384451": 59,
+      "gas:candidate-vibid:4644046402805": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000218&tvd=26420001135291&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135291&type=464",
@@ -5235,15 +5235,15 @@ export const duma_2016_uik_463_region_64_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афанасьев Сергей Николаевич": 14,
-      "Байрамов Эльнур Абдулали оглы": 3,
-      "Гришанцов Александр Иванович": 9,
-      "Журбин Александр Павлович": 0,
-      "Мазепов Алексей Анатольевич": 4,
-      "Максимов Василий Юрьевич": 200,
-      "Пьяных Дмитрий Сергеевич": 4,
-      "Сарсенгалиев Токтар Аянбаевич": 35,
-      "Фролов Константин Александрович": 10
+      "gas:candidate-vibid:4644046384487": 14,
+      "gas:candidate-vibid:4644046402852": 3,
+      "gas:candidate-vibid:4644046384579": 9,
+      "gas:candidate-vibid:4644046384714": 0,
+      "gas:candidate-vibid:4644046402793": 4,
+      "gas:candidate-vibid:4644046384764": 200,
+      "gas:candidate-vibid:4644046383672": 4,
+      "gas:candidate-vibid:4644046384451": 35,
+      "gas:candidate-vibid:4644046402805": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000218&tvd=26420001135291&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135291&type=464",
@@ -5294,15 +5294,15 @@ export const duma_2016_uik_463_region_64_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афанасьев Сергей Николаевич": 14,
-      "Байрамов Эльнур Абдулали оглы": 5,
-      "Гришанцов Александр Иванович": 3,
-      "Журбин Александр Павлович": 8,
-      "Мазепов Алексей Анатольевич": 6,
-      "Максимов Василий Юрьевич": 429,
-      "Пьяных Дмитрий Сергеевич": 3,
-      "Сарсенгалиев Токтар Аянбаевич": 9,
-      "Фролов Константин Александрович": 3
+      "gas:candidate-vibid:4644046384487": 14,
+      "gas:candidate-vibid:4644046402852": 5,
+      "gas:candidate-vibid:4644046384579": 3,
+      "gas:candidate-vibid:4644046384714": 8,
+      "gas:candidate-vibid:4644046402793": 6,
+      "gas:candidate-vibid:4644046384764": 429,
+      "gas:candidate-vibid:4644046383672": 3,
+      "gas:candidate-vibid:4644046384451": 9,
+      "gas:candidate-vibid:4644046402805": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000218&tvd=26420001135291&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135291&type=464",
@@ -5353,15 +5353,15 @@ export const duma_2016_uik_463_region_64_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афанасьев Сергей Николаевич": 10,
-      "Байрамов Эльнур Абдулали оглы": 6,
-      "Гришанцов Александр Иванович": 10,
-      "Журбин Александр Павлович": 1,
-      "Мазепов Алексей Анатольевич": 9,
-      "Максимов Василий Юрьевич": 306,
-      "Пьяных Дмитрий Сергеевич": 15,
-      "Сарсенгалиев Токтар Аянбаевич": 33,
-      "Фролов Константин Александрович": 2
+      "gas:candidate-vibid:4644046384487": 10,
+      "gas:candidate-vibid:4644046402852": 6,
+      "gas:candidate-vibid:4644046384579": 10,
+      "gas:candidate-vibid:4644046384714": 1,
+      "gas:candidate-vibid:4644046402793": 9,
+      "gas:candidate-vibid:4644046384764": 306,
+      "gas:candidate-vibid:4644046383672": 15,
+      "gas:candidate-vibid:4644046384451": 33,
+      "gas:candidate-vibid:4644046402805": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000218&tvd=26420001135291&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135291&type=464",
@@ -5412,15 +5412,15 @@ export const duma_2016_uik_463_region_64_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афанасьев Сергей Николаевич": 3,
-      "Байрамов Эльнур Абдулали оглы": 0,
-      "Гришанцов Александр Иванович": 0,
-      "Журбин Александр Павлович": 0,
-      "Мазепов Алексей Анатольевич": 0,
-      "Максимов Василий Юрьевич": 124,
-      "Пьяных Дмитрий Сергеевич": 0,
-      "Сарсенгалиев Токтар Аянбаевич": 0,
-      "Фролов Константин Александрович": 0
+      "gas:candidate-vibid:4644046384487": 3,
+      "gas:candidate-vibid:4644046402852": 0,
+      "gas:candidate-vibid:4644046384579": 0,
+      "gas:candidate-vibid:4644046384714": 0,
+      "gas:candidate-vibid:4644046402793": 0,
+      "gas:candidate-vibid:4644046384764": 124,
+      "gas:candidate-vibid:4644046383672": 0,
+      "gas:candidate-vibid:4644046384451": 0,
+      "gas:candidate-vibid:4644046402805": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000218&tvd=26420001135291&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135291&type=464",
@@ -5471,15 +5471,15 @@ export const duma_2016_uik_463_region_64_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афанасьев Сергей Николаевич": 2,
-      "Байрамов Эльнур Абдулали оглы": 0,
-      "Гришанцов Александр Иванович": 7,
-      "Журбин Александр Павлович": 11,
-      "Мазепов Алексей Анатольевич": 13,
-      "Максимов Василий Юрьевич": 283,
-      "Пьяных Дмитрий Сергеевич": 8,
-      "Сарсенгалиев Токтар Аянбаевич": 25,
-      "Фролов Константин Александрович": 2
+      "gas:candidate-vibid:4644046384487": 2,
+      "gas:candidate-vibid:4644046402852": 0,
+      "gas:candidate-vibid:4644046384579": 7,
+      "gas:candidate-vibid:4644046384714": 11,
+      "gas:candidate-vibid:4644046402793": 13,
+      "gas:candidate-vibid:4644046384764": 283,
+      "gas:candidate-vibid:4644046383672": 8,
+      "gas:candidate-vibid:4644046384451": 25,
+      "gas:candidate-vibid:4644046402805": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000218&tvd=26420001135291&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135291&type=464",
@@ -5530,15 +5530,15 @@ export const duma_2016_uik_463_region_64_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афанасьев Сергей Николаевич": 2,
-      "Байрамов Эльнур Абдулали оглы": 4,
-      "Гришанцов Александр Иванович": 6,
-      "Журбин Александр Павлович": 0,
-      "Мазепов Алексей Анатольевич": 4,
-      "Максимов Василий Юрьевич": 158,
-      "Пьяных Дмитрий Сергеевич": 0,
-      "Сарсенгалиев Токтар Аянбаевич": 14,
-      "Фролов Константин Александрович": 0
+      "gas:candidate-vibid:4644046384487": 2,
+      "gas:candidate-vibid:4644046402852": 4,
+      "gas:candidate-vibid:4644046384579": 6,
+      "gas:candidate-vibid:4644046384714": 0,
+      "gas:candidate-vibid:4644046402793": 4,
+      "gas:candidate-vibid:4644046384764": 158,
+      "gas:candidate-vibid:4644046383672": 0,
+      "gas:candidate-vibid:4644046384451": 14,
+      "gas:candidate-vibid:4644046402805": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000218&tvd=26420001135291&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135291&type=464",
@@ -5589,15 +5589,15 @@ export const duma_2016_uik_463_region_64_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афанасьев Сергей Николаевич": 22,
-      "Байрамов Эльнур Абдулали оглы": 12,
-      "Гришанцов Александр Иванович": 5,
-      "Журбин Александр Павлович": 11,
-      "Мазепов Алексей Анатольевич": 3,
-      "Максимов Василий Юрьевич": 300,
-      "Пьяных Дмитрий Сергеевич": 19,
-      "Сарсенгалиев Токтар Аянбаевич": 32,
-      "Фролов Константин Александрович": 3
+      "gas:candidate-vibid:4644046384487": 22,
+      "gas:candidate-vibid:4644046402852": 12,
+      "gas:candidate-vibid:4644046384579": 5,
+      "gas:candidate-vibid:4644046384714": 11,
+      "gas:candidate-vibid:4644046402793": 3,
+      "gas:candidate-vibid:4644046384764": 300,
+      "gas:candidate-vibid:4644046383672": 19,
+      "gas:candidate-vibid:4644046384451": 32,
+      "gas:candidate-vibid:4644046402805": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000218&tvd=26420001135291&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135291&type=464",
@@ -5648,15 +5648,15 @@ export const duma_2016_uik_463_region_64_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афанасьев Сергей Николаевич": 14,
-      "Байрамов Эльнур Абдулали оглы": 4,
-      "Гришанцов Александр Иванович": 2,
-      "Журбин Александр Павлович": 2,
-      "Мазепов Алексей Анатольевич": 0,
-      "Максимов Василий Юрьевич": 62,
-      "Пьяных Дмитрий Сергеевич": 3,
-      "Сарсенгалиев Токтар Аянбаевич": 6,
-      "Фролов Константин Александрович": 2
+      "gas:candidate-vibid:4644046384487": 14,
+      "gas:candidate-vibid:4644046402852": 4,
+      "gas:candidate-vibid:4644046384579": 2,
+      "gas:candidate-vibid:4644046384714": 2,
+      "gas:candidate-vibid:4644046402793": 0,
+      "gas:candidate-vibid:4644046384764": 62,
+      "gas:candidate-vibid:4644046383672": 3,
+      "gas:candidate-vibid:4644046384451": 6,
+      "gas:candidate-vibid:4644046402805": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000218&tvd=26420001135291&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135291&type=464",
@@ -5707,15 +5707,15 @@ export const duma_2016_uik_463_region_64_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афанасьев Сергей Николаевич": 0,
-      "Байрамов Эльнур Абдулали оглы": 2,
-      "Гришанцов Александр Иванович": 1,
-      "Журбин Александр Павлович": 0,
-      "Мазепов Алексей Анатольевич": 3,
-      "Максимов Василий Юрьевич": 70,
-      "Пьяных Дмитрий Сергеевич": 0,
-      "Сарсенгалиев Токтар Аянбаевич": 1,
-      "Фролов Константин Александрович": 0
+      "gas:candidate-vibid:4644046384487": 0,
+      "gas:candidate-vibid:4644046402852": 2,
+      "gas:candidate-vibid:4644046384579": 1,
+      "gas:candidate-vibid:4644046384714": 0,
+      "gas:candidate-vibid:4644046402793": 3,
+      "gas:candidate-vibid:4644046384764": 70,
+      "gas:candidate-vibid:4644046383672": 0,
+      "gas:candidate-vibid:4644046384451": 1,
+      "gas:candidate-vibid:4644046402805": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000218&tvd=26420001135291&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135291&type=464",
@@ -5766,15 +5766,15 @@ export const duma_2016_uik_463_region_64_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афанасьев Сергей Николаевич": 23,
-      "Байрамов Эльнур Абдулали оглы": 11,
-      "Гришанцов Александр Иванович": 18,
-      "Журбин Александр Павлович": 20,
-      "Мазепов Алексей Анатольевич": 6,
-      "Максимов Василий Юрьевич": 353,
-      "Пьяных Дмитрий Сергеевич": 29,
-      "Сарсенгалиев Токтар Аянбаевич": 16,
-      "Фролов Константин Александрович": 5
+      "gas:candidate-vibid:4644046384487": 23,
+      "gas:candidate-vibid:4644046402852": 11,
+      "gas:candidate-vibid:4644046384579": 18,
+      "gas:candidate-vibid:4644046384714": 20,
+      "gas:candidate-vibid:4644046402793": 6,
+      "gas:candidate-vibid:4644046384764": 353,
+      "gas:candidate-vibid:4644046383672": 29,
+      "gas:candidate-vibid:4644046384451": 16,
+      "gas:candidate-vibid:4644046402805": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000218&tvd=26420001135291&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135291&type=464",
@@ -5825,15 +5825,15 @@ export const duma_2016_uik_463_region_64_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афанасьев Сергей Николаевич": 4,
-      "Байрамов Эльнур Абдулали оглы": 1,
-      "Гришанцов Александр Иванович": 2,
-      "Журбин Александр Павлович": 3,
-      "Мазепов Алексей Анатольевич": 3,
-      "Максимов Василий Юрьевич": 58,
-      "Пьяных Дмитрий Сергеевич": 5,
-      "Сарсенгалиев Токтар Аянбаевич": 3,
-      "Фролов Константин Александрович": 2
+      "gas:candidate-vibid:4644046384487": 4,
+      "gas:candidate-vibid:4644046402852": 1,
+      "gas:candidate-vibid:4644046384579": 2,
+      "gas:candidate-vibid:4644046384714": 3,
+      "gas:candidate-vibid:4644046402793": 3,
+      "gas:candidate-vibid:4644046384764": 58,
+      "gas:candidate-vibid:4644046383672": 5,
+      "gas:candidate-vibid:4644046384451": 3,
+      "gas:candidate-vibid:4644046402805": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000218&tvd=26420001135291&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135291&type=464",
@@ -5884,15 +5884,15 @@ export const duma_2016_uik_463_region_64_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афанасьев Сергей Николаевич": 9,
-      "Байрамов Эльнур Абдулали оглы": 11,
-      "Гришанцов Александр Иванович": 3,
-      "Журбин Александр Павлович": 3,
-      "Мазепов Алексей Анатольевич": 3,
-      "Максимов Василий Юрьевич": 260,
-      "Пьяных Дмитрий Сергеевич": 4,
-      "Сарсенгалиев Токтар Аянбаевич": 14,
-      "Фролов Константин Александрович": 23
+      "gas:candidate-vibid:4644046384487": 9,
+      "gas:candidate-vibid:4644046402852": 11,
+      "gas:candidate-vibid:4644046384579": 3,
+      "gas:candidate-vibid:4644046384714": 3,
+      "gas:candidate-vibid:4644046402793": 3,
+      "gas:candidate-vibid:4644046384764": 260,
+      "gas:candidate-vibid:4644046383672": 4,
+      "gas:candidate-vibid:4644046384451": 14,
+      "gas:candidate-vibid:4644046402805": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000218&tvd=26420001135291&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135291&type=464",
@@ -5943,15 +5943,15 @@ export const duma_2016_uik_463_region_64_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афанасьев Сергей Николаевич": 22,
-      "Байрамов Эльнур Абдулали оглы": 3,
-      "Гришанцов Александр Иванович": 4,
-      "Журбин Александр Павлович": 1,
-      "Мазепов Алексей Анатольевич": 3,
-      "Максимов Василий Юрьевич": 136,
-      "Пьяных Дмитрий Сергеевич": 2,
-      "Сарсенгалиев Токтар Аянбаевич": 21,
-      "Фролов Константин Александрович": 0
+      "gas:candidate-vibid:4644046384487": 22,
+      "gas:candidate-vibid:4644046402852": 3,
+      "gas:candidate-vibid:4644046384579": 4,
+      "gas:candidate-vibid:4644046384714": 1,
+      "gas:candidate-vibid:4644046402793": 3,
+      "gas:candidate-vibid:4644046384764": 136,
+      "gas:candidate-vibid:4644046383672": 2,
+      "gas:candidate-vibid:4644046384451": 21,
+      "gas:candidate-vibid:4644046402805": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000218&tvd=26420001135291&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135291&type=464",
@@ -6002,15 +6002,15 @@ export const duma_2016_uik_463_region_64_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 55,
-      "Грищенко Олег Васильевич": 1054,
-      "Ищенко Антон Анатольевич": 99,
-      "Коннычев Дмитрий Викторович": 10,
-      "Ледков Александр Владимирович": 11,
-      "Миронов Павел Васильевич": 47,
-      "Сафьянов Виктор Владимирович": 20,
-      "Фролов Александр Васильевич": 12,
-      "Ханенко Дмитрий Борисович": 8
+      "gas:candidate-vibid:4644035227992": 55,
+      "gas:candidate-vibid:4644035228365": 1054,
+      "gas:candidate-vibid:4644035227535": 99,
+      "gas:candidate-vibid:4644035252744": 10,
+      "gas:candidate-vibid:4644035228712": 11,
+      "gas:candidate-vibid:4644035228237": 47,
+      "gas:candidate-vibid:4644035228622": 20,
+      "gas:candidate-vibid:4644035228693": 12,
+      "gas:candidate-vibid:4644035228608": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135292&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135292&type=464",
@@ -6061,15 +6061,15 @@ export const duma_2016_uik_463_region_64_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 78,
-      "Грищенко Олег Васильевич": 1094,
-      "Ищенко Антон Анатольевич": 144,
-      "Коннычев Дмитрий Викторович": 0,
-      "Ледков Александр Владимирович": 0,
-      "Миронов Павел Васильевич": 45,
-      "Сафьянов Виктор Владимирович": 0,
-      "Фролов Александр Васильевич": 0,
-      "Ханенко Дмитрий Борисович": 0
+      "gas:candidate-vibid:4644035227992": 78,
+      "gas:candidate-vibid:4644035228365": 1094,
+      "gas:candidate-vibid:4644035227535": 144,
+      "gas:candidate-vibid:4644035252744": 0,
+      "gas:candidate-vibid:4644035228712": 0,
+      "gas:candidate-vibid:4644035228237": 45,
+      "gas:candidate-vibid:4644035228622": 0,
+      "gas:candidate-vibid:4644035228693": 0,
+      "gas:candidate-vibid:4644035228608": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135292&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135292&type=464",
@@ -6120,15 +6120,15 @@ export const duma_2016_uik_463_region_64_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 15,
-      "Грищенко Олег Васильевич": 125,
-      "Ищенко Антон Анатольевич": 15,
-      "Коннычев Дмитрий Викторович": 3,
-      "Ледков Александр Владимирович": 0,
-      "Миронов Павел Васильевич": 10,
-      "Сафьянов Виктор Владимирович": 3,
-      "Фролов Александр Васильевич": 0,
-      "Ханенко Дмитрий Борисович": 0
+      "gas:candidate-vibid:4644035227992": 15,
+      "gas:candidate-vibid:4644035228365": 125,
+      "gas:candidate-vibid:4644035227535": 15,
+      "gas:candidate-vibid:4644035252744": 3,
+      "gas:candidate-vibid:4644035228712": 0,
+      "gas:candidate-vibid:4644035228237": 10,
+      "gas:candidate-vibid:4644035228622": 3,
+      "gas:candidate-vibid:4644035228693": 0,
+      "gas:candidate-vibid:4644035228608": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135292&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135292&type=464",
@@ -6179,15 +6179,15 @@ export const duma_2016_uik_463_region_64_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 50,
-      "Грищенко Олег Васильевич": 389,
-      "Ищенко Антон Анатольевич": 30,
-      "Коннычев Дмитрий Викторович": 2,
-      "Ледков Александр Владимирович": 2,
-      "Миронов Павел Васильевич": 16,
-      "Сафьянов Виктор Владимирович": 12,
-      "Фролов Александр Васильевич": 0,
-      "Ханенко Дмитрий Борисович": 0
+      "gas:candidate-vibid:4644035227992": 50,
+      "gas:candidate-vibid:4644035228365": 389,
+      "gas:candidate-vibid:4644035227535": 30,
+      "gas:candidate-vibid:4644035252744": 2,
+      "gas:candidate-vibid:4644035228712": 2,
+      "gas:candidate-vibid:4644035228237": 16,
+      "gas:candidate-vibid:4644035228622": 12,
+      "gas:candidate-vibid:4644035228693": 0,
+      "gas:candidate-vibid:4644035228608": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135292&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135292&type=464",
@@ -6238,15 +6238,15 @@ export const duma_2016_uik_463_region_64_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 3,
-      "Грищенко Олег Васильевич": 95,
-      "Ищенко Антон Анатольевич": 10,
-      "Коннычев Дмитрий Викторович": 2,
-      "Ледков Александр Владимирович": 0,
-      "Миронов Павел Васильевич": 4,
-      "Сафьянов Виктор Владимирович": 1,
-      "Фролов Александр Васильевич": 0,
-      "Ханенко Дмитрий Борисович": 1
+      "gas:candidate-vibid:4644035227992": 3,
+      "gas:candidate-vibid:4644035228365": 95,
+      "gas:candidate-vibid:4644035227535": 10,
+      "gas:candidate-vibid:4644035252744": 2,
+      "gas:candidate-vibid:4644035228712": 0,
+      "gas:candidate-vibid:4644035228237": 4,
+      "gas:candidate-vibid:4644035228622": 1,
+      "gas:candidate-vibid:4644035228693": 0,
+      "gas:candidate-vibid:4644035228608": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135292&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135292&type=464",
@@ -6297,15 +6297,15 @@ export const duma_2016_uik_463_region_64_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 39,
-      "Грищенко Олег Васильевич": 906,
-      "Ищенко Антон Анатольевич": 47,
-      "Коннычев Дмитрий Викторович": 2,
-      "Ледков Александр Владимирович": 9,
-      "Миронов Павел Васильевич": 22,
-      "Сафьянов Виктор Владимирович": 18,
-      "Фролов Александр Васильевич": 3,
-      "Ханенко Дмитрий Борисович": 7
+      "gas:candidate-vibid:4644035227992": 39,
+      "gas:candidate-vibid:4644035228365": 906,
+      "gas:candidate-vibid:4644035227535": 47,
+      "gas:candidate-vibid:4644035252744": 2,
+      "gas:candidate-vibid:4644035228712": 9,
+      "gas:candidate-vibid:4644035228237": 22,
+      "gas:candidate-vibid:4644035228622": 18,
+      "gas:candidate-vibid:4644035228693": 3,
+      "gas:candidate-vibid:4644035228608": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135292&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135292&type=464",
@@ -6356,15 +6356,15 @@ export const duma_2016_uik_463_region_64_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 7,
-      "Грищенко Олег Васильевич": 176,
-      "Ищенко Антон Анатольевич": 16,
-      "Коннычев Дмитрий Викторович": 3,
-      "Ледков Александр Владимирович": 3,
-      "Миронов Павел Васильевич": 4,
-      "Сафьянов Виктор Владимирович": 5,
-      "Фролов Александр Васильевич": 4,
-      "Ханенко Дмитрий Борисович": 1
+      "gas:candidate-vibid:4644035227992": 7,
+      "gas:candidate-vibid:4644035228365": 176,
+      "gas:candidate-vibid:4644035227535": 16,
+      "gas:candidate-vibid:4644035252744": 3,
+      "gas:candidate-vibid:4644035228712": 3,
+      "gas:candidate-vibid:4644035228237": 4,
+      "gas:candidate-vibid:4644035228622": 5,
+      "gas:candidate-vibid:4644035228693": 4,
+      "gas:candidate-vibid:4644035228608": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135292&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135292&type=464",
@@ -6415,15 +6415,15 @@ export const duma_2016_uik_463_region_64_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 30,
-      "Грищенко Олег Васильевич": 331,
-      "Ищенко Антон Анатольевич": 30,
-      "Коннычев Дмитрий Викторович": 3,
-      "Ледков Александр Владимирович": 2,
-      "Миронов Павел Васильевич": 15,
-      "Сафьянов Виктор Владимирович": 3,
-      "Фролов Александр Васильевич": 3,
-      "Ханенко Дмитрий Борисович": 2
+      "gas:candidate-vibid:4644035227992": 30,
+      "gas:candidate-vibid:4644035228365": 331,
+      "gas:candidate-vibid:4644035227535": 30,
+      "gas:candidate-vibid:4644035252744": 3,
+      "gas:candidate-vibid:4644035228712": 2,
+      "gas:candidate-vibid:4644035228237": 15,
+      "gas:candidate-vibid:4644035228622": 3,
+      "gas:candidate-vibid:4644035228693": 3,
+      "gas:candidate-vibid:4644035228608": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135292&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135292&type=464",
@@ -6474,15 +6474,15 @@ export const duma_2016_uik_463_region_64_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 9,
-      "Грищенко Олег Васильевич": 220,
-      "Ищенко Антон Анатольевич": 39,
-      "Коннычев Дмитрий Викторович": 12,
-      "Ледков Александр Владимирович": 8,
-      "Миронов Павел Васильевич": 16,
-      "Сафьянов Виктор Владимирович": 7,
-      "Фролов Александр Васильевич": 8,
-      "Ханенко Дмитрий Борисович": 2
+      "gas:candidate-vibid:4644035227992": 9,
+      "gas:candidate-vibid:4644035228365": 220,
+      "gas:candidate-vibid:4644035227535": 39,
+      "gas:candidate-vibid:4644035252744": 12,
+      "gas:candidate-vibid:4644035228712": 8,
+      "gas:candidate-vibid:4644035228237": 16,
+      "gas:candidate-vibid:4644035228622": 7,
+      "gas:candidate-vibid:4644035228693": 8,
+      "gas:candidate-vibid:4644035228608": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135292&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135292&type=464",
@@ -6533,15 +6533,15 @@ export const duma_2016_uik_463_region_64_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 80,
-      "Грищенко Олег Васильевич": 1568,
-      "Ищенко Антон Анатольевич": 110,
-      "Коннычев Дмитрий Викторович": 16,
-      "Ледков Александр Владимирович": 4,
-      "Миронов Павел Васильевич": 37,
-      "Сафьянов Виктор Владимирович": 33,
-      "Фролов Александр Васильевич": 19,
-      "Ханенко Дмитрий Борисович": 6
+      "gas:candidate-vibid:4644035227992": 80,
+      "gas:candidate-vibid:4644035228365": 1568,
+      "gas:candidate-vibid:4644035227535": 110,
+      "gas:candidate-vibid:4644035252744": 16,
+      "gas:candidate-vibid:4644035228712": 4,
+      "gas:candidate-vibid:4644035228237": 37,
+      "gas:candidate-vibid:4644035228622": 33,
+      "gas:candidate-vibid:4644035228693": 19,
+      "gas:candidate-vibid:4644035228608": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135292&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135292&type=464",
@@ -6592,15 +6592,15 @@ export const duma_2016_uik_463_region_64_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анидалов Александр Юрьевич": 109,
-      "Грищенко Олег Васильевич": 1978,
-      "Ищенко Антон Анатольевич": 176,
-      "Коннычев Дмитрий Викторович": 12,
-      "Ледков Александр Владимирович": 0,
-      "Миронов Павел Васильевич": 32,
-      "Сафьянов Виктор Владимирович": 13,
-      "Фролов Александр Васильевич": 5,
-      "Ханенко Дмитрий Борисович": 2
+      "gas:candidate-vibid:4644035227992": 109,
+      "gas:candidate-vibid:4644035228365": 1978,
+      "gas:candidate-vibid:4644035227535": 176,
+      "gas:candidate-vibid:4644035252744": 12,
+      "gas:candidate-vibid:4644035228712": 0,
+      "gas:candidate-vibid:4644035228237": 32,
+      "gas:candidate-vibid:4644035228622": 13,
+      "gas:candidate-vibid:4644035228693": 5,
+      "gas:candidate-vibid:4644035228608": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000215&tvd=26420001135292&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135292&type=464",
@@ -6651,18 +6651,18 @@ export const duma_2016_uik_463_region_64_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ашихмин Сергей Васильевич": 17,
-      "Герман Александр Петрович": 9,
-      "Дементьев Михаил Юрьевич": 10,
-      "Дерябин Владимир Анатольевич": 8,
-      "Ермишин Александр Владимирович": 4,
-      "Лубкова Ольга Всеволодовна": 33,
-      "Мальцев Роман Вячеславович": 9,
-      "Панков Николай Васильевич": 940,
-      "Смирнов Максим Алексеевич": 3,
-      "Терехин Глеб Юрьевич": 4,
-      "Трищанович Алиса Дмитриевна": 0,
-      "Фролова Наталия Геннадиевна": 8
+      "gas:candidate-vibid:4644005330705": 17,
+      "gas:candidate-vibid:4644005330951": 9,
+      "gas:candidate-vibid:4644005330965": 10,
+      "gas:candidate-vibid:4644005348671": 8,
+      "gas:candidate-vibid:4644005331559": 4,
+      "gas:candidate-vibid:4644005331108": 33,
+      "gas:candidate-vibid:4644005331636": 9,
+      "gas:candidate-vibid:4644005331321": 940,
+      "gas:candidate-vibid:4644005355688": 3,
+      "gas:candidate-vibid:4644005348700": 4,
+      "gas:candidate-vibid:4644005355663": 0,
+      "gas:candidate-vibid:4644005348810": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000216&tvd=26420001135293&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135293&type=464",
@@ -6713,18 +6713,18 @@ export const duma_2016_uik_463_region_64_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ашихмин Сергей Васильевич": 12,
-      "Герман Александр Петрович": 0,
-      "Дементьев Михаил Юрьевич": 11,
-      "Дерябин Владимир Анатольевич": 0,
-      "Ермишин Александр Владимирович": 0,
-      "Лубкова Ольга Всеволодовна": 83,
-      "Мальцев Роман Вячеславович": 0,
-      "Панков Николай Васильевич": 1001,
-      "Смирнов Максим Алексеевич": 0,
-      "Терехин Глеб Юрьевич": 5,
-      "Трищанович Алиса Дмитриевна": 0,
-      "Фролова Наталия Геннадиевна": 0
+      "gas:candidate-vibid:4644005330705": 12,
+      "gas:candidate-vibid:4644005330951": 0,
+      "gas:candidate-vibid:4644005330965": 11,
+      "gas:candidate-vibid:4644005348671": 0,
+      "gas:candidate-vibid:4644005331559": 0,
+      "gas:candidate-vibid:4644005331108": 83,
+      "gas:candidate-vibid:4644005331636": 0,
+      "gas:candidate-vibid:4644005331321": 1001,
+      "gas:candidate-vibid:4644005355688": 0,
+      "gas:candidate-vibid:4644005348700": 5,
+      "gas:candidate-vibid:4644005355663": 0,
+      "gas:candidate-vibid:4644005348810": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000216&tvd=26420001135293&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135293&type=464",
@@ -6775,18 +6775,18 @@ export const duma_2016_uik_463_region_64_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ашихмин Сергей Васильевич": 10,
-      "Герман Александр Петрович": 4,
-      "Дементьев Михаил Юрьевич": 2,
-      "Дерябин Владимир Анатольевич": 0,
-      "Ермишин Александр Владимирович": 3,
-      "Лубкова Ольга Всеволодовна": 10,
-      "Мальцев Роман Вячеславович": 0,
-      "Панков Николай Васильевич": 261,
-      "Смирнов Максим Алексеевич": 0,
-      "Терехин Глеб Юрьевич": 0,
-      "Трищанович Алиса Дмитриевна": 0,
-      "Фролова Наталия Геннадиевна": 0
+      "gas:candidate-vibid:4644005330705": 10,
+      "gas:candidate-vibid:4644005330951": 4,
+      "gas:candidate-vibid:4644005330965": 2,
+      "gas:candidate-vibid:4644005348671": 0,
+      "gas:candidate-vibid:4644005331559": 3,
+      "gas:candidate-vibid:4644005331108": 10,
+      "gas:candidate-vibid:4644005331636": 0,
+      "gas:candidate-vibid:4644005331321": 261,
+      "gas:candidate-vibid:4644005355688": 0,
+      "gas:candidate-vibid:4644005348700": 0,
+      "gas:candidate-vibid:4644005355663": 0,
+      "gas:candidate-vibid:4644005348810": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000216&tvd=26420001135293&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135293&type=464",
@@ -6837,18 +6837,18 @@ export const duma_2016_uik_463_region_64_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ашихмин Сергей Васильевич": 5,
-      "Герман Александр Петрович": 4,
-      "Дементьев Михаил Юрьевич": 2,
-      "Дерябин Владимир Анатольевич": 3,
-      "Ермишин Александр Владимирович": 5,
-      "Лубкова Ольга Всеволодовна": 105,
-      "Мальцев Роман Вячеславович": 0,
-      "Панков Николай Васильевич": 615,
-      "Смирнов Максим Алексеевич": 1,
-      "Терехин Глеб Юрьевич": 2,
-      "Трищанович Алиса Дмитриевна": 1,
-      "Фролова Наталия Геннадиевна": 2
+      "gas:candidate-vibid:4644005330705": 5,
+      "gas:candidate-vibid:4644005330951": 4,
+      "gas:candidate-vibid:4644005330965": 2,
+      "gas:candidate-vibid:4644005348671": 3,
+      "gas:candidate-vibid:4644005331559": 5,
+      "gas:candidate-vibid:4644005331108": 105,
+      "gas:candidate-vibid:4644005331636": 0,
+      "gas:candidate-vibid:4644005331321": 615,
+      "gas:candidate-vibid:4644005355688": 1,
+      "gas:candidate-vibid:4644005348700": 2,
+      "gas:candidate-vibid:4644005355663": 1,
+      "gas:candidate-vibid:4644005348810": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000216&tvd=26420001135293&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135293&type=464",
@@ -6899,18 +6899,18 @@ export const duma_2016_uik_463_region_64_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ашихмин Сергей Васильевич": 29,
-      "Герман Александр Петрович": 23,
-      "Дементьев Михаил Юрьевич": 13,
-      "Дерябин Владимир Анатольевич": 12,
-      "Ермишин Александр Владимирович": 21,
-      "Лубкова Ольга Всеволодовна": 33,
-      "Мальцев Роман Вячеславович": 11,
-      "Панков Николай Васильевич": 341,
-      "Смирнов Максим Алексеевич": 4,
-      "Терехин Глеб Юрьевич": 6,
-      "Трищанович Алиса Дмитриевна": 4,
-      "Фролова Наталия Геннадиевна": 7
+      "gas:candidate-vibid:4644005330705": 29,
+      "gas:candidate-vibid:4644005330951": 23,
+      "gas:candidate-vibid:4644005330965": 13,
+      "gas:candidate-vibid:4644005348671": 12,
+      "gas:candidate-vibid:4644005331559": 21,
+      "gas:candidate-vibid:4644005331108": 33,
+      "gas:candidate-vibid:4644005331636": 11,
+      "gas:candidate-vibid:4644005331321": 341,
+      "gas:candidate-vibid:4644005355688": 4,
+      "gas:candidate-vibid:4644005348700": 6,
+      "gas:candidate-vibid:4644005355663": 4,
+      "gas:candidate-vibid:4644005348810": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000216&tvd=26420001135293&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135293&type=464",
@@ -6961,15 +6961,15 @@ export const duma_2016_uik_463_region_64_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 104,
-      "Гавриличев Юрий Владимирович": 17,
-      "Игнатьев Дмитрий Андреевич": 6,
-      "Исаев Михаил Александрович": 903,
-      "Козляков Илья Романович": 5,
-      "Купец Анна Владимировна": 8,
-      "Мартынова Светлана Александровна": 22,
-      "Платошина Галина Геннадьевна": 6,
-      "Щербаков Вячеслав Дмитриевич": 7
+      "gas:candidate-vibid:4644006258740": 104,
+      "gas:candidate-vibid:4644006259326": 17,
+      "gas:candidate-vibid:4644006259241": 6,
+      "gas:candidate-vibid:4644006259178": 903,
+      "gas:candidate-vibid:4644006259162": 5,
+      "gas:candidate-vibid:4644006278698": 8,
+      "gas:candidate-vibid:4644006258093": 22,
+      "gas:candidate-vibid:4644006258648": 6,
+      "gas:candidate-vibid:4644006278635": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135294&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135294&type=464",
@@ -7020,15 +7020,15 @@ export const duma_2016_uik_463_region_64_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 30,
-      "Гавриличев Юрий Владимирович": 8,
-      "Игнатьев Дмитрий Андреевич": 4,
-      "Исаев Михаил Александрович": 578,
-      "Козляков Илья Романович": 6,
-      "Купец Анна Владимировна": 6,
-      "Мартынова Светлана Александровна": 35,
-      "Платошина Галина Геннадьевна": 10,
-      "Щербаков Вячеслав Дмитриевич": 3
+      "gas:candidate-vibid:4644006258740": 30,
+      "gas:candidate-vibid:4644006259326": 8,
+      "gas:candidate-vibid:4644006259241": 4,
+      "gas:candidate-vibid:4644006259178": 578,
+      "gas:candidate-vibid:4644006259162": 6,
+      "gas:candidate-vibid:4644006278698": 6,
+      "gas:candidate-vibid:4644006258093": 35,
+      "gas:candidate-vibid:4644006258648": 10,
+      "gas:candidate-vibid:4644006278635": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135294&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135294&type=464",
@@ -7079,15 +7079,15 @@ export const duma_2016_uik_463_region_64_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 13,
-      "Гавриличев Юрий Владимирович": 2,
-      "Игнатьев Дмитрий Андреевич": 2,
-      "Исаев Михаил Александрович": 196,
-      "Козляков Илья Романович": 4,
-      "Купец Анна Владимировна": 4,
-      "Мартынова Светлана Александровна": 5,
-      "Платошина Галина Геннадьевна": 1,
-      "Щербаков Вячеслав Дмитриевич": 1
+      "gas:candidate-vibid:4644006258740": 13,
+      "gas:candidate-vibid:4644006259326": 2,
+      "gas:candidate-vibid:4644006259241": 2,
+      "gas:candidate-vibid:4644006259178": 196,
+      "gas:candidate-vibid:4644006259162": 4,
+      "gas:candidate-vibid:4644006278698": 4,
+      "gas:candidate-vibid:4644006258093": 5,
+      "gas:candidate-vibid:4644006258648": 1,
+      "gas:candidate-vibid:4644006278635": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135294&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135294&type=464",
@@ -7138,15 +7138,15 @@ export const duma_2016_uik_463_region_64_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 11,
-      "Гавриличев Юрий Владимирович": 0,
-      "Игнатьев Дмитрий Андреевич": 0,
-      "Исаев Михаил Александрович": 85,
-      "Козляков Илья Романович": 0,
-      "Купец Анна Владимировна": 0,
-      "Мартынова Светлана Александровна": 0,
-      "Платошина Галина Геннадьевна": 0,
-      "Щербаков Вячеслав Дмитриевич": 0
+      "gas:candidate-vibid:4644006258740": 11,
+      "gas:candidate-vibid:4644006259326": 0,
+      "gas:candidate-vibid:4644006259241": 0,
+      "gas:candidate-vibid:4644006259178": 85,
+      "gas:candidate-vibid:4644006259162": 0,
+      "gas:candidate-vibid:4644006278698": 0,
+      "gas:candidate-vibid:4644006258093": 0,
+      "gas:candidate-vibid:4644006258648": 0,
+      "gas:candidate-vibid:4644006278635": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135294&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135294&type=464",
@@ -7197,15 +7197,15 @@ export const duma_2016_uik_463_region_64_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 19,
-      "Гавриличев Юрий Владимирович": 5,
-      "Игнатьев Дмитрий Андреевич": 7,
-      "Исаев Михаил Александрович": 393,
-      "Козляков Илья Романович": 1,
-      "Купец Анна Владимировна": 8,
-      "Мартынова Светлана Александровна": 15,
-      "Платошина Галина Геннадьевна": 9,
-      "Щербаков Вячеслав Дмитриевич": 1
+      "gas:candidate-vibid:4644006258740": 19,
+      "gas:candidate-vibid:4644006259326": 5,
+      "gas:candidate-vibid:4644006259241": 7,
+      "gas:candidate-vibid:4644006259178": 393,
+      "gas:candidate-vibid:4644006259162": 1,
+      "gas:candidate-vibid:4644006278698": 8,
+      "gas:candidate-vibid:4644006258093": 15,
+      "gas:candidate-vibid:4644006258648": 9,
+      "gas:candidate-vibid:4644006278635": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135294&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135294&type=464",
@@ -7256,15 +7256,15 @@ export const duma_2016_uik_463_region_64_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 74,
-      "Гавриличев Юрий Владимирович": 40,
-      "Игнатьев Дмитрий Андреевич": 14,
-      "Исаев Михаил Александрович": 1178,
-      "Козляков Илья Романович": 33,
-      "Купец Анна Владимировна": 4,
-      "Мартынова Светлана Александровна": 23,
-      "Платошина Галина Геннадьевна": 4,
-      "Щербаков Вячеслав Дмитриевич": 4
+      "gas:candidate-vibid:4644006258740": 74,
+      "gas:candidate-vibid:4644006259326": 40,
+      "gas:candidate-vibid:4644006259241": 14,
+      "gas:candidate-vibid:4644006259178": 1178,
+      "gas:candidate-vibid:4644006259162": 33,
+      "gas:candidate-vibid:4644006278698": 4,
+      "gas:candidate-vibid:4644006258093": 23,
+      "gas:candidate-vibid:4644006258648": 4,
+      "gas:candidate-vibid:4644006278635": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135294&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135294&type=464",
@@ -7315,15 +7315,15 @@ export const duma_2016_uik_463_region_64_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 72,
-      "Гавриличев Юрий Владимирович": 18,
-      "Игнатьев Дмитрий Андреевич": 6,
-      "Исаев Михаил Александрович": 905,
-      "Козляков Илья Романович": 8,
-      "Купец Анна Владимировна": 12,
-      "Мартынова Светлана Александровна": 136,
-      "Платошина Галина Геннадьевна": 19,
-      "Щербаков Вячеслав Дмитриевич": 24
+      "gas:candidate-vibid:4644006258740": 72,
+      "gas:candidate-vibid:4644006259326": 18,
+      "gas:candidate-vibid:4644006259241": 6,
+      "gas:candidate-vibid:4644006259178": 905,
+      "gas:candidate-vibid:4644006259162": 8,
+      "gas:candidate-vibid:4644006278698": 12,
+      "gas:candidate-vibid:4644006258093": 136,
+      "gas:candidate-vibid:4644006258648": 19,
+      "gas:candidate-vibid:4644006278635": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135294&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135294&type=464",
@@ -7374,15 +7374,15 @@ export const duma_2016_uik_463_region_64_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 27,
-      "Гавриличев Юрий Владимирович": 0,
-      "Игнатьев Дмитрий Андреевич": 0,
-      "Исаев Михаил Александрович": 496,
-      "Козляков Илья Романович": 0,
-      "Купец Анна Владимировна": 0,
-      "Мартынова Светлана Александровна": 92,
-      "Платошина Галина Геннадьевна": 0,
-      "Щербаков Вячеслав Дмитриевич": 0
+      "gas:candidate-vibid:4644006258740": 27,
+      "gas:candidate-vibid:4644006259326": 0,
+      "gas:candidate-vibid:4644006259241": 0,
+      "gas:candidate-vibid:4644006259178": 496,
+      "gas:candidate-vibid:4644006259162": 0,
+      "gas:candidate-vibid:4644006278698": 0,
+      "gas:candidate-vibid:4644006258093": 92,
+      "gas:candidate-vibid:4644006258648": 0,
+      "gas:candidate-vibid:4644006278635": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135294&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135294&type=464",
@@ -7433,15 +7433,15 @@ export const duma_2016_uik_463_region_64_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 96,
-      "Гавриличев Юрий Владимирович": 0,
-      "Игнатьев Дмитрий Андреевич": 0,
-      "Исаев Михаил Александрович": 949,
-      "Козляков Илья Романович": 0,
-      "Купец Анна Владимировна": 0,
-      "Мартынова Светлана Александровна": 33,
-      "Платошина Галина Геннадьевна": 0,
-      "Щербаков Вячеслав Дмитриевич": 0
+      "gas:candidate-vibid:4644006258740": 96,
+      "gas:candidate-vibid:4644006259326": 0,
+      "gas:candidate-vibid:4644006259241": 0,
+      "gas:candidate-vibid:4644006259178": 949,
+      "gas:candidate-vibid:4644006259162": 0,
+      "gas:candidate-vibid:4644006278698": 0,
+      "gas:candidate-vibid:4644006258093": 33,
+      "gas:candidate-vibid:4644006258648": 0,
+      "gas:candidate-vibid:4644006278635": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135294&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135294&type=464",
@@ -7492,15 +7492,15 @@ export const duma_2016_uik_463_region_64_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 58,
-      "Гавриличев Юрий Владимирович": 22,
-      "Игнатьев Дмитрий Андреевич": 19,
-      "Исаев Михаил Александрович": 926,
-      "Козляков Илья Романович": 10,
-      "Купец Анна Владимировна": 6,
-      "Мартынова Светлана Александровна": 88,
-      "Платошина Галина Геннадьевна": 26,
-      "Щербаков Вячеслав Дмитриевич": 21
+      "gas:candidate-vibid:4644006258740": 58,
+      "gas:candidate-vibid:4644006259326": 22,
+      "gas:candidate-vibid:4644006259241": 19,
+      "gas:candidate-vibid:4644006259178": 926,
+      "gas:candidate-vibid:4644006259162": 10,
+      "gas:candidate-vibid:4644006278698": 6,
+      "gas:candidate-vibid:4644006258093": 88,
+      "gas:candidate-vibid:4644006258648": 26,
+      "gas:candidate-vibid:4644006278635": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135294&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135294&type=464",
@@ -7551,15 +7551,15 @@ export const duma_2016_uik_463_region_64_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 26,
-      "Гавриличев Юрий Владимирович": 0,
-      "Игнатьев Дмитрий Андреевич": 0,
-      "Исаев Михаил Александрович": 1142,
-      "Козляков Илья Романович": 0,
-      "Купец Анна Владимировна": 0,
-      "Мартынова Светлана Александровна": 135,
-      "Платошина Галина Геннадьевна": 12,
-      "Щербаков Вячеслав Дмитриевич": 0
+      "gas:candidate-vibid:4644006258740": 26,
+      "gas:candidate-vibid:4644006259326": 0,
+      "gas:candidate-vibid:4644006259241": 0,
+      "gas:candidate-vibid:4644006259178": 1142,
+      "gas:candidate-vibid:4644006259162": 0,
+      "gas:candidate-vibid:4644006278698": 0,
+      "gas:candidate-vibid:4644006258093": 135,
+      "gas:candidate-vibid:4644006258648": 12,
+      "gas:candidate-vibid:4644006278635": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135294&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135294&type=464",
@@ -7610,15 +7610,15 @@ export const duma_2016_uik_463_region_64_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 12,
-      "Гавриличев Юрий Владимирович": 0,
-      "Игнатьев Дмитрий Андреевич": 0,
-      "Исаев Михаил Александрович": 861,
-      "Козляков Илья Романович": 6,
-      "Купец Анна Владимировна": 0,
-      "Мартынова Светлана Александровна": 99,
-      "Платошина Галина Геннадьевна": 7,
-      "Щербаков Вячеслав Дмитриевич": 0
+      "gas:candidate-vibid:4644006258740": 12,
+      "gas:candidate-vibid:4644006259326": 0,
+      "gas:candidate-vibid:4644006259241": 0,
+      "gas:candidate-vibid:4644006259178": 861,
+      "gas:candidate-vibid:4644006259162": 6,
+      "gas:candidate-vibid:4644006278698": 0,
+      "gas:candidate-vibid:4644006258093": 99,
+      "gas:candidate-vibid:4644006258648": 7,
+      "gas:candidate-vibid:4644006278635": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135294&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135294&type=464",
@@ -7669,15 +7669,15 @@ export const duma_2016_uik_463_region_64_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 57,
-      "Гавриличев Юрий Владимирович": 25,
-      "Игнатьев Дмитрий Андреевич": 22,
-      "Исаев Михаил Александрович": 730,
-      "Козляков Илья Романович": 14,
-      "Купец Анна Владимировна": 17,
-      "Мартынова Светлана Александровна": 23,
-      "Платошина Галина Геннадьевна": 7,
-      "Щербаков Вячеслав Дмитриевич": 5
+      "gas:candidate-vibid:4644006258740": 57,
+      "gas:candidate-vibid:4644006259326": 25,
+      "gas:candidate-vibid:4644006259241": 22,
+      "gas:candidate-vibid:4644006259178": 730,
+      "gas:candidate-vibid:4644006259162": 14,
+      "gas:candidate-vibid:4644006278698": 17,
+      "gas:candidate-vibid:4644006258093": 23,
+      "gas:candidate-vibid:4644006258648": 7,
+      "gas:candidate-vibid:4644006278635": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135294&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135294&type=464",
@@ -7728,15 +7728,15 @@ export const duma_2016_uik_463_region_64_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 25,
-      "Гавриличев Юрий Владимирович": 3,
-      "Игнатьев Дмитрий Андреевич": 3,
-      "Исаев Михаил Александрович": 159,
-      "Козляков Илья Романович": 3,
-      "Купец Анна Владимировна": 2,
-      "Мартынова Светлана Александровна": 7,
-      "Платошина Галина Геннадьевна": 2,
-      "Щербаков Вячеслав Дмитриевич": 3
+      "gas:candidate-vibid:4644006258740": 25,
+      "gas:candidate-vibid:4644006259326": 3,
+      "gas:candidate-vibid:4644006259241": 3,
+      "gas:candidate-vibid:4644006259178": 159,
+      "gas:candidate-vibid:4644006259162": 3,
+      "gas:candidate-vibid:4644006278698": 2,
+      "gas:candidate-vibid:4644006258093": 7,
+      "gas:candidate-vibid:4644006258648": 2,
+      "gas:candidate-vibid:4644006278635": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135294&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135294&type=464",
@@ -7787,15 +7787,15 @@ export const duma_2016_uik_463_region_64_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 5,
-      "Гавриличев Юрий Владимирович": 1,
-      "Игнатьев Дмитрий Андреевич": 0,
-      "Исаев Михаил Александрович": 59,
-      "Козляков Илья Романович": 0,
-      "Купец Анна Владимировна": 0,
-      "Мартынова Светлана Александровна": 1,
-      "Платошина Галина Геннадьевна": 3,
-      "Щербаков Вячеслав Дмитриевич": 4
+      "gas:candidate-vibid:4644006258740": 5,
+      "gas:candidate-vibid:4644006259326": 1,
+      "gas:candidate-vibid:4644006259241": 0,
+      "gas:candidate-vibid:4644006259178": 59,
+      "gas:candidate-vibid:4644006259162": 0,
+      "gas:candidate-vibid:4644006278698": 0,
+      "gas:candidate-vibid:4644006258093": 1,
+      "gas:candidate-vibid:4644006258648": 3,
+      "gas:candidate-vibid:4644006278635": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135294&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135294&type=464",
@@ -7846,15 +7846,15 @@ export const duma_2016_uik_463_region_64_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 24,
-      "Гавриличев Юрий Владимирович": 11,
-      "Игнатьев Дмитрий Андреевич": 2,
-      "Исаев Михаил Александрович": 229,
-      "Козляков Илья Романович": 3,
-      "Купец Анна Владимировна": 3,
-      "Мартынова Светлана Александровна": 17,
-      "Платошина Галина Геннадьевна": 6,
-      "Щербаков Вячеслав Дмитриевич": 3
+      "gas:candidate-vibid:4644006258740": 24,
+      "gas:candidate-vibid:4644006259326": 11,
+      "gas:candidate-vibid:4644006259241": 2,
+      "gas:candidate-vibid:4644006259178": 229,
+      "gas:candidate-vibid:4644006259162": 3,
+      "gas:candidate-vibid:4644006278698": 3,
+      "gas:candidate-vibid:4644006258093": 17,
+      "gas:candidate-vibid:4644006258648": 6,
+      "gas:candidate-vibid:4644006278635": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135294&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135294&type=464",
@@ -7905,15 +7905,15 @@ export const duma_2016_uik_463_region_64_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 9,
-      "Гавриличев Юрий Владимирович": 3,
-      "Игнатьев Дмитрий Андреевич": 1,
-      "Исаев Михаил Александрович": 269,
-      "Козляков Илья Романович": 3,
-      "Купец Анна Владимировна": 0,
-      "Мартынова Светлана Александровна": 13,
-      "Платошина Галина Геннадьевна": 3,
-      "Щербаков Вячеслав Дмитриевич": 0
+      "gas:candidate-vibid:4644006258740": 9,
+      "gas:candidate-vibid:4644006259326": 3,
+      "gas:candidate-vibid:4644006259241": 1,
+      "gas:candidate-vibid:4644006259178": 269,
+      "gas:candidate-vibid:4644006259162": 3,
+      "gas:candidate-vibid:4644006278698": 0,
+      "gas:candidate-vibid:4644006258093": 13,
+      "gas:candidate-vibid:4644006258648": 3,
+      "gas:candidate-vibid:4644006278635": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135294&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135294&type=464",
@@ -7964,15 +7964,15 @@ export const duma_2016_uik_463_region_64_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 107,
-      "Гавриличев Юрий Владимирович": 4,
-      "Игнатьев Дмитрий Андреевич": 2,
-      "Исаев Михаил Александрович": 383,
-      "Козляков Илья Романович": 1,
-      "Купец Анна Владимировна": 0,
-      "Мартынова Светлана Александровна": 9,
-      "Платошина Галина Геннадьевна": 7,
-      "Щербаков Вячеслав Дмитриевич": 2
+      "gas:candidate-vibid:4644006258740": 107,
+      "gas:candidate-vibid:4644006259326": 4,
+      "gas:candidate-vibid:4644006259241": 2,
+      "gas:candidate-vibid:4644006259178": 383,
+      "gas:candidate-vibid:4644006259162": 1,
+      "gas:candidate-vibid:4644006278698": 0,
+      "gas:candidate-vibid:4644006258093": 9,
+      "gas:candidate-vibid:4644006258648": 7,
+      "gas:candidate-vibid:4644006278635": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135294&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135294&type=464",
@@ -8023,15 +8023,15 @@ export const duma_2016_uik_463_region_64_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 51,
-      "Гавриличев Юрий Владимирович": 21,
-      "Игнатьев Дмитрий Андреевич": 8,
-      "Исаев Михаил Александрович": 702,
-      "Козляков Илья Романович": 1,
-      "Купец Анна Владимировна": 1,
-      "Мартынова Светлана Александровна": 36,
-      "Платошина Галина Геннадьевна": 11,
-      "Щербаков Вячеслав Дмитриевич": 7
+      "gas:candidate-vibid:4644006258740": 51,
+      "gas:candidate-vibid:4644006259326": 21,
+      "gas:candidate-vibid:4644006259241": 8,
+      "gas:candidate-vibid:4644006259178": 702,
+      "gas:candidate-vibid:4644006259162": 1,
+      "gas:candidate-vibid:4644006278698": 1,
+      "gas:candidate-vibid:4644006258093": 36,
+      "gas:candidate-vibid:4644006258648": 11,
+      "gas:candidate-vibid:4644006278635": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135294&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135294&type=464",
@@ -8082,15 +8082,15 @@ export const duma_2016_uik_463_region_64_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 31,
-      "Гавриличев Юрий Владимирович": 0,
-      "Игнатьев Дмитрий Андреевич": 0,
-      "Исаев Михаил Александрович": 243,
-      "Козляков Илья Романович": 0,
-      "Купец Анна Владимировна": 0,
-      "Мартынова Светлана Александровна": 10,
-      "Платошина Галина Геннадьевна": 0,
-      "Щербаков Вячеслав Дмитриевич": 1
+      "gas:candidate-vibid:4644006258740": 31,
+      "gas:candidate-vibid:4644006259326": 0,
+      "gas:candidate-vibid:4644006259241": 0,
+      "gas:candidate-vibid:4644006259178": 243,
+      "gas:candidate-vibid:4644006259162": 0,
+      "gas:candidate-vibid:4644006278698": 0,
+      "gas:candidate-vibid:4644006258093": 10,
+      "gas:candidate-vibid:4644006258648": 0,
+      "gas:candidate-vibid:4644006278635": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135294&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135294&type=464",
@@ -8141,15 +8141,15 @@ export const duma_2016_uik_463_region_64_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 112,
-      "Гавриличев Юрий Владимирович": 16,
-      "Игнатьев Дмитрий Андреевич": 8,
-      "Исаев Михаил Александрович": 562,
-      "Козляков Илья Романович": 6,
-      "Купец Анна Владимировна": 5,
-      "Мартынова Светлана Александровна": 15,
-      "Платошина Галина Геннадьевна": 9,
-      "Щербаков Вячеслав Дмитриевич": 7
+      "gas:candidate-vibid:4644006258740": 112,
+      "gas:candidate-vibid:4644006259326": 16,
+      "gas:candidate-vibid:4644006259241": 8,
+      "gas:candidate-vibid:4644006259178": 562,
+      "gas:candidate-vibid:4644006259162": 6,
+      "gas:candidate-vibid:4644006278698": 5,
+      "gas:candidate-vibid:4644006258093": 15,
+      "gas:candidate-vibid:4644006258648": 9,
+      "gas:candidate-vibid:4644006278635": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135294&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135294&type=464",
@@ -8200,15 +8200,15 @@ export const duma_2016_uik_463_region_64_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 61,
-      "Гавриличев Юрий Владимирович": 4,
-      "Игнатьев Дмитрий Андреевич": 0,
-      "Исаев Михаил Александрович": 691,
-      "Козляков Илья Романович": 1,
-      "Купец Анна Владимировна": 5,
-      "Мартынова Светлана Александровна": 10,
-      "Платошина Галина Геннадьевна": 7,
-      "Щербаков Вячеслав Дмитриевич": 3
+      "gas:candidate-vibid:4644006258740": 61,
+      "gas:candidate-vibid:4644006259326": 4,
+      "gas:candidate-vibid:4644006259241": 0,
+      "gas:candidate-vibid:4644006259178": 691,
+      "gas:candidate-vibid:4644006259162": 1,
+      "gas:candidate-vibid:4644006278698": 5,
+      "gas:candidate-vibid:4644006258093": 10,
+      "gas:candidate-vibid:4644006258648": 7,
+      "gas:candidate-vibid:4644006278635": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135294&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135294&type=464",
@@ -8259,15 +8259,15 @@ export const duma_2016_uik_463_region_64_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 101,
-      "Гавриличев Юрий Владимирович": 10,
-      "Игнатьев Дмитрий Андреевич": 8,
-      "Исаев Михаил Александрович": 697,
-      "Козляков Илья Романович": 4,
-      "Купец Анна Владимировна": 6,
-      "Мартынова Светлана Александровна": 19,
-      "Платошина Галина Геннадьевна": 4,
-      "Щербаков Вячеслав Дмитриевич": 7
+      "gas:candidate-vibid:4644006258740": 101,
+      "gas:candidate-vibid:4644006259326": 10,
+      "gas:candidate-vibid:4644006259241": 8,
+      "gas:candidate-vibid:4644006259178": 697,
+      "gas:candidate-vibid:4644006259162": 4,
+      "gas:candidate-vibid:4644006278698": 6,
+      "gas:candidate-vibid:4644006258093": 19,
+      "gas:candidate-vibid:4644006258648": 4,
+      "gas:candidate-vibid:4644006278635": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135294&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135294&type=464",

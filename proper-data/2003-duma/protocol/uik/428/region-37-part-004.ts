@@ -42,11 +42,11 @@ export const duma_2003_uik_428_region_37_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Михаил Викторович": 33,
-      "Маслов Александр Алексеевич": 66,
-      "Неволин Валерий Анатольевич": 1,
-      "Шевякова Алена Павловна": 12,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000225936": 33,
+      "gas:candidate-vibid:1001000190347": 66,
+      "gas:candidate-vibid:1001000112209": 1,
+      "gas:candidate-vibid:1001000289715": 12,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000029&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070527&region=0&sub_region=0&type=429",
@@ -96,11 +96,11 @@ export const duma_2003_uik_428_region_37_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Михаил Викторович": 76,
-      "Маслов Александр Алексеевич": 29,
-      "Неволин Валерий Анатольевич": 3,
-      "Шевякова Алена Павловна": 20,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000225936": 76,
+      "gas:candidate-vibid:1001000190347": 29,
+      "gas:candidate-vibid:1001000112209": 3,
+      "gas:candidate-vibid:1001000289715": 20,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000029&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070527&region=0&sub_region=0&type=429",
@@ -150,11 +150,11 @@ export const duma_2003_uik_428_region_37_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Михаил Викторович": 110,
-      "Маслов Александр Алексеевич": 19,
-      "Неволин Валерий Анатольевич": 9,
-      "Шевякова Алена Павловна": 35,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000225936": 110,
+      "gas:candidate-vibid:1001000190347": 19,
+      "gas:candidate-vibid:1001000112209": 9,
+      "gas:candidate-vibid:1001000289715": 35,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000029&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070527&region=0&sub_region=0&type=429",
@@ -204,11 +204,11 @@ export const duma_2003_uik_428_region_37_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Михаил Викторович": 72,
-      "Маслов Александр Алексеевич": 13,
-      "Неволин Валерий Анатольевич": 3,
-      "Шевякова Алена Павловна": 25,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000225936": 72,
+      "gas:candidate-vibid:1001000190347": 13,
+      "gas:candidate-vibid:1001000112209": 3,
+      "gas:candidate-vibid:1001000289715": 25,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000029&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070527&region=0&sub_region=0&type=429",
@@ -258,11 +258,11 @@ export const duma_2003_uik_428_region_37_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Михаил Викторович": 132,
-      "Маслов Александр Алексеевич": 87,
-      "Неволин Валерий Анатольевич": 4,
-      "Шевякова Алена Павловна": 26,
-      "Против всех": 31
+      "gas:candidate-vibid:1001000225936": 132,
+      "gas:candidate-vibid:1001000190347": 87,
+      "gas:candidate-vibid:1001000112209": 4,
+      "gas:candidate-vibid:1001000289715": 26,
+      "special:against-all": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000029&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070527&region=0&sub_region=0&type=429",
@@ -312,11 +312,11 @@ export const duma_2003_uik_428_region_37_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Михаил Викторович": 67,
-      "Маслов Александр Алексеевич": 34,
-      "Неволин Валерий Анатольевич": 4,
-      "Шевякова Алена Павловна": 21,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000225936": 67,
+      "gas:candidate-vibid:1001000190347": 34,
+      "gas:candidate-vibid:1001000112209": 4,
+      "gas:candidate-vibid:1001000289715": 21,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000029&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070527&region=0&sub_region=0&type=429",
@@ -366,11 +366,11 @@ export const duma_2003_uik_428_region_37_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Михаил Викторович": 588,
-      "Маслов Александр Алексеевич": 193,
-      "Неволин Валерий Анатольевич": 42,
-      "Шевякова Алена Павловна": 121,
-      "Против всех": 178
+      "gas:candidate-vibid:1001000225936": 588,
+      "gas:candidate-vibid:1001000190347": 193,
+      "gas:candidate-vibid:1001000112209": 42,
+      "gas:candidate-vibid:1001000289715": 121,
+      "special:against-all": 178
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000030&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070529&region=0&sub_region=0&type=429",
@@ -420,11 +420,11 @@ export const duma_2003_uik_428_region_37_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Михаил Викторович": 213,
-      "Маслов Александр Алексеевич": 41,
-      "Неволин Валерий Анатольевич": 15,
-      "Шевякова Алена Павловна": 65,
-      "Против всех": 67
+      "gas:candidate-vibid:1001000225936": 213,
+      "gas:candidate-vibid:1001000190347": 41,
+      "gas:candidate-vibid:1001000112209": 15,
+      "gas:candidate-vibid:1001000289715": 65,
+      "special:against-all": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000030&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070529&region=0&sub_region=0&type=429",
@@ -474,11 +474,11 @@ export const duma_2003_uik_428_region_37_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Михаил Викторович": 222,
-      "Маслов Александр Алексеевич": 49,
-      "Неволин Валерий Анатольевич": 20,
-      "Шевякова Алена Павловна": 53,
-      "Против всех": 46
+      "gas:candidate-vibid:1001000225936": 222,
+      "gas:candidate-vibid:1001000190347": 49,
+      "gas:candidate-vibid:1001000112209": 20,
+      "gas:candidate-vibid:1001000289715": 53,
+      "special:against-all": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000030&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070529&region=0&sub_region=0&type=429",
@@ -528,11 +528,11 @@ export const duma_2003_uik_428_region_37_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Михаил Викторович": 203,
-      "Маслов Александр Алексеевич": 63,
-      "Неволин Валерий Анатольевич": 20,
-      "Шевякова Алена Павловна": 42,
-      "Против всех": 52
+      "gas:candidate-vibid:1001000225936": 203,
+      "gas:candidate-vibid:1001000190347": 63,
+      "gas:candidate-vibid:1001000112209": 20,
+      "gas:candidate-vibid:1001000289715": 42,
+      "special:against-all": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000030&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070529&region=0&sub_region=0&type=429",
@@ -582,11 +582,11 @@ export const duma_2003_uik_428_region_37_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Михаил Викторович": 233,
-      "Маслов Александр Алексеевич": 85,
-      "Неволин Валерий Анатольевич": 25,
-      "Шевякова Алена Павловна": 62,
-      "Против всех": 74
+      "gas:candidate-vibid:1001000225936": 233,
+      "gas:candidate-vibid:1001000190347": 85,
+      "gas:candidate-vibid:1001000112209": 25,
+      "gas:candidate-vibid:1001000289715": 62,
+      "special:against-all": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000030&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070529&region=0&sub_region=0&type=429",
@@ -636,11 +636,11 @@ export const duma_2003_uik_428_region_37_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Михаил Викторович": 435,
-      "Маслов Александр Алексеевич": 114,
-      "Неволин Валерий Анатольевич": 75,
-      "Шевякова Алена Павловна": 86,
-      "Против всех": 133
+      "gas:candidate-vibid:1001000225936": 435,
+      "gas:candidate-vibid:1001000190347": 114,
+      "gas:candidate-vibid:1001000112209": 75,
+      "gas:candidate-vibid:1001000289715": 86,
+      "special:against-all": 133
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000030&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070529&region=0&sub_region=0&type=429",
@@ -690,11 +690,11 @@ export const duma_2003_uik_428_region_37_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Михаил Викторович": 464,
-      "Маслов Александр Алексеевич": 127,
-      "Неволин Валерий Анатольевич": 44,
-      "Шевякова Алена Павловна": 88,
-      "Против всех": 129
+      "gas:candidate-vibid:1001000225936": 464,
+      "gas:candidate-vibid:1001000190347": 127,
+      "gas:candidate-vibid:1001000112209": 44,
+      "gas:candidate-vibid:1001000289715": 88,
+      "special:against-all": 129
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000030&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070529&region=0&sub_region=0&type=429",
@@ -744,11 +744,11 @@ export const duma_2003_uik_428_region_37_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Михаил Викторович": 459,
-      "Маслов Александр Алексеевич": 228,
-      "Неволин Валерий Анатольевич": 42,
-      "Шевякова Алена Павловна": 95,
-      "Против всех": 146
+      "gas:candidate-vibid:1001000225936": 459,
+      "gas:candidate-vibid:1001000190347": 228,
+      "gas:candidate-vibid:1001000112209": 42,
+      "gas:candidate-vibid:1001000289715": 95,
+      "special:against-all": 146
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000030&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070529&region=0&sub_region=0&type=429",
@@ -798,11 +798,11 @@ export const duma_2003_uik_428_region_37_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Михаил Викторович": 109,
-      "Маслов Александр Алексеевич": 25,
-      "Неволин Валерий Анатольевич": 5,
-      "Шевякова Алена Павловна": 22,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000225936": 109,
+      "gas:candidate-vibid:1001000190347": 25,
+      "gas:candidate-vibid:1001000112209": 5,
+      "gas:candidate-vibid:1001000289715": 22,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000030&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070529&region=0&sub_region=0&type=429",
@@ -852,11 +852,11 @@ export const duma_2003_uik_428_region_37_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Михаил Викторович": 100,
-      "Маслов Александр Алексеевич": 18,
-      "Неволин Валерий Анатольевич": 3,
-      "Шевякова Алена Павловна": 12,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000225936": 100,
+      "gas:candidate-vibid:1001000190347": 18,
+      "gas:candidate-vibid:1001000112209": 3,
+      "gas:candidate-vibid:1001000289715": 12,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000030&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070529&region=0&sub_region=0&type=429",
@@ -906,11 +906,11 @@ export const duma_2003_uik_428_region_37_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Михаил Викторович": 204,
-      "Маслов Александр Алексеевич": 90,
-      "Неволин Валерий Анатольевич": 19,
-      "Шевякова Алена Павловна": 58,
-      "Против всех": 48
+      "gas:candidate-vibid:1001000225936": 204,
+      "gas:candidate-vibid:1001000190347": 90,
+      "gas:candidate-vibid:1001000112209": 19,
+      "gas:candidate-vibid:1001000289715": 58,
+      "special:against-all": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000030&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070529&region=0&sub_region=0&type=429",
@@ -960,11 +960,11 @@ export const duma_2003_uik_428_region_37_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Михаил Викторович": 72,
-      "Маслов Александр Алексеевич": 12,
-      "Неволин Валерий Анатольевич": 6,
-      "Шевякова Алена Павловна": 7,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000225936": 72,
+      "gas:candidate-vibid:1001000190347": 12,
+      "gas:candidate-vibid:1001000112209": 6,
+      "gas:candidate-vibid:1001000289715": 7,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000030&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070529&region=0&sub_region=0&type=429",
@@ -1014,11 +1014,11 @@ export const duma_2003_uik_428_region_37_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Михаил Викторович": 252,
-      "Маслов Александр Алексеевич": 63,
-      "Неволин Валерий Анатольевич": 7,
-      "Шевякова Алена Павловна": 37,
-      "Против всех": 33
+      "gas:candidate-vibid:1001000225936": 252,
+      "gas:candidate-vibid:1001000190347": 63,
+      "gas:candidate-vibid:1001000112209": 7,
+      "gas:candidate-vibid:1001000289715": 37,
+      "special:against-all": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000030&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070529&region=0&sub_region=0&type=429",
@@ -1068,11 +1068,11 @@ export const duma_2003_uik_428_region_37_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Михаил Викторович": 60,
-      "Маслов Александр Алексеевич": 11,
-      "Неволин Валерий Анатольевич": 3,
-      "Шевякова Алена Павловна": 12,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000225936": 60,
+      "gas:candidate-vibid:1001000190347": 11,
+      "gas:candidate-vibid:1001000112209": 3,
+      "gas:candidate-vibid:1001000289715": 12,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000030&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070529&region=0&sub_region=0&type=429",
@@ -1122,11 +1122,11 @@ export const duma_2003_uik_428_region_37_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Михаил Викторович": 107,
-      "Маслов Александр Алексеевич": 64,
-      "Неволин Валерий Анатольевич": 12,
-      "Шевякова Алена Павловна": 39,
-      "Против всех": 56
+      "gas:candidate-vibid:1001000225936": 107,
+      "gas:candidate-vibid:1001000190347": 64,
+      "gas:candidate-vibid:1001000112209": 12,
+      "gas:candidate-vibid:1001000289715": 39,
+      "special:against-all": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000030&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070529&region=0&sub_region=0&type=429",
@@ -1176,11 +1176,11 @@ export const duma_2003_uik_428_region_37_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Михаил Викторович": 101,
-      "Маслов Александр Алексеевич": 31,
-      "Неволин Валерий Анатольевич": 4,
-      "Шевякова Алена Павловна": 18,
-      "Против всех": 43
+      "gas:candidate-vibid:1001000225936": 101,
+      "gas:candidate-vibid:1001000190347": 31,
+      "gas:candidate-vibid:1001000112209": 4,
+      "gas:candidate-vibid:1001000289715": 18,
+      "special:against-all": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000030&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070529&region=0&sub_region=0&type=429",
@@ -1230,11 +1230,11 @@ export const duma_2003_uik_428_region_37_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Михаил Викторович": 39,
-      "Маслов Александр Алексеевич": 9,
-      "Неволин Валерий Анатольевич": 0,
-      "Шевякова Алена Павловна": 10,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000225936": 39,
+      "gas:candidate-vibid:1001000190347": 9,
+      "gas:candidate-vibid:1001000112209": 0,
+      "gas:candidate-vibid:1001000289715": 10,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000030&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070529&region=0&sub_region=0&type=429",
@@ -1284,11 +1284,11 @@ export const duma_2003_uik_428_region_37_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Михаил Викторович": 83,
-      "Маслов Александр Алексеевич": 25,
-      "Неволин Валерий Анатольевич": 7,
-      "Шевякова Алена Павловна": 28,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000225936": 83,
+      "gas:candidate-vibid:1001000190347": 25,
+      "gas:candidate-vibid:1001000112209": 7,
+      "gas:candidate-vibid:1001000289715": 28,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000030&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070529&region=0&sub_region=0&type=429",
@@ -1338,11 +1338,11 @@ export const duma_2003_uik_428_region_37_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Михаил Викторович": 52,
-      "Маслов Александр Алексеевич": 14,
-      "Неволин Валерий Анатольевич": 0,
-      "Шевякова Алена Павловна": 13,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000225936": 52,
+      "gas:candidate-vibid:1001000190347": 14,
+      "gas:candidate-vibid:1001000112209": 0,
+      "gas:candidate-vibid:1001000289715": 13,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000030&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070529&region=0&sub_region=0&type=429",
@@ -1392,11 +1392,11 @@ export const duma_2003_uik_428_region_37_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Михаил Викторович": 108,
-      "Маслов Александр Алексеевич": 35,
-      "Неволин Валерий Анатольевич": 5,
-      "Шевякова Алена Павловна": 32,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000225936": 108,
+      "gas:candidate-vibid:1001000190347": 35,
+      "gas:candidate-vibid:1001000112209": 5,
+      "gas:candidate-vibid:1001000289715": 32,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000030&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070529&region=0&sub_region=0&type=429",
@@ -1446,11 +1446,11 @@ export const duma_2003_uik_428_region_37_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Михаил Викторович": 47,
-      "Маслов Александр Алексеевич": 19,
-      "Неволин Валерий Анатольевич": 1,
-      "Шевякова Алена Павловна": 13,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000225936": 47,
+      "gas:candidate-vibid:1001000190347": 19,
+      "gas:candidate-vibid:1001000112209": 1,
+      "gas:candidate-vibid:1001000289715": 13,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000030&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070529&region=0&sub_region=0&type=429",
@@ -1500,11 +1500,11 @@ export const duma_2003_uik_428_region_37_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Михаил Викторович": 106,
-      "Маслов Александр Алексеевич": 74,
-      "Неволин Валерий Анатольевич": 9,
-      "Шевякова Алена Павловна": 33,
-      "Против всех": 25
+      "gas:candidate-vibid:1001000225936": 106,
+      "gas:candidate-vibid:1001000190347": 74,
+      "gas:candidate-vibid:1001000112209": 9,
+      "gas:candidate-vibid:1001000289715": 33,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000030&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070529&region=0&sub_region=0&type=429",
@@ -1554,11 +1554,11 @@ export const duma_2003_uik_428_region_37_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бабич Михаил Викторович": 71,
-      "Маслов Александр Алексеевич": 27,
-      "Неволин Валерий Анатольевич": 9,
-      "Шевякова Алена Павловна": 27,
-      "Против всех": 35
+      "gas:candidate-vibid:1001000225936": 71,
+      "gas:candidate-vibid:1001000190347": 27,
+      "gas:candidate-vibid:1001000112209": 9,
+      "gas:candidate-vibid:1001000289715": 27,
+      "special:against-all": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000030&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070529&region=0&sub_region=0&type=429",
